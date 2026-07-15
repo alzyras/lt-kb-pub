@@ -35,30 +35,6 @@ Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes
   teiginys: "Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą."
   pagrindžia:
     - c-45477
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Miške į šiaurę nuo
-    Kolupių kaimo į nelaisvę buvo paimta
-    18 raudonarmiečių. Bolševikai tos pa-
-    čios dienos vakare buvo priversi palikti
-    Kėdainių apylinkes ir atsitraukti į Šėtą.
-    Nedidelės ir prastai ginkluotos lietuvių
-    pajėgos, parodžiusios drąsą ir ištvermę,
-    sugebėjo atlaikyti daug didesnių pajėgų
-    puolimą ir neleido užgrobti bolševikų
-    strateginiuose planuose numatytą užimti
-    svarbų punktą - Kėdainius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

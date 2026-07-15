@@ -34,22 +34,6 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
   teiginys: "Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą."
   pagrindžia:
     - c-32764
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
-    prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
-    Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
-    jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -45,7 +45,6 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178860|Kryžiuočių ordinas]]: Hermanas iš Zalcos, Teutonų ordino didysis magistras, 1230 m. atsiuntė Hermaną Balką eiti magistro pareigų.
 - susijęs iš [[objektai/asmenys/Henrikas iš Ceico.md#claim-t-60312|Henrikas iš Ceico]]: Henrikas iš Ceico iš Vitchendorfo kaimo buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vitchendorfas buvo kaimas Saksonijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -85,8 +84,7 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
 - id: c-59381
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 322"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 322."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Viškonys
     Višogrudas (Wischerot, Wischegrot, dab. Fordonas)
@@ -99,8 +97,10 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
     Vizna
     Vloclavekas
     Vokietija
-       Vakarų Vokietija
-        vokiečiai
+
+    Vakarų Vokietija
+
+    vokiečiai
     Volfenbiutelis
     Volferštorfas
     Volynė
@@ -110,6 +110,10 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
     Vroclavas
     Vundenava, Vuntenovė (žr. Baiga)
     Vurungenas
+    Zalca
+    Zalfeldas
+    Zangershauzenas
+    Zelionogradskas (buv.
   citata_rodoma: "Vištytis, miestelis\nVitchendorfas, k. Saksonijoje\nVitlandas (Witland, Withlandia)\nViurcburgas\nVizenburgas  (žr."
   statusas: verified
   teiginio_tipas: faktas

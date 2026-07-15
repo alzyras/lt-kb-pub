@@ -50,8 +50,8 @@ Nenurodyta
   teiginys: "Narbutas rašo, kad vyriausiasis žynys vadovaudavo didiesiems aukų atnašavimams, o priešais jį būdavo nešiojama lazda su trimis užlenkimais."
   pagrindžia:
     - c-172762
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad vyriausiasis žynys vadovaudavo didiesiems aukų atnašavimams, o priešais jį būdavo nešiojama lazda su trimis užlenkimais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -75,15 +75,17 @@ Nenurodyta
 - id: c-172762
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 288"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 288."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kai tik kas numirdavęs, to
-    šešėlis praslinkdavęs pro vyriausiojo žynio namą, jeigu nesiti­
-    kėdavęs patekti su žemesniojo krivio duotu leidimu į laimės
-    prieglobstį, paruoštą jam po mirties. Vyriausiasis žynys vado­
-    vaudavo didiesiems aukų atnašavimams. Priešais jį buvo ne­
-    šiojama vyriausiojo žynio lazda su trimis užlenkimais.
+    Tai buvo žymiai, reziduojantys prie įvairių šventyklų ir žymes­
+    niosiose gyvenamosiose vietovėse arba miestuose, vadovau­
+    jantys vaidiloms. Jie galėjo atnašauti aukas tik vienoje vieto­
+    vėje. Krivis nepalikdavo savo aukuro net per didžiausią pavo­
+    jų. Priešas, pasiekęs pilį, turėdavo žūti aukuro papėdėje arba
+    prašyti pasigailėjimo. Religija suteikdavo kriviams valdžią tam
+    tikroje apygardoje, apskrityje arba vėliavoje; jam buvo paval­
+    dūs visi žemesnieji kunigai.
+  citata_rodoma: "Kai tik kas numirdavęs, to\nšešėlis praslinkdavęs pro vyriausiojo žynio namą, jeigu nesiti­\nkėdavęs patekti su žemesniojo krivio duotu leidimu į laimės\nprieglobstį, paruoštą jam po mirties. Vyriausiasis žynys vado­\nvaudavo didiesiems aukų atnašavimams. Priešais jį buvo ne­\nšiojama vyriausiojo žynio lazda su trimis užlenkimais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,25 +41,6 @@ Tuo tarpu Vokietija ir Austrija Vengrija 1916 metais lapkričio 5 dieną paskelb
   teiginys: "Tačiau nė vienas lietuvis nesutiko įeiti į tokią tarybą."
   pagrindžia:
     - c-176033
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tačiau nė vienas lietuvis nesutiko įeiti į tokią tarybą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau nė vienas lietuvis nesutiko įeiti į to-
-    kią tarybą.
-    Tuo tarpu Vokietija ir Austrija Vengrija 1916 metais lap-
-    kričio 5 dieną paskelbė Lenkijos valstybę atstatomą iš Rusijai
-    priklausiusių žemių. Naujoji Lenkų Valstybės Taryba netru-
-    kus pareiškė savo pretenzijas į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

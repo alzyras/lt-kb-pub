@@ -35,35 +35,13 @@ Napoleonas, pasak Narbuto, apie Lietuvą yra pasakęs, kad joje yra penktasis el
   teiginys: "Napoleonas, pasak Narbuto, apie Lietuvą yra pasakęs, kad joje yra penktasis elementas, t. y. balos."
   pagrindžia:
     - c-174992
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    47 /P.
-    123, 4 pastraipos
-    2 sakinio minties tęsinys/
-    Kai kas Lietuvos vardą kildino iš to dievuko, t. y. iš lietaus, nes
-    tas kraštas visuomet buvo lietingas. Napoleonas yra pasakęs: „Lie­
-    tuvoje yra penktasis elementas, t. y. balos!“1. Negalima ginčyti,
-    jog Lietuva, kuri ir dabar turi didžiulių miškų, buvo labai drėg­
-    nas kraštas; ir dabar vasaros čia yra labai lietingos. Taigi šios
-    išvados patvirtina mūsų spėjimus dėl šio krašto vardo kilmės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174992
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 476"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 476."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     47 /P.
     123, 4 pastraipos

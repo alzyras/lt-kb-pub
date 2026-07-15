@@ -40,29 +40,13 @@ Dusburgietis teigia, kad [Powierski J.] Warmia.— SSS, Wrocław—Warszawa—Kr
   teiginys: "J. Powierskio „Warmia“ nurodyta 1980 m. SSS VI tomo 2 dalies 329-332 puslapiuose."
   pagrindžia:
     - c-61888
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Powierskio „Warmia“ nurodyta 1980 m. SSS VI tomo 2 dalies 329-332 puslapiuose.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    [Powierski J.] Warmia.— SSS, Wrocław—Warszawa—Kraków—Gdańsk, 1980, t. VI, cz.
-    2, s. 329—332.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61888
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     [Powierski J.] Warmia.— SSS, Wrocław—Warszawa—Kraków—Gdańsk, 1980, t. VI, cz.
     2, s. 329—332.

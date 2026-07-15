@@ -35,39 +35,13 @@ Narbutas pateikia kitų siūlymą tą patį užrašą skaityti kaip „Sotwar“
   teiginys: "Narbutas rašo, kad kiti Santvaro ženklo užrašą skaitė kaip „Sotwar“ arba rusiškai „Sotworytel“ ir nelaikė jo pagonišku simboliu."
   pagrindžia:
     - c-175019
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad kiti Santvaro ženklo užrašą skaitė kaip „Sotwar“ arba rusiškai „Sotworytel“ ir nelaikė jo pagonišku simboliu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    93 /P.
-    194,
-    nenurodyta
-    vieta/
-    Dėl Santvaro atvaizdo buvo įvairiausių nuomonių. Visų pirma
-    buvo abejojama dėl popieriaus autentiškumo: ar jis priklausė iki-
-    krikščioniškajai epochai ir 200 metais buvo panaudotas dokumentui
-    rašyti. Bet buvo rastas popierius su tokiu pat ženklu, tik be ratinio
-    užrašo; jis įtikino, jog kažkur Lietuvoje arba Lietuvos Rusioje bu­
-    vo fabrikas, gaminęs tokios rūšies popierių. Taigi galėjo panašus
-    egzistuoti nuo seno. Kiti skaitė Sotwar, rusiškai Sotworytel, ir
-    net nemanė jį esant pagonišką simbolį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-175019
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 488"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     93 /P.
     194,

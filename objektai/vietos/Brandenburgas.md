@@ -55,52 +55,12 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
 - susijęs iš Upytės apskritis: Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejamų su hirių ir hendų gyvenama Žemaitijos dalimi.
 - susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
 - susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas manė, kad dalyje Žemaitijos religines apeigas atnešė ateiviai iš Brandenburgo, o tame krašte liko akmens paminklų pavyzdžių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
-    liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai
-    ir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti
-    religinės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie
-    juos dar teks pakalbėti). Tame krašte galima rasti akivaizdesnių
-    ir gausesnių tokių akmens paminklų pavyzdžių20.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nors ir merdėdamas, ordinas
-
-
-    betgi dar išgyveno daugiau, kaip 50 metų. Atitekusi Branden-
-    burgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir to-
-    liau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.
-    **6.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-171871
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 142"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 142."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
     liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai

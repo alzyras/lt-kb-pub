@@ -59,22 +59,6 @@ Nenurodyta
   teiginys: "1322 m. lietuviai įsiveržė į Estiją, o kryžiuočiai per lietuvių puolimą Livonijoje įsiveržė į Žemaitijos gilumą."
   pagrindžia:
     - c-28749
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuviams užteko jėgos ne tik gintis, bet ir priešą puldinėti
-    Prūsuose ir Livonijoje (1318-19). 1322 m. jie įsiveržė Estijon. Lie­
-    tuviams puolant Livoniją, kryžiuočiai įsiveržė Žemaičių gilumon ir
-    padarė daug nuostolių^6.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

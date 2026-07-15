@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Gebhardas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1243 m.'
@@ -33,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis 373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos punkto, svarbą Ordinui.
+Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą.
 
 ## Teiginiai
 
@@ -49,39 +50,12 @@ Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos,
 - susijęs iš [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus).md#claim-t-60446|Tomas (Hertvigo iš Pokarvių sūnus)]]: Kronikoje pasakojama, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, mirė ir atgijo per Viešpaties kryžiaus atskalą.
 - susijęs iš [[objektai/ivykiai/Dusburgiečio pasakojamas Tomo sūnaus prisikėlimas Brandenburgo pilyje (1322 m.).md#claim-t-62249|Dusburgiečio pasakojamas Tomo sūnaus prisikėlimas Brandenburgo pilyje (1322 m.)]]: 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, esą mirė ir atgijo per Viešpaties kryžiaus atskalą.
 - susijęs iš Brandenburgo pilis: Dusburgietis pasakoja, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas mirė ir atgijo per Viešpaties kryžiaus atskalą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis
-      373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos
-    punkto, svarbą Ordinui.
-      374 D.— Super aquam Prigore, Jer. — Pregor; Prieglius, pr. Preigarā (lie. *Priegara),
-    plg. Pragora (upėvardis, Kražiai), lie. pragaras, pragarmė (PUB, 1, 1, Nr. 143, p. 108,
-    1243 m.— Pregora sive Lipza; GAO, p. 135; Būga K., 1, p. 511; Savukynas B., Dėl M.
-    Rudnickio..., p. 323; MPKP, 1, p. 17; 2, p. 241; Daubaras F., Iš prūsų hidronimijos, p.
-    171; plg. Vėlius N., Senovės baltų..., p. 206—207).
-
-    bėgančius prūsus ir vienam jų vienu kirčiu nukirto kalaviju galvą, tačiau tas po šitokio
-    smūgio nekrito tučtuojau žemėn, o tol bėgo be galvos kurį laiką drauge su kitais tuo
-    pat keliu, kol sukniubo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60915
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 120-121"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120-121."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis
       373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos

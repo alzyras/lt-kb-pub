@@ -60,27 +60,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - susijęs iš Archangelsko gubernija: 1901 m. vasarą Augustas Robertas Niemi keliavo po Archangelsko guberniją rinkdamas dainas.
 - susijęs iš Estų salos: 1899 m. Augustas Robertas Niemi keliavo į Estų salas, kur rinko estų liaudies dainas.
 - susijęs iš Norvegija: 1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tuo metu Maskva buvo užgrobusi Tartų, dar vadintų Dorpatu, vyskupystę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-
-    klausomos iki 1582 m., kada jį nukariavo Steponas Batoras.
-    Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vys-
-    kupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o
-    Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
-    tenę, ir Saremos (Eželio) vyskupystę. Bet didžiausioji Livonijos
-    dalis teko Lietuvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-03021

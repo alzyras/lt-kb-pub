@@ -36,37 +36,13 @@ Adrianas Balbi suskaičiavo 860 tuo metu žinomų kalbų, kuriose, Narbuto perte
   teiginys: "Adrianas Balbi suskaičiavo 860 tuo metu žinomų kalbų, kuriose, Narbuto perteikimu, buvo galima atsekti mažiausiai 5 tūkstančius dialektų."
   pagrindžia:
     - c-174485
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Adrianas Balbi suskaičiavo 860 tuo metu žinomų kalbų, kuriose, Narbuto perteikimu, buvo galima atsekti mažiausiai 5 tūkstančius dialektų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    196 /P.
-    366, 3
-    pastraipos
-    tęsinys/
-    Žmonių kalbų yra labai daug, ir vargu ar įmanoma suskaičiuoti
-    jų dialektus. Balbi rado 860 dabar žinomų kalbų, kuriose galima
-    atsekti mažiausiai 5 tūkstančius dialektų. O kokios plačios gali­
-    mybės ieškoti panašumų ir lyginti! Tautų esmę, kilmę ir gimi­
-    nystę galima paaiškinti tik suradus išvestinio tautų giminingumo
-    vietą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174485
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 514"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 514."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     196 /P.
     366, 3

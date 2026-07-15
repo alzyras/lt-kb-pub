@@ -50,38 +50,13 @@ Nenurodyta
   teiginys: "Broliai ant kalvos prieš tiltą į Baigos pilies lauką pastatė Šnikenbergo pilį ir įkurdino joje brolius, Hertvigą bei kitus karingus vyrus."
   pagrindžia:
     - c-63239
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Broliai ant kalvos prieš tiltą į Baigos pilies lauką pastatė Šnikenbergo pilį ir įkurdino joje brolius, Hertvigą bei kitus karingus vyrus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    24. Apie Šnikenbergo pilies pastatymą
-
-      Tą lauką, kur stovi Baigos pilis, supa pelkės, ten net vasaros metu tegalima pakliūti
-    tiltu, prieš kurį ant vienos kalvos broliai pastatė pilį, vardu Šnikenbergas251, įkurdinę joje
-    daug brolių ir vieną kilmingą vyrą Hertvigą, Hertvigo iš Pokarvių tėvą, bei kitus karingus
-    vyrus, kurie trukdė netikėliams įsibrauti.
-
-
-
-
-                        25.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63239
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 81"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     24. Apie Šnikenbergo pilies pastatymą
 

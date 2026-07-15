@@ -37,65 +37,72 @@ media_all_json: |-
 
 ## Santrauka
 
-Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutinę pilį ir teikė pagalbą Moskožovskiui. Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu. Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį.
+Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu. Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį. Narimantas nenorėjo taip spręsti valstybės reikalų, kad broliai galėtų jam prikaišioti, jog sprendžia perdaug griežtai: dėl savo sprendimo jis nenorėjo vienas pats susilaukti visuo tinės neapykantos.
 
 ## Teiginiai
 
-<a id="claim-t-186073"></a>
-- t-001
-  global_id: t-186073
-  teiginys: "Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutinę pilį ir teikė pagalbą Moskožovskiui."
-  pagrindžia:
-    - c-169434
-
 <a id="claim-t-186074"></a>
-- t-002
+- t-001
   global_id: t-186074
   teiginys: "Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu."
   pagrindžia:
     - c-169435
 
 <a id="claim-t-190930"></a>
-- t-003
+- t-002
   global_id: t-190930
   teiginys: "Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį."
   pagrindžia:
     - c-173812
 
 <a id="claim-t-193400"></a>
-- t-004
+- t-003
   global_id: t-193400
   teiginys: "Narimantas nenorėjo taip spręsti valstybės reikalų, kad broliai galėtų jam prikaišioti, jog sprendžia perdaug griežtai: dėl savo sprendimo jis nenorėjo vienas pats susilaukti visuo tinės neapykantos."
   pagrindžia:
     - c-176122
 
-<a id="claim-t-193965"></a>
-- t-005
-  global_id: t-193965
-  teiginys: "2/3 3 Narimanto vardas, matyt, paimtas iš Lietuvos metraščių TS, kur išvardijami Gedimino sūnūs."
-  pagrindžia:
-    - c-176590
-
 <a id="claim-t-193966"></a>
-- t-006
+- t-005
   global_id: t-193966
-  teiginys: "Romanui gimė penki sūnūs: vyriausias — NarimantasJ, antras — Daumantas3 , trečias — Alšys \ ketvirtas — Giedrys 5 , penktas —Traidenis 6 ."
+  teiginys: "Lietuvos metraštyje Narimantas vadinamas didžiuoju kunigaikščiu ir pasakojama, kad jis vedė livoniečio Fledro dukterį."
   pagrindžia:
     - c-176591
 
 <a id="claim-t-193967"></a>
-- t-007
+- t-006
   global_id: t-193967
   teiginys: "Didysis kunigaikštis Narimantas pasiėmė sau žmoną minėto livoniečio Fledro dukterį, jo brolis Daumantas vedė antrąją to paties Fledro 2 1 dukterį."
   pagrindžia:
     - c-176592
 
 <a id="claim-t-193968"></a>
-- t-008
+- t-007
   global_id: t-193968
   teiginys: "Ir dėl šito tarp brolių — didžiojo kuni gaikščio Narimanto ir kunigaikščio Daumanto — kilo baisus pyktis ir nesantaika."
   pagrindžia:
     - c-176593
+
+<a id="claim-t-196861"></a>
+- t-008
+  global_id: t-196861
+  teiginys: "Lietuvos metraštyje Narimantas vadinamas didžiuoju kunigaikščiu ir pasakojama, kad jis vedė livoniečio Fledro dukterį, o jo brolis Daumantas - kitą Fledro dukterį."
+  pagrindžia:
+    - c-176591
+
+<a id="claim-t-196862"></a>
+- t-009
+  global_id: t-196862
+  teiginys: "Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas."
+  pagrindžia:
+    - c-176592
+
+<a id="claim-t-193965"></a>
+- t-004
+  global_id: t-193965
+  teiginys: 'Leidinio pastaboje Narimanto vardas siejamas su Lietuvos metraščių sąrašu, kuriame išvardijami Gedimino sūnūs, ir nurodoma, kad Gedimino sūnus Narimantas gyveno 1277-1348 m.'
+  pagrindžia:
+    - c-176590
 - susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Patrikas, arba Patricijus.md#claim-t-87816|Patrikas, arba Patricijus]]: Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.
@@ -110,114 +117,41 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-82662|Simonas Lengvenis (valdovas, XIV a.)]]: Simonas Lengvenis citatoje vadinamas Lietuvos kunigaikščiu, Algirdo sūnumi ir Rusios bei Ladogos kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-82664|Simonas Lengvenis (valdovas, XIV a.)]]: Simonas Lengvenis, Algirdo sūnus, po Patriko tapo Didžiojo Naugardo valdovu arba vaivada.
 - susijęs iš [[objektai/autoriai/Karamzinas.md#claim-t-55009|Karamzinas]]: Balinskis teigė, kad Karamzinas Lietuvos istorijos įvykius dėstė gana paviršutiniškai.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
-- susijęs iš [[objektai/ivykiai/Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.).md#claim-t-185740|Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.)]]: Narimantas ir Traidenis nusprendė išvyti lenkus iš jotvingių žemių ir atkurti ten senąsias lietuvių teises.
+- susijęs iš [[objektai/ivykiai/Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.).md#claim-t-185740|Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.)]]: 1281 m. lietuviai užėmė jotvingių kraštą, o Traidenis Bebro pakrantėje įkūrė Raigardo sodybvietę kaip gynybinę pilį.
 - susijęs iš [[objektai/ivykiai/Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.).md#claim-t-185741|Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.)]]: 1281 metais išlikę jotvingiai, pamatę lietuvių kariuomenę, atsimetė nuo lenkų ir prisidėjo prie lietuvių.
 - susijęs iš Lietuvos kronika: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, priklausomu nuo Lietuvos didžiojo kunigaikščio ir mokėjusiu duoklę.
-- susijęs iš Pinskas: Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Pinskas: Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.
-- susijęs iš Pskovas: Pskove Daumantas sėkmingai vadovavo pskoviečių jėgoms prieš Livoniją, o viena gynybinė siena vadinta jo vardu.
 - susijęs iš Strėva: Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Utena: Kojelavičiaus pasakojime Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotoju vadintas žmogus.
 - susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184687|Daumantas (kunigaikštis, XV a.)]]: Po žmonos laidotuvių Daumantas prievarta pasiliko Narimanto žmoną, norėdamas ja pakeisti mirusiąją.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutinę pilį ir teikė pagalbą Moskožovskiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Plyšius
+    Vytautas manė, jog patirto pralai­
+    mėjimo palaužti pilėnai lengvai pasiduos, todėl, apsu­
+    pęs iš visų pusių, jis toliau puolė, ypač dėl to, kad
+    Plikojo kalno pusėje patrankų sviediniais apgriovus
+    Aukštutinės pilies sieną, puolėjams nelyginant atsivėrė
+    platus kelias. Vis dėlto nors seko gynėjų gretos, nema­
+    žėjo nei jų narsumas, nei atkaklumas; visas priešo pas­
+    tangas Moskožovskis ryžtingai vertė niekais. Plyšius
     sienose gynėjai kamšė gyvulių odomis ar žvyro mai­
     šais, norėdami laikinai jas paslėpti nuo priešo akių; tuo
     pat metu, be galo greitai sunešę žemių bei kitokios me­
-    džiagos, stengėsi jas užtaisyti. Tarp kitų begaliniu nar­
-    sumu pasižymėjo Pinsko kunigaikštis Narimantas, su
-    savo vyrais ne tik narsiai gynęs ugnies apgriautą Že­
-    mutinę pilį, bet ir, esant reikalui, laiku teikęs pagalbą
-    Moskožovskiui. Galop, vieno Vytauto bajoro iškviestas
-    į dvikovą, po narsios, bet nesėkmingos kovos, ietimi
-    numestas nuo žirgo, gyvas pateko į priešų rankas.
+    džiagos, stengėsi jas užtaisyti.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vytautas
-    įniršo ir, apgailestaudamas, kad visas šis žygis sužlugo,
-    be to, nevaliodamas kitaip išlieti bejėgio pykčio, pasi­
-    elgė su belaisviu Narimantu pikčiau nei laukinis. Jį
-    pakorė gretimoje pievoje už kojų ant guobos šakos,
-    taip pakorė, kad kūną galėtų kliudyti apsuptųjų svie­
-    diniai bei strėlės, o vėliau pats savo ranka iš lanko
-    pribaigė. Galop, netekęs vilties užkariauti pilis, pra­
-    radęs daug savo vyrų, be ki-
-    N ie k o  n e p e š ę s, su g iį-
-    ta ko, savo brolį Tautvilą bei
-    žta  į Prūsiją
-    Algardą, Hohenšteino grafą,
-    nutraukė nieko nepešęs ap­
-    siaustį, trukusią nuo birželio 24 ligi spalio 1 dienos, ir
-    su visa kariuomene sugrįžo į Prūsiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tokia kaimy­
-    nystė, ko gero, buvo ne iš maloniųjų. Siekdamas padaryti
-    tam galą, Lietuvos didysis kunigaikštis Narimantas apie
-    1268 metus įsiveržė su kariuomene į jotvingių Polesę ir
-    privertė gyventojus priimti jo paskirtą valdovą. Juo tapo
-    tikras Narimanto brolis Traidenis, kuris buvo Jotvingijos
-    ir Dainavos kunigaikštis su priklausomybės nuo Lietuvos
-    didžiojo kunigaikščio ir tam tikros duoklės mokėjimo pa­
-    reiga.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Narimantas nenorėjo taip spręsti valstybės reikalų, kad broliai galėtų jam prikaišioti, jog sprendžia perdaug griežtai: dėl savo sprendimo jis nenorėjo vienas pats susilaukti visuo tinės neapykantos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Narimantas nenorėjo
-    taip spręsti valstybės reikalų, kad broliai galėtų jam
-    prikaišioti, jog sprendžia perdaug griežtai: dėl savo
-    sprendimo jis nenorėjo vienas pats susilaukti visuo­
-    tinės neapykantos. Todėl jis nieko neveikė savo valia,
-    be tarybos, pasiryžęs, gausių tarėjų paremiamas, švel­
-    ninti savo sprendimus. Jeigu jis vienas, remdamasis
-    aukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų
-    galėję skatinti brolių ir valdinių nepasitenkinimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
+    - t-010
 
 - c-005
-  santrauka: '2/3 3 Narimanto vardas, matyt, paimtas iš Lietuvos metraščių TS, kur išvardijami Gedimino sūnūs.'
+  santrauka: 'Leidinio pastaboje Narimanto vardas siejamas su Lietuvos metraščių sąrašu, kuriame išvardijami Gedimino sūnūs, ir nurodoma, kad Gedimino sūnus Narimantas gyveno 1277-1348 m.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     2/3
@@ -228,116 +162,19 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     kur išvardijami Gedimino sūnūs. Čia minimas Gedimino sūnus Na­
     rimantas gyveno 1277— 1348.II.2.
   citata_rodoma: ''
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Romanui gimė penki sūnūs: vyriausias — NarimantasJ, antras — Daumantas3 , trečias — Alšys \ ketvirtas — Giedrys 5 , penktas —Traidenis 6 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Romanui gimė penki sūnūs: vyriausias —
-    NarimantasJ, antras — Daumantas3 , trečias — Alšys \
-    ketvirtas — Giedrys 5 , penktas —Traidenis 6 .
-    Mirus Romanui, ėmė kunigaikščiauti jo vyriausias
-    sūnus Narimantas. Jis įkūrė Kernavės miestą7 , perkė­
-    6 i
-
-    ## Puslapis 57
-
-    lė sostinę iš Naugarduko į Kernavę, ėmė kunigaikš-
-    čiauti ir vadintis didžiuoju Naugarduko, Lietuvos, Že­
-    maičių kunigaikščiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Didysis kunigaikštis Narimantas pasiėmė sau žmoną minėto livoniečio Fledro dukterį, jo brolis Daumantas vedė antrąją to paties Fledro 2 1 dukterį.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Tenai kunigaikščiaudamas, kariavo didelius karus
-    su lenkais, su rusais ir su mozūrais, ir visuomet laimė­
-    davo, ir padarydavo tiems kraštams didelių žiaurybių,
-    ką aukščiau rusų kronika 1 6  aprašo, [sakydama], kad
-    tiems kraštams jis buvęs piktesnis ir žiauresnis, negu
-    62
-
-    ## Puslapis 58
-
-    Sirijos Antiochas l7 , ir Jeruzalės Herodas I S , ir Romos
-    Neronas l9 , toks buvo žiaurus ir karingas2 0 .
-    Didysis kunigaikštis Narimantas pasiėmė sau žmoną
-    minėto livoniečio Fledro dukterį, jo brolis Daumantas
-    vedė antrąją to paties Fledro 2 1  dukterį. Praėjus nema­
-    ža laiko, Utenos kunigaikščio Daumanto žmona ėmė
-    sirguliuoti ir pasimirė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Ir dėl šito tarp brolių — didžiojo kuni gaikščio Narimanto ir kunigaikščio Daumanto — kilo baisus pyktis ir nesantaika.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir dėl šito tarp brolių — didžiojo kuni­
-    gaikščio Narimanto ir kunigaikščio Daumanto — kilo
-    baisus pyktis ir nesantaika.
-    Didysis kunigaikštis Narimantas, ypač įširdęs, kam
-    brolis jėga jo žmoną pavertė savo žmona, pranešė savo
-    broliams — kunigaikščiui Giedriui, ir kunigaikščiui
-    Alšiui, ir kunigaikščiui Traideniui, ir savo uošviui !i-
-    voniečiui Fledrui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
+    - t-004
 
 ## Citatos
-
-- id: c-169434
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 317"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 317."
-  citata_originali: |
-    Plyšius
-    sienose gynėjai kamšė gyvulių odomis ar žvyro mai­
-    šais, norėdami laikinai jas paslėpti nuo priešo akių; tuo
-    pat metu, be galo greitai sunešę žemių bei kitokios me­
-    džiagos, stengėsi jas užtaisyti. Tarp kitų begaliniu nar­
-    sumu pasižymėjo Pinsko kunigaikštis Narimantas, su
-    savo vyrais ne tik narsiai gynęs ugnies apgriautą Že­
-    mutinę pilį, bet ir, esant reikalui, laiku teikęs pagalbą
-    Moskožovskiui. Galop, vieno Vytauto bajoro iškviestas
-    į dvikovą, po narsios, bet nesėkmingos kovos, ietimi
-    numestas nuo žirgo, gyvas pateko į priešų rankas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186073
 
 - id: c-169435
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 318"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 318."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vytautas
     įniršo ir, apgailestaudamas, kad visas šis žygis sužlugo,
@@ -348,9 +185,9 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     diniai bei strėlės, o vėliau pats savo ranka iš lanko
     pribaigė. Galop, netekęs vilties užkariauti pilis, pra­
     radęs daug savo vyrų, be ki-
-    N ie k o  n e p e š ę s, su g iį-
+    N ie k o n e p e š ę s, su g iį-
     ta ko, savo brolį Tautvilą bei
-    žta  į Prūsiją
+    žta į Prūsiją
     Algardą, Hohenšteino grafą,
     nutraukė nieko nepešęs ap­
     siaustį, trukusią nuo birželio 24 ligi spalio 1 dienos, ir
@@ -365,8 +202,7 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - id: c-173812
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tokia kaimy­
     nystė, ko gero, buvo ne iš maloniųjų. Siekdamas padaryti
@@ -387,18 +223,24 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - id: c-176122
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 137"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 137."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Narimantas nenorėjo
-    taip spręsti valstybės reikalų, kad broliai galėtų jam
-    prikaišioti, jog sprendžia perdaug griežtai: dėl savo
-    sprendimo jis nenorėjo vienas pats susilaukti visuo­
-    tinės neapykantos. Todėl jis nieko neveikė savo valia,
-    be tarybos, pasiryžęs, gausių tarėjų paremiamas, švel­
-    ninti savo sprendimus. Jeigu jis vienas, remdamasis
+    Jeigu jis vienas, remdamasis
     aukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų
-    galėję skatinti brolių ir valdinių nepasitenkinimą.
+    galėję skatinti brolių ir valdinių nepasitenkinimą. Mat
+    valdovų potvarkiais dažniausiai skundžiamasi pasikliau­
+    jant asmeniškomis nuotaikomis, ir be vargo atsiranda,
+    kas klausosi šitokių skundų; tarybos nutarimų ne taip
+    greitai linkstama apšnekėti ir įtarinėti, tarsi jie būtų
+    neabejotinai visuomenei naudingi ir neliečiami. Be abe­
+    jo, galima buvo plačias žemes išdalyti kaip tėvoniją
+    kitiems kunigaikščiams, tačiau dėl priešų artumo Na­
+    rimantas nenorėjo stiprinti jų valdžios, kad jie, pasi­
+    davę užgaidoms, nesusima-
+    T ė v o n ija
+    išd a lija m a
+    nytų atsiskirti.
+  citata_rodoma: "Narimantas nenorėjo\ntaip spręsti valstybės reikalų, kad broliai galėtų jam\nprikaišioti, jog sprendžia perdaug griežtai: dėl savo\nsprendimo jis nenorėjo vienas pats susilaukti visuo­\ntinės neapykantos. Todėl jis nieko neveikė savo valia,\nbe tarybos, pasiryžęs, gausių tarėjų paremiamas, švel­\nninti savo sprendimus. Jeigu jis vienas, remdamasis\naukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų\ngalėję skatinti brolių ir valdinių nepasitenkinimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -406,91 +248,70 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
   pagrindzia:
     - t-193400
 
-- id: c-176590
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    2/3
-
-    ## Puslapis 206
-
-    3  Narimanto vardas, matyt, paimtas iš Lietuvos metraščių TS,
-    kur išvardijami Gedimino sūnūs. Čia minimas Gedimino sūnus Na­
-    rimantas gyveno 1277— 1348.II.2.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193965
-
 - id: c-176591
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Romanui gimė penki sūnūs: vyriausias —
-    NarimantasJ, antras — Daumantas3 , trečias — Alšys \
-    ketvirtas — Giedrys 5 , penktas —Traidenis 6 .
-    Mirus Romanui, ėmė kunigaikščiauti jo vyriausias
-    sūnus Narimantas. Jis įkūrė Kernavės miestą7 , perkė­
-    6 i
-
-    ## Puslapis 57
-
-    lė sostinę iš Naugarduko į Kernavę, ėmė kunigaikš-
-    čiauti ir vadintis didžiuoju Naugarduko, Lietuvos, Že­
-    maičių kunigaikščiu.
+    Sirijos Antiochas l7, ir Jeruzalės Herodas IS, ir Romos
+    Neronas l9, toks buvo žiaurus ir karingas20.
+    Didysis kunigaikštis Narimantas pasiėmė sau žmoną
+    minėto livoniečio Fledro dukterį, jo brolis Daumantas
+    vedė antrąją to paties Fledro 21 dukterį. Praėjus nema­
+    ža laiko, Utenos kunigaikščio Daumanto žmona ėmė
+    sirguliuoti ir pasimirė.
+    Didysis kunigaikštis Narimantas, išgirdęs apie savo
+    brolienės mirtį ir pats ne itin tvirtai jausdamasis, labai
+    liūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa­
+    reikšti užuojautos.
+  citata_rodoma: "Didysis kunigaikštis Narimantas pasiėmė sau žmoną \nminėto livoniečio Fledro dukterį, jo brolis Daumantas \nvedė antrąją to paties Fledro 21 dukterį. Praėjus nema­\nža laiko, Utenos kunigaikščio Daumanto žmona ėmė \nsirguliuoti ir pasimirė.\nDidysis kunigaikštis Narimantas, išgirdęs apie savo \nbrolienės mirtį ir pats ne itin tvirtai jausdamasis, labai \nliūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa­\nreikšti užuojautos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193966
+    - t-196861
 
 - id: c-176592
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Tenai kunigaikščiaudamas, kariavo didelius karus
-    su lenkais, su rusais ir su mozūrais, ir visuomet laimė­
-    davo, ir padarydavo tiems kraštams didelių žiaurybių,
-    ką aukščiau rusų kronika 1 6  aprašo, [sakydama], kad
-    tiems kraštams jis buvęs piktesnis ir žiauresnis, negu
-    62
-
-    ## Puslapis 58
-
-    Sirijos Antiochas l7 , ir Jeruzalės Herodas I S , ir Romos
-    Neronas l9 , toks buvo žiaurus ir karingas2 0 .
-    Didysis kunigaikštis Narimantas pasiėmė sau žmoną
-    minėto livoniečio Fledro dukterį, jo brolis Daumantas
-    vedė antrąją to paties Fledro 2 1  dukterį. Praėjus nema­
-    ža laiko, Utenos kunigaikščio Daumanto žmona ėmė
-    sirguliuoti ir pasimirė.
+    Ir kai jo sūnus Ri­
+    mantas išaugo į savo metus, jo tėvas Traidenis atidavė
+    jį Levui Mstislavičiui, įkūrusiam miestą, pagal jo var­
+    dą pavadintą Lvovu 3, kad išmokytų rusų kalbos.
+    Gyvendamas pas kunigaikštį Levą, Rimantas išmo­
+    ko rusiškai kalbėti, ir jam patiko krikščionių tikėji­
+    mas. Priėmęs krikštą, jis suprato, kad šis gyvenimas
+    nieko nevertas, ir, atsisakęs gyvenimo, tapo vienuoliu;
+    ir jam buvo duotas Lauro vardas4.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193967
+    - t-196862
 
 - id: c-176593
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 58."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir dėl šito tarp brolių — didžiojo kuni­
-    gaikščio Narimanto ir kunigaikščio Daumanto — kilo
-    baisus pyktis ir nesantaika.
-    Didysis kunigaikštis Narimantas, ypač įširdęs, kam
-    brolis jėga jo žmoną pavertė savo žmona, pranešė savo
-    broliams — kunigaikščiui Giedriui, ir kunigaikščiui
-    Alšiui, ir kunigaikščiui Traideniui, ir savo uošviui !i-
-    voniečiui Fledrui.
+    Bebūnant jam vienuolyne, jo senelis, didysis kuni­
+    gaikštis Narimantas, pasimirė, o Lietuvos ir 2emaičių
+    didikai pasiėmė sau didžiuoju kunigaikščiu Traidenį7.
+    Ir, bevaldant didžiajam kunigaikščiui Traideniui, didy­
+    sis kunigaikštis Daumantas, atžygiavęs iš Pskovo, už­
+    ėmė Polocko miestą ir ėmė kunigaikščiauti Pskove ir
+    Polocke *. Jam buvo labai gaila, kad jo jaunesnysis
+    brolis Traidenis tapo Lietuvos viešpačiu, ir ėmė galvoti,
+    kaip čia jį nugalabijus. O tuo metu, valdant Traide­
+    niui, pasimirė abu jo broliai, kunigaikštis Alšys ir ku­
+    nigaikštis Giedrius.
+  citata_rodoma: "Ir, bevaldant didžiajam kunigaikščiui Traideniui, didy­\nsis kunigaikštis Daumantas, atžygiavęs iš Pskovo, už­\nėmė Polocko miestą ir ėmė kunigaikščiauti Pskove ir \nPolocke *. Jam buvo labai gaila, kad jo jaunesnysis \nbrolis Traidenis tapo Lietuvos viešpačiu, ir ėmė galvoti, \nkaip čia jį nugalabijus. O tuo metu, valdant Traide­\nniui, pasimirė abu jo broliai, kunigaikštis Alšys ir ku­\nnigaikštis Giedrius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

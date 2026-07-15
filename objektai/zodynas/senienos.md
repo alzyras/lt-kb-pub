@@ -87,82 +87,6 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
 - susijęs iš [[objektai/zodynas/Konlyna.md#claim-t-192323|Konlyna]]: Narbutas aiškina, kad „Konlyna“ buvo pačių vertingiausių daiktų saugykla.
 - susijęs iš [[objektai/zodynas/Konlyna.md#claim-t-192324|Konlyna]]: Narbutas aiškina, kad „Konlyna“ buvo skrynia stalo sidabrui laikyti, paprastai gerai apkaustyta ir apkabinėta spynomis.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Be to, dažnai esti, kad neįmanoma išlaikyti nepertrau­
-    kiamą įvykių seką, ypač tuomet, kai labiau gilinamės į
-    praeitį. O ir tas, kuris susipažino su priešistorinės seno­
-    vės epochomis, apiplėštomis įvairių senienų epochomis,
-    ko kito galėtų geisti? Siaurės Europoje ilgai užsitęsęs lai­
-    mingai ištobulėjusio pietuose rašto nepažinimas, karai,
-    sumaištys, dar pragaištingesni gaisrai, religijų ir civili­
-    nių organizacijų kaita greta visuotinės tamsos nugramz­
-    dino mūsų tėvynės praeitį į neperžvelgiamą debesį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Bemaž sukaustytas kaimiškos vienatvės, vos ga­
-    lėdamas dėl darbo ir varginančių paieškų sukaupti rei­
-    kalingiausią medžiagą, kompensuodamas ryšių su moks­
-    lininkais istorijos tyrinėtojais trūkumą, apsuptas dažnai
-    šiam darbui nepalankių aplinkybių, vien pasikliaudamas
-    karštu troškimu atskleisti tiesas, viliojančias prie šio
-    rimto dalyko, nutariau pateikti visuomenei šį lietuvių
-    tautos istorijos rinkinį, mano ilgamečių tyrinėjimų vai­
-    sių. Esu laimingas, kad sugebėjau nors tiek pasiekti, kad
-    pramyniau kelią už mane gabesniems istorikams (jei
-    Dangus jų kada nors teiksis duoti šiai tautai) ir sukau­
-    piau medžiagos Siaurės Europos gyventojų istorijai pa­
-    pildyti. Priešistorinio laiko tėkmė, žmonių užmarštis, ra­
-    šytojų nerūpestingumas arba nepakankamas išsilavini­
-    mas jau pakankamai ilgai valdė Siaurės pasaulį: pražu­
-    vo tūkstančiai vertingiausių senienų, tad pats laikas, kad
-    pasistengtume išgelbėti tai, ką žino mūsų atmintis ir ro­
-    do stebėjimai;.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-004
-    - t-006
-
-- c-003
-  santrauka: 'Teodoro Narbuto cituojamoje formuluotėje senienos, užuominos ir išlikusios žinios vadinamos vieninteliu istorijos pagrindu, kai stinga amžininkų raštų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Plačiai pasklidusi lietuvių gen­
-    tis verta išsamesnių ieškojimų, negu tai galime padaryti
-    mes. Bet yra vilčių, kad visa, kas galėtų papildyti mūsų
-    darbą, nieko nepridės prie jo teigiamų savybių, išskyrus
-    jame minimų dalykų geresnį pagrindimą, ir galbūt ne­
-    pažemins mūsų tiesos troškimo, kurio siekiame per am­
-    žių sutemas. „Tamsiose epochose menkiausias spindulė­
-    lis turi pavaduoti ryškią saulę: kur stigo amžininkų ra­
-    šytojų, o keliais amžiais vėlesni savo raštus skyrė tik
-    tam tikriems dalykams, pačios senienos, užuominos ir
-    išlikusios žinios, jei jos nėra prieštaringos, tėra vienin­
-    telis istorijos pagrindas“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Teodoras Narbutas priešistorinės senovės epochas apibūdina kaip apiplėštas įvairių senienų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -188,8 +112,7 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
 - id: c-175022
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 28"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 28."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, dažnai esti, kad neįmanoma išlaikyti nepertrau­
     kiamą įvykių seką, ypač tuomet, kai labiau gilinamės į
@@ -211,8 +134,7 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
 - id: c-175023
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 27."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Bemaž sukaustytas kaimiškos vienatvės, vos ga­
     lėdamas dėl darbo ir varginančių paieškų sukaupti rei­
@@ -240,13 +162,11 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
   pagrindzia:
     - t-192134
     - t-192576
-    - t-006
 
 - id: c-175024
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 34"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 34."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Plačiai pasklidusi lietuvių gen­
     tis verta išsamesnių ieškojimų, negu tai galime padaryti
@@ -271,17 +191,23 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
 - id: c-175351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 28"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 28."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Todėl ir paliko­
-    me jiems kuklų istorijos* pavadinimą.
-    4
-    Be to, dažnai esti, kad neįmanoma išlaikyti nepertrau­
-    kiamą įvykių seką, ypač tuomet, kai labiau gilinamės į
-    praeitį. O ir tas, kuris susipažino su priešistorinės seno­
-    vės epochomis, apiplėštomis įvairių senienų epochomis,
-    ko kito galėtų geisti?
+    Ant­
+    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
+    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
+    Viduržemio jūros pirklių, kurie bemaž vieni pasiekdavo
+    tolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir
+    visados iš anksto puoselėjo viltis rasti lobių nežinomuose
+    kraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­
+    rei pažinti dar labiau negu Vidurio Europos tautų bar­
+    bariškumas ir nesyetingumas. Bet kai anarchija pakirto
+    Romos valstybės imperatorių galybės kolosą, kai barbarų
+    antplūdis pražudė civilizuotus kraštus, pavertė apsišvie­
+    tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
+    tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
+    pusiausvyros metas.
+  citata_rodoma: "Todėl ir paliko­\nme jiems kuklų istorijos* pavadinimą.\n4\nBe to, dažnai esti, kad neįmanoma išlaikyti nepertrau­\nkiamą įvykių seką, ypač tuomet, kai labiau gilinamės į\npraeitį. O ir tas, kuris susipažino su priešistorinės seno­\nvės epochomis, apiplėštomis įvairių senienų epochomis,\nko kito galėtų geisti?"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

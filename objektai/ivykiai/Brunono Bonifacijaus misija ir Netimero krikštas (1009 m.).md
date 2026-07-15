@@ -73,59 +73,6 @@ Nenurodyta
   teiginys: "Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos."
   pagrindžia:
     - c-22916
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai
-    vystėsi iš visų baltų genčių, todėl 1009 m. Vakarų misionierius, būsima-
-    sis šventasis Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą. Čia
-    apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio
-    brolio rankos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1009-ieji Lietuvai praneša ne tik apie kriminalą, bet ir kur kas dau-
-    giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
-    kuris įtikėjo ir krikštijosi. Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs
-    su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri
-    kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Netimero vadovaujama bendruomenė turėjo tolti nuo gentinės santvarkos į valstybę, kad taptų verta misionierių dėmesio.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės
-    laukti Lietuvos vardo. Tačiau šimtmetį ieškojęs pagoniškos baltų Atlan-
-    tidos mokslas taip ir nerado. Lietuviams reikėjo susiformuoti į savaran-
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    27
-    kišką etnosą, o Netimero vadovaujamiems pajudėti toliau nuo gentinės
-    santvarkos į valstybę, į kurią būtų verta traukti misionieriams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

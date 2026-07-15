@@ -51,39 +51,6 @@ media_all_json: |-
   teiginys: "Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris grupes, (1377.II.) teriojo Aukštaičius."
   pagrindžia:
     - c-31037
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris grupes, (1377.II.) teriojo Aukštaičius.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris
-    grupes, (1377.II.) teriojo Aukštaičius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Vis daugiau duomenų atsiranda teigti, jog Gedimino dinastijos kilmės reikia ieškoti Aukštaičiuose.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos metraštyje tačiau visa ankstyboji ge­
-    neologija, lygiai kaip ir « Koliumnų » (Gedimino) dinastijos kilmė,
-    yra neistoriškai supainiota.
-    Vis daugiau duomenų atsiranda teigti, jog Gedimino dinastijos
-    kilmės reikia ieškoti Aukštaičiuose. Iš Aukštaičių kilo Lietuvos
-    valstybės pradžia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

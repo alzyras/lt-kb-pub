@@ -46,7 +46,6 @@ Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyr
 - susijęs iš Danija: Skandinavų padavimuose Starkateras vaizduojamas kaip auklėtas Danijos karaliaus Haroldo rūmuose kartu su karalaičiu Vikaru.
 - susijęs iš Rusia: Narbutas pasakoja, kad Frotono III sūnus Fridleifas buvo auklėtas Rusioje pas motinos giminaičius ir jų padedamas susigrąžino Danijos sostą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyrio Starkatero tėvu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -75,20 +74,23 @@ Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyr
 - id: c-174864
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 243"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    235
-    Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
-    pas motinos, karalaitės Chunigardijos, gimines; vieno iš
-    giminaičių — rusnėnų karaliuko — padedamas, jis susi­
-    grąžino iš jo tėvo atimtą Danijos sostą1.
-    236
     Sklinda garsūs senoviniai skandinavų padavimai apie
     didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
     niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
     ringumo žmogus. Jis buvo auklėjamas Danijos karaliaus
-    Haroldo rūmuose kartu su karalaičiu Vikaru.
+    Haroldo rūmuose kartu su karalaičiu Vikaru. Sis Siaurės
+    didvyris pirmaisiais V amžiaus metais, kai Letrą, t. y. Da­
+    niją, valdė karaliai Halfadonas ir Fridleifas, o po jų —
+    Frotonas IV, daug kartų rengė žygius į tolimus kraštus.
+    Karalius Frotonas, valdęs, pasak Torfėjo skaičiavimų, maž­
+    daug IV amžiaus viduryje, sužinojo, kad lietuvių genties
+    tautos, gyvenančios rytinėse Baltijos jūros pakrantėse;
+    rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
+    jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
+    nijos karalystei.
+  citata_rodoma: "235\nFrotono III sūnus Fridleifas buvo auklėjamas Rusioje,\npas motinos, karalaitės Chunigardijos, gimines; vieno iš\ngiminaičių — rusnėnų karaliuko — padedamas, jis susi­\ngrąžino iš jo tėvo atimtą Danijos sostą1.\n236\nSklinda garsūs senoviniai skandinavų padavimai apie\ndidvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­\nniojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­\nringumo žmogus. Jis buvo auklėjamas Danijos karaliaus\nHaroldo rūmuose kartu su karalaičiu Vikaru."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

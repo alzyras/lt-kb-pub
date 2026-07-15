@@ -41,8 +41,8 @@ media_all_json: |-
   teiginys: "Egiptiečiai žinojo jį Sacal vardu2; Pli- 1 Kotzebue."
   pagrindžia:
     - c-177290
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Kotzebue veikalas Narbuto pastaboje cituojamas prie žinios, kad netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo galima uždegti degų daiktą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -59,32 +59,22 @@ media_all_json: |-
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Egiptiečiai žinojo jį Sacal vardu2; Pli- 1 Kotzebue.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Egiptiečiai žinojo jį Sacal vardu2; Pli-
-    1 Kotzebue. Preuss. alt. Gesch. B. I. S. 22.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-174589
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
-    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
-    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
-    S. 261).
+    Gintaras lenkiškai vadinamas bursztyrv,
+    jo pavadinimas pasiskolintas iš vokiečių kalbos bdrnstein,
+    galbūt iš žodžio boernen, kuris reiškia „degti“, t. y. degus
+    akmuo. Visuose lietuvių kalbos dialektuose vadinamas
+    Gentoras; šio pavadinimo šaltinis, kaip spėja daugelis fi­
+    lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
+    ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės. Rusiškas
+    žodis Hentar pasiskolintas iš lietuvių.
+  citata_rodoma: "2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,\njog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­\nlima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L\nS. 261)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -95,8 +85,7 @@ media_all_json: |-
 - id: c-177290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Egiptiečiai žinojo jį Sacal vardu2; Pli-
     1 Kotzebue. Preuss. alt. Gesch. B. I. S. 22.

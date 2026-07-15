@@ -35,34 +35,13 @@ Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ragutieniszfd) bajorkai
   teiginys: "Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ragutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau nurodytu moterų žynių pavadinimu."
   pagrindžia:
     - c-177164
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ragutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau nurodytu moterų žynių pavadinimu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ragelienė (Ragutienie)
-    Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­
-    nių pasakojime; taip pat šiokia tokia žinia bus apeigų aprašy­
-    me. Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ra-
-    gutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau
-    nurodytu moterų žynių pavadinimu. Negalima rasti ryškesnio
-    prieštaravimo, kaip tarp anų ir šių žynių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177164
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 301"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 301."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ragelienė (Ragutienie)
     Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­

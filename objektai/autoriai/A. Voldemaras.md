@@ -43,31 +43,6 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
   teiginys: "Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz)."
   pagrindžia:
     - c-176377
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Versalio sistemoje
-    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
-    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
-    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
-    jos ir veikė kuluaruose. Lietuvos delegacijai vadovavo A. Voldemaras, joje
-    dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Domi-
-    nykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs
-    iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz). Memoran-
-    dumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį
-    į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos dele-
-    gacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame
-    tarptautiniame forume, kurdama sąlygas nepriklausomybei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -39,8 +39,8 @@ Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio K
   teiginys: "Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine."
   pagrindžia:
     - c-168748
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -68,19 +68,28 @@ Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio K
 - id: c-168748
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 58."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Plaukdami prieš srovę į krašto gilumą, prie Dubysos
-    žiočių, patogioje vietoje, pakrantėmis išsidriekusioje
-    gražioje lygumoje, padėjo savo naujos sodybos pama­
-    tus. Toji sodyba, tada vadinama R om a n o va , paskui
-    Romnove bei Romove, vėliau tapo vyriausiojo lietuvių
-    žynio Krivės Krivaičio būstine, kurią, Gediminui vieš-
-    pataujaut, iš pamatų išgriovė vokiečių ordino vienuo­
-    liai riteriai, paprastai vadinami kryžiuočiais. Gerokai
-    pasistūmėję tolyn, jie persikėlė per Nevėžio upę ir
-    nusigavo į vietas, kur gyveno alanai, arba lietuviai.
+    Po to, pamėginę palenkti kaimynų širdis bi-
+    čiuliškumu bei kitomis taikos priemonėmis, lengvai iš
+    jų išgavo leidimą ateiviams lygiomis teisėmis dirbti
+    žemę, dėl nieko nebūgštau-
+    Italų la im ė jim a i Lie-
+    jant
+    ir
+    nelaukiant
+    jokių
+    tu v o je
+    skriaudų, be to, pažadą, kad
+    jiems nebus taikoma karo
+    teisė. Diena iš dienos augo jų galia: sustiprėjo, galėjo
+    ginklu atremti bet kurį kaimyną, tačiau nė vienas lie­
+    tuvis nejautė nepasitikėjimo šalimais tarpstančia sve­
+    tima galybe, taip pat niekas jų kaip priešų nepuolė.
+    Italai rodėsi esą tokie gabūs ir veikė taip sumaniai,
+    kad jų vidaus padėtis tapo gana tvirta, o tarp sąjun­
+    gininkų nekėlė nei neapykantos, ne įtarimo.
+  citata_rodoma: "Plaukdami prieš srovę į krašto gilumą, prie Dubysos\nžiočių, patogioje vietoje, pakrantėmis išsidriekusioje\ngražioje lygumoje, padėjo savo naujos sodybos pama­\ntus. Toji sodyba, tada vadinama R om a n o va , paskui\nRomnove bei Romove, vėliau tapo vyriausiojo lietuvių\nžynio Krivės Krivaičio būstine, kurią, Gediminui vieš-\npataujaut, iš pamatų išgriovė vokiečių ordino vienuo­\nliai riteriai, paprastai vadinami kryžiuočiais. Gerokai\npasistūmėję tolyn, jie persikėlė per Nevėžio upę ir\nnusigavo į vietas, kur gyveno alanai, arba lietuviai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

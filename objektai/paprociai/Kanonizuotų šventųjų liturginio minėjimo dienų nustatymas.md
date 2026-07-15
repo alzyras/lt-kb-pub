@@ -71,49 +71,13 @@ Nenurodyta
   teiginys: "1317 m. popiežius Jonas kanonizavo šventą Liudviką ir liepė jo gimimą švęsti penktą dieną po Žolinės."
   pagrindžia:
     - c-62542
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1313 m. gegužės 5 d. popiežius Klemensas V kanonizavo Petrą Celestiną V ir liepė jį gerbti birželio 14 d.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    111. Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą
-
-      1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą
-    Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.
-    p. 446; Ptol. p. 1240).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1317 m. popiežius Jonas kanonizavo šventą Liudviką ir liepė jo gimimą švęsti penktą dieną po Žolinės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    119. Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą
-
-      1317 viešpaties metais Jonas, popiežius, kanonizavo šventą Liudviką, Sicilijos karaliaus
-    Roberto brolį iš mažesniųjų brolių ordino,  ir liepė švęsti jo gimimą penktą dieną po
-    žolinės (Mart. p. 449).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-62539
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     111. Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą
 
@@ -131,8 +95,7 @@ Nenurodyta
 - id: c-62542
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 249"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     119. Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą
 

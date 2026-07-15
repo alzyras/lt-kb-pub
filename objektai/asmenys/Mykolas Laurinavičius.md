@@ -46,23 +46,6 @@ Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurina
   pagrindžia:
     - c-83901
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87353|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Jachna Laurinavičius sąraše nurodytas kaip žinomas nuo 1485 m., o tuo metu burmistru buvo Mykolas Laurinavičius.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1485 m. Mykolas Laurinavičius buvo burmistras.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jachna Laurinavičius žinomas nuo - 1485 m.
-    Tuo metu burmistras Mykolas Laurinavičius.
-    1501 m. burmistras Jonas Hanusavičius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83901

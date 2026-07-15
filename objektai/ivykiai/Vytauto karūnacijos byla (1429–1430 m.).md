@@ -36,9 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai. 1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos. Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).
-
-Ivinskis išskiria ir imperatoriaus parengtus vainikus, ir pasienyje sulaikytą delegaciją, kuri sužlugdė 1430 m. rugsėjo 8 d. numatytą vainikavimą.
+Kai imperatorius pranešė parengęs du vainikus, lenkams pavyko įtikinti popiežių Martyną V sulaikyti Vytauto vainikavimą. Lenkai pasienyje sulaikė Cigalos delegaciją, atėmė diplomus ir taip sužlugdė 1430.IX.8 Vilniuje planuotą vainikavimą. Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).
 
 ## Laikotarpis ir datos
 
@@ -93,127 +91,14 @@ Nenurodyta
   teiginys: "Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams."
   pagrindžia:
     - c-167961
+
+<a id="claim-t-196270"></a>
+- t-006
+  global_id: t-196270
+  teiginys: "Po Lucko suvažiavimo Jogaila Korčine sukvietė seimą, kad karalystės luomai svarstytų pasipriešinimą Vytauto karūnacijos siekiams."
+  pagrindžia:
+    - c-178605
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176851|Zbignievas Olesnickis]]: Vytautas siekė patraukti Zbignievą Olesnickį į savo pusę ir negailėjo jam dovanų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kada jau tarp Lenkijos ir Lietuvos sklido karo gandas, lenkai,
-    nebegalėdami Vytauto sulaikyti nuo vainiko — nes ir vainikavimo
-    terminas 1430.IX.8 d. Vilniuje buvo numatytas — prie atitinkamų
-    kelių valstybės pasieniuose išstatė kariuomenės būrius, saugančius
-    pravažiavimą. Vienas tų būrių, Jono Czarnkowskio vadovaujamas,
-    sugavo Cigalos delegaciją, atėmė diplomus ir vainikavimo reikšmę
-    aiškinančius laiškus, delegatus apmušė ir paleido ordino žemėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vytautui tai davė progos Jogailą kaltinti, jog jis
-    jau visai patekęs savo patarėjų įtakon, nenorįs jų pašalinti ir nesi­
-    rūpinąs turėti geresnių.
-    Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­
-    niką išsikovoti. Kai imperatorius (Romos karalius) pranešė, jog
-    esąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko
-    įtikinti popiežių Martyną V, kad jis sulaikytų Vytauto vainikavimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tad norisi manyti, kad tokiam Vytauto atšalimui reikia ieškoti
-    gilesnių priežasčių, kaip, pav., jo siekime karūnuotis Lenkijos
-    karalium, ką sukliudė Jogailos įpėdiniai, kurių jis net dvejeto
-    susilaukė. Ir jei dar tikėti tam, kad Vytautas pats tokius gan­
-    dus buvo paleidęs ne tik apie Jogailos ketvirtąją, bet ir apie
-    antrąją žmoną, jog ji turinti santykių su dvariškiais, aišku, kad
-    čia jis ėjo ne tik moralisto pareigas, bet dar turėjo ir kitokių
-    paslėptų tikslų. O kai pamatė, kad tos jo viltys yra žuvusios, tada
-    jis ir ėmė šalintis ir atšalti nuo Lenkijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet ir
-    šį kartą Vytautas, nežiūrint net gilios jo senatvės, dar smar­
-    kiai savo paskutiniais gyvenimo metais apgriovė unijos pa­
-    grindus, iš naujo iškeldamas Lietuvos nepriklausomybės vėlia­
-    vą; toji nepriklausomybė turėjo pasireikšti iš viršaus — apsi­
-    karūnavimu Lietuvos ir Rusijos žemių karaliaus karūna, impe­
-    ratoriaus Zigmanto atsiųsta. Tą planą suardė Lenkija, neįleis­
-    dama į Lietuvą karūnos. Šis faktas, t. y. sutikimas karūnuoti
-    Vytautą, su kuo vėliau sutiko ir lenkai, juridiškai, kaip mano
-    Kutrzeba, uniją paliko galioje, bet faktiškai ji buvo smarkiai iš
-    naujo suardyta^1 ), suduotas jai didelis smūgis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tuo metu susirinkę Vilniuje daug kunigaikščių ir kitų svečių
-    laukė IX.8 d. iškilmės ir Vytauto triumfo. Lenkai dar labiau su­
-    stiprino sargybas, kad nepravažiuotų delegacija, kuri vežė vainikus.
-    Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
-    Vokietijon. Vainikavimas susitrukdė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-006
-  santrauka: 'Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Štai todėl karalius po senato posėdžio, net neatsi­
-    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
-    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
-    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
-    iš Volynės į Vengriją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-04918
@@ -322,10 +207,59 @@ Nenurodyta
 - id: c-167961
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 418"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Štai todėl karalius po senato posėdžio, net neatsi­
+    Tuo tarpu Krokuvos vyskupas Zbig­
+    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
+    kokia įtartina imperatoriaus
+    S en ato įsp ė ta s
+    draugystė, ir, atskleidęs, ko­
+    kie pavojingi jo siūlymai,
+    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
+    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
+    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
+    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
+    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
+    nas iš Tarnovo, Krokuvos vaivada. Visi sutartinai pri­
+    tarė vyskupui ir vaivadai. Vytautas, pasipiktinęs ne tiek
+    dėl pralaimėjimo, kiek dėl
+    P a sip ik tin ęs pasišali-
+    drąsių kalbų, išėjo iš senato
+    na
+    posėdžio, o pasišalindamas at­
+    virai pagrasino, sakydamas,
+    14*
+    4 1 9
+  citata_rodoma: "Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams. Karaliui išvykus, ir\nimperatorius, apsvarstęs su Vytautu svarbiausius klau­\nsimus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai\niš Volynės į Vengriją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184600
+
+- id: c-178605
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Vytautas, pasipiktinęs ne tiek
+    dėl pralaimėjimo, kiek dėl
+    P a sip ik tin ęs pasišali-
+    drąsių kalbų, išėjo iš senato
+    na
+    posėdžio, o pasišalindamas at­
+    virai pagrasino, sakydamas,
+    14*
+    4 1 9
+
+    jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
+    siryžęs pasiekti. Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
     sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
     Atvykęs į Lenkiją, jis sukvie-
     Išsiskiisto Lucko su-
@@ -333,13 +267,10 @@ Nenurodyta
     važiavimo dalyviai
     kad karalystės luomai nu­
     spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
-    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
-    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
-    iš Volynės į Vengriją.
+    nesaikingiems Vytauto potroškiams.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184600
+    - t-196270

@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - laidotuvės
   - paprotys
+  - popiežius
   - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -63,34 +64,31 @@ Nenurodyta
   teiginys: "Dusburgietis rašo, kad prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį."
   pagrindžia:
     - c-67205
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Dusburgietis rašo, kad prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Savo svečiams jie rodo nepaprastą lipšnumą, ir vargu ar kada
-
-      209 Pasakojama apie kilmingojo laidotuves, per kurias buvę deginami valdiniai. Kitur
-    D. rašo, jog prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį (III,
-    91), taip pat darę ir lietuviai (III, 338). Manoma, kad aprašymas patikimas (Mierzyński
-    A. Żródła..., 2, p. 56).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196991"></a>
+- t-003
+  global_id: t-196991
+  teiginys: "Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs."
   pagrindžia:
-    - t-002
+    - c-67207
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Per prūsų degintines laidotuves kilmingiesiems degino ginklus, žirgus, tarnus, drabužius, šunis ir sakalus, o nekilmingiesiems – darbo reikmenis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    jie degino  jo ginklus, žirgus, vergus  ir tarnaites  [servi et  ancillae]209, drabužius,
-    medžioklinius šunis bei sakalus ir visa kita, kas reikalinga kariams. Su nekilmingaisiais
-    drauge degino jų kasdienio darbo reikmenis. Jie tikėjo, kad sudeginti daiktai prisikelsią
-    drauge su jais ir jiems tarnausią kaip anksčiau.
+    Dėl šitų mirusiųjų nutikdavo tokių velniškų
+    patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
+    ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas
+    nedvejodamas pasakydavo, kokie buvo mirusiojo drabužiai, ginklai210, žirgai bei šeimyna,
+    be to, siekdamas didesnio įtikinamumo, pridurdavo, jog, girdi, jo namų durų staktoje
+    numirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu. Po pergalės jie
+    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
+    atiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse
+    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
+    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
+    pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
+    papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -98,14 +96,14 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-003
 
 ## Citatos
 
 - id: c-67205
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 69"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Savo svečiams jie rodo nepaprastą lipšnumą, ir vargu ar kada
 
@@ -123,16 +121,21 @@ Nenurodyta
 - id: c-67207
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 69"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    jie degino  jo ginklus, žirgus, vergus  ir tarnaites  [servi et  ancillae]209, drabužius,
-    medžioklinius šunis bei sakalus ir visa kita, kas reikalinga kariams. Su nekilmingaisiais
+    Su nekilmingaisiais
     drauge degino jų kasdienio darbo reikmenis. Jie tikėjo, kad sudeginti daiktai prisikelsią
-    drauge su jais ir jiems tarnausią kaip anksčiau.
+    drauge su jais ir jiems tarnausią kaip anksčiau. Dėl šitų mirusiųjų nutikdavo tokių velniškų
+    patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
+    ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas
+    nedvejodamas pasakydavo, kokie buvo mirusiojo drabužiai, ginklai210, žirgai bei šeimyna,
+    be to, siekdamas didesnio įtikinamumo, pridurdavo, jog, girdi, jo namų durų staktoje
+    numirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu.
+  citata_rodoma: "Dėl šitų mirusiųjų nutikdavo tokių velniškų \npatyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus, \nar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas \nnedvejodamas pasakydavo, kokie buvo mirusiojo drabužiai, ginklai210, žirgai bei šeimyna, \nbe to, siekdamas didesnio įtikinamumo, pridurdavo, jog, girdi, jo namų durų staktoje \nnumirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu. Po pergalės jie \naukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį \natiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse \ngyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet, \nprieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali \npastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų \npapročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67193
+    - t-196991

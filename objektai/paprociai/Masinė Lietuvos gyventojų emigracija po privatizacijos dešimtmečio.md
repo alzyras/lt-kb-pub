@@ -79,24 +79,6 @@ Po pirmojo privatizacijos dešimtmečio masinis nedarbas skatino masinę Lietuvo
   teiginys: "Dauguma emigrantų buvo jauni darbingo amžiaus žmonės, o emigracijos padariniu įvardytas protų nutekėjimas."
   pagrindžia:
     - c-16968
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pirmąjį privatizacijos dešimtmetį daugelis stambių įmonių subankru-
-    tavo, tūkstančiai žmonių neteko darbo. Masinis nedarbas paskatino ma-
-    sinę Lietuvos gyventojų emigraciją. Įvairiais duomenimis, nuo 1990 m. iš
-    Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,
-    Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Šaltiniai ir įrodymai
 

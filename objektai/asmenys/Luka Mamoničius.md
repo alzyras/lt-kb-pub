@@ -42,41 +42,6 @@ media_all_json: |-
   teiginys: "1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis išspausdino „Cztėry Ewangelje“."
   pagrindžia:
     - c-83745
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis išspausdino „Cztėry Ewangelje“.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Parašai: Vice-
-    Cancellarius Leo Sapieha, Stanislaus
-    Skulski Notarius [Pakancleris Leo­
-    nas Sapiega, raštininkas Stanislovas
-    Skulskis].
-    68
-    Petras Timofiejevas Mstislavliškis, iš
-    Maskvos atvykęs spaustuvininkas,
-    padedamas ir proteguojamas Alek­
-    sandro Chodkevičiaus sūnaus Jurgio,
-    1575 metais Vilniuje pas Kuzmą ir
-    Luką Mamoničius, Jono Semena vi-
-    čiaus Zažeckio, iždininko, Upytės se­
-    niūno ir jo brolio Zenono, Vilniaus
-    miesto burmistro, iniciatyva ir lėšo­
-    mis pirmą kartą išspausdino „Cztėry
-    Ewangelje" in folio minori. Leidinys
-    labai gražus, pačią evangeliją su pra­
-    tarme ir aprašais sudaro 395 lapai, su­
-    numeruoti apačioje iš vienos pusės,
-    o prieš kiekvieną evangeliją yra me­
-    džio raižinys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

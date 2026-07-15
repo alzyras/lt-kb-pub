@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 27
+tema_objektu_skaicius: 25
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 27.
+Objektų skaičius: 25.
 
 ## Kaip naudoti
 
@@ -35,7 +35,6 @@ Objektų skaičius: 27.
 - [[objektai/grupes/Hohenzollernai]]
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/grupes/Jogailaičių dinastija]]
-- [[objektai/grupes/Kentauro herbo dinastija]]
 - [[objektai/grupes/Liuksemburgiečių dinastija]]
 - [[objektai/grupes/Liutauro dinastija]]
 - [[objektai/grupes/Piastų dinastija]]
@@ -47,9 +46,8 @@ Objektų skaičius: 27.
 - [[objektai/grupes/Seversko kunigaikščiai]]
 - [[objektai/grupes/Sluckiai]]
 - [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai]]
-- [[objektai/grupes/Smolensko kunigaikščiai]]
 - [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
 - [[objektai/grupes/Tverės kunigaikštystė]]
 - [[objektai/grupes/Vazų dinastija]]
-- [Švedai](../objektai/grupes/%C5%A0vedai)
-- [Žečpospolita](../objektai/grupes/%C5%BDe%C4%8Dpospolita)
+- [[objektai/grupes/Švedai]]
+- [[objektai/grupes/Žečpospolita]]

@@ -8,15 +8,15 @@ datos:
   - '1251 m.'
 date_start: '1239'
 date_end: '1251'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - popiežius
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,55 +65,8 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
   teiginys: "Henrikas iš Hohenlohės buvo vėlesnis didysis magistras, kurio kanceliarijoje redaguotas „Pranešimas“."
   pagrindžia:
     - c-60603
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Henrikas iš Hohenlohės buvo Ordino magistras 1244–1249 metais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sitai, rodos, leistų manyti, kad minimas Hermanas iš Zalcos, miręs 1239
-    m.113, tuo tarpu „Pranešimo...“ pabaigoje aprašomi vėlesni įvykiai, Ordino magistro Henriko
-    iš Hohenlohės (1244—1249 m.) valdymo laikotarpio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Henriko iš Hohenlohės pranešime pirmojo prūsų sukilimo pradžios kariuomenė įvardyta kaip „lietuviai ir prūsai“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
-    jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė  ir
-    Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų  ir
-    sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
-    — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
-    prūsų kovą nuo Lietuvos, jos karinių pastangų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Henrikas iš Hohenlohės buvo vėlesnis didysis magistras, kurio kanceliarijoje redaguotas „Pranešimas“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Viskas rodo, jog tai reiškia vėlesnį didįjį magistrą
-    Henriką iš Hohenlohės, kurio kanceliarijoje „Pranešimas...“ redaguotas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-004
   santrauka: 'Henrikas iš Hohenlohės buvo vienas iš trijų Ordino magistrų, praleistų aptariamame sąraše.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -137,8 +90,7 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 - id: c-60601
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 23"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sitai, rodos, leistų manyti, kad minimas Hermanas iš Zalcos, miręs 1239
     m.113, tuo tarpu „Pranešimo...“ pabaigoje aprašomi vėlesni įvykiai, Ordino magistro Henriko
@@ -153,13 +105,12 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 - id: c-60602
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 29"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
-    jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė  ir
-    Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų  ir
-    sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
+    jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir
+    Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų ir
+    sūduvių kariuomenę  (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
     — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
     prūsų kovą nuo Lietuvos, jos karinių pastangų.
   citata_rodoma: "Šia proga jis kalba apie didžiulę prūsų  ir\nsūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas\n— nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti\nprūsų kovą nuo Lietuvos, jos karinių pastangų."
@@ -173,8 +124,7 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 - id: c-60603
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 23"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Viskas rodo, jog tai reiškia vėlesnį didįjį magistrą
     Henriką iš Hohenlohės, kurio kanceliarijoje „Pranešimas...“ redaguotas.
@@ -188,15 +138,15 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 - id: c-60604
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 28"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Yra čia ir kitokių klaidų bei praleidimų. Pvz., praleisti trys Ordino magistrai, tarp jų
-    — Henrikas  iš Hohenlohės139. Kronikininko teigimu, popiežiaus pasiuntinys Prūsijoje
-    Vilhelmas — tai vėlesnis popiežius Aleksandras IV (III, 33), tuo tarpu šis, 1244 m. tapęs
-    Sabinos kardinolu (miręs 1251 m.), tebuvo kurijos atstovas, rėmęs Vokiečių ordiną, kai
-    pastarasis sprendė ginčijamus klausimus su Rygos arkivyskupu ir tuometiniu popiežiaus
-    legatu140.
+    Dusburgietis iškreipia faktus dėl akivaizdžios tendencijos. Vokiečių ordino pradžią jis
+    datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai
+    iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos
+    kunigaikštis Fridrichas kreipėsi į savo brolį, Vokietijos karalių ir busimąjį imperatorių
+    (nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje. Popiežius patvirtino
+    Jeruzalės brolių ligoninę, suteikė jiems tokių pat privilegijų, kaip kitados buvo suteikęs
+    joanitams ir tamplieriams (dvasiškiams ir riteriams).
   citata_rodoma: "Yra čia ir kitokių klaidų bei praleidimų. Pvz., praleisti trys Ordino magistrai, tarp jų\n— Henrikas  iš Hohenlohės139."
   statusas: verified
   teiginio_tipas: faktas

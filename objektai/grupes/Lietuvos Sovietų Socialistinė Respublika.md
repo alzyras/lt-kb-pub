@@ -48,44 +48,6 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
   teiginys: "1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką."
   pagrindžia:
     - c-72795
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1940 VI 15
-    realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
-    ja ir aneksuoja Lietuvos Respubliką. Sudarius marionetinę vyriausybę
-    netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-
-    publika. Sovietinio teroro ir trėmimų pradžia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Sudarius marionetinę vyriausybę paskelbta, kad sukuriama Lietuvos Tarybų Socialistinė Respublika.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1918 II 16
-    Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
-    vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
-    1940 VI 15
-    realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
-    ja ir aneksuoja Lietuvos Respubliką. Sudarius marionetinę vyriausybę
-    netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-
-    publika.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

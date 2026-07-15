@@ -25,40 +25,16 @@ media_all_json: |-
 
 ## Santrauka
 
-APIE ROMOS KUNIGAIKŠTI PALEMONĄ IR KAIP JIS ĮSIKORĖ ŽEMAITIJOJE Kunigaikštis, vardu Apolonas taip pat buvęs ta me mieste, [bėgo su jais), viską pasiėmęs, o su juo — penki šimtai vien Romos patricijų.
+Lietuvos metraštis Apoloną vadina kunigaikščiu ir pasakoja, kad jis pabėgo su Palemono būriu, pasiėmęs turtą ir penkis šimtus Romos patricijų.
 
 ## Teiginiai
 
 <a id="claim-t-194128"></a>
 - t-001
   global_id: t-194128
-  teiginys: "APIE ROMOS KUNIGAIKŠTI PALEMONĄ IR KAIP JIS ĮSIKORĖ ŽEMAITIJOJE Kunigaikštis, vardu Apolonas taip pat buvęs ta me mieste, [bėgo su jais), viską pasiėmęs, o su juo — penki šimtai vien Romos patricijų."
+  teiginys: 'Lietuvos metraštis Apoloną vadina kunigaikščiu ir pasakoja, kad jis pabėgo su Palemono būriu, pasiėmęs turtą ir penkis šimtus Romos patricijų.'
   pagrindžia:
     - c-176741
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'APIE ROMOS KUNIGAIKŠTI PALEMONĄ IR KAIP JIS ĮSIKORĖ ŽEMAITIJOJE Kunigaikštis, vardu Apolonas taip pat buvęs ta me mieste, [bėgo su jais), viską pasiėmęs, o su juo — penki šimtai vien Romos patricijų.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    APIE ROMOS KUNIGAIKŠTI PALEMONĄ
-    IR KAIP JIS ĮSIKORĖ ŽEMAITIJOJE
-    Kunigaikštis, vardu Apolonas taip pat buvęs ta­
-    me mieste, [bėgo su jais), viską pasiėmęs, o su juo —
-    penki šimtai vien Romos patricijų. Jų tarpe saloje pa­
-    sirodė beesančios keturios Romos patricijų giminės:
-    Kentauro herbo7  — Dausprungas3 , §tulpų herbo 4  —
-    Prosperas Cezarinas 5 . Meškos herbo6  — Julijonas, o
-    Rožės herbo 7  — Hektoras 8 .
-    Ir išplaukė jis Viduržemio jūra, pasiėmęs su savi­
-    mi vieną astronomą, kuris nusivokė apie žvaigždes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -83,4 +59,4 @@ APIE ROMOS KUNIGAIKŠTI PALEMONĄ IR KAIP JIS ĮSIKORĖ ŽEMAITIJOJE Kunigaikšt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194128
+    - t-001

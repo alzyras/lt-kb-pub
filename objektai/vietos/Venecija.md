@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Venecija'
 saltiniai:
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1302 m.'
@@ -42,12 +43,12 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   pagrindžia:
     - c-167599
 
-<a id="claim-t-58747"></a>
+<a id="claim-t-200782"></a>
 - t-002
-  global_id: t-58747
-  teiginys: "Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno."
+  global_id: t-200782
+  teiginys: "Vorobjovas rašė, kad Vilniaus gatvių vaizdai primena Veneciją, Bergamą ir kitus garsius turistų lankomus miestus."
   pagrindžia:
-    - c-167599
+    - c-184127
 - susijęs iš [[objektai/asmenys/Zigfridas iš Foichtvangeno.md#claim-t-90250|Zigfridas iš Foichtvangeno]]: Po Gotfrido atsistatydinimo Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru ir iškeliavo į Ordino būstinę Venecijoje.
 - susijęs iš [[objektai/asmenys/Paleologas.md#claim-t-60404|Paleologas]]: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
 - susijęs iš [[objektai/asmenys/Zigfridas iš Foichtvangeno.md#claim-t-90250|Zigfridas iš Foichtvangeno]]: Po Gotfrido atsistatydinimo Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru ir iškeliavo į Ordino būstinę Venecijoje.
@@ -75,39 +76,12 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 - susijęs iš Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): Lenkijos ir Lietuvos kariuomenė stovyklose apsisupdavo amunicijos, provianto ir kitų reikmenų vežimais, palikdama tik kelis praėjimus.
 - susijęs iš Belvederis: Belvederiu vadintas Juzefo Mianovskio užmiesčio namas stovėjo spėjamoje senosios liejyklos vietoje.
 - susijęs iš Konstantinopolis: 1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas didžiuoju magistru brolis Zigfridas iš Foichtvangeno, kuris ir iškeliavo į Veneciją, į vyriausiąją [Ordino] būstinę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
-             kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
-
-      1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją
-    atvyko  į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo  į Prūsiją
-    ir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs  į Vokietiją, lengvapėdiškai
-    sugalvojo vėl jas eiti. Jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas
-    didžiuoju magistru brolis Zigfridas  iš Foichtvangeno, kuris  ir iškeliavo  į Veneciją,  į
-    vyriausiąją [Ordino] būstinę.
-
-    284 (277).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-167599
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 195-196"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195-196."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
              kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
@@ -125,8 +99,27 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184214
     - t-58747
+
+- id: c-184127
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 12"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 12."
+  citata_originali: |
+    Kai eini Vil­
+    niaus gatvėmis, tai posūkiuose ir namų protarpiuose kas valandėlė išdygsta
+    prieš akis tai puošni varpinė, tai dekoratyviški bažnyčių frontonai.
+    Visa tai verčia prisiminti tai Veneciją, tai Bergamo ar kitus garsius turistų
+    lankomus miestus. Amžių senovės antkrytis, — tai, ką vadina „patina” —
+    suteikia miestui dar romantiškesnį pobūdį, — lygiai, kaip ir apleista, ap­
+    kerpėjusi daugelio pastatų ir ištisų kvartalų išvaizda.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200782
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Zigfridas iš Foichtvangeno]]

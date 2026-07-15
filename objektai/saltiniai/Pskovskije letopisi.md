@@ -40,26 +40,6 @@ media_all_json: |-
   teiginys: "Pskovskije letopisi 1-asis leidimas buvo išleistas Maskvoje-Leningrade 1941 m."
   pagrindžia:
     - c-33701
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^3) **Paszkiewicz : PaOR, 208 p.**
-    (^4) **_Pskovskije letopisi,_** **vyp. 1, Moskva-Leningrad 1941, 15-16 p.**
-
-
-    Sandras (Mykolo sūnus). Naugardo metraštyje yra pažymėta:
-    « Pskoviečiai liovėsi bučiuoti kryžių (priesaikai) Novgorodui, pasi­
-    sodino iš lietuvių rankos («iz Litovskia ruki ») kunigaikštį Alek­
-    sandrą »^5.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

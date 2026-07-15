@@ -50,23 +50,6 @@ Nenurodyta
   teiginys: "Zigmanto Augusto antkapis yra Krokuvos katedroje."
   pagrindžia:
     - c-01486
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Zigmanto Augusto antkapis Krokuvos katedroje.
-    į protestantizmą, kad galėtų gauti persiskyrimą su žmona, bet dėl
-    tos pačios priežasties nesiryžo. Buvo labai išlaidus ir duodavosi iš-
-    naudojamas visokiems intrigantams. Todėl jam nuolat trūko pini-
-    gų; bet iš tėvų gautas brangenybes jis vis dėlto išsaugojo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

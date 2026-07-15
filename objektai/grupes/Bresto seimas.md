@@ -24,59 +24,33 @@ media_all_json: |-
 
 ## Santrauka
 
-Pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo viską pranešti luomams, susirinkusiems į Bresto seimą.
-
-## Teiginiai
-
-<a id="claim-t-185448"></a>
-- t-001
-  global_id: t-185448
-  teiginys: "Pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo viską pranešti luomams, susirinkusiems į Bresto seimą."
-  pagrindžia:
-    - c-168809
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo viską pranešti luomams, susirinkusiems į Bresto seimą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    K adangi šios sąlygos turinčios
-    laid u o ti ir saug o ti lietu v ių  v alsty b ės b ei tau to s orum ą,
-    lenkai visų pirm a p riv alė sią pažadėti, k ad  n ei patys
-    n iek ad a n esisten g sią k eisti šios am žino su sitarim o  fo r­
-    m ulės, n ei kitiem s n eleisią to d ary ti. K okį atsak y m ą
-    g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
-    n eb u v o  su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u ­
-    v o  u žd rau sta b et k ą  spręsti, ir jie  tu rė jo  ap ie v isk ą p ra ­
-    n ešti luom am s, susirinkusiem s į B resto seim ą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Citatos
 
 - id: c-168809
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 734"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 734."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    K adangi šios sąlygos turinčios
-    laid u o ti ir saug o ti lietu v ių  v alsty b ės b ei tau to s orum ą,
-    lenkai visų pirm a p riv alė sią pažadėti, k ad  n ei patys
-    n iek ad a n esisten g sią k eisti šios am žino su sitarim o  fo r­
-    m ulės, n ei kitiem s n eleisią to d ary ti. K okį atsak y m ą
-    g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
-    n eb u v o  su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u ­
-    v o  u žd rau sta b et k ą  spręsti, ir jie  tu rė jo  ap ie v isk ą p ra ­
-    n ešti luom am s, susirinkusiem s į B resto seim ą.
+    P asiu n tin iai tu rė jo p areik šti štai ką.
+    N o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n ­
+    tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y­
+    gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a ­
+    rėsi dėl būd ų g alu tin ai L ietuvą su v ien y ti su L enkija
+    u n ijo s p ag rin d ais. A n k stesn iais m etais, tiesa, jie teisė­
+    ta i ir p ag rįstai n e n o rė ję p rita rti šiai san tarv ei, k ai le n ­
+    k ai V aršu v o s ir B elsko seim uose atm etė L ietuvos re ik a ­
+    lavim us.
+    V is dėlto,
+    n u o šird žiai
+    tro k šd am i,
+    k ad abi
+    tau to s tik ra i su silietų į v ien ą v alsty b ę, jie n et ir tad a
+    jau tę lenkam s d ra u g išk ą p alan k u m ą, o d abar, užm iršę,
+    kas buvo, vienin g ai siūlą šias susitarim o sąlygas.
+  citata_rodoma: "N o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n ­\ntį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y­\ngim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a ­\nrėsi dėl būd ų g alu tin ai L ietuvą su v ien y ti su L enkija \nu n ijo s p ag rin d ais. A n k stesn iais m etais, tiesa, jie teisė­\nta i ir p ag rįstai n e n o rė ję p rita rti šiai san tarv ei, k ai le n ­\nk ai V aršu v o s ir B elsko seim uose atm etė L ietuvos re ik a ­\nlavim us. \nV is dėlto, \nn u o šird žiai \ntro k šd am i, \nk ad abi \ntau to s tik ra i su silietų į v ien ą v alsty b ę, jie n et ir tad a \njau tę lenkam s d ra u g išk ą p alan k u m ą, o d abar, užm iršę, \nkas buvo, vienin g ai siūlą šias susitarim o sąlygas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185448

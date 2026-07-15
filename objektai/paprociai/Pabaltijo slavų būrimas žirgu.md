@@ -47,10 +47,15 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
+Nenurodyta
 
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174986
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     pastraipos
     tęsinys/
@@ -60,8 +65,8 @@ Nenurodyta
     ir vaizduojama.
     Tekstas, kuriuo T. Narbutas papildė paragrafą, rengdamas antrąjį
     LTI leidimą (PEĮ.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  citata_rodoma: "Kaip pastebėjo ponas Tadas Volianskis, toji žąsis primena bū­\nrimą, kuriam Pabaltijo slavai naudojo žirgą, Jį vesdavo per kryž­\nmai į žemę susmeigtas ietis. Antspaude žąsis būtent tokia poza\nir vaizduojama."
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

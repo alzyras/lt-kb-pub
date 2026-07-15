@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį.
+Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį. Kai kurių Kojelavičiaus minimų šaltinių duomenimis, Daumantas įkūrė Svyrių pilį, o Svyrių kunigaikščių giminė pavadinta jo vardu.
 
 ## Teiginiai
 
@@ -35,41 +35,20 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
   teiginys: "Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį."
   pagrindžia:
     - c-168671
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Giedriui buvo
-    duotos plačios valdos šiaurės pusėje: jis davė pradžią
-    kilniausiajai kunigaikščių Giedraičių šeimai, kuri mū­
-    sų laikais prarado, kaip matome, dėl įpėdinių gausybės
-    senąją galią bei kunigaikščių titulą ir nusmuko ligi
-    paprastų bajorų. Daumantui buvo duota Utenos kuni­
-    gaikštystė: kurie ne kurie šaltiniai mini, jog jis įkūrė
-    Svyrių pilį, o Svyrių kunigaikščių giminė buvusi pa­
-    vadinta jo vardu. Prie savęs valdovas pasiliko tiktai
-    Traidenį, taikos ir karo bendrininką; šitaip darė tur­
-    būt, norėdamas jam deramu laiku patikėti valstybės
-    valdymą, nes pats buvo bevaikis, be to, apdairiai su­
-    gebėdamas numatyti kitų troškimus, jis spėjo, jog ir
-    taryba bei tauta tylomis Traidenį skyrė jo įpėdiniu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196745"></a>
+- t-002
+  global_id: t-196745
+  teiginys: "Kai kurių Kojelavičiaus minimų šaltinių duomenimis, Daumantas įkūrė Svyrių pilį, o Svyrių kunigaikščių giminė pavadinta jo vardu."
   pagrindžia:
-    - t-001
+    - c-178885
 
 ## Citatos
 
 - id: c-168671
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 138"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 138."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Giedriui buvo
     duotos plačios valdos šiaurės pusėje: jis davė pradžią
@@ -91,3 +70,28 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185310
+
+- id: c-178885
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Daumantui buvo duota Utenos kuni­
+    gaikštystė: kurie ne kurie šaltiniai mini, jog jis įkūrė
+    Svyrių pilį, o Svyrių kunigaikščių giminė buvusi pa­
+    vadinta jo vardu. Prie savęs valdovas pasiliko tiktai
+    Traidenį, taikos ir karo bendrininką; šitaip darė tur­
+    būt, norėdamas jam deramu laiku patikėti valstybės
+    valdymą, nes pats buvo bevaikis, be to, apdairiai su­
+    gebėdamas numatyti kitų troškimus, jis spėjo, jog ir
+    taryba bei tauta tylomis Traidenį skyrė jo įpėdiniu.
+    Jis taip pat gerai žinojo, jog Daumantas imsis bet ko­
+    kių priemonių, norėdamas paveldėti sostą, tačiau val­
+    dovas tarė, jog geriau apvilti išdidųjį brolį nei visuo­
+    menės troškimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196745

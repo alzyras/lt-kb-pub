@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Prikeltuvės
 sukurta: '2026-07-12'
 variantai:
-  - prikeltuves
-  - prikeltuvės
+  - 'prikeltuves'
+  - 'prikeltuvės'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -59,6 +59,7 @@ Terminas vartojamas vestuvių tęsinio ir ištekėjusios moters apdėjimo kontek
   teiginys: "Prikeltuvės šiame šaltinyje yra svočios surengiama apeiga."
   pagrindžia:
     - c-178032
+
 ## Citatos
 
 - id: c-178032

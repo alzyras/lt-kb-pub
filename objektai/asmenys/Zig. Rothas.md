@@ -35,23 +35,6 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
   teiginys: "Zigmantas siuntė Zig. Rothą pas Vytautą kaip imperatoriaus atstovą aiškinti karūnacijos klausimų ir sklaidyti abejonių."
   pagrindžia:
     - c-38171
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jas vežė iškilminga Zigmanto dele­
-    gacija. Pirma jos važiavo kaip ciesoriaus reprezentantai
-    Zig. Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­
-    mantas siuntė Vytautui supažindinti su įvairiais klausimais dėl
-    karūnacijos ir išsklaidyt jo abejones^3 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

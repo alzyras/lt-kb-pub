@@ -35,35 +35,13 @@ Dusburgietis teigia, kad apie švento Jodoko stebuklus Prūsijos Pamedėje Tais 
   teiginys: "Šventas Jodokas ėmė daryti stebuklus Prūsijoje, Pamedės vyskupystėje."
   pagrindžia:
     - c-60968
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šventas Jodokas ėmė daryti stebuklus Prūsijoje, Pamedės vyskupystėje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    67. Apie švento Jodoko stebuklus Prūsijos Pamedėje
-
-       Tais  pačiais metais šventas Jodokas ėmė  daryti stebuklus  Prūsijoje, Pamedės
-    vyskupystėje.
-
-
-
-    68.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60968
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 238"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     67. Apie švento Jodoko stebuklus Prūsijos Pamedėje
 

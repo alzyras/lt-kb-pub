@@ -52,42 +52,6 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   teiginys: "Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino litvinais arba senalietuviais, bet dauguma jų integravosi į lenkų tautą."
   pagrindžia:
     - c-26784
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tuvių kalba. Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
-    tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu
-    save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).
-    Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
-    viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
-    po poros dešimtmečių sukūrę Lietuvos Respubliką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino litvinais arba senalietuviais, bet dauguma jų integravosi į lenkų tautą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Modernioji Lietuvos samprata susidūrė su didžiule problema – etninės
-    Lietuvos pietrytinėje dalyje XX a. pradžioje lietuvių kalba buvo užleidusi
-    vietą lenkų ir baltarusių (žmonių vadinamoms „tuteišių“) kalboms. Tiesa,
-    nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
-    arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų
-    tautą, o Lietuvą laikė Lenkijos dalimi. Būtent ši samprata iškilo 1920 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

@@ -96,51 +96,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Jimi Hendrix.md#claim-t-18962|Jimi Hendrix]]: Jimi Hendrixas grojo Tony'o Zemaicio sukurta gitara „Zemaitis“.
 - susijęs iš [[objektai/asmenys/Paul McCartney.md#claim-t-19186|Paul McCartney]]: Paul McCartney grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.
 - susijęs iš [[objektai/asmenys/Ronnie Wood.md#claim-t-19215|Ronnie Wood]]: Ronnie Wood grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
-    Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.
-    O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-
-    tams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison
-    ir Paul McCartney, Keith Richards ir Ronnie Wood, David Gilmour ir
-    Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
-    Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
-    ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-    - t-003
-
-- c-002
-  santrauka: 'Tony’o Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-
-    tams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison
-    ir Paul McCartney, Keith Richards ir Ronnie Wood, David Gilmour ir
-    Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
-    Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
-    ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka. O juk iš tokių
-    emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimusi Lietuvo-
-    je, 1902 m. su šeima emigravusi į JAV), o šalia jo ir Leonard Cohen (jo
-    mama – iš Lietuvos emigrantų) ar Anthony Kiedis iš „Red Hot Chilli Pep-
-    pers“… Visų neišvardysi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
@@ -167,8 +122,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45489
-    - t-45491
     - t-45490
+    - t-45491
 
 - id: c-48270
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

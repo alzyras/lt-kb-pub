@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 250
+tema_objektu_skaicius: 249
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 250.
+Objektų skaičius: 249.
 
 ## Kaip naudoti
 
@@ -88,9 +88,7 @@ Objektų skaičius: 250.
 - [Henrikas (Varmės vyskupas)](../objektai/asmenys/Henrikas%20%28Varm%C4%97s%20vyskupas%29)
 - [Henrikas iš Izenbergo](../objektai/asmenys/Henrikas%20i%C5%A1%20Izenbergo)
 - [Henrikas iš Svarcburgo](../objektai/asmenys/Henrikas%20i%C5%A1%20Svarcburgo)
-- [Hugonas Butyras](../objektai/asmenys/Hugonas%20Butyras)
 - [Ignotas Masalskis](../objektai/asmenys/Ignotas%20Masalskis)
-- [Inocentas IV](../objektai/asmenys/Inocentas%20IV)
 - [Inocentas IX](../objektai/asmenys/Inocentas%20IX)
 - [Inocentas VI](../objektai/asmenys/Inocentas%20VI)
 - [Isamas (Rygos arkivyskupas)](../objektai/asmenys/Isamas%20%28Rygos%20arkivyskupas%29)
@@ -165,7 +163,7 @@ Objektų skaičius: 250.
 - [Motiejus](../objektai/asmenys/Motiejus)
 - [Motiejus (Vilniaus vyskupas)](../objektai/asmenys/Motiejus%20%28Vilniaus%20vyskupas%29)
 - [Motiejus Porempskis](../objektai/asmenys/Motiejus%20Porempskis)
-- [Motiejus Valančius](../objektai/asmenys/Motiejus%20Valan%C4%8Dius)
+- [Motiejus Valančius (vyskupas, XIX a.)](../objektai/asmenys/Motiejus%20Valan%C4%8Dius)
 - [Mstivojus](../objektai/asmenys/Mstivojus)
 - [Muka](../objektai/asmenys/Muka)
 - [Mykolas (Glinsko kunigaikštis)](../objektai/asmenys/Mykolas%20%28Glinsko%20kunigaik%C5%A1tis%29)
@@ -228,7 +226,6 @@ Objektų skaičius: 250.
 - [Valerijonas Suškovskis Protasevičius (vyskupas)](../objektai/asmenys/Valerijonas%20Su%C5%A1kovskis%20Protasevi%C4%8Dius)
 - [Vilhelmas (dekanas)](../objektai/asmenys/Vilhelmas%20%28dekanas%29)
 - [Vilhelmas (Rygos arkivyskupas)](../objektai/asmenys/Vilhelmas%20%28Rygos%20arkivyskupas%29)
-- [Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)](../objektai/asmenys/Vilhelmas%20i%C5%A1%20Modenos)
 - [Vinrichas Kniprodė](../objektai/asmenys/Vinrichas%20Kniprod%C4%97)
 - [Visvaldis](../objektai/asmenys/Visvaldis)
 - [Vitas](../objektai/asmenys/Vitas)
@@ -257,6 +254,7 @@ Objektų skaičius: 250.
 - [Hennenberger C](../objektai/autoriai/Hennenberger%20C)
 - [Hermanas Vartbergė](../objektai/autoriai/Hermanas%20Vartberg%C4%97)
 - [Jaroslavas](../objektai/autoriai/Jaroslavas)
+- [Jonas Dominykas Lopacinskis](../objektai/autoriai/Jonas%20Dominykas%20Lopacinskis)
 - [Juozas Arnulfas Giedraitis](../objektai/autoriai/Juozas%20Arnulfas%20Giedraitis)
 - [Kamerotos vyskupas Petras](../objektai/autoriai/Kamerotos%20vyskupas%20Petras)
 - [Kristijonas](../objektai/autoriai/Kristijonas)
@@ -278,3 +276,6 @@ Objektų skaičius: 250.
 - [Waddyngas Luca Vaddingo](../objektai/autoriai/Waddyngas%20Luca%20Vaddingo)
 - [Šventasis Steponas](../objektai/autoriai/%C5%A0ventasis%20Steponas)
 - [Гуревич Ф. Д](../objektai/autoriai/%D0%93%D1%83%D1%80%D0%B5%D0%B2%D0%B8%D1%87%20%D0%A4.%20%D0%94)
+
+### Vietos
+- [Pamedė](../objektai/vietos/Pamed%C4%97)

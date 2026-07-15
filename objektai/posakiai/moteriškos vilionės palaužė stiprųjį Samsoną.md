@@ -35,8 +35,8 @@ Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: m
   teiginys: "Petras Dusburgietis teigė, kad moteriškos vilionės palaužė Samsoną, Dovydą ir Saliamoną, bet aprašytasis vyras jas nugalėjo."
   pagrindžia:
     - c-59765
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Petras Dusburgietis teigė, kad moteriškos vilionės palaužė Samsoną, Dovydą ir Saliamoną, bet aprašytasis vyras jas nugalėjo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -59,14 +59,20 @@ Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: m
 - id: c-59765
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 178"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Štai koks nuostabus,  štai koks nepaprastas įvykis: moteriškos
-    vilionės palaužė stiprųjį Samsoną, šventąjį Dovydą, išmintingąjį Saliamoną, tuo tarpu
-    šis vyras, laisva valia apkabinęs savo bendrę, nugalėjo ir pakilo į dorybės viršūnes. Negi
-    jis ne stipresnis už Samsoną, ne šventesnis už Dovydą, ne išmintingesnis už Saliamoną?
-    Nemažindami aniems deramos pagarbos, šiuo atveju galime tvirtai sakyti: taip.
+    Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
+    išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias
+    naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau
+    minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
+    kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,
+    galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,
+    atsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir
+    šitaip išvaduojamas iš netikėlių nelaisvės. Todėl vienas lietuvis, vardu Nodamas, prityręs
+    karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė
+    šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
+    apsirengęs moteriškais rūbais, atsisėdo ant upės kranto.
+  citata_rodoma: "Štai koks nuostabus,  štai koks nepaprastas įvykis: moteriškos\nvilionės palaužė stiprųjį Samsoną, šventąjį Dovydą, išmintingąjį Saliamoną, tuo tarpu\nšis vyras, laisva valia apkabinęs savo bendrę, nugalėjo ir pakilo į dorybės viršūnes. Negi\njis ne stipresnis už Samsoną, ne šventesnis už Dovydą, ne išmintingesnis už Saliamoną?\nNemažindami aniems deramos pagarbos, šiuo atveju galime tvirtai sakyti: taip."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

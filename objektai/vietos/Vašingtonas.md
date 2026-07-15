@@ -56,27 +56,6 @@ media_all_json: |-
 - susijęs iš Praha: 2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO.
 - susijęs iš [[objektai/zodynas/Kolektyvinės savigynos teisė.md#claim-t-183434|Kolektyvinės savigynos teisė]]: Vašingtono sutarties 5-ajame straipsnyje garantuojama individualios ar kolektyvinės savigynos teisė, užpuolus vieną Aljanso narę.
 - susijęs iš [[objektai/zodynas/Kolektyvinės savigynos teisė.md#claim-t-21996|Kolektyvinės savigynos teisė]]: Kolektyvinės savigynos teisė reiškia, kad ginkluoto puolimo prieš vieną Aljanso narę atveju kitos narės ateina jai į pagalbą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1994 m. sausį Lietuvos Res-
-    publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-
-    toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
-    dauja tapti šios organizacijos nare. Tų pačių metų sausį Lietuva prisijungė
-    prie Partnerystės taikos labui iniciatyvos. 1999 m. balandį NATO šalių
-    vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą
-    siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stoji-
-    mui į NATO.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24547

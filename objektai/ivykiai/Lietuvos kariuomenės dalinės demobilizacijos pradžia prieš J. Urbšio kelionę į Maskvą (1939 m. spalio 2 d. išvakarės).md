@@ -56,22 +56,6 @@ Nenurodyta
   teiginys: "Juozo Urbšio kelionės į Maskvą išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija buvo rizikingas žingsnis."
   pagrindžia:
     - c-23039
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
-    kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
-    pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
-    nis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

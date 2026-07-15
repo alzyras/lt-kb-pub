@@ -12,14 +12,14 @@ datos:
   - '1701 m.'
 date_start: '1600'
 date_end: '1701'
+amziai:
+  - 'XVI'
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dinastija
   - grupe
-amziai:
-  - 'XVI'
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -76,15 +76,8 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   pagrindžia:
     - c-22844
 
-<a id="claim-t-75059"></a>
-- t-006
-  global_id: t-75059
-  teiginys: "XVII a. ATR kariavo su Švedija 1600–1629 m. ir 1655–1660 m., o karus komplikavo Vazų pretenzijos į Švedijos sostą."
-  pagrindžia:
-    - c-166591
-
 <a id="claim-t-188360"></a>
-- t-007
+- t-006
   global_id: t-188360
   teiginys: "Narbutas Švedijoje minėjo vyriausiąjį žynį ir teisėją, kuris dėl šių pareigų save laikė aukščiausiuoju karaliumi."
   pagrindžia:
@@ -175,7 +168,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80674|Kėdainių unija (1655 m. spalio 20 d.)]]: Po Kėdainių unijos švedai nepateisino Jonušo Radvilos lūkesčių: jis negavo reikšmingų pareigų, o karinė pagalba nebuvo suteikta.
 - susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80675|Kėdainių unija (1655 m. spalio 20 d.)]]: Jonušas Radvila siekė nutraukti LDK uniją su Lenkija ir sudaryti naują uniją su Švedija.
 - susijęs iš [[objektai/ivykiai/Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.).md#claim-t-01747|Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)]]: 1654–1655 m. Lietuvą užpuolė Maskva ir Švedai.
-- susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185750|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus.
+- susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185750|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Kojelavičiaus pasakojime Maskvos kunigaikštis Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią sakėsi telkęs karui prieš skitus ir švedus.
 - susijęs iš [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.).md#claim-t-78632|Prostkų mūšis (1656 m. spalio 8 d.)]]: Prostkų mūšyje Švedijos ir Brandenburgo pajėgas pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujama kariuomenė.
 - susijęs iš [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.).md#claim-t-78635|Prostkų mūšis (1656 m. spalio 8 d.)]]: 1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas.
 - susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10278|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje švedų kavalerijai netvarkingai traukiantis suiro pėstininkų rikiuotė, o centre žuvo švedų generolas A. Liuneburgietis.
@@ -390,87 +383,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš Biržų pilis (pilis): Iki 1657 m. V. Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė Biržų pilyje buvusi švedų įgula.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65305|Kazokai]]: Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva
-    ir Lenkija gavo didžiąją Livonijos dalį, kartu ir Rygą. Tačiau Švedija ėmė
-    siekti viešpatauti Baltijos jūroje (dominium maris Baltici). Dėl to įsilieps-
-    nojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-002
-  santrauka: 'Švedai sugriovė nedidelius Lietuvos uostus Palangoje ir Šventojoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
-    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
-
-    L I E T U V O S  I S T O R I J A
-    88
-    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
-    Lietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-
-    saką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai
-    apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
-    Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
-    1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
-    nulems tolesnį ATR likimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: '1655–1660 m. švedai kariavo Lietuvos ir Lenkijos teritorijose, bet Lietuvoje įsitvirtinti jiems nepavyko.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    87
-    1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
-    Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
-    čiau švedams įsitvirtinti Lietuvoje nepavyko. Iškylanti Rusija Šiaurės karo
-    metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-
-    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
-    Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
-    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
-- c-004
-  santrauka: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    86
-    XVII a. ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m.
-    Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
-    kė pretenzijas į Švedijos sostą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-002
-
 - c-005
   santrauka: 'Narbutas Švedijoje minėjo vyriausiąjį žynį ir teisėją, kuris dėl šių pareigų save laikė aukščiausiuoju karaliumi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -551,8 +463,8 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75062
     - t-75060
+    - t-75062
 
 - id: c-166591
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -569,19 +481,22 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183204
     - t-75059
 
 - id: c-171254
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 416"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 416."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kaip tik
-    Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
-    jas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­
-    raliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39).
+    Šitaip būdavo paskelbiami
+    ne vien teismai, bet ir be skirtumo visokios viešosios sueigos;
+    ten turėdavo būti svarstomi kokie nors neeiliniai klausimai
+    arba bylos. Ši pranešėjo lazda būdavo pažymėta priklausomai
+    nuo dalyko, kuris turėdavo būti svarstomas sueigoje, kaip an­
+    tai, jeigu tikėjimo dalykas, - mediniu kryžiumi; jeigu žmogžu­
+    dystė, - medine strėle arba kirviu). Naudojimasis ta budlafla
+    kilęs iš seniausių stabmeldystės laikų, nes tą patį paprotį ran-
+  citata_rodoma: "Kaip tik\nŠvedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­\njas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­\nraliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

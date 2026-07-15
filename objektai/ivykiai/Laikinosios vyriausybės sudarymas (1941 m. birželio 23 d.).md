@@ -57,25 +57,6 @@ Nenurodyta
   teiginys: "1941 m. birželio 23 d. sudarytos Laikinosios vyriausybės vadovu tapo literatūros dėstytojas Juozas Ambrazevičius."
   pagrindžia:
     - c-22987
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Daugumą
-    partizanų sudarė jauni ir vidutinio amžiaus lietuviai: inteligentai, ūkinin-
-    kai, darbininkai, studentai, moksleiviai, kariškiai.
-    Naciams iš Berlyno neišleidus LAF vado K. Škirpos, įkalinus jį „namų
-    arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu
-    tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių
-    demokratų pakraipos asmenys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

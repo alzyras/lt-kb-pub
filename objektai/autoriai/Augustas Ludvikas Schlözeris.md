@@ -47,56 +47,14 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   teiginys: "Augustas Ludvikas Schlözeris 1785 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų."
   pagrindžia:
     - c-30456
-
-<a id="claim-t-71506"></a>
-- t-002
-  global_id: t-71506
-  teiginys: "Augustas Ludvikas Schlözeris 1785 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų."
-  pagrindžia:
     - c-03973
 
 <a id="claim-t-71507"></a>
-- t-003
+- t-002
   global_id: t-71507
   teiginys: "Augustas Ludvikas Schlözeris pripažino, kad jo veikalas nebuvo originalus, o perdirbtas ir sutrumpintas Kojalavičiaus tekstas."
   pagrindžia:
     - c-30456
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Europoje paskleistą me­
-    džiagą apie Lietuvą, patiekė susistemintą ir, palyginti, kritiškai.
-    Jis, pvz., su pagrindu visą XII amž. chronologiją laiko « didžiuliu
-    paklydimu », įtardamas net ir Mindaugo laikų datas.
-    Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas
-    Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos
-    Kunigaikštystės istoriją iki 1569 metų^32.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas
-    Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos
-    Kunigaikštystės istoriją iki 1569 metų^32. Autorius nuoširdžiai prisi­
-    pažino, kad jis davęs ne originalų veikalą, o tik perdirbęs ir su­
-    trumpinęs Kojalavičių, kurio vertę, kaip istoriko, aukštai kėlė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
 
 ## Citatos
 
@@ -114,12 +72,10 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
     Kunigaikštystės istoriją iki 1569 metų^32.
   citata_rodoma: "Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas\nLudvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos\nKunigaikštystės istoriją iki 1569 metų^32."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-71506
-
 - id: c-30456
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

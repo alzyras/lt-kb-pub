@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Filosofijos licenciato laipsnis
 sukurta: '2026-07-12'
 variantai:
-  - fil. licenciato
+  - 'fil. licenciato'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []

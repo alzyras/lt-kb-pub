@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 70
+tema_objektu_skaicius: 67
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 70.
+Objektų skaičius: 67.
 
 ## Kaip naudoti
 
@@ -27,7 +27,6 @@ Objektų skaičius: 70.
 
 ### Papročiai
 - [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]]
-- [[objektai/paprociai/Abipusis laisvėn paleistų belaisvių grąžinimas per taikos derybas]]
 - [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]
 - [[objektai/paprociai/Apgaulingo atsitraukimo manevras]]
 - [[objektai/paprociai/Apgulties logistika blokuojant maisto tiekimą]]
@@ -51,7 +50,7 @@ Objektų skaičius: 70.
 - [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]
 - [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]
 - [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]
-- [Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes](../objektai/paprociai/Kur%C5%A1i%C5%B3%20pl%C4%97%C5%A1iamieji%20%C5%BEygiai%20%C4%AF%20Danijos%20ir%20%C5%A0vedijos%20pakrantes)
+- [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]
 - [Kęstučio riteriškų papročių laikymasis](../objektai/paprociai/K%C4%99stu%C4%8Dio%20riteri%C5%A1k%C5%B3%20papro%C4%8Di%C5%B3%20laikymasis)
 - [Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas](../objektai/paprociai/Lietuvi%C5%B3%20grobiamieji%20antpuoliai%2C%20belaisvi%C5%B3%20i%C5%A1varymas%20ir%20deginimas)
 - [Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai](../objektai/paprociai/Lietuvi%C5%B3%20ir%20lenk%C5%B3%20dalini%C5%B3%20bendros%20operacijos%20bei%20pasienio%20susir%C4%97mimai)
@@ -63,12 +62,10 @@ Objektų skaičius: 70.
 - [Patrankų vardų ir lotyniškų įrašų suteikimas](../objektai/paprociai/Patrank%C5%B3%20vard%C5%B3%20ir%20lotyni%C5%A1k%C5%B3%20%C4%AFra%C5%A1%C5%B3%20suteikimas)
 - [Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza](../objektai/paprociai/Paviet%C4%97s%20kar%C5%AB%C5%BEojo%20metin%C4%97%20%C5%BEemlion%C5%B3%20ginkl%C5%B3%20ir%20%C5%BEirg%C5%B3%20perveiza)
 - [Pranašaujamoji karo auka iš belaisvio kraujo](../objektai/paprociai/Prana%C5%A1aujamoji%20karo%20auka%20i%C5%A1%20belaisvio%20kraujo)
-- [Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas](../objektai/paprociai/Prie%C5%A1o%20galios%20perd%C4%97jimas%20kaip%20maskv%C4%97n%C5%B3%20karo%20apgaul%C4%97s%20b%C5%ABdas)
 - [Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes](../objektai/paprociai/Reguliar%C5%ABs%20lietuvi%C5%B3%20grobiamieji%20%C5%BEygiai%20%C4%AF%20kaimyn%C5%B3%20balt%C5%B3%20ir%20slav%C5%B3%20%C5%BEemes)
 - [Reguliarūs lietuvių plėšiamieji žygiai į Rusios, Lenkijos ir Livonijos žemes](../objektai/paprociai/Reguliar%C5%ABs%20lietuvi%C5%B3%20pl%C4%97%C5%A1iamieji%20%C5%BEygiai%20%C4%AF%20Rusios%2C%20Lenkijos%20ir%20Livonijos%20%C5%BEemes)
 - [Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu](../objektai/paprociai/Riteri%C5%A1kas%20dvikovos%20i%C5%A1%C5%A1%C5%ABkis%20su%20neutralios%20vietos%20ir%20teis%C4%97jo%20pasirinkimu)
 - [Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą (kraštas)](../objektai/paprociai/Sal%C5%B3%20pili%C5%B3%20%C4%AFgul%C5%B3%20da%C5%BEni%20smulk%C5%ABs%20i%C5%A1puoliai%20%C4%AF%20aplinkin%C4%AF%20kra%C5%A1t%C4%85)
-- [Samdinių verbavimas krikščioniškose karalystėse įgulos tarnybai](../objektai/paprociai/Samdini%C5%B3%20verbavimas%20krik%C5%A1%C4%8Dioni%C5%A1kose%20karalyst%C4%97se%20%C4%AFgulos%20tarnybai)
 - [Sezoniniai ordino žygiai į Lietuvą](../objektai/paprociai/Sezoniniai%20ordino%20%C5%BEygiai%20%C4%AF%20Lietuv%C4%85)
 - [Skitų belaisvių tarnybos ir pragyvenimo praktikos Lietuvoje](../objektai/paprociai/Skit%C5%B3%20belaisvi%C5%B3%20tarnybos%20ir%20pragyvenimo%20praktikos%20Lietuvoje)
 - [Slėpimasis miškų tankmėse su brangesniais daiktais per antpuolius](../objektai/paprociai/Sl%C4%97pimasis%20mi%C5%A1k%C5%B3%20tankm%C4%97se%20su%20brangesniais%20daiktais%20per%20antpuolius)

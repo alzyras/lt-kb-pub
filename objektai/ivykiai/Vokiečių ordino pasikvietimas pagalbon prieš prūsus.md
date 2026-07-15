@@ -47,23 +47,6 @@ Nenurodyta
   teiginys: "XIII a. pradžioje mozūrų kunigaikščiai pasikvietė kryžiuočius į pagalbą prieš prūsus."
   pagrindžia:
     - c-02098
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Aisčių kraštai tuomet labai nukentėdavo. Bet, surinkę jėgų, ais-
-    čiai jiems skaudžiai atkeršydavo. Po ilgų kovų, XIII amž. pra-
-    džioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė
-    sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-
-    riavęs didelius aisčių plotus, sukūrė ten savo valstybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

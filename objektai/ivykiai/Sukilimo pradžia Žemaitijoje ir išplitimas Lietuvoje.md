@@ -51,25 +51,6 @@ Nenurodyta
   teiginys: "Pavasarį sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė visą Lietuvą."
   pagrindžia:
     - c-82937
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pavasarį sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė visą Lietuvą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šis komitetas turėjo organizuoti sukilimą va­
-    karinėse Rusijos imperijos gubernijose. Tačiau pavasarį
-    sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė
-    visą Lietuvą. Rusų valdžia kontroliavo tik Vilniaus miestą, iš
-    kurio pasitraukė keli šimtai universiteto studentų ir įsiliejo į su­
-    kilėlių gretas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

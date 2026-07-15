@@ -58,40 +58,13 @@ Nenurodyta
   teiginys: "Narbuto pasakojimu, prie Kražių ant Medžiokalnio stovėjo deivės Medziojnos šventykla."
   pagrindžia:
     - c-174907
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    114 /Tein pat,
-    1 pastraipos tęsinys ir naujos išnašos/
-    Prie Kražių miestelio, Kražantės upės kairiajame krante, ant Me­
-    džiokalnio kalno, stovėjo deivės Medziojnos šventykla19. Tai tik­
-    riausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­
-    joje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero
-    ir Zurblio (2urblis)
-    pievos.
-    Valdant
-    karaliui
-    Aleksandrui,
-    jo
-    įsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
 - id: c-174907
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 494"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 494."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     114 /Tein pat,
     1 pastraipos tęsinys ir naujos išnašos/
@@ -112,5 +85,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192030
     - t-192029
+    - t-192030

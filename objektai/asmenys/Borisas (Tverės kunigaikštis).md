@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Borisas (Tverės kunigaikštis)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
@@ -37,7 +38,7 @@ media_all_json: |-
 
 ## Santrauka
 
-[Tais pačiais metais (1430) pas Vytautą buvo suvažiavę visų žemių žmonės: jo vaikaitis di­ dysis Maskvos kunigaikštis Vasili­ jus Vasiljevičius ir karalius Jogaila Algirdaitis, ir Vokietijos vaivada Kunšteris, ir metropolitas Fotijas, ir kardinolas iš Romos. Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėliau pateko Žygimanto galion; nes popiežius Eugenijus IV užtarė ją laiške Žygimantui Kęstutaičiui, rašytame iš Florencijos 1434 metų spalio 20 dieną.
+Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais. Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį Mariją, dėl jos perėjo į rusų tikėjimą ir gavo Jurgio vardą.
 
 ## Teiginiai
 
@@ -55,100 +56,33 @@ media_all_json: |-
   pagrindžia:
     - c-83576
 
-<a id="claim-t-193899"></a>
-- t-003
-  global_id: t-193899
-  teiginys: "Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį, vardu M ariją9 , dėl kurios perėjo į rusų tikė jimą, jam buvo duotas Jurgio vardas, ir tasai Jurgis1 0 , trumpai tepavaldęs, pasimirė."
-  pagrindžia:
-    - c-176524
-
 <a id="claim-t-193900"></a>
 - t-004
   global_id: t-193900
-  teiginys: "Savo įpėdiniu Polocke paliko savo sūnų Borisą\", ir šis kunigaikštis Borisas prie Berezinos upės įkūrė savo vardo miestą ir pavadino jį Borisovu l2 ."
+  teiginys: "Kunigaikštis Borisas, Ginvilos sūnus ir Polocko įpėdinis, prie Berezinos upės įkūrė savo vardo miestą Borisovą."
   pagrindžia:
     - c-176525
+
+<a id="claim-t-193899"></a>
+- t-003
+  global_id: t-193899
+  teiginys: 'Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį Mariją, dėl jos perėjo į rusų tikėjimą ir gavo Jurgio vardą.'
+  pagrindžia:
+    - c-176524
 - susijęs iš [[objektai/asmenys/Sofija (Švitrigailos žmona).md#claim-t-87855|Sofija (Švitrigailos žmona)]]: Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.
 - susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-184371|Borisas Karijotaitis]]: Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
 - susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-179639|Karijotas]]: Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo.
 - susijęs iš [[objektai/asmenys/Sofija (Švitrigailos žmona).md#claim-t-87855|Sofija (Švitrigailos žmona)]]: Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186631|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės.
 - susijęs iš Tverė: Popiežius Eugenijus IV 1434 m. laiške užtarė Sofiją, Tverės kunigaikščio Boriso dukterį, patekusią Žygimanto galion.
 - susijęs iš Tverė: Švitrigailos žmona Sofija buvo Tverės kunigaikščio Boriso duktė ir vėliau pateko Žygimanto valdžion.
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199221|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės.
 - susijęs iš [[objektai/asmenys/Konstantinas (Karijotaitis).md#claim-t-29032|Konstantinas (Karijotaitis)]]: Konstantinas Karijotaitis palaikė Lietuvos ir Lenkijos sąjungą, nes jam rūpėjo apsaugoti Podolę nuo totorių.
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186630|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką.
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186632|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu.
 - susijęs iš [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to).md#claim-t-185548|Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]: Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos.
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199220|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką.
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199222|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tai, ką mūsų kronikininkai kal­
-    ba apie Švitrigailos žmonos sugavi­
-    mą Ašmenoje, esą jis neįstengęs iš­
-    sivežti kartu - tai nėra tikslu, nes tais
-    pat 1432 metais lapkričio 30 dieną
-    Švitrigaila, rašydamas Livonijos ma­
-    gistrui, užsimena, kad žmona jam
-    pagimdžiusi sūnų. Tačiau ši jo žmo­
-    na Sofija, Tverės kunigaikščio Bori­
-    so duktė, vėliau pateko Žygimanto
-    galion; nes popiežius Eugenijus IV
-    užtarė ją laiške Žygimantui Kęstu-
-    taičiui, rašytame iš Florencijos 1434
-    metų spalio 20 dieną.
-    216
-
-    ## Puslapis 233
-
-    I I I  KNYGA
-    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
-    miestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
-    vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
-    sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
-    nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
-    kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
-    ir barbariškumo, nuo to laiko pradėjo smukti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    I siede po nem Szwitrihajła
-    Olhirdowicz. [Tais pačiais metais
-    (1430) pas Vytautą buvo suvažiavę
-    visų žemių žmonės: jo vaikaitis di­
-    dysis Maskvos kunigaikštis Vasili­
-    jus Vasiljevičius ir karalius Jogaila
-    Algirdaitis, ir Vokietijos vaivada
-    Kunšteris, ir metropolitas Fotijas, ir
-    kardinolas iš Romos nuo popie­
-    žiaus, ir Tverės kunigaikštis Borisas,
-    ir Valakijos vaivada Ljašas, ir Čeki­
-    jos karalius, ir visi kunigaikščiai, ir
-    vaivados, ir bajorai iš visų žemių pas
-    jį buvo. Ir didysis kunigaikštis visus
-    apdovanojęs ir atsisveikinęs, Didži­
-    ąją Kunigaikštystę valdęs 37 metus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
-  santrauka: 'Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį, vardu M ariją9 , dėl kurios perėjo į rusų tikė jimą, jam buvo duotas Jurgio vardas, ir tasai Jurgis1 0 , trumpai tepavaldęs, pasimirė.'
+  santrauka: 'Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį Mariją, dėl jos perėjo į rusų tikėjimą ir gavo Jurgio vardą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ginvila vedė Tverės didžiojo kunigaikščio Boriso
@@ -164,39 +98,12 @@ media_all_json: |-
     Polotos upės, pusę mylios aukščiau pilies; trečią —
     Boriso ir Glebo cerkvę Belčičių vienuolyne l6 .
   citata_rodoma: ''
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Savo įpėdiniu Polocke paliko savo sūnų Borisą", ir šis kunigaikštis Borisas prie Berezinos upės įkūrė savo vardo miestą ir pavadino jį Borisovu l2 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Savo įpėdiniu Polocke paliko savo sūnų Borisą",
-    ir šis kunigaikštis Borisas prie Berezinos upės įkūrė
-    savo vardo miestą ir pavadino jį Borisovu l2 . Būda­
-    mas rusų tikėjimo, buvo labai pamaldus ir pastatydino
-    Polocke mūrinę šventosios Sofijos cerkvę l3; antrą —
-    šventojo Išganytojo nekaltų mergelių vienuolyną 1 4  prie
-    Polotos upės, pusę mylios aukščiau pilies; trečią —
-    Boriso ir Glebo cerkvę Belčičių vienuolyne l6 .
-    Valdydamas Polocką, jis buvo maloningas savo val­
-    diniams ir jiems, savo valdiniams, dovanojo laisvių
-
-    ## Puslapis 46
-
-    bei teisę šaukti viečę, skambinti varpu ir valdytis, kaip
-    Didžiajame Naugarde ir Pskove.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 ## Citatos
 
@@ -267,30 +174,6 @@ media_all_json: |-
   pagrindzia:
     - t-87597
 
-- id: c-176524
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Ginvila vedė Tverės didžiojo kunigaikščio Boriso
-    dukterį, vardu M ariją9 , dėl kurios perėjo į rusų tikė­
-    jimą, jam buvo duotas Jurgio vardas, ir tasai Jurgis1 0 ,
-    trumpai tepavaldęs, pasimirė.
-    Savo įpėdiniu Polocke paliko savo sūnų Borisą",
-    ir šis kunigaikštis Borisas prie Berezinos upės įkūrė
-    savo vardo miestą ir pavadino jį Borisovu l2 . Būda­
-    mas rusų tikėjimo, buvo labai pamaldus ir pastatydino
-    Polocke mūrinę šventosios Sofijos cerkvę l3; antrą —
-    šventojo Išganytojo nekaltų mergelių vienuolyną 1 4  prie
-    Polotos upės, pusę mylios aukščiau pilies; trečią —
-    Boriso ir Glebo cerkvę Belčičių vienuolyne l6 .
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193899
-
 - id: c-176525
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -298,19 +181,18 @@ media_all_json: |-
   citata_originali: |
     Savo įpėdiniu Polocke paliko savo sūnų Borisą",
     ir šis kunigaikštis Borisas prie Berezinos upės įkūrė
-    savo vardo miestą ir pavadino jį Borisovu l2 . Būda­
+    savo vardo miestą ir pavadino jį Borisovu l2. Būda­
     mas rusų tikėjimo, buvo labai pamaldus ir pastatydino
     Polocke mūrinę šventosios Sofijos cerkvę l3; antrą —
-    šventojo Išganytojo nekaltų mergelių vienuolyną 1 4  prie
+    šventojo Išganytojo nekaltų mergelių vienuolyną 14 prie
     Polotos upės, pusę mylios aukščiau pilies; trečią —
-    Boriso ir Glebo cerkvę Belčičių vienuolyne l6 .
+    Boriso ir Glebo cerkvę Belčičių vienuolyne l6.
     Valdydamas Polocką, jis buvo maloningas savo val­
     diniams ir jiems, savo valdiniams, dovanojo laisvių
 
-    ## Puslapis 46
-
     bei teisę šaukti viečę, skambinti varpu ir valdytis, kaip
     Didžiajame Naugarde ir Pskove.
+  citata_rodoma: "Savo įpėdiniu Polocke paliko savo sūnų Borisą\", \nir šis kunigaikštis Borisas prie Berezinos upės įkūrė \nsavo vardo miestą ir pavadino jį Borisovu l2 . Būda­\nmas rusų tikėjimo, buvo labai pamaldus ir pastatydino \nPolocke mūrinę šventosios Sofijos cerkvę l3; antrą —  \nšventojo Išganytojo nekaltų mergelių vienuolyną 1 4  prie \nPolotos upės, pusę mylios aukščiau pilies; trečią — \nBoriso ir Glebo cerkvę Belčičių vienuolyne l6 .\nValdydamas Polocką, jis buvo maloningas savo val­\ndiniams ir jiems, savo valdiniams, dovanojo laisvių\n\n## Puslapis 46\n\nbei teisę šaukti viečę, skambinti varpu ir valdytis, kaip \nDidžiajame Naugarde ir Pskove."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

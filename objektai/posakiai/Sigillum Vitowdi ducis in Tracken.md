@@ -35,23 +35,6 @@ Kiek vėliau padary­ tas jo nuorašas aprašo keturias antspaudas, tarp kurių 
   teiginys: "Vėlesniame akto nuoraše įrašas „Sigillum Vitowdi ducis in Tracken“ nurodė Vytauto, Trakų kunigaikščio, antspaudą."
   pagrindžia:
     - c-38366
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vėlesniame akto nuoraše įrašas „Sigillum Vitowdi ducis in Tracken“ nurodė Vytauto, Trakų kunigaikščio, antspaudą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Prie šito akto Vytauto antspauda neišliko. Kiek vėliau padary­
-    tas jo nuorašas aprašo keturias antspaudas, tarp kurių pirmoje
-    vietoje yra Vytauto: Sigillum Vitowdi ducis in Tracken.
-    Dėl šitos sutarties autentiškumo keliama abejonių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

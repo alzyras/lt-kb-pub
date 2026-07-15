@@ -35,8 +35,8 @@ Dusburgietis teigia, kad 67—68): „...atkeršykite priešams už savo tautą.
   teiginys: "Makabiejų knygos citatoje raginama atkeršyti priešams už savo tautą ir atsilyginti jiems pagal nuopelnus."
   pagrindžia:
     - c-59710
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Makabiejų knygos citatoje raginama atkeršyti priešams už savo tautą ir atsilyginti jiems pagal nuopelnus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -56,11 +56,15 @@ Dusburgietis teigia, kad 67—68): „...atkeršykite priešams už savo tautą.
 - id: c-59710
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 255"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Siek tiek toliau jis priduria (1 Mak 2. 67—68): „...atkeršykite priešams
-    už savo tautą. Atsilyginkite savo priešams, ką jie užsipelnė”.
+    Ar kas kada girdėjo apie
+    tokią baisybę, tu padarei tokią piktadarystę, kurios nėra buvę nuo pat Ordino įsikūrimo
+    pradžios. Tu nė trupučio nepagalvojai, ką reiškia tavo vardas, nes Jonas reiškia tą,
+    kuriam suteikta malonė. Deja, tavyje nesirado nė kruopelytės malonės, nes tuo metu,
+    kai magistras tave bardavo už tavo nusikaltimus, tu, jeigu būtum buvęs protingas, turėjai
+    jį gerbti nelyginant savo tėvą.
+  citata_rodoma: "Siek tiek toliau jis priduria (1 Mak 2. 67—68): „...atkeršykite priešams\nuž savo tautą. Atsilyginkite savo priešams, ką jie užsipelnė”."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

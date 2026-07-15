@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 48
+tema_objektu_skaicius: 47
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 48.
+Objektų skaičius: 47.
 
 ## Kaip naudoti
 
@@ -70,7 +70,6 @@ Objektų skaičius: 48.
 - [Turcilingai](../objektai/grupes/Turcilingai)
 - [Valetabai](../objektai/grupes/Valetabai)
 - [Variagai (normanai)](../objektai/grupes/Variagai%20%28normanai%29)
-- [Venedai](../objektai/grupes/Venedai)
 - [Vibionai](../objektai/grupes/Vibionai)
 - [Vilkai-liutikai](../objektai/grupes/Vilkai-liutikai)
 - [Vėlinai](../objektai/grupes/V%C4%97linai)

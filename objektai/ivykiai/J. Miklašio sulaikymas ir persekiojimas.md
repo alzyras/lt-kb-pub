@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-J. Miklašis, grįždamas į Maskoliją, buvo sulaikytas pasienyje po skundo, kad esąs neištikimas lenkiškiems politiniams idealams.
+J. Miklašis, grįždamas į Maskoliją, buvo sulaikytas pasienyje po skundo, kad esąs neištikimas lenkiškiems politiniams idealams. J. Miklašis, grįždamas į Maskoliją, buvo sulaikytas pasienyje po skundo, kad esąs neištikimas lenkiškiems politiniams idealams.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -72,6 +72,7 @@ Nenurodyta
     išsiaiškino, bet persekiojimai iš lenkų pusēs bei
     smulkios intrigos nesiliovē ir jis priverstas buvo
     persikelt vidun Maskolijos.
+  citata_rodoma: "Vienas jaunas lietuvis*, išsimo­\nkinęs tulą šaką techniškos chemijos speciališkuose \ninstitutuos Vokietijos, Prancuzijos ir Anglijos, \nLietuvon sugrįżo, geisdam as u żsiimt labai naudin­\ngu tu lam kraštui fabrikišku veiklumu. B et jau uż- \nrubeżēje, susitikdam as su tulos patriotiškos spalvos \nlenkais, jis buvo użsitraukęs ant savęs nuotartį, buk\n* J. Miklašis\n\njis lenkiškiemsiems politiškiems idealams neištiki­\nm as esąs ir iš prieżasties melagingo skundo jau ant \nrubeżiaus, Maskolijon grįżtant, sulaikytas tapo. \nReikalas, żinoma, išsiaiškino, bet nuo to lengviaus \nnepasidarē. \nKada jis użsimanē pritraukt prie sa­\nvo użmanymo kelis turtingesnius ukininkus, ant jo \npadaryta svarbią denunciaciją, buk jis „prieš val­\ndżią maištan traukia ukininkus.” \nPateko po poli­\ncijos prieżiura — tu lam laikui praējus vēl reikalas \nišsiaiškino, bet persekiojimai iš lenkų pusēs bei \nsmulkios intrigos nesiliovē ir jis priverstas buvo \npersikelt vidun Maskolijos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

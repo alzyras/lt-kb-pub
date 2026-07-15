@@ -56,8 +56,8 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   teiginys: "Narbutas vertino, kad Karamzinas tiksliai įminė miesto pavadinimų Serkel, Biala wieza, Biata wies ir Bieloserkal tapatumo klausimą."
   pagrindžia:
     - c-174131
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiksmais ir teigė, kad miestas atstatytas XII a. pradžioje po to, kai poloviečiai jį sunaikino.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -77,27 +77,6 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Karamzinas, Narbuto perteikimu, tyrimuose rašė apie vibionų, arba vitbionų, gentį ir jos sostinę Witsby prie Dauguvos, dabartinį Vitebską.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Toliausiai į pietryčius gyveno
-    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
-    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
-    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
-    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
-    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
-    apie tai Karamzinas rašo savo tyrimuose3. Neįmanoma
-    nustatyti, kuriai giminei priklausė šios tautos; jos pasi­
-    meta sarmatų genčių sūkuryje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Karamzinas, Narbuto nurodymu, įrodinėjo, kad poloviečiai patys save vadino Kipczak.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -114,41 +93,24 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   pagrindžia:
     - t-003
 
-- c-004
-  santrauka: 'Narbutas vertino, kad Karamzinas tiksliai įminė miesto pavadinimų Serkel, Biala wieza, Biata wies ir Bieloserkal tapatumo klausimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    102
-    Poloviečiai-lietuviai. Esama įvairių tyrimų, prielaidų
-    ir išvadų apie šį miestą; čia juos pateikti nėra prasmės,
-    nes Karamzinas, ištyręs viską, galutinai ir su jam bū­
-    dingu tikslumu įminė šią mįslę. Anot jo, minėtas miestas
-    vadintas Serkel, Biala wieza, Biata wies, Bieloserkal, o
-    visa tai reiškia vieną ir tą patį: baltas namas, balta pa­
-    lapinė, turgus, užeiga, smuklė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-174128
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 74"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
-    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
-    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
-    toro žodžius priskiria poloviečių veiksmams dešiniojoje
-    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
-    statytas XII amžiaus pradžioje po to, kai jį sunaikino
-    poloviečiai.
+    Tatiščevas**, gal geriau žinojęs šiuos
+    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
+    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
+    Jurjevu, stovėjusią prie Osteros upės žiočių. Reikėtų nu­
+    keliauti toliau į rytus ir gal ten, Doneco ir Dono tarp­
+    upyje, rasime buvusios Giurgevo tvirtovės vietą ir seno­
+    vės upę Ros. Topografiniuose prisiminimuose, apie ku­
+    riuos anksčiau kalbėjome (§ 51), minimas kraštas, kurį
+    aprašome: nuo Oskolo miestelio, esančio prie to paties
+    1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida.
+  citata_rodoma: "Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -159,8 +121,7 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
 - id: c-174129
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Toliausiai į pietryčius gyveno
     stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
@@ -181,13 +142,17 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
 - id: c-174130
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 105"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 105."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Dešiniojoje Dnep-
-    1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas
-    (t. II, priedas 112). Tad jų likučių turėtų būti pas Kapčiako toto­
-    rius Ir, ko gero, jie bus pasivadinę nuo Kapčiako krašto.
+    Pečenegų pavadinimas buvo bendrinis arba tai­
+    komas visai tautai, t. y. abiem jos pusėms, gyvenančioms
+    abipus Dnepro žemupio. Bet ta pusė, kuri gyveno kairio­
+    joje šios upės pakrantėje, buvo pavadinta poloviečiais
+    nuo pusės (polouiy, arba potovuicy). Neabejotinai slaviš­
+    ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
+    kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
+    vengrai vadino šias gentis kumanais.
+  citata_rodoma: "Dešiniojoje Dnep-\n1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas\n(t. II, priedas 112). Tad jų likučių turėtų būti pas Kapčiako toto­\nrius Ir, ko gero, jie bus pasivadinę nuo Kapčiako krašto."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -198,8 +163,7 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
 - id: c-174131
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 108"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 108."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     102
     Poloviečiai-lietuviai. Esama įvairių tyrimų, prielaidų

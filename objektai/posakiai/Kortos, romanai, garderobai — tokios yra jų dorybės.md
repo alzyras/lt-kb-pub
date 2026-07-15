@@ -41,33 +41,13 @@ I. Onacevičius laiške T. Narbutui moralizuoja apie lietuvių abejingumą kraš
   teiginys: "I. Onacevičius 1836 m. laiške T. Narbutui lietuvių „dorybėmis“ vadino kortas, romanus ir garderobus."
   pagrindžia:
     - c-175015
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'I. Onacevičius 1836 m. laiške T. Narbutui lietuvių „dorybėmis“ vadino kortas, romanus ir garderobus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    1836 metų kovo 19 dieną jis rašė T. Narbutui: „Mažai
-    yra Žemės rutulyje kraštų, panašių į Lietuvą, kur žmonės
-    tokie abejingi ir taip nesirūpina savo krašto reikalais.
-    Paprastas žydelis daugiau domisi savo tauta nei lietu­
-    viai. Kortos, romanai, garderobai — tokios yra jų dory­
-    bės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-175015
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 452"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 452."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     1836 metų kovo 19 dieną jis rašė T. Narbutui: „Mažai
     yra Žemės rutulyje kraštų, panašių į Lietuvą, kur žmonės

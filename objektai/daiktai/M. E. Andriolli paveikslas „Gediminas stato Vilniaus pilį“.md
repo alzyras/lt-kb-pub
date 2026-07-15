@@ -62,23 +62,6 @@ Nenurodyta
   teiginys: "M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“ sukurtas 1882 m."
   pagrindžia:
     - c-75247
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“ sukurtas 1882 m.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gediminaičių dinastijai pri-
-    klausė žymiausi, labai svarbų istorinį vaidmenį suvaidinę Lietuvos didieji
-    Gediminas stato Vilniaus pilį.
-    Dail. M. E. Andriolli, 1882 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -44,29 +44,6 @@ Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­ būs Malburgo
 - susijęs iš 1918–1940 m. Lietuvos žemėlapis: „1918–1940 m. Lietuvos žemėlapis“ nurodytas tarp Mokslo ir enciklopedijų leidybos centro fondų medžiagos.
 - susijęs iš Antanas Smetona ir jo aplinka: A. Eidinto knyga „Antanas Smetona ir jo aplinka“ išleista Vilniuje 2012 m.
 - susijęs iš Antanas Smetona ir jo aplinka: A. Eidinto knyga „Antanas Smetona ir jo aplinka“ išleista Vilniuje 2012 metais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kryžiuočiai, kuriuos daugybė svečių lankydavo pastu­
-    dijuoti jų valdymą, kariuomenės organizaciją ar šiaip pasivie­
-    šėti, drąsiai galėjo pasakyti, kad tokio pasiryžusio, supratingo
-    ir gabaus mokinio, kaip Vytautas, Prūsuose nebuvo ligtol buvę.
-    Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­
-    būs Malburgo finansai, ar kelti genialūs karo dalykų sumany­
-    mai, diplomatija — viskas, visos tos gudrybės Vytautą inte­
-    resavo.
-    Prūsuose Vytautas turėjo progos ir su įvairių kraštų žmo­
-    nėmis susitikti ir išsišnekėti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38730

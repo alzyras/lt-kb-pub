@@ -61,46 +61,6 @@ Nenurodyta
   teiginys: "Didelis graižtvinių šautuvų kiekis buvo pagrindinis laikotarpio kovos lauko veiksnys."
   pagrindžia:
     - c-167074
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Didelis graižtvinių šautuvų kiekis kovos lauke buvo svarbus veiksnys, nes didesnis jų šaudymo nuotolis pavojingu padarė suartėjimą su priešu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ## Puslapis 165
-
-    Pagrindinis periodo veiksnys kovos lauke - didelis graižtvinių šau-
-    tuvų kiekis. Didesnis graižtvinių šautuvų šaudymo nuotolis padarė
-    pavojingu suartėjimo su priešininkų etapą. Besiginančioji pusė ga-
-    lėjo atidengti efektyvią ugnį daug toliau, negu buvo įmanoma xix a.
-    pirmojoje pusėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Didelis graižtvinių šautuvų kiekis buvo pagrindinis laikotarpio kovos lauko veiksnys.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rusų karinei vadovybei pavyko
-    suimti daugelį žymių sukilėlių vadų.
-
-    ## Puslapis 165
-
-    Pagrindinis periodo veiksnys kovos lauke - didelis graižtvinių šau-
-    tuvų kiekis. Didesnis graižtvinių šautuvų šaudymo nuotolis padarė
-    pavojingu suartėjimo su priešininkų etapą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Puslapis 165 Pagrindinis periodo veiksnys kovos lauke - didelis graižtvinių šautuvų kiekis.
 

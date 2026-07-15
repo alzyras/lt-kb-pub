@@ -34,40 +34,13 @@ Narbuto pasakojime Masilijos keliautojas Kitėjas laikomas seniausio išlikusio 
   teiginys: "Narbuto pasakojime Masilijos keliautojas Kitėjas laikomas seniausio išlikusio istorinio padavimo apie Estiją autoriumi, šalia gotonų minėjusiu estus."
   pagrindžia:
     - c-174840
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbuto pasakojime Masilijos keliautojas Kitėjas laikomas seniausio išlikusio istorinio padavimo apie Estiją autoriumi, šalia gotonų minėjusiu estus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    78
-    Padavimai. Iš išlikusių istorinių padavimų apie Estiją
-    seniausias yra Masilijos keliautojo Kitėjo*, kuris šalia
-    gotonų mini estus2. Vėliau kalbėsime apie šio astronomo
-    keliones, o dabar pasakysime tik tiek, jog visas jo apra­
-    šymas yra toks aiškus ir raiškus, kad nedera abejoti: tuo­
-    metiniai Prūsijos gyventojai nesivadino estais. Jie rinko
-    gintarą Abalo saloje; jį pardavinėjo gotonai. Ši kelionė
-    įvyko 340 metais prieš Kristaus gimimą; nuo tų laikų
-    net iki Tacito senovės autoriai niekur nemini Estijos, nors
-    kai kurie, kaip Diodoras Sicilietis, Melą ir net pats Pli-
-    nijus, rėmęsis Pitėjo ir kitais kelionių Šiaurės jūromis
-    aprašymais, estų nemini.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174840
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 89"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     78
     Padavimai. Iš išlikusių istorinių padavimų apie Estiją

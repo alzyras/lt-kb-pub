@@ -41,25 +41,6 @@ media_all_json: |-
   teiginys: "Formulė „In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem“ cituojama iš LUB I, 243."
   pagrindžia:
     - c-93941
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Formulė „In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem“ cituojama iš LUB I, 243.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    **_Mindaugas ir jo karūna_** **, Aidai, 1954, 55-59 (tas pat vokiškai Zeitschr. für
-    Ostforschung, 1954, 360-386).**
-
-    (^118) **« In regem Lettowie oleo sacrato peruncti, regni suscepimus diadema-
-    tem » (LUB I, 243).**
-    (^119) **LReim 3493-96.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

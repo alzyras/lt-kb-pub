@@ -52,14 +52,13 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
 <a id="claim-t-200877"></a>
 - t-003
   global_id: t-200877
-  teiginys: "J. Basanavičius, atsakydamas į lenkiškų laikraščių reakcijas į jo straipsnius, parašė straipsnį „Polaki v Litvie“, išspausdintą „Nov. Vrēmia“ feljetone Nr. 2634."
+  teiginys: "J. Basanavičius, susipažinęs su lenkiškų laikraščių reakcijomis į jo straipsnius, parašė atsakomąjį straipsnį „Polaki v Litvie“."
   pagrindžia:
     - c-184222
 - susijęs iš [[objektai/grupes/Aušrininkai.md#claim-t-80796|Aušrininkai]]: Aušrininkai ir jų tautinio palikimo tęsėjai iki nepriklausomybės metų sekė Simono Daukanto istoriniu nusistatymu.
 - susijęs iš Aušra: Pirmajame „Aušros“ numeryje 1883 m. Jonas Basanavičius pradėjo istorinę prakalbą išverstu lotynišku humanistų posakiu.
 - susijęs iš [[objektai/grupes/Aušrininkai.md#claim-t-05242|Aušrininkai]]: Aušrininkai siejami su Simono Daukanto pradėto tautinio ir istorinio palikimo tęsiniu iki nepriklausomybės metų.
 - susijęs iš [[objektai/grupes/Aušrininkai.md#claim-t-80795|Aušrininkai]]: Aušrininkai Lietuvoje sekė Simono Daukanto vykdytu romantiniu tautinės istorijos nusistatymu.
-- susijęs iš [[objektai/posakiai/Dievas buvo augštai, teisybē — toli.md#claim-t-200879|Dievas buvo augštai, teisybē — toli]]: Dr. J. Basanavičius posakį „Dievas buvo augštai, teisybē — toli“ siejo su ūkininkų išvarymais ir laukų pasisavinimu valdžiai esant „visgalingo pono“ rankose.
 - susijęs iš Aušra: Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).
 - susijęs iš Bulgarija: J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi.
 ## Citatos

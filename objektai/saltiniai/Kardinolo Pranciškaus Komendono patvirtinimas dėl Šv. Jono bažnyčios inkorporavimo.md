@@ -41,23 +41,6 @@ Jono bažnyčios Apaštališkojo Sosto valia inkorporavimas į Aka­ demijos kol
   teiginys: "Kardinolas Pranciškus Komendonas patvirtino parapijinės Šv. Jono bažnyčios inkorporavimą į Akademijos kolegiją."
   pagrindžia:
     - c-84415
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kardinolas Pranciškus Komendonas patvirtino parapijinės Šv. Jono bažnyčios inkorporavimą į Akademijos kolegiją.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1571 metų gruodžio 22 dieną. Toks parapijinės Šv. Jono
-    bažnyčios Apaštališkojo Sosto valia inkorporavimas į Aka­
-    demijos kolegiją yra patvirtintas kardinolo Pranciškaus Ko­
-    mendom, Šv. Cyriako Termuose skirto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

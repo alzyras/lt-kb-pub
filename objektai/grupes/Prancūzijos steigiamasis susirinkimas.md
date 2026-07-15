@@ -41,25 +41,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   teiginys: "1791 m. vasarą Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui apie kitą tautą Europoje."
   pagrindžia:
     - c-22702
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Pran-
-    cūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-
-    klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi
-    į Prancūzijos didžiąją revoliuciją. Ne veltui 1791 m. vasarą Lenkijos ir
-    Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos
-    steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Eu-
-    ropoje“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

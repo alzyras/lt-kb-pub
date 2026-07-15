@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas rašo, kad per Dziady pirmoji gėrimo taurė būdavo skiriama mirusiųjų vėlių dievybėms ir statoma už lango. Dievobaimingiesiems vaide nasi, kad per garus, kylančius nuo valgių, jie mato valgančias mirusiųjų vėles, net girdi kažkokį šlamėjimą.
+Narbutas rašo, kad per Dziady pirmoji gėrimo taurė būdavo skiriama mirusiųjų vėlių dievybėms ir statoma už lango. Dievobaimingiesiems vaide nasi, kad per garus, kylančius nuo valgių, jie mato valgančias mirusiųjų vėles, net girdi kažkokį šlamėjimą. Mirusiųjų vėles pir miausia kviesdavo į pirtį, kur kiekvienai iš pakviestųjų buvo pa ruošti prausimo reikmenys ir drabužiai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -56,77 +56,56 @@ Nenurodyta
   teiginys: "Dievobaimingiesiems vaide nasi, kad per garus, kylančius nuo valgių, jie mato valgančias mirusiųjų vėles, net girdi kažkokį šlamėjimą."
   pagrindžia:
     - c-177023
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas rašo, kad per Dziady pirmoji gėrimo taurė būdavo skiriama mirusiųjų vėlių dievybėms ir statoma už lango.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Susėdę prie stalo, dar kalba maldas, geria
-    skirdami pirmąją gėrimo taurę mirusiųjų vėlių dievybėms (ge­
-    nijams) ir statydami ją už lango, visai nežiūrėdami, kas su ja
-    vyksta: kas nori, gali ją ten išgerti. Pasibaigus vaišėms ir mal­
-    doms už mirusiųjų sielas, troba ir priemenė iššluojama, o val­
-    giai, sudėti į krepšelius, išnešami išdalyti sutiktiems pavargė­
-    liams. Tai yra išmalda už mirusiuosius (Žiną ažu numirusiu).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197251"></a>
+- t-003
+  global_id: t-197251
+  teiginys: "Mirusiųjų vėles pir miausia kviesdavo į pirtį, kur kiekvienai iš pakviestųjų buvo pa ruošti prausimo reikmenys ir drabužiai."
   pagrindžia:
-    - t-001
+    - c-179087
 
-- c-002
-  santrauka: 'Dievobaimingiesiems vaide nasi, kad per garus, kylančius nuo valgių, jie mato valgančias mirusiųjų vėles, net girdi kažkokį šlamėjimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tęsiasi nepertraukia­
-    ma tyla, niekas neišdrįsta nei sujudėti, nei sukelti mažiausią šla­
-    mesį; visų akys nukreiptos į stalą. Dievobaimingiesiems vaide­
-    nasi, kad per garus, kylančius nuo valgių, jie mato valgančias
-    mirusiųjų vėles, net girdi kažkokį šlamėjimą. Gink dieve, jei tuo
-    momentu kieme sulotų šuo: tai jau būtų suvokiama taip, kad
-    kuri nors užsirūstinusi vėlė nenori eiti į trobą, o šitai reiškia,
-    kad ji ištisus metus bastysis aplink namus, gąsdins ir kenks. To­
-    dėl tam tarpui šunį paprastai uždarydavo priemenėje, kadangi
-    koks nors raganius gali jį suerzinti, o lojimas išgąsdintų vėles,
-    jos liktų nepagerbtos ir kliudytų namams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197252"></a>
+- t-004
+  global_id: t-197252
+  teiginys: "Įsitikinę, kad ateinantis gyvenimas bus atpildas ir bausmė, jie nepaprastai rūpindavosi būsimu vėlės likimu, todėl prieš mirtį reikalaudavo iš giminaičių, kad tie stropiai atliktų laido tuvių apeigas ir per žynius ieškotų priemonių laimingam am žinajam."
   pagrindžia:
-    - t-002
+    - c-172683
 
 ## Citatos
 
 - id: c-172683
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 385"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 385."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Susėdę prie stalo, dar kalba maldas, geria
-    skirdami pirmąją gėrimo taurę mirusiųjų vėlių dievybėms (ge­
-    nijams) ir statydami ją už lango, visai nežiūrėdami, kas su ja
-    vyksta: kas nori, gali ją ten išgerti. Pasibaigus vaišėms ir mal­
-    doms už mirusiųjų sielas, troba ir priemenė iššluojama, o val­
-    giai, sudėti į krepšelius, išnešami išdalyti sutiktiems pavargė­
-    liams. Tai yra išmalda už mirusiuosius (Žiną ažu numirusiu).
+    Tai
+    buvo atpildas dorovingiesiems; priešingai, nedorųjų ir nusi­
+    kaltėlių bei nepaklusnių žyniams po mirties laukė toks paža­
+    das: „Dievai atims iš jų viską, ką tik turėjo, kankins klaikiu
+    siaubu ir tokiomis kančiomis, kad jie turės kaukti ir inkšti lau­
+    žydami rankas tūkstantinėse nesibaigiančiose kančiose“ .
+    Spręsdami iš viso to, ką iki šiol pateikėme apie pomirtinį
+    gyvenimą, negalime abejoti, kad lietuviai tikėjo sielos nemir­
+    tingumu, bet šis prietarais aplipęs tikėjimas buvo priežastis
+    daugybės prietaringų nuomonių apie būsimą pomirtinę sielos
+    būklę.
+    Įsitikinę, kad ateinantis gyvenimas bus atpildas ir bausmė,
+    jie nepaprastai rūpindavosi būsimu vėlės likimu, todėl prieš
+    mirtį reikalaudavo iš giminaičių, kad tie stropiai atliktų laido­
+    tuvių apeigas ir per žynius ieškotų priemonių laimingam am­
+    žinajam gyvenimui pasiekti.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189800
+    - t-197252
 
 - id: c-177023
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 385"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 385."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tęsiasi nepertraukia­
     ma tyla, niekas neišdrįsta nei sujudėti, nei sukelti mažiausią šla­
@@ -145,3 +124,22 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194624
+
+- id: c-179087
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Mirusiųjų vėles pir­
+    miausia kviesdavo į pirtį, kur kiekvienai iš pakviestųjų buvo pa­
+    ruošti prausimo reikmenys ir drabužiai. Paskui atskirai paruoš­
+    toje troboje valgiais ir gėrimais padengia stalą, o patys parvyks-
+    ia namo ir tris dienas puotauja. Pagaliau mirusiesiems skirtus
+    dalykus ir maistą nuneša ant kapų; mostais atsisveikinę su mi­
+    rusiaisiais, nueina. Kam patinka, gali pasiimti, kas palikta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197251

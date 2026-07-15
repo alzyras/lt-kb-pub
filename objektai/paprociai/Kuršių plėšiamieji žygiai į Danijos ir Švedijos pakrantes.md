@@ -63,25 +63,6 @@ Nenurodyta
   teiginys: "XI a. kuršiai patys rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes."
   pagrindžia:
     - c-75906
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ankstyvųjų šaltinių ir archeologiniai duomenys leidžia teigti, kad
-    kai kurių pietvakarių baltų genčių kariniai junginiai yra dalyvavę
-    karo žygiuose į yrančios Romos imperijos teritoriją. Vikingų epo-
-    choje prie jūros gyvenusiems prūsams ir kuršiams teko atremti
-    plėšikaujančius skandinavus. Tiesa, kuršiai XI a. jau ir patys reng-
-    davo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

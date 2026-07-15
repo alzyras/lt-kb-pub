@@ -40,27 +40,6 @@ Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas K
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117311|Vokiečiai]]: Naugardiečiai teigė su vokiečiais sudarę atskirą taikos sutartį.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117314|Vokiečiai]]: Naugardiečiai teigė turėję atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.
 - susijęs iš Riazanė: Vytautas ties Niekudavu sutriuškino Riazanės kunigaikščio eiles.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Brangūs kailiniai ir
-    rytų audeklai, brangios juostos, aukso indai ir bachmatai
-    (stambūs Podolijos arkliai) — tai žento dovanos; puikiausi va­
-    karų audeklai, aksomitai, balnai, šilkinės staldengtės — tai
-    uošvio dovanos. Porai mėnesių praslinkus, būtent spalių 1 d.
-    įvyko antras susivažiavimas Kolomnoj. Čia Vytautas rūpinosi
-    išgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo
-    aptarti ir kitokie reikalai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38524

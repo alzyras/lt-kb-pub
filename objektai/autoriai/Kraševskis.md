@@ -43,7 +43,7 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Juozapas Ignotas Kraševskis.md#claim-t-190034|Juozapas Ignotas Kraševskis]]: Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbuto „Lietuvių mitologiją“, paskelbta „Tygodnik Petersburski“.
 - susijęs iš [[objektai/asmenys/Juzefas Ignacas Kraševskis.md#claim-t-190901|Juzefas Ignacas Kraševskis]]: Šaltinio komentare spėjama, kad ši recenzija galėjo pradėti šaltus T. Narbuto ir J. I. Kraševskio santykius.
 - susijęs iš [[objektai/asmenys/Juzefas Ignacas Kraševskis.md#claim-t-63788|Juzefas Ignacas Kraševskis]]: Juzefas Ignacas Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
-- susijęs iš [[objektai/autoriai/A. Mickevičius.md#claim-t-19368|A. Mickevičius]]: A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.
+- susijęs iš [[objektai/autoriai/A. Mickevičius.md#claim-t-19368|Adomas Mickevičius]]: A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/autoriai/J. I. Kraševskis.md#claim-t-78087|J. I. Kraševskis]]: J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
 - susijęs iš [[objektai/autoriai/Juozapas Ignacas Kraševskis.md#claim-t-190746|Juozapas Ignacas Kraševskis]]: Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“.
 - susijęs iš [[objektai/autoriai/Juozapas Ignacas Kraševskis.md#claim-t-190747|Juozapas Ignacas Kraševskis]]: Narbutui priskiriamame spėjime Kraševskio recenzija siejama su šaltais T. Narbuto ir J. I. Kraševskio santykiais.
@@ -64,28 +64,6 @@ media_all_json: |-
 - susijęs iš Atheneum: J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
 - susijęs iš Karaliaučius: Iš Karaliaučiaus ir kitų archyvų Onacevičius buvo prisirankiojęs daug šaltinių.
 - susijęs iš [[objektai/zodynas/Oficiozas.md#claim-t-189318|Oficiozas]]: Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgarsių recenzija apie T. Narbuto „Lietuvių mitologiją“.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Universitetui sukėlus susidomėjimą Lietuvos senove, iš-
-    kilo gausi lenkų romantiškoji literatūra, kuri beveik visas temas
-    ėmė iš Lietuvos istorijos. Čia ypač pasižymėjo universiteto
-    auklėtiniai Mickevičius, Kraševskis, Kondratavičius ir daugelis
-    kitų. Jų tad raštai, išidealizavę Lietuvos senovę, išauklėjo Lie-
-    tuvos bajoriją, kuri, ir lenkiškai kalbėdama, gerbė ir mylėjo
-    savo tėvynę Lietuvą, o save laikė tik lenkiškos kultūros lietu-
-    viais. Iš antros pusės, tie patys raštai kiek vėliau labai paveikė
-    iš liaudies tarpo kilusią lietuviškąją inteligentiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-01322

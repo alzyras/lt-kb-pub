@@ -40,39 +40,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   teiginys: "1396 m. Jogailos ir Vytauto privilegijoje Vilniaus vyskupui Andriui tarp liudytojų minėtas Vilniaus vaivada Manvydas."
   pagrindžia:
     - c-84232
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1396 m. Jogailos ir Vytauto privilegijoje Vilniaus vyskupui Andriui tarp liudytojų minėtas Vilniaus vaivada Manvydas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mergelės Ma­
-    rijos Apsivalymo dienoje, Viešp. me­
-    tais 1396. Dalyvaujant garbingiems
-    ir narsiems vyrams Mingailai, Goš­
-    tautui; Vilniaus vaivadai Manvydui
-    bei mūsų dvaro maršalkoms Čupur-
-    vai ir Milonui bei daugeliui kitų, ver­
-    tų pasitikėjimo].
-    59
-    Vilniaus kapitulos archy­
-    vas, pažymėta data: in Lida die Do­
-    minico, quo in Ecclesia Dei, Cantate de­
-    cantatur [Lydoje, sekmadienį, kai
-    1 4 1
-
-    ## Puslapis 158
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    geradarybė, didinant mieste gyvenančių dvasininkų turtus,
-    nemažai prisidėta ir prie kitų miestiečių gerovės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

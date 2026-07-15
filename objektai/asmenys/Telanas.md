@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną.
+Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. Telanas savo rankomis nužudė jo rūmuose puotavusį Odoakrą.
 
 ## Teiginiai
 
@@ -34,21 +34,26 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną.
   teiginys: "Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną."
   pagrindžia:
     - c-174359
+
+<a id="claim-t-197824"></a>
+- t-002
+  global_id: t-197824
+  teiginys: "Telanas savo rankomis nužudė jo rūmuose puotavusį Odoakrą."
+  pagrindžia:
+    - c-174359
 - susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191036|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Teodorikas ir Odoakras sudarė taiką, kurios sąlygos Narbuto pasakojime lieka nežinomos, išskyrus pažadą išsaugoti Odoakro gyvybę ir turtus.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Tik žinoma tai, kad Teodorikas paža­
-    dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam
-    net tam tikrą valdžios dalį Italijoje arba patikėjo jam
-    tam tikras valdas. Odoakras patikėjo gotų karaliui savo
-    sūnų Telaną. Bet jis, trokšdamas vienvaldystės ir kupi­
+    Bet jis, trokšdamas vienvaldystės ir kupi­
     nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
     sudarymo pažeisti svetingumo taisykles: jis savo ranko­
-    mis nužudė jo rūmuose puotavusį Odoakrą.
+    mis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai
+    gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
+    na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
+    dieną.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -56,14 +61,14 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-174359
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 323"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tik žinoma tai, kad Teodorikas paža­
     dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam
@@ -72,13 +77,18 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną.
     sūnų Telaną. Bet jis, trokšdamas vienvaldystės ir kupi­
     nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
     sudarymo pažeisti svetingumo taisykles: jis savo ranko­
-    mis nužudė jo rūmuose puotavusį Odoakrą.
+    mis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai
+    gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
+    na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
+    dieną.
+  citata_rodoma: "Bet jis, trokšdamas vienvaldystės ir kupi­\nnas juodo pavydo, nepasibjaurėjo netrukus po paliaubų \nsudarymo pažeisti svetingumo taisykles: jis savo ranko­\nmis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai \ngotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­\nna daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5 \ndieną."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191477
+    - t-197824
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Odoakras]]

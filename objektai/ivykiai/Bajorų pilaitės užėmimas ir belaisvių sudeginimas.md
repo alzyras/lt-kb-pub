@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užėmė.
+Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užėmė. Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,47 +47,41 @@ Nenurodyta
   teiginys: "Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užėmė."
   pagrindžia:
     - c-169158
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užėmė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nuliūdęs ir pasipiktinęs Šindekopfas patraukė
-    su kariuomene prie Bajorų pilaitės ir netrukus ją už­
-    grobė. Kęstutis gal dėl to, kad mažai turėjo kovai pa­
-    sirengusių karių, o gal dėl kitos priežasties daugiau
-    grasino užpulsiąs bei gyrėsi susidorosiąs, nei iš tiesų
-    puolė. Išsiuntęs žygūnus, jis pareikalavo grąžinti pa­
-    imtą pilaitę, o jeigu to nepadarysią, pagrasino skau­
-    džiai nubausiąs įgulą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196135"></a>
+- t-002
+  global_id: t-196135
+  teiginys: "Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė."
   pagrindžia:
-    - t-001
+    - c-169158
 
 ## Citatos
 
 - id: c-169158
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 249"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 249."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Nuliūdęs ir pasipiktinęs Šindekopfas patraukė
+    Mat Algirdas ir Kęs­
+    tutis, suprasdami, jog ši prie pat Kauno esanti pilis —
+    nelyginant žaboklės, uždėtos
+    A lg ird a s
+    su griau n a
+    Lietuvai, nutarė trūks plyš
+    k ry žiu o č ių p ilį
+    ją sunaikinti ir po ištisas
+    penkias savaites užtrukusių
+    atkaklių antpuolių galop ją užėmė ir sugriovė ligi pa­
+    matų. Nuliūdęs ir pasipiktinęs Šindekopfas patraukė
     su kariuomene prie Bajorų pilaitės ir netrukus ją už­
     grobė. Kęstutis gal dėl to, kad mažai turėjo kovai pa­
     sirengusių karių, o gal dėl kitos priežasties daugiau
     grasino užpulsiąs bei gyrėsi susidorosiąs, nei iš tiesų
-    puolė. Išsiuntęs žygūnus, jis pareikalavo grąžinti pa­
-    imtą pilaitę, o jeigu to nepadarysią, pagrasino skau­
-    džiai nubausiąs įgulą.
+    puolė.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185797
+    - t-196135

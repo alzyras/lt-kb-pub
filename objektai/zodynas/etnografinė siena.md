@@ -64,54 +64,6 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
   teiginys: "Pradinė Lietuvos ir Latvijos siena laikyta buvusia Kuršo gubernijos siena, tačiau ji nesutapo su etnografine lietuvių siena."
   pagrindžia:
     - c-71070
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tad valstybės
-    kūrėjai svajojo, kad į nepriklausomą Lietuvą turi įeiti ne tik
-    Rusų valdžioje buvusi Didžioji Lietuva, bet ir jau daug amžių
-    Vokiečių valdoma Mažoji Lietuva.
-    Okupacijos metu ir Vilniaus konferencija ir Taryba vengė
-    aiškiai kelti Mažosios Lietuvos klausimo; buvo pasitenkinta
-    bendru posakiu, kad būsimoji Lietuva turinti apimti lietuvių gyve-
-    namąsias (etnografines) žemes. Priešingai, lietuviai Rusijoje,
-    Amerikoje ir kitur užsieniuose nebuvo tuo atžvilgiu suvaržyti
-    ir aiškiai pabrėžė savo reikalavimuose Mažosios ir Didžiosios
-    Lietuvos sujungimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos Latvijos sienos nustatymas**
-
-    Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lie-
-    tuvos siena buvo laikoma buvusios Kuršo gubernijos siena. Bet
-
-    kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
-    čia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-
-    duoti 1921 m. buvo sudarytos specialios abiejų pusių komisijos
-    (lietuvių komisijai pirmininkavo pirmasis ir dabartinis prezi-
-    dentas A. Smetona), kurios savo konferencijose, tarpininkaujant
-    škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo
-    buvusios gubernijos sienos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
 
 ## Citatos
 

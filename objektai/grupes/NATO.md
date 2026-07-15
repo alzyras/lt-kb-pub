@@ -50,13 +50,6 @@ media_all_json: |-
   teiginys: "2004 m. Lietuva tapo ES ir NATO nare."
   pagrindžia:
     - c-166560
-
-<a id="claim-t-19950"></a>
-- t-003
-  global_id: t-19950
-  teiginys: "2004 m. Lietuva tapo ES ir NATO nare."
-  pagrindžia:
-    - c-166560
 - susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74117|Europos Sąjunga]]: 2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.
 - susijęs iš [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.).md#claim-t-75219|Lietuvos įstojimas į ES ir NATO (2004 m.)]]: 2004 m. Lietuva tapo visateise demokratinių NATO ir ES valstybių šeimos nare.
 - susijęs iš [[objektai/autoriai/Audronius Ažubalis.md#claim-t-63303|Audronius Ažubalis]]: Audroniui Ažubaliui einant ministro pareigas, Užsienio reikalų ministerija paprašė parengti glaustą Lietuvos istorijos veikalą.
@@ -111,46 +104,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/Kolektyvinės savigynos teisė.md#claim-t-183434|Kolektyvinės savigynos teisė]]: Vašingtono sutarties 5-ajame straipsnyje garantuojama individualios ar kolektyvinės savigynos teisė, užpuolus vieną Aljanso narę.
 - susijęs iš [[objektai/zodynas/Kolektyvinės savigynos teisė.md#claim-t-21996|Kolektyvinės savigynos teisė]]: Kolektyvinės savigynos teisė reiškia, kad ginkluoto puolimo prieš vieną Aljanso narę atveju kitos narės ateina jai į pagalbą.
 - susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195008|Šich Achmetas]]: Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '2004 m. Lietuva tapo NATO ir Europos Sąjungos nare.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
-    menininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-
-    toriją visam pasauliui.
-    Šiandien yra bene geriausia proga šią gražią diplomatinę tradici-
-    ją pratęsti ir sustiprinti. 1990 m. kovo 11 d. atkūrusi nepriklausomybę,
-    2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
-    2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
-    jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
-    21
-    Sovietų Sąjungos aneksiją ir perestroikos bei naujo Atgimimo sąlygomis
-    atkurti Nepriklausomybę.
-    Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
 ## Citatos
 
 - id: c-22679
@@ -189,7 +142,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183173
     - t-19950
 
 ## Ryšiai

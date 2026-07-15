@@ -63,47 +63,6 @@ Nenurodyta
   teiginys: "Lietuvos krikščioninimas nuo Krėvos akto buvo siejamas su privilegijomis naujai pakrikštytiems lietuvių bajorams, buvusiems pagonims."
   pagrindžia:
     - c-167718
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet Lietuvos krikščioninimas glaudžiai buvo susie­
-    tas ryšiais ir aktais bei privilegijomis naujai krikštytiems lietuvių
-    bajorams, buvusiems pagonims, pradedant nuo pat Kriavo akto.
-    Šitaip susietas Lietuvos krikščioninimo klausimas sukomplikavo
-    patį Vytauto norą susilpninti uniją su Lenkija ir vesti galutinę
-    kovą dėl nepriklausomybės. Galutinis unijos sulaužymas butų
-    reiškęs baisią Vytauto nuodėmę visų Vakarų krikščionių, ypač
-    Romos kurijos, akyse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvos krikščioninimas nuo Krėvos akto buvo siejamas su privilegijomis naujai pakrikštytiems lietuvių bajorams, buvusiems pagonims.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nors nuo senelio Gedimino vis intensyviau buvo vedamos
-    derybos dėl krikšto, tačiau tik Vytauto laikais tebuvo rastas tai­
-    kingas būdas priimti krikščionybę ta pačia forma, kurią priešas
-    ordinas skelbė. Bet Lietuvos krikščioninimas glaudžiai buvo susie­
-    tas ryšiais ir aktais bei privilegijomis naujai krikštytiems lietuvių
-    bajorams, buvusiems pagonims, pradedant nuo pat Kriavo akto.
-    Šitaip susietas Lietuvos krikščioninimo klausimas sukomplikavo
-    patį Vytauto norą susilpninti uniją su Lenkija ir vesti galutinę
-    kovą dėl nepriklausomybės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

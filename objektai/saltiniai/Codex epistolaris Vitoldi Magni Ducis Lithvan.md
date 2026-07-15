@@ -43,22 +43,6 @@ media_all_json: |-
   teiginys: "Codex epistolaris Vitoldi Magni Ducis Lithvan apima 1376-1430 m. medžiagą ir buvo parengtas A. Prochaskos."
   pagrindžia:
     - c-36231
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    C. ep. V. = Codex epistolaris Vitoldi Magni Ducis Lithvan.
-    1376—1430 Collec. opera A. Prochaska. Cracoviae,
-    1882 (VI tom. iš „Monumentą medii aevi historica res
-    gestas Poloniae illustrantia“).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

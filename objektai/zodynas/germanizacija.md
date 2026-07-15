@@ -42,44 +42,6 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
   teiginys: "Tuo būdu ordino laikais tik Mažoji Lietuva išvengė germanizacijos."
   pagrindžia:
     - c-175896
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Beje, už M. Lietuvos ribų lietuvių (t. y. vad. prūsų) nuo XVI
-    amž. jau beveik nebesutinkame, o M. Lietuvoje lietuviai tebe-
-    gyvena dar ir dabar. Taip atsitiko dėl to, kad ten labai anksti
-    buvo privežta vokiečių kolonistų, ir visi lietuviai suvokietėjo.
-    Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik
-    ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.;
-    pagaliau pati germanizacijos politika M. Lietuvoj tesustiprėjo
-    tik į XIX amž. galą, todėl nė nespėjo čia suvirškinti visų lietuvių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Tuo būdu ordino laikais tik Mažoji Lietuva išvengė germanizacijos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai čia buvo sutvarkytas ordino ūkis, jie taip pat
-    virto beteisiais baudžiauninkais. Čia buvo tik tiek geriau, kad
-    nebuvo vokiečių kolonistų; be to, karai jau buvo pasibaigę,
-    sukilimo pavojaus nebebuvo, todėl niekas į juos įtartinai nebežiū-
-    rėjo ir paliko nesuvokietintus. Tuo būdu ordino laikais tik
-    Mažoji Lietuva išvengė germanizacijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

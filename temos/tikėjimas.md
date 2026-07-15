@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 74
+tema_objektu_skaicius: 76
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 74.
+Objektų skaičius: 76.
 
 ## Kaip naudoti
 
@@ -24,6 +24,10 @@ Objektų skaičius: 74.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Glapas]]
+- [[objektai/asmenys/Kantigirdas]]
 
 ### Papročiai
 - [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė]]
@@ -49,8 +53,8 @@ Objektų skaičius: 74.
 - [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]
 - [[objektai/paprociai/Kovų vietų neliečiamumas]]
 - [[objektai/paprociai/Kremaros ir Kohmos smulkios aukos bei girtavimo globa]]
-- [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]
-- [[objektai/paprociai/Kryžiaus statymas ant Veliuonos Gedimino kapu laikyto pilkapio]]
+- [Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)](../objektai/paprociai/Kristburgo%20pilies%20apr%C5%ABpinimas%20Zirg%C5%ABnos%20upe%20ir%20i%C5%A1tikim%C5%B3%20pamed%C4%97n%C5%B3%20pasitraukimas%20bado%20metu)
+- [Kryžiaus statymas ant Veliuonos Gedimino kapu laikyto pilkapio](../objektai/paprociai/Kry%C5%BEiaus%20statymas%20ant%20Veliuonos%20Gedimino%20kapu%20laikyto%20pilkapio)
 - [Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika](../objektai/paprociai/Kry%C5%BEi%C5%B3%20statymas%20Kry%C5%BEi%C5%B3%20kalne%20kaip%20tik%C4%97jimo%20laisv%C4%97s%20pasiprie%C5%A1inimo%20praktika)
 - [Laukų apvalymas arba pašventinimas apeinant javus su auka](../objektai/paprociai/Lauk%C5%B3%20apvalymas%20arba%20pa%C5%A1ventinimas%20apeinant%20javus%20su%20auka)
 - [LDK didikų kalvinizmo rėmimas ir katalikų bažnyčių sekuliarizavimas](../objektai/paprociai/LDK%20didik%C5%B3%20kalvinizmo%20r%C4%97mimas%20ir%20katalik%C5%B3%20ba%C5%BEny%C4%8Di%C5%B3%20sekuliarizavimas)
@@ -81,10 +85,8 @@ Objektų skaičius: 74.
 - [Senjoro atsakomybė už pavaldinio tikėjimą](../objektai/paprociai/Senjoro%20atsakomyb%C4%97%20u%C5%BE%20pavaldinio%20tik%C4%97jim%C4%85)
 - [Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje](../objektai/paprociai/Sen%C5%B3j%C5%B3%20apeig%C5%B3%20t%C4%99simas%20ir%20vyriausiojo%20%C5%BEynio%20paskyrimas%20Romanovoje)
 - [Senųjų dievų simbolių, šventųjų medžių, žalčių ir amžinosios ugnies naikinimas misijų metu](../objektai/paprociai/Sen%C5%B3j%C5%B3%20diev%C5%B3%20simboli%C5%B3%2C%20%C5%A1vent%C5%B3j%C5%B3%20med%C5%BEi%C5%B3%2C%20%C5%BEal%C4%8Di%C5%B3%20ir%20am%C5%BEinosios%20ugnies%20naikinimas%20misij%C5%B3%20metu)
-- [Tikėjimo vertimas kaip politinio spaudimo priemonė](../objektai/paprociai/Tik%C4%97jimo%20vertimas%20kaip%20politinio%20spaudimo%20priemon%C4%97)
 - [Upių šventinimas Rosės vardu](../objektai/paprociai/Upi%C5%B3%20%C5%A1ventinimas%20Ros%C4%97s%20vardu)
 - [Vaidilų ligonių raminimas, apžadai ir Amžinosios ugnies pelenų naudojimas](../objektai/paprociai/Vaidil%C5%B3%20ligoni%C5%B3%20raminimas%2C%20ap%C5%BEadai%20ir%20Am%C5%BEinosios%20ugnies%20pelen%C5%B3%20naudojimas)
-- [Valdovo pomirtinis kultas su medine statula, Vestos giraite ir amžinąja ugnimi](../objektai/paprociai/Valdovo%20pomirtinis%20kultas%20su%20medine%20statula%2C%20Vestos%20giraite%20ir%20am%C5%BEin%C4%85ja%20ugnimi)
 - [Vandens, putų ir ūžimo stebėjimas ateičiai spėti](../objektai/paprociai/Vandens%2C%20put%C5%B3%20ir%20%C5%AB%C5%BEimo%20steb%C4%97jimas%20atei%C4%8Diai%20sp%C4%97ti)
 - [Vaškiniu rutuliuku ir sieteliu atliekami vagies paieškos burtai](../objektai/paprociai/Va%C5%A1kiniu%20rutuliuku%20ir%20sieteliu%20atliekami%20vagies%20paie%C5%A1kos%20burtai)
 - [Velionos garbinimo apeigos per laidotuves ir Vėlines](../objektai/paprociai/Velionos%20garbinimo%20apeigos%20per%20laidotuves%20ir%20V%C4%97lines)
@@ -100,3 +102,7 @@ Objektų skaičius: 74.
 - [Žirgų plauko spalvos tabu iš pagarbos dievams](../objektai/paprociai/%C5%BDirg%C5%B3%20plauko%20spalvos%20tabu%20i%C5%A1%20pagarbos%20dievams)
 - [Žydų ir krikščionių bylų liudijimo bei priesaikos tvarka](../objektai/paprociai/%C5%BDyd%C5%B3%20ir%20krik%C5%A1%C4%8Dioni%C5%B3%20byl%C5%B3%20liudijimo%20bei%20priesaikos%20tvarka)
 - [„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams (sukilimas)](../objektai/paprociai/%E2%80%9ERaudon%C5%B3j%C5%B3%E2%80%9C%20daugiakalb%C4%97%20sukilimo%20propaganda%20valstie%C4%8Diams)
+
+### Žodynas
+- [ginklanešiai](../objektai/zodynas/ginklane%C5%A1iai)
+- [ginklanešys](../objektai/zodynas/ginklane%C5%A1ys)

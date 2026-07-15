@@ -35,33 +35,13 @@ Narbutas, perteikdamas Henenbergerį, rašė, kad Sakininkuose, galbūt Šakūnu
   teiginys: "Narbutas, perteikdamas Henenbergerį, rašė, kad Sakininkuose, galbūt Šakūnuose, XVI a. pabaigoje kaimiečiai slapčia melsdavosi prie didžiulės liepos."
   pagrindžia:
     - c-171990
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas, perteikdamas Henenbergerį, rašė, kad Sakininkuose, galbūt Šakūnuose, XVI a. pabaigoje kaimiečiai slapčia melsdavosi prie didžiulės liepos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    LIEPA, Liepas. Pas senovės prūsus ji priklausė šventųjų
-    medžių kategorijai. Henenbergeris tikina, kad dar jo laikais,
-    tai yra XVI amžiaus pabaigoje, Nemuno žemupyje, netoli Rus­
-    nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­
-    si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­
-    meldžių papratimu slapčia ateidavo prie jos m elstis18.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-171990
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 239"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 239."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     LIEPA, Liepas. Pas senovės prūsus ji priklausė šventųjų
     medžių kategorijai. Henenbergeris tikina, kad dar jo laikais,

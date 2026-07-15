@@ -48,43 +48,6 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
   teiginys: "1383 m. pavasarį Ziemovitas III planavo prievarta pagrobti Jadvygą, nors tam priešinosi Krokuvos ponai."
   pagrindžia:
     - c-32853
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jogaila geruoju susitarė su Mozūrijos Ziemovitu III po to, kai mažlenkių ponai jėga išvarė Vilhelmą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Normaliai, Karūnai turėjo būti pajungiama didžioji ku­
-    nigaikštija, nors savo plotu ir gerokai didesnė.
-    Mažlenkių ponai (Kriavo akte jie vadinami « regnieolae ») jėga
-    išvarė Vilhelmą, o su Mozurijos Ziemovitu geruoju susitarė pats
-    Jogaila. Tad 1385-1986 m. žiemą jis be baimės galėjo išsirengti
-    Lenkijon.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1383 m. pavasarį Ziemovitas III planavo prievarta pagrobti Jadvygą, nors tam priešinosi Krokuvos ponai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tuo būdu jis siekęs Ziemovitui sutrukdyti tapti Len­
-    kijos karaliumi. O Ziemovito viltys laimėti Jadvygos ranką 1383 m.
-    pavasarį buvo padidėjusios, ir jis — priešingai Krokuvos ponų
-    nusistatymui — planavęs Jadvygą pagrobti prievarta.
-    Prieš pat Jadvygos karūnavimą 1384 m. rudenį Krokuvoje
-    lankėsi Jogailos pasiuntiniai, kurie dalyvavo ir pačiose iškilmėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

@@ -42,45 +42,6 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
   teiginys: "Šv. Petro bažnyčia Antakalnyje tikriausiai pastatyta Vladislovo Jogailos laikais pagonių šventovės vietoje."
   pagrindžia:
     - c-82109
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šv. Petro bažnyčia Antakalnyje tikriausiai pastatyta Vladislovo Jogailos laikais pagonių šventovės vietoje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau Šv. Petro baž­
-    nyčia tikriausiai pastatydinta Vladis­
-    lovo Jogailos laikais, visuotinės re­
-    ligijos kaitos laikais, ano Goštauto
-    sūnaus, tos šventovės, visiems die­
-    vaičiams pašvęstos, vietoje. Taigi iš­
-    likusią parapijoje senosios Goštau­
-    to Liepos vardo tradiciją galima būti
-    priskirti ir vėlesniam laikotarpiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Pagal padavimus Goštautas pastatydino Šv. Petro bažnyčią Antakalnyje pagonių šventyklos vietoje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Anot
-    kitų padavimų, Goštautas pastaty­
-    dinęs Šv. Petro bažnyčią Antakalny­
-    je, pagonių šventyklos vietoje, kurią
-    mini Strijkovskis (Sk. IV, 1.400).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

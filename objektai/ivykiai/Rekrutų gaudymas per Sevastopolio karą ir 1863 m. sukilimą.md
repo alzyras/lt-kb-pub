@@ -98,6 +98,7 @@ Nenurodyta
   teiginys: "Atėjus 1863 m. sukilimui, dvejus metus pagrečiui vėl neėmė rekrutų."
   pagrindžia:
     - c-177990
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -146,5 +147,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195582
-    - t-195585
     - t-195584
+    - t-195585

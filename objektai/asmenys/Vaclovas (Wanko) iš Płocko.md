@@ -42,26 +42,6 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   teiginys: "Vaclovas (Wanko) iš Płocko vedė Gedimino dukterį."
   pagrindžia:
     - c-94004
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vaclovas (Wanko) iš Płocko vedė Gedimino dukterį.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su
-    Mozurija. Išleidęs savo dukterį už Płocko «Vankos », Gediminas
-    ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams
-    rekomendavo kelią per Mozūriją. Jo 1325 m. sutartis buvo pir­
-    masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­
-    čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
-    mečio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

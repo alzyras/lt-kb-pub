@@ -46,29 +46,6 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
 - susijęs iš Dauguva: Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.
 - susijęs iš Kuršėnai: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
 - susijęs iš Šiauliai: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1919 m. liepos 26 d. į
-    Kuršėnus įžengė pirmieji
-    bermontininkai, vado-
-    vaujami plk. Virgoličiaus,
-    kur ėmė užiminėti pa-
-    talpas, plėšti gyvento-
-    jus ir kitaip savivaliauti.
-    Spalio 5 d. plk. Virgoličiaus
-    rinktinė iš Kuršėnų per-
-    sikėlė į Šiaulius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-40818

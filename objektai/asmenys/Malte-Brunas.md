@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė.
+Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė. Malte-Brunas susiliejo su kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsikūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtingų bruožų.
 
 ## Teiginiai
 
@@ -34,51 +34,31 @@ Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo
   teiginys: "Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė."
   pagrindžia:
     - c-174176
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    91
-    Tačiau, atsižvelgdami j didžiausią tikimybę, pasirin­
-    kime iš šio sąrašo kaimynines venedų tautas, nepriklau­
-    sančias lietuvių kartoms. Toliausiai į pietryčius gyveno
-    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
-    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
-    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
-    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
-    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
-    apie tai Karamzinas rašo savo tyrimuose3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197775"></a>
+- t-002
+  global_id: t-197775
+  teiginys: "Malte-Brunas susiliejo su kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsikūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtingų bruožų."
   pagrindžia:
-    - t-001
+    - c-174176
 
 ## Citatos
 
 - id: c-174176
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    91
-    Tačiau, atsižvelgdami j didžiausią tikimybę, pasirin­
-    kime iš šio sąrašo kaimynines venedų tautas, nepriklau­
-    sančias lietuvių kartoms. Toliausiai į pietryčius gyveno
-    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
-    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
-    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
-    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
-    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
-    apie tai Karamzinas rašo savo tyrimuose3.
+    Tai buvo miškinė gyvulių augintojų gentis.
+    Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
+    tinių kašubų protėviai. Neabejotina, kad ji susiliejo su
+    kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­
+    kūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­
+    gų bruožų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191294
+    - t-197775

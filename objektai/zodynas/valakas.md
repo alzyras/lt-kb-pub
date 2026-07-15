@@ -48,43 +48,6 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
   teiginys: "Valstiečiams duodamieji valakai nebuvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo mažesni, o kur žemė būdavo prastesnė, — didesni."
   pagrindžia:
     - c-175914
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Valakų reformos metu valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčiai ir einamos pareigos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Valstiečiams duodamieji valakai ne-
-    buvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo
-    mažesni, o kur žemė būdavo prastesnė, — didesni. Valakas kai
-    kur buvo 30—33 margų, o kai kur siekė net 44 margus.
-    Su šia reforma valakas pasidarė ūkio vienetas: nuo jo
-    buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Valstiečiams duodamieji valakai nebuvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo mažesni, o kur žemė būdavo prastesnė, — didesni.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kadangi dvaro bernai — vergai, kurie anksčiau apdirbdavo
-    dvaro žemę, per brangiai atseidavo, tai jie iš dvarų buvo iškelti
-    ir apgyvendinti kaimuose. Valstiečiams duodamieji valakai ne-
-    buvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo
-    mažesni, o kur žemė būdavo prastesnė, — didesni. Valakas kai
-    kur buvo 30—33 margų, o kai kur siekė net 44 margus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

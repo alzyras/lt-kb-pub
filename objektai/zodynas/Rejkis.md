@@ -66,8 +66,8 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   teiginys: "Narbuto aiškinimu, krašto bajorai buvo priklausomi nuo provincijas valdžiusių karaliukų, vadinamų Rejkis ir Kunigas."
   pagrindžia:
     - c-175348
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -114,9 +114,11 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
 - id: c-175096
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 355"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Nuo seniausių laikų šios gentys pri­
+    klausė tam tikrai kastai arba luomui, turėjusiam virše­
+    nybę kitiems; iš čia buvo renkami vadai ir įsakinėtojai.
     Kokiu gi kitu būdu galėjo suformuoti bajoriją tautos, ne­
     žinojusios jokių kitų pajamų, o tik gautas iš žemdirbys­
     tės, jei ne per dideles žemėvaldas? Vadinasi, krašto ba­
@@ -132,16 +134,17 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192267
     - t-192266
+    - t-192267
 
 - id: c-175348
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 355"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vadinasi, krašto ba­
+    Kokiu gi kitu būdu galėjo suformuoti bajoriją tautos, ne­
+    žinojusios jokių kitų pajamų, o tik gautas iš žemdirbys­
+    tės, jei ne per dideles žemėvaldas? Vadinasi, krašto ba­
     jorai buvo turtingi žemvaldžiai, plačių valsčių ponai, at­
     skirų apskričių savininkai. Jie, gyvenę savo pilaitėse, įsa­
     kinėjo skurdesnėms jų protekcijoje gyvenusioms klasėms,
@@ -149,6 +152,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
     somi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie
     valdė provincijas.
     Tokie kilmingų giminių ponai gyveno Pamedėje.
+  citata_rodoma: "Vadinasi, krašto ba­\njorai buvo turtingi žemvaldžiai, plačių valsčių ponai, at­\nskirų apskričių savininkai. Jie, gyvenę savo pilaitėse, įsa­\nkinėjo skurdesnėms jų protekcijoje gyvenusioms klasėms,\nturėjo vergiškai klusnių valdinių, o patys buvo priklau­\nsomi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie\nvaldė provincijas.\nTokie kilmingų giminių ponai gyveno Pamedėje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

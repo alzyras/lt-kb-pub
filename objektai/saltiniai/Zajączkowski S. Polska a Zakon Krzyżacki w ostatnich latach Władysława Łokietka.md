@@ -7,12 +7,12 @@ datos:
   - '1929 m.'
 date_start: '1929'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad zajączkowski S.
   teiginys: "S. Zajączkowskio veikalas „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleistas Lvove 1929 metais."
   pagrindžia:
     - c-62011
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'S. Zajączkowskio veikalas „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleistas Lvove 1929 metais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,19 @@ Dusburgietis teigia, kad zajączkowski S.
 - id: c-62011
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 278"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 278."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka.—
-    Lwów, 1929.
+    Justas šv.
+    Justinianas
+    Kabelka J.
+    Kaltis (Colte, Kolte)
+    Kalvaitis V. (Kalwaitis W.)
+    Kaminskis A. (Kamiński)
+    Kandeimas (D. — Candeym, Jer. — Kandemînen gens)
+    Kanthe
+    Kantigirdas (Cantegerde, Kantegirt; Kantigirde)
+    Karaliūnas S.
+  citata_rodoma: "Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka.—\nLwów, 1929."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

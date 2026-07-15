@@ -42,23 +42,6 @@ Galicijoje.
 - susijęs iš [[objektai/autoriai/Eduardas Eichvaldas.md#claim-t-191622|Eduardas Eichvaldas]]: Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų.
 - susijęs iš [[objektai/autoriai/Eichvaldas.md#claim-t-191640|Eichvaldas]]: Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų, o grįžo dešiniąja pakrante.
 - susijęs iš Dobrynė: Lenkijoje nuo seniau vyko ginčas dėl Dobrynės žemės.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Galų gale nei Lietuvoje nei Lenkijoje nelaimėjo nei unitai
-    nei pravoslavai. Kai rusai užėmė kraštą, tai unija buvo smurtu
-    išnaikinta. Unitai išliko tik tose Lenkijos dalyse, kurios po
-    padalinimo buvo patekusios Austrijai, t. y. Galicijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-02681

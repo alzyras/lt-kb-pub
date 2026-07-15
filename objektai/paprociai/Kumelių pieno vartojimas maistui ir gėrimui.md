@@ -56,34 +56,13 @@ Nenurodyta
   teiginys: "Maistui ir gėrimui, gal sekdami budinais, vartojo kumelių pieną."
   pagrindžia:
     - c-177337
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Maistui ir gėrimui, gal sekdami budinais, vartojo kumelių pieną.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Maistui ir gėrimui, gal sekdami budi-
-    nais, vartojo kumelių pieną. Tą sveiką gyvulinės kilmės
-    produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
-    suomet labai vertino ir dabar tebevertina šiaurės rytų
-    gyventojai. Tokiame piene, sumaišius jį su dar šiltu ir
-    šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl
-    destiliuojant galima pagaminti svaiginantį gėrimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177337
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 79"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 79."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Maistui ir gėrimui, gal sekdami budi-
     nais, vartojo kumelių pieną. Tą sveiką gyvulinės kilmės

@@ -71,7 +71,6 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   teiginys: "Į Vilnių atvykusiems neturtingiems jėzuitams iš Braunsbergo buvo sunku įsitvirtinti Lietuvos sostinėje."
   pagrindžia:
     - c-79608
-- susijęs iš [[objektai/asmenys/Stanislovas Hozijus.md#claim-t-186254|Stanislovas Hozijus]]: Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią svarbia jėzuitų atrama.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172130|Jėzuitų ordinas]]: Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti Vilniuje.
 - susijęs iš Torunė: Sužinoję apie Gedimino skundą popiežiui, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių.
 - susijęs iš Varmijos vyskupystė: 1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją ir įkurdino juos Braunsberge.
@@ -91,83 +90,6 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
 - susijęs iš [[objektai/zodynas/provizija.md#claim-t-86611|provizija]]: Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją ir du mansionierius tinkama provizija.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172130|Jėzuitų ordinas]]: Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti Vilniuje.
 - susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tad atmeskite tą bedievišką sąjungą: o ka­
-    dangi Viešpats jūsų ginklą valdo ir narsos didybės suteiks,
-    nesiliaukite kovoję su priešu ir tik po visiško jo sunaikinimo
-    pelnysite garbę žemėje, o danguje triumfo laurus"8.
-    Kai maždaug tuo metu sužinota, jog Gedimino skundas
-    tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­
-    sijos kustodas, to paties ordino Torunės, Kulmo, Braunsber-
-    go ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­
-    tai: Paulius iš Olivos ir Jordanas iš Pelplino stojo ginti
-    kryžiuočių, tiesiogiai popiežiui dviejuose laiškuose pranešda­
-    mi, esą meilė tiesai ir pareiga jos laikytis verčianti juos pa­
-    reikšti Jo Šventenybei, kad Ordino brolių garbė tapo šmeiži­
-    kišku ir nedoru būdu suteršta, nes pavyduoliai jų priešai išdrįso
-    teigti, esą ordinas karštai priešinęsis Lietuvos karaliaus pa­
-    geidavimui priimti krikščionių tikėjimą*. Jie tad, esant tokiai
-    Minus ergo decet militantes domino,
-    genti peccatrici, populo nequam, filiis
-    sceleratis aliqua pactione conjungi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-
-- c-002
-  santrauka: 'Į Vilnių atvykusiems neturtingiems jėzuitams iš Braunsbergo buvo sunku įsitvirtinti Lietuvos sostinėje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šio įžymaus ordino, pagarsėju­
-    sio talentais, mokslu ir jam būdingu gudrumu, įsitvirtini­
-    mas Lietuvos sostinėje laikui bėgant pagrindė daugelį reikš­
-    mingų faktų, kurie padarė stiprią įtaką viso krašto likimui.
-    Tačiau sunku buvo jėzuitams, tuomet dar neturtingiems at­
-    vykėliams iš Braunsbergo, įsitvirtinti ir išplėsti savo naujai
-    susuktą gūžtą49. Jų pastangos disputuoti su disidentais išties
-    pelnė jiems vyskupo ir kapitulos prielankumą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-001
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jėzuitų į Lenkiją
-    atkvietė garsus katali-
-    kybės gynėjas Varmi-
-    jos vyskupas St. Hozi-
-    jas (1564 m.). Jie buvo
-    įkurdinti Varmijos vys-
-    kupystės centre Brauns-
-    berge, o iš ten paplito
-    po visą Lenkiją. 1569
-    m. į Lietuvą jų parsi-
-    kvietė Vilniaus vys-
-    kupas Protasevi-
-    čius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-79607
@@ -220,8 +142,8 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83241
     - t-83237
+    - t-83241
 
 - id: c-79611
   redaktorius: "A. Šapoka"

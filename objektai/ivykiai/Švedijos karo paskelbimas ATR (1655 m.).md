@@ -61,67 +61,7 @@ Nenurodyta
   teiginys: "1655 m. Švedija paskelbė karą Abiejų Tautų Respublikai ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos."
   pagrindžia:
     - c-40962
-
-<a id="claim-t-183679"></a>
-- t-002
-  global_id: t-183679
-  teiginys: "1655 m. Švedija paskelbė karą Abiejų Tautų Respublikai ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos."
-  pagrindžia:
     - c-167071
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1655 m. Švedija paskelbė karą Abiejų Tautų Respublikai ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ## Puslapis 129
-
-    PROSTKŲ MŪŠIS 1656
-
-    PRŪSIJOS
-    KUNIGAIKŠTYSTĖ
-
-    Mūšio išvakarėse
-
-    1655 m. Švedija paskelbė karą ATR ir per
-    trumpą laiką užėmė Žemaitiją bei didelę
-    dalį Lenkijos. Tuo metu Rusijos kariuo-
-    menė buvo įsiveržusi į Lietuvos teritoriją
-    kitose vietovėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1655 m. Švedija paskelbė karą Abiejų Tautų Respublikai ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šiame kare (1654-1667) pirmą kartą priešas
-    keliems mėnesiams užėmė ir sostinę Vilnių.
-
-    ## Puslapis 129
-
-    PROSTKŲ MŪŠIS 1656
-
-    PRŪSIJOS
-    KUNIGAIKŠTYSTĖ
-
-    Mūšio išvakarėse
-
-    1655 m. Švedija paskelbė karą ATR ir per
-    trumpą laiką užėmė Žemaitiją bei didelę
-    dalį Lenkijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Puslapis 129 PROSTKŲ MŪŠIS 1656 PRŪSIJOS KUNIGAIKŠTYSTĖ Mūšio išvakarėse 1655 m. Švedija paskelbė karą ATR ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.
 
@@ -179,5 +119,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183679

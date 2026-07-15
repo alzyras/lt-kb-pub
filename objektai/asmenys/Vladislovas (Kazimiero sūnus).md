@@ -36,25 +36,6 @@ Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, ku
   teiginys: "Vladislovas buvo Čekų ir Vengrų karalius."
   pagrindžia:
     - c-65053
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    (Vičulkovskio paveikslas).
-    jo dukterys buvo ištekėjusios už Vokietijos kunigaikščių. Viena iš
-    jų ištekėjo už Hohencolerno; jos sūnus buvo paskutinysis kryžiuočių
-    magistras ir pirmasis pasaulinis Prūsų kunigaikštis. Kazimiero sūnus
-    Vladislovas buvo Čekų ir Vengrų karalius; kitas jo sūnus, Jonas
-    Albrechtas, buvo tėvo įpėdinis — Lenkų karalius, o sūnus Alek-
-    sandras — didysis Lietuvos kunigaikštis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

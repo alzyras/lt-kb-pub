@@ -67,57 +67,46 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
   teiginys: "Narbutas aiškina, kad žodžiu „Litalain“ estai prie Peipaus ežero supranta Lietuvos dalį, sudariusią Ukmergės apskritį."
   pagrindžia:
     - c-175052
+
+<a id="claim-t-197696"></a>
+- t-004
+  global_id: t-197696
+  teiginys: "Tai, regis, galima įrodyti tuo, jog estai, gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku ri dabar sudaro Ukmergės apskritį."
+  pagrindžia:
+    - c-175052
 - susijęs iš Peipaus ežeras: Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir šiuo žodžiu siejo juos su dabartine Ukmergės apskritimi.
 - susijęs iš [[objektai/grupes/Litalarai.md#claim-t-192987|Litalarai]]: Teodoras Narbutas neatmetė autoriaus nuomonės, kad litalarai buvo lietuvių-alanų tauta, galėjusi susidaryti iš lietuvių ir alanų mišinio.
 - susijęs iš Lietuva: Narbutas estų žodį Litalain siejo su Lietuva ir Ukmergės apskritimi, aiškindamas lietuvių bei kuršių ankstyvą gyvenimą jų žemėse.
 - susijęs iš Ukmergės apskritis: Narbuto teigimu, Peipaus ežero estai žodžiu „Litalain“ vadino Lietuvos dalį, kuri jo laiku sudarė Ukmergės apskritį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat
-    mes neneigsime šio autoriaus nuomonės, kad buvusi lie-
-    tuvių-alanų tauta, vadinama litalarrais, kuri visiškai ga­
-    lėjo susidaryti iš lietuvių ir alanų mišinio. Sutiksime net
-    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
-    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
-    gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
-    vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
-    ri dabar sudaro Ukmergės apskritį*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-    - t-001
-
 ## Citatos
 
 - id: c-175052
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 188"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Taip pat
-    mes neneigsime šio autoriaus nuomonės, kad buvusi lie-
-    tuvių-alanų tauta, vadinama litalarrais, kuri visiškai ga­
-    lėjo susidaryti iš lietuvių ir alanų mišinio. Sutiksime net
-    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
-    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
+    Tai, regis, galima įrodyti tuo, jog estai,
     gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
     vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
-    ri dabar sudaro Ukmergės apskritį*.
+    ri dabar sudaro Ukmergės apskritį*. Bet iš viso to nega­
+    lima daryti jokios kitos išvados, o tik tą, kurią jau minė­
+    jome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse
+    gyventa anksčiau, negu atvykėliai alanai davė pradžią
+    šių lydinių susidarymui. Juk šiandien negalima nieko įro­
+    dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi
+    šios tautos likučiai, Kaukazo kalnų gyventojai osetinai,
+    ištirti mokslininko, senovės istoriko pono Klaproto, kuris
+    veikale „Asia Polyglotta“** pateikia osetinų kalbos žo­
+    dyną, kuriame nerandame nieko, ką galima būtų vadinti
+    panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
+    tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
   citata_rodoma: "Taip pat mes neneigsime šio autoriaus nuomonės, kad buvusi lie-\ntuvių-alanų tauta, vadinama litalarrais, kuri visiškai ga­\nlėjo susidaryti iš lietuvių ir alanų mišinio. Sutiksime net\nir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-\nalanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,\ngyvenantys prie Peipaus ežero, dar ir šiandien lietuvius\nvadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­\nri dabar sudaro Ukmergės apskritį*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-192179
     - t-192180
     - t-192182
-    - t-192179
+    - t-197696

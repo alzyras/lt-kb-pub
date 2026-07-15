@@ -49,30 +49,6 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
   teiginys: "1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ ir taip prilygino save Bizantijos imperatoriui."
   pagrindžia:
     - c-169746
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rem-
-    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
-    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
-    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
-    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
-    Vilnius nevirto „antruoju Kijevu“. Tačiau būtent šių žygių į Maskvą metu
-    1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietu-
-    vių imperatoriumi“ („vasilea Letvon“), taip iškeldamas save virš Maskvos,
-    Tverės ir kitų kunigaikščių ir prisilygindamas Bizantijos imperatoriui –
-    Lietuvos valdovai puikiai orientavosi ne tik Vakarų, bet ir Rytų Europos
-    politinėje sistemoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

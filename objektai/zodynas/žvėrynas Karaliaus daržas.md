@@ -34,30 +34,6 @@ media_all_json: |-
   teiginys: "Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu."
   pagrindžia:
     - c-82611
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Per pusantros mylios nuo Rūdninkų Men-
-    dzižečės* link stūksojo nuostabiai gražus šilas, Žgviždos
-    Vienos iš Rūdninkų girios dalies bu­
-    vęs pavadinimas (vert. past.).
-    255
-
-    ## Puslapis 272
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    upės skiriamas, kelių mylių proskynoje tvarkingai statinių
-    tvora aptvertas, vadinamas žvėrynu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

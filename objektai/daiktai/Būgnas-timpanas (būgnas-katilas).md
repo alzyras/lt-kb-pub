@@ -54,21 +54,6 @@ Nenurodyta
   teiginys: "Būgnas-timpanas buvo vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo bažnyčioje saugomų būgnų."
   pagrindžia:
     - c-44645
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 131, Husarų palašas. ATR, XVII-XVIII a., VDKM, Artūro Užgalio nuotr.
-    p. 131, Būgnas-timpanas (būgnas-katilas), vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo
-    bažnyčioje saugomų būgnų, Karolio Zikaro nuotr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

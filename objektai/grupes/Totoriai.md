@@ -23,14 +23,15 @@ datos:
   - '2026 m.'
 date_start: '1202'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - kraštas
   - tauta
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,33 +53,37 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 
 ## Teiginiai
 
-<a id="claim-t-171393"></a>
+<a id="claim-t-12383"></a>
 - t-001
+  global_id: t-12383
+  teiginys: "Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai ir Livonijos ordinas."
+  pagrindžia:
+    - c-181496
+    - c-36951
+
+<a id="claim-t-171393"></a>
+- t-002
   global_id: t-171393
   teiginys: "Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d."
   pagrindžia:
     - c-155948
+    - c-181474
 
 <a id="claim-t-171394"></a>
-- t-002
+- t-003
   global_id: t-171394
   teiginys: "Vytautas Lietuvoje įkurdino totorius, kurie garsėjo dora, narsa ir prieraišumu naujai tėvynei."
   pagrindžia:
     - c-155980
+    - c-181494
 
 <a id="claim-t-171395"></a>
-- t-003
+- t-004
   global_id: t-171395
   teiginys: "Vilniuje ir jo apylinkėse įsikūrė nemaža į nelaisvę paimtų totorių."
   pagrindžia:
     - c-155960
-
-<a id="claim-t-171396"></a>
-- t-004
-  global_id: t-171396
-  teiginys: "Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai ir Livonijos ordinas."
-  pagrindžia:
-    - c-36951
+    - c-181459
 
 <a id="claim-t-171397"></a>
 - t-005
@@ -86,6 +91,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginys: "1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu."
   pagrindžia:
     - c-155984
+    - c-181483
 
 <a id="claim-t-171398"></a>
 - t-006
@@ -93,6 +99,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę ir kitas duokles dvasininkams."
   pagrindžia:
     - c-155949
+    - c-181484
 
 <a id="claim-t-171400"></a>
 - t-007
@@ -100,420 +107,402 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginys: "Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius."
   pagrindžia:
     - c-155954
-
-<a id="claim-t-171401"></a>
-- t-008
-  global_id: t-171401
-  teiginys: "Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką."
-  pagrindžia:
-    - c-42958
+    - c-181501
 
 <a id="claim-t-171402"></a>
-- t-009
+- t-008
   global_id: t-171402
   teiginys: "Švitrigaila į Lietuvą kreipė įvairias totorių ir rusų ordas, siekdamas atimti valdžią iš Žygimanto."
   pagrindžia:
     - c-155963
-
-<a id="claim-t-171403"></a>
-- t-010
-  global_id: t-171403
-  teiginys: "Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė."
-  pagrindžia:
-    - c-42960
+    - c-181495
 
 <a id="claim-t-171404"></a>
-- t-011
+- t-009
   global_id: t-171404
   teiginys: "Totoriai kartu su Livonijos ordinu trukdė taikų Vytauto darbą."
   pagrindžia:
     - c-36951
+    - c-181496
 
 <a id="claim-t-171405"></a>
-- t-012
+- t-010
   global_id: t-171405
   teiginys: "1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą."
   pagrindžia:
     - c-155979
+    - c-155987
+    - c-181472
+    - c-181465
 
 <a id="claim-t-171406"></a>
-- t-013
+- t-011
   global_id: t-171406
   teiginys: "LDK turėjo totorių musulmonų bendruomenę, kurios iki unijos su Lenkija Lenkijoje nebuvo."
   pagrindžia:
     - c-155981
+    - c-181470
 
 <a id="claim-t-171407"></a>
-- t-014
+- t-012
   global_id: t-171407
   teiginys: "Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką Vroclavietį ir daugybę kitų žmonių, o šias šalis pavertė dykromis."
   pagrindžia:
     - c-155965
+    - c-181498
 
 <a id="claim-t-171408"></a>
-- t-015
+- t-013
   global_id: t-171408
   teiginys: "1202 m. prasidėjo totorių viešpatavimas."
   pagrindžia:
     - c-155958
-
-<a id="claim-t-171409"></a>
-- t-016
-  global_id: t-171409
-  teiginys: "Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių."
-  pagrindžia:
-    - c-42952
-
-<a id="claim-t-171410"></a>
-- t-017
-  global_id: t-171410
-  teiginys: "Po apiplėšimų totoriai stengdavosi greitai pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija dažnai vėluodavo."
-  pagrindžia:
-    - c-155985
+    - c-181468
 
 <a id="claim-t-171411"></a>
-- t-018
+- t-014
   global_id: t-171411
   teiginys: "Vytautas Vilniuje ne kartą skelbdavo totorių kunigaikščius chanais arba carais."
   pagrindžia:
     - c-155952
+    - c-181464
 
 <a id="claim-t-171412"></a>
-- t-019
+- t-015
   global_id: t-171412
   teiginys: "Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai, Livonijos ordinas ir kiti priešininkai."
   pagrindžia:
     - c-36951
-
-<a id="claim-t-171413"></a>
-- t-020
-  global_id: t-171413
-  teiginys: "Totorių raiteliai vesdavosi po tris atsarginius žirgus, todėl galėdavo judėti labai sparčiai ir pasiekti netikėtumo efektą."
-  pagrindžia:
-    - c-42954
+    - c-181496
 
 <a id="claim-t-171414"></a>
-- t-021
+- t-016
   global_id: t-171414
   teiginys: "Vytautas po pergalių prieš totorius savo sostinėje ne kartą skelbdavo totorių kunigaikštį chanu arba caru."
   pagrindžia:
     - c-155952
+    - c-181464
 
 <a id="claim-t-171415"></a>
-- t-022
+- t-017
   global_id: t-171415
   teiginys: "Švitrigaila kėsinosi atimti iš Žygimanto valdžią ir į Lietuvą kreipė įvairias totorių bei rusų ordas."
   pagrindžia:
     - c-155963
-
-<a id="claim-t-171416"></a>
-- t-023
-  global_id: t-171416
-  teiginys: "Užimdamas naujus rusų kraštus, Vytautas priartėjo prie totorių sienų ir tai vedė prie karo su totoriais."
-  pagrindžia:
-    - c-36948
+    - c-181495
 
 <a id="claim-t-171418"></a>
-- t-024
+- t-018
   global_id: t-171418
   teiginys: "Totoriai, įsigalėję Rusijoje, pradėjo tarpusavyje vaidytis, o Lietuva iš šių vaidų ne kartą pasipelnydavo."
   pagrindžia:
     - c-155977
+    - c-181489
 
 <a id="claim-t-171419"></a>
-- t-025
+- t-019
   global_id: t-171419
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę rusai ir totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams."
   pagrindžia:
     - c-155949
-
-<a id="claim-t-171420"></a>
-- t-026
-  global_id: t-171420
-  teiginys: "Totoriams strateginį privalumą teikė jų pagrindinės buveinės Krymo pusiasalyje nuošalumas nuo stiprių galios centrų."
-  pagrindžia:
-    - c-42953
+    - c-181484
 
 <a id="claim-t-171421"></a>
-- t-027
+- t-020
   global_id: t-171421
   teiginys: "Vytautas, tarpininkaujant Tochtamyšui, ketino nukariauti totorius ir perimti kovotojo su netikinčiais šlovę."
   pagrindžia:
     - c-155975
-
-<a id="claim-t-171422"></a>
-- t-028
-  global_id: t-171422
-  teiginys: "Vytauto laikais totorių valstybė išgyveno krizę: Orda buvo suskilusi, o atskiri saarai nuolat kariavo."
-  pagrindžia:
-    - c-14992
+    - c-181480
 
 <a id="claim-t-171423"></a>
-- t-029
+- t-021
   global_id: t-171423
   teiginys: "Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis."
   pagrindžia:
     - c-155957
+    - c-181492
 
 <a id="claim-t-171424"></a>
-- t-030
+- t-022
   global_id: t-171424
   teiginys: "Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais."
   pagrindžia:
     - c-155969
-
-<a id="claim-t-171425"></a>
-- t-031
-  global_id: t-171425
-  teiginys: "Pagrindinėje stovyklavietėje buvę totoriai jau tą pačią dieną - rugpjūčio ketvirtąją - sužinojo apie link jų judančią Lietuvos kariuomenę."
-  pagrindžia:
-    - c-155990
-
-<a id="claim-t-171409"></a>
-- t-032
-  global_id: t-171409
-  teiginys: "Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių."
-  pagrindžia:
-    - c-42952
+    - c-181467
 
 <a id="claim-t-171427"></a>
-- t-033
+- t-023
   global_id: t-171427
   teiginys: "Vytauto politikoje svarbi buvo kova rytuose su rusų kunigaikščiais ir totoriais."
   pagrindžia:
     - c-155964
 
 <a id="claim-t-171428"></a>
-- t-034
+- t-024
   global_id: t-171428
   teiginys: "Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes."
   pagrindžia:
     - c-155972
+    - c-181460
 
 <a id="claim-t-171429"></a>
-- t-035
+- t-025
   global_id: t-171429
   teiginys: "Andrius kartu su Dmitrijumi Doniečiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke."
   pagrindžia:
     - c-155948
+    - c-181474
 
 <a id="claim-t-171430"></a>
-- t-036
+- t-026
   global_id: t-171430
   teiginys: "Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis."
   pagrindžia:
     - c-155954
-
-<a id="claim-t-171431"></a>
-- t-037
-  global_id: t-171431
-  teiginys: "Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas."
-  pagrindžia:
-    - c-36949
+    - c-181501
 
 <a id="claim-t-171432"></a>
-- t-038
+- t-027
   global_id: t-171432
   teiginys: "Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus."
   pagrindžia:
     - c-166576
+    - c-181503
 
 <a id="claim-t-171433"></a>
-- t-039
+- t-028
   global_id: t-171433
   teiginys: "Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose."
   pagrindžia:
     - c-155980
+    - c-181494
 
 <a id="claim-t-171434"></a>
-- t-040
+- t-029
   global_id: t-171434
   teiginys: "Seniau totoriai vertėsi audinių ir siūlų prekyba."
   pagrindžia:
     - c-155968
+    - c-181461
 
 <a id="claim-t-171435"></a>
-- t-041
+- t-030
   global_id: t-171435
   teiginys: "Iki unijos su Lenkija LDK turėjo totorių musulmonų bendruomenę, kurios Lenkijoje iki tol nebuvo."
   pagrindžia:
     - c-155989
-
-<a id="claim-t-171436"></a>
-- t-042
-  global_id: t-171436
-  teiginys: "Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją."
-  pagrindžia:
-    - c-42951
-
-<a id="claim-t-171437"></a>
-- t-043
-  global_id: t-171437
-  teiginys: "Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką."
-  pagrindžia:
-    - c-21433
-
-<a id="claim-t-171438"></a>
-- t-044
-  global_id: t-171438
-  teiginys: "Kova rytuose su rusų kunigaikščiais ir totoriais buvo viena iš Vytauto politikos krypčių."
-  pagrindžia:
-    - c-36953
+    - c-181497
 
 <a id="claim-t-171439"></a>
-- t-045
+- t-031
   global_id: t-171439
   teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
   pagrindžia:
     - c-155956
     - c-155965
-
-<a id="claim-t-171440"></a>
-- t-046
-  global_id: t-171440
-  teiginys: "1506 m. vasarą totoriai įsiveržė į LDK valdas, nesitikėdami nesėkmės."
-  pagrindžia:
-    - c-42956
+    - c-181463
+    - c-181498
 
 <a id="claim-t-171441"></a>
-- t-047
+- t-032
   global_id: t-171441
   teiginys: "Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių."
   pagrindžia:
     - c-155951
-
-<a id="claim-t-171442"></a>
-- t-048
-  global_id: t-171442
-  teiginys: "1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą."
-  pagrindžia:
-    - c-155987
+    - c-181477
 
 <a id="claim-t-171443"></a>
-- t-049
+- t-033
   global_id: t-171443
   teiginys: "1326 m. Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę."
   pagrindžia:
     - c-155978
+    - c-181481
 
 <a id="claim-t-171444"></a>
-- t-050
+- t-034
   global_id: t-171444
   teiginys: "Vytautas užmezgė draugiškus ryšius su totorių chanu ir susitarė dėl taikos."
   pagrindžia:
     - c-155966
+    - c-181499
 
 <a id="claim-t-171445"></a>
-- t-051
+- t-035
   global_id: t-171445
   teiginys: "Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą."
   pagrindžia:
     - c-36950
 
 <a id="claim-t-171446"></a>
-- t-052
+- t-036
   global_id: t-171446
   teiginys: "Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir kitomis dorybėmis."
   pagrindžia:
     - c-155957
+    - c-181492
 
 <a id="claim-t-171447"></a>
-- t-053
+- t-037
   global_id: t-171447
   teiginys: "Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, tapusiais artimosios sargybos tautomis."
   pagrindžia:
     - c-155974
-
-<a id="claim-t-171432"></a>
-- t-054
-  global_id: t-171432
-  teiginys: "Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus."
-  pagrindžia:
-    - c-166576
-
-<a id="claim-t-183669"></a>
-- t-055
-  global_id: t-183669
-  teiginys: "Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją."
-  pagrindžia:
-    - c-167061
-
-<a id="claim-t-183905"></a>
-- t-056
-  global_id: t-183905
-  teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
-  pagrindžia:
-    - c-155956
+    - c-181486
 
 <a id="claim-t-187746"></a>
 - t-057
   global_id: t-187746
   teiginys: "Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos."
   pagrindžia:
-    - c-170685
+    - c-181471
 
 <a id="claim-t-187747"></a>
 - t-058
   global_id: t-187747
   teiginys: "Lietuvos metraštis teigia, kad Dievui padėjus totoriai sumušė Vytautą ir jo kariuomenę, o Vytautas su nedideliu būriu pabėgo."
   pagrindžia:
-    - c-170686
+    - c-181457
 
 <a id="claim-t-187748"></a>
-- t-059
+- t-040
   global_id: t-187748
   teiginys: "Vytautas į karą su Prūsijos vokiečiais sutelkė Lietuvos ir Rusios pajėgas bei daug Ordos totorių."
   pagrindžia:
-    - c-170687
+    - c-181491
 
 <a id="claim-t-187750"></a>
 - t-060
   global_id: t-187750
   teiginys: "Prie Klecko už Lanės upės stovėjo mūšiui pasirengę totorių pulkai."
   pagrindžia:
-    - c-170689
+    - c-181479
 
 <a id="claim-t-187751"></a>
-- t-061
+- t-042
   global_id: t-187751
   teiginys: "Totoriai puolė per upę besikeliančių lietuvių dešinįjį sparną ir nukovė daug jo karių."
   pagrindžia:
-    - c-170690
+    - c-181473
 
 <a id="claim-t-192476"></a>
-- t-062
+- t-043
   global_id: t-192476
   teiginys: "Narbutas rašo, kad totorių puldinėjimai tuo metu palietė Lenkiją ir Polesę nuo Bugo."
   pagrindžia:
     - c-175270
+    - c-181502
 
 <a id="claim-t-193131"></a>
-- t-063
+- t-044
   global_id: t-193131
   teiginys: "Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko."
   pagrindžia:
     - c-175889
+    - c-181485
 
 <a id="claim-t-193132"></a>
-- t-064
+- t-045
   global_id: t-193132
   teiginys: "Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią."
   pagrindžia:
     - c-175890
+    - c-181469
 
 <a id="claim-t-193845"></a>
-- t-065
+- t-046
   global_id: t-193845
   teiginys: "Tuo pačiu metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių."
   pagrindžia:
     - c-176489
+    - c-181487
 
 <a id="claim-t-194371"></a>
-- t-066
+- t-047
   global_id: t-194371
   teiginys: "Apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol."
   pagrindžia:
     - c-155956
+    - c-181463
+
+<a id="claim-t-199077"></a>
+- t-048
+  global_id: t-199077
+  teiginys: "Po apiplėšimų totoriai stengdavosi greitai pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija dažnai vėluodavo."
+  pagrindžia:
+    - c-181488
+
+<a id="claim-t-199080"></a>
+- t-049
+  global_id: t-199080
+  teiginys: "Totoriams strateginį privalumą teikė jų pagrindinės buveinės Krymo pusiasalyje nuošalumas nuo stiprių galios centrų."
+  pagrindžia:
+    - c-181466
+
+<a id="claim-t-199081"></a>
+- t-050
+  global_id: t-199081
+  teiginys: "Totorių raiteliai vesdavosi po tris atsarginius žirgus, todėl galėdavo judėti labai sparčiai ir pasiekti netikėtumo efektą."
+  pagrindžia:
+    - c-181500
+
+<a id="claim-t-199085"></a>
+- t-051
+  global_id: t-199085
+  teiginys: "Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių."
+  pagrindžia:
+    - c-181458
+
+<a id="claim-t-199086"></a>
+- t-052
+  global_id: t-199086
+  teiginys: "Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją."
+  pagrindžia:
+    - c-42953
+    - c-181478
+
+<a id="claim-t-199093"></a>
+- t-053
+  global_id: t-199093
+  teiginys: "1506 m. vasarą totoriai įsiveržė į LDK valdas, nesitikėdami nesėkmės."
+  pagrindžia:
+    - c-42956
+
+<a id="claim-t-199103"></a>
+- t-054
+  global_id: t-199103
+  teiginys: "Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė."
+  pagrindžia:
+    - c-181505
+
+<a id="claim-t-199114"></a>
+- t-055
+  global_id: t-199114
+  teiginys: "Kova rytuose su rusų kunigaikščiais ir totoriais buvo viena iš Vytauto politikos krypčių."
+  pagrindžia:
+    - c-181493
+
+<a id="claim-t-199115"></a>
+- t-056
+  global_id: t-199115
+  teiginys: "Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas."
+  pagrindžia:
+    - c-181456
+
+<a id="claim-t-199117"></a>
+- t-038
+  global_id: t-199117
+  teiginys: "Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką."
+  pagrindžia:
+    - c-42958
+
+<a id="claim-t-199124"></a>
+- t-039
+  global_id: t-199124
+  teiginys: "Pagrindinėje stovyklavietėje buvę totoriai jau tą pačią dieną - rugpjūčio ketvirtąją - sužinojo apie link jų judančią Lietuvos kariuomenę."
+  pagrindžia:
+    - c-181504
 - susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje Vytauto žygiai ir Vorsklos kautynės apibendrinti kaip trys lietuvių karai su totoriais.
 - susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje rašoma, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos patyrė nesėkmę.
 - susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-183696|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos pralaimėjo.
@@ -538,23 +527,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu.md#claim-t-87226|Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]: 1419 m. Vilniaus pilyje Vytautas didžiosios ordos chanu paskelbė Betsabutą, uždėdamas kepurę, apsiausdamas apsiaustu ir prisegdamas kardą.
 - susijęs iš [[objektai/posakiai/du priešai, šaltis ir totoriai.md#claim-t-11660|du priešai, šaltis ir totoriai]]: Posakis „du priešai: šaltis ir totoriai“ pateikiamas kaip Vytauto atsakymo dalis, kai saviškiai prie Dniepro ragino jį dėl šalčių mesti kovą su totoriais.
 - susijęs iš Cepro upė: Po Klecko kautynių Mykolas Glinskis su Lietuvos kariuomene vijosi totorius aplink Ceprą ir už Cepros.
-- susijęs iš [[objektai/daiktai/Lankai.md#claim-t-186851|Lankai]]: Klecko mūšyje Lietuvos kariuomenė šaudė į totorius per upę iš patrankų, šautuvų ir lankų.
 - susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10253|Mėlynųjų Vandenų mūšis (1362 m.)]]: Algirdo pajėgų pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.
 - susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10254|Mėlynųjų Vandenų mūšis (1362 m.)]]: Istorinė tradicija teigia, kad Algirdas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.
 - susijęs iš Kijevas: Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią.
-- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.
+- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė temniką Mamajų ir, pasak autoriaus, atsikratė totorių jungo.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184434|Martynas V]]: Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184442|Martynas V]]: Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176735|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vilniaus vyskupui Petrui atsisakius sutuokti dėl artimos giminystės, tarp jo ir Vytauto kilo karšti ginčai.
 - susijęs iš [[objektai/autoriai/R. Batūra.md#claim-t-97213|Romas Batūra]]: Romas Batūra 1966 m. rašė XIII a. Lietuvos sostinės klausimu ir nagrinėjo lietuvių kovas su totoriais.
-- susijęs iš [[objektai/daiktai/Šautuvai.md#claim-t-186849|Šautuvai]]: Klecko mūšyje Lietuvos kariuomenė per upę šaudė į totorius iš patrankų, šautuvų ir lankų.
 - susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171344|Karijotaičiai]]: Lietuvos kariuomenėje buvo Lietuvos valdovo Algirdo pajėgos ir jo brolio Karijoto trijų sūnų, Karijotaičių, vadovaujami kariai.
-- susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186661|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.
 - susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10255|Mėlynųjų Vandenų mūšis (1362 m.)]]: Motiejus Strijkovskis perteikė tradiciją, kad Algirdas ties Mėlynaisiais Vandenimis sumušė totorius.
-- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186694|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Žinia apie Algirdo pergalę prieš totorius ties Mėlynaisiais Vandenimis 1971 m. komentare laikoma apskritai patikima, nors dėl datos nesutariama.
+- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186694|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: 1971 m. komentare žinia, kad Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, laikoma apskritai patikima, nors data ginčijama.
 - susijęs iš Podolė: Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
 - susijęs iš Podolė: Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
-- susijęs iš Volynė: Lietuviai gaudė į visas puses Volynės keliais bėgančius totorius, juos žudė ir atiminėjo grobį.
 - susijęs iš [[objektai/zodynas/murza.md#claim-t-183718|murza]]: Po Algirdo pajėgų spaudimo totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
 - susijęs iš [[objektai/zodynas/murza.md#claim-t-38767|murza]]: Neišlaikę Algirdo pajėgų spaudimo totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-30194|Aleksandras (Mykolo sūnus)]]: Aleksandras su sūnumi greičiausiai dėl artimų ryšių su Gediminu buvo nužudyti totorių ordoje.
@@ -570,7 +555,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
 - susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-184255|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi.
 - susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-34718|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras puolė totorių galybę, kuri Vytauto laikais jau buvo žlugusi.
-- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.
+- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė temniką Mamajų ir, pasak autoriaus, atsikratė totorių jungo.
 - susijęs iš [[objektai/asmenys/Dmitrijus (totorių vadas).md#claim-t-78962|Dmitrijus (totorių vadas)]]: Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių.
 - susijęs iš [[objektai/asmenys/Dmitrijus (totorių vadas).md#claim-t-78963|Dmitrijus (totorių vadas)]]: Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų, kurių kariuomenė susirėmė su Lietuvos kariuomene.
 - susijęs iš [[objektai/asmenys/Dmitrijus Doniškis.md#claim-t-87652|Dmitrijus Doniškis]]: Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
@@ -608,8 +593,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111435|Tochtamišas]]: Prie Kijevo telkiamoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10106|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176630|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto tolerancijos įvaizdis sietas su totorių pakvietimu į Lietuvą ir žydams suteiktomis privilegijomis.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176652|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176654|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas mokėjo vokiečių ir lotynų kalbas, o šaltinyje svarstoma, kad galėjo mokėti ir rusų bei totorių kalbas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176715|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176739|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas LDK apgyvendino musulmonų totorių ir karaimų bendruomenes.
 - susijęs iš [[objektai/asmenys/Zaberezinskis.md#claim-t-40543|Zaberezinskis]]: Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos atmušė.
@@ -679,7 +662,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/grupes/Čerkesų ir kumanų totoriai.md#claim-t-189547|Čerkesų ir kumanų totoriai]]: Narbutas rašė, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado pas čerkesų ir kumanų totorius.
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186782|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Aukso ordos totoriai labai šaltą 1501-1502 m. žiemą žiemojo nurodytose vietose, nesulaukę realios LDK paramos kariuomene, artilerija ir maistu.
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186785|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Seversko Naugardą ir Starodubą Aukso ordos totoriai puolė 1501 m. rugsėjį, iki spalio 7 d.
-- susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186661|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.
 - susijęs iš [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.).md#claim-t-34538|Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]: 1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185492|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Žeimelės mūšyje Gedimino kariuomenės priekyje stovėję totoriai puslankiu išsisklaidė ir išvengė kryžiuočių ietininkų antpuolio.
 - susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192036|Herbo suteikimas Ostapui Kropotkovui]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
@@ -737,8 +719,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Lenkija: Vengrija ir Lenkija turėjo priversti ordiną grąžinti Lietuvai atimtas žemes ir ginti ją nuo kryžiuočių bei totorių.
 - susijęs iš Liegnitzas: Prie Liegnitzo Silezijoje 1241 m. vokiečių ir Silezijos kunigaikščiai sulaikė tolesnį totorių veržimąsi į Europą.
 - susijęs iš Lionas: 1274 m. popiežius Grigalius X sušaukė Lione sinodą, kuriame graikai grįžo į Bažnyčios vienybę, o keli totorių pasiuntiniai buvo pakrikštyti.
-- susijęs iš Liublinas: Iš Liublino seimo į Vilnių atvykęs karalius ėmėsi reikalų su totoriais.
-- susijęs iš Liublinas: Iš Liublino seimo į Vilnių atvykęs karalius ėmėsi reikalų su totoriais.
 - susijęs iš Livonija: Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.
 - susijęs iš Lojevas: Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link.
 - susijęs iš Maskva: Vytautas rytuose siekė valdyti arba stipriai paveikti Pskovą, Naugardą, Maskvą, Tverę, Riazanę ir totorius.
@@ -746,7 +726,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Mohilna: Antroji Lietuvos metraščio redakcija pasakoja, kad 1234 m. Mindaugo tėvas prie Mohilnos kovojo prieš totorius.
 - susijęs iš Moldavija: Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.
 - susijęs iš Nesvyžius: Kleckas buvo prie kelių į Pinską, Vilnių, Nesvyžių ir Slucką, todėl totoriams tiko išpuoliams mažesniais būriais.
-- susijęs iš Ovručas: Lietuvos metraštis pasakoja, kad lietuviai Ovručo ir kitais keliais gaudė bėgančius totorius, juos žudė ir atiminėjo grobį.
 - susijęs iš Pavolgis: 1427 m. Vytauto palaikomas Machmetas į savo valdžią paėmė Pavolgio, Juodmarių pakraščio ir Krymo totorius.
 - susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo Krymą ir didino totorių pagrindinės buveinės strateginį pranašumą.
 - susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo sunkiai pasiekiamą totorių bazę, iš kurios jie galėjo leistis į tolimus žygius.
@@ -756,8 +735,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Podolė: Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
 - susijęs iš Podolė: Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
 - susijęs iš Podolė: Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, kurie per Dniestrą drįsdavo keltis tik sutelkę dideles pajėgas.
-- susijęs iš Pskovas: Vytautas siekė Pskovą, Naugardą, Maskvą, Tverę, Riazanę ir totorius paimti savo valdžion arba turėti jiems didelę įtaką.
-- susijęs iš Pskovas: Vytautas siekė paimti Pskovą, Naugardą, Maskvą, Tverį, Riazanę ir totorius savo valdžion arba turėti jiems didelę įtaką.
 - susijęs iš Smolenskas: Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus.
 - susijęs iš Smolenskas: Vytautui priklausė Smolenskas ir visa pietų Rusia, tačiau jis siekė sumušti totorius ir plėsti įtaką rytuose.
 - susijęs iš Smotričius: Smotričių 1240 m. sunaikino totoriai.
@@ -767,11 +744,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Tverė: Vytautas rytų politikoje siekė valdyti arba stipriai veikti Tverę, Maskvą, Pskovą, Naugardą, Riazanę ir totorius.
 - susijęs iš Vengrija: 1326 metais Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.
 - susijęs iš Vilija: Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.
-- susijęs iš Vilnius: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
 - susijęs iš Vilnius: 1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.
-- susijęs iš Vilnius: Į Vilnių iš Liublino seimo atvykęs karalius ėmėsi reikalų su totoriais.
 - susijęs iš Vingrių šaltinis: Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.
-- susijęs iš Volynė: Lietuviai gaudė į visas puses Volynės keliais bėgančius totorius, juos žudė ir atiminėjo grobį.
 - susijęs iš Zakračimas: Prie Zakračimo prie Vislos susijungusios lietuvių, rusų, totorių ir lenkų jėgos padėjo nuniokoti Prūsus.
 - susijęs iš [[objektai/zodynas/apsimestinis bėgimas.md#claim-t-32760|apsimestinis bėgimas]]: Apsimestinis bėgimas galėjo būti iš totorių perimta taktika priešui patraukti ir jo eilėms suardyti.
 - susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78878|baskakas]]: 1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.
@@ -783,10 +757,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/zodynas/pašauktinė kariuomenė.md#claim-t-78906|pašauktinė kariuomenė]]: Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad po apiplėšimo totoriai spėdavo pasitraukti.
 - susijęs iš [[objektai/zodynas/protežė.md#claim-t-36825|protežė]]: Vytautas sutiko padėti chanui, nes tikėjosi, kad turėdamas jį savo protežė sustiprins santykius su totoriais ir Rusia.
 - susijęs iš [[objektai/zodynas/saar.md#claim-t-70318|saar]]: Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų.
-- susijęs iš [[objektai/zodynas/skitai.md#claim-t-185343|skitai]]: Paaiškinimuose nurodoma, kad A. Kojelavičius skitais vadina mongolus bei totorius.
 - susijęs iš [[objektai/zodynas/taurininkas.md#claim-t-187561|taurininkas]]: Andrius Droždža 1498 m. gavo didžiojo kunigaikščio taurininko pareigas ir vyko su diplomatine misija pas totorius.
-- susijęs iš [[objektai/zodynas/ulan.md#claim-t-187552|ulan]]: Ulanas buvo feodalinis titulas, kuriuo vadinosi žymiausi chanų giminės totorių feodalai, turėję ulusus ir teisę dalyvauti chanų rinkimuose.
-- susijęs iš [[objektai/zodynas/ulusas.md#claim-t-187531|ulusas]]: Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.
 - susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-184255|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi.
 - susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-34718|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras puolė totorių galybę, kuri Vytauto laikais jau buvo žlugusi.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10106|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
@@ -800,7 +771,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195036|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195037|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje.
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195038|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
-- susijęs iš Petrikovičiai: Lietuviai gaudė bėgančius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį.
 - susijęs iš [[objektai/asmenys/Abramas (iždininkas).md#claim-t-87605|Abramas (iždininkas)]]: Karaliaus raštu iždininkui Abramui nurodyta leisti Vilniaus vaitui į užsienį parduoti tris vaško gabalus po 50 akmenų.
 - susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-190840|Albertas Vijūkas-Kojalavičius]]: Narbutas rašo, kad Kojalavičius poloviečius laikė turinčiais lietuvių kalbą ir siejo juos su Mamajaus sugriauta Beloserkos sostine.
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97311|Aldona Gediminaitė]]: Aldona Gediminaitė, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.
@@ -808,7 +778,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-30193|Aleksandras (Mykolo sūnus)]]: Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54939|Aleksandras Jogailaitis]]: Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m. jis buvo išrinktas Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82170|Aleksandras Jogailaitis]]: Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui.
-- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176289|Algirdas (Lietuvos valdovas)]]: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-190846|Algirdas (Lietuvos valdovas)]]: Narbutas mini Algirdo privilegijos nuorašą, kuriuo patvirtinta riteriška kilmė ir herbas su strėlių ryšuliu raudoname lauke.
@@ -930,7 +899,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai.md#claim-t-40715|Geležinėmis grandinėmis kaustyti vežimai]]: Vorsklos mūšyje Timūr-Kutluko totoriai paėmė Vytauto kariuomenės gurguolę, vežimus su geležinėmis grandinėmis, patrankas, arbaletus ir daug turto.
 - susijęs iš [[objektai/daiktai/Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu.md#claim-t-87081|Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu]]: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams apsistoti.
 - susijęs iš [[objektai/daiktai/Lankai.md#claim-t-186850|Lankai]]: LDK karių perkėlų statybą per upę dengė dviejų patrankų, šautuvų ir lankų ugnis.
-- susijęs iš [[objektai/daiktai/Lankai.md#claim-t-186851|Lankai]]: Klecko mūšyje Lietuvos kariuomenė šaudė į totorius per upę iš patrankų, šautuvų ir lankų.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-103469|Lietuvos pinigai]]: Vytautas pareikalavo, kad totoriai pripažintų jį tėvu, mokėtų duoklę ir kaldintų jo atvaizdą savo piniguose.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12316|Lietuvos pinigai]]: Totoriai turėjo atmušti Vytauto atvaizdą savo piniguose.
 - susijęs iš [[objektai/daiktai/Mietas.md#claim-t-80693|Mietas]]: Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.
@@ -938,7 +906,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/daiktai/Vytauto paminklai.md#claim-t-19615|Vytauto paminklai]]: Vytauto Didžiojo mirties 500-ųjų metinių minėjimo metu Lietuvoje jam buvo statomi paminklai.
 - susijęs iš [[objektai/daiktai/Vytauto paveikslas.md#claim-t-65005|Vytauto paveikslas]]: Vytauto paveikslas buvo nešiotas po Lietuvą, o šias apeigas lydėjo renginiai Lietuvos miestuose ir miesteliuose.
 - susijęs iš [[objektai/daiktai/Vytauto paveikslas.md#claim-t-65007|Vytauto paveikslas]]: Vytauto Didžiojo kulto kūrimo momentas: 1930 m. Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikščio paveikslas Vytauto Didžiojo karo muziejus, atidarytas 1935 m.
-- susijęs iš [[objektai/daiktai/Šautuvai.md#claim-t-186849|Šautuvai]]: Klecko mūšyje Lietuvos kariuomenė per upę šaudė į totorius iš patrankų, šautuvų ir lankų.
 - susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05239|Auksinė Orda]]: Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-187705|Auksinė Orda]]: Komentare Achmatas apibūdinamas kaip Aukso ordos chanas 1459–1481 m., Kazimiero Jogailaičio sąjungininkas ir 1480 m. žygio prie Ugros dalyvis.
@@ -1020,16 +987,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.).md#claim-t-41287|Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]: 1506 m. vasarą totoriai įsiveržė į LDK valdas ir gegužės pabaigoje pradėjo žygį į valstybės gilumą.
 - susijęs iš [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.).md#claim-t-184339|Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]: Kulikovo laimėjimas sujudino Lietuvai priklausančią Rusią.
 - susijęs iš [[objektai/ivykiai/Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.).md#claim-t-28834|Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.)]]: 1351 m. Kęstutis, sudarydamas taiką su Vengrijos karaliumi Liudviku Anžu, sutiko priimti krikštą su broliais ir valdiniais.
-- susijęs iš [[objektai/ivykiai/Lietuvių žygis į Sembą Prūsijoje.md#claim-t-185814|Lietuvių žygis į Sembą Prūsijoje]]: Į Sembą įsiveržusi aštuonių tūkstančių lietuvių raitija nusiaubė kaimus, išžudė jų gyventojus ir išsivarė grobį.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia).md#claim-t-62866|Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)]]: Gedimino Lietuva 1323 m. pabaigoje arba 1324 m. pradžioje, matyt, susitarusi su Vladislovu Lokietka, užėmė Bresto žemę.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas.md#claim-t-35857|Livonijos ordino 10 metų sutarties su Pskovu sudarymas (sutartis)]]: Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, kuri buvo nukreipta prieš Vytautą.
 - susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10253|Mėlynųjų Vandenų mūšis (1362 m.)]]: Algirdo pajėgų pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.
-- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186694|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Žinia apie Algirdo pergalę prieš totorius ties Mėlynaisiais Vandenimis 1971 m. komentare laikoma apskritai patikima, nors dėl datos nesutariama.
-- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186696|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Mėlynųjų Vandenų mūšis 1971 m. komentare datuojamas kaip ginčytinas: dauguma istorikų jį skiria 1352–1362 m., kai kurie – XIV a. pabaigai.
+- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186694|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: 1971 m. komentare žinia, kad Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, laikoma apskritai patikima, nors data ginčijama.
+- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186696|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: 1971 m. komentare Mėlynųjų Vandenų mūšio data laikoma ginčytina: dauguma istorikų jį datuoja 1352–1362 m., kai kurie – XIV a. pabaiga.
 - susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66813|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: Pabaisko mūšyje Švitrigailos ir Ordino kariuomenė palūžo ir bėgo, o daug žmonių pateko į nelaisvę.
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.).md#claim-t-35874|Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]: 1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes iki Deimės ir Alės upių, Žiemgalius ir Kuršius.
-- susijęs iš [[objektai/ivykiai/Podolės patekimas lietuvių Karijotaičių valdžion.md#claim-t-186697|Podolės patekimas lietuvių Karijotaičių valdžion]]: Podolės patekimas lietuvių Karijotaičių valdžion 1971 m. komentare pateikiamas kaip nedatuojamas vieningai: minimi 1349, 1350–1351 ir 1362 m.
-- susijęs iš [[objektai/ivykiai/Podolės patekimas lietuvių Karijotaičių valdžion.md#claim-t-186699|Podolės patekimas lietuvių Karijotaičių valdžion]]: Redakcinė pastaba teigia, kad Podolės patekimo lietuvių Karijotaičių valdžion data istoriografijoje nėra vieningai nustatyta.
 - susijęs iš [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris).md#claim-t-184341|Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]: 1381 m. pavasarį Andriaus partija Polocke sukėlė atvirą maištą prieš Jogailos paskirtą Skirgailą.
 - susijęs iš [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.).md#claim-t-78637|Prostkų mūšis (1656 m. spalio 8 d.)]]: Prostkų mūšyje pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė brandenburgiečius, o Boguslavas Radvila pateko į nelaisvę.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187488|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraščio pasakojime Skirmantas liepė sužaloti Balaklajaus pasiuntinius, o kitais metais chanas patraukė į Rusų žemę.
@@ -1095,7 +1059,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Dauguva: Lietuvos kariuomenės sparnas turėjo nustumti švedus nuo Dauguvos kranto ir nublokšti juos į šiaurėje esantį pelkėtą mišką.
 - susijęs iš Didysis Naugardas: Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis bei turtingesnėmis gyvenvietėmis.
 - susijęs iš Didysis Naugardukas: Įvade nurodoma, kad Bychovco kronikoje iškeliamas Vytauto pranašumas prieš Vasilijų, Pskovą ir Didįjį Naugarduką.
-- susijęs iš Didysis Naugardukas: Įvade Didysis Naugardukas minimas tarp feodalinių respublikų, aptariant LDK santykius su Rusų valstybe.
 - susijęs iš Dniepras: Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link.
 - susijęs iš Dniepras: Po 1362 m. Mėlynųjų Vandenų mūšio Algirdas laimėjo ir Dniepro žemupį.
 - susijęs iš Dniepras: Rugpjūčio pradžioje kariuomenė persikėlė per Dnieprą ir jo kairiuoju krantu patraukė į stepes prie Vorsklos.
@@ -1120,16 +1083,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Kamenecas: Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis.
 - susijęs iš Karaliaučius: 1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.
 - susijęs iš Kijevas: Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
-- susijęs iš Kijevas: 1300 m. visos Rusios metropolitas perkėlė sostinę iš totorių puolimų grėsmėje buvusio Kijevo į Vladimirą.
-- susijęs iš Kijevas: Kijevo kunigaikštystė buvo įjungta į Lietuvos valstybę drauge su Podole.
 - susijęs iš Kijevas: 1414–1416 metais Edygos vadovaujami totoriai smarkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
-- susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę.
-- susijęs iš Kijevas: 1300 m. visos Rusios metropolitas perkėlė sostinę iš nuolatinių totorių puolimų grėsmėje buvusio Kijevo į šiaurinės Rusios Vladimirą.
-- susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.
 - susijęs iš Kijevas: Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.
 - susijęs iš Kijevas: Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.
 - susijęs iš Kijevas: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos.
-- susijęs iš Kijevas: 1300 m. visos Rusios metropolitas perkėlė savo sostinę iš totorių puolimų grėsmėje buvusio Kijevo į Vladimirą.
 - susijęs iš Kijevas: Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią.
 - susijęs iš Kijevo Rusia: Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.
 - susijęs iš Kijevo Rusia: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas perėjo Algirdui.
@@ -1138,11 +1095,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Kinija: Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
 - susijęs iš Klaipėda: Jogailos ir Vytauto atstovai teigė, kad kryžiuočiai buvo užėmę Žemaičių žemėje pastatytą Klaipėdos pilį.
 - susijęs iš Kleckas: Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu.
-- susijęs iš Kleckas: Krymo totoriai apie liepos 20-22 d. apsistojo ties Klecku ir pradėjo grobti žmones bei turtą.
 - susijęs iš Konstancija: Vytautas grasino Livonijos ordiną apskųsti Konstancijos susirinkimui dėl jo sutarties su Pskovu prieš Vytautą.
 - susijęs iš Korševas: 1363 m. Lietuva paėmė Korševą, miestą prie Sosnos upės, dešiniojo Dono intako.
 - susijęs iš Krimas: Auksinei Ordai suskilus, Krime atsirado Perekopo chanatas, kurio sostinės pilis vadinosi Perekopu.
-- susijęs iš Krėva: Į Lietuvą įsiveržusi totorių kariuomenė užėmė Krėvą, Lydą, Vilnių, Trakus ir kitas vietoves bei priartėjo prie Kauno.
 - susijęs iš Kuršas: Žemaičiai puolė Kuršą ir niokojo jį 19 dienų.
 - susijęs iš Kłeckas: Mikalojus Radvila apie 1514 m. pergalės prieš totorius ties Kłecku atminimui prie Vilijos pastatė Šv. Jurgio bažnyčią.
 - susijęs iš Lenkija: Totoriai nuniokojo Vengriją ir Lenkiją.
@@ -1167,7 +1122,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Perekopas: Krime susikūrė Perekopo chanatas, kurio sostinės pilis buvo vadinama Perekopu.
 - susijęs iš Perekopas: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
 - susijęs iš Perekopas: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
-- susijęs iš Petrikovičiai: Lietuviai gaudė bėgančius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį.
 - susijęs iš Pilypavas: 1656 m. spalio 22 d. ties Pilypavu švedai ir brandenburgiečiai pasivijo lietuvius ir juos sumušė.
 - susijęs iš Pinskas: Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.
 - susijęs iš Pinskas: Apie liepos 20–22 d. totoriai pasirinko stovyklą prie Klecko, nes miestas stovėjo ant kelių į Pinską, Vilnių, Nesvyžių ir Slucką.
@@ -1178,14 +1132,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Podolė: Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas pilis Podolėje.
 - susijęs iš Polockas: 1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.
 - susijęs iš Polockas: Totorių žygis niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
-- susijęs iš Polockas: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
-- susijęs iš Polockas: Po Voinos mirties Gediminas Polocke pasodino Narimantą, nors Voina buvo palikęs įpėdinių.
-- susijęs iš Polockas: Po Voinos mirties Gediminas Polocke pasodino Narimantą, nors Voina buvo palikęs įpėdinių.
 - susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo grąžinti Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
 - susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo, kad Vokiečių Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
 - susijęs iš Pskovas: Pskovas ir Didysis Naugardas anksčiau už Vilnių virto tankiai gyvenamomis ir turtingomis prekybinėmis gyvenvietėmis.
-- susijęs iš Pskovas: Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
-- susijęs iš Pskovas: Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
 - susijęs iš Riazanė: Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė.
 - susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
 - susijęs iš Riazanė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.
@@ -1200,7 +1149,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Sirija: Kronikoje atpasakotoje kryžiaus žygių istorijoje aprašyti totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis.
 - susijęs iš Sirija: Dusburgo kronikoje aprašomi totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis.
 - susijęs iš Sirija: Petras iš Dusburgo kryžiaus žygių istorijoje aprašė totorių ir mongolų žygius prieš Siriją bei kitas musulmoniškąsias šalis.
-- susijęs iš Sluckas: Lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį.
 - susijęs iš Sluckas: Totorių žygis pasiekė Slucko apylinkes, kurios priklausė tankiai apgyventam ir turtingam LDK branduoliui.
 - susijęs iš Sluckas: 1506 m. vasarą totoriai veržėsi į LDK branduolį, apėmusį ir Slucko apylinkes.
 - susijęs iš Sluckas: 1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.
@@ -1209,8 +1157,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Smolenskas: Jaunutis po pabėgimo ieškojo prieglobsčio Smolenske.
 - susijęs iš Smotričius: XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo mirties 1375 m. - Aleksandrui Karijotaičiui.
 - susijęs iš Smotričius: Smotričius yra sena Podolės gyvenvietė, minima jau XII a.
-- susijęs iš Smotričė: Smotričė yra kairysis Dnestro intakas.
-- susijęs iš Solchatas: Solchatas, dar vadintas Senuoju Krymu, lokalizuojamas prie Kafos, dabartinės Feodosijos.
 - susijęs iš Solchatas: Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, dar vadintas Senuoju Krymu, prie Kafos.
 - susijęs iš Solchatas: Sirinų valdos buvo apie Krymo sostinę Solchatą, dar vadinamą Senuoju Krymu.
 - susijęs iš Stralsundas: Vytauto laikais Lietuvos prekyba vakaruose siekė Stralsundą.
@@ -1219,9 +1165,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai.
 - susijęs iš Trakai: Apie 1432 m. rugpjūčio 28 d. Žygimantas užėmė Vilnių ir Trakus.
 - susijęs iš Trakai: Žygimantas po nesėkmingo įsiveržimo į Švitrigailos dvarą tuojau užėmė Vilnių ir Trakus.
-- susijęs iš Trakai: Po 1397 m. žygio Vytautas totorių belaisvius ir pabėgėlius įkurdino Trakų kunigaikštijoje.
 - susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.
-- susijęs iš Trakai: Po 1397 m. žygio Vytautas totorių belaisvius ir pabėgėlius įkurdino Trakų kunigaikštijoje.
 - susijęs iš Tverė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.
 - susijęs iš Tverė: 1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.
 - susijęs iš Valkininkai: 1700 m. lapkričio 19–24 d. Valkininkuose vykęs respublikonų bajorijos suvažiavimas priėmė Valkininkų nutarimą ir įkūrė LDK bajorijos generalinę konfederaciją.
@@ -1230,20 +1174,11 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Vengrija: Joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų).
 - susijęs iš Vidurio Rytų Europa: LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavimo ar juridinio įforminimo sparta.
 - susijęs iš Vilniaus pilis: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
-- susijęs iš Vilniaus vaivadija: Nuo 1502 m. Krymo totoriai persimetė į šiaurę nuo Pripetės pelkių ir pasiekdavo Vilniaus vaivadiją.
-- susijęs iš Vilniaus vaivadija: Nuo 1502 m. Krymo totoriai persimetė į šiaurę nuo Pripetės pelkių ir pasiekdavo Vilniaus vaivadiją.
 - susijęs iš Vilnius: Jogaila 1387 m. pradžioje atvyko į Vilnių, pakeliui paėmęs Lietuvos kunigaikščių paklusnumo raštus.
-- susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
 - susijęs iš Vilnius: 1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
 - susijęs iš Vilnius: Vytautas tarpukario Lietuvoje įkūnijo tautinį ir politinį idealą, nes laikytas Lietuvos vaduotoju iš priklausomybės nuo lenkų ir palaidotas Vilniuje.
-- susijęs iš Vilnius: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats miestas perėjo Algirdui.
-- susijęs iš Vilnius: Žygimantas po nesėkmingo Švitrigailos persekiojimo Ašmenoje tučtuojau užėmė Vilnių ir Trakus.
-- susijęs iš Vilnius: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas, kaip ir pats Vilnius, perėjo Algirdui.
 - susijęs iš Vilnius: 1503 m. Gardine Aleksandro privilegija nurodė Vilniuje statyti miesto gynybinę mūro sieną.
 - susijęs iš Vilnius: Sapiegų etmonas, pamatęs supamą kariuomenę ir respublikonų užimtą gurguolę, nusprendė trauktis į Vilnių.
-- susijęs iš Vilnius: 1506 m. totoriams nusitaikius į Vilnių, miestiečiai apjuosė miestą mūro pylimu.
-- susijęs iš Vilnius: Po Vytauto mirties Švitrigaila atvyko į Vilnių anksčiau, negu mirė valdovas.
-- susijęs iš Vilnius: Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.
 - susijęs iš Vitebskas: Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
 - susijęs iš Vitebskas: 1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
 - susijęs iš Viznos apylinkės: Kai Livonijos magistras buvo prie Vilniaus, lietuviai pietvakariuose atakavo kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo.
@@ -1269,13 +1204,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21976|Bajorų respublika liberum veto]]: Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę.
 - susijęs iš [[objektai/zodynas/Mahometoniškas tikėjimas.md#claim-t-32754|Mahometoniškas tikėjimas]]: Vytauto privilegijas gavę Lietuvos totoriai išlaikė mahometonišką tikėjimą ir papročius.
 - susijęs iš [[objektai/zodynas/Metropolija ir metropolitas.md#claim-t-32755|Metropolija ir metropolitas]]: Algirdas dėjo pastangų savo valstybės ribose turėti arkivyskupo metropolito sostą graikų tikėjimo gyventojams.
-- susijęs iš [[objektai/zodynas/algininkai.md#claim-t-187517|algininkai]]: Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė dvarionis ir nemaža vengrų algininkų.
 - susijęs iš [[objektai/zodynas/apsimestinis bėgimas.md#claim-t-32759|apsimestinis bėgimas]]: Dlugošo kronikoje lietuvių pasitraukimas aiškintas kaip bėgimas.
 - susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78879|baskakas]]: 1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.
 - susijęs iš [[objektai/zodynas/cesija ir decesija.md#claim-t-86585|cesija ir decesija]]: Cesijos ar decesijos būdu dominijos nuosavybę įgiję žmonės turėjo prisiimti ankstesnių savininkų mokėtas duokles.
-- susijęs iš [[objektai/zodynas/chanaičiai.md#claim-t-187549|chanaičiai]]: Didikai Naugarduke pasiuntė sučiupti belaisvio, kad sužinotų, kur buvo chanaičių kariuomenės stovykla.
 - susijęs iš [[objektai/zodynas/chanas.md#claim-t-78883|chanas]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
-- susijęs iš [[objektai/zodynas/dvarionis.md#claim-t-187548|dvarionis]]: Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė savo dvarionis lietuvius ir rusus.
 - susijęs iš [[objektai/zodynas/dvarionys.md#claim-t-187554|dvarionys]]: Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui.
 - susijęs iš [[objektai/zodynas/emyras.md#claim-t-183709|emyras]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
 - susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-113628|gurguolė]]: Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu.
@@ -1296,12 +1228,12 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/zodynas/kryžiaus karas.md#claim-t-05440|kryžiaus karas]]: 1254 m. pradžioje buvo skelbiamas kryžiaus karas ordinui ginti prieš totorius.
 - susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-191967|Ostapas Kropotkovas]]: Ostapui Kropotkovui, kaip nurodė Narbutas, 1354 m. rugpjūčio 7 d. Vilniuje už nuopelnus kare su totoriais duotas herbas ir Podbužo dvaras Voluinėje.
 - susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
-- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195009|Šich Achmetas]]: Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos chanas.
+- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195009|Šich Achmetas]]: Šich Achmetas buvo Achmato sūnus ir paskutinis Aukso ordos chanas.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185492|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Žeimelės mūšyje Gedimino kariuomenės priekyje stovėję totoriai puslankiu išsisklaidė ir išvengė kryžiuočių ietininkų antpuolio.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-10230|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Bychoveco kronikoje Klecko pergalė siejama su krikščionių kovos prieš kitatikius motyvais ir Dievo gailestingumu LDK.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195016|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Kunigaikštis Mykolas Glinskis ir Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už Cepros, paėmė arba nukovė daugybą totorių, sugrįžo į kariuomenės stovyklą prie Klecko, vesdamiesi su sa vimi daug.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195016|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis vaizduoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė prie Cepros paėmė arba nukovė daugybę totorių.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195017|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto.
-- susijęs iš [[objektai/posakiai/„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“.md#claim-t-195033|„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“]]: Šeši tūkstančiai devyni šimtai šeštaisiais1 7 metais įvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto ir chano Temir-Kutlujaus Didysis kunigaikštis Vy tautas sutelkė nesuskaičiuojamą daugybę kariuomenės, jo pusėje buvo chanas Tochtamyšas su savo kariuome.
+- susijęs iš [[objektai/posakiai/„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“.md#claim-t-195033|„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“]]: Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prieš Temir-Kutlujų žadėjo pasodinti Tochtamyšą į chanų sostą.
 - susijęs iš Vilniaus pilys: 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
 - susijęs iš Vorskla: Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
 - susijęs iš Vorskla: Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
@@ -1312,134 +1244,11 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/zodynas/ulonas.md#claim-t-38783|ulonas]]: Algirdo pajėgų spaudimo neatlaikę totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186642|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę.
 - susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-190235|Ostapas Kropotkovas]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
-- susijęs iš Ovručas: Lietuvos metraštis pasakoja, kad lietuviai Ovručo ir kitais keliais gaudė bėgančius totorius, juos žudė ir atiminėjo grobį.
 - susijęs iš [[objektai/zodynas/saar.md#claim-t-70316|saar]]: Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05238|Auksinė Orda]]: Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė.
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.).md#claim-t-66816|Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]: 1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Ordinas grąžintų žemes iki Deimės ir Alės upių ir keltųsi kovoti su totoriais.
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.).md#claim-t-35874|Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]: 1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes iki Deimės ir Alės upių, Žiemgalius ir Kuršius.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytauto laikais totorių valstybė išgyveno krizę: Orda buvo suskilusi, o atskiri saarai nuolat kariavo.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Rytų Europos pietuose Vytauto laikais turėjo didelę galybę
-    totoriai, kurie kadaise buvo užkariavę veik visus didžiulius ru­
-    sų gyvenamus plotus ir pasidarę jų suverenais. Daugelis rusų
-    kunigaikščių tebemokėjo jiems duoklę dar ir Vytauto laikais.
-    Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi,
-    puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
-    laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
-    suskilusi, atskiri „saarai“ vedė nuolatinius karus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-028
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­
-    jant Vorsklos nugalėtojui Edygai, 1414—1416 m. laikotarpyje
-    dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriauda­
-    mi patį Kijevą ir Lucką. Cemblakas iš savo sostinės turėjo per­
-    sikelti į Vilnių, o Vytautas, užimtas tada karu su Vok. Ordinu
-    (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
-    totorių sudrausti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-043
-
-- c-003
-  santrauka: 'Užimdamas naujus rusų kraštus, Vytautas priartėjo prie totorių sienų ir tai vedė prie karo su totoriais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taip Algirdas, pasinaudojęs chanų
-    vaidais, atėmė iš jų Kijevą ir Podoliją. Vytautas irgi, užimda­
-    mas vis naujus rusų kraštus, dar labiau prisiartino prie totorių
-    sienų, kas jiems negalėjo patikti, ir vedė prie karo. Dabar ir
-    reikėjo išspręsti jau senokai pribrendusi klausimą, kas valdys
-    Rusijos žemes: Vytautas ar totoriai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-023
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
-    jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
-    totoriais pasidarė jau nebeišvengiamas. Jadvyga savo „wiesz­
-    czym duchem“ (pranašingu nujautimu), kaip sako Prochaska,
-    pranašavo ambicingam Vytautui didelių užsimojimų galą^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-037
-
-- c-005
-  santrauka: 'Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Totoriai, užvaldę lietuvių stovyklą, paėmė visas jų gur­
-    guoles ir turtus ir tuojau metėsi krašto terioti. Pasuko Kijevo
-    link, paėmė iš jo 3000 rublių kontribucijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-051
-
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Visi šie rūpesčiai reikalavo
-    taikos, o jos nebuvo matyti. Be Vok. Ordino trukdė dar
-    taikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,
-    vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
-    kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-011
-    - t-019
-
-- c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Geri santykiai su Jogaila ir lenkais, kova su Or­
-    dinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios
-    stiprinimas ir kultūros kėlimas krašto viduje — štai vedamo­
-    sios Vytauto politikos mintys.
-    Beveik visa ta programa pavyko jam įgyvendinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-044
-
 - c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1463,56 +1272,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindžia:
     - t-042
 
-- c-009
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Taigi, Lietuva siekė atgauti
-    Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą,
-    Latgalą, visą Baltijos pajūrį tarp Priegliaus
-    ir Dauguvos. Taip pat buvo pasiūlyta iškelti
-    kryžiuočius į rytų stepes ginti Europos
-    šalių nuo totorių. Šiuose Algirdo reikala-
-    vimuose atsispindi suvokimas, kad žemės,
-    kuriose gyvena vokiečių nukariauti baltai,
-
-    turi priklausyti vienintelei valstybingumą
-    sukūrusiai baltų tautai - lietuviams, ir
-    teisėtas siekis atremti Lietuvos valstybę į
-    Baltijos pakrantę, suvokimas, kad jūra yra
-    natūrali Lietuvos siena šiaurvakariuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-    - t-032
-
-- c-010
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Totorių kariuomenė
-
-    Strateginį privalumą totoriams laidavo jų
-    pagrindinės buveinės - Krymo pusiasalio
-    nuošalumas nuo stiprių galios centrų, tokių
-    kaip Lenkija, Lietuva ar Maskvos valstybė.
-    Nuo sėsliai gyvenančių visuomenių atskirti
-    plačių stepių ir turėdami „gerai užrakina-
-    mus Krymo vartus“ - įtvirtintą Perekopo
-    sąsmauką - totoriai turėjo sunkiai pasie-
-    kiamą lizdą, iš kurio, savo ruožtu, galėdavo
-    nesunkiai leistis į tolimus žygius. Taktinį
-    pranašumą sąlygojo jų lengvoji kavalerija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-026
-
 - c-011
   santrauka: 'Totorių raiteliai vesdavosi po tris atsarginius žirgus, todėl galėdavo judėti labai sparčiai ir pasiekti netikėtumo efektą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1532,52 +1291,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
-
-- c-012
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Totorių įsiveržimas
-
-    1506 m. vasarą totoriai įsiveržė į LDK valdas
-    gerai nusiteikę. Prieš metus įvykęs jų žygis
-    leido jiems „smagintis“ Vilniaus ir Polocko,
-    Vitebsko ir Drucko, Naugarduko ir Slucko
-    apylinkėse - tikrajame LDK branduolyje,
-    tankiausiai apgyventame ir turtingiausiame
-    krašte. Totoriai neturėjo pagrindo įtarti, kad
-    sėkmė nuo jų šį kartą nusisuks. Pats žygis
-
-    į LDK gilumą prasidėjo gegužės pabaigoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-046
-
-- c-013
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ties Lojevu jie
-    persikėlė į dešinįjį Dniepro krantą ir pa-
-    spartinę žygio tempą pasileido tiesiai va-
-    karų kryptimi Mozyriaus ir Slucko link.
-    Galiausiai apie liepos 20-22 d. jie sustojo.
-    Vietą savo stovyklavietei jie pasirinko prie
-    Klecko miesto, kuris dar 1503 m. buvo jų
-    sunaikintas ir nekėlė pavojaus, o stovėda-
-    mas ant kelių, vedančių į Pinską, Vilnių,
-    Nesvyžių ir Slucką, buvo itin geras punktas
-    išpuoliams, kuriuos totoriai vykdė pasi-
-    skirstę mažesniais būriais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
 
 - c-014
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1603,712 +1316,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
-
-- c-015
-  santrauka: 'Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tasai Andrius, Jogailai pavaldaus
-    Polocko kunigaikštis, Algirdo sū­
-    nus, gimęs iš antros jo santuokos su
-    Julijona, Vitebsko kunigaikštyte, ta­
-    čiau nebuvo palankus Jogailai, vei­
-    kiau linkęs į Kęstučio pusę; tad Jo­
-    gaila nusprendė jį išvyti iš jo dalinės
-    valdos. Dėl to sudarė slaptą, be
-    Kęstučio žinios, sutartį su Livoni­
-    jos magistru, kad anas padėtų jam
-    vykdyti tuos kėslus. Tuo metu, kai
-    Andrius, nuolatinis Dmitrijaus Do­
-    niškio bendražygis, karo rūpesčiais
-    dalinęsis, kovojęs su juo dar kartu
-    prieš totorius, kur Kulikovo lauke
-    (1380 metų rugsėjo 8-ą) prie perga­
-    lės daugiausia prisidėjęs, dalyvavo
-    mūšiuose, - Skirgaila užsibuvo Po-
-    34
-
-    ## Puslapis 51
-
-    I  KNYGA
-    Galiausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­
-    siryžo užbėgti jam už akių ir žinodamas, jog šis visas savo
-    ginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad
-    ten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų
-    rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
-    Vilnių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-035
-
-- c-016
-  santrauka: 'Didžiojoje Kunigaikštystėje gyvenę totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę ir kitas duokles dvasininkams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tarė­
-    jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
-    mums patiems, kadangi turime aukščiausią abiejų luomų
-    sienų tyrimo valdžią.
-    Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­
-    nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­
-    se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­
-    sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo
-    žmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­
-    kėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų
-    ir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos,
-    ir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime,
-    kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar
-    totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­
-    žįstančių valdinių cesijos ar decesijos būdu, sudarydami
-    kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,
-    401
-
-    ## Puslapis 418
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    nostram profitentibus acquirunt, eadem onera sustineant, in
-    possessionibus acquisitis vėl acquirendis, quae sustinuerunt
-    ii, a quibus eas acquisiverunt, aut acquisituri sunt.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-025
-
-- c-017
-  santrauka: 'Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
-
-       Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję
-    sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-047
-
-- c-018
-  santrauka: 'Vytautas Vilniuje ne kartą skelbdavo totorių kunigaikščius chanais arba carais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau Vilniaus vyskupas Petras tam
-    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
-    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
-    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
-    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
-    ti, ir kuris palaimino tą santuoką.
-    Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
-    su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
-    klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
-    dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
-    skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
-    daugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­
-    tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus
-    pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­
-    tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo
-    paklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu
-    paskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas
-    jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
-    73 nė Ona mirė Trakuose, o palaidota
-    Ona buvo Smolensko kunigaikščio buvo Vilniuje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-    - t-021
-
-- c-019
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytauto
-    didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios
-    kloties laikai. Tada Lietuvos sostinėje regėdavo kupranuga­
-    rius, dryžuotom gūniom apdangstytus, turtingomis dovano­
-    mis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas
-    Vytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo
-    totorių chanas Jedigėjus76. Valakijos kunigaikščiai jo globos sie­
-    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
-    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
-    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
-    Žygimantą Kaributaitį, savo sūnėną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-036
-
-- c-020
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Vengrijos ir Lenkijos nusiaubimą
-
-       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
-
-
-
-             23.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-045
-    - t-056
-    - t-066
-
-- c-021
-  santrauka: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    2.
-    62
-    Kaip seniau totoriai garsėjo santū­
-    rumu, svetingumu ir kitomis iš kar­
-    tų kartoms pereinančiomis dorybė­
-    mis, liudija Mykolas Lietuvis,
-    vienintelis autentiškų raštų apie sa­
-    vo tautos papročius autorius, kuris
-    bando (gal ir apsirinka) totorius ver­
-    tesniais už savo tėvynainius esant
-    pripažinti. Žr. retą jo kūrinėlį: Mi­
-    kalonis Lituani, de M oribus Tartarorum,
-    Lituanorum et M oschorum, Fragmina X,
-    multiplici historia referta etc. nunc pri-
-    M um per J. J a c.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-029
-    - t-052
-
-- c-022
-  santrauka: '1202 m. prasidėjo totorių viešpatavimas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie totorių viešpatavimo pradžią
-
-      1202 viešpaties metais prasidėjo totorių viešpatavimas (Ptol. loc. cit.; Mart. loc. cit.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
-- c-023
-  santrauka: 'Vilniuje ir jo apylinkėse įsikūrė nemaža į nelaisvę paimtų totorių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dalyvaujant garbingiems
-    ir narsiems vyrams Mingailai, Goš­
-    tautui; Vilniaus vaivadai Manvydui
-    bei mūsų dvaro maršalkoms Čupur-
-    vai ir Milonui bei daugeliui kitų, ver­
-    tų pasitikėjimo].
-    59
-    Vilniaus kapitulos archy­
-    vas, pažymėta data: in Lida die Do­
-    minico, quo in Ecclesia Dei, Cantate de­
-    cantatur [Lydoje, sekmadienį, kai
-    1 4 1
-
-    ## Puslapis 158
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    geradarybė, didinant mieste gyvenančių dvasininkų turtus,
-    nemažai prisidėta ir prie kitų miestiečių gerovės. Tuo me­
-    tu Vilnius daug laimėjo per gyventojų pagausėjimą, mat
-    tiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­
-    imtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai
-    bažnyčioje giedama Dei Cantate].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-024
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kai paskelbus dvylikos metų paliaubas tarp
-    karaliaus ir didžiojo magistro karo veiksmai Karalystėje vis
-    dėlto aprimo, apsilpo ir energingojo Švitrigailos jėgos Lie­
-    tuvoje. Naudodamasis visuotine neapykanta, kurią per sa­
-    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
-    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
-    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
-    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
-    kojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė
-    šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­
-    gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­
-    tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė
-    netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
-    pragaištingų konkurentų, varžybas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-022
-    - t-009
-
-- c-025
-  santrauka: 'Vytauto politikoje svarbi buvo kova rytuose su rusų kunigaikščiais ir totoriais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Atrodo,
-    kad pamažu susikristalizuoja lyg ir pagrindiniai jo veikimo pro­
-    gramos punktai. Jie duoda jo darbams tam tikro tvirtumo,
-    pastovumo. Geri santykiai su Jogaila ir lenkais, kova su Or­
-    dinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios
-    stiprinimas ir kultūros kėlimas krašto viduje — štai vedamo­
-    sios Vytauto politikos mintys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-033
-
-- c-026
-  santrauka: 'Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną ir Henriką, o tas šalis nuniokojo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
-                                  lio, ir Henriko, Vroclavo kunigaikščio, žūtį
-
-       Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
-    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
-    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
-    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-    - t-045
-
-- c-027
-  santrauka: 'Vytautas užmezgė draugiškus ryšius su totorių chanu ir susitarė dėl taikos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dar iš to paties
-    pasiuntinio turiu, jog (de Vörste) Vytautas su totorių chanu už­
-    mezgė draugiškus ryšius ir sutarė dėl taikos. Totorių didysis
-    chanas atsiuntė jam labai bičiulišką laišką ir kartu didžiulį žvė­
-    rį, kurį vadina dromedaru. Lai Dievas Jūsų Prakilnybei duoda
-    stiprybės ir sveikatos ilgiems metams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-050
-
-- c-028
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jų dau­
-    gybę su visomis šeimomis į šiuos
-    kraštus turėjo būti atkėlęs šaunus
-    pergalingas karys Vytautas; be jų pa­
-    grindinės gyvenvietės prie Vokės
-    upės, be tų, kurie įsikūrė mieste ir
-    kurie apsigyveno vietovėje, vadinto­
-    je Nemėžiu, per mylią nuo Vilniaus į
-    rytus, daug jų įsikūrė pavietuose:
-    Lydos, Ašmenos ir Naugarduko ir
-    iš tiesų nėra valdos, ypač pasakyti­
-    na tai apie Vilniaus, Trakų ir Nau­
-    garduko pavietus, kur iki šiolei ne­
-    būtų išlikę totorių buveinių pėdsakų
-    pavadinimuose: Totoriškės, Totorių
-    kapinės ir 1.1. Seniau totoriai vertėsi
-    audinių ir siūlų prekyba. Dabar Lie­
-    tuvos totoriai praturtėję, iš tiesų visi
-    tarnauja kariuomenėje, specialiuose
-    raitininkų, vadinamuosiuose totorių
-    ulonų pulkuose, kiti yra tarnautojai,
-    o vargingesni dirba pas privačius as­
-    menis arba turi menkus žemės plo­
-    telius, po tėvų mirties paveldėtus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-040
-
-- c-029
-  santrauka: 'Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
-    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
-    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
-    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
-    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
-    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
-    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-030
-
-- c-030
-  santrauka: 'Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau XVII–XVIII a. bent jau Vilnius
-    prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
-    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net
-    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
-    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
-    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
-    Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
-    tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-034
-
-- c-031
-  santrauka: 'Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, tapusiais artimosios sargybos tautomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Didieji kunigaikščiai, reikšdami teritorines
-    pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
-    mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
-    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
-    kurie tapo artimosios sargybos tautomis. Nepasitikėta ir savųjų įgūdžiais,
-    todėl valdovai kvietė pirklius ir amatininkus iš svetur.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-053
-
-- c-032
-  santrauka: 'Vytautas, tarpininkaujant Tochtamyšui, ketino nukariauti totorius ir perimti kovotojo su netikinčiais šlovę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dabar visa garbė ir
-    šlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­
-    čiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus
-    totorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą.
-    Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
-    jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
-    totoriais pasidarė jau nebeišvengiamas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-027
-
-- c-033
-  santrauka: 'Totoriai, įsigalėję Rusijoje, pradėjo tarpusavyje vaidytis, o Lietuva iš šių vaidų ne kartą pasipelnydavo.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet ir totoriai,
-    įsigalėję Rusijoj, taip pat ėmė tarp savęs vaidytis, kuo nekartą
-    Lietuva pasipelnydavo. Taip Algirdas, pasinaudojęs chanų
-    vaidais, atėmė iš jų Kijevą ir Podoliją. Vytautas irgi, užimda­
-    mas vis naujus rusų kraštus, dar labiau prisiartino prie totorių
-    sienų, kas jiems negalėjo patikti, ir vedė prie karo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-024
-
-- c-034
-  santrauka: '1326 m. Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
-
-      1326  viešpaties metais Vengrijos  karalius nukovė 30 tūkstančių  totorių,  kurių
-    kariuomenė siaubė jo karalystę.
-
-
-
-                    126.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-049
-
-- c-035
-  santrauka: '1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kaip in Mindaugni, Traidenini rūpesčių sudarė totoriai. Iš tu­
-    rimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.
-    Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,
-    1279 m. apiplėšė Lietuvą^256.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-036
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gana grėsmingai įsiliepsnojo pirmieji nesuta­
-    rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos
-    bus užtraukusi: mat parašė laišką Vytautui prašydama išmo-
-    miestų, kuriuos reikėtų saugoti.]* -
-    Šitas, nepalankus lietuvių atžvilgiu
-    palyginimas su totoriais gal persū­
-    dytas, tačiau negalima būtų nugin­
-    čyti, kad totoriai, Vytauto Lietuvoje
-    įkurdinti, net iki mūsų laikų garsūs
-    nepriekaištinga dora, narsa ir prie­
-    raišumu savo naujai tėvynei. Jų dau­
-    gybę su visomis šeimomis į šiuos
-    kraštus turėjo būti atkėlęs šaunus
-    pergalingas karys Vytautas; be jų pa­
-    grindinės gyvenvietės prie Vokės
-    upės, be tų, kurie įsikūrė mieste ir
-    kurie apsigyveno vietovėje, vadinto­
-    je Nemėžiu, per mylią nuo Vilniaus į
-    rytus, daug jų įsikūrė pavietuose:
-    Lydos, Ašmenos ir Naugarduko ir
-    iš tiesų nėra valdos, ypač pasakyti­
-    na tai apie Vilniaus, Trakų ir Nau­
-    garduko pavietus, kur iki šiolei ne­
-    būtų išlikę totorių buveinių pėdsakų
-    pavadinimuose: Totoriškės, Totorių
-    kapinės ir 1.1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-039
-    - t-002
-
-- c-037
-  santrauka: 'LDK turėjo totorių musulmonų bendruomenę, kurios iki unijos su Lenkija Lenkijoje nebuvo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK
-    kultūrinę įvairovę didino etninis aspektas: nors kai kurios konfesinės ir
-    etninės ribos sutapo (žydų, totorių, karaimų, iš dalies ir sentikių), dažnai
-    konfesijos apėmė įvairias etninės kilmės bendruomenes.
-
-    L I E T U V O S  I S T O R I J A
-    72
-    LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-
-    kė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui,
-    turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo). LDK, tu-
-    rinti dešimt skirtingų konfesijų, XVI a.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-038
-  santrauka: '1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Daug jų vyko
-    pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­
-    mų, veikusių iki Lietuvos Statuto, paskelbimu visai valsty­
-    bei36. Čia, Vilniuje (1443 metais), totorių pasiuntinių
-    prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­
-    tas Perekopo chanu. Čia 1448 metais su Prūsijos ordinu su­
-    daryta37 garsi sutartis, o po dvidešimties metų (1468 me­
-    tais) pats didžiojo magistro pavaduotojas Henrikas Plauenas
-    toje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise
-    įžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­
-    tą38.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-039
-  santrauka: 'Po apiplėšimų totoriai stengdavosi greitai pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija dažnai vėluodavo.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Iš kitos pusės, nesant masinės reguliarios
-    kariuomenės, bajorų pašauktinės kariuo-
-    menės mobilizacija galėdavo užtrukti tol,
-    kol jos jau nebereikėdavo, nes po apiplė-
-    šimo totoriai stengdavosi pasitraukti kuo
-    sparčiau. Būtent šios struktūrinės-orga-
-    nizacinės Lietuvos karinės organizacijos
-    silpnosios vietos leido totoriams dažnai
-
-    nebaudžiamiems plėšti LDK žemes xv a.
-    pabaigoje - xvi a. pradžioje. Tiesa, dar
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
-- c-040
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš tu­
-    rimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.
-    Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,
-    1279 m. apiplėšė Lietuvą^256.
-    Traidenio laikais Lietuva vėl atgavo savo ankstybesnį svorį,
-    kuris buvo sumažėjęs tuoj po Mindaugo mirties.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-048
-
-- c-041
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    72
-    LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-
-    kė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui,
-    turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo). LDK, tu-
-    rinti dešimt skirtingų konfesijų, XVI a. šiuo požiūriu yra lyderė, palyginti
-    su margiausiomis Europos šalimis – Lenkija ir Transilvanija. LDK išsi-
-    skiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-
-    mo ar juridinio įforminimo sparta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-041
-
-- c-042
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Dalis jų išvengė
-    žūties ir aplinkiniais keliais pasiekė Klecką.
-    Pagrindinėje stovyklavietėje buvę totoriai
-    jau tą pačią dieną - rugpjūčio ketvirtąją -
-    sužinojo apie link jų judančią Lietuvos ka-
-    riuomenę. Totoriai nusprendė laukti savo
-
-    78 KLECKO MŪŠIS 1506 m. rugpjūčio 6 d.
-
-    priešų vietoje, nes jie nebuvo nusiteikę bėgti
-    pametę grobį, kuriam „surinkti“ prireikė ke-
-    leto mėnesių darbo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-031
-
-- c-043
-  santrauka: 'Žalgirio pergalė dar nepasiekta ideologiškai – Vakaruose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes jie nugalėjo pasitelkę pagonis, totorius musulmonus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau vėliau
-    jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
-    Užnemunę.
-    Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu
-    priežastis – Žemaitija. Žalgirio pergalė dar nepasiekta ideologiškai – Va-
-    karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
-    jie nugalėjo pasitelkę pagonis, totorius musulmonus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-054
-    - t-038
-
-- c-044
-  santrauka: 'Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Visa tai liudytų, kad Kryžiuočių or-
-    dino ir Švedijos puolimai vienu metu
-    galėjo būti iš anksto suderinti.
-
-    Lietuva tuo metu turėjo keturis pagrin-
-    dinius priešus: Prūsijos-Livonijos vokie-
-    čių ordiną, Maskvą, totorius ir Lenkiją.
-    Silpnindami priešišką spaudimą vienuose
-    frontuose, Lietuvos valdovai Algirdas ir
-    Kęstutis kurį laiką laviravo santykiuose su
-    Lenkija ir totoriais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-055
 
 - c-045
   santrauka: 'Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos.'
@@ -2357,38 +1364,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindžia:
     - t-058
 
-- c-047
-  santrauka: 'Vytautas į karą su Prūsijos vokiečiais sutelkė Lietuvos ir Rusios pajėgas bei daug Ordos totorių.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    APIE JOGAILOS IR VYTAUTO KARĄ SU PROSUOS
-    VOKIEČIAIS IR APIE JŲ NUGALĖJIMĄ MOSYJE PRIE
-    DUBROVNOS
-    Sesi tūkstančiai devyni šimtai dvidešimt pirmaisiais
-    metais nuo pasaulio sutvėrimo, o nuo dievo gimimo
-    tūkstantis keturi šimtai dvyliktaisiais metais 1  prasidė­
-    jo Lenkijos karaliaus Vladislovo Jogailos ir jo brolio
-    Lietuvos kunigaikščio Vytauto karas su Prūsijos vo­
-    kiečiais.
-    Ir sutelkė abi pusės didžiulę kariuomenę: karalius
-    Jogaila su visa Lenkų karalystės jėga, o didysis kuni­
-    gaikštis Vytautas su visomis Lietuvių ir Rusų pajėgo­
-    mis ir su daugeliu Ordos totorių, o Prūsijos magistras
-    taip pat su savo pajėgomis ir su visa Vokiečių imperija.
-    Ir kai visa abiejų pusių kariuomenė jau buvo pasi­
-    ruošusi, karalius Jogaila ir didysis kunigaikštis Vytau­
-    tas išžygiavo j mūšį, vis blogais miškų keliais, o lygaus
-    ir plataus lauko, kur būtų galima sustoti ir pradėti
-    mūšį, negalėjo surasti, nes lygių ir didelių laukų buvo
-    tik prie vokiečių miesto Dubrovnos*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-059
-
 - c-048
   santrauka: 'Prie Klecko už Lanės upės stovėjo mūšiui pasirengę totorių pulkai.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -2411,191 +1386,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindžia:
     - t-060
 
-- c-049
-  santrauka: 'Totoriai puolė per upę besikeliančių lietuvių dešinįjį sparną ir nukovė daug jo karių.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
-    gė per upę. Dešiniojo sparno kariuomenė paskubėjusi
-    pirmoji įveikė perėją ir atsidūrė už upės. Totoriai ma­
-    tė, kad lietuviai ne visi kartu keliasi per upę, patys
-    narsiausieji iš jų tarpo puolė lietuvius ir daugelį iš to
-    dešiniojo sparno nukovė ir vos jų nesumušė. O tada
-    kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir,
-    perėjęs per upę, smogė visiems totorių pulkams ir per­
-    skėlė juos į dvi dalis. Tada atsigavo ir tie mūsų deši­
-    niojo sparno žmonės ir taip pat smogė jiems, ir iš abie­
-    jų pusių taip sumaišė totorių pulkus, kad totoriai ne­
-    tik kautis nebegalėjo, bet ir akių bei rankų nebedrįso
-    prieš Lietuvos kariuomenę pakelti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-061
-
-- c-050
-  santrauka: 'Narbutas rašo, kad totorių puldinėjimai tuo metu palietė Lenkiją ir Polesę nuo Bugo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ypatingoji šitą vie­
-    nuolių durna visuomet diegė panieką kunigaikščiams ir
-    ponams, kurie nepriklausė vokiečių tautai, todėl jų kai­
-    mynai niekada nebuvo ištikimi bičiuliai. Šiuo laiku vėl
-    ima puldinėti totoriai; tai palietė Lenkiją ir ¡gal Polesę
-    nuo Bugo, be to, didėjanti Lietuvos galybė, žemaičių re­
-    miamų prūsų maištingumas, neramumai Kurše ir prie
-    Uždauguvės Latvijos, stebinantis žemaičių vadų karin­
-    gumas, pagaliau Vokietijoje didėjęs nepalankumas kry­
-    žiaus karams vertė susimąstyti apie ateitį kryžiuočių, ku­
-    riuos Prūsijoje valdyti pradėjo Hartnumdas Grumbachas.
-    1 Iš Foigto tyrinėjimų (Gesch.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-062
-
-- c-051
-  santrauka: 'Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Per
-    ją ėjo prekyba su visais Lietuvai priklausiusiais ir dar nepriklau-
-    siusiais Dauguvos ir Dniepro upyno miestais. Per ją ėjo vienin-
-    telis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams,
-    prekyba su pietiniais kraštais visai nutrūko. Dabar, padarius
-    sąjungą su Rygos miestu, kelias Lietuvos prekybai buvo atviras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-063
-
-- c-052
-  santrauka: 'Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Rusijos žemės tada buvo labai palaidos.
-    Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštys-
-    čių, todėl nesunku buvo jas paimti į savo valdžią. Užtat
-    Lietuvos kunigaikščiai taip toli nužygiuodavo į Rusijos gilumą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-064
-
-- c-053
-  santrauka: 'Tuo pačiu metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    154
-
-    ## Puslapis 150
-
-    Didysis kunigaikštis Aleksandras išstovėjo Braclave
-    nemaža laiko ir atstatė Braclavo miestą; visi žmonės,
-    kurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo
-    į Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo
-    Braclavo, lietuviai sumušė kelis šimtus totorių. O pas­
-    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
-    vą 3 9 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-065
-
 ## Citatos
-
-- id: c-14992
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Rytų Europos pietuose Vytauto laikais turėjo didelę galybę
-    totoriai, kurie kadaise buvo užkariavę veik visus didžiulius ru­
-    sų gyvenamus plotus ir pasidarę jų suverenais. Daugelis rusų
-    kunigaikščių tebemokėjo jiems duoklę dar ir Vytauto laikais.
-    Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi,
-    puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
-    laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
-    suskilusi, atskiri „saarai“ vedė nuolatinius karus.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-171422
-
-- id: c-21433
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­
-    jant Vorsklos nugalėtojui Edygai, 1414—1416 m. laikotarpyje
-    dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriauda­
-    mi patį Kijevą ir Lucką. Cemblakas iš savo sostinės turėjo per­
-    sikelti į Vilnių, o Vytautas, užimtas tada karu su Vok. Ordinu
-    (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
-    totorių sudrausti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-171437
-
-- id: c-36948
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Taip Algirdas, pasinaudojęs chanų
-    vaidais, atėmė iš jų Kijevą ir Podoliją. Vytautas irgi, užimda­
-    mas vis naujus rusų kraštus, dar labiau prisiartino prie totorių
-    sienų, kas jiems negalėjo patikti, ir vedė prie karo. Dabar ir
-    reikėjo išspręsti jau senokai pribrendusi klausimą, kas valdys
-    Rusijos žemes: Vytautas ar totoriai.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-171416
-
-- id: c-36949
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
-    jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
-    totoriais pasidarė jau nebeišvengiamas. Jadvyga savo „wiesz­
-    czym duchem“ (pranašingu nujautimu), kaip sako Prochaska,
-    pranašavo ambicingam Vytautui didelių užsimojimų galą^2 ).
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-171431
 
 - id: c-36950
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2630,79 +1421,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171396
     - t-171404
     - t-171412
-
-- id: c-36953
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Geri santykiai su Jogaila ir lenkais, kova su Or­
-    dinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios
-    stiprinimas ir kultūros kėlimas krašto viduje — štai vedamo­
-    sios Vytauto politikos mintys.
-    Beveik visa ta programa pavyko jam įgyvendinti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-171438
-
-- id: c-42951
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
-  citata_originali: |
-    Lietuva tuo metu turėjo keturis pagrin-
-    dinius priešus: Prūsijos-Livonijos vokie-
-    čių ordiną, Maskvą, totorius ir Lenkiją.
-    Silpnindami priešišką spaudimą vienuose
-    frontuose, Lietuvos valdovai Algirdas ir
-    Kęstutis kurį laiką laviravo santykiuose su
-    Lenkija ir totoriais.
-
-    Taigi Strėvos mūšis, kad ir patyrus nuos-
-    tolių, įnešė savo indėlį atremiant galingą
-    Ordino spaudimą plataus Lietuvos gyny-
-    binio karo sąlygomis.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-171436
-
-- id: c-42952
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
-  citata_originali: |
-    Taigi, Lietuva siekė atgauti
-    Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą,
-    Latgalą, visą Baltijos pajūrį tarp Priegliaus
-    ir Dauguvos. Taip pat buvo pasiūlyta iškelti
-    kryžiuočius į rytų stepes ginti Europos
-    šalių nuo totorių. Šiuose Algirdo reikala-
-    vimuose atsispindi suvokimas, kad žemės,
-    kuriose gyvena vokiečių nukariauti baltai,
-
-    turi priklausyti vienintelei valstybingumą
-    sukūrusiai baltų tautai - lietuviams, ir
-    teisėtas siekis atremti Lietuvos valstybę į
-    Baltijos pakrantę, suvokimas, kad jūra yra
-    natūrali Lietuvos siena šiaurvakariuose.
-  citata_rodoma: "Taip pat buvo pasiūlyta iškelti\nkryžiuočius į rytų stepes ginti Europos\nšalių nuo totorių. Šiuose Algirdo reikala-\nvimuose atsispindi suvokimas, kad žemės,\nkuriose gyvena vokiečių nukariauti baltai,\n\nturi priklausyti vienintelei valstybingumą\nsukūrusiai baltų tautai - lietuviams, ir\nteisėtas siekis atremti Lietuvos valstybę į\nBaltijos pakrantę, suvokimas, kad jūra yra\nnatūrali Lietuvos siena šiaurvakariuose."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-171409
-    - t-171426
 
 - id: c-42953
   sudarytojas: "Karolis Zikaras"
@@ -2727,27 +1447,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171420
-
-- id: c-42954
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
-  citata_originali: |
-    Kiekvienas raitelis su savimi vesdavosi po
-    tris atsarginius žirgus, kuriuos keičiant
-    totorių raiteliai galėdavo judėti taip spar-
-    čiai, jog anaiptol ne visada žinia apie toto-
-    rių reidą galėdavo užbėgti jiems už akių.
-    Totoriams tai leisdavo pasiekti netikėtumo
-    efektą. Laiku neįspėtas kraštas tapdavo
-    lengvu grobikų „eksploatacijos“ objektu.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-171413
+    - t-199086
 
 - id: c-42956
   sudarytojas: "Karolis Zikaras"
@@ -2771,7 +1471,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171440
+    - t-199093
 
 - id: c-42958
   sudarytojas: "Karolis Zikaras"
@@ -2795,33 +1495,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171401
-
-- id: c-42960
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
-  citata_originali: |
-    Artėdama
-    Klecko link nuo Pinsko pusės LDK kariuo-
-    menė išėjo ant aukštumos, nuo kurios
-
-    buvo matyti Kleckas ir jo kaimynystėje tarp
-    Lanios ir Cepros upių išsirikiavusi totorių
-
-    kariuomenė. Totoriai buvo neblogai įsi-
-    tvirtinę: Lanios upės krantai buvo pelkėti,
-    jiems už nugaros plytėjo 200 m pločio ir
-    10 m gylio griova. Apsupti totorius tokioje
-    pozicijoje būtų buvę labai sudėtinga, antra
-    vertus, vietos kompaktiškumas ir jiems pa-
-    tiems neleido laisvai manevruoti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-171403
+    - t-199117
 
 - id: c-155948
   autorius: "Michał Baliński"
@@ -2982,23 +1656,22 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - id: c-155956
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 228"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 228."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
-    Apie Vengrijos ir Lenkijos nusiaubimą
-
-       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
-
-
-
-             23.
+    Aukščiausiojo ten įkvėptas, su keliais iš savo šeimynos jis kreipėsi į jo šventenybę
+    popiežių, kuriam ir išpažino visas savo nuodėmes. Popiežius jam paliepė užsivilkti Teutonų
+    namų ordino vienuolio apsiaustą. Grįždamas po to namo, jis atsisakė jam į žmonas
+    pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo,
+    papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos
+    dievui bei jam įstotų į šį ordiną.
+  citata_rodoma: "Apie Vengrijos ir Lenkijos nusiaubimą\n\n   Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).\n\n\n\n         23."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171439
-    - t-183905
     - t-194371
 
 - id: c-155957
@@ -3106,8 +1779,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171415
     - t-171402
+    - t-171415
 
 - id: c-155964
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3133,16 +1806,21 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - id: c-155965
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 229"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
-    27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
-                                  lio, ir Henriko, Vroclavo kunigaikščio, žūtį
-
-       Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
-    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
-    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
-    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
+    Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su
+    daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,
+    kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš
+    altorių, o kunigas, ilgai meldęsis, garsiai užgiedojo: „Aleliuja, ateik šventoji dvasia“,
+    nusileido ant jų kūniškai apčiuopiama šventoji dvasia nelyginant ugnies liepsnelė ir juo
+    labiau kuris iš jų degė dievo meile, tuo didesnė ši liepsnelė rodėsi ten stovintiesiems.
+    Šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis
+    ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas
+    buvo susitepęs paleistuvystės nuodėme. Vienas abatas, šitai sužinojęs, panoro ištirti, ar
+    taip yra iš tikrųjų, todėl nusivedė du jaunus pasileidėlius pas magistrą, tačiau šis, vos
+    išvydęs tuos tarnus, liepė jiems išsinešdinti.
+  citata_rodoma: "27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­\n                              lio, ir Henriko, Vroclavo kunigaikščio, žūtį\n\n   Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,\nkur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir\ngalybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių\nvieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3212,13 +1890,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   puslapiai: "PDF 18"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
-    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
-    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
-    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
-    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
+    Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai
     atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
-    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
-    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
+    suartėti su totoriais — mongolais ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip ir atitinkami
+    popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
+    ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
+    vienodos, kad šios tautos turėjusios bendrą priešą71.
+    Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus.
+    Kita vertus, jis rašė istorinį pasakojimą, paremtą didele jo sukaupta rašytine ir žodine
+    Ordino tradicija, siekė šią tradiciją perduoti ateities kartoms (Dedikacija).
+  citata_rodoma: "Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų\nfeodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos\nkronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą\n(1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai\natpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms\nsuartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas\nmusulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3308,17 +1991,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - id: c-155978
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 250"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 250."
+  puslapiai: "PDF 255"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
   citata_originali: |
-    125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
-
-      1326  viešpaties metais Vengrijos  karalius nukovė 30 tūkstančių  totorių,  kurių
-    kariuomenė siaubė jo karalystę.
-
-
-
-                    126.
+    Atsilyginkite savo priešams, ką jie užsipelnė”. O kitoje vietoje, kai žuvo
+    tie, kurie susirado mirtį dėl savo patiklumo, nes nekovojo su priešais, vienas vyras
+    pasakė kitam vyrui (1 Mak 2, 40): „Jeigu visi darysime taip, kaip padarė mūsų broliai, ir
+    nekovosime prieš pagonis dėl savo gyvybės ir savo įstatymo, anie greitai išnaikins mus
+    iš šalies”. Magistras ir broliai, naudingai pamokyti šių bei kitų švento rašto pranašysčių,
+    ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
+    Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
+    ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas.
+  citata_rodoma: "125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį\n\n  1326  viešpaties metais Vengrijos  karalius nukovė 30 tūkstančių  totorių,  kurių\nkariuomenė siaubė jo karalystę.\n\n\n\n                126."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3380,8 +2064,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171433
     - t-171394
+    - t-171433
 
 - id: c-155981
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3430,30 +2114,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindzia:
     - t-171397
 
-- id: c-155985
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
-  citata_originali: |
-    Iš kitos pusės, nesant masinės reguliarios
-    kariuomenės, bajorų pašauktinės kariuo-
-    menės mobilizacija galėdavo užtrukti tol,
-    kol jos jau nebereikėdavo, nes po apiplė-
-    šimo totoriai stengdavosi pasitraukti kuo
-    sparčiau. Būtent šios struktūrinės-orga-
-    nizacinės Lietuvos karinės organizacijos
-    silpnosios vietos leido totoriams dažnai
-
-    nebaudžiamiems plėšti LDK žemes xv a.
-    pabaigoje - xvi a. pradžioje. Tiesa, dar
-  citata_rodoma: "Iš kitos pusės, nesant masinės reguliarios\nkariuomenės, bajorų pašauktinės kariuo-\nmenės mobilizacija galėdavo užtrukti tol,\nkol jos jau nebereikėdavo, nes po apiplė-\nšimo totoriai stengdavosi pasitraukti kuo\nsparčiau. Būtent šios struktūrinės-orga-\nnizacinės Lietuvos karinės organizacijos\nsilpnosios vietos leido totoriams dažnai\n\nnebaudžiamiems plėšti LDK žemes xv a.\npabaigoje - xvi a. pradžioje."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-171410
-
 - id: c-155987
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3467,12 +2127,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     kuris buvo sumažėjęs tuoj po Mindaugo mirties.
   citata_rodoma: "Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,\n1279 m. apiplėšė Lietuvą^256.\nTraidenio laikais Lietuva vėl atgavo savo ankstybesnį svorį,\nkuris buvo sumažėjęs tuoj po Mindaugo mirties."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-171442
-
 - id: c-155989
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3495,31 +2153,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindzia:
     - t-171435
 
-- id: c-155990
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
-  citata_originali: |
-    Dalis jų išvengė
-    žūties ir aplinkiniais keliais pasiekė Klecką.
-    Pagrindinėje stovyklavietėje buvę totoriai
-    jau tą pačią dieną - rugpjūčio ketvirtąją -
-    sužinojo apie link jų judančią Lietuvos ka-
-    riuomenę. Totoriai nusprendė laukti savo
-
-    78 KLECKO MŪŠIS 1506 m. rugpjūčio 6 d.
-
-    priešų vietoje, nes jie nebuvo nusiteikę bėgti
-    pametę grobį, kuriam „surinkti“ prireikė ke-
-    leto mėnesių darbo.
-  citata_rodoma: "Pagrindinėje stovyklavietėje buvę totoriai\njau tą pačią dieną - rugpjūčio ketvirtąją -\nsužinojo apie link jų judančią Lietuvos ka-\nriuomenę. Totoriai nusprendė laukti savo\n\n78 KLECKO MŪŠIS 1506 m. rugpjūčio 6 d.\n\npriešų vietoje, nes jie nebuvo nusiteikę bėgti\npametę grobį, kuriam „surinkti“ prireikė ke-\nleto mėnesių darbo."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-171425
-
 - id: c-166576
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3537,160 +2170,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183189
     - t-171432
-
-- id: c-167061
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
-  citata_originali: |
-    Visa tai liudytų, kad Kryžiuočių or-
-    dino ir Švedijos puolimai vienu metu
-    galėjo būti iš anksto suderinti.
-
-    Lietuva tuo metu turėjo keturis pagrin-
-    dinius priešus: Prūsijos-Livonijos vokie-
-    čių ordiną, Maskvą, totorius ir Lenkiją.
-    Silpnindami priešišką spaudimą vienuose
-    frontuose, Lietuvos valdovai Algirdas ir
-    Kęstutis kurį laiką laviravo santykiuose su
-    Lenkija ir totoriais.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183669
-
-- id: c-170685
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Didysis kunigaikštis Skirmantas nepa­
-    noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
-    tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.
-    Ir sekančiais metais tas chanas su daugeriopomis
-    sutelktomis jėgomis bei totorių ordomis patraukė į Ru­
-    sų žemę ir padarė daug žalos Rusų žemei.
-    50
-
-    ## Puslapis 48
-
-    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
-    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
-    nos.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187746
-
-- id: c-170686
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 98."
-  citata_originali: |
-    Ilgai jie kovėsi, vos ne visą dieną 22. O  pas­
-    kui dievas padėjo totoriams, ir jie sumušė didįjį kuni­
-    gaikštį Vytautą ir visą jo kariuomenę, o pats didysis
-    kunigaikštis su nedideliu būriu pabėgo. O chanas Te-
-    mir-Kutlujus, sumušęs kunigaikštį Vytautą, atžygiavo
-    prie Kijevo ir paėmė iš miesto išpirką — tris tūkstan­
-    čius lietuviškų rublių, ir visą savo kariuomenę paleido
-    po Lietuvos žemę, ir totoriai siautėjo ligi pat Didžio­
-    jo Lucko ir, pridarę daug pikto, atsitraukė į savo
-    žemę.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187747
-
-- id: c-170687
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 104."
-  citata_originali: |
-    APIE JOGAILOS IR VYTAUTO KARĄ SU PROSUOS
-    VOKIEČIAIS IR APIE JŲ NUGALĖJIMĄ MOSYJE PRIE
-    DUBROVNOS
-    Sesi tūkstančiai devyni šimtai dvidešimt pirmaisiais
-    metais nuo pasaulio sutvėrimo, o nuo dievo gimimo
-    tūkstantis keturi šimtai dvyliktaisiais metais 1  prasidė­
-    jo Lenkijos karaliaus Vladislovo Jogailos ir jo brolio
-    Lietuvos kunigaikščio Vytauto karas su Prūsijos vo­
-    kiečiais.
-    Ir sutelkė abi pusės didžiulę kariuomenę: karalius
-    Jogaila su visa Lenkų karalystės jėga, o didysis kuni­
-    gaikštis Vytautas su visomis Lietuvių ir Rusų pajėgo­
-    mis ir su daugeliu Ordos totorių, o Prūsijos magistras
-    taip pat su savo pajėgomis ir su visa Vokiečių imperija.
-    Ir kai visa abiejų pusių kariuomenė jau buvo pasi­
-    ruošusi, karalius Jogaila ir didysis kunigaikštis Vytau­
-    tas išžygiavo j mūšį, vis blogais miškų keliais, o lygaus
-    ir plataus lauko, kur būtų galima sustoti ir pradėti
-    mūšį, negalėjo surasti, nes lygių ir didelių laukų buvo
-    tik prie vokiečių miesto Dubrovnos*.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187748
-
-- id: c-170689
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Ir didikai, matydami, kad etmonas labai serga ir kad
-    be jo kariuomenėje nebus jokios tvarkos, nutarė ir pa­
-    vedė tą sykį etmono pareigas kunigaikščiui Mykolui
-    Glinskiui ir teikėsi būti visi jam paklusnūs.
-    Kunigaikštis Mykolas Glinskis ėmė vadovauti ka­
-    riuomenei ir patraukė į Klecką, o pirmyn išsiuntė ke­
-    letą šimtų raitelių. Ir kai prisiartino prie Klecko, priei­
-    dami iš pietų Raudonąjį tvenkinį2 1  ir Lanės upę 2 2 , nuo
-    kalno išvydo stovinčius už upės totorių pulkus, pasi­
-    rengusius mūšiui.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187750
-
-- id: c-170690
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 169"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 169."
-  citata_originali: |
-    Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
-    gė per upę. Dešiniojo sparno kariuomenė paskubėjusi
-    pirmoji įveikė perėją ir atsidūrė už upės. Totoriai ma­
-    tė, kad lietuviai ne visi kartu keliasi per upę, patys
-    narsiausieji iš jų tarpo puolė lietuvius ir daugelį iš to
-    dešiniojo sparno nukovė ir vos jų nesumušė. O tada
-    kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir,
-    perėjęs per upę, smogė visiems totorių pulkams ir per­
-    skėlė juos į dvi dalis. Tada atsigavo ir tie mūsų deši­
-    niojo sparno žmonės ir taip pat smogė jiems, ir iš abie­
-    jų pusių taip sumaišė totorių pulkus, kad totoriai ne­
-    tik kautis nebegalėjo, bet ir akių bei rankų nebedrįso
-    prieš Lietuvos kariuomenę pakelti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187751
 
 - id: c-175270
   autorius: "Teodoras Narbutas"
@@ -3754,6 +2234,652 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - id: c-176489
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 152"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 152."
+  citata_originali: |
+    Kunigaikštis Konstantinas su visais žmonėmis ir di­
+    dikais, ir su Smolensko vaivada, ir su visais smolenskie-
+    čiais, apsiginkVavęs ir pasiruošęs, patraukė link Doro-
+    hobužo22 ir pirmiausia pasiekė Jelnią23. Ir tuo metu
+    sučiupo vieną liežuvį iš Maskvos kariuomenės, vardu
+    Hermaną, buvusį Bagdono Sapiegos24 raštininką, pabė­
+    gusį į Maskvą. Štai ką tas liežuvis papasakojo jiems
+    apie Maskvos kariuomenę:
+    „Maskvos didžiojo kunigaikščio vaivada Jurijus Za­
+    chariničius ilgokai stovėjo prie Dorohobužo su maža
+    žmonių. O užvakar jam į pagalbą atvyko kiti žymūs
+    vaivados — kunigaikštis Danielius Vasiljevičius Sče-
+    nia 25 ir Peremišlio kunigaikštis Ivanas Michailovičius26
+    su daugeliu kitų vaivadų ir žmonių, ir jie visi jau stovi
+    vienoje vietoje prie Dorohobužo.
+  citata_rodoma: "154\n\n## Puslapis 150\n\nDidysis kunigaikštis Aleksandras išstovėjo Braclave \nnemaža laiko ir atstatė Braclavo miestą; visi žmonės, \nkurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo \nį Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo \nBraclavo, lietuviai sumušė kelis šimtus totorių. O pas­\nkui didysis kunigaikštis Aleksandras sugrįžo į Lietu­\nvą 3 9 ."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193845
+
+- id: c-181456
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
+    jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
+    totoriais pasidarė jau nebeišvengiamas. Jadvyga savo „wiesz­
+    czym duchem“ (pranašingu nujautimu), kaip sako Prochaska,
+    pranašavo ambicingam Vytautui didelių užsimojimų galą^2 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199115
+
+- id: c-181457
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 99-100"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 99-100."
+  citata_originali: |
+    Mano giminaitei nebūtų didesnės laimės,
+    kaip ištekėti už jo didenybės. Tačiau man nedera da­
+    ryti gėdos ir pažeminimo jos vyresniajai seseriai, pir­
+    miau už vyro išleidus jaunesniąją. Taigi teveda jo di­
+    denybė vyresniąją." Ir kada didysis kunigaikštis Vy­
+    nu
+
+    tautas pranešė tai karaliui Jogailai, tas jam tarė: „Aš
+    pats žinau, kad vyresnioji gražesnė, bet ji su ūsiukais,
+    o tai reiškia, kad jinai agni merga, o aš jau senas,\ ne­
+    drįsčiau jos geisti."
+    Paskui didysis kunigaikštis Vytautas, pasitaręs su
+    kunigaikščiu Semionu, parsikvietė savo giminaitj, Be-
+    lajos kunigaikštį Ivaną Vladimirovičių, ir pripiršo jam
+    tą vyresniąją seserį Vasilisą 7 Balčiukę, o Sofiją sužie­
+    davo su karaliumi Jogaila.
+  citata_rodoma: "Ilgai jie kovėsi, vos ne visą dieną 22. O  pas­\nkui dievas padėjo totoriams, ir jie sumušė didįjį kuni­\ngaikštį Vytautą ir visą jo kariuomenę, o pats didysis \nkunigaikštis su nedideliu būriu pabėgo. O chanas Te- \nmir-Kutlujus, sumušęs kunigaikštį Vytautą, atžygiavo \nprie Kijevo ir paėmė iš miesto išpirką — tris tūkstan­\nčius lietuviškų rublių, ir visą savo kariuomenę paleido \npo Lietuvos žemę, ir totoriai siautėjo ligi pat Didžio­\njo Lucko ir, pridarę daug pikto, atsitraukė į savo \nžemę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187747
+
+- id: c-181458
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Taigi, Lietuva siekė atgauti
+    Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą,
+    Latgalą, visą Baltijos pajūrį tarp Priegliaus
+    ir Dauguvos. Taip pat buvo pasiūlyta iškelti
+    kryžiuočius į rytų stepes ginti Europos
+    šalių nuo totorių. Šiuose Algirdo reikala-
+    vimuose atsispindi suvokimas, kad žemės,
+    kuriose gyvena vokiečių nukariauti baltai,
+
+    turi priklausyti vienintelei valstybingumą
+    sukūrusiai baltų tautai - lietuviams, ir
+    teisėtas siekis atremti Lietuvos valstybę į
+    Baltijos pakrantę, suvokimas, kad jūra yra
+    natūrali Lietuvos siena šiaurvakariuose.
+  citata_rodoma: "Taip pat buvo pasiūlyta iškelti\nkryžiuočius į rytų stepes ginti Europos\nšalių nuo totorių. Šiuose Algirdo reikala-\nvimuose atsispindi suvokimas, kad žemės,\nkuriose gyvena vokiečių nukariauti baltai,\n\nturi priklausyti vienintelei valstybingumą\nsukūrusiai baltų tautai - lietuviams, ir\nteisėtas siekis atremti Lietuvos valstybę į\nBaltijos pakrantę, suvokimas, kad jūra yra\nnatūrali Lietuvos siena šiaurvakariuose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199085
+
+- id: c-181459
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Dalyvaujant garbingiems
+    ir narsiems vyrams Mingailai, Goš­
+    tautui; Vilniaus vaivadai Manvydui
+    bei mūsų dvaro maršalkoms Čupur-
+    vai ir Milonui bei daugeliui kitų, ver­
+    tų pasitikėjimo].
+    59
+    Vilniaus kapitulos archy­
+    vas, pažymėta data: in Lida die Do­
+    minico, quo in Ecclesia Dei, Cantate de­
+    cantatur [Lydoje, sekmadienį, kai
+    1 4 1
+
+    ## Puslapis 158
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    geradarybė, didinant mieste gyvenančių dvasininkų turtus,
+    nemažai prisidėta ir prie kitų miestiečių gerovės. Tuo me­
+    tu Vilnius daug laimėjo per gyventojų pagausėjimą, mat
+    tiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­
+    imtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai
+    bažnyčioje giedama Dei Cantate].
+  citata_rodoma: "59\nVilniaus kapitulos archy­\nvas, pažymėta data: in Lida die Do­\nminico, quo in Ecclesia Dei, Cantate de­\ncantatur [Lydoje, sekmadienį, kai\n1 4 1\n\n## Puslapis 158\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\ngeradarybė, didinant mieste gyvenančių dvasininkų turtus, \nnemažai prisidėta ir prie kitų miestiečių gerovės. Tuo me­\ntu Vilnius daug laimėjo per gyventojų pagausėjimą, mat \ntiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­\nimtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai\nbažnyčioje giedama Dei Cantate]."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181460
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau XVII–XVIII a. bent jau Vilnius
+    prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
+    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net
+    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
+    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
+    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
+    Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
+    tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
+  citata_rodoma: "Taigi net \njei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, \npastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-\nmenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK. \nBūtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos \ntyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586)."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181461
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jų dau­
+    gybę su visomis šeimomis į šiuos
+    kraštus turėjo būti atkėlęs šaunus
+    pergalingas karys Vytautas; be jų pa­
+    grindinės gyvenvietės prie Vokės
+    upės, be tų, kurie įsikūrė mieste ir
+    kurie apsigyveno vietovėje, vadinto­
+    je Nemėžiu, per mylią nuo Vilniaus į
+    rytus, daug jų įsikūrė pavietuose:
+    Lydos, Ašmenos ir Naugarduko ir
+    iš tiesų nėra valdos, ypač pasakyti­
+    na tai apie Vilniaus, Trakų ir Nau­
+    garduko pavietus, kur iki šiolei ne­
+    būtų išlikę totorių buveinių pėdsakų
+    pavadinimuose: Totoriškės, Totorių
+    kapinės ir 1.1. Seniau totoriai vertėsi
+    audinių ir siūlų prekyba. Dabar Lie­
+    tuvos totoriai praturtėję, iš tiesų visi
+    tarnauja kariuomenėje, specialiuose
+    raitininkų, vadinamuosiuose totorių
+    ulonų pulkuose, kiti yra tarnautojai,
+    o vargingesni dirba pas privačius as­
+    menis arba turi menkus žemės plo­
+    telius, po tėvų mirties paveldėtus.
+  citata_rodoma: "1. Seniau totoriai vertėsi \naudinių ir siūlų prekyba. Dabar Lie­\ntuvos totoriai praturtėję, iš tiesų visi\ntarnauja kariuomenėje, specialiuose \nraitininkų, vadinamuosiuose totorių \nulonų pulkuose, kiti yra tarnautojai, \no vargingesni dirba pas privačius as­\nmenis arba turi menkus žemės plo­\ntelius, po tėvų mirties paveldėtus."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181463
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Apie Vengrijos ir Lenkijos nusiaubimą
+
+       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
+
+
+
+             23.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181464
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau Vilniaus vyskupas Petras tam
+    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
+    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
+    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
+    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
+    ti, ir kuris palaimino tą santuoką.
+    Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
+    su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
+    klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
+    dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
+    skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
+    daugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­
+    tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus
+    pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­
+    tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo
+    paklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu
+    paskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas
+    jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
+    73 nė Ona mirė Trakuose, o palaidota
+    Ona buvo Smolensko kunigaikščio buvo Vilniuje.
+  citata_rodoma: "Tačiau Vilniaus vyskupas Petras tam \nprieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­\nnystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, \nbūtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas \nJanas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­\nti, ir kuris palaimino tą santuoką.\nVytautas, savo viešpatavimo laikais laimėjęs daug mūšių \nsu Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, \nklajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­\ndyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra \nskelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių \ndaugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­\ntauto laikais pirmą kartą (1419 m."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181465
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kaip in Mindaugni, Traidenini rūpesčių sudarė totoriai. Iš tu­
+    rimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.
+    Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,
+    1279 m. apiplėšė Lietuvą^256.
+  citata_rodoma: "Iš tu­\nrimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.\nĮsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,\n1279 m. apiplėšė Lietuvą^256."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181466
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Iš kitos pusės, nesant masinės reguliarios
+    kariuomenės, bajorų pašauktinės kariuo-
+    menės mobilizacija galėdavo užtrukti tol,
+    kol jos jau nebereikėdavo, nes po apiplė-
+    šimo totoriai stengdavosi pasitraukti kuo
+    sparčiau. Būtent šios struktūrinės-orga-
+    nizacinės Lietuvos karinės organizacijos
+    silpnosios vietos leido totoriams dažnai
+
+    nebaudžiamiems plėšti LDK žemes xv a.
+    pabaigoje - xvi a. pradžioje. Tiesa, dar
+  citata_rodoma: "Iš kitos pusės, nesant masinės reguliarios\nkariuomenės, bajorų pašauktinės kariuo-\nmenės mobilizacija galėdavo užtrukti tol,\nkol jos jau nebereikėdavo, nes po apiplė-\nšimo totoriai stengdavosi pasitraukti kuo\nsparčiau. Būtent šios struktūrinės-orga-\nnizacinės Lietuvos karinės organizacijos\nsilpnosios vietos leido totoriams dažnai\n\nnebaudžiamiems plėšti LDK žemes xv a.\npabaigoje - xvi a. pradžioje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199080
+
+- id: c-181467
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
+    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
+    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
+    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181468
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 225"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
+  citata_originali: |
+    Apie totorių viešpatavimo pradžią
+
+      1202 viešpaties metais prasidėjo totorių viešpatavimas (Ptol. loc. cit.; Mart. loc. cit.).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181469
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Rusijos žemės tada buvo labai palaidos.
+    Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštys-
+    čių, todėl nesunku buvo jas paimti į savo valdžią. Užtat
+    Lietuvos kunigaikščiai taip toli nužygiuodavo į Rusijos gilumą.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181470
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    LDK
+    kultūrinę įvairovę didino etninis aspektas: nors kai kurios konfesinės ir
+    etninės ribos sutapo (žydų, totorių, karaimų, iš dalies ir sentikių), dažnai
+    konfesijos apėmė įvairias etninės kilmės bendruomenes.
+
+    L I E T U V O S  I S T O R I J A
+    72
+    LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-
+    kė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui,
+    turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo). LDK, tu-
+    rinti dešimt skirtingų konfesijų, XVI a.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181471
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 48-49"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48-49."
+  citata_originali: |
+    Tasai sūnus, mylėdamas savo tėvą, didįjį kunigaikštį
+    Kukovaitį, savo tėvui atminti padirbo stabą ir pastatė
+    jį prie Šventosios upės ant vieno kalno, netoli Deltuvos.
+    s i
+
+    Tautvilą2 ir Erdivydą3; siųsdamas juos su Vykintu4
+    į karą prieš Rusią, nukariauti Smolensko, sakė jis:
+    „Kas ką užsikariaus, tą ir turės. Dantis už dantį." O su
+    jais išsiuntė ir nesuskaičiuojamą daugybę lietuvių.
+    Plačios jų buvo valdos ir dideli turtai 5.
+    Ir Mindaugas nusiuntė prieš juos savo karius, ketin­
+    damas juos nužudyti.
+  citata_rodoma: "Didysis kunigaikštis Skirmantas nepa­\nnoro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­\ntyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.\nIr sekančiais metais tas chanas su daugeriopomis \nsutelktomis jėgomis bei totorių ordomis patraukė į Ru­\nsų žemę ir padarė daug žalos Rusų žemei.\n50\n\n## Puslapis 48\n\nDidysis kunigaikštis Skirmantas, surinkęs visas sa­\nvo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­\nnos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187746
+
+- id: c-181472
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Iš tu­
+    rimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.
+    Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,
+    1279 m. apiplėšė Lietuvą^256.
+    Traidenio laikais Lietuva vėl atgavo savo ankstybesnį svorį,
+    kuris buvo sumažėjęs tuoj po Mindaugo mirties.
+  citata_rodoma: "Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,\n1279 m. apiplėšė Lietuvą^256.\nTraidenio laikais Lietuva vėl atgavo savo ankstybesnį svorį,\nkuris buvo sumažėjęs tuoj po Mindaugo mirties."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181473
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 169"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 169."
+  citata_originali: |
+    Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
+    gė per upę. Dešiniojo sparno kariuomenė paskubėjusi
+    pirmoji įveikė perėją ir atsidūrė už upės. Totoriai ma­
+    tė, kad lietuviai ne visi kartu keliasi per upę, patys
+    narsiausieji iš jų tarpo puolė lietuvius ir daugelį iš to
+    dešiniojo sparno nukovė ir vos jų nesumušė. O tada
+    kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir,
+    perėjęs per upę, smogė visiems totorių pulkams ir per­
+    skėlė juos į dvi dalis. Tada atsigavo ir tie mūsų deši­
+    niojo sparno žmonės ir taip pat smogė jiems, ir iš abie­
+    jų pusių taip sumaišė totorių pulkus, kad totoriai ne­
+    tik kautis nebegalėjo, bet ir akių bei rankų nebedrįso
+    prieš Lietuvos kariuomenę pakelti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187751
+
+- id: c-181474
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tasai Andrius, Jogailai pavaldaus
+    Polocko kunigaikštis, Algirdo sū­
+    nus, gimęs iš antros jo santuokos su
+    Julijona, Vitebsko kunigaikštyte, ta­
+    čiau nebuvo palankus Jogailai, vei­
+    kiau linkęs į Kęstučio pusę; tad Jo­
+    gaila nusprendė jį išvyti iš jo dalinės
+    valdos. Dėl to sudarė slaptą, be
+    Kęstučio žinios, sutartį su Livoni­
+    jos magistru, kad anas padėtų jam
+    vykdyti tuos kėslus. Tuo metu, kai
+    Andrius, nuolatinis Dmitrijaus Do­
+    niškio bendražygis, karo rūpesčiais
+    dalinęsis, kovojęs su juo dar kartu
+    prieš totorius, kur Kulikovo lauke
+    (1380 metų rugsėjo 8-ą) prie perga­
+    lės daugiausia prisidėjęs, dalyvavo
+    mūšiuose, - Skirgaila užsibuvo Po-
+    34
+
+    ## Puslapis 51
+
+    I  KNYGA
+    Galiausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­
+    siryžo užbėgti jam už akių ir žinodamas, jog šis visas savo
+    ginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad
+    ten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų
+    rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
+    Vilnių.
+  citata_rodoma: "Dėl to sudarė slaptą, be \nKęstučio žinios, sutartį su Livoni­\njos magistru, kad anas padėtų jam \nvykdyti tuos kėslus. Tuo metu, kai \nAndrius, nuolatinis Dmitrijaus Do­\nniškio bendražygis, karo rūpesčiais \ndalinęsis, kovojęs su juo dar kartu \nprieš totorius, kur Kulikovo lauke \n(1380 metų rugsėjo 8-ą) prie perga­\nlės daugiausia prisidėjęs, dalyvavo \nmūšiuose, - Skirgaila užsibuvo Po-\n34\n\n## Puslapis 51\n\nI  KNYGA\nGaliausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­\nsiryžo užbėgti jam už akių ir žinodamas, jog šis visas savo \nginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad \nten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų \nrugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo \nVilnių."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181477
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 247"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247."
+  citata_originali: |
+    108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
+
+       Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję
+    sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181478
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Visa tai liudytų, kad Kryžiuočių or-
+    dino ir Švedijos puolimai vienu metu
+    galėjo būti iš anksto suderinti.
+
+    Lietuva tuo metu turėjo keturis pagrin-
+    dinius priešus: Prūsijos-Livonijos vokie-
+    čių ordiną, Maskvą, totorius ir Lenkiją.
+    Silpnindami priešišką spaudimą vienuose
+    frontuose, Lietuvos valdovai Algirdas ir
+    Kęstutis kurį laiką laviravo santykiuose su
+    Lenkija ir totoriais.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181479
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 173"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
+  citata_originali: |
+    Mūsų tėvas šito padaryti, atimti iš jo
+    Vilnių, visiškai nenorėjo dėl savo brolio, kaip vyriau­
+    siojo, ir kunigaikštį Jogailą pasodino Vilniaus pilyje
+    ir saugojo jį iš visų pusių, kol jis paaugo ir kol prie
+    jo priprato žmonės.
+    Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
+    gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
+    slėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu
+    ir su Livonijos kraštu ir mūsų tėvą išdavė; tasai, kurs
+    turėjo ir prižadėjo kariauti, nebenorėjo mūsų tėvui pa­
+    dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
+    patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
+    sų žemę pasiglemžti. Mūsų tėvas šitą tikrai patyrė
+    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
+    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
+    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
+    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
+    ir iždą, ir žirgyną, viską tą jis paėmė.
+  citata_rodoma: "Ir didikai, matydami, kad etmonas labai serga ir kad \nbe jo kariuomenėje nebus jokios tvarkos, nutarė ir pa­\nvedė tą sykį etmono pareigas kunigaikščiui Mykolui \nGlinskiui ir teikėsi būti visi jam paklusnūs.\nKunigaikštis Mykolas Glinskis ėmė vadovauti ka­\nriuomenei ir patraukė į Klecką, o pirmyn išsiuntė ke­\nletą šimtų raitelių. Ir kai prisiartino prie Klecko, priei­\ndami iš pietų Raudonąjį tvenkinį2 1  ir Lanės upę 2 2 , nuo \nkalno išvydo stovinčius už upės totorių pulkus, pasi­\nrengusius mūšiui."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187750
+
+- id: c-181480
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Dabar visa garbė ir
+    šlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­
+    čiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus
+    totorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą.
+    Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
+    jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
+    totoriais pasidarė jau nebeišvengiamas.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181481
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
+
+      1326  viešpaties metais Vengrijos  karalius nukovė 30 tūkstančių  totorių,  kurių
+    kariuomenė siaubė jo karalystę.
+
+
+
+                    126.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181483
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Daug jų vyko
+    pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­
+    mų, veikusių iki Lietuvos Statuto, paskelbimu visai valsty­
+    bei36. Čia, Vilniuje (1443 metais), totorių pasiuntinių
+    prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­
+    tas Perekopo chanu. Čia 1448 metais su Prūsijos ordinu su­
+    daryta37 garsi sutartis, o po dvidešimties metų (1468 me­
+    tais) pats didžiojo magistro pavaduotojas Henrikas Plauenas
+    toje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise
+    įžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­
+    tą38.
+  citata_rodoma: "Čia, Vilniuje (1443 metais), totorių pasiuntinių\nprašymu, caras Chadži Girėjus buvo iškilmingai paskelb­\ntas Perekopo chanu. Čia 1448 metais su Prūsijos ordinu su­\ndaryta37 garsi sutartis, o po dvidešimties metų (1468 me­\ntais) pats didžiojo magistro pavaduotojas Henrikas Plauenas\ntoje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise\nįžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­\ntą38."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181484
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tarė­
+    jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
+    mums patiems, kadangi turime aukščiausią abiejų luomų
+    sienų tyrimo valdžią.
+    Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­
+    nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­
+    se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­
+    sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo
+    žmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­
+    kėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų
+    ir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos,
+    ir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime,
+    kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar
+    totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­
+    žįstančių valdinių cesijos ar decesijos būdu, sudarydami
+    kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,
+    401
+
+    ## Puslapis 418
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    nostram profitentibus acquirunt, eadem onera sustineant, in
+    possessionibus acquisitis vėl acquirendis, quae sustinuerunt
+    ii, a quibus eas acquisiverunt, aut acquisituri sunt.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181485
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Per
+    ją ėjo prekyba su visais Lietuvai priklausiusiais ir dar nepriklau-
+    siusiais Dauguvos ir Dniepro upyno miestais. Per ją ėjo vienin-
+    telis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams,
+    prekyba su pietiniais kraštais visai nutrūko. Dabar, padarius
+    sąjungą su Rygos miestu, kelias Lietuvos prekybai buvo atviras.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181486
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Didieji kunigaikščiai, reikšdami teritorines
+    pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
+    mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
+    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
+    kurie tapo artimosios sargybos tautomis. Nepasitikėta ir savųjų įgūdžiais,
+    todėl valdovai kvietė pirklius ir amatininkus iš svetur.
+  citata_rodoma: "Antra vertus, kunigaikš-\nčiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, \nkurie tapo artimosios sargybos tautomis. Nepasitikėta ir savųjų įgūdžiais, \ntodėl valdovai kvietė pirklius ir amatininkus iš svetur."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181487
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     154
@@ -3768,11 +2894,397 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
     vą 3 9 .
   statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181488
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Iš kitos pusės, nesant masinės reguliarios
+    kariuomenės, bajorų pašauktinės kariuo-
+    menės mobilizacija galėdavo užtrukti tol,
+    kol jos jau nebereikėdavo, nes po apiplė-
+    šimo totoriai stengdavosi pasitraukti kuo
+    sparčiau. Būtent šios struktūrinės-orga-
+    nizacinės Lietuvos karinės organizacijos
+    silpnosios vietos leido totoriams dažnai
+
+    nebaudžiamiems plėšti LDK žemes xv a.
+    pabaigoje - xvi a. pradžioje. Tiesa, dar
+  citata_rodoma: "Iš kitos pusės, nesant masinės reguliarios\nkariuomenės, bajorų pašauktinės kariuo-\nmenės mobilizacija galėdavo užtrukti tol,\nkol jos jau nebereikėdavo, nes po apiplė-\nšimo totoriai stengdavosi pasitraukti kuo\nsparčiau. Būtent šios struktūrinės-orga-\nnizacinės Lietuvos karinės organizacijos\nsilpnosios vietos leido totoriams dažnai\n\nnebaudžiamiems plėšti LDK žemes xv a.\npabaigoje - xvi a. pradžioje."
+  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193845
+    - t-199077
+
+- id: c-181489
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Bet ir totoriai,
+    įsigalėję Rusijoj, taip pat ėmė tarp savęs vaidytis, kuo nekartą
+    Lietuva pasipelnydavo. Taip Algirdas, pasinaudojęs chanų
+    vaidais, atėmė iš jų Kijevą ir Podoliją. Vytautas irgi, užimda­
+    mas vis naujus rusų kraštus, dar labiau prisiartino prie totorių
+    sienų, kas jiems negalėjo patikti, ir vedė prie karo.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181491
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 104"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 104."
+  citata_originali: |
+    APIE JOGAILOS IR VYTAUTO KARĄ SU PROSUOS
+    VOKIEČIAIS IR APIE JŲ NUGALĖJIMĄ MOSYJE PRIE
+    DUBROVNOS
+    Sesi tūkstančiai devyni šimtai dvidešimt pirmaisiais
+    metais nuo pasaulio sutvėrimo, o nuo dievo gimimo
+    tūkstantis keturi šimtai dvyliktaisiais metais 1  prasidė­
+    jo Lenkijos karaliaus Vladislovo Jogailos ir jo brolio
+    Lietuvos kunigaikščio Vytauto karas su Prūsijos vo­
+    kiečiais.
+    Ir sutelkė abi pusės didžiulę kariuomenę: karalius
+    Jogaila su visa Lenkų karalystės jėga, o didysis kuni­
+    gaikštis Vytautas su visomis Lietuvių ir Rusų pajėgo­
+    mis ir su daugeliu Ordos totorių, o Prūsijos magistras
+    taip pat su savo pajėgomis ir su visa Vokiečių imperija.
+    Ir kai visa abiejų pusių kariuomenė jau buvo pasi­
+    ruošusi, karalius Jogaila ir didysis kunigaikštis Vytau­
+    tas išžygiavo j mūšį, vis blogais miškų keliais, o lygaus
+    ir plataus lauko, kur būtų galima sustoti ir pradėti
+    mūšį, negalėjo surasti, nes lygių ir didelių laukų buvo
+    tik prie vokiečių miesto Dubrovnos*.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187748
+
+- id: c-181492
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    2.
+    62
+    Kaip seniau totoriai garsėjo santū­
+    rumu, svetingumu ir kitomis iš kar­
+    tų kartoms pereinančiomis dorybė­
+    mis, liudija Mykolas Lietuvis,
+    vienintelis autentiškų raštų apie sa­
+    vo tautos papročius autorius, kuris
+    bando (gal ir apsirinka) totorius ver­
+    tesniais už savo tėvynainius esant
+    pripažinti. Žr. retą jo kūrinėlį: Mi­
+    kalonis Lituani, de M oribus Tartarorum,
+    Lituanorum et M oschorum, Fragmina X,
+    multiplici historia referta etc. nunc pri-
+    M um per J. J a c.
+  citata_rodoma: "2.\n62\nKaip seniau totoriai garsėjo santū­\nrumu, svetingumu ir kitomis iš kar­\ntų kartoms pereinančiomis dorybė­\nmis, liudija Mykolas Lietuvis, \nvienintelis autentiškų raštų apie sa­\nvo tautos papročius autorius, kuris \nbando (gal ir apsirinka) totorius ver­\ntesniais už savo tėvynainius esant \npripažinti. Žr."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181493
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Geri santykiai su Jogaila ir lenkais, kova su Or­
+    dinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios
+    stiprinimas ir kultūros kėlimas krašto viduje — štai vedamo­
+    sios Vytauto politikos mintys.
+    Beveik visa ta programa pavyko jam įgyvendinti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199114
+
+- id: c-181494
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Gana grėsmingai įsiliepsnojo pirmieji nesuta­
+    rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos
+    bus užtraukusi: mat parašė laišką Vytautui prašydama išmo-
+    miestų, kuriuos reikėtų saugoti.]* -
+    Šitas, nepalankus lietuvių atžvilgiu
+    palyginimas su totoriais gal persū­
+    dytas, tačiau negalima būtų nugin­
+    čyti, kad totoriai, Vytauto Lietuvoje
+    įkurdinti, net iki mūsų laikų garsūs
+    nepriekaištinga dora, narsa ir prie­
+    raišumu savo naujai tėvynei. Jų dau­
+    gybę su visomis šeimomis į šiuos
+    kraštus turėjo būti atkėlęs šaunus
+    pergalingas karys Vytautas; be jų pa­
+    grindinės gyvenvietės prie Vokės
+    upės, be tų, kurie įsikūrė mieste ir
+    kurie apsigyveno vietovėje, vadinto­
+    je Nemėžiu, per mylią nuo Vilniaus į
+    rytus, daug jų įsikūrė pavietuose:
+    Lydos, Ašmenos ir Naugarduko ir
+    iš tiesų nėra valdos, ypač pasakyti­
+    na tai apie Vilniaus, Trakų ir Nau­
+    garduko pavietus, kur iki šiolei ne­
+    būtų išlikę totorių buveinių pėdsakų
+    pavadinimuose: Totoriškės, Totorių
+    kapinės ir 1.1.
+  citata_rodoma: "]* -\nŠitas, nepalankus lietuvių atžvilgiu\npalyginimas su totoriais gal persū­\ndytas, tačiau negalima būtų nugin­\nčyti, kad totoriai, Vytauto Lietuvoje\nįkurdinti, net iki mūsų laikų garsūs\nnepriekaištinga dora, narsa ir prie­\nraišumu savo naujai tėvynei. Jų dau­\ngybę su visomis šeimomis į šiuos\nkraštus turėjo būti atkėlęs šaunus\npergalingas karys Vytautas; be jų pa­\ngrindinės gyvenvietės prie Vokės\nupės, be tų, kurie įsikūrė mieste ir\nkurie apsigyveno vietovėje, vadinto­\nje Nemėžiu, per mylią nuo Vilniaus į\nrytus, daug jų įsikūrė pavietuose:\nLydos, Ašmenos ir Naugarduko ir\niš tiesų nėra valdos, ypač pasakyti­\nna tai apie Vilniaus, Trakų ir Nau­\ngarduko pavietus, kur iki šiolei ne­\nbūtų išlikę totorių buveinių pėdsakų\npavadinimuose: Totoriškės, Totorių\nkapinės ir 1."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181495
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kai paskelbus dvylikos metų paliaubas tarp
+    karaliaus ir didžiojo magistro karo veiksmai Karalystėje vis
+    dėlto aprimo, apsilpo ir energingojo Švitrigailos jėgos Lie­
+    tuvoje. Naudodamasis visuotine neapykanta, kurią per sa­
+    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
+    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
+    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
+    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
+    kojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė
+    šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­
+    gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­
+    tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė
+    netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
+    pragaištingų konkurentų, varžybas.
+  citata_rodoma: "Naudodamasis visuotine neapykanta, kurią per sa­\nvo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­\nnėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į\nšį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą\nŽygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­\nkojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė\nšios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­\ngimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­\ntuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė\nnetoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai\npragaištingų konkurentų, varžybas."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181496
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Visi šie rūpesčiai reikalavo
+    taikos, o jos nebuvo matyti. Be Vok. Ordino trukdė dar
+    taikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,
+    vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
+    kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
+  citata_rodoma: "Be Vok. Ordino trukdė dar\ntaikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,\nvedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12383
+
+- id: c-181497
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    72
+    LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-
+    kė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui,
+    turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo). LDK, tu-
+    rinti dešimt skirtingų konfesijų, XVI a. šiuo požiūriu yra lyderė, palyginti
+    su margiausiomis Europos šalimis – Lenkija ir Transilvanija. LDK išsi-
+    skiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-
+    mo ar juridinio įforminimo sparta.
+  citata_rodoma: "L I E T U V O S  I S T O R I J A\n72\nLDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-\nkė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui, \nturėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo). LDK, tu-\nrinti dešimt skirtingų konfesijų, XVI a."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181498
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
+                                  lio, ir Henriko, Vroclavo kunigaikščio, žūtį
+
+       Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
+    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
+    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
+    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181499
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Dar iš to paties
+    pasiuntinio turiu, jog (de Vörste) Vytautas su totorių chanu už­
+    mezgė draugiškus ryšius ir sutarė dėl taikos. Totorių didysis
+    chanas atsiuntė jam labai bičiulišką laišką ir kartu didžiulį žvė­
+    rį, kurį vadina dromedaru. Lai Dievas Jūsų Prakilnybei duoda
+    stiprybės ir sveikatos ilgiems metams.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181500
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Totorių įsiveržimas
+
+    1506 m. vasarą totoriai įsiveržė į LDK valdas
+    gerai nusiteikę. Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks. Pats žygis
+
+    į LDK gilumą prasidėjo gegužės pabaigoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199081
+
+- id: c-181501
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vytauto
+    didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios
+    kloties laikai. Tada Lietuvos sostinėje regėdavo kupranuga­
+    rius, dryžuotom gūniom apdangstytus, turtingomis dovano­
+    mis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas
+    Vytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo
+    totorių chanas Jedigėjus76. Valakijos kunigaikščiai jo globos sie­
+    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
+    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
+    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
+    Žygimantą Kaributaitį, savo sūnėną.
+  citata_rodoma: "Tada Lietuvos sostinėje regėdavo kupranuga­\nrius, dryžuotom gūniom apdangstytus, turtingomis dovano­\nmis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas\nVytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo\ntotorių chanas Jedigėjus76. Valakijos kunigaikščiai jo globos sie­\nkė (1420 m."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181502
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 131."
+  citata_originali: |
+    Ypatingoji šitą vie­
+    nuolių durna visuomet diegė panieką kunigaikščiams ir
+    ponams, kurie nepriklausė vokiečių tautai, todėl jų kai­
+    mynai niekada nebuvo ištikimi bičiuliai. Šiuo laiku vėl
+    ima puldinėti totoriai; tai palietė Lenkiją ir ¡gal Polesę
+    nuo Bugo, be to, didėjanti Lietuvos galybė, žemaičių re­
+    miamų prūsų maištingumas, neramumai Kurše ir prie
+    Uždauguvės Latvijos, stebinantis žemaičių vadų karin­
+    gumas, pagaliau Vokietijoje didėjęs nepalankumas kry­
+    žiaus karams vertė susimąstyti apie ateitį kryžiuočių, ku­
+    riuos Prūsijoje valdyti pradėjo Hartnumdas Grumbachas.
+    1 Iš Foigto tyrinėjimų (Gesch.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181503
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau vėliau
+    jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
+    Užnemunę.
+    Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu
+    priežastis – Žemaitija. Žalgirio pergalė dar nepasiekta ideologiškai – Va-
+    karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
+    jie nugalėjo pasitelkę pagonis, totorius musulmonus.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-181504
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Dalis jų išvengė
+    žūties ir aplinkiniais keliais pasiekė Klecką.
+    Pagrindinėje stovyklavietėje buvę totoriai
+    jau tą pačią dieną - rugpjūčio ketvirtąją -
+    sužinojo apie link jų judančią Lietuvos ka-
+    riuomenę. Totoriai nusprendė laukti savo
+
+    78 KLECKO MŪŠIS 1506 m. rugpjūčio 6 d.
+
+    priešų vietoje, nes jie nebuvo nusiteikę bėgti
+    pametę grobį, kuriam „surinkti“ prireikė ke-
+    leto mėnesių darbo.
+  citata_rodoma: "Pagrindinėje stovyklavietėje buvę totoriai\njau tą pačią dieną - rugpjūčio ketvirtąją -\nsužinojo apie link jų judančią Lietuvos ka-\nriuomenę. Totoriai nusprendė laukti savo\n\n78 KLECKO MŪŠIS 1506 m. rugpjūčio 6 d.\n\npriešų vietoje, nes jie nebuvo nusiteikę bėgti\npametę grobį, kuriam „surinkti“ prireikė ke-\nleto mėnesių darbo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199124
+
+- id: c-181505
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Dalis jų išvengė
+    žūties ir aplinkiniais keliais pasiekė Klecką.
+    Pagrindinėje stovyklavietėje buvę totoriai
+    jau tą pačią dieną - rugpjūčio ketvirtąją -
+    sužinojo apie link jų judančią Lietuvos ka-
+    riuomenę. Totoriai nusprendė laukti savo
+
+    78 KLECKO MŪŠIS 1506 m. rugpjūčio 6 d.
+
+    priešų vietoje, nes jie nebuvo nusiteikę bėgti
+    pametę grobį, kuriam „surinkti“ prireikė ke-
+    leto mėnesių darbo.
+  citata_rodoma: "Pagrindinėje stovyklavietėje buvę totoriai\njau tą pačią dieną - rugpjūčio ketvirtąją -\nsužinojo apie link jų judančią Lietuvos ka-\nriuomenę. Totoriai nusprendė laukti savo\n\n78 KLECKO MŪŠIS 1506 m. rugpjūčio 6 d.\n\npriešų vietoje, nes jie nebuvo nusiteikę bėgti\npametę grobį, kuriam „surinkti“ prireikė ke-\nleto mėnesių darbo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199103
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Levas (Haličo kunigaikštis)]]
@@ -3780,9 +3292,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - Kariavo prieš: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Dmitrijus Doniškis]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Totoriai valdė [[objektai/vietos/Kijevas]]
 - Totoriai keliavo į [[objektai/vietos/Kijevas]]
-- Totoriai puolė [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis)]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Podolė]], [[objektai/vietos/Vengrija]]
-- Totoriai užėmė [[objektai/vietos/Dniepro žiotys]], [[objektai/vietos/Krėva]], [[objektai/vietos/Minskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Zaslavlis]]
+- Totoriai puolė [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis)]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Podolė]]
+- Totoriai užėmė [[objektai/vietos/Dniepro žiotys]], [[objektai/vietos/Minskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Zaslavlis]]
 - Totoriai siuntė į [[objektai/vietos/Naugardukas]]
-- Totoriai surengė žygį į [[objektai/vietos/Lenkija]], [[objektai/vietos/Palestina]], [[objektai/vietos/Sirija]], [[objektai/vietos/Vengrija]]
+- Totoriai surengė žygį į [[objektai/vietos/Palestina]], [[objektai/vietos/Sirija]]
 - Totoriai dalyvavo mūšyje [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]], [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - Totoriai gyveno [[objektai/vietos/Lietuva]], [[objektai/vietos/Nemėžis]], [[objektai/vietos/Vilnius]]

@@ -35,45 +35,7 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
   teiginys: "Sąjungininkai sustojo ties Laubner ežeru."
   pagrindžia:
     - c-37491
-
-<a id="claim-t-184307"></a>
-- t-002
-  global_id: t-184307
-  teiginys: "Sąjungininkai sustojo ties Laubner ežeru."
-  pagrindžia:
     - c-167680
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Sąjungininkai sustojo ties Laubner ežeru. Čia
-    karalius įsitaisė palapinę pamaldoms. Ir kai karalius ėjo mels­
-    tis (galėjo būti ryto kokia 10 valanda), jam buvo pranešta, kad
-    Grünvaldo (Žalgirio) apylinkėse pasirodžiusi priešų vėliava, po
-    jos ir kita.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Sąjungininkai sustojo ties Laubner ežeru.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Netrukus
-    nusigiedrijo. Sąjungininkai sustojo ties Laubner ežeru. Čia
-    karalius įsitaisė palapinę pamaldoms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -108,5 +70,3 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184307

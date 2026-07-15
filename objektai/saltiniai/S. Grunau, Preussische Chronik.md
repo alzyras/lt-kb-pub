@@ -41,52 +41,13 @@ Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs mil�
   teiginys: "S. Grunau rašė, kad Romuvoje augusiame milžiniškame ąžuole stovėjo Perkūno, Patulo ir Patrimpo stabai."
   pagrindžia:
     - c-61636
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'S. Grunau rašė, kad Romuvoje augusiame milžiniškame ąžuole stovėjo Perkūno, Patulo ir Patrimpo stabai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgietis rašo, kad prūsai dievino griaustinį (pro deo coluerunt [...] tonitrua).
-    XVI a. 1-oje pusėje S. Grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas
-    ąžuolas, kurio kamienas buvęs padalytas  į tris lygias dalis, kiekvienoje jų — iškirstas
-    langas ar uoksas, juose stovėję dievų trejybės stabai; Perkūno, Patulo ir Patrimpo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'S. Grunau Krivį vadino Krivių Krivaičiu ir siejo šį vardą su Brutenio ir Videvučio tradicija.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Senojoje, ikikryžiuotiškojo laikotarpio prūsų teisėje, vad. Brutenio—Videvučio (dėl
-    vardo žr. Būga K. 1, p. 187—189) įstatyme, pabrėžiama, kad niekas nesikreiptų į mūsų
-    dievus be Krivio (Grunau ir vėlesni autoriai vadina jį Krivių Krivaičiu — manyta, kad šis
-    dvigubas vardas atsirado dirbtinai; dabar galvojama, kad dvigubas vardas priklausė
-    dviem minėtiems broliams — dvyniams, kurių vienas — vadas, kitas — žynys — Grunau
-    S., Preussische Chronik, 1, p. 69; Būga K., 1, p. 173; Топоров B. H., Vilnius..., p. 63—
-
-    tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
-    ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61636
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dusburgietis rašo, kad prūsai dievino griaustinį (pro deo coluerunt [...] tonitrua).
     XVI a. 1-oje pusėje S. Grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas
@@ -102,8 +63,7 @@ Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs mil�
 - id: c-61637
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 67-68"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67-68."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Senojoje, ikikryžiuotiškojo laikotarpio prūsų teisėje, vad. Brutenio—Videvučio (dėl
     vardo žr. Būga K. 1, p. 187—189) įstatyme, pabrėžiama, kad niekas nesikreiptų į mūsų

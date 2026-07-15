@@ -45,23 +45,6 @@ Lukšienė (BBK, t.
 - susijęs iš [[objektai/autoriai/A. Šidlauskas.md#claim-t-97146|A. Šidlauskas]]: A. Šidlauskas nagrinėjo mokyklų reformą Lietuvoje XVIII a. pabaigoje.
 - susijęs iš [[objektai/autoriai/A. Šidlauskas.md#claim-t-97148|A. Šidlauskas]]: A. Šidlauskas nagrinėjo mokyklų reformą Lietuvoje XVIII a. pabaigoje.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179533|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'M. Lukšienė rašė apie bibliotekas Lietuvoje XIX a. pradžioje ir to laikotarpio pradines mokyklas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Apie bibliotekas Lietuvoje XIX a.
-    pradžioje rašė M. Lukšienė (BBK, t. 5, 1966, 109-136 p.), ji
-    rašė ir apie to laiko pradines mokyklas^124.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-30731

@@ -56,40 +56,13 @@ Nenurodyta
   teiginys: "Narbutas teigia, kad dievo Santvara stabas rastas Prilvice su užrašu runomis Swaistix29, kur tarp 72 stabų, atkastų žemėje, tikriausiai ne vie nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotritai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo mis30."
   pagrindžia:
     - c-177197
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas teigia, kad dievo Santvara stabas rastas Prilvice su užrašu runomis Swaistix29, kur tarp 72 stabų, atkastų žemėje, tikriausiai ne vie nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotritai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo mis30.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Buvo ir lietuvių valdo­
-    vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
-    taitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
-    Dievo Santvara stabas rastas Prilvice su užrašu runomis
-    Swaistix29, kur tarp 72 stabų, atkastų žemėje, tikriausiai ne vie­
-    nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotri-
-    tai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo­
-    mis30. Viename dokumente, rusiškai rašytame XVI amžiuje
-    Lydos apskrityje ant labai patvaraus popieriaus, pastebėjau
-    vandenženklį arba fabriko ženklą, kurio atvaizdas yra IV lente­
-    27 Išsamesnių žinių apie senovės prūsų monetas yra Lybknechto
-    (Liebknecht) veikale “De antiquis nummis aliquando effosis in Prussia
-    Regali et adjacentibus Regionibus”.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Buvo ir lietuvių valdo­
     vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-

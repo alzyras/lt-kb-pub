@@ -55,8 +55,8 @@ Nenurodyta
   teiginys: "214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais."
   pagrindžia:
     - c-63480
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Terminai buvo skaičiuojami kasdien įkertant ženklus į medį arba mezgant mazgus apyvaruose ar juostoje iki susitarimo vykdymo dienos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -70,34 +70,19 @@ Nenurodyta
   citata_rodoma: ''
   statusas: verified
 
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: '214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    214 Čia minimi seni skaičiavimo budai mazgeliais,  įkirtimais. Apie prūsų  laiko
-    skaičiavimą,  buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.
-    Życie..., p. 116 ir kt. Apie baltų kultūrą — Gimbutienė M. Baltai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 ## Citatos
 
 - id: c-63480
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 70"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    214 Čia minimi seni skaičiavimo budai mazgeliais,  įkirtimais. Apie prūsų  laiko
-    skaičiavimą,  buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.
+    214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais. Apie prūsų laiko
+    skaičiavimą, buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.
     Życie..., p. 116 ir kt. Apie baltų kultūrą — Gimbutienė M. Baltai.
   citata_rodoma: "214 Čia minimi seni skaičiavimo budai mazgeliais,  įkirtimais. Apie prūsų  laiko\nskaičiavimą,  buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.\nŻycie..., p. 116 ir kt. Apie baltų kultūrą — Gimbutienė M. Baltai."
   statusas: verified

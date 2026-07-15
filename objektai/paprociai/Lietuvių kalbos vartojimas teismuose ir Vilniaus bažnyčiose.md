@@ -48,10 +48,15 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
+Nenurodyta
 
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174987
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Atvirkščiai,
     visi prieinami tyrinėjimai rodo, kad toji tauta skyrėsi nuo lietuvių.
@@ -59,8 +64,8 @@ Nenurodyta
     džius sakydavo lietuviškai, o į knygas įrašydavo rusiškai, loty­
     niškai arba lenkiškai1. Vilniuje lietuviškus pamokslus kunigai iš
     ambonų sakydavo iki XVII amžiaus pirmojo ketvirčio2.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  citata_rodoma: "Yra dokumentinių įrodymų, jog teismuose XVI amžiuje nuospren­\ndžius sakydavo lietuviškai, o į knygas įrašydavo rusiškai, loty­\nniškai arba lenkiškai1. Vilniuje lietuviškus pamokslus kunigai iš\nambonų sakydavo iki XVII amžiaus pirmojo ketvirčio2."
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

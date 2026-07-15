@@ -2,7 +2,9 @@
 tipas: asmuo
 pavadinimas: 'Stanislovas Augustas'
 saltiniai:
+  - 'Lenkai Lietuvoje Dr. J. Basanavičius'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos: []
 date_start: ''
@@ -48,6 +50,20 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   teiginys: "Vienas kaimietis man pasakojo, kad valdant karaliui Stanislovui Augustui, maždaug prieš 38 me tus, tai yra apie 1789 metus, kažkokie ponai, atvažiavę iš Gar dino apžiūrėti mineralinių šaltinių, pasiėmė su savim visus mo linius dubenėlius, kurių seniau niekas."
   pagrindžia:
     - c-177117
+
+<a id="claim-t-200767"></a>
+- t-003
+  global_id: t-200767
+  teiginys: "Italas Righi buvo karaliaus Stanislovo Augusto dvaro skulptorius."
+  pagrindžia:
+    - c-184112
+
+<a id="claim-t-200892"></a>
+- t-004
+  global_id: t-200892
+  teiginys: "Basanavičiaus tekste Sigismanto Augusto gadynė siejama su vergijos įvedinėjimo Lietuvoje pradžia XVI amžiuje."
+  pagrindžia:
+    - c-184235
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170087|Stanislovas Augustas Poniatovskis (valdovas)]]: 1792 m. liepos 23 d. Varšuvoje Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai.
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170088|Stanislovas Augustas Poniatovskis (valdovas)]]: Stanislovas Augustas Poniatovskis buvo išrinktas LLV valdovu, o jo valdymo laikas 1764–1795 m. tapo permainų, reformų bandymų ir valstybės agonijos epocha.
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170092|Stanislovas Augustas Poniatovskis (valdovas)]]: Prie Varšuvos Stanislovas Augustas nepasirodė fronte, neišnaudojo visuotinės mobilizacijos ir nesuformavo miestiečių milicijos.
@@ -65,61 +81,6 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 - susijęs iš Lenkija: Lietuvos ir Lenkijos tautų nelaimė paskatino visuomenes ir karalių bandyti gelbėti ATR valstybę.
 - susijęs iš Prancūzija: Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.
 - susijęs iš [[objektai/zodynas/dignitoriai.md#claim-t-77793|dignitoriai]]: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Stanislovas Augustas suteikė privilegiją, dėl kurios Akademijos spaustuvė turėjo karališkosios vardą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taigi:
-    180
-
-    ## Puslapis 197
-
-    Il KNYGA
-    1631 metais Akademijos kolegija, Dievo Kūno koplyčios
-    sutikimą turėdama, įgijo savo nuosavybei minėtą sklypą ir
-    mūrinį namą, kurį vėlesniais laikais toji pati Akademijos ko­
-    legija spaustuve pavertė.
-    Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­
-    las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­
-    gusto III ir Stanislovo Augusto.
-    Nėra jokių kitų įsipareigojimų, išskyrus visuomenei tei­
-    kiamą naudą ir paskutiniojoje privilegijoje išsakytą sąlygą,
-    kad nuo kiekvienos naujai išspausdintos knygos po vieną
-    egzempliorių privalo duoti Lietuvos kancleriams ir Viešajai
-    bibliotekai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vienas kaimietis man pasakojo, kad valdant karaliui Stanislovui Augustui, maždaug prieš 38 me tus, tai yra apie 1789 metus, kažkokie ponai, atvažiavę iš Gar dino apžiūrėti mineralinių šaltinių, pasiėmė su savim visus mo linius dubenėlius, kurių seniau niekas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dar pastebėjau su­
-    daužytų ašarinių liekanų; keleto šukių vidus buvo dengtas tam­
-    siai rudos spalvos glazūra. Vienas kaimietis man pasakojo, kad
-    valdant karaliui Stanislovui Augustui, maždaug prieš 38 me­
-    tus, tai yra apie 1789 metus, kažkokie ponai, atvažiavę iš Gar­
-    dino apžiūrėti mineralinių šaltinių, pasiėmė su savim visus mo­
-    linius dubenėlius, kurių seniau niekas nedrįsdavo judinti; vė­
-    liau smalsūs svečiai surinko ir šukes. Iš menkų jų likučių ir
-    vietinių pasakojimų įsitikinau, kad tos ašarinės buvo mažučiai
-    puodeliai, galėję turėti vos pusantro colio skersmenį ir gal iki
-    dviejų colių gylio, su šiek tiek siaurėjančiu kakleliu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-83836
@@ -155,8 +116,7 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 - id: c-177117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 375"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dar pastebėjau su­
     daužytų ašarinių liekanų; keleto šukių vidus buvo dengtas tam­
@@ -175,3 +135,37 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194721
+
+- id: c-184112
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 62"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 62."
+  citata_originali: |
+    Nojaus aukojimo grupė frontono viduje kupina veržlaus
+    judesio; nišose tūnančių statulų charakteris — tapybiškas ir afektuotas.
+    Tuose italo Righi, karaliaus Stanislovo Augusto dvaro skulptoriaus, kūri­
+    niuose skamba gęstanti baroko melodija. Gi trijų medinių, skarda apkalstytų
+    statulų frontono kampuose (vidury — šv.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200767
+
+- id: c-184235
+  autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
+  šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
+  puslapiai: "PDF 26"
+  indeksas: "Jonas Basanavičius; V. Gintautas (vertė), Lenkai Lietuvoje Dr. J. Basanavičius, PDF 26."
+  citata_originali: |
+    Jau gadynēje Sigismanto Au­
+    gusto, XVI šim tm etyje, jie pradėjo Lietuvon įves-
+     dinēti vergiją....
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200892

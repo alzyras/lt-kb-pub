@@ -54,28 +54,6 @@ Kad bažnyčia būtų geriau tvarkoma ir būtų parinktas tinkamas asmuo užimti
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172820|Vilniaus magistratas]]: 1654 m. liepos 4 d. įvykdytas sprendimas byloje dėl patronato teisių patenkino Vilniaus magistrato ieškinį.
 - susijęs iš 1654 m. asesorių sprendimas ir karaliaus raštas dėl ginčo su Vilniaus magistratu: 1654 m. kovo 2 d. asesorių sprendimas byloje su Vilniaus magistratu ir tos pačios dienos karaliaus raštas buvo susiję su sprendimo vykdymu.
 - susijęs iš Vilniaus kapitulos 1581 m. Jus Patronatus perleidimo aktas: 1581 m. birželio 9 d. Vilniaus kapitula perleido jėzuitų kolegijos rektoriams teisę siūlyti Šv. Jono bažnyčios vikarus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1581 m. birželio 9 d. Vilniaus kapitula atsisakė Jus Patronatus teisės siūlyti vikarus ir perleido ją jėzuitų Akademijos kolegijos rektoriams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jono bažnyčios
-    užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.
-    1581 metų birželio 9 dieną. Kad bažnyčia būtų geriau
-    tvarkoma ir būtų parinktas tinkamas asmuo užimti nuolati­
-    nio vikaro pareigas, Vilniaus kapitula, Jus Patronatus teisės
-    siūlyti į vikarus atsisako ir perleidžia Akademijos kolegijos
-    Rektoriams tėvams jėzuitams, kas taip pat 1651 metų spalio
-    2 dieną patvirtinta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82507

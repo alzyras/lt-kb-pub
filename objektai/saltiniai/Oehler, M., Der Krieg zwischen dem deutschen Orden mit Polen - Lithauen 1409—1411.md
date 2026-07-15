@@ -44,22 +44,6 @@ Oehler, M., Der Krieg zwischen dem deutschen Orden mit Polen - Lithauen 1409—1
   teiginys: "M. Oehlerio „Der Krieg zwischen dem deutschen Orden mit Polen-Lithauen 1409–1411“ buvo išleistas Elbinge 1910 m. su žemėlapiais."
   pagrindžia:
     - c-38424
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lwów, 1923.
-    Oehler, M., Der Krieg zwischen dem deutschen Orden mit Polen -
-    Lithauen 1409—1411, Elbląg, 1910 (Pridėta ir žemėlapiai).
-    Prochaska, A., Dzieje Witolda, Vilnius, 1914.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

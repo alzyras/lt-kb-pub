@@ -35,8 +35,8 @@ Narbutas cituoja Naruševičių, kuris gotų išėjimą aiškina kaip dakų ir g
   teiginys: "Narbutas nurodo Naruševičiaus aiškinimą, kad dakai ir getai po romėnų pralaimėjimų pasikvietė gotus, bet pats su juo nesutinka."
   pagrindžia:
     - c-174998
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo Naruševičiaus aiškinimą, kad dakai ir getai po romėnų pralaimėjimų pasikvietė gotus, bet pats su juo nesutinka.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -61,16 +61,18 @@ Narbutas cituoja Naruševičių, kuris gotų išėjimą aiškina kaip dakų ir g
 - id: c-174998
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 84"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 84."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Naruševičius šį išėjimą aiškina kitaip. Jis rašo:
-    „Panašu į tiesą, kad dakai su getais, prisimindami tiek iš
-    romėnų patirtų pralaimėjimų, pasikvietė pas save gotus,
-    pasiryžę veikiau jungtis su jais negu būti svetimų val­
-    domi“1. Tačiau su tuo sunku sutikti, nes gotų kelionės
-    iš Vakarų į Rytus nėjo tiesiog Dnestro ar Dunojaus link,
-    1 Hist.
+    161 krikščioniško­
+    sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
+    savo karaliumi Filimeru, pereidami iš Germanijos į Sar-
+    matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­
+    met ribojo senovės geografų taip pavadintus kraštus. Bet
+    atsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir
+    buvo nuneštas srovės. Yra senovės istorikų prielaidų, jog
+    Filimeras, baimindamasis didelio žmonių susigrūdimo,
+    nes visi žmonės norėjo iškeliauti, tyčia pagreitino šį įvy­
+    kį. Taip pusė gotų gyventojų šįsyk liko kitapus Vyslos.
   citata_rodoma: "Naruševičius šį išėjimą aiškina kitaip. Jis rašo:\n  „Panašu į tiesą, kad dakai su getais, prisimindami tiek iš\n  romėnų patirtų pralaimėjimų, pasikvietė pas save gotus,\n  pasiryžę veikiau jungtis su jais negu būti svetimų valdo­\n  mi“1. Tačiau su tuo sunku sutikti, nes gotų kelionės"
   statusas: verified
   teiginio_tipas: faktas

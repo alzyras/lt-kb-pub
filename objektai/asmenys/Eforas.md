@@ -7,15 +7,15 @@ datos:
   - '1815 m.'
 date_start: '1815'
 date_end: ''
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - asmuo
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,8 +43,8 @@ Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo au
   teiginys: "Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo autorius, kurio veikalai išliko fragmentais."
   pagrindžia:
     - c-174380
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo autorius, kurio veikalai išliko fragmentais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -83,25 +83,17 @@ Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo au
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Eforas
+    P. 34).
+    p. 49* — Plutarchas (Plutarchos; apie 46—apie 127 m.),
+    istorikas, filosofas, veikalo „Paralelinės bio­
+    grafijos“ (apie 105 ar 115) autorius; Strabo-
+    nas (Strabo; 64 ar 63 m. pr. m. e.), graikų
+    geografas, istorikas, „Istorijos“ (47 knygos)
+    ir „Geografijos“ (17 knygų) autorius. Eforas
     (Ephoros), garsus graikų istorikas, Izokrato
     mokinys, didžiulio 30 tomų istorinio veikalo
-    autorius. Jis pirmasis atskyrė mitologiją ir geo-
-    398
-
-    ## Puslapis 409
-
-    p. 49**
-    p. 50*
-    p. 51*
-    p. 51**
-    p. 52*
-    p. 52**
-    p, 53*
-    p. 53**
-    p. 54*
-    grafiją nuo grynos istorijos. Veikalai išliko tik
-    fragmentuose. Buvo išleisti 1815 metais.
+    autorius.
+  citata_rodoma: "Eforas\n(Ephoros), garsus graikų istorikas, Izokrato\nmokinys, didžiulio 30 tomų istorinio veikalo\nautorius. Jis pirmasis atskyrė mitologiją ir geo-\n398\n\n## Puslapis 409\n\np. 49**\np. 50*\np. 51*\np. 51**\np. 52*\np. 52**\np, 53*\np. 53**\np. 54*\ngrafiją nuo grynos istorijos. Veikalai išliko tik\nfragmentuose. Buvo išleisti 1815 metais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

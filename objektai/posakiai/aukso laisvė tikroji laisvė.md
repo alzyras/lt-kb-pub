@@ -49,58 +49,6 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   teiginys: "Tikrąja laisve vadintą santvarką bajorija brangino ir saugojo nuo pakeitimų."
   pagrindžia:
     - c-02321
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
-    turėdavo iširti. O visa ta santvarka vis dėlto būdavo vadinama tik-
-    rąja laisve. Bajorijos masės ją brangino, stropiai žiūrėjo, kad ji
-    nebūtų pakeista, nes tik tokioje santvarkoje kiekvienas jautėsi turįs
-    didelę vertę ir galįs pasipelnyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Diskusijose dėl „aukso laisvės“ vieni siūlė palikti pagrindinius jos principus, o kiti siekė panaikinti liberum veto.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Suprasdami visas savo krašto visuomenės santvar-
-    kos blogybes, jie ėmė ieškoti išeities. Vieni bandė siūlyti aptvarkyti
-    gyvenimą, paliekant nepaliestus pagrindinius „aukso laisvės"
-    principus, o kiti net siūlė panaikinti pagrindinę blogybę — _liberum
-    veto._ Atsirado tais klausimais ir knygų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik dėl Maskvos nusilpimo tepavyko atgauti didelius žemių
-    plotus.
-    Kaip tik Zigmanto laikais tiek Lenkijoje, tiek Lietuvoje įsi-
-    galėjo vėliau dar labiau įsivyravusi vidaus netvarka. Didžiū-
-    nams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-
-    lėjo vadinamoji „aukso laisvė": kas tik buvo galin-
-    gas, galėjo nieko neklausyti ir elgtis kaip tinkamas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

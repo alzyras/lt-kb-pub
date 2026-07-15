@@ -34,36 +34,13 @@ Naruševičius, Narbuto teigimu, rašydamas apie jotvingius rėmėsi Kapitolinu 
   teiginys: "Naruševičius, Narbuto teigimu, rašydamas apie jotvingius rėmėsi Kapitolinu ir vadino juos Cestobochy."
   pagrindžia:
     - c-174531
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Naruševičius, Narbuto teigimu, rašydamas apie jotvingius rėmėsi Kapitolinu ir vadino juos Cestobochy.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Gal todėl,
-    kad jotvingiai laikėsi lietuvių, kurie garbino nesuskai­
-    čiuojamą daugybę dievų, religinių tradicijų; slavai šia
-    prasme taip nedarė, nes, nors slavų mitologijoje buvo
-    nemažai dievų, jiems lenkėsi ne visos gentys. Naruševi­
-    čius, rašydamas apie šią tautą, rėmėsi Kapitolinu ir aiš­
-    kiai vadino jas Cestobochy1. Pasak jo, jiems priklausė
-    lenkiški kraštai prie Bugo, jie kovojo su romėnais mar-
-    komanų lygoje greta roksolanų, alanų ir peucinų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 111"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 111."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Gal todėl,
     kad jotvingiai laikėsi lietuvių, kurie garbino nesuskai­

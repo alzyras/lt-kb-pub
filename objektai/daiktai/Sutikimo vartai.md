@@ -61,24 +61,6 @@ Nenurodyta
   teiginys: "1927 m. vasarą ir rudenį Antaną Smetoną miesteliuose iškilmingai sutikdavo prie gėlėmis ir vainikais išdabintų sutikimo vartų."
   pagrindžia:
     - c-22303
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1927 m. vasarą ir rudenį Antaną Smetoną miesteliuose iškilmingai sutikdavo prie gėlėmis ir vainikais išdabintų sutikimo vartų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prezidentas A. Smetona visą 1927 m. vasarą ir rudenį, lydimas kari-
-    ninkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš mieste-
-    lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,
-    moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po jų – prie ati-
-    tinkamai išpuoštų vietos žydų vartų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

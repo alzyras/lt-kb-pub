@@ -49,45 +49,12 @@ Vartojamas kaip vardo „Vizinas“ aiškinimas ir kaip liaudiškas, dialektinis
   pagrindžia:
     - c-175062
 
-<a id="claim-t-192198"></a>
-- t-002
-  global_id: t-192198
-  teiginys: "Teodoro Narbuto aiškinimu, Wizin arba Vizinas Lydos apskrities lietuvių dialekte reiškė šliužą, bjaurų šliaužiojantį padarą."
-  pagrindžia:
-    - c-175062
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Čia dera prisiminti ir įžymaus Siaurės kraštų kariūno,
-    Olandijos karaliaus Jarmeriko žygius. Jis jau seniau, dar
-    jo tėvui karaliui Sivarui gyvenant, kai kariavo Pamaryje
-    1 Wizin, Vizinas lietuvių kalba, Lydos apskrityje vartojamu dia­
-    lektu, reiškia šliužą, bjaurų, šliaužiojantį padarą.
-    2 Tadas
-    Cackis
-    (Martyno Galo ir Vincento
-    Kadlubeko
-    lenkų
-    istorijos nagrinėjimuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-175062
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 244"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Čia dera prisiminti ir įžymaus Siaurės kraštų kariūno,
     Olandijos karaliaus Jarmeriko žygius. Jis jau seniau, dar
@@ -107,5 +74,3 @@ Vartojamas kaip vardo „Vizinas“ aiškinimas ir kaip liaudiškas, dialektinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192198
-    - t-192580
-    - t-003

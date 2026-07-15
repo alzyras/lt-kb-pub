@@ -35,8 +35,8 @@ Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų
   teiginys: "Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų vaivadijoje, taip pat latviai ir estai."
   pagrindžia:
     - c-171954
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų vaivadijoje, taip pat latviai ir estai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -63,13 +63,13 @@ Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    127
-
-    ## Puslapis 127
-
-    Lietuva į.Liethua)
-    Laisvės, malonumų, džiaugsmo deivė. Ją tebežino lietu­
-    viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
+    - R.J.), dukters -
+    Dalia (Dala) arba Dahla. Murgų, arba Tautų sambūrio, rūmai
+    buvo pačioje toliausioje šiaurėje.
+    Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
+    radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
+    šytoje ant pergamento rusų kalba, kuria bajorui Rimvydui
+  citata_rodoma: "127\n\n## Puslapis 127\n\nLietuva į.Liethua)\nLaisvės, malonumų, džiaugsmo deivė. Ją tebežino lietu­\nviai, ypač senojoje Trakų vaivadijoje, latviai ir estai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

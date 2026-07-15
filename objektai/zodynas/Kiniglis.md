@@ -65,38 +65,13 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
   teiginys: "Narbutas aiškina, kad „Paparona“ arba „Kiniglis“ reiškia ne kiškį, kaip rašyta „Herbyne“, o triušį."
   pagrindžia:
     - c-175130
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Luck, 1780.
-    181 /P. 327, 1 pastraipos tęsinys/
-    Apskritai, įsiskaičius į senuosius lenkų herbų pavadinimus, ne
-    viename jų randame lietuvių kalbai būdingų elementų. Pavyzdžiui,
-    Paparona arba Kiniglis, tai reiškia ne kiškį, kaip kad pasakyta
-    „Herbyne“ (aiškino tik pagal piešinį ir iš lotynų kalbos išvertė
-    žodį Lepus)', bet triušį, nes lietuvių kalboje žodis Kiniglis būtent
-    tą
-    ir
-    reiškia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-    - t-001
 
 ## Citatos
 
 - id: c-175130
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 510"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Luck, 1780.
     181 /P. 327, 1 pastraipos tęsinys/
@@ -114,6 +89,6 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-192329
     - t-192330
     - t-192331
-    - t-192329

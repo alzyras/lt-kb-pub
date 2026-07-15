@@ -45,29 +45,6 @@ Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikšči
   pagrindžia:
     - c-75379
 - susijęs iš [[objektai/daiktai/Vytauto paveikslas.md#claim-t-65004|Vytauto paveikslas]]: 1930 m. Pasvalyje ypatinga ceremonija buvo pagerbtas po Lietuvą keliavęs Vytauto Didžiojo paveikslas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vladimiras Dubeneckis buvo 1935 m. atidaryto Vytauto Didžiojo karo muziejaus architektas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vytauto Didžiojo kulto kūrimo momentas: 1930 m. Pasvalyje
-    ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą
-    kunigaikščio paveikslas
-     Vytauto Didžiojo karo muziejus, atidarytas 1935 m.
-    Architektas Vladimiras Dubeneckis (V. Augustino nuotrauka)
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    163
-    negėrė vyno ir alaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-75379

@@ -30,48 +30,34 @@ media_all_json: |-
 
 ## Santrauka
 
-Vienok jo istorija yra trumpa ir daug dar trūksta, užvis toje daly, kurioj aprašo darbus pagonų lietuvių, žemaičių; bet jaunam lietuviui ar že maičiui, norinčiam išmokti lotyniškai, nebreikia geres nės knygos" (Raštai.
+Kojelavičius teigė, kad po Liublino unijos Lietuva liko federacinė valstybė, kurios savarankiškumą laidavo 1588 m. Lietuvos Statutas.
 
 ## Teiginiai
 
 <a id="claim-t-193533"></a>
 - t-001
   global_id: t-193533
-  teiginys: "Vienok jo istorija yra trumpa ir daug dar trūksta, užvis toje daly, kurioj aprašo darbus pagonų lietuvių, žemaičių; bet jaunam lietuviui ar že maičiui, norinčiam išmokti lotyniškai, nebreikia geres nės knygos\" (Raštai."
+  teiginys: "Kojelavičius teigė, kad po Liublino unijos Lietuva liko federacinė valstybė, kurios savarankiškumą laidavo 1588 m. Lietuvos Statutas."
   pagrindžia:
     - c-176213
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vienok jo istorija yra trumpa ir daug dar trūksta, užvis toje daly, kurioj aprašo darbus pagonų lietuvių, žemaičių; bet jaunam lietuviui ar že maičiui, norinčiam išmokti lotyniškai, nebreikia geres nės knygos" (Raštai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vienok jo istorija yra trumpa ir
-    daug dar trūksta, užvis toje daly, kurioj aprašo darbus
-    pagonų lietuvių, žemaičių; bet jaunam lietuviui ar že­
-    maičiui, norinčiam išmokti lotyniškai, nebreikia geres­
-    nės knygos" (Raštai. T. 1. V., 1976, p. 37—38).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-176213
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 29"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 29."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vienok jo istorija yra trumpa ir
-    daug dar trūksta, užvis toje daly, kurioj aprašo darbus
-    pagonų lietuvių, žemaičių; bet jaunam lietuviui ar že­
-    maičiui, norinčiam išmokti lotyniškai, nebreikia geres­
-    nės knygos" (Raštai. T. 1. V., 1976, p. 37—38).
+    žemvaldžiai pravoslavai nepelnytai naudojosi lygiomis
+    su katalikais pilietinėmis teisėmis, ir aukštino K. L. Sa­
+    piegą už ukrainiečių sukilimo slopinimą po Liublino
+    (1569) unijos, kai tų teisių nebebuvo paisoma. Šią A.
+    Kojelavičiaus pažiūrą perėmė buržuazinė istoriografi­
+    ja, teigianti, kad po unijos Lietuva likusi federacinė
+    valstybė, jos savarankiškumą laidavęs 1588 m. Lietu­
+    vos Statutas ir ji žuvusi 1795 m. per paskutinįjį Žeč­
+    pospolitos padalijimą.
+  citata_rodoma: "Vienok jo istorija yra trumpa ir\ndaug dar trūksta, užvis toje daly, kurioj aprašo darbus\npagonų lietuvių, žemaičių; bet jaunam lietuviui ar že­\nmaičiui, norinčiam išmokti lotyniškai, nebreikia geres­\nnės knygos\" (Raštai. T. 1. V., 1976, p. 37—38)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

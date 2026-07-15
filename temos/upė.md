@@ -6,8 +6,8 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 248
-graph_hub: false
+tema_objektu_skaicius: 251
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 248.
+Objektų skaičius: 251.
 
 ## Kaip naudoti
 
@@ -24,6 +24,13 @@ Objektų skaičius: 248.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Henrikas Cutsvertas]]
+- [[objektai/asmenys/Nodamas]]
+
+### Grupės
+- [[objektai/grupes/Kuršiai]]
 
 ### Vietos
 - [[objektai/vietos/Aismares]]
@@ -48,9 +55,9 @@ Objektų skaičius: 248.
 - [[objektai/vietos/Belčica]]
 - [[objektai/vietos/Berezina]]
 - [[objektai/vietos/Bobro upė]]
-- [[objektai/vietos/Būgas]]
-- [[objektai/vietos/Ceklis]]
-- [[objektai/vietos/Cepra]]
+- [Būgas](../objektai/vietos/B%C5%ABgas)
+- [Ceklis](../objektai/vietos/Ceklis)
+- [Cepra](../objektai/vietos/Cepra)
 - [Cepro upė](../objektai/vietos/Cepro%20up%C4%97)
 - [Cepros upė](../objektai/vietos/Cepros%20up%C4%97)
 - [Daugava](../objektai/vietos/Daugava)
@@ -202,7 +209,6 @@ Objektų skaičius: 248.
 - [Torunė](../objektai/vietos/Torun%C4%97)
 - [Treiderės upė](../objektai/vietos/Treider%C4%97s%20up%C4%97)
 - [Turmanto stotis](../objektai/vietos/Turmanto%20stotis)
-- [Tykioji Sosna](../objektai/vietos/Tykioji%20Sosna)
 - [Ugra](../objektai/vietos/Ugra)
 - [Ugros upė](../objektai/vietos/Ugros%20up%C4%97)
 - [Ukmergės pilis](../objektai/vietos/Ukmerg%C4%97s%20pilis)
@@ -274,3 +280,6 @@ Objektų skaičius: 248.
 - [Žirnajos upelis](../objektai/vietos/%C5%BDirnajos%20upelis)
 - [Žirnajų ežeras](../objektai/vietos/%C5%BDirnaj%C5%B3%20e%C5%BEeras)
 - [Žitomiras](../objektai/vietos/%C5%BDitomiras)
+
+### Įvykiai
+- [Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)](../objektai/ivykiai/Sventopelko%20taikos%20sulau%C5%BEymas%2C%20Kujavijos%20nusiaubimas%20ir%20Santyro%20pilies%20pastatymas)

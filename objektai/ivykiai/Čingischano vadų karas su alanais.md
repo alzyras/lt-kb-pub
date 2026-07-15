@@ -53,39 +53,13 @@ Nenurodyta
   teiginys: "Narbutas rašo, kad 1223 m. Čingischano vadai kariavo toje pačioje pusėje su alanais, kuriems su poloviečiais priklausė Dagestanas."
   pagrindžia:
     - c-173960
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad 1223 m. Čingischano vadai kariavo toje pačioje pusėje su alanais, kuriems su poloviečiais priklausė Dagestanas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Erbelotas* mini vieną
-    alanų karaliuką, viešpatavusį savo genties ordoje, kuri
-    klajojo kažkur į šiaurę nuo Derbento1. Čingischano va­
-    dai irgi kariavo 1223 metais toje pačioje ¡pusėje su ala­
-    nais, kuriems pusiau su poloviečiais priklausė Dagesta­
-    nas, nors jų kilmė ir kalba buvo visiškai skirtingos2. Ka­
-    talikų vienuoliai Karpinas ir Rusbergas, arba Rubrikvis,
-    keliavę XIII amžiuje per Rytus į didelę mongolų ordą,
-    kalba apie Kaukazo alanus, kuriuos taip pat vadina Jassi,
-    Asses, Aries; jie tuomet buvę krikščionys, gabūs kalviai
-    ir šaltkalviai, gaminę puikius ginklus ir saugoję savo ne­
-    priklausomybę3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173960
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 65"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 65."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Erbelotas* mini vieną
     alanų karaliuką, viešpatavusį savo genties ordoje, kuri

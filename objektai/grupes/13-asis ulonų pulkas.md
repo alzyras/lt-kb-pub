@@ -35,21 +35,6 @@ media_all_json: |-
   teiginys: "Spalio 26 d. 13-asis ulonų pulkas apėjo kairįjį lietuvių I divizijos flangą ir prasiveržė iki Ukmergės prieigų."
   pagrindžia:
     - c-40730
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Spalio 26 d. lenkai puola visu frontu, tačiau tiesioginė
-    ataka nerezultatyvi. 13 ulonų pulkas apeina kairįjį lietu-
-    vių I divizijos flangą ir prasiveržia iki Ukmergės prieigų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

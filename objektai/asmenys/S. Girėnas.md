@@ -34,27 +34,6 @@ Girėno žygdarbį ir t.
   teiginys: "Sovietmečiu buvo leista rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį."
   pagrindžia:
     - c-21961
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sovietmečiu buvo leista rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kazimiero bažnyčioje atidarytas Ateiz-
-    mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
-    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
-    M. K. Čiurlionio muziejaus senojo meno ekspozicija. Pradėti naudoti he-
-    rojinės istorijos puslapiai – LDK kova su kryžiuočiais, netgi idealizuoti
-    pagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir
-    S. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-
-    te ir naudota antivakarietiškumui ir antikatalikybei skleisti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

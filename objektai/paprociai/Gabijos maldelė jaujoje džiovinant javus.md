@@ -57,8 +57,8 @@ Nenurodyta.
   teiginys: "Pasak Narbuto perteikiamo Lasickio, šlapią vasarą jaujose džiovinant javus buvo nusilenkiama deivei Gabijai ir kalbama maldelė."
   pagrindžia:
     - c-170786
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Narbuto perteikiamo Lasickio, šlapią vasarą jaujose džiovinant javus buvo nusilenkiama deivei Gabijai ir kalbama maldelė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -86,19 +86,21 @@ Nenurodyta.
 - id: c-170786
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 99"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 99."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lasickis pažįstąjį Gabijos (Gabie) vardu ir pateikia tokių
-    duomenų apie jį: „Kai vasara Šlapia ir sunku išdžiovinti javus
-    lauke, juos džiovina jaujose ir, nusilenkdami deivei Gabijai,
-    maldauja jos šitokiais žodžiais: „Gabija, dievaite, pakelk garą,
-    neleisk kibirkščių ! “ (Gabie Diewajte, pakielk garu, nie lajsk kir-
-    bvctu). Tai reiškia: „Gabija, miela deive, duok daugiau šilu­
-    mos, neleisk ugniai per daug kibirkščiuoti“. Si maldelė yra ug­
-    nies užkeikimas jaujoje, kad nekiltų gaisras. Prietaringi žemai­
-    čių valstiečiai tebekalba ją dar dabar, kurstydami ugnį savo
-    t džiovyklose.
+    Kronikininkai mini Svaistiką (Szwajstix) arba Svaitestiksą
+    (Swajtestix) kaip šviesos dievą: lietuviškai tas žodis reiškia švie­
+    sos teikėją arba žadinančiąją šviesą, o tai atitinka senovės Fe­
+    bą.
+    „Lietuviams saulė, vadinama Sotuar, priklauso pirmosios
+    eilės dievams, sakytum, lyg pasaulio prikėlėja arba pasaulio
+    dvasia. Vis dėlto ši dievybė pas juos neturi atskirų šventyklų,
+    kaip tai buvo pas visus šiaurės stabmeldžius. Juk jie turi savus
+    šiokios tokios astronomijos mokovus: skaičiuoja metų laikus,
+    mėnesius, savaites, dienas; savo mėnesį pradeda nuo jauno
+    mėnulio; savaitę kaip musulmonai - nuo penktadienio, kurį
+    paskiria savo Jupiteriui, o antrą dieną po penktadienio, tai yra
+    sekmadienį, jie, visai kaip senovės romėnai, paskiria saulei.
   citata_rodoma: "Lasickis pažįstąjį Gabijos (Gabie) vardu ir pateikia tokių\nduomenų apie jį: „Kai vasara Šlapia ir sunku išdžiovinti javus\nlauke, juos džiovina jaujose ir, nusilenkdami deivei Gabijai,\nmaldauja jos šitokiais žodžiais: „Gabija, dievaite, pakelk garą,\nneleisk kibirkščių ! “ (Gabie Diewajte, pakielk garu, nie lajsk kir-\nbvctu). Tai reiškia: „Gabija, miela deive, duok daugiau šilu­\nmos, neleisk ugniai per daug kibirkščiuoti“. Si maldelė yra ug­\nnies užkeikimas jaujoje, kad nekiltų gaisras. Prietaringi žemai­\nčių valstiečiai tebekalba ją dar dabar, kurstydami ugnį savo\nt džiovyklose."
   statusas: verified
   teiginio_tipas: faktas

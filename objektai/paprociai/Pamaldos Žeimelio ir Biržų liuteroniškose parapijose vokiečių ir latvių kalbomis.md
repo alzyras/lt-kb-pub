@@ -48,19 +48,24 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
+Nenurodyta
 
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174964
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Lietuvoje prie Kuršo sienos, ypač dviejose liuteroniškose
     Žeimelio ir Biržų parapijose, kur pamaldos vyksta ne
     tik vokiečių, bet ir latvių kalbomis; 5) yra mažų kolonijų
     Prūsijoje prie Kuršių marių, kurios pavadintos jų vardu,
     nes tenykščiai žvejai buvo vadinami kuršiais“.
-    *  *  *
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+    * * *
+  citata_rodoma: "Lietuvoje prie Kuršo sienos, ypač dviejose liuteroniškose\nŽeimelio ir Biržų parapijose, kur pamaldos vyksta ne\ntik vokiečių, bet ir latvių kalbomis;"
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

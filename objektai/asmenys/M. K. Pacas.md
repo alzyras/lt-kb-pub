@@ -44,24 +44,6 @@ M. K. Pacas žuvo 1665 metais prie Mogiliavo, kai miestą buvo apgulę lauko etm
   teiginys: "Lauko etmono M. K. Paco kariai 1665 metais buvo apgulę Mogiliavą."
   pagrindžia:
     - c-44440
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    J. Čerkaskis dalyvavo užimant
-    Gardiną, Vilnių, kur sumušė J. Radvilos
-    ir V. Gosievskio pajėgas. „Tvano“ metu
-    1660 m. dalyvavo kovose su švedais. Žuvo
-    1665 metais prie Mogiliavo, kai miestą buvo
-    apgulę lauko etmono M. K. Paco kariai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

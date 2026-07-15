@@ -50,52 +50,6 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   teiginys: "Žalgirio mūšyje Smolensko pulkai liko centre tarp lietuvių ir lenkų, vadovaujami Lengvenio sūnaus Jurgio."
   pagrindžia:
     - c-31263
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Centre tarp lietuvių ir lenkų (kariuomenės
-    kairiojo sparno) pasilikusieji Smolensko pulkai, kuriems vadovavo
-    Lengvenio sūnus Jurgis, anot Dlugošo, «laimėjo didelę... garbę
-    karių ir herojų»^27.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    (Iš originalo Karaliaučiaus Slaptajame Archyve)
-    Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande
-    mit Werdicheit kome desse Breef dorch dach und nacht sun­
-    der alle sümen B." (Didžiai gerbiamam Livonijos magistrui
-    šis laiškas turi būti tikrai ir nedelsiant atiduotas).
-    Mūsų nuomonę apie šio laiško senumą patvirtina ne tik
-    jo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą
-    162
-
-    ## Puslapis 179
-
-    Il KNYGA
-    neleidžia manyti buvus kitus metus, juk kaip tik tuo laiku
-    Vytautas su Smolensko pulkais Švitrigailos ir Livonijos už­
-    imtą Vitebską po keturių savaičių apgulties atgavo ir patį
-    Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
-    la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
-    mos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -144,5 +98,5 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81607
     - t-81606
+    - t-81607

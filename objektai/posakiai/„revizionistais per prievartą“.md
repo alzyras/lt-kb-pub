@@ -39,27 +39,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire.md#claim-t-101572|buferinė valstybė saugumo kordonas cordon sanitaire]]: Lietuva tik iš dalies tapo buferine valstybe, nes siekis atgauti Vilnių ją vedė į revizionistinių valstybių draugiją.
 - susijęs iš [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire.md#claim-t-101573|buferinė valstybė saugumo kordonas cordon sanitaire]]: Sąjungininkų pokario tvarkos architektai įsivaizdavo Lietuvą buferine valstybe, turėjusia sudaryti saugumo kordoną nuo bolševizmo.
 - susijęs iš [[objektai/zodynas/revizionistinė valstybė revizionistai per prievartą.md#claim-t-22278|revizionistinė valstybė revizionistai per prievartą]]: Siekis atgauti Vilnių Lietuvą vedė į revizionistinių valstybių draugiją ir net grėsė nepriklausomybės praradimu.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos siekis atgauti Vilnių vedė ją į revizionistinių valstybių draugiją, todėl lietuviai vadinami „revizionistais per prievartą“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ta-
-    čiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti
-    Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis
-    netgi grėsė nepriklausomybės praradimu. Žinoma, kad lietuviai tapo
-    „revizionistais per prievartą“. Pradžioje (ypač užsienio reikalų ministras
-    A. Voldemaras) prieš Varšuvą bandė atsilaikyti Vokietijos ar Sovietų Ru-
-    sijos padedami, tačiau pastarųjų tai neviliojo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-75173

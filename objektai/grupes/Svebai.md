@@ -51,25 +51,6 @@ Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbin�
 - susijęs iš [[objektai/grupes/Sudargai.md#claim-t-192931|Sudargai]]: Narbutas sudargus, istorikų vadintus Satargarii ir Sadargii, apibūdina kaip ištikimiausius skirių bičiulius prie Dunojaus žemupio.
 - susijęs iš De geticae gentis origine ac rebus gestis: Narbutas, remdamasis Jordanu, skirius vaizdavo kaip gotų kaimynus, iš pradžių taikiai gyvenusius ir labiau linkusius į žemdirbystę negu kariavimą.
 - susijęs iš [[objektai/zodynas/glesum.md#claim-t-28586|glesum]]: Tacitas rašė, kad Aestii Baltijos jūros pakraščiuose ir krante rinko gintarą, kurį vadino glesum.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Anot Tacito,
-    Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną
-    dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius
-    rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie
-    renką gintarą, kurį vadiną « glesum ». Jie « papročiais ir savo išore
-    yra kaip svebai ». Jų kalba betgi esanti artimesnė britų kalbai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-28573

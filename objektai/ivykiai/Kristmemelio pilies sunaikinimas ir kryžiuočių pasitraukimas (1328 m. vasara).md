@@ -7,13 +7,13 @@ datos:
   - '1328 m.'
 date_start: '1328'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - ivykis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,8 +58,8 @@ Nenurodyta
   pagrindžia:
     - c-63666
     - c-63667
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno, o lietuviai ją sunaikino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -99,14 +99,18 @@ Nenurodyta
 - id: c-63666
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 29"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
-    m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
-    lietuviai146. Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
-    bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
-    nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia.
+    Kronikininkas teigia, kad
+    pats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas
+    klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo
+    pagrindą147. Ir šiuo atveju Petras iš Dusburgo yra ryškus Ordino interesų gynėjas, visas
+    pastangas sutelkęs kronikos pagrindinei idėjai — agresyvios vokiečių feodalų klasės
+    politikos vykdytojo, Ordino, apologijai.
+    Kronikos idėjinė reikšmė ir mokslinė svarba
+    Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės
+    organizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės
+    platinimu.
   citata_rodoma: "Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328\nm. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino\nlietuviai146. Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik\nbendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai\nnukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia."
   statusas: verified
   teiginio_tipas: faktas
@@ -118,14 +122,16 @@ Nenurodyta
 - id: c-63667
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 29"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
-    prūsų kovą nuo Lietuvos, jos karinių pastangų.
-      Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
-    m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
-    lietuviai146.
+    Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
+    bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
+    nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad
+    pats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas
+    klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo
+    pagrindą147. Ir šiuo atveju Petras iš Dusburgo yra ryškus Ordino interesų gynėjas, visas
+    pastangas sutelkęs kronikos pagrindinei idėjai — agresyvios vokiečių feodalų klasės
+    politikos vykdytojo, Ordino, apologijai.
   citata_rodoma: "Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti\nprūsų kovą nuo Lietuvos, jos karinių pastangų.\n  Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328\nm. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino\nlietuviai146."
   statusas: verified
   teiginio_tipas: faktas

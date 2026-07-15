@@ -52,28 +52,6 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
     - c-91788
 - susijęs iš [[objektai/zodynas/poliublininiai laikai.md#claim-t-32803|poliublininiai laikai]]: Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.
 - susijęs iš [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai.md#claim-t-103840|poliublininis laikotarpis poliublininiai laikai]]: Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Atidavęs savo duoklę dviem straipsniais «jaunųjų istorikų bū­
-    relio » rinkinyje apie Vytautą D., labiausiai Šapoka tyrinėjo valsty­
-    binius Lietuvos ir Lenkijos santykius, pirmiausiai ta tema paskelb­
-    damas studiją apie Jogailos aktus (JoŠ). Perėjęs pagrindinai į
-    poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę
-    straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­
-    niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
-    po 1569 metų Liublino unijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-91788
@@ -94,5 +72,5 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97296
     - t-97295
+    - t-97296

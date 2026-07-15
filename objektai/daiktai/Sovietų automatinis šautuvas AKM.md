@@ -70,29 +70,6 @@ Nenurodyta
   pagrindžia:
     - c-75895
 - susijęs iš [[objektai/daiktai/Sovietų automatinis šautuvas AK-74.md#claim-t-40770|Sovietų automatinis šautuvas AK-74]]: 1974 m. sukurtas sovietų automatinis šautuvas AK-74 buvo naujas Kalašnikovo automato variantas, naudojęs mažesnį šovinį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo pa-
-    prasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba,
-    tai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai
-    paplito po visą pasaulį.
-
-    1959 m. sovietų ginkluotosios pajėgos pradėjo naudoti moder-
-    nizuotą (palengvintą ir supaprastintos konstrukcijos) AK-47 ver-
-    siją - AKM. 1974 m. buvo sukurtas naujas Kalašnikovo automato
-    variantas — AK-74, kuris naudojo dar mažesnį šovinį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-75895
@@ -115,5 +92,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78681
     - t-78680
+    - t-78681

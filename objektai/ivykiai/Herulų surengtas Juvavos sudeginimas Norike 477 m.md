@@ -46,8 +46,8 @@ Nenurodyta
   teiginys: "477 m. herulai, Narbuto pasakojimu, Norike sudegino romėnų koloniją Juvavą prie Saurus upės, dabartinio Zalcburgo vietoje."
   pagrindžia:
     - c-173944
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '477 m. herulai, Narbuto pasakojimu, Norike sudegino romėnų koloniją Juvavą prie Saurus upės, dabartinio Zalcburgo vietoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -73,10 +73,8 @@ Nenurodyta
 - id: c-173944
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 318"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 318."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    321
     Nors šio valdovo valdžia buvo skirta vidinei tvarkai
     Italijoje įvesti ir išorinei taikai išsaugoti, tačiau ne kar­
     tą jam reikėjo rengti karo žygius.
@@ -84,6 +82,11 @@ Nenurodyta
     kurie ir atviliojo ten herulus. 477 metais jie sudegino gar­
     sią romėnų koloniją Juvavą prie Saurus upės — dabar
     tai Zalcburgas prie Zalcacho upės.
+    Taigi 478 metais reikėjo saksų priešakyje plaukti į
+    Galiją, kur, jam išsilaipinus prie Ligeros žiočių, tenykš­
+    tis karalius nusižemino ir sudarė sąjungą, kokios iš jo
+    reikalavo Odoakras.
+  citata_rodoma: "321\nNors šio valdovo valdžia buvo skirta vidinei tvarkai\nItalijoje įvesti ir išorinei taikai išsaugoti, tačiau ne kar­\ntą jam reikėjo rengti karo žygius.\nBeveik tuo pat metu Norike kilo kažkokie neramumai,\nkurie ir atviliojo ten herulus. 477 metais jie sudegino gar­\nsią romėnų koloniją Juvavą prie Saurus upės — dabar\ntai Zalcburgas prie Zalcacho upės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

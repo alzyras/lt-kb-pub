@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per badmetį, priešų apgultį ar staigų reikalą. Narbutas upių ir ežerų vardų pažinimą laikė svarbia parama senovės tyrėjui, aiškinančiam jų etimologiją pirmykštėse kalbose.
+Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per badmetį, priešų apgultį ar staigų reikalą. Narbutas upių ir ežerų vardų pažinimą laikė svarbia parama senovės tyrėjui, aiškinančiam jų etimologiją pirmykštėse kalbose. Nerlė (Neri), Rusijos Vladimiro gubernijos upė, išteka iš Pleščejevo ežero Veskos vardu, teka per Somino ežerą ir savuoju vardu įteka į Volgą.
 
 ## Teiginiai
 
@@ -42,87 +42,42 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
   teiginys: "Narbutas upių ir ežerų vardų pažinimą laikė svarbia parama senovės tyrėjui, aiškinančiam jų etimologiją pirmykštėse kalbose."
   pagrindžia:
     - c-172479
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per badmetį, priešų apgultį ar staigų reikalą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šventosiose upėse ir ežeruose niekam nederėjo gaudyti žu­
-    vies, nebent per didelį badmetį, priešų apgultį arba staiga iški­
-    lus kitokiam reikalui.
-    Upių ir ežerų vardai yra seniausi tautų palikimo pamin­
-    klai, kadangi net tautoms pakeitus gyvenamąją vietą ir po tūks­
-    tančio permainų jie paprastai nesikeičia, ir upės, tekėdamos
-    įprasta vaga, išsaugo atminimą apie gentis ir tautas, kurios vie­
-    na po kitos išnyksta arba atsiranda jų pakrantėse. Todėl seno­
-    vės tyrėjui didelė parama yra vandenų vardų pažinimas ir jų
-    prasmės, atsižvelgiant į jų etimologiją pirmykštėse kalbose, aiš­
-    kinimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197386"></a>
+- t-003
+  global_id: t-197386
+  teiginys: "Nerlė (Neri), Rusijos Vladimiro gubernijos upė, išteka iš Pleščejevo ežero Veskos vardu, teka per Somino ežerą ir savuoju vardu įteka į Volgą."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas upių ir ežerų vardų pažinimą laikė svarbia parama senovės tyrėjui, aiškinančiam jų etimologiją pirmykštėse kalbose.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Todėl seno­
-    vės tyrėjui didelė parama yra vandenų vardų pažinimas ir jų
-    prasmės, atsižvelgiant į jų etimologiją pirmykštėse kalbose, aiš­
-    kinimas.
-    Ankstesniame straipsnyje šiuo požiūriu kalbėjome apie
-    upėvardį Ross; čia dar turime pridurti kaip mokslinio tyrimo
-    pavyzdį pastebėjimą apie vardų Nar, Nėr, Nor, Nur etimologi­
-    ją; pirmykštėje lietuvių kalboje, bendroje su slavų ir daugeliu
-    kitų, jie reiškia vandenį arba vandenų telkinį, požemio van­
-    dens užlietą gelmę, vandens srovę arba tekėjimą. Iš to indų
-    šventojoje kalboje, arba sanskrite, Nara -  vanduo; arabiškai
-    Nahr-upė, lietuviškai Nar senąja kalba reiškė vandens kraštą
-    (krantą).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-172478
 
 ## Citatos
 
 - id: c-172478
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 230"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 230."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šventosiose upėse ir ežeruose niekam nederėjo gaudyti žu­
-    vies, nebent per didelį badmetį, priešų apgultį arba staiga iški­
-    lus kitokiam reikalui.
-    Upių ir ežerų vardai yra seniausi tautų palikimo pamin­
-    klai, kadangi net tautoms pakeitus gyvenamąją vietą ir po tūks­
-    tančio permainų jie paprastai nesikeičia, ir upės, tekėdamos
-    įprasta vaga, išsaugo atminimą apie gentis ir tautas, kurios vie­
-    na po kitos išnyksta arba atsiranda jų pakrantėse. Todėl seno­
-    vės tyrėjui didelė parama yra vandenų vardų pažinimas ir jų
-    prasmės, atsižvelgiant į jų etimologiją pirmykštėse kalbose, aiš­
-    kinimas.
+    Dalmatijoje, Bra-
+    zos (Brazza) saloje, Neris, arba Nerisi - upokšnis, prie kurio
+    yra to paties pavadinimo miestas. Neris - mineralinio ir karšto
+    vandens šaltinis Prancūzijoje, Aljė departamente.Nareta -upe­
+    lis, tekantis netoli Vitebsko ir įtekantis į Dauguvą. Nerlė (Neri),
+    Rusijos Vladimiro gubernijos upė, išteka iš Pleščejevo ežero
+    Veskos vardu, teka per Somino ežerą ir savuoju vardu įteka į
+    Volgą. Antroji Nerlė išteka iš Vladimiro gubernijos pelkių ir
+    įteka į Kliazmą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189592
+    - t-197386
 
 - id: c-172479
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 230"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 230."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Todėl seno­
     vės tyrėjui didelė parama yra vandenų vardų pažinimas ir jų
@@ -134,7 +89,7 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
     ją; pirmykštėje lietuvių kalboje, bendroje su slavų ir daugeliu
     kitų, jie reiškia vandenį arba vandenų telkinį, požemio van­
     dens užlietą gelmę, vandens srovę arba tekėjimą. Iš to indų
-    šventojoje kalboje, arba sanskrite, Nara -  vanduo; arabiškai
+    šventojoje kalboje, arba sanskrite, Nara - vanduo; arabiškai
     Nahr-upė, lietuviškai Nar senąja kalba reiškė vandens kraštą
     (krantą).
   statusas: verified

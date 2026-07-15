@@ -41,34 +41,6 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
   teiginys: "Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos."
   pagrindžia:
     - c-77349
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sukilimo tikslas buvo atsikratyti oku-
-    pantų, atkurti valstybę su 1772 m. sie-
-    nomis, leisti įgyvendinti ketverių metų
-    seimo (1788-1792) reformas. Pasirinkimas
-    buvo vienas, arba kautis už savo laisvę,
-    arba tapti svetimų valstybių pavaldiniais.
-
-    Lietuvos pajėgos
-    Vilniaus puolime balandžio 23 d. daly-
-    vavo LDK 4-ojo pėstininkų regimento
-    (pulko) dvi sumažintos kuopos, 7-ojo
-    fuzilierių regimento dvi sumažintos
-    kuopos, LDK tribunolo vengrų vėliavos
-    dalinio 50 karių, artilerijos ir inžineri-
-    jos korpusų kariai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

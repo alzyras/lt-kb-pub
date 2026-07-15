@@ -50,49 +50,15 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   teiginys: "Malte-Brunas Baltijos jūros pavadinimą kildino iš senovės skandinavų žodžio Balt arba Beet, reiškusio vandens telkinį."
   pagrindžia:
     - c-173641
+
+<a id="claim-t-197623"></a>
+- t-004
+  global_id: t-197623
+  teiginys: "Malte-Brunas susiliejo su kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsikūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtingų bruožų."
+  pagrindžia:
+    - c-173640
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško aiškinimo „plikasis kalnas“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kijevo Plikasis kalnas garsėjo 1
-    1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi­
-    siškai neturinčių ryšio su lietuviais, pavyzdžiui: Chaumont iš chau­
-    ve -  plikas; Kahlenberg iš kahl - vokiškai tą patį reiškiančio būdvar­
-    džio. Tačiau ir prūsų kalboje Khoh reiškia plikas, todėl Kaukazo pa­
-    vadinimas išvedamas iš Khohkasp -  plikasis kalnas. Tokios nuomo­
-    nės yra Malte-Brunas (Vocabulaire de mots génériques).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Malte-Brunas, Narbuto vertinimu, teisingai pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    91
-    Tačiau, atsižvelgdami j didžiausią tikimybę, pasirin­
-    kime iš šio sąrašo kaimynines venedų tautas, nepriklau­
-    sančias lietuvių kartoms. Toliausiai į pietryčius gyveno
-    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
-    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
-    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
-    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
-    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
-    apie tai Karamzinas rašo savo tyrimuose3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Malte-Brunas Baltijos jūros pavadinimą kildino iš senovės skandinavų žodžio Balt arba Beet, reiškusio vandens telkinį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -117,16 +83,21 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
 - id: c-173324
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 260"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 260."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kijevo Plikasis kalnas garsėjo 1
-    1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi­
-    siškai neturinčių ryšio su lietuviais, pavyzdžiui: Chaumont iš chau­
-    ve -  plikas; Kahlenberg iš kahl - vokiškai tą patį reiškiančio būdvar­
-    džio. Tačiau ir prūsų kalboje Khoh reiškia plikas, todėl Kaukazo pa­
-    vadinimas išvedamas iš Khohkasp -  plikasis kalnas. Tokios nuomo­
-    nės yra Malte-Brunas (Vocabulaire de mots génériques).
+    mo pamatai ir čia išgyventos pirmosios religinės vizijos: taigi
+    miškelis buvo pirmoji visų tautų šventykla.
+    Tas pats pastebima lietuvių mitologijoje; šventi buvo ištisi
+    miško plotai, kur stovėjo aukurai ir šventyklos, žinoma, visuo­
+    met prie upių, dažniausiai dviejų didesnių upių santakoje.
+    Miškelių garbinimas buvo taip sureikšmintas, kad juose
+    jokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­
+    čius, bet jie dar buvo persekiojamų žmonių prieglobstis; pasi­
+    slėpę toje šventoje vietoje, jie išsivaduodavo nuo persekioji­
+    mo, kadangi visos ten esančios būtybės, taip pat medžiai ir
+    augalai dėl griežto pamaldumo buvo laikomi šventais ir nelie­
+    čiamais.
+  citata_rodoma: "Kijevo Plikasis kalnas garsėjo 1\n1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi­\nsiškai neturinčių ryšio su lietuviais, pavyzdžiui: Chaumont iš chau­\nve -  plikas; Kahlenberg iš kahl - vokiškai tą patį reiškiančio būdvar­\ndžio. Tačiau ir prūsų kalboje Khoh reiškia plikas, todėl Kaukazo pa­\nvadinimas išvedamas iš Khohkasp -  plikasis kalnas. Tokios nuomo­\nnės yra Malte-Brunas (Vocabulaire de mots génériques)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -137,39 +108,35 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
 - id: c-173640
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    91
-    Tačiau, atsižvelgdami j didžiausią tikimybę, pasirin­
-    kime iš šio sąrašo kaimynines venedų tautas, nepriklau­
-    sančias lietuvių kartoms. Toliausiai į pietryčius gyveno
-    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
-    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
-    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
-    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
-    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
-    apie tai Karamzinas rašo savo tyrimuose3.
+    Tai buvo miškinė gyvulių augintojų gentis.
+    Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
+    tinių kašubų protėviai. Neabejotina, kad ji susiliejo su
+    kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­
+    kūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­
+    gų bruožų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190758
+    - t-197623
 
 - id: c-173641
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 177"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    180
-    Išliko gal pats tinkamiausias Baltijos pavadinimas,
-    nes pirmiausia atsirado iš prie jos įsigalėjusios tautos
-    vardo. Senovės skandinavų, gal seniausių šios jūros šei­
-    mininkų, kalba Balt arba Beet reiškė vandens telkinį; iš jo
-    Malte-Brunas kildina jūros pavadinimą3. Helmoldas išve­
-    da jį iš Balteus, „riterio diržo“4.
+    Tuo labiau kad jūros vadinimas Baltąja
+    neprieštarauja senovės ir naujųjų laikų geografijai. Ado­
+    mas Bremenietis Balticum pavadinimą tapatina ¡su šių
+    kraštų pakrančių gyventojais (baltų), priklausančiais lie­
+    tuvių genties tautoms5. Regis tą patį patvirtina ir Bajeris,
+    šį dalyką tyrinėjęs išsamiau ir kruopščiau6. Mes negalime
+    1 Istoryczeskij Magazyn.
+  citata_rodoma: "180\nIšliko gal pats tinkamiausias Baltijos pavadinimas,\nnes pirmiausia atsirado iš prie jos įsigalėjusios tautos\nvardo. Senovės skandinavų, gal seniausių šios jūros šei­\nmininkų, kalba Balt arba Beet reiškė vandens telkinį; iš jo\nMalte-Brunas kildina jūros pavadinimą3. Helmoldas išve­\nda jį iš Balteus, „riterio diržo“4."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

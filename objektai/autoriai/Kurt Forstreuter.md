@@ -35,22 +35,6 @@ Forstreuter ir kt.) tuos laiškus tarė esant rygiečių falsifikatais, arba ben
   teiginys: "Kurtas Forstreuteris Gedimino laiškus laikė rygiečių falsifikatais arba bent stipriai įtartinais."
   pagrindžia:
     - c-30661
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kurtas Forstreuteris Gedimino laiškus laikė rygiečių falsifikatais arba bent stipriai įtartinais.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Daugumoje
-    vokiečiai (C. Dreyer, J. Voigt, K. Forstreuter ir kt.) tuos laiškus
-    tarė esant rygiečių falsifikatais, arba bent stipriai įtartinais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

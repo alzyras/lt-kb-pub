@@ -42,26 +42,6 @@ media_all_json: |-
   teiginys: "1363 m. pradžioje buvo siaubiama Upytės žemė Nevėžio aukštupyje ir gretimos apylinkės."
   pagrindžia:
     - c-45382
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Padėtį komplikavo
-    ir Livonijos ordino puolimai iš šiaurės.
-    1363 m. pradžioje buvo siaubiama Upytės
-    žemė Nevėžio aukštupyje ir gretimos apy-
-    linkės. 1364 m. pradžioje Lietuva vienu
-    metu buvo stipriai puolama abiejų Prūsijos
-    ir Livonijos kariuomenių iš pietvakarių ir
-    šiaurės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -51,27 +51,6 @@ Nenurodyta
   teiginys: "Jogaila atsisakė čekų husitų siūlyto karališko vainiko, o Vytautas vėliau sutiko rūpintis jų reikalais."
   pagrindžia:
     - c-35764
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet pirma Lenkijoje, o paskui ir Lietuvoje kilo prieš
-    husitus opozicija — imta kovoti su jų mokslu, paliekant Bažny­
-    čios pusėje. Ir kai čekai husitai pasiūlė karališką vainiką Jo­
-    gailai, šis nesutiko jos priimti, nes tai buvo eretikų siūlymas.
-    Tada su tuo pačiu siūlymu jie kreipėsi į Vytautą Didįjį.
-    Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet
-    po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­
-    mene nusiuntė Zigmantą Kaributą padėti husitams kovose su
-    ciesorium Zigmantu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

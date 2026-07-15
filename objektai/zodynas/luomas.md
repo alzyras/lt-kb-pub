@@ -14,7 +14,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - bajorija
   - sąvoka
+  - tauta
   - socialinis-terminas
 amziai:
   - 'XIV'
@@ -83,69 +85,56 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginys: "Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą."
   pagrindžia:
     - c-37930
-
-<a id="claim-t-184244"></a>
-- t-007
-  global_id: t-184244
-  teiginys: "Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą."
-  pagrindžia:
     - c-167628
 
-<a id="claim-t-184618"></a>
-- t-008
-  global_id: t-184618
-  teiginys: "Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo."
-  pagrindžia:
-    - c-167979
-
 <a id="claim-t-184619"></a>
-- t-009
+- t-007
   global_id: t-184619
   teiginys: "Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui."
   pagrindžia:
     - c-167980
 
 <a id="claim-t-184620"></a>
-- t-010
+- t-008
   global_id: t-184620
   teiginys: "Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo."
   pagrindžia:
     - c-167981
 
 <a id="claim-t-184621"></a>
-- t-011
+- t-009
   global_id: t-184621
-  teiginys: "Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką."
+  teiginys: "Kojelavičiaus pasakojime karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką kaip kitą politinę perspektyvą."
   pagrindžia:
     - c-167982
 
 <a id="claim-t-184622"></a>
-- t-012
+- t-010
   global_id: t-184622
   teiginys: "Kazimieras Breste priėmė luomų priesaiką, kuria jie pažadėjo ištikimybę ir paklusnumą."
   pagrindžia:
     - c-167983
 
 <a id="claim-t-184623"></a>
-- t-013
+- t-011
   global_id: t-184623
   teiginys: "Aleksandras pasiūlė lietuvių luomams Vilniaus seime aptarti ir patvirtinti Piotrkove jo atstovų priimtus nutarimus."
   pagrindžia:
     - c-167984
 
-<a id="claim-t-184625"></a>
-- t-014
-  global_id: t-184625
-  teiginys: "Pasiuntiniams buvo uždrausta ką nors spręsti, todėl apie viską jie turėjo pranešti Bresto seime susirinkusiems luomams."
+<a id="claim-t-196379"></a>
+- t-012
+  global_id: t-196379
+  teiginys: "Visi Lietuvos iuvoje bažnyčios tarnai, jų valdos ir pačias privilegijas, kokias šiuo metu turi šio luomo žmo nės Lenkijoje."
   pagrindžia:
-    - c-167986
+    - c-167980
 
-<a id="claim-t-193381"></a>
-- t-015
-  global_id: t-193381
-  teiginys: "N o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a rėsi dėl būd ų g alu tin ai L ietuvą su v ien y ti su L enkija."
+<a id="claim-t-196380"></a>
+- t-013
+  global_id: t-196380
+  teiginys: "Kojelavičiaus pasakojime karalius Korčine sukvietė seimą, kad karalystės luomai nuspręstų, kaip priešintis Vytauto potroškiams."
   pagrindžia:
-    - c-176106
+    - c-167981
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12290|Herbai]]: Turintieji tą patį herbą buvo laikomi giminėmis, jiems leistos abipusės vedybos, o tai suartino abiejų valstybių aukštąjį luomą.
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169560|Bajorai]]: Lenkijoje ir Lietuvoje bajorų luomas sudarė apie 6,5 proc. krašto gyventojų ir buvo santykinai gausesnis nei kitur Europoje.
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169561|Bajorai]]: Bajorai buvo vienintelis privilegijuotas visuomenės luomas, turėjęs politines teises ir siuntęs atstovus į Seimą.
@@ -189,8 +178,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - susijęs iš Bełskas: 1564 m. Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą.
 - susijęs iš Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia: Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.
 - susijęs iš Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia: Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.
-- susijęs iš Vilnius: 1569 m. liepos 1 d. Vilniaus pasiuntiniai Liublino seime kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
-- susijęs iš Vilnius: Kazimieras, priėmęs volyniečių ištikimybės priesaiką, su Lietuvos kunigaikščiais ir Tarybos ponais išvyko į Vilnių, kurį metraštis vadina Vytauto sostine.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21975|Bajorų respublika liberum veto]]: Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės santvarka buvo respublika, o ne monarchija.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisė.md#claim-t-86595|Magdeburgo teisė]]: 1564 m. Žygimantas Augustas leido Vilniaus miestiečiams laisviau bylinėtis teismuose pagal Magdeburgo teisę.
 - susijęs iš [[objektai/zodynas/bajoriškoji demokratija luominė monarchija.md#claim-t-22068|bajoriškoji demokratija luominė monarchija]]: Abiejų Tautų Respublikoje atstovai rinkdavo valdovą, todėl santvarka galėjo atrodyti kaip respublika, o ne monarchija.
@@ -200,348 +187,11 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - susijęs iš [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija.md#claim-t-101570|bajorų tauta politinė tauta lietuvių nacija]]: Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82051|feodalizmas]]: Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.
 - susijęs iš [[objektai/zodynas/leno teisė.md#claim-t-77812|leno teisė]]: XVI a. LDK nuosavybės santykiuose susiformavo leno teisė.
+- susijęs iš [[objektai/asmenys/Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778).md#claim-t-200449|Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778)]]: Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas.
+- susijęs iš [[objektai/asmenys/Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778).md#claim-t-200450|Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778)]]: Mikalojaus Lopacinskio interesai Vilniuje buvo viena pagrindinių Jono Dominyko Lopacinskio laiškų temų.
+- susijęs iš [[objektai/asmenys/Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778).md#claim-t-200451|Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778)]]: Mikalojus Lopacinskis buvo Jono Dominyko Lopacinskio brolis.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas šioje srity padarė
-    tiek, kad suteikė tautos prekybai ir bendrai ekonomiškam inten­
-    syvesniam gyvenimui potencijos sudarydamas tam tikrą, iš tos
-    visuomenės produktų cirkuliacijos gyvenantį, visuomenės luomą.
-    Tai buvo žydai ir miestelėnų luomas.
-    Žydai tais laikais visoje vakarų Europoje buvo žinomi kaip
-    tinkamiausi žmonės visoms kredito operacijoms vesti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-002
-  santrauka: 'Valdovas prašė būsimo įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal aprašytą tvarką.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O jeigu kuri tauta būtų nedėkinga ir ieškotų kelių atsi­
-    skirti, tegu bijosi Dievo pykčio, kuris turi galios (kaip pra­
-    našas sako) neapkęsti, prakeikdamas tuos, kurie sėja
-    nesantaiką tarp brolių. Dėl tokio prakeikimo ir Dievo pyk­
-    čio nieko kito nebijok, tik laikinos čia, o paskui amžinos pra­
-    žūties, nuo kurios malonėk, Viešpatie Dieve, apsaugoti ir
-    malonėk abiejose šiose valstybėse įtvirtinti tai, ką jose per
-    mus padarei, malonėk abi šias tautas, vienybėje amžinai su­
-    jungtas tikros meilės, saugoti. Paskui kai kas nors, Dievo
-    Apvaizda, po mūsų į mūsų sostą įžengs ir taps įpėdiniu,
-    taip pat ir visų abiejų valstybių luomų tarybų prašome, kad
-    netrukdytų ir, priešingai, padėtų padalinti mūsų turtus že­
-    miau aprašytu papročiu, be gaišaties, delsimo, pokštų, išsi­
-    sukinėjimų, vengimo, prasimanymų, nuoširdžiai, ištikimai,
-    rimtai šiai mūsų valiai pritardami ir ją pildydami, jos pildy­
-    mui padėdami, kaip įpareigojame ir įgaliojome, tegu atme­
-    na tikėjimą, garbę, sąžinę, kad kiekvienam geram žmogui,
-    o ypač krikščioniui, privalu įvykdyti valią to, kieno keitėjas
-    arba sprendimo vykdytojas būtų; dėl to, jeigu kiti luomai
-    gali tai uždėti savo palikuonims ir vykdytojams, kad jų va­
-    lią pildytų, tuo labiau mums, kaip valdovui, kuriam Vieš­
-    pats Dievas malonėjo patikėti žmonių valdymo teises ir ku­
-    ris esame laisvas nuo teisių, o vis tiek ir išlaisvinti veikiame
-    pagal teises, o mūsų valstybės bendros teisės ir papročiai
-    skelbia tai, kad kiekvienas gali kam tik nori savo turtus tęs-
-    ---- • -•
-    336
-
-    ## Puslapis 353
-
-    IV KNYGA
-    tamentu ar kokiu kitu užrašymu duoti, dovanoti, suteikti,
-    pripažinti, tą taip pat leidžia krikščioniškoji teisė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jų vietą
-    užima nauja sociališka jėga, kuriai lemta buvo iškilti jau XV
-    amž. ir ypatingai įsigalėti XVI—XVIII amž.
-    Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­
-    jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji
-    dar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius
-    — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
-    siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
-    luomu.
-    Žinoma mes negalime patikėti Dlugošu, kad iki 1413 met.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Radvila užsistojo juos,
-    prašydamas karaliaus šiuos muitus atidėti iki būsimo sei­
-    mo, ir karalius sutiko. Tačiau Torunės seime, kilus ginčams
-    su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­
-    tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam
-    pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo
-    teises bei privilegijas, bet iškilus netikėtiems krašto reika­
-    lams, visų pirma dėl Livonijos ir Lietuvos sienų gynybos,
-    norėdamas, kad pirkliai iš nemažų savo prekybos pajamų
-    ką nors kraštui paskirtų, kas jiems su kaupu sugrįš iš užsie­
-    nio prekybos, bet nebūtų rizikuojama sienų saugumu, įsakė
-    tuojau pat rinkti muitus. Dėl Vilniaus Batoras pareikalavo
-    iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­
-    ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus
-    miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
-    čius*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    100
-    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
-    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
-    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
-    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
-    vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
-    bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
-    gūnus, žemutinės teismų grandies teisėjus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-006
-  santrauka: 'Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lietuva gi tuo
-    atžvilgiu nebuvo labai laiminga. Vytautas šioje srity padarė
-    tiek, kad suteikė tautos prekybai ir bendrai ekonomiškam inten­
-    syvesniam gyvenimui potencijos sudarydamas tam tikrą, iš tos
-    visuomenės produktų cirkuliacijos gyvenantį, visuomenės luomą.
-    Tai buvo žydai ir miestelėnų luomas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-007
-  santrauka: 'Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šitaip paprastai esti, kai vienoje
-    valstybėje gyvena skirtingos tautos, tada kiekvienai
-    rūpi savo reikalai, tada kiekviena baudžiasi tvarkyti
-    krašto reikalus taip, kad nuostolių turėtų kita tauta,
-    o ne ji pati. Gal vengdamas aiškaus atsakymo į kry­
-    žiuočių klausimą, gal norėdamas turėti laiko pasitarti,
-    373
-
-    ## Puslapis 372
-
-    karalius atsakė, kad jis viešpataująs valstybėje, kurio­
-    je svarbiais reikalais nieko negalįs nutarti be luomų
-    pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-008
-  santrauka: 'Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Visi Lietuvos
-    iuvoje
-    bažnyčios tarnai, jų valdos ir
-    pačias privilegijas, kokias šiuo metu turi šio luomo žmo­
-    nės Lenkijoje. Valdovas gali skirti į aukštąsias bei vie­
-    šąsias pareigybes tik Romos tikėjimo žmones, iš tų vie­
-    tų turi būti šalinami ne tik stabmeldžiai, bet ir krik­
-    ščionys, išsižadėję paklusti Romos popiežiui. Bajorų
-    luomui pripažintos lengvatos negali būti teikiamos
-    tiems, kurie neišpažįsta katalikų tikėjimo ir išsižada
-    paklusnumo popiežiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-009
-  santrauka: 'Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
-    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
-    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
-    dovo reikalavimus. Vytautas,
-    Vytauto pasiuntinybė
-    kaip laisvos tautos laisvas
-    valdovas, o ne dėl to, kad
-    žiūri vien savo reikalų, taip ryžtingai reikalaująs, kad
-    karalius bei karalystės luomai pritartų jo vainikavimui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-010
-  santrauka: 'Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Beje, ir Jogaila, smarkiai pasenęs ir su­
-    vokęs, jog valdymo našta dabar kur kas sunkesnė, nei
-    jis gali pakelti, be to, turėdamas mažametį ir negalintį
-    valdyti sūnų, ne taip jau labai būgštavo, kad Vytautas
-    tapsiąs jo įpėdiniu, guosdamasis viltimi, jog šis nebe-
-    susilauksiąs įpėdinių. Kai karalius bei luomai nuspren­
-    dė atverti Vytautui kitokias perspektyvas ir pasiūlyti
-    jam Lenkijos karalystės vainiką, pasiuntinybės vadovas,
-    pasak metraštininkų, prabilo šitokiais žodžiais. Lenkai
-    gerai žiną, jog Vytauto tikslas — vienaip ar kitaip gauti
-    karaliaus vardą bei karūną, todėl lenkų valstybės luo­
-    mų seimas nutaręs pasiūlyti jam vainiką, kurį pasiėmęs
-    jis nepadarysiąs jokios žalos valstybei ir patenkinsiąs
-    didžiai iškilnius savo siekius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-011
-  santrauka: 'Kazimieras Breste priėmė luomų priesaiką, kuria jie pažadėjo ištikimybę ir paklusnumą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Breste Kazi­
-    miero laukė gausybė žymiau-
-    P riėm ęs B reste lu o m ų
-    šiųjų didikų, ypač tie, kurie
-    priesaiką, p a ly d im a s  į
-    save kildino iš Lietuvos di-
-    V ilnių
-    džiųjų kunigaikščių, kaip Al-
-    gimantaičiai,
-    Daumantaičiai,
-    Manvydaičiai, Sanguškaičiai, Kaributaičiai, Karijotaičiai
-    ir kiti. Pasitikę Kazimierą, jie rodė nepaprastą džiaugsmą,
-    pagarbą bei palankumą. Priėmęs luomų priesaiką, kuria
-    šie pažadėjo ištikimybę ir paklusnumą, niekais pavertė
-    visus varžovų užmojus, šitaip greitai sutvarkydamas šį
-    reikalą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-012
-  santrauka: 'Aleksandras pasiūlė lietuvių luomams Vilniaus seime aptarti ir patvirtinti Piotrkove jo atstovų priimtus nutarimus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo tarpu Aleksandras, didžiai rūpindama­
-    sis krikščionių sąjunga prieš turkus, nesitikėjo iš Mas­
-    kvos grėsmės. Jis pasiūlė lietuvių luomams Vilniaus
-    seime aptarti ir patvirtinti nutarimus, kuriuos jo atsto­
-    vai buvo priėmę Piotrkove. Padarė taip, kaip siūlė ku­
-    nigaikštis: nutarimus įtraukė į valstybinius dokumen­
-    tus, kuriuos, pasirašius didikams, atidavė saugoti vals­
-    tybės archyvui, šitaip buvo patvirtinta senoji sąjunga
-    su lenkais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-013
-  santrauka: 'Pasiuntiniams buvo uždrausta ką nors spręsti, todėl apie viską jie turėjo pranešti Bresto seime susirinkusiems luomams.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    K okį atsak y m ą
-    g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
-    n eb u v o  su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u ­
-    v o  u žd rau sta b et k ą  spręsti, ir jie  tu rė jo  ap ie v isk ą p ra ­
-    n ešti luom am s, susirinkusiem s į B resto seim ą. Be abejo,
-    jie  n o rė jo  unijos, b et tokios, k ad n eb ū tų  p ažeistas v a l­
-    stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to,
-    įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau  L ietuvos Di­
-    džiosios K unig aik šty stės sienos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-014
-  santrauka: 'N o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a rėsi dėl būd ų g alu tin ai L ietuvą su v ien y ti su L enkija.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    L ietuviai, su šau k ę B reste lu o ­
-    m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin ­
-    kosi len k ų  seim as. P asiu n tin iai tu rė jo  p areik šti štai ką.
-    N o rs L ietuvos luom ai šiuo m etu  įsitrau k ę į k a m u o ja n ­
-    tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y­
-    gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a ­
-    rėsi dėl būd ų  g alu tin ai L ietuvą su v ien y ti su L enkija
-    u n ijo s p ag rin d ais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
 ## Citatos
 
 - id: c-37930
@@ -681,8 +331,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169918
     - t-169917
+    - t-169918
 
 - id: c-167628
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -697,88 +347,75 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     visuomenės produktų cirkuliacijos gyvenantį, visuomenės luomą.
     Tai buvo žydai ir miestelėnų luomas.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184244
-
-- id: c-167979
+- id: c-167980
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Šitaip paprastai esti, kai vienoje
-    valstybėje gyvena skirtingos tautos, tada kiekvienai
-    rūpi savo reikalai, tada kiekviena baudžiasi tvarkyti
-    krašto reikalus taip, kad nuostolių turėtų kita tauta,
-    o ne ji pati. Gal vengdamas aiškaus atsakymo į kry­
-    žiuočių klausimą, gal norėdamas turėti laiko pasitarti,
-    373
-
-    ## Puslapis 372
-
-    karalius atsakė, kad jis viešpataująs valstybėje, kurio­
-    je svarbiais reikalais nieko negalįs nutarti be luomų
-    pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184618
-
-- id: c-167980
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 383"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 383."
-  citata_originali: |
-    Visi Lietuvos
-    iuvoje
-    bažnyčios tarnai, jų valdos ir
-    pačias privilegijas, kokias šiuo metu turi šio luomo žmo­
-    nės Lenkijoje. Valdovas gali skirti į aukštąsias bei vie­
-    šąsias pareigybes tik Romos tikėjimo žmones, iš tų vie­
-    tų turi būti šalinami ne tik stabmeldžiai, bet ir krik­
-    ščionys, išsižadėję paklusti Romos popiežiui. Bajorų
-    luomui pripažintos lengvatos negali būti teikiamos
-    tiems, kurie neišpažįsta katalikų tikėjimo ir išsižada
-    paklusnumo popiežiui.
+    šaukiami Liubline arba Parčeve. Be valdovo sutikimo
+    bajorai neturi teisės nei parduoti, nei dovanoti valdo­
+    nėms žymiems lietuviams tu­
+    rėti tuos pačius herbus, aišku, ne dėl to, kad lietuviams
+    anksčiau būtų stigę šitokių kilmingumo įrodymų ar šlo­
+    vingumo žymenų, nes dar ir dabar daugelis šeimų turi
+    be galo senus paveldimus giminės ženklus, kurie visai
+    nepanašūs į lenkų herbus, tačiau todėl, kad visi buvo
+    tvirtai įsitikinę, jog, skirtingoms tautoms susijungus į
+    vieną valstybę, būtų didžiai naudinga, jeigu tų dviejų
+    tautų žymiausios šeimos sietųsi nelyginant kokia gi­
+    minyste herbų panašumu.
+    Įstatymais sutvarkomi
+    Galop susitarė ir dėl tikė-
+    tikėjimo reikalai Lie-
+    jimo reikalų.
+  citata_rodoma: "Be valdovo sutikimo \nbajorai neturi teisės nei parduoti, nei dovanoti valdo­\nnėms žymiems lietuviams tu­\nrėti tuos pačius herbus, aišku, ne dėl to, kad lietuviams \nanksčiau būtų stigę šitokių kilmingumo įrodymų ar šlo­\nvingumo žymenų, nes dar ir dabar daugelis šeimų turi \nbe galo senus paveldimus giminės ženklus, kurie visai \nnepanašūs į lenkų herbus, tačiau todėl, kad visi buvo \ntvirtai įsitikinę, jog, skirtingoms tautoms susijungus į \nvieną valstybę, būtų didžiai naudinga, jeigu tų dviejų \ntautų žymiausios šeimos sietųsi nelyginant kokia gi­\nminyste herbų panašumu.\nĮstatymais sutvarkomi \nGalop susitarė ir dėl tikė-\ntikėjimo reikalai Lie- \njimo reikalų. Visi Lietuvos \niuvoje \nbažnyčios tarnai, jų valdos ir\npačias privilegijas, kokias šiuo metu turi šio luomo žmo­\nnės Lenkijoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184619
+    - t-196379
 
 - id: c-167981
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 418"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
-    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
-    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
-    dovo reikalavimus. Vytautas,
-    Vytauto pasiuntinybė
-    kaip laisvos tautos laisvas
-    valdovas, o ne dėl to, kad
-    žiūri vien savo reikalų, taip ryžtingai reikalaująs, kad
-    karalius bei karalystės luomai pritartų jo vainikavimui.
+    Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
+    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
+    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
+    iš Volynės į Vengriją.
+  citata_rodoma: "Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­\nniaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.\nLuomų susirinkime jie trumpai, bet aiškiai išdėstė val­\ndovo reikalavimus. Vytautas,\nVytauto pasiuntinybė\nkaip laisvos tautos laisvas\nvaldovas, o ne dėl to, kad\nžiūri vien savo reikalų, taip ryžtingai reikalaująs, kad\nkaralius bei karalystės luomai pritartų jo vainikavimui."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184620
+    - t-196380
 
 - id: c-167982
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 420"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 420."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Beje, ir Jogaila, smarkiai pasenęs ir su­
     vokęs, jog valdymo našta dabar kur kas sunkesnė, nei
@@ -804,25 +441,27 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - id: c-167983
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 467"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 467."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Breste Kazi­
-    miero laukė gausybė žymiau-
-    P riėm ęs B reste lu o m ų
-    šiųjų didikų, ypač tie, kurie
-    priesaiką, p a ly d im a s  į
-    save kildino iš Lietuvos di-
-    V ilnių
-    džiųjų kunigaikščių, kaip Al-
-    gimantaičiai,
-    Daumantaičiai,
-    Manvydaičiai, Sanguškaičiai, Kaributaičiai, Karijotaičiai
-    ir kiti. Pasitikę Kazimierą, jie rodė nepaprastą džiaugsmą,
-    pagarbą bei palankumą. Priėmęs luomų priesaiką, kuria
-    šie pažadėjo ištikimybę ir paklusnumą, niekais pavertė
-    visus varžovų užmojus, šitaip greitai sutvarkydamas šį
-    reikalą.
+    skubėjimą ir bus padaryta
+    Pasiuntinių
+    k v ie č ia -
+    kas nors ne taip, kaip šitokio-
+    m a s į B restą
+    mis aplinkybėmis dera, dėl to
+    bus galima vėliau atsiprašyti
+    brolį ir ištaisyti klaidą, tuo tarpu atidėliojant galima
+    nieko nepešti. Tuo metu karalius Vladislovas, išvykęs
+    iš Lenkijos, rengėsi su vengrais kariauti prieš turkus, o
+    Kazimieras su žymiaisiais lenkų didikais viešėjo Sando-
+    mire. Godžiai trokštantis valdžios viršūnių jaunikaitis
+    klausėsi pasiuntinių kalbos, tačiau šalimais esantys re­
+    gentai neleido jam tarti atsakomojo žodžio paskubomis,
+    skatinamam jaunatviško įkarščio. Mat perdaug gerai
+    visi žinojo sutartį, neseniai atnaujintą su Vladislovu:
+    pagal ją, mirus Žygimantui, karalius Vladislovas pavel­
+    di valdžią.
+  citata_rodoma: "Breste Kazi­\nmiero laukė gausybė žymiau-\nP riėm ęs B reste lu o m ų\nšiųjų didikų, ypač tie, kurie\npriesaiką, p a ly d im a s  į\nsave kildino iš Lietuvos di-\nV ilnių\ndžiųjų kunigaikščių, kaip Al-\ngimantaičiai,\nDaumantaičiai,\nManvydaičiai, Sanguškaičiai, Kaributaičiai, Karijotaičiai\nir kiti. Pasitikę Kazimierą, jie rodė nepaprastą džiaugsmą,\npagarbą bei palankumą. Priėmęs luomų priesaiką, kuria\nšie pažadėjo ištikimybę ir paklusnumą, niekais pavertė\nvisus varžovų užmojus, šitaip greitai sutvarkydamas šį\nreikalą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -833,64 +472,24 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - id: c-167984
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 556"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 556."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo tarpu Aleksandras, didžiai rūpindama­
-    sis krikščionių sąjunga prieš turkus, nesitikėjo iš Mas­
-    kvos grėsmės. Jis pasiūlė lietuvių luomams Vilniaus
-    seime aptarti ir patvirtinti nutarimus, kuriuos jo atsto­
-    vai buvo priėmę Piotrkove. Padarė taip, kaip siūlė ku­
-    nigaikštis: nutarimus įtraukė į valstybinius dokumen­
-    tus, kuriuos, pasirašius didikams, atidavė saugoti vals­
-    tybės archyvui, šitaip buvo patvirtinta senoji sąjunga
-    su lenkais.
+    Aleksandro pasiuntiniams Stanislovui Gleba­
+    vičiui bei Jonui Sapiegai dabar buvo pavesta ir paneigti
+    Fiodoro melą, ir įtikinti, kad abiem šalims derėtų pa­
+    skirti taikytojus, kurie ir išspręstų ginčus dėl sienų. Ka­
+    dangi Ivanas rėmė Valachiją, pasiuntiniai, kad ir labai
+    stengėsi, nieko nepešė. Pasiuntiniai prašė, kad su tokiu
+    pat įkarščiu, su kuriuo neseniai atkalbinėjo Aleksandrą
+    nekariauti prieš Steponą, dabar padėtų karaliui Jonui
+    bei didžiajam kunigaikščiui Aleksandrui, pasiryžusiems
+    pradėti karą prieš turkus ir paremti Steponą, ypač dėl
+    to, kad to reikalauja ne tik pavienių asmenų susitarimai,
+    bet ir viso krikščionių pasaulio bendras reikalas.
+  citata_rodoma: "Tuo tarpu Aleksandras, didžiai rūpindama­\nsis krikščionių sąjunga prieš turkus, nesitikėjo iš Mas­\nkvos grėsmės. Jis pasiūlė lietuvių luomams Vilniaus\nseime aptarti ir patvirtinti nutarimus, kuriuos jo atsto­\nvai buvo priėmę Piotrkove. Padarė taip, kaip siūlė ku­\nnigaikštis: nutarimus įtraukė į valstybinius dokumen­\ntus, kuriuos, pasirašius didikams, atidavė saugoti vals­\ntybės archyvui, šitaip buvo patvirtinta senoji sąjunga\nsu lenkais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184623
-
-- id: c-167986
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 734"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 734."
-  citata_originali: |
-    K okį atsak y m ą
-    g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
-    n eb u v o  su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u ­
-    v o  u žd rau sta b et k ą  spręsti, ir jie  tu rė jo  ap ie v isk ą p ra ­
-    n ešti luom am s, susirinkusiem s į B resto seim ą. Be abejo,
-    jie  n o rė jo  unijos, b et tokios, k ad n eb ū tų  p ažeistas v a l­
-    stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to,
-    įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau  L ietuvos Di­
-    džiosios K unig aik šty stės sienos.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184625
-
-- id: c-176106
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 733"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 733."
-  citata_originali: |
-    L ietuviai, su šau k ę B reste lu o ­
-    m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin ­
-    kosi len k ų  seim as. P asiu n tin iai tu rė jo  p areik šti štai ką.
-    N o rs L ietuvos luom ai šiuo m etu  įsitrau k ę į k a m u o ja n ­
-    tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y­
-    gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a ­
-    rėsi dėl būd ų  g alu tin ai L ietuvą su v ien y ti su L enkija
-    u n ijo s p ag rin d ais.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193381

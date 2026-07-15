@@ -36,30 +36,6 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
   pagrindžia:
     - c-84056
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176377|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Olivos metraščiai rašo, kad Gediminui ar jo kariui stumiant karinę mašiną pataikė Marijano iš bombardos paleistas šūvis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IX,
-    p. 923, nurodo, kad buvo ugninės
-    strėlės pervertas. Bet Olivos metraš­
-    čiai (Annales Oliv., p. 48) rašo, kad
-    tuo tarpu, kai Gediminas pats ar jo
-    karys pilies aptvaro link stūmė ka­
-    rinę mašiną, į jį pataikė kario Mari­
-    jano paleistas šūvis iš bombardos,
-    kurios buvo neseniai išrastos Vokie­
-    tijoje, Lietuvoje dar nežinomos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-84056

@@ -43,6 +43,7 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
   teiginys: "Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų)."
   pagrindžia:
     - c-30097
+    - c-167739
 
 <a id="claim-t-30194"></a>
 - t-002
@@ -50,66 +51,6 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
   teiginys: "Aleksandras su sūnumi greičiausiai dėl artimų ryšių su Gediminu buvo nužudyti totorių ordoje."
   pagrindžia:
     - c-32703
-
-<a id="claim-t-184369"></a>
-- t-003
-  global_id: t-184369
-  teiginys: "Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų)."
-  pagrindžia:
-    - c-167739
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių
-    chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo
-    sūnų). Greičiausiai dėl artimų ryšių su Gediminu, Aleksandras su
-    sūnumi totorių ordoje buvo nužudyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Aleksandras su sūnumi greičiausiai dėl artimų ryšių su Gediminu buvo nužudyti totorių ordoje.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Volgos totorių
-    chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo
-    sūnų). Greičiausiai dėl artimų ryšių su Gediminu, Aleksandras su
-    sūnumi totorių ordoje buvo nužudyti. Atsargiai prieš Lietuvą
-    (^8) **Plg. Paszkiewicz : PaJM, I, 324-325 p.**
-    (^9) **Ten pat, 315-365 p.**
-    (^10) **LUB, VI, 481 p.**
-    (^11) **Plg. Paszkiewicz : PaJM, 346-347 p.**
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šiaip jau Kalita vengė atviro susitikimo su Gediminu karo
-    lauke, pastoviai tačiau stengdamasis prieš Lietuvos sąjungininkus
-    veikti per totorius. Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių
-    chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo
-    sūnų).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -164,5 +105,3 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184369

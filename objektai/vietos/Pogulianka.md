@@ -38,25 +38,6 @@ Stepono bažnyčios ir Poguliankos rajonų.
 - susijęs iš [[objektai/asmenys/M. Frankovskis.md#claim-t-39778|M. Frankovskis]]: Gen. mjr. M. Frankovskis vadovavo lietuvių įtvirtinimams tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos.
 - susijęs iš Naujininkai: Leontijaus Bennigseno kavalerija atakavo lietuvių įtvirtinimus tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos rajonų.
 - susijęs iš [[objektai/asmenys/Leontijus Bennigsenas.md#claim-t-40305|Leontijus Bennigsenas]]: Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais ir kazokų pulko parama atakavo M. Frankovskio vadovaujamus lietuvių įtvirtinimus.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gen. mjr. Leontijus Bennigsenas tri-
-    mis kavalerijos pulkais, remiamas kazokų
-    pulko, atakavo gen. mjr. M. Frankovskio
-    vadovaujamus lietuvių įtvirtinimus tarp
-    Naujininkų, šv. Stepono bažnyčios ir
-    Poguliankos rajonų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-40333

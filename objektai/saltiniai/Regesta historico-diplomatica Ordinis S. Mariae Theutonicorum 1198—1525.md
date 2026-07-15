@@ -43,31 +43,13 @@ Dusburgietis teigia, kad regesta historico-diplomatica Ordinis S.
   teiginys: "„Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525“ antroji dalis išleista Getingene 1948 m."
   pagrindžia:
     - c-61900
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525“ antroji dalis išleista Getingene 1948 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525.— Pars
-    II: Regesta privilegiorum Ordinis S. Mariae Theutonicorum / Bearbeitet unter Mitwirkung
-    zahlreicher anderer von E. Joachim; Herausgegeben von W. Hubatsch.— Göttingen,
-    1948.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61900
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525.— Pars
     II: Regesta privilegiorum Ordinis S. Mariae Theutonicorum / Bearbeitet unter Mitwirkung

@@ -53,24 +53,6 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190707|Herodotas]]: Herodotas teigė, kad nuo Dnepro žiočių iki Gerų krašto reikia plaukti 40 dienų.
 - susijęs iš [[objektai/autoriai/Ignas Danilavičius.md#claim-t-81908|Ignas Danilavičius]]: Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų ir regestų rinkinį.
 - susijęs iš Seimo upė: Narbutas teigė, kad Hipakyris dabar vadinamas Seimo upe, o nerastą Herodoto upę jis siejo su dabartine Desna.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    siryžo, kad ir maišto keliu, išvaduoti savo kraštą iš Rusų jungo.
-    Tą nuotaiką ugdė ir pats universitetas, o ypač iškalbingas ir
-    gabus istorijos profesorius Lelevelis, kurio paskaitų su-
-    sirinkdavo klausyti ne vien studentai, bet ir daugybė vilniečių.
-    Tik visai netikėtai beplintantį judėjimą 1823 m. išardė rusai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-01333

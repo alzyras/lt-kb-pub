@@ -57,23 +57,6 @@ Nenurodyta
   teiginys: "1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą."
   pagrindžia:
     - c-33443
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet (1410.VIII.)
-    Livonijos kariuomenė laivais atvyko Sembon. Nuo Marienburgo
-    mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos
-    maršalu B. Hevelmannu ir pradėjo taikos derybas.
-    c.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

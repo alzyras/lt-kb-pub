@@ -6,7 +6,7 @@ tema_kategorija: "terminai"
 tema_kategorijos_pavadinimas: "Žodyno įrašai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 423
+tema_objektu_skaicius: 421
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 423.
+Objektų skaičius: 421.
 
 ## Kaip naudoti
 
@@ -260,7 +260,6 @@ Objektų skaičius: 423.
 - [maldininkai / maldininko įžadai](../objektai/zodynas/maldininkai%20maldininko%20%C4%AF%C5%BEadai)
 - [marksistinė periodizacija](../objektai/zodynas/marksistin%C4%97%20periodizacija)
 - [marksistinė periodizacija komunistinės istoriografijos nomenklatūra](../objektai/zodynas/marksistin%C4%97%20periodizacija%20komunistin%C4%97s%20istoriografijos%20nomenklat%C5%ABra)
-- [metraštis](../objektai/zodynas/metra%C5%A1tis)
 - [metrika](../objektai/zodynas/metrika)
 - [metropolija](../objektai/zodynas/metropolija)
 - [Meže](../objektai/zodynas/Me%C5%BEe)
@@ -393,7 +392,6 @@ Objektų skaičius: 423.
 - [territorium castri pilies apygarda (pilis)](../objektai/zodynas/territorium%20castri%20pilies%20apygarda)
 - [territorium lant valsčius](../objektai/zodynas/territorium%20lant%20vals%C4%8Dius)
 - [terrula žemelė](../objektai/zodynas/terrula%20%C5%BEemel%C4%97)
-- [transkripcija](../objektai/zodynas/transkripcija)
 - [tripartitio christiana luominė visuomenė](../objektai/zodynas/tripartitio%20christiana%20luomin%C4%97%20visuomen%C4%97)
 - [tėviškė](../objektai/zodynas/t%C4%97vi%C5%A1k%C4%97)
 - [tėvonies kunigaikštis](../objektai/zodynas/t%C4%97vonies%20kunigaik%C5%A1tis)

@@ -58,37 +58,6 @@ Nenurodyta
   pagrindžia:
     - c-11845
 - susijęs iš [[objektai/ivykiai/Giedraičių kautynės.md#claim-t-41271|Giedraičių kautynės]]: Prie Giedraičių lietuvių nuostoliai siekė 15 žuvusių karių ir kelis karininkus, apie 60 sužeistųjų ir apie 70 dingusių be žinios.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po Giedraičių kautynių atkirsta lenkų kavalerijos brigada lapkričio 24 d. ties Labanoru perėjo fronto liniją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tačiau kovos
-    su Želigovskio kariuomene
-    baigėsi. Giliai užnugaryje |
-    atkirsta lenkų kavalerijos S /| SHB)
-    brigada iš Ukmergės apy-
-    linkių ėmė skubiai trauk-
-    tis persekiojama Lietuvos
-    pajėgų ir lapkričio 24 d.
-    ties Labanoro mieste-
-    liu perėjo fronto liniją.
-    Lenkų pajėgos prie
-    Giedraičių patyrė didelių
-    nuostolių, tačiau ir lietuvių
-    nuostoliai buvo nemenki,
-    žuvo 15 karių ir keli karinin-
-    kai, apie 60 buvo sužeista,
-    apie 70 dingo be žinios.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-11845

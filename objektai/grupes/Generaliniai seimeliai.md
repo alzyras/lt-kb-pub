@@ -35,27 +35,6 @@ Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą.
   teiginys: "Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą."
   pagrindžia:
     - c-176030
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mat, anks-
-    čiau Lenkija buvo susi-
-    dėjusi iš dviejų valsty-
-    bių, ir šito dvilypio savarankiškumo žymės dar tebebuvo ne-
-    išnykusios. Tie generaliniai seimeliai neišnyko nė įvedus bend-
-    rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
-    seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
-    tančių atstovų ir senatorių suvažiavimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

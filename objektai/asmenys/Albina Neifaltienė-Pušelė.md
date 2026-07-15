@@ -36,58 +36,7 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
   teiginys: "Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos."
   pagrindžia:
     - c-44260
-
-<a id="claim-t-183724"></a>
-- t-002
-  global_id: t-183724
-  teiginys: "Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos."
-  pagrindžia:
     - c-167112
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšyje narsiai kovėsi ir junginio vado
-    žmona Albina Neifaltienė-Pušelė, kuri taik-
-    lia rankinio kulkosvaidžio ugnimi padarė
-    priešui daug nuostolių, tačiau ir pati buvo
-    priešo kulkos pakirsta.
-
-    Šovinys -7,62x25mm TT. Diskinė dėtuvė 71 šovinys arba
-    patikimesnė 35 šovinių lenkta dėtuvė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Panaudojus
-    granatas ir sutelktą ugnį partizanams su
-    nemenkais nuostoliais pavyko prasiveržti
-    link Sūsninkų.
-
-    Mūšyje narsiai kovėsi ir junginio vado
-    žmona Albina Neifaltienė-Pušelė, kuri taik-
-    lia rankinio kulkosvaidžio ugnimi padarė
-    priešui daug nuostolių, tačiau ir pati buvo
-    priešo kulkos pakirsta.
-
-    Šovinys -7,62x25mm TT.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -133,5 +82,3 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183724

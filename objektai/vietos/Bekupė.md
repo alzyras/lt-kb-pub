@@ -34,26 +34,6 @@ Tuo metu 3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą.
   teiginys: "Tuo metu 3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą."
   pagrindžia:
     - c-176439
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tuo metu 3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lenkai
-    buvo priversti palikti Šiupienių dvarą.
-    Tuo metu 3-iasis pulko batalionas užėmė
-    Bekupės-Juozapavo ruožą. Prieš lietuvius
-    lenkai iš rezervo vieną paskui kitą metė
-    du batalionus, kurie sulaikė lietuvių puo-
-    limą Giedraičių prieigose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

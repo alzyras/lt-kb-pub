@@ -35,8 +35,8 @@ Prie Obelių ežero Ukmergės apskrityje degintiniame kape buvo rasti 2–5 coli
   teiginys: "Prie Obelių ežero Ukmergės apskrityje degintiniame kape buvo rasti 2–5 colių skersmens varpeliai."
   pagrindžia:
     - c-171921
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prie Obelių ežero Ukmergės apskrityje degintiniame kape buvo rasti 2–5 colių skersmens varpeliai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -59,14 +59,19 @@ Prie Obelių ežero Ukmergės apskrityje degintiniame kape buvo rasti 2–5 coli
 - id: c-171921
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 350"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 350."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ištirti mord­
-    vių ir lietuvių giminystę yra labai svarbus dalykas. Ukmergės apskrity­
-    je prie Obelių ežero degintiniame kape buvo rasti varpeliai, kurie ka­
-    daise turėjo panašią paskirtį. Jų skersmuo - 2-5 coliai. Turiu savo se­
-    nienų rinkinyje**.
+    Bet jeigu šuolis pavykdavo,
+    jis sulaukdavo plojimų ir gaudavo dovanų paklotą ant stalelio
+    rankšluostį. Tuo tarpu sužadėtinę įvesdavo į trobą, vežėjas nu­
+    šokdavo nuo stalelio, pasiimdavo savo rankšluostį, o ant stale­
+    lio pasodindavo sužadėtinę. Tuoj prasidėdavo jungtuvės,
+    f
+    Įkijungtuviniuose papročiuose, be abejo, buvo skirtumų,
+    nelygu kurios jie buvo tautos iš įvairių, sudariusių lietuvių gentį,
+    ir jie kito pareinamai nuo vietos aplinkybių; pagaliau pats lai­
+    kas daug ką pakeitė.
+  citata_rodoma: "Ištirti mord­\nvių ir lietuvių giminystę yra labai svarbus dalykas. Ukmergės apskrity­\nje prie Obelių ežero degintiniame kape buvo rasti varpeliai, kurie ka­\ndaise turėjo panašią paskirtį. Jų skersmuo - 2-5 coliai. Turiu savo se­\nnienų rinkinyje**."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

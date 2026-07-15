@@ -41,38 +41,17 @@ XIV a. pradžioje Bavarijos kunigaikščio kariuomenė dalyvavo kryžiuočių ž
   teiginys: "XIV a. pradžioje Bavarijos kunigaikščio kariuomenė dalyvavo kryžiuočių žygyje, per kurį prieš apgultą pilį pastatyti Fridburgas ir Bajerburgas."
   pagrindžia:
     - c-172401
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XIV a. pradžioje Bavarijos kunigaikščio kariuomenė dalyvavo kryžiuočių žygyje, per kurį prieš apgultą pilį pastatyti Fridburgas ir Bajerburgas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kaip tik ten buvo minima Velionos šventykla. XIV am­
-    žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-
-    burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
-    lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
-    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
-    kiu šaunamuoju ginklu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172401
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kaip tik ten buvo minima Velionos šventykla. XIV am­
     žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-
+    jos paimti, pasistatė priešais ją dvi pilis - Fridburgą ir Bajer-
     burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
     lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
     Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­

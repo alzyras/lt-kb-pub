@@ -62,23 +62,6 @@ Nenurodyta
   teiginys: "Vytauto laikais LDK raštijos poreikiai sparčiai didėjo, o lietuvių kalba dar neturėjo susiformavusios raštijos tradicijos."
   pagrindžia:
     - c-55207
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
-    sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba. Tai lėmė
-    spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
-    tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
-    bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -99,3 +82,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54345
+    - t-54346

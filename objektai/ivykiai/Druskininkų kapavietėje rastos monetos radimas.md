@@ -7,12 +7,12 @@ datos:
   - '1841 m.'
 date_start: '1841'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -70,8 +70,8 @@ Nenurodyta
   teiginys: "1841 m. prie Druskininkų tik ką atkastoje kapavietėje buvo rasta moneta."
   pagrindžia:
     - c-174906
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -98,16 +98,18 @@ Nenurodyta
 - id: c-174906
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 489"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 489."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    pastraipos
-    tęsinys/
-    Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­
-    kininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­
-    bama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­
-    pai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai
-    pastatyto kalavijo ženklą.
+    Informacija, kuria autorius papildė paragrafą, rengdamas ant­
+    rąjį LTI leidimą (PEĮ. L. 26). Tekste minimi faktai paimti iš mi­
+    nėto T. Volianskio laiško (P. 12).
+    94 /Ten
+    pat,
+    nenurodyta
+    vieta/
+    Prilvico statulėlių rinkinyje, remiantis Mašo (Mascho) ir Vogeno
+    (Wogen) informacija, dievukas, turintis užrašą Szwaixtiks, neati­
+    tinka tų savybių, kurias mes priskiriame Lietuvos Apolonui.
   citata_rodoma: "Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus-\nkininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal-\nbama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul-\npai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai\npastatyto kalavijo ženklą."
   statusas: verified
   teiginio_tipas: faktas
@@ -117,4 +119,3 @@ Nenurodyta
     - t-192027
     - t-192028
     - t-192486
-    - t-004

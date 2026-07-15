@@ -44,7 +44,6 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
 - susijęs iš [[objektai/asmenys/Vergilijus.md#claim-t-190056|Vergilijus]]: Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių.
 - susijęs iš [[objektai/autoriai/Vergilijus.md#claim-t-190342|Vergilijus]]: Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbinimą, vėliau siejamą su Alba ir Roma.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -62,37 +61,24 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Pasak Narbuto perteikiamo Vergilijaus, žlugus Trojai Enėjas statė laivus iš Idos kalno medžių, paskirtų Kibelei.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Eri-
-    sichtono istorija, Dodonės ir Delfų šventieji miškai buvo gar­
-    sus Antikos laikais.
-    Šioje srityje buvo išradingas Vergilijus. Kai, žlugus Trojai,
-    liūdna būtinybė privertė Enėją palikti tėvynę, jam teko statyti
-    laivus iš Idos kalno medžių, paskirtų Kibelei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172976
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 111"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje
-    Graikijoje ir toliau.
-    Enėjas savo Karibus iš Trojos atsinešė į Italiją. Ypač jiems
-    lenkėsi Alba ir Roma; pastarojo miesto cirke buvę jiems trys
-    aukurai.
+    Egiptiečiai turėjo savo
+    Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
+    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
+    slavų Tryzną. Iš istorijos žinoma, kad senovės prūsai turėjo
+    Trejybę, todėl nedvejosime priimdami Kabirus į lietuvių die­
+    vų tarpą.
+    Apžvelkime artimesnius šito tikėjimo paminklus. 1811 me­
+    tais Drujos apylinkėse nusausinto ežero dugne rastos trys žal­
+    varinės statulėlės: jos buvo apie 18 colių aukščio, įskaitant pa­
+    grindą - 2 colių storumo trikampę žalvarinę lentą.
+  citata_rodoma: "Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje\nGraikijoje ir toliau.\nEnėjas savo Karibus iš Trojos atsinešė į Italiją. Ypač jiems\nlenkėsi Alba ir Roma; pastarojo miesto cirke buvę jiems trys\naukurai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -103,8 +89,7 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
 - id: c-172977
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 232"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Eri-
     sichtono istorija, Dodonės ir Delfų šventieji miškai buvo gar­

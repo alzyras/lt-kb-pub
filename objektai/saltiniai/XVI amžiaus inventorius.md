@@ -40,26 +40,6 @@ Kruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune) ir eilės kitų 
   teiginys: "Jablonskis 1934 m. išleido „XVI amžiaus inventorius“, parengtus iš Kauno Centrinio Valstybės archyvo ir kitų Lietuvos archyvų aktų."
   pagrindžia:
     - c-33761
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kulvietį, M.
-    Mažvydą ir kt.^85.
-    Kruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune)
-    ir eilės kitų Lietuvos archyvų reikalingus aktus, Jablonskis išleido
-    «XVI amžiaus inventorius» (1934). Ten jis paskelbė beveik pusę
-    iki tol nespausdintų XVI amž. dvarų, folvarkų, kaimų, miestelių
-    ir bažnytinių inventorių, kurie yra visokeriopai svarbūs Lietuvos
-    kultūros istorijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -34,32 +34,6 @@ Išėjus jo tarnams, Zigmantas taip prabilo į Jogailą: „Uwaž, najmilszy bra
   teiginys: "Długoszo istorijos veikale aprašytas Zigmanto raginimas Jogailai sutikti, kad Vytautas būtų paskirtas nauju karaliumi."
   pagrindžia:
     - c-37195
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Išėjus jo tarnams, Zigmantas taip
-    prabilo į Jogailą:
-    „Uwaž, najmilszy bracie, že kiedy ja i ty swietnemi blyszczym koro­
-    nami, ujmą to jest i niesprawiedliwością wielką dla książęcia Aleksandra
-    Witolda spólnego brata naszego, aby jemu samemu przeczyć królewskiej
-    godności. Chciej się zgodzić na to, okaż mu swoję przychylność, i pozwól,
-    aby prze ze mnie, który jako król Rzymski posiadam tę władzę, mianowa­
-    ny nowym królem, stał się mnie i tobie równym; niechaj korona nie tilko
-    twoję ozdabia głowę, ale i ojczyznę twoję Litwę". Į tai šiaip Jogaila at­
-    sakė: „Miłuję, najmilszy bracie, ksiąźęcia Aleksandra Witolda, życzę
-    mu wszelkiej godności i zaszczytu, i nie tylko w królewskiej ale w cesars­
-    kiej chciałbym go widzieć w koronie; sam chętnie ustąpiłbym mu kró­
-    lestwa Polskiego i na jego głovę koroną własną złożył”. (Dług., IV,
-    341—342).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

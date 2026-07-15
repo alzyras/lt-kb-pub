@@ -13,13 +13,13 @@ datos:
   - '1962 m.'
 date_start: '1422'
 date_end: '1962'
+amziai:
+  - 'XV'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-amziai:
-  - 'XV'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -118,50 +118,6 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/misijų teorija.md#claim-t-32797|misijų teorija]]: Kryžiuočių ordinas atstovavo ginkluotai misijų teorijai ir buvo paliktas nuošalyje atnaujinant lotyniškąjį krikštą Lietuvoje.
 - susijęs iš [[objektai/zodynas/vidaus kolonizacija.md#claim-t-32816|vidaus kolonizacija]]: Pasibaigus karams su kryžiuočiais, prasidėjo vidaus kolonizacija, ypač Sūduvos giriose.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jeigu prasidedant Vytauto Didžiojo laikams Lietuva buvo
-    dar pagonių šalis ir tebebuvo garbinami jos šventi miškai ir
-    tebekūrenama amžinoji ugnis, tai jau jo laikams baigiantis Lie­
-    tuva buvo gerokai sukatalikinta ir daugelyje jos vietų skambėjo
-    bažnyčių varpai. Vytautas tai pasiekė ne iš karto, bet po visos
-    eilės tų didžių ir nelengvų katalikybės skleidimo žygių, apie ku­
-    riuos iki šiol kalbėjom. Jais Vytautas seną religinę Lietuvos
-    būklę bent oficialiai pakeitė nauja, kurioje viso religinio gyveni­
-    mo centras buvo jau ne senojo lietuvių tikėjimo garbinama gam­
-    ta, bet pats jos Kūrėjas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos
-    ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo
-    laikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu. Į kai­
-    myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­
-    binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-
-    paliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­
-    kluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­
-    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
-    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
-    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
-    netos, liejami pabūklai, varpai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-003
   santrauka: 'Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -180,29 +136,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
-- c-004
-  santrauka: '1958 m. pasibaigus „atšilimui“, sovietų valdžia draudė skambinti bažnyčių varpais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko.
-    J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-
-    kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-
-    čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
-    130 kunigų. 1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija moky-
-    mo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti
-    varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas
-    Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia
-    blokuodavo atlaidų metu, paskelbdama neva „kiaulių marą“), tikintieji
-    pajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais
-    sustabdyta naujos bažnyčios statyba Klaipėdoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -257,16 +190,16 @@ Nenurodyta
 - id: c-85396
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 127-128"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127-128."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
-    pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų
-    relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.
-      392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III,
-    123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49).
-
-    Vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.
+    123 (118). Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį
+    Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
+    į Kulmo žemę ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę
+    kitokio turto, kurį išsigabeno su savimi, sudegino visus pastatus, esančius už įtvirtinimų
+    [sienų], o visą šią žemę užliejo raudonu krikščionių krauju. Kai apie tai išgirdo magistras
+    brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos
+    žemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė.
+  citata_rodoma: "Šitai išgirdę, broliai ir jų šeimyna, kitą dieną\npasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų\nrelikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.\n  392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III,\n123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49).\n\nVis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -297,3 +230,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89439
+    - t-89442

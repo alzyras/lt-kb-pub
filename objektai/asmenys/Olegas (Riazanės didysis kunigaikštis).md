@@ -43,24 +43,6 @@ media_all_json: |-
   teiginys: "1396 m. Riazanės didysis kunigaikštis Olegas su kitais puolė Lietuvą ir padarė daug žalos."
   pagrindžia:
     - c-41424
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1396 m. Riazanės didysis kunigaikštis Olegas su kitais puolė Lietuvą ir padarė daug žalos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1396 m. Riazanės didysis kunigaikš-
-    tis Olegas ir kiti „ėjo prieš Lietuvą ir
-    daug pikto padarė“. Vytautas vystė
-    puolimą į Riazanės kunigaikštystę,
-    gindamas savo pozicijas Smolenske.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

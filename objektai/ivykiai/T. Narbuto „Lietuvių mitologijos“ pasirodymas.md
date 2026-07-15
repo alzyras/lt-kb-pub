@@ -54,33 +54,13 @@ Nenurodyta
   teiginys: "„Lietuvių mitologijos“ pasirodymas šaltinyje siejamas su laiško datavimu apie 1836 m. arba 1837 m. pradžią."
   pagrindžia:
     - c-172483
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Lietuvių mitologijos“ pasirodymas šaltinyje siejamas su laiško datavimu apie 1836 m. arba 1837 m. pradžią.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Laiško origina­
-    las nepasiekė mūsų dienų, o iš juodraštinio varianto negalime
-    jo tiksliai datuoti. Ir vis dėlto laiško turinys leidžia nors apy­
-    tiksliai tą laiką nustatyti. Tai turėtų būti metai po „Lietuvių
-    mitologijos“ pasirodymo, t. y. laukiant LTI antro tomo -1836
-    metai arba 1837 metų pradžia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172483
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 47"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 47."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Laiško origina­
     las nepasiekė mūsų dienų, o iš juodraštinio varianto negalime

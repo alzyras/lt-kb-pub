@@ -57,28 +57,6 @@ Nenurodyta
   teiginys: "1383 m. Vytautas, Žemaičiuose surinkęs gausų kovotojų būrį, su magistru Zollneriu žygiavo prie Skirgailos valdomų Trakų."
   pagrindžia:
     - c-31380
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1383 m. Vytautas, Žemaičiuose surinkęs gausų kovotojų būrį, su magistru Zollneriu žygiavo prie Skirgailos valdomų Trakų.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Surinkęs Žemaičiuose gausų būrį kovotojų (yra minimi 3.000),
-    Kęstutaitis kartu su magistru Zollneriu traukė per Lietuvą prie
-    Skirgailos valdomų Trakų. Jie Vytautui greit pasidavė (1383.VIII.
-    12), nes Trakuose buvo jo šalininkų. Įveikti tačiau Vilnių, kur
-    Vytautas palaikytojų neturėjo, nepasisekė. Bet ir Trakai greit buvo
-    prarasti. Vytauto ir kryžiuočių įgula ten turėjo pasiduoti Jogailai
-    ir Skirgailai (XI.3) po 40 dienų trukusio apgulimo. Zollneris ir jo
-    globotinis, nežiūrint kad gerai buvo pasiruošę, nuo sostinės turėjo
-    su nesėkme grįžti ir taip 1383 metus baigė be jokių laimėjimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

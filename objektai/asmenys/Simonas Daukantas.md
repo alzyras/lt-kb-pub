@@ -10,16 +10,16 @@ datos:
   - '1875 m.'
 date_start: '1793'
 date_end: '1875'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - istorikas
-amziai:
-  - 'XVIII'
-  - 'XIX'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '2'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Simonas_Daukantas.png'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ASimonas_Daukantas.png'
@@ -91,29 +91,22 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   pagrindžia:
     - c-98414
 
-<a id="claim-t-105707"></a>
-- t-008
-  global_id: t-105707
-  teiginys: "Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi."
-  pagrindžia:
-    - c-21971
-
 <a id="claim-t-188607"></a>
-- t-009
+- t-008
   global_id: t-188607
   teiginys: "Manoma, kad Simonas Daukantas tuo metu jau buvo parašęs „Darbus senųjų lietuvių ir žemaičių“."
   pagrindžia:
     - c-171496
 
 <a id="claim-t-188608"></a>
-- t-010
+- t-009
   global_id: t-188608
   teiginys: "Savo „Darbų“ pratarmėje Simonas Daukantas rašė: „<...> aš ne dėl mokytų vyrų ir galvočių, bet dėl tų motinų rašiau“."
   pagrindžia:
     - c-171497
 
 <a id="claim-t-193630"></a>
-- t-011
+- t-010
   global_id: t-193630
   teiginys: "Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais."
   pagrindžia:
@@ -149,126 +142,6 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192302|dziejopis]]: Narbutas nurodė: Simonas Daukantas „dziejopis“ („dziejopisarz“) siejo su „latopisiec“, t. y. „meturaszitojas“.
 - susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192303|dziejopis]]: Narbutas nurodė: Simonas Daukantas „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dziejopis“ aiškino kaip „wejkaluraszytojas“.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
-    buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
-    tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
-    parašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo
-    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
-    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
-    europietiškos katalikiškos civilizacijos šalininkas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-008
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kita vertus, pirmoje
-    dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
-    dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
-    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
-    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
-    Malevskiui už gausius išrašus iš Lietuvos Metrikos. P. Malev-
-    skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­
-    partamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­
-    kas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-006
-
-- c-003
-  santrauka: 'Simonas Daukantas domėjosi M. Balinskio publikacijomis apie kultūrinį sąjūdį Žemaitijoje ir kitus kultūros klausimus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kituose Gazeta Warszawska spausdintuose straipsniuo­
-    se istorikas detaliai aprašė Vilniaus Archeologinės komisijos
-    veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė
-    istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­
-    šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis
-    supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
-    rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
-    Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-004
-  santrauka: 'Simoną Daukantą įkvėpė suvokimas, kad tautos ateičiai būtina tautos atmintis, todėl jis raštu įamžino Lietuvos praeitį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
-    1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui
-    Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija
-    turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
-    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
-    Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
-    Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži-
-    niais valstybės raidos etapais ir išskirtinėmis progomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-005
-  santrauka: 'Simonas Daukantas įkalbino Motiejų Valančių rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rengė žodynus,
-    netgi parašė lietuvių kalba vadovėlį vidurinėms mokykloms.
-    Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–
-    1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus
-    Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-
-    riją lietuviškai. 1848 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-006
-  santrauka: 'Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš
-    tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet
-    veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­
-    vo. Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
-    čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
-    tautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­
-    ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
-    formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
-    mą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-007
   santrauka: 'Manoma, kad Simonas Daukantas tuo metu jau buvo parašęs „Darbus senųjų lietuvių ir žemaičių“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -304,27 +177,6 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   pagrindžia:
     - t-010
 
-- c-009
-  santrauka: 'Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
-    parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
-    plito nuorašais. Vėliau S. Daukantas persikėlė į Sankt Peterburgą, įsidar-
-    bino Rusijos valstybės Senato archyve, kad galėtų prieiti prie ten saugomų
-    Lietuvos istorijos dokumentų, parašė lietuvių kalba dar dvi dideles Lietu-
-    vos istorijos knygas, išleido plačią beletrizuotą etninių lietuvių kultūros
-    studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“, seriją švietėjiškų,
-    Simonas Daukantas. Dail. J. Zenkevičius,
-    1850 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
 ## Citatos
 
 - id: c-21971
@@ -346,7 +198,6 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-105707
-    - t-105714
 
 - id: c-98412
   autorius: "Michał Baliński"
@@ -457,15 +308,19 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - id: c-171496
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 50."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Manoma, kad tuo metu jau buvo parašyti
-    S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
-    buvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo
-    persirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­
-    rytum pastangų parašyti lietuvių tautos istoriją iki pat 1829
-    metų ir nebuvo.
+    Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­
+    tais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­
+    džiagą, išvada. Kaip rodo antro LTI tomo parankinis egzem­
+    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
+    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
+    ma nemažai šio žemaičių literato rankraščių. Antra vertus, var­
+    gu ar būtume teisūs kalbėdami apie šį D. Poškos testamentą,
+    kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
+    poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
+    timi.
+  citata_rodoma: "Manoma, kad tuo metu jau buvo parašyti\nS. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai\nbuvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo\npersirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­\nrytum pastangų parašyti lietuvių tautos istoriją iki pat 1829\nmetų ir nebuvo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -476,14 +331,19 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - id: c-171497
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 50."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Galbūt geriausiai šį faktą paaiškintų paties
-    S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
-    kytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba
-    savo vaikams darbus jų bočių prabočių papasakoti, o be raštų
-    daug kartų apsirinka“12.
+    Kaip rodo antro LTI tomo parankinis egzem­
+    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
+    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
+    ma nemažai šio žemaičių literato rankraščių. Antra vertus, var­
+    gu ar būtume teisūs kalbėdami apie šį D. Poškos testamentą,
+    kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
+    poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
+    timi. Ir vis dėlto šis straipsnis rodo bendrą lygį, bendrą nuotai­
+    ką, gimstantį norą rašyti patiems, t. y. tokiu būdu išvengti klai­
+    dų, kurias sąmoningai ar nesąmoningai darė kiti.
+  citata_rodoma: "Galbūt geriausiai šį faktą paaiškintų paties\nS. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­\nkytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba\nsavo vaikams darbus jų bočių prabočių papasakoti, o be raštų\ndaug kartų apsirinka“12."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

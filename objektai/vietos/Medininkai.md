@@ -110,7 +110,6 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 - susijęs iš Medininkų žemė: 1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę.
 - susijęs iš Sizditė: 1314 m. apie vasario 2 d. maršalas Henrikas su kariuomene puolė Sizditės pilį Medininkų valsčiuje.
 - susijęs iš Vilniaus katedra: 1396 m. Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą netoli Medininkų pilies.
-- susijęs iš Vilnius: Vilnius dėl stiprių tvirtovių įgulų išvengė puolimo, bet didysis magistras nuniokojo apylinkes iki Medininkų ir Ašmenos.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70227|maldininkai / maldininko įžadai]]: Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70230|maldininkai / maldininko įžadai]]: 1316 m. Henrikas Karaliaučiuje sutiko iš Reino krašto atvykusių maldininkų ir su jais nusiaubė Medininkų valsčių.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58827|maldininkai]]: 1316 m. Henrikas Karaliaučiuje sutiko iš Reino krašto atvykusių maldininkų ir su jais nusiaubė Medininkų valsčių.
@@ -135,7 +134,7 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 - susijęs iš [[objektai/asmenys/Spagerotė.md#claim-t-60437|Spagerotė]]: Spagerotė buvo vienas iš keturių prityrusių karių, kurių broliai neteko 1314 m. Sizditės pilies puolime.
 - susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87479|Stanislovas Goštautas]]: 1542 metais Vilniuje Naugarduko vaivada Stanislovas Goštautas dalyvavo patvirtinant raštą valdovo antspaudu.
 - susijęs iš [[objektai/asmenys/Stanislovas Jonas Da Vaina.md#claim-t-87859|Stanislovas Jonas Da Vaina]]: Stanislovas Jonas Da Vaina buvo paminėtas tarp valdovo tarybos narių ir pareigūnų, dalyvavusių rašto patvirtinime.
-- susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-184834|Sudargas]]: Sudargo šeimyna nukentėjo, kai priešas paėmė į nelaisvę jo žmoną, sūnus ir visus šeimynykščius.
+- susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-184834|Sudargas]]: Kojelavičius rašo, kad po pralaimėjimo priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Tetingeno.md#claim-t-60451|Ulrichas iš Tetingeno]]: 1314 m. mūšyje prie Sizditės pilies žuvo brolis Ulrichas iš Tetingeno.
 - susijęs iš [[objektai/asmenys/Vaclovas (Medininkų vyskupas).md#claim-t-87481|Vaclovas (Medininkų vyskupas)]]: Medininkų vyskupas Vaclovas dalyvavo 1542 m. Vilniuje duoto rašto patvirtinime kartu su kitais dignitoriais ir pareigūnais.
 - susijęs iš [[objektai/autoriai/Kliausis, lg.md#claim-t-30758|Kliausis, lg]]: Ig. Kliausis 1929 m. Grace parengė disertaciją „Die Kirchenpolitik in Litauen unter Jogaila und Vytautas (1377-1421)“.
@@ -186,23 +185,6 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59867|Henrikas iš Plockės]]: 1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių.
 - susijęs iš [[objektai/asmenys/Henrikas Rutėnas.md#claim-t-60318|Henrikas Rutėnas]]: Henrikas Rutėnas žuvo 1314 m. apie vasario 2 d. užsitęsusioje kovoje prie Sizditės pilies Medininkų valsčiuje.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175090|Sembai]]: 1314 m. maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Apie gegužės 20 d. į Vilniaus srities Medininkus buvo įsiveržta, ten išbūta aštuonias dienas ir pasitraukta su dideliu grobiu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Apie
-    gegužės m. 20 d. jis įsiveržė į Vilniaus srities Medininkus ir,
-    pabuvęs ten astuonias dienas, grįžo su dideliu grobiu^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-37543

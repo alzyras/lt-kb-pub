@@ -35,26 +35,6 @@ Prieš pat sukilimo pradžią Vilniaus karo apygardoje buvo dislokuoti 66 482 ka
   teiginys: "Prieš pat sukilimo pradžią Vilniaus karo apygardoje buvo dislokuoti 66 482 kariai ir karininkai ir 120 patrankų."
   pagrindžia:
     - c-176444
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prieš pat sukilimo pradžią Vilniaus karo apygardoje buvo dislokuoti 66 482 kariai ir karininkai ir 120 patrankų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Carinė žvalgyba turėjo žinių apie ruo-
-    šiamą sukilimą ir stiprino vakarinėse im-
-    perijos teritorijose savo karines pajėgas.
-    Prieš pat sukilimo pradžią Vilniaus karo
-    apygardoje buvo dislokuoti 66 482 kariai
-    ir karininkai ir 120 patrankų. Čia sto-
-    vėjo I pėstininkų korpusas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

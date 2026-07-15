@@ -67,35 +67,12 @@ Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką 
 - susijęs iš [[objektai/zodynas/Wespats.md#claim-t-192193|Wespats]]: Teodoro Narbuto aiškinimu, Wespats lietuvių kalba reiškia poną.
 - susijęs iš [[objektai/zodynas/Wespats.md#claim-t-192194|Wespats]]: Teodoro Narbuto aiškinimu, Wespats, vartojamas su kitu žodžiu, reiškia patvaldystę.
 - susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192247|karaliukas]]: Teodoras Narbutas herulų vadus Farą, Filemutą, Fanotėjų ir Fulkarį vadina karaliukais.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką žodį „nukrypęs“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuviai, artimesni prūsams,krzywy\adincLKreiwas -
-    iš slavų kalbos, o kiti, kaip antai mano užkampiečiai, turi tam
-    tikslui liaudišką žodį „nukrypęs“ (Nukripis) . Taigi neneigda­
-    mi, kad vaitų lazdas vadino krivūlėmis (Krywuli) ir kad galbūt
-    panašiomis lazdomis naudojosi ir žemesnieji kriviai, nekildin­
-    sime jų pavadinimo iš slaviško žodžio, pasiskolinto tik vienoje
-    provincijoje.
-    21 Sirvydo žodynas. -  P. 119.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-173287
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 291"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 291."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuviai, artimesni prūsams,krzywy\adincLKreiwas -
     iš slavų kalbos, o kiti, kaip antai mano užkampiečiai, turi tam
@@ -104,7 +81,7 @@ Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką 
     panašiomis lazdomis naudojosi ir žemesnieji kriviai, nekildin­
     sime jų pavadinimo iš slaviško žodžio, pasiskolinto tik vienoje
     provincijoje.
-    21 Sirvydo žodynas. -  P. 119.
+    21 Sirvydo žodynas. - P. 119.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

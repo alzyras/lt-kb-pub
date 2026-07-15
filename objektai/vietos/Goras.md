@@ -45,27 +45,6 @@ media_all_json: |-
 - susijęs iš Afganistanas: 2004 m. pabaigoje Lietuvai pasiūlyta vadovauti Afganistano Goro provincijos atkūrimo grupei ir padėti užtikrinti stabilumą bei saugumą.
 - susijęs iš [[objektai/daiktai/Išsaugotos Toros.md#claim-t-19534|Išsaugotos Toros]]: Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų.
 - susijęs iš [[objektai/zodynas/Restitucija.md#claim-t-22021|Restitucija]]: Įtvirtindama demokratines vertybes Lietuva siekė vykdyti religinio turto restituciją ir grąžinti žydų kultūros vertybes.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Narystė
-    NATO – ne tik didesnės saugumo garantijos, bet ir įsipareigojimai prisidėti
-    prie stabilumo ir taikos palaikymo ne tik Europoje, bet ir už jos ribų. Apskri-
-    tai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-
-    vinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių. 2004 m. pabaigoje
-    Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – at-
-    kūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir
-    saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24133

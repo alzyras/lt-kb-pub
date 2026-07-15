@@ -35,25 +35,6 @@ Pasiuntiniai įteikė susirinkimui raštą (Proposicio Samay­ tarum), kuriame s
   teiginys: "Žemaičių pasiuntiniai „Proposicio Samaytarum“ skundėsi, kad Ordinas trukdė žemaičiams priimti katalikybę."
   pagrindžia:
     - c-36209
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Žemaičių pasiuntiniai „Proposicio Samaytarum“ skundėsi, kad Ordinas trukdė žemaičiams priimti katalikybę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pasiuntiniai įteikė susirinkimui raštą (Proposicio Samay­
-    tarum), kuriame skundėsi, kad seniai norėjo priimti kataliky­
-    bę, bet tam trukdė Ordinas, troškęs tik jų žemių ir laisvės, o
-    krikštyti nekrikštijęs. Tai padarė Vytautas ir Jogaila. Prašo
-    pasiųsti vyskupą įkurti vyskupijai ir sutvarkyti visus bažnyti­
-    nius reikalus^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -86,72 +86,12 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Šalmai.md#claim-t-193015|Šalmai]]: Narbuto pasakojime vado įsakymu iš stovyklos išėję visiškai apsiginklavę riteriai turėjo šalmus, lygintus su tekančios saulės spinduliais.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-192367|Bartai]]: Narbuto pasakojime prūsai ir bartai kitą dieną buvo atsiųsti kaip pagalba priešams.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192445|Prūsai]]: Pasak Teodoro Narbuto pasakojimo, kitą dieną priešams į pagalbą buvo atsiųsti prūsai ir bartai.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
-    kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
-    prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
-    stovyklos visiškai apsiginklavus: skydai spindėjo kaip
-    žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
-    ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
-    liai su lankais, paruoštais smūgiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvoje (AkMD, t. 16, 1964, 63-80 p.), apie sidabrą kaip vertės
-    matą (AkMD, t. 20, 1966, 33-45 p.), apie sidabro dirbinius ir auk­
-    sakalystę Lietuvoje iki XIII a. (AkMD, t. 22, 1966, 67-83 p.; t. 27,
-    1968, 47-55 p.). E. Danilaitė domėjosi brūkšniuotąja keramika
-    Lietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;
-    t. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103. J. Stankus rašė
-    apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII
-    a.^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių
-    skydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbuto pasakojime vado įsakymu iš stovyklos išėję visiškai apsiginklavę riteriai turėjo skydus, spindėjusius kaip žvaigždės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kitą dieną priešams buvo atsiųsta pagalba —
-    prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
-    stovyklos visiškai apsiginklavus: skydai spindėjo kaip
-    žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
-    ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
-    liai su lankais, paruoštais smūgiui. Pats Danielius, ant
-    žirgo jodamas, tvarkė kariuomenės gretas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-174923
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
     kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
@@ -193,8 +133,7 @@ Nenurodyta
 - id: c-175295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kitą dieną priešams buvo atsiųsta pagalba —
     prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš

@@ -37,21 +37,6 @@ Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž.
     - c-38492
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Šv. Martyno bažnyčią Jogaila pastatė Aukš.
-    Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž. Šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38492

@@ -40,25 +40,6 @@ Konstitucija. Konstitucija nustatė Lietuvos valstybei demokratinės respublikos
   teiginys: "Lietuvos Valstybės Konstitucija buvo priimta 1922 m. rugpjūčio 1 d."
   pagrindžia:
     - c-67353
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Konstitucija. Galu-
-    tinė konstitucija buvo
-    priimta tik 1922 metų
-    rugpiūčio mėn. 1 d. (vie-
-    nų krikščionių demokra-
-    tų balsais; kitos partijos
-    balsavo prieš ją).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

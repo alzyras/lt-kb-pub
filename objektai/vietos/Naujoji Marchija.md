@@ -35,23 +35,6 @@ media_all_json: |-
   teiginys: "Naujosios Marchijos šaltyšius pranešė, kad lenkų kariuomenė buvo išsirikiavusi per kelias mylias."
   pagrindžia:
     - c-38582
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lenkai ir
-    dabar vėl ryžosi pastot karūnacijai kelią. Jie atidžiai išskirstė
-    kariuomenę ir saugojo visą Prūsą pasienį, kad kas į Lietuvą ne­
-    įeitų. Kaip praneša Naujosios Marchijos šaltyšius, lenkų ten
-    per kelias mylias buvę išsirikiavusių apie 40.000^3 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

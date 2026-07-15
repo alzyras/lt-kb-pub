@@ -69,45 +69,6 @@ Nenurodyta
   teiginys: "Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų."
   pagrindžia:
     - c-00269
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    O šitos šventovės
-    būdavo rengiamos kur nors arti sodybų, ant atskirų piliakalnių.
-    Archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės
-    dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al-
-    kakapių, Alkų kaimų — pilna Lietuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visi jie atlikinėjo įvairias apeigas, tik, žinoma, kai
-    kurie iš jų buvo žinomesni, išgarsėję gydymu ar būrimu, — į juos
-    kreipėsi didesnis skaičius žmonių, su jais skaitėsi valdovai, —
-    tad ir jų šventovės buvo garsesnės. Taigi pasakojimas, kad buvęs
-    kažkoks vienas vyriausiasis kunigas ir viena vyriausioji šventovė
-    — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne-
-    daug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką,
-    nusižiūrėję į katalikų Bažnyčią. Šventovės vienur buvo vadi-
-    namos romuvomis, kitur alkomis, — gal būt, dėl skirtingo savo
-    pobūdžio arba dėl tarminių skirtumų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
 
 ## Citatos
 
@@ -150,5 +111,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06173
     - t-06172
+    - t-06173

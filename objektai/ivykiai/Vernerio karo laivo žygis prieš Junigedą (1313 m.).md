@@ -66,48 +66,13 @@ Nenurodyta
   teiginys: "Junigedos pilėnai užpuolė prie kranto nublokštą Ordino laivą, bet broliai ir ginklanešiai apsigynė ir išsigelbėjo."
   pagrindžia:
     - c-60081
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Junigedos pilėnai užpuolė prie kranto nublokštą Ordino laivą, bet broliai ir ginklanešiai apsigynė ir išsigelbėjo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitai išvydę, pilėnai, pasičiupę
-    ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
-    mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista. Šitaip broliai ir išsigelbėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1313 m. Ragainės komtūras Verneris pasistatydino sienomis sustiprintą karo laivą ir su kitais laivais išplaukė pulti Junigedos pilies.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    317 (310). Apie vieną brolių karo laivą
-
-      Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
-    sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,
-    laivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę
-    ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60081
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 208"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šitai išvydę, pilėnai, pasičiupę
     ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
@@ -122,12 +87,10 @@ Nenurodyta
 - id: c-60082
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 208"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     317 (310). Apie vieną brolių karo laivą
-
-      Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
+    Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
     sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,
     laivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę
     ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis.

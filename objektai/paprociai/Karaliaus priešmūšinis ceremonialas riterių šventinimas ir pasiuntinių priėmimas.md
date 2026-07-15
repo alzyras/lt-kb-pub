@@ -62,40 +62,6 @@ Nenurodyta
   teiginys: "Pagal Dlugošą, karalius formaliai laikytas vyriausiuoju vadu, šventino riterius ir priėmė Ordino pasiuntinius."
   pagrindžia:
     - c-96903
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pagal kronikininką, karalius formaliai skai­
-    tėsi vyriausiuoju vadu. Jis šventino riterius, priėmė ordino pasiun­
-    tinius, o pačių kautynių metu 60-ties raitelių buvo saugojamas
-    «tarp vežimų ir palapinių »^17. Esą, karalius iš tolo, šaukdamas
-    iki užkimimo, karius skatinęs kovai^18.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Pagal Dlugošą, karalius formaliai laikytas vyriausiuoju vadu, šventino riterius ir priėmė Ordino pasiuntinius.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
-    Zbignievo Olesnickio. Pagal kronikininką, karalius formaliai skai­
-    tėsi vyriausiuoju vadu. Jis šventino riterius, priėmė ordino pasiun­
-    tinius, o pačių kautynių metu 60-ties raitelių buvo saugojamas
-    «tarp vežimų ir palapinių »^17.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

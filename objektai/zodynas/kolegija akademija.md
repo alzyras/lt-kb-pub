@@ -35,26 +35,6 @@ Visur, kur tik leido valdžia, jie ėmė steigti savo mokyklas, pradėdami nuo v
   teiginys: "Jėzuitai steigė vidurines mokyklas, vadintas kolegijomis, o stambesniuose centruose kūrė universitetams prilygusias akademijas."
   pagrindžia:
     - c-72108
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jėzuitai steigė vidurines mokyklas, vadintas kolegijomis, o stambesniuose centruose kūrė universitetams prilygusias akademijas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visur, kur tik leido
-    valdžia, jie ėmė steigti savo mokyklas, pradėdami nuo vidu-
-    rinių mokyklų, vadinamųjų kolegijų; vėliau stambesniuose
-    centruose buvo kuriamos aukštosios mokyklos, vadinamosios
-    akademijos, kurios prilygo universitetams. Tam pa-
-    čiam reikalui jėzuitai buvo atkviesti ir į Lietuvą. Čia jie pir-
-    miausia Vilniuje įkūrė savo kolegiją, o vėliau ir akademiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

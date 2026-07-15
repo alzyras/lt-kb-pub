@@ -63,26 +63,6 @@ Nenurodyta
   teiginys: "Vilniaus vyskupas Mikalojus Dzerško arba Dzerškavičius savo antspaude turėjo Stumbro ženklą."
   pagrindžia:
     - c-83081
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilniaus vyskupas Mikalojus Dzerško arba Dzerškavičius savo antspaude turėjo Stumbro ženklą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    7. Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų
-    menų magistras, buvo vyskupu nuo 1453 m. iki 1462 m. Ant­
-    spaude turėjo Stumbro ženklą.
-    ciškonų istorijoje T. VII, p. 157 pa­
-    sakoja, kad 1399 metais Vilniaus
-    vyskupu buvo pakeltas po Važilos
-    pranciškonas Jonas Pliekta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

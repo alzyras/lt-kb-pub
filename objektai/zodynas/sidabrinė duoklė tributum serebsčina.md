@@ -35,24 +35,6 @@ Duoklėmis ir mezliavomis atsilygindavo daugiausia pa­ prastieji žmonės, kuni
   teiginys: "Sidabrinė duoklė buvo piniginis paklusnybės mokestis, daugiausia žinomas sidabrinės arba serebsčinos vardu."
   pagrindžia:
     - c-35537
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Duoklėmis ir mezliavomis atsilygindavo daugiausia pa­
-    prastieji žmonės, kunigaikščiai—pinigais, kaip paklusnybės mo­
-    kesčiu, ypač rusiškuose kraštuose. Apie mokesčius pinigais
-    (tributum) kalbama ir Horodlės unijoje. Vadinamas jis įvai­
-    riose vietose skirtingais vardais, bet daugiausia žinomas sida­
-    brinės (serebsčina) vardu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

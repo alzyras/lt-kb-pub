@@ -35,30 +35,6 @@ Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir
   teiginys: "Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir norėję savo Jadvygą išleisti už Jogailos, didžiojo Lietuvos kunigaikščio, bet jų tarpe radosi ir tokių, kurių akys buvo nu kreiptos į Vytautą, kaip į „gudresnį“."
   pagrindžia:
     - c-177363
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir norėję savo Jadvygą išleisti už Jogailos, didžiojo Lietuvos kunigaikščio, bet jų tarpe radosi ir tokių, kurių akys buvo nu kreiptos į Vytautą, kaip į „gudresnį“.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    To­
-    dėl ir nenuostabu, kad jis, kiek tai teisinga, yra parėmęs norus
-    mažlenkių didikų, besistengiančių išgaut iš Vengrijos rūmų su­
-    tikimą suardyti Jadvygos vestuves su Habsburgu ir atiduoti jau­
-    nos ir gražios Jadvygos ranką Lietuvos valdytojui. Dlugošas
-    net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant,
-    ir norėję savo Jadvygą išleisti už Jogailos, didžiojo Lietuvos
-    kunigaikščio, bet jų tarpe radosi ir tokių, kurių akys buvo nu­
-    kreiptos į Vytautą, kaip į „gudresnį“. Gilesnė priežastis, kodėl
-    Jadvygos ranka neatiteko Vytautui, bus buvusi ta, kad Lietuvos
-    savininkas ne jis buvo, o Jogaila.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

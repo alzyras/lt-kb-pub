@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Mūsų tautosaka, t.4 (1931)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -173,6 +174,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - susijęs iš Turgeliai: Prie Turgelių, netoli Vilniaus, buvusio Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.
 - susijęs iš Varėnos, Valkininkų ir Merkinės miškai: Balińskis Varėnos, Valkininkų ir Merkinės miškus priskyrė amžinosioms girioms, esą siekiančioms žmonijos pradžią.
 - susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195578|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: 1911 m. A. R. Niemis keliavo Dzūkijoje per Valkininkus, Merkinę ir Daugus.
+- susijęs iš [[objektai/asmenys/Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.).md#claim-t-200494|Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.)]]: Aleksandras Pšezdieckis buvo Livonijos kaštelionas.
+- susijęs iš [[objektai/asmenys/Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.).md#claim-t-200495|Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.)]]: 1730 m. kanauninkas derėjosi su Livonijos kaštelionu Aleksandru Pšezdieckiu dėl Dombrovnos prie Oršos ir Skuodo valdų.
 - susijęs iš [[objektai/asmenys/Karalius Kazimieras (1483 m. privilegijos davėjas).md#claim-t-190123|Karalius Kazimieras (1483 m. privilegijos davėjas)]]: Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katinas lietuviams buvo Lietuvos simbolis.
 - susijęs iš [[objektai/asmenys/Kazimieras Skirgaila.md#claim-t-185950|Kazimieras Skirgaila (Lenkijos karalius)]]: Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/asmenys/Mykolas (Glinsko kunigaikštis).md#claim-t-87557|Mykolas (Glinsko kunigaikštis)]]: 1503 m. Vilniuje duotame rašte dalyvavęs Mykolas įvardytas kaip Glinsko kunigaikštis ir Lietuvos rūmų maršalka.
@@ -206,12 +209,13 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno ir Balińskio priskirti amžinosioms girioms.
 - susijęs iš Subartonys: Viena kovotojų grupė nuvyko Subartonių miško link sulaikyti galimo pastiprinimo iš Alytaus.
 - susijęs iš Turgeliai: Merkinės dvaro prie Turgelių valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.
-- susijęs iš Vilnius: Karalius Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.
 - susijęs iš [[objektai/zodynas/Lietuva Lietwii kaip laisvės ženklas.md#claim-t-189117|Lietuva Lietwii kaip laisvės ženklas]]: Narbutas 1483 m. Kazimiero privilegiją Rimvydui laikė įrodymu, kad katinas lietuviams buvo stabmeldiškosios laisvės, arba Lietwii, ženklas.
 - susijęs iš [[objektai/zodynas/Lietuvos didysis kunigaikštis.md#claim-t-185374|Lietuvos didysis kunigaikštis]]: Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113643|Magdeburgo teisės]]: Vladislovas Jogaila Merkinėje rašytu aktu kitą dieną po Šv. Benedikto, abato, šventės suteikė Vilniui Magdeburgo teises.
 - susijęs iš [[objektai/zodynas/didysis kunigaikštis.md#claim-t-185401|didysis kunigaikštis]]: Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/zodynas/tenuta laikytojas.md#claim-t-86575|tenuta laikytojas]]: 1503 m. Vilniuje duotame rašte Stanislovas Hlebavičius minimas kaip Polocko laikytojas, o Albertas Janavičius - kaip Kauno laikytojas.
+- susijęs iš [[objektai/asmenys/Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.).md#claim-t-200494|Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.)]]: Aleksandras Pšezdieckis buvo Livonijos kaštelionas.
+- susijęs iš [[objektai/asmenys/Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.).md#claim-t-200495|Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.)]]: 1730 m. kanauninkas derėjosi su Livonijos kaštelionu Aleksandru Pšezdieckiu dėl Dombrovnos prie Oršos ir Skuodo valdų.
 - susijęs iš Dzūkija: Žinios apie Dzūkijos partizanų sėkmę paskatino kitur Lietuvoje veikusius laisvės kovotojus imtis aktyvesnių veiksmų.
 - susijęs iš [[objektai/grupes/Merkinės batalionas.md#claim-t-38986|Merkinės batalionas]]: Rugpjūtį Vanago vadovaujama 140 vyrų Merkinės ir Alovės partizanų kuopa buvo performuota į Merkinės batalioną.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173248|Vladislovas Jogaila]]: Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.
@@ -292,8 +296,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180314
     - t-180307
+    - t-180314
 
 - id: c-163932
   sudarytojas: "Karolis Zikaras"
@@ -335,8 +339,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180316
     - t-180308
+    - t-180316
 
 - id: c-163935
   autorius: "Michał Baliński"
@@ -471,16 +475,22 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - id: c-171661
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 405"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 405."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    IV lentelė, 28-asis piešinys. Mačiau aukso žiedą su raudo­
-    nu akmeniu, valstiečio rastą prie Merkinės. Jo skyde gaidys su
-    pridėtu kažkokiu ženklu, panašiu į biarmišką raidę Pej, arba P.
-    Virš skydo tarytum kita tos abėcėlės raidė -  Mena, arba M;
-    žiedo auksakalio darbas labai gražus, graviravimas grubus ir
-    tarsi demonstruojantis pirmą raižytojo gabumų išmėginimą,
-    bet išrėžta labai giliai.
+    Ratu
+    einantis užrašas perskaitomas; kai dėl herbo įvedimo datos,
+    atrodo, įtikėtina, kad tai buvo 1325 metais, taigi dar stabmel­
+    dystės laikais; todėl pasitvirtina mūsų spėjimas, kad tai milži­
+    nas Alcis laikui bėgant virto šventuoju Kristupu. Antrame ant­
+    spaude, prispaustame šalia šito, skyde yra Vytis po karūna;
+    apačioje - Radvilų herbas Trimitai*.
+    Lietuvos didžiojo kunigaikščio Žygimanto Kęstutaičio di­
+    džiajame antspaude, įspaustame vaške ir prikabintame prie
+    autentiško 1436 metų rašto (mačiau tikslų antspaudo piešinį),
+    yra keturi herbiniai skydai; viename, kurį kaire ranka laiko
+    kunigaikštis, sėdintis soste su kalaviju dešinėje rankoje, pa­
+    vaizduotas Lietuvos Vytis; tai visos Lietuvos herbas.
+  citata_rodoma: "IV lentelė, 28-asis piešinys. Mačiau aukso žiedą su raudo­\nnu akmeniu, valstiečio rastą prie Merkinės. Jo skyde gaidys su\npridėtu kažkokiu ženklu, panašiu į biarmišką raidę Pej, arba P.\nVirš skydo tarytum kita tos abėcėlės raidė -  Mena, arba M;\nžiedo auksakalio darbas labai gražus, graviravimas grubus ir\ntarsi demonstruojantis pirmą raižytojo gabumų išmėginimą,\nbet išrėžta labai giliai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

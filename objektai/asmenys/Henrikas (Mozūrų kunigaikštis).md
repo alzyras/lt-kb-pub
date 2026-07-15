@@ -43,42 +43,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   teiginys: "Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje."
   pagrindžia:
     - c-36318
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ta sunki Lenkijos būklė ir padeda mums išaiškinti Jo­
-    gailos ir Lenkijos Vytautui padarytus nusileidimus.
-    To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
-    kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
-    mesniems žygiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautą rado jis Rittersverdery, berengiantį planus toli­
-    mesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis
-    savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
-    Lietuvą. Šitą Jogailos ir lenkų kapituliaciją padiktavo ne jų
-    simpatijos Vytautui, bet, kaip mes matėm, sunki Lenkijos ir
-
-    (^1) ) Tuo klausimu žiur.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

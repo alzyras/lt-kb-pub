@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos.
+Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos. Vaitiekus Kiočka neįstengė sugrąžinti didikų atgal prie karaliaus.
 
 ## Teiginiai
 
@@ -35,30 +35,29 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
   teiginys: "Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos."
   pagrindžia:
     - c-169623
-## Reikšmingi paminėjimai
 
+<a id="claim-t-196614"></a>
+- t-002
+  global_id: t-196614
+  teiginys: "Vaitiekus Kiočka neįstengė sugrąžinti didikų atgal prie karaliaus."
+  pagrindžia:
+    - c-169623
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Dėl šių priežasčių Severs­
-    ko kunigaikščiai, atsiskyrę nuo karaliaus bei Lietuvos,
-    išdavė valstybę ir v isas savo valdas prijungė prie Mas­
-    kvos. Ž inia apie atsiskyrimą smarkiai išgąsdino karalių,
-    tačiau jis nieko kito nesugebėjo padaryti, tik užprotes­
-    tuoti per pasiuntinį V a itie k ų  K iočką dėl šios skriaudos.
-    53S
-
-    ## Puslapis 538
-
-    Tiesa, žadėjo karalius patraukti su visomis jėgomis ir
-    atkeršyti Maskvos valdovui, tačiau, tuo pat metu gavęs
-    laišką, kuriuo jam pranešė, kad jo sūnus Jonas Olbra-
-    chtas Vengrijoje sumuštas brolio Vladislovo ir su nu­
-    galėtoju sudaręs santarvę, padarydamas Lietuvai daug
-    žalos, jis nukreipė visą pyktį prieš Vladislovą, ketin­
-    damas ginkluota jėga jam atkeršyti už Olbrachto pra­
-    laimėjimą kaip už savo paties pažeminimą.
+    K as be ko, sunki bausmė, bet ir ji neįsten­
+    gė sugrąžinti didikų atgal prie karaliaus. Įžeistos širdys
+    visur pradėjo matyti įžeidinėjimą ir godžiai klausytis
+    tų, kurie patarė atsiskirti. Visa tai, kas tarp jų ir kitų
+    Lietuvos didikų Vilniuje dėjosi, nors šitaip n eišv en g ia­
+    m ai ir turėjo dėtis tarp skirtingo tikėjimo bei auklėji­
+    mo žmonių, jie d a b a r suprato kaip sav ęs niekinimą ir
+    pradėjo taip nekęsti Lietuvos, kad n e t įniko veidmainin­
+    gai skųstis, jog, juos priimant, buvęs užgautas jų oru­
+    mas.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: saltinio_teiginys
@@ -66,6 +65,8 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
+    - t-003
 
 ## Citatos
 
@@ -74,27 +75,39 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Dėl šių priežasčių Severs­
-    ko kunigaikščiai, atsiskyrę nuo karaliaus bei Lietuvos,
-    išdavė valstybę ir v isas savo valdas prijungė prie Mas­
-    kvos. Ž inia apie atsiskyrimą smarkiai išgąsdino karalių,
-    tačiau jis nieko kito nesugebėjo padaryti, tik užprotes­
-    tuoti per pasiuntinį V a itie k ų  K iočką dėl šios skriaudos.
-    53S
-
-    ## Puslapis 538
-
-    Tiesa, žadėjo karalius patraukti su visomis jėgomis ir
-    atkeršyti Maskvos valdovui, tačiau, tuo pat metu gavęs
-    laišką, kuriuo jam pranešė, kad jo sūnus Jonas Olbra-
-    chtas Vengrijoje sumuštas brolio Vladislovo ir su nu­
-    galėtoju sudaręs santarvę, padarydamas Lietuvai daug
-    žalos, jis nukreipė visą pyktį prieš Vladislovą, ketin­
-    damas ginkluota jėga jam atkeršyti už Olbrachto pra­
-    laimėjimą kaip už savo paties pažeminimą.
+    Vos k araliu s šitai sužinojo, b em at
+    išsiuntė kuo skubiausiai žygūnus, kurie išvykstantiems
+    tu rė jo pranešti, jog storžievis už neapdairumą nubaus­
+    tas mirtimi. K as be ko, sunki bausmė, bet ir ji neįsten­
+    gė sugrąžinti didikų atgal prie karaliaus. Įžeistos širdys
+    visur pradėjo matyti įžeidinėjimą ir godžiai klausytis
+    tų, kurie patarė atsiskirti. Visa tai, kas tarp jų ir kitų
+    Lietuvos didikų Vilniuje dėjosi, nors šitaip n eišv en g ia­
+    m ai ir turėjo dėtis tarp skirtingo tikėjimo bei auklėji­
+    mo žmonių, jie d a b a r suprato kaip sav ęs niekinimą ir
+    pradėjo taip nekęsti Lietuvos, kad n e t įniko veidmainin­
+    gai skųstis, jog, juos priimant, buvęs užgautas jų oru­
+    mas. Beje, d a r vienas dalykas užgavo jiems širdis:
+    k a raliu s mat buvo išleidęs
+    Rusai
+    v e r č ia m i
+    pri-
+    griežtus potvarkius,
+    k u riais
+    p a žin ti u n iją su Ro-
+    sakėsi
+    remiąs
+    Florencijoje
+    m o s b a žn y č ia
+    sudarytą Romos bažnyčios su­
+    sitarimą su Rytų bažnyčia ti­
+    kėjimo reikalais, tuo užgaudamas p ase k ėju s Rytų schi­
+    zmos, kurios atkakliai laikėsi Seversko didikai.
+  citata_rodoma: "K as be ko, sunki bausmė, bet ir ji neįsten­\ngė sugrąžinti didikų atgal prie karaliaus. Įžeistos širdys \nvisur pradėjo matyti įžeidinėjimą ir godžiai klausytis \ntų, kurie patarė atsiskirti. Visa tai, kas tarp jų ir kitų \nLietuvos didikų Vilniuje dėjosi, nors šitaip n eišv en g ia­\nm ai ir turėjo dėtis tarp skirtingo tikėjimo bei auklėji­\nmo žmonių, jie d a b a r suprato kaip sav ęs niekinimą ir \npradėjo taip nekęsti Lietuvos, kad n e t įniko veidmainin­\ngai skųstis, jog, juos priimant, buvęs užgautas jų oru­\nmas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186262
+    - t-196614

@@ -35,31 +35,13 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
   teiginys: "Hospitaljerai užėmė turkų gyvenamą Rodo salą ir dar penkias salas."
   pagrindžia:
     - c-59349
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Hospitaljerai užėmė turkų gyvenamą Rodo salą ir dar penkias salas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    103. Apie tai, kaip hospitaljerai užėmė Rodo salą
-
-       Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas
-    salas (Mart. p. 442).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-59349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     103. Apie tai, kaip hospitaljerai užėmė Rodo salą
 

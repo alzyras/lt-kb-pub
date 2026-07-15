@@ -41,23 +41,6 @@ media_all_json: |-
   teiginys: "Pr. Penkausko „Vytauto Didžiojo nuopelnai dvasinės kultūros srityje“ paskelbtas 1931 m. „Athenaeum“ II tomo 1 numeryje."
   pagrindžia:
     - c-33748
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Pasz­
-    kiewicz, H. : _O genezie i wartości Krewa_ , Warszawa, 1938. — Penkaus-
-    kas, Pr. : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje_ , Athenaeum,
-    II, nr. 1, 1931, 1-36 p. — Quillus, Helene : _Königin Hedwig von Polen,_
-    Slavische Forschungen, Heft 2, 1938.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

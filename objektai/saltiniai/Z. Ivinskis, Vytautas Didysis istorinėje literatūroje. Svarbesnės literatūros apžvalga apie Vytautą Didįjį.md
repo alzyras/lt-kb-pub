@@ -41,24 +41,6 @@ Ivinskis, Z.
   teiginys: "Z. Ivinskio straipsnis „Vytautas Didysis istorinėje literatūroje“ paskelbtas „Athenaeum“ 1930 m., I tomo 2 sąsiuvinyje, p. 190–212."
   pagrindžia:
     - c-33771
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ivinskis, Z. : _Vytautas Didysis istorinėje literatūroje. Svarbesnės
-    literatūros apžvalga apie Vytautą Didįjį,_ Athenaeum, I, 2, 1930, 190-
-    212 p. — Jakštas, J. : _Prie Vytauto charakteristikos,_ Vairas, 4, 1931. —
-    KolLJ, I, 161-164 p. — Končius, J. : _Vytautas the Great, Grand Duke
-    of Lithuania,_ Miami, Florida 1964, 186-195 p. — Krasauskaitė, M.
-    _Vytauto charakteristika,_ rink.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

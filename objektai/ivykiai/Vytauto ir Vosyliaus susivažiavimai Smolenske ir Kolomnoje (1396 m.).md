@@ -57,29 +57,6 @@ Nenurodyta
   teiginys: "Pirmasis Vytauto ir Vosyliaus susivažiavimas 1396 m. pavasarį įvyko Smolenske."
   pagrindžia:
     - c-90744
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pirmasis Vytauto ir Vosyliaus susivažiavimas 1396 m. pavasarį įvyko Smolenske.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pirmas toks susivažiavimas įvyko tų metų pavasarį Smo­
-    lenske. Metraščiai aprašinėja brangias dovanas, kurių iš vie­
-    nos ir kitos pusės buvo nešykštaujama. Brangūs kailiniai ir
-    rytų audeklai, brangios juostos, aukso indai ir bachmatai
-    (stambūs Podolijos arkliai) — tai žento dovanos; puikiausi va­
-    karų audeklai, aksomitai, balnai, šilkinės staldengtės — tai
-    uošvio dovanos. Porai mėnesių praslinkus, būtent spalių 1 d.
-    įvyko antras susivažiavimas Kolomnoj. Čia Vytautas rūpinosi
-    išgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo
-    aptarti ir kitokie reikalai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -7,12 +7,12 @@ datos:
   - '1976 m.'
 date_start: '1976'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad kosman M.
   teiginys: "M. Kosmano veikalas „Drogi zaniku pogaństwa u Bałtów“ išleistas Vroclave, Varšuvoje, Krokuvoje ir Gdanske 1976 m."
   pagrindžia:
     - c-61734
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Kosmano veikalas „Drogi zaniku pogaństwa u Bałtów“ išleistas Vroclave, Varšuvoje, Krokuvoje ir Gdanske 1976 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,12 @@ Dusburgietis teigia, kad kosman M.
 - id: c-61734
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 265"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    25—62.
     Kosman M. Drogi zaniku pogaństwa u Bałtów. —Wrocław—Warszawa—Kraków—
     Gdańsk, 1976.
+  citata_rodoma: "Kosman M. Drogi zaniku pogaństwa u Bałtów. —Wrocław—Warszawa—Kraków—\nGdańsk, 1976."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

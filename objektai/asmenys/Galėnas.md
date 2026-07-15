@@ -7,15 +7,15 @@ datos:
   - '267 m.'
 date_start: '267'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'III'
 sukurta: ''
 atnaujinta: ''
 tags:
   - valdovas
   - asmuo
-amziai:
-  - 'III'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -45,7 +45,6 @@ Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo rom�
     - c-174283
 - susijęs iš [[objektai/asmenys/Malabatas.md#claim-t-191293|Malabatas]]: Pasak Teodoro Narbuto, Malabatas tapo imperijos piliečiu ir netrukus iš imperatoriaus gavo Romos konsulo titulą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo romėnų valdose sulaikė puolimą ir sutriuškino herulus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -76,17 +75,17 @@ Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo rom�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    290
-
-    ## Puslapis 301
-
-    vaujami, 267 metais* užpuolė romėnų valdas. Iš pra­
+    Iš pra­
     džių jų ginklai įvarė gerokai baimės, bet imperatoriaus
     sūnus Galėnas sulaikė puolimą ir sutriuškino herulus. Ta­
     čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai­
     kiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo
     toks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu­
-    sipirkti taiką, paaukojus kažkokį pajūrio kraštą.
+    sipirkti taiką, paaukojus kažkokį pajūrio kraštą. Taip ta­
+    pęs imperijos piliečiu, Malabatas gavo teisę užimti joje
+    aukščiausias pareigas, nes netrukus imperatorius suteikė
+    jam Romos konsulo titulą.
+  citata_rodoma: "290\n\n## Puslapis 301\n\nvaujami, 267 metais* užpuolė romėnų valdas. Iš pra­\ndžių jų ginklai įvarė gerokai baimės, bet imperatoriaus\nsūnus Galėnas sulaikė puolimą ir sutriuškino herulus. Ta­\nčiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai­\nkiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo\ntoks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu­\nsipirkti taiką, paaukojus kažkokį pajūrio kraštą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

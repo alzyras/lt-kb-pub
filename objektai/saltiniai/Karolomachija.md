@@ -40,19 +40,6 @@ p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
   teiginys: "1992 m. Vilniuje išleistoje L. Bojerio „Karolomachijoje“ aptariamas Salaspilio mūšis."
   pagrindžia:
     - c-43262
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L. Karolomachija, Vilnius, 1992.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -56,20 +56,6 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
     - c-63350
 - susijęs iš Olivos kronika: J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Venta parašė darbą „Kronika“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    94 Wenta J. Kronika..., s. 121—132.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: 'J. Venta 1980 m. paskelbė darbą apie Petro Dusburgiečio kroniką ir Oliavos kronikoje pateiktą Vokiečių ordino istoriją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -84,36 +70,14 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
   pagrindžia:
     - t-003
 
-- c-003
-  santrauka: 'J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pamario bei Ordino valstybės analistiką, be kitų
-    to meto šaltinių analizavo ir Dusburgiečio kroniką91. Polemizuodamas su kai kuriomis M.
-    Poliakuvnos darbo išvadomis, G. Liabuda išanalizavo probleminius Dusburgiečio kronikos
-    šaltinių klausimus, atskleidė jų genealogiją, atkreipė dėmesį  į atskirų Ordino teritorijų
-    valdytojų raportus ir kt.92 J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio
-    šaltinį, kuris yra žuvęs93. Analizuodamas Olivos kronikos šaltinius, J. Venta iškėlė mintį,
-    kad išlikusi Dusburgiečio kronika yra arba jos 1-oji 1326 m. redakcija (2-oji 1326 m. ir
-    3-oji 1326—1330 m. redakcijos neišliko), arba neišlikusios 1-osios 1326 m. redakcijos
-    cenzūruotas antrininkas94.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-63349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 21"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    94 Wenta J. Kronika..., s. 121—132.
+    94  Wenta J. Kronika..., s. 121—132.
   citata_rodoma: "94 Wenta J. Kronika..., s. 121—132."
   statusas: verified
   teiginio_tipas: faktas
@@ -125,11 +89,12 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
 - id: c-63350
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice
-    oliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132.
+    — Киев, 1976.
+    Непокупный А. П. К исследованию ареала ятвяжских реликтов. — Проблемы
+    этнической истории балтов/Тезисы докладов — Рига, 1977, с. 143—146.
+    Непокупный А. П. К поискам языковых следов ятвягов к востоку от Немана.
   citata_rodoma: "Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice\noliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132."
   statusas: verified
   teiginio_tipas: faktas
@@ -141,13 +106,12 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
 - id: c-63351
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 21"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pamario bei Ordino valstybės analistiką, be kitų
     to meto šaltinių analizavo ir Dusburgiečio kroniką91. Polemizuodamas su kai kuriomis M.
     Poliakuvnos darbo išvadomis, G. Liabuda išanalizavo probleminius Dusburgiečio kronikos
-    šaltinių klausimus, atskleidė jų genealogiją, atkreipė dėmesį  į atskirų Ordino teritorijų
+    šaltinių klausimus, atskleidė jų genealogiją, atkreipė dėmesį į atskirų Ordino teritorijų
     valdytojų raportus ir kt.92 J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio
     šaltinį, kuris yra žuvęs93. Analizuodamas Olivos kronikos šaltinius, J. Venta iškėlė mintį,
     kad išlikusi Dusburgiečio kronika yra arba jos 1-oji 1326 m. redakcija (2-oji 1326 m. ir

@@ -35,8 +35,8 @@ Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuot
   teiginys: "Gedimino laiškai Europos miestams, ordinams ir „kiekvienam geros valios žmogui“ turėjo platų tarptautinį atgarsį."
   pagrindžia:
     - c-59747
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gedimino laiškai Europos miestams, ordinams ir „kiekvienam geros valios žmogui“ turėjo platų tarptautinį atgarsį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,15 +60,19 @@ Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuot
 - id: c-59747
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 14"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Gedimino laiškas Dorpato, Eželio vyskupams, Revelio žemės danų vietininkui  ir
-    Rygos miesto tarybai)50. Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
-    Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
-    geros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį
-    atgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei
-    sukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje.
+    Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
+    sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
+    Popiežius 1324 m. įsakė kryžiuočiams susilaikyti nuo bet kokių žygių prieš Gedimino
+    valstybę ir patvirtino šią sutartį53. Tai buvo didelis diplomatinis Lietuvos laimėjimas.
+    XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
+    ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
+    žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu,
+    Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo
+    Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
+    priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
+    ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
   citata_rodoma: "Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems\nEuropos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam\ngeros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį\natgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei\nsukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje."
   statusas: verified
   teiginio_tipas: faktas

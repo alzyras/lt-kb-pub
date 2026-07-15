@@ -57,31 +57,6 @@ Nenurodyta
   teiginys: "1990 m. gruodžio 14 d. Baltijos šalių vyriausybių vadovai pirmą kartą kreipėsi į EEB, prašydami paramą teikti tiesiogiai, o ne per Sovietų Sąjungą."
   pagrindžia:
     - c-22911
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1990 m. gruodžio 14 d. Baltijos šalių vyriausybių vadovai pirmą kartą kreipėsi į EEB, prašydami paramą teikti tiesiogiai, o ne per Sovietų Sąjungą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti de-
-    mokratinių vertybių – užtikrinti galimybes puoselėti savo kalbą ir kultūrą
-    tautinėms mažumoms, vykdyti religinio turto restituciją, įvertinti Holo-
-    kausto pamokas, grąžinti žydams išblaškytas kultūros vertybes (išsaugo-
-    tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
-    prieš antisemitizmą ir rasinį bei religinį nepakantumą, garantuoti žodžio,
-    spaudos, rinkimų laisvę.
-    Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikū-
-    rusios Lietuvos užsienio politikos tikslas. 1990 m. gruodžio 14 d. Baltijos
-    šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos eko-
-    nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
-    ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

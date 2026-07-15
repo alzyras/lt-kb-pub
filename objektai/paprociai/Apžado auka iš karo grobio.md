@@ -65,8 +65,8 @@ Nenurodyta
   teiginys: "Narbutas apžado auką sieja su grobiamaisiais žygiais, kai būrio vadas pažadėdavo gražiausią grobį dievams."
   pagrindžia:
     - c-171001
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -115,17 +115,16 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    15. Apžado auka. Kartais žygiuojant į svetimą žemę gro­
-    bio, būrio vadas duodavo apžadą, kad gražiausią grobį paau­
-    318
-
-    ## Puslapis 318
-
-    I
-    kos dievams. Tokiu atveju, jeigu į rankas patekdavo itin graži
-    mergaitė, -  o tokio grobio buvo labai vaikomasi, -  kurios gro­
-    žis, o todėl ir vertė viršydavo kitus paskirus pagrobtus daly­
-    kus, tokią mergaitę sugrįžę į tėvynę paaukodavo dievams.
+    Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa­
+    žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­
+    ninkų pranešimais ir savo paties duomenimis. Kronikininkas
+    Grunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai
+    patekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­
+    kūnui, kad tos apeigos neišduosiąs vyskupui. Tą išpažintį jis
+    taip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­
+    dilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė
+    už plaukų, kitiems skaldė antausius, trečius gerokai apmušda­
+    vo lazda.
   citata_rodoma: "15. Apžado auka. Kartais žygiuojant į svetimą žemę gro­\nbio, būrio vadas duodavo apžadą, kad gražiausią grobį paau­\n318\n\n## Puslapis 318\n\nI\nkos dievams. Tokiu atveju, jeigu į rankas patekdavo itin graži\nmergaitė, -  o tokio grobio buvo labai vaikomasi, -  kurios gro­\nžis, o todėl ir vertė viršydavo kitus paskirus pagrobtus daly­\nkus, tokią mergaitę sugrįžę į tėvynę paaukodavo dievams."
   statusas: verified
   teiginio_tipas: faktas
@@ -137,16 +136,19 @@ Nenurodyta
 - id: c-171002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 318"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 318."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tokiu atveju, jeigu į rankas patekdavo itin graži
-    mergaitė, -  o tokio grobio buvo labai vaikomasi, -  kurios gro­
-    žis, o todėl ir vertė viršydavo kitus paskirus pagrobtus daly­
-    kus, tokią mergaitę sugrįžę į tėvynę paaukodavo dievams. Kro­
-    nikos tyli, ar sudegindavo gyvą, ar pirma užmušdavo. Tikra tik
-    tai, kad ją išpuošdavo vainikais, gėlėmis, aprengdavo puoš­
-    niais drabužiais ir atlikdavo įprastines aukojimo apeigas16.
+    Kronikininkas
+    Grunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai
+    patekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­
+    kūnui, kad tos apeigos neišduosiąs vyskupui. Tą išpažintį jis
+    taip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­
+    dilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė
+    už plaukų, kitiems skaldė antausius, trečius gerokai apmušda­
+    vo lazda. Pagaliau atgailautojai apmušė ir patį vaidilą. Į mote­
+    ris jis kreipėsi gražia kalba, ragindamas atlikti tik bendrą išpa­
+    žintį, ir mokė, kaip elgtis, idant patiktų dievams, ir davė daug
+    kitokių pamokymų.
   citata_rodoma: "Kro­\nnikos tyli, ar sudegindavo gyvą, ar pirma užmušdavo. Tikra tik\ntai, kad ją išpuošdavo vainikais, gėlėmis, aprengdavo puoš­\nniais drabužiais ir atlikdavo įprastines aukojimo apeigas16."
   statusas: verified
   teiginio_tipas: faktas

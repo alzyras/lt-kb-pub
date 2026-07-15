@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: 'Dantų plauti'
 sukurta: '2026-07-12'
 variantai:
-  - „dantų plauti“
-  - dantis plauti
+  - '„dantų plauti“'
+  - 'dantis plauti'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -66,6 +66,7 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
   teiginys: "„Dantų plauti“ vadinamas gavėnios pradžios paprotys."
   pagrindžia:
     - c-178036
+
 ## Citatos
 
 - id: c-178036

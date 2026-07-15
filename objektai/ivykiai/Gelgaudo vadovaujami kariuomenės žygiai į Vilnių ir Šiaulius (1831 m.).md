@@ -59,45 +59,6 @@ Nenurodyta
   teiginys: "Po Gelgaudo nušovimo Rohlandas su savo būriu padėjo ginklus ir po kelių dienų perėjo į Prūsiją."
   pagrindžia:
     - c-66754
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po Gelgaudo nušovimo Rohlandas su savo būriu padėjo ginklus ir po kelių dienų perėjo į Prūsiją.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Emilija Pliaterytė,
-    herojiška sukilėlių vadė, gavusi
-    kapitono laipsnį († 1831 m.).
-    girdo šauksmas: „Klasta!" — ir vienas karininkas prijojęs nu-
-    šovė Gelgaudą, laikydamas jį to negarbingo žygio kaltininku.
-    Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
-    lando būrys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Reguliariosios kariuomenės Lietuvoje likus tik Dembinskio rinktinei, Dembinskis prasimušė iki Varšuvos ir buvo paskirtas jos gubernatoriumi.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik
-    Dembinskio rinktinė (apie 3.500 karių). Rusai tuo tarpu atga-
-    beno į Lietuvą daugiau savo kariuomenės, ir Dembinskiui nebe-
-    įmanoma buvo kariauti. Tačiau jis neketino pasiduoti. Padaręs
-    tikrai didelį žygį, nugalėjęs daugybę kliūčių, jis laimingai pra-
-    simušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo-
-    pelnus paskirtas Varšuvos gubernatorium.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

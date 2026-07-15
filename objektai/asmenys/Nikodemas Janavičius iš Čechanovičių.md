@@ -35,25 +35,6 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
   teiginys: "Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas."
   pagrindžia:
     - c-83785
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jonui, Polocko............................Stanislovui Jonui Da Vai­
-    nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui
-    ir stalininkui Nikodemui Janavičiui iš Čechanovičių, Lietu­
-    vos Didžiosios Kunigaikštystės arklidininkui Mikalojui An-
-    driuševičiui ir kitiems mūsų tarybos nariams (senatoriams)
-    ir pareigūnams, nuoširdžiai ištikimiems ir mieliems.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -86,11 +86,8 @@ Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų u
 - susijęs iš Sūduva: Melno sutartimi Lietuva iš Sūduvos girių laimėjo daugiau, negu Vytautas buvo užleidęs Ordinui Salyno taika.
 - susijęs iš Točilovo ežerai: Melno sutarties siena senojoje jotvingių žemėje ėjo aukščiau Grajevo ir Točilovo ežerų.
 - susijęs iš Točilovo ežeras: Melno sutarties siena senojoje jotvingių žemėje ėjo aukščiau Grajevo ir Točilovo ežero.
-- susijęs iš Vilnius: 1569 m. liepos 1 d. Vilniaus pasiuntiniai Liublino seime kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
-- susijęs iš Vilnius: Kazimieras, priėmęs volyniečių ištikimybės priesaiką, su Lietuvos kunigaikščiais ir Tarybos ponais išvyko į Vilnių, kurį metraštis vadina Vytauto sostine.
 - susijęs iš Akmenų Brasta: Melno sutarties siena senojoje jotvingių žemėje prasidėjo nuo Akmenų Brastos Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lukas vėliau vadintas vokišku Lyck, o dabar tapatinamas su Elku, dešiniuoju Bebro intaku.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -112,13 +109,19 @@ Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų u
 - id: c-59220
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,
-    voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia
-      530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk),
-    deš. Bebro intakas.
+    245 (238). Apie vieną nuostabų atsivertimą
+    Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo
+    vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,
+    garsėjęs kaip labai gabus račius ir didelis karo pabūklų meistras. Kai jis kartą, jau
+    padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo
+    vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini
+    keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis
+    neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
+    būdo; kad šitai būtų akivaizdu, jie jį užklojo balta marška, kaip paprastai užklojami
+    numirėliai.
+  citata_rodoma: "Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,\nvoros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia\n  530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk),\ndeš. Bebro intakas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

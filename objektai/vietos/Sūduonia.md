@@ -35,31 +35,13 @@ Dusburgietis teigia, kad ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.
   teiginys: "Ir Tepliava) Suvalkai Sūduonia, Sūduonė, u."
   pagrindžia:
     - c-59366
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    ir Tepliava)
-    Suvalkai
-    Sūduonia, Sūduonė, u.
-    Sūduva (Sudowia), ž.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-59366
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 318"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     ir Tepliava)
     Suvalkai

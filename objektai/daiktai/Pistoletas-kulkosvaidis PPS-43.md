@@ -61,36 +61,6 @@ Nenurodyta
   teiginys: "PPS-43 buvo perdirbtas sovietinis pistoletas-kulkosvaidis, naudotas 1991 m. sausį Parlamente budėjusių savanorių."
   pagrindžia:
     - c-44674
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo tarpu inžinerinės
-    kliūtys turėjo sustabdyti sunkiąją kovinę
-    techniką atokiau nuo Parlamento rūmų ir
-    sudaryti galimybę išvengti TV bokšto sce-
-    narijaus. Pasyvios ir aktyvios kliūtys prieš
-    pėstininkus turėjo tikslą tiesiog sulėtinti
-    šturmo greitį ir suteikti erdvės gynėjams
-
-    PPS-43, perdirbtas sovietinis pistoletas-
-    kulkosvaidis, šovinys - 7,62x25 mm TT.
-    1991 m. sausį Parlamente budėjusių savanorių
-    ginklas
-
-    manevruoti bei nu-
-
-    kauti kuo daugiau
-
-    puolančiųjų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

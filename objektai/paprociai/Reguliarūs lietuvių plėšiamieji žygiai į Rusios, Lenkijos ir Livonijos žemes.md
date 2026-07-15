@@ -56,23 +56,6 @@ Nenurodyta
   teiginys: "Lietuvių genties iškilimą lėmė vyrų gausumas karo žygiuose, o šis iškilimas padėjo pagrindus būsimai Lietuvos valstybei."
   pagrindžia:
     - c-55198
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi
-    pralenkė turtingus prūsus ar karingus kuršius. Matyt, lėmė genties vyrų
-    gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo
-    pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
-    bei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

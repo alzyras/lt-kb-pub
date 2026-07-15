@@ -49,47 +49,6 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
   teiginys: "Jau minėtas vokietis Henne rašė Ordino ma gistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu."
   pagrindžia:
     - c-177365
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ).'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pasidavusieji
-    mokėjo Vytautui duoklę.
-    Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­
-    dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu
-    su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ). Ta­
-    me laiške be kitų dalykų jisai rašo: „Kai aš atvykau pas didįjį
-    kunigaikštį, tai jis kelionėje iš Trakų į Smolenską ilsėjosi jau
-    ketvirtą kartą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Jau minėtas vokietis Henne rašė Ordino ma gistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ir tikrai, kada Gilbert de Lannoy, Ang­
-    lijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą),
-    tai jo kelionėje užteko Vytauto kepurės, kaip „lydimojo rašto“
-    per totorių žemes. Jau minėtas vokietis Henne rašė Ordino ma­
-    gistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu.
-    Vadinasi, taip stipriai Vytautas buvo užatakavęs šiuos stepių
-    gyventojus, kurie nuo Aukso Ordos įkūrimo laikų (1273) vargi­
-    no rusus duoklėmis ir baidė Europą^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

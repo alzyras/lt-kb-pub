@@ -40,28 +40,13 @@ Dusburgietis teigia, kad trautmann R.
   teiginys: "R. Trautmanno „Baltisch-slavisches Wörterbuch“ išleistas Göttingene 1923 m."
   pagrindžia:
     - c-61956
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'R. Trautmanno „Baltisch-slavisches Wörterbuch“ išleistas Göttingene 1923 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Trautmann R. Baltisch-slavisches Wörterbuch.— Göttingen, 1923.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61956
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Trautmann R. Baltisch-slavisches Wörterbuch.— Göttingen, 1923.
   statusas: verified

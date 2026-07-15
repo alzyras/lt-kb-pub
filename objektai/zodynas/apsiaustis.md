@@ -42,25 +42,6 @@ Pavėluota šios Ordino tvirtovės apsiaustis nedavė rezultatų.
 - susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82436|Jonas Olesnickis]]: Jonas Olesnickis su įgula surengė netikėtą išpuolį prieš vokiečius ir sudavė jiems skaudų smūgį.
 - susijęs iš [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“.md#claim-t-40710|Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]: Eriko Dalbergo graviūroje matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, dengtos pylimais ir gabionais.
 - susijęs iš Lietuvos Brasta: 1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sąjungininkai užtruko pergalės vietoje ir
-    nepasinaudojo proga greitai užimti Or-
-    dino sostinę Marienburgą. Pavėluota šios
-    Ordino tvirtovės apsiaustis nedavė re-
-    zultatų. Naujasis magistras Henrikas fon
-    Plauenas spėjo pasirengti ir apsigynė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-40546

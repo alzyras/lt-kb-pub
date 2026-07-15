@@ -37,29 +37,22 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-50179"></a>
+<a id="claim-t-50178"></a>
 - t-001
-  global_id: t-50179
-  teiginys: "Gruodžio 16 d. Marcinkonių bataliono vyrai puolė Perlojos stribų įgulą ir ją sunaikino."
-  pagrindžia:
-    - c-43737
-
-<a id="claim-t-50179"></a>
-- t-002
-  global_id: t-50179
+  global_id: t-50178
   teiginys: "Gruodžio 16 d. Marcinkonių bataliono vyrai puolė Perlojos stribų įgulą ir ją sunaikino."
   pagrindžia:
     - c-43737
 
 <a id="claim-t-50180"></a>
-- t-003
+- t-002
   global_id: t-50180
   teiginys: "Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė 5 stribus, o partizanai nuostolių nepatyrė."
   pagrindžia:
     - c-43738
 
 <a id="claim-t-50181"></a>
-- t-004
+- t-003
   global_id: t-50181
   teiginys: "Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus ir patys nuostolių nepatyrė."
   pagrindžia:
@@ -77,49 +70,6 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Tauro apygarda.md#claim-t-49112|Tauro apygarda]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
 - susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-183662|Marcinkonių batalionas]]: Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė.
 - susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41086|Marcinkonių batalionas]]: Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    pateko į iš anksto parengtą pasalą ir pa-
-    tyrę nuostolių buvo priversti grįžti atgal.
-    Marcinkonių bataliono vyrams buvo
-    nesmagu dėl savo pavėlavimo į kauty-
-    nes, todėl jie kitą, gruodžio 16 d. puolė
-    Perlojos stribų įgulą ir ją sunaikino.
-    Mūšio padariniai
-    Operacijos metu žuvo 4 partizanai ir 2 buvo
-    sužeisti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Priešo pusėje žuvo 15 NKVD karių
-    ir 2 stribai. Dar 5 stribai nukauti kitą dieną
-    Perlojoje Marcinkonių bataliono vyrų
-    (partizanai nuostolių nepatyrė). Paimtos 2
-    rašomosios mašinėlės, taip pat 4 nauji kul-
-    kosvaidžiai, keletas automatų bei šautuvų
-    ir nemažas kiekis šaudmenų, sunaikin-
-    tas valsčius, dalinai milicija ir paštas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
 ## Citatos
 
 - id: c-43737
@@ -143,7 +93,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-50178
-    - t-50179
 
 - id: c-43738
   sudarytojas: "Karolis Zikaras"
@@ -164,8 +113,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50181
     - t-50180
+    - t-50181
 
 ## Ryšiai
 - Puolė Perloją: [[objektai/grupes/Marcinkonių batalionas]]

@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Krymo skitai trimis žygio voromis smarkiai nuniokojo Volynę, kai dėl karo su Maskva joje nebuvo likę karių ir karvedžių. Lukošius Moravecas su dviem šimtais pėstininkų prie Slučės upės užpuolė siaubėjus ir juos sumušė.
+Krymo skitai trimis žygio voromis smarkiai nuniokojo Volynę, kai dėl karo su Maskva joje nebuvo likę karių ir karvedžių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -49,114 +49,33 @@ Nenurodyta
   pagrindžia:
     - c-169129
 
-<a id="claim-t-185769"></a>
-- t-002
-  global_id: t-185769
-  teiginys: "Lukošius Moravecas su dviem šimtais pėstininkų prie Slučės upės užpuolė siaubėjus ir juos sumušė."
-  pagrindžia:
-    - c-169130
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Krymo skitai trimis žygio voromis smarkiai nuniokojo Volynę, kai dėl karo su Maskva joje nebuvo likę karių ir karvedžių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Karalius, užbaigęs ka­
-    rą su Maskva, dalį algininkų paleido, o su kitais pa­
-    siuntė į Volynę Konstantiną Ostrogiškį. Mat Krymo
-    skitai, padaliję savo kariuo-
-    S k ita i su m u ša m i Vo-
-    menę trimis žygio voromis,
-    ly n ė je
-    smarkiai nuniokojo Volynę
-    tuo metu, kai dėl karo su
-    Maskva čia nebuvo likę nei karių, nei karvedžių. Nio­
-    kotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­
-    sos Volynės, vis dėlto dalis jų įsibrovė į Polesę, su­
-    keldami didelę baimę Slucko krašte ir smarkiai jį
-    nusiaubdami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lukošius Moravecas su dviem šimtais pėstininkų prie Slučės upės užpuolė siaubėjus ir juos sumušė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nio­
-    kotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­
-    sos Volynės, vis dėlto dalis jų įsibrovė į Polesę, su­
-    keldami didelę baimę Slucko krašte ir smarkiai jį
-    nusiaubdami. Siaubėjus užtiko Lukošius Moravecas,
-    kuris su dviem šimtais pėstininkų visai atsitiktinai at­
-    sidūrė prie Slučės upės; nesitikėdamas galėsiąs atsi­
-    traukti, turėjo noromis nenoromis pasiryžti kovai; įsi­
-    rengęs pakrantėje stovyklą, jis užpuolė priešą ir jį
-    sumušė. Padėjo laimėti pergalę kunigaikštienės Anas­
-    tazijos pasiųsti į pagalbą raiteliai, kurie vijosi bėgan­
-    čiuosius ir juos žudė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-169129
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 607"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 607."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Karalius, užbaigęs ka­
-    rą su Maskva, dalį algininkų paleido, o su kitais pa­
-    siuntė į Volynę Konstantiną Ostrogiškį. Mat Krymo
-    skitai, padaliję savo kariuo-
-    S k ita i su m u ša m i Vo-
-    menę trimis žygio voromis,
-    ly n ė je
-    smarkiai nuniokojo Volynę
-    tuo metu, kai dėl karo su
-    Maskva čia nebuvo likę nei karių, nei karvedžių. Nio­
-    kotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­
-    sos Volynės, vis dėlto dalis jų įsibrovė į Polesę, su­
-    keldami didelę baimę Slucko krašte ir smarkiai jį
-    nusiaubdami.
+    Štai todėl Jonui Sapiegai, val­
+    dančiam karaliaus vardu Vi-
+    T a ik a su m a sk v ė n a is
+    tebską, buvo pavesta susitar­
+    ti su kunigaikščio Vasilijaus
+    pasiuntiniais dėl taikos sąlygų. Jie susitarė šitaip. Ir
+    viena, ir kita šalis be jokių išlygų paleisianti į laisvę
+    belaisvius, pirmiausia tuos, kurie paimti prie Vedro-
+    šos. Pilys bus atstatomos ta tvarka, kuri sužymėta anks­
+    čiau sudarytoje sutartyje. Nedelsiant turi būti grąžinta
+    karaliui tai, ką Mykolas Glinskis esąs užėmęs kara­
+    liaus valdose ar kaip savo tėvoniją, ar kaip Lietuvos
+    didžiųjų kunigaikščių beneficiją ar pagaliau jėga už­
+    grobęs ir įkurdinęs ten savo įgulas, o jis pats privalo
+    likti Maskvos kunigaikštystėje kaip tremtinys, neturė­
+    damas jokios vilties kada sugrįžti.
+  citata_rodoma: "Karalius, užbaigęs ka­\nrą su Maskva, dalį algininkų paleido, o su kitais pa­\nsiuntė į Volynę Konstantiną Ostrogiškį. Mat Krymo\nskitai, padaliję savo kariuo-\nS k ita i su m u ša m i Vo-\nmenę trimis žygio voromis,\nly n ė je\nsmarkiai nuniokojo Volynę\ntuo metu, kai dėl karo su\nMaskva čia nebuvo likę nei karių, nei karvedžių. Nio­\nkotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­\nsos Volynės, vis dėlto dalis jų įsibrovė į Polesę, su­\nkeldami didelę baimę Slucko krašte ir smarkiai jį\nnusiaubdami."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185768
-
-- id: c-169130
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 607"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 607."
-  citata_originali: |
-    Nio­
-    kotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­
-    sos Volynės, vis dėlto dalis jų įsibrovė į Polesę, su­
-    keldami didelę baimę Slucko krašte ir smarkiai jį
-    nusiaubdami. Siaubėjus užtiko Lukošius Moravecas,
-    kuris su dviem šimtais pėstininkų visai atsitiktinai at­
-    sidūrė prie Slučės upės; nesitikėdamas galėsiąs atsi­
-    traukti, turėjo noromis nenoromis pasiryžti kovai; įsi­
-    rengęs pakrantėje stovyklą, jis užpuolė priešą ir jį
-    sumušė. Padėjo laimėti pergalę kunigaikštienės Anas­
-    tazijos pasiųsti į pagalbą raiteliai, kurie vijosi bėgan­
-    čiuosius ir juos žudė.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185769

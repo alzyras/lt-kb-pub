@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 92
+tema_objektu_skaicius: 93
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 92.
+Objektų skaičius: 93.
 
 ## Kaip naudoti
 
@@ -106,6 +106,7 @@ Objektų skaičius: 92.
 - [Izidoras](../objektai/autoriai/Izidoras)
 - [Jeronimas Prahiškis](../objektai/autoriai/Jeronimas%20Prahi%C5%A1kis)
 - [Johanas Leo](../objektai/autoriai/Johanas%20Leo)
+- [Jonas Dominykas Lopacinskis](../objektai/autoriai/Jonas%20Dominykas%20Lopacinskis)
 - [Jonas Kantas Boreiša](../objektai/autoriai/Jonas%20Kantas%20Borei%C5%A1a)
 - [Josephi Mariae Fonseca ab Ebora](../objektai/autoriai/Josephi%20Mariae%20Fonseca%20ab%20Ebora)
 - [Ksaveras Bogušas (kunigas, XIX a.)](../objektai/autoriai/Ksaveras%20Bogu%C5%A1as)

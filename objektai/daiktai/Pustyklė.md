@@ -57,6 +57,7 @@ Nenurodyta
   teiginys: "Buvo tai maža medinė mentelė, prirengta taip, kad trintų plieną iš lengva, atitiesdama pradedančius linkti ašmenis."
   pagrindžia:
     - c-177677
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

@@ -35,21 +35,6 @@ Reikala.
   pagrindžia:
     - c-41549
 - susijęs iš [[objektai/zodynas/bendrasis rezervas.md#claim-t-38707|bendrasis rezervas]]: Rezervas parėmė J. Nastopkos koloną, o vadovavimą perėmė karininkas J. Reikala.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    J. Nastopka. Rezervas parėmė šią koloną,
-    o vadovavimą perėmė karin. J. Reikala.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41549

@@ -64,29 +64,6 @@ Nenurodyta
   teiginys: "„Žaliukas“ yra Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas."
   pagrindžia:
     - c-12237
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos specialiųjų operacijų pajėgų
-    karių kvalifikacinis antsiuvas. Žaliukas
-    tai kovingos tautos dalies būsena pavojuje.
-    Jis nepakantus jokiai okupacijai. Kritiniu
-    momentu, kai nebelieka oficialios val-
-    džios, žaliukai natūraliai buriasi ginti
-
-    savo šalį. Jie veikia organizuotai, tik jų
-    struktūros formuojamos ne nurodymu iš
-    aukščiau, bet iniciatyva iš apačios.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -111,5 +88,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10062
     - t-10061
+    - t-10062

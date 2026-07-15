@@ -20,6 +20,7 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
+  - valstybė
 amziai:
   - 'XIV'
   - 'XXI'
@@ -110,16 +111,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 <a id="claim-t-184580"></a>
 - t-010
   global_id: t-184580
-  teiginys: "Polocko rusai valstybės valdymą buvo perdavę ne vienam kunigaikščiui, bet tautai."
+  teiginys: "Polocko rusai valdžią valstybėje perdavė trisdešimčiai senelių, o svarbiausius reikalus svarstė aikštės sueigose."
   pagrindžia:
     - c-167941
-
-<a id="claim-t-192453"></a>
-- t-011
-  global_id: t-192453
-  teiginys: "Pasak Karamzino ir kitų istorikų, Rusia vadintas kraštas egzistavo dar prieš epochą, kai slavai pradėjo vadintis rusais."
-  pagrindžia:
-    - c-175247
 
 <a id="claim-t-193127"></a>
 - t-012
@@ -134,6 +128,20 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginys: "Atleidęs pasiuntinius, įsakė juos klystitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių valdovui ne tik didesnę pagarbą bei palankumą, bet ir pastovesnę ištikimybę."
   pagrindžia:
     - c-176065
+
+<a id="claim-t-196120"></a>
+- t-014
+  global_id: t-196120
+  teiginys: "Ivanas kaltino Aleksandrą, kad rusai verčiami atsisakyti prosenelių tikėjimo ir dėl to kai kurie ieškosi prieglobsčio Maskvoje."
+  pagrindžia:
+    - c-178540
+
+<a id="claim-t-192453"></a>
+- t-011
+  global_id: t-192453
+  teiginys: 'Pasak Karamzino ir kitų istorikų, Rusia vadintas kraštas egzistavo dar prieš epochą, kai slavai pradėjo vadintis rusais.'
+  pagrindžia:
+    - c-175247
 - susijęs iš [[objektai/grupes/Vytauto būrys.md#claim-t-39019|Vytauto būrys]]: 14-ame kvartale stovėjęs Vytauto būrys nebuvo apsuptas ir smogė rusams į nugarą.
 - susijęs iš [[objektai/asmenys/Heiraudas.md#claim-t-191410|Heiraudas]]: Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties valdovu ir didvyriu, kurio dukra Heiridė ištekėjo už norvego Augmundo.
 - susijęs iš Gedimino laiškas dominikonams (1323 m.): Gedimino laiške dominikonams rašoma, kad valdovas pasiuntė popiežiui Jonui laišką dėl krikšto ir laukė jo pasiuntinių.
@@ -172,7 +180,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54938|Aleksandras Jogailaitis]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams.
 - susijęs iš [[objektai/asmenys/Aleksandras Kolčiakas.md#claim-t-18777|Aleksandras Kolčiakas]]: Aleksandrui Kolčiakui formaliai buvo pavaldi Pavelo Bermonto-Avalovo vadovaujama rusų ir vokiečių kariuomenė.
 - susijęs iš [[objektai/asmenys/Aleksandras Narimantaitis.md#claim-t-186175|Aleksandras Narimantaitis]]: Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176290|Algirdas (Lietuvos valdovas)]]: Nuo Algirdo laikų įsigalėjusios tradicijos padėjo Vytautui prijungti rusų žemes.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184666|Algirdas (Lietuvos valdovas)]]: Algirdas, žmonos Julijonos prašymu sutikęs priimti krikščionybę, Vitebsko rusams pastatė porą šventovių.
 - susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75689|Andrejus Sacharovas]]: A. Sacharovas pasirašė 45 pabaltijiečių memorandumą kartu su estais, latviais, lietuviais ir rusų disidentais.
 - susijęs iš [[objektai/asmenys/Augmundas.md#claim-t-191370|Augmundas]]: Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir su jos kraičiu gavo nemažą Rusios valdą.
@@ -193,7 +200,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176398|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas savo monarchijos galią grindė lietuvių ir rusų riterių priklausomybe aukščiausiajai feodalinei valdžiai.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184699|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kojelavičius Pelužį laikė Gediminą niekinusių pasakojimų dingstimi, bet rusų metraštininkai Gediminą vadino Vytenio sūnumi.
-- susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184705|Germantas]]: Germantas sudarė sąjungą su lenkais, nes siekė visomis jėgomis pulti rusus.
+- susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184705|Germantas]]: Kojelavičiaus pasakojime Germantas su lenkais sudarė sąjungą ne tiek taikai, kiek siekdamas visomis jėgomis pulti rusus.
 - susijęs iš [[objektai/asmenys/Goteris.md#claim-t-191274|Goteris]]: Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi ir rusų karalienės Rindos vyru.
 - susijęs iš [[objektai/asmenys/Goteris.md#claim-t-191275|Goteris]]: Narbuto pasakojime Goterio sūnus ir įpėdiniai baigiantis II a. nutraukė ilgai trukusius karus su rusais.
 - susijęs iš [[objektai/asmenys/Grinevičius.md#claim-t-80715|Grinevičius]]: Grinevičius iš Medikonių kaimo atvedė rusų kariuomenę į partizanų susitikimą.
@@ -214,13 +221,11 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103045|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti.
 - susijęs iš [[objektai/asmenys/K. Dalevskis.md#claim-t-40244|K. Dalevskis]]: K. Dalevskis tvirtino, kad sukilėliai mūšio nepralaimėjo, nes rusai vakare taip pat pasitraukė iš kautynių vietos.
 - susijęs iš [[objektai/asmenys/Kazimieras Skirgaila.md#claim-t-185951|Kazimieras Skirgaila (Lenkijos karalius)]]: Vienuolyno viršininkas slapta įpylė nuodų Skirgailai, kai šis po medžioklės užsuko į rusų vienuolyną.
-- susijęs iš [[objektai/asmenys/Kemlickis.md#claim-t-186125|Kemlickis]]: Šimtininkas Kemlickis parodė didelę narsą mūšyje, nuo kurio priklausė lenkų ir rusų kovos baigtis.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila Perkūnas.md#claim-t-79100|Kristupas Radvila Perkūnas]]: Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene.
-- susijęs iš [[objektai/asmenys/Leonas.md#claim-t-186010|Leonas]]: Leonas pirmose pozicijose išrikiavo rusus, o lietuvius ir skitus pastatė užnugaryje kaip žiūrovus.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184773|Liubartas]]: Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais.
 - susijęs iš [[objektai/asmenys/Liudvikas Narbutas.md#claim-t-40307|Liudvikas Narbutas]]: Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.
 - susijęs iš [[objektai/asmenys/Liudvikas Pliateris.md#claim-t-40308|Liudvikas Pliateris]]: Po nesėkmingo Liudviko Pliaterio antpuolio prieš į Daugpilį vykusią Rusijos karinę gurguolę sukilėliai atsisakė Daugpilio tvirtovės puolimo.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184788|Mindaugas (valdovas, XIII a.)]]: Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai įsibrovė į Mazoviją.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184788|Mindaugas (valdovas, XIII a.)]]: Mindaugas, gavęs rusų paramą, didžiulių miškų takais slaptai ir netikėtai įsibrovė į Mazoviją.
 - susijęs iš [[objektai/asmenys/Motiejus Pretorijus.md#claim-t-191216|Motiejus Pretorijus]]: Narbutas rašo, kad Pretorijus prūsus ir rusus laikė viena pradine gentimi, o variagų vardą kildino iš prūsiško žodžio „Warejs“.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-187451|Motiejus Strijkovskis]]: Motiejus Strijkovskis savo 1582 m. kronikoje beveik pažodžiui perteikė ištisus „rusiško metraščio“ varianto fragmentus.
 - susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190933|Nestoras]]: Teodoro Narbuto teigimu, Nestoras apie 860 m. pirmasis iš žinomų originalių istorikų paminėjo Lietuvą ir išvardijo rusų variagams priklausiusias gentis.
@@ -235,17 +240,16 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/asmenys/Protonas I.md#claim-t-191224|Protonas I]]: Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie rytinių Baltijos pakrančių pulti rusų.
 - susijęs iš [[objektai/asmenys/S. Radziševskis.md#claim-t-39806|S. Radziševskis]]: Plk. S. Radziševskis vadovavo 2-ajam lietuvių pėstininkų pulkui, atakavusiam rusų gynybos centrinius įtvirtinimus.
 - susijęs iš [[objektai/asmenys/Sekalas.md#claim-t-191463|Sekalas]]: Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį grobį.
-- susijęs iš [[objektai/asmenys/Sekalys.md#claim-t-186251|Sekalys]]: Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais smarkiai nusiaubė Rusią.
+- susijęs iš [[objektai/asmenys/Sekalys.md#claim-t-186251|Sekalys]]: Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais, pasak Kojelavičiaus, smarkiai nusiaubė visą Rusią.
 - susijęs iš [[objektai/asmenys/Sidaravičius.md#claim-t-39809|Sidaravičius]]: Karužas Sidaravičius žuvo šaudydamas iš kulkosvaidžio, kuris du kartus buvo patekęs rusams ir vėl atimtas.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184127|Skomantas]]: Skomantas su didele sūduvių ir rusų kariuomene devynias dienas plėšė ir degino Kulmo žemę.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59826|Skomantas]]: Skomantas su didele sūduvių ir rusų kariuomene devynias dienas plėšė ir degino Kulmo žemę.
 - susijęs iš [[objektai/asmenys/Starkateras.md#claim-t-191318|Starkateras]]: Narbutas pasakoja, kad Starkateras nuvyko į Rusią, iškvietė Viziną dvikovon ir, pasitelkęs gudrybę, jį nukovė.
 - susijęs iš [[objektai/asmenys/Strubė.md#claim-t-191321|Strubė]]: Teodoro Narbuto vertinimu, Strubė, kildindamas rusų tautą iš labai tolimos senovės, labai supainiojo Šiaurės istorijos dalykus.
-- susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-184838|Sviatoslavas]]: Sviatoslavas žuvo, kai mėgindamas perrikiuoti rusų rikiuotės vidurį prijojo per arti priešų ir buvo pervertas lietuvio raitelio ietimi.
+- susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-184838|Sviatoslavas]]: Kojelavičiaus pasakojime Sviatoslavas, nuniokojęs Oršos apylinkes, puolė Mstislavlį ir privertė Skirgailą bei Vytautą vesti karius prieš jį.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121172|Tautvilas]]: Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.
 - susijęs iš [[objektai/asmenys/Vladislovas Vaza.md#claim-t-79227|Vladislovas Vaza]]: 1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė kapituliuoti rusų pajėgas.
 - susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191240|Vyresnysis Starkateras]]: Narbuto pasakojime Starkateras nuvyko į Rusią, iškvietė Viziną dvikovon ir, pasitelkęs gudrybę, jį nukovė.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176654|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas mokėjo vokiečių ir lotynų kalbas, o šaltinyje svarstoma, kad galėjo mokėti ir rusų bei totorių kalbas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184876|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
 - susijęs iš [[objektai/asmenys/Wespats.md#claim-t-191486|Wespats]]: Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Danijos karaliaus priešai.
 - susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-191003|Ziemovitas]]: Lenkams patekus į sunkią padėtį, Ziemovitas kreipėsi į rusų kunigaikščius, prašydamas atsiųsti šaulių.
@@ -264,7 +268,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172902|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis XVI a. antrojoje pusėje rašė, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė.
 - susijęs iš [[objektai/autoriai/M. Vasmeris.md#claim-t-30852|M. Vasmeris]]: M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
 - susijęs iš [[objektai/autoriai/Motiejus Pretorijus.md#claim-t-190761|Motiejus Pretorijus]]: Pretorijus prūsus ir rusus laikė iš pradžių viena gentimi, o variagų vardą kildino iš prūsiško žodžio Warejs.
-- susijęs iš [[objektai/autoriai/N. Ulaščikas.md#claim-t-186451|N. Ulaščikas]]: N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų kalbą.
 - susijęs iš [[objektai/autoriai/Nestoras.md#claim-t-191534|Nestoras]]: Narbutas Nestorą vadino rusų istorijos tėvu ir rašė, kad jis užrašė tik sutrumpintas senų padavimų liekanas.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47898|Rusų ir ukrainiečių istorikai]]: M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47899|Rusų ir ukrainiečių istorikai]]: M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją iki mongolų laikų.
@@ -297,7 +300,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas.md#claim-t-78199|Leibgvardijos Voluinės pėstininkų pulkas]]: Leibgvardijos Voluinės pėstininkų pulkas buvo įtrauktas į kautynėms paruoštos Rusijos kariuomenės pagrindą.
 - susijęs iš [[objektai/grupes/Leibgvardijos kazokų pulkas.md#claim-t-40982|Leibgvardijos kazokų pulkas]]: Leibgvardijos kazokų pulkas buvo įtrauktas į kautynėms paruoštos Rusijos kariuomenės pagrindą.
 - susijęs iš [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas.md#claim-t-78197|Leibgvardijos lietuviškasis pėstininkų pulkas]]: Leibgvardijos lietuviškasis pėstininkų pulkas sudarė dalį kautynėms paruoštos Rusijos kariuomenės pagrindo.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184518|Lenkai]]: Germantas sudarė draugystę su lenkais, siūlydamas sąjungą ir siekdamas bendromis jėgomis pulti rusus.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184518|Lenkai]]: Pasak Kojelavičiaus, Germantas sudarė draugystę su lenkais, siekdamas bendromis jėgomis pulti rusus.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179222|Lietuviai]]: Lietuviai, rusai, maskvėnai ir totoriai, įsigiję dominijos nuosavybę, turėjo prisiimti ankstesnių savininkų prievoles.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179258|Lietuviai]]: Lietuvių ir rusų bajorai per puotą paskelbė Vytautą Lietuvos ir Rusijos karaliumi.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179274|Lietuviai]]: Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokiečiai, lenkai, totoriai, rusai ir valakai.
@@ -348,7 +351,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/grupes/Vytauto būrys.md#claim-t-39019|Vytauto būrys]]: 14-ame kvartale stovėjęs Vytauto būrys nebuvo apsuptas ir smogė rusams į nugarą.
 - susijęs iš [[objektai/grupes/asis šaulių pulko batalionas.md#claim-t-80645|asis šaulių pulko batalionas]]: 2-ojo šaulių pulko batalionas birželio 19 d. palaikė Trakų sukilėlių puolimą prieš rusų kairįjį sparną, bet ataka buvo atmušta.
 - susijęs iš [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados.md#claim-t-80647|oji ir 3-ioji Tautinės kavalerijos brigados]]: 2-oji ir 3-ioji Tautinės kavalerijos brigados priklausė gen. mjr. Jono Mejeno divizijai, gynusiai Vilnių nuo rusų puolimo.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176138|Žemaičiai]]: Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89349|Žiemgaliai]]: Žiemgaliai Nestoro „Povestyje“ minimi tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-66433|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. rugpjūtį Rusijos kariuomenė užėmė Vilnių, o lapkričio 5 d. pasidavė Varšuva.
 - susijęs iš [[objektai/ivykiai/1830-1831 m. sukilimas.md#claim-t-81824|1830-1831 m. sukilimas (sukilimas, XIX a.)]]: Vėlyvą 1830 m. rudenį Vilniuje susikūrė centrinis komitetas, turėjęs organizuoti sukilimą vakarinėse Rusijos imperijos gubernijose.
@@ -357,11 +359,11 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187460|Algirdo žygis į Maskvą]]: Algirdas, anot šaltinio, po pasiuntinio atleidimo sušaukė lietuvių bei rusų kariuomenę ir iš Vitebsko patraukė į Maskvą.
 - susijęs iš [[objektai/ivykiai/Antrasis valstybės padalijimas.md#claim-t-86940|Antrasis valstybės padalijimas]]: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
 - susijęs iš [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.).md#claim-t-66493|Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]: 1919 m. liepos 26 d. ties Kuršėnais iš Latvijos į Lietuvos teritoriją įžengė stipri jungtinė vokiečių ir rusų kariuomenė.
+- susijęs iš [[objektai/ivykiai/Bernardinų bažnyčios atstatymas po 1655 m. rusų antplūdžio.md#claim-t-200841|Bernardinų bažnyčios atstatymas po 1655 m. rusų antplūdžio]]: Po 1655 metų rusų antplūdžio apdaužytą Bernardinų bažnyčią padėjo atstatyti Vilniaus vaivada ir Didžiosios Kunigaikštystės etmonas Mykolas Pacas.
 - susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-10204|Biržų (Medeikių) mūšis (1863 m.)]]: Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.
 - susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-10205|Biržų (Medeikių) mūšis (1863 m.)]]: 1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti.
 - susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-10206|Biržų (Medeikių) mūšis (1863 m.)]]: 1863 m. gegužės 8 d. gausesnės I. Ganeckio rusų pajėgos užpuolė sukilėlius, o sužeidus Z. Sierakauską pasipriešinimas ėmė silpti.
-- susijęs iš [[objektai/ivykiai/Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę.md#claim-t-185699|Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę]]: Brianskas dėl rusų išdavystės buvo be vargo užimtas, o netrukus prie išdavikų prisidėjo visa Seversko žemė.
-- susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185494|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
+- susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185494|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
 - susijęs iš [[objektai/ivykiai/Gintarinės deklaracijos surašymas ir paskelbimas Rusijos Dūmoje.md#claim-t-20195|Gintarinės deklaracijos surašymas ir paskelbimas Rusijos Dūmoje]]: 1914 m. liepą Jonas Basanavičius, Stasys Šilingas ir Donatas Malinauskas Vilniuje surašė Gintarinę deklaraciją, paskelbtą Rusijos Dūmoje rugpjūčio 4 d.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192033|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas nurodo, kad Goterio sūnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nutraukė baigiantis II krikščioniškosios eros amžiui.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192034|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje.
@@ -397,7 +399,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.).md#claim-t-01849|Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]: 1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.
 - susijęs iš [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.).md#claim-t-86901|Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]: Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.).md#claim-t-34561|Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.)]]: 1417 m. gegužės 13 d. popiežius Martynas V paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.
-- susijęs iš [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline.md#claim-t-186680|Vytauto tėviškės užrašymas Skirgailai Liubline]]: Lietuvos metraštis Vytauto vardu pasakoja, kad Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotų rusų žemių.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.).md#claim-t-35920|Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]: Tapęs savo duktėno globėju ir Maskvos kunigaikštijos protektoriumi, Vytautas iškilo aukščiau kitų rusų kunigaikščių.
 - susijęs iš [[objektai/ivykiai/Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.).md#claim-t-185794|Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)]]: Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė.
 - susijęs iš [[objektai/ivykiai/Švitrigailos įkalinimas Kremeneco kalėjime ir pabėgimas.md#claim-t-185796|Švitrigailos įkalinimas Kremeneco kalėjime ir pabėgimas]]: Vytautas, nepasitikėdamas Švitrigaila, liepė jį suimti ir įkalinti Kremeneco kalėjime, iš kurio Švitrigailą netrukus išlaisvino rusų sąmokslininkai.
@@ -411,17 +412,17 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-183316|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
 - susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-54266|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prisijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
 - susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-54267|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
+- susijęs iš [[objektai/paprociai/Lenkiškas mokyklos charakteris Lietuvoje.md#claim-t-200883|Lenkiškas mokyklos charakteris Lietuvoje]]: Basanavičiaus teigimu, lenkiškas Lietuvos mokyklų charakteris išnyko tik tada, kai dėstymui buvo įvesta rusų kalba.
 - susijęs iš [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai.md#claim-t-183319|Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]: 1841 m. valdžia davė leidimą steigti mokyklas prie Telšių (Žemaičių) vyskupijos bažnyčių, jose leista mokyti skaityti ir rašyti lietuviškai, tikybos tiesų, nurodyta supažindinti mokinius su rusų abėcėle.
 - susijęs iš [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai.md#claim-t-54275|Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]: 1841 m. valdžia davė leidimą steigti mokyklas prie Telšių (Žemaičių) vyskupijos bažnyčių, jose leista mokyti skaityti ir rašyti lietuviškai, tikybos tiesų, nurodyta supažindinti mokinius su rusų abėcėle.
 - susijęs iš [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai.md#claim-t-54276|Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]: Telšių vyskupijos bažnytinės mokyklos nukonkuravo valdiškas mokyklas, kuriose mokyta rusų kalba.
 - susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78708|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus.
 - susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78712|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Lietuvių ir lenkų pajėgoms kovojant su bolševikais, atskiri jų daliniai kartais surengdavo bendras operacijas prieš rusus.
 - susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75378|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Rusios žemėse lietuviai rado bažnytinę sistemą ir raštiją, kurių patys neturėjo.
-- susijęs iš [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių.md#claim-t-185883|Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]: Polocko rusai valstybės valdymą perdavė tautai, nes per skitų karą buvo netekę teisėtų kunigaikščių.
+- susijęs iš [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių.md#claim-t-185883|Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]: Kojelavičiaus pasakojime Polocko liaudis valdžią valstybėje perdavė trisdešimčiai senelių ir į sueigas aikštėje buvo kviečiama variniu varpu.
 - susijęs iš [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus.md#claim-t-54332|Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]: Carinė valdžia uždarė nemažai katalikų vienuolynų, o 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į Rusų stačiatikių bažnyčią.
 - susijęs iš [[objektai/paprociai/Rusų administracijos dokumentų leidyba ir kultūrinės reakcijos stebėsena.md#claim-t-87252|Rusų administracijos dokumentų leidyba ir kultūrinės reakcijos stebėsena]]: Rusų administracija leido dokumentų rinkinius, kuriais tendencingai siekė įrodyti rusiškos ortodoksiškos civilizacijos tradicijas Šiaurės Vakarų krašte.
 - susijęs iš [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui.md#claim-t-87224|Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]: Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, mokėti muitą ir prisistatyti pilininkui.
-- susijęs iš [[objektai/paprociai/Viešas ganytojų ir rusų tautos suvažiavimas religiniams ginčams spręsti.md#claim-t-185903|Viešas ganytojų ir rusų tautos suvažiavimas religiniams ginčams spręsti]]: Vytautas, siekdamas stabdyti religines naujoves, sušaukė rusų tautos suvažiavimą Lietuvos Naugarduke.
 - susijęs iš [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje.md#claim-t-87238|Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]: Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudijo jo pastangas globoti prekybą Vilniuje ir visoje šalyje.
 - susijęs iš [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu.md#claim-t-87240|Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]: Aukštutinės pilies gynėjai, bijodami išdavystės, iš pilies išvijo rusus ir įtartinus žmones.
 - susijęs iš [[objektai/posakiai/Gediminas, dievo malone lietuvių ir rusų karalius.md#claim-t-86842|Gediminas, dievo malone lietuvių ir rusų karalius]]: Gediminas laiške dominikonams titulavosi dievo malone lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
@@ -443,7 +444,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Aleksandro raštiškas pasižadėjimas dėl Elenos tikėjimo: Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėjimo, kad Elena liks rusų tikėjimo ir nebus verčiama pereiti į Romos tikėjimą.
 - susijęs iš Andrusavos taika (1667 m.): 1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas.
 - susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
-- susijęs iš Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija: Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys rusai prisidėtų prie Rytų ir Vakarų bažnyčių santarvės.
+- susijęs iš Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija: Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėjimo ir raginęs Eleną pereiti į Romos tikėjimą.
 - susijęs iš Islandų sakmės, vadinamos šiaurinėmis sagomis: Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurlamą, kurį Torfėjo chronologija siejo su III amžiumi.
 - susijęs iš J. Stalino konstitucija SSRS konstitucija: Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas, uždrausta tikyba ir sumažintas lietuvių kalbos pamokų skaičius.
 - susijęs iš Jadvygos laiškas Vytautui (1398 m.): Jadvygos laiškas Vytautui buvo paskelbtas lietuvių ir rusų bajorų susirinkime ir žemino lietuvių didikus.
@@ -471,12 +472,11 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Baltoji Rusia: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.
 - susijęs iš Brasta: Teodoras Narbutas Brastos apylinkėse mini svarbias jotvingių gyvenvietes, kurias 1237 m. ketino užpulti Danieliaus vadovauti Pietų Rusios kunigaikščiai.
 - susijęs iš Būgas: Būgas jau tuomet buvo Mazovijos ir rusų žemių riba.
-- susijęs iš Didysis Naugardukas: Įvade Didysis Naugardukas minimas tarp feodalinių respublikų, aptariant LDK santykius su Rusų valstybe.
 - susijęs iš Didžioji Lietuva: 1914 m. Gintarinėje deklaracijoje lietuviai siekė sujungti Didžiąją ir Mažąją Lietuvą bei gauti autonomiją Rusijos tautų šeimoje.
 - susijęs iš Gercikos pilis (pilis): Narbutas Gercikos pilį prie Dauguvos vadina rusų kunigaikščio Visvaldžio sostine ir sieja ją su dabartiniu Daugpiliu.
 - susijęs iš Giurgevo tvirtovė: Giurgevo tvirtovės vieta, Narbuto teigimu, rusų istorikams buvo nesutariamas klausimas.
 - susijęs iš Karaliaučius: Vytauto laikais išplitę Vilniaus prekybiniai ryšiai siekė Karaliaučių, Rygą, Gdanską, Sileziją ir rusų miestus.
-- susijęs iš Kijevas: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
+- susijęs iš Kijevas: Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
 - susijęs iš Kijevo Rusia: Kazimieras Belzą ir Volynę perdavė su sąlyga, kad aukščiausią valdžią Rusioje turės Lenkijos karalius.
 - susijęs iš Kijevo Rusia: 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką.
 - susijęs iš Kopysė: Radvila pasiuntė kelias kavalerijos vėliavas į Kopysės pusę, kad atviliotų pagrindines rusų kariuomenės pajėgas į mūšį.
@@ -494,9 +494,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Polockas: Vytenio ir Gedimino laikais Polockas 1307 m. buvo prijungtas prie Lietuvos kaip Baltosios Rusios dalis.
 - susijęs iš Rusijos imperija: Rusijos imperijos valdžia 40 metų vykdė rusinimo politiką Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse.
 - susijęs iš Rusų žemė: Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui.
-- susijęs iš Rusų žemė: Pasak Lietuvos metraščio, Aleksandras su Elena ir didikais tą žiemą važiavo apžiūrėti Rusų žemės ir lankėsi Smolenske, Vitebske bei Polocke.
-- susijęs iš Rusų žemė: Rusų žemė minima kaip Aleksandro, Elenos ir didikų lankytas regionas su Smolensku, Vitebsku ir Polocku.
-- susijęs iš Rusų žemė: Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke, o pavasariop grįžo į Vilnių.
 - susijęs iš Rytų Europa: Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos, nes per ją eina tiesiausias kelias iš Vokietijos į Rusiją.
 - susijęs iš SSRS: Baltijos valstybėse galimybė atsidurti SSRS valdžioje buvo klaidingai suvokta kaip laikinas grįžimas į Nikolajaus II Rusiją.
 - susijęs iš Semba: Narbutas rašė, kad Adomas Bremenietis Sembą laikė besiribojančia su rusais arba Rusios kraštu.
@@ -516,17 +513,14 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Vilnius: Lietuviams puolant balandžio 23 d., Vilniuje buvusią rusų įgulą sudarė 2500 pėstininkų, 300 raitelių ir 19 artilerijos pabūklų.
 - susijęs iš Vilnius: Lietuviams puolant balandžio 23 d., Vilniuje buvusią rusų įgulą sudarė 2500 pėstininkų, 300 raitelių ir 19 artilerijos pabūklų.
 - susijęs iš Vilnius: 1794 m. balandį sukilėliai išvadavo Vilnių iš rusų ir Rotušės aikštėje paskelbė Lietuvos sukilimo aktą.
-- susijęs iš Vilnius: Vilniaus vyskupas Jurgis Radvila nusprendė įsteigti kolegiją lietuvių ir rusų jaunuoliams auklėti.
-- susijęs iš Vitebskas: Aleksandras su Elena ir didikais žiemą lankėsi Vitebske, apžiūrėdamas Rusų žemę.
 - susijęs iš Volynė: Kazimieras atidavė Volynę Aleksandrui Narimantaičiui su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
 - susijęs iš Žemaičių jūra: Šią jūrą kai kurie raštininkai vadino Rusų mare.
 - susijęs iš [[objektai/zodynas/Graždanka.md#claim-t-52508|Graždanka]]: Graždanka vadintos rusų raidės, kurias lietuviai atsisakė priimti lietuviškai spaudai.
 - susijęs iš [[objektai/zodynas/Kanceliarinė rašto kalba.md#claim-t-32752|Kanceliarinė rašto kalba]]: Lietuvos didžiojo kunigaikščio kanceliarinė rašto kalba išsivystė iš vartotos slavų kalbos ir skyrėsi nuo maskvinės rusų kalbos.
 - susijęs iš [[objektai/zodynas/Romos tikėjimas.md#claim-t-187526|Romos tikėjimas]]: Lietuvos metraštis vaizduoja, kad Algirdo laikais Lietuvoje Romos tikėjimo jau nebuvo, liko vien rusų tikėjimas.
-- susijęs iš [[objektai/zodynas/Rusios didysis kunigaikštis.md#claim-t-185410|Rusios didysis kunigaikštis]]: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
+- susijęs iš [[objektai/zodynas/Rusios didysis kunigaikštis.md#claim-t-185410|Rusios didysis kunigaikštis]]: Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
 - susijęs iš [[objektai/zodynas/Rusų-lietuvių valstybė.md#claim-t-86639|Rusų-lietuvių valstybė]]: Michałas Balińskis teigė įrodęs, kad iki susijungimo su Lenkija Lietuva iš esmės buvo rusų-lietuvių valstybė.
 - susijęs iš [[objektai/zodynas/akcijos.md#claim-t-70076|akcijos]]: Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armijos dalinius, ukrainiečių, latvių policijos batalionus.
-- susijęs iš [[objektai/zodynas/dvarionis.md#claim-t-187548|dvarionis]]: Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė savo dvarionis lietuvius ir rusus.
 - susijęs iš [[objektai/zodynas/dvarionys.md#claim-t-187554|dvarionys]]: Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui.
 - susijęs iš [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas.md#claim-t-183429|kirilika rusiškas raidynas lotyniškasis raidynas]]: Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje lotyniškąjį raidyną pakeisti rusiškuoju.
 - susijęs iš [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas.md#claim-t-70176|kirilika rusiškas raidynas lotyniškasis raidynas]]: Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje lotyniškąjį raidyną pakeisti rusiškuoju.
@@ -544,11 +538,14 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/zodynas/svečiai Svečių namai.md#claim-t-86553|svečiai Svečių namai]]: Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, sumokėti muitą ir pranešti pilininkui.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-22359|„lenkų pradai“ „rusų pradai“]]: „Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista.
 - susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-193042|Visvaldis]]: Narbutas Visvaldį vadina rusų kunigaikščiu, kurio sostinė buvo Gercikos pilis prie Dauguvos, jo nuomone, dabartinis Daugpilis.
+- susijęs iš [[objektai/autoriai/N. Ulaščikas.md#claim-t-198527|N. Ulaščikas]]: N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų kalbą.
 - susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192075|Valtys]]: Narbutas rašo, kad rusai prie įėjimo į Rusnės įlanką stojo į mūšį susirinkę labai daug valčių.
 - susijęs iš [[objektai/ivykiai/1902 m. A. R. Niemio kelionė į Lietuvą.md#claim-t-195568|1902 m. A. R. Niemio kelionė į Lietuvą]]: Per šią kelionę A. R. Niemis lankė Kauną ir buvo nuolat sekamas rusų žandarų.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192033|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas nurodo, kad Goterio sūnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nutraukė baigiantis II krikščioniškosios eros amžiui.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78614|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.
 - susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09880|Smolensko apgultis (1632–1634 m.)]]: 1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.
+- susijęs iš [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline.md#claim-t-199229|Vytauto tėviškės užrašymas Skirgailai Liubline]]: Lietuvos metraštis Vytauto vardu pasakoja, kad Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotų rusų žemių.
+- susijęs iš Vytauto skundas prieš Jogailą ir Skirgailą: Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė jimo.
 - susijęs iš Jaselda: Prie Jaseldos upės Skirmanto pajėgos sumušė Mstislavą, kuris praradęs kariuomenę paspruko į Lucką.
 - susijęs iš Vilniaus pilys: Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.
 - susijęs iš [[objektai/zodynas/Konlyna.md#claim-t-192322|Konlyna]]: Narbutas aiškina, kad XVI a. Lietuvoje rusų kalba rašytose sutartyse „Konlyna“ reiškė ypatingos konstrukcijos skrynią.
@@ -572,7 +569,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191118|Augustas Liudvikas fon Slėceris]]: Narbutas rašo, kad Slėceris prūsų ir slavų kalbas skelbė esančias antro giminystės laipsnio.
 - susijęs iš [[objektai/asmenys/B. Kolyška.md#claim-t-40055|B. Kolyška]]: B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido.
 - susijęs iš [[objektai/asmenys/B. Žarskis.md#claim-t-40060|B. Žarskis]]: Bataliono vadas majoras B. Žarskis žuvo per sukilėlių kovą.
-- susijęs iš [[objektai/asmenys/Barkus.md#claim-t-186097|Barkus]]: Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitijos dalį iki Kuršių įlankos.
 - susijęs iš [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas).md#claim-t-60250|Bernardas (Šv. Teofrido vienuolyno abatas)]]: Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas.
 - susijęs iš [[objektai/asmenys/Bojas.md#claim-t-191256|Bojas]]: Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kautynėse su Goteriu ir trečią dieną mirė nuo žaizdų.
 - susijęs iš [[objektai/asmenys/Boleslovas Narsusis.md#claim-t-191200|Boleslovas Narsusis]]: Dytmaras, Merzeburgo vyskupas, pasakodamas apie Boleslovo Narsiojo karus, 1009 m. paminėjo ir lietuvius.
@@ -609,6 +605,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176379|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas dominikonams rašė pasiuntęs laišką popiežiui Jonui ir norįs sukviesti vyskupų, kunigų bei vienuolių.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176380|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176388|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas laiškuose ir pareiškime popiežiaus legatams kaltino kryžiuočius niokojant žemes, darant skriaudas ir nuostolius.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188528|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Gotbrodas.md#claim-t-191273|Gotbrodas]]: Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi.
 - susijęs iš [[objektai/asmenys/Hasė.md#claim-t-191408|Hasė]]: Narbuto vertinimu Hasės mažai žinoma knyga rodė, kad iš žodžių nagrinėjimo galima išvesti beveik bet kokias žinias.
@@ -650,7 +647,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/asmenys/Kazimieras Sapiega.md#claim-t-49420|Kazimieras Sapiega]]: Vakare Kazimiero Sapiegos vadovaujamos artilerijos baterijos dengiama Vilniaus įgula atsitraukė per Žaliąjį tiltą.
 - susijęs iš [[objektai/asmenys/Kiščina (Vitebsko vaivadienė).md#claim-t-87756|Kiščina (Vitebsko vaivadienė)]]: Kiščina, Vitebsko vaivadienė, buvo įspėta nestabdyti į Vilnių vamzdžiais vedamo vandens iš Drujos upės.
 - susijęs iš [[objektai/asmenys/Konradas (Zemovito sūnus).md#claim-t-186128|Konradas (Zemovito sūnus)]]: Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelaisvę ir vėliau grąžino į tėvo valdas.
-- susijęs iš [[objektai/asmenys/Konradas Frankenbergas.md#claim-t-186228|Konradas Frankenbergas]]: Rusų sąmokslininkai nužudė sargybos viršininką Konradą Frankenbergą ir paleido Švitrigailą iš Kremeneco kalėjimo.
 - susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190907|Konradas]]: Narbutas vaizduoja Konradą kaip Mazovijos kunigaikštį, XIII a. pradžioje pasiekusį laimėjimų Jotvingijoje ir valdžiusį Drohičiną.
 - susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63849|Kotryna II]]: Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai.
 - susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49421|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
@@ -665,7 +661,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/asmenys/Liutauras.md#claim-t-190106|Liutauras]]: Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė Liutaurą užimti ir vietininko teisėmis valdyti Polocką.
 - susijęs iš [[objektai/asmenys/Madykas.md#claim-t-40323|Madykas]]: Kunigaikštis Madykas buvo murzos Sivinduko tėvas.
 - susijęs iš [[objektai/asmenys/Mamšėjus.md#claim-t-40326|Mamšėjus]]: 1279 m. pradžioje Mamšėjus vadovavo Nogajaus pasiųstai kariuomenei prieš Traidenio Lietuvą.
-- susijęs iš [[objektai/asmenys/Mantvila Gimbutaitis.md#claim-t-186236|Mantvila Gimbutaitis]]: Mantvila Gimbutaitis ir Zivinbudas susitarė pulti nuo smūgio neatsigavusį priešą ir sutelkė abiejų genčių jėgas.
 - susijęs iš [[objektai/asmenys/Markvardas (Ragainės komtūras).md#claim-t-39600|Markvardas (Ragainės komtūras)]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.
 - susijęs iš [[objektai/asmenys/Mendli Girėjus.md#claim-t-87445|Mendli Girėjus]]: Mendli Girėjus sumušė sąjungininko apleistą Šach Achmedą.
 - susijęs iš [[objektai/asmenys/Merlinas.md#claim-t-39605|Merlinas]]: Mjr. Merlinas buvo pasiųstas per Viešintas Šimonių link su pusantros kuopos pėstininkų ir 70 kazokų.
@@ -677,6 +672,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87558|Mykolas (Žygimanto sūnus)]]: Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.
 - susijęs iš [[objektai/asmenys/Mykolas Borisovičius Šeina.md#claim-t-40355|Mykolas Borisovičius Šeina]]: Rusų kariuomenės vado Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184803|Mykolas Glinskis]]: Mykolas Glinskis gailėjosi savo veiksmų ir per giminaitį laišku paprašė karaliaus atleidimo.
+- susijęs iš [[objektai/asmenys/Mykolas Pacas.md#claim-t-200765|Mykolas Pacas]]: Po 1655 m. rusų antplūdžio Mykolas Pacas, Vilniaus vaivada ir Lietuvos Didžiosios Kunigaikštystės etmonas, padėjo atstatyti Bernardinų bažnyčią.
 - susijęs iš [[objektai/asmenys/N. Judeničas.md#claim-t-39790|N. Judeničas]]: N. Judeničas spalį pradėjo Petrogrado puolimą ir pareikalavo, kad Bermontas paremtų šią operaciją.
 - susijęs iš [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis).md#claim-t-40367|Nameisis (žiemgalių kunigaikštis)]]: Nameisio vadovaujami ir lietuvių remiami žiemgaliai po Livonijos ordino sutriuškinimo atsiėmė Tervetės pilį.
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40370|Narimantas Gediminaitis]]: Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.
@@ -689,7 +685,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/asmenys/Nogajus (Aukso ordos valdytojas).md#claim-t-40377|Nogajus (Aukso ordos valdytojas)]]: Aukso ordos valdytojas Nogajus pasiuntė Mamšėjaus vadovaujamą kariuomenę prieš Traidenio Lietuvą.
 - susijęs iš [[objektai/asmenys/P. Virgoličius.md#claim-t-80741|P. Virgoličius]]: Pulkininko P. Virgoličiaus pajėgos turėjo užimti Lietuvą.
 - susijęs iš [[objektai/asmenys/P. Vivulskis.md#claim-t-40384|P. Vivulskis]]: Sužeidus Z. Sierakauską ir mjr. P. Vivulskį, sukilėlių veiksmai pakriko po dviejų valandų atkaklaus pasipriešinimo.
-- susijęs iš [[objektai/asmenys/Petras iš Dusburgo.md#claim-t-186246|Petras iš Dusburgo (kunigas)]]: Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.
+- susijęs iš [[objektai/asmenys/Petras iš Dusburgo.md#claim-t-186246|Petras iš Dusburgo (kunigas)]]: Kojelavičius rašė, kad Petras iš Dusburgo tvirtino Palemoną paskyrus Romanovą vyriausiajam žyniui tikėjimui saugoti.
 - susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186158|Pisimantas]]: Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai.
 - susijęs iš [[objektai/asmenys/Povilas Juozapas Safaržykas.md#claim-t-191105|Povilas Juozapas Safaržykas]]: Narbutas rašo, kad Safaržykas alanus, asus ir osetinus siejo su skandinaviškosios „Edos“ asais.
 - susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49485|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.
@@ -749,11 +745,10 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/asmenys/Vsevolodas.md#claim-t-191485|Vsevolodas]]: 1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176750|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir liepė Naugarduke išrinkti Lietuvai atskirą metropolitą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176763|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Mokslininkai kelia mintį, kad Vytauto valstybės pakraščiuose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184871|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas ėmėsi karo prieš Švitrigailą, siekdamas didesnio Baltarusijos žemių paklusnumo Lietuvos didžiajam kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Vytenis (Lietuvos karalius).md#claim-t-39420|Vytenis (Lietuvos karalius)]]: Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkiją, į Bresto žemę.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176850|Zbignievas Olesnickis]]: Krokuvos vyskupas Zbignievas Olesnickis buvo įtakingas karaliaus dvare ir priešinosi nepriklausomai Vytauto politikai.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176852|Zbignievas Olesnickis]]: Krokuvos vyskupas Zbignievas Olesnickis karaliaus dvare įgijo daug įtakos ir buvo laikomas nepriklausomos Vytauto politikos priešininku.
-- susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184894|Zemovitas]]: Mindaugas, padedamas rusų, įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.
+- susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184894|Zemovitas]]: Mindaugas su rusų parama įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.
 - susijęs iš [[objektai/asmenys/Zigmantas Herberšteinas.md#claim-t-40546|Zigmantas Herberšteinas]]: Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie Lietuvos kariuomenės kėlimąsi per Dniepro upę.
 - susijęs iš [[objektai/asmenys/Zigmantas Herberšteinas.md#claim-t-40547|Zigmantas Herberšteinas]]: Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą.
 - susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82988|Zigmantas Vaza]]: 1632 m. maskvėnai pasinaudojo Zigmanto Vazos mirtimi ir įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską.
@@ -766,7 +761,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-184896|Švitrigaila]]: Boleslovą Švitrigailą kamavo neišsipildžiusios viltys, nes po Skirgailos jis turėjo teisę pirmas paveldėti valdžią.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-184900|Švitrigaila]]: Ištrūkęs į laisvę Švitrigaila pabėgo pas imperatorių Zigmantą, o vėliau susitaikė su Vytautu.
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184904|Živinbudas]]: Ligos kamuojamas Živinbudas, išgirdęs apie pergalę ir pamatęs sūnų Kukovaitį, perdavė jam valdžią.
-- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114101|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis leido Vilniaus miestiečiams prekiauti ir gabenti prekes be muitų Lietuvos žemėje.
 - susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-190687|Albertas Vijūkas-Kojalavičius]]: Kojalavičiaus prielaidomis, Narbuto teigimu, rėmęsis Ksaveras Bogušas poloviečius priskyrė lietuvių genties tautoms.
 - susijęs iš [[objektai/autoriai/Dytmaras Merzeburgietis.md#claim-t-191669|Dytmaras Merzeburgietis]]: Dytmaras Merzeburgietis, pasakodamas apie Boleslovo Narsiojo karus, 1009 metais minėjo lietuvius.
 - susijęs iš [[objektai/autoriai/E. I. Leontovičius.md#claim-t-30593|E. I. Leontovičius]]: E. I. Leontovičius buvo žymus teisės istorikas, palikęs studijų apie Lietuvos valstybės teisinius santykius ir institucijas.
@@ -791,7 +785,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/autoriai/Maironis.md#claim-t-125059|Maironis]]: Maironis buvo vienas lietuvių literatūros klasikų, tuo metu dar vaikščiojusių Kauno gatvėmis.
 - susijęs iš [[objektai/autoriai/Miechowita.md#claim-t-64760|Miechowita]]: Miechowitos XVI a. išspausdinta kronika buvo tarp lenkų kronikų, pažįstamų Lietuvos Metraščio sąvadą rengusiam autoriui.
 - susijęs iš [[objektai/autoriai/Mykolas Kleopas Oginskis.md#claim-t-75423|Mykolas Kleopas Oginskis]]: Mykolas Kleopas Oginskis buvo stambus dvarininkas, kompozitorius ir polonezo „Atsisveikinimas su Tėvyne“ autorius.
-- susijęs iš [[objektai/autoriai/N. Ulaščikas.md#claim-t-186452|N. Ulaščikas]]: N. Ulaščikas prie Bychovco kronikos vertimo pridėjo įvadą ir trumpų paaiškinimų apie vietoves, terminus bei kai kurias teksto vietas.
 - susijęs iš [[objektai/autoriai/Nestoras.md#claim-t-191531|Nestoras]]: Narbutas Nestorą vadino pirmuoju jam žinomu originaliu istoriku, paminėjusiu Lietuvą 860 metais ar kiek vėliau.
 - susijęs iš [[objektai/autoriai/Nestoras.md#claim-t-191533|Nestoras]]: Nestoro pasakojime, kaip jį perteikia Narbutas, 859 metais variagai paskyrė kailių duoklę ir krivičiams.
 - susijęs iš [[objektai/autoriai/Nikolajus Karamzinas.md#claim-t-190307|Nikolajus Karamzinas]]: Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams ir pagal juos suskirstė „Lietuvių tautos istorijos“ turinį.
@@ -859,7 +852,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-192413|Krivičiai]]: Teodoras Narbutas vaizdavo, kad Olegas, kviesdamas krivičius į žygį į pietus, turėjo gauti Krivio paskelbtą dievų leidimą.
 - susijęs iš [[objektai/grupes/Krymo orda.md#claim-t-86726|Krymo orda]]: Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178859|Kryžiuočių ordinas]]: Balińskis rašė, kad Švitrigailos laikais Kryžiuočių ordinas turėjo itin didelę įtaką Lietuvos reikalams.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184491|Kryžiuočių ordinas]]: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65554|Kuršiai]]: Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65565|Kuršiai]]: Nestoro „Povest“ tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų minėjo Kuršą.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-192421|Latviai]]: Teodoro Narbuto aprašyme Infliantų, arba Livonijos, Latvija buvo Dauguvos žemupyje, abiejose jos pakrantėse.
@@ -907,7 +899,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/grupes/Pionierių organizacijos.md#claim-t-19963|Pionierių organizacijos]]: Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas.
 - susijęs iš [[objektai/grupes/Polocko kunigaikščiai.md#claim-t-187772|Polocko kunigaikščiai]]: Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui nebeliko Polocko kunigaikščių, vadinama nepagrįsta.
 - susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
-- susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187774|Poloviečiai]]: Prieš vokiečius rusai ir poloviečiai jodinėjo su strėlėmis, o jotvingiai buvo ginkluoti trumpomis ietimis.
 - susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-192443|Poloviečiai]]: Teodoras Narbutas rašo, kad Ksaveras Bogušas, remdamasis Kojalavičiaus prielaidomis, poloviečius priskyrė lietuvių genties tautoms.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108284|Pranciškonų ordinas]]: Vilniuje tarp trijų minimų krikščionių šventovių buvo ir pranciškonų bažnyčia.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108287|Pranciškonų ordinas]]: Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą.
@@ -926,7 +917,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/grupes/Romos katalikų bažnyčia.md#claim-t-189449|Romos katalikų bažnyčia]]: Narbutas Romos katalikų bažnyčios dvasininkijai Lenkijoje ir Lietuvoje priskyrė slaptą priežastį slėpti pakartotinį krikštijimą.
 - susijęs iš [[objektai/grupes/Rusinai.md#claim-t-189405|Rusinai]]: Narbutas atmetė Stenderio aiškinimą, kad kriviai kildintini iš rusų žemės, nes latviai tenykščius rusinus vadino Kreews arba Kriws.
 - susijęs iš [[objektai/grupes/Rusų stačiatikių bažnyčia.md#claim-t-66082|Rusų stačiatikių bažnyčia]]: Vilniuje pastatytomis ir atstatytomis cerkvėmis siekta parodyti, kad Šiaurės Vakarų krašto centras yra ir stačiatikiškas.
-- susijęs iš [[objektai/grupes/Seversko kunigaikščiai.md#claim-t-185437|Seversko kunigaikščiai]]: Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos.
+- susijęs iš [[objektai/grupes/Seversko kunigaikščiai.md#claim-t-185437|Seversko kunigaikščiai]]: Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos apibūdino kaip valstybės išdavimą ir valdų prijungimą prie Maskvos.
 - susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-190619|Skandinavai]]: Narbutas iš skandinavų legendų sprendžia, kad Biarmija buvo turtinga brangiųjų metalų ir viliojo skandinavų plėšikus.
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-192471|Slavai]]: Narbutas, remdamasis istorikais, rašė apie labai seną Rusią, egzistavusią iki epochos, kai slavai pradėjo vadintis rusais.
 - susijęs iš [[objektai/grupes/Slavofilai.md#claim-t-182924|Slavofilai]]: Slavofilai reikalavo pakeisti visą Vilniaus apygardos švietimo sistemą.
@@ -953,7 +944,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija.md#claim-t-55102|Vilniaus vyskupijos klierikų kolegija]]: Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti skyrė Vozgėliškių dvarelį Vilniaus paviete.
 - susijęs iš [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija.md#claim-t-81749|Vilniaus vyskupijos klierikų kolegija]]: Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti pridėjo Vozgėliškėmis vadintą dvarelį Vilniaus paviete.
 - susijęs iš [[objektai/grupes/oji rezervo divizija.md#claim-t-80644|oji rezervo divizija]]: Sukilėliams delsiant pulti Vilnių, prie miesto artėjo rusų 1-oji rezervo divizija.
-- susijęs iš [[objektai/grupes/Černigovo kunigaikštystė.md#claim-t-187777|Černigovo kunigaikštystė]]: Černigovas, Starodubas ir Karačevas buvo suskilusios Černigovo kunigaikštystės smulkesnių valdų sostinės.
 - susijęs iš [[objektai/grupes/Šiaurės slavai.md#claim-t-189484|Šiaurės slavai]]: Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus triznos apeigų papročius.
 - susijęs iš [[objektai/grupes/Šiaurės slavai.md#claim-t-189485|Šiaurės slavai]]: Narbutas biarmius, arba permius, laikė atskira didelės šiaurės slavų šeimos šaka pagal kalbos, papročių ir fizionomijos skirtumus.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176133|Žemaičiai]]: Manoma, kad Lietuvos valdovai žemaičių gyvenamose valstybės pakraščių teritorijose įkurdino ištikimus žmones iš Lietuvos.
@@ -983,7 +973,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.).md#claim-t-31416|Gedimino taikos sutartis su Livonija (1322 m.)]]: 1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai reiškė geografinį žemės pavadinimą.
 - susijęs iš [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.).md#claim-t-31417|Gedimino taikos sutartis su Livonija (1322 m.)]]: 1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai reiškė geografinį žemės pavadinimą.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185493|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius.
-- susijęs iš [[objektai/ivykiai/Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių.md#claim-t-185569|Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių]]: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio sudeginimas Konstancoje 1416 m. birželio 21 d.md#claim-t-189635|Jeronimo Prahiškio sudeginimas Konstancoje 1416 m. birželio 21 d]]: Jeronimą Prahiškį sudegino gyvą Konstancoje 1416 m. birželio 21 d.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Sofijos santuoka (1421 m.).md#claim-t-185705|Jogailos ir Sofijos santuoka (1421 m.)]]: Vytautas paragino Jogailą pasirinkti naują žmoną, o Jogaila jo paskatintas įsižiūrėjo Sofiją, Kijevo kunigaikščio Andriaus dukterį.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186604|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraščio pasakojime prie Dubrovnos Jogaila, Vytautas ir Prūsijos magistras sutelkė didžiules kariuomenes.
@@ -1002,6 +991,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/ivykiai/Lietuvių žygis į Kališo ir Seradzo žemes.md#claim-t-185812|Lietuvių žygis į Kališo ir Seradzo žemes]]: Spalio mėnesį lietuviai nusiaubė Kališo ir Seradzo žemes ir be pasipriešinimo grįžo namo su grobiu.
 - susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66685|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė, S. Zabielos raportais, neteko apie 300 karių.
 - susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66687|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė neteko apie 300 karių.
+- susijęs iš [[objektai/ivykiai/Lietuvos krikštas (1387 m.).md#claim-t-200707|Lietuvos krikštas (1387 m.)]]: Viljamas Pochliobkinas 1387 m. Lietuvos krikštą siejo su Genujos pasiuntinių Jogailai ir Vytautui demonstruotu distiliuotu alkoholiu, bet Laužikas pažymi, kad to nepatvirtina nepriklausomi šaltiniai.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-75167|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: Sąjūdis suvienijo įvairius visuomenės sluoksnius, pasirinko neginkluotą kovą ir prisidėjo prie Lietuvos išsilaisvinimo bei SSRS žlugimo.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.).md#claim-t-75169|Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]: Sąjūdis suvienijo įvairius visuomenės sluoksnius, pasirinko neginkluotą kovą ir prisidėjo prie Lietuvos išsilaisvinimo bei SSRS žlugimo.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.).md#claim-t-01730|Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)]]: 1918 m. vasario 16 d. Lietuvos Taryba priėmė naują savarankišką pareiškimą, tapusį Lietuvos nepriklausomybės paskelbimu.
@@ -1013,6 +1003,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187967|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: 1850 m. Vilniaus gimnazijoje buvo suimtas Teodoro Narbuto sūnus Liudvikas Narbutas.
 - susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187968|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: Liudvikas Narbutas buvo kaltinamas priešvalstybine agitacija ir siekiu sukurti slaptą organizaciją.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.).md#claim-t-35858|Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)]]: 1421 m. Livonijos ordinas sudarė amžiną taiką su Didžiuoju Naugardu.
+- susijęs iš [[objektai/ivykiai/Lucko suvažiavimas.md#claim-t-200708|Lucko suvažiavimas]]: Viljamas Pochliobkinas 1429 m. Lucko suvažiavimą siejo su Genujos pasiuntinių Jogailai ir Vytautui demonstruotu distiliuotu alkoholiu, bet Laužikas pažymi, kad to nepatvirtina nepriklausomi šaltiniai.
 - susijęs iš [[objektai/ivykiai/M. Balinskio areštas 1831 m. gegužę.md#claim-t-86955|M. Balinskio areštas 1831 m. gegužę]]: 1831 m. gegužę Mykolas Balinskis buvo areštuotas, bet netrukus paleistas.
 - susijęs iš [[objektai/ivykiai/Maskvos valdovo karo paskelbimas Aleksandrui.md#claim-t-185749|Maskvos valdovo karo paskelbimas Aleksandrui]]: Maskvos valdovas paskelbė Aleksandrui karą, kaltindamas jį sutarčių laužymu ir Elenos spaudimu pereiti į Romos tikėjimą.
 - susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-186371|Mėlynųjų Vandenų mūšis (1362 m.)]]: Po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m. Algirdas, kaip manoma, prijungė Kijevą.
@@ -1022,7 +1013,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/ivykiai/Padalinamasis seimas (1773–1775 m.).md#claim-t-01764|Padalinamasis seimas (1773–1775 m.)]]: Per 1773–1775 m. padalinamąjį seimą buvo sunaikintos valstybės pajamos, išgrobsčius daugumą valstybės dvarų ir iždo pinigus.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186649|Parčevo seimas (seimas, XV a.)]]: Lenkijos karaliaus Olbrachto ir Lietuvos didžiojo kunigaikščio Aleksandro atstovai per pasitarimą nutarė sušaukti seimą Parčeve.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186650|Parčevo seimas (seimas, XV a.)]]: Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.
-- susijęs iš [[objektai/ivykiai/Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.).md#claim-t-185636|Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.)]]: Vilniaus seime ginčas dėl Podolės istorijos ir teisių buvo atidėtas Parčevo seimui.
 - susijęs iš [[objektai/ivykiai/Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.).md#claim-t-23353|Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)]]: 1923 m. rugsėjo 17 d. įvyko pirmasis Lietuvos gyventojų surašymas.
 - susijęs iš [[objektai/ivykiai/Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.).md#claim-t-23354|Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)]]: Surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas.
 - susijęs iš [[objektai/ivykiai/Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.).md#claim-t-23355|Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)]]: 1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas.
@@ -1056,8 +1046,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.).md#claim-t-86965|Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]: Jurgis Radvila Vilniaus klierikų kolegijai funduoti ir aprūpinti pridėjo savo patrimonialinį Vozgėliškių dvarelį Vilniaus paviete.
 - susijęs iš [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.).md#claim-t-184237|Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]: 1421 m. po Cemblako mirties Vytautas Kijevo metropolitu pripažino Maskvos Focijų ir prie bažnytinės unijos nebegrįžo.
 - susijęs iš [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.).md#claim-t-35916|Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]: 1421 m. po Cemblako mirties Vytautas Kijevo metropolitu pripažino Maskvos Focijų ir prie bažnytinės unijos nebegrįžo.
-- susijęs iš [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline.md#claim-t-186681|Vytauto tėviškės užrašymas Skirgailai Liubline]]: Lietuvos metraštis Vytauto vardu pasakoja, kad Jogaila Liubline Vytauto akivaizdoje užrašė Skirgailai jo tėviškę, ir Vytautui tai buvo skaudu.
-- susijęs iš [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline.md#claim-t-186682|Vytauto tėviškės užrašymas Skirgailai Liubline]]: Lietuvos metraštis Vytauto vardu pasakoja, kad Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
 - susijęs iš [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę.md#claim-t-185834|Vytauto šalininkų žygis į Riazanę]]: Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas.md#claim-t-185666|Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas]]: Vytautas greitai užėmė Oršą, patraukė į Drucką ir privertė Drucko kunigaikščius prisiekti ištikimybę jam bei jo įpėdiniams.
 - susijęs iš [[objektai/ivykiai/Šiaurės karas (1700–1721 m.).md#claim-t-39143|Šiaurės karas (1700–1721 m.)]]: Per Šiaurės karą 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.
@@ -1099,7 +1087,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/paprociai/Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje.md#claim-t-185890|Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje]]: Kojelavičiaus pasakojime Palemonas Romanovą paskyrė vyriausiajam žyniui, turėjusiam saugoti tikėjimą.
 - susijęs iš [[objektai/paprociai/Tautinių mažumų kalbos ir kultūros puoselėjimas ribotos lygybės sąlygomis.md#claim-t-77961|Tautinių mažumų kalbos ir kultūros puoselėjimas ribotos lygybės sąlygomis]]: Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.
 - susijęs iš [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje.md#claim-t-183695|Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]: Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.
-- susijęs iš [[objektai/paprociai/Viešas ganytojų ir rusų tautos suvažiavimas religiniams ginčams spręsti.md#claim-t-185904|Viešas ganytojų ir rusų tautos suvažiavimas religiniams ginčams spręsti]]: Viešas ganytojų suvažiavimas buvo laikomas priemone užkirsti kelią vyskupų vykdytoms religinėms naujovėms.
 - susijęs iš [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisių neprigijimas ir karinės valdžios kišimasis.md#claim-t-87289|Vilniaus miestiečių Magdeburgo teisių neprigijimas ir karinės valdžios kišimasis]]: Vilniaus Magdeburgo teisės buvo menkai paveikios dėl miestiečių nepripratimo, karo sumaišties ir karinės valdžios kišimosi į miesto valdymą.
 - susijęs iš [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka.md#claim-t-87133|Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]: Žygimantas Vilniui amžiams suteikė vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.
 - susijęs iš [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka.md#claim-t-87310|Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]: Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.
@@ -1168,7 +1155,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Juozo Miliausko prisiminimai: Juozas Miliauskas rašė, kad antrą puolimo dieną šaudymas tęsėsi šešias valandas, o sukilėlių pusėje buvo du lengvai sužeisti.
 - susijęs iš Ksaveras Bogušas, Rozprawa: Ksaveras Bogušas, Narbuto vertinimu, poloviečius priskyrė lietuvių genties tautoms, remdamasis Kojalavičiaus prielaidomis.
 - susijęs iš Latvijos Henriko kronika: Latvijos Henriko kronika, surašyta 1225-1227 m., buvo viena pirmųjų Pabaltijo vokiečių kronikų, plačiau minėjusių ordino priešą.
-- susijęs iš Lenkijos, Lietuvos, Žemaitijos ir visos Rusios kronika: Kojelavičius Motiejų Strijkovskį vadino pirmuoju kruopščiai iš rusų ir kryžiuočių rašto paminklų surinktos Lietuvos istorijos skelbėju.
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą.
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Narbutas cituoja Bychovco kroniką, kurioje rašoma, kad deginant lietuvių kunigaikštį ar didiką prie kūno dėdavo lūšies arba lokio nagus.
 - susijęs iš Lindenblatt Jahrbücher: Lindenblattas išsaugojo smulkias Vilniaus pilių apgulties aplinkybes, kurių lietuvių metraštininkai nežinojo.
@@ -1208,6 +1194,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Baltarusija: Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
 - susijęs iš Baltvyžių girios: Baltvyžių giriose Sviatopolkas Mirskis ir Veriovkinas per medžioklę sutarė prikalbėti carą atšaukti spaudos draudimą.
 - susijęs iš Belaja Cerkovė: Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cerkovę Kijevo gubernijoje.
+- susijęs iš Bernardinų bažnyčia Vilniuje: Dėl Reformacijos įtakos ir lėšų stokos Bernardinų bažnyčios statyba užsitęsė iki XVI amžiaus pabaigos.
 - susijęs iš Biarmija: Narbutas rašė, kad išaugus rusų valstybės galiai Biarmija turėjo tapti jos provincija, bet biarmiečiai laikėsi senosios stabmeldystės.
 - susijęs iš Borisovas: Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.
 - susijęs iš Borisovas: Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.
@@ -1237,7 +1224,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Gardino gubernija: 1843 m. prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms.
 - susijęs iš Gdanskas: Vytauto laikais Vilniaus prekybiniai ryšiai jau siekė Gdanską ir Sileziją.
 - susijęs iš Gudija: Ivinskis Mohilną, prie kurios Lietuvos metraštis mini 1234 m. kovą su totoriais, lokalizuoja Nemuno aukštupyje dabartinėje Gudijoje.
-- susijęs iš Heilsbergas: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš Irpenė: Istorinė rusų tradicija Gediminą prie Irpenės siejo su Kijevo paėmimu ir Kijevo kunigaikštystės prijungimu prie Lietuvos.
 - susijęs iš Jaselda: Prie Jaseldos upės Skirmanto pajėgos sumušė Mstislavą, kuris praradęs kariuomenę paspruko į Lucką.
 - susijęs iš Jezeriščė: 1580 m. buvo paimtos Veližo, Didžiųjų Lukų, Usviatų ir Jezeriščės tvirtovės.
@@ -1250,7 +1236,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Kaluga: Vytauto žygio į Maskvą metu buvo pasiektos Tula, Kaluga ir Riazanė.
 - susijęs iš Kamenecas: Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis.
 - susijęs iš Karaliaučius: Vytauto laikais išplitę Vilniaus prekybiniai ryšiai apėmė Karaliaučių, su kuriuo prekiauta nuo seno.
-- susijęs iš Karaliaučius: Iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
 - susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš Kauno getas: Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga.
@@ -1275,8 +1260,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Krokuva: Žygimanto privilegijoje Magdeburgo teisė apibūdinta kaip Krokuvoje nuo seno naudota teisė.
 - susijęs iš Krokuva: Žygimantas privilegijose miestui suteikė Magdeburgo teisę, kuria Krokuva naudojosi nuo seno.
 - susijęs iš Krokuvos karalystė: Lietuvos metraštis Krokuvos karalyste vadina politinę erdvę, kuri, Jogailai atsisėdus Krokuvoje, jį paėmė.
-- susijęs iš Krokuvos karalystė: Jogailai atsisėdus Krokuvoje ir Krokuvos karalystei jį paėmus, Lietuvos metraščio pasakotojas sako vėl pareiškęs savo tikėjimą.
-- susijęs iš Krėva: Į Lietuvą įsiveržusi totorių kariuomenė užėmė Krėvą, Lydą, Vilnių, Trakus ir kitas vietoves bei priartėjo prie Kauno.
 - susijęs iš Kujavija: 1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene.
 - susijęs iš Kujavija: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
 - susijęs iš Kulmenzė: Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui.
@@ -1304,12 +1287,13 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Lietuvos Brasta: Remiantis S. Zabielos raportais, prie Lietuvos Brastos Lietuvos kariuomenė neteko apie 300 karių.
 - susijęs iš Lietuvos Naugardukas: Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
 - susijęs iš Liubavas: Liubave buvo bolševikų centras, kurio link pasuko pasakojime minimi žygio dalyviai.
-- susijęs iš Liublinas: Lenkai siekė ginklu atsiimti iš rusų Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus.
+- susijęs iš Liublinas: Lenkai ginklu siekė atsiimti iš rusų Liubliną, kurio, pasak Kojelavičiaus, buvo netekę prieš penkiasdešimt septynerius metus.
 - susijęs iš Liublinas: Karalius Olbrachtas su broliu karalaičiu Zigmantu išvyko į Liubliną prieš abiejų šalių ponų suvažiavimą Parčeve.
 - susijęs iš Livonija: Po 1183 m. žygio į Rusios žemes lietuviai kasmet rengė po vieną ar du žygius ne tik į Rusią, bet ir į Lenkiją bei Livoniją.
-- susijęs iš Livonija: Mindaugo karvedžiai nuolat siaubė Livoniją, o prie Lielvardės pilies Dauguvos pakrantėse vyko kovos.
+- susijęs iš Livonija: Mindaugo karvedžiai nuolat siaubė Livoniją, o prie Lielvardės pilies Dauguvos pakrantėse, pasak Kojelavičiaus, vyko kovos.
 - susijęs iš Luckas: Prie Jaseldos upės sumuštas Mstislavas prarado kariuomenę ir vos gyvas paspruko į Lucką.
 - susijęs iš Luckas: Lietuvos metraštyje Skirmantas prie Jieseldos upės sumušė Lucko ir Pinsko kunigaikštį Mstislavą, kuris pabėgo į Lucką.
+- susijęs iš Luckas: Pasak Viljamo Pochliobkino, Genujos pasiuntiniai 1429 m. Lucko suvažiavime Jogailai ir Vytautui demonstravo distiliuotą alkoholį kaip vaistą.
 - susijęs iš Lvovas: Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus.
 - susijęs iš Lvovas: Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus.
 - susijęs iš Maskva: Maskvos metropolitams kasmet buvo teikiamos nemažos pajamos iš Lietuvos.
@@ -1325,7 +1309,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Maskva: Vytautas rašė su kariuomene pasiekęs vietą, nuo kurios iki Maskvos buvo trijų dienų kelias.
 - susijęs iš Maskva: Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir nurodė vyskupams išrinkti Lietuvai atskirą metropolitą.
 - susijęs iš Maskva: Lietuvos metraščio tyrime teigiama, kad LDK santykių su Rusų valstybe vaizdavime iškeliamas Vytauto pranašumas prieš Maskvos didįjį kunigaikštį Vasilijų.
-- susijęs iš Mazovija: Jogaila su kariuomene patraukė prieš Mazovijos kunigaikštį Jonušą ir iš keršto nuniokojo Mazoviją.
+- susijęs iš Mazovija: Kojelavičiaus pasakojime Jogaila patraukė prieš Mazovijos kunigaikštį Jonušą ir iš keršto nuniokojo Mazoviją.
 - susijęs iš Mažoji Lietuva: 1914 m. liepą J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas Gintarinėje deklaracijoje siekė sujungti Didžiąją ir Mažąją Lietuvą.
 - susijęs iš Melnikas: Lietuvos metraštyje Mstislavas, Lucko ir Pinsko kunigaikštis, kariavo su Skirmantu, norėdamas išguiti jį iš Brastos, Melniko, Gardino ir Naugarduko.
 - susijęs iš Melnikas: Lietuvos metraštyje Kazimierui būnant Vilniuje Jurgis Nosuta minimas kaip Drohičino ir Melniko seniūnas, dar Žygimanto paskirtas į šias pareigas.
@@ -1340,7 +1324,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Mėlynieji Vandenys: Rogožos metraštyje prie 1363 m. nurodoma, kad Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.
 - susijęs iš Narevas: Lietuviai puolė kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo, kai Livonijos magistras buvo prie Vilniaus.
 - susijęs iš Narva: 1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais.
-- susijęs iš Naugardas: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
 - susijęs iš Naugardas: 1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją.
 - susijęs iš Naugardas: Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi.
 - susijęs iš Naugardas: Naugardas ir Porchovas, nebenorėdami kariauti, 1428 m. sumokėjo Vytautui 10 000 rublių kontribuciją.
@@ -1353,10 +1336,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Neroma: Narbutas Nerivani arba Neromani vardus siejo su sena geografijos ištrauka, kurioje jie minimi tarp Šiaurės Europos genčių.
 - susijęs iš Odesa: Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.
 - susijęs iš Ostrovas: 1392 m. Vytauto ir Jogailos sudaryta Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.
-- susijęs iš Ovručas: Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama sąjungininkams skriaudų, ir priartėjo prie Ovručo.
 - susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
 - susijęs iš Paobeliai: J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius apeiti bolševikų iš užnugario.
-- susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
 - susijęs iš Paupys: 1794 m. liepos 19 d. dalis rusų pajėgų prasiveržė ir užėmė Paupį bei Užupį.
 - susijęs iš Podolė: Vytautas buvo perleidęs Švitrigailai Kamenecą ir kitas Podolės pilis.
 - susijęs iš Podolė: Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kryžiuočių ordinu.
@@ -1373,7 +1354,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Romovė prie Dviupio ežero: Narbutas spėja, kad Romovė prie Dviupio ežero kurį laiką galėjusi būti didelė šventykla.
 - susijęs iš Rosė (Ross) upė Kijevo gubernijoje: Karamzinas Jurjevą siejo su Rosės upe prie Belaja Cerkovės Kijevo gubernijoje ir Nestoro žodžius taikė dešiniajam Dnepro krantui.
 - susijęs iš Rusijos šiaurės vakarų kraštas (kraštas): Rusinimo laikotarpiu rusų valdžia Lietuvos gubernijas ėmė vadinti Rusijos šiaurės vakarų kraštu.
-- susijęs iš Rylskas: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
 - susijęs iš Rytų Lietuva: 1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai.
 - susijęs iš Rūdninkų giria: Rūdninkų giria kronikoje minima kaip vieta, kur Mykoliukas susitiko su Kazimieru ir prašė jo malonės.
 - susijęs iš Rūdninkų giria: Rūdninkų giria kronikoje minima kaip vieta, kur Mykoliukas susitiko su Kazimieru ir prašė jo malonės.
@@ -1385,10 +1365,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Saremos sala: 1558 m. Maskvos kariuomenei užėmus dalį Livonijos konfederacijos, Danija užvaldė Saremos salą.
 - susijęs iš Semba: Žemaičiai, Mansto ir Sudargo vedami, su penkių tūkstančių vyrų kariuomene smarkiai nusiaubė Sembos žemę.
 - susijęs iš Severskas: Vytautas, pasiuntęs lengvuosius raitelius persekioti bėgančiųjų, su pagrindinėmis jėgomis patraukė į Severską.
-- susijęs iš Seversko žemė: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė: Černigovas, Starodubas, Naugardas ir Rylskas.
 - susijęs iš Sniečkus: Sovietmečiu daug rusakalbių apsigyveno Sniečkuje, kuris dabar vadinamas Visaginu.
 - susijęs iš Stalovičiai: Prie Stalovičių Aleksandro Suvorovo pajėgos sumušė ir išblaškė M. K. Oginskio pajėgas.
-- susijęs iš Starodubas: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
 - susijęs iš Starodubas: Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.
 - susijęs iš Strėva: Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną.
 - susijęs iš Strėvos upė: Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos.
@@ -1419,29 +1397,15 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Vilniaus getas: Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose ir išnaudoti kaip pigi darbo jėga.
 - susijęs iš Vilniaus gubernija: Po 1843 m. pertvarkos caro valdžia Vilniaus guberniją priskyrė prie baltarusiškų, nors jos vakarinėje dalyje tebevyravo lietuviškai kalbantieji.
 - susijęs iš Vilniaus gubernija: Per 1863 metus atkakliausiai sukilėliai kovėsi su caro kariuomene Kauno gubernijoje, kurioje įvyko 168 mūšiai ir susidūrimai su caro kariuomene.
-- susijęs iš Vilnius: Priešui nuniokojus Vilniaus apylinkes keturių mylių spinduliu, didysis magistras įsakė trauktis.
-- susijęs iš Vilnius: Rengiantis 1579 m. žygiui Vilniuje buvo įsteigta patrankų liejykla.
-- susijęs iš Vilnius: Švitrigailos bandymas per rusų vienuolius padegti Vilniaus pilies bokštus nepavyko, todėl jis su didžiuoju magistru nutraukė apgultį.
 - susijęs iš Vilnius: 1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.
-- susijęs iš Vilnius: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.
-- susijęs iš Vilnius: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė sutartį su Švitrigaila.
-- susijęs iš Vilnius: 1524 m. karalius priekaištavo Vilniaus magistratui, kad šis nesutaria su bendruomene ir neturi gaisrui gesinti reikmenų.
-- susijęs iš Vilnius: 1838 m. Mykolas Balinskis aiškino, kad rašydamas Vilniaus miesto istoriją siekė aprašyti Lietuvą ir jos senąją sostinę, o ne Lenkiją.
 - susijęs iš Vilnius: 1655 m. rusams užėmus Vilnių, gaisras mieste siautė net 17 dienų.
 - susijęs iš Vilnius: Nepavykus atkurti universiteto Vilniuje, buvo įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.
 - susijęs iš Vilnius: Liepos 19-20 d. Vilnių ir jo apylinkes gynė apie 4 tūkst. kovotojų su 13 artilerijos pabūklų.
-- susijęs iš Vilnius: 1655 m. rusams užėmus Vilnių, mieste kilęs gaisras siautė 17 dienų.
 - susijęs iš Vilnius: Lenkai nusprendė pasinaudoti spraga bolševikų pozicijose ir surengti stambią puolamąją operaciją Vilniui užimti.
-- susijęs iš Vilnius: Stepono Batoro laikais Vilniuje gerokai išaugo spaustuvių skaičius.
-- susijęs iš Vilnius: Sukilimui apėmus Lietuvą, Rusijos valdžia kontroliavo tik Vilnių, iš kurio į sukilėlių gretas pasitraukė keli šimtai studentų.
 - susijęs iš Vilnius: Sovietmečiu rusakalbiai lengviau kėlėsi į Vilnių, kur vyravo jiems sava rusakalbė aplinka, nei į mažai žinomus LSSR pramonės miestus.
 - susijęs iš Vilnius: 1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.
-- susijęs iš Vilnius: Po Vytauto mirties Švitrigaila atvyko į Vilnių anksčiau, negu mirė valdovas.
-- susijęs iš Vilnius: Rengiant 1579 m. karo žygį Vilniuje buvo įsteigta patrankų liejykla.
 - susijęs iš Vilnius: Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.
 - susijęs iš Vilnius: Seversko didikai Vilniuje vykusius santykius su Lietuvos didikais suprato kaip savęs niekinimą.
-- susijęs iš Vilnius: Narbutas rašė, kad XVII a. pradžioje jėzuitai greta Vilniaus esančio kaimo mokykloje ant mokinio kaklo pastebėjo maišelį.
-- susijęs iš Vilnius: Narbutas rašė, kad Strijkovskis mini Vilniaus Perkūno šventykloje buvusį didžiulį juodą akmenį, iš kurio buvo įskeliama ugnis.
 - susijęs iš Visaginas: Sovietmečiu daug rusakalbių apsigyveno Sniečkuje, kuris dabar vadinamas Visaginu.
 - susijęs iš Vitebskas: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
 - susijęs iš Vitebskas: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
@@ -1461,8 +1425,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Zaslavlis: Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno.
 - susijęs iš Zavichostas: Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto.
 - susijęs iš Zna: Vytautas toliausiai nuėjo iki Okos prieupio Zna už Pronsko, netoli dabartinės Penzos.
-- susijęs iš Černigovas: Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
-- susijęs iš Černigovas: Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.
 - susijęs iš Černigovas: Po pergalės prieš totorių chaną didysis kunigaikštis Skirmantas Rusų žemėje paėmė Černigovą.
 - susijęs iš Šeškinės laukas: Skirgaila su savo kariuomenės pulkais persikėlė per Nerį ir apsistojo Šeškinės lauke.
 - susijęs iš Šiaulių getas: Apie 50 tūkst. žydų buvo laikinai palikta Vilniaus, Kauno, Šiaulių ir mažesniuose getuose kaip pigi darbo jėga.
@@ -1471,7 +1433,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš Žaliasis tiltas: Vakare Vilniaus įgula, dengiama Kazimiero Sapiegos vadovaujamos artilerijos baterijos, atsitraukė per Žaliąjį tiltą.
 - susijęs iš Žemaitija: Pavasarį sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė visą Lietuvą.
 - susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
+- susijęs iš [[objektai/zodynas/Antakalnis (sąvoka).md#claim-t-200823|Antakalnis (sąvoka)]]: Vorobjovas Antakalnio XIX ir XX a. vilas bei kareivines vertino kaip topografiškai nuostabią vietą bjaurojančius statinius.
 - susijęs iš [[objektai/zodynas/Arkivyskupija.md#claim-t-32746|Arkivyskupija]]: Naugarduke Gedimino palaikyta Lietuvos stačiatikių arkivyskupija apie 1330 m. žlugo po arkivyskupo Teofilio mirties.
+- susijęs iš [[objektai/zodynas/Bernardinų bažnyčia Vilniuje.md#claim-t-200827|Bernardinų bažnyčia Vilniuje]]: Pritrūkus lėšų ir atšalus statytojų uolumui dėl Reformacijos įtakos, Bernardinų bažnyčios statyba užsitęsė iki XVI a. pabaigos.
 - susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
 - susijęs iš [[objektai/zodynas/Graždanka.md#claim-t-52506|Graždanka]]: Rusų administracija pripažino, kad lietuviai graždankos nepriėmė.
 - susijęs iš [[objektai/zodynas/Graždanka.md#claim-t-52507|Graždanka]]: Rusų administracija Lietuvoje siūlė panaikinti spaudos draudimą, nes lietuviai neprisiėmė rusų raidžių, vadinamų graždanka.
@@ -1517,7 +1481,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/zodynas/emyras.md#claim-t-183709|emyras]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
 - susijęs iš [[objektai/zodynas/etnografinė siena.md#claim-t-72688|etnografinė siena]]: Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis, arba etnografinėmis, žemėmis.
 - susijęs iš [[objektai/zodynas/etnografinė siena.md#claim-t-72690|etnografinė siena]]: Okupacijos metu Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis etnografinėmis žemėmis.
-- susijęs iš [[objektai/zodynas/graikų schizma.md#claim-t-185386|graikų schizma]]: Konstantinas, išpažindamas rusų tikėjimą, prisidėjo prie graikų schizmos ir išsižadėjo paklusnumo Romos popiežiui.
 - susijęs iš [[objektai/zodynas/humanistinė istoriografija.md#claim-t-32781|humanistinė istoriografija]]: Stryjkovskio istorija neatitiko visų humanistinės istoriografijos mokslinių ir literatūrinių kriterijų.
 - susijęs iš [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas.md#claim-t-70177|kirilika rusiškas raidynas lotyniškasis raidynas]]: Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių.
 - susijęs iš [[objektai/zodynas/kirilika.md#claim-t-77784|kirilika]]: Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių.
@@ -1536,7 +1499,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-184357|lotyniškasis krikštas (krikštas)]]: Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu.
 - susijęs iš [[objektai/zodynas/margutis.md#claim-t-185407|margutis]]: Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą.
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-187523|metropolitas]]: Lietuvos metraščio pastaboje Gerasimas 1432 m. Švitrigailos pasiūlymu Konstantinopolyje įšventintas LDK, Maskvos ir kitų rusų žemių metropolitu.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-97284|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
 - susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72703|mokytojų seminarija]]: 1864 m. Molodečne įsteigta mokytojų seminarija negalėjo parengti pakankamai mokytojų Lietuvos ir baltarusių švietimo apygardoms.
 - susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72705|mokytojų seminarija]]: 1872 m. Panevėžyje įsteigta mokytojų seminarija rengė mokytojus visai Lietuvai, išskyrus Užnemunę.
 - susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-186921|nuorašas]]: Plačiau buvo žinomi bent 222 šių tekstų nuorašai.
@@ -1554,13 +1516,12 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/zodynas/rusinimas dvikalbystė.md#claim-t-183462|rusinimas dvikalbystė]]: Lietuvoje laikraščiai imti dubliuoti rusų kalba, leista daug rusų literatūros kūrinių, vaidintos pjesės ir taikyta dvikalbystė.
 - susijęs iš [[objektai/zodynas/rusinimas dvikalbystė.md#claim-t-22283|rusinimas dvikalbystė]]: Lietuvoje laikraščiai imti dubliuoti rusų kalba, leista daug rusų literatūros, vaidintos pjesės ir pradėta taikyti dvikalbystė.
 - susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42512|stabmeldys]]: Sausio 24-osios išvakarėse į stabmeldžių žemę įžengę kariai žudė gyventojus ir degino kraštą.
-- susijęs iš [[objektai/zodynas/stabmeldžių apeigos.md#claim-t-185394|stabmeldžių apeigos]]: Algirdas viešai laikėsi stabmeldžių apeigų, bet Julijonos noru sutiko priimti krikščionybę.
+- susijęs iš [[objektai/zodynas/stabmeldžių apeigos.md#claim-t-185394|stabmeldžių apeigos]]: Kojelavičiaus pasakojime Algirdas viešai laikėsi stabmeldžių apeigų, bet Julijonos noru sutiko priimti krikščionybę.
 - susijęs iš [[objektai/zodynas/superarbitras.md#claim-t-36837|superarbitras]]: Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą.
 - susijęs iš [[objektai/zodynas/svečiai Svečių namai.md#claim-t-86552|svečiai Svečių namai]]: Aleksandras leido Vilniui statyti Svečių namus, siekdamas miesto bei muito pelno ir išorinio saugumo.
 - susijęs iš [[objektai/zodynas/sąvadas.md#claim-t-186917|sąvadas]]: Trumpasis sąvadas, Platesnysis sąvadas ir į juos įtraukti kūriniai apibūdinami kaip anoniminiai.
 - susijęs iš [[objektai/zodynas/sąvadas.md#claim-t-186918|sąvadas]]: Trumpasis sąvadas ir Platesnysis sąvadas priskiriami žymesniems LDK metraštinės literatūros paminklams kartu su Bychovco kronika.
 - susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-169936|tautinė mažuma etninė kultūrinė mažuma]]: Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais.
-- susijęs iš [[objektai/zodynas/transkripcija.md#claim-t-186924|transkripcija]]: Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.
 - susijęs iš [[objektai/zodynas/tuteišiai.md#claim-t-183480|tuteišiai]]: Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.
 - susijęs iš [[objektai/zodynas/tuteišiai.md#claim-t-45860|tuteišiai]]: Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-184639|tėvonija]]: Jogaila Vitebsko žemę pasiliko sau kaip tėvonijos dalį, nors Algirdas ją buvo prijungęs prie Lietuvos valstybės.
@@ -1576,13 +1537,14 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-183488|„lenkų pradai“ „rusų pradai“]]: Rusintojai „lenkų pradų naikinimo“ politiką siejo su „rusų pradų atkūrimu“, tikėdamiesi pakeisti separatizmą palaikiusią kultūros dirvą.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-22360|„lenkų pradai“ „rusų pradai“]]: Po abiejų sukilimų Rusijos imperijos politikoje lenkų klausimu sustiprėjo rusiškas nacionalizmas ir polonofobija.
 - susijęs iš [[objektai/asmenys/Goteris.md#claim-t-191275|Goteris]]: Narbuto pasakojime Goterio sūnus ir įpėdiniai baigiantis II a. nutraukė ilgai trukusius karus su rusais.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184788|Mindaugas (valdovas, XIII a.)]]: Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai įsibrovė į Mazoviją.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184788|Mindaugas (valdovas, XIII a.)]]: Mindaugas, gavęs rusų paramą, didžiulių miškų takais slaptai ir netikėtai įsibrovė į Mazoviją.
 - susijęs iš [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas.md#claim-t-66897|Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]: Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę, plėšdamas ir degindamas.
 - susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78712|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Lietuvių ir lenkų pajėgoms kovojant su bolševikais, atskiri jų daliniai kartais surengdavo bendras operacijas prieš rusus.
 - susijęs iš Islandų sakmės, vadinamos šiaurinėmis sagomis: Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurlamą, kurį Torfėjo chronologija siejo su III amžiumi.
-- susijęs iš Liublinas: Lenkai siekė ginklu atsiimti iš rusų Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus.
+- susijęs iš Liublinas: Lenkai ginklu siekė atsiimti iš rusų Liubliną, kurio, pasak Kojelavičiaus, buvo netekę prieš penkiasdešimt septynerius metus.
 - susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78708|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus.
 - susijęs iš Laurentijaus ir Ipatijaus sąvadai: Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose daugėjo žinių apie lietuvių puolimus į rusų žemes.
+- susijęs iš [[objektai/autoriai/N. Ulaščikas.md#claim-t-198528|N. Ulaščikas]]: N. Ulaščikas prie Bychovco kronikos vertimo pridėjo įvadą ir trumpų paaiškinimų apie vietoves, terminus bei kai kurias teksto vietas.
 - susijęs iš [[objektai/daiktai/Kapsuliniai šautuvai.md#claim-t-40722|Kapsuliniai šautuvai]]: Rusų kariai pranoko sukilėlius ginkluote, nes buvo ginkluoti naujo pavyzdžio kapsuliniais šautuvais.
 - susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192074|Valtys]]: Narbutas pasakoja, kad po sutriuškinimo į įlanką įplaukę nugalėtojai turėjo brautis pro sudužusias valtis.
 - susijęs iš [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados.md#claim-t-40822|2-oji ir 3-ioji Tautinės kavalerijos brigados]]: 2-oji ir 3-ioji Tautinės kavalerijos brigados buvo gen. mjr. Jono Mejeno divizijos, gynusios Vilnių nuo rusų puolimo, sudėtyje.
@@ -1600,10 +1562,14 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195581|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutų gaudymas siautėjo ypač smarkiai.
 - susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195583|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutai buvo gaudomi ištisus metus, nežiūrint nei į amžių, nei į sveikatos trūkumus.
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.).md#claim-t-01849|Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]: 1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.
+- susijęs iš [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline.md#claim-t-199227|Vytauto tėviškės užrašymas Skirgailai Liubline]]: Lietuvos metraštis Vytauto vardu pasakoja, kad Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
+- susijęs iš [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline.md#claim-t-199228|Vytauto tėviškės užrašymas Skirgailai Liubline]]: Lietuvos metraštis Vytauto vardu pasakoja, kad Jogaila Liubline Vytauto akivaizdoje užrašė Skirgailai jo tėviškę, ir Vytautui tai buvo skaudu.
 - susijęs iš [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika.md#claim-t-87147|Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]: Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
-- susijęs iš [[objektai/posakiai/„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“.md#claim-t-195033|„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“]]: Šeši tūkstančiai devyni šimtai šeštaisiais1 7 metais įvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto ir chano Temir-Kutlujaus Didysis kunigaikštis Vy tautas sutelkė nesuskaičiuojamą daugybę kariuomenės, jo pusėje buvo chanas Tochtamyšas su savo kariuome.
+- susijęs iš [[objektai/posakiai/„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“.md#claim-t-195033|„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“]]: Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prieš Temir-Kutlujų žadėjo pasodinti Tochtamyšą į chanų sostą.
 - susijęs iš Archangelsko gubernija: 1904 m. rugpjūtį ir rugsėjį Augustas Robertas Niemi dar kartą vyko į Archangelsko guberniją, į senų runų rinkimo vietą.
 - susijęs iš Kuršas: 1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.
+- susijęs iš Liublino pilis: Vytauto pasakojime Jogaila Liublino pilyje Skirgailai raštu užrašė visą Vytauto tėviškę jo akivaizdoje.
+- susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
 - susijęs iš Vilniaus pilys: Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą.
 - susijęs iš Vilniaus pilys: Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.
 - susijęs iš Vilniaus pilys: Po Vilniaus gaisrų susirūpinta senų Vilniaus pilies ir Katedros pastatų remontu bei atnaujinimu.
@@ -1613,11 +1579,12 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192261|Warejs]]: Teodoras Narbutas Warejs aiškinimą siejo su Nestoro pasakojimu apie 859 metų variagų kailių duoklę krivičiams.
 - susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192262|Warejs]]: Teodoro Narbuto perteikimu, Warejs Pretorijaus laikais reiškė vyrą, prievarta renkantį duoklę.
 - susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192263|Warejs]]: Teodoro Narbuto perteikimu, Pretorijus variagų vardą kildino iš prūsiško žodžio Warejs.
+- susijęs iš [[objektai/zodynas/transkripcija.md#claim-t-200401|transkripcija]]: Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.
 - susijęs iš Kališo sritis: 1307 m. lietuviai drauge su rusais buvo įsiveržę į Kališo sritį.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186015|Skirmantas]]: Artėjant Skirmantui, Mstislavas buvo priverstas sutraukti savo pulkus iš Bresto apylinkių kaimų į stovyklą.
 - susijęs iš [[objektai/asmenys/Vsevolodas.md#claim-t-191485|Vsevolodas]]: 1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu.
 - susijęs iš [[objektai/grupes/Ukmergės batalionas.md#claim-t-39008|Ukmergės batalionas]]: J. Kubiliaus vadovaujamas Ukmergės batalionas išmušė bolševikus iš apkasų, užėmė kelis kaimus ir vėliau išstūmė rusus iš giluminių pozicijų.
-- susijęs iš [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių.md#claim-t-185883|Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]: Polocko rusai valstybės valdymą perdavė tautai, nes per skitų karą buvo netekę teisėtų kunigaikščių.
+- susijęs iš [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių.md#claim-t-185883|Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]: Kojelavičiaus pasakojime Polocko liaudis valdžią valstybėje perdavė trisdešimčiai senelių ir į sueigas aikštėje buvo kviečiama variniu varpu.
 - susijęs iš [[objektai/asmenys/Sturlaugas Darbštusis.md#claim-t-191472|Sturlaugas Darbštusis]]: Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nužudė Ingvarą, o Ingigerdą išleido už Flamoro.
 - susijęs iš [[objektai/grupes/2-asis šaulių pulko batalionas.md#claim-t-38928|2-asis šaulių pulko batalionas]]: 2-asis šaulių pulko batalionas palaikė J. Zalivskio ir V. Matusevičiaus Trakų sukilėlių dalinius puolant rusų kairįjį sparną.
 - susijęs iš Kopysė: Radvila pasiuntė kelias kavalerijos vėliavas į Kopysės pusę, kad atviliotų pagrindines rusų kariuomenės pajėgas į mūšį.
@@ -1635,186 +1602,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-10205|Biržų (Medeikių) mūšis (1863 m.)]]: 1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti.
 - susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78713|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: 1919 m. rudenį lenkų daliniai sistemingai puldinėjo kelių Lietuvos apskričių vietoves.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192033|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas nurodo, kad Goterio sūnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nutraukė baigiantis II krikščioniškosios eros amžiui.
-- susijęs iš [[objektai/asmenys/Mantvila Gimbutaitis.md#claim-t-186236|Mantvila Gimbutaitis]]: Mantvila Gimbutaitis ir Zivinbudas susitarė pulti nuo smūgio neatsigavusį priešą ir sutelkė abiejų genčių jėgas.
 - susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
 - susijęs iš [[objektai/asmenys/Motiejus Pretorijus.md#claim-t-191216|Motiejus Pretorijus]]: Narbutas rašo, kad Pretorijus prūsus ir rusus laikė viena pradine gentimi, o variagų vardą kildino iš prūsiško žodžio „Warejs“.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Įvairūs lenkų autoriai į jį pažiurėjo kaip
-    į tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar
-    jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
-    (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-
-
-    (^11) **_Epitome principam Lithuaniae_****.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšis
-    1348 m. vasario 2 d. kautynės ko gero
-    įvyko prie kelio Trakai-Strėvininkai-
-    Kaunas, matyt, ties Žiežmarių brasta.
-    Mūšyje, pirmiausia jo pradžioje, kaip pa-
-    žymi kronikininkas Vygandas, lietuviai
-    priešą atakavo svaidomosiomis ietimis, o
-    Lietuvos kariai rusai šaudydami iš lankų.
-    Daug ordino brolių žuvo, tarp jų Gdan-
-    sko komtūras, Sembos vyskupo teisėjas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-009
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
-    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
-    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur
-    pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
-    tas ugnimi išdegintas. O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti
-    buvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t. t.
-    Jie vejasi grįžtantį maršalą. Ir atsitiko Marijos Įvesdinimo dieną [1348 m. vasario 2 d.
-    J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje. Stabmeldžiai
-    mėtė į krikščionis savo ietis, rusai iš lankų ir t.t. daug vyrų ir žirgų strėlėmis sužeidė ir
-    t. t. O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent
-    Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėlia-
-    vos penkios dešimtys nukauta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų, todėl ji buvo internacionalinė.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Salzbachą su keliais tūkstančiais kariuomenės;
-    prisijungė prie Vytauto su savo pulkais ir Tochtamyšas. Tuo
-    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
-    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
-    kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
-    kunigaikščių joje buvo per penkiasdešimt.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tarė­
-    jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
-    mums patiems, kadangi turime aukščiausią abiejų luomų
-    sienų tyrimo valdžią.
-    Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­
-    nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­
-    se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­
-    sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo
-    žmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­
-    kėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų
-    ir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos,
-    ir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime,
-    kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar
-    totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­
-    žįstančių valdinių cesijos ar decesijos būdu, sudarydami
-    kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,
-    401
-
-    ## Puslapis 418
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    nostram profitentibus acquirunt, eadem onera sustineant, in
-    possessionibus acquisitis vėl acquirendis, quae sustinuerunt
-    ii, a quibus eas acquisiverunt, aut acquisituri sunt.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-
-- c-006
-  santrauka: 'Rusai XVII-XVIII a. kelis kartus vertė Stryjkovskio kroniką ar jos dalis į rusų kalbą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šio pokario metais Stryjkovskis ir jo kronika yra vėl sulaukę
-    plataus susidomėjimo. Įvairūs lenkų autoriai į jį pažiurėjo kaip
-    į tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar
-    jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
-    (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-007
-  santrauka: '„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, kurių daugumą iš pradžių sudarė stačiatikių seminarijų auklėtiniai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuga-
-    lėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams,
-    tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
-    rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
-    jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai. Be to, šios tak-
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    115
-    tikos šalininkai vadovavosi nuostata, kad vykstant pažangai lietuvių kal-
-    bai vis tiek lemta išnykti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-008
-  santrauka: 'Polocko rusai valstybės valdymą buvo perdavę ne vienam kunigaikščiui, bet tautai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Erdvilui mirus, Naugarduko kunigaikštystę valdyti
-    žemių. Polocko rusai savo valstybės valdymą buvo
-    perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
-    permainų priežastis buvo ta, kad per skitų karą buvo
-    netekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,
-    tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
-    rėkite, kad, susiradę kokį valdovą, neprarastumėte per
-    savo ištižimą laisvės, kurią iš priešų malonės gavote.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
 - c-009
   santrauka: 'Pasak Karamzino ir kitų istorikų, Rusia vadintas kraštas egzistavo dar prieš epochą, kai slavai pradėjo vadintis rusais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1838,63 +1628,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-
-- c-010
-  santrauka: 'Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos
-    istorijos tyrinėjimas perėjo į ru-
-    sų ir lenkų rankas.
-    **Rusai** domėjosi Lietuvos
-    istorija dėl savo politikos tikslų.
-    Jiems rūpėjo įrodyti, kad seno-
-    vės didžioji Lietuvos kunigaikš-
-    tija, kuriai priklausė didžiuliai
-    rusų žemių plotai, buvusi rusiš-
-    kos kultūros įtakoj ar net visai
-    rusiška valstybė, kad ji tik iš
-    vardo tebuvusi lietuviška, todėl
-    ir istorijoje jie ieškojo argumen-
-    tų šitai savo tezei paremti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-011
-  santrauka: 'Atleidęs pasiuntinius, įsakė juos klystitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių valdovui ne tik didesnę pagarbą bei palankumą, bet ir pastovesnę ištikimybę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Galop nugalėję lietuviai išvijo barbarus iš
-    stovyklos: galybė priešų krito mūšyje, kur kas dau­
-    giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­
-    gėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo
-    D u o k lės p ra ša n tiem s
-    sk ita m s E rd vila s siu n ­
-    čia  d v i strė le s
-    šaukęs pasiuntinius, jis atsi­
-    sakė duoklės, paskelbė karą
-    ir įteikė jų kunigaikščiui do­
-    vaną— dvi strėles. Atleidęs
-    pasiuntinius, įsakė juos klyst-
-    82
-
-    ## Puslapis 81
-
-    itin reikšminga, nes rusai vėliau ėmė rodyti lietuvių
-    valdovui ne tik didesnę pagarbą bei palankumą, bet
-    ir pastovesnę ištikimybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
 
 ## Citatos
 
@@ -2066,47 +1799,39 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - id: c-167941
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 81"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 81."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Erdvilui mirus, Naugarduko kunigaikštystę valdyti
-    žemių. Polocko rusai savo valstybės valdymą buvo
-    perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
-    permainų priežastis buvo ta, kad per skitų karą buvo
-    netekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,
-    tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
-    rėkite, kad, susiradę kokį valdovą, neprarastumėte per
-    savo ištižimą laisvės, kurią iš priešų malonės gavote.
+    Taigi verčiau sekite savo mokytojais graikais — ir jų
+    čių, kurie teistų kitus". Tad trisdešimčiai senelių liau­
+    dis ir atidavė valdžią valstybėje; žmonės buvo kvie­
+    čiami varinio varpo dūžiais j sueigas aikštėje, kur vie­
+    šai svarstė bendrame pasitarime svarbiausius reikalus.
+    Savo valdžią jie jau buvo primetę trisdešimčiai tūks­
+    tančių paprastų piliečių ir (žinia, žmogui niekada nėra
+    gana) net kaimynams mėgino kalaviju primesti savo
+    1219 m e ta i
+    M in gaila, N a u g a rd u ­
+    ko k u n ig a ik štis
+    gavo Michailas, arba Min­
+    gaila; jis, paskatintas pirm­
+    taką lydėjusios sėkmės, ge­
+    rokai išplėtė
+    lietuvių val­
+    das,
+    prijungdamas nemaža
+    P o lo ck o v a ls ty b ė s
+    sa n tv a rk a
+    tikybinėmis
+    apeigomis,
+    ir
+    valstybine santvarka.
+  citata_rodoma: "Erdvilui mirus, Naugarduko kunigaikštystę valdyti\nžemių. Polocko rusai savo valstybės valdymą buvo\nperdavę ne vienam kunigaikščiui, bet tautai5; šitokių\npermainų priežastis buvo ta, kad per skitų karą buvo\nnetekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,\ntvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­\nrėkite, kad, susiradę kokį valdovą, neprarastumėte per\nsavo ištižimą laisvės, kurią iš priešų malonės gavote."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184580
-
-- id: c-175247
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    217
-
-    ## Puslapis 215
-
-    pasikliauti autoritetu geriausių istorikų, kurių priešakyje,
-    ypač kalbant šia tema, teisėtai yra Karamzinas*. Anot
-    jų, neabejotinai buvo Rusia vadinamas kraštas, egzista­
-    vęs labai seniai, iki epochos, kai slavai ¡pradėjo vadintis
-    rusais. Iš jos buvo kilęs Rimukas su savo variagais, ku­
-    rie dėl to buvo vadinami rus-variagais arba tiesiog ru­
-    sais; tai buvo karinga skandinavų gentis, nuo seno val­
-    džiusi taip pat ir rytines Baltijos jūros pakrantes.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192453
 
 - id: c-175886
   redaktorius: "A. Šapoka"
@@ -2139,31 +1864,60 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Galop nugalėję lietuviai išvijo barbarus iš
-    stovyklos: galybė priešų krito mūšyje, kur kas dau­
-    giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­
-    gėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo
-    D u o k lės p ra ša n tiem s
-    sk ita m s E rd vila s siu n ­
-    čia  d v i strė le s
-    šaukęs pasiuntinius, jis atsi­
-    sakė duoklės, paskelbė karą
-    ir įteikė jų kunigaikščiui do­
-    vaną— dvi strėles. Atleidęs
-    pasiuntinius, įsakė juos klyst-
-    82
-
-    ## Puslapis 81
-
-    itin reikšminga, nes rusai vėliau ėmė rodyti lietuvių
-    valdovui ne tik didesnę pagarbą bei palankumą, bet
-    ir pastovesnę ištikimybę.
+    Tuo pat metu miręs Vykin­
+    tas, Žemaitijos kunigaikštis, paliko savo įpėdiniu bro­
+    lį Erdvilą, tačiau šis, manydamas, jog vieno valdovo
+    per maža skirtingoms valstybėms, kaip per maža vie­
+    nos sielos į dvi dalis padalytam kūnui, be to, norėda­
+    mas atsiteisti už pagalbą, kurios neseniai sulaukė, per­
+    leido Živinbudui visas teises į Žemaitiją. Tačiau neilgai
+    trukus jis susirgo ir pasimirė, vyras, kuris pelnytai
+    priskirtinas prie žymiausių Lietuvos didvyrių.
+    Erdvilui mirus, Naugarduko kunigaikštystę valdyti
+    žemių. Polocko rusai savo valstybės valdymą buvo
+    perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
+    permainų priežastis buvo ta, kad per skitų karą buvo
+    netekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,
+    tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
+    rėkite, kad, susiradę kokį valdovą, neprarastumėte per
+    savo ištižimą laisvės, kurią iš priešų malonės gavote.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193337
+
+- id: c-178540
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Šis, labiau
+    geisdamas plėsti savo valdas, nei paisyti duoto žodžio
+    bei giminystės, ryžosi galop viešai įpilti pasiuntiniams
+    taurę nuodų, kuriuos ligi šiol virino, puoselėdamas šir­
+    dyje slaptus kėslus. Be reikalo, tarė, minimos čia su­
+    tartys, kurios, tiek kartų Aleksandro sulaužytos, seniai
+    neturinčios jokios vertės. Juk jis įsakęs Vilniaus vys­
+    kupui Vaitiekui Taborui ir
+    P a sk elb ia
+    A le k sa n d -
+    Smolensko
+    Juozapui Solta-
+    rui karą
+    nui ne kartą raginti Eleną
+    pereiti į Romos tikėjimą; li­
+    gi šiol rūmuose nesanti pastatyta Elenos reikalams
+    koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo
+    ir todėl kai kurie, norėdami išvengti šitokios nuodė­
+    mės, ieškosi prieglobsčio Maskvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196120
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kazokai]]
@@ -2173,7 +1927,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - Turėjo priklausinį: [[objektai/grupes/Dono kazokų pulkas]]
 - Rusai puolė [[objektai/vietos/Vilnius]]
 - Rusai apgulė [[objektai/vietos/Radomas]], [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
-- Rusai užėmė [[objektai/vietos/Alūksnė]], [[objektai/vietos/Paupys]], [[objektai/vietos/Užupis]], [[objektai/vietos/Vilijandis]], [[objektai/vietos/Viljandis]], [[objektai/vietos/Vilnius]]
+- Rusai užėmė [[objektai/vietos/Alūksnė]], [[objektai/vietos/Paupys]], [[objektai/vietos/Užupis]], [[objektai/vietos/Vilijandis]], [[objektai/vietos/Viljandis]]
 - Rusai siuntė į [[objektai/vietos/Lietuva]]
 - Rusai kariavo prieš [[objektai/grupes/Lietuviai]]
 - Rusai prekiavo su [[objektai/vietos/Danija]]

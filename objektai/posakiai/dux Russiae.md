@@ -41,27 +41,6 @@ Po šių Vytauto pasisekimų Jogaila smarkiai susirūpina Lietuvos reikalais: no
   teiginys: "Jogaila, siekdamas pašalinti Vytauto įtaką Lietuvoje, paskyrė savo vietininku pravoslavą Skirgailą, vadinamą „dux Russiae“."
   pagrindžia:
     - c-38377
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuo tarpu Vytautas demonstruoja savo gabumus ir jėgas:
-    išveja iš Raudonosios Rusijos vengrus, o iš Volynijos — nepa­
-    klusnų Feodorą Liubartą. Po šių Vytauto pasisekimų Jogaila
-    smarkiai susirūpina Lietuvos reikalais: norėdamas pašalinti Vy­
-    tauto įtaką krašte, laužydamas jam duotus pasižadėjimus ir
-    nusidedamas neseniai padarytos unijos dvasiai, paskyrė Lietu­
-    vai savo vietininką pravoslavą Skirgailą „dux Russiae“.
-    Bendrai, galime pasakyti, kad Vytauto santykiai su Jogai­
-    la ir Lenkija iki 1387 m. buvo geri, taikingi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

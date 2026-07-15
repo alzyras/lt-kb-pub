@@ -33,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1483 m. karaliaus Kazimiero privilegijoje bajoras Rimvydas gavo žemę prie Merkio už Merkinės valsčiaus valstiečių maišto nuslopinimą.
+1483 m. karaliaus Kazimiero privilegijoje bajoras Rimvydas gavo žemę prie Merkio už Merkinės valsčiaus valstiečių maišto nuslopinimą. Rimvydas buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima.
 
 ## Teiginiai
 
@@ -43,6 +43,13 @@ media_all_json: |-
   teiginys: "1483 m. karaliaus Kazimiero privilegijoje bajoras Rimvydas gavo žemę prie Merkio už Merkinės valsčiaus valstiečių maišto nuslopinimą."
   pagrindžia:
     - c-172996
+
+<a id="claim-t-197440"></a>
+- t-002
+  global_id: t-197440
+  teiginys: "Rimvydas buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima."
+  pagrindžia:
+    - c-172996
 - susijęs iš 1483 metų karaliaus Kazimiero privilegija Rimvydui: Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui rado įrodymą, kad katinas lietuviams buvęs Lietuvos simbolis.
 - susijęs iš Merkinės valsčius: Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valstiečių maišto nuslopinimas minimas kaip atpildo Rimvydui pagrindas.
 - susijęs iš [[objektai/asmenys/Karalius Kazimieras (1483 m. privilegijos davėjas).md#claim-t-190123|Karalius Kazimieras (1483 m. privilegijos davėjas)]]: Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katinas lietuviams buvo Lietuvos simbolis.
@@ -50,38 +57,6 @@ media_all_json: |-
 - susijęs iš [[objektai/daiktai/Katinas kaip stabmeldiškosios laisvės ženklas.md#claim-t-189724|Katinas kaip stabmeldiškosios laisvės ženklas]]: Narbutas 1483 m. Kazimiero privilegijoje katino įteikimą karaliui aiškino kaip stabmeldiškosios laisvės ženklą.
 - susijęs iš [[objektai/paprociai/Katino kaip stabmeldiškos laisvės ženklo naudojimas.md#claim-t-189836|Katino kaip stabmeldiškos laisvės ženklo naudojimas]]: Narbutas 1483 m. Kazimiero privilegijoje rado pasakojimą, kad Leicis karaliui padavė katiną kaip stabmeldiškosios laisvės ženklą.
 - susijęs iš [[objektai/zodynas/Lietuva Lietwii kaip laisvės ženklas.md#claim-t-189117|Lietuva Lietwii kaip laisvės ženklas]]: Narbutas 1483 m. Kazimiero privilegiją Rimvydui laikė įrodymu, kad katinas lietuviams buvo stabmeldiškosios laisvės, arba Lietwii, ženklas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1483 m. karaliaus Kazimiero privilegijoje bajoras Rimvydas gavo žemę prie Merkio už Merkinės valsčiaus valstiečių maišto nuslopinimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
-    radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
-    šytoje ant pergamento rusų kalba, kuria bajorui Rimvydui
-    128
-
-    ## Puslapis 128
-
-    (Rymwidowi) suteikia žemę prie Merkio upės Trakų apskrity­
-    je. Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­
-    tymais garantuojama, laisvės siekiančių Merkinės valsčiaus
-    valstiečių maišto nuslopinimą, taip pat už sugavimą maišti­
-    ninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo
-    didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
-    liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
-    (Lietwii) ženklas.
-    Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
-    suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
-    dodavo laisvės deivės simboliu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-172996
@@ -89,27 +64,19 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
-    radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
-    šytoje ant pergamento rusų kalba, kuria bajorui Rimvydui
-    128
-
-    ## Puslapis 128
-
-    (Rymwidowi) suteikia žemę prie Merkio upės Trakų apskrity­
-    je. Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­
-    tymais garantuojama, laisvės siekiančių Merkinės valsčiaus
-    valstiečių maišto nuslopinimą, taip pat už sugavimą maišti­
-    ninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo
-    didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
-    liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
-    (Lietwii) ženklas.
-    Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
-    suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
-    dodavo laisvės deivės simboliu.
+    Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
+    dindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį
+    mitą pastebi Stenderis, bet dėl savo keistos etimologizacijos
+    sudvejina: vienur vadinaDekkla, kitur - Tikla. Taip pat priski­
+    ria jai nebūdingas ypatybes: kadangi ji buvusi prievartos ne-
+    pakenčiančio jaunimo deivė, tai painioja ją su Laima.
+    Veliona (Wellona)
+    Tai buvo garsi amžinybės, amžinos vilties, būsimo pomirti­
+    nio gyvenimo deivė.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190113
+    - t-197440

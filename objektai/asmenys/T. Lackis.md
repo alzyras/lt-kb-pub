@@ -42,44 +42,6 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
   teiginys: "T. Lackio husarai pasitiko švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius."
   pagrindžia:
     - c-42255
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ® Švedų gvardijos kavaleriją pasitinka
-    T. Lackio husarai ir ryžtingu puolimu nu-
-    bloškia švedų raituosius gvardiečius.
-
-    ® Švedų pajėgos bėga iš mūšio lauko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Rotmistro T. Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į švedų raitelių kairįjį sparną.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    nas suprato, kad pats laikas mesti į mūšį
-    dvi paskutines husarų vėliavas. Rotmistro
-    T. Lackio vadovaujami 200 husarų padarė
-    lankstą ir visa jėga smogė į besikaunan-
-    čių švedų raitelių kairįjį sparną. Raiteliai
-    pradėjo trauktis į priešingą pusę ir spausti
-    besikaunančius švedų pėstininkus, kurie
-    kovėsi su rotmistro V. Vainos ir Kuršo rei-
-    tarais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

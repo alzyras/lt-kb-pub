@@ -44,27 +44,6 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
   teiginys: "1322 m. žiemą Silezijos kunigaikštis Bernardas iš Svidnicos vedė atskirą kryžiuočių ekspedicijos į Prūsiją pulką."
   pagrindžia:
     - c-83612
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1322 m. žiemą Silezijos kunigaikštis Bernardas iš Svidnicos vedė atskirą kryžiuočių ekspedicijos į Prūsiją pulką.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IV Band,
-    p. 358-376).
-    1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­
-    pedicija patraukė į Prūsiją. Atskirus pulkus vedė: Silezijos
-    kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš
-    Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai
-    iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir
-    daug kitų riterių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

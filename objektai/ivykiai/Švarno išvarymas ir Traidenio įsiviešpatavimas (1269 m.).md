@@ -58,25 +58,6 @@ Nenurodyta
   teiginys: "Traidenis, kaip sprendžiama, jėga išvarė Švarną iš Lietuvos ir 1269 m. turėjo įsiviešpatauti."
   pagrindžia:
     - c-33448
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tas Vaišvilko bandy­
-    mas sujungti jauną Lietuvos valstybę su jo pamėgta Volinijos-Haličo
-    kunigaikštija tebuvo labai trumpas. Berods, galima spręsti, kad
-    Švarnas iš Lietuvos jėga buvo išvarytas Traidenio^224 , kuris jau 1269 m.
-    turėjo įsiviešpatauti.
-    _Traideniui_ tapus Lietuvos valdovu (1269/70-1281/82), vėl visam
-    šimtmečiui Lietuvoje buvo užtikrinta _pagonybės_ persvara.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

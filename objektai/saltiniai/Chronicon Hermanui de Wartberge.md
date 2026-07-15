@@ -34,25 +34,6 @@ Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartb
   teiginys: "„Chronicon Hermanui de Wartberge“ nurodė tokį pat Saulės mūšyje kritusių riterių skaičių kaip Grigaliaus IX bulė: 50."
   pagrindžia:
     - c-94090
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Chronicon Hermanui de Wartberge“ nurodė tokį pat Saulės mūšyje kritusių riterių skaičių kaip Grigaliaus IX bulė: 50.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bei Saule — wohl Schaulen in Litauen — wurde das Ordensheer von
-    den Litauern, denen die Semgaller sich anschlossen, überfallen und vernichtet ».**
-
-    (^77) **Popiežius Grigalius IX savo bulėje (LUB I, 191) minėjo 50 kritusių
-    riterių. Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui
-    de Wartberge (SRP I, 681 ; II, 33 34).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

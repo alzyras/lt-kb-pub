@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Mindaugas pasiuntė Rygos magistrui daug aukso ir sidabro bei sidabrinių ir auksinių indų; Šiame gabale indai minimi kaip prabangios diplomatinės dovanos.
+Lietuvos metraščio pasakojime sidabriniai ir auksiniai indai buvo tarp Mindaugo dovanų Rygos magistrui Andriui.
 
 ## Pavadinimai šaltiniuose
 
@@ -52,34 +52,9 @@ Nenurodyta
 <a id="claim-t-194065"></a>
 - t-001
   global_id: t-194065
-  teiginys: "Mat, pasiuntė jam daug aukso ir sidabro bei gražių sidabrinių ir auksinių indų ir daug žirgų."
+  teiginys: 'Lietuvos metraščio pasakojime sidabriniai ir auksiniai indai buvo tarp Mindaugo dovanų Rygos magistrui Andriui.'
   pagrindžia:
     - c-176678
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mat, pasiuntė jam daug aukso ir sidabro bei gražių sidabrinių ir auksinių indų ir daug žirgų.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Rygiečiai jį priėmė su didžiausia iškilme,
-    ir jis buvo pakrikštytas.
-    54
-
-    ## Puslapis 50
-
-    Mindaugas, patyręs, jog riteriai, ir vyskupas, ir vi­
-    sa Rygos kariauna nori jam |Tautvilai| padėti, pabūgo
-    ir slapta nusiuntė pas Rygos magistrą Andrių 1 5  [pasiun­
-    tinius] ir davė jam daug dovanų, ir tuomi jam įsiteikė.
-    Mat, pasiuntė jam daug aukso ir sidabro bei gražių
-    sidabrinių ir auksinių indų ir daug žirgų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -100,9 +75,9 @@ Nenurodyta
     tinius] ir davė jam daug dovanų, ir tuomi jam įsiteikė.
     Mat, pasiuntė jam daug aukso ir sidabro bei gražių
     sidabrinių ir auksinių indų ir daug žirgų.
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194065
+    - t-001

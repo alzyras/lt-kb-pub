@@ -47,8 +47,8 @@ Nenurodyta
   teiginys: "Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus."
   pagrindžia:
     - c-169199
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -80,23 +80,39 @@ Nenurodyta
 - id: c-169199
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 582"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 582."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Dėl karaliaus ligos seimas buvo pa­
-    leistas, kadangi vargu ar ką galima buvo benuveikti.
-    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
-    metas, valdovo valia turėjęs būti Trakuose vaišingai
-    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
-    Patariamas Nogajų ordos skitų, bandė iš ten pabėgti,
-    tačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur
-    dar stipriau saugojo, ypač
-    K ry m o  sk ita i n io k o -
-    dėl to, kad Krymo chanas
-    ja  L ie tu v ą
-    Mengli Girėjus per pasiunti­
-    nius žadėjo karaliui taiką ir
-    pagalbą, jeigu šis neleis Šich Achmetui pasprukti.
+    Len­
+    kijoje kiekvienas žmogus pats rūpinasi savo šeimos
+    turtu: niekas neverčiamas traukti į karo žygį iš tėvy­
+    nės, vieni valstybėje verčiasi žemdirbyste, amatais bei
+    prekyba, kiti garbina dievą, sprendžia teismuose by­
+    las, rūpinasi pilių apsauga ir tarnauja didikams, žodžiu,
+    kiekvienas gyvena taip, kaip
+    L ie tu v o s d id ik a i m ė-
+    nori".
+    g in a
+    s u s ita ik y ti
+    su
+    Šich Achmetui visa ko
+    k a ra liu m i
+    prižadėjus, Lietuvos didikai,
+    kuriuos Breste karalius buvo
+    pašalinęs iš senato, Radomo seime, nė nepradėjus svar­
+    styti kitų reikalų, stengėsi lenkų remiami pašalinti vi­
+    sus esamus nesutarimus tarp karaliaus ir senato. Ka­
+    ralius viešai lenkams pasižadėjo, kad iš pagarbos jiems
+    padarys taip, kaip jie reikalauja, tačiau sakėsi neno­
+    rįs Lenkijoje nieko spręsti, o visą reikalą ketinąs per­
+    duoti lietuvių seimui. Tada lietuvių senato pirminin­
+    kas, Vilniaus vyskupas Vaitiekus Taboras, pakilęs iš
+    vietos, ir kreipėsi į karalių paprasta, bet nelyginant
+    kažkokio dangaus įkvėpimo kupina kalba: „Kažko­
+    kiems pasipūtėliams klastingai sukursčius prieš mus,
+    nieko pikta nepadariusius, tavo širdį, ligi šiol kentėme
+    tavo rūstį taip, kaip ir dera valdiniams, klausantiems
+    savo valdovo.
+  citata_rodoma: "Dėl karaliaus ligos seimas buvo pa­\nleistas, kadangi vargu ar ką galima buvo benuveikti.\nSusirgęs karalius nuvežamas į Krokuvą, o Šich Ach-\nmetas, valdovo valia turėjęs būti Trakuose vaišingai\npriimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.\nPatariamas Nogajų ordos skitų, bandė iš ten pabėgti,\ntačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur\ndar stipriau saugojo, ypač\nK ry m o  sk ita i n io k o -\ndėl to, kad Krymo chanas\nja  L ie tu v ą\nMengli Girėjus per pasiunti­\nnius žadėjo karaliui taiką ir\npagalbą, jeigu šis neleis Šich Achmetui pasprukti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

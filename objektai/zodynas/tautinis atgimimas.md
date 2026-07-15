@@ -70,27 +70,6 @@ Terminas vartojamas ir kaip istoriografinis laikotarpio vardas, ir kaip judėjim
   teiginys: "Daukanto istorijos darbai šiame šaltinyje vertinami kaip reikšmingi tautinio atgimimo laikotarpiu."
   pagrindžia:
     - c-05595
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jokia Daukanto istorijos rašymo ir jo metodo kritika tačiau
-    nepajėgs sumažinti jo didelės reikšmės tautinio atgimimo laikotar­
-    pyje. Daukantas lietuvių tautinės sąmonės išsivystymui yra davęs
-    gana reikšmingų paskatų^58. Jis pirmasis gana aiškiai rodė kelią,
-    kad lietuviams reikia atsiskirti nuo «koroniarų » (lenkų). Ne tik
-    dėl savo žemaitiškai kieto antilenkiško nusistatymo, bet ir dėl savo
-    istorijos rašymo metodo Daukantas—tuo metu, kai Valančius už
-    savo Žemaičių Vyskupystę buvo giriamas —susilaukė iš lenkų per­
-    dėtai karčios kritikos^59.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -7,12 +7,12 @@ datos:
   - '1968 m.'
 date_start: '1968'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad kuzavinis К.
   teiginys: "K. Kuzavinio „Garbus – jotvingiškas žodis“ paskelbta 1968 m. „Baltistica“ 4 tomo 1 numeryje, p. 65–67."
   pagrindžia:
     - c-61747
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'K. Kuzavinio „Garbus – jotvingiškas žodis“ paskelbta 1968 m. „Baltistica“ 4 tomo 1 numeryje, p. 65–67.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,11 @@ Dusburgietis teigia, kad kuzavinis К.
 - id: c-61747
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kuzavinis К. Garbus— jotvingiškas žodis.—Baltistica, 1968, 4(1), p. 65—67.
+    Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje.— K., 1935.
+    Pakarklis P. Lietuvių kova prieš kalavijuočius — Panevėžys, 1945.
+  citata_rodoma: "Kuzavinis К. Garbus— jotvingiškas žodis.—Baltistica, 1968, 4(1), p. 65—67."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

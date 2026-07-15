@@ -45,7 +45,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176351|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.
 - susijęs iš [[objektai/autoriai/Kristijonas.md#claim-t-190395|Kristijonas]]: Narbutas nurodo, kad žinia apie Kristijono kroniką dėl Romovės ir krivio remiasi padavimu, bet kronikos egzistavimą jis laiko įrodytu.
 - susijęs iš [[objektai/paprociai/Ašarų rinkimas į ašarines ir jų dėjimas į kapą.md#claim-t-189822|Ašarų rinkimas į ašarines ir jų dėjimas į kapą]]: Narbutas rašo, kad toje vietoje buvo randama daug ašarinėms priskiriamų nuolaužų.
-- susijęs iš Lietuva: Į Lietuvą su karaliumi atvykęs Kujavijos vyskupas Jonas Kropidlas parėmė Vytauto santuokos sumanymą.
 - susijęs iš Lietuva: Narbutas rašė, kad tikrojoje Lietuvoje sudegintų žmonių pelenams laikyti skirtos vietos buvo vadinamos Obelijomis.
 - susijęs iš Lydos apskritis: Narbutas Lydos apskritį priskyrė Tikrajai Lietuvai, kur, jo teigimu, nuo seniausių laikų buvo obelijomis vadintų pelenų laikymo vietų.
 - susijęs iš Obelijos: Narbutas Obelijomis vadino Tikrojoje Lietuvoje nuo seno buvusias vietas, kuriose dėdavo sudegintų žmonių pelenus.
@@ -54,24 +53,6 @@ media_all_json: |-
 - susijęs iš Ukmergė: Ties Pabaisku prie Šventosios, netoli Ukmergės, Mykolo vadovaujama lietuvių ir lenkų kariuomenė užkirto kelią Švitrigailai.
 - susijęs iš Ukmergė: Kunigaikščio Mykolo pergalė prieš Švitrigailą ir Livonijos magistrą netoli Ukmergės užbaigė jų varžybas dėl Lietuvos.
 - susijęs iš Ukmergė: Kunigaikščio Mykolo pergalė netoli Ukmergės užbaigė Švitrigailos ir Livonijos magistro varžybas dėl Lietuvos.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mažosios Lietuvos lietuvaitės liaudies meno parodoje, Tilžėje, 1934 m.
-    vuoja ir dabar. 1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje
-    tikybinė lietuvių draugija, vardu „Sandara", kuri irgi tebe-
-    gyvuoja, jungdama viso krašto lietuvius. Buvo dar įkurta ir
-    mažesnių draugijų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-01710

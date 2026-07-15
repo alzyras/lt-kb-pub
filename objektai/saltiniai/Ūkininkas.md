@@ -34,25 +34,6 @@ Ta pati redakcija leido ir kaimiečiams skirtą laikraštį „Ūkininkas“.
   teiginys: "„Varpo“ redakcija leido kaimiečiams skirtą laikraštį „Ūkininkas“."
   pagrindžia:
     - c-75452
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Varpo“ redakcija leido kaimiečiams skirtą laikraštį „Ūkininkas“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Varpas“ laikėsi liberalios demokratijos pozicijų,
-    kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus,
-    kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės
-    lietuvių kalbos formavimu. Jame spausdinta gero lygio grožinė literatūra,
-    poezija, originali ir verstinė, populiarūs mokslo straipsniai. Ta pati redakci-
-    ja leido ir kaimiečiams skirtą laikraštį „Ūkininkas“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

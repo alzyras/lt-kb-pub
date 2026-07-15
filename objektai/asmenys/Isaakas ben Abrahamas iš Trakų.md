@@ -54,28 +54,6 @@ Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171428|Totoriai]]: Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.
 - susijęs iš Lenkija: Lenkijoje žydų ir armėnų vaidmuo buvo ryškesnis nei LDK, bet joje nebuvo tokių ryškių totorių ir karaimų bendruomenių.
 - susijęs iš Lenkija: Lenkijoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių kaip LDK.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau XVII–XVIII a. bent jau Vilnius
-    prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
-    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net
-    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
-    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
-    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
-    Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
-    tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-16716

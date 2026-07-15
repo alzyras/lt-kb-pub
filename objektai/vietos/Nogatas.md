@@ -84,7 +84,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191134|Pitėjas Masilietis]]: Narbutas spėjo, kad Pitėjas Masilietis priplaukė prie Nogato žiočių ir iš ten pakrante galėjo pasiekti Sembą per vieną ar dvi dienas.
 - susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-191187|Vulfstanas]]: Narbuto pasakojime Vulfstanas dideliu laivu atplaukė prie Nogato žiočių ir pasiekė Druso miestą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vyslos ir Nogato santakoje buvo pastatyta Santyro pilis, kurios vyrai trukdė brolių valdiniams plaukioti upe.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -101,24 +100,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    183 psl.), jis pasi-
-    darė svarbiausias Lenkijos žemės produktų eksporto centras.
-    Lietuva kad ir neturėjo savo uosto, tačiau ir ji stengėsi ekspor-
-    tuoti savo javus. Ji veždavo savo prekes Nemunu; iš Nemuno
-    kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo
-    plaukiama Deimena pro Labguvą į Prieglių, juo — pro Kara-
-    liaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 - c-003
   santrauka: 'Nogatas yra rytinė Vyslos deltos atšaka, seniau įtekėjusi į Aismares gerokai piečiau dabartinio atsišakojimo.'
@@ -140,14 +121,17 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - id: c-68312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau
-    pradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir
-    Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo
-    brolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,
-    išsivarydavo juos į nelaisvę ar nugalabydavo.
+    Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo
+    sosto legatą ir didįjį magistrą, pranešdami jiems apie naują karą ir Prūsijos žemės
+    padėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
+    įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
+    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
+    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
+    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
+    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
+    plaukioti Vysla aukštyn ir žemyn.
   citata_rodoma: "Todėl dviejų upių santakoje, būtent: Vyslos ir\nNogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo\nbrolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,\nišsivarydavo juos į nelaisvę ar nugalabydavo."
   statusas: verified
   teiginio_tipas: faktas
@@ -178,12 +162,18 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - id: c-68314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Todėl broliai,
-      283 D.— Nogadi, Jer.— Nogat. Nogatas — Vyslos deltos rytinė atšaka. Seniau Nogato
-    vaga, įtekanti į Aismares, prasidėjo gerokai į pietus nuo dabartinio atsišakojimo.
+    atvykę drauge su kunigaikščiu Kazimieru, smarkiai užpuolė pilį, ir abi šalys taip įnirtingai
+    susikovė, kad ir vienoje, ir kitoje pusėje krito daug mirtinai sužeistų, o pilyje — daug
+    užmuštų, tačiau pilis buvo taip sutvirtinta, kad ją buvo labai sunku užimti, o broliams,
+    nieko nepešusiems, pasitraukus, Sventopelkas, grįžęs atgal, pilį dar labiau sustiprino.
+    47(46). Apie Poterbergo pilies pastatymą
+    Brolis Poponas, magistras, matydamas, kaip sumaniai minėtasis kunigaikštis tai
+    vienur, tai kitur tvirtina pilis, ir norėdamas apsisaugoti nuo būsimų pavojų, kalvoje tarp
+    dabartinio Kulmo miesto ir senosios pilies pastatė naują, kurią praminė nuo tos kalvos
+    vardo Poterbergu287 ir kurioje paliko 12 brolių ir daug ginklanešių.
+  citata_rodoma: "Todėl broliai,\n  283 D.— Nogadi, Jer.— Nogat. Nogatas — Vyslos deltos rytinė atšaka. Seniau Nogato\nvaga, įtekanti į Aismares, prasidėjo gerokai į pietus nuo dabartinio atsišakojimo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

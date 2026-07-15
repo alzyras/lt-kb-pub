@@ -49,26 +49,6 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
   teiginys: "Po nesėkmingos Daugpilio apgulos 1278 m. Eiliuotinė kronika Traideniui priskyrė skundą dėl tvirtovės."
   pagrindžia:
     - c-169759
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Po nepasise­
-    kusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­
-    šinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235.
-    Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji
-    tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą,
-    kol gyvas busiu »^236.
-    Keršydamas už Traidenio puolimus, 1279 m. pavasariop Livo­
-    nijos magistras Ernest von Rassburg suruošė didelį žygį Lietuvon.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -91,4 +71,5 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-186420
     - t-186421

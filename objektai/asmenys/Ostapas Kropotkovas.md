@@ -36,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais. Ostapui Kropotkovui, kaip nurodė Narbutas, 1354 m. rugpjūčio 7 d. Vilniuje už nuopelnus kare su totoriais duotas herbas ir Podbužo dvaras Voluinėje.
+Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais. Ostapui Kropotkovui, kaip nurodė Narbutas, 1354 m. rugpjūčio 7 d. Vilniuje už nuopelnus kare su totoriais duotas herbas ir Podbužo dvaras Voluinėje. Ostapas Kropotkovas buvo skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir herbo.
 
 ## Teiginiai
 
@@ -53,65 +53,27 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
   teiginys: "Ostapui Kropotkovui, kaip nurodė Narbutas, 1354 m. rugpjūčio 7 d. Vilniuje už nuopelnus kare su totoriais duotas herbas ir Podbužo dvaras Voluinėje."
   pagrindžia:
     - c-174849
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
-    metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
-    Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
-    kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
-    strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
-    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo -  riterio kepurė, o abipus
-    du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
-    Podbužo dvam Voluinėje už nuopelnus kare su totoriais. Datuotas Vil­
-    niuje 1354 melų mgpjūčio 7 dieną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197787"></a>
+- t-003
+  global_id: t-197787
+  teiginys: "Ostapas Kropotkovas buvo skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir herbo."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Ostapui Kropotkovui, kaip nurodė Narbutas, 1354 m. rugpjūčio 7 d. Vilniuje už nuopelnus kare su totoriais duotas herbas ir Podbužo dvaras Voluinėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Rankoje turiu nuorašą Švitrigailos
-    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
-    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
-    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
-    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
-    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
-    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
-    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
-    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais. Datuotas
-    Vilniuje 1354 metų rugpjūčio 7 dieną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-179338
 
 ## Citatos
 
 - id: c-173118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 402"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
     metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
     Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
     kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
     strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
-    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo -  riterio kepurė, o abipus
+    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
     du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
     Podbužo dvam Voluinėje už nuopelnus kare su totoriais. Datuotas Vil­
     niuje 1354 melų mgpjūčio 7 dieną.
@@ -125,8 +87,7 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
 - id: c-174849
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 510"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Rankoje turiu nuorašą Švitrigailos
     privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
@@ -144,6 +105,25 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191967
+
+- id: c-179338
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Čia gi pa­
+    teikėme iliustraciją, padarytą pagal piešinį, gautą iš Zaluskių bib­
+    liotekos. Tačiau nežinome, iš kokio šaltinio yra tas piešinys. Mūsų
+    piešinio užrašas runomis reiškia Vaidevučio vardą (pono Volian­
+    skio šil'ruotė), tačiau negalime tiksliai pasakyti, kam jis buvo
+    skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir
+    herbo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197787
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Herbas]]

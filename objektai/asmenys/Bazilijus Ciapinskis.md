@@ -34,24 +34,6 @@ Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.
   teiginys: "Rusėnų ir baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a. pusėje spausdino raštus dviem stulpeliais."
   pagrindžia:
     - c-21619
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK stačiatikių vienuo-
-    lynuose rašyta bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pra-
-    dėjo formuotis rašto tradicija, kuri skyrėsi nuo minėtos bažnytinės kalbos.
-    Aiškiai ją skyrė amžininkai. Rusėnų / baltarusių spaustuvininkas Bazilijus
-    Ciapinskis antrojoje XVI a. pusėje netgi spausdino raštus dviem stulpeliais:
-    viename viena kalba, kitame – kita.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

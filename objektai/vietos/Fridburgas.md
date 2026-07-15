@@ -52,38 +52,16 @@ XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pasist
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188526|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad 1329 m. Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu.
 - susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino.
 - susijęs iš Bajerburgas: XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pastatė Fridburgą ir Bajerburgą, nes žygyje dalyvavo Bavarijos kunigaikštis.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pasistatė Fridburgą ir Bajerburgą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kaip tik ten buvo minima Velionos šventykla. XIV am­
-    žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-
-    burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
-    lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
-    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
-    kiu šaunamuoju ginklu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-171836
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kaip tik ten buvo minima Velionos šventykla. XIV am­
     žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-
+    jos paimti, pasistatė priešais ją dvi pilis - Fridburgą ir Bajer-
     burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
     lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
     Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­

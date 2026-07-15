@@ -64,43 +64,6 @@ Nenurodyta
   teiginys: "1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė."
   pagrindžia:
     - c-166658
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Siekdama
-    sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo
-    priežastis – sunki psichikos liga šizofrenija. Ši informacija neatitiko tikro-
-    vės – jaunuolis buvo sąmoningas ir suvokė savo veiksmus.
-    R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
-    klausimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1972 m. gegužės 14 d. devyniolikme-
-    tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
-    pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
-    lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė. R. Kalanta ligoninėje
-    mirė. Lietuvoje tai pirmas susideginimo, protestuojant prieš okupacinę
-    valdžią, atvejis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

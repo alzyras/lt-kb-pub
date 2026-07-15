@@ -34,28 +34,6 @@ Kučinskas: Kęstutis , 124-125 p. 260 ii skyrius: valstybės iškilimas mis; pa
   teiginys: "Dubno kronikoje smulkiai užrašytos Kęstučio atliktos pagoniškos jaučio aukojimo apeigos."
   pagrindžia:
     - c-94047
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dubno kronikoje smulkiai užrašytos Kęstučio atliktos pagoniškos jaučio aukojimo apeigos.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kučinskas:** **_Kęstutis_** **, 124-125 p.**
-
-
-    260 ii skyrius: valstybės iškilimas
-
-    mis; pats Kęstutis, kaip kunigas, ten atliko pagoniškas jaučio
-    aukojimo apeigas, kurios smulkiai yra užrašytos Dubno kronikoje^7.
-    Pasižadėjęs įkurti Lietuvoje vyskupijų ir vienuolynų, Kęstutis dėl
-    neišaiškinamų priežasčių tačiau nakties tamsoje pabėgo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

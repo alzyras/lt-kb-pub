@@ -36,25 +36,6 @@ Ordino ir Vytauto santykiams buvo reikšminga, kai abi pusi pasižadėjo iš kit
   teiginys: "Ordinas ir Vytautas pasižadėjo iš kito krašto nepriimti činšą mokančių ir nelaisvų valstiečių."
   pagrindžia:
     - c-93923
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ordinas ir Vytautas pasižadėjo iš kito krašto nepriimti činšą mokančių ir nelaisvų valstiečių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    atsimetimą. Ordino ir Vytauto santykiams buvo reikšminga,
-    kai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių
-    ir nelaisvu valstiečių. Į iškilmingą ir visą savaitę trukusį Salyno
-    suvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių
-    jo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą
-    puotą Vytautą paskelbė Lietuvos karaliumi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

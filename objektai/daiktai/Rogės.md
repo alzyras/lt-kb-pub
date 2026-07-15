@@ -72,20 +72,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189992|Frydrichas Stenderis]]: Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o paprastu girtuoklių globėjo epitetu.
 - susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190266|Frydrichas Stenderis]]: Narbutas nesutiko su Stenderio siejimu Tiimpus su Atrimpos ir vadino Tiimpus paprastu girtuoklių globėjo epitetu.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Žiemos laiku, kaip sakiau, važiavo važiuose, taip vadinamose rogėse, nuo žodžio važiuoti, šunį įkinkę dėl to, jog šuo per visų didžiausias tankmes galėjo
-        perlįsti, o grįžtant namus atsekti; jei ką vežė, tad rogėse ir šlajose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -136,22 +122,33 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    savo žmonėmis — raiteliais ir pėstininkais. Ir kai ka­
-    ralius Olbrachtas su visa kariuomene jau buvo Buko­
-    vinoje ir žygiavo be baimės dėl sudarytos amžinosios
-    taikos ir priesaikos, nesitikėdamas iš niekur smūgio,
-    tuo metu Moldavijos vaivadai Steponui labai skaudėjo
-    kojos, bet, norėdamas įvykdyti savo sumanymą, jis
-    užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvy­
-    ko su visais savo žmonėmis, ir su turkais, ir su veng­
-    rais, ir su valachais, ir tuose miškuose bei bukynuose
-    užpuolė karalių Olbrachtą bei jo kariuomenę* * , dau­
-    gelį iš jo kariuomenės nukovė, o kitus paėmė gyvus;
-    atėmė daug gurguolių su dideliu turtu ir kelias garsias
-    patrankas, o pačiam karaliui Olbrachtui ir daugeliui
-    jo ponų bei karių nieko nepakenkė.
-    Kai karalius perėjo miškus ir Bukoviną, Moldavijos
-    vaivada su visais savo žmonėmis pasuko atgalios.
+    Sužinoję, kad maskvėnai paėmė Brianską, Možaisko
+    kunigaikštis Semionas Ivanovičius bei kunigaikštis Va­
+    silijus Ivanovičius Semiačičius atvyko prie Kontovto"
+    upės pas Maskvos didžiojo kunigaikščio vaivadą Jako­
+    vą Zacharičių ir prisiekė tarnausią Maskvos didžiajam
+    kunigaikščiui su visais miestais — su Černigovu, su
+    Starodubu, su Gomeliu, su Naugardu-Seversku, su Ryls-
+    ku ir su visais valsčiais, kuriuos valdė, būdami Lietuvos
+    Didžiosios Kunigaikštystės valdiniais. O Belajos kuni­
+    gaikštis Semionas Ivanovičius atvyko į Maskvą dar
+    prieš Briansko paėmimą ir su visa savo tėvonija paklu­
+    so Maskvos didžiajam kunigaikščiuiIJ.
+    Lietuvos didysis kunigaikštis Aleksandras, išgirdęs
+    kad jo uošvis, Maskvos didysis kunigaikštis Ivanas Va-
+    siljevičius, pradėjo prieš jį tokį karą, ir kad Briansko
+    miestas ir daugelis miestų pasidavę jam ir su minėtai­
+
+    siais kunigaikščiais prisiekę jam tarnauti, siunčia į Smo­
+    lenską savo etmoną, kunigaikštį Konstantiną Ivanovi-
+    čių Ostrogiškį, bei savo kiemo maršalą, Merkinės ir
+    Anykščių vietininką poną Grigalių Stanislovaitį Asti-
+    ką l3, ir savo pataurininkį, Belsko vietininką poną Mi­
+    kalojų Mikalojaitj
+    ir maršalą poną Joną Petraitį1S, ir
+    maršalą, Naugarduko ir Slonimo vietininką poną Liu­
+    taurą Chreptavičių l6, ir daugelį kitų savo kunigaikščių,
+    ir ponų, ir dvarionių, ir bajorų.
   citata_rodoma: "Ir kai ka­\nralius Olbrachtas su visa kariuomene jau buvo Buko­\nvinoje ir žygiavo be baimės dėl sudarytos amžinosios \ntaikos ir priesaikos, nesitikėdamas iš niekur smūgio, \ntuo metu Moldavijos vaivadai Steponui labai skaudėjo \nkojos, bet, norėdamas įvykdyti savo sumanymą, jis \nužmiršo net savo ligą, ¡sakė vežti save rogėse ir atvy­\nko su visais savo žmonėmis, ir su turkais, ir su veng­\nrais, ir su valachais, ir tuose miškuose bei bukynuose \nužpuolė karalių Olbrachtą bei jo kariuomenę* * , dau­\ngelį iš jo kariuomenės nukovė, o kitus paėmė gyvus; \natėmė daug gurguolių su dideliu turtu ir kelias garsias \npatrankas, o pačiam karaliui Olbrachtui ir daugeliui \njo ponų bei karių nieko nepakenkė."
   statusas: verified
   teiginio_tipas: faktas

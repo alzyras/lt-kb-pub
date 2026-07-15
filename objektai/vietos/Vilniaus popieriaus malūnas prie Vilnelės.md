@@ -44,30 +44,6 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
   teiginys: "1522 m. prie Vilnelės, aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko, iškilo popieriaus malūnas."
   pagrindžia:
     - c-82236
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1522 m. prie Vilnelės, aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko, iškilo popieriaus malūnas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Malūnas, iki mūsų laikų vadin­
-    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
-    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
-    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
-    mis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­
-    lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
-    žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
-    malūnas. Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­
-    tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­
-    dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę
-    nutiesti tiltą iš akmenų arba plytų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -40,24 +40,6 @@ Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įt
   teiginys: "Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus."
   pagrindžia:
     - c-154586
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-
-    tucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos
-    principus. Lietuvos valstybė – nepriklausoma demokratinė respublika,
-    aukščiausioji valdžia priklauso tautai (LDK laikais tik bajorai turėjo aukš-
-    čiausiąją valdžią ir užėmė išskirtinę padėtį šalyje). Lietuvių kalba pirmą
-    kartą įteisinta kaip valstybinė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

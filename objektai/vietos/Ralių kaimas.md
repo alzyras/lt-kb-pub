@@ -35,22 +35,6 @@ Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai 
   teiginys: "Dar saulei netekėjus prie Ralių kaimo miško pasigirdo automatų šūviai, o vyrai pakilo ir išėjo į savo vietas."
   pagrindžia:
     - c-45299
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dar saulei netekėjus prie Ralių kaimo miško pasigirdo automatų šūviai, o vyrai pakilo ir išėjo į savo vietas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sugrįžę apie 24 val. pas ūkininką, miške ra-
-    dome pilna vyrų. Dar saulei netekėjus Ralių k. prie miško pasigirdo
-    automatų šūviai. Vyrai sukilo ir išėjo į savo vietas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

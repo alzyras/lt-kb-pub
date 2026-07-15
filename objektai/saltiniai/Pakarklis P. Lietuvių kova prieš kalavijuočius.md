@@ -40,30 +40,13 @@ Dusburgietis teigia, kad pakarklis P.
   teiginys: "P. Pakarklio „Lietuvių kova prieš kalavijuočius“ išleistas Panevėžyje 1945 m."
   pagrindžia:
     - c-61844
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'P. Pakarklio „Lietuvių kova prieš kalavijuočius“ išleistas Panevėžyje 1945 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pakarklis P. Lietuvių kova prieš kalavijuočius — Panevėžys, 1945.
-
-    Pakarklis P. Kryžiuočių valstybės santvarkos bruožai.— K., 1948.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61844
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268-269"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268-269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pakarklis P. Lietuvių kova prieš kalavijuočius — Panevėžys, 1945.
 

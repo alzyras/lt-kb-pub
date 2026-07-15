@@ -50,8 +50,8 @@ Nenurodyta
   teiginys: "Narbutas rašo, kad vaidilos laikėsi dorovės papročių, buvo nevedę, o už svetimoteriavimą galėjo būti gyvi sudeginami."
   pagrindžia:
     - c-172848
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad vaidilos laikėsi dorovės papročių, buvo nevedę, o už svetimoteriavimą galėjo būti gyvi sudeginami.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -79,14 +79,15 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    293
-
-    ## Puslapis 293
-
-    džiausiu įniršiu. Vaidilos tiksliausiai laikydavosi dorovės pa­
-    pročių; jeigu kuris nors iš jų būdavo pastebėtas svetimoteriau­
-    jant, tokį be gailesčio gyvą sudegindavo. Šie žyniai būdavo ne­
-    vedę*.
+    Hart-
+    knochas po ilgo nereikšmingo svarstymo šia tema pataiko į
+    ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
+    kai, gyvenę bendruomenėje su tam tikromis teisėmis. Tuos tei­
+    ginius patvirtina kitų senovės istorikų tyrimai. Viengungystė,
+    būrimasis į draugijas, gyvenimas nuošaliose vietose, religinių
+    triukų darymas, stebuklai, keistos apeigos, elgetavimas - toks
+    buvo tų ypatingų žmonių amatas.
+  citata_rodoma: "293\n\n## Puslapis 293\n\ndžiausiu įniršiu. Vaidilos tiksliausiai laikydavosi dorovės pa­\npročių; jeigu kuris nors iš jų būdavo pastebėtas svetimoteriau­\njant, tokį be gailesčio gyvą sudegindavo. Šie žyniai būdavo ne­\nvedę*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

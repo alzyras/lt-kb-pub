@@ -43,34 +43,13 @@ Dusburgietis teigia, kad senuoju prūsišku vardu vadino pilį ir kryžiuočiai 
   teiginys: "H. Wunderio darbas cituojamas aiškinant, kad 1239 m. dokumente kryžiuočiai pilį vadino Kirsberg."
   pagrindžia:
     - c-61267
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'H. Wunderio darbas cituojamas aiškinant, kad 1239 m. dokumente kryžiuočiai pilį vadino Kirsberg.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsų kalboje šis vardas tikriausiai skambėjo *Kirsapilis, t. y. ’Viršpilis’ (plg. Kirsmemela
-    ir pan., III, 315 paaiškinimą. Elementą kirsa, tik su protetinius — turi Skirsnemunė (:
-    Nemunas), žr. Endzelins J., Senprūšu valoda, p. 194). Senuoju prūsišku vardu vadino pilį
-    ir kryžiuočiai (1239 m. dokumente Kirsberg — CDP, 1, Nr. 50; Wunder H., Siedlungs...,
-    p. 170). Matyt., vėliau, iškreipę baltiškąjį vardą, kryžiuočiai sukūrė pasakojimą, kad pilis
-    paimta Kristaus gimimo naktį ir todėl pavadinta Kristburgu (žr. SRP, 1, p. 83, išnaša
-    5; Kujot S., Dzieje Prus..., 1, p. 730—731).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61267
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Prūsų kalboje šis vardas tikriausiai skambėjo *Kirsapilis, t. y. ’Viršpilis’ (plg. Kirsmemela
     ir pan., III, 315 paaiškinimą. Elementą kirsa, tik su protetinius — turi Skirsnemunė (:

@@ -55,40 +55,17 @@ Nenurodyta
   teiginys: "Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje."
   pagrindžia:
     - c-60325
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie vieno sūduvio atsivertimą ir nuostabų įvykį
-
-      Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
-    šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Sužinojęs,
-    dėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo
-    šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį
-    pakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo. Kunigas uoliai padarė,
-    ko prašomas, ir apsidairęs išvydo kojūgalyje medinį kryžių, kurį šis sūduvis buvo liepęs
-    padirbdinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
+- susijęs iš [[objektai/daiktai/Vytautinis Krucifiksas.md#claim-t-200847|Vytautinis Krucifiksas]]: Vytautiniu Krucifiksu vadinamas medinis kryžius su dramblio kaulo Nukryžiuotojo figūra, nors Vorobjovas jį datavo XVII amžiaus pabaiga.
+- susijęs iš Vilniaus katedra: Vilniaus katedros zakristijoje buvo saugoma XVII a. pabaigos dramblio kaulo Nukryžiuotojo figūra, vadinta Vytautiniu Krucifiksu.
 ## Citatos
 
 - id: c-60325
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 165"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie vieno sūduvio atsivertimą ir nuostabų įvykį
-
-      Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
+    Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
     šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Sužinojęs,
     dėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo
     šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį

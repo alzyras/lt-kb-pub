@@ -7,15 +7,15 @@ datos:
   - '1300 m.'
 date_start: '1300'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,22 +51,8 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
   pagrindžia:
     - c-60767
 
-<a id="claim-t-60134"></a>
-- t-003
-  global_id: t-60134
-  teiginys: "Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių, kai lietuvių kariuomenė traukėsi iš Sembos žemės."
-  pagrindžia:
-    - c-167463
-
-<a id="claim-t-60135"></a>
-- t-004
-  global_id: t-60135
-  teiginys: "1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus."
-  pagrindžia:
-    - c-60767
-
 <a id="claim-t-194487"></a>
-- t-005
+- t-003
   global_id: t-194487
   teiginys: "Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar išžudęs žmones."
   pagrindžia:
@@ -80,31 +66,6 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 - susijęs iš Aukaimio pilis (pilis): 1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus.
 - susijęs iš Semba: Lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembą ir sudegino pastatus bei pasėlius.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
-
-       Tais pačiais metais brolis Henrikas iš Dobino  ir kiti broliai su 200 vyrų įsiveržė  į
-    Aukaimio pilies apylinkes  ir, sudeginęs šešis kaimus, pasitraukė paėmęs  į nelaisvę ar
-    išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
-    turėjo didelių nuostolių sunkiai sužeistaisiais.
-
-
-
-
-         277 (270).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-    - t-005
-
 - c-002
   santrauka: 'Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -117,9 +78,6 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
     į žygį. Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė
     atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana
     daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.
-
-
-
 
                       238 (231).
   citata_rodoma: ''
@@ -136,52 +94,44 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 - id: c-60767
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 193"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
-
-       Tais pačiais metais brolis Henrikas iš Dobino  ir kiti broliai su 200 vyrų įsiveržė  į
-    Aukaimio pilies apylinkes  ir, sudeginęs šešis kaimus, pasitraukė paėmęs  į nelaisvę ar
+    Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į
+    Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar
     išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
     turėjo didelių nuostolių sunkiai sužeistaisiais.
-
-
-
-
-         277 (270).
+    277 (270).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60135
-    - t-184079
     - t-194487
 
 - id: c-167463
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 178"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Sembos žemės nusiaubimą
-
-      Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė  į
-    Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,
-    o grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė
-    į žygį. Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė
-    atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana
-    daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.
-
-
-
-
-                      238 (231).
+    Todėl vienas lietuvis, vardu Nodamas, prityręs
+    karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė
+    šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
+    apsirengęs moteriškais rūbais, atsisėdo ant upės kranto. Neilgai trukus, kai komtūras,
+    sutvarkęs visus savo reikalus, plaukė pro šalį, šis niekingas išdavikas graudžiu balsu
+    pradėjo šaukti ir prašyti, kad jį priimtų į laivą, kad jo sielą, Kristaus krauju atpirktą,
+    išvaduotų iš velnio vergovės. Kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė
+    prie kranto, šis staiga nutvėrė laivą, stipriai į jį įsikibo ir, susišaukęs savo bendrus,
+    užpuolė plaukusius laivu ir visus išžudė.
+    240 (233). Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
+    Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
+    dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
+    plėšikiškais išpuoliais Ragainės broliams ramybę.
+  citata_rodoma: "Apie Sembos žemės nusiaubimą\n\n  Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė  į\nSembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,\no grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė\nį žygį. Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė\natgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana\ndaug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.\n\n\n\n\n                  238 (231)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184078
     - t-60134

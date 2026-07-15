@@ -71,38 +71,6 @@ Nenurodyta
   teiginys: "Vilniaus katedros fasado skulptūros buvo sukurtos 1784–1787 m., kai Lietuvoje dar vyravo baroko dvasia."
   pagrindžia:
     - c-22312
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Susiformavo barokinis kraštovaizdis, kuriam bū-
-    dinga bažnyčios, vienuolynai, kalvarijos, koplyčios, koplytstulpiai, kryžiai –
-    „šventasis peizažas“, organiškai pritapęs prie natūralios aplinkos, o kryždir-
-    bystė išliko vienas svarbiausių lietuvių liaudies meno atpažinimo ženklų.
-    Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
-    skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
-    dvasia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kazimiero, Lenkijos
-    globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

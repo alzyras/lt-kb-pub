@@ -35,23 +35,6 @@ Taip ir Mikniškių žemė, nuo­ mojama Vepriuose, Liuteronių kaime...........
   teiginys: "Mikniškių žemė buvo nuomojama Vepriuose, Liuteronių kaime."
   pagrindžia:
     - c-82186
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mikniškių žemė buvo nuomojama Vepriuose, Liuteronių kaime.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taip ir Mikniškių žemė, nuo­
-    mojama Vepriuose, Liuteronių kaime..........................Pa­
-    baisko su visĮais] ................ amžiams ir, jei kokie nors
-    žmonės iš jos atims, norime, kad bažnyčiai būtų grąžinta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -10,13 +10,13 @@ datos:
   - '1211 m.'
 date_start: '1198'
 date_end: '1211'
+amziai:
+  - 'XII'
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XII'
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,47 +65,8 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   teiginys: "„Pasakojimas apie Teutonų ordino pradžią“ yra seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą."
   pagrindžia:
     - c-61578
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Pasakojime apie Vokiečių ordino pradžią“ pirmasis Ordino magistras Henrikas Valpotas vadinamas Hermanu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Išrinktas
-    magistru, jis, matydamas, koks silpnas esąs Ordinas, pareiškė pokalbyje su kai kuriais
-    broliais, jog nepagailėtų  ir vienos akies, kad tik Ordinas jo vadovavimo metais taip
-    sustiprėtų, kad stengtų išlaikyti nors dešimt ginkluotų brolių riterių. O ką esi tu šiuo
-    reikalu padaręs, gerasis Jėzau, niekad neišleidžiantis iš akių teisingų prašančiųjų norų ir
-    nesiliaujantis palankiai rūpintis tais, kurie davė šventus įžadus? Argi jo troškimai atnešė
-
-      155 Pirmas Ordino magistras Henrikas Valpotas (1198—1200) Dusburgiečio šaltinyje
-    („Pasakojime apie Vokiečių ordino pradžią”) vadinamas Hermanu (SRP, t. 1, p. 225),
-    tačiau Dusburgietis ir kiti vokiečių autoriai ji vadina Henriku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '„Pasakojime apie Vokiečių ordino pradžią“ nurodoma, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Iš „Pasakojimo...” žinome,
-    kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę, o ją iš pradžių valdė kapelionas
-    Konradas  ir kamerarijus Burhardas, kurie po Akono paėmimo pastatė  ir bažnyčią.
-    Po Švabijos kunigaikščio Fridricho mirties vokiečių magnatų taryboje pirmu Ordino
-    magistru buvo išrinktas Henrikas (ar Hermanas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-003
   santrauka: '„Pasakojime apie Teutonų ordino pradžią“ yra duomenų, kad Vokiečių ordino kūrimasis buvo ilgesnis procesas, pasibaigęs 1198 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -123,37 +84,20 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   pagrindžia:
     - t-002
 
-- c-004
-  santrauka: '„Pasakojimas apie Teutonų ordino pradžią“ yra seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs
-    Akone greičiausiai 1204—1211 m. ankstesnių (XII a. pabaigos) dokumentų pagrindu,
-    yra „Pasakojimas (Narratio...) apie Teutonų ordino pradžią“109.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-61575
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 40"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Išrinktas
     magistru, jis, matydamas, koks silpnas esąs Ordinas, pareiškė pokalbyje su kai kuriais
-    broliais, jog nepagailėtų  ir vienos akies, kad tik Ordinas jo vadovavimo metais taip
+    broliais, jog nepagailėtų ir vienos akies, kad tik Ordinas jo vadovavimo metais taip
     sustiprėtų, kad stengtų išlaikyti nors dešimt ginkluotų brolių riterių. O ką esi tu šiuo
     reikalu padaręs, gerasis Jėzau, niekad neišleidžiantis iš akių teisingų prašančiųjų norų ir
     nesiliaujantis palankiai rūpintis tais, kurie davė šventus įžadus? Argi jo troškimai atnešė
-
-      155 Pirmas Ordino magistras Henrikas Valpotas (1198—1200) Dusburgiečio šaltinyje
+    155  Pirmas Ordino magistras Henrikas Valpotas (1198—1200) Dusburgiečio šaltinyje
     („Pasakojime apie Vokiečių ordino pradžią”) vadinamas Hermanu (SRP, t. 1, p. 225),
     tačiau Dusburgietis ir kiti vokiečių autoriai ji vadina Henriku.
   citata_rodoma: "Argi jo troškimai atnešė\n\n  155 Pirmas Ordino magistras Henrikas Valpotas (1198—1200) Dusburgiečio šaltinyje\n(„Pasakojime apie Vokiečių ordino pradžią”) vadinamas Hermanu (SRP, t. 1, p. 225),\ntačiau Dusburgietis ir kiti vokiečių autoriai ji vadina Henriku."
@@ -167,12 +111,11 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 - id: c-61576
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 40"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Iš „Pasakojimo...” žinome,
     kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę, o ją iš pradžių valdė kapelionas
-    Konradas  ir kamerarijus Burhardas, kurie po Akono paėmimo pastatė  ir bažnyčią.
+    Konradas ir kamerarijus Burhardas, kurie po Akono paėmimo pastatė ir bažnyčią.
     Po Švabijos kunigaikščio Fridricho mirties vokiečių magnatų taryboje pirmu Ordino
     magistru buvo išrinktas Henrikas (ar Hermanas).
   statusas: verified
@@ -185,14 +128,17 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 - id: c-61577
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 28"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Čia Dusburgietis pateikia oficialią
-    Ordino pradžios tradiciją (pagal Statutų prologą). Tuo tarpu „Narratio“ esama duomenų,
-    jog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos
-    kunigaikštis jau buvo miręs. Kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino
-    priklausomumą nuo joanitų141.
+    Dusburgietis tendencingai aprašo ir daugelį kitų Ordinui
+    nepalankių tarptautinių santykių reiškinių, bažnytinių ginčų, Ordino narių gėdingus
+    poelgius demaskuojančių faktų. Nutyli lenkų feodalinės ekspansijos į prūsų žemes
+    bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo
+    žemės dovanojimo charakterio, apimties ir t. t.142
+    Tendencingai Dusburgietis vaizduoja ir prūsų bei lietuvių kovas. Aprašydamas vieno
+    iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi,
+    jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po
+    medžiu pakartas.
   citata_rodoma: "Tuo tarpu „Narratio“ esama duomenų,\njog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos\nkunigaikštis jau buvo miręs. Kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino\npriklausomumą nuo joanitų141."
   statusas: verified
   teiginio_tipas: faktas
@@ -204,8 +150,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 - id: c-61578
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 22"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs
     Akone greičiausiai 1204—1211 m. ankstesnių (XII a. pabaigos) dokumentų pagrindu,

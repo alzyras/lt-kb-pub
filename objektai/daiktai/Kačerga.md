@@ -55,6 +55,7 @@ Nenurodyta
   teiginys: "Buitinis įrankis, per vestuvių vaidinimą paverčiamas gervės galva ir kaklu."
   pagrindžia:
     - c-177744
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

@@ -63,41 +63,6 @@ Nenurodyta
   teiginys: "Jėzuitų kolegijose buvo prižiūrima, kad mokiniai atliktų religinę praktiką ir lankytų mišias."
   pagrindžia:
     - c-67138
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ypatingai buvo žiūrima, kad
-    mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa-
-
-
-    maldas. Jėzuitų kolegijose mokiniai ruošdavo religinio turinio
-    vaidinimus ir disputus. Kolegijose visur buvo religinių mo-
-    kinių brolijų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Jėzuitų kolegijose buvo prižiūrima, kad mokiniai atliktų religinę praktiką ir lankytų mišias.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taip pat išeidavo filosofijos, o kai kur net teologijos
-    kursą. Daugumas mokinių gyveno kolegijose ir ištisą dieną iš-
-    būdavo mokytojų priežiūroje. Ypatingai buvo žiūrima, kad
-    mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa-
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

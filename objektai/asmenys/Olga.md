@@ -8,14 +8,14 @@ datos:
   - '1297 m.'
 date_start: '1276'
 date_end: '1297'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,8 +43,8 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   teiginys: "Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęstučio motina."
   pagrindžia:
     - c-173074
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęstučio motina.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -69,16 +69,17 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
 - id: c-173074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 214"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iš jos sūnūs: Manvydas
-    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
-    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
-    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
-    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
-    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
-    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
+    Kartą, kai Vitolfas puotavo pas vieną karalių,
+    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
+    šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
+    tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
+    pančius vienas ant kito. Nusiminęs Vytolfas išvyko iš to kara­
+    liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
+    tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
+    nugalėjo ir paėmė nesuskaičiuojamus turtus.
+  citata_rodoma: "Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo\nSmolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

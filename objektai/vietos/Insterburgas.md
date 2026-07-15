@@ -55,30 +55,6 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
 - susijęs iš Prūsija: Teodoras Narbutas Ordino politiką vadina kruvina ir rašo, kad sūduviai buvo iškapoti arba išgabenti į kitas Prūsijos dalis.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190767|Motiejus Strijkovskis (kronikininkas)]]: Teodoro Narbuto spėjimu, Strijkovskio prie Raigardo ir Insterburgo pastebėti žmonės galėjo būti išvestų jotvingių palikuonys.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kada Kryžiuočių Ordino maršalka
-    Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir, nueida­
-    mas net lig pat Vilniaus, degino kaimus, plėšė žmonių turtą ir
-    juos pačius ėmė nelaisvėn, tuo metu Algirdas, negalėdamas sku­
-    biai suorganizuoti apsigynimo, užsidaręs Vilniaus pilyje, pasi­
-    kvietęs maršalką ir išmetinėjęs jam neriterišką elgesį; o Kęstutis,
-    keršydamas už krašto teriojimą, pasiuntė Vytautą į Užnemunę
-    sunaikinti vokiečių maisto atsargą. Pavestą uždavinį Vy­
-    tautas labai puikiai atliko, sunaikindamas visą vokiečių maisto
-    atsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo). Kry­
-    žiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias
-    dienas turėjo išbūti nematę duonos, o arkliai — pašaro^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas rašo, kad Strijkovskis prie Raigardo ir Insterburgo Prūsijoje pastebėdavo galimų išvestų jotvingių palikuonių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -132,19 +108,21 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
 - id: c-175436
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kruvina šio Ordino
-    politika numatė padaryti Sūduvą visiškai negyvenamą,
-    tad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į
-    kitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­
-    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
-    Raigardo ir Insterburgo Prūsijoje. Tačiau negalime su­
-    tikti su mokslininku Heningu, kuris daro prielaidą, kad
-    visi sūduviai yra buvę jotvingiai, nes kitur esama negin­
-    čijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri
-    vadinosi sudinais ir buvo visiškai ne jotvingių kilmės.
+    Tačiau ne tas Skomantas, kurį lenkų istorikai vadina Ko­
+    modų, vadovavęs 1264 metų birželio 23 dienos mūšyje ir,
+    anot jų, žuvęs, turėjo vadovauti prūsų sukilimui, o 1282
+    ar 1283 metais grįžęs iš Lietuvos, kur buvo pabėgęs, ap­
+    sikrikštijo ir pagaliau davė savo vardą vienam ežerui,
+    esančiam netoli Ario miesto. Veikiau reikėtų daryti išva­
+    dą, jog buvę keli šios Skomantų giminės kariūnai1. Me-
+    chovita maišo jotvingių ir lietuvių kilmę. Vis dėlto jis
+    sako, kad dar jo laikais apie Drohiciną buvo kalbama jot­
+    vingių kalba ir lietuviai negalėdavo nė žodžio suprasti.
+    Kromeriui2 buvo žinomi jotvingių likučiai (reliquiae),
+    savo kalba visiškai besiskiriantys nuo slavų ir lietuvių.
+  citata_rodoma: "Kruvina šio Ordino\npolitika numatė padaryti Sūduvą visiškai negyvenamą,\ntad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į\nkitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­\nvingių, kurių palikuonis Strijkovskis pastebėdavo prie\nRaigardo ir Insterburgo Prūsijoje. Tačiau negalime su­\ntikti su mokslininku Heningu, kuris daro prielaidą, kad\nvisi sūduviai yra buvę jotvingiai, nes kitur esama negin­\nčijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri\nvadinosi sudinais ir buvo visiškai ne jotvingių kilmės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

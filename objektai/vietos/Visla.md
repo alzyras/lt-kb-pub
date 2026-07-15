@@ -33,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkurin. 27 d. prie Melno ežero (netoli Vislos)^1 ).
+1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos. Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį. Lietuvos metraštis Jogailos žygius į Lenkų žemę vaizduoja kaip žalą ir krikščionių kraujo praliejimą nuo Lietuvos sienų iki Vislos.
 
 ## Teiginiai
 
@@ -57,16 +57,8 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
   teiginys: "Lietuvos metraštis Jogailos žygius į Lenkų žemę vaizduoja kaip žalą ir krikščionių kraujo praliejimą nuo Lietuvos sienų iki Vislos."
   pagrindžia:
     - c-170621
-
-<a id="claim-t-187681"></a>
-- t-004
-  global_id: t-187681
-  teiginys: "Po Šventojo Kryžiaus medžio pagrobimo Jogaila, metraščio teigimu, nukėlė sieną su Lenkija iki Baltojo vandens, tai yra Vislos."
-  pagrindžia:
-    - c-170622
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178972|Kryžiuočių ordinas]]: Vokiečių ordinas Prūsuose įsigijo didelius žemės plotus, juos kolonizavo ir, laimėjęs Vislos žiotis bei Pamarį, sustiprėjo.
 - susijęs iš Melno ežeras: 1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos.
-- susijęs iš Opatovas: Opatovas yra Lenkijos Kielcų vaivadijos miestas, esantis apie 30 km į vakarus nuo Zavichosto ir Vislos.
 - susijęs iš Opatovas: Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugiau kaip 130 km į šiaurės rytus nuo Krokuvos.
 - susijęs iš Sanas: Sanas apibūdinamas kaip į Vislą iš dešinės įtekanti upė, esanti apie 15 km aukščiau Zavichosto.
 - susijęs iš Zakračimas: Prie Zakračimo prie Vislos susijungusios lietuvių, rusų, totorių ir lenkų jėgos padėjo nuniokoti Prūsus.
@@ -83,82 +75,6 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
 - susijęs iš Melnikas: Lietuvos metraštyje Jogailos karas su Mazovija ir lenkais aiškinamas tuo, kad Mazovijos kunigaikštis, lenkų padedamas, buvo užgrobęs Drohičiną ir Melniką.
 - susijęs iš Sanas: Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe.
 - susijęs iš Volbožas: Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červinską.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tik
-    kada patys Prūsijos krašto gyventojai prieš kryžiuočius sukilo,
-    o Zigmanto žadėtos pagalbos nesulaukė, magistras turėjo nu­
-    sileisti.
-    Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie
-    Melno ežero (netoli Vislos)^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tačiau šį kartą Vytautui neteko
-    su Ordino kariuomene susitikti atvirame mūšyje, nes vokiečiai
-    buvo užsidarę pilyse ir reikėjo kiekvieną jų imti atskirai. Vi­
-    sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­
-    ro sūkurin. Daugiausia buvo varginama Kulmijos šalis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Lietuvos metraštis Jogailos žygius į Lenkų žemę vaizduoja kaip žalą ir krikščionių kraujo praliejimą nuo Lietuvos sienų iki Vislos.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    APIE JOGAILOS ŽYGĮ I LENKIJĄ IR ŠVENTOJO KRYŽIAUS
-    MEDŽIO PAGROBIMĄ
-    Jogaila valdydamas visą Lietuvos Didžiąją Kuni­
-    gaikštystę, pradėjo kariauti su Mazovija2  ir su Len­
-    kais, nes Mazovijos kunigaikštis, Lenkų padedamas,
-    buvo užgrobęs Drohičiną ir Melniką. Jogaila daug kar­
-    tų žygiavo į Lenkų žemę ir padarė daug žalos Lenkų
-    bei Mozūrų žemėms, ir praliejo daug Romos tikėjimo
-    krikščionių kraujo nuo Lietuvos sienų ligi pat Vislos
-    upės 3.
-    Ir atžygiavę su didele kariuomene prie Vislos, prie­
-    šais Zavichostą \  ėmė tartis, kaip persikelti per upę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Po Šventojo Kryžiaus medžio pagrobimo Jogaila, metraščio teigimu, nukėlė sieną su Lenkija iki Baltojo vandens, tai yra Vislos.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Bet grįžkime atgalios.
-    Ir po to pagrobimo Jogaila nukėlė sieną su Lenkija
-    ligi Baltojo vandens, tai yra ligi Vislos upės l5 .
-    29.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-38677
@@ -202,8 +118,7 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
 - id: c-170621
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 84"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 84."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     APIE JOGAILOS ŽYGĮ I LENKIJĄ IR ŠVENTOJO KRYŽIAUS
     MEDŽIO PAGROBIMĄ
@@ -223,19 +138,3 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187680
-
-- id: c-170622
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Bet grįžkime atgalios.
-    Ir po to pagrobimo Jogaila nukėlė sieną su Lenkija
-    ligi Baltojo vandens, tai yra ligi Vislos upės l5 .
-    29.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187681

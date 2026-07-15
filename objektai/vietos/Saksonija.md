@@ -139,72 +139,6 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - susijęs iš Zelionogradskas: Zelionogradskas anksčiau vadintas Kranzu, lietuviškai - Krantu.
 - susijęs iš Žemaitija: Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
 - susijęs iš [[objektai/asmenys/Gebhardas.md#claim-t-60283|Gebhardas]]: Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šiaurės karas
-
-    1700 m. Saksonijos kariuomenė įžengė į Kuršą ir
-    apsiautė Rygą. Tačiau švedai sumušė Augusto II sa-
-    jungininkus, danų ir rusų kariuomenes ir, nubloškę
-    saksus nuo Rygos, 1702 m. įsiveržė į Lietuvos terito-
-    riją. Augustui II priešiški Sapiegos parėmė švedus,
-    M atsinaujino Lietuvos didikų tarpusavio kova.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  santrauka: 'Į Vilnių atvykę amatininkai iš Saksonijos kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto gyventojų sluoksniu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lietu­
-    vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink
-    įgyvendino savo dvariškius bei tarnus, žinoma, dar reikė­
-    tų pridurti ir nemažai paimtų į nelaisvę lenkų bei rusinu.
-    Žinodami gausią globą ir ypatingas privilegijas, o krikščio­
-    nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­
-    kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­
-    zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie
-    pasidarė turtingiausias Vilniaus gyventojų sluoksnis. Savo
-    ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
-    dimino dvare, statydinosi ties pilimi medinius savo rūmus,
-    o aplink kurdino savo valdinius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Augustas irgi pasi-
-    ryžo prie jo prisidėti; Petrui palikęs Estiją, jis svajojo nusika-
-    riauti sau Livoniją (Vidžemę). Čia jis ketino susikurti savo nuo-
-    savą kunigaikštiją. Tuomet, iš vienos pusės, turėdamas savo ka-
-    riuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,
-    nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
-    suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
-    džios.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-43826
@@ -249,8 +183,8 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174027
     - t-174025
+    - t-174027
 
 - id: c-158261
   redaktorius: "A. Šapoka"

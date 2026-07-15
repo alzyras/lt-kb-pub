@@ -48,7 +48,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Nemunas šiame šaltinyje aprašomas kaip svarbiausia Lietuvos vakarų gynybos, karo žygių ir prekybos ašis, pagal kurią ėjo pilys, sienų ginčai ir žemaičių kovos.
+Mezolito įrankių gausiai aptikta palei Nemuną, Nerį, Merkį, Ūlą ir Katrą, taip pat paežerėse nuo Lydos iki Alytaus ir Užnemunės durpynuose. Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija. Ordino įgaliotiniai įrodinėjo, kad Žemaitijos sienos prasideda keturios mylios nuo Nemuno krantų.
 
 ## Pavadinimai šaltiniuose
 
@@ -79,9 +79,9 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-164001
 
-<a id="claim-t-180400"></a>
+<a id="claim-t-180342"></a>
 - t-003
-  global_id: t-180400
+  global_id: t-180342
   teiginys: "Ordino įgaliotiniai įrodinėjo, kad Žemaitijos sienos prasideda keturios mylios nuo Nemuno krantų."
   pagrindžia:
     - c-164000
@@ -121,9 +121,9 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-163967
 
-<a id="claim-t-180396"></a>
+<a id="claim-t-180348"></a>
 - t-009
-  global_id: t-180396
+  global_id: t-180348
   teiginys: "1362 m. pavasarį Prūsų kryžiuočiai išgriovė svarbią lietuvių pilį Kauną Nemuno ir Neries santakoje."
   pagrindžia:
     - c-163993
@@ -149,9 +149,9 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-163995
 
-<a id="claim-t-180393"></a>
+<a id="claim-t-180352"></a>
 - t-013
-  global_id: t-180393
+  global_id: t-180352
   teiginys: "Vilniaus vyskupas gavo dešimtą žuvį iš didžiojo kunigaikščio tvenkinių Nemune."
   pagrindžia:
     - c-163975
@@ -281,6 +281,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginys: "Po Kauno pilies kritimo kryžiuočiai pasiekė ir kitų laimėjimų prie Nemuno."
   pagrindžia:
     - c-32284
+    - c-167761
 
 <a id="claim-t-180374"></a>
 - t-032
@@ -394,306 +395,299 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-163994
 
-<a id="claim-t-180393"></a>
-- t-048
-  global_id: t-180393
-  teiginys: "Vilniaus vyskupas gavo dešimtą žuvį iš didžiojo kunigaikščio tvenkinių Nemune."
-  pagrindžia:
-    - c-163975
-
 <a id="claim-t-180394"></a>
-- t-049
+- t-048
   global_id: t-180394
   teiginys: "Sudeginus Peštvę ir Veliuoną, Nemuno krantuose iki Kauno nebeliko lietuvių gynybos punktų."
   pagrindžia:
     - c-163981
 
 <a id="claim-t-180395"></a>
-- t-050
+- t-049
   global_id: t-180395
   teiginys: "Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną."
   pagrindžia:
     - c-164002
 
-<a id="claim-t-180396"></a>
-- t-051
-  global_id: t-180396
-  teiginys: "1362 m. pavasarį Prūsų kryžiuočiai išgriovė svarbią lietuvių pilį Kauną Nemuno ir Neries santakoje."
-  pagrindžia:
-    - c-163993
-
 <a id="claim-t-180397"></a>
-- t-052
+- t-050
   global_id: t-180397
   teiginys: "Ordinas primygtinai savinosi visą didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir nusidriekusią per visą vakarų Žemaitiją."
   pagrindžia:
     - c-164017
 
 <a id="claim-t-180398"></a>
-- t-053
+- t-051
   global_id: t-180398
   teiginys: "Kronikininkas, aprašęs kovas Skalvoje abipus Nemuno, pažymėjo, kad broliai daug kartų kariavo su skalviais."
   pagrindžia:
     - c-163974
 
 <a id="claim-t-180399"></a>
-- t-054
+- t-052
   global_id: t-180399
   teiginys: "Spalio 7 d. demarkacinė linija buvo nustatyta nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties."
   pagrindžia:
     - c-163970
 
-<a id="claim-t-180400"></a>
-- t-055
-  global_id: t-180400
-  teiginys: "Ordino įgaliotiniai įrodinėjo, kad Žemaitijos sienos prasideda keturios mylios nuo Nemuno krantų."
-  pagrindžia:
-    - c-164000
-
 <a id="claim-t-180404"></a>
-- t-056
+- t-053
   global_id: t-180404
   teiginys: "Pilis buvusi pastatyta aukštame Nemuno krante (žr."
   pagrindžia:
     - c-164019
 
 <a id="claim-t-180405"></a>
-- t-057
+- t-054
   global_id: t-180405
   teiginys: "Didysis magistras slapta iš Marienburgo išplaukė Vysla, o per jūros įlanką įplaukė į Nemuną."
   pagrindžia:
     - c-164009
 
 <a id="claim-t-180406"></a>
-- t-058
+- t-055
   global_id: t-180406
   teiginys: "Remdamasis Dusburgu, Baliński darė išvadą, kad Gedimino pilis galėjo stovėti prie Nemuno, Lietuvos ar Žemaitijos pasienyje."
   pagrindžia:
     - c-163985
 
 <a id="claim-t-180407"></a>
-- t-059
+- t-056
   global_id: t-180407
   teiginys: "Didysis magistras slapta iš Marienburgo išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną."
   pagrindžia:
     - c-164009
 
 <a id="claim-t-180409"></a>
-- t-060
+- t-057
   global_id: t-180409
   teiginys: "Dusburgietis Nemuną vadino Memela, o Klaipėdos pilį – Memelburgk."
   pagrindžia:
     - c-163986
 
-<a id="claim-t-184393"></a>
-- t-061
-  global_id: t-184393
-  teiginys: "Po Kauno pilies kritimo kryžiuočiai pasiekė ir kitų laimėjimų prie Nemuno."
-  pagrindžia:
-    - c-167761
-
 <a id="claim-t-185066"></a>
-- t-062
+- t-058
   global_id: t-185066
   teiginys: "Barkus Jūros žiotyse, kur ji įteka į Nemuną, pasistatė Jurbarko pilį ir gavo valdyti dalį Žemaitijos."
   pagrindžia:
     - c-168427
 
 <a id="claim-t-185067"></a>
-- t-063
+- t-059
   global_id: t-185067
   teiginys: "Kūno, arba Kūnasijaus, valstybė buvo ribojama Nemunu, Dubysa, Nevėžiu ir Vilija, vadinama Nerimi."
   pagrindžia:
     - c-168428
 
 <a id="claim-t-185068"></a>
-- t-064
+- t-060
   global_id: t-185068
-  teiginys: "Užšalęs Nemunas leido magistro Konrado fon Tirbergo vedamiems kryžiuočiams lengvai persikelti ledu į Lietuvą."
+  teiginys: "Užšalęs Nemunas leido Konrado fon Tirbergo vedamai kryžiuočių kariuomenei ledu persikelti į Lietuvą."
   pagrindžia:
     - c-168429
 
 <a id="claim-t-185069"></a>
-- t-065
+- t-061
   global_id: t-185069
   teiginys: "Traukiantis kariuomenei, nepakankamai tvirtas Nemuno ledas neatlaikė svorio, todėl dalis karių ir grobio paskendo."
   pagrindžia:
     - c-168430
 
 <a id="claim-t-185070"></a>
-- t-066
+- t-062
   global_id: t-185070
   teiginys: "Prūsijos magistras Meinhardas apie balandžio vidurį apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos."
   pagrindžia:
     - c-168431
 
 <a id="claim-t-185071"></a>
-- t-067
+- t-063
   global_id: t-185071
-  teiginys: "Nepajėgęs užimti pilies, priešas pasitraukė į už vienos mylios esančias Nemuno salas ir pastatė ten naujas pilis."
+  teiginys: "Kojelavičiaus pasakojime, netekęs vilties užimti pilį, priešininkas pasitraukė į Nemuno salas ir ten pastatė naujas pilis."
   pagrindžia:
     - c-168432
 
-<a id="claim-t-185072"></a>
-- t-068
-  global_id: t-185072
-  teiginys: "Gavę žinią apie skitų antplūdį, dalis Naugarduko didikų pasitraukė už Nemuno."
-  pagrindžia:
-    - c-168433
-
 <a id="claim-t-187625"></a>
-- t-069
+- t-064
   global_id: t-187625
   teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas, nepasiekęs Šventojo Kalno, grįžo į Naugarduką ir įkūrė vienuolyną prie Nemuno."
   pagrindžia:
     - c-170572
 
 <a id="claim-t-188778"></a>
-- t-070
+- t-065
   global_id: t-188778
   teiginys: "Narbutas rašė, kad 1809 m. Lokaičiuose prie kairiojo Nemuno kranto rasta daug ginklų nuolaužų ir metalinių daiktų."
   pagrindžia:
     - c-171667
 
 <a id="claim-t-188779"></a>
-- t-071
+- t-066
   global_id: t-188779
   teiginys: "Narbutas 1805 m. Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, matė labai seną mūro pilį."
   pagrindžia:
     - c-171668
 
 <a id="claim-t-188780"></a>
-- t-072
+- t-067
   global_id: t-188780
   teiginys: "Narbutas Veliuoną apibūdino kaip menką miestelį dešiniajame Nemuno krante, penkių mylių atstumu nuo Jurbarko."
   pagrindžia:
     - c-171669
 
 <a id="claim-t-188781"></a>
-- t-073
+- t-068
   global_id: t-188781
   teiginys: "Narbutas rašė, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis."
   pagrindžia:
     - c-171670
 
 <a id="claim-t-188782"></a>
-- t-074
+- t-069
   global_id: t-188782
   teiginys: "Narbutas Zapyškį lokalizavo kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, anksčiau vadinto Upinės upeliu."
   pagrindžia:
     - c-171671
 
 <a id="claim-t-188783"></a>
-- t-075
+- t-070
   global_id: t-188783
   teiginys: "Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno."
   pagrindžia:
     - c-171672
 
 <a id="claim-t-188784"></a>
-- t-076
+- t-071
   global_id: t-188784
   teiginys: "Narbutas aiškino, kad lietuvių protėviai Nemuno žemupyje šventąja upe laikė Ross, arba Rusnę, dešiniąją Nemuno atšaką."
   pagrindžia:
     - c-171673
 
 <a id="claim-t-188785"></a>
-- t-077
+- t-072
   global_id: t-188785
   teiginys: "Narbutas užrašė liaudies padavimą, kuriame vaidilutę ketinta nuskandinti Nemune, bet ją išvadavo raitas šarvuotas bajoras."
   pagrindžia:
     - c-171674
 
 <a id="claim-t-188786"></a>
-- t-078
+- t-073
   global_id: t-188786
   teiginys: "Narbutas rašė, kad žinioje apie Vilniaus Perkūno šventyklą minimas garsus pranašas kažkur Nemuno žemupyje."
   pagrindžia:
     - c-171675
 
 <a id="claim-t-188787"></a>
-- t-079
+- t-074
   global_id: t-188787
   teiginys: "Narbutas pažymėjo, kad Nemuno žemupio lietuviai vietoj „Gej“ šaukdavę „Hej“."
   pagrindžia:
     - c-171676
 
 <a id="claim-t-188788"></a>
-- t-080
+- t-075
   global_id: t-188788
   teiginys: "Narbutas rašė matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus per Išlaužą."
   pagrindžia:
     - c-171677
 
-<a id="claim-t-188789"></a>
-- t-081
-  global_id: t-188789
-  teiginys: "Narbutas pateikė iš Hartknocho paimtą lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, maldos pavyzdį."
-  pagrindžia:
-    - c-171678
-
 <a id="claim-t-190655"></a>
-- t-082
+- t-076
   global_id: t-190655
   teiginys: "Narbutas Gardiną apibūdino kaip miestą prie Krono upės, kuri jo tekste tapatinama su Nemunu."
   pagrindžia:
     - c-173538
 
 <a id="claim-t-190656"></a>
-- t-083
+- t-077
   global_id: t-190656
   teiginys: "Narbutas minėjo medinį tiltą, jungusį abu Nemuno krantus ir laikytą ant tokiu pačiu būdu pastatytų stulpų."
   pagrindžia:
     - c-173539
 
 <a id="claim-t-192704"></a>
-- t-084
+- t-078
   global_id: t-192704
   teiginys: "Narbuto aprašytame kelyje Pripetės vandens baseinas jungėsi su Nemuno sistema."
   pagrindžia:
     - c-175474
 
 <a id="claim-t-192705"></a>
-- t-085
+- t-079
   global_id: t-192705
   teiginys: "Teodoras Narbutas Dionyzo iš Charakso minimą Aldeską tapatino su Nemunu."
   pagrindžia:
     - c-175475
 
 <a id="claim-t-192706"></a>
-- t-086
+- t-081
   global_id: t-192706
   teiginys: "Teodoras Narbutas Nemuno žemupio pakrantes laikė pirmąja lietuvių tautos buveine šiame krašte."
   pagrindžia:
     - c-175476
 
 <a id="claim-t-192707"></a>
-- t-087
+- t-082
   global_id: t-192707
   teiginys: "Narbuto aprašytas Reithgothland kraštas tęsėsi nuo Nemuno žemupio dešiniosios pakrantės iki Dauguvos žemupio."
   pagrindžia:
     - c-175477
 
 <a id="claim-t-192708"></a>
-- t-088
+- t-083
   global_id: t-192708
   teiginys: "Narbuto pasakojime vilkų tauta nuo Neries žiočių dešiniuoju Nemuno krantu pasiekė Dubysą."
   pagrindžia:
     - c-175478
 
 <a id="claim-t-192709"></a>
-- t-089
+- t-084
   global_id: t-192709
   teiginys: "Teodoro Narbuto aprašyme po kurio laiko kryžiuočiai pastūmė Prūsijos sieną iki Nemuno žemupio."
   pagrindžia:
     - c-175479
 
 <a id="claim-t-192710"></a>
-- t-090
+- t-085
   global_id: t-192710
   teiginys: "Narbutas Nemuno slenksčiuose mini daugybę akmenų, daugiausia iš švediško granito."
   pagrindžia:
     - c-175480
+
+<a id="claim-t-197177"></a>
+- t-086
+  global_id: t-197177
+  teiginys: "Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes, niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio."
+  pagrindžia:
+    - c-179050
+
+<a id="claim-t-197900"></a>
+- t-087
+  global_id: t-197900
+  teiginys: "Il gai nedelsdami, jie perėjo smėlėtas Nemuno pakrantes, plytinčias žemiau Sčiaros žiočių, ir, tik persikėlę kitapus Želvos upės1 į jos kairįjį krantą, šiandien Jaiblonovo apy linkės, pateko į žemes, kurias pagal tuometinį derlingumą galima buvo šiek tiek."
+  pagrindžia:
+    - c-179388
+
+<a id="claim-t-197901"></a>
+- t-088
+  global_id: t-197901
+  teiginys: "Tai, be abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo nės sutampa."
+  pagrindžia:
+    - c-175475
+
+<a id="claim-t-197902"></a>
+- t-089
+  global_id: t-197902
+  teiginys: "Štai, pavyzdžiui, Nemuno slenksčiuose matome daugybę akme nų, pradedant itališko riešuto dydžio ir baigiant milijono pūdų svorio, visuomet iš švediško granito, su nedidele ki tų keturių rūšių priemaiša."
+  pagrindžia:
+    - c-179389
+
+<a id="claim-t-188789"></a>
+- t-080
+  global_id: t-188789
+  teiginys: 'Narbutas pateikė iš Hartknocho paimtą lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, maldos pavyzdį.'
+  pagrindžia:
+    - c-171678
 - susijęs iš Salynas: Salynas buvo Nemuno sala apie dabartinę Kulautuvą, kurioje vyko Salyno sutarties susitikimas.
 - susijęs iš Lamata: Lamatos žemė minima kaip Nemuno pakrantėje gyvenusių lietuvių srities riba nuo Neries upės.
 - susijęs iš Klaipėda: Klaipėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
@@ -716,13 +710,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179483|Laivai]]: Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.
 - susijęs iš [[objektai/daiktai/Telegrafo linijos, garlaiviai, geležinkelis, telefono linijos ir automobiliai.md#claim-t-19603|Telegrafo linijos, garlaiviai, geležinkelis, telefono linijos ir automobiliai]]: XIX a. viduryje Lietuvoje pradėjo veikti pirmosios telegrafo linijos, o Nemune pradėta garlaivių navigacija.
 - susijęs iš [[objektai/grupes/2-oji divizija.md#claim-t-38929|2-oji divizija]]: 2-ajai divizijai buvo numatyta gynybinė pozicija nuo Dimitravo ežero per Meros upę ir Augustavo kanalą iki Nemuno.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178774|Jotvingiai]]: XIII a. duomenimis, Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178775|Jotvingiai]]: Pagal XIII a. duomenis Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178839|Kryžiuočių ordinas]]: Klaipėdos pilis beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178928|Kryžiuočių ordinas]]: Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178963|Kryžiuočių ordinas]]: Kryžiuočių pilis Fridbergas buvo pastatyta tuo pat metu kaip Bajerburgas, už dviejų mylių nuo Veliuonos žemyn Nemunu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178971|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai su sąjungininkais išgriovė svarbią lietuvių pilį Kauną prie Nemuno ir Neries santakos.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179047|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė Kauno pilį Nemuno ir Neries santakoje.
 - susijęs iš [[objektai/grupes/Lamatiečiai.md#claim-t-59036|Lamatiečiai]]: Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179312|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183888|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
@@ -732,14 +721,12 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89220|Skalviai]]: Archeologijos duomenys rodo, kad skalvių gentinė kultūra Nemuno ir Jūros santakos rajone buvo ryški nuo mūsų eros pradžios.
 - susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-62738|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: Per 1294 m. žiemos žygį Paštuvos ir Gaižuvos valsčius puolusi kariuomenė vidurnaktį ginkluota perėjo Nemuną ledu.
 - susijęs iš [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga).md#claim-t-66461|Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]: Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir puolė Varėnos kryptimi.
-- susijęs iš [[objektai/ivykiai/Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.).md#claim-t-185556|Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.)]]: Pasroviui atskubėję lietuviai Nemune prarado tik vieną saviškį ir privertė priešų laivus pasukti atgal.
 - susijęs iš [[objektai/ivykiai/Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.).md#claim-t-95957|Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)]]: 1398 m. spalio 12 d. Gardino sutartis buvo iškilmingai ratifikuota Salyno saloje Nemune.
 - susijęs iš [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.).md#claim-t-62787|Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]: 1337 m. Gedimino kariuomenė siekė likviduoti Bajerburgą, Ordino agresijos židinį prie Nemuno šalia Veliuonos.
 - susijęs iš [[objektai/ivykiai/Kolainių apgultis ir pilies sunaikinimas (1290 m.).md#claim-t-185714|Kolainių apgultis ir pilies sunaikinimas (1290 m.)]]: Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos.
 - susijęs iš [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.).md#claim-t-31433|Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]: 1391 m. rudeniop surengtas didelis žygis į Lietuvą, o rugsėjo 1 d. prie Kauno Nemuno saloje iškelta didelė puota svečiams piligrimams.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.).md#claim-t-185525|Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]]: Ragainės komtūras Verneris pasiūlė kryžiuočiams laivais pulti prie Nemuno ir kitų upių stovėjusias lietuvių pilis.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis).md#claim-t-86914|Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir nuniokojo žemes iki Medininkų bei Ašmenos.
-- susijęs iš [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema).md#claim-t-185627|Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]: Nepajėgęs užimti Kauno, Vytautas pasitraukė į Nemuno salas už vienos mylios ir ten pastatė naujas pilis.
 - susijęs iš [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas.md#claim-t-62906|Ragainės ir Skalvių pilių pastatymas]]: Netrukus po Ragainės pastatymo brolis Meinhardas prie Nemuno pastatė Skalvių pilį atsivertusiems skalviams gyventi.
 - susijęs iš [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas.md#claim-t-41367|Suvalkų derybos ir demarkacinės linijos nustatymas]]: Spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.).md#claim-t-66999|Vytauto žygis į Ordino žemes (1377 m.)]]: Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.
@@ -804,19 +791,14 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Skalva: Kai kurie tyrinėtojai teritoriją nuo Pamedės iki Skalvos prie Nemuno apibūdino kaip prūsų gyvenamą.
 - susijęs iš Skalvių pilis (pilis, XIII a.): Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie Skalvos upelio ties Paskalviais.
 - susijęs iš Skalvos žemė: Skalvių žemė buvo abiejose Nemuno pusėse.
-- susijęs iš Sčara: Komentare Sčara įvardijama kaip Nemuno pietinis intakas.
-- susijęs iš Sčara: Komentare Sčara minima kaip Nemuno pietinis intakas prie takoskyros su Jieselda.
 - susijęs iš Sūduva: Ordinas turėjo tuojau paimti vakarinį Sūduvos ruožą ir Žemaičių dalį nuo Raudonės įtekėjimo į Nemuną iki Klaipėdos.
 - susijęs iš Sūduva: Ordinas primygtinai savinosi visą didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir nusidriekusią per visą vakarų Žemaitiją.
-- susijęs iš Uša: Uša yra pietinis kairysis Nemuno aukštupio intakas.
 - susijęs iš Uša: Uša yra Nemuno intakas, prie kurio yra Nesvyžius.
 - susijęs iš Uša: Uša yra Nemuno intakas, prie kurio yra Nesvyžius.
-- susijęs iš Uša: Uša yra pietinis kairysis Nemuno aukštupio intakas.
 - susijęs iš Veliuona: Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems.
 - susijęs iš Veliuona: Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausęs jiems.
 - susijęs iš Veliuona: Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.
 - susijęs iš Veliuonėlė: Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalnų šlaitus.
-- susijęs iš Vilnius: Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą per Šv. Jokūbą vėl išsiruošė anapus Nemuno.
 - susijęs iš Volia: Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis iki Volios, toliau Nemunu iki Beržūnės.
 - susijęs iš Vyrgalės sala: Kęstutis statydino Naująjį Kauną Vyrgalės saloje ir tiltą per Nemuną, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių gynybą.
 - susijęs iš Vyrgalės sala: Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.
@@ -832,16 +814,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-58920|Prūsijos žemė terra Prussiae]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-184017|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89573|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
-- susijęs iš [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema).md#claim-t-185627|Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]: Nepajėgęs užimti Kauno, Vytautas pasitraukė į Nemuno salas už vienos mylios ir ten pastatė naujas pilis.
-- susijęs iš [[objektai/asmenys/Barkus.md#claim-t-186097|Barkus]]: Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitijos dalį iki Kuršių įlankos.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59880|Bertoldas, vadinamas Briuhavenu]]: 1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.
-- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184678|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.
 - susijęs iš [[objektai/asmenys/Burundajus.md#claim-t-78960|Burundajus]]: Burundajus vadovavo Aukso ordos totoriams per didelį antpuolį, kurį Lietuva atrėmė žiemą.
 - susijęs iš [[objektai/asmenys/Burundajus.md#claim-t-78961|Burundajus]]: 1258-1259 m. žiemą Lietuva atrėmė didžiulį Aukso ordos totorių, vadovaujamų Burundajaus, bei jiems jau pavaldžios Haličo-Voluinės Rusios antpuolį.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-184052|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas su kariuomene užpuolė Ramijos pilį, tą pačią dieną į ją įsiveržė ir sugriovė.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59835|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas su kariuomene užpuolė Ramijos pilį, tą pačią dieną į ją įsiveržė ir sugriovė.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59838|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.
-- susijęs iš [[objektai/asmenys/Ditrichas fon Altenburgas.md#claim-t-186107|Ditrichas fon Altenburgas]]: 1339 m. Prūsijos magistras Ditrichas fon Altenburgas su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.
+- susijęs iš [[objektai/asmenys/Ditrichas fon Altenburgas.md#claim-t-186107|Ditrichas fon Altenburgas]]: Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-40085|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Donatas Malinauskas.md#claim-t-18878|Donatas Malinauskas]]: Donatas Malinauskas 1914 m. liepą Vilniuje su Jonu Basanavičiumi ir Stasiu Šilingu surašė Gintarinę deklaraciją.
 - susijęs iš [[objektai/asmenys/Elžbieta (Vengrijos karalienė).md#claim-t-87494|Elžbieta (Vengrijos karalienė)]]: Vengrijos karalienė Elžbieta dalyvavo sėkmingose Jogailos derybose su Lenkijos didikais dėl Jadvygos rankos.
@@ -859,7 +838,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184267|Jogaila (kunigaikštis, XIV–XV a.)]]: 1413 m. Kauno saloje vykusiame Žemaitijos sienų suvažiavime dalyvavo Jogaila.
 - susijęs iš [[objektai/asmenys/Jonas (Čekijos karalius).md#claim-t-39558|Jonas (Čekijos karalius)]]: 1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.
 - susijęs iš [[objektai/asmenys/Jonas Basanavičius.md#claim-t-78006|Jonas Basanavičius]]: 1914 m. liepą Vilniuje Jonas Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė Gintarinę deklaraciją.
-- susijęs iš [[objektai/asmenys/Jonas Trizna.md#claim-t-186115|Jonas Trizna]]: Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė priešą atsisakyti pilies puolimo.
 - susijęs iš [[objektai/asmenys/Jonas iš Vienos.md#claim-t-60348|Jonas iš Vienos]]: Jonas iš Vienos kartu su Ragainės komtūru Erneke ir 25 ginklanešiais laivais išplaukė Lietuvos link.
 - susijęs iš [[objektai/asmenys/Karolis VI.md#claim-t-35184|Karolis VI]]: Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą.
 - susijęs iš [[objektai/asmenys/Konradas fon Tirbergas.md#claim-t-186129|Konradas fon Tirbergas]]: Žiemą, užšalus Nemunui, magistro Konrado fon Tirbergo vedami kryžiuočiai įsiveržė į Lietuvą.
@@ -911,26 +889,18 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116685|Hanza]]: Vytauto laikų Lietuva buvo kraštas, kurio negalėjo aplenkti Hanzos ir kiti pirkliai.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-86794|Herulai]]: Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178772|Jotvingiai]]: Jotvingiai, pasistūmėję į Rusios gilumą, kalba ir papročiais buvo panašūs į slavus.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178811|Kryžiuočių ordinas]]: Algirdas ir Kęstutis pradėjo derybas su Kryžiuočių ordinu, siekdami atokvėpio nuo tolesnių niokojimų.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178815|Kryžiuočių ordinas]]: Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178843|Kryžiuočių ordinas]]: Po Žalgirio mūšio pagrindinė Vytauto konflikto su Kryžiuočių ordinu priežastis liko Žemaitija.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178884|Kryžiuočių ordinas]]: Algirdas ir Kęstutis pradėjo derybas su Ordinu, kad Lietuva galėtų pailsėti nuo tolesnių niokojimų.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178917|Kryžiuočių ordinas]]: Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras veikiausiai buvo Medvėgalis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178923|Kryžiuočių ordinas]]: Veliuonos pilis tikriausiai buvo pastatyta XIII a., kad Žemaitijos siena būtų saugoma nuo kryžiuočių puldinėjimų.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178925|Kryžiuočių ordinas]]: Kai Žemaičių nepavyko įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas kišosi.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178954|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai, remiami Livonijos magistro ir svečių iš Vakarų, išgriovė Kauno pilį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178956|Kryžiuočių ordinas]]: Net po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis buvo Žemaitija.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178977|Kryžiuočių ordinas]]: Bajerburgo pilis prie Nemuno apie 1337 m. pastatyta Ordino pavedimu ir padedant Bavarijos kunigaikščiui Henrikui.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179016|Kryžiuočių ordinas]]: Vytautas nepaisė ordino reikalavimo grąžinti pabėgėlius žemaičius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179061|Kryžiuočių ordinas]]: Kai Žemaičių nepavyko įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas sėkmingai kišosi.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179123|Kryžiuočių ordinas]]: 1385 m. didžiojo magistro Konrado Ciolnerio žygis buvo paskutinis Ordino smūgis pagoniškai Lietuvai.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65558|Kuršiai]]: Skalviai prie Nemuno žemupio siejosi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65566|Kuršiai]]: Kuršių gyvenama teritorija prasidėjo į šiaurę nuo Minijos žemupio, Klaipėdos apylinkėse.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169585|Latviai]]: Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179290|Lietuviai]]: Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179354|Livonijos ordinas]]: 1372 m. Lietuva vienu metu buvo puolama iš Prūsijos ir Livonijos.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179413|Livonijos ordinas]]: 1372 m. kryžiuočiai Lietuvą puolė vienu metu iš Prūsijos ir Livonijos.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179435|Livonijos ordinas]]: Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.
 - susijęs iš [[objektai/grupes/Parusėnai.md#claim-t-07846|Parusėnai]]: Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89214|Skalviai]]: Sembų fogtas brolis Ditrichas su Ordino kariais įsiveržė į abipus Nemuno buvusią skalvių žemę ir užpuolė pilį būsimos Ragainės vietoje.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89217|Skalviai]]: Prie Nemuno buvo pastatyta Skalvių pilis, skirta į Kristaus tikėjimą atsivertusiems skalviams gyventi.
@@ -940,7 +910,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171432|Totoriai]]: Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-183189|Totoriai]]: Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus.
 - susijęs iš [[objektai/grupes/Vokiečių ordinas.md#claim-t-183199|Vokiečių ordinas]]: Net po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis buvo Žemaitija.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176115|Žemaičiai]]: Žemaičiai, anksčiau neturėję teisės prekiauti su aukštaičiais, vėliau šią teisę atgavo.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-182932|Žemaičiai]]: Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187754|Žemaičiai]]: Kęstutis valdė Trakus ir Žemaičių žemę ir turėjo šešis sūnus.
 - susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97015|Bisenos sunaikinimas (1316 m.)]]: 1316 m. kryžiuočiams pavyko sunaikinti žemaičių Biseną.
@@ -972,11 +941,10 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89381|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos.
 - susijęs iš [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams.md#claim-t-66766|Magdeburgo teisių suteikimas Lietuvos miestams]]: Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams.
 - susijęs iš [[objektai/ivykiai/Mindaugo pasiuntinių siuntimas pas popiežių (1251 m.).md#claim-t-31454|Mindaugo pasiuntinių siuntimas pas popiežių (1251 m.)]]: 1251 m. vidurvasarį iš kurijos išėjo šeši popiežiaus raštai Mindaugui arba jo reikalu kitiems adresatams.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186683|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare papildomai siejamas su 1251–1252 m. Mindaugo ir Danieliaus Romanovičiaus karo aprašymu.
+- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186683|Mūšis prie Jieseldos (mūšis, XIII a.)]]: 1971 m. komentare pasakojimas apie mūšį prie Jieseldos siejamas ir su 1251–1252 m. Mindaugo bei Danieliaus Romanovičiaus karo aprašymu.
 - susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186684|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.
 - susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186685|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Redakcinėje pastaboje mūšio prie Jieseldos pasakojimas laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186686|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare siejamas su žinia, kad 1262 m. Vasilka Romanovičius vijosi lietuvius iki Jieseldos ir juos sumušė.
-- susijęs iš [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema).md#claim-t-185626|Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]: Žiemą Vytautas miškais tyliai priėjo prie Kauno ir netikėtai pasirodė su kariuomene prie pylimo.
+- susijęs iš [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema).md#claim-t-185626|Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]: 1391 m. žiemą Vytautas, tikėdamasis paimti Kauną, tyliai priėjo miškais ir netikėtai pasirodė su kariuomene prie pylimo.
 - susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
 - susijęs iš [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas.md#claim-t-62907|Ragainės ir Skalvių pilių pastatymas]]: 1289 m. brolis Meinhardas Nemuno pakrantėje, skalvių žemėje, pastatė Landeshutės pilį, vėliau vadintą Ragaine.
 - susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66869|Salyno sutartis]]: Salyno suvažiavimo puotoje Vytautas buvo paskelbtas Lietuvos karaliumi.
@@ -1031,8 +999,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Aukokalnis: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
 - susijęs iš Aukokalnis: Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje.
 - susijęs iš Aukštaičių žemė: Platus Nemuno aukštupio ir vidurupio dešiniojo kranto kraštas bei beveik visas Neries baseinas su Šventąja sudarė Aukštaičių žemės pagrindą.
-- susijęs iš Aukštasis krantas: Aukštasis krantas yra apie 25 km į šiaurę ar šiaurės vakarus nuo Klecko.
-- susijęs iš Aukštasis krantas: Aukštasis krantas yra kaimas dešiniame Ušos krante.
 - susijęs iš Ašmena: 1385 metų rugpjūtį didžiojo magistro Konrado Ciolnerio Rotenšteino pajėgos nuniokojo žemes iki pat Ašmenos.
 - susijęs iš Bajerburgas: 1384 m. liepos 9 d. pradėjęs išdavystę, Vytautas sunaikino jam pavestą Naująjį Bajerburgą.
 - susijęs iš Bajerburgas: 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Naująjį Bajerburgą bei dar vieną jam pavestą pilį.
@@ -1114,7 +1080,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Lietuva: Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės, vardo.
 - susijęs iš Lietuva: Pasak citatos, Lietuvos vardas Europai tapo žinomas tik X amžiuje.
 - susijęs iš Lietuva: Nuo 1503 m. totoriai vis drąsiau puldinėjo Lietuvos žemes paskutiniaisiais Aleksandro valdymo metais.
-- susijęs iš Lietuva: Grįžęs į Naugarduką Vaišvilkas įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno.
+- susijęs iš Lietuva: Lietuvos metraščio pasakojime Vaišvilkas, grįžęs į Naugarduką, įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko.
 - susijęs iš Livonija: 1372 m. Ordinas puolė Lietuvą vienu metu iš Prūsijos ir Livonijos.
 - susijęs iš Livonija: Kryžiuočiai padažnino žygius į Lietuvą: 1370 m. surengė du, o 1372 m. puolė vienu metu iš Prūsų ir Livonijos.
 - susijęs iš Lubava: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
@@ -1182,8 +1148,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Tilžė: Narbutas rašo, kad už Tilžės, prie Sancinės, buvo apkasas arba piliakalnis, vietinių vadintas Kroniszkas-Pilnis, tai yra Kruonio pilimi.
 - susijęs iš Trakų apskritis: Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje, Trakų apskrityje.
 - susijęs iš Trapėnai: 1363 m. balandį Ordino magistras su kariuomene Nemunu priplaukė Trapėnus, ten įtvirtino paliktus laivus ir patraukė prie Naujojo Kauno pilies.
-- susijęs iš Uša: Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių.
-- susijęs iš Uša: Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių.
 - susijęs iš Užnemunė: Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę.
 - susijęs iš Varmė: Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių.
 - susijęs iš Varėna: Spalio 7 d. nustačius demarkacinę liniją, Varėnos ir Bastūnų stotys liko lenkams.
@@ -1233,13 +1197,10 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/zodynas/neutralizacija.md#claim-t-70251|neutralizacija]]: Nemuno neutralizacijos klausimas kilo ryšium su Lietuvos pripažinimu de jure.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58773|papilys]]: 1296 m. Ordino broliai perėjo užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.
 - susijęs iš [[objektai/zodynas/piliavietė.md#claim-t-192196|piliavietė]]: Teodoras Narbutas Rus ramovę prie Nemuno šakos Russ įvardija kaip senovinę piliavietę.
-- susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Bisenės užpuolimą pilėnai narsiai atrėmė, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
+- susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Kojelavičiaus pasakojime Bisenės pilėnai narsiai atrėmė užpuolimą, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
 - susijęs iš [[objektai/zodynas/pirklių kontora.md#claim-t-03119|pirklių kontora]]: Hanzos agentūros buvo vadinamos pirklių kontoromis.
 - susijęs iš [[objektai/zodynas/pirklių kontora.md#claim-t-182970|pirklių kontora]]: Polocke ir Kaune Hanza įsteigė savo agentūras, vadintas pirklių kontoromis.
 - susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58793|prūsas Prūsa Prūsija]]: XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.
-- susijęs iš [[objektai/zodynas/regula.md#claim-t-184637|regula]]: Vaišvilkas Galiče gyveno pagal griežtesnes regulas, remdamasis Grigorijaus iš Polonos mokslu.
-- susijęs iš [[objektai/zodynas/samdytiniai.md#claim-t-185412|samdytiniai]]: Kauno pilį ir miestą gynė stambios lietuvių bei lenkų samdytinių įgulos.
-- susijęs iš [[objektai/zodynas/skitai.md#claim-t-185342|skitai]]: Priešas, neįveikęs pilies, apiplėšė apylinkę ir patraukė į Skitiją.
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70366|tėvonija tėvų palikimas]]: Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos.
 - susijęs iš Mažosios Lietuvos himnas: XIX a. pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje.
 - susijęs iš Mažosios Lietuvos himnas: Už lietuvių kalbą Rytų Prūsijoje kovojęs Jurgis Zauerveinas parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.
@@ -1262,1352 +1223,10 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.
 - susijęs iš Veliuona: Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.
 - susijęs iš Veliuonėlė: Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalnų šlaitus.
-- susijęs iš [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema).md#claim-t-185627|Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]: Nepajėgęs užimti Kauno, Vytautas pasitraukė į Nemuno salas už vienos mylios ir ten pastatė naujas pilis.
 - susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
 - susijęs iš [[objektai/autoriai/Makarevičius A.md#claim-t-60745|Makarevičius A]]: A. Makarevičius siejo Paštuvos pilį su Jaučakių piliakalniu į rytus nuo Vilkijos.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Yra paaiškėję, kad pradinė
-    Mindaugo « Lietuva » ir jo valdomos tėviškės pilys tebus apėmusios
-    plotą tarp Nemuno, Neries ir Merkio, t.y. pietvakarių Aukštaičių
-    sritį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-037
-
-- c-002
-  santrauka: 'Po Kauno pilies kritimo kryžiuočiai pasiekė ir kitų laimėjimų prie Nemuno.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kaunui kritus, tuojau sekė kiti kryžiuočių pasisekimai prie
-    Nemuno. Lietuvai atėjo pačios sunkiausios dienos, kokių ji iki tol
-    nebuvo patyrusi. Vienas po kito sekė nauji ordino smūgiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-031
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ordinas turėjo tuojau
-    paimti vakarinį Sūduvos ruožą ir Žemaičių dalį — į vakarus nuo
-    Raudonės įtakos į Nemuną iki Klaipėdos^12. Visa kita Žemaičių
-    ir Sūduvos dalis iki Nemuno turėjo atitekti ordinui po pusbrolių
-    mirties. Zigmantas nepripažino nė Lenkijos teisių į ginčijamą
-    Kulmą ir Pamarį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tačiau Vytautas dar dvejus metus už­
-    truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
-    ir tiktai 1413 metų rudenį kartu su Jogaila atvyko į Žemaitiją.
-    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
-    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
-    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
-    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-043
-    - t-015
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tokia
-    gynimosi linija su mažais protarpiais ėjo nuo Rietavo miškų. Ji
-    tęsėsi 4-12 mylių (1 mylia = 7,4 km) atstu nuo Nemuno dešiniojo
-    kranto. Tiksliai nustatyti tos užtvaros liniją, lygiai kaip ir jos
-    sukirtimo laiką, nėra galima.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-029
-
-- c-006
-  santrauka: 'Didysis magistras per Šv. Jokūbą persikėlė anapus Nemuno ir ėmė statydinti bei stiprinti Rittersverderio pilį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Visa tai vyko žiemos pabaigo­
-    je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
-    nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
-    kiolika dienų teplėšė Lietuvą. Didysis magistras, vis dar
-    laikydamasis ankstesnių ketinimų atimti Vilnių iš Vytauto,
-    tais pačiais metais, vasarą, per Šv. Jokūbą, vėl išsiruošė ana­
-    pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­
-    dinti ir stiprinti Rittersverderio pilį52.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-007
-  santrauka: 'Fridbergo pilis stovėjo už dviejų mylių nuo Veliuonos žemyn Nemuno tėkme.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dabar pilis stovi be stogo, be langų ir vis labiau
-    nyksta.
-    Kita kryžiuočių pilis, vadinta Fridbergu (taikos kalnas),
-    pastatyta tuo pat metu, stovi už 2 mylių nuo Veliuonos že­
-    myn Nemuno tėkme ir dabar vadinama tiesiog pilimi**. Se­
-    niau ji priklausė Eperješams, vėliau - Gelgaudams; kadangi
-    išvengė gaisrų, kurių Bajerburgas buvo du kartus patyręs,
-    geriau išsilaikiusi ir atrodo taip, kaip ir prie kryžiuočių, tik
-    nutinkuota.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-042
-    - t-027
-
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Didysis magistras, vis dar
-    laikydamasis ankstesnių ketinimų atimti Vilnių iš Vytauto,
-    tais pačiais metais, vasarą, per Šv. Jokūbą, vėl išsiruošė ana­
-    pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­
-    dinti ir stiprinti Rittersverderio pilį52. Tačiau netruko užklupti
-    juos Vytautas su lietuviais bei lenkais ir kreipėsi į magistrą,
-    kad mestų darbus ir pasišalintų iš krašto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-028
-
-- c-009
-  santrauka: 'Spalio 7 d. demarkacinė linija buvo nustatyta nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Derybose Lietuvos delegacija reikalavo
-    nustatyti laikiną demarkacijos liniją, pasi-
-    baigus lenkų-bolševikų kovoms, atitraukti
-    lenkų pajėgas už Lietuvos su sovietais sude-
-    rėtų sienų. Lenkai su tuo nesutiko ir vilkino
-    derybas. Galiausiai spalio 7 d. buvo nusta-
-    tyta demarkacinė linija nuo Vokietijos sienos
-    iki Juodosios Ančios ir Nemuno santakos,
-    toliau - palei Vilniaus-Lydos geležinkelį iki
-    Bastūnų stoties.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-054
-
-- c-010
-  santrauka: 'Kronikininkas Prūsijos žemių tarp Vyslos ir Nemuno nukariavimą aprašė remdamasis geografiniu principu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kronikininkas šioje dalyje (kartais,
-    beje, ir anksčiau), neturėdamas tikslesnių įvykių datų, pasakojimą grindžia geografiniu
-    principu. Šiuo  principu  jis naudojasi, aprašydamas  Prūsijos žemių tarp Vyslos  ir
-    Nemuno nukariavimą. Retrospektyvinis požiūris  į įvykius ryškus tokiuose kronikininko
-    pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje,
-    paliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-032
-
-- c-011
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IX).
-    100
-
-    ## Puslapis 117
-
-    III
-    APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ
-    Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje,
-    kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­
-    žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­
-    vų su Ordinu šioje vietovėje, nusidriekusi ties Nemunu, už
-    7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per
-    pusantros mylios nutolusi nuo dabartinės Prūsijos sienos.
-    Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­
-    mu prie jo, yra apie 160 namų ir dvaras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-046
-    - t-005
-
-- c-012
-  santrauka: 'Kronikininkas, aprašęs kovas Skalvoje abipus Nemuno, pažymėjo, kad broliai daug kartų kariavo su skalviais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nedaug jis, matyt, tikslesnių žinių turėjo apie nadruvių
-    kovas, nes pažymėjo tik tiek, kad „daug kartų su Nadruvos žeme buvo vedami šlovingi
-    karai, neaprašytini nė šioje knygoje, nes būtų be galo atkaru skyrium apie viską pasakoti“
-    (III, 179). Aprašęs kai kurias kovas Skalvoje abipus Nemuno, kronikininkas pažymi, jog
-    „daug karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną“ (III, 188).
-    Kalbėdamas apie Skomanto vadovaujamų sūduvių  ir lietuvių kariuomenės įsiveržimą
-    į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis
-    dažniau įsibraudavo“  į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir
-    nuostolių, kad tai labai dažnai pasikartodavo (III, 192).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-053
-
-- c-013
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    [Be to, no­
-    rėdami, kad minėtos palaimintųjų
-    Stanislovo ir Vladislovo Išpažinėjo
-    bažnyčios vyskupas neapsigautų dėl
-    netinkamos gyvenamosios vietos, o,
-    atvirkščiai, džiaugtųsi ramia ir tai­
-    kia buveine ir toliau šlovindamas
-    Dievą gyvuotų, minėtajam vysku­
-    pui savo mūrinį namą, esantį minė­
-    tosios Vilniaus pilies teritorijoje, iš
-    mūsų karališkosios didenybės dos­
-    numo skiriame ir užrašome]. Tuo
-    pačiu aktu Vilniaus vyskupas savo
-    stalui gavo dešimtą žuvį, kad ir ko­
-    kios būtų rūšies, iš didžiojo kuni­
-    gaikščio tvenkinių Nemune.
-    13
-    Šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-048
-    - t-013
-
-- c-014
-  santrauka: 'Per šešerius metus lietuviai, gyvenę Nemuno pakrantėje nuo Neries upės iki Lamatos žemės, buvo priversti laikytis taikos su krikščionimis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
-    — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
-    sykių jis stojo prieš juos  į kovą. Trumpai kalbant, jis taip ryžtingai kariavo, kad per
-    šešerius metus, kada vadovavo šiai piliai, privertė visus lietuvius, gyvenusius Nemuno
-    pakrantėje, nuo Neries upės iki Lamatos žemės546, laikytis taikos su krikščionimis, bet
-
-    Lethovinorum rex), o toliau konstatuojama: Štai kraštai, kuriuose mes nustatėme taiką:
-    iš mūsų pusės — Aukštaičių ir Žemaičių kraštas, Pskovas ir visi rusų [kraštai], kurie
-    yra mūsų valdžioje (PUB, 2, 1, Nr. 418, p. 301; GL, Nr. 8, p. 69; popiežiaus bulės
-    tekste — LUB, 2, Nr. 693, p. 151).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-040
-
-- c-015
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Napoleono kariuomenės kėlimasis per Nemuną žygyje į Rusiją
-    1812 m. Dail. Jean-Baptiste Madou, 1827 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-
-- c-016
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Viena iš girių, esanti prie
-    pat Rūdninkų, ir dabar tebevadinama Królewski ogród, lietu­
-    viškai - Karaliaus daržas, kur būta daug briedžių, stirnų ir
-    meškų, šiandien pastarųjų išlikę vos keletas. Pagaliau šie
-    miškai, kaip ir tie, kur per keliolika mylių nusidriekę nuo
-    Rūdninkų link Nemuno: Varėnos, Valkininkų, Merkinės ir
-    kiti, - priklauso amžinosioms girioms, siekiančioms pačią
-    žmonių atsiradimo žemės rutulyje pradžią. Pati vietovė, su­
-    pama pelkių ir raistų, netinkama gyventi, lėmė tai, kad žmo­
-    gaus ranka jos niekada nelietė iki pat mūsų laikų, kai, suma­
-    žėjus miškų, mediena tapo pagrindinis vidaus ir užsienio
-    prekybos objektas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-033
-    - t-026
-
-- c-017
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vakaruose siena su kry-
-    žiuočiais jau buvo nusistojusi. Visas Nemuno žemupys jau Vy-
-    tenio laikais buvo kryžiuočių; o Gedimino laikais, pasistatę Ba-
-    jerburgo ir Marijenburgo pilis, kryžiuočiai paslinko dar arčiau.
-    Aukščiau Dubysos žiočių, Lietuvos valstybei priklausė jau abi
-    Nemuno pusės (dabartiniame Suvalkų krašte buvo didžiulė giria,
-    ir ten nebuvo pasistatę pilių nei kryžiuočiai nei lietuviai).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-023
-
-- c-018
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Grįždami jie sudegino
-    dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai
-    buvo rodžiusios tvirtą atsparumą. Tuo būdu Nemuno krantuose
-    iki Kauno nebeliko jokio lietuvių gynimosi punkto. Apie Peštvės
-    įgulą yra užrašyta, jog ji, apgulusiems kryžiuočiams pasižadėjusi
-    krikštytis, po derybų nakčia išbėgiojusi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-049
-
-- c-019
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iki šiol labiausiai paplitusi versija buvo
-    Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
-    toli Kernavės, vardo. Tradiciškai manoma, kad Lietuvos valstybės bran-
-    duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
-    buvo tarp Nemuno ir Neries upių. Taigi Lietaukos upelis, dešinysis Neries
-    intakas, tekėjo Lietuvos žemės link, ir nebūtinai pačioje Lietuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-036
-
-- c-020
-  santrauka: 'Nemunas prasideda Rusios valdose, prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vysla — tai upė, atitekanti nuo
-    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
-    bei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,
-    o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
-    Lietuvos ir Kuršo187.
-      1236 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-038
-
-- c-021
-  santrauka: 'Remiantis Dusburgo pasakojimu, Gedimino pilis galėjo stovėti prie Nemuno.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Trečią kartą šis papilys bu­
-    vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
-    želio Il dieną, švintant, Ragainės komtūras Tomas Alden-
-    burgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos
-    netikėtai užpuolė Gedimino pilies papilį ir plėnimis palei­
-    do8. Iš to, kas Dusburgo sakoma, peršasi išvados: pirma, kad
-    ta Gedimino pilis, kiek galima susivokti, buvo Lietuvos ar
-    Žemaitijos pasienyje, dėl šito ir su Strijkovskiu sutariama;
-    antra, kad galėjo net prie Nemuno stovėti; pagaliau, kad Cast­
-    rum Gedemini jau 1304 metais buvo, o Vilniaus pilis tik 1322
-    metais pastatyta. Jeigu mes net tarsime, kad ta pilis Vilniuje
-    gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
-    amžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­
-    demini, juk pats Gediminas, arba rygiečiai, dar prieš metus
-    viešuose laiškuose ir dokumentuose aiškiai ją vadina Vil­
-    niaus ir sutartis tuo vardu vadinamame mieste pasirašo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-058
-
-- c-022
-  santrauka: 'Dusburgietis Nemuną vadino Memela, o Klaipėdos pilį – Memelburgk.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgietis Nemuną vadina Memela (plg. 1243 m. flumen Memele — PUB, 1, 1, Nr.
-    143), o Klaipėdos pilį — Memelburgk.
-      188 D. — terra Prussi[a]e, Jer.— Pruzinlant.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-060
-
-- c-023
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau
-    įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu
-    buvo pasirašyta taikos sutartis. Susitikimas buvo Salyne (sala
-    Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vie-
-    tos ir sutartis vadinama Salyno sutartim.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-025
-    - t-044
-
-- c-024
-  santrauka: '1398 m. Vytauto laiške Nemunas minėtas apibrėžiant ruožą iki vietos, kur į jį įteka Strėva.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vygandas ir
-    Lindenblattas, kronikininkai,
-    ją taip pat vadina - Nerga, Nerge, Ne-
-    rye ir Neria. Jau 1398 metais, po
-    krikščionių tikėjimo Vilniuje priėmi­
-    mo, Vilija taip buvo vadinama. Vy­
-    tautas viename laiške, tais metais da­
-    tuotame, kuriame žada Prūsijos
-    ordinui pagalbą statant dvi pilis, sa­
-    ko, kad bus padaryta šitaip: „Išilgai
-    Nemuno, iki pat tos vietos, kur Strė­
-    va į jį įteka, ir išilgai Nerige, iki pat
-    ten, kur Šventoji su ja susijungia/'
-    Cfr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-039
-    - t-045
-
-- c-025
-  santrauka: 'Tyrimų duomenimis, Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į jo valstybę patekusį plotą nuo Vyslos iki Nemuno.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
-    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
-    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
-    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
-    sritį valdė prūsai, turėję ten savo pilių (III,7).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-
-- c-026
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­
-    čioje Lietuvoje. Talkininkaujami svečių iš Anglijos, Vokietijos ir
-    Italijos, ir padedami Livonijos magistro, Prūsų kryžiuočiai 1362
-    pavasarį atliko drąsų žygį, išgriaudami svarbią lietuvių Nemuno
-    ir Neries santakos pilį — Kauną. Neišaiškinamu būdu Kęstutis su
-    (^10) **SRP, II, 72, 505-507 p.**
-    (^11) **A. Kučinskas :** **_Kęstutis,_** **1938, 59-61 p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-051
-    - t-009
-    - t-041
-
-- c-027
-  santrauka: 'Lenkijos spaudoje buvo skelbiama straipsnių apie socialinę ir ekonominę padėtį į rytus nuo Nemuno.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    M. Balinskis, lyg ir pri­
-    simindamas savo jaunystės metus „nenaudėlių" draugijoje šia­
-    me Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose
-    nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas.
-    To meto Lenkijos laikraščiuose ir žurnaluose buvo spausdina­
-    ma nemažai straipsnių apie socialinę-ekonominę padėtį į rytus
-    nuo Nemuno upės, apie kultūrinį gyvenimą. M. Balinskis su­
-    pažindindavo skaitytojus su Lietuvos socialiniu ir kultūriniu gy­
-    venimu, nemažai dėmesio skirdamas istorijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-047
-
-- c-028
-  santrauka: 'Brolis Ditrichas, sembų fogtas, su kariuomene įžengė į skalvių žemę abipus Nemuno ir užpuolė pilį, stovėjusią dabartinės Ragainės vietoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    182 (177). Apie Ragainės pilies užkariavimą
-
-       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
-    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
-    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
-    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-029
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    KOVA DĖL NEPRIKLAUSOMYBĖS
-    Lietuvos planai: nuo autonomijos
-    iki nepriklausomybės
-    N
-    aują impulsą savo veiklai Europos šalių tautiniai są-
-    jūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriau-
-    dėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą
-    (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vo-
-    kietijos ir Austrijos–Vengrijos imperijos pradėjo karą prieš trilypę Pran-
-    cūzijos, Didžiosios Britanijos ir Rusijos imperijos Antantę. Vos tik Rusijai
-    iškėlus trijų imperijų pasidalytų lenkų klausimo sprendimą, lietuviai krūp-
-    telėjo – negi lenkams priklausys Suvalkų gubernijos lietuviai? Kai 1914 m.
-    liepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-
-    šė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-
-    ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
-    esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
-    tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-    - t-011
-
-- c-030
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lie­
-    tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­
-    drinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių
-    yra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,
-    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­
-    munės durpynuose.
-    Į mezolito laikotarpio galą jau buvo pažįstamas ir pirmas
-    prijaukintas gyvulys, būtent šuo, kuris tada vartotas ir mėsai (gy­
-    vos mėsos « konservavimas »)^3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-031
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ordino įgaliotiniai, vadovaujami maršalo M. Küchmeisterio,
-    labiausiai stengėsi susiaurinti laikinai atiduodamų Žemaičių plotą.
-    Jie vis įrodinėjo, kas Žemaitijos sienos teprasidedančios keturios
-    mylios nuo Nemuno krantų. Vytautas negalėjęs statytis Veliuonos
-    pilies, nes abu Nemuno krantai nuo seno priklausą ordinui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-055
-    - t-003
-
-- c-032
-  santrauka: 'Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Į šiaurę nuo Nemuno žiočių, Minijos
-    žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
-    Lietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,
-    p. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,
-    žemėl.). Ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-033
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    taip pat atsikvėpė po ilgų kovų dėl laisvės, nes po Žalgirio
-    karo buvo prijungti prie Lietuvos. Vytautas, norėdamas geriau
-    juose įsigalėti ir atstatyti Ordino nualintą kraštą, liepė atnaujin­
-    ti Dubysos ir Nemuno krantuose pilis ir atstatyti sudegintą Ve­
-    liuoną, kuri vėliau buvo mėgiamiausia Vytauto ir Ordino pa­
-    sitarimų vieta po Kauno arba Trakų. Taigi Lietuvos ribos bu­
-    vo praplėstos toliau į vakarus, apimdamos didesnius tikrų lie­
-    tuviškų žemių plotus, kuriose vis didėjo Vytauto valdžia ir
-    autoritetas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-050
-
-- c-034
-  santrauka: '1313 m. Surmino vadovaujami lietuviai Nemune paėmė pasroviui plaukusį laivą, nužudė keturis lankininkus ir laivą sudegino.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie šio laivo sudeginimą 1313 metais
-
-      Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa
-    Lietuva; ilgai taręsi  ir visaip svarstę, kaip  jį sunaikinti, galop pasiuntė kilmingą bei
-    karingą vyrą Surminą su šimtu laivų, kuriuose buvo šeši šimtai ar daugiau vyrų, ir šimtą
-    raitelių; kai jie užpuolė laivą, jame buvę 4 šauliai, palikti jo saugoti, pradėjo drąsiai
-    gintis. Galop, nukirtus virvę, kuria buvo pririštas, laivas nuplaukė Nemunu žemyn; jį,
-    pasroviui plaukiantį, lietuviai taip smarkiai užpuolė, kad, nors ir daug jų buvo sužeista,
-    o Skaldonis, minėtojo Surmino brolis, užmuštas, paėmė laivą ir, nužudę 4 lankininkus,
-    jį pavertė pelenais568.
-
-
-
-
-                319 (312).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-030
-
-- c-035
-  santrauka: 'Vytautas vėliau pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir Užnemunę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Čia Vytautas pakartoja ankstesnių Lie-
-    tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje. Tačiau vėliau
-    jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
-    Užnemunę.
-    Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu
-    priežastis – Žemaitija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
-- c-036
-  santrauka: 'Henrikui iš Plockės puolant Bisenės pilį, upe atplaukę kariai iš laivų nutiesė tiltą per Nemuną, bet apgula baigėsi nesėkme.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    37).
-
-    Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
-    visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,
-    kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę
-    karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne
-    kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-035
-
-- c-037
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Senosios kro-
-    nikos mini daug ordino puolimų į Žemaičius ir Aukštaičius,
-    taip pat daug mini lietuvių žygių, tačiau nė viena kronika aiš-
-    kiai nepasako, kas tuo metu valdė Lietuvą.
-    Tas laikotarpis betgi buvo labai svarbus. Kaip tik šituo metu
-    vokiečių ordinas nuo Vyslos jau buvo priėjęs iki Nemuno ir
-    nuo 1282 m. pradėjo pulti lietuvius (anksčiau Lietuvą
-    puldavo tik livoniškė jo šaka).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-024
-
-- c-038
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lindenblatt Jahrbücher, p. 9 4 .
-    52
-    Tas žygis buvo paskubomis ir slap­
-    ta suruoštas, ir todėl didysis magist­
-    ras tuokart mažai teturėjo svetimša­
-    lių, juk nesigarsino po visą Europą,
-    o slapčia iš Marienburgo išplaukė
-    Vysla laivais, paskui jūros įlanka
-    įplaukė į Nemuną. Mūsų istorikai
-    bendrais bruožais ir ne taip išsamiai
-    apie šitai pasakoja.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-059
-    - t-057
-
-- c-039
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ant pilkapio nuo neatme­
-    namų laikų visada būdavo statomas kryžius. Mažas upeliu­
-    kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­
-    lies ir Gedimino kalno šlaitus. Tokie kalnų pavadinimai,
-    pirmtakų duoti, iki šiol išlikę, iš senovės laikų perimta tra­
-    dicija; ir tas pilkapis, kaip žinia, kapavietė, tad labai tikėti­
-    na, jog tai yra netoli nuo Veliuonos, prie Bajerburgo pilies,
-    žuvusio Gedimino kapas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-014
-
-- c-040
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tad jie
-    stengėsi dešiniajame Nemuno žemupio krante (nuo Nevėžio) sau
-    pasilaikyti plačią girios juostą. Ordinas primygtinai savinosi visą
-    didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir
-    nusidriekusią per visą vakarų Žemaitiją.
-    Tuoj po Torno taikos Vytautas ėmė reikalauti, kad į Žemaitijos
-    ribas butų pripažintos dešiniojo Nemuno kranto girios su ordino
-    pilimis žemupyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-052
-
-- c-041
-  santrauka: 'Kronikos įvade Kryžiuočių ordino ekspansijos plotas apibūdinamas kaip siekęs nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
-    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
-    feodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,
-    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
-    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
-    kovą prieš agresiją.
-      Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
-    sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
-    viduramžiais  į Rytus, atskleidžia tos agresijos esmę  ir jos vykdytojų katalikišką
-    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių  ir bažnytinių
-    feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-022
-
-- c-042
-  santrauka: 'Pilis buvusi pastatyta aukštame Nemuno krante (žr.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pilis buvusi pastatyta aukštame Nemuno krante (žr. D. III, 182). 1289 m. toje vietoje
-    Ordinas pastatė pirmąją Ragainės pilį (žr. D. III, 235; HE, p. 126; С V, t. 34, p. 106—
-    107; Boetticher A., Die Bau.., 5, p. 109).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-056
-
-- c-043
-  santrauka: 'Dusburgiečio pasakojime iš Lietuvos traukianti brolių kariuomenė vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
-    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
-    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv.
-    kryžiaus ženklu, Jėzaus Kristaus padedami, sėkmingai prasiveržė pro didžiulę lietuvių
-    kariuomenę (III, 251). Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
-    vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
-    globojo, kai traukė per ploną Kuršių marių ledą (III, 285).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-
-- c-044
-  santrauka: '1410 m. išvedus visą kariuomenę iš Lietuvos, pilys liko neapsaugotos, o Ordino puolimas prie Nemuno galėjo baigtis katastrofa.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1410 m. liepos pradžioje LDK kariuomenė prie Vyslos susijungė su
-    Lenkijos kariuomene. Tačiau išvedus visą kariuomenę iš Lietuvos, liko
-    neapsaugotos pilys ir staigus Ordino puolimas prie Nemuno galėjo baig-
-    tis katastrofa. Vytautas apgavo Ordino vadus – davė žemaičiams įsaky-
-    mą nuolat puldinėti jo pilis, taip dangstant jungtinės Lenkijos ir Lietu-
-    vos kariuomenės puolimo kryptį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-034
-
-- c-045
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kada Kryžiuočių Ordino maršalka
-    Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir, nueida­
-    mas net lig pat Vilniaus, degino kaimus, plėšė žmonių turtą ir
-    juos pačius ėmė nelaisvėn, tuo metu Algirdas, negalėdamas sku­
-    biai suorganizuoti apsigynimo, užsidaręs Vilniaus pilyje, pasi­
-    kvietęs maršalką ir išmetinėjęs jam neriterišką elgesį; o Kęstutis,
-    keršydamas už krašto teriojimą, pasiuntė Vytautą į Užnemunę
-    sunaikinti vokiečių maisto atsargą. Pavestą uždavinį Vy­
-    tautas labai puikiai atliko, sunaikindamas visą vokiečių maisto
-    atsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo). Kry­
-    žiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias
-    dienas turėjo išbūti nematę duonos, o arkliai — pašaro^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-021
-
-- c-046
-  santrauka: 'Po Kauno pilies kritimo kryžiuočiai pasiekė ir kitų laimėjimų prie Nemuno.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tik po dviejų dešimtmečių, jau
-    Vytautui esant ordino globoje, 1384 vasarą Kauno vietoje buvo
-    pastatyta tvirčiausia priešo žemėje mūrinė pilis — Marienwerder.
-    Kaunui kritus, tuojau sekė kiti kryžiuočių pasisekimai prie
-    Nemuno. Lietuvai atėjo pačios sunkiausios dienos, kokių ji iki tol
-    nebuvo patyrusi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-061
-
-- c-047
-  santrauka: 'Barkus Jūros žiotyse, kur ji įteka į Nemuną, pasistatė Jurbarko pilį ir gavo valdyti dalį Žemaitijos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Valdęs
-    valstybę
-    ilgus metus, Palemonas pa­
-    sitraukė iš šio pasaulio, palikdamas tris sūnus, tinka­
-    mus valdyti. Tėvui mirus, sū­
-    nūs šitaip pasiskirstė žemes:
-    Barkus, į Nemuną įtekančios
-    Jūros žiotyse pasistatęs Jur­
-    barko pilį, gavo valdyti tą
-    Žemaitijos dalį (mat Žemai­
-    tija jau buvo prisijungusi prie Lietuvos), kuri plyti
-    nuo Jūros ir Nemuno ligi Kuršių įlankos. Kūno, arba
-    Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
-    sa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu)
-    Nerimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-062
-
-- c-048
-  santrauka: 'Kūno, arba Kūnasijaus, valstybė buvo ribojama Nemunu, Dubysa, Nevėžiu ir Vilija, vadinama Nerimi.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kūno, arba
-    Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
-    sa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu)
-    Nerimi. Tų žemių sostinę įkurdino pačioje Neries ir
-    Nemuno santakoje. Tas miestas su pilimi, įkūrėjo at­
-    minimui pavadintas Kaunu, po šiai dienai tebėra vie­
-    nas iš žymiausių Lietuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-063
-
-- c-049
-  santrauka: 'Užšalęs Nemunas leido magistro Konrado fon Tirbergo vedamiems kryžiuočiams lengvai persikelti ledu į Lietuvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Taigi kai lietuviai įrudenėjus buvo užsi­
-    ėmę žygiu į Sandomirą, kryžiuočiai, stojus žiemai, kai
-    v q
-    L ietu vis P elužis k u rs­
-    to p rū su s p rieš Lietu-
-    neapsirinku spėliodamas, su­
-    kurstyti Pelužio. Mat šis, ki­
-    lęs iš Lietuvos didžiųjų ku­
-    nigaikščių, Treniotos ar Dau­
-    manto sūnus, persekiojamas
-    157
-
-    ## Puslapis 156
-
-    L ie tu v a
-    n io k o ja m a
-    k ry žiu o č ių
-    užšalęs Nemunas leido- leng­
-    vai persikelti ledu, įsiveržė
-    į Lietuvą vedami magistro
-    Konrado fon Tirbergo. Ka­
-    riuomenė žygiavo dviem voromis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-064
-
-- c-050
-  santrauka: 'Traukiantis kariuomenei, nepakankamai tvirtas Nemuno ledas neatlaikė svorio, todėl dalis karių ir grobio paskendo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ka­
-    riuomenė žygiavo dviem voromis. Pirmoji apsupo Bi-
-    senės pilį ir po kovos, trukusios nuo Aušros ligi vi­
-    durdienio, užėmė ją bei sudegino; kita vora nuniokojo
-    aplinkines žemes, tačiau, traukdami atgal, patyrė di­
-    delių nuostolių, nes Nemuno ledas, nepakankamai tuo
-    metu tvirtas, neatlaikė jų svorio ir nemaža dalis ka­
-    riuomenės bei grobio paskendo verpetuose. Ramiai
-    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
-    ji susirėmimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-065
-
-- c-051
-  santrauka: 'Prūsijos magistras Meinhardas apie balandžio vidurį apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Už žalą, padarytą per šį niokojamą iš­
-    puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
-    kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­
-    są laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu
-    kariaudami, smogė nemažai stiprių smūgių. Pirmiausia
-    ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
-    balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
-    Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
-    tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
-    niokoti, o du tūkstančiai pėstininkų atkakliai puolė
-    apsuptą pilį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-066
-
-- c-052
-  santrauka: 'Nepajėgęs užimti pilies, priešas pasitraukė į už vienos mylios esančias Nemuno salas ir pastatė ten naujas pilis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kiek kartų kareiviai puolė pylimą, tiek kartų buvo at­
-    stumti, ypač nepaprastą narsumą rodė lenkų pėstinin­
-    kai. Netekęs vilties, kad užkariaus pilį, be to, nenorė­
-    damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie­
-    ko nenuveikė, jis pasitraukė į Nemuno salas, esančias
-    už vienos mylios, ir pastatė čia naujas pilis. Dviejose
-    salose, Naujojoje ir Riterių, pavadintose Nojerverde-
-    riu ir Ritersverderiu, kryžiuo-
-    Stato L ie tu v o je  паи-
-    čiai paliko savo įgulą, o tre­
-    jas pilis
-    čiojoje, vadinamoje Marien­
-    burgu, įkurdino savo karius
-    Vytautas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-067
-
-- c-053
-  santrauka: 'Gavę žinią apie skitų antplūdį, dalis Naugarduko didikų pasitraukė už Nemuno.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo metu ten
-    susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
-    kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
-    kėlėjus. Gavę žinią apie skitų antplūdį, vieni, vadovau­
-    jami Naugarduko vaivados Alberto Goštauto, subruz­
-    do ginti pilies, o kiti pasitraukė už Nemuno. Priešas,
-    įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
-    teliams vytis bėgančiuosius, o su kitais apgulė pilį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-068
-
-- c-054
-  santrauka: 'Lietuvos metraštis pasakoja, kad Vaišvilkas, nepasiekęs Šventojo Kalno, grįžo į Naugarduką ir įkūrė vienuolyną prie Nemuno.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O Grigorijus buvo šven­
-    tasis, kokio iki jo nėra buvę ir daugiau nebebus.
-    Vaišvilkas negalėjo pasiekti Šventojo Kalno, nesgi
-    anuose kraštuose tuomet buvo didelis sąmyšis. Ir par­
-    keliavo jis atgal j Naugarduką, ir įkūrė6  <sau vienuo­
-    lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
-    ir gyveno tenai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-069
-
-- c-055
-  santrauka: 'Narbutas rašė, kad 1809 m. Lokaičiuose prie kairiojo Nemuno kranto rasta daug ginklų nuolaužų ir metalinių daiktų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Man sakė, kad Karaliaučiuje
-    buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­
-    das žirgas, o ant jo -  juodas gaidys.
-    1809 metais Marijampolės apskrityje, netoli nuo kairiojo
-    Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
-    liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil­
-    žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų:
-    lai buvo rūdžių suėsti kalavijai, kardai, berdyšiai, skydai, ant­
-    veidžiai, kai kurie variniai ir sidabriniai daiktai. 1813 metais jo
-    mylista Daujotas, anuometinis Lokaičių palivarko nuomoto­
-    jas, man pasakojo: „Gavau varinį žiedą su puse colio pločio,
-    11 colių diametro“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-070
-
-- c-056
-  santrauka: 'Narbutas 1805 m. Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, matė labai seną mūro pilį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
-    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
-    125
-
-    ## Puslapis 125
-
-    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
-    nedailaus, bet labai patvaraus gipso.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-071
-
-- c-057
-  santrauka: 'Narbutas Veliuoną apibūdino kaip menką miestelį dešiniajame Nemuno krante, penkių mylių atstumu nuo Jurbarko.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Skaityk žemiau atitinkamus straipsnius.
-    Ji turėjo savo šventyklą vietovėje, kuri iki šiol tebesivadina
-    Veliuona (Wellona). Dabar tai menkas miestelis dešiniajame
-    Nemuno krante, penkios mylios iki Jurbarko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-072
-
-- c-058
-  santrauka: 'Narbutas rašė, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
-    ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
-    namų Kronie. Už Tilžės, žemiau Vingio (Winge) dvaro, prie
-    Sancinės, kur Nemunas išsišakoja į dvi atšakas -  Giliją ir Rus­
-    nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­
-    kalnis, vietinių vadinamas Kroniszkas -  Pilnis, tai yra Kruonio
-    (Kronu) pilimi. Ties Prienais, kur Nemunas daro pusračio vingį,
-    pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
-    Kronu).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-073
-
-- c-059
-  santrauka: 'Narbutas Zapyškį lokalizavo kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, anksčiau vadinto Upinės upeliu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
-    tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
-    žiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise
-    vadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­
-    vieną šventę, ypač per šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-074
-
-- c-060
-  santrauka: 'Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Siek tiek pasistūmėję upe
-    aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
-    ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
-    nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
-    (Betygola) pavadinimas. Šių keliautojų vadas vadinosi Nemu­
-    nas (Nemon). Apie jį dar esama padavimo, kad jis buvęs gar­
-    binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
-    ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
-    skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
-    keliais milžinkapiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-075
-
-- c-061
-  santrauka: 'Narbutas aiškino, kad lietuvių protėviai Nemuno žemupyje šventąja upe laikė Ross, arba Rusnę, dešiniąją Nemuno atšaką.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Si ket­
-    virta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­
-    vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
-    arba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­
-    ja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno
-    atšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė). Pa­
-    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
-    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
-    pačiu šventu vardu Ross.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-076
-
-- c-062
-  santrauka: 'Narbutas užrašė liaudies padavimą, kuriame vaidilutę ketinta nuskandinti Nemune, bet ją išvadavo raitas šarvuotas bajoras.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    33 Viename liaudies padavime pasakojama: šventa mergelė (vai­
-    dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
-    žė dvejetu juodų karvių, norėdami užsiūti odiniame maiše su šuni­
-    mi, katinu ir gyvate ir nuskandinti Nemune. Pasirodė tas bajoras rai­
-    tas, šarvuotas, išvadavo mergelę ir liepė sutuokti su ja ant paties upės
-    kranto; tada abu apsikabinę šoko į vandenį ir dingo iš akių. Toje vie­
-    toje vanduo ėmęs virti ir suktis verpetu, ir dabar taip daro, tarytum
-    nelaimingosios poros vestuvių ženklam Kai kada naktį, šviečiant mė­
-    nuliui, ji išlipanti į krantą, dainuojanti dainą apie savo nuotykį ir mai­
-    tinanti kūdikį. Kartais ji pasirodo žvejams naktį, lydima bajoro; prie
-    jų girdėti šuns urzgimas, katino kniaukimas ir gyvatės šnypštimas.
-    Dar daug kitokių pasakų mena apie šią porą panemunių gyventojai
-    Rumšiškių apylinkėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-077
-
-- c-063
-  santrauka: 'Narbutas rašė, kad žinioje apie Vilniaus Perkūno šventyklą minimas garsus pranašas kažkur Nemuno žemupyje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Anksčiau sakėme, kad žyniai stebėdavo dangaus kūnų ju­
-    dėjimą, norėdami padalyti laiką į atkarpas, bet kadangi su jų
-    padėtimi pynėsi mitologija, tai turėjo būti žinomas ir pranaša­
-    vimas iš žvaigždžių; kaip tik todėl liaudies padavimuose žodis
-    žvaigždininkas (Zwajždinikas) -  astronomas -  turi tą pačią
-    prasmę kaip juodaknygininkas (Juodukniginikas).
-    Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
-    sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
-    garsaus pranašo, kurio teirautasi apie tos šventyklos likimą.
-    Įvairiose vietose gyveno moterų pranašautojų, kurių pra­
-    našystėmis tikėta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-078
-
-- c-064
-  santrauka: 'Narbutas pažymėjo, kad Nemuno žemupio lietuviai vietoj „Gej“ šaukdavę „Hej“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pas mus, remiantis kitu šaltiniu
-    tikriausiai iš kitos Lietuvos dalies, aptiktas ankstesnis pastebėji­
-    mas. O lietuviai Nemuno žemupyje vietoj „Gej“ šaukia „Hej“*.
-    Reikia atminti, ką sakėme anksčiau straipsnyje „Varpas“, kad
-    Antikos žmonės manė, jog metalo žvangėjimas nubaidąs pik­
-    tąsias dvasias nuo mirusiojo kūno.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-079
-
 - c-065
-  santrauka: 'Narbutas rašė matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus per Išlaužą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šiuo atveju, kadangi tokių atsitikimų dažniausiai
-    pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
-    džių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;
-    sako, kad tai būdavo daroma niekam nematant. Vieną tokį
-    laužą pats mačiau kairiajame Nemuno krante, prie kelio iš
-    Kauno į Prienus, važiuodamas per Išlaužą. Jis yra kairiojoje
-    kelio pusėje, pamiškėje, prie pat vieškelio; kiekvienas žmo­
-    gus, išsaugojęs vietinį dievobaimingumą, eidamas pro laužą,
-    turi rūpestingai užmesti ant jo kokią nors šakelę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-080
-
-- c-066
   santrauka: 'Narbutas pateikė iš Hartknocho paimtą lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, maldos pavyzdį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2630,190 +1249,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-081
-
-- c-067
-  santrauka: 'Narbutas Gardiną apibūdino kaip miestą prie Krono upės, kuri jo tekste tapatinama su Nemunu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    452
-
-    ## Puslapis 452
-
-    kaip ir Karalių miestas su visais priemiesčiais. Arčiausiai jo yra
-    Gardinas, išsidėstęs prie Krono upės, dabar Nemunu vadina­
-    mos. Jis pastatytas iš dalies ant kalvos, o iš dalies slėnyje, kaip
-    įprasta tame krašte.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-082
-
-- c-068
-  santrauka: 'Narbutas minėjo medinį tiltą, jungusį abu Nemuno krantus ir laikytą ant tokiu pačiu būdu pastatytų stulpų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Taip pastatomas bokštas, turintis varpą, reika­
-    lingą bažnytinėms apeigoms. Tokiu pačiu būdu buvo pastatyti ir
-    stulpai, ant kurių remiasi medinis tiltas, jungiantis abu Nemuno
-    krantus*.
-    „Keistas dalykas, kaip smarkiai tarp miestų gyventojų ir
-    visoje Lietuvoje buvo paplitęs prietaringas netikrų dievų gar­
-    binimas, kol ji priėmė Kristaus tikėjimą ir jo garbinimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-083
-
-- c-069
-  santrauka: 'Narbuto aprašytame kelyje Pripetės vandens baseinas jungėsi su Nemuno sistema.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Keliaudami Dnąpro keliu šiek tiek aukštyn, šiandienio
-    Lojovo, arba Lojovo Grodeko, apylinkėse turėjo užeiti pir­
-    mą brastą į dešiniąją pakrantę. Iš čia, tęsdami kelionę į
-    vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos
-    vakarine Dnepro šaka1, Pentikapo upe, kurios vandens
-    baseinas jungėsi su Nemuno sistema (§21). Toliau, savo
-    kelionėje nenutoldami nuo kairiojo' Pripetės kranto, pateko
-    prie Maročės ir Punios žiočių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-084
-
-- c-070
-  santrauka: 'Teodoras Narbutas Dionyzo iš Charakso minimą Aldeską tapatino su Nemunu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Dionyzas iš Charakso, imperatoriaus Oktaviano
-    Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi
-    upes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,
-    jungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be
-    abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
-    tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
-    nės sutampa. Sis geografas pastarosios aukštupyje kuo
-    aiškiausiai apgyvendina gelonų tautą2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-085
-
-- c-071
-  santrauka: 'Teodoras Narbutas Nemuno žemupio pakrantes laikė pirmąja lietuvių tautos buveine šiame krašte.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tad Nemuno žemupio pakrantes visų pirma de­
-    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
-    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
-    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
-    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
-    užėmė Sembą ir gintaro kasyklas2. Tačiau visų seniausia
-    jų gyvenvietė turėtų būti prie Nemuno vagos dešinės da­
-    lies, ligi šiol vadinamos Ruse arba slaviškai Rusne,
-    Rusnia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-086
-
-- c-072
-  santrauka: 'Narbuto aprašytas Reithgothland kraštas tęsėsi nuo Nemuno žemupio dešiniosios pakrantės iki Dauguvos žemupio.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tam tikrą
-    šios žemės dalį skandinavai vadino Reithgothland. Sis
-    pavadinimas kildinamas1 iš senovės germanų žodžio
-    Rieth, Ried, Reiih, ir reiškia žemą kraštą, miškingą že­
-    mumą. Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios
-    pakrantės ligi Dauguvos žemupio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-087
-
-- c-073
-  santrauka: 'Narbuto pasakojime vilkų tauta nuo Neries žiočių dešiniuoju Nemuno krantu pasiekė Dubysą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Nekyla abejonių, jog priešistoriniais taikais egzistavo
-    vilkų, Wilkow, tauta, kurios vardas buvo įvairiai iškrai­
-    pomas. Ji gyveno į vakarus nuo Beržūnos iki pat Baltijos
-    jūros arba, atsiskyrusi nuo slavų giminės tautų, išplito
-    krašte, kuris šiandien sudaro Borisovo ir Vileikos apskri­
-    tis. Vėliau ji pasistūmėjo prie Neries žemupio ir dešiniuo­
-    ju Nemuno krantu nuo Neries žiočių pasiekė Dubysą, per
-    kurią persikėlusi turėjo po kurio laiko atsidurti Baltijos
-    jūros pakrantėje, nes, priešingu atveju, nebūtų galėjusi
-    taip lengvai patekti į Vakarų Europos kraštus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-088
-
-- c-074
-  santrauka: 'Teodoro Narbuto aprašyme po kurio laiko kryžiuočiai pastūmė Prūsijos sieną iki Nemuno žemupio.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tad pakalbėkime apie kiekvieną sritį atskirai.
-    245
-    Tikrosios Prūsijos siena ėjo Vyslos žemupiu, Baltijos
-    jūra ligi Nemunyno žiočių, paskui atsiribojo nuo Rusios
-    siena, kurią parodėme anksčiau (§ 223), net iki Širvintos
-    upės, vėliau žinoma siena su Mazovija, Michalovo ir Dob-
-    rynės žemėmis. Po kurio laiko kryžiuočiai pastūmė sieną
-    ligi Nemuno žemupio, o po 1436 metų susidarė dabartinė
-    siena su Žemaitija (§228).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-089
-
-- c-075
-  santrauka: 'Narbutas Nemuno slenksčiuose mini daugybę akmenų, daugiausia iš švediško granito.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šios uolienų nuolaužos ne visur vienodai nuklojo
-    žemės paviršių: vienur jų daugybė, kitur visiškai mažai ar­
-    ba apskritai nėra, dar kitur — ištisos lysvės, tarytum ak­
-    menys būtų iš visų kampų sunešti į vieną krūvą. Štai,
-    pavyzdžiui, Nemuno slenksčiuose matome daugybę akme­
-    nų, pradedant itališko riešuto dydžio ir baigiant milijono
-    pūdų svorio, visuomet iš švediško granito, su nedidele ki­
-    tų keturių rūšių priemaiša. Vadinasi, tai akivaizdžiai by­
-    loja, jog ši akmenų kruša būdavo daugiau ar mažiau tirš­
-    ta, su didesniais ar mažesniais tarpais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-090
+    - t-080
 
 ## Citatos
 
@@ -2885,8 +1321,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180387
     - t-180355
+    - t-180387
 
 - id: c-163966
   autorius: "Zenonas Ivinskis"
@@ -2946,8 +1382,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180386
     - t-180369
+    - t-180386
 
 - id: c-163969
   autorius: "Michał Baliński"
@@ -2994,15 +1430,17 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-163971
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 26"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kronikininkas šioje dalyje (kartais,
-    beje, ir anksčiau), neturėdamas tikslesnių įvykių datų, pasakojimą grindžia geografiniu
-    principu. Šiuo  principu  jis naudojasi, aprašydamas  Prūsijos žemių tarp Vyslos  ir
-    Nemuno nukariavimą. Retrospektyvinis požiūris  į įvykius ryškus tokiuose kronikininko
-    pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje,
-    paliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219).
+    Paprastai Dusburgietis pasakoja tik apie svarbiausius įvykius, turinčius apibendrinamąją
+    reikšmę. Pažymėjęs, kad kovų su pagudėnais „niekas nestengtų nė tiksliai aprašyti, nė
+    atpasakoti“ (III, 17), toliau pateikia kai kuriuos jų momentus. Pradėdamas kalbėti apie
+    Ordino pastangas užgrobti Sembą, jis pabrėžia, jog „daug karų buvo kariauta prieš
+    sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą
+    reikia pasakyti“ (III, 68), vėliau taip pat pažymi, kad „vargu ar kas įmanytų surašyti“,
+    o jei surašytų, tai „vargu ar kas patikėtų, kaip uoliai broliai puldinėjo sembus, norėdami
+    juos vėl pajungti krikščionių tikėjimui“ (III, 107).
+  citata_rodoma: "Kronikininkas šioje dalyje (kartais,\nbeje, ir anksčiau), neturėdamas tikslesnių įvykių datų, pasakojimą grindžia geografiniu\nprincipu. Šiuo  principu  jis naudojasi, aprašydamas  Prūsijos žemių tarp Vyslos  ir\nNemuno nukariavimą. Retrospektyvinis požiūris  į įvykius ryškus tokiuose kronikininko\npareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje,\npaliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3036,23 +1474,22 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180391
     - t-180344
+    - t-180391
 
 - id: c-163974
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 26"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nedaug jis, matyt, tikslesnių žinių turėjo apie nadruvių
     kovas, nes pažymėjo tik tiek, kad „daug kartų su Nadruvos žeme buvo vedami šlovingi
     karai, neaprašytini nė šioje knygoje, nes būtų be galo atkaru skyrium apie viską pasakoti“
     (III, 179). Aprašęs kai kurias kovas Skalvoje abipus Nemuno, kronikininkas pažymi, jog
     „daug karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną“ (III, 188).
-    Kalbėdamas apie Skomanto vadovaujamų sūduvių  ir lietuvių kariuomenės įsiveržimą
+    Kalbėdamas apie Skomanto vadovaujamų sūduvių ir lietuvių kariuomenės įsiveržimą
     į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis
-    dažniau įsibraudavo“  į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir
+    dažniau įsibraudavo“ į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir
     nuostolių, kad tai labai dažnai pasikartodavo (III, 192).
   statusas: verified
   teiginio_tipas: faktas
@@ -3090,21 +1527,18 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180393
     - t-180352
 
 - id: c-163976
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 187"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
+    Be to, jis patraukė į valsčių, vardu Vaikiai545, kur
     — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
-    sykių jis stojo prieš juos  į kovą. Trumpai kalbant, jis taip ryžtingai kariavo, kad per
+    sykių jis stojo prieš juos į kovą. Trumpai kalbant, jis taip ryžtingai kariavo, kad per
     šešerius metus, kada vadovavo šiai piliai, privertė visus lietuvius, gyvenusius Nemuno
     pakrantėje, nuo Neries upės iki Lamatos žemės546, laikytis taikos su krikščionimis, bet
-
     Lethovinorum rex), o toliau konstatuojama: Štai kraštai, kuriuose mes nustatėme taiką:
     iš mūsų pusės — Aukštaičių ir Žemaičių kraštas, Pskovas ir visi rusų [kraštai], kurie
     yra mūsų valdžioje (PUB, 2, 1, Nr. 418, p. 301; GL, Nr. 8, p. 69; popiežiaus bulės
@@ -3153,8 +1587,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180375
     - t-180368
+    - t-180375
 
 - id: c-163980
   redaktorius: "A. Šapoka"
@@ -3216,15 +1650,15 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-163983
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vysla — tai upė, atitekanti nuo
-    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
-    bei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,
-    o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
-    Lietuvos ir Kuršo187.
-      1236 m.
+    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
+    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
+    rankose, ji naudota kaip gyvulininkystės dvaras.
+    Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
+    e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
+    (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
+  citata_rodoma: "Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,\no prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,\nLietuvos ir Kuršo187.\n  1236 m."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3264,12 +1698,11 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-163986
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 54"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dusburgietis Nemuną vadina Memela (plg. 1243 m. flumen Memele — PUB, 1, 1, Nr.
     143), o Klaipėdos pilį — Memelburgk.
-      188 D. — terra Prussi[a]e, Jer.— Pruzinlant.
+    188  D. — terra Prussi[a]e, Jer.— Pruzinlant.
   citata_rodoma: "Dusburgietis Nemuną vadina Memela (plg. 1243 m. flumen Memele — PUB, 1, 1, Nr.\n143), o Klaipėdos pilį — Memelburgk."
   statusas: verified
   teiginio_tipas: faktas
@@ -3328,14 +1761,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-163992
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
     prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
@@ -3365,7 +1797,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180396
     - t-180348
     - t-180384
 
@@ -3394,14 +1825,12 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-163995
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
-
-       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
-    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
-    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
+    Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir
+    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose
+    Nemuno pusėse, ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
     yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
   statusas: verified
   teiginio_tipas: faktas
@@ -3478,20 +1907,22 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180400
     - t-180342
 
 - id: c-164001
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 54"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Į šiaurę nuo Nemuno žiočių, Minijos
-    žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
-    Lietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,
-    p. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,
-    žemėl.). Ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.
+    Pruzze, Pruze ir
+    pan. (MPKP, 1, p. 13—14). XII—XIII a. istoriniuose aktuose vardas dar nenusistovėjęs:
+    Pruzia (1141 m.—PUB, 1, 1, Nr. 2, p. 1; 1212 m.— Nr. 10, p. 7; 1222 m.— Nr. 41 A, p.
+    30), Pruscia (1210 m.— ten pat, Nr. 5, p. 4; 1216—1217 m.— Nr. 14, p. 10; 1218 m.—
+    Nr. 23, p. 17; 1222 m.— Nr. 41 B, p. 27; 1226 m.— Nr. 56, p. 42; 1243 m.— Nr. 143, p.
+    108), Prussia (1212 m..— ten pat, Nr. 6, p. 5; Nr. 7, p. 6; 1224 m.— Nr. 52, p. 38), Prutia
+    (1216 m.—ten pat, Nr. 9, p. 7; 1222 m.— Nr. 41, p. 28), Prusia (1223 m,— ten pat, Nr.
+    46, p. 34; 1230 m.— Nr. 75, p. 56), Prucia (1228 m.— ten pat, Nr. 67, p. 49—50).
+  citata_rodoma: "Į šiaurę nuo Nemuno žiočių, Minijos\nžemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.\nLietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,\np. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,\nžemėl.). Ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3525,24 +1956,18 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-164003
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 208"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie šio laivo sudeginimą 1313 metais
-
-      Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa
-    Lietuva; ilgai taręsi  ir visaip svarstę, kaip  jį sunaikinti, galop pasiuntė kilmingą bei
+    Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa
+    Lietuva; ilgai taręsi ir visaip svarstę, kaip jį sunaikinti, galop pasiuntė kilmingą bei
     karingą vyrą Surminą su šimtu laivų, kuriuose buvo šeši šimtai ar daugiau vyrų, ir šimtą
     raitelių; kai jie užpuolė laivą, jame buvę 4 šauliai, palikti jo saugoti, pradėjo drąsiai
     gintis. Galop, nukirtus virvę, kuria buvo pririštas, laivas nuplaukė Nemunu žemyn; jį,
     pasroviui plaukiantį, lietuviai taip smarkiai užpuolė, kad, nors ir daug jų buvo sužeista,
     o Skaldonis, minėtojo Surmino brolis, užmuštas, paėmė laivą ir, nužudę 4 lankininkus,
     jį pavertė pelenais568.
-
-
-
-
-                319 (312).
+    319 (312).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3571,8 +1996,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-164005
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 207-208"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 207-208."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     37).
 
@@ -3631,8 +2055,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180407
     - t-180405
+    - t-180407
 
 - id: c-164011
   autorius: "Michał Baliński"
@@ -3679,20 +2103,23 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-164018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 5"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
-    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
-    feodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,
-    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
-    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
-    kovą prieš agresiją.
-      Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
+    Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
     sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
-    viduramžiais  į Rytus, atskleidžia tos agresijos esmę  ir jos vykdytojų katalikišką
-    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių  ir bažnytinių
+    viduramžiais į Rytus, atskleidžia tos agresijos esmę ir jos vykdytojų katalikišką
+    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių ir bažnytinių
     feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
+    Kronika teikia medžiagos kovai su socialistinėms šalims priešiška revanšistine
+    ideologija, kuri dabartinėje epochoje tęsia viduramžių vokiečių feodalų agresijos
+    prieš Rytų Europos tautas tradicijas.
+    Dėl unikalių žinių apie vakarų baltų ir lietuvių politinę, socialinę, ūkio ir kultūros
+    istoriją gausumo Petro iš Dusburgo kronika yra nepakeičiamai svarbi baltistikos,
+    lituanistikos mokslui.
+    Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius
+    Torunės, Karaliaučiaus, Berlyno ir kt. nuorašus parengė ir 1861 m. „Scriptores
+    rerum Prussicarum“ serijoje paskelbė M. Tepenas.
+  citata_rodoma: "Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui\nir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių\nfeodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,\nniokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,\nNevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės\nkovą prieš agresiją.\n  Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių\nsluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi\nviduramžiais  į Rytus, atskleidžia tos agresijos esmę  ir jos vykdytojų katalikišką\nfanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių  ir bažnytinių\nfeodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3703,8 +2130,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-164019
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pilis buvusi pastatyta aukštame Nemuno krante (žr. D. III, 182). 1289 m. toje vietoje
     Ordinas pastatė pirmąją Ragainės pilį (žr. D. III, 235; HE, p. 126; С V, t. 34, p. 106—
@@ -3719,16 +2145,18 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-164026
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 17"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
-    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
-    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv.
-    kryžiaus ženklu, Jėzaus Kristaus padedami, sėkmingai prasiveržė pro didžiulę lietuvių
-    kariuomenę (III, 251). Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
+    Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
     vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
-    globojo, kai traukė per ploną Kuršių marių ledą (III, 285).
+    globojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės
+    globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
+    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333). Tai
+    jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
+    pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
+    Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos
+    einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė
+    Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87).
   citata_rodoma: "kryžiaus ženklu, Jėzaus Kristaus padedami, sėkmingai prasiveržė pro didžiulę lietuvių\nkariuomenę (III, 251). Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,\nvidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos\nglobojo, kai traukė per ploną Kuršių marių ledą (III, 285)."
   statusas: verified
   teiginio_tipas: faktas
@@ -3794,33 +2222,29 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     Nemuno. Lietuvai atėjo pačios sunkiausios dienos, kokių ji iki tol
     nebuvo patyrusi.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184393
-
 - id: c-168427
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 61"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 61."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Valdęs
-    valstybę
-    ilgus metus, Palemonas pa­
-    sitraukė iš šio pasaulio, palikdamas tris sūnus, tinka­
-    mus valdyti. Tėvui mirus, sū­
-    nūs šitaip pasiskirstė žemes:
-    Barkus, į Nemuną įtekančios
-    Jūros žiotyse pasistatęs Jur­
-    barko pilį, gavo valdyti tą
-    Žemaitijos dalį (mat Žemai­
-    tija jau buvo prisijungusi prie Lietuvos), kuri plyti
-    nuo Jūros ir Nemuno ligi Kuršių įlankos. Kūno, arba
-    Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
-    sa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu)
-    Nerimi.
+    Spera, trečiasis sūnus, nu­
+    keliavęs gerokai į rytus, valdė žemes tarp Nevėžio,
+    Šventosios ir Širvintos upių, pastatė prie didžiulio eže­
+    ro pilį. Vieta ir dabar nuo įkūrėjo vardo Spera vadi­
+    nama. Taip pat Julijonas Dausprungas prie Švento­
+    sios upės ant kalno, labaf patogioje vietoje, pastatė
+    pilį, kurią tenykščių žmonių kalba vadiname Vilkmer­
+    ge, o netoli tos vietos padėjo pamatus kitai piliai ir ją
+    pavadino Dzievaltovija4, t. y. dievo valda, dėl to ir
+    pats savo tautiečių buvo pavadintas Dzievaltovijos
+    kunigaikščiu. Tėvui mirus, aukščiausią valdžią valsty­
+    bėje ir pagal amžių, ir pagal visų valią paveldėjo Bar­
+    kus; kadangi pats mirė bevaikis, tai valdžia atiteko
+  citata_rodoma: "Valdęs\nvalstybę\nilgus metus, Palemonas pa­\nsitraukė iš šio pasaulio, palikdamas tris sūnus, tinka­\nmus valdyti. Tėvui mirus, sū­\nnūs šitaip pasiskirstė žemes:\nBarkus, į Nemuną įtekančios\nJūros žiotyse pasistatęs Jur­\nbarko pilį, gavo valdyti tą\nŽemaitijos dalį (mat Žemai­\ntija jau buvo prisijungusi prie Lietuvos), kuri plyti\nnuo Jūros ir Nemuno ligi Kuršių įlankos. Kūno, arba\nKūnasijaus, valstybė buvo ribojama Nemunu, Duby­\nsa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu)\nNerimi."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3831,8 +2255,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-168428
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 61"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 61."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kūno, arba
     Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
@@ -3853,20 +2276,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Taigi kai lietuviai įrudenėjus buvo užsi­
-    ėmę žygiu į Sandomirą, kryžiuočiai, stojus žiemai, kai
-    v q
-    L ietu vis P elužis k u rs­
-    to p rū su s p rieš Lietu-
-    neapsirinku spėliodamas, su­
-    kurstyti Pelužio. Mat šis, ki­
-    lęs iš Lietuvos didžiųjų ku­
-    nigaikščių, Treniotos ar Dau­
-    manto sūnus, persekiojamas
-    157
-
-    ## Puslapis 156
-
     L ie tu v a
     n io k o ja m a
     k ry žiu o č ių
@@ -3874,7 +2283,14 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     vai persikelti ledu, įsiveržė
     į Lietuvą vedami magistro
     Konrado fon Tirbergo. Ka­
-    riuomenė žygiavo dviem voromis.
+    riuomenė žygiavo dviem voromis. Pirmoji apsupo Bi-
+    senės pilį ir po kovos, trukusios nuo Aušros ligi vi­
+    durdienio, užėmė ją bei sudegino; kita vora nuniokojo
+    aplinkines žemes, tačiau, traukdami atgal, patyrė di­
+    delių nuostolių, nes Nemuno ledas, nepakankamai tuo
+    metu tvirtas, neatlaikė jų svorio ir nemaža dalis ka­
+    riuomenės bei grobio paskendo verpetuose.
+  citata_rodoma: "Taigi kai lietuviai įrudenėjus buvo užsi­\nėmę žygiu į Sandomirą, kryžiuočiai, stojus žiemai, kai\nv q\nL ietu vis P elužis k u rs­\nto p rū su s p rieš Lietu-\nneapsirinku spėliodamas, su­\nkurstyti Pelužio. Mat šis, ki­\nlęs iš Lietuvos didžiųjų ku­\nnigaikščių, Treniotos ar Dau­\nmanto sūnus, persekiojamas\n157\n\n## Puslapis 156\n\nL ie tu v a\nn io k o ja m a\nk ry žiu o č ių\nužšalęs Nemunas leido- leng­\nvai persikelti ledu, įsiveržė\nį Lietuvą vedami magistro\nKonrado fon Tirbergo. Ka­\nriuomenė žygiavo dviem voromis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3885,11 +2301,9 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-168430
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 156"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ka­
-    riuomenė žygiavo dviem voromis. Pirmoji apsupo Bi-
+    Pirmoji apsupo Bi-
     senės pilį ir po kovos, trukusios nuo Aušros ligi vi­
     durdienio, užėmė ją bei sudegino; kita vora nuniokojo
     aplinkines žemes, tačiau, traukdami atgal, patyrė di­
@@ -3897,7 +2311,16 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     metu tvirtas, neatlaikė jų svorio ir nemaža dalis ka­
     riuomenės bei grobio paskendo verpetuose. Ramiai
     praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
-    ji susirėmimai.
+    ji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,
+    netikėtai patraukė su prūsų kariais Gardino kryptimi.
+    Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
+    įgulą, sugriovė arba sudegino visus įtvirtinimus; du
+    tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
+    didžiulį grobį. Tuo tarpu keletas kitų lietuvių būrių
+    niokojo Lenkijos pasienius, grįždami jie pateko į prie­
+    šų pasalas, ir tuo metu, kai namai, regis, buvo ranka
+    pasiekiami, šie juos išžudė.
+  citata_rodoma: "Ka­\nriuomenė žygiavo dviem voromis. Pirmoji apsupo Bi-\nsenės pilį ir po kovos, trukusios nuo Aušros ligi vi­\ndurdienio, užėmė ją bei sudegino; kita vora nuniokojo\naplinkines žemes, tačiau, traukdami atgal, patyrė di­\ndelių nuostolių, nes Nemuno ledas, nepakankamai tuo\nmetu tvirtas, neatlaikė jų svorio ir nemaža dalis ka­\nriuomenės bei grobio paskendo verpetuose. Ramiai\npraslinkus pavasariui, vasaros pradžioje prasidėjo nau­\nji susirėmimai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3908,20 +2331,27 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-168431
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 161"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 161."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Už žalą, padarytą per šį niokojamą iš­
-    puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
-    kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­
-    są laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu
-    kariaudami, smogė nemažai stiprių smūgių. Pirmiausia
+    Pirmiausia
     ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
     balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
     Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
     tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
     niokoti, o du tūkstančiai pėstininkų atkakliai puolė
-    apsuptą pilį.
+    apsuptą pilį. Gynė ją šimtas dvidešimt raitelių, vado­
+    vaujamų Surmino, ryžtingo ir prityrusio vyro; narsiai
+    ir ilgai pilies įgula atmušinėjo priešų antpuolius, ne­
+    leisdama jiems be nuostolių supti tvirtovės, mat atvi­
+    rame lauke šie buvo nesunkiai sužeidžiami ietimis ir
+    strėlėmis; kadangi įgula buvo nedidelė, o priešas, pul­
+    damas iš visų pusių, nepaliauj amai sekino menkas jė­
+    gas, vos ne vos įstengiančias vienu metu užstoti visą
+    gynybinę sieną, lietuviai patyrė didelių nuostolių; kai
+    vos dvylika jų liko nesužeistų, pilėnams iškilo baisus
+    pavojus, tačiau netikėta priešų klaida pakeitė padėtį,
+    tokią, rodos, beviltišką.
+  citata_rodoma: "Už žalą, padarytą per šį niokojamą iš­\npuolį Sembai, lietuviams buvo atsilyginta kitais ir dar\nkokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­\nsą laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu\nkariaudami, smogė nemažai stiprių smūgių. Pirmiausia\nėmėsi kariauti Meinhardas, Prūsijos magistras, apie\nbalandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos\nNemuno pakrantėje esančią Lietuvos pilį. Penki šim­\ntai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų\nniokoti, o du tūkstančiai pėstininkų atkakliai puolė\napsuptą pilį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3932,8 +2362,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-168432
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 323"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 323."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kiek kartų kareiviai puolė pylimą, tiek kartų buvo at­
     stumti, ypač nepaprastą narsumą rodė lenkų pėstinin­
@@ -3943,7 +2372,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     už vienos mylios, ir pastatė čia naujas pilis. Dviejose
     salose, Naujojoje ir Riterių, pavadintose Nojerverde-
     riu ir Ritersverderiu, kryžiuo-
-    Stato L ie tu v o je  паи-
+    Stato L ie tu v o je паи-
     čiai paliko savo įgulą, o tre­
     jas pilis
     čiojoje, vadinamoje Marien­
@@ -3956,38 +2385,16 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-185071
 
-- id: c-168433
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 583"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
-  citata_originali: |
-    Tuo metu ten
-    susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
-    kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
-    kėlėjus. Gavę žinią apie skitų antplūdį, vieni, vadovau­
-    jami Naugarduko vaivados Alberto Goštauto, subruz­
-    do ginti pilies, o kiti pasitraukė už Nemuno. Priešas,
-    įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
-    teliams vytis bėgančiuosius, o su kitais apgulė pilį.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185072
-
 - id: c-170572
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 52"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O Grigorijus buvo šven­
     tasis, kokio iki jo nėra buvę ir daugiau nebebus.
     Vaišvilkas negalėjo pasiekti Šventojo Kalno, nesgi
     anuose kraštuose tuomet buvo didelis sąmyšis. Ir par­
-    keliavo jis atgal j Naugarduką, ir įkūrė6  <sau vienuo­
+    keliavo jis atgal j Naugarduką, ir įkūrė6 <sau vienuo­
     lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
     ir gyveno tenai.
   statusas: verified
@@ -4000,12 +2407,11 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-171667
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Man sakė, kad Karaliaučiuje
     buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­
-    das žirgas, o ant jo -  juodas gaidys.
+    das žirgas, o ant jo - juodas gaidys.
     1809 metais Marijampolės apskrityje, netoli nuo kairiojo
     Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
     liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil­
@@ -4027,14 +2433,14 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
-    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
-    125
-
-    ## Puslapis 125
-
-    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
-    nedailaus, bet labai patvaraus gipso.
+    Malone brangiu del žmonių:
+    Ture auxin kajb irplite,
+    Ture pilnu rugiu kloniu,
+    Garbe ture manip mundu9.
+    Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
+    rųjų reiškia storulį, perkeltine prasme - turčių. Iš čia Pilwitos,
+    kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę.
+  citata_rodoma: "Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­\nme, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­\n125\n\n## Puslapis 125\n\nko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš\nnedailaus, bet labai patvaraus gipso."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -4045,8 +2451,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-171669
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Skaityk žemiau atitinkamus straipsnius.
     Ji turėjo savo šventyklą vietovėje, kuri iki šiol tebesivadina
@@ -4062,15 +2467,14 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-171670
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 139"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
     ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
     namų Kronie. Už Tilžės, žemiau Vingio (Winge) dvaro, prie
-    Sancinės, kur Nemunas išsišakoja į dvi atšakas -  Giliją ir Rus­
+    Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­
     nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­
-    kalnis, vietinių vadinamas Kroniszkas -  Pilnis, tai yra Kruonio
+    kalnis, vietinių vadinamas Kroniszkas - Pilnis, tai yra Kruonio
     (Kronu) pilimi. Ties Prienais, kur Nemunas daro pusračio vingį,
     pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
     Kronu).
@@ -4084,14 +2488,15 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-171671
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 143"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 143."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
-    tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
-    žiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise
-    vadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­
-    vieną šventę, ypač per šv.
+    Senė, vadinama Upine, tomis apei­
+    gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
+    domosios galios. Kai Vilkijos seniūnas Zabiela uždraudė tuos
+    kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
+    šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
+    ris dėl to iki šiol neprarado gydomojo poveikio.
+  citata_rodoma: "Man pasisekė toks tyrimas. Kairiajame Nemuno krante,\ntarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­\nžiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise\nvadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­\nvieną šventę, ypač per šv."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -4102,8 +2507,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-171672
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 220"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Siek tiek pasistūmėję upe
     aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
@@ -4125,18 +2529,20 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-171673
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Si ket­
-    virta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­
-    vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
-    arba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­
-    ja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno
-    atšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė). Pa­
-    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
-    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
-    pačiu šventu vardu Ross.
+    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
+    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
+    liaudies padavimų.
+    1.
+    Upė, tekanti pro Ukmergę, įteka į Nerį jos dešiniajame
+    krante, aukščiau Jonavos, ir vadinasi Šventoji (Swięta). Nieko
+    verta nuomonė, jog upė turinti tokį vardą dėl to, kad jos van­
+    deniu buvo krikštijami lietuviai, kai Jogaila visus atvertė. Mat
+    vietos padavimai įtikina, kad tą vandenį senoji religija laikė
+    šventu, todėl krikščionių kunigai jį ir vartojo, o gal net pačią
+    upę, kad sutrauktų prie jos krantų žmones krikštui.
+  citata_rodoma: "Si ket­\nvirta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­\nvių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,\narba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­\nja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno\natšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė). Pa­\ngaliau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­\nkančios per jų svarbiausias sodybas, būdavo praminamos tuo\npačiu šventu vardu Ross."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -4147,8 +2553,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-171674
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 300"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 300."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     33 Viename liaudies padavime pasakojama: šventa mergelė (vai­
     dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
@@ -4173,14 +2578,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-171675
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 304"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 304."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Anksčiau sakėme, kad žyniai stebėdavo dangaus kūnų ju­
     dėjimą, norėdami padalyti laiką į atkarpas, bet kadangi su jų
     padėtimi pynėsi mitologija, tai turėjo būti žinomas ir pranaša­
     vimas iš žvaigždžių; kaip tik todėl liaudies padavimuose žodis
-    žvaigždininkas (Zwajždinikas) -  astronomas -  turi tą pačią
+    žvaigždininkas (Zwajždinikas) - astronomas - turi tą pačią
     prasmę kaip juodaknygininkas (Juodukniginikas).
     Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
     sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
@@ -4197,8 +2601,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-171676
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 362"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 362."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pas mus, remiantis kitu šaltiniu
     tikriausiai iš kitos Lietuvos dalies, aptiktas ankstesnis pastebėji­
@@ -4216,8 +2619,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-171677
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 366"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 366."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šiuo atveju, kadangi tokių atsitikimų dažniausiai
     pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
@@ -4235,44 +2637,23 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-188788
 
-- id: c-171678
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Musa dieniszku mausu dod mums szoden, unpedod muns
-    musu paradus, ka mes pedodam musum paradukam; un ne wed
-    mus kierdi na szane, bet pestino ta launa.
-    Lietuvių kalba, vartojama Prūsijoje, Nemuno žemupyje; imta
-    iš Hartknocho (ten pat):
-    15. 93
-    449
-
-    ## Puslapis 449
-
-    Tewe musu, kuris essi dangui; te essie Swanczamas wardas
-    tawo; te atejg tawo karaliste; te nusi dode tawo walle kaip dau­
-    giu tejp ir ant žemes.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188789
-
 - id: c-173538
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    452
-
-    ## Puslapis 452
-
-    kaip ir Karalių miestas su visais priemiesčiais. Arčiausiai jo yra
-    Gardinas, išsidėstęs prie Krono upės, dabar Nemunu vadina­
-    mos. Jis pastatytas iš dalies ant kalvos, o iš dalies slėnyje, kaip
-    įprasta tame krašte.
+    Jeronimas įtikino, kad tai apgavystė, sugriovė
+    šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­
+    liaudamas toliau, atrado saulės garbintojus; jie ypač garbino
+    didžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­
+    mas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,
+    kadangi vienas galingas karalius pagrobęs ją laikė uždarytą
+    tvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo
+    didžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­
+    gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
+    tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
+    no paviete, kur lietuviai gyvena, ir Trakų.
+  citata_rodoma: "452\n\n## Puslapis 452\n\nkaip ir Karalių miestas su visais priemiesčiais. Arčiausiai jo yra\nGardinas, išsidėstęs prie Krono upės, dabar Nemunu vadina­\nmos. Jis pastatytas iš dalies ant kalvos, o iš dalies slėnyje, kaip\nįprasta tame krašte."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -4283,16 +2664,16 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-173539
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 452"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 452."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taip pastatomas bokštas, turintis varpą, reika­
-    lingą bažnytinėms apeigoms. Tokiu pačiu būdu buvo pastatyti ir
-    stulpai, ant kurių remiasi medinis tiltas, jungiantis abu Nemuno
-    krantus*.
-    „Keistas dalykas, kaip smarkiai tarp miestų gyventojų ir
-    visoje Lietuvoje buvo paplitęs prietaringas netikrų dievų gar­
-    binimas, kol ji priėmė Kristaus tikėjimą ir jo garbinimą.
+    žindamas pasauliui; todėl vertas garbinti įrankis, kuris padėjo
+    mirtingiesiems atgauti šviesą. Jeronimas pasijuokė iš jų nai­
+    vumo ir parodė, kad tai tuščios pasakos; įtikino, kad saulė,
+    mėnuo ir žvaigždės yra Dievo kūriniai, kuriais aukščiausiasis
+    Dievas papuošė dangų ir įsakė jiems amžinai šviesti žmonėms.
+    Paskui aptiko šventąjį mišką; kuris jo medis buvo didesnis, tas
+    buvo laikomas labiau garbintinas.
+  citata_rodoma: "Taip pastatomas bokštas, turintis varpą, reika­\nlingą bažnytinėms apeigoms. Tokiu pačiu būdu buvo pastatyti ir\nstulpai, ant kurių remiasi medinis tiltas, jungiantis abu Nemuno\nkrantus*.\n„Keistas dalykas, kaip smarkiai tarp miestų gyventojų ir\nvisoje Lietuvoje buvo paplitęs prietaringas netikrų dievų gar­\nbinimas, kol ji priėmė Kristaus tikėjimą ir jo garbinimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -4303,8 +2684,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-175474
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Keliaudami Dnąpro keliu šiek tiek aukštyn, šiandienio
     Lojovo, arba Lojovo Grodeko, apylinkėse turėjo užeiti pir­
@@ -4324,29 +2704,31 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-175475
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 211"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Dionyzas iš Charakso, imperatoriaus Oktaviano
-    Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi
-    upes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,
-    jungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be
+    Tai, be
     abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
     tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
     nės sutampa. Sis geografas pastarosios aukštupyje kuo
-    aiškiausiai apgyvendina gelonų tautą2.
+    aiškiausiai apgyvendina gelonų tautą2. Naruševičius taip
+    pat patvirtina tai daugelyje savo darbų3. Pats Ptolemėjas,
+    kuris šį sykį mini toje žemėje gyvenančią igelonų tautą,
+    1 Zelva — lietuviškas pavadinimas — taip pat kartojasi ne
+    vienoje vietoje. Mes nesigilinsime į upių pavadinimų etimologinį ty­
+    rimą, nes tai mus nuvestų toli nuo pageidaujamo trumpumo; tai pa­
+    liekame lietuvių kalbos ir jos ištakų tyrinėtojams.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192705
+    - t-197901
 
 - id: c-175476
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 214"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad Nemuno žemupio pakrantes visų pirma de­
     ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
@@ -4367,15 +2749,19 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-175477
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 248."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tam tikrą
-    šios žemės dalį skandinavai vadino Reithgothland. Sis
-    pavadinimas kildinamas1 iš senovės germanų žodžio
-    Rieth, Ried, Reiih, ir reiškia žemą kraštą, miškingą že­
-    mumą. Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios
-    pakrantės ligi Dauguvos žemupio.
+    Tokios nuomonės yra
+    visi senovės tyrinėtojai, išskyrus Depingą, kuris be jokių
+    pagrįstų įrodymų priskiria jam čia ir Pavyslę1 2. Jame sa­
+    vo valdymą plėtė gotai, todėl kraštas ir buvo vadinamas
+    Gotija su būdvardžiu, reiškiančiu krašto gamtos savybę.
+    Pirmiausia šis pavadinimas buvo taikomas tiesiog Že­
+    maitijai, o .vėliau, didėjant skandinavų agresijai, pamažu
+    perėjo į kairiąją Nemuno pakrantę Vyslos link, taip pat
+    į kairiąją Vyslos pakrantę ir kitapus Oderio net ligi Vag-
+    rijos3.
+  citata_rodoma: "Tam tikrą\nšios žemės dalį skandinavai vadino Reithgothland. Sis\npavadinimas kildinamas1 iš senovės germanų žodžio\nRieth, Ried, Reiih, ir reiškia žemą kraštą, miškingą že­\nmumą. Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios\npakrantės ligi Dauguvos žemupio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -4386,8 +2772,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-175478
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 249"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 249."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nekyla abejonių, jog priešistoriniais taikais egzistavo
     vilkų, Wilkow, tauta, kurios vardas buvo įvairiai iškrai­
@@ -4409,8 +2794,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-175479
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 252"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 252."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad pakalbėkime apie kiekvieną sritį atskirai.
     245
@@ -4431,25 +2815,98 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - id: c-175480
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 401"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 401."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šios uolienų nuolaužos ne visur vienodai nuklojo
+    Jų visuomet daugiau ir
+    masyvesnių būva kalnų papėdėse, tose vietose, kur yra jų
+    svorio centrą atitinkantis pagrindas. Taigi matyti, jog
+    akmenys lengvai krito nuo kalnų paraboline metimo kryp­
+    timi. Šios uolienų nuolaužos ne visur vienodai nuklojo
     žemės paviršių: vienur jų daugybė, kitur visiškai mažai ar­
     ba apskritai nėra, dar kitur — ištisos lysvės, tarytum ak­
     menys būtų iš visų kampų sunešti į vieną krūvą. Štai,
     pavyzdžiui, Nemuno slenksčiuose matome daugybę akme­
     nų, pradedant itališko riešuto dydžio ir baigiant milijono
     pūdų svorio, visuomet iš švediško granito, su nedidele ki­
-    tų keturių rūšių priemaiša. Vadinasi, tai akivaizdžiai by­
-    loja, jog ši akmenų kruša būdavo daugiau ar mažiau tirš­
-    ta, su didesniais ar mažesniais tarpais.
+    tų keturių rūšių priemaiša.
+  citata_rodoma: "Šios uolienų nuolaužos ne visur vienodai nuklojo\nžemės paviršių: vienur jų daugybė, kitur visiškai mažai ar­\nba apskritai nėra, dar kitur — ištisos lysvės, tarytum ak­\nmenys būtų iš visų kampų sunešti į vieną krūvą. Štai,\npavyzdžiui, Nemuno slenksčiuose matome daugybę akme­\nnų, pradedant itališko riešuto dydžio ir baigiant milijono\npūdų svorio, visuomet iš švediško granito, su nedidele ki­\ntų keturių rūšių priemaiša. Vadinasi, tai akivaizdžiai by­\nloja, jog ši akmenų kruša būdavo daugiau ar mažiau tirš­\nta, su didesniais ar mažesniais tarpais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192710
+
+- id: c-179050
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
+    feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
+    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
+    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
+    kovą prieš agresiją.
+    Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
+    sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
+    viduramžiais į Rytus, atskleidžia tos agresijos esmę ir jos vykdytojų katalikišką
+    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių ir bažnytinių
+    feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
+    Kronika teikia medžiagos kovai su socialistinėms šalims priešiška revanšistine
+    ideologija, kuri dabartinėje epochoje tęsia viduramžių vokiečių feodalų agresijos
+    prieš Rytų Europos tautas tradicijas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197177
+
+- id: c-179388
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Il­
+    gai nedelsdami, jie perėjo smėlėtas Nemuno pakrantes,
+    plytinčias žemiau Sčiaros žiočių, ir, tik persikėlę kitapus
+    Želvos upės1 į jos kairįjį krantą, šiandien Jaiblonovo apy­
+    linkės, pateko į žemes, kurias pagal tuometinį derlingumą
+    galima buvo šiek tiek lyginti su Ukrainos žemėmis. Čia
+    atsivėrė vietovė, kur galima buvo saugiai įsikurti prie
+    upės, plukdančios savo vandenis per gražias apylinkes;
+    ji dar ir šiandien bėga per tankiausiai gyvenamas, gra­
+    žiausias ir derlingiausias Volkovysko apskrities apylinkes.
+    Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar
+    išliko visiškai nepakitęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197900
+
+- id: c-179389
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Taigi matyti, jog
+    akmenys lengvai krito nuo kalnų paraboline metimo kryp­
+    timi. Šios uolienų nuolaužos ne visur vienodai nuklojo
+    žemės paviršių: vienur jų daugybė, kitur visiškai mažai ar­
+    ba apskritai nėra, dar kitur — ištisos lysvės, tarytum ak­
+    menys būtų iš visų kampų sunešti į vieną krūvą. Štai,
+    pavyzdžiui, Nemuno slenksčiuose matome daugybę akme­
+    nų, pradedant itališko riešuto dydžio ir baigiant milijono
+    pūdų svorio, visuomet iš švediško granito, su nedidele ki­
+    tų keturių rūšių priemaiša.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197902
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

@@ -40,38 +40,19 @@ media_all_json: |-
   teiginys: "A. Brücknerio „Starožytna Litwa: ludy i bogi“ nurodoma kaip 1904 m. Varšuvoje išleisti istoriniai ir mitologiniai eskizai."
   pagrindžia:
     - c-170968
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Brücknerio „Starožytna Litwa: ludy i bogi“ nurodoma kaip 1904 m. Varšuvoje išleisti istoriniai ir mitologiniai eskizai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pozityvistų įdiegtas lietuvių mitologijos supratimas išsilai­
-    kė vos ne iki pat šių dienų, o T. Narbuto autoritetas beveik
-    visai buvo sugriautas, nors kaip prieš juos, taip ir po jų pasitai­
-    34 Brückner A. Starožytna Litwa: ludy i bogi. Szkice historyczne i
-    mitologiczne. -  Warszawa, 1904. -  S. 18-21.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-170968
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 41."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pozityvistų įdiegtas lietuvių mitologijos supratimas išsilai­
     kė vos ne iki pat šių dienų, o T. Narbuto autoritetas beveik
     visai buvo sugriautas, nors kaip prieš juos, taip ir po jų pasitai­
     34 Brückner A. Starožytna Litwa: ludy i bogi. Szkice historyczne i
-    mitologiczne. -  Warszawa, 1904. -  S. 18-21.
+    mitologiczne. - Warszawa, 1904. - S. 18-21.
   citata_rodoma: "Pozityvistų įdiegtas lietuvių mitologijos supratimas išsilai­\nkė vos ne iki pat šių dienų, o T. Narbuto autoritetas beveik\nvisai buvo sugriautas, nors kaip prieš juos, taip ir po jų pasitai­\n34 Brückner A. Starožytna Litwa: ludy i bogi. Szkice historyczne i\nmitologiczne. -  Warszawa, 1904. -  S. 18-21."
   statusas: verified
   teiginio_tipas: faktas

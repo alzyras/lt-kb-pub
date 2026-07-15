@@ -52,25 +52,6 @@ Nenurodyta
   teiginys: "Kovo 27 d. ties Surviliškio valsčiaus Naujaberžės kaimu A. Mackevičiaus sukilėliai atlaikė barono Dellingsgauzeno vadovaujamo dalinio puolimą."
   pagrindžia:
     - c-44919
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    A. Mackevičius sutelkė kovai 150 dalgiais
-    ir šautuvais ginkluotų vyrų. Kovo 27 d. ties
-    Surviliškio valsčiaus Naujaberžės kaimu
-    A. Mackevičiaus sukilėliams pavyko atlai-
-    kyti Narvos pėstininkų pulko vado barono
-    Dellingsgauzeno vadovaujamo dalinio
-    puolimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

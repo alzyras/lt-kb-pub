@@ -43,27 +43,6 @@ media_all_json: |-
   teiginys: "Bronius Liesis-Naktis žuvo 1949 m. rugpjūčio 13 d., kai Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas."
   pagrindžia:
     - c-41303
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bronius Liesis-Naktis žuvo 1949 m. rugpjūčio 13 d., kai Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1949 m. rugpjūčio 13 d. Radviliškio r.
-    Užpelkių miške sunaikintas Prisikėlimo
-    apygardos štabas. Žuvo LLKS tarybos pre-
-    zidiumo nariai Petras Bartkus-Žadgaila
-    (Prisikėlimo apygardos vadas) ir Bronius
-    Liesis-Naktis, Prisikėlimo apygardos
-    štabo viršininkas Vytautas Šniuolis-Svajū-
-    nas ir dar trys neatpažinti partizanai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -42,20 +42,6 @@ Smolka, St„ Szkice historyczne.
   teiginys: "St. Smolkos „Szkice historyczne“ pirmoji serija buvo išleista Varšuvoje 1882 m."
   pagrindžia:
     - c-38435
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Smolka, St„ Szkice historyczne. Warszawa, 1882, ser. I.
-    Sokolovski, Dr. Pr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

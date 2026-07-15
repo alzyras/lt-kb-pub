@@ -71,48 +71,6 @@ Nenurodyta
   teiginys: "Ženevoje Tautų Sąjungos Taryba rezoliucija patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra."
   pagrindžia:
     - c-95080
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lenkijai ėmusis sankcijų prieš Vilniaus krašto lietuvių organizacijas, 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų Sąjungos Tarybai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.
-    Lenkija suprato šią taktiką ir, siekdama padaryti Lietuvą sukalbames-
-    nę, ėmėsi ekonominių ir kultūrinių sankcijų prieš Vilniaus krašto lietuvių
-    organizacijas. Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
-    Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
-    šaukusi karo padėties su Lenkija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Ženevoje Tautų Sąjungos Taryba patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Roger Viollet nuotrauka)
-
-    L I E T U V O S  I S T O R I J A
-    160
-    išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
-    nėra. Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp
-    abiejų valstybių pavadino jau ne „demarkacijos linija“, o „administraci-
-    ne linija“, bet ne „siena“, kaip norėjo lietuviai. Abi šalys tokius rezultatus
-    Ženevoje laikė pergale, o grįžęs į Kauną Karininkų ramovėje ir per radiją
-    A.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
 
 ## Citatos
 
@@ -155,5 +113,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101533
     - t-101532
+    - t-101533

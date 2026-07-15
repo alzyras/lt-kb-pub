@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "1401 m. kovo viduryje Žemaičiuose prasidėjo sukilimas, o apie keturis tūkstančius pabėgusiųjų nebuvo grąžinti."
   pagrindžia:
     - c-31404
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1401 m. kovo viduryje Žemaičiuose prasidėjo sukilimas, o apie keturis tūkstančius pabėgusiųjų nebuvo grąžinti.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pabėgusieji, kurių buvo skaičiuojama apie
-    keturis tūkstančius, nebuvo grąžinti, o pačiuose Žemaičiuose 1401
-    m. ankstybą pavasarį (kovo viduryje) prasidėjo sukilimas. Ordinas
-    tuojau kaltino, kad pats Vytautas esąs Žemaičius sukurstęs, ir šitaip
-    įvykdęs naują «išdavystę »^22.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

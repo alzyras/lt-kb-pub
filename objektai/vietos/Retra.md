@@ -38,7 +38,6 @@ Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie
 - susijęs iš [[objektai/asmenys/Jonas Potockis.md#claim-t-190071|Jonas Potockis]]: Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus.
 - susijęs iš Prilvicas: Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir laikė Retrą pirmykščiu herulų miestu.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie Prilvico kaimo netoli Penclino Meklenburge.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -63,16 +62,17 @@ Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie
 - id: c-171855
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 264"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 264."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
-    dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
-    giją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir
-    puošė dievų statulomis. Neabejotina, kad Retra iš karto buvo
-    lierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-
-    l<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­
-    nanti prabangumu tas beveik dar laukines Europos šalis.
+    Bet manęs toks aiškinimas netenkina, todėl slavų senienų
+    tyrinėtojų dėmesį atkreipiau į žodį „Kontyna “. Aš pats piliečių sutarty­
+    se, parašytose Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog „Konty­
+    na “, „ Коптина“ - tai ypatingos konstrukcijos skrynia, skirta laikyti
+    stalo sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis. Si
+    skrynia būdavo naudojama ir kelionėms daiktams, ginklams susidėti;
+    tai buvo pačių vertingiausių daiktų saugykla (хранилище). Taigi galė­
+    jo būti, kad slavų protėviai taip vadino dievų šventyklas.
+  citata_rodoma: "Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­\ndę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­\ngiją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir\npuošė dievų statulomis. Neabejotina, kad Retra iš karto buvo\nlierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-\nl<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­\nnanti prabangumu tas beveik dar laukines Europos šalis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

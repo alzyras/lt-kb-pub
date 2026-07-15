@@ -7,12 +7,12 @@ datos:
   - '1965 m.'
 date_start: '1965'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani
   teiginys: "R. Odoj straipsnis „Dorobek archeologii na Warmii i Mazurach“ paskelbtas 1965 m. žurnalo „Z otchłani wieków“ 2 sąsiuvinyje, p. 95–105."
   pagrindžia:
     - c-61834
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Odoj straipsnis „Dorobek archeologii na Warmii i Mazurach“ paskelbtas 1965 m. žurnalo „Z otchłani wieków“ 2 sąsiuvinyje, p. 95–105.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,18 @@ Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani
 - id: c-61834
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 278"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 278."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z. 2, s.
-    95—105.
+    iš Španheimo
+
+    iš Vienos
+
+    kancleris
+
+    (D.— Jonis, Jer.— Jon), Sarginio s.
+
+    Krikštytojas, šv.
+  citata_rodoma: "Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z. 2, s.\n95—105."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

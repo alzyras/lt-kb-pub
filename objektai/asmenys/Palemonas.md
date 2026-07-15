@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija. Bychovco kronikos legendinėje kilmės istorijoje Palemonas vaizduojamas kaip imperatoriaus Nerono giminaitis ir romėnų „bajorų“ vedlys.
+Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės tradicijos pagrindu. Platesnysis Lietuvos metraščių sąvadas Palemoną vaizduoja kaip Nerono giminaitį ir į šiaurę pabėgusių romėnų „bajorų“ vadovą. Pasak Kojelavičiaus, Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.
 
 ## Teiginiai
 
@@ -66,20 +66,6 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   teiginys: "Prie Seredžiaus, žemiau Dubysos žiočių, esantis apvalus kalnas su senos piliavietės liekana vadintas Palemono kalnu."
   pagrindžia:
     - c-171491
-
-<a id="claim-t-193401"></a>
-- t-006
-  global_id: t-193401
-  teiginys: "Pagal kilmę bei karinius nuopelnus buvo vardijami vadai: Palemonas, arba Publijus Libonas, herbo Stulpai, Julijonas Dausprungas;, kurio giminės herbas Kentauras, Prosperas Cezarinas — her bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba Rožynas."
-  pagrindžia:
-    - c-176123
-
-<a id="claim-t-193402"></a>
-- t-007
-  global_id: t-193402
-  teiginys: "Mirus jų valdovui, bendru balsavimu buvo išrinktas Palemonas."
-  pagrindžia:
-    - c-176124
 - susijęs iš [[objektai/asmenys/Spera Palemonaitis.md#claim-t-190118|Spera Palemonaitis]]: Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūnumi, buvo galingas žmogus ir kaldino auksinius medalius.
 - susijęs iš [[objektai/asmenys/Spera Palemonaitis.md#claim-t-190118|Spera Palemonaitis]]: Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūnumi, buvo galingas žmogus ir kaldino auksinius medalius.
 - susijęs iš [[objektai/autoriai/Petras Olai.md#claim-t-88039|Petras Olai]]: Petras Olai „Danų kronikoje“ aprašė įvykį, siejamą su Riuriko variagų kelione į Rusiją ir Palemono draugų atvykimu į Lietuvą.
@@ -94,15 +80,12 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 - susijęs iš Kaunas: Narbutas Kauno pavadinimą veikiau kildino iš dievaičio Kaunio nei iš Palemono sūnumi laikyto kunigaikščio Kūno.
 - susijęs iš Palemono kalnas: Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos žiočių, su pylimu arba senos piliavietės liekana.
 - susijęs iš Seredžius: Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas su senos piliavietės liekana vadintas Palemono kalnu.
-- susijęs iš [[objektai/asmenys/Barkus.md#claim-t-186097|Barkus]]: Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitijos dalį iki Kuršių įlankos.
 - susijęs iš [[objektai/asmenys/Kanutas.md#claim-t-87747|Kanutas]]: Apie 880 m. Danijoje viešpatavęs karalius Kanutas įsakė dėl nederliaus kas trečią žmogų išvaryti iš valsčiaus visiems laikams.
 - susijęs iš [[objektai/asmenys/Riurikas.md#claim-t-87845|Riurikas]]: Riurikas su variagais, autoriaus nuomone, į Rusiją galėjo būti atblokštas Petro Olai „Danų kronikoje“ aprašyto įvykio.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190639|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis senojoje Lietuvos istorijoje tarp lietuvių didikų mini Montvilos sūnų Nemuną.
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86991|Laivai, valtys, sieliai ir plaustai]]: Petro Olai kronikoje pasakojama, kad apie 880 metus Danijos tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
-- susijęs iš [[objektai/daiktai/Stulpai.md#claim-t-185849|Stulpai]]: Kojelavičiaus pasakojime Palemonas ir Prosperas Cezarinas buvo siejami su Stulpų herbu.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96106|Gediminaičių dinastija]]: Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija.
-- susijęs iš [[objektai/grupes/Kentauro herbo dinastija.md#claim-t-187771|Kentauro herbo dinastija]]: Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiams, Lietuvos sostas atiteko Vyteniui.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187492|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Mokslinėje literatūroje legendine vadinama Platesniojo sąvado dalis iki Kęstučio ir Algirdo sąmokslo prieš Jaunutį 1345 m.
+- susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187492|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Mokslinėje literatūroje pradinė Platesniojo sąvado dalis iki 1345 m. Kęstučio ir Algirdo sąmokslo prieš Jaunutį vadinama legendine.
 - susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187494|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Kęstučio ir Algirdo sąmokslas prieš brolį Jaunutį datuojamas 1345 metais.
 - susijęs iš [[objektai/paprociai/Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika.md#claim-t-189953|Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika]]: Šubravcų draugijos nariai prie „Wiadomošci Brukowe“ rinkosi senovės lietuvių mitologijos pseudonimus ir rinko medžiagą apie tuos personažus.
 - susijęs iš [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais.md#claim-t-187830|Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]: Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus.
@@ -118,179 +101,13 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 - susijęs iš [[objektai/zodynas/Variagai.md#claim-t-82105|Variagai]]: Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją.
 - susijęs iš [[objektai/zodynas/politinė tauta lietuvių nacija.md#claim-t-22247|politinė tauta lietuvių nacija]]: Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai vesti savo kilmę Palemono tradicija.
 - susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192076|Valtys]]: Apie 880 m. iš Danijos išvaryti tremtiniai sutelkė valtis, persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Daug kartų iš naujo
-    imdavo garbinti stabus tie, kurių šeimoms pradžią yra
-    davę herulų, gepidų, gotų ar langobardų likučiai, Šie
-    paveldėtus prietarus perduodavo vėlesnėms kartoms.
-    Tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie­
-    tuvoje daugelio dievų garbinimo: senąsias apeigas jis
-    dargi papildė naujais prietarais. Jis pirmąją Lietuvos
-    sodybą Romanovą paskyrė vyriausiajam žyniui, tu­
-    rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis
-    šimtmečius surašytame veikale Petras iš Dusburgo, Li­
-    vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų
-    laikų nei mūsų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Platesnysis Lietuvos metraščių sąvadas Palemoną vaizduoja kaip Nerono giminaitį ir į šiaurę pabėgusių romėnų „bajorų“ vadovą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Platesnysis Lietuvos metraščių sąvadas, vadinamas
-    „Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­
-    ka", kilo, veikiausiai, XVI a. antrajame dešimtmetyje.
-    Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir
-    prasideda sakiniu apie Kristaus gimimą, valdant Romos
-    imperatoriui Augustui, Romos imperatorių ligi Nerono
-    išvardijimu ir Nerono žiaurybių aprašymu. Gelbėda­
-    miesi nuo jo persekiojimo, dalis romėnų „bajorų", va­
-    dovaujamų imperatoriaus Nerono giminaičio Palemono,
-    pabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­
-    tos ir valstybės pradininkais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau
-    rusėnų kilmės giminės (Chodkevičiai ar Sapiegos) net kurdavo legendas
-    apie savo lietuvišką kilmę. Taigi politinės tautos genezės jau galima ieško-
-    ti XVI a. ar net XV a., kai Lietuvos bajorija bendrai pradėjo save kildinti
-    iš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
-    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
-    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
-    dinastija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Kronikose Palemonas vaizduotas kaip Lietuvos pajūrio šalies valdovas, su savo žmonėmis atkilęs iš svetimos žemės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie tai dar reikia skaityti straipsnyje apie Lietuvos
-    herbus.
-    Palemonas (Palemon)
-    Didvyris, vardas, Lietuvos pajūrio šalies valdovas, atkilęs
-    su savo žmonėmis iš svetimos žemės.
-    Kronikos vienur rašė, kad romėnai arba kurie nors pana­
-    šūs į juos piliečiai atvykę į Lietuvą apie 48 metus prieš Kristų,
-    kitur -  57 metais po Kristaus, trečiur -  tos pačios eros 401
-    metais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Prie Seredžiaus, žemiau Dubysos žiočių, esantis apvalus kalnas su senos piliavietės liekana vadintas Palemono kalnu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Prie Sredniko miestelio, lie­
-    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
-    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
-    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
-    lemonu Kalnas).
-    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
-    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
-    Tęsdami šią istoriją, išdėstysime mūsų duomenis apie jį,
-    arba apie tapataus vardo valdovą, gyvenusį toje epochoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Pagal kilmę bei karinius nuopelnus buvo vardijami vadai: Palemonas, arba Publijus Libonas, herbo Stulpai, Julijonas Dausprungas;, kurio giminės herbas Kentauras, Prosperas Cezarinas — her bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba Rožynas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Galimas daiktas, alanai, arba herulai (kurie,
-    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
-    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
-    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
-    buvo tinkamiausios įsikurti ir neniokojamos karų. Pa­
-    galiau nesvarbu, dėl kokios dingsties, reikalo ar būti­
-    nybės jie leidosi į tokį tolimą kelią, vieną dalyką se­
-    noliai atkakliai tvirtina: ateivių italų esą buvę penki
-    šimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus
-    buvo vardijami vadai: Palemonas, arba Publijus Libo-
-    nas, herbo Stulpai,
-    Julijonas
-    Dausprungas;,
-    kurio
-    59
-
-    ## Puslapis 58
-
-    giminės herbas Kentauras, Prosperas Cezarinas — her­
-    bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba
-    Rožynas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Mirus jų valdovui, bendru balsavimu buvo išrinktas Palemonas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Lietuviai, suža­
-    vėti jų dorybių, ėmė svetimšalius ne tik mylėti bei
-    globoti kaip svečius bei sąjungininkus, bet ir gerbti.
-    Mirus jų valdovui, bendru balsavimu buvo išrinktas
-    Palemonas.
-    Mat
-    taurumas
-    Italas
-    P a le m o n a s—
-    patraukia netgi tamsius bei
-    L ie tu v o s ir Ž em a iti-
-    laukinius žmones.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
+- susijęs iš [[objektai/grupes/Kentauro herbo dinastija.md#claim-t-198583|Kentauro herbo dinastija]]: Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiams, Lietuvos sostas atiteko Vyteniui.
 ## Citatos
 
 - id: c-170431
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 60"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 60."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Daug kartų iš naujo
     imdavo garbinti stabus tie, kurių šeimoms pradžią yra
@@ -315,20 +132,20 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 - id: c-170432
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 7."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Platesnysis Lietuvos metraščių sąvadas, vadinamas
-    „Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­
-    ka", kilo, veikiausiai, XVI a. antrajame dešimtmetyje.
-    Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir
-    prasideda sakiniu apie Kristaus gimimą, valdant Romos
-    imperatoriui Augustui, Romos imperatorių ligi Nerono
-    išvardijimu ir Nerono žiaurybių aprašymu. Gelbėda­
-    miesi nuo jo persekiojimo, dalis romėnų „bajorų", va­
-    dovaujamų imperatoriaus Nerono giminaičio Palemono,
-    pabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­
-    tos ir valstybės pradininkais.
+    Tolimesnioji Lietuvos istorija, pradedant Gedimino
+    sūnų išvardijimu, Platesniajame sąvade dėstoma pagal
+    Trumpojo sąvado antrąją, XV a. pabaigoje kilusią re­
+    dakciją. Prijungiant naujai parašytąją legendinę Lie­
+    tuvos istoriją prie nurašytos Trumpojo sąvado sudėti­
+    nės dalies — Vytauto laikus aprašančio „Didžiųjų Lie­
+    tuvos kunigaikščių metraščio", buvo visiškai perdirbta
+    ir šito šaltinio pradžia. Būtent, po Gedimino sūnų iš­
+    vardijimo, kuriuo Trumpajame sąvade prasideda „Di­
+    džiųjų Lietuvos kunigaikščių metraštis", Platesniajame
+    sąvade įdėtas padavimas apie Gedimino sūnų Kęstutį,
+    jo žmoną Birutę ir apie jų sūnaus Vytauto gimimą.
   citata_rodoma: "Gelbėda­\nmiesi nuo jo persekiojimo, dalis romėnų „bajorų\", va­\ndovaujamų imperatoriaus Nerono giminaičio Palemono, \npabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­\ntos ir valstybės pradininkais."
   statusas: verified
   teiginio_tipas: faktas
@@ -361,8 +178,7 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 - id: c-171490
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie tai dar reikia skaityti straipsnyje apie Lietuvos
     herbus.
@@ -371,7 +187,7 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
     su savo žmonėmis iš svetimos žemės.
     Kronikos vienur rašė, kad romėnai arba kurie nors pana­
     šūs į juos piliečiai atvykę į Lietuvą apie 48 metus prieš Kristų,
-    kitur -  57 metais po Kristaus, trečiur -  tos pačios eros 401
+    kitur - 57 metais po Kristaus, trečiur - tos pačios eros 401
     metais.
   statusas: verified
   teiginio_tipas: faktas
@@ -383,82 +199,24 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 - id: c-171491
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 218"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 218."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Prie Sredniko miestelio, lie­
-    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
-    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
-    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
-    lemonu Kalnas).
-    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
-    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
-    Tęsdami šią istoriją, išdėstysime mūsų duomenis apie jį,
-    arba apie tapataus vardo valdovą, gyvenusį toje epochoje.
+    Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
+    užkariauta skandinavų - tai patvirtins tolesnis šios istorijos tę­
+    sinys, - todėl tos šalys galėjo turėti tarpusavio ryšių, - taigi ir
+    auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem
+    kraštams.
+    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
+    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
+    to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
+    turėjo keletą tokių auksinių monetų.
+  citata_rodoma: "Prie Sredniko miestelio, lie­\ntuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo\nkitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-\ntės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­\nlemonu Kalnas).\nKaimiečiai net žino pasakojimų, vaizduojančių tą žmogų\nsudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).\nTęsdami šią istoriją, išdėstysime mūsų duomenis apie jį,\narba apie tapataus vardo valdovą, gyvenusį toje epochoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188602
-
-- id: c-176123
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Galimas daiktas, alanai, arba herulai (kurie,
-    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
-    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
-    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
-    buvo tinkamiausios įsikurti ir neniokojamos karų. Pa­
-    galiau nesvarbu, dėl kokios dingsties, reikalo ar būti­
-    nybės jie leidosi į tokį tolimą kelią, vieną dalyką se­
-    noliai atkakliai tvirtina: ateivių italų esą buvę penki
-    šimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus
-    buvo vardijami vadai: Palemonas, arba Publijus Libo-
-    nas, herbo Stulpai,
-    Julijonas
-    Dausprungas;,
-    kurio
-    59
-
-    ## Puslapis 58
-
-    giminės herbas Kentauras, Prosperas Cezarinas — her­
-    bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba
-    Rožynas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193401
-
-- id: c-176124
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 59"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 59."
-  citata_originali: |
-    Lietuviai, suža­
-    vėti jų dorybių, ėmė svetimšalius ne tik mylėti bei
-    globoti kaip svečius bei sąjungininkus, bet ir gerbti.
-    Mirus jų valdovui, bendru balsavimu buvo išrinktas
-    Palemonas.
-    Mat
-    taurumas
-    Italas
-    P a le m o n a s—
-    patraukia netgi tamsius bei
-    L ie tu v o s ir Ž em a iti-
-    laukinius žmones.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193402
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Spera Palemonaitis]]

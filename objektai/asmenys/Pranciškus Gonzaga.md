@@ -36,39 +36,13 @@ Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno t
   teiginys: "Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose."
   pagrindžia:
     - c-169610
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Karalienė patarė
-    nenutraukti
-    giminystės
-    su
-    Austrijos karališkąja šeima
-    ir paprašyti pirmosios žmonos sesers Kotrynos rankos.
-    Mirus Pranciškui Gonzagai, Mantujos kunigaikščiui, ši
-    našlavo tėvo Ferdinando rūmuose. Susitarus dėl šių
-    vestuvių, karalius išleido į Vieną pasiuntinybę, kurią
-    sudarė patys žymiausi lenkų bei lietuvių didikai, be
-    kitų, ir Vilniaus vaivada, Olykos bei Nesvyžiaus kuni­
-    gaikštis Mikalojus Radvila.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169610
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 690"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 690."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Karalienė patarė
     nenutraukti

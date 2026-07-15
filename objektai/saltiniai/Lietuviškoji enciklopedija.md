@@ -40,28 +40,13 @@ Dusburgietis teigia, kad lietuviškoji enciklopedija.—T.
   teiginys: "Aštuntasis „Lietuviškosios enciklopedijos“ tomas išleistas Kaune 1940 m."
   pagrindžia:
     - c-61763
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Aštuntasis „Lietuviškosios enciklopedijos“ tomas išleistas Kaune 1940 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuviškoji enciklopedija.—T. 8,—K., 1940.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61763
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lietuviškoji enciklopedija.—T. 8,—K., 1940.
   statusas: verified

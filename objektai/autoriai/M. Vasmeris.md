@@ -35,26 +35,6 @@ Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
   teiginys: "M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko."
   pagrindžia:
     - c-33066
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    O rytų baltų gyventas
-    plotas rytuose yra buvęs žymiai platesnis. Kalbiškai išgliau­
-    dydamas rusų metraščiuose randamą toponomastinę medžiagą,
-    M. Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už
-    Smolensko. Senajame geležies amžiuje rytiniai baltai, dar nespėję
-    išsidiferencijuoti į atskiras kiltis, apėmė ne tik visą Dniepro aukš­
-    tupio baseiną, siekdami ištisai dešinįjį Desnos krantą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

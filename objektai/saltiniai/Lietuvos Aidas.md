@@ -40,22 +40,6 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
   teiginys: "1917 m. buvo gautas leidimas griežtos cenzūros sąlygomis leisti „Lietuvos Aidą“."
   pagrindžia:
     - c-02452
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visi lietuviški laikraščiai buvo
-    uždrausti. Vien tik vokiečių štabas spausdino lietuvišką laikrašt-
-    palaikį „Dabartį". Tik 1917 metais buvo gautas leidimas
-    griežtoj cenzūroj leisti „Lietuvos Aidą".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -66,25 +66,15 @@ Nenurodyta
   teiginys: "Antro tomo įvadinis straipsnis tą patį susitarimą taip pat sieja su galutiniu A. Marcinovskio apsisprendimu leisti visą LTI."
   pagrindžia:
     - c-174896
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vadinasi, sutartis su A. Marcinovskiu dėl viso vei­
-    kalo išleidimo buvo sudaryta tik praėjus porai metų po pirmo
-    tomo išspausdinimo. Tai rodo galutinį A. Marcinovskio apsi­
-    sprendimą leisti visą LTI. Reikia manyti, kad žodžiu susitarta
-    buvo anksčiau, o pirmo tomo populiarumas paskatino suda­
-    ryti ir oficialią sutartį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197235"></a>
+- t-004
+  global_id: t-197235
+  teiginys: "Narbuto nuomone, būsimiems LTI skaitytojams ir tyrinėtojams bus įdomi ir jos leidimo bei platinimo istorija."
   pagrindžia:
-    - t-001
+    - c-174895
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Sutartis su A. Marcinovskiu dėl viso LTI išleidimo buvo sudaryta praėjus porai metų po pirmo tomo išspausdinimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -108,15 +98,16 @@ Nenurodyta
 - id: c-174895
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 52"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 52."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vadinasi, sutartis su A. Marcinovskiu dėl viso vei­
-    kalo išleidimo buvo sudaryta tik praėjus porai metų po pirmo
-    tomo išspausdinimo. Tai rodo galutinį A. Marcinovskio apsi­
-    sprendimą leisti visą LTI. Reikia manyti, kad žodžiu susitarta
-    buvo anksčiau, o pirmo tomo populiarumas paskatino suda­
-    ryti ir oficialią sutartį.
+    Kodėl
+    ne paskutiniame? Į šį klausimą būtų sunku atsakyti, tačiau ga­
+    lima ir tokia hipotezė, kad, T. Narbuto nuomone, būsimiems
+    LTI skaitytojams ir tyrinėtojams bus įdomi ir jos leidimo bei
+    platinimo istorija. „Pranešimas“ buvo išspausdintas „Kurjer
+    L.itewski“, kurio redaktorius buvo A. Marcinovskis.
+    Kaip rodo reklaminio skelbimo tekstas, jo autorius nėra
+    vien prekiautojas, kuriam svarbu tik įsiūlyti savo prekę.
   citata_rodoma: "Vadinasi, sutartis su A. Marcinovskiu dėl viso vei­\nkalo išleidimo buvo sudaryta tik praėjus porai metų po pirmo\ntomo išspausdinimo. Tai rodo galutinį A. Marcinovskio apsi­\nsprendimą leisti visą LTI. Reikia manyti, kad žodžiu susitarta\nbuvo anksčiau, o pirmo tomo populiarumas paskatino suda­\nryti ir oficialią sutartį."
   statusas: verified
   teiginio_tipas: faktas
@@ -124,19 +115,23 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192013
+    - t-197235
 
 - id: c-174896
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 444"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 444."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vadinasi, sutartis su A. Marcinovskiu dėl viso vei­
-    kalo išleidimo buvo sudaryta tik praėjus porai metų po
-    pirmo tomo išspausdinimo. Tai rodo galutinį A. Marci-
-    novskio apsisprendimą leisti visą LTI. Reikia manyti, jog
-    žodžiu susitarta buvo anksčiau, o pirmo tomo populiaru­
-    mas paskatino sudaryti ir oficialią sutartį.
+    Istorikas, rengdamas spaudai antrąjį LTI pirmo tomo
+    leidimą, parankiniame egzemplioriuje, prieš pat titulinį
+    lapą, įklijavo tokią informaciją: „Sutartis su Marcinov-
+    skiu dėl viso veikalo išspausdinimo buvo sudaryta 1837
+    metų vasario 4 dieną ir įregistruota Vilniaus magistrate.
+    Viso veikalo leidimą, atsižvelgiant į 1830 metų sausio 8
+    dienos įstatymą apie autorių teises, atidaviau leidėjo nuo­
+    savybėn. Pastarasis po to, kai bus gautas cenzūros suti­
+    kimas pardavinėti, privalo už kiekvieną tomą sumokėti
+    300 rublių sidabru honoraro.
   citata_rodoma: "Vadinasi, sutartis su A. Marcinovskiu dėl viso vei­\nkalo išleidimo buvo sudaryta tik praėjus porai metų po\npirmo tomo išspausdinimo. Tai rodo galutinį A. Marci-\nnovskio apsisprendimą leisti visą LTI. Reikia manyti, jog\nžodžiu susitarta buvo anksčiau, o pirmo tomo populiaru­\nmas paskatino sudaryti ir oficialią sutartį."
   statusas: verified
   teiginio_tipas: faktas
@@ -144,3 +139,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192014
+    - t-192015

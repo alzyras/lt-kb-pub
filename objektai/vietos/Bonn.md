@@ -43,27 +43,6 @@ Didelę dalį knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Eu
     - c-33809
 - susijęs iš [[objektai/autoriai/H. Useser.md#claim-t-30632|H. Useser]]: H. Useseris nurodytas kaip veikalo „Götternamen“ autorius.
 - susijęs iš Codex Diplomaticus Prussicus: „Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bonnos universiteto Rytų Europos istorijos seminaras padėjo autoriui paštu pasiskolinti didelę dalį knygų.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tad čia reikėtų dar suminėti daug pavardžių eilės bibliotekų
-    ir archyvų pareigūnų, kurie autoriui yra patarnavę. Didelę dalį
-    knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Europos
-    istorijos seminarą Bonnos universitete, ir už tą paslaugą dėkoju
-    šio seminaro bendradarbiams. Lygiai taip pat nuoširdi autoriaus
-    padėka kolegoms ir artimiems prieteliams, kurie jam yra parūpinę
-    mikrofilmų, reikalingų xeroxų ir šiaip jau talkinę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33809

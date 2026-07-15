@@ -58,66 +58,13 @@ Nenurodyta
   teiginys: "Kai broliai rengėsi pulti Gardino pilį, iš Pagudės pabėgę bartai su lietuviais surengė žygį prieš Lenkiją."
   pagrindžia:
     - c-66698
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Numa ir Derska pelnė brolių palankumą, pasitiko lietuvių kariuomenę, išžudė lietuvius ir grobį išsigabeno į Pagudę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
-    nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
-    taip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;
-    šitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai
-    sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
-    galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino. Minėtieji Numa ir
-      520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos
-    valstybės gynyboje XIII—XIV a. žr. LE, t. 8, p. 972—985; Воронин H. H., Древнее
-    Гродно, с. 149—195; Пашуто В. Т., Гродно..., с. 191—192; Batūra R., Karinė..., р.
-    105—107; to paties, Lietuva..., p. 98, 140, 161, 164; Ткачоу М. А., Замю..., c. 23—25;
-    to paties, Абарончыя..., c. 52—55.
-
-    Derska, įsiteikę broliams, nuskubėjo pasitikti lietuvių kariuomenės ir ten, papasakoję
-    savo tėvynainiams [bartams], kas dėjosi Gardino pilyje bei jo valsčiuje, be to, kaip jie
-    pelnė brolių palankumą, išžudė lietuvius, o visą grobį išsigabeno į Pagudę, kur ir gyvena,
-    kaip gyvenę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kai broliai rengėsi pulti Gardino pilį, iš Pagudės pabėgę bartai su lietuviais surengė žygį prieš Lenkiją.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    225 (220). Apie bartų sugrįžimą ir daugybės lietuvių žūtį
-
-      Kai  broliai rengėsi  pulti anksčiau minėtąją Gardino  pilį, kurie ne kurie  bartai,
-    pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė
-    prieš Lenkiją, iš kur, neskaitant kitų ten padarytų nusikaltimų, išsivarė didelį grobį:
-    daug žmonių bei gyvulių. Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
-    nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
-    taip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;
-    šitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai
-    sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
-    galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-66697
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 173-174"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 173-174."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
     nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
@@ -145,17 +92,15 @@ Nenurodyta
 - id: c-66698
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 173"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 173."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     225 (220). Apie bartų sugrįžimą ir daugybės lietuvių žūtį
-
-      Kai  broliai rengėsi  pulti anksčiau minėtąją Gardino  pilį, kurie ne kurie  bartai,
+    Kai broliai rengėsi pulti anksčiau minėtąją Gardino pilį, kurie ne kurie bartai,
     pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė
     prieš Lenkiją, iš kur, neskaitant kitų ten padarytų nusikaltimų, išsivarė didelį grobį:
     daug žmonių bei gyvulių. Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
     nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
-    taip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;
+    taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus;
     šitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai
     sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
     galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino.

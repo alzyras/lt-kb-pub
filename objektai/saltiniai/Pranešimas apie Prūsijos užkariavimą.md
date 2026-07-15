@@ -41,45 +41,13 @@ Dusburgietis teigia, kad „Pranešimo apie Prūsijos užkariavimą“, priedo p
   teiginys: "Henriko iš Hohenlohės „Pranešimas“ buvo svarbiausias Dusburgiečio kronikos II dalies ir III dalies pradžios šaltinis."
   pagrindžia:
     - c-61633
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Pranešimo apie Prūsijos užkariavimą“ XVI a. nuorašas aptiktas Ordino archyve Vienoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    „Pranešimo apie Prūsijos užkariavimą“, priedo prie Naujesniosios didžiųjų magistrų
-    kronikos, XVI a. nuorašas aptiktas Ordino archyve Vienoje. Leidėjai jį priskyrė Hermanui
-    iš Zalcos111.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Henriko iš Hohenlohės „Pranešimas“ buvo svarbiausias Dusburgiečio kronikos II dalies ir III dalies pradžios šaltinis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Henriko iš Hohenlohės „Pranešimas...“ —
-    svarbiausias Dusburgiečio kronikos II dalies bei III dalies pradžios šaltinis (iki 60 ar net 67
-    §)114.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-61632
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 22"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     „Pranešimo apie Prūsijos užkariavimą“, priedo prie Naujesniosios didžiųjų magistrų
     kronikos, XVI a. nuorašas aptiktas Ordino archyve Vienoje. Leidėjai jį priskyrė Hermanui
@@ -94,8 +62,7 @@ Dusburgietis teigia, kad „Pranešimo apie Prūsijos užkariavimą“, priedo p
 - id: c-61633
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 23"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Henriko iš Hohenlohės „Pranešimas...“ —
     svarbiausias Dusburgiečio kronikos II dalies bei III dalies pradžios šaltinis (iki 60 ar net 67

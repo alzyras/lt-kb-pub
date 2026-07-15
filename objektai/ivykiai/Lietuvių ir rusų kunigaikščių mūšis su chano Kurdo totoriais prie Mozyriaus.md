@@ -56,13 +56,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-186687"></a>
-- t-001
-  global_id: t-186687
-  teiginys: "Mozyrius XIV a. antrajame ketvirtyje, valdant Gediminui, buvo Lietuvos įtakoje, o XIV a. viduryje galutinai prijungtas Algirdo."
-  pagrindžia:
-    - c-169927
-
 <a id="claim-t-186688"></a>
 - t-002
   global_id: t-186688
@@ -70,21 +63,28 @@ Nenurodyta
   pagrindžia:
     - c-169928
 
-<a id="claim-t-186689"></a>
-- t-003
-  global_id: t-186689
-  teiginys: "Tikslus Mozyriaus prijungimo prie LDK laikas ir aplinkybės nėra žinomi."
-  pagrindžia:
-    - c-169927
-
 <a id="claim-t-186690"></a>
 - t-004
   global_id: t-186690
   teiginys: "Pasakojimas apie lietuvių ir rusų kunigaikščių mūšį su chano Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas."
   pagrindžia:
     - c-169928
-## Reikšmingi paminėjimai
 
+<a id="claim-t-186687"></a>
+- t-001
+  global_id: t-186687
+  teiginys: 'Mozyrius XIV a. antrajame ketvirtyje, valdant Gediminui, buvo Lietuvos įtakoje, o XIV a. viduryje galutinai prijungtas Algirdo.'
+  pagrindžia:
+    - c-169927
+
+<a id="claim-t-186689"></a>
+- t-003
+  global_id: t-186689
+  teiginys: 'Tikslus Mozyriaus prijungimo prie LDK laikas ir aplinkybės nėra žinomi.'
+  pagrindžia:
+    - c-169927
+
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -104,55 +104,16 @@ Nenurodyta
     - t-003
     - t-001
 
-- c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Tuo vardu, matyt, buvo
-    vadinamas kuris nors Pripetės žemupio Intakas.
-    '  Pasakojimas apie lietuvių Ir rusų kunigaikščių mūšj su chano
-    Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas. Gali būti
-    paremtas kokiu nors vretos padavimu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
-
 ## Citatos
-
-- id: c-169927
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    *  Kijevo kunigaikštis Svetoslavas kituose šaltiniuose nepallu-
-    dytas
-    s Tiksli M ozyriaus prijungimo prie LDK data ir aplinkybės
-    nežinomos. Neabejotinai buvo Lietuvos įtakoje XIV a antrajam e
-    ketvirtyje, valdant Gediminui. Galutinai prijungtas Algirdo XIV a.
-    viduryje,
-    “ Okunlovkos upėvardis yra išnykęs.
-  citata_rodoma: "s Tiksli M ozyriaus prijungimo prie LDK data ir aplinkybės \nnežinomos. Neabejotinai buvo Lietuvos įtakoje XIV a antrajam e \nketvirtyje, valdant Gediminui. Galutinai prijungtas Algirdo XIV a. \nviduryje,"
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186689
-    - t-186687
 
 - id: c-169928
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 198"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 198."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tuo vardu, matyt, buvo
     vadinamas kuris nors Pripetės žemupio Intakas.
-    '  Pasakojimas apie lietuvių Ir rusų kunigaikščių mūšj su chano
+    ' Pasakojimas apie lietuvių Ir rusų kunigaikščių mūšj su chano
     Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas. Gali būti
     paremtas kokiu nors vretos padavimu.
   citata_rodoma: "'  Pasakojimas apie lietuvių Ir rusų kunigaikščių mūšj su chano \nKurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas. Gali būti \nparemtas kokiu nors vretos padavimu."
@@ -161,5 +122,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186690
     - t-186688
+    - t-186690

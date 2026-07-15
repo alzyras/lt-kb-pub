@@ -39,28 +39,6 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
 - susijęs iš Karališkasis malūnas Vilniuje: Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas.
 - susijęs iš Karališkasis malūnas Vilniuje: Antraštė: Molendinum Vilnense [Vil niaus malūnas].
 - susijęs iš Vilniaus pilys: 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gaunami raštai ir su ja padarytos sutartys būdavo įteikiamos Lietuvos kancleriams ir saugomos Lietuvos valstybės archyve (metrikoje).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lie-
-    tuva daugiausia turėdavo"reikalų su sau artimiausia Maskva.
-    Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o
-    iš Maskvos gaunami raštai ir su ja padarytos sutartys būdavo
-    įteikiamos Lietuvos kancleriams ir saugomos Lietuvos valstybės
-    archyve (metrikoje).
-    Jei kokia delegacija vykdavo į užsienį, tai ji paprastai bū-
-    davo mišra — iš lietuvių ir iš lenkų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-176023

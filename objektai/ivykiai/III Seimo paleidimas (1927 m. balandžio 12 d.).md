@@ -58,28 +58,6 @@ Nenurodyta
   teiginys: "1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai nepaskelbti."
   pagrindžia:
     - c-22938
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai nepaskelbti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atsitokėjusi
-    kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą,
-    tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį
-    susibūrusios grupės perversmo planas, suėmus J. Pajaujį, žlugo. Opozi-
-    cijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-
-    klaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas,
-    o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu. Taip pre-
-    zidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią
-    šalies politinę jėgą – krikščionis demokratus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

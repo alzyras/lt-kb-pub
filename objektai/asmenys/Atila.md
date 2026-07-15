@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Atila'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,36 +26,30 @@ media_all_json: |-
 
 ## Santrauka
 
-Atila nužudė ir pačią karalaitę, ir visas vienuolika tūkstančių mergelių, buvusių su ja.
+Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuolika tūkstančių su ja vykusių mergelių. Lietuvos metraščio pasakojime Atila, neįveikęs įtvirtinto miesto, patraukė gilyn į Italiją Romos link. Be to, istorikai, tai išgirdę, prisiminė, kad jų būta Atilos vadovaujamų genčių ir tautų mišinyje.
 
 ## Teiginiai
 
 <a id="claim-t-194093"></a>
 - t-001
   global_id: t-194093
-  teiginys: "Atila nužudė ir pačią karalaitę, ir visas vienuolika tūkstančių mergelių, buvusių su ja."
+  teiginys: "Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuolika tūkstančių su ja vykusių mergelių."
   pagrindžia:
     - c-176706
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Atila nužudė ir pačią karalaitę, ir visas vienuolika tūkstančių mergelių, buvusių su ja.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
-    lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­
-    lijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan-
-    čiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas
-    vienuolika tūkstančių mergelių, buvusių su ja. Ir jos
-    vardan Kristaus tapo kankinėmis. Tai pirma jo žiau­
-    rybė, padaryta krikščionims.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196813"></a>
+- t-002
+  global_id: t-196813
+  teiginys: "Lietuvos metraščio pasakojime Atila, neįveikęs įtvirtinto miesto, patraukė gilyn į Italiją Romos link."
   pagrindžia:
-    - t-001
+    - c-178926
+
+<a id="claim-t-197712"></a>
+- t-003
+  global_id: t-197712
+  teiginys: "Be to, istorikai, tai išgirdę, prisiminė, kad jų būta Atilos vadovaujamų genčių ir tautų mišinyje."
+  pagrindžia:
+    - c-179301
 
 ## Citatos
 
@@ -64,15 +59,59 @@ Atila nužudė ir pačią karalaitę, ir visas vienuolika tūkstančių mergeli�
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
-    lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­
+    lydima karalaitė, vardu Uršulė10, Įišleidžiama] už Ang­
     lijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan-
     čiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas
     vienuolika tūkstančių mergelių, buvusių su ja. Ir jos
     vardan Kristaus tapo kankinėmis. Tai pirma jo žiau­
     rybė, padaryta krikščionims.
+  citata_rodoma: "O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo \nlydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­\nlijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan- \nčiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas \nvienuolika tūkstančių mergelių, buvusių su ja. Ir jos \nvardan Kristaus tapo kankinėmis. Tai pirma jo žiau­\nrybė, padaryta krikščionims."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194093
+
+- id: c-178926
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    O šis miestas buvo labai įtvirtintas
+    ir turėjo gerą romėnų kariuomenės Įgulą. Todėl Atila,
+    negalėdamas jo vienu matu įveikti17 ir nebenorėdamas
+    daugiau gaišti, traukė gilyn į Italiją, Romos linkui.
+    O kunigaikščiai ir senatoriai, kurie> buvo 18 tame mies­
+    te, regėdami tokią jo kariautojų galybę, išbėgiojo iš
+    miesto, apimti didžiausios baimės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196813
+
+- id: c-179301
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Tai galima pa­
+    aiškinti taip: iš istorijos žinome, tai mes vėliau paaiškin­
+    sime, kad šalia hunų būta anaiptol ne vienos lietuvių
+    genties, t. y. skiriu, hirių ir kitokių, kurie visi tų laikų
+    istorijose turėjo bendrinį litvanų vardą. Be to, istorikai,
+    tai išgirdę, prisiminė, kad jų būta Atilos vadovaujamų
+    genčių ir tautų mišinyje. Bet, kai smulkiame tautų sąva­
+    de šiam bendriniam pavadinimui neliko vietos, jis buvo
+    tarsi pamirštas, tuo tarpu herulais vadinamų hirių sąvo­
+    ka įgavo persvarą tarp kitų jiems giminingų genčių; jų
+    pavadinimas, tapęs bendrinis visiems, užgožė tą, kuris
+    liko tik gimtojoje žemėje ir ten gyvenusioms gentims.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197712

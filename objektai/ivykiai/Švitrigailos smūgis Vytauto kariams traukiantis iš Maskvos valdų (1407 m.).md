@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė. Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.
+Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė. Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo. Vytautas įsakė kavalerijos pulkų vadams ieškoti neužkirstų properšų miškuose bei pelkėse ir per jas siaubti Vasilijaus valdas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -61,101 +61,82 @@ Nenurodyta
   teiginys: "Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo."
   pagrindžia:
     - c-169156
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kaip paprastai esti, kariuomenė, karo va­
-    dams pasitraukus, patyrė nemaža nuostolių. Mat, nors
-    maskvėnai, kaip su Vasiliju-
-    Š vitrig a ila  p u ola V y -
-    mi buvo susitarta, ir neberė-
-    tauto kariu s
-    mė Švitrigailos, tačiau šis, pa­
-    laikomas savo šalininkų, su­
-    telkė keleto rusų bei skitų būrių, užpuolė miškuose Vy­
-    tauto karius iš užpakalio bei sparnų ir smarkiai juos su­
-    mušė. Be to, jie negalėjo rasti neseniai nusiaubtuose kai­
-    muose nei maisto, nei pašaro.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196299"></a>
+- t-003
+  global_id: t-196299
+  teiginys: "Vytautas įsakė kavalerijos pulkų vadams ieškoti neužkirstų properšų miškuose bei pelkėse ir per jas siaubti Vasilijaus valdas."
   pagrindžia:
-    - t-001
+    - c-169155
 
-- c-002
-  santrauka: 'Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Be to, jie negalėjo rasti neseniai nusiaubtuose kai­
-    muose nei maisto, nei pašaro. Vargais negalais kariai
-    įveikė šiuos sunkumus ir pasiekė Lietuvos valdas, kur
-    šiek tiek pailsėjo ir atsigavo. Tada pašauktinius karius
-    paleido namo, o lenkus ir prūsus nuvedė ligi Vilniaus,
-    kur Vytautas juos irgi paleido namo ne tik dosniai su-
-    370
-
-    ## Puslapis 369
-
-    mokėjęs, bet ir gausiai apdovanojęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196300"></a>
+- t-004
+  global_id: t-196300
+  teiginys: "Po susitarimo su Vasilijumi Vytautas paskyrė vadus išvesti kariuomenę iš priešo šalies ir pats skubiai išvyko į Vilnių."
   pagrindžia:
-    - t-002
+    - c-169156
 
 ## Citatos
 
 - id: c-169155
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 368"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 368."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kaip paprastai esti, kariuomenė, karo va­
-    dams pasitraukus, patyrė nemaža nuostolių. Mat, nors
-    maskvėnai, kaip su Vasiliju-
-    Š vitrig a ila  p u ola V y -
-    mi buvo susitarta, ir neberė-
-    tauto kariu s
-    mė Švitrigailos, tačiau šis, pa­
-    laikomas savo šalininkų, su­
-    telkė keleto rusų bei skitų būrių, užpuolė miškuose Vy­
-    tauto karius iš užpakalio bei sparnų ir smarkiai juos su­
-    mušė. Be to, jie negalėjo rasti neseniai nusiaubtuose kai­
-    muose nei maisto, nei pašaro.
+    Stovėdamas su' raitija toje
+    pačioje vietoje, jis kiekvieną dieną vis labiau juto mais­
+    to stoką. Viską apgalvojęs, galop įsakė kavalerijos pul­
+    kų vadams paieškoti miškuose ir pelkėse neužkirstų pro­
+    peršų ir jomis pasileisti siaubti Vasilijaus valdų. Vasi­
+    lijus, neilgai trukus pajutęs šį
+    M a s k v o s
+    v a ld o v a s
+    niokojamą smūgį, turėjo pra-
+    p r iv e ič ia m a s
+    p ra šy-
+    syti taikos. Išskyrus pažadą
+    ti ta ik o s
+    neremti Švitrigailos, susitar­
+    ta senomis sąlygomis; Vytau­
+    tas, tarytum žygis jau būtų visai užbaigtas, paskyrė va­
+    dovus, turėjusius išvesti kariuomenę iš priešo šalies, o
+    pats kuo skubiausiai, protarpiais keisdamas arklius, pasi­
+    leido į Vilnių.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185794
+    - t-196299
 
 - id: c-169156
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Be to, jie negalėjo rasti neseniai nusiaubtuose kai­
-    muose nei maisto, nei pašaro. Vargais negalais kariai
-    įveikė šiuos sunkumus ir pasiekė Lietuvos valdas, kur
-    šiek tiek pailsėjo ir atsigavo. Tada pašauktinius karius
-    paleido namo, o lenkus ir prūsus nuvedė ligi Vilniaus,
-    kur Vytautas juos irgi paleido namo ne tik dosniai su-
-    370
-
-    ## Puslapis 369
-
-    mokėjęs, bet ir gausiai apdovanojęs.
+    Išskyrus pažadą
+    ti ta ik o s
+    neremti Švitrigailos, susitar­
+    ta senomis sąlygomis; Vytau­
+    tas, tarytum žygis jau būtų visai užbaigtas, paskyrė va­
+    dovus, turėjusius išvesti kariuomenę iš priešo šalies, o
+    pats kuo skubiausiai, protarpiais keisdamas arklius, pasi­
+    leido į Vilnių. Kaip paprastai esti, kariuomenė, karo va­
+    dams pasitraukus, patyrė nemaža nuostolių. Mat, nors
+    maskvėnai, kaip su Vasiliju-
+    Š vitrig a ila p u ola V y -
+    mi buvo susitarta, ir neberė-
+    tauto kariu s
+    mė Švitrigailos, tačiau šis, pa­
+    laikomas savo šalininkų, su­
+    telkė keleto rusų bei skitų būrių, užpuolė miškuose Vy­
+    tauto karius iš užpakalio bei sparnų ir smarkiai juos su­
+    mušė.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185795
+    - t-196300

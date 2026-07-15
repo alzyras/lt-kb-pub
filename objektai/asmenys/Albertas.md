@@ -10,6 +10,10 @@ datos:
   - '1236 m.'
 date_start: '1202'
 date_end: '1236'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,10 +21,6 @@ tags:
   - popiežius
   - valdovas
   - vyskupas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -78,6 +78,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89614|Albertas iš Meiseno]]: Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89615|Albertas iš Meiseno]]: Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187930|A. Vijūkas Kojelavičius]]: Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.
+- susijęs iš [[objektai/posakiai/Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę.md#claim-t-199234|Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę]]: A. Goštauto memoriale Albertas Goštautas save vaizduoja kaip jauną Lietuvos tėvynės gynėją nuo M. Glinskio.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markgrafas).md#claim-t-60262|Ditrichas (Meiseno markgrafas)]]: Meiseno markgrafas Ditrichas buvo tarp didikų, pritarusių siųsti legatus Henrikui VI dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Eimaras iš Cezarėjos.md#claim-t-60272|Eimaras iš Cezarėjos]]: Eimaras iš Cezarėjos pritarė nuomonei, kad Frydrichas Švabietis turėtų siekti ligoninės įsteigimo ir patvirtinimo.
 - susijęs iš [[objektai/asmenys/Gardolfas.md#claim-t-60282|Gardolfas]]: Halberštato vyskupas Gardolfas buvo tarp Vokietijos dvasininkų ir didikų, svarstusių ką tik įsteigtos ligoninės ateitį.
@@ -109,77 +110,6 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - susijęs iš Padauguvis: Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.
 - susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vyskupas Albertas 1202 m. savo vyskupijoje įkūrė ordiną, kurį 1204 m. patvirtino popiežius.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Palestinoje,
-    einant kryžiaus karams su turkais, krikščionims apsaugoti
-    ir kariauti buvo įsteigti net keli riterių vienuolių ordinai
-    (templininkų, joanitų ir vokiečių, arba kryžiuočių, ordinas).
-    Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-
-    pijoje. Jo 1202 m. įkurtą ordiną 1204 m. popiežius patvirtino ir
-    jam suteikė templininkų įstatus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vyskupui
-    tuo būdu liko valdyti^2 /з krašto. Taip buvo pasidalytas jau už-
-    imtas kraštas, taip buvo sutarta dalytis ir visa, kas dar bus nu-
-    kariauta.
-    Kol buvo gyvas vysk. Albertas († 1229 m.), Livonijoje nau-
-    jos vokiečių valstybės valdovas buvo jis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jersikos karalius
-
-    2 Dauguva
-    Žiemgaliai ;
-    Sėliai
-    X Saulė (Šiauliai) 1236 m.
-
-    Nes Lietuviai
-
-    Vilnius
-
-    0
-
-    Jotvingiai aw MI Visvaldis buvo nugalėtas
-    NY Rygos vyskupo Alberto.
-    Teutonų ordiną padėti kar- Europos rytuose didelius
-
-    jauti su prūsais 1226-1228 m.
-    pakvietė Mozūrijos kunigaikš-
-    tis Konradas ir padovanojo
-    jiems Kulmo žemę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-004
   santrauka: 'Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -281,20 +211,21 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - id: c-173719
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 126"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 126."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Si
-    vyskupija turėjo apimti Rusią, plytinčią kairiojoje Pele­
-    sos pakrantėje ir Gardino link, kur dominikonai jau nuo
-    seno turėjo savo misijas, o Rytų apeigų krikščioniškasis
-    tikėjimas buvo gana paplitęs. To įrodymų matome popie­
-    žiaus bulėje1, išleistoje dėl Prūsijos ir Livonijos arkivys­
-    kupo Alberto kivirčo su kryžiuočiais ir sutaikančioje abi
-    šalis. Be kitų dalykų, joje apibrėžta arkivyskupo jurisdik­
-    cija Eželio, Dorpato, Virlando (Reveiio), Kuršo, Ruimo,
-    Varmės, Parnedės, Sembos, Rusios (Gardino), Varšuvos
-    (Lenkijos) vyskupijose.
+    Kryžiuočiai savo ruožtu ne­
+    siliovė naikinę prūsų Bartos ir Galindos provincijų, iš ku­
+    rių būriai pagonių bėglių, tarp kurių buvo ir jotvingių,
+    traukėsi prie Narevo ir į Polesę, jau priklausančią Kuja-
+    vijos kunigaikščiui; čia sėkmingai plėtėsi krikščionybė.
+    Bet veržlūs kryžiuočiai, nepaisydami jokių valdžių ir tei­
+    sių, iškapodavo jotvingius ir ¡galindus, nuviję juos į Po-'
+    lesę. Kai didysis kryžiuočių magistras dėl skundų Romai
+    neatsižvelgė į atsiųstą popiežiaus perspėjimą, nurodyda­
+    mas savo apeliaciją j anksčiau, t. y. 1253 metais, išleistą
+    popiežiaus Inocento bulę, apaštališkasis legatas abatas
+    Opicas atskyrė jį nuo bažnyčios2.
+  citata_rodoma: "Si\nvyskupija turėjo apimti Rusią, plytinčią kairiojoje Pele­\nsos pakrantėje ir Gardino link, kur dominikonai jau nuo\nseno turėjo savo misijas, o Rytų apeigų krikščioniškasis\ntikėjimas buvo gana paplitęs. To įrodymų matome popie­\nžiaus bulėje1, išleistoje dėl Prūsijos ir Livonijos arkivys­\nkupo Alberto kivirčo su kryžiuočiais ir sutaikančioje abi\nšalis. Be kitų dalykų, joje apibrėžta arkivyskupo jurisdik­\ncija Eželio, Dorpato, Virlando (Reveiio), Kuršo, Ruimo,\nVarmės, Parnedės, Sembos, Rusios (Gardino), Varšuvos\n(Lenkijos) vyskupijose."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

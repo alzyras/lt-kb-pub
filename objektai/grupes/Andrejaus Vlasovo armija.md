@@ -35,24 +35,6 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
   teiginys: "Naciai Lietuvoje akcijose prieš žydus panaudojo Andrejaus Vlasovo armijos dalinius."
   pagrindžia:
     - c-22336
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kiekvienoje zonderkomandoje buvo ne mažiau kaip 50–100 narių.
-    Kai kuriose žudynėse dalyvavo tik lietuvių pagalbinė policija ir policijos
-    savanoriai, tarp jų būta ir kriminalinio elemento, siekusio pasigrobti žydų
-    turto – namų, inventoriaus, brangenybių, patalynės, drabužių. Akcijose
-    prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-
-    jos dalinius, ukrainiečių, latvių policijos batalionus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

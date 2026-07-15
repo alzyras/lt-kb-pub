@@ -7,14 +7,14 @@ datos:
   - '1981 m.'
 date_start: '1981'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
   - gyvenvietė
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -54,7 +54,6 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
 - susijęs iš Vokiškieji kryžiuočių kelių aprašymai: 1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow.
 - susijęs iš Katavos valsčius: Katavos valsčius lokalizuojamas Katinavos apylinkėse, o jo vardas siejamas su Katinava arba Katniava.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'XVI a. J. Bretkūnui žinotuose pasakojimuose vieta prie Auksinės netoli Norkyčių kadaise buvo laikoma vaidilos globoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -71,36 +70,20 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Senieji Norkyčiai buvo Auksinės vingyje, 6–7 km žemiau minimos vietos, o vėliau gyvenvietė perkelta 2 km į šiaurę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Senieji Norkyčiai buvę per 6—7 km žemiau nuo minimos vietos, Auksinės vingyje,
-    kur ant aukštos kalvos senos baltų gyvenvietės (1981 m. rasta I m. e. tūkstantmečio
-    vidurio grublėtosios keramikos pavyzdžių) ar pilaitės vietoje kryžiuočiai XIV a. pastatė
-    pilį (minima XIV a. 2-oje pusėje — SRP, 2, p. 577, 709 ir kt.). Norkyčiai čia buvo ir
-    XVI a., vėliau Norkyčių gyvenvietė buvusi perkelta per 2 km  į šiaurę, prie Įsruties—
-    Karaliaučiaus kelio (dab. Meždurečjė). Senoje vietoje beliko apleistas Pilies kalnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-59238
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Reikšminga, kad senuose pasakojimuose,
-    žinomuose XVI a. J. Bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi
-    kadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn. 4, sk. 3, § VII, r. 1.
-    (VVU) 157; r. p. (MA) 279; š. p. 576).
+    Senieji Norkyčiai buvę per 6—7 km žemiau nuo minimos vietos, Auksinės vingyje,
+    kur ant aukštos kalvos senos baltų gyvenvietės (1981 m. rasta I m. e. tūkstantmečio
+    vidurio grublėtosios keramikos pavyzdžių) ar pilaitės vietoje kryžiuočiai XIV a. pastatė
+    pilį (minima XIV a. 2-oje pusėje — SRP, 2, p. 577, 709 ir kt.). Norkyčiai čia buvo ir
+    XVI a., vėliau Norkyčių gyvenvietė buvusi perkelta per 2 km į šiaurę, prie Įsruties—
+    Karaliaučiaus kelio (dab. Meždurečjė). Senoje vietoje beliko apleistas Pilies kalnas.
+  citata_rodoma: "Reikšminga, kad senuose pasakojimuose,\nžinomuose XVI a. J. Bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi\nkadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn. 4, sk. 3, § VII, r. 1.\n(VVU) 157; r. p. (MA) 279; š. p. 576)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -111,14 +94,13 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
 - id: c-59239
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Senieji Norkyčiai buvę per 6—7 km žemiau nuo minimos vietos, Auksinės vingyje,
     kur ant aukštos kalvos senos baltų gyvenvietės (1981 m. rasta I m. e. tūkstantmečio
     vidurio grublėtosios keramikos pavyzdžių) ar pilaitės vietoje kryžiuočiai XIV a. pastatė
     pilį (minima XIV a. 2-oje pusėje — SRP, 2, p. 577, 709 ir kt.). Norkyčiai čia buvo ir
-    XVI a., vėliau Norkyčių gyvenvietė buvusi perkelta per 2 km  į šiaurę, prie Įsruties—
+    XVI a., vėliau Norkyčių gyvenvietė buvusi perkelta per 2 km į šiaurę, prie Įsruties—
     Karaliaučiaus kelio (dab. Meždurečjė). Senoje vietoje beliko apleistas Pilies kalnas.
   statusas: verified
   teiginio_tipas: faktas

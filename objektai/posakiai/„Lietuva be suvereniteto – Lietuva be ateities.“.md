@@ -41,28 +41,6 @@ media_all_json: |-
   teiginys: "1990 m. rinkimų kampanijoje savarankiška LKP paskelbė šūkį „Lietuva be suvereniteto – Lietuva be ateities“."
   pagrindžia:
     - c-25398
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nebeliko nė vienos politinės gijos, kuri
-    galėtų laikyti Lietuvą pririštą prie SSRS.
-    1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą
-    kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjū-
-    dis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos
-    Lietuvos valstybės atkūrimo idėją, ir savarankiška LKP, paskelbusi popu-
-    liarų, tačiau miglotą ir neapibrėžtą šūkį: „Lietuva be suvereniteto – Lietu-
-    va be ateities.“ Iš pirmo žvilgsnio konfrontacijos tarp abiejų politinių jėgų
-    nebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu
-    būdu, o savarankiška LKP šiam planui nesipriešino.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

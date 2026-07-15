@@ -53,44 +53,6 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
   teiginys: "Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poema „Metai“ (su vertimu į vokiečių kalbą)."
   pagrindžia:
     - c-176380
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Donelaičio poema „Metai“ (apie 1750).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau
-    pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradė-
-    ta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-
-    va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
-    Lietuvos vardu). Paradoksas – svetima valstybė, o lietuviškos raštijos kur
-    kas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis
-    reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
-    laičio poema „Metai“ (apie 1750).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poema „Metai“ (su vertimu į vokiečių kalbą).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Įspūdį padarė 1818 m. Karaliaučiuje žymaus
-    mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
-    Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
-    poe­ma „Metai“ (su vertimu į vokiečių kalbą). Jau tuomet pripažinta, kad
-    tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

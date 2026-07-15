@@ -34,8 +34,8 @@ Narbutas nurodo, kad Hiegels Kašmiro žemumoje pastebėjo paprotį prie dviejų
   teiginys: "Narbutas nurodo, kad Hiegels Kašmiro žemumoje pastebėjo paprotį prie dviejų upių santakos statyti šventoves ir garbinti upes."
   pagrindžia:
     - c-173310
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad Hiegels Kašmiro žemumoje pastebėjo paprotį prie dviejų upių santakos statyti šventoves ir garbinti upes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -57,13 +57,18 @@ Narbutas nurodo, kad Hiegels Kašmiro žemumoje pastebėjo paprotį prie dviejų
 - id: c-173310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šitaip galindų tauta turėjo Rosės * 5
-    šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
-    likti tokį garbinimą (Hiegels. Reise nach Indien). Jis šį paprotį, menantį
-    seniausius budizmo principus, pastebėjo Kašmiro žemumoje*.
+    Nieko
+    verta nuomonė, jog upė turinti tokį vardą dėl to, kad jos van­
+    deniu buvo krikštijami lietuviai, kai Jogaila visus atvertė. Mat
+    vietos padavimai įtikina, kad tą vandenį senoji religija laikė
+    šventu, todėl krikščionių kunigai jį ir vartojo, o gal net pačią
+    upę, kad sutrauktų prie jos krantų žmones krikštui. Vis dėlto
+    sunku pakeisti mažiausio upelio pavadinimą taip, kad kaimie­
+    čiai neprisimintų senojo vardo, tuo labiau upės, tokios reikš­
+    mingos istorijai ir tekančios per nemažą krašto plotą.
+  citata_rodoma: "Šitaip galindų tauta turėjo Rosės * 5\nšventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­\nlikti tokį garbinimą (Hiegels. Reise nach Indien). Jis šį paprotį, menantį\nseniausius budizmo principus, pastebėjo Kašmiro žemumoje*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -44,49 +44,7 @@ Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (
   teiginys: "1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas."
   pagrindžia:
     - c-28893
-
-<a id="claim-t-184370"></a>
-- t-002
-  global_id: t-184370
-  teiginys: "1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas."
-  pagrindžia:
     - c-167740
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Imperatoriaus
-    Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas
-    (1413). «Žemaičių skundas» nuskambėjo ir tarptautiniame Kons­
-    tancos susirinkimo forume. Eilėje suvažiavimų su ordinu vis nesėk­
-    mingai buvo svarstomas Žemaičių ir sienų klausimas, kol pagaliau
-    jis buvo išspręstas Melno taikoje (1422).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Po Žalgirio kautynių ir Torno taikos, dvylika metų Žemaičių
-    klausimas buvo svarbiausias nesutarimų objektas. Imperatoriaus
-    Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas
-    (1413). «Žemaičių skundas» nuskambėjo ir tarptautiniame Kons­
-    tancos susirinkimo forume.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -122,5 +80,3 @@ Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184370

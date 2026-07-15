@@ -12,13 +12,13 @@ datos:
   - '1357 m.'
 date_start: '1305'
 date_end: '1357'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -80,75 +80,6 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
 - susijęs iš Nemunas: Remdamasis Dusburgu, Baliński darė išvadą, kad Gedimino pilis galėjo stovėti prie Nemuno, Lietuvos ar Žemaitijos pasienyje.
 - susijęs iš Pagraudė: Pagraudės ieškota ir labiau į rytus, nors ji siejama su valsčiumi Žemaičių pietvakariuose ties Jūros upe.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ragainės broliai apyaušryje slapta įsibrovė į Gedimino pilies papilį ir sudegino jį iki pamatų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    15. Apie Gedimino pilies ir jos papilio sudeginimą
-
-      Tuo pat metu Ragainės broliai su savo valdiniais apyaušryje, kai lietuviai dar miegojo,
-    slaptai įsibrovė  į Gedimino pilies papilį ir jį visą su žmonėmis, moterimis ir vaikais bei
-    visais namų apyvokos daiktais iki pamatų sudegino, išskyrus 12 vyrų, kurie, pabėgę  į
-    pilį, išvengė mirties nuosprendžio.
-
-
-
-
-                             16.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
-
-      Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
-    broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę
-    į keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti
-    kai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra
-    kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
-    vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
-    apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
-    Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
-    ir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais
-    kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
-    nelaisvę, o daugybę vyrų nukovė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-
-- c-003
-  santrauka: 'Guillaume de Machaut rašė, kad 1357 m. žygyje pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šis žygis, kuriame buvo daug svečių iš
-    visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
-    žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
-    rašytame veikale « Confort d’Ami » (« Draugo parama »). Poetas
-    išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar
-    paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
-    kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­
-    šui padegus pilį, turėję pasiduoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-004
   santrauka: 'Ordino brolių vėliava su sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį ant kalno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -173,8 +104,7 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
 - id: c-163543
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 256"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     15. Apie Gedimino pilies ir jos papilio sudeginimą
 
@@ -198,12 +128,10 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
 - id: c-163545
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 213"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
-
-      Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
+    Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
     broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę
     į keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti
     kai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra
@@ -211,7 +139,7 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
     vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
     apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
     Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
-    ir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais
+    ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais
     kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
     nelaisvę, o daugybę vyrų nukovė.
   statusas: verified
@@ -245,16 +173,16 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
 - id: c-163547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 198"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 198."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Trečią dieną po to tas pat brolis Eberhardas su savo kariuomene staiga įsiveržė,
-    kaip, beje, magistro  ir buvo iš anksto nurodyta,  į Lietuvos valsčių, vardu Pagraudė,
-    ir nusiaubė didžiąją jo dalį, degindamas  ir plėšdamas. Tačiau brolių vėliava su savo
-    sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis
-    grafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti  į riterius. Kai brolių
-    kariuomenė patraukė atgal, ji surengė pasalas ir nukovė daugiau nei 20 lietuvių, kurie
-    juos persekiojo.
+    Tuo tarpu broliai jau buvo priėję tokią vietą, kur nesitikėjo jokių pavojų,
+    todėl pasidėjo į šalį ginklus, į priekį pasiuntė vieną brolį su 200 vyrų, o patys su būreliu
+    karių nusekė iš tolo paskui juos. Tuo metu netikėtai juos užgriuvo karalius su savaisiais,
+    ir pirmame susidūrime vienas rusas pervėrė ietimi brolį Bolandą Jaunesnįjį, mūsų jau
+    minėto fogto brolėną, šitai išvydęs, fogtas neapsakomai įniršo, nubloškė užpakalin skydą
+    ir, pasičiupęs kalaviją, abiem rankomis nurentė galvą brolėno žudikui. Siame mūšyje
+    krito nukauti keturi broliai, būtent: du iš Bolando, brolis Bernardas iš Hohenšteino, brolis
+    Jonas Vienuolis ir 6 jų vyrai.
   citata_rodoma: "Tačiau brolių vėliava su savo\nsąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis\ngrafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti  į riterius. Kai brolių\nkariuomenė patraukė atgal, ji surengė pasalas ir nukovė daugiau nei 20 lietuvių, kurie\njuos persekiojo."
   statusas: verified
   teiginio_tipas: faktas

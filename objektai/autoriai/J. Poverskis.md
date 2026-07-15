@@ -8,15 +8,15 @@ datos:
   - '1286 m.'
 date_start: '1242'
 date_end: '1286'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -84,10 +84,23 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   teiginys: "J. Poverskis siūlė vėlesnes pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos datas."
   pagrindžia:
     - c-65309
+
+<a id="claim-t-197000"></a>
+- t-006
+  global_id: t-197000
+  teiginys: "J. Poverskis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų išsigelbėjo pabėgdamas."
+  pagrindžia:
+    - c-178997
+
+<a id="claim-t-197001"></a>
+- t-007
+  global_id: t-197001
+  teiginys: "J. Poverskis galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams."
+  pagrindžia:
+    - c-65309
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62620|J. Venta]]: J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.
 - susijęs iš Olivos kronika: J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio šaltinį, kuris yra neišlikęs.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -119,21 +132,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'J. Poverskis siūlė vėlesnes pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos datas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281
-    m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.
-    (Powierski J., Chronologia..., p. 5—31).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-004
   santrauka: 'J. Poverskis manė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -149,37 +147,22 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   pagrindžia:
     - t-004
 
-- c-005
-  santrauka: 'J. Poverskis manė, kad prūsų sukilimas galėjo prasidėti 1243 m. paskutiniame ketvirtyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
-    Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis..,
-    p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342). Kai kas mano, kad sukilimas
-    galėjęs prasidėti 1243 m. paskutiniame ketvirtyje (Powierski J., Przyczyny.., p. 204,
-    211).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-56015
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 21"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    G. Liabuda, tyrinėdamas XIII—XV a. Pamario bei Ordino valstybės analistiką, be kitų
-    to meto šaltinių analizavo ir Dusburgiečio kroniką91. Polemizuodamas su kai kuriomis M.
-    Poliakuvnos darbo išvadomis, G. Liabuda išanalizavo probleminius Dusburgiečio kronikos
-    šaltinių klausimus, atskleidė jų genealogiją, atkreipė dėmesį  į atskirų Ordino teritorijų
-    valdytojų raportus ir kt.92 J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio
-    šaltinį, kuris yra žuvęs93.
+    Analizuodamas Olivos kronikos šaltinius, J. Venta iškėlė mintį,
+    kad išlikusi Dusburgiečio kronika yra arba jos 1-oji 1326 m. redakcija (2-oji 1326 m. ir
+    3-oji 1326—1330 m. redakcijos neišliko), arba neišlikusios 1-osios 1326 m. redakcijos
+    cenzūruotas antrininkas94.
+    Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą. Lotyniškojo
+    originalo ir lietuviškojo vertimo paragrafai, atskleidžiantys įvairius prūsų (32 paragrafai)
+    ir lietuvių (14 paragrafų) kovų su Ordinu momentus (iki 1324 m.), tarpais sutrumpinti,
+    paskelbti J. Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
+  citata_rodoma: "G. Liabuda, tyrinėdamas XIII—XV a. Pamario bei Ordino valstybės analistiką, be kitų\nto meto šaltinių analizavo ir Dusburgiečio kroniką91. Polemizuodamas su kai kuriomis M.\nPoliakuvnos darbo išvadomis, G. Liabuda išanalizavo probleminius Dusburgiečio kronikos\nšaltinių klausimus, atskleidė jų genealogiją, atkreipė dėmesį  į atskirų Ordino teritorijų\nvaldytojų raportus ir kt.92 J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio\nšaltinį, kuris yra žuvęs93."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -190,10 +173,11 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
 - id: c-56016
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 21"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    93 Powierski J. Przekaz..., s. 422—425.
+    Volfenbiutelio bibliotekos kopija99. Šių tekstų tyrinėjimai parodė, kad Ordino valstybėje
+    buvusi oficiali analistika. Jos pagrindas susidarė XIII a. pabaigoje100.
+  citata_rodoma: "93 Powierski J. Przekaz..., s. 422—425."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -204,28 +188,35 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
 - id: c-65309
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 166"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281
-    m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.
-    (Powierski J., Chronologia..., p. 5—31).
+    Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip
+    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
+    tikėjimui ir broliams.
+    212 (207). Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­
+    dvikas antrą kartą pakliuvo į nelaisvę
+    Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš
+    Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule kariuomene į Sūduvos valsčių,
+    vardu Zilija504.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64639
+    - t-197001
 
 - id: c-65311
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 64"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška
-    dykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo
-    išlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).
+    Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės
+    dokumentuose vadinama Rommowe, Romaynis; ten buvęs šventas laukas, miškas-kulto
+    vieta (CDP, 2, Nr. 113, p. 151—152; SU, 2, Nr. 238, p. 159—160; Voigt J., Geschichte...,
+    1, p. 639—649; GAO, p. 146).
+    Ieškodamas centrinės baltų Romovės resp.
+  citata_rodoma: "teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška\ndykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo\nišlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -236,8 +227,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
 - id: c-65314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 85"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
     Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis..,
@@ -250,3 +240,21 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64633
+
+- id: c-178997
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    kaimynais, išpažįstančiais krikščionybę, netrukdė jiems garbinti gyvojo dievo ir apskritai
+    jų nekliudė. Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui
+    prisėjo raugių. Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir
+    po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
+    arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
+    išsigelbėjo pabėgdamas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197000

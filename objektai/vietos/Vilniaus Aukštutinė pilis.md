@@ -56,9 +56,9 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   global_id: t-195163
   teiginys: "Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis."
   pagrindžia:
-    - c-177531
-    - c-177529
     - c-177527
+    - c-177529
+    - c-177531
 
 <a id="claim-t-195164"></a>
 - t-003
@@ -79,8 +79,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   global_id: t-195166
   teiginys: "Kalno, ant kurio stovėjo Aukštutinė pilis, griūtis užslinko ant Manvydo rūmo ir pridarė daug nuostolių."
   pagrindžia:
-    - c-177531
     - c-177526
+    - c-177531
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176329|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172933|M. Strijkovskis Stryjkowski]]: Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.
 - susijęs iš [[objektai/autoriai/Stryjkowski Strijkovskis.md#claim-t-88007|Stryjkowski Strijkovskis]]: Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.
@@ -110,159 +110,9 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnius: Pasak padavimo, Gediminas Tauro kalne pastatydino Aukštutinę pilį, o slėnyje - medinę pilį, pavadintą Vilniumi.
 - susijęs iš Šventaragio slėnis: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po Trakų pilies įkūrimo medžiojo Šventaragio slėnyje.
 - susijęs iš Šventaragio slėnis: Pasakojama, kad Gediminas po Trakų pilies įkūrimo su palyda nusigavo į Šventaragio slėnį prie Vilnios žiočių.
 - susijęs iš [[objektai/posakiai/Geležinis vilkas ir šimtas vilkų.md#claim-t-86854|Geležinis vilkas ir šimtas vilkų]]: Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas atrodė toks galingas, tarsi staugtų šimtas vilkų.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    „Tad tenai Gedimi­
-    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
-    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
-    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
-    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
-    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
-    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
-    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
-    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
-    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
-    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
-    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
-    imperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­
-    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
-    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
-    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­
-    deika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas,
-    išaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi
-    apkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­
-    tuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­
-    bę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks
-    šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­
-    kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro
-    pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­
-    no Vilniumi pagal Vilnios upės vardą.
-    h i
-    XI Knyga, sk.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-- c-003
-  santrauka: 'Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Paminėsime tad tik
-    žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
-    Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­
-    ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri-
-    jaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam
-    nepanorus mokėti nuo Seversko duoklės kaipo viršesniam
-    valdovui, sumušęs pradinėse kautynėse prie Nedokudo-
-    vo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs
-    patį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­
-    gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
-    gana ilgai buvo saugomas sargybos, kol, atkakliai prašant
-    ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo
-    139
-
-    ## Puslapis 156
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
-    tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-- c-004
-  santrauka: 'Kalno, ant kurio stovėjo Aukštutinė pilis, griūtis užslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mano Petras negalėjo išsiteirauti apie Švitri­
-    gailos pasišalinimo priežastį: tepasakė man, kad Švitrigaila
-    su gausia kariauna, nemažais paramos pulkais ir dauge­
-    liu žmonių patraukė. - Praneša man vėliau, kad įvyko griū­
-    tis kalno, ant kurio stovi Aukštutinė pilis, dėl „Spieki"
-    priežasties. Tas kalnas užslinko ant Manvydo rūmo (namo)
-    ir daug nuostolių pridarė, jo pataurininkis ir rykūnės (oz-
-    zerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos
-    užvertė visas jo brangenybes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-- c-005
-  santrauka: 'Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Prie jos šliejosi
-    pats miesto centras, nedidelis, su mediniais namais, bet su
-    tvirtų statinių tvorų ir griovių sutvirtinimais. Čia slėpdavo­
-    si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su
-    prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­
-    mi28. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­
-    rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pi-
-    buvo prisistatęs Vytautui stovyklo­
-    je prie Smolensko su bajorais ir, Vy­
-    tautui tą miestą užėmus, priėmė iš
-    šio monarcho jam skirtą valdą - Po-
-    lonos miestelį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-- c-006
-  santrauka: 'Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kalno.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ## Puslapis 217
-
-    Il KNYGA
-    VI
-    VILNIAUS MIESTO PLANAS JOGAILOS LAIKAIS,
-    PRIEŠ KRIKŠČIONYBĖS PRIĖMIMĄ
-    1. Aukštutinė pilis ant Tauro* kalno.
-    2. Žemutinė, arba Kreivoji pilis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-- c-007
-  santrauka: 'Aukštutinę pilį saugojo aukšti mūrai ir bokštai, o apačioje driekėsi Žemutinė pilis, vadinta Kreivąja.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
-    kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
-    bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur
-    buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
-    pats miesto centras, nedidelis, su mediniais namais, bet su
-    tvirtų statinių tvorų ir griovių sutvirtinimais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-177526
@@ -400,6 +250,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-195162
     - t-195165
 
 - id: c-177531
@@ -422,6 +273,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-195163
     - t-195166
 
 ## Ryšiai

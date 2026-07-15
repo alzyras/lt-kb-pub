@@ -25,58 +25,40 @@ media_all_json: |-
 
 ## Santrauka
 
-Viljandyje magistras Vilhelmas Fiurstenbergas pateko į priešų rankas.
+Karalius sutiko neprieštarauti taikai, jei magistras Vilhelmas Fiurstenbergas pats jos paprašys ir grąžins arkivyskupą į sostą.
 
 ## Teiginiai
 
-<a id="claim-t-186087"></a>
+<a id="claim-t-196627"></a>
 - t-001
-  global_id: t-186087
-  teiginys: "Viljandyje magistras Vilhelmas Fiurstenbergas pateko į priešų rankas."
+  global_id: t-196627
+  teiginys: "Karalius sutiko neprieštarauti taikai, jei magistras Vilhelmas Fiurstenbergas pats jos paprašys ir grąžins arkivyskupą į sostą."
   pagrindžia:
     - c-169448
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184568|Kalavijuočių ordinas]]: Livonijos riterių magistras Vilhelmas Fiurstenbergas su beveik visu ordinu atsižadėjo Romos tikėjimo ir perėjo į Liuterio sektą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Viljandyje magistras Vilhelmas Fiurstenbergas pateko į priešų rankas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Maskvėnai, į šį žygį patraukę
-    su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
-    didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
-    Viljandyje į priešų rankas pakliuvo pats magistras Fiur-
-    stenbergas, bet niekur neradau parašyta, ar gyvas, ar
-    žuvęs. Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
-    apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
-    kų kolegiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169448
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 699"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 699."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Maskvėnai, į šį žygį patraukę
-    su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
-    didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
-    Viljandyje į priešų rankas pakliuvo pats magistras Fiur-
-    stenbergas, bet niekur neradau parašyta, ar gyvas, ar
-    žuvęs. Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
-    apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
-    kų kolegiją.
+    Iš žvalgų sužino­
+    jęs, kokia didžiulė karaliaus kariuomenė, bemat paliovė
+    galvojęs apie karą ir, tarpininkaujamas imperatoriaus
+    Ferdinando pasiuntinio, buvusio magistro stovykloje,
+    paprašė taikos, maldaudamas atleisti už tai, ką buvo
+    padaręs. Karalius, išleidęs šiam karo žygiui galybę pi­
+    nigų, ne taip jau labai norėjo siūlomos taikos, kuri jam
+    rodėsi būsianti kol kas tik nuostolinga. Kadangi už
+    pergalę reikėtų mokėti nekaltų žmonių krauju ir gy­
+    vybe, jis pasiuntiniui vis dėlto atsakė, jog nepriešta­
+    rausiąs taikai, jeigu magistras asmeniškai jos paprašy­
+    siąs ir kuo greičiausiai paleisiąs iš kalėjimo bei sugrą­
+    žinsiąs į sostą arkivyskupą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186087
+    - t-196627

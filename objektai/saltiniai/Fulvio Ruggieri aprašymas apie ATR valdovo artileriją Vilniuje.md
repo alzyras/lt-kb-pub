@@ -42,28 +42,6 @@ Iškilusi Popiežiaus diplomatas Fulvio Ruggieri (1572 m.) aprašo ATR valdovo a
   teiginys: "Fulvio Ruggieri 1572 m. rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos."
   pagrindžia:
     - c-44991
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ralyžiavo“ Rusijos kariuomenę. Iškilusi Popiežiaus diplomatas Fulvio Ruggieri (1572 m.) aprašo ATR valdovo artileriją Vilniuje.
-    grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios artilerijos: sunkiosios jis turi šimtą aštuoniasdešimt
-    sa iii js Ai neleido išsiųsti vienetų, ir dar didelį skaičių lengvosios, labai gražiai padarytos, nes tai Jo Didenybei di-
-    reikiamos karinės paramos apsiaustam džiai patinka ir jo valia daug jos išliejama, ypač Lietuvoje, kuo patys lenkai skundžiasi,
-
-    Pskovui. Lietuvių reidas neabejotinai su-
-    krėtė Ivaną 1v bei pastūmėjo jį pradėti
-    derybas su Batoru dėl paliaubų. i
-    Pskovo apgultis užsitęsė iki
-    1582 m. sausio, antrajame etape
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

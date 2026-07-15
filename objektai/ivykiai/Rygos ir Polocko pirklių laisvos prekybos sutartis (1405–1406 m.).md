@@ -59,25 +59,6 @@ Nenurodyta
   teiginys: "1405 m. Rygoje Rygos ir Polocko pirkliai sudarė sutartį laisvai prekiauti net kilus karui tarp Livonijos ordino ir Vytauto."
   pagrindžia:
     - c-35779
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Šituo pat laiku, kai buvo vedamos Racionžo taikos dery­
-    bos, tarėsi tarp savęs ir Rygos bei Polocko pirkliai. Jie buvo
-    labai nepatenkinti, kad Vytauto karai ir nesantaikos su Vokiečių
-    bei Livonijos Ordinais trukdo prekybą, ir todėl 1405 m. Rygoje
-    padarė sutartį laisvai prekiauti, jei net ištiktų ir karas tarp Li­
-    vonijos Ordino ir Vytauto, nes pasak jų, prekyba nieko bendro
-    neturinti su karu^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

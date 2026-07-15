@@ -48,25 +48,6 @@ Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo toto
 - susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192041|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas gelonų ir budinų pasitraukimą iš prie Dono buvusių valdų datuoja maždaug apie 80 m. pr. Kr.
 - susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192039|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas sarmatų ir alanų plitimą, lėmusį gelonų bei budinų pasitraukimą nuo Dono, vadina sarmatų-alanų revoliucijomis.
 - susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192041|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas gelonų ir budinų pasitraukimą iš prie Dono buvusių valdų datuoja maždaug apie 80 m. pr. Kr.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1427 m. Vytauto palaikomas Machmetas į savo valdžią paėmė Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1427 mt. pradžioje jų buvo dar
-    5), bet 1427 met. gale Vytauto palaikomasis Machmetas įsiga­
-    lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
-    marių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­
-    vimo galą savo planus dėl Totorijos buvo gangreit įvykdęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38597

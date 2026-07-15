@@ -34,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo Januškevičiaus sode rastą lobį žinojo visi to krašto gyventojai.
+Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo Januškevičiaus sode rastą lobį žinojo visi to krašto gyventojai. Juozapas Januškevičius buvęs garbinamas kaip dievas ir turėjęs savo šventyklą Nemunaityje, ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų apskrityje yra taip besivadinąs miestelis su pylimų žymėmis ir keliais milžinkapiais.
 
 ## Teiginiai
 
@@ -44,43 +44,37 @@ Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo
   teiginys: "Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo Januškevičiaus sode rastą lobį žinojo visi to krašto gyventojai."
   pagrindžia:
     - c-173047
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo Januškevičiaus sode rastą lobį žinojo visi to krašto gyventojai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
-    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
-    to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
-    turėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­
-    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
-    autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197409"></a>
+- t-002
+  global_id: t-197409
+  teiginys: "Juozapas Januškevičius buvęs garbinamas kaip dievas ir turėjęs savo šventyklą Nemunaityje, ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų apskrityje yra taip besivadinąs miestelis su pylimų žymėmis ir keliais milžinkapiais."
   pagrindžia:
-    - t-001
+    - c-173047
 
 ## Citatos
 
 - id: c-173047
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
-    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
-    to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
-    turėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­
-    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
-    autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
+    Apie jį dar esama padavimo, kad jis buvęs gar­
+    binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
+    ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
+    skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
+    keliais milžinkapiais. Pusdievio ir Nemuno vardo panašumas
+    perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­
+    kas šia upe keliavęs, bus davęs upei savo vardą. Lietuvoje
+    gyveno panašiai besivadinanti bajorų giminė; turim rankoje
+    laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemu-
+    navičiaus (Niemonowicz) parašu. Matyti, kad ta pavardė yra
+    kilusi iš Nemuno pavadinimo, kaip Piotrowicz, tai yra Petro
+    sūnus, iš Petro.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190164
+    - t-197409

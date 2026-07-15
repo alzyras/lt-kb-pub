@@ -7,14 +7,14 @@ datos:
   - '1314 m.'
 date_start: '1314'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - karas
   - žygis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -73,8 +73,8 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
   teiginys: "1314 m. sausio pradžioje keli lietuviai naktį įsibrovė į Henriko stovyklą ir nužudė keturis vyrus."
   pagrindžia:
     - c-56337
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -118,14 +118,14 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
 - id: c-56336
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    321 (314). Dar apie tą patį
     Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
     maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
     pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
     lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
-    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno  ir brolio Rebodo iš
+    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno ir brolio Rebodo iš
     Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
     ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
     jas nusiaubė, degindami ir piešdami.
@@ -135,22 +135,26 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55712
     - t-55711
+    - t-55712
 
 - id: c-56337
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
-    brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
-    valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,
-    todėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino
-    brolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami
-    karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
-    mūsų dievo Jėzaus Kristaus garbei.
+    Apie Ragainės pilies užpuolimą
+    1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir
+    netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė. Broliai
+    jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė
+    atsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį
+    Joną, vadinamą Pope, o daug kitų sužeidė. Galop lietuviai, nieko nepešę iš šio antpuolio,
+    pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
+    pasėlius.
+    324 (317). Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
+    Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
+    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
+    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.
   citata_rodoma: "1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats\nbrolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų\nvalsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,\ntodėl krikščionių kariuomenė kiaurą naktį nematė ramybės."
   statusas: verified
   teiginio_tipas: faktas

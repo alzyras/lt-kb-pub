@@ -39,7 +39,6 @@ Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielva
 - susijęs iš [[objektai/asmenys/Radlofas.md#claim-t-191974|Radlofas]]: Teodoro Narbuto aiškinimu, Cigno ir Fajetono mito turinys sutapo su Radlofo požiūriu, o šios žinios į graikų poeziją pateko iš padavimų.
 - susijęs iš [[objektai/autoriai/Radlofas.md#claim-t-191618|Radlofas]]: Narbutas rašė, kad Cigno mito turinys sutampa su Radlofo požiūriu ir iš padavimų pateko į graikų poetų kūrinius.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielvarto virto gulbinu prie Eridano ežero.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -72,19 +71,16 @@ Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielva
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    154
-
-    ## Puslapis 152
-
-    dievai pavertė jas tuopomis, o jų ašaros virto gintaro la­
-    šais. Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­
-    delis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­
-    kiodamas po Eridano ežerą, niūniavo gražias priešmirti­
-    nes giesmes.
-    157
-    Šio mito turinys sutampa su pono Radlofo požiūriu,
-    kurį anksčiau (§ 145) pateikėme; šios žinios pateko iš
-    padavimų į graikų poetų kūrinius.
+    Iš tikrųjų žinome, jog grai­
+    kai taip vadino dvi upes: viena sruveno Atikoje ir buvo
+    Iliso intakas, antra yra italų upė, šiandien vadinama Pa­
+    du. Senovės astronomai tuo pačiu vardu pavadino dan­
+    gaus žvaigždynus. Eridano, susijusio su gintaru, būtina
+    ieškoti gintaringuose kraštuose, t. y. senovės prūsų žemių
+    kaimynystėje. Pats Plinijus, išdėstęs įvairiais prielaidas,
+    nurodo, kad Elektridų, arba Gintaringos, salos turėjusios
+    būti Germanų jūros šiaurinėje dalyje, prie Eridano žiočių3.
+  citata_rodoma: "154\n\n## Puslapis 152\n\ndievai pavertė jas tuopomis, o jų ašaros virto gintaro la­\nšais. Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­\ndelis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­\nkiodamas po Eridano ežerą, niūniavo gražias priešmirti­\nnes giesmes.\n157\nŠio mito turinys sutampa su pono Radlofo požiūriu,\nkurį anksčiau (§ 145) pateikėme; šios žinios pateko iš\npadavimų į graikų poetų kūrinius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

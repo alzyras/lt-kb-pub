@@ -8,17 +8,17 @@ datos:
   - '1422 m.'
 date_start: '1397'
 date_end: '1422'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - didikas
   - pareigūnas
   - asmuo
-amziai:
-  - 'XIV'
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,8 +46,8 @@ Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių b
   teiginys: "Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių bendradarbių."
   pagrindžia:
     - c-176739
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių bendradarbių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -72,11 +72,19 @@ Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių b
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    5 Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y­
-    tauto politinių bendradarbių. Nuo 1397 m. Vilniaus seniūnas, o  pas­
-    kui pirmasis Vilniaus vaivada (1413—1422). Našlę Julijonų Butri­
-    mienę galėjo būti vedęs po 1407 m., nes ligi tol gyva tebebuvo pir­
-    moji M anvydo žmona Jadvyga.
+    Tačiau nei Jogailos, nei Davainos J. Dlugošas
+    (J. Dtugosz, Dziej6w polskich ksiąg dwanascie, t. III, Krak6w,
+    1868, p. 308) Ir juo sekantis M. Miechovita (Chronica Polonorum,
+    Krokuva. 1521. p. 248) nemini.
+    11 Habdankas (lenkiškai
+    Abdank
+    arba Awdaniec) — senovinis
+    lenkų bajorų herbas: sidabrinis ženklas, panašus j raidą W raudo­
+    name lauke. Habdanko herbu antspaudavo Lietuvos didikai Goš­
+    tautai ir jų tarpe Albertas Goštautas.
+    IS Istorija apie Davainos ir jo belaisvės vedybas žinoma tik
+    iš BK.
+  citata_rodoma: "5 Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y­\ntauto politinių bendradarbių. Nuo 1397 m. Vilniaus seniūnas, o  pas­\nkui pirmasis Vilniaus vaivada (1413—1422). Našlę Julijonų Butri­\nmienę galėjo būti vedęs po 1407 m., nes ligi tol gyva tebebuvo pir­\nmoji M anvydo žmona Jadvyga."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

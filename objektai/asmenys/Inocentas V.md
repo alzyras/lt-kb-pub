@@ -44,32 +44,13 @@ Dusburgietis teigia, kad apie Inocentą V, popiežių, ir Rudolfą, Romos karali
   teiginys: "1275 m. popiežiumi buvo Inocentas V, anksčiau vadintas pamokslininkų ordino broliu Petru iš Tarantezo."
   pagrindžia:
     - c-60966
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1275 m. popiežiumi buvo Inocentas V, anksčiau vadintas pamokslininkų ordino broliu Petru iš Tarantezo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    58. Apie Inocentą V, popiežių, ir Rudolfą, Romos karalių
-
-      1275 viešpaties metais valdė Inocentas V, popiežius, anksčiau vadinęsis pamokslininkų
-    ordino broliu Petru iš Tarantezo, ir Rudolfas, Romos karalius (Mart. p. 416; Ptol. 23, 17,
-    plg. 2).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60966
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 236"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     58. Apie Inocentą V, popiežių, ir Rudolfą, Romos karalių
 

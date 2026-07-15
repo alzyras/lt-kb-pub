@@ -42,20 +42,6 @@ media_all_json: |-
   teiginys: "Codex epistolaris saeculi XV sudarė du tomai, kuriuos A. Lewickis parengė ir 1891 m. išleido Krokuvoje."
   pagrindžia:
     - c-36175
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    C. ep. s. = Codex epistolaris saeculi XV, 2t., ed. A. Lewicki
-    Cracoviae 1891 (XII iš „Monumentą Poloniae“).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

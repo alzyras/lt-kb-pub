@@ -58,26 +58,6 @@ Nenurodyta
   teiginys: "1313 m. Vytenis pasiuntė Surminą su 100 laivų prieš kryžiuočius, atplaukusius pulti Junigėdos."
   pagrindžia:
     - c-33398
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pats
-    Vytenis 1311 plėšė Sembą ir Natangą, paskui Varmę, bet Woplau­
-    ken lygumose jo kariuomenė buvo sumušta^20. Kai 1313 m. kry­
-    žiuočiai, pasistatę «karo laivą su sienomis ir daug kitų laivų »
-    atplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,
-    lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
-    100 laivų, kurie priešą nuvijo, o laivą sudegino^21. 1315 m. rugpiū­
-    čio mėn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

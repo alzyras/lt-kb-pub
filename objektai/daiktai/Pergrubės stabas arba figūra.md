@@ -50,42 +50,20 @@ Nenurodyta
   teiginys: "Narbutas Pergrubės figūrą sieja su antikine Flora ir slavų Siewa, ją vaizduodamas kaip nuogą jauną mergaitę su gėlių vainiku, obuoliu ir vynuogių keke."
   pagrindžia:
     - c-172621
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Pergrubės figūrą sieja su antikine Flora ir slavų Siewa, ją vaizduodamas kaip nuogą jauną mergaitę su gėlių vainiku, obuoliu ir vynuogių keke.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
-    vai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­
-    kas panašaus, aišku, buvo ir Pergrubė. Ją vaizdavo kaip nuogą
-    jauną ir gražią mergaitę su palaidais, žemiau kelių krintan­
-    čiais plaukais, galva, papuošta gėlių vainikėliu, dešinėje ran­
-    koje laikančią obuolį, kairėje -  vynuogių kekę. Tikriausiai tai
-    būtų galėjusi būti viena gražiausių šiaurės stabmeldžių figūrų,
-    jeigu skulptoriui nebūtų pristigę talento.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172621
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 132."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
     vai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­
     kas panašaus, aišku, buvo ir Pergrubė. Ją vaizdavo kaip nuogą
     jauną ir gražią mergaitę su palaidais, žemiau kelių krintan­
     čiais plaukais, galva, papuošta gėlių vainikėliu, dešinėje ran­
-    koje laikančią obuolį, kairėje -  vynuogių kekę. Tikriausiai tai
+    koje laikančią obuolį, kairėje - vynuogių kekę. Tikriausiai tai
     būtų galėjusi būti viena gražiausių šiaurės stabmeldžių figūrų,
     jeigu skulptoriui nebūtų pristigę talento.
   statusas: verified

@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vytautas pakvietė Jogailą žiemai į Bieloviežo girią medžioti stumbrų.
+Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų. Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų.
 
 ## Teiginiai
 
@@ -36,54 +36,28 @@ Vytautas pakvietė Jogailą žiemai į Bieloviežo girią medžioti stumbrų.
   pagrindžia:
     - c-170263
 
-<a id="claim-t-187169"></a>
-- t-002
-  global_id: t-187169
-  teiginys: "Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų."
-  pagrindžia:
-    - c-170263
-
-<a id="claim-t-194025"></a>
-- t-003
-  global_id: t-194025
-  teiginys: "APIE VALDOVŲ SUVAŽIAVIMĄ LUCKE IR IMPERATORIAUS PASIOLYMĄ VYTAUTUI VAINIKUOTIS LIETUVOS KARALIUMI Paskui didysis kunigaikštis Vytautas pasikvietė ka ralių Jogailą 1 žiemai pas save į Bieloviežo girią me džioti pramogai stumbrų."
-  pagrindžia:
-    - c-170263
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    39. APIE VALDOVŲ SUVAŽIAVIMĄ LUCKE IR IMPERATORIAUS
-    PASIOLYMĄ VYTAUTUI VAINIKUOTIS LIETUVOS KARALIUMI
-    Paskui didysis kunigaikštis Vytautas pasikvietė ka­
-    ralių Jogailą 1  žiemai pas save į Bieloviežo girią me­
-    džioti pramogai stumbrų. Ir karalius Jogaila su kara­
-    liene Sofija atvažiavo pas ji.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-170263
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 108"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 108."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    39. APIE VALDOVŲ SUVAŽIAVIMĄ LUCKE IR IMPERATORIAUS
-    PASIOLYMĄ VYTAUTUI VAINIKUOTIS LIETUVOS KARALIUMI
-    Paskui didysis kunigaikštis Vytautas pasikvietė ka­
-    ralių Jogailą 1  žiemai pas save į Bieloviežo girią me­
-    džioti pramogai stumbrų. Ir karalius Jogaila su kara­
-    liene Sofija atvažiavo pas ji.
+    Matau — tu kunigaikštis turtin­
+    gas ir didis, ir, be to, naujas krikščionis. Dera tau būti
+    mūsų krikščionių karalių broliu, vainikuotu karaliumi."
+    Didysis kunigaikštis, išgirdęs tai iš imperatoriaus ir
+    supratęs palankų imperatoriaus nusistatymą, tuoj pat
+    su savo broliu karaliumi Jogaila kreipėsi į imperatorių,
+    prašydami, kad jis sutiktų ir leistų jam vainikuotis ka­
+    raliaus vainiku ir kad pasiųstų pasiuntinius pas šven­
+    tąjį tėvą-popiežių, idant šis, pašventinęs vainiką, duotų
+    didžiajam kunigaikščiui Vytautui22
+
+    Imperatorius su tuo sutiko ir tuoj pat nusiuntė savo
+    pasiuntinius pas popiežių, prašydamas šventąjį tėvą-
+    popiežių, kad jis duotų Vytautui vainiką pagal krikš­
+    čionišką paprotį.
   citata_rodoma: "Paskui didysis kunigaikštis Vytautas pasikvietė ka­\nralių Jogailą 1  žiemai pas save į Bieloviežo girią me­\ndžioti pramogai stumbrų."
   statusas: verified
   teiginio_tipas: faktas
@@ -91,5 +65,3 @@ Vytautas pakvietė Jogailą žiemai į Bieloviežo girią medžioti stumbrų.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187169
-    - t-187564
-    - t-194025

@@ -7,12 +7,12 @@ datos:
   - '1938 m.'
 date_start: '1938'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad ivinskis Z.
   teiginys: "Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m."
   pagrindžia:
     - c-61716
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,13 @@ Dusburgietis teigia, kad ivinskis Z.
 - id: c-61716
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 264"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ivinskis Z. Senovės lietuvių religijos bibliografija.—K., 1938.
+    89—
+    98.
+    Łowmiański H. Elementy indoeuropejskie w religii Bałtów.— Ars historica; Prace z
+    dziejów powszechnych i Polski, Poznań, 1976, s.
+  citata_rodoma: "Ivinskis Z. Senovės lietuvių religijos bibliografija.—K., 1938."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

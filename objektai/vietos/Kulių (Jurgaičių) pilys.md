@@ -44,29 +44,6 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
     - c-45155
 - susijęs iš Šiaurės Žemaitija: 1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis.
 - susijęs iš Šiaurės Žemaitija: 1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1348 m. kovo mėn. Livonijos ordinas puolė Šiaurės Žemaitiją ir sunaikino Kulių (Jurgaičių), Dubysos (Bubių) bei kitas pilis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    nebūsi“ ir liepė pilies kieme nukirsti jam galvą.“
-
-    Po mūšio
-    1348 m. kovo mėn. Livonijos ordinas vėl
-    puolė Šiaurės Žemaitiją, sunaikino Kulių
-    (Jurgaičių), Dubysos (Bubių) ir kažku-
-    rias kitas pilis, o Prūsijos ordinas maršalo
-    vadovaujamas vėlesniais mėnesiais siaubė
-    Ariogalos kraštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45155

@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Juozapas Zavadskis'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -34,6 +35,13 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   teiginys: "Šubravcų draugijoje Juozapas Zavadskis buvo pasivadinęs senovės lietuvių dievybės Svaistiko vardu."
   pagrindžia:
     - c-83715
+
+<a id="claim-t-197766"></a>
+- t-002
+  global_id: t-197766
+  teiginys: "Juozapas Zavadskis sukėlė labai neigiamas emocijas tiek LTI autoriui, tiek jos leidėjui."
+  pagrindžia:
+    - c-179330
 - susijęs iš [[objektai/asmenys/Janas Chodzka.md#claim-t-87698|Janas Chodzka]]: Janas Chodzka priklausė Vilniaus šubravcų draugijai ir joje pasivadino Vaižgantu.
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-87702|Janas Lasickis]]: Jano Lasickio knygą apie žemaičių ir kitų tautų dievus išstudijavę Vilniaus šubravcai pasivadino senovės lietuvių dievybių vardais.
 - susijęs iš [[objektai/asmenys/Jokūbas Šimkevičius.md#claim-t-87709|Jokūbas Šimkevičius]]: Jokūbas Šimkevičius, Vilniaus šubravcų draugijos narys, pasivadino Perkūnu.
@@ -44,32 +52,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
 - susijęs iš [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais.md#claim-t-55171|Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]: Išstudijavę Jano Lasickio knygą, Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.
 - susijęs iš Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus: Išstudijavę Jano Lasickio knygą apie dievus, šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.
 - susijęs iš Šubravcų draugijos kodeksas: Šubravcų draugijos kodekse nustatytos narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šubravcų draugijoje Juozapas Zavadskis buvo pasivadinęs senovės lietuvių dievybės Svaistiko vardu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Legaliai veikė įvai­
-    rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­
-    tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­
-    spektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo
-    Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
-    universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
-    ventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­
-    matą bei netikrų krikščionių dievus, draugijos nariai pasivadino
-    senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­
-    kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
-    gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
-    viu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83715
@@ -96,3 +78,22 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87736
+
+- id: c-179330
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    „Wizerunki i Roztrząsania Naukowe“, iš pradžių re­
+    daguotas Leono Rogalskio, o vėliau — Ignoto Sidlovskio,
+    buvo vienas iš stambiausių ir solidžiausių to meto inte­
+    lektualinės pakraipos leidinių. Recenzija, ir tokia nepa­
+    lanki, buvo rimtas pavojaus ženklas. Reikia manyti, jog
+    ji sukėlė labai neigiamas emocijas tiek LTI autoriui, tiek
+    jos leidėjui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197766

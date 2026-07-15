@@ -36,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Redakcinė pastaba teigia, kad žinia apie Algirdo pergalę prieš totorius ties Mėlynaisiais Vandenimis apskritai laikoma patikima. Redakcinė pastaba teigia, kad daugumas istorikų šį mūšį datuoja 1352—1362 m., nors dalis jį kelia į XIV a. pabaigą.
+1971 m. komentare žinia, kad Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, laikoma apskritai patikima, nors data ginčijama. Redakcinė pastaba mini tris su mūšiu sietus totorių vadų vardus, iš kurių iš Algirdo laikotarpio kituose šaltiniuose žinomas tik Kutlubugas. 1971 m. komentare Mėlynųjų Vandenų mūšio data laikoma ginčytina: dauguma istorikų jį datuoja 1352–1362 m., kai kurie – XIV a. pabaiga.
 
 ## Laikotarpis ir datos
 
@@ -62,13 +62,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-186694"></a>
-- t-001
-  global_id: t-186694
-  teiginys: "Žinia apie Algirdo pergalę prieš totorius ties Mėlynaisiais Vandenimis 1971 m. komentare laikoma apskritai patikima, nors dėl datos nesutariama."
-  pagrindžia:
-    - c-169932
-
 <a id="claim-t-186695"></a>
 - t-002
   global_id: t-186695
@@ -76,14 +69,21 @@ Nenurodyta
   pagrindžia:
     - c-169933
 
+<a id="claim-t-186694"></a>
+- t-001
+  global_id: t-186694
+  teiginys: '1971 m. komentare žinia, kad Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, laikoma apskritai patikima, nors data ginčijama.'
+  pagrindžia:
+    - c-169932
+
 <a id="claim-t-186696"></a>
 - t-003
   global_id: t-186696
-  teiginys: "Mėlynųjų Vandenų mūšis 1971 m. komentare datuojamas kaip ginčytinas: dauguma istorikų jį skiria 1352–1362 m., kai kurie – XIV a. pabaigai."
+  teiginys: '1971 m. komentare Mėlynųjų Vandenų mūšio data laikoma ginčytina: dauguma istorikų jį datuoja 1352–1362 m., kai kurie – XIV a. pabaiga.'
   pagrindžia:
     - c-169932
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -96,7 +96,7 @@ Nenurodyta
     Atmetama, kad M ėlynųjų Vandenų pergalė turėjusi įtakos Algirdo
     brolvaikių Karijotaičių įsigalėjimui Podolėje.
   citata_rodoma: ''
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,50 +104,12 @@ Nenurodyta
     - t-001
     - t-003
 
-- c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 Vienas Kutlubugas minimas IM 1277 m. Iš Algirdo valdymo
-    laikotarpio žinomas Kutlubugas, kuris 1382 m. buvo Krymo val­
-    dytoju. Apie kitus du čia minimus totorių vadus Chadžibėjų ir Di-
-    mltrų žinių nėra.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
-
-- id: c-169932
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    ' M ėlynieji Vandenys — veikiausiai. Pietų Bugo kairysis inta­
-    kas Snivodė, arba Sinlucha, tekėjusi Kijevo, Volynės ir Podolės že­
-    mių sandūroje, arba to paties vardo pilis, buvusi prie tos upės.
-    Žinia, kad Algirdas sumušęs totorius ties Mėlynaisiais Vandenimis,
-    apskritai patikima, liet dėl datos nesutariama. Kai kurie istorikai
-    deda šį mūšį | XIV a. pabaigų, o  daugumas datuoja 1352— 1362 m.
-    Atmetama, kad M ėlynųjų Vandenų pergalė turėjusi įtakos Algirdo
-    brolvaikių Karijotaičių įsigalėjimui Podolėje.
-  citata_rodoma: "' M ėlynieji Vandenys — veikiausiai. Pietų Bugo kairysis inta­\nkas Snivodė, arba Sinlucha, tekėjusi Kijevo, Volynės ir Podolės že­\nmių sandūroje, arba to paties vardo pilis, buvusi prie tos upės. \nŽinia, kad Algirdas sumušęs totorius ties Mėlynaisiais Vandenimis, \napskritai patikima, liet dėl datos nesutariama. Kai kurie istorikai \ndeda šį mūšį | XIV a. pabaigų, o  daugumas datuoja 1352— 1362 m. \nAtmetama, kad M ėlynųjų Vandenų pergalė turėjusi įtakos Algirdo \nbrolvaikių Karijotaičių įsigalėjimui Podolėje."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186694
-    - t-186696
 
 - id: c-169933
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 216"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 216."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 Vienas Kutlubugas minimas IM 1277 m. Iš Algirdo valdymo
     laikotarpio žinomas Kutlubugas, kuris 1382 m. buvo Krymo val­

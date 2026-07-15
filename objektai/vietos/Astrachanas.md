@@ -47,36 +47,17 @@ Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potocki
 - susijęs iš [[objektai/autoriai/Jonas Potockis.md#claim-t-190328|Jonas Potockis]]: Narbutas turėjo omenyje Jono Potockio 1797 m. kelionės į Astrachanę aprašymą, publikuotą „Dziennik Wilenski“ 1828 m.
 - susijęs iš [[objektai/autoriai/Jonas Potockis.md#claim-t-190735|Jonas Potockis]]: Narbutas turėjo omenyje straipsnį „Podrož Hrabiego Jana Potockiego do Astrachanu i okolic przyleglych, w roku 1797“, paskelbtą „Dziennik Wilenski“.
 - susijęs iš J. Potockio „Podrož Hrabiego Jana Potockiego do Astrachanu i okolic przyleglych, w roku 1797“: Jano Potockio kelionės į Astrachanę ir apylinkes 1797 m. aprašymas buvo publikuotas „Dziennik Wilenski“ 1828 m. penktame tome.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potockio straipsnį apie kelionę į Astrachaną ir jo apylinkes.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šį kartą istorikas turėjo omenyje straipsnį: Podrož
-    Hrabiego Jana Potockiego do Astrachanu i okolic
-    przyleglych, w roku 1797 // Dziennik Wilenski. -
-    1828. -  T. V. -  S. 222-240; 284-304.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-171866
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 483"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 483."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šį kartą istorikas turėjo omenyje straipsnį: Podrož
     Hrabiego Jana Potockiego do Astrachanu i okolic
     przyleglych, w roku 1797 // Dziennik Wilenski. -
-    1828. -  T. V. -  S. 222-240; 284-304.
+    1828. - T. V. - S. 222-240; 284-304.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

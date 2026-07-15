@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 46
+tema_objektu_skaicius: 45
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 46.
+Objektų skaičius: 45.
 
 ## Kaip naudoti
 
@@ -30,7 +30,6 @@ Objektų skaičius: 46.
 - [[objektai/vietos/Alanta]]
 - [[objektai/vietos/Alionys]]
 - [[objektai/vietos/Antakalnis]]
-- [[objektai/vietos/Astravas]]
 - [[objektai/vietos/Astravos dvaras]]
 - [[objektai/vietos/Balstogė]]
 - [[objektai/vietos/Barboros rūmai Vilniuje]]
@@ -51,7 +50,7 @@ Objektų skaičius: 46.
 - [[objektai/vietos/Merkinės dvaras]]
 - [[objektai/vietos/Podbužo dvaras]]
 - [[objektai/vietos/Polianų dvaras]]
-- [Pranciškonų bažnyčia ir vienuolynas](../objektai/vietos/Pranci%C5%A1kon%C5%B3%20ba%C5%BEny%C4%8Dia%20ir%20vienuolynas)
+- [[objektai/vietos/Pranciškonų bažnyčia ir vienuolynas]]
 - [Pulavai](../objektai/vietos/Pulavai)
 - [Pumos](../objektai/vietos/Pumos)
 - [Puoriai](../objektai/vietos/Puoriai)

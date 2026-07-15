@@ -35,33 +35,13 @@ Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant 
   teiginys: "Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant kurio žvejai atnašaudavo pirmas sugautas žuvis."
   pagrindžia:
     - c-171886
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant kurio žvejai atnašaudavo pirmas sugautas žuvis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kasmet Didžiosios šventės iš­
-    vakarėse šio dievo stabą sudaužydavo ir dirbindavo naują. Dar
-    jis turėjo aukurą, arba akmeni, esantį tarp Frauenburgo ir Tol-
-    kmito, ant kurio žvejai atnašaudavo jam pirmas sužvejotas žu­
-    vis. Apaštalai, apkrikštydami prūsus, daugiausia vargo, kol įvei­
-    kė prietaringą tikėjimą šia dievybe*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-171886
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 109"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kasmet Didžiosios šventės iš­
     vakarėse šio dievo stabą sudaužydavo ir dirbindavo naują. Dar

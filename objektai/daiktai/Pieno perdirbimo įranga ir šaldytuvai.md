@@ -60,59 +60,7 @@ Nenurodyta
   teiginys: "Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį."
   pagrindžia:
     - c-48310
-
-<a id="claim-t-45534"></a>
-- t-002
-  global_id: t-45534
-  teiginys: "Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį."
-  pagrindžia:
     - c-22285
-
-<a id="claim-t-45534"></a>
-- t-003
-  global_id: t-45534
-  teiginys: "Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį."
-  pagrindžia:
-    - c-22285
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus
-    geresnėmis javų sėklomis, veisliniais gyvuliais, padėjo rengti žemės ūkio
-    specialistus. Žemės ūkyje pradėtos naudoti organinės ir mineralinės trą-
-    šos, pagerėjo javų derlingumas (nuo 9 cnt prieš karą iki 12 cnt ketvirta-
-    jame dešimtmetyje). Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
-    dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
-    mėsos produktų eksportas į užsienį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-002
-  santrauka: 'Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žemės ūkyje pradėtos naudoti organinės ir mineralinės trą-
-    šos, pagerėjo javų derlingumas (nuo 9 cnt prieš karą iki 12 cnt ketvirta-
-    jame dešimtmetyje). Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
-    dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
-    mėsos produktų eksportas į užsienį.
-    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
-    nais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Šaltiniai ir įrodymai
 
@@ -134,13 +82,10 @@ Nenurodyta
     mėsos produktų eksportas į užsienį.
   citata_rodoma: "Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-\ndirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir\nmėsos produktų eksportas į užsienį."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-45534
-    - t-45533
-
 - id: c-48310
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

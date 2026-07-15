@@ -9,13 +9,13 @@ datos:
   - '1906 m.'
 date_start: '1801'
 date_end: '1906'
+amziai:
+  - 'XIX'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,8 +43,8 @@ Dusburgietis teigia, kad ziesemer W.
   teiginys: "W. Ziesemerio veikalas „Nicolaus von Jeroschin und seine Quelle“ išleistas Berlyne 1906 metais."
   pagrindžia:
     - c-62015
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'W. Ziesemerio veikalas „Nicolaus von Jeroschin und seine Quelle“ išleistas Berlyne 1906 metais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,10 +63,11 @@ Dusburgietis teigia, kad ziesemer W.
 - id: c-62015
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 274"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906.
+    В. 2. — М 1955.
+    Рыбаков Б. А. Киевская Русь и русские княжества XII— XIII вв.
+  citata_rodoma: "Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -69,13 +69,6 @@ Nenurodyta
   teiginys: "A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“."
   pagrindžia:
     - c-66917
-
-<a id="claim-t-66787"></a>
-- t-003
-  global_id: t-66787
-  teiginys: "Mindaugas buvo pirmas ir vienintelis vainikuotas Lietuvos karalius."
-  pagrindžia:
-    - c-166652
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113908|Mindaugas (valdovas, XIII a.)]]: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
 - susijęs iš [[objektai/autoriai/Mindaugas Tamošaitis.md#claim-t-169891|Mindaugas Tamošaitis]]: 2013 m. antrajame leidime Mindaugas Tamošaitis nurodytas tarp autorių teisių turėtojų.
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas.md#claim-t-66789|Mindaugo krikštas ir karūnos išsirūpinimas]]: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
@@ -91,41 +84,6 @@ Nenurodyta
 - susijęs iš Kijevo Rusia: 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes ir nusiaubė Pskovą.
 - susijęs iš Lietuva: Mindaugo karūnacija užbaigė Lietuvos valstybės susikūrimą, nes Lietuvą pripažino to meto pasaulis.
 - susijęs iš Pskovas: 1183 m. lietuviai per pirmąjį savarankišką žygį į Rusios žemes nusiaubė Pskovą ir pakeliui turbūt Polocką.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mindaugo vainikavimas
-    Mindaugo karūnacija.
-    Dail. A. Varnas, 1952–1953 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Mindaugo vainikavimo dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
-    jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
-    rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
-    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
-    mas ir vienintelis vainikuotas Lietuvos karalius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-
 ## Citatos
 
 - id: c-66917
@@ -158,5 +116,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183264
     - t-66787

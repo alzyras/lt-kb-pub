@@ -39,7 +39,6 @@ Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies
 - susijęs iš [[objektai/ivykiai/Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje.md#claim-t-91910|Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje]]: Brolis Fridrichas Holė su 100 raitelių žygiavo į Sūduvą, o grįžtant iš Kirsnavos valsčiaus priešai nukovė jį ir 30 vyrų.
 - susijęs iš [[objektai/asmenys/Fridrichas, vadinamas Hole.md#claim-t-60280|Fridrichas, vadinamas Hole]]: Fridrichas, vadinamas Hole, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą, o grįždamas iš Kirsnavos valsčiaus buvo nukautas su 30 vyrų.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Brolis Fridrichas, grįždamas su grobiu iš Kirsnavos valsčiaus, buvo priešų nukautas kartu su 30 vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -65,17 +64,18 @@ Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies
 - id: c-59330
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 171"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    tikras brolis, su 100 raitelių iš Brandenburgo pilies patraukė  į Sūduvą; kai jis žygiavo
-    atgal, paėmęs didelį grobį Kirsnavos valsčiuje514, priešai, leidęsi  jį persekioti, nukovė
-    ir jį, ir 30 vyrų. Vis dėlto manyčiau, jog nieku būdu nederėtų nutylėti, kad šis brolis
-    Fridrichas prieš savo žūtį taip smarkiai kirto kalaviju per nugarą vienam tvirtam kariui,
-    pastojusiam kovoje jam kelią, taip baisiai jam smogė, kad tas, neatlaikęs smūgio, su
-    arkliu parkrito žemėn, nors šis kirtis jo visai nesužeidė ir nepaliko ant kūno jokio žaizdos
-    pėdsako, kaip vėliau, priėmę Kristaus tikėjimą, viešai pareiškė ir pats nukentėjęs, ir kiti
-    sūduviai, dalyvavę tame kare ir viską matę.
+    Tiems, kurie, išsižadėję stabmeldystės, priima Kristaus tikėjimą, broliai teikia štai šias
+    malones. Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei
+    libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis
+    turi tarnauti broliams taip, kaip to reikalauja po šiai dienai Prūsijoje išlikę papročiai; vis
+    dėlto, paisydami jų nuopelnų ar nusižengimų, broliai gali ir kitaip elgtis, pavyzdžiui, negi
+    nekilmingasis, atskalūnybės metais ar kitokių tikėjimui iškilusių negandų atvejais likęs
+    ištikimas tikėjimui ir broliams, nėra taip didžiai nusipelnęs, kad iš nekilmingųjų būtų
+    pakeltas į garbingus kilminguosius, o vergovė jam pakeista pelnyta laisve? Žinoma, kad
+    taip. Priešingais atvejais broliai irgi tinkamai elgėsi.
+  citata_rodoma: "tikras brolis, su 100 raitelių iš Brandenburgo pilies patraukė  į Sūduvą; kai jis žygiavo\natgal, paėmęs didelį grobį Kirsnavos valsčiuje514, priešai, leidęsi  jį persekioti, nukovė\nir jį, ir 30 vyrų. Vis dėlto manyčiau, jog nieku būdu nederėtų nutylėti, kad šis brolis\nFridrichas prieš savo žūtį taip smarkiai kirto kalaviju per nugarą vienam tvirtam kariui,\npastojusiam kovoje jam kelią, taip baisiai jam smogė, kad tas, neatlaikęs smūgio, su\narkliu parkrito žemėn, nors šis kirtis jo visai nesužeidė ir nepaliko ant kūno jokio žaizdos\npėdsako, kaip vėliau, priėmę Kristaus tikėjimą, viešai pareiškė ir pats nukentėjęs, ir kiti\nsūduviai, dalyvavę tame kare ir viską matę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

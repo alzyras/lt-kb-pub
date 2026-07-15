@@ -35,20 +35,6 @@ Gaida, Arkiv.
   teiginys: "Pr. Gaida rengė spaudai Arkivyskupo T. Matulionio gyvenimą."
   pagrindžia:
     - c-29299
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pr. Gaida, Arkiv. T. Matulionio gyvenimas, baigiama
-    ruošti spaudai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

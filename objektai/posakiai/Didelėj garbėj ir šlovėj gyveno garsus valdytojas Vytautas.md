@@ -57,30 +57,6 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
   teiginys: "Herberšteinas Vytautą įvardija vyru, už kurį didesnio Lietuva neturėjo."
   pagrindžia:
     - c-14583
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Žodžiu, mirė vyras, kuris turėjo di­
-    delių nuopelnų ne tik savo kraštui, iškeldamas jį į kultūringų
-    kraštų tarpą, bet ir Lenkijai ir visai Europai.
-    Apie Vytautą jo bendralaikis Aeneas Silvijus Picolomini,
-    vėliau popiežius Pijus II, taip atsiliepia: savo laiku Vytauto
-    vardas buvo didelis. „Didelėj garbėj ir šlovėj gyveno garsus val­
-    dytojas Vytautas ir jo tėvynė“ — kalba apie jį vienas kroniki­
-    ninkas; „kunigaikštis kilnios širdies ir garsios garbės“—tvirtina
-    kitas kronikininkas Mechovita; „vyras, už kurį didesnio Lie­
-    tuva neturėjo“ — išsireiškia šimtą metų vėliau Herberšteinas^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-    - t-003
 
 ## Citatos
 
@@ -106,6 +82,6 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67267
     - t-67266
+    - t-67267
     - t-67268

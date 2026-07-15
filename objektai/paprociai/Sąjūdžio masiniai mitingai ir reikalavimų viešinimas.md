@@ -74,25 +74,6 @@ media_all_json: |-
   teiginys: "1988 m. liepą-rugsėjį visoje Lietuvoje steigėsi Sąjūdžio iniciatyvinės grupės ir vyko didžiuliai mitingai."
   pagrindžia:
     - c-16973
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi
-    iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-
-    ciatyvinės grupės nariai. Sąjūdžio grupės pripažino Sąjūdžio iniciatyvi-
-    nės grupės lyderystę, nors ją rinko tik vilniečiai. 1988 m. spalio pabaigoje
-    1 200 Lietuvoje įregistruotų LPS grupių vienijo 300 000 narių, nes Sąjūdis
-    buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi
-    Lietuvos gyventojai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Šaltiniai ir įrodymai
 

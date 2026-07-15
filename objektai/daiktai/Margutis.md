@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Mat rusai nuo senų senovės įpratę Velykų dieną do vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+Kojelavičiaus aiškinimu, rusai nuo seno Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -47,47 +47,16 @@ Nenurodyta
 <a id="claim-t-193479"></a>
 - t-001
   global_id: t-193479
-  teiginys: "Mat rusai nuo senų senovės įpratę Velykų dieną do vanoti vienas kitam margutį kaip bičiuliškumo ženklą."
+  teiginys: "Kojelavičiaus aiškinimu, rusai nuo seno Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą."
   pagrindžia:
     - c-176180
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mat rusai nuo senų senovės įpratę Velykų dieną do vanoti vienas kitam margutį kaip bičiuliškumo ženklą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Abiejų tautų
-    priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­
-    dami su šitokiomis sąlygomis;
-    prisiekė valdovas Dimitrijus,
-    vyriausiasis šventikas, žmo­
-    nių vadinamas metropolitu,
-    viečė ir žymiausieji bajorai,
-    Algirdas,
-    tą
-    pačią
-    dieną
-    įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­
-    vanojo kunigaikštį, kariškai jį pasveikinęs prie pačių
-    altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­
-    dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
-    Mat rusai nuo senų senovės įpratę Velykų dieną do­
-    vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-176180
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Abiejų tautų
     priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­
@@ -106,6 +75,12 @@ Nenurodyta
     dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
     vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+    Algirdas, nors viešai laikėsi stabmeldžių apeigų, ta­
+    čiau, neseniai savo žmonos Julijonos, Vitebsko kuni­
+    gaikščio dukters, noru sutikęs priimti krikščionybę, ne­
+    atmetė rusų apeigų ir rusams Vitebske pastatė porą
+    šventovių.
+  citata_rodoma: "Abiejų tautų\npriesaika turinti sustiprinti amžinąją taiką. Kai, sutik­\ndami su šitokiomis sąlygomis;\nprisiekė valdovas Dimitrijus,\nvyriausiasis šventikas, žmo­\nnių vadinamas metropolitu,\nviečė ir žymiausieji bajorai,\nAlgirdas,\ntą\npačią\ndieną\nįžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­\nvanojo kunigaikštį, kariškai jį pasveikinęs prie pačių\naltorių (,,Tad jau supratai, Dimitrijau, katras iš mu­\ndviejų greičiau pakyla į karą\"), velykiniu kiaušiniu.\nMat rusai nuo senų senovės įpratę Velykų dieną do­\nvanoti vienas kitam margutį kaip bičiuliškumo ženklą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

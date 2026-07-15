@@ -62,41 +62,6 @@ Nenurodyta
   teiginys: "Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose: užtat daugumas mokykloms skirtų pinigų žūdavo visokių agentų kišenėse, ir mokyklos pradėjo skursti."
   pagrindžia:
     - c-67099
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XVIII a. bajorija ir didikai buvo įpratę pasipelnyti iš viešųjų reikalų, prie kurių prisidėdavo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso
-    pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
-    valstybė. Iš to būtų galėję išeiti nemaža naudos, jei žmonės, kurie
-    stovėjo prie to darbo, būtų buvę sąžiningesni. Bet to meto bajorija
-    ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-
-    nyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš to būtų galėję išeiti nemaža naudos, jei žmonės, kurie
-    stovėjo prie to darbo, būtų buvę sąžiningesni. Bet to meto bajorija
-    ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-
-    nyti. Užtat daugumas mokykloms skirtų pinigų žūdavo visokių
-    agentų kišenėse, ir mokyklos pradėjo skursti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

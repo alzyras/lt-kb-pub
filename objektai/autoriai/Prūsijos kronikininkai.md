@@ -49,7 +49,6 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
 - susijęs iš [[objektai/grupes/Burtininkai.md#claim-t-189451|Burtininkai]]: Narbutas rašė, kad Prūsijos kronikininkai burtininkams priskyrė ateities spėjimą liejant ištirpintą vašką į šaltą vandenį.
 - susijęs iš [[objektai/paprociai/Pranašavimas liejant vašką į šaltą vandenį.md#claim-t-189856|Pranašavimas liejant vašką į šaltą vandenį]]: Narbutas rašė, kad Prūsijos kronikininkai burtininkams priskyrė ateities spėjimą liejant ištirpintą vašką į šaltą vandenį.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -97,14 +96,22 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
 - id: c-173261
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 182"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šie dievaičiai atitinka Antikos Paną.
-    Prūsijos kronikininkų, besivadovaujančių Olafo Didžiojo
-    „Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­
-    viai perėmę iš skandinavų.
-    30 Stenden Lettische Grammatik.
+    O
+    čia surinksime visokias išlikusias žinias apie dangaus kūnų su­
+    dievinimą, kadangi aukščiau nurodėme ne vieną dievaitį, tie­
+    siogiai kilusį iš šio šaltinio, ir kitus, galėjusius būti tos kilmės;
+    kadangi užrašai žuvo, šito tiksliai aprašyti negalėjome. Be jo­
+    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
+    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
+    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
+    no, gyveno ši tauta, garbinusi dangaus kūnus .
+    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
+    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
+    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
+    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
+  citata_rodoma: "Šie dievaičiai atitinka Antikos Paną.\nPrūsijos kronikininkų, besivadovaujančių Olafo Didžiojo\n„Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­\nviai perėmę iš skandinavų.\n30 Stenden Lettische Grammatik."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -117,19 +124,18 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iš čia slap­
-    tos sueigos, slaptos reikšmės dievybės, kurių mūsų mitologas
-    197
-
-    ## Puslapis 197
-
-    išvardija net aštuonetą. Prūsijos kronikininkai be perstojo kar­
-    toja, kad stabmeldžiai slepią tam tikras religines apeigas.
-    Negaliu paneigti nuomonės, kad lietuviai yra turėję religi­
-    nių paslapčių; priešingai, manau, kad lietuviai nebūtų galėję
-    be jų apsieiti, kadangi kiekviena daugiadieviška religija, pa­
-    siekusi tam tikrą vystymosi pakopą, net iki juokingumo apau­
-    ga prietarais, keistenybėmis.
+    Pagaliau jei­
+    gu kronikos ir padavimai tvirtina apie lietuvius, kad jie slepią
+    kai kurias savo apeigas , jeigu autoriai, įvairiapusiškai išma­
+    nantys visuotinę mitologiją, tą patį pripažįsta ir laukiniams Af­
+    rikos Sacharos dykumos gyventojams’, tai kodėl tą turėtume
+    užginčyti lietuvių tautai?
+    Dabar apžvelkime Lasickio paliktą paslaptingųjų dievybių
+    sąrašą, papildydami mūsišku jų supratimo išdėstymu.
+    Atlaibas (Atlajhos)
+    Būdvardis Lajbas reiškia plonas, dailus, nežinomu menu
+    sukurtas, paslaptingas .
+  citata_rodoma: "Iš čia slap­\ntos sueigos, slaptos reikšmės dievybės, kurių mūsų mitologas\n197\n\n## Puslapis 197\n\nišvardija net aštuonetą. Prūsijos kronikininkai be perstojo kar­\ntoja, kad stabmeldžiai slepią tam tikras religines apeigas.\nNegaliu paneigti nuomonės, kad lietuviai yra turėję religi­\nnių paslapčių; priešingai, manau, kad lietuviai nebūtų galėję\nbe jų apsieiti, kadangi kiekviena daugiadieviška religija, pa­\nsiekusi tam tikrą vystymosi pakopą, net iki juokingumo apau­\nga prietarais, keistenybėmis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

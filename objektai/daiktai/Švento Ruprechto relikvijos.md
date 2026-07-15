@@ -60,36 +60,13 @@ Nenurodyta
   teiginys: "1306 m. Karaliaučiaus pilyje prie švento Ruprechto relikvijų, pasak kronikos, pagijo daug žmonių, šunų ir traukos gyvulių."
   pagrindžia:
     - c-60345
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1306 m. Karaliaučiaus pilyje prie švento Ruprechto relikvijų, pasak kronikos, pagijo daug žmonių, šunų ir traukos gyvulių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    101. Apie švento Ruprechto stebuklus Karaliaučiuje
-
-      1306 viešpaties metais Prūsijoje, Karaliaučiaus pilyje, viešpats ėmė daryti stebuklus
-    prie švento Ruprechto relikvijų, kur pagijo nuo visokiausių negalių daug žmonių, šunų
-    bei visokių traukos gyvulių.
-
-
-
-        102.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60345
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     101. Apie švento Ruprechto stebuklus Karaliaučiuje
 

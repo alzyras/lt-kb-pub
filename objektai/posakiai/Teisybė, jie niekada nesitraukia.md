@@ -35,23 +35,6 @@ media_all_json: |-
   teiginys: "Posakis „Teisybė, jie niekada nesitraukia“ apibūdina raitelius kaip nesitraukiančius ir visu greičiu puolančius."
   pagrindžia:
     - c-44962
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Teisybė, jie niekada nesitraukia, varo žirgus visu greičiu, tarsi žaistų gaudynes ir per-
-    smeigia visus, pasimaišiusius jų kelyje.“
-
-    ca Konseržas, kitaip končaras ar estokas (Estoc prancūzų kalba reiškia durti), kartais vadinamas kava-
-    lerijos špaga. XVI a. pabaiga-xVII a.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -38,29 +38,11 @@ Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos eg
 <a id="claim-t-191705"></a>
 - t-002
   global_id: t-191705
-  teiginys: "Obelių kapinyno radiniai Saurų dvaro muziejuje užėmė vieną garbingiausių vietų."
+  teiginys: 'Obelių kapinyno radiniai Saurų dvaro muziejuje užėmė vieną garbingiausių vietų.'
   pagrindžia:
     - c-174587
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
-    leidimą (PEĮ. L. 133). Dievo Kovo stabą T. Narbutas ypač vertino
-    laikydamas jį vienu svarbiausių savo
-    kolekcijos
-    egzempliorių
-    ( [Narbutt T.] Spisanie Muzeum w Szawrach. L. 2. Nr. 9).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Obelių kapinyno radiniai Saurų dvaro muziejuje užėmė vieną garbingiausių vietų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -85,8 +67,7 @@ Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos eg
 - id: c-174586
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 491"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
     leidimą (PEĮ. L. 133). Dievo Kovo stabą T. Narbutas ypač vertino
@@ -100,22 +81,3 @@ Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos eg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191704
-
-- id: c-174587
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    491
-
-    ## Puslapis 501
-
-    S. 222—224). Obelių kapinyno radiniai užėmė vieną garbingiau­
-    sių vietų Saurų dvaro muziejuje ( \Narbutt T.] Spisanie Muzeum
-    w Szawrach. L. 2 (Nr. 3); L. 3 (Nr. 29, 31).
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191705

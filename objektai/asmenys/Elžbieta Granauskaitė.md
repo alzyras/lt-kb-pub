@@ -43,27 +43,6 @@ Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­ nios bei valios vedė Elžb
   teiginys: "Jogaila 1417 m. vedė Elžbietą Granauskaitę be Vytauto ir jo didžiūnų žinios bei valios."
   pagrindžia:
     - c-38005
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet tai ne vienas dalykas, ypač labai žymų vaidmenį jis suvai­
-    dino, kai iškilo klausimas Jogailos vedybų arba išleidimas jo
-    dukters už vyro^2 ). Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­
-    nios bei valios vedė Elžbietą Granauskaitę, Vytautas taip supyko,
-    kad karalius, norėdamas vėl įsigyti jo prielankumą, turėjo tam
-    sušaukti atskirą suvažiavimą. Lemiančios reikšmės turėjo jo
-    balsas ir ketvirtosiose Jogailos vedybose su kun. Zofija, Alšė­
-    niške; šiuo tarpu buvo pasipriešinta visai kitoniškam Lenkijos
-    tarybos projektui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

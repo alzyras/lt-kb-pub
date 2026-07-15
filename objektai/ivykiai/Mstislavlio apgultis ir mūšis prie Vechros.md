@@ -60,32 +60,16 @@ Nenurodyta
 <a id="claim-t-186725"></a>
 - t-001
   global_id: t-186725
-  teiginys: "Mstislavlio apgulties metu mūšis įvyko prie Sožo intako Vechros, prie kurios stovi Mstislavlis."
+  teiginys: 'Mstislavlio apgulties metu mūšis įvyko prie Sožo intako Vechros, prie kurios stovi Mstislavlis.'
   pagrindžia:
     - c-169949
 
 <a id="claim-t-186726"></a>
 - t-002
   global_id: t-186726
-  teiginys: "LDK kariuomenė prie Mstislavlio atžygiavo 1386 m. balandžio 29 d."
+  teiginys: 'LDK kariuomenė prie Mstislavlio atžygiavo 1386 m. balandžio 29 d.'
   pagrindžia:
     - c-169949
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 1 LDK kariuomenė atžygiavo prie M stislavlio 1386.1V.29.
-    1 J Mūšis įvyko prie Sožo intako Vechros, prie kurios stovi
-    Mstislavlis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -98,10 +82,10 @@ Nenurodyta
     1 J Mūšis įvyko prie Sožo intako Vechros, prie kurios stovi
     Mstislavlis.
   citata_rodoma: "LDK kariuomenė atžygiavo prie M stislavlio 1386.1V.29.\nMūšis įvyko prie Sožo intako Vechros, prie kurios stovi \nMstislavlis."
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186726
-    - t-186725
+    - t-001
+    - t-002

@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą. Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pasiuntinius ir pažadėjo klausyti Vytauto, mokėti duoklę bei įsileisti jo vietininką.
+Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą. Lietuvos metraštis pasakoja, kad Vytautas pasodino Pskove vietininku Pinsko kunigaikštį Jurijų, pramintą Nosimi. Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pas Vytautą pasiuntinius, pažadėjo jo klausyti, mokėti duoklę ir įsileisti vietininką.
 
 ## Laikotarpis ir datos
 
@@ -67,39 +67,6 @@ Nenurodyta
   teiginys: "Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pas Vytautą pasiuntinius, pažadėjo jo klausyti, mokėti duoklę ir įsileisti vietininką."
   pagrindžia:
     - c-169891
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didysis kunigaikštis Vytautas, sutelkęs visas savo
-    pajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis
-    mėnesius prie Porchovo miesto3  ir, nepaėmęs miesto,
-    nuėjo per Naugardo ir Pskovo žemę niokodamas, de­
-    gindamas ir imdamas nelaisvėn * .
-    Sekančiais metais didysis kunigaikštis Vytautas išsi­
-    rengė prieš Pskovo miestą5  ir paėmė Pskovo miestus
-    Veližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami,
-    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
-    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
-    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
-    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
-    (07
-
-    ## Puslapis 103
-
-    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
-    jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
-    žygiavo prieš Naugardą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-    - t-002
 
 ## Citatos
 
@@ -108,25 +75,27 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Didysis kunigaikštis Vytautas, sutelkęs visas savo
-    pajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis
-    mėnesius prie Porchovo miesto3  ir, nepaėmęs miesto,
-    nuėjo per Naugardo ir Pskovo žemę niokodamas, de­
-    gindamas ir imdamas nelaisvėn * .
-    Sekančiais metais didysis kunigaikštis Vytautas išsi­
-    rengė prieš Pskovo miestą5  ir paėmė Pskovo miestus
-    Veližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami,
-    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
-    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
-    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
-    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
-    (07
+    Numatė vokie­
+    čiai, kad lenkai ir lietuviai su tokia daugybe kariuo­
+    menės niekur kitur negalės išsirikiuoti, kaip tik šiame
+    lauke, ir todėl prikasė duobių ir pridengė velėnomis,
+    kad žirgai ir žmonės į jas įgriūtų3.
+    Karalius Jogaila ir didysis kunigaikštis Vytautas, su
+    savo kariuomenėmis perėję per miškus, priėjo tuos
+    Dubrovnos laukus. Tuo metu Jogailos kariuomenėje
+    didžiuoju etmonu buvo ponas Sokolas Čekas \ o kiemo
+    etmonu 5 — ponas Spytka Spytkovičius 6. O Vytauto ka­
+    riuomenėje didžiuoju etmonu buvo kunigaikštis Jonas
+    2adivydas7, Jogailos ir Vytauto brolis8, o kiemo et­
+    monu — ponas Jonas Goštautas9.
+    Kai tie anksčiau minėti etmonai pradėjo rikiuoti
+    žmones, apie tas duobes, kurias jiems vokiečiai iškasė.
 
-    ## Puslapis 103
-
-    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
-    jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
-    žygiavo prieš Naugardą.
+    nieko nežinojo, taigi, kariuomenę berikiuodami, di­
+    dieji etmonai — kunigaikštis Jonas Zadivydas ir ponas
+    Sokolas — įkrito į duobes ir nulūžo kojas, labai susi­
+    žeidė ir nuo to mirė; ir ne vien tik etmonai, bet ir dau­
+    gelis karių dėl tų duobių labai nukentėjo.
   citata_rodoma: "Sekančiais metais didysis kunigaikštis Vytautas išsi­\nrengė prieš Pskovo miestą5  ir paėmė Pskovo miestus \nVeližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami, \nkad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­\nnius pas didįjį kunigaikštį Vytautą, kad jis būtų jų \nvaldovu, žadėjo jo klausyti ir kasmet mokėti jam duok­\nlę bei įsileisti jo vietininką, ir didysis kunigaikštis\n\npasodino pas juos vietininku Pinsko kunigaikštį Juri­\njų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­\nžygiavo prieš Naugardą."
   statusas: verified
   teiginio_tipas: faktas
@@ -134,5 +103,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186598
-    - t-186600
     - t-186599
+    - t-186600

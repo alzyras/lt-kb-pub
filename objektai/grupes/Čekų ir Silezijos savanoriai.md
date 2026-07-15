@@ -35,26 +35,6 @@ media_all_json: |-
   teiginys: "Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge."
   pagrindžia:
     - c-82817
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Priešininkas, persekio­
-    jamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­
-    tosios upę ties Ukmerge, kur buvo nuskandinta labai daug
-    jo kareivių. Čekų ir Silezijos savanorių vadai ir, gražiausia,
-    Jaroslavas Lingumas*, Mstislavlio kunigaikštis, pateko į ne­
-    laisvę. Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
-    gaikščiu Jurgiu, išvengė sutriuškinimo21.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

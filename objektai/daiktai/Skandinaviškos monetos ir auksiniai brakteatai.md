@@ -50,37 +50,13 @@ Nenurodyta
   teiginys: "T. Volianskis atkreipė T. Narbuto dėmesį į skandinaviškas monetas ir auksinius brakteatus, kuriuos laikė susijusiais su Lietuva."
   pagrindžia:
     - c-172630
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'T. Volianskis atkreipė T. Narbuto dėmesį į skandinaviškas monetas ir auksinius brakteatus, kuriuos laikė susijusiais su Lietuva.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    T. Vo-
-    lianskis atkreipė T. Narbuto dėmesį į skandinaviškus numiz­
-    matinius paminklus, kurie, jo nuomone, turi nenuginčijamą
-    ryšį su Lietuva. Poznanės kolekcionierius ypač žavėjosi Kara­
-    liškojo Danijos lobyno rinkiniais, kurių dauguma jau buvo pub­
-    likuota. Skandinaviškose monetose bei ten pat saugomuose
-    auksiniuose brakteatuose pavaizduotas figūras bei užrašus
-    T Volianskis ir bandė perskaityti, anot paties T. Narbuto, pa­
-    darydamas tai, ko negalėjo niekas padaryti jau daugiau kaip
-    pusšimtį metų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172630
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 66."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     T. Vo-
     lianskis atkreipė T. Narbuto dėmesį į skandinaviškus numiz­

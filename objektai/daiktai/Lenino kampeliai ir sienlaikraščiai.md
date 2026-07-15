@@ -59,25 +59,6 @@ Nenurodyta
   teiginys: "Mokyklose buvo įrengiami Lenino kampeliai ir leidžiami sienlaikraščiai, siekiant stiprinti idėjinį komunistinį mokinių auklėjimą."
   pagrindžia:
     - c-22258
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ją ruošė totaliai kontroliuojama švieti-
-    mo sistema, o nepaklusnieji buvo baudžiami. Mokytojai verčiami studijuoti
-    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
-    partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
-    gą. Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
-    steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kam-
-    peliai, leisti sienlaikraščiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Šaltiniai ir įrodymai
 

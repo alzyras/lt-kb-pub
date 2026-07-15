@@ -34,38 +34,16 @@ Narbutas Kamilo amžių sieja su pasakojimu, kad Junonai skirtos žąsys pažadi
   teiginys: "Narbutas Kamilo amžių sieja su pasakojimu, kad Junonai skirtos žąsys pažadino romėnus galams kopiant į Kapitolijų."
   pagrindžia:
     - c-173053
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Kamilo amžių sieja su pasakojimu, kad Junonai skirtos žąsys pažadino romėnus galams kopiant į Kapitolijų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lenkai savo mitologijoje turėjo tą pačią dievybę, vadintą
-    Budzisz, kurios ženklas buvo žąsis -  paukštis. Jį Antikos žmo­
-    nės laikė budriausiu padaru, ypač nuo tų laikų, kai Kamilo
-    amžiuje žąsys, skirtos Junonai, kurias tos deivės žyniai laiky­
-    davo prie šventyklos, savo gagenimu pažadino romėnus, kai
-    galai jau buvo bekopią į Kapitolijų. Šis garsus istorijos įvykis
-    galėjo turėti įtakos, kad imta garbinti dievybę, kuri budėtų ser­
-    gėdama miegančius karius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173053
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 146"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 146."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lenkai savo mitologijoje turėjo tą pačią dievybę, vadintą
-    Budzisz, kurios ženklas buvo žąsis -  paukštis. Jį Antikos žmo­
+    Budzisz, kurios ženklas buvo žąsis - paukštis. Jį Antikos žmo­
     nės laikė budriausiu padaru, ypač nuo tų laikų, kai Kamilo
     amžiuje žąsys, skirtos Junonai, kurias tos deivės žyniai laiky­
     davo prie šventyklos, savo gagenimu pažadino romėnus, kai

@@ -67,27 +67,6 @@ Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u.
 - susijęs iš [[objektai/zodynas/Teritorinė autonomija.md#claim-t-22028|Teritorinė autonomija]]: Nepriklausomybės pradžioje Vilniaus krašto lenkų komunistiniai funkcionieriai planavo teritorinę autonomiją su Vilniaus apskritimi.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179715|Švitrigaila]]: 1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino.
 - susijęs iš Lietuva: Švitrigaila, nepatenkintas Vytauto iškėlimu, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1382 m. kryžiuočiai, niokodami kraštą, buvo pasiekę Šalčininkus ir Trakus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gavęs pa­
-    vedimą, nuvyko į Prūsiją ir, remdamasis sandėrio su Ordinu
-    galia, ėmė rengti naujus Kęstučio ir Lietuvos antpuolius. Išti­
-    sus 1382-uosius metus tęsėsi tarpusavio žudynės ir pade­
-    ginėjimai, o kryžiuočiai, niokodami viską pakeliui, jau net
-    Šalčininkus ir Trakus buvo pasiekę. Vilniui grėsė naujas
-    pavojus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-81627

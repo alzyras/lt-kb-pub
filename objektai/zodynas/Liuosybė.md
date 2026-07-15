@@ -45,20 +45,6 @@ Vartojamos formos: `liuosais`, `liuosybę`.
   pagrindžia:
     - c-09701
 - susijęs iš [[objektai/paprociai/Karo grobio dalijimas į keturias dalis.md#claim-t-07781|Karo grobio dalijimas į keturias dalis]]: Karo grobis buvo dalijamas į keturias dalis: dievams, kunigaikščiui su tarnais ar kunigais, kareiviams ir žuvusiųjų giminėms.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    pagal žmogaus būdą visi žmonės liuosais^47 turėjo gyventi, vienok didžturčiai visados neturtinguosius vergė; todėl, norėdami viens kitam jau savo tikėjimą antmesti^48 , jau liuosybę^49 išplėšti, tankiai tankesniai liejo kraują latakais su tokiu įnirtimu, jog nuveiktieji palikini neprieteliams^50 savo turtingus namus, vaisingus kraštus ir didelius lobius išsidangino jau į versmes ir balas, jau į tyrus dėl to vien, idant tenai galėtų kaip tinkami dievą garbinti ir liuosais gyventi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-09701

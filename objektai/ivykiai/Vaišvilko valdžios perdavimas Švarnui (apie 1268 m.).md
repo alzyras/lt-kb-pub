@@ -60,24 +60,6 @@ Nenurodyta
   teiginys: "Vaišvilkas apie 1268 m. vyriausią valdžią Lietuvoje perdavė savo svainiui Švarnui, vedusiam jo seserį."
   pagrindžia:
     - c-28775
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    _Vaišvilkas_ tačiau Lietuvoje tevaldė trimetį (1264-1267). Uoliai
-    remdamas rytų krikščionybės vystymąsi Lietuvoje, savo valstybės
-    politikoje jis visai pasidavė Romanaičiams. Šių įtaka ėjo tiek toli,
-    jog Vaišvilkas pagaliau apie 1268 m. vyriausią valdžią Lietuvoje
-    perleido ištinimam savo švogerini Švarnui (1268-1269 m.), vedusiam
-    Vaišvilko seserį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -73,45 +73,6 @@ Nenurodyta
   teiginys: "Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią, numatytą XIV a."
   pagrindžia:
     - c-23292
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vytau-
-    to apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
-    kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu
-    valdovu.
-    Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią,
-    numatytą XIV a. pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-
-    chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo
-    auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
-    Lucko suvažiavimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1430 m. Vytautas Jogailos sutikimą vėl gavo, reikėjo sulaukti
-    tik lenkų didikų pritarimo, deja, Vytautas jo nesulaukė – 1430 m. spalio
-    27 d. mirė. Nors maksimalus planas nebuvo įgyvendintas, svarbiausią
-    tikslą Vytauto politika pasiekė: atsilikusi ir izoliuota Lietuvos valstybė
-    pašalino didžiuosius pavojus, įteisino savo egzistenciją, įžengė į Europą,
-    pritapo prie jos ir joje išsilaikė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

@@ -59,27 +59,6 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
 - susijęs iš Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo: Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą.
 - susijęs iš Maskva: Stepono Batoro valdymo metais Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.
 - susijęs iš Traupeinas: Traupeinas rodyklėje siejamas su vardais Tranpere, Traupeien, vėlesniu Troopen ir dabartiniais Tropais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Liublino unijos nauda pasireiškė jau ne-
-    trukus. Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui
-
-    L I E T U V O S  I S T O R I J A
-    66
-    Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
-    Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
-    žiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-26550

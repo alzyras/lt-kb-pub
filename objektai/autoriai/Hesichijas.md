@@ -34,40 +34,13 @@ Hesichijas, kaip ir vėlesni Bizantijos tyrinėtojai, vartojo formą ’Iv8ixvj�
   teiginys: "Hesichijas, kaip ir vėlesni Bizantijos tyrinėtojai, vartojo formą ’Iv8ixvję."
   pagrindžia:
     - c-174492
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Hesichijas, kaip ir vėlesni Bizantijos tyrinėtojai, vartojo formą ’Iv8ixvję.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Si pataisa prieštarauja visiems rankraščiams (Co-
-    dices)i1, be to, yra tik paprasta prielaida, anot Veselnigo,
-    gana drąsi, bet turinti tam tikrų šalininkų, nes daugelis
-    vėlesnių rašytojų skaito ne Indi, o Sindi, grįsdami tai
-    gramatiniais argumentais. Vis dėlto Steponas*, o vėliau
-    ir Eustatijas2 bei visi senovės scholastai vartoja ’Iv8ixvję3,
-    -kaip ir vėlesni Bizantijos tyrinėtojai, net ir Hesichijas.
-    Pateiktos šiai pataisai paremti geografinės prielaidos vi­
-    siškai nebūtų vertos dėmesio, jeigu nebūtų labai papli­
-    tusi antra išvada, neva senovės autoriai visur painiojo
-    geografinius vietovardžius; tai mokslininkui, senovės ty­
-    rinėtojui, kuris suvokia Herodoto padavimų vertę, visiš­
-    kai neatrodo tikras dalykas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174492
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 394"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 394."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Si pataisa prieštarauja visiems rankraščiams (Co-
     dices)i1, be to, yra tik paprasta prielaida, anot Veselnigo,

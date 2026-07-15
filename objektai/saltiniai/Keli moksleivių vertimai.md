@@ -40,23 +40,6 @@ KELI MOKSLEIVIU VERTIMAI. „Šie moksleivau vertimai (rašo pats Rygiškiu Jona
   teiginys: "„Keli moksleivių vertimai“ buvo Rygiškių Jono redaguotas mokyklinis rašto darbų rinkinėlis įvairiomis temomis."
   pagrindžia:
     - c-38414
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kaina 1 litas.
-    Tai Rygiškiu Jono redaguotas mokyklinis rašto darbu rinkinėlis
-    įvairiomis temomis.
-    „Šie moksleivau vertimai (rašo pats Rygiškiu Jonas) yra su­
-    daryti iš Aleks.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

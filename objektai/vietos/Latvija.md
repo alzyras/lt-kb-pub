@@ -11,14 +11,14 @@ datos:
   - '2026 m.'
 date_start: '1202'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - kraštas
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -102,13 +102,6 @@ media_all_json: |-
   teiginys: "Latvijos kaimiečiai, išlaikę tą mitą, dar ir dabar, išvydę šiaurės pašvaiste, sako: Johdi Kaujahs, dvasios kaunasi."
   pagrindžia:
     - c-177131
-
-<a id="claim-t-194736"></a>
-- t-010
-  global_id: t-194736
-  teiginys: "Istorijos, kurias turime, yra jau tokios vėlyvos, kad visko atminti negali; Latvija, politinei nepriklausomybei staigiai žlungant, virto vokiečių kolonija; pa čios tikrosios Lietuvos kunigaikštystės buvo nelaimingų vidaus sąmyšių ir išorės priešų užpuolimų."
-  pagrindžia:
-    - c-177132
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74923|Sovietų Sąjunga]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamą „liaudies demokratiją“ ir įjungė jas į SSRS.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74925|Sovietų Sąjunga]]: 1944 m. vasarą sovietų kariuomenė, išstūmusi nacistinę Vokietiją, antrą kartą okupavo Lietuvą, Latviją ir Estiją.
 - susijęs iš [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.).md#claim-t-66905|Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą ir, prievarta įvedusi tariamai demokratinį valdymą, per kelias savaites įjungė ją į SSRS sudėtį.
@@ -330,104 +323,6 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72361|Latvių Tautos Taryba (institucija)]]: Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ORiebiniai
-
-    1920 m. sausio pradžioje Latvijos ir Lenki-
-    Jos kariuomenės išstūmė Raudonąją armiją iš Daug-
-    pilio. Latvijos teritorija buvo išvalyta nuo bolševikų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilniaus problema, įtempti santykiai su Lenkija iš dalies lėmė ir Lietu-
-    vos demokratijos lygį – šalyje buvo karo padėtis, dėl to vykdyta spaudos
-    cenzūra, piliečių susirinkimai apriboti, valdantieji baudė opozicijos pu-
-    blicistus; pasėdėjo kalėjime ir aršiausi kritikai tautininkai A. Voldemaras,
-    A. Smetona.
-    Nebelikus vilties atkurti didelę istorinę Lietuvą, reikėjo sukurti pa-
-    tikimą ekonominę bazę tautinei valstybei, todėl valstietiškame krašte
-    svarbiausiu tapo klausimas, kam priklausys pagrindinis valstybės tur-
-    tas – žemė. Lyginant su Latvija ir Estija, dvarininkų žemėvalda Lietuvoje
-    buvo perpus mažesnė, o dvarai mažesni 5–6 kartus, valstiečių ūkio ploto
-    vidurkis Lietuvoje – 15,2 ha (Latvijoje – 21,0, Estijoje 29,4 ha).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kairės demokratija ir
-    1926 metų gruodžio perversmas
-    Nepaisant geografinio artumo, istorijos bendrumo, etninės
-    giminystės (tarp latvių ir lietuvių) ryšiai su Latvija ir Estija nesiplėtojo.
-    Nors nepriklausomybės kovų metu būta ir bendradarbiavimo, ir ryžtingų
-    raginimų kurti sąjungą, trys šalys keliavo skirtingais keliais. Latvija ir Es-
-    tija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo
-    į Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus
-    regioninio darinio su Lenkija priešakyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'SSRS unifikacinė politika, autorių vertinimu, nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai juos pasivyti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Keliais, autostrada, geležinkeliais, galų
-    gale žmonėmis į Lietuvą integruoti Klaipėdos kraštas ir Vilnius. Unitari-
-    nė, unifikacinė SSRS politika gerokai nusmukdė Latvijos ir Estijos lygį,
-    bet leido pakilti Lietuvos lygiui, tad pagaliau visais parametrais pasivijo-
-    me kaimynus ir gaminome tiek, kiek latviai ir estai kartu sudėjus. Tačiau
-    Baltijos sesėms dabar jau reikėjo ne kovoti už nepriklausomybę, o kurti
-    naują ekonomiką, spręsti energetinės nepriklausomybės klausimus, ieš-
-    koti naujų rinkų ir savo vietos Europoje, pasaulyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-005
-  santrauka: 'Narbutas rašo Revelio šv. Olafo bažnyčioje matęs vėliavą su žalvariniu gaidžiu, laikytą pagonybės laikų vėliava iš Latvijos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš Marienburgo, Karaliaučiaus, Revelio senienų
-    aiškėja, kad lietuvių karo vėliavose paprastai būdavo pavaiz­
-    duotas žirgas arba gaidys. Revelyje, šv. Olafo bažnyčioje, pats
-    mačiau medinį kotą su kažkokio audeklo gabalu, kuriame bu­
-    vo žalvarinis balandžio dydžio gaidys; tatai laikyta pagonybės
-    laikų vėliava, paimta Latvijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 - c-006
   santrauka: 'Narbutas rašo, kad Šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis bei šarkomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -446,77 +341,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-
-- c-007
-  santrauka: 'Papročiai, įpročiai, prietarai, burtai, mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos, surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų ir Latvijos, sudaro tą turtą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Be to, mano pa­
-    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
-    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
-    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
-    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
-    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
-    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
-    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
-    logija yra raktas seniausiajai tautų istorijai pažinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-008
-  santrauka: 'Latvijos kaimiečiai, išlaikę tą mitą, dar ir dabar, išvydę šiaurės pašvaiste, sako: Johdi Kaujahs, dvasios kaunasi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Juodas (Johds)
-    Laukų arba miškų velnias, tam tikra dvasių gąsdintojų rū­
-    šis. Daugiskaita Juodi (,Johdi) reiškia oro dvasias, mirusiųjų
-    vėles. Latvijos kaimiečiai, išlaikę tą mitą, dar ir dabar, išvydę
-    šiaurės pašvaiste, sako: Johdi Kaujahs, dvasios kaunasi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-009
-  santrauka: 'Istorijos, kurias turime, yra jau tokios vėlyvos, kad visko atminti negali; Latvija, politinei nepriklausomybei staigiai žlungant, virto vokiečių kolonija; pa čios tikrosios Lietuvos kunigaikštystės buvo nelaimingų vidaus sąmyšių ir išorės priešų užpuolimų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    VI
-    skyrius
-    APIE APEIGAS
-    Religinės apeigos
-    Įvairiuose straipsniuose išvardijome kai kurias religines
-    apeigas ir čia pasakysime apie jas dar šį bei tą; mat ir šiaip
-    341
-
-    ## Puslapis 341
-
-    turime prisipažinti, kad dauguma dalykų, kuriuos reikėtų ap­
-    rašyti šiame straipsnyje, yra išnykę dėl permainų krašte ir dėl
-    žiaurios kryžiuočių atneštos revoliucijos, kuri išnaikino labiau­
-    siai išsilavinusią lietuvių tautos dalį -  senovės prūsus su jų re­
-    ligija, tautos paminklais ir kalba. Istorijos, kurias turime, yra
-    jau tokios vėlyvos, kad visko atminti negali; Latvija, politinei
-    nepriklausomybei staigiai žlungant, virto vokiečių kolonija; pa­
-    čios tikrosios Lietuvos kunigaikštystės buvo nelaimingų vidaus
-    sąmyšių ir išorės priešų užpuolimų žaisliukas. Taigi buvo su­
-    naikinti tokių žinių šaltiniai, ilgai neprieinami istorikams, ku­
-    rių dauguma buvo svetimšaliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
 
 ## Citatos
 
@@ -560,6 +384,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181428
+    - t-181431
 
 - id: c-164982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -606,8 +431,7 @@ media_all_json: |-
 - id: c-171620
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iš Marienburgo, Karaliaučiaus, Revelio senienų
     aiškėja, kad lietuvių karo vėliavose paprastai būdavo pavaiz­
@@ -625,16 +449,21 @@ media_all_json: |-
 - id: c-171621
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šios deivės yra tikra antikinių hamadriadžių kopija.
-    Prietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,
-    dabar raganomis vadina tam tikras kerėtojas, galinčias pasi­
-    versti katėmis bei šarkomis ir skraidančias raitomis ant ožio.
-    Pavasarį perkūno oželis, aukštai iškildamas į orą, mekena ožio
-    balsu, tad valstiečiai sako, kad ragana skrendanti raita ant ožio
-    ir kankinanti jį savo pentinais, todėl tas bliaunąs.
+    Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
+    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
+    nė, būdama gyva, garsėjo savo kilniaširdiškumu. Žuvus vyrui
+    ir jau Vytautui viešpataujant Lietuvoje, ji sugrįžo atgal į Pa­
+    langą ir ten, laikydamasi savo senojo tikėjimo, 1416 metais
+    užbaigė gyvenimą.
+  citata_rodoma: "Šios deivės yra tikra antikinių hamadriadžių kopija.\nPrietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,\ndabar raganomis vadina tam tikras kerėtojas, galinčias pasi­\nversti katėmis bei šarkomis ir skraidančias raitomis ant ožio.\nPavasarį perkūno oželis, aukštai iškildamas į orą, mekena ožio\nbalsu, tad valstiečiai sako, kad ragana skrendanti raita ant ožio\nir kankinanti jį savo pentinais, todėl tas bliaunąs."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -645,8 +474,7 @@ media_all_json: |-
 - id: c-177130
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 85"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Be to, mano pa­
     ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
@@ -667,8 +495,7 @@ media_all_json: |-
 - id: c-177131
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 183"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 183."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Juodas (Johds)
     Laukų arba miškų velnias, tam tikra dvasių gąsdintojų rū­
@@ -681,39 +508,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194735
-
-- id: c-177132
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    VI
-    skyrius
-    APIE APEIGAS
-    Religinės apeigos
-    Įvairiuose straipsniuose išvardijome kai kurias religines
-    apeigas ir čia pasakysime apie jas dar šį bei tą; mat ir šiaip
-    341
-
-    ## Puslapis 341
-
-    turime prisipažinti, kad dauguma dalykų, kuriuos reikėtų ap­
-    rašyti šiame straipsnyje, yra išnykę dėl permainų krašte ir dėl
-    žiaurios kryžiuočių atneštos revoliucijos, kuri išnaikino labiau­
-    siai išsilavinusią lietuvių tautos dalį -  senovės prūsus su jų re­
-    ligija, tautos paminklais ir kalba. Istorijos, kurias turime, yra
-    jau tokios vėlyvos, kad visko atminti negali; Latvija, politinei
-    nepriklausomybei staigiai žlungant, virto vokiečių kolonija; pa­
-    čios tikrosios Lietuvos kunigaikštystės buvo nelaimingų vidaus
-    sąmyšių ir išorės priešų užpuolimų žaisliukas. Taigi buvo su­
-    naikinti tokių žinių šaltiniai, ilgai neprieinami istorikams, ku­
-    rių dauguma buvo svetimšaliai.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194736
 
 ## Ryšiai
 - Užėmė Latviją: [[objektai/grupes/Sovietų Sąjunga]]

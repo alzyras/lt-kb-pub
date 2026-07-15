@@ -41,23 +41,6 @@ Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos bū
   teiginys: "Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos būrį Bakaloriškių kaimui saugoti nuo komunistinių partizanų puldinėjimų."
   pagrindžia:
     - c-40247
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos būrį Bakaloriškių kaimui saugoti nuo komunistinių partizanų puldinėjimų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos
-    būrį, saugodami gimtąjį Bakaloriškių kaimą nuo dažnų komunistinių partizanų pul-
-    dinėjimų. Sovietams vėl okupavus Lietuvą, 1944 m. V. Voveriui su savo bendražygiais
-    teko pasitraukti į pogrindį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

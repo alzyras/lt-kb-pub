@@ -7,14 +7,14 @@ datos:
   - '1959 m.'
 date_start: '1959'
 date_end: ''
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,8 @@ Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ ko
   teiginys: "Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ komentarus 1959 m. leidime."
   pagrindžia:
     - c-173292
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ komentarus 1959 m. leidime.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -63,11 +63,20 @@ Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ ko
 - id: c-173292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 37"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 37."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.
-    Komentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959.
+    Padaryti tokį ne visai teisingą priekaištą S. Stanevičių, matyt,
+    paskatino ne jo nusistatymas apskritai prieš liaudies kūrybą
+    (juk jis pats užrašinėjo žemaičių dainas), o prieš netikrą, falsi­
+    fikuotą kūrybą. T. Narbuto neva iš žmonių girdėtus „padavi­
+    mus“ jis laiko neautentiškais („Tai, ką kai kurie šių dienų rašy­
+    tojai kalba apie lietuvių mitus ir padavimus, reikia laikyti ne­
+    tikru ir pramanytu dalyku“27). S. Stanevičius abejoja T. Nar­
+    buto Vilniaus senosios šventyklos altoriaus aprašymu, iš viso
+    netiki Kauno Perkūno šventyklos buvimu, dievų Pramžimo,
+    Kovo tikrumu, o pasakojimą apie Vytolfą laiko panašiu į tuos,
+    „kurie yra veikale „Tūkstantis ir viena naktis“28 29.
+  citata_rodoma: "22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.\nKomentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

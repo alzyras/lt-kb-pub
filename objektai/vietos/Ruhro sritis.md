@@ -44,29 +44,6 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
   teiginys: "Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė."
   pagrindžia:
     - c-43818
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ambasadorių
-    konferencija netrukus turėjo priimti
-    sprendimą dėl Klaipėdos, kuris grei-
-    čiausiai Lietuvai būtų buvęs nepalankus.
-    Tarptautinės bendruomenės dėmesys
-    buvo nukrypęs į Vokietijos Ruhro sritį,
-    kurią tuo metu okupavo prancūzų ka-
-    riuomenė. Nemažą vaidmenį, skatinant
-    Lietuvos vyriausybę priimti sprendimą
-    pradėti karinę operaciją, suvaidino ryž-
-    tingai nusiteikę Šaulių sąjungos nariai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

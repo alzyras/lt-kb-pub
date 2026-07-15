@@ -61,7 +61,6 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
     - c-175094
 - susijęs iš [[objektai/grupes/Kolchai.md#claim-t-192954|Kolchai]]: Narbutas rašo, kad nuo neatmenamų laikų kolchai buvo laikomi labai turtingais ir išmanančiais gamtos dalykus.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -89,10 +88,11 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
 - id: c-175094
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 355"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kiekviena provincija
+    Čia randame detalę, kuri pasikartoja kitose provinci­
+    jose ir kuri galėtų labiau paaiškinti visos tautos istoriją,
+    jei šaltiniai nebūtų taip sujaukti. Kiekviena provincija
     dalijosi j mažesnes dalis, atskirus valsčius, teritorijas,
     kaip jas buvo pratęs vadinti Dusburgas, kartais mažes­
     nes, o kartais didesnes; jos paprastai vadinamos pagal
@@ -108,5 +108,5 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192265
     - t-192264
+    - t-192265

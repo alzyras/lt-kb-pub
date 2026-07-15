@@ -54,8 +54,9 @@ Nenurodyta
   global_id: t-195319
   teiginys: "Šaukštas minimas kaip vienas kerdžiaus padirbamų daiktų."
   pagrindžia:
-    - c-177704
     - c-177703
+    - c-177704
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

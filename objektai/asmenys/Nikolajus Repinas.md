@@ -42,86 +42,7 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
   teiginys: "Nikolajus Repinas buvo Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas."
   pagrindžia:
     - c-44479
-
-<a id="claim-t-183758"></a>
-- t-003
-  global_id: t-183758
-  teiginys: "Nikolajus Repinas buvo Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas."
-  pagrindžia:
     - c-167146
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rusijos imperatorienė Jekaterina įsakė Rusijos pajėgų Lietuvoje vadui Nikolajui Repinui slopinti sukilimą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rusijos imperatorienė Jekaterina 1
-
-    įsakė Rusijos pajėgų Lietuvoje vadui
-
-    generolui leitenantui, kunigaikš-
-
-    čiui Nikolajui Repinui slopinti suki-
-
-    limą. N. Repinas nusprendė pagrindinį
-
-    smūgį suduoti Vilniui ir šį uždavinį pa-
-
-    vedė gen. ltn. B. Knorringo korpusui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rusijos pajėgų vadovybė
-    Rusijos pajėgų, nukreiptų prieš
-    sukilėlius, vyriausiasis vadas
-    buvo generolas leitenantas Niko-
-    lajus Repinas. Sukilėliams puolant
-    miestą, Vilniaus įgulai tiesiogiai va-
-    dovavo generolas majoras Nikolajus
-    Arsenjevas.
-    Rusijos kariuomenės korpusui,
-    puolusiam Vilnių, vadovavo generolas
-    leitenantas Bogdanas Knorringas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Nikolajus Repinas buvo Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Liepos ir rugpjū-
-    čio mėnesiais Vilniaus gynybai tie-
-    siogiai vadovavo generolas majoras
-    Jonas Mejenas.
-
-    Rusijos pajėgų vadovybė
-    Rusijos pajėgų, nukreiptų prieš
-    sukilėlius, vyriausiasis vadas
-    buvo generolas leitenantas Niko-
-    lajus Repinas. Sukilėliams puolant
-    miestą, Vilniaus įgulai tiesiogiai va-
-    dovavo generolas majoras Nikolajus
-    Arsenjevas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -196,5 +117,3 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183758

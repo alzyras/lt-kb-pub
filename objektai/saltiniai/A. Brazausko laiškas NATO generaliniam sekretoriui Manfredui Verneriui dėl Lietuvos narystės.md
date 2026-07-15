@@ -41,24 +41,6 @@ media_all_json: |-
   teiginys: "1994 m. sausį Algirdas Brazauskas laišku NATO generaliniam sekretoriui Manfredui Verneriui pareiškė, kad Lietuva nori tapti NATO nare."
   pagrindžia:
     - c-21039
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie
-    Šiaurės Atlanto bendradarbiavimo tarybos. 1994 m. sausį Lietuvos Res-
-    publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-
-    toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
-    dauja tapti šios organizacijos nare. Tų pačių metų sausį Lietuva prisijungė
-    prie Partnerystės taikos labui iniciatyvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

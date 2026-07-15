@@ -67,57 +67,13 @@ Nenurodyta
   teiginys: "270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką."
   pagrindžia:
     - c-67041
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.
-      271 Sukilimo pradžia datuojama 1242 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Vilhelmas iš Modenos apaštališkojo sosto vardu įsakė skelbti kryžiaus karą prieš Sventopelko persekiojimą Prūsijos žemėse.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi
-    Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską,
-    kas ten taisytina, ir įstatyti  į tinkamas vėžes269. Pasiuntinys apaštališkojo sosto vardu
-    parašė minėtajam kunigaikščiui, įsakydamas liautis persekioti tikėjimą ir tikinčiuosius.
-    Tuo tarpu šis, nepaisydamas savo sielos išganymo, atkaklus ir užsispyręs nelyginant
-    susuktas medis, kuris negali lankstytis, neklausė tėviškų pamokymų, kurie tikrai kilo
-    iš meilės, vis labiau krypdamas į blogį, kurstė sąmyšį tarp žmonių, įtikėjusių Kristumi,
-    ir žemėje, ir jūroje, žodžiu, visur, kur begalėdamas, vieniems plėšė turtus, kitus ėmė
-    į nelaisvę, trečius žudė. Taigi pasiuntinys, matydamas, kad kunigaikštis visai neketina
-    taisytis ir nieku būdu nenori grįžti  į šventosios motinos bažnyčios prieglobstį, deramai
-    jį įspėjo, kad, didėjant užsispyrimui, didėsianti ir bausmė; norėdamas sutramdyti šio
-    tirono bei jo šalininkų piktus darbus, jis apaštališkojo sosto vardu įsakė skelbti kryžiaus
-    karą karalystėse  ir provincijose, kurios buvo numatytos tam reikalui, įpareigodamas
-    kryžininkus bei Teutonų ordino brolius, davus dorovingus šventojo klusnumo įžadus ir
-    tikintis nuodėmių atleidimo, ginti, kiek jėgos leidžia, Kristaus tikėjimą ir tikinčiųjų bažnyčią
-    Prūsijos žemėse nuo šitokio žiauraus bei neteisingo šio kunigaikščio persekiojimo270.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-67041
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 85"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.
       271 Sukilimo pradžia datuojama 1242 m.
@@ -131,22 +87,21 @@ Nenurodyta
 - id: c-67042
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 85"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi
     Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską,
-    kas ten taisytina, ir įstatyti  į tinkamas vėžes269. Pasiuntinys apaštališkojo sosto vardu
+    kas ten taisytina, ir įstatyti į tinkamas vėžes269. Pasiuntinys apaštališkojo sosto vardu
     parašė minėtajam kunigaikščiui, įsakydamas liautis persekioti tikėjimą ir tikinčiuosius.
     Tuo tarpu šis, nepaisydamas savo sielos išganymo, atkaklus ir užsispyręs nelyginant
     susuktas medis, kuris negali lankstytis, neklausė tėviškų pamokymų, kurie tikrai kilo
     iš meilės, vis labiau krypdamas į blogį, kurstė sąmyšį tarp žmonių, įtikėjusių Kristumi,
     ir žemėje, ir jūroje, žodžiu, visur, kur begalėdamas, vieniems plėšė turtus, kitus ėmė
     į nelaisvę, trečius žudė. Taigi pasiuntinys, matydamas, kad kunigaikštis visai neketina
-    taisytis ir nieku būdu nenori grįžti  į šventosios motinos bažnyčios prieglobstį, deramai
+    taisytis ir nieku būdu nenori grįžti į šventosios motinos bažnyčios prieglobstį, deramai
     jį įspėjo, kad, didėjant užsispyrimui, didėsianti ir bausmė; norėdamas sutramdyti šio
     tirono bei jo šalininkų piktus darbus, jis apaštališkojo sosto vardu įsakė skelbti kryžiaus
-    karą karalystėse  ir provincijose, kurios buvo numatytos tam reikalui, įpareigodamas
+    karą karalystėse ir provincijose, kurios buvo numatytos tam reikalui, įpareigodamas
     kryžininkus bei Teutonų ordino brolius, davus dorovingus šventojo klusnumo įžadus ir
     tikintis nuodėmių atleidimo, ginti, kiek jėgos leidžia, Kristaus tikėjimą ir tikinčiųjų bažnyčią
     Prūsijos žemėse nuo šitokio žiauraus bei neteisingo šio kunigaikščio persekiojimo270.

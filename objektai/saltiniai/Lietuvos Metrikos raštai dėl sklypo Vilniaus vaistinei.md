@@ -42,40 +42,6 @@ media_all_json: |-
   teiginys: "Lietuvos Metrikos sąraše buvo raštai apie sklypą, kurį karalius Žygimantas apie 1510 m. nupirko Vilniaus vaistinės statybai."
   pagrindžia:
     - c-84425
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos Metrikos sąraše buvo raštai apie sklypą, kurį karalius Žygimantas apie 1510 m. nupirko Vilniaus vaistinės statybai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmoji iki šiol žinoma Vilniuje
-    išleista knyga yra 1525 metais
-    išspausdinta Apostoł Ś. Łukasza,
-    Pranciškaus Skorinos vertimas į baž­
-    nytinę slavų kalbą.
-    28
-    Kaip matyti iš Metrikos sąrašo, Lie­
-    tuvos Metrikoje buvo: Listy na plac
-    goły, które Król Zygmunt od niektóre­
-    go Zawiszy, do Apteki zbudowania w
-    Wilnie, za sześć seth y sześć kop kupił,
-    około roku 1510 [Raštai tuščiam skly­
-    pui, kurį karalius Žygimantas nupir­
-    ko iš tokio Zavišos už šešis šimtus ir
-    šešias (606) kapas [grašių] apie 1510
-    metus vaistinės Vilniuje statybai].
-    Apie farmacijos būklę Lietuvoje
-    trumpą žinutę išspausdino profeso­
-    rius Volfgangas savo „Uwagi
-    Historyczne" Dziennik Wileński, 1816
-    m.-T. IV, 1.251.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

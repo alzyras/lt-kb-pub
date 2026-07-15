@@ -42,25 +42,6 @@ media_all_json: |-
   teiginys: "Kazimieras Jaunius ir Kazimieras Būga žodį „aesti“ kildino iš žodžio „Aistuva“."
   pagrindžia:
     - c-14591
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tik ligšiol dar galutinai nesusitarta ar „aesti”
-    yra etnografiškas vardas ar geografiškas, kaip manė daugybė
-    senesnių mokslininkų (pav., Mierzyński), ir reiškia „rytų
-    žmonės”, — „Leute des Ostens”. Mūsų kalbininkai Kaz. Jau­
-    nius ir Kaz. Būga jį išveda iš žodžio „Aistuva“, kuris kadaise
-    reiškęs pakraštinę žemę ir buvęs lietuviškų tautų protėvynė1 2).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -82,5 +63,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11667
     - t-11666
+    - t-11667

@@ -35,22 +35,6 @@ Gasiūnas, Vysk.
   teiginys: "J. Gasiūnas rengė spaudai veikalą „Vysk. K. Paltaroko gyvenimas“."
   pagrindžia:
     - c-32962
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    J. Eretas, Valančiaus šviesa už marių. Pranciškaus Juro
-    ir jo bendrininkų gyvenimas bei veikla, paruošta spaudai.
-    J. Gasiūnas, Vysk. K. Paltaroko gyvenimas, baigiama
-    ruošti spaudai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

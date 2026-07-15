@@ -50,48 +50,6 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
   teiginys: "Per Prisikėlimo apygardos reorganizaciją jos vadu tapo Povilas Morkūnas-Rimantas."
   pagrindžia:
     - c-167147
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rusų nuostoliai nežinomi. Apygradoje
-    prasidėjo reorganizacija: Prisikėlimo
-    apygardos vadu tapo Povilas Morkūnas-
-    Rimantas, pavaduotoju - Maironio rinkti-
-    nės vadas Juozas Paliūnas-Rytas.
-
-    242  UŽPELKIŲ KAUTYNĖS 1949 m. rugpjūčio 13 d.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Per Prisikėlimo apygardos reorganizaciją jos vadu tapo Povilas Morkūnas-Rimantas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Žuvo LLKS tarybos pre-
-    zidiumo nariai Petras Bartkus-Žadgaila
-    (Prisikėlimo apygardos vadas) ir Bronius
-    Liesis-Naktis, Prisikėlimo apygardos
-    štabo viršininkas Vytautas Šniuolis-Svajū-
-    nas ir dar trys neatpažinti partizanai.
-    Rusų nuostoliai nežinomi. Apygradoje
-    prasidėjo reorganizacija: Prisikėlimo
-    apygardos vadu tapo Povilas Morkūnas-
-    Rimantas, pavaduotoju - Maironio rinkti-
-    nės vadas Juozas Paliūnas-Rytas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

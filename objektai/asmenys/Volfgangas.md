@@ -33,53 +33,16 @@ media_all_json: |-
 
 ## Santrauka
 
-Prūsų magistras, sulaukęs paramos iš Bavarijos grafo Volfgango ir Livonijos kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą: Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti joje tapo visai sunaikintos.
+Bavarijos grafas Volfgangas parėmė Prūsų magistrą žygyje, per kurį buvo nusiaubta Lietuva ir sunaikintos Ariogalos, Pernaravos bei Labūnavos žemės.
 
 ## Teiginiai
 
 <a id="claim-t-193512"></a>
 - t-001
   global_id: t-193512
-  teiginys: "Prūsų magistras, sulaukęs paramos iš Bavarijos grafo Volfgango ir Livonijos kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą: Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti joje tapo visai sunaikintos."
+  teiginys: "Bavarijos grafas Volfgangas parėmė Prūsų magistrą žygyje, per kurį buvo nusiaubta Lietuva ir sunaikintos Ariogalos, Pernaravos bei Labūnavos žemės."
   pagrindžia:
     - c-176192
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prūsų magistras, sulaukęs paramos iš Bavarijos grafo Volfgango ir Livonijos kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą: Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti joje tapo visai sunaikintos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Neatnešė ato­
-    kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
-    paramos iš Bavarijos grafo Volfgango ir Livonijos
-    kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
-    Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti­
-    joje tapo visai sunaikintos. Sėkmingai išsigabenus vi­
-    są grobį ir išsivedus visus belaisvius, grėsmingai įsi­
-    veržė į Lietuvą Prūsijos maršalas Šindekopfas ir
-    2 47
-
-    ## Puslapis 246
-
-    apsupo Gardiną; kadangi Pat-
-    1363 m e ta i
-    rikas, vadovavęs pilies gyny-
-    P iū sų
-    ž y g ia i
-    į
-    Lie-
-    bai, narsiai atrėmė keletą
-    tu v ą  ir Ž e m a itiją
-    antpuolių, kryžiuotis, išsiža­
-    dėjęs minties užimti pilį, iš­
-    siuntė karius niokoti kaimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -88,7 +51,15 @@ Prūsų magistras, sulaukęs paramos iš Bavarijos grafo Volfgango ir Livonijos 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Neatnešė ato­
+    Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
+    desnė nelaimė — badas, siau-
+    B adas L ie tu v o je
+    binga našta užgulęs visą Lie­
+    tuvą, galimas daiktas, dėl to,
+    kad tais metais apskritai visur buvo blogas oras, net­
+    gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­
+    latinių priešo antpuolių iš baimės niekas nebedirbo
+    žemės ar iš viso nebuvo kam ją dirbti. Neatnešė ato­
     kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
     paramos iš Bavarijos grafo Volfgango ir Livonijos
     kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
@@ -98,8 +69,6 @@ Prūsų magistras, sulaukęs paramos iš Bavarijos grafo Volfgango ir Livonijos 
     veržė į Lietuvą Prūsijos maršalas Šindekopfas ir
     2 47
 
-    ## Puslapis 246
-
     apsupo Gardiną; kadangi Pat-
     1363 m e ta i
     rikas, vadovavęs pilies gyny-
@@ -108,10 +77,11 @@ Prūsų magistras, sulaukęs paramos iš Bavarijos grafo Volfgango ir Livonijos 
     į
     Lie-
     bai, narsiai atrėmė keletą
-    tu v ą  ir Ž e m a itiją
+    tu v ą ir Ž e m a itiją
     antpuolių, kryžiuotis, išsiža­
     dėjęs minties užimti pilį, iš­
     siuntė karius niokoti kaimų.
+  citata_rodoma: "Neatnešė ato­\nkvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs\nparamos iš Bavarijos grafo Volfgango ir Livonijos\nkryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:\nAriogalos, Pernaravos ir Labūnavos žemės Žemaiti­\njoje tapo visai sunaikintos. Sėkmingai išsigabenus vi­\nsą grobį ir išsivedus visus belaisvius, grėsmingai įsi­\nveržė į Lietuvą Prūsijos maršalas Šindekopfas ir\n2 47\n\n## Puslapis 246\n\napsupo Gardiną; kadangi Pat-\n1363 m e ta i\nrikas, vadovavęs pilies gyny-\nP iū sų\nž y g ia i\nį\nLie-\nbai, narsiai atrėmė keletą\ntu v ą  ir Ž e m a itiją\nantpuolių, kryžiuotis, išsiža­\ndėjęs minties užimti pilį, iš­\nsiuntė karius niokoti kaimų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

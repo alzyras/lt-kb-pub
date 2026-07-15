@@ -76,48 +76,6 @@ Nenurodyta
   teiginys: "1569 m. LDK sudarė Liublino uniją su Lenkija tikėdamasi karinės pagalbos, kuri padėtų pasiekti persilaužimą kare su Maskva."
   pagrindžia:
     - c-43083
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šios aplinkybės pastūmėjo LDK gana
-    nepalankiomis sąlygomis 1569 m. sudaryti
-    su Lenkija Liublino uniją, tikintis karinės
-    pagalbos, kuri leistų pasiekti persilaužimą
-    kare su Maskva ir likviduoti egezistencinį
-    pavojų Lietuvai.
-
-    Sudarius Liublino uniją, aplinkybės kurį
-    laiką neleido imtis rimtų karo veiksmų.
-    1570 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-002
-  santrauka: 'Po Liublino unijos sudarymo Lietuva ir Lenkija kurį laiką negalėjo imtis rimtų karo veiksmų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sudarius Liublino uniją, aplinkybės kurį
-    laiką neleido imtis rimtų karo veiksmų.
-    1570 m. Lietuvoje ir Lenkijoje kilo badas,
-    1571 m. teko sudaryti trejų metų paliaubas
-    su Rusija, pripažįstant Polocko praradimą
-    ir atsisakant pretenzijų į 1570 m. rusų už-
-    grobtą rytinę Livonijos dalį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -41,25 +41,6 @@ VIII amž. pusėje jie randami Sauslauke (prie Durbės).
   teiginys: "VIII a. viduryje švedai buvo aptinkami Sauslaukėje prie Durbės."
   pagrindžia:
     - c-28365
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'VIII a. viduryje švedai buvo aptinkami Sauslaukėje prie Durbės.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Archeolo­
-    giniai duomens parodo apie 650 m. prasidedančią didelę švedų
-    ekspansiją iš Gotlando ir vidurio Švedijos. VII amž. gale jie įsi­
-    kūrė Grobine, kur turėjo savo svarbią karinę bazę Seeburgą, užėmė
-    Apuolės pilį (prie Skuodo). VIII amž. pusėje jie randami Sauslauke
-    (prie Durbės).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -25,16 +25,10 @@ media_all_json: |-
 
 ## Santrauka
 
-Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.
+Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-185449"></a>
-- t-001
-  global_id: t-185449
-  teiginys: "Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo."
-  pagrindžia:
-    - c-168810
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190677|Adomas Stanislovas Naruševičius]]: Naruševičiaus nuomonę, kad jotvingiai nuo Tisos atėjo tiesiai į Polesę, Narbutas vadina labai panašia į tiesą.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
@@ -43,7 +37,6 @@ Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi 
 - susijęs iš [[objektai/autoriai/Erazmas Stela.md#claim-t-190696|Erazmas Stela]]: Narbuto aiškinimu, Erazmas Stela lietuvių kilmę iš alanų siejo su į šias šalis atėjusių hunų antplūdžiu.
 - susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190736|Jordanas]]: Pasak Jordano, į vakarus keliavę Panonijoje gyvenę alanai kartu su vandalais bėgo nuo gotų, kuriuos vijo hunai.
 - susijęs iš [[objektai/autoriai/Priskas.md#claim-t-191631|Priskas]]: Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hunus kildino iš skitų.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-184474|Gotai]]: Gotai drauge su dalimi alanų ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.
 - susijęs iš [[objektai/grupes/Pečenegai.md#claim-t-192989|Pečenegai]]: Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų palikuonys ar dalis, susiformavusi iš hunams giminingų genčių likučių.
 - susijęs iš Jordano „De rebus Gothorum“: Pasak Teodoro Narbuto, Jordanas teigė, kad į vakarus keliavę alanai iš Panonijos su vandalais bėgo nuo gotų, kuriuos vijo hunai.
 - susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192233|revoliucija]]: Teodoras Narbutas Dnepro ir Dunojaus tarpupyje prasidėjusią revoliuciją sieja su hunų antplūdžiu.
@@ -73,52 +66,6 @@ Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi 
 - susijęs iš [[objektai/ivykiai/Čingischano vadų žygis į Samachą ir Derbentą 1223 m.md#claim-t-192016|Čingischano vadų žygis į Samachą ir Derbentą 1223 m]]: Narbutas pasakoja, kad prie Samachos ir Derbento apsupti Čingischano vadai susitarė su poloviečiais, kad šie paliktų alanus.
 - susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192232|revoliucija]]: Teodoro Narbuto teigimu, hunų antplūdžio sukelta revoliucija Dnepro ir Dunojaus tarpupyje lėmė daug pokyčių Europoje.
 - susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191111|Adomas Stanislovas Naruševičius]]: Narbutas Naruševičiaus nuomonę, kad jotvingiai nuo Tisos atėjo tiesiai į Polesę, vadina labai panašia į tiesą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Viena sarmatų
-    gentis — alanai.
-    Dalis alanų drauge su gotais ir hunais dalyvavo didžiajame tautų
-    kraustymesi ir prisidėjo prie vergovinės Romos imperijos sugrio­
-    vimo.
-    Renesanso epochoje, kai Europos tautos suskato ieškotis savo
-    pirmtakų senovės Rytų gentyse ir antikinėse tautose, Sarmatija ima­
-    ma vadinti Vidurio ir Rytų Europos kraštai, gyvenami daugiausia
-    slavų ir baltų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Citatos
-
-- id: c-168810
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 755"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 755."
-  citata_originali: |
-    Viena sarmatų
-    gentis — alanai.
-    Dalis alanų drauge su gotais ir hunais dalyvavo didžiajame tautų
-    kraustymesi ir prisidėjo prie vergovinės Romos imperijos sugrio­
-    vimo.
-    Renesanso epochoje, kai Europos tautos suskato ieškotis savo
-    pirmtakų senovės Rytų gentyse ir antikinėse tautose, Sarmatija ima­
-    ma vadinti Vidurio ir Rytų Europos kraštai, gyvenami daugiausia
-    slavų ir baltų.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185449
 
 ## Ryšiai
 - Hunai puolė [[objektai/vietos/Europa]]

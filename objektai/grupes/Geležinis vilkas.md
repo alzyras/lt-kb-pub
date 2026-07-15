@@ -42,30 +42,6 @@ Voldemaro, o vėliau uždarė ir pusiau slaptą, ginkluotą radikaliausių tauti
   pagrindžia:
     - c-22402
 - susijęs iš Vilnius: Vilniaus įkūrimo legenda pasakoja, kad Gedimino sapno geležinis vilkas pranašavo būsimo miesto garsą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Antanas Smetona uždarė pusiau slaptą ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po gegužę įvykdyto studen-
-    tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
-    ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
-    Rugsėjo 23 dieną ministru pirmininku prezidentas A. Smetona paskyrė
-    ekonomistą Juozą Tūbelį, o A. Voldemaras liko be nieko, nes neapdai-
-    riai atsisakė tapti užsienio reikalų ministru. Tylusis kombinacijų meistras
-    A. Smetona savo skalpeliu toliau raižė pūlinius – atsikratė karininkų per-
-    versmininkų apsupties, A. Voldemaro, o vėliau uždarė ir pusiau slaptą,
-    ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri
-    laikė A. Voldemarą savo vadu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22402

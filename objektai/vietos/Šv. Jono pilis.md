@@ -35,23 +35,6 @@ Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv.
   teiginys: "Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv."
   pagrindžia:
     - c-177373
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Elzbietos diena 348
-    Šv. Jono diena 336
-    Šv. Jono pilis 315
-    Šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

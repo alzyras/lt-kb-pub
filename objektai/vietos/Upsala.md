@@ -8,13 +8,13 @@ datos:
   - '1150 m.'
 date_start: '1147'
 date_end: '1150'
+amziai:
+  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -63,49 +63,6 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
 - susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-188394|Adomas Bremenietis]]: Narbutas citavo Adomą Bremenietį apie Upsalos žynius: „de sacerdotibus, qui ad Ubsolam Daemonibus astare solebant“.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190636|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis tikėjo barstukų pasirodymais ir rėmėsi Olafo, Agripos bei kitų autorių liudijimais.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rėmėsi Adomu Bremenietiu ir Albertu Krantcu, aiškindamas šventojo medžio prie Upsalos rūšies neapibrėžtumą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tą ypatybę kronikininkai priskiria velnio galy­
-    bei, manydami, kad velniai buvo garbinami toje šventykloje
-    šalies dievų pavidalu.
-    Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo­
-    lą, augusį Švedijoje, netoli Upsalos, tačiau Albertas Krantcas* 11,
-    nė kiek neneigdamas, kad tas medis visą laiką žaliavęs, pridu­
-    ria, jog jo rūšies niekas negalėjęs nustatyti. Taigi tai turėjo bū­
-    ti ne ąžuolai, bet kitokios rūšies medžiai, kurie išnyko seniai,
-    dar iki XIII amžiaus, o jų liekana buvo tie milžiniški šventieji
-    medžiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas Upsalos šventovę lygino su Romove, nes joje, remiantis Adomu Bremenietiu, stovėjo trijų vyriausiųjų dievų stabai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tautos
-    šventovė buvo Upsaloje; ten, kaip Romovės šventykloje, sto­
-    vėjo trijų vyriausiųjų dievų stabai (Adamus Bremenensis. De
-    situ Daniae. -  Cap. 233); ten, kaip ir Romovėje, gyveno tar­
-    nauti dievams pašaukti žyniai ir, be abejo, taip pat vyriausiasis
-    žynys. Adomas Bremenietis (skyrius 235) sako: de sacerdoti­
-    bus, qui ad Ubsolam Daemonibus astare solebant (apie žynius,
-    kurie Upsaloje buvo papratę tarnauti piktosioms dvasioms).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Narbutas aiškino, kad Upsala buvo svarbiausioji teismo vieta ir dievų buveinė, todėl jos reikšmė sutapo su krivio pavadinimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -135,8 +92,7 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
 - id: c-171804
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tą ypatybę kronikininkai priskiria velnio galy­
     bei, manydami, kad velniai buvo garbinami toje šventykloje
@@ -158,13 +114,12 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
 - id: c-171805
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 416"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 416."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tautos
     šventovė buvo Upsaloje; ten, kaip Romovės šventykloje, sto­
     vėjo trijų vyriausiųjų dievų stabai (Adamus Bremenensis. De
-    situ Daniae. -  Cap. 233); ten, kaip ir Romovėje, gyveno tar­
+    situ Daniae. - Cap. 233); ten, kaip ir Romovėje, gyveno tar­
     nauti dievams pašaukti žyniai ir, be abejo, taip pat vyriausiasis
     žynys. Adomas Bremenietis (skyrius 235) sako: de sacerdoti­
     bus, qui ad Ubsolam Daemonibus astare solebant (apie žynius,
@@ -181,18 +136,17 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kadangi šiam aiškinimui nieko negali-
-    m . 03
-    417
-
-    ## Puslapis 417
-
-    ma prikišti, tad reikia sutikti, kad Upsala buvo svarbiausioji
-    teismo vieta ir dievų buveinė. Tuos sprendimus skelbė ne kas
-    kitas, o ten gyvenantis žynys, kuris savo dvigubu aukštu rangu
-    teikė tai vietai dvigubą reikšmę -  ir kaip dievų buveinės, ir
-    kaip teismo sostinės, taigi Upsalos ir krivio pavadinimai savo
-    prasme bus visiškai tapatūs.
+    Tuo tarpu Prūsijoje krivis yra
+    figūra, kuri niekaip negali būti svetima to krašto istorijai, jei­
+    gu kas nusimano apie krivio tikrąją padėtį. Šių aukštų pareigų
+    pavadinimas4 ir pobūdis yra germaniškos arba gotiškos kilmės
+    ir paimtas iš gotų tautos vidinės santvarkos.
+    3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai
+    radę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­
+    ką lietuvių tautos kilmę, tuos gotiškus elementus laikome skoliniais
+    iš gotų, kurie visados engė tas tautas, ir siejame taip pat su herulais,
+    kurie šitiek laiko lydėjo gotus Pietryčių Europoje.
+  citata_rodoma: "Kadangi šiam aiškinimui nieko negali-\nm . 03\n417\n\n## Puslapis 417\n\nma prikišti, tad reikia sutikti, kad Upsala buvo svarbiausioji\nteismo vieta ir dievų buveinė. Tuos sprendimus skelbė ne kas\nkitas, o ten gyvenantis žynys, kuris savo dvigubu aukštu rangu\nteikė tai vietai dvigubą reikšmę -  ir kaip dievų buveinės, ir\nkaip teismo sostinės, taigi Upsalos ir krivio pavadinimai savo\nprasme bus visiškai tapatūs."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -59,30 +59,6 @@ Nenurodyta
   teiginys: "1934 m. gen. Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves buvo pavojingiausias voldemarininkų bandymas puču grąžinti A. Voldemarą į valdžią."
   pagrindžia:
     - c-75211
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1934 m. gen. Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves buvo pavojingiausias voldemarininkų bandymas puču grąžinti A. Voldemarą į valdžią.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagerėjo sveikatos apsauga, įsteigtos ir pastatytos ligoninės,
-    parengta 1 500 medikų, sumažėjo mirtingumas, priartėjęs prie išvystytų
-    Europos šalių (13 žmonių 1 000 gyventojų) rodiklių, o naujagimių gausa
-    Lietuva toli paliko Latviją ir Estiją… Apie 1941–1942 m. numatyta pradė-
-    ti industrializuoti Lietuvą.
-    Autoritarinis ramaus publicisto ir kalbėtojo A. Smetonos režimas ne-
-    tenkino dešiniojo sparno tautininkų, kuriems imponavo Italijos fašizmas
-    ir energingesnis lyderis. Kariuomenėje įtakingi nacionalistai voldemari-
-    ninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen.
-    Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pa-
-    vojingiausias.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

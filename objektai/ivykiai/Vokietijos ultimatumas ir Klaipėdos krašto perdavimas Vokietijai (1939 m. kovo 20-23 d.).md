@@ -79,67 +79,6 @@ Nenurodyta
   teiginys: "1939 m. kovo 23 d. Adolfas Hitleris Klaipėdoje sakė kalbą vietos vokiečiams iš teatro balkono."
   pagrindžia:
     - c-73126
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1939 m. kovo 23 d. Adolfas Hitleris Klaipėdoje sakė kalbą vietos vokiečiams iš teatro balkono.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau pokyčius vyriausybėje valdžia
-    ir opozicija suvokė skirtingai. Autoritarinės valdžios supratimu, bendras
-    darbas turėjo vykti ne partiniu principu, o kompetentingų personalijų ly-
-    giu. Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos
-    Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. –
-    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    183
-    deleguotas ministras turėjo vykdyti jo užduotis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
-
-- c-002
-  santrauka: 'Praradusi Klaipėdą Lietuva neteko trečdalio ekonomikos, nors Klaipėda sudarė 6 proc. Lietuvos teritorijos ir 5 proc. gyventojų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O visa lietuvių
-    nacija buvo sukrėsta, nes vyravo nuotaikos priešintis. Lietuvai suduotas ir
-    didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc. Lietuvos
-    teritorijos ir 5 proc. gyventojų, prarasta trečdalis ekonomikos, o 70 proc.
-    šalies eksporto ėjo per Klaipėdą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: '1939 m. kovo 23 d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    kraštą, pagrasinus, kad vokiečių kariuomenė priešingu atveju įžygiuos į
-    tą teritoriją ir nežinia kur sustos, 5 valandas trukusiame Ministrų kabi-
-    neto posėdyje A. Smetona pasiteiravo kariškių, kiek laiko Lietuva galėtų
-    priešintis. Gen. K. Musteikiui ir S. Raštikiui atsakius, kad „nė trijų dienų“,
-    Lietuva ultimatumą priėmė.
-    Kovo 23-iąją d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos
-    perdavimo sutartį, karo laivu į Klaipėdą atplaukė A. Hitleris ir iš teatro
-    balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -164,8 +103,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75310
     - t-75307
+    - t-75310
 
 - id: c-73127
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

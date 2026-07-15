@@ -42,35 +42,6 @@ Jį, dar būdama Stanislovienė Goštautienė, Trakų vaivadienė, našlė, išd
   teiginys: "1547 m. rugsėjo 10 d. Barbora Radvilaitė pasiskolino iš Petro Ivanovskio 128 kapas grašių ir 8 dubenis medaus."
   pagrindžia:
     - c-83805
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1547 m. rugsėjo 10 d. Barbora Radvilaitė pasiskolino iš Petro Ivanovskio 128 kapas grašių ir 8 dubenis medaus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mačiau originalų raštą ar­
-    ba pakvitavimą, rašytą karalienės
-    Barboros slaviškai, su antspaudu. Jį,
-    dar būdama Stanislovienė Goštau-
-    tienė, Trakų vaivadienė, našlė, išda­
-    vė 1547 metų rugsėjo 10 dieną, 6 in­
-    dikte, tai yra, visai prieš pat tas
-    sutuoktuves, kažkokiam Petrui Iva-
-    novskiui pasiskolinus iš jo 128 ka­
-    pas grašių ir 8 dubenis medaus, už
-    tai užstatydama auksinę grandinę,
-    įvertintą 227 vengriškais dukatais,
-    ir 2 paauksuotas gūnias, įvertintas
-    131 grivina. Galbūt prieš sutuoktu­
-    ves puotos išlaidoms tą skolą užsi­
-    traukė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

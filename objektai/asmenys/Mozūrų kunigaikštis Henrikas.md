@@ -44,23 +44,6 @@ media_all_json: |-
   pagrindžia:
     - c-36044
 - susijęs iš [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis).md#claim-t-63619|Henrikas (Mozūrų kunigaikštis)]]: Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1392 m. Ringailę vedė Ritesverderyje
-    kitas Mozūrijos kunigaikštis Henrikas. Ji gavo krikšte
-    Elžbietos vardą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-36044

@@ -34,8 +34,8 @@ Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbin
   teiginys: "Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbinimo paslaptingoms apeigoms."
   pagrindžia:
     - c-173341
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbinimo paslaptingoms apeigoms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -61,17 +61,23 @@ Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbin
 - id: c-173341
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 161"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kronikininkai taip pat mano, kad dievui Varpui būdavo
-    aukojami gaidžiai, kaip budrumo simboliai.
-    Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,
-    skirtų tam tikroms religinėms apeigoms. Scholastas Teokritas
-    paliko žinią, kad varpai priklausė dievų Kabirų garbinimo pa­
-    slaptingoms apeigoms, kadangi manyta, jog vario skambėji­
-    mas padeda žmonėms apsivalyti ir pasišvęsti, taip pat nuveja
-    piktąsias dvasias.
+    Toks akmuo vadinosi Ak­
+    muo užukiejkimo Kieto Dewo (Kelio dievo užkeikimo akmuo);
+    tiksliausiai išvertus - akmuo, paskirtas kelių dievui. Niekas
+    neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
+    tam tikros mitinės formulės, tai yra maldelės, matyt, iš bai­
+    mės, kad neatsitiktų kas blogo: dažniausiai manyta, kad ak­
+    muo gali pasitraukti iš po sėdinčio, todėl galima smarkiai už­
+    sigauti.
+    Kaimiečiai iki šiol tebėra pamaldūs šiam dievaičiui, nors
+    dėl daugelio priežasčių beveik jau jį užmiršo ir savo tos rūšies
+    maldose turi galvoje tikrąjį Dievą; tas maldas kalba krikščio­
+    nišku papročiu prieš pat įsėsdami į ratus; taigi keliautojai, prieš
+    išeidami iš trobos, susėda ant suolo kartu su visais esančiais,
+    trumpai pasimeldžia ir patyli akis nukreipę į krosnį.
+  citata_rodoma: "Kronikininkai taip pat mano, kad dievui Varpui būdavo\naukojami gaidžiai, kaip budrumo simboliai.\nSenovės egiptiečiai, persai, graikai, romėnai turėjo varpų,\nskirtų tam tikroms religinėms apeigoms. Scholastas Teokritas\npaliko žinią, kad varpai priklausė dievų Kabirų garbinimo pa­\nslaptingoms apeigoms, kadangi manyta, jog vario skambėji­\nmas padeda žmonėms apsivalyti ir pasišvęsti, taip pat nuveja\npiktąsias dvasias."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisinti karą jų žemėse. Į aukštąsias ir viešąsias pareigybes neturėjo būti skiriami stabmeldžiai ir popiežiui nepaklusę krikščionys.
+Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisinti karą jų žemėse.
 
 ## Teiginiai
 
@@ -35,13 +35,6 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
   teiginys: "Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisinti karą jų žemėse."
   pagrindžia:
     - c-168753
-
-<a id="claim-t-185393"></a>
-- t-002
-  global_id: t-185393
-  teiginys: "Į aukštąsias ir viešąsias pareigybes neturėjo būti skiriami stabmeldžiai ir popiežiui nepaklusę krikščionys."
-  pagrindžia:
-    - c-168754
 - susijęs iš [[objektai/asmenys/Ditrichas iš Piremonto.md#claim-t-60267|Ditrichas iš Piremonto]]: Ditrichas iš Piremonto žuvo, kai vietos stabmeldžiai užpuolė nuo pilies pasitraukiančius Ordino brolius.
 - susijęs iš [[objektai/autoriai/Prūsijos kronikininkai.md#claim-t-190379|Prūsijos kronikininkai]]: Prūsijos kronikininkai kartojo, kad stabmeldžiai slėpė tam tikras religines apeigas.
 - susijęs iš Strėvos upė: Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos.
@@ -66,69 +59,16 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-42480|maršalas]]: 1348 m. Ordino maršalas Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje kartu su didžiuoju komtūru Vinrichu iš Kniprodės.
 - susijęs iš [[objektai/zodynas/vyskupo teisėjas.md#claim-t-42524|vyskupo teisėjas]]: Sembos vyskupo teisėjui Jonui Lonei buvo atimta gyvybė kartu su Gdansko komtūru ir penkiomis dešimtimis prie vėliavos nukautųjų.
 - susijęs iš [[objektai/zodynas/Šventieji medžiai.md#claim-t-189191|Šventieji medžiai]]: Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medžius, bet ir neliečiamus miškelius.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisinti karą jų žemėse.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Užgrobę visus grūdus,
-    J ie  su daro k elia s pro-
-    gabenamus Vysla, kryžiuočiai
-    gas karu i
-    juos išsivežė kitur. Kai kara­
-    lius, pasiuntęs žygūną, parei­
-    kalavo nelaužyti susitarimo ir nedaryti skriaudų, šie
-    atrėžė, jog elgtasi jų teisingai ir teisėtai, nes atėmė
-    tai, ką karalius siuntė stabmeldžių tautai, kovojančiai
-    prieš krikščionis. Mat nors jie gerai žinojo, jog lietu­
-    vių tauta su savo didikais daugiau kaip prieš dvidešimt
-    metų priėmė krikščionybę, tačiau po senovei juos va­
-    dino stabmeldžiais, tariamu dievobaimingumu mulkin­
-    dami krikščioniškųjų šalių valdovus (ir net pačius Ro­
-    mos popiežius), dėl kurių paramos ar nuolaidžiavimo
-    ir galėjo tose žemėse kariauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Į aukštąsias ir viešąsias pareigybes neturėjo būti skiriami stabmeldžiai ir popiežiui nepaklusę krikščionys.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Visi Lietuvos
-    iuvoje
-    bažnyčios tarnai, jų valdos ir
-    pačias privilegijas, kokias šiuo metu turi šio luomo žmo­
-    nės Lenkijoje. Valdovas gali skirti į aukštąsias bei vie­
-    šąsias pareigybes tik Romos tikėjimo žmones, iš tų vie­
-    tų turi būti šalinami ne tik stabmeldžiai, bet ir krik­
-    ščionys, išsižadėję paklusti Romos popiežiui. Bajorų
-    luomui pripažintos lengvatos negali būti teikiamos
-    tiems, kurie neišpažįsta katalikų tikėjimo ir išsižada
-    paklusnumo popiežiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
+- susijęs iš Užnerio žemė: Vytautas, įsteigęs Žemaičių vyskupiją, apkrikštijo visą Užnerio žemę ir, metraščio teigimu, įkūrė daug bažnyčių.
 ## Citatos
 
 - id: c-168753
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 370"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 370."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Užgrobę visus grūdus,
-    J ie  su daro k elia s pro-
+    J ie su daro k elia s pro-
     gabenamus Vysla, kryžiuočiai
     gas karu i
     juos išsivežė kitur. Kai kara­
@@ -149,27 +89,3 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185392
-
-- id: c-168754
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 383"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 383."
-  citata_originali: |
-    Visi Lietuvos
-    iuvoje
-    bažnyčios tarnai, jų valdos ir
-    pačias privilegijas, kokias šiuo metu turi šio luomo žmo­
-    nės Lenkijoje. Valdovas gali skirti į aukštąsias bei vie­
-    šąsias pareigybes tik Romos tikėjimo žmones, iš tų vie­
-    tų turi būti šalinami ne tik stabmeldžiai, bet ir krik­
-    ščionys, išsižadėję paklusti Romos popiežiui. Bajorų
-    luomui pripažintos lengvatos negali būti teikiamos
-    tiems, kurie neišpažįsta katalikų tikėjimo ir išsižada
-    paklusnumo popiežiui.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185393

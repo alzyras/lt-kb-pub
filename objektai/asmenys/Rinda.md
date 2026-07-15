@@ -46,35 +46,12 @@ Narbutas pasakoja, kad rusų karalienės Rindos vyras Bojus kovėsi su Goteriu, 
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192033|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas nurodo, kad Goterio sūnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nutraukė baigiantis II krikščioniškosios eros amžiui.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192034|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192035|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, o Rusios riteriai virš Bojo kapo supylė didžiulį pilkapį.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas pasakoja, kad rusų karalienės Rindos vyras Bojus kovėsi su Goteriu, buvo sužeistas ir trečią dieną mirė nuo žaizdų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Maždaug to
-    paties amžiaus pabaigoje švedų karalius Got'brodas irgi
-    sėkmingai kariavo Rusioje2. Gotbrodo įpėdinis Goteris žu­
-    vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės
-    Rindos vyru. Vienas suomių burtininkas išpranašavo šį
-    liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­
-    nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­
-    laidojo jį itin pagarbiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174341
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Maždaug to
     paties amžiaus pabaigoje švedų karalius Got'brodas irgi

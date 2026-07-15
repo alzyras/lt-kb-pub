@@ -6,24 +6,24 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1222 m.'
   - '1323 m.'
   - '1324 m.'
   - '1367 m.'
-  - '1440 m.'
 date_start: '1222'
-date_end: '1440'
+date_end: '1367'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ordinas
   - pilis
   - vieta
   - žemė
-  - jūra
 amziai:
   - 'XIII'
-  - 'XV'
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. Dusburgietis teigia, kad „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas, o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą, apie. Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
+Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje duotame laiške skelbta, kad per Mazovijos kunigaikščio Boleslavo valdas galima saugiai atvykti į Lietuvą. Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, kaimyninė Mazovija ir artimos apylinkės.
 
 ## Teiginiai
 
@@ -90,28 +90,42 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 <a id="claim-t-185043"></a>
 - t-007
   global_id: t-185043
-  teiginys: "1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją pasiplėšti grobio."
+  teiginys: "Kojelavičiaus pasakojime 1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją dėl grobio ir užėmė Pultuską."
   pagrindžia:
     - c-168404
 
 <a id="claim-t-185044"></a>
 - t-008
   global_id: t-185044
-  teiginys: "Jogaila su kariuomene patraukė prieš Mazovijos kunigaikštį Jonušą ir iš keršto nuniokojo Mazoviją."
+  teiginys: "Kojelavičiaus pasakojime Jogaila patraukė prieš Mazovijos kunigaikštį Jonušą ir iš keršto nuniokojo Mazoviją."
   pagrindžia:
     - c-168405
 
-<a id="claim-t-185045"></a>
-- t-009
-  global_id: t-185045
-  teiginys: "Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną."
+<a id="claim-t-196717"></a>
+- t-010
+  global_id: t-196717
+  teiginys: "Kojelavičiaus pasakojime lietuviai, žygiuodami per Mazoviją kaip Konrado sąjungininkai, ėmė grobstyti ir vėliau užėmė Sochačevo bei Plocko apygardas."
   pagrindžia:
-    - c-168406
+    - c-178863
+
+<a id="claim-t-196718"></a>
+- t-011
+  global_id: t-196718
+  teiginys: "Kojelavičiaus pasakojime Gediminas apie rugsėjo vidurį patraukė į Mazoviją ir Dobrynę, jas nusiaubė ir be kovos parvedė kariuomenę į Lietuvą."
+  pagrindžia:
+    - c-178864
+
+<a id="claim-t-197894"></a>
+- t-012
+  global_id: t-197894
+  teiginys: "Ten juos pažino Divonis; juos valdė kažkoks Mazovijos slavų ka raliukas ar viršininkas, vadinamas Masosu, kuriam jie mo kėjo duoklę vaikais."
+  pagrindžia:
+    - c-179386
 
 <a id="claim-t-188771"></a>
-- t-010
+- t-009
   global_id: t-188771
-  teiginys: "Narbutas pasakojo, kad pranašė paskelbė dievų valią be ginklų pulti Mazoviją, kur esą laukė didelis laimikis."
+  teiginys: 'Narbutas pasakojo, kad pranašė paskelbė dievų valią be ginklų pulti Mazoviją, kur esą laukė didelis laimikis.'
   pagrindžia:
     - c-171660
 - susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-191002|Ziemovitas]]: Ziemovitas valdė Mazoviją.
@@ -128,7 +142,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/ivykiai/Treniotos žygis į Mazoviją (1264 m.).md#claim-t-185649|Treniotos žygis į Mazoviją (1264 m.)]]: Treniota, paėmęs valdžią, pradėjo niokoti Mazoviją ir sudegino kaimus ligi pat Červinsko.
 - susijęs iš [[objektai/ivykiai/Treniotos žygis į Mazoviją (1264 m.).md#claim-t-185650|Treniotos žygis į Mazoviją (1264 m.)]]: Treniotos žygio į Mazoviją metu buvo sugriauta Oršimovo pilis, o kaimai ligi Červinsko sudeginti.
 - susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185660|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Sustiprinęs Palenkę ir Polesę, Vytautas su žmona, šeimyna, turtais ir šalininkais pasitraukė į Mazoviją pas Jonušą ir Zemovitą.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184788|Mindaugas (valdovas, XIII a.)]]: Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai įsibrovė į Mazoviją.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184788|Mindaugas (valdovas, XIII a.)]]: Mindaugas, gavęs rusų paramą, didžiulių miškų takais slaptai ir netikėtai įsibrovė į Mazoviją.
 - susijęs iš Rūdninkai: Miškuose netoli Rūdninkų miestelio Mykolas netikėtai užtiko iš Bresto į Vilnių vykusio Kazimiero palydą.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184794|Mykolas (Žygimanto sūnus)]]: Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją.
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186624|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją.
@@ -136,9 +150,6 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/asmenys/Dovydas.md#claim-t-184693|Dovydas]]: Pulko vadas Dovydas žuvo grįždamas su kariuomene namo po Mazovijos siaubimo.
 - susijęs iš [[objektai/ivykiai/Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją.md#claim-t-191044|Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją]]: Narbutas artimiausiu ir saugiausiu herulų keliu į Reitgotiją laikė maršrutą per Pamarį, Kujaviją, Mazoviją ir Prūsiją.
 - susijęs iš [[objektai/asmenys/Aleksandra (Jogailos sesuo).md#claim-t-87614|Aleksandra (Jogailos sesuo)]]: Jogaila išleido savo seserį Aleksandrą už jaunesniojo Mazovijos kunigaikščio Ziemovito.
-- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184678|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.
-- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184680|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.
-- susijęs iš [[objektai/asmenys/Cimbarka.md#claim-t-186192|Cimbarka]]: Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau tapusi Austrijos erchercogo Ernesto žmona.
 - susijęs iš [[objektai/asmenys/Danmilė.md#claim-t-87649|Danmilė]]: Danmilė per krikštą buvo pavadinta Elžbieta ir ištekinta už Mazovijos kunigaikščio Vaclovo.
 - susijęs iš [[objektai/asmenys/Danutė.md#claim-t-186193|Danutė]]: Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykusį tėvą ir padėjo jam grįžti į Lietuvą.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173145|Dovydas (Gardino pilininkas)]]: Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės.
@@ -155,9 +166,8 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190906|Konradas]]: Narbuto pasakojime Konrado valdymo Mazovijoje metu Gotardas kautynėse suėmė septynis jotvingių kunigaikštukus, išsipirkusius sidabru.
 - susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190907|Konradas]]: Narbutas vaizduoja Konradą kaip Mazovijos kunigaikštį, XIII a. pradžioje pasiekusį laimėjimų Jotvingijoje ir valdžiusį Drohičiną.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59871|Meinhardas Saksas iš Kverfurto]]: 1294 m. Meinhardas Saksas iš Kverfurto subūrė kariuomenę, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184788|Mindaugas (valdovas, XIII a.)]]: Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai įsibrovė į Mazoviją.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184788|Mindaugas (valdovas, XIII a.)]]: Mindaugas, gavęs rusų paramą, didžiulių miškų takais slaptai ir netikėtai įsibrovė į Mazoviją.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184794|Mykolas (Žygimanto sūnus)]]: Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją.
-- susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184797|Mykolas (Žygimanto sūnus)]]: Mykolas iš Mazovijos atvyko į Kališą ir prašė karaliaus grąžinti jam tėvoniją bei tėvo turtus.
 - susijęs iš [[objektai/asmenys/Ona (Vytauto sesuo).md#claim-t-87810|Ona (Vytauto sesuo)]]: Vytauto sesuo Ona ištekėjo už vyresniojo Mazovijos kunigaikščio Jonušo per Vilniuje vykusias prašmatnias vestuves.
 - susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87453|Paulius Rusdorfas]]: Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais.
 - susijęs iš [[objektai/asmenys/Romuntas.md#claim-t-190966|Romuntas]]: Narbuto pasakojime Romuntas buvo Traidenio ir Mazovijos kunigaikštytės sūnus, vadinamas garsiu lietuvių istorijoje.
@@ -168,14 +178,12 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/asmenys/Vaclovas.md#claim-t-184851|Vaclovas]]: Vaclovas, dar vadintas Vanka, buvo Mazovijos kunigaikštis ir Algirdo sesers vyras.
 - susijęs iš [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis).md#claim-t-87880|Venceslavas (Mazovijos ir Plocko kunigaikštis)]]: Venceslavas tuo tarpsniu valdė Mazoviją ir Plocką, o 1321 m. sudarė sutartį su kryžiuočių Ordinu.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176737|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto seserį Oną vedė vyresnysis Mazovijos kunigaikštis Jonušas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184890|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis, sutelkęs karius prie Gardino, per Mazovijos miškus įsiveržė į Didžiosios Lenkijos žemes.
 - susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-191002|Ziemovitas]]: Ziemovitas valdė Mazoviją.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173319|Žygimantas Senasis]]: Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172930|M. Strijkovskis Stryjkowski]]: Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172907|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60511|Powierski J]]: J. Powierski cituojamas aiškinant 1218 m. Kristijono žygį ir jo sutartį su Mazovijos kunigaikščiu Konradu.
 - susijęs iš [[objektai/grupes/Galindai.md#claim-t-192382|Galindai]]: Narbutas Galindą vadina viena seniausių provincijų ir rašo, kad ji kadaise driekėsi plačiau Mazovijos bei Polesės link.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184543|Lietuviai]]: Lietuviams sulaužius sutartį, jiems priklausanti Poleksija buvo nusiaubta Mazovijos ir Kujavijos karių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184546|Lietuviai]]: Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-187731|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Boleslovas IV 1440 m. balandį arba gegužę užėmė Drohičino žemę Palenkėje ir laikė ją bent ketverius metus.
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-192433|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Konradas XIII a. pradžioje, pasak Narbuto, pasiekė didelių laimėjimų Jotvingijoje.
@@ -183,7 +191,6 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86734|Mazovijos kunigaikščiai]]: 1325 m. kitose Mazovijos žemėse viešpatavo kunigaikščiai Ziemovitas ir Traidenis.
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86735|Mazovijos kunigaikščiai]]: 1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme.
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86736|Mazovijos kunigaikščiai]]: Gedimino laiškų užuomina apie Mazoviją leido manyti, kad Mazovijos kunigaikštis buvo Lietuvos valdovo sąjungininkas.
-- susijęs iš [[objektai/ivykiai/Boleslovo, Mazovijos kunigaikščio, Palenkės užėmimas (1440 m.).md#claim-t-185799|Boleslovo, Mazovijos kunigaikščio, Palenkės užėmimas (1440 m.)]]: Užpuolęs Palenkę, Mazovijos kunigaikštis Boleslovas užėmė Melniką, Belską ir Drohičiną.
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186624|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją.
 - susijęs iš [[objektai/ivykiai/Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją.md#claim-t-191044|Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją]]: Narbutas artimiausiu ir saugiausiu herulų keliu į Reitgotiją laikė maršrutą per Pamarį, Kujaviją, Mazoviją ir Prūsiją.
 - susijęs iš [[objektai/ivykiai/Kristijono kryžiaus žygio įteisinimas ir įvykdymas.md#claim-t-59350|Kristijono kryžiaus žygio įteisinimas ir įvykdymas]]: Per 1218 m. žygį Kristijonas greičiausiai sudarė sutartį su Mazovijos kunigaikščiu Konradu ir gavo iš jo naujų valdų.
@@ -196,12 +203,10 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/ivykiai/Treniotos žygis į Mazoviją (1264 m.).md#claim-t-185649|Treniotos žygis į Mazoviją (1264 m.)]]: Treniota, paėmęs valdžią, pradėjo niokoti Mazoviją ir sudegino kaimus ligi pat Červinsko.
 - susijęs iš [[objektai/ivykiai/Treniotos žygis į Mazoviją (1264 m.).md#claim-t-185650|Treniotos žygis į Mazoviją (1264 m.)]]: Treniotos žygio į Mazoviją metu buvo sugriauta Oršimovo pilis, o kaimai ligi Červinsko sudeginti.
 - susijęs iš [[objektai/ivykiai/Vizenburgo pilies kautynės ir apleidimas (1263 m.).md#claim-t-62951|Vizenburgo pilies kautynės ir apleidimas (1263 m.)]]: 1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link.
-- susijęs iš [[objektai/ivykiai/Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją.md#claim-t-185543|Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją]]: Vytautui pasitraukus pas kryžiuočius, Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas buvo neseniai atėmęs iš lietuvių.
+- susijęs iš [[objektai/ivykiai/Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją.md#claim-t-185543|Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją]]: Vytautui pasitraukus pas kryžiuočius, Jogaila nukreipė jėgas į Poleksiją, kurią Jonušas neseniai buvo atėmęs iš lietuvių.
 - susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185660|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Sustiprinęs Palenkę ir Polesę, Vytautas su žmona, šeimyna, turtais ir šalininkais pasitraukė į Mazoviją pas Jonušą ir Zemovitą.
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant.md#claim-t-185837|Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant]]: Vytenis per Boleslovui pavaldžias Mazovijos žemes įsiveržė į Lenkiją, nuniokojo Kujaviją ir pasitraukė su grobiu, o lenkai bei kryžiuočiai lietuvių neįveikė.
 - susijęs iš [[objektai/paprociai/Gedimino svetimšalių pirklių, amatininkų ir kolonistų kvietimas bei teisių suteikimas.md#claim-t-87196|Gedimino svetimšalių pirklių, amatininkų ir kolonistų kvietimas bei teisių suteikimas]]: Gediminas svetimšaliams žadėjo laisvą ir saugų kelią į Lietuvą be muitų ir mokesčių per Mazovijos kunigaikščio Boleslovo žemę.
 - susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87211|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi.
-- susijęs iš [[objektai/paprociai/Pakėlimas į kunigaikščius su įprastinėmis apeigomis.md#claim-t-185920|Pakėlimas į kunigaikščius su įprastinėmis apeigomis]]: Imperatorius Maksimilijonas Goniondze įprastinėmis apeigomis pakėlė Mikalojų II Radvilą į Rusios ir Mazovijos kunigaikščius.
 - susijęs iš [[objektai/posakiai/dievų valia visi turi be ginklų ir be jokių šarvų užpulti Mazovijos šalį.md#claim-t-189558|dievų valia visi turi be ginklų ir be jokių šarvų užpulti Mazovijos šalį]]: Narbuto pasakojime pranašė paskelbė, kad dievų valia krašto vyrai be ginklų ir šarvų turi pulti Mazoviją, kur jų laukiąs didelis laimikis.
 - susijęs iš 1383 m. Jogailos laiškas didžiajam magistrui: 1383 m. laiške Jogaila sutiko vilkinti taikos sutartį su Mazovija, jei būtų grąžintos Vilniaus žmonių prekės ir išlaisvinti pirkliai.
 - susijęs iš A. Vijūko-Kojelavičiaus Lietuvos istorija: A. Vijūko-Kojelavičiaus Lietuvos istorijos p. 270 minimas Gedimino 1323-1324 m. įsiveržimas į Mazoviją ir Dobrynės žemę.
@@ -249,7 +254,6 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176416|Jadvyga Jogailienė]]: Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais.
 - susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190884|Jaroslavas]]: Teodoras Narbutas Jaroslavo ir Kristijono pasakojimus apie ulmigerus laikė paremtais tikrove.
 - susijęs iš [[objektai/asmenys/Jonas (kancleris).md#claim-t-60342|Jonas (kancleris)]]: Kancleris Jonas buvo tarp liudytojų, dalyvavusių apie 1226 arba 1230 m. patvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
-- susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185988|Jonušas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Jonušas, siekdamas sosto, atvyko į Piotrkovą su tūkstantine raitelių palyda.
 - susijęs iš [[objektai/asmenys/Jurgis Narimantaitis.md#claim-t-186119|Jurgis Narimantaitis]]: Lenkijos karalius Kazimieras paliko visą Belzo kunigaikštystę Jurgiui Narimantaičiui.
 - susijęs iš [[objektai/asmenys/Karolis Kozakovskis.md#claim-t-190074|Karolis Kozakovskis]]: Karolis Kozakovskis vykdė Obelių kapinyno kasinėjimus, kurių aprašymas pasiekė Teodorą Narbutą.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-184099|Kazimieras (Kujavijos kunigaikštis)]]: Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių.
@@ -283,7 +287,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176758|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu buvo atvykęs pas Vytautą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184865|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesistengė suteikti jam deramos pagalbos.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184867|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Sklido gandai, kad tariamasi dėl Henriko Mazoviečio ir Vytauto sesers Ringailės santuokos.
-- susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184894|Zemovitas]]: Mindaugas, padedamas rusų, įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.
+- susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184894|Zemovitas]]: Mindaugas su rusų parama įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.
 - susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184895|Zemovitas]]: Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesuteikė jam deramos pagalbos.
 - susijęs iš [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis).md#claim-t-87892|Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]]: Mazovijos jaunesnysis kunigaikštis Ziemovitas vedė Jogailos seserį Aleksandrą.
 - susijęs iš [[objektai/autoriai/Piętka J.md#claim-t-60769|Piętka J]]: J. Piętka cituojamas dėl darbo „Geneza mazowieckiej...“, siejamo su Hugono Butyro veiklos Kulme aiškinimu.
@@ -296,7 +300,6 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65113|Dobrynės broliai]]: 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
 - susijęs iš [[objektai/grupes/Galindai.md#claim-t-192383|Galindai]]: Narbutas rašo, kad galindai iš pradžių nedalyvavo prūsų karuose su kryžiuočiais, o vėliau kryžiuočiai užpuolė Galindą.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-192410|Jotvingiai]]: Narbutas rašo, kad Konrado valdymo metu Gotardas, Lukošiaus sūnus, kautynėse suėmė septynis jotvingių kunigaikštukus.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184491|Kryžiuočių ordinas]]: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179137|Lenkai]]: Į Vilnių kartu su Jogaila atvyko Jadvyga, Gniezno arkivyskupas, Krokuvos vyskupas ir daugybė lenkų didikų bei kunigaikščių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179248|Lietuviai]]: Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užgriuvo Prūsiją.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179308|Lietuviai]]: Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užpuolė kraštą ir nužudė arba į nelaisvę išsivedė 6-8 tūkst. gyventojų.
@@ -312,9 +315,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186626|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Kazimieras ir Didžiosios Kunigaikštystės Ponų Taryba skubiai pasiuntė Joną Goštautą su kariuomene.
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186627|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Jonas Goštautas didžiojo kunigaikščio įsakymu ginklo jėga sugrąžino miestus Didžiajai Kunigaikštystei.
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186628|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo į Mykoliuko Žygimantaičio tarnybą.
-- susijęs iš [[objektai/ivykiai/Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių.md#claim-t-185569|Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių]]: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas.md#claim-t-66640|Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]: Kunigaikštis Kristaus karių ordinui perdavė Dobrynės pilį ir žemės plotą Kujavijoje, vadintą Sedlcais.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.).md#claim-t-185600|Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)]]: Kryžiuočiai su Prūsijos maršalu Henriku fon Plocke tankmėje buvo sunaikinti arba pateko į nelaisvę.
 - susijęs iš [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams.md#claim-t-62844|Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]: Kulmo ir Lubavos žemių dovanojimui patvirtinti buvo išduotas raštas su antspaudu, kad dovanojimo nebūtų galima atšaukti.
 - susijęs iš [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams.md#claim-t-62846|Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]: Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams, suteikiant jiems visas turėtas teises ir naudas.
 - susijęs iš [[objektai/ivykiai/Kulmo žemės nusiaubimas prūsų antpuoliu.md#claim-t-66653|Kulmo žemės nusiaubimas prūsų antpuoliu]]: Istoriografijoje laikomasi nuomonės, kad Dusburgietis perdėjo Kulmo žemės nusiaubimo mastą.
@@ -325,10 +326,8 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.).md#claim-t-86929|Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]: 1383 m. prie Vilniaus, ant tilto ties Vingrių versmėmis, užvirė atkaklus mūšis.
 - susijęs iš [[objektai/ivykiai/Vizenburgo pilies kautynės ir apleidimas (1263 m.).md#claim-t-62952|Vizenburgo pilies kautynės ir apleidimas (1263 m.)]]: Prūsai beveik trejus metus laikė apsupę Vizenburgo pilį ir trimis apgulos mašinomis kasdien ją puolė.
 - susijęs iš [[objektai/ivykiai/Viznos pilies sugriovimas (1294 m.).md#claim-t-62533|Viznos pilies sugriovimas (1294 m.)]]: 1294 m. magistras Meinhardas subūrė daug karių, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė iš pamatų.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.).md#claim-t-185656|Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)]]: Kęstutis Mazovijos pasieniu nuvedė kariuomenę į menkai įtvirtintą Prūsijos pakraštį ir prie Saldavos bei Neidenburgo sumušė kryžiuočius.
 - susijęs iš [[objektai/ivykiai/Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją.md#claim-t-185542|Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją]]: Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko.
 - susijęs iš [[objektai/ivykiai/Vytauto mėginimas klasta užgrobti Vilnių ir antras perėjimas pas kryžiuočius (1389 m.).md#claim-t-185659|Vytauto mėginimas klasta užgrobti Vilnių ir antras perėjimas pas kryžiuočius (1389 m.)]]: Vytautas pirmiausia nutarė klasta užgrobti Vilnių, pasinaudodamas gandais apie Henriko ir Ringailės santuoką.
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.).md#claim-t-185513|Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.)]]: 1306 m. Vytenis, sužinojęs apie vidaus nesantarvę Lenkijoje, sutelkė kariuomenę prie Gardino ir įsiveržė į Didžiąją Lenkiją.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lenčicos žudynės.md#claim-t-59455|Vytenio žygis į Lenkiją ir Lenčicos žudynės]]: Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų persekiojo iš Lenkijos besitraukiančius lietuvius.
 - susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-183825|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą.
 - susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87212|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių.
@@ -336,8 +335,6 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui.md#claim-t-87148|Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]: 1430 m. Vytautas sukvietė į Trakus ir Vilnių šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
 - susijęs iš [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime.md#claim-t-87170|Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]: Vilniaus miestiečių luomas turėjo nustatytą vietą krašto reprezentacijose ir nuo Vytauto laikų dalyvavo Lietuvos seimuose.
 - susijęs iš [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris.md#claim-t-86870|Promittimus et spondemus sub fide et honore nostris]]: Formule „promittimus et spondemus sub fide et honore nostris“ Vilnius su kitais miestais įsipareigojo rūpintis amžinosios taikos laikymusi.
-- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185465|Ugnimi ir kalaviju]]: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
-- susijęs iš [[objektai/posakiai/penktadieni prieš Sekmines.md#claim-t-186894|penktadieni prieš Sekmines]]: Formulė „penktadieni prieš Sekmines“ 1971 m. leidinio pastaboje siejama su Kazimiero išvykimu iš Krokuvos į Lietuvą 1440 m. gegužės 13 d.
 - susijęs iš 1260 m. Trošino sutartis: 1260 m. Trošino sutartimi kryžiuočiai atidavė šeštadalį jotvingių krašto, o kunigaikštis įsipareigojo remti Ordiną.
 - susijęs iš 1323 m. dokumentas apie Gedimino veiksmus Dobrynės ir Kulmo žemėse: 1323 m. dokumente Gediminas kaltintas Dobrynės ir Kulmo žemių niokojimu bei siekiu sugriauti priešininkų žemes.
 - susijęs iš 1411 m. Torunės taika: Taikos sutartis užbaigė Prūsijos karą, o karalius per Lietuvą sugrįžo į Lenkiją.
@@ -348,18 +345,11 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1227 m. jotvingių antpuoliai pasiekė Voluinės Vladimirą, kur buvo suimti Sutras Monoduničius ir Stegutas Zebrovičius.
 - susijęs iš Ksaveras Bogušas, Rozprawa: Narbuto teigimu, Ksavero Bogušo veikaluose rasti įrodymai rodė, kad herulai keliavo į Reitgotiją.
 - susijęs iš Tacitas P. K. Rinktiniai raštai: P. K. Tacito „Rinktinių raštų“ 29 puslapyje minimi germanai lemoviai.
-- susijęs iš Belskas: Mazovijos kunigaikštis Boleslovas, užpuolęs Palenkę, užėmė Melniką, Belską ir Drohičiną.
-- susijęs iš Belzo kunigaikštystė: Mazovijos valdovas Kazimieras su savo kariais žiauriai nuniokojo Belzo kunigaikštystę.
 - susijęs iš Brasta: Teodoras Narbutas Brastos apylinkėse mini svarbias jotvingių gyvenvietes, kurias 1237 m. ketino užpulti Danieliaus vadovauti Pietų Rusios kunigaikščiai.
-- susijęs iš Dakija: Boleslovas, bijodamas rimtesnių veiksmų prieš jį, pasitraukė iš Lucko į Dakiją.
-- susijęs iš Didžioji Lenkija: Į Didžiosios Lenkijos žemes buvo įsiveržta sutelkus kariuomenę prie Gardino.
 - susijęs iš Dobrynė: Dusburgiečio aprašyme Dobrynės kunigaikštystė minima tarp Prūsijos žemę ribojusių teritorijų.
 - susijęs iš Dobrynės kunigaikštystė: Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos.
-- susijęs iš Drohičinas: Užpuolęs Palenkę, Mazovijos kunigaikštis Boleslovas užėmė Melniką, Belską ir Drohičiną.
 - susijęs iš Engelsbergas: Engelsbergas tapatinamas su dabartiniu Pokživnu, esančiu daugiau kaip 8 km į pietryčius nuo Grudziondzo.
 - susijęs iš Gostininas: Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui.
-- susijęs iš Heilsbergas: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
-- susijęs iš Karaliaučius: Iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš Krokuva: 1387 m. sausį į Vilnių su Jogaila atvyko ir Krokuvoje pakrikštyti Lietuvos bajorai.
 - susijęs iš Kulmo žemė: Ordino įsikūrimas Mazovijos kunigaikščio Konrado dovanotoje Kulmo žemėje laikomas Ordino veiklos Prūsijoje pagrindu.
 - susijęs iš Kulmo žemė: „Pranešime“ kalbama apie Vokiečių ordino pakvietimą ir Kulmo žemės užrašymą broliams.
@@ -370,18 +360,13 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš Lietuva: 1430 m. Vytautas į Trakus ir Vilnių sukvietė šiaurės šalių kunigaikščius ir pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
 - susijęs iš Lietuva: Gedimino laiškų netikrumo įrodymu laikyta užuomina, kad svetimšaliai per Mazoviją galėjo saugiai vykti į Lietuvą.
 - susijęs iš Lietuva: Dusburgietis, aprašydamas lietuvių puolimus, grindė būtinybę kariauti prieš Lietuvą.
-- susijęs iš Livonija: Mindaugo karvedžiai nuolat siaubė Livoniją, o prie Lielvardės pilies Dauguvos pakrantėse vyko kovos.
+- susijęs iš Livonija: Mindaugo karvedžiai nuolat siaubė Livoniją, o prie Lielvardės pilies Dauguvos pakrantėse, pasak Kojelavičiaus, vyko kovos.
 - susijęs iš Lubavos žemė: Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams.
-- susijęs iš Luckas: Boleslovas, bijodamas rimtesnių veiksmų prieš save, pasitraukė iš Lucko į Dakiją.
 - susijęs iš Maskva: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
 - susijęs iš Maskva: 1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
-- susijęs iš Melnikas: Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.
 - susijęs iš Melnikas: Lietuvos metraštyje Jogailos karas su Mazovija ir lenkais aiškinamas tuo, kad Mazovijos kunigaikštis, lenkų padedamas, buvo užgrobęs Drohičiną ir Melniką.
-- susijęs iš Palenkė: Mazovijos kunigaikštis Boleslovas, užpuolęs Palenkę, užėmė Melniką, Belską ir Drohičiną.
 - susijęs iš Pamedė: Į šiaurę už Osos upės ir prie jos plytėjusios girios buvo antroji Pamedės provincija.
-- susijęs iš Piotrkovas: Mazovijos kunigaikštis Jonušas, siekdamas sosto, dėl nuomonių įvairovės vyko į Piotrkovą.
-- susijęs iš Plockas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
-- susijęs iš Poleksija: Jogaila siekė išvyti Jonušą iš Poleksijos, kurią šis buvo neseniai atėmęs iš lietuvių.
+- susijęs iš Poleksija: 1383 m. Jogaila nukreipė jėgas prieš Jonušą, Mazovijos kunigaikštį, norėdamas išvyti jį iš Poleksijos.
 - susijęs iš Pomeranija: Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos.
 - susijęs iš Reitgotija: Ksavero Bogušo veikaluose, Narbuto teigimu, esama įrodymų, kad herulai keliavo į Reitgotiją.
 - susijęs iš Riazanė: Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė.
@@ -396,14 +381,11 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš Rūdninkų giria: Mykoliukas Rūdninkų girioje susidūrė su Kazimieru, nusilenkė jam ir prašė malonės.
 - susijęs iš Rūdninkų giria: Mykoliukas Rūdninkų girioje susidūrė su Kazimieru, nusilenkė jam ir prašė malonės.
 - susijęs iš Sandomiras: Jogaila, nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, kuris citatoje vadinamas lenkų žeme.
-- susijęs iš Sochačevas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį sunaikino ugnimi ir kalaviju.
 - susijęs iš Sūrioji jūra: Sūrioji jūra Petro Dusburgiečio aprašyme buvo viena iš Prūsijos žemės ribų.
 - susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.
 - susijęs iš Trakai: Trakai buvo puolami tam, kad kariai turėtų užsiėmimą laukdami pagalbos.
 - susijęs iš Tverė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.
 - susijęs iš Tverė: 1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.
-- susijęs iš Vilnius: Gedimino laiškas buvo duotas Vilniuje 1323 m. Kristaus Kūno dieną.
-- susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
 - susijęs iš Vingrių šaltiniai: Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš Visla: Lietuvos metraštis Jogailos žygius į Lenkų žemę vaizduoja kaip žalą ir krikščionių kraujo praliejimą nuo Lietuvos sienų iki Vislos.
 - susijęs iš Vizenburgas: Vizenburgo pilis beveik trejus metus buvo prūsų apsupta ir kasdien puolama trimis apgulos mašinomis.
@@ -416,7 +398,6 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-192410|Jotvingiai]]: Narbutas rašo, kad Konrado valdymo metu Gotardas, Lukošiaus sūnus, kautynėse suėmė septynis jotvingių kunigaikštukus.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173145|Dovydas (Gardino pilininkas)]]: Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173146|Dovydas (Gardino pilininkas)]]: Lapkričio 21 d. Gardino pilininkas Dovydas su galinga kariuomene įsibrovė į Mazoviją ir nusiaubė Pultuską bei 130 kaimų.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184890|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis, sutelkęs karius prie Gardino, per Mazovijos miškus įsiveržė į Didžiosios Lenkijos žemes.
 - susijęs iš Dobrynės žemė: Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173319|Žygimantas Senasis]]: Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190906|Konradas]]: Narbuto pasakojime Konrado valdymo Mazovijoje metu Gotardas kautynėse suėmė septynis jotvingių kunigaikštukus, išsipirkusius sidabru.
@@ -426,220 +407,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - susijęs iš [[objektai/asmenys/Danutė.md#claim-t-186193|Danutė]]: Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykusį tėvą ir padėjo jam grįžti į Lietuvą.
 - susijęs iš [[objektai/asmenys/Bonislavas (Mazovijos kunigaikštis ).md#claim-t-87639|Bonislavas (Mazovijos kunigaikštis )]]: Gedimino laiškų rašytojas dviejuose laiškuose Mazovijos kunigaikštį vadino Bonislavu, nors Balińskis tokio kunigaikščio nerado.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino
-    XIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame
-    regione metu. Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1323 m. Vilniuje duotame laiške skelbta, kad per Mazovijos kunigaikščio Boleslavo valdas galima saugiai atvykti į Lietuvą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šio antspaudo niekintojus šiuo savo laišku pasmerkiame
-    kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios
-    garbės neturinčius žmones.
-    Per viešpaties Mazovijos kunigaikščio Boleslavo kunigaikš­
-    tystę galės kiekvienas saugiai atvykti į mano valdomą žemę.
-    Duota Vilniuje 1323 viešpaties metais, pačioje Kristaus
-    kūno dienoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, kaimyninė Mazovija ir artimos apylinkės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tokios
-    didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
-    gavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis
-    kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su
-    trisdešimt šešiais kariais nužudė8.
-    Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
-    nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­
-    gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­
-    linkės1 1 . Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad
-    Šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Balińskis užuominą apie saugų kelią per Mazoviją laikė svarbiu Gedimino laiškų netikrumo įrodymu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pagaliau kodėl Ge­
-    diminas būtų slėpęs tą priežastį nuo legatų, ypač jei ji būtų
-    susijusi su Ordino riteriais?
-    Trečias ir itin svarbus laiškų netikrumo įrodymas yra
-    užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
-    kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­
-    nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi
-    tą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­
-    dovo sąjungininku, sutartinai veikiančiu sprendžiant sve­
-    timšalių atvykimo reikalus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: '„Pranešime...“ minimas pagonių brovimasis į Mazovijos kunigaikščio Konrado valdas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    „Pranešime...“ kalbama apie pagonių brovimąsi  į Mazovijos kunigaikščio
-    Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,
-    o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą,
-    apie Sventopelko, Lietuvos  ir prūsų bendrą kovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Prūsijos žemę iš vienos pusės ribojo Mazovijos kunigaikštystė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    2. Prūsijos žemės aprašymas
-
-       Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
-    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
-    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
-    bei Pomeraniją nuo Prūsijos186.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: '1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją pasiplėšti grobio.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mat, nors visą Belzo
-    kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
-    lės kunigaikščiui Aleksandrui Narimantaičiui atidavė
-    Volynę, tačiau abi šias žemes atidavė su ta sąlyga,
-    kad aukščiausią galią į Rusią turėsiąs Lenkijos kara­
-    lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
-    vietininkai. Gal supykę dėl šios lenkų padarytos skriau­
-    dos, gal dėl to, kad žmonė-
-    1367 m e ta i
-    se pasklido kalbos, jog, Po­
-    locko vyskupo patarti, kry­
-    žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar­
-    das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją
-    pasiplėšti grobio. Staigiai puldami, jie užėmė Pultus-
-    ką, svarbų miestą, priklau-
-    L ie tu v ia i
-    su d eg in a
-    siusį popiežiui; užkariavo ir
-    P u ltu sk ą
-    pilį, kuri, iš visų pusių ap­
-    supta miesto degėsių, pati
-    užsidegė, o įgula nepajėgė kovoti su liepsna; vėliau
-    užgrobė visą kraštą, kurį kareiviai smarkiai nusiaubė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Jogaila su kariuomene patraukė prieš Mazovijos kunigaikštį Jonušą ir iš keršto nuniokojo Mazoviją.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo
-    tarpu Jogaila, atsikratęs rū­
-    pesčių dėl šio karo, ėmėsi kitų darbų. Iš pradžių jis
-    su kariuomene patraukė prieš Jonušą, Mazovijos ku­
-    nigaikštį; iš keršto kaip beįmanydamas nuniokojęs
-    Mazoviją, perkėlė siaubiančius pulkus į Sandomirą,
-    lenkų žemę. Apie šį karą su lenkais nieko nepasakoja
-    Kromeris, tačiau, kad kas nepasigestų to, ką aprašo
-    daugelis rusų metraštininkų, mūsų Strijkovskis pasi­
-    stengė, kad skaitytojas suži-
-    J o g a ilo s ž y g is  j M a-
-    notų, ką šie surašė — gal
-    z o v iją  ir L en k iją
-    klysdami, o gal tikrai žino­
-    dami, jog šitaip iš tikrųjų
-    buvo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
 - c-009
-  santrauka: 'Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kurie, prisi-
-    džiovinę medžių lapų ir juos
-    sutrynę, kepėsi duonos, tie
-    tarėsi prabangiai besimaitiną,
-
-    ## Puslapis 465
-
-    P e n k t a  k n y g a
-    APIE LIETUVIŲ PRAEITĮ,
-    KAI VALDE KAZIMIERAS II JOGAILAITIS
-    1440 m eta i
-    M a z o v ijo s
-    k u n ig a i­
-    kštis užim a
-    P a len kę
-    Nužudžius Žygimantą, ra­
-    dosi daugybė priežasčių, ga­
-    linčių sukelti neramumus val­
-    stybės viduje ir už jos ribų.
-    Užpuolęs Palenkę, Boleslovas,
-    Mazovijos kunigaikštis, užėmė Melniką, Belską ir Dro-
-    hičiną. Tuo tarpu Lietuvos didikams visai nerūpėjo kraš­
-    to gynyba: jie susiskirstė įvairiomis grupuotėmis, vieni
-    pritardami naujajam valdovui, o kiti jam priešindamie­
-    si.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-010
   santrauka: 'Narbutas pasakojo, kad pranašė paskelbė dievų valią be ginklų pulti Mazoviją, kur esą laukė didelis laimikis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -663,19 +431,20 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
+    - t-009
 
 ## Citatos
 
 - id: c-166238
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino
-    XIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame
-    regione metu. Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.
+    Vėliau šioje teritorijoje, anksčiau apgyvendintoje prūsų, vyravo lenkiškasis elementas.
+    Šių etninių poslinkių chronologija nėra pakankamai aiški (HP, 1, 1, p. 290—291 — Labuda
+    G.). XIII a., kryžiuočių atsikraustymo į pavyslį išvakarėse, Kulmo žemė vėl buvo prūsų
+    rankose (D. II, 1; III, 7).
+  citata_rodoma: "Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino\nXIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame\nregione metu. Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -749,13 +518,12 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-167567
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 22"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    „Pranešime...“ kalbama apie pagonių brovimąsi  į Mazovijos kunigaikščio
+    „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio
     Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,
     o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą,
-    apie Sventopelko, Lietuvos  ir prūsų bendrą kovą.
+    apie Sventopelko, Lietuvos ir prūsų bendrą kovą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -766,15 +534,16 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-167568
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    2. Prūsijos žemės aprašymas
-
-       Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
-    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
-    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
-    bei Pomeraniją nuo Prūsijos186.
+    Torunės pilyje apie XIII a. vidurį, atrodo, įsikūrė Ordino konventas.
+    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
+    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
+    rankose, ji naudota kaip gyvulininkystės dvaras.
+    Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
+    e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
+    (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
+  citata_rodoma: "2. Prūsijos žemės aprašymas\n\n   Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,\nMazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -785,10 +554,14 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-168404
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 248."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat, nors visą Belzo
+    Tais pačiais metais
+    Kazimieras,
+    Lenkijos kara­
+    lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą
+    su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo­
+    lynės Algirdo brolį Liubartą. Mat, nors visą Belzo
     kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
     lės kunigaikščiui Aleksandrui Narimantaičiui atidavė
     Volynę, tačiau abi šias žemes atidavė su ta sąlyga,
@@ -811,6 +584,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
     supta miesto degėsių, pati
     užsidegė, o įgula nepajėgė kovoti su liepsna; vėliau
     užgrobė visą kraštą, kurį kareiviai smarkiai nusiaubė.
+  citata_rodoma: "Mat, nors visą Belzo\nkunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­\nlės kunigaikščiui Aleksandrui Narimantaičiui atidavė\nVolynę, tačiau abi šias žemes atidavė su ta sąlyga,\nkad aukščiausią galią į Rusią turėsiąs Lenkijos kara­\nlius, o pilis, miestus bei įgulas tvarkysią lenkų skirti\nvietininkai. Gal supykę dėl šios lenkų padarytos skriau­\ndos, gal dėl to, kad žmonė-\n1367 m e ta i\nse pasklido kalbos, jog, Po­\nlocko vyskupo patarti, kry­\nžiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar­\ndas, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją\npasiplėšti grobio. Staigiai puldami, jie užėmė Pultus-\nką, svarbų miestą, priklau-\nL ie tu v ia i\nsu d eg in a\nsiusį popiežiui; užkariavo ir\nP u ltu sk ą\npilį, kuri, iš visų pusių ap­\nsupta miesto degėsių, pati\nužsidegė, o įgula nepajėgė kovoti su liepsna; vėliau\nužgrobė visą kraštą, kurį kareiviai smarkiai nusiaubė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -821,10 +595,15 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-168405
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 275"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 275."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo
+    Prūsijos; atgavęs Gardino, Volkovysko bei Bresto val­
+    das, užleistas jam pagal susitarimą Jogailos, jis vėl
+    širdingai su juo susidraugavo; jiedu ėmė ir veikti, ir
+    mąstyti taip sutartinai, kad be Jogailos žinios Vytautas
+    paprastai net pasiuntinio ne-
+    1384 m e la i
+    siųsdavo į svetimą šalį. Tuo
     tarpu Jogaila, atsikratęs rū­
     pesčių dėl šio karo, ėmėsi kitų darbų. Iš pradžių jis
     su kariuomene patraukė prieš Jonušą, Mazovijos ku­
@@ -834,12 +613,13 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
     Kromeris, tačiau, kad kas nepasigestų to, ką aprašo
     daugelis rusų metraštininkų, mūsų Strijkovskis pasi­
     stengė, kad skaitytojas suži-
-    J o g a ilo s ž y g is  j M a-
+    J o g a ilo s ž y g is j M a-
     notų, ką šie surašė — gal
-    z o v iją  ir L en k iją
+    z o v iją ir L en k iją
     klysdami, o gal tikrai žino­
     dami, jog šitaip iš tikrųjų
     buvo.
+  citata_rodoma: "Tuo\ntarpu Jogaila, atsikratęs rū­\npesčių dėl šio karo, ėmėsi kitų darbų. Iš pradžių jis\nsu kariuomene patraukė prieš Jonušą, Mazovijos ku­\nnigaikštį; iš keršto kaip beįmanydamas nuniokojęs\nMazoviją, perkėlė siaubiančius pulkus į Sandomirą,\nlenkų žemę. Apie šį karą su lenkais nieko nepasakoja\nKromeris, tačiau, kad kas nepasigestų to, ką aprašo\ndaugelis rusų metraštininkų, mūsų Strijkovskis pasi­\nstengė, kad skaitytojas suži-\nJ o g a ilo s ž y g is  j M a-\nnotų, ką šie surašė — gal\nz o v iją  ir L en k iją\nklysdami, o gal tikrai žino­\ndami, jog šitaip iš tikrųjų\nbuvo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -847,73 +627,97 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
   pagrindzia:
     - t-185044
 
-- id: c-168406
+- id: c-178863
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kurie, prisi-
-    džiovinę medžių lapų ir juos
-    sutrynę, kepėsi duonos, tie
-    tarėsi prabangiai besimaitiną,
-
-    ## Puslapis 465
-
-    P e n k t a  k n y g a
-    APIE LIETUVIŲ PRAEITĮ,
-    KAI VALDE KAZIMIERAS II JOGAILAITIS
-    1440 m eta i
-    M a z o v ijo s
-    k u n ig a i­
-    kštis užim a
-    P a len kę
-    Nužudžius Žygimantą, ra­
-    dosi daugybė priežasčių, ga­
-    linčių sukelti neramumus val­
-    stybės viduje ir už jos ribų.
-    Užpuolęs Palenkę, Boleslovas,
-    Mazovijos kunigaikštis, užėmė Melniką, Belską ir Dro-
-    hičiną. Tuo tarpu Lietuvos didikams visai nerūpėjo kraš­
-    to gynyba: jie susiskirstė įvairiomis grupuotėmis, vieni
-    pritardami naujajam valdovui, o kiti jam priešindamie­
-    si.
+    Žinoma, visada
+    pavojinga telktis priešą į pa­
+    galbą, nes jis trumpą ginklų
+    draugystę gali slaptai panau­
+    doti savo reikalams ir, išty­
+    ręs padėtį kaip draugas, vė­
+    liau kur kas saugiau veikti
+    kaip priešas; šito susilaukė ir
+    Konradas. Lietuviai, kelerius metus vengę niokoti to­
+    limesnius Mazovijos pakraščius, dabar, be kliūčių kaip
+    sąj ungininkai galėdami žygiuoti šiomis žemėmis į Gos­
+    tininą, susiviliojo taikos metais visiškai atsistačiusio
+    krašto turtais ir įniko grobstyti, o beieškodami grobio,
+    Įsitraukė į karą; vos parsigabenę namo grobį iš Gos-
+    tinino, jie su stambesnėmis jėgomis sugrįžo į Konrado
+    valdas, staiga iš sąjungininkų virtę priešais. Jie netru­
+    ko užimti Sochačevo ir Plocko apygardas; dvarus ir
+    visa kita, ko negalėjo išsigabenti iš krašto kaip gro­
+    bio, sunaikino ugnimi ir kalaviju.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185045
+    - t-196717
 
-- id: c-171660
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- id: c-178864
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pasipiktinusios šito­
-    305
+    Visi kryžiuočiai su vadu Henriku fon Ploc-
+    ke, Prūsijos maršalu, buvo šioje tankmėje arba su­
+    naikinti, arba pakliuvo į nelaisvę. Gediminas, norėda­
+    mas, kad kariuomenė, prisikentusi visokio vargo per
+    karą su kryžiuočiais, atgautų narsą prisiplėšusi naujo
+    grobio, apie rugsėjo vidurį patraukė į Mazoviją ir
+    Dobrynę; jis nusiaubė ir vieną, ir kitą žemę; kadangi
+    niekur nesirodė priešas, parvedė be kovos savo ka­
+    riuomenę, prisiplėšusią grobio, į tėvynę. Po to ordino
+    magistro Karolio fon Tryro
+    L ietu via i n io k o ja M a-
+    pastangomis buvo sudarytos
+    z o v iją ir D o b ry n ę
+    paliaubos dvejiems metams:
+    gal šis norėjo, kad ilgainiui
+    aprimtų lietuvių dvasia, kurią kėlė pastovi sėkmė (mat
+    geriausias būdas užbaigti tai, kam užsimota,— tęsti sėk­
+    mingus žygius), o gal dėl to, kad tuo metu pats ren­
+    gėsi visomis jėgomis kovoti su lenkais dėl Pomerani-
+    m
 
-    ## Puslapis 305
-
-    kiu žiaurumu, moterys kreipėsi į savo krašto pranašę40 41, visuo­
-    tinai garsėjančią dideliu šventumu, prašydamos patarimo ir
-    pagalbos šiame liūdname nutikime. Pranašė, susijaudinusi iš
-    gailesčio savajai lyčiai, tuoj pat sušaukė į savo buveinę žymiau­
-    sius krašto vyrus, kuriems paskelbė, kad dievų valia visi turi
-    be ginklų ir be jokių šarvų užpulti Mazovijos šalį, kur jų lauki­
-    ąs didelis laimikis. Šie, patikėję žynės žodžiu, tuojau sutelkė
-    vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
-    baisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.
+    jos.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188771
+    - t-196718
+
+- id: c-179386
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Ten juos
+    pažino Divonis; juos valdė kažkoks Mazovijos slavų ka­
+    raliukas ar viršininkas, vadinamas Masosu, kuriam jie mo­
+    kėjo duoklę vaikais. Jaroslavas ir Kristijonas gyveno tais
+    laikais, kai naujųjų amžių atradimai tautų, gyvenusių to­
+    kiame kaip ulmigerai civilizacijos lygyje, dar nebuvo ži­
+    nomi, vadinasi, jei jie būtų ketinę aprašyti išgalvotus da­
+    lykus, jie nebūtų turėję pavyzdžio ir nebūtų galėję nupiešti
+    tokio tikroviško gamtos vaikų vaizdo. Iš to išplaukia, kad
+    jie rėmėsi tikrove, kuri visur ir visada yra vienoda.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197894
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Konradas]]
 - Buvo valdoma: [[objektai/asmenys/Ziemovitas]]
-- Buvo kelionės vieta: [[objektai/asmenys/Jurgis Nosuta]], [[objektai/asmenys/Mykolas (Žygimanto sūnus)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Jurgis Nosuta]], [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - Puolė Mazoviją: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - Gynė Mazoviją: [[objektai/grupes/Lietuvos kariuomenė]]
 - Buvo žygio kryptis: [[objektai/asmenys/Dovydas (Gardino pilininkas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

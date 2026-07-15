@@ -36,67 +36,44 @@ Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Pr
   pagrindžia:
     - c-60918
 
-<a id="claim-t-60286"></a>
-- t-002
-  global_id: t-60286
-  teiginys: "Gerhardas iš Hircbergo dvejus metus vadovavo kaip ketvirtas Prūsijos žemės magistras."
-  pagrindžia:
-    - c-60918
-
 <a id="claim-t-194483"></a>
-- t-003
+- t-002
   global_id: t-194483
   teiginys: "Apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Prūsijos žemės magistras brolis Gerhardas iš Hircbergo vadovavo dvejus metus340."
   pagrindžia:
     - c-60918
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolį Gerhardą, Prūsijos magistrą
-
-       Ketvirtas Prūsijos žemės magistras brolis Gerhardas iš Hircbergo vadovavo dvejus
-    metus340. Daug gera padaręs Prūsijos žemėje, jis sugrįžo į Vokietiją, kur, tapęs Vokietijos
-    žemės magistru, mirė ir buvo palaidotas.
-
-
-
-
-               79 (78).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197082"></a>
+- t-003
+  global_id: t-197082
+  teiginys: "Gerhardas iš Hircbergo stengėsi patirti jos liūdesio priežastį, atsakė: „Man liūdna, kad mano mielieji sūnūs, o tavo broliai iš Teutonų ordino, kitados apie nieką kita nesikalbėję, tik apie mano sūnų, apie mane ir šventųjų darbus, dabar apie nieką kita nesikalba, tik apie karalių bei kunigaikščių darbus ir šio pasaulio tuštybę, o labai retai kada arba niekada nemini nei mano sūnaus, nei manęs, nei šventųjų darbų“."
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
+    - c-60918
 
 ## Citatos
 
 - id: c-60918
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 110"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie brolį Gerhardą, Prūsijos magistrą
-
-       Ketvirtas Prūsijos žemės magistras brolis Gerhardas iš Hircbergo vadovavo dvejus
-    metus340. Daug gera padaręs Prūsijos žemėje, jis sugrįžo į Vokietiją, kur, tapęs Vokietijos
-    žemės magistru, mirė ir buvo palaidotas.
-
-
-
-
-               79 (78).
+    Šitai išgirdęs, brolis Hermanas, pasikliaudamas
+    savo mergele Marija, kuriai buvo pasižadėjęs tarnauti, susigrūmė su juo ir per pirmąjį
+    susidūrimą nubloškė jį ant žemės, o žirgą bei ginklus atidavė vargšams.
+    81 (78). Dar apie tą patį
+    Su šiuo broliu Hermanu, jau priimtu į Ordiną ir darančiu vieną dorovingą darbą po
+    kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną
+    sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis stengėsi patirti jos
+    liūdesio priežastį, atsakė: „Man liūdna, kad mano mielieji sūnūs, o tavo broliai iš Teutonų
+    ordino, kitados apie nieką kita nesikalbėję, tik apie mano sūnų, apie mane ir šventųjų
+    darbus, dabar apie nieką kita nesikalba, tik apie karalių bei kunigaikščių darbus ir šio
+    pasaulio tuštybę, o labai retai kada arba niekada nemini nei mano sūnaus, nei manęs,
+    nei šventųjų darbų“.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60286
-    - t-184069
     - t-194483
+    - t-197082

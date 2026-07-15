@@ -7,12 +7,12 @@ datos:
   - '1982 m.'
 date_start: '1982'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad varakauskas R.
   teiginys: "R. Varakausko darbas „Lietuvos ir Livonijos santykiai XIII—XVI a.“ išleistas Vilniuje 1982 m."
   pagrindžia:
     - c-61979
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Varakausko darbas „Lietuvos ir Livonijos santykiai XIII—XVI a.“ išleistas Vilniuje 1982 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -62,12 +62,12 @@ Dusburgietis teigia, kad varakauskas R.
 - id: c-61979
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Varakauskas R. Lietuvos ir Livonijos santykiai XIII—XVI а.—V., 1982.
-      Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des
-    dreizehnten Jahrhunderts, Bd.
+    Мержинский А. Ф. О надровском жреце огня Криве. — Труды IX археологического
+    съезда в Вильне 1893, М., 1895, r. 1, с. 246—259.
+    Мержинский А. Ф. Ромове: Археологическое исследование (из Трудов X
+    археологического съезда.
   citata_rodoma: "Varakauskas R. Lietuvos ir Livonijos santykiai XIII—XVI а.—V., 1982."
   statusas: verified
   teiginio_tipas: faktas

@@ -36,41 +36,18 @@ Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416,
   teiginys: "Ditrichas Rodė, Kristburgo komtūras, antrosios atskalūnybės metais nusiaubė Pagudę ir mūšyje privertė prūsus bėgti."
   pagrindžia:
     - c-60735
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ditrichas Rodė, Kristburgo komtūras, antrosios atskalūnybės metais nusiaubė Pagudę ir mūšyje privertė prūsus bėgti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
-    patraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko
-    namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo,
-    pasisuko  į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė
-    prūsus bėgti, o broliai ir maldininkai, juos besivydami, tiek daug jų nukovė, kad vargu
-    per vieną dieną toks mažas karių pulkelis būtų kada pajėgęs nukauti. Paimtieji į nelaisvę
-    prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią
-    mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip
-    palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60735
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
-    patraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko
+    patraukė su šimtine brolių bei maldininkų žygin ir, apiplėšęs Pagudės žemę, pasuko
     namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo,
-    pasisuko  į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė
+    pasisuko į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė
     prūsus bėgti, o broliai ir maldininkai, juos besivydami, tiek daug jų nukovė, kad vargu
     per vieną dieną toks mažas karių pulkelis būtų kada pajėgęs nukauti. Paimtieji į nelaisvę
     prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią

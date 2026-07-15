@@ -25,39 +25,16 @@ media_all_json: |-
 
 ## Santrauka
 
-Didžiajai kunigaikštienei Onai 1 5 mirus, didysis ku nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio dukterį, kunigaikštytę Julijoną Oljevną ia, ir su ja tu rėjo šešis sūnus1 7 .
+Lietuvos metraštis Julijoną Oljevną vadina Tverės didžiojo kunigaikščio dukterimi ir nurodo, kad su Algirdu ji turėjo šešis sūnus.
 
 ## Teiginiai
 
 <a id="claim-t-194137"></a>
 - t-001
   global_id: t-194137
-  teiginys: "Didžiajai kunigaikštienei Onai 1 5 mirus, didysis ku nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio dukterį, kunigaikštytę Julijoną Oljevną ia, ir su ja tu rėjo šešis sūnus1 7 ."
+  teiginys: 'Lietuvos metraštis Julijoną Oljevną vadina Tverės didžiojo kunigaikščio dukterimi ir nurodo, kad su Algirdu ji turėjo šešis sūnus.'
   pagrindžia:
     - c-176750
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Didžiajai kunigaikštienei Onai 1 5 mirus, didysis ku nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio dukterį, kunigaikštytę Julijoną Oljevną ia, ir su ja tu rėjo šešis sūnus1 7 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Penktas— Konstantinas l0 , jo da­
-    lis— Černigovas ir Cartoryskas Šeštas—Teodoras 1 2
-    Sanguška l3 , jo dalis — Liubomlis M .
-    Didžiajai kunigaikštienei Onai 1 5  mirus, didysis ku­
-    nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio
-    dukterį, kunigaikštytę Julijoną Oljevną ia, ir su ja tu­
-    rėjo šešis sūnus1 7 . Vyriausias—Jogaila Vladislovas1 8 ;
-    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
-    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
-    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -76,9 +53,9 @@ Didžiajai kunigaikštienei Onai 1 5 mirus, didysis ku nigaikštis Algirdas ved�
     antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
     tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
     nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194137
+    - t-001

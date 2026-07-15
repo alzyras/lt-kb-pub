@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Jį daug kas plačiai aprašė, aš tik tai priminsiu, kas turi ryšio su lietuvių reikalais.
+Pasibaigus paliauboms Jogaila išsirengė į Prūsiją, o dar neatvykus karaliui kariuomenė buvo padalyta į tris žygio voras.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -50,37 +50,16 @@ Nenurodyta
 <a id="claim-t-193474"></a>
 - t-001
   global_id: t-193474
-  teiginys: "Jį daug kas plačiai aprašė, aš tik tai priminsiu, kas turi ryšio su lietuvių reikalais."
+  teiginys: "Pasibaigus paliauboms Jogaila išsirengė į Prūsiją, o dar neatvykus karaliui kariuomenė buvo padalyta į tris žygio voras."
   pagrindžia:
     - c-176175
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jį daug kas plačiai aprašė, aš tik tai priminsiu, kas turi ryšio su lietuvių reikalais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Jį daug kas plačiai aprašė, aš
-    tik tai priminsiu, kas turi ryšio su lietuvių reikalais.
-    Pasibaigus paliauboms, Jogaila ir išsirengė su visos
-    riuos tam reikalui daugelį mėnesių laikė Lietuvoje,
-    apsistojo prie Červinsko miesto. Jogailai dar neatvy­
-    kus, jis, padalijęs kariuomenę trimis žygio voromis, iš­
-    siuntė lengvųjų raitelių būrius niokoti Prūsijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-176175
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 376"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 376."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Jį daug kas plačiai aprašė, aš
     tik tai priminsiu, kas turi ryšio su lietuvių reikalais.

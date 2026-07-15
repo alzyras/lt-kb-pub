@@ -25,141 +25,48 @@ media_all_json: |-
 
 ## Santrauka
 
-Kai, norėdami išsiaiškinti Jogailos slaptus sumanymus, pradėjo laisvu laiku tyrinėti jo raštus, su rado patvirtintus abiejų šalių parašais ir antspaudais V y ta u to K ę stu ta ičio p a la n k u m a s Jog a ila i p a sk a tin a tė v ą s u š v e ln in ti n u o. Po kelių dienų apgulos, sutikęs smarkų pasi priešinimą, griebėsi kito sumanymo.
+Kęstutis po kelių dienų Trakų apgulos ir smarkaus pasipriešinimo atsisakė šio puolimo sumanymo. Kęstutis laukė Jonušo, Mazovijos kunigaikščio ir savo žento, pagalbos, todėl nestojo į lemiamą mūšį prieš Jogailą su maža kariuomene.
 
 ## Teiginiai
 
-<a id="claim-t-193530"></a>
-- t-001
-  global_id: t-193530
-  teiginys: "Kai, norėdami išsiaiškinti Jogailos slaptus sumanymus, pradėjo laisvu laiku tyrinėti jo raštus, su rado patvirtintus abiejų šalių parašais ir antspaudais V y ta u to K ę stu ta ičio p a la n k u m a s Jog a ila i p a sk a tin a tė v ą s u š v e ln in ti n u o."
-  pagrindžia:
-    - c-176210
-
 <a id="claim-t-193531"></a>
-- t-002
+- t-001
   global_id: t-193531
-  teiginys: "Po kelių dienų apgulos, sutikęs smarkų pasi priešinimą, griebėsi kito sumanymo."
+  teiginys: "Kęstutis po kelių dienų Trakų apgulos ir smarkaus pasipriešinimo atsisakė šio puolimo sumanymo."
   pagrindžia:
     - c-176211
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Kai, norėdami išsiaiškinti Jogailos slaptus sumanymus, pradėjo laisvu laiku tyrinėti jo raštus, su rado patvirtintus abiejų šalių parašais ir antspaudais V y ta u to K ę stu ta ičio p a la n k u m a s Jog a ila i p a sk a tin a tė v ą s u š v e ln in ti n u o.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ant aukšto kalno (iš kur labai gerai žiūrėti į
-    apačioje dunksantį miestą) kabojo kartuvėse Vaidila,
-    trapios sėkmės pavyzdys, rodantis, kaip piktai bau­
-    džia likimas. Kai, norėdami išsiaiškinti Jogailos slaptus
-    sumanymus, pradėjo laisvu laiku tyrinėti jo raštus, su­
-    rado patvirtintus abiejų šalių parašais ir antspaudais
-    267
-
-    ## Puslapis 266
-
-    V y ta u to
-    K ę stu ta ičio
-    p a la n k u m a s Jog a ila i
-    p a sk a tin a
-    tė v ą
-    s u ­
-    š v e ln in ti n u o sp ren d į
-    laiškus, kuriuose buvo kalbama apie neseniai suda­
-    rytą su kryžiuočiais santarvę, nukreiptą prieš Kęs­
-    tutį. Sužinoję apie tokius darbus, žmonės ryžtingą ir
-    iš pirmo žvilgsnio žiaurų Kęstučio elgesį įvertino kur
-    kas atlaidžiau: jie neužjautė Jogailos, atvirkščiai, pra­
-    dėjo šio nekęsti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196348"></a>
+- t-002
+  global_id: t-196348
+  teiginys: "Kęstutis laukė Jonušo, Mazovijos kunigaikščio ir savo žento, pagalbos, todėl nestojo į lemiamą mūšį prieš Jogailą su maža kariuomene."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Po kelių dienų apgulos, sutikęs smarkų pasi priešinimą, griebėsi kito sumanymo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po kelių dienų apgulos, sutikęs smarkų pasi­
-    priešinimą, griebėsi kito sumanymo. Mat tuo metu
-    paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
-    nutaręs, jog dabar tinkama proga nebaudžiamam su­
-    laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­
-    žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
-    2 7 0
-
-    ## Puslapis 269
-
-    Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
-    jos, jau traukė su kariuomene iš Vilniaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-176211
 
 ## Citatos
-
-- id: c-176210
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Ant aukšto kalno (iš kur labai gerai žiūrėti į
-    apačioje dunksantį miestą) kabojo kartuvėse Vaidila,
-    trapios sėkmės pavyzdys, rodantis, kaip piktai bau­
-    džia likimas. Kai, norėdami išsiaiškinti Jogailos slaptus
-    sumanymus, pradėjo laisvu laiku tyrinėti jo raštus, su­
-    rado patvirtintus abiejų šalių parašais ir antspaudais
-    267
-
-    ## Puslapis 266
-
-    V y ta u to
-    K ę stu ta ičio
-    p a la n k u m a s Jog a ila i
-    p a sk a tin a
-    tė v ą
-    s u ­
-    š v e ln in ti n u o sp ren d į
-    laiškus, kuriuose buvo kalbama apie neseniai suda­
-    rytą su kryžiuočiais santarvę, nukreiptą prieš Kęs­
-    tutį. Sužinoję apie tokius darbus, žmonės ryžtingą ir
-    iš pirmo žvilgsnio žiaurų Kęstučio elgesį įvertino kur
-    kas atlaidžiau: jie neužjautė Jogailos, atvirkščiai, pra­
-    dėjo šio nekęsti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193530
 
 - id: c-176211
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po kelių dienų apgulos, sutikęs smarkų pasi­
+    Kadangi neseniai per pasiuntinius buvo pra­
+    šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei
+    savo žento, ir toji pagalba diena iš dienos turėjo at­
+    vykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­
+    gailą traukti su nedidele kariuomene ir be pagalbinin­
+    kų stoti į lemiamą mūšį. Kad kariai turėtų kokį užsi­
+    ėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti
+    Trakus. Po kelių dienų apgulos, sutikęs smarkų pasi­
     priešinimą, griebėsi kito sumanymo. Mat tuo metu
     paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
     nutaręs, jog dabar tinkama proga nebaudžiamam su­
     laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­
     žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
-    2 7 0
-
-    ## Puslapis 269
-
-    Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
-    jos, jau traukė su kariuomene iš Vilniaus.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193531
+    - t-196348

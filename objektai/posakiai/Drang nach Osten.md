@@ -57,26 +57,6 @@ media_all_json: |-
   teiginys: "Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“ veržtis į Rytus."
   pagrindžia:
     - c-38356
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    20 pasitraukė, ir tokiu būdu Marien­
-    burgas nebuvo paimtas. Bet kaip ten bebūtų, vis dėlto mes tu­
-    rim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­
-    duotas smūgis vokiečių siekimui — „Drang nach Osten“ —
-    veržtis į Rytus.
-    Baigiant tenka padaryti dar kelias apibendrinančias pa­
-    stabas apie mūšio organizaciją, vadovybę ir vietą istorijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -99,5 +79,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35970
     - t-35969
+    - t-35970

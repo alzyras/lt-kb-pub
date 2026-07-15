@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Apieravonė
 sukurta: '2026-07-12'
 variantai:
-  - „apieravonė“
+  - '„apieravonė“'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -70,8 +70,7 @@ Terminas vartojamas kartu su poterių ir greito išėjimo aprašymu.
     pai paverkia, skųsdamasi savo našlaityste. Šiaučienė (taip ją visi va­
     dindavo) ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trum­
     pa. Pagavus duonos gabalėlį tuoj pro duris.
-  citata_rodoma: "Šiaučienė ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trumpa.
-Pagavus duonos gabalėlį tuoj pro duris."
+  citata_rodoma: "Šiaučienė ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trumpa.\nPagavus duonos gabalėlį tuoj pro duris."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

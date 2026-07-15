@@ -52,25 +52,6 @@ Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, R
 - susijęs iš Dievo Krėslo miškas: 1949 m. gegužės 21 d. Dievo Krėslo miške MGB 32-asis šaulių pulkas aptiko Žarėnų kuopos partizanų stovyklą.
 - susijęs iš Sizditė: Sizditės pilies vardas galimai sietinas su Spasčių kalno prie Girgždūtės vardu.
 - susijęs iš Žarėnai: 1949 m. gegužės 21 d. MGB vidaus kariuomenės 32-asis šaulių pulkas Dievo Krėslo miške Žarėnų valsčiuje aptiko Žarėnų kuopos partizanų stovyklą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į ištremtųjų vietas
-    buvo privežta rusų, kurie turėjo pasidaryti caro valdžios atrama.
-    Nukentėjo taip pat ir bažnyčios, nes kunigai taip pat buvo
-    prisidėję prie sukilėlių. Buvo uždaryta daugybė vienuolynų
-    (Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose
-    ir kt.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-03025

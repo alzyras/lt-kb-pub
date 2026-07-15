@@ -58,8 +58,8 @@ Nenurodyta
   teiginys: "Dusburgietis teigia, kad apie Skomanto mirtį Štai koks iš aukščiausiojo malonės nuostabus atsivertimas ir pasikeitimas, štai Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo gynėju ir garbingu krikščionių tautos vadu."
   pagrindžia:
     - c-63794
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Skomantas mirties patale broliui Konradui pasakojo, kad prieš atsivertimą buvo pagerbęs pagrobtą Marijos ir jos sūnaus paveikslą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -86,10 +86,10 @@ Nenurodyta
 - id: c-63794
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 173"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 173."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Štai koks  iš aukščiausiojo malonės nuostabus atsivertimas  ir pasikeitimas,  štai
+    Apie Skomanto mirtį
+    Štai koks iš aukščiausiojo malonės nuostabus atsivertimas ir pasikeitimas, štai
     Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo
     gynėju ir garbingu krikščionių tautos vadu. Mirties patale gulėdamas, jis, paklaustas
     brolio Konrado, Baigos kunigo, kodėl susilaukęs iš viešpaties šitokios malonės įtikėti

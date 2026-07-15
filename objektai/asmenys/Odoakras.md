@@ -5,6 +5,10 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+datos:
+  - '1584 m.'
+date_start: '1584'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -12,6 +16,10 @@ tags:
   - karalius
   - valdovas
   - asmuo
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,79 +37,100 @@ media_all_json: |-
 
 ## Santrauka
 
-Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš svetimšalių viešpatavo Romoje. Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvusi upė Ross arba Russ vėliau vadinta Wessel. Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos.
+Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvusi upė Ross arba Russ vėliau vadinta Wessel. Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos. Teodoro Narbuto teigimu, Odoakras buvo krikščionis, o jo herulams buvo skelbiamas Kristaus mokslas.
 
 ## Teiginiai
 
-<a id="claim-t-186153"></a>
-- t-001
-  global_id: t-186153
-  teiginys: "Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš svetimšalių viešpatavo Romoje."
-  pagrindžia:
-    - c-169514
-
 <a id="claim-t-188599"></a>
-- t-002
+- t-001
   global_id: t-188599
   teiginys: "Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvusi upė Ross arba Russ vėliau vadinta Wessel."
   pagrindžia:
     - c-171488
 
 <a id="claim-t-190939"></a>
-- t-003
+- t-002
   global_id: t-190939
   teiginys: "Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos."
   pagrindžia:
     - c-173821
 
 <a id="claim-t-190940"></a>
-- t-004
+- t-003
   global_id: t-190940
   teiginys: "Teodoro Narbuto teigimu, Odoakras buvo krikščionis, o jo herulams buvo skelbiamas Kristaus mokslas."
   pagrindžia:
     - c-173822
 
 <a id="claim-t-190941"></a>
-- t-005
+- t-004
   global_id: t-190941
   teiginys: "Teodoro Narbuto pasakojime Eduko sūnus Odoakras sakė, kad turėdamas Oresto valdžią neleistų sąjungininkų kariuomenei gailėtis žygio į Italiją."
   pagrindžia:
     - c-173823
 
-<a id="claim-t-190942"></a>
-- t-006
-  global_id: t-190942
-  teiginys: "Teodoro Narbuto pasakojime 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi."
-  pagrindžia:
-    - c-173824
-
 <a id="claim-t-190943"></a>
-- t-007
+- t-006
   global_id: t-190943
   teiginys: "Teodoro Narbuto pasakojime Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje."
   pagrindžia:
     - c-173825
 
 <a id="claim-t-190944"></a>
-- t-008
+- t-007
   global_id: t-190944
   teiginys: "Teodoro Narbuto pasakojime Odoakras sutelkė gausesnę ir geriau už Teodoriko kariuomenę ginkluotą kariuomenę ir patraukė jo pasitikti."
   pagrindžia:
     - c-173826
 
 <a id="claim-t-190945"></a>
-- t-009
+- t-008
   global_id: t-190945
   teiginys: "Teodoro Narbuto pasakojime Odoakras naktį netikėtai puolė prie Ados stovyklavusius Teodoriko būrius, bet vėliau vos išsigelbėjo sprukdamas."
   pagrindžia:
     - c-173827
 
 <a id="claim-t-190946"></a>
-- t-010
+- t-009
   global_id: t-190946
   teiginys: "Teodoro Narbuto pasakojime Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, bet 493 m. kovo 5 d. nužudė Odoakrą Ravenoje."
   pagrindžia:
     - c-173828
+
+<a id="claim-t-197433"></a>
+- t-010
+  global_id: t-197433
+  teiginys: "Odoakras savo gerbėjams užtemdydavo vieną akį."
+  pagrindžia:
+    - c-179184
+
+<a id="claim-t-197783"></a>
+- t-011
+  global_id: t-197783
+  teiginys: "Pagaliau kaip po Odoakro pralaimėjimo grįžtantys iš Italijos he rulai galėjo duoti pradžią lietuvių tautai, jei pa tys buvo iš jų kilę, išėję iš tų pačių sodybų, kur ir šiandien gyvena jų ainiai?"
+  pagrindžia:
+    - c-173822
+
+<a id="claim-t-197784"></a>
+- t-012
+  global_id: t-197784
+  teiginys: "Odoakras ne trukus perleido šią provinciją visigotų karaliui Evarikui, norėdamas taip pelnyti jo palankumą, o kiek anksčiau jis užmezgė draugiškus santykius su galingu Afrikos vandalų karaliumi Genseriku, iš kurio tam tikromis są lygomis gavo Siciliją."
+  pagrindžia:
+    - c-173825
+
+<a id="claim-t-197785"></a>
+- t-013
+  global_id: t-197785
+  teiginys: "Odoakras buvo mūšio lauke nukovęs gepidų karalių Trazilą ir įveikęs Bazos vadovaujamus bulgarus, — pasikvietęs pagalbon visigotus, kai šiek tiek užtruko jo žygis, surengė savo kariuomenių vadų pasitarimą dėl tolesnių veiksmų; tuo pat metu jis gavo žinią, j°g Odoakras su visomis savo pajėgomis, atėjęs prie Sonzo upės netoli Akvilos, įsirengė stovyklą ir taip įsitvirtino vietovėje, tarsi laukdamas priešo."
+  pagrindžia:
+    - c-173826
+
+<a id="claim-t-190942"></a>
+- t-005
+  global_id: t-190942
+  teiginys: 'Teodoro Narbuto pasakojime 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.'
+  pagrindžia:
+    - c-173824
 - susijęs iš [[objektai/asmenys/Telanas.md#claim-t-191477|Telanas]]: Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną.
 - susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191036|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Teodorikas ir Odoakras sudarė taiką, kurios sąlygos Narbuto pasakojime lieka nežinomos, išskyrus pažadą išsaugoti Odoakro gyvybę ir turtus.
 - susijęs iš [[objektai/zodynas/patricijus.md#claim-t-192240|patricijus]]: Pasak Teodoro Narbuto, imperatorius Julijus Nepas po Odoakro pergalės paskyrė Odoakrą patricijumi.
@@ -172,130 +201,7 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191233|Teodorikas]]: Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, o Narbutas jo vėlesnį Odoakro nužudymą sieja su vienvaldystės troškimu ir pavydu.
 - susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191056|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš svetimšalių viešpatavo Romoje.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Todėl niekas neturėtų piktintis, jeigu aš rašydamas
-    nuklysiu už Lietuvos ribų ir truputį paliesiu įvykius,
-    54
-
-    ## Puslapis 53
-
-    kurie nuo tų laikų buvo susiję pirmiausia su herulų,
-    o vėliau su langobardų žygiais Italijoje, ypač todėl,
-    kad kita knyga nuo to pradeda savo pasakojimą.
-    Pirmiausia Otokaras, arba
-    H e iu lų  karai už jų
-    Odoakras, herulų valdovas,
-    tė v y n ė s
-    pakviestas iš Germanuos pus­
-    brolio, Romos imperatoriaus
-    Augustulo priešo, smarkiai užpuolė Ticiną ir, jį apsu­
-    pęs, paėmė į savo rankas, o sugautą Orestą, imperato­
-    riaus tėvą, įkalino. Žygiuodamas toliau su kariuomene,
-    jis užėmė Romą ir, nukėlęs
-    475 m e ta i
-    nuo sosto Vakarų Romos im­
-    peratorių, viešpatavo kaip pir­
-    mas iš svetimšalių Romoje, tačiau nesisavino nei val­
-    dovo vardo, nei purpurinės mantijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvusi upė Ross arba Russ vėliau vadinta Wessel.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kituose Lietu­
-    vos pakraščiuose ir pas kitas tautas, kilusias iš jos kamieno,
-    tikriausiai irgi buvo upių tokiais vardais arba dar ir dabar jos
-    tebėra žinomos; aptikti jų mums nepasitaikė. Net Vokietijoje,
-    kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
-    Russ, vėliau imtą vadinti Wessel. Galbūt neįsižeis slavų seno­
-    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
-    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
-    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
-    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
-    sų gatve.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
-    riko įtaką Europos vakaruose gyvenančioms tautoms ir
-    gentims, sako: „Turbūt tas pats karalius Germanarikas
-    savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
-    kraštą ir pavergė estų tautą“4. Žinios apie šį bendrinį pa­
-    vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
-    ni estus, kalbėdamas apie karingus Odoakro vadovauja­
-    mus herulus, kilusius iš estų tautos. Sis istorikas gyveno
-    imperatoriaus Justiniano laikais, arba VI amžiuje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Teodoro Narbuto teigimu, Odoakras buvo krikščionis, o jo herulams buvo skelbiamas Kristaus mokslas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    202
-
-    ## Puslapis 200
-
-    niekas Europoje negarbino Kapitolijaus Jupiterio, o ro­
-    mėniška pagonybe bjaurėjosi patys stabmeldžiai, jei tokių
-    kur dar buvo užsilikę pietinėje Europoje, nes net ir romė­
-    nų, kaip išnaudotojų ir tautų naikintojų, vardas buvo ne­
-    apkenčiamas. Odoakras buvo krikščionis, ir jo herulams
-    buvo skelbiamas Kristaus mokslas, Teodorikas ir visi go­
-    ta i— taip pat. Tad iš kur tie herulai galėjo prisirinkti tiek
-    graikų, romėnų, indų dievų?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-005
-  santrauka: 'Teodoro Narbuto pasakojime Eduko sūnus Odoakras sakė, kad turėdamas Oresto valdžią neleistų sąjungininkų kariuomenei gailėtis žygio į Italiją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taigi sąjungininkai pradėjo atvirai murmėti prieš savo
-    vadą. Mažiausiai jam palankūs herulai kreipėsi į savo
-    brolius, įsikūrusius Norike. Majorijano valdomos herulų
-    lygos karvedžio Eduko sūnus Odoakras pasakė, jog, tu­
-    rėdamas tiek valdžios kiek Orestas, jis neleistų sąjungi­
-    ninkų kariuomenei gailėtis savo žygio j Italiją1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
   santrauka: 'Teodoro Narbuto pasakojime 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -323,149 +229,14 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Teodoro Narbuto pasakojime Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tuo
-    metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
-    Italijos vietininku, pavesdami jam visą valdžią ir Dal­
-    matijoje, kurios imperatorius buvo miręs. Odoakras ne­
-    trukus perleido šią provinciją visigotų karaliui Evarikui,
-    norėdamas taip pelnyti jo palankumą, o kiek anksčiau
-    jis užmezgė draugiškus santykius su galingu Afrikos
-    vandalų karaliumi Genseriku, iš kurio tam tikromis są­
-    lygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių
-    vadovų Zenono, Evariko ir Genseriko, kurie galėjo jam
-    pakenkti, palankumą, jis, dorybingo ministro romėno Li-
-    berijaus remiamas, sutelkė visą dėmesį į Italijos vidaus
-    problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
-    trečdalį žemės valdų1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Teodoro Narbuto pasakojime Odoakras sutelkė gausesnę ir geriau už Teodoriko kariuomenę ginkluotą kariuomenę ir patraukė jo pasitikti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    327
-    Odoakras savo ruožtu taip pat negaišo laiko; jis su­
-    telkė gausesnę, geriau negu užpuoliko ginkluotą kariuo­
-    menę ir patraukė jo pasitikti. Tuo tarpu Teodorikas, ap­
-    saugojęs užnugarį, — jis buvo mūšio lauke nukovęs ge­
-    pidų karalių Trazilą ir įveikęs Bazos vadovaujamus bul­
-    garus, — pasikvietęs pagalbon visigotus, kai šiek tiek
-    užtruko jo žygis, surengė savo kariuomenių vadų pasi­
-    tarimą dėl tolesnių veiksmų; tuo pat metu jis gavo ži­
-    nią, j°g Odoakras su visomis savo pajėgomis, atėjęs prie
-    Sonzo upės netoli Akvilos, įsirengė stovyklą ir taip įsi­
-    tvirtino vietovėje, tarsi laukdamas priešo. Gotų karalius
-    iškart ten iškeliavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Teodoro Narbuto pasakojime Odoakras naktį netikėtai puolė prie Ados stovyklavusius Teodoriko būrius, bet vėliau vos išsigelbėjo sprukdamas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tuo tar­
-    pu Odoakras, skubiai surinkęs saviškius, tyliai ir taip
-    netikėtai puolė naktį jų būrius, įrengusius stovyklą prie
-    Ados upės, kad visus pribloškė, privertė bėgti ir būtų
-    visiškai nugalėjęs, jei bebaimis Teodorikas, nebijodamas
-    didžiausio pavojaus ir gal geriau už priešininką vado­
-    vavęs saviškiams, nebūtų sugrąžinęs sprunkančių ir nar­
-    siai pasipriešinęs. Čia švintant prasidėjo kruvinos kau­
-    tynės; ilgai nebuvo aišku, kas laimės. Galop Teodorikas,
-    savo gotų priešakyje surengęs naują ataką, nugalėjo he-
-    rulus; Odoakras vos išsigelbėjo sprukdamas. Vienas se­
-    niausių jo karvedžių Tufą perėjo priešo pusėn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-010
-  santrauka: 'Teodoro Narbuto pasakojime Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, bet 493 m. kovo 5 d. nužudė Odoakrą Ravenoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tik žinoma tai, kad Teodorikas paža­
-    dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam
-    net tam tikrą valdžios dalį Italijoje arba patikėjo jam
-    tam tikras valdas. Odoakras patikėjo gotų karaliui savo
-    sūnų Telaną. Bet jis, trokšdamas vienvaldystės ir kupi­
-    nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
-    sudarymo pažeisti svetingumo taisykles: jis savo ranko­
-    mis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai
-    gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
-    na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
-    dieną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
+    - t-005
 
 ## Citatos
-
-- id: c-169514
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Todėl niekas neturėtų piktintis, jeigu aš rašydamas
-    nuklysiu už Lietuvos ribų ir truputį paliesiu įvykius,
-    54
-
-    ## Puslapis 53
-
-    kurie nuo tų laikų buvo susiję pirmiausia su herulų,
-    o vėliau su langobardų žygiais Italijoje, ypač todėl,
-    kad kita knyga nuo to pradeda savo pasakojimą.
-    Pirmiausia Otokaras, arba
-    H e iu lų  karai už jų
-    Odoakras, herulų valdovas,
-    tė v y n ė s
-    pakviestas iš Germanuos pus­
-    brolio, Romos imperatoriaus
-    Augustulo priešo, smarkiai užpuolė Ticiną ir, jį apsu­
-    pęs, paėmė į savo rankas, o sugautą Orestą, imperato­
-    riaus tėvą, įkalino. Žygiuodamas toliau su kariuomene,
-    jis užėmė Romą ir, nukėlęs
-    475 m e ta i
-    nuo sosto Vakarų Romos im­
-    peratorių, viešpatavo kaip pir­
-    mas iš svetimšalių Romoje, tačiau nesisavino nei val­
-    dovo vardo, nei purpurinės mantijos.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186153
 
 - id: c-171488
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 227"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kituose Lietu­
     vos pakraščiuose ir pas kitas tautas, kilusias iš jos kamieno,
@@ -488,8 +259,7 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - id: c-173821
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
     riko įtaką Europos vakaruose gyvenančioms tautoms ir
@@ -512,30 +282,44 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    202
-
-    ## Puslapis 200
-
-    niekas Europoje negarbino Kapitolijaus Jupiterio, o ro­
-    mėniška pagonybe bjaurėjosi patys stabmeldžiai, jei tokių
-    kur dar buvo užsilikę pietinėje Europoje, nes net ir romė­
-    nų, kaip išnaudotojų ir tautų naikintojų, vardas buvo ne­
-    apkenčiamas. Odoakras buvo krikščionis, ir jo herulams
+    Odoakras buvo krikščionis, ir jo herulams
     buvo skelbiamas Kristaus mokslas, Teodorikas ir visi go­
     ta i— taip pat. Tad iš kur tie herulai galėjo prisirinkti tiek
-    graikų, romėnų, indų dievų?
+    graikų, romėnų, indų dievų? Tie, kurie nežinojo nei pago­
+    niškų Graikijos ar Romos, nei Indijos? Pagaliau kaip
+    po Odoakro pralaimėjimo grįžtantys iš Italijos he­
+    rulai
+    galėjo
+    duoti
+    pradžią
+    lietuvių
+    tautai,
+    jei
+    pa­
+    tys buvo iš jų kilę, išėję iš tų pačių sodybų, kur
+    ir
+    šiandien
+    gyvena
+    jų
+    ainiai?
+    Bet
+    tai
+    nagrinėti
+    dar ne laikas, vėliau kalbėsime apie herulus ir tvir­
+    čiau pagrįsime mūsų prielaidas.
+  citata_rodoma: "Tie, kurie nežinojo nei pago­\nniškų Graikijos ar Romos, nei Indijos? Pagaliau kaip \npo Odoakro pralaimėjimo grįžtantys iš Italijos he­\nrulai \ngalėjo \nduoti \npradžią \nlietuvių \ntautai, \njei \npa­\ntys buvo iš jų kilę, išėję iš tų pačių sodybų, kur \nir \nšiandien \ngyvena \njų \nainiai? \nBet \ntai \nnagrinėti \ndar ne laikas, vėliau kalbėsime apie herulus ir tvir­\nčiau pagrįsime mūsų prielaidas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190940
+    - t-197783
 
 - id: c-173823
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 313"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taigi sąjungininkai pradėjo atvirai murmėti prieš savo
     vadą. Mažiausiai jam palankūs herulai kreipėsi į savo
@@ -550,41 +334,10 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
   pagrindzia:
     - t-190941
 
-- id: c-173824
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    303
-
-    ## Puslapis 314
-
-    317
-    Karingoms, nesvetingų italų pavydo ir Oresto griež­
-    tumo išgąsdintoms gentims nieko daugiau nereikėjo; 476
-    metų pradžioje visi alanai, turcilingai, gepidai, skiriai,
-    herulai paskelbė Odoakrą savo vadu jr karaliumi. Sis
-    naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
-    mas gausius būrius. Orestas, nedrįsęs atvirai pasiprie­
-    šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
-    laikoma Italijos sostine. Odoakro kariuomenės apgultas
-    miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
-    tas; Orestas žuvo. Be pasipriešinimo užėmus Raveną,
-    imperatorius Augustulas pateko nelaisvėn ir liko gyvas
-    tik Odoakro didžiadvasiškumo dėka; jis atėmė tik impe­
-    ratoriaus ženklus ir purpurus.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190942
-
 - id: c-173825
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 315"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tuo
     metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
@@ -599,21 +352,24 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     pakenkti, palankumą, jis, dorybingo ministro romėno Li-
     berijaus remiamas, sutelkė visą dėmesį į Italijos vidaus
     problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
-    trečdalį žemės valdų1.
+    trečdalį žemės valdų1. Galbūt seni žemės savininkai pri­
+    ėmė šį nurodymą ne visai geranoriškai, bei atvirai maiš­
+    tauti nedrįso pirmiausia dėl savo bejėgiškumo, o antra
+    1 Procop.
+  citata_rodoma: "Odoakras ne­\ntrukus perleido šią provinciją visigotų karaliui Evarikui, \nnorėdamas taip pelnyti jo palankumą, o kiek anksčiau \njis užmezgė draugiškus santykius su galingu Afrikos \nvandalų karaliumi Genseriku, iš kurio tam tikromis są­\nlygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių \nvadovų Zenono, Evariko ir Genseriko, kurie galėjo jam \npakenkti, palankumą, jis, dorybingo ministro romėno Li- \nberijaus remiamas, sutelkė visą dėmesį į Italijos vidaus \nproblemas; samdyta kariuomenė, kaip buvo žadėta, gavo \ntrečdalį žemės valdų1. Galbūt seni žemės savininkai pri­\nėmė šį nurodymą ne visai geranoriškai, bei atvirai maiš­\ntauti nedrįso pirmiausia dėl savo bejėgiškumo, o antra\n1 Procop."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190943
+    - t-197784
 
 - id: c-173826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 321"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 321."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    327
     Odoakras savo ruožtu taip pat negaišo laiko; jis su­
     telkė gausesnę, geriau negu užpuoliko ginkluotą kariuo­
     menę ir patraukė jo pasitikti. Tuo tarpu Teodorikas, ap­
@@ -625,19 +381,23 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     nią, j°g Odoakras su visomis savo pajėgomis, atėjęs prie
     Sonzo upės netoli Akvilos, įsirengė stovyklą ir taip įsi­
     tvirtino vietovėje, tarsi laukdamas priešo. Gotų karalius
-    iškart ten iškeliavo.
+    iškart ten iškeliavo. Upė buvo gili, per ją buvo permestas
+    gerai iš abiejų galų sutvirtintas tiltas, herulų kariuomenė
+    buvo kovinga, gausi, vadovaujama savimi pasitikinčio
+    karvedžio.
+  citata_rodoma: "Tuo tarpu Teodorikas, ap­\nsaugojęs užnugarį, — jis buvo mūšio lauke nukovęs ge­\npidų karalių Trazilą ir įveikęs Bazos vadovaujamus bul­\ngarus, — pasikvietęs pagalbon visigotus, kai šiek tiek \nužtruko jo žygis, surengė savo kariuomenių vadų pasi­\ntarimą dėl tolesnių veiksmų; tuo pat metu jis gavo ži­\nnią, j°g Odoakras su visomis savo pajėgomis, atėjęs prie \nSonzo upės netoli Akvilos, įsirengė stovyklą ir taip įsi­\ntvirtino vietovėje, tarsi laukdamas priešo. Gotų karalius \niškart ten iškeliavo. Upė buvo gili, per ją buvo permestas \ngerai iš abiejų galų sutvirtintas tiltas, herulų kariuomenė \nbuvo kovinga, gausi, vadovaujama savimi pasitikinčio \nkarvedžio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190944
+    - t-197785
 
 - id: c-173827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 322"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tuo tar­
     pu Odoakras, skubiai surinkęs saviškius, tyliai ir taip
@@ -661,8 +421,7 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - id: c-173828
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 323"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tik žinoma tai, kad Teodorikas paža­
     dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam
@@ -681,6 +440,28 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190946
+
+- id: c-179184
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Mitologinė
+    šios upės ypatybė yra ta, kad teikiamos malonės ženklan ji sa­
+    vo gerbėjams užtemdydavo vieną akį. Dar daugiau: Henen-
+    bergeris tikina, neva jis, keletą metų prieš parašydamas savąją
+    Prūsijos kroniką (apie 1584 metus), pats matęs tokių senų vie­
+    naakių žmonių, ir tiems, kurie netikėjo upės šventumu, nieko
+    neatsitikdavo, nors kiti, vos tik joje nusiprausę, susilaukdavo
+    norėto luošumo. Pamenu, jog skandinavų mitologijoje yra Iš­
+    minties šaltinis, kuriame uosis Igdrasilis (arba Idrasibas) maiti­
+    na vieną savo šaknį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197433
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Telanas]]

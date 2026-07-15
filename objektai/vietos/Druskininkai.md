@@ -63,26 +63,6 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
 - susijęs iš Ežeronis: Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis ligi Volios.
 - susijęs iš Lazdijai: Spalio 1-2 d. lenkai netoli Lazdijų sumušė Lietuvos kariuomenės dalį.
 - susijęs iš Volia: Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis iki Volios, toliau Nemunu iki Beržūnės.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuviai derybose su sovietais siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Druskininkus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Derybas apsunkino tai, jog spalio pradžioje karines bazes pagal pa-
-    našias sutartis sovietai jau buvo primetę Estijai ir Latvijai. Lietuviai at-
-    kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti
-    kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
-    Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
-    iki 20 000.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-154996

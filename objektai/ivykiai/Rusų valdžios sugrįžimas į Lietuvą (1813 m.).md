@@ -51,26 +51,6 @@ Nenurodyta
   teiginys: "Pasitraukus Napoleono kariuomenei, Lietuvoje tuojau buvo sugrąžinta senoji Rusijos valdžia."
   pagrindžia:
     - c-66965
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo tarpu ji dar tebetikėjo
-    Napoleono žvaigžde ir prieš likviduodamasi pareiškė, kad jos
-    viltys ir ištikimybė jam priklausančios iki mirties.
-    Pasitraukus Napoleono kariuomenei, tuojau buvo sugrąžinta
-    senoji Rusų valdžia. Kad ir buvo caro paskelbta amnestija, ta-
-    čiau Napoleono šalininkai tuojau buvo pradėti persekioti: nepa-
-    bėgusius į užsienį išsiuntė į Rusiją, kai kuriems iškėlė bylas ir
-    atėmė dvarus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -50,26 +50,6 @@ Arvydas Pociūnas šiame leidinyje minimas kaip kelių skirtingų laikotarpių k
   pagrindžia:
     - c-11404
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Arvydas Pociūnas (gimęs 1953 m.), baigė Vilniaus valstybinį uni-
-    versitetą, istorijos specisalybę. Vytauto Didžiojo karo muziejaus
-    direktoriaus pavaduotojas, karo istorikas. Paskelbęs daugiau nei
-    100 mokslinių ir mokslo populiarinamųjų straipsnių (Lietuvos ka-
-    rybos, ginkluotės, karinės technikos istorijos temomis). Parašęs
-    knygą „Kauno tvirtovės gynyba 1915 metais“. Knygos „Kaunas atvi-
-    rukuose Pirmojo pasaulinio karo metais“ bendraautorius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-11404

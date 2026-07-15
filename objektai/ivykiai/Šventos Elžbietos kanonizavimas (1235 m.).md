@@ -57,35 +57,13 @@ Nenurodyta
   teiginys: "1235 m. popiežius Grigalius IX Perudžoje kanonizavo šventą Elžbietą ir jos garbei paskyrė altorių."
   pagrindžia:
     - c-63251
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1235 m. popiežius Grigalius IX Perudžoje kanonizavo šventą Elžbietą ir jos garbei paskyrė altorių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    25. Apie šventos Elžbietos kanonizavimą
-
-      1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,
-    brolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.
-
-
-
-                       26.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63251
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 229"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     25. Apie šventos Elžbietos kanonizavimą
 

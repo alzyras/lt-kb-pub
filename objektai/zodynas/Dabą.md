@@ -45,21 +45,6 @@ Vartojamos formos: `dabos`.
   pagrindžia:
     - c-09674
 - susijęs iš Žalioji giria: Lietuviais vadinta getų tautos dalis po kruvinų karų įsitraukė į Žaliąją ir Juodąją girias.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Daba minima greta būdo ir tikybos kaip bruožas, kuriuo lietuviai esą buvo panašūs į indijonis.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    jog svietas dar pasakomis minėjo, jog nuo Indijos kilimo buvo, jau nuo jų būdo, dabos ir tikybos, kuo būtinai indijonims pavėdavo^68 , kaip mums tą senovės raštininkai stigavoja^69.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-09674

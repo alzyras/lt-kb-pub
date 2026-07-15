@@ -34,33 +34,15 @@ Dusburgietis teigia, kad berlyno karališkosios bibliotekos Kodekse greta kitų 
   teiginys: "Berlyno karališkosios bibliotekos kodekse yra nevisiškai pilnas Dusburgiečio kronikos nuorašas, rašytas XVI a. viduryje."
   pagrindžia:
     - c-61684
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Berlyno karališkosios bibliotekos kodekse yra nevisiškai pilnas Dusburgiečio kronikos nuorašas, rašytas XVI a. viduryje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios
-    bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
-    Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
-    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61684
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 19"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios
+    Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas. Berlyno karališkosios
     bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
     Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
     papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales.

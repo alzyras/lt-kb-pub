@@ -34,26 +34,6 @@ Prancūzija Žoržo B.
   teiginys: "Žoržo Klemanso rašte vokiečiams aiškinta, kad Klaipėdos regionas visada buvo lietuviškas, o Klaipėdos uostas – vienintelis Lietuvos išėjimas į jūrą."
   pagrindžia:
     - c-24031
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pralaimėjusi karą Vokietija tam ener-
-    gingai nesipriešino, manydama sumažinti sąjungininkų intrigas. Versalio
-    sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir
-    perdavė laikinai sąjungininkų kontrolei. Prancūzija Žoržo B. Klemanso
-    (Georges B. Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai
-    nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada
-    buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
-    jūrą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,8 +35,8 @@ Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargau
   teiginys: "Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargaus elgesio su ugnimi dievaitį."
   pagrindžia:
     - c-172223
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargaus elgesio su ugnimi dievaitį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -59,14 +59,22 @@ Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargau
 - id: c-172223
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 162"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 162."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Trotytojas kibirkščių (Trotitas-Kirbixtu)
-    Pasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats
-    pavadinimas reiškia kibirkščių gesintoją. Žemaičiuose jis buvo
-    dievinamas „Dims tipo“ vardu ir priklausė naminių gyvulių gru­
-    pei*.
+    Taip pa­
+    sėdi kurį laiką, tarytum dar kažką apmąstydami. Šio senovinio
+    papročio buvo laikomasi net bajorų ir ponų namuose; be pri­
+    deramo dievybės pagerbimo ir atsidavimo jos globai, jis turi
+    dar ir tokį tikslą: ramaus apmąstymo valandėlę prieš išsiski­
+    riant kiekvienas turi progą prisiminti, ar prieš išvažiuodamas
+    ko nepraleido arba neužmiršo patvarkyti ką nors svarbaus na­
+    muose arba kelionei, nes išvažiavus ne laikas apie tai galvoti.
+    O
+    dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo
+    jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­
+    leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­
+    būtų priskirta nelaimingam jo perėjimui per kelią.
+  citata_rodoma: "Trotytojas kibirkščių (Trotitas-Kirbixtu)\nPasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats\npavadinimas reiškia kibirkščių gesintoją. Žemaičiuose jis buvo\ndievinamas „Dims tipo“ vardu ir priklausė naminių gyvulių gru­\npei*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

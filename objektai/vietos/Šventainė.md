@@ -38,32 +38,12 @@ media_all_json: |-
     - c-171860
 - susijęs iš [[objektai/autoriai/Kasparas Hennenbergeris.md#claim-t-190305|Kasparas Hennenbergeris]]: Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų vienaakių žmonių prie Šventainės upės.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188299|Prūsai]]: Narbutas Prūsuose mini Šventainės upę, įtekančią į Peise ties Baičių kaimu; seniau ji vadinosi Galbė, o kaimas - Narpissa.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šventainė (Szwentejne) Prūsuose minima kaip upė, ties Baičių kaimu įtekanti į Peisę; anksčiau ji vadinta Galbe.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Atrodo, Žemaitijoje šitaip vadinami dar keli ma­
-    žesni upeliai.
-    4. Prūsuose, neminint kitų, yra Šventainės (Szwentejne),
-    upė, įtekanti į Peise (Pissa) ties Baičių (Bajcze) kaimu; seniau
-    ji vadinosi Galbė (Golbe), o kaimas -  Narpissa.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-171860
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 228"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Atrodo, Žemaitijoje šitaip vadinami dar keli ma­
     žesni upeliai.

@@ -45,40 +45,6 @@ media_all_json: |-
   teiginys: "Šturmovcai savo nesėkmę aiškino tuo, kad buvo atvežti tiesiai iš bolševikų fronto ir puolė taip pat kaip bolševikus."
   pagrindžia:
     - c-45559
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    m. kovo 24 d. pri-
-
-    mūsiškiai metėsi durtuvų kautynėms, tai jie turėjo nusilenkti, nes
-    tai buvo jiems didelis netikėtumas. „Šturmovcai“ tą savo nepasi-
-    sekimą aiškino tuo, kad jie buvo atvežti tiesiog iš bolševikų fronto,
-    tai ir puolė tokiu pat būdu kaip ir bolševikus. Sako, jeigu jie būtų
-    žinoję, kad lietuviai turi tokią stiprią gynybą, tai būtų bandę pulti
-    keliose vietose ir vis tiek kur nors prasilaužę.“
-
-    ## Puslapis 213
-
-    KLAIPĖDOS SUKILIMAS 1923
-
-    LIETUVOS
-    RESPUBLIKA
-
-    Sukilimo priešistorė
-
-    1905 m. įvykusiame Didžiajame Vilniaus
-    seime buvo iškelta lietuviškų žemių, ku-
-    riose gyvena lietuviai, sujungimo į vieną
-    valstybę idėja.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

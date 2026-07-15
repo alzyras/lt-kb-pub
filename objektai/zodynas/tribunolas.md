@@ -115,8 +115,6 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
 - susijęs iš Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
 - susijęs iš Žydai Lietuvoje: „Žydai Lietuvoje“ yra vienas iš paminėtų Janulaičio raštų, išleistų 1923 m.
 - susijęs iš Gardinas: XVIII a. tribunolas rinkdavosi tik Vilniuje ir Gardine.
-- susijęs iš Vilnius: 1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.
-- susijęs iš Vilnius: Pasakojama, kad į Vilniaus bažnyčią suvežtą Saurų dvaro biblioteką ir rankraščius sargas už rublį leisdavo išgabenti.
 - susijęs iš [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės.md#claim-t-86481|lotyniškos teismo ir dokumentų formulės]]: LDK Vyriausiasis Tribunolas priėmė Pabaisko bažnyčios fundacijos dokumentą ir pavedė jį įrašyti į Tribunolo viešąsias knygas.
 - susijęs iš [[objektai/asmenys/Antanas Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200493|Antanas Solohubas (LDK artilerijos generolas, XVIII a.)]]: Antanas Solohubas buvo LDK artilerijos generolas.
 - susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200531|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo kunigaikštis vėliavininkas.

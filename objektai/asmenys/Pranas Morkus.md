@@ -52,29 +52,6 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 - susijęs iš Helsinkio Baigiamasis aktas: 1975 m. Helsinkio Baigiamuoju aktu jo dalyvės įsipareigojo gerbti žmogaus teises.
 - susijęs iš Maskva: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė santykius su Maskvos disidentais ir teikė informaciją iš Lietuvos.
 - susijęs iš Maskva: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Disidentinis judėjimas sten-
-    gėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų
-    žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.
-    patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
-    jos nepaisė. Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,
-    priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.
-    Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji
-    lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus
-    užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
-    žurnalą „Sintaksis“, teikė informaciją iš Lietuvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-21944

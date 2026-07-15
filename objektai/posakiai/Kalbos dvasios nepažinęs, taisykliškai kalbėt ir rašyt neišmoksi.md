@@ -35,24 +35,6 @@ Norint suvokti kalbos dailumą ir grynumą, reikalinga pirmučiau­ siai kalbos 
   teiginys: "Kalbos dvasios nepažinimas siejamas su nesugebėjimu taisyklingai kalbėti ir rašyti."
   pagrindžia:
     - c-35620
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Norint suvokti kalbos dailumą ir grynumą, reikalinga pirmučiau­
-    siai kalbos dvasia pažinti. Kalbos dvasios nepažinęs, taisykliškai
-    kalbėt ir rašyt neišmoksi.
-    Mūsą kalbos mokovai (tame skaičiuje Rygiškiu Jonas) yra pa­
-    rūpinę nemaža verstinės literatūros pavyzdžiu, kuriais norima padė­
-    ti lietuvių kalbos dvasią pažinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

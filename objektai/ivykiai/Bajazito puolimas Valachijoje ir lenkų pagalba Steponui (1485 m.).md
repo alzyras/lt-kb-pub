@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus. Karalius paskelbė Steponą ir Valachiją savo globotiniais ir nusiuntė jiems tris tūkstančius rinktinių karių.
+Nenurodyta
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -46,120 +46,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-185693"></a>
-- t-001
-  global_id: t-185693
-  teiginys: "1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus."
-  pagrindžia:
-    - c-169054
-
-<a id="claim-t-185694"></a>
-- t-002
-  global_id: t-185694
-  teiginys: "Karalius paskelbė Steponą ir Valachiją savo globotiniais ir nusiuntė jiems tris tūkstančius rinktinių karių."
-  pagrindžia:
-    - c-169055
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kitais metais jie palydėjo seno­
-    vės Lietuvos kunigaikščių at-
-    ir p a laim in tasis M y -
-    žalą Mykolą Giedraitį, vyrą,
-    k o la s G ied ra itis
-    garsų ne tik dėl pamaldžios
-    prigimties, bet ir dėl kilmės.
-    Visuotinę taiką nutraukė naujojo turkų tirono Ba-
-    jazito puolimas. Mat jis, po tėvo mirties paveldėjęs
-    valdžią, sugalvojo padaryti tai, kas nepavyko jo tėvui,
-    todėl pradėjo karą prieš Ste-
-    1485 m e ta i
-    poną, Valachijos valdovą, ir
-    T urkų k a ra s V alach i-
-    užėmė Dakijoje keletą mies-
-    jo je
-    tų: vienus jėga užgrobė, kiti
-    patys pasidavė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Karalius paskelbė Steponą ir Valachiją savo globotiniais ir nusiuntė jiems tris tūkstančius rinktinių karių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šitai sužino­
-    jęs, karalius leidosi į Lvovą. Ten paskelbus, jog Ste­
-    poną bei Valachi ją karalystė imanti į savo globą, nu­
-    siuntė į pagalbą tris tūkstančius rinktinės jaunuome­
-    nės. Kad pagalba buvo deramai stipri, parodė žygio
-    pabaiga: turkai buvo išstumti beveik iš visos Valachi­
-    jos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+Nenurodyta
 
 ## Citatos
 
 - id: c-169054
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 531"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 531."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kitais metais jie palydėjo seno­
-    vės Lietuvos kunigaikščių at-
-    ir p a laim in tasis M y -
-    žalą Mykolą Giedraitį, vyrą,
-    k o la s G ied ra itis
-    garsų ne tik dėl pamaldžios
-    prigimties, bet ir dėl kilmės.
-    Visuotinę taiką nutraukė naujojo turkų tirono Ba-
-    jazito puolimas. Mat jis, po tėvo mirties paveldėjęs
-    valdžią, sugalvojo padaryti tai, kas nepavyko jo tėvui,
-    todėl pradėjo karą prieš Ste-
-    1485 m e ta i
-    poną, Valachijos valdovą, ir
-    T urkų k a ra s V alach i-
-    užėmė Dakijoje keletą mies-
-    jo je
-    tų: vienus jėga užgrobė, kiti
-    patys pasidavė.
+    Te-
+    miras įkalbėjo Achmatą grįžti į skitų kraštą, nė neper­
+    žengus Maskvos sienų, o kai šis sugrįžo, nutaikęs pro­
+    gą, jį užmušė. Karalius, patenkintas, kad atsipirko nuo
+    karo paliaubomis, sugrįžo į Lenkiją, palikdamas čia sa­
+    vo sūnų Kazimierą, tačiau be jokios valstybinės parei­
+    gybės. Vėliau keletas vadų rengė karinius sambrūzdžius.
+    Šiaip valstybėje neįvyko nieko tokio, kas būtų verta
+    paminėti.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185693
-
-- id: c-169055
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 531"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 531."
-  citata_originali: |
-    Šitai sužino­
-    jęs, karalius leidosi į Lvovą. Ten paskelbus, jog Ste­
-    poną bei Valachi ją karalystė imanti į savo globą, nu­
-    siuntė į pagalbą tris tūkstančius rinktinės jaunuome­
-    nės. Kad pagalba buvo deramai stipri, parodė žygio
-    pabaiga: turkai buvo išstumti beveik iš visos Valachi­
-    jos.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185694

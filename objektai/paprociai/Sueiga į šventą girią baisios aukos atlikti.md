@@ -53,34 +53,9 @@ Nenurodyta
   pagrindžia:
     - c-09962
     - c-09963
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    „Žemaičiai (Semnones) esantys. Jų tikyba senovę jų rodo. Laikui atėjus, siuntiniai^99
-         visų giminių tos tautos sueina į šventą girią senu įpročiu baisios aukos atlikti; ir taip, nugalavę
-         akivaizdoj žmogųį aukauja pagal nuožmų įprotį, godoja^100 dar ir kitaip tą girią: nieksai tenai
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    negali, negut^101 surištas, įžengti, kaipo nenusižeminęs prieš galybę aukščiausią. Jei netyčiomis jis
-         tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Citatos
 

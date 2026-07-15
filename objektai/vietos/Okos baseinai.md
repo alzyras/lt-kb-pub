@@ -35,22 +35,6 @@ baltų genčių apgyvendintas arealas driekėsi nuo Vyslos iki Dniepro ir Okos b
   teiginys: "I tūkstantmetyje po Kr. baltų genčių apgyvendintas arealas driekėsi iki Dniepro ir Okos baseinų rytuose."
   pagrindžia:
     - c-24343
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Baltų gentys pradėjo formuotis III tūkstantme-
-    čio pr. Kr. pabaigoje, kai čia atvykę indoeuropiečiai pajungė ir asimiliavo
-    vietinius gyventojus. I tūkstantmetyje po Kr. baltų genčių apgyvendintas
-    arealas driekėsi nuo Vyslos iki Dniepro ir Okos baseinų rytuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

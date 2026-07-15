@@ -41,26 +41,6 @@ Tuo tarpu Bazelio bažnytinis susirinkimas dar 1431 m. pabaigoje siekė sutaikyt
   pagrindžia:
     - c-44725
 - susijęs iš [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė).md#claim-t-39998|Aleksandra (Mozūrijos kunigaikštienė)]]: Mozūrijos kunigaikštienė Aleksandra, Jogailos ir Švitrigailos sesuo, tarpininkavo Jogailai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos valdovą ir Jogailą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos valdovas buvo skun-
-    džiamas popiežiui. Tuo tarpu Bazelio
-    bažnytinis susirinkimas dar 1431 m. pa-
-    baigoje siekė sutaikyti abi puses. To siekė
-    ir Jogaila, tarpininkaujant abiejų seseriai,
-    Mozūrijos kunigaikštienei Aleksandrai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44725

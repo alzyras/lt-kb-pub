@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja su Kijevo įkūrimu arba atnaujinimu.
+Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja su Kijevo įkūrimu arba atnaujinimu. Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko ir Choryvo miestų atnaujinimo epocha.
 
 ## Teiginiai
 
@@ -34,42 +34,29 @@ Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja
   teiginys: "Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja su Kijevo įkūrimu arba atnaujinimu."
   pagrindžia:
     - c-174143
+
+<a id="claim-t-197719"></a>
+- t-002
+  global_id: t-197719
+  teiginys: "Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko ir Choryvo miestų atnaujinimo epocha."
+  pagrindžia:
+    - c-174143
 - susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190931|Nestoras]]: Teodoras Narbutas rašo, kad Nestoras perėmė pasakojimą apie Kijų, Ščeką, Choryvą ir senovės Kijevą.
 - susijęs iš [[objektai/asmenys/Sčekas.md#claim-t-191984|Sčekas]]: Pasak padavimo, Sčekas su Kijumi ir Choryvu buvo laikomi Kijevo įkūrėjais arba atnaujintojais.
 - susijęs iš [[objektai/autoriai/Nestoras.md#claim-t-191529|Nestoras]]: Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Choryvą, susiliejusį su žiniomis apie senovės Kijevą.
 - susijęs iš [[objektai/grupes/Geniui.md#claim-t-192969|Geniui]]: Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-skitų gentimi kaip Geniui ir siejo juos su Chijo sala.
 - susijęs iš Kijevas: Padavime, kurį perteikia Narbutas, Kijus, Sčekas ir Choryvas laikomi Kijevo įkūrėjais arba atnaujintojais.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja su Kijevo įkūrimu arba atnaujinimu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau slavai
-    ir toliau gyveno šiame mieste ir jo apylinkėse.
-    Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko
-    ir Choryvo miestų atnaujinimo epocha. Padavimas teigia,
-    jog jie buvę įkūrėjai ar atnaujintojai Kijevo, be to, ga­
-    lėjo būti, jog pirmojo vardas buvo šiek tiek panašus į
-    senovinį miesto pavadinimą; iš čia ir atsirado naujas
-    Kijev horod, Kijev perevoz na Dnepre pavadinimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174143
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 379"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 379."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau slavai
+    Iš tiesų truputį vėliau jie iške­
+    liavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­
+    tėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami
+    prie Dnepro net savo pavadinimo pėdsakų. Tačiau slavai
     ir toliau gyveno šiame mieste ir jo apylinkėse.
     Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko
     ir Choryvo miestų atnaujinimo epocha. Padavimas teigia,
@@ -83,3 +70,4 @@ Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191261
+    - t-197719

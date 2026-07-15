@@ -6,9 +6,14 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
+  - '1805 m.'
   - '1818 m.'
-date_start: '1818'
-date_end: ''
+date_start: '1805'
+date_end: '1818'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,10 +21,6 @@ tags:
   - mokslininkas
   - kunigas
   - rašytojas
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -76,38 +77,21 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   pagrindžia:
     - c-171362
 
-<a id="claim-t-190791"></a>
-- t-005
-  global_id: t-190791
-  teiginys: "Narbutas Rėzą vadino puikiu lietuvių kalbos žinovu ir giesmių leidėju, priekaištavusiu skeptikams dėl kronikininkų tiesos."
-  pagrindžia:
-    - c-173673
-
 <a id="claim-t-194672"></a>
-- t-006
+- t-005
   global_id: t-194672
   teiginys: "Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10 10 Rėza."
   pagrindžia:
     - c-177069
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu parapijos paveldėjamuoju keliu
-    einančios iš tėvų į vaikus. Todėl, esą, negalima parinkti nė tin-
-    kamesnių kunigų. Bet tuojau atsirado ir karštų lietuvių kalbos
-    gynėjų (prof. Rėza, kunigas Ostermejeris, mokytojas Gizevijas);
-    laikraščiuose prasidėjo karštas ginčas, ir lietuvių kalba šį kartą
-    buvo apginta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197336"></a>
+- t-006
+  global_id: t-197336
+  teiginys: "Rėza sugrįžo jėzuitų pastangomis, valdant Zigmantui III."
   pagrindžia:
-    - t-001
+    - c-177069
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas nurodo, kad Rėza „Dainose“ gynė Lietuvos kronikininkus nuo XVIII a. kritikų priekaištų dėl išgalvotų vardų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -127,26 +111,6 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Narbutas rašo, kad, Rėzos teigimu, lietuviai turėjo iš skandinavų perimtą laiko dalijimą į devynis periodus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Praėjusius metus žy­
-    mėdavo mazgeliais, įpjovomis arba ženklais šventyklose,
-    įspaustais į mūrą, kaip matėme anksčiau.
-    Kaip pažymi ponas Rėza, dar jie turėjo laiko dalijimą į
-    devynis periodus, perimtą iš skandinavų, bet smulkesnių duo­
-    menų apie tai neturime.
-    Štai lietuviški mėnesių pavadinimai iš kalendoriaus, esan­
-    čio senose maldų knygose, išspausdintose pamaldų reikalui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 - c-004
   santrauka: 'Narbutas nurodo, kad Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų viršuje sukreivintų lazdų paprotį.'
@@ -173,32 +137,6 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
-- c-005
-  santrauka: 'Narbutas Rėzą vadino puikiu lietuvių kalbos žinovu ir giesmių leidėju, priekaištavusiu skeptikams dėl kronikininkų tiesos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    O tai, kad jose būta ne vien pasakų, kas dieną įti­
-    kina vis nauji atradimai; pats puikus lietuvių kalbos ži­
-    novas ir savo surinktų giesmių leidėjas ponas Rėza***,
-    kurio šviesa tiek daug pasinaudojome ankstesniame to-
-    1 Hlebovičiaus „Vytauto gyvenimas“. P. 116 (Onacevičiaus pas­
-    tabos)***.
-    32
-
-    ## Puslapis 32
-
-    ine, — jis pats, kartoju, nedviprasmiškai priekaištauja
-    tiems kritikams, skeptikams; įrodinėja, kad kronikininkai
-    sakė tiesą, pasitvirtinančią juo labiau tam, kuris arti­
-    miau susipažįsta su esamais senovės paminklais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
 
 - c-006
   santrauka: 'Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10 10 Rėza.'
@@ -240,17 +178,18 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 - id: c-171360
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 218"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 218."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iškiliojoje pusėje panaši žymė kaip III
-    lentelės 9-ajame piešinyje, tik prie jos kitokie ženklai ir dau­
-    giau taškų. 9-ojo piešinio aprašymą skaityk straipsnyje „Sta­
-    8 Dabar visi Lietuvos senovės tyrėjai įsitikina, kad mūsų kroniki­
-    ninkai rašė teisybę, kaip tai teisingai pažymi ponas Rėza “Dainose”
-    ir mato klaidingumą XVIII amžiaus kritikų darytų jiems priekaištų,
-    esą patys sugalvoję daugelio dievų ir garsių žmonių vardus.
-    9 Karamzin.
+    aukštyn; priplaukę Dubysos žiotis, sužinojo apie orakulą,
+    esantį prie tos upės ištakų; džiaugdamiesi, kad rado kelią į
+    šią šventyklą, jie dainavo: Sze radom, čia radom; tai buvo prie­
+    žastis, dėl kurios vietovė buvo pavadinta Szeradzia, dabar
+    Seredžiaus (Seradnik) miestelis, trumpai lenkiškai - Šrednik.
+    Paplaukę visą mylią aukštyn Dubysa, su savo kareivija jie il­
+    sėjosi ant kranto ir, įsitaisę čia stovyklą, tarė: Czekiszkim zno-
+    ka, čia kiškim vėliavas. Taip atsirado Čekiškės (Czekiszki) pa­
+    vadinimas; dabar taip vadinamas miestelis.
+  citata_rodoma: "Iškiliojoje pusėje panaši žymė kaip III\nlentelės 9-ajame piešinyje, tik prie jos kitokie ženklai ir dau­\ngiau taškų. 9-ojo piešinio aprašymą skaityk straipsnyje „Sta­\n8 Dabar visi Lietuvos senovės tyrėjai įsitikina, kad mūsų kroniki­\nninkai rašė teisybę, kaip tai teisingai pažymi ponas Rėza “Dainose”\nir mato klaidingumą XVIII amžiaus kritikų darytų jiems priekaištų,\nesą patys sugalvoję daugelio dievų ir garsių žmonių vardus.\n9 Karamzin."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -261,8 +200,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 - id: c-171361
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 323"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 323."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Praėjusius metus žy­
     mėdavo mazgeliais, įpjovomis arba ženklais šventyklose,
@@ -284,20 +222,21 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jau ir šiaip žinome, ir anksčiau sakėme, kad
-    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
-    8
-    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
-    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
-    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
-    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
-    430
-
-    ## Puslapis 430
-
-    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
-    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
-    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
+    Sis vyriausiųjų žynių sąrašo pasmerkimas yra
+    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
+    argumentų, vien kaip savo paties abejonę. Dabar peržvelkime
+    mūsų amžiaus kritiko argumentus.
+    1.
+    Seniausias žinomas šito šaltinis yra Simonas Grunau,
+    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
+    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
+    šantis apie kryžiuočius ir vokiečių tautą - tai tiesa; per daug
+    užsidegęs katalikybės šalininkas - ir tai ne paslaptis; kartais
+    nekritiškas kompiliatorius ir su daugybe savo laiko ydų - gali­
+    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
+    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
+    11 Sirvydo žodynas.
+  citata_rodoma: "Jau ir šiaip žinome, ir anksčiau sakėme, kad\nkažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8\n8\nBeje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie\ntai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­\nriuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­\nreigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.\n430\n\n## Puslapis 430\n\ntyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­\nnybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu\n, koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -305,45 +244,22 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   pagrindzia:
     - t-188472
 
-- id: c-173673
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    O tai, kad jose būta ne vien pasakų, kas dieną įti­
-    kina vis nauji atradimai; pats puikus lietuvių kalbos ži­
-    novas ir savo surinktų giesmių leidėjas ponas Rėza***,
-    kurio šviesa tiek daug pasinaudojome ankstesniame to-
-    1 Hlebovičiaus „Vytauto gyvenimas“. P. 116 (Onacevičiaus pas­
-    tabos)***.
-    32
-
-    ## Puslapis 32
-
-    ine, — jis pats, kartoju, nedviprasmiškai priekaištauja
-    tiems kritikams, skeptikams; įrodinėja, kad kronikininkai
-    sakė tiesą, pasitvirtinančią juo labiau tam, kuris arti­
-    miau susipažįsta su esamais senovės paminklais.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190791
-
 - id: c-177069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 129"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 129."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lasickis šiame pavadinime klaidingai įžiūri
-    dievą.
-    Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10
-    10 Rėza. Dainos.
+    Valdant Žygimantui Augus­
+    tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
+    cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
+    iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
+    Zigmantui III. Ši trumpa ekskursija į istoriją remiasi vietinių
+    istorijos mokovų apklausa ir klebonijos užrašais, kuriais vie­
+    los klebonas leido man pasinaudoti 1805 metais.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194672
+    - t-197336

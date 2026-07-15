@@ -47,39 +47,13 @@ Nenurodyta
   teiginys: "Pasak Kojelavičiaus, Rygos arkivyskupo katedros dvasininkai pasidalijo kolegijos valdas ir išsižadėjo skaistybės."
   pagrindžia:
     - c-169121
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasak Kojelavičiaus, Rygos arkivyskupo katedros dvasininkai pasidalijo kolegijos valdas ir išsižadėjo skaistybės.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tais pačiais metais kara­
-    liaus globojama liuteronų at­
-    skala, kuriai Livonijos dvasi­
-    ninkai ligi tol nedrįso viešai rodyti palankumo, visai
-    suįžūlėjo. Rygos arkivyskupo katedros dvasininkai, pa­
-    mynę bet kokį teisėtumą ir pasidaliję didžiules tos
-    kolegijos valdas, šventvagiškai išsižadėjo skaistybės.
-    Nenorėdami, kad jų nusikaltimas liktų nubaustas, jie išsi­
-    rūpino karaliaus raštą, patvirtintą lapkričio 26 d., ku­
-    riuo valdovas įsipareigojo savo autoritetu juos ginti,
-    nors jie, pamynę dieviškus įstatymus, visai nebijojo ir
-    žmonių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169121
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 736"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 736."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tais pačiais metais kara­
     liaus globojama liuteronų at­

@@ -95,87 +95,6 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 - susijęs iš [[objektai/zodynas/Kerzono linija.md#claim-t-44060|Kerzono linija]]: Projekte Lietuvos siena turėjo eiti Kerzono linija iki Nemuno, o Suvalkų krašte ji buvo nustatyta Suvalkų sutartyje kaip demarkacijos linija.
 - susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-10899|Suverenitetas]]: 1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą.
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75544|de facto]]: 1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokie-
-    tijos, į Lenkijos planus žiūrėjo palankiai, tačiau Lietuva manė juos keliant
-    grėsmę savo sienoms ir atskiram valstybiniam gyvenimui.
-    Kovoti teko keliais frontais, nes dar viena šalis, Rusija, visuomet pre-
-    tendavo į LDK palikimą ir Lietuvą, kaip jos sudedamąją dalį. Tačiau pi-
-    lietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija
-    1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai
-    pradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-
-    prindama jų pozicijas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva gavo 3 mln. aukso rublių kompensaciją ir pažadus,
-    kad galės išsikirsti miško, atsiimti išvežtus į Maskvą archyvus. Lietuva ri-
-    zikavo pasirašydama sutartį, nes manė, jog, baltiesiems nugalėjus bolše-
-    vikus, būtų atiduota Rusijai arba Lenkijai. Apskritai 1920 m. liepos 12 d.
-    pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-
-    matijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su
-    Lenkija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    PREILIAI A
-
-    1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė
-    taikos sutartį. Sovietų Rusija pripažino Lietuvos nepriklausomybę.
-    Buvo nustatyta Lietuvos siena.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-004
-  santrauka: 'Pralaimėjusi kovas dėl Zarasų ir patyrusi didelių nuostolių, Sovietų Rusija po kurio laiko pasiūlė taikos derybas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pasekmės
-    Neišnaudoję įtvirtinimų teikiamų priva-
-
-    lumų, bolševikai buvo priversti trauktis iš
-    Lietuvos. Pralaimėjusi kovas dėl Zarasų ir
-    patyrusi didelių nuostolių, Sovietų Rusija
-    po kurio laiko pasiūlė taikos derybas.
-
-    Dauguvos fronto karininkus ir karei-
-    vius, išvijusius bolševikus iš Lietuvos
-    žemės ir laimėjusius didelę pergalę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-24492
@@ -198,8 +117,8 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77322
     - t-77321
+    - t-77322
 
 - id: c-24493
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

@@ -50,6 +50,7 @@ media_all_json: |-
   teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
   pagrindžia:
     - c-24437
+    - c-167019
 
 <a id="claim-t-84718"></a>
 - t-004
@@ -64,13 +65,6 @@ media_all_json: |-
   teiginys: "Lietuvos istorijos autoriai Nadruvoje buvusią Romuvą laiko ankstyva pagonybės virtimo institucine religija apraiška."
   pagrindžia:
     - c-167018
-
-<a id="claim-t-183627"></a>
-- t-006
-  global_id: t-183627
-  teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
-  pagrindžia:
-    - c-167019
 - susijęs iš [[objektai/autoriai/Dundulienė P.md#claim-t-64574|Dundulienė P]]: Dundulienės P. darbas „Medžiai“ minimas bibliografijoje apie Romovę arba Romuvą.
 - susijęs iš [[objektai/autoriai/Friederici W.md#claim-t-60700|Friederici W]]: W. Friederici darbas „Über die Lage Romow’s...“ cituojamas siejant Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romuva.
 - susijęs iš [[objektai/autoriai/Jurginis J.md#claim-t-64663|Jurginis J]]: J. Jurginio darbas „Legendos“ minimas bibliografijoje apie Romovę arba Romuvą.
@@ -124,112 +118,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/amfiktionija.md#claim-t-23432|amfiktionija]]: Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.
 - susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86452|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.
 - susijęs iš [[objektai/daiktai/Šventasis ąžuolas.md#claim-t-59712|Šventasis ąžuolas]]: S. Grunau rašė, kad Romuvoje augęs milžiniškas trijų dalių šventasis ąžuolas su Perkūno, Patulo ir Patrimpo stabais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iš mūsų pagonių valdovų laikysenos
-    galima suprasti, kad pagonybė jiems buvo lygiavertė krikščionybei. Tai-
-    gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
-    institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
-    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
-    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
-    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
-    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
-    muvoje pagrindinis kulto objektas buvo ugnis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vaikių krašte buvo šventoji giria, ku­
-    ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­
-    tais vieną naktį buvo sudeginta iki pamatų, visi gyventojai
-    išžudyti. Baigusi kruvinus darbus, ginkluota palyda kitą die­
-    ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
-    Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­
-    vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­
-    vių Krivaičio pagrindinė buveinė).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Baigusi kruvinus darbus, ginkluota palyda kitą die­
-    ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
-    Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­
-    vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­
-    vių Krivaičio pagrindinė buveinė). Pakeliui viską versdama
-    pelenais, kryžiuočių kariauna puolėsi Bisenės pilies link, pa­
-    siryžusi užimti ją šturmu, ir jau vėlų vakarą imta pulti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Lietuvos istorijos autoriai Nadruvoje buvusią Romuvą laiko ankstyva pagonybės virtimo institucine religija apraiška.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai-
-    gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
-    institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
-    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
-    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
-    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
-    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
-    muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
-    Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 ## Citatos
 
 - id: c-24436
@@ -338,8 +226,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183627
 
 ## Ryšiai
 - Romuva priklausė [[objektai/vietos/Nadruva]]

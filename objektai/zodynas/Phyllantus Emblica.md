@@ -73,11 +73,17 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   teiginys: "Narbutas Phyllantus Emblica vadina karšto klimato medžiu."
   pagrindžia:
     - c-175089
+
+<a id="claim-t-197698"></a>
+- t-005
+  global_id: t-197698
+  teiginys: "Galima būtų stebėtis, jei karšto klimato medis Phyllantus Emblica būtų atsidū ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą ,,De fructibus et seminibus plantarum\", kad įsitikintume, jog minėtas vaisius neišaugo jokioje Emblikoje."
+  pagrindžia:
+    - c-179297
 - susijęs iš [[objektai/asmenys/Gartneris.md#claim-t-191402|Gartneris]]: Narbutas remiasi Gartnerio veikalu „De fructibus et seminibus plantarum“, aiškindamas, kad minėtas vaisius neišaugo jokioje Emblikoje.
 - susijęs iš [[objektai/autoriai/Gartneris.md#claim-t-191672|Gartneris]]: Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus plantarum“, aiškindamas prūsiškos palmės vaisiaus kilmę.
 - susijęs iš De fructibus et seminibus plantarum: Narbutas Gartnerio veikalu „De fructibus et seminibus plantarum“ rėmėsi teigdamas, kad minėtas vaisius neišaugo jokioje Emblikoje.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -123,8 +129,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
 - id: c-175089
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 339"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 339."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad visiškai gali būti, jog šis prūsų
     vaisius susijęs su viena palme, kai netoli Paryžiaus ir
@@ -133,21 +138,22 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
     karšto klimato medis Phyllantus Emblica būtų atsidū­
     ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą
     ,,De fructibus et seminibus plantarum", kad įsitikintume,
-    jog minėtas vaisius neišaugo jokioje Emblikoje.
+    jog minėtas vaisius neišaugo jokioje Emblikoje. Prie to
+    dar reikia pridurti, kad šis medis užauga vos 40 pėdų
+    aukščio, o prūsiška palmė buvo du kartus aukštesnė.
   citata_rodoma: "Tokia yra tikroji padėtis. Galima būtų stebėtis, jei\nkaršto klimato medis Phyllantus Emblica būtų atsidū-\nręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą\n,,De fructibus et seminibus plantarum\", kad įsitikintume,\njog minėtas vaisius neišaugo jokioje Emblikoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192255
     - t-192252
+    - t-192255
 
 - id: c-175090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 339"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 339."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš tikrųjų įžymus botanikas Sprengelis iš Halės,
     remdamasis vaisiaus išvaizda, parašė man savo- nuomo­
@@ -157,6 +163,11 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
     begalima pastebėti. Tad visiškai gali būti, jog šis prūsų
     vaisius susijęs su viena palme, kai netoli Paryžiaus ir
     Kolonijos buvo rasta įvairių palmių vaisių“.
+    Tokia yra tikroji padėtis. Galima būtų stebėtis, jei
+    karšto klimato medis Phyllantus Emblica būtų atsidū­
+    ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą
+    ,,De fructibus et seminibus plantarum", kad įsitikintume,
+    jog minėtas vaisius neišaugo jokioje Emblikoje.
   citata_rodoma: "Iš tikrųjų įžymus botanikas Sprengelis iš Halės,\nremdamasis vaisiaus išvaizda, parašė man savo- nuomo-\nnę: jis priskyrė gintarą prie Phyllantus Emblica, be to,\npridūrė: „Aš galiu klysti. Senovės pasaulis paliko mums\nžemėje ir akmens anglyse augalų, kurių archetipų vos\nbegalima pastebėti. Tad visiškai gali būti, jog šis prūsų\nvaisius susijęs su viena palme, kai netoli Paryžiaus ir\nKolonijos buvo rasta įvairių palmių vaisių“."
   statusas: verified
   teiginio_tipas: faktas
@@ -165,3 +176,22 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   pagrindzia:
     - t-192253
     - t-192254
+
+- id: c-179297
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Tokia yra tikroji padėtis. Galima būtų stebėtis, jei
+    karšto klimato medis Phyllantus Emblica būtų atsidū­
+    ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą
+    ,,De fructibus et seminibus plantarum", kad įsitikintume,
+    jog minėtas vaisius neišaugo jokioje Emblikoje. Prie to
+    dar reikia pridurti, kad šis medis užauga vos 40 pėdų
+    aukščio, o prūsiška palmė buvo du kartus aukštesnė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197698

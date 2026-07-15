@@ -58,46 +58,6 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   teiginys: "Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema."
   pagrindžia:
     - c-24758
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK visuomenė tampa europinė ir įsilieja į Va-
-    karų civilizaciją. Nuosavybės santykiuose susiformuoja leno teisė, socia-
-    linėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje
-    ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų
-    ūkyje – cechai, edukacijoje – europinė švietimo sistema (katedrinės mo-
-    kyklos ir jų triviumas, kolegijos ir universitetas). Krikščioniškasis men-
-    talitetas įsigali bent jau tarp visuomenės elito (antemurale christianita-
-    tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),
-    susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-    - t-004
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kronikos autoriui
-    tauta  – tik kilmingieji krašto gyventojai. Legendoje nekeliama ir kal-
-    bos problema: tuo metu kalba nebuvo svarbiausias tautos bruožas, nes
-    tada egzistavo ne etninė, bet politinė lietuvių tauta, kurios pagrindinis
-    požymis – priklausymas kilmingiesiems LDK gyventojams. Būtent šių
-    žmonių kilmė ir istorija pasakojama Lietuvos metraščiuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -121,8 +81,8 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101570
     - t-101568
+    - t-101570
     - t-193601
 
 - id: c-24759

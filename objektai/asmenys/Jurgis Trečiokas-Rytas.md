@@ -35,26 +35,6 @@ Lapkričio 2 d. rytą čekistų pajėgos apsupo Jurgio Trečioko-Ryto bunkerį �
   teiginys: "Lapkričio 2 d. rytą čekistų pajėgos apsupo Jurgio Trečioko-Ryto bunkerį Šimonių girioje netoli Varležerio."
   pagrindžia:
     - c-44394
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lapkričio 2 d. rytą čekistų pajėgos ap-
-    supo Jurgio Trečioko-Ryto bunkerį Šimonių
-    girioje netoli Varležerio. Partizanai, buvę
-    šiame bunkeryje, girdėjo visą praėjusią dieną
-    girioje vykusių kautynių garsus, tačiau nesi-
-    tikėjo, kad bus atrasti arba išduoti. Steponas
-    Šukys-Mauzeris nusišovė, kiti pasidavė, kai
-    čekistai išsprogdino bunkerio viršų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

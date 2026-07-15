@@ -43,26 +43,6 @@ media_all_json: |-
   teiginys: "K. Pakštas 1950 m. „Aiduose“ paskelbė straipsnį „Keletas samprotavimų apie Lietuvos ribas“."
   pagrindžia:
     - c-32997
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Moora, H. : _O drevnej territorii uaselenija baltij-
-    skich piemen,_ Sovetskaja Archeologija, t. 2, 1958, 9-33 p. — Ochmań­
-    ski, J. : _Pogranicze litewsko-krywickie w epoce plemiennej,_ PH, t. 61,
-    1970, 183-191 p. (su žemėl.). — Pakštas, K. : _Keletas samprotavimų
-    apie Lietuvos ribas,_ Aidai, nr. 1-4, 1950, 8-14, 51-56, 123-129, 174-
-    182 p. — (”) _Lietuvių tautos ir valstybės sienos,_ Aidai, nr. 10, 1951,
-    436-444 p. -— (”) _Gudijos santykis su Lietuva,_ Aidai, nr. 3, 4, 1956,
-    114-124, 174-182 p. — Papėe, Pr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

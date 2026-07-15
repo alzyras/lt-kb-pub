@@ -74,7 +74,6 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 - susijęs iš SSRS konstitucija: 1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.
 - susijęs iš Įstatymas „Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo“: Įstatymas dėl 1938 m. Lietuvos Konstitucijos galiojimo atstatymo buvo priimtas siekiant atkurti paskutinės nepriklausomos Lietuvos konstitucijos galiojimą.
 - susijęs iš Įstatymas „Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo“: Priėmus įstatymą dėl 1938 m. Lietuvos Konstitucijos galiojimo atstatymo, šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas ir po pusvalandžio sustabdytas.
-- susijęs iš Lietuva: Lietuvai ir Lenkijai seimų konstitucijos buvo rašomos atskirai, o vienos valstybės konstitucija kitoje negaliojo be specialaus priėmimo.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75786|Augustinas Voldemaras]]: Po M. Sleževičiaus vyriausybės atstatydinimo K. Grinius pavedė tautininkui Augustinui Voldemarui sudaryti naują Ministrų kabinetą.
 - susijęs iš [[objektai/asmenys/Jokūbas Jasinskis.md#claim-t-63711|Jokūbas Jasinskis]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.
 - susijęs iš [[objektai/asmenys/Kazimieras Nestoras Sapiega.md#claim-t-63826|Kazimieras Nestoras Sapiega]]: Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.
@@ -146,22 +145,6 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 - susijęs iš [[objektai/zodynas/suverenitetas suverenumas.md#claim-t-104206|suverenitetas suverenumas]]: LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.
 - susijęs iš [[objektai/zodynas/suverenumas suverenitetas.md#claim-t-70347|suverenumas suverenitetas]]: LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.
 - susijęs iš [[objektai/zodynas/tribunolas.md#claim-t-82100|tribunolas]]: Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Seimo aktai.** Visi seimo nutarimai, vadinęsi konstituci-
-    jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus-
-    dinami ir pranešami visam kraštui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-71080

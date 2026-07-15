@@ -3,6 +3,12 @@ tipas: zodyno_irasas
 pavadinimas: 'daiktiški ir dvasiški ginklai dvasios ginklai'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1226 m.'
+date_start: '1226'
+date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -35,18 +41,33 @@ Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta varto
   teiginys: "Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus."
   pagrindžia:
     - c-59567
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197033"></a>
+- t-002
+  global_id: t-197033
+  teiginys: "Apie pirmąją Teutonų namų ordino brolių pilį, kurią vadino Fogelzangu Aptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226)."
+  pagrindžia:
+    - c-59567
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
-    jei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas
-    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
-    neteisybės, nei kantrios teisybės. Šitaip prasidėjo naujas karas, šitaip pradėta vartoti
-    naujas kovos priemones, leidusias mums dvasios ginklais nugalėti tikybos ir bažnyčios
-    priešus.
+    Apie pirmąją Teutonų namų ordino brolių pilį, kurią vadino Fogelzangu
+    Aptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226).
+    Kadangi minėtieji Teutonų namų ordino broliai, tai yra brolis Konradas bei jo bičiulis,
+    neturėjo kur Prūsijos žemėje, minėtojo Lenkijos kunigaikščio jau anksčiau jiems
+    atiduotoje, galvos priglausti, juodu sugalvojo iš toliau siekti užsibrėžto tikslo, iš už Vyslos,
+    kuri juos saugotų, būdama tarp jų ir prūsų. Jie ir paprašė minėtąjį kunigaikštį pastatydinti
+    jiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to,
+    prisimindamas šiuos poeto žodžius:
+
+    Pusę darbo padaro tasai, kas netrunka jo imtis —
+
+    sutelkė savo žmones ir prieš dabartinį Torunės miestą pastatė ant kalvos jiems pilį,
+    179  Praleistuose skyreliuose (II, 8 ir II, 9) kronikininkas, remdamasis bibliją, aiškina,
+    kas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: saltinio_teiginys
@@ -54,24 +75,28 @@ Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta varto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-59567
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
-    jei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas
-    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
-    neteisybės, nei kantrios teisybės. Šitaip prasidėjo naujas karas, šitaip pradėta vartoti
-    naujas kovos priemones, leidusias mums dvasios ginklais nugalėti tikybos ir bažnyčios
-    priešus.
+    Apie pirmąją Teutonų namų ordino brolių pilį, kurią vadino Fogelzangu
+    Aptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226).
+    Kadangi minėtieji Teutonų namų ordino broliai, tai yra brolis Konradas bei jo bičiulis,
+    neturėjo kur Prūsijos žemėje, minėtojo Lenkijos kunigaikščio jau anksčiau jiems
+    atiduotoje, galvos priglausti, juodu sugalvojo iš toliau siekti užsibrėžto tikslo, iš už Vyslos,
+    kuri juos saugotų, būdama tarp jų ir prūsų. Jie ir paprašė minėtąjį kunigaikštį pastatydinti
+    jiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to,
+    prisimindamas šiuos poeto žodžius:
+  citata_rodoma: "Apie pirmąją Teutonų namų ordino brolių pilį, kurią vadino Fogelzangu\nAptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226). \nKadangi minėtieji Teutonų namų ordino broliai, tai yra brolis Konradas bei jo bičiulis, \nneturėjo kur Prūsijos žemėje, minėtojo Lenkijos kunigaikščio jau anksčiau jiems \natiduotoje, galvos priglausti, juodu sugalvojo iš toliau siekti užsibrėžto tikslo, iš už Vyslos, \nkuri juos saugotų, būdama tarp jų ir prūsų. Jie ir paprašė minėtąjį kunigaikštį pastatydinti \njiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to, \nprisimindamas šiuos poeto žodžius:\n\t\n\t\n\t\nPusę darbo padaro tasai, kas netrunka jo imtis —\t\n\t\nsutelkė savo žmones ir prieš dabartinį Torunės miestą pastatė ant kalvos jiems pilį, \n179  Praleistuose skyreliuose (II, 8 ir II, 9) kronikininkas, remdamasis bibliją, aiškina, \nkas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58935
+    - t-197033

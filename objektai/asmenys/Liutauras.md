@@ -57,36 +57,12 @@ Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė L
 - susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
 - susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
 - susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė Liutaurą užimti ir vietininko teisėmis valdyti Polocką.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Todėl Jonas, išvaduodamas nuo nelaimės Po­
-    locko ponus, išjojo į Naugardą ir ten tapo vienuoliu. O Lietu­
-    vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
-    niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val­
-    dytų jį kaip vietininkas. Liutauro sūnus Vytenis, gimęs 1232
-    metais Žemaitijoje, gyveno Ariogaloje; jis išgarsėjo rusų ka­
-    ruose su totoriais, buvo paimtas į nelaisvę, buvo Batu stovyk­
-    loje, Kumanų žemėje, pagaliau grįžo ir valdė Polocko kuni­
-    gaikštystę kartu su savo tėvu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-172989
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 213"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Todėl Jonas, išvaduodamas nuo nelaimės Po­
     locko ponus, išjojo į Naugardą ir ten tapo vienuoliu. O Lietu­

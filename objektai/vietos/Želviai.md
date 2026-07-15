@@ -35,15 +35,8 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   pagrindžia:
     - c-03175
 
-<a id="claim-t-02937"></a>
-- t-002
-  global_id: t-02937
-  teiginys: "Želviuose buvo įkurta pijarų mokykla."
-  pagrindžia:
-    - c-03175
-
 <a id="claim-t-193263"></a>
-- t-003
+- t-002
   global_id: t-193263
   teiginys: "Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar."
   pagrindžia:
@@ -62,29 +55,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - susijęs iš Ščucinas: Ščucine buvo įkurta pijarų mokykla.
 - susijęs iš Ščucinas: Ščucine buvo įkurta pijarų mokykla.
 - susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72605|Pijarų ordinas]]: Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pijarai, kaip ir jėzuitai, steigė savo mokyklas iš atskirų didžiū-
-    nų ir bajorijos fundacijų. Pijarai, niekuo daugiau neužsiimdami,
-    kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
-    tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos
-    kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-
-    tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
-    Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
-    leranavoj, Vitebske, Želviuose ir dar vienur kitur.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-03175
@@ -107,5 +77,4 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02937
-    - t-183116
     - t-193263

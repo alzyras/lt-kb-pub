@@ -4,9 +4,10 @@ pavadinimas: 'Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį v
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
+  - '1460 m.'
   - '1461 m.'
-date_start: '1461'
-date_end: ''
+date_start: '1460'
+date_end: '1461'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1461 m. Vilniaus seime Lietuvos luomai pareiškė, kad visuomenė gali būti rami tik karaliui asmeniškai valdant Lietuvą. 1461 m. Vilniaus seime Lietuvos luomai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.
+1461 m. Vilniaus seime Lietuvos luomai pareiškė, kad visuomenė gali būti rami tik karaliui asmeniškai valdant Lietuvą. 1461 m. Vilniaus seime Lietuvos luomai prašė paskirti Simoną Olelkaitį Lietuvos vietininku. Karalius Kazimieras, rengdamasis traukti į Prūsiją, sušaukė Vilniuje lietuvių seimą dėl Lietuvos ir Podolės didikų įtampos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -60,66 +61,20 @@ Nenurodyta
   teiginys: "1461 m. Vilniaus seime Lietuvos luomai prašė paskirti Simoną Olelkaitį Lietuvos vietininku."
   pagrindžia:
     - c-169015
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: '1461 m. Vilniaus seime Lietuvos luomai pareiškė, kad visuomenė gali būti rami tik karaliui asmeniškai valdant Lietuvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Atvyko į jį prieš Velykas gausybė žmonių. Visi
-    luomai sutartinai ir karštai
-    1461 m e ta i
-    pareiškė karaliui savo pag­
-    rindinį norą. Esą visuomenė
-    galinti būti rami tik tada, kai karalius asmeniškai val­
-    dysiąs Lietuvą; svetur išvykusio karaliaus žodis ne­
-    greitai juos pasiekiąs ir paprastai negalįs būti veiks­
-    mingas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196264"></a>
+- t-003
+  global_id: t-196264
+  teiginys: "Karalius Kazimieras, rengdamasis traukti į Prūsiją, sušaukė Vilniuje lietuvių seimą dėl Lietuvos ir Podolės didikų įtampos."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1461 m. Vilniaus seime Lietuvos luomai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kas be ko, jie visi neišpasakytai trokštą, kad
-    karalius asmeniškai juos valdytų, tačiau jie to nesitiki,
-    511
-
-    ## Puslapis 510
-
-    n es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad
-    karalius ilgam  atitrūktų nuo jų valstybės reikalų. Štai
-    to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­
-    d a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,
-    Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais
-    Algirdo proanūkį. Karalius, g erai žinodamas, kiek rū­
-    pesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,
-    nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko
-    gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­
-    rai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­
-    sakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
-    sumanymus, g an a tolim us jų reikalavimams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-169015
 
 ## Citatos
 
 - id: c-169014
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 509"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 509."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Atvyko į jį prieš Velykas gausybė žmonių. Visi
     luomai sutartinai ir karštai
@@ -142,27 +97,36 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kas be ko, jie visi neišpasakytai trokštą, kad
-    karalius asmeniškai juos valdytų, tačiau jie to nesitiki,
-    511
-
-    ## Puslapis 510
-
-    n es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad
-    karalius ilgam  atitrūktų nuo jų valstybės reikalų. Štai
-    to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­
-    d a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,
-    Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais
-    Algirdo proanūkį. Karalius, g erai žinodamas, kiek rū­
-    pesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,
-    nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko
-    gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­
-    rai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­
-    sakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
-    sumanymus, g an a tolim us jų reikalavimams.
+    Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
+    tenkinta grasinimais bei kariuomenės telkimu, nes kaip
+    tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
+    nas Goštautas. Antra vertus, karalius irgi labiau nei
+    kitados stengėsi išlaikyti sa-
+    1460 m e ta i
+    vo rankose Lietuvą, nes su­
+    silaukė jau kelių palikuonių
+    (mat šiek tiek anksčiau gimė trečias sūnus Jonas Ol-
+    brachtas, o šiais metais ir ketvirtas — Aleksandras), to­
+    dėl visaip baudėsi Bresto seime nukreipti nuo Podolės
+    didikų užmojus. Kadangi skausmas dėl patirtos skriau­
+    dos, tai yra dėl atimtų žemių, tebuvo tik sušvelnėjus,
+    karaliaus akivaizdoje jie, tiesa, nerodė ypatingo įkar­
+    ščio, tačiau, jam išvykus, vėl
+    K araliui p a v y k s ta n u-
+    ryžtingai rengdavosi karui ir
+    ram inti
+    griebdavosi ginklų. Štai to­
+    dėl karalius, nusprendęs, jog
+    nėra jokio reikalo malšinti nuolatos stiprėjančio sopu­
+    lio kad ir stipriomis, bet laikinomis priemonėmis, o rei­
+    kia ieškoti tokių vaistų, kurie visiems laikams išgydy­
+    tų negalę, sušaukė, susiruošęs traukti į Prūsiją, Vilniuje
+    lietuvių seimą.
+  citata_rodoma: "Tačiau lemiamas žingsnis nebuvo žengtas: pasi­\ntenkinta grasinimais bei kariuomenės telkimu, nes kaip \ntik tuo metu mirė žymiausias šios grupuotės vadas Jo­\nnas Goštautas. Antra vertus, karalius irgi labiau nei\nkitados stengėsi išlaikyti sa-\n1460 m e ta i \nvo rankose Lietuvą, nes su­\nsilaukė jau kelių palikuonių \n(mat šiek tiek anksčiau gimė trečias sūnus Jonas Ol- \nbrachtas, o šiais metais ir ketvirtas — Aleksandras), to­\ndėl visaip baudėsi Bresto seime nukreipti nuo Podolės \ndidikų užmojus. Kadangi skausmas dėl patirtos skriau­\ndos, tai yra dėl atimtų žemių, tebuvo tik sušvelnėjus, \nkaraliaus akivaizdoje jie, tiesa, nerodė ypatingo įkar­\nščio, tačiau, jam išvykus, vėl \nK araliui p a v y k s ta n u- \nryžtingai rengdavosi karui ir \nram inti \ngriebdavosi ginklų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185654
+    - t-196264

@@ -7,13 +7,13 @@ datos:
   - '1835 m.'
 date_start: '1835'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kultūrinis-įvykis
   - ivykis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -68,37 +68,8 @@ Nenurodyta
   teiginys: "Teodoras Narbutas antrojo LTI tomo pratarmę pasirašė Gauruose 1835 m. gegužės 8 dieną."
   pagrindžia:
     - c-174920
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    PRATARME
-    Vos tik buvo išspausdinta religijos, papročių ir kitų
-    dalykų apžvalga, esanti įvadas į lietuvių tautos istorijos
-    pažinimą, skubu atiduoti spaudai antrą tomą, apžvel­
-    giantį šios tautos ištakas ir jos protėvių atsikėlimo į da­
-    bar gyvenamąsias žemes istoriją.
-    Ir čia skaitytojas neras to literatūrinio patrauklumo,
-    kuris smagina istorinėmis naujienomis ir grakščiu pasa­
-    kojimu, nes dar ir šį tomą reikėjo skirti parengiamiesiems
-    tyrimams, idant palengvintume tolesnę istoriją, neapsun­
-    kindami teksto plačiais prierašais, išvadomis ir įrody­
-    mais vien todėl, kad šie dalykai yra nauji ir dar neišna­
-    grinėti nei kritikos, nei smulkmenų, surinktų iš įvairių
-    raštų, aiškinimų; teko juos sujungti į vieną visumą ir
-    susieti vienodais įrodymais.
-    Šia prasme antrą tomą
-    galima laikyti šaltiniu, kuris turi duoti pradžią istorijos
-    upei, turėsiančiai atitekėti net iki šių dienų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Teodoras Narbutas antrojo LTI tomo pratarmę pasirašė Gauruose 1835 m. gegužės 8 dieną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -124,8 +95,7 @@ Nenurodyta
 - id: c-174919
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 24"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 24."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     PRATARME
     Vos tik buvo išspausdinta religijos, papročių ir kitų
@@ -156,17 +126,21 @@ Nenurodyta
 - id: c-174920
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 25"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 25."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Mano sumanymo įgyvendinimui reikia nepa­
-    prastai daug dalykų ir medžiagos, daug materialinių iš­
-    laidų ir sugebėjimų, bet, karštai trokšdamas tarnauti vi­
-    suomenei, sielos gelmėse glūdinčio pareigos jausmo ska­
-    tinamas, viliuosi įveiksiąs visas kliūtis.
-    Rašyta gauruose
-    1835 m. gegužės 8 dieną.
-    Teodoras Narbutas
+    Bendros pastabos. Pastaruoju metu nuodugnesnis tau­
+    tų ištaiką tyrinėjimas įgijo deramą, konkretesnį negu anks­
+    tesniais amžiais pobūdį: griežta kritika įvertino ankstes­
+    nių tyrinėtojų darbus, pradėta ieškoti tiesos lyginant įvai­
+    rių tautų istorijas, lyginant kalbas ir jų dialektų atspal­
+    vius, pradėta rinkti padavimus, sakmes, tautines dainas,
+    kruopščiai tirti įvairias senienas, ypač religijos šaltinius.
+    Taip, remiantis rašytiniais šaltiniais, laimingomis ir taik­
+    liomis prielaidomis, atsiranda vilčių įžvelgti istorinius
+    faktus praėjusių, net labai tolimų amžių ūkanose; nors
+    mūsų pirmtakai nesitikėjo, mes dažnai pajėgiame paro­
+    dyti labai įdomių ir galinčių dominti pasaulio istorijos
+    visumą faktų.
   citata_rodoma: "Rašyta gauruose\n1835 m. gegužės 8 dieną.\nTeodoras Narbutas"
   statusas: verified
   teiginio_tipas: faktas

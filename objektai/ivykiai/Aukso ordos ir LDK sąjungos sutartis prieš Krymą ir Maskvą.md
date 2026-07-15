@@ -63,35 +63,9 @@ Nenurodyta
 <a id="claim-t-186781"></a>
 - t-001
   global_id: t-186781
-  teiginys: "1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę."
+  teiginys: '1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.'
   pagrindžia:
     - c-169977
-
-<a id="claim-t-186781"></a>
-- t-002
-  global_id: t-186781
-  teiginys: "1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę."
-  pagrindžia:
-    - c-169977
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    “  M ichailas Chaleckis —  Lietuvos didžiojo kunigaikščio A lek­
-    sandro dvarionis-diplomatas iš Gomelio krašto rusų bajorų, j Aukso
-    ordų pas chanų Slch-Achmatų buvo siunčiamas dar 1496.VIII už­
-    megzti reguliarių santykių. 1501 m., tarpininkaujant M. Chaleckiui.
-    tarp Aukso ordos ir LDK buvo sudaryta sųjungos sutartis prieš
-    Krymo chanų Mengll-Girėjų ir M askvos Didžiųjų Kunigaikštystę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -107,10 +81,10 @@ Nenurodyta
     tarp Aukso ordos ir LDK buvo sudaryta sųjungos sutartis prieš
     Krymo chanų Mengll-Girėjų ir M askvos Didžiųjų Kunigaikštystę.
   citata_rodoma: "M ichailas Chaleckis —  Lietuvos didžiojo kunigaikščio A lek­\nsandro dvarionis-diplomatas iš Gomelio krašto rusų bajorų, j Aukso \nordų pas chanų Slch-Achmatų buvo siunčiamas dar 1496.VIII už­\nmegzti reguliarių santykių. 1501 m., tarpininkaujant M. Chaleckiui. \ntarp Aukso ordos ir LDK buvo sudaryta sųjungos sutartis prieš \nKrymo chanų Mengll-Girėjų ir M askvos Didžiųjų Kunigaikštystę."
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186781
-    - t-186780
+    - t-001
+    - t-002

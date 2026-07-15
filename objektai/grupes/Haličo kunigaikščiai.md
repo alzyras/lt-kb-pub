@@ -63,31 +63,6 @@ Politinė ir karinė kunigaikščių grupė.
   pagrindžia:
     - c-55887
 - susijęs iš [[objektai/grupes/Mongolai.md#claim-t-113191|Mongolai]]: 1272 m. Lietuvą puolę Haličo kunigaikščiai veikė kartu su Nogajaus mongolais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ĮVADAS
-    denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų;
-    Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino
-    1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu
-    su Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­
-    tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
-    savo tvirtovėmis ir prekyba. Tačiau, tiesą sakant, ir visoje Lie­
-    tuvos žemėje, ir Žemaitijoje tik šen bei ten kilo vienišos pilys,
-    nevienodos galios feodalinių kunigaikščių ir bajorų gynybinės
-    gyvenvietės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-55887

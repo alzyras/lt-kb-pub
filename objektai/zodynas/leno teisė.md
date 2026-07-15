@@ -35,26 +35,6 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
   teiginys: "XVI a. LDK nuosavybės santykiuose susiformavo leno teisė."
   pagrindžia:
     - c-75137
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XVI a. LDK nuosavybės santykiuose susiformavo leno teisė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio
-    raštijos modelio), XVI a. LDK visuomenė tampa europinė ir įsilieja į Va-
-    karų civilizaciją. Nuosavybės santykiuose susiformuoja leno teisė, socia-
-    linėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje
-    ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų
-    ūkyje – cechai, edukacijoje – europinė švietimo sistema (katedrinės mo-
-    kyklos ir jų triviumas, kolegijos ir universitetas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

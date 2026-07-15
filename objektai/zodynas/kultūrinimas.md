@@ -42,41 +42,6 @@ media_all_json: |-
   teiginys: "Lietuvos kultūrinimas, pradėtas Mindaugo laikais, esą būtų sumažinęs nutautėjimo nuostolius."
   pagrindžia:
     - c-167627
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Šis Lietuvos kultūrinimas, jei būtų buvęs pra­
-    dėtas nors Mindaugo laikais, nebūtų mums padaręs tokių ištau­
-    tėjimo nuostolių. Tai mūsų visos istorijos nelaimė. Kita priežas­
-    tis, be abejo, bus buvusi ta, kad Vytautas perdaug jėgų eikvojo
-    rytų politikai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvos kultūrinimas, pradėtas Mindaugo laikais, esą būtų sumažinęs nutautėjimo nuostolius.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bloga tik, kad mes perdaug buvom atsilikę ir pasivė­
-    lavę, o Vakarai, palyginus su mūsų kraštu, per toli buvo nužen­
-    gę, todėl ir tos kultūros įsiveržimas buvo perdaug galingas, ne
-    pagal mūsų jėgas. Šis Lietuvos kultūrinimas, jei būtų buvęs pra­
-    dėtas nors Mindaugo laikais, nebūtų mums padaręs tokių ištau­
-    tėjimo nuostolių. Tai mūsų visos istorijos nelaimė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

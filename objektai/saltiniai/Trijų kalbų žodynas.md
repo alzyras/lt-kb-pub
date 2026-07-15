@@ -49,44 +49,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   teiginys: "Konstantino Sirvydo „Trijų kalbų žodynas“ (1620) lenkų kalbos žodžius aiškino lotyniškai, paskui lietuviškai."
   pagrindžia:
     - c-166778
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Niurnbergas, 1741 m.
-    vadinta „šauksmu tyruose“, nes vėlesni jo darbo tęsėjai nebekėlė tokių
-    tikslų. Nors sporadiškai lietuviškų knygų leidimas nenutrūko per visą Ba-
-    roko epochą, jų būta gerokai mažiau nei lenkiškų ar lotyniškų. Iškalbin-
-    gas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“
-    (1620).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Konstantino Sirvydo „Trijų kalbų žodynas“ (1620) lenkų kalbos žodžius aiškino lotyniškai, paskui lietuviškai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors sporadiškai lietuviškų knygų leidimas nenutrūko per visą Ba-
-    roko epochą, jų būta gerokai mažiau nei lenkiškų ar lotyniškų. Iškalbin-
-    gas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“
-    (1620). Jame, skirtame studijuojančiam jaunimui, lenkų kalbos žodžiai
-
-    L I E T U V O S  I S T O R I J A
-    74
-    aiškinami lotyniškai, o tik paskui lietuviškai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

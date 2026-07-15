@@ -43,31 +43,6 @@ media_all_json: |-
   pagrindžia:
     - c-45052
 - susijęs iš Kanevas: XVI a. vidurio Kanevo pilies aprašo padavime sakoma, kad Kanevą su Čerkasais įkūrė Gediminas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XVI a. vidurio Kanevo pilies padavime sakoma, kad Gediminas įkūrė Kanevą ir Cerkasus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    (į šiaurę nuo Kijevo), Kanevas, Cerkasai
-    (prie Dniepro žemiau Kijevo; xvi a. vidu-
-    rio Kanevo pilies aprašo išlikusiame pa-
-    davime sakoma, kad Kanevą su Čerkasais
-    įkūrė Gediminas).
-
-    Gedimino žygis, mūšis prie Irpenės ir
-    Kijevo užėmimas istoriografijoje datuotas
-    įvairiai, 1320-1321, 1322, 1323, 1324, 1333 m.,
-    pastaraisiais dešimtmečiais akcentuotos
-    dvi priešpaskutinės datos. Tarptautinių
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45052

@@ -40,29 +40,6 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   teiginys: "Daug sutarčių su Onka Hricevičiumi buvo Lietuvos Metrikos V knygoje prie 1505 metų įrašų."
   pagrindžia:
     - c-84438
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Daug sutarčių su Onka Hricevičiumi buvo Lietuvos Metrikos V knygoje prie 1505 metų įrašų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vilniaus mo­
-    netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis
-    energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­
-    tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52. Pa-
-    49
-    Daug sutarčių su tuo Onka yra Lie­
-    tuvos Metrikoje, V knygoje, prie
-    1505 metų.
-    50
-    Iki šiol Šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

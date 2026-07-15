@@ -40,21 +40,6 @@ Vartojamos formos: `šliuižiu`.
   teiginys: "Šliuižiai buvo pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių."
   pagrindžia:
     - c-09572
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pirmieji ratai kalnėnų ir žemaičių buvo ant dviejų tekinių, šliuižiu^275 vadinami, ant kurių javus ir
-        šieną iš pievų vežė bei į kelią keliavo, nesgi kitokių ratų negalėjo dėvėti dėl ankštumo ir šlapumo
-        kelio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

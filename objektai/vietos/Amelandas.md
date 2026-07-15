@@ -42,33 +42,12 @@ Pasak Narbuto, Fosas Austraviją, arba Glesariją, tapatino su fryzų sala Amela
 - susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191095|Plinijus Vyresnysis]]: Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.
 - susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190957|Plinijus]]: Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.
 - susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190784|Plinijus]]: Teodoro Narbuto teigimu, Plinijaus Baltija pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasak Narbuto, Fosas Austraviją, arba Glesariją, tapatino su fryzų sala Amelandu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kiek čia nepatikimumo!2
-    Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­
-    roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
-    Amelandu. Jam rūpėjo įrodyti, jog romėnų kariai rinkę
-    gintarą, todėl jis teigė, jog jo buvo turtinga visa vaka­
-    rinė Europos pakrantė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175686
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kiek čia nepatikimumo!2
     Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­

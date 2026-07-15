@@ -56,57 +56,6 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
   teiginys: "Po Teodoro mirties Maskvoje prasidėjo perversmų periodas, vadinamas didžiąja suirute (smuta)."
   pagrindžia:
     - c-166341
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Maskvoje tuomet prasidėjo per-
-    versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-    Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
-    jokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo
-    nebe puolančioji, bet puolamoji.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    su Lietuva, tačiau jam jau nebeteko kariauti, nes netrukus
-    (1584 m.) jis mirė. Po jo, 15 metų buvo caru jokiems dideliems
-    žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
-    pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
-    versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Po Teodoro mirties Maskvoje prasidėjo perversmų periodas, vadinamas didžiąja suirute (smuta).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po jo, 15 metų buvo caru jokiems dideliems
-    žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
-    pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
-    versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-    Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
-    jokio pavojaus Lietuvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 

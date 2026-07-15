@@ -27,15 +27,6 @@ media_all_json: |-
 
 Lenčicos seimas buvo sušauktas karaliui atleidus kryžiuočių žygūną.
 
-## Teiginiai
-
-<a id="claim-t-185452"></a>
-- t-001
-  global_id: t-185452
-  teiginys: "Lenčicos seimas buvo sušauktas karaliui atleidus kryžiuočių žygūną."
-  pagrindžia:
-    - c-168813
-- susijęs iš [[objektai/asmenys/Mikalojus Kurovskis.md#claim-t-186239|Mikalojus Kurovskis]]: Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,35 +48,13 @@ Lenčicos seimas buvo sušauktas karaliui atleidus kryžiuočių žygūną.
     pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
   citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Citatos
+## Teiginiai
 
-- id: c-168813
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Šitaip paprastai esti, kai vienoje
-    valstybėje gyvena skirtingos tautos, tada kiekvienai
-    rūpi savo reikalai, tada kiekviena baudžiasi tvarkyti
-    krašto reikalus taip, kad nuostolių turėtų kita tauta,
-    o ne ji pati. Gal vengdamas aiškaus atsakymo į kry­
-    žiuočių klausimą, gal norėdamas turėti laiko pasitarti,
-    373
-
-    ## Puslapis 372
-
-    karalius atsakė, kad jis viešpataująs valstybėje, kurio­
-    je svarbiais reikalais nieko negalįs nutarti be luomų
-    pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185452
+- susijęs iš [[objektai/asmenys/Mikalojus Kurovskis.md#claim-t-186239|Mikalojus Kurovskis]]: Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu.
+## Teiginiai

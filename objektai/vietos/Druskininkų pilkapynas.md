@@ -8,13 +8,13 @@ datos:
   - '1826 m.'
 date_start: '1819'
 date_end: '1826'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kapavietė
   - vieta
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,32 +49,8 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
   teiginys: "Narbutas mini chemiko raštelį, kuriame teigta, kad 1819 metais Druskininkų vandenyje aptikta bromo, bet pats šios žinios nepatvirtino."
   pagrindžia:
     - c-171823
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio smėlio atidengtą pilkapyną, kurį kaimiečiai siejo su stabmeldystės laikais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Senoviniuose kapuose su kaulais randama me­
-    talinių daiktų, amato įrankių, šarvų, šalmų, kalavijų, pinigų.
-    Gardino apskrityje^ prie Druskininkų kaimo, žinomo gydomojo
-    vandens šaltiniais , netoli nuo Nemuno, mačiau platų, dau­
-    giau kaip margo dydžio pilkapyną, vėjams nu pusčius smėlį,
-    beveik visiškai atvirą; kaimiečiai tuos kapus priskiria stabmel­
-    dystės laikams; pasakoja, kad, prie skeletų būdavo randama
-    labai senų pinigų ir visokių metalo gabalų. 1826 metais turė­
-    jau progą apžiūrėti šį lauką, nusėtą žmonių kaulais: visi kapai
-    išblaškyti, maža tokių, kuriuose būtų buvę galima įžiūrėti ko­
-    kią nors skeleto sandarą, bet pastebėjau, kad visi guli galvo­
-    mis į vakarus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas mini chemiko raštelį, kuriame teigta, kad 1819 metais Druskininkų vandenyje aptikta bromo, bet pats šios žinios nepatvirtino.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -103,8 +79,7 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
 - id: c-171822
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 374"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Senoviniuose kapuose su kaulais randama me­
     talinių daiktų, amato įrankių, šarvų, šalmų, kalavijų, pinigų.
@@ -128,20 +103,21 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
 - id: c-171823
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 374"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kaulai tiek supuvę, kad neradau nė vienos svei­
-    kos kaukolės; jos priklauso įvairaus amžiaus ir lyties asme­
-    nims; tuo mane įtikino apatiniai žandikauliai ir dantys, taip
-    pat ilgi plaukai po keliomis kaukolėmis, kurias atkasiau po 7
-    7
-    Lietuviškas šio kaimo pavadinimas lenkiškai reiškia Soleczniki.
-    Tenykščiuose mineraliniuose šaltiniuose esama kažkokių druskų, net
-    bromo, kaip sužinojau iš tyrimų vieno chemiko, kuris pas kaimietį
-    paliko vokišku raštu rašytą raštelį, kad 1819 metais susekęs tą sub­
-    stanciją Druskininkų vandenyje. Bet nežinau, kas jis buvo ir ar tai
-    teisybė.
+    tai yra Obelijos, ežeras. Abiejose šiose vietose randami ištisi že­
+    mės pylimai su pelenais, sudegusiais žmonių, naminių gyvulių
+    kaulais, kartais variniai, geležiniai, kartais net sidabriniai ir auk­
+    siniai daiktai, be to, esti akmeninių mažų smagračių, apie pušį
+    colio skersmens, gana stambių, iš svetimo akmens pagamintų ,
+    ietigalių, kirvių ir akmeninių galąstuvų, raktų, balno kilpų, pen­
+    tinų, adatų, stiklinių karoliukų, strėlių, kardų, šarvų liekanų ir
+    t. t. Aš turiu tokių radinių rinkinį, ypač iš Ukmergės Obelių, tai
+    yra gaisravietės, iš viso apie 150 daiktų. Viskas, ką tiktoje vietoje
+    galėjau ištyrinėti, mane įtikina, jog visų žymių žmonių kūnų, įvai­
+    riose vietose skirtų apeigoms, pelenai bei jų likučiai būdavo per­
+    nešami į Obeliją.
+  citata_rodoma: "Kaulai tiek supuvę, kad neradau nė vienos svei­\nkos kaukolės; jos priklauso įvairaus amžiaus ir lyties asme­\nnims; tuo mane įtikino apatiniai žandikauliai ir dantys, taip\npat ilgi plaukai po keliomis kaukolėmis, kurias atkasiau po 7\n7\nLietuviškas šio kaimo pavadinimas lenkiškai reiškia Soleczniki.\nTenykščiuose mineraliniuose šaltiniuose esama kažkokių druskų, net\nbromo, kaip sužinojau iš tyrimų vieno chemiko, kuris pas kaimietį\npaliko vokišku raštu rašytą raštelį, kad 1819 metais susekęs tą sub­\nstanciją Druskininkų vandenyje. Bet nežinau, kas jis buvo ir ar tai\nteisybė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

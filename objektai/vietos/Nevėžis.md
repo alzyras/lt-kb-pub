@@ -14,14 +14,14 @@ datos:
   - '2026 m.'
 date_start: '1384'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -78,15 +78,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   pagrindžia:
     - c-37602
 
-<a id="claim-t-187626"></a>
-- t-006
-  global_id: t-187626
-  teiginys: "Lietuvos metraštis pasakoja, kad žemaičiai susirinko anapus Nevėžio ir ketino stoti į mūšį su Kazimieru."
-  pagrindžia:
-    - c-170573
-
 <a id="claim-t-188792"></a>
-- t-007
+- t-006
   global_id: t-188792
   teiginys: "Narbutas perteikia Hartknocho nuomonę, kad Lietuvoje Kurko garbei kurstoma ugnis turėjusi degti prie Nevėžio."
   pagrindžia:
@@ -99,8 +92,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - susijęs iš [[objektai/asmenys/Vasibutas.md#claim-t-30407|Vasibutas]]: Vasibutas su Rumbaudu ir kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188428|Kristupas Hartknochas]]: Narbutas nurodo Hartknocho nuomonę, kad Lietuvoje Dievui Kurkui skirta nuolat kurstoma ugnis turėjo degti prie Nevėžio upės.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179099|Kryžiuočių ordinas]]: Vytautas Kaune be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176130|Žemaičiai]]: Gardino preliminarine sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo padėti statyti pilis.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176153|Žemaičiai]]: 1398 m. Gardino preliminariąja sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pažadėjo padėti statyti pilis.
 - susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-34452|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Kaune Vytautas be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus ir pažadėjo jam pagalbą.
 - susijęs iš Aukštaitija: Aukštaitiją nuo Žemaitijos skyrusi siena ėjo dešiniuoju Neries ir Nemuno pakraščiu nuo Nevėžio žiočių iki Kuršo.
 - susijęs iš Gaižuva: 1292 ir 1294 m. Ordino kariuomenė nusiaubė Gaižuvos sritį prie Nemuno dešiniojo kranto tarp Dubysos ir Nevėžio.
@@ -122,7 +113,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - susijęs iš Aukštaitija: Aukštaitiją nuo Žemaitijos skyrusi siena ėjo dešiniuoju Neries ir Nemuno pakraščiu nuo Nevėžio žiočių iki Kuršo.
 - susijęs iš Josvainiai: Šušvė įteka į Nevėžį ties Josvainiais.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-190845|Aleksandras Jogailaitis]]: Narbutas Aleksandrą Jogailaitį vadina karaliumi ir rašo, kad jo įsakymu pagoniškos šventyklos vietoje pastatyta filija.
-- susijęs iš [[objektai/asmenys/Gimbutas.md#claim-t-186110|Gimbutas]]: Gimbutui buvo paskirta valdyti Žemaitiją.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184267|Jogaila (kunigaikštis, XIV–XV a.)]]: 1413 m. Kauno saloje vykusiame Žemaitijos sienų suvažiavime dalyvavo Jogaila.
 - susijęs iš [[objektai/asmenys/Kūnas.md#claim-t-186135|Kūnas]]: Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio.
 - susijęs iš [[objektai/asmenys/Mykolas Kosakovskis.md#claim-t-190061|Mykolas Kosakovskis]]: Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu globėju, kurį esą rodė karūna.
@@ -133,7 +123,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - susijęs iš [[objektai/daiktai/Malūnas.md#claim-t-35536|Malūnas]]: Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178815|Kryžiuočių ordinas]]: Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178892|Kryžiuočių ordinas]]: Kryžiuočiai, užėmę Prūsiją, sunaikino Romuvą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184489|Kryžiuočių ordinas]]: Gedimino laikais kryžiuočiai iš pamatų sugriovė Romove vadintą sodybą, vėliau tapusią Krivės Krivaičio būstine.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190583|Lietuviai]]: Narbutas rašė, kad lietuviai turėjo dievams paskirtų kalnų, bet nežinojo tikrai lietuviškų pasakojimų apie Plikąjį kalną.
 - susijęs iš [[objektai/grupes/Rusinai.md#claim-t-189404|Rusinai]]: Narbutas Plikojo kalno pavadinimą siejo su rusinu, vienu iš miesto kolonistų, atgabentų iš Lietuvos Rusios kuriant Vilnių.
 - susijęs iš [[objektai/ivykiai/Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje.md#claim-t-189617|Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje]]: Narbutas rašo, kad karaliaus Aleksandro įsakymu prie Kražių, Medžiokalnyje, pagoniškos šventyklos vietoje buvo pastatyta filija.
@@ -300,36 +289,10 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   pagrindzia:
     - t-184313
 
-- id: c-170573
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Ir didysis kunigaikštis Kazimieras labai
-    susirūpino, kad Žemaičiai atkrito nuo Lietuvos Didžio­
-    sios Kunigaikštystės, ir tuoj pat rašė laiškus į visas sa­
-    vo valdas, visiems Didžiosios Kunigaikštystės pareigū­
-    nams, kad skubiai ruoštųsi karui, norėjo jėga susigrą­
-    žinti Žemaičius savo tėvonijon, kaip anksčiau kad
-    priklausė. Sutelkė nemenkas lietuvių pajėgas, patrau­
-    kė į Žemaičius ir apsistojo Kaune, o žemaičiai sujojo
-    ir sustojo anapus Nevėžio, ketindami stoti į mūšį su
-    didžiuoju kunigaikščiu Kazimieru I S .
-    Ir tuomet kreipėsi į didįjį kunigaikštį Kazimierą jo
-    globėjas Jonas Goštautas, sakydamas: „Valdove, kuni­
-    gaikšti Kazimierai.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187626
-
 - id: c-171681
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 224."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dievo Kurko garbei taip pat degė nuolat kurstoma ug­
     nis, ypač Prūsuose, didelėje to dievo šventovėje Šventamiesty-

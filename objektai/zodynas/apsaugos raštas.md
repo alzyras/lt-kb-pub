@@ -53,45 +53,6 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
   teiginys: "Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. laivu nuvyko iki Christmemelio salos."
   pagrindžia:
     - c-38718
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Galų gale po ilgo delsimo, 1383 metų vasarą turėjo
-    įvykti Ordino magistro ir Jogailos susivažiavimas. Gavęs Jogai­
-    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
-    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
-    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
-    no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
-    apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
-    sos įtakos į Nemuną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taip pat į
-    Ordino paklausimą dėl Lietuvos krikšto Jogaila visai nekreipė
-    dėmesio. Galų gale po ilgo delsimo, 1383 metų vasarą turėjo
-    įvykti Ordino magistro ir Jogailos susivažiavimas. Gavęs Jogai­
-    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
-    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
-    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
-    no seklumo esą nebegalima toliau plaukti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

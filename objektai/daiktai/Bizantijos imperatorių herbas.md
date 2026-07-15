@@ -71,27 +71,6 @@ Nenurodyta
   teiginys: "Jonas III, laikydamas save žlugusios Bizantijos imperijos paveldėtoju, pasisavino jos dvigalvį erelį ir dvaro ceremonialą."
   pagrindžia:
     - c-30986
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jonas III, laikydamasis Bizantijos paveldėtoju, pasisavino Bizantijos dvigalvį erelį ir imperatoriaus dvaro ceremonialą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tik Maskvos didžiajam Kunigaikščiui Jonui III, Sofijos Vytau­
-    taitės anūkui (1462-1505), jau nebebuvo baisi eižėjanti Aukso Orda.
-    Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­
-    sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą,
-    Jonas III-sis jau savinosi ir caro titulą. O «antrajai Romai »
-    (Konstantinopoliui) kritus, Maskva turėjo įkūnyti «trečiąją Ro­
-    mą», «o ketvirtosios Romos (iš viso) nebegalėjo būti»^11.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

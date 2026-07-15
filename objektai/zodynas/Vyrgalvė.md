@@ -51,20 +51,6 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
   teiginys: "`Vyrgalvė / vyrgulda` šiame tekste reiškia išpirką už užmušto vyro galvą."
   pagrindžia:
     - c-09640
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Jei viens antrą užmušė, tad užmuštojo gentims valna buvo senovėj užmušti patį užmušėją ar jo visų artimąjį gentį, kaip viršiau minavojau; jei užmušėjas juos numaldė, tad jis užmuštojo gentims turėjo atguldyti^1122 pinigais už užmuštojo galvą, kurie pinigai, arba mokesnis, vadinos vyrgalve, arba vyrgulda, kursai žodis paeina nuo vyro ir galvos arba nuo vyro ir žodžio guldyti, arba nuo žodžio vokiško geld – pinigai, beje, mokesnis už vyrišką galvą, nesgi senovėj vyriška galva daug didžiau buvo branginama, nekaip motriškos, kaipo patarlė, viršiau minavota, šiandien dar tą rodo: „Ožka, – sako, – ne gyvulys, merga ne šeimyna.“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -80,5 +66,5 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07712
     - t-07711
+    - t-07712

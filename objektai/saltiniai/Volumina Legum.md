@@ -50,36 +50,6 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   teiginys: "„Volumina legum“ šeši tomai buvo išleisti Peterburge 1859 m."
   pagrindžia:
     - c-37269
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Volumina legum“ šeši tomai buvo išleisti Peterburge 1859 m.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vol. 1. = Volumina legum, 6 t., Petersburg 1859.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po seimo paprastai jie būdavo išspaus-
-    dinami ir pranešami visam kraštui. Vėliau, XVIII amžiuje, visos
-    konstitucijos buvo surinktos ir išspausdintos specialiuose rinki-
-    niuose, vadinamuose **_Volumina Legum._** Jų tada buvo iš viso iš-
-    spausdinta 8 tomai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

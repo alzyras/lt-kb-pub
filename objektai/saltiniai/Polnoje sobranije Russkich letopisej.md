@@ -43,21 +43,6 @@ media_all_json: |-
   teiginys: "„Polnoje sobranije Russkich letopisej“ XVII tomą 1907 m. Sankt Peterburge išleido Imperatoriškoji archeologijos komisija."
   pagrindžia:
     - c-36150
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pol. sobr. = Polnoje sobranije Russkich letopisej. Izdanije
-    Imperatorskoj Archeologičeskoj Komis. Tom XVII.
-    S.-Peterburg, 1907.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

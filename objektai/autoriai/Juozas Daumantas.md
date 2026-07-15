@@ -43,30 +43,6 @@ Maksimaliai išvystyti sėkmę puolimo metu partizanams sutrukdė menka daugelio
   teiginys: "Maksimaliai išvystyti sėkmę puolimo metu partizanams sutrukdė menka daugelio puolimo dalyvių patirtis tokio pobūdžio operacijose ir labai silpna koordinacija ŠAUDYMAS PER DURIS Juozas Daumantas savo prisiminimuose pasakoja apie Tauro apygardos partizanų."
   pagrindžia:
     - c-176470
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Maksimaliai išvystyti sėkmę puolimo metu partizanams sutrukdė menka daugelio puolimo dalyvių patirtis tokio pobūdžio operacijose ir labai silpna koordinacija ŠAUDYMAS PER DURIS Juozas Daumantas savo prisiminimuose pasakoja apie Tauro apygardos partizanų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Maksimaliai išvystyti sėkmę puolimo metu
-    partizanams sutrukdė menka daugelio
-    puolimo dalyvių patirtis tokio pobūdžio
-    operacijose ir labai silpna koordinacija
-
-    ŠAUDYMAS PER DURIS
-
-    Juozas Daumantas savo prisiminimuose pasakoja apie Tauro apygardos partizanų
-    pasisvečiavimą pas ūkininką per 1945 m. Kalėdas, kuris pasibaigė susišaudymu. Šioje
-    ištraukoje matyti, kokį pranašumą suteikia kulkosvaidžių šautuviniai šoviniai, prieš pis-
-    toletų-kulkosvaidžių šovinius, kurių kulkos, sutikusios kliūtį, greitai praranda energiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

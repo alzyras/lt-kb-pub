@@ -35,8 +35,8 @@ Narbutas rašo, kad Ksaveras Bogušas panašios rūšies dievybei davė Magilos 
   teiginys: "Narbutas rašo, kad Ksaveras Bogušas panašios rūšies dievybei davė Magilos (Magilla) vardą ir aiškino ją kaip pykčio deivę."
   pagrindžia:
     - c-172183
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Ksaveras Bogušas panašios rūšies dievybei davė Magilos (Magilla) vardą ir aiškino ją kaip pykčio deivę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -63,18 +63,22 @@ Narbutas rašo, kad Ksaveras Bogušas panašios rūšies dievybei davė Magilos 
 - id: c-172183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 148."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Gaila (Gajia)
-    Anot liaudies padavimų, prie piktųjų būtybių giminės pri­
-    klausė kažkokios moteriškos šmėklos, kankinančios žmones
-    ir gyvulius .
-    F. Noelis straipsnyje „Gajlau“ sako: „Arabai šitaip vadino
-    tam tikros rūšies miškų demonus, kurie žudydavo žmones ir
-    gyvulius“.
-    Atrodo, panašios rūšies dievybei Ksaveras Bogušas davė
-    Magilos (Magilla) vardą; jis reiškiąs pykčio deivę .
+    Powiedz przešliczne boztwo Wiliej rzeki
+    Nimfom (b) twym siostrom, boginiom podwodnym:
+    25 Štai šio nedidelio kūrinėlio pavadinimas: „Ašaringas vaizdas
+    baisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo
+    Karališkosios Malonybės Vilniaus miesto dukartinį sudeginimą. Pir­
+    mą kartą dėl nekrikšto žydo Rubino kaltės 1748 metų birželio 11
+    dieną, tarytum iš pragaro gilumos išsiveržus liepsnai iš alaus daryk­
+    los Užupyje; antrą kartą 1749 metų birželio 8 dieną iš Subačiaus prie­
+    miesčio, iš pono Gregoravičiaus dvarelio, virtusio pelenais, nuo žie­
+    žirbos iš nepaprasta liepsna užsidegusio kamino. To Vilniaus miesto
+    gerovei antrą kartą išleistas Viešpaties 1753 metais per Bazilį Boni­
+    facą Jakimavičių (Jachimowicz) ketvirčio lapo formato, nenumeruo­
+    tų puslapių 60, to meto nuorašas ranka“.
+  citata_rodoma: "Gaila (Gajia)\nAnot liaudies padavimų, prie piktųjų būtybių giminės pri­\nklausė kažkokios moteriškos šmėklos, kankinančios žmones\nir gyvulius .\nF. Noelis straipsnyje „Gajlau“ sako: „Arabai šitaip vadino\ntam tikros rūšies miškų demonus, kurie žudydavo žmones ir\ngyvulius“.\nAtrodo, panašios rūšies dievybei Ksaveras Bogušas davė\nMagilos (Magilla) vardą; jis reiškiąs pykčio deivę ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -55,26 +55,6 @@ Nenurodyta
   teiginys: "Anot Dlugošo, Jogaila prieš kautynes delsė, meldėsi, klausė mišių ir norėjo taikytis."
   pagrindžia:
     - c-33450
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nesulauk­
-    damas tačiau priešo atakos, Jungingenas atsiuntė Jogailai ir Vy­
-    tautui po nuogą kalaviją, siūlydamas « nesislapstyti krūmuose » ir
-    tuoj pradėti muši »^22.
-    Anot Dlugošo, Jogaila delsęs, buvęs neryžtingas, meldęsis —
-    klausęs mišių ir norėjęs taikytis^23. Matyti, sąjungininkai stengėsi
-    puolimo iniciatyvą palikti ordino kariuomenei, kad ji butų išviliota
-    iš savo gerų pozicijų^24.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

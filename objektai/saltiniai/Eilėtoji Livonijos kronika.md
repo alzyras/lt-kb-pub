@@ -4,10 +4,12 @@ pavadinimas: 'Eilėtoji Livonijos kronika'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1247 m.'
   - '1259 m.'
+  - '1330 m.'
   - '1368 m.'
   - '1369 m.'
   - '1372 m.'
@@ -94,152 +96,13 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   teiginys: "Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių."
   pagrindžia:
     - c-167970
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšis
-
-    Eiliuotoji Livonijos kronika pasakoja: „Bet
-    kariuomenė lietuvių susirinko galinga.
-    Surengę pasitarimą, <...> iš paskos krikš-
-    čionims ėjo ir žygiuodama vis didėjo“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197017"></a>
+- t-008
+  global_id: t-197017
+  teiginys: "Tarp jų ypatingą vietą užima Petro iš Dusburgo „Prūsijos žemės kronika“, pateikianti daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir jo sąjungininkų agresiją XIII—XIV a."
   pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: '1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Matyt, nutarę vengti lemiamo mūšio,
-    Algirdas ir Dmitrijus sudarė taiką („Dievas
-    išklausė jų maldų ir dovanojo taiką ir išsi-
-    gelbėjimą nuo mirties“ - pažymi rusų me-
-    traštininkas), todėl kariuomenės patraukė
-
-    LYGIAGREČIOS KOVOS SU KRYŽIUOČIAIS
-
-    Žygis į Livoniją. Ištrauka iš „Livonijos kronikų“, kaip Algirdas įsiveržęs į priešo
-    teritoriją nuniokoja dvi žemes.
-
-    „1369 m. [...] Per tuos įvykius Algirdas (Algerde), lietuvių karalius (rex Letwinorum), tuo-
-    met, kada magistras ir krašto maršalas buvo išvykę (prieš rusus), nuniokojo Aizkrauklės ir
-    Cisegalės žemes, taip pat ir Pepholto moterų vienuolyno nuosavybę. [...] Ir taip karalius
-    su grobiu ir belaisviais grįžo atgal.“
-
-    Ištrauka iš „Livonijos kronikų“, kaip Lietuvos karaliai užėmė ką tik Ordino pastatytą
-    Gotesverderio pilį prie Nemuno.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-003
-  santrauka: 'Eiliuotoji Livonijos kronika prie Skuodo mūšio mini žemaičius, o Durbės mūšio išvakarėse ir mūšyje - lietuvius arba pagonis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvių pajėgos
-
-    Eiliuota Livonijos kronika, aprašydama
-    Skuodo mūšį (1259 m.), mini žemaičius,
-    bet vėliau, Durbės mūšio išvakarėse, prie
-    Vartajų, Georgenburgo ir pačiame mū-
-    šyje — tik lietuvius arba „pagonis“.
-
-    P. Dusburgietis pažymi, kad „keturi
-    tūkstančiai lietuvių“ niokojo Kuršo žemę,
-    0 po to stojo į mūšį. Pasak Z. Ivinskio,
-    kadangi tai ne lokaliniai, o plataus masto
-    veiksmai, vykę Lietuvos vakaruose, tai
-    4000 lietuvių pajėgas reikia suprasti kaip
-    jungtines žemaičių ir paties Lietuvos val-
-    dovo karaliaus Mindaugo karines pajėgas,
-    nukreiptas prieš Ordiną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Beveik trečdalį savo
-    kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­
-    tinės Livonijos kronikos autorius Žemaičius tapatino su lietuviais
-    (« den Lettowen, die Sameiten sin genannt », eil. 4466).
-    Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
-    Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-004
-
-- c-005
-  santrauka: 'Tautvilas, remiamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kai
-    Jo k a ra i k a rtu  su Li-
-    Kurše patyrė abipusius pra-
-    v o n ijo s  ord in u
-    laimėjimus ir Livonijos ma­
-    gistras Ditrichas, ir Mindau­
-    gas, Tautvilas, padedamas Livonijos ir Polocko pulkų,
-    užpuolė savo dėdę pačioje Lietuvoje, kur, niekam ne­
-    pastojus kelio, plačiai pasklidusi jo kariuomenė netruk­
-    doma plėšikavo; nusiaubęs visą Lietuvą kalaviju ir
-    ugnimi, jis be mūšio ir var-
-    1247 m e ta i
-    go išsigabeno į Polocką di­
-    džiulį grobį. Po to jis dar ke­
-    letą kartų sėkmingai nuniokojo kraštą. Pasak Livonijos
-    kronikos, Žiemgaloje atėję šiai žemei į pagalbą žemai­
-    čiai buvo smarkiai sumušti riterių magistro.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-006
-  santrauka: 'Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėl­
-    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
-    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
-    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
-    sako Livonijos metraštis, žemaičiai ir lietuviai prie
-    Eželio ant ledo kovojo su Livonijos magistru Otonu,
-    magistras žuvo su penkiasdešimčia šio ordino brolių.
-    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
-    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
-    ir žuvo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
+    - c-179003
 
 ## Citatos
 
@@ -344,13 +207,12 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 - id: c-167969
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 99"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 99."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kai
-    Jo k a ra i k a rtu  su Li-
+    Jo k a ra i k a rtu su Li-
     Kurše patyrė abipusius pra-
-    v o n ijo s  ord in u
+    v o n ijo s ord in u
     laimėjimus ir Livonijos ma­
     gistras Ditrichas, ir Mindau­
     gas, Tautvilas, padedamas Livonijos ir Polocko pulkų,
@@ -374,22 +236,49 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 - id: c-167970
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 131"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vis dėl­
-    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
-    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
-    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
-    sako Livonijos metraštis, žemaičiai ir lietuviai prie
-    Eželio ant ledo kovojo su Livonijos magistru Otonu,
-    magistras žuvo su penkiasdešimčia šio ordino brolių.
     Tokio pat likimo susilaukė jo įpėdinis Andrius fon
     Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
-    ir žuvo.
+    ir žuvo. Netrukus po to Lietuvoje baigė dienas ir Ger­
+    mantas. Sukvietus Kernavėje didikų sueigą, Germanto
+    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
+    valdovu, jo broliui Trobiui
+    patikėta Žemaitija su ta są­
+    lyga, kad jis bus pavaldus
+    Lietuvos didžiajam kunigaik­
+    ščiui. Rūmų maršalas, para­
+    ginęs vieną bei kitą siekti ir
+    karo, ir taikos metu tokios pat santarvės bei šlovės,
+    kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
+    bei lazdą.
+  citata_rodoma: "Vis dėl­\nto markgrafas, nenorėdamas, kad atrodytų, jog jis vel­\ntui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­\nnai vadinamas Brandenburgu. Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184609
+
+- id: c-179003
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
+    daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
+    jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
+    Kad geriau suvoktume kronikoje vaizduojamus Prūsijos ir Lietuvos istorijos faktus
+    bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
+    lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
+    klausimai.
+    Prūsai ir Lietuva
+    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
+    vientisumas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197017

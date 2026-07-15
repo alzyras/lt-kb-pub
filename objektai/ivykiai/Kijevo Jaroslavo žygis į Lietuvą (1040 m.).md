@@ -76,47 +76,6 @@ Nenurodyta
   teiginys: "Ivinskio vertinimu, 1040 m. Jaroslavo žygis į Lietuvą rodo, kad lietuviai tuo metu nepripažino Kijevo viršenybės."
   pagrindžia:
     - c-04988
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pažymėjimas,
-    kad nužudymas įvykęs Lietuvos — Rusijos pasienyje (greičiausiai
-    prie Gardino — Nemuno, jotvingių žemėje), leidžia daryti išvadą,
-    jog jau XI amž. pradžioje ir Vakaruose buvo žinoma, kur prasi­
-    deda Lietuvos ribos. Tada Lietuvos vardas jau turėjo būti gerai
-    žinomas ir rytiniams slavams. Štai, XII amž. pradžioje surašyta
-    «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.
-    darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­
-    kyta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  santrauka: 'Ivinskio vertinimu, 1040 m. Jaroslavo žygis į Lietuvą rodo, kad lietuviai tuo metu nepripažino Kijevo viršenybės.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1040 m. Jaroslavo karo žygis į Lietuvą yra kaip tik
-    įrodymas, kad tuo metu lietuviai nepripažino Kijevo viršenybės.
-    Bet šitame žygyje, kaip ir dveji metai anksčiau prieš jotvingius
-    (1038), Jaroslavas, matyti, neturėjo pergalės, nes kitaip kronikinin­
-    kas nebūtų nutylėjęs žygio išdavų, pridėdamas bent vieną žodį
-    « nugalėjo » ar « nukariavo ».
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -140,8 +99,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47771
     - t-47770
+    - t-47771
 
 - id: c-04988
   autorius: "Zenonas Ivinskis"

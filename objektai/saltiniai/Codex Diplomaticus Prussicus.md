@@ -55,36 +55,6 @@ media_all_json: |-
   teiginys: "„Codex Diplomaticus Prussicus“ I tomas išleistas Karaliaučiuje 1836 m."
   pagrindžia:
     - c-37189
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Codex Diplomaticus Prussicus“ I tomas išleistas Karaliaučiuje 1836 m.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    C. D. Prus. = Codex Diplomaticus Prussicus. I B., Koenigsberg,
-    1836.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    CB = Commentationes Balticae, Jahrbuch des Baltischen For­
-    schungsinstituts, t. 1-13, Bonn 1954-67.
-    CDPr = Codex Diplomaticus Prussicus, išl. J. Voigt, t. 3-6 (1299-
-    1404), Karaliaučius 1848-1861.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

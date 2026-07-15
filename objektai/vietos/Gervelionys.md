@@ -34,8 +34,8 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
   teiginys: "Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas, apačioje siekęs penkias uolektis."
   pagrindžia:
     - c-171837
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas, apačioje siekęs penkias uolektis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -60,16 +60,20 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
 - id: c-171837
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 240."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tikriausiai tai davė dingstį laikyti blindę šventa ir ma­
-    nyti, kad ji galinti turėti įtakos vaisingumui.
-    VINKŠNA, Winkszna. Netoli nuo mano kaimo, Gervelio-
-    nių (Gerwielancy) akalicoje, vieno bajoro sode tebėra labai
-    senos vinkšnos kelmas; jo skersmuo apačioje siekia penkias
-    uolektis; prieš 30 metų medis nulūžo; buvo nudžiūvęs nuo ne­
-    atmenamų laikų.
+    Vilniuje praeito amžiaus pabaigoje kasant duobes kated­
+    ros bažnyčios pamatams, žemėje buvo rastas rūsys, kuris buvo
+    pilnas panašių dalykų. Tokie atradimai primena paprotį už­
+    kasti žemėje aukų likučius požemio dievų garbei. O rūsys bu­
+    vo pastovus aukuras tos rūšies dievybėms, nes joms skirti au­
+    kurai būdavo giliau žemėje.
+    Stabai (W ejdos)
+    Amžių pradžioje dievų stabai nevaizdavo jokių gyvų būty­
+    bių; garbinimo objektai labai dažnai būdavo nedailus medžio
+    gabalas, keisto pavidalo akmuo arba kokio nors metalo gaba­
+    las.
+  citata_rodoma: "Tikriausiai tai davė dingstį laikyti blindę šventa ir ma­\nnyti, kad ji galinti turėti įtakos vaisingumui.\nVINKŠNA, Winkszna. Netoli nuo mano kaimo, Gervelio-\nnių (Gerwielancy) akalicoje, vieno bajoro sode tebėra labai\nsenos vinkšnos kelmas; jo skersmuo apačioje siekia penkias\nuolektis; prieš 30 metų medis nulūžo; buvo nudžiūvęs nuo ne­\natmenamų laikų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

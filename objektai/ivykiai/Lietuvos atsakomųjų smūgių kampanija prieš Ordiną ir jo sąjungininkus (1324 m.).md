@@ -58,32 +58,13 @@ Nenurodyta
   teiginys: "1324 m. Gedimino Lietuva puolė Kristmemelio pilį, niokojo Rezeknės apylinkes Livonijoje ir smogė Ordino sąjungininkei Mazovijai."
   pagrindžia:
     - c-63693
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1324 m. Gedimino Lietuva puolė Kristmemelio pilį, niokojo Rezeknės apylinkes Livonijoje ir smogė Ordino sąjungininkei Mazovijai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324
-    m. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio
-    mėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija. Pastaroji
-    pulta dėl to, kad buvo Ordino sąjungininkė. Vis dėlto nuo 1324 m. pabaigos kuriam
-    laikui tarp Lietuvos ir Ordino nusistovėjo taika.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63693
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 14"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324
     m. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio

@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Teodoro Narbuto aiškinimu, alanai darė įtaką kai kurioms lietuvių genties tautoms, bet stavanai ir galindai savo žemėse gyveno dar iki alanų kaimynystės.
+Teodoro Narbuto aiškinimu, alanai darė įtaką kai kurioms lietuvių genties tautoms, bet stavanai ir galindai savo žemėse gyveno dar iki alanų kaimynystės. Atvirkščiai, galima sutikti, kad jie at klydo iki Baltijos jūros pakrančių tais laikais, kai Eraz mas Stela nori kildinti lietuvių susiformavimą iš atariu ordos, t.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -40,14 +40,21 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-197547"></a>
+- t-002
+  global_id: t-197547
+  teiginys: "Atvirkščiai, galima sutikti, kad jie at klydo iki Baltijos jūros pakrančių tais laikais, kai Eraz mas Stela nori kildinti lietuvių susiformavimą iš atariu ordos, t."
+  pagrindžia:
+    - c-179240
+
 <a id="claim-t-191032"></a>
 - t-001
   global_id: t-191032
-  teiginys: "Teodoro Narbuto aiškinimu, alanai darė įtaką kai kurioms lietuvių genties tautoms, bet stavanai ir galindai savo žemėse gyveno dar iki alanų kaimynystės."
+  teiginys: 'Teodoro Narbuto aiškinimu, alanai darė įtaką kai kurioms lietuvių genties tautoms, bet stavanai ir galindai savo žemėse gyveno dar iki alanų kaimynystės.'
   pagrindžia:
     - c-173914
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinimu, alanai darė įtaką kai kurioms lietuvių genties tautoms, bet stavanai ir galindai savo žemėse gyveno dar iki alanų kaimynystės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -81,33 +88,26 @@ Nenurodyta
 
 ## Citatos
 
-- id: c-173914
+- id: c-179240
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tad mes skyrėme daug dėme­
-    sio, kad pažintume alanus; skaitytojas jau susipažino su
-    surinktomis žiniomis apie tas gentis, kurias čia dar pa­
-    pildysime; tačiau suprantame, jog jis kartu su mumis įsi­
-    tikins šios nuomonės klaidingumu.
-    191
-    Iš tiesų negalima neigti, kad alanai turėjo didelę ir
-    svarią įtaką kai kurioms lietuvių genties tautoms; bet jos
-    jau seniai gyveno savo šiandienėje žemėje iki tų laikų,
-    kai alanai pasirodė Europoje ir po kažkiek metų tapo jų
-    kaimynais. Istorija gana aiškiai liudija, kad alanai buvo
-    Ptolemėjo Stavanijos ir Galindijos kaimynai, vadinasi, "
-    stavanai ir galindai, kuriuos laikome lietuvių genties tau­
-    tomis, gyveno savo vietose iki anų atvykimo jų kaimynys-
-    190
-
-    ## Puslapis 188
-
-    lėn.
+    Atvirkščiai, galima sutikti, kad jie at­
+    klydo iki Baltijos jūros pakrančių tais laikais, kai Eraz­
+    mas Stela nori kildinti lietuvių susiformavimą iš atariu
+    ordos, t. y. IV krikščioniškosios eros amžiuje1. Taip pat
+    mes neneigsime šio autoriaus nuomonės, kad buvusi lie-
+    tuvių-alanų tauta, vadinama litalarrais, kuri visiškai ga­
+    lėjo susidaryti iš lietuvių ir alanų mišinio. Sutiksime net
+    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
+    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
+    gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
+    vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
+    ri dabar sudaro Ukmergės apskritį*.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191032
+    - t-197547

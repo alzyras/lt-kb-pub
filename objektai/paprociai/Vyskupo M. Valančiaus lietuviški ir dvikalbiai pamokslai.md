@@ -84,49 +84,6 @@ Nenurodyta
   teiginys: "Motiejus Valančius rūpinosi, kad kunigai mokėtų lietuviškai, sakytų lietuviškus pamokslus ir prie bažnyčių steigtų lietuviškas mokyklas."
   pagrindžia:
     - c-73202
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Savo pirmąjį inaugura-
-    cinį pamokslą vyskupas M. Valančius sakė ir lietuviškai, ir lenkiškai. Lie-
-    tuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo
-    bene pirmą kartą.
-    M. Valančius pasirūpino, kad
-    kunigai turėtų pagarbų požiūrį į
-    lietuviškai kalbančią liaudį, gerai
-    išmoktų lietuviškai ir sakytų pa-
-    mokslus lietuviškai, davė nurody-
-    mą kunigams prie bažnyčių steigti
-    lietuviškas mokyklas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-002
-  santrauka: 'Vyskupas Motiejus Valančius pirmąjį inauguracinį pamokslą sakė lietuviškai ir lenkiškai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Romantikas S. Daukantas savo
-    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
-    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
-    europietiškos katalikiškos civilizacijos šalininkas. Savo pirmąjį inaugura-
-    cinį pamokslą vyskupas M. Valančius sakė ir lietuviškai, ir lenkiškai. Lie-
-    tuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo
-    bene pirmą kartą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 ## Citatos
 
@@ -151,8 +108,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75406
     - t-75405
+    - t-75406
+    - t-75408
 
 - id: c-73203
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -171,4 +129,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-75404
     - t-75407

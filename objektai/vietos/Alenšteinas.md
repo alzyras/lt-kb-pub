@@ -58,26 +58,6 @@ media_all_json: |-
 - susijęs iš Lotzenburgas: Lotzenburgas buvo viena iš Lietuvai artimesnių pilių, įkurta apie 1340 m.
 - susijęs iš Rastenburgas: Rastenburgo pilis buvo įkurta 1345 m.
 - susijęs iš Röselis: Röselio pilis priskiriama prie Lietuvai artimesnių pilių ir nurodoma įkurta 1337 m.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kariuomenės taryba nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Toji pati taryba turėjo išspręsti ir tolimesnį kariuome­
-    nių žygiavimą. Buvo nutarta pasitraukti kiek atgal, paskui ei­
-    ti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos
-    upę ir, nors tolimesniu keliu, pasiekti Marienburgą. Buvo tuo­
-    jau surasti vadovai ir nustatytas kelias.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-37285

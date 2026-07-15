@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
+Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija. Kojelavičiaus pasakojime Giliginui kalavijo ir lazdos įteikimas reiškė vainikavimo paprotį ir valdžios suteikimą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,51 +47,36 @@ Nenurodyta
   teiginys: "Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija."
   pagrindžia:
     - c-169073
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
-    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
-    ir žuvo. Netrukus po to Lietuvoje baigė dienas ir Ger­
-    mantas. Sukvietus Kernavėje didikų sueigą, Germanto
-    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
-    valdovu, jo broliui Trobiui
-    patikėta Žemaitija su ta są­
-    lyga, kad jis bus pavaldus
-    Lietuvos didžiajam kunigaik­
-    ščiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196179"></a>
+- t-002
+  global_id: t-196179
+  teiginys: "Kojelavičiaus pasakojime Giliginui kalavijo ir lazdos įteikimas reiškė vainikavimo paprotį ir valdžios suteikimą."
   pagrindžia:
-    - t-001
+    - c-169073
 
 ## Citatos
 
 - id: c-169073
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 131"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
-    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
-    ir žuvo. Netrukus po to Lietuvoje baigė dienas ir Ger­
-    mantas. Sukvietus Kernavėje didikų sueigą, Germanto
-    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
-    valdovu, jo broliui Trobiui
-    patikėta Žemaitija su ta są­
-    lyga, kad jis bus pavaldus
-    Lietuvos didžiajam kunigaik­
-    ščiui.
+    Rūmų maršalas, para­
+    ginęs vieną bei kitą siekti ir
+    karo, ir taikos metu tokios pat santarvės bei šlovės,
+    kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
+    bei lazdą. Šitoks nesudėtingas tada buvo vainikavimo
+    paprotys, kuriuo valdovui suteikdavo aukščiausiąją ga­
+    lią žiūrėti valstybės reikalų ir viduje, ir svetur. Gili­
+    ginas valdė ne ilgiau kaip trejus metus: bemaž nieko
+    įsidėmėtina tais laikais neįvyko, išskyrus kelis nioko­
+    jamus žygius į Lenkiją, tiesa, ir juos ne visus sumini
+    rašytojai.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185712
+    - t-196179

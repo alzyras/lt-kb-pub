@@ -43,49 +43,6 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
   pagrindžia:
     - c-24590
 
-<a id="claim-t-71981"></a>
-- t-003
-  global_id: t-71981
-  teiginys: "Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų."
-  pagrindžia:
-    - c-24589
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vieninte-
-    lis privilegijuotas visuomenės luomas – bajorai, turėję politines teises ir
-    siuntę savo atstovus į Seimą. Kadangi šie atstovai rinkdavo net valdovą,
-    gali susidaryti įspūdis, jog ir santvarka – jau nebe monarchija, o respu-
-    blika (juo labiau kad oficialiai valstybė taip ir vadinosi). Tai reikštų, kad
-    Vienas didingiausių ir puošniausių LDK baroko
-    interjerų – Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios
-    interjeras (XVII a. antra p.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-
-- c-002
-  santrauka: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia priskiriama europinės reikšmės kūriniams.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv. Kazimie-
-    ro koplyčia, Vilniaus Šv. Petro ir Povilo bažnyčia ar Pažaislio vienuolyno
-    ansamblis prie Kauno.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-24589
@@ -108,7 +65,6 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71981
-    - t-71983
 
 - id: c-24590
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

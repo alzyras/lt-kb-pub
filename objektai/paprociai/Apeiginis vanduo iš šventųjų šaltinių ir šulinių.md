@@ -65,8 +65,8 @@ Nenurodyta
   teiginys: "Narbutas, remdamasis Dusburgiečiu, rašo, kad krikščionims nebuvo leidžiama prieiti prie apeiginių šventųjų šaltinių."
   pagrindžia:
     - c-170999
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -91,16 +91,16 @@ Nenurodyta
 - id: c-170999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 277"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 277."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
-    šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
-    apiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­
-    mas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie
-    tai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad
-    krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
-    šaltinių. Toks šaltinis vadinosi šulinys (Szulnis).
+    dintas kriviu3, kurį gerbė kaip popiežių, nes kaip mūsų Šven­
+    tasis tėvas valdo visuotinę bažnyčią, taip šis vadovavo stab­
+    meldžiams. Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­
+    viai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­
+    toritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir
+    jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
+    giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
+    davo karalių, ponų ir prastuomenės didžios pagarbos.
   citata_rodoma: "Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji\nšuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame\napiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­\nmas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie\ntai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad\nkrikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių\nšaltinių. Toks šaltinis vadinosi šulinys (Szulnis)."
   statusas: verified
   teiginio_tipas: faktas

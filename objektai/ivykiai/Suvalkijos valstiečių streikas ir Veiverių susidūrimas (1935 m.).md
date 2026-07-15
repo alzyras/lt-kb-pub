@@ -57,26 +57,6 @@ Nenurodyta
   teiginys: "1935 m. Suvalkijos valstiečiai paskelbė streiką po „Pienocentro“ supirkimo kainų sumažinimo, o policija Veiveriuose nušovė tris valstiečius."
   pagrindžia:
     - c-23236
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1935 m. Suvalkijos valstiečiai paskelbė streiką po „Pienocentro“ supirkimo kainų sumažinimo, o policija Veiveriuose nušovė tris valstiečius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žemės ūkio
-    ir pramonės augimas buvo nepakankamas greitam pragyvenimo lygio
-    pakilimui, daugybė smulkių ūkių išvaržyti. 1935 m. „Pienocentras“, su-
-    pirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo
-    kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
-    į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija
-    Veiveriuose nušovė tris valstiečius, šimtus areštavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

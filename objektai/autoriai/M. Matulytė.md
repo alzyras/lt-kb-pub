@@ -43,21 +43,6 @@ Matulytė.
   teiginys: "M. Matulytė sudarė leidinį „Vilniaus fotografija, 1858–1915“, išleistą Vilniuje 2001 m."
   pagrindžia:
     - c-22160
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius, 2010; Vilniaus
-    fotografija, 1858–1915. Sud. M. Matulytė. Vilnius, 2001; Vilniaus klasicizmas: parodos
-    katalogas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

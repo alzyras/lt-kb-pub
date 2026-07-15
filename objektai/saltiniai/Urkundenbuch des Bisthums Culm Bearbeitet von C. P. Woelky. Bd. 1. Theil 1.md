@@ -42,29 +42,13 @@ Dusburgietis teigia, kad urkundenbuch des Bisthums Culm / Bearbeitet von C.
   teiginys: "C. P. Woelky parengto „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmoji dalis išleista Dancige 1887 m."
   pagrindžia:
     - c-61962
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'C. P. Woelky parengto „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmoji dalis išleista Dancige 1887 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Urkundenbuch des Bisthums Culm / Bearbeitet von C. P. Woelky. Bd. 1. Theil 1.—
-    Danzig, 1887.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61962
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Urkundenbuch des Bisthums Culm / Bearbeitet von C. P. Woelky. Bd. 1. Theil 1.—
     Danzig, 1887.

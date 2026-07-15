@@ -51,32 +51,6 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
 - susijęs iš Polityka miska Kazimierza Wielkiego: H. Paszkiewicziaus „Polityka miska Kazimierza Wielkiego“ išleista Varšuvoje 1925 m. ir turi 189 puslapius.
 - susijęs iš Kernavė: H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę.
 - susijęs iš Kernavė: H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^2) **PSRL, 17, 77, 90, 148, 162 p.**
-    (^3) **O. Halecki : HaU, I, 95-97 p. — L. Kolankowski : KolLJ, I, 1930,
-    31 p.**
-    (^4) **Plg. H. Paszkiewicz :** **_O genezie i wartości Krewa_** **, 1938, 206 p.**
-
-
-    (^282) ii skyrius: valstybės iškilimas
-    m. puolė Mozūriją ir atsiėmė Drohičiną iš kryžiuočių globotinio
-    Ziemovito. Tuo būdu jis siekęs Ziemovitui sutrukdyti tapti Len­
-    kijos karaliumi. O Ziemovito viltys laimėti Jadvygos ranką 1383 m.
-    pavasarį buvo padidėjusios, ir jis — priešingai Krokuvos ponų
-    nusistatymui — planavęs Jadvygą pagrobti prievarta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-30519
@@ -102,5 +76,5 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64600
     - t-64599
+    - t-64600

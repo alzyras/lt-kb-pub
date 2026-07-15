@@ -27,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
+Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti. Kojelavičiaus vertinimu, prislėgti krikščionys lengviau atsikvėpė tik dėl vidaus nesantarvės, palaužusios kylančią stabmeldžių galią. Popiežiaus ediktas kvietė krikščionis į šventąjį karą prieš stabmeldžius, žadėdamas nuodėmių atleidimą.
 
 ## Teiginiai
 
@@ -38,40 +38,40 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   pagrindžia:
     - c-10073
 
-<a id="claim-t-184481"></a>
-- t-002
-  global_id: t-184481
-  teiginys: "Po ilgai trukusio atkaklaus mūšio krikščionys buvo sumušti, o jų kilmingieji pateko į nelaisvę arba žuvo."
-  pagrindžia:
-    - c-167842
-
 <a id="claim-t-184482"></a>
-- t-003
+- t-002
   global_id: t-184482
   teiginys: "Kojelavičiaus vertinimu, prislėgti krikščionys lengviau atsikvėpė tik dėl vidaus nesantarvės, palaužusios kylančią stabmeldžių galią."
   pagrindžia:
     - c-167843
 
 <a id="claim-t-184483"></a>
-- t-004
+- t-003
   global_id: t-184483
   teiginys: "Popiežiaus ediktas kvietė krikščionis į šventąjį karą prieš stabmeldžius, žadėdamas nuodėmių atleidimą."
   pagrindžia:
     - c-167844
 
 <a id="claim-t-184484"></a>
-- t-005
+- t-004
   global_id: t-184484
   teiginys: "Gediminas nenorėjo priimti krikščionybės ar sudaryti sutarties su krikščionimis, todėl nutraukė pradėtas derybas."
   pagrindžia:
     - c-167845
 
 <a id="claim-t-188205"></a>
-- t-006
+- t-005
   global_id: t-188205
   teiginys: "Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį."
   pagrindžia:
     - c-171099
+
+<a id="claim-t-196076"></a>
+- t-006
+  global_id: t-196076
+  teiginys: "Popiežiaus ediktu krikščionys buvo šaukiami į šventąjį karą prieš stabmeldžius, žadant nuodėmių atleidimą."
+  pagrindžia:
+    - c-167844
 - susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
 - susijęs iš [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma.md#claim-t-87141|Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]: Gediminas aiškino, kad kariauja su krikščionimis ne dėl katalikų tikėjimo naikinimo, o dėl patiriamų skriaudų.
 - susijęs iš [[objektai/grupes/Galindai.md#claim-t-188186|Galindai]]: Narbutas pasakojo, kad po galindų žygio krikščionys juos išmušė, o supykdyti kaimynai nuniokojo Galindą beveik iki negyvenamos šalies.
@@ -108,7 +108,6 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/zodynas/Geyseler.md#claim-t-58901|Geyseler]]: Geyseler buvo vokiškas rykštėmis besiplakusių krikščionių saviplakių pavadinimas.
 - susijęs iš [[objektai/zodynas/Pusrytės.md#claim-t-07749|pusrytės]]: Iki didžiosios pusrytės arba pietų žydams pilyje nebuvo leidžiama pirkti prekių pirmiau už krikščionis.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89545|dykra]]: Karalius nužygiavo į Bartos žemės dykras, į Vaplaukio lauką, ir ten gyrėsi supančiotiems krikščionių belaisviams.
-- susijęs iš [[objektai/zodynas/stabmeldžiai.md#claim-t-185393|stabmeldžiai]]: Į aukštąsias ir viešąsias pareigybes neturėjo būti skiriami stabmeldžiai ir popiežiui nepaklusę krikščionys.
 - susijęs iš [[objektai/zodynas/vokiečių ateivių valstybė.md#claim-t-70405|vokiečių ateivių valstybė]]: Livonijoje ateiviai krikščionys įkūrė apsaugos organizaciją, paprastai vadintą kalavijuočių ordinu.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77969|A. Smetona]]: 1940 m. birželio 15 d. vyriausybės posėdyje A. Smetonos siūlymą priešintis ginklu palaikė tik du ministrai.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77999|A. Voldemaras]]: A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
@@ -136,7 +135,6 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/asmenys/V. Mironas.md#claim-t-78039|V. Mironas]]: Po Klaipėdos atplėšimo V. Mironą ministro pirmininko pareigose pakeitė generolas Jonas Černius.
 - susijęs iš [[objektai/asmenys/Vladas Mironas.md#claim-t-54005|Vladas Mironas]]: Po Klaipėdos atplėšimo Vladą Mironą premjero poste pakeitė generolas Jonas Černius.
 - susijęs iš [[objektai/asmenys/Vladas Mironas.md#claim-t-54009|Vladas Mironas]]: 1938 m. gegužės 12 d. ministras pirmininkas V. Mironas pasirašė naują Lietuvos konstituciją.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176762|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Lietuviai krikštijosi Vytauto Didžiojo ir Jogailos paraginti bei vykdydami jų įsakymus.
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-187942|Adomas Stanislovas Naruševičius]]: Narbutas Naruševičiui priskyrė nuomonę, kad slavai žinojo panašią ugnį, vadintą Zwicz.
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-188396|Adomas Stanislovas Naruševičius]]: Naruševičiaus manymu, slavai taip pat žinojo panašią ugnį, vadintą Zwicz.
 - susijęs iš [[objektai/autoriai/Dusburgiečio kronikos perdirbinio autorius.md#claim-t-190384|Dusburgiečio kronikos perdirbinio autorius]]: Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasakojime krivį vadino „kilmingesniu iš jų“ ir praleido srities pavadinimą.
@@ -188,7 +186,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo.md#claim-t-89597|ne teisingumo ieškoki, bet pasigailėjimo]]: Henrikas iš Lichtenšteino Sventopelkui pareiškė, kad šis turįs ieškoti ne teisingumo, bet pasigailėjimo.
 - susijęs iš [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo.md#claim-t-89598|ne teisingumo ieškoki, bet pasigailėjimo]]: Sventopelkui prašant grąžinti įkaitu duotą sūnų, Henrikas iš Lichtenšteino atsakė: „ne teisingumo ieškoki, bet pasigailėjimo“.
 - susijęs iš [[objektai/posakiai/„Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat s.md#claim-t-28759|„Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat s]]: Gediminas popiežiaus legato pasiuntiniams pareiškė, kad skirtingos bendruomenės Dievą gali garbinti pagal savo papročius.
-- susijęs iš Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija: Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys rusai prisidėtų prie Rytų ir Vakarų bažnyčių santarvės.
+- susijęs iš Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija: Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėjimo ir raginęs Eleną pereiti į Romos tikėjimą.
 - susijęs iš Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.): Gedimino laiške Hanzos miestams ir Gotlando pirkliams teigiama, kad valdovas pasiuntė popiežiui laišką dėl susivienijimo su Bažnyčia.
 - susijęs iš Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.): Gedimino laiške skelbiama, kad jo žemė pirkliams, riteriams ir vasalams yra laisva nuo muitų ir kelio prievolių.
 - susijęs iš Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków polsko-krzyżackich w latach 1235—1308: J. Powierskio veikale Dusburgiečio 1292 m. datuotas puolimas siejamas su 1294 m. įvykiais.
@@ -207,7 +205,6 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš Vaikiai: 1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių.
 - susijęs iš Vaikių valsčius: 1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių.
 - susijęs iš Vilniaus vyskupija: Vilniaus vyskupijos bažnyčiose kova už lietuvių kalbos teises neretai virsdavo lenkų ir lietuvių muštynėmis.
-- susijęs iš Vilnius: Vilnius liko šalies sostine ir nuolatine aukščiausiojo Lietuvos valdovo buveine.
 - susijęs iš Zirgūna: Prūsų raiteliai ir pėstininkai įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su kariuomene apsistojo priešais.
 - susijęs iš [[objektai/zodynas/Pusrytės.md#claim-t-07750|pusrytės]]: Pusrytės žymėjo laiką, iki kurio žydams pilyje neleista pirkti prekių.
 - susijęs iš [[objektai/zodynas/Vieningo darbo vyriausybė.md#claim-t-22033|Vieningo darbo vyriausybė]]: Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos partijos gavo po dvi ministrų vietas.
@@ -221,141 +218,6 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo.md#claim-t-89598|ne teisingumo ieškoki, bet pasigailėjimo]]: Sventopelkui prašant grąžinti įkaitu duotą sūnų, Henrikas iš Lichtenšteino atsakė: „ne teisingumo ieškoki, bet pasigailėjimo“.
 - susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-183956|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
 - susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66829|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Užvis ilgainiui, kad nedori krikščionys,
-        užsidengę liekulu^508 savo tikybos, suokė^509 kardu juos krikštytis, vildamies, jog tuo pragumu
-        tegalėsią juos nuvergti ir tarp savo gyvulių paskaityti, todėl toje gadynėj lietuvis, kalnėnas ar
-        žemaitis, norėdamas dar liuosu mirti ar po seno gyventi, turėjo su ginklu gulti ir kelti, idant
-        visados būt rangiu^510 drausti ir ramdyti savo neprietelius, dykstančius išplėšti jo liuosybę, visų
-        brangiąją nuo paties dievo jiems duotą dovaną, kuriuos tankiai nuveikę, atmonydami^511 savo
-        žalas ir gieždamies ant jų apmaudą, nusiaubė plačiai platesniai, toli tolesniai jų kraštų sritis,
-        belikdami po savęs akmenį ir vandenį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Po ilgai trukusio atkaklaus mūšio krikščionys buvo sumušti, o jų kilmingieji pateko į nelaisvę arba žuvo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kai pasirodė iš užnugario grėsmingi barbarai,
-    kurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas
-    ir baimė, jog paimta stovykla; tada, susidūrus kariuo­
-    menėms, prasidėjo žiaurus mūšis. Kovotojų atkaklu­
-    mas palaikė ne vieną valandą ir vienoje, ir kitoje pu­
-    sėje pergalės viltį, vis dėlto galop krikščionys buvo
-    sumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba
-    galvas padėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Kojelavičiaus vertinimu, prislėgti krikščionys lengviau atsikvėpė tik dėl vidaus nesantarvės, palaužusios kylančią stabmeldžių galią.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Lenkų
-    karalystei suskilus į daugybę kunigaikštysčių, sunku
-    buvo susitarti, be to, netoliese auganti lietuvių galybė
-    ilgainiui kėlė vis 'didesnę baimę. Vargu ar prislėgti
-    krikščionys būtų kada lengviau atsikvėpę, jeigu be­
-    kylančios stabmeldžių galios nebūtų palaužusi vidaus
-    nesantarvė. Tuo laiku mirė Mindaugui žmona; šeimy­
-    nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū­
-    mus atvyko pakviesta Daumanto, Nalšios kunigaikš­
-    čio, žmona, karalienės sesuo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Popiežiaus ediktas kvietė krikščionis į šventąjį karą prieš stabmeldžius, žadėdamas nuodėmių atleidimą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Be
-    Livonijos ir Prūsijos kariuomenės, kurią vedė, Prūsi- *
-    jos magistrą pavaduodamas, Fridrichas fon Vildenber-
-    gas, atvyko į pagalbą kariaunos iš Silezijos, Čekijos,
-    Austrijos, Vokietijos, vedamos Vroclavo kunigaikščio
-    Bernardo, Svabijos kunigaikščio, dviejų Reino grafų,
-    Julicho ir kitų grafų sūnų bei kitų Vokietijos valdovų.
-    Mat popiežius krikščionių žemėse buvo paskelbęs edik­
-    tą, kuriuo krikščionys, žadant nuodėmių atleidimą, bu­
-    vo šaukiami į šventąjį karą prieš stabmeldžius, todėl
-    ir ėmė iš’visur plaukti į Prūsiją didžiuliai karių būriai.
-    Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
-    nusiaubė Žemaitiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Gediminas nenorėjo priimti krikščionybės ar sudaryti sutarties su krikščionimis, todėl nutraukė pradėtas derybas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Teofrido
-    vienuolyno abatas Bernardas. Gediminas vis dėlto ne­
-    norėjo nei krikščionybės priimti, nei sutarties sudaryti
-    su krikščionimis, todėl visai nutraukė pradėtas dery­
-    bas. Jo pasiuntinys Livonijoje išraiškingai prisipažino,
-    kad valdovas esąs nusistatęs niekada neišsižadėti pro­
-    tėvių tikėjimo ir nesudaryti sutarčių, reikalaujančių
-    keisti tikėjimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Bet jos principai visiškai
-    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
-    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
-    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
-    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
-    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
-    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
-    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
-    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
-    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
-    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
-    religijos, kurią gana veiksmingai formavo graikų mitologija.
-    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
-    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
-    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 ## Citatos
 
 - id: c-10073
@@ -379,32 +241,10 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   pagrindzia:
     - t-07840
 
-- id: c-167842
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 105"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 105."
-  citata_originali: |
-    Kai pasirodė iš užnugario grėsmingi barbarai,
-    kurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas
-    ir baimė, jog paimta stovykla; tada, susidūrus kariuo­
-    menėms, prasidėjo žiaurus mūšis. Kovotojų atkaklu­
-    mas palaikė ne vieną valandą ir vienoje, ir kitoje pu­
-    sėje pergalės viltį, vis dėlto galop krikščionys buvo
-    sumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba
-    galvas padėjo.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184481
-
 - id: c-167843
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 107"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 107."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Lenkų
     karalystei suskilus į daugybę kunigaikštysčių, sunku
@@ -426,8 +266,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - id: c-167844
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 205"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 205."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Be
     Livonijos ir Prūsijos kariuomenės, kurią vedė, Prūsi- *
@@ -441,28 +280,45 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
     vo šaukiami į šventąjį karą prieš stabmeldžius, todėl
     ir ėmė iš’visur plaukti į Prūsiją didžiuliai karių būriai.
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
-    nusiaubė Žemaitiją.
+    nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
+    Ariogalos ir Klogėnų valsčius jis sulygino su žeme.
+    Apmalšinus žudynėmis širdis, kai, pykčiui lėgstant,
+    gėda apėmė ginkluotus karius, kad nelyginant plėši­
+    kai siaubia beginklius žmones ir kaimiečių lūšneles,
+    1322 m eta i
+    V o k ie č ių ir k r y ž iu o ­
+    čių
+    š v e n ta sis
+    karas
+    prieš lietu viu s
+    Šiais dalykais ir rūpinosi
+    Gediminas, kai jį užgriuvo
+    naujos bėdos.
+  citata_rodoma: "Mat popiežius krikščionių žemėse buvo paskelbęs edik­\ntą, kuriuo krikščionys, žadant nuodėmių atleidimą, bu­\nvo šaukiami į šventąjį karą prieš stabmeldžius, todėl \nir ėmė iš’visur plaukti į Prūsiją didžiuliai karių būriai.\nSu šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai \nnusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių, \nAriogalos ir Klogėnų valsčius jis sulygino su žeme."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184483
+    - t-196076
 
 - id: c-167845
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 209."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Teofrido
-    vienuolyno abatas Bernardas. Gediminas vis dėlto ne­
+    Gediminas vis dėlto ne­
     norėjo nei krikščionybės priimti, nei sutarties sudaryti
     su krikščionimis, todėl visai nutraukė pradėtas dery­
     bas. Jo pasiuntinys Livonijoje išraiškingai prisipažino,
     kad valdovas esąs nusistatęs niekada neišsižadėti pro­
     tėvių tikėjimo ir nesudaryti sutarčių, reikalaujančių
-    keisti tikėjimą.
+    keisti tikėjimą. Kad pasiuntinys sakė tiesą, parodė to­
+    lesni įvykiai: bemaž tuo pačiu metu abiem kryptimis
+    patraukusi į žygį lietuvių kariuomenė kuo žiauriausiai
+    siaubė krikščionių žemes.
+  citata_rodoma: "Teofrido\nvienuolyno abatas Bernardas. Gediminas vis dėlto ne­\nnorėjo nei krikščionybės priimti, nei sutarties sudaryti\nsu krikščionimis, todėl visai nutraukė pradėtas dery­\nbas. Jo pasiuntinys Livonijoje išraiškingai prisipažino,\nkad valdovas esąs nusistatęs niekada neišsižadėti pro­\ntėvių tikėjimo ir nesudaryti sutarčių, reikalaujančių\nkeisti tikėjimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -473,24 +329,26 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - id: c-171099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 84"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Bet jos principai visiškai
-    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
-    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
-    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
-    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
-    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
-    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
-    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
-    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
-    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
-    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
-    religijos, kurią gana veiksmingai formavo graikų mitologija.
-    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
-    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
-    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
+    Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek
+    buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­
+    dėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne­
+    praleisdamas nieko, kas galėjo būti naudinga. Be to, mano pa­
+    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
+    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
+    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
+    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
+    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
+    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
+    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
+    logija yra raktas seniausiajai tautų istorijai pažinti.
+    Išminties vertintojas ir žmonių giminės bičiulis šiame vi­
+    suotinės mitologijos papildyme ras sau naują naudą: pamatys
+    šiaip dar nepažintą žmogaus proto silpnybės pusę, išsamiau
+    pažins įdomią supainiotą praeitį ir civilizacijos progreso ke­
+    lius.
+  citata_rodoma: "Bet jos principai visiškai\nnutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­\nnėmis; negalima net manyti, kad senovės graikų tikyba būtų\npatekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka\nmūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O\nkai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo\nkrikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­\nvenusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai\nprimetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos\nmiestų bei provincijų, o krikščionybę arba šiaurės asų religiją,\njeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos\nreligijos, kurią gana veiksmingai formavo graikų mitologija.\nTiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes\nvisos senovės religijos, kaip ir pačios tautos, yra labai viena kitai\nartimos, kilusios iš vienos šakos -  iš vieno lopšio*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

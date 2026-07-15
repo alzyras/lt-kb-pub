@@ -3,6 +3,7 @@ tipas: saltinis
 pavadinimas: 'Hermano Vartbergės Livonijos kronika'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1235 m.'
   - '1329 m.'
@@ -71,76 +72,12 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   pagrindžia:
     - c-167090
 
-<a id="claim-t-171550"></a>
+<a id="claim-t-197018"></a>
 - t-004
-  global_id: t-171550
-  teiginys: "Hermano Vartbergės „Livonijos kronikos“ ištraukoje aprašomas Ordino brolių sumušimas prie Karusės."
+  global_id: t-197018
+  teiginys: "Tarp jų ypatingą vietą užima Petro iš Dusburgo „Prūsijos žemės kronika“, pateikianti daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir jo sąjungininkų agresiją XIII—XIV a."
   pagrindžia:
-    - c-167090
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo ma-
-    šinomis sunaikina Piltenės pilį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „1329 m. [1330 m. kovo pradžioje] lietuvių karalius su didele kariuomene atvyko rygiečių
-    kviestas prie Piltenės vyskupo pilies ir nuo jos su įvairiomis apgulimo mašinomis pradėjo
-    puolimą. [...] Nuniokojęs kraštą jis [Gediminas] grįžo atgal.“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Blokeliuose su skyriaus spalvos juostele pateikiamos įvykių liudininkų, amžininkų ar tų laikų dokumentų citatos Ryškesniu šriftu išskirtos citatoje aptariamų įvykių aplinkybės Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ apie Ordino brolių sumušimą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Juose rasite papildomos
-    informacijos apie to meto politinius, karinius įvykius, karybos
-    ir ginkluotės raidą.
-
-    Blokeliuose su skyriaus spalvos
-    juostele pateikiamos įvykių
-    liudininkų, amžininkų ar tų
-    laikų dokumentų citatos
-
-    Ryškesniu šriftu
-
-    išskirtos citatoje
-    aptariamų įvykių
-    aplinkybės
-
-    Ištrauka iš Hermano Vartbergės „Livonijos
-    kronikos“ apie Ordino brolių sumušimą prie
-
-    Karusės.
-
-    „Betgi magistrą Otto su 52 ordino broliais ir
-    600 krikščionių Viko krašte (in Maritima) prie
-    Karuzo šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
+    - c-179004
 
 ## Citatos
 
@@ -206,5 +143,27 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183700
     - t-171550
+
+- id: c-179004
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
+    daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
+    jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
+    Kad geriau suvoktume kronikoje vaizduojamus Prūsijos ir Lietuvos istorijos faktus
+    bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
+    lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
+    klausimai.
+    Prūsai ir Lietuva
+    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
+    vientisumas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197018

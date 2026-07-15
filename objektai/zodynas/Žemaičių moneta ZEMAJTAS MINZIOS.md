@@ -34,37 +34,17 @@ Narbutas žemaičių monetos užrašą skaito kaip „ZEMAJTAS: MINZIOS“ ir ai
   teiginys: "Narbutas žemaičių monetos užrašą skaito kaip „ZEMAJTAS: MINZIOS“ ir aiškina jį kaip „Žemaičių moneta“."
   pagrindžia:
     - c-172237
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas žemaičių monetos užrašą skaito kaip „ZEMAJTAS: MINZIOS“ ir aiškina jį kaip „Žemaičių moneta“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kita pusė: tokiame pačiame apvade -  skydelis su panašiu
-    apvadėliu; jame smulkiai iškalta kažkas panašaus į Lietuvos
-    Vytį. Centre -  lokys, pasistiebęs ant užpakalinių letenų, pasi­
-    sukęs į dešinę pusę. Lygus užrašas, prasidedantis nuo skydelio
-    dešiniojo krašto, yra toks: ZEMAJTAS: MINZIOS, tai yra: Že­
-    maičių moneta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 250"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 250."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kita pusė: tokiame pačiame apvade -  skydelis su panašiu
+    Kita pusė: tokiame pačiame apvade - skydelis su panašiu
     apvadėliu; jame smulkiai iškalta kažkas panašaus į Lietuvos
-    Vytį. Centre -  lokys, pasistiebęs ant užpakalinių letenų, pasi­
+    Vytį. Centre - lokys, pasistiebęs ant užpakalinių letenų, pasi­
     sukęs į dešinę pusę. Lygus užrašas, prasidedantis nuo skydelio
     dešiniojo krašto, yra toks: ZEMAJTAS: MINZIOS, tai yra: Že­
     maičių moneta.

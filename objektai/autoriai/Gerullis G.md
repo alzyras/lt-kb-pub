@@ -35,31 +35,13 @@ Dusburgietis teigia, kad (Gerullis G., Zur Sprache.., p. 48; Būga К., 2, p. 10
   teiginys: "G. Gerullis cituojamas aiškinant, kad asmenvardis Skomant yra giminingas vietovardžiui Skomantai Klaipėdos rajone."
   pagrindžia:
     - c-61336
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'G. Gerullis cituojamas aiškinant, kad asmenvardis Skomant yra giminingas vietovardžiui Skomantai Klaipėdos rajone.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    442 D.— Scumandus, Jer.— Skomant; jotvingių Skomant(a)s arba Skomand(a)
-    s. Asmenvardis giminingas vietovardžiams Skomantai, Klaipėdos rj. (Gerullis G., Zur
-    Sprache.., p. 48; Būga К., 2, p. 100—101; 3, p. 140—141), Skuomantai (kaimas prie
-    Rokiškio, su tarminiu senesnio o virtimu uo).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61336
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     442 D.— Scumandus, Jer.— Skomant; jotvingių Skomant(a)s arba Skomand(a)
     s. Asmenvardis giminingas vietovardžiams Skomantai, Klaipėdos rj. (Gerullis G., Zur

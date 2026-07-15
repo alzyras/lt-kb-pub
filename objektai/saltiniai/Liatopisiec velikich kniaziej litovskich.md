@@ -34,25 +34,6 @@ Lietuvos metraštis («Liatopisiec velikich kniaziej litovskich») Vytauto lupom
   teiginys: "„Liatopisiec velikich kniaziej litovskich“ Vytauto vardu aiškina, kad Jogailos žygis sukėlė nepasitenkinimą Lietuvoje dėl svetimųjų valdžios."
   pagrindžia:
     - c-33621
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet visos valdžios valstybėje Skirgaila neturėjo. O Vilnių
-    Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
-    Klemensas Moskorzewskis. Lietuvos metraštis («Liatopisiec veli-
-    kich kniaziej litovskich») Vytauto lupomis paaiškina, jog tokis
-    Jogailos žygis sukėlė Lietuvoje nepasitenkinimą, nes didžiojoje
-    kunigaikštijoje ėmė valdyti svetimieji, «ko anksčiau lietuvių
-    žemėje nebūdavo »5 6.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

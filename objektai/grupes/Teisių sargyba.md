@@ -35,52 +35,7 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   teiginys: "Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės reikalus."
   pagrindžia:
     - c-22781
-
-<a id="claim-t-183188"></a>
-- t-002
-  global_id: t-183188
-  teiginys: "Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės reikalus."
-  pagrindžia:
     - c-166575
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors Seimui pirmininkauti
-    turi karalius, jo įstatymų leidybos galios yra ribotos, o karaliaus vaidmuo
-    didėja vykdomojoje valdžioje. Atšaukiama karalių renkamumo tvarka,
-    dėl kurios Lenkija ir Lietuva nusirito į anarchijos liūną, valstybė skelbia-
-    ma paveldima monarchija. Tvarkyti valstybės reikalus valdovui turi pa-
-    dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
-    kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
-    karo, policijos komisijų – pirmininkai (ministrai).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės reikalus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atšaukiama karalių renkamumo tvarka,
-    dėl kurios Lenkija ir Lietuva nusirito į anarchijos liūną, valstybė skelbia-
-    ma paveldima monarchija. Tvarkyti valstybės reikalus valdovui turi pa-
-    dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
-    kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
-    karo, policijos komisijų – pirmininkai (ministrai). Konstitucija baigiama
-    tautos kaip valstybės vientisumo ir suverenumo idėja.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -121,5 +76,3 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183188

@@ -41,22 +41,6 @@ Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investic
   teiginys: "1939 m. pradžioje britai ir prancūzai pranešė negarantuosiantys Klaipėdos status quo, o be pagalbos Lietuva Klaipėdos nebegalėjo išlaikyti."
   pagrindžia:
     - c-23795
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1939 m.
-    pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
-    (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipė-
-    dai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

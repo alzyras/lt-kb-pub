@@ -44,26 +44,6 @@ Włodarski, B.
   teiginys: "B. Włodarskis paskelbė darbus apie jotvingių problemą lenkų ir rusėnų santykiuose."
   pagrindžia:
     - c-32906
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — (”) _O Bałtach i Slavianach v oblasti verchnego podne-
-    provja,_ ABaSl, VI, 1969, 117-127 p. — Varakauskas, R.: _Lietuvos vals­
-    tybės susidarymo klausimu,_ IstV, t. 10, 1969, 169-180 p. — Wiśniewski,
-    J. : _Jeszcze raz o domniemanych śladach osad Jaćwieskich,_ RoB, III, 1962,
-    397-400 p.—Włodarski, B. : _Problem jaćwiński w stosunkach polsko-
-    ruskich,_ Zapiski Historyczne, t. 24, sąs. 2-3, Toruń 1959. — (”) _Jatviežs-
-    kaja problemu v polsko-russkich svjazach X-XIII v.,_ Meždunarodnye
-    svjazi Rossii do XVII v., Maskva 1961, 116-130 p. (straipsnių rinkinys).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

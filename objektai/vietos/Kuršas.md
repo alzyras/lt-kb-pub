@@ -45,7 +45,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos ginti, o įsibrovė naikinti ordino valdomojo Kuršo. Kraštas tarp Ventos ir Daugavos iki šiol vadinamas Kuršu. Kuršas minimas kaip viena iš vietų, kur tikrieji lietuviai tebgyvena atsikieminėję vienkiemiuose.
+1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę. 1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą. Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį.
 
 ## Pavadinimai šaltiniuose
 
@@ -74,10 +74,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginys: "1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą."
   pagrindžia:
     - c-43552
+    - c-167177
 
-<a id="claim-t-90778"></a>
+<a id="claim-t-90763"></a>
 - t-003
-  global_id: t-90778
+  global_id: t-90763
   teiginys: "Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį."
   pagrindžia:
     - c-43547
@@ -173,75 +174,82 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   pagrindžia:
     - c-32166
 
-<a id="claim-t-90778"></a>
-- t-017
-  global_id: t-90778
-  teiginys: "Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį."
-  pagrindžia:
-    - c-43547
-
-<a id="claim-t-183789"></a>
-- t-018
-  global_id: t-183789
-  teiginys: "1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą."
-  pagrindžia:
-    - c-167177
-
 <a id="claim-t-184998"></a>
-- t-019
+- t-017
   global_id: t-184998
   teiginys: "Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
   pagrindžia:
     - c-168359
 
 <a id="claim-t-184999"></a>
-- t-020
+- t-018
   global_id: t-184999
   teiginys: "Mindaugas tuo žygiu atgavo Žemaitiją bei Kuršą, nusiaubė Sembą ir vėliau Prūsijoje sukėlė karą."
   pagrindžia:
     - c-168360
 
 <a id="claim-t-192682"></a>
-- t-021
+- t-019
   global_id: t-192682
   teiginys: "Teodoro Narbuto pasakojime Jarmerikas užgrobė Sembą, paskui Kuršą ir toliau į rytus plytinčius kraštus."
   pagrindžia:
     - c-175452
 
 <a id="claim-t-192683"></a>
-- t-022
+- t-020
   global_id: t-192683
   teiginys: "Narbutas rašė, kad kuršiai lietuviškai vadinti Koryones arba Kuryones, o savo kraštą vadino Kurr zemme."
   pagrindžia:
     - c-175453
 
 <a id="claim-t-192684"></a>
-- t-023
+- t-021
   global_id: t-192684
   teiginys: "Narbutas pritarė Ksaverui Bogušui, kad islandų sagų chorai arba churai suprastini kaip kuršiai."
   pagrindžia:
     - c-175454
 
 <a id="claim-t-192685"></a>
-- t-024
+- t-022
   global_id: t-192685
   teiginys: "Kuršiai visuomet buvo žem dirbiai ir kariai, nes, gyvendami pajūrio žemėse ir būda mi turtingi, buvo priversti nuolat kariauti su skandina vais ir jiems giminingomis gentimis."
   pagrindžia:
     - c-175455
 
 <a id="claim-t-193771"></a>
-- t-025
+- t-023
   global_id: t-193771
   teiginys: "1244 m. Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su piliadaužėmis puolė Ordino anksčiau užvaldytą Embutės pilį, tačiau jos užimti nepavyko."
   pagrindžia:
     - c-43547
 
 <a id="claim-t-194733"></a>
-- t-026
+- t-024
   global_id: t-194733
   teiginys: "Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė."
   pagrindžia:
     - c-177129
+
+<a id="claim-t-196699"></a>
+- t-025
+  global_id: t-196699
+  teiginys: "Kojelavičius rašo, kad kitais metais Utenis perkėlė karą iš Kuršo į Livoniją ir nusiuntė lietuvius pulti priešų žemių."
+  pagrindžia:
+    - c-178851
+
+<a id="claim-t-197886"></a>
+- t-026
+  global_id: t-197886
+  teiginys: "Pavergęs slavų kraštą ir pamanęs, jog įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus plytinčius kraštus, žiauriai liedamas žmonių kraują ir be galo juos engdamas."
+  pagrindžia:
+    - c-175452
+
+<a id="claim-t-197887"></a>
+- t-027
+  global_id: t-197887
+  teiginys: "Ksaveras Bogušas1 labai gerai pastebi, kad islandų sagose, kur pasakojama apie chorų, arba churų, tautą, reikia suprasti kuršius, kuriems senovėje priklausė daug daugiau žemių negu vėlesniais laikais ir dabar."
+  pagrindžia:
+    - c-175454
 - susijęs iš Philippi Miitendorfii rankraštis apie 1605 m. rugsėjo 27 d. mūšį: Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuriame nurodyti 85 riteriai iš Angeširų apskrities.
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
 - susijęs iš Alsunga: Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos tarme, gautą iš tenykščio klebono.
@@ -268,7 +276,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - susijęs iš [[objektai/autoriai/W. Eckert.md#claim-t-31060|W. Eckert]]: W. Eckertas tyrė Kuršo Cedis kraštovaizdį ir kovą dėl Pietų Kuršo tarp Vokiečių ordino ir Lietuvos.
 - susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-179567|Zenonas Ivinskis]]: Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną.
 - susijęs iš [[objektai/grupes/Kuršiai ir latviai.md#claim-t-189519|Kuršiai ir latviai]]: Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą Kuršo Alsungos katalikų parapijos tarmės variantą.
-- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-184515|Kuršiai]]: Kitais metais Utenis perkėlė karą iš Kuršo į Livoniją, o sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65554|Kuršiai]]: Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65557|Kuršiai]]: Livonijoje sukilę estai, kuršiai ir žiemgaliai 1263-1270 m. mažino išorinį pavojų Lietuvai.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65567|Kuršiai]]: Livonijoje sukilę kuršiai buvo pajungti tik po septynerių metų kovos, 1267 m.
@@ -285,7 +292,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78384|Livonijos kunigaikštystė]]: 1561 m. Livonijos konfederacijai nustojus egzistuoti, likusi jos dalis padalyta į Kuršo ir Livonijos kunigaikštystes, atitekusias Lietuvai.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.).md#claim-t-66696|Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]: 1921 m. Lietuvos ir Latvijos siena buvo išvesta maždaug buvusios Kuršo gubernijos riba, padarius nedidelių pakeitimų abiejų valstybių naudai.
-- susijęs iš Mindaugo dovanojimo raštas Livonijos ordinui: 1252 m. Mindaugas pasiuntinybės akivaizdoje priėmė krikščionybę ir raštu pripažino amžiams dovanojęs Jotvingijos, Žemaitijos, Kuršo ir Veizių kraštus.
 - susijęs iš Rimberto parašytas šv. Ansgaro gyvenimas: Rimbertas apie 875 m. parašė šv. Ansgaro gyvenimą, kuriame minima, kad šis misijų reikalu buvo sustojęs Kurše.
 - susijęs iš Alūkšta: 1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją.
 - susijęs iš Aukštaitija: Aukštaitiją nuo Žemaitijos skyrusi siena ėjo dešiniuoju Neries ir Nemuno pakraščiu nuo Nevėžio žiočių iki Kuršo.
@@ -331,7 +337,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - susijęs iš [[objektai/autoriai/Rimberto, Rimbertas.md#claim-t-30958|Rimberto, Rimbertas]]: Rimbertas apie 875 m. parašė šv. Ansgaro gyvenimą, kuriame nušviečiami Baltijos pajūrio kariniai santykiai.
 - susijęs iš [[objektai/autoriai/prof. Simpsonas.md#claim-t-01171|prof. Simpsonas]]: Škotas prof. Simpsonas tarpininkavo komisijų konferencijose, kurios išvedė sieną nedaug nutoldamos nuo buvusios gubernijos sienos.
 - susijęs iš [[objektai/grupes/Chlapovskio kariuomenė.md#claim-t-168145|Chlapovskio kariuomenė]]: Chlapovskio vadovaujama kariuomenė nekovojo su rusais ir, prieš pereidama Prūsijos sieną, padėjo ginklus.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178839|Kryžiuočių ordinas]]: Klaipėdos pilis beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178928|Kryžiuočių ordinas]]: Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192429|Lietuviai]]: Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių.
@@ -420,467 +425,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190765|Motiejus Strijkovskis (kronikininkas)]]: Teodoro Narbuto teigimu, Motiejus Strijkovskis dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo, Insterburgo, Kuršo ir Livonijos.
 - susijęs iš [[objektai/asmenys/Vidmantas iš Kuršo.md#claim-t-190218|Vidmantas iš Kuršo]]: Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės bartininką ir Gedimino žmonos Vidos tėvą.
 - susijęs iš Karšuva: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
-- susijęs iš Mindaugo dovanojimo raštas Livonijos ordinui: 1252 m. Mindaugas pasiuntinybės akivaizdoje priėmė krikščionybę ir raštu pripažino amžiams dovanojęs Jotvingijos, Žemaitijos, Kuršo ir Veizių kraštus.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ansgaro, kuris misijų reikalu buvo sustojęs ir Kurše.
-    Kuršiai (Cori), kurių vardą Rimbertas pirmasis pamini, esą
-    anksčiau priklausę švedų valdžiai. Tai patvirtina ir Hervararsaga
-    (apie 675 m.), teigianti, jog Kuršą buvo užvaldęs švedų karalius
-    įvaras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš
-    naujo švedams užvaldyti Kuršą. Jis nusiaubė ir sudegino Kuršių
-    Seeįurgą ir, po aštuonių dienų Apuolės apgulimo, privertė Kuršius
-    jam atiduoti danų grobį, padaryti taiką, mokėti ankstyvesnę duoklę,
-    be to, išreikalavo 30 įkaitų. Pagal vidurinių amžių kronikininkų
-    didelių skaičių « ligą », yra perdėti skaičiai kuršių kovotojų Seeburgo
-    (7000) ir Apuolės (15.000) pilyse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-016
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tik vakarų Europoje
-    galingi ir nepriklausomi kunigaikščiai gaudavo karaliaus titulą^57.
-    Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai,
-    kad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs
-    didelę kariuomenę^58. Poezijos rimams suderinti vis didelius skaičius
-    vartodamas, Eiliuotinės kronikos autorius rašė, kad Mindaugas ten
-    atvedęs 30.000 karių^59.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Paliauboms pasibaigus, jie puolė Kuršą. Kai
-    narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su
-    gausiu grobiu grįžtantiems žemaičiams Skuodo laukuose pastojo
-    kelią, šie persekiotojus sumušė. Žuvo 33 riteriai^162. Pradėjus kur­
-    šiams trauktis iš kautynių lauko, pagonių laimėjimas buvo didelis,
-    ir jie, dar labiau padrąsinti, greit antru kartu įsiveržė Kuršan.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mindaugo - „Lietuvos galingo karaliaus“
-    pajėgos įsiveržė į Kuršą, su piliadaužė-
-    mis puolė Ordino anksčiau užvaldytą
-    Embutės pilį, tačiau jos užimti nepa-
-    vyko. Kurše tarp lietuvių ir Ordino vyko
-    nuolatinės kovos, abi pusės jų metu pa-
-    tyrė didelių nuostolių. 1245-1246 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-    - t-003
-    - t-025
-
-- c-006
-  santrauka: 'Žemaičiai puolė Kuršą ir niokojo jį 19 dienų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Magistras dar balandį prašė Švitrigailos
-    kartu su Livonija, Podole, Valakija-Mol-
-    davija ir totoriais pulti Lenkiją. Tuo tar-
-    pu žemaičiai puolė Kuršą ir niokojo jį
-    19 dienų, husitų ir Lenkijos kariuomenė
-    įsiveržė į Ordino valdas birželio pradžioje,
-    viską naikino ir degino. Tuo metu žemai-
-    čiai puolė Klaipėdą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-007
-  santrauka: '1435 m. spalį žemaičiai Kurše sudegino Durbės pilį ir taip dar kartą smogė Livonijai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kita vertus, svarbu, kad ir tragiško-
-    mis aplinkybėmis buvo suduotas lemia-
-    mas smūgis Livonijos ordinui, tuo pačiu
-    ir visam Vokiečių-kryžiuočių ordinui.
-    1435 m. spalį smogta Livonijai dar kartą,
-    kai žemaičiai Kurše sudegino Durbės pilį.
-
-    1435 m. gruodžio 31 d. sudaryta Bresto
-    (Kujavy) taika tarp Lenkijos karaliaus
-    Vladislovo Jogailaičio, Lietuvos didžiojo
-    kunigaikščio Žygimanto Kęstutaičio ir
-    Vokiečių-kryžiuočių ordino didžiojo ma-
-    gistro Rusdorfo, atstovaujančio Ordino že-
-    mėms Prūsijoje, Livonijoje ir Vokietijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-008
-  santrauka: 'Sapiegų etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą, iš Vilniaus pasitraukė į Kuršą, Bauskę ir Mintaują.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šios Sapiegų kariuomenės
-    dalies gynyba neleido respubliko-
-    nams organizuoti besitraukiančių
-    Sapiegų giminės senjorų persekio-
-    jimą. Etmonas, iždininkas ir marša-
-    las vakare pasiekė Vilnių, iš visų savo
-    rūmų suvežė svarbiausias vertybes į
-    dominikonų vienuolyną, kuriame ir
-    pernakvojo, o ryte, paskleidę gandą,
-    kad vyksta į Drują bei Bychovo tvir-
-    tovę, iš tikrųjų suskubo trauktis į
-    Kuršą - į Bauskę ir Mintaują. Juos
-    persekiojęs respublikonų kariuome-
-    nės dalinys įžengė į Vilnių Sapiegoms
-    jau išvykus iš miesto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
-- c-009
-  santrauka: '1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šiaurės karas
-
-    1700 m. Saksonijos kariuomenė įžengė į Kuršą ir
-    apsiautė Rygą. Tačiau švedai sumušė Augusto II sa-
-    jungininkus, danų ir rusų kariuomenes ir, nubloškę
-    saksus nuo Rygos, 1702 m. įsiveržė į Lietuvos terito-
-    riją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-010
-  santrauka: 'Dusburgiečio tekste Nemunas nurodomas kaip Prūsiją nuo Kuršo skirianti riba.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    172) Dusburgiečio tekste kalbama
-
-    3. Apie prūsų susiskirstymą bei jų galybę
-
-       Prūsijos žemė188 skirstoma į
-    apie Nemuną, skiriantį Prūsiją nuo Kuršo. Teiginys, matyt, atspindi situaciją, kai Ordinas
-    ginklu prie Kuršo buvo prijungęs kitas teritorijas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-011
-  santrauka: 'Nemunas prie Klaipėdos įteka į jūrą ir skiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vysla — tai upė, atitekanti nuo
-    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
-    bei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,
-    o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
-    Lietuvos ir Kuršo187.
-      1236 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-012
-  santrauka: '1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
-                                             nių
-
-      1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo  į vieną vietą su stipriomis
-    kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo
-    prie  šios  pilies, atvyko  pasiuntinys, pranešdamas, kad  keturi  tūkstančiai  lietuvių
-
-      342 Krašto magistras buvo nuo 1259 m. gegužės mėn.  iki 1261 m.  lapkričio
-    mėn.
-      343 Karšuvos (D.— terra Carsovie) žemė pietvakarių Žemaitijoje pietuose apie
-    Nemuno—Mituvos santaką siekė Nemuną, pietvakariuose  ribojosi su Skalva (apie
-    Sešuvies—Jūros santaką), vakaruose siekė Minijos žemupį, šiaurėje apėmė Jūros  ir
-    Akmenos vidupius su dab. Šilale, rytuose ėjo iki Šaltuonos aukštupio (SZM, p. 199—
-    202).
-      344 Ordino pilis ant švento Jurgio kalno (D — in monte sancti Georgii) buvo pastatyta,
-    atrodo, deš. Nemuno krante apie dab. Jurbarką, žemiau Mituvos žiočių, kur yra Bišpiliukais
-    vadinama piliavietė (dvi kalvelės Kalnėnų kaimo teritorijoje) (Toeppen M., Historisch..,
-    p. 39; Zajączkowski S., Studya.., p. 35—36; SZM, p. 213—214; LAA, 2, p. 77).
-
-    nuniokojo vieną Kuršo žemės dalį, degindami, grobstydami ir liedami krikščionių kraują,
-    o sugautas moteris bei vaikus išsivarė su savimi, kartu gabendamiesi daug kitokio
-    grobio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-013
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš XI-XII amž. danų šaltinių (Genealogia regum
-    Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai
-    protarpiais esą mokėję duoklę ir danams. Istorinių laikų angoje
-    kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir
-    Klaipėdos apylinkę. Vadinamoji Ceklio sritis, kuri priskiriama
-    Kuršiams, siekė ir dešinįjį Ventos krantą (A. Salys).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-014
-  santrauka: 'Dalis Kuršo buvo minima tarp teritorijų, į kurias krypo dviejų Lietuvos politinių grupuočių aspiracijos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai nebuvo
-    monolitinės stovyklos, nes rasdavosi įvairių tranzitinių grupelių ir iš kitų
-    politinių elementų.
-    Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
-    valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
-    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
-    Suvalkų ir Gardino gubernijose, dalis Kuršo. Kadangi Lenkijos ir Lietu-
-    vos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams
-    vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo
-    idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
-    priklausomybės siekis etnografiniu pagrindu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-015
-  santrauka: '1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šios šalys konkuravo ir net kovojo
-    tarpusavyje, bet jas vienijo vis didėjantis interesas „pasistiprinti“
-    silpstančių Lenkijos ir Lietuvos sąskaita.
-
-    Šiaurės karas
-
-    1700 m. Saksonijos kariuomenė įžengė į Kuršą ir
-    apsiautė Rygą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-
-- c-016
-  santrauka: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    105
-
-    ## Puslapis 104
-
-    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
-    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
-    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
-    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
-    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
-    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
-    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
-    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
-    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-
-- c-017
-  santrauka: 'Mindaugas tuo žygiu atgavo Žemaitiją bei Kuršą, nusiaubė Sembą ir vėliau Prūsijoje sukėlė karą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ka­
-    dangi miestą gynė rinktinių karių įgula, apsuptis
-    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
-    rasta daug be galo narsių karių, kurie tiltu per Prieg­
-    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
-    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
-    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
-    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
-    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
-    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
-    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
-    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
-    kerštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-
-- c-018
-  santrauka: 'Teodoro Narbuto pasakojime Jarmerikas užgrobė Sembą, paskui Kuršą ir toliau į rytus plytinčius kraštus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
-    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
-    ką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog
-    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
-    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
-    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
-    galo juos engdamas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-021
-
-- c-019
-  santrauka: 'Narbutas rašė, kad kuršiai lietuviškai vadinti Koryones arba Kuryones, o savo kraštą vadino Kurr zemme.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    279
-    Koryones2, Kuryones, arba kuršiai lietuviškai, Kurr
-    zemme patys vadina savo kraštą. Nestoras mini Kors,
-    tinkamiau Kurs3. Žiloje senovėje Kuršo žemėje gyveno
-    kažkokia tauta, vadinama baronais; jie savo gyvenvietes
-    įkūrė gerokai už dabartinių šios žemės ribų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-022
-
-- c-020
-  santrauka: 'Narbutas pritarė Ksaverui Bogušui, kad islandų sagų chorai arba churai suprastini kaip kuršiai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ksaveras Bogušas1 labai gerai pastebi, kad islandų
-    sagose, kur pasakojama apie chorų, arba churų, tautą,
-    reikia suprasti kuršius, kuriems senovėje priklausė daug
-    daugiau žemių negu vėlesniais laikais ir dabar. Iš tikrų­
-    jų dar prieš žemgalius (jie yra kuršių atšaka, susimai­
-    šiusi su lietuviais ir latviais) jie gyveno prie Dauguvos
-    visoje Žemgaloje ir buvo vadinami koraksais, Korraxy.
-    Dauguvai jie suteikė mitinį pavadinimą Rox, t. y. Ross.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-023
-
-- c-021
-  santrauka: 'Kuršiai visuomet buvo žem dirbiai ir kariai, nes, gyvendami pajūrio žemėse ir būda mi turtingi, buvo priversti nuolat kariauti su skandina vais ir jiems giminingomis gentimis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat Bogušas daro klaidingą prielaidą, kad tai
-    turėjusi būti Palanga; mes viename iš artimiausių straips­
-    nių, kalbėdami apie agazirus, įrodysime, kad jis buvo
-    iš tikrųjų ir kurioje vietoje. Kuršiai visuomet buvo žem­
-    dirbiai ir kariai, nes, gyvendami pajūrio žemėse ir būda­
-    mi turtingi, buvo priversti nuolat kariauti su skandina­
-    vais ir jiems giminingomis gentimis. Tikrąjį Kuršą šian­
-    dien sudaro Piltenės, Ttikumo ir Goldingos valsčiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-024
-
-- c-022
-  santrauka: 'Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­
-    čiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto
-    naudai. Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
-    Jaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės
-    bartininko Vidmanto iš Kuršo duktė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-026
-
 ## Citatos
 
 - id: c-32165
@@ -939,8 +483,8 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90764
     - t-90761
+    - t-90764
 
 - id: c-32169
   autorius: "Zenonas Ivinskis"
@@ -977,7 +521,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90778
     - t-90763
     - t-193771
 
@@ -1080,8 +623,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - id: c-86536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 53-54"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53-54."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     172) Dusburgiečio tekste kalbama
 
@@ -1100,15 +642,15 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - id: c-86538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vysla — tai upė, atitekanti nuo
-    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
-    bei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,
-    o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
-    Lietuvos ir Kuršo187.
-      1236 m.
+    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
+    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
+    rankose, ji naudota kaip gyvulininkystės dvaras.
+    Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
+    e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
+    (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
+  citata_rodoma: "Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,\no prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,\nLietuvos ir Kuršo187.\n  1236 m."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1119,8 +661,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - id: c-86539
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 111-112"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111-112."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
                                              nių
@@ -1207,42 +748,14 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     1700 m. Saksonijos kariuomenė įžengė į Kuršą ir
     apsiautė Rygą.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183789
-
 - id: c-168359
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    105
-
-    ## Puslapis 104
-
-    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
-    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
-    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
-    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
-    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
-    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
-    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
-    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
-    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184998
-
-- id: c-168360
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 104."
   citata_originali: |
     Ka­
     dangi miestą gynė rinktinių karių įgula, apsuptis
@@ -1257,6 +770,49 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
     kerštą.
+  citata_rodoma: "105\n\n## Puslapis 104\n\nbėgti; Saksonijos riteris Gebhardas, pavijęs to būrio\npaskutinę eilę, kalaviju nukirto vienam raiteliui gal­\nvą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­\nsusvyravęs daugelį varstų, nesitraukdamas iš bėgan­\nčiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus\npo to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė\nbuvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,\nnusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­\ntas, čekų karaliaus Otokaro visai neseniai įkurtas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184998
+
+- id: c-168360
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą. Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­
+    čionybės ir sutartu laiku, prieš pat šv. Motiejaus die­
+    ną, visame krašte išgriovė bažnyčias, o kunigus, ku-
+    nių valdovai nutarė sutelkti visas savo jėgas ir atremti
+    laukinių siautėjimą. Į pagalbą buvo sutraukta galybė
+    kariuomenės iš Vokietijos: puikiai ginkluotų karių,
+    patyrusių kariauti vadų; rodėsi, jog nieko netrūksta
+    Prūsijos ir Žemaitijos žemdirbiams išžudyti. Per No-
+    tangos kraštą įžengę į priešų žemę, jie, ketindami per­
+    kelti karo židinį į šalies gilumą, Prūsijos centre parin­
+    P rūsai
+    išsiža d a
+    k r i­
+    k ščio n ių
+    tik ė jim o ir
+    a tsim e ta
+    n u o
+    k r y ­
+    žiu o čių
+    riuos beįmanė pagauti, žiau­
+    riai nukankino; jie nepaliko
+    neišniekinę nė vienos krikš­
+    čionių
+    šventenybės,
+    kurią
+    tik valiojo pasiekti jų stai­
+    gus įsiūtis.
+  citata_rodoma: "Ka­\ndangi miestą gynė rinktinių karių įgula, apsuptis\nbuvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­\nrasta daug be galo narsių karių, kurie tiltu per Prieg­\nliaus upę atkakliai veržėsi prie miesto vartų, nepaisy­\ndami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­\nmaitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­\nnorėdamas, kad atrodytų, jog veltui puolęs Prūsiją,\nsukurstė žmones visame krašte atsimesti nuo kryžiuo­\nčių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-\nlerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­\nčiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie\nkerštą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1267,35 +823,44 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - id: c-175452
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
-    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
-    ką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog
+    Pavergęs slavų kraštą ir pamanęs, jog
     įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
     į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
     plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
-    galo juos engdamas.
+    galo juos engdamas. Tuomet slavai, pasinaudodami Jar­
+    meriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir
+    plėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas
+    skubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­
+    galėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­
+    viais, jog visiškai įbauginta liaudis vėl nusižemino. Kiek
+    vėliau, kai Jarmerikas sunkiais karais vargino Pabaltijo
+    rusus, juos sėkmingai rėmė pašauktas pagalbon Danijos
+    karalius Halfanask
+  citata_rodoma: "Pavergęs slavų kraštą ir pamanęs, jog \nįtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė \nį Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus \nplytinčius kraštus, žiauriai liedamas žmonių kraują ir be \ngalo juos engdamas. Tuomet slavai, pasinaudodami Jar­\nmeriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir \nplėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas \nskubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­\ngalėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­\nviais, jog visiškai įbauginta liaudis vėl nusižemino."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192682
+    - t-197886
 
 - id: c-175453
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 285"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 285."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    279
-    Koryones2, Kuryones, arba kuršiai lietuviškai, Kurr
-    zemme patys vadina savo kraštą. Nestoras mini Kors,
+    Nestoras mini Kors,
     tinkamiau Kurs3. Žiloje senovėje Kuršo žemėje gyveno
     kažkokia tauta, vadinama baronais; jie savo gyvenvietes
-    įkūrė gerokai už dabartinių šios žemės ribų.
+    įkūrė gerokai už dabartinių šios žemės ribų. Tai patvir­
+    tina danų, švedų ir norvegų istorija — kad ir kokia pasa­
+    kiška, t. y. neparemta reikiamais įrodymais, ji būtų, vis
+    dėlto čia minimi karai su kuronais bei jų nukariavimai
+    mūsų eros 'pačioje pradžioje.
+  citata_rodoma: "279\nKoryones2, Kuryones, arba kuršiai lietuviškai, Kurr\nzemme patys vadina savo kraštą. Nestoras mini Kors,\ntinkamiau Kurs3. Žiloje senovėje Kuršo žemėje gyveno\nkažkokia tauta, vadinama baronais; jie savo gyvenvietes\nįkūrė gerokai už dabartinių šios žemės ribų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1306,8 +871,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - id: c-175454
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 286"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 286."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ksaveras Bogušas1 labai gerai pastebi, kad islandų
     sagose, kur pasakojama apie chorų, arba churų, tautą,
@@ -1317,18 +881,22 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     šiusi su lietuviais ir latviais) jie gyveno prie Dauguvos
     visoje Žemgaloje ir buvo vadinami koraksais, Korraxy.
     Dauguvai jie suteikė mitinį pavadinimą Rox, t. y. Ross.
+    Taigi ši upė, kai kur tekėdama būtent per tos tautos že­
+    mę, buvo vadinama Korrax, t. y. Kuršių Rosé, Kuronska
+    Ross2. Jų teritorijoje buvo penki gynybiniai miestai, kurių
+    vienas vadinosi Apulija.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192684
+    - t-197887
 
 - id: c-175455
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 286"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 286."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat Bogušas daro klaidingą prielaidą, kad tai
     turėjusi būti Palanga; mes viename iš artimiausių straips­
@@ -1348,20 +916,57 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - id: c-177129
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 214"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­
-    čiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto
-    naudai. Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
-    Jaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės
-    bartininko Vidmanto iš Kuršo duktė.
+    Kita­
+    dos jis greičiau perplaukdavo jūrą nuo pasaulio krašto iki kraš­
+    to, negu kas nors spėdavo persikelti per Nemuną. Jis kalbėda­
+    vosi su mėnesiu ir žinojo be galo daug žvaigždžių pavadinimų.
+    Turėjo žirgą, vadintą Juodžiu (Jodž), su kuriuo pralenkdavo
+    vėją. Jo rūmai buvo to žirgo galva - per vieną ausį įeidavo, per
+    antrą išeidavo. Kartą, kai Vitolfas puotavo pas vieną karalių,
+    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
+    šių ypatybių kaip žirgas.
+  citata_rodoma: "Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­\nčiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto\nnaudai. Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir\nJaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės\nbartininko Vidmanto iš Kuršo duktė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194733
+
+- id: c-178851
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Tie patys
+    ri­
+    teriai buvo pakviesti Konra­
+    do, Mazovijos kunigaikščio, bei Kristijono, Kulmo vys­
+    kupo, į Dobrynę, kad taip sėkmingai, kaip buvo paver­
+    gę latvius Livonijoje, dabar iš Dobrynės gintų nuo prū­
+    sų Mažo vi ją bei Lenkiją; ištisas dvi dienas atkak­
+    liai kovoję, jie buvo lietuvių ir prūsų išžudyti, ir tik
+    penki beišnešė galvas iš tų skerdynių. Taip jie pra­
+    rado bet kokią viltį įsikurti Dobrynėje, šitai davė Kon­
+    radui dingstį kreiptis į kitus riterius, skirtingos nei Li­
+    vonijos regulos, ir šiuos kviesti iš Vokietijos; kaip ir
+    visi, juos vėliau vadinsiu kryžiuočiais. Kitais metais
+    Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę
+    tik savo šalyje priešintis Li-
+    L en kai k v ie č ia iš V o -
+    vonijos riteriams, dabar lie-
+    k ie tijo s į P rū siją k r y -
+    tuviai buvo nusiųsti pulti
+    žiu o č iu s
+    priešų žemių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196699
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Ketleris]]

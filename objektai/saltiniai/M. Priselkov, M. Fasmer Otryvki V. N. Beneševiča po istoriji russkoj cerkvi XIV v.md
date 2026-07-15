@@ -43,22 +43,6 @@ Priselkov, M.
   teiginys: "M. Priselkovo ir M. Fasmerio „Otryvki V. N. Beneševiča po istoriji russkoj cerkvi XIV v.“ publikuota 1916 m., p. 49–61."
   pagrindžia:
     - c-33659
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^5) **PSRL, III, 75 p.**
-    (^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-
-    koj cerkvi XIV v._** **(Izvestija Otd. Russk. Jaz. i Slov.) 1916, 49-61 p.**
-    (^7) **LUB, II, 333 p.**
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

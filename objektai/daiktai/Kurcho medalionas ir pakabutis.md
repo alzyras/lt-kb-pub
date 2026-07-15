@@ -58,8 +58,8 @@ Aprašymai pateikiami Volianskio perduotų ar cituotų radinių kontekste.
   teiginys: "Narbutas trečiąjį Kurcho pakabutį aprašo kaip panašų į Berlyno muziejaus pavyzdį, tik su raiteliu iš dešinės pusės ir tomis pačiomis raidėmis."
   pagrindžia:
     - c-174953
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas trečiąjį Kurcho pakabutį aprašo kaip panašų į Berlyno muziejaus pavyzdį, tik su raiteliu iš dešinės pusės ir tomis pačiomis raidėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -84,16 +84,18 @@ Aprašymai pateikiami Volianskio perduotų ar cituotų radinių kontekste.
 - id: c-174953
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 488"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    (Tą pakabučio piešinį paėmiau iš
-    Tomseno III lentelės 34 piešinio)“.
-    Trečiasis [radinys] to paties asmens man duotas yra su tokiu ap­
-    rašymu: „Pakabutis toks, kaip ir Berlyno muziejuje, tačiau rai­
-    telis iš dešinės pusės, tuo tarpu pirmojo buvo iš kairės. Raidės
-    tos
-    pačios“.
+    Nedailus, vos galima suprasti, jog tai raitelis su sa­
+    kalu. Raidės užrašytos ratu: lotyniškas užrašas, venedų runomis,
+    pagal mano aiškinimą: l MM3 1 : S'k8>bP<^f> .’I*
+    HrlT
+    ĄĄŪ
+    Ų/nmolavit Saifiborius dux ¡\rucho olitori). To dievaičio
+    vardo užrašė raidė „o“ yra įterpta į vidurį, o ne į pabaigą, va­
+    dinasi, yra Koruch vietoj Krucho, o vietoje raidės „ch“, kuri ne­
+    buvo žinoma venedų runų abėcėlėje, buvo naudojama dviguba
+    „gg“ (11), kurios, sujungtos j vieną raidę ^ , skaitoma kaip ,,CH“.
   citata_rodoma: "Trečiasis [radinys] to paties asmens man duotas yra su tokiu ap­\nrašymu: „Pakabutis toks, kaip ir Berlyno muziejuje, tačiau rai­\ntelis iš dešinės pusės, tuo tarpu pirmojo buvo iš kairės. Raidės\ntos\npačios“."
   statusas: verified
   teiginio_tipas: faktas

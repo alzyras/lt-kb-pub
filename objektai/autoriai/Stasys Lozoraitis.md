@@ -44,31 +44,6 @@ Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuom
   teiginys: "Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuomenės vadas gen."
   pagrindžia:
     - c-176395
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuomenės vadas gen.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m.
-    liepą pasirašius SSRS ir Lenkijos nepuolimo paktą iš esmės subliuško so-
-    vietų įsipareigojimai Lietuvai dėl Vilniaus. Be to, Kaunas sunerimo, kad
-    Vokietija darosi vis agresyvesnė. Todėl 1934 m. pradėti megzti neoficialūs
-    Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras
-    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
-    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
-    strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
-
-    L I E T U V O S  I S T O R I J A
-    178
-    vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

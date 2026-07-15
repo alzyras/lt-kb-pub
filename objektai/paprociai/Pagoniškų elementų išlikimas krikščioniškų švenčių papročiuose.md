@@ -55,22 +55,6 @@ Nenurodyta
   teiginys: "Pagoniškos šventės Lietuvoje išliko krikščioniškųjų švenčių sluoksnyje, o žilos senovės elementai lėmė tautosakos, folkloro ir tautodailės savitumą."
   pagrindžia:
     - c-154564
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jų yra ir krikščioniškų švenčių, pavyzdžiui, Kalė-
-    dų, Velykų ir kt., papročiuose. Galėtume sakyti, kad pagoniškos šventės yra
-    tik „užsiklojusios“ krikščioniškuoju švenčių sluoksniu. Išlikę žilos senovės
-    elementai lemia lietuvių tautosakos, folkloro ir tautodailės savitumą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

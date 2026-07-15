@@ -43,34 +43,13 @@ Dytmaras Merzeburgietis, pasakodamas apie Boleslovo Narsiojo karus, 1009 metais 
   teiginys: "Dytmaras Merzeburgietis, pasakodamas apie Boleslovo Narsiojo karus, 1009 metais minėjo lietuvius."
   pagrindžia:
     - c-174551
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dytmaras Merzeburgietis, pasakodamas apie Boleslovo Narsiojo karus, 1009 metais minėjo lietuvius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Iš
-    mums žinomų originalių istorikų pirmasis, Lietuvą pa­
-    minėjęs 860 metais ar kiek vėliau, buvo Nestoras; jis iš­
-    vardijo rusų variagams ¡priklausiusias gentis2. Dytmaras,
-    Merzeburgo vyskupas, pasakodamas apie Boleslovo Nar­
-    siojo karus, 1009 metais mini ir lietuvius**.
-    ’ Hist.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174551
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš
     mums žinomų originalių istorikų pirmasis, Lietuvą pa­

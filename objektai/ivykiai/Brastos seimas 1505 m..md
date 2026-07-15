@@ -35,7 +35,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Redakcinė pastaba nurodo, kad Aleksandras į Brastos seimą atvyko 1505 m. sausio 11 d. Redakcinė pastaba nurodo, kad BK pasakoja apie Brastos seimo įvykius.
+1971 m. leidinio pastaboje nurodoma, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą kompozicija ir dalimi turinio skiriasi nuo platesnio M. Miechovitos pasakojimo.
 
 ## Laikotarpis ir datos
 
@@ -64,30 +64,9 @@ Nenurodyta
 <a id="claim-t-186806"></a>
 - t-001
   global_id: t-186806
-  teiginys: "1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo."
+  teiginys: '1971 m. leidinio pastaboje nurodoma, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą kompozicija ir dalimi turinio skiriasi nuo platesnio M. Miechovitos pasakojimo.'
   pagrindžia:
     - c-169989
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    M  LDK raitininkas Teodoras Januševičlus buvo Lucko seniūnu
-    ir Volynės žemės maršalu 1505— 1506 m. Tikslesnės datos nežino­
-    mos. M irė 1507 m.
-    °  Aleksandras atvyko ( Lietuvos ir Lenkijos atstovų suvažia­
-    vimų (seimą) Brastoje 1505 m. sausio 11 d.
-    Pasakojimas apie Brastos seimo įvykius (platesnis už Bychovco)
-    y ra taip pat M- Miechovitos Kronikoje (p. 367), bet to pasakojimo
-    kompozicija ir dalinai turinys abiejuose veikaluose skirtingi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -105,9 +84,9 @@ Nenurodyta
     y ra taip pat M- Miechovitos Kronikoje (p. 367), bet to pasakojimo
     kompozicija ir dalinai turinys abiejuose veikaluose skirtingi.
   citata_rodoma: "°  Aleksandras atvyko ( Lietuvos ir Lenkijos atstovų suvažia­\nvimų (seimą) Brastoje 1505 m. sausio 11 d.\nPasakojimas apie Brastos seimo įvykius (platesnis už Bychovco) \ny ra taip pat M- Miechovitos Kronikoje (p. 367), bet to pasakojimo \nkompozicija ir dalinai turinys abiejuose veikaluose skirtingi."
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186806
+    - t-001

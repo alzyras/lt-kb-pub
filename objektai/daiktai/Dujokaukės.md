@@ -61,35 +61,6 @@ Nenurodyta
   pagrindžia:
     - c-44649
 - susijęs iš [[objektai/daiktai/Statybininkų šalmai.md#claim-t-40772|Statybininkų šalmai]]: Statybininkų šalmai ir dujokaukės Lietuvos atsikūrimo metu buvo gautos iš Vilniaus miesto tarybos.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Benzinas padegamiesiems
-    mišiniams buvo suaukotas eilinių Lietuvos
-    gyventojų. Maistą taip pat aukojo gyventojai
-    ir maitinimo įmonės. Statybines medžiagas
-    įtvirtinimų statybai tiekė įvairios statybinės
-    organizacijos. Statybininkų šalmai ir du-
-    jokaukės - gautos Vilniaus miesto tarybos | |
-
-    Lietuvos atsikurimas
-
-    ## Puslapis 258
-
-    KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI
-
-    1947 m. sovietų konstruktoriaus M. Kalašnikovo sukurtas automa-
-    tinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44649

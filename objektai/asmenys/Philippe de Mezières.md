@@ -35,24 +35,6 @@ media_all_json: |-
   teiginys: "Philippe de Mezières siūlė į kryžiaus žygį prieš krikščionybės priešus pritraukti ir lietuvius."
   pagrindžia:
     - c-94002
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Philippe de Mezières siūlė į kryžiaus žygį prieš krikščionybės priešus pritraukti ir lietuvius.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    pavedė Krokuvos
-    vyskupui skelbti kryžiaus karą. Šitaip pirmą kartą buvo įvykdytas
-    prancūzų riterio Philippe de Mezières siūlymas — į kryžiaus žygį
-    prieš krikščionybės priešus pritraukti ir lietuvius^26. Lietuvių tauta,
-    kuri—nuo XIII amž.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

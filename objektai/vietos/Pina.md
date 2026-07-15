@@ -36,43 +36,20 @@ Pinskas lokalizuojamas prie Pinos upės.
   pagrindžia:
     - c-170332
 
-<a id="claim-t-187287"></a>
-- t-002
-  global_id: t-187287
-  teiginys: "Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas."
-  pagrindžia:
-    - c-170332
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Pinskas — viena iš Turovo-Pinsko kunigaikštystės sostinių,
-    dabar BTSR Bresto sr. miestas (prie Pinos up., Pripetės kairiojo
-    intako).
-    *  Lietuvių kunigaikštis Kukovaitis patikimuose šaltiniuose ne­
-    paliudytas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-170332
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 195"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 195."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Pinskas — viena iš Turovo-Pinsko kunigaikštystės sostinių,
+    Pinskas — viena
+    iš
+    Turovo-Pinsko
+    kunigaikštystės sostinių,
     dabar BTSR Bresto sr. miestas (prie Pinos up., Pripetės kairiojo
     intako).
-    *  Lietuvių kunigaikštis Kukovaitis patikimuose šaltiniuose ne­
+    * Lietuvių kunigaikštis Kukovaitis patikimuose šaltiniuose ne­
     paliudytas.
   citata_rodoma: "Pinskas — viena iš Turovo-Pinsko kunigaikštystės sostinių, \ndabar BTSR Bresto sr. miestas (prie Pinos up., Pripetės kairiojo \nintako).\n*  Lietuvių kunigaikštis Kukovaitis patikimuose šaltiniuose ne­\npaliudytas."
   statusas: verified
@@ -81,4 +58,3 @@ Pinskas lokalizuojamas prie Pinos upės.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187287
-    - t-187288

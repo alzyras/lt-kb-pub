@@ -35,26 +35,6 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
   teiginys: "Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos."
   pagrindžia:
     - c-32801
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jų tarpe du žinomi Algirdaičiai: 1380 kovoję prieš
-    Jogailą Maskvos pusėje, būtent Polocko — Andrius ir Briansko —
-    Dimitras, Jaunučio Gediminaičio sūnus Mykolas (iš Zaslavlio), du
-    Karijotaičiai (Semenas ir Hlebas)^36. Prie Vorsklos galvas paguldė
-    Vytauto ištikimieji Smolensko vietininkai Boreikaičiai ir žymusis
-    Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.
-    Jo didelį narsumą iškeldamas, Dlugošas pastebi, jog jis esą įtiki­
-    nėjęs Vytautą nepradėti kautynių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

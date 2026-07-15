@@ -36,25 +36,6 @@ Taigi Kęstučio dvaras buvo vie­ ta, kur daugiausia turėta žinių apie visus
   teiginys: "Kęstučio dvare buvo sukaupta daug žinių apie Lietuvos kaimynus."
   pagrindžia:
     - c-38536
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kęstučio dvare buvo sukaupta daug žinių apie Lietuvos kaimynus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Susitikęs su lenkais, jis ir jiems nenusi­
-    leidžia: priverstas pažadėjo krikštytis, bet nuo to pasižadėjimo
-    atsisakė pirmą progą radęs. Taigi Kęstučio dvaras buvo vie­
-    ta, kur daugiausia turėta žinių apie visus kaimynus. Netenka
-    abejoti, kad tokiose sąlygose beaugąs Vytautas galėjo anksti
-    susipažinti su valstybės reikalais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

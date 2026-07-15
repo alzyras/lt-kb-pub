@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - krikštas
+  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'
@@ -71,51 +72,27 @@ Nenurodyta
   teiginys: "Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus."
   pagrindžia:
     - c-63088
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
-                                     sudeginimą
-
-       Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,
-    slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus
-    ir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.
-
-
-
-
-               262 (255).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196965"></a>
+- t-004
+  global_id: t-196965
+  teiginys: "Apie vieną brolį Tais 1295 metais vienas negalės nukamuotas Velzaco pilies brolis, mirties akivaizdoje puolęs broliui kunigui Ditrichui ant krūtinės, ilgokai išbuvo ekstazėje ir pamatė daug nuostabių dalykų."
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
+    - c-63088
 
 ## Citatos
 
 - id: c-63088
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 188"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
-                                     sudeginimą
-
-       Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,
-    slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus
-    ir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.
-
-
-
-
-               262 (255).
+    Apie vieną brolį
+    Tais 1295 metais vienas negalės nukamuotas Velzaco pilies brolis, mirties akivaizdoje
+    puolęs broliui kunigui Ditrichui ant krūtinės, ilgokai išbuvo ekstazėje ir pamatė daug
+    nuostabių dalykų. Galop, atgavęs sąmonę, jis pasakė: „Kunige Ditrichai, sakykite pirma
+    manęs: „Jėzau Kristau, dievo sūnau“. Po to jis tiksliai išpranašavo savo mirties dieną ir
+    valandą.
   citata_rodoma: "Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių\n                                 sudeginimą\n\n   Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,\nslaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus\nir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.\n\n\n\n\n           262 (255)."
   statusas: verified
   teiginio_tipas: faktas
@@ -125,3 +102,4 @@ Nenurodyta
     - t-62449
     - t-183959
     - t-194419
+    - t-196965

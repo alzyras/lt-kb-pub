@@ -35,8 +35,8 @@ Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir aps
   teiginys: "Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir apsigyveno prie Volgos žemupio."
   pagrindžia:
     - c-171969
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir apsigyveno prie Volgos žemupio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -61,16 +61,20 @@ Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir aps
 - id: c-171969
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tikras dalykas yra tik tai, kad Arak-
-    so upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip
-    tik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­
-    cijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­
-    sigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-
-    sas. Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
-    Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę.
+    Kituose Lietu­
+    vos pakraščiuose ir pas kitas tautas, kilusias iš jos kamieno,
+    tikriausiai irgi buvo upių tokiais vardais arba dar ir dabar jos
+    tebėra žinomos; aptikti jų mums nepasitaikė. Net Vokietijoje,
+    kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
+    Russ, vėliau imtą vadinti Wessel. Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+  citata_rodoma: "Tikras dalykas yra tik tai, kad Arak-\nso upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip\ntik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­\ncijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­\nsigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-\nsas. Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir\nRoksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

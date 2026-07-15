@@ -35,21 +35,6 @@ Vėbra^128.
   pagrindžia:
     - c-33119
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179531|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    171-174p.). Lietuviškos spaudos draudimo XIX a. klausimais ne­
-    mažai rašė R. Vėbra^128.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33119

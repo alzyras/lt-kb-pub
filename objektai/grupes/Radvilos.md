@@ -4,6 +4,7 @@ pavadinimas: 'Radvilos'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1325 m.'
@@ -15,15 +16,15 @@ datos:
   - '1697 m.'
 date_start: '1325'
 date_end: '1697'
+amziai:
+  - 'XIV'
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
   - grupe
   - kariuomenė
-amziai:
-  - 'XIV'
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -79,6 +80,13 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   teiginys: "Šalia aprašyto antspaudo buvo kitas antspaudas su skyde pavaizduotu Vyčiu po karūna ir apačioje esančiu Radvilų Trimitų herbu."
   pagrindžia:
     - c-171215
+
+<a id="claim-t-200759"></a>
+- t-006
+  global_id: t-200759
+  teiginys: "Vorobjovo vertinimu, Radvilos kartu su Pacais ir Sapiegomis buvo vietiniai lietuvių didikai, suvaidinę žymų vaidmenį Vilniaus baroko plėtotėje."
+  pagrindžia:
+    - c-184104
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/asmenys/Cvinglis.md#claim-t-87646|Cvinglis]]: Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo giliai įsišaknijęs ir remiamas Mikalojaus Radvilos Juodojo.
 - susijęs iš [[objektai/asmenys/Dominykas Radvila.md#claim-t-87655|Dominykas Radvila]]: Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.
@@ -103,6 +111,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113887|Mikalojus Radvila Juodasis]]: Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113894|Mikalojus Radvila Rudasis]]: Po Radvilos Juodojo mirties Mikalojus Radvila Rudasis vadovavo kalvinistinei reformacijai.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186354|Mikalojus Radvila]]: Lietuvos maršalka Mikalojus Radvila užtarė Martyną Paleckį, gavusį iš karaliaus žemės sklypą ir leidimą steigti stiklo fabriką.
+- susijęs iš [[objektai/asmenys/Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.).md#claim-t-200701|Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.)]]: 1752 m. Jonas Dominykas Lopacinskis minėjo Mykolo Kazimiero Radvilos Žuvelės atvykimą ir galimas derybas dėl brolio interesų per seimelį.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183845|Žygimantas Augustas (arkivyskupas, XVI a.)]]: 1555 m. Žygimantas Augustas patvirtino Radvilos dovanojimą gydytojui Cimermanui.
 - susijęs iš [[objektai/autoriai/J. Andrius.md#claim-t-30657|J. Andrius]]: J. Andrius 1952 m. „Aiduose“ paskelbė darbą „Kng. Radvilos Lietuvos žemėlapis“.
 - susijęs iš [[objektai/autoriai/Jacobas Schrenckas.md#claim-t-78083|Jacobas Schrenckas]]: Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pateikė Mikalojaus Radvilos Juodojo atvaizdą.
@@ -132,7 +141,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - susijęs iš Kėdainiai: Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru.
 - susijęs iš Pinskas: Pinske atsirado jėzuitų kolegija, funduota kanclerio Alberto Stanislovo Radvilos.
 - susijęs iš Vaivados malūnas Užupyje: Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą prie Vilniaus vaivados Mikalojaus Radvilos malūno Užupyje.
-- susijęs iš Vilnius: Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą.
 - susijęs iš [[objektai/asmenys/Georgas Fridrikas Valdekas.md#claim-t-40122|Georgas Fridrikas Valdekas]]: Georgas Fridrikas Valdekas vadovavo maždaug 7000 švedų, brandenburgiečių ir prūsų karių jungtinei kariuomenei.
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-40125|Grigalius Chodkevičius]]: Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų karių.
 - susijęs iš [[objektai/asmenys/Ivanas Vasiljevičius.md#claim-t-87520|Ivanas Vasiljevičius]]: Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės.
@@ -158,15 +166,14 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-188198|Jėzuitų ordinas]]: 1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė kunigą Jokūbą Lencicijų su dviem bičiuliais misionieriais.
 - susijęs iš [[objektai/ivykiai/Antrasis valstybės padalijimas.md#claim-t-86940|Antrasis valstybės padalijimas]]: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
 - susijęs iš [[objektai/ivykiai/Ač-Girėjaus valdžios atstatymas Kryme.md#claim-t-186758|Ač-Girėjaus valdžios atstatymas Kryme]]: 1971 m. leidinio pastaba Ač-Girėjaus valdžios atstatymą Kryme sieja su antruoju jo valdžios atkūrimu 1449 m. rugpjūtį.
-- susijęs iš [[objektai/ivykiai/Ač-Girėjaus valdžios atstatymas Kryme.md#claim-t-186759|Ač-Girėjaus valdžios atstatymas Kryme]]: Bychovco kronika Radvilos Astikaičio vaidmenį Ač-Girėjaus grįžime į Krymą vaizduoja kitaip negu J. Dlugošas.
 - susijęs iš [[objektai/ivykiai/Disidentų knygų deginimas, reformatų maldos namų užpuolimas ir Batoro laiškas (1581 m.).md#claim-t-86943|Disidentų knygų deginimas, reformatų maldos namų užpuolimas ir Batoro laiškas (1581 m.)]]: Steponas Batoras iš stovyklos parašytame laiške pasmerkė sumaištį ir pareiškė prisiekęs valstybėje saugoti laisvę.
 - susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80673|Kėdainių unija (1655 m. spalio 20 d.)]]: Jonušo Radvilos pastangomis Kėdainių unija su Švedija buvo sudaryta 1655 m. spalio 20 d.
-- susijęs iš [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika.md#claim-t-185748|Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]: Ordino magistras Ketleris ir Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš [[objektai/ivykiai/Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.).md#claim-t-86957|Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.)]]: Martynas Paleckis Vilniuje gavo leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.
 - susijęs iš [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.).md#claim-t-78632|Prostkų mūšis (1656 m. spalio 8 d.)]]: Prostkų mūšyje Švedijos ir Brandenburgo pajėgas pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujama kariuomenė.
 - susijęs iš [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.).md#claim-t-78634|Prostkų mūšis (1656 m. spalio 8 d.)]]: 1656 m. spalio 8 d. Prostkų mūšyje kariuomenės suartėjo ties Prostkais, skiriamos Elko upės.
 - susijęs iš [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.).md#claim-t-78635|Prostkų mūšis (1656 m. spalio 8 d.)]]: 1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas.
 - susijęs iš [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.).md#claim-t-78636|Prostkų mūšis (1656 m. spalio 8 d.)]]: Prostkų mūšyje lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą Elko upės krantą.
+- susijęs iš [[objektai/ivykiai/Radvilų mokyklų steigimas Lietuvoje.md#claim-t-200881|Radvilų mokyklų steigimas Lietuvoje]]: Basanavičiaus teigimu, Radvilos Juodasis ir Rudasis XVII a. antroje pusėje Lietuvoje įsteigė kelias mokyklas, kuriose mokyta ir lietuvių kalbos.
 - susijęs iš [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.).md#claim-t-41392|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]: Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę.
 - susijęs iš [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas.md#claim-t-183306|Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]: Reformacijos antrajame etape didikai rinkosi kalvinizmą, nes jis tiko jų siekiui silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką.
 - susijęs iš [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas.md#claim-t-54226|Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]: XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.
@@ -179,7 +186,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - susijęs iš Lenko pasikalbėjimu su lietuviu: „Lenko pasikalbėjime su lietuviu“ buvo ginčijami Ožechovskio tvirtinimai ir ginamos Lietuvos valstybės teisės gyventi savarankiškai.
 - susijęs iš Lenko pasikalbėjimu su lietuviu: 1564 m. mokslinti lietuviai paskelbė atsakymą Ožechovskiui knygutėje „Lenko pasikalbėjimu su lietuviu“.
 - susijęs iš Lietuvos ir Livonijos konfliktas 1556-1557: Sužiedėlis 1937 m. „Athenaeume“ paskelbė studiją „Lietuvos ir Livonijos konfliktas 1556-1557“.
-- susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Lietuvos didžiojo kunigaikščio Žygimanto Augusto globą.
 - susijęs iš Livonijos prijungimas prie Lietuvos: Sužiedėlis 1933 m. „Athenaeume“ paskelbė studiją „Livonijos prijungimas prie Lietuvos“.
 - susijęs iš P. Rėklaitis Lietuvos senoji kartografija: P. Rėklaičio „Lietuvos senoji kartografija“ paskelbta „Tautos Praeities“ II tomo 1 dalyje, Romoje 1964 m., p. 64-76.
 - susijęs iš Stepono Batoro 1576 m. gruodžio 20 d. laiškas: Stepono Batoro parašo faksimilė paimta iš jo 1576 m. gruodžio 20 d. rašyto laiško.
@@ -200,9 +206,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - susijęs iš Kovelis: Sanguškos, kilę iš šalutinių Gediminaičių šakų, sukūrė tėvoniją Kovelyje, vėliau Slavuta.
 - susijęs iš Kražiai: Kražiuose atsirado jėzuitų kolegija, funduota didžiojo etmono Jono Karolio Katkevičiaus.
 - susijęs iš Lauksodis: Lauksodyje veikė viena iš mažesnių jėzuitų mokyklų.
-- susijęs iš Lietuva: Livonijos atstovai seime nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Lietuva: Narbutas nurodė, kad rankraštis baigiasi pagyrimu lietuvių tautos svetingumui, darbštumui ir namų gyvenimo dorybėms.
-- susijęs iš Livonija: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Lojevas: V. Gosievskis sudegintame Lojeve užėmė patogias pozicijas ir įsakė supilti pylimą Podobailos stovyklai apšaudyti.
 - susijęs iš Lojevka upė: Radvilos pajėgų sparnuose stovėję pėstininkai ir dragūnai gynė Lojevkos upės, juosiančios stovyklą, užtvanką.
 - susijęs iš Ludza: Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmis.
@@ -211,6 +215,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - susijęs iš Mlynivas: Voluinėje valdas įgiję Chodkevičiai turėjo valdų Mlynive.
 - susijęs iš Mogiliavas: Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes.
 - susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
+- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
 - susijęs iš Nesvyžius: Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje.
 - susijęs iš Nesvyžius: Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje.
 - susijęs iš Opokos apylinkės: 1581 m. K. Radvilos Perkūno reido metu buvo nusiaubtos Opokos apylinkės.
@@ -231,8 +236,8 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - susijęs iš Urdomas: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos, perėjusios Volgą, sudegino Urdomą ir pasuko Staricos link.
 - susijęs iš Varniai: Jėzuitai Varniuose turėjo įsikūrę mažesnę mokyklą.
 - susijęs iš Vilija: Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 metų tapo reformacijos šalininkų prieglobsčiu ir mokykla.
-- susijęs iš Vilnius: Vilniuje buvo įsteigtas pirmasis stiklo fabrikas, kurį steigti leidimą gavo karaliaus dvariškis Martynas Paleckis.
 - susijęs iš Vitebskas: Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija.
+- susijęs iš Vitebskas: Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui.
 - susijęs iš Volgos upė: K. Radvilos pajėgos, perėjusios Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link.
 - susijęs iš Voluinė: Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi.
 - susijęs iš Voluinė: Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi.
@@ -240,7 +245,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - susijęs iš Vyšnivecis: Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje.
 - susijęs iš Vyšnivecis: Vyšnioveckiai sukūrė tėvoniją Vyšnivecyje, Voluinėje.
 - susijęs iš Žodiškiai: Žodiškiuose veikusi jėzuitų kolegija buvo Minkevičių fundacija.
-- susijęs iš [[objektai/zodynas/Pataurininkis.md#claim-t-187525|Pataurininkis]]: Mikalojus Mikalojaitis Radvila Jaunasis nuo 1495 m. buvo pataurininkis.
 - susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86465|disidentai reformatai reformatoriai]]: Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju.
 - susijęs iš [[objektai/zodynas/etmonas.md#claim-t-42451|etmonas]]: Kristupas Radvila vėliau tapo didžiuoju etmonu ir buvo vadinamas Perkūnu.
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-183484|tėvonija tėvų palikimas]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
@@ -252,70 +256,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176263|vietininkas]]: Bogdanas Kievla buvo Vilniaus vaivados ir valstybės kanclerio Mikalojaus Radvilos vietininkas.
 - susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-40212|Jokūbas Kudenekovičius Čerkaskis]]: Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių bei sumušė J. Radvilos ir V. Gosievskio pajėgas.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vienas iš Radvilų 1615 m. laiške rašė, kad Lietuvoje reikia vartoti lenkų kalbą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai,
-    lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą. Len-
-    Chotyno mūšyje Lenkijos ir Lietuvos  kariuomenė
-    sumuša turkus 1673 m. (Iš Vilniuje spausdinto
-    J. Benneto veikalo „Viešpaties dešinės galybė“, 1674)
-
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    75
-    kų kalbos vaidmenį Lietuvos kultūroje apibendrino vienas iš Radvilų savo
-    laiške, rašytame 1615 m.: „Nors lietuviu esu gimęs ir lietuviu teks man
-    mirti, tačiau turime vartoti mūsų tėvynėje lenkų kalbą.“ Lenkų kalba pa-
-    mažu įsigalėjo – 1697 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kalvinizmas vėliau pradėjo nykti, tačiau išliko
-    iki šių dienų. Apie Biržus gyvenantys evangelikai reformatai yra tiesiogi-
-    niai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vado-
-    vavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.
-    Reformacija tapo nauju lenkėjimo postūmiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Ra-
-    dvila Juodasis. Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
-    sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
-    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
-    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
-    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
-    jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
-    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
-    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
-    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-004
   santrauka: 'Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -356,27 +296,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
-- c-005
-  santrauka: 'Šalia aprašyto antspaudo buvo kitas antspaudas su skyde pavaizduotu Vyčiu po karūna ir apačioje esančiu Radvilų Trimitų herbu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Rašy­
-    tas ant storo, lygaus ir gražaus skudurinio popieriaus; antspau­
-    das prispaustas prie paties popieriaus ir visiškai ryškus. Ratu
-    einantis užrašas perskaitomas; kai dėl herbo įvedimo datos,
-    atrodo, įtikėtina, kad tai buvo 1325 metais, taigi dar stabmel­
-    dystės laikais; todėl pasitvirtina mūsų spėjimas, kad tai milži­
-    nas Alcis laikui bėgant virto šventuoju Kristupu. Antrame ant­
-    spaude, prispaustame šalia šito, skyde yra Vytis po karūna;
-    apačioje -  Radvilų herbas Trimitai*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
 
 ## Citatos
 
@@ -454,13 +373,11 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     taip išauklėtas, kad mėgo
     puotauti, šokti ir visaip link-
     1545 m e ta i
-    M iršta  A u strijo s k u ­
+    M iršta A u strijo s k u ­
     n ig a ik š ty tė
     E lžb ieta ,
-    A u g u sto  žm on a
-    6 7  4
-
-    ## Puslapis 673
+    A u g u sto žm on a
+    6 7 4
 
     smintis su moterimis, pradėjo lankyti Barborą Radvi­
     laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­
@@ -478,6 +395,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     sodus takelį ir tiltuką per Vilnios upę. Sklido viso­
     kios kalbos ir apie Barborą, ir apie Augustą, gal ir
     neteisingos, bet nesakysi, kad visai be pagrindo.
+  citata_rodoma: "Jaunatviškai lengvabū­\ndiškas, be to, iš mažumės\ntaip išauklėtas, kad mėgo\npuotauti, šokti ir visaip link-\n1545 m e ta i\nM iršta  A u strijo s k u ­\nn ig a ik š ty tė\nE lžb ieta ,\nA u g u sto  žm on a\n6 7  4\n\n## Puslapis 673\n\nsmintis su moterimis, pradėjo lankyti Barborą Radvi­\nlaitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­\nvados Stanislovo Goštauto našlę. Nors Radvilų rūmai\nbuvo visai netoli karaliaus\nA u g u sta s sla p ta i ve-\npilies, Augustas, trokšdamas\nd a\nB arborą\nR a d vi-\nkada panorėjęs kuo trumpes-\nla itę\nniu keliu ten patekti, palie­\npė nukloti iš pilies į Barboros\nsodus takelį ir tiltuką per Vilnios upę. Sklido viso­\nkios kalbos ir apie Barborą, ir apie Augustą, gal ir\nneteisingos, bet nesakysi, kad visai be pagrindo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -488,8 +406,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - id: c-171215
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 407"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Rašy­
     tas ant storo, lygaus ir gražaus skudurinio popieriaus; antspau­
@@ -499,13 +416,40 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     dystės laikais; todėl pasitvirtina mūsų spėjimas, kad tai milži­
     nas Alcis laikui bėgant virto šventuoju Kristupu. Antrame ant­
     spaude, prispaustame šalia šito, skyde yra Vytis po karūna;
-    apačioje -  Radvilų herbas Trimitai*.
+    apačioje - Radvilų herbas Trimitai*.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188322
+
+- id: c-184104
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 32"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 32."
+  citata_originali: |
+    Lietuvos etmonui Mykolui Pacui išvijus
+    Maskvos kariuomenę, prasideda dar puikesnis bažnyčių ūgis, kuris užtrunka
+    daugiau kaip šimtmetį.
+    Kalbėdami apie Vilniaus baroko charakterį, nepamirškime, kad šito stiliaus
+    plėtotėje, be svetimšalių jėzuitų, žymų vaidmenį suvaidino vietiniai lietu­
+    vių didikai, kaip antai Pacai, Sapiega:, Radvilai, kurie nuo seno buvo
+    svarbiausieji Vilniaus architektūros įkvėpėjai. Ir iš viso, nagrinėjant pra­
+    eities meną, niekuomet nereikia išleisti iš akių didžiulės užsakovų reikšmės:
+    daugelis jų, būdami šviesūs, humanistiškai išsilavinę žmonės, gerai nusi­
+    maną apie meno plonybes ir reiklūs skonio atžvilgiu, meno kūrinių cha­
+    rakteriui turėdavo ne menkesnę įtaką, kaip pačių architektorių bei deko­
+    ratorių temperamentas ir meninė mąstysena; pastarieji, kaip ir kituose to
+    meto Europos kraštuose, būdavo iš dalies svetimšaliai, iš dalies — iš jų
+    prasimokę vietos meistrai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200759
 
 ## Ryšiai
 - Radvilos užėmė [[objektai/vietos/Cholmas]]

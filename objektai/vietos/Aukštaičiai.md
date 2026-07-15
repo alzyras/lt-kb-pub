@@ -35,28 +35,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginys: "Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pietinės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų sritys — Minskas, Vitebskas, Polockas."
   pagrindžia:
     - c-175999
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pietinės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų sritys — Minskas, Vitebskas, Polockas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taip būdavo ir vėlesniaisiais laikais; pavyzdžiui,
-    kai kurios Gedimino prijungtos sritys paskum buvo vėl laikinai
-    atsimetusios, ir jas vėliau teko antrą kartą prijungti kitiems di-
-    diesiems kunigaikščiams.
-    Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pieti-
-    nės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų
-    sritys — Minskas, Vitebskas, Polockas. Vilniuje sėdėjo pats
-    Gediminas, Polocke — jo brolis Vainys, o kitose kunigaikštys-
-    tėse — jo sūnūs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

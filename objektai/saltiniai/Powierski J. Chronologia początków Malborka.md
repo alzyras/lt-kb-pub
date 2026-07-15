@@ -7,12 +7,12 @@ datos:
   - '1979 m.'
 date_start: '1979'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad powierski J.
   teiginys: "J. Powierskio straipsnis „Chronologia początków Malborka“ paskelbtas 1979 m. ZHPB 44 tomo 2 sąsiuvinyje."
   pagrindžia:
     - c-61870
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Powierskio straipsnis „Chronologia początków Malborka“ paskelbtas 1979 m. ZHPB 44 tomo 2 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,11 @@ Dusburgietis teigia, kad powierski J.
 - id: c-61870
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Powierski J. Chronologia początków Malborka.— ZHPB, 1979, t. 44, z. 2, s. 5—31.
+    ketvirtyje —Vilniaus valstybinio pedagoginio instituto mokslo darbai. Istorija ir filologija.
+    V., 1957, t. 3, p. 5—33.
+  citata_rodoma: "Powierski J. Chronologia początków Malborka.— ZHPB, 1979, t. 44, z. 2, s. 5—31."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

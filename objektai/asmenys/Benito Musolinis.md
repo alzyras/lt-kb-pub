@@ -43,27 +43,6 @@ Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į va
   teiginys: "Benito Musolinio atėjimas į valdžią Italijoje buvo vienas Europos procesų, skatinusių Seimo valdymu Lietuvoje nepatenkintas jėgas veikti."
   pagrindžia:
     - c-21621
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Benito Musolinio atėjimas į valdžią Italijoje buvo vienas Europos procesų, skatinusių Seimo valdymu Lietuvoje nepatenkintas jėgas veikti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi Maskva, nepaisydama Lenkijos nepasitenkinimo, pri-
-    pažino Lietuvos suverenitetą Vilniuje.
-    Lietuvos politines jėgas veikė bendrieji Europos procesai – parla-
-    mentarizmo krizės, diktatūrų įvedimai, perversmai. Bolševikų diktatūra
-    SSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje,
-    perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
-    gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
-    visus, nepatenkintus Seimo valdymu („seimokratija“).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

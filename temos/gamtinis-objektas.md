@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 55
+tema_objektu_skaicius: 53
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 55.
+Objektų skaičius: 53.
 
 ## Kaip naudoti
 
@@ -58,7 +58,6 @@ Objektų skaičius: 55.
 - [Menorka](../objektai/vietos/Menorka)
 - [Palangos kalnas](../objektai/vietos/Palangos%20kalnas)
 - [Palemono kalnas](../objektai/vietos/Palemono%20kalnas)
-- [Pasveikinimo kalva](../objektai/vietos/Pasveikinimo%20kalva)
 - [Paukščių takas](../objektai/vietos/Pauk%C5%A1%C4%8Di%C5%B3%20takas)
 - [Pripetės pelkės](../objektai/vietos/Pripet%C4%97s%20pelk%C4%97s)
 - [Raudonasis tvenkinys](../objektai/vietos/Raudonasis%20tvenkinys)
@@ -79,5 +78,4 @@ Objektų skaičius: 55.
 - [Šunkarių miškas](../objektai/vietos/%C5%A0unkari%C5%B3%20mi%C5%A1kas)
 - [Šv. Vincento kyšulys](../objektai/vietos/%C5%A0v.%20Vincento%20ky%C5%A1ulys)
 - [Šventaragio slėnys](../objektai/vietos/%C5%A0ventaragio%20sl%C4%97nys)
-- [Šventojo Kryžiaus kalnai](../objektai/vietos/%C5%A0ventojo%20Kry%C5%BEiaus%20kalnai)
 - [Žalioji giria](../objektai/vietos/%C5%BDalioji%20giria)

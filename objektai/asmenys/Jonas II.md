@@ -48,28 +48,6 @@ Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519
     - c-83697
 - susijęs iš Poznanė: Jonas II 1536 m. buvo perkeltas į Poznanės vyskupiją ir mirė 1538 m., sulaukęs 40 metų.
 - susijęs iš Poznanė: Jonas II 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jonas II, karaliaus Zigmanto I sūnus, 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją ir mirė 1538 m.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
-    ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino
-    1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.
-    12. Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto
-    I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o
-    1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40
-    metų, 1538 m.
-    13.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83697

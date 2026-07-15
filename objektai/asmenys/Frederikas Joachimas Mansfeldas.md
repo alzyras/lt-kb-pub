@@ -50,44 +50,6 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
   teiginys: "1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje."
   pagrindžia:
     - c-44329
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    © Dambravos raitarai užeina F.J. Mansfeldo
-    kavaleristams iš flango ir suduoda stiprų
-    smūgį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    valdovui Zigmantui Vazai kovoti su maiš-
-    tininkais. Tuo pasinaudojo Švedijos ka-
-    ralius Karolis 1x, kuris sutelkęs pajėgas
-    pradėjo aktyvius veiksmus Livonijoje.
-    1608 m. vasarą Livonijoje išsilaipino grafo
-    Frederiko Joachimo Mansfeldo vadovau-
-    jamas 8000 Švedijos karių ekspedicinis
-    korpusas, kuris 1608 m. rugpjūčio 1 d.
-    užėmė Daugavgryvos senąją pilį ir pra-
-    dėjo Rygos miesto blokadą, neleisdamas
-
-    4 nei finansinės paramos iš Lenkijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

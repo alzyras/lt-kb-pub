@@ -58,33 +58,13 @@ Nenurodyta
   teiginys: "Pasak Narbuto, prireikus Sambijos vitingai vadovavo ginkluotiems žmonėms, o iš jų buvo renkamas vyriausias karvedys, paskiausiai Glaudė."
   pagrindžia:
     - c-174969
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasak Narbuto, prireikus Sambijos vitingai vadovavo ginkluotiems žmonėms, o iš jų buvo renkamas vyriausias karvedys, paskiausiai Glaudė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    tinės valdžios. Prireikus jie vadovavo ginkluotiems žmo­
-    nėms, be to, iš jų buvo renkamas vyriausias karvedys,
-    kuriuo pastaruoju laiku buvo vitingas Glaudė.
-    Salavija
-    Vienuolikta Prūsijos provincija buvo Salavija, Scha-
-    laueri.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174969
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 369"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     tinės valdžios. Prireikus jie vadovavo ginkluotiems žmo­
     nėms, be to, iš jų buvo renkamas vyriausias karvedys,

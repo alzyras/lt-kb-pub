@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 56
+tema_objektu_skaicius: 55
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 56.
+Objektų skaičius: 55.
 
 ## Kaip naudoti
 
@@ -29,7 +29,6 @@ Objektų skaičius: 56.
 - [[objektai/asmenys/Antuanas Mejė]]
 - [[objektai/asmenys/Augustas Liudvikas fon Slėceris]]
 - [[objektai/asmenys/Henrikas Julijus Klaprotas]]
-- [[objektai/asmenys/Jonas Basanavičius]]
 - [[objektai/asmenys/Jonas Jablonskis]]
 - [[objektai/asmenys/Julija Žymantienė-Žemaitė]]
 - [[objektai/asmenys/Kazimieras Būga]]
@@ -53,7 +52,7 @@ Objektų skaičius: 56.
 - [[objektai/autoriai/Frydrichas Stenderis]]
 - [[objektai/autoriai/G. H. F. Neselmanas]]
 - [[objektai/autoriai/Gerullis G]]
-- [Gotthard Friedrich Stender](../objektai/autoriai/Gotthard%20Friedrich%20Stender)
+- [[objektai/autoriai/Gotthard Friedrich Stender]]
 - [Gotthardas Friedrichas Stenderis](../objektai/autoriai/Gotthardas%20Friedrichas%20Stenderis)
 - [Górnowicz H](../objektai/autoriai/G%C3%B3rnowicz%20H)
 - [J. Endzelynas](../objektai/autoriai/J.%20Endzelynas)

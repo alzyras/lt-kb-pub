@@ -47,51 +47,6 @@ media_all_json: |-
   teiginys: "Kirkoras „Pasivaikščiojimuose po Vilnių ir jo apylinkes“ rėmėsi Kraševskio ir Balinskio veikalais apie Vilnių."
   pagrindžia:
     - c-84249
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Adomas Honorijus Kirkoras 1859 m. išleistame vadove po Vilnių rašė, kad miestas jau turi savo istorikus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1859 m. išleistame vadove po Vilnių autorius Adomas Ho­
-    norijus Kirkoras su pasitenkinimu pastebėjo, kad jo mylimas
-    miestas jau turi savo istorikus. „Vilniuje sulig kiekvienu žings­
-    niu užtiksite ką nors įdomaus, pamokomo, kas primins jums
-    šlovingus lietuvių žygius, atvers dorybių ir nuopelnų, ydų ir
-    aistrų kupiną jų gyvenimo knygą. Vilnius - tai gyva senosios
-    Lietuvos kronika, jos buvusios šlovės ir nuosmukių liudytojas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kirkoras „Pasivaikščiojimuose po Vilnių ir jo apylinkes“ rėmėsi Kraševskio ir Balinskio veikalais apie Vilnių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau jaučiame pareigą pasakyti, kad, be žinomų ir labai mums
-    brangių Kraševskio ir Balinskio veikalų apie Vilnių, Vilniaus
-    universiteto profesoriaus Mykolo Homolickio mokslinių straips­
-    nių, Narbuto, Kraševskio ir Jaroševičiaus Lietuvos istorijų <... >
-    pasinaudojome <...> taip pat prof. A. F. Adamovičiaus ir Do­
-    minyko Chodzkos Sukauptais rankraščiais apie gimtąjį miestą
-    .... * —
-    XIII
-
-    ## Puslapis 14
-
-    užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­
-    džiausiai dėkojame"12.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

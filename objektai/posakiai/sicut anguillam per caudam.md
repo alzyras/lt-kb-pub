@@ -41,51 +41,7 @@ Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už
   teiginys: "Ordinas Konstancoje pripažino Žemaičius laikęs lyg slidų ungurį už uodegos („sicut anguillam per caudam“)."
   pagrindžia:
     - c-33493
-
-<a id="claim-t-184361"></a>
-- t-002
-  global_id: t-184361
-  teiginys: "Ordinas Konstancoje pripažino Žemaičius laikęs lyg slidų ungurį už uodegos („sicut anguillam per caudam“)."
-  pagrindžia:
     - c-167731
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Žmonės esą buvę verčiami į sunkiausius darbus, truk­
-    domas susisiekimas ir prekyba, atiminėjamos nuosavos žemės,
-    žiauriai imami įkaitai, grobiant vaikus ir žmonas, nuskriaudžiant
-    moteris, kertant galvas, ir t.t.
-    Dauguma žemaičių, kurie ordinui skaitėsi « mūsų priešai »^50 ,
-    nesidavė palenkiami. Anot paties vietininko, jie šiandien sakė
-    « taip », o rytoj jau « ne »^51. Pats ordinas Konstancoje pripažino
-    Žemaičius telaikęs lyg slidų ungurį už uodegos (« sicut anguillam
-    per caudam »)^52.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Ordinas Konstancoje pripažino Žemaičius laikęs lyg slidų ungurį už uodegos („sicut anguillam per caudam“).'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Anot paties vietininko, jie šiandien sakė
-    « taip », o rytoj jau « ne »^51. Pats ordinas Konstancoje pripažino
-    Žemaičius telaikęs lyg slidų ungurį už uodegos (« sicut anguillam
-    per caudam »)^52. Kaip rodo Žemaičių skundas 1407, nuo pat naujo
-    kryžiuočių užvaldymo Žemaičiuose buvo daug nepasitenkinimo^53.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -125,5 +81,3 @@ Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184361

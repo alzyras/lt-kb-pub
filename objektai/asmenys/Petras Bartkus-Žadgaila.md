@@ -50,28 +50,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Vytautas Šniuolis-Svajūnas.md#claim-t-39681|Vytautas Šniuolis-Svajūnas]]: 1949 m. rugpjūčio 13 d. Užpelkių miške žuvo Prisikėlimo apygardos štabo viršininkas Vytautas Šniuolis-Svajūnas.
 - susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41115|Prisikėlimo apygarda]]: 1949 m. rugpjūčio 13 d. Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
 - susijęs iš [[objektai/ivykiai/Užpelkių kautynės.md#claim-t-39139|Užpelkių kautynės]]: 1949 m. rugpjūčio 13 d. Radviliškio rajono Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1949 m. rugpjūčio 13 d. Užpelkių miške žuvo LLKS tarybos prezidiumo narys ir Prisikėlimo apygardos vadas Petras Bartkus-Žadgaila.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1949 m. rugpjūčio 13 d. Radviliškio r.
-    Užpelkių miške sunaikintas Prisikėlimo
-    apygardos štabas. Žuvo LLKS tarybos pre-
-    zidiumo nariai Petras Bartkus-Žadgaila
-    (Prisikėlimo apygardos vadas) ir Bronius
-    Liesis-Naktis, Prisikėlimo apygardos
-    štabo viršininkas Vytautas Šniuolis-Svajū-
-    nas ir dar trys neatpažinti partizanai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41430

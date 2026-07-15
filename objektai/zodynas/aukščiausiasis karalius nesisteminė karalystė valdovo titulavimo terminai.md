@@ -54,78 +54,12 @@ media_all_json: |-
   pagrindžia:
     - c-97140
 
-<a id="claim-t-104182"></a>
-- t-003
-  global_id: t-104182
-  teiginys: "1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi."
-  pagrindžia:
-    - c-97140
-
 <a id="claim-t-183398"></a>
-- t-004
+- t-003
   global_id: t-183398
   teiginys: "Iki 1386 m. Lietuva, autorių vertinimu, gali būti vadinama savotiška arba nesistemine karalyste."
   pagrindžia:
     - c-166792
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    28
-    1219 m. Lietuvoje vyriausiojo kunigaikščio dar nėra, bet 1245–1246 m.
-    vokiečių kronikininkas Mindaugą pavadina „aukščiausiuoju karaliumi“.
-    Vadinasi, Lietuva jau suvienyta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-002
-  santrauka: 'Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo titulą rex, o Algirdas laiškuose Bizantijai - bazileus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Suvokę, kad
-    būti pakrikštytiems Ordino kainuos pernelyg brangiai, lietuvių valdovai
-    ieškojo naujų krikšto variantų per Čekiją, Vengriją, Lenkiją (stačiatikiškas
-    krikštas nebūtų išsprendęs ordinų agresijos problemos). Antra vertus, visi
-    Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams
-    rex; Algirdas laiškuose Bizantijos imperijai – bazileus). Taip juos vadino
-    Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,
-    vadus ar net rusų žemių kunigaikščius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Iki 1386 m. Lietuva, autorių vertinimu, gali būti vadinama savotiška arba nesistemine karalyste.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Antra vertus, visi
-    Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams
-    rex; Algirdas laiškuose Bizantijos imperijai – bazileus). Taip juos vadino
-    Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,
-    vadus ar net rusų žemių kunigaikščius. Taigi, drįstume teigti, kad bent jau
-    iki Jogailos tapsmo Lenkijos karaliumi 1386 m. Lietuva nusipelno būti
-    vadinama karalyste, tegu ir neturinti visų Vakarų pripažinimo atributų –
-    savotiška arba nesisteminė karalystė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 ## Citatos
 
@@ -144,7 +78,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104183
     - t-104182
 
 - id: c-97141

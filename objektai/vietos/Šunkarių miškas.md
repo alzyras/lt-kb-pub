@@ -42,27 +42,6 @@ media_all_json: |-
   teiginys: "1949 m. rugsėjo 28 d. Šunkarių miške į pasalą pateko ir žuvo Tauro apygardos vadas."
   pagrindžia:
     - c-45474
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1949 m. rugsėjo 28 d. Šunkarių miške į pasalą pateko ir žuvo Tauro apygardos vadas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1948 m. spalio 8 d. tapo Tauro
-    apygardos, vienijusios Suvalkijos re-
-    giono antisovietino pasipriešinimo
-    dalyvius, vadu. 1949 m. vasario mėn.
-    dalyvavo visos Lietuvos partizanų vadų
-    suvažiavime. Žuvo 1949 m. rugsėjo
-    28 d. Šakių apskrities Jankų valsčiaus
-    Šunkarių miške patekęs į pasalą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

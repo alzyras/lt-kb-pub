@@ -73,25 +73,6 @@ Nenurodyta
   teiginys: "Panaši valstybinės ginkluotės saugojimo, išdavimo ir grąžinimo praktika buvo taikoma Kryžiuočių ordine."
   pagrindžia:
     - c-12302
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Todėl ginklai ir ypač šarvai
-    buvo labai branginami, sugadinti perkalami. Didesnė dalis gin-
-    kluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš
-    operacijas, po to, žinoma, viską reikėdavo grąžinti. Panaši prakti-
-    ka sutinkama to meto Kryžiuočių ordine.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 

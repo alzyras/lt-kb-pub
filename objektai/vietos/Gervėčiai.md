@@ -37,7 +37,6 @@ Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai.
     - c-168647
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184519|Lenkai]]: Kai kurių asmenų maištingi sumanymai išardė sutartimi sutvirtintą lietuvių draugystę su lenkais.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -80,29 +79,21 @@ Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai.
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    S e n i lie tu v ių  p r ie ta ­
-    rai,
-    k u rių
-    ia ik y ta si
-    d e g in a n t
-    m iru sių jų
-    la v o n u s
-    130
-
-    ## Puslapis 129
-
-    L ietu via i siau bia V o ­
-    ly n ę
-    Tad kitais metais, sutelkęs di­
-    delę kariuomenę, jis įsiveržė
-    į Volynę: kraštas visur buvo
-    žiauriai nuniokotas, o grobis
-    be pasipriešinimo išgabentas į Lietuvą. Grįžęs iš to žy­
+    Grįžęs iš to žy­
     gio, jis ėmėsi taikiai tvarkytis ir kurdinti šalyje nau­
     sėdijas: tuo metu buvo padėti pamatai Gervėčių mies­
     teliui. Tačiau ir vidaus ramybe, ir sutartimi sutvirtintą
     draugystę su lenkais išardė kurių ne kurių asmenų
-    maištingi sumanymai.
+    maištingi sumanymai. Povilas, Krokuvos ganytojas, no­
+    rėdamas atkeršyti Boleslovui Droviajam už asmeniškas
+    skriaudas, protarpiais slapta kviesdavosi į lenkų kraštą
+    lietuvių kariaunas. Kilus nesutarimams tarp Boleslovo
+    ir riterių ordino, jų keliai išsiskyrė, prasidėjo ginkluo­
+    tos kovos, maištui vadovauti už akių buvo išrinktas
+    Vladislovas, Opolės kunigaikštis; vėliau, išvaikius ir
+    sumušus maištingą bajoriją, Boleslovo reikalai smarkiai
+    pagerėjo.
+  citata_rodoma: "S e n i lie tu v ių  p r ie ta ­\nrai,\nk u rių\nia ik y ta si\nd e g in a n t\nm iru sių jų\nla v o n u s\n130\n\n## Puslapis 129\n\nL ietu via i siau bia V o ­\nly n ę\nTad kitais metais, sutelkęs di­\ndelę kariuomenę, jis įsiveržė\nį Volynę: kraštas visur buvo\nžiauriai nuniokotas, o grobis\nbe pasipriešinimo išgabentas į Lietuvą. Grįžęs iš to žy­\ngio, jis ėmėsi taikiai tvarkytis ir kurdinti šalyje nau­\nsėdijas: tuo metu buvo padėti pamatai Gervėčių mies­\nteliui. Tačiau ir vidaus ramybe, ir sutartimi sutvirtintą\ndraugystę su lenkais išardė kurių ne kurių asmenų\nmaištingi sumanymai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

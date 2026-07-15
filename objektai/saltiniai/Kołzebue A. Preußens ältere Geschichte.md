@@ -42,28 +42,13 @@ Dusburgietis teigia, kad kołzebue A.
   teiginys: "A. Kołzebue veikalo „Preußens ältere Geschichte“ antrasis tomas išleistas Rygoje 1808 m."
   pagrindžia:
     - c-61736
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Kołzebue veikalo „Preußens ältere Geschichte“ antrasis tomas išleistas Rygoje 1808 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kołzebue A. Preußens ältere Geschichte.— Bd. 2.— Riga, 1808.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61736
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 265"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kołzebue A. Preußens ältere Geschichte.— Bd. 2.— Riga, 1808.
   statusas: verified

@@ -31,26 +31,9 @@ media_all_json: |-
 <a id="claim-t-194048"></a>
 - t-001
   global_id: t-194048
-  teiginys: "1 4 Dubnla (lenkiškai D ąbno)— Habdanko herbo (žr."
+  teiginys: '1 4 Dubnla (lenkiškai D ąbno)— Habdanko herbo (žr.'
   pagrindžia:
     - c-176661
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1 4 Dubnla (lenkiškai D ąbno)— Habdanko herbo (žr.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 4  Dubnla (lenkiškai D ąbno)— Habdanko herbo (žr. past. 12 1
-    atmaina: per visą herbo skydą baltas kryžius raudonam e lauke;
-    apatiniame kairiajam e kampe baltas Habdanko ženklas (raidė \V).
-    Virš skydo, šalme — kryžius tarp dviejų jaučio ragų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -63,9 +46,9 @@ media_all_json: |-
     atmaina: per visą herbo skydą baltas kryžius raudonam e lauke;
     apatiniame kairiajam e kampe baltas Habdanko ženklas (raidė \V).
     Virš skydo, šalme — kryžius tarp dviejų jaučio ragų.
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194048
+    - t-001

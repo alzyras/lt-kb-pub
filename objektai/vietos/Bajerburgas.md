@@ -92,7 +92,6 @@ media_all_json: |-
 - susijęs iš Fridburgas: XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pasistatė Fridburgą ir Bajerburgą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188208|Kryžiuočių ordinas]]: XIV a. pradžioje kryžiuočiai apgulė Veliuonos pilį, o negalėdami jos paimti priešais pastatė Fridburgą ir Bajerburgą.
 - susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
-- susijęs iš Vilnius: Gedimino rūpesčiu iškilusiame Vilniuje buvo prigiję feodalinio valdymo principai.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Henrikas Duseneris.md#claim-t-87686|Henrikas Duseneris]]: Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.
 - susijęs iš [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.).md#claim-t-86973|Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]: Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
@@ -155,8 +154,6 @@ media_all_json: |-
 - susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai.
 - susijęs iš Veliuona: Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.
 - susijęs iš Veliuonėlė: Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalnų šlaitus.
-- susijęs iš Vilnius: Gedimino rūpesčiu Vilnius iškilo iš mažareikšmės gyvenvietės į galingos valstybės sostinę.
-- susijęs iš Vilnius: Gedimino rūpesčiu iškilusiame Vilniuje buvo prigiję feodalinio valdymo principai.
 - susijęs iš [[objektai/zodynas/Feodalinis ir leninis valdymas.md#claim-t-86458|Feodalinis ir leninis valdymas]]: Gedimino iškeltame Vilniuje, kaip ir visame krašte, buvo prigiję feodalinio valdymo principai.
 - susijęs iš [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės.md#claim-t-86570|Rygos miesto civilinė teisė vokiečių teisės]]: Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176354|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.
@@ -168,101 +165,6 @@ media_all_json: |-
 - susijęs iš Bajerburgas Raudonė: Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.
 - susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai.
 - susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet atvykimas Bavarijos kunigaikš­
-    čio Henriko, artimo imperatoriaus Liudviko Bavariečio giminai­
-    čio, davė progos suruošti didelį žygį Lietuvon. Apsaugoti toli
-    lietuvių teritorijoje pastatytam Marienburgui, ant Nemuno kranto
-    tada buvo pastatytas Bajerburgas (tarp Veliuonos ir Peštvės, prie
-    upelės Kvalkės). Savo vardą gavusi žymiam svečiui pagerbti,
-    ilgam aprūpinta maistu ir stipria įgula, naujoji pilis turėjo tapti
-    sostine Lietuvos, kurią svajota greit nukariauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nuo 1384.VII.9 d. vykdydamas savo plačiai išgar­
-    sintą «išdavystę» _(Verrat),_ Vytautas, vikriai užsimaskavęs, sude­
-    gino Nemuno Marienburgą ir sunaikino dar kitas dvi jam valdyti
-    pavestas pilis (Jurgenburgą, Naująjį Bajerburgą = Neuhaus)^24.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-003
-
-- c-003
-  santrauka: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos buvo susimetę kryžiuočiai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1380 metų vasario mėn. jis jau vienas
-    pats padarė su Livonijos magistru Vilhelmu von Vrymersheimu
-    penkiems mėnesiams paliaubas. Tačiau viešai jis dar palaikė
-    Kęstutį. Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­
-    nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
-    susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
-    dėlto atsiuntė savo brolį Kaributą pagalbon.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pastatė Fridburgą ir Bajerburgą, nes žygyje dalyvavo Bavarijos kunigaikštis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kaip tik ten buvo minima Velionos šventykla. XIV am­
-    žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-
-    burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
-    lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
-    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
-    kiu šaunamuoju ginklu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-005
-  santrauka: 'Visas Nemuno žemupys jau Vytenio laikais buvo kryžiuočių; o Gedimino laikais, pasistatę Bajerburgo ir Marijenburgo pilis, kryžiuočiai paslinko dar arčiau.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vakaruose siena su kry-
-    žiuočiais jau buvo nusistojusi. Visas Nemuno žemupys jau Vy-
-    tenio laikais buvo kryžiuočių; o Gedimino laikais, pasistatę Ba-
-    jerburgo ir Marijenburgo pilis, kryžiuočiai paslinko dar arčiau.
-    Aukščiau Dubysos žiočių, Lietuvos valstybei priklausė jau abi
-    Nemuno pusės (dabartiniame Suvalkų krašte buvo didžiulė giria,
-    ir ten nebuvo pasistatę pilių nei kryžiuočiai nei lietuviai).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 ## Citatos
 
 - id: c-31957
@@ -301,8 +203,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71847
     - t-71845
+    - t-71847
 
 - id: c-37296
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -328,12 +230,11 @@ media_all_json: |-
 - id: c-171559
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kaip tik ten buvo minima Velionos šventykla. XIV am­
     žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-
+    jos paimti, pasistatė priešais ją dvi pilis - Fridburgą ir Bajer-
     burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
     lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
     Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
@@ -365,5 +266,4 @@ media_all_json: |-
     - t-193169
 
 ## Ryšiai
-- Mirties vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

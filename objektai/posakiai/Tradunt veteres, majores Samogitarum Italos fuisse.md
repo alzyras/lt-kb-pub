@@ -35,26 +35,28 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
   teiginys: "Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres, majores Samogitarum Italos fuisse."
   pagrindžia:
     - c-177303
+
+<a id="claim-t-197703"></a>
+- t-002
+  global_id: t-197703
+  teiginys: "(Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina žemaičiais) protėviai buvę italai."
+  pagrindžia:
+    - c-177303
 - susijęs iš [[objektai/grupes/Germanai.md#claim-t-192394|Germanai]]: Narbutas mini, bet atmeta nuomonę, kad lietuvių tauta susidarė IV ar V amžiuje Vyslos žemupyje iš daugelio, ypač germanų, tautų.
 - susijęs iš [[objektai/grupes/Vidivariai.md#claim-t-192944|Vidivariai]]: Narbutas mini nuomonę, kad lietuvių tauta IV ar V a. Vyslos žemupyje susidarė kaip germanų kilmės lydinys ir vadinta vidivariais.
 - susijęs iš Vysla: Narbutas atmetė nuomonę, kad lietuvių tauta IV ar V a. susidarė Vyslos žemupyje kaip daugelio, ypač germanų, tautų lydinys.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres, majores Samogitarum Italos fuisse.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Taip pat nedera steigtis neigti naujas, gana
-    neišlaikytas nuomones, pasak kurių lietuvių tauta esanti
-    daugelio tautų, ypač germanų kilmės, lydinys, kuris su­
-    sidarė maždaug IV ar V amžiuje Vyslos žemupyje ir buvo
-    vadinamas vidivariais, vidais ar dar kitais vardais. Jau
-    vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo­
-    1
-    Tradunt veteres, majores Samogitarum Italos fuisse. Neronem
-    Imperatorem de bellica expeditione cogitantem, illos etiam exsules
-    Romanos, qui in Giaros sterili quandam insula habitabant evocari in
-    militiam voluisse.
+    Verum hos metu crudelitatis imperatoriae, conscen­
+    sis eorom a quibus bis terve evocabantur navibus, ipsimet autem
+    coesis, ad Pontum Euxinum appulisse, dehinc per saltus, ubi olitn
+    Romana venatio fuit, quique hodie magna ex parte excii jam, Russiae,
+    Podoliae, Lituaniaeque cognomina habent, usque ad mare Balticum...
+    (Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina
+    žemaičiais) protėviai buvę italai.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -62,29 +64,30 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-177303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 191"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Taip pat nedera steigtis neigti naujas, gana
-    neišlaikytas nuomones, pasak kurių lietuvių tauta esanti
-    daugelio tautų, ypač germanų kilmės, lydinys, kuris su­
-    sidarė maždaug IV ar V amžiuje Vyslos žemupyje ir buvo
-    vadinamas vidivariais, vidais ar dar kitais vardais. Jau
-    vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo­
-    1
-    Tradunt veteres, majores Samogitarum Italos fuisse. Neronem
+    Neronem
     Imperatorem de bellica expeditione cogitantem, illos etiam exsules
     Romanos, qui in Giaros sterili quandam insula habitabant evocari in
-    militiam voluisse.
+    militiam voluisse. Verum hos metu crudelitatis imperatoriae, conscen­
+    sis eorom a quibus bis terve evocabantur navibus, ipsimet autem
+    coesis, ad Pontum Euxinum appulisse, dehinc per saltus, ubi olitn
+    Romana venatio fuit, quique hodie magna ex parte excii jam, Russiae,
+    Podoliae, Lituaniaeque cognomina habent, usque ad mare Balticum...
+    (Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina
+    žemaičiais) protėviai buvę italai.
+  citata_rodoma: "Verum hos metu crudelitatis imperatoriae, conscen­\nsis eorom a quibus bis terve evocabantur navibus, ipsimet autem \ncoesis, ad Pontum Euxinum appulisse, dehinc per saltus, ubi olitn \nRomana venatio fuit, quique hodie magna ex parte excii jam, Russiae, \nPodoliae, Lituaniaeque cognomina habent, usque ad mare Balticum... \n(Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina \nžemaičiais) protėviai buvę italai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194907
+    - t-197703

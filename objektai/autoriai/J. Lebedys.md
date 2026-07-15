@@ -9,16 +9,16 @@ datos:
   - '1967 m.'
 date_start: '1957'
 date_end: '1967'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - redaktorius
   - autorius
   - istorikas
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,33 +53,8 @@ Lebedžio, Vilnius 1957, 31-35 p.
   teiginys: "Jurgis Lebedys parengė 1967 m. Vilniuje išleistus Simono Stanevičiaus „Raštus“."
   pagrindžia:
     - c-171314
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1 d., Kaunas 1934, 48-81 p.;
-    jis kildino Rotundą iš Veliuonos ; Z. Ivinskis, LE, t. 26, 15 p.; J. Jurgi­
-    nis :** **_Renesansas ir humanizmas Lietuvoje,_** **Vilnius 1965, 157-158 p.; JMTV,
-    118 p.; MLTE, III, 102-103 p.**
-    (^4) **JMTV, 116-132 p.**
-    (^5) **V. Maciūnas :** **_Orzechowski,_** **LE, t. 21, 216 p.**
-    (^6) **_Rozmowa litivina z polakem,_** **išl. J. Korzeniowski, Krokuva 1890
-    (Lenkų Mokslo Akad. leidinys, serijoje : Biblioteka pisarzów polskich).**
-    (^7) **Liet. išverstą ištrauką žr.** **_Lietuvių literatūros chrestomatijoj,_** **paruoštoj
-    K. Korsako ir J. Lebedžio, Vilnius 1957, 31-35 p.**
-    (^8) **Plg. I. Lappo, t. p., 70-76 p.**
-    (^9) **M. Baryczowa : Augustyn Rotundus Mieleski, wójt wileński, pierwszy
-    historyk i apologeta, AW, X, 1935, 71-96 p.; XI, 1936, 117-172 p.**
-    (^10) **Z. Ivinskis, LE, t. 26, 16 p.**
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Jurgis Lebedys parengė 1967 m. Vilniuje išleistus Simono Stanevičiaus „Raštus“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -126,11 +101,18 @@ Lebedžio, Vilnius 1957, 31-35 p.
 - id: c-171314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 18."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    9 Žr .-.Stanevičius S. Raštai / Parengė Jurgis Lebedys. -  V, 1967. -
-    P. 216-303.
+    gijos tyrinėjimo tradicijos, kuri XVII-XVIII a. buvo pratur­
+    tinta platesniu lyginamuoju aspektu - atskirų Europos tautų
+    mitologiją imta lyginti ne tik su antikine graikų, romėnų, bet
+    ir su Rytų (indų, persų) mitologija. Neretai vietinių tautų mi­
+    tologija buvo tiesiog kildinama iš antikinės mitologijos. Gar­
+    susis Jakobo Grimo veikalas „Vokiečių mitologija“, pagrįstai
+    laikomas moderniosios mitologijos (o kartais net iš viso mito­
+    logijos) mokslo pradžia, pasirodė tais pačiais metais (1835),
+    kaip ir T. Narbuto „Lietuvių mitologija“.
+  citata_rodoma: "9 Žr .-.Stanevičius S. Raštai / Parengė Jurgis Lebedys. -  V, 1967. -\nP. 216-303."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

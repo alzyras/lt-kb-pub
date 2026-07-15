@@ -50,66 +50,10 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
   teiginys: "Kristupas Pacas buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus."
   pagrindžia:
     - c-76183
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jonui Kazimierui atsisakant sosto, Kristupas Pacas buvo vienas iš Lietuvoje vadovavusių Pacų ir ėjo kanclerio pareigas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
-    piegos. Jonui Kazimierui atsisakant nuo sosto, Lietuvoje va-
-    dovavo jau Pacai. Vienas iš jų, Mykolas, buvo hetmonas ir Vil-
-    niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —
-    Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,
-    o penktas, Petras, — Žemaičių seniūnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Kristupas Pacas buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos teritoriją, todėl 1656 m. kilo Žemaičių sukilimas, padaręs
-    švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat
-    kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
-    vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
-    vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
-    Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
-    kariuomenės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Kancleris Kristupas Pacas vadovavo Pacų šeimai ir Lietuvos politikai, taip pat pastatė Pažaislio vienuolyną prie Kauno.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Už jų
-    pečių tuomet jau stovėjo visa Lietuva, nes, grįždamas iš elek-
-    cinio seimo, Boguslavas Radvila mirė (netoli Karaliaučiaus), ir
-    galingų konkurentų Pacams daugiau jau nebeliko Lietuvoje.
-    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu,
-    buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-
-    žųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas My-
-    kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
-    ir Povilo -bažnyčią Antakalny).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
+- susijęs iš [[objektai/asmenys/Steponas Kristupas Pacas.md#claim-t-200862|Steponas Kristupas Pacas]]: Lietuvos vicekancleris Steponas Kristupas Pacas antrame XVII a. ketvirtyje karmelitams pastatydino Šv. Teresės bažnyčią Vilniuje.
+- susijęs iš [[objektai/asmenys/Steponas Kristupas Pacas.md#claim-t-200863|Steponas Kristupas Pacas]]: Kristupas Pacas keliaudamas po Italiją ir Nyderlandus studijavo meno paminklus, pažinojo Rubensą ir lankydavosi jo dirbtuvėje Antverpene.
+- susijęs iš Šv. Teresės bažnyčia: Kai kurie istorikai Šv. Teresės, arba Aušros Vartų, bažnyčią priskiria Constantino Tencalli, o ją karmelitams XVII a. II ketvirtyje pastatydino Steponas Kristupas Pacas.
+- susijęs iš Antverpenas: Kristupas Pacas lankydavo Rubenso dirbtuvę Antverpene, keliaudamas po Italiją ir Nyderlandus bei studijuodamas meno paminklus.
 ## Citatos
 
 - id: c-76182

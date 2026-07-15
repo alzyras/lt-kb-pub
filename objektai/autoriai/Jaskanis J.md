@@ -35,32 +35,16 @@ Dusburgietis teigia, kad kai kas mano, kad prūsiškieji ir rytiniai galindai gi
   teiginys: "J. Jaskanio recenzija cituojama prie nuomonės, kad prūsiškuosius ir rytinius galindus siejo tik vardų panašumas."
   pagrindžia:
     - c-61352
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Jaskanio recenzija cituojama prie nuomonės, kad prūsiškuosius ir rytinius galindus siejo tik vardų panašumas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai kas mano, kad prūsiškieji ir rytiniai galindai giminingi tik vardais, kaip Vartos
-    vidupio  ir padneprės polianai (Jaskanis J., Rec. ...—ABS, 2, p. 367).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 62"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 62."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai kas mano, kad prūsiškieji ir rytiniai galindai giminingi tik vardais, kaip Vartos
-    vidupio  ir padneprės polianai (Jaskanis J., Rec. ...—ABS, 2, p. 367).
+    vidupio ir padneprės polianai (Jaskanis J., Rec. ...—ABS, 2, p. 367).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

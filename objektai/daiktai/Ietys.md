@@ -87,7 +87,6 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Geležiniai ginklai ir įrankiai.md#claim-t-47811|Geležiniai ginklai ir įrankiai]]: Iš geležies buvo gaminami ginklai, tokie kaip ietys ir kirviai, bei įrankiai, tokie kaip dalgiai, pjautuvai, peiliai ir ylos.
 - susijęs iš [[objektai/daiktai/Kalavijai.md#claim-t-39256|Kalavijai]]: Kalavijai kartu su ietimis buvo pagrindiniai kariuomenės ginklai.
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-78665|Karinė ginkluotė]]: Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai.
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186632|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu.
 - susijęs iš [[objektai/daiktai/Kalavijai.md#claim-t-183686|Kalavijai]]: Lietuvos kariuomenės dalinių pagrindiniai ginklai buvo ietys ir kalavijai.
 - susijęs iš [[objektai/daiktai/Lankai.md#claim-t-192071|Lankai]]: Narbuto pasakojime šauliai žygiavo kariuomenės šonuose su lankais, paruoštais smūgiui.
 - susijęs iš [[objektai/daiktai/Lankai.md#claim-t-192503|Lankai]]: Narbuto aprašyme vadas išvedė visiškai apsiginklavusius riterius, o kariuomenės šonuose žygiavo šauliai su lankais, paruoštais smūgiui.
@@ -98,55 +97,15 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-192367|Bartai]]: Narbuto pasakojime prūsai ir bartai kitą dieną buvo atsiųsti kaip pagalba priešams.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-182742|Lietuvos kariuomenė]]: Visuotinio šaukimo metu didesniąją Lietuvos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192445|Prūsai]]: Pasak Teodoro Narbuto pasakojimo, kitą dieną priešams į pagalbą buvo atsiųsti prūsai ir bartai.
-- susijęs iš [[objektai/ivykiai/Ragainės karių klasta užimant Junigedą.md#claim-t-185826|Ragainės karių klasta užimant Junigedą]]: Junigedos puolime dalis karių buvo paslėpta abipus kelio, o Ragainės būriui įsakyta traukti prie pilies vartų.
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186630|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką.
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186631|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės.
+- susijęs iš [[objektai/ivykiai/Ragainės karių klasta užimant Junigedą.md#claim-t-185826|Ragainės karių klasta užimant Junigedą]]: Junigedos gynėjai, išbėgę prieš nedidelį puolėjų būrį, pateko tarp pasaloje tykančių karių ir buvo apsiausti iš abiejų pusių.
 - susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49287|petihorai]]: Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.
 - susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49289|petihorai]]: Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.
 - susijęs iš [[objektai/zodynas/žalvario amžius.md#claim-t-03235|žalvario amžius]]: Žalvario amžius Lietuvoje prasidėjo apie antrojo tūkstantmečio pr. Kr. vidurį, kai pasirodė pirmieji žalvario dirbiniai.
 - susijęs iš [[objektai/daiktai/Skydai.md#claim-t-192052|Skydai]]: Narbutas rašo, kad riterių išėjimo į mūšį apraše skydai spindėjo kaip žvaigždės.
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199220|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką.
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199221|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės.
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199222|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šių dalinių kovinė vertė buvo
-    menkesnė, bet ir jie sugebėdavo pasireikšti
-    mūšio lauke. Pagrindiniai tokios kariuome-
-    nės ginklai buvo ietys ir kalavijai. Artilerija
-    to meto Lietuvos kariuomenėje dar nevai-
-    dino didesnio savarankiško vaidmens, bet
-    buvo įprastas atributas, kuris mūšio lauke
-    vis dėlto praversdavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pagrindiniai tokios kariuome-
-    nės ginklai buvo ietys ir kalavijai. Artilerija
-    to meto Lietuvos kariuomenėje dar nevai-
-    dino didesnio savarankiško vaidmens, bet
-    buvo įprastas atributas, kuris mūšio lauke
-    vis dėlto praversdavo. Pašauktinės kariuo-
-    menės silpnąsias savybes (santykinai nedi-
-    delę kovinę patirtį, ne visada patenkinamą
-    discipliną) bandyta kompensuoti samdi-
-    niais - kariais profesionalais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-003
   santrauka: 'Mūšyje su jotvingiais rūmų urėdas Andrius paleido iš rankų ietį ir, pasileidęs tarp priešo gretų, vos nebuvo nukautas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -165,44 +124,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
-- c-004
-  santrauka: 'Narbutas vaizduoja riterių rikiuotę, kurioje visiškai apsiginklavusių karių ietys žibėjo tankiai kaip tendrūnas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
-    kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
-    prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
-    stovyklos visiškai apsiginklavus: skydai spindėjo kaip
-    žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
-    ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
-    liai su lankais, paruoštais smūgiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-005
-  santrauka: 'Vadas įsakė riteriams išeiti iš stovyklos visiškai apsiginklavus, o jų ietys rikiuotėje žibėjo tankiai kaip tendrūnas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kitą dieną priešams buvo atsiųsta pagalba —
-    prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
-    stovyklos visiškai apsiginklavus: skydai spindėjo kaip
-    žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
-    ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
-    liai su lankais, paruoštais smūgiui. Pats Danielius, ant
-    žirgo jodamas, tvarkė kariuomenės gretas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
 
 ## Citatos
 
@@ -253,16 +174,16 @@ Nenurodyta
 - id: c-174936
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 129"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pastaruosius jotvingiai smarkiai puo­
-    lė ir atėmė vado vėliavą. Kai šis rezervas atvyko į Vasil-
-    kos ir Ziemovito kariuomenę, įvyko žiaurus mūšis: iš abie­
-    jų pusių krito daug karių, bet Vasilka ir Ziemovitas narsiai
-    kovėsi, kaip Ir Andrius, rūmų urėdas, nors ir ligotas, bet
-    narsus žmogus. Jis pasileido zovada tarp priešo gretų,
-    paleido iš rankų ietį ir vos nebuvo nukautas.
+    mišką, bet vis dėlto neteko daug karių, o Fiodoras Dmitri-
+    jevičius, narsiai puolęs, buvo sužeistas ir mirė prie Narevo
+    upės. Jaščioldas tuomet pasakė: „Ar nebūtų geriau mums
+    nulipti nuo žirgų? Jeigu Jūs, Kunigaikšti, gailitės mūsų,
+    tai teks pasigailėti ir savo šlovės, kurią mes esame pasiren­
+    gę pataikyti savo krauju". Taip ir įvyko: Danielius įsakė
+    savo riteriams paskubėti. Tai matydami, jotvingiai išsi­
+    gando, nes įsitikino rusų ir lenkų galia.
   citata_rodoma: "Jis pasileido zovada tarp priešo gretų, paleido iš rankų ietį ir vos nebuvo nukautas."
   statusas: verified
   teiginio_tipas: faktas
@@ -274,8 +195,7 @@ Nenurodyta
 - id: c-174937
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
     kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
@@ -295,8 +215,7 @@ Nenurodyta
 - id: c-175289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kitą dieną priešams buvo atsiųsta pagalba —
     prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš

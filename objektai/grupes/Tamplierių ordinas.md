@@ -14,14 +14,14 @@ datos:
   - '1324 m.'
 date_start: '1104'
 date_end: '1324'
+amziai:
+  - 'XII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - ordinas
-amziai:
-  - 'XII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -99,61 +99,6 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 - susijęs iš Akonas: Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei.
 - susijęs iš Paryžius: Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1312 m. kovo 22 d. popiežius Klemensas V Vieno sinode pasmerkė Tamplierių ordiną, įsteigtą 1112 m. Paskalio II laikais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    109. Apie tamplierių ordino panaikinimą
-
-      1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas
-    V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet
-    apaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties
-    metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.
-    1236).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
-      Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
-    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
-    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
-    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
-      Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
-    Henriko VI laikais (Dusb.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-003
-  santrauka: 'Neseniai Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir egzistavo Teutonų ordinas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
-    padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
-    Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
-    Teutonų ordinas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-004
   santrauka: '1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -178,8 +123,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 - id: c-85272
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 247"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     109. Apie tamplierių ordino panaikinimą
 
@@ -199,29 +143,27 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 - id: c-85273
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 227"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
-      Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
+    Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
     popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
     pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
     sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
-      Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
+    Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
     Henriko VI laikais (Dusb.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89288
     - t-89287
+    - t-89288
 
 - id: c-85274
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
     padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
@@ -237,16 +179,15 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 - id: c-85276
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
-    m.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310
-    m. vyskupų sinodas pasmerkė 54 tamplierius sudeginti. Apkaltintas erezija Tamplierių
-    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
-    Paryžiuje 1314 m.69
-      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
-    argumentacijos.
+    Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta
+    atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,
+    apribojama pasaulietiniai brolių poreikiai, aprangos ir ginklų puošnumas, finansiniai
+    ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
+    vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
+    skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
+  citata_rodoma: "1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291\nm.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310\nm. vyskupų sinodas pasmerkė 54 tamplierius sudeginti. Apkaltintas erezija Tamplierių\nordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo\nParyžiuje 1314 m.69\n  Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis\nargumentacijos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

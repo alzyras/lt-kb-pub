@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "1307 m. Ragainės komtūro riteriai nusiaubė Karšuvą, o rudenį sudegino karšuvių paliktas Skronaičių ir Bebirvaičių pilis."
   pagrindžia:
     - c-28728
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nesisekė tada lietuviams ir Karšuvos srityje. Kai karšuviai
-    «su didele kariuomene » išžygiavo prieš Klaipėdos pilį, Ragainės
-    komtūro riteriai 1307 nuteriojo Karšuvą. Tą pat rudenį karšuviai,
-    esą «matydami, jog nebeįstengs ilgiau priešintis broliams, pasi­
-    traukė ir paliko dvi savo pilis Skronaičius (Scroneyte) ir Bebirvai­
-    čius (Biverwate) », kurias riteriai sudegino^14.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

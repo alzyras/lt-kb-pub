@@ -89,63 +89,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/chiefdom vadystė.md#claim-t-26668|chiefdom / vadystė]]: Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom'o, stadiją.
 - susijęs iš [[objektai/zodynas/civilizacinė monada.md#claim-t-77791|civilizacinė monada]]: Lietuva apibūdinta kaip savarankiška civilizacinė monada, nes Gediminas ir Algirdas vadinosi karaliais be pripažinimo iš svetur.
 - susijęs iš [[objektai/zodynas/konversija christianizacija europeizacija.md#claim-t-22197|konversija christianizacija europeizacija]]: Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos christianizacijos įvykių.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Didžiausia tiki-
-    mybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai XI a. vidu-
-    ryje (XII a. pradžioje lietuviai minimi tarp genčių, kurios moka Kijevo
-    Rusiai duoklę).
-    1009-ieji Lietuvai praneša ne tik apie kriminalą, bet ir kur kas dau-
-    giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
-    kuris įtikėjo ir krikštijosi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Paminėkime tokią grandinę: Lenkijos valdovo
-    Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988),
-    kankinyste pasibaigusi šv. Adalberto misija Prūsijoje (997), Norvegijos
-    valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-
-    imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
-    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
-    krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Čia apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio brolio rankos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai
-    vystėsi iš visų baltų genčių, todėl 1009 m. Vakarų misionierius, būsima-
-    sis šventasis Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą. Čia
-    apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio
-    brolio rankos. Netimero valdžios paveldimumo principo buvimas rody-
-    tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
-
 ## Citatos
 
 - id: c-21916
@@ -204,8 +147,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183561
     - t-19171
+    - t-183561
 
 ## Ryšiai
 - Netimeras buvo valdovas [[objektai/vietos/Lietuva]]

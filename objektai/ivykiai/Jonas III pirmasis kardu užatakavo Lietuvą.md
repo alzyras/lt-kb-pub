@@ -59,29 +59,6 @@ Nenurodyta
   teiginys: "1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą."
   pagrindžia:
     - c-33395
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Galima sakyti jau nuo XIV amžiaus pirmos pusės į Gedimino
-    sostinės Vilniaus ir į Jono Kalitos tvirtovės Kremliaus pamatus
-    buvo įmūrytas tų dviejų valstybių ir jas valdančiųjų dinastijų
-    (Gediminaičių-Riurikaičių) _antagonizmas_ (H. Paszkiewicz), pasto­
-    viai lydėjęs jas per tolimesnius šimtmečius.
-    Kai 1492 metais, Bizantijos sosto palikuonę vedęs, Maskvos
-    didysis kunigaikštis Jonas III _pirmasis kardu užatakavo_ Lietuvą,
-    iš Maskvos karų orbitos ji jau nebeišėjo iki paskutiniojo padalinimo
-    (1795). Tos dvi reikšmingos datos patiekia ribas visam paskirsty­
-    mui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

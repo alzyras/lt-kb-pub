@@ -34,8 +34,8 @@ Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių
   teiginys: "Dusburgietis Belialo sūnumis vadina Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apgulėjus."
   pagrindžia:
     - c-59528
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis Belialo sūnumis vadina Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apgulėjus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,16 +60,19 @@ Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių
 - id: c-59528
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 117"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 117."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
-
-       Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir
-    piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos
-    tu globoji. „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo
-    niekas nebeminėtų“. Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
-    ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis.
+    Apie tai, kaip buvo palikta Rezlio pilis
+    Rezlio pilies broliai, išgirdę, kad prūsai apsiautė Karaliaučiaus, Kroicburgo ir Bartenšteino
+    pilis, labai išsigando ir, ilgai taręsi bei dvejoję, pavertė pelenais pilį ir slaptais dykrų
+    keliais pasitraukė.
+    98 (93). Apie laimėtą mūšį, kuriame Julicho ir Markos grafai nukovė tris tūkstančius
+    sembų
+    Prūsijos žemės broliai bei tikintieji, įvairiopų negandų užgulti, suvokė artėjant galą
+    ir, pagauti baimės, pravirko kruvinomis ašaromis, tačiau nestengė vienas kito paguosti,
+    nes būgštavo, kad dievas ant jų labai užsirūstinęs. Po dvejus metus užtrukusių smarkių
+    kovų jų jėgos ėjo silpnyn, o tikėjimo priešai stiprėjo.
+  citata_rodoma: "Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą\n\n   Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir\npiktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos\ntu globoji. „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo\nniekas nebeminėtų“. Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė\nir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

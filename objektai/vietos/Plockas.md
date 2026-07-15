@@ -2,24 +2,24 @@
 tipas: vieta
 pavadinimas: 'Plockas'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1222 m.'
   - '1225 m.'
   - '1386 m.'
 date_start: '1222'
 date_end: '1386'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
-amziai:
-  - 'XIII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,21 +55,12 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   pagrindžia:
     - c-167576
 
-<a id="claim-t-185086"></a>
-- t-003
-  global_id: t-185086
-  teiginys: "Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju."
-  pagrindžia:
-    - c-168447
-
 <a id="claim-t-192720"></a>
-- t-004
+- t-003
   global_id: t-192720
   teiginys: "Divonio kelionės aprašymas siejamas su rankraščiu, atitekusiu Plocko katedros klebonui Jaroslavui arba rastu jo kronikoje."
   pagrindžia:
     - c-175490
-- susijęs iš Sochačevas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį sunaikino ugnimi ir kalaviju.
-- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185465|Ugnimi ir kalaviju]]: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184546|Lietuviai]]: Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-184058|Dovydas (Gardino pilininkas)]]: Dovydas, Gardino pilininkas, lapkričio 21 d. įsibrovė į Mazoviją ir nusiaubė Plocko vyskupo Pultuską.
 - susijęs iš [[objektai/asmenys/Dovydas.md#claim-t-82261|Dovydas]]: Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.
@@ -79,14 +70,12 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 - susijęs iš [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis).md#claim-t-87880|Venceslavas (Mazovijos ir Plocko kunigaikštis)]]: Venceslavas tuo tarpsniu valdė Mazoviją ir Plocką, o 1321 m. sudarė sutartį su kryžiuočių Ordinu.
 - susijęs iš [[objektai/daiktai/Divonio kelionės rankraštis.md#claim-t-193010|Divonio kelionės rankraštis]]: Divonio kelionės aprašymas išliko rankraštyje, siejamame su Plocko katedros klebonu Jaroslavu ir vyskupu Kristijonu.
 - susijęs iš [[objektai/paprociai/Bažnyčios pašventinimas per dideles iškilmes.md#claim-t-87262|Bažnyčios pašventinimas per dideles iškilmes]]: 1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
-- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185465|Ugnimi ir kalaviju]]: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
 - susijęs iš 1427 m. vyskupų induitas dėl Šv. Jono bažnyčios pašventinimo: 1427 m. sausio 10 d. Plocko ir Kujavų vyskupai pašventino 1426 m. baigtą Vilniaus Šv. Jono bažnyčią.
 - susijęs iš Divonio kelionės aprašymas: Narbutas nurodo, kad Divonio kelionės aprašymas išliko rankraštyje, siejamame su Plocko katedros klebonu Jaroslavu ir vyskupu Kristijonu.
 - susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošas Mazovijos nusiaubimą ir Plocko sudeginimą siejo su 1222 m., nors tie įvykiai galėtų būti 1224 ar 1225 m.
 - susijęs iš Plocko kanauninko Jaroslavo kronika: Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Plocko kanauninko Jaroslavo kronikoje.
 - susijęs iš Prūsų vyskupo Kristijono kronika: Pasak Teodoro Narbuto, vyskupas Kristijonas Divonio kelionės aprašymą rado Plocko kanauninko Jaroslavo kronikoje.
 - susijęs iš Prūsų vyskupo Kristijono kronika: Teodoras Narbutas vaizduoja Kulmo vyskupą Kristijoną kaip į savo kroniką įrašiusį ištrauką iš Plocko kronikininko raštų.
-- susijęs iš Sochačevas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį sunaikino ugnimi ir kalaviju.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: 1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184681|Boleslovas (Mazovijos kunigaikštis)]]: Renkant karalių Piotrkovo seime, Plocko vyskupo patarti rinkėjai kėlė Mazovijos kunigaikštį Boleslovą.
 - susijęs iš [[objektai/asmenys/Bonislavas (Mazovijos kunigaikštis ).md#claim-t-87639|Bonislavas (Mazovijos kunigaikštis )]]: Gedimino laiškų rašytojas dviejuose laiškuose Mazovijos kunigaikštį vadino Bonislavu, nors Balińskis tokio kunigaikščio nerado.
@@ -113,7 +102,6 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179254|Lietuviai]]: Plėšikaujančios lietuvių gaujos niokojo krikščionių žemes, kai Prūsijoje pasklido gandas apie Gedimino norą krikštytis.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184546|Lietuviai]]: Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86734|Mazovijos kunigaikščiai]]: 1325 m. kitose Mazovijos žemėse viešpatavo kunigaikščiai Ziemovitas ir Traidenis.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.).md#claim-t-185600|Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)]]: Kryžiuočiai su Prūsijos maršalu Henriku fon Plocke tankmėje buvo sunaikinti arba pateko į nelaisvę.
 - susijęs iš [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais.md#claim-t-183938|Lenkijos žemės nuniokojimas prūsų antpuoliais]]: Prūsai kelis kartus didelėmis jėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išsivarė moteris bei vaikus.
 - susijęs iš [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais.md#claim-t-66655|Lenkijos žemės nuniokojimas prūsų antpuoliais]]: Prūsai kelis kartus didelėmis jėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išsivarė moteris bei vaikus.
 - susijęs iš [[objektai/ivykiai/Lietuvių pagalba Konradui užimant Gostininą ir vėlesnis įsiveržimas į Mazoviją.md#claim-t-185745|Lietuvių pagalba Konradui užimant Gostininą ir vėlesnis įsiveržimas į Mazoviją]]: Po Gostinino žygio lietuviai su didesnėmis pajėgomis grįžo į Konrado valdas ir iš sąjungininkų tapo priešais.
@@ -136,56 +124,6 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 - susijęs iš Šv. Jono bažnyčia Vilniuje: Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1386 m. Šv. Jono bažnyčią per iškilmes pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
-    lenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
-    metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika
-    155
-
-    ## Puslapis 172
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    pačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos
-    lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
-    mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
-    Stanislovas82.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Nuniokojus Lenkijos žemę, kunigaikščiui prie Vyslos liko viena pilis, vadinama Plocku.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Lenkijos žemės nuniokojimą
-
-      Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir
-    nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis
-    įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis jėgomis ir pridarė jai štai tokių
-    nuostolių: sudeginę namus, iškapojo suaugusius žmones kalaviju, o moteris bei vaikus
-    išsivarė į amžiną vergovę; jei kartkartėmis kuri nėščia moteris, turėdama gimdyti, negalėjo
-    paskui juos toliau eiti, ją čia pat žudė; jie plėšė iš motinų rankų mažus vaikus ir juos
-    dobė, maustydami ant tvorų baslių. Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,
-    netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis,
-    Plocku vadinama163. Be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164,
-    neskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų
-    ir griežtos klauzūros moterų vienuolynų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -269,8 +207,7 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 - id: c-167576
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 43"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Lenkijos žemės nuniokojimą
 
@@ -292,59 +229,23 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   pagrindzia:
     - t-184191
 
-- id: c-168447
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Lietuviai, kelerius metus vengę niokoti to­
-    limesnius Mazovijos pakraščius, dabar, be kliūčių kaip
-    sąj ungininkai galėdami žygiuoti šiomis žemėmis į Gos­
-    tininą, susiviliojo taikos metais visiškai atsistačiusio
-    krašto turtais ir įniko grobstyti, o beieškodami grobio,
-    Įsitraukė į karą; vos parsigabenę namo grobį iš Gos-
-    tinino, jie su stambesnėmis jėgomis sugrįžo į Konrado
-    valdas, staiga iš sąjungininkų virtę priešais. Jie netru­
-    ko užimti Sochačevo ir Plocko apygardas; dvarus ir
-    visa kita, ko negalėjo išsigabenti iš krašto kaip gro­
-    bio, sunaikino ugnimi ir kalaviju. Vėliau ramiai gy­
-    veno namuose patyrę didžiulį pralaimėjimą, apie kurį
-    Lietuviai suteikia pa­
-    galbą Mazovijos ku­
-    nigaikščiui, o netru­
-    kus patys įsiveržia į
-    Mazovi ją
-    159
-
-    ## Puslapis 158
-
-    ir eis kalba.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185086
-
 - id: c-175490
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau Tidemanas rašo, kad
-    jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
-    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
-    ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­
-    no rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi
-    būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
-    mis2.
+    Visos svarbiausios šio veikalo detalės turi
+    geriausių šiaurinių kraštų tyrinėtojų išvadas4. Tik buvo
+    manoma, kad už Divonio vardo slypi kažkoks romėnų
+    astronomas, kuris buvo įpareigotas išmatuoti šiaurinę Eu­
+    ropą; šie Julijaus Cezario pradėti matavimai vyko be pa­
+    liovos net iki dešimtojo Augusto Oktaviano konsulato, t. y.
+    iki 24 metų prieš Kristaus gimimą. Tiems topografams
+    vadovavo kažkoks Teodoras, Teodatas ar Tironas5.
+  citata_rodoma: "Tačiau Tidemanas rašo, kad\njis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės\naprašymas išliko rankraštyje, kuris atiteko Plocko kated­\nros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­\nno rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi\nbūti knyga, parašyta slavų kalba, bet graikiškomis raidė­\nmis2."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192720
-
-## Ryšiai
-- Užėmė Plocką: [[objektai/grupes/Lietuviai]]

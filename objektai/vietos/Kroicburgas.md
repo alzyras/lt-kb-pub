@@ -10,6 +10,8 @@ datos:
   - '1270 m.'
 date_start: '1253'
 date_end: '1270'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,8 +19,6 @@ tags:
   - pilis
   - upė
   - vieta
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -119,24 +119,6 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 - susijęs iš Vizenburgas: Broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.
 - susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58790|kuoras propugnaculum pilaitė]]: Karaliaučiaus, Kroicburgo ir Bartenšteino pilys buvo apsuptos trimis stipriais kuorais, kad apsuptieji negalėtų įeiti ar išeiti.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kroicburgas, dabartinis Slavskoje, buvo į pietus nuo Frišingo upės ir į rytus nuo Baigos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab. Slavskoje)  į
-    pietus nuo Frišingo (dab. Prochladnaja) upės, į rytus nuo Baigos. Aukštas piliakalnis su
-    pilies griuvėsiais išliko į pietus nuo miesto, deš. Kaustros (D.— Caustere, Jer.— tiliz [...]
-    Kauxtere; GAO, p. 58) krante (Boetticher A., Die Bau...., 2, p. 65; CV, t. 33, sąs. 2, p.
-    299). Kroicburgas pastatytas 1253 m. (SRP, 1, p. 270, 280).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: '1263 m. notangai trejus metus puolė apsuptą Kroicburgo pilį, o maisto pristigę broliai naktį slapta iš jos pasitraukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -154,26 +136,6 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
-- c-003
-  santrauka: 'Broliai pastatė Kroicburgo pilį Notangos žemėje prie Kaustros upės, siekdami užkirsti kelią prūsų atkryčiui.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
-    nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė
-    tikėjimui ir broliams254. Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir
-    atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu
-    Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257
-    ir Rezlio258. Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
-    ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
-    daug brolių ir ginklanešių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 - c-004
   santrauka: 'Kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors šis įvykis aprašomas po vėlesnių pilių statybos epizodų.'
@@ -231,8 +193,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 - id: c-86509
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab. Slavskoje)  į
     pietus nuo Frišingo (dab. Prochladnaja) upės, į rytus nuo Baigos. Aukštas piliakalnis su
@@ -249,15 +210,15 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 - id: c-86510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 126"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    118 (113). Apie Kroicburgo pilies sugriovimą
-
-       Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus
-    metus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna,
-    ilgai ir garbingai ten kovoję ir visiškai pristigę maisto, naktį slapta pasitraukė iš pilies.
-    Sitai pajutę, prūsai pradėjo juos vytis ir kalavijais iškapojo visus, išskyrus du brolius.
+    Sitai girdėdamas,
+    Miligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis. Pastebėjęs
+    didelį priešų būrį, staiga iššokusį iš pasalų, jis nukovė savo iššaukėją, paspruko į mišką
+    ir slaptais keliais sugrįžo į Bartenšteino pilį. Šitokiais bei panašiais būdais [prūsai] jį ilgai
+    viliojo į dvikovą, kol galop, nutykoję progą, nužudė. Taip pat buvęs jų nužudytas dar
+    vienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus. Dėl šių dviejų žūties
+    prūsai labai džiūgavo, o broliai sielvartavo.
   citata_rodoma: "Apie Kroicburgo pilies sugriovimą\n\n   Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus\nmetus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna,\nilgai ir garbingai ten kovoję ir visiškai pristigę maisto, naktį slapta pasitraukė iš pilies.\nSitai pajutę, prūsai pradėjo juos vytis ir kalavijais iškapojo visus, išskyrus du brolius."
   statusas: verified
   teiginio_tipas: faktas
@@ -269,8 +230,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 - id: c-86511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
     nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė
@@ -291,14 +251,16 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 - id: c-86512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 28"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
-    apie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
-    pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
-    iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118). Kartais chronologijos
-    nepaisoma dar labiau.
+    Štai III-os dalies pradžioje, kur pasakojama apie Prūsijos karus
+    iki Kulmo pilies įkūrimo 1232 m., įterpiamas žymiai vėlesnis įvykis Semboje (III, 6).
+    Yra čia ir kitokių klaidų bei praleidimų. Pvz., praleisti trys Ordino magistrai, tarp jų
+    — Henrikas iš Hohenlohės139. Kronikininko teigimu, popiežiaus pasiuntinys Prūsijoje
+    Vilhelmas — tai vėlesnis popiežius Aleksandras IV (III, 33), tuo tarpu šis, 1244 m. tapęs
+    Sabinos kardinolu (miręs 1251 m.), tebuvo kurijos atstovas, rėmęs Vokiečių ordiną, kai
+    pastarasis sprendė ginčijamus klausimus su Rygos arkivyskupu ir tuometiniu popiežiaus
+    legatu140.
   citata_rodoma: "138), o jau po to aprašoma, kaip broliai pasitraukė\niš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118). Kartais chronologijos\nnepaisoma dar labiau."
   statusas: verified
   teiginio_tipas: faktas
@@ -310,14 +272,15 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 - id: c-86513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 117"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 117."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo
-    niekas nebeminėtų“. Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
-    ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis
-    stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl
-    apsuptieji negalėjo nei įeiti, nei išeiti iš pilies.
+    Apie laimėtą mūšį, kuriame Julicho ir Markos grafai nukovė tris tūkstančius
+    sembų
+    Prūsijos žemės broliai bei tikintieji, įvairiopų negandų užgulti, suvokė artėjant galą
+    ir, pagauti baimės, pravirko kruvinomis ašaromis, tačiau nestengė vienas kito paguosti,
+    nes būgštavo, kad dievas ant jų labai užsirūstinęs. Po dvejus metus užtrukusių smarkių
+    kovų jų jėgos ėjo silpnyn, o tikėjimo priešai stiprėjo.	 Todėl jie nuolankiai ir gailiai kėlė
+    akis į dangų, su ašaromis šaukdamiesi viešpaties pagalbos, ir viešpats jų išklausė.
   citata_rodoma: "Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė\nir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis\nstipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl\napsuptieji negalėjo nei įeiti, nei išeiti iš pilies."
   statusas: verified
   teiginio_tipas: faktas
@@ -329,14 +292,16 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 - id: c-86514
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 28"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Petro  iš Dusburgo kronikoje ne viskas išdėstyta chronologine tvarka, pvz.,  pilių
-    statyba. Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
-    apie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
-    pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
-    iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
+    Štai III-os dalies pradžioje, kur pasakojama apie Prūsijos karus
+    iki Kulmo pilies įkūrimo 1232 m., įterpiamas žymiai vėlesnis įvykis Semboje (III, 6).
+    Yra čia ir kitokių klaidų bei praleidimų. Pvz., praleisti trys Ordino magistrai, tarp jų
+    — Henrikas iš Hohenlohės139. Kronikininko teigimu, popiežiaus pasiuntinys Prūsijoje
+    Vilhelmas — tai vėlesnis popiežius Aleksandras IV (III, 33), tuo tarpu šis, 1244 m. tapęs
+    Sabinos kardinolu (miręs 1251 m.), tebuvo kurijos atstovas, rėmęs Vokiečių ordiną, kai
+    pastarasis sprendė ginčijamus klausimus su Rygos arkivyskupu ir tuometiniu popiežiaus
+    legatu140.
   citata_rodoma: ", o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė\niš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118)."
   statusas: verified
   teiginio_tipas: faktas

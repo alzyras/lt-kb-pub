@@ -40,25 +40,6 @@ Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­ menėje yra surišta 
   teiginys: "„Lietuvos istoriją“ (1936) rašė penki autoriai, o redaktoriaus indėlis buvo didžiausias."
   pagrindžia:
     - c-33643
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ėmęs dėstyti Vilniaus universitete, Šapoka specialiau savo
-    paskaitose susidomėjo sostinės istorija ir tremtyje paskelbė tyri­
-    nėjimų. Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­
-    menėje yra surišta populiari «Lietuvos istorija» (1936), kurią rašė
-    penki autoriai. Paties redaktoriaus įnašas buvo stambiausias, juo
-    labiau, kad jis kitų keturių bendradarbių rašytas dalis turėjo papil­
-    dyti ir suvienodinti^91.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

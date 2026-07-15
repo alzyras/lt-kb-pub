@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Prieš Vedrošos mūšį žvalgai pranešė, kad priešo jėgos įsitvirtinusios abiejuose Vedrošos krantuose. Vedrošos mūšyje į nelaisvę pateko Konstantinas Ostrogiškis, Stanislovas Kiška, Grigalius Astikas, Litavaras Chreptavičius, Mikalojus Glebavičius ir Mikalojus Zenovjevičius. Po Vedrošos mūšio nelaisvės ar mirties išvengė Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius.
+Prieš Vedrošos mūšį Aleksandras pasiuntė į Smolenską lengvuosius dalinius, vadovaujamus Konstantino Ostrogiškio. Po Vedrošos mūšio Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius išvengė nelaisvės ar mirties. Prieš Vedrošos mūšį žvalgai pranešė, kad didelės priešo jėgos įsitvirtino abiejuose Vedrošos krantuose.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -44,135 +44,61 @@ Nenurodyta
 <a id="claim-t-185539"></a>
 - t-001
   global_id: t-185539
-  teiginys: "Prieš Vedrošos mūšį žvalgai pranešė, kad priešo jėgos įsitvirtinusios abiejuose Vedrošos krantuose."
+  teiginys: "Prieš Vedrošos mūšį Aleksandras pasiuntė į Smolenską lengvuosius dalinius, vadovaujamus Konstantino Ostrogiškio."
   pagrindžia:
     - c-168900
 
-<a id="claim-t-185540"></a>
-- t-002
-  global_id: t-185540
-  teiginys: "Vedrošos mūšyje į nelaisvę pateko Konstantinas Ostrogiškis, Stanislovas Kiška, Grigalius Astikas, Litavaras Chreptavičius, Mikalojus Glebavičius ir Mikalojus Zenovjevičius."
-  pagrindžia:
-    - c-168901
-
 <a id="claim-t-185541"></a>
-- t-003
+- t-002
   global_id: t-185541
-  teiginys: "Po Vedrošos mūšio nelaisvės ar mirties išvengė Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius."
+  teiginys: "Po Vedrošos mūšio Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius išvengė nelaisvės ar mirties."
   pagrindžia:
     - c-168902
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Prieš Vedrošos mūšį žvalgai pranešė, kad priešo jėgos įsitvirtinusios abiejuose Vedrošos krantuose.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šiek tiek pažygiavus, žvalgai pra­
-    nešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie­
-    juose Vedrošos krantuose, o dalis raitelių, atsiskyrusių
-    nuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna­
-    me lauke, už dviejų mylių laukianti atvykstančių lietu­
-    vių. Pagrindinės priešų jėgos bei jų stovykla esančios
-    už upės, pulti trukdysią krūmai ir pelkės. Svarstant
-    susidariusią padėtį bei gautas žinias karvedžių pasita­
-    rime, pradėta aštriai ginčytis, kaip tokiu painiu atveju
-    elgtis. Daugelis manė, kad dabar, kai sulaužyti susita­
-    rimai, geriau parodyti narsą nei baimę, jeigu jau rei­
-    kia pasirinkti vieną iš dviejų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196263"></a>
+- t-003
+  global_id: t-196263
+  teiginys: "Prieš Vedrošos mūšį žvalgai pranešė, kad didelės priešo jėgos įsitvirtino abiejuose Vedrošos krantuose."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vedrošos mūšyje į nelaisvę pateko Konstantinas Ostrogiškis, Stanislovas Kiška, Grigalius Astikas, Litavaras Chreptavičius, Mikalojus Glebavičius ir Mikalojus Zenovjevičius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Galingas priešas, tu­
-    rėjęs keturiasdešimt tūkstančių raitelių ir daugybę
-    pėstininkų, iš pradžių nusi-
-    M a s k v ė n ų
-    sum uša-
-    stebėjo
-    šitokios
-    palyginti
-    m as
-    ir
-    p a im a m a s
-    į
-    menkos kariaunos drąsumu,
-    n e la isv ę
-    p o to, ėmęs į ją žiūrėti su
-    panieka, sutraukė visus pul­
-    kus, sustabdė puolimą ir privertė galvotrūkčiais bėg­
-    ti. Puolę pirmosiose eilėse atsidūrė priešų apsuptyje ir
-    gyvi pateko jiems į rankas. Šitaip pakliuvo į nelaisvę
-    \
-    561
-
-    ## Puslapis 560
-
-    žymiausi senatoriai ir karvedžiai Konstantinas, Ostro-
-    go kunigaikštis, Stanislovas Kiška, Smolensko vaiva­
-    da, Grigalius Astikas, Lietuvos maršalas, Litavaras
-    Chreptavičius, Naugarduko vaivada, Mikalojus Gleba-j
-    vičius, Mikalojus Zenovjevičius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Po Vedrošos mūšio nelaisvės ar mirties išvengė Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Išvengė nelaisvės ar
-    mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va­
-    lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie
-    garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su
-    kardu rankoje prasiskynė kelią per ginkluotus būrius
-    ir paspruko iš pavojaus. Atvestas pas Ivaną, Konstan­
-    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
-    kinimus: ne tik kojas jam it vergui surakino grandinė­
-    mis, bet ir rankas užlaužė už nugaros ir nelyginant
-    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
-    Aleksandras sužinojo prie Bobro upės; norėdamas su­
-    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
-    se.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+    - c-178602
 
 ## Citatos
 
 - id: c-168900
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 559"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 559."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Šiek tiek pažygiavus, žvalgai pra­
-    nešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie­
-    juose Vedrošos krantuose, o dalis raitelių, atsiskyrusių
-    nuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna­
-    me lauke, už dviejų mylių laukianti atvykstančių lietu­
-    vių. Pagrindinės priešų jėgos bei jų stovykla esančios
-    už upės, pulti trukdysią krūmai ir pelkės. Svarstant
-    susidariusią padėtį bei gautas žinias karvedžių pasita­
-    rime, pradėta aštriai ginčytis, kaip tokiu painiu atveju
-    elgtis. Daugelis manė, kad dabar, kai sulaužyti susita­
-    rimai, geriau parodyti narsą nei baimę, jeigu jau rei­
-    kia pasirinkti vieną iš dviejų.
+    Taigi Ivanas visai be pagrin­
+    do įsižeidęs dėl tų jo darbų, kuriuos sutartinai remia
+    visi krikščionys ir Nifonas, Konstantinopolio patriar­
+    chas (kuriam ir Rusia sakosi esanti pavaldi), laišku,
+    parašytu Kijevo vyskupui, ypač dėl to, kad Aleksan­
+    dras nieko iš savo valdinių (netgi ir žmonos Elenos)
+    prievarta bei grasinimais nėra vertęs atsisakyti pro­
+    tėvių tikėjimo. Vis dėlto Aleksandras norėtų esamus
+    nesusipratimus, išgalvotus ir nepagrįstus, išsklaidyti
+    per pasiuntinius, vildamasis, kad Ivanas nenorės gau­
+    tais skundais pasinaudoti tam, kad būtų sulaužyti su­
+    sitarimai ir paminta draugystė. Kai Ivanas svarstė su
+    pasiuntiniais minėtus dalykus, jo pulkai jau buvo pa­
+    siųsti į Lietuvą. Aleksandras, praradęs bet kokias vil­
+    tis susitaikyti, nenoromis griebėsi ginklų. Jis pasiuntė
+    į Smolenską lengvuosius dalinius, vedamus Konstanti­
+    no, Ostrogo kunigaikščio, o
+    K o n sta n tin a s
+    O stio -
+    pats su pagrindinėmis jėgo-
+    g išk is
+    traukia
+    p rieš
+    mis lėtai patraukė iš paskos,
+    M a s k v ą
+    šiek tiek
+    stabtelėdamas iš
+    pradžių Minske, o po to Bo­
+    risove.
+  citata_rodoma: "Šiek tiek pažygiavus, žvalgai pra­\nnešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie­\njuose Vedrošos krantuose, o dalis raitelių, atsiskyrusių\nnuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna­\nme lauke, už dviejų mylių laukianti atvykstančių lietu­\nvių. Pagrindinės priešų jėgos bei jų stovykla esančios\nuž upės, pulti trukdysią krūmai ir pelkės. Svarstant\nsusidariusią padėtį bei gautas žinias karvedžių pasita­\nrime, pradėta aštriai ginčytis, kaip tokiu painiu atveju\nelgtis. Daugelis manė, kad dabar, kai sulaužyti susita­\nrimai, geriau parodyti narsą nei baimę, jeigu jau rei­\nkia pasirinkti vieną iš dviejų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -180,52 +106,10 @@ Nenurodyta
   pagrindzia:
     - t-185539
 
-- id: c-168901
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Galingas priešas, tu­
-    rėjęs keturiasdešimt tūkstančių raitelių ir daugybę
-    pėstininkų, iš pradžių nusi-
-    M a s k v ė n ų
-    sum uša-
-    stebėjo
-    šitokios
-    palyginti
-    m as
-    ir
-    p a im a m a s
-    į
-    menkos kariaunos drąsumu,
-    n e la isv ę
-    p o to, ėmęs į ją žiūrėti su
-    panieka, sutraukė visus pul­
-    kus, sustabdė puolimą ir privertė galvotrūkčiais bėg­
-    ti. Puolę pirmosiose eilėse atsidūrė priešų apsuptyje ir
-    gyvi pateko jiems į rankas. Šitaip pakliuvo į nelaisvę
-    \
-    561
-
-    ## Puslapis 560
-
-    žymiausi senatoriai ir karvedžiai Konstantinas, Ostro-
-    go kunigaikštis, Stanislovas Kiška, Smolensko vaiva­
-    da, Grigalius Astikas, Lietuvos maršalas, Litavaras
-    Chreptavičius, Naugarduko vaivada, Mikalojus Gleba-j
-    vičius, Mikalojus Zenovjevičius.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185540
-
 - id: c-168902
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 560"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Išvengė nelaisvės ar
     mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va­
@@ -246,3 +130,28 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185541
+
+- id: c-178602
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Štai todėl ir pamanė,
+    jog maskvėnai įprastu būdu dedasi esą stipresni nei iš
+    tikrųjų, todėl Konstantinas įsakė savo kariuomenei
+    traukti link priešo. Šiek tiek pažygiavus, žvalgai pra­
+    nešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie­
+    juose Vedrošos krantuose, o dalis raitelių, atsiskyrusių
+    nuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna­
+    me lauke, už dviejų mylių laukianti atvykstančių lietu­
+    vių. Pagrindinės priešų jėgos bei jų stovykla esančios
+    už upės, pulti trukdysią krūmai ir pelkės. Svarstant
+    susidariusią padėtį bei gautas žinias karvedžių pasita­
+    rime, pradėta aštriai ginčytis, kaip tokiu painiu atveju
+    elgtis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196263

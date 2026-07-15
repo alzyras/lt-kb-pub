@@ -40,20 +40,6 @@ Velykis, pulk., Griunvaldas, Karo Archyvas, II tom. Kaunas, 1925.
   teiginys: "Pulk. Velykio „Griunvaldas“ publikuotas „Karo Archyvo“ II tome Kaune 1925 m."
   pagrindžia:
     - c-36219
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Velykis, pulk., Griunvaldas, Karo Archyvas, II tom. Kaunas,
-    1925.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

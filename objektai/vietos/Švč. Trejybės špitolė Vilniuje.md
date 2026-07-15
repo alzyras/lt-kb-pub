@@ -68,82 +68,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginys: "Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių."
   pagrindžia:
     - c-177577
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmiausia karaliaus dėmesį patraukė Švč. Trejybės prie­
-    glauda (špitolė), mieste garsi savo labdaringa veikla. 1545
-    metų gegužės 4 dieną išleistu įsakymu, prieglaudos paja­
-    mų valdymas buvo patikėtas Vilniaus magistratui; Jonui
-    Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo
-    titulą nuo vyskupo karalius perkėlė sau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Dvasios bažnyčios pastatyti vie šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado vaujant Vilniaus vyskupui18.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Suteikdamas Hozijui teisę pasta­
-    tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
-    iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­
-    kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­
-    gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
-    zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
-    išlaidos, prie dominikonų Šv. Dvasios bažnyčios pastatyti vie­
-    šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
-    vaujant Vilniaus vyskupui18.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­
-    glaudos praplėtimo prie dominikonų vienuolyno Šv. Dva­
-    sios [bažnyčios] namelius, stovinčius žemiau Šventosios
-    Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku­
-    ris tik tuo metu turės, taip pat ir du kitus namelius viršuje
-    už prieglaudos, ten pat, priešais Šv. Dvasios bažnyčią, kad
-    jų didenybės nupirktų iš tų, kieno bus, ir taip, kad jie pir­
-    miausia, kaip ir kiti, būtų leidžiami į prieglaudą, o ši prie­
-    glauda būtų plečiama.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-004
-  santrauka: 'Karalius testamentu pavedė seserims plėsti Švč. Trejybės prieglaudą, supirkinėjant aplinkinius namus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ši gailestingumo
-    įstaiga karaliaus akyse buvo tokia svarbi ir tarp jį patrau­
-    kė, kad paskui, testamentu paskirstydamas turtą savo se­
-    serims, joms pavedė plėsti prieglaudos pastatus supirki-
-    nėjant aplinkinius namus prie Švč. Trejybės bažnyčios ir
-    viršuje, priešais dominikonų Šv. Dvasios bažnyčią stovin­
-    čius33.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -168,6 +92,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195211
+    - t-195212
 
 - id: c-177576
   autorius: "Michał Baliński"
@@ -207,6 +132,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195213
+    - t-195214
 
 - id: c-177578
   autorius: "Michał Baliński"

@@ -35,22 +35,6 @@ media_all_json: |-
   pagrindžia:
     - c-40264
 - susijęs iš Vidugiriai: Vidugirių kaime rasta ką tik iš Eglainės atvykusių 6-ojo pėstininkų pulko batalionų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Vidugirių kaimą pasiekėme po pietų. Čia radome ką tik
-    atvykusius iš Eglainės 6 pėst. [pulko] Pilėnų Kunigaikščio
-    Margio 11 ir 11 batalionus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-40264

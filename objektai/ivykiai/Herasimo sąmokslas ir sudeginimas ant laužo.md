@@ -47,27 +47,6 @@ Nenurodyta
   teiginys: "Herasimas rengė sąmokslą perduoti Smolensko žemę Zigmantui, bet buvo susektas ir Švitrigailos įsakymu sudegintas ant laužo."
   pagrindžia:
     - c-01860
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Herasimas rengė sąmokslą perduoti Smolensko žemę Zigmantui, bet buvo susektas ir Švitrigailos įsakymu sudegintas ant laužo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau Švitrigailai tą darbą sutrukdė Zigman-
-    tas ir lenkai. Švitrigailos didelis priešas (Zigmanto šalininkas),
-    Vilniaus vyskupas Motiejus slapta prikalbėjo Smolenske gyve-
-    nantį Herasimą sukelti maištą ir pavesti Zigmanto valdžiai visą
-    Smolensko žemę: tuomet, esą, unijos reikalais imsiąsis rūpintis
-    Zigmantas. Bet Herasimo sąmokslas buvo susektas, ir jis, Švit-
-    rigailos įsakymu, buvo sudegintas ant laužo, o Smolenskas liko,
-    kaip buvęs, Švitrigailos valdžioje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

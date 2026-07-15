@@ -94,76 +94,6 @@ Nenurodyta
     - c-31420
 - susijęs iš [[objektai/ivykiai/Valakų reforma (1557 m.).md#claim-t-31479|Valakų reforma (1557 m.)]]: 1557 m. pradėta Valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą ir skatino lydimosios žemdirbystės nykimą.
 - susijęs iš [[objektai/paprociai/Trilaukio ūkio sistema.md#claim-t-31536|Trilaukio ūkio sistema]]: 1557 m. valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą su vieneriems metams paliekamu pūdymu.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lydimoji žemdirbystė rėmėsi ugnies naudojimu, kai išskintame ir nudegintame miško sklype buvo daromas dirbamas laukas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Metalų amžiuje žemės dar­
-    bas plėtėsi, juo labiau kad geležinis kirvis padėjo net apaugusius
-    plotus paversti dirva. Šitaip atsirado ir «lydimoji žemdirbystė »
-    (vokiškai vadinama Brandwirtschaft, Rodungswirtschaft, Feld­
-    graswirtschaft), kada, žemei įdirbti ėmus naudotis ugnimi, išskin­
-    tame ir nudegintame miško sklype buvo daromas dirbamas laukas.
-    Kaip ir kitur Europoje priešistoriniais laikais, miško gabalo
-    lydimas ruošiant jį dirvai, Lietuvoje buvo plačiai vartojamas iki
-    pat XVI amž. vidurio, kol dar daug buvo girių, į kurias niekas
-    nedraudė įkelti kojos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-
-- c-002
-  santrauka: 'Po 1557 m. valakų reformos Lietuvoje lydimoji žemdirbystė ėmė nykti, nors XVI–XVII a. aktuose dar minėtas žodis „lydimas“.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo
-    pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė
-    laisvės naudotis mišku ir daryti išdagas. Pradėjus Lietuvoje « va­
-    lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą
-    su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė
-    nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
-    žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
-    ir kt.). Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip
-    naturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje
-    ir Mažojoje Lietuvoje yra surišta su lydimais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-001
-
-- c-003
-  santrauka: 'Lydimoji žemdirbystė buvo galima, kol nebuvo tvarkomas miškų ūkis ir stambieji žemvaldžiai nevaržė naudojimosi mišku.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kadangi nulaisintas lydimas ilgai turėjo
-    pūdymauti, vienai šeimai prasimaitinti reikėjo bent 5-6 lydimų
-    gabalų. Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo
-    pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė
-    laisvės naudotis mišku ir daryti išdagas. Pradėjus Lietuvoje « va­
-    lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą
-    su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė
-    nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
-    žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
-    ir kt.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-31419
@@ -211,8 +141,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97138
     - t-97134
+    - t-97138
 
 - id: c-91648
   autorius: "Zenonas Ivinskis"

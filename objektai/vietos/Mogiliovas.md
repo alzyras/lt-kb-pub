@@ -27,14 +27,14 @@ media_all_json: |-
 
 ## Santrauka
 
-Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.
+1971 m. leidinio pastaboje Mogiliovas apibūdintas kaip BTSR rytinės dalies miestas prie Dnepro. Narbutas tarp Mogiliovo ir Rogačiovo minimus Dnepro pakrančių kapus aiškino kaip skitų supiltus milžinkapius.
 
 ## Teiginiai
 
 <a id="claim-t-187700"></a>
 - t-001
   global_id: t-187700
-  teiginys: "Mogiliovas buvo BTSR rytinės dalies miestas prie Dnepro."
+  teiginys: "1971 m. leidinio pastaboje Mogiliovas apibūdintas kaip BTSR rytinės dalies miestas prie Dnepro."
   pagrindžia:
     - c-170639
 
@@ -55,56 +55,17 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 - susijęs iš Pripetė: Narbutas nurodo, kad Dnepro vidurupyje pilkapių ypač daug nuo Sklovo aukštupio iki Pripetės žiočių.
 - susijęs iš Rogačiovas: Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių, kuriuos priskiria skitams.
 - susijęs iš Rogačiovas: Narbutas Rogačiovą laikė Gerų krašto viduriu, nes jo apylinkėse esą buvo gausiausi pilkapių rinkiniai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mogiliovas buvo BTSR rytinės dalies miestas prie Dnepro.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Krokuvoje kituose šaltiniuose nepaliudytas Ir
-    abejotinas.
-    '• Mogiliovas — dabar BTSR rytinės dalies miestas prie Dnepro.
-    "  Andrius Vladimiraitis buvo Kijevo kunigaikščio Vladimiro
-    Algirdalčlo jauniausias sūnus, miręs apie 1457 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas tarp Mogiliovo ir Rogačiovo minimus Dnepro pakrančių kapus aiškino kaip skitų supiltus milžinkapius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kad Pavyslio, Padneprio senieji gyventojai
-    ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
-    vaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
-    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
-    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
-    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
-    jų, neužkąsdami jų žemėje, supildavo kalnelius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-170639
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 235."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Krokuvoje kituose šaltiniuose nepaliudytas Ir
     abejotinas.
     '• Mogiliovas — dabar BTSR rytinės dalies miestas prie Dnepro.
-    "  Andrius Vladimiraitis buvo Kijevo kunigaikščio Vladimiro
+    " Andrius Vladimiraitis buvo Kijevo kunigaikščio Vladimiro
     Algirdalčlo jauniausias sūnus, miręs apie 1457 m.
   statusas: verified
   teiginio_tipas: faktas
@@ -116,16 +77,20 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 - id: c-171915
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 371"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kad Pavyslio, Padneprio senieji gyventojai
-    ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
-    vaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
-    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
-    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
-    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
-    jų, neužkąsdami jų žemėje, supildavo kalnelius.
+    Statinio viduje paprastai stovi maži mo­
+    liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­
+    na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
+    arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
+    žmonės priskiria kažkokią šventumo ypatybe5.
+    3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
+    pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
+    rius*.
+    4 Žr. Klimaševskio 1831 metų NoworocznikLitewski (p. 206)**.
+    5 Slaptajame kryžiuočių archyve Karaliaučiuje, krašto retenybių
+    rinkinyje, yra nemažai tokių akmenų.
+  citata_rodoma: "Kad Pavyslio, Padneprio senieji gyventojai\nir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų\nvaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,\nesama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų\nbuvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­\njo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­\njų, neužkąsdami jų žemėje, supildavo kalnelius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

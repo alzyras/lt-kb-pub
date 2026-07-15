@@ -36,24 +36,6 @@ Vytautas Žukas pasakoja apie AT gynybos principus. Vytautas Žukas buvo numatyt
   teiginys: "AT gynėjas ir vėlesnis Lietuvos kariuomenės generolas majoras Vytautas Žukas pasakojo apie Aukščiausiosios Tarybos gynybos principus."
   pagrindžia:
     - c-44574
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tūkstančių žmonių (!)
-
-    AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA
-
-    AT gynėjas, vėliau Lietuvos kariuomenės gen. mjr. Vytautas Žukas pasakoja apie AT
-    gynybos principus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

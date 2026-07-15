@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu.
+Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu. Galustalės puotoje greta austrų riterio Kinodijaus sėdėjo Fridrichas, Meiseno markgrafas.
 
 ## Teiginiai
 
@@ -35,39 +35,34 @@ Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu.
   teiginys: "Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu."
   pagrindžia:
     - c-169564
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vestfalijos vėliavininkas Degenhar-
-    tas, atleidęs kaltes savo priešininkams, nužudžiusiems
-    jo tėvą. Riteris Fridrichas, visuomet daręs viską, ko
-    tik iš jo buvo reikalaujama šv. Grigaliaus vardu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196451"></a>
+- t-002
+  global_id: t-196451
+  teiginys: "Galustalės puotoje greta austrų riterio Kinodijaus sėdėjo Fridrichas, Meiseno markgrafas."
   pagrindžia:
-    - t-001
+    - c-169564
 
 ## Citatos
 
 - id: c-169564
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 334"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vestfalijos vėliavininkas Degenhar-
-    tas, atleidęs kaltes savo priešininkams, nužudžiusiems
-    jo tėvą. Riteris Fridrichas, visuomet daręs viską, ko
-    tik iš jo buvo reikalaujama šv. Grigaliaus vardu.
+    Galustalėje
+    šau n ią p u o tą
+    sėdėjo austrų riteris Kinodi-
+    jus, kitados vienui vienas iš­
+    žudęs šešiasdešimt turkų, kurie jį vijosi. Greta jo įsitai­
+    sė Fridrichas, Meiseno markgrafas, nė vienas jo šeimos
+    vyras nebuvo palikęs kovos rikiuotės. Toliau ■— grafas
+    Hildermidas, škotas, sūnus tėvo, kuris, gelbėdamas ka­
+    ralių, paaukojo gyvybę.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186203
+    - t-196451

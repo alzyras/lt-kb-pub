@@ -34,37 +34,18 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
   teiginys: "Broliai posakiu „Deja mums? Kam mes gimėme?“ apgailestavo dėl tautos ir žemės sunaikinimo bei atidavimo nedraugams."
   pagrindžia:
     - c-59720
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Broliai posakiu „Deja mums? Kam mes gimėme?“ apgailestavo dėl tautos ir žemės sunaikinimo bei atidavimo nedraugams.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
-    žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums? Kam mes gimėme,
-    kad matytume savo tautos sunaikinimą ir savo žemės sunaikinimą ir sėdėtume čia, kai
-    ji atiduodama  į nedraugų rankas?“ „...jos seneliai užmušti, jos jaunikaičiai žuvo nuo
-    nedraugų kalavijo“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-59720
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 89"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
     žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums? Kam mes gimėme,
     kad matytume savo tautos sunaikinimą ir savo žemės sunaikinimą ir sėdėtume čia, kai
-    ji atiduodama  į nedraugų rankas?“ „...jos seneliai užmušti, jos jaunikaičiai žuvo nuo
+    ji atiduodama į nedraugų rankas?“ „...jos seneliai užmušti, jos jaunikaičiai žuvo nuo
     nedraugų kalavijo“.
   statusas: verified
   teiginio_tipas: faktas

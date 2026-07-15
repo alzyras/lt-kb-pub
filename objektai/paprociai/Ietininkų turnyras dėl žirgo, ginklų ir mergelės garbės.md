@@ -55,39 +55,16 @@ Nenurodyta
   teiginys: "Ietininkų turnyre apsiginklavęs raitelis kvietė kautis dėl žirgo, ginklų ir savo mergelės garbės."
   pagrindžia:
     - c-63414
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ietininkų turnyre apsiginklavęs raitelis kvietė kautis dėl žirgo, ginklų ir savo mergelės garbės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    80 (78). Dar apie tą patį
-
-      Tas pats brolis Hermanas, kai, priimtas  į Teutonų ordiną, skubėjo ton vieton, kur
-    turėjo būti jo įvilktuvės, užėjo viename lauke daug karių, susirinkusių į ietininkų turnyrą;
-    vienas jų, jau apsiginklavęs ir raitas, liepė skelbti, ar rasis, kas drįstų su juo kautis dėl
-    žirgo bei ginklų ir dėl jo mergelės garbės. Šitai išgirdęs, brolis Hermanas, pasikliaudamas
-    savo mergele Marija, kuriai buvo pasižadėjęs tarnauti, susigrūmė su juo ir per pirmąjį
-    susidūrimą nubloškė jį ant žemės, o žirgą bei ginklus atidavė vargšams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63414
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 110"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     80 (78). Dar apie tą patį
-
-      Tas pats brolis Hermanas, kai, priimtas  į Teutonų ordiną, skubėjo ton vieton, kur
+    Tas pats brolis Hermanas, kai, priimtas į Teutonų ordiną, skubėjo ton vieton, kur
     turėjo būti jo įvilktuvės, užėjo viename lauke daug karių, susirinkusių į ietininkų turnyrą;
     vienas jų, jau apsiginklavęs ir raitas, liepė skelbti, ar rasis, kas drįstų su juo kautis dėl
     žirgo bei ginklų ir dėl jo mergelės garbės. Šitai išgirdęs, brolis Hermanas, pasikliaudamas

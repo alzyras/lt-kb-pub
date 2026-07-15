@@ -40,34 +40,17 @@ Dusburgietis teigia, kad mažiulis V.
   teiginys: "V. Mažiulio straipsnis „Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais“ paskelbtas 1981 m. leidinyje „Iš lietuvių etnogenezės“."
   pagrindžia:
     - c-61796
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'V. Mažiulio straipsnis „Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais“ paskelbtas 1981 m. leidinyje „Iš lietuvių etnogenezės“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais
-    —Iš lietuvių etnogenezės, V., 1981, p. 5—11.
-       Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais
     —Iš lietuvių etnogenezės, V., 1981, p. 5—11.
-       Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
+    Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
   citata_rodoma: "Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais\n—Iš lietuvių etnogenezės, V., 1981, p. 5—11."
   statusas: verified
   teiginio_tipas: faktas

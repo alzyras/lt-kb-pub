@@ -45,29 +45,6 @@ Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko, paskui Vilniaus v
   pagrindžia:
     - c-83703
 - susijęs iš Vilniaus Šv. Stanislovo katedra: Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jonas Lasavičius buvo iš Vilniaus kilęs lietuvis, 1462-1481 m. Vilniaus vyskupas, katedroje įrengęs Vyskupų koplyčią.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1 9 1
-
-    ## Puslapis 208
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    8. Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko,
-    paskui Vilniaus vyskupas nuo 1462 m. iki 1481 m., katedroje
-    įrengęs Vyskupų koplyčią. Mirė 1481 m.
-    9.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83703

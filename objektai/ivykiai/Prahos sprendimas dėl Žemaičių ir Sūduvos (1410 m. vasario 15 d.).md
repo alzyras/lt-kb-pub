@@ -64,41 +64,6 @@ Nenurodyta
   teiginys: "Lietuvos vardu protestuoti į Prahą nuvyko Butrimas ir Vytauto sekretorius Cibulka."
   pagrindžia:
     - c-31370
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir
-    Vytauto sekretorius Cibulka. Vaclovas tačiau gąsdino, jog ordino
-    pusėje stosiąs jis pats ir jo brolis Vengrijos Zigmantas, kuris siūlėsi
-    tarpininkauti.
-    Zigmantas galėjo tapti rimtu kryžiuočių sąjungininku ir pavo­
-    jingu pusbrolių priešų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Po Prahos sprendimo Lietuvos vardu protestą Prahoje pareiškė Butrimas ir Vytauto sekretorius Cibulka.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pusbroliai nesutiko su tokiu sprendimu.
-    Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir
-    Vytauto sekretorius Cibulka. Vaclovas tačiau gąsdino, jog ordino
-    pusėje stosiąs jis pats ir jo brolis Vengrijos Zigmantas, kuris siūlėsi
-    tarpininkauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

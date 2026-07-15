@@ -41,25 +41,6 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 - susijęs iš Konstancija: Vytautas ir Jogaila susitaikė, nes prieš Konstancijos suvažiavimą abiem rūpėjo kryžiuočių klausimas.
 - susijęs iš [[objektai/zodynas/apsigynimo ir puolimo sutartis.md#claim-t-70088|apsigynimo ir puolimo sutartis (sutartis)]]: Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir naudinga jo rytų politikai.
 - susijęs iš [[objektai/zodynas/apsigynimo ir puolimo sutartis.md#claim-t-70090|apsigynimo ir puolimo sutartis (sutartis)]]: Kauno taika, kaip apsigynimo ir puolimo sutartis, Vytautui buvo naudinga politikai rytuose.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dėl šitos sutarties autentiškumo keliama abejonių. Is­
-    torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;
-    tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip
-    autentišką.
-    Įgijimas šitos Žemaičių srities, kurią Vytautas Ordinui ką tik
-    minėta sutartimi užrašė, buvo pelningas Ordino triūso vaisius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38197

@@ -68,23 +68,6 @@ Nenurodyta
   teiginys: "1219 m. Voluinės ir Lietuvos kunigaikščių sutartis buvo sudaryta ir dėl plėšiamųjų žygių į Lenkiją."
   pagrindžia:
     - c-55225
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvių genties iškilimas ir padėjo
-    pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
-    bei. 1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip
-    pat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas
-    Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -105,3 +88,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54375
+    - t-54376

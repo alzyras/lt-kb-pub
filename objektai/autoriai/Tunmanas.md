@@ -62,46 +62,22 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   teiginys: "Tunmanas teigė, kad Honorijaus III 1224 metų bulėje vietoj „Wirlandia“ reikia skaityti „Witlandia“."
   pagrindžia:
     - c-173696
+
+<a id="claim-t-197654"></a>
+- t-005
+  global_id: t-197654
+  teiginys: "Juk žymus švedų senovės istorikas Tunmanas, susižavė jęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo gaujos bėglių, įsikūrusių Vyslos šakų skalaujamoje saloje ir ¡gyvenusių apie 550 metus."
+  pagrindžia:
+    - c-179283
+
+<a id="claim-t-197655"></a>
+- t-006
+  global_id: t-197655
+  teiginys: "265), ten vietoj (Wirlandia rei kia skaityti Witlandia-, tai jau teigė Tunmanas (Unter suchungen ettr."
+  pagrindžia:
+    - c-179284
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potockio ir Suroveckio raštuose.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie tai byloja ir pats žibintas -
-    aiškus šviesos atributas**.
-    30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-
-    kio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol
-    Nauk. -  Warszawa, 1812).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Pasak Teodoro Narbuto, Tunmanas tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, užėmė Sembą ir gintaro kasyklas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tad Nemuno žemupio pakrantes visų pirma de­
-    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
-    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
-    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
-    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
-    užėmė Sembą ir gintaro kasyklas2. Tačiau visų seniausia
-    jų gyvenvietė turėtų būti prie Nemuno vagos dešinės da­
-    lies, ligi šiol vadinamos Ruse arba slaviškai Rusne,
-    Rusnia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Narbutas rašo, kad Tunmanas lietuvius kildino iš gaujos bėglių, apie 550 metus įsikūrusių Vyslos šakų skalaujamoje saloje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -123,37 +99,20 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   pagrindžia:
     - t-003
 
-- c-004
-  santrauka: 'Tunmanas teigė, kad Honorijaus III 1224 metų bulėje vietoj „Wirlandia“ reikia skaityti „Witlandia“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Sis skirtumas yra esminis dalykas;
-    mes jį aptinkame jau 1224 metais popiežiaus Honorijaus
-    III bulėje, kur greta Samlandia ypač pabrėžta Witlandia
-    (Gruber. Orig. Livon. P. 265), ten vietoj (Wirlandia rei­
-    kia skaityti Witlandia-, tai jau teigė Tunmanas (Unter­
-    suchungen ettr. 5, 53).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-173343
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie tai byloja ir pats žibintas -
-    aiškus šviesos atributas**.
-    30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-
-    kio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol
-    Nauk. -  Warszawa, 1812).
+    tos prabos; iš viso galėjo būti pusantro svaro. Vieną plonųjų
+    rūšies egzempliorių pradangino tas pats prekiautojas*. Po šių
+    pastabų aprašysiu tas monetas, nusipelnančias čia vietos, bent
+    jau dėl to, kad buvo rastos Lietuvos žemėje.
+    III
+    lentelė, 10-asis piešinys.
+  citata_rodoma: "Apie tai byloja ir pats žibintas -\naiškus šviesos atributas**.\n30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-\nkio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol\nNauk. -  Warszawa, 1812)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -164,8 +123,7 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
 - id: c-173694
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 214"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad Nemuno žemupio pakrantes visų pirma de­
     ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
@@ -186,18 +144,20 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
 - id: c-173695
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 254"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 254."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ar galima tuo remiantis daryti prie­
-    laidą, kad Prūsija Jordano laikais vadinosi Vidivarija, kad
-    šis tautų lydinys yra tikras ir vienintelis lietuvių protėvis?
     Juk žymus švedų senovės istorikas Tunmanas, susižavė­
     jęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo
     gaujos bėglių, įsikūrusių Vyslos šakų skalaujamoje saloje
     ir ¡gyvenusių apie 550 metus. Tiesa, tokią pat pradžią tu­
     rėjusi ir Roma, bet sunku sutikti su spėjimais svetimša­
     lio, kuris tikriausiai neišmanė nei mūsų krašto, nei kalbos.
+    Jo pateikti lingvistiniai įrodymai, lietuvio nuomone, ne­
+    1 Ad littus Oceani, ubi tribus faucibus fluenta Vistula ebibitur,
+    Vidivarii (alii legunt Vidioarii), resident ex diversis nationibus aggre­
+    gati (Capite 5). Gepidae commanebant in insula Viselae amnis cir­
+    cumacta, quam pro patrio sermone dicebant Gepidos.
+  citata_rodoma: "Ar galima tuo remiantis daryti prie­\nlaidą, kad Prūsija Jordano laikais vadinosi Vidivarija, kad\nšis tautų lydinys yra tikras ir vienintelis lietuvių protėvis?\nJuk žymus švedų senovės istorikas Tunmanas, susižavė­\njęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo\ngaujos bėglių, įsikūrusių Vyslos šakų skalaujamoje saloje\nir ¡gyvenusių apie 550 metus. Tiesa, tokią pat pradžią tu­\nrėjusi ir Roma, bet sunku sutikti su spėjimais svetimša­\nlio, kuris tikriausiai neišmanė nei mūsų krašto, nei kalbos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -208,8 +168,7 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
 - id: c-173696
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 346"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sis skirtumas yra esminis dalykas;
     mes jį aptinkame jau 1224 metais popiežiaus Honorijaus
@@ -223,3 +182,41 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190814
+
+- id: c-179283
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Juk žymus švedų senovės istorikas Tunmanas, susižavė­
+    jęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo
+    gaujos bėglių, įsikūrusių Vyslos šakų skalaujamoje saloje
+    ir ¡gyvenusių apie 550 metus. Tiesa, tokią pat pradžią tu­
+    rėjusi ir Roma, bet sunku sutikti su spėjimais svetimša­
+    lio, kuris tikriausiai neišmanė nei mūsų krašto, nei kalbos.
+    Jo pateikti lingvistiniai įrodymai, lietuvio nuomone, ne­
+    1 Ad littus Oceani, ubi tribus faucibus fluenta Vistula ebibitur,
+    Vidivarii (alii legunt Vidioarii), resident ex diversis nationibus aggre­
+    gati (Capite 5).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197654
+
+- id: c-179284
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Orig. Livon. P. 265), ten vietoj (Wirlandia rei­
+    kia skaityti Witlandia-, tai jau teigė Tunmanas (Unter­
+    suchungen ettr. 5, 53). Taip pat apie skirtingas šalis ra­
+    šo Alberichas savo 1228 metų kronikoje (Leibnitz: Access.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197655

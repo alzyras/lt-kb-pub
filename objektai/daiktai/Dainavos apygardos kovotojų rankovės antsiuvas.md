@@ -61,21 +61,6 @@ Nenurodyta
   teiginys: "Dainavos apygardos kovotojų rankovės antsiuvas buvo naudotas 1945–1949 m."
   pagrindžia:
     - c-44646
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 228, Sovietų automatinis (pusiau automatinis) šautuvas svT-40, VDKM, Artūro Užgalio nuotr.
-    p. 230, Dainavos apygardos kovotojų rankovės antsiuvas, naudotas 1945-1949 metais, GAM.
-    p. 230, Dainavos apygardos partizanai pratybose, GAM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

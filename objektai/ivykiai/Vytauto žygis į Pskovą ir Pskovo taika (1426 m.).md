@@ -67,42 +67,6 @@ Nenurodyta
   teiginys: "1426 m. rugpjūčio 25 d. taika įpareigojo Pskovą pripažinti Vytauto viršenybę ir neteikti pagalbos jo priešams."
   pagrindžia:
     - c-35746
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Padarytąja taika (1426.
-    VIII. 25) Pskovas turėjo pripažinti Vytauto viršenybę ir neteikti
-    pagalbos jo priešams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Gudrūs Pskovo ir Naugardo pirkliai, pajutę Vytauto pyk­
-    tį, keletą kartų siuntė pas jį su dovanomis savo pasiuntinius,
-    bet Vytautas nenorėjo klausyti jų taikių pasiūlymų ir atvirai
-    rengėsi karui, kuris įvyko 1426 m. Tų metų vasarą, rugpiūčio
-    mėn. surinkęs didelę iš lietuvių, lenkų, čekų ir totorių kariuomenę,
-    Vytautas užpuolė Pskovą, nes Dorpato vyskupas, kuris Vytautą
-    turėjo savo globėju, skundėsi, kad pskoviečiai vargina jo že­
-    mes^1 ). Karas truko tris savaites, bet Pskovo paimti nepasise­
-    kė. Tada Vytautas pasitraukė su dideliu grobiu, apiplėšęs kraš­
-    tą ir paėmęs 1000 rublių kontribucijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbuto pasakojime smalsus Severino lankytojas apsivilko paprastus kailinius, kad neatpažintas patikrintų vienuolio žinojimą.
+Narbuto pasakojime smalsus Severino lankytojas apsivilko paprastus kailinius, kad neatpažintas patikrintų vienuolio žinojimą. Norėda mas įsitikinti, ar tikrai vienuolis žino visiką apie praeitį, dabartį ir ateitį, jis apsivilko paprastus kailinius ir neat pažintas įžengė į šventojo vyro celę.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -50,43 +50,34 @@ Nenurodyta
   teiginys: "Narbuto pasakojime smalsus Severino lankytojas apsivilko paprastus kailinius, kad neatpažintas patikrintų vienuolio žinojimą."
   pagrindžia:
     - c-175783
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbuto pasakojime smalsus Severino lankytojas apsivilko paprastus kailinius, kad neatpažintas patikrintų vienuolio žinojimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Severino šventumą,
-    iš smalsumo aplankė jį kartu su savo riteriais. Norėda­
-    mas įsitikinti, ar tikrai vienuolis žino visiką apie praeitį,
-    dabartį ir ateitį, jis apsivilko paprastus kailinius ir neat­
-    pažintas įžengė į šventojo vyro celę. Kadangi jis buvo
-    aukštas, žemame kambarėlyje turėjo nulenkti galvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197565"></a>
+- t-002
+  global_id: t-197565
+  teiginys: "Norėda mas įsitikinti, ar tikrai vienuolis žino visiką apie praeitį, dabartį ir ateitį, jis apsivilko paprastus kailinius ir neat pažintas įžengė į šventojo vyro celę."
   pagrindžia:
-    - t-001
+    - c-175783
 
 ## Citatos
 
 - id: c-175783
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 317"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Severino šventumą,
-    iš smalsumo aplankė jį kartu su savo riteriais. Norėda­
+    Norėda­
     mas įsitikinti, ar tikrai vienuolis žino visiką apie praeitį,
     dabartį ir ateitį, jis apsivilko paprastus kailinius ir neat­
     pažintas įžengė į šventojo vyro celę. Kadangi jis buvo
-    aukštas, žemame kambarėlyje turėjo nulenkti galvą.
+    aukštas, žemame kambarėlyje turėjo nulenkti galvą. Bet
+    šventasis vyras iškart jį atpažino ir išpranašavo, jog
+    anas taps karaliumi, o atsisveikindamas tarė: „Eik į Ita­
+    liją šiandien vilkėdamas paprastus kailinius, o netrukus
+    kitiems dalysi brangius apdarus ir dovanas“3.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193013
+    - t-197565

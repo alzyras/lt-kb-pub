@@ -58,29 +58,6 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   teiginys: "Vilniaus kaip žodžio ir rašto rungtynių lauko vaizdinys siejamas su jėzuitų ir disidentų kova dėl įtakos Lietuvoje."
   pagrindžia:
     - c-55398
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jėzuitų apsigyvenimas Vil­
-    niuje jau Stepono Batoro laikais pakirto protestantų įtaką
-    Lietuvoje. Nepaisant Volano, Tšecieskio ir kitų karštų refor­
-    matų talentų, nepaisant garbingiausių Lietuvos giminių prie­
-    lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­
-    telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo
-    tvirtai susieti savo brolijos regulų, žinojo daugiau būdų, kaip
-    veikti sumaniau ir įtaigiau, daugiau iš įvairių kraštų tam
-    tikslui surinktų žmonių. Vilnius tapo žodžio ir rašto rung­
-    tynių lauku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

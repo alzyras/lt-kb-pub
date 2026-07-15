@@ -34,21 +34,6 @@ media_all_json: |-
   teiginys: "Šekspyro „Venecijos pirklį“ J. Talmantas išvertė tiesiog iš originalo; leidimas turėjo iliustracijų ir komentarų."
   pagrindžia:
     - c-36161
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    10. Šekspyro VENECIJOS PIRKLYS. J. Talmanto vertimas tiesiog
-    iš originalo. Su iliustracijomis ir plačiais teksto paaiškinimais — komen­
-    tarais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

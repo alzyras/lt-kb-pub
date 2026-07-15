@@ -33,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Šeši tūkstančiai lietuvių karių iš Livonijos staigiai įsiveržė į Dobrynę ir nuniokojo visą kraštą. Į Kulmo kraštą persikėlusi šimtinė lietuvių karių nuniokojo kaimus, bet vėliau patyrė pralaimėjimą ir neteko septyniasdešimties vyrų.
+Šeši tūkstančiai lietuvių karių iš Livonijos staigiai įsiveržė į Dobrynę ir nuniokojo visą kraštą. Į Kulmo kraštą persikėlusi šimtinė lietuvių karių nuniokojo kaimus, bet vėliau patyrė pralaimėjimą ir neteko septyniasdešimties vyrų. Apie 1300 m. šeši tūkstančiai lietuvių karių staigiai įsiveržė į Dobrynę ir nuniokojo visą kraštą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -62,70 +62,20 @@ Nenurodyta
   teiginys: "Į Kulmo kraštą persikėlusi šimtinė lietuvių karių nuniokojo kaimus, bet vėliau patyrė pralaimėjimą ir neteko septyniasdešimties vyrų."
   pagrindžia:
     - c-168970
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Šeši tūkstančiai lietuvių karių iš Livonijos staigiai įsiveržė į Dobrynę ir nuniokojo visą kraštą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po to, sudarius paliaubas tarp Rygos miestie­
-    čių ir Livonijos riterių, Livonija buvo palikta ramybėje,
-    179
-
-    ## Puslapis 178
-
-    nes tuo metu Lenkijoje, nuvertus nuo sosto kara­
-    lių Vladislovą Lokietką, prasidėję sąmyšiai leido kur
-    kas lengviau ten pasiplėšti.
-    Iš L iv o n ijo s lie tu v ia i
-    Taigi šeši tūkstančiai karių,
-    ž y g iu o ja
-    Į
-    L en k iją ,
-    staigiai įsiveržusių Į Dobry-
-    n io k o ja  D o b ryn ę
-    nę, nuniokojo visą kraštą.
-    Bendras sąjungininkų pralai­
-    mėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai
-    patvinusi Drevanta nebūtų sutrukdžiusi grobiu apsikro­
-    vusiems kariams persikelti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196209"></a>
+- t-003
+  global_id: t-196209
+  teiginys: "Apie 1300 m. šeši tūkstančiai lietuvių karių staigiai įsiveržė į Dobrynę ir nuniokojo visą kraštą."
   pagrindžia:
-    - t-001
+    - c-168969
 
-- c-002
-  santrauka: 'Į Kulmo kraštą persikėlusi šimtinė lietuvių karių nuniokojo kaimus, bet vėliau patyrė pralaimėjimą ir neteko septyniasdešimties vyrų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kadangi į Kulmo
-    kraštą negalima buvo per-
-    N io k o ja  K u lm o  kraš-
-    kelti visos kariuomenės, to
-    tą, k u r su m u ša m i
-    žygio ėmėsi kunigaikščių pa­
-    raginti ryžtingiausi ir nar­
-    siausi raiteliai. Iš visos kariuomenės atrinkta šimtinė
-    karių persikėlė per upę, ir štai toks nedidelis būrys
-    drąsiai įsiveržė į priešo kraštą; jie smarkiai nuniokojo
-    kaimus, kol dar kryžiuočiai nesutraukė iš aplinkinių
-    pilių į kovos lauką kareivių, vėliau, kai kariai buvo
-    sutraukti, lietuviai patyrė žiaurų pralaimėjimą; prara­
-    dę septyniasdešimt vyrų, likusieji vargais negalais pa­
-    spruko ir, pasiekę saviškius, sukėlė stovykloje baisų
-    nerimą. Taip skubiai pulta rengtis kelionėn, toks triukš­
-    mas buvo sukeltas stovykloje, kad visa tai atrodė ne­
-    lyginant padrikas bėgimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196210"></a>
+- t-004
+  global_id: t-196210
+  teiginys: "1301 m. lenkų būrys pasivijo iš Dobrynės besitraukiančius lietuvius, bet susidūręs su stipriais daliniais atsisakė kautynių ir pasitraukė."
   pagrindžia:
-    - t-002
+    - c-178576
 
 ## Citatos
 
@@ -134,12 +84,6 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to, sudarius paliaubas tarp Rygos miestie­
-    čių ir Livonijos riterių, Livonija buvo palikta ramybėje,
-    179
-
-    ## Puslapis 178
-
     nes tuo metu Lenkijoje, nuvertus nuo sosto kara­
     lių Vladislovą Lokietką, prasidėję sąmyšiai leido kur
     kas lengviau ten pasiplėšti.
@@ -149,28 +93,38 @@ Nenurodyta
     Į
     L en k iją ,
     staigiai įsiveržusių Į Dobry-
-    n io k o ja  D o b ryn ę
+    n io k o ja D o b ryn ę
     nę, nuniokojo visą kraštą.
     Bendras sąjungininkų pralai­
     mėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai
     patvinusi Drevanta nebūtų sutrukdžiusi grobiu apsikro­
-    vusiems kariams persikelti.
+    vusiems kariams persikelti. Greitosiomis sutelktas len­
+    kų būrys pasivijo besitrau-
+    1301 m e ta i
+    kiančius lietuvius ir, tikėda­
+    masis atsiimti grobį, smarkiai
+    užpuolė ariergardą, nedelsdamas nė valandėlės; ka­
+    dangi ten susidūrė su geriausiais kariuomenės daliniais,
+    o visos gurguolės buvo nuvarytos į priekį, jie nedrįso
+    bandyti laimės tikrose kautynėse ir davė trimitu ženk­
+    lą trauktis.
+  citata_rodoma: "Iš L iv o n ijo s lie tu v ia i \nTaigi šeši tūkstančiai karių, \nž y g iu o ja \nĮ \nL en k iją , \nstaigiai įsiveržusių Į Dobry- \nn io k o ja D o b ryn ę \nnę, nuniokojo visą kraštą.\nBendras sąjungininkų pralai­\nmėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai \npatvinusi Drevanta nebūtų sutrukdžiusi grobiu apsikro­\nvusiems kariams persikelti. Greitosiomis sutelktas len­\nkų būrys pasivijo besitrau- \n1301 m e ta i \nkiančius lietuvius ir, tikėda­\nmasis atsiimti grobį, smarkiai \nužpuolė ariergardą, nedelsdamas nė valandėlės; ka­\ndangi ten susidūrė su geriausiais kariuomenės daliniais, \no visos gurguolės buvo nuvarytos į priekį, jie nedrįso \nbandyti laimės tikrose kautynėse ir davė trimitu ženk­\nlą trauktis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185608
+    - t-196209
 
 - id: c-168970
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 178"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 178."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kadangi į Kulmo
     kraštą negalima buvo per-
-    N io k o ja  K u lm o  kraš-
+    N io k o ja K u lm o kraš-
     kelti visos kariuomenės, to
     tą, k u r su m u ša m i
     žygio ėmėsi kunigaikščių pa­
@@ -192,3 +146,34 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185609
+
+- id: c-178576
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Greitosiomis sutelktas len­
+    kų būrys pasivijo besitrau-
+    1301 m e ta i
+    kiančius lietuvius ir, tikėda­
+    masis atsiimti grobį, smarkiai
+    užpuolė ariergardą, nedelsdamas nė valandėlės; ka­
+    dangi ten susidūrė su geriausiais kariuomenės daliniais,
+    o visos gurguolės buvo nuvarytos į priekį, jie nedrįso
+    bandyti laimės tikrose kautynėse ir davė trimitu ženk­
+    lą trauktis. Lengva sėkmė sužadino troškimą dar dau­
+    giau pasiplėšti, šį jausmą kareiviams visada sunku su­
+    tramdyti, o ypač po sėkmingo žygio. Kadangi į Kulmo
+    kraštą negalima buvo per-
+    N io k o ja K u lm o kraš-
+    kelti visos kariuomenės, to
+    tą, k u r su m u ša m i
+    žygio ėmėsi kunigaikščių pa­
+    raginti ryžtingiausi ir nar­
+    siausi raiteliai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196210

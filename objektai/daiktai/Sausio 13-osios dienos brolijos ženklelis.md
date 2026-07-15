@@ -55,20 +55,6 @@ Nenurodyta
   teiginys: "Sausio 13-osios dienos brolijos ženklelio dailininkas buvo Domantas Vildžiūnas."
   pagrindžia:
     - c-42545
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 251, Sausio 13-osios dienos brolijos (organizacijos, vienijančios Sausio įvykių dalyvius)
-    ženklelis, dail. Domantas Vildžiūnas, Karolio Zikaro nuotr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

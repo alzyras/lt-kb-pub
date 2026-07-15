@@ -76,46 +76,6 @@ Nenurodyta
   teiginys: "Lietuvių bajorų akte nustatyta, kad Jogailai mirus be įpėdinių Lenkija negalėtų rinktis karaliaus be Vytauto ir jo bajorų žinios."
   pagrindžia:
     - c-88434
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvių bajorų aktas numatė, kad po Vytauto mirties lietuviai įgis teisę dalyvauti naujo kunigaikščio rinkimuose.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lenkų ponų
-    taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
-    kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija. Lie­
-    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
-    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
-    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
-    teisę seniau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  santrauka: 'Lietuvių bajorų akte nustatyta, kad Jogailai mirus be įpėdinių Lenkija negalėtų rinktis karaliaus be Vytauto ir jo bajorų žinios.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet
-    užtat jų akte yra ir naujas punktas, kurio nėra Vytauto doku­
-    mente, pav.: jei Jogaila numirtų nepalikęs įpėdinių, Lenkija nega­
-    li rinktis sau karaliaus be Vytauto ir jo bajorų žinios^2 ). Šis punk­
-    tas praplatino Lietuvos teises ir tartum paruošė dirvą tam, kad
-    Jogailai mirus anksčiau už Vytautą, Lenkijos sostas galėtų ati­
-    tekti Vytautui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 

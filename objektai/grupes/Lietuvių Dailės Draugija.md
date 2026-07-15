@@ -47,30 +47,6 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
 - susijęs iš [[objektai/grupes/Žiburys.md#claim-t-01540|Žiburys]]: „Žiburys“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų, veikusių kartu su „Rytu“ ir „Saule“.
 - susijęs iš [[objektai/grupes/Žiburys.md#claim-t-182933|Žiburys]]: Marijampolėje veikęs „Žiburys“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.
 - susijęs iš [[objektai/grupes/Rytas.md#claim-t-01471|Rytas]]: Vilniuje įkurta švietimo draugija „Rytas“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dailės ir vaizduojamojo me-
-    no bei architektūros srityje taip
-    pat pastebėtas draugijų paraleliz-
-    mas. Lietuviai pirmieji Vilniuje
-    įkūrė Lietuvių dailės draugiją, pra-
-    dėjo rengti viešas dailės parodas,
-    bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių
-    lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją. Kai
-    kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
-    džiama priklausyti ir abiem tuo pat metu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-72670
@@ -93,5 +69,5 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74623
     - t-74621
+    - t-74623

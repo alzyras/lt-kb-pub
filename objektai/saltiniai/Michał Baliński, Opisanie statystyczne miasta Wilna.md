@@ -7,12 +7,12 @@ datos:
   - '1835 m.'
 date_start: '1835'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas 
   teiginys: "Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas kaip 1835 m. Vilniuje išleistas veikalas."
   pagrindžia:
     - c-174681
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas kaip 1835 m. Vilniuje išleistas veikalas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -66,16 +66,17 @@ Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas 
 - id: c-174681
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 142"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 142."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Iš tikrųjų galima daryti tokią prielaidą, ir ji
-    būtų gana įtikėtina; bet kaip galima įsivaizduoti jėgą ir
-    priežastį, kurios privertė besiveržiančius su žemėmis ir
-    1
-    Opisanie stalystyczne miasta Wilna. Przez Michala Balinskiego.
-    Wilno,
-    1835. S. 6—9*.
+    Geriausiai šį ypatingą fenomeną pa­
+    aiškina vokiečių astronomas ponas Radiolas1. Anot jo, ga­
+    na tolimais amžiais susidūrė dvi palyginti didelės pla­
+    netos, vadinamos H espera ir Fajetonu; jų skeveldros iš
+    dalies nukrito žemėn ir sukėlė joje fizines revoliucijas,
+    kurios sunaikino žemynus ir sukėlė potvynius. Pasak kitos
+    ir panašios į šią prielaidos, prie žemės buvęs antras mė­
+    nulis, arba ¡palydovas, kuris buvo sunaikintas ir sprogo.
+  citata_rodoma: "Iš tikrųjų galima daryti tokią prielaidą, ir ji\nbūtų gana įtikėtina; bet kaip galima įsivaizduoti jėgą ir\npriežastį, kurios privertė besiveržiančius su žemėmis ir\n1\nOpisanie stalystyczne miasta Wilna. Przez Michala Balinskiego.\nWilno,\n1835. S. 6—9*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

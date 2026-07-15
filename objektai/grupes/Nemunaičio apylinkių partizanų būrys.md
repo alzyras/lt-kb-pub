@@ -41,26 +41,6 @@ media_all_json: |-
   teiginys: "A. Ramanauskas 1945 m. balandį įstojo į Nemunaičio apylinkių partizanų būrį ir iš karto buvo išrinktas jo vadu."
   pagrindžia:
     - c-44825
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Ramanauskas 1945 m. balandį įstojo į Nemunaičio apylinkių partizanų būrį ir iš karto buvo išrinktas jo vadu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    A. Ramanauskas persikėlė dirbti į
-    Alytaus mokytojų seminariją. Prasidėjus antra-
-    jai bolševikinei okupacijai, matydamas, kaip oku-
-    pantai naikina tautą, A. Ramanauskas. 1945 m.
-    balandį pasitraukė iš legalaus gyvenimo ir įstojo į
-    Nemunaičio apylinkių partizanų būrį, iš karto buvo
-    išrinktas jo vadu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

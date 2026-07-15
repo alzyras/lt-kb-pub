@@ -52,21 +52,9 @@ Nenurodyta
   teiginys: "Žemaičiai neleisdavo krikščionims artintis prie savo šventųjų šaltinių ir lieknų, nes bijojo, kad jie juos suterš ar sumaitos."
   pagrindžia:
     - c-09983
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    „Lig šiai dienai žemaičiai būtinai su mumis (krikščionimis) vienokią nuomonę visame turi, tiktai neleidžia artintis
-        krikščionių prie pačių savo šaltenių ir lieknų, idant jų krikščionys neįurštų^682 ir
-        nesumaitotų.“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

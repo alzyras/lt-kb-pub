@@ -34,8 +34,8 @@ Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos
   teiginys: "Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos jūros nusekimą nuo Kristaus gimimo."
   pagrindžia:
     - c-174379
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos jūros nusekimą nuo Kristaus gimimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -65,8 +65,7 @@ Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos
 - id: c-174379
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš tikrųjų kai ku­
     rias sausumas galima laikyti buvusiomis salomis po to,
@@ -80,6 +79,13 @@ Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos
     apie
     Baltijos
     jūrą“).
+    Seni
+    venecijiečių
+    žemėlapiai
+    šiai jūrai skiria gerokai didesnį plotą, negu ji užima
+    šiandien, be to, matoma daug pavyzdžių ir gretimose že­
+    mėse, kurios tarsi įrodo jos mažėjimą.
+  citata_rodoma: "Iš tikrųjų kai ku­\nrias sausumas galima laikyti buvusiomis salomis po to,\nkai iš ten pasitraukė jūra. Tačiau Kelsijus ir Dalinas per­\nnelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo\nKristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po\nketurių tūkstančių metų jos neliks nė pėdsako. Antra\nvertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,\nOvidijus kalba apie vandens lygio kritimą, pateikdami\nakivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis\napie\nBaltijos\njūrą“)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -64,24 +64,6 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
 - susijęs iš Jieznas: Vasario 9 d. priešakiniai 7-ojo „lietuviškojo“ pulko daliniai po susišaudymo su lietuvių husarų žvalgais užėmė Jiezną.
 - susijęs iš Ukmergė: Vytautas veikė Bopartėnų, Ukmergės ir Kulvos srityse.
 - susijęs iš Ukmergė: Vytautas veikė Ukmergės, Kulvos ir Bopartėnų srityse.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Buvo ištremtas ir patsai filaretų vadas Tomas
-    Zanas. Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius,
-    kuris tuo tarpu jau buvo mokytoju Kaune, tačiau su studen-
-    tais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų
-    ir t.t. Tuo pat metu prasidėjo kratos ir kitose vietose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-06614

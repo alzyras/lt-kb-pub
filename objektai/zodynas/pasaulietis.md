@@ -43,63 +43,19 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   teiginys: "Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui po gyvenimo pasauliečiu."
   pagrindžia:
     - c-59495
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Henrikas iš Kunceno, dar būdamas pasauliečiu, garsėjo kaip žiauruolis, grobikas ir piktadarys.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolį Henriką iš Kunceno
-
-      Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Būdamas
-    pasauliečiu,  jis garsėjo kaip baisus žiauruolis, didelis grobikas  ir piktadarys. Kartą
-    vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė:
-    „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave  į tokią vietą, kur tu pelnysi
-    didelį grobį“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui po gyvenimo pasauliečiu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Moteris, tiek kartų ir taip
-    smarkiai bauginama siaubingų bildesių, daugel sykių gąsdinama stebuklingų balsų,
-    nebeturėjo jėgų ilgiau priešintis šventam vyro sumanymui, todėl ir nusileido, duodama
-    jam valią stoti į bet kurį vienuolyną. Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą,
-    davė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus
-    piktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.
-    Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius
-    begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo
-    tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas
-    negali tavęs išganyti, tad išpažink žydų tikėjimą“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-59494
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 196"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolį Henriką iš Kunceno
-
-      Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Būdamas
-    pasauliečiu,  jis garsėjo kaip baisus žiauruolis, didelis grobikas  ir piktadarys. Kartą
+    Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Būdamas
+    pasauliečiu, jis garsėjo kaip baisus žiauruolis, didelis grobikas ir piktadarys. Kartą
     vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė:
-    „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave  į tokią vietą, kur tu pelnysi
+    „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave į tokią vietą, kur tu pelnysi
     didelį grobį“.
   statusas: verified
   teiginio_tipas: faktas
@@ -111,8 +67,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
 - id: c-59495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 196"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Moteris, tiek kartų ir taip
     smarkiai bauginama siaubingų bildesių, daugel sykių gąsdinama stebuklingų balsų,

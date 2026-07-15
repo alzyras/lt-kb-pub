@@ -41,24 +41,6 @@ media_all_json: |-
 - susijęs iš Varėna: Rugsėjo 24 d. šarvuotas traukinys „Gediminas“ grįžo į Varėną ir su 7-uoju pėstininkų pulku gynė strategiškai svarbią Varėnos geležinkelio stotį nuo Lenkijos pajėgų.
 - susijęs iš Šeštokai: Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.
 - susijęs iš [[objektai/grupes/3-ioji divizija.md#claim-t-38933|3-ioji divizija]]: 3-iajai divizijai buvo numatyta gynybinė pozicija nuo Vištyčio ežero per Rūdelę, Smalėnus ir Klevus iki Dimitravo ežero.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rugsėjo 22 d. prie Smalėnų miestelio šarvuotasis traukinys „Gediminas“ susirėmė su lenkų artilerija ir rėmė Lietuvos pėstininkus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Iš Kauno šarvuotas trauki-
-    nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
-    lenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-
-    kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45333

@@ -65,6 +65,7 @@ Nenurodyta
   teiginys: "Atsiskiriant po ganymo dar nebuvo papročio sakyti „labanakt“."
   pagrindžia:
     - c-177775
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

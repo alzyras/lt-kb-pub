@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Po kryžiuočių pralaimėjimo krikščionių valdovai surinko kariuomenes ir atvedė jas į Prūsiją. Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją, bet lietuvių nepuolė.
+Po kryžiuočių pralaimėjimo krikščionių valdovai surinko kariuomenes ir atvedė jas į Prūsiją. Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją, bet lietuvių nepuolė. Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -53,85 +53,14 @@ Nenurodyta
   global_id: t-185721
   teiginys: "Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją, bet lietuvių nepuolė."
   pagrindžia:
-    - c-169082
-## Reikšmingi paminėjimai
+    - c-169081
 
-- c-001
-  santrauka: 'Po kryžiuočių pralaimėjimo krikščionių valdovai surinko kariuomenes ir atvedė jas į Prūsiją.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tada kryžiuočiai patyrė di­
-    delį pralaimėjimą: jie neteko kariuomenės, kautynėse
-    krito karo vadai magistras Henrikas ir maršalas Dit-
-    richas. Žiauri šio karo baigtis paskatino krikščionių
-    K a rin ė g u d r y b ė  k o ­
-    v o j e
-    p rieš
-    k r y ž iu o ­
-    čius
-    132
-
-    ## Puslapis 131
-
-    valdovus griebtis ginklo. Di-
-    K rik ščio n ių
-    kuni-
-    džiules kariaunas atvedė į
-    g a ik ščių
-    ž y g is  p rieš
-    Prūsiją
-    Čekijos
-    karalius,
-    lie tu v iu s
-    Brandenburgo
-    markgrafas,
-    Tiuringijos landgrafas, Braun-
-    šveigo kunigaikštis; kadangi kariuomenė tapo sutelkta
-    smarkiai įrudenėjus, o žiemos pradžia pasitaikė šiltes­
-    nė nei paprastai ir visame krašte žliaugė liūtys, tai jie,
-    net nepabandę pulti lietuvių, nuleido ginklus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196182"></a>
+- t-003
+  global_id: t-196182
+  teiginys: "Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją, bet lietuvių nepuolė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Di-
-    K rik ščio n ių
-    kuni-
-    džiules kariaunas atvedė į
-    g a ik ščių
-    ž y g is  p rieš
-    Prūsiją
-    Čekijos
-    karalius,
-    lie tu v iu s
-    Brandenburgo
-    markgrafas,
-    Tiuringijos landgrafas, Braun-
-    šveigo kunigaikštis; kadangi kariuomenė tapo sutelkta
-    smarkiai įrudenėjus, o žiemos pradžia pasitaikė šiltes­
-    nė nei paprastai ir visame krašte žliaugė liūtys, tai jie,
-    net nepabandę pulti lietuvių, nuleido ginklus. Vis dėl­
-    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
-    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
-    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
-    sako Livonijos metraštis, žemaičiai ir lietuviai prie
-    Eželio ant ledo kovojo su Livonijos magistru Otonu,
-    magistras žuvo su penkiasdešimčia šio ordino brolių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-169081
 
 ## Citatos
 
@@ -140,55 +69,12 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tada kryžiuočiai patyrė di­
-    delį pralaimėjimą: jie neteko kariuomenės, kautynėse
-    krito karo vadai magistras Henrikas ir maršalas Dit-
-    richas. Žiauri šio karo baigtis paskatino krikščionių
-    K a rin ė g u d r y b ė  k o ­
-    v o j e
-    p rieš
-    k r y ž iu o ­
-    čius
-    132
-
-    ## Puslapis 131
-
-    valdovus griebtis ginklo. Di-
-    K rik ščio n ių
-    kuni-
-    džiules kariaunas atvedė į
-    g a ik ščių
-    ž y g is  p rieš
-    Prūsiją
-    Čekijos
-    karalius,
-    lie tu v iu s
-    Brandenburgo
-    markgrafas,
-    Tiuringijos landgrafas, Braun-
-    šveigo kunigaikštis; kadangi kariuomenė tapo sutelkta
-    smarkiai įrudenėjus, o žiemos pradžia pasitaikė šiltes­
-    nė nei paprastai ir visame krašte žliaugė liūtys, tai jie,
-    net nepabandę pulti lietuvių, nuleido ginklus.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185720
-
-- id: c-169082
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 131"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
-  citata_originali: |
     Di-
     K rik ščio n ių
     kuni-
     džiules kariaunas atvedė į
     g a ik ščių
-    ž y g is  p rieš
+    ž y g is p rieš
     Prūsiją
     Čekijos
     karalius,
@@ -206,9 +92,14 @@ Nenurodyta
     sako Livonijos metraštis, žemaičiai ir lietuviai prie
     Eželio ant ledo kovojo su Livonijos magistru Otonu,
     magistras žuvo su penkiasdešimčia šio ordino brolių.
+    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
+    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
+    ir žuvo.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-185720
     - t-185721
+    - t-196182

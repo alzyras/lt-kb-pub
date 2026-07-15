@@ -51,23 +51,6 @@ Nenurodyta
   teiginys: "1639 m. Liubomirskis nesutiko pratęsti seimo darbo laiko, todėl seimas išsiskirstė."
   pagrindžia:
     - c-66906
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1639 m. Liubomirskis nesutiko pratęsti seimo darbo laiko, todėl seimas išsiskirstė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Seimas turėdavo tęstis ne ilgiau, kaip 6 savaites. Pasibaigus
-    tam laikui, posėdžiauti buvo galima tik visiems atstovams sutikus.
-    Ir štai 1639 m. Liubomirskis, o 1652 m. Čičinskas pasisakė nesutinką
-    pratęsti seimui laiko, ir seimai išsiskirstė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

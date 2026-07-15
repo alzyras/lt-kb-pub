@@ -45,27 +45,6 @@ media_all_json: |-
   teiginys: "Dr. J. Šliūpas tvarkė „Aušrą“, kol vokiečių valdžia privertė jį išvažiuoti į Ameriką."
   pagrindžia:
     - c-01267
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    tebuvo įsteigtas tik laikraštis „Aušra" (1883 m.). Jos suma-
-    nytojas, pirmasis redaktorius ir siela buvo Basanavičius. Bet
-    kadangi jis tuo metu gyveno užsieny, daugiausia Bulgarijoje
-    (1884—1905 m.), tai laikraštį tvarkė kiti, būtent Maž. Lietuvos
-    veikėjas Mikšas, pa-
-    skui dr. J. Šliūpas,
-    o kai šį vokiečių valdžia
-    privertė išvažiuoti į
-    Ameriką, — vėl Mikšas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

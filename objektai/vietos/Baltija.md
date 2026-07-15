@@ -30,33 +30,40 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 
 ## Teiginiai
 
-<a id="claim-t-67690"></a>
+<a id="claim-t-67689"></a>
 - t-001
-  global_id: t-67690
-  teiginys: "1252 m. Livonijos ordinas pradėjo statyti pilį vietoje, kur Kuršių marios jungiasi su Baltija."
-  pagrindžia:
-    - c-67494
-
-<a id="claim-t-67690"></a>
-- t-002
-  global_id: t-67690
+  global_id: t-67689
   teiginys: "1252 m. Livonijos ordinas pradėjo statyti pilį vietoje, kur Kuršių marios jungiasi su Baltija."
   pagrindžia:
     - c-67494
 
 <a id="claim-t-192613"></a>
-- t-003
+- t-002
   global_id: t-192613
   teiginys: "Narbutas rašo, kad apie Pitėją manyta jį antrąją kelionę vykus į šiaurės rytus ir atradus Baltijos salą."
   pagrindžia:
     - c-175383
 
 <a id="claim-t-192614"></a>
-- t-004
+- t-003
   global_id: t-192614
   teiginys: "Narbutas nurodo, kad Plinijaus Baltija, remiantis Hardua rankraščiais ir stebėjimais, turėtų vadintis Basilia."
   pagrindžia:
     - c-175384
+
+<a id="claim-t-197854"></a>
+- t-004
+  global_id: t-197854
+  teiginys: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
+  pagrindžia:
+    - c-175383
+
+<a id="claim-t-197855"></a>
+- t-005
+  global_id: t-197855
+  teiginys: "Sala, kurią Plinijus vadina Baltija, remdamasis visais Hardua rankraščiais ir stebėjimais, turėtų vadintis Basilia."
+  pagrindžia:
+    - c-179364
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96086|Baltai]]: Baltais vadinama indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-192401|Gotai]]: Narbutas gotais vadinamą tautą sieja su pajūriu nuo Oderio iki Vyslos, gitonų arba variagų vardais ir gintaro prekyba.
 - susijęs iš [[objektai/grupes/Kimbrai.md#claim-t-192933|Kimbrai]]: Narbutas aiškina, kad Baltijos pakrančių nelaimė išstūmė kimbrus iš jų gyvenamųjų vietų ir privertė trauktis į Rytus.
@@ -137,7 +144,6 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178957|Kryžiuočių ordinas]]: Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169694|Lietuvos Didžioji Kunigaikštija]]: Lietuvos Didžiosios Kunigaikštijos atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.
 - susijęs iš [[objektai/grupes/Lietuvos diplomatinė tarnyba.md#claim-t-19867|Lietuvos diplomatinė tarnyba]]: Lietuvos diplomatinės tarnybos diplomatai simboliškai atstovavo Lietuvai ir palaikė ryšius su kitų Baltijos šalių atstovais.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179435|Livonijos ordinas]]: Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
 - susijęs iš [[objektai/grupes/Lygai.md#claim-t-192955|Lygai]]: Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakrančių gyventojais.
 - susijęs iš [[objektai/grupes/Normanai.md#claim-t-86723|Normanai]]: Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.
@@ -382,8 +388,6 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74924|Sovietų Sąjunga]]: 1940 m. birželio 15 d. į Lietuvą atvykusiam sovietų emisarui Vladimirui Dekanozovui atiteko reali aukščiausioji valdžia.
 - susijęs iš [[objektai/grupes/Tarptautinė darbo organizacija.md#claim-t-20037|Tarptautinė darbo organizacija]]: 1991 m. pabaigoje Lietuva buvo priimta į JT specializuotas įstaigas, tarp jų ir Tarptautinę darbo organizaciją.
 - susijęs iš [[objektai/grupes/Tautų Sąjunga.md#claim-t-181336|Tautų Sąjunga]]: Įsileidusi sovietų bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171409|Totoriai]]: Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171426|Totoriai]]: Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.
 - susijęs iš [[objektai/grupes/UNESCO.md#claim-t-20052|UNESCO]]: 1991 m. pabaigoje Lietuva buvo priimta į UNESCO ir kitas JT specializuotas įstaigas.
 - susijęs iš [[objektai/grupes/Variagai (normanai).md#claim-t-192477|Variagai (normanai)]]: Narbutas rašo, kad Rimuko variagai buvo vadinti rus-variagais arba rusais ir laikyti karinga skandinavų gentimi.
 - susijęs iš [[objektai/grupes/Vilkai-liutikai.md#claim-t-192965|Vilkai-liutikai]]: Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, jo teigimu, buvo įvairiai iškraipomas.
@@ -590,7 +594,6 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš Vilniaus kraštas: Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų, nes karo metu kraštas buvo nualintas, o modernios pramonės įmonės išvežtos į SSRS.
 - susijęs iš Vilniaus kraštas: Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.
 - susijęs iš Vilniaus sporto rūmai: Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas vyko Vilniaus sporto rūmuose 1988 m. spalio 22–23 d.
-- susijęs iš Vilnius: Algirdo laikais Lietuvos sostinė kelis kartus buvo žiauriai nuniokota, bet valdovas išgelbėdavo Vilnių nuo visiškos pražūties.
 - susijęs iš Vokietija: 1940 m. birželio 16 d. sovietų divizijos per Lietuvos teritoriją strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos padėjo okupuoti abi šalis.
 - susijęs iš Vokietija: 1940 m. birželio 16 d. sovietų divizijos per Lietuvą strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.
 - susijęs iš Vyborgas: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
@@ -667,24 +670,6 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/ivykiai/Kimbrų epochos potvynis Baltijos pakrantėse.md#claim-t-191025|Kimbrų epochos potvynis Baltijos pakrantėse]]: Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo Jokimo Rozencveigo veikalus, kuriuose buvo cituojamas kimbrų epochos potvynis.
 - susijęs iš [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma.md#claim-t-23361|Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]: 1989 m. rugpjūčio 23 d. apie du milijonai lietuvių, latvių ir estų Baltijos kelyje susikibo rankomis į daugiau kaip 650 km gyvą žmonių grandinę.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1252 m. Livonijos ordinas pradėjo statyti pilį vietoje, kur Kuršių marios jungiasi su Baltija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, užėmus pajūrį, Livonijoje ir Prūsuose veikiančios ordino
-    šakos galėtų susisiekti sausuma. Tam tikslui 1252 m. Livo-
-    nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
-    jungiasi su Baltija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 - c-002
   santrauka: 'Narbutas rašo, kad apie Pitėją manyta jį antrąją kelionę vykus į šiaurės rytus ir atradus Baltijos salą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -743,14 +728,12 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67690
     - t-67689
 
 - id: c-175383
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 335"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Graikai, ypač
     masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
@@ -760,19 +743,21 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
     Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
-    toliausiai Elbės žiotis.
+    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
+    tojas Strabonas daug ką jam priskyrė svetimo.
+  citata_rodoma: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir­\nmą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado \nBaltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar \ntoliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­\ntojas Strabonas daug ką jam priskyrė svetimo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192613
+    - t-197854
 
 - id: c-175384
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Aes­
     tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
@@ -781,13 +766,36 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
     lia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų
-    kelionės nuo sausumos atstumu.
+    kelionės nuo sausumos atstumu. Kiek čia nepatikimumo!2
+    Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­
+    roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
+    Amelandu.
+  citata_rodoma: "Aes­\ntuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,\nseklias vietas, kurios kartais būva apsemtos, o kartais —\nsausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.\nSala, kurią Plinijus vadina Baltija, remdamasis visais\nHardua rankraščiais ir stebėjimais, turėtų vadintis Basi-\nlia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų\nkelionės nuo sausumos atstumu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192614
+
+- id: c-179364
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Sala, kurią Plinijus vadina Baltija, remdamasis visais
+    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
+    lia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų
+    kelionės nuo sausumos atstumu. Kiek čia nepatikimumo!2
+    Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­
+    roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
+    Amelandu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197855
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

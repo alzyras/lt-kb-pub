@@ -35,23 +35,6 @@ Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pa
   teiginys: "Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pastatytoje Ritersverderio pilyje."
   pagrindžia:
     - c-176007
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pastatytoje Ritersverderio pilyje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šį kartą Vytautui ordinas jau nebedavė valdyti jokios pilies.
-    Tačiau jam buvo leista gyventi prie pat Kauno, vietoj
-    senojo Marijenverderio pastatytoje Ritersverderio pilyje. Čia jis
-    organizavo karą su Jogaila.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -3,6 +3,7 @@ tipas: ivykis
 pavadinimas: 'Barboros ir Mataušo vestuvės (1861 m.)'
 saltiniai:
   - 'Mūsų tautosaka, t.4 (1931)'
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: '1861 m.'
 datos:
@@ -15,7 +16,8 @@ date_start: '1861'
 date_end: '1861'
 variantai:
   - 'Barboros ir Mataušo vestuvės 1861 m.'
-aliases: []
+aliases:
+  - 'objektai/ivykiai/Barboros ir Mataušo vestuvės 1861 m.'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -91,6 +93,7 @@ Jungtuvės buvo užmegstos, o vestuvės pradėtos griežtąjį pirmadienį.
   teiginys: "Nuo pirmo užsako dienos iki vestuvių praėjo trys savaitės."
   pagrindžia:
     - c-177661
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

@@ -35,36 +35,13 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
   teiginys: "Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke."
   pagrindžia:
     - c-169472
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Miestas
-    turėjo pasiduoti, priimti vienu metu ir taiką, ir vergo­
-    vę: neteko laisvės tie, kurie ją piktam naudojo, skriaus­
-    dami kaimynus. Neilgai šia pergale džiaugėsi Mingai­
-    la tais pačiais metais jis mirė, įpėdiniais palikdamas
-    Skirmantą ir Ginvilą, kurių pirmasis, amžiumi vyres­
-    nis, paveldėjo senelio valdžią Naugarduke, o antra­
-    sis — tėvo Polocke. Sėkmingų lietuvių žygių Rusioje
-    nevaliojo pakęsti rusų kunigaikščiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169472
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 82."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Miestas
     turėjo pasiduoti, priimti vienu metu ir taiką, ir vergo­

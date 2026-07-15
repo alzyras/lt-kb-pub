@@ -55,8 +55,8 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   teiginys: "Teodoras Narbutas rašo, kad Leela-Uppe šiandien nežinoma, bet galėjo būti kuri nors į Engūrės ežerą įtekanti upė."
   pagrindžia:
     - c-175352
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -104,8 +104,7 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
 - id: c-175077
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 288"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat yra senovės geogra­
     fo, žinomo kaip Ravenos geografas2, IX amžiaus infor­
@@ -116,7 +115,11 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
     vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių
     būtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­
     tys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
-    kia Didelę upę4.
+    kia Didelę upę4. Tačiau, nepaisant latviško pavadinimo,
+    ši upė, tiesą sakant, šiandien mums nežinoma, bet ma­
+    nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti
+    upė. Ant jos krantų, gal prie žiočių, buvo miestas Uppe-
+    leela; iš čia svetimšaliai autoriai mini Apuliją.
   citata_rodoma: "Leela yra latvių kalbos būdvardis, Leela-Uppe reiš-\nkia Didelę upę4."
   statusas: verified
   teiginio_tipas: faktas
@@ -128,17 +131,17 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
 - id: c-175352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 288"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Žodis Upe lietu­
-    vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių
-    būtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­
-    tys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
+    Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
     kia Didelę upę4. Tačiau, nepaisant latviško pavadinimo,
     ši upė, tiesą sakant, šiandien mums nežinoma, bet ma­
     nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti
-    upė.
+    upė. Ant jos krantų, gal prie žiočių, buvo miestas Uppe-
+    leela; iš čia svetimšaliai autoriai mini Apuliją. O Anger
+    upės žinomos dvi: viena įteka į Ventą iš jos dešiniosios
+    pakrantės, antra — į Engūrės ežerą.
+  citata_rodoma: "Žodis Upe lietu­\nvių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių\nbūtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­\ntys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­\nkia Didelę upę4. Tačiau, nepaisant latviško pavadinimo,\nši upė, tiesą sakant, šiandien mums nežinoma, bet ma­\nnome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti\nupė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

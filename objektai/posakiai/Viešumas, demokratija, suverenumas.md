@@ -43,32 +43,6 @@ Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
   pagrindžia:
     - c-16518
 
-<a id="claim-t-13363"></a>
-- t-002
-  global_id: t-13363
-  teiginys: "„Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis."
-  pagrindžia:
-    - c-16518
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pradiniame etape Sąjūdis iš es-
-    mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
-    pais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja
-    SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
-    o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
-    Lietuvoje. Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-16518
@@ -89,4 +63,3 @@ Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-13363
-    - t-13364

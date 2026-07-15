@@ -35,31 +35,6 @@ Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės b
   teiginys: "Krymo pusiasalio nuošalumas nuo Lenkijos, Lietuvos ir Maskvos valstybės totoriams teikė strateginį pranašumą."
   pagrindžia:
     - c-45152
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Totorių kariuomenė
-
-    Strateginį privalumą totoriams laidavo jų
-    pagrindinės buveinės - Krymo pusiasalio
-    nuošalumas nuo stiprių galios centrų, tokių
-    kaip Lenkija, Lietuva ar Maskvos valstybė.
-    Nuo sėsliai gyvenančių visuomenių atskirti
-    plačių stepių ir turėdami „gerai užrakina-
-    mus Krymo vartus“ - įtvirtintą Perekopo
-    sąsmauką - totoriai turėjo sunkiai pasie-
-    kiamą lizdą, iš kurio, savo ruožtu, galėdavo
-    nesunkiai leistis į tolimus žygius. Taktinį
-    pranašumą sąlygojo jų lengvoji kavalerija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

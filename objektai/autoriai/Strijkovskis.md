@@ -32,7 +32,7 @@ Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes t
 <a id="claim-t-190455"></a>
 - t-001
   global_id: t-190455
-  teiginys: "Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes turėjo Lietuvos istorijos šaltinių."
+  teiginys: 'Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes turėjo Lietuvos istorijos šaltinių.'
   pagrindžia:
     - c-173338
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188561|Janas Lasickis]]: Narbutas, remdamasis Lasickiu, rašo, kad Strijkovskis ir kiti Markopolius trumpai mini kaip požemio dievaičius.
@@ -82,7 +82,6 @@ Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes t
 - susijęs iš M. Strijkovskio kronika: Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu.
 - susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronika plačiai aprašė Kęstučio gudrybes puolant Vilnių.
 - susijęs iš M. Strijkovskio kronika: Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińskio teigimu, suklydo dėl datos ir praleido kai kurias aplinkybes.
-- susijęs iš Vilnius: Vilniuje spaudai buvo rengiamas XVI a. kronikininko Motiejaus Strijkovskio veikalas.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184675|Birutė]]: Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188517|Birutė]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Palangos aukuro apeigas, todėl jos Žemaitijoje išliko ilgiau.
 - susijęs iš [[objektai/asmenys/Henrikas Latvis.md#claim-t-190100|Henrikas Latvis]]: Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio, kurio valdžią pats Narbutas sieja su tuo kraštu.
@@ -116,10 +115,6 @@ Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes t
 - susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
 - susijęs iš Livonija: Narbutas svarstė, kodėl Henrikas Latvis, rašęs apie Livoniją, neminėjo krivio, jeigu šis valdė tą šalį.
 - susijęs iš Vilniaus Perkūno šventykla: Pasak Narbuto perteikiamo Strijkovskio, prie Vilniaus Perkūno šventyklos gyvatės buvo laikomos atskiroje koplyčioje po Katedros didžiuoju altoriumi.
-- susijęs iš Vilnius: Mikalojus Radvila Juodasis Lukiškėse pastatė kalvinų bažnyčią ir traukė į ją vilniečius.
-- susijęs iš Vilnius: Karalius Vilniuje užkirto kelią piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.
-- susijęs iš Vilnius: Narbutas, remdamasis Strijkovskiu, rašė, kad Vilniuje prie Perkūno šventyklos šliužai buvo laikomi atskiroje koplyčioje.
-- susijęs iš Vilnius: Narbutas rašė, kad Strijkovskis mini Vilniaus Perkūno šventykloje buvusį didžiulį juodą akmenį, iš kurio buvo įskeliama ugnis.
 - susijęs iš Žemaitija: Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.
 - susijęs iš Žemaitija: Narbutas aiškina, kad aukuras ir apeigos Žemaitijoje išliko dėl Jogailos ir Vytauto pagarbos kunigaikštienei Birutei.
 - susijęs iš [[objektai/zodynas/Išpažintis.md#claim-t-189298|Išpažintis]]: Narbutas, remdamasis Strijkovskiu ir Grunau, išpažintį priskiria lietuvių atnašavimo apeigoms.
@@ -127,37 +122,6 @@ Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes t
 - susijęs iš [[objektai/zodynas/Risietis.md#claim-t-189327|Risietis]]: Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė mintį, kad šio žodžio nereikėjo skolintis iš svetimos kalbos.
 - susijęs iš [[objektai/zodynas/Slenkstis Slynksnis-Perlevenu.md#claim-t-189179|Slenkstis Slynksnis-Perlevenu]]: Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų dievaitį ir žemdirbio nuosavybės globėją.
 - susijęs iš [[objektai/zodynas/Trakai Troki.md#claim-t-189142|Trakai Troki]]: Narbutas kaip Trakų vardo paplitimo pavyzdį nurodė Trakais vadintą mišką Lydos apskrities Žirmūnų parapijoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes turėjo Lietuvos istorijos šaltinių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    O kodėl apie krivį nieko
-    nemini Henrikas Latvis, rašęs apie Livoniją, apie šalį, kurią
-    krivis valdė? Būtų galima manyti, kad Livonijoje nebūta jokio
-    krivio pėdsako; net galima tvirtinti, kad Dusburgietis, klysda­
-    mas, jog Prūsijos krivio valdžia buvo taip labai paplitusi, tuo
-    labiau norėjo matyti Livoniją klausančią jo įsakymų, kuo la­
-    biau stiprėjo ir įgavo didesnę reikšmę jo lyginimas su popie­
-    žiumi; žinoma, galima būtų tiesiog prisipažinti, kad joks Prū­
-    7 Atvirkščiai, Strijkovskis apie tai rašo daugiau už prūsų ir latvių
-    kroninininkus, nes jis po ranka turėjo istorijos šaltinius, kurie bylojo,
-    kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo pa­
-    pasakoti ir daugiau smulkmenų.
-    421
-
-    ## Puslapis 421
-
-    sijos krivis niekad neįsakinėjo Livonijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-173338
@@ -182,9 +146,9 @@ Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes t
     ## Puslapis 421
 
     sijos krivis niekad neįsakinėjo Livonijai.
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190455
+    - t-001

@@ -64,67 +64,6 @@ media_all_json: |-
   teiginys: "1991 m. sausį promaskviniai būriai pasinaudojo Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas, siekdami nuversti teisėtą Lietuvos valdžią."
   pagrindžia:
     - c-21810
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
-    Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
-    ekonomikai. Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazi-
-    miera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti
-    Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už
-    įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi būti mecha-
-    ninė įmonių suma, kaip SSRS neturėtų būti mechaninė respublikų suma.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
-    vuočiai. Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus
-    ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vė-
-    liau – Vilniaus geležinkelio mazgą. Promaskviniai būriai turėjo įsiveržti
-    į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskir-
-    ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės
-    Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas)
-    ir nuversti teisėtą Lietuvos valdžią.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-    - t-005
-
-- c-003
-  santrauka: 'Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
-    ekonomikai. Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazi-
-    miera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti
-    Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už
-    įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi būti mecha-
-    ninė įmonių suma, kaip SSRS neturėtų būti mechaninė respublikų suma.
-    „Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sis-
-    temos keitimą, o tautiniu klausimu
-    pasisakyta atsargiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -169,7 +108,6 @@ media_all_json: |-
   pagrindzia:
     - t-19051
     - t-183547
-    - t-005
 
 - id: c-166939
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

@@ -59,8 +59,8 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
   teiginys: "Gardino pilininko Dovydo alodas, arba dvaras, buvo užpultas ir sudegintas iki pamatų."
   pagrindžia:
     - c-69848
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -76,51 +76,29 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
     - t-001
     - t-002
 
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kitą lietuvių vaidmens rusėnų visuomenėje aspektą slepia socialinė
-    ekonominė sritis. Atėję iš ryškią individualią alodinę nuosavybės struk-
-    tūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujan-
-    tys valstiečiai skyrėsi nuo rytinių slavų. Pastarųjų erdvėje toliau į rytus
-    (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
-    tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
-    tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
-    ūkis).
-  citata_rodoma: ''
-  statusas: verified
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atėję iš ryškią individualią alodinę nuosavybės struk-
-    tūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujan-
-    tys valstiečiai skyrėsi nuo rytinių slavų. Pastarųjų erdvėje toliau į rytus
-    (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
-    tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
-    tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
-    ūkis). Dėl šio pažangesnio ūkininkavimo ir nuosavybės santykių būdo
-    neatsitiktinai į XV–XVI a.
-  citata_rodoma: ''
-  statusas: verified
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
 ## Citatos
 
 - id: c-69848
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 219."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų
-    smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;
-    nukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.
+    356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
+    čionių 1324 metais
+    Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą,
+    įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo, bei to paties
+    miesto gyventojų, du legatus, būtent: Baltramiejų, Aleto vyskupą, ir Bernardą, švento
+    Benedikto ordino švento Teofrido vienuolyno abatą Le Piui vyskupystėje, pakrikštyti
+    lietuvių ir rusų karaliaus. Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto,
+    šventės (rugsėjo 22) atvyko į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo
+    karaliaus bei jo valdinių iš vienos pusės ir tarp krikščionių iš kitos ir apaštališkojo sosto
+    valia pasiūlė tvirtai jos laikytis, pridurdami, kad toji šalis, kuri lengvapėdiškai pažeisianti
+    šį susitarimą, kuri sakysianti tokius žodžius ar darysianti tokius veiksmus, griebsiantisi
+    tokių sumanymų ar darbų, kurie galėtų trukdyti šiam susitarimui ar jį vilkinti, būsianti
+    dėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,
+    tik apaštališkasis sostas, prie kurio jie patys per tris mėnesius turėsią prisistatyti,
+    kad atvykę deramai pataisytų tai, kas atsitiko.
+  citata_rodoma: "Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų\nsmarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;\nnukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

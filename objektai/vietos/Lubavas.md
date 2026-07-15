@@ -36,6 +36,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginys: "Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių."
   pagrindžia:
     - c-59335
+    - c-167562
 
 <a id="claim-t-58703"></a>
 - t-002
@@ -43,13 +44,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginys: "Pavyslyje, ypač Kulmo ir Lubavo srityse, gyventojai buvo mišrūs: lenkai ir prūsai."
   pagrindžia:
     - c-59334
-
-<a id="claim-t-184177"></a>
-- t-003
-  global_id: t-184177
-  teiginys: "Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių."
-  pagrindžia:
-    - c-167562
 - susijęs iš Kulmas: Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Kulmas: Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Kulmas: Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai.
@@ -88,84 +82,18 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89574|Prūsijos žemė]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89575|Prūsijos žemė]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
 - susijęs iš Kulmas: Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pavyslyje, ypač Kulmo ir Lubavo srityse, gyventojai buvo mišrūs: lenkai ir prūsai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
-    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
-    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
-    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
-    sritį valdė prūsai, turėję ten savo pilių (III,7).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
-    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
-    iki Nemuno.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsai ir Lietuva
-
-       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
-    vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-59334
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
     prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
@@ -181,15 +109,14 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-59335
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno.
   citata_rodoma: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
@@ -203,15 +130,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-167562
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Prūsai ir Lietuva
-
-       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
     vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
@@ -220,5 +145,3 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184177

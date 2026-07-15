@@ -49,7 +49,6 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
 - susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kur buvo Kapstetos pilis, nėra aišku.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -74,9 +73,6 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
     pilį333 ir ją pavertė pelenais, pilyje bei jos apygardoje paėmė į nelaisvę daugybę žmonių,
     daugybę nukovę, o visą žemę nusiaubė, grobdami ir degindami.
 
-
-
-
          75 (74). Apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė
   citata_rodoma: ''
   statusas: verified
@@ -91,12 +87,16 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
 - id: c-59194
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 108"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 108."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kur buvo Kapstetos  pilis, nėra aišku. Mūsų manymu, vertas dėmesio vietovardis
-    Kappershagen (Sch-K) deš. Alnos žemupio krante  į pietus nuo Vėluvos. Galbūt tai
-    suvokietinta Kapsteta (Capostete).
+    76 (75). Apie vienos Notangos dalies nuniokojimą
+    Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
+    kurie jam buvo paklusnūs, ir įsibrovė į vieną Notangos žemės pakraštį [confinium],
+    nenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],
+    ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė
+    drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
+    moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
+  citata_rodoma: "Kur buvo Kapstetos  pilis, nėra aišku. Mūsų manymu, vertas dėmesio vietovardis\nKappershagen (Sch-K) deš. Alnos žemupio krante  į pietus nuo Vėluvos. Galbūt tai\nsuvokietinta Kapsteta (Capostete)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -107,18 +107,17 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
 - id: c-59195
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 108"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 108."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     su sembų kariuomene, vedamas Tirsko, netikėtai įsibrovė į Vonsdorfo žemę332; pristatę
     prie sienų kopėčias bei padarę visa kita, kas reikalinga pilims pulti, užkariavo Kapstetos
     pilį333 ir ją pavertė pelenais, pilyje bei jos apygardoje paėmė į nelaisvę daugybę žmonių,
     daugybę nukovę, o visą žemę nusiaubė, grobdami ir degindami.
-
-
-
-
-         75 (74). Apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė
+    75 (74). Apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė
+    Kitais metais (1256) tas pats Karaliaučiaus komtūras vėl sutelkė stiprią kariuomenę
+    ir patraukė į minėtąją Vonsdorfo žemę, ten pasistatė stovyklą, apsupdamas Auktalito
+    pilį334, ir anksčiau aprašytu būdu ją užėmė; paėmęs pilyje ir jos apylinkėse daug žmonių
+    į nelaisvę ir daug nukovęs, ją iki pamatų sudegino.
   citata_rodoma: "su sembų kariuomene, vedamas Tirsko, netikėtai įsibrovė į Vonsdorfo žemę332; pristatę\nprie sienų kopėčias bei padarę visa kita, kas reikalinga pilims pulti, užkariavo Kapstetos\npilį333 ir ją pavertė pelenais, pilyje bei jos apygardoje paėmė į nelaisvę daugybę žmonių,\ndaugybę nukovę, o visą žemę nusiaubė, grobdami ir degindami.\n\n\n\n\n     75 (74)."
   statusas: verified
   teiginio_tipas: faktas

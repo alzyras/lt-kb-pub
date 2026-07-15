@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klodų Avos karalystėje.
+Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klodų Avos karalystėje. Saimsas skatina transpiraciją, smilkdamas išskiria maloniai kvepiančių, orą gryninančių dūmų, padeda gydyti reumato ligas.
 
 ## Teiginiai
 
@@ -34,55 +34,35 @@ Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klo
   teiginys: "Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klodų Avos karalystėje."
   pagrindžia:
     - c-174196
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klodų Avos karalystėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Nemažai jo randama ir pakrantėse Vyslos ir Daugu­
-    vos žiočių link, Lenkijoje prie Ostrolenkos, o tais laikais
-    itin gražių ¡gintaro egzempliorių rasta ir Narevo upės pa­
-    krantėse. Be to, iš dalies aptinkama šios medžiagos kitose
-    Europos dalyse, Azijoje ir Afrikoje; anglas Saimsas, kaip
-    teigiama, neseniai atradęs didelių gintaro klodų1 Avos
-    karalystėje.
-    153
-    Gero gintaro kietumas šipina geležį, jis gražiausiai
-    blizga, jo skaidrumas, vidinis gyslotumas ir dažnai bliz­
-    gančių žvynelių lūžiai daro jį vertingą; senovėje jis buvo
-    prilyginamas brangakmeniams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197812"></a>
+- t-002
+  global_id: t-197812
+  teiginys: "Saimsas skatina transpiraciją, smilkdamas išskiria maloniai kvepiančių, orą gryninančių dūmų, padeda gydyti reumato ligas."
   pagrindžia:
-    - t-001
+    - c-174196
 
 ## Citatos
 
 - id: c-174196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Nemažai jo randama ir pakrantėse Vyslos ir Daugu­
-    vos žiočių link, Lenkijoje prie Ostrolenkos, o tais laikais
-    itin gražių ¡gintaro egzempliorių rasta ir Narevo upės pa­
-    krantėse. Be to, iš dalies aptinkama šios medžiagos kitose
-    Europos dalyse, Azijoje ir Afrikoje; anglas Saimsas, kaip
-    teigiama, neseniai atradęs didelių gintaro klodų1 Avos
-    karalystėje.
-    153
-    Gero gintaro kietumas šipina geležį, jis gražiausiai
-    blizga, jo skaidrumas, vidinis gyslotumas ir dažnai bliz­
-    gančių žvynelių lūžiai daro jį vertingą; senovėje jis buvo
-    prilyginamas brangakmeniams.
+    Lengvumas ir žinomos
+    cheminės savybės liepia priskirti jį sakų klasei; patrintas
+    pritraukia lengvus kūnus, iš jo atsirado elektros pavadi­
+    nimas ir davė pradžią supratimui apie elektrą. Pridėtas
+    prie skaudamos žmogaus kūno dalies, jis skatina trans­
+    piraciją, smilkdamas išskiria maloniai kvepiančių, orą
+    gryninančių dūmų, padeda gydyti reumato ligas. Seniau į
+    daugelį vaistų būdavo dedama skysto gintaro medžiagų,
+    eterinių aliejų, balzamų, kuriuos ir dabar labai vertina in­
+    dai ir kinai; pas mus jis dedamas į lakus.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191314
+    - t-197812

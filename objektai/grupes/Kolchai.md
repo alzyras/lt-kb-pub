@@ -54,28 +54,6 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
 - susijęs iš Kaspija: Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meotidės, tarp budinų ir prie Kaspijos.
 - susijęs iš Kaukazas: Narbutas rašo, kad kolchų kolonijos driekėsi beveik nuo Kaukazo per Volgą ir į vakarus iki Dono.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijos gilumos atsikėlė į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šioms tolimos senovės epo­
-    choms priskirtina ir kolchų tauta, nors ji gerokai vėliau
-    už pelazgus atsikėlė iš Azijos gilumos į kraštus, esan­
-    čius į šiaurę nuo Kaspijos ir Juodosios jūrų. Tai buvo
-    didelė, plačiai pasklidusi tauta, nes jos kolonijos driekė­
-    si beveik nuo Kaukazo per Volgą ir į vakarus net iki
-    Dono, o į šiaurę tų kolonijų žemių ir genčių priklauso­
-    mybės ribų pažymėti nėra galimybių. Tikėtina, kad jie
-    galėjo turėti įtakos iki Uralo kalnų ir turtingų rūdynų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas rašo, kad nuo neatmenamų laikų kolchai buvo laikomi labai turtingais ir išmanančiais gamtos dalykus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -106,8 +84,7 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
 - id: c-175723
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šioms tolimos senovės epo­
     choms priskirtina ir kolchų tauta, nors ji gerokai vėliau
@@ -128,22 +105,23 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
 - id: c-175724
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 42"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Nuo neatmenamų
-    laikų kolchai buvo laikomi neapsakomai turtingais ir iš­
-    manančiais gamtos dalykus. Pirmieji jų atstovai buvo ki­
-    lę iš 'kalnų, kuriuos jie atradoi, ypač Uralo. Kol šį kraštą
-    pažino žmonės, ten buvo brangiųjų metalų grynuolių, kaip
-    akmenų, luitų, tai galima numatyti iš dabartinių žinių
-    apie šiuos kalnus. Indų civilizacija ir kasta žynių, kurie
-    atsidėjo mokslui ir tarnavo Saulei, garbinamai Koros
-    vardu, lėmė, kad pas juos anksčiausiai suklestėjo gamtos
-    mokslai, pradėti vartoti augalinės kilmės vaistai. Visa tai
-    byloja, kad Kolchidė iki Trojos karo buvo labiausiai ci­
-    vilizuotas ir turtingas kraštas, kokį tik galėjo pažinti
-    graikai.
+    Nėra abejonių, jog tarp
+    graikų buvo paplitę liudytojų patvirtinti padavimai, kad
+    už šiaurinių Azovo jūros krantų, kur neva įteka Tanajo
+    upė, šiaurės vakarų kryptimi, šia upe aukštyn nuplaukus
+    geroką atstumą, keliautojo laukia dideli atradimai, ne­
+    suskaičiuojami turtai ir graikams lig tol nežinomi gamtos
+    stebuklai. Prikso sūnus Argas pirmasis susiruošė į ke­
+    lionę minėta jūra, kurią tuomet vadino Pontos-Axenos,
+    t. y. nesvetinga jūra; šis pavadinimas buvo taikomas
+    Juodajai jūrai nuo Dunojaus žiočių net iki Dono žiočių.
+    Juodąja jūrą pavadino vėliau dėl dažnai virš jos tvy­
+    rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė
+    vyko Argo laivu, taip vadinamu gal dėl jo statytojo, o
+    plaukę kartu jūreiviai buvo vadinami argonautais.
+  citata_rodoma: "Nuo neatmenamų\nlaikų kolchai buvo laikomi neapsakomai turtingais ir iš­\nmanančiais gamtos dalykus. Pirmieji jų atstovai buvo ki­\nlę iš 'kalnų, kuriuos jie atradoi, ypač Uralo. Kol šį kraštą\npažino žmonės, ten buvo brangiųjų metalų grynuolių, kaip\nakmenų, luitų, tai galima numatyti iš dabartinių žinių\napie šiuos kalnus. Indų civilizacija ir kasta žynių, kurie\natsidėjo mokslui ir tarnavo Saulei, garbinamai Koros\nvardu, lėmė, kad pas juos anksčiausiai suklestėjo gamtos\nmokslai, pradėti vartoti augalinės kilmės vaistai. Visa tai\nbyloja, kad Kolchidė iki Trojos karo buvo labiausiai ci­\nvilizuotas ir turtingas kraštas, kokį tik galėjo pažinti\ngraikai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

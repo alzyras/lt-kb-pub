@@ -35,32 +35,6 @@ Bazilijaus ordi­ no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytė
   teiginys: "Algirdo valdymo pradžioje Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią."
   pagrindžia:
     - c-82820
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Algirdo valdymo pradžioje Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    26
-
-    ## Puslapis 43
-
-    I  KNYGA
-    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
-    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
-    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
-    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
-    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
-    gas. Jau Algirdo viešpatavimo pradžioje Šv. Bazilijaus ordi­
-    no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytės,
-    atkviesti, įsikūrė Vilniuje ir turėjo medinę savo bažnyčią17.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

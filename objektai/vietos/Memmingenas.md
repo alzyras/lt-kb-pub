@@ -43,22 +43,6 @@ leisto Lietuvių Bibliografinės Tarnybos Biu­ letenio Knygų Lentyna (pradėta
   teiginys: "Lietuvių Bibliografinės Tarnybos biuletenis „Knygų lentyna“ buvo pradėtas leisti Vokietijos Memmingene."
   pagrindžia:
     - c-33949
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ruža-
-    niec-Ružancovo 1948-1965 m. leisto Lietuvių Bibliografinės Tarnybos Biu­
-    letenio** **_Knygų Lentyna_** **(pradėtas Vokietijos Memmingene, nuo 1949 m.
-    Danville, III., JAV).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

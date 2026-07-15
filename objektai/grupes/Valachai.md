@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Valachai'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -26,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu­ pyje yra turėjęs plačių planų.
+Valachų dalyvavimas Vytauto būriuose leidžia spręsti, kad Vytautas Dniepro žemupyje turėjo plačių planų. Ivanui remiant Valachiją, pasiuntiniai nesėkmingai prašė jo padėti Jonui ir Aleksandrui kare prieš turkus bei paremti Steponą.
 
 ## Teiginiai
 
@@ -36,6 +37,13 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
   teiginys: "Valachų dalyvavimas Vytauto būriuose leidžia spręsti, kad Vytautas Dniepro žemupyje turėjo plačių planų."
   pagrindžia:
     - c-28576
+
+<a id="claim-t-196127"></a>
+- t-002
+  global_id: t-196127
+  teiginys: "Ivanui remiant Valachiją, pasiuntiniai nesėkmingai prašė jo padėti Jonui ir Aleksandrui kare prieš turkus bei paremti Steponą."
+  pagrindžia:
+    - c-178546
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184534|Lenkai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos kare prieš turkus.
 - susijęs iš [[objektai/grupes/Vengrai.md#claim-t-184586|Vengrai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus.
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186048|Jonas Gornostajus]]: Lietuvos raštininkas Jonas Gornostajus karaliaus vardu atsakė į prašymus dėl valachų pasiuntinių ir Severino Norvedo.
@@ -53,25 +61,7 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas.md#claim-t-185530|Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]: Vasilijus išsiuntė žygūną į Možaiską ir įsakė tučtuojau paleisti karaliaus legatus, kurie netrukus grįžo namo.
 - susijęs iš [[objektai/ivykiai/Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.).md#claim-t-185501|Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)]]: Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo.
 - susijęs iš [[objektai/paprociai/Priglausto svečio neišdavimas dėl valdovo garbės ir duoto žodžio.md#claim-t-185923|Priglausto svečio neišdavimas dėl valdovo garbės ir duoto žodžio]]: Valachų valdovas atsisakė išduoti priglaustą Mykolą, nes jo orumas ir duotas žodis neleido perduoti svečio lenkams.
-- susijęs iš Parčevas: Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl amžinos taikos.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184859|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš tų dviejų žygių trūksta smulkesnių versmių. Yra tikra tačiau,
-    kad Vytautas tvirčiau siekė atsistoti prie Juodosios jūros. Dalyva­
-    vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu­
-    pyje yra turėjęs plačių planų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-28576
@@ -89,6 +79,31 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28672
+
+- id: c-178546
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Ka­
+    dangi Ivanas rėmė Valachiją, pasiuntiniai, kad ir labai
+    stengėsi, nieko nepešė. Pasiuntiniai prašė, kad su tokiu
+    pat įkarščiu, su kuriuo neseniai atkalbinėjo Aleksandrą
+    nekariauti prieš Steponą, dabar padėtų karaliui Jonui
+    bei didžiajam kunigaikščiui Aleksandrui, pasiryžusiems
+    pradėti karą prieš turkus ir paremti Steponą, ypač dėl
+    to, kad to reikalauja ne tik pavienių asmenų susitarimai,
+    bet ir viso krikščionių pasaulio bendras reikalas. Iva­
+    nas, patvirtinęs, kad nieku būdu nepatiksiąs bėdoje Ste­
+    pono, pridūrė, kad neturįs kol kas jokių žinių apie Ste­
+    ponui gresiantį pavojų ir todėl ketinąs ateiti į pagalbą
+    tik tada, kai šis pats jos paprašysiąs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196127
 
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/grupes/Lenkai]]

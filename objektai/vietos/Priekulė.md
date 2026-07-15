@@ -43,25 +43,6 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
     - c-45283
 - susijęs iš Mažeikiai: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
 - susijęs iš Kretinga: Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    @ 1. Budrio traukinys per Mažeikius, per Latvijos
-    teritoriją (Priekulę) atvyksta į Kretingą.
-
-    @ Geležinkelio linija tarp Klaipėdos ir Šiaulių
-    (Kretinga-Kužiai) buvo baigta tiesti tik 1936 m.,
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45283

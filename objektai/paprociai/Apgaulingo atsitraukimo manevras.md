@@ -87,51 +87,6 @@ Nenurodyta
   teiginys: "Karolis Chodkevičius įsakė Lietuvos kariuomenei imituoti atsitraukimą visu frontu."
   pagrindžia:
     - c-12367
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pagaliau Karolis Chodkevičius davė
-    komandą visam frontui pradėti imituoti
-    atsitraukimą. Atsukę priešui nugaras, lietu-
-    viai pradėjo trauktis. Švedijos kariuomenės
-    vadovybė iškart sureagavo į šį manevrą ir
-    buvo duotas įsakymas pulti „besitraukian-
-    čius“ lietuvius (šis manevras labai pri-
-    mena 1270 m. Karusės, 1279 m. Aizkraulės,
-    1410 m. Žalgirio, 1514 m. Oršos mūšius ir
-    daug kitų).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Oršos mūšius ir
-    daug kitų). Lietuvių karvedžiai nuo seno
-    mėgo apgaulingo atsitraukimo manevrą,
-    kurį su laiku vis įdomiau įgyvendindavo ir
-    provokuodami suardyti priešo rikiuotę pri-
-    versdavo jį pralaimėti.
-
-    Pirmoji puolimą pradėjo švedų kai-
-    riojo, o netrukus ir dešiniojo sparno
-    kavalerija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -155,8 +110,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71790
     - t-71789
+    - t-71790
 
 - id: c-43151
   sudarytojas: "Karolis Zikaras"
@@ -179,5 +134,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71788
     - t-71787
+    - t-71788

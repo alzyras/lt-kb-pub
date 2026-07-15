@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už pagalbą kryžiuočiams užkariaujant sambius. Narbutas pabrėžė, kad Vitlandija minima atskirai greta Sambijos ir kad toks skirtumas aptinkamas jau 1224 metų Honorijaus III bulėje.
+Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už pagalbą kryžiuočiams užkariaujant sambius. Narbutas pabrėžė, kad Vitlandija minima atskirai greta Sambijos ir kad toks skirtumas aptinkamas jau 1224 metų Honorijaus III bulėje. Ten pažymėta krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi nimą už suteiktą kryžiuočiams pagalbą užkariaujant sambius, o būtent Sambiją, Vitlandiją ir dalį Varmijos.
 
 ## Teiginiai
 
@@ -49,6 +49,13 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
   teiginys: "Narbutas pabrėžė, kad Vitlandija minima atskirai greta Sambijos ir kad toks skirtumas aptinkamas jau 1224 metų Honorijaus III bulėje."
   pagrindžia:
     - c-175603
+
+<a id="claim-t-197941"></a>
+- t-003
+  global_id: t-197941
+  teiginys: "Ten pažymėta krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi nimą už suteiktą kryžiuočiams pagalbą užkariaujant sambius, o būtent Sambiją, Vitlandiją ir dalį Varmijos."
+  pagrindžia:
+    - c-175602
 - susijęs iš [[objektai/asmenys/Alberichas.md#claim-t-191934|Alberichas]]: Alberichas 1228 metų kronikoje tarp pagonių provincijų minėjo Prūsiją, Kuršą, Letoniją, Vitlandiją ir Sembą.
 - susijęs iš [[objektai/asmenys/Vredė.md#claim-t-191334|Vredė]]: Vredė buvo Karaliaučiuje miręs profesorius, kurio pastabas Narbutas pridėjo prie žinių apie Vitlandijos žemės egzistavimą.
 - susijęs iš [[objektai/autoriai/Alberichas.md#claim-t-191666|Alberichas]]: Alberichas 1228 m. kronikoje, Narbuto perteikimu, tarp įgytinų pagonių provincijų minėjo Prūsiją, Kuršą, Lietuvą, Vitlandiją ir Sembą.
@@ -69,71 +76,32 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
 - susijęs iš Sambija: Narbutas pabrėžė, kad 1224 m. popiežiaus Honorijaus III bulėje Vitlandija minima atskirai greta Sambijos.
 - susijęs iš [[objektai/zodynas/Warikt.md#claim-t-192206|Warikt]]: Teodoro Narbuto aiškinimu, varinų pavadinimas kilo iš Warikt, siejamo su piemeniu, varymu, gyvulių gynimu ir ganymu.
 - susijęs iš [[objektai/zodynas/Warikt.md#claim-t-192207|Warikt]]: Teodoro Narbuto aiškinimu, Warikt lietuvių kalboje reiškė varyti, ginti gyvulius ir ganyti.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už pagalbą kryžiuočiams užkariaujant sambius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ligi šiol žinoma seniausia sutartis, primenanti dingu­
-    sios Sambijos dalies egzistavimą senovėje; ji esanti 1246
-    metų Kocebaus darbe (t. 1. P. 418—420). Ten pažymėta
-    krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi­
-    nimą už suteiktą kryžiuočiams pagalbą užkariaujant sam-
-    bius, o būtent Sambiją, Vitlandiją ir dalį Varmijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas pabrėžė, kad Vitlandija minima atskirai greta Sambijos ir kad toks skirtumas aptinkamas jau 1224 metų Honorijaus III bulėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Visų pirma čia Vitlandija minima atski­
-    rai greta Sambijos. Sis skirtumas yra esminis dalykas;
-    mes jį aptinkame jau 1224 metais popiežiaus Honorijaus
-    III bulėje, kur greta Samlandia ypač pabrėžta Witlandia
-    (Gruber. Orig. Livon. P. 265), ten vietoj (Wirlandia rei­
-    kia skaityti Witlandia-, tai jau teigė Tunmanas (Unter­
-    suchungen ettr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-175602
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 346"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ligi šiol žinoma seniausia sutartis, primenanti dingu­
     sios Sambijos dalies egzistavimą senovėje; ji esanti 1246
     metų Kocebaus darbe (t. 1. P. 418—420). Ten pažymėta
     krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi­
     nimą už suteiktą kryžiuočiams pagalbą užkariaujant sam-
-    bius, o būtent Sambiją, Vitlandiją ir dalį Varmijos.
+    bius, o būtent Sambiją, Vitlandiją ir dalį Varmijos. Šioje
+    sutartyje yra viena detalė, atskleidžianti visą esmę.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192832
+    - t-197941
 
 - id: c-175603
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 346"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Visų pirma čia Vitlandija minima atski­
     rai greta Sambijos. Sis skirtumas yra esminis dalykas;

@@ -37,26 +37,6 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
   teiginys: "Enejas Silvijus Picolomini pasakojo, kad Vytauto valdiniai, bijodami jį supykinti, net patys ėjo kartis."
   pagrindžia:
     - c-38009
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ir teisingai pastebi K. Heinl: „Nei vienam jo pirmtakūnų tą pa­
-    daryti nebuvo taip sunku, bet nei vienas jų taip puikiai nepasie­
-    kė savo tikslo kaip jis“^2 ). Krašto viduje jis tapo absoliutišku
-    valdovu, kurio supykinti bijodami valdiniai net patys ėjo kartis,
-    kaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka
-    taip pat buvo didžiausia. Prieš jį drebėjo visi Europos rytai,
-    Maskvos kunigaikštis titulavo jį savo globėju ir protektoriumi,
-    o vakarai su pagarba jį vadino čekų viešpačiu ir karaliumi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

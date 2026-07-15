@@ -131,29 +131,9 @@ Nenurodyta
 - susijęs iš Svečių namai Vilniuje: Nauji Vilniaus svečių namai buvo pastatyti miesto lėšomis toje vietoje, kurioje jie stovėjo šaltinio rašymo metu.
 - susijęs iš Vilija: Vilniaus pirklių laivams, vadintiems vytinėmis, buvo leista laisvai plaukioti Vilijos upe.
 - susijęs iš Vilija: Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
-- susijęs iš Vilnius: 1492 m. karalius Aleksandras patvirtino ankstesnes Vilniaus dovanas ir suteikė naujų privilegijų prekybai bei miestiečių buičiai gerinti.
-- susijęs iš Vilnius: Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš [[objektai/zodynas/Zabójnica.md#claim-t-86630|Zabójnica]]: 1492 m. Aleksandras suteikė Vilniui teisę laikyti vaško dirbtuvę, vadintą Zabójnica, ir panaikino daugumą privačių dirbtuvių.
 - susijęs iš [[objektai/zodynas/pūdas talentas.md#claim-t-86614|pūdas talentas]]: 1390 m. Vilniaus pilies dvaras kapitulai turėjo mokėti dvylika vaško talentų, vadinamų pūdais.
 - susijęs iš [[objektai/zodynas/šinkorystė propinacija.md#claim-t-86561|šinkorystė propinacija]]: Žygimantas garantavo Vilniui pajamas iš šinkorystės, apėmusios vyno, midaus ir alaus smukles.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^296) II skyrius: valstybės iškilimas
-    gaikščių gyvenime _ūkinis_ medžioklės pobūdis ilgai dar buvo stiprus.
-    Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.
-    Tuo tarpu grudų eksportas iki pat XVI amž. beveik visai nežino­
-    mas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33236

@@ -9,12 +9,12 @@ datos:
   - '1984 m.'
 date_start: '1982'
 date_end: '1984'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,8 @@ Dusburgietis teigia, kad 16— Žulkus V.
   teiginys: "V. Žulkaus „Birutės kalno ir gyvenvietės tyrinėjimai“ paskelbta leidinyje „Archeologiniai tyrinėjimai Lietuvoje 1982 ir 1983 metais“."
   pagrindžia:
     - c-62034
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Žulkaus „Birutės kalno ir gyvenvietės tyrinėjimai“ paskelbta leidinyje „Archeologiniai tyrinėjimai Lietuvoje 1982 ir 1983 metais“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -64,12 +64,12 @@ Dusburgietis teigia, kad 16— Žulkus V.
 - id: c-62034
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 274"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    16—
-      Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje
-    1982 ir 1983 metais. V., 1984, p. 43—46.
+    3—23.
+    Ткачоў М. А. Замкi Беларусi (XIII—XVII ст.). — Мiнск, 1977.
+    Ткачоў М. А. Абарочнычя забудаваннi заходнix зямель Беларуci XIII—XVIII ст. ст.
+  citata_rodoma: "16—\n  Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje\n1982 ir 1983 metais. V., 1984, p. 43—46."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

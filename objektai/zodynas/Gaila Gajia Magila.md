@@ -35,39 +35,13 @@ Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri kla
   teiginys: "Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri klausė kažkokios moteriškos šmėklos, kankinančios žmones ir gyvulius ."
   pagrindžia:
     - c-177179
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri klausė kažkokios moteriškos šmėklos, kankinančios žmones ir gyvulius .'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Gaila (Gajia)
-    Anot liaudies padavimų, prie piktųjų būtybių giminės pri­
-    klausė kažkokios moteriškos šmėklos, kankinančios žmones
-    ir gyvulius .
-    F. Noelis straipsnyje „Gajlau“ sako: „Arabai šitaip vadino
-    tam tikros rūšies miškų demonus, kurie žudydavo žmones ir
-    gyvulius“.
-    Atrodo, panašios rūšies dievybei Ksaveras Bogušas davė
-    Magilos (Magilla) vardą; jis reiškiąs pykčio deivę .
-    22 Ibid.
-    23 Sirvydo žodyne (p. 77) randame: Jędza -  lietuviškai Gajia, lo­
-    tyniškai Lamia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177179
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 148."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Gaila (Gajia)
     Anot liaudies padavimų, prie piktųjų būtybių giminės pri­
@@ -79,7 +53,7 @@ Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri kla
     Atrodo, panašios rūšies dievybei Ksaveras Bogušas davė
     Magilos (Magilla) vardą; jis reiškiąs pykčio deivę .
     22 Ibid.
-    23 Sirvydo žodyne (p. 77) randame: Jędza -  lietuviškai Gajia, lo­
+    23 Sirvydo žodyne (p. 77) randame: Jędza - lietuviškai Gajia, lo­
     tyniškai Lamia.
   statusas: verified
   teiginio_tipas: faktas

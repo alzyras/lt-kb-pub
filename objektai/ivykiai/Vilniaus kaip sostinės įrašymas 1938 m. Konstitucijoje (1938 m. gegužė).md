@@ -57,26 +57,6 @@ Nenurodyta
   teiginys: "1938 m. gegužę priimtoje naujoje konstitucijoje Lietuva vėl įrašė, kad Vilnius yra jos sostinė."
   pagrindžia:
     - c-23257
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko
-    liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun-
-    tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių
-    turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
-    Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
-    Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
-    traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
-    Vilnius yra Lietuvos sostinė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

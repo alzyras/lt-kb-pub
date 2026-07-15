@@ -49,26 +49,6 @@ Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias L
   teiginys: "„Vyriausias Lietuvos Tribunolas XVI-XVIII amž.“ buvo paminėtas tarp gausių autoriaus raštų ir datuotas 1927 m."
   pagrindžia:
     - c-33743
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Visą laiką, būdamas katedros vedėju, Lietuvos teisės
-    istoriją dėstė nepriklausomoje Lietuvoje Teisių fakultete, kurio
-    dekanu jis buvo nuo 1935 m. Poliublininius Lietuvos istorijos
-    kursus (XVII-XVIII amž.) skaitė Janulaitis ir Humanitarinių
-    mokslų fakultete.
-    Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923),
-    «Vyriausias Lietuvos Tribunolas XVI-XVIII amž. » (1927), «Užne­
-    munė po Prūsais 1795-1807 » (1928), «Napoleono teisynas» (1930).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

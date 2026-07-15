@@ -43,36 +43,12 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
     - c-59549
 - susijęs iš [[objektai/paprociai/Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas.md#claim-t-195374|Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas]]: Valančius liepė mišparus laikyti tuoj po pamaldų, kad žmonės važiuotų namo pietauti.
 - susijęs iš [[objektai/daiktai/Maišelis.md#claim-t-195335|Maišelis]]: Maišelis veikia kaip laikina talpa ir paklotas pietums šventoriuje.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1330 m. lapkričio 18 d. Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis po mišparų ėjo iš bažnyčios.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    20. Apie didžiojo magistro mirtį
-
-      Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
-    18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
-    paties nedorybių, nužudė brolį Vernerį, didįjį magistrą, kai tas, atgiedojęs mišparus, ėjo
-    iš bažnyčios, o nužudė todėl, kad tas jį bardavo už jo nusižengimus. O Jonai brolžudy,
-
-    Pastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—
-    Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 257"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     20. Apie didžiojo magistro mirtį
 

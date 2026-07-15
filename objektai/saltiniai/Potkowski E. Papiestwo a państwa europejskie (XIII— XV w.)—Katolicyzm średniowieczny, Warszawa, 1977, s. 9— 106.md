@@ -7,12 +7,12 @@ datos:
   - '1977 m.'
 date_start: '1977'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad potkowski E.
   teiginys: "E. Potkowskio tekstas „Papiestwo a państwa europejskie (XIII—XV w.)“ paskelbtas 1977 m. Varšuvoje leidinyje „Katolicyzm średniowieczny“."
   pagrindžia:
     - c-61868
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'E. Potkowskio tekstas „Papiestwo a państwa europejskie (XIII—XV w.)“ paskelbtas 1977 m. Varšuvoje leidinyje „Katolicyzm średniowieczny“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,12 @@ Dusburgietis teigia, kad potkowski E.
 - id: c-61868
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Potkowski  E.  Papiestwo  a  państwa  europejskie  (XIII—  XV  w.)—Katolicyzm
-    średniowieczny, Warszawa, 1977, s. 9— 106.
+    Toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858.
+    Toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M. Bisköpa.— Warszawa—Poznań—
+    Toruń, 1983.
+  citata_rodoma: "Potkowski  E.  Papiestwo  a  państwa  europejskie  (XIII—  XV  w.)—Katolicyzm\nśredniowieczny, Warszawa, 1977, s. 9— 106."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -44,33 +44,6 @@ Benjaminas iš Tudelio, žydų kilmės ke liauninkas, tvirtina, kad 1160 metais 
   teiginys: "Benjaminas iš Tudelio, žydų kilmės ke liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd)."
   pagrindžia:
     - c-176900
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Benjaminas iš Tudelio, žydų kilmės ke liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd).'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    7
-
-    ## Puslapis 24
-
-    ĮVADAS
-    Lenkijos miestų, jau XII amžiuje dėl savo prekybinių ryšių bu­
-    vo žinoma net Rytuose. Benjaminas iš Tudelio, žydų kilmės ke­
-    liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne
-    tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau
-    nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
-    tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­
-    linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­
-    čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
-    dajam.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

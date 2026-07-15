@@ -76,7 +76,6 @@ media_all_json: |-
 - susijęs iš Dusburgo kronika: Dusburgo kronika prie 1317 m. mini Castrum Gedemini, kurio Ragainės komtūras Fridrichas de Libencelė neįstengė užimti.
 - susijęs iš Dusburgo kronika: Dusburgo kronika prie 1317 m. mini, kad Ragainės komtūras Fridrichas de Libencelė apgulė Gedimino pilį, bet jos neužėmė.
 - susijęs iš Ragainė: 1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.
-- susijęs iš Vilnius: Tą pačią vasarą į Vilnių pas Aleksandrą atvyko jo motina Elžbieta, brolis Fridrichas ir seserys Barbora bei Elžbieta, o metraštis pabrėžia džiaugsmingą jų priėmimą.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.
 - susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176384|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui.
@@ -96,7 +95,6 @@ media_all_json: |-
 - susijęs iš [[objektai/posakiai/abu drauge turėjome keliauti ten, kur amžinos linksmybės.md#claim-t-184022|abu drauge turėjome keliauti ten, kur amžinos linksmybės]]: Sužinojęs apie brolio Fridricho mirtį, brolis Heinemanas sakė, kad abu turėjo kartu keliauti ten, kur amžinos linksmybės.
 - susijęs iš [[objektai/posakiai/abu drauge turėjome keliauti ten, kur amžinos linksmybės.md#claim-t-59071|abu drauge turėjome keliauti ten, kur amžinos linksmybės]]: Sužinojęs apie brolio Fridricho mirtį, brolis Heinemanas sakė, kad abu turėjo kartu keliauti ten, kur amžinos linksmybės.
 - susijęs iš Vokiečių ordino statutų prologas: Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai Akono apgulos metu vyrai iš Bremeno ir Liubeko įrengė ligoninę.
-- susijęs iš Baltarusija: Kazimieras žiemos viduryje aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.
 - susijęs iš Bisenė: 1316 m. Fridrichas iš Libencelės prie Bisenės pilies išžudė lietuvių sargybos pamainą, išskyrus penkis pabėgusius vyrus.
 - susijęs iš Dorpato vyskupija: Lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš Elbingas: Elbingo broliai, stokodami išteklių ir laukdami laivų, siuntė atgal laivus bei žygūnus sužinoti padėties Kulmo žemėje.
@@ -105,73 +103,14 @@ media_all_json: |-
 - susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš Pelplinas: 1324 m. Mevėje parengiant Mažesniųjų brolių laiško nuorašą dalyvavo Pelplino abatas Jordanas.
-- susijęs iš Polockas: Kazimieras žiemos viduryje lankėsi Baltarusijoje ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.
-- susijęs iš Smolenskas: Kazimieras žiemos viduryje aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus.
 - susijęs iš Svečė: Sventopelkas su daugybe ginklanešių ir 10 laivų užpuolė Elbingo brolių laivus, jiems plaukiant pro Svečės pilį.
 - susijęs iš Svečė: Sventopelkas su daugybe ginklanešių ir 10 laivų užpuolė Elbingo brolių laivus, jiems plaukiant pro Svečės pilį.
-- susijęs iš Vitebskas: Žiemos viduryje Kazimieras aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus.
 - susijęs iš Žemaitija: Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
 - susijęs iš Žemaitija: Vokiečių kariuomenei stovyklaujant Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-86505|Papilys suburbium]]: 1317 metais Ragainės komtūras Fridrichas de Libencelė su 150 žmonių neįstengė užimti Gedimino pilies, bet sudegino jos papilį.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70227|maldininkai / maldininko įžadai]]: Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58828|maldininkai]]: Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58803|pilėnas pilėnai]]: 1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kardinolas Fridrichas su karaliene Elžbieta ir jos vaikais iškart po Velykų atvyko į Vilnių ir sukėlė džiaugsmą pilyje bei mieste.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    _  .
-    230
-
-    ## Puslapis 247
-
-    III KNYGA
-    pavasario, kai Aleksandro motina karalienė Elžbieta su duk­
-    terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­
-    vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.
-    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
-    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
-    buvo nutraukta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Fridrichas, rugijų karaliaus Feletėjo sūnus, buvo išvytas po rugijų pralaimėjimo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Žygiuodamas toliau su kariuomene,
-    jis užėmė Romą ir, nukėlęs
-    475 m e ta i
-    nuo sosto Vakarų Romos im­
-    peratorių, viešpatavo kaip pir­
-    mas iš svetimšalių Romoje, tačiau nesisavino nei val­
-    dovo vardo, nei purpurinės mantijos. Dvyliktaisiais
-    viešpatavimo metais, laimėjęs keletą mūšių, sumušė
-    rugijus, paėmė į nelaisvę karalių Feletėją, o jo sūnų
-    Fridrichą išvijo. Nugalėtasis rugijų valdovas maldavo
-    gotą Teodoriką pagalbos, tuo tarpu herulas, porą kar­
-    tų gotų sumuštas, stengėsi
-    487 m e ta i
-    atkurti savo kariauną, telk­
-    damas vyrus iš to Germani-
-    jos krašto, kuris jam mokėjo duoklę; vėliau, keletą
-    kartų su jais nelauktai susidūręs, nebesitikėjo sėkmės
-    atviroje kovoje ir pasitraukė į Raveną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-83652
@@ -202,8 +141,7 @@ media_all_json: |-
 - id: c-168059
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 53."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Žygiuodamas toliau su kariuomene,
     jis užėmė Romą ir, nukėlęs

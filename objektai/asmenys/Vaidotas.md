@@ -49,25 +49,6 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 - susijęs iš [[objektai/asmenys/Vaidotas (Butauto sūnus).md#claim-t-182705|Vaidotas (Butauto sūnus)]]: Vaidotas 1381 m., būdamas apie šešiolikos metų, pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
 - susijęs iš [[objektai/asmenys/Vaidotas (Butauto sūnus).md#claim-t-182707|Vaidotas (Butauto sūnus)]]: Vaidotas buvo Butauto sūnus.
 - susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    O bėglio sūnaus Butauto pėdo­
-    mis 1381 m. pasekė ir jo sūnus Vaidotas. Iš ordino žemių patekęs
-    į Vakarus, po studijų Pragos universitete, nuo 1401 šis Kęstučio
-    anūkas tapo antruoju Krokuvos universiteto rektoriumi (Fijałek).
-    Su paskutinio pagonio kunigaikščio Kęstučio iškilmingu sude­
-    ginimu Lietuvos istorijoje turėjo prasidėti naujas laikotarpis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-65020

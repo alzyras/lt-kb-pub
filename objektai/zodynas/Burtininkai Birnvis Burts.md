@@ -35,8 +35,8 @@ Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijo
   teiginys: "Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijos įvykius ir lygintus su trubadūrais, skaldais ar bardais."
   pagrindžia:
     - c-172243
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijos įvykius ir lygintus su trubadūrais, skaldais ar bardais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -62,17 +62,21 @@ Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijo
 - id: c-172243
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 102."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tolesnį šito patvirtinimą rasime žemiau,
-    straipsnyje „Laima“.
-    Visos lietuvių genties tautos turėjo savo dainius, panašius
-    į kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai­
-    nuodavo įvairius tautos istorijos įvykius; lieuviškai juos vadin­
-    davo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat
-    Burts. Kai kuriose savo giesmėse jie šaukdavosi Santvara, kar­
-    iais Lėlio.
+    Kiti dar randa dievą Patrimpą (Potrimp) - val­
+    dantį tik upes, tačiau mokančiam kalbą Potrimpos ir At timpos
+    yra tas pats. Vyskupo Petro rankraštyje aptinkame: „jie garbi­
+    no vandenį, vadindami Atropos, kurį laikė kilniu elementu“.
+    Matyti, kad šio dievo vardas šitaip parašytas per klaidą. Že­
+    maitijos žvejai ir šiandieną savo dainose apdainuoja jūrą dievą,
+    vardu „ Dzivsvits “:r\
+    Tai bus bendras jūrų ir kitų vandenų, kuriais plaukiota,
+    dievas ir laivininkų globėjas. Lietuviai gyveno susisiekiančia­
+    me su jūra krašte, kuriame daug visokių didelių vandenų, to­
+    dėl plaukioti buriniais laivais jiems buvo neišvengiama, taigi
+    jie negalėjo apsieiti be savo Neptūno.
+  citata_rodoma: "Tolesnį šito patvirtinimą rasime žemiau,\nstraipsnyje „Laima“.\nVisos lietuvių genties tautos turėjo savo dainius, panašius\nį kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai­\nnuodavo įvairius tautos istorijos įvykius; lieuviškai juos vadin­\ndavo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat\nBurts. Kai kuriose savo giesmėse jie šaukdavosi Santvara, kar­\niais Lėlio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

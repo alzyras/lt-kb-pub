@@ -35,25 +35,6 @@ Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiu
   teiginys: "Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiuoti ir judėti, derindami šaudymą su judėjimu į priekį."
   pagrindžia:
     - c-176452
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiuoti ir judėti, derindami šaudymą su judėjimu į priekį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kariai užtaisinėja
-    šautuvus po salvės.
-
-    Puolimo metu ilgos linijos artėdavo prie priešo pozicijų. Suėjus į
-    efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiuoti
-    ir judėti, derindami šaudymą su judėjimu į priekį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -7,12 +7,12 @@ datos:
   - '1935 m.'
 date_start: '1935'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad pakarklis P.
   teiginys: "P. Pakarklio „Mažoji Lietuva vokiečių mokslo šviesoje“ išleistas 1935 m."
   pagrindžia:
     - c-61845
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. Pakarklio „Mažoji Lietuva vokiečių mokslo šviesoje“ išleistas 1935 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,11 @@ Dusburgietis teigia, kad pakarklis P.
 - id: c-61845
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje.— K., 1935.
-       Pakarklis P. Lietuvių kova prieš kalavijuočius — Panevėžys, 1945.
+    Stepinš P. Durbės kauja.— Rīga, 1967.
+    Steponavičienė J. Dėl lietuviškų vietovardžių prūsinimo kryžiuočių ordino raštuose.—
+    Baltistica, 1974, 10 (2), p. 163— 168.
   citata_rodoma: "Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje.— K., 1935."
   statusas: verified
   teiginio_tipas: faktas

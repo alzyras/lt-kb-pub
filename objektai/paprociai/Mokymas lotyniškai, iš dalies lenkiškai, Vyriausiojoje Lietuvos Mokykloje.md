@@ -62,42 +62,6 @@ Nenurodyta
   teiginys: "Vyriausiojoje Lietuvos Mokykloje dauguma dalykų tebebuvo dėstoma lotyniškai, o kai kurie dalykai - lenkiškai."
   pagrindžia:
     - c-67184
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Va-
-    dinamoje moralinių mokslų kolegijoje buvo mokoma
-    filosofijos, teologijos ir teisės mokslų. Fizinėje kolegijoje
-    buvo mokoma gamtos mokslų, matematikos ir medicinos. Tuo būdu
-    V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vyriausiojoje Lietuvos Mokykloje dauguma dalykų tebebuvo dėstoma lotyniškai, o kai kurie dalykai - lenkiškai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Fizinėje kolegijoje
-    buvo mokoma gamtos mokslų, matematikos ir medicinos. Tuo būdu
-    V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
-    Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie daly-
-    kai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m.,
-    t. y. jau universiteto laikais).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

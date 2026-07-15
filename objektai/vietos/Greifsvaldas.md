@@ -42,26 +42,6 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   pagrindžia:
     - c-157742
 - susijęs iš Rostokas: Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų Liubekui, Rostokui, Stralsundui, Greifsvaldui ir Ščecinui.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vienas tų
-    laiškų (1323.1.24), skirtas «visai krikščionijai», buvo išsiuntinėtas
-    penkiems Vokietijos miestams ir Romai (Avignonui). O trys laiškai
-    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­
-    konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
-    Greifswaldni, Stettinui ir Gotlando salai). Du, o gal ir trys laiškai
-    buvo parašyti popiežiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-157742

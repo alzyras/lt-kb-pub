@@ -59,36 +59,6 @@ Eidintas A. Eidintas A., Senn A.
   teiginys: "A. Eidintas kartu su A. E. Sennu ir V. Žaliu parengė leidinį „Lithuania in European politics“."
   pagrindžia:
     - c-166733
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1 t., Vil-
-    nius, 1999.
-    Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'A. Eidintas kartu su A. E. Sennu ir V. Žaliu parengė leidinį „Lithuania in European politics“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
-    politics. The Years of the First Republic, 1918–1940. New York, 1997.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
 
 ## Citatos
 
@@ -120,5 +90,5 @@ Eidintas A. Eidintas A., Senn A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183342
     - t-19392
+    - t-183342

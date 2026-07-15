@@ -54,25 +54,6 @@ media_all_json: |-
 - susijęs iš Uppeleela: Teodoras Narbutas spėjo, kad Uppeleela buvo miestas prie nežinomos upės, galbūt įtekančios į Engūrės ežerą, krantų ar žiočių.
 - susijęs iš Šušvė: Lietuva Žemaičiuose apėmė į vakarus nuo Nevėžio buvusį Šušvės baseiną.
 - susijęs iš [[objektai/zodynas/Medė.md#claim-t-70027|medė]]: Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Beveik trečdalį savo
-    kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­
-    tinės Livonijos kronikos autorius Žemaičius tapatino su lietuviais
-    (« den Lettowen, die Sameiten sin genannt », eil. 4466).
-    Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
-    Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-34076

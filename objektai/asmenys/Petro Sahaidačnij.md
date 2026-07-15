@@ -35,25 +35,6 @@ etmono Petro Sahaidačnij vadovaujamų Ukrainos kazokų.
   teiginys: "Petro Sahaidačnij vadovavo apie 25 tūkst. Ukrainos kazokų, prisijungusių prie J. K. Chodkevičiaus pajėgų."
   pagrindžia:
     - c-44489
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    viso 8650 karių. Šią kariuomenę Lietuvos
-    didysis etmonas padalino į trylika pulkų.
-    Vėliau prie J. K. Chodkevičiaus pajėgų
-    prisijungė dar apie 25 tūkst. etmono
-
-    Petro Sahaidačnij vadovaujamų Ukrainos
-    kazokų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,26 +35,6 @@ Kaip lenkų daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, ta
   teiginys: "Lietuvos kariuomenė padėjo atgauti Raudonąją Rusią, į kurią vėliau iš Lietuvos nuvyko Jogaila."
   pagrindžia:
     - c-34021
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tuo metu,
-    kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai
-    įvažiavo į Lvovą ir suteikė tam miestui privilegiją. Kaip lenkų
-    daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip
-    Lietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš
-    Lietuvos vėliau nuvyko ir pats Jogaila.
-    Apie pačią Lietuvos krikštijimo eigą ordino kronikos tyli, nes
-    visa tai, kas dėjosi Vilniuje, buvo skersai kelio kryžiuočių planams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

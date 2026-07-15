@@ -55,21 +55,9 @@ Nenurodyta
   teiginys: "Kūrėjų kūrėjas gyveno ypatingai, prasišalinęs nuo svieto šventoje girioj, kad rodytų savo ryšį su dievu."
   pagrindžia:
     - c-10058
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tas kūrėjų kūrėjas svetimų
-        siuntinių^968 , nuo tolimų tolimesnių kraštų atėjusių jo teirautis, neprileido prie savęs, bet per savo tarnus,
-        arba kunigus, davė jiems atsaką, kurio siuntiniai turėjo laukti girioj po lapine, tam reikalui padirbta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

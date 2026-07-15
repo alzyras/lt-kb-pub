@@ -58,25 +58,6 @@ Nenurodyta
   teiginys: "Salza pasiuntė į Livoniją du įgaliotinius ištirti kalavijuočių gyvenimą ir parengti jų priėmimo planą."
   pagrindžia:
     - c-93970
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Salza pasiuntė į Livoniją du įgaliotinius ištirti kalavijuočių gyvenimą ir parengti jų priėmimo planą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Salza tepasiuntė Livonijon du savo įgaliotinius, kad ištirtų kalavi­
-    juočių gyvenimą ir paruoštų planą jiems priimti. Sužinojusi apie
-    kalavijuočių tarpe esantį nedrausmingą ir nusikaltėlių elementą,
-    kryžiuočių kapitula atidėjo jų priėmimą į Marijos riterius. Tačiau
-    netikėti įvykiai — didelis kalavijuočių pralaimėjimas Lietuvoje,
-    pagreitino jų įjungimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

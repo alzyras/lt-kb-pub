@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę.
+Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę. Kojelavičius rašo, kad Vladimiras, atsiteisdamas už tėvo nesėkmę, prie rusų valstybės prijungė kaimynų žemes, tarp jų kai kas minėjo ir rusų Lietuvą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,54 +47,13 @@ Nenurodyta
   teiginys: "Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę."
   pagrindžia:
     - c-169070
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ši tauta,
-    lietuvių kaimynė ir sąjungininkė, po daugybės per­
-    galingų karų su rusais pagaliau buvo įveikta Vladi­
-    miro, laimingiausiojo iš Kijevo kunigaikščių: ji tapo
-    pavergta, prarado laisvę ir kasmet turėjo mokėti nu-
-    puolė pečenegus ir prarado karius, sostą ir gyvybę.
-    Pečenegų kunigaikštis lietuvis Kuris, sakoma, liepęs iš
-    užmuštojo kaukolės padaryti taurę ir ten išskaptuoti
-    įrašą: „Svetimo beieškodamas, savo prarado". Tačiau
-    tuo metu rusai nieku būdu dar negalėjo turėti raš-
-    970 m eta i
-    J o tv in g ių  p ra la im ė ji­
-    m as
-    statytą duoklę. Vladimiro tė­
-    vas Sviatoslavas, per žygį į
-    Trakiją
-    smarkiai
-    sumušęs
-    graikus, grįždamas su ta pa­
-    čia pergalinga kariuomene,
-    62
-    I
-
-    ## Puslapis 61
-
-    P e č e n e g a i su m u ša ru
-    su s
-    P a lem o n o  sū n ū s L ie­
-    tu v o s  v a ld o v a i: Bar-
-    ku s,
-    S p era ,
-    K ū nasi-
-    ju s, arb a  K ū n as
-    to, o juo labiau — pečene­
-    gai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196171"></a>
+- t-002
+  global_id: t-196171
+  teiginys: "Kojelavičius rašo, kad Vladimiras, atsiteisdamas už tėvo nesėkmę, prie rusų valstybės prijungė kaimynų žemes, tarp jų kai kas minėjo ir rusų Lietuvą."
   pagrindžia:
-    - t-001
+    - c-169070
 
 ## Citatos
 
@@ -103,44 +62,35 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ši tauta,
-    lietuvių kaimynė ir sąjungininkė, po daugybės per­
-    galingų karų su rusais pagaliau buvo įveikta Vladi­
-    miro, laimingiausiojo iš Kijevo kunigaikščių: ji tapo
-    pavergta, prarado laisvę ir kasmet turėjo mokėti nu-
-    puolė pečenegus ir prarado karius, sostą ir gyvybę.
-    Pečenegų kunigaikštis lietuvis Kuris, sakoma, liepęs iš
-    užmuštojo kaukolės padaryti taurę ir ten išskaptuoti
-    įrašą: „Svetimo beieškodamas, savo prarado". Tačiau
-    tuo metu rusai nieku būdu dar negalėjo turėti raš-
-    970 m eta i
-    J o tv in g ių  p ra la im ė ji­
-    m as
-    statytą duoklę. Vladimiro tė­
-    vas Sviatoslavas, per žygį į
-    Trakiją
-    smarkiai
-    sumušęs
-    graikus, grįždamas su ta pa­
-    čia pergalinga kariuomene,
-    62
-    I
-
-    ## Puslapis 61
-
-    P e č e n e g a i su m u ša ru
-    su s
-    P a lem o n o  sū n ū s L ie­
-    tu v o s  v a ld o v a i: Bar-
-    ku s,
-    S p era ,
-    K ū nasi-
-    ju s, arb a  K ū n as
-    to, o juo labiau — pečene­
-    gai.
+    Už
+    tėvo
+    nesėk­
+    mę atsiteisė Vladimiras, prijungęs prie rusų vals­
+    tybės kaimynų žemes, tarp
+    L ie tu v a
+    n u k a ria u ta
+    kurių kas ne kas mini ir
+    ru sų
+    Lietuvą.
+    Valdęs
+    valstybę
+    ilgus metus, Palemonas pa­
+    sitraukė iš šio pasaulio, palikdamas tris sūnus, tinka­
+    mus valdyti. Tėvui mirus, sū­
+    nūs šitaip pasiskirstė žemes:
+    Barkus, į Nemuną įtekančios
+    Jūros žiotyse pasistatęs Jur­
+    barko pilį, gavo valdyti tą
+    Žemaitijos dalį (mat Žemai­
+    tija jau buvo prisijungusi prie Lietuvos), kuri plyti
+    nuo Jūros ir Nemuno ligi Kuršių įlankos. Kūno, arba
+    Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
+    sa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu)
+    Nerimi.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185709
+    - t-196171

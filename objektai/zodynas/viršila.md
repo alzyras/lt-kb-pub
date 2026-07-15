@@ -50,27 +50,6 @@ media_all_json: |-
 - susijęs iš Nedzingė: Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lietuvių pozicijų prijojo lenkų parlamentaras.
 - susijęs iš Nedzingė: Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lietuvių pozicijų prijojo lenkų parlamentaras.
 - susijęs iš Vidugiriai: 6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko su to paties pulko I batalionu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1 batalionas irgi
-    buvo nuvestas pailsėti pievoj.“ |
-
-    | 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisi-
-    mena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir
-    vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyva-
-    vusį to paties pulko I batalioną Vidugirių kaime.
-    „Vidugirių kaimą pasiekėme po pietų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45555

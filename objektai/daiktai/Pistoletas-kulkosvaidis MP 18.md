@@ -55,25 +55,6 @@ Nenurodyta
   teiginys: "MP 18 pasirodė Pirmojo pasaulinio karo pabaigoje ir buvo pirmasis masiškai gamintas vokiečių pistoletas-kulkosvaidis."
   pagrindžia:
     - c-44673
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pistoletas-kulkosvaidis MP 40 (Maschinenpistole),
-    Antrojo pasaulinio karo vokiečių kariuomenės
-    žemesniosios grandies vadų ginklas. MP 40 dažnai
-    šnekamojoje kalboje vadinamas „Šmaiseriu“ pagal konstruktoriaus
-    pavardę, kūrusio kitą dar Pirmojo pasaulinio karo pabaigoje pasirodžiusį,
-    pirmąjį vokiečių masiškai gamintą pistoletą kulkosvaidį MP 18. Po vokiečių
-    atsitraukimo iš Lietuvos teritorijos čia liko nemažai šių ginklų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

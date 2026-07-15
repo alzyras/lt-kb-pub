@@ -72,27 +72,6 @@ Nenurodyta
 - susijęs iš [[objektai/autoriai/Liudvikas Adomas Jucevičius.md#claim-t-188441|Liudvikas Adomas Jucevičius]]: Kunigo Jucevičiaus nuomone, Palangos pajūrio lietuviai žvejai Atrimpą vadino „Dzivsvits“.
 - susijęs iš [[objektai/zodynas/Atlimpas Atrimpas Potrimpos.md#claim-t-189145|Atlimpas Atrimpas Potrimpos]]: Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą, kuriame buvo laikomas vandens žaltys.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Atrimpo simbolį aiškina kaip žaltį vandens pilnoje vonioje ir sieja jį su senovės lietuvių jūrų dievo vaizdiniu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    sis lietuviški{ dalykų tyrinėtojas tvirtina ir tai, jog spirališkai susi­
-    vijusio žalčio stabas, apie kurį bus pasakojama kituose straips­
-    niuose, nebuvo Atrimpo, bet Žalčių karaliaus, „kurį dar ir šian­
-    dien kai kuriose srityse lietuviai laiko tikru aukščiausiojo dievo
-    (Ukapirmo) broliu“. Visa tai galima suderinti, padarius prielai­
-    dą, jog Atrimpo simbolis buvo žaltys, tūnantis vandens pilnoje
-    vonioje. Taigi senovės lietuviai šį jūrų dievą vaizdavo kaip di­
-    džiulį žaltį, tai yra žalčių karalių *.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -137,8 +116,7 @@ Nenurodyta
 - id: c-170987
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 104."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     sis lietuviški{ dalykų tyrinėtojas tvirtina ir tai, jog spirališkai susi­
     vijusio žalčio stabas, apie kurį bus pasakojama kituose straips­
@@ -159,17 +137,17 @@ Nenurodyta
 - id: c-170988
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 103"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Bet žinoma, kad antikinėje filosofijoje patys
-    pirmieji organizmai atsirado iš vandens, vanduo laikytas visos
-    gamtos pradžia. Šitoks lietuvių supratimas galėjo apdovanoti
-    amžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­
-    nųjį ir pirmykštį pradą, kad parodytų nepaliaujamą gyvųjų bū­
-    tybių ir augalų atsinaujinimą.
-    Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
-    na, pripildyta vandens, kurioje laikomas vandens žaltys.
+    Prūsų didžiojoje vėliavoje buvo pavaizduotas kitoks Atrim-
+    pas - jaunikaitis su galva, papuošta javų varpų vainiku, stovin­
+    tis Perkūno kairėje. Žiūrėk IV lentelės 41-ąjį piešinį ir vėlia­
+    vos aprašymą straipsnyje „Herbai“.
+    Gardaitis fGardoeldius/***
+    Vėjų, audrų, jūros potvynių dievas, jūrinių arba visokių
+    laivų globėjas, kaip rodo charakteringojo vardo prasmė. Kro­
+    nikininkas jį vadina kitaip: Perdoite, Perdoilus, Gardoaitis, o
+    tai yra tik tarminė vardo atmaina.
   citata_rodoma: "Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­\nna, pripildyta vandens, kurioje laikomas vandens žaltys."
   statusas: verified
   teiginio_tipas: faktas
@@ -181,17 +159,20 @@ Nenurodyta
 - id: c-171268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 103"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šitoks lietuvių supratimas galėjo apdovanoti
-    amžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­
-    nųjį ir pirmykštį pradą, kad parodytų nepaliaujamą gyvųjų bū­
-    tybių ir augalų atsinaujinimą.
-    Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
-    na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
-    go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
-    prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“.
+    Prūsų didžiojoje vėliavoje buvo pavaizduotas kitoks Atrim-
+    pas - jaunikaitis su galva, papuošta javų varpų vainiku, stovin­
+    tis Perkūno kairėje. Žiūrėk IV lentelės 41-ąjį piešinį ir vėlia­
+    vos aprašymą straipsnyje „Herbai“.
+    Gardaitis fGardoeldius/***
+    Vėjų, audrų, jūros potvynių dievas, jūrinių arba visokių
+    laivų globėjas, kaip rodo charakteringojo vardo prasmė. Kro­
+    nikininkas jį vadina kitaip: Perdoite, Perdoilus, Gardoaitis, o
+    tai yra tik tarminė vardo atmaina.
+    Jūros pavojai, ypač tokios audringos kaip Baltija, gali įva­
+    ryt i baimės net drąsiausiems jūreiviams.
+  citata_rodoma: "Šitoks lietuvių supratimas galėjo apdovanoti\namžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­\nnųjį ir pirmykštį pradą, kad parodytų nepaliaujamą gyvųjų bū­\ntybių ir augalų atsinaujinimą.\nAtrimpo ženklas buvo javų pėdu uždengtas indas arba ur­\nna, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­\ngo Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,\nprie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

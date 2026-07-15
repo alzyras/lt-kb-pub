@@ -49,34 +49,13 @@ Nenurodyta
   teiginys: "Narbutas rašo, kad jo krašto valstiečiai Velykų pusryčio kaulus surinkdavo, užkasdavo ir vadindavo Nijoliszkas Palajkas (Nijolės palaikai)."
   pagrindžia:
     - c-172617
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad jo krašto valstiečiai Velykų pusryčio kaulus surinkdavo, užkasdavo ir vadindavo Nijoliszkas Palajkas (Nijolės palaikai).'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuvoje tebėra gyvas paprotys, kai prietaringi ūkininkai
-    likusius nuo Velykų pusryčio kaulus stropiai surenka ir užkasa
-    į žemę; mano kampe valstiečiai juos vadina Nijoliszkas Palaj-
-    kas (Nijolės palaikai). Tai lyg Nijolės relikvijos arba likučiai,
-    skirti Nijolei. Žemiau straipsnyje apie aukas pamatysime, kad
-    atnašautos mėsos kaulai būdavo užkasami į žemę kaip auka
-    požemio dievams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172617
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 137"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 137."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuvoje tebėra gyvas paprotys, kai prietaringi ūkininkai
     likusius nuo Velykų pusryčio kaulus stropiai surenka ir užkasa

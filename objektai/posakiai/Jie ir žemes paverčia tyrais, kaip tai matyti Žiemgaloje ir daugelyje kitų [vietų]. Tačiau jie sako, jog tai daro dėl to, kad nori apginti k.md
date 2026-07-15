@@ -7,12 +7,12 @@ datos:
   - '1322 m.'
 date_start: '1322'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,8 +47,8 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
   teiginys: "Gedimino laiškas Dorpato, Eželio vyskupams, Revelio žemės danų vietininkui ir Rygos miesto tarybai)50."
   pagrindžia:
     - c-176942
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1322 m. laiške popiežiui Gediminas kaltino kryžiuočius žemes paverčiant tyrais ir teigiant, kad taip jie gina krikščionis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -91,16 +91,18 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
 - id: c-59738
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 13"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 13."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Kiek vėliau, jau valdant Gediminui, Lietuvos—Rygos
+    sąjunga buvo atnaujinta47.
     Tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti
     aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje
     ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti krikščionis“
     (1322 m. laiškas popiežiui)48; „Kur atrasime didesnių skriaudų, didesnės neteisybės,
     smurto, nedorumo ir turto gobšumo, jei ne tarp krikščionių žmonių, o ypač tarp tų,
     kurie dedasi dorais vienuoliais kaip, pavyzdžiui, kryžiuočiai, tačiau kurie daro visokį
-      42 CEV, p.
+    42  CEV, p. 1018—1021.
+  citata_rodoma: "Tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti\naštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje\nir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti krikščionis“\n(1322 m. laiškas popiežiui)48; „Kur atrasime didesnių skriaudų, didesnės neteisybės,\nsmurto, nedorumo ir turto gobšumo, jei ne tarp krikščionių žmonių, o ypač tarp tų,\nkurie dedasi dorais vienuoliais kaip, pavyzdžiui, kryžiuočiai, tačiau kurie daro visokį\n  42 CEV, p."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -111,15 +113,20 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
 - id: c-176942
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 14"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Gedimino laiškas Dorpato, Eželio vyskupams, Revelio žemės danų vietininkui  ir
-    Rygos miesto tarybai)50. Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
-    Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
-    geros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį
-    atgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei
-    sukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje.
+    Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
+    sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
+    Popiežius 1324 m. įsakė kryžiuočiams susilaikyti nuo bet kokių žygių prieš Gedimino
+    valstybę ir patvirtino šią sutartį53. Tai buvo didelis diplomatinis Lietuvos laimėjimas.
+    XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
+    ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
+    žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu,
+    Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo
+    Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
+    priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
+    ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
+  citata_rodoma: "Gedimino laiškas Dorpato, Eželio vyskupams, Revelio žemės danų vietininkui  ir\nRygos miesto tarybai)50. Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems\nEuropos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam\ngeros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį\natgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei\nsukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

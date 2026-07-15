@@ -35,20 +35,6 @@ Laurinavičius Č., Sirutavičius V.
   teiginys: "V. Sirutavičius kartu su Č. Laurinavičiumi parašė veikalą „Sąjūdis: nuo „persitvarkymo“ iki Kovo 11-osios“."
   pagrindžia:
     - c-22195
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Laurinavičius Č., Sirutavičius V. Sąjūdis: nuo „persitvarkymo“ iki Kovo
-    11-osios, Lietuvos istorija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

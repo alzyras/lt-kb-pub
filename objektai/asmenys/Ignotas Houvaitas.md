@@ -44,29 +44,6 @@ media_all_json: |-
   teiginys: "Ignotui Houvaitui, Smolensko kanauninkui ir Pabaisko klebonui, 1787 m. lapkričio 28 d. buvo išduotas fundacijos privilegijos išrašas."
   pagrindžia:
     - c-83671
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ignotui Houvaitui, Smolensko kanauninkui ir Pabaisko klebonui, 1787 m. lapkričio 28 d. buvo išduotas fundacijos privilegijos išrašas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ta pati fundacijos privilegija, šviesiausiojo
-    Karaliaus Jo Didenybės Žygimanto sudaryta ir skirta Pabais­
-    ko bažnyčiai ir klebonijai, tikrai pradžioje paminėto globėjo
-    teismui į aktų knygas kopijuoti pateikta, yra įrašyta į LDK
-    Vyriausiojo Tribunolo Viešųjų Reikalų knygas. Iš jų ir šis
-    išrašas šiais, tūkstantis septyni šimtai aštuoniasdešimt sep­
-    tintais metais, lapkričio mėnesio dvidešimt aštuntą dieną,
-    su Vilniaus vaivadijos didž. žemės teismo antspaudu, išduo­
-    tas Jo Malonybei kunigui Ignotui Houvaitui, Smolensko ka­
-    nauninkui, Pabaisko klebonui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

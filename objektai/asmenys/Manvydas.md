@@ -10,6 +10,11 @@ datos:
   - '1396 m.'
 date_start: '1276'
 date_end: '1396'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,11 +22,6 @@ tags:
   - didikas
   - karalius
   - kunigaikštis
-amziai:
-  - 'XIII'
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -100,7 +100,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - susijęs iš Manvydo rūmai: Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus.
 - susijęs iš Vilniaus pilies kalnas: 1396 m. Vilniaus pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.
 - susijęs iš Vilniaus pilies kalnas: Vilniaus pilies kalnas nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.
-- susijęs iš Vilnius: 1396 m. Vilniuje pilies kalno nuošliaužos užslinko ant vaivados Manvydo rūmų, bet Aukštutinės pilies mūrai nenukentėjo.
 - susijęs iš Pilies kalnas: Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug nuostolių.
 - susijęs iš Pilies kalnas: 1396 m. Vilniaus Pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.
 - susijęs iš Vilniaus Aukštutinė pilis: Kalno, ant kurio stovėjo Aukštutinė pilis, griūtis užslinko ant Manvydo rūmo ir pridarė daug nuostolių.
@@ -120,7 +119,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - susijęs iš Trakai: Vytautas būdamas Trakuose nerimavo dėl išdavystės ir norėjo ten pasilikti dar dvylika savaičių.
 - susijęs iš Vilija: Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją.
 - susijęs iš Vilniaus Žemutinė pilis: Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.
-- susijęs iš Vilnius: Atvykusiems lenkams anuometinis Vilnius pasirodė niūrokas, bet išsiskyrė gražiu kraštovaizdžiu.
 - susijęs iš Šventaragio slėnis: Šventaragio slėnis buvo laikomas reikšmingiausia Žemutinės pilies dalimi, kur degė lietuvių garbinta Gabija.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.
 - susijęs iš [[objektai/zodynas/pataurininkis rykūnė.md#claim-t-86605|pataurininkis rykūnė]]: Aukštutinės pilies kalno griūtis užpylė Manvydo pataurininkį ir rykūnes, o nuošliaužos užvertė jo brangenybes.
@@ -128,159 +126,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - susijęs iš Vilniaus Aukštutinė pilis: Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis.
 - susijęs iš [[objektai/daiktai/Manvydo rūmai ir Aukštutinės pilies mūrai.md#claim-t-87083|Manvydo rūmai ir Aukštutinės pilies mūrai]]: 1396 metais pilies kalno nuošliaužos užslinko ant Manvydo rūmų, o Aukštutinės pilies mūrai nuostolių nepatyrė.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1396 m. Vilniuje Manvydas minėtas kaip Vilniaus vaivada tarp dokumento liudytojų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Actum et datum in Wilno, ipšo die pu­
-    rificationis Mariae Virginis gloriosae.
-    A. D . 1396. Presentibus nobilibus ac
-    Strenuis viris D-nis Minigalone Gas-
-    toldo Monividone Palatino Viln. nec
-    non Czupurua et Milone Marschalcis
-    curiae nostrae, et aliis quam pluribus
-    fide dignis [šviesiausiojo valdovo ku­
-    nigaikščio Lenkijos karaliaus Vla­
-    dislovo, mūsų mylimiausio brolio,
-    pavedimu ir sutikimu duodame de­
-    šimtinę nuo ariamos žemės mūsų
-    Cudzeniškių kaimo, esančio ties Me­
-    dininkais, ir kasmet vieną medaus
-    saiką, kuris vadinamas medaus
-    duokle, iš mūsų dvaro ir mūsų kai­
-    mus su žmonėmis - Corzen, Hono-
-    bičiai ir Volča, esančius Choreckovo
-    valsčiuje, paskiriame ir 1.1. Aktuota
-    ir duota Vilniuje, Švč. Mergelės Ma­
-    rijos Apsivalymo dienoje, Viešp. me­
-    tais 1396. Dalyvaujant garbingiems
-    ir narsiems vyrams Mingailai, Goš­
-    tautui; Vilniaus vaivadai Manvydui
-    bei mūsų dvaro maršalkoms Čupur-
-    vai ir Milonui bei daugeliui kitų, ver­
-    tų pasitikėjimo].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Manvydas buvo vienas garsiausių Lietuvos didikų, kurio didžiuliai rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
-    nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,
-    buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­
-    ta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų
-    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
-    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
-    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Reikš­
-    mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
-    tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų
-    senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija,
-    didžiai garbinama lietuvių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Trakų vaivada Manvydas įspėjo Švitrigailą, todėl šis, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Švitrigailos dvaras stovėjo
-    kaip tik toje vietoje, kur ir dabarti­
-    nis dvaras.
-    —  • —
-    215
-
-    ## Puslapis 232
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie
-    rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten
-    jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
-    do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas. Žy­
-    gimantas tučtuojau užėmė Vilnių ir Trakus16, taigi Vilnius
-    dėl šių staigių permainų ir abipusių karinių gaudynių, atro­
-    do, bus vėl patyręs nesėkmių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Trakų vaivada Manvydas buvo sučiuptas ir Žygimanto įsakymu nukirsdintas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
-    rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­
-    ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
-    atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
-    skandinti. O Manvydas, Trakų vaivada, buvo sučiuptas ir,
-    Žygimanto įsakymu, nukirsdintas20. Vėl įsiliepsnojo kelerius
-    metus trukęs karas tarp rusų, vadovaujamų Švitrigailos, ir
-    Lietuvos, valdomos Žygimanto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytautas, sutelkęs Smo­
-    lenske pulkus, apsupo tą miestą ir po keturias savaites
-    užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
-    nelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­
-    kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
-    tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
-    bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
-    Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
-    turtus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-006
-  santrauka: 'Manvydas susitarė su Goštautu ir Astiku paskelbti valdovu karalių Vladislovą pagal senąjį susitarimą su lenkais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
-    gimine ir sąjungą su lenkais. Manvydas susitarė su
-    Goštautu bei Astiku, laikantis senojo susitarimo su len­
-    kais, paskelbti valdovu patį karalių Vladislovą. Kiti
-    manė, kad karaliaus išrinkimas didžiuoju kunigaikščiu
-    gali atnešti daugiau žalos nei naudos, nes, neseniai pa­
-    keltas į Vengrijos karaliaus sostą ir atskirtas nuo Lietu­
-    vos tokių didelių nuotolių, negalėsiąs laiku nei žinios
-    apie pavojų gauti, nei ką padėti, todėl griežtai prieši­
-    nosi karaliaus kandidatūrai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 - c-007
   santrauka: 'Narbutas Manvydą laiko Gedimino ir Vidos sūnumi, gimusiu 1276 metais, o jo vardą aiškina kaip „Vidos pasaulis“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -436,8 +281,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - id: c-168141
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 466"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
     gimine ir sąjungą su lenkais. Manvydas susitarė su
@@ -459,15 +303,16 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - id: c-171471
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 214"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
-    Jaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės
-    bartininko Vidmanto iš Kuršo duktė. Iš jos sūnūs: Manvydas
-    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
-    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
-    mirė tuoj po jo gimimo) -  1277 metais.
+    Turėjo žirgą, vadintą Juodžiu (Jodž), su kuriuo pralenkdavo
+    vėją. Jo rūmai buvo to žirgo galva - per vieną ausį įeidavo, per
+    antrą išeidavo. Kartą, kai Vitolfas puotavo pas vieną karalių,
+    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
+    šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
+    tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
+    pančius vienas ant kito.
+  citata_rodoma: "Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir\nJaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės\nbartininko Vidmanto iš Kuršo duktė. Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

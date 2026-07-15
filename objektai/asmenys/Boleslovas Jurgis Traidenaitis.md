@@ -43,28 +43,6 @@ pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos s
   teiginys: "Boleslovas Jurgis Traidenaitis mirė 1340 m., o po jo dėl Haličo ir Volynijos varžėsi Kazimieras Didysis ir Liubartas."
   pagrindžia:
     - c-37991
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tai ir buvo vienas iš faktorių, vertusių Lenkijos ponus
-    savo karaliumi pasikviesti plačiosios Lietuvos valdovą Jo­
-    gailą.
-    Bet to laiko dienos rūpesniu Lenkijoje dar labiau buvo der­
-    lingųjų Volynijos žemių priklausomybės klausimas. 1340 met.
-    pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo
-    ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir
-    Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
-    mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
-    nigaikščio vienturtę dukterį^4 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

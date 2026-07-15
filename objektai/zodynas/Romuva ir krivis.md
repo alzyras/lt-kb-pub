@@ -57,73 +57,13 @@ media_all_json: |-
   teiginys: "Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška."
   pagrindžia:
     - c-73319
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta nebeatsekama.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1—9). Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos
-    vieta apskritai nebeatsekama.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
-    prūsų, lietuvių ir kitų baltų religinio kulto centras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
-    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
-    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
-    muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
-    Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
-  citata_rodoma: ''
-  statusas: verified
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai-
-    gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
-    institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
-    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
-    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 ## Citatos
 
 - id: c-73316
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 65"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     1—9). Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos
     vieta apskritai nebeatsekama.
@@ -137,10 +77,9 @@ media_all_json: |-
 - id: c-73317
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 64"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
+    204  Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
     prūsų, lietuvių ir kitų baltų religinio kulto centras.
   statusas: verified
   teiginio_tipas: faktas
@@ -160,10 +99,12 @@ media_all_json: |-
     muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
     Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
   statusas: verified
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75585
+
 - id: c-73319
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

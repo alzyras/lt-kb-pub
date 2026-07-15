@@ -42,30 +42,6 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
   teiginys: "Stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad būtų sumokėta skola Plockiui."
   pagrindžia:
     - c-83798
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad būtų sumokėta skola Plockiui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    320 flor. 21 gr.
-    Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
-    aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad
-    443
-
-    ## Puslapis 460
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    juos laiku pasiųstų JMCPP* : Mlodyčiui į Leipcigą ir ponui
-    Plockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į
-    lenkiškas, pridėjau 1310 flor.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -42,31 +42,6 @@ Kiek tos kovos Kęstučio valdymo laiku padidėjo, rodo ir ta aplinkybė, kad vo
   teiginys: "1362 m. išgriovę Kauno pilį, vokiečiai pradėjo brautis gilyn į Lietuvą ir pasiekė Vilniaus bei Neries sritis."
   pagrindžia:
     - c-38586
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nuo to laiko per visą savo gyvenimą, iki pat žilos senatvės,
-    Kęstutis turėjo nepaliaujamai kariauti su tariamaisiais Lietuvos
-    krikštytojais. Kiek tos kovos Kęstučio valdymo laiku padidėjo,
-    rodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad
-    1362 m. išgriovė Kauno pilį ir pradėjo brautis vis gilyn į Lietu­
-    vą, pasiekdami net Vilniaus ir Neries sritis, kurių dar niekad
-    priešai nebuvo pasiekę.
-    Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­
-    re Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,
-    ir užtat nenuostabu, kad jis labai anksti (1368 m.) pradeda
-    dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­
-    vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
-    lyvauja kartu žygyje prieš lenkus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

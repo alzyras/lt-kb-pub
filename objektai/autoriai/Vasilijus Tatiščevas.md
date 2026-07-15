@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Teodoro Narbuto vertinimu, Vasilijus Tatiščevas Giurgevo ieškojo kairiajame Dnepro krante, bet klaidingai jį siejo su pilaite prie Osteros žiočių. Teodoras Narbutas rašė, kad Vasilijus Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“.
+Teodoro Narbuto vertinimu, Vasilijus Tatiščevas Giurgevo ieškojo kairiajame Dnepro krante, bet klaidingai jį siejo su pilaite prie Osteros žiočių. Teodoras Narbutas rašė, kad Vasilijus Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“. Jei jo prielaida teisinga, o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo, tokiu atveju labiau dera jų pavadinimą kildinti iš bend ro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš kažkokio sarmatų žodžio Krirsae, šaltinis.
 
 ## Teiginiai
 
@@ -42,57 +42,20 @@ Teodoro Narbuto vertinimu, Vasilijus Tatiščevas Giurgevo ieškojo kairiajame D
   teiginys: "Teodoras Narbutas rašė, kad Vasilijus Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“."
   pagrindžia:
     - c-174484
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Teodoro Narbuto vertinimu, Vasilijus Tatiščevas Giurgevo ieškojo kairiajame Dnepro krante, bet klaidingai jį siejo su pilaite prie Osteros žiočių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Be to, tvirto­
-    vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
-    taiką; kartu ji nebuvo sunaikinta ir todėl netrukus turė­
-    jo* būti atstatyta. Tatiščevas**, gal geriau žinojęs šiuos
-    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
-    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
-    Jurjevu, stovėjusią prie Osteros upės žiočių. Reikėtų nu­
-    keliauti toliau į rytus ir gal ten, Doneco ir Dono tarp­
-    upyje, rasime buvusios Giurgevo tvirtovės vietą ir seno­
-    vės upę Ros.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197657"></a>
+- t-003
+  global_id: t-197657
+  teiginys: "Jei jo prielaida teisinga, o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo, tokiu atveju labiau dera jų pavadinimą kildinti iš bend ro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš kažkokio sarmatų žodžio Krirsae, šaltinis."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Teodoras Narbutas rašė, kad Vasilijus Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Jei jo prielaida teisinga,
-    o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,
-    tokiu atveju labiau dera jų pavadinimą kildinti iš bend­
-    ro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš
-    kažkokio sarmatų žodžio Krirsae, šaltinis. Be to, Slėceris
-    teisingai klausia, ką tai reiškia sarmatiškai. Etimologinio
-    kildinimo nepripažįstu, tačiau krivičių pavadinimo kili­
-    mas iš Krivio, regis, atrodo visai natūralus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-174484
 
 ## Citatos
 
 - id: c-174483
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 74"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, tvirto­
     vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
@@ -114,8 +77,7 @@ Teodoro Narbuto vertinimu, Vasilijus Tatiščevas Giurgevo ieškojo kairiajame D
 - id: c-174484
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 341"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jei jo prielaida teisinga,
     o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,
@@ -125,9 +87,15 @@ Teodoro Narbuto vertinimu, Vasilijus Tatiščevas Giurgevo ieškojo kairiajame D
     teisingai klausia, ką tai reiškia sarmatiškai. Etimologinio
     kildinimo nepripažįstu, tačiau krivičių pavadinimo kili­
     mas iš Krivio, regis, atrodo visai natūralus.
+    Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo
+    su krivičiais, o ne krivičių Smolenską, nes iš daugelio
+    tos genties šakų lengvai galėjo atsirasti viena, kuri, kaip
+    ir Polocko, galėjo būti palankesnė rusams ir prisidėti
+    prie Olego.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191602
+    - t-197657

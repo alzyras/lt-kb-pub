@@ -36,28 +36,6 @@ Vilniaus karo apygardos Karo veiksmų juos miegančius gegužės 10 naktį apsup
   teiginys: "Gegužės 10-osios naktį paporučikio fon Gaso dalinys apsupo miegančius sukilėlius ir paėmė juos į nelaisvę."
   pagrindžia:
     - c-44588
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Oficialiai pa-
-    teikiami Rusijos kariuomenės nuos-
-    toliai akivaizdžiai neatitinka tikrovės.
-    Vilniaus karo apygardos Karo veiksmų
-
-    juos miegančius gegužės 10 naktį apsupo ir
-    paėmė į nelaisvę paporučikio fon Gaso da-
-    linys. Į nelaisvę pakliuvo Z. Sierakauskas,
-    B. Kolyška, S. Kozakauskas ir dar keletas
-    karininkų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

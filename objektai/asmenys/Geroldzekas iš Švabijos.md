@@ -44,27 +44,6 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
   teiginys: "1322 m. žiemą grafas Geroldzekas iš Švabijos vedė vieną iš atskirų kryžiuočių ekspedicijos į Prūsiją pulkų."
   pagrindžia:
     - c-83658
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1322 m. žiemą grafas Geroldzekas iš Švabijos vedė vieną iš atskirų kryžiuočių ekspedicijos į Prūsiją pulkų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IV Band,
-    p. 358-376).
-    1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­
-    pedicija patraukė į Prūsiją. Atskirus pulkus vedė: Silezijos
-    kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš
-    Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai
-    iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir
-    daug kitų riterių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -43,21 +43,6 @@ media_all_json: |-
   teiginys: "„Zbiór praw litewskich“ išleistas Poznanėje 1841 m.; cituojami leidinio p. 1–2."
   pagrindžia:
     - c-33772
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^18) **CDV, I, 29-30 (nr. 16).**
-    (^19) **_Zbiór praw litewskich_** **, Poznań 1841, 1-2.**
-    (^20) **CDV, I, 13-15 p.**
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

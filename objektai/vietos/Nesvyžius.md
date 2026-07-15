@@ -46,90 +46,74 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
 ## Teiginiai
 
-<a id="claim-t-84370"></a>
+<a id="claim-t-84367"></a>
 - t-001
-  global_id: t-84370
+  global_id: t-84367
   teiginys: "Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje."
   pagrindžia:
     - c-80547
 
-<a id="claim-t-84369"></a>
+<a id="claim-t-84368"></a>
 - t-002
-  global_id: t-84369
+  global_id: t-84368
   teiginys: "Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų."
   pagrindžia:
     - c-80545
-
-<a id="claim-t-84369"></a>
-- t-003
-  global_id: t-84369
-  teiginys: "Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų."
-  pagrindžia:
-    - c-80545
-
-<a id="claim-t-84370"></a>
-- t-004
-  global_id: t-84370
-  teiginys: "Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje."
-  pagrindžia:
-    - c-80547
 
 <a id="claim-t-84372"></a>
-- t-005
+- t-003
   global_id: t-84372
   teiginys: "Kleckas buvo prie kelių į Pinską, Vilnių, Nesvyžių ir Slucką, todėl totoriams tiko išpuoliams mažesniais būriais."
   pagrindžia:
     - c-80546
 
 <a id="claim-t-84373"></a>
-- t-006
+- t-004
   global_id: t-84373
   teiginys: "1586 m. pradėta Nesvyžiaus jėzuitų bažnyčia žymėjo Lietuvos baroko epochos pradžią."
   pagrindžia:
     - c-80548
 
 <a id="claim-t-84374"></a>
-- t-007
+- t-005
   global_id: t-84374
   teiginys: "Nesvyžiaus Radvilų liejykloje 1602 m. buvo nulieta patranka su Radvilų herbu ir užrašu."
   pagrindžia:
     - c-46644
 
 <a id="claim-t-84375"></a>
-- t-008
+- t-006
   global_id: t-84375
   teiginys: "Nesvyžiaus jėzuitų kolegijos barokinė bažnyčia pradėta statyti 1586 m."
   pagrindžia:
     - c-80549
 
 <a id="claim-t-84376"></a>
-- t-009
+- t-007
   global_id: t-84376
   teiginys: "Myro pilis prie Nesvyžiaus laikoma viena iš gotikinių LDK cerkvių stiliaus analogijų rezidencijų architektūroje."
   pagrindžia:
     - c-80543
 
 <a id="claim-t-84377"></a>
-- t-010
+- t-008
   global_id: t-84377
   teiginys: "Myro pilis prie Nesvyžiaus citatoje pateikiama kaip gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje."
   pagrindžia:
     - c-80543
 
 <a id="claim-t-193220"></a>
-- t-011
+- t-009
   global_id: t-193220
   teiginys: "Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje)."
   pagrindžia:
     - c-46643
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186360|Mikalojus Radvila]]: Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103051|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.
 - susijęs iš [[objektai/asmenys/Mikalojus Malinovskis.md#claim-t-87554|Mikalojus Malinovskis]]: Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113883|Mikalojus Radvila Juodasis]]: Mikalojui Radvilai Juodajam ir jo teisėtiems Nesvyžiaus kunigaikščių įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113889|Mikalojus Radvila Juodasis]]: Mikalojui Radvilai Juodajam ir jo teisėtiems Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.
 - susijęs iš [[objektai/asmenys/Vaitiekus II Radvila.md#claim-t-87873|Vaitiekus II Radvila]]: Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d., vyskupo pareigas ėjęs 11 metų.
 - susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172761|Radvilų giminė]]: Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171401|Totoriai]]: Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.
 - susijęs iš [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.).md#claim-t-41286|Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]: Apie liepos 20–22 d. totoriai stovyklavietei pasirinko Klecką, nes jis buvo patogus punktas išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.
 - susijęs iš [[objektai/ivykiai/Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas.md#claim-t-20459|Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas]]: 1562 m. Radvila Juodasis įkūrė spaustuvę Nesvyžiuje, o 1569 m. Chodkevičiai įsteigė spaustuvę Zabluduve.
 - susijęs iš 1551 m. Žygimanto Augusto privilegija Mikalojui Radvilai dėl Lietuvos Didžiosios Kunigaikštystės privilegijų saugojimo: 1551 m. Vilniuje Žygimantas Augustas suteikė Mikalojui Radvilai ir būsimiems Nesvyžiaus kunigaikščiams teisę saugoti Lietuvos Kunigaikštystės privilegijas.
@@ -137,8 +121,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - susijęs iš Olyka: Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.
 - susijęs iš Olyka: Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.
 - susijęs iš Pinskas: Apie liepos 20–22 d. totoriai pasirinko stovyklą prie Klecko, nes miestas stovėjo ant kelių į Pinską, Vilnių, Nesvyžių ir Slucką.
-- susijęs iš Uša: Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių.
-- susijęs iš Uša: Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių.
 - susijęs iš Uša: Uša yra Nemuno intakas, prie kurio yra Nesvyžius.
 - susijęs iš Uša: Uša yra Nemuno intakas, prie kurio yra Nesvyžius.
 - susijęs iš [[objektai/asmenys/Adomas Chreptavičius.md#claim-t-87606|Adomas Chreptavičius]]: Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.
@@ -156,7 +138,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82568|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Grįžęs į katalikybę Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
 - susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82573|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113884|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186360|Mikalojus Radvila]]: Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.
 - susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
 - susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114074|Zigmantas I]]: Karalius Zigmantas I buvo Jono II, 1519 m. paskelbto Vilniaus vyskupu, tėvas.
 - susijęs iš [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros.md#claim-t-19609|Vilniaus katedros portalo kolonada ir frontono skulptūros]]: Vilniaus katedros fasado skulptūros buvo sukurtos 1784–1787 m., kai Lietuvoje dar vyravo baroko dvasia.
@@ -171,7 +152,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - susijęs iš [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija.md#claim-t-55102|Vilniaus vyskupijos klierikų kolegija]]: Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti skyrė Vozgėliškių dvarelį Vilniaus paviete.
 - susijęs iš [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija.md#claim-t-81748|Vilniaus vyskupijos klierikų kolegija]]: Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti.
 - susijęs iš [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija.md#claim-t-81749|Vilniaus vyskupijos klierikų kolegija]]: Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti pridėjo Vozgėliškėmis vadintą dvarelį Vilniaus paviete.
-- susijęs iš [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika.md#claim-t-185748|Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]: Ordino magistras Ketleris ir Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš [[objektai/ivykiai/Slapta Augusto ir Barboros Radvilaitės santuoka.md#claim-t-185538|Slapta Augusto ir Barboros Radvilaitės santuoka]]: Augustas ir Barbora Radvilaitė prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-183284|Vilniaus universiteto įkūrimas (1579 m.)]]: Į Lietuvą atvykę jėzuitai 1579 m. įkūrė Vilniaus universitetą.
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas.md#claim-t-183283|Vilniaus universiteto įkūrimas]]: Į Lietuvą atvykę jėzuitai 1579 m. įkūrė Vilniaus universitetą.
@@ -180,29 +160,21 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - susijęs iš [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.).md#claim-t-86965|Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]: Jurgis Radvila Vilniaus klierikų kolegijai funduoti ir aprūpinti pridėjo savo patrimonialinį Vozgėliškių dvarelį Vilniaus paviete.
 - susijęs iš [[objektai/paprociai/Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje.md#claim-t-185891|Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje]]: Augustas ir Barbora krikščioniškomis apeigomis prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.
 - susijęs iš [[objektai/paprociai/Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje.md#claim-t-77953|Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje]]: Pranciškus Skorina, pirmasis Lietuvos spaustuvininkas, 1517–1519 m. Prahoje išspausdino „Rusėnų Bibliją“, o 1522 m. įkūrė spaustuvę Vilniuje.
-- susijęs iš [[objektai/paprociai/Taikos susitarimo tvirtinimas priesaika ir parašais.md#claim-t-185894|Taikos susitarimo tvirtinimas priesaika ir parašais]]: Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir pasirašė ilgalaikį taikos susitarimą.
 - susijęs iš [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės.md#claim-t-87191|Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]: 1584 m. Gardine Steponas Batoras paskelbė Vilniaus vyskupijos jurisdikcijos pavaldinius laisvus nuo miesto pasaulietinės jurisdikcijos ir cechų.
 - susijęs iš 1551 m. Žygimanto Augusto privilegija Mikalojui Radvilai dėl Lietuvos Didžiosios Kunigaikštystės privilegijų saugojimo: Žygimantas Augustas Mikalojui Radvilai ir jo įpėdiniams suteikė teisę saugoti Lietuvos Kunigaikštystės privilegijas, laisves ir imunitetus.
 - susijęs iš 1551 m. Žygimanto Augusto privilegija Mikalojui Radvilai dėl Lietuvos Didžiosios Kunigaikštystės privilegijų saugojimo: 1551 m. Žygimanto Augusto privilegija leido Mikalojui Radvilai ir jo palikuonims savo archyvuose saugoti LDK suteiktas privilegijas ir laisves.
 - susijęs iš Brastos Biblija: Po Mikalojaus Radvilos Juodojo 1553 m. Brastoje įkurtos spaustuvės po dešimtmečio pasirodė „Brastos Biblija“.
 - susijęs iš Dogelio rankraščiai Vilniaus universiteto bibliotekoje: Dogelio rankraščiuose Vilniaus universiteto bibliotekoje buvo Žygimanto Augusto 1551 m. privilegijos tekstas.
 - susijęs iš Horodlės aktai: 1755 m. Nesvyžiaus pilies archyvų liustracijoje buvo minimas Horodlėje sudarytas Lietuvos unijos su Lenkijos Karūna aktas.
-- susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Lietuvos didžiojo kunigaikščio Žygimanto Augusto globą.
-- susijęs iš Pasvalio ilgalaikis taikos susitarimas tarp Žygimanto Augusto ir Livonijos magistro: Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir, remiamas Mikalojaus Radvilos, pasirašė ilgalaikį taikos susitarimą.
-- susijęs iš Aukštasis krantas: Aukštasis krantas yra apie 25 km į šiaurę ar šiaurės vakarus nuo Klecko.
-- susijęs iš Aukštasis krantas: Aukštasis krantas yra kaimas dešiniame Ušos krante.
 - susijęs iš Bauskė: Livonijos riterių ordinas sąjungos sąlygomis turėjo atiduoti Lietuvai Bauskės pilį su apylinkėmis.
 - susijęs iš Biržai: Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose.
 - susijęs iš Brasta: Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.
 - susijęs iš Brasta: Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
 - susijęs iš Cirinas: LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.
-- susijęs iš Cirinas: Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino.
 - susijęs iš Kleckas: Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu.
 - susijęs iš Lenkija: Lietuvos ir Lenkijos tautų nelaimė paskatino visuomenes ir karalių bandyti gelbėti ATR valstybę.
 - susijęs iš Lietuva: Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki 1784–1787 m. Vilniaus katedros fasado skulptūrų Lietuva gyveno baroko dvasia.
-- susijęs iš Lietuva: Livonijos atstovai seime nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Lietuva: Narbutas nurodė, kad rankraštis baigiasi pagyrimu lietuvių tautos svetingumui, darbštumui ir namų gyvenimo dorybėms.
-- susijęs iš Livonija: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Luckas: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.
 - susijęs iš Ludza: Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmis.
 - susijęs iš Naugardukas: 1044 m. Jaroslavas įkūrė Naugarduką, turbūt dar lietuvių gyvenamoje žemėje.
@@ -214,15 +186,11 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - susijęs iš Rezeknė: Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylinkėmis.
 - susijęs iš Sėlpilis: Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pilį su apylinkėmis.
 - susijęs iš Trakai: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams, o Žygimantas Senasis ją patvirtino 1507 m. Melnikuose.
-- susijęs iš Uša: Uša yra pietinis kairysis Nemuno aukštupio intakas.
-- susijęs iš Uša: Uša yra pietinis kairysis Nemuno aukštupio intakas.
 - susijęs iš Vilniaus katedra: Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą.
 - susijęs iš Vilniaus vyskupija: Kaltinamasis teigė esąs Vilniaus vyskupijos valdinys ir pilietis, todėl siekė būti grąžintas į jos teismą.
 - susijęs iš Vilniaus vyskupija: Jurgis Radvila, matydamas kunigų trūkumą Vilniaus vyskupijoje, nusprendė funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti.
 - susijęs iš Vilniaus vyskupija: Jurgis Radvila Vilniaus vyskupijoje nusprendė įsteigti ir funduoti klierikų kolegiją lietuvių ir rusų jaunuoliams.
 - susijęs iš Vilniaus Šv. Kazimiero bažnyčia: Vilniaus Šv. Kazimiero bažnyčia paprastai laikoma barokinės architektūros manifestu Lietuvoje.
-- susijęs iš Vilnius: Vilniaus vyskupas Jurgis Radvila nusprendė įsteigti kolegiją lietuvių ir rusų jaunuoliams auklėti.
-- susijęs iš Vilnius: Baigęs studijas Nesvyžiaus kolegijoje Albertas Vijūkas-Kojelavičius grįžo į Vilniaus teologijos fakultetą.
 - susijęs iš Voluinė: Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje.
 - susijęs iš Voluinė: Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje.
 - susijęs iš Zabluduvas: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
@@ -233,166 +201,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - susijęs iš [[objektai/zodynas/barokinė santvarka.md#claim-t-22079|barokinė santvarka]]: Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka.
 - susijęs iš [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos.md#claim-t-86628|vyskupijos stalas, personatai ir beneficijos]]: Jurgis Radvila numatė klierikų kolegijai skirti dalį pajamų iš vyskupijos stalo, personatų, abatijų ir kitų beneficijų.
 - susijęs iš [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.).md#claim-t-41286|Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]: Apie liepos 20–22 d. totoriai stovyklavietei pasirinko Klecką, nes jis buvo patogus punktas išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171401|Totoriai]]: Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pats
-    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
-    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
-    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
-    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
-    nialųjį karo vadą, — atidavė auklėti jėzuitams.
-    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
-    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **XVII amž. patrankos**
-    Gustavo Adolfo parodoje Stokholme 1932 m. Pirmoji (gražiausioji) yra
-    nulieta Nesvyžiaus Radvilų liejykloje 1602 m. Ant jos yra Radvilų herbas
-    ir atitinkamas užrašas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
-    tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
-    je. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
-    (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
-    pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
-    je, tai yra europinės reikšmės riba. Maskva XV–XVI a. gyveno bizantine
-    tradicija, o jei Vakarai ir darė poveikį – tai tik fragmentišką, ir tai jau buvo
-    ne gotikos poveikis (italų renesanso meistrai Kremliuje XV a. pabaigoje).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-    - t-009
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mirė 1507 metais.
-    11. Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
-    ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino
-    1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-005
-  santrauka: 'Kleckas buvo prie kelių į Pinską, Vilnių, Nesvyžių ir Slucką, todėl totoriams tiko išpuoliams mažesniais būriais.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Galiausiai apie liepos 20-22 d. jie sustojo.
-    Vietą savo stovyklavietei jie pasirinko prie
-    Klecko miesto, kuris dar 1503 m. buvo jų
-    sunaikintas ir nekėlė pavojaus, o stovėda-
-    mas ant kelių, vedančių į Pinską, Vilnių,
-    Nesvyžių ir Slucką, buvo itin geras punktas
-    išpuoliams, kuriuos totoriai vykdė pasi-
-    skirstę mažesniais būriais.
-
-    Lietuvos kariuomenės mobilizacija, vadai
-    ir pirmieji susidūrimai
-
-    Staigus totorių įsiveržimas sutrukdė jų
-    veiksmus patyrusių paliestų pavietų ba-
-    jorijai mobilizuotis, o jų mažesnių būrių
-
-    Vilnius Aleksandro valdymo laikais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po dešimtmečio čia pa-
-    sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
-    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
-    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
-    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
-    jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
-    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
-    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
-    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
-
-- c-007
-  santrauka: '1586 m. pradėta Nesvyžiaus jėzuitų bažnyčia žymėjo Lietuvos baroko epochos pradžią.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Susiformavo barokinis kraštovaizdis, kuriam bū-
-    dinga bažnyčios, vienuolynai, kalvarijos, koplyčios, koplytstulpiai, kryžiai –
-    „šventasis peizažas“, organiškai pritapęs prie natūralios aplinkos, o kryždir-
-    bystė išliko vienas svarbiausių lietuvių liaudies meno atpažinimo ženklų.
-    Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
-    skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
-    dvasia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-008
-  santrauka: 'Nesvyžiaus jėzuitų kolegijos barokinė bažnyčia pradėta statyti 1586 m.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzui-
-    tais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą. Barokinė
-    Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės
-    architektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-
-    čia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
 ## Citatos
 
 - id: c-46643
@@ -450,8 +258,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84377
     - t-84376
+    - t-84377
 
 - id: c-80545
   autorius: "Michał Baliński"
@@ -468,7 +276,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84368
-    - t-84369
 
 - id: c-80546
   sudarytojas: "Karolis Zikaras"
@@ -520,7 +327,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84370
     - t-84367
 
 - id: c-80548

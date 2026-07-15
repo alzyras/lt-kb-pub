@@ -41,33 +41,6 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
   teiginys: "M. K. Katilo telktai Baltosios Rusios bajorijai mobilizacijos vieta buvo paskirta Vileikos miestelio apylinkėse Ašmenos paviete."
   pagrindžia:
     - c-77316
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'M. K. Katilo telktai Baltosios Rusios bajorijai mobilizacijos vieta buvo paskirta Vileikos miestelio apylinkėse Ašmenos paviete.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1700 m. į respublikonų judėjimą
-    aktyviai įsijungė broliai Jonušas ir Myko-
-    las Višnioveckiai, jauni ir labai turtingi di-
-    dikai, kurių įtaka judėjime sparčiai augo.
-    LDK rytinių vaivadijų - Baltosios Rusios
-    bajoriją telkė M. K. Katilas, mobilizacijos
-    vieta jai buvo paskirta Vileikos miestelio
-    apylinkės Ašmenos paviete. G. A. Oginskis
-
-    telkė respublikonų pajėgas Žemaitijoje, Viš-
-    nioveckiai organizavo bajoriją LDK pietuo-
-    se - Bresto vaivadijoje, pasitelkę ir savo
-    šalininkus, tarnus bei rekrūtus iš savo dvarų
-    Lenkijoje - Voluinėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

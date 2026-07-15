@@ -43,24 +43,6 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   teiginys: "1547 m. Sebastijonui Vitinskiui atiteko Jono Hozijaus parduotas sklypas ir mūrinis namas su spaustuve."
   pagrindžia:
     - c-83828
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1547 m. Sebastijonui Vitinskiui atiteko Jono Hozijaus parduotas sklypas ir mūrinis namas su spaustuve.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jono Ak ademi jos Spaustuvės kronika
-    1547. Sklypas tas ir mūrinis namas, kuriame yra spaustu­
-    vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui.
-    1552. Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus
-    vaivadai Mikalojui Radvilai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

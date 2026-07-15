@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką.
+Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką. Prie Jaseldos upės Mstislavas Romanovičius buvo sumuštas, neteko kariuomenės ir vos gyvas paspruko į Lucką.
 
 ## Teiginiai
 
@@ -36,54 +36,20 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
   teiginys: "Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką."
   pagrindžia:
     - c-169433
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mstisla­
-    vas
-    Bresto
-    apylinkėse
-    jau siaubė
-    kaimus,
-    žudė
-    žemdirbius, ketindamas pradėti karą, tačiau, išgirdęs
-    apie artėjantį Skirmantą, buvo priverstas sutraukti
-    savo pulkus iš kaimų į stovyklą. Prie Jaseldos upės
-    abi šalys stojo į įnirtingą mūšį, Mstislavas, sumuš­
-    tas, praradęs kariuomenę, vos gyvas
-    paspruko iš
-    kovos
-    lauko į Lucką. Tuo tarpu Skirmantas
-    po
-    šios
-    pergalės ta pačia proga iš rusų atėmė
-    Pin­
-    ską ir Turovą;
-    džiūgaudamas dėl pergalės ir dėl
-    atimtų iš priešų žemių, pa-
-    L ie tu v ia i iš rusų a ti-
-    siuntė atgal Zivinbudui Kū­
-    ma P in ską
-    kovaitį ir jo karius apdova­
-    nojo puikiomis dovanomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196566"></a>
+- t-002
+  global_id: t-196566
+  teiginys: "Prie Jaseldos upės Mstislavas Romanovičius buvo sumuštas, neteko kariuomenės ir vos gyvas paspruko į Lucką."
   pagrindžia:
-    - t-001
+    - c-178771
 
 ## Citatos
 
 - id: c-169433
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 83"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 83."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mstisla­
     vas
@@ -118,6 +84,36 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186072
+
+- id: c-178771
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Živinbudas
+    pa­
+    siuntė savo sūnų Kukovai-
+    tį su rinktine lietuvių bei žemaičių kariauna. Mstisla­
+    vas
+    Bresto
+    apylinkėse
+    jau siaubė
+    kaimus,
+    žudė
+    žemdirbius, ketindamas pradėti karą, tačiau, išgirdęs
+    apie artėjantį Skirmantą, buvo priverstas sutraukti
+    savo pulkus iš kaimų į stovyklą. Prie Jaseldos upės
+    abi šalys stojo į įnirtingą mūšį, Mstislavas, sumuš­
+    tas, praradęs kariuomenę, vos gyvas
+    paspruko iš
+    kovos
+    lauko į Lucką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196566
 
 ## Ryšiai
 - Mstislavas Romanovičius keliavo į [[objektai/vietos/Luckas]]

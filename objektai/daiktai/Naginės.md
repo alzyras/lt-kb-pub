@@ -53,6 +53,7 @@ Nenurodyta
   teiginys: "Elgetos apavas."
   pagrindžia:
     - c-177755
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

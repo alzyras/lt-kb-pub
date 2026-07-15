@@ -35,21 +35,14 @@ media_all_json: |-
 
 ## Santrauka
 
-Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas. Fedoras Ivanovičius Jaroslavičius susigiminiavo su LDK didikais Goštautais ir vedęs Oleną Aleksandrą gavo Pinską. Tarp Vilniaus seniūnų pirmas iš Goštautų buvo Andrius Goštautas (1387 m.).
+Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas. Fedoras Ivanovičius Jaroslavičius susigiminiavo su Goštautų gimine ir, vedęs Oleną Aleksandrą, Lietuvos Didžiojoje Kunigaikštystėje gavo Pinską. Tarp Vilniaus seniūnų pirmas iš Goštautų buvo Andrius Goštautas (1387 m.).
 
 ## Teiginiai
-
-<a id="claim-t-187758"></a>
-- t-001
-  global_id: t-187758
-  teiginys: "Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas."
-  pagrindžia:
-    - c-170697
 
 <a id="claim-t-187760"></a>
 - t-002
   global_id: t-187760
-  teiginys: "Fedoras Ivanovičius Jaroslavičius susigiminiavo su LDK didikais Goštautais ir vedęs Oleną Aleksandrą gavo Pinską."
+  teiginys: "Fedoras Ivanovičius Jaroslavičius susigiminiavo su Goštautų gimine ir, vedęs Oleną Aleksandrą, Lietuvos Didžiojoje Kunigaikštystėje gavo Pinską."
   pagrindžia:
     - c-170699
 
@@ -59,8 +52,22 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   teiginys: "Tarp Vilniaus seniūnų pirmas iš Goštautų buvo Andrius Goštautas (1387 m.)."
   pagrindžia:
     - c-176475
-## Reikšmingi paminėjimai
 
+<a id="claim-t-196779"></a>
+- t-004
+  global_id: t-196779
+  teiginys: "Pasakojimas, kad Petras Goštautas atsikvietė į Vilnių pranciškonų, komentare laikomas veikiausiai XV a. antrojoje pusėje kilusia legenda."
+  pagrindžia:
+    - c-176475
+
+<a id="claim-t-187758"></a>
+- t-001
+  global_id: t-187758
+  teiginys: 'Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas.'
+  pagrindžia:
+    - c-170697
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -75,87 +82,32 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
     19
     1  Gedimino sūnų skaičius nurodytas teisingai.
   citata_rodoma: ''
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Fedoras Ivanovičius Jaroslavičius susigiminiavo su LDK didikais Goštautais ir vedęs Oleną Aleksandrą gavo Pinską.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
-    puchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­
-    miniavęs su LDK didikais Goštautais ir vasaliniais buv. Kijevo ir
-    Slucko kunigaikščiais Olelkaičiais ir Alšėniškiais. Lietuvos Di­
-    džiojoje Kunigaikštystėje Fedoras Jaroslavičius valdė Klecką, Da-
-    vidgorodoką ir Rogačiovą, o  taip pat Pinską, kurj gavo, vesdamas
-    Kijevo kunigaikščio Simono Olelkaičio ir jo  žmonos Jonaitės Goš-
-    tautaitės dukterį Oleną Aleksandrą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Tarp Vilniaus seniūnų pirmas iš Goštautų buvo Andrius Goštautas (1387 m.).'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
-    kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias
-    j vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas
-    iš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus
-    vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
-    tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
-
-- id: c-170697
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    5 Iš Gedimino valdym o m etų jokie Vilniaus viršininkai vardais
-    nėra žinomi. Vilniaus vaivadų pareigybė buvo įvesta tik 1413 m.,
-    ir pirm uoju Vilniaus vaivada buvo n e Goštautas, o Vaitiekus Man-
-    vydas, kuris pirma (1396— 1412) buvo Vilniaus seniūnu. Pirmuoju
-    Goštautų giminės atstovu Vilniaus viršininkų tarpe buvo Andrius
-    Goštautas, Vilniaus seniūnas 1387 m. Galimas daiktas, kad jis buvo
-    Goštauto. Veliuonos pilies viršininko, sūnus
-    19
-    1  Gedimino sūnų skaičius nurodytas teisingai.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187758
 
 - id: c-170699
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 323"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 323."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
-    puchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­
+    puchovo
+    kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­
     miniavęs su LDK didikais Goštautais ir vasaliniais buv. Kijevo ir
-    Slucko kunigaikščiais Olelkaičiais ir Alšėniškiais. Lietuvos Di­
+    Slucko
+    kunigaikščiais
+    Olelkaičiais
+    ir
+    Alšėniškiais. Lietuvos Di­
     džiojoje Kunigaikštystėje Fedoras Jaroslavičius valdė Klecką, Da-
-    vidgorodoką ir Rogačiovą, o  taip pat Pinską, kurj gavo, vesdamas
-    Kijevo kunigaikščio Simono Olelkaičio ir jo  žmonos Jonaitės Goš-
+    vidgorodoką ir Rogačiovą, o taip pat Pinską, kurj gavo, vesdamas
+    Kijevo kunigaikščio Simono Olelkaičio ir jo žmonos Jonaitės Goš-
     tautaitės dukterį Oleną Aleksandrą.
   statusas: verified
   teiginio_tipas: faktas
@@ -169,15 +121,19 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
-    kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias
-    j vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas
-    iš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus
-    vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
-    tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
+    Pakitusiu dėl vėlesnių perstatymų pavidalu Ji tebestovi ligi
+    šiol Vilniuje prie dabartinės Kutuzovo aikštės.
+    ‘ Pasakojimas, kad Petras Goštautas atsikvietęs | Vilnių dar
+    pranciškonų, taip pat laikomas legenda, kilusia, veikiausiai, dar
+    XV a. antrojoje pusėje. Neabejotina, kad pranciškonai, jsikūru-
+    siejl prieš 1387 m. Vilniaus vienuolyne prie Trakų vartų, buvo kilų
+    iš Lenkijos ir daugiausia iš Krokuvos, nes vilniškio pranciškonų
+    vienuolyno, kaip ir krokuviškio, pavadinimas turėjo tų patį prie-
+    vardj — „in Arena" arba „na Piaskach".
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193831
+    - t-196779

@@ -47,54 +47,6 @@ media_all_json: |-
   teiginys: "Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos."
   pagrindžia:
     - c-82051
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo Goštautų vardu vadintą mūrinį namą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mes cituojame tik tuos, kuriuos
-    matėme patys.
-    70
-    Detali Kardinalijos istorija yra tokia:
-    kunigaikštis Jurgis Radvila, dar bū­
-    damas Vilniaus vyskupijos koadju­
-    torius, su broliu gavo palikimo mū­
-    rinį namą, Goštautų vardo, stovintį
-    priešais Šv. Jono bažnyčią, visą mū­
-    rinį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Marijos Magdalenos baž­
-    nyčios, po dešine ranka Skapo gatvėje
-    ant paties kampo esantį ir vadinamą
-    Skapo vardu". Kardinolas Radvila
-    dalyje, vadinamoje Goštautų mūru,
-    įrengė koplyčią, kurioje ilgai buvo lai­
-    komos pamaldos, ir pats kurį laiką
-    gyveno, todėl jam duotas Kardinali­
-    jos vardas. Vėliau, apie 1601 metus,
-    abu namai - Goštautų ir Filipovo -
-    kartu sujungti Albrechto Radvilos lai­
-    kais, gavo bendrą Kardinalijos pa­
-    vadinimą, išlikusį iki mūsų laikų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

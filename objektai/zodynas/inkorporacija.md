@@ -84,27 +84,6 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
     - c-32651
 - susijęs iš [[objektai/posakiai/didelis „remontas“ Krėvės unijoj.md#claim-t-35997|didelis „remontas“ Krėvės unijoj]]: Knygos autorius 1401 m. aktą vertino kaip didelį Lietuvos atsipalaidavimo nuo Lenkijos žingsnį ir Krėvės unijos „remontą“.
 - susijęs iš [[objektai/zodynas/aneksija.md#claim-t-70086|aneksija]]: Krėvės unija apibūdinta kaip Lietuvos inkorporacija ir net aneksija.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lyginant įvairius laiko tekstus, kur vengrų
-    kanceliarijoje buvo vartojamas terminas «applicare», išryškėjo,
-    kad tas žodis tereiškė tapimą lenininku.
-    1385 m. aktas todėl neparodo inkorporacijos, o greičiau busimą
-    leno santykį didžiosios Lietuvos kunigaikštijos ir karūnos. Lietu­
-    voje toliau išliko ne tik valstybinio gyvenimo skirtingumas, bet ir
-    pati didžiojo kunigaikščio institucija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-32651

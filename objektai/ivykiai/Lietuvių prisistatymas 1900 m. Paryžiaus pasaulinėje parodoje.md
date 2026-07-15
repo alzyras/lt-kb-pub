@@ -57,23 +57,6 @@ Nenurodyta
   teiginys: "1900 m. Paryžiaus pasaulinės parodos etnografiniame skyriuje lietuviai parengė ekspoziciją su tautiniais drabužiais, ūkio padargais ir lietuviška spauda."
   pagrindžia:
     - c-25402
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje
-    parodoje. Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautie-
-    čiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspo-
-    ziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų,
-    kitų daiktų, o svarbiausia – slapta Prūsijoje leidžiamos lietuvių spaudos
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

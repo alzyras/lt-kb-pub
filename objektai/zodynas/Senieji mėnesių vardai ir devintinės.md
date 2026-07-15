@@ -58,10 +58,14 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
   teiginys: "Senųjų mėnesių sistemoje kiekvienas mėnuo turėjo po 27 dienas ir dalijosi į tris devintinėmis vadintas dalis."
   pagrindžia:
     - c-09644
+- susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-198563|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
+- susijęs iš [[objektai/grupes/Lenkijos didikų ir bajorų seimas.md#claim-t-198909|Lenkijos didikų ir bajorų seimas (seimas, XIV a.)]]: Lenkijos didikų ir bajorų seimas, nutaręs kviesti Jogailą į Lenkijos sostą, vyko Krokuvoje 1385 m. birželį arba liepą.
 - susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192020|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas radinį prie Kražių apibūdina kaip 1836 m. Žemaitijoje rastą bronzinę karo dievo Kovo statulėlę.
 - susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192021|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas nurodė: 1840 m. rugsėjį Vaitiekus Jučas Platelių dvare gavo karo dievo Kovo statulėlę iš kunigo Kognovickio.
 - susijęs iš [[objektai/ivykiai/Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.).md#claim-t-192050|Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.)]]: Teodoras Narbutas antrojo LTI tomo pratarmę pasirašė Gauruose 1835 m. gegužės 8 dieną.
+- susijęs iš [[objektai/ivykiai/Tribunolo maršalkos ir artilerijos generolo priėmimas Paneriuose (1751 m. birželio 25 d.).md#claim-t-200604|Tribunolo maršalkos ir artilerijos generolo priėmimas Paneriuose (1751 m. birželio 25 d.)]]: 1751 m. birželio 25 d. Lopacinskis vyko į Panerius priimti tribunolo maršalo Juozapo Antano Solohubo ir artilerijos generolo Antano Solohubo.
 - susijęs iš Archangelsko gubernija: 1904 m. rugpjūtį ir rugsėjį Augustas Robertas Niemi dar kartą vyko į Archangelsko guberniją, į senų runų rinkimo vietą.
+- susijęs iš Linkmenys: 1433 m. sausio 30–vasario 9 d. Livonijos kariuomenės reidas per šiaurės rytų Lietuvą ėjo ir per Linkmenų valsčių.
 - susijęs iš Vilniaus pilys: 1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
@@ -79,6 +83,7 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195036|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195037|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje.
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195038|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
+- susijęs iš Astravas: 1392 m. rugpjūčio 4 d. Astrave, netoli Lydos, buvo rašyti du aktai dėl Vytauto padėties.
 - susijęs iš Bajerburgo pilis: Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.
 - susijęs iš Helsinkai: 1888 m. Augustas Robertas Niemi įstojo į Helsinkų universitetą.
 - susijęs iš Vilniaus pilys: Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai.
@@ -90,22 +95,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - susijęs iš [[objektai/zodynas/Filosofijos kandidato laipsnis.md#claim-t-195457|Filosofijos kandidato laipsnis]]: A. R. Niemi 1891 m. gavo filosofijos kandidato laipsnį.
 - susijęs iš [[objektai/zodynas/Pusbernis.md#claim-t-192328|Pusbernis]]: Narbutas nurodė: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare netoli Kražių ardamas žemę iškasė figūrą.
 - susijęs iš [[objektai/zodynas/Regentas.md#claim-t-192327|Regentas]]: Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Metus dalijo į trylika mėnesių, kuriuos taip vadino: 1. siekis, 2. sausis, 3. kovas, 4. karvelis, arba balandis, 5. gegužė, 6. kirmėšų, arba birželis, 7. liepos mėnuo, 8. rugpjūtis, 9. rugsėjis, 10. šilo mėnuo, 11. spalių mėnuo, 12. lapkristis, 13. gruodis. Kožnas mėnuo turėjo saviep 27 dienas ir dalijos į tris dalis, arba taip vadinamas devintines, nuo devintosios dienos, kurioje svietas, visuotinai susirinkęs, meldės arba linksminos[43].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-09644
@@ -120,6 +109,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07719
     - t-07718
+    - t-07719
     - t-07720

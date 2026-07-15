@@ -52,9 +52,10 @@ Nenurodyta
   global_id: t-195328
   teiginys: "Akmenų krosnelė, kūrenama šviesai klojime."
   pagrindžia:
-    - c-177721
-    - c-177720
     - c-177719
+    - c-177720
+    - c-177721
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

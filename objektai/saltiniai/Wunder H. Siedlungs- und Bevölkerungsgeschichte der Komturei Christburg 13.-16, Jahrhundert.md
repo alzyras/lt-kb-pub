@@ -7,12 +7,12 @@ datos:
   - '1968 m.'
 date_start: '1968'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad wunder H.
   teiginys: "H. Wunder knyga apie Christburgo komtūrijos gyvenviečių ir gyventojų istoriją XIII-XVI a. išleista Vysbadene 1968 m."
   pagrindžia:
     - c-62004
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'H. Wunder knyga apie Christburgo komtūrijos gyvenviečių ir gyventojų istoriją XIII-XVI a. išleista Vysbadene 1968 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,12 @@ Dusburgietis teigia, kad wunder H.
 - id: c-62004
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Wunder H. Siedlungs- und Bevölkerungsgeschichte der Komturei Christburg 13.-16,
-    Jahrhundert.— Wiesbaden, 1968.
+    — Культура древней Руси/
+    Посвящается 40-летию научной деятельности H. Н. Воронина, М., 1966, с. 191—192.
+    Пашуто В. Т.  Реваншисты — псевдоисторики России.
+  citata_rodoma: "Wunder H. Siedlungs- und Bevölkerungsgeschichte der Komturei Christburg 13.-16,\nJahrhundert.— Wiesbaden, 1968."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

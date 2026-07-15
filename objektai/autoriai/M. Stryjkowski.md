@@ -43,21 +43,6 @@ Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p. (^15) Plg.
   teiginys: "M. Stryjkowskis parašė veikalą „Kronika Polska, Litewska etc.“, cituojamą 1846 m. leidimo pirmajame tome."
   pagrindžia:
     - c-33063
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^14) **PSRL, 17, 261, 314, 375, 440, 494p. M. Stryjkowski:** **_Kronika
-    Polska, Litewska etc_** **., I, 1846, 370-372 p.**
-    (^15) **Plg. Ad.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

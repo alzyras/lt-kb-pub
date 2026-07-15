@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-J. Dlugošo pasakojime Sandomiro kraštas niokojamas iki Šventojo Kryžiaus vienuolyno. Šventasis Kryžius yra 593 m aukščio viršūnė prie Opatovo.
+Šventasis Kryžius yra 593 m aukščio viršūnė prie Opatovo. Šventajame Kryžiuje XII a. buvo įkurtas benediktinų vienuolynas ir bažnyčia. Šventasis Kryžius yra 593 m aukščio Lysa Gora viršūnė Lenkijos Kielcų vaivadijos Šventojo Kryžiaus kalnuose.
 
 ## Teiginiai
 
@@ -59,32 +59,10 @@ J. Dlugošo pasakojime Sandomiro kraštas niokojamas iki Šventojo Kryžiaus vie
 <a id="claim-t-194043"></a>
 - t-004
   global_id: t-194043
-  teiginys: "Šventasis Kryžius — 593 m aukščio viršūnė ,.Lysa Gora” (apie 20 km I vakarus nuo Opatovo) Lenkijos Kielcų vaivadijos kalnų keteroje, vadinamoje Lysogory arba G ėry Swigtokrzyskie (Švento Kryžiaus kalnai)."
+  teiginys: "Šventasis Kryžius yra 593 m aukščio Lysa Gora viršūnė apie 20 km į vakarus nuo Opatovo, Lenkijos Kielcų vaivadijos Šventojo Kryžiaus kalnuose."
   pagrindžia:
     - c-170403
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Šventasis Kryžius — 593 m aukščio viršūnė ,.Lysa Gora” (apie
-    20 km I vakarus nuo Opatovo) Lenkijos Kielcų vaivadijos kalnų
-    keteroje, vadinamoje Lysogory arba G ėry Swigtokrzyskie (Švento
-    Kryžiaus kalnai). Ant šio kalno XII a, buvo įkurtas benediktinų
-    vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius
-    su tariamai stebuklingu Jėzaus Kristaus kryžiaus medžio gabalu
-    sidabriniuose apsoduose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
-
+- susijęs iš Šventojo Kryžiaus kalnai: Šventojo Kryžiaus kalnai yra Lenkijos Kielcų vaivadijos kalnų ketera, kurioje yra 593 m aukščio Šventojo Kryžiaus viršūnė.
 ## Citatos
 
 - id: c-170403
@@ -94,7 +72,7 @@ J. Dlugošo pasakojime Sandomiro kraštas niokojamas iki Šventojo Kryžiaus vie
   citata_originali: |
     Šventasis Kryžius — 593 m aukščio viršūnė ,.Lysa Gora” (apie
     20 km I vakarus nuo Opatovo) Lenkijos Kielcų vaivadijos kalnų
-    keteroje, vadinamoje Lysogory arba G ėry Swigtokrzyskie (Švento
+    keteroje, vadinamoje Lysogory arba Gėry Swigtokrzyskie (Švento
     Kryžiaus kalnai). Ant šio kalno XII a, buvo įkurtas benediktinų
     vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius
     su tariamai stebuklingu Jėzaus Kristaus kryžiaus medžio gabalu

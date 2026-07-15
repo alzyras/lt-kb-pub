@@ -8,13 +8,13 @@ datos:
   - '1223 m.'
 date_start: '1222'
 date_end: '1223'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,25 +61,6 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63419|Albrechtas (Romos karalius)]]: 1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi, bet popiežius Klemensas V vėliau tai atšaukė.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prancūzų ir flandrų kautynėse abi šalys prarado daug užmuštųjų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
-    prarado labai daug užmuštaisiais (Ptol. p. 1223),
-
-
-
-                 95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: 'Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -105,8 +86,7 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
 - id: c-63899
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
@@ -125,17 +105,17 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
 - id: c-63900
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
-    suėję  į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
+    suėję į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
     1222).
-      1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
-    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
+    1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
+    imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
     Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
-       Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
+    Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
+    95.
   citata_rodoma: "Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,\nsuėję  į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.\n1222).\n  1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,\nimperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė\nKlemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).\n   Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys\nprarado labai daug užmuštaisiais (Ptol. p. 1223),"
   statusas: verified
   teiginio_tipas: faktas

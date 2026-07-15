@@ -64,6 +64,7 @@ Nenurodyta
   teiginys: "Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti."
   pagrindžia:
     - c-56402
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

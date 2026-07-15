@@ -34,8 +34,8 @@ Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranaš
   teiginys: "Konradas Rufus žadėjo Ditrichui iš Ezbeko atiduoti savo žirgą, kai šis trauksis atgal."
   pagrindžia:
     - c-61000
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Konradas Rufus žadėjo Ditrichui iš Ezbeko atiduoti savo žirgą, kai šis trauksis atgal.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -59,15 +59,18 @@ Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranaš
 - id: c-61000
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 188"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai čia laivai
-    įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai
-    nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus. Viešpaties
-    padedami, kiti paspruko. Tas brolis Ditrichas iš Ezbeko iš anksto išsipranašavo sau mirtį,
-    kalbėdamasis su broliu Konradu Rufu, kuris jam žadėjo atiduoti savo žirgą, kai trauks
-    atgal, o tas tarė: „Man pakanka savo žirgo, nes manęs netrukus gyvo nebematysi“.
+    Vis dėlto, kai
+    Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
+    ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
+    bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
+    kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti. Vis dėlto
+    po 14 dienų Karaliaučiaus pilyje magistro bei brolių akivaizdoje jis atskleidė visas šios
+    atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus. Todėl magistras ir
+    kiti, turėdami omenyje, kad nebaudžiamas nusikaltimas skatina daugiau nusikalsti,
+    įsakė visus, kurie turėjo šiokio tokio ryšio su tuo šlykščių nusižengimu, teisingojo dievo
+    nuosprendžiu visaip iškankintus nužudyti, ir šitaip krikščionims buvo sugrąžinta taika.
   citata_rodoma: "Tas brolis Ditrichas iš Ezbeko iš anksto išsipranašavo sau mirtį,\nkalbėdamasis su broliu Konradu Rufu, kuris jam žadėjo atiduoti savo žirgą, kai trauks\natgal, o tas tarė: „Man pakanka savo žirgo, nes manęs netrukus gyvo nebematysi“."
   statusas: verified
   teiginio_tipas: faktas

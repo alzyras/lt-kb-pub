@@ -13,13 +13,13 @@ datos:
   - '1930 m.'
 date_start: '1262'
 date_end: '1930'
+amziai:
+  - 'XIII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIII'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -68,8 +68,8 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   teiginys: "„Regesta Lithuaniae“ pirmą tomą parengė H. Paszkiewiczius, jis išleistas Varšuvoje 1930 m."
   pagrindžia:
     - c-61561
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 1292 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -86,72 +86,20 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Regesta Lithuaniae Nr. 393 siejamas su 1262 m. Mindaugo organizuotu žygiu, kuriam vadovavo Treniota.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie daugy­
-                                  bės krikščionių žūtį
-
-      Kai  brolis Heidenreichas, Kulmo vyskupas, šventino Torunės ligoninės koplyčią,
-    buvusią už sienų, prūsai, gerai suprasdami šių apeigų reikšmę, subūrė kariuomenę,
-    žiauriai užpuolė žmones, grįžtančius iš šventinimo apeigų, išžudė vyrus, o moteris ir
-
-      436  D.— Trinota filius regis Lethowinorum, Jer.— Des kunigis von Littouwin sun
-    Trînôte. Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ryšį su
-    Mindaugu, nes 1262 m. žygį (jis datuojamas ir 1263 m.) organizavo Mindaugas, o tuo
-    metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae,
-    Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra
-    R., Lietuva..., p. 153).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: '„Regesta Lithuaniae“ puslapis 144 nurodomas prie 1292 m. žygio ir pasakojimo apie nuostabų brolių išsigelbėjimą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie nuostabų brolių išsigelbėjimą vieno žygio metu
-
-
-      537 1292 m. žygis (SRP, 2, p. 155; Regesta Lithuaniae..., p. 144).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: '„Regesta Lithuaniae“ pirmą tomą parengė H. Paszkiewiczius, jis išleistas Varšuvoje 1930 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Regesta Lithuaniae.— T. I / Recensuit H. Paszkiewicz.— Varsoviae, 1930.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-61557
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 183"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų
-
-      540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p.
-    156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162).
+    255 (248). Apie Paštuvos ir Gaižuvos valsčių nuniokojimą
+    1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
+    savo kariuomene įsiveržti į Ariogalos valsčių, bet leidosi atkalbamas. Tada jis padalijo
+    savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o
+    kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei
+    paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.
+  citata_rodoma: "Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų\n\n  540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p.\n156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -162,8 +110,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
 - id: c-61558
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 143"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie daugy­
                                   bės krikščionių žūtį
@@ -188,13 +135,10 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
 - id: c-61559
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 182"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie nuostabų brolių išsigelbėjimą vieno žygio metu
-
-
-      537 1292 m. žygis (SRP, 2, p. 155; Regesta Lithuaniae..., p. 144).
+    537  1292 m. žygis (SRP, 2, p. 155; Regesta Lithuaniae..., p. 144).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -205,8 +149,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
 - id: c-61561
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Regesta Lithuaniae.— T. I / Recensuit H. Paszkiewicz.— Varsoviae, 1930.
   statusas: verified

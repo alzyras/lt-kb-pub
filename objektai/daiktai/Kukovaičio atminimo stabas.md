@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - simbolis
   - daiktas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -51,53 +50,36 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-187512"></a>
+<a id="claim-t-198531"></a>
 - t-001
-  global_id: t-187512
+  global_id: t-198531
   teiginys: "Lietuvos metraštis teigia, kad Utenis tėvui Kukovaičiui atminti padirbo stabą ir pastatė jį prie Šventosios upės ant kalno netoli Deltuvos."
   pagrindžia:
-    - c-170463
-## Reikšmingi paminėjimai
+    - c-180550
 
-- c-001
-  santrauka: 'Utenis tėvui Kukovaičiui atminti padirbo stabą ir pastatė jį prie Šventosios upės ant kalno netoli Deltuvos.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O paskui mirė didysis Lietuvos ir Žemaičių kuni­
-    gaikštis Kukovaitis, buvęs labai teisingas ir malonin­
-    gas savo valdiniams. Ir savo įpėdiniu Lietuvos ir Že­
-    maičių kunigaikštystėje paliko savo sūnų Utenį2 :l.
-    Tasai sūnus, mylėdamas savo tėvą, didįjį kunigaikštį
-    Kukovaitį, savo tėvui atminti padirbo stabą ir pastatė
-    jį prie Šventosios upės ant vieno kalno, netoli Deltuvos.
-    s i
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
-- id: c-170463
+- id: c-180550
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
   citata_originali: |
     O paskui mirė didysis Lietuvos ir Žemaičių kuni­
     gaikštis Kukovaitis, buvęs labai teisingas ir malonin­
     gas savo valdiniams. Ir savo įpėdiniu Lietuvos ir Že­
-    maičių kunigaikštystėje paliko savo sūnų Utenį2 :l.
+    maičių kunigaikštystėje paliko savo sūnų Utenį2:l.
     Tasai sūnus, mylėdamas savo tėvą, didįjį kunigaikštį
     Kukovaitį, savo tėvui atminti padirbo stabą ir pastatė
     jį prie Šventosios upės ant vieno kalno, netoli Deltuvos.
     s i
-  citata_rodoma: "O paskui mirė didysis Lietuvos ir Žemaičių kuni­\ngaikštis Kukovaitis, buvęs labai teisingas ir malonin­\ngas savo valdiniams. Ir savo įpėdiniu Lietuvos ir Že­\nmaičių kunigaikštystėje paliko savo sūnų Utenį2 :l.\nTasai sūnus, mylėdamas savo tėvą, didįjį kunigaikštį\nKukovaitį, savo tėvui atminti padirbo stabą ir pastatė\njį prie Šventosios upės ant vieno kalno, netoli Deltuvos.\ns i"
+  citata_rodoma: "O paskui mirė didysis Lietuvos ir Žemaičių kuni­\ngaikštis Kukovaitis, buvęs labai teisingas ir malonin­\ngas savo valdiniams. Ir savo įpėdiniu Lietuvos ir Že­\nmaičių kunigaikštystėje paliko savo sūnų Utenį2 :l.  \nTasai sūnus, mylėdamas savo tėvą, didįjį kunigaikštį \nKukovaitį, savo tėvui atminti padirbo stabą ir pastatė \njį prie Šventosios upės ant vieno kalno, netoli Deltuvos.\ns i"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187512
+    - t-198531

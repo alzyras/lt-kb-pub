@@ -48,9 +48,9 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   pagrindžia:
     - c-43853
 
-<a id="claim-t-80139"></a>
+<a id="claim-t-80134"></a>
 - t-002
-  global_id: t-80139
+  global_id: t-80134
   teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį."
   pagrindžia:
     - c-77001
@@ -61,6 +61,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   teiginys: "Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti."
   pagrindžia:
     - c-32422
+    - c-167766
 
 <a id="claim-t-80138"></a>
 - t-004
@@ -68,20 +69,6 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   teiginys: "1409 m. nuo Skirsnemunės pradėtos deginti kryžiuočių pilys, o kryžiuočiai buvo išvyti iš Žemaičių."
   pagrindžia:
     - c-77004
-
-<a id="claim-t-80139"></a>
-- t-005
-  global_id: t-80139
-  teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį."
-  pagrindžia:
-    - c-77001
-
-<a id="claim-t-184401"></a>
-- t-006
-  global_id: t-184401
-  teiginys: "Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti."
-  pagrindžia:
-    - c-167766
 - susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1409 m.md#claim-t-67016|Žemaičių sukilimas 1409 m]]: 1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą.
 - susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1409 m.md#claim-t-67016|Žemaičių sukilimas 1409 m]]: 1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą.
 - susijęs iš [[objektai/asmenys/Vaitiekus (Lucko vyskupas).md#claim-t-87931|Vaitiekus (Lucko vyskupas)]]: 1507 m. Melnike Vaitiekus dalyvavo patvirtinant Trakų žydų privilegijas kaip Lucko vyskupas.
@@ -101,109 +88,6 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 - susijęs iš Tverė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais.
 - susijęs iš Tverė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais.
 - susijęs iš Odojevas: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila patvirtino sutartį su Ordinu ir sustiprino ryšius su Odojevo kunigaikščiais.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Su kryžiuočiais drauge buvo ir Vytautas. Dėl vandens seklumo jie
-    nuo Skirsnemunės nebegalėjo toliau plaukti, o Jogaila iš Dubysos
-    žiočių salos, kur buvo atvykęs vėl su visa savo gimine, nutarė
-    nesijudinti.
-    Per įkyrias derybas Jogailai vis atsisakinėjant nuvykti magis­
-    tro pasirinkton vieton, šis perpykęs pareiškė : « Buvote Kęstučio
-    išvyti kunigaikščiai, ir tik ordinas Jums padėjo sugrįžti ».
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: '1431 m. birželio 19 d. Skirsnemunėje Švitrigaila pasirašė sutartį su Ordino kryžiuočių ir Livonijos šakomis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kilo
-    karinė įtampa tarp Lietuvos ir Lenkijos.
-    1431 m. liepos viduryje Lenkijos karalius
-    Jogaila, siekdamas išlaikyti tampresniame
-    pavaldume tėvoninę Lietuvą, reikalavo pa-
-    klusnumo iš jaunesniojo brolio. Šis vedė
-    derybas ir pasirašė sutartį su Ordinu (kry-
-    žiuočių ir Livonijos šakomis), „Romos
-    karaliaus garbei“ 1431 m. birželio 19 d.,
-    Skirsnemunėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1432 m. pradžioje derybos tarp lenkų
-    ir lietuvių strigo (tuo metu Jogaila sto-
-    vėjo Liubline, Švitrigaila su kryžiuo-
-    čių atstovais - Brastoje). Gegužės 15 d.
-
-    Skirsnemunėje Švitrigaila ir Ordinas
-    patvirtino prieš metus pasirašytą sutartį,
-    taip pat Švitrigaila sustiprino ryšius su
-    Naugardu, Pskovu, Mozūrija, Odojevo ir
-    Tverės kunigaikščiais. Tuo tarpu Jogailos
-    Lenkijos santykiai su Ordinu aštrėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-005
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet
-    Vytautas nesiskubino ir vis tęsė derybas. Bijodamas sukilimo,
-    ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis
-    sulaukė visuotinio sukilimo. Vytautas pats dar laikėsi nuošaliai,
-    bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-
-    dėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,
-    o jie patys buvo išvyti iš Žemaičių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ankstybesniu susitarimu Dubysos salon išsirengė vyriausias magis­
-    tras Konradas Zöllner von Rotenstein, o su juo drauge daug kom­
-    tūrų ir du vyskupai, kurie turėjo lietuvių kunigaikščius krikštyti.
-    Su kryžiuočiais drauge buvo ir Vytautas. Dėl vandens seklumo jie
-    nuo Skirsnemunės nebegalėjo toliau plaukti, o Jogaila iš Dubysos
-    žiočių salos, kur buvo atvykęs vėl su visa savo gimine, nutarė
-    nesijudinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 ## Citatos
 
 - id: c-32422
@@ -271,7 +155,6 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80134
-    - t-80139
 
 - id: c-77004
   redaktorius: "A. Šapoka"
@@ -309,8 +192,6 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184401
 
 ## Ryšiai
 - Puolė Skirsnemunę: [[objektai/grupes/Žemaičiai]]

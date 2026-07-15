@@ -42,24 +42,6 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
   teiginys: "1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių."
   pagrindžia:
     - c-87687
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Buvo laikai, kad jo būklė būdavo labai kritiška. Iš karto atsi­
-    rasdavo net keli „saarai“ (pav. 1427 mt. pradžioje jų buvo dar
-    5), bet 1427 met. gale Vytauto palaikomasis Machmetas įsiga­
-    lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
-    marių pakraščio ir Krymo totorius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

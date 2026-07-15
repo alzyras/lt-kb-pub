@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvos metraštis pasakoja, kad žemaičiai nenorėjo paklusti Kazimierui, palaikė Mykoliuko pusę ir išsirinko savo seniūną. Lietuvos metraštis pasakoja, kad Kazimieras ruošėsi jėga susigrąžinti Žemaitiją ir su kariuomene apsistojo Kaune.
+Lietuvos metraštis pasakoja, kad Kazimieras, priėmęs Kaune prisiekusius žemaičius, patvirtino jų privilegijas ir paliko Kantautą seniūnu trejiems metams.
 
 ## Laikotarpis ir datos
 
@@ -51,36 +51,6 @@ Nenurodyta
   teiginys: "Lietuvos metraštis pasakoja, kad Kazimieras, priėmęs Kaune prisiekusius žemaičius, patvirtino jų privilegijas ir paliko Kantautą seniūnu trejiems metams."
   pagrindžia:
     - c-169904
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos metraštis pasakoja, kad Kazimieras, priėmęs Kaune prisiekusius žemaičius, patvirtino jų privilegijas ir paliko Kantautą seniūnu trejiems metams.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O paskui jis prikalbėjo savo
-    giminaitį, kurį žemaičiai buvo išsirinkę savo seniūnu,
-    kad jis nestotų už karą prieš taip didį valdovą ir, svar­
-    biausia. prieš teisėtą Lietuvos paveldėtoją a .
-    Tas Kantauto giminaitis suprato, kad negalima sto­
-    ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę
-    tarnauti didžiajam kunigaikščiui Kazimierui, ir visi
-    kaip vienas atvyko į Kauną pas didįjį kunigaikštį Ka­
-    zimierą, visi žemai lenkdamiesi prisiekė jam ištikimai
-    tarnauti
-    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
-    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
-    turtą. Patvirtinęs jų privilegijas priesaikomis1 9  ir pa­
-    jungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­
-    lai palikti Kantautą bent trejus metus Žemaičių seniū­
-    nu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­
-    gaikščiui Kazimierui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -89,23 +59,28 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    O paskui jis prikalbėjo savo
-    giminaitį, kurį žemaičiai buvo išsirinkę savo seniūnu,
-    kad jis nestotų už karą prieš taip didį valdovą ir, svar­
-    biausia. prieš teisėtą Lietuvos paveldėtoją a .
-    Tas Kantauto giminaitis suprato, kad negalima sto­
-    ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę
-    tarnauti didžiajam kunigaikščiui Kazimierui, ir visi
-    kaip vienas atvyko į Kauną pas didįjį kunigaikštį Ka­
-    zimierą, visi žemai lenkdamiesi prisiekė jam ištikimai
-    tarnauti
-    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
-    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
-    turtą. Patvirtinęs jų privilegijas priesaikomis1 9  ir pa­
-    jungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­
-    lai palikti Kantautą bent trejus metus Žemaičių seniū­
-    nu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­
-    gaikščiui Kazimierui.
+    Didysis kunigaikštis Kazimieras, sutelkęs visas savo
+    Lietuvos pajėgas, tą patį rudenį atėjo prie Smolensko,
+    pats vadovaudamas, ir atsiėmė Smolenską9, o kuni­
+    gaikštis Jurgis Lengvenaitis, bijodamas Kazimiero rūs­
+    tybės, su kunigaikštiene pabėgo į Didįjį Naugardą l0.
+    Ir didysis kunigaikštis vėl perduoda Smolensko val­
+    dymą Andriui Sakavičiui ir išvyksta atgal į Vilnių, sa­
+    vo sostinę.
+    O kunigaikštis Jurgis Lengvenaitis, būdamas Didžia­
+    jame Naugarde ", pradėjo suprasti negudriai pasielgęs,
+    stodamas prieš didįjį kunigaikštį Kazimierą, iš kurio
+    tiek maloningumo buvo patyręs, nes didysis kunigaikš­
+    tis Žygimantas atėmė iš jo tėvoniją, o didysis kuni-
+    /33
+
+    gaikštis Kazimieras tėvoniją jam buvo sugrąžinęs. Ir
+    vis atsimindamas didžiojo kunigaikščio Kazimiero ma­
+    lonę ir graudžiai verkdamas, ryžosi, dievui taip patvar­
+    kius, siųsti savo pasiuntinius pas savo kunigaikštį, pas
+    didžiojo kunigaikščio Kazimiero globėją Joną Goštau­
+    tą, nes Jonas Goštautas buvo kunigaikščio Jurgio vai­
+    kų krikštatėvis ir todėl jiedu bičiuliškai sugyveno.
   citata_rodoma: "Ir didysis kunigaikštis Kazimieras juos priėmė, pri­\nsiekė elgsiąsis su jais maloningai ir patiksiąs jiems jų\nturtą. Patvirtinęs jų privilegijas priesaikomis1 9  ir pa­\njungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­\nlai palikti Kantautą bent trejus metus Žemaičių seniū­\nnu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­\ngaikščiui Kazimierui."
   statusas: verified
   teiginio_tipas: faktas

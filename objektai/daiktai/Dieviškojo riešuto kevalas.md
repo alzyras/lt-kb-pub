@@ -46,33 +46,9 @@ Nenurodyta
 <a id="claim-t-194799"></a>
 - t-001
   global_id: t-194799
-  teiginys: "Ši sakmė yra dviejų dalykų suplakimas, primenantis No jaus tvaną ir Deukalioną, mat riešuto kevalas yra laivo simbo lis, dviejų žmonių šokinėjimas per žemės kaulus primena Deu kalioną ir Pirą, iš kurių kildinosi graikai."
+  teiginys: 'Ši sakmė yra dviejų dalykų suplakimas, primenantis No jaus tvaną ir Deukalioną, mat riešuto kevalas yra laivo simbo lis, dviejų žmonių šokinėjimas per žemės kaulus primena Deu kalioną ir Pirą, iš kurių kildinosi graikai.'
   pagrindžia:
     - c-177195
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ši sakmė yra dviejų dalykų suplakimas, primenantis No jaus tvaną ir Deukalioną, mat riešuto kevalas yra laivo simbo lis, dviejų žmonių šokinėjimas per žemės kaulus primena Deu kalioną ir Pirą, iš kurių kildinosi graikai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Todėl ir šiandien vyrauja neapykanta tarp tautų, kurios ne­
-    kenčia ir lietuvių.
-    90
-
-    ## Puslapis 90
-
-    Ši sakmė yra dviejų dalykų suplakimas, primenantis No­
-    jaus tvaną ir Deukalioną, mat riešuto kevalas yra laivo simbo­
-    lis, dviejų žmonių šokinėjimas per žemės kaulus primena Deu­
-    kalioną ir Pirą, iš kurių kildinosi graikai. Tautų neapykanta
-    yra senų pirmykščių laikų palikimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -97,4 +73,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194799
+    - t-001

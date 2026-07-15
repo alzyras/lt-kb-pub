@@ -12,14 +12,14 @@ datos:
   - '2026 m.'
 date_start: '1772'
 date_end: '2026'
+amziai:
+  - 'XVIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XVIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -68,68 +68,8 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginys: "1839 m. Teodoras Narbutas gavo imperatoriaus dovaną po „Lietuvių mitologijos“ įvertinimo Peterburge."
   pagrindžia:
     - c-175524
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    mą – jos gamino techninės paskirties, gana siauro profilio produkciją, ku-
-    ria dažniausiai aprūpindavo visą didžiulę šalį. Nors pagal mėsos ir pieno
-    pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje
-    SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į
-    kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai –
-    Maskva ir Leningradas (dabar Sankt Peterburgas), o įmonių gaunamos
-    pajamos patekdavo į bendrą SSRS biudžetą.
-    Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Mas-
-    kvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog
-    čia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios rei-
-    kalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo
-    visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
-    laiku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1843 m. Teodoras Narbutas Peterburgo leidėjams siūlė rusiškąjį „Lietuvių mitologijos“ variantą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    logijos“ variantas gali būti datuojamas 1841 —1842 me­
-    tais, vadinasi, jau- po visų LTI tomų pasirodymo, ir yra
-    būtent tas, kurį istorikas 1843 metais siūlė Peterburgo lei­
-    dėjams. Deja, jokia data rankraštyje nenurodyta. įdomu
-    ir tai, jog mus pasiekęs rusiškasis „Lietuvių mitologijos“
-    nuorašas yra be lentelių, t. y, iliustracijų, kurios puošė
-    lenkiškąjį tomą.
-    Nepavykus realizuoti rusiškosios „Lietuvių mitologi­
-    jos“ išleidimo idėjų, T. Narbutas visą dėmesį sukoncent­
-    ravo į lenkiškojo teksto pataisas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
-    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
-    seimas Varšuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: '1839 m. Teodoras Narbutas gavo imperatoriaus dovaną po „Lietuvių mitologijos“ įvertinimo Peterburge.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -181,8 +121,7 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
 - id: c-175132
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 455"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 455."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     logijos“ variantas gali būti datuojamas 1841 —1842 me­
     tais, vadinasi, jau- po visų LTI tomų pasirodymo, ir yra
@@ -221,17 +160,18 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
 - id: c-175524
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 453"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 453."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vadinasi, su­
-    manymas siekia daug ankstesnius laikus nei „Lietuvių mi­
-    tologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­
-    bės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­
-    vo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-
-    išleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­
-    nės T. Narbuto korespondencijos, istorikas daugelį metų
-    ieškojo galimybės išspausdinti šio tomo vertimą.
+    Vargu ar būtų galima vienareikšmiškai pasakyti, kas
+    paskatino T. Narbutą išversti į rusų kalbą „Lietuvių mi­
+    tologiją“. Beje, buvo išverstas ne tik pirmas tomas —
+    mūsų dienas pasiekė ir antro LTI tomo rusiškasis va­
+    riantas, kuris datuojamas 1835 metų gegužės mėnesiu;
+    vadinasi, jis buvo parengtas dar nepasirodžius lenkiška­
+    jam šio tomo leidimui4. Si aplinkybė leidžia daryti prie­
+    laidą, jog abu tomai į rusų kalbą buvo verčiami tiesiog
+    iš rankraščio, kartu su lenkiškuoju variantu.
+  citata_rodoma: "Vadinasi, su­\nmanymas siekia daug ankstesnius laikus nei „Lietuvių mi­\ntologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­\nbės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­\nvo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-\nišleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­\nnės T. Narbuto korespondencijos, istorikas daugelį metų\nieškojo galimybės išspausdinti šio tomo vertimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

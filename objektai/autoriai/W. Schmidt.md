@@ -44,23 +44,6 @@ Schmidt, W.
   teiginys: "W. Schmidt parašė veikalus „Ursprung und Werden der Religion“ ir „Der Ursprung der Gottesidee“."
   pagrindžia:
     - c-33200
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    II, Torino 1965, 807-857 p. — Sadaus­
-    kaitė, I. : _Dėl mirusiųjų deginimo papročio,_ ILKI, t. 3, 1961, 125-131 p.
-    — Saulė (jos kultas), MLTE, III, 164-165 p. — Schmidt, W. : Ursprung
-    und Werden der Religion, 1930. — (”) Der Ursprung der Gottesidee, I :
-    Historisch-kritischer Teil, Münster i. W. 1912.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

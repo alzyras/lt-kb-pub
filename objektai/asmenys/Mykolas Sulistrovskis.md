@@ -35,26 +35,6 @@ Prieš priemiesčius stovėjo 2-asis regimentas, vadovaujamas Karolio Moravskio 
   teiginys: "Mykolas Sulistrovskis vadovavo 1-ajai tautinės kavalerijos brigadai prie Lietuvos Brastos."
   pagrindžia:
     - c-44469
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prieš priemiesčius stovėjo 2-asis regi-
-    mentas, vadovaujamas Karolio Moravskio
-    ir 8-asis, vadovaujamas šefo Severino Že-
-    vuckio bei Juozapo Bielako priešakinės sar-
-    gybos pulkas su 1-osios tautinės kavalerijos
-    brigada, vadovaujama Mykolo Sulistrovskio.
-    Rusijos kariuomenė prie Lietuvos Brastos
-    priartėjo liepos 22 d. vakare.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

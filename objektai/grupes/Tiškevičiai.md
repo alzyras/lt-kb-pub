@@ -36,31 +36,23 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
   pagrindžia:
     - c-22785
 - susijęs iš [[objektai/asmenys/Eustachijus Tiškevičius.md#claim-t-190853|Eustachijus Tiškevičius]]: Eustachijus Tiškevičius kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.
-- susijęs iš [[objektai/asmenys/Jurgis Tiškevičius.md#claim-t-186051|Jurgis Tiškevičius]]: Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivaną pavadino jį Astrachanės caru.
+- susijęs iš [[objektai/asmenys/Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.).md#claim-t-200475|Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.)]]: 1751 m. Juozapas Tiškevičius atvyko į Vilnių kartu su Ona Pociejūte Tiškevičiene.
+- susijęs iš [[objektai/asmenys/Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.).md#claim-t-200476|Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.)]]: Juozapas Tiškevičius buvo Vilniaus tijūnas.
+- susijęs iš [[objektai/asmenys/Jurgis Tiškevičius.md#claim-t-186051|Jurgis Tiškevičius]]: Kojelavičiaus pasakojime Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivaną pavadino jį Astrachanės caru.
+- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200487|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: Martynas Tiškevičius buvo Vitebsko kaštelionas.
+- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200488|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: 1757 m. Vitebsko kaštelionas Martynas Tiškevičius tarėsi su Jonu Dominyku Lopacinskiu dėl seimelio reikalų ir Sapiegų interesų.
+- susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200503|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: 1755 m. į Tomo Ignoto Zenkovičiaus konsekraciją atvyko Mikalojus Lopacinskis, Tadas Oginskis, Stanislovas Bužinskis ir Antanas Dominykas Tiškevičius.
 - susijęs iš Eustachijus Tiškevičius, Rzut oka na irodia archeologii krajomej: Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje.
+- susijęs iš [[objektai/asmenys/Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.).md#claim-t-200475|Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.)]]: 1751 m. Juozapas Tiškevičius atvyko į Vilnių kartu su Ona Pociejūte Tiškevičiene.
+- susijęs iš [[objektai/asmenys/Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.).md#claim-t-200476|Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.)]]: Juozapas Tiškevičius buvo Vilniaus tijūnas.
+- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200487|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: Martynas Tiškevičius buvo Vitebsko kaštelionas.
+- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200488|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: 1757 m. Vitebsko kaštelionas Martynas Tiškevičius tarėsi su Jonu Dominyku Lopacinskiu dėl seimelio reikalų ir Sapiegų interesų.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176101|Vilniaus kapitula]]: Apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos Akademijos kolegijos rektoriams perleistas patronato teises.
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172820|Vilniaus magistratas]]: 1654 m. liepos 4 d. įvykdytas sprendimas byloje dėl patronato teisių patenkino Vilniaus magistrato ieškinį.
+- susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200619|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1757 m. Lopacinskis su Vitebsko kaštelionu Martynu Tiškevičiumi tarėsi dėl seimelio reikalų ir Sapiegų interesų.
 - susijęs iš 1581 m. apaštališkojo nuncijaus patvirtinimas dėl Jus Patronatus: 1581 m. liepos 7 d. apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos rektoriams perleistas Jus Patronatus teises.
 - susijęs iš 1654 m. asesorių sprendimas ir karaliaus raštas dėl ginčo su Vilniaus magistratu: 1654 m. kovo 2 d. asesorių sprendimas byloje su Vilniaus magistratu ir tos pačios dienos karaliaus raštas buvo susiję su sprendimo vykdymu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK politinės tautos prielaidas kūrė LDK karinės
-    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
-    kuriose lietuviai kovojo petys į petį su rusėnais.
-    Iš įtakingiausių XVI a. giminių lietuviškos kilmės yra tik Goštautai ir
-    Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,
-    Oginskiai ir kt.  – rusėnai, tačiau laikantys save LDK piliečiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
+- susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200619|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1757 m. Lopacinskis su Vitebsko kaštelionu Martynu Tiškevičiumi tarėsi dėl seimelio reikalų ir Sapiegų interesų.
 ## Citatos
 
 - id: c-22785

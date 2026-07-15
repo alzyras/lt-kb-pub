@@ -35,27 +35,6 @@ Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją, 
   teiginys: "Po Žalgirio mūšio Lietuvoje bandyta steigti atskirą katalikų bažnytinę provinciją."
   pagrindžia:
     - c-24919
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po Žalgirio mūšio Lietuvoje bandyta steigti atskirą katalikų bažnytinę provinciją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai
-    padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-
-    to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
-    įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
-    sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
-    Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
-    ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
-    Katalikų bažnyčia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

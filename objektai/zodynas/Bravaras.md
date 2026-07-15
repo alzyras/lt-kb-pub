@@ -3,12 +3,12 @@ tipas: zodyno_irasas
 pavadinimas: Bravaras
 sukurta: '2026-07-12'
 variantai:
-  - bravarėlį
-  - bravarą
-  - bravare
+  - 'bravarėlį'
+  - 'bravarą'
+  - 'bravare'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -60,6 +60,7 @@ Terminas vartojamas XIX a. kaimo gėrimo ir dvaro ūkio kontekste.
   teiginys: "Bravaras šiame šaltinyje yra vieta, kur iš salyklos išvaroma degtinė."
   pagrindžia:
     - c-178017
+
 ## Citatos
 
 - id: c-178017

@@ -43,30 +43,13 @@ Dusburgietis teigia, kad varakauskas R.
   teiginys: "R. Varakausko straipsnis apie lietuvių kovą su vokiškaisiais agresoriais Mindaugo laikotarpiu paskelbtas 1958 m."
   pagrindžia:
     - c-61978
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'R. Varakausko straipsnis apie lietuvių kovą su vokiškaisiais agresoriais Mindaugo laikotarpiu paskelbtas 1958 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Varakauskas R. Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu
-    (1236—1263).— Vilniaus valstybinio pedagoginio instituto mokslo darbai. Visuomeniniai
-    mokslai.—V., 1958, t. 4, p. 111—143.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61978
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Varakauskas R. Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu
     (1236—1263).— Vilniaus valstybinio pedagoginio instituto mokslo darbai. Visuomeniniai

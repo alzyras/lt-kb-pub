@@ -40,7 +40,6 @@ Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo k
 - susijęs iš [[objektai/autoriai/Kadlubekas.md#claim-t-191580|Kadlubekas]]: Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotvingiai kovojo šalia mozūrų ir prūsų.
 - susijęs iš [[objektai/autoriai/Vincentas Kadlubekas.md#claim-t-190817|Vincentas Kadlubekas]]: Teodoro Narbuto cituotas Vincentas Kadlubekas aprašė Maslavo karą su Lenkijos karaliumi Kazimieru, kurio kariuomenėje kovojo jotvingiai, mozūrai ir prūsai.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo kariuomenėje kovėsi jotvingiai, mozūrai ir prūsai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -67,18 +66,21 @@ Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo k
 - id: c-174177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 115"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 115."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Lais­
-    vų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­
-    lesėje.
-    109
-    Tų įvykių senumą ir istorinį tikroviškumą patvirtina
-    mūsų lenkų istorikas, cituodamas Kadlubeką, kuris ap­
-    rašė, kaip Maslavas kariavo su lenkų karalium Kazimie­
-    ru; jo kariuomenėje jotvingiai kovojo šalia mozūrų ir
-    prūsų. Tą patį sako ir Bogufalas*.
+    Vadinasi, iš­
+    plėtoję Naruševičiaus nuomonę, pateiksime dar vieną jo
+    teiginį: jis . aptinka senovės frankų istorijos rašytojo Jo­
+    no Jurgio Ekarto** žinių apie vieną gentį, kurią sudaro
+    miškų gyventojai Syluicolae\ ši gentis buvusi jazigai. Ne­
+    paisant to, jog šis istorikas daro klaidingas išvadas apie
+    čekų kilmę, iš jazigų, raštijoje liko jo iš kitų kronikų pa­
+    sisemtas pėdsakas, kad iš tikrųjų nuo seno jazigai gyve­
+    no nuošaliose ir miškingose mūsų kraštų vietovėse. Tie
+    Ekarto Jazygae Sylvicolae, be kita ko, visiškai sutampa
+    su mūsų istorikų poleksėnais, o kartu neneigia, jog jie
+    nuo seno gyvenę Polesėje.
+  citata_rodoma: "Lais­\nvų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­\nlesėje.\n109\nTų įvykių senumą ir istorinį tikroviškumą patvirtina\nmūsų lenkų istorikas, cituodamas Kadlubeką, kuris ap­\nrašė, kaip Maslavas kariavo su lenkų karalium Kazimie­\nru; jo kariuomenėje jotvingiai kovojo šalia mozūrų ir\nprūsų. Tą patį sako ir Bogufalas*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

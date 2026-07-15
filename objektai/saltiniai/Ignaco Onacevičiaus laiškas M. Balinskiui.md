@@ -35,28 +35,6 @@ Balinskiui laišką, kuriame apibūdino liūdną istorijos mokslo būklę.
   teiginys: "Ignas Onacevičius iš Karaliaučiaus parašė M. Balinskiui laišką apie liūdną istorijos mokslo būklę."
   pagrindžia:
     - c-84406
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ignas Onacevičius iš Karaliaučiaus parašė M. Balinskiui laišką apie liūdną istorijos mokslo būklę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­
-    torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
-    rašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos
-    mokslo būklę. „Du šimtai penkiasdešimt metų praėjo nuo Lie­
-    tuvos universiteto įkūrimo, o nė vienas iš jo mokinių, nors ir
-    gausiai Lietuvos duona aprūpintas, neparodė didesnio noro pa­
-    sidomėti jos praeitimi. Ta tema bibliotekai jokių knygų nenu­
-    pirkta ir, atrodo, niekam nė į galvą neatėjo pasidomėti, koks
-    buvo krašto mokyklų ir jame gyvenančių žmonių likimas"6.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

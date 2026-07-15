@@ -7,13 +7,14 @@ datos:
   - '1263 m.'
 date_start: '1263'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - pilis
   - mūšis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -66,27 +67,15 @@ Nenurodyta
   pagrindžia:
     - c-63834
     - c-63835
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Prūsai beveik trejus metus laikė apsupę Vizenburgo pilį ir trimis apgulos mašinomis kasdien ją puolė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    117 (112). Apie tai, kaip buvo palikta Vizenburgo pilis
-
-      Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
-    mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio
-    vieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę
-    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
-    link Mazovijos kunigaikštystės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196977"></a>
+- t-003
+  global_id: t-196977
+  teiginys: "Mat Bartenšteino pilyje buvo vienas vyras, vardu Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų buvusi sunaikinta."
   pagrindžia:
-    - t-002
+    - c-63836
 
+## Reikšmingi paminėjimai
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -108,52 +97,15 @@ Nenurodyta
     - t-002
     - t-001
 
-- c-003
-  santrauka: '1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Neilgai trukus broliai, pristigę
-    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
-    link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi
-    juos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,
-    pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,
-    bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
-    susidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris
-    tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Vizenburgo pilies kautynėse prūsai prie Vangrapės įveikė brolius ir nukovė dvidešimt brolių bei visą jų kariuomenę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391
-    juos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto
-    buvo susitarę. Šitai matydami, broliai sulipo į šalimais buvusį kalnelį ir ten ilgai narsiai
-    gynėsi, o šios grumtynės pareikalavo iš vienos ir kitos šalies daugybės aukų. Viešpačiui
-    leidus, prūsai galop paėmė viršų ir nukovė dvidešimt brolių bei visą jų kariuomenę.
-  citata_rodoma: ''
-  statusas: verified
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
 ## Citatos
 
 - id: c-63834
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 126"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     117 (112). Apie tai, kaip buvo palikta Vizenburgo pilis
-
-      Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
+    Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
     mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio
     vieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę
     maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
@@ -169,9 +121,9 @@ Nenurodyta
 - id: c-63835
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 126"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie tai, kaip buvo palikta Vizenburgo pilis
     Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
     mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio
     vieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę
@@ -187,23 +139,21 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62952
     - t-62951
+    - t-62952
 
 - id: c-63836
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 126"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Neilgai trukus broliai, pristigę
-    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
-    link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi
-    juos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,
-    pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,
-    bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
-    susidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris
-    tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.
+    broliai padarė daug nuostabių darbų. Mat Bartenšteino pilyje buvo vienas vyras, vardu
+    Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų
+    buvusi sunaikinta. Dėl to jie nutarė klasta jį išvilioti ir nužudyti; išmėginę daug visokių
+    priemonių, galop ėmėsi štai šio būdo. Paspendę pasalas, pasiuntė vieną įgudusį kariauti
+    vyrą, kuris nelyginant Galijotas, kvietęs į kovą Izraelio sūnų pulkus, pradėtų kiršinti
+    apsuptųjų kariuomenę. Sis didžiu balsu šaukė: „Jeigu pilyje yra nors vienas vyras, kuris
+    drįstų susigrumti su manimi dvikovoje, tegu išeina štai čia iš pilies“.
   citata_rodoma: "Neilgai trukus broliai, pristigę\nmaisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę\nlink Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi\njuos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,\npasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,\nbado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame\nsusidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris\ntada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė."
   statusas: verified
   teiginio_tipas: faktas
@@ -211,3 +161,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62951
+    - t-196977

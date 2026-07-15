@@ -64,39 +64,6 @@ Nenurodyta
   teiginys: "1921 m. Lietuvos ir Latvijos siena buvo išvesta maždaug buvusios Kuršo gubernijos riba, padarius nedidelių pakeitimų abiejų valstybių naudai."
   pagrindžia:
     - c-66882
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1921 m. siena tarp
-    Lietuvos ir Latvijos buvo išvesta maždaug buvusios Kuršo gu-
-    bernijos riba, bet buvo padaryta mažų pakeitimų vienur Lietuvos,
-    kitur Latvijos naudai (Latvija iš buvusios Kauno gubernijos gavo
-    290 kv. km., o Lietuva iš Kuršo gub.— vos 83 kv. km.,— žiūr. 577
-    psl.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po karo susikūrė nepriklausoma Latvių valstybė. Vedant
-    Lietuvos Latvijos sieną, prie Latvijos buvo prijungti kai kurie
-    lietuviški valsčiai (ypač Alūkstos apskr.), o kai kur vienas kitas
-    latviškas valsčius ar jo dalis atiteko Lietuvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

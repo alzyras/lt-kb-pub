@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "1383 m. spalio 21 d. Kryžiuočių Ordinas Tapiau miestelyje be iškilmių pakrikštijo Vytautą."
   pagrindžia:
     - c-35787
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
-    spalių mėn. 21 d. Tapiau miestelyje Vytautą be jokių iškilmių
-    pakrikštijo. Tai įvyko tuo pačiu laiku, kai Trakuose palikusi
-    jų įgula be vilties kovojo su gausiu priešu. Krikšte Vytautui
-    buvo duotas Vigando vardas. Tuo pat vardu buvo ir jo krikš­
-    tatėvis, Ragainės komtūras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

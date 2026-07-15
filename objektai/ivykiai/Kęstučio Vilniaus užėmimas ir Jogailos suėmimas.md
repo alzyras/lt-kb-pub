@@ -81,75 +81,13 @@ Nenurodyta
   teiginys: "Lietuvos metraštis pasakoja, kad Jogaila nesilaikė pažado Kęstučiui ir vėl užėmė Vilnių, kai Kęstutis buvo karo žygyje."
   pagrindžia:
     - c-169921
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Mūsų tėvas šito padaryti, atimti iš jo
-    Vilnių, visiškai nenorėjo dėl savo brolio, kaip vyriau­
-    siojo, ir kunigaikštį Jogailą pasodino Vilniaus pilyje
-    ir saugojo jį iš visų pusių, kol jis paaugo ir kol prie
-    jo priprato žmonės.
-    Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
-    gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
-    slėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu
-    ir su Livonijos kraštu ir mūsų tėvą išdavė; tasai, kurs
-    turėjo ir prižadėjo kariauti, nebenorėjo mūsų tėvui pa­
-    dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
-    patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
-    sų žemę pasiglemžti. Mūsų tėvas šitą tikrai patyrė
-    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
-    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
-    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
-    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
-    ir iždą, ir žirgyną, viską tą jis paėmė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-    - t-004
-
-- c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Mūsų tėvas šitą tikrai patyrė
-    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
-    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
-    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
-    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
-    ir iždą, ir žirgyną, viską tą jis paėmė.
-    Tačiau mūsų tėvas, vengdamas apie save piktų kal­
-    bų ir nenorėdamas nieko iš savo giminės išvyti, sugrą­
-    žino jam visą jo tėvo dalį — Vitebską ir kitas sritis,
-    kurios buvo jo tėvo,— ir auksą, ir iždą, ir žirgyną, o ku­
-    nigaikštis Jogaila prižadėjo mūsų tėvui su savo motina
-    ir savo broliais ir prisiekė ištikimybę, sutvirtindamas
-    tai raštais ta prasme, kad jis Vilniaus niekados nebe-
-    reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
-    Vitebske. Ir po to tačiau tiesos nesilaikė ir užėmė Vil­
-    nių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo
-    žygyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-005
 
 ## Citatos
 
 - id: c-169920
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 173"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Mūsų tėvas šito padaryti, atimti iš jo
     Vilnių, visiškai nenorėjo dėl savo brolio, kaip vyriau­
@@ -175,15 +113,14 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186671
     - t-186668
+    - t-186671
     - t-186672
 
 - id: c-169921
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 173"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Mūsų tėvas šitą tikrai patyrė
     ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­

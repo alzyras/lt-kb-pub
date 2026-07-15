@@ -8,6 +8,11 @@ datos:
   - '1308 m.'
 date_start: '1222'
 date_end: '1308'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,11 +20,6 @@ tags:
   - karalius
   - kunigaikštis
   - popiežius
-amziai:
-  - 'XIII'
-  - 'XIV'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -86,8 +86,8 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   teiginys: "1308 m. gegužės 1 d. Romos karalių Albrechtą nužudė kunigaikštis Jonas Anlantas, iš kurio buvo atimta Austrijos kunigaikštystė."
   pagrindžia:
     - c-64452
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -105,69 +105,35 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
     - t-004
     - t-001
 
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    104. Apie Albrechto, Romos karaliaus, nužudymą
-
-      1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos
-    karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs
-    Austrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.
-      599 D.— Dunemunde; vėliau vok.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-002
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    102. Apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems
-
-      1307 viešpaties metais mirė Vaclovas, Čekijos karalius, o jo sūnus buvo vainikuotas
-    karaliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol. p. 1227),
-    šitaip Čekijos sostas, kuris neturėjo įpėdinių, atiteko svetimiesiems, nes Romos karalius
-    Albrechtas į minėtąjį sostą pakėlė savo sūnų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-003
-
 ## Citatos
 
 - id: c-64450
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
+    suėję į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
+    1222).
     1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
-    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
+    imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
     Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
-       Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
+    Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
+    95.
   citata_rodoma: "1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,\nimperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė\nKlemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63419
     - t-63416
+    - t-63419
 
 - id: c-64452
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     104. Apie Albrechto, Romos karaliaus, nužudymą
 
@@ -181,14 +147,13 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63421
     - t-63417
+    - t-63421
 
 - id: c-64455
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     102. Apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems
 
@@ -202,5 +167,5 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63420
     - t-63418
+    - t-63420

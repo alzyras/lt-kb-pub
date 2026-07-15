@@ -48,26 +48,6 @@ Originali yra nebaigta studija : « Jogaila, didysis Lietuvos kunigaikštis ir L
   teiginys: "Studija „Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius“ buvo originali, bet nebaigta."
   pagrindžia:
     - c-91737
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Labai ilgi straipsniai iš Lietuvos istorijos
-    (Aleksandras, Algirdas, Batoras Steponas, Bažnytinė unija, Gedi­
-    minas, Jadvyga ir kt.) Lietuviškoje Enciklopedijoje (Kaune) rodė
-    jo gilią erudiciją. Originali yra nebaigta studija : « Jogaila, didysis
-    Lietuvos kunigaikštis ir Lenkijos karalius » (Židinys, 1935-1936).
-    Lietuvos istorijos srityje nepalyginamai savo raštais buvo vai­
-    singesnis Aug.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

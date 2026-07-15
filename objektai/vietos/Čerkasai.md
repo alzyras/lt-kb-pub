@@ -39,23 +39,20 @@ media_all_json: |-
 - susijęs iš Kanevas: Gediminui užėmus Kijevą, Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pilys pasidavė nugalėtojui.
 - susijęs iš Kanevas: XVI a. vidurio Kanevo pilies aprašo padavime sakoma, kad Kanevą su Čerkasais įkūrė Gediminas.
 - susijęs iš Slepovrodis: Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kojelavičiaus pasakojime Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė jam paklusti.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
 - susijęs iš [[objektai/ivykiai/Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo.md#claim-t-185604|Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo]]: Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų.
-- susijęs iš [[objektai/ivykiai/Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo.md#claim-t-185605|Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo]]: Ostrogiškis su sąjungininkais už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.
-- susijęs iš [[objektai/paprociai/Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą.md#claim-t-185878|Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą (miestas)]]: Kijevo luomai, išėję iš miesto, pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
-- susijęs iš [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį.md#claim-t-185478|Kijevo ir Rusios didįjį kunigaikštį]]: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
+- susijęs iš [[objektai/paprociai/Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą.md#claim-t-185878|Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą (miestas)]]: Kojelavičiaus pasakojime Kijevo luomai, išėję iš miesto, pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė jam paklusti.
+- susijęs iš [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį.md#claim-t-185478|Kijevo ir Rusios didįjį kunigaikštį]]: Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
 - susijęs iš Belgorodas: Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui.
 - susijęs iš Brianskas: Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
 - susijęs iš Cerkasai: XVI a. vidurio Kanevo pilies padavime sakoma, kad Gediminas įkūrė Kanevą ir Cerkasus.
-- susijęs iš Kijevas: Ostrogiškis už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.
 - susijęs iš Perejeslavlis: Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
 - susijęs iš Severskas: Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.
 - susijęs iš Volynė: Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio.
 - susijęs iš Zvenigorodas: 1396 m. rudenį Skirgaila Vytauto nurodymu paėmė Zvenigorodą ir prijungė šias Aukso ordai pavaldžias žemes prie LDK.
 - susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Čerkasų pilis kartu su Belgorodu, Slepovrodžiu ir Kanevu pasidavė Gediminui po jo įsitvirtinimo Kijeve.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -86,8 +83,7 @@ media_all_json: |-
 - id: c-168684
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Visi luo­
     mai, išėję iš miesto, sveikino
@@ -101,7 +97,12 @@ media_all_json: |-
     vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
     ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
     kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
-    išplėtė lietuvių valdų ribas ligi Putivlio.
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje.
+  citata_rodoma: "Visi luo­\nmai, išėję iš miesto, sveikino\nnugalėtoją\nGediminą\nkaip\nKijevo ir Rusios didįjį kuni­\ngaikštį, prisiekdami su visomis žemėmis paklusti jo\nvaldžiai. Gediminas, pasilsėjęs čia, kol artimiausios pi­\nlys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­\nvė nugalėtojui, patraukė į Severską. Užėmęs Brianską\nir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­\nkariavęs Kijevą, Volynę ir didelę Seversko dalį, jis\nišplėtė lietuvių valdų ribas ligi Putivlio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

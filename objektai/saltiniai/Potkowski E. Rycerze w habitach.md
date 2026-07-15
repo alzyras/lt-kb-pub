@@ -7,12 +7,12 @@ datos:
   - '1974 m.'
 date_start: '1974'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad potkowski E.
   teiginys: "E. Potkowskio veikalas „Rycerze w habitach“ išleistas Varšuvoje 1974 m."
   pagrindžia:
     - c-61869
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'E. Potkowskio veikalas „Rycerze w habitach“ išleistas Varšuvoje 1974 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,11 @@ Dusburgietis teigia, kad potkowski E.
 - id: c-61869
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Potkowski E. Rycerze w habitach.— Warszawa, 1974.
+    Toppen M Einleitung.—SRP, 1, S. 3—20.
+    Toeppen M. Historisch-comparative Geographie von Preussen.
+  citata_rodoma: "Potkowski E. Rycerze w habitach.— Warszawa, 1974."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

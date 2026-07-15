@@ -60,37 +60,6 @@ Nenurodyta
   teiginys: "Surašius, persvėrus ir įvertinus Akademinės vaistinės medžiagas, jų vertė buvo mažesnė 28 707 auksinais ir 12 grašių."
   pagrindžia:
     - c-83022
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Surašius, persvėrus ir įvertinus Akademinės vaistinės medžiagas, jų vertė buvo mažesnė 28 707 auksinais ir 12 grašių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Betgi pastaraisiais laikais, kelių vaisti­
-    ninkų dėka pradėjusi plėstis, ji pasiekė tą klestintį būvį, kaip
-    dabar (1780 metais).
-    Medžiagų in crudo [žaliavų], užjūrio ir vietinių prepara­
-    tų, užėjus vargo metams, negalėjo būti gauta pakankamos
-    quantitas, qualitas ir valor [kiekio, kokybės, vertės], kadangi
-    geram dalykų vertinimui reikėjo atsikviesti prisiekusių me­
-    dikų, kurie būtų padarę teisingą apskaitą; vis dėlto po tų
-    medžiagų surašymo, kiek sugebėta, persverta ir įvertinta, ir
-    tų visų medikamentų bei medžiagų vertė buvo mažesnė 28
-    707 auksinais ir 12 grašių.
-    Metinės pajamos, kaip kad įsitikinta peržiūrėjus kelioli­
-    kos metų darbą, buvo nevienodos ir priklausė nuo įvairių
-    aplinkybių, būtent: kol vaistinėje buvo leidžiama laikyti ir
-    pardavinėti degtinę, tol metinės pajamos galėdavo pasiekti
-    quantum 30 000 auksinų; seimo sprendimu buvo uždrausta
-    vaistinėse pardavinėti degtinę, tad pajamos tiesiog in tertio
-    sorte krito.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištrauką, turėjusią būti X amžiuje parašyta kopija.
+Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištrauką, turėjusią būti X amžiuje parašyta kopija. Buvo rasta geografijos ištrauka, laikoma labai sena ir saugoma Milano bibliotekoje; ji turėjo būti X amžiuje parašyta kopija5.
 
 ## Teiginiai
 
@@ -34,21 +34,26 @@ Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištr
   teiginys: "Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištrauką, turėjusią būti X amžiuje parašyta kopija."
   pagrindžia:
     - c-174624
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197666"></a>
+- t-002
+  global_id: t-197666
+  teiginys: "Buvo rasta geografijos ištrauka, laikoma labai sena ir saugoma Milano bibliotekoje; ji turėjo būti X amžiuje parašyta kopija5."
+  pagrindžia:
+    - c-174624
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištrauką, turėjusią būti X amžiuje parašyta kopija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Senovės
-    geografai nemini šio, šiek tiek vėlesnio negu kitos provin­
-    cijos pavadinimo, be to, ir lietuvių kronika teigia, kad
-    lietuvių kolonijos kairiojoje Neries pakrantėje paplito tik
-    X amžiuje. Tačiau Nestoras IX amžiuje žinojo šį taip
-    vadintą kraštą, jo gyventojus, kuriuos jis priskirdavo prie
-    rusų variagų4. Buvo rasta geografijos ištrauka, laikoma
+    Buvo rasta geografijos ištrauka, laikoma
     labai sena ir saugoma Milano bibliotekoje; ji turėjo būti
-    X amžiuje parašyta kopija5.
+    X amžiuje parašyta kopija5. Joje išvardijamos Siaurės
+    Europos tautos ir jų gyvenamosios vietos. Ten tarp gen­
+    čių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra
+    Nerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­
+    namoje Bruzes.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -56,27 +61,29 @@ Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-174624
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 278"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 278."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Senovės
-    geografai nemini šio, šiek tiek vėlesnio negu kitos provin­
-    cijos pavadinimo, be to, ir lietuvių kronika teigia, kad
-    lietuvių kolonijos kairiojoje Neries pakrantėje paplito tik
-    X amžiuje. Tačiau Nestoras IX amžiuje žinojo šį taip
+    Tačiau Nestoras IX amžiuje žinojo šį taip
     vadintą kraštą, jo gyventojus, kuriuos jis priskirdavo prie
     rusų variagų4. Buvo rasta geografijos ištrauka, laikoma
     labai sena ir saugoma Milano bibliotekoje; ji turėjo būti
-    X amžiuje parašyta kopija5.
+    X amžiuje parašyta kopija5. Joje išvardijamos Siaurės
+    Europos tautos ir jų gyvenamosios vietos. Ten tarp gen­
+    čių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra
+    Nerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­
+    namoje Bruzes.
+  citata_rodoma: "Buvo rasta geografijos ištrauka, laikoma \nlabai sena ir saugoma Milano bibliotekoje; ji turėjo būti \nX amžiuje parašyta kopija5. Joje išvardijamos Siaurės \nEuropos tautos ir jų gyvenamosios vietos. Ten tarp gen­\nčių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra \nNerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­\nnamoje Bruzes."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191742
+    - t-197666

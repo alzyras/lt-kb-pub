@@ -25,18 +25,25 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir išradėją, dar vadintą Pradžių Warpu arba Brandžiu-Warpu.
+Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir išradėją, dar vadintą Pradžių Warpu arba Brandžiu-Warpu. Pirmasis primena jau žinomą pragaro dievą, antrasis užra šas susideda iš dviejų žodžių: Nija reiškė slavų Cereros arba lietuvių Krūminės vardą; Ola lietuviškai - katakomba, pože minis urvas16.
 
 ## Teiginiai
+
+<a id="claim-t-197370"></a>
+- t-002
+  global_id: t-197370
+  teiginys: "Pirmasis primena jau žinomą pragaro dievą, antrasis užra šas susideda iš dviejų žodžių: Nija reiškė slavų Cereros arba lietuvių Krūminės vardą; Ola lietuviškai - katakomba, pože minis urvas16."
+  pagrindžia:
+    - c-179152
 
 <a id="claim-t-189155"></a>
 - t-001
   global_id: t-189155
-  teiginys: "Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir išradėją, dar vadintą Pradžių Warpu arba Brandžiu-Warpu."
+  teiginys: 'Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir išradėją, dar vadintą Pradžių Warpu arba Brandžiu-Warpu.'
   pagrindžia:
     - c-172043
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir išradėją, dar vadintą Pradžių Warpu arba Brandžiu-Warpu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -62,25 +69,26 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
 
 ## Citatos
 
-- id: c-172043
+- id: c-179152
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    135
-
-    ## Puslapis 135
-
-    Krūminė (Krūmine)
-    Javų deivė, žemdirbystės globėja ir išradėja. Kitaip vadi­
-    nosi Kri uninie -Pradžių Warpu arba Brandžiu -  Warpu. Sunku
-    paraidžiui išversti šiuos mitologijos terminus, bet apytikriai
-    reikštų: ašakoti javai, Krūminės varpos. Pats pavadinimas, iš­
-    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
-    kovskis, o deivei.
+    Vaizduo­
+    jami du asmenys: vyras, viena koja priklaupęs ant kelmo, duo­
+    da vainiką moteriai, kuri, apsirengusi kaip žynė, savo ruožtu
+    tiesiajam taurę; tarp jų - ąžuolo šaka su trimis gilėmis; po po­
+    stamentu, į kurį atsirėmę asmenys, rangosi žaltys. Įskaitomi už­
+    rašai rusiškomis raidėmis: Poklus, Nijota.
+    Pirmasis primena jau žinomą pragaro dievą, antrasis užra­
+    šas susideda iš dviejų žodžių: Nija reiškė slavų Cereros arba
+    lietuvių Krūminės vardą; Ola lietuviškai - katakomba, pože­
+    minis urvas16. Tai bus požeminė Cerera, arba, visiškai graikų
+    mitologijos prasme, - Prozerpina. Taigi medalionas primena
+    jos jungtuves su Plutonu.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189155
+    - t-197370

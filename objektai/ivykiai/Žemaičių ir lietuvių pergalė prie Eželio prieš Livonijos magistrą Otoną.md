@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Prie Eželio žemaičiai ir lietuviai ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
+Prie Eželio žemaičiai ir lietuviai ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių. Netrukus po to Lietuvoje baigė dienas ir Ger mantas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -48,54 +48,43 @@ Nenurodyta
   teiginys: "Prie Eželio žemaičiai ir lietuviai ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių."
   pagrindžia:
     - c-169203
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Prie Eželio žemaičiai ir lietuviai ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėl­
-    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
-    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
-    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
-    sako Livonijos metraštis, žemaičiai ir lietuviai prie
-    Eželio ant ledo kovojo su Livonijos magistru Otonu,
-    magistras žuvo su penkiasdešimčia šio ordino brolių.
-    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
-    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
-    ir žuvo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196303"></a>
+- t-002
+  global_id: t-196303
+  teiginys: "Netrukus po to Lietuvoje baigė dienas ir Ger mantas."
   pagrindžia:
-    - t-001
+    - c-169203
 
 ## Citatos
 
 - id: c-169203
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 131"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vis dėl­
-    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
-    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
-    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
-    sako Livonijos metraštis, žemaičiai ir lietuviai prie
-    Eželio ant ledo kovojo su Livonijos magistru Otonu,
-    magistras žuvo su penkiasdešimčia šio ordino brolių.
     Tokio pat likimo susilaukė jo įpėdinis Andrius fon
     Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
-    ir žuvo.
+    ir žuvo. Netrukus po to Lietuvoje baigė dienas ir Ger­
+    mantas. Sukvietus Kernavėje didikų sueigą, Germanto
+    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
+    valdovu, jo broliui Trobiui
+    patikėta Žemaitija su ta są­
+    lyga, kad jis bus pavaldus
+    Lietuvos didžiajam kunigaik­
+    ščiui. Rūmų maršalas, para­
+    ginęs vieną bei kitą siekti ir
+    karo, ir taikos metu tokios pat santarvės bei šlovės,
+    kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
+    bei lazdą.
+  citata_rodoma: "Vis dėl­\nto markgrafas, nenorėdamas, kad atrodytų, jog jis vel­\ntui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­\nnai vadinamas Brandenburgu. Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185842
+    - t-196303
 
 ## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Žemaičiai]]
+- Turėjo dalyvį: [[objektai/grupes/Žemaičiai]]

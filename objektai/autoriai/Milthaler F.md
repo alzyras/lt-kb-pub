@@ -34,8 +34,8 @@ Dusburgietis teigia, kad 136 Milthaler F.
   teiginys: "Milthaler F. parašė darbą „Die Grossgebietiger“, cituojamą 59–69 puslapiuose."
   pagrindžia:
     - c-61390
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Milthaler F. parašė darbą „Die Grossgebietiger“, cituojamą 59–69 puslapiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -54,10 +54,15 @@ Dusburgietis teigia, kad 136 Milthaler F.
 - id: c-61390
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    136 Milthaler F. Die Grossgebietiger..., S. 59—69.
+    Netikslumai, tendencija
+    Petro iš Dusburgo kronikoje ne viskas išdėstyta chronologine tvarka, pvz., pilių
+    statyba. Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
+    apie Tepliavos ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
+    pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
+    iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
+  citata_rodoma: "136 Milthaler F. Die Grossgebietiger..., S. 59—69."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

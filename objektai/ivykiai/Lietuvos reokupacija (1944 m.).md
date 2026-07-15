@@ -58,23 +58,6 @@ Nenurodyta
   pagrindžia:
     - c-28747
 - susijęs iš [[objektai/zodynas/reokupacija.md#claim-t-22277|reokupacija]]: 1944 m. vasarą Lietuvos reokupacija reiškė antrą sovietų okupaciją, per kurią Lietuvai, Latvijai ir Estijai grąžintas stalininis režimas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jį tepakeitė ten tik prievarta
-    primestas marksistinis Lietuvos praeities supratimas, kai 1944 m.
-    Lietuva vėl buvo rusų okupuota. Be jokių metodinių varžtų Lie­
-    tuvos istorijos tyrinėjimai liko galimi tik laisvajame pasaulyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-28747

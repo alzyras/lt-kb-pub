@@ -42,28 +42,6 @@ media_all_json: |-
   pagrindžia:
     - c-35594
 - susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1424 m. Vytauto pa­
-    siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie,
-    vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­
-    jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu
-    tapo Vytauto palaikomas Machmetas. Jis savo sūnų pasiuntė
-    auklėtis į Vytauto Didžiojo dvarą, o pačiam didžiajam kuni­
-    gaikščiui davė paramos jo žygiams į Pskovą bei Naugardą, ir
-    per savo pasiuntinius teikė jam dovanų Smolenske ir Lucko su­
-    važiavime1 2).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-35594

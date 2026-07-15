@@ -40,28 +40,13 @@ Dusburgietis teigia, kad lietuvos metraštis: Bychovco kronika / Parengė R.
   teiginys: "R. Jasas parengė leidinį „Lietuvos metraštis: Bychovco kronika“, išleistą Vilniuje 1971 m."
   pagrindžia:
     - c-61772
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'R. Jasas parengė leidinį „Lietuvos metraštis: Bychovco kronika“, išleistą Vilniuje 1971 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvos metraštis: Bychovco kronika / Parengė R. Jasas.— V., 1971.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61772
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lietuvos metraštis: Bychovco kronika / Parengė R. Jasas.— V., 1971.
   statusas: verified

@@ -59,8 +59,8 @@ Nenurodyta.
   teiginys: "Narbutas Lados laikotarpiu laiko gegužės 25–birželio 25 d. tarpsnį, kai, jo teigimu, lietuviai aukodavo baltus gaidžius, rengdavo puotas, šokdavo ir dainuodavo."
   pagrindžia:
     - c-170787
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Lados laikotarpiu laiko gegužės 25–birželio 25 d. tarpsnį, kai, jo teigimu, lietuviai aukodavo baltus gaidžius, rengdavo puotas, šokdavo ir dainuodavo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -84,15 +84,17 @@ Nenurodyta.
 - id: c-170787
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 114"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 114."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuviai laikotarpį nuo gegužės 25 iki birželio 25 dienos
-    paskirdavo Ladai. Jai buvo atnašaujami balti gaidžiai, rengtos
-    viešos puotos, šokta pievose, mergaitės dainuodavo dainas,
-    kuriose dažnai kartodavo: Lado, Lado, Lado, didie musu de­
-    ive, tai yra: „Lada, didžioji mūsų deive“. Paskutinė diena buvo
-    Rasos šventė. Skaityk straipsnį „Šventės“.
+    Herodotas3 aiškiai sako, kad egiptiečiai lenkdavosi deivei
+    Butei, kurios garbinimas buvo ir seniausių graikų paprotys.
+    F. Noelis straipsnyje „Bute“ pažymi, kad šią deivę iš indų pir­
+    miausia perėmė egiptiečiai ir japonai bei kitos tautos.
+    Indai turi mums iki šiol dar neaiškų supratimą apie Bud-
+    hos (Budha) dievybę, nes mitologas vienur sako, kad tai buvęs
+    vienas iš senovės indų valdovų, iš mitinės mėnulio vaikų kar­
+    tos, kitur šis vardas reiškiąs planetos Merkurijaus genijų, o
+    2 Skaityk Gvaninio septintosios knygos I dalį*.
   citata_rodoma: "Lietuviai laikotarpį nuo gegužės 25 iki birželio 25 dienos\npaskirdavo Ladai. Jai buvo atnašaujami balti gaidžiai, rengtos\nviešos puotos, šokta pievose, mergaitės dainuodavo dainas,\nkuriose dažnai kartodavo: Lado, Lado, Lado, didie musu de­\nive, tai yra: „Lada, didžioji mūsų deive“. Paskutinė diena buvo\nRasos šventė. Skaityk straipsnį „Šventės“."
   statusas: verified
   teiginio_tipas: faktas

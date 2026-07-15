@@ -41,27 +41,6 @@ Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m. liepą
   teiginys: "Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m. liepą pasirašius SSRS ir Lenkijos nepuolimo paktą iš esmės subliuško sovietų įsipareigojimai Lietuvai dėl Vilniaus."
   pagrindžia:
     - c-23949
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvių diplomatijos sunkumai buvo už-
-    programuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tar-
-    pusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos
-    klausimu kovėsi už esamą padėtį – status quo. Kaip lietuvių diplomatai
-    galėjo laimėti du svarbiausius mūšius, jei du Lietuvos tikslai vienas kitam
-    prieštaravo?
-    Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m.
-    liepą pasirašius SSRS ir Lenkijos nepuolimo paktą iš esmės subliuško so-
-    vietų įsipareigojimai Lietuvai dėl Vilniaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

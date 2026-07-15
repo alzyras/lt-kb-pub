@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 147
+tema_objektu_skaicius: 146
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 147.
+Objektų skaičius: 146.
 
 ## Kaip naudoti
 
@@ -63,7 +63,6 @@ Objektų skaičius: 147.
 - [Herberis](../objektai/asmenys/Herberis)
 - [Hermanas](../objektai/asmenys/Hermanas)
 - [Hermanas (Henriko Stange brolis)](../objektai/asmenys/Hermanas%20%28Henriko%20Stange%20brolis%29)
-- [Hermanas Saracėnas](../objektai/asmenys/Hermanas%20Sarac%C4%97nas)
 - [Hermanas ton Senenbergas](../objektai/asmenys/Hermanas%20ton%20Senenbergas)
 - [J. Cetuchinas](../objektai/asmenys/J.%20Cetuchinas)
 - [J. Juška](../objektai/asmenys/J.%20Ju%C5%A1ka)

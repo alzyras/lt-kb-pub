@@ -49,7 +49,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš [[objektai/grupes/Alšėnų kunigaikščiai.md#claim-t-74068|Alšėnų kunigaikščiai]]: Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir nepriklausę Gediminaičių dinastijai, priėmė stačiatikybę.
 - susijęs iš [[objektai/grupes/Alšėnų kunigaikščiai.md#claim-t-74069|Alšėnų kunigaikščiai]]: Alšėnų kunigaikščiai priėmė stačiatikybę, nors turėjo tėvonijų valstybės branduolyje ir nebuvo kilę iš Gediminaičių dinastijos.
 - susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172079|Apaštalų Sostas]]: Vilniaus kapitula teigė besivadovaujanti teise, kurią patvirtino Apaštalų Sostas, Lietuvos kunigaikščiai ir valdovas.
-- susijęs iš [[objektai/grupes/Belskių giminė.md#claim-t-185457|Belskių giminė]]: Kunigaikščiai Belskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę ir su savo kariaunomis pradėjo puldinėti karaliaus valdas.
+- susijęs iš [[objektai/grupes/Belskių giminė.md#claim-t-185457|Belskių giminė]]: Kunigaikščiai Belskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę ir su savo kariaunomis puldinėjo karaliaus valdas.
 - susijęs iš [[objektai/grupes/Boratinskių giminė.md#claim-t-185458|Boratinskių giminė]]: Kunigaikščiai Boratinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę ir su savo kariaunomis pradėjo puldinėti karaliaus valdas.
 - susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-55065|Haličo kunigaikščiai]]: 1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą.
 - susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-80832|Haličo kunigaikščiai]]: 1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą, o Slonimas jiems smarkiai pasipriešino.
@@ -62,10 +62,9 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86735|Mazovijos kunigaikščiai]]: 1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme.
 - susijęs iš [[objektai/grupes/Moldovos kunigaikščiai.md#claim-t-86812|Moldovos kunigaikščiai]]: Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais tuo metu kovojo Jogaila.
 - susijęs iš [[objektai/grupes/Okos aukštupio kunigaikščiai.md#claim-t-184224|Okos aukštupio kunigaikščiai]]: Okos aukštupio kunigaikščiai buvo tarp rytų jėgų, kurioms Vytautas siekė primesti valdžią arba bent turėti didelę įtaką.
-- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72612|Ponų taryba (institucija)]]: Lietuvos ponų taryboje buvę kunigaikščiai ilgai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko.
 - susijęs iš [[objektai/grupes/Sanguškos.md#claim-t-183181|Sanguškos]]: Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
 - susijęs iš [[objektai/grupes/Sanguškos.md#claim-t-20002|Sanguškos]]: Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
-- susijęs iš [[objektai/grupes/Seversko kunigaikščiai.md#claim-t-185437|Seversko kunigaikščiai]]: Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos.
+- susijęs iš [[objektai/grupes/Seversko kunigaikščiai.md#claim-t-185437|Seversko kunigaikščiai]]: Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos apibūdino kaip valstybės išdavimą ir valdų prijungimą prie Maskvos.
 - susijęs iš [[objektai/grupes/Sluckiai.md#claim-t-183182|Sluckiai]]: Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
 - susijęs iš [[objektai/grupes/Sluckiai.md#claim-t-20013|Sluckiai]]: Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
 - susijęs iš [[objektai/grupes/Tverės ir Riazanės kunigaikščiai.md#claim-t-86772|Tverės ir Riazanės kunigaikščiai]]: 1430 m. Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
@@ -107,7 +106,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš Pamarys: Aisčiai vengė iš Pamario atvykusių misijonierių, nes nuolat kovojo su Pamario kunigaikščiais.
 - susijęs iš Podolė: Lietuviai reikalavo sugrąžinti Podolę, kurią, jų teigimu, Lietuvos kunigaikščiai ginklu išvadavo iš skitų vergovės.
 - susijęs iš Polockas: 1411 m. pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai.
 - susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
 - susijęs iš Riazanė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.
 - susijęs iš Silezija: Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.
@@ -121,7 +119,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš Valkaviskas: Budikidas ir jo brolis Budivydas 1289 m. taikai palaikyti perleido Valkaviską Haličo-Volinijos kunigaikščiams.
 - susijęs iš Viazma: Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo.
 - susijęs iš Viazma: Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo.
-- susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
 - susijęs iš Vitebskas: 1411 m. pavasarį Vytautas su Jogaila keliavo pro Vitebską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą.
 - susijęs iš Vokietija: Susitikime dalyvavo Vokietijos pasiuntiniai, Silezijos kunigaikščiai ir Hanzos atstovai.
 - susijęs iš Vorotinskas: Vorotinsko kunigaikščiai prisiekė Vytautui ištikimybę ir pažadėjo karo paramą.
@@ -134,6 +131,8 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš [[objektai/zodynas/žemių konfederacija.md#claim-t-22354|žemių konfederacija]]: Žemių konfederacija buvo santvarka, kai atskirų žemių kunigaikščiai derino savo veiksmus, o iš jų jau buvo iškilę vyresnieji kunigaikščiai.
 - susijęs iš [[objektai/zodynas/žemė žemių konfederacija.md#claim-t-22355|žemė žemių konfederacija]]: Žemė buvo to meto politinės organizacijos vienetas, o žemių konfederacijoje atskirų žemių kunigaikščiai derino savo veiksmus.
 - susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui.md#claim-t-192032|Gedimino herbo suteikimas Krunevičiui]]: Narbutas pateikia 1302 m. Gedimino Krunevičiui duotą herbą kaip pavyzdį, kad didieji kunigaikščiai kartais suteikdavo herbus slavų giminėms.
+- susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
+- susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176274|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Gedimino sūnus ir Jogailos tėvas.
 - susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185996|Andrius Vingaudas]]: Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05172|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kryžiuočiai Gediminą vadino Aukštaičių karaliumi.
@@ -179,7 +178,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114097|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114098|Žygimantas Kaributaitis]]: 1422 m. Vytautas išsiuntė savo sūnėną Žygimantą Kaributaitį į Prahą kaip čekų pageidaujamą valdovą.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-183772|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
-- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114100|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis žudė jam įtartinus asmenis ir ištisas šeimas, prieš tai juos apiplėšęs.
 - susijęs iš [[objektai/autoriai/Dusburgiečio kronikos perdirbinio autorius.md#claim-t-190384|Dusburgiečio kronikos perdirbinio autorius]]: Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasakojime krivį vadino „kilmingesniu iš jų“ ir praleido srities pavadinimą.
 - susijęs iš [[objektai/autoriai/M. Liubavskij.md#claim-t-30839|M. Liubavskij]]: M. Liubavskij teigė, kad rusai siekė pasipelnyti iš lietuvių kailių, vaško ir medaus prekybos su Bizantija.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172936|M. Strijkovskis Stryjkowski]]: Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu.
@@ -188,8 +186,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10166|Vėliavos]]: 1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176217|Vėliavos]]: Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
 - susijęs iš [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai.md#claim-t-65016|Įsivaizduojami Lietuvos valdovų portretai]]: XVI a. italas Aleksandras Gvanjinis nupiešė įsivaizduojamus Lietuvos valdovų portretus.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-05243|Didžiojo Naugardo respublika]]: Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-103736|Didžiojo Naugardo respublika]]: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-12357|Didžiojo Naugardo respublika]]: Didysis Naugardas atsisakė pradėti karą su vokiečiais, nes turėjo atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120188|Karaimai]]: Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-183139|Karaimai]]: Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.
@@ -222,7 +218,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui.md#claim-t-192031|Gedimino herbo suteikimas Krunevičiui]]: Narbuto aiškinimu, 1302 m. Gedimino Krunevičiui duotas herbas siejamas su lietuviams nebūdingu herbų suteikimo papročiu.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185493|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius.
 - susijęs iš [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.).md#claim-t-31426|Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]: Lietuvos kunigaikščiai krikštui kėlė sąlygą, kad kryžiuočių ordinas grąžintų užimtas žemes tarp Alnos, Priegliaus ir Dauguvos.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186683|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare papildomai siejamas su 1251–1252 m. Mindaugo ir Danieliaus Romanovičiaus karo aprašymu.
+- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186683|Mūšis prie Jieseldos (mūšis, XIII a.)]]: 1971 m. komentare pasakojimas apie mūšį prie Jieseldos siejamas ir su 1251–1252 m. Mindaugo bei Danieliaus Romanovičiaus karo aprašymu.
 - susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186684|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.
 - susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66809|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną.
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.).md#claim-t-66817|Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]: 1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko.
@@ -232,7 +228,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas.md#claim-t-45458|Vytauto dalinių kunigaikštijų sistemos naikinimas]]: Vytauto politikoje svarbiausia socialinė permaina buvo žemvaldžių riterių sluoksnio kūrimas.
 - susijęs iš [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas.md#claim-t-45459|Vytauto dalinių kunigaikštijų sistemos naikinimas]]: Vytautas panaikino senovinę dalinių kunigaikštijų sistemą, į kunigaikštijas paskyrė vietininkus ir suėmė realią valdžią LDK į savo rankas.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.).md#claim-t-62954|Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)]]: Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, ėmė belaisvius, degino ir grobė.
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant.md#claim-t-185837|Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant]]: Vytenis per Boleslovui pavaldžias Mazovijos žemes įsiveržė į Lenkiją, nuniokojo Kujaviją ir pasitraukė su grobiu, o lenkai bei kryžiuočiai lietuvių neįveikė.
 - susijęs iš [[objektai/paprociai/Gedimino dinastinė vedybų politika.md#claim-t-05339|Gedimino dinastinė vedybų politika]]: Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.
 - susijęs iš [[objektai/paprociai/Ištikimybės pasižadėjimas valdovui ir jo įpėdiniams.md#claim-t-185872|Ištikimybės pasižadėjimas valdovui ir jo įpėdiniams]]: Drucko kunigaikščiai po sutriuškinimo pažadėjo ir prisiekė ištikimybę Vytautui bei jo įpėdiniams.
 - susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67160|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.
@@ -270,7 +265,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš Klevanė: Voluinėje Čartoriskiai sukūrė tėvoniją Klevanėje.
 - susijęs iš Kovelis: Kovelyje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Sanguškos.
 - susijęs iš Kovelis: Sanguškos, kilę iš šalutinių Gediminaičių šakų, sukūrė tėvoniją Kovelyje, vėliau Slavuta.
-- susijęs iš Krokuva: Paleidęs seimą, karalius išvyko į Krokuvą.
 - susijęs iš Kuršas: 1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę.
 - susijęs iš Kuršas: 1244 m. Mindaugas žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę.
 - susijęs iš Lietuva: 1430 m. Vytautas į Trakus ir Vilnių sukvietė šiaurės šalių kunigaikščius ir pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
@@ -290,7 +284,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš Sčara: 1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros.
 - susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai.
 - susijęs iš Trakų vaivadija: Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.
-- susijęs iš Vilnius: Gediminas įkūrė Vilnių ir jame sutelkė pagrindinę lietuvių feodalų valdžią.
 - susijęs iš Vilnius: 1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.
 - susijęs iš Viršupis: Didieji Lietuvos kunigaikščiai prie Vilniaus, už Antakalnio priemiesčio, turėjo miesto dvarą, vadinamą Viršupiu.
 - susijęs iš Voluinė: Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi.
@@ -303,48 +296,24 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš [[objektai/zodynas/ekonomija.md#claim-t-36779|ekonomija]]: Ekonomijos buvo dideli valdovų dvarai, administruojami jų skiriamų vietininkų.
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82058|feodalizmas]]: Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184611|fogtas]]: Sembos vyskupystės fogtas Pilypas fon Bolandas pasinaudojo Vytenio sušauktu luomų pasitarimu ir nusiaubė pasienio kaimiečius.
-- susijęs iš [[objektai/zodynas/graikų schizma.md#claim-t-185386|graikų schizma]]: Konstantinas, išpažindamas rusų tikėjimą, prisidėjo prie graikų schizmos ir išsižadėjo paklusnumo Romos popiežiui.
+- susijęs iš [[objektai/zodynas/kumelių pienas.md#claim-t-200722|kumelių pienas]]: Wulfstano pasakojime teigiama, kad kunigaikščiai ir diduomenė gėrė kumelių pieną, o neturtingieji ir vergai gėrė midų.
 - susijęs iš [[objektai/zodynas/otčici.md#claim-t-36820|otčici]]: Lietuvių ir rusų kunigaikščiai tėvynainiai, arba otčici, turėjo visišką nuosavybės teisę į savo valdomas žemes.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169932|rusėnų kalba LDK raštų kalba]]: Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba.
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-183484|tėvonija tėvų palikimas]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70368|tėvonija tėvų palikimas]]: Voluinėje tėvonijas sukūrė Sanguškos, Čartoriskiai, Vyšnioveckiai ir kitos Gediminaičių šakos.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
-- susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-184638|tėvonija]]: Valdovo vaikams grobstant žemes kaip tėvoniją, silpo didžiosios kunigaikštystės galia.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22336|tėvonija]]: Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas.
 - susijęs iš [[objektai/zodynas/tėvūnas.md#claim-t-12593|tėvūnas]]: Tėvūnai dvaruose prižiūrėjo visą tų dvarų ūkį.
 - susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui.md#claim-t-192031|Gedimino herbo suteikimas Krunevičiui]]: Narbuto aiškinimu, 1302 m. Gedimino Krunevičiui duotas herbas siejamas su lietuviams nebūdingu herbų suteikimo papročiu.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195017|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto.
 - susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192085|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.
+- susijęs iš Astravas: 1392 m. rugpjūčio 4 d. Astrave, netoli Lydos, buvo rašyti du aktai dėl Vytauto padėties.
 - susijęs iš Pilies kalnas: 1396 m. Vilniaus Pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.
 - susijęs iš Vilniaus Aukštutinė pilis: Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį.
 - susijęs iš Vilniaus Aukštutinė pilis: Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį.
 - susijęs iš Vilniaus Aukštutinė pilis: Kalno, ant kurio stovėjo Aukštutinė pilis, griūtis užslinko ant Manvydo rūmo ir pridarė daug nuostolių.
 - susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192167|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Laikinos apylinkių sąjungos ilgainiui sustiprėjo, o jų karo vadai tapo nuolatiniais valdovais – kunigaikščiais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Anų laikų svetimšaliai juos vadin-
-    davo daugybe dar kitų vardų: vyresniaisiais, kilmingaisiais, kuni-
-    gaikščiais, karaliais ir t. t. Kadangi iš pradžių politiniai vienetai
-    buvo smulkūs, tai tokių vadų buvo labai daug: kartais vienam
-    susidūrime su priešu jų žūdavo net po keliolika. Bet šitoki
-    susijungę smulkūs vienetai, savo rikių vadovaujami, atlikdami
-    bendrus žygius turėdavo, žinoma, ir bendrą vadą. Iš pradžių
-    tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai
-    tarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais
-    valdovais — kunigaikščiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-03293

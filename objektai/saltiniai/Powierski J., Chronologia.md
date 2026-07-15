@@ -9,12 +9,12 @@ datos:
   - '1286 m.'
 date_start: '1279'
 date_end: '1286'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,8 @@ Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyt
   teiginys: "J. Powierskio „Chronologia“ siūlo vėlesnes datas: pilis pradėta 1279 m., o miesto lokacinė privilegija tikriausiai išduota 1286 m."
   pagrindžia:
     - c-61881
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Powierskio „Chronologia“ siūlo vėlesnes datas: pilis pradėta 1279 m., o miesto lokacinė privilegija tikriausiai išduota 1286 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -64,12 +64,17 @@ Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyt
 - id: c-61881
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 166"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281
-    m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.
-    (Powierski J., Chronologia..., p. 5—31).
+    Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip
+    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
+    tikėjimui ir broliams.
+    212 (207). Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­
+    dvikas antrą kartą pakliuvo į nelaisvę
+    Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš
+    Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule kariuomene į Sūduvos valsčių,
+    vardu Zilija504.
+  citata_rodoma: "Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281\nm.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.\n(Powierski J., Chronologia..., p. 5—31)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

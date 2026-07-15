@@ -47,28 +47,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 - susijęs iš Trakai: 1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
 - susijęs iš Vilnius: Lietuvos metraštis nurodo, kad rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
 - susijęs iš Vilnius: 1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos metraščio liudijimu, „Lietuva
-    pasodino didįjį kunigaikštį Žygimantą
-    Kęstutaitį didžiojoje kunigaikštystėje
-    Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai
-
-    ## Puslapis 69
-
-    Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m. Kazimierui.
-    S *Ė - Pabaisko mūšyje Livonijos Suomijos įlanka ) | Jogailaičiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44975

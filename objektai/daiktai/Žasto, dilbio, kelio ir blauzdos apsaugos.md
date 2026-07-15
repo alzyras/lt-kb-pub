@@ -57,25 +57,6 @@ Nenurodyta
   pagrindžia:
     - c-41123
 - susijęs iš [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos.md#claim-t-40805|Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]: Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Taip buvo delsiama, kol atvyko
-    visoje Ordoje garsus kunigaikštis - emyras
-
-    Žasto, dilbio, kelio ir blauz-
-    dos apsaugos. XIV a. pabaiga-
-    xv a. Rekonstrukcija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41123

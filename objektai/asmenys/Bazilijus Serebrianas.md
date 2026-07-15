@@ -44,32 +44,6 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
   teiginys: "Kunigaikštis Bazilijus Serebrianas vadovavo iš Smolensko pajudėjusiai grupei."
   pagrindžia:
     - c-44308
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prieš mūšį
-    1564 m. pradžioje, iš Maskvos į Vilnių dar
-    nespėjus parvykti pasiuntiniams su žinia,
-    kad dėl paliaubų susitarti nepavyko, į
-    Lietuvos Didžiąją Kunigaikštystę įsiveržė
-    dvi didelės - po kelias dešimtis tūkstančių
-    karių, kariuomenės. Viena jų, vadovaujama
-    kunigaikščio Baziliaus Serebriano, pajudėjo
-    iš Smolensko, kita, vadovaujama patyru-
-    sio karvedžio kunigaikščio Petro Šuiskio,
-
-    iš Polocko traukė į Drucką. Čia jos turėjo
-    susijungti ir pulti Minsko, Naugarduko, o
-    vėliau Vilniaus kryptimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

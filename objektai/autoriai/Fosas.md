@@ -34,33 +34,13 @@ Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austravij�
   teiginys: "Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austraviją, arba Glesariją, laikė fryzų sala Amelandu."
   pagrindžia:
     - c-174553
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austraviją, arba Glesariją, laikė fryzų sala Amelandu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kiek čia nepatikimumo!2
-    Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­
-    roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
-    Amelandu. Jam rūpėjo įrodyti, jog romėnų kariai rinkę
-    gintarą, todėl jis teigė, jog jo buvo turtinga visa vaka­
-    rinė Europos pakrantė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174553
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kiek čia nepatikimumo!2
     Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­

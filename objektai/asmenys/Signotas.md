@@ -35,8 +35,8 @@ Narbutas signotą (Sigonotta) mini kaip pajūrio žvejų garbinto dievo žynį.
   teiginys: "Narbutas signotą (Sigonotta) mini kaip pajūrio žvejų garbinto dievo žynį."
   pagrindžia:
     - c-173093
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas signotą (Sigonotta) mini kaip pajūrio žvejų garbinto dievo žynį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -57,12 +57,15 @@ Narbutas signotą (Sigonotta) mini kaip pajūrio žvejų garbinto dievo žynį.
 - id: c-173093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 105"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 105."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pajūrio žvejai nešdavo jam įvairiausių žuvų. Jis turėjo sa­
-    vo žynį, vardu signotas (Sigonotta). Skaityk apie jį žemiau,
-    straipsnyje „Žyniai“.
+    išvaizda, negu savo pareigų rimtumu. Todėl jis labai gąsdinda­
+    vo menko proto žmones, moteris ir vaikus, nors gana baisus
+    buvo kiekvienam, valdomam stiprių įspūdžių, paveldėtų iš vai­
+    kystės, ir dėl baisių savo keršto padarinių. Poklius viešai pasi­
+    rodydavo namuose; tai būdavo tikra dievų rūstybės, būsimų
+    namų bei gyventojų vargų ir nelaimių pranašystė.
+  citata_rodoma: "Pajūrio žvejai nešdavo jam įvairiausių žuvų. Jis turėjo sa­\nvo žynį, vardu signotas (Sigonotta). Skaityk apie jį žemiau,\nstraipsnyje „Žyniai“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

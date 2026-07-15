@@ -50,136 +50,32 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   pagrindžia:
     - c-169355
 
-<a id="claim-t-185995"></a>
+<a id="claim-t-196622"></a>
 - t-004
-  global_id: t-185995
-  teiginys: "Vasilijus raštu paskelbė karą Žygimantui, nors Glinskis jau buvo įsiveržęs į Lietuvos žemes."
+  global_id: t-196622
+  teiginys: "Apie sausio vidurį į Vilniaus seimą atvyko maskvėnų pasiuntiniai tartis dėl taikos, o sudarius sutartį paleisti visi belaisviai."
   pagrindžia:
-    - c-169356
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Priėmus nutarimą, ieškota žmogaus, kuriam be
-    pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
-    turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti
-    pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
-    dovauti galop parinko Henriką, mozūrų kunigaikščio
-    Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.
-    Jo atvykimas (tiesą sakant,
-    P a šn e n k a m a s m o zū rų
-    daug kas manė, jog dėl gi-
-    k u n ig a ik štis
-    H enri-
-    minystės jis gali likti nepas-
-    k a s
-    tebėtas) anaiptol negalėjo ne­
-    sukelti kryžiuočiams įtarimo,
-    tačiau tuo pat metu Vytautas Marienburge surengė sa­
-    vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
-    Vasilijaus, dideles palydėtuves. Visi manė, jog su kitais
-    kunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,
-    Vytauto žmonos Onos brolis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Po Vasilijaus valdų nusiaubimo Vasilijus turėjo prašyti taikos ir pažadėti neremti Švitrigailos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Viską apgalvojęs, galop įsakė kavalerijos pul­
-    kų vadams paieškoti miškuose ir pelkėse neužkirstų pro­
-    peršų ir jomis pasileisti siaubti Vasilijaus valdų. Vasi­
-    lijus, neilgai trukus pajutęs šį
-    M a s k v o s
-    v a ld o v a s
-    niokojamą smūgį, turėjo pra-
-    p r iv e ič ia m a s
-    p ra šy-
-    syti taikos. Išskyrus pažadą
-    ti ta ik o s
-    neremti Švitrigailos, susitar­
-    ta senomis sąlygomis; Vytau­
-    tas, tarytum žygis jau būtų visai užbaigtas, paskyrė va­
-    dovus, turėjusius išvesti kariuomenę iš priešo šalies, o
-    pats kuo skubiausiai, protarpiais keisdamas arklius, pasi­
-    leido į Vilnių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Vasilijus nurodė paleisti nelaisvėje buvusius lietuvius, bet sulaikė Mikalojų Glebavičių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Be
-    to, pasiuntiniai turėjo reikalauti neduoti dingsties nau­
-    jiems sambrūzdžiams, kurie gali kilti, jeigu nebus bau­
-    džiama už kaimiečiams daromas skriaudas (kurių pa­
-    sieniuose žmonės vargiai begali išvengti). Pasiunti­
-    niams primygtinai keliant šitokius reikalavimus ir
-    rodant pavyzdį karaliaus, nesulaikiusio nė vieno belais­
-    vio ir uoliausiai vengiančio visko, kas galėtų pakenkti
-    sudarytoms sutartims, Vasilijus atsakė visai ką kita:
-    esą Mykolas Glinskis, jo broliai bei giminaičiai nieku
-    būdu negalį būti išdavikai, nes jie savo noru perėję
-    į Maskvos kunigaikštystę anksčiau, nei sudarytos su­
-    tartys. Kai pasiuntiniai atvirai pareiškė, jog nei jie,
-    nei jų karalius šito primygtinai nėra tvirtinę, Vasilijus
-    pridūrė: jis esąs nurodęs, kad visiems lietuviams, esan­
-    tiems nelaisvėje, būtų* leista išvykti, sulaikomas tik
-    vienas Mikalojus Glebavičius, nes žinoma, jog kurie
-    ne kurie maskvėnai nesą paleidžiami iš Lietuvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Vasilijus raštu paskelbė karą Žygimantui, nors Glinskis jau buvo įsiveržęs į Lietuvos žemes.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šitokios ir panašios
-    paskalos, iš pradžių sklidusios tarp eilinių žmonių, o
-    vėliau dūmoje, įtikino, paties Vasilijaus patvirtintos, ir
-    Vasilijaus brolius, ir kitus didikus, kurie vieningai nu­
-    sprendė, kad reikia užbėgti Žygimantui už akių ir pra­
-    dėti karą. Štai todėl ir įsakė Glinskiui, sutelkus ka­
-    riuomenę, įsiveržti į Lietuvos žemes. Sužinojęs, jog
-    Glinskis uoliai vykdo gautą uždavinį, Vasilijus raštu
-    paskelbė karą (iš tikro jau jį pradėjęs) Žygimantui,
-    kuris tariamai pirmas sulaužęs sutartį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
+    - c-169355
 
 ## Citatos
 
 - id: c-169353
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 325"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 325."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Priėmus nutarimą, ieškota žmogaus, kuriam be
+    Todėl ir buvo nutar­
+    ta užbaigti sunkų bei ilgą karą, kuriam nei karalius,
+    užsiėmęs Lenkijos reikalais, asmeniškai negalėjo atsidė­
+    ti ir kurio nedrįso patikėti Skirgailai, karo sėkme nepa­
+    sižyminčiam kunigaikščiui, ir tokiu būdu išvaduoti Lie­
+    tuvą nuo baisiausių nelaimių; tai reikėjo padaryti dar
+    ir dėl to, kad, viena, lietuviai, be galo kovų nualinti,
+    nedengė karo išlaidų, o antra, lenkai irgi nenoromis
+    skyrė tam pinigų, nelyginant šitai būtų visai svetimas
+    3 2 6
+
+    reikalas. Priėmus nutarimą, ieškota žmogaus, kuriam be
     pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
     turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti
     pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
@@ -196,9 +92,8 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
     sukelti kryžiuočiams įtarimo,
     tačiau tuo pat metu Vytautas Marienburge surengė sa­
     vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
-    Vasilijaus, dideles palydėtuves. Visi manė, jog su kitais
-    kunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,
-    Vytauto žmonos Onos brolis.
+    Vasilijaus, dideles palydėtuves.
+  citata_rodoma: "Priėmus nutarimą, ieškota žmogaus, kuriam be\npavojaus galima būtų patikėti šią slaptą užduotį, mat jis\nturėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti\npasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­\ndovauti galop parinko Henriką, mozūrų kunigaikščio\nZemovito sūnų, neseniai vainikuotą Plocko vyskupu.\nJo atvykimas (tiesą sakant,\nP a šn e n k a m a s m o zū rų\ndaug kas manė, jog dėl gi-\nk u n ig a ik štis\nH enri-\nminystės jis gali likti nepas-\nk a s\ntebėtas) anaiptol negalėjo ne­\nsukelti kryžiuočiams įtarimo,\ntačiau tuo pat metu Vytautas Marienburge surengė sa­\nvo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio\nVasilijaus, dideles palydėtuves. Visi manė, jog su kitais\nkunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,\nVytauto žmonos Onos brolis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -209,8 +104,7 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
 - id: c-169354
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 368"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 368."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Viską apgalvojęs, galop įsakė kavalerijos pul­
     kų vadams paieškoti miškuose ir pelkėse neužkirstų pro­
@@ -239,53 +133,37 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
 - id: c-169355
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 609"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 609."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Be
-    to, pasiuntiniai turėjo reikalauti neduoti dingsties nau­
-    jiems sambrūzdžiams, kurie gali kilti, jeigu nebus bau­
-    džiama už kaimiečiams daromas skriaudas (kurių pa­
-    sieniuose žmonės vargiai begali išvengti). Pasiunti­
-    niams primygtinai keliant šitokius reikalavimus ir
-    rodant pavyzdį karaliaus, nesulaikiusio nė vieno belais­
-    vio ir uoliausiai vengiančio visko, kas galėtų pakenkti
-    sudarytoms sutartims, Vasilijus atsakė visai ką kita:
-    esą Mykolas Glinskis, jo broliai bei giminaičiai nieku
-    būdu negalį būti išdavikai, nes jie savo noru perėję
-    į Maskvos kunigaikštystę anksčiau, nei sudarytos su­
-    tartys. Kai pasiuntiniai atvirai pareiškė, jog nei jie,
-    nei jų karalius šito primygtinai nėra tvirtinę, Vasilijus
-    pridūrė: jis esąs nurodęs, kad visiems lietuviams, esan­
-    tiems nelaisvėje, būtų* leista išvykti, sulaikomas tik
-    vienas Mikalojus Glebavičius, nes žinoma, jog kurie
-    ne kurie maskvėnai nesą paleidžiami iš Lietuvos.
+    Karalius ketino atkeršyti už šią skriau­
+    dą, tačiau, Vladislovui, Vengrijos karaliui, tarpininkau­
+    jant, atgriaudėjanti karo audra buvo išsklaidyta, ka­
+    dangi Bogdanas pažadėjo sąžiningai grąžinti viską, ką
+    Po to Lietuvos luomai bu­
+    vo sušaukti į Vilniaus seimą.
+    Apie sausio vidurį atvyko
+    maskvėnų pasiuntiniai tartis
+    dėl taikos: sudarius sutartį,
+    buvo paleisti visi belaisviai. Maskvėnams išvykus, nu­
+    tarta teisti Glinskio šalininkus: daugelis už šį nusikal­
+    timą viešu luomų nutarimu buvo perduoti bajorų prie­
+    žiūrai, o žymiausieji, kaip iždininkai bei arklidinin-
+    kai, įkalinti Trakuose. Mykolas Goštautas, Lietuvos
+    Didžiosios Kunigaikštystės arklidininkas, valdęs didžiu­
+    lius turtus Lietuvoje ir Rusioje, buvo vedęs Glinskio
+    dukterį; dėl šitokios artimos giminystės kai kas manė,
+    jog jis su broliu, vyriausiuoju mokesčių rinkėju, nelikęs
+    nuošalyje nuo šio antkryčio, apėmusio net svetimša­
+    lius. Vis dėlto neilgai trukus, patyrus jų nekaltumą,
+    abu broliai buvo karaliaus sprendimu paleisti.
+  citata_rodoma: "Apie sausio vidurį atvyko \nmaskvėnų pasiuntiniai tartis \ndėl taikos: sudarius sutartį, \nbuvo paleisti visi belaisviai. Maskvėnams išvykus, nu­\ntarta teisti Glinskio šalininkus: daugelis už šį nusikal­\ntimą viešu luomų nutarimu buvo perduoti bajorų prie­\nžiūrai, o žymiausieji, kaip iždininkai bei arklidinin- \nkai, įkalinti Trakuose. Mykolas Goštautas, Lietuvos \nDidžiosios Kunigaikštystės arklidininkas, valdęs didžiu­\nlius turtus Lietuvoje ir Rusioje, buvo vedęs Glinskio \ndukterį; dėl šitokios artimos giminystės kai kas manė, \njog jis su broliu, vyriausiuoju mokesčių rinkėju, nelikęs \nnuošalyje nuo šio antkryčio, apėmusio net svetimša­\nlius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185994
+    - t-196622
 
-- id: c-169356
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 620"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 620."
-  citata_originali: |
-    Šitokios ir panašios
-    paskalos, iš pradžių sklidusios tarp eilinių žmonių, o
-    vėliau dūmoje, įtikino, paties Vasilijaus patvirtintos, ir
-    Vasilijaus brolius, ir kitus didikus, kurie vieningai nu­
-    sprendė, kad reikia užbėgti Žygimantui už akių ir pra­
-    dėti karą. Štai todėl ir įsakė Glinskiui, sutelkus ka­
-    riuomenę, įsiveržti į Lietuvos žemes. Sužinojęs, jog
-    Glinskis uoliai vykdo gautą uždavinį, Vasilijus raštu
-    paskelbė karą (iš tikro jau jį pradėjęs) Žygimantui,
-    kuris tariamai pirmas sulaužęs sutartį.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185995
+## Ryšiai
+- Vasilijus (Maskvos kunigaikštis) kariavo prieš [[objektai/asmenys/Žygimantas]]

@@ -47,28 +47,6 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - susijęs iš [[objektai/zodynas/konsekracija.md#claim-t-93089|konsekracija]]: Konsekracija po karūnacijos buvo laikoma bažnytiniu aktu, kuris ne suteikia daugiau valdžios, o pašventina karūnaciją.
 - susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
 - susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192225|chorunžuos]]: Narbutas mini tris „chorunžuos“: Merkio, Eišiškių ir Rodūnės karinius valsčius.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lie­
-    tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­
-    drinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių
-    yra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,
-    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­
-    munės durpynuose.
-    Į mezolito laikotarpio galą jau buvo pažįstamas ir pirmas
-    prijaukintas gyvulys, būtent šuo, kuris tada vartotas ir mėsai (gy­
-    vos mėsos « konservavimas »)^3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33871

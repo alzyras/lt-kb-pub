@@ -56,33 +56,13 @@ Nenurodyta
   teiginys: "Baltvyžių girios auksinę monetą Narbutas priskyrė vietos tautai ir vertino kaip meistriškai nukaltą Romos cezarių laikų stiliumi."
   pagrindžia:
     - c-174952
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Be jokios abejonės moneta priklauso tam kraštui ir tai tau ­
-    tai, kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nu­
-    kalta tokiu pat stiliumi kaip gerais Romos cezarių laikais. Pieši­
-    nys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią
-    piešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“
-    redaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir
-    tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174952
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 254"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 254."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Be jokios abejonės moneta priklauso tam kraštui ir tai tau ­
     tai, kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nu­

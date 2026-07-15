@@ -78,9 +78,9 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   pagrindžia:
     - c-21498
 
-<a id="claim-t-112357"></a>
+<a id="claim-t-112341"></a>
 - t-005
-  global_id: t-112357
+  global_id: t-112341
   teiginys: "Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi."
   pagrindžia:
     - c-103760
@@ -126,6 +126,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   teiginys: "Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje."
   pagrindžia:
     - c-103778
+    - c-46844
 
 <a id="claim-t-112348"></a>
 - t-012
@@ -155,99 +156,85 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   pagrindžia:
     - c-21498
 
-<a id="claim-t-112353"></a>
-- t-016
-  global_id: t-112353
-  teiginys: "Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje."
-  pagrindžia:
-    - c-46844
-
 <a id="claim-t-112354"></a>
-- t-017
+- t-016
   global_id: t-112354
   teiginys: "Po paskutinio karo Voluinėje Jogaila išlaisvino lietuvių didikus Rumbautą ir Goštautą ir pasiuntė juos Švitrigailai į Vilnių."
   pagrindžia:
     - c-103773
 
 <a id="claim-t-112356"></a>
-- t-018
+- t-017
   global_id: t-112356
   teiginys: "Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje."
   pagrindžia:
     - c-103767
 
-<a id="claim-t-112357"></a>
-- t-019
-  global_id: t-112357
-  teiginys: "Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi."
-  pagrindžia:
-    - c-103760
-
 <a id="claim-t-112358"></a>
-- t-020
+- t-018
   global_id: t-112358
   teiginys: "Vytauto laikais gotikinė pilis buvo statoma ir Voluinės Lucke."
   pagrindžia:
     - c-103764
 
 <a id="claim-t-112359"></a>
-- t-021
+- t-019
   global_id: t-112359
   teiginys: "Višnioveckiai telkė Bresto vaivadijos bajoriją, pasitelkdami šalininkus, tarnus ir rekrūtus iš savo dvarų Voluinėje."
   pagrindžia:
     - c-103777
 
 <a id="claim-t-112360"></a>
-- t-022
+- t-020
   global_id: t-112360
   teiginys: "Voluinė tapo šalutinių Gediminaičių šakų įsitvirtinimo erdve."
   pagrindžia:
     - c-103765
 
 <a id="claim-t-112362"></a>
-- t-023
+- t-021
   global_id: t-112362
   teiginys: "Apsirūpinus artilerija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis."
   pagrindžia:
     - c-103757
 
 <a id="claim-t-112363"></a>
-- t-024
+- t-022
   global_id: t-112363
   teiginys: "1447 m. privilegijoje Kazimieras įsipareigojo išlaikyti Lietuvą Vytauto laikų ribose, kad Podolė su Voluine liktų Lietuvai."
   pagrindžia:
     - c-21497
 
 <a id="claim-t-112364"></a>
-- t-025
+- t-023
   global_id: t-112364
   teiginys: "Jogaila išlaisvino paskutiniame kare Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą."
   pagrindžia:
     - c-103773
 
 <a id="claim-t-112365"></a>
-- t-026
+- t-024
   global_id: t-112365
   teiginys: "1340 m. Vytenio ir Gedimino laikų plėtros kontekste prie Lietuvos buvo prijungta Voluinė."
   pagrindžia:
     - c-103768
 
 <a id="claim-t-188871"></a>
-- t-027
+- t-025
   global_id: t-188871
   teiginys: "Švitrigailos privilegijos nuoraše nurodyta, kad Ostapui Kropotkovui herbas duotas kartu su Podbužo dvaru Voluinėje."
   pagrindžia:
     - c-171760
 
 <a id="claim-t-193253"></a>
-- t-028
+- t-026
   global_id: t-193253
   teiginys: "Kuriantis valstybei, iš kaimynų lietuviams pavojingiausi buvo Voluinės kunigaikštystė ir kalavijuočių ordinas."
   pagrindžia:
     - c-175986
 
 <a id="claim-t-193254"></a>
-- t-029
+- t-027
   global_id: t-193254
   teiginys: "Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai."
   pagrindžia:
@@ -344,7 +331,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - susijęs iš Busavna: 1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o Teodoras Narbutas šį kraštą apibūdino kaip labai nuniokotą.
 - susijęs iš Didžioji Lenkija: 1431 m. Didžiojoje Lenkijoje įsiplieskė karas su Kryžiuočių ordinu.
 - susijęs iš Didžioji Lenkija: 1431 m. Didžiojoje Lenkijoje kilo karas su Kryžiuočių ordinu.
-- susijęs iš Drohičinas: Lietuvos metraštyje pasakojama, kad Erdvilas rado Drohičiną Batu nusiaubtą ir sunaikintą, vėliau jį atstatė ir jame kunigaikščiavo.
 - susijęs iš Drohičinas: Narbutas rašo, kad 1247 m. kunigaikštis Vasilka trečią dieną pasivijo jotvingius prie Drohičino.
 - susijęs iš Drohičinas: Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis.
 - susijęs iš Gardinas: Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
@@ -360,6 +346,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - susijęs iš Kijevas: Po Mykolo mirties Lietuvos ponai Lietuvos valdovu siūlė Kijevo kunigaikštį Simaną.
 - susijęs iš Kijevas: 1461 m. Lietuvos ponai kandidatu į Lietuvos valdovus siūlė Kijevo kunigaikštį Simaną.
 - susijęs iš Kijevas: Kijevas buvo tarp Lietuvos politinėje įtakoje buvusių Rusios erdvės centrų.
+- susijęs iš Kijevas: Narbutas Perkūno stabo garsumą X a. siejo su Vladimiro pastatytais tokiais pat stabais Kijeve ir Naugarde.
 - susijęs iš Klevanė: Klevanėje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Čartoriskiai.
 - susijęs iš Klevanė: Voluinėje Čartoriskiai sukūrė tėvoniją Klevanėje.
 - susijęs iš Kovelis: Kovelyje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Sanguškos.
@@ -377,6 +364,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - susijęs iš Podolė: Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais.
 - susijęs iš Podolė: Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kryžiuočių ordinu.
 - susijęs iš Podolė: Podolė ne visa perėjo į tiesioginę Vytauto valdžią, nes ji nuo seno buvo glaudžiai susijusi su Lenkija.
+- susijęs iš Podolė: Lietuvos metraštyje Jonas Žadivydas vadinamas kunigaikščiu, valdžiusiu Podolės žemę.
 - susijęs iš Polockas: Gedimino ar Algirdo laikais Polocko žemės telkėsi apie Lietuvą kaip politinės sistemos centrą.
 - susijęs iš Pskovas: Gedimino ar Algirdo laikais Pskovas buvo Lietuvos politinėje įtakoje.
 - susijęs iš Romainiai: Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių.
@@ -400,481 +388,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70368|tėvonija tėvų palikimas]]: Voluinėje tėvonijas sukūrė Sanguškos, Čartoriskiai, Vyšnioveckiai ir kitos Gediminaičių šakos.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22336|tėvonija]]: Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1447 m. privilegija. Kadangi tuo metu tarp Lietuvos ir Len-
-    kijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai
-    į šitą privilegiją įrašė punktą, kuriuo Kazimieras pasižadėjo iš-
-    laikyti Lietuvą tose pačiose ribose, kokias ji turėjo Vytauto lai-
-
-    kais. Tai reiškė, kad Podolė su Voluine turi likti Lietuvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-024
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tame pat seime dalis Lietuvos ponų, pasipiktinusių lenkais, grą-
-    žino jiems herbus, 1413 m. gautus iš lenkų.
-    Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos,
-    o Podolė buvo valdoma Lenkų. Švitrigaila mirdamas (1452 m.)
-    testamentu Voluinę paliko Lietuvai, tačiau lenkai ne tik neketino
-    atiduoti Lietuvai Podolės, bet dar ruošėsi ginklu užgrobti ir Vo-
-    luinę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-015
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip Vy-
-    tauto (žiūr. 165 psl.), taip ir Kazimiero laikais tankiau buvo
-    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
-    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
-    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
-    linkes, buvo beveik negyvenamos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-    - t-010
-
-- c-004
-  santrauka: 'Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
-    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje). Vėlesniųjų
-    biržiečių Radvilų tėvas buvo Mikalojus Rudasis, o nesvy-
-    žiečių — Mikalojus Juodasis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
-    lų, gaminta bombos ir kiti karo reikmenys. Apsirūpinus ar­
-    tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
-    vo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,
-    Podolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­
-    les karinės amunicijos atsargas, nesunku buvo apginkluoti
-    gausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­
-    giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
-    gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
-    gos arkivyskupą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-023
-
-- c-006
-  santrauka: 'Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Netrukus Voluinėje bei Podolėje įsiplieskė karas su
-    Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kry­
-    žiuočių ordinu. Volumes gyventojai, jausdami karaliui anti­
-    patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų
-    apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­
-    tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­
-    nėtinai sėkmingas, taigi karalius, negalėdamas nieko jam pa­
-    tarti, sudarė su juo ilgalaikes paliaubas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-007
-  santrauka: 'Gedimino ar Algirdo laikais Voluinė buvo Lietuvos politinėje įtakoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
-    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
-    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
-    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
-    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
-    buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių
-    politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-008
-  santrauka: 'Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
-    išteklius. Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gy-
-    venimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė
-
-    L I E T U V O S  I S T O R I J A
-    46
-    laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
-    naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
-    guškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai
-    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
-    ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
-    prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
-    kos“ kilmės kunigaikščiai Ostrogiškiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-019
-
-- c-009
-  santrauka: 'Žygimantas Augustas prie Lenkijos prijungė Voluinės, Kijevo ir Podolės vaivadijas bei Palenkę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
-    Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
-    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
-    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
-    nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
-    prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-010
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XVI a. viduryje naujas madas atneš Vilniaus Žemuti-
-    nės pilies renesansas, tačiau gotikos tradicija, perimta vietos meistrų, dar
-    reikšis iki pat XVII a. pradžios.
-    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
-    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
-    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
-    (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
-    stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-    - t-014
-
-- c-011
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
-    naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
-    guškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai
-    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
-    ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
-    prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
-    kos“ kilmės kunigaikščiai Ostrogiškiai.
-    Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
-    atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-022
-
-- c-012
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Man atrodo, kad jei Lietuvo­
-    je buvo keletas tokių šventų vieto­
-    vių, tai Vilnius būtinai turėjo būti
-    viena iš jų, o jeigu buvo tik ta vie­
-    nintelė, tad tikriausiai po to smūgio
-    Perkūno tikėjimo relikvijos ir Krivių
-    Krivaitis su aukotojais iš Romainių
-    buvo perkelti į Vilnių, taigi Vilnius
-    XIII amžiaus gale jau galėjo būti tan­
-    kiai gvvenama ir svarbi gyvenvietė.
-    -  •  -
-    19
-
-    ## Puslapis 36
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir
-    savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti
-    mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­
-    tinto, Vilnelės bei Vilijos9 upių santakoje, ir į ten iš Trakų
-    perkėlė savo buveinę. Jis, pirmasis iš visų Lietuvos kuni­
-    gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
-    šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-007
-
-- c-013
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Čia gotika tapo
-    net ir stačiatikių ar būsimųjų graikų katalikų cerkvių stiliumi.
-    Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
-    tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
-    je. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
-    (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
-    pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
-    je, tai yra europinės reikšmės riba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-
-- c-014
-  santrauka: '1340 m. Vytenio ir Gedimino laikų plėtros kontekste prie Lietuvos buvo prijungta Voluinė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai šiek tiek primena frankus Galijoje,
-    t. y. germanų gentį, sukūrusią valstybę ir valdžios struktūras Galijoje ir
-    perėmusią vietinių žmonių kalbą bei kultūrą.
-    Algirdo didvalstybė
-    Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva
-    pasinaudojo pergale ir pajungė kai kurias rusų žemes. Mindaugo laikais
-    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
-    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
-    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-026
-
-- c-015
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mindaugo valstybės reikalai po krikšto ir karūnavimosi**
-
-    **Karai su Voluine.** Krikštijęsis ir susitaikinęs su ordinu,
-    Mindaugas ryžosi atgauti Voluinės kunigaikščio Danieliaus už-
-    grobtas žemes. Dabar karui vadovavo jau nebe svetimi kuni-
-    gaikščiai, bet Mindaugo sūnus Vaišvilkas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-016
-  santrauka: '1248 m. Mindaugo opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1248 m. padėtis jam
-    tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
-    čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
-    ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
-    tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
-    Livonijos ordino magistrą Andrių Štirlandą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-017
-  santrauka: 'Po paskutinio karo Voluinėje Jogaila išlaisvino lietuvių didikus Rumbautą ir Goštautą ir pasiuntė juos Švitrigailai į Vilnių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau šį sumanymą ir slaptus pasitarimus su Žygiman­
-    tu sugebėta išlaikyti gilioje paslaptyje. Jogaila, kad greičiau
-    įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­
-    raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­
-    imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių
-    didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam
-    į Vilnių13.
-    Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
-    rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
-    gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­
-    garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada
-    Goštautu ir daugeliu kitų bajorų, galingos kariuomenės
-    13
-    Tą patvirtina Slaptajame Karaliau­
-    čiaus archyve esantis Švitrigailos
-    laiškas, rašytas iš Vilniaus didžiajam
-    magistrui 1432 metų sausio 5 dieną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-    - t-025
-
-- c-018
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip
-    pat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas
-    Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.
-    Taigi matyti, kad 1219 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-019
-  santrauka: 'Višnioveckiai telkė Bresto vaivadijos bajoriją, pasitelkdami šalininkus, tarnus ir rekrūtus iš savo dvarų Voluinėje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    LDK rytinių vaivadijų - Baltosios Rusios
-    bajoriją telkė M. K. Katilas, mobilizacijos
-    vieta jai buvo paskirta Vileikos miestelio
-    apylinkės Ašmenos paviete. G. A. Oginskis
-
-    telkė respublikonų pajėgas Žemaitijoje, Viš-
-    nioveckiai organizavo bajoriją LDK pietuo-
-    se - Bresto vaivadijoje, pasitelkę ir savo
-    šalininkus, tarnus bei rekrūtus iš savo dvarų
-    Lenkijoje - Voluinėje. Visas respublikonų
-    pajėgas ketinta sujungti prie Širvintų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-021
-
-- c-020
-  santrauka: 'Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pats
-    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
-    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
-    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
-    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
-    nialųjį karo vadą, — atidavė auklėti jėzuitams.
-    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
-    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-021
-  santrauka: 'Švitrigailos privilegijos nuoraše nurodyta, kad Ostapui Kropotkovui herbas duotas kartu su Podbužo dvaru Voluinėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
-    metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
-    Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
-    kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
-    strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
-    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo -  riterio kepurė, o abipus
-    du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
-    Podbužo dvam Voluinėje už nuopelnus kare su totoriais. Datuotas Vil­
-    niuje 1354 melų mgpjūčio 7 dieną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-027
-
-- c-022
-  santrauka: 'Kuriantis valstybei, iš kaimynų lietuviams pavojingiausi buvo Voluinės kunigaikštystė ir kalavijuočių ordinas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Karai valstybės jungimo laikotarpy.** Kuriantis valstybei, iš
-    kaimynų lietuviams pavojingiausi buvo Voluinės kunigaikštystė
-    ir kalavijuočių ordinas. Sunku būtų buvę vienu metu kariauti
-    su abiem priešais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-028
-
-- c-023
-  santrauka: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jų kiekvienas
-    pavietas turėjo tokių pat, kaip ir visa valstybė: čia buvo ir
-    stalininkų, ir taurininkų, ir ark-
-    lininkų, ir kardininkų ir daugy-
-    bė kitų.
-    **Lietuvos valstybės teritorija**
-    po unijos buvo labai sumažė-
-    jusi, nes didžiuliai Palenkės, Vo-
-    luinės, Braclavo ir Kijevo žemių
-    plotai atiteko Lenkijai. Lietuviai
-    veltui reikalavo, kad lenkai tas
-    žemes jiems grąžintų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-029
-
 ## Citatos
 
 - id: c-21497
@@ -933,8 +446,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112348
     - t-112346
+    - t-112348
 
 - id: c-46844
   redaktorius: "A. Šapoka"
@@ -946,12 +459,10 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     biržiečių Radvilų tėvas buvo Mikalojus Rudasis, o nesvy-
     žiečių — Mikalojus Juodasis.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-112353
-
 - id: c-103757
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1039,7 +550,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112341
-    - t-112357
 
 - id: c-103762
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1079,8 +589,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112358
     - t-112351
+    - t-112358
 
 - id: c-103765
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1314,15 +824,14 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - id: c-171760
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 402"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
     metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
     Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
     kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
     strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
-    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo -  riterio kepurė, o abipus
+    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
     du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
     Podbužo dvam Voluinėje už nuopelnus kare su totoriais. Datuotas Vil­
     niuje 1354 melų mgpjūčio 7 dieną.

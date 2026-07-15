@@ -10,14 +10,14 @@ datos:
   - '2000 m.'
 date_start: '1820'
 date_end: '2000'
+amziai:
+  - 'XIX'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - grupe
-amziai:
-  - 'XIX'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -88,15 +88,8 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   pagrindžia:
     - c-171073
 
-<a id="claim-t-192376"></a>
-- t-008
-  global_id: t-192376
-  teiginys: "Narbutas egiptiečių ryšius su kolchais siejo su prielaida, kad kolchai išėjo į Egiptą."
-  pagrindžia:
-    - c-175170
-
 <a id="claim-t-194563"></a>
-- t-009
+- t-008
   global_id: t-194563
   teiginys: "Senovėje žalčių garbinimas buvo visuotinis: indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau gelis kitų tautų nebuvo laisvos nuo tų prietarų."
   pagrindžia:
@@ -149,22 +142,6 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 - susijęs iš [[objektai/zodynas/Daugiadievystė.md#claim-t-189221|Daugiadievystė]]: Narbutas rašė, kad graikai, iš egiptiečių perėmę dalį dangaus kūnų ir Titanų giminės garbinimo, išvystė malonesnę daugiadievystę.
 - susijęs iš [[objektai/zodynas/Miškas su kovarniais.md#claim-t-189313|Miškas su kovarniais]]: Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes kovarniai lizdus krauna aukštuose medžiuose tankiose ar nuošaliose vietose.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Lietuvos tauta, gyvendama pietinėj įšleitėj tarp upių Isterio, arba Dunojaus, Tyrulės ir Niperio
-        visu šiaurės Uksiniu pamariu, noris įvairiais vardais vadinama, vienok buvo didžiai garsi gilioj
-        senovėj, nesgi turėjo pažines ir prekiojo ne vien su grekonimis, bet ir su egipčionimis,
-        penicijonimis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado kitokių polinkių žmones.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -215,23 +192,6 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   pagrindžia:
     - t-003
 
-- c-004
-  santrauka: 'Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su pagrobtos deivės dukterimi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Čia tik pažymėsime, kad visose tautose, kuriose žinomas Plu­
-    tonas, jis apvesdinamas su pagrobtos į pragarą deivės dukteri­
-    mi. Egiptiečiai, finikiečiai, graikai, romėnai pasakojo tą patį.
-    Indai, kurių Plutonas vadinamas Mahadevu, priskiria jam žmo­
-    ną, vardu Kali.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-005
   santrauka: 'Narbutas rašė, kad egiptiečiai turėjo Kamefius, o Georgi juos siejo su japonų Kami ir slavų Tryzna.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -249,26 +209,6 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-
-- c-006
-  santrauka: 'Narbutas rašė, kad egiptiečiai, chaldėjai, persai, graikai, romėnai ir kitos tautos ugnį garbino kaip dievybę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
-    pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
-    dingos mūsų tėvynės istorijai.
-    Šventoji ugnis
-    Chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti kaip
-    dievybę garbino ugnį. Gvebrai, ligi šiol išpažįstantys Zoroast-
-    ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą,
-    bet nemoka tos esybės pavadinti vardu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
 
 - c-007
   santrauka: 'Narbutas nurodė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais šventyklų dievams statytojais.'
@@ -295,46 +235,6 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   pagrindžia:
     - t-007
 
-- c-008
-  santrauka: 'Narbutas egiptiečių ryšius su kolchais siejo su prielaida, kad kolchai išėjo į Egiptą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kadangi tie kolchai turėjo santykių su egiptiečiais ar
-    priiminėjo juos, jų kolonijų ar tik pastatyto miesto ar
-    tvirtovės būta šiaurinėje Azovo jūros pakrantėje, tai da­
-    1
-    Ritter Carl. Die Vorhalle europäischer Völkergeschichten. Ber­
-    lin, 1820.
-    42
-
-    ## Puslapis 42
-
-    vė pagrindą manyti, kad kolchai išėjo į Egiptą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Senovėje žalčių garbinimas buvo visuotinis: indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau gelis kitų tautų nebuvo laisvos nuo tų prietarų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šiuos prietarus žinojo ir Lietuvos rusinai.
-    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
-    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
-    gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
-    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
 ## Citatos
 
 - id: c-10063
@@ -359,19 +259,20 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tokia pat dvasia gyveno dau­
-    gybė senųjų Azijos tautų.
-    Prieš 2000 metų iki krikščioniškosios eros, kai egiptiečiai
-    pradėjo bendrauti su pietiniais Europos pakraščiais, jie tenai
-    rado visai kitų polinkių žmones, kuriems lemtis lėmė iškilti
-    visose srityse. Mat vos Europos tautos pasiekė tam tikrą civili­
-    zacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­
-    zuotų Azijos ir Afrikos gyventojų -  jis milžiniškais žingsniais
-    80
-
-    ## Puslapis 80
-
-    pakilo siekti šviesos.
+    Visa tai,
+    sulydyta su įgimtais europiečių privalumais, sukūrė tautą, ver­
+    tą valdyti pasaulį, - tautą, kuriai buvo lemta tapti pavyzdžiu
+    tolimiausiems ainiams ir kuri tarytum šešėlis dingo nuo pa­
+    saulio paviršiaus vien todėl, kad jos moralė skyrėsi nuo religi­
+    jos vaizdinių, kad dievų žyniai nebuvo filosofai nei filosofijos
+    žyniai.
+    Pamąstykime dabar apie pražūtingas senovės tautų tiky­
+    bos klaidas, pradėdami nuo daugiadievystės išpažinimo.
+    Šiandien nereikia įrodinėti, kad pirmykštis Dievo pažini­
+    mas yra įrėžtas žmogaus širdyje, nereikia net daug mąstyti,
+    kad tai suprastum. Betgi žmonės, turintys geresnes galvas, leng­
+    vai išrado tai, ką mes vadiname proto religija.
+  citata_rodoma: "Tokia pat dvasia gyveno dau­\ngybė senųjų Azijos tautų.\nPrieš 2000 metų iki krikščioniškosios eros, kai egiptiečiai\npradėjo bendrauti su pietiniais Europos pakraščiais, jie tenai\nrado visai kitų polinkių žmones, kuriems lemtis lėmė iškilti\nvisose srityse. Mat vos Europos tautos pasiekė tam tikrą civili­\nzacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­\nzuotų Azijos ir Afrikos gyventojų -  jis milžiniškais žingsniais\n80\n\n## Puslapis 80\n\npakilo siekti šviesos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -384,19 +285,18 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Egiptiečiai, giliai nugrimz­
-    dę į gamtos pažinimą, arba į pasaulio fizinį kintamumą, prie
-    dangaus kūnų garbinimo, tuoj pat perimto iš chaldėjų, pridė­
-    jo asmenų, laikytų nemirtingais, dievinimą. Pagaliau dėl dau-
-    Antilucretius. - L. 9. - V. 897.
-    83
-
-    ## Puslapis 83
-
-    gybės savo žynių smulkmeniškiausių svarstymų jie ėmė laikyti
-    dievybėmis menkiausius daiktus -  net taip, kad tie išminčiai
-    įsakė vargšams žmonėms keliaklupsčiauti prieš žvėris, paukš­
-    čius, šliužus, augalus.
+    Lietuviai turėjo eiti į daugiadievystę tuo pačiu keliu, nes
+    dėl vienodų padarinių galima spėti buvus vienodą priežastį.
+    Mat jie ne tik kad buvo su helenais tos pačios kilmės - kaip
+    tatai paaiškės pažinus jų senovės istoriją, - bet ir turėjo vieną
+    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
+    čią beveik visas menkiausias smulkmenas.
+    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
+    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
+    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
+    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
+    plaikos kilo mitologija, kurią imamės išdėstyti.
+  citata_rodoma: "Egiptiečiai, giliai nugrimz­\ndę į gamtos pažinimą, arba į pasaulio fizinį kintamumą, prie\ndangaus kūnų garbinimo, tuoj pat perimto iš chaldėjų, pridė­\njo asmenų, laikytų nemirtingais, dievinimą. Pagaliau dėl dau-\nAntilucretius. - L. 9. - V. 897.\n83\n\n## Puslapis 83\n\ngybės savo žynių smulkmeniškiausių svarstymų jie ėmė laikyti\ndievybėmis menkiausius daiktus -  net taip, kad tie išminčiai\nįsakė vargšams žmonėms keliaklupsčiauti prieš žvėris, paukš­\nčius, šliužus, augalus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -407,8 +307,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 - id: c-171069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 107"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 107."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Čia tik pažymėsime, kad visose tautose, kuriose žinomas Plu­
     tonas, jis apvesdinamas su pagrobtos į pragarą deivės dukteri­
@@ -425,15 +324,19 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 - id: c-171070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
-    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
-    Indų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
-    Kamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­
-    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
-    slavų Tryzną.
+    Toms statulėlėms
+    stigo keleto rankų, matyt, buvo nulaužtos. Domintis vėliau,
+    po dešimt metų, neaptikta nė pėdsako, kur toji liekana dingo;
+    vos rasta atsimenančių šį nutikimą; žydai nenorėjo prisipažin­
+    ti tai pirkę. Nežinia, kas buvo užrašyta, bet vis dėlto vienas
+    žodis, to dvarininko nupieštas iš atminties, kaip nagrinėjant
+    paaiškėjo, mūsų raštu reiškė Triopa (Trejopa), o tai lietuviškai
+    tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
+    ar figūros arba trys žmogaus egzistavimo tarpsniai - gyveni­
+    mas, mirtis ir amžinybė.
+  citata_rodoma: "Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek\nsusiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.\nIndų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo\nKamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­\nsiškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką\nslavų Tryzną."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -444,8 +347,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 - id: c-171072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 223"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
@@ -465,22 +367,22 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 - id: c-171073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 263."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
-    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
-    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
-    randame nuolat minimus miškus: kartais kalbama apie mišką
-    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
-    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
-    kiausiame miške ar nuošaliausiose vietose.
-    Šventyklos
-    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
-    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
-    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
-    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
-    kalnai.
+    Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
+    dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
+    giją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir
+    puošė dievų statulomis. Neabejotina, kad Retra iš karto buvo
+    lierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-
+    l<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­
+    nanti prabangumu tas beveik dar laukines Europos šalis. Ar
+    ne paprasčiau būtų to rūmo pastatymą priskirti užkariauto­
+    jams iš Italijos negu slavams, kurie savo šalyje niekur nieko
+    panašaus neturėjo ir, atplūdę iš Vyslos dešiniojo kranto miš­
+    kingų tyrų, užgrobė vandalų, svebų ir kitų vokiečių tautų ap­
+    leistas žemes, o paskui pradėjo spausti herulus ir užiminėti jų
+    apgyventas sodybas.
+  citata_rodoma: "Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­\nto, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už\nXVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų\nrandame nuolat minimus miškus: kartais kalbama apie mišką\nsu kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­\nčiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­\nkiausiame miške ar nuošaliausiose vietose.\nŠventyklos\nHerodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai\npirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­\nriuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar\nilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo\nkalnai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -488,34 +390,10 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   pagrindzia:
     - t-188179
 
-- id: c-175170
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Kadangi tie kolchai turėjo santykių su egiptiečiais ar
-    priiminėjo juos, jų kolonijų ar tik pastatyto miesto ar
-    tvirtovės būta šiaurinėje Azovo jūros pakrantėje, tai da­
-    1
-    Ritter Carl. Die Vorhalle europäischer Völkergeschichten. Ber­
-    lin, 1820.
-    42
-
-    ## Puslapis 42
-
-    vė pagrindą manyti, kad kolchai išėjo į Egiptą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192376
-
 - id: c-176963
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-

@@ -45,30 +45,12 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
     - c-59333
 - susijęs iš [[objektai/ivykiai/Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.).md#claim-t-59552|Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.)]]: 1251 m. Culmense vietovėje įkurta Kulmo vyskupijos katedra ir miestas Culmense.
 - susijęs iš Chełmža: Chełmža 1222 m. dokumente minima Lozos vardu, o 1251 m. joje įkurta Kulmo vyskupijos katedra ir miestas Culmense.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Loza minima 1222 m. dokumente, o 1246 m. dokumente rašoma apie prie Lozos kaimo esantį ežerą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Chełmżyńskie jezioro). Gyvenvietė minima 1222 m. dokumente
-    Lozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos
-    kaimo (villa) esąs ežeras: Loza cum stagno (ten pat. Nr. 182, p. 133).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59333
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 57"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Chełmżyńskie jezioro). Gyvenvietė minima 1222 m. dokumente
     Lozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos

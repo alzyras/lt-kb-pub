@@ -43,25 +43,6 @@ Bagdanavičius, V.
   teiginys: "V. Bagdanavičius 1959 m. paskelbė kritišką LTSR istorijos pirmojo tomo įvertinimą apie sovietinę Lietuvos istoriografiją."
   pagrindžia:
     - c-33164
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Drauge čia paliečiame, kaip vystėsi _Lietuvos isto­
-    rijos mokslas_ jos aukštosiose mokyklose, ypač nepriklausomoje
-    Lietuvoje ir paskutinius dešimtmečius (tėvynėje ir emigracijoje).
-    Bagdanavičius, V. : _Sovietinė Lietuvos istoriografija_. _Kritiškas
-    LTSR Istorijos I tomo įvertinimas,_ TaPr, I, 1, 1959, 3-24 p. —Dundu­
-    lis, B. : _Lietuvos TSR istorijos pirmasis tomas,_ Komunistas, 1958, nr.
-    5, 53-59 p. - HPol, t. 1, d. 2, p. 7-27.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

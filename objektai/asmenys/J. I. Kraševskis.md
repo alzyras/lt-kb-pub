@@ -34,35 +34,13 @@ Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. K
   teiginys: "Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. Kraševskiu."
   pagrindžia:
     - c-174304
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. Kraševskiu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Galima
-    spėti, jog būtent ši recenzija
-    davė pradžią šaltiems
-    T. Narbuto ir J. I. Kraševskio santykiams (nors, jeigu
-    tikėsime pirmuoju, jie niekuomet nebuvo asmeniškai pa­
-    žįstami). Ši nuostata ypač ryški istoriko laiškuose arti-
-    miausiems bičiuliams. Beje, T. Narbutas dėl J. I. Kra­
-    ševskio istorinių darbų išsakė identiškų priekaištų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 451"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 451."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Galima
     spėti, jog būtent ši recenzija

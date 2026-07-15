@@ -42,8 +42,8 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
   teiginys: "Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta nagrinėti faktus ir girdėti įrodytas tiesas."
   pagrindžia:
     - c-177302
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas istorijai priešpriešina neklystančiojo toną ir faktų bei įrodytų tiesų nagrinėjimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -67,9 +67,12 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta nagrinėti faktus ir girdėti įrodytas tiesas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-175005
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tuo tarpu jie, pasirinkę kuklesnę poziciją, ry­
     žosi verčiau pelnyti žodis į žodį atkartojančių Mariną*
@@ -80,34 +83,9 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
     su budinais ¡buvo teilktasi vienu plunksnos brūkštelėjimu
     priskirti prie pasakų skyriaus, nes senovės tyrinėtojai nu­
     stato vienu metu dvejopą jų padėtį, — tai galėjo lemti
-    net ir Herodoto geografija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Citatos
-
-- id: c-175005
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 203."
-  citata_originali: |
-    Mūsų
-    senovės geografijos tyrinėtojas gal iš savo didelio moks­
-    lingumo, neužtikęs pakankamai išvardytų kai kurių seno­
-    vės tautų gyvenamųjų vietovių, pyksta pats ant savęs ir
-    piktžodžiauja prieš kompiliatorius, kam jie kartoja jų pa­
-    vadinimus. Tuo tarpu jie, pasirinkę kuklesnę poziciją, ry­
-    žosi verčiau pelnyti žodis į žodį atkartojančių Mariną*
-    ir Ptolemėją priekaištų negu vadinti pasakų išmone var­
-    dus tautų, kurių gyvenamųjų vietovių nepasisekė nustatyti.
-    Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta
-    nagrinėti faktus ir girdėti įrodytas tiesas.
+    net ir Herodoto geografija. Tačiau šie įrodymai negali pa­
+    teisinti mūsų tyrinėtojo nuomonės, nes jis, rašydamas ne-
+    klystančiojo stiliumi, neatsižvelgė į juos.
   citata_rodoma: "Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta\n  nagrinėti faktus ir girdėti įrodytas tiesas."
   statusas: verified
   teiginio_tipas: faktas
@@ -119,8 +97,7 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
 - id: c-177302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 203."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tuo tarpu jie, pasirinkę kuklesnę poziciją, ry­
     žosi verčiau pelnyti žodis į žodį atkartojančių Mariną*

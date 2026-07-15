@@ -64,39 +64,6 @@ Nenurodyta
   teiginys: "1254 m. birželio 24 d. Inocentas IV pavedė arkivyskupui Albertui išrinkti ir konsekruoti Mindaugo pageidaujamą vyskupo kandidatą."
   pagrindžia:
     - c-28684
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Specialiu raštu panaikindamas Rygos arkivyskupo jurisdikciją
-    Lietuvai, Inocentas IV Mindaugui pranešė apie Lietuvos vyskupijos
-    išskyrimą iš kaimyninės metropolito jurisdikcijos. Matyti, popiežius
-    jau nebepasitikėjo Mindaugo valstybės kaimyniniais vyskupais, nes
-    įgaliojo (1254.IX.3) Saksonijos (Neuenburgo) vyskupą iš Kristijono
-    paimti priesaiką popiežiaus ir Romos vyskupo vardu^114.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Mindaugas vėl kreipėsi į Inocentą
-    IV, kuris, «karaliaus karštų troškimų sužadintas», 1254.VI.24 d.
-    pavedė arkivyskupui Albertui išrinkti ir konsekruoti tokį tinkamą
-    vyskupui kandidatą^109 , kuris būtu pageidaujamas paties Mindaugo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

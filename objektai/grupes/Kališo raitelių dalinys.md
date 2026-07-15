@@ -35,30 +35,6 @@ Sukilėlių pajėgos Sukilėlių kariuomenės pagrindą Panerių mūšyje sudar�
   teiginys: "Panerių mūšyje Kališo raitininkų eskadronai buvo tarp Lenkijos sukilėlių junginių."
   pagrindžia:
     - c-40765
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sukilėlių pajėgos
-
-    Sukilėlių kariuomenės pagrindą Panerių
-    mūšyje sudarė Lietuvos ir Lenkijos suki-
-    lėlių daliniai. Lietuvos - 2-asis pėstininkų
-    pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
-    ulonų pulkas, Trakų sukilėlių daliniai ir
-    kiti smulkesni. Lenkijos - 7-asis pėsti-
-    ninkų pulkas, 1-asis, 2-asis ir 4-asis šaulių
-    pulkai, 1-asis ulonų pulkas, Kališo, Plocko,
-    Poznanės raitininkų eskadronai ir kiti ma-
-    zesni junginiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

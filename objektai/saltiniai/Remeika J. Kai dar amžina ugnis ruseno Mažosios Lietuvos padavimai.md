@@ -7,12 +7,12 @@ datos:
   - '1940 m.'
 date_start: '1940'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad remeika J.
   teiginys: "J. Remeikos „Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai“ išleista Kaune 1940 m."
   pagrindžia:
     - c-61902
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Remeikos „Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai“ išleista Kaune 1940 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,12 @@ Dusburgietis teigia, kad remeika J.
 - id: c-61902
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940.
+    3, 1828.
+    Voigt J. Namen-Codex der Deutschen Ordens-Beamten — Königsberg, 1843.
+    Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13.
+  citata_rodoma: "Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -61,6 +61,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/paprociai/Kūlimo jaujoje darbo tvarka.md#claim-t-195369|Kūlimo jaujoje darbo tvarka]]: Kūlimo rytą šeimininkas pirmasis pakyla, visi eina šerti gyvulių, o po pusryčių šeimininkas kūrena jaują ir vėto krūvą.
 - susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195360|Šienapiūtė]]: Šienapiūtėje mergaitės grėbia, džiovina ir krauna šieną, vakare arkliai laikomi prie ugnies, o rytą su šienu siunčiamos namo.
 - susijęs iš [[objektai/paprociai/Žiemos šventadienių vakarinis giedojimas grįčioje.md#claim-t-195394|Žiemos šventadienių vakarinis giedojimas grįčioje]]: Neatėjęs rytą ražončiaus giedoti galėjo būti apkaltintas tinginyste ir išstumtas iš grįčios.
+- susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
 - susijęs iš [[objektai/asmenys/D. Kuruta.md#claim-t-40078|D. Kuruta]]: Mūšiui pasibaigus, generolas leitenantas D. Kuruta įsakė nutraukti sukilėlių persekiojimą.
 - susijęs iš [[objektai/asmenys/Dargis.md#claim-t-60261|Dargis]]: Dargis buvo Žiokos valsčiuje gyvenęs prūsas, nepakentęs baltų žirgų ir po Ditricho bandymų atsisakęs prietaro.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59839|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.
@@ -106,7 +107,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/grupes/Žarėnų kuopa.md#claim-t-41221|Žarėnų kuopa]]: 1949 m. gegužės 21 d. MGB vidaus kariuomenės 32-asis šaulių pulkas Dievo Krėslo miške aptiko Žarėnų kuopos partizanų stovyklą.
 - susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23313|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Per 1926 m. gruodžio 17 d. perversmą ginkluoti kariškiai nutraukė Seimo posėdį, išvaikė Seimą ir suėmė prezidentą, ministrus bei kelis Seimo narius.
 - susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-71724|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demokratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruodžio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę).
-- susijęs iš [[objektai/ivykiai/Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas.md#claim-t-185690|Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas]]: Antrosios Smolensko apgulties metu priešas pabūklais sugriovė didelę gynybinės sienos dalį.
+- susijęs iš [[objektai/ivykiai/Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas.md#claim-t-185690|Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas]]: Per antrąją Smolensko apgultį maskvėnai pabūklais sugriovė didelę gynybinės sienos dalį, bet gynėjai per naktį užtaisė sienų plyšius rąstais.
 - susijęs iš [[objektai/ivykiai/Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.).md#claim-t-66478|Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)]]: 1264 m. Bartenšteino pilyje broliai stokojo maisto, nebegalėjo ilgiau priešintis prūsams ir apgaule priviliojo juos pulti pilį.
 - susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-186362|Biržų (Medeikių) mūšis (1863 m.)]]: Biržų mūšyje gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.
 - susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-186363|Biržų (Medeikių) mūšis (1863 m.)]]: Biržų mūšyje gen. mjr. I. Ganeckio rinktinė pasuko iš Medeikių į Biržų girią ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.
@@ -147,7 +148,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš Nagutinas: Po Pakimos nusiaubimo Konrado iš Tirbergo Jaunesniojo kariuomenė vakare perėjo užšalusį Nagutino ežerą.
 - susijęs iš Pagraudė: Brolis Eberhardas su kariuomene staiga įsiveržė į Lietuvos Pagraudės valsčių ir degindamas bei plėšdamas nusiaubė didžiąją jo dalį.
 - susijęs iš Paryžius: 1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių.
-- susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
 - susijęs iš Puoriai: 7-asis pulkas turėjo pulti Širvintas ir užimti Alionių, Puorių, Ramaškonių ir Šešuolėlių dvaro liniją.
 - susijęs iš Ramaškonys: 7-asis pulkas turėjo pulti Širvintas ir užimti liniją: Alionys-Puoriai-Ramaškonys-Šešuolėlių dvaras.
 - susijęs iš SSRS: Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad nepaisant Lietuvos atsakymo SSRS kariuomenė įžygiuos į Lietuvą.
@@ -171,46 +171,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/posakiai/Valioi mano dalgeeeeli, valiooooi, valiooooi!.md#claim-t-195418|Valioi mano dalgeeeeli, valiooooi, valiooooi!]]: Šienapiūtės dainoje kartojamas kreipinys į dalgį ir refrenas „valiooooi“.
 - susijęs iš [[objektai/zodynas/Prikeltuvės.md#claim-t-195630|Prikeltuvės]]: Prikeltuvės šiame šaltinyje yra svočios surengiama apeiga.
 - susijęs iš [[objektai/zodynas/Ražončius.md#claim-t-195465|Ražončius]]: Ražončius šiame šaltinyje reiškia rytinį giedojimą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vilniuje 1907 m. buvo
-    įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti
-    lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą (ji ir dabar
-    tebėra gyva ir tebeleidžia savo žurnalą Lietuvių Tautą).
-    Tais pačiais metais Vilniuje įsikūrė Lietuvių Dailės
-    Draugija ir daug kitų draugijų.
-    Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
-    kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
-    jampolėje „Žiburys".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vilniuje veikęs „Rytas“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tais pačiais metais Vilniuje įsikūrė Lietuvių Dailės
-    Draugija ir daug kitų draugijų.
-    Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
-    kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
-    jampolėje „Žiburys". Ypač plačiai buvo užsimojusi „Sau-
-    lė".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-01709

@@ -35,8 +35,8 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
   teiginys: "1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė Veliuonos pilį."
   pagrindžia:
     - c-171818
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė Veliuonos pilį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -59,14 +59,17 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
 - id: c-171818
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vėliau, pagal 1331 metų rugsėjo 17
-    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
-    buvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino
-    Veliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­
-    gė pilį iš naujo atstatyti ir sustiprinti.
+    Pergrubė (Pergrubie)
+    Pavasario, gėlių, daržų, žmogaus pastangomis gausinamų
+    žemės vaisių deivė.
+    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
+    gėlių ir vaismedžių sodas.
+    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
+    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
+    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
+  citata_rodoma: "Vėliau, pagal 1331 metų rugsėjo 17\ndienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys\nbuvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino\nVeliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­\ngė pilį iš naujo atstatyti ir sustiprinti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

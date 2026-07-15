@@ -40,7 +40,6 @@ Narbutas rašo, kad Pavyslio ir Padneprio senieji gyventojai pildavo milžinkapi
 - susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190743|Jordanas]]: Jordanas rašė, kad Okeano pakrantėje prie trijų Vyslos žiočių šakų gyveno iš įvairių tautų susidarę vidivariai.
 - susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190743|Jordanas]]: Jordanas rašė, kad Okeano pakrantėje prie trijų Vyslos žiočių šakų gyveno iš įvairių tautų susidarę vidivariai.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas rašo, kad Pavyslio ir Padneprio senieji gyventojai pildavo milžinkapius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -64,15 +63,17 @@ Narbutas rašo, kad Pavyslio ir Padneprio senieji gyventojai pildavo milžinkapi
 - id: c-171930
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 371"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iš istorijos žinome, kad kartais panašiai
-    darydavo romėnai. Kad Pavyslio, Padneprio senieji gyventojai
-    ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
-    vaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
-    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
-    buvęs kažkokios milžiniškos tautos amžinos kapinės.
+    Statinio viduje paprastai stovi maži mo­
+    liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­
+    na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
+    arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
+    žmonės priskiria kažkokią šventumo ypatybe5.
+    3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
+    pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
+    rius*.
+  citata_rodoma: "Iš istorijos žinome, kad kartais panašiai\ndarydavo romėnai. Kad Pavyslio, Padneprio senieji gyventojai\nir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų\nvaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,\nesama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų\nbuvęs kažkokios milžiniškos tautos amžinos kapinės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

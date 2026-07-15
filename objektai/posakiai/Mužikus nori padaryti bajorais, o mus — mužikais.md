@@ -42,42 +42,6 @@ media_all_json: |-
   teiginys: "Mužikus nori padaryti bajorais, o mus — mužikais: jame buvo nuostatų, palengvinančių valstiečių būklę ir paimančių juos įstatymo globon."
   pagrindžia:
     - c-67249
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bajorija šūkiu „Mužikus nori padaryti bajorais, o mus — mužikais“ protestavo prieš valstiečiams numatytus palengvinimus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jame buvo nuostatų, palengvinančių valstiečių būklę
-    ir paimančių juos įstatymo globon. Kadangi projektas buvo
-    iš anksto išspausdintas, tai bajorija šaukte šaukė ant jo dar
-    seimeliuose, o atstovai, susirinkę į seimą, atmetė jį net ne-
-    svarstę. Atmetė jį svarbiausia dėl valstiečiams
-    duodamųjų palengvinimų. „Mužikus nori padaryti
-    bajorais, o mus — mužikais", — šaukė bajorija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vienas artimiausiųjų jo
-    bendradarbių buvo Lietuvos vicekancleris Jokimas Chreptavi-
-    čius. Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
-    tvirtinti. Jame buvo nuostatų, palengvinančių valstiečių būklę
-    ir paimančių juos įstatymo globon.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

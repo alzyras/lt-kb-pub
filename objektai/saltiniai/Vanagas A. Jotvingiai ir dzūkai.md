@@ -7,12 +7,12 @@ datos:
   - '1979 m.'
 date_start: '1979'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad vanagas A.
   teiginys: "A. Vanago straipsnis „Jotvingiai ir dzūkai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1979 m."
   pagrindžia:
     - c-61974
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Vanago straipsnis „Jotvingiai ir dzūkai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1979 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,13 @@ Dusburgietis teigia, kad vanagas A.
 - id: c-61974
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vanagas A. Jotvingiai ir dzūkai.—MG, 1979, Nr. 9, p. 35—36.
+    191—197.
+    Мажюлис В. О связях литовско-латышского с другими древнебалтийскими
+    диалектами. — Проблемы этногенеза и этнической истории балтов: Тезисы докладов,
+    В., 1981, с.
+  citata_rodoma: "Vanagas A. Jotvingiai ir dzūkai.—MG, 1979, Nr. 9, p. 35—36."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -61,65 +61,13 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
   teiginys: "Posakiu „šuns kfauju“, kaip nurodo Lietuvos metraščio komentaras, Bychovco kronikos originaliajame tekste vadinami valstiečiai."
   pagrindžia:
     - c-170072
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bychovco kronikoje Žygimanto Kęstutaičio tariamas siekis iškelti mužikus, vadinamus „šuns krauju“, vaizduojamas kaip viena baisiausių jo nedorybių.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Smo­
-    lensko sukilimo aprašyme.
-    Valstiečiai originaliajame Bychovco kronikos teks­
-    te vadinami „šuns kfauju", bet nėra ko stebėtis, prisi­
-    minus, kad toje pačioje kronikoje feodalas Droždža,
-    Lietuvos did. kunigaikščio Aleksandro favorito kuni­
-    gaikščio Mykolo Glinskio giminaitis, valdęs didžiojo
-    kunigaikščio valsčius ir pilis, vadinamas „prastu" žmo­
-    gumi. Tariamas siekimas „visą bajorų luomą kruvinai
-    išgalabyti, o mužikus — šuns kraują — iškelti" paro­
-    dytas kaip viena iš baisiausių Žygimanto Kęstutaičio
-    nedorybių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_vaizdinys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Posakiu „šuns kfauju“, kaip nurodo Lietuvos metraščio komentaras, Bychovco kronikos originaliajame tekste vadinami valstiečiai.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Miestiečiai,
-    jei kur minimi, tai perimtame iš Trumpojo sąvado
-    tekste, ir tai jie pasirodo labiau iš neigiamos pusės:
-    vilniečiai pradeda Jogailai užimti Vilnių, bet neįsilei­
-    džia į miestą Vytauto, o smolenskiečiai — „prastieji
-    žmonės" — figūruoja kaip maištininkai 1440 m. Smo­
-    lensko sukilimo aprašyme.
-    Valstiečiai originaliajame Bychovco kronikos teks­
-    te vadinami „šuns kfauju", bet nėra ko stebėtis, prisi­
-    minus, kad toje pačioje kronikoje feodalas Droždža,
-    Lietuvos did. kunigaikščio Aleksandro favorito kuni­
-    gaikščio Mykolo Glinskio giminaitis, valdęs didžiojo
-    kunigaikščio valsčius ir pilis, vadinamas „prastu" žmo­
-    gumi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_vaizdinys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-170071
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 20"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 20."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Smo­
     lensko sukilimo aprašyme.
@@ -144,8 +92,7 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
 - id: c-170072
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 20"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 20."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Miestiečiai,
     jei kur minimi, tai perimtame iš Trumpojo sąvado

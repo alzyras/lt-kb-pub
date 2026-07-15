@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - frazė
+  - karas
   - posakis
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -35,43 +36,31 @@ Dusburgietis teigia, kad pastarojo pasakojimo pradžioje kronikininkas pažymi, 
   teiginys: "Antrojo prūsų sukilimo karai aprašyti ne visada chronologine seka, nes daugelio įvykių laikas išblėso iš gyvųjų atminties."
   pagrindžia:
     - c-59745
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Antrojo prūsų sukilimo karai aprašyti ne visada chronologine seka, nes daugelio įvykių laikas išblėso iš gyvųjų atminties.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pastarojo
-    pasakojimo pradžioje kronikininkas pažymi, jog skaitytojas antrojo sukilimo laikotarpio
-    „karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
-    atminties ir vargu ar kas galėtų juos tinkamai išdėstyti. Mat paprastai prisimenama,
-    kas dėjosi, bet kada — atmintyje neišlieka. Dėl to čia rasi daug ką paminėta ir aprašyta
-    užbėgant laikui už akių“ (III, 137).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197050"></a>
+- t-002
+  global_id: t-197050
+  teiginys: "Retrospektyvinis požiūris į įvykius ryškus tokiuose kronikininko pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje, paliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219)."
   pagrindžia:
-    - t-001
+    - c-59745
 
 ## Citatos
 
 - id: c-59745
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 26"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pastarojo
-    pasakojimo pradžioje kronikininkas pažymi, jog skaitytojas antrojo sukilimo laikotarpio
-    „karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
-    atminties ir vargu ar kas galėtų juos tinkamai išdėstyti. Mat paprastai prisimenama,
-    kas dėjosi, bet kada — atmintyje neišlieka. Dėl to čia rasi daug ką paminėta ir aprašyta
-    užbėgant laikui už akių“ (III, 137).
+    Kronikininkas šioje dalyje (kartais,
+    beje, ir anksčiau), neturėdamas tikslesnių įvykių datų, pasakojimą grindžia geografiniu
+    principu. Šiuo principu jis naudojasi, aprašydamas Prūsijos žemių tarp Vyslos ir
+    Nemuno nukariavimą. Retrospektyvinis požiūris į įvykius ryškus tokiuose kronikininko
+    pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje,
+    paliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59113
+    - t-197050

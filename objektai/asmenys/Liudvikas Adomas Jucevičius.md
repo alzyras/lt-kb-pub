@@ -34,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė tą figūrą.
+Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė tą figūrą. Jucevičiumi, re gis, taip pat nebūta glaudesnių kontaktų; laiškų neliko, o 1 Šautai.
 
 ## Teiginiai
 
@@ -44,40 +44,20 @@ Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui,
   teiginys: "Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė tą figūrą."
   pagrindžia:
     - c-177313
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė tą figūrą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
-    Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu
-    aprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dva­
-    re, priklausančiame grafienei Choueseul, tą dievuką gavau iš
-    kun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas
-    kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko
-    aplankyti savo brolį. Tuo metu Burokų dvare, priklausančiame
-    J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo
-    Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė
-    tą
-    figūrą.
-    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
-    leidimą (PEĮ.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197773"></a>
+- t-002
+  global_id: t-197773
+  teiginys: "Jucevičiumi, re gis, taip pat nebūta glaudesnių kontaktų; laiškų neliko, o 1 Šautai."
   pagrindžia:
-    - t-001
+    - c-179333
 
 ## Citatos
 
 - id: c-177313
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 491"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
     Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu
@@ -98,3 +78,23 @@ Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194917
+
+- id: c-179333
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Dau­
+    gumai ten išdėstytų faktų istorikas pritarė; jis mėgdavo
+    kartoti, jog M. Višnevskis apie lietuvių kalbą išmano ge­
+    riau negu kitas kuris lietuvis. T. Narbutas abejojo tik vie­
+    nu tyrinėtojo faktu, t. y. ar lietuvių kalbos gramatika bu­
+    vo parašyta jau XIII amžiuje3. Su L. A. Jucevičiumi, re­
+    gis, taip pat nebūta glaudesnių kontaktų; laiškų neliko, o
+    1 Šautai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197773

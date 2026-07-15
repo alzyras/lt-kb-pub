@@ -54,24 +54,6 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
 - susijęs iš Vokietija: 1940 m. birželio 16 d. sovietų divizijos per Lietuvos teritoriją strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos padėjo okupuoti abi šalis.
 - susijęs iš Vokietija: 1940 m. birželio 16 d. sovietų divizijos per Lietuvą strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.
 - susijęs iš [[objektai/ivykiai/Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.).md#claim-t-45354|Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.)]]: 1940 m. birželio 16 d. sovietų divizijoms per Lietuvą atkirtus Latviją ir Estiją nuo Vokietijos, abi valstybės buvo greitai okupuotos.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sovietams kariaujant su Suomija Baltijos vals-
-    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
-    kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
-    nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą
-    pavėluota.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-65567

@@ -70,7 +70,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179088|Kryžiuočių ordinas]]: 1390 m. sausio 19 d. netoli Gardino pilies Ordino komtūras sudarė sutartį su Vytautu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184508|Kryžiuočių ordinas]]: Medžiodamas prie Veliuonos karalius vos nepakliuvo į kryžiuočių pasalą, kurią surengė Rastenburgo komtūras.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184549|Lietuviai]]: Lietuviai krikščionių šventyklose išniekino šventuosius indus, o grįžtančius juos išžudė Kulmo komtūras Konradas Žakas.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179420|Livonijos ordinas]]: Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175077|Sembai]]: Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175122|Sūduviai-jotvingiai]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.
@@ -85,7 +84,7 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/Skuodo kautynės (1259 m.).md#claim-t-28863|Skuodo kautynės (1259 m.)]]: Skuodo laukuose žemaičiai sumušė juos persekiojusį Kuldingos komtūrą Bernhardą von Hareną, žuvo 33 riteriai.
 - susijęs iš [[objektai/ivykiai/Strėvos mūšis (1348 m.).md#claim-t-10298|Strėvos mūšis (1348 m.)]]: Vygando kronika Strėvos mūšį sieja su Ordino maršalu, didžiuoju komtūru, didelės lietuvių ir rusų kariuomenės telkimu ir mirtinu susirėmimu prie Strėvos upės.
 - susijęs iš [[objektai/ivykiai/Vernerio iš Orzelno išrinkimas didžiuoju magistru (1324 m. liepos 6 d.).md#claim-t-62948|Vernerio iš Orzelno išrinkimas didžiuoju magistru (1324 m. liepos 6 d.)]]: Verneris nuo 1313 m. buvo Ragainės komtūras, o nuo 1324 m. tapo didžiuoju magistru, kuriam Dusburgietis įteikė savo veikalą.
-- susijęs iš [[objektai/paprociai/Tvirtovių atstatymas grąžinant išblaškytus žemdirbius.md#claim-t-185909|Tvirtovių atstatymas grąžinant išblaškytus žemdirbius]]: Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.
+- susijęs iš [[objektai/paprociai/Tvirtovių atstatymas grąžinant išblaškytus žemdirbius.md#claim-t-185909|Tvirtovių atstatymas grąžinant išblaškytus žemdirbius]]: Ragainės komtūras išsklaidė Kauno tvirtovę iš griuvėsių kėlusius darbininkus ir išardė pradėtą pilį.
 - susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: Dinaburgo komtūro laiške teigiama, kad Vilniaus gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų.
 - susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius.
 - susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Švitrigailą ir Pilies kalno griūtį: Dinaburgo komtūras iš Liksnos į Lietuvą pasiuntė Petrą surinkti žinių apie Švitrigailą.
@@ -126,7 +125,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Jonas Lonei.md#claim-t-80718|Jonas Lonei]]: Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.
 - susijęs iš [[objektai/asmenys/Jonas de Lovenbinkė.md#claim-t-87716|Jonas de Lovenbinkė]]: Jonas de Lovenbinkė paminėtas tarp Ordino Livonijoje pusės atstovų.
 - susijęs iš [[objektai/asmenys/Juodutis.md#claim-t-60352|Juodutis]]: Juodutis buvo Naudžioto, sembų valstiečių išrinkto karvedžio, tėvas.
-- susijęs iš [[objektai/asmenys/Konradas (Prūsijos magistras).md#claim-t-186126|Konradas (Prūsijos magistras)]]: Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš [[objektai/asmenys/Konradas Lichtenhagenas.md#claim-t-87759|Konradas Lichtenhagenas]]: Brandenburgo komtūras Konradas Lichtenhagenas atėjo į Gardino valsčių ir pilį po žygio į Pagraudenės valsčių.
 - susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89923|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
 - susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89924|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
@@ -134,7 +132,7 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Kunas fon Lichtenšteinas.md#claim-t-40298|Kunas fon Lichtenšteinas]]: Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui.
 - susijęs iš [[objektai/asmenys/Kuno Lichtenšteinas.md#claim-t-183557|Kuno Lichtenšteinas]]: Žalgirio mūšio pradžioje didysis komtūras Kuno Lichtenšteinas vedė sunkiosios raitijos pleištą prieš lietuvius.
 - susijęs iš [[objektai/asmenys/Kuno Lichtenšteinas.md#claim-t-19083|Kuno Lichtenšteinas]]: Didysis komtūras Kuno Lichtenšteinas mūšio pradžioje vedė Ordino svečių ir samdinių sunkiosios raitijos pleištą prieš lietuvius.
-- susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186063|Liudvikas (Torunės komtūras)]]: Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigailą nebijoti karo su lenkais.
+- susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186063|Liudvikas (Torunės komtūras)]]: Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaiką ir žadėdamas pagalbą skatino Švitrigailą nebijoti karo su lenkais.
 - susijęs iš [[objektai/asmenys/Markvardas (Ragainės komtūras).md#claim-t-39600|Markvardas (Ragainės komtūras)]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.
 - susijęs iš [[objektai/asmenys/Markvardas Zalzbachas.md#claim-t-39390|Markvardas Zalzbachas]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63913|Martynas iš Golino]]: Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui.
@@ -155,7 +153,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Zygfridas iš Da[he]nfeldo.md#claim-t-80728|Zygfridas iš Da[he]nfeldo]]: Zygfridas iš Da[he]nfeldo 1348 m. dalyvavo Strėvos mūšyje kaip Ordino maršalas.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179706|Švitrigaila]]: Dinaburgo komtūras pranešė Livonijos magistrui, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179730|Švitrigaila]]: Dinaburgo komtūras pranešė Livonijos magistrui, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką.
-- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114101|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis leido Vilniaus miestiečiams prekiauti ir gabenti prekes be muitų Lietuvos žemėje.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102840|Dusburgas]]: Dusburgas laikytas aprašomų įvykių amžininku ir patikimu liudytoju apie Gedimino pilį.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102843|Dusburgas]]: Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
@@ -164,10 +161,7 @@ media_all_json: |-
 - susijęs iš [[objektai/daiktai/Kuorai.md#claim-t-183979|Kuorai]]: Brandenburgo pilyje broliai ir jų šeimyna gynėsi mediniame kuore nuo prūsų puldinėjimų.
 - susijęs iš [[objektai/daiktai/Kuorai.md#claim-t-59691|Kuorai]]: Brandenburgo pilyje broliai ir jų šeimyna gynėsi mediniame kuore nuo prūsų puldinėjimų.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178822|Kryžiuočių ordinas]]: Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178865|Kryžiuočių ordinas]]: Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179111|Kryžiuočių ordinas]]: Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti, kai Henrikas von Plauen Marienburge surinko apie 5000 vyrų įgulą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184495|Kryžiuočių ordinas]]: Karaliaučiaus komtūras Bertoldas Briuhavenas su Prūsijos kryžiuočių daliniu Livonijoje sumušė apgulties išsekintus lietuvius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184511|Kryžiuočių ordinas]]: Torunės komtūras Liudvikas su trimis kryžiuočių riteriais gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179390|Livonijos ordinas]]: Dinaburgo komtūras pranešė Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179398|Livonijos ordinas]]: Taikos sutartyje Livonijos ordino pusėje buvo minimi tarpininkai, tarp jų Rygos arkivyskupas, kapitula ir miesto atstovai.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179434|Livonijos ordinas]]: Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius.
@@ -189,7 +183,6 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-183928|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti.
 - susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-59177|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti.
 - susijęs iš [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.).md#claim-t-66632|Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]: Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies.
-- susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185717|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.).md#claim-t-185525|Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]]: Ragainės komtūras Verneris pasiūlė kryžiuočiams laivais pulti prie Nemuno ir kitų upių stovėjusias lietuvių pilis.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.).md#claim-t-185809|Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.)]]: Vasario pradžioje Karaliaučiaus komtūras Bertoldas Briuhavenas atvedė daugiau kaip 1500 raitelių į Junigedos apylinkes.
 - susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-183941|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
@@ -222,7 +215,6 @@ media_all_json: |-
 - susijęs iš Žygimanto 1432 m. rugsėjo 23 d. privilegija Vilniaus miestiečiams dėl prekybos ir muitų: 1432 m. rugsėjo 23 d. Žygimantas suteikė Vilniaus miestiečiams teisę prekiauti ir be muitų gabenti prekes Lietuvos žemėje.
 - susijęs iš Auktalitas: 1256 m. Karaliaučiaus komtūras Vonsdorfo žemėje apsupo, užėmė ir iki pamatų sudegino Auktalito pilį.
 - susijęs iš Gardinas: Balińskis Garteną tapatino su Gardinu ir minėjo jį kaip valsčių bei pilį netoli Pagraudenės.
-- susijęs iš Gardinas: Magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš Gedimino pilis Castrum Gedemini: 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.
 - susijęs iš Gedimino pilis Castrum Gedemini: Dusburgo kronikoje prie 1317 m. minima, kad Ragainės komtūras Fridrichas de Libencelė neįstengė užimti Gedimino pilies.
 - susijęs iš Girmava: Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo.
@@ -234,7 +226,6 @@ media_all_json: |-
 - susijęs iš Kaunas: Didžiojo kunigaikščio Aleksandro įsakymu Vilniaus miestiečių laivams su prekėmis buvo garantuota laisva laivyba Vilija iki Kauno ir atgal.
 - susijęs iš Kaunas: Žygimantas Vilniaus miestiečiams leido be muito gabenti prekes visoje Lietuvos žemėje, įskaitant Kauną.
 - susijęs iš Kaunas: Ragainės komtūras išsklaidė Kauno tvirtovę iš griuvėsių kelti mėginusius darbininkus ir išardė pradėtą pilį.
-- susijęs iš Kijevas: 1399 m. birželį Kijeve buvo sutelkta didelė Vytauto kariuomenė.
 - susijęs iš Kuršas: Paliauboms pasibaigus, žemaičiai puolė Kuršą ir vėliau Skuodo laukuose sumušė juos persekiojusius riterius.
 - susijęs iš Laukstetų pilis (pilis): Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą ties vieta, kur Dusburgiečio laikais stovėjo Laukstetų pilis.
 - susijęs iš Liksna: Dinaburgo komtūro pranešimas Livonijos magistrui buvo rašytas Liksnoje antrą savaitę po Viešpaties Prisikėlimo.
@@ -265,9 +256,8 @@ media_all_json: |-
 - susijęs iš Straisbergas: Rugsėjo pabaigoje per šventą Mykolą lietuviai apiplėšė Straisbergą, kur bažnyčiose žuvo daugybė susirinkusių žmonių.
 - susijęs iš Strėva: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
 - susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
-- susijęs iš Veliuona: Pasibaigus susitikimui karalius kurį laiką pasiliko Veliuonoje pailsėti, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.
+- susijęs iš Veliuona: Po 1418 m. susitikimo karalius kurį laiką pasiliko Veliuonoje, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.
 - susijęs iš Vilniaus pilies kalnas: Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus pilies kalną ištiko griūtis.
-- susijęs iš Vilnius: 1432 m. rugsėjo 23 d. Žygimantas suteikė Vilniaus miestiečiams teisę be muitų gabenti prekes Lietuvos žemėje.
 - susijęs iš Žiežmariai: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113653|Magdeburgo teisės]]: Žygimantas dviem privilegijomis lotynų ir rusų kalbomis atnaujino ir patvirtino Vilniaus Magdeburgo teises.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-183835|Papilys suburbium]]: 1324 metų birželio 11 dieną Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.
@@ -275,66 +265,8 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-86506|Papilys suburbium]]: Ragainės komtūras Tomas Aldenburgas su 44 broliais ir 400 vyrų iš Sembos bei Natangos švintant sudegino Gedimino pilies papilį.
 - susijęs iš [[objektai/zodynas/kūmas.md#claim-t-187556|kūmas]]: Osterodės komtūras Libestinas buvo didžiojo kunigaikščio Kęstučio kūmas ir Kęstučio dukters Jonušienės krikštatėvis.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-183717|maršalas]]: 1348 m. Ordino maršalas brolis Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi.
-- susijęs iš [[objektai/zodynas/papilys.md#claim-t-184633|papilys]]: 1299 m. Brandenburgo komtūras Kanonas sudegino namus Junigedos ir Pieštvės papiliuose.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58783|papilys]]: Rudenį komtūras antrą kartą sudegino atstatytą papilį, kuriame buvo sukrauti grūdai ir javai.
 - susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42512|stabmeldys]]: Sausio 24-osios išvakarėse į stabmeldžių žemę įžengę kariai žudė gyventojus ir degino kraštą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
-    spalių mėn. 21 d. Tapiau miestelyje Vytautą be jokių iškilmių
-    pakrikštijo. Tai įvyko tuo pačiu laiku, kai Trakuose palikusi
-    jų įgula be vilties kovojo su gausiu priešu. Krikšte Vytautui
-    buvo duotas Vigando vardas. Tuo pat vardu buvo ir jo krikš­
-    tatėvis, Ragainės komtūras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1348 m. didysis komtūras Vinrichas iš Kniprodės dalyvavo Strėvos mūšyje ir narsiai kovėsi.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Strėvos mūšį.
-    „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
-    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
-    tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos
-    bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­
-    binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių
-    polaidžio. Ordino maršalas Gotfridas Lindenas, įsibrovęs su
-    daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­
-    meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­
-    pavykus staiga užimti gerai ginamo miesto, grįžo atgalios
-    plėšti aplinkinių žemių23. Vis dėlto Algirdo valdymo pa­
-    baigoje Vilnius neišvengė seniai jam grėsusio pavojaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-14694

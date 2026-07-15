@@ -53,43 +53,20 @@ Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu s
 - susijęs iš Neris Vilija: Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo Skirgailos stovykla.
 - susijęs iš Verkiai: Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių-lenkų kariuomenei ilgai priešintis.
 - susijęs iš Šeškinės kalnas: Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių ir lenkų kariuomenei ilgai priešintis.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Nuo 1312 m. Karaliaučiuje buvo didžiojo maršalo rezidencija, iš kurios jis organizavo žygius į Lietuvą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
-    100 kelių  į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
-    kad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino
-    administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309
-    m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti
-    apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo
-    rezidencija136. Šis iš Karaliaučiaus, pavaduodamas didįjį magistrą, organizavo žygius  į
-    Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59530
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
-    100 kelių  į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
+    100 kelių į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
     kad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino
     administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309
     m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti
     apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo
-    rezidencija136. Šis iš Karaliaučiaus, pavaduodamas didįjį magistrą, organizavo žygius  į
+    rezidencija136. Šis iš Karaliaučiaus, pavaduodamas didįjį magistrą, organizavo žygius į
     Lietuvą.
   statusas: verified
   teiginio_tipas: faktas

@@ -35,28 +35,6 @@ media_all_json: |-
   teiginys: "Jogailos valdymo pradžioje Lietuvoje ėmė irti feodalinės visuomenės pamatai, kuriuos buvo gebėjęs išlaikyti Gediminas."
   pagrindžia:
     - c-82559
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jogailos valdymo pradžioje Lietuvoje ėmė irti feodalinės visuomenės pamatai, kuriuos buvo gebėjęs išlaikyti Gediminas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Algirdui užleidus sostą, jo sūnus jaunasis Jogaila (Ja-
-    gaytto)27, dar tėvui gyvam esant, paėmė į savo rankas aukš­
-    čiausiąją Lietuvos valdžią. Ėmė krašte krikti feodalinės
-    visuomenės pamatai, kurią tinkamai išlaikyti gebėjo Gedi­
-    minas. Galingesni vasalai grasino suvaržyti didžiojo ku­
-    nigaikščio valdžią, tad Jogailai kilo mintis visus tiesio­
-    giai valdomus lenus sujungti į vieną valstybę ir, tuo vėlei
-    susilpninus feodalizmą, ateičiai pakloti vienvaldystės pa­
-    grindus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

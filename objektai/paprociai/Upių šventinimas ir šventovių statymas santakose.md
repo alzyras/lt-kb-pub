@@ -55,38 +55,13 @@ Nenurodyta
   teiginys: "Upių šventinimo paprotį Narbutas sieja su seniausiais indais, kurie prie dviejų upių santakos statydavo šventoves."
   pagrindžia:
     - c-174980
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Upių šventinimo paprotį Narbutas sieja su seniausiais indais, kurie prie dviejų upių santakos statydavo šventoves.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    išnašos
-    tęsinys/
-    Patys seniausi indai turėjo paprotį, šventindami upes, prie dviejų
-    upių santakos statyti šventoves ir ten atlikti tokį garbinimą (Hie-
-    gels. Reise nach Indien). Jis šį paprotį, menantį seniausius bu­
-    dizmo
-    principus,
-    pastebėjo
-    Kašmiro
-    žemumoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 
 - id: c-174980
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 482"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 482."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     išnašos
     tęsinys/
@@ -105,4 +80,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192514
-    - t-002

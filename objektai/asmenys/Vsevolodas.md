@@ -43,39 +43,13 @@ media_all_json: |-
   teiginys: "1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu."
   pagrindžia:
     - c-174367
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Neabejotinai slaviš­
-    ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
-    kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
-    vengrai vadino šias gentis kumanais.
-    98
-    Poloviečių santykiai su rusais klostėsi nedraugiškai
-    nuo 1055 metų, kai tuometinis poloviečių vadas Balušas
-    atvirai kovojo su Rusia, bet netrukus po nesėkmingų kau­
-    tynių sudarė paliaubas su kunigaikščiu Vsevolodu. Po
-    šešerių metų antras vadas, vardu Sekalas, užpuolė rusų
-    kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį gro­
-    bį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174367
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 106"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Neabejotinai slaviš­
     ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­

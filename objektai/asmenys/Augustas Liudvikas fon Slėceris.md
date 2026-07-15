@@ -7,15 +7,15 @@ datos:
   - '1000 m.'
 date_start: '1000'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'X'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kalbininkas
   - asmuo
-amziai:
-  - 'X'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -78,8 +78,15 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   teiginys: "Narbutas rašo, kad Slėceris keliautojų patiriamus žinių rinkimo sunkumus priskyrė kliūtims, trukdančioms aiškintis geografinius vaizdinius."
   pagrindžia:
     - c-174824
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197713"></a>
+- t-007
+  global_id: t-197713
+  teiginys: "Prie tų kliūčių, kurios trukdo keliautojams išsiaiškin ti tokius vaizdinius, Slėceris labai teisingai priskiria sunkumus, su kuriais, norėdami gauti tam tikrų žinių, keliautojai susiduria net ir labiausiai apsišvietusiuose kraštuose."
+  pagrindžia:
+    - c-174824
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygino lietuviškam lihtars.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -121,25 +128,6 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Narbutas rašo, kad Slėceris prūsų ir slavų kalbas skelbė esančias antro giminystės laipsnio.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Visa tai išliko Prūsijoje. Jie
-    nekalbėjo slaviškai, nes Nestoras nemini jų tarp slaviškų
-    genčių; jų kalba buvo labiau gimininga slavų kalbai:
-    Slėceris šias dvi kalbas skelbia esant antro giminystės
-    laipsnio. Dėl sąjungos su graikų imperatoriumi rusai pri­
-    siekė savo dievu Perūnu; vadinasi, jis buvo tas pats kaip
-    ir prūsų Perkūnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Slėceris darė prielaidą, kad Otaitos, Peru ir Meksikos gyventojų žemesnis išsivystymas iš dalies siejosi su raitos medžioklės nežinojimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -158,44 +146,19 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   pagrindžia:
     - t-004
 
-- c-005
-  santrauka: 'Narbutas gina Slėcerį nuo kaltinimo melavimu, aiškindamas, kad jis galėjo remtis gerais senovės šaltiniais apie Baltiją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip jūros plotas vis didėjo, ir
-    galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra
-    didėjo. Tad tie, kurie pastebėjo fizinių įvykių, lėmusių
-    žemių prie Baltijos jūros dingimą, sakė tikrą tiesą, ir
-    tie, kurie, kaip Melą, teigė, jog Baltijos jūra užgriozta
-    pakrantės salų, kurios vieną sykį panašios į sausumą, o
-    kitą — į archipelagą, sakė taip pat ne mažiau tiesos. Tad
-    kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal­
-    būt nesilankė prie Baltijos, neturėjo tikro supratimo apie
-    Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės
-    šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su­
-    vokė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-006
   santrauka: 'Narbutas rašo, kad Slėceris keliautojų patiriamus žinių rinkimo sunkumus priskyrė kliūtims, trukdančioms aiškintis geografinius vaizdinius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Europą ir Afriką kartu jie vadino Europa, o
-    Siaurės reikšmė buvo siejama anaiptol ne su šiauriniais
-    kraštais.
     Prie tų kliūčių, kurios trukdo keliautojams išsiaiškin­
     ti tokius vaizdinius, Slėceris labai teisingai priskiria
     sunkumus, su kuriais, norėdami gauti tam tikrų žinių,
     keliautojai susiduria net ir labiausiai apsišvietusiuose
     kraštuose.
     Padavimai, pasakojimai labai dainai panašūs į pa­
-    sakas.
+    sakas. Reikia pačiam keliauti, rinkti pasakojimus įvairiuo­
+    se užkampiuose, kad įsitikintum, kiek daug būtina iš jų
+    atsijoti norint įrašyti į kritinę-istorinę užrašų knygutę.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -203,24 +166,25 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+    - t-007
 
 ## Citatos
 
 - id: c-173997
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 145."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Skitai gintarą
-    vadino
-    sacrium.
-    Šio
-    žodžio
-    galūnė
-    sugraikinta.
-    Slėceris skaito satrium ir tą žodį prilygina lietuviškam lihtars. Tik­
-    riausiai jį labiausiai reikėtų lyginti su skilu kalbos žodžiais*.
+    Kocebus teisingai vadina gintarą saulės akmeniu, se­
+    novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią
+    gaubia sunkiai atskleidžiamos uždangos4. Tačiau senovė­
+    je, jei atmesime tokias pasakas ir spėliones, pavyzdžiui,
+    kad jis susidaro iš lūšies šlapimo, ¡gintaru verkė Mulea-
+    įgrido paukščiai arba hiperborėjų Apolonas, būta apie jį
+    gana tikslių žinių. Bet ¡poetinis pasakojimas apie tuopomis
+    paverstus heliadus, iš kurių akių srūva gintaro lašai, ar­
+    tėja prie tiesos.
+  citata_rodoma: "Skitai gintarą\nvadino\nsacrium.\nŠio\nžodžio\ngalūnė\nsugraikinta.\nSlėceris skaito satrium ir tą žodį prilygina lietuviškam lihtars. Tik­\nriausiai jį labiausiai reikėtų lyginti su skilu kalbos žodžiais*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -231,8 +195,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
 - id: c-173999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 340"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 340."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Čia pakalbėsime apie kai
     kurias detales, palikdami išvadas daryti skaitytojui. Be
@@ -241,7 +204,9 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     prūsų vyriausiąjį kunigą.
     Penkios mažos gentys, gresiant pavojui susijungusios,
     įkūrė rusų valstybę ir išrinko savo vadą iš šeštos gen­
-    ties.
+    ties. Rusų kronikos įvairiai mini čiudus, slavus, merus,
+    vėsius ir krivičius.
+  citata_rodoma: "Čia pakalbėsime apie kai\nkurias detales, palikdami išvadas daryti skaitytojui. Be\nto, mes neįrodinėsime, nes Slėceris pripažino juoko vertą\ndalyką, kad, minint krivičius, galima būtų turėti omeny\nprūsų vyriausiąjį kunigą.\nPenkios mažos gentys, gresiant pavojui susijungusios,\nįkūrė rusų valstybę ir išrinko savo vadą iš šeštos gen­\nties."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -252,8 +217,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
 - id: c-174000
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 341"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Visa tai išliko Prūsijoje. Jie
     nekalbėjo slaviškai, nes Nestoras nemini jų tarp slaviškų
@@ -272,15 +236,17 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
 - id: c-174001
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 342"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 342."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
+    Dritter Band. S.
     84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
     vo žemesnio išsivystymo lygio todėl, kad nežinojo raitos
     medžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­
     limos Siaurės genčių, jau prieš 1000 metų nugalėdavę
     savo užpuolikus kavalerija“.
+    Abejoju, ar raitos medžioklės išmokė juos to meno,
+    nes, gyvenant tarp miškų ir pelkių, sunku joti arkliais į
+  citata_rodoma: "Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.\n84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­\nvo žemesnio išsivystymo lygio todėl, kad nežinojo raitos\nmedžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­\nlimos Siaurės genčių, jau prieš 1000 metų nugalėdavę\nsavo užpuolikus kavalerija“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -291,8 +257,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
 - id: c-174002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 373"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra
@@ -316,8 +281,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
 - id: c-174824
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 335"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Europą ir Afriką kartu jie vadino Europa, o
     Siaurės reikšmė buvo siejama anaiptol ne su šiauriniais
@@ -328,10 +292,14 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     keliautojai susiduria net ir labiausiai apsišvietusiuose
     kraštuose.
     Padavimai, pasakojimai labai dainai panašūs į pa­
-    sakas.
+    sakas. Reikia pačiam keliauti, rinkti pasakojimus įvairiuo­
+    se užkampiuose, kad įsitikintum, kiek daug būtina iš jų
+    atsijoti norint įrašyti į kritinę-istorinę užrašų knygutę.
+  citata_rodoma: "Prie tų kliūčių, kurios trukdo keliautojams išsiaiškin­\nti tokius vaizdinius, Slėceris labai teisingai priskiria \nsunkumus, su kuriais, norėdami gauti tam tikrų žinių, \nkeliautojai susiduria net ir labiausiai apsišvietusiuose \nkraštuose.\nPadavimai, pasakojimai labai dainai panašūs į pa­\nsakas. Reikia pačiam keliauti, rinkti pasakojimus įvairiuo­\nse užkampiuose, kad įsitikintum, kiek daug būtina iš jų \natsijoti norint įrašyti į kritinę-istorinę užrašų knygutę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191942
+    - t-197713

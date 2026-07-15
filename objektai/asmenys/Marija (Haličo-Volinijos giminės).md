@@ -51,43 +51,6 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
   teiginys: "Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala ir žuvusių brolių sesuo."
   pagrindžia:
     - c-91953
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jas pripažino Liubar­
-    tui ne tik uošvis, bet ir šio brolis Levas (Leonas), drauge su An­
-    driumi žuvęs 1323 m. Iš garsiosios Haličo-Volinijos Riurikaičių
-    giminės, su kuria XIII amžiaus Lietuva buvo tiek daug turėjusi
-    santykių, beliko vienintelė atžala — žuvusiųjų brolių sesuo Marija.
-    Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio
-    «Traidenio» I (1316-41).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš garsiosios Haličo-Volinijos Riurikaičių
-    giminės, su kuria XIII amžiaus Lietuva buvo tiek daug turėjusi
-    santykių, beliko vienintelė atžala — žuvusiųjų brolių sesuo Marija.
-    Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio
-    «Traidenio» I (1316-41). Šio sūnus Boleslovas-Jurgis II (1324-40),
-    Gediminui neprieštaraujant, perėmė dėdžių palikimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

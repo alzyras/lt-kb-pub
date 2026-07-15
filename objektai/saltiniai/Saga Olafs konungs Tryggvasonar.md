@@ -34,27 +34,6 @@ Vikingai naudojo visas didžiąsias upes rytų Pabaltijo, kuris kartą yra pavad
   teiginys: "„Saga Olafs konungs Tryggvasonar“ rytų Pabaltijį kartą pavadina senuoju terminu „Eistr“."
   pagrindžia:
     - c-33710
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Saga Olafs konungs Tryggvasonar“ rytų Pabaltijį kartą pavadina senuoju terminu „Eistr“.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šalia žinomojo Nevos-Ladogos-Volchovo-Ilmenio-Lovatės-
-    Dniepro kelio, pradžioje (VIII amž.) svarbų vaidmenį buvo įgijusi
-    Dauguva, o vėliau, kai normanų prekyba pagyvėjo (X amž.), šiek
-    tiek reikšmės įgijo ir Nemuno - Neries kelias. Vikingai naudojo
-    visas didžiąsias upes rytų Pabaltijo, kuris kartą yra pavadintas
-    senuoju terminu « Eistr» (« Saga Olafs konungs Tryggvasonar »).
-    Šiaip jau, kaip rusų kalbos skoliniai iš IX amž. parodo, lietuvių
-    prekyba su normanais ėjo per rusus (K. Būga).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

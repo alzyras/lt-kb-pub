@@ -11,14 +11,14 @@ datos:
   - '1414 m.'
 date_start: '1357'
 date_end: '1414'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
-amziai:
-  - 'XIV'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -108,14 +108,12 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - susijęs iš Aukaimio pilis (pilis): Per šv. Jono Krikštytojo dieną 36 lietuviai iš Aukaimio pilies apylinkių patraukė plėšikiškais išpuoliais trikdyti Ragainės brolių ramybės.
 - susijęs iš Gedimino pilis (pilis): Guillaume de Machaut rašė, kad 1357 m. žygyje pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį.
 - susijęs iš Gegužkalnis: Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Gegužkalnį kartu su Kvėdarna, Gedimino pilimi bei Aukaimiu.
-- susijęs iš [[objektai/zodynas/vora.md#claim-t-184651|vora]]: Girdila pasisiūlė siaurais miškų takais vesti kareivių voras, kad netikėtai užkluptų Aukaimio pilį.
-- susijęs iš [[objektai/asmenys/Draika.md#claim-t-184694|Draika]]: Aukaimio pilies viršininkas Draika pradėjo linkti į krikščionių tikėjimą.
+- susijęs iš [[objektai/asmenys/Draika.md#claim-t-184694|Draika]]: Draika Kojelavičiaus pasakojime pradėjo linkti į krikščionių tikėjimą ir per sūnų Piną susitarė su Ragainės komtūru Folradu.
 - susijęs iš [[objektai/asmenys/Draika.md#claim-t-60109|Draika]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
 - susijęs iš [[objektai/asmenys/Gintautas.md#claim-t-190067|Gintautas]]: Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mirė 1414 m. liepos 28 d. ir buvęs 74-asis eilėje.
 - susijęs iš [[objektai/asmenys/Girdila.md#claim-t-60124|Girdila]]: 1285 m. skalvis Girdila, prieš atsivertimą gerbtas saviškių, pasigyrė galįs su šimtu ginkluotų vyrų pridaryti lietuviams žalos.
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59915|Henrikas Cutsvertas]]: Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.
 - susijęs iš [[objektai/asmenys/Jonas Liuksemburgietis.md#claim-t-30310|Jonas Liuksemburgietis]]: 1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.
-- susijęs iš [[objektai/asmenys/Konradas (Prūsijos magistras).md#claim-t-186126|Konradas (Prūsijos magistras)]]: Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš [[objektai/asmenys/Nodamas.md#claim-t-184808|Nodamas]]: Nodamas, persirengęs moterimi, priviliojo kryžiuočius prie kranto ir sulaikė jų laivą, kol atskubėjo pasalos kariai.
 - susijęs iš [[objektai/asmenys/Pinas.md#claim-t-60413|Pinas]]: Aukaimio pilėnas Draika slaptai pasiuntė savo sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102841|Dusburgas]]: Dusburgo kronikoje Junigėda pirmą kartą paminėta aprašant 1291 m. puolimą.
@@ -126,11 +124,9 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - susijęs iš [[objektai/ivykiai/Jazbuto pralaimėjimas tarp Alnos ir Narevo upių.md#claim-t-185800|Jazbuto pralaimėjimas tarp Alnos ir Narevo upių]]: Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.
 - susijęs iš [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.).md#claim-t-31422|Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]: 1291 m. kryžiuočiai puolė Junigėdą, jos nepaėmė, bet netoliese sunaikino Mederabos pilį.
 - susijęs iš [[objektai/ivykiai/Karine klasta paimamas kryžiuočių laivas.md#claim-t-185802|Karine klasta paimamas kryžiuočių laivas]]: Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą.
-- susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185717|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš [[objektai/paprociai/Burtų metimas prieš karo išpuolį.md#claim-t-62110|Burtų metimas prieš karo išpuolį]]: Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės, todėl tuojau pasuko atgal.
 - susijęs iš [[objektai/paprociai/Burtų traukimas prieš svarbesnius darbus.md#claim-t-62672|Burtų traukimas prieš svarbesnius darbus]]: Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės.
 - susijęs iš [[objektai/paprociai/Burtų traukimas prieš svarbesnius darbus.md#claim-t-62673|Burtų traukimas prieš svarbesnius darbus]]: Prūsai prieš svarbesnius darbus traukdavo burtus, klausdami savo dievų, ar darbas pavyks gerai, ar blogai.
-- susijęs iš Gardinas: Magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš Karšuva: Karšuva buvo po du ar tris kartus teriota per Ordino žygius prieš Žemaičių sodybas ir pilis.
 - susijęs iš Mederaba: 1291 m. kryžiuočiai nepaėmė Junigėdos, bet netoliese sunaikino Mederabos pilį.
 - susijęs iš Putvė: Putvė, dar vadinta Putenicka, buvo viena iš Karšuvos srities pilių, kurias priešai atakavo po du ar tris kartus.
@@ -153,49 +149,6 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102841|Dusburgas]]: Dusburgo kronikoje Junigėda pirmą kartą paminėta aprašant 1291 m. puolimą.
 - susijęs iš [[objektai/paprociai/Burtų metimas prieš karo išpuolį.md#claim-t-62110|Burtų metimas prieš karo išpuolį]]: Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės, todėl tuojau pasuko atgal.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šis žygis, kuriame buvo daug svečių iš
-    visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
-    žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
-    rašytame veikale « Confort d’Ami » (« Draugo parama »). Poetas
-    išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar
-    paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
-    kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­
-    šui padegus pilį, turėję pasiduoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Ragainės broliai užpuolė miegančius Aukaimio papilio pilėnus ir sudegino papilį iki pamatų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    8. Apie Aukaimio papilio sudeginimą
-
-       Neilgai trukus po to tie patys Ragainės broliai užpuolė su savo valdiniais, pilėnams
-    bemiegant, Aukaimio papilį ir jį iki pamatų sudegino; neskaitant 4 vyrų, buvusių pilyje, ir
-    saujelės pabėgusių, visi kiti žuvo arba nuo ugnies, arba nuo kalavijo drauge su žmonomis,
-    vaikais, galvijais ir gyvuliais.
-
-
-
-
-                                   9.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Aukaimio pilis tais pačiais metais buvo prarasta per išdavystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -214,33 +167,6 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Narbutas rašo, kad Aukaimio kaime slapstėsi vyriausiasis žynys Gintautas, miręs 1414 m. liepos 28 d., ir su juo baigėsi lietuvių stabmeldystė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
-    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
-    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
-    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
-    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
-    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
-    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
-    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
-    nių apeigų papročių, vienodų su jų lietuvių apeigomis. Smun­
-    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai -  pir­
-    miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
-    liau Žemaitijoje. Tenai, Aukaimio kaime, dar slapstėsi vyriau­
-    siasis žynys Gintautas, kurio gyvenimas nutrūko 1414 metų
-    liepos 28 dieną; jis buvo 74-asis iš eilės ir su juo baigėsi lietu­
-    vių stabmeldystė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 ## Citatos
 
@@ -267,8 +193,7 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - id: c-67481
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 253"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 253."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     8. Apie Aukaimio papilio sudeginimą
 
@@ -292,16 +217,21 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - id: c-168284
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 179."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vis dėlto žmonių ne­
-    daug žuvo, nes gyventojai,
-    palikę namus priešų valiai, patys su visais brangesniais
-    daiktais išsislapstė miškų tankmėse. Tais pačiais me­
-    tais per išdavystę buvo prarasta Aukaimio pilis. Pilies
+    Pilies
     viršininkas Draika pradėjo linkti į krikščionių tikėji­
-    mą.
+    mą. Negalėdamas tarp saviškių garbinti dievo pagal
+    šias apeigas, jis ryžosi pereiti priešo pusėn, o prieš
+    tai pelnyti jo palankumą nepaprasta išdavyste. Todėl,
+    pasiuntęs tarpininku savo sūnų Piną, suderino savo
+    ketinimus su Folradu, Ragainės komtūru, ir sutarė die­
+    ną; Draika pats vadovavo nakties sargybai, kai Folra-
+    das tamsoje pritraukė prie pilies kariuomenę: atida­
+    rius vartus, buvo įleistas į pilį, karius ir visą kariauti
+    pajėgiantį jaunimą jis skerste išskerdė, o vaikus ir
+    moteris išsivarė į vergovę.
+  citata_rodoma: "Vis dėlto žmonių ne­\ndaug žuvo, nes gyventojai,\npalikę namus priešų valiai, patys su visais brangesniais\ndaiktais išsislapstė miškų tankmėse. Tais pačiais me­\ntais per išdavystę buvo prarasta Aukaimio pilis. Pilies\nviršininkas Draika pradėjo linkti į krikščionių tikėji­\nmą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -312,8 +242,7 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - id: c-171558
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 429"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
     tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
@@ -324,7 +253,7 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
     pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
     krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
     nių apeigų papročių, vienodų su jų lietuvių apeigomis. Smun­
-    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai -  pir­
+    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai - pir­
     miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
     liau Žemaitijoje. Tenai, Aukaimio kaime, dar slapstėsi vyriau­
     siasis žynys Gintautas, kurio gyvenimas nutrūko 1414 metų

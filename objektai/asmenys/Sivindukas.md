@@ -38,29 +38,6 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
 - susijęs iš [[objektai/asmenys/Madykas.md#claim-t-40323|Madykas]]: Kunigaikštis Madykas buvo murzos Sivinduko tėvas.
 - susijęs iš [[objektai/grupes/Maskvos kariuomenė.md#claim-t-183663|Maskvos kariuomenė]]: Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai.
 - susijęs iš [[objektai/grupes/Maskvos kariuomenė.md#claim-t-38878|Maskvos kariuomenė]]: Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kai kurių šiuolaikinių istorikų ver-
-    tinimu, tai labai padidintas skaičius.
-    Be Naugardo, Pskovo, Tverės bei kitų
-    sričių išrengtų raitelių ir Maskvos val-
-    dovo dvaro pulko, dalyvavo ir toto-
-    riai, vadovaujami murzos Sivinduko,
-    kunigaikščio Madyko sūnaus. Rusai
-    neturėjo artilerijos ir reikšmingesnių
-    pėstininkų pajėgų, kurios pasiliko prie
-    Dorogobužo ir Smolensko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44510

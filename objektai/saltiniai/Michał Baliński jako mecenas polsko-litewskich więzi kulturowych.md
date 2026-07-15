@@ -42,22 +42,6 @@ Michał Baliński jako mecenas polsko-litewskich więzi kul­ turowych.
   teiginys: "Michał Baliński jako mecenas polsko-litewskich więzi kul turowych."
   pagrindžia:
     - c-176914
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Michał Baliński jako mecenas polsko-litewskich więzi kul turowych.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1  N a run i ec R. Michał Baliński jako mecenas polsko-litewskich więzi kul­
-    turowych. Warszawa, 1995; Griškaitė R. Mykolas Balinskis: kova dėl
-    istorijos?. V., 2005, p. 137-138.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

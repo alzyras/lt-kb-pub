@@ -43,14 +43,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   pagrindžia:
     - c-172156
 
-<a id="claim-t-194688"></a>
-- t-003
-  global_id: t-194688
-  teiginys: "Mildauninkai turėjo vaistų, žadinančių ir slopinančių meilę."
-  pagrindžia:
-    - c-177085
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti kaip „mildauninkas“ ir iš jo padaryti deivės Mildos vardą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -70,64 +63,22 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas mildauninkus aprašė kaip Kauno apylinkių pasakojimuose minimus kerėtojus arba meilės deivės žynius, padėdavusius meilės reikaluose.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kitaip vadinosi Pizio.
-    Iš pasakojimų, surinktų Kauno apylinkėse, aiškėja, kaip
-    jau anksčiau matėme straipsnyje „Milda“, kad buvo tam tikra
-    rūšis kerėtojų, arba meilės deivės žynių, vadintų mildaunin-
-    kais, kurie padėdavo žmonėms meilės reikaluose. Be kitų ke­
-    rų, jie žinojo tam tikrą sparnuotą nykštuką, vadinamą Kauniu
-    (Kaunis); kerėtojo pasiųstas, jis užpuldavęs jaunuolius, neno­
-    rinčius pasiduoti meilės vilionėms, ir jų širdis užkrėsdaves mir­
-    tinais meilės nuodais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Mildauninkai turėjo vaistų, žadinančių ir slopinančių meilę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    158
-
-    ## Puslapis 158
-
-    žimu, traukiamu poros baltų kaip sniegas balandžių, todėl jos
-    valdžią visur pažino. Mildauninkai turėjo vaistų, žadinančių ir
-    slopinančių meilę. Mūsų kraštuose dar išliko dainelė, susijusi
-    su tuo dievuku:
-    Skrindau Kaunis iž tola,
-    Kur vvassara umžynoja.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-172155
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 31"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 31."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    O
-    šią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse
-    tam tikros rūšies kerėtojas ir kerėtojus, padedančius meilėje,
-    kauniečiai vadina mildauninkais“. Tokio lietuviško žodžio iš
-    viso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­
-    tas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­
-    dą Milda.
+    Surandama ir moneta,
+    iliustruojanti šį „pasakojimą“. O kad skaitytojas nesumanytų
+    abejoti, ten yra ir lietuviškas užrašas: „Paklus, Nijola“. Nijolės
+    vardas esąs kilęs iš dviejų žodžių: Nija, reiškiančio „slavų Ce-
+    reros, arba lietuvių Krūminės, vardą“ (panašia prasme šį žodį
+    minėjo J. Dlugošas ir M. Strijkovskis), ir ola - „požeminis ur­
+    vas“. Ar tik ši „etimologija“ nerodo, kaip vardas Nijolė buvo
+    sukurtas?
+  citata_rodoma: "O\nšią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse\ntam tikros rūšies kerėtojas ir kerėtojus, padedančius meilėje,\nkauniečiai vadina mildauninkais“. Tokio lietuviško žodžio iš\nviso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­\ntas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­\ndą Milda."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -138,8 +89,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
 - id: c-172156
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 157"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kitaip vadinosi Pizio.
     Iš pasakojimų, surinktų Kauno apylinkėse, aiškėja, kaip
@@ -156,25 +106,3 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189268
-
-- id: c-177085
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    158
-
-    ## Puslapis 158
-
-    žimu, traukiamu poros baltų kaip sniegas balandžių, todėl jos
-    valdžią visur pažino. Mildauninkai turėjo vaistų, žadinančių ir
-    slopinančių meilę. Mūsų kraštuose dar išliko dainelė, susijusi
-    su tuo dievuku:
-    Skrindau Kaunis iž tola,
-    Kur vvassara umžynoja.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194688

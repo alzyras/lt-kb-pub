@@ -38,7 +38,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį. Dusburgietis teigia, kad 459 Ditrichas iš Lidelau Sembos fogtu buvo 1278—1292 m. (Voigt J., Namen-.., p. 76). Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.
+Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą. Grįžęs iš Vokietijos, sembų fogtas Ditrichas iš Lidelau atkalbėjo jį gerbusius sembus nuo paklydimo. Sembų fogtas Ditrichas magistro įsakymu su broliais ir tūkstančiu vyrų atplaukė pulti Ragainės pilies.
 
 ## Teiginiai
 
@@ -70,33 +70,33 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
   pagrindžia:
     - c-59444
 
-<a id="claim-t-58811"></a>
-- t-005
-  global_id: t-58811
-  teiginys: "Grįžęs iš Vokietijos, sembų fogtas Ditrichas iš Lidelau atkalbėjo jį gerbusius sembus nuo paklydimo."
-  pagrindžia:
-    - c-59442
-
 <a id="claim-t-184611"></a>
-- t-006
+- t-005
   global_id: t-184611
   teiginys: "Sembos vyskupystės fogtas Pilypas fon Bolandas pasinaudojo Vytenio sušauktu luomų pasitarimu ir nusiaubė pasienio kaimiečius."
   pagrindžia:
     - c-167972
 
 <a id="claim-t-184612"></a>
-- t-007
+- t-006
   global_id: t-184612
   teiginys: "Sembos fogto vedami kryžiuočiai, negalėdami pasivyti namo traukiančio Kęstučio, nusiaubė Ariogalos žemes."
   pagrindžia:
     - c-167973
 
 <a id="claim-t-194452"></a>
-- t-008
+- t-007
   global_id: t-194452
   teiginys: "Apie daugybės pagudėnų išžudymą Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo."
   pagrindžia:
     - c-59442
+
+<a id="claim-t-196369"></a>
+- t-008
+  global_id: t-196369
+  teiginys: "1305 m. Sembos vyskupystės fogtas Pilypas fon Bolandas, Vyteniui sukvietus luomus į pasitarimą, nusiaubė pasienio kaimiečius."
+  pagrindžia:
+    - c-167972
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175105|Sembai]]: Sembų fogtas Ditrichas iš Lidelau, grįžęs iš Vokietijos, atkalbėjo jį gerbusius sembus nuo paklydimo.
 - susijęs iš [[objektai/paprociai/Žirgų plauko spalvos tabu iš pagarbos dievams.md#claim-t-62180|Žirgų plauko spalvos tabu iš pagarbos dievams]]: Žiokos valsčiuje gyvenęs prūsas Dargis nepakentė baltų žirgų, o Sembos fogtas Ditrichas mėgino jį atpratinti nuo šio prietaro.
 - susijęs iš [[objektai/zodynas/atskalūnybė atskalūnai.md#claim-t-58807|atskalūnybė atskalūnai]]: Kai prūsai buvo įtariami atskalūnybe, Notangos ir Varmės fogtas Volradas vakarieniavo su kilmingaisiais Lencenbergo pilyje.
@@ -116,146 +116,18 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
 - susijęs iš [[objektai/posakiai/Atėjo baisenybė, kurios bijojau.md#claim-t-59083|Atėjo baisenybė, kurios bijojau]]: 1286 m. Sembos fogtas Ditrichas, sužinojęs apie naują prūsų sąmokslą prieš brolius, galėjo kartoti Jobo žodžius: „Atėjo baisenybė, kurios bijojau“.
 - susijęs iš Ragainė: Sembų fogtas brolis Ditrichas su broliais ir tūkstančiu vyrų užpuolė skalvių pilį toje vietoje, kur vėliau buvo Ragainės pilis.
 - susijęs iš Skalva: Sembų fogtas Ditrichas su Ordino pajėgomis atplaukė į skalvių žemę abiejose Nemuno pusėse ir užpuolė Ragainės vietoje stovėjusią pilį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie daugybės pagudėnų išžudymą
-
-      Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
-    sembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
-    varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis
-
-      476 1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas
-    (plg. D. III, 223).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-005
-    - t-008
-
-- c-002
-  santrauka: 'Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
-
-       Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą
-    bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai
-    susilpninta, pasiuntė brolį Ditrichą, sembų žemės fogtą459, su kariuomene  į Nadruvą.
-    Šie, įsiveržę į Retavos valsčių460, jį nusiaubė, piešdami bei degindami, o paskui, patraukę
-
-      456 Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Ditrichas iš Lidelau 1278-1292 m. buvo Sembos fogtas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    459  Ditrichas iš Lidelau Sembos fogtu buvo 1278—1292 m. (Voigt J., Namen-.., p.
-    76).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Sembų fogtas Ditrichas magistro įsakymu su broliais ir tūkstančiu vyrų atplaukė pulti Ragainės pilies.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    182 (177). Apie Ragainės pilies užkariavimą
-
-       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
-    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
-    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
-    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-005
-  santrauka: 'Sembos vyskupystės fogtas Pilypas fon Bolandas pasinaudojo Vytenio sušauktu luomų pasitarimu ir nusiaubė pasienio kaimiečius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po to, nusiau­
-    bęs aplinkinius kaimus, išžudė daugybę žmonių, o sa­
-    viškių neteko vos trisdešimt. Kitais metais, kai Vytenis
-    abu luomus sukvietė į pasi-
-    1305 m e ta i
-    tarimą, Sembos vyskupystės
-    V y te n is
-    p e rse k io ja
-    fogtas Pilypas fon Bolandas,
-    k ry žiu o č iu s g ro b ik u s
-    pasinaudojęs progą, kad bu­
-    vo išvykę kunigaikščiai ir
-    bajorai, nusiaubė pasienio kaimiečius. Kai valdovui
-    pranešė, jog įsibrovė priešas ir degina kaimus bei kie­
-    mus, jis greitosiomis su tūkstančiu penkiais šimtais
-    raitelių patraukė sustabdyti tolesnio veržimosi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-006
-  santrauka: 'Sembos fogto vedami kryžiuočiai, negalėdami pasivyti namo traukiančio Kęstučio, nusiaubė Ariogalos žemes.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kurį laiką Kęstutis laikėsi ramiai, tačiau
-    žemėmis. Kryžiuočiai, vedami Sembos fogto, savo ruož­
-    tu, negalėdami pasivyti traukiančio namo Kęstučio, nu­
-    siaubė Ariogalos žemes. Kai Algirdas bei Aleksandras
-    Karijotaitis su keliomis žygio voromis padalyta kariuo­
-    mene iš karto nuniokojo daugelį Prūsijos vietų ir, su­
-    griovę svarbias pilis Tilžę bei Ragainę ir daugybę kitų
-    miestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­
-    gistras irgi sėkmingai nusiaubė didelius Lietuvos plo­
-    tus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 ## Citatos
 
 - id: c-59442
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie daugybės pagudėnų išžudymą
-
-      Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
-    sembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
+    Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
+    sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
     varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis
-
-      476 1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas
+    476  1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas
     (plg. D. III, 223).
   citata_rodoma: "Apie daugybės pagudėnų išžudymą\n\n  Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo\nsembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir\nvarmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis\n\n  476 1277 m."
   statusas: verified
@@ -264,14 +136,12 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58811
-    - t-184002
     - t-194452
 
 - id: c-59443
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
 
@@ -291,8 +161,7 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
 - id: c-59444
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     459  Ditrichas iš Lidelau Sembos fogtu buvo 1278—1292 m. (Voigt J., Namen-.., p.
     76).
@@ -306,14 +175,12 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
 - id: c-59445
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
-
-       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
-    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
-    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
+    Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir
+    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose
+    Nemuno pusėse, ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
     yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
   citata_rodoma: "Apie Ragainės pilies užkariavimą\n\n   Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir\ntūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose\nNemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar\nyra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų."
   statusas: verified
@@ -326,12 +193,9 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
 - id: c-167972
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 181"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 181."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to, nusiau­
-    bęs aplinkinius kaimus, išžudė daugybę žmonių, o sa­
-    viškių neteko vos trisdešimt. Kitais metais, kai Vytenis
+    Kitais metais, kai Vytenis
     abu luomus sukvietė į pasi-
     1305 m e ta i
     tarimą, Sembos vyskupystės
@@ -344,21 +208,31 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
     bajorai, nusiaubė pasienio kaimiečius. Kai valdovui
     pranešė, jog įsibrovė priešas ir degina kaimus bei kie­
     mus, jis greitosiomis su tūkstančiu penkiais šimtais
-    raitelių patraukė sustabdyti tolesnio veržimosi.
+    raitelių patraukė sustabdyti tolesnio veržimosi. Jau kry­
+    žiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­
+    kėtai užpuolė nebesisaugančių priešų ariergardą; ko­
+    vėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­
+    rios kitos priežasties, ar dėl to, kad ir vienos, ir kitos
+    kariuomenės dydis buvo nežinomas, vadai nežinojo,
+    kieno pusėje jėgos persvara; kai ir vienoje, ir kitoje
+    pusėje krito keletas karių, susidūrimas liovėsi.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184611
+    - t-196369
 
 - id: c-167973
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 247"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 247."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kurį laiką Kęstutis laikėsi ramiai, tačiau
+    Tačiau kry­
+    žiuočiai, sutrikę dėl ariergardo pralaimėjimo, skubiai
+    pasitraukė į Prūsiją išmetę pakelėse gausų grobį, truk­
+    dantį bėgti. Kurį laiką Kęstutis laikėsi ramiai, tačiau
     žemėmis. Kryžiuočiai, vedami Sembos fogto, savo ruož­
     tu, negalėdami pasivyti traukiančio namo Kęstučio, nu­
     siaubė Ariogalos žemes. Kai Algirdas bei Aleksandras
@@ -368,6 +242,7 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
     miestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­
     gistras irgi sėkmingai nusiaubė didelius Lietuvos plo­
     tus.
+  citata_rodoma: "Tačiau kry­\nžiuočiai, sutrikę dėl ariergardo pralaimėjimo, skubiai \npasitraukė į Prūsiją išmetę pakelėse gausų grobį, truk­\ndantį bėgti. Kurį laiką Kęstutis laikėsi ramiai, tačiau\nžemėmis. Kryžiuočiai, vedami Sembos fogto, savo ruož­\ntu, negalėdami pasivyti traukiančio namo Kęstučio, nu­\nsiaubė Ariogalos žemes."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

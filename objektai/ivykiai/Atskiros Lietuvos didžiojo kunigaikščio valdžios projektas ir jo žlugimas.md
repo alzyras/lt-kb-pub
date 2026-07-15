@@ -51,25 +51,6 @@ Nenurodyta
   teiginys: "Po Vygunto mirties Vytautas gavo Vilnių ir įvedė nemažai radikalių pokyčių lietuvių-rusų žemių valdyme."
   pagrindžia:
     - c-38307
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Yra gandų, kad jis buvo nunuodytas, bet tie
-    gandai neturi pamato. Vygunto mirtis praskynė kelią tam,
-    kuris po dviejų savaičių, neatsižvelgiant į pasižadėjimus, kurie
-    buvo duoti Skirgailai, gavo Vilnių ir įvedė nemaža radi­
-    kalinių atmainų į lietuvių-rusų žemių valdymą; tai buvo
-    Vytautas.
-    Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

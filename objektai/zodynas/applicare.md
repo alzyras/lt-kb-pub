@@ -48,26 +48,6 @@ Lyginant įvairius laiko tekstus, kur vengrų kanceliarijoje buvo vartojamas ter
 - susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-183231|Krėvos sutartis (1385 m.)]]: 1385 m. rugpjūčio 14 d. į Krėvos pilį atvykus lenkų delegacijai buvo priimtas dokumentas, į istoriją įėjęs Krėvos sutarties vardu.
 - susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45348|Krėvos sutartis (1385 m.)]]: Krėvos sutartyje Jogaila įsipareigojo vesti Jadvygą, įvesti Lietuvoje katalikybę ir „prišlieti“ Lietuvą prie Lenkijos.
 - susijęs iš Krėvos aktas (1385 m.): 1385 m. rugpjūčio 14 d. Krėvos pilyje Jogaila priėmė lenkų parengtą sutarties dokumentą, vėliau vadintą Krėvos sutartimi.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vengrų kanceliarijoje vartotas terminas „applicare“ Ivinskio aiškinimu reiškė tapimą lenininku.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kryžiuočiai ne kartą akcentavo, jog jie tik
-    su Lietuva tekariaują. Lyginant įvairius laiko tekstus, kur vengrų
-    kanceliarijoje buvo vartojamas terminas «applicare», išryškėjo,
-    kad tas žodis tereiškė tapimą lenininku.
-    1385 m. aktas todėl neparodo inkorporacijos, o greičiau busimą
-    leno santykį didžiosios Lietuvos kunigaikštijos ir karūnos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-34138

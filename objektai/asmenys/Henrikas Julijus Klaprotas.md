@@ -36,42 +36,13 @@ Henrikas Julijus Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbo
   teiginys: "Henrikas Julijus Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną."
   pagrindžia:
     - c-174229
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Henrikas Julijus Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Juk šiandien negalima nieko įro­
-    dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi
-    šios tautos likučiai, Kaukazo kalnų gyventojai osetinai,
-    ištirti mokslininko, senovės istoriko pono Klaproto, kuris
-    veikale „Asia Polyglotta“** pateikia osetinų kalbos žo­
-    dyną, kuriame nerandame nieko, ką galima būtų vadinti
-    panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
-    tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
-    192
-    Pirmame šio veikalo tome mes stengėmės pateikti iš­
-    samų lietuvių tautos senovės paminklų vaizdą, iš kurio
-    kiekvienas skaitytojas galėjo įsitikinti, kas kažkada buvo
-    ši senovinė tauta ir ar dera vadinti ją laukine orda miškų
-    gyventojų, atsiskyrusių nuo nežinomos barbarų minios,
-    1 Lib.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 188"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Juk šiandien negalima nieko įro­
     dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi

@@ -45,25 +45,6 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
   teiginys: "Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje."
   pagrindžia:
     - c-176367
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
-    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
-    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
-    dicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs
-    psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
-    Biblija“. 1522 m. jis įkūrė spaustuvę Vilniuje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

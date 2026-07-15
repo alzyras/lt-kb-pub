@@ -51,21 +51,6 @@ Formulė nusako atsakomąją gudrybę: į priešo pinkles atsakyti kitomis pinkl
   teiginys: "Žemaičiai buvo palaikomi siekiant užbėgti už akių didesnėms nelaimėms ir pinklėmis atremti pinkles."
   pagrindžia:
     - c-14571
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    „Trokšdami išmintingai užbėgti už akių dar didesnėms ne­
-    laimėms, nebe priežasties palaikėme Žemaičius, norėdami pink­
-    lėmis antremti pinkles ...“^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -34,33 +34,13 @@ Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo 
   teiginys: "Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo vadinamas Venedų ežeru."
   pagrindžia:
     - c-174433
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo vadinamas Venedų ežeru.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Prie Juodosios
-    jūros buvo antų gentis, kurią Peutingerio žemėlapis** va­
-    dina venedais. Strabonas kalba apie belgų venedus šian­
-    dieniuose Nyderlanduose. Melą Pomponijus nedvipras­
-    miškai tvirtina, kad Konstanco ežeras buvo vadinamas
-    Venedų ežeru2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174433
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 96."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Prie Juodosios
     jūros buvo antų gentis, kurią Peutingerio žemėlapis** va­

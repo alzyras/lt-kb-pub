@@ -41,20 +41,6 @@ media_all_json: |-
   teiginys: "Baltų Tyrimo Institutas 1953–1967 m. Bonnoje išleido 13 Commentationes Balticae tomų."
   pagrindžia:
     - c-29704
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nuo 1953 iki 1967 m. Bonnoje Baltų Tyrimo Institutas išleido 13 tt.
-    « Commentationes Balticae » (CB)^171.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

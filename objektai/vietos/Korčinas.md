@@ -46,8 +46,6 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Lenkijos karalystės luomai.md#claim-t-185451|Lenkijos karalystės luomai]]: Vytauto pasiuntiniai Korčino seime išdėstė Lenkijos karalystės luomams valdovo reikalavimus dėl vainikavimo.
 - susijęs iš [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.).md#claim-t-184600|Vytauto karūnacijos byla (1429–1430 m.)]]: Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams.
 - susijęs iš Lvovo privilegija (1392 m. bal. 16 d.): Jogaila 1392 m. balandžio 16 d. Lvove išdavė privilegiją, kuri kliudė Vytauto siekiams Lietuvoje ir jo pretenzijoms į Lucką.
-- susijęs iš Luckas: Naujojo Korčino aktas trukdė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką.
-- susijęs iš Luckas: 1392 m. Jogailos privilegija buvo nukreipta prieš Vytauto pretenzijas į Lucką.
 - susijęs iš Luckas: Po senato posėdžio karalius skubiai išvyko iš Lucko, net neatsisveikinęs su imperatoriumi.
 - susijęs iš Lvovas: 1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką.
 - susijęs iš Vengrija: Imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, iš Volynės patraukė tiesiai į Vengriją.
@@ -57,7 +55,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184629|maršalas]]: Vytautas į Korčino seimą nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
 - susijęs iš [[objektai/zodynas/vaivada.md#claim-t-184643|vaivada]]: Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -86,26 +83,27 @@ media_all_json: |-
 - id: c-168626
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 418"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to prasidėjo ilgos tarpusavio rietenos, kurias
-    nuolat kurstė ir Vytautas, ir
-    lenkai, siuntinėdami žygūnus:
-    Lietuvos didysis kunigaikštis
-    stengėsi iš lenkų išgauti suti­
-    kimą, o šie — priversti Vy­
-    tautą atsisakyti savo sumany­
-    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
-    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
-    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
-    dovo reikalavimus.
+    jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
+    siryžęs pasiekti. Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
+  citata_rodoma: "Po to prasidėjo ilgos tarpusavio rietenos, kurias\nnuolat kurstė ir Vytautas, ir\nlenkai, siuntinėdami žygūnus:\nLietuvos didysis kunigaikštis\nstengėsi iš lenkų išgauti suti­\nkimą, o šie — priversti Vy­\ntautą atsisakyti savo sumany­\nmo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­\nniaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.\nLuomų susirinkime jie trumpai, bet aiškiai išdėstė val­\ndovo reikalavimus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185265
-
-## Ryšiai
-- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

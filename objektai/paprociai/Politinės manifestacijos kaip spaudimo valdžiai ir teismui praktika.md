@@ -86,73 +86,6 @@ Nenurodyta
   pagrindžia:
     - c-166719
 
-<a id="claim-t-54324"></a>
-- t-005
-  global_id: t-54324
-  teiginys: "Po 1861 m. pavasario manifesto Varšuvoje ir Vilniuje kilo patriotinių manifestacijų banga, nuslūgusi caro valdžiai įvedus karo padėtį."
-  pagrindžia:
-    - c-55194
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Naujasis imperatorius 1861 m. pavasarį pasirašė manifestą, paleidu-
-    sį privačių dvarų valstiečius iš baudžiavinės priklausomybės, pasirašyti
-    teisės aktai, reglamentavę valstiečių tapsmo žemės savininkais tvarką, nu-
-    matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
-    reformą numatyta pradėti po dvejų metų. Netrukus Varšuvoje ir Vilniuje
-    kilo patriotinių manifestacijų banga, nuslūgusi tik po to, kai vasaros pa-
-    baigoje caro valdžia įvedė karo padėtį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-005
-    - t-006
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kreiptasi į valstiečius (tai pirmas atsišaukimas
-    lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-
-    nę, žadėta suteikti jiems asmens laisvę.
-    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
-    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
-    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
-    lio 28 dieną. Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos
-    eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-
-    navusiame jakobinų klube.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius kai kuriems Targovicos konfederatams.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
-    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
-    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
-    lio 28 dieną. Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos
-    eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-
-    navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias
-    teismą paskelbti minėtus mirties nuosprendžius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-55194
@@ -174,8 +107,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54324
-    - t-183330
-    - t-006
 
 - id: c-55195
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -198,6 +129,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54325
+    - t-54326
 
 - id: c-166719
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

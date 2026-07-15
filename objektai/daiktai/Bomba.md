@@ -69,23 +69,9 @@ Nenurodyta
   pagrindžia:
     - c-16402
 
-<a id="claim-t-45475"></a>
+<a id="claim-t-45473"></a>
 - t-002
-  global_id: t-45475
-  teiginys: "Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba."
-  pagrindžia:
-    - c-16402
-
-<a id="claim-t-45475"></a>
-- t-003
-  global_id: t-45475
-  teiginys: "Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba."
-  pagrindžia:
-    - c-16402
-
-<a id="claim-t-45475"></a>
-- t-004
-  global_id: t-45475
+  global_id: t-45473
   teiginys: "Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba."
   pagrindžia:
     - c-16402
@@ -98,33 +84,6 @@ Nenurodyta
 - susijęs iš Vengrija: Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o iš ten superkami į Vilnių.
 - susijęs iš Vengrija: Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o ten superkami Vilniui.
 - susijęs iš Vilniaus ginklų liejykla: Didžioji ginklų liejykla buvo įkurta prie Vilniaus pilies ir turėjo didelę įtaką amatininkų gerovei bei tobulėjimui.
-- susijęs iš Vilnius: Prie Vilniaus pilies įkurta didžioji ginklų liejykla stipriai veikė miesto amatininkų gerovę ir tobulėjimą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1921 m. lapkričio 15 d. Kaune ant E. Galvanausko miegamojo palangės sprogo padėta bomba.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
-    matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
-    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
-    Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai. Lapkričio
-    15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės
-    sprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko
-    gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti.
-    Lenkijos ir Lietuvos federacijos planas suiro, o triumfavo... Maskva, tai
-    įvertinusi kaip patį didžiausią savo diplomatijos laimėjimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-    - t-001
-    - t-002
-
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
@@ -150,7 +109,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45474
-    - t-45475
     - t-45472
     - t-45473

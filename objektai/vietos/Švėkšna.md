@@ -7,13 +7,13 @@ datos:
   - '1815 m.'
 date_start: '1815'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestelis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,26 +55,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Juozapas Januškevičius.md#claim-t-190164|Juozapas Januškevičius]]: Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo Januškevičiaus sode rastą lobį žinojo visi to krašto gyventojai.
 - susijęs iš [[objektai/asmenys/Jurgis Plioteris.md#claim-t-190167|Jurgis Plioteris]]: Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris turėjo keletą tokių auksinių monetų.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad 1814 ar 1815 m. Švėkšnos klebonijos sode rastą auksinių monetų lobį pasisavino tarnas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kartą man pasitaikė nupirkti auksinę monetą, kuri pavaiz­
-    duota natūralaus dydžio III lentelės 17-ajame piešinyje. Ji iš
-    Žemaitijos, turėjo būti nelabai seniai rasta (1814 ar 1815 me­
-    tais) Švėkšnoje, tenykštės klebonijos sode; tarnas pasisavino
-    lobį, iškastą persodinant rožių krūmą, -  mat auksinių monetų
-    turėjo būti keliolika svarų. Tas žmogus pabėgo į užsienį, ir bran­
-    gios senovės liekanos nežinia kur dingo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Apie šio lobio suradimą Švėkšnos klebono kunigo kanau ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš to gyventojams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -101,14 +81,13 @@ media_all_json: |-
 - id: c-171831
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 218"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 218."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kartą man pasitaikė nupirkti auksinę monetą, kuri pavaiz­
     duota natūralaus dydžio III lentelės 17-ajame piešinyje. Ji iš
     Žemaitijos, turėjo būti nelabai seniai rasta (1814 ar 1815 me­
     tais) Švėkšnoje, tenykštės klebonijos sode; tarnas pasisavino
-    lobį, iškastą persodinant rožių krūmą, -  mat auksinių monetų
+    lobį, iškastą persodinant rožių krūmą, - mat auksinių monetų
     turėjo būti keliolika svarų. Tas žmogus pabėgo į užsienį, ir bran­
     gios senovės liekanos nežinia kur dingo.
   statusas: verified
@@ -121,18 +100,20 @@ media_all_json: |-
 - id: c-177156
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
-    užkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­
-    sinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir
-    auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem
-    kraštams.
-    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
-    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
-    to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
-    turėjo keletą tokių auksinių monetų.
+    Šių keliautojų vadas vadinosi Nemu­
+    nas (Nemon). Apie jį dar esama padavimo, kad jis buvęs gar­
+    binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
+    ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
+    skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
+    keliais milžinkapiais. Pusdievio ir Nemuno vardo panašumas
+    perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­
+    kas šia upe keliavęs, bus davęs upei savo vardą. Lietuvoje
+    gyveno panašiai besivadinanti bajorų giminė; turim rankoje
+    laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemu-
+    navičiaus (Niemonowicz) parašu.
+  citata_rodoma: "Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo\nužkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­\nsinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir\nauksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem\nkraštams.\nApie šio lobio suradimą Švėkšnos klebono kunigo kanau­\nninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­\nto gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris\nturėjo keletą tokių auksinių monetų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

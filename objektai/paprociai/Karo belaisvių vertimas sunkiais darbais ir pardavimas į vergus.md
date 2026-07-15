@@ -58,25 +58,9 @@ Nenurodyta
   teiginys: "Kare paimtus priešus, ypač vokiečius krikščionis, lietuviai versdavo sunkiai dirbti, prirakindavo prie girnų arba laikydavo iki mirties."
   pagrindžia:
     - c-09933
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tuo tarpu paimtuosius neprietelius karėj, užvis vokiečius krikščionis, smarkiai smarkesniai galavo
-        žemyn ar sunkiais darbais lig smerčio novijo^1344 : kaipogi, prie girnų prikalę, liepė jiems tuoįtimpos
-        malti, kartais, daug jų paėmę ir nežinodami kur dėti, pardavojo į vergus gudams ir totoriams,
-        gieždami apmaudą už savo brolius, kuriuos taip pat vokiečiai žudė ir novijo Parusy, liepdami jiems
-        maneliuose^1345 jau griovius kasti ir versmes džiovinti bei pilis dirbti, į kurių bokštus pusgyviams
-        reikėjo tąsyti kalkes nugraužtomis rankomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -97,5 +81,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07778
     - t-07777
+    - t-07778

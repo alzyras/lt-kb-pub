@@ -42,50 +42,7 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
   teiginys: "1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą."
   pagrindžia:
     - c-44874
-
-<a id="claim-t-183670"></a>
-- t-002
-  global_id: t-183670
-  teiginys: "1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą."
-  pagrindžia:
     - c-167062
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Caru tapo
-    1613 m. Zemskinio susirinkimo išrinktas
-    Michailas Fiodorovičius Romanovas. Šių
-    įvykių metu 1611 m., po beveik 20 mėne-
-    sių apsiausties, Lenkijos ir Lietuvos pajė-
-    gos užėmė Smolenską.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jiems padėti nesugebėjo net Lenkijos-
-    Lietuvos valdovo apgultiesiems į pagalbą
-    atsiųstos Lietuvos didžiojo etmono Jono
-    Karolio Chodkevičiaus pajėgos. Caru tapo
-    1613 m. Zemskinio susirinkimo išrinktas
-    Michailas Fiodorovičius Romanovas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -123,8 +80,6 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183670
 
 ## Ryšiai
 - Zemskinis susirinkimas paskyrė [[objektai/asmenys/Michailas Fiodorovičius Romanovas]]

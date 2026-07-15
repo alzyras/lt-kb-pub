@@ -55,32 +55,6 @@ Nenurodyta
   teiginys: "M. Balinskis rėmė lietuvių ir baltarusių švietėjų pastangas liaudies ugdymą paversti visuomeninių pertvarkymų dalimi."
   pagrindžia:
     - c-83224
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'M. Balinskis rėmė lietuvių ir baltarusių švietėjų pastangas liaudies ugdymą paversti visuomeninių pertvarkymų dalimi.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    M. Balinskis atsakė į jo
-    laišką „Kreipimasis į tautiečius", kuriame lietuvių kultūros vei­
-    kėjas reikalavo lietuvių liaudžiai suteikti visas tautai pridera­
-    mas pilietinio ir kultūrinio ugdymo teises. „<...> negalime būti
-    abejingi mokėjimui ir vartojimui kalbos, kuria kalba apie pus­
-    antro milijono artojų, nors vien dėl to, kad, suteikiant jiems kas­
-    kart didesnį apšvietimą per pradinį mokymą ir vis geriau jiems
-    atliekant krikščionio ir piliečio pareigas, paduoti ranką gabiau­
-    siems iš jų veikti platesniame pasaulyje, išdėstyti savo mintis
-    labiau išplitusia kalba"11. Būdamas Archeologijos komisijos vi­
-    cepirmininku, M. Balinskis rėmė lietuvių, baltarusių švietėjų pa­
-    stangas paversti liaudies ugdymą sudėtine visuomeniųių per­
-    tvarkymų dalimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

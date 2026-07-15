@@ -78,27 +78,6 @@ Nenurodyta
   teiginys: "Žemės ūkyje pradėjus naudoti organines ir mineralines trąšas, javų derlingumas padidėjo nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje."
   pagrindžia:
     - c-166686
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis, veisliniais gyvuliais, padėjo rengti žemės ūkio specialistus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus
-    geresnėmis javų sėklomis, veisliniais gyvuliais, padėjo rengti žemės ūkio
-    specialistus. Žemės ūkyje pradėtos naudoti organinės ir mineralinės trą-
-    šos, pagerėjo javų derlingumas (nuo 9 cnt prieš karą iki 12 cnt ketvirta-
-    jame dešimtmetyje). Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
-    dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
-    mėsos produktų eksportas į užsienį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Šaltiniai ir įrodymai
 
@@ -123,5 +102,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23287
     - t-23286
+    - t-23287

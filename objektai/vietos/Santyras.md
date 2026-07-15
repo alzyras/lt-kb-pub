@@ -6,16 +6,17 @@ saltiniai:
 datos:
   - '1210 m.'
   - '1212 m.'
+  - '1245 m.'
   - '1280 m.'
 date_start: '1210'
 date_end: '1280'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - pilis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -79,10 +80,10 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   pagrindžia:
     - c-167582
 
-<a id="claim-t-175400"></a>
+<a id="claim-t-197180"></a>
 - t-007
-  global_id: t-175400
-  teiginys: "Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje."
+  global_id: t-197180
+  teiginys: "Kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems."
   pagrindžia:
     - c-167582
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90011|Sventopelkas]]: Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus.
@@ -121,7 +122,6 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - susijęs iš 1210 m. pabaigos popiežiaus bulė: 1210 m. pabaigos popiežiaus bulėje Kristijonas minimas kaip vienas krikščioniškosios misijos Prūsijoje vadovų.
 - susijęs iš [[objektai/ivykiai/Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą.md#claim-t-62764|Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą]]: 1210 m. Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą padėjo Kristijono misijai Prūsijoje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Prie Santyro Konradas Bremeris pamatė jo tykojusį Sventopelką su daugybe žmonių ir 20 laivų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -143,44 +143,6 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   pagrindžia:
     - t-005
 
-- c-002
-  santrauka: 'Santyras tapo Kristijono būstine, o apie 1212 m. čia, matyt, buvo įkurtas reguliarus vienuolynas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
-    misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
-    tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas
-    ir su Lekno vienuolynu į šiaurės vakarus nuo Gnezno). Kristijono misijai padėjo Danijos
-    karaliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui
-    pripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad
-    tai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui
-    dovanojęs Gdansko  kunigaikštis Mščujus,  ketinęs panaudoti  cistersų  misiją savo
-    politiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Sventopelkas su kariuomene priėjo Santyro pilį ir ten įsirengė stovyklą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sugėdinti prūsai sugrįžo namo. Sventopelkas su savo kariuomene priėjo
-    Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas  į priekį daug karių bei ginklanešių,
-    kurie turėjo ištirti, ar Kristburgo pilis yra apsupta. Kristburgo broliai šiuos karius užpuolė
-    ir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko
-    kariuomenės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-004
   santrauka: '1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, arba šventos Marijos pilimi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -191,9 +153,6 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
     kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios
     šlovei bei garbei ji čia ir buvo perkelta500.
 
-
-
-
         209 (204).
   citata_rodoma: ''
   statusas: verified
@@ -203,62 +162,24 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   pagrindžia:
     - t-003
 
-- c-005
-  santrauka: 'Petras Dusburgietis Santyro pilį apibūdino kaip pastatytą kenkti tikėjimui ir tikintiesiems.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
-    įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
-    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
-    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
-    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
-    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
-    plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
-    plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
-    traukti su kariuomene į šią vietą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-006
-  santrauka: 'Dusburgietis teigia, kad todėl dviejų upių santakoje, būtent: Vyslos ir Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau
-    pradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir
-    Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo
-    brolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,
-    išsivarydavo juos į nelaisvę ar nugalabydavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-006
-
 ## Citatos
 
 - id: c-159522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 94"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    50 (49). Apie laivų kautynes
-
-       Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių
-    brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus
-    laivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe
-    žmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip
-    kilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo
-    laivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai
-    sužalojo.
+    Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
+    ir 10 laivų. Kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289,
+    kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas
+    jį nukovė. Elbingo miestiečių laive, kuris, smarkiai plaukdamas, užšoko ant seklumos ir
+    čia paliko, buvo nukauti du broliai, tačiau brolis Fridrichas, atėjęs į pagalbą, visus kitus
+    išvadavo ir perkėlė į savo laivą, praradęs kovoje du brolius ir 3 vyrus, o priešas neteko
+    20 užmuštaisiais, tačiau likusieji paspruko.
+    52 (51). Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną
+    288  Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
+    5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
+    pilis — Elbingą ir Baigą.
   citata_rodoma: "Apie laivų kautynes\n\n   Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių\nbrolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus\nlaivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe\nžmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip\nkilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo\nlaivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai\nsužalojo."
   statusas: verified
   teiginio_tipas: faktas
@@ -270,8 +191,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - id: c-159523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 42"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
     misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
@@ -280,7 +200,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
     karaliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui
     pripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad
     tai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui
-    dovanojęs Gdansko  kunigaikštis Mščujus,  ketinęs panaudoti  cistersų  misiją savo
+    dovanojęs Gdansko kunigaikštis Mščujus, ketinęs panaudoti cistersų misiją savo
     politiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas.
   citata_rodoma: "Kristijono misijai padėjo Danijos\nkaraliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui\npripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad\ntai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui\ndovanojęs Gdansko  kunigaikštis Mščujus,  ketinęs panaudoti  cistersų  misiją savo\npolitiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas."
   statusas: verified
@@ -293,11 +213,10 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - id: c-159524
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sugėdinti prūsai sugrįžo namo. Sventopelkas su savo kariuomene priėjo
-    Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas  į priekį daug karių bei ginklanešių,
+    Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas į priekį daug karių bei ginklanešių,
     kurie turėjo ištirti, ar Kristburgo pilis yra apsupta. Kristburgo broliai šiuos karius užpuolė
     ir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko
     kariuomenės.
@@ -312,19 +231,17 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - id: c-159527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 166"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    208 (203). Apie Marienburgo pilies pastatymą
-
-      1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
-    kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios
-    šlovei bei garbei ji čia ir buvo perkelta500.
-
-
-
-
-        209 (204).
+    Šiame kare krito nukauti
+    brolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės
+    pakliuvo į nelaisvę.
+    210 (205). Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę
+    Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo
+    gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių. Jį, paimtą į nelaisvę,
+    atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
+    todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
+    puotauti.
   citata_rodoma: "Apie Marienburgo pilies pastatymą\n\n  1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,\nkur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios\nšlovei bei garbei ji čia ir buvo perkelta500.\n\n\n\n\n    209 (204)."
   statusas: verified
   teiginio_tipas: faktas
@@ -336,8 +253,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - id: c-159528
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
     įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
@@ -359,21 +275,24 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - id: c-167582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau
-    pradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir
-    Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo
-    brolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,
-    išsivarydavo juos į nelaisvę ar nugalabydavo.
+    Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo
+    sosto legatą ir didįjį magistrą, pranešdami jiems apie naują karą ir Prūsijos žemės
+    padėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
+    įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
+    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
+    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
+    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
+    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
+    plaukioti Vysla aukštyn ir žemyn.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184197
     - t-175400
+    - t-197180
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Sventopelkas]]

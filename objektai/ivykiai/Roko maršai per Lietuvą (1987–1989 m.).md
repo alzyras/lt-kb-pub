@@ -58,23 +58,6 @@ Nenurodyta
   teiginys: "Roko maršai per Lietuvą vyko 1987, 1988 ir 1989 m. vasaromis, skleisdami LPS idėjas ir drąsindami režimo įbaugintus žmones."
   pagrindžia:
     - c-23187
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Roko maršai per Lietuvą vyko 1987, 1988 ir 1989 m. vasaromis, skleisdami LPS idėjas ir drąsindami režimo įbaugintus žmones.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ypač populiarūs tapo vadi-
-    namieji Roko maršai. Tokie jaunimo muzikos koncertų žygiai per Lietuvą
-    vyko 1987, 1988 ir 1989 m. vasarą – jie buvo skirti LPS idėjoms skleisti ir
-    išlaisvinti režimo įbaugintus žmones.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

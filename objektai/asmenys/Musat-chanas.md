@@ -42,37 +42,6 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
   teiginys: "Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių caraičiui Musat-chanui."
   pagrindžia:
     - c-41414
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Yra duomenų, kad toliau žygiuojant buvo
-    pasiektas pietinėje Krymo pakrantėje tarp-
-    tautinės reikšmės uostas Kafa (Feodosija,
-    totorių perleistas italų Genujos pirkliams,
-    vykdęs prekybą net su Indija). Kafos apy-
-    linkės buvo pavestos valdyti į Lietuvos
-    pusę perėjusiam totorių caraičiui Musat-
-    Chanui, taigi perėjo į tam tikrą Lietuvos
-    kontrolę.
-
-    Prieš mūšį
-
-    Vytauto dukters Sofijos Vytautaitės,
-    Maskvos didžiosios kunigaikštienės su
-    vaikais lankymasis Smolenske pas Vytautą
-    garantavo Maskvos didžiojo kunigaikščio
-    Vasilijaus neutralumą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 
@@ -105,7 +74,6 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
   pagrindzia:
     - t-39610
     - t-183755
-    - t-003
 
 ## Ryšiai
 - Musat-chanas valdė [[objektai/vietos/Kafa]]

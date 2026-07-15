@@ -35,23 +35,6 @@ Vėliau Vanagas subūrė Merkinės ir Alovės partizanus į 140 vyrų kuopą.
   teiginys: "Rugpjūtį Vanago vadovaujama 140 vyrų Merkinės ir Alovės partizanų kuopa buvo performuota į Merkinės batalioną."
   pagrindžia:
     - c-40790
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vėliau Vanagas subūrė Merkinės
-    ir Alovės partizanus į 140 vyrų kuopą. Rugpjūtį jo
-    vadovaujama kuopa buvo performuota į Merkinės
-    batalioną. Po kelių mėnesių Ramanauskas-Vanagas
-    buvo pakeltas į Merkio rinktinės vado pareigas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,27 +35,6 @@ media_all_json: |-
   teiginys: "Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės."
   pagrindžia:
     - c-83717
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Čekų ir Silezijos savanorių vadai ir, gražiausia,
-    Jaroslavas Lingumas*, Mstislavlio kunigaikštis, pateko į ne­
-    laisvę. Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
-    gaikščiu Jurgiu, išvengė sutriuškinimo21. Žygimantas, no­
-    rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus
-    narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio
-    lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­
-    torija ir toje vietoje pastatė parapijos bažnyčią22.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

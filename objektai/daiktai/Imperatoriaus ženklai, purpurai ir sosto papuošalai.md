@@ -49,8 +49,8 @@ Nenurodyta
   teiginys: "Odoakras, kariuomenės paskelbtas karaliumi, galėjo priimti imperatoriaus ženklus, purpurus ir sosto papuošalus, bet to nepadarė."
   pagrindžia:
     - c-175778
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Odoakras, kariuomenės paskelbtas karaliumi, galėjo priimti imperatoriaus ženklus, purpurus ir sosto papuošalus, bet to nepadarė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -79,8 +79,7 @@ Nenurodyta
 - id: c-175778
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 314"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Romos senatas patvirtino Ro­
     mulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­
@@ -92,7 +91,12 @@ Nenurodyta
     mi, Odoakras galėjo priimti titulus ir sosto papuošalus,
     bet iš kuklumo ar politinių sumetimų skatinamas, o gal
     vengdamas įžeisti senatą, neliepė vadinti save nei im­
-    peratoriumi, nei Italijos karaliumi.
+    peratoriumi, nei Italijos karaliumi. Tuo tarpu anksčiau
+    Oresto nuverstas impera(orius Julijus Nepas, neturėjęs
+    prieglaudos Dalmatijoje, tuojau po Odoakro pergalės at­
+    siuntė iškilmingą sveikinimą ir paskyrė jį patricijumi,
+    t. y. imperatoriaus vietininku.
+  citata_rodoma: "Romos senatas patvirtino Ro­\nmulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­\nmulo karališkoji ir pirmojo Augusto įsteigtos karūnos,\npašalinimą iš imperatoriaus posto. Tarsi pats likimas pa­\nnoro, kad šis jaunuolis sujungtų anų įžymių Romos im­\nperijos įkūrėjų vardus ir būtų paskutinis jų vadų ir ti­\ntulų paveldėtojas. Savo kariuomenės paskelbtas karaliu­\nmi, Odoakras galėjo priimti titulus ir sosto papuošalus,\nbet iš kuklumo ar politinių sumetimų skatinamas, o gal\nvengdamas įžeisti senatą, neliepė vadinti save nei im­\nperatoriumi, nei Italijos karaliumi."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -52,40 +52,6 @@ media_all_json: |-
   teiginys: "1385 m. rugpjūčio 14 d. Kriavo pilyje buvo surašytas aktas, vėliau atgabentas į Krokuvą."
   pagrindžia:
     - c-32146
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šitokioje padėtyje Krokuvon buvo
-    atgabentas aktas, surašytas 1385.VIII.14 d. Kriavo pilyje, kur
-    lygiai prieš trejus metus galutinai neišaiškintomis aplinkybėmis
-    buvo žuvęs Jogailos dėdė Kęstutis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Būda­
-    mas ir fiziniu atžvilgiu silpnas, Jaunutis nesugebėjo išreikalauti
-    paklusnumo nė kitų kunigaikščių, kurie ėmė savarankiškai veikti.
-    Šiaurėje, pvz., Kriavo ir Vitebsko kunigaikštis Algirdas nuo Livo­
-    nijos kryžiuočių sėkmingai gynė Pskovą. Miestas, jam atsidėkoda­
-    mas, savo kunigaikščiu pasikvietė vyriausią Algirdo sūnų, per
-    krikštą gavusį Andriaus vardą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

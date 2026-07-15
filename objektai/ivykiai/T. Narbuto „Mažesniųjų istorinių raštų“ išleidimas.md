@@ -66,71 +66,13 @@ Nenurodyta
   pagrindžia:
     - c-174899
     - c-174900
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šeštojo dešimtmečio viduryje T. Narbutui (o galbūt kam
-    nors iš jo bičiulių) kilo mintis kai ką iš to, kas buvo su­
-    kaupta per penkiolika metų, išleisti atskira knygele. Tai
-    buvo tam tikras kompromisas, išeitis, juolab kad rasti
-    leidėją, kuris išleistų istorinius veikalus, darėsi vis sun­
-    kiau. Be to, tuo metu T. Narbutas jau turėjo karčią pa­
-    tirtį, įgyvendindamas Lietuvos istorijos šaltinių publika­
-    vimo programą. Taigi 1856 metais Teofilio Gliuksbergo
-    spaustuvėje atsirado galimybė išleisti dalį to, kas turėjo
-    papildyti antrąjį LTI leidimą. Taip gimė „Mažesnieji is­
-    toriniai raštai“, kurių pratarmėje (beje, datuotoje 1852
-    metais) istorikas rašė; „Pildant mano paskelbtos „Lietu­
-    vių tautos istorijos“ puslapius naujais pastebėjimais, kri­
-    tiškai vertinant įvairius trūkumus bei klaidas, galbūt net
-    turint vilties, jog pasirodys antrasis leidimas, ir anks­
-    čiau, ir dabar pasitaikė dalykų, kuriuos vertėtų atminti ir
-    išsaugoti nuo pražūties, arba tokių smulkmenų, kurių
-    visų nebūtų įmanoma sutalpinti į „Istoriją“, — visa tai ir
-    spausdinu šiame rinkinyje“1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Be to, tuo metu T. Narbutas jau turėjo karčią pa­
-    tirtį, įgyvendindamas Lietuvos istorijos šaltinių publika­
-    vimo programą. Taigi 1856 metais Teofilio Gliuksbergo
-    spaustuvėje atsirado galimybė išleisti dalį to, kas turėjo
-    papildyti antrąjį LTI leidimą. Taip gimė „Mažesnieji is­
-    toriniai raštai“, kurių pratarmėje (beje, datuotoje 1852
-    metais) istorikas rašė; „Pildant mano paskelbtos „Lietu­
-    vių tautos istorijos“ puslapius naujais pastebėjimais, kri­
-    tiškai vertinant įvairius trūkumus bei klaidas, galbūt net
-    turint vilties, jog pasirodys antrasis leidimas, ir anks­
-    čiau, ir dabar pasitaikė dalykų, kuriuos vertėtų atminti ir
-    išsaugoti nuo pražūties, arba tokių smulkmenų, kurių
-    visų nebūtų įmanoma sutalpinti į „Istoriją“, — visa tai ir
-    spausdinu šiame rinkinyje“1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-174899
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 459"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 459."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šeštojo dešimtmečio viduryje T. Narbutui (o galbūt kam
     nors iš jo bičiulių) kilo mintis kai ką iš to, kas buvo su­
@@ -163,8 +105,7 @@ Nenurodyta
 - id: c-174900
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 459"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 459."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, tuo metu T. Narbutas jau turėjo karčią pa­
     tirtį, įgyvendindamas Lietuvos istorijos šaltinių publika­

@@ -76,25 +76,6 @@ Nenurodyta
   teiginys: "Husarai buvo bajorai, o daugelis jų gaudavo rentas iš etmonų ir didikų, kuriuos lydėdavo į seimo rinkimus."
   pagrindžia:
     - c-43155
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    kurie prie jos dar priskiria petihorus, nors jų daugiau gali išvysti Lietuvos, o ne Karūnos
-    armijoje. Visi šie kariai yra bajorai, o ypač husarai, karalius ir etmonai juos pagerbė su-
-    L Ąteikdami draugo [Touariche] vardą, kuris reiškia draugą arba palydovą, jie valgo už jų
-    Fax stalo, savo provincijoje yra labai vertinami ir netgi gerbiami, o dauguma gauna rentas iš
-    etmonų bei didelių senjorų, kuriuos pagerbdami lydi į seimo rinkimus.“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 

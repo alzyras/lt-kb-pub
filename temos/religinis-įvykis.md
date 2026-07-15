@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 85
+tema_objektu_skaicius: 84
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 85.
+Objektų skaičius: 84.
 
 ## Kaip naudoti
 
@@ -99,7 +99,6 @@ Objektų skaičius: 85.
 - [Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)](../objektai/ivykiai/Vilniaus%20vyskupijos%20seminarijos%20%C4%AFk%C5%ABrimas%2C%20Vozg%C4%97li%C5%A1ki%C5%B3%20fundacija%20ir%20perdavimas%20J%C4%97zaus%20draugijos%20kolegijai%20%281582%20m.%20sausio%2011%20d.%29)
 - [Vilniaus vyskupystės įkūrimas](../objektai/ivykiai/Vilniaus%20vyskupyst%C4%97s%20%C4%AFk%C5%ABrimas)
 - [Vilniečių nubaudimas po pranciškonų nužudymo](../objektai/ivykiai/Vilnie%C4%8Di%C5%B3%20nubaudimas%20po%20pranci%C5%A1kon%C5%B3%20nu%C5%BEudymo)
-- [Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.)](../objektai/ivykiai/Vokie%C4%8Di%C5%B3%20ordino%20prad%C5%BEios%20datavimas%20nuo%20Akono%20apgulties%20iki%20ilgesnio%20susiformavimo%20proceso%20%281190-1198%20m.%29)
 - [Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)](../objektai/ivykiai/Vyskupo%20seminarijos%20%C4%AFsteigimas%20i%C5%A1%20Vozg%C4%97li%C5%A1ki%C5%B3%20dvaro%20%281582%20m.%29)
 - [Vytauto pabėgimas į Prūsų ordiną](../objektai/ivykiai/Vytauto%20pab%C4%97gimas%20%C4%AF%20Pr%C5%ABs%C5%B3%20ordin%C4%85)
 - [Šv. Pranciškaus ordino brolių nukankinimas Vilniuje](../objektai/ivykiai/%C5%A0v.%20Pranci%C5%A1kaus%20ordino%20broli%C5%B3%20nukankinimas%20Vilniuje)

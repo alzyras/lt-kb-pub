@@ -44,24 +44,6 @@ Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttin
     - c-33064
 - susijęs iš Bibliographie des Memellandes: „Bibliographie des Memellandes“ buvo atskira Klaipėdos krašto bibliografija, išleista 1957 m. Würzburge.
 - susijęs iš Bibliography of Baltic Bibliographies: J. Balio „Bibliography of Baltic Bibliographies“ pateikė Lietuvą liečiančių lietuviškų bibliografinių rinkinių bibliografiją.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš viso sužymėta 944 bibliogr. numeriai.
-    Atskirai paminėtina Klaipėdos krašto bibliografija :
-    M. Szameitat :** **_Bibliographie des Memellandes_** **(Ostdeutsche Beiträge
-    aus dem Göttinger Arbeitskreis, t. 7), Würzburg (Holzner-Yerlag) 1957.
-    Duodant keletą specialių priedų, sužymėta 2395 bibliogr. numeriai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33064

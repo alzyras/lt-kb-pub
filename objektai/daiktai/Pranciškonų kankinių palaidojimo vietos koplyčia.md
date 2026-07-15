@@ -55,24 +55,6 @@ Nenurodyta
   teiginys: "XVI a. pradžioje Vilniuje dviejų pranciškonų palaidojimo vietoje pradėta statyti koplyčia."
   pagrindžia:
     - c-22287
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    lonistus. Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-
-    ji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių
-    Vilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų
-    nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
-    palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
-    trų vienuolynas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

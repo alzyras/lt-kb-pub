@@ -49,34 +49,13 @@ Nenurodyta
   teiginys: "Narbutas rašo, kad per nuolatinę auką tam tikromis valandomis buvo meldžiamasi skambant tam tikriems muzikos instrumentams."
   pagrindžia:
     - c-172565
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad per nuolatinę auką tam tikromis valandomis buvo meldžiamasi skambant tam tikriems muzikos instrumentams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    7. N uolatinė auka. Jos esmė buvo visados degančios ir
-    niekad negęstančios ugnies kurstymas Praurimės, Kurko,
-    Perkūno ir Amžinosios ugnies aukuruose; tą ugnį prižiūrė­
-    jo tam tikri žyniai ir žynės. Tam buvo deginamos ąžuolinės
-    malkos iš šventų miškelių, sakai, riebalai. Tam tikromis va­
-    landomis ir skambant tam tikriems instrumentams buvo
-    meldžiamasi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172565
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 314"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 314."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     7. N uolatinė auka. Jos esmė buvo visados degančios ir
     niekad negęstančios ugnies kurstymas Praurimės, Kurko,

@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš kurių buvo renkami vyriausieji vadai.
+Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš kurių buvo renkami vyriausieji vadai. Iš šių galingų žmonių buvo renkami vyriausieji vadai, kurių vienas buvo Stinigutas.
 
 ## Teiginiai
 
@@ -35,38 +35,25 @@ Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš ku
   teiginys: "Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš kurių buvo renkami vyriausieji vadai."
   pagrindžia:
     - c-174352
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš kurių buvo renkami vyriausieji vadai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šalavija taip pat turėjo savo
-    savarankiškų ponų, valdžiusių žmones ir kraštą; buvo
-    minimi Surbantas, Svisdeta, Surdeta.
-    Iš šių galingų
-    žmonių buvo renkami vyriausieji vadai, kurių vienas buvo
-    Stinigutas. Svarbesni reikalai buvo aptariami susirinki­
-    muose vyresniųjų žmonių, kuriuos karo metu skirdavo at­
-    sižvelgdami į vasalų kiekį ir tinkamumą, taip pat paskir­
-    davo skyrių vadus, kurie vadovavo būriams mūšio lauke.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197816"></a>
+- t-002
+  global_id: t-197816
+  teiginys: "Iš šių galingų žmonių buvo renkami vyriausieji vadai, kurių vienas buvo Stinigutas."
   pagrindžia:
-    - t-001
+    - c-174352
 
 ## Citatos
 
 - id: c-174352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 370"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 370."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šalavija taip pat turėjo savo
+    Bet
+    kita piliavietė, kuri mums rūpi, ko gero, buvo ant vienos
+    iš kalvų, esančių dešiniojoje Šešupės pakrantėje, kur tu­
+    rėtų būti tvirtovės pėdsakų. Šalavija taip pat turėjo savo
     savarankiškų ponų, valdžiusių žmones ir kraštą; buvo
     minimi Surbantas, Svisdeta, Surdeta.
     Iš šių galingų
@@ -81,3 +68,4 @@ Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191470
+    - t-197816

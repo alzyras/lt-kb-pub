@@ -9,14 +9,14 @@ datos:
   - '1324 m.'
 date_start: '1283'
 date_end: '1324'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - formulė
   - posakis
-amziai:
-  - 'XIII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,33 +51,8 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
   teiginys: "Dangaus balsas Albertui nurodė kasdien kalbėti maldą „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs“."
   pagrindžia:
     - c-59774
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dangaus balsas Albertui nurodė kasdien kalbėti maldą „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kadangi ne tris kartus, bet daugelį kartų jis prašė
-    viešpatį padaryti, kad nebebūtų šio kankintojo, išgirdo balsą, sklindantį iš dangaus ir
-    jam bylojantį: „Albertai, jeigu nori išvengti sunkių pagundų, privalai kiekvieną dieną
-    nuolankiai sukalbėti šią maldą: „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai
-      524 Šią formulę (quasi secundus fuit post regem Lethowinorum) kronikininkas taiko
-    ir Lietuvos vyriausybės atstovui, vedusiam 1324 m. derybas Rygoje (D. III, 359; Пашуто
-    В. T., Образование..., c. 297; Pašuta V., Lietuvos..., p. 155. Plačiau — Гудавичюс Э. По
-    поводу..., c., 35—44).
-      525  Apie auksą ir sidabrą senovės Lietuvoje bei sidabro dirbinius žr. Vaitkunskienė
-    L., Sidabras..., p. 10 ir kt.
-      526 Komtūras 1283.IX.3—1288.VII.30 (Voigt J., Namen-... p. 34).
-
-    trokščiau tavęs bei skaistaus gyvenimo, apvalyk man sąžinę ir neleisk man susiteršti“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: 'Dusburgietis pateikia vokišką šios maldos formą ir pasakoja, kad vienas brolis ją kasdien kalbėjo metus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -100,8 +75,7 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 - id: c-59774
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 175-176"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175-176."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kadangi ne tris kartus, bet daugelį kartų jis prašė
     viešpatį padaryti, kad nebebūtų šio kankintojo, išgirdo balsą, sklindantį iš dangaus ir
@@ -126,14 +100,21 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 - id: c-59775
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 176"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    trokščiau tavęs bei skaistaus gyvenimo, apvalyk man sąžinę ir neleisk man susiteršti“.
-    Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach
-    einem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį
-    metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame
-    nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.
+    Apie Ragainės ir Skalvių pilių pastatymą
+    1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
+    krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio
+    kankinio dieną (balandžio 23) su galybe karių į skalvių žemę ir dievo garbei bei šlovei
+    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
+    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
+    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
+    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
+    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
+    236 (229). Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
+    jo gyvenimą
+    Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas
+    Karaliaučiaus brolių komtūru.
   citata_rodoma: "Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach\neinem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį\nmetę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame\nnuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos."
   statusas: verified
   teiginio_tipas: faktas

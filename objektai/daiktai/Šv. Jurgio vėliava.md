@@ -62,29 +62,6 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Karinės vėliavos ir ženklai.md#claim-t-87051|Karinės vėliavos ir ženklai]]: Ordino riteriai puolė į mūšį nešini šv. Jurgio vėliava, bet lietuviai juos atrėmė ir privertė grįžti patyrus nuostolių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179298|Lietuviai]]: Ordino riteriai, nešini šv. Jurgio vėliava, puolė į mūšį, bet lietuviai juos atrėmė.
 - susijęs iš [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.).md#claim-t-86928|Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]: Per mūšį į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, pasiglemžusį didelę miesto dalį.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ordino riteriai, nešini Šv. Jurgio vėliava, puolė į mūšį, bet lietuvių buvo atremti ir su dideliais nuostoliais grįžo prie likusių karių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    39
-
-    ## Puslapis 56
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    urduliuodamos, plovė miesto aptvarus40. Su trigubai di­
-    desniu įniršiu, nešini šv. Jurgio vėliava puolė į mūšį Ordino
-    riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­
-    lių, turėjo grįžti prie likusių karių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83108

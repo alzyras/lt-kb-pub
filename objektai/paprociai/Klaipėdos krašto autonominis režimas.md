@@ -68,51 +68,6 @@ Nenurodyta
   teiginys: "Klaipėdos kraštas turėjo autonominę valdžią, o Lietuvos Respublikos vyriausybei ten atstovavo prezidento skiriamas gubernatorius."
   pagrindžia:
     - c-67145
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    8 d. komisijos nustatytas susitarimo, arba konven-
-    cijos, tekstas buvo pasirašytas Paryžiuje Lietuvos ir didžiųjų
-    valstybių įgaliotinių. Nuo to laiko Klaipėdos kraštas yra negin-
-    čijama Lietuvos valstybės dalis. Jis turi savo autonominę valdžią,
-    o respublikos vyriausybei ten atstovauja prezidento skiriamas gu-
-    bernatorius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **_Klaipėdos konvencija,_** kurią 1924 m. gegužės 8 d. pasirašė Pary-
-    žiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris
-    **_Poincarė,_** italų ambasadorius **_Avenzzana,_** japonų **_ambasadorius
-    Ishii,_** anglų markizas **_de Crewe_** ir Lietuvos ministeris pirmininkas ir
-    užsienių reikalų ministeris **_Galvanauskas,_** — susideda iš penkių da-
-    lių. Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-
-    nitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas
-    ir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius
-    ligi 1930 metų nuo karo prievolės ir duoda teisę Tautų S-gos tarybos
-    nariams atkreipti dėmesį į konvencijos laužymus; o jei dėl to ne-
-    būtų sutikimo su signatarais, šiems paliekama laisvė pateikti ginčą
-    Hagos Teismui. Antroji dalis yra priedėlis, kuris išdėsto au-
-    tonominį statutą, būtent apibrėžia vietinių organų kompetenciją,
-    nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
-    santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
-    atsiskaitymus ir paties statuto keitimo procedūrą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

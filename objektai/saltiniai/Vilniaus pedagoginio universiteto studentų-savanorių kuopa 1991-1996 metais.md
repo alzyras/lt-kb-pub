@@ -43,20 +43,6 @@ Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais, V
   teiginys: "A. Daugirdo „Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais“ išleista Vilniuje 2011 m."
   pagrindžia:
     - c-41743
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 257, „PAVOJAUS AKIVAIZDOJE*, Daugirdas A. Vilniaus pedagoginio universiteto
-    studentų-savanorių kuopa 1991-1996 metais, Vilnius, 2011, p. 28.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

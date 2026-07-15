@@ -61,49 +61,6 @@ Nenurodyta
   teiginys: "XIV–XV a. sandūroje LDK raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis."
   pagrindžia:
     - c-166697
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Didžiojo kunigaikščio raš-
-    tinėje buvo saugomi ir į Lietuvos Metriką pateko ir valstybinio pobūdžio,
-    ir atskiroms LDK sritims bei miestams skirtos privilegijos, bajorystės pa-
-    tvirtinimo, įvairių žemėvaldos sandorių aktai, inventoriai, testamentai,
-    teismų sprendimai, vietos ir tarptautinė korespondencija rusėnų, lotynų,
-    vokiečių (Prūsijos ir Livonijos), arabų ir čekų kalbomis. Taigi Lietuvos
-    Metrikos dokumentai – tai LDK politikos, visuomenės, ūkio, teisės, kul-
-    tūros istorija, svarbiausias LDK istorijos šaltinis. Atsidūrusi Maskvoje ir
-    iki šiol ten saugoma, ji tapo Lietuvos paveldo išbarstymo ar išgrobstymo
-    simboliu, senosios Lietuvos valstybės likimo ženklu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'XIV–XV a. sandūroje LDK raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Raštija
-    Formuojantis luominei LDK visuomenei ir susidarius su-
-    dėtingam valstybės valdymo aparatui, XIV–XV a. sandūroje skubiai pri-
-    reikė rašto. Šio visuomenės raidos etapo rašto poreikius Vakarų Europoje
-    tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai
-    didėjo. Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis
-    ir raštininkų mokyklomis. Jų veikla gerokai prisidėjo prie to, kad raštas
-    įsiskverbė į LDK bajorų ir miestiečių buitį. XV–XVI a. pradžios Lietuvos
-    kultūra kartais apibūdinama kaip raštinių kultūra.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

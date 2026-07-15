@@ -43,35 +43,6 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
   pagrindžia:
     - c-82145
 - susijęs iš Aragonas: Aragone esančiame Alkaniso mieste gimė teisininkas Petrus Maureus Royzius.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Alkanisas nurodomas kaip Aragono miestas, kuriame gimė teisininkas Petrus Maureus Royzius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Onos bažnyčią,
-    išplėsti Švč. Trejybės prieglaudą ir ją geriau aprūpinti pave­
-    dė kelissyk testamente minimoms seserims ir respublikai, o
-    turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą,
-    atidavė Vilniaus jėzuitų kolegijai. Tačiau šio karaliaus val­
-    dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­
-    žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio mas-
-    50
-    Petrus Maureus Royzius, gimęs Al-
-    cagnizo [ Alkaniso] mieste Aragono-
-    je, kilęs iš ispanų Ruiz de Moros gi­
-    minės, įvairiomis bylomis išgarsėjęs
-    teisininkas, pagaliau buvęs LDK
-    miesto reikalų referendorius ir Vil­
-    niaus katedros kustodas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82145

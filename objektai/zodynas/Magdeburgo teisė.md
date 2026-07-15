@@ -42,42 +42,8 @@ media_all_json: |-
   teiginys: "1564 m. Žygimantas Augustas leido Vilniaus miestiečiams laisviau bylinėtis teismuose pagal Magdeburgo teisę."
   pagrindžia:
     - c-82574
-- susijęs iš Vilnius: Pagal šaltinyje pateiktą sąrašą Vilnius 1387 m. iš Vladislovo Jogailos gavo Magdeburgo teisę.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės vokiečių teisė.md#claim-t-86535|Magdeburgo teisės vokiečių teisė]]: Vilnius 1321 m. turėjo Gedimino Rygos pavyzdžiu suteiktą vokiečių teisę, o 1387 m. iš Jogailos gavo Magdeburgo teisę.
 - susijęs iš Krokuva: Žygimanto privilegijoje Magdeburgo teisė apibūdinta kaip Krokuvoje nuo seno naudota teisė.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1564 m. Žygimantas Augustas leido Vilniaus miestiečiams laisviau bylinėtis teismuose pagal Magdeburgo teisę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IV KNYGA
-    Vilnius ir pasinaudojo savo prerogatyva abiejų tautų Unijos
-    seime, vykusiame Liubline, ir sostinės Vilniaus pasiuntiniai bur­
-    mistrai Francas Dumikas, Teodoras Jackovičius ir raštininkas
-    Jeronimas Opachovskis kartu su kitais Didžiosios kunigaikš­
-    tystės delegatais 1569 metų liepos 1-ą dieną pasirašė šlovingąjį
-    susivienijimo dekretą, Lietuvos paskelbtą Lenkijos pasiunti­
-    niams. Čia paminėti įstatymai gali būti laikomi galutiniu išsi­
-    vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią
-    pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
-    Kai dar 1564 metais Bełsko seime Žygimantas Augustas
-    tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­
-    rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove,
-    atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­
-    mus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­
-    ribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau
-    bylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip
-    savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
-    mąjį Statutą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82574

@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 222
+tema_objektu_skaicius: 221
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 222.
+Objektų skaičius: 221.
 
 ## Kaip naudoti
 
@@ -223,7 +223,6 @@ Objektų skaičius: 222.
 - [Vilhelmas Fiurstenbergas](../objektai/asmenys/Vilhelmas%20Fiurstenbergas)
 - [Vilius Gaigalaitis](../objektai/asmenys/Vilius%20Gaigalaitis)
 - [Vimaras \[Gneomiras\]](../objektai/asmenys/Vimaras%20%5BGneomiras%5D)
-- [Vincentas Janovskis (teisėjas, XIX a.)](../objektai/asmenys/Vincentas%20Janovskis)
 - [Vinrichas von Kniprodė](../objektai/asmenys/Vinrichas%20von%20Kniprod%C4%97)
 - [Virginijus Česnulevičius](../objektai/asmenys/Virginijus%20%C4%8Cesnulevi%C4%8Dius)
 - [Vladimiras Putinas](../objektai/asmenys/Vladimiras%20Putinas)

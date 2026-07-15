@@ -41,32 +41,6 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
   teiginys: "1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Butkiškio vienkiemyje."
   pagrindžia:
     - c-45048
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Butkiškio vienkiemyje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1949 m. spalio 24 d. MGB agentui V. Kučiui
-    panaudojus spec. preparatus „Neptun-20“,
-    buvo suimti Algimanto apygardos štabo
-    pareigūnas Albinas Kubilius-Rūgštymas
-    ir Vytenio būrio partizanas Alfonsas
-    Vildžiūnas-Vijoklis. Po intensyvių tardymų
-    bei kankinimų abu sutiko bendradarbiauti
-    ir spalio 28 d. atvedė čekistus prie tuome-
-    tinio Šiaurės Rytų partizanų srities štabo
-    bunkerio Anykščių valsčiaus, Butkiškio
-    vienkiemio Jovaišų sodyboje. Rūgštymas
-    buvo pristatytas prie pagrindinio įėjimo,
-    o Vijoklis — prie atsarginio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

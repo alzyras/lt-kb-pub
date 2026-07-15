@@ -196,27 +196,6 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Naikintojų batalionai.md#claim-t-19956|Naikintojų batalionai]]: Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais.
 - susijęs iš [[objektai/grupes/NKGB.md#claim-t-65923|NKGB]]: NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
-    1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst. karių. NKVD
-    ir NKGB skyriai, įsikūrę visose apskrityse, koordinavo baudžiamąsias ope-
-    racijas, vadovavo joms ir žmonių gaudynėms, tardė suimtuosius, verbavo
-    agentus. Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė
-    „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus. pa-
-    vadinimo istrebitelnyje bataliony), į kuriuos agitavo stoti vietinius gyvento-
-    jus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -234,62 +213,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Išdavikas pranešė tikslią partizanų dislokacijos vietą. Liepos 22 d. apie
-    1500 NKVD karių ir stribų apsupo partizanų stovyklą. Partizanai nuo 10
-    iki 13 valandos drąsiai atmušinėjo priešo atakas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos žydų sunaikinimas – Holokaustas
-    Vokietijai greitai užėmus Lietuvą labai mažai gyventojų pa-
-    sitraukė į Rytus, sovietai vos spėjo išgabenti į Maskvą LSSR vyriausybę.
-    Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus,
-    grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą
-    juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie
-    vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezerty-
-    rais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-
-    nėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies
-    gyventojų neapykantą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    So-
-    vietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai,
-    žmones imta kalinti ir tremti į SSRS gilumą. Net didžiausi SSRS simpatikai
-    prikando liežuvius – bolševizmą galima pažinti tik jame pagyvenus.
-    Represijos ir 1941 metų
-    Birželio sukilimas
-    Represijos, areštai, deportacijos, jų baimė – sudedamoji
-    bolševikų vykdytos politikos dalis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-16639

@@ -35,8 +35,8 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   teiginys: "Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal."
   pagrindžia:
     - c-60870
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -62,17 +62,33 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
 - id: c-60870
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tą patį sakoma Teisėjų
-    knygoje (Ts 4, 13): „Atsiminkite viešpaties tarną, kur Amalechą, pasitikintį savo skydais,
-    apgalėjo ne kovodamas, bet melsdamasis maldomis“. Skaitome ir apie Makabėjų, kad
-    jo vyrai šaukėsi  į dangų melsdamiesi ir išvaikė priešų stovyklas. Apie Judą Makabėjų
+    Apie Judą Makabėjų
     pasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą,
     kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai
     kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio kariuomenė turėjo
-    bėgti.
+    bėgti. (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė laimėti kovą, būtent kantrybė,
+    kuri padėjusi Kristaus kankiniams išsaugoti tyras savo sielas, apie ją ir poetas sako:
+
+
+
+    Pergalės būdas tikriausias — kantrybė, tas kovą laimi,
+
+
+
+    Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
+    o kitoje vietoje:
+
+
+
+    Vien tik kantrybė, dorybių viršūnė, įstengia
+
+
+
+    Ir beginklį įveikt, ir ginkluotą parblokšt!
+    Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
+    jei sieloje tikrai išsaugome kantrybę“.
   citata_rodoma: "Apie Judą Makabėjų\npasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą,\nkai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai\nkovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio kariuomenė turėjo\nbėgti."
   statusas: verified
   teiginio_tipas: faktas

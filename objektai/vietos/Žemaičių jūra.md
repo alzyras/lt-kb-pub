@@ -7,14 +7,14 @@ datos:
   - '1561 m.'
 date_start: '1561'
 date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - jūra
   - kraštas
   - vieta
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -91,35 +91,8 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   teiginys: "Žemaičių jūra per 1000 metų nuseko kelias uolektis."
   pagrindžia:
     - c-10521
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Žuvėdai^14 turi ant savo uolų ženklus, kurie rodo, jog Žemaičių jūra
-        per 1000 metų yra per kelias uolektis nusekusi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-002
-  santrauka: 'Į Žemaičių jūrą tekėjo šiaurinės kalvos įšleitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip pat lygia dalia visos upės šiaurinėj įšleitėj nuo tos gi kalvos teka į
-        Žemaičių jūrą, tarp kurių didžiosios upės yra: Daugava, Nemunas, Pragaras ir Isla.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -145,30 +118,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
-- c-004
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Šiaurėj, Odinui mirus, nebepasitiko tokio, kurs būt galėjęs visą šiaurę valdyti ir kurio būt klausiusios tautos, šiapus ir anapus Žemaičių jūros gyvenančios.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Kad taip šiaurėj ir Žemaičių jūroje audras vertė kariaudami, vienok nuo pietų, nurimus tautoms kita kitą stumdyti, rados pakajus, ir prekyba vėl pradėjo plėstis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -253,3 +202,31 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92017
+
+- id: c-10523
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    - status: unused
+    - claim_role: new_claim
+    - kategorija: vieta
+    - kandidatas: Parusis
+    - potencialus_teiginys: Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais.
+    - public_note:
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - vieta_saltinyje: match: normalized_whitespace
+    - santrauka: Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais.
+    - pagrindzia:
+    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
+      citata_originali: |
+        Kiti vadino Žemaičių kraštą, pajūry esantį, tarp upės Išlos ir Nemuno, Prūsais, arba Parusais, nuo didžiai garsios žinyčios, senovėj Nemuno įtakos saloje
+        buvusios, kurioje žinyčioj amžina ugnis ant dievo garbės rusėjo, nuo ko ne vien pati sala Rusnės vardą sau gavo, bet dar tūli raštininkai pačią Žemaičių jūrą Rusų mare vadino, o jos pajūrių
+        gyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais.
+  citata_rodoma: "nuo ko ne vien pati sala Rusnės\nvardą sau gavo, bet dar tūli raštininkai pačią Žemaičių jūrą Rusų mare vadino, o jos pajūrių\ngyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009

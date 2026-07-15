@@ -47,23 +47,6 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
 - susijęs iš [[objektai/grupes/Jurgio Lajaus būrys.md#claim-t-40905|Jurgio Lajaus būrys]]: Jurgio Lajaus būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
 - susijęs iš [[objektai/grupes/Klarko būrys.md#claim-t-40923|Klarko būrys]]: Klarko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.
 - susijęs iš [[objektai/grupes/Žuvinto-Palių junginys.md#claim-t-41232|Žuvinto-Palių junginys]]: Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Daukšių veikusius partizanų būrius į Žuvinto-Palių junginį ir jam vadovavo.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Leitenanto Barkausko vadovaujama pirmoji grupė turėjo pulti bolševikų štabą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Po kaštanais mes persiskyrėme į dvi grupes po šešiolika vyrų. Pirmoji grupė, vadovau-
-    jama leitenanto Barkausko, puls štabą, o antroji, vadovaujama karininko Sangino, puls
-    dvaro klojimą, kuriame [miegojo] dvi bolševikų kuopos. [...].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41867

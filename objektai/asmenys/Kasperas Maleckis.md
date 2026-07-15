@@ -42,53 +42,6 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
   teiginys: "Zigmantas Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio komunikacijų ir rinkti žinių apie priešą."
   pagrindžia:
     - c-44419
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po nepavykusio
-    grafo Liudviko Pliaterio antpuolio prieš
-    Rusijos kariuomenės karinio transporto
-    gurguolę, vykstančią į Daugpilį, teko at-
-    sisakyti šios tvirtovės puolimo, nes rusų
-    karinė vadovybė perprato sukilėlių planus.
-    Sukilėlių apmokymai ir reorgani-
-    zacija Teresboro karinėje stovykloje
-    užtruko 10 dienų. Norėdamas atitraukti
-    rusų kariuomenės dėmėsi nuo pagrin-
-    dinių sukilėlių dalinių, Z. Sierakauskas
-    išsiuntė Kasperą Maleckį su 150 karių
-    ardyti geležinkelio komunikacijas
-    ir rinkti duomenis apie priešo judė-
-    jimą, o pats su savo pagrindiniais dali-
-    niais išskubėjo Svėdasų kryptimi.
-
-    suteikdama jam pulkininko laipsnį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    kryptimi. Netrukus iš K. Maleckio žvalgy-
-    binio padalinio atėjo pranešimas apie
-    stambių priešo dalinių artėjimą. Siekda-
-    mas padidinti sukilėlių kariuomenės ju-
-    dėjimo greitį, Z. Sierakauskas savo pajėgas
-    padalino į tris kolonas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -79,59 +79,12 @@ Vartojama kaip termininis posakis apie pradėjimą nuo ištakų ar pradinio taš
 - susijęs iš [[objektai/posakiai/Aš nerašau lietuvių tautos istorijos.md#claim-t-192108|Aš nerašau lietuvių tautos istorijos]]: Teodoras Narbutas rašė „Aš nerašau lietuvių tautos istorijos“, savo darbą vadindamas veikalais, o ne istorija.
 - susijęs iš [[objektai/zodynas/dzieje.md#claim-t-192298|dzieje]]: Narbutas „dzieje“ pateikia kaip kuklesnį savo veikalo pavadinimą negu „historia“.
 - susijęs iš [[objektai/zodynas/dzieje.md#claim-t-192298|dzieje]]: Narbutas „dzieje“ pateikia kaip kuklesnį savo veikalo pavadinimą negu „historia“.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Anoniminis recenzentas „ab ovo“ vartojo kaip pradėjimo nuo Lietuvos ištakų vaizdinį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Antra ver­
-    tus, suvokdamas istoriko pasirinkto tikslo sudėtingumą,
-    anonimas rašė: „Autorius, norėdamas ab ovo nustatyti
-    Lietuvos lizdą, privalo pereiti visą tos tautų migracijos,
-    papasakotos kronikų pasakose, labirintą; pereiti laikyda­
-    mas delne istorinės tiesos žibintą. Kokiam gi įžvalgiam
-    reikia būti, kad neįklimptum į tą sraunų nuolatinių prie­
-    laidų ir hipotezių verpetą ir kad tas žibintas neužgestų
-    dar tau nespėjus iš ten išsikapstyti?“1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taigi skaitome: „Aš
-    nerašau lietuvių tautos istorijos, nes neįstengčiau susi­
-    doroti su tokiu darbu; be kita ko, ir pats Livijus nesuge­
-    bėtų jos parašyti — tokia ji šiandien, kai nuosmukį pa­
-    tyrė dalykai, galėję palaikyti jos šaunumą, yra neapdo­
-    rota, tokius išbarstytus ir išblaškytus turi šaltinius. Ma­
-    no uždavinys, kaip galima spręsti iš „Mitologijos“, yra
-    atskleisti praeities įvykių esmę, pradedant tautos kilmės
-    ab ovo (pabr. T. N. — R. G.), iki pat tų laikų, kai ji 1569
-    metais, valdant Zygimįantui] Aug[ustui], susijungė su
-    Lenkija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-175110
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 448"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 448."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Antra ver­
     tus, suvokdamas istoriko pasirinkto tikslo sudėtingumą,
@@ -153,8 +106,7 @@ Vartojama kaip termininis posakis apie pradėjimą nuo ištakų ar pradinio taš
 - id: c-175111
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 439"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 439."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taigi skaitome: „Aš
     nerašau lietuvių tautos istorijos, nes neįstengčiau susi­

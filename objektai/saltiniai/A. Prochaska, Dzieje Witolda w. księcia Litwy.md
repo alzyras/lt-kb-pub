@@ -44,24 +44,6 @@ Prochaska, A.
   teiginys: "A. Prochaskos „Dzieje Witolda w. księcia Litwy“ buvo išleista Vilniuje 1914 m."
   pagrindžia:
     - c-33512
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Prochaskos „Dzieje Witolda w. księcia Litwy“ buvo išleista Vilniuje 1914 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — PfiW. — Platonov, S. F. : _Geschich­
-    te Russlands vom Beginn bis zur Jetztzeit_ , Leipzig 1927, 112-135 p.—
-    Prochaska, A. : _Dzieje Witolda w. księcia Litwy_ , Vilnius 1914. — (”)
-    _Znaczenie niedoszłej koronacji Witolda_ , AW, I, 1923, 337-351 p. — Sar _­_
-    nes, A. : _Zur Kritik des XI.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

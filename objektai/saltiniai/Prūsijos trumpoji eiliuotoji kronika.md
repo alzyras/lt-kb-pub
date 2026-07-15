@@ -34,38 +34,16 @@ Dusburgietis teigia, kad olivos kronikoje — Kirsburg (SRP, 5, p. 600), Kirsber
   teiginys: "Prūsijos trumpojoje eiliuotojoje kronikoje Kristburgo vardas pateiktas forma „Kirsburg“."
   pagrindžia:
     - c-61894
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prūsijos trumpojoje eiliuotojoje kronikoje Kristburgo vardas pateiktas forma „Kirsburg“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Kulmo miesto perkėlimą
-
-
-      299 D.— Cristburgk, Jer.— Crislburc. Olivos kronikoje — Kirsburg (SRP, 5, p. 600),
-    Kirsberg (ten pat, 1, p. 683); Prūsijos trumpojoje eiliuotoje kronikoje Kirsburg (ten pat,
-    2, p. 2).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61894
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Kulmo miesto perkėlimą
-
-
-      299 D.— Cristburgk, Jer.— Crislburc. Olivos kronikoje — Kirsburg (SRP, 5, p. 600),
+    299 D.— Cristburgk, Jer.— Crislburc. Olivos kronikoje — Kirsburg (SRP, 5, p. 600),
     Kirsberg (ten pat, 1, p. 683); Prūsijos trumpojoje eiliuotoje kronikoje Kirsburg (ten pat,
     2, p. 2).
   statusas: verified

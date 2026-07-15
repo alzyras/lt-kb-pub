@@ -43,23 +43,6 @@ GirdžiūnuiGegužiui ir kitiems LLA organizatoriams pavyko sukurti Žaliosios g
   teiginys: "1945 m. vasarį Steponas Girdžiūnas-Gegužis tapo pirmuoju 3-iosios Šiaurės LLA apygardos vadu."
   pagrindžia:
     - c-42246
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1945 m. vasario mėn. buvo įkurta 3-ioji
-    Šiaurės LLA apygarda. Pirmasis apygardos
-    vadas - ltn. Steponas Girdžiūnas-Gegu-
-    zis, pavaduotojas ir štabo viršininkas —
-    ltn. V. Jazokas- Petraitis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

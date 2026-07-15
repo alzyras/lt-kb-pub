@@ -49,40 +49,6 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
   teiginys: "Įspėtas kai kurių riterių, Ordino vadas įsakė kariuomenei iš Kanerniko žygiuoti į šiaurę, į Löbau."
   pagrindžia:
     - c-35360
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kai kurių riterių
-    įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti šiaurėn, į
-    Löbau. Ties Löban įsakė pastatyti 12 tiltų, kuriais turėjo pereiti
-    Drevencą ir tokiu būdu užbėgti priešui už akių. Matyti, kai
-    davė šitą parėdymą, jau buvo žinoma ar bent spėjama sąjunginin­
-    kų žygiavimo kryptis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-    - t-004
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kryžiuočių kariuomenė kelią nuo Löbau iki Grün­
-    valdo (22—25 klm.) turėjo atlikti tą audringą naktį, nes liepos
-    mėn. 14 d. jie dar buvo Löbau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -105,7 +71,6 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
   pagrindzia:
     - t-34136
     - t-184308
-    - t-004
 
 - id: c-35361
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

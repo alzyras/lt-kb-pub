@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Skomantas su prūsų kariais netikėtai užpuolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.
+Skomantas su prūsų kariais netikėtai užpuolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus. Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė įgulą, sunaikino įtvirtinimus, o jo raiteliai išsivarė didelį grobį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,47 +47,36 @@ Nenurodyta
   teiginys: "Skomantas su prūsų kariais netikėtai užpuolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus."
   pagrindžia:
     - c-169188
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Skomantas su prūsų kariais netikėtai užpuolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ramiai
-    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
-    ji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,
-    netikėtai patraukė su prūsų kariais Gardino kryptimi.
-    Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
-    įgulą, sugriovė arba sudegino visus įtvirtinimus; du
-    tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
-    didžiulį grobį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196256"></a>
+- t-002
+  global_id: t-196256
+  teiginys: "Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė įgulą, sunaikino įtvirtinimus, o jo raiteliai išsivarė didelį grobį."
   pagrindžia:
-    - t-001
+    - c-169188
 
 ## Citatos
 
 - id: c-169188
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 156"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ramiai
-    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
-    ji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,
-    netikėtai patraukė su prūsų kariais Gardino kryptimi.
     Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
     įgulą, sugriovė arba sudegino visus įtvirtinimus; du
     tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
-    didžiulį grobį.
+    didžiulį grobį. Tuo tarpu keletas kitų lietuvių būrių
+    niokojo Lenkijos pasienius, grįždami jie pateko į prie­
+    šų pasalas, ir tuo metu, kai namai, regis, buvo ranka
+    pasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­
+    tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,
+    kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,
+    vildamiesi, jog už naują išdavystę kryžiuočiai jiems
+    atleis jų ankstesnį nusikaltimą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185827
+    - t-196256

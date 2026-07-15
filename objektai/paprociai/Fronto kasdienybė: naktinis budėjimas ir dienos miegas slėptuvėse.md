@@ -64,26 +64,6 @@ Nenurodyta
   teiginys: "Po želigovskininkų puolimo pirmose linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse."
   pagrindžia:
     - c-12342
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo metu, kai lenkai veržėsi Ukmergės link ir vyko sunkios
-    kovos ties Giedraičiais, mėginta pralaužti lietuvių pozicijas ir
-    kitoje Neries pusėje. 6-ojo pulko viršila apibendrina padėtį jų
-    fronto ruože, po to, kai pavyko sėkmingai atremti želigovski-
-    ninkų puolimą.
-    „Pirmose linijose vėl prasidėjo normalus gyvenimas: naktį budė-
-    jome, o dieną slėptuvėse miegojome.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

@@ -63,54 +63,6 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
 - susijęs iš Egiptas: Narbutas kolchų ryšius su egiptiečiais sieja su prielaida, kad kolchai išėjo į Egiptą.
 - susijęs iš [[objektai/zodynas/ulusas.md#claim-t-86621|ulusas]]: Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisvę ir suteikė žemės valdų bei laisvių.
 - susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190778|Plinijus]]: Teodoro Narbuto pasakojime Plinijus spalius lokalizavo kairiojoje Dono pakrantėje, prie Kimerijos Bosporo.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautas prie Azovo buvo užėmęs ištisą ulusą ir jo žmonėms paliko teisę išpažinti senąjį tikėjimą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    142
-
-    ## Puslapis 159
-
-    Il KNYGA
-    darbščiais ir naudą visuomenei teikiančiais jos nariais. Juos
-    Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­
-    vo pirmtakais Gediminu ir Algirdu61, bemaž tuo metu užka­
-    riavęs neramias šios tautos ordas, buvo užėmęs ištisą jų ulu-
-    są, palikęs jiems valią išpažinti senąjį tikėjimą, davęs daug
-    žemės valdų ir laisvių, tėvynei iš jų gavo narsių ir ištikimų
-    gynėjų ir pavyzdingų piliečių62. Daugiausia jų įsikūrė už
-    61
-    Naruszewicz Taurikoje, 1 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šiek tiek užgaišęs Lietu­
-    voje, kur tvarkė visokius reikalus, pats taip pat leidosi
-    paskui kariuomenę, kai atėjo tinkamas metas kariauti.
-    Iš Kijevo su kariuomene tyliai patraukė į Azovą. Persi­
-    kėlęs prie Azovo per Doną, pradėjo karą, kol žinia apie
-    Vytauto įsiveržimą nebuvo
-    Įsiv e ržia  į S k itiją
-    dar skitų pasiekusi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-82148
@@ -142,8 +94,7 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
 - id: c-168285
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 353"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 353."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šiek tiek užgaišęs Lietu­
     voje, kur tvarkė visokius reikalus, pats taip pat leidosi
@@ -151,7 +102,7 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
     Iš Kijevo su kariuomene tyliai patraukė į Azovą. Persi­
     kėlęs prie Azovo per Doną, pradėjo karą, kol žinia apie
     Vytauto įsiveržimą nebuvo
-    Įsiv e ržia  į S k itiją
+    Įsiv e ržia į S k itiją
     dar skitų pasiekusi.
   statusas: verified
   teiginio_tipas: faktas

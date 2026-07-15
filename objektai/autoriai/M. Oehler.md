@@ -41,25 +41,6 @@ Oehler : Der Krieg zwischen dem Deutschen Orden und PolenLitauen 1409-1411, Elbi
   pagrindžia:
     - c-33060
 - susijęs iš DlugO: DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    2, 1960, 9-33 p. — Oehler, M. : _Der Krieg zwischen den
-    Deutschen und Polen-Litauen 1409-11_ , Elbing 1910. — Prochaska, A. :
-    _Długosz a Cronica conflictus o gruuwaldskiej bitwie_ , KH, t. 24, 1910, 407-
-    421 p. — (”) _Rok 1410. Przyczyny wojny_ , Roczn. Tow. Nauk w Toruniu,
-    t. 17, 1910, 1-378 p. — Rhode, G. : _Polemiken um die Schlacht von
-    Tanneuberg 1410.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33060

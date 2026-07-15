@@ -41,27 +41,6 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
   teiginys: "1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę."
   pagrindžia:
     - c-45226
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilinin-
-    ko Dovydo dvarą, kiek vėliau puolė ir Gardiną, visus metus tęsėsi
-    abipusiai puldinėjimai. Lapkritį Gedimino „galinga kariuomenė“,
-    vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę,
-    o kita „didžiausia“ kariuomenė - Livonijos pietryčiuose Rezeknės
-    regioną. Tuo metu Gedimino pasiuntinys popiežiaus legatams
-    Rygoje pranešė, kad valdovas derybų dėl krikšto neveda, toliau
-    laikysis senolių tikėjimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

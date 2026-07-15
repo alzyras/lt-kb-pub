@@ -51,45 +51,6 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
 - susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-183763|Timūr-Kutlukas]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
 - susijęs iš Vorskla: Rugpjūčio pradžioje Lietuvos jungtinė kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene.
 - susijęs iš [[objektai/zodynas/emyras.md#claim-t-183709|emyras]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamišo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai, moldavai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rugpjūčio
-    pradžioje kariuomenė, persikėlusi per
-    Dnieprą, jo kairiuoju krantu patraukė į
-
-    Šarvinių
-    pirštinių
-    rekonstrukcija
-
-    stepes, kur laukė prie
-    kairiojo Dniepro intako
-    Vorsklos, prie Ordos valdų pari-
-    bių, susitiko su Aukso ordos chano
-    Timūr-Kutluko kariuomene.
-
-    Lietuvos jungtinės pajėgos
-
-    Lietuviai, žemaičiai, LDK rusų žemių ku-
-    nigaikščiai, Tochtamišo totoriai, talkinin-
-    kai iš Lenkijos, Kryžiuočių ordino kariai,
-    moldavai.
-
-    Totorių pajėgos
-    Aukso ordos chano Timūr-Kutluko,
-    Krymo emyro Edygos kariai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-167052
@@ -126,5 +87,5 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183660
     - t-38824
+    - t-183660

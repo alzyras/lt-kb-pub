@@ -34,8 +34,8 @@ Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jū
   teiginys: "Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jūros gyvenę lietuviai kariavo su romėnais."
   pagrindžia:
     - c-174298
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jūros gyvenę lietuviai kariavo su romėnais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -73,8 +73,7 @@ Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jū
 - id: c-174298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 299"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Juk buvo kariaujama su skandina­
     vais, gentys įvairiais būdais patirdavo tų užjūrio kai­
@@ -95,7 +94,12 @@ Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jū
     galindų ir venedų būriai kariavo su imperatorium Valuzia-
     nu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­
     vino kaip vandalų, finų, galindų ir venedų nugalėto­
-    ją.
+    ją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­
+    nių medalių1. Šie numizmatiniai užrašai nemini gotų,
+    nes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­
+    sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
+    tuose2.
+  citata_rodoma: "Juk buvo kariaujama su skandina­\nvais, gentys įvairiais būdais patirdavo tų užjūrio kai­\nmynų įtaką, nes didėjo prekių apyvarta ir plėtėsi santy­\nkiai su Rytais dėl to, kad į tuos kraštus patraukė dau­\ngelis genčių. Lietuviai, gyvenę toliau nuo jūros, dalyva­\nvo įvairiuose sarmatų maištuose, būdavo įtraukiami į\njuos net kaimyninių tautų, ne kartą kariavo ir su romė­\nnais, ypač imperatorių Trojano, Decijaus, Galo, Hosti-\nliano ir kitų laikais buvo germanų barbarišikumo sąjun­\ngininkai.\nEsama\nneabejotinų įrodymų, nes,\nvaldant\nimperatoriui\nGalui, apie 253 metus\njungtiniai finų,\ngalindų ir venedų būriai kariavo su imperatorium Valuzia-\nnu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­\nvino kaip vandalų, finų, galindų ir venedų nugalėto­\nją."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

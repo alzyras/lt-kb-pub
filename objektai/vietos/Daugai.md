@@ -12,14 +12,14 @@ datos:
   - '2026 m.'
 date_start: '1399'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestelis
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -141,8 +141,8 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-118264
     - t-118262
+    - t-118264
 
 - id: c-108761
   sudarytojas: "Karolis Zikaras"

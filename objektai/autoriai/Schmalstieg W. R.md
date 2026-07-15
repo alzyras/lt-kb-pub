@@ -7,16 +7,16 @@ datos:
   - '1974 m.'
 date_start: '1974'
 date_end: ''
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kalbininkas
   - mokslininkas
   - autorius
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,8 +44,8 @@ Dusburgietis teigia, kad schmalstieg W.
   teiginys: "W. R. Schmalstiegas 1974 m. Londone išleido knygą apie trijų katekizmų senosios prūsų kalbos fonologiją ir morfologiją."
   pagrindžia:
     - c-61417
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'W. R. Schmalstiegas 1974 m. Londone išleido knygą apie trijų katekizmų senosios prūsų kalbos fonologiją ir morfologiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -65,11 +65,12 @@ Dusburgietis teigia, kad schmalstieg W.
 - id: c-61417
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    9, S. 8—11.
     Schmalstieg W. R. An Old Prussian Grammar: The Phonology and Morphology of the
     Three Catechisms.—London, 1974.
+  citata_rodoma: "Schmalstieg W. R. An Old Prussian Grammar: The Phonology and Morphology of the\nThree Catechisms.—London, 1974."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

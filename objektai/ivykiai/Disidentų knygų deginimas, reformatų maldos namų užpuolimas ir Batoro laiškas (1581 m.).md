@@ -58,39 +58,6 @@ Nenurodyta
   teiginys: "Steponas Batoras iš stovyklos parašytame laiške pasmerkė sumaištį ir pareiškė prisiekęs valstybėje saugoti laisvę."
   pagrindžia:
     - c-82922
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Steponas Batoras iš stovyklos parašytame laiške pasmerkė sumaištį ir pareiškė prisiekęs valstybėje saugoti laisvę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Bet teisingas ir santūrus Steponas Batoras sugebė­
-    jo skubiai nutraukti neleistinus ketinimus. Rūsčiai išbarė
-    už šią sumaištį karalius, susirūpinęs Pskovo apgultimi, ir
-    iš stovyklos parašė aną atmintiną laišką, kuriame pareiš­
-    kė, kad prisiekęs visoje valstybėje visiems išsaugoti laisvę,
-    negalėjęs nebausdamas leisti, kad dėl tos priežasties būtų
-    sudrumsta taika krašte ir kad kiekvieno sąžinę paliekąs Die-
-    64
-    Be kitų knygų, šioje spaustuvėje bu- vėje po to, kai buvo atiduota jėzui-
-    vo išleistas rašinys Apie mylimą va- tams.
-    sąrą. Vilniuje, Kunigaikščio Mikalojaus 65
-    Radvilos spaustuvėje, 1576, in 4to, Ia- J o h. L a s i c i u s Apologet, advers.
-    pai nenumeruoti. Atrodo, tai pirmoji Anton. Possevinum, p. 144. Volanus
-    knyga, atspausdinta šioje spaustu- contra Skargae missam. Lib. Il, pag. 96.
-    294
-
-    ## Puslapis 311
-
-    IV KNYGA
-    vo teismui66.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

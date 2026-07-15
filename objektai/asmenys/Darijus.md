@@ -96,7 +96,6 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 - susijęs iš Voluika: Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir Bogončavo apylinkes Dono ir Doneco tarpupyje.
 - susijęs iš [[objektai/asmenys/Artabanas.md#claim-t-191254|Artabanas]]: Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti Darijų nuo žygio į nepažįstamą, nusiaubtą ir sausringą kraštą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir keltis per Dnestrą, Būgą, Dneprą bei Donecą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -118,48 +117,6 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Iki Darijaus žygio prieš Skitiją gelonai, Narbuto teigimu, jau seniai gyveno tarp budinų, buvo su jais susilieję ir sudarė vieną tautą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Herodotas
-    prisimena buvus tokį miestą prie Juodosios jūros, kur
-    netoliese buvo ir Dioskūrija; būtent šios vietos garsėjo
-    didžiulėmis prekyvietėmis, į kurias susirinkdavo nesu­
-    skaičiuojamos minios žmonių iš maždaug trijų šimtų
-    genčių, įvairių savo kalba ir gyvenamąja vieta1. Kada
-    įvyko ta revoliucija, privertusi gelonus išvykti iš empo­
-    riumų, nėra jokių žinių; tikra tik tai, kad iki Darijaus
-    žygio prieš Skitiją gelonai jau seniai gyveno tarp budi­
-    nu, susiliejo su jais ir sudarė vieną tautą. Todėl mano­
-    ma, kad tai turėjo įvykti ne vėliau kaip VI amžiaus prieš
-    Kristaus gimimą antrojoje pusėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Skitų karaliaus Indatiro vadovaujama kariuomenė karo metu kovojo su Darijumi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pats Herodotas, tą patį manydamas apie gelonus ir bu­
-    dinus, teigia, jog jie turėję tvirtoves ir tokį nekilnojamąjį
-    turtą, kurį sunaikino persų antpuolis. Šio karo metu jie
-    buvo ištikimiausi ir uoliausi skitų sąjungininkai. Kariuo­
-    menė, kuriai vadovavo pats skitų karalius Indatiras, ko­
-    vojo su Darijum.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 - c-004
   santrauka: 'Narbutas manė, kad skitų žemdirbiai koloniją prie Dnepro įkūrė dar prieš Darijaus puolimą prieš Skitiją V a. pr. Kr. pradžioje.'
@@ -205,52 +162,28 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   pagrindžia:
     - t-005
 
-- c-006
-  santrauka: 'Narbutas rašė, kad Darijaus amžiuje gelonų-budinų krašte žemdirbystė buvo aukšto lygio ir skatino graikų prekybą grūdais Juodojoje jūroje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Dar nebuvo tokių
-    tyrinėjimų, ieškojimų, ir juos tenka palikti ateičiai. Juk
-    neabejotina, jog šiame krašte, kai jis priklausė gelo-
-    nams-budinams, dar persų karaliaus Darijaus amžiuje
-    žemdirbystė buvo aukšto lygio ir skatino graikus prekiau­
-    ti grūdais Juodojoje jūroje. Apie 510 metus prieš Kristaus
-    gimimą lakedamoniečiai palaikė prekybinius ryšius su Ski-
-    tijos žemdirbių gyvenamosiomis vietovėmis, o šiek tiek
-    anksčiau, 497 metais prieš Kristaus gimimą, kai pagrin­
-    dinė Juodosios jūros prekybos sostinė ir daugelio prie
-    Euksino buvusių kolonijų „motina“ Miletas ėmė nykti,
-    grūdų pardavimas ne tik nesumažėjo, bet dėl Skitijos
-    žemdirbių padidėjo, nes kitų Graikijos miestų pirkliai pa­
-    tys keliaudavo tiesiai į Olbiją ir toliau į šiaurę, į ten esan­
-    čius uostus, net į išėdom} kraštą, kur gelonai ir budinai
-    Donu atplukdydavo savo grūdų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 ## Citatos
 
 - id: c-174006
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 56"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kadangi priešo būriai buvo narsūs ir puikiai gink­
-    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
-    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
-    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
-    jo nesuskaičiuojamų atsargų našta. Taip Darijus buvo
-    priverstas greitai pereiti visą Skitiją, persikelti per to­
-    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
-    cas. Antra vertus, persų karalius, pasak Herodoto, savo
-    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
-    čio tarytum padėjo skitams įgyvendinti jų ketinimus.
+    Veltui šis uolus karvedys, nors į jo patarimus ir nebuvo
+    atkreipta dėmesio, iš paskutiniųjų stengėsi išgelbėti ka­
+    riuomenę, rodydamas kovingumo, pavyzdingos tvarkos ir
+    ištvermės įveikiant didžiausius sunkumus pavyzdį; mil­
+    žiniškos Darijaus kariuomenės buvo neįmanoma apsau­
+    goti nuo milžiniškų nuostolių. Sis karalius troško žūtbūt
+    pasiekti paskutines Skituos sritis. Jis nuėjo net iki gelonų
+    ir budinu krašto, kur tik pirmąsyk patyrė didelį džiaugs­
+    mą, išgriaudamas keletą tvirtų pilių. Dėl įvairių trūkumų
+    reikėjo trauktis tuo pat keliu, kuriuo kariuomenė buvo
+    atėjusi. Galop išdidžiam monarchui buvo laimė persikelti
+    su likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats
+    pastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­
+    taip persai būtų jį neišvengiamai visiškai sutriuškinę1.
+  citata_rodoma: "Kadangi priešo būriai buvo narsūs ir puikiai gink­\nluoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­\ngalvoję ir išvengdami lemtingų kovų bei puldinėdami iš\nšonų ir užnugario, vertė priešą sparčiai žygiuoti su visa\njo nesuskaičiuojamų atsargų našta. Taip Darijus buvo\npriverstas greitai pereiti visą Skitiją, persikelti per to­\nkias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-\ncas. Antra vertus, persų karalius, pasak Herodoto, savo\ndvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­\nčio tarytum padėjo skitams įgyvendinti jų ketinimus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -261,8 +194,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 - id: c-174008
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 80."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Herodotas
     prisimena buvus tokį miestą prie Juodosios jūros, kur
@@ -286,8 +218,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 - id: c-174009
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 81"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 81."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pats Herodotas, tą patį manydamas apie gelonus ir bu­
     dinus, teigia, jog jie turėję tvirtoves ir tokį nekilnojamąjį
@@ -305,10 +236,12 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 - id: c-174011
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 375"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šiandien ji vadinama Pečeros kalva, kuri stūk­
+    Tokiomis aplinkybėmis dabartinio Kijevo žemė pir­
+    miausia tapo skitų pastovia gyvenamąja vieta, nes ši
+    vieta buvo pati tinkamiausia visame šios Dnepro pakran­
+    tės plote. Šiandien ji vadinama Pečeros kalva, kuri stūk­
     so čia pat prie Dnepro, be užutekių, graži ir patogi gyny­
     bai2. Tad negalime nė valandėlės abejoti, jog skitų žem­
     dirbiai įkūrė čia vieną pagrindinių savo nuolatinių ko­
@@ -316,6 +249,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     ras ir žymesnių žmonių buveinė. Tai turėjo įvykti anks­
     čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­
     sitiko V amžiaus prieš Kristaus gimimą pradžioje.
+  citata_rodoma: "Šiandien ji vadinama Pečeros kalva, kuri stūk­\nso čia pat prie Dnepro, be užutekių, graži ir patogi gyny­\nbai2. Tad negalime nė valandėlės abejoti, jog skitų žem­\ndirbiai įkūrė čia vieną pagrindinių savo nuolatinių ko­\nlonijų, kur galbūt buvo svarbesnis jų žemdirbystės cent­\nras ir žymesnių žmonių buveinė. Tai turėjo įvykti anks­\nčiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­\nsitiko V amžiaus prieš Kristaus gimimą pradžioje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -326,21 +260,31 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 - id: c-174826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 57"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Galop išdidžiam monarchui buvo laimė persikelti
-    su likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats
-    pastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­
-    taip persai būtų jį neišvengiamai visiškai sutriuškinę1.
-    40
-    Darijui nepavyko įveikti skitų, bet šis žygis turėjo
-    didelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­
-    tent nuo to laiko ji aiškiai ėmė artėti prie žlugimo. Ko
-    gero, remdami Skitijos kolonistus graikus, persai palaikė
-    jų siekimą sunaikinti seną krašto tvarką ir suteikė progą
-    svetimoms gentims imtis veiksmų šiam tikslui įgyven­
-    dinti.
+    Ponas Eichvaldas, buvusio Vilniaus universiteto, o vėliau —
+    Vilniaus
+    medicinos-chirurgijos
+    akademijos
+    profesorius, „Dorpater
+    Jahrbuch“ paskelbė savo straipsnį apie Darijaus žygį prieš skitus
+    pavadinimu „Darijus, Histapo sūnus, Pinsko apylinkėse“, Jis, remda­
+    masis Herodoto ir Ktesijaus, o ypač pirmojo, kuris paliko budinu ša­
+    lies aprašymą, duomenimis, daro išvadą, jog lai turėjusi būti dabar­
+    tinė Polesė. Tą išvadą jis grindžia šiandienine topografine šios že­
+    mės padėtimi, Herodoto minimais upių pavadinimais bei kitomis
+    smulkmenomis, leidžiančiomis taip manyti
+    ir
+    įžvelgti
+    panašumą.
+    Eichvaldo hipotezės esmė būtų tokia: Darijus žygiavo kairiuoju Dnesl-
+    ro krantu į šiaurę, į venedų ir finų genties žemes, t. y. iki šiandienių
+    Voluinės, Minsko ir Lietuvos gubernijų, o atgal grįžo dešiniąja Dnest-
+    ro pakrante. Ten keliaudamas susidūrė su budinais, Polesės gyvento­
+    jais, melanchlenais, estais, o galbūt ir androfagais, i. y. samojedals,
+    grįždamas susitiko su neurais Galicijos pasienyje bei androfagais
+    Transilvanijoje.
+  citata_rodoma: "Galop išdidžiam monarchui buvo laimė persikelti\nsu likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats\npastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­\ntaip persai būtų jį neišvengiamai visiškai sutriuškinę1.\n40\nDarijui nepavyko įveikti skitų, bet šis žygis turėjo\ndidelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­\ntent nuo to laiko ji aiškiai ėmė artėti prie žlugimo. Ko\ngero, remdami Skitijos kolonistus graikus, persai palaikė\njų siekimą sunaikinti seną krašto tvarką ir suteikė progą\nsvetimoms gentims imtis veiksmų šiam tikslui įgyven­\ndinti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -351,8 +295,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 - id: c-174827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 205"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 205."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Dar nebuvo tokių
     tyrinėjimų, ieškojimų, ir juos tenka palikti ateičiai. Juk

@@ -39,35 +39,6 @@ Padariniai Tarpukario Lietuvos generalinio štabo majoras Vytautas Bulvičius sa
   teiginys: "Vytautas Bulvičius knygoje „Karinis valstybės rengimas“ ragino tautą bijoti ne nepriklausomybės netekimo kariaujant, o laisvės praradimo be kovos."
   pagrindžia:
     - c-64413
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Padariniai
-
-    Tarpukario Lietuvos generalinio štabo
-    majoras Vytautas Bulvičius savo kny-
-
-    goje „Karinis valstybės rengimas“ rašė:
-    „Pirmutinė karo diena ar ta diena, kada nu-
-    stojama nepriklausomybės neišdrįstant pra-
-    dėti karo, dažniausiai yra svarbesnė visos
-    tautos ateičiai, negu dešimtys metų taikos
-    meto darbo. Tą dieną tauta turi atsiminti,
-    kad tautų istorija krauju rašoma. Turi bijoti
-    ne nustojimo nepriklausomybės kariau-
-    jant, bet bijoti praradimo laisvės be kovos.
-    Tauta, kuri priešo neerzinimo sumetimais
-    neišdrįsta reikiamu momentu griebtis karo,
-    nėra laisvės verta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

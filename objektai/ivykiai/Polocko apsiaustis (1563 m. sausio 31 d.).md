@@ -64,46 +64,6 @@ Nenurodyta
   teiginys: "1563 m. sausio 31 d. Ivanas Rūstusis su 60 tūkst. karių pradėjo Polocko apsiaustį."
   pagrindžia:
     - c-44925
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Polocko netektis buvo netikėta kaip per-
-    kūnas iš giedro dangaus. Gavęs šią žinią,
-    Žygimantas Augustas net apsiverkė. Miesto
-    praradimas buvo nepaprastai skausmingas
-    Lietuvai, nes Polockas buvo ne tik vienas
-    seniausių jos miestų, svarbus prekybos
-    centras, bet ir stipriausia tvirtove rytinėse
-    žemėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    nių rezultatų nepasiekė. Tačiau 1563 m. pra-
-
-    džioje caras Ivanas Rūstusis, asmeniškai
-    vadovaudamas 60 tūkstančių karių, įsi-
-    veržė į Lietuvos Didžiąją Kunigaikštystę
-    ir sausio 31 d. pradėjo Polocko apsiaustį.
-    Nors miestas didvyriškai gynėsi, po dviejų
-    savaičių kovos įgula, nebegalėdama prie-
-    šintis, pasidavė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

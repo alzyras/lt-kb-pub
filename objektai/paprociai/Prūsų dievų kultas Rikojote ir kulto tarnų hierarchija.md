@@ -69,45 +69,6 @@ Nenurodyta
   teiginys: "Pasak Simono Grunau kronikos, Rikojote buvo prūsų dievų kulto centras su žaliuojančiu ąžuolu ir šventykla, papuošta trijų dievų stabais."
   pagrindžia:
     - c-166722
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Simono Grunau kronikoje Rikojoto šventyklos prūsų dievų trejetą sudarė Pakulas, Perkūnas ir Patrimpas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prū-
-    sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak
-    Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė,
-    kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-
-    vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
-    Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų
-    ir griausmų dievas, o trečiasis – javų dievas Patrimpas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Pasak Simono Grunau kronikos, Rikojote buvo prūsų dievų kulto centras su žaliuojančiu ąžuolu ir šventykla, papuošta trijų dievų stabais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pasak
-    Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė,
-    kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-
-    vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
-    Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų
-    ir griausmų dievas, o trečiasis – javų dievas Patrimpas. Aprašomas šių
-    dievų kultas ir kulto tarnų hierarchija, vaidilutės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -130,6 +91,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54329
+    - t-54330
 
 - id: c-166722
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

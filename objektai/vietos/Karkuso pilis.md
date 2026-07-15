@@ -7,14 +7,14 @@ datos:
   - '1298 m.'
 date_start: '1298'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - pilis
   - vieta
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,8 +49,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   teiginys: "1298 m. Vytenis, Rygos miestiečių pakviestas, užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes."
   pagrindžia:
     - c-59197
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karkuso, arba Karksio, pilis buvo Livonijoje, pietinėje Estijoje, į pietus nuo dabartinio Viljandžio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -94,12 +94,13 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 - id: c-59196
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 191"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis
-    Livonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.
-    79).
+    Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
+    turėjo didelių nuostolių sunkiai sužeistaisiais.
+    277 (270). Apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais
+    Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.
+  citata_rodoma: "550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis\nLivonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.\n79)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -110,10 +111,10 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 - id: c-59197
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 191"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1297 viešpaties metais  kilo begaliniai Rygos miestiečių  ir Teutonų ordino brolių
+    Apie Rygos miestiečių kivirčus su Teutonų ordino broliais Livonijoje
+    1297 viešpaties metais kilo begaliniai Rygos miestiečių ir Teutonų ordino brolių
     kivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos
     būtinybės verčiami, devynis kartus su jais stojo į kovą. Nors viename susirėmime broliai
     neatsilaikė, vis dėlto kituose, dievo galybės padedami, susilaukė sėkmės. 1298 viešpaties

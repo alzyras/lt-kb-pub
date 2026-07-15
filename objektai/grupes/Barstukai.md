@@ -50,7 +50,6 @@ Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų
 - susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-188287|Lietuvos totoriai]]: Narbutas rašo, kad Lietuvos totoriai mitines būtybes vadino fereikomis ir džinais, o jų religinė raštija joms priskyrė kenksmingumą.
 - susijęs iš J. Lasickio veikalas apie žemaičių dievus: Narbutas rašo, kad, pasak Lasickio, kaukai pasirodydavę tik jais tikėjusiems žmonėms.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų klojimų ir neša juos palankesniems ūkininkams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -77,18 +76,21 @@ Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų
 - id: c-172335
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 180"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Rytojaus dieną ūkininkai žiūri, kurio valgio dau­
-    giau suvalgyta: jeigu duonos, vadinasi, dievaičiai pagausins
-    jiems javų; jeigu mėsos, -  seksis su gyvulių prieaugliu ir 1.1.; o
-    to valgio, kuris jiems buvo gardžiausias, per kitas šventes de­
-    da daugiau, negu buvo per ankstesnes, prašydami, kad pagau­
-    sintų javų. Taip pat pasakoja, kad barstukai iš kitų ūkininkų,
-    kuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus
-    ir neša tiems, kurie jiems geresni. Apie jų gražumą pasakoja:
-    ūgio ne aukštesnio, kaip viena uolektis“.
+    Tačiau
+    jeigu pirkią iššluodavo, skiedras išmėtydavo ir pieną išpilda­
+    vo, jie ramiai išeidavo ieškoti kito būsto.
+    Demonografai šios rūšies dvasias, pasak F. Noelio, vadina
+    Gobelins; jos vieno ūkininko javus nunešančios kitam - taip
+    žmonės manantys Prancūzijoje.
+    Vietiniai kaimiečiai dar nepaliauja tikėję, kad esama žmo­
+    nių, susidėjusių su koboliais, kurie jiems slapčia neša dovanų
+    w Skandinavams tai buvo mitinės būtybės, tačiau įkyrios ir ir­
+    zlios; su jomis buvo galima kovoti ir jas užmušti. Jos turėjo savo sei­
+    mą ir karalienę, vardu Huldą, kuri turėjo dvi dukteris - Tergerdą
+    (Thergerd) ir Irpą (Yrpo).
+  citata_rodoma: "Rytojaus dieną ūkininkai žiūri, kurio valgio dau­\ngiau suvalgyta: jeigu duonos, vadinasi, dievaičiai pagausins\njiems javų; jeigu mėsos, -  seksis su gyvulių prieaugliu ir 1.1.; o\nto valgio, kuris jiems buvo gardžiausias, per kitas šventes de­\nda daugiau, negu buvo per ankstesnes, prašydami, kad pagau­\nsintų javų. Taip pat pasakoja, kad barstukai iš kitų ūkininkų,\nkuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus\nir neša tiems, kurie jiems geresni. Apie jų gražumą pasakoja:\nūgio ne aukštesnio, kaip viena uolektis“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

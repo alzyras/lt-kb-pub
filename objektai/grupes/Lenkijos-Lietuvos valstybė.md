@@ -50,45 +50,16 @@ Politinė valstybė / politinis darinys.
   pagrindžia:
     - c-170874
 - susijęs iš [[objektai/ivykiai/Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.).md#claim-t-187974|Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.)]]: Po trečiojo padalijimo 1795 m. Lenkijos-Lietuvos valstybė visiškai neteko nepriklausomybės.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Gilinantis į tau­
-    tos ir asmenybės savitumą, išskirtinumą, atkreiptas dėmesys į
-    atskirų tautų kalbas, papročius, tautosaką, mitologiją -  visą
-    etninę kultūrą, kuri klasicizme buvo ignoruojama arba tiesiog
-    niekinama kaip tamsios, politiniame ir kultūriniame valstybės
-    gyvenime, nedalyvaujančios liaudies kultūra. Sis judėjimas su­
-    stiprino domėjimąsi kalbotyra ir tiesiog pagimdė etnologijos
-    (tautosakos, etnografijos, mitologijos ir pan.) mokslus, o pro­
-    fesinėje kultūroje (ypač literatūroje, muzikoje, vaizduojama­
-    jame mene) įtvirtino naują romantizmo kryptį.
-    Šie Europoje vykstantys audringi socialinio, politinio ir kul­
-    tūrinio gyvenimo procesai negalėjo neveikti ir Lenkijos-Lie­
-    tuvos valstybės, kuri po trečiojo padalijimo (1795 m.) visiškai
-    neteko nepriklausomybės ir priklausė Rusijos, Prūsijos ir Aust­
-    rijos imperijoms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-170874
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 16"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 16."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Gilinantis į tau­
     tos ir asmenybės savitumą, išskirtinumą, atkreiptas dėmesys į
-    atskirų tautų kalbas, papročius, tautosaką, mitologiją -  visą
+    atskirų tautų kalbas, papročius, tautosaką, mitologiją - visą
     etninę kultūrą, kuri klasicizme buvo ignoruojama arba tiesiog
     niekinama kaip tamsios, politiniame ir kultūriniame valstybės
     gyvenime, nedalyvaujančios liaudies kultūra. Sis judėjimas su­

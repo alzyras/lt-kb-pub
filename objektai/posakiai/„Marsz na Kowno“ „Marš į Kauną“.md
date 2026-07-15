@@ -62,28 +62,6 @@ media_all_json: |-
   teiginys: "Po Lietuvos priimto Lenkijos ultimatumo tūkstančiai žmonių Lenkijos miestų gatvėse skandavo „Marsz na Kowno“ („Marš į Kauną“)."
   pagrindžia:
     - c-97172
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    179
-    dėl tos kovos baigties jis neturi iliuzijų, tad pasisako už taikų sprendimą.
-    Kadangi Vilniaus pripažinimo Lenkijai ultimatumas nelietė, kovo 19 die-
-    ną Lietuva ultimatumą priėmė. Nors tūkstančiai karštakošių Lenkijos
-    miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“),
-    oficialiąją Varšuvą rezultatai tenkino.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 
@@ -104,7 +82,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104219
     - t-26650
     - t-26902
     - t-104218
+    - t-104219

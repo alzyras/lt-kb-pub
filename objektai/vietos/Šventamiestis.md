@@ -35,33 +35,13 @@ Narbutas Šventamiestį Prūsuose apibūdina kaip didelę Kurko šventovę, kuri
   teiginys: "Narbutas Šventamiestį Prūsuose apibūdina kaip didelę Kurko šventovę, kurioje dievo garbei degė nuolat kurstoma ugnis."
   pagrindžia:
     - c-171992
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Šventamiestį Prūsuose apibūdina kaip didelę Kurko šventovę, kurioje dievo garbei degė nuolat kurstoma ugnis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Skaityk straipsnius „Vaidilutės“,
-    „Birutė“.
-    2. Dievo Kurko garbei taip pat degė nuolat kurstoma ug­
-    nis, ypač Prūsuose, didelėje to dievo šventovėje Šventamiesty-
-    je (Szwentameste), kur dabar Heiligenbeilis, lenkiškai Swięta-
-    Siekierka, Šventasis Kirvelis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-171992
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 224."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Skaityk straipsnius „Vaidilutės“,
     „Birutė“.

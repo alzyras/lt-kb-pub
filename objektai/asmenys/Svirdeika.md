@@ -44,26 +44,6 @@ media_all_json: |-
   teiginys: "Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu."
   pagrindžia:
     - c-42249
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „[...] Švenčiausios trejybės švenčių išvakarėse [1376 m. birželio 7 d.], matė karalių Algirdą
-    ir karalių Kęstutį, o su jais Svirdeiką su savo pajėgomis įeinančius į Narkyčius. Ir jie
-    padalijo kariuomenę į 3 dalis. Kęstutis užpuola Taplaukį, sukdamas į Vėluvą. Algirdas,
-    [perėjęs] Narkyčiuose per tiltą, niokoja Nadruvos žemę. Svirdeika [eina] į Įsrutį ir visur
-    [gyventojus] randa neįspėtus.“
-
-    MARIENVERDERIO PAĖMIMAS 1384 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

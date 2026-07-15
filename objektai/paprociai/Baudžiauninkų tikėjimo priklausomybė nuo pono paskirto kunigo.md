@@ -50,25 +50,6 @@ Nenurodyta
   teiginys: "Baudžiauninkai turėdavo priklausyti tam tikėjimui, kurio kunigą ponas paskirdavo savo bažnyčioje."
   pagrindžia:
     - c-02168
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo metu protestantizmas Lietuvoje buvo labai įsigalėjęs.
-    Didikai beveik visi buvo kalvinai, o miestuose buvo įsigalėję
-    liuterionys; tik didelė dalis smulkbajorių tuomet tebuvo katalikai,
-    (liaudies nusistatymo niekas tada nepaisė: kokį kunigą savo
-    bažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir bau-
-    džiauninkai). Labai maža tuomet buvo belikę katalikų kunigų,
-    o dar mažiau jų mokėjo lietuviškai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

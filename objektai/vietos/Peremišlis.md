@@ -43,24 +43,6 @@ media_all_json: |-
 - susijęs iš Vakarų Bugas: Vakarų Bugas naudojamas kaip Horodlės vietos orientyras.
 - susijęs iš Vakarų Bugas: Horodlė šaltinio pastaboje lokalizuojama Volynėje, dabartinėje Lenkijoje, prie Vakarų Bugo, į pietus nuo Bresto.
 - susijęs iš [[objektai/zodynas/įpėdinis.md#claim-t-187547|įpėdinis]]: Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dėl įpėdinių žinomas tik iš Bychovco kronikos.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas užėmė Smolenską antrąsyk
-    ir galutinai^1 ). Tuo pat metu jis praplėtė savo valdžią Okos
-    aukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,
-    Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
-    kunigaikštijos^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38598

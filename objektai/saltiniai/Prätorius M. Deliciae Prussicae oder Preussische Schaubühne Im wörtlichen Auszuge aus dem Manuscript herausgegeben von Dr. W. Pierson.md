@@ -43,29 +43,13 @@ Dusburgietis teigia, kad prätorius M.
   teiginys: "M. Prätoriaus „Deliciae Prussicae oder Preussische Schaubühne“ rankraščio ištraukas 1871 m. Berlyne išleido W. Piersonas."
   pagrindžia:
     - c-61890
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'M. Prätoriaus „Deliciae Prussicae oder Preussische Schaubühne“ rankraščio ištraukas 1871 m. Berlyne išleido W. Piersonas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prätorius M. Deliciae Prussicae oder Preussische Schaubühne/Im wörtlichen Auszuge
-    aus dem Manuscript herausgegeben von Dr. W. Pierson.— Berlin, 1871.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61890
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Prätorius M. Deliciae Prussicae oder Preussische Schaubühne/Im wörtlichen Auszuge
     aus dem Manuscript herausgegeben von Dr. W. Pierson.— Berlin, 1871.

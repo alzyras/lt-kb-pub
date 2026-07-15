@@ -48,8 +48,8 @@ Nenurodyta
   teiginys: "Kazimieras, gindamas teises į Rusią, sudarė palankią sutartį su lietuvių valdovu ir pasuko ginklus į kitą Rusios dalį."
   pagrindžia:
     - c-169167
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kazimieras, gindamas teises į Rusią, sudarė palankią sutartį su lietuvių valdovu ir pasuko ginklus į kitą Rusios dalį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -99,12 +99,11 @@ Nenurodyta
     rus ir jėgas. Vis dėlto Kazimiero apdairumas leido su­
     švelninti įtemptą padėtį: sudaręs su lietuvių valdovu
 
-    ## Puslapis 230
-
     sutartį palankiomis sąlygomis, jis pasuko ginklus į kitą
     Rusios pašalį; jį apiplėšęs ir pavergęs, išgriovė pilis,
     brangesnius daiktus išvežė, prijungė žemes prie Len­
     kijos, o gyventojams vėliau įvedė lenkų įstatymus.
+  citata_rodoma: "Tad šis, norėdamas apginti savo teises į Ru­\nsią, nutarė, jog pirmiausia būtina kariauti su lietuviais.\nMat Rusią valdė Algirdo broliai: Liubartas — Lvovą,\nKęstutis — dideles žemes kitur Rusioje, o Jurgis Nari-\nmantaitis, jų brolėnas,— Kremenecą. Vis dėlto lenkai\nturėjo vengti karo su lietuviais, antraip galėjo palūžti\niš karto susidūrę su daugybe kliūčių ir karo sunkeny­\nbių. Mat didelius reikalus geriau tvarkyti dalimis; jei­\ngu jie suverčiami į krūvą, pranoksta tvarkytojų no­\nrus ir jėgas. Vis dėlto Kazimiero apdairumas leido su­\nšvelninti įtemptą padėtį: sudaręs su lietuvių valdovu\n\n## Puslapis 230\n\nsutartį palankiomis sąlygomis, jis pasuko ginklus į kitą\nRusios pašalį; jį apiplėšęs ir pavergęs, išgriovė pilis,\nbrangesnius daiktus išvežė, prijungė žemes prie Len­\nkijos, o gyventojams vėliau įvedė lenkų įstatymus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

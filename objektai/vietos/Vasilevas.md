@@ -58,26 +58,6 @@ Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­ no, lenkas, Aro 
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108315|Pranciškonų ordinas]]: Pranciškonas Jonas Pliekta Vilniaus vyskupu tapo 1399 m., bet, anot Balińskio, nežinoma, kodėl pareigas ėjo tik vienerius metus.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108324|Pranciškonų ordinas]]: Pirmuoju Vilniaus diecezijos vyskupu Jogaila išrinko Andrių iš Vasilevo Važilą, Mažesniųjų brolių ordino vienuolį.
 - susijęs iš [[objektai/zodynas/prelatai ir kanauninkai.md#claim-t-86544|prelatai ir kanauninkai]]: Vilniaus diecezijoje keturi nauji prelatų ir aštuoni kanauninkų titulai buvo skirti lenkų kunigams.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Andrius iš Vasilevo, pranciškonas ir lenkas, 1387 m. tapo pirmuoju Vilniaus vyskupu ir mirė 1399 m.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kitas žinomas platus istorinis veikalas, taip
-    pat jėzuito Naramovskio3.
-    1. Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­
-    no, lenkas, Aro ženklo herbo, pirmasis Vilniaus vyskupas,
-    iškeltas į tas pareigas 1387 m., mirė 1399 m.
-    2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82229

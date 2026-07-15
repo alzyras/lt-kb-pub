@@ -48,25 +48,6 @@ VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę baz�
 - susijęs iš Kuršas: Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedams.
 - susijęs iš Kuršas: Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedų naudai.
 - susijęs iš Grobinė: VII a. pabaigoje švedai įsikūrė Grobinėje, kur turėjo svarbią karinę bazę Seeburgą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Archeolo­
-    giniai duomens parodo apie 650 m. prasidedančią didelę švedų
-    ekspansiją iš Gotlando ir vidurio Švedijos. VII amž. gale jie įsi­
-    kūrė Grobine, kur turėjo savo svarbią karinę bazę Seeburgą, užėmė
-    Apuolės pilį (prie Skuodo). VIII amž. pusėje jie randami Sauslauke
-    (prie Durbės).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-28366

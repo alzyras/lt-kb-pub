@@ -75,28 +75,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Juška (kaimo daraktorius).md#claim-t-195259|Juška (kaimo daraktorius)]]: Juškos tikrasis darbas buvo žiemomis mokyti vaikus, už kiekvieną vaiką imant po griviną per savaitę ir gaunant maistą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus
-    paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietu-
-    vos naudai (1917 m. pradžioj).
-    Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne
-    vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio
-    2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai. Konfe-
-    rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
-    kalą būsimajai Lietuvai turėti uostą (Klaipėdą).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-46449
@@ -118,5 +96,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-123784
     - t-123781
+    - t-123784

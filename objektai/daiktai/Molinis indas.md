@@ -55,23 +55,9 @@ Nenurodyta
   teiginys: "Po kremacijos numirėlio pelenai buvo supilami į molio indą prieš įdedant jį į kapus."
   pagrindžia:
     - c-10261
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    paskui sušluostę gruzdinius^1299 numirėlio supylė į molio
-        indą, ir lydėtojai, nešdami į kapus, sušuko regintys keliaujantį nabaštiką debesyse ant balto žirgo ir
-        sakalą besklendžiantį lygiai; įdėję indą į kapus ir kaukoles neprietelių pergalėtųjų ant grandies suvėrę,
-        padėjo po indo apačia ir žemėmis aprausė; minavonei vadino tuos kapus vardu to, kas tenai buvo
-        palaidotas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Pastabos
 

@@ -47,40 +47,14 @@ Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fu
 - susijęs iš Kražiai: Kražiuose atsirado jėzuitų kolegija, funduota didžiojo etmono Jono Karolio Katkevičiaus.
 - susijęs iš Minskas: Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.
 - susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
+- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
 - susijęs iš Pašiaušė: Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.
 - susijęs iš Smolenskas: Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų.
 - susijęs iš Vilija: Vilniaus pirklių laivams, vadintiems vytinėmis, buvo leista laisvai plaukioti Vilijos upe.
 - susijęs iš Vitebskas: Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija.
+- susijęs iš Vitebskas: Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui.
 - susijęs iš Žodiškiai: Žodiškiuose veikusi jėzuitų kolegija buvo Minkevičių fundacija.
-- susijęs iš [[objektai/zodynas/algininkai.md#claim-t-187517|algininkai]]: Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė dvarionis ir nemaža vengrų algininkų.
-- susijęs iš [[objektai/zodynas/dvarionis.md#claim-t-187548|dvarionis]]: Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė savo dvarionis lietuvius ir rusus.
 - susijęs iš [[objektai/zodynas/dvarionys.md#claim-t-187554|dvarionys]]: Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo
-    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
-    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
-    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
-    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
-    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
-    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
-    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
-    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
-    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
-    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
-    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
-    piegos f-ja).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-02611

@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sukilimas
-  - ivykis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,69 +46,43 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-186630"></a>
+<a id="claim-t-199220"></a>
 - t-001
-  global_id: t-186630
+  global_id: t-199220
   teiginys: "Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką."
   pagrindžia:
-    - c-169905
+    - c-181723
 
-<a id="claim-t-186631"></a>
+<a id="claim-t-199221"></a>
 - t-002
-  global_id: t-186631
+  global_id: t-199221
   teiginys: "Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės."
   pagrindžia:
-    - c-169905
+    - c-181723
 
-<a id="claim-t-186632"></a>
+<a id="claim-t-199222"></a>
 - t-003
-  global_id: t-186632
+  global_id: t-199222
   teiginys: "Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu."
   pagrindžia:
-    - c-169905
-## Reikšmingi paminėjimai
+    - c-181723
 
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir Smolensko vyskupas Semionas2 , ir kunigaikš­
-    čiai, ir bajorai, ir miestiečiai, ir prastieji žmonės prisie­
-    kė Andriui laikysią jį pas save Smolensko vaivada,
-    kaip pridera. Po Velykų, Šventosios savaitės trečiadie­
-    nį 3 , Smolensko prastieji žmonės — kalviai, odminiai,
-    batsiuviai, mėsininkai, katiliai — sumanė Andrių varu
-    iš miesto išvaryti, o priesaiką paminti, ir apsiginklavo
-    ietimis bei strėlėmis, ir dalgiais, ir kirviais, ir ėmė
-    skambinti varpu.
-    Andrius ėmė tartis su Smolensko bajorais, ir bajo­
-    rai jam tarė: „Liepk savo dvariškiams ginkluotis, o
-    mes — su tavimi; argi geriau pasiduoti į jų rankas?"
-    Ir pasileido prieš juos raiti su ietimis, ir susikirto mies­
-    te prie švento Boriso ir Glebo cerkvės4 , ir daugelį
-    prastųjų žmonių ietys mirtinai persmeigė, o kiti, su­
-    žeisti, liko gyvi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-    - t-002
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
-- id: c-169905
+- id: c-181723
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 127."
   citata_originali: |
-    Ir Smolensko vyskupas Semionas2 , ir kunigaikš­
+    Ir Smolensko vyskupas Semionas2, ir kunigaikš­
     čiai, ir bajorai, ir miestiečiai, ir prastieji žmonės prisie­
     kė Andriui laikysią jį pas save Smolensko vaivada,
     kaip pridera. Po Velykų, Šventosios savaitės trečiadie­
-    nį 3 , Smolensko prastieji žmonės — kalviai, odminiai,
+    nį 3, Smolensko prastieji žmonės — kalviai, odminiai,
     batsiuviai, mėsininkai, katiliai — sumanė Andrių varu
     iš miesto išvaryti, o priesaiką paminti, ir apsiginklavo
     ietimis bei strėlėmis, ir dalgiais, ir kirviais, ir ėmė
@@ -118,15 +91,15 @@ Nenurodyta
     rai jam tarė: „Liepk savo dvariškiams ginkluotis, o
     mes — su tavimi; argi geriau pasiduoti į jų rankas?"
     Ir pasileido prieš juos raiti su ietimis, ir susikirto mies­
-    te prie švento Boriso ir Glebo cerkvės4 , ir daugelį
+    te prie švento Boriso ir Glebo cerkvės4, ir daugelį
     prastųjų žmonių ietys mirtinai persmeigė, o kiti, su­
     žeisti, liko gyvi.
-  citata_rodoma: "Ir Smolensko vyskupas Semionas2 , ir kunigaikš­\nčiai, ir bajorai, ir miestiečiai, ir prastieji žmonės prisie­\nkė Andriui laikysią jį pas save Smolensko vaivada,\nkaip pridera. Po Velykų, Šventosios savaitės trečiadie­\nnį 3 , Smolensko prastieji žmonės — kalviai, odminiai,\nbatsiuviai, mėsininkai, katiliai — sumanė Andrių varu\niš miesto išvaryti, o priesaiką paminti, ir apsiginklavo\nietimis bei strėlėmis, ir dalgiais, ir kirviais, ir ėmė\nskambinti varpu.\nAndrius ėmė tartis su Smolensko bajorais, ir bajo­\nrai jam tarė: „Liepk savo dvariškiams ginkluotis, o\nmes — su tavimi; argi geriau pasiduoti į jų rankas?\"\nIr pasileido prieš juos raiti su ietimis, ir susikirto mies­\nte prie švento Boriso ir Glebo cerkvės4 , ir daugelį\nprastųjų žmonių ietys mirtinai persmeigė, o kiti, su­\nžeisti, liko gyvi."
+  citata_rodoma: "Ir Smolensko vyskupas Semionas2 , ir kunigaikš­\nčiai, ir bajorai, ir miestiečiai, ir prastieji žmonės prisie­\nkė Andriui laikysią jį pas save Smolensko vaivada, \nkaip pridera. Po Velykų, Šventosios savaitės trečiadie­\nnį 3 , Smolensko prastieji žmonės — kalviai, odminiai, \nbatsiuviai, mėsininkai, katiliai — sumanė Andrių varu \niš miesto išvaryti, o priesaiką paminti, ir apsiginklavo \nietimis bei strėlėmis, ir dalgiais, ir kirviais, ir ėmė \nskambinti varpu.\nAndrius ėmė tartis su Smolensko bajorais, ir bajo­\nrai jam tarė: „Liepk savo dvariškiams ginkluotis, o \nmes — su tavimi; argi geriau pasiduoti į jų rankas?\" \nIr pasileido prieš juos raiti su ietimis, ir susikirto mies­\nte prie švento Boriso ir Glebo cerkvės4 , ir daugelį \nprastųjų žmonių ietys mirtinai persmeigė, o kiti, su­\nžeisti, liko gyvi."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186630
-    - t-186632
-    - t-186631
+    - t-199220
+    - t-199221
+    - t-199222

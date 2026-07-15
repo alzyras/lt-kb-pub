@@ -34,8 +34,8 @@ Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos i
   teiginys: "Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o naktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą."
   pagrindžia:
     - c-177226
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o naktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -58,14 +58,18 @@ Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos i
 - id: c-177226
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 292"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 292."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    24 Šiaurės tautos senovėje turėjo išminčių, kurių užsiėmimas bu­
-    vo stebėti dangaus kūnų judėjimą. Islandų saga, pavadinta Liosvet-
-    ninga arba. Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie
-    vieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o
-    naktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą.
+    Tie žyniai buvo išskirtinai dievo Atrimpo arba
+    Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo
+    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
+    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
+    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
+    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-
+    knochas po ilgo nereikšmingo svarstymo šia tema pataiko į
+    ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
+    kai, gyvenę bendruomenėje su tam tikromis teisėmis.
+  citata_rodoma: "24 Šiaurės tautos senovėje turėjo išminčių, kurių užsiėmimas bu­\nvo stebėti dangaus kūnų judėjimą. Islandų saga, pavadinta Liosvet-\nninga arba. Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie\nvieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o\nnaktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

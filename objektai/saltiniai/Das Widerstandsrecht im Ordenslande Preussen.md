@@ -42,23 +42,6 @@ Weise : Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Eu
   teiginys: "E. Weise 1955 m. paskelbė veikalą „Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Europa“."
   pagrindžia:
     - c-94046
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'E. Weise 1955 m. paskelbė veikalą „Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Europa“.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jh.,_** **Leiden 1955 ;** **_Die deutsche Ostgrenze
-    im 1937,_** **Köln-Graz 1967.**
-    (^167) **E. Weise :** **_Das Widerstandsrecht im Ordenslande Preussen und das
-    mittelalterliche Europa_** **(1955); jis išleido StVW.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

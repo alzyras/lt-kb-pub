@@ -64,30 +64,6 @@ Nenurodyta
   teiginys: "Žinia apie LPS iniciatyvinę grupę greitai pasklido po visą Lietuvą, nes grupę sudarė žinomi inteligentai."
   pagrindžia:
     - c-166650
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių visuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia apie LPS iniciatyvinę grupę žaibiškai pasklido po.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kadangi iniciatyvinę
-    grupę sudarė visoje šalyje žinomi in-
-    teligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių
-    visuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia
-    apie LPS iniciatyvinę grupę žaibiškai pasklido po visą Lietuvą. Birželio 10
-    dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje. Pirmieji
-    tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab. Katedros)
-    aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovybė per
-    šį mitingą paskelbė reikalavimus legalizuoti tautinius simbolius: trispalvę
-    ir „Tautišką giesmę“) – apie 100 tūkst. žmonių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -111,5 +87,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183262
     - t-20249
+    - t-183262

@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Nuorašas šiame leidinyje reiškia rankraštinę teksto kopiją, kuria plito Lietuvos metraštinė literatūra. Terminas vartojamas ir tekstų sklaidai, ir konkrečių rankraščių tekstologiniams santykiams bei kilmei nusakyti.
+Plačiau buvo žinomi bent 222 šių tekstų nuorašai. Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai tekstai plito rankraštiniais nuorašais. LDK metraštinės literatūros sąvadai savo laiku nebuvo išspausdinti ir plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222.
 
 ## Žodis ir formos
 
@@ -55,38 +55,31 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-186920"></a>
-- t-001
-  global_id: t-186920
-  teiginys: "Rastasis Bychovco kronikos rankraštis apibūdinamas kaip vėlesnis nuorašas iš blogai išlikusios kopijos."
-  pagrindžia:
-    - c-170098
-
 <a id="claim-t-186921"></a>
-- t-002
+- t-001
   global_id: t-186921
-  teiginys: "Plačiau buvo žinomi bent 222 šių tekstų nuorašai."
+  teiginys: 'Plačiau buvo žinomi bent 222 šių tekstų nuorašai.'
   pagrindžia:
     - c-170097
 
 <a id="claim-t-186922"></a>
-- t-003
+- t-002
   global_id: t-186922
-  teiginys: "Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai tekstai plito rankraštiniais nuorašais."
+  teiginys: 'Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai tekstai plito rankraštiniais nuorašais.'
   pagrindžia:
     - c-170097
 
 <a id="claim-t-187524"></a>
-- t-004
+- t-003
   global_id: t-187524
-  teiginys: "LDK metraštinės literatūros sąvadai savo laiku nebuvo išspausdinti ir plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222."
+  teiginys: 'LDK metraštinės literatūros sąvadai savo laiku nebuvo išspausdinti ir plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222.'
   pagrindžia:
     - c-170097
 
 <a id="claim-t-193884"></a>
-- t-005
+- t-004
   global_id: t-193884
-  teiginys: "Nė vienas iš jų nebuvo savo laiku išspausdintas, o plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222 ."
+  teiginys: 'LDK metraštinės literatūros sąvadai savo laiku nebuvo išspausdinti, o plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222.'
   pagrindžia:
     - c-170097
 - susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87502|Fridrichas fon Vildenbergas]]: 1324 m. Mevėje magistras Fridrichas fon Vildenbergas liepė parengti mažesniųjų brolių laiško nuorašą.
@@ -99,7 +92,6 @@ Nenurodyta
 - susijęs iš Roneburgo pilies bažnyčios Dusburgiečio kronikos nuorašas: Petro iš Dusburgo kronikos nuorašas buvo Livonijoje, Roneburgo pilies bažnyčioje, kur jį XVI a. antroje pusėje rado Jonas Chodkevičius.
 - susijęs iš Torunės magistrato bibliotekos Dusburgiečio kronikos nuorašas: Torunės magistrato bibliotekos XVII a. Dusburgiečio kronikos nuorašas padarytas iš Karaliaučiaus bibliotekos teksto.
 - susijęs iš Torunė: XVII a. Torunės magistrato bibliotekos nuorašas buvo padarytas iš Karaliaučiaus bibliotekos teksto.
-- susijęs iš Vilnius: Popiežiui buvo įteiktas 1323 m. Vilniuje sudarytos sutarties nuorašas, išverstas iš vokiečių į lotynų kalbą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176371|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino misija popiežiui žodžiu pranešė apie jo ryžtą pereiti į naują tikėjimą ir prašė siųsti tikėjimo mokytojų.
 - susijęs iš [[objektai/asmenys/Gregoravičius.md#claim-t-190096|Gregoravičius]]: Narbuto cituojamame kūrinio pavadinime 1749 m. birželio 8 d. Vilniaus gaisras kildinamas iš pono Gregoravičiaus dvarelio Subačiaus priemiestyje.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89835|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Leidėjai jį priskyrė Hermanui iš Zalcos111.
@@ -122,62 +114,11 @@ Nenurodyta
 - susijęs iš Pelplinas: 1324 m. Mevėje parengiant Mažesniųjų brolių laiško nuorašą dalyvavo Pelplino abatas Jordanas.
 - susijęs iš Roneburgas: Petro iš Dusburgo kronikos nuorašas buvo Livonijoje, Roneburgo pilies bažnyčioje.
 - susijęs iš Sankt Peterburgas: 1843 m. Teodoras Narbutas Peterburgo leidėjams siūlė rusiškąjį „Lietuvių mitologijos“ variantą.
-- susijęs iš Vilnius: XVI a. antrojoje pusėje Jonas Chodkevičius Petro Dusburgiečio kroniką perdavė Vilniaus vaitui Augustinui Rotundui.
 - susijęs iš Vingrių šaltiniai: Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš [[objektai/zodynas/Rygos miesto teisė.md#claim-t-86640|Rygos miesto teisė]]: Gedimino laiške nurodyta, kad visiems atvykėliams galiojo Rygos miesto teisė, nebent jiems būtų nustatyta geresnė teisė.
 - susijęs iš [[objektai/zodynas/dešimtinė.md#claim-t-173013|dešimtinė]]: Po dešimties metų atleidimo nuo mokesčių atvykę žemdirbiai turėjo mokėti pagal žemės rūšį nustatomą dešimtinę.
 - susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192036|Herbo suteikimas Ostapui Kropotkovui]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
 - susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192037|Herbo suteikimas Ostapui Kropotkovui]]: 1354 m. rugpjūčio 7 d. Vilniuje Ostapui Kropotkovui buvo duotas herbas kartu su Podbužo dvaru Voluinėje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    ВУСНОѴСО KRONIKA IR JOS KILMĖ
-    Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje
-    Kunigaikštystėje kilusios metraštinės literatūros pa­
-    minklai: Trumpasis sąvadas, Platesnysis sąvadas ir
-    Bychovco kronika
-    Šie sąvadai, taip pat įtrauktieji į juos kūriniai yra
-    anoniminiai: mažai žinomi ar visai nežinomi jų auto­
-    riai, tikslus parašymo laikas ir vieta. Nė vienas iš jų
-    nebuvo savo laiku išspausdintas, o plito rankraštiniais
-    nuorašais, kurių plačiau žinoma bent 222 . Daugumas
-    tų nuorašų ir susijusių su jais atskirų fragmentų yra
-    paskelbti Rusijos Archeografinės Komisijos leidinyje,
-    pavadintame „Pilnuoju rusų metraščių rinkiniu" 3 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-    - t-004
-    - t-005
-
-- c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Rankraščio pradžioje (1 . 1 —8) teks­
-    to paraštėse būta tos pačios rašysenos trumpų pastabų
-    apie turinį lenkų kalba, bet ar jų jau būta toje kopi­
-    joje, iš kurios transkribuotas rastasis lankraštis, ar jos
-    paties transkribuotojo prirašytos — neišaiškinta.
-    Taigi rastasis Bychovco kronikos rankraštis nebuvo
-    paties autoriaus rašytas tekstas, ir net ne vienalaikė
-    kopija, nurašyta dar XVI a., o vėlesnis nuorašas iš blo­
-    gai išlikusios kopijos; tekstas be pradžios ir pabaigos,
-    su daugeliu spragų ir iškraipymų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-170097
@@ -204,30 +145,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186922
-    - t-186921
-    - t-187524
-    - t-193884
-
-- id: c-170098
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Rankraščio pradžioje (1 . 1 —8) teks­
-    to paraštėse būta tos pačios rašysenos trumpų pastabų
-    apie turinį lenkų kalba, bet ar jų jau būta toje kopi­
-    joje, iš kurios transkribuotas rastasis lankraštis, ar jos
-    paties transkribuotojo prirašytos — neišaiškinta.
-    Taigi rastasis Bychovco kronikos rankraštis nebuvo
-    paties autoriaus rašytas tekstas, ir net ne vienalaikė
-    kopija, nurašyta dar XVI a., o vėlesnis nuorašas iš blo­
-    gai išlikusios kopijos; tekstas be pradžios ir pabaigos,
-    su daugeliu spragų ir iškraipymų.
-  citata_rodoma: "Taigi rastasis Bychovco kronikos rankraštis nebuvo \npaties autoriaus rašytas tekstas, ir net ne vienalaikė \nkopija, nurašyta dar XVI a., o vėlesnis nuorašas iš blo­\ngai išlikusios kopijos; tekstas be pradžios ir pabaigos, \nsu daugeliu spragų ir iškraipymų."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186920
+    - t-001
+    - t-002
+    - t-004
+    - t-005

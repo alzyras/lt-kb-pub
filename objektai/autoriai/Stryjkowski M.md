@@ -47,8 +47,8 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
   teiginys: "M. Stryjkowskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ pirmasis tomas išleistas Varšuvoje 1846 m."
   pagrindžia:
     - c-65438
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Stryjkowskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ pirmasis tomas išleistas Varšuvoje 1846 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -82,11 +82,13 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
 - id: c-65438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
-    1846.
+    — ABS, 1976, 9, s.
+    71—79.
+    Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
+    происхождения балтов.
+  citata_rodoma: "Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,\n1846."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -97,11 +99,13 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
 - id: c-65439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
-      Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi.
+    — В., 1978.
+    Ванагас А. К вопросу о языковых ятвяжских реликтах в Литве. — ABS, 1976, 9, s.
+    71—79.
+    Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
+    происхождения балтов.
   citata_rodoma: "Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582."
   statusas: verified
   teiginio_tipas: faktas

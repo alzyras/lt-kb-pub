@@ -55,8 +55,8 @@ Nenurodyta
   teiginys: "Narbutas budinams priskiria paprotį naujame krašte pašventinti upę mitiniu Ross vardu, siejamu su Oskolo pavadinimu."
   pagrindžia:
     - c-175800
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas budinams priskiria paprotį naujame krašte pašventinti upę mitiniu Ross vardu, siejamu su Oskolo pavadinimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -82,17 +82,18 @@ Nenurodyta
 - id: c-175800
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 73"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vadinasi, tokiu pat būdu ten pateko ir
-    masagetai4.
-    59
-    Naujame pasirinktame krašte budinai indų papročiu
-    pašventino upę mitiniu Ross vardu, kurį randame šian­
-    dienio Oskolo pavadinime. Tai yra šiuolaikinis slavų žo­
-    dis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­
-    1 Moralius.
+    Ne­
+    storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­
+    vės, laikė ją apgulę visą vasarą, bet, negalėdami jos
+    įveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-
+    ku2. Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
+    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
+    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
+    toro žodžius priskiria poloviečių veiksmams dešiniojoje
+    Dnepro pakrantėje.
+  citata_rodoma: "Vadinasi, tokiu pat būdu ten pateko ir\nmasagetai4.\n59\nNaujame pasirinktame krašte budinai indų papročiu\npašventino upę mitiniu Ross vardu, kurį randame šian­\ndienio Oskolo pavadinime. Tai yra šiuolaikinis slavų žo­\ndis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­\n1 Moralius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

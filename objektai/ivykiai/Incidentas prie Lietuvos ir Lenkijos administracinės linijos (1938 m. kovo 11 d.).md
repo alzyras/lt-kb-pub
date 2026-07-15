@@ -58,24 +58,6 @@ Nenurodyta
   teiginys: "1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį."
   pagrindžia:
     - c-22943
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef
-    Beck) nieko gero nedavė: 1936 m. sausį J. Bekas savo kalboje išplūdo Lie-
-    tuvą, o kovo mėn. Kaune atsakomąja kalba A. Smetona užvėrė duris kom-
-    promisui. Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
-    dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
-    perėjusį liniją lenkų kareivį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

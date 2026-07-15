@@ -106,7 +106,6 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - susijęs iš [[objektai/zodynas/balista balistininkas arbaletas.md#claim-t-58846|balista balistininkas arbaletas]]: Henrikas Tupadelis buvo įgudęs balistininkas, raginęs apsuptuosius gintis ir gesinęs piliai padegti skirtus degalus.
 - susijęs iš [[objektai/zodynas/kryžiaus karas.md#claim-t-184356|kryžiaus karas]]: Popiežiaus Aleksandro IV bulėmis buvo įsakyta intensyviau skelbti kryžiaus karus prieš pagonis.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Pirmieji Ordino broliai vaizduojami kaip pasirengę ginti tikėjimą kare su netikėliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -131,15 +130,16 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - id: c-69306
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 16"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
-    įvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,
-    atsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius
-    darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,
-    kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių
-    „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.
+    Toliau
+    Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne
+    Jėzaus Kristaus“, todėl šaukiasi į Kristų, prašydamas suteikti jiems dvasios įžvalgumo,
+    kad būtų „suniekinti visi, kurie tavo tarnams daro bloga“. Taigi autorius siekia išaukštinti
+    jau užmirštus Ordine pirminius idealus.
+    Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems
+    broliams. Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė,
+    stebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).
   citata_rodoma: "Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų\nįvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,\natsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius\ndarbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,\nkiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais."
   statusas: verified
   teiginio_tipas: faktas

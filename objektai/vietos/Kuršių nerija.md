@@ -7,13 +7,13 @@ datos:
   - '1283 m.'
 date_start: '1283'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - regionas
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,22 +50,6 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
     - c-59212
 - susijęs iš [[objektai/autoriai/Mažiulis V.md#claim-t-60847|Mažiulis V]]: V. Mažiulis teigė, kad lietuvių kalboje Kuršių nerija vadinta Kopomis, Kalnais, Pajūriais ir Randavomis.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ordino lotyniškuose dokumentuose vardu Neria iš pradžių vadinta tik Aismarių nerija.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    509 D.— per Neriam Curoniensem, iri dicta Neria, Jer.— dî kûrîsche Nerge, kûrschin
-    Nerge. Ordino lotyniškuose dokumentuose nerija (Neria) iš pradžių vadinta tik Aismarių
-    nerija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: '1283 m. žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė du valsčius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -92,10 +76,9 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 - id: c-59212
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 169"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    509 D.— per Neriam Curoniensem, iri dicta Neria, Jer.— dî kûrîsche Nerge, kûrschin
+    509  D.— per Neriam Curoniensem, iri dicta Neria, Jer.— dî kûrîsche Nerge, kûrschin
     Nerge. Ordino lotyniškuose dokumentuose nerija (Neria) iš pradžių vadinta tik Aismarių
     nerija.
   statusas: verified
@@ -108,18 +91,18 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 - id: c-59213
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 169"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    215 (210). Apie vienos Sembos dalies nusiaubimą
-
-      1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509
-    įsibrovė  į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent:
-    Abendą ir Pabečius510; nužudę 150 krikščionių, jie, niekur nesutikę pasipriešinimo, sveiki
-    ir gyvi sugrįžo atgal. Neabejojama, jog šitai įvyko dėl to, kad magistras ir broliai, iš
-    anksto žinodami, jog lietuviai susirengė  į žygį, kelias dienas jų laukė su kariuomene,
-    tačiau pabodus laukti, nes šie kelyje užtruko ilgiau nei paprastai, išsisklaidę sugrįžo
-    namo.
+    Juos išvydęs,
+    magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512. Sitai padaręs,
+    magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava,
+    ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog
+    jiems bus leista netrukdomiems iš čia išeiti su visa manta, pasižadėjus priimti Kristaus
+    tikėjimą. Tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti į Sembos žemę. Kai kitą
+    dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal, jie
+    sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
+    Vis dėlto brolis Liudvikas su savo palyda atžygiavo į Sembos žemę, kur visus krikštas
+    prikėlė naujam gyvenimui.
   citata_rodoma: "Apie vienos Sembos dalies nusiaubimą\n\n  1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509\nįsibrovė  į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent:\nAbendą ir Pabečius510; nužudę 150 krikščionių, jie, niekur nesutikę pasipriešinimo, sveiki\nir gyvi sugrįžo atgal."
   statusas: verified
   teiginio_tipas: faktas

@@ -55,23 +55,6 @@ Nenurodyta
   teiginys: "XVI a. pradžioje karalaitis Kazimieras jau buvo garbinamas Vilniaus apylinkėse."
   pagrindžia:
     - c-55223
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XVI a. pradžioje karalaitis Kazimieras jau buvo garbinamas Vilniaus apylinkėse.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos krikščionėjimo simboliu tapo šv.  Kazimiero (1458–1484),
-    Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos
-    klostymasis. Jau XVI a. pradžioje karalaitis Kazimieras garbintas Vilniaus
-    apylinkėse, o šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

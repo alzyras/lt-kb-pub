@@ -7,15 +7,15 @@ datos:
   - '1227 m.'
 date_start: '1227'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - dvasininkas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -62,8 +62,8 @@ Narbutas išnašoje Darsgaitį pateikia kaip senovės prūsų Pamedės provincij
   teiginys: "Narbutas Darsgaitį vadina senovės prūsų Pamedės provincijos kriviu, kuris 1227 m. atvyko į kryžiuočių kariuomenę tartis dėl taikos."
   pagrindžia:
     - c-170895
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Darsgaitį vadina senovės prūsų Pamedės provincijos kriviu, kuris 1227 m. atvyko į kryžiuočių kariuomenę tartis dėl taikos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -85,13 +85,24 @@ Narbutas išnašoje Darsgaitį pateikia kaip senovės prūsų Pamedės provincij
 - id: c-170895
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 290"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Seno­
-    vės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227
-    metais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­
-    menę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*.
+    Prūsijos kronikininkai išvardija tokias vaidilų pareigas :
+    atnašauti dievams aukas, mokyti liaudį tikėjimo ir priklausan­
+    čių jam dalykų; šviesti žmones, mokant, kaip jie pagal dievų
+    įsakymus privalo elgtis laikinajame gyvenime; melstis, idant
+    permaldautų dievus, o tuo tikslu per naktinius pasirodymus
+    maloniai aiškinti žyniams savo valią; laiminti žmones ir linkėti
+    jiems visokeriopos gerovės; pagaliau abejotinais atvejais arba
+    jeigu nutikdavo kokia nelaimė, padėti nelaimingajam ir nura­
+    minti jį apreiškus dievų valią. Svarbiausios jų funkcijos buvo
+    tokios: privalėjo uoliai stebėti saulės ir mėnulio judėjimą, idant
+    galėtų prideramai suskirstyti laiką ir pažymėti švenčių dienas,
+    suskirstyti metų laikus pagal žemės darbus ir iš anksto praneš-
+    ti juos ateinant ; šaukti ir suburti į krūvą žmones, jeigu jam
+    reikėdavo paskelbti kokius nors dalykus dievų vardu. Vaidilos
+    dažnai sukeldavo visus žmones į karą su dievų priešu; tuo klau-
+    simu, jų žodžiais tariant, jie žinodavę apreikštą dievų valią.
   citata_rodoma: "Senovės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227\nmetais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­\nmenę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*."
   statusas: verified
   teiginio_tipas: faktas

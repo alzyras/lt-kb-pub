@@ -58,36 +58,6 @@ Nenurodyta
   teiginys: "Žmones į Salas telkė bažnyčios varpų skambėjimas."
   pagrindžia:
     - c-12332
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
-    menė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:
-
-    ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
-    lius Lietuvius!“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Štai vieną dieną bažnyčioje visais varpais skambina. Pulkai žmonių eina į Salas. Nuėjo
-    ir mūsų tėveliai ir visa šeimyna; tiktai mes vaikai su bobute namie belikome.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

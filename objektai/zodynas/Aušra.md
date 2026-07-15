@@ -44,7 +44,6 @@ Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų 
 - susijęs iš [[objektai/paprociai/Mišių ir aukų už pamestus ar pavogtus daiktus praktika prie Švento Antano Kretingoje.md#claim-t-195389|Mišių ir aukų už pamestus ar pavogtus daiktus praktika prie Švento Antano Kretingoje]]: Elgeta rinko pinigus mišioms dėl pamestų ar pavogtų turtų atradimo ir Šventą Antaną vadino pamestų daiktų patronu.
 - susijęs iš Čestakavas: Čestakavas minimas kaip viena iš šventų vietų, iš kurių parnešamas palaiminimas.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų vartų atidarymą ir saulės fakelo uždegimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -69,16 +68,18 @@ Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų 
 - id: c-172167
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 138"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 138."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Aušra (Aussra)
-    Ryto deivė.
-    Lasickis teigė, kad buvo tokio vardo deivė. Kunigas Sirvy­
-    das vadina ją Aurora. Jos darbas -  kiekvieną rytą rožiniais pirš­
-    teliais atidaryti rytų vartus ir uždegti saulės fakelą. Jos ir mė­
-    nesio meilės nuotykius aprašysime skyriuje apie dangaus kū­
-    nų dievinimą.
+    Lietuvių senąja tarme Meta (metais) vadinasi kiekvienas
+    laiko tarpas.
+    Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
+    ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
+    namų Kronie. Už Tilžės, žemiau Vingio (Winge) dvaro, prie
+    Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­
+    nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­
+    kalnis, vietinių vadinamas Kroniszkas - Pilnis, tai yra Kruonio
+    (Kronu) pilimi.
+  citata_rodoma: "Aušra (Aussra)\nRyto deivė.\nLasickis teigė, kad buvo tokio vardo deivė. Kunigas Sirvy­\ndas vadina ją Aurora. Jos darbas -  kiekvieną rytą rožiniais pirš­\nteliais atidaryti rytų vartus ir uždegti saulės fakelą. Jos ir mė­\nnesio meilės nuotykius aprašysime skyriuje apie dangaus kū­\nnų dievinimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -8,6 +8,8 @@ atnaujinta: ''
 tags:
   - religinis-įvykis
   - ivykis
+  - kunigaikštis
+  - ordinas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,36 +54,22 @@ Nenurodyta
   pagrindžia:
     - c-63847
     - c-63848
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Imperatorius Fridrichas II perdavė Hermanui didelę Šventojo Kryžiaus relikvijos dalį, o Hermanas ją išsiuntė į Elbingo pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dievas jam buvo suteikęs tokių malonių,
-    kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
-    Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei
-    didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
-    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
-    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
-    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
-    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
-    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196980"></a>
+- t-002
+  global_id: t-196980
+  teiginys: "Kai venedai buvo smarkiai sutramdyti po maišto, sukelto prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo ruožtu į Prūsijos kraštą, į."
   pagrindžia:
-    - t-001
+    - c-63847
 
-- c-002
-  santrauka: 'Imperatorius Fridrichas II perdavė Hermanui didelę Šventojo Kryžiaus relikvijos dalį, o Hermanas ją išsiuntė į Elbingo pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-63847
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei
-    didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
-    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
+    Kai venedai buvo smarkiai sutramdyti  po maišto, sukelto
     prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
     šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
     ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
@@ -89,32 +77,9 @@ Nenurodyta
     ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
     patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
     tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
-    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Citatos
-
-- id: c-63847
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
-  citata_originali: |
-    Dievas jam buvo suteikęs tokių malonių,
-    kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
-    Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei
-    didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
-    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
-    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
-    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
-    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
-    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių.
+    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
+    jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
+    kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
   citata_rodoma: "Dievas jam buvo suteikęs tokių malonių,\nkad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.\nJį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei\ndidžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo\nsavo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti po maišto, sukelto\nprieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį\nšventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo\nruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl\ndažnų stebuklų, kuriuos viešpats padaro per tą kryžių."
   statusas: verified
   teiginio_tipas: faktas
@@ -122,16 +87,16 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62959
+    - t-196980
 
 - id: c-63848
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei
+    Jį didžiai vertino ir popiežius, ir imperatorius, nekalbant apie kitus kunigaikščius bei
     didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
-    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
+    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti  po maišto, sukelto
     prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
     šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
     ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl

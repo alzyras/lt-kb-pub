@@ -64,38 +64,6 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 - susijęs iš [[objektai/daiktai/Ūkės lazda.md#claim-t-55773|Ūkės lazda]]: Kūrėjų kūrėjas paėmė ūkės lazdą ir vienas pats valdė tautą kaip anksčiau.
 - susijęs iš [[objektai/paprociai/Vyresnybės įsakymų skelbimas krivūle.md#claim-t-07817|Vyresnybės įsakymų skelbimas krivūle]]: Kūrėjų kūrėjas per žygovus skelbė įsakymus svietui lazda, vadinama krivūle.
 - susijęs iš [[objektai/paprociai/Žynio gyvenimas šventoje girioje ir siuntinių priėmimas po lapine.md#claim-t-08478|Žynio gyvenimas šventoje girioje ir siuntinių priėmimas po lapine]]: Kūrėjų kūrėjas gyveno ypatingai, prasišalinęs nuo svieto šventoje girioj, kad rodytų savo ryšį su dievu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Visų vyriausiu valdymieru tų žynių, kaip sakiau, buvo kūrėjų kūrėjas, kurs vienas pats visus valdė ir
-        visiems įsakymus davė, kaipogi jis su dievais kalbėjo ir, nuo jų pamokslą gavęs, svietui jį skelbė per
-        savo žynius arba tarnus; nesgi jo klausė ne vien visi lietuviai, beje: kalnėnai, žemaičiai, žemgaliai,
-        latuviai, arba kuržemiai, bet dar lybiešiai^876 ir krieviai, kurie nuo jo dievų valios jautojos ir
-        teiravos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pats tiktai visų vyriausiasis kunigaikštis kūrėjų kūrėjas tegalėjęs tenai įeiti, kurs davęs atsakus vardu Perūno klausiantiems.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-09696
@@ -127,5 +95,5 @@ Vartojamos formos: `kūrėjų kūrėjo`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70012
     - t-70011
+    - t-70012

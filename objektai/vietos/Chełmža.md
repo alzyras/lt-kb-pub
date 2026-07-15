@@ -14,6 +14,9 @@ datos:
   - '1306 m.'
 date_start: '1222'
 date_end: '1306'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,9 +24,6 @@ tags:
   - miestas
   - pilis
   - vieta
-amziai:
-  - 'XIII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -79,8 +79,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   teiginys: "Skomantui priartėjus prie Chełmžos, lenkų karys Ninerikas įsigavo į miestą ir pažadėjo jį išduoti Skomantui."
   pagrindžia:
     - c-59043
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Skomantui priartėjus prie Chełmžos, lenkų karys Ninerikas įsigavo į miestą ir pažadėjo jį išduoti Skomantui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -118,26 +118,6 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'Chełmža 1222 m. dokumente minima Lozos vardu, o 1251 m. joje įkurta Kulmo vyskupijos katedra ir miestas Culmense.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Gyvenvietė minima 1222 m. dokumente
-    Lozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos
-    kaimo (villa) esąs ežeras: Loza cum stagno (ten pat. Nr. 182, p. 133). 1248 m. vietovė
-    jau vadinama Culmense (UBC, 1, 1, Nr. 18, p. 7), 1251 m. čia įkuriama Kulmo vyskupijos
-    katedra ir miestas Culmense (PUB, 1, 1, Nr. 250, p. 180; UBC, 1, 1, Nr. 29, p. 16—18);
-    vėlesniuose dokumentuose figūruoja Culmense (1276 m., PUB, 1, 2, Nr. 340, p. 229),
-    Culmense (ten pat, Nr. 348, p. 234), Colmenzehe (1278 m., ten pat, Nr. 366, p. 250),
-    Culmense (1306 m., ten pat.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-004
   santrauka: 'Liudvikas iš Šipeno 1299 m. mirė ir buvo palaidotas Chełmžos katedros bažnyčioje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -146,9 +126,6 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 
        Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
     metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
-
-
-
 
       273 (266).
   citata_rodoma: ''
@@ -183,17 +160,21 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - id: c-59043
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
-                                būtent: Eimsutis ir dar viena
-
-      Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
-    siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas
-    karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
-    Kai, matant priešams, miestiečiai kopė į sienas, užkopė ir jis, tas išdavikas, ir vieną bei
-    antrą kartą papūtė savo ragą, duodamas sutartą ženklą.
+    Tuos, kurie, patikėję šiais žodžiais,
+    išeidavo, jis su saviškiais užpuldavo ir paimdavo į nelaisvę arba nužudydavo.
+    168 (163). Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
+    apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
+    Kai antrosios atskalūnybės  metais stiprėjo krikščionių persekiojimas, kurie ne kurie
+    Pagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,
+    paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
+    su broliais.
+    169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą
+    Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,
+    antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė
+    visus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė į nelaisvę.
+  citata_rodoma: "Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,\n                            būtent: Eimsutis ir dar viena\n\n  Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas\nsiaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas\nkarys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.\nKai, matant priešams, miestiečiai kopė į sienas, užkopė ir jis, tas išdavikas, ir vieną bei\nantrą kartą papūtė savo ragą, duodamas sutartą ženklą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -204,14 +185,16 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - id: c-59044
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 141"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 141."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    153 (148). Apie Kulmenzės miesto apgulą
-
-      Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433. Susirūpinęs dėl šio
-    įvykio vyskupas susišaukė kilminguosius bei vasalus, įpareigodamas juos už nuodėmes
-    išeiti [iš miesto] ir tiksliai sužinoti, kiek priešo kariuomenėje karių ir kokio ji stiprumo.
+    Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais
+    neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais,
+    du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau tas juos
+    nuvedė į priešo žemę. Pastebėję šią klastą, nužudė jį; paskubomis traukdamiesi, buvo
+    pagauti ir surišti penkių jiems pavymui pasileidusių prūsų raitelių, kurių dviem patikėjo
+    juodu saugoti. Trys kiti prūsai nusivijo pabėgusį brolio arklį. Šiedu sargai ištrauktu
+    kalaviju norėjo nukirsti galvą surištam Martynui, bet jis juos įkalbėjo prieš tai leisti jam
+    nusivilkti drabužius, nes, girdi, jie susikruvins.
   citata_rodoma: "Apie Kulmenzės miesto apgulą\n\n  Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433. Susirūpinęs dėl šio\nįvykio vyskupas susišaukė kilminguosius bei vasalus, įpareigodamas juos už nuodėmes\nišeiti [iš miesto] ir tiksliai sužinoti, kiek priešo kariuomenėje karių ir kokio ji stiprumo."
   statusas: verified
   teiginio_tipas: faktas
@@ -223,8 +206,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - id: c-59045
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 57"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Gyvenvietė minima 1222 m. dokumente
     Lozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos
@@ -232,7 +214,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
     jau vadinama Culmense (UBC, 1, 1, Nr. 18, p. 7), 1251 m. čia įkuriama Kulmo vyskupijos
     katedra ir miestas Culmense (PUB, 1, 1, Nr. 250, p. 180; UBC, 1, 1, Nr. 29, p. 16—18);
     vėlesniuose dokumentuose figūruoja Culmense (1276 m., PUB, 1, 2, Nr. 340, p. 229),
-    Culmense (ten pat, Nr. 348, p. 234), Colmenzehe (1278 m., ten pat, Nr. 366, p. 250),
+    Culmense  (ten pat, Nr. 348, p. 234), Colmenzehe (1278 m., ten pat, Nr. 366, p. 250),
     Culmense (1306 m., ten pat.
   citata_rodoma: "Gyvenvietė minima 1222 m. dokumente\nLozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos\nkaimo (villa) esąs ežeras: Loza cum stagno (ten pat. Nr. 182, p. 133). 1248 m. vietovė\njau vadinama Culmense (UBC, 1, 1, Nr. 18, p. 7), 1251 m. čia įkuriama Kulmo vyskupijos\nkatedra ir miestas Culmense (PUB, 1, 1, Nr. 250, p. 180; UBC, 1, 1, Nr. 29, p. 16—18);\nvėlesniuose dokumentuose figūruoja Culmense (1276 m."
   statusas: verified
@@ -245,18 +227,15 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - id: c-59046
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 192"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    272 (265). Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
-
-       Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
-    metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
-
-
-
-
-      273 (266).
+    Kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai
+    nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge
+    turėjome keliauti ten, kur amžinos linksmybės“. Nors jis ir nesirgo jokia kita liga, o tik
+    ta, kurią esu paminėjęs, vis dėlto, pasiprašęs kunigo ir priėmęs bažnyčios sakramentus,
+    tą pačią dieną laimingai atidavė viešpačiui sielą.
+    279 (272). Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
+    Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus.
   citata_rodoma: "Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą\n\n   Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus\nmetus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.\n\n\n\n\n  273 (266)."
   statusas: verified
   teiginio_tipas: faktas
@@ -268,16 +247,14 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - id: c-59047
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 141"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 141."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    154 (149). Apie daugybės Kulmenzės miestiečių žūtį
-
-      Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri
-    vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke,
-    miestiečiai bėgdavo nuo pjūties darbų. Kai javai buvo visiškai pribrendę ir nebegalėjo
-    lauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,
-    manydami, kad svetima kariuomenė bus pasitraukusi.
+    157 (152). Dar apie Martyną iš Golino ir jo nuostabią kovą
+    Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino
+    leidosi pavymui su 17 kovos draugų. Grįždami iš Lenkijos, prūsai užklupo Martyno
+    sargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,
+    kiek čia jo bendrų ir kur jie. Sitai padarę, smarkiai juos užpuolė, Martynas bei jo draugai
+    narsiai gynėsi, todėl daug ir vienos, ir kitos šalies karių buvo sunkiai sužeista.
   citata_rodoma: "Apie daugybės Kulmenzės miestiečių žūtį\n\n  Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri\nvadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke,\nmiestiečiai bėgdavo nuo pjūties darbų. Kai javai buvo visiškai pribrendę ir nebegalėjo\nlauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,\nmanydami, kad svetima kariuomenė bus pasitraukusi."
   statusas: verified
   teiginio_tipas: faktas

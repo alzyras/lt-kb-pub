@@ -2,6 +2,7 @@
 tipas: autorius
 pavadinimas: 'Jordanes'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -36,26 +37,13 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   teiginys: "Jordanes 551 m. veikale „De origine actibusque Getharum“ Aesti minėjo kaip taikingą tautą, gyvenusią ilgame pajūrio ruože į rytus."
   pagrindžia:
     - c-32985
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Įdomu tai, kad aisčių vardas VI
-    amž. buvo žinomas. Padarydamas santrauką vėliau dingusios
-    Kassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine
-    actibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą
-    tautą («pacatum hominum genus omnino »), užėmusią labai ilgą
-    pajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­
-    nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
-    375 m.) buvęs savo valstybei pajungęs ir aisčius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197614"></a>
+- t-002
+  global_id: t-197614
+  teiginys: "Jordanes papildytas Jordano stebėjimais ir pavadintas „Apie gotų kilmę ir veiklą“ (De origine actuąue getarum liber / / Procopius Caesarensis."
   pagrindžia:
-    - t-001
+    - c-179263
 
 ## Citatos
 
@@ -79,3 +67,23 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30717
+
+- id: c-179263
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Svarbiausias jo veikalas — sutrum­
+    pintas neišlikusios romėno Kasiodoro 12 to­
+    mų „Gotų istorijos“ atpasakojimas. Jis papil­
+    dytas Jordano stebėjimais ir pavadintas „Apie
+    gotų kilmę ir veiklą“ (De origine actuąue ge-
+    tarum liber / / Procopius Caesarensis. De re-
+    bus Gothorum, Persarum ac Vandalorum libri
+    VII.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197614

@@ -35,53 +35,20 @@ Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Po
   teiginys: "Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Podolės, o pasiuntiniams įsakė kurstyti Vytautą pažadais."
   pagrindžia:
     - c-169673
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Podolės, o pasiuntiniams įsakė kurstyti Vytautą pažadais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Dėdama­
-    sis, jog jam be galo rūpi išsaugoti draugystę ir paša­
-    linti abipusį įtarumą, Zigman-
-    Im p era to riu s Z igm an-
-    tas per žygūnus nusiuntė Jo­
-    to  m ėg in a  s u p ju d y ti
-    gailai imperatoriškąjį raštą,
-    len k u s su lie tu v ia is
-    kuriuo, įsiteikdamas karaliui,
-    pripažino šiam, kaip Vengri­
-    jos karalius, teisę į Galičą ir dalį Podolės žemių. Tuo
-    tarpu žodiškai pasiuntiniams įsakė kurstyti Vytautą vi­
-    sokiausiais pažadais, su kuriais, kaip neabejotinai jų
-    padėtyje be galo žalingais, nesutiks lenkai, ir tuo būdu
-    skatinti nesantaiką. Po šiai dienai išliko raštiškas to
-    klastingumo įrodymas, karalystės archyve saugomas
-    dokumentas, patvirtintas paties Vytauto, Vilniaus vys­
-    kupo Mikalojaus ir vaivadų Alberto Manvydo bei Jo ­
-    no Nemyros parašais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169673
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 381"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 381."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Dėdama­
     sis, jog jam be galo rūpi išsaugoti draugystę ir paša­
     linti abipusį įtarumą, Zigman-
     Im p era to riu s Z igm an-
     tas per žygūnus nusiuntė Jo­
-    to  m ėg in a  s u p ju d y ti
+    to m ėg in a s u p ju d y ti
     gailai imperatoriškąjį raštą,
     len k u s su lie tu v ia is
     kuriuo, įsiteikdamas karaliui,

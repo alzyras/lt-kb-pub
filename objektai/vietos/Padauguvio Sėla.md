@@ -35,25 +35,6 @@ Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai
   teiginys: "Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje."
   pagrindžia:
     - c-33987
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Aukštaičių žemė siekėsi su sėliais ir žiemgaliais, toli įsiterpusiais
-    į Lietuvos plotą. Užėmę Padauguvio Sėlą (tarp Dauguvos intakų
-    Dysnos ir Egluonos), lietuviai nesustojo kairiajame Dauguvos kran­
-    te, bet, įkandin sekdami sėlius, persikėlė ir į dešinįjį Dauguvos
-    šoną — Latgalon, ir gyveno Daugpilio apylinkėje (K. Būga).
-    Šiandien į kelias pagrindines tarmes suskilęs lietuvių gyvena­
-    mas plotas, istorinių laikų angoje buvo vienalytiškas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

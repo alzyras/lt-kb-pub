@@ -50,90 +50,7 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
   teiginys: "AT gynėjas Arvydas Pocius 1991 m. rugpjūčio pučo metu buvo ginkluotas pistoletu-kulkosvaidžiu PPS."
   pagrindžia:
     - c-44293
-
-<a id="claim-t-40044"></a>
-- t-003
-  global_id: t-40044
-  teiginys: "AT gynėjas Arvydas Pocius 1991 m. rugpjūčio pučo metu buvo ginkluotas pistoletu-kulkosvaidžiu PPS."
-  pagrindžia:
     - c-44292
-
-<a id="claim-t-40042"></a>
-- t-004
-  global_id: t-40042
-  teiginys: "AT gynėjas Arvydas Pocius vėliau tapo generolu leitenantu ir Lietuvos kariuomenės vadu."
-  pagrindžia:
-    - c-167119
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 254, Butelio su padegamuoju skysčiu demonstracinė versija, VDKM, Artūro Užgalio nuotr.
-    p. 255, AT gynėjas A. Pocius 1991 m. rugpjūčio pučo metu, ginkluotas pistoletu-
-    kulkosvaidžiu PPS, KAM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ir rinktis nustatytoje vietoje.“
-
-    AT gynėjas A. Pocius 1991 m. rugpjūčio pučo
-    metu, ginkluotas pistoletu-kulkosvaidžiu PPS
-
-    iš VRM, Lietuvos banko
-
-    inkasatorių, parduotu-
-    vės „Medžioklė. Žūklė“
-    ir kitų šaltinių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais UŽDUOTIS AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu, Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ginklai
-    ir sprogmenys - gyventojų sunešti, gauti
-
-    Savadarbis
-    AT gynėjo
-    pistoletas
-
-    Parlamento gynėjas poste ant stogo, ginkluotas
-
-    medžiokliniu šautuvu. Ant Aukščiausiosios Tarybos
-    stogo pritvirtinti metaliniai strypai turėjo apsunkinti
-    šturmo grupių desantavimą sraigtasparniais
-
-    UŽDUOTIS
-
-    AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu,
-    Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.
-    |
-
-    „Visus ginkluotus vyrus surinko AT rūmų fojė, suskirstė penketu-
-    kais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
 
 ## Citatos
 
@@ -147,12 +64,10 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
     kulkosvaidžiu PPS, KAM.
   citata_rodoma: "p. 255, AT gynėjas A. Pocius 1991 m. rugpjūčio pučo metu, ginkluotas pistoletu-\nkulkosvaidžiu PPS, KAM."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-40044
-
 - id: c-44293
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -207,5 +122,4 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183731
     - t-40042

@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, turėjusią gerą susisiekimą su jūra apsiaustiesiems. 493 metų kovo 5 dieną gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
+Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, turėjusią gerą susisiekimą su jūra apsiaustiesiems. 493 metų kovo 5 dieną gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė. Ravena buvo erdvesnė ir viskuo geriau aprūpinta, turėjo gerą susisiekimą su jūra ir galėjo suteikti apsiaustiesiems nepalyginti palankesnes sąlygas.
 
 ## Teiginiai
 
@@ -42,6 +42,20 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
   teiginys: "493 metų kovo 5 dieną gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė."
   pagrindžia:
     - c-175601
+
+<a id="claim-t-197913"></a>
+- t-003
+  global_id: t-197913
+  teiginys: "Ravena buvo erdvesnė ir viskuo geriau aprūpinta, turėjo gerą susisiekimą su jūra ir galėjo suteikti apsiaustiesiems nepalyginti palankesnes sąlygas."
+  pagrindžia:
+    - c-175600
+
+<a id="claim-t-197914"></a>
+- t-004
+  global_id: t-197914
+  teiginys: "Netikėtai gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga na daug išžudė."
+  pagrindžia:
+    - c-179394
 - susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190946|Odoakras]]: Teodoro Narbuto pasakojime Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, bet 493 m. kovo 5 d. nužudė Odoakrą Ravenoje.
 - susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191037|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Narbutas rašo, kad 493 m. kovo 5 d. gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
 - susijęs iš Ravenos geografo veikalas: Teodoras Narbutas Ravenos geografo IX a. informaciją siejo su teiginiu, kad agatirai, agazirai ar angershirai buvę ta pati Amiano minima gentis.
@@ -51,25 +65,6 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
 - susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191037|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Narbutas rašo, kad 493 m. kovo 5 d. gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
 - susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190946|Odoakras]]: Teodoro Narbuto pasakojime Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, bet 493 m. kovo 5 d. nužudė Odoakrą Ravenoje.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, turėjusią gerą susisiekimą su jūra apsiaustiesiems.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau
-    pirmojo padėtis buvo geresnė negu antrojo Pavijoje. Ra-
-    vena buvo erdvesnė ir viskuo geriau aprūpinta, turėjo
-    gerą susisiekimą su jūra ir galėjo suteikti apsiaustiesiems
-    nepalyginti palankesnes sąlygas. Jėgų teikė viltis sulauk­
-    ti svetimšalių paramos, žadėtos imperatoriaus Zenono.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: '493 metų kovo 5 dieną gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -94,27 +89,28 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
 - id: c-175600
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 323"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau
-    pirmojo padėtis buvo geresnė negu antrojo Pavijoje. Ra-
+    Ra-
     vena buvo erdvesnė ir viskuo geriau aprūpinta, turėjo
     gerą susisiekimą su jūra ir galėjo suteikti apsiaustiesiems
     nepalyginti palankesnes sąlygas. Jėgų teikė viltis sulauk­
     ti svetimšalių paramos, žadėtos imperatoriaus Zenono.
+    Visos šios aplinkybės žadėjo kuo geriausias sąlygas su­
+    sitaikyti su apgulėjais, kurių visi kariniai žygiai ir bū­
+    dai buvo bevaisiai.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192830
+    - t-197913
 
 - id: c-175601
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 323"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Bet jis, trokšdamas vienvaldystės ir kupi­
     nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
@@ -122,10 +118,31 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
     mis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai
     gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
     na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
-    dieną.
+    dieną. Kai kurie istorikai, norėdami bent iš dalies suma­
+    žinti Teodoriko nusikaltimo dydį, stengiasi įterpti spė­
+    jimą, jog Odoakras kėsinęsis į jo gyvybę'.
+  citata_rodoma: "Bet jis, trokšdamas vienvaldystės ir kupi­\nnas juodo pavydo, nepasibjaurėjo netrukus po paliaubų\nsudarymo pažeisti svetingumo taisykles: jis savo ranko­\nmis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai\ngotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­\nna daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5\ndieną."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192831
+
+- id: c-179394
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Netikėtai
+    gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
+    na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
+    dieną. Kai kurie istorikai, norėdami bent iš dalies suma­
+    žinti Teodoriko nusikaltimo dydį, stengiasi įterpti spė­
+    jimą, jog Odoakras kėsinęsis į jo gyvybę'.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197914

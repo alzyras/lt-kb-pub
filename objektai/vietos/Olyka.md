@@ -37,27 +37,19 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
 ## Teiginiai
 
-<a id="claim-t-84380"></a>
+<a id="claim-t-84379"></a>
 - t-001
-  global_id: t-84380
-  teiginys: "Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų."
-  pagrindžia:
-    - c-80553
-
-<a id="claim-t-84380"></a>
-- t-002
-  global_id: t-84380
+  global_id: t-84379
   teiginys: "Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų."
   pagrindžia:
     - c-80553
 
 <a id="claim-t-84381"></a>
-- t-003
+- t-002
   global_id: t-84381
   teiginys: "Olyka Voluinėje kartu su Nesvyžiumi buvo vienos Radvilų šeimos šakos centras."
   pagrindžia:
     - c-80552
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186360|Mikalojus Radvila]]: Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103048|Jurgis Radvila (vyskupas, XVI a.)]]: 1582 m. dokumentą Jurgis Radvila pasirašė kaip Vilniaus vyskupas ir Olykos kunigaikštis.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103051|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.
 - susijęs iš [[objektai/asmenys/Vaitiekus II Radvila.md#claim-t-87873|Vaitiekus II Radvila]]: Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d., vyskupo pareigas ėjęs 11 metų.
@@ -71,7 +63,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113882|Mikalojus Radvila Juodasis]]: Žygimantas rašte pabrėžė Mikalojaus Radvilos Juodojo ištikimą tarnystę karo ir taikos metu bei nuopelnus Respublikai.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113883|Mikalojus Radvila Juodasis]]: Mikalojui Radvilai Juodajam ir jo teisėtiems Nesvyžiaus kunigaikščių įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113889|Mikalojus Radvila Juodasis]]: Mikalojui Radvilai Juodajam ir jo teisėtiems Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186360|Mikalojus Radvila]]: Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.
 - susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
 - susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114074|Zigmantas I]]: Karalius Zigmantas I buvo Jono II, 1519 m. paskelbto Vilniaus vyskupu, tėvas.
 - susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172761|Radvilų giminė]]: Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.
@@ -99,47 +90,9 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - susijęs iš Vilniaus vyskupija: Kaltinamasis teigė esąs Vilniaus vyskupijos valdinys ir pilietis, todėl siekė būti grąžintas į jos teismą.
 - susijęs iš Vilniaus vyskupija: Jurgis Radvila, matydamas kunigų trūkumą Vilniaus vyskupijoje, nusprendė funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti.
 - susijęs iš Vilniaus vyskupija: Jurgis Radvila Vilniaus vyskupijoje nusprendė įsteigti ir funduoti klierikų kolegiją lietuvių ir rusų jaunuoliams.
-- susijęs iš Vilnius: Vilniaus vyskupas Jurgis Radvila nusprendė įsteigti kolegiją lietuvių ir rusų jaunuoliams auklėti.
 - susijęs iš Voluinė: Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje.
 - susijęs iš Voluinė: Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje.
 - susijęs iš [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos.md#claim-t-86628|vyskupijos stalas, personatai ir beneficijos]]: Jurgis Radvila numatė klierikų kolegijai skirti dalį pajamų iš vyskupijos stalo, personatų, abatijų ir kitų beneficijų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pats
-    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
-    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
-    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
-    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
-    nialųjį karo vadą, — atidavė auklėti jėzuitams.
-    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
-    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mirė 1507 metais.
-    11. Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
-    ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino
-    1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-80552
@@ -177,7 +130,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84379
-    - t-84380
 
 ## Ryšiai
 - Olyka priklausė [[objektai/vietos/Voluinė]]

@@ -40,35 +40,6 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
   teiginys: "Profesorius Volfgangas 1816 m. „Dziennik Wileński“ IV tome išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje."
   pagrindžia:
     - c-84475
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Profesorius Volfgangas 1816 m. „Dziennik Wileński“ IV tome išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kaip matyti iš Metrikos sąrašo, Lie­
-    tuvos Metrikoje buvo: Listy na plac
-    goły, które Król Zygmunt od niektóre­
-    go Zawiszy, do Apteki zbudowania w
-    Wilnie, za sześć seth y sześć kop kupił,
-    około roku 1510 [Raštai tuščiam skly­
-    pui, kurį karalius Žygimantas nupir­
-    ko iš tokio Zavišos už šešis šimtus ir
-    šešias (606) kapas [grašių] apie 1510
-    metus vaistinės Vilniuje statybai].
-    Apie farmacijos būklę Lietuvoje
-    trumpą žinutę išspausdino profeso­
-    rius Volfgangas savo „Uwagi
-    Historyczne" Dziennik Wileński, 1816
-    m.-T. IV, 1.251.
-    —  • —
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

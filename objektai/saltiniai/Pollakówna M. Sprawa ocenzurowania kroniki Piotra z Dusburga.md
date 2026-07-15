@@ -40,32 +40,15 @@ Dusburgietis teigia, kad pollakówna M.
   teiginys: "M. Pollakównos straipsnis apie Petro Dusburgiečio kronikos cenzūravimą paskelbtas 1970 m. Poznanėje išleistame rinkinyje, p. 127–134."
   pagrindžia:
     - c-61864
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'M. Pollakównos straipsnis apie Petro Dusburgiečio kronikos cenzūravimą paskelbtas 1970 m. Poznanėje išleistame rinkinyje, p. 127–134.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pollakówna  M.  Sprawa  ocenzurowania  kroniki  Piotra  z  Dusburga.—Europa—
-    Słowiańszczyzna—Polska: Studia ku uczceniu prof. K. Tymienieckiego, Poznań, 1970, s.
-    127—134.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61864
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pollakówna  M.  Sprawa  ocenzurowania  kroniki  Piotra  z  Dusburga.—Europa—
+    Pollakówna M. Sprawa ocenzurowania kroniki Piotra z Dusburga.—Europa—
     Słowiańszczyzna—Polska: Studia ku uczceniu prof. K. Tymienieckiego, Poznań, 1970, s.
     127—134.
   statusas: verified

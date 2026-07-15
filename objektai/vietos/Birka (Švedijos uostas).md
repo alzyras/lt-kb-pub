@@ -35,27 +35,6 @@ Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laiva
   teiginys: "Sembai palaikė ryšius su Švedijos uostu Birka ir patys savo laivais ten nuplaukdavo."
   pagrindžia:
     - c-28210
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Adomas, tiesa, kalbėjo apie «sembus arba prūsus»
-    (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą
-    gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų. Apie sembus
-    esą butų galima daug girtina pasakyti, jeigu tik jie butų krikš­
-    čionys, kurių skelbėjus labai persekioją. Sembai turį draudžiamų
-    gojų ir šaltinių, kuriuos suteršiąs krikščionių atsilankymas. Auksą
-    ir sidabrą mažai vertindami, Sembai turį daug kailių. Su Švedijos
-    uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laivais
-    ten nuplaukdami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

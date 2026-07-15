@@ -58,7 +58,6 @@ Vartojamas kaip istorinis amato pavadinimas ir kaip redakcinio pakeitimo objekta
 - susijęs iš [[objektai/asmenys/Herberis.md#claim-t-191414|Herberis]]: Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyventojai esą buvo auksakaliai arba ginklakaliai.
 - susijęs iš [[objektai/autoriai/Herberis.md#claim-t-191645|Herberis]]: Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyventojai buvo auksakaliai arba ginklakaliai.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -83,16 +82,12 @@ Vartojamas kaip istorinis amato pavadinimas ir kaip redakcinio pakeitimo objekta
 - id: c-175127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 489"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 489."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    pastraipos
-    12—13
-    eilutė/
-    T. Narbutas, rengdamas antrąjį LTI leidimą, žodį „auksakalys“
-    (zlotnik), pakeitė žodžiu „prekiautojas“ (kramnik) (PE. L. 143).
-    97 /P.
-    197,
+    Mes gi matome ne ragus, bet saulės spindulius. Tiesa, visa tai
+    dėl to meto sunkumų pavaizduota gana grubiai. Kojos su nagais
+    galėtų būti ir erelio, nes tas paukštis buvo mistiškai laikomas sau­
+    lės garbintoju ir iš visų žemės padarų buvo arčiausiai saulės.
   citata_rodoma: "T. Narbutas, rengdamas antrąjį LTI leidimą, žodį „auksakalys“ (zlotnik), pakeitė žodžiu „prekiautojas“ (kramnik) (PE. L. 143)."
   statusas: verified
   teiginio_tipas: faktas

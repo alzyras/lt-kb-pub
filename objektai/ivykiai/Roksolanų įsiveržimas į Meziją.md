@@ -55,27 +55,8 @@ Nenurodyta
   teiginys: "Tacito cituojamame pasakojime roksolanai išžudė dvi romėnų kohortas ir įsiveržė į Meziją."
   pagrindžia:
     - c-173934
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas, remdamasis Tacitu, 72 m. datuoja roksolanų, sarmatų genties, įsiveržimą į Meziją po dviejų romėnų kohortų nugalėjimo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat teisinga nuomonė, jog alanai, gy­
-    venę prie šių šakų, buvo vadinami Rhox-alanais arba, anot
-    mūsų rašybos, roksolanais. Tacitas rašo: „Roksolanai,
-    sarmatą gentis, nugalėję dvi kohortas (romėnų), dideliu
-    būriu įsiveržė į Meziją“1. Tai įvyko 72 mūsų eros metais,
-    taigi dar iki tos epochos jie pasitraukė nuo Volgos ir
-    veržėsi už Dunojaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Tacito cituojamame pasakojime roksolanai išžudė dvi romėnų kohortas ir įsiveržė į Meziją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -103,8 +84,7 @@ Nenurodyta
 - id: c-173933
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 67"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 67."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat teisinga nuomonė, jog alanai, gy­
     venę prie šių šakų, buvo vadinami Rhox-alanais arba, anot
@@ -125,16 +105,19 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai tiesa, nors įvairiai skamba
-    1 Lib. I, 79. (Roxolani, Sarmatica gens, caesis duabus cohorti­
-    bus, magna spe in Moesiam irruperant). (Roksolanai, sarmatą gen­
-    tis, išžudė dvi kohortas (romėnų) ir, kupini vilties, įsiveržė į Meziją.)
-    70
-
-    ## Puslapis 68
-
-    Volgos',ypavadinimas, tačiau roksanai ir bulgarai reiškia
-    vieną ik tą patį.
+    Kai kurie iš šių panašumų buvo
+    nurodyti, o daug kitų palikta, kad patys skaitytojai ga­
+    lėtų palyginti norėdami geriau įsitikinti išvadomis, ku­
+    rios siekia istorinių tiesų, o tai yra mūsų tyrinėjimo sri­
+    tis, be to, patys darytų išvadas savo nuožiūra ir remda­
+    miesi išmanymu.
+    Iš naujausių Indostano istorijos atradimų žinoma, kad
+    1029 metais prieš Kristaus gimimą pradėta garbinti indų
+    dievą vardu Buda. Jo sektos narių labai padaugėjo pir­
+    miausia pačioje Indijoje, o vėliau šie sektantai, išvyti ir
+    išsibarstę po visą Vidurinę Aziją, išplatino savo tikėji­
+    mą.
+  citata_rodoma: "Tai tiesa, nors įvairiai skamba\n1 Lib. I, 79. (Roxolani, Sarmatica gens, caesis duabus cohorti­\nbus, magna spe in Moesiam irruperant). (Roksolanai, sarmatą gen­\ntis, išžudė dvi kohortas (romėnų) ir, kupini vilties, įsiveržė į Meziją.)\n70\n\n## Puslapis 68\n\nVolgos',ypavadinimas, tačiau roksanai ir bulgarai reiškia\nvieną ik tą patį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

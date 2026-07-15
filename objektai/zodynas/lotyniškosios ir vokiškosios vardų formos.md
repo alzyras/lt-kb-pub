@@ -35,8 +35,8 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
   teiginys: "Lotyniškosios ir vokiškosios vardų formos rodyklėse dažniausiai pateikiamos tuo linksniu, kuriuo užrašytos šaltiniuose."
   pagrindžia:
     - c-59546
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lotyniškosios ir vokiškosios vardų formos rodyklėse dažniausiai pateikiamos tuo linksniu, kuriuo užrašytos šaltiniuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,15 +60,17 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
 - id: c-59546
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 279"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 279."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Adomas
+    Agnetė šv.
     Agota
-      Ahohietis
-      605 Į rodykles nedėta bibliografijos vardai (šios kn. p. 431 — 458), kurių didžiuma
+    Ahohietis
+    605 Į rodykles nedėta bibliografijos vardai (šios kn. p. 431 — 458), kurių didžiuma
     minima paaiškinimuose. Abiejose rodyklėse iš kronikų bei dokumentų imtos lotyniškosios
-    ar  vokiškosios vardų formos pateikiamos  dažniausiai tuo  linksniu, kokiu  jie ten
+    ar vokiškosios vardų formos pateikiamos dažniausiai tuo linksniu, kokiu jie ten
     užrašyti.
+  citata_rodoma: "Agota\n  Ahohietis\n  605 Į rodykles nedėta bibliografijos vardai (šios kn. p. 431 — 458), kurių didžiuma\nminima paaiškinimuose. Abiejose rodyklėse iš kronikų bei dokumentų imtos lotyniškosios\nar  vokiškosios vardų formos pateikiamos  dažniausiai tuo  linksniu, kokiu  jie ten\nužrašyti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

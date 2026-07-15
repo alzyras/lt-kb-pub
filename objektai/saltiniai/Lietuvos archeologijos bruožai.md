@@ -34,30 +34,13 @@ Dusburgietis teigia, kad iki Persantės vakaruose žalvario amžiuje buvo paplit
   teiginys: "Lietuvos archeologijos bruožuose nurodoma, kad žalvario amžiuje iki Persantės vakaruose buvo paplitę baltų kultūrinei sričiai būdingi gyvatgalviai kapliai."
   pagrindžia:
     - c-87605
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos archeologijos bruožuose nurodoma, kad žalvario amžiuje iki Persantės vakaruose buvo paplitę baltų kultūrinei sričiai būdingi gyvatgalviai kapliai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šioje teritorijoje teka Pasarė (Pasargė), o Persantės upė yra į vakarus nuo Vyslos.
-    Iki Persantės vakaruose žalvario amžiuje buvo paplitę gyvatgalviai kapliai, būdingi baltų
-    kultūrinei sričiai (Lietuvos archeologijos bruožai, p. 105—106; MLTE, t.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-87605
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 9"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šioje teritorijoje teka Pasarė (Pasargė), o Persantės upė yra į vakarus nuo Vyslos.
     Iki Persantės vakaruose žalvario amžiuje buvo paplitę gyvatgalviai kapliai, būdingi baltų

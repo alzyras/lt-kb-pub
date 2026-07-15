@@ -12,6 +12,10 @@ datos:
   - '1883 m.'
 date_start: '1848'
 date_end: '1883'
+aliases:
+  - 'objektai/autoriai/Vysk. Motiejus Valančius'
+variantai:
+  - 'Vysk. Motiejus Valančius'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -39,7 +43,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu. Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę. Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų.
+Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio raštų autorius, bet ir kaip Žemaičių vyskupas, blaivybės skleidėjas bei lietuviškos spaudos ir slaptųjų mokyklų rėmėjas.
 
 ## Darbai
 
@@ -126,6 +130,8 @@ Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu. Motie
   teiginys: "Zenonas Ivinskis Motiejui Valančiui priskyrė sveikas pažiūras ir gana kritišką nusistatymą šaltinių atžvilgiu veikale „Žemaičių Vyskupystė“."
   pagrindžia:
     - c-163234
+- susijęs iš [[objektai/asmenys/Beresnevičius (vyskupas, XIX a.).md#claim-t-200912|Beresnevičius (vyskupas, XIX a.)]]: Basanavičius Beresnevičių siejo su lenkų kalbos sugrąžinimu į kai kurias lietuviškas Kauno vyskupystės bažnyčias po Valančiaus mirties.
+- susijęs iš [[objektai/asmenys/Motiejus Valančius.md#claim-t-200891|Motiejus Valančius (vyskupas, XIX a.)]]: 1849 m. Žemaičių vyskupu paskirtas Motiejus Valančius Kauno vyskupystėje rado lenkų kalbą vyraujant bažnyčių pamoksluose ir giesmėse.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105710|Simonas Daukantas]]: Simonas Daukantas įkalbino Motiejų Valančių rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.
 - susijęs iš [[objektai/autoriai/J. Eretas.md#claim-t-30667|J. Eretas]]: J. Eretas parengė spaudai veikalą „Valančiaus šviesa už marių“ apie Pranciškaus Juro ir jo bendrininkų gyvenimą bei veiklą.
 - susijęs iš [[objektai/autoriai/L. Kuodys.md#claim-t-96056|L. Kuodys]]: L. Kuodys redagavo vyskupo Valančiaus „Vaikų knygelę“, išleistą su K. Šimonio iliustracijomis.
@@ -148,6 +154,7 @@ Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu. Motie
 - susijęs iš [[objektai/grupes/Blaivybės brolijos.md#claim-t-19661|Blaivybės brolijos]]: Blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų.
 - susijęs iš [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia.md#claim-t-25044|Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]: M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose.
 - susijęs iš [[objektai/paprociai/Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas.md#claim-t-54252|Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas]]: Vyskupas Motiejus Valančius ragino nepriimti valdžios peršamų knygų ir slapta organizavo lietuviškos spaudos spausdinimą Rytprūsiuose bei platinimą Lietuvoje.
+- susijęs iš [[objektai/paprociai/Lenkiškos kalbos vartojimas bažnyčiose ir parapijose.md#claim-t-200909|Lenkiškos kalbos vartojimas bažnyčiose ir parapijose]]: Basanavičius rašė, kad 1849 m. Žemaičių vyskupu paskirtas Motiejus Valančius Kauno vyskupystės bažnyčiose rado vyraujančią lenkų kalbą.
 - susijęs iš [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai.md#claim-t-183320|Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]: Motiejus Valančius nurodė kunigams prie bažnyčių steigti lietuviškas mokyklas ir sakyti pamokslus lietuviškai.
 - susijęs iš [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai.md#claim-t-54276|Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]: Telšių vyskupijos bažnytinės mokyklos nukonkuravo valdiškas mokyklas, kuriose mokyta rusų kalba.
 - susijęs iš [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės.md#claim-t-75389|Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]: Po 1863–1864 m. sukilimo daraktorinėmis vadintos slaptos mokyklėlės masiškai išplito ir miestuose.
@@ -159,6 +166,7 @@ Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu. Motie
 - susijęs iš Žemaičių vyskupystės istorija: Simonas Daukantas įkalbino Motiejų Valančių Sankt Peterburge rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.
 - susijęs iš Uturiai: Uturiai buvo prie Betygalos.
 - susijęs iš Žemaičių vyskupystė: Žemaičių vyskupystė 1849 m. buvo padidinta, prie jos prijungus 93 Vilniaus vyskupystės parapijas.
+- susijęs iš [[objektai/zodynas/Pridėtinė dievmaldystė.md#claim-t-200902|Pridėtinė dievmaldystė]]: M. Valančius Kauno vyskupystėje stengėsi įvesti lietuvių kalbą pridėtinėje dievmaldystėje, nors kai kur lenkų kalba išsilaikė iki 1865 m.
 - susijęs iš [[objektai/zodynas/daraktorinės mokyklėlės.md#claim-t-77792|daraktorinės mokyklėlės]]: Po 1863–1864 m. sukilimo etninėje Lietuvoje masiškai išplito slaptos daraktorinėmis vadintos mokyklėlės.
 - susijęs iš [[objektai/zodynas/tautinis atgimimas.md#claim-t-05466|tautinis atgimimas]]: Daukanto istorijos darbai šiame šaltinyje vertinami kaip reikšmingi tautinio atgimimo laikotarpiu.
 - susijęs iš [[objektai/zodynas/tautinė sąmonė.md#claim-t-47945|tautinė sąmonė]]: Daukantas lietuvių tautinės sąmonės raidai davė reikšmingų paskatų.

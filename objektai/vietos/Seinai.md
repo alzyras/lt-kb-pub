@@ -43,6 +43,7 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
   pagrindžia:
     - c-165000
 - susijęs iš [[objektai/asmenys/K. Ramanauskas.md#claim-t-40252|K. Ramanauskas]]: Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link.
+- susijęs iš [[objektai/asmenys/Paulius Straszynski.md#claim-t-200884|Paulius Straszynski]]: Basanavičius Paulių Straszynskį vaizdavo kaip Seinų vyskupą, draudusį lietuvių kalbą bažnyčiose ir menkinusį lietuviškumą.
 - susijęs iš [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga).md#claim-t-66458|Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]: 1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu.
 - susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
 - susijęs iš [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų.md#claim-t-41480|Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų (mūšis)]]: Ant prie buožės pritvirtintos lentelės buvo užrašyta: „Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų“.
@@ -59,32 +60,11 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 - susijęs iš [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.).md#claim-t-20230|Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]: 1927 m. rugsėjo 27 d. Augustinas Voldemaras Romoje pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.
 - susijęs iš [[objektai/posakiai/„lenkai atakuoja...“.md#claim-t-20909|„lenkai atakuoja...“]]: 1920 m. rugsėjį Mykolas Sleževičius Seime pareiškė, kad lenkai atakuoja Lietuvą, nes juos pakvietė dvarininkai.
 - susijęs iš Lietuvos ir Vatikano konkordatas (1927 m.): 1927 m. rugsėjo 27 d. Augustinas Voldemaras pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.
+- susijęs iš Lietuva: Basanavičius Seinų vyskupą Paulių Straszynskį vaizdavo kaip XIX a. 4-ajame ir 5-ajame dešimtmečiais Lietuvoje priešišką lietuvių kalbai.
 - susijęs iš Punskas: Įsigaliojus sutarčiai Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.
 - susijęs iš Punskas: Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Punską.
 - susijęs iš Punskas: Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską.
 - susijęs iš [[objektai/asmenys/K. Ramanauskas.md#claim-t-40252|K. Ramanauskas]]: Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ratifikavus sutartį Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ra-
-    tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
-    bet kokių pretenzijų į Vilniaus kraštą. Savo ruožtu Lietuva nustojo teisės
-    reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tau-
-    tinių mažumų klausimas kartais dar kelia karštas diskusijas.
-    Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo-
-    se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
-    atiduota 50-čiai metų administruoti SSRS.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-165000

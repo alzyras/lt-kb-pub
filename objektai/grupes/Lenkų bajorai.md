@@ -41,16 +41,10 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   teiginys: "Lenkų bajorai pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios."
   pagrindžia:
     - c-70835
-
-<a id="claim-t-72427"></a>
-- t-002
-  global_id: t-72427
-  teiginys: "Lenkų bajorai pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios."
-  pagrindžia:
     - c-70832
 
 <a id="claim-t-193106"></a>
-- t-003
+- t-002
   global_id: t-193106
   teiginys: "Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą."
   pagrindžia:
@@ -63,63 +57,6 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
 - susijęs iš [[objektai/asmenys/Vilhelmas.md#claim-t-51187|Vilhelmas]]: Austrijos hercogas Vilhelmas buvo sužieduotas su vienuolikmete Jadvyga dar jos tėvui mirštant.
 - susijęs iš Konstancija: Vytautas ir Jogaila susitaikė, nes abiem rūpėjo kryžiuočių klausimas, susijęs su Konstancijoje vykusiu suvažiavimu.
 - susijęs iš Radomas: Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lenkų bajorai pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Juo buvo patvirtintas Vytauto sava-
-    rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
-    vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
-    gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
-    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
-    lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
-    mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Lenkų bajorai pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl šis susitarimas yra vadinamas Vilniaus
-    Radomo susitarimu. Juo buvo patvirtintas Vytauto sava-
-    rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
-    vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
-    gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
-    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
-    lietuvių ir be Vytauto žinios.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų
-    jo sūnums sostą. Lenkų bajorai, už tai išsireikalavę iš Jogailos
-    sau privilegijų praplėtimo, sutiko. Atrodė, kad jau viskas
-    bus gerai, kad, seniesiems valdovams mirus, abudu sostus gaus
-    Jogailos sūnūs, — taip bent svajojo lenkai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-70832
@@ -135,12 +72,10 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
     lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
     mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-72427
-
 - id: c-70835
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

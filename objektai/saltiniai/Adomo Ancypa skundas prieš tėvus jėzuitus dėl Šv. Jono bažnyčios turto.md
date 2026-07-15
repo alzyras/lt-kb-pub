@@ -41,33 +41,6 @@ Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijo
   teiginys: "Šv. Jono bažnyčios klebonas Adomas Ancypa padavė skundą prieš ankstesniuosius tėvus jėzuitus dėl bažnyčios fundacijų ir pajamų."
   pagrindžia:
     - c-84273
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šv. Jono bažnyčios klebonas Adomas Ancypa padavė skundą prieš ankstesniuosius tėvus jėzuitus dėl bažnyčios fundacijų ir pajamų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Asesorių sprendimas byloje su Vil­
-    niaus magistratu, tas aprobacijas ginčijančiu, paskelbtas; ka­
-    raliaus raštas, ta pačia data pažymėtas, duotas dvarioniui
-    sprendimo vykdymo reikalu, ir 1654 metų liepos 4 dieną
-    įvykdytas sprendimas patenkino magistrato ieškinį.
-    I e š k i n y s
-    Šv. Jono bažnyčios klebonas Adomas Ancypa, remdama­
-    sis jam suteiktomis fundacijomis, padavė skundą, kaltinda­
-    mas ankstesniuosius tėvus jėzuitus:
-    lmo, kad jis, būdamas šiuo metu tos bažnyčios klebonas,
-    ad mentem fundacijų laiko Elniakampius, Putviškes, Pukan-
-    čius ir Rudaminą su žemėmis, ežerais ir t. t., duodamas iš­
-    laikymą savo adjutoriams; kad iki šiol aukas bažnyčiai ne­
-    šamas ir mokesčius surenkamus už namus imdavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

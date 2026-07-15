@@ -19,6 +19,9 @@ datos:
   - '1918 m.'
 date_start: '1386'
 date_end: '1918'
+amziai:
+  - 'XIV'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,9 +29,6 @@ tags:
   - valstybė
   - kraštas
   - miestelis
-amziai:
-  - 'XIV'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -176,50 +176,36 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - c-164126
 
-<a id="claim-t-180519"></a>
-- t-019
-  global_id: t-180519
-  teiginys: "Karai su Maskvos didžiąja kunigaikštyste, vėliau Rusija, dėl rytinių teritorijų kėlė konfliktus tarp ATR ir Rusijos."
-  pagrindžia:
-    - c-164120
-
-<a id="claim-t-180524"></a>
-- t-020
-  global_id: t-180524
-  teiginys: "1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją."
-  pagrindžia:
-    - c-164119
-
 <a id="claim-t-180535"></a>
-- t-021
+- t-019
   global_id: t-180535
   teiginys: "1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai."
   pagrindžia:
     - c-164142
 
 <a id="claim-t-180536"></a>
-- t-022
+- t-020
   global_id: t-180536
   teiginys: "1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį."
   pagrindžia:
     - c-164140
 
 <a id="claim-t-188826"></a>
-- t-023
+- t-021
   global_id: t-188826
   teiginys: "T. Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare, o mūšyje prie Abo miesto buvo kontūzytas."
   pagrindžia:
     - c-171715
 
 <a id="claim-t-193229"></a>
-- t-024
+- t-023
   global_id: t-193229
   teiginys: "Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė."
   pagrindžia:
     - c-175967
 
 <a id="claim-t-194751"></a>
-- t-025
+- t-022
   global_id: t-194751
   teiginys: "Istorinės savimonės ištakų ieškant: Teodoras Narbu tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto rijos studijos."
   pagrindžia:
@@ -548,7 +534,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Algirdas Brazauskas.md#claim-t-75683|Algirdas Brazauskas]]: Pirmojo Jono Pauliaus II vizito į Lietuvą metu popiežių lydėjo prezidentas Algirdas Brazauskas ir arkivyskupas Audrys Juozas Bačkis.
 - susijęs iš [[objektai/asmenys/Algirdas Brazauskas.md#claim-t-75686|Algirdas Brazauskas]]: Pirmojo Jono Pauliaus II vizito į Lietuvą metu popiežių lydėjo prezidentas Algirdas Brazauskas ir arkivyskupas Audrys Juozas Bačkis.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10671|Algirdas (Lietuvos valdovas)]]: Algirdas vedė Julijoną, siekdamas sąjungininko prieš Maskvą.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176290|Algirdas (Lietuvos valdovas)]]: Nuo Algirdo laikų įsigalėjusios tradicijos padėjo Vytautui prijungti rusų žemes.
 - susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75687|Andrejus Sacharovas]]: Andrejus Sacharovas buvo Jelenos Boner vyras ir bendražygis.
 - susijęs iš [[objektai/asmenys/Andrius Vosylius Jastrzębiecas.md#claim-t-35030|Andrius Vosylius Jastrzębiecas]]: Cereteno vyskupas Andrius Vosylius atvyko kartu su Jogailos broliais, dvasininkais ir lietuvių bei lenkų didikais.
 - susijęs iš [[objektai/asmenys/Antanas Goreckis.md#claim-t-87627|Antanas Goreckis]]: Antanas Goreckis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.
@@ -649,7 +634,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Vosylius.md#claim-t-51191|Vosylius]]: Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su Lietuvos vasalais.
 - susijęs iš [[objektai/asmenys/Vudrau Vilsonas.md#claim-t-19327|Vudrau Vilsonas]]: Amerikos lietuviai paprašė prezidento Vudrau Vilsono 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos karo aukoms.
 - susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170245|Vytautas Landsbergis]]: Vytautas Landsbergis ir B. Jelcinas 1991 m. liepos 29 d. buvo savo šalių parlamentų pirmininkai.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176652|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.
 - susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64420|Zigmantas Sierakauskas]]: Zigmantas Sierakauskas pateko į nelaisvę, kai gegužės 10-osios naktį sukilėlius apsupo paporučikio fon Gaso dalinys.
 - susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64422|Zigmantas Sierakauskas]]: Gegužės pradžioje prie Biržų Zigmantas Sierakauskas buvo sužeistas, pateko į nelaisvę ir netrukus viešai pakartas Vilniuje.
 - susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64425|Zigmantas Sierakauskas]]: 1863 m. pavasarį Zigmantas Sierakauskas buvo paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu.
@@ -742,7 +726,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Liuteronai.md#claim-t-45109|Liuteronai]]: LDK santvarka leido liuteronams egzistuoti šalia katalikų ir kitų etnokonfesinių bendrijų.
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78383|Livonijos kunigaikštystė]]: Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179394|Livonijos ordinas]]: 1424 m. Niešavos sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Vokiečių ir Livonijos ordinų žemėse.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179435|Livonijos ordinas]]: Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92728|Maskvos kunigaikštija]]: Pskovo ir Naugardo respublikos labiau šliejosi prie Livonijos ordino ir Maskvos, priešingų Vytauto įsigalėjimui Rytuose.
 - susijęs iš [[objektai/grupes/Napoleono kariuomenė.md#claim-t-182911|Napoleono kariuomenė]]: Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.
 - susijęs iš [[objektai/grupes/Napoleono kariuomenė.md#claim-t-43517|Napoleono kariuomenė]]: Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.
@@ -785,7 +768,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117316|Vokiečiai]]: Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-188358|Vokiečiai]]: Narbutas rašė, kad senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“ ir „Belewitt“.
 - susijęs iš [[objektai/grupes/Švedai.md#claim-t-75063|Švedai]]: Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176138|Žemaičiai]]: Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117381|Žydai]]: Kuriant Izraelį reikšmingus vaidmenis atliko iš buvusios LDK ir ATR erdvės kilę žydai, vadinęsi litvakais.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117393|Žydai]]: Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117394|Žydai]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.
@@ -1015,7 +997,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Daugpilis: 1919-1920 m. Pirmoji Lietuvos Respublika Nepriklausomybės kovose vijo bolševikus iki Daugpilio.
 - susijęs iš Didysis Naugardas: Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva, kaip anksčiau buvo padaręs Smolenske.
 - susijęs iš Dnepras: Narbutas rašė, kad daugiausia Baltarusijos pilkapių buvo Dnepro vidurupyje nuo Sklovo apylinkių iki Pripetės žiočių.
-- susijęs iš Drohičinas: Lietuvos metraštyje pasakojama, kad Erdvilas rado Drohičiną Batu nusiaubtą ir sunaikintą, vėliau jį atstatė ir jame kunigaikščiavo.
 - susijęs iš Drohičinas: Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis.
 - susijęs iš Europa: Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių.
 - susijęs iš Europa: Narbutas vertino, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado žmones, kuriems buvo lemta iškilti.
@@ -1087,7 +1068,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Peterburgas: 1906 m. Peterburge rimtai nesvarstyta rezoliucija dėl politinės autonomijos suteikimo Lietuvai.
 - susijęs iš Peterburgas: Vilniaus Romos katalikų dvasinė akademija buvo perkelta į Sankt Peterburgą, o Vilniaus medicinos-chirurgijos akademija uždaryta.
 - susijęs iš Peterburgas: Peterburge telkėsi reformų opozicija, nes Jekaterina II ten susikvietė aršiausius reformų priešininkus.
-- susijęs iš Pinskas: Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Piotrkovas: Narbutas aiškina, kad 1567 metais vietoj abejotino Gardino seimo iš tikrųjų vyko ilgai posėdžiavęs Lenkijos seimas Piotrkove.
 - susijęs iš Polockas: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos.
 - susijęs iš Praha: Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius.
@@ -1125,7 +1105,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Varšuva: 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vilniuje susikūrė sukilimo centrinis komitetas.
 - susijęs iš Varšuva: Vilniaus vyskupas I. Masalskis ir Livonijos vyskupas J. Kosakovskis buvo pakarti Varšuvoje birželio 28 dieną.
 - susijęs iš Varšuva: Vilniaus vyskupas I. Masalskis ir Livonijos vyskupas J. Kosakovskis buvo pakarti Varšuvoje birželio 28 dieną.
-- susijęs iš Veližas: Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą tarp Veližo ir Smolensko.
+- susijęs iš Veližas: Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.
 - susijęs iš Vilniaus gubernija: Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.
 - susijęs iš Vilniaus turgus: 1580 m. birželio 18 d. Vilniaus turguje už klastą ir tėvynės išdavystę buvo nukirsdintas Jurgis Astikas.
 - susijęs iš Vilnius: Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nešturmuoti civilinių pastatų.
@@ -1134,9 +1114,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Vilnius: 1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.
 - susijęs iš Vilnius: Vilniaus universitetas tapo didžiulės Vilniaus švietimo apygardos centru.
 - susijęs iš Vilnius: 1832 m. nutarta uždaryti Vilniaus universitetą, kurį uždarymo iniciatoriai vadino „Lietuvos laisvamanybės lizdu“.
-- susijęs iš Vilnius: Sukilimui apėmus Lietuvą, Rusijos valdžia kontroliavo tik Vilnių, iš kurio į sukilėlių gretas pasitraukė keli šimtai studentų.
 - susijęs iš Vilnius: 1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.
-- susijęs iš Vilnius: 1812 m. rugsėjo 22 d. Michałas Balińskis įstojo į Vilniaus universiteto Fizikos ir matematinių mokslų fakultetą.
 - susijęs iš Vilnius: Slaptas sutarties papildymas leido raudoniesiems 1920 m. liepos 14 d. okupuoti Vilnių ir per miestą permesti kariuomenę į lenkų frontą.
 - susijęs iš Volgos upė: K. Radvilos pajėgos, perėjusios Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link.
 - susijęs iš Volia: Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis iki Volios, toliau Nemunu iki Beržūnės.
@@ -1212,7 +1190,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika.md#claim-t-75569|lenkų pradų naikinimo politika]]: Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo politiką, vadintą „lenkų pradų naikinimo“ politika.
 - susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika.md#claim-t-75570|lenkų pradų naikinimo politika]]: Po sukilimo buvusiose LDK žemėse caro valdžia ėmėsi politikos, vadintos „lenkų pradų naikinimo“ politika.
 - susijęs iš [[objektai/zodynas/memorialas.md#claim-t-03078|memorialas]]: 1811 m. carui buvo įteiktas memorialas dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-05455|metropolitas]]: Lietuvos stačiatikių žemės vėl buvo pajungtos visos Rusijos metropolitui.
 - susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-186921|nuorašas]]: Plačiau buvo žinomi bent 222 šių tekstų nuorašai.
 - susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-186922|nuorašas]]: Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai tekstai plito rankraštiniais nuorašais.
 - susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-187524|nuorašas]]: LDK metraštinės literatūros sąvadai savo laiku nebuvo išspausdinti ir plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222.
@@ -1273,365 +1250,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Vudro Vilsono 14 punktų: Vudro Vilsono paskelbti „14 punktų“ suteikė JAV lietuvių imigrantams progą kelti Lietuvos klausimą.
 - susijęs iš [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.).md#claim-t-71739|Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]: 1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.
 - susijęs iš Annales Quedlinburgenses: „Annales Quedlinburgenses“ pirmieji paminėjo Lietuvos vardą, pažymėdami, kad 1009 m. prie Lietuvos ir Rusijos sienos nužudytas šv. Brunonas su 18 palydovų.
-- susijęs iš Veližas: Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą tarp Veližo ir Smolensko.
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63520|Borisas Jelcinas]]: Borisas Jelcinas vadovavo kovai prieš komunistinius perversmininkus ir privertė kapituliuoti Maskvos pučistus.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Rytų Pabaltijyje ir šiaurės-rytų Rusijoje medžiotojų ir žvejų
-    kultūra panašiame laipsnyje tęsėsi porą tūkstančių metų. Yra
-    duomenų spręsti, kad tose srityse laikėsi vis tos pačios kilmės,
-    stambūs ir plačiaveidžiai vietiniai gyventojai, Crô-Magnon rasės
-    seni europiečiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1998–1999 m. Rusijos finansų krizė sukėlė naujų išbandymų Lietuvos ekonomikai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuo 1993 m.
-    vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl nacionalinės valiu-
-    tos – lito įvedimo laikotarpiu Lietuvos banko vykdytos sugriežtintos pi-
-    nigų politikos ir 1994 m. kovo 1 d. pradėto taikyti valiutų valdybos mo-
-    delio (pagal jį litas susietas su JAV doleriu santykiu 4 litai – 1 doleris).
-    Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-
-    giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
-    laikotarpį.
-    Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusi-
-    jos finansų krizei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vis dėlto Vilniaus, Lietuvos ir Abiejų
-    Tautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisa-
-    vinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba
-    „vodką“. Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas
-    „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje
-    žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo
-    su buvusios LDK arba Abiejų Tautų Respublikos rytine riba. Ją nubrėžė
-    Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi
-    net konkrečias gubernijas, kuriose gali gyventi žydai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-009
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Antra vertus,
-    tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
-    visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
-    joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
-    Rusijos atsikeliantiems sentikiams, be to, nuo Vytauto laikų gyvuojan-
-
-    L I E T U V O S  I S T O R I J A
-    64
-    tiems karaimams, totoriams ir žydams.
-    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
-    dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
-    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
-    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
-    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena. Šio karo
-    pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
-    kalus, galų gale privedęs prie Lenkijos ir Lietuvos Valstybės padalijimų ir
-    panaikinimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-    - t-015
-
-- c-005
-  santrauka: '1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Būdamas arčiausiai karo židinio, Stepono Batoro laikais
-    Vilnius virto pagrindine kariuomenių susibūrimo vieta; la­
-    bai dažnai čia būdavo ir pats karalius. Iš šio miesto 1579
-    metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų
-    Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-
-    lickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­
-    rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
-    Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
-    su kuriais turėjo daugiausia darbo. Pagaliau čia, Vilniuje,
-    šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
-    mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
-    gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
-    sipelniusius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-    - t-013
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
-    mėnesiais aplenkusi Prancūzijos konstituciją.
-    Pasauliui, net kai kuriems lietuviams ligi šiol ši konstitucija yra tik
-    Lenkijos konstitucija, nors Lietuvos atstovai 1791 m. rudenį padarė es-
-    minę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių
-    valstybės institucijose.
-    Apšvieta ateina į LDK
-    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
-    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
-    jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
-    kariškai sustiprėjusios Švedijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-    - t-010
-
-- c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kitaip klostėsi Didžiosios Lietuvos istorija. Rusijai sunaikinus senąją
-    Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo ofi-
-    cialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“. Lietu-
-    vos vardas įgijo naujų prasmių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-008
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
-    Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
-    čiau švedams įsitvirtinti Lietuvoje nepavyko. Iškylanti Rusija Šiaurės karo
-    metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-
-    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
-    Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
-    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
-
-    L I E T U V O S  I S T O R I J A
-    88
-    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
-    Lietuvos uostus Palangoje ir Šventojoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-009
-  santrauka: '1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Spalio pradžioje tarp abiejų valstybių
-    buvo užmegzti diplomatiniai santykiai.
-    1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės
-    sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-
-
-    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
-    257
-    roje atskyrimo. Nors Rusija Lietuvai išliko svarbi ekonominė partnerė,
-    artimesni santykiai tarp šių valstybių nesusiklostė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-
-- c-010
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Skaičiuojant nuo pirmųjų žmogaus pėdsakų
-    ir baigiant istoriniais laikais, kada žilųjų laikų priešistorinius pa­
-    minklus pakeičia rašytieji šaltiniai, priešistoriniai laikai Pabaltijyje
-    apima bent 15-8 tūkstančius metų.
-    Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį,
-    šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų. Jis
-    Pabaltijyje ir artimose srityse paliko dabartinį žemės reljefą (upes
-    ir ežerus, kalvas ir žemumas) su charakteringomis morenomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-    - t-006
-
-- c-011
-  santrauka: 'Atkūrusi nepriklausomybę Lietuva vakaruose įgijo sieną su Rusijos Kaliningrado sritimi.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo-
-    se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
-    atiduota 50-čiai metų administruoti SSRS. Demokratinė Rusija, kaip ir
-    Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė lietuvių tautos kovą dėl
-    nepriklausomybės. Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
-    Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir
-    Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
-    jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
-    apie Rusijos ir jos tautų ateitį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-012
-  santrauka: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko ir pradėjo LLV karą su Rusija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau
-    opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
-    reformų priešininkus. Peterburge subrendo ir buvo surašytas Targovicos
-    (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-
-    jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
-    deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
-    Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Vadinamojoje Ru-
-    sijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst. karių, prieš kuriuos LDK,
-    Lenkijos padedama, galėjo pasiųsti 18 tūkst.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
-- c-013
-  santrauka: 'Rusijos valdžia brutaliu, diskriminaciniu rusinimu siekė aneksuotas Lenkijos ir Lietuvos žemes paversti Vakarų Rusija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valstiečiai pavirto sąlyginai laisvais žmonėmis, nuosavybės teisę į dirba-
-    mą žemę įgijusiu žemiausiu, bet savarankišku valstiečių žemdirbių luo-
-    mu. Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenki-
-    jos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.
-    Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės
-    praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukili-
-    mus – 1830–1831 m. ir 1863–1864 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-014
-  santrauka: '1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija greitai pasiekė Lietuvos miestus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
-    atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus
-    greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.
-    1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
-    mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
-    demonstracijos, mitingai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-
-- c-015
-  santrauka: '1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo beveik pusė etninių lietuvių, o rusiškai skaitė tik kas penktas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ta-
-    čiau pirmasis visuotinis Rusijos
-    imperijos gyventojų surašymas
-    1897 m. parodė, kad tarp etninių
-    lietuvių mokančių skaityti yra be-
-    maž pusė – 48 proc., o rusiškai iš
-    jų tepaskaitė tik kas penktas. Pa-
-    gal raštingumą etniniai lietuviai
-    bemaž du kartus lenkė Rusijos
-    vidurkį ir nusileido, neskaitant žydų, tik latviams ir estams, kurie legaliai
-    mokėsi gimtąja kalba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-016
-  santrauka: '1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
-    Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir
-    Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
-    jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
-    apie Rusijos ir jos tautų ateitį. Draugiški valstybių vadovų santykiai leido
-    parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-    Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
-    pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-022
-
-- c-017
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1795
-    Rusija, Austrija ir Prūsija galutinai pasidalija Lenkijos ir Lietuvos valsty-
-    bę. Didžioji Lietuvos dalis atitenka Rusijai.
-    1918 II 16
-    Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
-    vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-021
-
 - c-018
   santrauka: 'T. Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare, o mūšyje prie Abo miesto buvo kontūzytas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1650,22 +1270,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
-
-- c-019
-  santrauka: 'Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taip antai, Fridrikas Didysis
-    savo dvare laikė Volterą, pats rašė poezijos ir net mokslo veikalus.
-    Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati
-    rašė. Prie jų dar prisidėjo Austrijos Juozapas II.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-024
 
 - c-020
   santrauka: 'Istorinės savimonės ištakų ieškant: Teodoras Narbu tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto rijos studijos.'
@@ -1802,7 +1406,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180534
     - t-180524
 
 - id: c-164120
@@ -1827,7 +1430,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180533
     - t-180519
 
 - id: c-164122
@@ -1912,8 +1514,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180523
     - t-180512
+    - t-180523
 
 - id: c-164131
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2064,16 +1666,19 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-171715
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    T. Nar­
-    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
-    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
-    siliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu
-    T. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­
-    nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo
-    prancūzų administracijoje.
+    Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
+    kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
+    mitologiją. Vilniuje buvo rengiamas spaudai XVI a. kroniki­
+    ninko Motiejaus Strijkovskio veikalas. Vilniaus universiteto
+    auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
+    Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
+    Vilhelmo Gizo, Johano Miulerio - darbus.
+  citata_rodoma: "T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.\nMūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­\nsiliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu\nT. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­\nnys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo\nprancūzų administracijoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2100,14 +1705,16 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-177147
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 51"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 51."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taip pat skaityki­
-    te: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­
-    tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­
-    rijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -
-    P.' 143-167.
+    Viso veikalo leidimą, atsi­
+    žvelgiant į 1830 metų sausio 8 dienos įstatymą apie autorių
+    teises, atidaviau leidėjo nuosavybėn. Pastarasis po to, kai bus
+    gautas cenzūros sutikimas pardavinėti, privalo už kiekvieną
+    tomą sumokėti 300 rublių sidabru honoraro. Taip pat iš karto
+    po išspausdinimo dar turi duoti po 60 kiekvieno tomo egzem­
+    pliorių“14.
+  citata_rodoma: "Taip pat skaityki­\nte: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­\ntas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­\nrijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -\nP.' 143-167."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

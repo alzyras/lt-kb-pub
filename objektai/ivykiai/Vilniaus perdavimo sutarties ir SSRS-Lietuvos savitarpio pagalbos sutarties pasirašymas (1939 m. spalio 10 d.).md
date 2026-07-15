@@ -88,84 +88,6 @@ Nenurodyta
   teiginys: "1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir dalies Lietuvos teritorijos perdavimo Vokietijai sutartis."
   pagrindžia:
     - c-23262
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
-    pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
-    nis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.
-    Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
-    pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
-    dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-001
-
-- c-002
-  santrauka: '1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, buvo pasirašytos Vilniaus perdavimo ir SSRS-Lietuvos savitarpio pagalbos sutartys.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuviai at-
-    kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti
-    kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
-    Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
-    iki 20 000. Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija
-    jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
-    V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
-    SSRS ir Lietuvos savitarpio pagalbos sutartis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija
-    jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
-    V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
-    SSRS ir Lietuvos savitarpio pagalbos sutartis. Nors paktas minėjo Lietu-
-    vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių
-    santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
-    nepriklausomybei. Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi
-    ir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje
-    teritorijos, o už tai turėjo įsileisti karines sovietų bazes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi
-    ir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje
-    teritorijos, o už tai turėjo įsileisti karines sovietų bazes. Berlynas ir Mas-
-    kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,
-    1941 m. sausio 10 d. SSRS pagal dar vieną slaptą protokolą jas nusipirks iš
-    Vokietijos už 7,5 mln. aukso dolerių).
-    Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
-    va prarado neutralios politikos statusą ir dalį suvereniteto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -186,8 +108,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75300
     - t-75296
+    - t-75300
 
 - id: c-23263
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

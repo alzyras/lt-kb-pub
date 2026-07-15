@@ -63,47 +63,6 @@ Nenurodyta
   teiginys: "Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai."
   pagrindžia:
     - c-176794
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šventaragio slėnyje tarp Vilijos ir Vilnelės degė amžinoji ugnis Gabija, kurią lietuviai labai garbino.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Reikš­
-    mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
-    tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų
-    senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija,
-    didžiai garbinama lietuvių. Čia pat medinė šventykla, prie
-    kurios šliejosi pagonių vaidilų būstai. Tolėliau, toje vietoje,
-    kur dabar stovi katedra, stūksojo negrabus dievo Perkūno
-    stabas, pastatytas ant akmeninės pakylos. Aplink tą aikštę,
-    senosios religijos apeigoms parinktą, tęsėsi plačiai išsklidę Že­
-    mutinės pilies pastatai, daugiausia mediniai, bet aukštais
-    bokštais ir palisadais apjuosti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
-    po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­
-    mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
-    griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
-    liavietės, pradėta statyti Šv. Stanislovo katedra8.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

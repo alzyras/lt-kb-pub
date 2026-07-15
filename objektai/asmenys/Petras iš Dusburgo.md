@@ -26,14 +26,14 @@ media_all_json: |-
 
 ## Santrauka
 
-Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.
+Kojelavičius rašė, kad Petras iš Dusburgo tvirtino Palemoną paskyrus Romanovą vyriausiajam žyniui tikėjimui saugoti.
 
 ## Teiginiai
 
 <a id="claim-t-186246"></a>
 - t-001
   global_id: t-186246
-  teiginys: "Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti."
+  teiginys: "Kojelavičius rašė, kad Petras iš Dusburgo tvirtino Palemoną paskyrus Romanovą vyriausiajam žyniui tikėjimui saugoti."
   pagrindžia:
     - c-169607
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64224|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Verneriui iš Orzelno kronikos reikėjo Ordinui keltiems priekaištams atremti ir vidaus reformai įgyvendinti.
@@ -89,36 +89,12 @@ Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausia
 - susijęs iš [[objektai/zodynas/viešpaties darbas opus domini.md#claim-t-58939|viešpaties darbas opus domini]]: Petras Dusburgietis Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą „iš dievo malonės“ ir „viešpaties darbą“.
 - susijęs iš [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta.md#claim-t-184020|viešpaties dievo kariuomenė dievo tauta]]: Petras Dusburgietis Ordino veiksmus teisino krikščionybės platinimu ir vadino Ordino brolius „dievo tauta“.
 - susijęs iš [[objektai/zodynas/viešpaties karas.md#claim-t-58941|viešpaties karas]]: Petras Dusburgietis užkariavimus ir žudynes „viešpaties kare“ vaizdavo kaip šventus Ordino riterių veiksmus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie­
-    tuvoje daugelio dievų garbinimo: senąsias apeigas jis
-    dargi papildė naujais prietarais. Jis pirmąją Lietuvos
-    sodybą Romanovą paskyrė vyriausiajam žyniui, tu­
-    rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis
-    šimtmečius surašytame veikale Petras iš Dusburgo, Li­
-    vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų
-    laikų nei mūsų. Rodos, Palemono laikais įvyko atmin­
-    tinas mūšis, kuriame rusai sumušė jotvingius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-169607
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 60"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 60."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie­
     tuvoje daugelio dievų garbinimo: senąsias apeigas jis

@@ -44,25 +44,6 @@ media_all_json: |-
   teiginys: "Dieboldo Schillingo Berno kronikoje yra vienas ankstyviausių Žalgirio mūšį vaizduojančių piešinių."
   pagrindžia:
     - c-41655
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prieš kovą
-
-    Žalgirio mūšis. Vienas ankstyviausių piešinių, vaizduojančių Žalgirio mūšį, iš XV a. (apie 1430-1486) iš šveicarų
-    Dieboldo Schillingo Berno kronikos. Kronikoje pavaizduoti žymesni mūšiai, kuriuose dalyvavo šveicarų samdiniai
-
-    palijus, sudrėko parakas, todėl patrankų
-    vaidmuo mūšyje buvo menkas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

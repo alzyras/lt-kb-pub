@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - karalius
   - tauta
 amziai:
   - 'XV'
@@ -35,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Čekai jo metu nebuvo Lietuvai svetimi žmonės. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje. Ši kartą ją patiekė Vytautui jau pažįstama slavių tauta — čekai, kurie, mirus jų karaliui Vaclovui (1419), nepri­ pažino karalium jo brolio — ciesoriaus Zigmanto, iniciatoriaus Konstancijos susirinkimo, pasmerkusio jų tautietį Husą.
+Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje. Čekų kunigai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte. 1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą.
 
 ## Teiginiai
 
@@ -45,6 +46,7 @@ media_all_json: |-
   teiginys: "Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje."
   pagrindžia:
     - c-36971
+    - c-167612
 
 <a id="claim-t-50767"></a>
 - t-002
@@ -67,32 +69,29 @@ media_all_json: |-
   pagrindžia:
     - c-36974
 
-<a id="claim-t-184228"></a>
-- t-005
-  global_id: t-184228
-  teiginys: "Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje."
-  pagrindžia:
-    - c-167612
-
-<a id="claim-t-184589"></a>
-- t-006
-  global_id: t-184589
-  teiginys: "Kilus tikybiniams nesutarimams, čekai atsisakė klausyti Romos bažnyčios, maištavo prieš savo karalių ir ieškojo paramos kaimyninėse šalyse."
-  pagrindžia:
-    - c-167950
-
 <a id="claim-t-184590"></a>
-- t-007
+- t-005
   global_id: t-184590
   teiginys: "Čekai neišsižadėjo sumanymo ir antrą kartą siuntė pasiuntinius bandyti palenkti Jogailą bei Vytautą."
   pagrindžia:
     - c-167951
+
+<a id="claim-t-196128"></a>
+- t-006
+  global_id: t-196128
+  teiginys: "Kojelavičiaus pasakojime, kilus tikybiniams nesutarimams, čekai atsisakė klausyti Romos bažnyčios, maištavo prieš karalių ir ieškojo kaimynų paramos prieš imperatorių."
+  pagrindžia:
+    - c-178547
+
+<a id="claim-t-196129"></a>
+- t-007
+  global_id: t-196129
+  teiginys: "Kojelavičiaus pasakojime čekai, po Jogailos ir Vytauto atsisakymo, toliau siekė juos palenkti, manydami, kad karaliaus vainiko troškimas įveiks atkaklumą."
+  pagrindžia:
+    - c-178548
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176882|Zigmantas Liuksemburgietis]]: Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176307|Algirdas (Lietuvos valdovas)]]: Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.
-- susijęs iš [[objektai/asmenys/Lada.md#claim-t-186231|Lada]]: Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusigauti į Maskvą, bet pasienyje buvo sugautas.
 - susijęs iš [[objektai/asmenys/Martynas iš Opavos.md#claim-t-60385|Martynas iš Opavos (arkivyskupas, XIII a.)]]: Martynas iš Opavos, čekų vienuolis, 1278 m. buvo paskirtas Gnezno arkivyskupu, bet mirė ten nenuvykęs.
 - susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176652|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176671|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. Vytautas į Prahą pasiuntė savo sūnėną Žygimantą Kaributaitį kaip čekų pageidaujamą valdovą.
 - susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176867|Zigmantas Kaributas]]: Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.
 - susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176869|Zigmantas Kaributas]]: Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.
@@ -138,7 +137,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Russdorfas.md#claim-t-35271|Russdorfas]]: Russdorfas buvo numatytos sąjungos su Vytautu ir Zigmantu dalyvis; ši sąjunga turėjo būti nukreipta prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Vaclovas (čekų kunigaikštis).md#claim-t-60455|Vaclovas (čekų kunigaikštis)]]: Dusburgiečio pasakojime šventas čekų kunigaikštis Vaclovas išpranašavo Danijos karaliaus Henriko nužudymą.
 - susijęs iš [[objektai/asmenys/Vaclovas Pragiečius.md#claim-t-34763|Vaclovas Pragiečius]]: Čekų karaliui Vaclovui įsikišus, tarp kariaujančių pusių buvo sudarytos vienų metų paliaubos.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176660|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Žalgirio mūšio metu Vytautas Didysis pats vedė savo kariuomenę ir vadovavo visai sąjunginei kariuomenei.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176730|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. Vytautas pasiuntė į Prahą savo sūnėną Žygimantą Kaributaitį kaip pageidaujamą valdovą.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176850|Zbignievas Olesnickis]]: Krokuvos vyskupas Zbignievas Olesnickis buvo įtakingas karaliaus dvare ir priešinosi nepriklausomai Vytauto politikai.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176852|Zbignievas Olesnickis]]: Krokuvos vyskupas Zbignievas Olesnickis karaliaus dvare įgijo daug įtakos ir buvo laikomas nepriklausomos Vytauto politikos priešininku.
@@ -168,7 +166,7 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171400|Totoriai]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171430|Totoriai]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis.
 - susijęs iš [[objektai/grupes/Tverės ir Riazanės kunigaikščiai.md#claim-t-86772|Tverės ir Riazanės kunigaikščiai]]: 1430 m. Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185602|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Karalius, labiau troškęs taikos nei karo, sutiko su kryžiuočiais sudaryti paliaubas iki kitų metų birželio.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185602|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kojelavičiaus vertinimu, karalius, labiau troškęs taikos nei karo, sutiko su kryžiuočiais sudaryti paliaubas iki kitų metų birželio.
 - susijęs iš [[objektai/ivykiai/Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.).md#claim-t-185816|Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.)]]: 1421 m. Vytautas sušaukė Lietuvos luomų seimą ir, visiems pritariant, parūpino valstybinius raštus dėl Medininkų vyskupystės.
 - susijęs iš [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.).md#claim-t-34558|Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]: Įsikišus Čekijos karaliui Vaclovui, kariaujančios pusės sudarė vienerių metų paliaubas.
 - susijęs iš [[objektai/ivykiai/Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.).md#claim-t-185675|Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)]]: Čekai, tikėdamiesi Jogailos ir Vytauto paramos prieš imperatorių Zigmantą, pasiūlė jiems Čekijos karaliaus vainiką.
@@ -205,7 +203,6 @@ media_all_json: |-
 - susijęs iš Ukmergė: Persekiojami priešininkai patyrė naują nesėkmę brastoje per Šventąją ties Ukmerge, kur daug jų kareivių nuskendo.
 - susijęs iš Ukmergė: Prie Šventosios brastos ties Ukmerge nugalėtojai persekiojo priešininką ir nuskandino daug jo kareivių.
 - susijęs iš Viktorijos upelis: Balińskis Viktorijos upelį apibūdino kaip mažą, bet vertą gražaus vardo.
-- susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
 - susijęs iš Žemaitija: Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
 - susijęs iš [[objektai/zodynas/Barstukai piktukai pursčiai pirštukai.md#claim-t-189115|Barstukai piktukai pursčiai pirštukai]]: Narbutas nurodė nuomonę, kad pirštukai (Pirsztuki) taip vadinti nuo žodžio „pirštas“, nes tos mitinės būtybės laikytos mažomis kaip pirštai.
 - susijęs iš [[objektai/zodynas/atskala.md#claim-t-185347|atskala]]: Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdovą, daugiau neremti husitų atskalos.
@@ -214,161 +211,12 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/grašis.md#claim-t-34260|grašis]]: Nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.
 - susijęs iš [[objektai/zodynas/karaliaus vainikas.md#claim-t-185349|karaliaus vainikas]]: Čekai pasiūlė Jogailai ir Vytautui Čekijos karaliaus vainiką, manydami, kad jie norės atkeršyti už pablogėjusius santykius.
 - susijęs iš [[objektai/zodynas/karaliaus vainikas.md#claim-t-185350|karaliaus vainikas]]: Čekai neišsižadėjo sumanymo ir antrą kartą siuntė žygūnus palenkti Jogailą bei Vytautą priimti karaliaus vainiką.
-- susijęs iš [[objektai/zodynas/karaliaus vainikas.md#claim-t-185351|karaliaus vainikas]]: Žygimantas, Dimitro Kaributaičio sūnus, apibūdintas kaip prityręs karvedys, galintis užsidėti bet kokios karalystės vainiką.
 - susijęs iš [[objektai/zodynas/rublis.md#claim-t-34275|rublis]]: Lietuvoje nuo Algirdo ir Kęstučio laikų kursavo Čekijos grašiai, kurių 60 sudarė vieną rublį.
 - susijęs iš [[objektai/ivykiai/Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra.md#claim-t-192023|Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra]]: Narbutas, remdamasis Foigtu ir vietiniais padavimais, Šv. Adalberto bažnytėlės pradžią sieja su XIII a. pabaiga, o mūrinę statybą – su 1422 m.
 - susijęs iš [[objektai/posakiai/„senesnė ir garbingesnė, negu lenkų“.md#claim-t-195047|„senesnė ir garbingesnė, negu lenkų“]]: Bychovco kronika Lietuvos bajorų kilmę ir garbę vaizduoja kaip viršesnę už lenkų.
-- susijęs iš [[objektai/posakiai/„senesnė ir garbingesnė, negu lenkų“.md#claim-t-195048|„senesnė ir garbingesnė, negu lenkų“]]: Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimuose iš LDK ir Lenkijos tarpusaviu santykių istorijos XV a.
 - susijęs iš Vilniaus pilys: Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą.
 - susijęs iš Vilniaus pilys: Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.
 - susijęs iš Vilniaus pilys: Po Vilniaus gaisrų susirūpinta senų Vilniaus pilies ir Katedros pastatų remontu bei atnaujinimu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Čekai jo metu nebuvo Lietuvai svetimi žmonės. Jų kuni­
-    gai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte.
-    Vienas čekų kunigas buvo Vilniaus kapituloje. Vytauto dvare
-    lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
-    nuvykęs skelbti katalikų tikėjimo Žemaitijoje dar prieš 1413 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
-    vietose, ypač Lenkijoje, kaip labiau išsilavinę, buvo mielai lai­
-    komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
-    mūšyje. Todėl kai Čekijoje pasklido Katalikų Bažnyčiai prie­
-    šingas Jono Huso mokslas, Konstancijos susirinkime pasmerk­
-    tas, per čekus jis ėmė skverbtis Lenkijon ir Lietuvon.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Čekai, nenustoję vilties, vėl išsiuntė
-    savo pasiuntinį Hinką iš Valdšteino, kurį Jogaila su Vytautu
-    priėmė 1421 m. Pirmiausia pasiuntinys pasiūlė karūną Jogai­
-    lai, kuris atsakė, kad tuo reikalu sušauksiąs Liubline seimą.
-    Čekai, nenorėdami laukti, kreipėsi tuojau į Vytautą, kuris pa­
-    siūlymą priėmė palankiai, nežiūrint to, kad Jogaila su tuo ne­
-    sutikęs. Tada čekai Kutnos Hožos seime (1421) ir išrinko
-    Vytautą savo karalium, kuris pasiuntė jiems savo vietininku
-    sūnėną Zigmantą Kaributą su keliolika tūkstančių kareivių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Vytautas atsisakė su čekais susijusio sumanymo, supratęs, kad husitų siūlyta karūna galėtų per brangiai kainuoti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pamatęs, kad jo jė­
-    gos nebesutinka su užsimojimais, jis atsisako nuo sumanymo:
-    taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­
-    lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos
-    mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti. Pastebė­
-    jęs, kad kuris pasirinktas kelias netinka, jis keičia kryptį, neat­
-    sisakydamas tuo nuo savo vyriausiųjų uždavinių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytauto dvare
-    lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
-    nuvykęs skelbti katalikų tikėjimo Žemaitijoje dar prieš 1413 m.
-    Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
-    vietose, ypač Lenkijoje, kaip labiau išsilavinę, buvo mielai lai­
-    komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
-    mūšyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Kilus tikybiniams nesutarimams, čekai atsisakė klausyti Romos bažnyčios, maištavo prieš savo karalių ir ieškojo paramos kaimyninėse šalyse.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Jogaila
-    1419 m e ta i
-    ir Vytautas, įsitikinę, jog len­
-    kų reikalavimai teisėti, neat­
-    metė šitokios galimybės ginčui išspręsti. Kai paaiškėjo,
-    kad imperatoriaus sprendimai nesiremia teisingumu,
-    kad jo skelbiamos ištarmės pažeidžia net moralės nor­
-    mas, jie atsisakė jo tarpinin-
-    1420 m e ta i
-    kavimo ir pasiryžo ginklu įro-
-    kilusių tikybinių nesutarimų čekai atsisakė klausyti
-    Romos bažnyčios, pradėjo atvirai maištauti prieš savo
-    karalių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­
-    myninėse šalyse jėgų, kuriomis galėtų remtis kovoje
-    prieš imperatoriaus galybę. Žinodami, kad pastarojo
-    Č ek a i siūlo karaliaus
-    v a in ik ą
-    Jog a ila i
-    ir
-    V y ta u tu i
-    šiaurėje bei rytuose ir paska­
-    tino kaimynus čekus, atsikra­
-    čius teisėto valdovo valdžios,
-    pasisiūlyti į valdinius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Čekai neišsižadėjo sumanymo ir antrą kartą siuntė pasiuntinius bandyti palenkti Jogailą bei Vytautą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Panašų atsakymą gavo jie ir iš
-    Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,
-    manydami, jog troškimas gauti karaliaus vainiką įveiks
-    kiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­
-    gūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­
-    dis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 ## Citatos
 
 - id: c-36970
@@ -464,17 +312,14 @@ media_all_json: |-
     komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
     mūšyje.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184228
-
-- id: c-167950
+- id: c-167951
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 398"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 398."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Jogaila
     1419 m e ta i
@@ -500,20 +345,63 @@ media_all_json: |-
     tino kaimynus čekus, atsikra­
     čius teisėto valdovo valdžios,
     pasisiūlyti į valdinius.
+  citata_rodoma: "Panašų atsakymą gavo jie ir iš\nVytauto. Tačiau čekai neišsižadėjo savo sumanymo,\nmanydami, jog troškimas gauti karaliaus vainiką įveiks\nkiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­\ngūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­\ndis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184589
+    - t-184590
 
-- id: c-167951
+- id: c-178547
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 399"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 399."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Panašų atsakymą gavo jie ir iš
+    Po šių žygių garsas apie Vytauto pergales pasklido
+    tarpu imperatorius Zigmantas
+    apsiėmė tarpininkauti ir išspręsti jau keletą metų už­
+    sitęsusį lenkų ir kryžiuočių ginčą dėl kurių ne kurių
+    žemių, nes, siaučiant dažnoms kovoms bei rietenoms,
+    vargu ar galima buvo kitaip nustelbti šio be galo dai­
+    gaus karo želmenį. Jogaila
+    1419 m e ta i
+    ir Vytautas, įsitikinę, jog len­
+    kų reikalavimai teisėti, neat­
+    metė šitokios galimybės ginčui išspręsti. Kai paaiškėjo,
+    kad imperatoriaus sprendimai nesiremia teisingumu,
+    kad jo skelbiamos ištarmės pažeidžia net moralės nor­
+    mas, jie atsisakė jo tarpinin-
+    1420 m e ta i
+    kavimo ir pasiryžo ginklu įro-
+    kilusių tikybinių nesutarimų čekai atsisakė klausyti
+    Romos bažnyčios, pradėjo atvirai maištauti prieš savo
+    karalių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­
+    myninėse šalyse jėgų, kuriomis galėtų remtis kovoje
+    prieš imperatoriaus galybę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196128
+
+- id: c-178548
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Jogaila,
+    ilgai neužlaikyda-
+    Ir vien a s, ir k ita s at-
+    mas pasiuntinių, čia pat atvi-
+    m eta
+    rai pareiškė esąs patenkintas
+    ta valdžia, kurią gavęs iš die­
+    vo, nieko neskriausdamas, o svetimų valdų visai ne­
+    trokštas. Jis nieku būdu negalįs nė įsivaizduoti, kad
+    galėtų būti karaliumi žmonių, nenorinčių paklusti baž­
+    nyčios įstatymams. Panašų atsakymą gavo jie ir iš
     Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,
     manydami, jog troškimas gauti karaliaus vainiką įveiks
     kiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­
@@ -524,4 +412,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184590
+    - t-196129

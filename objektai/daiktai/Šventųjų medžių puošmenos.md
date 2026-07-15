@@ -49,33 +49,13 @@ Nenurodyta
   teiginys: "Narbutas rašė, kad šventuosius medžius buvo įprasta puošti trofėjais, gėlių girliandomis ir degančiais žibintais."
   pagrindžia:
     - c-172643
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašė, kad šventuosius medžius buvo įprasta puošti trofėjais, gėlių girliandomis ir degančiais žibintais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šios meilės vaisius buvo dvejetas įpėdinių.
-    Lietuvių religija medžių atžvilgiu mokė tokio pat pamal­
-    dumo: ne vieną šito pavyzdį turime kronikose, pasakojimuo­
-    se, padavimuose ir liaudies dainose. Šventųjų medžių puoši­
-    mas trofėjais, gėlių girliandomis ir degančiais žibintais buvo
-    įprastas dalykas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172643
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 233"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 233."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šios meilės vaisius buvo dvejetas įpėdinių.
     Lietuvių religija medžių atžvilgiu mokė tokio pat pamal­

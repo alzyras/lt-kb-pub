@@ -35,47 +35,7 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
   teiginys: "Mindaugo sostapilio ieškota keliose Žemaičių vietose."
   pagrindžia:
     - c-28467
-
-<a id="claim-t-184358"></a>
-- t-002
-  global_id: t-184358
-  teiginys: "Mindaugo sostapilio ieškota keliose Žemaičių vietose."
-  pagrindžia:
     - c-167728
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ne mažesnės svarbos turi trečias klausimas, būtent, kur buvo
-    Mindaugo sostinė. Jo «sostapilio» jieškota net keliose Žemaičių
-    vietose. Specialiai tuo klausimu užsiėmė atskiruose straipsniuose
-    eilė istorijos tyrinėtojų ir jos mėgėjų^16.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Mindaugo sostapilio ieškota keliose Žemaičių vietose.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Taip pat neaišku, ar Mindaugas teturėjo
-    tik dvi dukteris, kurių viena tapo antrąja žmona Haličo Danieliaus,
-    o antra ištekėjo už šio sūnaus Švarno^15.
-    Ne mažesnės svarbos turi trečias klausimas, būtent, kur buvo
-    Mindaugo sostinė. Jo «sostapilio» jieškota net keliose Žemaičių
-    vietose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -110,5 +70,3 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184358

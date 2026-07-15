@@ -75,89 +75,22 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   teiginys: "Narbutas rašė, kad keliautojas Vulfstanas jau minėjo vietos ponus, turėjusius savarankiškas valdas."
   pagrindžia:
     - c-174793
+
+<a id="claim-t-197658"></a>
+- t-007
+  global_id: t-197658
+  teiginys: "Jei netu rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis nieko nežinotume apie šį miestą."
+  pagrindžia:
+    - c-173702
+
+<a id="claim-t-197659"></a>
+- t-008
+  global_id: t-197659
+  teiginys: "Apie juos jau rašė keliautojas Vulfstanas; jų karta išliko ligi šiol."
+  pagrindžia:
+    - c-174793
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tas prane-
-    šimas yra išlikęs iki mūsų laikų.
-    **Keliautojai** mums paliko savo kelionių aprašymų, iš kurių
-    taip pat šį tą sužinome apie aisčius. įdomiausiai minimi aisčiai
-    IX amž. jūrininko Vulfstano pasakojime. Buvęs Prūsuose,
-    jis gana smulkiai nupasakoja aisčių gyvenimo būdą ir papročius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas nurodo, kad pagal Vulfstano pasakojimą senovės prūsai kelis mėnesius namuose išlaikydavo mirusiųjų kūnus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Paga­
-    liau atrodo, kad kai kurie iš tų pilkapių būdavo naudojami
-    kaip visos šeimos kapai; pradedant juos pilti, būdavo galvoja­
-    ma apie vietas šeimos nariams, mirsiantiems vėliau6.
-    Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
-    panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
-    nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
-    kitame šio veikalo tome.
-    Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
-    prie didelių akmenų, esančių laukuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas pripažįsta, kad Vulfstanas ir kiti užsienio kronikininkai bei dokumentai nemini krivio.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Čia panagrinėsime dar trečią priekaištą, kuris galėjo būti
-    iškeltas prieš krivio buvimą Prūsijoje praeityje, tai yra kad vi­
-    siškas visų kitų istorijos šaltinių tylėjimas Dusburgiečio pra­
-    nešimą apie tą krivį daro labai abejotiną. Tai tiesa, kad joks
-    užsienio kronikininkas, joks istorijos šaltinis -  nei Vulfstanas,
-    nei Ditmaras Merzeburgiškis, nei Adomas Bremenietis, nei
-    Helmoldas, nei lenkų kronikininkai, nei jokie dokumentai nė
-    vienu žodžiu neužsimena apie krivį. Tačiau norint suvokti prie­
-    kaišto esmę, reikia visą dalyką panagrinėti šiek tiek iš arčiau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Teodoras Narbutas Vulfstaną vadino skandinavų keliautoju ir nurodė, kad šis Estijoje apsilankė IX amžiaus antrojoje pusėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Aprašinėdamas
-    prie Baltijos jūros esančius kraštus, kuriuos dėl senama­
-    diškų kaprizų vadina salomis, jis rašo: „Taip pat mums
-    pasakojo, kad toje jūroje esama daug kitų salų, kurių
-    viena
-    didžiulė vadinasi Estlandija1. Čia neminėsime
-    skandinavų keliautojo Vulfstano pasakojimo apie Estiją;
-    čia jis apsilankė IX amžiaus antrojoje pusėje. Apie tai
-    kalbėsime toliau aprašydami Lietuvos dalykus**.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-005
   santrauka: 'Teodoro Narbuto vertinimu, be Vulfstano aprašymų apie prekybinį Truso miestą prie Drūsinės ežero galbūt nieko nebūtų žinoma.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -219,8 +152,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 - id: c-171375
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 373"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Paga­
     liau atrodo, kad kai kurie iš tų pilkapių būdavo naudojami
@@ -242,14 +174,13 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 - id: c-171376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 421"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 421."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Čia panagrinėsime dar trečią priekaištą, kuris galėjo būti
     iškeltas prieš krivio buvimą Prūsijoje praeityje, tai yra kad vi­
     siškas visų kitų istorijos šaltinių tylėjimas Dusburgiečio pra­
     nešimą apie tą krivį daro labai abejotiną. Tai tiesa, kad joks
-    užsienio kronikininkas, joks istorijos šaltinis -  nei Vulfstanas,
+    užsienio kronikininkas, joks istorijos šaltinis - nei Vulfstanas,
     nei Ditmaras Merzeburgiškis, nei Adomas Bremenietis, nei
     Helmoldas, nei lenkų kronikininkai, nei jokie dokumentai nė
     vienu žodžiu neužsimena apie krivį. Tačiau norint suvokti prie­
@@ -264,8 +195,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 - id: c-173701
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 92."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Aprašinėdamas
     prie Baltijos jūros esančius kraštus, kuriuos dėl senama­
@@ -286,10 +216,12 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 - id: c-173702
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 357"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Daugiausiai dėmesio vertas šios
+    Ki­
+    ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
+    mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
+    gezanijos tėvo, vardą. Daugiausiai dėmesio vertas šios
     provincijos prekybinis miestas Trusas prie Drūsinės eže­
     ro, buvęs, ko gero, ten, kur vėliau buvo įkurtas Elblion-
     gas. Tačiau su tuo miestu susiję dalykai išnyksta prieš­
@@ -303,14 +235,17 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190820
+    - t-197658
 
 - id: c-174793
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 358"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 358."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Čia irgi nestigo ponų, turėjusių savaran­
+    Antra ap­
+    skritis buvo Kodinėnų valdos; tad įvairios aukštumos, nuo
+    senovės stovėjusios pilaitės galėjo priklausyti įvairiems
+    savininkams. Čia irgi nestigo ponų, turėjusių savaran­
     kiškas valdas. Apie juos jau rašė keliautojas Vulfstanas;
     jų karta išliko ligi šiol. Senovinė Kiedinių tvirtovė, kur
     vėliau įsikūrė vienuolynas, kita stovėjo tarp Tolkmito ir
@@ -321,3 +256,4 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191911
+    - t-197659

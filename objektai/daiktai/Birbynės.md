@@ -48,35 +48,19 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-186853"></a>
+<a id="claim-t-198530"></a>
 - t-001
-  global_id: t-186853
+  global_id: t-198530
   teiginys: "Kunigaikščio Mykolo kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės."
   pagrindžia:
-    - c-170036
-## Reikšmingi paminėjimai
+    - c-180538
 
-- c-001
-  santrauka: 'Kunigaikščio Mykolo kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Kunigaikš­
-    tis Mykolas !3, matydamas su didikais ir su visa kariuo­
-    mene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems
-    pulkams žengti abiem perėjimais per upę.
-    Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
-    gė per upę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
-- id: c-170036
+- id: c-180538
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   puslapiai: "PDF 169"
@@ -88,10 +72,10 @@ Nenurodyta
     pulkams žengti abiem perėjimais per upę.
     Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
     gė per upę.
-  citata_rodoma: "Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­\ngė per upę."
+  citata_rodoma: "Kunigaikš­\ntis Mykolas !3, matydamas su didikais ir su visa kariuo­\nmene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems \npulkams žengti abiem perėjimais per upę.\nIr, sutrimitavę trimitais ir užgroję birbynėmis žen­\ngė per upę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186853
+    - t-198530

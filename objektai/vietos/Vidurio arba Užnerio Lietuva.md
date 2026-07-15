@@ -35,8 +35,8 @@ Narbutas Pajautą vadino Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su
   teiginys: "Narbutas Pajautą vadino Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernave, dukterimi."
   pagrindžia:
     - c-171965
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Pajautą vadino Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernave, dukterimi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -69,19 +69,17 @@ Narbutas Pajautą vadino Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Nereikia tapatinti Medziojnos
-    su Medžiojma, kurią laikėme medžiotojų deive, vadinama
-    Laima.
-    154
-
-    ## Puslapis 154
-
-    Pajauta (Pojata)
-    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
-    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
-    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
-    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
-    šė paveldimą Kernavės kunigaikštystę.
+    nenustota jos garbinti. Strijkovskis pats sako: „Palangoje, prie
+    jūros, mačiau aukštą kalną, tos Birutės milžinkapį, kurį že­
+    maičiai bei kuršiai dar ir šiandien vadina šventos Birutės (Swis-
+    tos-Bimtos) kalnu ir dar iki šios dienos švenčia jos šventę ten,
+    toje vietoje, kur ir Romos katalikų kunigas atvažiuoja surink­
+    damas nemaža naudos iš žvakių ir aukų, nors nesuprantu, kaip
+    Dievas priima tas aukas, kadangi toji Birutė buvo stabmeldė“.
+    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
+    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
+    mėti ten visuomet stovi medinis kryžius.
+  citata_rodoma: "Nereikia tapatinti Medziojnos\nsu Medžiojma, kurią laikėme medžiotojų deive, vadinama\nLaima.\n154\n\n## Puslapis 154\n\nPajauta (Pojata)\nLietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­\nba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.\nTa kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-\nvinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­\nšė paveldimą Kernavės kunigaikštystę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

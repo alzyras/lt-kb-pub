@@ -50,30 +50,6 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
   teiginys: "Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją lietuvių kalba."
   pagrindžia:
     - c-163055
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nors ir neturėdamas dabar po kojomis savo gimtos Lietuvos
-    (Žemaičių) žemės, autorius čia į visą lietuvių tautos istoriją bando
-    žvelgti iš pačios Lietuvos ir vertinti faktus akimis palikuonių tos
-    tautos, kuri buvo tos istorijos nešėja.
-    Baigdamas nuoširdžiai dėkoju Lietuvių Fondo Valdybos pir­
-    mininkams (pp. Dr. A. Razmai, Dr. K. Ambrozaičiui), kad jie
-    pasiimdami Fondui finansinę naštą, įgalino mane realizuoti šią
-    mano gyvenimo testamentinę svajonę — duoti savo tautai gimtąja
-    kalba Lietuvos istoriją, kaip aš ją iš savo ilgamečių kitų tyrinėji­
-    mų studijų, atitinkamų šaltinių ir dėstymo aukštosiose mokyklose
-    esu apčiuopęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -99,5 +75,5 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179349
     - t-05265
+    - t-179349

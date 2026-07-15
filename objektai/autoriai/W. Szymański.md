@@ -43,21 +43,6 @@ Szymański, W.
   teiginys: "W. Szymański 1958 m. Poznanėje išleido veikalą „Kontakty handlowe Wielkopolski w IX-XI w.“."
   pagrindžia:
     - c-33202
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Pobłocki, L. : _Kritische Beiträge zur ältesten Geschichte Litauens,_ atsp.
-    iš AM, XVII, 1870. — Szymański, W. : _Kontakty handlowe Wielkopolski
-    w IX-XI w._ Poznań 1958.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

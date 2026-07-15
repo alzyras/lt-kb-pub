@@ -5,9 +5,9 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1609 m.'
-  - '1657 m.'
+  - '1677 m.'
 date_start: '1609'
-date_end: '1657'
+date_end: '1677'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -34,125 +34,62 @@ media_all_json: |-
 
 ## Santrauka
 
-Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelavičiaus biografija rodosi labai nesudė tinga. Kojelavičius dalyvavo ordino narių susirinkime Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio tiniu.
+1644 m. Albertas Vijūkas-Kojelavičius buvo išsiųstas į Braunsbergą dėstyti teologijos. Kojelavičius dalyvavo ordino narių susirinkime Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio tiniu. Biografijos aptarime daroma prielaida, kad jėzuitų ordino vadovybei Albertas Vijūkas-Kojelavičius galėjo būti nepageidautinas.
 
 ## Teiginiai
 
-<a id="claim-t-193493"></a>
-- t-001
-  global_id: t-193493
-  teiginys: "Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai."
-  pagrindžia:
-    - c-176184
-
 <a id="claim-t-193494"></a>
-- t-002
+- t-001
   global_id: t-193494
-  teiginys: "Kojelavičiaus biografija rodosi labai nesudė tinga."
+  teiginys: "1644 m. Albertas Vijūkas-Kojelavičius buvo išsiųstas į Braunsbergą dėstyti teologijos."
   pagrindžia:
     - c-176185
 
 <a id="claim-t-193495"></a>
-- t-003
+- t-002
   global_id: t-193495
   teiginys: "Kojelavičius dalyvavo ordino narių susirinkime Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio tiniu."
   pagrindžia:
     - c-176186
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    A. Kojelavičius savo istoriją rašė pusamžiu vėliau
-    negu jo pirmtakai. Chronologiškai ir idėjiškai nebe­
-    priklausydamas Renesanso kultūrai, jis neatskiriamas
-    nuo M. Strijkovskio istorinių faktų pateikimu ir dau­
-    gelio jų aiškinimu. Šito pats neslepia, prisipažindamas,
-    kad ,,Lietuvos istorija"— ne originalus veikalas: kaip
-    pagrindiniu žinių šaltiniu, ji paremta M. Strijkovskio
-    kronika, jis ją esą literatūriškai ir idėjiškai perdirbęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196403"></a>
+- t-003
+  global_id: t-196403
+  teiginys: "Biografijos aptarime daroma prielaida, kad jėzuitų ordino vadovybei Albertas Vijūkas-Kojelavičius galėjo būti nepageidautinas."
   pagrindžia:
-    - t-001
+    - c-176186
 
-- c-002
-  santrauka: 'Kojelavičiaus biografija rodosi labai nesudė tinga.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    „Lietuvos istorijos" atsiradimas glaudžiai susijęs su
-    Vilniaus aukštąja mokykla, vadinta dvigubu akademi­
-    jos ir universiteto vardu, kurios profesoriumi A. Koje­
-    lavičius buvo ir kurios studentams skyrė savo veikalą.
-    Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
-    tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­
-    no.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196404"></a>
+- t-004
+  global_id: t-196404
+  teiginys: "Antrąjį „Lietuvos istorijos“ tomą Albertas Vijūkas-Kojelavičius paskyrė Kazimierui Jonui Sapiegai."
   pagrindžia:
-    - t-002
+    - c-178662
 
-- c-003
-  santrauka: 'Kojelavičius dalyvavo ordino narių susirinkime Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio tiniu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    1655 m., prasidėjus Rusijos ir Švedijos kariuomenių
-    okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.
-    A. Kojelavičius dalyvavo ordino narių susirinkime
-    Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio­
-    tiniu. Jos reikalais važinėjo į Romą! Po 1657 m. pa­
-    liaubų jis jau vėl Vilniuje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196405"></a>
+- t-005
+  global_id: t-196405
+  teiginys: "Kojelavičius, katalikybės ideologas, sprendė pago niškų valdovų santykius su krikščionimis?"
   pagrindžia:
-    - t-003
+    - c-178663
 
 ## Citatos
-
-- id: c-176184
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 4"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 4."
-  citata_originali: |
-    A. Kojelavičius savo istoriją rašė pusamžiu vėliau
-    negu jo pirmtakai. Chronologiškai ir idėjiškai nebe­
-    priklausydamas Renesanso kultūrai, jis neatskiriamas
-    nuo M. Strijkovskio istorinių faktų pateikimu ir dau­
-    gelio jų aiškinimu. Šito pats neslepia, prisipažindamas,
-    kad ,,Lietuvos istorija"— ne originalus veikalas: kaip
-    pagrindiniu žinių šaltiniu, ji paremta M. Strijkovskio
-    kronika, jis ją esą literatūriškai ir idėjiškai perdirbęs.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193493
 
 - id: c-176185
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 5"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 5."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    „Lietuvos istorijos" atsiradimas glaudžiai susijęs su
-    Vilniaus aukštąja mokykla, vadinta dvigubu akademi­
-    jos ir universiteto vardu, kurios profesoriumi A. Koje­
-    lavičius buvo ir kurios studentams skyrė savo veikalą.
-    Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
-    tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­
-    no.
+    Gyvendamas Vilniuje, lankėsi
+    Kaune ir rūpinosi jėzuitų kolegijos įsteigimu šiame,
+    galima sakyti, gimtajame mieste. Kartu su broliu, taip
+    pat Akademijos profesoriumi, jis užrašė šiai kolegijai
+    paveldėtą turtą.
+    1644 m. A. Kojelavičius siunčiamas į Braunsbergą
+    dėstyti teologijos. Šiame Varmijos mieste kardinolas
+    Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne­
+    trukus pasidariusią svarbia jėzuitų atrama.
+  citata_rodoma: "„Lietuvos istorijos\" atsiradimas glaudžiai susijęs su\nVilniaus aukštąja mokykla, vadinta dvigubu akademi­\njos ir universiteto vardu, kurios profesoriumi A. Koje­\nlavičius buvo ir kurios studentams skyrė savo veikalą.\nŠiaip A. Kojelavičiaus biografija rodosi labai nesudė­\ntinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­\nno."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -163,18 +100,59 @@ Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelav
 - id: c-176186
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 6."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    1655 m., prasidėjus Rusijos ir Švedijos kariuomenių
-    okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.
-    A. Kojelavičius dalyvavo ordino narių susirinkime
-    Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio­
-    tiniu. Jos reikalais važinėjo į Romą! Po 1657 m. pa­
-    liaubų jis jau vėl Vilniuje.
+    Po to iškel­
+    dinamas į Varšuvą ir paskiriamas jėzuitų namų viršinin­
+    ku bei kolegijos kunigu. Varšuvoje jis 1677 m. ir
+    mirė.
+    Toks ordino vadovybės elgesys su savo' nariu, tu­
+    rinčiu aukščiausius mokslo laipsnius ir didelę pedago­
+    ginę patirtį, verčia daryti prielaidą, kad šis iš Vijūkų
+    kilęs bajorėlis galėjo būti jai kuo nors nepageidautinas.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193495
+    - t-196403
+
+- id: c-178662
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Cenzoriai neskaitė autoriaus pirmo ir antro tomų
+    dedikacijų Sapiegoms. Antrą tomą A. Kojelavičius pa­
+    skyrė Kazimierui Jonui, pirmojo, jau mirusio, dėdei.
+    Iš dedikacijų teksto, kupino įprastinio gražbyliavimo,
+    matyti A. Kojelavičiaus pažiūros į Lietuvos ir Lenkijos
+    santykius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196404
+
+- id: c-178663
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Lietuvos valstybė nuo pat jos atsiradimo 150 metų
+    buvo pagoniška, o jos valdovai — didieji kunigaikš­
+    čiai— pagonys. Jie kariavo su krikščioniškomis vals­
+    tybėmis, nepaklusdami katalikų bažnyčiai, vadovauja­
+    mai popiežiaus. Kryžiuočiai ir kalavijuočiai savo karus
+    prieš Pabaltijo tautas teisino krikščionybės platinimu
+    tarp pagonių barbarų, popiežius juos rėmė. Kaipgi
+    A. Kojelavičius, katalikybės ideologas, sprendė pago­
+    niškų valdovų santykius su krikščionimis?
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196405

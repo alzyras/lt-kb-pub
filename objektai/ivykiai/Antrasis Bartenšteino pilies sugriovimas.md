@@ -51,50 +51,20 @@ Nenurodyta
   teiginys: "Sūduviai staiga apsiautė Bartenšteino pilį, sugriovė ją, gyventojus išžudė arba išsivarė į nelaisvę ir pilį pavertė pelenais."
   pagrindžia:
     - c-62664
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sūduviai staiga apsiautė Bartenšteino pilį, sugriovė ją, gyventojus išžudė arba išsivarė į nelaisvę ir pilį pavertė pelenais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
-
-      Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
-    labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,
-    broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į
-    nelaisvę visus gyventojus, ir net pelenais pavertė.
-
-
-
-
-          174 (169).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-62664
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
-
-      Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
+    Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
     labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,
-    broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į
+    broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę į
     nelaisvę visus gyventojus, ir net pelenais pavertė.
-
-
-
-
-          174 (169).
+    174 (169).
   citata_rodoma: "173 (168). Apie antrąjį Bartenšteino pilies sugriovimą\n\n  Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,\nlabai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,\nbroliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į\nnelaisvę visus gyventojus, ir net pelenais pavertė.\n\n\n\n\n      174 (169)."
   statusas: verified
   teiginio_tipas: faktas

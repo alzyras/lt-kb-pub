@@ -7,16 +7,16 @@ datos:
   - '1316 m.'
 date_start: '1316'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
   - vyskupas
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -71,58 +71,6 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - susijęs iš Gedimino pilis (pilis): Fridrichas iš Libencelės su 150 vyrų slapta priėjo prie Gedimino pilies, bet įspėti pilėnai pilį apgynė.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58779|papilys]]: 1317 m. Fridrichas iš Libencelės nesėkmingai bandė paimti Gedimino pilį, tačiau Ordino broliams pavyko sudeginti jos papilį.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1316 m. Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų išžudė Bisenės pilies sargybą keitusius lietuvius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    328 (321). Apie 80 lietuvių žūtį 1316 metais
-
-      Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
-    60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,
-    turėjo iš čia pasitraukti, o  į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
-    išskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.
-
-
-
-
-                 329 (322).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais ir tuo pat laiku Eberhardas,
-    Varmės vyskupas, brolio Fridricho iš Libencelės, savo fogto, pastangomis pastatydino
-
-
-    pagonis lietuvius, nors turime duomenų, jog patys kryžiuočiai siaubė krikščionių žemes,
-    netgi vyskupų valdas (žr. D. papildymus, 13 ir paaiškinimus).
-      584 D.— Rositen, Jer.— Rosîten; dab. Rezeknė, miestas Latgaloje į šiaurės rytus nuo
-    Daugpilio.
-      585  Dusburgietis,  tendencingai neigdamas Gedimino  laiškų  buvimą,  stengiasi
-    sumenkinti ir diskredituoti sėkmingą Lietuvos DK diplomatinę kovą prieš Ordino agresiją.
-    Apie Gedimino laiškus žr. GL, p. 7—18 (Pašuta V.), Jakštas J., Vokiečių ordinas..., 2, p.
-    6—32; Lietuvių karas..., p. 208—210 (Sideravičius K.).
-
-    Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje586; kai ši pilis jau buvo baigta,
-    kai buvo iškilmingai giedamos mišios į šventąją dvasią, per evangeliją pasirodė vienas
-    baltas baltutėlis naminis balandis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-003
   santrauka: 'Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -172,20 +120,14 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - id: c-60585
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 212"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     328 (321). Apie 80 lietuvių žūtį 1316 metais
-
-      Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
+    Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
     60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,
-    turėjo iš čia pasitraukti, o  į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
+    turėjo iš čia pasitraukti, o į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
     išskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.
-
-
-
-
-                 329 (322).
+    329 (322).
   citata_rodoma: "Apie 80 lietuvių žūtį 1316 metais\n\n  Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir\n60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,\nturėjo iš čia pasitraukti, o  į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,\nišskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.\n\n\n\n\n             329 (322)."
   statusas: verified
   teiginio_tipas: faktas
@@ -197,8 +139,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - id: c-60586
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 222-223"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 222-223."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tais pačiais metais ir tuo pat laiku Eberhardas,
     Varmės vyskupas, brolio Fridricho iš Libencelės, savo fogto, pastangomis pastatydino
@@ -226,9 +167,9 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - id: c-60587
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 213"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
     Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
     broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę
     į keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti
@@ -237,7 +178,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
     apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
     Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
-    ir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais
+    ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais
     kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
     nelaisvę, o daugybę vyrų nukovė.
   citata_rodoma: "Antra\nkariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150\nvyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu\napie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.\nTrečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo\nir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais\nkaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į\nnelaisvę, o daugybę vyrų nukovė."
@@ -251,18 +192,20 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - id: c-60588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 189"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vis dėlto anksčiau, nei jis subūrė brolių kariuomenę  ir ją išdėstė įvairiose
-    vietose, notangai, piktosios dvasios sukurstyti, dar kartą pakluso senam įsiūčiui ir iš
-    neapykantos Jėzui Kristui vėl padarė atskalūnybės nuodėmę, o savo kariuomenės vadu
-    išsirinko vyrą, vardu Sabinas. Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,
-    Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,
-    taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė  į
-    Bartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš
-    Libencelės su visa jų šeimyna. Tuo tarpu Misinas su Sklunijos valsčiaus547 vyrais pagrobė
-    Karaliaučiaus brolių arklius.
+    Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto
+    dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,
+    taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir
+    patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei
+    išlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o
+    ją pačią, pakišę ugnį, ligi pamatu sudegino.
+    266 (259). Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
+    1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe
+    brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias
+    pėdas; jomis nusekė su būreliu ginklanešių brolis Valteris, pravarde Goldinas, ir visus
+    išžudė, išskyrus vieną, kuris bėgdamas nusigavo iki brolio Henriko iš Vederės ir sunkiai
+    jį sužeidė, vis dėlto sulaukdamas deramo atkirčio, nes brolis Henrikas jį mirtinai sužeidė.
   citata_rodoma: "Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,\nTrinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,\ntaip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė  į\nBartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš\nLibencelės su visa jų šeimyna. Tuo tarpu Misinas su Sklunijos valsčiaus547 vyrais pagrobė\nKaraliaučiaus brolių arklius."
   statusas: verified
   teiginio_tipas: faktas

@@ -50,27 +50,6 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
   pagrindžia:
     - c-166123
 - susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nuvykęs Vakarų Europon buvo Romos cieso­
-    riaus Karolio IV pakeltas imperijos kunigaikščiu ir gyveno jo dvare (1369
-    —81), paprastai vadinamas „lietuvių karaliumi Henriku”. Bu­
-    tauto sūnus Vaidotas, turėdamas vos šešioliką metų, taip pat
-    pabėgo iš savo senelio Kęstučio globos į Prūsus (1381 m.), iš kur
-    nuvyko pas ciesorių, norėdamas priimti krikštą^2 ). Kitus Kęstu­
-    čio sūnus mes vėliau minėsime sąryšyje su politiniais įvykiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-166123
@@ -92,8 +71,8 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182707
     - t-182705
+    - t-182707
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Butautas]]

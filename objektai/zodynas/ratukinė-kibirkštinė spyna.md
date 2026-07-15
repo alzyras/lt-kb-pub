@@ -35,27 +35,6 @@ pradžioje buvo sukurta ratukinė-kibirkštinė spyna.
   teiginys: "XVI a. pradžioje sukurta ratukinė-kibirkštinė spyna veikė be rusenančios dagties."
   pagrindžia:
     - c-44213
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Siekdamas atsivi-
-    lioti švedų pajėgas, Lietuvos
-    didysis etmonas buvo
-
-    xvI a. pradžioje buvo sukurta ratukinė-kibirkštinė spyna. Šiam me-
-    chanizmui nereikėjo rusenančios dagties. Ratukinių-kibirkštinių
-    spynų atsiradimas davė postūmį trumpų šaunamųjų ginklų - pis-
-    toletų raidai. Jie buvo labai patogūs kavaleristams ir laikui bėgant
-    tapo svarbiausiais Europos raitelių ginklais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -50,8 +50,8 @@ Nenurodyta
   teiginys: "Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo sužieduotuvių žiedą."
   pagrindžia:
     - c-177336
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo sužieduotuvių žiedą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -76,8 +76,7 @@ Nenurodyta
 - id: c-177336
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 310"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 310."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tuo pasipiktinęs barbaras įsakė viešai paskelbti, jog nuo
     tol laiko abu imperatorius savo belaisviais, o tuo tarpu
@@ -85,7 +84,12 @@ Nenurodyta
     Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio
     įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo
     sužieduotuvių žiedą. Taigi Atila pasinaudojo tuo: neva
-    jam nebuvo leista vesti imperatoriaus sesers.
+    jam nebuvo leista vesti imperatoriaus sesers. 450 me­
+    tais jis su savo kariuomene pajudėjo į vakarus. Sis ka­
+    riūnas, nekliudomas ir greitai eidamas hunų, rugių, ge-
+    pidų, turingių, frankų, herulų ir skiriu priekyje, persikė­
+    lė per Reiną ir niokojo viską pakeliui net ikį Orleano.
+  citata_rodoma: "Tuo pasipiktinęs barbaras įsakė viešai paskelbti, jog nuo\ntol laiko abu imperatorius savo belaisviais, o tuo tarpu\nlaukė patogios progos užpulti Romą ar Konstantinopolį.\nTam padėjo Valentiniano III sesuo Honorija, kuri, brolio\nįkalinta vienuolyne, slapta nusiuntė hunų karaliui savo\nsužieduotuvių žiedą. Taigi Atila pasinaudojo tuo: neva\njam nebuvo leista vesti imperatoriaus sesers."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

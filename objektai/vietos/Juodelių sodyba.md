@@ -41,31 +41,6 @@ Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris pr
   teiginys: "Per kautynes Juozas Kemeklis-Rokas išsiveržė iš bunkerio, prasiveržė pro apsupimą ir atbėgo į Pamaleišio kaimo Juodelių sodybą."
   pagrindžia:
     - c-45115
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Per kautynes Juozas Kemeklis-Rokas išsiveržė iš bunkerio, prasiveržė pro apsupimą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kautynių metu iš bunkerio pavyko išsiveržti
-    Juozui Kemekliui-Rokui, kuris prasiveržė
-    per apsupimo žiedą ir atbėgo į Pamaleišio
-    kaimo Juodelių sodybą. Čia sodybos šeimi-
-    ninkams papasakojo, kad iš balso atpažino šį
-    bunkerį išdavusį Vladą Karosą-Vilką, suimtą
-    Tarzano bunkeryje prie Denionių ežero.
-
-    Mūšio padariniai
-    Didžiausias laisvės kovotojų ir NKVD susi-
-    rėmimas įvyko 1949 m. lapkričio 1-2 dieno-
-    mis, kai partizanų bunkeriai buvo išduoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

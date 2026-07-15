@@ -61,28 +61,6 @@ Nenurodyta
   teiginys: "1528 m. lapkričio 17 d. Lietuvos seime posėdžiavo tik senatoriai, prelatai ir kunigaikščiai, kai buvo paskelbtas pirmasis Lietuvos Statutas."
   pagrindžia:
     - c-83277
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1528 m. lapkričio 17 d. Lietuvos seime posėdžiavo tik senatoriai, prelatai ir kunigaikščiai, kai buvo paskelbtas pirmasis Lietuvos Statutas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1528 metų sausio 20 dieną karalius pasirašė Žemaičių
-    žemei atskirą įstatymą, garantuojantį jos teises ir privilegi­
-    jas. 1528 metų lapkričio 17 dieną Lietuvos seime, kur, pagal
-    anų laikų paprotį, posėdžiavo tiktai senatoriai, prelatai ir
-    kunigaikščiai, buvo paskelbtas pirmasis Lietuvos Statutas,
-    kuriame stengtasi suderinti gana skirtingus atskirų provin­
-    cijų įstatymus ir papročius. Tačiau šis Statutas tarnavo išim­
-    tinai tik šlėktų luomui, nes miestui kuo iškilmingiausiai bu­
-    vo garantuojamos Magdeburgo teisės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

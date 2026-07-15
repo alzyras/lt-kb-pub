@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas rašo, kad dailininkas Pjetras Rosis, remdamasis rankraščio aprašymu, nupiešė gotiško stiliaus šventyklą.
+Narbutas rašo, kad dailininkas Pjetras Rosis, remdamasis rankraščio aprašymu, nupiešė gotiško stiliaus šventyklą. Pjetras Rosis visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį.
 
 ## Teiginiai
 
@@ -34,42 +34,34 @@ Narbutas rašo, kad dailininkas Pjetras Rosis, remdamasis rankraščio aprašymu
   teiginys: "Narbutas rašo, kad dailininkas Pjetras Rosis, remdamasis rankraščio aprašymu, nupiešė gotiško stiliaus šventyklą."
   pagrindžia:
     - c-173082
+
+<a id="claim-t-197438"></a>
+- t-002
+  global_id: t-197438
+  teiginys: "Pjetras Rosis visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
+  pagrindžia:
+    - c-173082
 - susijęs iš Gucevičiaus popieriuose rastas rankraštis apie Mildos šventyklą: Pasak Narbuto, Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.
 - susijęs iš Kaunas: Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitosiomis kūrė Lietuvos karines pajėgas.
 - susijęs iš Kaunas: Narbutas rašo, kad Kaune buvo rastas deivės stabas, o atradimo smulkmenas jam papasakojo profesorius Laurinavičius.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad dailininkas Pjetras Rosis, remdamasis rankraščio aprašymu, nupiešė gotiško stiliaus šventyklą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Atsimenu tik tiek, kad šio padavimo pati­
-    kimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­
-    lininkas Pjetras Rosis nupiešė tą gotiško stiliaus šventyklą.
-    Kaune buvo rastas tos deivės stabas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-173082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Atsimenu tik tiek, kad šio padavimo pati­
-    kimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­
-    lininkas Pjetras Rosis nupiešė tą gotiško stiliaus šventyklą.
-    Kaune buvo rastas tos deivės stabas.
+    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
+    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
+    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
+    nepaprasto grožio vienatinę dukterį. Kartą pavasarį ji norėjo
+    pradžiuginti motiną ką tik pražydusiomis gėlėmis, kurias pro
+    karalienės rūmų langą pamatė žydinčias Rasos (Ross) upės
+    pakrantėje; tuo tikslu ji nepastebėta išbėgo iš rūmų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190199
+    - t-197438

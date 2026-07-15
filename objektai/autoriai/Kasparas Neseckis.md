@@ -34,8 +34,8 @@ Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma
   teiginys: "Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma „Niesecki Kasper“."
   pagrindžia:
     - c-174493
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma „Niesecki Kasper“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -62,13 +62,20 @@ Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Išnaša, kuria autorius papildė tekstą, rengdamas antrąjį LTI lei­
-    dimą (PEĮ. L. 273;'291). Cituojamas Kasparo Neseckio veikalas:
-    499
-
-    ## Puslapis 509
-
-    Niesecki Kasper.
+    Bychovco kro­
+    nika. Vilnius, 1971.
+    174 /Р. 321,
+    (1)
+    išnaša/
+    Turimas omenyje unitų bažnyčios istoriko Ignoto Kulčinskio (Kul-
+    czynski;
+    1707—1747)
+    veikalas
+    (Specimen
+    Ecclesiae Ruthenicae
+    ab origine suspectu fidei ad nostra usque tempora in sius ca-
+    pitibus seu primatibus Russiae cum S. Sede Apost.
+  citata_rodoma: "Išnaša, kuria autorius papildė tekstą, rengdamas antrąjį LTI lei­\ndimą (PEĮ. L. 273;'291). Cituojamas Kasparo Neseckio veikalas:\n499\n\n## Puslapis 509\n\nNiesecki Kasper."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

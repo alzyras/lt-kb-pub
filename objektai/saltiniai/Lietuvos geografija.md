@@ -35,23 +35,6 @@ media_all_json: |-
   teiginys: "„Lietuvos geografija“ buvo Lietuvos universiteto profesorių ir specialistų pripažinta tinkamu vadovėliu mokykloms."
   pagrindžia:
     - c-38419
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kaina Lt. 8, —
-    Yra tai vienintelis Lietuvos universiteto profesorių ir specialis­
-    tų pripažintas Lietuvos geografijos vadovėlis tinkamas mūsų mo­
-    kykloms.
-    21.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

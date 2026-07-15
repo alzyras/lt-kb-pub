@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos priešininkų, būtent: Zb. Olesnickį ir Joną Tarnovs­ kį. Jų tikslas buvo atitraukt Vytautą nuo karūnacijos.
+Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarnovskis buvo vienas iš Vytauto karūnacijos priešininkų, pasiųstų į Lietuvą atitraukti jį nuo karūnacijos.
 
 ## Teiginiai
 
@@ -45,70 +45,6 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
   teiginys: "Jonas Tarnovskis buvo vienas iš Vytauto karūnacijos priešininkų, pasiųstų į Lietuvą atitraukti jį nuo karūnacijos."
   pagrindžia:
     - c-36382
-
-<a id="claim-t-184742"></a>
-- t-003
-  global_id: t-184742
-  teiginys: "Jonui Tarnovskiui sutelkus daugiau jėgų, Valachijos kunigaikštis Petras prie Chotino paprašė taikos."
-  pagrindžia:
-    - c-168103
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­
-    rūnacijos priešininkų, būtent: Zb. Olesnickį ir Joną Tarnovs­
-    kį. Jų tikslas buvo atitraukt Vytautą nuo karūnacijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pastariesiems vadovavo
-    patyręs karys Jonušas Svierčiovskis.
-    Juos papildė Lenkijos karalystės pini-
-    gais suverbuoti žmonės ir lenkų riteriai
-    savanoriai (10 vėliavų), vadovaujami
-    Jono Tarnovskio (būsimo Lenkijos di-
-    džiojo etmono), visų pirma - karaliaus
-    dvarionys, kuriems vadovavo Albertas
-    (Vaitiekus) Sampolinskis. Jungtinę lietu-
-    vių ir lenkų kariuomenę, senųjų šaltinių
-    duomenimis, sudarė 30000 (ar 35000)
-    karių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Jonui Tarnovskiui sutelkus daugiau jėgų, Valachijos kunigaikštis Petras prie Chotino paprašė taikos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Neseniai sumušęs nedidelę lenkų kariauną, Petras,
-    Dakijos, arba Valachijos, kunigaikštis, visai prarado
-    saiko jausmą. Tačiau kai Tarnovskis sutraukė daugiau
-    jėgų, jo įžūlus išdidumas pamažu išgaravo. Apsupus
-    prie Dnestro Chotino tvirtovę, jis nuolankiai pasiprašė
-    taikos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -152,22 +88,3 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63736
-
-- id: c-168103
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 668"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 668."
-  citata_originali: |
-    Neseniai sumušęs nedidelę lenkų kariauną, Petras,
-    Dakijos, arba Valachijos, kunigaikštis, visai prarado
-    saiko jausmą. Tačiau kai Tarnovskis sutraukė daugiau
-    jėgų, jo įžūlus išdidumas pamažu išgaravo. Apsupus
-    prie Dnestro Chotino tvirtovę, jis nuolankiai pasiprašė
-    taikos.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184742

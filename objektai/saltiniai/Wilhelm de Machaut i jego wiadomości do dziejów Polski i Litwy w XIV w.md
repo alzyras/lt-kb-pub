@@ -40,21 +40,6 @@ media_all_json: |-
   teiginys: "„Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy w XIV w.“ paskelbta KH 43 tome 1929 m., p. 217–228."
   pagrindžia:
     - c-31881
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy w XIV w.“ paskelbta KH 43 tome 1929 m., p. 217–228.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — (”) _Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy
-    w XIV w.,_ KH, t. 43, 1929, 217-228 p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

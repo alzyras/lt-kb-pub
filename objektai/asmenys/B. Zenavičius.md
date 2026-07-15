@@ -42,46 +42,6 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
   teiginys: "Etmono svainis B. Zenavičius žuvo mūšyje su turkais."
   pagrindžia:
     - c-44304
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'B. Zenavičiaus LDK husarai iš dešinės atakavo puolančius turkus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    B. Zenavičiaus LDK husarai
-    atakavo puolančius turkus
-    “8 iš dešinės, o Kuchovičiaus iš
-    kairės. Jau sunkiai sergantis J. K. Chod-
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Etmono svainis B. Zenavičius žuvo mūšyje su turkais.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sutelkę
-    smarkią artilerijos ugnį, jie dar mėgino
-    užimti kazokų stovyklą, bet ir čia buvo at-
-    mušti. Šiame mūšyje žuvo etmono svainis
-    B. Zenavičius.
-
-    Rugsėjo 15 d. turkų kariuomenė, vado-
-    vaujama Budos pašos Karakašo dar kartą
-    bandė pulti, bet mūšio metu turkų vadui
-    į galvą pataikė kulka ir jo kariuomenė
-    pasitraukė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

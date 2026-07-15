@@ -34,31 +34,13 @@ Pretorijaus veikale „Preussische Schaubühne, sive Deliciae Prussiae“ nurody
   teiginys: "Pretorijaus veikale „Preussische Schaubühne, sive Deliciae Prussiae“ nurodyti dalykai iš dingusia laikytos Rozencveigo kronikos."
   pagrindžia:
     - c-174734
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pretorijaus veikale „Preussische Schaubühne, sive Deliciae Prussiae“ nurodyti dalykai iš dingusia laikytos Rozencveigo kronikos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    2 Pas Hartknochą.
-    3 Rozencveigo kronika šiandien laikoma dingusia; čia iš jos pa­
-    teikti dalykai yra Pretorijaus veikale (Preussische Schaubühne, sive
-    Deliciae Prussiae). Rankraščio originalas saugomas Berlyno archyve.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174734
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 46"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     2 Pas Hartknochą.
     3 Rozencveigo kronika šiandien laikoma dingusia; čia iš jos pa­

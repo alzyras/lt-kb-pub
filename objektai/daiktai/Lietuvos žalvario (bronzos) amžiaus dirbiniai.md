@@ -71,37 +71,6 @@ Nenurodyta
   teiginys: "Lietuvos žalvario amžiaus dirbinių sąraše minimi kirviai, kalavijai, iečių galai, papuošalai ir statulėlė."
   pagrindžia:
     - c-65516
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Prieš įsistiprinant Pabaltijyje bronzos amžiui (1600-500 m. pr.
-    Kr.)^9 , kai neolito šimtmečiais vario dirbiniai jau mažais kiekiais
-    buvo iš pietinių sričių importuojami, kalbama apie «chalkolito »
-    laikus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvos žalvario amžiaus dirbinių sąraše minimi kirviai, kalavijai, iečių galai, papuošalai ir statulėlė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Lietuvos žalvario (bronzos) amžiaus dirbiniai:**
-    1 — 10 kirviai, 11 — 13 kalavijai, 14, 19—21 iečių galai, 15—21 papuošalai,
-    statulėlė, 22, 24—31 kirviai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

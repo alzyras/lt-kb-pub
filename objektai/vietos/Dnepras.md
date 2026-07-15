@@ -34,107 +34,121 @@ media_all_json: |-
 
 ## Santrauka
 
-Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai. Lietuviams nugalėjus, daug bėgančių priešų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose. Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.
+Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų. Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais. Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono.
 
 ## Teiginiai
 
-<a id="claim-t-185234"></a>
-- t-001
-  global_id: t-185234
-  teiginys: "Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai."
-  pagrindžia:
-    - c-168595
-
-<a id="claim-t-185235"></a>
-- t-002
-  global_id: t-185235
-  teiginys: "Lietuviams nugalėjus, daug bėgančių priešų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose."
-  pagrindžia:
-    - c-168596
-
 <a id="claim-t-185236"></a>
-- t-003
+- t-001
   global_id: t-185236
   teiginys: "Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų."
   pagrindžia:
     - c-168597
 
-<a id="claim-t-187571"></a>
-- t-004
-  global_id: t-187571
-  teiginys: "Mindaugas pasiuntė visą savo kariuomenę už Dnepro prieš Romaną, Briansko kunigaikštį."
-  pagrindžia:
-    - c-170519
-
 <a id="claim-t-188686"></a>
-- t-005
+- t-002
   global_id: t-188686
   teiginys: "Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais."
   pagrindžia:
     - c-171575
 
 <a id="claim-t-192641"></a>
-- t-006
+- t-003
   global_id: t-192641
   teiginys: "Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono."
   pagrindžia:
     - c-175411
 
 <a id="claim-t-192642"></a>
-- t-007
+- t-004
   global_id: t-192642
   teiginys: "Narbutas teigė, kad 1540 m. pr. Kr. skitams priklausė Dnepro žiotys ir Tauridė."
   pagrindžia:
     - c-175412
 
 <a id="claim-t-192643"></a>
-- t-008
+- t-005
   global_id: t-192643
   teiginys: "Narbutas chionitus laikė Padneprės emporiumų graikų kolonistais, gyvenusiais dešiniajame Dnepro krante ties Kijevu."
   pagrindžia:
     - c-175413
 
 <a id="claim-t-192644"></a>
-- t-009
+- t-006
   global_id: t-192644
   teiginys: "Narbutas pasakoja, kad Herodotui Padneprės graikų kolonistai sakę, jog gintaras juos pasiekdavęs iš šiaurės vakarų jūros."
   pagrindžia:
     - c-175414
 
 <a id="claim-t-192645"></a>
-- t-010
+- t-007
   global_id: t-192645
   teiginys: "Narbutas aiškino, kad gelonų-budinų nepasiekė nuo Dnestro plūdusios skitams priešiškos tautos, nes jos neprasiskverbė į kairįjį Dnepro krantą."
   pagrindžia:
     - c-175415
 
 <a id="claim-t-192646"></a>
-- t-011
+- t-008
   global_id: t-192646
   teiginys: "Narbutas kairiąją Dnepro pakrantę apibūdino kaip platų pavasario potvynių užliejamą slėnį su vasarą išdžiūstančiais ežerais."
   pagrindžia:
     - c-175416
 
 <a id="claim-t-192647"></a>
-- t-012
+- t-009
   global_id: t-192647
   teiginys: "Narbutas rašė, kad senoji kairioji Dnepro šaka driekėsi nuo Beržūnos iki Desnos žiočių, o prie Kijevo buvo įlankų ir gilių ežerėlių."
   pagrindžia:
     - c-175417
 
-<a id="claim-t-192648"></a>
-- t-013
-  global_id: t-192648
-  teiginys: "Narbutas teigė, kad jo laikų Dnepro vandens masė buvo perpus mažesnė negu senovėje, nors vaga išlaikė panašų plotį."
-  pagrindžia:
-    - c-175418
-
 <a id="claim-t-192649"></a>
-- t-014
+- t-011
   global_id: t-192649
   teiginys: "Narbutas rašė, kad daugiausia Baltarusijos pilkapių buvo Dnepro vidurupyje nuo Sklovo apylinkių iki Pripetės žiočių."
   pagrindžia:
     - c-175419
+
+<a id="claim-t-197865"></a>
+- t-012
+  global_id: t-197865
+  teiginys: "Tačiau ži noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama Chue, Chunnigard-, ji priklausė minėtai tautai."
+  pagrindžia:
+    - c-179370
+
+<a id="claim-t-197866"></a>
+- t-013
+  global_id: t-197866
+  teiginys: "Iš čia, tęsdami kelionę į vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos vakarine Dnepro šaka1, Pentikapo upe, kurios vandens baseinas jungėsi su Nemuno sistema (.21)."
+  pagrindžia:
+    - c-179371
+
+<a id="claim-t-197867"></a>
+- t-014
+  global_id: t-197867
+  teiginys: "Iš to darau išvadą, jog Gerų kraštas plytėjo abie jose Dnepro pakrantėse, kur viename plote sukaupta ga na daug pilkapių, panašių į šen bei ten išmėtytus kapi nynus, šio krašto vidurys yra Rogačiovas, kurio apylin kėse esama gausiausių pilkapių rinkinių."
+  pagrindžia:
+    - c-175416
+
+<a id="claim-t-197868"></a>
+- t-015
+  global_id: t-197868
+  teiginys: "Tų įdubų juos tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa grindinės upės vandens lygis buvo gerokai aukštesnis, tekėdavo visais metų laikais."
+  pagrindžia:
+    - c-175417
+
+<a id="claim-t-197869"></a>
+- t-016
+  global_id: t-197869
+  teiginys: "Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti palei senas Rusijos sienas su Lietuvos valstybe, de šiniojoje driekiasi už Borisovo."
+  pagrindžia:
+    - c-179372
+
+<a id="claim-t-192648"></a>
+- t-010
+  global_id: t-192648
+  teiginys: 'Narbutas teigė, kad jo laikų Dnepro vandens masė buvo perpus mažesnė negu senovėje, nors vaga išlaikė panašų plotį.'
+  pagrindžia:
+    - c-175418
 - susijęs iš [[objektai/asmenys/Jonas Komninas.md#claim-t-191285|Jonas Komninas]]: Pasak Narbuto, Jonui Komninui 1121 m. nugalėjus pečenegus, hiriai išsikėlė į kairįjį Dnepro krantą pas poloviečius.
 - susijęs iš [[objektai/grupes/Gelonai.md#claim-t-192385|Gelonai]]: Narbutas gelonus apibūdina kaip su graikų persikėlėliais siejamą tautą, kurios kolonija buvo kairiajame Dnepro krante tarp budinų.
 - susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191012|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Teodoro Narbuto pasakojime III a. pabaigoje ar IV a. pradžioje slavų tiveriečiai persikėlė nuo Dnestro žemupio prie Dnepro ir pasiekė Rosės žiotis.
@@ -176,7 +190,6 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 - susijęs iš Heraklėja: Heraklėja Narbuto pasakojime minima tarp graikų prekyviečių, kurios po ankstyvų gyvenviečių prie Dnestro ir Dnepro žiočių vėliau tapo turtingos.
 - susijęs iš Kijevas: Teodoras Narbutas Karkinito miestą tapatino su dabartiniu Kijevu prie Dnepro kairiosios vagos ar seno užutekio.
 - susijęs iš Kijevas: Teodoras Narbutas teigė, kad dabartinio Kijevo žemė pirmiausia tapo pastovia skitų gyvenamąja vieta prie Dnepro.
-- susijęs iš Lojevas: Lojevas buvo BTSR miestas vakariniame Dnepro krante ties Sožo ir Dnepro santaka, apie 160 km į šiaurę nuo Kijevo.
 - susijęs iš Mažoji Rosė (Roska): Roska prie Rošovsko kaimo iš dešiniojo kranto įteka į Rosę, kuri drauge su Supo upe sudaro į Dneprą plaukiančių upių baseiną.
 - susijęs iš Mogiliovas: Narbutas tarp Mogiliovo ir Rogačiovo minimus Dnepro pakrančių kapus aiškino kaip skitų supiltus milžinkapius.
 - susijęs iš Padneprė: Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąja Dnepro pakrante ties Kijevu, kitapus Dnepro nurodydamas alanus.
@@ -261,17 +274,14 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 - susijęs iš Desna: Narbutas manė, kad Herodoto minėta Gero upė turėtų būti dabartinė Desna, o Hipakyrį atitiko Seimo upė.
 - susijęs iš Desna: Narbutas aiškino, kad Pripetės vaga į kairiąją Dnepro šaką įsiliedavo priešais Desnos žiotis arba kiek žemiau.
 - susijęs iš Donecas: Narbutas tapatino senovinį Higrį su Donecu, o Tanajį - su dabartiniu Donu.
-- susijęs iš Dubrovna: Čeliadninas atitraukė jėgas už Dnepro ir apsistojo prie Kropivnos upės, tarp Oršos ir Dubrovnos.
 - susijęs iš Kaspija: Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meotidės, tarp budinų ir prie Kaspijos.
 - susijęs iš Kijevas: Teodoro Narbuto prielaidoje chionitai gyveno dešiniajame Dnepro krante, kur yra Kijevas, o kitapus Dnepro jų kaimynai buvo alanai.
 - susijęs iš Kijevas: Naruševičius, Narbuto perteikimu, Ptolemėjo chunų koloniją siejo su vieta, kur yra Kijevas, ir laikė juos graikų-skitų gentimi.
 - susijęs iš Kijevas: Teodoras Narbutas spėjo, kad Herodotas buvo nukeliavęs ne toliau kaip iki dabartinio Kijevo.
 - susijęs iš Kijevas: Padavime, kurį perteikia Narbutas, Kijus, Sčekas ir Choryvas laikomi Kijevo įkūrėjais arba atnaujintojais.
-- susijęs iš Kropivnos upė: Čeliadninas atitraukė visas jėgas už upės ir apsistojo Kropivnos upės pakrantėse tarp Oršos ir Dubrovnos.
 - susijęs iš Kujavija: Teodoro Narbuto pasakojime kujavai vėliau persikėlė prie Vyslos žemupio ir įsikūrė jos kairiajame krante, Kujavijoje.
 - susijęs iš Maročė: Narbutas pasakoja, kad į vakarus keliavusi tauta, laikydamasi kairiojo Pripetės kranto, pasiekė Maročės ir Punios žiotis.
 - susijęs iš Meotidė: Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurodė prie Meotidės, kolchų kaimynystėje.
-- susijęs iš Miloslavičiai: Po puotos Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.
 - susijęs iš Miloslavičiai: Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.
 - susijęs iš Naugardas: Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti variagų atgabenta lietuvių kolonija.
 - susijęs iš Naugardas: Senyvo amžiaus Vytautas kariavo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai patirtas skriaudas.
@@ -280,7 +290,6 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 - susijęs iš Osteros upė: Narbutas rašė, kad Tatiščevas klaidingai prie Osteros upės žiočių lokalizavo pilaitę, galbūt vadintą Jurjevu.
 - susijęs iš Padnepris: Narbutas rašė, kad senieji Padneprio ir Pavyslio gyventojai pildavo milžinkapius.
 - susijęs iš Pavyslis: Narbutas rašo, kad Pavyslio ir Padneprio senieji gyventojai pildavo milžinkapius.
-- susijęs iš Pripetė: Lietuviams laimėjus mūšį, daug priešų žuvo bėgdami Dnepro ir Pripetės duburiuose.
 - susijęs iš Pripetė: Narbutas nurodo, kad Dnepro vidurupyje pilkapių ypač daug nuo Sklovo aukštupio iki Pripetės žiočių.
 - susijęs iš Punia: Narbutas pasakoja, kad keliaujanti tauta, laikydamasi kairiojo Pripetės kranto, pasiekė Maročės ir Punios žiotis.
 - susijęs iš Rogačiovas: Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių, kuriuos priskiria skitams.
@@ -308,273 +317,13 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 - susijęs iš [[objektai/autoriai/Amianas Marcelinas.md#claim-t-191527|Amianas Marcelinas]]: Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnų kelią per Dneprą ir alanų kraštą pas Saporą.
 - susijęs iš [[objektai/grupes/Kujavai.md#claim-t-192986|Kujavai]]: Teodoro Narbuto aiškinimu, kujavais vadinosi tie, kurie apsigyveno Chue, slaviškai vadinamo Kuje, miesto apylinkėse.
 - susijęs iš Arno: Narbuto aprašyme pelazgai buvo pasklidę nuo Po ir Arno upių žiočių iki Dnepro ir Dono.
-- susijęs iš Lojevas: Lojevas buvo BTSR miestas vakariniame Dnepro krante ties Sožo ir Dnepro santaka, apie 160 km į šiaurę nuo Kijevo.
 - susijęs iš [[objektai/autoriai/Amianas Marcelinas.md#claim-t-191528|Amianas Marcelinas]]: Teodoras Narbutas rašo, kad Amianas Marcelinas XXXI knygoje mini agatirus, kuriuos Narbutas tapatino su agazirais.
 - susijęs iš [[objektai/zodynas/emporiumai ir prekyvietės.md#claim-t-192146|emporiumai ir prekyvietės]]: Narbutas graikų emporiumus, arba prekyvietes, kildina iš pastovių graikų gyvenviečių prie Dnestro ir Dnepro žiočių.
 - susijęs iš [[objektai/asmenys/Gatereris.md#claim-t-191269|Gatereris]]: Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo galingais dešiniojo Dnepro kranto gyventojais.
 - susijęs iš Kijevas: Teodoro Narbuto prielaidoje chionitai gyveno dešiniajame Dnepro krante, kur yra Kijevas, o kitapus Dnepro jų kaimynai buvo alanai.
 - susijęs iš Gerų kraštas: Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse, o jo vidurys buvo Rogačiovas.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Valdingai pasi-
-    keliais nuvesti iki sienos. Kaidanas, pasiuntiniams per
-    ilgai užsibuvus, įtarė, jog nesumani pasiuntinybė ap­
-    gaudinėjama atidėliojant reikalą ir persikėlė per Dnep-
-    rą, norėdamas savo siekius paremti ginklu ir jėga pri­
-    versti paklusti jo valdžiai. Pripetės žiotyse įrengęs ka­
-    ro stovyklą, jis išsiuntė galybę būrių krašto niokoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuviams nugalėjus, daug bėgančių priešų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tiesa, kai buvę toliau
-    nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
-    vina kova. Galop nugalėję lietuviai išvijo barbarus iš
-    stovyklos: galybė priešų krito mūšyje, kur kas dau­
-    giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­
-    gėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo
-    D u o k lės p ra ša n tiem s
-    sk ita m s E rd vila s siu n ­
-    čia  d v i strė le s
-    šaukęs pasiuntinius, jis atsi­
-    sakė duoklės, paskelbė karą
-    ir įteikė jų kunigaikščiui do­
-    vaną— dvi strėles.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
-    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
-    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
-    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
-    jo per mažai karių. Jį atsitraukiantį atkakliai perse­
-    kiojo karalius. Netoli Dnepro Glinskį pasitiko šešios
-    dešimtys tūkstančių maskvėnų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Mindaugas pasiuntė visą savo kariuomenę už Dnepro prieš Romaną, Briansko kunigaikštį.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O Treniota
-    tuomet buvo Žemaičiuose.
-    6771 metai1 2 . Mindaugas buvo visą savo kariuome­
-    nę pasiuntęs už Dnepro prieš Romaną, Briansko kuni­
-    gaikštį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kad Pavyslio, Padneprio senieji gyventojai
-    ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
-    vaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
-    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
-    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
-    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
-    jų, neužkąsdami jų žemėje, supildavo kalnelius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Būtent dėl šių priežasčių įvairios
-    pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
-    bos susiformavo graikų kalba.
-    17
-    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
-    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
-    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
-    Dono.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Narbutas teigė, kad 1540 m. pr. Kr. skitams priklausė Dnepro žiotys ir Tauridė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Anksčiau jau minėjome, kad skitai
-    yra kone seniausia Europos tauta, kurios atėjimas iš Azi­
-    jos per Dono žemupį parodo Europos tautų kūdikystę.
-    Jau 1540 metais prieš Kristaus gimimą jie buvo labai
-    gausūs ir galingi, tuomet jiems priklausė Dnepro žiotys
-    ir Tauridė1. Paskui jie paplito po visas Europos šalis
-    kimbrų, keltų ir kitokiais pavadinimais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Narbutas chionitus laikė Padneprės emporiumų graikų kolonistais, gyvenusiais dešiniajame Dnepro krante ties Kijevu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
-    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
-    vadinimo panašumu su chionitais. Šie buvo Padneprės
-    emporiumų graikų kolonistai, susigiminiavę su skitais ir
-    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
-    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
-    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
-    prie Volgos vidurupio, imperatorius Julijonas, taip pat
-    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
-    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
-    po to keliavo toliau per alanų kraštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Narbutas pasakoja, kad Herodotui Padneprės graikų kolonistai sakę, jog gintaras juos pasiekdavęs iš šiaurės vakarų jūros.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Priartinus mūsų tyrimus prie
-    geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
-    tėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi
-    apie gintaringas vietas; boristeniečiai, ariba Padneprės
-    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
-    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
-    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
-    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
 - c-010
-  santrauka: 'Narbutas aiškino, kad gelonų-budinų nepasiekė nuo Dnestro plūdusios skitams priešiškos tautos, nes jos neprasiskverbė į kairįjį Dnepro krantą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taigi protėvius tau­
-    tos, kurios istoriją nagrinėjame, toliau tyrinėti pradėsime
-    nuo jų išėjimo iš Skitijos, buvusios prie Dono.
-    206
-    Kalbėdami apie didžiosios, arba karalių valdomos, Ski­
-    tijos nykimą, minėjome tai lėmusias priežastis, kurios tar­
-    si neturėjo įtakos gelonų-budinų tautai, nes nuo Dnestro
-    plūdusios skitams priešiškos tautos neprasiskverbė j kai­
-    riosios Dnepro pakrantės gilumą. Taip pat ir sarmatų slin­
-    kimas nuo Dono žemupio Dnepro link nągalėjo trikdyti
-    ramybės tos tautos, kuri nuo seno gyveno su jais kaimy­
-    nystėje; svarbiausi sarmatų žygiai buvo nukreipti tiesiai į
-    Uždneprės šalį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-011
-  santrauka: 'Narbutas kairiąją Dnepro pakrantę apibūdino kaip platų pavasario potvynių užliejamą slėnį su vasarą išdžiūstančiais ežerais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kairioji Dnepro
-    pakrantė sudaro lygumą, arba platų pavasario potvynių
-    užliejamą slėnį; šiame slėnyje tęsiasi juosta šiandien
-    sąnašų perskirtos įdubo-s, kur pavasario potvynių vande­
-    nys sudaro vasarą išdžiūstančius ežerus. Tų įdubų juos­
-    tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­
-    grindinės upės vandens lygis buvo gerokai aukštesnis,
-    tekėdavo visais metų laikais. Plytėjo ilga įlanka, arba
-    kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­
-    lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­
-    je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai
-    ežerėliai1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-012
-  santrauka: 'Narbutas rašė, kad senoji kairioji Dnepro šaka driekėsi nuo Beržūnos iki Desnos žiočių, o prie Kijevo buvo įlankų ir gilių ežerėlių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Plytėjo ilga įlanka, arba
-    kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­
-    lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­
-    je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai
-    ežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa-
-    dneprės slėnį, plaukė maždaug varsto atstumu savo slė­
-    niu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­
-    šiniąją, senų geografų vadinamą Borysthenis occidentale
-    latus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją
-    šaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą,
-    žemiau Kijevo virstančią didele upe — tikruoju senovės
-    Boristeniu. Vietiniai kairiosios Dnepro pakrantės prie Ki­
-    jevo stebėjimai rodo, kad ten judėjo žemės dėl drebėjimo
-    arba vidinės priežasties; tai turėjo sukelti didelius šių
-    1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas
-    vandens, Dnepras tekėjo kita kryptimi (Karamzin.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-013
   santrauka: 'Narbutas teigė, kad jo laikų Dnepro vandens masė buvo perpus mažesnė negu senovėje, nors vaga išlaikė panašų plotį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -596,92 +345,32 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
-- c-014
-  santrauka: 'Narbutas rašė, kad daugiausia Baltarusijos pilkapių buvo Dnepro vidurupyje nuo Sklovo apylinkių iki Pripetės žiočių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Paprastai jos būva netoli gyvenviečių
-    arba joms tinkamose vietose.
-    Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
-    daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
-    Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
-    palei senas Rusijos sienas su Lietuvos valstybe, de­
-    šiniojoje driekiasi už Borisovo apskrities net iki tikrosios
-    Lietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-
-    žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
-    pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
-    čių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
+    - t-010
 
 ## Citatos
-
-- id: c-168595
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 80."
-  citata_originali: |
-    Valdingai pasi-
-    keliais nuvesti iki sienos. Kaidanas, pasiuntiniams per
-    ilgai užsibuvus, įtarė, jog nesumani pasiuntinybė ap­
-    gaudinėjama atidėliojant reikalą ir persikėlė per Dnep-
-    rą, norėdamas savo siekius paremti ginklu ir jėga pri­
-    versti paklusti jo valdžiai. Pripetės žiotyse įrengęs ka­
-    ro stovyklą, jis išsiuntė galybę būrių krašto niokoti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185234
-
-- id: c-168596
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 80."
-  citata_originali: |
-    Tiesa, kai buvę toliau
-    nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
-    vina kova. Galop nugalėję lietuviai išvijo barbarus iš
-    stovyklos: galybė priešų krito mūšyje, kur kas dau­
-    giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­
-    gėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo
-    D u o k lės p ra ša n tiem s
-    sk ita m s E rd vila s siu n ­
-    čia  d v i strė le s
-    šaukęs pasiuntinius, jis atsi­
-    sakė duoklės, paskelbė karą
-    ir įteikė jų kunigaikščiui do­
-    vaną— dvi strėles.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185235
 
 - id: c-168597
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 602"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 602."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
-    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
-    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
-    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
-    jo per mažai karių. Jį atsitraukiantį atkakliai perse­
-    kiojo karalius. Netoli Dnepro Glinskį pasitiko šešios
-    dešimtys tūkstančių maskvėnų.
+    Toliau skverbtis nedrįso sužinojęs, jog atžygiuoja ka­
+    raliaus kariuomenė. Pasiun-
+    P erein a
+    į
+    M a sk v o s
+    tęs į Maskvos kunigaikštys-
+    k u n ig a ik š ty s tę
+    tę brolį Vosylių su visais
+    globotiniais, jų žmonomis bei
+    vaikais ir visomis brangenybėmis, pats, kurį metą už­
+    trukęs, nes rūpinosi pilių sustiprinimu, greitai pasivijo
+    savuosius. Štai ką jis padarė žiemos pabaigoje. Pri­
+    imtas Maskvos kunigaikštystėje nepaprastai džiugiai
+    ir prastuomenės, ir aukštuomenės, ir paties Maskvos
+    didžiojo kunigaikščio, dūmoje įkalbėjo maskvėnus pa­
+    siųsti, pavasariui prašvitus, visas jėgas prieš Smolenską,
+  citata_rodoma: "Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės\npriekaištų, gal iš pagarbos karaliui, pirmiausia su savo\nkariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­\ndamas stoti į atvirą kovą veikiausiai dėl to, kad turė­\njo per mažai karių. Jį atsitraukiantį atkakliai perse­\nkiojo karalius. Netoli Dnepro Glinskį pasitiko šešios\ndešimtys tūkstančių maskvėnų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -689,36 +378,23 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
   pagrindzia:
     - t-185236
 
-- id: c-170519
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    O Treniota
-    tuomet buvo Žemaičiuose.
-    6771 metai1 2 . Mindaugas buvo visą savo kariuome­
-    nę pasiuntęs už Dnepro prieš Romaną, Briansko kuni­
-    gaikštį.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187571
-
 - id: c-171575
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 371"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kad Pavyslio, Padneprio senieji gyventojai
-    ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
-    vaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
-    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
-    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
-    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
-    jų, neužkąsdami jų žemėje, supildavo kalnelius.
+    Statinio viduje paprastai stovi maži mo­
+    liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­
+    na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
+    arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
+    žmonės priskiria kažkokią šventumo ypatybe5.
+    3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
+    pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
+    rius*.
+    4 Žr. Klimaševskio 1831 metų NoworocznikLitewski (p. 206)**.
+    5 Slaptajame kryžiuočių archyve Karaliaučiuje, krašto retenybių
+    rinkinyje, yra nemažai tokių akmenų.
+  citata_rodoma: "Kad Pavyslio, Padneprio senieji gyventojai\nir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų\nvaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,\nesama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų\nbuvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­\njo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­\njų, neužkąsdami jų žemėje, supildavo kalnelius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -729,17 +405,17 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 - id: c-175411
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 40"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Būtent dėl šių priežasčių įvairios
-    pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
-    bos susiformavo graikų kalba.
-    17
-    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
-    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
-    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
-    Dono.
+    Neginčijamas dalykas yra ir tai, kad pelazgai buvo tos
+    kartos žmonės, kuriuos laikėme atklydusiais nuo Tibeto
+    prie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad
+    jonėnai ir trojėnai kilę iš pelazgų. Šios tautos plėtėsi nuo
+    1700 iki 1200 metų prieš Kristaus gimimą. Per tuos pen­
+    kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
+    arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
+    davė pradžią dorėnams ir achajams.
+  citata_rodoma: "Būtent dėl šių priežasčių įvairios\npelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­\nbos susiformavo graikų kalba.\n17\nPelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­\nčiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,\npradedant nuo Po ir Arno upių žiočių net iki Dnepro ir\nDono."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -750,8 +426,7 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 - id: c-175412
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 50."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Anksčiau jau minėjome, kad skitai
     yra kone seniausia Europos tauta, kurios atėjimas iš Azi­
@@ -770,20 +445,22 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 - id: c-175413
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
-    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
-    vadinimo panašumu su chionitais. Šie buvo Padneprės
-    emporiumų graikų kolonistai, susigiminiavę su skitais ir
-    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
-    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
-    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
-    prie Volgos vidurupio, imperatorius Julijonas, taip pat
-    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
-    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
-    po to keliavo toliau per alanų kraštą.
+    Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo
+    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
+    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
+    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
+    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
+    novės Kijevą.
+  citata_rodoma: "Galima tik daryti gana tikėtiną prielaidą, kuri remia­\nsi Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­\nvadinimo panašumu su chionitais. Šie buvo Padneprės\nemporiumų graikų kolonistai, susigiminiavę su skitais ir\ngyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;\nkitapus Dnepro jų kaimynai buvo alanai. Turime istorinių\npadavimų, jog, kai persų karalius Saporas žiemojo kažkur\nprie Volgos vidurupio, imperatorius Julijonas, taip pat\nbuvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,\nkurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o\npo to keliavo toliau per alanų kraštą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -794,8 +471,7 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 - id: c-175414
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 150"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Priartinus mūsų tyrimus prie
     geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
@@ -815,8 +491,7 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 - id: c-175415
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 201"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 201."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taigi protėvius tau­
     tos, kurios istoriją nagrinėjame, toliau tyrinėti pradėsime
@@ -841,10 +516,13 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 - id: c-175416
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 377"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kairioji Dnepro
+    Iš to darau išvadą, jog Gerų kraštas plytėjo abie­
+    jose Dnepro pakrantėse, kur viename plote sukaupta ga­
+    na daug pilkapių, panašių į šen bei ten išmėtytus kapi­
+    nynus, šio krašto vidurys yra Rogačiovas, kurio apylin­
+    kėse esama gausiausių pilkapių rinkinių. Kairioji Dnepro
     pakrantė sudaro lygumą, arba platų pavasario potvynių
     užliejamą slėnį; šiame slėnyje tęsiasi juosta šiandien
     sąnašų perskirtos įdubo-s, kur pavasario potvynių vande­
@@ -862,14 +540,17 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192646
+    - t-197867
 
 - id: c-175417
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 377"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Plytėjo ilga įlanka, arba
+    Tų įdubų juos­
+    tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­
+    grindinės upės vandens lygis buvo gerokai aukštesnis,
+    tekėdavo visais metų laikais. Plytėjo ilga įlanka, arba
     kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­
     lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­
     je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai
@@ -885,44 +566,26 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     arba vidinės priežasties; tai turėjo sukelti didelius šių
     1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas
     vandens, Dnepras tekėjo kita kryptimi (Karamzin.
+  citata_rodoma: "Tų įdubų juos­\ntos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­\ngrindinės upės vandens lygis buvo gerokai aukštesnis, \ntekėdavo visais metų laikais. Plytėjo ilga įlanka, arba \nkairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­\nlios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­\nje, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai \nežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa- \ndneprės slėnį, plaukė maždaug varsto atstumu savo slė­\nniu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­\nšiniąją, senų geografų vadinamą Borysthenis occidentale \nlatus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją \nšaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą, \nžemiau Kijevo virstančią didele upe — tikruoju senovės \nBoristeniu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192647
-
-- id: c-175418
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    367
-
-    ## Puslapis 378
-
-    paupio žemių pokyčius. Šiandien įprasta Dnepro van­
-    dens masė yra perpus mažesnė negu prieš daugelį am­
-    žių; šiai upei būdinga tai, kad ji pamažu neišsilieja į
-    plotį kaip įtekančios į Baltijos jūrą upės, kurių normalus
-    paviršius žemėja padidėjus pločiui. Ji teka beveik tokio
-    paties pločio vaga kaip ir senovėje, tik jos šoninės vagos
-    apneštos dumblu ir prarado kažkada aukščiau Kijevo bu­
-    vusias šakas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192648
+    - t-197868
 
 - id: c-175419
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 381"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Paprastai jos būva netoli gyvenviečių
+    Tokių kalvų kartais randama išsibarsčiusių laukuose,
+    netgi sausose pievose po dvi, kelias, o kai kur jų esti la­
+    bai daug netvarkingai išmėtytų įvairiomis kryptimis ir
+    įvairaus dydžio: daugiausia vidutinių, mažiau mažų, o
+    didelių nedaug, daugiausia stūkso atskirai, nuošaliau nuo
+    kitų ar poromis. Paprastai jos būva netoli gyvenviečių
     arba joms tinkamose vietose.
     Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
     daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
@@ -933,12 +596,78 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
     pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
     čių.
+  citata_rodoma: "Paprastai jos būva netoli gyvenviečių\narba joms tinkamose vietose.\nNors pilkapių pasitaiko visoje Baltarusijoje, tačiau\ndaugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau\nSklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti\npalei senas Rusijos sienas su Lietuvos valstybe, de­\nšiniojoje driekiasi už Borisovo apskrities net iki tikrosios\nLietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-\nžūnos upių žemupio uždarame plote, o kairiojoje Dnepro\npakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­\nčių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192649
+
+- id: c-179370
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197865
+
+- id: c-179371
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Iš čia, tęsdami kelionę į
+    vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos
+    vakarine Dnepro šaka1, Pentikapo upe, kurios vandens
+    baseinas jungėsi su Nemuno sistema (§21). Toliau, savo
+    kelionėje nenutoldami nuo kairiojo' Pripetės kranto, pateko
+    prie Maročės ir Punios žiočių. Šiose vietose keliaujanti
+    tauta sustojo ir, kaip įtikėtina, kažkiek laiko gyveno ar
+    paliko savo koloniją, kuri ten įsikūrė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197866
+
+- id: c-179372
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Tokių kalvų kartais randama išsibarsčiusių laukuose,
+    netgi sausose pievose po dvi, kelias, o kai kur jų esti la­
+    bai daug netvarkingai išmėtytų įvairiomis kryptimis ir
+    įvairaus dydžio: daugiausia vidutinių, mažiau mažų, o
+    didelių nedaug, daugiausia stūkso atskirai, nuošaliau nuo
+    kitų ar poromis. Paprastai jos būva netoli gyvenviečių
+    arba joms tinkamose vietose.
+    Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
+    daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
+    Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
+    palei senas Rusijos sienas su Lietuvos valstybe, de­
+    šiniojoje driekiasi už Borisovo apskrities net iki tikrosios
+    Lietuvos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197869
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Hiriai]], [[objektai/asmenys/Kaidanas]]

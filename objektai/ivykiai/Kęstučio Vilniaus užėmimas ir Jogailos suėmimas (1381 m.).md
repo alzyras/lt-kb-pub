@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "1381 m. Kęstutis staiga užėmė Vilnių ir suėmė Jogailą su jo broliais bei motina."
   pagrindžia:
     - c-28739
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jogailai nenujaučiant, Kęstutis, staiga užėmęs sostinę, nelais­
-    vėn paėmė Jogailą su jo broliais ir motina. Perversmo pasėkoje
-    Jogailai tebuvo paliktos jo tėvo žemės — Vitebskas ir Kriavo
-    kunigaikštystė, o pats Kęstutis pirmą kartą paėmė aukščiausią
-    valdžią, tapdamas didžiuoju kunigaikščiu (1381-82). Jogailos prie­
-    šui Andriui jis leido grįžti į Polocką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

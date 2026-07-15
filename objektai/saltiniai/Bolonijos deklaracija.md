@@ -41,24 +41,6 @@ Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidė
   teiginys: "Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę."
   pagrindžia:
     - c-23745
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valstybė aukštosioms mokykloms užtikrino autonomi-
-    ją, apimančią akademinę, administracinę, ūkio ir finansinę veiklą, grin-
-    džiamą savivaldos principais, akademine laisve. Aukštasis mokslas iš da-
-    lies tapo mokamas. Siekdama savo švietimo sistemą integruoti į Europą,
-    Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-
-    kurti bendrą Europos aukštojo mokslo erdvę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

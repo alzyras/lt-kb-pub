@@ -32,30 +32,9 @@ Narbuto apibūdinimu Hartnumdas Grumbachas buvo ūmus, griežtas ir piktas, bet 
 <a id="claim-t-191277"></a>
 - t-001
   global_id: t-191277
-  teiginys: "Narbuto apibūdinimu Hartnumdas Grumbachas buvo ūmus, griežtas ir piktas, bet kartu toliaregiškas ir išmintingas žmogus."
+  teiginys: 'Narbuto apibūdinimu Hartnumdas Grumbachas buvo ūmus, griežtas ir piktas, bet kartu toliaregiškas ir išmintingas žmogus.'
   pagrindžia:
     - c-174159
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbuto apibūdinimu Hartnumdas Grumbachas buvo ūmus, griežtas ir piktas, bet kartu toliaregiškas ir išmintingas žmogus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    ## Puslapis 132
-
-    Jis buvo ūmus, griežtas ir piktas, tačiau kartu toliaregiš­
-    kas ir išmintingas žmogus. Jo pirmas rūpestis — baigti
-    puldinėti iš Jotvingi]os ir pelnyti slavų kunigaikščių pa­
-    lankumą. Dėl to jis pradėjo derėtis su Kujavijos Kazimie­
-    ru, pagaliau po ilgo delsimo sudarė taikos sutartį su
-    Mazovijos Ziemovitu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -72,9 +51,9 @@ Narbuto apibūdinimu Hartnumdas Grumbachas buvo ūmus, griežtas ir piktas, bet 
     lankumą. Dėl to jis pradėjo derėtis su Kujavijos Kazimie­
     ru, pagaliau po ilgo delsimo sudarė taikos sutartį su
     Mazovijos Ziemovitu.
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191277
+    - t-001

@@ -5,9 +5,6 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - politinė-praktika
-  - paprotys
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,35 +41,19 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-194083"></a>
+<a id="claim-t-199231"></a>
 - t-001
-  global_id: t-194083
+  global_id: t-199231
   teiginys: "3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų susirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei dimo ir kitiems svarbiausiems klausimams svarstyti."
   pagrindžia:
-    - c-176696
-## Reikšmingi paminėjimai
+    - c-181746
 
-- c-001
-  santrauka: '3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų susirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei dimo ir kitiems svarbiausiems klausimams svarstyti.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Tačiau tiesioginių žinių apie paties Polocko puolimą ki­
-    tuose patikimuose šaltiniuose nėra.
-    3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų
-    susirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei­
-    dimo ir kitiems svarbiausiems klausimams svarstyti.
-    *  Orig.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
-- id: c-176696
+- id: c-181746
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   puslapiai: "PDF 193"
@@ -80,13 +61,16 @@ Nenurodyta
   citata_originali: |
     Tačiau tiesioginių žinių apie paties Polocko puolimą ki­
     tuose patikimuose šaltiniuose nėra.
-    3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų
+    3 Viečė — žymesniuose
+    Kijevo
+    Rusios miestuose gyventojų
     susirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei­
     dimo ir kitiems svarbiausiems klausimams svarstyti.
-    *  Orig.
+    * Orig.
+  citata_rodoma: "Tačiau tiesioginių žinių apie paties Polocko puolimą ki­\ntuose patikimuose šaltiniuose nėra.\n3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų \nsusirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei­\ndimo ir kitiems svarbiausiems klausimams svarstyti.\n*  Orig."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194083
+    - t-199231

@@ -43,28 +43,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   teiginys: "Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Nerye ir Neria."
   pagrindžia:
     - c-176905
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Nerye ir Neria.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Upė Nerige, dažnai minima senovi­
-    niame Lietuvos kelių aprašyme,
-    esančiame Kryžiuočių archyve, yra
-    dabartinė Vilija. Vygandas ir
-    Lindenblattas, kronikininkai,
-    ją taip pat vadina - Nerga, Nerge, Ne-
-    rye ir Neria. Jau 1398 metais, po
-    krikščionių tikėjimo Vilniuje priėmi­
-    mo, Vilija taip buvo vadinama.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

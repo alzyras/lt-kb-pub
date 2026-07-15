@@ -66,28 +66,6 @@ Nenurodyta
   teiginys: "Šubravcų draugijos kodekse narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų."
   pagrindžia:
     - c-55729
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šubravcų draugijos kodekse suformuluotos narių elgesio
-    ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­
-    mų. Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­
-    nines bei visuomenines ydas rodė ryškų šios organizacijos švie­
-    tėjiškos veiklos pobūdį. Pavyzdžiui, XII šubravcų kodekso
-    straipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­
-    lioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­
-    jos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­
-    suotinumą ir universalumą3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -111,5 +89,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54738
     - t-54737
+    - t-54738

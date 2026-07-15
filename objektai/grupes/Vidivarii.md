@@ -44,27 +44,6 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 - susijęs iš Vytauto 1420 m. laiškas Romos imperatoriui Zigmantui: Vytauto 1420 m. laiškas Romos imperatoriui Zigmantui minimas kaip patikimas šaltinis apie Lietuvos ir Žemaitijos tapatumą.
 - susijęs iš [[objektai/zodynas/Vidivarijai nomen gentile nomen sociale.md#claim-t-86577|Vidivarijai nomen gentile nomen sociale]]: Vidivarijų vardas, Jornandeso duotas tautai prie Vyslos žiočių, aiškintas kaip įvairių tautų sambūrio nomen sociale.
 - susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54798|Vidivarijai]]: Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Įdomu tai, kad aisčių vardas VI
-    amž. buvo žinomas. Padarydamas santrauką vėliau dingusios
-    Kassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine
-    actibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą
-    tautą («pacatum hominum genus omnino »), užėmusią labai ilgą
-    pajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­
-    nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
-    375 m.) buvęs savo valstybei pajungęs ir aisčius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33363

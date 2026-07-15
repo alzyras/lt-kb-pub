@@ -61,34 +61,12 @@ Nenurodyta
 - susijęs iš Heiligenbeilis Šventasis Kirvelis: Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.
 - susijęs iš Heiligenbeilis: Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.
 - susijęs iš Romanovas: Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame galėjęs augti šventasis ąžuolas arba būti šventykla.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'S. Grunau rašė, kad Romuvoje augęs milžiniškas trijų dalių šventasis ąžuolas su Perkūno, Patulo ir Patrimpo stabais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    XVI a. 1-oje pusėje S. Grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas
-    ąžuolas, kurio kamienas buvęs padalytas  į tris lygias dalis, kiekvienoje jų — iškirstas
-    langas ar uoksas, juose stovėję dievų trejybės stabai; Perkūno, Patulo ir Patrimpo.
-      Perkūnas — baltiškasis audros, griaustinio dievas. Jis susijęs su kalnu, ąžuolu. Naujausi
-    mitologijos tyrinėjimai leidžia konstatuoti ryšį tarp S. Grunau šventojo trijų dalių ąžuolo
-    Romovėje resp. Romuvoje ir kitų indoeuropiečių tautų mitologinių vaizdinių. Šventasis
-    ąžuolas buvęs kosmogoninis tridalio pasaulio medžio simbolis (Иванов В.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60344
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     XVI a. 1-oje pusėje S. Grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas
     ąžuolas, kurio kamienas buvęs padalytas  į tris lygias dalis, kiekvienoje jų — iškirstas

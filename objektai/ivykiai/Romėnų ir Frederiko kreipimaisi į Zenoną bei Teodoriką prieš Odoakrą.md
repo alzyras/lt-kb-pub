@@ -47,8 +47,8 @@ Nenurodyta
   teiginys: "Narbuto pasakojime romėnai slapta kreipėsi į Zenoną, prašydami išvaduoti juos iš barbarų, o Frederikas Teodoriko rūmuose prašė pagalbos prieš berilius."
   pagrindžia:
     - c-173955
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto pasakojime romėnai slapta kreipėsi į Zenoną, prašydami išvaduoti juos iš barbarų, o Frederikas Teodoriko rūmuose prašė pagalbos prieš berilius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -81,11 +81,10 @@ Nenurodyta
     jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis
     1 Ennodius. In lib. dicto Theodorici reg. P. 298.
 
-    ## Puslapis 320
-
     teiktųsi išvaduoti juos iš barbarų. Tuo pat metu ir Fre­
     derikas Teodoriko rūmuose nesiliovė prašęs pagalbos prie­
     šams beriliams nugalėti.
+  citata_rodoma: "Visa tai lėmė,\njog romėnai slapta nuvyko pas Zenoną prašyli, kad jis\n1 Ennodius. In lib. dicto Theodorici reg. P. 298.\n\n## Puslapis 320\n\nteiktųsi išvaduoti juos iš barbarų. Tuo pat metu ir Fre­\nderikas Teodoriko rūmuose nesiliovė prašęs pagalbos prie­\nšams beriliams nugalėti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

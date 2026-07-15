@@ -57,32 +57,6 @@ media_all_json: |-
   pagrindžia:
     - c-26741
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113363|Vilniaus universitetas]]: 1832 m. buvo nutarta uždaryti Vilniaus universitetą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo ini-
-    ciatorių, „Lietuvos laisvamanybės lizdą“. Tiesa, tuomet dviejų šio univer-
-    siteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų
-    ministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-
-    gijos akademija ir Vilniaus Romos katalikų dvasinė akademija. Po dešimt
-    metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
-    burgą, o Medicinos-chirurgijos akademija uždaryta. 1840 m. panaikintas
-    Lietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas
-    iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
-    traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
-    Vakarų kraštu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-26741

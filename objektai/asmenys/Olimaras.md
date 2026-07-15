@@ -35,34 +35,13 @@ Narbuto pasakojime Olimaras buvo vienas iš dviejų rusų vadų, išlikusių gyv
   teiginys: "Narbuto pasakojime Olimaras buvo vienas iš dviejų rusų vadų, išlikusių gyvų po kautynių, kuriose žuvo kiti rusų vadai."
   pagrindžia:
     - c-174183
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbuto pasakojime Olimaras buvo vienas iš dviejų rusų vadų, išlikusių gyvų po kautynių, kuriose žuvo kiti rusų vadai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pasakoji­
-    mui apie šį neabejotinai seną įvykį būdingi istoriškumo
-    bruožai, ir jis yra visiškai įtikėtinas. Šiose kautynėse žu­
-    vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija
-    netgi nedviprasmiškai nurodo šios didelės pergalės prie­
-    žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
-    Onevu, perėjimą į priešo pusę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 241"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pasakoji­
     mui apie šį neabejotinai seną įvykį būdingi istoriškumo

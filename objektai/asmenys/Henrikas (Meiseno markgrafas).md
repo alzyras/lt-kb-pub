@@ -65,65 +65,13 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   teiginys: "Apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais."
   pagrindžia:
     - c-64618
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Meiseno markgrafo atvykimą
-
-      Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas,
-    Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su
-    dideliais turtais. Šis vyras iš visos širdies ir iš visų jėgų ryžosi naikinti netikėlius ir plėsti
-    krikščionių žemes.
-
-
-
-
-                 14.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-    - t-004
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Siekiant nukreipti dėmesį nuo pagrin-
-    dinio puolimo prieš Lietuvą iš šiaurės,
-    tais pačiais 1236 m. ir prieš prūsų žemes
-    Pavyslyje buvo surengtas naujas puoli-
-    mas. Ordinui į pagalbą atvyko Meiseno
-    markgrafas Henrikas su 500 riterių ir su
-    „didžiuliais turtais“, kartu su Kryžiuočių
-    ordino riteriais jie niokojo Pamedę, su-
-    naikino daug prūsų pilių, žudė žmones.
-
-    1236 m. rugsėjį į Lietuvą įžengusios
-    didžiulės tarptautinės kryžeivių pajėgos,
-    sudarytos iš Kalavijuočių ordino bro-
-    lių ir kryžininkų iš įvairių Europos šalių,
-    „pasidalino į būrius“ ir ėmė plėšti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-64618
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 75"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Meiseno markgrafo atvykimą
 

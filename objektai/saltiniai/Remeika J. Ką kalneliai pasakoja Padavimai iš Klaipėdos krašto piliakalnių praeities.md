@@ -40,29 +40,13 @@ Dusburgietis teigia, kad remeika J.
   teiginys: "J. Remeikos „Ką kalneliai pasakoja: Padavimai iš Klaipėdos krašto piliakalnių praeities“ išleista Klaipėdoje 1938 m."
   pagrindžia:
     - c-61903
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Remeikos „Ką kalneliai pasakoja: Padavimai iš Klaipėdos krašto piliakalnių praeities“ išleista Klaipėdoje 1938 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Remeika J. Ką kalneliai pasakoja: Padavimai iš Klaipėdos krašto piliakalnių praeities.—
-    Klaipėda, 1938.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61903
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Remeika J. Ką kalneliai pasakoja: Padavimai iš Klaipėdos krašto piliakalnių praeities.—
     Klaipėda, 1938.

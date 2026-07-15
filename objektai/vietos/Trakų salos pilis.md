@@ -41,21 +41,6 @@ Antrame plane matyti Trakų salos pilis.
   teiginys: "Trakų salos pilis buvo baigta statyti 1409 m."
   pagrindžia:
     - c-40460
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Antrame plane matyti Trakų salos pilis. Baigta
-    statyti 1409m. Abi pilys sujungtos mediniais tiltais
-    per salą, kurioje buvo bažnytėlė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

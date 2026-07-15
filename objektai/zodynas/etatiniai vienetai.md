@@ -35,33 +35,6 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
   teiginys: "Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė."
   pagrindžia:
     - c-45513
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    suvažiavimas, priėmęs „Valkininkų nuta-
-    rimą“, kuriuo buvo įkurta LDK bajorijos
-    generalinė konfederacija, suformuoti ypa-
-    tingieji LDK valdžios organai, nutarta atimti
-    iš Sapiegų jų turėtas pareigybes, o dvarus
-    konfiskuoti. Priėmusi nutarimą respubli-
-    konų kariuomenė nužygiavo į Vilnių, kur
-    Šnipiškių priemiestyje įrengtoje stovykloje,
-
-    vykdant Valkininkų nutarimą, buvo iš
-    esmės suformuota nauja LDK kariuomenė -
-    7500 etatinių vienetų. Išsireikalavusi iš
-    Vilniaus miesto kontribuciją, respublikonų
-    kariuomenė iš sostinės pasitraukė į naujas
-    dislokavimo vietas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

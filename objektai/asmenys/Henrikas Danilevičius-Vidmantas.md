@@ -35,30 +35,6 @@ atstovas RL sričiai Henrikas DanilevičiusVidmantas, Aloyzas Žilys-Žirnis ir 
   teiginys: "LLKS vadovybės specialusis atstovas RL sričiai Henrikas Danilevičius-Vidmantas nusišovė po nelygios kovos su okupantų kariuomene."
   pagrindžia:
     - c-44342
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'LLKS vadovybės specialusis atstovas RL sričiai Henrikas Danilevičius-Vidmantas nusišovė po nelygios kovos su okupantų kariuomene.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Žukauskas. Po nelygios kovos su okupantų
-    kariuomene nusišovė LLKS vadovybės spec.
-    atstovas RL sričiai Henrikas Danilevičius-
-    Vidmantas, Aloyzas Žilys-Žirnis ir Šarūno
-    rinkt. adjutantas Juozas Lapienis-Darius,
-    pasidavė rinktinės vadas Stasys Gimbutas-
-    Tarzanas ir 4 partizanai; S. Gimbutas tapo
-    MGB agentu, dėl jo kaltės buvo aptikti ir su-
-    naikinti daugelis Rytų Lietuvos partizanų;
-    ten pat suimta Elena Velavičiūtė-Nida iš-
-    davė 30 partizanų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

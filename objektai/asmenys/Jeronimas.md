@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Jeronimas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1232 m.'
@@ -11,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - šventė
   - dvasininkas
 amziai:
   - 'XIII'
@@ -33,7 +35,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios neteisybės, nei kantrios teisybės. Dusburgietis teigia, kad mat jie pakluso šiems išganingos Jeronimo paskatos žodžiams, bylojantiems: „Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk, pamynęs po kojomis tėvą, skubėk, pamynęs po.
+Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šventojo vainiko. Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos. Kojelavičiaus pasakojime kunigas Jeronimas, skaldydamas Perkūno atvaizdą, įsikirto koją, o žmonės tai palaikė dievybės įžeidimo pasekme.
 
 ## Teiginiai
 
@@ -50,8 +52,18 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
   teiginys: "Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos."
   pagrindžia:
     - c-167478
+
+<a id="claim-t-196483"></a>
+- t-003
+  global_id: t-196483
+  teiginys: "Kojelavičiaus pasakojime kunigas Jeronimas, skaldydamas Perkūno atvaizdą, įsikirto koją, o žmonės tai palaikė dievybės įžeidimo pasekme."
+  pagrindžia:
+    - c-178720
 - susijęs iš [[objektai/asmenys/Viklifas.md#claim-t-190219|Viklifas]]: Narbutas Viklifo raštus sieja su Jeronimu, kuris apie 1405 m. grįždamas į tėvynę juos parsinešė.
 - susijęs iš Vda: Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda.
+- susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200531|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo kunigaikštis vėliavininkas.
+- susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200532|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo sutaikytas su iždininku Jurgiu Detlofu Flemingu prieš pakanclerio persikėlimą į Flemingų rūmus.
+- susijęs iš [[objektai/asmenys/Jurgis Detloff Flemming (artilerijos generolas, XVIII a.).md#claim-t-200506|Jurgis Detloff Flemming (artilerijos generolas, XVIII a.)]]: Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeronimu Radvila prieš pakanclerio persikėlimą į Flemingų rūmus.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188545|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas rašo, kad Vladislovas Jogaila į Konstancos susirinkimą pasiuntė Teodorą Lenką skųsti kryžiuočių žiaurumų.
 - susijęs iš [[objektai/asmenys/Melchioras Giedraitis.md#claim-t-190920|Melchioras Giedraitis (vyskupas)]]: Narbutas aiškina, kad Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus dėl kaimiečių religinės padėties savo diecezijoje.
 - susijęs iš [[objektai/asmenys/Teodoras Lenkas.md#claim-t-190246|Teodoras Lenkas]]: Vladislovas Jogaila pasiuntė dominikoną Teodorą Lenką į Konstancos susirinkimą išdėstyti skundų prieš kryžiuočius.
@@ -65,62 +77,23 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
 - susijęs iš [[objektai/posakiai/Pergalės būdas tikriausias — kantrybė.md#claim-t-59052|Pergalės būdas tikriausias — kantrybė]]: Dusburgietis Grigaliui priskiria mintį, kad kankiniu galima būti ir be kalavijo ar liepsnų, jei sieloje išsaugoma kantrybė.
 - susijęs iš [[objektai/zodynas/daiktiški ir dvasiški ginklai dvasios ginklai.md#claim-t-58935|daiktiški ir dvasiški ginklai dvasios ginklai]]: Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.
 - susijęs iš [[objektai/zodynas/daiktiški ir dvasiški ginklai.md#claim-t-58934|daiktiški ir dvasiški ginklai]]: Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šventojo vainiko.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
-    jei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas
-    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
-    neteisybės, nei kantrios teisybės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie maldininkus ir Kulmo pilies bei miesto įkūrimą
-
-      Kai garsas apie naują Kristaus kryžiaus žygį nuskambėjo po visas Vokietijos karalystės
-    žemes, kai buvo paskelbtas naujas karas, kuriam viešpats pasirinko Prūsijos žemę, kai
-    buvo pažadėta naujo karo dalyviams atlaidų bei laisvių, subruzdo visi tie, kuriems širdis
-    sujaudino dievas, būtent šaunūs ir garsūs Vokietijos kariai; prisisegę prie peties kryžių,
-    jie rengėsi  į karą keršyti už nukryžiuotojo viešpaties kančias, kratydamiesi visko, kas
-    galėtų trukdyti jų šventiems ketinimams. Mat jie pakluso šiems išganingos Jeronimo
-    paskatos žodžiams, bylojantiems: „Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis
-    pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk,
-    pamynęs po kojomis tėvą, skubėk, pamynęs po kojomis motiną, ir pulk prie kryžiaus karo
-    vėliavos“. Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
-    pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
-    senoji pilis223.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
+- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200511|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas buvo Minsko vaivada.
+- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200512|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas teigė atvyksiąs į Vilnių, todėl jam reikėjo numatyti vietą M. Lopacinskio mūriniame name.
+- susijęs iš [[objektai/asmenys/Jurgis Detloff Flemming (artilerijos generolas, XVIII a.).md#claim-t-200507|Jurgis Detloff Flemming (artilerijos generolas, XVIII a.)]]: Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeronimu Radvila.
+- susijęs iš [[objektai/asmenys/Jurgis Detloff Flemming (artilerijos generolas, XVIII a.).md#claim-t-200508|Jurgis Detloff Flemming (artilerijos generolas, XVIII a.)]]: Jurgio Detloffo Flemmingo sutuoktinė Antanina kurį laiką gyveno Lopacinskio rezidencijoje.
 ## Citatos
 
 - id: c-60782
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
-    jei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas
-    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
-    neteisybės, nei kantrios teisybės.
+    10 (8).  Apie pirmąją Teutonų namų ordino brolių pilį, kurią vadino Fogelzangu
+    Aptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226).
+    Kadangi minėtieji Teutonų namų ordino broliai, tai yra brolis Konradas bei jo bičiulis,
+    neturėjo kur Prūsijos žemėje, minėtojo Lenkijos kunigaikščio jau anksčiau jiems
+    atiduotoje, galvos priglausti, juodu sugalvojo iš toliau siekti užsibrėžto tikslo, iš už Vyslos,
+    kuri juos saugotų, būdama tarp jų ir prūsų.
   citata_rodoma: "Jeronimas priduria: „Negi gali būti kas vainikuotas\nšventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios\nneteisybės, nei kantrios teisybės."
   statusas: verified
   teiginio_tipas: faktas
@@ -132,8 +105,7 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
 - id: c-167478
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 72"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie maldininkus ir Kulmo pilies bei miesto įkūrimą
 
@@ -155,3 +127,35 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60150
+
+- id: c-178720
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Mat pagarba die­
+    vams ir baimė, iš mažens įskiepyta širdyje ir tolydžio
+    bręstanti, negali būti vien jėga išraunamos iš neap­
+    šviestųjų širdžių. Tačiau kai jie pastebėjo, jog, kara­
+    liui paliepus, gesinamos šventosios ugnys, niekinami
+    aukurai ir šventovės, kertami alkai, žudomi žalčiai ir
+    jog už tai niekas nenukenčia, niekas nenubaudžiamas,
+    tada žmonės ir ėmė galvoti, jog nebuvo pagrindo bau­
+    gintis to, ko ligi tol bijojo, ir, pamažėle baimei lėgs-
+    tant, patys priėmė valdovų tikėjimą. Kartą kilęs iš
+    Čekijos kunigas, vardu Jeronimas, kirviu skaldydamas
+    dievo Perkūno atvaizdą, per neatsargumą smarkiai įsi­
+    kirto koją, tada žmonės ėmę šaukti, jog štai ši nelaimė
+    ir atsitikusi dėl dievybės įžeidimo, bei raudoti, kad
+    buvęs paniekintas jų tikėjimas; vis dėlto, kai tas pats
+    Jeronimas, palaikęs ranką virš žaizdos ir peržegnojęs
+    ją šventojo kryžiaus ženklu, paminėjo tikrojo dievo
+    vardą, o aplink stovintiems parodė staiga sugijusią ko­
+    ją, tada, nepaprasto stebuklo pritrenkti žmonės paju­
+    to naujojo tikėjimo galią ir pradėjo niekinti senąjį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196483

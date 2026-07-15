@@ -3,10 +3,7 @@ tipas: asmuo
 pavadinimas: 'Šich Achmetas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
-aliases:
-  - 'Sich-Achmetas'
-variantai:
-  - 'Sich-Achmetas'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Šich Achmetas, Užvolgio skitų valdovas ir tremtinys, iš Vilniaus atvyko į seimą, kur jį priėmė Aleksandras. Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą. Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.
+Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą. Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą. Šich Achmetas buvo Achmato sūnus ir paskutinis Aukso ordos chanas.
 
 ## Teiginiai
 
@@ -48,72 +45,27 @@ media_all_json: |-
   pagrindžia:
     - c-177391
 
+<a id="claim-t-196657"></a>
+- t-004
+  global_id: t-196657
+  teiginys: "Šich Achmetas, Užvolgio skitų valdovas, iš Vilniaus atvyko į Bresto seimą kaip tremtinys ir beveik belaisvis."
+  pagrindžia:
+    - c-178822
+
 <a id="claim-t-195009"></a>
 - t-003
   global_id: t-195009
-  teiginys: "Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos chanas."
+  teiginys: 'Šich Achmetas buvo Achmato sūnus ir paskutinis Aukso ordos chanas.'
   pagrindžia:
     - c-177389
 - susijęs iš [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską.md#claim-t-185592|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]: Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
 - susijęs iš [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas.md#claim-t-185838|Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]: Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.
 - susijęs iš Krokuva: Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184536|Lenkai]]: Aleksandras ir Šich Achmetas suteikė bajoriškųjų lengvatų karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184555|Lietuviai]]: Aleksandras ir Šich Achmetas suteikė karo žygiais išgarsėjusiems lietuviams, lenkams ir skitams bajoriškųjų lengvatų.
-- susijęs iš [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską.md#claim-t-185591|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]: Kojelavičiaus pasakojime skitai sutartis sudarydavo pildami vandenį ant kardų ir tardami prakeikimą sutarties laužytojui.
-- susijęs iš [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu.md#claim-t-185911|Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]: Aleksandras ir Šich Achmetas suteikė bajoriškųjų lengvatų karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, paliesdami jų petį kardu.
-- susijęs iš Naugardas: Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu pavedė jį valdyti Chaleckiui.
 - susijęs iš Seversko žemė: Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę ir siaubė nuo Lietuvos prie Maskvos perėjusių didikų valdas.
 - susijęs iš Trakai: Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose.
-- susijęs iš [[objektai/zodynas/bajoriškosios lengvatos.md#claim-t-185399|bajoriškosios lengvatos]]: Aleksandras ir Šich Achmetas bajoriškųjų lengvatų suteikė karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams.
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Karalius įsakė parūpinti Šich Achmetui pui­
-    kiausią svitą ir palydėti jį į Radomą. Pakviestas į se­
-    nato posėdį, jis, be galo išraiškingai kalbėdamas, nusi­
-    skundė, kad, girdi, kovodamas už Lenkijos bei Lietu­
-    vos reikalus, buvęs priešo krašte nelyginant išduotas;
-    išeikvojęs visus turtus kariuomenei išlaikyti, dabar,
-    laužant duotą žodį, turįs kęsti smurtą, negalėdamas su­
-    silaukti nei laisvės, nei pagalbos kovoje prieš Krymo
-    skitus. Karaliaus ir luomų vardu jam šitaip buvo atsa­
-    kyta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Dėl karaliaus ligos seimas buvo pa­
-    leistas, kadangi vargu ar ką galima buvo benuveikti.
-    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
-    metas, valdovo valia turėjęs būti Trakuose vaišingai
-    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
-    Patariamas Nogajų ordos skitų, bandė iš ten pabėgti,
-    tačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur
-    dar stipriau saugojo, ypač
-    K ry m o  sk ita i n io k o -
-    dėl to, kad Krymo chanas
-    ja  L ie tu v ą
-    Mengli Girėjus per pasiunti­
-    nius žadėjo karaliui taiką ir
-    pagalbą, jeigu šis neleis Šich Achmetui pasprukti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos chanas.'
+- c-001
+  santrauka: 'Šich Achmetas buvo Achmato sūnus ir paskutinis Aukso ordos chanas.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos
@@ -122,53 +74,50 @@ media_all_json: |-
     mo chanų Mengll-Girėjų, kuris savo možiu siekė pašalinti Sich-
     Achmetų ir sujungti savo valdžioje visas totorių ordas.
   citata_rodoma: ''
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Citatos
-
-- id: c-177389
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos
-    chanas. 1500—1503 m. M askvos ir Lietuvos valstybių k are stojo
-    LDK pusėn, tikėdamasis iš jos paramos prieš bendrų priešų — Kry­
-    mo chanų Mengll-Girėjų, kuris savo možiu siekė pašalinti Sich-
-    Achmetų ir sujungti savo valdžioje visas totorių ordas.
-  citata_rodoma: "Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos \nchanas. 1500—1503 m. M askvos ir Lietuvos valstybių k are stojo \nLDK pusėn, tikėdamasis iš jos paramos prieš bendrų priešų — Kry­\nmo chanų Mengll-Girėjų, kuris savo možiu siekė pašalinti Sich- \nAchmetų ir sujungti savo valdžioje visas totorių ordas."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195009
 
 - id: c-177390
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 582"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 582."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Dėl karaliaus ligos seimas buvo pa­
-    leistas, kadangi vargu ar ką galima buvo benuveikti.
-    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
-    metas, valdovo valia turėjęs būti Trakuose vaišingai
-    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
-    Patariamas Nogajų ordos skitų, bandė iš ten pabėgti,
-    tačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur
-    dar stipriau saugojo, ypač
-    K ry m o  sk ita i n io k o -
-    dėl to, kad Krymo chanas
-    ja  L ie tu v ą
-    Mengli Girėjus per pasiunti­
-    nius žadėjo karaliui taiką ir
-    pagalbą, jeigu šis neleis Šich Achmetui pasprukti.
+    Len­
+    kijoje kiekvienas žmogus pats rūpinasi savo šeimos
+    turtu: niekas neverčiamas traukti į karo žygį iš tėvy­
+    nės, vieni valstybėje verčiasi žemdirbyste, amatais bei
+    prekyba, kiti garbina dievą, sprendžia teismuose by­
+    las, rūpinasi pilių apsauga ir tarnauja didikams, žodžiu,
+    kiekvienas gyvena taip, kaip
+    L ie tu v o s d id ik a i m ė-
+    nori".
+    g in a
+    s u s ita ik y ti
+    su
+    Šich Achmetui visa ko
+    k a ra liu m i
+    prižadėjus, Lietuvos didikai,
+    kuriuos Breste karalius buvo
+    pašalinęs iš senato, Radomo seime, nė nepradėjus svar­
+    styti kitų reikalų, stengėsi lenkų remiami pašalinti vi­
+    sus esamus nesutarimus tarp karaliaus ir senato. Ka­
+    ralius viešai lenkams pasižadėjo, kad iš pagarbos jiems
+    padarys taip, kaip jie reikalauja, tačiau sakėsi neno­
+    rįs Lenkijoje nieko spręsti, o visą reikalą ketinąs per­
+    duoti lietuvių seimui. Tada lietuvių senato pirminin­
+    kas, Vilniaus vyskupas Vaitiekus Taboras, pakilęs iš
+    vietos, ir kreipėsi į karalių paprasta, bet nelyginant
+    kažkokio dangaus įkvėpimo kupina kalba: „Kažko­
+    kiems pasipūtėliams klastingai sukursčius prieš mus,
+    nieko pikta nepadariusius, tavo širdį, ligi šiol kentėme
+    tavo rūstį taip, kaip ir dera valdiniams, klausantiems
+    savo valdovo.
   citata_rodoma: "Dėl karaliaus ligos seimas buvo pa­\nleistas, kadangi vargu ar ką galima buvo benuveikti.\nSusirgęs karalius nuvežamas į Krokuvą, o Šich Ach-\nmetas, valdovo valia turėjęs būti Trakuose vaišingai\npriimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.\nPatariamas Nogajų ordos skitų, bandė iš ten pabėgti,\ntačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur\ndar stipriau saugojo, ypač\nK ry m o  sk ita i n io k o -\ndėl to, kad Krymo chanas\nja  L ie tu v ą\nMengli Girėjus per pasiunti­\nnius žadėjo karaliui taiką ir\npagalbą, jeigu šis neleis Šich Achmetui pasprukti."
   statusas: verified
   teiginio_tipas: faktas
@@ -180,19 +129,33 @@ media_all_json: |-
 - id: c-177391
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 580"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 580."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Karalius įsakė parūpinti Šich Achmetui pui­
-    kiausią svitą ir palydėti jį į Radomą. Pakviestas į se­
-    nato posėdį, jis, be galo išraiškingai kalbėdamas, nusi­
-    skundė, kad, girdi, kovodamas už Lenkijos bei Lietu­
-    vos reikalus, buvęs priešo krašte nelyginant išduotas;
-    išeikvojęs visus turtus kariuomenei išlaikyti, dabar,
-    laužant duotą žodį, turįs kęsti smurtą, negalėdamas su­
-    silaukti nei laisvės, nei pagalbos kovoje prieš Krymo
-    skitus. Karaliaus ir luomų vardu jam šitaip buvo atsa­
-    kyta.
+    Neatsispyręs kas dieną girdimiems Glinskio
+    klastingiems
+    raginimams,
+    Karalius
+    pasmerkia
+    Aleksandras pasmerkė mir-
+    mirčiai
+    žymiausius
+    čiai Žemaitijos seniūną Sta-
+    Lietuvos didikus
+    nislovą Žarnovskį, Smolens­
+    ko vietininką Stanislovą Kiš­
+    ką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos
+    maršalą Joną Zaberezinskį ir kitus to paties luomo ir
+    tos pačios minties žmones. Jis sušaukė Breste seimą,
+    ketindamas kokia nors dingstimi sukviesti ten žymiau­
+    sius didikus į pilį, suimti ir išžudyti. Nieko nežinoda­
+    mi apie karaliaus sumanymus, į seimą kaip paprastai
+    suvažiavo gausybė bajorų, tačiau, karalystės kanclerio
+    Jono Laskio laiku įspėti, išsisukinėjo kviečiami į pilį.
+    Karalius, supratęs, kad jo sumanymai visiems žinomi,
+    sutiko parodyti malonę, patariamas to paties kancle­
+    rio, o labiausiai Jono iš Osvencimo, savo nuodėm­
+    klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­
+    ją, o kitus išvijo iš senato.
   citata_rodoma: "Karalius įsakė parūpinti Šich Achmetui pui­\nkiausią svitą ir palydėti jį į Radomą. Pakviestas į se­\nnato posėdį, jis, be galo išraiškingai kalbėdamas, nusi­\nskundė, kad, girdi, kovodamas už Lenkijos bei Lietu­\nvos reikalus, buvęs priešo krašte nelyginant išduotas;\nišeikvojęs visus turtus kariuomenei išlaikyti, dabar,\nlaužant duotą žodį, turįs kęsti smurtą, negalėdamas su­\nsilaukti nei laisvės, nei pagalbos kovoje prieš Krymo\nskitus. Karaliaus ir luomų vardu jam šitaip buvo atsa­\nkyta."
   statusas: verified
   teiginio_tipas: faktas
@@ -201,7 +164,34 @@ media_all_json: |-
   pagrindzia:
     - t-195008
 
+- id: c-178822
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Nieko nežinoda­
+    mi apie karaliaus sumanymus, į seimą kaip paprastai
+    suvažiavo gausybė bajorų, tačiau, karalystės kanclerio
+    Jono Laskio laiku įspėti, išsisukinėjo kviečiami į pilį.
+    Karalius, supratęs, kad jo sumanymai visiems žinomi,
+    sutiko parodyti malonę, patariamas to paties kancle­
+    rio, o labiausiai Jono iš Osvencimo, savo nuodėm­
+    klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­
+    ją, o kitus išvijo iš senato.
+    Į seimą atvyko iš Vilniaus
+    Skitas Sich Achmetas
+    Šich Achmetas, Užvolgio ski-
+    tariasi su karaliumi
+    tų valdovas, o šiuo metu
+    Breste ir Radome
+    tremtinys ir beveik belaisvis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196657
+
 ## Ryšiai
-- Šich Achmetas keliavo į [[objektai/vietos/Lietuva]]
 - Šich Achmetas puolė [[objektai/vietos/Severskas]], [[objektai/vietos/Seversko žemė]]
 - Šich Achmetas užėmė [[objektai/vietos/Naugardas]]

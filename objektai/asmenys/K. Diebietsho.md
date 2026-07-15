@@ -44,25 +44,6 @@ Diebietsho korpusas.
   teiginys: "Pulkininko K. Diebietsho korpusas 1919 m. lapkričio 15 d. pasitraukė iš Lietuvos kaip paskutinis Vokietijos centrinei vadovybei paklusęs vokiečių karinis dalinys."
   pagrindžia:
     - c-44398
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pulkininko K. Diebietsho korpusas 1919 m. lapkričio 15 d. pasitraukė iš Lietuvos kaip paskutinis Vokietijos centrinei vadovybei paklusęs vokiečių karinis dalinys.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jiems buvo
-    mokama gera alga, pergalės atveju žadama duoti žemės
-    Latvijoje ar Lietuvoje. 1919 m. lapkričio 15 d. iš Lietuvos pasi-
-    traukė paskutinis Vokietijos centrinei vadovybei paklūstan-
-
-    tis vokiečių karinis dalinys - plk. K. Diebietsho korpusas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

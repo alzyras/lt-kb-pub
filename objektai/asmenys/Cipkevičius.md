@@ -37,22 +37,6 @@ media_all_json: |-
     - c-41522
 - susijęs iš [[objektai/asmenys/Šidiškis.md#claim-t-183771|Šidiškis]]: 1 būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais.
 - susijęs iš [[objektai/asmenys/Šidiškis.md#claim-t-39829|Šidiškis]]: 1-ojo būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1 būrio kareiviai Cipkevičius ir
-    Šidiškis prašė, kad leisčiau jiems pulti lenkus durtuvais. Nieko jiems neatsakiau. Cipkevičius
-    buvo aukštas stambaus sudėjimo ūkininkaitis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41522

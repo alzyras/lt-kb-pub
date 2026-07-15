@@ -51,26 +51,6 @@ Nenurodyta
   teiginys: "Draugija kartu su Lietuvos inteligentais suorganizavo skyrių, kuriame rodė lietuviškus raštus ir lietuvių priespaudą."
   pagrindžia:
     - c-66894
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Draugija kartu su Lietuvos inteligentais suorganizavo skyrių, kuriame rodė lietuviškus raštus ir lietuvių priespaudą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    toks skyrius buvo suorganizuotas draugijos bendrai su Lietuvos
-    inteligentais. Jame buvo parodyta lietuviška trobelė, lietuviškų
-    raštų rinkinys; diagramomis, prierašais ir specialiais leidiniais bu-
-    vo parodyta sunki lietuvių priespauda. Visa tai prmą kartą iškėlė
-    Prancūzų ir šiaip vakarų Europos visuomenėje lietuvių vardą,
-    lietuvių spaudos uždraudimą ir lietuvių kovą dėl savo spaudos
-    teisės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

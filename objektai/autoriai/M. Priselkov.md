@@ -51,37 +51,6 @@ Priselkova, Maskva 1950. Priselkov, M.
   teiginys: "M. Priselkovas kartu su M. Fasmeriu paskelbė darbą apie V. N. Beneševičiaus ištraukas iš XIV a. Rusios bažnyčios istorijos."
   pagrindžia:
     - c-33061
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^5) **PSRL, III, 75 p.**
-    (^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-
-    koj cerkvi XIV v._** **(Izvestija Otd. Russk. Jaz. i Slov.) 1916, 49-61 p.**
-    (^7) **LUB, II, 333 p.**
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    ToS = J. Totoraitis : Sūduvos-Suvalkijos istorija, t. 1, Kaunas
-    1938.
-    TrLR = Troickaja letopis’. Rekonstrukcija M. D. Priselkova, Maskva
-    1950.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

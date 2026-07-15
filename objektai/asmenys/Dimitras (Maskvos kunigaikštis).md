@@ -42,39 +42,6 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
   teiginys: "Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi."
   pagrindžia:
     - c-167639
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi,
-    puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
-    laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
-    suskilusi, atskiri „saarai“ vedė nuolatinius karus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Daugelis rusų
-    kunigaikščių tebemokėjo jiems duoklę dar ir Vytauto laikais.
-    Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi,
-    puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
-    laikais totorių valstybė kaip tik pergyveno krizį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

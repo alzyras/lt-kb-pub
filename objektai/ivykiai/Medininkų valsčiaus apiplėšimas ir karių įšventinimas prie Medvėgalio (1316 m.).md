@@ -7,14 +7,14 @@ datos:
   - '1316 m.'
 date_start: '1316'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
   - karas
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -72,8 +72,8 @@ Nenurodyta
   teiginys: "Apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų."
   pagrindžia:
     - c-63718
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -101,18 +101,18 @@ Nenurodyta
 - id: c-63718
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 211"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 211."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Medininkų valsčiaus apiplėšimą 1316 metais
-
-      Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių
-    iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš
-    Elnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,
-    į Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į
-    nelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai
-    dėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į
-    riterius.
+    Galop visa kariuomenė susirinko į
+    vieną daiktą ir patraukė namo.
+    333 (326). Apie vieną įvykį 1317 metais
+    Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno
+    šuoliais leidosi į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo. Kai
+    jis, smarkiai susitrenkęs, po kurio laiko atsigavo ir atsistojo, tai apsidairęs neišvydo nei
+    savo žirgo, nei brolių kariuomenės; be galo susikrimtęs, jis atsiduso, pakėlė akis į dangų
+    ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,
+    pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo
+    atvykęs, patraukė į Ragainę.
   citata_rodoma: "Apie Medininkų valsčiaus apiplėšimą 1316 metais\n\n  Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių\niš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš\nElnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,\nį Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į\nnelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai\ndėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į\nriterius."
   statusas: verified
   teiginio_tipas: faktas

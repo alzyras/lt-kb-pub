@@ -42,22 +42,6 @@ Wittram : Baltische Geschichte 1180-1918 (WiBG).
   teiginys: "R. Wittramo „Baltische Geschichte 1180-1918“ bibliografijoje žymėta santrumpa WiBG."
   pagrindžia:
     - c-33536
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — G. von Rauch :** **_Ge­
-    schichte der baltischen Staaten_** **(1970). — R. Wittram :** **_Baltische Geschichte
-    1180-1918_** **(WiBG).**
-    (^168) **Pvz., joje t. 5, 1969, yra W. Nöbel :** **_Michael Küchmeister.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

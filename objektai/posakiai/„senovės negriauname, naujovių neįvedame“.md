@@ -71,63 +71,6 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     - c-169755
 - susijęs iš [[objektai/paprociai/LDK užimtų Rusios žemių senosios tvarkos palikimas.md#claim-t-54268|LDK užimtų Rusios žemių senosios tvarkos palikimas]]: LDK užimtose Rusios žemėse lietuvių kunigaikščiai iš pradžių palikdavo senąsias kunigaikštijų struktūras.
 - susijęs iš [[objektai/paprociai/LDK užimtų Rusios žemių senosios tvarkos palikimas.md#claim-t-54269|LDK užimtų Rusios žemių senosios tvarkos palikimas]]: LDK užimtuose kraštuose lietuviai iš pradžių nekeisdavo susiklosčiusios tvarkos ir palikdavo senąsias kunigaikštijų struktūras.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Net dinastinės
-    vedybos vykdavo tiesioginiu kariniu spaudimu.
-    Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-
-    bę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-
-    sios tvarkos. Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis:
-    „senovės negriauname, naujovių neįvedame“  – jie palikdavo senąsias
-    kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaiki-
-    niais terminais – autonomijas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Florencijoje). LDK būtent Vytauto
-    laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
-    matuojant net tų laikų mastu. „Senovės nekeitimo“ tezė tėra istoriografi-
-    nis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė
-    į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-
-    rankiškais keliais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
-    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
-    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o
-    G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
-    bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
-    idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje). LDK būtent Vytauto
-    laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
-    matuojant net tų laikų mastu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-169754
@@ -150,6 +93,8 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186413
+    - t-186414
+    - t-186415
 
 - id: c-169755
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

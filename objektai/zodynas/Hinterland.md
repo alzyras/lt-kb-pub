@@ -58,33 +58,13 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
   teiginys: "Narbutas nurodo nuomonę, kad Natangija galėjo reikšti užpakalinį arba galinį kraštą, Hinterland."
   pagrindžia:
     - c-175072
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Natangija (Natangia). Mokslininkai tyrinėtojai nesu­
-    taria dėl šio pavadinimo kilmės; manoma, kad tai reiš­
-    kia užpakalinį, galinį kraštą, Hinterland, nes jis plyti už
-    anksčiau aprašytų2. Panašiau į tikrovę tai, jog buvusi
-    atskirą kartą sudaranti gentis, vadinama natangais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-004
 
 ## Citatos
 
 - id: c-175072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 266."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Natangija (Natangia). Mokslininkai tyrinėtojai nesu­
     taria dėl šio pavadinimo kilmės; manoma, kad tai reiš­
@@ -99,4 +79,3 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
   pagrindzia:
     - t-192219
     - t-192561
-    - t-004

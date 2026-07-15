@@ -53,26 +53,6 @@ Nenurodyta
   teiginys: "1917 m. lapkričio 2–10 d. Berne sušauktoje naujojoje konferencijoje dalyvavo ir Lietuvos Tarybos delegatai."
   pagrindžia:
     - c-01829
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus
-    paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietu-
-    vos naudai (1917 m. pradžioj).
-    Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne
-    vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio
-    2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai. Konfe-
-    rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
-    kalą būsimajai Lietuvai turėti uostą (Klaipėdą).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

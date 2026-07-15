@@ -35,44 +35,28 @@ Narbutas mini Polesėje paplitusį posakį apie bjauraus veido, apdriskusiais ir
   teiginys: "Narbutas mini Polesėje paplitusį posakį „Atrodo kaip jotvingis“, taikytą bjauraus veido ir apdriskusiais rūbais vilkinčiam žmogui."
   pagrindžia:
     - c-175002
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas mini Polesėje paplitusį posakį „Atrodo kaip jotvingis“, taikytą bjauraus veido ir apdriskusiais rūbais vilkinčiam žmogui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Apie jotvingių veido bruožus liko apčiuopiamų pėdsakų Polesėje.
-    Jie turėtų būti antipatiški, nes ten yra paplitęs toks posakis: jeigu
-    sutinka bjauraus veido žmogų, be to, vilkintį apdriskusius ir ne­
-    švarius rūbus, tai sakoma:
-    „Atrodo
-    kaip
-    jotvingis" (Biblioteka
-    Warszawska. R. 1842. T. IV)***.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
+<a id="claim-t-197701"></a>
+- t-002
+  global_id: t-197701
+  teiginys: "Nei inazovietėms, nei lenkėms, nei rusėms, nei lietuvėms ar kitoms europietėms moterims nebūdingi tie bruožai, kurie puošia dailias senovės jotvingių dukras, kažkada gal iš tekintas už slavų jaunuolių."
   pagrindžia:
-    - t-001
+    - c-175002
 
 ## Citatos
 
 - id: c-175002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Apie jotvingių veido bruožus liko apčiuopiamų pėdsakų Polesėje.
-    Jie turėtų būti antipatiški, nes ten yra paplitęs toks posakis: jeigu
-    sutinka bjauraus veido žmogų, be to, vilkintį apdriskusius ir ne­
-    švarius rūbus, tai sakoma:
-    „Atrodo
-    kaip
-    jotvingis" (Biblioteka
-    Warszawska. R. 1842. T. IV)***.
+    Žodžiu, jų gyslose dar teka dalis kitos, gal neslavų
+    genties kraujo. Ypač nuo kitų slavių skiriasi moterys ne
+    tik veidais, bet ir judesių grakštumu ir drabužiais. Nei
+    inazovietėms, nei lenkėms, nei rusėms, nei lietuvėms ar
+    kitoms europietėms moterims nebūdingi tie bruožai, kurie
+    puošia dailias senovės jotvingių dukras, kažkada gal iš­
+    tekintas už slavų jaunuolių.
   citata_rodoma: "Apie jotvingių veido bruožus liko apčiuopiamų pėdsakų Polesėje.\n  Jie turėtų būti antipatiški, nes ten yra paplitęs toks posakis: jeigu\n  sutinka bjauraus veido žmogų, be to, vilkintį apdriskusius ir ne-\n  švarius rūbus, tai sakoma:\n  „Atrodo\n  kaip\n  jotvingis\" (Biblioteka\n  Warszawska. R. 1842. T. IV)***."
   statusas: verified
   teiginio_tipas: faktas
@@ -80,3 +64,4 @@ Narbutas mini Polesėje paplitusį posakį apie bjauraus veido, apdriskusiais ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192119
+    - t-197701

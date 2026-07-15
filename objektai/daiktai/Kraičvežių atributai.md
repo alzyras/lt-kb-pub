@@ -63,6 +63,7 @@ Nenurodyta
   teiginys: "Sudėtinis vestuvinių kraičvežių kostiumo ir vaidybos atributų rinkinys."
   pagrindžia:
     - c-177749
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

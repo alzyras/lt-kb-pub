@@ -7,15 +7,15 @@ datos:
   - '1227 m.'
 date_start: '1227'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karvedys
   - asmuo
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,33 +56,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Stegutas Zebrovičius.md#claim-t-191320|Stegutas Zebrovičius]]: 1227 m. jotvingių antpuoliuose iki Voluinės Vladimiro buvo suimtas jotvingių vadas Stegutas Zebrovičius.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-192410|Jotvingiai]]: Narbutas rašo, kad Konrado valdymo metu Gotardas, Lukošiaus sūnus, kautynėse suėmė septynis jotvingių kunigaikštukus.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1227 metais prie Voluinės Vladimiro buvo suimti du jotvingių vadai: Sutras Monoduničius ir Stegutas Zebrovičius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip vadų rankose buvo su­
-    kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­
-    dant, kai sykį Uchanės grafas Gotardas, Lukošiaus sūnus,
-    kautynėse suėmė septynis jotvingių kunigaikštukus, kiek­
-    vienas jų išsipirko sumokėdamas septynis šimtus gryno
-    sidabro grivinų, o tai yra šiandieninių lenkiškų auksinų
-    po 22 tūkstančius 400 už kiekvieną3. Jotvingiai, nepaisy­
-    dami iš mazoviečių ir prūsų patirtų nesėkmių, gyvendami
-    slavų Brastos kaimynystėje, 1227 metais savo antpuolius
-    išplėtė net iki Voluinės Vladimiro, kur buvo suimti du
-    jotvingių vadai: Sutras Monoduničius ir Stegutas Zebro-
-    vičius. Tuo tarpu Voluinės kunigaikščiai Danielius ir Va-
-    silka buvo priversti žygiuoti net iki jotvingių gyvenvie­
-    1 Voigt.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Pasak Teodoro Narbuto, Sutras Monoduničius krito mūšio lauke nuo pačių kunigaikščių ginklo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -103,8 +76,7 @@ media_all_json: |-
 - id: c-174206
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 122"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip vadų rankose buvo su­
     kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­
@@ -130,12 +102,20 @@ media_all_json: |-
 - id: c-174207
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Įvyko mūšis. Sutras krito mūšio lauke nuo pačių
-    kunigaikščių ginklo. Tuo tarpu Stegutas tikriausiai žu­
-    vo per antrąją ataką nuo kažkokio Selvo rankos.
+    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
+    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
+    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
+    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
+    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
+    pateiksime. Būgas jau tuomet buvo Mazovijos ir rusų
+    žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­
+    bių jotvingių gyvenviečių, nes jas tikėjosi užpulti Pietų
+    Rusios kunigaikščiai, kuriems
+    vadovavo Danielius —
+    klastingas, godus ir neramus žmogus.
+  citata_rodoma: "Įvyko mūšis. Sutras krito mūšio lauke nuo pačių\nkunigaikščių ginklo. Tuo tarpu Stegutas tikriausiai žu­\nvo per antrąją ataką nuo kažkokio Selvo rankos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -43,23 +43,6 @@ Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropi
   teiginys: "Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Toropiecą."
   pagrindžia:
     - c-93865
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Toropiecą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    jo garnizonai įsikūrė Rževe ir Bialoje. Iki 1362 jis užėmė Smolensko
-    kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt.
-    Pats Smolenskas tapo apsuptas Algirdo valdomis, taigi jo valiai
-    (^16) **MLLG, V, 1907, 358-361 p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

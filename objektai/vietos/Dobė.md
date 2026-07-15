@@ -43,27 +43,6 @@ Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiem�
   teiginys: "1259-1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti."
   pagrindžia:
     - c-33829
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1259-1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Per trumpą laiką (nuo 1253 m.) kryžiuočiai Žemaičiuose ir jų
-    pasienyje beveik kasmet turėjo naujų teritorinių laimėjimų ir aplink
-    statėsi svarbias pilis. Betarpiškame ryšyje su Georgenburgo įkūrimu
-    reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies
-    Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.
-    Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
-    jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
-    tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

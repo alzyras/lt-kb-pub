@@ -62,23 +62,6 @@ Nenurodyta
   teiginys: "Žodis „vaisba“ reiškia prekybą."
   pagrindžia:
     - c-00296
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pažymėtina, kad „visbiečiai" ir „pirkliai" senovės lietuviams buvo
-    vienareikšmės sąvokos. Kitokių pirklių jie, matyt, nė nepažino. To-
-    dėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia pre-
-    kybą, vaisbūnas — pirklį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -97,5 +80,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06182
     - t-06181
+    - t-06182

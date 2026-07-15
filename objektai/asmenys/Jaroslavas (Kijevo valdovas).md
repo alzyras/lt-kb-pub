@@ -43,24 +43,6 @@ Lietuva patyrė Kijevo Rusios agresiją.
   teiginys: "1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą."
   pagrindžia:
     - c-41360
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos valstybė
-
-    x1 a. Lietuva patyrė Kijevo Rusios agresiją. 1040 m. Kijevo valdo-
-    vas Jaroslavas surengė didelį žygį į Lietuvą. Lietuvių visgi nesuge-
-    bėta įtraukti į senrusiškos kultūros įtaką, kas ateityje galėjo lemti
-    lietuvių tautos asimiliaciją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

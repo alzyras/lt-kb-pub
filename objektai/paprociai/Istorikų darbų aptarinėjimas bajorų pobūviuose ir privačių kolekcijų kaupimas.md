@@ -76,32 +76,6 @@ Nenurodyta
   teiginys: "Privačiose kolekcijose buvo kaupiami archeologiniai radiniai ir meno objektai."
   pagrindžia:
     - c-55736
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš
-    tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet
-    veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­
-    vo. Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
-    čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
-    tautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­
-    ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
-    formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
-    mą. 1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais
-    metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis. Lie­
-    tuvos visuomenė tiesiog alsavo praeitimi: istorikų darbai buvo
-    aptarinėjami bajorų pobūviuose, buvo kaupiamos privačios ar­
-    cheologinių radinių ir meno kolekcijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

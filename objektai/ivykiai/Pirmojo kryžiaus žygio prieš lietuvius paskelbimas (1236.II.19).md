@@ -58,24 +58,6 @@ Nenurodyta
   teiginys: "1236 m. vasario 19 d. popiežius Grigalius IX leido Šiaurės Vokietijoje paskelbti pirmąjį kryžiaus žygį prieš lietuvius."
   pagrindžia:
     - c-33422
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vilhelmo Modeniečio paveiktas, popiežius Grigalius IX leido
-    visoje šiaurės Vonietijoje paskelbti (1236.II.19) _pirmąjį_ kryžiaus
-    žygį prieš lietuvius. Kalavijuočiai jau buvo pastebėję, jog jų pašo-
-
-    (^74) **M. Tumler,** **_Der deutsche Orden im Werden, Wachsen und Wirken bis
-    1400,_** **Viena 1955 (gausi bibliografija).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -57,22 +57,6 @@ Nenurodyta
   teiginys: "Skuodo laukuose žemaičiai sumušė juos persekiojusį Kuldingos komtūrą Bernhardą von Hareną, žuvo 33 riteriai."
   pagrindžia:
     - c-28767
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Paliauboms pasibaigus, jie puolė Kuršą. Kai
-    narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su
-    gausiu grobiu grįžtantiems žemaičiams Skuodo laukuose pastojo
-    kelią, šie persekiotojus sumušė. Žuvo 33 riteriai^162.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

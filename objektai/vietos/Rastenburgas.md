@@ -74,59 +74,8 @@ media_all_json: |-
 - susijęs iš Röselis: Röselio pilis priskiriama prie Lietuvai artimesnių pilių ir nurodoma įkurta 1337 m.
 - susijęs iš Upa: Upa buvo Okos aukštupio dešinysis intakas prie Odojevo.
 - susijęs iš Upa: Upa apibūdinama kaip Okos aukštupio dešinysis intakas prie Odojevo, buvusio LDK rytų pasienyje.
-- susijęs iš Veliuona: Pasibaigus susitikimui karalius kurį laiką pasiliko Veliuonoje pailsėti, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.
+- susijęs iš Veliuona: Po 1418 m. susitikimo karalius kurį laiką pasiliko Veliuonoje, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.
 - susijęs iš [[objektai/zodynas/ariergardas.md#claim-t-185354|ariergardas]]: Bartenšteino ir Rastenburgo komtūrai pasivijo iš Prūsijos grįžtantį Kęstutį ir užpuolė jo kariuomenės ariergardą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tarp toliausiai į rytus įsiterpusių ir vakarinių pilių tinklo,
-    matome, yra tuščias plotas. Be to, ir čia parodytos kai kurios pilys buvo
-    pastatytos jau karams besibaigiant. Štai Lietuvai artimesniųjų pilių įkūrimo
-    datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava —
-    1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m.,
-    Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.,
-    Alenšteinas — 1353 m., Ortelsburgas — taip pat XIV a. vidury, Bišofsburgas—
-    1395 m., Lyka — 1398 m. (miestelis prie jos pradėtas kurti tik 1435 m. ), ir t.t.
-    - Kaip matome, Į pietus nuo Ragainės, be vėlyvos Lykos pilaitės, nebuvo
-        jokios ordino pilies.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Veliuonoje pasilikęs karalius medžiodamas vos išvengė Rastenburgo komtūro surengtų kryžiuočių pasalų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pasibai­
-    gus susitikimui, karalius kurį laiką pasiliko Veliuono­
-    je, norėdamas pailsėti, nes netoliese buvo vietų, tinka­
-    mų medžioklei ir poilsiui. Medžiodamas jis pats kartą
-    vos nepakliuvo į kryžiuočių
-    K araliu s
-    išv e n g ia
-    rankas, tik narsi jo palyda
-    k ry ž iu o č ių  pasalų
-    vargais
-    negalais
-    išgelbėjo
-    valdovą nuo pasalų, kurias
-    surengė Rastenburgo komtūras vienoje tam reikalui
-    tinkamoje vietoje. Po to ir viena, ir kita šalis puldinėjo
-    ir siaubė viską, kas pakliuvo po ranka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-68558
@@ -155,8 +104,7 @@ media_all_json: |-
 - id: c-168483
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 394"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 394."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pasibai­
     gus susitikimui, karalius kurį laiką pasiliko Veliuono­
@@ -166,7 +114,7 @@ media_all_json: |-
     K araliu s
     išv e n g ia
     rankas, tik narsi jo palyda
-    k ry ž iu o č ių  pasalų
+    k ry ž iu o č ių pasalų
     vargais
     negalais
     išgelbėjo

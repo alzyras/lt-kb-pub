@@ -44,25 +44,6 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
   pagrindžia:
     - c-32718
 - susijęs iš Lietuvių karas su kryžiuočiais: Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1333 m. už busimo
-    Maskvos didžiojo kunigaikščio Simeono (Jono Kalitos sūnaus) ište­
-    kėjusi Aigustė, pakrikštyta Anastazija, yra laikoma Gediminaite.
-    Pagal M. Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado
-    Dovydo Gardiniškio žmona buvusi taip pat Gediminaite. Politiškai
-    dar reikšmingesnės buvo sūnų vedybos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32718
@@ -85,4 +66,4 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
     - t-30225
 
 ## Ryšiai
-- Dovydas Gardiniškis gynė [[objektai/vietos/Gardinas]], [[objektai/vietos/Pskovas]]
+- Dovydas Gardiniškis gynė [[objektai/vietos/Pskovas]]

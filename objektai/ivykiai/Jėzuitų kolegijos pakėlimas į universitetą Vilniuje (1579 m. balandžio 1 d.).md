@@ -64,30 +64,6 @@ Nenurodyta
   teiginys: "Balandžio 1-ąją išleisti dekretai patvirtino vyskupo Protasevičiaus funduotos jėzuitų kolegijos pakėlimą į universitetą."
   pagrindžia:
     - c-55331
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Balandžio 1-ąją išleisti dekretai patvirtino vyskupo Protasevičiaus funduotos jėzuitų kolegijos pakėlimą į universitetą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IV KNYGA
-    žvangant ginklams, nesiliaujant kariniams pasitarimams,
-    viešą pagarbą atiduoda mokslui. Vyskupo Protasevičiaus
-    funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­
-    kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­
-    rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai
-    išleisti dekretai57. Neapsiribodamas pavyzdžio verta savo
-    labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­
-    gė neturtingiems studentams bursą, pavadintą Valerijono
-    vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
-    jėzuitų priežiūrai ir globai58.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

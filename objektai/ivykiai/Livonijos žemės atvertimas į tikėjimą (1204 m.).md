@@ -58,31 +58,13 @@ Nenurodyta
   teiginys: "1204 m. Livonija, Rygos provincijos žemė, popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą."
   pagrindžia:
     - c-62972
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1204 m. Livonija, Rygos provincijos žemė, popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Livonijos žemės atvertimą į tikėjimą
-
-      1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus
-    Inocento rūpesčiu į Kristaus tikėjimą (Ptol. 21,10; Mart. loc. cit.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-62972
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 226."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Livonijos žemės atvertimą į tikėjimą
 

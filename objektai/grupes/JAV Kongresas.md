@@ -46,27 +46,6 @@ media_all_json: |-
 - susijęs iš JAV: 1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų.
 - susijęs iš Perkeltųjų asmenų įstatymas (1948 m.): 1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų.
 - susijęs iš [[objektai/zodynas/dipukai displaced persons (DP).md#claim-t-101578|dipukai displaced persons (DP)]]: Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1948 m. viduryje priėmė Perkeltųjų asmenų įstatymą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numačiusį įsileisti 205 tūkst. dipukų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
-    225
-    Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti
-    savo požiūrį į dipukus. 1948 m. viduryje JAV Kongresas priėmė vadi-
-    namąjį Perkeltųjų asmenų įstatymą, kuriame buvo numatoma įsileisti
-    205 tūkst. dipukų (tarp jų – 40 proc. Baltijos valstybių ir Lenkijos pa-
-    bėgėlių bei tremtinių).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-75146

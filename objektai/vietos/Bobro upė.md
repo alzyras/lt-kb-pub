@@ -35,40 +35,13 @@ Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė
   teiginys: "Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė karo stovyklą priešo žygiui stabdyti."
   pagrindžia:
     - c-168641
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė karo stovyklą priešo žygiui stabdyti.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Išvengė nelaisvės ar
-    mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va­
-    lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie
-    garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su
-    kardu rankoje prasiskynė kelią per ginkluotus būrius
-    ir paspruko iš pavojaus. Atvestas pas Ivaną, Konstan­
-    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
-    kinimus: ne tik kojas jam it vergui surakino grandinė­
-    mis, bet ir rankas užlaužė už nugaros ir nelyginant
-    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
-    Aleksandras sužinojo prie Bobro upės; norėdamas su­
-    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
-    se.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-168641
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 560"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Išvengė nelaisvės ar
     mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va­

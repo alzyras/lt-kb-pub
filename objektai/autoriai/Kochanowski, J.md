@@ -49,24 +49,6 @@ Kochanowski, J.
   teiginys: "J. Kochanowski 1900 m. Lvove paskelbė darbą „Witold, w. książę litewski“."
   pagrindžia:
     - c-55075
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    : Vytauto šeimyna, Praeitis,
-    t. 2, 1933, 183-224 p. (Vytauto sūnų klausimas). — Kochanowski, J. :
-    Witold, w. książę litewski, Lwów 1900.—Lewicki, A.: Kiedy Witold
-    został wielkiem księciem Litwy, KH, t. 8, 1894, 424-436 p. — Lohmeyeb,
-    K. : Witowt, Grossfürst von Litauen, MLLG, II, 4, 1887, 203-230 p.-—
-    Łowmiański, H. : Witold, wielki książę litewski, Vilnius 1930.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -87,4 +69,5 @@ Kochanowski, J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-54129
     - t-54130

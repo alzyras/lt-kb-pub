@@ -38,24 +38,6 @@ dr. Baptista Cigala^16.
     - c-28856
 - susijęs iš Dr. Baptistos Cigalos atsakymas dėl Vytauto karūnacijos: Dr. Baptista Cigala Zigmanto pavedimu atsakė į Krokuvos profesoriaus nuomonę dėl karūnacijos teisės.
 - susijęs iš Dr. Baptistos Cigalos atsakymas dėl Vytauto karūnacijos: Baptista Cigala antrame atsakyme gynė poziciją, kad Vytauto karūnacijai nereikėjo popiežiaus patvirtinimo.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tuo tarpu imp. Zigmantas pirma išsiuntė
-    teisininkų delegaciją, kuriai vadovavo Vienos univ. dr. Baptista
-    Cigala^16. Ji turėjo išsklaidyti Vytauto abejones dėl ceremonialo ir
-    išaiškinti, jog karaliaus vainikavimnisi popiežiaus sutikimas nesąs
-    reikalingas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-28856

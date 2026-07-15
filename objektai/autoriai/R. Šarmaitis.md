@@ -9,15 +9,15 @@ datos:
   - '1971 m.'
 date_start: '1963'
 date_end: '1971'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - redaktorius
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,21 +46,14 @@ media_all_json: |-
   pagrindžia:
     - c-169803
 
-<a id="claim-t-186450"></a>
+<a id="claim-t-186449"></a>
 - t-002
-  global_id: t-186450
+  global_id: t-186449
   teiginys: "R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
   pagrindžia:
     - c-169800
 
-<a id="claim-t-186450"></a>
-- t-003
-  global_id: t-186450
-  teiginys: "R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
-  pagrindžia:
-    - c-169800
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -78,23 +71,6 @@ media_all_json: |-
     - t-003
     - t-002
 
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Sideravičius, K. : _Marksistinė Lietuvos TSR isto­
-    rija,_ Tiesa, 1959, m. 137 (VI.12).—Šarmaitis, R.: _Iš marksistinių-
-    lenininių pozicijų,_ Komunistas, 1963, nr. 10, 42-47 p. — Trumpa, V. :
-    _Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p. — Trum­
-    pa, V. : _Istoriniai laikai,_ LE, t. 9, 124-125 p. — Varakauskas, R. :
-    _Lietuvos valstybės susidarymo klausimu_ (IstV, t. 10, 1969, 169-180 p.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-169800
@@ -102,18 +78,20 @@ media_all_json: |-
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    REDAKCINE KOMISIJA
-    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
-    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
-    *
-    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
+    Rankraštis neturėjo jokio pavadini­
+    mo. „Bychovco kronika" jis buvo pramintas XIX a.
+    pagal rankraščio savininką, Gardino gubernijos Volko-
+    vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
+    vos metraščio" antraštė duota dėl nusistojusios jau lie­
+    tuvių tarybinėje istoriografijoje tradicijos vadinti
+    metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
+    Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
   citata_rodoma: "REDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,  \nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į\n*\nVertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186450
     - t-186449
 
 - id: c-169803

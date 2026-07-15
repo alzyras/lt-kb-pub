@@ -53,6 +53,7 @@ Kairėnėliai šiame šaltinyje yra kaimas ar gyvenvietė.
   teiginys: "Vestuvininkai nuvažiavo į Kairėnėlius."
   pagrindžia:
     - c-178058
+
 ## Citatos
 
 - id: c-178057
@@ -68,10 +69,7 @@ Kairėnėliai šiame šaltinyje yra kaimas ar gyvenvietė.
     Į porinius ratus susėdo keturi vyrai — du gale, du ant lentelės — ir
     išvažiavo į Kairėnėlius, būsią, prašyti jaunavedžių „ant atgrąžtų“ , va­
     dinasi, prašyti, kad atvažiuotų sekmadienį.
-  citata_rodoma: "Tą dieną, po pusryčių buvo išsiųsti į „aną šalį“ vadinamieji kviesliai.
-Į porinius ratus susėdo keturi vyrai — du gale, du ant lentelės — ir
-išvažiavo į Kairėnėlius, būsią, prašyti jaunavedžių „ant atgrąžtų“ , va­
-dinasi, prašyti, kad atvažiuotų sekmadienį."
+  citata_rodoma: "Tą dieną, po pusryčių buvo išsiųsti į „aną šalį“ vadinamieji kviesliai. \nĮ porinius ratus susėdo keturi vyrai — du gale, du ant lentelės — ir \nišvažiavo į Kairėnėlius, būsią, prašyti jaunavedžių „ant atgrąžtų“ , va­\ndinasi, prašyti, kad atvažiuotų sekmadienį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

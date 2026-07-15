@@ -8,6 +8,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+  - tauta
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,26 +43,15 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
   teiginys: "Naruševičius „Lenkijos istorijos“ pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus, arba Maroszy, upės pakrantėje."
   pagrindžia:
     - c-174808
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pradėjus leisti originalius tekstus buvo galima sistemingiau
-    tirti savo krašto praeitį. Plačiai užgriebdamas ir Lietuvos istoriją,
-    vysk. Adomas Stanislovas Naruševičius (Naruszewicz) savo
-    6 tomų veikalu «Lenkų tautos istorija»^34 pradėjo kritiškas
-    praeities studijas. Sudarydamas savo istorijos rašymo « mokyklą »,
-    Naruševičius visokių negerovių šaltiniu telaikė monarcho valdžios
-    aprėžimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197680"></a>
+- t-003
+  global_id: t-197680
+  teiginys: "Tuo remdamasis, Naruševičius savo Lenkijos istorijos pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje šios upės pakrantėje."
   pagrindžia:
-    - t-001
+    - c-174808
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Naruševičius „Lenkijos istorijos“ pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus, arba Maroszy, upės pakrantėje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -106,19 +96,24 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
 - id: c-174808
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 289"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tiesą sakant, senovės ty­
-    rinėtojai teigia, jog minėti agatirai gyveno Marus, arba
-    Maroszy, upės aukštupyje2. Septynių miestų žemėje*, pa­
+    Septynių miestų žemėje*, pa­
     skutiniame amžiuje prieš krikščioniškosios eros pradžią.
     Tuo remdamasis, Naruševičius savo Lenkijos istorijos
     pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta
-    dešiniojoje šios upės pakrantėje.
+    dešiniojoje šios upės pakrantėje. Tebus ir čia leista at­
+    kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
+    dalelė Rus ir Ross — lietuviško šventos upės pavadini­
+    mo. O savo gyvenimą tolimame Septynių miestų krašte,
+    kur jie buvo laiko audrų nublokšti, agatirai galėjo iš­
+    keisti į gyvenvietes tarp giminingų kartų, kai nesiliau­
+    jančios sarmatų revoliucijos neleido jiems ilgiau ramiai
+    gyventi prie Marokos.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191926
+    - t-197680

@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 77
+tema_objektu_skaicius: 72
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 77.
+Objektų skaičius: 72.
 
 ## Kaip naudoti
 
@@ -34,15 +34,14 @@ Objektų skaičius: 77.
 - [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
 - [[objektai/paprociai/Bajorijos stiprinimas valdovo privilegijomis|Bajorijos stiprinimas valdovo privilegijomis (privilegija)]]
 - [[objektai/paprociai/Bajoriškoji demokratija, seimavimai ir liberum veto praktika]]
+- [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje]]
 - [[objektai/paprociai/Imperatoriaus dvaro ceremonialo perėmimas]]
 - [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]
-- [[objektai/paprociai/Kameneco viršininko skyrimas tik iš lenkų tautybės žmonių]]
 - [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
 - [[objektai/paprociai/Konspiracinė P.O.W. organizacijos veikla]]
 - [[objektai/paprociai/Konstitucinė tautos teisė priešintis prievarta kėsinantis į valstybės nepriklausomybę]]
 - [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
 - [[objektai/paprociai/Kruvini bajorijos susibūrimai, ypač seimeliuose]]
-- [[objektai/paprociai/Krymo totorių didikų dalyvavimas chano taryboje ir chanų rinkimuose]]
 - [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
 - [[objektai/paprociai/Lietuvos bajorijos seimai]]
 - [[objektai/paprociai/Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje]]
@@ -51,7 +50,7 @@ Objektų skaičius: 77.
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/paprociai/Lietuvos seimo posėdžiavimas tik senatoriams, prelatams ir kunigaikščiams]]
 - [[objektai/paprociai/Lietuvos valdovų reikalų sprendimas Trakuose vietoj sostinės Vilniaus]]
-- [Lotynų kalbos vartojimas kaip diplomatinės kalbos](../objektai/paprociai/Lotyn%C5%B3%20kalbos%20vartojimas%20kaip%20diplomatin%C4%97s%20kalbos)
+- [[objektai/paprociai/Lotynų kalbos vartojimas kaip diplomatinės kalbos]]
 - [Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą (miestas)](../objektai/paprociai/Miesto%20ir%20%C5%BEemi%C5%B3%20atidavimas%20nugal%C4%97tojui%20prisiekiant%20paklusnum%C4%85)
 - [Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas](../objektai/paprociai/Pavaldumo%20demonstravimas%20derybose%20per%20pinig%C5%B3%20%C5%BEenklinim%C4%85%20ir%20dovanas)
 - [Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus](../objektai/paprociai/Podol%C4%97s%20%C5%BEem%C4%97s%20duokl%C4%97s%20davimas%20Ordos%20baskakams%20per%20paskirtus%20atamanus)
@@ -71,20 +70,16 @@ Objektų skaičius: 77.
 - [Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas)](../objektai/paprociai/Svarbi%C5%B3%20valstyb%C4%97s%20reikal%C5%B3%20sprendimas%20gavus%20luom%C5%B3%20pritarim%C4%85%20ir%20su%C5%A1aukus%20seim%C4%85)
 - [Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas](../objektai/paprociai/S%C5%ABduvos%20pasidalijimo%20sutartys%20ir%20s%C4%85jung%C5%B3%20stiprinimas)
 - [Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas](../objektai/paprociai/Taikos%20deryb%C5%B3%20tarpininkavimas%20per%20pasiuntinius%2C%20dvasininkus%2C%20miestus%20ir%20daugia%C5%A1ales%20misijas)
-- [Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius](../objektai/paprociai/Taikos%20sudarymas%20per%20tarpinink%C4%85%2C%20senato%20pritarim%C4%85%20ir%20%C4%AFgaliotus%20pasiuntinius)
 - [Tarpvalstybinio ginčo tvarkymas per įgaliotus derybininkus, atstovus ir protesto pasiuntinius](../objektai/paprociai/Tarpvalstybinio%20gin%C4%8Do%20tvarkymas%20per%20%C4%AFgaliotus%20derybininkus%2C%20atstovus%20ir%20protesto%20pasiuntinius)
 - [Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu](../objektai/paprociai/Totori%C5%B3%20chan%C5%B3%20%C4%AFvesdinimas%20Vilniuje%20kunigaik%C5%A1%C4%8Dio%20kepure%2C%20apsiaustu%20ir%20kardu)
+- [Tribunolo pobūviai ir priėmimai Vilniuje](../objektai/paprociai/Tribunolo%20pob%C5%ABviai%20ir%20pri%C4%97mimai%20Vilniuje)
 - [Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes](../objektai/paprociai/Trij%C5%B3%20Lietuvos%20valstybingumo%20dat%C5%B3%20min%C4%97jimas%20per%20nacionalines%20%C5%A1ventes)
 - [Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas](../objektai/paprociai/Vakar%C5%B3%20pagalbos%20kvietimas%20ir%20sve%C4%8Di%C5%B3%20i%C5%A1%20Vokietijos%20%C5%A1aukimas)
 - [Valdovo pareiga laisvoje valstybėje tartis dėl karo su didikais](../objektai/paprociai/Valdovo%20pareiga%20laisvoje%20valstyb%C4%97je%20tartis%20d%C4%97l%20karo%20su%20didikais)
-- [Valdovo rinkimas bendru balsavimu ir bendruomenės valia](../objektai/paprociai/Valdovo%20rinkimas%20bendru%20balsavimu%20ir%20bendruomen%C4%97s%20valia)
 - [Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą](../objektai/paprociai/Valdovo%20vainikavimo%20paprotys%20%C4%AFteikiant%20kalavij%C4%85%20ir%20lazd%C4%85)
 - [Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui](../objektai/paprociai/Valdov%C5%B3%20ir%20pasiuntini%C5%B3%20suva%C5%BEiavimo%20su%C5%A1aukimas%20kar%C5%ABnacijos%20ir%20tarptautini%C5%B3%20klausim%C5%B3%20svarstymui)
 - [Valdų išpirkimas nuo antpuolių dovanomis per žygūnus](../objektai/paprociai/Vald%C5%B3%20i%C5%A1pirkimas%20nuo%20antpuoli%C5%B3%20dovanomis%20per%20%C5%BEyg%C5%ABnus)
 - [Valstybės reikalų perdavimas senatui ir luomams svarstyti](../objektai/paprociai/Valstyb%C4%97s%20reikal%C5%B3%20perdavimas%20senatui%20ir%20luomams%20svarstyti)
-- [Važinėjimas tartis dėl reikalų pas didįjį kunigaikštį](../objektai/paprociai/Va%C5%BEin%C4%97jimas%20tartis%20d%C4%97l%20reikal%C5%B3%20pas%20did%C4%AFj%C4%AF%20kunigaik%C5%A1t%C4%AF)
-- [Viečė kaip gyventojų susirinkimas svarbiausiems klausimams svarstyti](../objektai/paprociai/Vie%C4%8D%C4%97%20kaip%20gyventoj%C5%B3%20susirinkimas%20svarbiausiems%20klausimams%20svarstyti)
-- [Viešas valdovo krikštas ir karūnavimas pagal įprastas apeigas (krikštas)](../objektai/paprociai/Vie%C5%A1as%20valdovo%20krik%C5%A1tas%20ir%20kar%C5%ABnavimas%20pagal%20%C4%AFprastas%20apeigas)
 - [Vilniaus magistrato tarnybos kelias į bajorystę](../objektai/paprociai/Vilniaus%20magistrato%20tarnybos%20kelias%20%C4%AF%20bajoryst%C4%99)
 - [Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime](../objektai/paprociai/Vilniaus%20miestie%C4%8Di%C5%B3%20luomo%20dalyvavimas%20kra%C5%A1to%20reprezentacijose%20ir%20sutar%C4%8Di%C5%B3%20laidavime)
 - [Vilniaus miestiečių luomo dalyvavimas tautos pasitarimuose](../objektai/paprociai/Vilniaus%20miestie%C4%8Di%C5%B3%20luomo%20dalyvavimas%20tautos%20pasitarimuose)

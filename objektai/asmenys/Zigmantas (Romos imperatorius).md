@@ -5,11 +5,10 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos:
-  - '1388 m.'
-  - '1430 m.'
-date_start: '1388'
-date_end: '1430'
+  - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,11 +16,8 @@ tags:
   - karalius
   - kunigaikštis
   - popiežius
-amziai:
-  - 'XIV'
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
+amziai: []
+periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -78,61 +74,75 @@ media_all_json: |-
   pagrindžia:
     - c-83360
 
-<a id="claim-t-193409"></a>
-- t-006
-  global_id: t-193409
-  teiginys: "Jie ilgai svarstė reikšmingą ir svarbų klausimą, galintį nulemti visų įvykių raidą, bū tent, kas daryti, kad kryžiuočių pusėje nekariautų nei imperatorius Zigmantas, nei karalius Vaclovas."
-  pagrindžia:
-    - c-176131
-
 <a id="claim-t-193410"></a>
-- t-007
+- t-006
   global_id: t-193410
-  teiginys: "Nors Vytautas ėmėsi visų priemonių, kurios, jo galva, buvo reikalingos išsaugoti su Zigmantu ir Vaclovu sudarytam susitarimui, tačiau visos jo pastangos nuėjo niekais."
+  teiginys: "Kojelavičiaus pasakojime Zigmantas pareiškė nepalaikysiąs lenkų kare su kryžiuočiais ir kurstė Vytautą atskirti Lietuvą nuo Lenkijos."
   pagrindžia:
     - c-176132
 
 <a id="claim-t-193411"></a>
-- t-008
+- t-007
   global_id: t-193411
-  teiginys: "Zigmantas kuo iškalbingiausiai išliaupsino Vytautą bei Lietuvą, o pastebėjęs, jog šių žodžių godžiai klausoma, ryžosi lemiamu žingsniu palenkti nuo pataikavimo apsalusią širdį."
+  teiginys: "Kojelavičius vaizduoja Zigmantą susitikime su Vytautu išliaupsinus Vytautą ir Lietuvą, kad palenktų jį dėl karaliaus vainiko."
   pagrindžia:
     - c-176133
 
 <a id="claim-t-193412"></a>
-- t-009
+- t-008
   global_id: t-193412
   teiginys: "Zigmantas sukvieIšsiskiisto Lucko sutė Korčine seimą, norėdamas, važiavimo dalyviai kad karalystės luomai nuspręstų, kaip dera priešintis nesaikingiems Vytauto potroškiams."
   pagrindžia:
     - c-176134
 
-<a id="claim-t-193413"></a>
-- t-010
-  global_id: t-193413
-  teiginys: "Zigmantas nejaučiąs širdyje nepalankumo nei karaliui, nei lenkų karalystei, tačiau jeigu lenkai pirmieji ryšis kokiam negeram žingsniui, jam netruksią nei karių, nei ginklų apsiginti."
-  pagrindžia:
-    - c-176135
-
 <a id="claim-t-193414"></a>
-- t-011
+- t-009
   global_id: t-193414
   teiginys: "Zigmantas nekvaršina sau tokiais tuščiais rūpesčiais galvos, tegu paskirtą dieną laukia pažadėtų Lietuvos karaliaus insignijų."
   pagrindžia:
     - c-176136
 
 <a id="claim-t-194019"></a>
-- t-012
+- t-010
   global_id: t-194019
-  teiginys: "Pasiūlymų, kad Vytautas siekių karaliaus vainiko, iškėlė ne Jogaila, o Vokietijos imperatorius Zigmantas."
+  teiginys: "Vokietijos imperatorius Zigmantas, o ne Jogaila, iškėlė pasiūlymą, kad Vytautas siektų karaliaus vainiko."
   pagrindžia:
     - c-176644
 
 <a id="claim-t-194246"></a>
-- t-013
+- t-011
   global_id: t-194246
   teiginys: "Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie tuvos ir daugelio kitų patikimų liudytojų, ten buvusių."
   pagrindžia:
     - c-176842
+
+<a id="claim-t-196653"></a>
+- t-012
+  global_id: t-196653
+  teiginys: "Kojelavičiaus pasakojime Zigmantas, gavęs slaptų laiškų iš kai kurių lenkų, atnaujino viltis dėl Vytauto vainikavimo."
+  pagrindžia:
+    - c-178820
+
+<a id="claim-t-196654"></a>
+- t-013
+  global_id: t-196654
+  teiginys: "Popiežius, gavęs Jogailos pranešimą, paragino Zigmantą ir Vytautą atsisakyti Vytauto vainikavimo sumanymo."
+  pagrindžia:
+    - c-176136
+
+<a id="claim-t-196883"></a>
+- t-014
+  global_id: t-196883
+  teiginys: "Zigmantas liguruoja tarp kitų liudininkų Ldk Švitrigailos sutartyje su kryžiuočiais."
+  pagrindžia:
+    - c-178963
+
+<a id="claim-t-200710"></a>
+- t-015
+  global_id: t-200710
+  teiginys: "Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo imperatorius Zigmantas iš Vytauto gavo brangakmeniais puoštą tauro ragą."
+  pagrindžia:
+    - c-184055
 - susijęs iš [[objektai/asmenys/Barbora Cyleikaitė.md#claim-t-35031|Barbora Cyleikaitė]]: Barbora Cyleikaitė atvyko su savo vyru Romos ciesoriumi Zigmantu ir buvo Jogailos antrosios žmonos giminaitė.
 - susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
 - susijęs iš [[objektai/ivykiai/Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.).md#claim-t-185658|Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.)]]: Vytauto pastangos išsaugoti su Zigmantu ir Vaclovu sudarytą susitarimą nuėjo niekais.
@@ -145,14 +155,14 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Jonas XXIII.md#claim-t-176495|Jonas XXIII]]: Lietuvai ir Lenkijai palankus antipopiežius Jonas XXIII, kuris imperatorių Zigmantą buvo prašęs sušaukti šį susirinkimą, Konstancoje buvo atstatytas ir įmestas kalėjiman.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184437|Martynas V]]: Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.
 - susijęs iš [[objektai/asmenys/Mikalojus Cebulka.md#claim-t-35226|Mikalojus Cebulka]]: Vytauto sekretorius Mikalojus Cebulka buvo pasiųstas kaip jo atstovas ir Zigmantui pareiškė Vytauto nepasitenkinimą.
+- susijęs iš [[objektai/asmenys/Motiejus Stryjkowskis.md#claim-t-200738|Motiejus Stryjkowskis]]: Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperatoriui Zigmantui padovanojo brangakmeniais puoštą tauro ragą.
 - susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
 - susijęs iš [[objektai/asmenys/Russdorfas.md#claim-t-35271|Russdorfas]]: Russdorfas buvo numatytos sąjungos su Vytautu ir Zigmantu dalyvis; ši sąjunga turėjo būti nukreipta prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35305|Vaclovas Čekietis]]: Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.
 - susijęs iš [[objektai/asmenys/Vengrijos Zigmantas.md#claim-t-30408|Vengrijos Zigmantas]]: Vengrijos Zigmantas siūlėsi tarpininkauti ir galėjo tapti rimtu kryžiuočių sąjungininku.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176648|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Sužinojęs sprendimą Dauguose, Vytautas Didysis pasiuntė sekretorių Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176683|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos tapatumą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176771|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kėzmarke Vytautas Didysis atmetė Zigmanto siūlymą suardyti uniją ir priimti karaliaus karūną.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184879|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kojelavičiaus vertinimu, garbės troškimas sutrukdė Vytautui įžvelgti, kad Zigmanto siūlymai ardė lietuvių ir lenkų sandraugą.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-200709|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas padovanojo imperatoriui Zigmantui brangakmeniais puoštą tauro ragą.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176864|Zbignievas Olesnickis]]: Zbignievas Olesnickis buvo karūnos pasiuntinys, kartu su kuriuo Vytautas pasiuntė Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą.
 - susijęs iš [[objektai/asmenys/Zig. Rothas.md#claim-t-35395|Zig. Rothas]]: Zigmantas siuntė Zig. Rothą pas Vytautą kaip imperatoriaus atstovą aiškinti karūnacijos klausimų ir sklaidyti abejonių.
 - susijęs iš [[objektai/asmenys/imperatorius Zigmantas.md#claim-t-64434|imperatorius Zigmantas]]: Imperatorius Zigmantas gavo Jogailos sutikimo dėl Vytauto karūnacijos atšaukimo laišką ir jo nuorašą nusiuntė Vytautui.
@@ -169,18 +179,18 @@ media_all_json: |-
 - susijęs iš Vytauto raštas imperatoriui Zigmantui: Vytauto rašte imperatoriui Zigmantui nurodomas 1420 m. Vroclave priimto Zigmanto sprendimo neteisingumas.
 - susijęs iš Kėzmarkas: Kėzmarke Vytautas atmetė gundymą suardyti uniją ir siekė palenkti Zigmantą laikytis paliaubų su Lenkija.
 - susijęs iš Lenkija: Lenkijoje Zamoiskis neleido Maksimilijonui įžengti į Krokuvą ir taip sudarė sąlygas karūnuoti Zigmantą.
-- susijęs iš Lietuva: Lietuvos delegacija pareiškė nepripažįstanti Zigmanto didžiuoju kunigaikščiu, nes jis buvo išrinktas be lietuvių.
 - susijęs iš Maskva: Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas.
 - susijęs iš Čekija: Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m.
+- susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-198563|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
 - susijęs iš Aukštaitija: Vytautas rašte Zigmantui teigė, kad Aukštaitija ir Žemaitija yra dvi neatskiriamos Lietuvos dalys.
 - susijęs iš [[objektai/asmenys/Benediktas Makra.md#claim-t-184370|Benediktas Makra]]: 1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas.
 - susijęs iš [[objektai/asmenys/Benediktas Makra.md#claim-t-28988|Benediktas Makra]]: 1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas.
-- susijęs iš [[objektai/asmenys/Edigejus.md#claim-t-186198|Edigejus]]: Tauridės valdovas Edigejus susidraugavo su Vytautu ir pažadėjo ištikimybę, amžiną taiką bei pagalbą prieš priešus.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176422|Jadvyga Jogailienė]]: Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176430|Jadvyga Jogailienė]]: Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184273|Jogaila (kunigaikštis, XIV–XV a.)]]: Lucke Zigmantas pasiūlė Jogailai karūnuoti Vytautą, kuris buvo suvažiavimo šeimininkas.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184734|Jogaila (kunigaikštis, XIV–XV a.)]]: Sužinojęs apie Vytauto vainikavimo reikalą, karalius Jogaila ieškojo užtarėjų ir apie viską pranešė Romos popiežiui.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184754|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje.
+- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82507|Kazimieras Jogailaitis]]: A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.
 - susijęs iš [[objektai/asmenys/Limantas.md#claim-t-87916|Limantas]]: Limantas 1388 m. Lucke dalyvavo kaip Lietuvos kareivis arba bajoras tarp patikimų liudytojų.
 - susijęs iš [[objektai/asmenys/Mangaila iš Ašmenos.md#claim-t-87770|Mangaila iš Ašmenos]]: Mangaila iš Ašmenos 1388 m. Lucke dalyvavo tarp patikimų liudytojų iš Lietuvos.
 - susijęs iš [[objektai/asmenys/Mikalojus Sapienskis.md#claim-t-35230|Mikalojus Sapienskis]]: Mikalojus Sapienskis buvo Vytauto sekretorius arba kancleris.
@@ -189,14 +199,13 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Vaitiekus (Lucko vyskupas).md#claim-t-87931|Vaitiekus (Lucko vyskupas)]]: 1507 m. Melnike Vaitiekus dalyvavo patvirtinant Trakų žydų privilegijas kaip Lucko vyskupas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Janavičius.md#claim-t-87874|Vaitiekus Janavičius]]: Vaitiekus Janavičius 1507 m. Melnike buvo paminėtas kaip karališkasis rūmininkas ir Kauno seniūnas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Narutavičius.md#claim-t-87875|Vaitiekus Narutavičius]]: Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176658|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis palaikė neblogus santykius su turkais, kurie jo valdymo metu vis labiau skverbėsi į Balkanų pusiasalį.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176714|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.
 - susijęs iš [[objektai/autoriai/Machiavellio.md#claim-t-01108|Machiavellio]]: Machiavellio mokslu vadintas įsitikinimas, kad valdovas turi siekti valdžios nesiskaitydamas su priemonėmis.
 - susijęs iš [[objektai/daiktai/Karūna.md#claim-t-12301|Karūna]]: Cigala ir Rothas ragino Vytautą karūnuotis ir patarė kaldinti karūnas Vilniuje.
 - susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186813|Karūna]]: Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją.
+- susijęs iš [[objektai/daiktai/Tauro ragas.md#claim-t-200729|Tauro ragas]]: Rimvydas Laužikas tauro ragą sieja su simboline, mitologizuota literatūrine tendencija LDK diduomenę vaizduoti kaip gėrusią iš tauro rago.
 - susijęs iš [[objektai/daiktai/Šilkinė skara.md#claim-t-34579|Šilkinė skara]]: Kunigaikštis Zigmantas autoriui padovanojo šilkinę skarą.
 - susijęs iš [[objektai/grupes/Habsburgai.md#claim-t-182891|Habsburgai]]: Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytų Vengrijos ir Čekijos.
-- susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-187778|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172097|Husitai]]: Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką.
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172100|Husitai]]: Popiežius draudė Vytautui siųsti Kaributą ir grasė paskelbti Lietuvai kryžiaus žygį, jei jis nenutrauks ryšių su husitais.
 - susijęs iš [[objektai/grupes/Jogailos palikuonys.md#claim-t-72087|Jogailos palikuonys]]: Jogailos palikuonys manė, kad Lietuva jiems turinti tekti paveldėtinai, todėl susitarime numatyta elekcija nepaisė jų teisių.
@@ -240,7 +249,6 @@ media_all_json: |-
 - susijęs iš Vytauto laiškai magistrui Rusdorfui dėl Lietuvos karūnos: 1430 m. rugpjūtį Vytautas laiške magistrui Rusdorfui pranešė apie Maskvos ir Tverės kunigaikščių atvykimą į Lietuvą.
 - susijęs iš Ašmena: 1388 m. Lucke tarp liudytojų minimas Mangaila iš Ašmenos.
 - susijęs iš Breslavas: 1420 m. pradžioje Breslave buvo sušauktas Vokietijos kunigaikščių ir kurfiurstų suvažiavimas.
-- susijęs iš Drohičinas: Užpuolęs Palenkę, Mazovijos kunigaikštis Boleslovas užėmė Melniką, Belską ir Drohičiną.
 - susijęs iš Drohičinas: Po Zigmanto mirties Mozūrų kunigaikštis buvo užėmęs Drohičiną, dėl kurio Lietuva pradėjo karą.
 - susijęs iš Jotvingija: Vytautas rašte Zigmantui teigė, kad Sūdavija su Jotvingija, arba Dzūkija, yra lietuvių kraštai, dėl kurių ginčo negali kilti.
 - susijęs iš Kezmarkas: Vytautas nuvyko tartis į Vengrijos pasienio miestą Kezmarką.
@@ -258,12 +266,8 @@ media_all_json: |-
 - susijęs iš Polockas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.
 - susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
 - susijęs iš Prūsija: Zigmantas siekė su kryžiuočių pagalba sudaryti Lietuvos, Prūsijos, Vengrijos ir Čekijos sąjungą prieš Lenkiją.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai.
 - susijęs iš Rusia Rusios žemės: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
 - susijęs iš Rusia: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
-- susijęs iš Rusų žemė: Pasak Lietuvos metraščio, Aleksandras su Elena ir didikais tą žiemą važiavo apžiūrėti Rusų žemės ir lankėsi Smolenske, Vitebske bei Polocke.
-- susijęs iš Rusų žemė: Rusų žemė minima kaip Aleksandro, Elenos ir didikų lankytas regionas su Smolensku, Vitebsku ir Polocku.
-- susijęs iš Rusų žemė: Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke, o pavasariop grįžo į Vilnių.
 - susijęs iš Rygos arkivyskupija: Popiežius paskyrė Vytautą Rygos arkivyskupijos protektoriumi, siekdamas patraukti jį į savo pusę.
 - susijęs iš Salynas: Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.
 - susijęs iš Salynas: 1398 metų pabaigoje Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.
@@ -272,7 +276,6 @@ media_all_json: |-
 - susijęs iš Sūduva: Ordinas turėjo tuojau paimti vakarinį Sūduvos ruožą ir Žemaičių dalį nuo Raudonės įtekėjimo į Nemuną iki Klaipėdos.
 - susijęs iš Trakai: 1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės.
 - susijęs iš Tverė: Tverio-Riazanės kunigaikščiai buvo tarp atvykusių dalyvių kartu su Naugardo ir Pskovo kunigaikščiais.
-- susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
 - susijęs iš Visla: 1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos.
 - susijęs iš Vitebskas: Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis.
 - susijęs iš Vitebskas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį.
@@ -301,375 +304,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/ponų įsigalėjimo laikotarpis.md#claim-t-74034|ponų įsigalėjimo laikotarpis]]: A. Šapokos „Lietuvos istorijoje“ Kazimiero laikai (1440–1492 m.) priskirti pereinamajam ponų įsigalėjimo laikotarpiui.
 - susijęs iš [[objektai/zodynas/protektorium.md#claim-t-36824|protektorium]]: Popiežius paskyrė Vytautą Rygos arkivyskupijos protektoriumi, siekdamas patraukti jį į savo pusę.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184879|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kojelavičiaus vertinimu, garbės troškimas sutrukdė Vytautui įžvelgti, kad Zigmanto siūlymai ardė lietuvių ir lenkų sandraugą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Imperatorius Zigmantas ir didysis magistras siekė nutraukti Lietuvos ir Lenkijos sąjungą, tačiau jų sumanymai žlugo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nors iš kailio nėrėsi imperatorius Zigmantas ir di-
-    Jurgis Lengvenaitis (vert. past.).
-    21
-    Id., p. 127. Slapt. archiv.
-    22
-    Praėjusiais metais aplankę Pabaiską,
-    įsitikinome, kad žmonėse dar gyvi
-    prisiminimai apie šioje vietoje vyku­
-    sį garsų mūšį ir apie ten žuvusį kaž­
-    kokį priešų kunigaikštį ar riterį. Kai
-    kurie gyventojai, kad gimtosioms
-    apylinkėms suteiktų daugiau soli­
-    dumo, dargi įrodinėja, neišmanyda­
-    mi istorijos, kad anuomet ties Pa­
-    baisku galvą padėjęs čekų karalius
-    Vaclovas ir pan. Pabaisko vietovė
-    kalvota, tačiau atvira, o ten, kur da­
-    bar iškilusi nauja mūrinė bažnyčia,
-    netgi gana graži. Žemė derlinga,
-    Viktorijos upelis, nors mažas, bet
-    vertas gražaus vardo. Pabaiskas yra
-    parapijos kaimas, priklausantis vie­
-    tiniam klebonui ir nutolęs nuo iš Vil­
-    niaus į Ukmergę einančio pašto trak­
-    to į kairę per 2 varstus, per pusę
-    mylios už Kščeniškių. I šios knygos
-    priede spausdiname Pabaisko kle­
-    bonijos fundaciją.
-    220
-
-    ## Puslapis 237
-
-    I I I  KNYGA
-    dysis magistras gudriausiomis suktybėmis siekė, kad nu­
-    trūktų Lietuvos ir Lenkijos sąjunga, grėsmingos jų užma­
-    čios žlugo; su Vladislovu Jogaila turėjo būti sudaryta ilga­
-    laikė taika.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Imperatorius Zigmantas siekė sukiršinti Jogailą su Vytautu ir atskirti Lietuvą nuo Lenkijos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jono bažnyčią, Vladislovo Jogailos
-    lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
-    mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
-    Stanislovas82. Paskutinieji šio didžio valdovo viešpatavimo
-    metai buvo apnuodyti atkaklių pastangų siekti Lietuvai
-    karūnos. Imperatorius Zigmantas, įsibaiminęs dėl tokio aiš­
-    kaus Jogailos valstybės stiprėjimo, be to, svarbiausiu to meto
-    politikos tikslu laikydamas visų krikščioniškųjų kraštų su­
-    vienijimą turkams atremti, nusprendė imtis bet ko, kad
-    tik sukiršintų Jogailą su Vytautu ir Lietuvą nuo Lenkijos
-    Timofiejewicz i Bojar cztoby posłał
-    swoich Bojar k Wiłowtu i udariłby
-    czołom za Pskowicz: i biasze tohda ie-
-    mu brań s Kniazem Juriiem o Welikom
-    Kniażenii, no obacze o wsem tom ne-
-    breh ureczesia, i na zimu prisła W el.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  santrauka: '1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos santykį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tikrai
-    tikėtina, jog vardas tautos, įsikūru­
-    sios prie Vyslos žiočių - vidivarii [vi-
-    divarijai], duotas Jornandeso
-    (De geticae gentis origine ac rebus ges­
-    tis Cap. 5 [apie gotų genties kilmę ir
-    karo žygius]); yra ne kokios nors vie­
-    nos tautos nomen gentile [giminės
-    vardas], bet toks įvairių tautų sam­
-    būrio nomen sociale [bendruomenės
-    vardas], koks yra frankų pavadini­
-    mas.
-    2
-    Apie Lietuvos ir Žemaitijos tapatu­
-    mą ir apie tą jos dalijimą į aukštuti­
-    nę ir žemutinę sužinome iš kuo pa­
-    tikimiausio šaltinio, iš didžiojo
-    kunigaikščio Vytauto 1420 metais
-    Romos imperatoriui Zigmantui ra-
-    švto laiško: Terra Samaytarum, - pa-
-    14
-
-    ## Puslapis 31
-
-    I  KNYGA
-    Visame tame plote, nuo senų senovės apaugusiame girio­
-    mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
-    ganos medžioklių trobelės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-004
-  santrauka: 'Zigmantas po nesėkmingų svarstymų išsiuntė pas Vytautą pasiuntinius su karūna.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau kai ten išaiškėjo, kad, užuot
-    aptarus turkų klausimą, imperatoriaus imamasi gudrių už­
-    mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat
-    pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinė-
-    jo. Zigmantas, vis dėlto pasėjęs nesantaikos sėklą tarp bro­
-    lių ir dviejų tautų, pargrįžęs tuoj pat išleido pasiuntinius su
-    karūna pas Vytautą. Deja, tik dalis tos pasiuntinybės pasie­
-    kė Lietuvos sostinę: kai kuriuos jų didžialenkiai sulaikė prie
-    sienos ir imperatoriaus aktus, kuriais Vytautui pripažįsta­
-    mas karaliaus titulas, atėmė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-005
-  santrauka: 'Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau kai ši jo nelaisvė gana ilgai užsi­
-    tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse
-    šalyse. Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­
-    gailos elgesiu, susirinkę Varkoje, nusprendė pirmiausia ofi­
-    cialiai nusiųsti pas jį pasiuntinius, kurie pareikalautų išlais­
-    vinti karalių, o jeigu tai nieko neduotų, - surengti žygį į
-    Lietuvą susirinkus ties Kijanų kaimu prie Viepšo4. Čia ener­
-    gingai reiškėsi popiežius Martynas V. Jis net imperatorių Zig­
-    mantą paragino rūpintis Jogailos išlaisvinimu ir pats asme­
-    niškai savo autoritetu didžiai prie to prisidėjo5.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-006
-  santrauka: 'Jie ilgai svarstė reikšmingą ir svarbų klausimą, galintį nulemti visų įvykių raidą, bū tent, kas daryti, kad kryžiuočių pusėje nekariautų nei imperatorius Zigmantas, nei karalius Vaclovas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ten jie nusprendė visomis jėgomis pradėti bendrą
-    karą prieš kryžiuočius. Jie ilgai svarstė reikšmingą ir
-    svarbų klausimą, galintį nulemti visų įvykių raidą, bū­
-    tent, kas daryti, kad kryžiuočių pusėje nekariautų nei
-    imperatorius Zigmantas, nei karalius Vaclovas. Jogaila
-    manė, kad, negavę pagalbos iš vengrų bei čekų, kry­
-    žiuočiai nepajėgsią ilgiau at-
-    S ten giasi
-    p a la ik y ti
-    sispirti; antra vertus, dar te-
-    d ra u g y stę  su im pera-
-    begaliojo sutartis, sudaryta
-    to riu m i Z ig m a n tu
-    šešiolikai metų tarp šių šalių
-    valdovų ir Lenkijos bei Lie­
-    tuvos, pagal kurią jie neturėjo teikti kryžiuočiams pa­
-    galbos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Nors Vytautas ėmėsi visų priemonių, kurios, jo galva, buvo reikalingos išsaugoti su Zigmantu ir Vaclovu sudarytam susitarimui, tačiau visos jo pastangos nuėjo niekais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nors Vytautas ėmėsi visų priemonių, kurios, jo galva,
-    buvo reikalingos išsaugoti su Zigmantu ir Vaclovu
-    sudarytam susitarimui, tačiau visos jo pastangos nuėjo
-    niekais. Zigmantas, iš pat pradžių pasisakęs negalįs ne­
-    paisyti kryžiuočių reikalų, vėliau pareiškė, jog niekada
-    nebūsiąs palankus lenkams, jeigu šie pradėsią karą su
-    kryžiuočiais. Po to jis visokiais būdais (netgi žadėdamas
-    karališkąjį vainiką Lietuvai) kurstė Vytautą atsiskirti
-    su visomis Lietuvai priklausančiomis žemėmis nuo Len­
-    kijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Zigmantas kuo iškalbingiausiai išliaupsino Vytautą bei Lietuvą, o pastebėjęs, jog šių žodžių godžiai klausoma, ryžosi lemiamu žingsniu palenkti nuo pataikavimo apsalusią širdį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Imperatorius dė­
-    josi nuliūdęs, nes esą nelau­
-    kęs šitokio atsisakymo, tačiau
-    neilgai trukus, sakydamasis
-    norįs plačiau visą reikalą ap­
-    tarti, susitiko akis į akį su
-    Vytautu. Pirmiausia jis kuo iškalbingiausiai išliaupsino
-    Vytautą bei Lietuvą, o pastebėjęs, jog šių žodžių go­
-    džiai klausoma, ryžosi lemiamu žingsniu palenkti nuo
-    pataikavimo apsalusią širdį. Jis esą smarkiai apgai­
-    lestaująs, kad šitaip išgarsėjęs karo žygiais bei šito­
-    kių didelių žemių valdovas, karalius savo padėtimi bei
-    svoriu, neturįs karaliaus titulo ir vainiko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Zigmantas sukvieIšsiskiisto Lucko sutė Korčine seimą, norėdamas, važiavimo dalyviai kad karalystės luomai nuspręstų, kaip dera priešintis nesaikingiems Vytauto potroškiams.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
-    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
-    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
-    iš Volynės į Vengriją. Išvykstančiam Vytautas davė
-    galybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino
-    nukauto tauro garsųjį ragą, išmoningai papuoštą auksu
-    bei brangakmeniais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-010
-  santrauka: 'Zigmantas nejaučiąs širdyje nepalankumo nei karaliui, nei lenkų karalystei, tačiau jeigu lenkai pirmieji ryšis kokiam negeram žingsniui, jam netruksią nei karių, nei ginklų apsiginti.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Dangus galįs paliudyti,
-    kad jis nejaučiąs širdyje nepalankumo nei karaliui, nei
-    lenkų karalystei, tačiau jeigu lenkai pirmieji ryšis ko­
-    kiam negeram žingsniui, jam netruksią nei karių, nei
-    ginklų apsiginti. Karštomis lenkų pasiuntinių pėdomis
-    atvyko imperatoriaus žygū-
-    Im p era to ria u s
-    pa-
-    nai, savo valdovo įpareigoti
-    siu n tin iai p a s V y ta u -
-    patikslinti susitarimą. Patikl­
-    ių
-    nę, jog imperatorius po seno­
-    vei esąs Vytautui palankus,
-    jie įteikė dovaną, nepaprasto grožio meno kūrinį—iš
-    aukso bei sidabro padarytą drakoną, simbolizuojantį
-    santarvės sutartį, neseniai sudarytą su kryžiuočiais bei
-    4 2 3
-
-    ## Puslapis 422
-
-    imperatoriumi, ir pareikalavo priesaika patvirtinti kai
-    kuriuos naujos sutarties straipsnius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-011
-  santrauka: 'Zigmantas nekvaršina sau tokiais tuščiais rūpesčiais galvos, tegu paskirtą dieną laukia pažadėtų Lietuvos karaliaus insignijų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Laiške štai kas buvo rašoma: ,,Be rei­
-    kalo Vytautas abejoja, ar imperatorius turi galią be po-
-    1430 m e ta i
-    L en kai u žsto ja  keliu s,
-    su im a pa siu n tin iu s ii
-    a tim a  la išk u s
-    P o p iežia u s
-    p a d e d a ­
-    m as, J o g a ila  su tru k ­
-    d o
-    V y ta u tu i
-    v a in i­
-    k u o tis
-    424
-
-    ## Puslapis 423
-
-    piežiaus sutikimo ir žinios pakelti ką į karalius. Tegu
-    jis nekvaršina sau tokiais tuščiais rūpesčiais galvos,
-    tegu paskirtą dieną laukia pažadėtų Lietuvos karaliaus
-    insignijų. Jau kelionėje jo pasiuntiniai, vežantys kara­
-    liaus vainiką ir dalyvausiantys vainikavime".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-012
-  santrauka: 'Pasiūlymų, kad Vytautas siekių karaliaus vainiko, iškėlė ne Jogaila, o Vokietijos imperatorius Zigmantas.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    4  Pasiūlymų, kad Vytautas siekių karaliaus vainiko, iškėlė ne
-    Jogaila, o  Vokietijos imperatorius Zigmantas. Pirmų kaitų jis siūlė
-    Vytautui vainikuotis dar 1410 m. balandžio mėn. per susitikimų su
-    Vytautu Slovakijoje, Kežmarko mieste, norėdamas kryžiuočių naudai
-    išardyti Lenkijos ir Lietuvos sųjungų. Tačiau to meto aplinkybėmis
-    Vytautas nesileido j derybas. Antrų kartų vainikavimo pasiūlymų
-    Zigmantas iškėlė 1429 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-013
-  santrauka: 'Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie tuvos ir daugelio kitų patikimų liudytojų, ten buvusių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­
-    mo 1388 metais. Prie liudytojų, tuo metu su mumis buvusių:
-    su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba
-    bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie­
-    tuvos ir daugelio kitų patikimų liudytojų, ten buvusių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
 ## Citatos
 
 - id: c-83358
@@ -836,41 +470,10 @@ media_all_json: |-
   pagrindzia:
     - t-87380
 
-- id: c-176131
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 374"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 374."
-  citata_originali: |
-    Ten jie nusprendė visomis jėgomis pradėti bendrą
-    karą prieš kryžiuočius. Jie ilgai svarstė reikšmingą ir
-    svarbų klausimą, galintį nulemti visų įvykių raidą, bū­
-    tent, kas daryti, kad kryžiuočių pusėje nekariautų nei
-    imperatorius Zigmantas, nei karalius Vaclovas. Jogaila
-    manė, kad, negavę pagalbos iš vengrų bei čekų, kry­
-    žiuočiai nepajėgsią ilgiau at-
-    S ten giasi
-    p a la ik y ti
-    sispirti; antra vertus, dar te-
-    d ra u g y stę  su im pera-
-    begaliojo sutartis, sudaryta
-    to riu m i Z ig m a n tu
-    šešiolikai metų tarp šių šalių
-    valdovų ir Lenkijos bei Lie­
-    tuvos, pagal kurią jie neturėjo teikti kryžiuočiams pa­
-    galbos.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193409
-
 - id: c-176132
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 375"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 375."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nors Vytautas ėmėsi visų priemonių, kurios, jo galva,
     buvo reikalingos išsaugoti su Zigmantu ir Vaclovu
@@ -892,8 +495,7 @@ media_all_json: |-
 - id: c-176133
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 415"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 415."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Imperatorius dė­
     josi nuliūdęs, nes esą nelau­
@@ -918,22 +520,33 @@ media_all_json: |-
 - id: c-176134
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 418"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
-    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
-    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
-    iš Volynės į Vengriją. Išvykstančiam Vytautas davė
-    galybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino
-    nukauto tauro garsųjį ragą, išmoningai papuoštą auksu
-    bei brangakmeniais.
+    Tuo tarpu Krokuvos vyskupas Zbig­
+    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
+    kokia įtartina imperatoriaus
+    S en ato įsp ė ta s
+    draugystė, ir, atskleidęs, ko­
+    kie pavojingi jo siūlymai,
+    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
+    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
+    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
+    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
+    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
+    nas iš Tarnovo, Krokuvos vaivada. Visi sutartinai pri­
+    tarė vyskupui ir vaivadai. Vytautas, pasipiktinęs ne tiek
+    dėl pralaimėjimo, kiek dėl
+    P a sip ik tin ęs pasišali-
+    drąsių kalbų, išėjo iš senato
+    na
+    posėdžio, o pasišalindamas at­
+    virai pagrasino, sakydamas,
+    14*
+    4 1 9
+
+    jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
+    siryžęs pasiekti.
+  citata_rodoma: "Atvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams. Karaliui išvykus, ir\nimperatorius, apsvarstęs su Vytautu svarbiausius klau­\nsimus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai\niš Volynės į Vengriją. Išvykstančiam Vytautas davė\ngalybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino\nnukauto tauro garsųjį ragą, išmoningai papuoštą auksu\nbei brangakmeniais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -941,83 +554,47 @@ media_all_json: |-
   pagrindzia:
     - t-193412
 
-- id: c-176135
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Dangus galįs paliudyti,
-    kad jis nejaučiąs širdyje nepalankumo nei karaliui, nei
-    lenkų karalystei, tačiau jeigu lenkai pirmieji ryšis ko­
-    kiam negeram žingsniui, jam netruksią nei karių, nei
-    ginklų apsiginti. Karštomis lenkų pasiuntinių pėdomis
-    atvyko imperatoriaus žygū-
-    Im p era to ria u s
-    pa-
-    nai, savo valdovo įpareigoti
-    siu n tin iai p a s V y ta u -
-    patikslinti susitarimą. Patikl­
-    ių
-    nę, jog imperatorius po seno­
-    vei esąs Vytautui palankus,
-    jie įteikė dovaną, nepaprasto grožio meno kūrinį—iš
-    aukso bei sidabro padarytą drakoną, simbolizuojantį
-    santarvės sutartį, neseniai sudarytą su kryžiuočiais bei
-    4 2 3
-
-    ## Puslapis 422
-
-    imperatoriumi, ir pareikalavo priesaika patvirtinti kai
-    kuriuos naujos sutarties straipsnius.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193413
-
 - id: c-176136
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Laiške štai kas buvo rašoma: ,,Be rei­
-    kalo Vytautas abejoja, ar imperatorius turi galią be po-
-    1430 m e ta i
-    L en kai u žsto ja  keliu s,
-    su im a pa siu n tin iu s ii
-    a tim a  la išk u s
-    P o p iežia u s
-    p a d e d a ­
-    m as, J o g a ila  su tru k ­
-    d o
-    V y ta u tu i
-    v a in i­
-    k u o tis
-    424
-
-    ## Puslapis 423
-
-    piežiaus sutikimo ir žinios pakelti ką į karalius. Tegu
-    jis nekvaršina sau tokiais tuščiais rūpesčiais galvos,
-    tegu paskirtą dieną laukia pažadėtų Lietuvos karaliaus
-    insignijų. Jau kelionėje jo pasiuntiniai, vežantys kara­
-    liaus vainiką ir dalyvausiantys vainikavime".
+    Šitaip jis kalbėjo viešai, tuo
+    tarpu slaptomis susitarė pagreitinti pakėlimą į sostą
+    ir nustatė, jog tai įvyks kitų metų rugsėjo 16.
+    Karalius Jogaila, sužinojęs iš pasiuntinių, kaip pa­
+    krypo šis reikalas, susimanė
+    ieškoti užtarėjų ir, kreipęsis į
+    aukščiausiąją krikščioniškojo
+    pasaulio galybę, apie viską
+    pranešė Romos popiežiui. O
+    šis, neabejodamas, jog Vytau­
+    to vainikavimo sukelti didžiuliai sąmyšiai iš pamatų su-
+    krės krikščioniškąją valstybę, paragino Zigmantą bei
+    Vytautą atsisakyti savo sumanymo. Tačiau ligai išgy­
+    dyti jau nebeužteko gydytojo, reikėjo veiksmingesnių
+    priemonių. Jedlnioje sukvietė lenkų seimą, kuris nu­
+    tarė, jog reikia pastatyti ginkluotas saugas visuose ke­
+    liuose Lenkijos pasienyje ir
+    uoliai žiūrėti, kad ir impera­
+    toriaus, ir Vytauto žygūnai
+    negalėtų prasmukti nei į vie­
+    ną, nei į kitą pusę.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193414
+    - t-196654
 
 - id: c-176644
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 260"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 260."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    4  Pasiūlymų, kad Vytautas siekių karaliaus vainiko, iškėlė ne
-    Jogaila, o  Vokietijos imperatorius Zigmantas. Pirmų kaitų jis siūlė
+    4 Pasiūlymų, kad Vytautas siekių karaliaus vainiko, iškėlė ne
+    Jogaila, o Vokietijos imperatorius Zigmantas. Pirmų kaitų jis siūlė
     Vytautui vainikuotis dar 1410 m. balandžio mėn. per susitikimų su
     Vytautu Slovakijoje, Kežmarko mieste, norėdamas kryžiuočių naudai
     išardyti Lenkijos ir Lietuvos sųjungų. Tačiau to meto aplinkybėmis
@@ -1046,6 +623,74 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194246
+
+- id: c-178820
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Tačiau netrukus, gavęs slaptų laiš­
+    kų iš kai kurių lenkų, kuriems ne tiek rūpėjo visuotinė
+    gerovė, kiek jų paties nauda, jis vėl pradėjo puoselėti
+    senąsias viltis ir pasiuntiniams kuo griežčiausiai atsa­
+    kė. Jis, girdi, pasirodytų esąs tikras begėdis, ko gero,
+    nedorėlis, kurį amžinai blogu žodžiu minėtų busimo­
+    sios kartos, jeigu nutrauktų nuo pusbrolio galvos kara­
+    liškąjį vainiką ir pats jį užsidėtų, tada neabejotinai pa­
+    tirtų iš žmonių daugiau gėdos nei garbės. Tegu Jogaila
+    sveikas sau karaliaująs, tegu turįs vainiką, kurį, len­
+    kams pritariant, jam davęs dangus, tačiau tegu jis
+    nepavydįs Vytautui vainiko, į kurį kelią nurodžiusi
+    dangaus įkvėpta draugų malonė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196653
+
+- id: c-178963
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Sis Sedbaras buvo Ukmergės vietininkas. 1432 m. jis ligu-
+    ruoja tarp kitų liudininkų Ldk Švitrigailos sutartyje su kryžiuo­
+    čiais. Apie jo kelionę j Komą Vytauto karaliaus vainiko reikalu
+    iš kitų šaltinių nieko nežinoma. Matyt, čia susiduriama su vienu
+    iš Kęsgailų gimines padavimų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196883
+
+- id: c-184055
+  autorius: "Rimvydas Laužikas"
+  šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
+  puslapiai: "PDF 11"
+  indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 11."
+  citata_originali: |
+    Su-
+    prantama, autorių galimybė aprašyti prieš šimtą ar daugiau metų vykusius dalykus
+    yra ribota, tačiau mūsų tyrimo atveju įdomi pati epochos simbolinė, mitologizuota
+    literatūrinė tendencija, traktuojanti LDK diduomenę kaip gėrusią iš tauro rago.
+    Pavyzdžiui, Motiejus Stryjkowskis Lenkijos, Lietuvos, Žemaičių ir visos Rusios kroni-
+    koje mini, kad po Lucko suvažiavimo Vytautas imperatoriui Zigmantui padovanojo
+    aukso apkalais ir brangakmeniais puoštą tauro ragą – to paties tauro, kurį sume-
+    džiojęs Gediminas, prieš susapnuodamas lemtingąjį sapną (Stryjkowski 1582: 561).
+    Šis tekstas Renesanso kultūros kontekste gali būti interpretuojamas ir kaip simbo-
+    linis Vytauto atliktas pagonybės atsisakymo veiksmo aprašymas: pagoniškųjų apeigų
+    simbolis – mitologinis tauro ragas perduodamas į Zigmanto lobyną (išvežamas iš
+    Lietuvos), tokiu būdu prarasdamas savo tiesiogines funkcijas ir virsdamas savotiška
+    muzealija, saugoma Imperijos keistenybių kambaryje (vok.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200710
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Barbora Cyleikaitė]]

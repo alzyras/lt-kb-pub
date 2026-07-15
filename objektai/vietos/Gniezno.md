@@ -8,13 +8,13 @@ datos:
   - '1415 m.'
 date_start: '1415'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - pilis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -115,7 +115,6 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
 - susijęs iš Krokuva: Didžioji iš Krokuvos pargabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.
 - susijęs iš Krokuva: Aleksandrui sergant, iš Krokuvos atvyko gydymo meną išmanę Motiejus iš Blonios ir Aleksandras Balinskis.
 - susijęs iš Krokuva: Aleksandrui sunkiai sergant, iš Krokuvos atvyko gydymą išmanę Motiejus iš Blonios ir Aleksandras Balinskis.
-- susijęs iš Krokuva: Jogailai įsitvirtinus Krokuvoje, Lietuvos metraščio pasakotojas sako vėl pareiškęs savo krikščionių tikėjimą.
 - susijęs iš Lietuva: XIII a., Mindaugui pasiskelbus Lietuvos karaliumi ir siekus priimti Romos tikėjimą, popiežius paskyrė Lietuvai vyskupą.
 - susijęs iš Lvovas: Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją.
 - susijęs iš Poznanė: Kroniką „Lechitów i Polaków“ parašė Poznanės kustodas Godzislovas Baško.
@@ -130,37 +129,6 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113662|pavietas]]: Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192167|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113994|Steponas Batoras]]: Steponas Batoras globojo Vilniaus pirklius, kurie buvo išplėtoję prekybą kailiais iki Gniezno ir kitų Didžiosios Lenkijos miestų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1415 m. į Konstanciją siųstoje Lietuvos ir Lenkijos vyskupų delegacijoje dalyvavo Gniezno arkivyskupas Mikalojus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos
-    ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­
-    po Petro, Lvovo arkivysk. Jono, Gniezno arkivysk. Mikalojaus
-    ir Breslavo vysk. Jono.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Daukanto aprašytame sausumos kelyje į Romą Cydova minima greta Gniezno.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    vežė didžiomis upėmis, beje: Isla, Nemunu, Daugava, Niperiu, Tripente, Tyrule, savo prekę į svečias šalis, vienok sako buvus ir žemės kelią į Rymą per tas pilis: Askaukalį (Osielską), Setidavą (Cydovą gret Gniezno), Kalisiją (Kališą), Arsenijų (Marseniną ties Seradze), Karhoduną (Čarnovicą ties Krokuva), Asanką (Senąjį Sandeką), Setu ją...
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-37387

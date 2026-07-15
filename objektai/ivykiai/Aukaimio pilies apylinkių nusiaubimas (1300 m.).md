@@ -71,51 +71,20 @@ Nenurodyta
   teiginys: "Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar išžudęs žmones."
   pagrindžia:
     - c-62672
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
-
-       Tais pačiais metais brolis Henrikas iš Dobino  ir kiti broliai su 200 vyrų įsiveržė  į
-    Aukaimio pilies apylinkes  ir, sudeginęs šešis kaimus, pasitraukė paėmęs  į nelaisvę ar
-    išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
-    turėjo didelių nuostolių sunkiai sužeistaisiais.
-
-
-
-
-         277 (270).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 
 - id: c-62672
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 193"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
-
-       Tais pačiais metais brolis Henrikas iš Dobino  ir kiti broliai su 200 vyrų įsiveržė  į
-    Aukaimio pilies apylinkes  ir, sudeginęs šešis kaimus, pasitraukė paėmęs  į nelaisvę ar
+    Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į
+    Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar
     išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
     turėjo didelių nuostolių sunkiai sužeistaisiais.
-
-
-
-
-         277 (270).
+    277 (270).
   citata_rodoma: "Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais\n\n   Tais pačiais metais brolis Henrikas iš Dobino  ir kiti broliai su 200 vyrų įsiveržė  į\nAukaimio pilies apylinkes  ir, sudeginęs šešis kaimus, pasitraukė paėmęs  į nelaisvę ar\nišžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys\nturėjo didelių nuostolių sunkiai sužeistaisiais.\n\n\n\n\n     277 (270)."
   statusas: verified
   teiginio_tipas: faktas

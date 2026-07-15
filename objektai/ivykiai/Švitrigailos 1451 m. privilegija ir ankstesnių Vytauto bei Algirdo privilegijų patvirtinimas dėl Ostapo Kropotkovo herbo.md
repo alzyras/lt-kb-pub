@@ -55,43 +55,20 @@ Nenurodyta
   teiginys: "Narbutas mini Švitrigailos 1451 m. vasario 18 d. Lucke datuotą privilegiją, kuria patvirtinta Ostapo Kropotkovo kilmė ir herbas."
   pagrindžia:
     - c-172521
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas mini Švitrigailos 1451 m. vasario 18 d. Lucke datuotą privilegiją, kuria patvirtinta Ostapo Kropotkovo kilmė ir herbas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
-    metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
-    Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
-    kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
-    strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
-    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo -  riterio kepurė, o abipus
-    du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
-    Podbužo dvam Voluinėje už nuopelnus kare su totoriais. Datuotas Vil­
-    niuje 1354 melų mgpjūčio 7 dieną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172521
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 402"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
     metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
     Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
     kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
     strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
-    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo -  riterio kepurė, o abipus
+    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
     du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
     Podbužo dvam Voluinėje už nuopelnus kare su totoriais. Datuotas Vil­
     niuje 1354 melų mgpjūčio 7 dieną.

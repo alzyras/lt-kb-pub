@@ -9,12 +9,12 @@ datos:
   - '1900 m.'
 date_start: '1801'
 date_end: '1900'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,8 @@ Dusburgietis teigia, kad stryjkowski M.
   teiginys: "M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m."
   pagrindžia:
     - c-61934
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,11 +63,13 @@ Dusburgietis teigia, kad stryjkowski M.
 - id: c-61934
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
-    1846.
+    — ABS, 1976, 9, s.
+    71—79.
+    Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
+    происхождения балтов.
+  citata_rodoma: "Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,\n1846."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

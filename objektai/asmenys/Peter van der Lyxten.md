@@ -34,32 +34,6 @@ Peter van der Lyxten dabar grįžęs man pranešė, kad Švitrigaila yra laisvė
   teiginys: "Peter van der Lyxten grįžęs iš Lietuvos pranešė, kad Švitrigaila yra laisvėje."
   pagrindžia:
     - c-83801
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Peter van der Lyxten grįžęs iš Lietuvos pranešė, kad Švitrigaila yra laisvėje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    164
-
-    ## Puslapis 181
-
-    Il KNYGA
-    Kopija
-    Pirmiausia mano nuolanki tarnystė Jūsų dėlei. Kilmin-
-    gasai ir malonusis magistrė, žinokite, kad buvau pasiun­
-    tęs iš Liksnos į Lietuvą Petrą viską susižinoti. Jis dabar
-    grįžęs man pranešė, kad Švitrigaila yra laisvėje, ir kad bu­
-    vo čionai du kunigaikščiu su žmonių pajėgomis, ir pasta­
-    rieji išpjovė visus aną saugojusius (užmušė visus, kurie
-    buvo ten, kur jisai sėdėjo nelaisvėje).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

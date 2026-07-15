@@ -52,8 +52,8 @@ Nenurodyta
   global_id: t-195315
   teiginys: "Piemens aprangos detalė ir jos dėvėjimo būdas."
   pagrindžia:
-    - c-177699
     - c-177698
+    - c-177699
 - susijęs iš [[objektai/asmenys/Grigoras (našlys samdinys).md#claim-t-195543|Grigoras (našlys samdinys)]]: Derėdamasis dėl samdos Grigoras pareikalavo ne tik algos, bet ir drobinių marškinių bei pasukinių kelnių.
 - susijęs iš [[objektai/paprociai/Piemenų samdymo ir apmokėjimo tvarka.md#claim-t-195364|Piemenų samdymo ir apmokėjimo tvarka]]: Rudenį piemeniui rinkdavo piliavą javais, o prieš Kalėdas paviržius mėsa.
 ## Reikšmingi paminėjimai

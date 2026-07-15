@@ -10,24 +10,9 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1235 m.'
-  - '1281 m.'
-  - '1331 m.'
-  - '1387 m.'
-  - '1416 m.'
-  - '1436 m.'
-  - '1605 m.'
   - '2004 m.'
 date_start: '1235'
 date_end: '2004'
-variantai:
-  - 'Baltijos jūra'
-  - 'Baltijos jūra'
-aliases:
-  - 'Baltijos jūra'
-  - 'Baltijos jūra'
-amziai:
-  - 'XIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -35,6 +20,9 @@ tags:
   - vieta
   - jūra
   - gyvenvietė
+amziai:
+  - 'XIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -182,20 +170,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   pagrindžia:
     - c-177449
 
-<a id="claim-t-195073"></a>
-- t-019
-  global_id: t-195073
-  teiginys: "Narbutas čeltyčias apibūdino kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse."
-  pagrindžia:
-    - c-177451
-
-<a id="claim-t-195074"></a>
-- t-020
-  global_id: t-195074
-  teiginys: "Narbutas aiškino, kad į pietus nuo Baltijos krantų vandens atneštos nuolaužos sudarė naujus, gilius ir kai kur apsemtus žemės sluoksnius."
-  pagrindžia:
-    - c-177459
-
 <a id="claim-t-195075"></a>
 - t-021
   global_id: t-195075
@@ -223,6 +197,41 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   teiginys: "Narbutas teigė, kad Krivių Krivaičio valdžia anksčiau apėmė žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą."
   pagrindžia:
     - c-177444
+
+<a id="claim-t-197856"></a>
+- t-025
+  global_id: t-197856
+  teiginys: "Kiek vyresnis už Plinijų istorikas Melą Pomponijus apie Baltijos jūrą kalba ne itin aiškiai, bet rodo puikias žinias šaltinių, kuriuos panaudojo savo 1 Strabo."
+  pagrindžia:
+    - c-179365
+
+<a id="claim-t-197857"></a>
+- t-026
+  global_id: t-197857
+  teiginys: "Baltijos jūra atsirado tuomet, kai buvo užpilta didžiu lė dalis Vakarų okeano ar jo didelės įlankos, apribotos Skandinavijos pusiasalio, Suomijos, Ingrijos, Estijos pa krančių, po to sausumos ploto lanko forma nuo Vakarų Dauguvos žiočių iki Oderio žiočių, šią."
+  pagrindžia:
+    - c-179366
+
+<a id="claim-t-197858"></a>
+- t-027
+  global_id: t-197858
+  teiginys: "Tad kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal būt nesilankė prie Baltijos, neturėjo tikro supratimo apie Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su vokė."
+  pagrindžia:
+    - c-177448
+
+<a id="claim-t-195073"></a>
+- t-019
+  global_id: t-195073
+  teiginys: 'Narbutas čeltyčias apibūdino kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.'
+  pagrindžia:
+    - c-177451
+
+<a id="claim-t-195074"></a>
+- t-020
+  global_id: t-195074
+  teiginys: 'Narbutas aiškino, kad į pietus nuo Baltijos krantų vandens atneštos nuolaužos sudarė naujus, gilius ir kai kur apsemtus žemės sluoksnius.'
+  pagrindžia:
+    - c-177459
 - susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191120|Augustas Liudvikas fon Slėceris]]: Narbutas gina Slėcerį nuo kaltinimo melavimu, aiškindamas, kad jis galėjo remtis gerais senovės šaltiniais apie Baltiją.
 - susijęs iš [[objektai/asmenys/Dalinas.md#claim-t-191497|Dalinas]]: Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos jūros nusekimą nuo Kristaus gimimo.
 - susijęs iš [[objektai/asmenys/Kelsijus.md#claim-t-191431|Kelsijus]]: Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos jūra nuo Kristaus gimimo nuseko 13 sieksnių ir po 4000 metų išnyks.
@@ -254,220 +263,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192429|Lietuviai]]: Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių.
 - susijęs iš Nemunas: Teodoro Narbuto aprašyme po kurio laiko kryžiuočiai pastūmė Prūsijos sieną iki Nemuno žemupio.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasibaigus karams su vokiečių ordinu, atsidarė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Pastangos sutvarkyti ūkį.** XVI amžiuje vakaruose Lietuva
-    karų jau nebeturėjo. Pasibaigus karams su vokiečių ordinu, atsi-
-    darė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-- c-002
-  santrauka: 'Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš tokio
-    trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
-    radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­
-    vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje
-    Lietuvos vardu tapo žinoma Europai1. Ta lietuvių tauta, išsis­
-    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
-    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
-    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
-    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
-    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
-    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
-    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
-    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
-    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
-    išsaugojo gryniausius savo padermės bruožus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-- c-003
-  santrauka: 'XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Visi
-    kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų
-    kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­
-    vių, kad galėtų bent kiek paveikti kaimyninius kraštus.
-    Esant tokiai Europos miestų padėčiai, Lietuva, ilgiausiai at­
-    siribojusi nuo krikščionybės, valdydama nedidelį ir uostų sto­
-    kojantį Baltijos pakrantės ruožą, dar su vargana žemdirbyste ir
-    prekyba, vis dėlto pačiame XIII amžiaus viduryje savo žemėje
-    jau turėjo keletą miestų. Naugardukas jau buvo garsiojo Min­
-    daugo (Mendogo) sostinė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-- c-004
-  santrauka: 'XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Revelis [Talinas] už savo
-    atsiradimą dar anksčiau turi būti dėkingas danams. Teutonų
-    ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
-    gonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­
-    tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­
-    kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
-    metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
-    bemaž visi Varmės miestai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    12
-
-    ## Puslapis 29
-
-    VILNIAUS
-    MIESTO
-    ISTORIJA
-    I
-    KNYGA
-    LAIKAI IKI KRIKŠČIONYBĖS ĮVEDIMO -
-    NUO MIESTO ĮKŪRIMO IKI PAT KRIKŠTO PRIĖMIMO
-    VILNIUJE 1387 METAIS
-    Lietuvių tautos kilmė —  Normanai —  Senoji gyvenvietė prie
-    Vilnios upės —  Šventaragis —  Vilnius tampa Gedimino miestu ir
-    sostine —  Įsikūrimas, pradinė padėtis ir miesto valdymas —
-    Jaunučio žlugimas —  Algirdas - Pranciškonų nukankinimas —
-    Kryžiuočių puldinėjimai Algirdo laikais —  Jogailos užmačios —
-    Kova su Kęstučiu —  Vilniaus miestiečių įtaka toje kovoje —
-    Kęstučio mirtis —  Vilniaus padėtis Jogailos laikais —  Mūšis su
-    kryžiuočiais prie miesto ir jo sudeginimas —  Nuniokojamos
-    Vilniaus apylinkės —  Išvejami kryžiuočiai—  Jogaila tampa Lenkijos
-    karaliumi —  Išvykimas į Krokuvą.
-    Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta
-    venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos
-    žiočių iki pat Samlandijos (Sembos). Į rytus nuo Dvinos prie
-    jų šliejosi estų, gausios suomių padermės atšakos, gyven­
-    vietės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-- c-006
-  santrauka: 'Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nors jau V amžiaus pabaigoje,
-    tuoj po Romos valstybės žlugimo,
-    Europos Šiaurės kraštai kentėjo nuo
-    normanų puldinėjimų, bet jie nebu­
-    vo tokie reikšmingi ir grėsmingi,
-    kaip prasidėjusieji sulig didelės Ka­
-    rolio Didžiojo monarchijos žlugimu.
-    Būtent toje epochoje narsių piratų
-    valdomi prasti, bet mitrūs ir lengvi
-    laivai pasklido iš Skandinavijos pu­
-    siasalio po visą Baltijos pakrantę.
-    Sagos, kitaip sakant, senovinės tos
-    tautos legendos, eilėmis ir proza
-    15
-
-    ## Puslapis 32
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios
-    įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių
-    ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
-    bei Lenkiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-- c-007
-  santrauka: 'Versalyje Lietuvos delegacija kėlė Rytų Prūsijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtme-
-    čio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prū-
-    sijos, lietuvių vadinamos Mažąja Lietuva, nevaldė. Tačiau Versalyje Lietu-
-    vos delegacija iškėlė Rytų Prūsijos (kurioje tarp pusės milijono vokiečių
-    gyveno iki 100 000 lietuvių) teritorijos perdavimo Lietuvai ir išėjimo į
-    Baltijos jūrą per Klaipėdą klausimą. Pralaimėjusi karą Vokietija tam ener-
-    gingai nesipriešino, manydama sumažinti sąjungininkų intrigas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-- c-008
-  santrauka: 'Livonijos kariai pasuko prie Baltijos jūros, tikėdamiesi ties Palanga rasti retesnių medžių ir lygesnį kelią.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo tarpu
-    miškuose, prikirtę medžių, suvertę juos kaip papuolė į
-    krūvas, lietuviai užvertė visas praminąs, kuriomis net­
-    gi nešuliais neapsikrovę pėstininkai negalėjo prasibrau­
-    ti, o juo labiau — sunkieji raiteliai. Štai todėl Livoni­
-    jos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad
-    apie Palangą, smėlėtame pajūryje, bus rečiau medžių
-    ir lygesnis kelias. Atspėję jų sumanymą, lietuvių kariai
-    prikasė vieškelyje daugybę nedidelių griovių, padengė
-    juos plona, nepastebima, bet žirgo neatlaikančia dan­
-    ga, o patys išsislapstė gretimuose miškuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-- c-009
-  santrauka: 'Narbutas lietuvių rugiapjūtės dainų posakį „Garu Kotu“ siejo su padavimu apie Plinijaus minimą saulės, arba Apolono, garbinimą prie Baltijos jūros.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    100
-
-    ## Puslapis 100
-
-    (Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­
-    sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
-    ru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­
-    tą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­
-    binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
-    ponas Riteris savo Siaurės senovės tyrimuose15.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-- c-010
-  santrauka: 'Narbutas čeltyčias apibūdino kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.'
+- c-014
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Krovininiai laivai, plaukiojantys Vilija nuo lietuviško
@@ -488,178 +284,9 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-- c-011
-  santrauka: 'Narbutas Palangą laikė senu uostamiesčiu, tai aiškindamas aukštesniu Baltijos jūros vandens lygiu arba dar smėliu neužnešta pakrante.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­
-    sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl
-    aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-
-    30
-    Patyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331
-    metus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­
-    le 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­
-    veik 18 metų.
-    156
+    - t-019
 
-    ## Puslapis 156
-
-    užneštos pakrantės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-- c-012
-  santrauka: 'Narbutas teigė, kad Krivių Krivaičio valdžia anksčiau apėmė žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dabar pateiksime šį lietuvių mitologijos gabalėlį.
-    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
-    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
-    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
-    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
-    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
-    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
-    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
-    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
-    nių apeigų papročių, vienodų su jų lietuvių apeigomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-- c-013
-  santrauka: 'Narbutas kimbrų pasitraukimą iš Baltijos jūros pakrančių aiškino stichine nelaime Šiaurės Europoje po maždaug penkių jų gyvenimo ten amžių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat nebūtina įrodinėti, jog senovės germanai3 jei
-    ir netiesiogiai kilę, tai giminiavosi su kimbrais nuo jų
-    persikėlimo į Vakarų Europą laikų4; tai, be laibejo1, įvyko
-    netrukus po 650 metų prieš Kristaus gimimą, kai kimbrų
-    grobuoniški antpuoliai Rytuose ėmė slopti5.
-    25
-    Kimbrų gentims, pagyvenusioms penkis, o gal kiek
-    daugiau amžių, dėl kažkokių svarbių priežasčių buvo lem­
-    ta pasitraukti iš Baltijos jūros pakrančių6. Ta priežastis
-    buvo šioje Siaurės Europos dalyje įvykusi stichinė ne­
-    laimė, kuri pavertė dykra žemus, pajūryje plytinčius kraš­
-    tus nuo Zundo iki Oderio žiočių ir toliau į šiaurę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-- c-014
-  santrauka: 'Narbutas aiškino, kad skitai gintarą turėjo gauti keliu palei į Baltijos jūrą įtekančią upę, labiausiai tapatintiną su Nemunu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Skitai gintarą turėdavo gauti keliu,
-    ėjusiu palei Baltijos jūrą upe, kuri į ją įteka. Mokslininkai klydo ma­
-    nydami, jog tai galėjo būti Prieglius arba Vakarų Dauguva. Čia tin­
-    kamiausias
-    būtų
-    Nemunas,
-    nes
-    labiausiai
-    susijęs
-    su
-    Pripete.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-- c-015
-  santrauka: 'Narbutas pasakoja, kad atvykėliai iš Juodosios jūros per miškingas stepes, vadintas Rusija, Podolija ir Lietuva, prasiskverbė iki Baltijos jūros.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau šie, bijodami imperato­
-    riaus žiaurumo, išžudė kvietėjus, du ar tris kartus atplaukusius pas
-    juos, o patys jų laivais nuplaukė į Juodąją jūrą. Iš čia jie per miš­
-    kingas stepes (didelė tų miškų dalis šiandieną iškirsta, ir šios vietos
-    vadinamos Rusija, Podolija ir Lietuva), kur kitados romėnai keliau­
-    davo medžioti, prasiskverbė ligi Baltijos jūros...) Joan.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-- c-016
-  santrauka: 'Narbutas perteikia Tunmano nuomonę, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, tuojau užėmė Sembą ir gintaro kasyklas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Senovės tyrinėtojai ne­
-    abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
-    mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš­
-    stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos,
-    Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie
-    jūros skubančio Nemuno vaga atvedė iki žygio j vakarus
-    pabaigos. Tad Nemuno žemupio pakrantes visų pirma de­
-    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
-    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
-    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
-    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
-    užėmė Sembą ir gintaro kasyklas2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-- c-017
-  santrauka: 'Narbutas Tikrosios Prūsijos sieną vedė Vyslos žemupiu, Baltijos jūra iki Nemunyno žiočių, toliau link Rusios, Širvintos ir Mazovijos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tad pakalbėkime apie kiekvieną sritį atskirai.
-    245
-    Tikrosios Prūsijos siena ėjo Vyslos žemupiu, Baltijos
-    jūra ligi Nemunyno žiočių, paskui atsiribojo nuo Rusios
-    siena, kurią parodėme anksčiau (§ 223), net iki Širvintos
-    upės, vėliau žinoma siena su Mazovija, Michalovo ir Dob-
-    rynės žemėmis. Po kurio laiko kryžiuočiai pastūmė sieną
-    ligi Nemuno žemupio, o po 1436 metų susidarė dabartinė
-    siena su Žemaitija (§228).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-- c-018
-  santrauka: 'Narbutas pritarė stebėjimais grindžiamai išvadai, kad Baltijos jūra senka.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau jūros ploto didėjimas kartu reiškė jos vandens
-    lygio mažėjimą. Visų pirma todėl, kad plačiau išsilieję
-    vandenys savaime seklėja. Antra vertus, anot visų ste­
-    bėjimų, Siaurės pusrutulio europinės dalies jūrų lygis
-    kasmet pamažu žemėja, o dėl to nuolat anka ežerai, senka
-    upės, išdžiūsta pelikės. Tad neklydo ir tie, kurie, savo
-    nuomonę grįsdami stebėjimais, daro išvadą, kad Baltijos
-    jūra senka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-- c-019
-  santrauka: 'Narbutas aiškino, kad į pietus nuo Baltijos krantų vandens atneštos nuolaužos sudarė naujus, gilius ir kai kur apsemtus žemės sluoksnius.'
+- c-022
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Taip ir susidarė toji sausuma, o
@@ -691,118 +318,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-- c-020
-  santrauka: 'Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos cent-
-    rai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Euro-
-
-
-    pai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos
-    centrai. Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose;
-    čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Han-
-    za. Nuo to tad laiko (XIII amžiaus) ir Lietuvos prekyba ėmė
-    krypti į Baltijos jūrą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-- c-021
-  santrauka: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kova dėl Livonijos daugiausia buvo suin-
-    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
-    uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
-    Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
-    Rygą ir užvaldė Baltijos pakrantes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-021
-- c-022
-  santrauka: 'Šie pokyčiai labiausiai pa veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės drebėjimai2.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Čia dar kartą pakartosime
-    aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­
-    tinius pokyčius, kuriuos sukėlė dideli potvyniai ar ilga­
-    laikiai smarkūs-šiaurės vėjai. Šie pokyčiai labiausiai pa­
-    veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos
-    žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju­
-    desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės
-    drebėjimai2. Kalbant apie mūsų žemės formavimąsi, ne­
-    1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė
-    jį iš Trakijos į Makedoniją (Noet Fr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-022
-- c-023
-  santrauka: 'Vytauto užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Warsz.
-    rašo, kad jo laikais buvę „Vytauto
-    užrašai Krokuvos pilyje, karaliaus
-    iždinėje, kuriuose prisipažįsta susi­
-    taikęs ir sutaręs su pusbroliu Skir­
-    gaila dėl Lietuvos Didžiosios Kuni­
-    gaikštystės viršenybės, ir taip pat su
-    juo suėjo į sąjungą prieš kiekvieną
-    priešą, išskyrus Lenkijos karalių", -
-    ką savo laiškais ir Vytauto žmona
-    Ona patvirtina.
-    134
-
-    ## Puslapis 151
-
-    Il KNYGA
-    Tačiau tas amžių amžiams Lietuvos monarchijai atmintinas
-    Vytauto viešpatavimas, tie neišmatuojami užkariavimai, ku­
-    rie jos sienas nuo Baltijos iki pat Juodosios jūros pastūmė, o
-    vakaruose atitolinę rytų link tarp Lenkijos iki tolimų šiauri­
-    nės Rusios pakraščių nustatė, dar nebuvo pati gražiausia epo­
-    cha Vilniaus miesto istorijoje. Tiekos negandų nukamuota,
-    nesiliaujant vaidams viduje ir antpuoliams iš svetur, šalis ne­
-    valiojo greit pakilti iš vargų, kokius patyrė per pastarąsias
-    apgultis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-024
-- c-024
-  santrauka: 'XII amžiuje buvo geriau susipažinta su tolimesnėmis Baltijos jūros pakrantėmis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tokios gynybos sistemos globoje atsivėrė ke­
-    liai naudotis gausių manufaktūrų, paplitusių Flandrijoje ir
-    Anglijoje, darbo vaisiais. XII amžiuje geriau susipažinta su toli­
-    mesnėmis Baltijos jūros pakrantėmis. Bremeno pirkliai 1158 m.
-    atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezgė preky­
-    binius vokiečių ryšius su tenykščiu pamariu; o apie 1192 metus,
-    regis, kolonija iš Bremeno įkūrė Rygą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-023
+    - t-020
 
 ## Citatos
 
@@ -896,8 +412,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177442
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 514"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 514."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tuo tarpu
     miškuose, prikirtę medžių, suvertę juos kaip papuolė į
@@ -921,8 +436,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177443
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 191"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau šie, bijodami imperato­
     riaus žiaurumo, išžudė kvietėjus, du ar tris kartus atplaukusius pas
@@ -941,8 +455,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177444
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 429"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dabar pateiksime šį lietuvių mitologijos gabalėlį.
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
@@ -985,16 +498,14 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    100
-
-    ## Puslapis 100
-
-    (Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­
-    sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
-    ru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­
-    tą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­
-    binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
-    ponas Riteris savo Siaurės senovės tyrimuose15.
+    16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
+    mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum
+    cl hnicismo affinitate. Anno 1418, codex in folio manu scriptus, pagi­
+    narum 185. Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
+    d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki
+    1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį
+    buvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,
+    ypač mitologiją liečiančius dalykus**.
   citata_rodoma: "100\n\n## Puslapis 100\n\n(Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­\nsakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­\nru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­\ntą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­\nbinamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba\nponas Riteris savo Siaurės senovės tyrimuose15."
   statusas: verified
   teiginio_tipas: faktas
@@ -1006,8 +517,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177447
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 214"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Senovės tyrinėtojai ne­
     abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
@@ -1032,17 +542,20 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177448
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 373"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Tad
+    kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal­
+    būt nesilankė prie Baltijos, neturėjo tikro supratimo apie
+    Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės
+    šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su­
+    vokė.
     Tačiau jūros ploto didėjimas kartu reiškė jos vandens
     lygio mažėjimą. Visų pirma todėl, kad plačiau išsilieję
     vandenys savaime seklėja. Antra vertus, anot visų ste­
     bėjimų, Siaurės pusrutulio europinės dalies jūrų lygis
     kasmet pamažu žemėja, o dėl to nuolat anka ežerai, senka
-    upės, išdžiūsta pelikės. Tad neklydo ir tie, kurie, savo
-    nuomonę grįsdami stebėjimais, daro išvadą, kad Baltijos
-    jūra senka.
+    upės, išdžiūsta pelikės.
   citata_rodoma: "Tačiau jūros ploto didėjimas kartu reiškė jos vandens\nlygio mažėjimą. Visų pirma todėl, kad plačiau išsilieję\nvandenys savaime seklėja. Antra vertus, anot visų ste­\nbėjimų, Siaurės pusrutulio europinės dalies jūrų lygis\nkasmet pamažu žemėja, o dėl to nuolat anka ežerai, senka\nupės, išdžiūsta pelikės. Tad neklydo ir tie, kurie, savo\nnuomonę grįsdami stebėjimais, daro išvadą, kad Baltijos\njūra senka."
   statusas: verified
   teiginio_tipas: faktas
@@ -1050,6 +563,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195058
+    - t-197858
 
 - id: c-177449
   autorius: "Michał Baliński"
@@ -1111,36 +625,10 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   pagrindzia:
     - t-195062
 
-- id: c-177451
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Krovininiai laivai, plaukiojantys Vilija nuo lietuviško
-    Strungas -  bukas vadinami strungais, yra tikri upinių laivų gi­
-    minės milžinai; jiems trūksta tik stiebų ir kylio, kad galėtų bū­
-    ti palyginti su jūrų laivais.
-    Čeltyčios (Czeltice)
-    Tai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių
-    vaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­
-    152
-
-    ## Puslapis 152
-
-    taro rūmuose, jūros gelmėse, pavidalą.
-  citata_rodoma: "Krovininiai laivai, plaukiojantys Vilija nuo lietuviško\nStrungas -  bukas vadinami strungais, yra tikri upinių laivų gi­\nminės milžinai; jiems trūksta tik stiebų ir kylio, kad galėtų bū­\nti palyginti su jūrų laivais.\nČeltyčios (Czeltice)\nTai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių\nvaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­\n152\n\n## Puslapis 152\n\ntaro rūmuose, jūros gelmėse, pavidalą."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195073
-
 - id: c-177452
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat nebūtina įrodinėti, jog senovės germanai3 jei
     ir netiesiogiai kilę, tai giminiavosi su kimbrais nuo jų
@@ -1165,8 +653,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177453
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 252"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 252."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad pakalbėkime apie kiekvieną sritį atskirai.
     245
@@ -1188,8 +675,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177454
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 145."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Skitai gintarą turėdavo gauti keliu,
     ėjusiu palei Baltijos jūrą upe, kuri į ją įteka. Mokslininkai klydo ma­
@@ -1233,8 +719,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177456
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Čia dar kartą pakartosime
     aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­
@@ -1315,42 +800,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   pagrindzia:
     - t-195065
 
-- id: c-177459
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Taip ir susidarė toji sausuma, o
-    toliau, į pietus nuo Baltijos krantų (vandenyno dalyje,
-    kuri dar buvo neužberta), pakilo tik tų nuolaužų purslai,
-    kurie buvo atnešti kartu su vandeniu; taip susidarė nauji,
-    gilūs, kai kur vandens užtvindyti judančios žemės sluoks­
-    niai.
-    390
-    i
-    i
-
-    ## Puslapis 401
-
-    Visi sutinka su nuomone, jog, ištirpus ledynams, pas
-    mus atplaukė ir tos Siaurės uotų nuolaužos, — jas atpluk­
-    dė vandenys, iš pradžių ritindami žeme nuo gimtųjų kal­
-    nų iki jūros, o po to — Baltijos dugnu. Vėliau pats van­
-    duo jas išstūmė į krantą, kartais pakeldamas iki šimto ir
-    kelių dešimčių pėdų aukščio virš jūros lygio, akmens lui­
-    tus, kurie kartais sverdavo iki keleto milijonų pūdųK
-    Nugaliu suvokti, jog legendinėje senovėje žinoma Fa­
-    jetono katastrofa galėjo būti priminimas nukritimo kokios
-    nedidelės planetos arba dar mažesnio, nepalyginti mažes­
-    nio už Mėnulį palydovo.
-  citata_rodoma: "Taip ir susidarė toji sausuma, o\ntoliau, į pietus nuo Baltijos krantų (vandenyno dalyje,\nkuri dar buvo neužberta), pakilo tik tų nuolaužų purslai,\nkurie buvo atnešti kartu su vandeniu; taip susidarė nauji,\ngilūs, kai kur vandens užtvindyti judančios žemės sluoks­\nniai.\n390\ni\ni\n\n## Puslapis 401\n\nVisi sutinka su nuomone, jog, ištirpus ledynams, pas\nmus atplaukė ir tos Siaurės uotų nuolaužos, — jas atpluk­\ndė vandenys, iš pradžių ritindami žeme nuo gimtųjų kal­\nnų iki jūros, o po to — Baltijos dugnu. Vėliau pats van­\nduo jas išstūmė į krantą, kartais pakeldamas iki šimto ir\nkelių dešimčių pėdų aukščio virš jūros lygio, akmens lui­\ntus, kurie kartais sverdavo iki keleto milijonų pūdųK\nNugaliu suvokti, jog legendinėje senovėje žinoma Fa­\njetono katastrofa galėjo būti priminimas nukritimo kokios\nnedidelės planetos arba dar mažesnio, nepalyginti mažes­\nnio už Mėnulį palydovo."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195074
-
 - id: c-177460
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1391,19 +840,17 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­
-    sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl
-    aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-
-    30
-    Patyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331
-    metus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­
-    le 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­
-    veik 18 metų.
-    156
-
-    ## Puslapis 156
-
-    užneštos pakrantės.
+    Pastebėję po nakties avį
+    nuplikusia dėmėmis nugara, be vilnos, tarytum būtų ji iškirpta
+    arba išgraužta, dėl tų prietarų jie mano, kad tai pranašauja
+    žmonių arba gyvulių marą; dėl šios priežasties dažnai visame
+    kaime kyla didelis verksmas ir susijaudinimas; išplisdamas ap­
+    linkui, jis tampa didelio nerimo priežastimi. Stenderis savo lat­
+    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
+    sukeltų, neramumų liudytojas.
+    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
+    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
+    mas išliko kaip žalčių laikymas1.
   citata_rodoma: "Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­\nsėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl\naukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-\n30\nPatyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331\nmetus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­\nle 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­\nveik 18 metų.\n156\n\n## Puslapis 156\n\nužneštos pakrantės."
   statusas: verified
   teiginio_tipas: faktas
@@ -1412,5 +859,50 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   pagrindzia:
     - t-195068
 
+- id: c-179365
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Tačiau senovės autoriai
+    paliko ir iš dalies teisingų aprašymų. Plinijus, vadinda­
+    mas gintaringą salą Glessaria, leido nedviprasmiškai su­
+    prasti, kad romėnų kariai žinojo šią žemę ir, ko gero,
+    pelnėsi iš jos grobių4. Kiek vyresnis už Plinijų istorikas
+    Melą Pomponijus apie Baltijos jūrą kalba ne itin aiškiai,
+    bet rodo puikias žinias šaltinių, kuriuos panaudojo savo
+    1 Strabo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197856
+
+- id: c-179366
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Bet
+    pelnytai atiduota derama pagarba rašytojui teikia dau­
+    giau garbės negu jo mokslingumo įrodymai ir subtilaus
+    sąmojo požymiai. Be to, užuot smaginę mūsų skaitytojus
+    patraukliai sumanytais pasakojimais, privalome ieškoti
+    tiesos ir esmės.
+    Baltijos jūra atsirado tuomet, kai buvo užpilta didžiu­
+    lė dalis Vakarų okeano ar jo didelės įlankos, apribotos
+    Skandinavijos pusiasalio, Suomijos, Ingrijos, Estijos pa­
+    krančių, po to sausumos ploto lanko forma nuo Vakarų
+    Dauguvos žiočių iki Oderio žiočių, šią apvalainę kraštinę
+    vedant per žemes ir kraštus, kur randama pirmykščių uo­
+    lienų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197857
+
 ## Ryšiai
-- Užėmė Baltijos jūrą: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Slavai]]
+- Užėmė Baltijos jūrą: [[objektai/grupes/Slavai]]

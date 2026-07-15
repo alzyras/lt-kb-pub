@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "Dalis klaipėdiškių lietuvininkų nenorėjo jungtis prie Lietuvos ir siekė laisvojo miesto statuso."
   pagrindžia:
     - c-23251
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be to, moderniosios Lietuvos
-    valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes. Tiesa, Versalio
-    taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-
-    vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė-
-    diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
-    statuso (panašaus į Dancigo (dabar Gdanskas)).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

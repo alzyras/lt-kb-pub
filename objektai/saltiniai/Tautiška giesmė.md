@@ -49,44 +49,6 @@ Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam me
   teiginys: "Vincas Kudirka sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją; šis kūrinys tapo Lietuvos himnu."
   pagrindžia:
     - c-23977
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vincas Kudirka sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją; šis kūrinys tapo Lietuvos himnu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Aušros“ idėjas toliau plėto-
-    jo 1889 m. pradėtas leisti žurnalas
-    „Varpas“, įsteigtas Varšuvos lie-
-    tuvių studentų draugijos „Lietu-
-    va“. Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka
-    (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į
-    rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka
-    rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-
-    nys taps Lietuvos himnu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mokiniai buvo verčiami stoti į pionierių ir komjaunimo
-    organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.
-    Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
-    no savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-
-    draustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

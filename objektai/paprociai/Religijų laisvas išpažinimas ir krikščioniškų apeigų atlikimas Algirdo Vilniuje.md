@@ -57,29 +57,6 @@ Nenurodyta
   teiginys: "Algirdo Vilniuje laisvai išpažįstamų religijų įvairovė kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų."
   pagrindžia:
     - c-83227
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Algirdo Vilniuje laisvai išpažįstamų religijų įvairovė kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mikalojaus, ten, kur ji yra ir dabar18; o palei Žemutinę
-    pilį gyveno pranciškonai, turėję dar Gedimino laikais pa­
-    statydintą bažnyčią toje vietoje, kur dabar yra Šventojo Kry­
-    žiaus bažnyčia ir bonifratrų špitolė. Tačiau per tą laisvai iš­
-    pažįstamų religijų įvairovę, palūžusios pagonybės
-    akivaizdoje kildavo didelių piktumų tarp skirtingą tikėjimą
-    išpažįstančiųjų ir jų dvasininkų. Ne kartą jau minoritai, apaš­
-    talavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo
-    pranciškonai, pranašesni savo drąsa ir uoliu žmonių atver­
-    timu į tikėjimą, pasmerkė save skaudžioms kančioms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

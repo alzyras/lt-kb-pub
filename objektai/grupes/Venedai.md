@@ -9,15 +9,16 @@ datos:
   - '1387 m.'
 date_start: '253'
 date_end: '1387'
+amziai:
+  - 'III'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - karalius
+  - miestas
   - tauta
-  - gentis
-amziai:
-  - 'III'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,47 +54,68 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   pagrindžia:
     - c-82752
 
-<a id="claim-t-192479"></a>
-- t-003
-  global_id: t-192479
-  teiginys: "Narbutas sieja Venedijos vardą su lygumų ir pelkynų kraštu, nuo kurio, jo aiškinimu, slavai vadinti venedų tauta."
-  pagrindžia:
-    - c-175273
-
 <a id="claim-t-192480"></a>
-- t-004
+- t-003
   global_id: t-192480
   teiginys: "Narbutas pasakoja, kad Bitinijos keliautojai per venedų ir alanų žemes pateko į Livoniją."
   pagrindžia:
     - c-175274
 
 <a id="claim-t-192481"></a>
-- t-005
+- t-004
   global_id: t-192481
   teiginys: "Narbutas rašo, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalkos kraštas pateko priešams."
   pagrindžia:
     - c-175275
 
 <a id="claim-t-192482"></a>
-- t-006
+- t-005
   global_id: t-192482
   teiginys: "Narbutas nurodo, kad apie 253 m. jungtiniai finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu."
   pagrindžia:
     - c-175276
 
 <a id="claim-t-192483"></a>
-- t-007
+- t-006
   global_id: t-192483
   teiginys: "Narbutas vieno radinio ratu išdėstytas raides aiškina kaip lotynišką užrašą venedų runomis."
   pagrindžia:
     - c-175277
 
 <a id="claim-t-192484"></a>
-- t-008
+- t-007
   global_id: t-192484
   teiginys: "Lotynų kalbą slavai venedai ir lietuviai var tojo kaip diplomatinę kalbą."
   pagrindžia:
     - c-175278
+
+<a id="claim-t-197526"></a>
+- t-008
+  global_id: t-197526
+  teiginys: "Venedai tą kraštą vadino Ulmigeria, o te nykščius žmones — Ulmigeri."
+  pagrindžia:
+    - c-175274
+
+<a id="claim-t-197527"></a>
+- t-009
+  global_id: t-197527
+  teiginys: "Senovės tyrinėtojai ne abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos, Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie jūros."
+  pagrindžia:
+    - c-179232
+
+<a id="claim-t-197528"></a>
+- t-010
+  global_id: t-197528
+  teiginys: "Esama neabejotinų įrodymų, nes, valdant imperatoriui Galui, apie 253 metus jungtiniai finų, galindų ir venedų būriai kariavo su imperatorium Valuzianu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo vino kaip vandalų, finų, galindų ir venedų nugalėto ją."
+  pagrindžia:
+    - c-175276
+
+<a id="claim-t-197529"></a>
+- t-011
+  global_id: t-197529
+  teiginys: "Iš ankstesnio šios temos dėstymo ži nome, kad tuo metu prie šios jūros gyveno venedai, sla vai ir estai lietuviai arba visos šiuo bendriniu vardu va dinamos lietuvių genties tautos."
+  pagrindžia:
+    - c-179233
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190867|Herodotas]]: P. J. Safaržykas Herodoto budinus apibūdino kaip venedų tautą, kurią slavai galį laikyti savo padermės šaka.
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-192473|Slavai]]: Narbutas rašė, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką ir perėmė jo kraštą.
 - susijęs iš [[objektai/ivykiai/Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis.md#claim-t-191064|Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis]]: Narbutas pasakoja, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalka krito mūšio lauke.
@@ -176,95 +198,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - susijęs iš Venedija: Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą, nuo kurio slavai esą vadinti venedų tauta.
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190674|Adomas Stanislovas Naruševičius]]: Naruševičių Narbutas mini tarp autorių, kurių požiūris turėjo pagrįsti nuomonę, kad venedams priklausė Lietuvos istorijai svarbios gentys.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    12
-
-    ## Puslapis 29
-
-    VILNIAUS
-    MIESTO
-    ISTORIJA
-    I
-    KNYGA
-    LAIKAI IKI KRIKŠČIONYBĖS ĮVEDIMO -
-    NUO MIESTO ĮKŪRIMO IKI PAT KRIKŠTO PRIĖMIMO
-    VILNIUJE 1387 METAIS
-    Lietuvių tautos kilmė —  Normanai —  Senoji gyvenvietė prie
-    Vilnios upės —  Šventaragis —  Vilnius tampa Gedimino miestu ir
-    sostine —  Įsikūrimas, pradinė padėtis ir miesto valdymas —
-    Jaunučio žlugimas —  Algirdas - Pranciškonų nukankinimas —
-    Kryžiuočių puldinėjimai Algirdo laikais —  Jogailos užmačios —
-    Kova su Kęstučiu —  Vilniaus miestiečių įtaka toje kovoje —
-    Kęstučio mirtis —  Vilniaus padėtis Jogailos laikais —  Mūšis su
-    kryžiuočiais prie miesto ir jo sudeginimas —  Nuniokojamos
-    Vilniaus apylinkės —  Išvejami kryžiuočiai—  Jogaila tampa Lenkijos
-    karaliumi —  Išvykimas į Krokuvą.
-    Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta
-    venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos
-    žiočių iki pat Samlandijos (Sembos). Į rytus nuo Dvinos prie
-    jų šliejosi estų, gausios suomių padermės atšakos, gyven­
-    vietės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Hanoverio žemėje prie Elbės žemupio gyvenusių venedų kalboje žodis „Vilija“ reiškė valią.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mūsų kaimiečiai
-    lietuviai taria „Niaris" ir sako, esą
-    lenkiškai jų puikioji upė vadinama
-    Wilja. Prancūzijoje, Aljė departa­
-    mente, esama mineralinių vandenų,
-    vadinamų Neris, prie taip pat pava­
-    dinto miestelio, išsidriekusio tarp
-    Šero ir Luaros upių, kur X amžiuje
-    siekė normanų antpuoliai ir netgi jų
-    gyvenvietės - slavų, venedų, gyve­
-    nančių Hanoverio žemėje prie Elbės
-    žemupio, netoli nuo Lūchovo, kal­
-    ba žodis Vilija reiškia valią. Žr. Voy­
-    age^ dans quelques parties de Ia Basse
-    Saxe, pour Ia recherche des antiquites
-    Slaves ou Vendes, fait en 1794, par le
-    Comte Jean Potocki, p. 63, tit.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Narbutas sieja Venedijos vardą su lygumų ir pelkynų kraštu, nuo kurio, jo aiškinimu, slavai vadinti venedų tauta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    101
-
-    ## Puslapis 99
-
-    manų genčių“. Sis lygumų, lėkštų plotų ir klampių pel­
-    kynų kupinas kraštas tikrai galėjo vadintis Venedija, o
-    nuo jo ir slavai buvo vadinami venedų tauta1.
-    88
-    Slavai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Narbutas pasakoja, kad Bitinijos keliautojai per venedų ir alanų žemes pateko į Livoniją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -333,28 +266,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
-
-- c-007
-  santrauka: 'Narbutas vieno radinio ratu išdėstytas raides aiškina kaip lotynišką užrašą venedų runomis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Nedailus, vos galima suprasti, jog tai raitelis su sa­
-    kalu. Raidės užrašytos ratu: lotyniškas užrašas, venedų runomis,
-    pagal mano aiškinimą: l MM3 1 : S'k8>bP<^f> .’I*
-    HrlT
-    ĄĄŪ
-    Ų/nmolavit Saifiborius dux ¡\rucho olitori). To dievaičio
-    vardo užrašė raidė „o“ yra įterpta į vidurį, o ne į pabaigą, va­
-    dinasi, yra Koruch vietoj Krucho, o vietoje raidės „ch“, kuri ne­
-    buvo žinoma venedų runų abėcėlėje, buvo naudojama dviguba
-    „gg“ (11), kurios, sujungtos j vieną raidę ^ , skaitoma kaip ,,CH“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
 
 - c-008
   santrauka: 'Lotynų kalbą slavai venedai ir lietuviai var tojo kaip diplomatinę kalbą.'
@@ -446,62 +357,36 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   pagrindzia:
     - t-86773
 
-- id: c-175273
+- id: c-175274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    101
-
-    ## Puslapis 99
-
-    manų genčių“. Sis lygumų, lėkštų plotų ir klampių pel­
-    kynų kupinas kraštas tikrai galėjo vadintis Venedija, o
-    nuo jo ir slavai buvo vadinami venedų tauta1.
-    88
-    Slavai.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192479
-
-- id: c-175274
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 168"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
-  citata_originali: |
-    Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
-    gyventi žmonės septintojo dangaus- rato pabaigoje, — čia
-    yra nepaprastai šaltas aštuntasis ratas, — išsiuntė keliau­
-    tojus tai patikrinti. Šie perėjo plačius Tartarijos kraštus,
-    vėliau didelę slavų Roksolanijos valstybę ir per venedų
-    bei alanų žemes pateko į Livoniją. Iš to krašto, dar gana
-    toli nukeliavę vandens keliu, atsidūrė plačioje ir tuščioje
-    žemėje, kuri neturėjo jokio nuolatinio pavadinimo, nes ją
-    vadino tai Sargatia arba Sargaga, tai Getida arba Vatinla
-    ir dar kitaip.
+    Venedai tą kraštą vadino Ulmigeria, o te­
+    nykščius žmones — Ulmigeri. Tad jų padedami tęsė savo
+    tyrinėjimus. Tas kraštas buvo visiškai laukinis, jame ne­
+    buvo nei miestų, nei kaimų, nei jokių tvirtai suręstų namų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192480
+    - t-197526
 
 - id: c-175275
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pakviestas į pagal­
-    bą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti
-    už savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė
-    į slavų kraštą; venedų karalius Skalka buvo sumuštas ir
-    krito mūšio lauke, o jo kraštas pateko į priešų rankas.
-    Tačiau Jarmeriko įniršiui to nepakako.
+    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
+    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
+    ką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog
+    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
+    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
+    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
+    galo juos engdamas.
+  citata_rodoma: "Pakviestas į pagal­\nbą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti\nuž savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė\nį slavų kraštą; venedų karalius Skalka buvo sumuštas ir\nkrito mūšio lauke, o jo kraštas pateko į priešų rankas.\nTačiau Jarmeriko įniršiui to nepakako."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -512,8 +397,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-175276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 299"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Lietuviai, gyvenę toliau nuo jūros, dalyva­
     vo įvairiuose sarmatų maištuose, būdavo įtraukiami į
@@ -531,19 +415,23 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     nu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­
     vino kaip vandalų, finų, galindų ir venedų nugalėto­
     ją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­
-    nių medalių1.
+    nių medalių1. Šie numizmatiniai užrašai nemini gotų,
+    nes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­
+    sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
+    tuose2.
+  citata_rodoma: "Esama \nneabejotinų įrodymų, nes, \nvaldant \nimperatoriui \nGalui, apie 253 metus \njungtiniai finų, \ngalindų ir venedų būriai kariavo su imperatorium Valuzia- \nnu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­\nvino kaip vandalų, finų, galindų ir venedų nugalėto­\nją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­\nnių medalių1. Šie numizmatiniai užrašai nemini gotų, \nnes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­\nsią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­\ntuose2."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192482
+    - t-197528
 
 - id: c-175277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 487"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 487."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nedailus, vos galima suprasti, jog tai raitelis su sa­
     kalu. Raidės užrašytos ratu: lotyniškas užrašas, venedų runomis,
@@ -565,22 +453,72 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-175278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 488"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Todėl, mano nuomone, reikėtų
-    skaityti: Kurcho, optimo maximo. O tai yra toks pat užrašas kaip
-    ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO
-    MAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito
-    skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo
-    maximo Jurowito". Lotynų kalbą slavai venedai ir lietuviai var­
-    tojo kaip diplomatinę kalbą.
+    Ponas Tadas Vo­
+    lianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­
+    rašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1
+    lenkiška linija — 1/12 colio, 1 rusiška linija — 1/10 colio —
+    R. G.) ¡skersmens]. Jis skirtas Samborui, Pabaltijo slavų karaliu­
+    kui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo
+    Kurchas. Nedailus, vos galima suprasti, jog tai raitelis su sa­
+    kalu.
+  citata_rodoma: "Todėl, mano nuomone, reikėtų\nskaityti: Kurcho, optimo maximo. O tai yra toks pat užrašas kaip\nir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO\nMAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito\nskydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo\nmaximo Jurowito\". Lotynų kalbą slavai venedai ir lietuviai var­\ntojo kaip diplomatinę kalbą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192484
+
+- id: c-179232
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Senovės tyrinėtojai ne­
+    abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
+    mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš­
+    stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos,
+    Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie
+    jūros skubančio Nemuno vaga atvedė iki žygio j vakarus
+    pabaigos. Tad Nemuno žemupio pakrantes visų pirma de­
+    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
+    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
+    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
+    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
+    užėmė Sembą ir gintaro kasyklas2.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197527
+
+- id: c-179233
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Taip apie IV amžiaus vidurį gotų valdžia paplito
+    iki Baltijos jūros. Iš ankstesnio šios temos dėstymo ži­
+    nome, kad tuo metu prie šios jūros gyveno venedai, sla­
+    vai ir estai lietuviai arba visos šiuo bendriniu vardu va­
+    dinamos lietuvių genties tautos. Pirmųjų jau buvo labai
+    daug, nors jie gal vėliau negu kiti apsigyveno prie Bal­
+    tijos jūros. Taip pat, pasikliaudami galia savo ginkluotų
+    žmonių, kurių labai daug galėjo išvesti į kovos lauką,
+    mėgino priešintis galingo karaliaus žygiams; bet jis,
+    pasiuntęs gausius ginkluotų žmonių būrius, pirmiausia
+    išmintingais politiniais žygiais pelnė palankumą ir nuo­
+    lankumą estų, beje, nepernelyg patenkintų galingų vene-
+    dų kaimynyste, o vėliau lengvai įvedė savo valdžią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197529
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Skalka]]

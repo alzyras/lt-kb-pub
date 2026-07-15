@@ -50,8 +50,8 @@ Nenurodyta
   teiginys: "Narbutas Šneibratą apibūdino kaip paukščių ūkio ir medžioklės dievą, turėjusį stabų Komovės šventykloje."
   pagrindžia:
     - c-172641
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Šneibratą apibūdino kaip paukščių ūkio ir medžioklės dievą, turėjusį stabų Komovės šventykloje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -74,14 +74,15 @@ Nenurodyta
 - id: c-172641
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 110"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 110."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šneibratas (Sznejbrato)
-    Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo
-    aukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-
-    zwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų
-    Komovės šventykloje.
+    Herodotas sako, kad pelazgai, iš Sa-
+    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
+    įvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­
+    siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
+    Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje
+    Graikijoje ir toliau.
+  citata_rodoma: "Šneibratas (Sznejbrato)\nPaukščių ūkio ir medžioklės dievas. Jam daugiausia buvo\naukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-\nzwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų\nKomovės šventykloje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

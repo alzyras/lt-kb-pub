@@ -61,29 +61,6 @@ Nenurodyta
   teiginys: "1390 m. Jogaila iš Lenkijos į Vilnių atgabeno maisto ir drabužių atsargų, kurios buvo dalijamos visą turtą praradusiems gyventojams."
   pagrindžia:
     - c-83252
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1390 m. Jogaila iš Lenkijos į Vilnių atgabeno maisto ir drabužių atsargų, kurios buvo dalijamos visą turtą praradusiems gyventojams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390
-    metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau
-    pavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos
-    tėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­
-    jos parvyko į griuvėsiais virtusį gimtąjį miestą. Nemažos
-    maisto ir drabužių atsargos, karaliaus atsigabentos iš Len­
-    kijos ir dosniai dalijamos liaudžiai, pravertė visą turtą pra-
-    radusiems gyventojams, o karaliaus buvimas stiprino tie­
-    kos negandų nualintą jų dvasią. Pamažu ėmė telktis išsisklaidę
-    gyventojai ir statytis namus ant degėsių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

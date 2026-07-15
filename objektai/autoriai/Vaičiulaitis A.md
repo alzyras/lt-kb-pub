@@ -8,15 +8,15 @@ datos:
   - '1940 m.'
 date_start: '1939'
 date_end: '1940'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rašytojas
   - autorius
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'modernioji Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,8 +44,8 @@ Dusburgietis teigia, kad vaičiulaitis A.
   teiginys: "A. Vaičiulaitis parašė straipsnį „Vidurinių amžių poetas Machaut Lietuvoj“."
   pagrindžia:
     - c-61439
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Vaičiulaitis parašė straipsnį „Vidurinių amžių poetas Machaut Lietuvoj“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -65,11 +65,25 @@ Dusburgietis teigia, kad vaičiulaitis A.
 - id: c-61439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 278"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 278."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,
-    K., 1940, t. 3, p. 315—319.
+    Varmės vysk. valdytojas
+    Jozuė
+    Jucevičius L. A.
+    Jučas M.
+    Judas
+    Judas Makabėjus
+    Juodutis (D.— Jodute)
+    Jurginis J. (Юргинис Ю.)
+    Jurgis šv.
+    Justas šv.
+    Justinianas
+    Kabelka J.
+    Kaltis (Colte, Kolte)
+    Kalvaitis V. (Kalwaitis W.)
+    Kaminskis A. (Kamiński)
+    Kandeimas (D. — Candeym, Jer.
+  citata_rodoma: "Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,\nK., 1940, t. 3, p. 315—319."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

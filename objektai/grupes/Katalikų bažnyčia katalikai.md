@@ -35,24 +35,6 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
   teiginys: "Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais tapo katalikiškojo peizažo bruožu ir žymėjo rytinę katalikybės ribą."
   pagrindžia:
     - c-65728
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais tapo katalikiškojo peizažo bruožu ir žymėjo rytinę katalikybės ribą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mokykla išsiskiria dekoratyvių, kompozicinių ir
-    architektūrinių elementų deriniu. Ryškiausias ypatumas – ypač aukšti ir
-    liekni pagrindinio fasado bokštai. Bažnyčios su dviem grakščiais, skirtingai
-    dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-
-    žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -42,49 +42,6 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
   teiginys: "Poznaniaus vyskupas ir Lenkijos kancleris Vaitiekus Jastrzembiec buvo atsidavęs Vytauto reikalams."
   pagrindžia:
     - c-167665
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kaip tik tuo laiku
-    Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos
-    valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­
-    trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis
-    buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
-    žant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­
-    vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L. tapo
-    Romos imperatorium, nes jis buvo sąjungoj su Ordinu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Poznaniaus vyskupas ir Lenkijos kancleris Vaitiekus Jastrzembiec buvo atsidavęs Vytauto reikalams.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Net
-    nuostabu, kad lenką bajorai ne tik sutiko su nusileidimais Ordi­
-    nui, bet dar labiau nuo to laiko pasidarė Vytautui artimesni,
-    tartum nujausdami jo paramos reikalingumą ir, be to, būdami
-    jam dėkingi už tarpininkavimą gaunant iš karaliaus privilegiją,
-    pasidarė karšti savo protektoriaus šalininkai. Kaip tik tuo laiku
-    Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos
-    valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­
-    trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis
-    buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
-    žant lenkų papročius ir tradicijas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

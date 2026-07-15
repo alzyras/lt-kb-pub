@@ -40,39 +40,19 @@ media_all_json: |-
   teiginys: "Žygimanto Senojo privilegija Petrui Laurinavičiui, Vilniaus piliečiui, 1538 m. sausio 25 d. Piotrkove patvirtino įvairius pirkimus."
   pagrindžia:
     - c-173449
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Žygimanto Senojo privilegija Petrui Laurinavičiui, Vilniaus piliečiui, 1538 m. sausio 25 d. Piotrkove patvirtino įvairius pirkimus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    O supratingiems tėvy­
-    nės istorijos mylėtojams -  tai labai vertingas šios įžymios val­
-    18 Žygimanto Senojo privilegija, duota Petrui Laurinavičiui, Vil­
-    niaus piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrkovas.
-    1538.1.25. -  Iš Lietuvos Metrikos. Išspausdino Kraševskis (Wilno. -
-    T. K')*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173449
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 273."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O supratingiems tėvy­
-    nės istorijos mylėtojams -  tai labai vertingas šios įžymios val­
+    nės istorijos mylėtojams - tai labai vertingas šios įžymios val­
     18 Žygimanto Senojo privilegija, duota Petrui Laurinavičiui, Vil­
     niaus piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrkovas.
-    1538.1.25. -  Iš Lietuvos Metrikos. Išspausdino Kraševskis (Wilno. -
+    1538.1.25. - Iš Lietuvos Metrikos. Išspausdino Kraševskis (Wilno. -
     T. K')*.
   statusas: verified
   teiginio_tipas: faktas

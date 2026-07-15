@@ -81,6 +81,7 @@ Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė š
 - susijęs iš Uppeleela: Teodoras Narbutas spėjo, kad Uppeleela buvo miestas prie nežinomos upės, galbūt įtekančios į Engūrės ežerą, krantų ar žiočių.
 - susijęs iš Varmija: Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Giniau miestų iki Alnos upės, už kurios prasidėjo Barta.
 - susijęs iš Vindavos upė: Narbutas Vindavos upės pavadinimą laikė pėdsaku venedų slavų, galėjusių gyventi Baltijos pakrantėje tarp Vyslos ir Dauguvos žiočių.
+- susijęs iš [[objektai/daiktai/Kukovaičio atminimo stabas.md#claim-t-198531|Kukovaičio atminimo stabas]]: Lietuvos metraštis teigia, kad Utenis tėvui Kukovaičiui atminti padirbo stabą ir pastatė jį prie Šventosios upės ant kalno netoli Deltuvos.
 - susijęs iš [[objektai/zodynas/upė.md#claim-t-192230|upė]]: Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.
 - susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190835|Adomas Bremenietis]]: Adomas Bremenietis, aprašydamas Baltijos jūros kraštus, minėjo didžiulę salą, vadinamą Estlandija.
 - susijęs iš [[objektai/asmenys/Baza.md#claim-t-191375|Baza]]: Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas savo kariuomenių vadų pasitarimą.
@@ -173,7 +174,6 @@ Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė š
 - susijęs iš Kernavė: Narbutas cituoja aiškinimą, kad Neries deivės aukurai buvę įvairiose pakrantės vietose, pirmiausia Kernavėje prie Neriškių miško.
 - susijęs iš Kijevas: Teodoras Narbutas spėjo, kad Herodotas buvo nukeliavęs ne toliau kaip iki dabartinio Kijevo.
 - susijęs iš Kulmas: Narbutas nurodė, kad sena siena prie Drevantos skyrė Kulmo kraštą nuo senovės Prūsijos.
-- susijęs iš Lietuva: Lietuvai ir Lenkijai seimų konstitucijos buvo rašomos atskirai, o vienos valstybės konstitucija kitoje negaliojo be specialaus priėmimo.
 - susijęs iš Lietuva: Narbutas rašė, kad tarakonai buvo paplitę Lydoje iki kairiojo Ditvos kranto, bet jų nebuvo tikrojoje Lietuvoje.
 - susijęs iš Lydos apskritis: 1826 m. Lydos apskrityje, prie Ogrodnikų kaimo Šalčios pakrantės skardyje, kaimietis rado senų sidabrinių pinigų.
 - susijęs iš Mažoji Rosė (Roska): Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje greta Kučincų kaimo.
@@ -223,33 +223,12 @@ Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė š
 - susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192238|revoliucija]]: Teodoras Narbutas rašo, kad nesiliaujančios sarmatų revoliucijos neleido agatirams ilgiau ramiai gyventi prie Marokos.
 - susijęs iš [[objektai/zodynas/žiemos kinkinys.md#claim-t-192183|žiemos kinkinys]]: Narbutas aiškina, kad Žiemos kinkinys čia pateikiamas kaip alternatyva mažai valčiai vasarą.
 - susijęs iš [[objektai/zodynas/žiemos kinkinys.md#claim-t-192184|žiemos kinkinys]]: Žiemos kinkinys Narbuto pasakojime buvo priemonė keliauti užšalusiais vandens keliais pasroviui arba jų kryptimi.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė šventyklos liekanoms.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
-    taip pat buvusi šventykla.
-    Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
-    to paties istoriko, priklausė šventyklos liekanoms. Garsi šven­
-    tykla buvo vietovėje, vadintoje Rikajotu (Rikajoth), kurios bu­
-    vimo vieta nežinoma.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-171963
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
     taip pat buvusi šventykla.

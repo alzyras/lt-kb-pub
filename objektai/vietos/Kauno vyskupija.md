@@ -41,25 +41,6 @@ Plačiai pasiremdamas Kauno vyskupijos kurijos archyvine medžiaga, jis išleido
   teiginys: "Veikalas „Žemaičių vysk. M. Valančius“ buvo parengtas plačiai remiantis Kauno vyskupijos kurijos archyvine medžiaga."
   pagrindžia:
     - c-33884
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jau 1911 m. jis išleido «Lietuvos istoriją»,
-    jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas
-    daugiau šaltinių ir mokslinių tyrinėjimų. A. Aleknos «Katalikų
-    Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šaltinius kritiškai
-    ir objektyviai vertinti. Plačiai pasiremdamas Kauno vyskupijos
-    kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk. M. Valan­
-    čius » (1923) 81a.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

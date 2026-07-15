@@ -50,8 +50,8 @@ Nenurodyta
   teiginys: "Narbutas Prūsų didžiojoje vėliavoje aprašo Atrimpo atvaizdą kaip jaunikaitį su javų varpų vainiku ant galvos, stovintį Perkūno kairėje."
   pagrindžia:
     - c-172624
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Prūsų didžiojoje vėliavoje aprašo Atrimpo atvaizdą kaip jaunikaitį su javų varpų vainiku ant galvos, stovintį Perkūno kairėje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -76,16 +76,18 @@ Nenurodyta
 - id: c-172624
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 104."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pasak kitų
-    tyrinėtojų, tas stabas turėjo vaizduoti Žalčių karalių (Žalcziu
-    Karalus), kuris buvo laikomas tikru dievo Ukapirmo broliu25.
-    Prūsų didžiojoje vėliavoje buvo pavaizduotas kitoks Atrim-
-    pas -  jaunikaitis su galva, papuošta javų varpų vainiku, stovin­
-    tis Perkūno kairėje. Žiūrėk IV lentelės 41-ąjį piešinį ir vėlia­
-    vos aprašymą straipsnyje „Herbai“.
+    Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­
+    pu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­
+    ralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs
+    daug laivų, maldavo jo malonės juodosiomis aukomis, ką se­
+    novės švedai vadinoFroblosk, auka dievui Fra. Valdant Hote-
+    riui, Balderis pakeitė ją žmonių auka (Eddy). Esama dainos,
+    iki šiol pajūrio žemaičių tebedainuojamos, kurioje dainuojan­
+    tis apverkia žuvusius jūreivius, pagrobtus paaukoti audrai, Ju-
+    dime.
+  citata_rodoma: "Pasak kitų\ntyrinėtojų, tas stabas turėjo vaizduoti Žalčių karalių (Žalcziu\nKaralus), kuris buvo laikomas tikru dievo Ukapirmo broliu25.\nPrūsų didžiojoje vėliavoje buvo pavaizduotas kitoks Atrim-\npas -  jaunikaitis su galva, papuošta javų varpų vainiku, stovin­\ntis Perkūno kairėje. Žiūrėk IV lentelės 41-ąjį piešinį ir vėlia­\nvos aprašymą straipsnyje „Herbai“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

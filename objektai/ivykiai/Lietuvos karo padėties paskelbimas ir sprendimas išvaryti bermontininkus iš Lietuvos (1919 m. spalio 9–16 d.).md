@@ -66,52 +66,6 @@ Nenurodyta
   teiginys: "Lietuvos konfliktas su bermontininkais labai pablogino santykius su Vokietija, nes didelę dalį Bermonto pajėgų sudarė vokiečių savanoriai."
   pagrindžia:
     - c-44911
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pasirengimas operacijai
-    Lietuvai iškilo naujas egzisten-
-    cinis pavojus. 1919 m. spalio 9 d.
-    Lietuvos vyriausybė paskelbė visoje
-    šalyje karo padėtį, spalio 16 d. buvo pri-
-    imtas sprendimas jėga išvaryti bermon-
-    tininkus iš Lietuvos. Lietuvos konfliktas
-    su bermontininkais labai pablogino
-    santykius su Vokietija, nes didelę dalį
-    Bermonto pajėgų sudarė vokiečių sa-
-    vanoriai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1919 m. spalio 9 d.
-    Lietuvos vyriausybė paskelbė visoje
-    šalyje karo padėtį, spalio 16 d. buvo pri-
-    imtas sprendimas jėga išvaryti bermon-
-    tininkus iš Lietuvos. Lietuvos konfliktas
-    su bermontininkais labai pablogino
-    santykius su Vokietija, nes didelę dalį
-    Bermonto pajėgų sudarė vokiečių sa-
-    vanoriai. Vokietija rėmė bermontinin-
-    kus, tikėdamasi su jų pagalba išlaikyti
-
-    „Mūšis ties Radviliškiu“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

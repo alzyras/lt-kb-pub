@@ -43,24 +43,6 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
   teiginys: "Formulė pateikiama kaip Ordino skleidžiamas teiginys, menkinantis Lietuvos katalikiškumą."
   pagrindžia:
     - c-14541
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vok. Ordinas nenorėjo nusileisti. Apie Vytautą jis skelbė
-    Vak. Europoje, kad tai yra labai pavojingas katalikams valdo­
-    vas, nes visas pilis paveda stačiatikiams ir susideda su toto­
-    riais, kurie veržiasi Europon. Lietuva tik iš vardo esanti ka­
-    talikiška: bažnyčios joje nestatomos, kat. tikėjimas nesklei­
-    džiamas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

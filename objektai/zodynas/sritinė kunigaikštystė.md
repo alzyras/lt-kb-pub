@@ -42,43 +42,6 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
   teiginys: "Lietuvos sritinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikščio nuosava valstybe, kiek administracine apygarda."
   pagrindžia:
     - c-175910
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taigi ir pas mus buvo maždaug tokia pat santvarka,
-    kaip Vakaruose vadinamasis feodalizmas. Tik Lietuvos feoda-
-    lizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo
-    ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis. Lietuvos sri-
-    tinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikš-
-    čio nuosava valstybe, kiek administracine apygarda.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvos sritinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikščio nuosava valstybe, kiek administracine apygarda.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos sri-
-    tinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikš-
-    čio nuosava valstybe, kiek administracine apygarda. Todėl jos
-    buvo nepastovios: kunigaikščiai galėjo būti kilnojami iš vienos vie-
-    tos į kitą, jų sritys galėjo būti karpomos, mažinamos ir didinamos.
-    Tuo tarpu Vakaruose vasalų valstybės buvo pastovios ir neliečiamos;
-    jos buvo kunigaikščių gaunamos iš tėvų, o ne iš suvereno malonės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

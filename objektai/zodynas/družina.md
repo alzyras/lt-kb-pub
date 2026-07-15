@@ -41,25 +41,6 @@ Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­ tas, p
   teiginys: "Nalšėnų Daumantas, bijodamas patekti Vaišvilkui į rankas, pabėgo į Pskovą su šeima, bajorais ir palydovais, vadinamais družina."
   pagrindžia:
     - c-34148
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų
-    opozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai.
-    Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­
-    tas, pabūgęs pakliūti Vaišvilkni į rankas, išbėgo į Pskovą su savo
-    šeima, bajorais ir palydovais (družina). Įkandin ar drauge su juo
-    (1265 m.) į Pskovą pasitraukė su šeimomis 300 lietuvių, kurie ten
-    visi pasikrikštijo^217.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

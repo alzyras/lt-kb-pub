@@ -44,24 +44,6 @@ media_all_json: |-
   teiginys: "1362 m. Kauno pilies žygiui vadovavo didysis Ordino magistras Vinrichas fon Kniprodė."
   pagrindžia:
     - c-42305
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1362 m. Kauno pilies žygiui vadovavo didysis Ordino magistras Vinrichas fon Kniprodė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Žygio mastą liudija tai, kad kryžiuočiai sukvietė riterius iš beveik visos Europos - Italijos, Prancūzijos, Anglijos. Apgulties eigoje prie jų prisijungė ir
-    Livonijos ordinas. Visam žygiui vadovavo pats didysis Ordino magistras Vinrichas fon Kniprodė. Bendras kryžiuočių kariuomenės skaičius galėjo būti apie
-    3000 karių. Kauno pilies įgulai, kurią galėjo sudaryti 350-400 karių, vadovavo Kęstučio sūnus Vaidotas. Lietuviai kryžiuočių apgultį sugebėjo atlaikyti visą
-    mėnesį. Pilis galop buvo užimta 1362 metų kovą, verbų sekmadienį. Lietuvoje daugiau nebuvo pilies, kuri sugebėtų visą mėnesį priešintis iš pusės Europos
-    sutelktam Kryžiuočių ordinui. Po pergalės kryžiuočiai pilį sulygino su žeme.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

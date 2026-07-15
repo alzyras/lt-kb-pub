@@ -51,46 +51,8 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   teiginys: "Vytautas po žmonos Onos mirties Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra."
   pagrindžia:
     - c-168172
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytauto žmona Ona, Smolensko kunigaikštytė, išpažino graikų apeigų tikėjimą ir prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš
-    vieno Vytauto dovanojimo akto Tra­
-    kų miestui, 1384 metų rugpjūčio 23
-    dieną rašyto, aišku, kaip tatai ir iš
-    istorijos žinoma, kad tuo metu jis jau
-    buvęs krikščionis, ką liudija patys
-    pirmieji to dokumento žodžiai:
-    „Mes, didysis kunigaikštis Vytautas,
-    švento krikšto metu gavęs Aleksan­
-    dro vardą" ir 1.1. Jo žmonos - Smo­
-    lensko kunigaikštytė Ona, o kita -
-    Algimanto Alšėniškio duktė Julijo­
-    na -išpažino graikų apeigų tikėjimą
-    ir Trakų pilyje, dar prieš Lietuvos
-    krikštą, turėjo savo koplyčią, kurios
-    pėdsakų šios pilies vienos sienos se­
-    novinėje tapyboje yra iki šiol išlikę.
-    160
-
-    ## Puslapis 177
-
-    Il KNYGA
-    dar barbarų laikais, išsiugdytos, o už tai, ką istorija jame
-    regi pikta, ne tik jam vienam kaltė tenka, bet dar ir anų
-    laikų tamsybei, kunigaikščių išprusimo stokai arba vi­
-    siškam jo nebuvimui86.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Ona laisva valia lydėjo į Krėvą saugomą Vytautą ir dalijosi su juo likimo vargais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -176,20 +138,36 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
 - id: c-168171
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 272."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kai
+    Nedrįso Jogaila greitosiomis imtis
+    prieš jį kokių griežtesnių priemonių ir dėl senos drau­
+    gystės, ir dėl to, kad žinojo, jog šis ir paskutiniuoju
+    V iln iu je J o g a ila įsa ­
+    k o su im ti K ę stu tį ir
+    V y ta u tą
+    K ęstu tis K r ė v o je p a ­
+    sm a u g ia m a s,
+    V id i-
+    m a n ta s
+    n u k a n k in a ­
+    m a s
+    ratu,
+    V y ta u ta s
+    įm eta m a s k a lėjim a n
+    2 7 3
+
+    laiku rodąs jam palankumą. Jis taip ilgai brandino nu­
+    sikalstamą sumanymą, kad Vytautas turėjo pakanka­
+    mai laiko išlikti gyvas ir sulaukti geresnių dienų. Kai
     jį vežė iš Vilniaus į Krėvą, jam rodė karališką pagar­
     bą; čia irgi buvo laikomas nelyginant karalius, tik
     nuolatos saugomas budrios sargybos, kuri neleido nei
     su artimaisiais pasimatyti, nei su kuo pasikalbėti. Lais­
     vai prie jo prileidžiama tebuvo žmona Ona, kuri, lais­
     va valia nutarusi dalytis su vyru likimo užkrautais var­
-    gais, čia jį ir palydėjo su dviem mergaitėmis. Ši
-    aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
-    vę: dažnai juk likimą lemia menkų menkiausios prie­
-    žastys.
+    gais, čia jį ir palydėjo su dviem mergaitėmis.
+  citata_rodoma: "Kai\njį vežė iš Vilniaus į Krėvą, jam rodė karališką pagar­\nbą; čia irgi buvo laikomas nelyginant karalius, tik\nnuolatos saugomas budrios sargybos, kuri neleido nei\nsu artimaisiais pasimatyti, nei su kuo pasikalbėti. Lais­\nvai prie jo prileidžiama tebuvo žmona Ona, kuri, lais­\nva valia nutarusi dalytis su vyru likimo užkrautais var­\ngais, čia jį ir palydėjo su dviem mergaitėmis. Ši\naplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­\nvę: dažnai juk likimą lemia menkų menkiausios prie­\nžastys."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -200,15 +178,24 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
 - id: c-168172
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 394"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 394."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to ir viena, ir kita šalis puldinėjo
-    ir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti
-    didesnę kariuomenę, Vytautas patraukė į Trakus ir čia,
-    mirus jo žmonai Onai, nutarė tuoktis su Julijona, Al-
-    šėnų kunigaikščio Algimantaičio dukra. Julijona mi-
-    rusiajai buvo teta.
+    Sugrįžti nuo tikėjimo reikalų prie vals­
+    tybės rūpesčių paragino Vytautą tai, kad netrukus turė­
+    jo baigtis dvejų metų paliaubos su kryžiuočiais. Nus­
+    prendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai
+    pasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą,
+    ąr susiderėti dėl amžinos taikos. Kadangi kryžiuočiai
+    atmetė vieną po kitos visas
+    1418 m e ta i
+    siūlomas taikos sąlygas, pasi-
+    S u sitik im a s d ė l tai-
+    pūtėliškai reikalaudami visos
+    k o s a tn eša k a rą
+    Žemaitijos, susitikimas neat­
+    nešė jokios naudos, ir netru­
+    kus kryžiuočiai iš pasalų pradėjo atvirą karą.
+  citata_rodoma: "Po to ir viena, ir kita šalis puldinėjo\nir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti\ndidesnę kariuomenę, Vytautas patraukė į Trakus ir čia,\nmirus jo žmonai Onai, nutarė tuoktis su Julijona, Al-\nšėnų kunigaikščio Algimantaičio dukra. Julijona mi-\nrusiajai buvo teta."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

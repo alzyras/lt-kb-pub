@@ -42,26 +42,6 @@ Kadangi anie tolimi nuo rytų Europos autoriai beveik visai nieko nepasako apie 
   teiginys: "Baltų gyvenimą menkai aprašius rašytiniams šaltiniams, jų praeičiai tirti reikėjo kastuvo mokslo."
   pagrindžia:
     - c-34156
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pagaliau An­
-    glijos karaliaus Alfredo Didžiojo jūrininkas Wulfstanas buvo pasku­
-    tinis (880-890 m.), kuris savo pranešime minėjo aisčių vardui arti­
-    mus žodžius (Eastlande, Estum, Estmere).
-    Kadangi anie tolimi nuo rytų Europos autoriai beveik visai
-    nieko nepasako apie baltų gyvenimą, reikia griebtis «kastuvo
-    mokslo », juo labiau, kad jau iš senojo geležies amžiaus (0-400 m.
-    po Kr.) yra turtingų kapinynų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

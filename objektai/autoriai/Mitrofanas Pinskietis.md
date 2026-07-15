@@ -43,43 +43,13 @@ Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. �
   teiginys: "Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. Šventaragis siuntė pasiuntinius pas Nemuno orakulą."
   pagrindžia:
     - c-173325
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. Šventaragis siuntė pasiuntinius pas Nemuno orakulą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tas rūmas turėjo apvalų bokš­
-    tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­
-    mą aukos deginimas ant aukuro pakopos reiškė pirmąją mė­
-    nesio dieną, o plytelė su tam tikru ženklu, įmūrijama bokšto
-    sienoje metų pradžioje, rodydavo metus. Senas pasakojimas,
-    kuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša
-    žinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią
-    šventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263
-    metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­
-    kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
-    eitis. Orakulas žadėjo, kad ji gyvuosianti tol, kol gyva bus
-    pati stabmeldystė, ir įsakė pagaminti 122 apvalainas plytas
-    su orakulo nurodytais ženklais -  hieroglifais; iš jų turėjo būti
-    išpranašaujami geri ar prasti metai; paskutinė plyta buvo su
-    dvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­
-    gaikščiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173325
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tas rūmas turėjo apvalų bokš­
     tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­
@@ -93,7 +63,7 @@ Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. �
     kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
     eitis. Orakulas žadėjo, kad ji gyvuosianti tol, kol gyva bus
     pati stabmeldystė, ir įsakė pagaminti 122 apvalainas plytas
-    su orakulo nurodytais ženklais -  hieroglifais; iš jų turėjo būti
+    su orakulo nurodytais ženklais - hieroglifais; iš jų turėjo būti
     išpranašaujami geri ar prasti metai; paskutinė plyta buvo su
     dvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­
     gaikščiui.

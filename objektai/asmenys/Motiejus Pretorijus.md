@@ -56,50 +56,15 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
   teiginys: "Pretorijus Sasavos tvirtovę siejo su Šyšos upe, kuri, Narbuto perteikimu, kadaise turėjo būti vadinama Cyse arba Sussa."
   pagrindžia:
     - c-174099
+
+<a id="claim-t-197777"></a>
+- t-005
+  global_id: t-197777
+  teiginys: "Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita dos turėjo būti vadinama Cyse arba Sussa."
+  pagrindžia:
+    - c-179335
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data galėjo būti klaidingai pakeista prieš 190 pridėjus vienetą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Strijkovskis neabejotinai taiso šios vietos prieštaravimus
-    ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
-    epochą, vesdamas juos nuo Baltijos jūros pakrančių tie­
-    siai į Ilyriją, kur jie prie Nortbėjos pirmąsyk kariauja su
-    tenykščio prokonsulo Cyras-Karbo** vadovaujamais ro­
-    mėnais; tai įvyko 190 metais prieš Kristaus gimimą4. Iš
-    to išplaukia, kad buvo pastebėta Rozencveigo ar klaidin­
-    gai į egzempliorius, buvusius po ranka Hartknochui ir
-    Pretorijui, o gal ir Strijkovskiui, įrašyta data, tikriausiai
-    prieš skaičių 190 pridėtas vienas vienetas. Tos audros,
-    anot kronikose užrašytų padavimų, beveik be paliovos
-    truko 12 metų, nusiaubė Baltijos jūros vakarines pakran­
-    tes ir neatpažįstamai pakeitė jų vaizdą: pradingo netoli
-    1 Plutarchus; Sirabo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbuto pateikimu, Rozencveigo kronikos duomenys išliko Motiejaus Pretorijaus veikale „Preussische Schaubühne, sive Deliciae Prussiae“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    2 Pas Hartknochą.
-    3 Rozencveigo kronika šiandien laikoma dingusia; čia iš jos pa­
-    teikti dalykai yra Pretorijaus veikale (Preussische Schaubühne, sive
-    Deliciae Prussiae). Rankraščio originalas saugomas Berlyno archyve.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Narbutas rašo, kad Pretorijus prūsus ir rusus laikė viena pradine gentimi, o variagų vardą kildino iš prūsiško žodžio „Warejs“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -148,8 +113,7 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
 - id: c-174096
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 46"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Strijkovskis neabejotinai taiso šios vietos prieštaravimus
     ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
@@ -175,8 +139,7 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
 - id: c-174097
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 46"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     2 Pas Hartknochą.
     3 Rozencveigo kronika šiandien laikoma dingusia; čia iš jos pa­
@@ -192,8 +155,7 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
 - id: c-174098
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 341"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai, žinoma, vien panašumai, kuriuos
     pastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,
@@ -203,6 +165,11 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
     duoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,
     jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir
     krivičiams.
+    Visų šių teiginių, kaip man atrodo, pakanka įrodyti,
+    jog ne vienai senovės prūsų kartai tenka garbė už tai,
+    1 Wareys, iš lietuviško žodžio Warikt, visiškai nesiderina su
+    \Warrejas.
+  citata_rodoma: "Tai, žinoma, vien panašumai, kuriuos\npastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,\njog prūsai ir rusai iš pradžių priklausė vienai genčiai;\nvariagų vardą jis kildina iš grynai prūsiško žodžio Wa-\nrejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį\nduoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,\njog 859 metais variagai paskyrė kailių duoklę, be kitų, ir\nkrivičiams."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -215,6 +182,29 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Antra šalaviečių pilis,
+    stovėjusi Lietuvos pasienyje, buvo vadinama Sarkais; čia
+    gyveno galingas ir narsus karžygis Šarkis, galbūt tai
+    šiandienė Sarkė, esanti netoli Selenų. Ne Sarkės, o Šar­
+    kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
+    dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
+    kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­
+    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
+    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
+    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
+  citata_rodoma: "Ne Sarkės, o Šar­\nkučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­\ndos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-\nkutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­\nsiausia šios provincijos tvirtovė buvo Sasava, stovėjusi\nkažkokios upės pakrantėje, bet tai tiksliai nenustatyta.\nPretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­\n\n## Puslapis 370\n\ndos turėjo būti vadinama Cyse arba Sussa."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-191217
+
+- id: c-179335
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
     Ne Sarkės, o Šar­
     kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
     dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
@@ -223,12 +213,10 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
     kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
     Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
 
-    ## Puslapis 370
-
     dos turėjo būti vadinama Cyse arba Sussa.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191217
+    - t-197777

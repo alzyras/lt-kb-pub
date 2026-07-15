@@ -6,7 +6,7 @@ tema_kategorija: "daiktai"
 tema_kategorijos_pavadinimas: "Daiktai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 291
+tema_objektu_skaicius: 290
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 291.
+Objektų skaičius: 290.
 
 ## Kaip naudoti
 
@@ -24,6 +24,9 @@ Objektų skaičius: 291.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Autoriai
+- [[objektai/autoriai/J. Foigtas|Johanas Foigtas]]
 
 ### Daiktai
 - [[objektai/daiktai/Akademijos spaustuvės spaudmenys, popierius ir knygų egzemplioriai]]
@@ -52,7 +55,7 @@ Objektų skaičius: 291.
 - [[objektai/saltiniai/1238 m. birželio 11 d. dokumentas]]
 - [[objektai/saltiniai/1239 m. dokumentas su forma „Kirsberg“]]
 - [[objektai/saltiniai/1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje]]
-- [[objektai/saltiniai/1248 m. Kristburgo sutartis]]
+- [1248 m. Kristburgo sutartis](../objektai/saltiniai/1248%20m.%20Kristburgo%20sutartis)
 - [1249 m. Ordino — prūsų sutartis](../objektai/saltiniai/1249%20m.%20Ordino%20%E2%80%94%20pr%C5%ABs%C5%B3%20sutartis)
 - [1249 metų kryžiuočių dokumentas apie Kurką](../objektai/saltiniai/1249%20met%C5%B3%20kry%C5%BEiuo%C4%8Di%C5%B3%20dokumentas%20apie%20Kurk%C4%85)
 - [1253 m. popiežiaus bulė dėl Polesijos ir Galindos](../objektai/saltiniai/1253%20m.%20popie%C5%BEiaus%20bul%C4%97%20d%C4%97l%20Polesijos%20ir%20Galindos)
@@ -148,7 +151,6 @@ Objektų skaičius: 291.
 - [Jogailos ištikimybės raštai Kęstučiui dėl Vilniaus ir Vitebsko](../objektai/saltiniai/Jogailos%20i%C5%A1tikimyb%C4%97s%20ra%C5%A1tai%20K%C4%99stu%C4%8Diui%20d%C4%97l%20Vilniaus%20ir%20Vitebsko)
 - [Jogailos laiškai apie santarvę su kryžiuočiais prieš Kęstutį](../objektai/saltiniai/Jogailos%20lai%C5%A1kai%20apie%20santarv%C4%99%20su%20kry%C5%BEiuo%C4%8Diais%20prie%C5%A1%20K%C4%99stut%C4%AF)
 - [Jogailos sudaryta sutartis, paprastai vadinama unija](../objektai/saltiniai/Jogailos%20sudaryta%20sutartis%2C%20paprastai%20vadinama%20unija)
-- [Jogailos užrašymo raštai Skirgailai dėl Vytauto tėviškės](../objektai/saltiniai/Jogailos%20u%C5%BEra%C5%A1ymo%20ra%C5%A1tai%20Skirgailai%20d%C4%97l%20Vytauto%20t%C4%97vi%C5%A1k%C4%97s)
 - [Jono Potockio raštai apie Retrą ir Prilvicą](../objektai/saltiniai/Jono%20Potockio%20ra%C5%A1tai%20apie%20Retr%C4%85%20ir%20Prilvic%C4%85)
 - [Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimas (1990 m. gegužės 18 d.)](../objektai/saltiniai/Kalni%C5%A1k%C4%97s%20m%C5%AB%C5%A1io%20dalyvio%20Petro%20Seredos-Stumbro%20pasakojimas%20%281990%20m.%20gegu%C5%BE%C4%97s%2018%20d.%29)
 - [Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.)](../objektai/saltiniai/Karaliaus%20ir%20Vytauto%20sutartis%20su%20kry%C5%BEiuo%C4%8Diais%20Racion%C5%BEe%20%281404%20m.%29)
@@ -309,7 +311,6 @@ Objektų skaičius: 291.
 - [Vytauto pareiškimas dėl derybų su Ordinu vietos ir dienos](../objektai/saltiniai/Vytauto%20parei%C5%A1kimas%20d%C4%97l%20deryb%C5%B3%20su%20Ordinu%20vietos%20ir%20dienos)
 - [Vytauto raštas imperatoriui Zigmantui](../objektai/saltiniai/Vytauto%20ra%C5%A1tas%20imperatoriui%20Zigmantui)
 - [Vytauto Reivyčio slaptas raštas Nr. 3](../objektai/saltiniai/Vytauto%20Reivy%C4%8Dio%20slaptas%20ra%C5%A1tas%20Nr.%203)
-- [Vytauto skundas prieš Jogailą ir Skirgailą](../objektai/saltiniai/Vytauto%20skundas%20prie%C5%A1%20Jogail%C4%85%20ir%20Skirgail%C4%85)
 - [Vytauto vasalystės dokumentas (1386 m. gegužės 10 d.)](../objektai/saltiniai/Vytauto%20vasalyst%C4%97s%20dokumentas%20%281386%20m.%20gegu%C5%BE%C4%97s%2010%20d.%29)
 - [Zbiór praw litewskich](../objektai/saltiniai/Zbi%C3%B3r%20praw%20litewskich)
 - [Įstatymas, leidžiantis krikščionims skelbti tikėjimo tiesas](../objektai/saltiniai/%C4%AEstatymas%2C%20leid%C5%BEiantis%20krik%C5%A1%C4%8Dionims%20skelbti%20tik%C4%97jimo%20tiesas)

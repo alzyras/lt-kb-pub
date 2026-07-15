@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "1382 m. Kęstutis su Vytautu buvo suimti Jogailos stovykloje, o Kęstutis vėliau rastas miręs Kriavo pilies bokšto rūsyje."
   pagrindžia:
     - c-28687
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Prasidėjus deryboms ir Jogailai su Skirgaila priesaika patvir­
-    tinus Kęstučio su Vytautu saugumą, šiedu nuvyko tartis į Jogailos
-    stovyklą, kur abu buvo suimti. Vytautas buvo paliktas Vilniuje,
-    o Kęstutis nugabentas į Kriavo pilį ir pasodintas į bokšto rūsį.
-    Ten jis neaiškiomis aplinkybėmis 1382.VIII. 15 d. buvo rastas miręs,
-    greičiausiai pasmaugtas paties Jogailos dvaro tarnų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

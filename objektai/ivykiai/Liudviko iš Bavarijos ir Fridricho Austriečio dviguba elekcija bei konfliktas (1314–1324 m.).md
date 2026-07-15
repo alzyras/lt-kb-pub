@@ -68,41 +68,13 @@ Nenurodyta
   teiginys: "Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti."
   pagrindžia:
     - c-62968
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1314 m. spalio 21 d. Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti Romos karaliais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
-                               gaikštis, buvo išrinkti Romos karaliais
-
-      Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis,
-    dėl nesantarvės vienu metu buvo išrinkti Romos karaliais tada, kai apaštališkasis sostas
-    28 mėnesius buvo neužimtas, o ši juodviejų nesantarvė truko ligi 1322 viešpaties metų,
-    kol Liudvikas, Bavarijos kunigaikštis, po daugybės karų, vykusių tarp juodviejų, švento
-    Mykolo išvakarėse (rugsėjo 28) paėmė mūšyje į nelaisvę Fridrichą, Austrijos kunigaikštį,
-    ir išlaikė suimtą dvejus metus. Po to jiedu susitaikė.
-
-
-
-                    118.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 
 - id: c-62968
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 249"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
                                gaikštis, buvo išrinkti Romos karaliais

@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų nepalankumo sau ir žalos čekams. Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.
+Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų nepalankumo sau ir žalos čekams. Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą. Imperatoriaus pasiuntinys siūlė, kad ginčą spręstų žymiausi Čekijos ir Lenkijos didikai, jeigu Jogaila abejotų imperatoriaus teisingumu.
 
 ## Teiginiai
 
@@ -41,64 +41,20 @@ Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų
   teiginys: "Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą."
   pagrindžia:
     - c-168829
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų nepalankumo sau ir žalos čekams.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Slapta juos pasikvietęs, Vytautas jiems
-    atskleidė savo norus ir ketinimus. Jis esą nenorįs, at­
-    virai užimdamas Čekijos karaliaus sostą, susilaukti
-    valdovų nepalankumo, kuris jam būsiąs nenaudingas,
-    o čekams — netgi žalingas. Imperatorius Zigmantas,
-    skriausdamas Lenkiją, vis dėlto verčiąs jį neatsisakyti
-    čekų gynimo, tačiau jis galįs imtis šio reikalo visai ki­
-    taip, nei ligi šiol čekai jam siūlę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196394"></a>
+- t-003
+  global_id: t-196394
+  teiginys: "Imperatoriaus pasiuntinys siūlė, kad ginčą spręstų žymiausi Čekijos ir Lenkijos didikai, jeigu Jogaila abejotų imperatoriaus teisingumu."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kaributaitis, jo brolėnas, iš mažumės skatinamas
-    narsiems karo žygiams, suteikęs čekams pagalbą ne
-    todėl, kad šitokia buvusi karaliaus valia, bet dėl to,
-    kad to pats norėjo, į Čekiją jis nukakęs be karaliaus
-    žinios ir pasitrauksiąs iš ten tada, kai pats to panorė­
-    siąs. Šitaip santūriai atsakė Jogaila, o Vytautas, kur
-    405
-
-    ## Puslapis 404
-
-    kas labiau supykęs ir įsižeidęs, pridūrė: „Aš įsakiau
-    Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperato­
-    riui už skriaudą. Sakau jums — jis ten pasiliks tol,
-    kol imperatorius suvoks, kokią žalą daro pats sau, mū­
-    sų ligšiolinį palankumą panaudodamas piktam, klas­
-    tingai užgaudamas nieko pikta nesitikinčių lenkų bei
-    lietuvių širdis".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-168829
 
 ## Citatos
 
 - id: c-168828
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 401"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 401."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Slapta juos pasikvietęs, Vytautas jiems
     atskleidė savo norus ir ketinimus. Jis esą nenorįs, at­
@@ -120,26 +76,31 @@ Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kaributaitis, jo brolėnas, iš mažumės skatinamas
-    narsiems karo žygiams, suteikęs čekams pagalbą ne
-    todėl, kad šitokia buvusi karaliaus valia, bet dėl to,
-    kad to pats norėjo, į Čekiją jis nukakęs be karaliaus
-    žinios ir pasitrauksiąs iš ten tada, kai pats to panorė­
-    siąs. Šitaip santūriai atsakė Jogaila, o Vytautas, kur
-    405
-
-    ## Puslapis 404
-
-    kas labiau supykęs ir įsižeidęs, pridūrė: „Aš įsakiau
-    Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperato­
-    riui už skriaudą. Sakau jums — jis ten pasiliks tol,
-    kol imperatorius suvoks, kokią žalą daro pats sau, mū­
-    sų ligšiolinį palankumą panaudodamas piktam, klas­
-    tingai užgaudamas nieko pikta nesitikinčių lenkų bei
-    lietuvių širdis".
+    Im­
+    peratoriaus vardu jis prašė atšaukti Kaributaitį iš
+    Čekijos ir nepradėti karo
+    su kryžiuočiais, nes impera­
+    torius esąs pasirengęs atsi­
+    lyginti už kryžiuočių pada­
+    rytus nuostolius, jeigu šis
+    dalykas būtų apsvarstytas jo
+    akivaizdoje. Jeigu karalius kartais abejojąs dėl impe­
+    ratoriaus teisingumo, šis mielai atsisakysiąs savo teisių
+    ir sutiksiąs (karaliui neprieštaraujant), kad ginčą už­
+    baigtų žymiausi Čekijos ir Lenkijos didikai, tinkamai
+    apsvarstę visą reikalą. Jogaila atsakė visai neseniai pui­
+    kiai perpratęs imperatoriaus teisingumą bei palankumą,
+    mat šis, išrinktas tarpininku, paskelbęs sprendimą kry­
+    žiuočių naudai, pažeisdamas visas moralės normas.
+    Nors šis sprendimas buvęs ir neteisingas, ir nedraugiš­
+    kas, tačiau jis, Jogaila, trokšdamas taikos, niekada ne-
+    sigriebęs ginklo, kol patys kryžiuočiai savo antpuo­
+    liais neparodę, kad jiems visai nerūpinti taika.
+  citata_rodoma: "Jeigu karalius kartais abejojąs dėl impe­\nratoriaus teisingumo, šis mielai atsisakysiąs savo teisių \nir sutiksiąs (karaliui neprieštaraujant), kad ginčą už­\nbaigtų žymiausi Čekijos ir Lenkijos didikai, tinkamai \napsvarstę visą reikalą. Jogaila atsakė visai neseniai pui­\nkiai perpratęs imperatoriaus teisingumą bei palankumą, \nmat šis, išrinktas tarpininku, paskelbęs sprendimą kry­\nžiuočių naudai, pažeisdamas visas moralės normas. \nNors šis sprendimas buvęs ir neteisingas, ir nedraugiš­\nkas, tačiau jis, Jogaila, trokšdamas taikos, niekada ne- \nsigriebęs ginklo, kol patys kryžiuočiai savo antpuo­\nliais neparodę, kad jiems visai nerūpinti taika."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185468
+    - t-196394

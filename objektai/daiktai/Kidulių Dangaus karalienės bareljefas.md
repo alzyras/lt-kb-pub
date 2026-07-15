@@ -7,14 +7,14 @@ datos:
   - '1805 m.'
 date_start: '1805'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paminklas
   - daiktas
   - simbolis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,8 +57,8 @@ Nenurodyta
   teiginys: "Narbutas 1805 m. Kidulių pilies bokštelio sienoje matė seną Dangaus karalienės bareljefinę figūrą iš patvaraus gipso."
   pagrindžia:
     - c-172540
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas 1805 m. Kidulių pilies bokštelio sienoje matė seną Dangaus karalienės bareljefinę figūrą iš patvaraus gipso.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -88,16 +88,17 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
-    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
-    125
-
-    ## Puslapis 125
-
-    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
-    nedailaus, bet labai patvaraus gipso. Nors ir patirti per ilgus
-    amžius dideli jos sužalojimai, vis dėlto galima suprasti skulp­
-    toriaus mintį.
+    Malone brangiu del žmonių:
+    Ture auxin kajb irplite,
+    Ture pilnu rugiu kloniu,
+    Garbe ture manip mundu9.
+    Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
+    rųjų reiškia storulį, perkeltine prasme - turčių. Iš čia Pilwitos,
+    kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę. Šioje
+    lietuvių deivėje susiliejo Plutono ir Fortūnos bruožai, todėl ji
+    galėjo vadintis ir vyriškos giminės Pilvyčiu (Pilwitos), ir mote­
+    riškos giminės Pilvyte (Pilwite).
+  citata_rodoma: "Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­\nme, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­\n125\n\n## Puslapis 125\n\nko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš\nnedailaus, bet labai patvaraus gipso. Nors ir patirti per ilgus\namžius dideli jos sužalojimai, vis dėlto galima suprasti skulp­\ntoriaus mintį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

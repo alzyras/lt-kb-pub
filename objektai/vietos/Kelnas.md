@@ -8,13 +8,13 @@ datos:
   - '1300 m.'
 date_start: '1280'
 date_end: '1300'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,6 +49,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   teiginys: "Netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės."
   pagrindžia:
     - c-59081
+    - c-167547
 
 <a id="claim-t-58450"></a>
 - t-003
@@ -56,20 +57,6 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   teiginys: "Albertas Didysis 18 metų triūsė Kelne, mirė 1280 m., sulaukęs 80 metų, ir buvo palaidotas Kelne."
   pagrindžia:
     - c-59080
-
-<a id="claim-t-58448"></a>
-- t-004
-  global_id: t-58448
-  teiginys: "Albertas Didysis mirė Kelne."
-  pagrindžia:
-    - c-59082
-
-<a id="claim-t-184162"></a>
-- t-005
-  global_id: t-184162
-  teiginys: "Netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės."
-  pagrindžia:
-    - c-167547
 
 <a id="claim-t-194532"></a>
 - t-006
@@ -92,58 +79,14 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - susijęs iš Livonija: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku.
 - susijęs iš Ryga: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga.
 - susijęs iš Ryga: Po kautynių, kuriose žuvo 9 000 švedų, Ryga buvo išgelbėta.
-- susijęs iš Vilnius: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, danų vietininku, Livonijos ordinu ir Ryga.
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56970|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis atsisakė Regensburgo vyskupystės, 18 metų triūsė Kelne ir mirė 1280 m., sulaukęs 80 metų.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Albertas Didysis 18 metų triūsė Kelne, mirė 1280 m., sulaukęs 80 metų, ir buvo palaidotas Kelne.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Albertą Didįjį ir Tomą Akvinietį
-
-      Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas,
-    kuris neturėjo sau lygaus išsilavinimu. Atsisakęs Regensburgo vyskupystės,  jis 18
-    metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties
-    metais, o palaidotas Kelne. Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto
-    mokinys bei pamokslininkų ordino vienuolis (Ptol.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    76. Apie mūšį netoli Kelno, prie Vurungeno kaimo
-
-      Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto
-    kunigaikštis, nugalėjo Zigfridą  iš Runkelės, Kelno arkivyskupą; neskaitant paprastų
-    karių, abi šalys neteko nukautaisiais 1300 kilmingųjų.
-
-
-
-                             77.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Alberto Didžiojo mirtį
 
        Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. 22, 19).
-
-
 
                     67.
   citata_rodoma: ''
@@ -156,37 +99,12 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
     - t-004
     - t-006
 
-- c-004
-  santrauka: 'Netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tą dieną, kai priimamas dievo kūnas, šio kaimo klebonas jai davė nešventintą
-    paplotėlį, tačiau  ji niekaip jo negalėjo nuryti, todėl,  jį atsiėmęs, davė jai pašventintą
-    ostiją, kurią tuoj pat prarijo, o jis iš to suprato, jog ji medžiagiško maisto nieku būdu
-    negalinti priimti.
-
-
-
-                     76. Apie mūšį netoli Kelno, prie Vurungeno kaimo
-
-      Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto
-    kunigaikštis, nugalėjo Zigfridą  iš Runkelės, Kelno arkivyskupą; neskaitant paprastų
-    karių, abi šalys neteko nukautaisiais 1300 kilmingųjų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-59080
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 233"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Albertą Didįjį ir Tomą Akvinietį
 
@@ -205,8 +123,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - id: c-59081
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     76. Apie mūšį netoli Kelno, prie Vurungeno kaimo
 
@@ -227,30 +144,31 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - id: c-59082
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 238"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Alberto Didžiojo mirtį
-
-       Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. 22, 19).
-
-
-
-                    67.
+    Sis, atkeliavęs į šventąjį miestą, pamatė, jog nedorėliai
+    nepagarbiai elgiasi šventose vietose, jog godotinas vyras Simeonas, miesto patriarchas,
+    kartu su savo valdiniais nelyginant niekingas vergas, puolęs į visišką neviltį, kenčia
+    begalinę priespaudą; būdamas doras žmogus, didžiai užjausdamas kitus ir iš visos širdies
+    mylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai
+    svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems. Kai vieną naktį
+    jis meldėsi dievui bažnyčioje per viešpaties prisikėlimo šventę ir, nuo ilgo budėjimo
+    pavargęs, snūstelėjo ant bažnyčios grindų, sapne jam pasirodė mūsų viešpats Jėzus
+    Kristus, įpareigodamas keliauti pas jo šventenybę popiežių bei pas Vakarų valdovus
+    dėl šventosios žemės išvadavimo. Padrąsintas dieviškojo apreiškimo ir užsidegęs
+  citata_rodoma: "Apie Alberto Didžiojo mirtį\n\n   Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. 22, 19).\n\n\n\n                67."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58448
-    - t-184161
     - t-194532
 
 - id: c-167547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tą dieną, kai priimamas dievo kūnas, šio kaimo klebonas jai davė nešventintą
     paplotėlį, tačiau  ji niekaip jo negalėjo nuryti, todėl,  jį atsiėmęs, davė jai pašventintą
@@ -265,11 +183,10 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
     kunigaikštis, nugalėjo Zigfridą  iš Runkelės, Kelno arkivyskupą; neskaitant paprastų
     karių, abi šalys neteko nukautaisiais 1300 kilmingųjų.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184162
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]

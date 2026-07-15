@@ -35,24 +35,6 @@ Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Š
   teiginys: "Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios."
   pagrindžia:
     - c-33915
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Teoretiškai
-    jos buvo siekusios Žemaičių valdžioje esančių Minijos aukštupių.
-    Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo
-    Palangos iki Kuršo Šventosios. Bet tas siaurutis žemės lopelis —
-    Žemaičių žemės kylio pats smaigalys — negailestingai skėlė vokie­
-    čių ordino valstybę į dvi dalis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

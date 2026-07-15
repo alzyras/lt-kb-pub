@@ -89,241 +89,19 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   pagrindžia:
     - c-78907
 
-<a id="claim-t-82433"></a>
-- t-008
-  global_id: t-82433
-  teiginys: "Jonas Olesnickis, gelbėdamas Vilniaus pilis, liepė sudeginti likusius miesto namus, o jų gyventojus iškeldino į Žemutinę pilį."
-  pagrindžia:
-    - c-78910
-
 <a id="claim-t-82436"></a>
-- t-009
+- t-008
   global_id: t-82436
   teiginys: "Jonas Olesnickis su įgula surengė netikėtą išpuolį prieš vokiečius ir sudavė jiems skaudų smūgį."
   pagrindžia:
     - c-78908
 
-<a id="claim-t-184739"></a>
-- t-010
-  global_id: t-184739
-  teiginys: "Jonas Olesnickis pakeitė ankstesnį pareigūną ir buvo garsus Lenkijoje karo žygiais bei sena protėvių kilme."
-  pagrindžia:
-    - c-168100
-
 <a id="claim-t-184740"></a>
-- t-011
+- t-009
   global_id: t-184740
   teiginys: "Jonas Olesnickis nutarė pulti priešą, kol šis dar nebuvo tinkamai sutvirtinęs stovyklos."
   pagrindžia:
     - c-168101
-
-<a id="claim-t-184741"></a>
-- t-012
-  global_id: t-184741
-  teiginys: "Vytautui pakeitus Skirgailą, Jonas Olesnickis atsisakė Vilniaus seniūno pareigų."
-  pagrindžia:
-    - c-168102
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1390 m. Jonas Olesnickis užėmė Maskoževskio vietą ir pasirodė kaip kariuomenės vadas.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nors Skirgaila ir turėjo krašte vyriausią valdžią, bet karinę tu­
-    rėjo dalintis su Maskoževskiu. Po jo 1390 m. tą vietą užėmė
-    Jonas Olesnickis. Ir jis čia pasirodė pirmiausia, kaip kariuome­
-    nės vadas^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    —  •  —
-    132
-
-    ## Puslapis 149
-
-    Il KNYGA
-    noma ilgesnį laiką išsilaikyti tyčia apleistose apylinkėse, kur
-    negautų jokio maisto, pamanė saugiausia būsiant pradėti at­
-    sitraukimą nuo Vilniaus ir karo veiksmus vėl perkelti į Ne­
-    muno pakrantes. Šitą supratęs Olesnickis surengia drąsų išpuo­
-    lį ir su visa įgula netikėtai užgriūna vokiečius, suduoda jiems
-    skaudų smūgį. Tos naujos nesėkmės susilpninti kryžiuočiai
-    nutraukia jau kažkelintą Vilniaus apgultį ir likusias pajėgas
-    nukreipia į trijų pilių prie Kauno statybą bei stiprinimą, kad,
-    Vytautui ten įkurdinus savo įgulas, lengviau būtų šalininkams
-    tolydžio daryti įtaką, o didįjį kunigaikštį Skirgailą laikyti nuo­
-    latinėje baimėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pamažu ėmė telktis išsisklaidę
-    gyventojai ir statytis namus ant degėsių. Tačiau Moskožev-
-    skis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­
-    mas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui
-    Vilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė
-    Jonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­
-    las37. Ir Lietuvos dvasininkija nebuvo karaliaus dosnumo
-    apeita, mat tuo metu jis išties stengėsi visokiais būdais už­
-    glaistyti dar šviežius krašto niokojimo pėdsakus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-004
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tasai kunigaikštis, toks pat
-    narsus, kaip ir apsukrus, skubinai išvyksta iš Marienburgo, ir
-    pridurmais puolusiems kryžiuočiams nuo jo gerokai kliūna.
-    Jis atvyksta į Vilnių, čia jį džiugiai sutinka Olesnickis, kuris
-    karaliaus apie tą susitarimą jau buvo perspėtas49. Netrukus,
-    tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­
-    džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasi-
-    liono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­
-    gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis
-    valdovas, daugelis kunigaikščių ir bajorų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-007
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šitą supratęs Olesnickis surengia drąsų išpuo­
-    lį ir su visa įgula netikėtai užgriūna vokiečius, suduoda jiems
-    skaudų smūgį. Tos naujos nesėkmės susilpninti kryžiuočiai
-    nutraukia jau kažkelintą Vilniaus apgultį ir likusias pajėgas
-    nukreipia į trijų pilių prie Kauno statybą bei stiprinimą, kad,
-    Vytautui ten įkurdinus savo įgulas, lengviau būtų šalininkams
-    tolydžio daryti įtaką, o didįjį kunigaikštį Skirgailą laikyti nuo­
-    latinėje baimėje. Buvo tai jau paskutinė sostinės apsiaustis šio
-    valdovo nelemto viešpatavimo Lietuvoje laikais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-006
-  santrauka: 'Jonas Olesnickis, gelbėdamas Vilniaus pilis, įsakė sudeginti likusius miesto namus ir gyventojus perkelti į Žemutinę pilį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš tiesų ketu­
-    rių mylių nuo Vilniaus spinduliu visos gyvenvietės, kaip an­
-    tai Trakai, paleistos plėnimis, jau buvo virtę dykromis, kur
-    priešui su gausia karių armija sunku išsilaikyti46. Olesnickis,
-    užbėgdamas kryžiuočiams už akių, buvo priverstas paau­
-    koti miestą gelbėdamas pilis; įsakė tuojau pat sudeginti dar
-    likusius šen bei ten po negandų namus, o jų gyventojus su
-    manta ir maisto atsargomis iškeldinęs į Žemutinę pilį, pats
-    stipriai įsitvirtino abiejose pilyse. Kryžiuočiai, Kauno keliu
-    priėję slėnį, kuriame andai būta miesto, įsirengė stovyklą jo
-    degėsių vietoje, palei aukštą statinių tvorą, juosusią miestą -
-    netoli nuo Švč.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-006
-
-- c-007
-  santrauka: 'Jonas Olesnickis pakeitė ankstesnį pareigūną ir buvo garsus Lenkijoje karo žygiais bei sena protėvių kilme.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Sunkūs, bemaž nuolatiniai
-    priešų antpuoliai, pagaliau Skirgailos puikybė ir žiauru­
-    mas aiškiai palaužė šio vyro kantrybę. Jį pakeitė Jo­
-    nas Olesnickis, kaip reta kas išgarsėjęs Lenkijoje ir ka­
-    ro žygiais, ir protėvių kilmės senumu. Tiesa, liko žmo­
-    nių, kursčiusių vidaus nesantarvę, nes tebebuvo visų
-    nekenčiamas Kazimieras Skirgaila.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-008
-  santrauka: 'Jonas Olesnickis nutarė pulti priešą, kol šis dar nebuvo tinkamai sutvirtinęs stovyklos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mergelės Marijos bažnyčią, plačioje aikštėje.
-    Olesnickis, gerai žinodamas, kad pirmieji karo žingsniai
-    lemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų
-    savųjų narsumo, palikdamas vokiečių akiplėšišką karin­
-    gumą nesutramdytą. Todėl, neilgai laukęs, nutarė pulti
-    priešą, kol dar tas kaip reikiant nesutvirtino stovyklos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-009
-  santrauka: 'Vytautui pakeitus Skirgailą, Jonas Olesnickis atsisakė Vilniaus seniūno pareigų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šios sąlygos buvo įtrauk­
-    tos į protokolą, patvirtintos susitariančiųjų valdovų
-    antspaudais, parašais ir net priesaika ir nusiųstos į Kro­
-    kuvą, į karalystės valstybinį archyvą. Greitai sutvar­
-    kius tai, kas nereikalavo laiko, Vytautas pakeitė Skir­
-    gailą ir Olesnickis atsisakė Vilniaus seniūno pareigų.
-
-    ## Puslapis 330
-
-    A n t r a  k n y  g a
-    APIE LIETUVIŲ PRAEITI,
-    KAI VALDE ALEKSANDRAS I VYTAUTAS
-    Paskelbus Aleksandrą Vytautą Lietuvos didžiuoju
-    kunigaikščiu, prasidėjo valstybėje klestėjimo laikai;
-    tiesą sakant, ir prieš jį Lietuvos reikalais negalima bu­
-    vo skųstis, ir po jo valstybė klestėjo, tačiau niekada ji
-    nei žygių šlove, nei valdomų žemių platumu nebuvo
-    didingesnė, kaip viešpataujant Vytautui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
 
 ## Citatos
 
@@ -463,77 +241,40 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82435
     - t-82433
-
-- id: c-168100
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 319"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 319."
-  citata_originali: |
-    Sunkūs, bemaž nuolatiniai
-    priešų antpuoliai, pagaliau Skirgailos puikybė ir žiauru­
-    mas aiškiai palaužė šio vyro kantrybę. Jį pakeitė Jo­
-    nas Olesnickis, kaip reta kas išgarsėjęs Lenkijoje ir ka­
-    ro žygiais, ir protėvių kilmės senumu. Tiesa, liko žmo­
-    nių, kursčiusių vidaus nesantarvę, nes tebebuvo visų
-    nekenčiamas Kazimieras Skirgaila.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184739
 
 - id: c-168101
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 320"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 320."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mergelės Marijos bažnyčią, plačioje aikštėje.
-    Olesnickis, gerai žinodamas, kad pirmieji karo žingsniai
-    lemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų
-    savųjų narsumo, palikdamas vokiečių akiplėšišką karin­
-    gumą nesutramdytą. Todėl, neilgai laukęs, nutarė pulti
-    priešą, kol dar tas kaip reikiant nesutvirtino stovyklos.
+    Olesniakis, sudeginęs papilyje
+    namus, priėmė visą prastuomenę į Žemutinės pilies ap­
+    tvarą, pačią pilį sustiprino visokiausiais įtvirtinimais.
+    Vytautas, puoselėdamas gražiausias viltis, vedėsi di­
+    džiules
+    jėgas, aprūpintas visokiausiais apgulai reika­
+    lingais įtaisais, kurios žygiavo sausuma ir plaukė prieš
+    srovę Nemunu bei Nerimi; negaišdami laiko smulkiems
+    išpuoliams, jie traukė prie pat žygio tikslo, prie Vilniaus,
+    kurį ir apsupo. Vokiečių pul-
+    V iln ių apsupa, O les-
+    kai, puikuodamiesi savo gin-
+    n ick is
+    sė k m in g a i
+    jį
+    klais ir didžiuodamiesi žy­
+    ginei
+    giais, įkūrė stovyklą sudegin­
+    to miesto griuvėsiuose prie­
+    šais šv.
+  citata_rodoma: "Mergelės Marijos bažnyčią, plačioje aikštėje.\nOlesnickis, gerai žinodamas, kad pirmieji karo žingsniai\nlemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų\nsavųjų narsumo, palikdamas vokiečių akiplėšišką karin­\ngumą nesutramdytą. Todėl, neilgai laukęs, nutarė pulti\npriešą, kol dar tas kaip reikiant nesutvirtino stovyklos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184740
-
-- id: c-168102
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Šios sąlygos buvo įtrauk­
-    tos į protokolą, patvirtintos susitariančiųjų valdovų
-    antspaudais, parašais ir net priesaika ir nusiųstos į Kro­
-    kuvą, į karalystės valstybinį archyvą. Greitai sutvar­
-    kius tai, kas nereikalavo laiko, Vytautas pakeitė Skir­
-    gailą ir Olesnickis atsisakė Vilniaus seniūno pareigų.
-
-    ## Puslapis 330
-
-    A n t r a  k n y  g a
-    APIE LIETUVIŲ PRAEITI,
-    KAI VALDE ALEKSANDRAS I VYTAUTAS
-    Paskelbus Aleksandrą Vytautą Lietuvos didžiuoju
-    kunigaikščiu, prasidėjo valstybėje klestėjimo laikai;
-    tiesą sakant, ir prieš jį Lietuvos reikalais negalima bu­
-    vo skųstis, ir po jo valstybė klestėjo, tačiau niekada ji
-    nei žygių šlove, nei valdomų žemių platumu nebuvo
-    didingesnė, kaip viešpataujant Vytautui.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184741
 
 ## Ryšiai
 - Jonas Olesnickis puolė [[objektai/grupes/Vokiečiai]]

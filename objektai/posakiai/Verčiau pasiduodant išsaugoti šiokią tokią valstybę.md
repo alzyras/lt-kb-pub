@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Apsupto Kijevo gyventojai nutarė verčiau pasiduoti ir išsaugoti šiokią tokią valstybę, negu viską prarasti priešindamiesi.
+Apsupto Kijevo gyventojai nutarė verčiau pasiduoti ir išsaugoti šiokią tokią valstybę, negu viską prarasti priešindamiesi. Kojelavičiaus pasakojime Kijevo gynėjai nusprendė atiduoti pilį ir miestą, kad pasiduodami išsaugotų bent šiokią tokią valstybę.
 
 ## Teiginiai
 
@@ -35,34 +35,13 @@ Apsupto Kijevo gyventojai nutarė verčiau pasiduoti ir išsaugoti šiokią toki
   teiginys: "Apsupto Kijevo gyventojai nutarė verčiau pasiduoti ir išsaugoti šiokią tokią valstybę, negu viską prarasti priešindamiesi."
   pagrindžia:
     - c-168847
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Apsupto Kijevo gyventojai nutarė verčiau pasiduoti ir išsaugoti šiokią tokią valstybę, negu viską prarasti priešindamiesi.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    K ije v a s  a p su p a m a s ir
-    p a im a m a s
-    susirinkę atitekusį jiems gro­
-    bį, pulkai negaišdami pa­
-    traukė į priekį ir apsupo Ki­
-    jevą. Nors rusai dar nebuvo
-    2 03
-
-    ## Puslapis 202
-
-    Verčiau pasiduodant išsaugoti šiokią tokią valstybę,
-    kad ir nugalėtojo valdomą, nei viską atkakliu prie­
-    šinimusi prarasti. Todėl pa­
-    sitarę nusprendė patys ati­
-    duoti pilį ir miestą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196400"></a>
+- t-002
+  global_id: t-196400
+  teiginys: "Kojelavičiaus pasakojime Kijevo gynėjai nusprendė atiduoti pilį ir miestą, kad pasiduodami išsaugotų bent šiokią tokią valstybę."
   pagrindžia:
-    - t-001
+    - c-168847
 
 ## Citatos
 
@@ -71,7 +50,7 @@ Apsupto Kijevo gyventojai nutarė verčiau pasiduoti ir išsaugoti šiokią toki
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    K ije v a s  a p su p a m a s ir
+    K ije v a s a p su p a m a s ir
     p a im a m a s
     susirinkę atitekusį jiems gro­
     bį, pulkai negaišdami pa­
@@ -79,16 +58,23 @@ Apsupto Kijevo gyventojai nutarė verčiau pasiduoti ir išsaugoti šiokią toki
     jevą. Nors rusai dar nebuvo
     2 03
 
-    ## Puslapis 202
-
     Verčiau pasiduodant išsaugoti šiokią tokią valstybę,
     kad ir nugalėtojo valdomą, nei viską atkakliu prie­
     šinimusi prarasti. Todėl pa­
     sitarę nusprendė patys ati­
-    duoti pilį ir miestą.
+    duoti pilį ir miestą. Visi luo­
+    mai, išėję iš miesto, sveikino
+    nugalėtoją
+    Gediminą
+    kaip
+    Kijevo ir Rusios didįjį kuni­
+    gaikštį, prisiekdami su visomis žemėmis paklusti jo
+    valdžiai.
+  citata_rodoma: "Nors rusai dar nebuvo\n2 03\n\nVerčiau pasiduodant išsaugoti šiokią tokią valstybę, \nkad ir nugalėtojo valdomą, nei viską atkakliu prie­\nšinimusi prarasti. Todėl pa­\nsitarę nusprendė patys ati­\nduoti pilį ir miestą. Visi luo­\nmai, išėję iš miesto, sveikino \nnugalėtoją \nGediminą \nkaip \nKijevo ir Rusios didįjį kuni­\ngaikštį, prisiekdami su visomis žemėmis paklusti jo \nvaldžiai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185486
+    - t-196400

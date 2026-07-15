@@ -43,24 +43,6 @@ Caland, W.
   teiginys: "W. Caland parašė darbą „Die vorgeschichtlichen baltischen Totengebräuche“, paskelbtą ARW 1914 m."
   pagrindžia:
     - c-33190
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — (”) _Die
-    Slaven,_ Religionsgeschichtliches Lesebuch, III, Tübingen 1926 (vokiškai
-    duoti šaltinių vertimai). — Butėnienė, E. : _Laivių kapinyno laidosena,_
-    AkMD, t. 16, 1964, 83-99 p. —Caland, W. : _Die vorgeschichtlichen balti­
-    schen Totengebräuche,_ ARW, t. 17, 1914. — Dundulienė, P. : _Namų
-    židinio kultas Lietuvoje,_ IstV, t. 6, 1964, 125-151 p. — (”) _Senovės lietu-_
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

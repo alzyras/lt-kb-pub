@@ -35,69 +35,7 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
   teiginys: "Sofijos Vytautaitės apsilankymas Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą."
   pagrindžia:
     - c-41466
-
-<a id="claim-t-183765"></a>
-- t-002
-  global_id: t-183765
-  teiginys: "Sofijos Vytautaitės apsilankymas Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą."
-  pagrindžia:
     - c-167153
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sofijos Vytautaitės apsilankymas Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prieš mūšį
-
-    Vytauto dukters Sofijos Vytautaitės,
-    Maskvos didžiosios kunigaikštienės su
-    vaikais lankymasis Smolenske pas Vytautą
-    garantavo Maskvos didžiojo kunigaikščio
-    Vasilijaus neutralumą. Dar anksčiau pas
-    Vytautą lankėsi ir Tverės didysis kunigaikš-
-    tis Ivanas su kunigaikštiene ir vaikais, savo
-    bajorais, išlydėtas „garbingai ir su daugybe
-    dovanų“.
-
-    Vytauto planams talkino pusbrolis
-    Jogaila Algirdaitis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Sofijos Vytautaitės apsilankymas Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kafos apy-
-    linkės buvo pavestos valdyti į Lietuvos
-    pusę perėjusiam totorių caraičiui Musat-
-    Chanui, taigi perėjo į tam tikrą Lietuvos
-    kontrolę.
-
-    Prieš mūšį
-
-    Vytauto dukters Sofijos Vytautaitės,
-    Maskvos didžiosios kunigaikštienės su
-    vaikais lankymasis Smolenske pas Vytautą
-    garantavo Maskvos didžiojo kunigaikščio
-    Vasilijaus neutralumą. Dar anksčiau pas
-    Vytautą lankėsi ir Tverės didysis kunigaikš-
-    tis Ivanas su kunigaikštiene ir vaikais, savo
-    bajorais, išlydėtas „garbingai ir su daugybe
-    dovanų“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -153,5 +91,3 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183765

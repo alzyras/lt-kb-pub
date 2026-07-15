@@ -49,60 +49,15 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
     - c-177100
 - susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189439|Kriviai ir Krivių Krivaičiai]]: Narbutas mano, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis vyriausiųjų žynių eilėje.
 - susijęs iš [[objektai/asmenys/Alepas.md#claim-t-190647|Alepas]]: Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mirė 1414 m. liepos 28 d. ir buvęs 74-asis eilėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Smun­
-    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai -  pir­
-    miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
-    liau Žemaitijoje. Tenai, Aukaimio kaime, dar slapstėsi vyriau­
-    siasis žynys Gintautas, kurio gyvenimas nutrūko 1414 metų
-    liepos 28 dieną; jis buvo 74-asis iš eilės ir su juo baigėsi lietu­
-    vių stabmeldystė. Bet ne mažiau įdomus dalykas yra trijų tipų
-    žynių lazdų aprašymas, tuo labiau dar su tokiu tiksliu piešiniu
-    ir aprašymais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Ma tyt, autorius turėjo rankoje istorijos šaltinį, iš kurio pasisėmė žinią, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis vyriausiųjų žynių eilėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Turime dar pakartotinai panagrinėti šį lietuvių mitologi­
-    jos fragmentą, kadangi, gavę jį pavėluotai, negalėjome sudėti
-    kylančių iš jo pastabų į atitinkamus šio veikalo straipsnius. Ma­
-    tyt, autorius turėjo rankoje istorijos šaltinį, iš kurio pasisėmė
-    žinią, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis
-    vyriausiųjų žynių eilėje. Žynių, anot Prūsijos kronikų, iki ga­
-    lutinio stabmeldystės žlugimo, arba iki vyriausiojo žynio Ale-
-    po, buvo 481 12; taigi nuo krikšto priėmimo datos, arba nuo 1265
-    iki 1414 metų, per 149 metus, jų buvo dar 23.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172950
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 429"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Smun­
-    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai -  pir­
+    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai - pir­
     miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
     liau Žemaitijoje. Tenai, Aukaimio kaime, dar slapstėsi vyriau­
     siasis žynys Gintautas, kurio gyvenimas nutrūko 1414 metų
@@ -120,8 +75,7 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
 - id: c-177100
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 431"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Turime dar pakartotinai panagrinėti šį lietuvių mitologi­
     jos fragmentą, kadangi, gavę jį pavėluotai, negalėjome sudėti

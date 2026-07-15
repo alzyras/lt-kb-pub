@@ -115,22 +115,28 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   teiginys: "Žygimantui Augustui buvo paprašyta Romos karaliaus Ferdinando dukters Elžbietos rankos."
   pagrindžia:
     - c-168057
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184731|Jogaila (kunigaikštis, XIV–XV a.)]]: Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir iškėlė vestuvių puotą.
+
+<a id="claim-t-197075"></a>
+- t-012
+  global_id: t-197075
+  teiginys: "Elžbieta kreipėsi į jo šventenybę popiežių, kuriam ir išpažino visas savo nuodėmes."
+  pagrindžia:
+    - c-179023
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184731|Jogaila (kunigaikštis, XIV–XV a.)]]: Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas.
 - susijęs iš [[objektai/asmenys/Danmilė.md#claim-t-87649|Danmilė]]: Danmilė per krikštą buvo pavadinta Elžbieta ir ištekinta už Mazovijos kunigaikščio Vaclovo.
 - susijęs iš [[objektai/asmenys/Elžbieta (Vengrijos karalienė).md#claim-t-87494|Elžbieta (Vengrijos karalienė)]]: Vengrijos karalienė Elžbieta dalyvavo sėkmingose Jogailos derybose su Lenkijos didikais dėl Jadvygos rankos.
 - susijęs iš [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona).md#claim-t-173147|Elžbieta (Žygimanto Augusto žmona)]]: 1545 m. liepos 17 d. karalienės Elžbietos mirtis nuliūdino rūmus ir Vilniaus miesto gyventojus.
 - susijęs iš [[objektai/asmenys/Fridrichas.md#claim-t-87673|Fridrichas]]: Kardinolas Fridrichas su karaliene Elžbieta ir jos vaikais iškart po Velykų atvyko į Vilnių ir sukėlė džiaugsmą pilyje bei mieste.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184731|Jogaila (kunigaikštis, XIV–XV a.)]]: Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir iškėlė vestuvių puotą.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184731|Jogaila (kunigaikštis, XIV–XV a.)]]: Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas.
 - susijęs iš [[objektai/asmenys/Leopoldas (Austrijos erchercogas).md#claim-t-186233|Leopoldas (Austrijos erchercogas)]]: Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbietos vestuvių puotoje.
 - susijęs iš Brasta: Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.
 - susijęs iš Brasta: Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.
-- susijęs iš Sanokas: Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas.
+- susijęs iš Sanokas: Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Leopoldas, Austrijos erchercogas.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54959|Elena (vyskupas, XV–XVI a.)]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176413|Jadvyga Jogailienė]]: Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino didįjį magistrą 1385 m. rugpjūtį pulti Lietuvą.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176414|Jadvyga Jogailienė]]: Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176415|Jadvyga Jogailienė]]: Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176420|Jadvyga Jogailienė]]: Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino Konradą Ciolnerį Rotenšteiną 1385 metais pulti Lietuvą.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184724|Jogaila (kunigaikštis, XIV–XV a.)]]: Sužinojęs apie Jadvygos paskelbimą Lenkijos karaliene, Jogaila nutarė prašyti jos rankos.
 - susijęs iš [[objektai/asmenys/Konradas Ciolneris Rotenšteinas.md#claim-t-87439|Konradas Ciolneris Rotenšteinas]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas su didelėmis pajėgomis persikėlė per Nemuną ties Kaunu ir niokojo kraštą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179123|Kryžiuočių ordinas]]: 1385 m. didžiojo magistro Konrado Ciolnerio žygis buvo paskutinis Ordino smūgis pagoniškai Lietuvai.
 - susijęs iš [[objektai/grupes/Mokinių slėnio brolių ordinas.md#claim-t-89153|Mokinių slėnio brolių ordinas]]: Popiežius Honorijus patvirtino Mokinių slėnio brolių ordiną ir Karmelio kalno atsiskyrėlių ordiną.
@@ -139,132 +145,9 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - susijęs iš [[objektai/posakiai/visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas.md#claim-t-185473|visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas]]: Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas.
 - susijęs iš Ašmena: 1385 metų rugpjūtį didžiojo magistro Konrado Ciolnerio Rotenšteino pajėgos nuniokojo žemes iki pat Ašmenos.
 - susijęs iš Brasta: 1544 m. Brastos seime Žygimantas dar prieš mirtį perdavė sūnui Žygimantui Augustui Lietuvos valdžią.
-- susijęs iš Brasta: Lietuvos metraštyje Brasta, Drohičinas ir Melnikas vaizduojami kaip Batu nusiaubti ir sunaikinti miestai, kuriuos Erdvilas atstatė.
 - susijęs iš Prūsija: 1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas iš Prūsijos puolė Lietuvos žemes.
 - susijęs iš Prūsija: Prūsiją pasiekus žiniai apie Jogailos derybų sėkmę, Konradas Ciolneris Rotenšteinas 1385 m. rugpjūtį puolė Lietuvą.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1221 m. Elžbieta ištekėjo už Tiuringijos markgrafo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    15. Kelerių metų šventa Elžbieta ištekėjo už vyro
-
-      1221 viešpaties metais Elžbieta pasiėmė į vyrus Tiuringijos markgrafą.
-
-
-
-        16.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nuo to laiko spėjo prabėgti apie pusantrų metų, bet karalie­
-    nė Elžbieta savo pažadų vis neištesėjo. Lenkai ėmė nekantrauti
-    ir vėl susivažiavę ir sudarę laikiną valdžią, pranešė karalienei,
-    kad, jei ji neatsiųs Jadvygos, jie ieškosis kito sau valdovo. Ka­
-    ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­
-    riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­
-    gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­
-    jos karalium“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-003
-  santrauka: 'Šventa Elžbieta gimė 1207 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    12. Apie šventos Elžbietos gimimą
-
-      1207 viešpaties metais gimė šventa Elžbieta.
-
-
-
-                  13.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: '1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    25. Apie šventos Elžbietos kanonizavimą
-
-      1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,
-    brolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.
-
-
-
-                       26.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    _  .
-    230
-
-    ## Puslapis 247
-
-    III KNYGA
-    pavasario, kai Aleksandro motina karalienė Elžbieta su duk­
-    terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­
-    vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.
-    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
-    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
-    buvo nutraukta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-006
-
-- c-006
-  santrauka: '1227 m. rugsėjo 11 d. Ortrante mirė šventos Elžbietos vyras landgrafas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    17. Apie Šventos Elžbietos vyro mirtį
-
-      1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava
-    mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.
-
-
-
-                  18.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 - c-007
   santrauka: 'Šventa Elžbieta mirė 1231 m. lapkričio 19 d.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -272,8 +155,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     21. Apie šventos Elžbietos mirtį
 
       1231 viešpaties metais, lapkričio 19 dieną, mirė šventa Elžbieta.
-
-
 
                          22.
   citata_rodoma: ''
@@ -284,79 +165,12 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   pagrindžia:
     - t-001
 
-- c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vilniaus vyskupu paskirtas vysk. Andrius Vosylius Jas­
-    trzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­
-    vo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams
-    nebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­
-    nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
-    niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
-    ralienės Elžbietos, Jadvygos motinos. 1377 m. buvo paskirtas
-    Cereteno vyskupu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-009
-  santrauka: 'Karalienė Elžbieta sutiko po 1383 m. Velykų išsiųsti Jadvygą lenkams, jei ši po karūnavimo trejiems metams grįš į Vengriją.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet kai atsirado nesu­
-    sipratimų su Marijos sužieduotiniu, vėliau jos vyru, ir kai paaiš­
-    kėjo, kad Marija pasilieka Vengrijoj, lenkai atsisakė ją bepriimti
-    savo valdove ir pareikalavo jiems atsiųsti kitą karalaitę — Jad­
-    vygą. Karalienė Elžbieta su tuo reikalavimu sutiko ir pažadėjo
-    po 1383 m. Velykų ją išsiųsti, bet su ta sąlyga, kad ji apsikarū­
-    navusi vėl grįžtų trims metams į Vengriją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-010
-  santrauka: 'Žygimantui Augustui buvo paprašyta Romos karaliaus Ferdinando dukters Elžbietos rankos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    1543 m e ta i
-    Ž y g im a n ta s
-    A u g u s­
-    ta s v e d a  a u strų  k u ­
-    n ig a ik š ty tę  E lžb ietą
-    Sugrįžęs į Lenkiją, kara­
-    lius suskato apvesdinti sūnų
-    Augustą. Nutarta susigimi­
-    niuoti su Austrijos valdovų
-    šeima ir paprašyti Augustui
-    Romos karaliaus Ferdinando
-    dukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­
-    torius Karolis V didžiai pritarė šiai santuokai, įsitikinę,
-    kad ji dar labiau sustiprins santarvę ir gerus santy­
-    kius, kuriems padėta pamatai anksčiau, susigiminiuo­
-    jant su Vladislovu bei Liudviku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
 ## Citatos
 
 - id: c-78770
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 227"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     15. Kelerių metų šventa Elžbieta ištekėjo už vyro
 
@@ -397,8 +211,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - id: c-78772
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 227"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     12. Apie šventos Elžbietos gimimą
 
@@ -418,8 +231,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - id: c-78773
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 229"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     25. Apie šventos Elžbietos kanonizavimą
 
@@ -460,14 +272,13 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82299
     - t-82296
+    - t-82299
 
 - id: c-78775
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 228"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 228."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     17. Apie Šventos Elžbietos vyro mirtį
 
@@ -488,16 +299,14 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - id: c-78776
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 228"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 228."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    21. Apie šventos Elžbietos mirtį
-
-      1231 viešpaties metais, lapkričio 19 dieną, mirė šventa Elžbieta.
-
-
-
-                         22.
+    Aukščiausiojo ten įkvėptas, su keliais iš savo šeimynos jis kreipėsi į jo šventenybę
+    popiežių, kuriam ir išpažino visas savo nuodėmes. Popiežius jam paliepė užsivilkti Teutonų
+    namų ordino vienuolio apsiaustą. Grįždamas po to namo, jis atsisakė jam į žmonas
+    pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo,
+    papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos
+    dievui bei jam įstotų į šį ordiną.
   citata_rodoma: "Apie šventos Elžbietos mirtį\n\n  1231 viešpaties metais, lapkričio 19 dieną, mirė šventa Elžbieta.\n\n\n\n                     22."
   statusas: verified
   teiginio_tipas: faktas
@@ -550,31 +359,53 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - id: c-168057
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 671"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 671."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    1543 m e ta i
-    Ž y g im a n ta s
-    A u g u s­
-    ta s v e d a  a u strų  k u ­
-    n ig a ik š ty tę  E lžb ietą
-    Sugrįžęs į Lenkiją, kara­
-    lius suskato apvesdinti sūnų
-    Augustą. Nutarta susigimi­
-    niuoti su Austrijos valdovų
-    šeima ir paprašyti Augustui
-    Romos karaliaus Ferdinando
-    dukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­
-    torius Karolis V didžiai pritarė šiai santuokai, įsitikinę,
-    kad ji dar labiau sustiprins santarvę ir gerus santy­
-    kius, kuriems padėta pamatai anksčiau, susigiminiuo­
-    jant su Vladislovu bei Liudviku.
+    septyneriems metams, o klau-
+    S e p ty n m e tė s
+    p oliau -
+    simą dėl belaisvių perduoti
+    b o s su M a sk v o s ku -
+    pačiam karaliui. Po to mask-
+    n ig a ik šč iu
+    venai atvyko į Vilnių, dė­
+    damiesi atkeliavę pasirašy­
+    ti paliaubų, o iš tikrųjų norėdami sužinoti, kas ma­
+    noma dėl paliaubų metu užimtų kaimų ir belaisvių, ar
+    negalima trumpų paliaubų pakeisti taikos sutartimi,
+    tačiau tokiomis sąlygomis, kad lietuviai paliktų Mask­
+    vos kunigaikščiui Gomelį, atsisakytų Smolensko, rei­
+    kalaudami už tai kokių kitų žemių, o belaisvius abi
+    šalys be niekur nieko paleistų į laisvę, nepaisydamos
+    nei jų kilmės, nei kiekio. Atmetus visus šiuos reika­
+    lavimus, maskvėnams pažadėta, kad neilgai trukus prie
+    Sebežo atvyks karaliaus taikytojai; ištyrę vietoje rei­
+    kalą, jie ir atsilygins tiems, kurie neteko žemių.
+  citata_rodoma: "1543 m e ta i\nŽ y g im a n ta s\nA u g u s­\nta s v e d a  a u strų  k u ­\nn ig a ik š ty tę  E lžb ietą\nSugrįžęs į Lenkiją, kara­\nlius suskato apvesdinti sūnų\nAugustą. Nutarta susigimi­\nniuoti su Austrijos valdovų\nšeima ir paprašyti Augustui\nRomos karaliaus Ferdinando\ndukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­\ntorius Karolis V didžiai pritarė šiai santuokai, įsitikinę,\nkad ji dar labiau sustiprins santarvę ir gerus santy­\nkius, kuriems padėta pamatai anksčiau, susigiminiuo­\njant su Vladislovu bei Liudviku."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184696
+
+- id: c-179023
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Rytą, patyręs, jog anksčiau minėtuosius Hartmaną
+    bei Ditrichą kamavo panašios mintys, nuėjo su jais basomis ir su ašutinėmis į švento
+    Mikalojaus koplyčią Gladbache, tikėdamasis, jog ten dievas patarsiąs, ką daryti.
+    Aukščiausiojo ten įkvėptas, su keliais iš savo šeimynos jis kreipėsi į jo šventenybę
+    popiežių, kuriam ir išpažino visas savo nuodėmes. Popiežius jam paliepė užsivilkti Teutonų
+    namų ordino vienuolio apsiaustą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197075
 
 ## Ryšiai
 - Elžbieta keliavo į [[objektai/vietos/Vilnius]]

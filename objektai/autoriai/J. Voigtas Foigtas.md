@@ -7,15 +7,15 @@ datos:
   - '1669 m.'
 date_start: '1669'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - autorius
-amziai:
-  - 'XVII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,31 +57,15 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
   teiginys: "Narbutas teigė, kad Foigtas pasiklydo prielaidose apie skirių ir hirių gentis ir padarė visiškai netaiklių išvadų."
   pagrindžia:
     - c-174436
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su kaimais ir Liubeko pirklių pastatytu Lipsos uostu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    1669 metais didžiulė audra visiškai išgriovė šio pastato
-    sienas.
-    189
-    Ne mažiau įdomios yra pono Foigto studijos apie pra­
-    dingusią, jūrai užliejus, Vitlandijos žemę, taip pat po tos
-    pačios gamtinės revoliucijos, kuri Memelio vagą pavertė
-    marių dalimi. Tai buvęs tankiai gyvenamas, gana platus
-    kraštas, kur driekėsi nemažai kaimų, Liubeko pirklių pa­
-    statytas uostas, vadinamas Lipsa, ir daug kitų; apie tai
-    rašo šis istorikas savo veikale2, o kiti istorikai apie tai ne­
-    užsimena nė žodžiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197608"></a>
+- t-004
+  global_id: t-197608
+  teiginys: "Senovės tyrinėtojai, pradedant Plinijaus kom piliacijomis ir baigiant nuodugniai mąstančiu Uphagenu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, net mokytasis ponas Foigtas patenka į keblią padėtį šia prasme ir daro visiškai netaiklias išvadas2."
   pagrindžia:
-    - t-001
+    - c-174436
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas pašaipiai perteikė Reinchardo, paremto Foigtu, teiginį, kad Stavanija buvo į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -105,17 +89,17 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
   santrauka: 'Narbutas teigė, kad Foigtas pasiklydo prielaidose apie skirių ir hirių gentis ir padarė visiškai netaiklių išvadų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Galbūt ir
-    lietuvių kalba jie vadinosi skiriais, nes esama panašiai
-    skambančių senovės vietovardžių: Skirvytė, Skirai, Skir-
-    nreliškės1. Senovės tyrinėtojai, pradedant Plinijaus kom­
+    Senovės tyrinėtojai, pradedant Plinijaus kom­
     piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
     nu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis,
     net mokytasis ponas Foigtas patenka į keblią padėtį šia
     prasme ir daro visiškai netaiklias išvadas2. Pernelyg daug
     laiko reikėtų tam, kad paneigtume visas hipotezes, o ant­
     ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
-    vėliau parašyti.
+    vėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­
+    rės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,
+    j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
+    įsikūrusi Bartėnų seniūnijoje.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -123,14 +107,14 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+    - t-004
 
 ## Citatos
 
 - id: c-174434
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 186"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 186."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     1669 metais didžiulė audra visiškai išgriovė šio pastato
     sienas.
@@ -153,16 +137,18 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
 - id: c-174435
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 273."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau vokiečių senovės tyrinėtojai prira­
-    šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti
-    visiškai nereikšmingi. Naujausias yra Reinchardo teigi­
+    Naujausias yra Reinchardo teigi­
     mas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi
     į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,
     nes ten yra vietovardžių Stabinas, Staviškės. Tai bent
-    etimologinių išvadų pagrindas!
+    etimologinių išvadų pagrindas! Sztaba (liejinys), Staw
+    (tvenkinys) nors ir labai panašiai skamba, tačiau tai
+    lenkiški žodžiai, ir, jei gerbiamieji istorikai būtų tai su­
+    vokę, jiems, be abejo, nereikėtų vargti ieškant lietuviams
+    vietos svetimoje žemėje, kur jie niekados negyveno.
+  citata_rodoma: "Tačiau vokiečių senovės tyrinėtojai prira­\nšė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti\nvisiškai nereikšmingi. Naujausias yra Reinchardo teigi­\nmas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi\nį pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,\nnes ten yra vietovardžių Stabinas, Staviškės. Tai bent\netimologinių išvadų pagrindas!"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -173,23 +159,26 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
 - id: c-174436
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 275"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 275."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Galbūt ir
-    lietuvių kalba jie vadinosi skiriais, nes esama panašiai
-    skambančių senovės vietovardžių: Skirvytė, Skirai, Skir-
-    nreliškės1. Senovės tyrinėtojai, pradedant Plinijaus kom­
+    Senovės tyrinėtojai, pradedant Plinijaus kom­
     piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
     nu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis,
     net mokytasis ponas Foigtas patenka į keblią padėtį šia
     prasme ir daro visiškai netaiklias išvadas2. Pernelyg daug
     laiko reikėtų tam, kad paneigtume visas hipotezes, o ant­
     ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
-    vėliau parašyti.
+    vėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­
+    rės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,
+    j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
+    įsikūrusi Bartėnų seniūnijoje. Vėliau sužinosime, kad ją įkūrė dar
+    XIII amžiuje arba XIV amžiaus pradžioje ateiviai iš kitų Lietuvos
+    žemės kraštų.
+  citata_rodoma: "Senovės tyrinėtojai, pradedant Plinijaus kom­\npiliacijomis ir baigiant nuodugniai mąstančiu Uphage- \nnu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, \nnet mokytasis ponas Foigtas patenka į keblią padėtį šia \nprasme ir daro visiškai netaiklias išvadas2. Pernelyg daug \nlaiko reikėtų tam, kad paneigtume visas hipotezes, o ant­\nra vertus, tektų kartoti tai, ką jau rašėme arba ketiname \nvėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­\nrės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,\nj Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė, \nįsikūrusi Bartėnų seniūnijoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191554
+    - t-197608

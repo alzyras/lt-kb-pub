@@ -10,13 +10,13 @@ datos:
   - '1372 m.'
 date_start: '1279'
 date_end: '1372'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,8 +65,8 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   teiginys: "Łowmiańskio veikalas nurodomas prie nuomonės, kad Dusburgiečio minėto ežero ieškota ir į šiaurę nuo Augustavo."
   pagrindžia:
     - c-61541
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Łowmiańskio veikalas nurodomas tarp šaltinių, siejančių Rasytės pilies statybą su XIV a. viduriu ir jos minėjimą nuo 1372 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -82,44 +82,6 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
-- c-002
-  santrauka: 'Łowmiańskio veikalas nurodomas prie nuomonės, kad Medininkų žemė susiformavo XIV a. sujungus centrinius Žemaitijos valsčius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
-
-      Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su
-    visa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų
-      569 D.— circa territorium Medenickam, Jer.— Medenicken, Medeniken; Medininkai
-    centrinėje Žemaitijoje (SZM, p. 223— 226). Dusburgietis kalba apie Medininkų valsčių
-    (territorium), tuo tarpu XIV a. pabaigos duomenys rodo, kad tai buvusi žemė, kurią
-    sudarė keletas valsčių. Medininkų žemė, atrodo, susiformavo XIV a., kai į ją buvo sujungti
-    Žemaitijos centriniai valsčiai ir sudaryta vieninga gynybos prieš Ordino agresiją sistema,
-    kurios centras, matyt, buvęs Medvėgalyje (Łowmiański H., Studja..., 2, p. 81—82).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Łowmiańskio veikalas nurodomas prie nuomonės, kad Dusburgiečio minėto ežero ieškota ir į šiaurę nuo Augustavo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Čia minimas ežeras ieškotas ir  į
-    šiaurę nuo Augustavo (Łowmiański H., Studja..., 2, p. 43). Aprašomas 1279—1280 m.
-    žiemos puolimas (Ewald A. L., Die Eroberung..., 4, p. 247; Regesta Lithuaniae..., p.
-    117).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 - c-004
   santrauka: 'Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius.'
@@ -144,13 +106,14 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - id: c-61538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vėliau jos funkcijas perėmė Rasytės pilis, statyta apie
-    XIV a. vidurį, o rašytiniuose šaltiniuose minima nuo 1372 m. (Rositen — SRP, 2, p. 102,
-    665, 667, 674; Łowmiański H., Studja..., 2, p. 32; plg. Boetticher A., Die Bau..., 1, p.
-    116—117; GAO, p. 144), vėliau — Rossitten, dab. Rybačis.
+    Anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kitų vėlesnių
+    apskričių lietuviai buvo nusiaubto krašto senųjų gyventojų palikuonys (Kurschat A., Zur
+    Geschichte..., p. 497—498).
+    Plačiau apie jotvingių, pagudėnų, bartų ir kitų Ordino užgrobtų vakarinių baltų žemių
+    gyventojų emigraciją į Lietuvą žr. Kamiński A., Jaćwież, p. 67—71 ir kt.
+  citata_rodoma: "Vėliau jos funkcijas perėmė Rasytės pilis, statyta apie\nXIV a. vidurį, o rašytiniuose šaltiniuose minima nuo 1372 m. (Rositen — SRP, 2, p. 102,\n665, 667, 674; Łowmiański H., Studja..., 2, p. 32; plg. Boetticher A., Die Bau..., 1, p.\n116—117; GAO, p. 144), vėliau — Rossitten, dab. Rybačis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -161,8 +124,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - id: c-61539
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
 
@@ -184,8 +146,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - id: c-61541
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 164"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Čia minimas ežeras ieškotas ir  į
     šiaurę nuo Augustavo (Łowmiański H., Studja..., 2, p. 43). Aprašomas 1279—1280 m.
@@ -201,15 +162,16 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - id: c-61542
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 193"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių
-    vyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš
-      553 D.— territorium Giottowie, Jer.— Glottow, valsčius į vakarus nuo Alnos aukštupio,
-    vardas išlikęs dab. Glotovo (Głotowo, į šiaurę nuo Olštino) pavadinime. Išlikęs piliakalnis.
-    Manoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H.,
-    Studia..., 2, p. 16, 25; MGP, p. 54).
+    Kai jį mirusį ginklanešiai gabeno į Kristburgo pilį, moterys, kurias jis buvo
+    išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore
+    virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip
+    skridę.
+    282 (275). Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
+    Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
+    nužudė ar išsivarė į nelaisvę beveik 200 krikščionių.
+  citata_rodoma: "Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių\nvyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš\n  553 D.— territorium Giottowie, Jer.— Glottow, valsčius į vakarus nuo Alnos aukštupio,\nvardas išlikęs dab. Glotovo (Głotowo, į šiaurę nuo Olštino) pavadinime. Išlikęs piliakalnis.\nManoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H.,\nStudia..., 2, p. 16, 25; MGP, p. 54)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -37,25 +37,6 @@ Birželio 3 d. P. Genys užima Svėdasus. | O po to Užpalius ir birželio 5 d. 
     - c-41598
 - susijęs iš Antalieptė: P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.
 - susijęs iš Užpaliai: Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Birželio 3 d. P. Genys užima
-
-    Svėdasus. |
-    O po to Užpalius ir birže-
-
-    lio 5 d. Antalieptę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41598

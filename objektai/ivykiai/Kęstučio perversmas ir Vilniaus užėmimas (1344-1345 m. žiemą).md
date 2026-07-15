@@ -60,24 +60,6 @@ Nenurodyta
   teiginys: "1344-1345 m. žiemą Kęstutis, susitaręs su broliu, užėmė Vilnių ir suėmė Jaunutį."
   pagrindžia:
     - c-31342
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Susitaręs
-    su broliu, Kęstutis 1344-1345 m. žiemą užėmė Vilnių, o patį Jau­
-    nutį suėmė. Pabėgęs Maskvon pas savo švogerį, didįjį kunigaikštį
-    Simeoną, ir čia pasikrikštijęs Jono vardu (1345.IX), Jaunutis tačiau
-    po dviejų metų grįžo Lietuvon ir iki mirties (apie 1366) valdė
-    Izjaslavo sritį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -60,22 +60,6 @@ Nenurodyta
   teiginys: "Lietuvos krepšininkai trečią kartą tapo Europos čempionais, o moterų krepšinio rinktinė 1997 m. laimėjo Europos čempionatą."
   pagrindžia:
     - c-23044
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dar geresni rezultatai pasiekti Europos
-    krepšinio pirmenybėse – 1995 m. iškovota antroji vieta, o 2003 m. Lietu-
-    vos krepšininkai trečią kartą tapo Europos čempionais. Moterų krepšinio
-    rinktinė 1997 m. tapo Europos čempione.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

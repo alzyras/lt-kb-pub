@@ -72,44 +72,6 @@ Nenurodyta
   teiginys: "Visuose Zigmanto Augusto piniguose buvo įrašas „Moneta magni ducatus Lithuaniae“."
   pagrindžia:
     - c-65532
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kadangi Lietuvos pinigai
-    buvo^1 /4 brangesni, negu tokie pat Lenkijos pinigai, tai Zigm. Augustas no-
-    rėjo juos suvienodinti; apie 1565 m. jis Tikocine įkurtoje kalykloje pradėjo
-    kalti lenkiškos vertės pinigus, bet, kilus nepasitenkinimui, turėjo tą darbą
-    mesti ir kalyklą uždaryti. Be lentelėje matomų (16—25 nr.), Z. Augusto
-    laikais dar buvo kalami _lenkiškos vertės skatikai, dviskatikiai, pustaleriai_ ir
-    _portugalai_ (=10 dukatų, — auksiniai). Be to, iš Ispanų karaliaus Pilypo II
-    gavęs dalį motinos palikimo, Z. Augustas Ispanijos pustalerius ir talerius pa-
-    leido į apyvartą, kontrasignavęs juos savo monograma _(S. A.)_ ir 1564 m. data
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lenkijoje jo laikais nebuvo
-    jokios kalyklos (kalykla buvo tik vad. karališkuosiuose Prūsuose); visuose
-    jo piniguose yra parašas: _„Moneta magni ducatus Lithuaniae"._ Vilniaus ka-
-    lyklos prižiūrėtoju 1545—1555 m. buvo rūmų iždininkas Jonas Liutomirskis.
-    1555—1562 m. ji buvo išnuomota žydų bendrovei, o vėliau ją vedė G. Taria,
-    kuris pirmasis Lietuvos piniguose pradėjo dėti ir savo, kaip kalėjo, herbą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

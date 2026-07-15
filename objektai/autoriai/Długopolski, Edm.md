@@ -44,22 +44,6 @@ Polska i Litwa, Warsza­ wa 1914, 1-36 p. — Długopolski, Edm. : Władysław �
   teiginys: "Edm. Długopolski 1951 m. Vroclave išleido darbą „Władysław Łokietek na tle swoich czasów“."
   pagrindžia:
     - c-29366
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Polska i Litwa, Warsza­
-    wa 1914, 1-36 p. — Długopolski, Edm. : _Władysław Łokietek na tle
-    swoich czasów,_ Wrocław 1951 (gausi bibliogr. : 225-234 liet.-lenkų su­
-    tartis).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,25 +35,6 @@ O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigt
   teiginys: "O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigta speciali referentūra."
   pagrindžia:
     - c-176017
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigta speciali referentūra.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Emigra-
-    cijos bendrovės, nesilaikančios to įstatymo, negali veikti Lietuvoje.
-    O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra
-    įsteigta speciali referentūra.
-    Vyriausybė ne tiktai rūpinasi apsaugoti vykstančius išeivius, bet
-    taip pat rūpinasi ir jau anksčiau išvykusiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

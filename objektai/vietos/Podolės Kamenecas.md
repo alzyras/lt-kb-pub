@@ -65,58 +65,17 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   teiginys: "1971 m. leidimo įvade Petras Goštautas siejamas su pasakojimais apie Podolės Kameneco ir Vilniaus vaivadą."
   pagrindžia:
     - c-170334
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Kalbama apie istorinį Podolės (dabar UTSR Chmelnickio sr.)
-    miestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne
-    Karijotaičių, nes istoriniuose šaltiniuose minimas jau  1062 m. XIV a.
-    antrojoje pusėje tikrai buvo Konstantino Karijotaičio sostinė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-    - t-002
-
-- c-002
-  santrauka: '1971 m. leidimo įvade Petras Goštautas siejamas su pasakojimais apie Podolės Kameneco ir Vilniaus vaivadą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Pagal B. N. Florią kronika atsiradusi ne tik Slucko ku­
-    nigaikščių Olelkaičių, bet ir lietuvių didikų Goštautų
-    aplinkoje dviem etapais. Goštautų iniciatyva XV a. vi­
-    dury sukurtas Trumpojo sąvado perdirbinys, papildy­
-    tas pasakojimais apie XIV a. Petrą Goštautą, Gedimi­
-    no etmoną, Podolės Kameneco ir Vilniaus vaivadą,
-    taip pat apie Joną Goštautą, lietuvių vadą Žalgirio
-    mūšyje, LDK kanclerį (1440—1458) ir labai nusipelniu­
-    sį jauno didžiojo kunigaikščio Kazimiero globėją bei
-    patarėją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 ## Citatos
 
 - id: c-170333
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 217"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 217."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Kalbama apie istorinį Podolės (dabar UTSR Chmelnickio sr.)
     miestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne
-    Karijotaičių, nes istoriniuose šaltiniuose minimas jau  1062 m. XIV a.
+    Karijotaičių, nes istoriniuose šaltiniuose minimas jau 1062 m. XIV a.
     antrojoje pusėje tikrai buvo Konstantino Karijotaičio sostinė.
   citata_rodoma: "Kalbama apie istorinį Podolės (dabar UTSR Chmelnickio sr.) \nmiestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne \nKarijotaičių, nes istoriniuose šaltiniuose minimas jau  1062 m. XIV a. \nantrojoje pusėje tikrai buvo Konstantino Karijotaičio sostinė."
   statusas: verified
@@ -125,14 +84,13 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187289
-    - t-187291
     - t-187290
+    - t-187291
 
 - id: c-170334
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 25"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 25."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Pagal B. N. Florią kronika atsiradusi ne tik Slucko ku­
     nigaikščių Olelkaičių, bet ir lietuvių didikų Goštautų

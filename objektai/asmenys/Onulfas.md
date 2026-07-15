@@ -37,7 +37,6 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
     - c-174185
 - susijęs iš Norikas: Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -65,19 +64,21 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
 - id: c-174185
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 319"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Bet,
-    kai tik Odoakras grįžo į Italiją, Frederikas vėl pasirodė
-    ir padidino savo tėvo valdžią. Nuolatiniai skundai ir ap­
+    Nuolatiniai skundai ir ap­
     maudas lėmė žygį Odoakro brolio Onulfo, kuris, vado­
     vavęs herulams, antrąkart privertė Frederiką pasitraukti
     iš krašto, šįsyk į Meziją, kur valdė Teodorikas; jie abu
     šiek tiek giminiavosi1. Po šios pergalės, norėdamas vi­
     siškai apsaugoti herulus ir senus Noriko gyventojus nuo
     visokios piktų ir nedraugiškų rugių įtakos, visų pasiten­
-    kinimui, perkėlė juos į Italiją.
+    kinimui, perkėlė juos į Italiją. Bet rugiai, užuot buvę dė­
+    kingi už tai, kad vien jiems liko derlingas kraštas, supy­
+    ko ant Odoakro, nes jis atėmė jų belaisvius ir turtą; jis
+    stengėsi senus Noriko romėnų kolonistus ir kitus su jais
+    nesigiminiavusius gyventojus paversti vergais.
+  citata_rodoma: "Bet,\nkai tik Odoakras grįžo į Italiją, Frederikas vėl pasirodė\nir padidino savo tėvo valdžią. Nuolatiniai skundai ir ap­\nmaudas lėmė žygį Odoakro brolio Onulfo, kuris, vado­\nvavęs herulams, antrąkart privertė Frederiką pasitraukti\niš krašto, šįsyk į Meziją, kur valdė Teodorikas; jie abu\nšiek tiek giminiavosi1. Po šios pergalės, norėdamas vi­\nsiškai apsaugoti herulus ir senus Noriko gyventojus nuo\nvisokios piktų ir nedraugiškų rugių įtakos, visų pasiten­\nkinimui, perkėlė juos į Italiją."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

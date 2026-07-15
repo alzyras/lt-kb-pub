@@ -15,14 +15,6 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1163 m.'
-  - '1187 m.'
-  - '1190 m.'
-  - '1191 m.'
-  - '1202 m.'
-  - '1211 m.'
-  - '1225 m.'
-  - '1226 m.'
-  - '1255 m.'
   - '1521 m.'
 date_start: '1163'
 date_end: '1521'
@@ -51,72 +43,79 @@ media_all_json: |-
 
 ## Santrauka
 
-Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių ordinas susiejamas su Marijos Mergelės ordino vardu ir kryžiaus karų tradicija.
+Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius. Balińskis teigė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus, siekdamas apšmeižti Kryžiuočių ordiną. Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems.
 
 ## Teiginiai
 
-<a id="claim-t-178788"></a>
+<a id="claim-t-12369"></a>
 - t-001
-  global_id: t-178788
+  global_id: t-12369
   teiginys: "Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius."
   pagrindžia:
-    - c-36829
+    - c-180739
+
+<a id="claim-t-12372"></a>
+- t-002
+  global_id: t-12372
+  teiginys: "Po nepavykusio Vilniaus apsiautimo Ordinas grobuoniškus planus nukreipė prieš Žemaitiją."
+  pagrindžia:
+    - c-180841
+    - c-162591
+
+<a id="claim-t-12375"></a>
+- t-003
+  global_id: t-12375
+  teiginys: "Ordino kariuomenė buvo sudaryta iš pėstininkų, raitelių ir artilerijos ir laikyta geresne už lietuvių bei lenkų kariuomenes."
+  pagrindžia:
+    - c-180732
+    - c-36835
 
 <a id="claim-t-178789"></a>
-- t-002
+- t-004
   global_id: t-178789
   teiginys: "Balińskis teigė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus, siekdamas apšmeižti Kryžiuočių ordiną."
   pagrindžia:
     - c-162600
+    - c-180759
 
 <a id="claim-t-178790"></a>
-- t-003
+- t-005
   global_id: t-178790
   teiginys: "Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems."
   pagrindžia:
     - c-162637
 
-<a id="claim-t-178791"></a>
-- t-004
-  global_id: t-178791
-  teiginys: "Kryžiuočiai laikė Vytautą priemone priversti Jogailą laikytis didelių pažadų Ordinui."
-  pagrindžia:
-    - c-162634
-
 <a id="claim-t-178793"></a>
-- t-005
+- t-006
   global_id: t-178793
   teiginys: "Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Kryžiuočių ordino brolius kaip neturtą ir pavojus pasirinkusius tikėjimo gynėjus."
   pagrindžia:
     - c-162743
+    - c-180765
 
 <a id="claim-t-178795"></a>
-- t-006
+- t-007
   global_id: t-178795
   teiginys: "Kryžiuočių ordinas priešinosi Jogailos reformai, nes numatė savo nuopuolį sustiprėjus Lietuvai ir Lenkijai."
   pagrindžia:
     - c-162564
+    - c-180890
 
 <a id="claim-t-178797"></a>
-- t-007
+- t-008
   global_id: t-178797
   teiginys: "1323 m. Vilniuje duotame rašte teigta, kad kryžiuočiai įmetė į ugnį Gedimino pasiuntinybės antspaudą."
   pagrindžia:
     - c-162553
+    - c-180942
 
 <a id="claim-t-178801"></a>
-- t-008
+- t-009
   global_id: t-178801
   teiginys: "Vytautas atnaujino ryšius su Prūsija ir kryžiuočiams pažadėjo padėti atstatyti sudegintas jų pilis prie Kauno."
   pagrindžia:
     - c-162560
-
-<a id="claim-t-178802"></a>
-- t-009
-  global_id: t-178802
-  teiginys: "Lietuvai siekiant Bažnyčios patvirtinimo, reikėjo įveikti kryžiuočių daromas kliūtis."
-  pagrindžia:
-    - c-162652
+    - c-180768
 
 <a id="claim-t-178805"></a>
 - t-010
@@ -125,103 +124,77 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindžia:
     - c-36840
 
-<a id="claim-t-178806"></a>
-- t-011
-  global_id: t-178806
-  teiginys: "Po nepavykusio Vilniaus apsiautimo Ordinas grobuoniškus planus nukreipė prieš Žemaitiją."
-  pagrindžia:
-    - c-162591
-
 <a id="claim-t-178807"></a>
-- t-012
+- t-011
   global_id: t-178807
   teiginys: "Po magistro Hermano mirties Kryžiuočių ordine buvo priskaičiuojama du tūkstančiai brolių iš kilmingų Vokietijos šeimų."
   pagrindžia:
     - c-162792
+    - c-180838
 
 <a id="claim-t-178809"></a>
-- t-013
+- t-012
   global_id: t-178809
   teiginys: "Henrikas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir, būdamas vienuolyne, pralenkė kitus brolius dorybėmis."
   pagrindžia:
     - c-162692
-
-<a id="claim-t-178810"></a>
-- t-014
-  global_id: t-178810
-  teiginys: "Ordino kariuomenė buvo sudaryta iš pėstininkų, raitelių ir artilerijos ir laikyta geresne už lietuvių bei lenkų kariuomenes."
-  pagrindžia:
-    - c-36835
-
-<a id="claim-t-178811"></a>
-- t-015
-  global_id: t-178811
-  teiginys: "Algirdas ir Kęstutis pradėjo derybas su Kryžiuočių ordinu, siekdami atokvėpio nuo tolesnių niokojimų."
-  pagrindžia:
-    - c-162738
+    - c-180798
 
 <a id="claim-t-178812"></a>
-- t-016
+- t-013
   global_id: t-178812
   teiginys: "1410 m. liepos 15 d. Žalgirio mūšyje Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę."
   pagrindžia:
     - c-162686
-
-<a id="claim-t-178813"></a>
-- t-017
-  global_id: t-178813
-  teiginys: "Vytautas, siekdamas suardyti Lenkijos ir Ordino sąjungą, apskundė Ordiną Europai."
-  pagrindžia:
-    - c-36844
+    - c-180946
 
 <a id="claim-t-178814"></a>
-- t-018
+- t-014
   global_id: t-178814
   teiginys: "Popiežius patvirtino Jeruzalės ligoninės brolių ordiną ir leido jo broliams dėvėti baltą apsiaustą su juodu kryžiumi."
   pagrindžia:
     - c-162774
+    - c-180941
 
 <a id="claim-t-178815"></a>
-- t-019
+- t-015
   global_id: t-178815
   teiginys: "Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a."
   pagrindžia:
     - c-162620
+    - c-180803
 
 <a id="claim-t-178816"></a>
-- t-020
+- t-016
   global_id: t-178816
   teiginys: "1432 m. Lietuvos ir lietuviškos Rusios kunigaikščiai, bajorai ir miestai raštu prisiekė laikytis sutarties su Prūsijos ordinu."
   pagrindžia:
     - c-162498
+    - c-180730
 
 <a id="claim-t-178817"></a>
-- t-021
+- t-017
   global_id: t-178817
   teiginys: "Lietuvių pasipriešinimas neatbaidė kryžiuočių nuo kasmetinių žygių iki Vilniaus, o 1384 m. jų antpuoliai siekė Kernavę."
   pagrindžia:
     - c-162497
-
-<a id="claim-t-178819"></a>
-- t-022
-  global_id: t-178819
-  teiginys: "Ordino kronikose nurodyta, kad 1345–1382 m. įvyko 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
-  pagrindžia:
-    - c-162506
+    - c-180832
 
 <a id="claim-t-178820"></a>
-- t-023
+- t-019
   global_id: t-178820
   teiginys: "1448 m. Vilniuje buvo sudaryta garsi sutartis su Prūsijos ordinu."
   pagrindžia:
     - c-162727
+    - c-180915
 
 <a id="claim-t-178821"></a>
-- t-024
+- t-020
   global_id: t-178821
   teiginys: "Pasak Petro Dusburgiečio, Henrikui pasižadėjus įstoti į Teutonų ordiną, išnyko regėtas sambūris ir regėjimai."
   pagrindžia:
     - c-162782
+    - c-180920
 
 <a id="claim-t-178822"></a>
 - t-025
@@ -229,152 +202,133 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   teiginys: "Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų."
   pagrindžia:
     - c-162588
-    - c-162664
     - c-162760
     - c-162781
+    - c-180762
+    - c-180852
+    - c-180855
 
 <a id="claim-t-178823"></a>
-- t-026
+- t-021
   global_id: t-178823
   teiginys: "1384 m. Ordino antpuoliai Lietuvoje siekdavo Kernavę, tačiau pralaimėjimas prie Vilniaus ir Ukmergės apsaugojo sostinę."
   pagrindžia:
     - c-162497
+    - c-180832
 
 <a id="claim-t-178824"></a>
-- t-027
+- t-022
   global_id: t-178824
   teiginys: "Pasak Petro Dusburgiečio, Mergelė Marija broliui Hermanui skundėsi, kad Teutonų ordino broliai kalba apie pasaulio tuštybę."
   pagrindžia:
     - c-162795
+    - c-180782
 
 <a id="claim-t-178827"></a>
-- t-028
+- t-023
   global_id: t-178827
   teiginys: "Vytautą nuo sostinės dažnai atitraukdavo karai su Rusios kunigaikščiais, totorių chanais ir kryžiuočiais."
   pagrindžia:
     - c-162636
+    - c-180825
 
 <a id="claim-t-178830"></a>
-- t-029
+- t-024
   global_id: t-178830
   teiginys: "Popiežiaus rūmuose Avinjone buvo svarstomi Kryžiuočių ordino santykiai su Lenkija, Ryga ir Lietuvos valdovu."
   pagrindžia:
     - c-162509
+    - c-180707
 
 <a id="claim-t-178831"></a>
-- t-030
+- t-026
   global_id: t-178831
   teiginys: "Trečioji Ordino kariuomenės eilė stovėjo atokiau nuo mūšio lauko ir buvo laikoma atsargai."
   pagrindžia:
     - c-162619
-
-<a id="claim-t-178832"></a>
-- t-031
-  global_id: t-178832
-  teiginys: "Kai Gedimino skundas pasiekė popiežių, Prūsijos dvasininkai laiškuose stojo ginti Kryžiuočių ordino."
-  pagrindžia:
-    - c-162617
-
-<a id="claim-t-178833"></a>
-- t-032
-  global_id: t-178833
-  teiginys: "1249 m. prūsai, sulaužę taikos sutartį, nužudė 54 Kryžiuočių ordino brolius ir kitus su jais buvusius žmones."
-  pagrindžia:
-    - c-162593
+    - c-180947
 
 <a id="claim-t-178834"></a>
-- t-033
+- t-027
   global_id: t-178834
   teiginys: "Ordino maršalas su 40 000 kryžiuočių įsiveržė į Lietuvą, susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą."
   pagrindžia:
     - c-162719
+    - c-180894
 
 <a id="claim-t-178835"></a>
-- t-034
+- t-028
   global_id: t-178835
   teiginys: "Ordinas, įgijęs daugiau vilties pasilikti Žemaitijoje, savo politikos su Vytautu nepakeitė."
   pagrindžia:
     - c-162534
+    - c-180726
 
 <a id="claim-t-178838"></a>
-- t-035
+- t-029
   global_id: t-178838
   teiginys: "Grabovo suvažiavime Vytautas pareikalavo, kad Ordinas atlygintų už paimtas prekes ir nužudytų pirklių šeimoms."
   pagrindžia:
     - c-162555
-
-<a id="claim-t-178839"></a>
-- t-036
-  global_id: t-178839
-  teiginys: "Klaipėdos pilis beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą."
-  pagrindžia:
-    - c-162712
+    - c-180776
 
 <a id="claim-t-178840"></a>
-- t-037
+- t-030
   global_id: t-178840
   teiginys: "Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui ir būsimiems Teutonų ordino magistrams kunigaikščio titulą."
   pagrindžia:
     - c-162767
+    - c-180754
 
 <a id="claim-t-178841"></a>
-- t-038
+- t-032
   global_id: t-178841
   teiginys: "1410 m. Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną."
   pagrindžia:
     - c-162734
+    - c-162646
+    - c-180773
+    - c-180774
 
 <a id="claim-t-178842"></a>
-- t-039
+- t-033
   global_id: t-178842
   teiginys: "XIII-XIV a. Vakarų Europoje pasigirsdavo kritikos Kryžiuočių ordinui, įskaitant raginimus jį likviduoti."
   pagrindžia:
     - c-162601
+    - c-180870
 
 <a id="claim-t-178843"></a>
-- t-040
+- t-034
   global_id: t-178843
   teiginys: "Po Žalgirio mūšio pagrindinė Vytauto konflikto su Kryžiuočių ordinu priežastis liko Žemaitija."
   pagrindžia:
     - c-162521
-
-<a id="claim-t-178845"></a>
-- t-041
-  global_id: t-178845
-  teiginys: "Kojalavičius pagoniškai Lietuvai skirtame tome lietuvių kovas su kryžiuočiais pateikė su pagarba lietuviams."
-  pagrindžia:
-    - c-162535
+    - c-180874
 
 <a id="claim-t-178846"></a>
-- t-042
+- t-035
   global_id: t-178846
   teiginys: "Kryžiuočiai kurstė Švitrigailą siekti senųjų užmačių arba kelti sumaištį Lenkijoje."
   pagrindžia:
     - c-162488
-
-<a id="claim-t-178849"></a>
-- t-043
-  global_id: t-178849
-  teiginys: "1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje."
-  pagrindžia:
-    - c-162587
+    - c-180810
 
 <a id="claim-t-178850"></a>
-- t-044
+- t-036
   global_id: t-178850
   teiginys: "Kryžiuočiai įkalbėjo svetimtaučius savanorius, kad visa Lietuva tebėra pagonių šalis."
   pagrindžia:
     - c-162526
+    - c-180938
 
 <a id="claim-t-178851"></a>
-- t-045
+- t-037
   global_id: t-178851
   teiginys: "Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI."
   pagrindžia:
     - c-162500
-    - c-162593
     - c-162596
-    - c-162608
     - c-162610
     - c-162655
     - c-162684
@@ -383,374 +337,278 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     - c-162766
     - c-162812
     - c-167270
-
-<a id="claim-t-178852"></a>
-- t-046
-  global_id: t-178852
-  teiginys: "Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių prisidėti prie Vytauto kariuomenės."
-  pagrindžia:
-    - c-36833
-
-<a id="claim-t-178853"></a>
-- t-047
-  global_id: t-178853
-  teiginys: "Mūšyje žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 Ordino brolių."
-  pagrindžia:
-    - c-162744
+    - c-180694
+    - c-180722
+    - c-180741
+    - c-180783
+    - c-180791
+    - c-180826
+    - c-180886
+    - c-180899
+    - c-180903
+    - c-180924
+    - c-180944
 
 <a id="claim-t-178855"></a>
-- t-048
+- t-038
   global_id: t-178855
   teiginys: "Gedimino laiške teigta, kad Vytenis prašė atsiųsti minoritų, bet Ordinas, tai sužinojęs, pasiuntė ginkluotą būrį sudeginti bažnyčios."
   pagrindžia:
     - c-162630
 
-<a id="claim-t-178856"></a>
-- t-049
-  global_id: t-178856
-  teiginys: "XIV a. Vokiečių ordino pavojus skatino Lietuvą derėtis ir ieškoti būdo priimti priešo išpažįstamą tikėjimą."
-  pagrindžia:
-    - c-162569
-
 <a id="claim-t-178857"></a>
-- t-050
+- t-039
   global_id: t-178857
   teiginys: "Kryžiuočių ordino broliai Pamedėje atstatė Kristburgo pilį naujoje vietoje ir paliko joje daug karių."
   pagrindžia:
     - c-162766
+    - c-180903
 
 <a id="claim-t-178859"></a>
-- t-051
+- t-040
   global_id: t-178859
   teiginys: "Balińskis rašė, kad Švitrigailos laikais Kryžiuočių ordinas turėjo itin didelę įtaką Lietuvos reikalams."
   pagrindžia:
     - c-162628
+    - c-180917
 
 <a id="claim-t-178860"></a>
-- t-052
+- t-041
   global_id: t-178860
   teiginys: "Hermanas iš Zalcos, Teutonų ordino didysis magistras, 1230 m. atsiuntė Hermaną Balką eiti magistro pareigų."
   pagrindžia:
     - c-162750
-
-<a id="claim-t-178861"></a>
-- t-053
-  global_id: t-178861
-  teiginys: "Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių."
-  pagrindžia:
-    - c-162536
+    - c-180670
 
 <a id="claim-t-178862"></a>
-- t-054
+- t-042
   global_id: t-178862
   teiginys: "Kryžiuočių ordinas, remdamasis Salyno sutartimi, reikalavo grąžinti jam pabėgėlius žemaičius."
   pagrindžia:
     - c-13397
-
-<a id="claim-t-178864"></a>
-- t-055
-  global_id: t-178864
-  teiginys: "XIV a. trečiajame dešimtmetyje Vakarų Europoje pasigirdo kritiškų balsų Kryžiuočių ordino atžvilgiu."
-  pagrindžia:
-    - c-162813
-
-<a id="claim-t-178865"></a>
-- t-056
-  global_id: t-178865
-  teiginys: "Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti."
-  pagrindžia:
-    - c-162793
+    - c-180921
 
 <a id="claim-t-178866"></a>
-- t-057
+- t-043
   global_id: t-178866
   teiginys: "Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį."
   pagrindžia:
     - c-162540
-
-<a id="claim-t-178867"></a>
-- t-058
-  global_id: t-178867
-  teiginys: "Ordino kronikose nurodyta, kad 1345–1382 m. buvo surengti 66 žygiai iš Prūsų ir 30 iš Livonijos."
-  pagrindžia:
-    - c-162506
+    - c-180795
 
 <a id="claim-t-178868"></a>
-- t-059
+- t-044
   global_id: t-178868
   teiginys: "Kryžiuočiai, Švitrigaila ir Valakijos vaivada sudarė sąjungą prieš Lenkiją."
   pagrindžia:
     - c-162605
 
 <a id="claim-t-178869"></a>
-- t-060
+- t-045
   global_id: t-178869
   teiginys: "Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui."
   pagrindžia:
     - c-162522
+    - c-180802
 
 <a id="claim-t-178870"></a>
-- t-061
+- t-046
   global_id: t-178870
   teiginys: "Gedimino laiške teigiama, kad kryžiuočiai įmetė į ugnį antspaudą, siųstą apaštališkajam viešpačiui."
   pagrindžia:
     - c-162633
 
 <a id="claim-t-178872"></a>
-- t-062
+- t-047
   global_id: t-178872
   teiginys: "Kryžiuočių ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes."
   pagrindžia:
     - c-162561
+    - c-180764
 
 <a id="claim-t-178873"></a>
-- t-063
+- t-048
   global_id: t-178873
   teiginys: "Kryžiuočiai Vakarų Europoje skleidė gandus, kad Lietuvos krikštas buvo tariamas ir paviršutiniškas."
   pagrindžia:
     - c-14980
-
-<a id="claim-t-178874"></a>
-- t-064
-  global_id: t-178874
-  teiginys: "XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos."
-  pagrindžia:
-    - c-162715
-
-<a id="claim-t-178875"></a>
-- t-065
-  global_id: t-178875
-  teiginys: "Kronika turėjo būti oficialiu Ordino šlovės paminklu73."
-  pagrindžia:
-    - c-162757
+    - c-180714
 
 <a id="claim-t-178876"></a>
-- t-066
+- t-049
   global_id: t-178876
   teiginys: "1233 m. magistras ir Kryžiuočių ordino broliai Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu."
   pagrindžia:
     - c-162748
 
 <a id="claim-t-178877"></a>
-- t-067
+- t-050
   global_id: t-178877
   teiginys: "Jogaila sutartimis pasižadėjo laikytis taikos su Ordinais, krikštytis ir užrašė kryžiuočiams beveik visą Žemaitiją iki Dubysos."
   pagrindžia:
     - c-162599
-
-<a id="claim-t-178878"></a>
-- t-068
-  global_id: t-178878
-  teiginys: "Apgulus Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, Kryžiuočių ordino broliai kentė badą ir stygių."
-  pagrindžia:
-    - c-162720
+    - c-180867
 
 <a id="claim-t-178880"></a>
-- t-069
+- t-051
   global_id: t-178880
   teiginys: "1323 m. Liubeke dėl tariamų Gedimino laiškų nutarta kreiptis patarimo į tuo metu mieste buvusius Ordino riterius."
   pagrindžia:
     - c-162621
 
 <a id="claim-t-178881"></a>
-- t-070
+- t-052
   global_id: t-178881
   teiginys: "Albrechto mėginimai susitarti su Lenkija nenusisekė, todėl ordinui teko pradėti karą su lenkais."
   pagrindžia:
     - c-13402
-
-<a id="claim-t-178882"></a>
-- t-071
-  global_id: t-178882
-  teiginys: "XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose Aukštaitijoje minėta 18 didžiojo kunigaikščio dvarų."
-  pagrindžia:
-    - c-162482
-
-<a id="claim-t-178883"></a>
-- t-072
-  global_id: t-178883
-  teiginys: "Gedimino laiške popiežiui ir kardinolams teigta, kad Mindaugą nuo krikščionybės atstūmė kryžiuočių magistro smurtas ir išdavystės."
-  pagrindžia:
-    - c-162772
-
-<a id="claim-t-178884"></a>
-- t-073
-  global_id: t-178884
-  teiginys: "Algirdas ir Kęstutis pradėjo derybas su Ordinu, kad Lietuva galėtų pailsėti nuo tolesnių niokojimų."
-  pagrindžia:
-    - c-162738
+    - c-180719
 
 <a id="claim-t-178885"></a>
-- t-074
+- t-053
   global_id: t-178885
   teiginys: "Ordinas, sustiprinęs viltį likti Žemaitijoje, nepakeitė savo politikos Vytauto atžvilgiu."
   pagrindžia:
     - c-162534
+    - c-180726
 
-<a id="claim-t-179079"></a>
-- t-075
-  global_id: t-179079
+<a id="claim-t-178886"></a>
+- t-054
+  global_id: t-178886
   teiginys: "Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija."
   pagrindžia:
     - c-162613
+    - c-180724
 
 <a id="claim-t-178887"></a>
-- t-076
+- t-055
   global_id: t-178887
   teiginys: "Ordinas plano nepriėmė, bet ir griežtai jo neatmetė, laukdamas imperatoriaus reakcijos."
   pagrindžia:
     - c-36841
 
 <a id="claim-t-178889"></a>
-- t-077
+- t-056
   global_id: t-178889
   teiginys: "M. Balinskis svarstė, kad pasakojimas apie kryžiuočių sudegintą valdovo antspaudą galėjo būti įdėtas siekiant tam tikro tikslo."
   pagrindžia:
     - c-162631
+    - c-180882
 
 <a id="claim-t-178890"></a>
-- t-078
+- t-057
   global_id: t-178890
   teiginys: "1337 m. birželio 15 d. Gediminas su kariuomene sustojo ties Bajerburgu ir puolė kryžiuočių tvirtovę."
   pagrindžia:
     - c-162581
+    - c-180849
 
 <a id="claim-t-178892"></a>
-- t-079
+- t-058
   global_id: t-178892
   teiginys: "Kryžiuočiai, užėmę Prūsiją, sunaikino Romuvą."
   pagrindžia:
     - c-162490
-
-<a id="claim-t-178894"></a>
-- t-080
-  global_id: t-178894
-  teiginys: "1237 m. Kryžiuočių ordino magistras su broliais Pagudėje pastatė pilį, pavadintą Elbingu."
-  pagrindžia:
-    - c-162608
+    - c-180669
 
 <a id="claim-t-178895"></a>
-- t-081
+- t-061
   global_id: t-178895
   teiginys: "1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų namų ordino broliais ir įpareigojo juos kovoti."
   pagrindžia:
-    - c-162496
     - c-162796
+    - c-180811
+    - c-180830
 
 <a id="claim-t-178896"></a>
-- t-082
+- t-062
   global_id: t-178896
   teiginys: "Ordino laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Gėlo vandens marias nuo netikėlių."
   pagrindžia:
     - c-162483
-
-<a id="claim-t-178897"></a>
-- t-083
-  global_id: t-178897
-  teiginys: "Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti priešui kelią."
-  pagrindžia:
-    - c-162503
+    - c-180686
 
 <a id="claim-t-178898"></a>
-- t-084
+- t-064
   global_id: t-178898
   teiginys: "Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje."
   pagrindžia:
     - c-162567
-
-<a id="claim-t-178899"></a>
-- t-085
-  global_id: t-178899
-  teiginys: "Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti."
-  pagrindžia:
-    - c-162662
+    - c-180695
 
 <a id="claim-t-178900"></a>
-- t-086
+- t-065
   global_id: t-178900
   teiginys: "1330 m. apie Velykas Rygos miestiečiai patikėjo miestą Livonijos Teutonų ordino magistrui Eberhardui iš Manheimo ir broliams."
   pagrindžia:
     - c-162707
 
 <a id="claim-t-178901"></a>
-- t-087
+- t-066
   global_id: t-178901
   teiginys: "Kol lenkai dar rikiavosi, Kryžiuočių ordino kariuomenė buvo sustatyta į dvi eiles."
   pagrindžia:
     - c-36837
+    - c-167604
+    - c-180815
+    - c-180851
 
 <a id="claim-t-178902"></a>
-- t-088
+- t-067
   global_id: t-178902
   teiginys: "Vytautas pakėlė savo ir Lietuvos vardą sudarydamas kampaniją prieš Ordiną, kuri galiausiai pasiekė tikslą."
   pagrindžia:
     - c-162639
-
-<a id="claim-t-178869"></a>
-- t-089
-  global_id: t-178869
-  teiginys: "Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui."
-  pagrindžia:
-    - c-162522
-
-<a id="claim-t-178904"></a>
-- t-090
-  global_id: t-178904
-  teiginys: "Ordinas išplėtė veiklą Lietuvos pasienyje ir netoli Gardino pastatė Naująjį Gardiną bei Metenburgą."
-  pagrindžia:
-    - c-36830
+    - c-180812
 
 <a id="claim-t-178906"></a>
-- t-091
+- t-068
   global_id: t-178906
   teiginys: "Kryžiuočiai suprato, kad Vytauto galybės augimas gali sužlugdyti jų siekį užkariauti Žemaitiją."
   pagrindžia:
     - c-36843
-
-<a id="claim-t-179054"></a>
-- t-092
-  global_id: t-179054
-  teiginys: "Vytautas paėmė nelaisvėn sunaikintose Ordino pilyse buvusius Ordino karius ir pirklius."
-  pagrindžia:
-    - c-162491
+    - c-180857
 
 <a id="claim-t-178908"></a>
-- t-093
+- t-069
   global_id: t-178908
   teiginys: "M. Balinskis manė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus, kuriais siekė apšmeižti Kryžiuočių ordiną."
   pagrindžia:
     - c-162600
+    - c-180759
 
 <a id="claim-t-178913"></a>
-- t-094
+- t-070
   global_id: t-178913
   teiginys: "Kryžiuočiai kurstė Vytauto ambiciją, Lietuvos karūną vaizduodami kaip atpildą už jo laimėjimus."
   pagrindžia:
     - c-162645
 
 <a id="claim-t-178916"></a>
-- t-095
+- t-071
   global_id: t-178916
   teiginys: "Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą Vytautą."
   pagrindžia:
     - c-162789
+    - c-180767
 
 <a id="claim-t-178917"></a>
-- t-096
+- t-072
   global_id: t-178917
   teiginys: "Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras veikiausiai buvo Medvėgalis."
   pagrindžia:
     - c-162669
 
 <a id="claim-t-178918"></a>
-- t-097
+- t-073
   global_id: t-178918
   teiginys: "Kryžiuočiai galėjo laikyti Vytautą itin pasiryžusiu, supratingu ir gabiu mokiniu Prūsuose."
   pagrindžia:
     - c-162515
+    - c-180866
 
 <a id="claim-t-178920"></a>
-- t-098
+- t-074
   global_id: t-178920
   teiginys: "Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę."
   pagrindžia:
@@ -759,1473 +617,1810 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     - c-162567
     - c-162582
     - c-162620
-    - c-162632
     - c-162635
     - c-162656
     - c-162665
-    - c-162744
     - c-162749
-    - c-162752
     - c-162753
-    - c-162757
     - c-162762
-
-<a id="claim-t-178921"></a>
-- t-099
-  global_id: t-178921
-  teiginys: "Kryžiuočių kairysis sparnas, sutelktas prieš dešiniajame sąjungininkų sparne stovėjusius lietuvių pulkus, buvo sudarytas iš stiprių dalinių."
-  pagrindžia:
-    - c-162603
-
-<a id="claim-t-178922"></a>
-- t-100
-  global_id: t-178922
-  teiginys: "Nuo Traidenio laikų karai su abiem Vokiečių ordino šakomis neigiamai veikė Lietuvos gyventojų prieaugį ir apgyvendinimą."
-  pagrindžia:
-    - c-31138
+    - c-180671
+    - c-180678
+    - c-180695
+    - c-180706
+    - c-180748
+    - c-180771
+    - c-180777
+    - c-180803
+    - c-180823
+    - c-180858
 
 <a id="claim-t-178923"></a>
-- t-101
+- t-075
   global_id: t-178923
   teiginys: "Veliuonos pilis tikriausiai buvo pastatyta XIII a., kad Žemaitijos siena būtų saugoma nuo kryžiuočių puldinėjimų."
   pagrindžia:
     - c-162799
+    - c-180916
 
 <a id="claim-t-178924"></a>
-- t-102
+- t-076
   global_id: t-178924
   teiginys: "Kronikoje Kryžiuočių ordino karinė užduotis Prūsijoje ir Lietuvoje aiškinama suteikiant riterių ginklams religinę prasmę."
   pagrindžia:
     - c-162713
-
-<a id="claim-t-178925"></a>
-- t-103
-  global_id: t-178925
-  teiginys: "Kai Žemaičių nepavyko įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas kišosi."
-  pagrindžia:
-    - c-162679
+    - c-180697
 
 <a id="claim-t-178926"></a>
-- t-104
+- t-077
   global_id: t-178926
   teiginys: "Skirgaila, remdamasis sandėriu su Ordinu, Prūsijoje rengė naujus antpuolius prieš Kęstutį ir Lietuvą."
   pagrindžia:
     - c-162759
+    - c-180685
 
 <a id="claim-t-178928"></a>
-- t-105
+- t-078
   global_id: t-178928
   teiginys: "Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką."
   pagrindžia:
     - c-162566
+    - c-180911
 
 <a id="claim-t-178930"></a>
-- t-106
+- t-079
   global_id: t-178930
   teiginys: "1239 m. Kryžiuočių ordino broliai užėmė Baigos pilį ir joje apsigyveno su savo ginklanešiais."
   pagrindžia:
     - c-162684
+    - c-180826
 
 <a id="claim-t-178931"></a>
-- t-107
+- t-080
   global_id: t-178931
   teiginys: "Tarnybiniame pranešime įrašyti tariamieji Gedimino laiškai buvo saugomi Kryžiuočių archyve."
   pagrindžia:
     - c-162678
-
-<a id="claim-t-178932"></a>
-- t-108
-  global_id: t-178932
-  teiginys: "XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose minėta 18 didžiojo kunigaikščio dvarų Aukštaitijoje."
-  pagrindžia:
-    - c-162482
+    - c-180930
 
 <a id="claim-t-178934"></a>
-- t-109
+- t-081
   global_id: t-178934
   teiginys: "Kryžiuočių ordino dvasininkai taikos metu laikė pamaldas, teikė sakramentus ir skatino brolius pasauliečius laikytis regulos."
   pagrindžia:
     - c-162610
+    - c-180741
 
 <a id="claim-t-178935"></a>
-- t-110
+- t-082
   global_id: t-178935
   teiginys: "Vytautas ginklus ir arklius gaudavo iš Rygos ir Krokuvos, nors Ordinas draudė juos įvežti į Lietuvą."
   pagrindžia:
     - c-162589
+    - c-180824
 
 <a id="claim-t-178936"></a>
-- t-111
+- t-084
   global_id: t-178936
   teiginys: "Kryžiuočių ordino broliai pasitraukė nuo gausesnių priešų, patyrę nemažų sužeistųjų nuostolių."
   pagrindžia:
     - c-162538
+    - c-180908
 
 <a id="claim-t-178938"></a>
-- t-112
+- t-085
   global_id: t-178938
   teiginys: "Kryžiuočių kariauna, pakeliui viską degindama, puolė Bisenės pilį ir mėgino ją užimti šturmu."
   pagrindžia:
     - c-162682
+    - c-180781
 
 <a id="claim-t-178939"></a>
-- t-113
+- t-086
   global_id: t-178939
   teiginys: "Sąjungininkai ties Kauerniku pastebėjo, kad kryžiuočiai jau saugo perėjimą per Drevencos upę."
   pagrindžia:
     - c-36836
+    - c-180800
 
 <a id="claim-t-178940"></a>
-- t-114
+- t-087
   global_id: t-178940
   teiginys: "Trečiąja sutartimi Jogaila užrašė kryžiuočiams beveik visą vakarinę Žemaitijos dalį iki Dubysos."
   pagrindžia:
     - c-162599
+    - c-180867
 
 <a id="claim-t-178942"></a>
-- t-115
+- t-088
   global_id: t-178942
   teiginys: "Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis."
   pagrindžia:
     - c-162614
+    - c-180737
 
 <a id="claim-t-178950"></a>
-- t-116
+- t-089
   global_id: t-178950
   teiginys: "Vytauto laikais Lietuva ir Vilnius nebebuvo atviri kryžiuočių grobimams ir plėšikavimams."
   pagrindžia:
     - c-162696
-
-<a id="claim-t-178951"></a>
-- t-117
-  global_id: t-178951
-  teiginys: "Ordino karų metu Lietuvos ūkis buvo smarkiai žalojamas."
-  pagrindžia:
-    - c-31137
-
-<a id="claim-t-178952"></a>
-- t-118
-  global_id: t-178952
-  teiginys: "Matomai Rygoje buvo įsitikinimas, kad kryžiuočiai Lietuvą greitai įveiks."
-  pagrindžia:
-    - c-162508
+    - c-180814
 
 <a id="claim-t-178953"></a>
-- t-119
+- t-090
   global_id: t-178953
   teiginys: "Vilniuje vyko svarbios ir ilgos derybos su kryžiuočiais, čia buvo pasirašomos sutartys su jais."
   pagrindžia:
     - c-162746
-
-<a id="claim-t-178954"></a>
-- t-120
-  global_id: t-178954
-  teiginys: "1362 m. pavasarį Prūsų kryžiuočiai, remiami Livonijos magistro ir svečių iš Vakarų, išgriovė Kauno pilį."
-  pagrindžia:
-    - c-162606
+    - c-180712
 
 <a id="claim-t-178955"></a>
-- t-121
+- t-091
   global_id: t-178955
   teiginys: "Kryžiuočių ordino broliai po priešų pabėgimo nužudė 17 Lietuvos karalystės galingesniųjų ir daug paprastų žmonių."
   pagrindžia:
     - c-162672
 
 <a id="claim-t-178956"></a>
-- t-122
+- t-092
   global_id: t-178956
   teiginys: "Net po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis buvo Žemaitija."
   pagrindžia:
     - c-162521
-
-<a id="claim-t-178957"></a>
-- t-123
-  global_id: t-178957
-  teiginys: "Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis."
-  pagrindžia:
-    - c-162542
-
-<a id="claim-t-178869"></a>
-- t-124
-  global_id: t-178869
-  teiginys: "Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui."
-  pagrindžia:
-    - c-162522
+    - c-180874
 
 <a id="claim-t-178959"></a>
-- t-125
+- t-093
   global_id: t-178959
   teiginys: "Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis."
   pagrindžia:
     - c-162518
+    - c-180898
 
 <a id="claim-t-178962"></a>
-- t-126
+- t-094
   global_id: t-178962
   teiginys: "Konrado Valenrodo šlovė ir Ordino iškėlimas į didžiuosius magistrus subūrė gausius kryžininkų pulkus žygiui į Lietuvą."
   pagrindžia:
     - c-162524
+    - c-180937
 
 <a id="claim-t-178963"></a>
-- t-127
+- t-095
   global_id: t-178963
   teiginys: "Kryžiuočių pilis Fridbergas buvo pastatyta tuo pat metu kaip Bajerburgas, už dviejų mylių nuo Veliuonos žemyn Nemunu."
   pagrindžia:
     - c-162751
+    - c-180892
 
 <a id="claim-t-178967"></a>
-- t-128
+- t-096
   global_id: t-178967
   teiginys: "Ignas Onacevičius, nuvykęs į Karaliaučių rinkti dokumentų iš slaptojo Kryžiuočių ordino archyvo, parašė laišką M. Balinskiui."
   pagrindžia:
     - c-162579
+    - c-180869
 
 <a id="claim-t-178968"></a>
-- t-129
+- t-097
   global_id: t-178968
   teiginys: "Magistras pasiuntė Kryžiuočių ordino kariuomenę į Lenkiją, kur ji apsupo ir sudegino Višogrudo pilį."
   pagrindžia:
     - c-162584
+    - c-180828
 
 <a id="claim-t-178970"></a>
-- t-130
+- t-098
   global_id: t-178970
   teiginys: "Vytautas daug prisidėjo prie pergalių prieš kryžiuočius, bet nesiekė visiško jų Ordino sunaikinimo."
   pagrindžia:
     - c-162484
-
-<a id="claim-t-178971"></a>
-- t-131
-  global_id: t-178971
-  teiginys: "1362 m. pavasarį Prūsų kryžiuočiai su sąjungininkais išgriovė svarbią lietuvių pilį Kauną prie Nemuno ir Neries santakos."
-  pagrindžia:
-    - c-162606
-
-<a id="claim-t-178972"></a>
-- t-132
-  global_id: t-178972
-  teiginys: "Vokiečių ordinas Prūsuose įsigijo didelius žemės plotus, juos kolonizavo ir, laimėjęs Vislos žiotis bei Pamarį, sustiprėjo."
-  pagrindžia:
-    - c-162708
+    - c-180689
 
 <a id="claim-t-178973"></a>
-- t-133
+- t-099
   global_id: t-178973
   teiginys: "Popiežiaus rūmuose Avinjone buvo svarstomi prieštaringi skundai už ir prieš Kryžiuočių ordiną."
   pagrindžia:
     - c-162509
+    - c-180707
 
 <a id="claim-t-178974"></a>
-- t-134
+- t-100
   global_id: t-178974
   teiginys: "Ordinas galėjo pulti dar nesusitvarkiusius lenkus, bet to nepadarė, nes galėjo bijoti girioje pasislėpusios kariuomenės."
   pagrindžia:
     - c-162619
-
-<a id="claim-t-178976"></a>
-- t-135
-  global_id: t-178976
-  teiginys: "Ordino kronikose 1345-1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
-  pagrindžia:
-    - c-162545
+    - c-180947
 
 <a id="claim-t-178977"></a>
-- t-136
+- t-101
   global_id: t-178977
   teiginys: "Bajerburgo pilis prie Nemuno apie 1337 m. pastatyta Ordino pavedimu ir padedant Bavarijos kunigaikščiui Henrikui."
   pagrindžia:
     - c-162701
-
-<a id="claim-t-178978"></a>
-- t-137
-  global_id: t-178978
-  teiginys: "XIV a. nuolatiniai Kryžiuočių ordino žygiai į Lietuvą vertė kraštą gyventi tarsi nuolatinio karo stovykloje."
-  pagrindžia:
-    - c-162736
+    - c-180696
 
 <a id="claim-t-178979"></a>
-- t-138
+- t-102
   global_id: t-178979
   teiginys: "Vokiečių ordinas darė didelę įtaką Vytauto laikų prekybai, nes per jo žemes ėjo svarbiausi keliai į Vakarų Europą ir Dancigą."
   pagrindžia:
     - c-36846
 
 <a id="claim-t-178980"></a>
-- t-139
+- t-103
   global_id: t-178980
   teiginys: "1244 m. į Prūsiją atvyko magistras Poponas su Ordino broliais ir Austrijos kunigaikščio atsiųstais raitaisiais lankininkais."
   pagrindžia:
     - c-162656
 
-<a id="claim-t-178981"></a>
-- t-140
-  global_id: t-178981
-  teiginys: "Popiežius Celestinas III Jeruzalėje įkūrė Šventosios Marijos Teutonų ordino vienuolių ligoninę."
-  pagrindžia:
-    - c-162499
-
-<a id="claim-t-178982"></a>
-- t-141
-  global_id: t-178982
-  teiginys: "Pasak Petro Dusburgiečio, sapne Švenčiausioji Mergelė Marija pasirodė su daugybe Teutonų namų ordino brolių."
-  pagrindžia:
-    - c-162675
-
 <a id="claim-t-178983"></a>
-- t-142
+- t-104
   global_id: t-178983
   teiginys: "Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis."
   pagrindžia:
     - c-162517
+    - c-180678
 
 <a id="claim-t-178984"></a>
-- t-143
+- t-105
   global_id: t-178984
   teiginys: "1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai."
   pagrindžia:
     - c-162572
+    - c-180813
 
 <a id="claim-t-178986"></a>
-- t-144
+- t-106
   global_id: t-178986
   teiginys: "Kryžiuočių Slaptajame archyve Karaliaučiuje buvo Vytauto laiškų magistrui Rusdorfui dėl Lietuvos karūnos derybų."
   pagrindžia:
     - c-162520
+    - c-180865
 
 <a id="claim-t-178987"></a>
-- t-145
+- t-107
   global_id: t-178987
   teiginys: "Zigmantas ir kryžiuočiai buvo kaltinami siūlę Vytautui karūną, siekdami supriešinti Lietuvą ir Lenkiją."
   pagrindžia:
     - c-162554
-
-<a id="claim-t-178988"></a>
-- t-146
-  global_id: t-178988
-  teiginys: "Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą."
-  pagrindžia:
-    - c-162708
+    - c-180743
 
 <a id="claim-t-178991"></a>
-- t-147
+- t-108
   global_id: t-178991
   teiginys: "Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi grąžinti Rygos Bažnyčiai, vyskupams ir kapitulai tai, ką buvo paėmę."
   pagrindžia:
     - c-162722
+    - c-180831
 
 <a id="claim-t-178992"></a>
-- t-148
+- t-109
   global_id: t-178992
   teiginys: "Gardinas buvo įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų."
   pagrindžia:
     - c-162739
-
-<a id="claim-t-178993"></a>
-- t-149
-  global_id: t-178993
-  teiginys: "Kairysis kryžiuočių sparnas prieš lietuvių pulkus buvo sudarytas iš stiprių dalinių."
-  pagrindžia:
-    - c-162603
+    - c-180889
 
 <a id="claim-t-178994"></a>
-- t-150
+- t-110
   global_id: t-178994
   teiginys: "Skirgaila iš Trakų pilies išvykdavo į mūšius su Prūsijos ordinu arba maištaujančiais Rusios kunigaikščiais."
   pagrindžia:
     - c-162651
+    - c-180907
 
 <a id="claim-t-178995"></a>
-- t-151
+- t-111
   global_id: t-178995
   teiginys: "Kryžiuočių ordinas, neįstengęs vienu dideliu žygiu pavergti Lietuvos, ėmė puldinėti ją nedideliais pasienio pilių būriais."
   pagrindžia:
     - c-46313
+    - c-180746
 
 <a id="claim-t-178996"></a>
-- t-152
+- t-112
   global_id: t-178996
   teiginys: "Petras Dusburgietis savo knygoje surašė Ordino brolių karus ir ją užbaigė 1326 metais."
   pagrindžia:
     - c-162596
+    - c-167268
+    - c-180886
+    - c-180881
 
 <a id="claim-t-178997"></a>
-- t-153
+- t-113
   global_id: t-178997
   teiginys: "Skubinai persikėlus per Nemuną, kryžiuočių kariuomenė prie Strėvos upės išsiskyrė į du didelius dalinius."
   pagrindžia:
     - c-162758
+    - c-180757
 
 <a id="claim-t-178999"></a>
-- t-154
+- t-114
   global_id: t-178999
   teiginys: "Šventosios Marijos Teutonų ligoninės namai Jeruzalėje buvo karinis ordinas, kuriame buvo riterių, karių ir labdarybe besirūpinusių brolių."
   pagrindžia:
     - c-162495
-
-<a id="claim-t-179001"></a>
-- t-155
-  global_id: t-179001
-  teiginys: "Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną ir Redigerį Elnerį užimti Vilniaus."
-  pagrindžia:
-    - c-162618
-
-<a id="claim-t-178806"></a>
-- t-156
-  global_id: t-178806
-  teiginys: "Po nepavykusio Vilniaus apsiautimo Ordinas grobuoniškus planus nukreipė prieš Žemaitiją."
-  pagrindžia:
-    - c-162591
+    - c-180931
 
 <a id="claim-t-179003"></a>
-- t-157
+- t-115
   global_id: t-179003
   teiginys: "Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių."
   pagrindžia:
     - c-162644
-
-<a id="claim-t-179004"></a>
-- t-158
-  global_id: t-179004
-  teiginys: "Vytautas siekė perimti Prūsų ordino savintą kovotojo su netikinčiaisiais šlovę, planuodamas nukariauti totorius."
-  pagrindžia:
-    - c-162571
+    - c-180827
 
 <a id="claim-t-179005"></a>
-- t-159
+- t-116
   global_id: t-179005
   teiginys: "Vytautas išmoko Ordino realios politikos, kurią vėliau taikė santykiuose su kaimynais."
   pagrindžia:
     - c-162726
-
-<a id="claim-t-179006"></a>
-- t-160
-  global_id: t-179006
-  teiginys: "Iki Tannenbergo kautynių kryžiuočiai Vakarų Europai pristatydavo lietuvius kaip pavojingus rytų „saracėnus“, bet kryžiaus karų šauksmas pamažu tilo."
-  pagrindžia:
-    - c-162775
+    - c-180794
 
 <a id="claim-t-179007"></a>
-- t-161
+- t-117
   global_id: t-179007
   teiginys: "Vytautas pakėlė Lietuvos vardą sudarydamas kampaniją prieš Ordiną, po kurios Ordinas buvo diskredituotas."
   pagrindžia:
     - c-36851
 
 <a id="claim-t-179008"></a>
-- t-162
+- t-118
   global_id: t-179008
   teiginys: "1429 m. Lucko suvažiavime dalyvavo ir Vokiečių ordino pasiuntiniai."
   pagrindžia:
     - c-162531
+    - c-180792
 
 <a id="claim-t-179010"></a>
-- t-163
+- t-119
   global_id: t-179010
   teiginys: "1325 m. Vilniuje sudaryta Gedimino sutartis su Lokietka numatė bendrą kovą su Prūsijos ordinu."
   pagrindžia:
     - c-162802
-
-<a id="claim-t-179011"></a>
-- t-164
-  global_id: t-179011
-  teiginys: "Per visą XIV a. Vokiečių ordino pavojus skatino Lietuvą derėtis ir svarstyti priešo išpažįstamo tikėjimo priėmimą."
-  pagrindžia:
-    - c-162569
+    - c-180836
 
 <a id="claim-t-179012"></a>
-- t-165
+- t-120
   global_id: t-179012
   teiginys: "Ordinas, sužinojęs apie Vytenio minoritams skirtą bažnyčią, pasiuntė ginkluotą būrį jos sudeginti."
   pagrindžia:
     - c-162559
-
-<a id="claim-t-179014"></a>
-- t-166
-  global_id: t-179014
-  teiginys: "Sužinoję apie Gedimino skundą popiežiui, Prūsijos minoritai ir abatai Paulius bei Jordanas stojo ginti kryžiuočių."
-  pagrindžia:
-    - c-162617
+    - c-180809
 
 <a id="claim-t-179015"></a>
-- t-167
+- t-121
   global_id: t-179015
   teiginys: "Vokiečių ordinas nenorėjo nusileisti Vytautui ir Vakarų Europoje skelbė jį pavojingu katalikams valdovu."
   pagrindžia:
     - c-36839
+    - c-180690
 
 <a id="claim-t-179016"></a>
-- t-168
+- t-123
   global_id: t-179016
   teiginys: "Vytautas nepaisė ordino reikalavimo grąžinti pabėgėlius žemaičius."
   pagrindžia:
     - c-162806
-
-<a id="claim-t-179018"></a>
-- t-169
-  global_id: t-179018
-  teiginys: "Lietuvos žemdirbystę trikdė nuolatiniai kryžiuočių užpuolimai, kurių kartais būdavo po keturis ar penkis per metus."
-  pagrindžia:
-    - c-46324
+    - c-180799
 
 <a id="claim-t-179019"></a>
-- t-170
+- t-124
   global_id: t-179019
   teiginys: "Ordino magistras, plėsdamas veiksmus Lietuvos pasienyje, įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą."
   pagrindžia:
     - c-162666
-
-<a id="claim-t-179020"></a>
-- t-171
-  global_id: t-179020
-  teiginys: "Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu."
-  pagrindžia:
-    - c-162590
+    - c-180731
 
 <a id="claim-t-179021"></a>
-- t-172
+- t-125
   global_id: t-179021
   teiginys: "Mindaugo laikų krikšto bandymui sutrukdė Vokiečių ordino siekis užgrobti Žemaičius."
   pagrindžia:
     - c-46319
+    - c-180932
 
 <a id="claim-t-179023"></a>
-- t-173
+- t-126
   global_id: t-179023
   teiginys: "1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais."
   pagrindžia:
     - c-162563
-
-<a id="claim-t-179025"></a>
-- t-174
-  global_id: t-179025
-  teiginys: "Hermanas Salza 1226 m. kovo mėnesį Riminyje išsirūpino imperatoriaus Fridricho II privilegiją Vokiečių ordino ateičiai rytuose."
-  pagrindžia:
-    - c-162728
-
-<a id="claim-t-179026"></a>
-- t-175
-  global_id: t-179026
-  teiginys: "Ordino riteriai su šv. Jurgio vėliava puolė į mūšį, bet lietuvių buvo atremti ir patyrė didelių nuostolių."
-  pagrindžia:
-    - c-162532
-
-<a id="claim-t-179027"></a>
-- t-176
-  global_id: t-179027
-  teiginys: "Didžiajam magistrui Verneriui kronika buvo reikalinga Ordinui keliamiems priekaištams atremti ir vidaus reformai įgyvendinti."
-  pagrindžia:
-    - c-162632
-
-<a id="claim-t-179029"></a>
-- t-177
-  global_id: t-179029
-  teiginys: "1226 m. Riminyje Fridrichas II suteikė Vokiečių ordinui teisę tapti užkariausimos prūsų žemės savininku."
-  pagrindžia:
-    - c-162780
+    - c-180711
 
 <a id="claim-t-179030"></a>
-- t-178
+- t-127
   global_id: t-179030
   teiginys: "Rygos pasiuntiniai popiežiui pranešė, kad Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką."
   pagrindžia:
     - c-162541
+    - c-180934
 
 <a id="claim-t-179031"></a>
-- t-179
+- t-128
   global_id: t-179031
   teiginys: "Po Lietuvos krikšto ir Europos pripažinimo katalikiška valstybe kryžiuočių ordinas nebebuvo pateisinamas."
   pagrindžia:
     - c-162576
-
-<a id="claim-t-179032"></a>
-- t-180
-  global_id: t-179032
-  teiginys: "Prūsų ordinas priglausdavo lietuvių perbėgėlius, juos krikštydavo ir jų žemes priimdavo kaip vasalinius feodus."
-  pagrindžia:
-    - c-31122
+    - c-180912
 
 <a id="claim-t-179033"></a>
-- t-181
+- t-129
   global_id: t-179033
   teiginys: "Ordino riteriai pasinaudojo Gedimino valdų išskaidymu, kuris susilpnino krašto galią."
   pagrindžia:
     - c-162661
-
-<a id="claim-t-179037"></a>
-- t-182
-  global_id: t-179037
-  teiginys: "Hermano vadovavimo metais popiežius ir imperatorius suteikė Kryžiuočių ordinui didelių privilegijų."
-  pagrindžia:
-    - c-162677
+    - c-180945
 
 <a id="claim-t-179038"></a>
-- t-183
+- t-130
   global_id: t-179038
   teiginys: "1413 m. vasario 6 d. Vilniuje Jogaila ir Vytautas įgaliojo atstovus derėtis su kryžiuočiais žemaičių vardu."
   pagrindžia:
     - c-162693
+    - c-180708
 
 <a id="claim-t-179039"></a>
-- t-184
+- t-131
   global_id: t-179039
   teiginys: "1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius."
   pagrindžia:
     - c-162546
+    - c-180918
 
 <a id="claim-t-179042"></a>
-- t-185
+- t-132
   global_id: t-179042
   teiginys: "1383 m. Kryžiuočių ordino kariauna su Vytautu ir jo šalininkais rugsėjo 11 d. apsupo Trakų pilį."
   pagrindžia:
     - c-162598
+    - c-180876
 
 <a id="claim-t-179044"></a>
-- t-186
+- t-133
   global_id: t-179044
   teiginys: "XIII a. į prūsų žemes atsikraustęs vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus."
   pagrindžia:
     - c-162660
+    - c-180675
 
 <a id="claim-t-179045"></a>
-- t-187
+- t-134
   global_id: t-179045
   teiginys: "Po Žygimanto Kęstutaičio mirties baigėsi ilgamečiai kryžiuočių puldinėjimai ir Prūsijos ordino įtaka Lietuvos likimui."
   pagrindžia:
     - c-162702
-
-<a id="claim-t-179047"></a>
-- t-188
-  global_id: t-179047
-  teiginys: "1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė Kauno pilį Nemuno ir Neries santakoje."
-  pagrindžia:
-    - c-162606
-
-<a id="claim-t-179048"></a>
-- t-189
-  global_id: t-179048
-  teiginys: "Gediminas laiške popiežiui ir kardinolams kryžiuočių magistro smurtą siejo su Mindaugo atsitraukimu nuo krikščionybės."
-  pagrindžia:
-    - c-162772
+    - c-180821
 
 <a id="claim-t-179050"></a>
-- t-190
+- t-136
   global_id: t-179050
   teiginys: "Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė."
   pagrindžia:
     - c-162770
+    - c-180819
 
 <a id="claim-t-179052"></a>
-- t-191
+- t-137
   global_id: t-179052
   teiginys: "Po Lietuvos krikšto popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva."
   pagrindžia:
     - c-162502
-
-<a id="claim-t-179054"></a>
-- t-192
-  global_id: t-179054
-  teiginys: "Vytautas paėmė nelaisvėn sunaikintose Ordino pilyse buvusius Ordino karius ir pirklius."
-  pagrindžia:
-    - c-162491
+    - c-180863
 
 <a id="claim-t-179057"></a>
-- t-193
+- t-138
   global_id: t-179057
   teiginys: "Ordino riteriai Liubeke siūlė prieš sprendimą dėl Lietuvos krikšto pirmiausia pasiųsti į Lietuvą pasiuntinius."
   pagrindžia:
     - c-162816
-
-<a id="claim-t-179061"></a>
-- t-194
-  global_id: t-179061
-  teiginys: "Kai Žemaičių nepavyko įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas sėkmingai kišosi."
-  pagrindžia:
-    - c-162679
+    - c-180901
 
 <a id="claim-t-179062"></a>
-- t-195
+- t-139
   global_id: t-179062
   teiginys: "Paaštrėjus santykiams su Kryžiuočių ordinu, Vytautas parėmė žemaičius, o šie išvarė kryžiuočius iš savo krašto."
   pagrindžia:
     - c-46320
-
-<a id="claim-t-179063"></a>
-- t-196
-  global_id: t-179063
-  teiginys: "Balińskis kryžiuočių grobuoniškumą laikė viena ilgalaikių kliūčių Lietuvos pažangai."
-  pagrindžia:
-    - c-162549
-
-<a id="claim-t-179064"></a>
-- t-197
-  global_id: t-179064
-  teiginys: "1410 m. Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną."
-  pagrindžia:
-    - c-162646
+    - c-180845
 
 <a id="claim-t-179066"></a>
-- t-198
+- t-140
   global_id: t-179066
   teiginys: "1408-1414 m. kovose su kryžiuočiais Lietuvos monarcho pastangos buvo nukreiptos į Prūsijos ordino pajėgų silpninimą."
   pagrindžia:
     - c-162650
+    - c-180902
 
 <a id="claim-t-179067"></a>
-- t-199
+- t-141
   global_id: t-179067
   teiginys: "Lucko suvažiavime Vokiečių ordinas rėmė Vytauto vainikavimo planą kaip atsvarą Lenkijai regione."
   pagrindžia:
     - c-162531
+    - c-180792
 
 <a id="claim-t-179069"></a>
-- t-200
+- t-142
   global_id: t-179069
   teiginys: "Vytautas Prūsuose išmoko suktos, bet realios Ordino politikos, kurią vėliau taikė santykiuose su kaimynais."
   pagrindžia:
     - c-162726
+    - c-180794
 
 <a id="claim-t-179070"></a>
-- t-201
+- t-143
   global_id: t-179070
   teiginys: "Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo."
   pagrindžia:
     - c-162486
+    - c-180668
 
 <a id="claim-t-179071"></a>
-- t-202
+- t-145
   global_id: t-179071
   teiginys: "Brolis Gerhardas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir pradėjo tyrą gyvenimą."
   pagrindžia:
     - c-162582
-
-<a id="claim-t-179072"></a>
-- t-203
-  global_id: t-179072
-  teiginys: "1409 m. Kryžiuočių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus."
-  pagrindžia:
-    - c-13398
+    - c-180771
 
 <a id="claim-t-179073"></a>
-- t-204
+- t-146
   global_id: t-179073
   teiginys: "Vokiečių ordinas trukdė Vytautui pastatyti Lietuvą Europos katalikiškųjų šalių greton."
   pagrindžia:
     - c-162657
-
-<a id="claim-t-179074"></a>
-- t-205
-  global_id: t-179074
-  teiginys: "Kryžiuočių ordinas niokojamaisiais žygiais siekė palaužti pagonių kraštą, užvaldyti jį ir ypač spaudė Žemaičius."
-  pagrindžia:
-    - c-31126
+    - c-180673
 
 <a id="claim-t-179075"></a>
-- t-206
+- t-147
   global_id: t-179075
   teiginys: "Vokiečių ordino magistrui uždraudus į Lietuvą įvežti druską, Vytautas liepė vokiečių pirkliams iki Sekminių išvykti iš Lietuvos."
   pagrindžia:
     - c-162555
+    - c-180776
 
 <a id="claim-t-179076"></a>
-- t-207
+- t-148
   global_id: t-179076
   teiginys: "Ordino riteriai pasinaudojo Gedimino valdų suskaidymu, kuris, anot šaltinio, susilpnino krašto galią."
   pagrindžia:
     - c-162661
+    - c-180945
 
 <a id="claim-t-179077"></a>
-- t-208
+- t-149
   global_id: t-179077
   teiginys: "1422 m. Vilniui leista laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą."
   pagrindžia:
     - c-162514
-
-<a id="claim-t-179078"></a>
-- t-209
-  global_id: t-179078
-  teiginys: "Kryžiuočiai sudarė kliūčių Lietuvai siekiant įeiti į krikščioniškąją bendruomenę ir gauti Bažnyčios patvirtinimą."
-  pagrindžia:
-    - c-162652
-
-<a id="claim-t-179079"></a>
-- t-210
-  global_id: t-179079
-  teiginys: "Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija."
-  pagrindžia:
-    - c-162613
-
-<a id="claim-t-179081"></a>
-- t-211
-  global_id: t-179081
-  teiginys: "1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį."
-  pagrindžia:
-    - c-162785
-    - c-162813
-
-<a id="claim-t-179082"></a>
-- t-212
-  global_id: t-179082
-  teiginys: "Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis Jogailą priversti nesitraukti nuo didelių pažadų."
-  pagrindžia:
-    - c-162634
-
-<a id="claim-t-179083"></a>
-- t-213
-  global_id: t-179083
-  teiginys: "Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti jiems kelią."
-  pagrindžia:
-    - c-162503
-
-<a id="claim-t-179085"></a>
-- t-214
-  global_id: t-179085
-  teiginys: "Iki Tannenbergo kautynių kryžiuočiai Vakarų Europai pristatydavo lietuvius kaip pavojingus rytų saracėnus."
-  pagrindžia:
-    - c-162585
+    - c-180740
 
 <a id="claim-t-179086"></a>
-- t-215
+- t-150
   global_id: t-179086
   teiginys: "XIII a. į Prūsiją atsikėlęs Vokiečių ordinas pirmiausia pavergė prūsus."
   pagrindžia:
     - c-162578
+    - c-180728
 
 <a id="claim-t-179087"></a>
-- t-216
+- t-151
   global_id: t-179087
   teiginys: "1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų."
   pagrindžia:
     - c-162709
+    - c-180936
 
 <a id="claim-t-179088"></a>
-- t-217
+- t-152
   global_id: t-179088
   teiginys: "1390 m. sausio 19 d. netoli Gardino pilies Ordino komtūras sudarė sutartį su Vytautu."
   pagrindžia:
     - c-162790
-
-<a id="claim-t-179091"></a>
-- t-218
-  global_id: t-179091
-  teiginys: "Pratarmėje Petras Dusburgietis pranašo Danieliaus žodžius panaudojo Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti."
-  pagrindžia:
-    - c-162723
-
-<a id="claim-t-179092"></a>
-- t-219
-  global_id: t-179092
-  teiginys: "Kryžiuočiai blokavo patekimą į Lietuvą, sudarė sutartį su Didžiuoju Naugardu prieš Gediminą ir juodino jį krikščionių valdovams."
-  pagrindžia:
-    - c-162508
-
-<a id="claim-t-179094"></a>
-- t-220
-  global_id: t-179094
-  teiginys: "Ivinskio vertinimu, jei Mindaugo dokumentai būtų autentiški, Vokiečių ordinas būtų be saiko išnaudojęs draugystę su Mindaugu."
-  pagrindžia:
-    - c-162530
+    - c-180919
 
 <a id="claim-t-179097"></a>
-- t-221
+- t-153
   global_id: t-179097
   teiginys: "Kryžiuočių magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš akių."
   pagrindžia:
     - c-162533
+    - c-180807
 
 <a id="claim-t-179099"></a>
-- t-222
+- t-154
   global_id: t-179099
   teiginys: "Vytautas Kaune be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus."
   pagrindžia:
     - c-36845
 
 <a id="claim-t-179101"></a>
-- t-223
+- t-155
   global_id: t-179101
   teiginys: "Marijos Mergelės ordino nariai nešiojo baltus apsiaustus su juodu kryžiumi, todėl Lietuvoje dažnai vadinti kryžiuočiais."
   pagrindžia:
     - c-13394
+    - c-180778
 
 <a id="claim-t-179102"></a>
-- t-224
+- t-156
   global_id: t-179102
   teiginys: "Ordino kariuomenė, sudaryta iš pėstininkų, raitelių ir artilerijos, buvo geresnė už lietuvių ir lenkų sąjungininkų kariuomenes."
   pagrindžia:
     - c-162510
+    - c-180843
 
 <a id="claim-t-179103"></a>
-- t-225
+- t-157
   global_id: t-179103
   teiginys: "Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį."
   pagrindžia:
     - c-162540
-
-<a id="claim-t-179104"></a>
-- t-226
-  global_id: t-179104
-  teiginys: "XIV a. pabaigoje Kryžiuočių ordino Lietuvos kelių aprašymuose Aukštaitijoje minėta 18 didžiojo kunigaikščio dvarų."
-  pagrindžia:
-    - c-162482
+    - c-180795
 
 <a id="claim-t-179105"></a>
-- t-227
+- t-158
   global_id: t-179105
   teiginys: "Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu, o didysis magistras ėmė ruoštis naujam žygiui į Lietuvą."
   pagrindžia:
     - c-162818
-
-<a id="claim-t-179107"></a>
-- t-228
-  global_id: t-179107
-  teiginys: "XIV a. nuolatiniai Ordino žygiai į Lietuvą vertė kraštą gyventi lyg nuolatinio karo stovykloje."
-  pagrindžia:
-    - c-162736
+    - c-180700
 
 <a id="claim-t-179108"></a>
-- t-229
+- t-159
   global_id: t-179108
   teiginys: "231 Kryžiuočiai puolė 1233 m. spalio-lapkričio mėn."
   pagrindžia:
     - c-162710
+    - c-180880
 
 <a id="claim-t-179109"></a>
-- t-230
+- t-160
   global_id: t-179109
   teiginys: "Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę."
   pagrindžia:
     - c-162733
-
-<a id="claim-t-179111"></a>
-- t-231
-  global_id: t-179111
-  teiginys: "Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti, kai Henrikas von Plauen Marienburge surinko apie 5000 vyrų įgulą."
-  pagrindžia:
-    - c-31142
+    - c-166529
+    - c-180900
+    - c-180786
 
 <a id="claim-t-179114"></a>
-- t-232
+- t-161
   global_id: t-179114
   teiginys: "Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius."
   pagrindžia:
     - c-162577
+    - c-180839
 
 <a id="claim-t-179115"></a>
-- t-233
+- t-162
   global_id: t-179115
   teiginys: "Per Vilniaus apsuptį kryžiuočių kariaunoje plito ligos, nes ji stovyklavo po atviru dangumi ir buvo nusilpusi."
   pagrindžia:
     - c-162607
 
-<a id="claim-t-179117"></a>
-- t-234
-  global_id: t-179117
-  teiginys: "Prūsų Ordinas savinosi kovotojo su netikinčiaisiais garbę, kuri, remiant Vytauto planus, turėjo atitekti Vytautui."
-  pagrindžia:
-    - c-162571
-
 <a id="claim-t-179118"></a>
-- t-235
+- t-163
   global_id: t-179118
   teiginys: "Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi grąžinti Rygos Bažnyčiai paimtą turtą ir jos nebepuldinėti."
   pagrindžia:
     - c-162722
+    - c-180831
 
 <a id="claim-t-179119"></a>
-- t-236
+- t-164
   global_id: t-179119
   teiginys: "Kryžiuočių ordino broliai perdavė Sartovicų pilį Samborui, o vėliau Sventopelkas pradėjo statyti Svečės pilį."
   pagrindžia:
     - c-162762
+    - c-180671
 
 <a id="claim-t-179120"></a>
-- t-237
+- t-165
   global_id: t-179120
   teiginys: "Rygos pasiuntiniai pranešė popiežiui, kad Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti taikai."
   pagrindžia:
     - c-162541
-
-<a id="claim-t-179122"></a>
-- t-238
-  global_id: t-179122
-  teiginys: "Baigos ir kitų pilių Ordino broliai laikėsi griežtų vienuoliškų regulų ir dažnai atlikdavo atgailos praktikas."
-  pagrindžia:
-    - c-162791
-
-<a id="claim-t-179123"></a>
-- t-239
-  global_id: t-179123
-  teiginys: "1385 m. didžiojo magistro Konrado Ciolnerio žygis buvo paskutinis Ordino smūgis pagoniškai Lietuvai."
-  pagrindžia:
-    - c-162783
+    - c-180934
 
 <a id="claim-t-179124"></a>
-- t-240
+- t-166
   global_id: t-179124
   teiginys: "Prūsuose Vytautas išmoko vokiečių kalbos, kryžiuočių disciplinos, administracijos ir karo mokslų."
   pagrindžia:
     - c-162515
-
-<a id="claim-t-179125"></a>
-- t-241
-  global_id: t-179125
-  teiginys: "1431 m. Švitrigaila užmezgė ryšius su abiem Vokiečių ordino šakomis, kai Lenkija negrąžino Podolės."
-  pagrindžia:
-    - c-46325
-
-<a id="claim-t-182899"></a>
-- t-242
-  global_id: t-182899
-  teiginys: "Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių."
-  pagrindžia:
-    - c-166303
-
-<a id="claim-t-183144"></a>
-- t-243
-  global_id: t-183144
-  teiginys: "Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę."
-  pagrindžia:
-    - c-166529
-
-<a id="claim-t-183883"></a>
-- t-244
-  global_id: t-183883
-  teiginys: "Petras Dusburgietis savo knygoje surašė Ordino brolių karus ir ją užbaigė 1326 metais."
-  pagrindžia:
-    - c-167268
-
-<a id="claim-t-183884"></a>
-- t-245
-  global_id: t-183884
-  teiginys: "Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę."
-  pagrindžia:
-    - c-162507
-
-<a id="claim-t-183885"></a>
-- t-246
-  global_id: t-183885
-  teiginys: "Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI."
-  pagrindžia:
-    - c-167270
-
-<a id="claim-t-184219"></a>
-- t-247
-  global_id: t-184219
-  teiginys: "Kol lenkai dar rikiavosi, Kryžiuočių ordino kariuomenė buvo sustatyta į dvi eiles."
-  pagrindžia:
-    - c-167604
-
-<a id="claim-t-184488"></a>
-- t-248
-  global_id: t-184488
-  teiginys: "Kojelavičiaus vertinimu, Jogailos slaptieji sandėriai su kryžiuočiais buvo morališkai nepateisinami, nors Jogaila nusipelnė lenkų pagarbos."
-  pagrindžia:
-    - c-167849
-
-<a id="claim-t-184489"></a>
-- t-249
-  global_id: t-184489
-  teiginys: "Gedimino laikais kryžiuočiai iš pamatų sugriovė Romove vadintą sodybą, vėliau tapusią Krivės Krivaičio būstine."
-  pagrindžia:
-    - c-167850
+    - c-180866
 
 <a id="claim-t-184490"></a>
-- t-250
+- t-167
   global_id: t-184490
   teiginys: "Mūšyje Livonijos kariuomenė buvo sutriuškinta, žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir 150 ordino riterių."
   pagrindžia:
     - c-167851
 
-<a id="claim-t-184491"></a>
-- t-251
-  global_id: t-184491
-  teiginys: "Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai."
-  pagrindžia:
-    - c-167852
-
 <a id="claim-t-184492"></a>
-- t-252
+- t-168
   global_id: t-184492
   teiginys: "Po kelių sėkmingų žygių prieš kryžiuočius prūsų padėtis sustiprėjo, nes jiems buvo pasirengę padėti lietuvių ir žemaičių būriai."
   pagrindžia:
     - c-167853
 
 <a id="claim-t-184493"></a>
-- t-253
+- t-169
   global_id: t-184493
   teiginys: "Sūduvos prūsai ir žemaičiai prie Liubavos neišdrįso stoti į atvirą mūšį su kryžiuočiais ir pabėgo, palikę stovyklą bei gurguoles."
   pagrindžia:
     - c-167854
 
 <a id="claim-t-184494"></a>
-- t-254
+- t-170
   global_id: t-184494
   teiginys: "Atvirame lauke lietuviai laimėjo kautynes su kryžiuočiais, o mūšyje žuvo ordino magistras Burchardas Aremas ir trisdešimt riterių."
   pagrindžia:
     - c-167855
 
 <a id="claim-t-184495"></a>
-- t-255
+- t-171
   global_id: t-184495
   teiginys: "Karaliaučiaus komtūras Bertoldas Briuhavenas su Prūsijos kryžiuočių daliniu Livonijoje sumušė apgulties išsekintus lietuvius."
   pagrindžia:
     - c-167856
 
 <a id="claim-t-184496"></a>
-- t-256
+- t-172
   global_id: t-184496
   teiginys: "Kryžiuočiai prie Veliuonos pastatė įtvirtinimus, įkurdino juose stiprias įgulas ir mėgino badu priversti pilėnus pasiduoti."
   pagrindžia:
     - c-167857
 
 <a id="claim-t-184498"></a>
-- t-257
+- t-173
   global_id: t-184498
   teiginys: "Kryžiuočiai, negalėdami sustabdyti niokojimo nei klasta, nei jėga, ryžosi prašyti paliaubų."
   pagrindžia:
     - c-167859
 
 <a id="claim-t-184499"></a>
-- t-258
+- t-174
   global_id: t-184499
   teiginys: "Po ilgos Kauno pilies apsiausties kryžiuočiai pasikasė po sienomis, padegė pastatus ir palaužę gynėjų pasipriešinimą užėmė pilį."
   pagrindžia:
     - c-167860
 
 <a id="claim-t-184500"></a>
-- t-259
+- t-175
   global_id: t-184500
   teiginys: "Po Kauno pilies užėmimo kryžiuočiai trečią dieną sugriovė išlikusius įrenginius, išvertė sienų likučius, nukasė pylimus ir išlygino griovius."
   pagrindžia:
     - c-167861
 
 <a id="claim-t-184501"></a>
-- t-260
+- t-176
   global_id: t-184501
   teiginys: "Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama nusiaubė Lietuvą, sunaikindamas Ariogalos, Pernaravos ir Labūnavos žemes."
   pagrindžia:
     - c-167862
 
-<a id="claim-t-184502"></a>
-- t-261
-  global_id: t-184502
-  teiginys: "Vytautas užėmė Ritersverderį, įsakė išžudyti nelaisvėn patekusius vokiečių pirklius bei karius, o žymesnius kryžiuočius išsivedė su savimi."
-  pagrindžia:
-    - c-167863
-
 <a id="claim-t-184503"></a>
-- t-262
+- t-177
   global_id: t-184503
   teiginys: "Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotos Lietuvos daliai palengvinti."
   pagrindžia:
     - c-167864
 
 <a id="claim-t-184504"></a>
-- t-263
+- t-178
   global_id: t-184504
   teiginys: "Kryžiuočiai Ragainėje užpuolė pagal sutartį ramiai gyvenusius lietuvių pirklius, vienus nužudė, o iš kitų atėmė visą turtą."
   pagrindžia:
     - c-167865
 
 <a id="claim-t-184505"></a>
-- t-264
+- t-179
   global_id: t-184505
   teiginys: "1409 m. kryžiuočių žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, grasindamas paskelbti Lietuvai karą."
   pagrindžia:
     - c-167866
 
 <a id="claim-t-184506"></a>
-- t-265
+- t-180
   global_id: t-184506
   teiginys: "Seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius, kad šis skatintų magistrą draugiškai baigti ginčą su Vytautu."
   pagrindžia:
     - c-167867
 
 <a id="claim-t-184507"></a>
-- t-266
+- t-181
   global_id: t-184507
   teiginys: "1418 m. Veliuonos susitikimas nedavė naudos, nes kryžiuočiai atmetė taikos sąlygas ir reikalavo visos Žemaitijos."
   pagrindžia:
     - c-167868
 
 <a id="claim-t-184508"></a>
-- t-267
+- t-182
   global_id: t-184508
   teiginys: "Medžiodamas prie Veliuonos karalius vos nepakliuvo į kryžiuočių pasalą, kurią surengė Rastenburgo komtūras."
   pagrindžia:
     - c-167869
 
-<a id="claim-t-184509"></a>
-- t-268
-  global_id: t-184509
-  teiginys: "Jogaila ir Vytautas, įsiveržę į Prūsiją su lenkų ir lietuvių kariuomenėmis, siekė pergalingai užbaigti ilgą karą su kryžiuočiais."
-  pagrindžia:
-    - c-167870
-
 <a id="claim-t-184510"></a>
-- t-269
+- t-183
   global_id: t-184510
-  teiginys: "Torunės komtūras, kryžiuočių pasiųstas pas Boleslovą, kurstė brolių nesantaiką ir skatino Švitrigailą nesibaiminti karo su lenkais."
+  teiginys: "Pasak Kojelavičiaus, Torunės komtūras, kryžiuočių pasiųstas pas Boleslovą, kurstė brolių nesantaiką ir drąsino Švitrigailą."
   pagrindžia:
     - c-167871
 
-<a id="claim-t-184511"></a>
-- t-270
-  global_id: t-184511
-  teiginys: "Torunės komtūras Liudvikas su trimis kryžiuočių riteriais gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas."
-  pagrindžia:
-    - c-167872
-
 <a id="claim-t-184512"></a>
-- t-271
+- t-184
   global_id: t-184512
   teiginys: "Karalius paprašė atidėti svarstymą, teigdamas, kad svarbiam reikalui aptarti reikia laiko, kurio trūksta dėl karo su kryžiuočiais."
   pagrindžia:
     - c-167873
 
 <a id="claim-t-184513"></a>
-- t-272
+- t-185
   global_id: t-184513
   teiginys: "Liuterio sektai paplitus Prūsijoje, kryžiuočių ordino pareigūnai laužė įžadus, atsisakė Romos tikėjimo ir pradėjo tuoktis."
   pagrindžia:
     - c-167874
 
-<a id="claim-t-187711"></a>
-- t-273
-  global_id: t-187711
-  teiginys: "Narimantas Glėbas 1348 m. vasario 2 d. žuvo mūšyje su Kryžiuočių ordinu ties Strėva."
-  pagrindžia:
-    - c-170650
-
-<a id="claim-t-187712"></a>
-- t-274
-  global_id: t-187712
-  teiginys: "1380 m. Jogaila sudarė dvi sutartis su kryžiuočiais: paliaubas su Livonijos ordinu ir Dovydiškių sutartį su Prūsijos kryžiuočiais."
-  pagrindžia:
-    - c-170651
-
 <a id="claim-t-187713"></a>
-- t-275
+- t-187
   global_id: t-187713
-  teiginys: "Kryžiuočiai 1411 m. Torūnės taika atsisakė Žemaitijos tik iki Jogailos ir Vytauto mirties, o galutinai jos atsisakė 1422 m. Melno taika."
+  teiginys: "Kryžiuočiai 1411 m. Torūnės taika Žemaitijos atsisakė tik iki Jogailos ir Vytauto mirties, o galutinai ją pripažino 1422 m. Melno taika."
   pagrindžia:
     - c-170652
+    - c-180793
 
 <a id="claim-t-188208"></a>
-- t-276
+- t-188
   global_id: t-188208
   teiginys: "XIV a. pradžioje kryžiuočiai apgulė Veliuonos pilį, o negalėdami jos paimti priešais pastatė Fridburgą ir Bajerburgą."
   pagrindžia:
     - c-171102
 
 <a id="claim-t-188209"></a>
-- t-277
+- t-189
   global_id: t-188209
   teiginys: "1364 m. kryžiuočiai sudegino Veliuoną ir sugriovė jos pilį."
   pagrindžia:
     - c-171103
 
-<a id="claim-t-188210"></a>
-- t-278
-  global_id: t-188210
-  teiginys: "Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis Birutę pažino grįždamas iš žygio prieš kryžiuočius."
-  pagrindžia:
-    - c-171104
-
-<a id="claim-t-188211"></a>
-- t-279
-  global_id: t-188211
-  teiginys: "1247 m. kryžiuočiai jau valdė Pamedę, bet dėl kovų neturėjo pakankamai laiko jos vidaus sutvarkymui."
-  pagrindžia:
-    - c-171105
-
-<a id="claim-t-188213"></a>
-- t-280
-  global_id: t-188213
-  teiginys: "Hartknocho pastaba Narbutas sieja Senosios Torunės įkūrimą su vieta, kurią kryžiuočiai paėmė įžengdami į Prūsus."
-  pagrindžia:
-    - c-171107
-
-<a id="claim-t-188214"></a>
-- t-281
-  global_id: t-188214
-  teiginys: "Narbutas mano, kad vyriausiųjų žynių sąrašas autentiškas, nes Prūsijos istorikai galėjo jį perimti iš Kryžiuočių ordino užrašų."
-  pagrindžia:
-    - c-171108
-
-<a id="claim-t-188215"></a>
-- t-282
-  global_id: t-188215
-  teiginys: "Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas 1265 m. pabėgo pas kryžiuočius ir buvo pakrikštytas."
-  pagrindžia:
-    - c-171109
-
-<a id="claim-t-188216"></a>
-- t-283
-  global_id: t-188216
-  teiginys: "Narbutas mini Hartknocho abejonę, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo."
-  pagrindžia:
-    - c-171110
-
-<a id="claim-t-188217"></a>
-- t-284
-  global_id: t-188217
-  teiginys: "Narbutas vertina, kad Kryžiuočių ordino kunigui kronikininkui buvo paranku lyginti krivį su popiežiumi."
-  pagrindžia:
-    - c-171111
-
-<a id="claim-t-188218"></a>
-- t-285
-  global_id: t-188218
-  teiginys: "Narbutas pabrėžia, kad Dusburgietis 1326 m. įteikė kroniką didžiajam magistrui praėjus maždaug šimtmečiui nuo kryžiuočių atsikraustymo."
-  pagrindžia:
-    - c-171112
-
-<a id="claim-t-188219"></a>
-- t-286
-  global_id: t-188219
-  teiginys: "Narbutas primena, kad Livonijos kryžiuočiai kariavo su krivičiais, o Livonijos broliai lankydavosi Karaliaučiuje."
-  pagrindžia:
-    - c-171113
-
-<a id="claim-t-190568"></a>
-- t-287
-  global_id: t-190568
-  teiginys: "Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios."
-  pagrindžia:
-    - c-173451
-
-<a id="claim-t-190569"></a>
-- t-288
-  global_id: t-190569
-  teiginys: "Narbutas Simoną Grunau vadina seniausiu žinomu šaltiniu ir pabrėžia, kad jis ne visuomet pagarbiai rašė apie kryžiuočius."
-  pagrindžia:
-    - c-173452
-
 <a id="claim-t-192415"></a>
-- t-289
+- t-190
   global_id: t-192415
   teiginys: "Teodoras Narbutas rašė, kad kryžiuočiai beveik iškapojo laisvę gynusius Sūduvos gyventojus, o likusius perkėlė į Sambiją."
   pagrindžia:
     - c-175209
+    - c-180789
 
 <a id="claim-t-192416"></a>
-- t-290
+- t-191
   global_id: t-192416
   teiginys: "Teodoro Narbuto teigimu, prieš prūsų tautos žlugimą Salavijoje apsigyveno daugiausia iš Lietuvos atsikėlę kryžiuočių žmonės."
   pagrindžia:
     - c-175210
+    - c-180687
 
 <a id="claim-t-192417"></a>
-- t-291
+- t-192
   global_id: t-192417
   teiginys: "Teodoro Narbuto aiškinimu, Henenbergerio užraše minima Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais, vėliava."
   pagrindžia:
     - c-175211
+    - c-180913
 
 <a id="claim-t-193097"></a>
-- t-292
+- t-193
   global_id: t-193097
   teiginys: "Popiežiui stojus už Gediminą ir už Lietuvą, imperatorius tyčia palaikė ordiną."
   pagrindžia:
     - c-175860
 
 <a id="claim-t-193098"></a>
-- t-293
+- t-194
   global_id: t-193098
   teiginys: "Todėl kryžiuočiai pristatė Žemaičiuose daugybę pilių (vieną pilį net patsai Vytautas jiems padėjo statyti)."
   pagrindžia:
     - c-00325
+    - c-180679
 
 <a id="claim-t-193099"></a>
-- t-294
+- t-195
   global_id: t-193099
   teiginys: "Gedimino ir Algirdo laikais giliai Lietuvoje Nemuno pakrantėmis kyšojusios vokiečių ordino pilys buvo nušluotos."
   pagrindžia:
     - c-175861
 
 <a id="claim-t-193100"></a>
-- t-295
+- t-196
   global_id: t-193100
   teiginys: "Be to, vakarų Europoje skleidžiamose kronikose vokiečių ordinas tyčia žemino lietuvius, norėdamas pateisinti savo nuolatinius kruvinus žygius ir tuo būdu prisivilioti sau į talką daugiau karingų Europos riterių."
   pagrindžia:
     - c-00326
+    - c-180766
 
 <a id="claim-t-193101"></a>
-- t-296
+- t-197
   global_id: t-193101
   teiginys: "Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai."
   pagrindžia:
     - c-13400
+    - c-180680
 
 <a id="claim-t-193102"></a>
-- t-297
+- t-198
   global_id: t-193102
   teiginys: "Ukmergės mūšio laimėjimas ne vien sustiprino Zigmanto valdžią, bet dar turėjo didelę reikšmę ir Lietuvos santykiams su ordinu."
   pagrindžia:
     - c-175862
 
 <a id="claim-t-193103"></a>
-- t-298
+- t-199
   global_id: t-193103
   teiginys: "Kazimiero laikais ordinas jau buvo visiškai susilpnėjęs, todėl nė nebegalvojo apie bet kokį karą."
   pagrindžia:
     - c-175863
 
 <a id="claim-t-193104"></a>
-- t-299
+- t-200
   global_id: t-193104
   teiginys: "Gal tik Lietuvos neprisidėjimas ir išgelbėjo ordiną."
   pagrindžia:
     - c-175864
 
-<a id="claim-t-193315"></a>
-- t-300
-  global_id: t-193315
-  teiginys: "Pasak metraštininkų, tada kryžiuočiai ėmę var toti geležinius vamzdžius, kurie, užtaisyti paraku ir sviediniais, purkšdami liepsnojantį paraką, be galo smarkiai ir su baisiu trenksmu išmeta sviedinį į prie šą."
-  pagrindžia:
-    - c-176043
-
-<a id="claim-t-194173"></a>
-- t-301
-  global_id: t-194173
-  teiginys: "Viename jų, skirtame popiežiui ir kardinolams, Gediminas prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist ro smurtas ir nesuskaičiuojamos išdavystės greit privertusios nuo jo atsimesti."
-  pagrindžia:
-    - c-162772
-
 <a id="claim-t-194326"></a>
-- t-302
+- t-201
   global_id: t-194326
   teiginys: "Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip didžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią ir tokią šlovę."
   pagrindžia:
     - c-162507
+    - c-180858
 
 <a id="claim-t-194570"></a>
-- t-303
+- t-202
   global_id: t-194570
   teiginys: "Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo Jono I prašomas, įsakė jį nukirsti."
   pagrindžia:
     - c-176970
+    - c-180877
 
 <a id="claim-t-194571"></a>
-- t-304
+- t-203
   global_id: t-194571
   teiginys: "Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant roje (ypač nuo Gedimino valdymo) Lietuvos galia ir jėga nepa prastai išaugo."
   pagrindžia:
     - c-176971
+    - c-180914
 
 <a id="claim-t-194863"></a>
-- t-305
+- t-204
   global_id: t-194863
   teiginys: "Kai 1253 metų pradžioje susiklostė draugiški Pamario kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis užkariauti Prūsiją."
   pagrindžia:
     - c-177259
+    - c-180705
+
+<a id="claim-t-196078"></a>
+- t-205
+  global_id: t-196078
+  teiginys: "Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas lietuvių ir žemaičių nesikišimo į prūsų karą."
+  pagrindžia:
+    - c-167853
+
+<a id="claim-t-196079"></a>
+- t-206
+  global_id: t-196079
+  teiginys: "Nusiaubę Kulmo kraštą, Sūduvos prūsai ir žemaičiai sustojo prie Liubavos, bet kryžiuočių puolami pasitraukė į miškus."
+  pagrindžia:
+    - c-167854
+
+<a id="claim-t-196080"></a>
+- t-207
+  global_id: t-196080
+  teiginys: "Kojelavičiaus perteiktoje kalboje rusai buvo lyginami su anksčiau lietuvių triuškintais kryžiuočių pulkais."
+  pagrindžia:
+    - c-178517
+
+<a id="claim-t-196081"></a>
+- t-208
+  global_id: t-196081
+  teiginys: "Po Kauno pilies užėmimo kryžiuočiai trečią dieną sugriovė išlikusius įrenginius, sienų likučius, pylimus ir griovius."
+  pagrindžia:
+    - c-167861
+
+<a id="claim-t-196082"></a>
+- t-209
+  global_id: t-196082
+  teiginys: "Kryžiuočiai užgrobė Vysla gabenamus grūdus ir juos išsivežė kitur."
+  pagrindžia:
+    - c-167865
+
+<a id="claim-t-196084"></a>
+- t-210
+  global_id: t-196084
+  teiginys: "Pasak Kojelavičiaus, Jogaila ir Vytautas siekė, kad kryžiuočiai po karo liktų ramūs, klusnūs arba draugiški."
+  pagrindžia:
+    - c-178518
+
+<a id="claim-t-196894"></a>
+- t-211
+  global_id: t-196894
+  teiginys: "Tai oficialus Kryžiuočių ordino valstybės kūrinys."
+  pagrindžia:
+    - c-178969
+
+<a id="claim-t-196895"></a>
+- t-212
+  global_id: t-196895
+  teiginys: "Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes, niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio."
+  pagrindžia:
+    - c-178970
+    - c-180847
+
+<a id="claim-t-196896"></a>
+- t-213
+  global_id: t-196896
+  teiginys: "Ir štai Teutonų ordino broliai pradėję su jais naują karą (II, 7)."
+  pagrindžia:
+    - c-162713
+    - c-180697
+
+<a id="claim-t-196898"></a>
+- t-214
+  global_id: t-196898
+  teiginys: "Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų feodalinių riterių žygių prieš musulmoniškąjį pasaulį."
+  pagrindžia:
+    - c-178971
+    - c-180885
+
+<a id="claim-t-196899"></a>
+- t-215
+  global_id: t-196899
+  teiginys: "Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į šią."
+  pagrindžia:
+    - c-178972
+    - c-180844
+
+<a id="claim-t-196901"></a>
+- t-216
+  global_id: t-196901
+  teiginys: "Garbingą ir naudingą vietą ordine užima dvasininkai, kurie taikos metu, visur pasklidę nelyginant kibirkštys, skatina brolius pasauliečius stropiai laikytis regulos, laiko pamaldas ir teikia sakramentus, o skubantiems į kruvinas žudynes vardan gyvenimo ar."
+  pagrindžia:
+    - c-162495
+    - c-180931
+
+<a id="claim-t-196904"></a>
+- t-217
+  global_id: t-196904
+  teiginys: "Apie vieną Sventopelko karį Sventopelko šeimynoje buvo vienas karys, kuriam Teutonų ordino broliai įvarė tokį siaubą, kad visas imdavo virpėti vos išgirdęs minint jų vardą."
+  pagrindžia:
+    - c-162760
+    - c-180855
+
+<a id="claim-t-196905"></a>
+- t-218
+  global_id: t-196905
+  teiginys: "Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną 288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP, 5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino pilis — Elbingą ir Baigą."
+  pagrindžia:
+    - c-178973
+    - c-180747
+
+<a id="claim-t-196906"></a>
+- t-219
+  global_id: t-196906
+  teiginys: "Henrikas Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas, ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus] piliai padegti."
+  pagrindžia:
+    - c-178974
+    - c-180951
+
+<a id="claim-t-197509"></a>
+- t-220
+  global_id: t-197509
+  teiginys: "Kryžiuočiams val dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi; apie ją žinome tik iš Dusburgo paminėto jos valsčiaus, vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir Raigardo2 3."
+  pagrindžia:
+    - c-175209
+    - c-180789
+
+<a id="claim-t-197510"></a>
+- t-221
+  global_id: t-197510
+  teiginys: "Tačiau, kai joje dar prieš bendrą prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi gyveno kryžiuočių, daugiausia iš Lietuvos atsikėlusių žmonių, dėl to ją ligi šiol vadina prūsų Lietuva."
+  pagrindžia:
+    - c-175210
+    - c-180687
+
+<a id="claim-t-198588"></a>
+- t-222
+  global_id: t-198588
+  teiginys: "Kryžiuočiai sudarė kliūčių Lietuvai siekiant įeiti į krikščioniškąją bendruomenę ir gauti Bažnyčios patvirtinimą."
+  pagrindžia:
+    - c-180926
+
+<a id="claim-t-198592"></a>
+- t-223
+  global_id: t-198592
+  teiginys: "1409 m. Kryžiuočių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus."
+  pagrindžia:
+    - c-180699
+
+<a id="claim-t-198595"></a>
+- t-224
+  global_id: t-198595
+  teiginys: "1431 m. Švitrigaila užmezgė ryšius su abiem Vokiečių ordino šakomis, kai Lenkija negrąžino Podolės."
+  pagrindžia:
+    - c-180752
+
+<a id="claim-t-198599"></a>
+- t-225
+  global_id: t-198599
+  teiginys: "Kryžiuočiai blokavo patekimą į Lietuvą, sudarė sutartį su Didžiuoju Naugardu prieš Gediminą ir juodino jį krikščionių valdovams."
+  pagrindžia:
+    - c-180862
+
+<a id="claim-t-198616"></a>
+- t-226
+  global_id: t-198616
+  teiginys: "Per visą XIV a. Vokiečių ordino pavojus skatino Lietuvą derėtis ir svarstyti priešo išpažįstamo tikėjimo priėmimą."
+  pagrindžia:
+    - c-180801
+
+<a id="claim-t-198624"></a>
+- t-227
+  global_id: t-198624
+  teiginys: "Baigos ir kitų pilių Ordino broliai laikėsi griežtų vienuoliškų regulų ir dažnai atlikdavo atgailos praktikas."
+  pagrindžia:
+    - c-180744
+
+<a id="claim-t-198625"></a>
+- t-228
+  global_id: t-198625
+  teiginys: "Prūsų ordinas priglausdavo lietuvių perbėgėlius, juos krikštydavo ir jų žemes priimdavo kaip vasalinius feodus."
+  pagrindžia:
+    - c-31122
+
+<a id="claim-t-198628"></a>
+- t-229
+  global_id: t-198628
+  teiginys: "Viename jų, skirtame popiežiui ir kardinolams, Gediminas prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist ro smurtas ir nesuskaičiuojamos išdavystės greit privertusios nuo jo atsimesti."
+  pagrindžia:
+    - c-180884
+
+<a id="claim-t-198634"></a>
+- t-230
+  global_id: t-198634
+  teiginys: "XIV a. nuolatiniai Ordino žygiai į Lietuvą vertė kraštą gyventi lyg nuolatinio karo stovykloje."
+  pagrindžia:
+    - c-180749
+
+<a id="claim-t-198637"></a>
+- t-231
+  global_id: t-198637
+  teiginys: "Kryžiuočiai laikė Vytautą priemone priversti Jogailą laikytis didelių pažadų Ordinui."
+  pagrindžia:
+    - c-180923
+
+<a id="claim-t-198638"></a>
+- t-232
+  global_id: t-198638
+  teiginys: "Ordino riteriai su šv. Jurgio vėliava puolė į mūšį, bet lietuvių buvo atremti ir patyrė didelių nuostolių."
+  pagrindžia:
+    - c-180729
+
+<a id="claim-t-198645"></a>
+- t-233
+  global_id: t-198645
+  teiginys: "Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti jiems kelią."
+  pagrindžia:
+    - c-180897
+
+<a id="claim-t-198646"></a>
+- t-243
+  global_id: t-198646
+  teiginys: "Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti, kai Henrikas von Plauen Marienburge surinko apie 5000 vyrų įgulą."
+  pagrindžia:
+    - c-31142
+
+<a id="claim-t-198647"></a>
+- t-244
+  global_id: t-198647
+  teiginys: "Klaipėdos pilis beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą."
+  pagrindžia:
+    - c-180770
+
+<a id="claim-t-198651"></a>
+- t-245
+  global_id: t-198651
+  teiginys: "Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių."
+  pagrindžia:
+    - c-180785
+    - c-180790
+
+<a id="claim-t-198656"></a>
+- t-246
+  global_id: t-198656
+  teiginys: "Kairysis kryžiuočių sparnas prieš lietuvių pulkus buvo sudarytas iš stiprių dalinių."
+  pagrindžia:
+    - c-180716
+
+<a id="claim-t-198658"></a>
+- t-247
+  global_id: t-198658
+  teiginys: "Hermanas Salza 1226 m. kovo mėnesį Riminyje išsirūpino imperatoriaus Fridricho II privilegiją Vokiečių ordino ateičiai rytuose."
+  pagrindžia:
+    - c-180928
+
+<a id="claim-t-198661"></a>
+- t-248
+  global_id: t-198661
+  teiginys: "Štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
+  pagrindžia:
+    - c-180864
+
+<a id="claim-t-198672"></a>
+- t-249
+  global_id: t-198672
+  teiginys: "XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose minėta 18 didžiojo kunigaikščio dvarų Aukštaitijoje."
+  pagrindžia:
+    - c-180753
+
+<a id="claim-t-198675"></a>
+- t-250
+  global_id: t-198675
+  teiginys: "XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose Aukštaitijoje minėta 18 didžiojo kunigaikščio dvarų."
+  pagrindžia:
+    - c-180753
+
+<a id="claim-t-198678"></a>
+- t-251
+  global_id: t-198678
+  teiginys: "Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti."
+  pagrindžia:
+    - c-180713
+
+<a id="claim-t-198679"></a>
+- t-252
+  global_id: t-198679
+  teiginys: "Mūšyje žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 Ordino brolių."
+  pagrindžia:
+    - c-180823
+
+<a id="claim-t-198685"></a>
+- t-253
+  global_id: t-198685
+  teiginys: "Ordinas išplėtė veiklą Lietuvos pasienyje ir netoli Gardino pastatė Naująjį Gardiną bei Metenburgą."
+  pagrindžia:
+    - c-180848
+
+<a id="claim-t-198686"></a>
+- t-254
+  global_id: t-198686
+  teiginys: "Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti priešui kelią."
+  pagrindžia:
+    - c-180897
+
+<a id="claim-t-198700"></a>
+- t-255
+  global_id: t-198700
+  teiginys: "Hermano vadovavimo metais popiežius ir imperatorius suteikė Kryžiuočių ordinui didelių privilegijų."
+  pagrindžia:
+    - c-180796
+
+<a id="claim-t-198705"></a>
+- t-256
+  global_id: t-198705
+  teiginys: "Didžiajam magistrui Verneriui kronika buvo reikalinga Ordinui keliamiems priekaištams atremti ir vidaus reformai įgyvendinti."
+  pagrindžia:
+    - c-180706
+
+<a id="claim-t-198706"></a>
+- t-257
+  global_id: t-198706
+  teiginys: "Balińskis kryžiuočių grobuoniškumą laikė viena ilgalaikių kliūčių Lietuvos pažangai."
+  pagrindžia:
+    - c-180887
+
+<a id="claim-t-198712"></a>
+- t-258
+  global_id: t-198712
+  teiginys: "Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti."
+  pagrindžia:
+    - c-180761
+
+<a id="claim-t-198713"></a>
+- t-259
+  global_id: t-198713
+  teiginys: "XIV a. pabaigoje Kryžiuočių ordino Lietuvos kelių aprašymuose Aukštaitijoje minėta 18 didžiojo kunigaikščio dvarų."
+  pagrindžia:
+    - c-180753
+
+<a id="claim-t-198716"></a>
+- t-260
+  global_id: t-198716
+  teiginys: "1249 m. prūsai, sulaužę taikos sutartį, nužudė 54 Kryžiuočių ordino brolius ir kitus su jais buvusius žmones."
+  pagrindžia:
+    - c-180694
+
+<a id="claim-t-198718"></a>
+- t-261
+  global_id: t-198718
+  teiginys: "1226 m. Riminyje Fridrichas II suteikė Vokiečių ordinui teisę tapti užkariausimos prūsų žemės savininku."
+  pagrindžia:
+    - c-180745
+
+<a id="claim-t-198724"></a>
+- t-262
+  global_id: t-198724
+  teiginys: "1380 m. Jogaila sudarė dvi sutartis su kryžiuočiais: paliaubas su Livonijos ordinu ir Dovydiškių sutartį su Prūsijos kryžiuočiais."
+  pagrindžia:
+    - c-180925
+
+<a id="claim-t-198726"></a>
+- t-263
+  global_id: t-198726
+  teiginys: "1362 m. pavasarį Prūsų kryžiuočiai, remiami Livonijos magistro ir svečių iš Vakarų, išgriovė Kauno pilį."
+  pagrindžia:
+    - c-180688
+
+<a id="claim-t-198729"></a>
+- t-264
+  global_id: t-198729
+  teiginys: "Jį didžiai vertino ir popiežius, ir imperatorius, nekalbant apie kitus kunigaikščius bei didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo savo Ordino garbei bei naudai."
+  pagrindžia:
+    - c-180796
+
+<a id="claim-t-198730"></a>
+- t-265
+  global_id: t-198730
+  teiginys: "Ordino kronikose 1345-1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
+  pagrindžia:
+    - c-180829
+
+<a id="claim-t-198735"></a>
+- t-266
+  global_id: t-198735
+  teiginys: "Ordino kronikose nurodyta, kad 1345–1382 m. buvo surengti 66 žygiai iš Prūsų ir 30 iš Livonijos."
+  pagrindžia:
+    - c-180760
+
+<a id="claim-t-198737"></a>
+- t-267
+  global_id: t-198737
+  teiginys: "Matomai Rygoje buvo įsitikinimas, kad kryžiuočiai Lietuvą greitai įveiks."
+  pagrindžia:
+    - c-180862
+
+<a id="claim-t-198738"></a>
+- t-268
+  global_id: t-198738
+  teiginys: "Kai Žemaičių nepavyko įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas kišosi."
+  pagrindžia:
+    - c-180784
+
+<a id="claim-t-198744"></a>
+- t-269
+  global_id: t-198744
+  teiginys: "1385 m. didžiojo magistro Konrado Ciolnerio žygis buvo paskutinis Ordino smūgis pagoniškai Lietuvai."
+  pagrindžia:
+    - c-180682
+
+<a id="claim-t-198748"></a>
+- t-271
+  global_id: t-198748
+  teiginys: "XIV a. trečiajame dešimtmetyje Vakarų Europoje pasigirdo kritiškų balsų Kryžiuočių ordino atžvilgiu."
+  pagrindžia:
+    - c-180905
+
+<a id="claim-t-198751"></a>
+- t-272
+  global_id: t-198751
+  teiginys: "Narbutas Simoną Grunau vadina seniausiu žinomu šaltiniu ir pabrėžia, kad jis ne visuomet pagarbiai rašė apie kryžiuočius."
+  pagrindžia:
+    - c-180751
+
+<a id="claim-t-198759"></a>
+- t-273
+  global_id: t-198759
+  teiginys: "Ivinskio vertinimu, jei Mindaugo dokumentai būtų autentiški, Vokiečių ordinas būtų be saiko išnaudojęs draugystę su Mindaugu."
+  pagrindžia:
+    - c-180727
+
+<a id="claim-t-198768"></a>
+- t-274
+  global_id: t-198768
+  teiginys: "Gedimino laiške popiežiui ir kardinolams teigta, kad Mindaugą nuo krikščionybės atstūmė kryžiuočių magistro smurtas ir išdavystės."
+  pagrindžia:
+    - c-180884
+
+<a id="claim-t-198771"></a>
+- t-275
+  global_id: t-198771
+  teiginys: "Prūsų Ordinas savinosi kovotojo su netikinčiaisiais garbę, kuri, remiant Vytauto planus, turėjo atitekti Vytautui."
+  pagrindžia:
+    - c-180779
+
+<a id="claim-t-198774"></a>
+- t-277
+  global_id: t-198774
+  teiginys: "Lietuvai siekiant Bažnyčios patvirtinimo, reikėjo įveikti kryžiuočių daromas kliūtis."
+  pagrindžia:
+    - c-180926
+
+<a id="claim-t-198780"></a>
+- t-278
+  global_id: t-198780
+  teiginys: "Kojalavičius pagoniškai Lietuvai skirtame tome lietuvių kovas su kryžiuočiais pateikė su pagarba lietuviams."
+  pagrindžia:
+    - c-180797
+
+<a id="claim-t-198783"></a>
+- t-279
+  global_id: t-198783
+  teiginys: "Ordino kronikose nurodyta, kad 1345–1382 m. įvyko 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
+  pagrindžia:
+    - c-180760
+
+<a id="claim-t-198787"></a>
+- t-282
+  global_id: t-198787
+  teiginys: "Lietuvos žemdirbystę trikdė nuolatiniai kryžiuočių užpuolimai, kurių kartais būdavo po keturis ar penkis per metus."
+  pagrindžia:
+    - c-180672
+
+<a id="claim-t-198813"></a>
+- t-283
+  global_id: t-198813
+  teiginys: "1362 m. pavasarį Prūsų kryžiuočiai su sąjungininkais išgriovė svarbią lietuvių pilį Kauną prie Nemuno ir Neries santakos."
+  pagrindžia:
+    - c-180688
+
+<a id="claim-t-198814"></a>
+- t-284
+  global_id: t-198814
+  teiginys: "Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą."
+  pagrindžia:
+    - c-180906
+
+<a id="claim-t-198815"></a>
+- t-285
+  global_id: t-198815
+  teiginys: "Ordino karų metu Lietuvos ūkis buvo smarkiai žalojamas."
+  pagrindžia:
+    - c-180834
+
+<a id="claim-t-198817"></a>
+- t-286
+  global_id: t-198817
+  teiginys: "Nuo Traidenio laikų karai su abiem Vokiečių ordino šakomis neigiamai veikė Lietuvos gyventojų prieaugį ir apgyvendinimą."
+  pagrindžia:
+    - c-31138
+
+<a id="claim-t-198821"></a>
+- t-287
+  global_id: t-198821
+  teiginys: "Vokiečių ordinas Prūsuose įsigijo didelius žemės plotus, juos kolonizavo ir, laimėjęs Vislos žiotis bei Pamarį, sustiprėjo."
+  pagrindžia:
+    - c-180906
+
+<a id="claim-t-198827"></a>
+- t-288
+  global_id: t-198827
+  teiginys: "Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios."
+  pagrindžia:
+    - c-180846
+
+<a id="claim-t-198834"></a>
+- t-289
+  global_id: t-198834
+  teiginys: "1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė Kauno pilį Nemuno ir Neries santakoje."
+  pagrindžia:
+    - c-180688
+
+<a id="claim-t-198835"></a>
+- t-290
+  global_id: t-198835
+  teiginys: "Kryžiuočių kairysis sparnas, sutelktas prieš dešiniajame sąjungininkų sparne stovėjusius lietuvių pulkus, buvo sudarytas iš stiprių dalinių."
+  pagrindžia:
+    - c-180716
+
+<a id="claim-t-198836"></a>
+- t-291
+  global_id: t-198836
+  teiginys: "Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių prisidėti prie Vytauto kariuomenės."
+  pagrindžia:
+    - c-180935
+
+<a id="claim-t-198842"></a>
+- t-292
+  global_id: t-198842
+  teiginys: "1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje."
+  pagrindžia:
+    - c-180896
+
+<a id="claim-t-198843"></a>
+- t-293
+  global_id: t-198843
+  teiginys: "Kai Žemaičių nepavyko įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas sėkmingai kišosi."
+  pagrindžia:
+    - c-180784
+
+<a id="claim-t-198846"></a>
+- t-294
+  global_id: t-198846
+  teiginys: "1237 m. Kryžiuočių ordino magistras su broliais Pagudėje pastatė pilį, pavadintą Elbingu."
+  pagrindžia:
+    - c-180924
+
+<a id="claim-t-198851"></a>
+- t-295
+  global_id: t-198851
+  teiginys: "Iki Tannenbergo kautynių kryžiuočiai Vakarų Europai pristatydavo lietuvius kaip pavojingus rytų „saracėnus“, bet kryžiaus karų šauksmas pamažu tilo."
+  pagrindžia:
+    - c-180772
+
+<a id="claim-t-198854"></a>
+- t-296
+  global_id: t-198854
+  teiginys: "Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis."
+  pagrindžia:
+    - c-180940
+
+<a id="claim-t-198861"></a>
+- t-297
+  global_id: t-198861
+  teiginys: "Vytautas siekė perimti Prūsų ordino savintą kovotojo su netikinčiaisiais šlovę, planuodamas nukariauti totorius."
+  pagrindžia:
+    - c-180779
+
+<a id="claim-t-198863"></a>
+- t-298
+  global_id: t-198863
+  teiginys: "Kryžiuočių ordinas niokojamaisiais žygiais siekė palaužti pagonių kraštą, užvaldyti jį ir ypač spaudė Žemaičius."
+  pagrindžia:
+    - c-31126
+
+<a id="claim-t-198868"></a>
+- t-299
+  global_id: t-198868
+  teiginys: "Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu."
+  pagrindžia:
+    - c-180933
+
+<a id="claim-t-198869"></a>
+- t-300
+  global_id: t-198869
+  teiginys: "Algirdas ir Kęstutis pradėjo derybas su Kryžiuočių ordinu, siekdami atokvėpio nuo tolesnių niokojimų."
+  pagrindžia:
+    - c-180872
+
+<a id="claim-t-198881"></a>
+- t-301
+  global_id: t-198881
+  teiginys: "Gediminas laiške popiežiui ir kardinolams kryžiuočių magistro smurtą siejo su Mindaugo atsitraukimu nuo krikščionybės."
+  pagrindžia:
+    - c-180884
+
+<a id="claim-t-198884"></a>
+- t-302
+  global_id: t-198884
+  teiginys: "Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis Jogailą priversti nesitraukti nuo didelių pažadų."
+  pagrindžia:
+    - c-180923
+
+<a id="claim-t-198888"></a>
+- t-303
+  global_id: t-198888
+  teiginys: "Algirdas ir Kęstutis pradėjo derybas su Ordinu, kad Lietuva galėtų pailsėti nuo tolesnių niokojimų."
+  pagrindžia:
+    - c-180872
+
+<a id="claim-t-198890"></a>
+- t-304
+  global_id: t-198890
+  teiginys: "XIV a. Vokiečių ordino pavojus skatino Lietuvą derėtis ir ieškoti būdo priimti priešo išpažįstamą tikėjimą."
+  pagrindžia:
+    - c-180801
+
+<a id="claim-t-198892"></a>
+- t-305
+  global_id: t-198892
+  teiginys: "Popiežius Celestinas III Jeruzalėje įkūrė Šventosios Marijos Teutonų ordino vienuolių ligoninę."
+  pagrindžia:
+    - c-180864
+
+<a id="claim-t-198893"></a>
+- t-306
+  global_id: t-198893
+  teiginys: "XIV a. nuolatiniai Kryžiuočių ordino žygiai į Lietuvą vertė kraštą gyventi tarsi nuolatinio karo stovykloje."
+  pagrindžia:
+    - c-180749
+
+<a id="claim-t-198896"></a>
+- t-307
+  global_id: t-198896
+  teiginys: "Iki Tannenbergo kautynių kryžiuočiai Vakarų Europai pristatydavo lietuvius kaip pavojingus rytų saracėnus."
+  pagrindžia:
+    - c-180860
+
+<a id="claim-t-198901"></a>
+- t-308
+  global_id: t-198901
+  teiginys: "1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį."
+  pagrindžia:
+    - c-180763
+    - c-180905
+
+<a id="claim-t-178813"></a>
+- t-018
+  global_id: t-178813
+  teiginys: 'Vytautas, siekdamas suardyti Lenkijos ir Ordino sąjungą, apskundė Ordiną Europai.'
+  pagrindžia:
+    - c-180755
+
+<a id="claim-t-178832"></a>
+- t-031
+  global_id: t-178832
+  teiginys: 'Kai Gedimino skundas pasiekė popiežių, Prūsijos dvasininkai laiškuose stojo ginti Kryžiuočių ordino.'
+  pagrindžia:
+    - c-180948
+
+<a id="claim-t-178874"></a>
+- t-059
+  global_id: t-178874
+  teiginys: 'XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
+  pagrindžia:
+    - c-180922
+
+<a id="claim-t-178875"></a>
+- t-060
+  global_id: t-178875
+  teiginys: 'Kronika turėjo būti oficialiu Ordino šlovės paminklu73.'
+  pagrindžia:
+    - c-180840
+
+<a id="claim-t-178878"></a>
+- t-063
+  global_id: t-178878
+  teiginys: 'Apgulus Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, Kryžiuočių ordino broliai kentė badą ir stygių.'
+  pagrindžia:
+    - c-180871
+
+<a id="claim-t-179054"></a>
+- t-083
+  global_id: t-179054
+  teiginys: 'Vytautas paėmė nelaisvėn sunaikintose Ordino pilyse buvusius Ordino karius ir pirklius.'
+  pagrindžia:
+    - c-180750
+
+<a id="claim-t-178982"></a>
+- t-122
+  global_id: t-178982
+  teiginys: 'Pasak Petro Dusburgiečio, sapne Švenčiausioji Mergelė Marija pasirodė su daugybe Teutonų namų ordino brolių.'
+  pagrindžia:
+    - c-180850
+
+<a id="claim-t-179001"></a>
+- t-135
+  global_id: t-179001
+  teiginys: 'Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną ir Redigerį Elnerį užimti Vilniaus.'
+  pagrindžia:
+    - c-180878
+
+<a id="claim-t-179014"></a>
+- t-144
+  global_id: t-179014
+  teiginys: 'Sužinoję apie Gedimino skundą popiežiui, Prūsijos minoritai ir abatai Paulius bei Jordanas stojo ginti kryžiuočių.'
+  pagrindžia:
+    - c-180948
+
+<a id="claim-t-179091"></a>
+- t-186
+  global_id: t-179091
+  teiginys: 'Pratarmėje Petras Dusburgietis pranašo Danieliaus žodžius panaudojo Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti.'
+  pagrindžia:
+    - c-180721
+
+<a id="claim-t-188210"></a>
+- t-234
+  global_id: t-188210
+  teiginys: 'Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis Birutę pažino grįždamas iš žygio prieš kryžiuočius.'
+  pagrindžia:
+    - c-180676
+
+<a id="claim-t-188211"></a>
+- t-235
+  global_id: t-188211
+  teiginys: '1247 m. kryžiuočiai jau valdė Pamedę, bet dėl kovų neturėjo pakankamai laiko jos vidaus sutvarkymui.'
+  pagrindžia:
+    - c-180806
+
+<a id="claim-t-188213"></a>
+- t-236
+  global_id: t-188213
+  teiginys: 'Hartknocho pastaba Narbutas sieja Senosios Torunės įkūrimą su vieta, kurią kryžiuočiai paėmė įžengdami į Prūsus.'
+  pagrindžia:
+    - c-180693
+
+<a id="claim-t-188214"></a>
+- t-237
+  global_id: t-188214
+  teiginys: 'Narbutas mano, kad vyriausiųjų žynių sąrašas autentiškas, nes Prūsijos istorikai galėjo jį perimti iš Kryžiuočių ordino užrašų.'
+  pagrindžia:
+    - c-180835
+
+<a id="claim-t-188215"></a>
+- t-238
+  global_id: t-188215
+  teiginys: 'Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas 1265 m. pabėgo pas kryžiuočius ir buvo pakrikštytas.'
+  pagrindžia:
+    - c-180950
+
+<a id="claim-t-188216"></a>
+- t-239
+  global_id: t-188216
+  teiginys: 'Narbutas mini Hartknocho abejonę, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo.'
+  pagrindžia:
+    - c-180859
+
+<a id="claim-t-188217"></a>
+- t-240
+  global_id: t-188217
+  teiginys: 'Narbutas vertina, kad Kryžiuočių ordino kunigui kronikininkui buvo paranku lyginti krivį su popiežiumi.'
+  pagrindžia:
+    - c-180893
+
+<a id="claim-t-188218"></a>
+- t-241
+  global_id: t-188218
+  teiginys: 'Narbutas pabrėžia, kad Dusburgietis 1326 m. įteikė kroniką didžiajam magistrui praėjus maždaug šimtmečiui nuo kryžiuočių atsikraustymo.'
+  pagrindžia:
+    - c-180818
+
+<a id="claim-t-188219"></a>
+- t-242
+  global_id: t-188219
+  teiginys: 'Narbutas primena, kad Livonijos kryžiuočiai kariavo su krivičiais, o Livonijos broliai lankydavosi Karaliaučiuje.'
+  pagrindžia:
+    - c-180939
+
+<a id="claim-t-196897"></a>
+- t-270
+  global_id: t-196897
+  teiginys: 'Vernerio prierašuose pabrėžiama, jog jie skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.'
+  pagrindžia:
+    - c-180922
+
+<a id="claim-t-196903"></a>
+- t-276
+  global_id: t-196903
+  teiginys: 'Šventoji mergelė jam atsakė: „Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti“.'
+  pagrindžia:
+    - c-180850
+
+<a id="claim-t-197186"></a>
+- t-280
+  global_id: t-197186
+  teiginys: 'Patys kryžiuočiai tą vietą visuomet palikdavo neliestą: viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug nies, degančios kiekvieną naktį, naudingumo jūrininkams.'
+  pagrindžia:
+    - c-180676
+
+<a id="claim-t-197187"></a>
+- t-281
+  global_id: t-197187
+  teiginys: 'Tasai senelis ir toliau nematė būdo, kaip prisidėti prie savo tautiečių gerovės; ėmė galvoti apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už kietėjusių savo savasties gynėjų - žynių ir liaudies, pabėgo pas kryžiuočius.'
+  pagrindžia:
+    - c-180835
 - susijęs iš [[objektai/asmenys/Paulius iš Olivos.md#claim-t-87818|Paulius iš Olivos]]: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.
 - susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-60210|Sudargas]]: Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176126|Žemaičiai]]: 1236 m. žemaičiai Saulės mūšyje atlaikė žygį, bet 1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.
 - susijęs iš Santoko pilis Dobrine: Naujame dokumente skelbta, kad Santoko pilis Dobrine, Drezdenka, Žemaičiai ir Sūduva turi priklausyti kryžiuočiams.
 - susijęs iš [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis).md#claim-t-87880|Venceslavas (Mazovijos ir Plocko kunigaikštis)]]: Venceslavas tuo tarpsniu valdė Mazoviją ir Plocką, o 1321 m. sudarė sutartį su kryžiuočių Ordinu.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179391|Livonijos ordinas]]: Nuo 1237 m. Livonijos ordinas buvo Kryžiuočių ordino šaka, bet faktiškai veikė atskirai ir vykdė savarankišką politiką.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176159|Žemaičiai]]: 1390 m. gegužės 26 d. trisdešimt žemaičių atstovų pasižadėjo laikytis Vytauto ir su Ordinu sudarė karo bei prekybos sutartį.
 - susijęs iš [[objektai/ivykiai/Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos.md#claim-t-66570|Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis)]]: 1382 m. Jogaila sutartimi su kryžiuočiais atidavė jiems Žemaičius iki Dubysos ir pasižadėjo per ketverius metus krikštytis.
 - susijęs iš Odojevas: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila patvirtino sutartį su Ordinu ir sustiprino ryšius su Odojevo kunigaikščiais.
 - susijęs iš [[objektai/asmenys/Isamas (Rygos arkivyskupas).md#claim-t-87518|Isamas (Rygos arkivyskupas)]]: Rygos arkivyskupui Isamui tarpininkaujant buvo sudaryta lietuvių taikos sutartis su Vokiečių ordinu.
@@ -2257,12 +2452,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89392|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: Dusburgietis nutylėjo Lietuvos kariuomenės dalyvavimą 1243 m. bendroje kovoje prieš Kryžiuočių ordiną.
 - susijęs iš [[objektai/ivykiai/Žalgirio mūšis (1410 m.).md#claim-t-183291|Žalgirio mūšis (1410 m.)]]: 1410 m. Žalgirio mūšyje jungtinė Lenkijos ir Lietuvos kariuomenė sutriuškino Vokiečių ordiną.
 - susijęs iš [[objektai/paprociai/Pavergtų prūsų vertimas dalyvauti Ordino žygiuose.md#claim-t-62707|Pavergtų prūsų vertimas dalyvauti Ordino žygiuose]]: Ordino valdžioje likę prūsai buvo verčiami dalyvauti Ordino žygiuose.
-- susijęs iš Anglija: Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos.
-- susijęs iš Anglija: Rugpjūtį, pasibaigus pasirengimui mūšiams Prūsijoje, atvyko savanorių iš Anglijos ir Prancūzijos.
 - susijęs iš Šešupė: Vytauto nustatytos Lietuvos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.
 - susijęs iš [[objektai/asmenys/Pršemyslas Otokaras II.md#claim-t-39630|Pršemyslas Otokaras II]]: Pršemyslas Otokaras II 1255 m. atvyko į pagalbą Ordinui ir inicijavo Karaliaučiaus pilies statybą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176667|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. liepos pabaigoje Vytautas Didysis ir Jogaila, nelaukdami Ordino užpuolimo, išžygiavo prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176699|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. liepos 15 d. Žalgirio mūšyje Vytautas Didysis vadovavo kovai su Vokiečių Ordinu ir jo sąjungininkais.
 - susijęs iš [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis).md#claim-t-40545|Zemovitas (Mozūrijos kunigaikštis)]]: 1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169682|Lietuvos Didžioji Kunigaikštija]]: Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169694|Lietuvos Didžioji Kunigaikštija]]: Lietuvos Didžiosios Kunigaikštijos atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.
@@ -2380,7 +2571,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176293|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176300|Algirdas (Lietuvos valdovas)]]: Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Andriejus (Vilniaus vyskupas).md#claim-t-35025|Andriejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Andriejus su Jogaila ir Vytautu, rodos, susitarė sudaryti taiką su Ordinu.
-- susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185998|Andrius Vingaudas]]: Jogaila pirmaisiais savo viešpatavimo metais įkalino Andrių Vingaudą, kuris buvo linkęs maištauti ir su kryžiuočių pagalba siekė valdžios.
+- susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185998|Andrius Vingaudas]]: Kojelavičiaus pasakojime Jogaila pirmaisiais savo viešpatavimo metais įkalino Andrių Vingaudą, linkusį į maištus ir siekusį valdžios su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Andrius Štirlandas.md#claim-t-18809|Andrius Štirlandas]]: Andrius Štirlandas buvo Livonijos ordino magistras, kurį Mindaugas patraukė į savo pusę pasinaudojęs Livonijos vidaus prieštaravimais.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-184046|Anonas (didysis magistras)]]: Anonas buvo septintasis Teutonų namų ordino didysis magistras ir mirė liepos 8 dieną.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60082|Anonas (didysis magistras)]]: Anonas buvo septintasis Teutonų namų ordino didysis magistras ir mirė liepos 8 dieną.
@@ -2400,7 +2591,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54967|Fridrichas (Rygos arkivyskupas)]]: Šaltinio pasakojime Rygos arkivyskupas kaltinamas Gedimino vardu parengęs ir išsiuntinėjęs laiškus prieš Kryžiuočių ordiną.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89711|Fridrichas (Rygos arkivyskupas)]]: Rygos arkivyskupą Fridrichą Ordino broliai klastingai išmetė iš bažnyčios.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89716|Fridrichas (Rygos arkivyskupas)]]: Balińskis manė, kad Rygos arkivyskupas Fridrichas Gedimino vardu parengė ir išsiuntinėjo laiškus prieš Kryžiuočių ordiną.
-- susijęs iš [[objektai/asmenys/Fridrichas (Rygos vyskupas).md#claim-t-186204|Fridrichas (Rygos vyskupas)]]: Rygos vyskupas Fridrichas bandė sutaikyti Livonijos ordiną ir Lietuvą, pasitelkęs popiežiaus Jono XXII autoritetą.
+- susijęs iš [[objektai/asmenys/Fridrichas (Rygos vyskupas).md#claim-t-186204|Fridrichas (Rygos vyskupas)]]: Fridrichas, Rygos vyskupas, bandė sutaikyti Livonijos ordiną ir Lietuvą, pasitelkdamas popiežiaus Jono XXII autoritetą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176341|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176345|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas popiežiui pareiškė esąs pasirengęs priimti krikščioniškąjį tikėjimą, jei neturės būti dėkingas Ordinui.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176353|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse prie Nemuno.
@@ -2473,8 +2664,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113908|Mindaugas (valdovas, XIII a.)]]: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113909|Mindaugas (valdovas, XIII a.)]]: 1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113923|Mindaugas (valdovas, XIII a.)]]: Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams, o Vakarų Europos parama Ordinui sustiprėjo.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113924|Mindaugas (valdovas, XIII a.)]]: Balińskis Gedimino laiškuose išskyrė užuominą apie karaliaus Mindaugo grįžimą prie pagonybės dėl Kryžiuočių ordino kaltės.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113929|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184787|Mindaugas (valdovas, XIII a.)]]: Mindaugas, atgavęs Žemaitiją ir Kuršą bei nusiaubęs Sembą, sukurstė Prūsijos žmones atsimesti nuo kryžiuočių.
 - susijęs iš [[objektai/asmenys/Mykolas (Kujavijos vyskupas).md#claim-t-60390|Mykolas (Kujavijos vyskupas)]]: Kujavijos vyskupas Mykolas buvo tarp liudytojų, dalyvavusių tvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/asmenys/Mykolas Kiuchmeisteris fon Štenbergas.md#claim-t-101696|Mykolas Kiuchmeisteris fon Štenbergas]]: 1413 m. sausio 28 d. Salyne prie Kauno maršalas Mykolas Kiuchmeisteris fon Štenbergas vadovavo Vokiečių ordino pasiuntinybei derybose.
@@ -2486,7 +2675,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Nameisis.md#claim-t-60394|Nameisis]]: 1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį.
 - susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-190960|Paulius Rusdorfas]]: Narbutas Paulių Rusdorfą vadino kryžiuočių magistru, 1436 m. su Vladislovu Varniečiu sudariusiu pasienio konvenciją.
 - susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87453|Paulius Rusdorfas]]: Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais.
-- susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-184818|Pelužis]]: Pelužio būrys buvo papildytas keliais miklesniais jo dvariškiais ir dvidešimčia kryžiuočių riterių.
 - susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59999|Pipinas]]: Pipinas buvo vienas pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją.
 - susijęs iš [[objektai/asmenys/Plihta.md#claim-t-87833|Plihta]]: 1322 m. žiemą Plihta su broliu iš Čekijos vedė vieną kryžiuočių ekspedicijos į Prūsiją pulką.
 - susijęs iš [[objektai/asmenys/Popiežius Celestinas III.md#claim-t-60480|Popiežius Celestinas III]]: Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę.
@@ -2504,7 +2692,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Ulrichas fon Jungingenas.md#claim-t-183764|Ulrichas fon Jungingenas]]: Žalgirio mūšyje žuvo didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 riterių ir tūkstančiai karių.
 - susijęs iš [[objektai/asmenys/Ulrichas fon Jungingenas.md#claim-t-40481|Ulrichas fon Jungingenas]]: Žalgirio mūšyje žuvo didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 riterių ir tūkstančiai karių.
 - susijęs iš [[objektai/asmenys/Ulrichas von Jungingenas.md#claim-t-184285|Ulrichas von Jungingenas]]: Didysis magistras Ulrichas von Jungingenas jojo šešiolikos į kovos lauką slenkančių kryžiuočių vėliavų priešakyje.
-- susijęs iš [[objektai/asmenys/Urbonas IV.md#claim-t-184850|Urbonas IV]]: Urbonas IV buvo išleidęs raštą, kuriuo ragino karalių ir kryžiuočių riterius laikytis taikos.
 - susijęs iš [[objektai/asmenys/Vaclovas Pragiečius.md#claim-t-34764|Vaclovas Pragiečius]]: Vaclovas Pragietis ginčą tarp Vytauto, Jogailos ir Ordino išsprendė Lietuvos nenaudai, atiduodamas Žemaitiją kryžiuočiams.
 - susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35304|Vaclovas Čekietis]]: 1392 m. Vaclovas Čekietis kartu su Zigmantu Vengriečiu ir Ordinu buvo tarp mėgintos sudaryti koalicijos prieš Lenkiją vyriausių vadų.
 - susijęs iš [[objektai/asmenys/Vaclovas.md#claim-t-28976|Vaclovas]]: Vaclovas už savo sprendimą iš kryžiuočių gavo keliasdešimt tūkstančių vengriškų raudonųjų.
@@ -2526,16 +2713,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05218|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Per 1384-1404 m. Vytautas keturis kartus raštu pažadėjo ordinui Žemaičius ir tiek pat kartų juos vėl susigrąžino.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05220|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1404 m. prie Lampėdžių Vytautas pažadėjo per dešimtį metų nepriiminėti iš ordino žemių činšininkų.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10104|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. Vytautas, suvienijęs jėgas su Jogailos vedama Lenkijos kariuomene, Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176667|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. liepos pabaigoje Vytautas Didysis ir Jogaila, nelaukdami Ordino užpuolimo, išžygiavo prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176675|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu būtinas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176679|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1384 m. Vytautas sudarė sutartį su Ordinu, kuris prisiekė atgauti jam atimtą tėvoniją.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176694|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis antrą kartą sulaužė sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176699|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. liepos 15 d. Žalgirio mūšyje Vytautas Didysis vadovavo kovai su Vokiečių Ordinu ir jo sąjungininkais.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176755|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Žalgirio mūšio rytą Vytautas siekė lemiamo mūšio, o Jogaila delsė, laukdamas Ordino pasiūlymo derėtis.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176760|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu būtinas.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176835|Vytenis (valdovas, XIII–XIV a.)]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184886|Vytenis (valdovas, XIII–XIV a.)]]: Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184892|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nedrįso stoti į atvirą kovą ir, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184892|Vytenis (valdovas, XIII–XIV a.)]]: Kojelavičiaus pasakojime Vytenis nedrįso stoti į atvirą kovą ir, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes.
 - susijęs iš [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis).md#claim-t-40545|Zemovitas (Mozūrijos kunigaikštis)]]: 1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.
 - susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-60471|Zemovitas]]: Zemovitas kartu su Boleslovu, Kazimieru ir Agota pritarė Konrado sprendimui Teutonų ordinui atiduoti Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Zenonas.md#claim-t-35392|Zenonas]]: Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet neįstengė.
@@ -2609,9 +2793,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175547|Kalavijuočių ordinas]]: 1236 m. Saulės mūšyje Lietuvos valstybės kariuomenė sutriuškino Kalavijuočių ordiną.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175548|Kalavijuočių ordinas]]: 1236 m. Saulės mūšyje lietuviai sutriuškino Kalavijuočių ordiną.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175550|Kalavijuočių ordinas]]: Kalavijuočių ordinas, bijodamas vienas neatsilaikyti, susidėjo su Prūsuose kariavusiu Kryžiuočių ordinu.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184563|Kalavijuočių ordinas]]: Mūšyje su lietuviais ordino kariuomenė buvo sutriuškinta, o pats magistras žuvo su beveik 20 ordino riterių.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184564|Kalavijuočių ordinas]]: Livonijos ordino ir Lietuvos sutaikymą bandė tarpininkauti Rygos vyskupas Fridrichas, pasitelkęs popiežiaus Jono XXII autoritetą.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184568|Kalavijuočių ordinas]]: Livonijos riterių magistras Vilhelmas Fiurstenbergas su beveik visu ordinu atsižadėjo Romos tikėjimo ir perėjo į Liuterio sektą.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-187730|Kalavijuočių ordinas]]: Komentare Andriui Algirdaičiui priskiriamas siekis atplėšti Polocką nuo LDK ir 1385 m. spalio 10 d. pasiduoti Livonijos ordinui kaip vasalui.
 - susijęs iš [[objektai/grupes/Karmelio kalno atsiskyrėlių ordinas.md#claim-t-88577|Karmelio kalno atsiskyrėlių ordinas]]: Karmelio kalno atsiskyrėlių ordiną patvirtino popiežius Honorijus.
 - susijęs iš [[objektai/grupes/Karmelio kalno atsiskyrėlių ordinas.md#claim-t-88578|Karmelio kalno atsiskyrėlių ordinas]]: Karmelio kalno atsiskyrėlių ordiną patvirtino popiežius Honorijus.
@@ -2619,7 +2801,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179181|Lenkai]]: Didžioji lenkų vėliava Žalgirio mūšyje pateko į kryžiuočių tarpą, bet lenkai ją atgavo įtraukus antrąją liniją.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179182|Lenkai]]: 1326 m. Gedimino raiteliai kartu su lenkais nuniokojo Brandenburgo žemę vakariau Kryžiuočių ordino valdų.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179207|Lenkai]]: Nauji Lenkijos pulkai ėmė pulti ilstančią kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
-- susijęs iš [[objektai/grupes/Lenčicos seimas.md#claim-t-185452|Lenčicos seimas (seimas)]]: Lenčicos seimas buvo sušauktas karaliui atleidus kryžiuočių žygūną.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179230|Lietuviai]]: Lietuvių kariuomenė grįžo į mūšį tuo metu, kai sėkmė jau sviro kryžiuočių pusėn.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179277|Lietuviai]]: Lietuviai slėpdavosi miškuose, rengdavo pasalas grįžtantiems kryžiuočiams ir keršydavo įsiverždami į Ordino kraštą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179289|Lietuviai]]: Lietuvių ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
@@ -2628,32 +2809,21 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/grupes/Lietuvos jungtinės pajėgos.md#claim-t-183660|Lietuvos jungtinės pajėgos]]: Lietuvos jungtines pajėgas prie Vorsklos sudarė lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamyšo totoriai, lenkų talkininkai, Kryžiuočių ordino kariai ir moldavai.
 - susijęs iš [[objektai/grupes/Lietuvos jungtinės pajėgos.md#claim-t-38824|Lietuvos jungtinės pajėgos]]: Lietuvos jungtines pajėgas sudarė lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamyšo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai ir moldavai.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179356|Livonijos ordinas]]: Maskvos ginklų sutriuškintas Livonijos ordino magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179358|Livonijos ordinas]]: Rygiečių „Sühnenbrief“ teigė, kad jų bendradarbiavimas su pagonimis ordinui atnešė didelių nuostolių ir persekiojimų.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179362|Livonijos ordinas]]: 1364 m. sausį Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179364|Livonijos ordinas]]: Kryžiuočiai siekė užkariauti Žemaitiją kaip sausumos jungtį su Livonijos ordinu.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179365|Livonijos ordinas]]: 1364 m. žiemą Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179370|Livonijos ordinas]]: Livonijos ordinas atskubėjo į pagalbą kryžiuočiams, o Vytautas turėjo trauktis Vilniaus link.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179371|Livonijos ordinas]]: Ordino kronikose 1345-1382 m. užregistruoti 66 žygiai į Lietuvą iš Prūsijos ir 30 iš Livonijos.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179375|Livonijos ordinas]]: Nuo Mindaugo krikšto Livonijos ordinas buvo įgijęs įtakos Lietuvos vidaus santykiams.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179377|Livonijos ordinas]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179379|Livonijos ordinas]]: Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179381|Livonijos ordinas]]: 1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179384|Livonijos ordinas]]: 1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179388|Livonijos ordinas]]: Gedimino vardu rašytų laiškų klastojimas citatoje siejamas su Rygos arkivyskupo ir Livonijos ordino brolių konfliktu.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179391|Livonijos ordinas]]: Nuo 1237 m. Livonijos ordinas buvo Kryžiuočių ordino šaka, bet faktiškai veikė atskirai ir vykdė savarankišką politiką.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179396|Livonijos ordinas]]: Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179398|Livonijos ordinas]]: Taikos sutartyje Livonijos ordino pusėje buvo minimi tarpininkai, tarp jų Rygos arkivyskupas, kapitula ir miesto atstovai.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179406|Livonijos ordinas]]: 1248 m. Mindaugo giminaičių opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179410|Livonijos ordinas]]: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179412|Livonijos ordinas]]: Lietuvos valdovai į kovą prieš Ordiną įtraukė visą Lietuvos Didžiąją Kunigaikštiją.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179414|Livonijos ordinas]]: Livonijos ordinas sudarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179417|Livonijos ordinas]]: 1260 m. liepos 13 d. Durbės mūšyje buvo sutriuškinta Livonijos ordino šaka, Prūsijos kryžiuočiai ir jų talkininkai.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179420|Livonijos ordinas]]: Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179421|Livonijos ordinas]]: Livonijos ordinas ir kariuomenė iš Prūsų atskubėjo kryžiuočiams į pagalbą, kai Vytautas puolė pilį atstatančius priešus.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179422|Livonijos ordinas]]: Rygai kritus, Gediminas neteko paramos prieš Livonijos ordiną, kuris beveik iki Gedimino valdymo pabaigos puldinėjo Lietuvą.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179429|Livonijos ordinas]]: Prūsų kryžiuočiams kariaujant su Lenkijos Kazimieru, Lietuvą puolė Livonijos ordinas.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179432|Livonijos ordinas]]: Ordino kronikose 1345-1382 m. užregistruota 30 žygių į Lietuvą iš Livonijos.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179435|Livonijos ordinas]]: Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.
 - susijęs iš [[objektai/grupes/Mokinių slėnio brolių ordinas.md#claim-t-89153|Mokinių slėnio brolių ordinas]]: Popiežius Honorijus patvirtino Mokinių slėnio brolių ordiną ir Karmelio kalno atsiskyrėlių ordiną.
 - susijęs iš [[objektai/grupes/Mokinių slėnio brolių ordinas.md#claim-t-89154|Mokinių slėnio brolių ordinas]]: Mokinių slėnio brolių ordiną patvirtino popiežius Honorijus III.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78402|Notangai]]: 1260 m. Klaipėdoje notangai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą.
@@ -2681,12 +2851,9 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/grupes/Vytauto šalininkai.md#claim-t-86741|Vytauto šalininkai]]: 1383 m. Vytautas ir jo šalininkai su kryžiuočių kariauna rugsėjo 11 d. apsupo Trakų pilį.
 - susijęs iš [[objektai/grupes/Čekijos husitai.md#claim-t-41207|Čekijos husitai]]: Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176116|Žemaičiai]]: Zenonas Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir Mindaugo karines pajėgas prieš Ordiną.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176120|Žemaičiai]]: Žemaičiai dėl ordino prievartos nekentė jo skelbtos katalikybės, o po krikšto dalis jų atkrisdavo į seną tikėjimą.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176126|Žemaičiai]]: 1236 m. žemaičiai Saulės mūšyje atlaikė žygį, bet 1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176131|Žemaičiai]]: 1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto gyventojai pareiškė Ordinui paklusnumą.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176148|Žemaičiai]]: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176157|Žemaičiai]]: Z. Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir karaliaus Mindaugo karines pajėgas prieš Ordiną.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176159|Žemaičiai]]: 1390 m. gegužės 26 d. trisdešimt žemaičių atstovų pasižadėjo laikytis Vytauto ir su Ordinu sudarė karo bei prekybos sutartį.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89339|Žiemgaliai]]: Žiemgaliai vėl sukilo nepakęsdami griežtos kryžiuočių valdžios.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89355|Žiemgaliai]]: Žiemgaliai vėl sukilo, nepakęsdami griežtos kryžiuočių valdžios.
 - susijęs iš [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu.md#claim-t-66423|1380 m. vasario paliaubos su Livonijos ordinu]]: 1380 m. vasarį Jogaila vienas sudarė paliaubas su Livonijos ordinu, iš jų išskirdamas Žemaičius ir kitas Kęstučio žemes.
@@ -2710,13 +2877,11 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime.md#claim-t-62788|Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime (krikštas)]]: Dusburgiečio pasakojimas apie Gedimino krikštą faktus pateikia Ordino interesų dvasia ir skiriasi nuo to meto dokumentų.
 - susijęs iš [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.).md#claim-t-05291|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]: Gedimino laiškuose buvo žadamas krikštas pripažįstant popiežiaus autoritetą, o Gediminas siekė taikos su ordinu per popiežiaus tarpininkavimą.
 - susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.).md#claim-t-86946|Gedimino sąjunga su Lenkija (1325 m.)]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Lokietka dėl bendros kovos su Prūsijos ordinu.
-- susijęs iš [[objektai/ivykiai/Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių.md#claim-t-185569|Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių]]: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš [[objektai/ivykiai/Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.).md#claim-t-185520|Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)]]: Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.).md#claim-t-35833|Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]: 1382 m. liepos 6 d. Jogaila su Vokiečių ordino magistru sudarė puolimo sutartį prieš Kęstutį ir jo sūnus.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.).md#claim-t-35834|Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]: 1382 m. sutartis rodė, kad Jogaila užmezgė dar artimesnius santykius su Vokiečių ordinu.
 - susijęs iš [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.).md#claim-t-62816|Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]: Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą Vokiečių ordinui.
 - susijęs iš [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.).md#claim-t-31426|Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]: Lietuvos kunigaikščiai krikštui kėlė sąlygą, kad kryžiuočių ordinas grąžintų užimtas žemes tarp Alnos, Priegliaus ir Dauguvos.
-- susijęs iš [[objektai/ivykiai/Kauno apgulties pradžia (1362 m.).md#claim-t-185804|Kauno apgulties pradžia (1362 m.)]]: 1362 m. pavasario pradžioje kryžiuočių magistras išvedė nuolatinę ir pagalbinę kariuomenę į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-34452|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Kaune Vytautas be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus ir pažadėjo jam pagalbą.
 - susijęs iš [[objektai/ivykiai/Kauno taikos derybos su kryžiuočiais ir jų žlugimas (1408 m.).md#claim-t-185805|Kauno taikos derybos su kryžiuočiais ir jų žlugimas (1408 m.)]]: Kaune Jogaila ir Vytautas pradėjo tartis su kryžiuočių vadovais dėl tvirtos ir pastovios Prūsijos bei Lietuvos taikos.
 - susijęs iš [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas.md#claim-t-66640|Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]: Kunigaikštis Kristaus karių ordinui perdavė Dobrynės pilį ir žemės plotą Kujavijoje, vadintą Sedlcais.
@@ -2852,7 +3017,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Johanno Voigto Prūsijos istorija: Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, paremtą Karaliaučiuje sukauptais kryžiuočių dokumentais ir kronikomis.
 - susijęs iš Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.): Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių.
 - susijęs iš Labuda G. Stosunek prawnopubliczny Zakonu Krzyżackiego do Rzeszy Niemieckiej w świetle ztotej bulli Fryderyka II z r. 1226: G. Labudos publikacija apie Kryžiuočių ordino santykį su Vokietijos imperija paskelbta 1951 m. Poznanės leidinyje „Czasopismo prawno-historyczne“.
-- susijęs iš Lenkijos, Lietuvos, Žemaitijos ir visos Rusios kronika: Kojelavičius Motiejų Strijkovskį vadino pirmuoju kruopščiai iš rusų ir kryžiuočių rašto paminklų surinktos Lietuvos istorijos skelbėju.
 - susijęs iš Lindenblatt Jahrbücher: Lindenblatt Jahrbücher kryžiuočių persikėlimą per Viliją datavo rugpjūčio 28 d., o priartėjimą prie Vilniaus - rugsėjo 4 d.
 - susijęs iš Mindaugo dovanojimo raštas Livonijos ordinui: Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir perleistų teises į žemes riterių ordinui.
 - susijęs iš Notariats-Instrument dėl Gedimino laiškų Liubeke (1323 m.): Notariats-Instrument dokumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.
@@ -2879,7 +3043,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice oliwskiej: J. Wentos straipsnis apie Petro Dusburgiečio kroniką ir Kryžiuočių ordino istoriją Oliwos kronikoje paskelbtas 1980 m. leidinyje „Studia źródłoznawcze“.
 - susijęs iš Alna: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros.
 - susijęs iš Augustavo girios: 1361 m. Lietuvos pasienyje, Augustavo giriose, į kryžiuočių nelaisvę pateko kronikose plačiai aprašytas asmuo.
-- susijęs iš Bidgoščius: Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus, kur gavo žinią apie kryžiuočių artėjimą prie Svecės.
 - susijęs iš Brodnica: Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių.
 - susijęs iš Brodnica: Vytautas 1414-1418 m. paliaubų pasitarimuose Brodnicoje gynė prekybos reikalus su Ordinu.
 - susijęs iš Brodnica: Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių.
@@ -2984,10 +3147,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Sūduva: Melno sutartimi Lietuva iš Sūduvos girių laimėjo daugiau, negu Vytautas buvo užleidęs Ordinui Salyno taika.
 - susijęs iš Torunė: Sužinoję apie Gedimino skundą popiežiui, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių.
 - susijęs iš Torunė: Torunę 1235 m. pastatė kryžiuočiai, Teutonų ordinui gausinant miestus ir pilis Baltijos pakrantėse.
-- susijęs iš Trakai: Vytautas atgausimus Trakus, Gardiną ir kitas žemes turėjo valdyti kaip Ordino vasalas.
-- susijęs iš Trakai: Trakai greitai buvo prarasti, kai Vytauto ir kryžiuočių įgula po 40 dienų apgulties pasidavė Jogailai ir Skirgailai.
-- susijęs iš Trakai: Atgautus Trakus, Gardiną ir kitas tėviškės žemes Vytautas turėjo valdyti kaip Ordino vasalas.
-- susijęs iš Trakai: Vytautas atgausimus Trakus, Gardiną ir kitas žemes turėjo valdyti kaip Ordino vasalas.
 - susijęs iš Trakų pilis (pilis): Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio.
 - susijęs iš Veliuona: Ilgai buvo klaidingai aiškinta, kad Gediminas 1338 m. žuvo per Veliuonos apgulimą, pašautas kryžiuočių.
 - susijęs iš Veliuona: Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų.
@@ -2995,12 +3154,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Vengrija: Joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų).
 - susijęs iš Viduklė: Viduklės srities atstovai kartu su kitų šešių Žemaičių aukštumos sričių atstovais darė taiką su Vytautu ir Ordinu.
 - susijęs iš Vilnius: Per 20 metų kryžiuočiai surengė 70 žygių į Lietuvą ir pirmą kartą pasiekė Vilnių bei Trakus, o lietuviai atsakė 30 žygių į Ordino teritoriją.
-- susijęs iš Vilnius: 1325 m. Vilniuje pasirašyta Gedimino sutartis su Łokietka dėl bendros kovos su Prūsijos ordinu.
-- susijęs iš Vilnius: Didysis magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš kryžiuočių akiračio.
-- susijęs iš Vilnius: 1325 m. Vilniuje buvo pasirašyta Gedimino sutartis su Lokietka dėl bendros kovos su Prūsijos ordinu.
-- susijęs iš Vilnius: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, danų vietininku, Livonijos ordinu ir Ryga.
-- susijęs iš Vilnius: Prie Vilniaus pilies prieglobsčio ieškojo žmonės, tikėjęsi apsisaugoti nuo kryžiuočių.
-- susijęs iš Vilnius: Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių.
 - susijęs iš Vysla: Manydamas, kad Jogaila puls kairiajame Vyslos krante, didysis magistras pagrindines Ordino jėgas sutelkė prie Vyslos.
 - susijęs iš Vysla: Kronikos įvade Vyslos žemupys nurodomas kaip viena Kryžiuočių ordino ekspansijos į baltų žemes ploto riba.
 - susijęs iš Červinskas: Į Červinską atvyko vengrų pasiuntiniai iš kryžiuočių pusės teirautis Jogailos dėl taikos derybų vietos ir laiko.
@@ -3015,7 +3168,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Žemaitija: Žemaitijoje plėšikavusios kryžiuočių kariuomenės karys, atsilikęs po kritimo nuo žirgo, pėsčiomis grįžo į Ragainę.
 - susijęs iš Žemaitija: Veliuonos pilis tikriausiai pastatyta XIII a. Žemaitijos sienoms nuo kryžiuočių puldinėjimų saugoti.
 - susijęs iš Žemaitija: Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui, kuris kėlė egzistencinį pavojų Lietuvos valstybei.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Didelė medinė Kreivoji pilis minima kryžiuočių kronikos 1390 m. Vilniaus puolimo aprašyme.
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86455|Arkikomtūras]]: Po taikos sutarties arkikomtūras su Ordino maršalu ir kitais aukštesniaisiais vokiečių riteriais buvo pakviestas į Vilniaus ir Trakų pilis.
 - susijęs iš [[objektai/zodynas/Notariats instrument notarinis instrumentas.md#claim-t-86542|Notariats instrument notarinis instrumentas]]: Notariniame instrumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.
 - susijęs iš [[objektai/zodynas/Ordino maršalas didysis maršalas.md#claim-t-86490|Ordino maršalas didysis maršalas]]: Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga.
@@ -3049,19 +3201,14 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190009|Henenbergeris]]: Narbutas pažymi, kad Henenbergerio veikale buvo užrašas senovės lietuvių kalba, siejamas su kunigaikščio Utenio vėliava.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175191|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175194|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius.
-- susijęs iš [[objektai/asmenys/Jurgis Butrimas.md#claim-t-186117|Jurgis Butrimas]]: Jurgis Butrimas, turėjęs didelių turtų Žemaitijoje, pasiūlė savo pagalbą kryžiuočiams.
 - susijęs iš [[objektai/asmenys/Mata.md#claim-t-60055|Mata]]: Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.
 - susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-184856|Vladislovas]]: Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176694|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis antrą kartą sulaužė sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184892|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nedrįso stoti į atvirą kovą ir, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184892|Vytenis (valdovas, XIII–XIV a.)]]: Kojelavičiaus pasakojime Vytenis nedrįso stoti į atvirą kovą ir, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176120|Žemaičiai]]: Žemaičiai dėl ordino prievartos nekentė jo skelbtos katalikybės, o po krikšto dalis jų atkrisdavo į seną tikėjimą.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.).md#claim-t-185597|Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)]]: Vytautas įsakė maršalui Rumbaudui skubiai sutelkti kariuomenę ir išvyti kryžiuočius iš visos Žemaitijos.
 - susijęs iš [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.).md#claim-t-35879|Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]: Vytautas ir Jogaila sudarė su Brandenburgo elektoriumi Fridriku puolimo ir gynybos sutartį prieš kryžiuočius.
 - susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59726|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Mindaugo žūtis, netvirta Lietuvos vidaus padėtis ir sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.
 - susijęs iš Dvejų metų paliaubų sutartis su kryžiuočiais: Danijos karalius ir Pomeranijos kunigaikštis perėjo į Jogailos ir Vytauto pusę ir pasižadėjo padėti kovoti prieš kryžiuočius, jei šie nepaisytų paliaubų.
 - susijęs iš Bajerburgo pilis: Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.
-- susijęs iš Heilsbergas: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš Malburgas: Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių.
 - susijęs iš Malburgas: Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai.
 - susijęs iš Malburgas: 1388-1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII pasiuntė į Malburgą kelias bules, drausdami Vokiečių Ordinui pulti lietuvius neofitus.
@@ -3092,7 +3239,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40019|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Andrius Polockietis.md#claim-t-30206|Andrius Polockietis]]: 1385 m. rudenį Andrius Polockietis su Livonijos magistru sudarė vasalinę sutartį.
-- susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185997|Andrius Vingaudas]]: Vytautas per susitikimą rūpinosi Andriaus Vingaudo paleidimu, siekdamas pelnyti Jogailos brolių palankumą.
+- susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185997|Andrius Vingaudas]]: Kojelavičiaus pasakojime Vytautas susitikime susirūpino Andriaus Vingaudo paleidimu, norėdamas pelnyti Jogailos brolių palankumą.
 - susijęs iš [[objektai/asmenys/Benediktas Makra.md#claim-t-28988|Benediktas Makra]]: 1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas.
 - susijęs iš [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas).md#claim-t-184674|Bernardas (Šv. Teofrido vienuolyno abatas)]]: Šv. Teofrido vienuolyno abatas Bernardas kartu su Alėto vyskupu Baltramiejumi tapo pasiuntiniu taikos ir krikšto reikalu.
 - susijęs iš [[objektai/asmenys/Bertoldas (pranciškonas).md#claim-t-30212|Bertoldas (pranciškonas)]]: Pranciškonas Bertoldas su Henriku į Gedimino laišką veikiausiai įrašė daugiau, negu Gediminas buvo ketinęs.
@@ -3111,7 +3258,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Danutė.md#claim-t-186193|Danutė]]: Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykusį tėvą ir padėjo jam grįžti į Lietuvą.
 - susijęs iš [[objektai/asmenys/Daugirdas Gedgaila.md#claim-t-87651|Daugirdas Gedgaila]]: Daugirdas Gedgaila Vytauto vardu valdė Podolę, kol Podolės bajorai, vadovaujami Gregoro Kierdėjaus, jį klastingai sugavo.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82249|Daumantas (kunigaikštis, XV a.)]]: Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
-- susijęs iš [[objektai/asmenys/Degenhartas.md#claim-t-186194|Degenhartas]]: Vestfalijos vėliavininkas Degenhartas atleido savo priešininkams, nužudžiusiems jo tėvą.
 - susijęs iš [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis).md#claim-t-183732|Dimitrijus (Voluinietis Karijotaitis)]]: Dimitrijus (Voluinietis Karijotaitis) žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis).md#claim-t-39507|Dimitrijus (Voluinietis Karijotaitis)]]: Dimitrijus (Voluinietis Karijotaitis) buvo tarp mūšyje žuvusių žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Dlugošas.md#claim-t-184372|Dlugošas]]: Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.
@@ -3127,13 +3273,11 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173141|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173142|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
 - susijęs iš [[objektai/asmenys/Draika.md#claim-t-60108|Draika]]: Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrikštytas su visa šeimyna.
-- susijęs iš [[objektai/asmenys/Edigejus.md#claim-t-186198|Edigejus]]: Tauridės valdovas Edigejus susidraugavo su Vytautu ir pažadėjo ištikimybę, amžiną taiką bei pagalbą prieš priešus.
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184430|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis magistras Konradas Ciolneris sunkiai sirgo.
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184432|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.
 - susijęs iš [[objektai/asmenys/Enėjas Silvijus.md#claim-t-190147|Enėjas Silvijus]]: Anot Enėjo Silvijaus liudijimo, Zantiro šventyklos aptvare buvo šventas ąžuolas ir Perkūno, Pokliaus bei Atrimpo stabai.
 - susijęs iš [[objektai/asmenys/Er. Wallenrodas.md#claim-t-29002|Er. Wallenrodas]]: Ordino maršalas Wallenrodas buvo tarp 200 kritusių kryžiuočių riterių.
-- susijęs iš [[objektai/asmenys/Fiodoras Ostrogiškis.md#claim-t-186037|Fiodoras Ostrogiškis]]: Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti Podolę.
 - susijęs iš [[objektai/asmenys/Fotijus.md#claim-t-82302|Fotijus]]: Fotijus 1408-1431 m. buvo pripažintas Kijevo ir visos Rusios metropolitu.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54964|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54965|Fridrichas (Rygos arkivyskupas)]]: Responsio per Procuratorem Ordinis kaltino Rygos arkivyskupą Fridrichą pasiuntus pasiuntinius pas lietuvių valdovą ir sudarius prieš Ordiną nukreiptą sąjungą.
@@ -3146,6 +3290,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Gedgaudas.md#claim-t-34728|Gedgaudas]]: 1429 m. Vytautas pasiuntė Vilniaus vaivadą Gedgaudą į Lenčicą kaip savo delegatą pas Jogailą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05169|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Matydamas užtruksiančią kovą su kryžiuočiais, Gediminas susirado talkininką Lenkijos Vladislovo Lokietkos asmenyje.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05172|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kryžiuočiai Gediminą vadino Aukštaičių karaliumi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10675|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas sudarė sąjungą su Lenkija ir plėtė valstybę gudria politika bei dinastinėmis vedybomis.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176334|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis yra pirmas autentiškas paliudijimas, kad Vilnius jau buvo Gedimino sostinė.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176339|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo Gedimino sostinė.
@@ -3159,6 +3304,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176388|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas laiškuose ir pareiškime popiežiaus legatams kaltino kryžiuočius niokojant žemes, darant skriaudas ir nuostolius.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176396|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184699|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kojelavičius Pelužį laikė Gediminą niekinusių pasakojimų dingstimi, bet rusų metraštininkai Gediminą vadino Vytenio sūnumi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188528|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188534|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas Gedimino valdymą sieja su laikotarpiu, kai Lietuvos galia ir jėga, jo vertinimu, nepaprastai išaugo.
 - susijęs iš [[objektai/asmenys/Getautas.md#claim-t-30255|Getautas]]: Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/Gregoras Kierdėjus.md#claim-t-87681|Gregoras Kierdėjus]]: Gregoro Kierdėjaus vadovaujami Podolės bajorai sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos.
@@ -3190,10 +3336,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Jazbutas.md#claim-t-184718|Jazbutas]]: Jazbutas persekiojo Henriko Cutsverto vadovaujamą užpakalinę vorą ir puolė priešą kalaviju.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182811|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila siekė Lenkijos sosto ir ketino sukurti naują galingą valstybę Šiaurės Europoje.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184267|Jogaila (kunigaikštis, XIV–XV a.)]]: 1413 m. Kauno saloje vykusiame Žemaitijos sienų suvažiavime dalyvavo Jogaila.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184719|Jogaila (kunigaikštis, XIV–XV a.)]]: Kojelavičius Jogailai priskiria klastingą dėdės nužudymą ir morališkai nepateisina jo slaptų sandėrių su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184727|Jogaila (kunigaikštis, XIV–XV a.)]]: Įspėtas dėl gresiančio karo, Jogaila susitarė su Vytautu ir atvyko į Kauną, apsimesdamas turįs kitų ketinimų.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184728|Jogaila (kunigaikštis, XIV–XV a.)]]: Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184730|Jogaila (kunigaikštis, XIV–XV a.)]]: Matydamas kryžiuočių sėkmę, karalius Jogaila įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188542|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Žemaitijoje ilgiau išlikusį aukurą ir apeigas.
 - susijęs iš [[objektai/asmenys/Jokūbas (vėliau Urbonas IV).md#claim-t-60337|Jokūbas (vėliau Urbonas IV)]]: Jokūbas, Liežo arkidiakonas ir vėlesnis popiežius Urbonas IV, sudarė sutartį tarp Sventopelko ir brolių.
 - susijęs iš [[objektai/asmenys/Jonas (Alšėnų kunigaikštis).md#claim-t-87710|Jonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina.
@@ -3211,7 +3355,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Julijona.md#claim-t-05186|Julijona]]: Remiantis Torno analų žinia, Julijonos įtaka aiškinamas Jogailos atsisakymas judėti pas magistrą.
 - susijęs iš [[objektai/asmenys/Julijona.md#claim-t-176502|Julijona]]: Julijonos sūnūs Kaributas, Karigaila, Lengvenis, Vygandas ir Švitrigaila buvo trijų Jogailos ir Skirgailos sutarčių liudininkai.
 - susijęs iš [[objektai/asmenys/Julijona.md#claim-t-176503|Julijona]]: Zenonas Ivinskis, remdamasis Torno analais, svarsto, kad Julijona galėjo nenorėti Lietuvos krikšto lotynų apeigomis.
-- susijęs iš [[objektai/asmenys/Jurgis Butrimas.md#claim-t-186117|Jurgis Butrimas]]: Jurgis Butrimas, turėjęs didelių turtų Žemaitijoje, pasiūlė savo pagalbą kryžiuočiams.
 - susijęs iš [[objektai/asmenys/Jurgis Vytautaitis.md#claim-t-39568|Jurgis Vytautaitis]]: Jurgis Vytautaitis buvo lietuvių vietininkas Pskove ir balandžio 13 d. žuvo mūšyje prie Izborsko.
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97455|Kaributas]]: Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97456|Kaributas]]: Kaributas iki 1393 m. valdė Naugardo Sieversko kunigaikštiją, iš kurios jį pašalino Vytautas.
@@ -3233,9 +3376,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59932|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93422|Konradas (Mozūrijos kunigaikštis)]]: Vokiečių ordino įsikūrimas Kulmo žemėje siejamas su Mazovijos kunigaikščio Konrado dovanojimu Ordinui.
-- susijęs iš [[objektai/asmenys/Konradas (Prūsijos magistras).md#claim-t-186126|Konradas (Prūsijos magistras)]]: Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
-- susijęs iš [[objektai/asmenys/Konradas Celneris.md#claim-t-185990|Konradas Celneris]]: Ordino magistras Konradas Celneris Prūsijoje visokeriopai parėmė Vytauto sumanymus.
-- susijęs iš [[objektai/asmenys/Konradas Celneris.md#claim-t-185991|Konradas Celneris]]: Konradas Celneris paskyrė tremtiniui karių ir lėšų karui, tikėdamasis Lietuvoje išplėsti savo valdas.
+- susijęs iš [[objektai/asmenys/Konradas Celneris.md#claim-t-185990|Konradas Celneris]]: Konradas Celneris, Kojelavičiaus vadinamas ordino magistru, visokeriopai parėmė pas kryžiuočius perėjusio Vytauto sumanymus.
+- susijęs iš [[objektai/asmenys/Konradas Celneris.md#claim-t-185991|Konradas Celneris]]: Kojelavičiaus pasakojime Konradas Celneris, dėdamasis gailįs Vytauto ir tikėdamasis išplėsti valdas Lietuvoje, paskyrė karių bei lėšų karui.
 - susijęs iš [[objektai/asmenys/Konradas Ciolneris Rotenšteinas.md#claim-t-87440|Konradas Ciolneris Rotenšteinas]]: Konradas Ciolneris negalėjo vadovauti žygiui, nes tuo metu sirgo sunkia liga.
 - susijęs iš [[objektai/asmenys/Konradas Jungingenas.md#claim-t-87535|Konradas Jungingenas]]: Konradas Jungingenas kartu su Švitrigaila įsibrovė į Lietuvą ir niokojo žemes nuo Gardino apylinkių iki Šalčininkų.
 - susijęs iš [[objektai/asmenys/Konradas fon Tirbergas.md#claim-t-186129|Konradas fon Tirbergas]]: Žiemą, užšalus Nemunui, magistro Konrado fon Tirbergo vedami kryžiuočiai įsiveržė į Lietuvą.
@@ -3249,8 +3391,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Leopoldas.md#claim-t-186232|Leopoldas]]: Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, kurios remiami kryžiuočiai nusiaubė Žemaitiją.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184777|Liubartas]]: Kazimieras išvijo Algirdo brolį Liubartą iš Volynės, kai lietuviai buvo įsitraukę į karą su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Liudvikas (Brandenburgo markgrafas).md#claim-t-186234|Liudvikas (Brandenburgo markgrafas)]]: Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine kariuomene atvyko į Prūsiją.
-- susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186063|Liudvikas (Torunės komtūras)]]: Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigailą nebijoti karo su lenkais.
-- susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186064|Liudvikas (Torunės komtūras)]]: Liudvikas, Torunės komtūras, gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.
+- susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186063|Liudvikas (Torunės komtūras)]]: Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaiką ir žadėdamas pagalbą skatino Švitrigailą nebijoti karo su lenkais.
 - susijęs iš [[objektai/asmenys/Lokietka.md#claim-t-40309|Lokietka]]: 1325 m. Lokietkos sūnus Kazimieras vedė Gedimino dukrą Aldoną Oną, taip stiprindamas Gedimino suartėjimą su Lenkija.
 - susijęs iš [[objektai/asmenys/Mantas.md#claim-t-60479|Mantas]]: Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
 - susijęs iš [[objektai/asmenys/Marquardas von Salzbachas.md#claim-t-30360|Marquardas von Salzbachas]]: Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris Marquardas von Salzbachas.
@@ -3264,7 +3405,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Mikalojus Moskoževskis.md#claim-t-87409|Mikalojus Moskoževskis]]: Mikalojus Moskoževskis gindamas pilį atakas atremdavo staigiais išpuoliais ir apsukriai taisydavo priešo padarytą žalą.
 - susijęs iš [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas).md#claim-t-30363|Mikalojus Romedanskis (Medininkų vyskupas)]]: 1427 m. popiežius įsakė Medininkų vyskupui Mikalojui Romedanskiui savo priesaiką nusiųsti Gniezno arkivyskupui.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113900|Mindaugas (valdovas, XIII a.)]]: Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113904|Mindaugas (valdovas, XIII a.)]]: Gediminas laiške popiežiui ir kardinolams rašė, kad karalius Mindaugas su visa tauta buvo priėmęs krikščioniškąjį tikėjimą.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-188583|Mindaugas (valdovas, XIII a.)]]: Narbutas Mindaugą vadina Lietuvos ir Rusios kunigaikščiu ir jo žudikais įvardija Daumantą, Treniotą bei Tautvilą.
 - susijęs iš [[objektai/asmenys/Morta.md#claim-t-19156|Morta]]: 1251 m. pavasarį arba vasaros pradžioje Morta kartu su Mindaugu gavo krikštą.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59898|Mstivojus]]: Sventopelko pirmagimis sūnus Mstivojus anksčiau buvo atiduotas kaip įkaitas.
@@ -3284,7 +3424,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Ptolemėjas.md#claim-t-191100|Ptolemėjas]]: Teodoro Narbuto teigimu, Ptolemėjas turėjo žinių apie Sūduvos provinciją ir minėjo sudinų koloniją prie germanų markomanų.
 - susijęs iš [[objektai/asmenys/Rumbaudas.md#claim-t-182861|Rumbaudas]]: Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/Rumbaudas.md#claim-t-184284|Rumbaudas]]: Vytautas pasiuntė maršalką Rumbaudą ir Vilniaus vaivadą Gedgaudą į Lenčicą pas Jogailą.
-- susijęs iš [[objektai/asmenys/Rupertas.md#claim-t-186250|Rupertas]]: Grafas Rupertas atsisakė Romos imperijos sosto, į kurį buvo kviečiamas.
 - susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60061|Samboras (Sventopelko sūnus)]]: Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.
 - susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60063|Samboras (Sventopelko sūnus)]]: Samboras savo kunigaikštystės dalį atidavė broliams, kad jie aprūpintų jį ir jo šeimyną.
 - susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
@@ -3297,7 +3436,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184828|Skomantas]]: Skomantas ir Girdila buvo didikų kilmės vyrai, priėmę krikščionių tikėjimą ir pasitraukę pas kryžiuočius.
 - susijęs iš [[objektai/asmenys/Sofija (Vytauto duktė).md#claim-t-184830|Sofija (Vytauto duktė)]]: Sofija, Vytauto duktė, tekėjo už Maskvos kunigaikščio Vasilijaus, o Vytautas Marienburge surengė jai dideles palydėtuves.
 - susijęs iš [[objektai/asmenys/Sofija.md#claim-t-183842|Sofija]]: Sofija buvo Vytauto duktė.
-- susijęs iš [[objektai/asmenys/Spūdas.md#claim-t-186252|Spūdas]]: Pūtvės pilies seniūnas Spūdas išdavė pilį ir su tėvu, vaikais bei visa šeimyna pasidavė kryžiuočiams.
+- susijęs iš [[objektai/asmenys/Spūdas.md#claim-t-186252|Spūdas]]: Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir visa šeimyna.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113971|Steponas Batoras]]: Michałas Balińskis Vilniaus miesto istorinę apžvalgą užbaigė Stepono Batoro valdymo metais, 1586 m.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113977|Steponas Batoras]]: M. Balinskis Vilniaus miesto istorinę apžvalgą užbaigė Stepono Batoro valdymo metais, 1586 m.
 - susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-60210|Sudargas]]: Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose.
@@ -3354,12 +3493,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176696|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1404 m. rugpjūčio viduryje Vytautas po Smolensko operacijos susitiko su didžiuoju magistru Ritterswerderio saloje.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176716|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Sugrįžęs iš ordino, Vytautas 1384–1389 m. tarnavo Jogailai ir rėmė jo politinius bei kultūrinius žygius.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176717|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Sausio 19 d. prie Gardino Ordino komtūras sudarė sutartį su Vytautu.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176736|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1383 m. Tapiau Vytautas buvo pakrikštytas ir gavo Vigando vardą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176743|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas sutiko ten jam pastatyti dvi naujas pilis.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176758|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu buvo atvykęs pas Vytautą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176759|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius liko Didžiosios Kunigaikštystės sostinė.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176770|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176772|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1429 m. Vytautas Didysis į Lenčicą pas Jogailą pasiuntė delegatus Gedgaudą ir Rumbaudą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-183844|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto karas su Skirgaila dar labiau pablogino Vilniaus padėtį.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184866|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas iš Konrado Celnerio gavo karių ir lėšų karui.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184881|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Artėjant laukiamai dienai, Vytautui vis didesnį nerimą kėlė galimos kliūtys.
@@ -3382,7 +3519,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-184899|Švitrigaila]]: Švitrigaila matė, kad karai ir plėšikiški antpuoliai naudingi tik kryžiuočiams, o jis pats lieka nuskurdęs tremtinys.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-183772|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-184914|Žygimantas Kaributaitis]]: Žygimantas Kaributaitis, nežinodamas apie paliaubas, įsiveržė į Prūsiją, užėmė tris miestus su tvirtovėmis ir nuniokojo apylinkes.
-- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114101|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis leido Vilniaus miestiečiams prekiauti ir gabenti prekes be muitų Lietuvos žemėje.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-184918|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Vilniaus Šv. Stanislovo katedroje Žygimantas Kęstutaitis buvo atleistas nuo Boleslovui duotos priesaikos.
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184906|Žygimantas]]: Žygimantas, praradęs viltį sudaryti taiką, išsiuntė skitams sutartą atlygį, kad šie sulaikytų priešą jo žemėje.
 - susijęs iš [[objektai/autoriai/Antoni Prochaska.md#claim-t-35431|Antoni Prochaska]]: Antoni Prochaska dokumentą, kurį Danilavičius ir Koneczny laikė falsifikatu, pripažino autentišku.
@@ -3553,9 +3689,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179134|Lenkai]]: Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas buvo pastatytas prieš lenkų kairįjį sparną, kuris siekė Ludwigsdorfo mišką.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179165|Lenkai]]: 1376 m. Vytautas, jau kaip Gardino kunigaikštis, dalyvavo žygyje prieš lenkus.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179210|Lenkai]]: Žalgirio mūšyje dalis su lietuviais kovojusių kryžiuočių puolė lenkus.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184524|Lenkai]]: Lenkai dvejojo, ar kariuomenę kreipti prieš lietuvius, ar prieš kryžiuočius.
-- susijęs iš [[objektai/grupes/Lenkijos senatas.md#claim-t-184540|Lenkijos senatas]]: Liudvikas stengėsi sužinoti, kas svarstoma slaptuose senato posėdžiuose, ir siekė paveikti Žygimantą.
-- susijęs iš [[objektai/grupes/Lenkų senatas.md#claim-t-185431|Lenkų senatas]]: Liudvikas stengėsi sužinoti, kas svarstoma slaptuose senato posėdžiuose, ir siekė paveikti Žygimantą.
 - susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86717|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose bei aptvaruose.
 - susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86718|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Lenkų įgulai Aukštutinėje pilyje penkios Vilniaus apsupties savaitės praėjo sunkiomis kautynėmis ir ginčais.
 - susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86721|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Jogailos paliktas vadas su lenkų įgula Vilniaus Aukštutinėje pilyje tuo metu valdydavo ir kitus gyventojus.
@@ -3578,7 +3711,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179330|Lietuviai]]: Tuo metu lietuviai puolė iš Žemaitijos, o lenkai – netoli Sviečės.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179332|Lietuviai]]: Kronikininkas Posilgė apie lietuvius kautynių pabaigoje tepasakė, kad jie buvo atmušti.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179335|Lietuviai]]: Pagal Dlugošo kroniką, lietuvių pasitraukimas Žalgirio kautynėse reiškė bėgimą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184543|Lietuviai]]: Lietuviams sulaužius sutartį, jiems priklausanti Poleksija buvo nusiaubta Mazovijos ir Kujavijos karių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184548|Lietuviai]]: Lietuviai atrėmė priešo puolimą, persekiojo kryžiuočius ir privertė juos bėgti.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190588|Lietuviai]]: Narbutas rašė, kad po prūsų stabmeldystės smūgio religinė sostinė buvo perkelta į Lietuvą, o vyriausiųjų žynių tvarka truko iki 1387 m.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190593|Lietuviai]]: Narbutas teigė, kad dešinės rankos laikymo prie gerklės priesaikos paprotys gyvavo ir svetimųjų valdytuose lietuvių kraštuose.
@@ -3589,8 +3721,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/grupes/Lietuvos jėzuitų kolegijos.md#claim-t-81463|Lietuvos jėzuitų kolegijos]]: Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus universitetui.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-184332|Lietuvos kariuomenė]]: Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.
 - susijęs iš [[objektai/grupes/Lietuvos vyskupai.md#claim-t-35714|Lietuvos vyskupai]]: Popiežius uždraudė Lietuvos vyskupams ir Kulmijos vyskupui karūnuoti Vytautą.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179354|Livonijos ordinas]]: 1372 m. Lietuva vienu metu buvo puolama iš Prūsijos ir Livonijos.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179413|Livonijos ordinas]]: 1372 m. kryžiuočiai Lietuvą puolė vienu metu iš Prūsijos ir Livonijos.
 - susijęs iš [[objektai/grupes/Livonijos riteriai.md#claim-t-189480|Livonijos riteriai]]: Narbutas Gediminą vaizduoja kaip Ariogaloje iškilusį kovotoją su kryžiuočiais ir Livonijos riteriais.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92728|Maskvos kunigaikštija]]: Pskovo ir Naugardo respublikos labiau šliejosi prie Livonijos ordino ir Maskvos, priešingų Vytauto įsigalėjimui Rytuose.
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-192434|Mazovijos kunigaikščiai]]: Mazovijos Ziemovitas 1260 m. birželio 15 d. Trošine sudarė taikos sutartį, kuria kryžiuočiai atidavė jam šeštadalį jotvingių krašto.
@@ -3625,12 +3755,9 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/grupes/Tochtamišo totoriai.md#claim-t-171389|Tochtamišo totoriai]]: Tochtamišo totoriai buvo įtraukti į Lietuvos jungtinių pajėgų sudėtį.
 - susijęs iš [[objektai/grupes/Tochtamišo totoriai.md#claim-t-183668|Tochtamišo totoriai]]: Tochtamišo totoriai buvo Lietuvos jungtinių pajėgų dalis susidūrime su Timūr-Kutluko kariuomene prie Vorsklos.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171397|Totoriai]]: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171409|Totoriai]]: Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171426|Totoriai]]: Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171432|Totoriai]]: Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171437|Totoriai]]: Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-183189|Totoriai]]: Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-183669|Totoriai]]: Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją.
 - susijęs iš [[objektai/grupes/Totorių pajėgos.md#claim-t-78528|Totorių pajėgos]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78546|Varmiai]]: Varmės vardas greičiausiai yra upėvardinės kilmės, plg.
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-86774|Venedai]]: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
@@ -3647,19 +3774,15 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/grupes/Švitrigailos šalininkai.md#claim-t-86779|Švitrigailos šalininkai]]: Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176121|Žemaičiai]]: Livonijos kryžiuočiai po Žemaičių teriojimo pasirodė Jogailos pusėje prie Trakų.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176122|Žemaičiai]]: Livonijos kryžiuočiai pasirodė Jogailos pusėje prie Trakų po Žemaičių teriojimo.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176128|Žemaičiai]]: Racionžo taikoje Vytautas pažadėjo metus neleisti pirkliams prekiauti su Žemaičiais ir įvežti jiems druskos, javų bei geležies.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176130|Žemaičiai]]: Gardino preliminarine sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo padėti statyti pilis.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176134|Žemaičiai]]: Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176143|Žemaičiai]]: 1404 m. taikos politika laikinai apribojo Žemaičių prekybą, bet vėliau jie atgavo teises prekiauti su Aukštaičiais ir pardavinėjo prekes Dancigui.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176145|Žemaičiai]]: 1416 m. žemaičių delegacija Konstancos susirinkime pareiškė, kad žemaičiai yra tos pačios lietuvių tautos žmonės.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176149|Žemaičiai]]: Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176153|Žemaičiai]]: 1398 m. Gardino preliminariąja sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pažadėjo padėti statyti pilis.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176154|Žemaičiai]]: Vytautas pasižadėjo metus neleisti savo pirkliams prekiauti su Žemaičių kraštu ir įvežti į jį druskos, javų bei geležies.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176163|Žemaičiai]]: Žemaičių kunigaikščiai kovose su kryžiuočiais naudojosi didžiojo kunigaikščio parama, bet menkai paisė jo vyriausios valdžios.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176165|Žemaičiai]]: Vytauto gretose buvo daug dar nepakrikštytų žemaičių ir lietuvių, nes žemaičiai linko prie Birutės sūnaus Vytauto.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-182932|Žemaičiai]]: Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184595|Žemaičiai]]: Kryžiuočių magistras Henrikas reikalavo Germanto priesaikos, kad lietuviai ir žemaičiai nesikiš į prūsų karą.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184596|Žemaičiai]]: Prūsai ir žemaičiai iš miškų užpuolė grobio ieškojusius kryžiuočius, kai šie plėšikavo nepasirūpinę apsauga.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187754|Žemaičiai]]: Kęstutis valdė Trakus ir Žemaičių žemę ir turėjo šešis sūnus.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89340|Žiemgaliai]]: Traidenis varžėsi su Livonijos ordinu dėl žiemgalių žemės, kurią buvo pasidaliję kryžiuočiai ir Rygos arkivyskupas.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89343|Žiemgaliai]]: 1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai negalėjo įveikti.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89345|Žiemgaliai]]: Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią sukilėlių pusėje puolė žemaičiai.
@@ -3679,7 +3802,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Aukaimio pilies srities teriojimas grįžtant nuo Junigėdos (1292 m.).md#claim-t-31405|Aukaimio pilies srities teriojimas grįžtant nuo Junigėdos (1292 m.)]]: 1292 m. grįždami nuo Junigėdos kryžiuočiai teriojo 1291 m. sudegintos Aukaimio pilies sritį.
 - susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97015|Bisenos sunaikinimas (1316 m.)]]: 1316 m. kryžiuočiams pavyko sunaikinti žemaičių Biseną.
 - susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97016|Bisenos sunaikinimas (1316 m.)]]: 1316 m. kryžiuočiams pavyko sunaikinti žemaičių Biseną.
-- susijęs iš [[objektai/ivykiai/Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.).md#claim-t-185697|Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.)]]: Lietuvos Braste Jogaila, Vytautas ir skitų chanas nusprendė visomis jėgomis pradėti bendrą karą prieš kryžiuočius.
+- susijęs iš [[objektai/ivykiai/Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.).md#claim-t-185697|Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.)]]: Lietuvos Braste Jogaila, Vytautas ir Kojelavičiaus skitų chanu vadinamas sąjungininkas nutarė pradėti bendrą karą prieš kryžiuočius.
 - susijęs iš [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.).md#claim-t-185559|Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]: Kryžiuočiai puolė Christmemelio pilį taranais ir strėlėmis, o į pagalbą iš Sembos skubėjęs būrys buvo sunaikintas.
 - susijęs iš [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.).md#claim-t-185560|Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]: Gandas apie su didele kariuomene ateinantį Prūsijos magistrą sužlugdė lietuvių viltis paimti Christmemelio pilį.
 - susijęs iš [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.).md#claim-t-35827|Dovydiškių slapta sutartis (1380 m.)]]: Vytautas dalyvavo Dovydiškių medžioklėje, bet nepastebėjo, kad buvo sudaryta slapta sutartis.
@@ -3691,7 +3814,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.).md#claim-t-34538|Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]: 1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
 - susijęs iš [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.).md#claim-t-86973|Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]: Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185488|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gedimino valdymo pradžia buvo nerami, nes į karą stojo Prūsijos ir Livonijos kryžiuočiai.
-- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
+- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Kojelavičius rašo, kad Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185490|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: 1316 m. pradžioje kryžiuočiai pasiuntė skirtingas kariaunas krašto niokoti ir nusiaubė Paštuvos, Medininkų bei Pagraudės valsčius.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185491|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Sutelkęs visas jėgas, Gediminas per Žemaitiją nužygiavo prie Žeimelės upelio ir įrengė įtvirtintą stovyklą.
 - susijęs iš [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.).md#claim-t-86974|Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]: Gedimino laiškai dominikonams, pranciškonams ir Hanzos miestams buvo užfiksuoti 1323 m. notaro parengtame dokumente.
@@ -3705,8 +3828,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md#claim-t-100025|Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]: Zenonas Ivinskis vertino, kad iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo Lenkija, nes jos lietuviai nebepuldinėjo.
 - susijęs iš [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.).md#claim-t-86976|Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]: Gediminas 1337 m. buvo nužudytas mūšyje su kryžiuočiais prie Bajerburgo pilies, netoli Veliuonos.
 - susijęs iš [[objektai/ivykiai/Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.).md#claim-t-185506|Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.)]]: Po pralaimėjimo kryžiuočiams sunkiai į galvą sužeistas Vytenis paliko stovyklą ir kariuomenę, bet dviejų karių lydimas paspruko.
-- susijęs iš [[objektai/ivykiai/Gotesverderio pilies pastatymas ir sunaikinimas (1367 m.).md#claim-t-185702|Gotesverderio pilies pastatymas ir sunaikinimas (1367 m.)]]: Kryžiuočiai prie Nemuno, beveik priešais Kauną, per šešis mėnesius pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.
-- susijęs iš [[objektai/ivykiai/Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.).md#claim-t-185521|Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)]]: Kryžiuočiai per žygį kentė maisto stoką, nes neseniai nusiaubtuose kaimuose nerado kuo numalšinti alkio.
 - susijęs iš [[objektai/ivykiai/Inovroclavo teismas dėl Pomeranijos (1320 m. balandis—1321 m. vasaris).md#claim-t-59646|Inovroclavo teismas dėl Pomeranijos (1320 m. balandis—1321 m. vasaris)]]: Vladislovo Lokietkos suvienyta Lenkija diplomatinėmis priemonėmis bandė atgauti kryžiuočių užgrobtą Pomeraniją.
 - susijęs iš [[objektai/ivykiai/Jogailos brolių sukilimas.md#claim-t-01626|Jogailos brolių sukilimas (sukilimas)]]: Jogaila artinosi su kryžiuočiais, nes ieškojo paramos prieš vyresniuosius brolius, nepripažinusius jo valdžios.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas.md#claim-t-66565|Jogailos ir Vytauto susitaikinimas]]: Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.
@@ -3723,8 +3844,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.).md#claim-t-62828|Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.)]]: 1323 m. Žemaitijos lietuviai sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.
 - susijęs iš [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.).md#claim-t-01667|Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]: 1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.
 - susijęs iš [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.).md#claim-t-31432|Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]: 1323 m. kovą lietuviai iš Žemaičių puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą.
-- susijęs iš [[objektai/ivykiai/Kolainių apgultis ir pilies sunaikinimas (1290 m.).md#claim-t-185715|Kolainių apgultis ir pilies sunaikinimas (1290 m.)]]: Surminas pasinaudojo kryžiuočių atsitraukimu, išvedė Kolainių įgulą ir išgabeno vertybes, o priešas užėmė tuščią pilį.
-- susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185717|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
+- susijęs iš [[objektai/ivykiai/Kolainių apgultis ir pilies sunaikinimas (1290 m.).md#claim-t-185715|Kolainių apgultis ir pilies sunaikinimas (1290 m.)]]: Kojelavičiaus pasakojime Surminas per kryžiuočių atokvėpį išvedė Kolainių įgulą ir išgabeno vertingiausius daiktus.
 - susijęs iš [[objektai/ivykiai/Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas.md#claim-t-185720|Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas]]: Po kryžiuočių pralaimėjimo krikščionių valdovai surinko kariuomenes ir atvedė jas į Prūsiją.
 - susijęs iš [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas.md#claim-t-66641|Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]: Kunigaikštis, patartas vyskupo Kristijono ir kai kurių didikų, savo žemei ginti subūrė Kristaus kariais vadintus brolius.
 - susijęs iš [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės.md#claim-t-91915|Kristburgo brolių smūgis Divanui prie Gubros upės]]: Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.
@@ -3736,15 +3856,11 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.).md#claim-t-185526|Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]]: Kryžiuočiai su judama tvirtove ir parengtu laivynu patraukė prie Junigedos, kur audra beveik nustūmė didįjį laivą gynėjams.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.).md#claim-t-185595|Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)]]: Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotai Lietuvai paremti.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.).md#claim-t-185596|Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)]]: Kryžiuočiai Ragainėje užpuolė pagal sutartį gyvenusius lietuvių pirklius, vienus nužudė, o iš kitų atėmė turtą.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.).md#claim-t-185597|Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)]]: Vytautas įsakė maršalui Rumbaudui skubiai sutelkti kariuomenę ir išvyti kryžiuočius iš visos Žemaitijos.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.).md#claim-t-185599|Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)]]: Po pralaimėjimo kryžiuočiai traukėsi iš priešo šalies, bet lietuviai iš anksto užtvėrė miškų takus.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.).md#claim-t-185600|Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)]]: Kryžiuočiai su Prūsijos maršalu Henriku fon Plocke tankmėje buvo sunaikinti arba pateko į nelaisvę.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185601|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185602|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Karalius, labiau troškęs taikos nei karo, sutiko su kryžiuočiais sudaryti paliaubas iki kitų metų birželio.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185602|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kojelavičiaus vertinimu, karalius, labiau troškęs taikos nei karo, sutiko su kryžiuočiais sudaryti paliaubas iki kitų metų birželio.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis).md#claim-t-86915|Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]: 1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.).md#claim-t-62843|Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.)]]: 1322 m. Ordinas su talkininkais iš Vokietijos, Čekijos ir kitur niokojo Žemaitiją, bet buvo atremtas prie Pieštvės pilies.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis.md#claim-t-185728|Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis]]: Austrijos kunigaikščio Leopoldo pajėgų remiami kryžiuočiai užpuolė Žemaitiją ir, padaliję pulkus keturiomis voromis, nusiaubė kraštą.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis, Algirdo pralaimėjimas ir atsakomasis puolimas į Sembą (1345-1346 m.).md#claim-t-185730|Kryžiuočių žygis, Algirdo pralaimėjimas ir atsakomasis puolimas į Sembą (1345-1346 m.)]]: Kitais metais kryžiuočiai su keturiasdešimčia tūkstančių karių įsiveržė į Lietuvą ir nusiaubė didelius Žemaitijos plotus.
 - susijęs iš [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.).md#claim-t-66651|Kulmo pilies ir miesto įkūrimas (1232 m.)]]: Tyrėjų manymu, Kulmo pilis ir miestas buvo įkurti Starogrude, kur senajame piliakalnyje stovėjo penkiakampis konvento pastatas.
 - susijęs iš [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.).md#claim-t-31436|Kymel pilies sunaikinimas (1295 m.)]]: 1295 m. kryžiuočiai prie Nemuno sunaikino stiprią Kymel pilį.
 - susijęs iš [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje.md#claim-t-86917|Kęstučio laidotuvės Vilniuje]]: Vygandas aprašė, kad per Kęstučio laidotuves Vilniuje kartu su jo palaikais sudeginti rūbai, ginklai, žirgai, medžiokliniai šunys ir paukščiai.
@@ -3753,7 +3869,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.).md#claim-t-89375|Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)]]: 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio.
 - susijęs iš [[objektai/ivykiai/Lietuvių žygis į Dobrynę ir Kulmo kraštą (1300-1301 m.).md#claim-t-185609|Lietuvių žygis į Dobrynę ir Kulmo kraštą (1300-1301 m.)]]: Į Kulmo kraštą persikėlusi šimtinė lietuvių karių nuniokojo kaimus, bet vėliau patyrė pralaimėjimą ir neteko septyniasdešimties vyrų.
 - susijęs iš [[objektai/ivykiai/Lietuvių žygis į Kališo ir Seradzo žemes.md#claim-t-185812|Lietuvių žygis į Kališo ir Seradzo žemes]]: Spalio mėnesį lietuviai nusiaubė Kališo ir Seradzo žemes ir be pasipriešinimo grįžo namo su grobiu.
-- susijęs iš [[objektai/ivykiai/Lietuvių žygis į Sembą Prūsijoje.md#claim-t-185814|Lietuvių žygis į Sembą Prūsijoje]]: Į Sembą įsiveržusi aštuonių tūkstančių lietuvių raitija nusiaubė kaimus, išžudė jų gyventojus ir išsivarė grobį.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas).md#claim-t-62860|Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]: 1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė danų vasalinėje priklausomybėje buvusią Revelio žemę.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.).md#claim-t-89376|Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]: 1220 m. Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.).md#claim-t-89377|Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]: 1220 m. Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.
@@ -3768,13 +3883,12 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66768|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.
 - susijęs iš [[objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.).md#claim-t-62876|Medininkų žemės mūšis (1320 m. liepos 27 d.)]]: 1320 m. liepos 27 d. Medininkų žemėje Lietuvos kariuomenė sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 - susijęs iš [[objektai/ivykiai/Meinhardo žygis į Lietuvą ir pasitraukimas dėl išduoto sumanymo (1292 m.).md#claim-t-185819|Meinhardo žygis į Lietuvą ir pasitraukimas dėl išduoto sumanymo (1292 m.)]]: 1292 m. Meinhardas sutelkė kariuomenę žygiui į Lietuvą, bet įspėtas apie išdavystę atsitraukė į Prūsiją prieš prasidedant kovai.
-- susijęs iš [[objektai/ivykiai/Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis.md#claim-t-185754|Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis]]: Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir ugnimi nusiaubė Paštuvos bei Gaižuvos valsčius.
+- susijęs iš [[objektai/ivykiai/Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis.md#claim-t-185754|Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis]]: Kojelavičiaus pasakojime magistras Meinhardas su didele kariauna įsiveržė į Lietuvą ir žiauriai nusiaubė Paštuvos bei Gaižuvos valsčius.
 - susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-13489|Mindaugo karūnacija (1253 m.)]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas.md#claim-t-183266|Mindaugo krikštas ir karūnos išsirūpinimas]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas.md#claim-t-66790|Mindaugo krikštas ir karūnos išsirūpinimas]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas.md#claim-t-187502|Mindaugo krikštas (krikštas)]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas.md#claim-t-187509|Mindaugo krikštas (krikštas)]]: 1250 m. Mindaugas apsikrikštijo ir apkrikštijo daug savo didikų.
-- susijęs iš [[objektai/ivykiai/Mūšis su kryžiuočiais ties Strėva.md#claim-t-186693|Mūšis su kryžiuočiais ties Strėva (mūšis, XIV a.)]]: Narimantas Glėbas žuvo 1348 m. vasario 2 d. mūšyje su kryžiuočiais ties Strėva.
 - susijęs iš [[objektai/ivykiai/Ordino žygiai į Pograudą ir Šalčininkus (1311 m.).md#claim-t-31462|Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)]]: 1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkes, žudė žmones, ėmė belaisvius ir naikino ugnimi bei plėšimais.
 - susijęs iš [[objektai/ivykiai/Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo).md#claim-t-34553|Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)]]: 1392 m. rudenį kryžiuočiai įsiveržė į Lietuvą, užpuolė Suražiaus pilį, ją paėmė ir sudegino.
 - susijęs iš [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.).md#claim-t-59667|Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
@@ -3786,11 +3900,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Pieštvės ir Veliuonos pilių sunaikinimas tame pačiame žygyje (1362 m.).md#claim-t-185823|Pieštvės ir Veliuonos pilių sunaikinimas tame pačiame žygyje (1362 m.)]]: Tuo pačiu žygiu kryžiuočiai sugriovė Pieštvės ir Veliuonos pilis: Pieštvę gynėjai atidavė be kovos, o Veliuona paimta po keturių dienų apgulties.
 - susijęs iš [[objektai/ivykiai/Pipino nukankinimas ir mirtis.md#claim-t-62897|Pipino nukankinimas ir mirtis]]: Dusburgietis Pipino mirtį vaizdavo kaip pakorimą po to, kai Pipinas buvo pririštas prie arklio ir atvilktas iki Torunės.
 - susijęs iš [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.).md#claim-t-66824|Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]: Draikai slapta atidarius Aukaimio pilies vartus, broliai įsiveržė, beveik visus išžudė, moteris ir vaikus paėmė į nelaisvę ir sudegino pilį su papiliu.
-- susijęs iš [[objektai/ivykiai/Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.).md#claim-t-185533|Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.)]]: Kazimieras manė, kad valstybei nenaudinga pradėti karą su turkais, kol nebaigtas karas su kryžiuočiais.
+- susijęs iš [[objektai/ivykiai/Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.).md#claim-t-185533|Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.)]]: Liudvikas ragino skubėti prieš Mechmedą, nes, jo teigimu, turkų valdovas rengėsi karui prieš krikščionių pasaulį.
 - susijęs iš [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.).md#claim-t-97032|Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]: Lietuvos vardu protestuoti į Prahą nuvyko Butrimas ir Vytauto sekretorius Cibulka.
-- susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185497|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Vasaros pabaigoje Ragainės kryžiuočiai sudegino Pūtvės miestą prie Jūros, o miestiečius paėmė į nelaisvę arba išžudė.
+- susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185497|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Vasarai baigiantis Ragainės kryžiuočiai sudegino Pūtvės miestą Jūros pakrantėje, o miestiečius paėmė į nelaisvę arba išžudė.
 - susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185499|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Kryžiuočiai nusiaubė Karšuvos žemę Žemaitijoje taip, kad jos gyventojai su turtu išsikėlė į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185500|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Netekusios gynėjų, Skronaitės ir Bibervaitės pilys buvo sunaikintos priešų ir ugnies.
 - susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-55130|Romainių šventvietės sunaikinimas (1294 m.)]]: 1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.
 - susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-81827|Romainių šventvietės sunaikinimas (1294 m.)]]: 1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.
 - susijęs iš [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.).md#claim-t-54706|Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]: Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies.
@@ -3803,7 +3916,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66868|Salyno sutartis]]: Ivinskis pabrėžia, kad Salyno amžinosios taikos įgyvendinimas būtų reiškęs Lietuvos nustūmimą nuo jūros.
 - susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66869|Salyno sutartis]]: Salyno suvažiavimo puotoje Vytautas buvo paskelbtas Lietuvos karaliumi.
 - susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66881|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą.
-- susijęs iš [[objektai/ivykiai/Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį.md#claim-t-185772|Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį]]: Slaptoje sąmokslo sutartyje buvo numatyta nužudyti Kęstutį ir jo palikuonis, o Vaidilai atlyginti nugalėtų priešų valdomis.
+- susijęs iš [[objektai/ivykiai/Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį.md#claim-t-185772|Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį]]: Kojelavičius slaptą susitarimą vaizduoja kaip planą nužudyti Kęstutį bei jo palikuonis ir Vaidilai atlyginti nugalėtų priešų valdomis.
 - susijęs iš [[objektai/ivykiai/Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį.md#claim-t-185773|Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį]]: Vaidilos patvarkymu Jogaila ir kryžiuočiai slaptai pasirašė susitarimą prieš stojimą į atvirą kovą.
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192042|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas vėliau išleido Ingigerdą už Flamoro ir davė jam Aldejaborgą, kurį vadina Rusios uostu.
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
@@ -3842,18 +3955,16 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179457|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis.
 - susijęs iš [[objektai/ivykiai/Vytauto derybos su kryžiuočiais.md#claim-t-95974|Vytauto derybos su kryžiuočiais]]: 1390–1392 m. antrą kartą į Prūsus pabėgęs Vytautas derėjosi su kryžiuočiais ir kovojo su Jogaila.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.).md#claim-t-185655|Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)]]: Po reikalų Rusioje sutvarkymo lietuviai pradėjo keršyti kryžiuočiams už ankstesnių metų skriaudas.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.).md#claim-t-185656|Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)]]: Kęstutis Mazovijos pasieniu nuvedė kariuomenę į menkai įtvirtintą Prūsijos pakraštį ir prie Saldavos bei Neidenburgo sumušė kryžiuočius.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.).md#claim-t-185657|Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)]]: Lietuvių pasaloje kryžiuočiai sugriuvo į šakomis ir velėnomis pridengtus griovius, prarado vadus ir dalį karių.
 - susijęs iš [[objektai/ivykiai/Vytauto krikštas Tapiau (1383 m. spalio 21 d.).md#claim-t-34562|Vytauto krikštas Tapiau (1383 m. spalio 21 d.)]]: 1383 m. spalio 21 d. Kryžiuočių Ordinas Tapiau miestelyje be iškilmių pakrikštijo Vytautą.
 - susijęs iš [[objektai/ivykiai/Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.).md#claim-t-185658|Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.)]]: Vytauto pastangos išsaugoti su Zigmantu ir Vaclovu sudarytą susitarimą nuėjo niekais.
-- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185661|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Ordino magistras Konradas Celneris parėmė Vytauto sumanymus ir nutarė nepraleisti progos pradėti karą.
+- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185661|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Pasak Kojelavičiaus, Konradas Celneris parėmė Vytauto sumanymus ir su džiaugsmu nutarė pasinaudoti proga pradėti karą.
 - susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185662|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Vytautas užrašė kryžiuočiams visą Žemaitiją kaip užstatą, kad gautų tris šimtus tūkstančių kapų karo reikmėms.
 - susijęs iš [[objektai/ivykiai/Vytauto puolimas į Vilnių (1389 m.).md#claim-t-95969|Vytauto puolimas į Vilnių (1389 m.)]]: 1389 m. Vytautas, Lucke surinkęs savo šalininkus, puolė Vilnių, bet turėjo pasitraukti ir antrą kartą bėgti pas kryžiuočius.
 - susijęs iš [[objektai/ivykiai/Vytauto susitaikymas su Jogaila ir pabėgimas iš Prūsijos (1388 m.).md#claim-t-185663|Vytauto susitaikymas su Jogaila ir pabėgimas iš Prūsijos (1388 m.)]]: Išjojęs iš Marienburgo, Vytautas pasiėmė žmoną su turtais ir skubiai paspruko link Žemaitijos, o iš ten pasuko į Palenkę.
 - susijęs iš [[objektai/ivykiai/Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.).md#claim-t-185673|Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)]]: Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius Vytenio karius.
 - susijęs iš [[objektai/ivykiai/Vytenio trijų mėnesių žygis po Prūsiją ir lietuvių sutriuškinimas traukiantis.md#claim-t-185835|Vytenio trijų mėnesių žygis po Prūsiją ir lietuvių sutriuškinimas traukiantis]]: Vytenis beveik tris mėnesius siaubė Prūsiją, kol kryžiuočiai užklupo grįžtančius lietuvius ir beveik visus išžudė.
 - susijęs iš [[objektai/ivykiai/Vytenio žygiai į Dobrynę ir prieš kryžiuočius (1297 m.).md#claim-t-185836|Vytenio žygiai į Dobrynę ir prieš kryžiuočius (1297 m.)]]: Lietuviai staigiu antpuoliu užėmė Dobrynę, kai sekmadienį žmonės buvo išėję iš kaimų į bažnyčias.
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant.md#claim-t-185837|Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant]]: Vytenis per Boleslovui pavaldžias Mazovijos žemes įsiveržė į Lenkiją, nuniokojo Kujaviją ir pasitraukė su grobiu, o lenkai bei kryžiuočiai lietuvių neįveikė.
 - susijęs iš [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.).md#claim-t-31505|Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]: 1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.
 - susijęs iš [[objektai/ivykiai/Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas.md#claim-t-91921|Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas]]: Prie Baigos broliai pastatė prie upės į pilį panašiai sutvirtintą malūną, kurį prūsai netrukus užėmė, gynėjus išžudė ir sudegino.
 - susijęs iš [[objektai/ivykiai/Švitrigailos ir Konrado Jungingeno žygis į Lietuvą (1394 m.).md#claim-t-86971|Švitrigailos ir Konrado Jungingeno žygis į Lietuvą (1394 m.)]]: Švitrigaila, pasipiktinęs Vytauto iškėlimu, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.
@@ -3863,7 +3974,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.).md#claim-t-34569|Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.)]]: 1402 m. žemaičiai išsiuntinėjo savo skundą imperijos kunigaikščiams ir popiežiui.
 - susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1409 m.md#claim-t-67018|Žemaičių sukilimas 1409 m]]: Tų pačių įvykių fone ordinas 1409.VIII.6 buvo priverstas skelbti karą Lenkijai.
 - susijęs iš [[objektai/paprociai/Apgulties logistika blokuojant maisto tiekimą.md#claim-t-87201|Apgulties logistika blokuojant maisto tiekimą]]: Prie Vilniaus stovyklą įsirengęs magistras turėjo siųsti keturis pulkus saugoti maisto parūpinti išleistų dalinių.
-- susijęs iš [[objektai/paprociai/Bažnytinio turto grobstymas ir vienuolynų užgrobimas reformacijos neramumų metu Livonijoje.md#claim-t-185912|Bažnytinio turto grobstymas ir vienuolynų užgrobimas reformacijos neramumų metu Livonijoje]]: Livonijoje Liuterio sektos pasekėjai ėmė grobstyti šventovių brangenybes, brautis į vienuolynus ir savintis dvasininkų mantą bei žemes.
 - susijęs iš [[objektai/paprociai/Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas.md#claim-t-176226|Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas]]: Kęstutis, kryžiuočių spaudžiamas labiau negu Jogaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.
 - susijęs iš [[objektai/paprociai/Gedimino dinastinė vedybų politika.md#claim-t-05339|Gedimino dinastinė vedybų politika]]: Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.
 - susijęs iš [[objektai/paprociai/Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija.md#claim-t-183692|Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija]]: Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams.
@@ -3873,7 +3983,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/paprociai/Gynyba deginant gyvenvietes ir iškeldinant gyventojus į pilį.md#claim-t-87268|Gynyba deginant gyvenvietes ir iškeldinant gyventojus į pilį]]: Gindamas Vilnių Olesnickis įsakė sudeginti likusius miesto namus, o gyventojus su manta ir maisto atsargomis iškeldinti į Žemutinę pilį.
 - susijęs iš [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį.md#claim-t-183824|Gyventojų ir pirklių slėpimasis pilyje per apgultį]]: Per apgultį prie Žemutinės pilies slėpdavosi priemiesčių gyventojai ir pirkliai su prekėmis, todėl vokiečiai ją praminė Krautuvių pilimi.
 - susijęs iš [[objektai/paprociai/Ištikimybės priesaikos Jogailai.md#claim-t-176231|Ištikimybės priesaikos Jogailai]]: Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos.
-- susijęs iš [[objektai/paprociai/Kameneco viršininko skyrimas tik iš lenkų tautybės žmonių.md#claim-t-185917|Kameneco viršininko skyrimas tik iš lenkų tautybės žmonių]]: Lenkai paskelbė nutarimą, kad ateityje Kameneco viršininku turi būti skiriamas tik lenkų tautybės žmogus.
 - susijęs iš [[objektai/paprociai/Kauno gynėjų gedulo raudos.md#claim-t-185930|Kauno gynėjų gedulo raudos]]: Apie Kauno pilies įgulos žūtį degančios pilies liepsnose paprasti žmonės giedojo gedulo raudas.
 - susijęs iš [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas.md#claim-t-78700|Kryžiaus žygių prieš totorius organizavimas]]: Pirmieji krikščioniški Lietuvos valdovai patys organizavo kryžiaus žygius prieš totorius.
 - susijęs iš [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas.md#claim-t-78701|Kryžiaus žygių prieš totorius organizavimas]]: Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir formavo „antemurale Christianitatis“ ideologiją.
@@ -3930,7 +4039,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę.md#claim-t-86861|Kraštą ugnimi ir kalaviju nusiaubę]]: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir, nusiaubę kraštą ugnimi bei kalaviju, grįžo į Prūsiją ir Livoniją.
 - susijęs iš [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis.md#claim-t-97293|Kęstutis buvo vyras karingas ir tiesiakalbis]]: Dlugošas Kęstutį apibūdino kaip šaunų, išmintingą, veiklų, išlavintą, žmonišką ir pažadams ištikimą vyrą.
 - susijęs iš [[objektai/posakiai/Ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių. Todėl pasiliksiu prie pagonybės.md#claim-t-31550|Ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių. Todėl pasiliksiu prie pagonybės]]: Lietuvos kunigaikštis per derybas apie kryžiuočius pareiškė, kad jie siekia ne jo tikėjimo, o žemių, todėl jis pasiliks prie pagonybės.
-- susijęs iš [[objektai/posakiai/O trečių vasarų.md#claim-t-186892|O trečių vasarų]]: Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m.
 - susijęs iš [[objektai/posakiai/O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė.md#claim-t-86867|O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė]]: Posakiu „O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė“ miestiečiai gyrė Žygimanto suteiktas garantijas.
 - susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09674|Palikime savo žirgus toli užpakalyje]]: Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis.
 - susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09675|Palikime savo žirgus toli užpakalyje]]: „Palikime savo žirgus toli užpakalyje“ reiškė sumanymą atimti kariams viltį trauktis ir priversti juos nevengti mūšio.
@@ -4033,7 +4141,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Rusų Maskvos sąvadas: Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjo vokiečiai, įvyko didelis mūšis ir nugalėjo Lietuva.
 - susijęs iš Schützo Prūsijos kronika: Narbutas, remdamasis Prūsijos kronikomis, pasakoja, kad 1247 m. Pamedėje aitvarai esą viešai rodydavosi žmonių pavidalu.
 - susijęs iš Simono Grunau kronika: Narbutas Simoną Grunau vadina suniekintu, bet didesnės pagarbos vertu kronikininku, nors pripažįsta jo šališkumą ir nekritiškumą.
-- susijęs iš Stepono laiškas Ivanui apie taiką su Aleksandru: Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai laikytis taikos su Aleksandru.
 - susijęs iš T. Czacki, Rozprawa o żydach: T. Czackio veikalas „Rozprawa o żydach“ 1807 m. buvo išspausdintas Vilniuje, Zavadzkio spaustuvėje.
 - susijęs iš Torno analai: Torno analų žinia leido samprotauti, kad Jogaila pas magistrą nevyko paveiktas Julijonos.
 - susijęs iš VMPL: VMPL I tomo 693 numeris cituojamas prie susitarimo, kurį abi pusės patvirtino priesaika.
@@ -4049,8 +4156,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš die litauischen Wegeberichte: XIV a. pabaigos „die litauischen Wegeberichte“ įvairiose Aukštaičių žemės vietose mini 18 didžiojo kunigaikščio dvarų.
 - susijęs iš Žygimanto 1432 m. Vilniaus Magdeburgo teisių patvirtinimo privilegijos: 1432 m. Vilnius gavo Magdeburgo teisių atnaujinimą ir patvirtinimą dviem privilegijomis lotynų ir rusų kalbomis.
 - susijęs iš Akmenų Brasta: Melno sutarties siena senojoje jotvingių žemėje prasidėjo nuo Akmenų Brastos Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.
-- susijęs iš Anglija: Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos.
-- susijęs iš Anglija: Rugpjūtį, pasibaigus pasirengimui mūšiams Prūsijoje, atvyko savanorių iš Anglijos ir Prancūzijos.
 - susijęs iš Apaščia: Žemaičių ribos Nevėžio aukštupyje buvo pratęstos Mūšos upe, Smardonės upeliu ir Apaščios ežeru ties dabartiniais Biržais.
 - susijęs iš Apulija: Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų žemių, tad didysis magistras su taryba ir persikėlė į vieną tokią dovanotąją žemę — į Apuliją (pietų Italijoj).
 - susijęs iš Ariogala: Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.
@@ -4059,7 +4164,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Ariogala: Narbutas Liutaurą vadina jūrų karžygiu ir rašo, kad jis 1262 m. atstatė senovinę Ariogalą.
 - susijęs iš Armėnija: Brolio Hermano vadovavimo metais Ordinas gavo dovanų Armėnijoje.
 - susijęs iš Arsa: Arsos upelis šioje vietoje nežinomas ir tik spėjamas, kaip ir prie anksčiau minėtų Tamoviškių.
-- susijęs iš Astravas: 1392 m. rugpjūčio 4 d. Astrave, netoli Lydos, buvo rašyti du aktai dėl Vytauto padėties.
 - susijęs iš Aukaimio pilis (pilis): 1305 m. Karaliaučiaus komtūrui apgulus atstatytą Aukaimio pilį, Svirtila ją išdavė kryžiuočiams.
 - susijęs iš Aukaimio pilis (pilis): 1305 m. Karaliaučiaus komtūrui apgulus atstatytą Aukaimio pilį, pilies žmogus Svirtila ją išdavė kryžiuočiams.
 - susijęs iš Aukaimio pilis (pilis): 1292 m. kryžiuočiai, grįždami nuo Junigėdos, teriojo 1291 m. sudegintos Aukaimio pilies sritį.
@@ -4081,9 +4185,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Bartos žemė: Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.
 - susijęs iš Berlynas: Juozas Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje vidurinių amžių istorijoje.
 - susijęs iš Berlynas: Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje vidurinių amžių istorijoje.
-- susijęs iš Bidgoščius: Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties buvo užimta Zlotorija.
-- susijęs iš Bisenė: Kraštą niokoję kryžiuočių pulkai buvo sutraukti prie Bisenės pilies ir ją apgulė.
-- susijęs iš Bobrovnikai: Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties buvo užimta Zlotorija.
 - susijęs iš Braunsbergas: Braunsbergo gvardijonas buvo tarp Mažesniųjų brolių atstovų, laiškais popiežiui gynusių kryžiuočius nuo Gedimino skundo.
 - susijęs iš Burcos žemė: Brolio Hermano vadovavimo metais Teutonų ordinas Vengrijoje gavo vadinamąją Burcos žemę.
 - susijęs iš Burcos žemė: Burcos žemė Transilvanijoje.
@@ -4142,17 +4243,14 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Gardinas: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.
 - susijęs iš Gardinas: 1392 m. birželio gale prie Nemuno buvo sudegintas Naujasis Gardinas, Metena ir Ritterswerderis.
 - susijęs iš Gardinas: Vasarą maršalo pajėgos žygiavo Gardino link ir bandė pereiti Nemuną brasta, bet buvo sustabdytos.
-- susijęs iš Gardinas: Magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš Gdanskas: Vytauto laikais Vilniaus prekybiniai ryšiai jau siekė Gdanską ir Sileziją.
 - susijęs iš Georgenburgas: 1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą pilį Georgenburgą, tapatinamą su Jurbarku.
 - susijęs iš Gilgenburgas: Sąjungininkų kariuomenė paėmė Gilgenburgą ir žygiavo Tannenbergo kryptimi.
 - susijęs iš Golubovas: Per karą iš apgultų pilių buvo paimtas tik Golubovas.
-- susijęs iš Gotesverderis: Kryžiuočiai prie Nemuno, beveik priešais Kauną, pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.
 - susijęs iš Grabovė: Vytautas prekybos reikalus gynė ir 1414–1418 m. paliaubų pasitarimuose Grabovėje.
 - susijęs iš Grabovė: Derybos Grabove nedavė Vytautui naudingų rezultatų.
 - susijęs iš Grajevas: Melno sutartimi nustatyta siena senojoje jotvingių žemėje ėjo Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.
 - susijęs iš Grajevo: Lietuvos ribos buvo pravestos per Grajevo ir Ragordo ežerus, Vištyčio ežerą, Leipūnos ir Širvintos upes iki Šešupės.
-- susijęs iš Heilsbergas: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš Imsrė: 1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą Georgenburgo (Jurbarko) pilį.
 - susijęs iš Insterburgas: Tamova buvo aukščiau Insterburgo, ruože, kuriame Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos.
 - susijęs iš Italija: Dar prieš Konrado Mazoviečio pasiūlymą Kryžiuočių ordinui jo centras buvo Italijoje.
@@ -4168,7 +4266,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Karaliaučius: Vytauto laikais išplitę Vilniaus prekybiniai ryšiai apėmė Karaliaučių, su kuriuo prekiauta nuo seno.
 - susijęs iš Karaliaučius: Vytauto laikais išplitę Vilniaus prekybiniai ryšiai siekė Karaliaučių, Rygą, Gdanską, Sileziją ir rusų miestus.
 - susijęs iš Karaliaučius: Trys Gedimino laiškai buvo saugomi slaptajame Kryžiuočių archyve Karaliaučiuje ir paskelbti Augusto Kotzebue veikale.
-- susijęs iš Karaliaučius: Iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš Karšuva: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
 - susijęs iš Karšuvos sritis: 1259 m. Karšuvos srityje prie Mituvos ir Imsrės žiočių Livonijos ir Prūsų kryžiuočiai statė bendrą Georgenburgo pilį.
 - susijęs iš Kauernikas: Ties Kauerniku sąjungininkai priėjo Drevencos upę ir pamatė, kad perėjimą saugo kryžiuočiai.
@@ -4177,7 +4274,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Kaunas: 1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė lietuvių pilį Kaune.
 - susijęs iš Kaunas: 1382 m. birželio pabaigoje kryžiuočiai sunaikino Kauno apylinkėje ant Neries kranto stovėjusią Eigulių pilį.
 - susijęs iš Kaunas: 1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.
-- susijęs iš Kaunas: 1362 m. kryžiuočiai užgriuvo Kauną ir po ilgos apsiausties užėmė pilį.
 - susijęs iš Kaunas: Jogaila, susitaręs su Vytautu ir dėdamasis turįs kitų ketinimų, atvyko į Kauną.
 - susijęs iš Kaunas: Narbutas rašo, kad Kaune tarp pojėzuitinių pastatų buvo senoviniu būdu ir iš senovinių medžiagų sumūryto namo griuvėsiai.
 - susijęs iš Kauno pilis (pilis): Ordino ir talkininkų kariuomenė Nemunu laivais pasiekė Kauną ir po kovo 13-osios apgulė Kauno pilį.
@@ -4233,8 +4329,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Lenkija: Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.
 - susijęs iš Lenkija: Lietuvos pietvakariuose buvusi Lenkija tapo ilgamečio konflikto su Lietuva dalyve.
 - susijęs iš Lenkija: Ordino viršininkas siekė pasinaudoti kaimynų nesutarimais ir išardyti Lietuvos bei Lenkijos sąjungą.
-- susijęs iš Lenčica: Atleidęs kryžiuočių žygūną, karalius sušaukė seimą Lenčicoje.
-- susijęs iš Lenčica: Jogaila Didžiosios Lenkijos kariams liepė rinktis į Lenčicą kovai su Prūsija.
 - susijęs iš Lenčica: 1409 m. visuotiniame Lenčicos suvažiavime viršų gavo bendradarbiavimo su Lietuva idėja.
 - susijęs iš Lenčica: 1429 m. birželio 18 d. Vytauto delegatai Gedgaudas ir Rumbaudas atvyko į Lenčicą ir įteikė Jogailai Vytauto laišką.
 - susijęs iš Lietuva: Balińskis Kryžiuočių ordino nuniokojimą iki Medininkų ir Ašmenos vadino paskutiniu smūgiu pagoniškai Lietuvai.
@@ -4252,8 +4346,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Lietuvos valdos Lietuva: Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųsti į Prūsijos pasienį ir vežti grūdus į Lietuvą.
 - susijęs iš Liubava: Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės grobio dalies.
 - susijęs iš Liubekas: 1323 m. liepos 18 d. Liubeko rotušėje Rygos tarėjai Henrikas fon Calmaras ir Jonas Roghenas įteikė dominikonams tariamus Gedimino laiškus.
-- susijęs iš Liublinas: XIV a. Liublino gatvės buvo siejamos su gotikos rūmais, apsuptais aukštų sienų.
-- susijęs iš Liublinas: Krokuvos ir Liublino gatvės buvo siejamos su gotikos rūmais ir aukštomis sienomis.
 - susijęs iš Livonija: 1372 m. Ordinas puolė Lietuvą vienu metu iš Prūsijos ir Livonijos.
 - susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš Livonija: 1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį.
@@ -4264,8 +4356,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Livonija: Ordino kronikose 1345–1382 m. užregistruota 30 žygių iš Livonijos.
 - susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.
 - susijęs iš Livonija: Ordino kronikose 1345-1382 m. suregistruoti 66 kryžiuočių žygiai iš Prūsų ir 30 žygių iš Livonijos.
-- susijęs iš Livonija: Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
-- susijęs iš Livonija: Vilhelmui Fiurstenbergui su ordinu perėjus į Liuterio šalininkus, Livonijoje kilo neramumų.
+- susijęs iš Livonija: 1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
 - susijęs iš Loebau: Magistras prie Loebau atvedė savo pulkus ir iš pabėgėlių sužinojo, kad sąjungininkai žygiavo Tannenbergo kryptimi.
 - susijęs iš Lubava: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Lubava: Pavyslyje, ypač Kulmo ir Lubavo srityse, gyventojai buvo mišrūs: lenkai ir prūsai.
@@ -4319,7 +4410,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Nemunas: 1362 m. pavasarį Prūsų kryžiuočiai išgriovė svarbią lietuvių pilį Kauną Nemuno ir Neries santakoje.
 - susijęs iš Nemunas: Ordino įgaliotiniai įrodinėjo, kad Žemaitijos sienos prasideda keturios mylios nuo Nemuno krantų.
 - susijęs iš Nemunas: Po Kauno pilies kritimo kryžiuočiai pasiekė ir kitų laimėjimų prie Nemuno.
-- susijęs iš Nemunas: Užšalęs Nemunas leido magistro Konrado fon Tirbergo vedamiems kryžiuočiams lengvai persikelti ledu į Lietuvą.
+- susijęs iš Nemunas: Užšalęs Nemunas leido Konrado fon Tirbergo vedamai kryžiuočių kariuomenei ledu persikelti į Lietuvą.
 - susijęs iš Nemunas: Narbutas 1805 m. Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, matė labai seną mūro pilį.
 - susijęs iš Nemunas: Teodoro Narbuto aprašyme po kurio laiko kryžiuočiai pastūmė Prūsijos sieną iki Nemuno žemupio.
 - susijęs iš Neris: Neris anksčiau vadinta ir Panerta, nes, žiūrint nuo aukštų kalnų, atrodė tarsi panirusi.
@@ -4341,22 +4432,20 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Paneriai: Panerių pavadinimas siejamas su Neries vardu ir žodžiu „Panerta“.
 - susijęs iš Papartėnai: Persekiojami kryžiuočiai vis dėlto nuėjo iki Papartėnų netoli Kernavės.
 - susijęs iš Paryžius: Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje.
-- susijęs iš Parčevas: Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl amžinos taikos.
 - susijęs iš Pačtuva: 1292 ir 1294 m. Ordino kariuomenė pasiekė Nemuno dešiniojo kranto sritis ir nusiaubė Pačtuvą prie Vilkijos.
-- susijęs iš Perekopas: Perekopo vardas siejamas su senovėje gynybos tikslais grioviu perkasta sąsmauka, jungiančia Krymą su žemynu.
 - susijęs iš Perekopas: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
 - susijęs iš Perekopas: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
-- susijęs iš Pernarava: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama sunaikino Ariogalos, Pernaravos ir Labūnavos žemes Žemaitijoje.
+- susijęs iš Pernarava: Kojelavičiaus pasakojime Prūsų magistras, remiamas Bavarijos grafo Volfgango ir Livonijos kryžiuočių, sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.
 - susijęs iš Peštvė: Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta.
 - susijęs iš Peštvė: Pasak užrašo, Peštvės įgula pažadėjo apgulusiems kryžiuočiams krikštytis, bet po derybų nakčia išbėgiojo.
 - susijęs iš Peštvė: Kryžiuočiai grįždami sudegino Peštvę ir Veliuoną, dvi svarbias lietuvių pilis, ilgai rodžiusias tvirtą atsparumą.
 - susijęs iš Pieštvė: Kryžiuočiai per vieną žygį sugriovė Pieštvės ir Veliuonos pilis, o Pieštvės gynėjai pilį atidavė be kovos.
 - susijęs iš Pilėnai: Kunigaikščio Margirio vadovaujama apgultos Pilėnų pilies įgula narsiai gynėsi.
-- susijęs iš Pinskas: Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Plikoji Barta: Petro Dusburgiečio kronikoje Plikoji Barta minima kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Podolė: Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais.
 - susijęs iš Podolė: Podolės bajorai, vadovaujami Gregoro Kierdėjaus, suėmė Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos Lenkijos naudai.
 - susijęs iš Podolė: Podolės bajorai, vadovaujami Gregoro Kierdėjaus, atplėšė Podolę nuo Lietuvos ir perdavė Lenkijai.
+- susijęs iš Podolė: Podolė ne visa perėjo į tiesioginę Vytauto valdžią, nes ji nuo seno buvo glaudžiai susijusi su Lenkija.
 - susijęs iš Podolė: Lietuvos metraštyje Jonas Žadivydas vadinamas kunigaikščiu, valdžiusiu Podolės žemę.
 - susijęs iš Pograuda: 1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkę, žudydamas ir imdamas žmones į nelaisvę.
 - susijęs iš Poleksija: Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos kariai.
@@ -4383,12 +4472,9 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Prūsija: Kryžiuočiai po ariergardo pralaimėjimo skubiai pasitraukė į Prūsiją, pakelėse išmesdami gausų grobį.
 - susijęs iš Prūsija: Kryžiuočiai paragino ginkluotis Prūsijos vyrus ir pasikvietė pagalbininkų iš Silezijos, Austrijos, Vokietijos, Anglijos bei Prancūzijos.
 - susijęs iš Prūsija: Jogaila įsakė dvidešimt laivų su grūdais Vysla nuplukdyti į Prūsijos pasienį, kad maistas būtų nugabentas į Lietuvą.
-- susijęs iš Prūsija: Jogaila, matydamas kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.
 - susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį.
 - susijęs iš Prūsija: Narbutas rašo, kad 1253 metų pradžioje kryžiuočiai, sustiprinę saugumą nuo Vyslos pusės, ėmė siekti užkariauti Prūsiją.
 - susijęs iš Prūsija: Narbutas tikrosios Prūsijos sieną aprašo ėjusią Vyslos žemupiu, Baltijos jūra iki Nemunyno žiočių ir toliau iki Širvintos upės.
-- susijęs iš Pskovas: Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
-- susijęs iš Pskovas: Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
 - susijęs iš Pskovas: Ordino reikalautos Žemaičių ribos buvo vedamos iki Pskovo respublikos valdų.
 - susijęs iš Pskovas: Salyno akte ordinui tenkančių žemių sienos buvo nužymėtos iki Pskovo respublikos valdų.
 - susijęs iš Putvė: Putvė, dar vadinta Putenika, buvo prie Jūros upės stovėjusi žemaičių pilis, kuri iki paėmimo laikyta neįveikta.
@@ -4408,7 +4494,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Revelis: 1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje.
 - susijęs iš Rezeknės regionas: 1324 m. lapkritį Gedimino kariuomenė siaubė Rezeknės regioną Livonijos pietryčiuose.
 - susijęs iš Rezlis: Rezlis, dabartinis Rešelis, buvo į šiaurės rytus nuo Olštino, o jo vardas kildinamas iš prūsų kalbos.
-- susijęs iš Ritersverderis: Ritersverderis buvo netikėtai užpultas iš gretimos Marienburgo pilies ir užimtas palaužus gynėjų pasipriešinimą.
 - susijęs iš Romainiai: Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių.
 - susijęs iš Romanija: Brolio Hermano vadovavimo metais Ordinas gavo puikių dovanų Romanijoje.
 - susijęs iš Romuva: Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.
@@ -4442,7 +4527,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Sosnos upė: Korševas buvo miestas prie Sosnos upės, dešiniojo Dono intako, netoli totorių stepių valdų.
 - susijęs iš Strėva: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
 - susijęs iš Strėva: Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.
-- susijęs iš Svecė: Prie Bidgoščiaus kariuomenė gavo žinią, kad kryžiuočių pulkai artėja prie Svecės.
 - susijęs iš Sviečė: Iš Sviečės atvykę kryžiuočiai sustiprino Drevencos krantus ir apstatė juos patrankomis.
 - susijęs iš Sviečė: Lenkų puolimas įvyko netoli Sviečės, kai lietuviai puolė iš Žemaičių.
 - susijęs iš Sūduva: Petro iš Dusburgo kronikoje Sūduva minima kaip viena iš vienuolikos Prūsijos žemės dalių.
@@ -4455,13 +4539,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Torunė: Dusburgietis prūsų pilių vietas prie Torunės aprašė remdamasis ir kitų pasakojimais.
 - susijęs iš Točilovo ežerai: Melno sutarties siena senojoje jotvingių žemėje ėjo aukščiau Grajevo ir Točilovo ežerų.
 - susijęs iš Točilovo ežeras: Melno sutarties siena senojoje jotvingių žemėje ėjo aukščiau Grajevo ir Točilovo ežero.
-- susijęs iš Trakai: Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį, Skirgaila liepos 20 d. įtikino jos įgulą pasiduoti.
 - susijęs iš Trakai: Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos reikalus.
-- susijęs iš Trakai: Kęstučiui ir Vytautui rugpjūčio 3 d. atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.
-- susijęs iš Trakai: Kęstučio valdos, įskaitant dalį tikrosios Lietuvos su Trakais, dėl kaimynystės su kryžiuočiais nebuvo saugios.
 - susijęs iš Trakai: Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos valstybės reikalus.
-- susijęs iš Trakai: Rugpjūčio 3 d. Kęstučiui su Vytautu ir Liubartu atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.
-- susijęs iš Trakai: Kęstučiui ir Vytautui rugpjūčio 3 d. atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.
 - susijęs iš Trakų pilis (pilis): Skirgaila pasirinko Trakų pilį nuolatine buveine ir iš jos vykdavo į mūšius ar malšinti maištaujančių kunigaikščių.
 - susijęs iš Trakų pilis (pilis): Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo tik į karo žygius.
 - susijęs iš Trakų pilis (pilis): Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio.
@@ -4471,7 +4550,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Ukmergės apylinkė: 1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę.
 - susijęs iš Upa: Upa buvo Okos aukštupio dešinysis intakas prie Odojevo.
 - susijęs iš Upa: Upa apibūdinama kaip Okos aukštupio dešinysis intakas prie Odojevo, buvusio LDK rytų pasienyje.
-- susijęs iš Upytės pavietas: 1434 m. rugpjūčio pabaigoje vienas Livonijos kryžiuočių dalinys buvo įsibrovęs į Upytės pavietą.
 - susijęs iš Užnemunė: Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę.
 - susijęs iš Vaišvilčiai: Salyno akte ordinui tenkančių žemių siena nuo Vaišvilčių kaimo Nevėžio aukštupyje pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.
 - susijęs iš Valakija: Valakijos vaivada kartu su kryžiuočiais ir Švitrigaila sudarė sąjungą prieš Lenkiją.
@@ -4486,8 +4564,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai.
 - susijęs iš Veliuona: 1360 m. maršalo vadovaujama Ordino kariuomenė su talkininkais iš Vokietijos puolė Veliuonos pilį ir padarė jai daug žalos.
 - susijęs iš Veliuona: Ilgai buvo klaidingai aiškinta, kad Gediminas žuvo per Veliuonos apgulimą 1338 m.
-- susijęs iš Veliuona: Veliuonoje abi šalys turėjo tartis, ar pratęsti sudarytą susitarimą, ar sudaryti amžiną taiką.
-- susijęs iš Veliuona: Pasibaigus susitikimui karalius kurį laiką pasiliko Veliuonoje pailsėti, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.
+- susijęs iš Veliuona: Po 1418 m. susitikimo karalius kurį laiką pasiliko Veliuonoje, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.
 - susijęs iš Veliuonos pilis (pilis): 1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė Veliuonos pilį.
 - susijęs iš Ventės ragas: Kryžiuočiai prie Nemuno žiočių, Ventės rage, statė pilį, vadintą Vindenburgu.
 - susijęs iš Ventės ragas: 1360 m. kryžiuočiai tvirtinosi Nemuno žemupyje ir statė naują pilį prie Nemuno žiočių, Ventės rage, vadintą Vindenburgu.
@@ -4498,15 +4575,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Vilnius: Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir iki pat Vilniaus degino kaimus, plėšė turtą bei ėmė žmones į nelaisvę.
 - susijęs iš Vilnius: Į Lietuvą siunčiama pagalbinė kariuomenė iki Vilniaus turėjo vykti su savo maistu, o toliau ją turėjo aprūpinti Jogaila.
 - susijęs iš Vilnius: Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir žygiuodamas iki Vilniaus degino kaimus bei plėšė žmonių turtą.
-- susijęs iš Vilnius: Vilnius dėl stiprių tvirtovių įgulų išvengė puolimo, bet didysis magistras nuniokojo apylinkes iki Medininkų ir Ašmenos.
-- susijęs iš Vilnius: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė, nusiaubę kraštą ugnimi ir kalaviju.
-- susijęs iš Vilnius: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
-- susijęs iš Vilnius: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo miestas ir Gedimino sostinė.
-- susijęs iš Vilnius: Į Vilnių atvykus Žygimantui, Glogovo kunigaikščiui iš Silezijos, šalis išvengė grėsusio pilietinio karo.
-- susijęs iš Vilnius: Vilniuje gauta žinia, kad Podolės bajorai atplėšė Podolę nuo Lietuvos ir perdavė ją Lenkijai.
-- susijęs iš Vilnius: Pirmasis autentiškas Vilniaus kaip miesto ir Gedimino sostinės paliudijimas siejamas su 1323 m. spalio 2 d. Vilniuje pasirašyta sutartimi.
-- susijęs iš Vilnius: Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.
-- susijęs iš Vilnius: Kariuomenė slapta išvesta nuolaidžiais Vilnios krantais užpuolė vokiečių stovyklą.
 - susijęs iš Vingrių šaltiniai: Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš Visla: 1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos.
 - susijęs iš Vitebskas: Švitrigailos pajėgose buvo rytinių LDK slaviškų žemių, tarp jų Vitebsko, kariai.
@@ -4519,7 +4587,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Vokietija: Kryžiuočių ordino veikloje išliko paprotys kviesti svečius iš Vokietijos.
 - susijęs iš Vokietija: Vokietijos universitetuose besimokę didikų vaikai protestantų mokslą parsiveždavo į Lietuvą.
 - susijęs iš Vokietija: Po magistro mirties Ordine buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos šeimose.
-- susijęs iš Volbožas: Jogaila paliepė Mažosios Lenkijos ir Volynės kariams rinktis į Volbožą, o Didžiosios Lenkijos kariams - į Lenčicą.
 - susijęs iš Voluinė: 1248 m. Mindaugo opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę.
 - susijęs iš Vorskla: Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.
 - susijęs iš Vorskla: Rugpjūčio pradžioje Lietuvos jungtinė kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene.
@@ -4537,7 +4604,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
 - susijęs iš Zantiras: Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksčiau vadinosi Zantiru.
 - susijęs iš Zietela: Zieteloje į pietvakarius nuo Naugarduko iki autoriaus laikų buvo išsilaikiusi lietuvių kalbos sala.
-- susijęs iš Zlotorija: Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir išdavus Bidgoščių.
 - susijęs iš Čekija: Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu.
 - susijęs iš Įsrutis: 1336 m. nadruvių plote buvo pastatyta didelė keturių bokštų Įsruties pilis.
 - susijęs iš Šalčininkai: 1382 m. kryžiuočiai, niokodami kraštą, buvo pasiekę Šalčininkus ir Trakus.
@@ -4568,7 +4634,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Žemaitija: Leidėjų pastaboje Bychovco kronika vertinama kaip menkas Žemaitijos ir karų su kryžiuočiais istorijos šaltinis.
 - susijęs iš Žemaitija: Narbutas aiškina, kad aukuras ir apeigos Žemaitijoje išliko dėl Jogailos ir Vytauto pagarbos kunigaikštienei Birutei.
 - susijęs iš Žemaičių aukštuma: Žemaičių aukštumoje išaugo ištisos ginamųjų pilių grandinės.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): 1390 m. Vilniaus puolimo metu Kreivoji pilis buvo sudeginta ir daugiau nebeatstatyta.
 - susijęs iš Žemutinė pilis: Žemutinė pilis driekėsi apačioje, buvo vadinta Kreivąja, o joje buvo kunigaikščių menės.
 - susijęs iš Žiemgala: 1259–1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti.
 - susijęs iš Žiemgala: 1259-1260 m. žiemą Žiemgaloje buvo pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.
@@ -4602,7 +4667,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/zodynas/emyras.md#claim-t-183709|emyras]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
 - susijęs iš [[objektai/zodynas/flangas.md#claim-t-42453|flangas]]: Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol į mūšį neįsitraukė pagrindinės lenkų pajėgos, nes priešingu atveju būtų pavojingai atidengtas lietuvių sąjungininkų dešinysis flangas.
 - susijęs iš [[objektai/zodynas/flangas.md#claim-t-42454|flangas]]: Lenkų rezervas pradėjo apeiti kryžiuočius iš jų dešiniojo flango.
-- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-184613|gurguolė]]: Prie Liubavos Sūduvos prūsai ir žemaičiai, pabėgę nuo kryžiuočių puolimo, paliko stovyklą ir gurguoles.
+- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-184613|gurguolė]]: Prie Liubavos Sūduvos prūsai ir jiems į pagalbą atėję žemaičiai, kryžiuočių puolami, pabėgo ir paliko stovyklą bei gurguoles.
 - susijęs iš [[objektai/zodynas/kapitula.md#claim-t-70167|kapitula]]: Ordino kapitulai sutikus, kryžiuočių viršininkas pavedė Vytautui valdyti Naują Marienburgo pilį.
 - susijęs iš [[objektai/zodynas/kapitula.md#claim-t-70168|kapitula]]: Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį.
 - susijęs iš [[objektai/zodynas/komtūras.md#claim-t-182848|komtūras]]: Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą.
@@ -4620,7 +4685,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/zodynas/otčici.md#claim-t-36820|otčici]]: Lietuvių ir rusų kunigaikščiai tėvynainiai, arba otčici, turėjo visišką nuosavybės teisę į savo valdomas žemes.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58774|papilys]]: Bežglove po 1277 m. buvo atstatyta mūrinė kryžiuočių pilis su papiliu.
 - susijęs iš [[objektai/zodynas/patepimas į valdžią.md#claim-t-86606|patepimas į valdžią]]: Vilniuje Vytautas iš Vilniaus vyskupo Andriaus Važilo gavo patepimą tapti Lietuvos didžiuoju kunigaikščiu.
-- susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Bisenės užpuolimą pilėnai narsiai atrėmė, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
+- susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Kojelavičiaus pasakojime Bisenės pilėnai narsiai atrėmė užpuolimą, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
 - susijęs iš [[objektai/zodynas/poliublininiai laikai.md#claim-t-32803|poliublininiai laikai]]: Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.
 - susijęs iš [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai.md#claim-t-103840|poliublininis laikotarpis poliublininiai laikai]]: Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.
 - susijęs iš [[objektai/zodynas/poliublininis laikotarpis.md#claim-t-05603|poliublininis laikotarpis]]: Poliublininiame laikotarpyje iki T. Narbuto laikų atskiros Lietuvos istorijos tradicija nebebuvo tęsiama.
@@ -4628,7 +4693,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58793|prūsas Prūsa Prūsija]]: XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.
 - susijęs iš [[objektai/zodynas/rezervas.md#claim-t-42503|rezervas]]: Žalgirio mūšyje didysis magistras metė rezervą į kovą, kai mūšio sėkmė krypo ne jo naudai.
 - susijęs iš [[objektai/zodynas/rezervas.md#claim-t-42504|rezervas]]: Aktyvuotas lenkų rezervas pradėjo apeiti kryžiuočius kairėje nuo jų dešiniojo flango.
-- susijęs iš [[objektai/zodynas/seimas.md#claim-t-185391|seimas]]: Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42511|stabmeldys]]: Viena stabmeldė pranešė magistrui, kad lietuvių karalius telkia kariuomenę Sembos žemei nusiaubti.
 - susijęs iš [[objektai/zodynas/stabmeldžiai.md#claim-t-185392|stabmeldžiai]]: Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisinti karą jų žemėse.
 - susijęs iš [[objektai/zodynas/supremacija.md#claim-t-36838|supremacija]]: Teisiškai Lietuva buvo susieta su Lenkija ir buvo visiškoje jos supremacijoje.
@@ -4643,7 +4707,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta.md#claim-t-58940|viešpaties dievo kariuomenė dievo tauta]]: Kronikoje Ordino broliai vadinami „viešpaties dievo kariuomene“ ir „dievo tauta“.
 - susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192271|vitingas]]: Teodoras Narbutas vitingų titulo aiškinimą sieja su Sambijoje buvusia bajorų kasta, vadinta Withingen.
 - susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192272|vitingas]]: Teodoras Narbutas vitingų titulą aiškina kaip skandinavų vikingų įpėdinių išsaugotą titulą tarp Sambijos bajorų.
-- susijęs iš [[objektai/zodynas/vora.md#claim-t-184651|vora]]: Girdila pasisiūlė siaurais miškų takais vesti kareivių voras, kad netikėtai užkluptų Aukaimio pilį.
 - susijęs iš [[objektai/zodynas/vėliavininkas.md#claim-t-185416|vėliavininkas]]: Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenės vėliava pateko į lietuvių rankas.
 - susijęs iš [[objektai/zodynas/činšas.md#claim-t-82132|činšas]]: Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių.
 - susijęs iš [[objektai/zodynas/įgula.md#claim-t-185372|įgula]]: Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus.
@@ -4670,11 +4733,9 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-29505|J. Posilge]]: Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172931|M. Strijkovskis Stryjkowski]]: Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė.
 - susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-179567|Zenonas Ivinskis]]: Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184563|Kalavijuočių ordinas]]: Mūšyje su lietuviais ordino kariuomenė buvo sutriuškinta, o pats magistras žuvo su beveik 20 ordino riterių.
 - susijęs iš [[objektai/grupes/Rygiečiai.md#claim-t-179438|Rygiečiai]]: Gedimino laiškų kaltinimai ordinui leido kelti prielaidą, kad juos Gedimino vardu sufabrikavo Livonijos ordino priešai rygiečiai.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176130|Žemaičiai]]: Gardino preliminarine sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo padėti statyti pilis.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-182932|Žemaičiai]]: Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.
-- susijęs iš [[objektai/ivykiai/Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.).md#claim-t-185697|Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.)]]: Lietuvos Braste Jogaila, Vytautas ir skitų chanas nusprendė visomis jėgomis pradėti bendrą karą prieš kryžiuočius.
+- susijęs iš [[objektai/ivykiai/Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.).md#claim-t-185697|Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.)]]: Lietuvos Braste Jogaila, Vytautas ir Kojelavičiaus skitų chanu vadinamas sąjungininkas nutarė pradėti bendrą karą prieš kryžiuočius.
 - susijęs iš [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md#claim-t-100022|Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]: Gediminas, numatydamas ilgą kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.
 - susijęs iš [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.).md#claim-t-62816|Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]: Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą Vokiečių ordinui.
 - susijęs iš [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.).md#claim-t-97032|Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]: Lietuvos vardu protestuoti į Prahą nuvyko Butrimas ir Vytauto sekretorius Cibulka.
@@ -4715,7 +4776,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97313|Aldona Gediminaitė]]: 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176346|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, matydamas kryžiuočius kuriantis priešais jo Veliuonos pilį, nusprendė juos iš ten išvyti.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176354|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184719|Jogaila (kunigaikštis, XIV–XV a.)]]: Kojelavičius Jogailai priskiria klastingą dėdės nužudymą ir morališkai nepateisina jo slaptų sandėrių su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Jonas (kancleris).md#claim-t-60342|Jonas (kancleris)]]: Kancleris Jonas buvo tarp liudytojų, dalyvavusių apie 1226 arba 1230 m. patvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90015|Sventopelkas]]: 1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90019|Sventopelkas]]: Petras Dusburgietis Pamario kunigaikštį Sventopelką vadina išdaviku dėl bendradarbiavimo su prūsais prieš Ordiną.
@@ -4728,7 +4788,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175124|Sūduviai-jotvingiai]]: 1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89245|Sūduviai]]: 1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176116|Žemaičiai]]: Zenonas Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir Mindaugo karines pajėgas prieš Ordiną.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176131|Žemaičiai]]: 1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto gyventojai pareiškė Ordinui paklusnumą.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176149|Žemaičiai]]: Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.
 - susijęs iš [[objektai/ivykiai/Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.).md#claim-t-185506|Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.)]]: Po pralaimėjimo kryžiuočiams sunkiai į galvą sužeistas Vytenis paliko stovyklą ir kariuomenę, bet dviejų karių lydimas paspruko.
 - susijęs iš [[objektai/ivykiai/Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.).md#claim-t-185520|Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)]]: Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius.
@@ -4737,6 +4796,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
 - susijęs iš [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.).md#claim-t-89407|Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]: 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje.
 - susijęs iš [[objektai/paprociai/Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika.md#claim-t-77955|Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika]]: Vytauto politika buvo orientuota į bažnytinę Lietuvos konversiją ir „švento valdovo“ įvaizdį.
+- susijęs iš [[objektai/posakiai/O trečių vasarų.md#claim-t-199232|O trečių vasarų]]: Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m.
 - susijęs iš [[objektai/posakiai/kein Soule sie karten wider.md#claim-t-28705|kein Soule sie karten wider]]: Frazė „kein Soule sie karten wider“ nusakė kryžiuočių grįžimą prie Saulės, kur 1236 m. rugsėjo 22 d. juos sumušė Vykinto vadovaujami žemaičiai.
 - susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-195043|„Lietuvos karaliaus sūnus“]]: Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.
 - susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-195044|„Lietuvos karaliaus sūnus“]]: Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. rašė apie jo žygį į Livoniją.
@@ -4746,6 +4806,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.): Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių.
 - susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko.
 - susijęs iš Ariogala: Mindaugas karūnavimo metais ordinui užrašė pusę Ariogalos žemės Žemaičiuose.
+- susijęs iš Astravas: 1392 m. rugpjūčio 4 d. Astrave, netoli Lydos, buvo rašyti du aktai dėl Vytauto padėties.
 - susijęs iš Brodnica: Vytautas 1414-1418 m. paliaubų pasitarimuose Brodnicoje gynė prekybos reikalus su Ordinu.
 - susijęs iš Fridbergas Vytėnai: Fridbergu vadinta kryžiuočių pilis stovėjo už 2 mylių nuo Veliuonos žemyn Nemuno tėkme.
 - susijęs iš Rudamina: Vytautas ties Rudamina pasitiko kryžiuočių pulkus, bet per tirštą rūką klaidingai įvertino jų dydį ir skubiai atsitraukė.
@@ -4785,7 +4846,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.).md#claim-t-185599|Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)]]: Po pralaimėjimo kryžiuočiai traukėsi iš priešo šalies, bet lietuviai iš anksto užtvėrė miškų takus.
 - susijęs iš Henriko iš Hohenlohės pranešimas: Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.
 - susijęs iš Marienburgas: Nuo 1309 m. Marienburgas buvo vienas iš Ordino administracinių centrų.
-- susijęs iš Pinskas: Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Šešupė: Sūduvos dykroje siena ėjo Šešupės krantu per girių masyvus, o Šešupės žemupys buvo paliktas Ordinui.
 - susijęs iš [[objektai/zodynas/lėnas.md#claim-t-70216|lėnas]]: Vytautas pažadėjo valdyti savo tėviškę kaip Ordino lėną, jei Ordinas padėtų ją atgauti.
 - susijęs iš [[objektai/asmenys/Albertas.md#claim-t-190837|Albertas]]: Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė.
@@ -4803,7 +4863,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš 1323 m. Vilniaus sutartis: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku Vilniaus kaip Gedimino sostinės paliudijimu.
 - susijęs iš Kaunas: Planuota siena žemupyje buvo išvesta taip, kad Kaunas ir Rumšiškių plotas turėjo patekti Ordinui.
 - susijęs iš Nevėžis: Atiduodamas vokiečiams visą Žemaičių kraštą iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną.
-- susijęs iš Vilnius: Kariuomenė slapta išvesta nuolaidžiais Vilnios krantais užpuolė vokiečių stovyklą.
 - susijęs iš [[objektai/zodynas/latrunkuliai.md#claim-t-58913|latrunkuliai]]: Krikščioniškieji plėšikautojai, vadinti latrunkuliais, veikė Ordino labui ir galėjo teikti žinių kronikai.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.).md#claim-t-185657|Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)]]: Lietuvių pasaloje kryžiuočiai sugriuvo į šakomis ir velėnomis pridengtus griovius, prarado vadus ir dalį karių.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89836|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Dusburgietis Hermano vadovavimo laiką sieja su Ordino privilegijų, dovanų ir valdų išplėtimu.
@@ -4834,440 +4893,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/ivykiai/Jogailos brolių sukilimas.md#claim-t-01626|Jogailos brolių sukilimas (sukilimas)]]: Jogaila artinosi su kryžiuočiais, nes ieškojo paramos prieš vyresniuosius brolius, nepripažinusius jo valdžios.
 - susijęs iš [[objektai/ivykiai/Vytauto derybos su kryžiuočiais.md#claim-t-95974|Vytauto derybos su kryžiuočiais]]: 1390–1392 m. antrą kartą į Prūsus pabėgęs Vytautas derėjosi su kryžiuočiais ir kovojo su Jogaila.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Todėl kryžiuočiai pristatė Žemaičiuose daugybę pilių (vieną pilį net patsai Vytautas jiems padėjo statyti).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl kryžiuočiai pristatė Žemaičiuose daugybę pilių (vieną
-    pilį net patsai Vytautas jiems padėjo statyti). Ordinas bandė
-    ir geruoju patraukti žemaičius: į sunaikintą kraštą gabeno gy-
-    vulius, maistą ir kūrė ūkius. Tuo būdu dalis žemaičių buvo pri-
-    viliota ir vyko į Marijenburgą krikštytis, nes, Vytautui remiant
-    ordiną, nebebuvo vilties išsivaduoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-293
-
-- c-002
-  santrauka: 'Be to, vakarų Europoje skleidžiamose kronikose vokiečių ordinas tyčia žemino lietuvius, norėdamas pateisinti savo nuolatinius kruvinus žygius ir tuo būdu prisivilioti sau į talką daugiau karingų Europos riterių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, vakarų Europoje sklei-
-    džiamose kronikose vokiečių ordinas tyčia žemino lietuvius, norė-
-    damas pateisinti savo nuolatinius kruvinus žygius ir tuo būdu prisi-
-    vilioti sau į talką daugiau karingų Europos riterių. Kas gi nenorės
-    vykti pamatyti tų „laukinių baisenybių", o kartu patarnauti ir krikš-
-    čionybei? Tad iki pat XV amžiaus Europoje tolydžio buvo kalbama
-    apie Lietuvos barbariškumą, apie jos gyventojų nežmoniškumą. Tada
-    nebuvo kas parodo pasauliui tikrosios Lietuvos vaizdo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-295
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pastarojo
-    nariai (o taip pat ir templininkai) nešiojo baltus apsiaustus su išsiūtu
-    juodu kryžium, todėl mūsų krašte dažniausiai būdavo vadinami kry-
-    žiuočiais. Kitur juos paprastai vadino vokiečių, arba Marijos Mergelės,
-    ordinu. Ordinas buvo vokiečių imperatorių bei kunigaikščių remia-
-    mas ir labai greit pralobo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223
-
-- c-004
-  santrauka: 'Kryžiuočių ordinas, remdamasis Salyno sutartimi, reikalavo grąžinti jam pabėgėlius žemaičius.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ordinas, remdamasis Salyno su-
-    tartim, reikalavo, kad pabėgėliai žemaičiai būtų jam grąžinami.
-    Bet sutarty buvo minimi tik nelaisvieji valstiečiai, ir Vytautas tei-
-    sinosi, kad laisvieji galį kilnotis kur tinkami. O nustatyti, kas
-    Žemaičiuose buvo laisvas, o kas ne, buvo labai sunku. Todėl jis
-    nepaisė ordino reikalavimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-054
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tais pačiais 1409 m. Lietuvoje buvo nederlius. Jogaila, norė-
-    damas padėti Lietuvai, siuntė jai javų. Tačiau ordinas Ragainėje
-    juos sulaikė. Tatai Vytauto santykius su ordinu visai nutraukė,
-    ir jis, jau nebesislėpdamas, nusiuntė į Žemaičius savo bajorų ir
-    paėmė juos į savo valdžią.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-203
-
-- c-006
-  santrauka: 'Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą
-    pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.
-    Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis pre-
-    kybos punktas buvo Rygos miestas. Nemuno žiotys buvo ap-
-    gultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos pre-
-    kybą. Priėjimas prie Rygos Dauguvos upe taip pat buvo ga-
-    na sunkus, — čia irgi trukdė tie patys kryžiuočiai, — vis dėlto čia
-    buvo kiek lengviau: mat, Ryga buvo laisvas miestas, kuris, no-
-    rėdamas pasipelnyti, buvo sukalbamesnis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-296
-
-- c-007
-  santrauka: 'Albrechto mėginimai susitarti su Lenkija nenusisekė, todėl ordinui teko pradėti karą su lenkais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tokiais sumetimais ir bu-
-    vo išrinktas magistru (1511
-    m.) Ansbacho Hohenco-
-    lernų šeimos narys, kara-
-    liaus Zigmanto seserėnas
-    (Kazimiero dukters sūnus)
-    Albrechtas. Buvo tikimasi,
-    kad jis sugebės geriau su-
-    sitarti su Lenkija jau vien
-    dėl savo giminystės su ka-
-    ralium. Tačiau visi mėgini-
-    mai nenusisekė, ir ordinui
-    teko pradėti su Lenkais ka-
-    rą. Karas ordinui nesisekė, ir teko padaryti paliaubas, nieko ne-
-    laimėjus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-070
-
-- c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Prie­
-    šingai, kryžiuočiai paleido į Vak. Europos visuomenę gandų,
-    kad Lietuvos krikštas yra tariamas, atliktas paviršutiniškai,
-    be didesnio žmonių paruošimo ir net apsikrikštijusieji tai da­
-    rė dovanų pavilioti^2 ). Vytautas, jų vadas, esąs grasinąs sa­
-    vo arklius pagirdyti Reino upėje, vadinasi, katalikas būdamas,
-    norįs užimti ir sunaikinti katalikišką Vokietiją. Vak. Europos
-    visuomenė tikėjo Ordinui ir laikė tik jį tikėjimo gynėju Europos
-    Rytuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-063
-
-- c-009
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ir Prūsų
-    ordinas mielai priglausdavo tokius perbėgėlius, juos pakrikštydamas.
-    Jų žemes ordinas priiminėjo vasaliniais feodais, vis rūpestingai
-    aktuose pažymėdamas, jog buvę savininkai gaus savo žemes valdyti,
-    kai Lietuva bus nukariauta^91.
-    Apie tokį svarbų dalyką, kaip Mindaugo krikštas, smulkesnių
-    žinių nerandama, nes Eiliuotinės kronikos, Ipatijaus metraščio ir
-    popiežiaus Inocento IV bulių užuominos yra per bendros.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-180
-
-- c-010
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ordinas teturėjo vieną tikslą : savo nepaliaujamais teriojimo
-    žygiais, kurie labiausiai kankino Žemaičius, paklupdyti pagonių
-    kraštą ir jį užvaldyti. Puolimai sekė puolimus. Pvz., 1316 m.
-    pradžioje kryžiuočiai plėšė Dubysos žemupį, paskui jie brovęs
-    krašto gilumon iki Varnių; balandžio mėn. jie sunaikino Biseną,
-    o vasarą vėl teriojo Varnių sritį, kurią trumpu laiku nuliežė kelis
-    kartus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-205
-
-- c-011
-  santrauka: 'Ordino karų metu Lietuvos ūkis buvo smarkiai žalojamas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos ūkis smarkiai buvo žalojamas ordino karų metu.
-    Iš pagonių sodybų, kur praeidavo ordino būriai, nieko nelikdavo.
-    Šitokiu ūkio naikinimu buvo tikima lietuvius palaužti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-117
-
-- c-012
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nepaliaujami ir nuo Traidenio laikų besitęsią karai su abiem
-    vokiečių ordino šakom turėjo gana neigiamos įtakos į gyventojų
-    prieauglių ir į pačią Lietuvos apgyvendinimo eigą. Pagoniškieji
-    valstybės plotai, kuriuos kryžiuočiai pasiekdavo iki pat krašto gilu­
-    mos, labiausiai kentėjo. Kaip taisyklė — pagonys vyrai buvo žu­
-    domi, o moterys su vaikais išvedami nelaisvėn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-100
-
-- c-013
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Po
-    pirmo katastrofos smūgio ordinas tačiau ėmė atsipeikėti. Kai
-    Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko
-    apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės
-    jau nebeįstengė paimti.
-    Buvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos
-    ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius
-    _sulaikė_ nuo dalyvavimo Žalgirio kautynėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-231
-
-- c-014
-  santrauka: 'Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Iš savo pusės, sutikdami apsi­
-    krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­
-    tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­
-    lius bei Kuršius Livonijoje. Kadangi Lietuvai apsikrikštijus
-    Ordino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,
-    tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
-    nuo totorių užpuldinėjimo.
-    Kai ciesorius ir Vokiečių Ordinas su dideliais Lietuvos val­
-    dovų reikalavimais nenorėjo sutikti, vėl reikėjo griebtis kardo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-015
-  santrauka: 'Ordinas išplėtė veiklą Lietuvos pasienyje ir netoli Gardino pastatė Naująjį Gardiną bei Metenburgą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Matydamas Vytauto pastangas neinant veltui, Ordinas ma­
-    tė reikalą taip pat išplėsti Lietuvos pasienyje akciją. Dar
-    vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi
-    pilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­
-    talpintos kryžiuočių įgulos.
-    Iš čia aišku, kad Vytautas, nežiūrint Jogailos didelių
-    pasiūlymų, palaikė dar gana gerus santykius su Ordinu dėl to,
-    kad jam, matyti, dar nebuvo atėjęs laikas veikti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-090
-
-- c-016
-  santrauka: 'Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių prisidėti prie Vytauto kariuomenės.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ordinas atsiuntė savo komtūrą
-    Marquardą v. Salzbachą su keliais tūkstančiais kariuomenės;
-    prisijungė prie Vytauto su savo pulkais ir Tochtamyšas. Tuo
-    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
-    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
-    kariuomenė buvo internacionalinė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-046
-
-- c-017
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ordino kariuomenė, sudaryta iš pėstininkų, raitelių ir arti­
-    lerijos, buvo už abi sąjungininkų (lietuvių ir lenkų) kariuomenes
-    geresnė. Ji buvo geriau ginkluota, sutvarkyta, drausminga ir
-    kovose patyrusi, — tai buvo visos Europos kariuomenių pavyz­
-    dys. Nuolatinę kariuomenę sudarydavo Ordino broliai, o karui
-    ištikus kviesdavosi ir samdydavosi riterių iš įvairių Europos
-    kraštų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-018
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
-    niku. Čia pastebėjo, kad perėjimas per tą upę jau kryžiuočių
-    buvo saugojamas. Jie čia jau buvo atvykę iš Sviečės, sustipri­
-    nę upės krantus ir apstatę juos patrankomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113
-
-- c-019
-  santrauka: 'Kol lenkai dar rikiavosi, Kryžiuočių ordino kariuomenė buvo sustatyta į dvi eiles.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuo tarpu, kol
-    dar lenkai tvarkėsi, Ordino kariuomenė buvo sustatyta į dvi
-    eiles. Ordinas galėjo pulti dar nesusitvarkiusius lenkus, bet jis
-    to nedarė, matyti bijojo, kad girioje galėjo būti dar daug pasi­
-    slėpusios kariuomenės. Trečioji Ordino kariuomenės eilė sto­
-    vėjo dar tolokai nuo mūšio lauko ir buvo laikoma atsargai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-087
-
-- c-020
-  santrauka: 'Vokiečių ordinas nenorėjo nusileisti Vytautui ir Vakarų Europoje skelbė jį pavojingu katalikams valdovu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vok. Ordinas nenorėjo nusileisti. Apie Vytautą jis skelbė
-    Vak. Europoje, kad tai yra labai pavojingas katalikams valdo­
-    vas, nes visas pilis paveda stačiatikiams ir susideda su toto­
-    riais, kurie veržiasi Europon.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-167
-
-- c-021
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet štai Vytautas Žalgirio mūšyje (1410) palaužė Ordino
-    galybę ir Žemaitijai grąžino laisvę. Torno taika (1411) įgijęs
-    Žemaičių kraštą iki gyvos galvos, Vytautas jau nebesiskaitė su
-    žemaičių prisirišimu prie savo tikėjimo ir pasiryžo juos ap­
-    krikštyti. Tuo būdu Ordinas, pralaimėjęs Žalgirio kovą, pra­
-    laimėjo ir čia, nes jo užsimojimas apkrikštyti visą Lietuvą ir
-    plačiai garsintas pasauliui rytuose apaštalavimas, kurį jis vedė
-    kardu, sudužo į Vytauto galybę. Vytautui, bet ne Ordinui,
-    teko garbė laimėti Žemaičius Kristaus Bažnyčiai. Torno tai­
-    koje Ordinui buvo priminta, kad pasistengtų atvesti į Katalikų
-    Bažnyčią Prūsijos ir Livonijos netikinčiuosius, ko jis nepadarė
-    per 200 metų^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-022
-  santrauka: 'Ordinas plano nepriėmė, bet ir griežtai jo neatmetė, laukdamas imperatoriaus reakcijos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ordinas to plano nepriėmė, bet ir griežtai nuo jo neatsisakė. Vis­
-    kas turėjo pareiti nuo to, kaip į tai reaguos imperatorius. Jei
-    jis paskelbtų Lenkijai karą, Ordinas žinoma, prisidėtų^3 ). 1392
-    m. mėginta ir koalicija prieš Lenkiją sudaryti; jos vyriausi va­
-    dai buvo Ordinas ir du Luksemburgiečiai: Zigmantas Vengrie­
-    tis ir Vaclovas Čekietis^4 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-076
-
 - c-023
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pirmuoju tokiu draugu vi­
-    suomet būdavo Ordinas. Bet ir pastarasis, bauginamas Vytau­
-    to laimėjimų rytuose, verčiamas buvo ieškotis taikos Lietuvoj.
-    Kryžiuočiai gerai suprato, kad Vytauto galybės išaugimas ne
-    tik jam padės atsiskaityti su Lenkija, bet ir jų pačių norams —
-    užkariauti Žemaitiją, kaip tiesioginį sausažemiu susisiekimą su
-    Livonijos Ordinu ir įsigalėti rytuose — padarys galą. Todėl
-    jie ir juto reikalą kaip nors susiartinti su Lietuva, kad nors tuo
-    tarpu iš jos ką nors laimėtų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-091
-
-- c-024
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet tuo tarpu su Lietuvos priešu Or­
@@ -5287,285 +4913,9 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-
-- c-025
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Sekančiais metais Vytautas su kryžiuočių diplomatais su­
-    važiavo į Kauną ir, be Lenkijos žinios, suteikė Vokieč.
-    Ordinui teise abipus Nevėžio statytis malūnus^2 ) ir atskiru aktu
-    pasižadėjo eiti jam į pagalbą prieš visus jo priešus. Ordinas irgi
-    sutarty pasižadėjo ginti Vytautą nuo jo priešininkų^3 ). Nors
-    Vyt. ir pažymėjo, kad jam esą netinka kelti rankos prieš lenkų
-    karalių^4 ), bet ši nauja sutartis aiškiausiai prieštaravo jo praeitų
-    metų pasižadėjimams. Šita taika su Ordinu Vytautui buvo ne
-    tik reikalinga rytų politikai, bet ir lenkams parodyti, kad jis yra
-    laisvas valdovas savo kraštuos ir savo politikoj. Bet kartu tas
-    jo savarankiškas žygis buvo ir neseniai pasirašytos unijos su­
-    laužymas^5 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222
-
-- c-026
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Iš Lietuvos geografinės būklės ir minėtų čia prekybos san­
-    tykių galime jau pastebėti, kad Vokiečių Ordinas Vytauto laikų
-    prekybai turėjo didžiausios įtakos, nes per jo žemes ėjo svar­
-    biausi keliai į Vakarų Europą ir Dancigą, su kuriuo lietuviai tu­
-    rėjo daugiausia reikalų. Taip pat Ordinas buvo ir turtingiau­
-    sias Vytauto kaimynas. Taigi Vytautas negalėjo išvengti su
-    juo nuolatinių prekybos santykių susijusių su visa eile politinių
-    įvykių, kuriems gerėjant arba blogėjant, atitinkamai keitėsi ir
-    prekyba su Ordinu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-138
-
-- c-027
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Labai aukštai
-    savo ir visos Lietuvos vardą pakėlė sudarydamas kompaniją
-    prieš Ordiną, kuri galutinai savo tikslo pasiekė. Ordinas tapo
-    deskredituotas. Krašto viduje savo valstybės garsui jis visaip
-    globojo atvykstančius apsigyventi ar prakeliaujančius svetimša­
-    lius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-161
-
-- c-028
-  santrauka: 'Kryžiuočių ordinas, neįstengęs vienu dideliu žygiu pavergti Lietuvos, ėmė puldinėti ją nedideliais pasienio pilių būriais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ordinas jau gavo įsitikinti,
-    kad dideliu žygiu iš karto vis tiek negalės pavergti Lietuvos, to-
-    dėl griebėsi kitokios taktikos. Nedideli jo kariuomenės būriai
-    iš pasieninių pilių staiga įsiverždavo į Lietuvą ir, apiplėšę apylin-
-    kę, skubiai grįždavo į savo pilis. Grįždami jie atsigabendavo pri-
-    plėštus turtus, atsivarydavo bandas gyvulių ir atsivesdavo dau-
-    gybę belaisvių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-151
-
-- c-029
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmasis jos krikšto ban-
-    dymas Mindaugo laikais nepasisekė, nes to paties krikšto proga
-    vokiečių ordinas stengėsi užgrobti pagoniškosios Lietuvos žemių
-    dalį, būtent Žemaičius. Žemaičiai betgi nepasidavė; prie jų pri-
-    sidėjo pagonybės šalininkai Aukštaičiuose, ir Mindaugas, svyra-
-    vęs prie jų prisidėti, pagaliau žuvo (žiūr. 52, 59 psl.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-172
-
-- c-030
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau santykiai tarp ordino ir
-    Vytauto tiek paaštrėjo, kad jis parėmė žemaičius, ir tie visus
-    kryžiuočius išvarė iš savo krašto. Jie sugriovė net Klaipėdą ir
-    įsiveržė į ordino žemes už Nemuno. Tada ordinas nusprendė pa-
-    remti iš Lietuvos pabėgusį ir vis dar nenurimstantį Švitrigailą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195
-
-- c-031
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Ūkis.** Pagrindinė Lietuvos ūkio šaka buvo žemdirbystė.
-    Bet ji gana sunkiai klestėjo: ją trukdė nuolatiniai kryžiuočių už-
-    puolimai, kurių kartais būdavo bent po 4—5 ar net po daugiau
-    per vienerius metus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169
-
-- c-032
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Karas su Lenkija.** Lenkams negrąžinant Podolės, Švitrigaila
-    tuojau užmezgė ryšius su abiem vokiečių ordino šakom (1431 m.).
-    Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri or-
-    dinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis revi-
-    duoti Melno taikos sąlygas. Šia sutartim Švitrigaila sutiko ati-
-    duoti kryžiuočiams Palangą ir trejetą mylių pajūrio ruožo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-241
-
-- c-033
-  santrauka: 'XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose minėta 18 didžiojo kunigaikščio dvarų Aukštaitijoje.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^126) I SKYRIUS: LIETUVOS PROISTORĖ
-    Lietuvių ten gyventą plotą akivaizdžiai parodo į pietvakarius nuo
-    Naugarduko Zieteloje (Zdzięciol) iki šių dienų išsilaikiusi lietuvių
-    kalbos sala. Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­
-    tuvos kelių aprašymuose (« die litauischen Wegeberichte ») įvairiose
-    Aukštaičių žemės vietose minimi didžiojo kunigaikščio dvarai (jų
-    iš viso sužymėta 18), gali tarnauti lietuvių plotui apibrėžti, palieka
-    atviras klausimas. Savo dvarus didysis kunigaikštis paprastai turėjo
-    jam betarpiškai priklausančiose lietuviškose tėviškės valdose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-108
-    - t-071
-    - t-226
-
-- c-034
-  santrauka: 'Ordino laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Gėlo vandens marias nuo netikėlių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
-    apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
-    vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip
-    įvykdęs maldininko įžadus, tas pats valdovas sugrįžo  į savo kraštą, palikęs Prūsijoje
-    didelę kariuomenę, turėjusią baigti statyti Elbingo pilį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-082
-
-- c-035
-  santrauka: 'Vytautas daug prisidėjo prie pergalių prieš kryžiuočius, bet nesiekė visiško jų Ordino sunaikinimo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tik prisimetė esąs paklusnus karaliui kaip savo viršesniam
-    valdovui; vis dėlto nesantaikos vengė: vienijosi su Lenkija, bet
-    niekados neišleisdavo iš akių išimtinai Lietuvos interesų. Daug
-    prisidėjo prie pergalių prieš kryžiuočius, tačiau nesiekė visiš­
-    ko jų Ordino sunaikinimo, nors turėjo tam galimybių; pritarė
-    ir skelbė sprendimus, varžančius toleranciją, kuria nuo seno
-    Vilnius garsėjo, betgi nė vienos kurios nors tikybos išpažini­
-    mas dėl to per daug nekentėjo. Pavyzdžiui, husitai dargi ne
-    kartą Vytauto globa naudojosi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-130
-
-- c-036
-  santrauka: 'Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1841 m. jis tapo vienu iš enciklopedinio
-    pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir
-    J. Sniadeckių biografijas, parengė jų darbų rinktines, parašė
-    apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
-    dinį leidinį Senovės Lenkija. Be to, rengė astronomo Mikalojaus Ko­
-    perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­
-    mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.
-    Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­
-    torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
-    rašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos
-    mokslo būklę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-201
+    - t-018
 
 - c-037
-  santrauka: 'Kryžiuočiai kurstė Švitrigailą siekti senųjų užmačių arba kelti sumaištį Lenkijoje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mat Švitrigaila, iki tol irzęs dėl
-    nuolatinių nesėkmių, nuolatinio bastymosi ir žeminimosi
-    prieš Vytautą, tramdė savyje apmaudą ir neapykantą kara­
-    liui ir Lenkijai. Kryžiuočiai, neįstengę sukiršinti Vytauto su
-    Jogaila, sulaukė palankaus meto kurstydami Švitrigailą siekti
-    savo senųjų užmačių ar bent jau vėl kelti sumaištį jiems pa­
-    vojingoje Lenkijoje. Šis kunigaikštis, dar nuo pirmųjų kivir-
-    1
-    Lietuvos istorikai Švitrigailą api­
-    būdina ne per geriausiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-042
-
-- c-038
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tas
-    Romuvas sunaikino kryžiuočiai, už­
-    ėmę Prūsiją; tačiau nežinia, ar kitos,
-    ar tos pačios iš anos žemės perkel­
-    tos, buvo pačioje Lietuvoje, prie
-    Kauno, ant Nevėžio kranto, .būtent
-    toj vietoj, kur dabar Romainiai. XIII
-    amžiuje tai buvo labai tankiai gyve­
-    nama gyvenvietė, o šventovės ir
-    šventos girios buvo saugomos galin­
-    gos tvirtovės. Nepaisant to, kryžiuo­
-    čiai, nuolatos baudęsi sunaikinti tą
-    vietovę, 1294 metais savo pasiekė ir,
-    užėmę pilį, pasiėmė turtą, o žynius
-    išžudė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-079
-
-- c-039
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tos pilys taip pat buvo visiš­
@@ -5579,1232 +4929,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-192
-    - t-092
-
-- c-040
-  santrauka: 'Šventosios Marijos Teutonų ligoninės namai Jeruzalėje buvo karinis ordinas, kuriame buvo riterių, karių ir labdarybe besirūpinusių brolių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitokias
-
-    štai kovas uoliai kovojo ir šis dievui pasišventęs karinis ordinas, tai yra šventosios Marijos
-    Teutonų ligoninės namai Jeruzalėje, sugebėjęs pasipildyti garbingais nariais, savo priešų
-    priešais, girtinai sutvarkęs dievui deramą tarnybą. Mat jame daug riterių ir rinktinių
-    karių, kurie, ištikimi tėvynės tvarkai, tvirta ranka triuškino priešus. Nemaža jame  ir
-    tokių, kurie iš širdies rūpinasi labdarybe, teikdami globą svetimšaliams, maldininkams ir
-    pavargėliams. Be to, nemaža tokių, kurie, gilaus širdies pamaldumo skatinami, su
-    begaliniu uolumu patarnauja  ligoninėse  pasilpėliams  ir  paliegėliams, sergantiems
-    šiurpiomis ligomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-154
-
-- c-041
-  santrauka: '1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų namų ordino broliais ir įpareigojo juos kovoti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
-                                      kovų
-
-      Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
-    Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
-    užjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino
-    viešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai
-    sudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už
-    kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
-    priklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-081
-
-- c-042
-  santrauka: '1384 m. Ordino antpuoliai Lietuvoje siekdavo Kernavę, tačiau pralaimėjimas prie Vilniaus ir Ukmergės apsaugojo sostinę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau mūšio metu į me­
-    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
-    per kurį didelę Vilniaus dalį pasiglemžė ugnis. Tas pašėlęs
-    lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas­
-    metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim­
-    tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių
-    netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda­
-    vo Kernavę, bet lemtinga Jogailos ir Skirgailos pergalė prieš
-    Ragainės komtūrą, laimėta tarp Vilniaus ir Ukmergės, ir vi­
-    siškas pastarojo kariaunos sunaikinimas tąkart apsaugojo
-    sostinę nuo puolimo. Tuo metu pakitusi kaimyninės Lenki­
-    jos padėtis, nauji Jogailos politikos užmojai ilgam įžiebė Prū­
-    sijos kerštą ir Lietuvai bei Vilniui grėsė neapsakomomis ne­
-    gandomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-026
-    - t-021
-
-- c-043
-  santrauka: '1432 m. Lietuvos ir lietuviškos Rusios kunigaikščiai, bajorai ir miestai raštu prisiekė laikytis sutarties su Prūsijos ordinu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nepaisant to,
-    ne tik Vilnius, bet ir kiti Lietuvos
-    miestai dar nebuvo praradę savo
-    reikšmės, kadangi net prieš patį Švit­
-    rigailos nuopuolį, 1432 metais, Lie­
-    tuvos ir lietuviškos Rusios kuni­
-    gaikščiai, bajorai ir miestai raštu
-    prisiekė Prūsijos ordinui tiksliai lai­
-    kytis su juo sudarytos didžiojo ku­
-    nigaikščio Švitrigailos sutarties. Ind.
-    C od. Hist. Diplom. Livon., I. N. 1524.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-
-- c-044
-  santrauka: 'Popiežius Celestinas III Jeruzalėje įkūrė Šventosios Marijos Teutonų ordino vienuolių ligoninę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mat
-    prie jo skuba visuotinė bažnyčia, trokšdama išgirsti ir pažinti jo mokymą, nelyginant
-    karalienė Saba, norėjusi patirti Saliamono išmintingumą. Štai šis popiežius Celestinas
-    III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
-    naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151  ir „išsikirto
-    septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus,
-    būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos  ir Armėnijos152,
-    kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo
-    pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
-    šulai, o kiti broliai—sienos. Šitaip jo šventenybė popiežius pasekė tuo išmintingu vyru,
-    pasistačiusiu savo namą ant uolos ir pasakiusiu (Jn 6, 63): „Aš sutvirtinau jo šulus“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-140
-
-- c-045
-  santrauka: 'Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
-    yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko
-    rūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius
-    ir maldininkus, patraukė  į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
-    ilsintis,  priartėjo  prie pamedėnų  pilies,  stovėjusios tada  toje  vietoje,  kuri dabar
-    vadinama Senuoju Kristburgu, slapta įsibrovė  į  pilį, pristatęs prie sienų kopėčias,  ir
-    ją užėmė nukovęs ar išsivaręs  į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
-    daug ginklanešių. Kadangi Kristaus gimimo naktį buvo tikinčiųjų užkariauta ta pilis, ji
-    pavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties
-    pranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-045
-
-- c-046
-  santrauka: 'Po Lietuvos krikšto popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau svarbiausios buvo politinės aplinkybės – krikšto nau-
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    41
-    da išryškėjo netrukus, kai popiežiai uždraudė Vokiečių ordinui kariauti su
-    Lietuva. Nuo tada šio ordino agresija nebegalėjo tikėtis efektyvesnės Va-
-    karų paramos. Krėvos sutarties nulemta sąjunga su Lenkija leido pasiekti
-    pergalę prie Tanenbergo ir Žalgirio. Lietuva, apsikrikštijusi ir nugalėjusi
-    Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo
-    istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191
-
-- c-047
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Įvairių tautų tyrinėtojai skirtingai išryškino jose ir ati­
-    tinkamų tautų (lietuvių, lenkų, Smolensko pulkų) vaidmenį.
-    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
-    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
-    Nuo Torno Drevencos krantu iki Loebau (VII.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+    - t-166
     - t-083
-    - t-213
-
-- c-048
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    O vasaros žygis buvo ruošiamas apie rug­
-    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
-    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
-    kryžiuočių ir 30—iš Livonijos. Į tą skaičių neįeina pasienyje
-    ordino riterių suorganizuoti savanorių — « plėšikėlių » (vad. « strut­
-    ter », «latrunculi ») nuolatiniai plėšikavimai, be to, pasienių pilių
-    valdytojų vykdomi teriojimai į artimas Žemaičių ir Aukštaičių
-    žemes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-058
-    - t-022
-
-- c-049
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams
-
-      Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip
-    didžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią  ir tokią
-    šlovę, kad jo didžios garbės atgarsiai, skersai ir išilgai paplitę, galop pasiekė ir minėtojo
-    kunigaikščio ausį. Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo  į širdį, jog jis
-    sumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad
-    broliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės. Sušaukęs savo
-    vyskupus ir kilminguosius, jis atskleidė jiems savo sumanymą, prašydamas šiuo reikalu
-    patarti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-098
-    - t-245
-    - t-302
-
-- c-050
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kryžiuočiai nieko nepraleido Lietuvon, su Didž. Naugardu
-    sudarė sutartį prieš Gediminą, kurį juodino, rašydami krikščionių
-    valdovams ir popiežiui.
-    Visoje toje per ištisus metus po Gedimino laiškų parašymo
-    susidariusioje politinėje būklėje, kada 1324 vasarop iš Avignono
-    atvyko Rygon du legatai (vysk. Baltramiejus ir abatas Bernardas),
-    Gediminas diplomatiškai išsisukinėjo, vengdamas savo laiškuose
-    popiežiui surašytų krikšto pažadų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219
-    - t-118
-
-- c-051
-  santrauka: 'Ordino santykiai su Lenkijos karaliumi, lenkų vyskupais, Rygos arkivyskupu ir Lietuvos valdovu buvo svarstomi popiežiaus rūmuose Avinjone.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    3 baigiamas
-    tokiais žodžiais: Cupientes igitur, ut
-    veritatis testimonium, quod coram vest­
-    ra protulimus sanctitate, fratribus pre-
-    notatis, utile et laudabile fiat nostrorum
-    duximus apensione fieri evidens sigil­
-    lorum [Taigi trokšdami, kad liudiji­
-    mo tikrumas, kurį jūsų šviesybės
-    akivaizdoje iškėlėme broliams minė­
-    tiems, būtų naudingas ir verta, pa­
-    raginame, kad būtų matomas prika­
-    binus mūsų antspaudusl.
-    77
-
-    ## Puslapis 94
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Jeigu dabar išnagrinėtume viską, ko tik kelerių metų tarps­
-    niu būta Ordino santykiuose arba su Lenkijos karaliumi, kad
-    ir Pamario valdymo klausimu, arba su lenkų vyskupais dėl
-    dešimtinės ir šv. Petro skatiko rinkliavų, arba su Rygos arki­
-    vyskupu, turint omenyje senus jo skundus, arba su Lietuvos
-    valdovu, už ir prieš kryžiuočius popiežiaus rūmuose Avinjo­
-    ne tieka priporinta, tad lengvai suprastume, kaip popiežiui bu­
-    vo neapsakomai sunku ir, žinia, dėl savo padėties, minėtų kraš­
-    tų tolybės, santykių nesupratimo, net neįmanoma išnarplioti
-    savaime susipainiojusių, o kartais ir tyčia suveltų sruogų, suk­
-    tybę nuo tiesos atskirti ir stoti pozicijon, kuri jam, kaip aukš­
-    čiausiajam teisėjui, derėtų, kad tartų griežtą galutinį nuosp­
-    rendį įnirtingo pykčio apimtoms pusėms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-029
-    - t-133
-
-- c-052
-  santrauka: 'Ordino kariuomenė, sudaryta iš pėstininkų, raitelių ir artilerijos, buvo geresnė už lietuvių ir lenkų sąjungininkų kariuomenes.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lenkų ka­
-    riuomenėje tvarkos kiek palaikydavo riteriai, tarnavusieji Va­
-    karų Europoj samdiniais.
-    Ordino kariuomenė, sudaryta iš pėstininkų, raitelių ir arti­
-    lerijos, buvo už abi sąjungininkų (lietuvių ir lenkų) kariuomenes
-    geresnė. Ji buvo geriau ginkluota, sutvarkyta, drausminga ir
-    kovose patyrusi, — tai buvo visos Europos kariuomenių pavyz­
-    dys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224
-
-- c-053
-  santrauka: '1422 m. Vilniui leista laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Valakijos kunigaikščiai jo globos sie­
-    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
-    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
-    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
-    Žygimantą Kaributaitį, savo sūnėną. Vilniaus miesto reikšmė
-    jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių
-    karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos
-    su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.
-    75
-    Žr. Stryjkowski, p. 518, ed. ac Vitoldum Ducem Lithuaniae, Duces-
-    Varšuv. que Masoviae ab um, et Paulum deRus-
-    76 dorf, Magistrum Cruciferorum et suum
-    Kojałowicz,Pars.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208
-
-- c-054
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tas kraštas jį ir politiškai iš­
-    lavino. Per tiek metų jis išmoko gerai vokiečių kalbos, kry­
-    žiuočių disciplinos, jų administracijos, karo mokslų ir daug kitų
-    dalykų. Kryžiuočiai, kuriuos daugybė svečių lankydavo pastu­
-    dijuoti jų valdymą, kariuomenės organizaciją ar šiaip pasivie­
-    šėti, drąsiai galėjo pasakyti, kad tokio pasiryžusio, supratingo
-    ir gabaus mokinio, kaip Vytautas, Prūsuose nebuvo ligtol buvę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-240
-    - t-097
-
-- c-055
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    įrodydamas, jog broliai turi  į jas neginčijamų teisių. Išklausęs abiejų šalių įrodymų,
-    tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos
-    turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos
-    kunigaikštystėje kraštą, vardu Vancka, kur dabar stovi Mevės pilis, ir šitaip pasibaigsianti
-    tarp jų kilusi nesantarvė. Todėl 1283 viešpaties metais broliai perkėlė iš Kulmo žemės
-    Poterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji
-    po šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-098
-    - t-142
-
-- c-056
-  santrauka: 'Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
-
-      Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
-    nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė
-    tikėjimui ir broliams254. Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir
-    atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu
-    Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257
-    ir Rezlio258. Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
-    ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
-    daug brolių ir ginklanešių. Daug ir kitų pilių pastatė kilmingieji ir vasalai, atvykę į pagalbą
-    šiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis,
-    kurių vardus vienas dievas težino. Nuo to laiko pradėjo gausėti Prūsijos žemėje tikinčiųjų
-    ir plisti dievo tikėjimas Jėzaus Kristaus garbei bei šlovei (1241).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-125
-
-- c-057
-  santrauka: 'Kryžiuočių Slaptajame archyve Karaliaučiuje buvo Vytauto laiškų magistrui Rusdorfui dėl Lietuvos karūnos derybų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pa­
-    galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-
-    karalių Zigmantą nuo ketinimo ka­
-    rūnuoti Vytautą, ir Nr. 101, kuria­
-    me, rašydamas Vytautui, reiškia
-    džiaugsmą dėl jo susitaikymo su Jo­
-    gaila ir todėl dedąs viltis, jog čekų
-    eretikai būsią šiek tiek apmalšinti.
-    84
-    Kryžiuočių Slaptajame
-    Archyve, Karaliaučiuje, yra Vy­
-    tauto laiškų, rašytų magistrui Rus-
-    dorfui (pasak Karamzino, V, p. 145)
-    derybų dėl Lietuvos karūnos Vytau­
-    tui dingstimi, kur viename iš jų, da­
-    tuotame 1430 m. rugpjūčio mėn.,
-    didžiajam magistrui praneša apie
-    Maskvos didžiojo kunigaikščio ir
-    Tverės kunigaikščio atvykimą į Lie­
-    tuvą rugpjūčio 8-ą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-144
-
-- c-058
-  santrauka: 'Po Žalgirio mūšio pagrindinė Vytauto konflikto su Kryžiuočių ordinu priežastis liko Žemaitija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau vėliau
-    jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
-    Užnemunę.
-    Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu
-    priežastis – Žemaitija. Žalgirio pergalė dar nepasiekta ideologiškai – Va-
-    karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
-    jie nugalėjo pasitelkę pagonis, totorius musulmonus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-040
-    - t-122
-
-- c-059
-  santrauka: 'Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Todėl prašome, kad jūs paskelbtumėte šį [laišką] žmo­
-    nėms miestuose, vietovėse bei kaimuose, kur tik kuriam nors
-    iš jūsiškių teks sakyti pamokslą.
-    Taip pat, jei bus [tarp jų] riterių ir ginklanešių, duosime
-    jiems pajamų ir žemės, kiek norės; pirkliams, meistrams, ra­
-    čiams, svaidomų pabūklų gamintojams, kurpiams ir [kitiems]
-    bet kokios srities amatininkams suteikiame laisvę; įeiti į mū­
-    sų žemę ir išeiti [iš jos] drauge su žmonomis, vaikais ir galvi­
-    jais be jokių rinkliavų arba muitų ir nedarant jokių kliūčių.
-    Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­
-    dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad
-    užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis,
-    •  -
-    55
-    C' ■^la ir toliau cit. pagal Gedimino laiš­
-    kai, parengė V. Pašuta ir I. Štai, [vertė
-    M- Ročka], Vilnius, Mintis, 1966.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-089
-    - t-124
-    - t-060
-
-- c-060
-  santrauka: 'Konrado Valenrodo šlovė ir Ordino iškėlimas į didžiuosius magistrus subūrė gausius kryžininkų pulkus žygiui į Lietuvą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Be to, dar leidžia kapitulai
-    imti kas dešimtą sugautą žuvį ka­
-    raliaus tvenkiniuose Vilijos upėje ir
-    įsako, kad jai kasmet iš pilies būtų
-    129
-
-    ## Puslapis 146
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    pasirūpinęs ateičiai savo senosios sostinės gynyba ir ilgų ne­
-    gandos dienų iškamuotų tėvynainių karšto pritarimo sulau­
-    kęs, tvirtybės įgavęs, Jogaila žiemą išvažiavo atgalios į Len­
-    kiją; vis dėlto, kad abi Vilniaus pilys priešams būtų
-    grėsmingesnės, vos tik grįžęs, Olesnickiui atsiuntė naujos pa­
-    spirties - maisto išteklių ir žmonių. Vilniui bemat jos prirei­
-    kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti
-    Lietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo
-    naudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­
-    čioniška būdama, iš naujų savo tikėjimo brolių ne gynybos
-    sulaukė, o dar žiauresnių smūgių nei totorių antpuoliai. Po
-    visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­
-    do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­
-    ties narsa, o pirmiausia nesulaikomas potraukis į riterystę
-    vėl subūrė iš visų Europos šalių gausius ir pajėgius kryži-
-    ninkų pulkus, pasišovusius traukti į vargų prispaustą
-    Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-126
-
-- c-061
-  santrauka: 'Kryžiuočiai įkalbėjo svetimtaučius savanorius, kad visa Lietuva tebėra pagonių šalis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kai rug­
-    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
-    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
-    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
-    jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
-    vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
-    esanti pagonių šalis. Galop ta galinga kariauna išsiruošė į
-    žygį vedama vyriausiojo vado Ordino maršalo Engelhardo
-    Rabės22, kadangi didysis magistras Konradas Ciolneris gu­
-    lėjo pakirstas sunkios ligos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-044
-
-- c-062
-  santrauka: 'Ivinskio vertinimu, jei Mindaugo dokumentai būtų autentiški, Vokiečių ordinas būtų be saiko išnaudojęs draugystę su Mindaugu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet iki šiol vis dar
-    nėra galutinai išaiškintas klausimas, ar tie dokumentai yra tikri.
-    Jeigu jie visi būtų autentiški, tai reikštų, kad « vokiečių ordinas savo
-    draugystę su Mindaugu yra be saiko išnaudojęs »^134.
-    Santykiaudamas su naujakrikštu Mindaugu, Livonijos ordinas
-    pradėjo reikšmingą laikotarpį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220
-
-- c-063
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
-    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
-    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
-    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime
-    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
-    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
-    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
-    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-
-    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
-    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
-    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-
-    to apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
-    kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu
-    valdovu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-162
-    - t-199
-
-- c-064
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Su trigubai di­
-    desniu įniršiu, nešini šv. Jurgio vėliava puolė į mūšį Ordino
-    riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­
-    lių, turėjo grįžti prie likusių karių. Tačiau mūšio metu į me­
-    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
-    per kurį didelę Vilniaus dalį pasiglemžė ugnis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175
-
-- c-065
-  santrauka: 'Kryžiuočių magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš akių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Matydamas šitai, lietuvių vadas din­
-    go kryžiuočiams iš akių, o magistras su visa kariauna
-    patraukė į Vilnių. Negalėjo didysis kunigaikštis atvirame
-    mūšio lauke drąsiai stoti prieš daug pajėgesnį priešą, tad
-    sumaniai įtvirtinęs įgulas abiejose pilyse ir mieste, pats už­
-    ėmė Vilniaus miškingas apylinkes, kad užkirstų visus ke­
-    lius užpuolikams gabentis maistą ir užkamuotų priešą nuo­
-    lat gresiančiais pavojais. Ir vos tik magistras prie Vilniaus
-    įsirengė stovyklą, bemat turėjo siųsti keturis pulkus apsau­
-    goti daliniams, išleistiems parūpinti maisto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221
-
-- c-066
-  santrauka: 'Ordinas, įgijęs daugiau vilties pasilikti Žemaitijoje, savo politikos su Vytautu nepakeitė.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taip iš Vytauto buvo
-    atimta vakarinė Podolija^1 ). Ordinas, įgavęs dar didesnės vil­
-    ties pasilikti Žemaitijoj, savo politikos su Vytautu nepakeitė.
-    Tik lenkai, matydami jo susilpnėjimą, laikė gera proga užmegs­
-    ti glaudesnius santykius su Lietuva.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-034
-    - t-074
-
-- c-067
-  santrauka: 'Kojalavičius pagoniškai Lietuvai skirtame tome lietuvių kovas su kryžiuočiais pateikė su pagarba lietuviams.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pir­
-    mąjį tomą (iki 1385 m.) skirdamas pagoniškai Lietuvai, Kojalavi­
-    čius vis tik savo dėstyme parodė aniems lietuviams pagarbos. Tai
-    matyti iš kovų su kryžiuočiais ir iš gražiai aprašytos Vilniaus
-    įkūrimo (Gedimino) sapno legendos^28. Palyginti, objektyviai išdės­
-    tė jis ir 2-jį tomą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-041
-
-- c-068
-  santrauka: 'Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Smarkiai
-    apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per-
-    kėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne
-    tik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų
-    kunigaikštijai. O Lenkijai Torno taika tekusios žemės išbuvo
-    jos valdžioje iki valstybės padalinimo (1772 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-053
-
-- c-069
-  santrauka: 'Kryžiuočių ordino broliai pasitraukė nuo gausesnių priešų, patyrę nemažų sužeistųjų nuostolių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji
-    kunigaikščiai pasileido bėgti su visais savo lenkais. Sitai matydami, broliai nusigando ir,
-    neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
-    nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
-    pavyko garbingai išvengti kovos.
-
-
-
-
-             249 (242).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-111
-
-- c-070
-  santrauka: 'Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kol vokiečių kariau­
-    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
-    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
-    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
-    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
-    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
-    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
-    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
-    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
-    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
-    Kadangi grėsmingi buvo Gedimino nukariavimų planai,
-    atėjus žiniai apie naują kryžiuočių kariauną Čekijoje ir
-    a
-    D u s b. c.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225
-    - t-057
-
-- c-071
-  santrauka: 'Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mat
-    atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
-    apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad
-    teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­
-    nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant
-    valdovo sumanymą. Atvykę taip pat Rygos miesto pasiun­
-    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
-    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
-    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
-    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
-    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
-    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
-    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
-    tvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,
-    sudarytos Vilniuje, 1323 m., pirmąją savaitę po Šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-178
-    - t-237
-
-- c-072
-  santrauka: 'Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Revelis [Talinas] už savo
-    atsiradimą dar anksčiau turi būti dėkingas danams. Teutonų
-    ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
-    gonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­
-    tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­
-    kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
-    metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
-    bemaž visi Varmės miestai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-123
-
-- c-073
-  santrauka: 'Ordino kronikose 1345-1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
-    mėnesiais prieš atlydį. O vasaros žygis buvo ruošiamas apie rug­
-    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
-    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
-    kryžiuočių ir 30—iš Livonijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-135
-
-- c-074
-  santrauka: '1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
-                                            jos [vyrų]
-
-      Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą  ir kai įsakė kitiems
-    jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės
-    kančios sujaudino Vokietijos kunigaikščius bei kilminguosius, o Austrijos kunigaikštis294
-    pasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais
-    kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
-    Magistras  ir broliai su jais bei su kunigaikščiu Kazimieru  ir su savaisiais įsibrovė  į
-    Pomeranijos žemę  ir, devynetą dienų  ir naktų tai viena, tai kita kryptimi smogdami
-    stiprius  ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio,
-    kurio nebūtų nuniokoję plėšimais ir gaisrais. Tuo metu, kai šitai dėjosi, Sventopelkas
-    sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
-    atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo
-    brolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,
-    šitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė
-    dvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė
-    šiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę
-    teutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
-    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
-    vyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
-    koks bailys pamatęs daugybę nukautųjų. Šitai išvydęs, valdovas Henrikas iš Lichtenšteino
-    staiga užgriuvo priešus ir sugrąžino  į pirmykštę vietą atimtą grobį. Apie tai sužinojęs,
-    Sventopelkas paskubėjo saviesiems  į pagalbą su trimis raitelių būriais. Juos išvydę,
-    lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei
-    kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino.
-    Tuo tarpu broliai susirikiavo kovai. Sventopelkas, pamatęs, kad broliai nė nemano bėgti,
-    įsakė tūkstančiui savo rinktinių karių nušokti nuo žirgų pamokęs juos pulti brolius su
-    dideliu triukšmu bei riksmu ir, prisidengus skydais, ietimis galabyti krikščionių arklius,
-    sakydamas: „Kryžiuočiai, apsišarvavę sunkiais šarvais, nestengs pėsti kovoti“. Kai abi
-    kariuomenės išsirikiavo mūšiui, valdovas Henrikas sugrįžo atgal  ir, išvydęs priešus,
-    pasakė broliams: „Delsti pavojinga, todėl pulkime juos!“ Jie įnirtingai užpuolė priešus,
-    ir prasidėjo baisios kautynės; Sventopelko kariuomenė prarado mūšio lauke tūkstantį
-    penkis šimtus žuvusių vyrų, o krikščionių nė vienas nebuvo sunkiai sužeistas, išskyrus
-    10 žirgų, kurie krito perverti priešo iečių. Šitaip broliai ir maldininkai sugrįžo namo,
-    parsivarydami tūkstantį šešis šimtus priešo žirgų, parsiveždami daugybę kitoniško
-      293 Popiežiaus legatu Prūsijoje Opicas iš Mesanos, dab. Mesinos, buvo 1245 m.
-    pabaigoje— 1246 m. pradžioje (Kujot S., Dzieje Prus..., 1, p. 727—728).
-      294 Fridrichas.
-
-    grobio  ir laimėję garbingą pergalę, nes jiems talkino mūsų viešpats Jėzus Kristus,
-    kuris tebūnie garbinamas per amžių amžius, amen.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184
-
-- c-075
-  santrauka: 'Balińskis kryžiuočių grobuoniškumą laikė viena ilgalaikių kliūčių Lietuvos pažangai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ne mažiau svarbi priežastis, lėmusi menką miestiečių luomo
-    reikšmę Lietuvoje, buvo tame krašte ilgai užsilikusi pagonybė, o
-    podraug šalinimasis nuo visos Europos, kuri jau keturis amžius
-    buvo krikščioniška, išskyrus Lietuvą. Dėl tos nelemtos padėties
-    kryžiuočių grobuoniškumas irgi ilgam buvo užtveręs kelią bet
-    kokiai pažangai visoje mūsų žemėje. Išsami šio miesto istorija pa­
-    teiks skaitytojams įrodymų ir patikinimų dėl tų kelių pastabų apie
-    10
-
-    ## Puslapis 27
-
-    I V  A D  A S
-    Lietuvos miestus, kurias mes leidome sau išdėstyti šio veikalo
-    pradžioje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196
-
-- c-076
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    To [rašto] paliudijimui laikėme reikalingu dalyku pridė­
-    ti prie šio laiško tą mūsų antspaudą, kurį pasiuntėme apaš­
-    tališkajam viešpačiui ir švenčiausiajam mūsų tėvui ir kurį
-    kryžiuočiai šios pasiuntinybės įžeidimui įmetė į ugnį.
-    Šio antspaudo niekintojus ir teksto klastotojus šiuo laiš­
-    ku skelbiame tikėjimo persekiotojais, piktais ir klastingais
-    eretikais.
-    Duota Vilniuje 1323 viešpaties metais, pačioje Kristaus
-    kūno dienoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-077
-  santrauka: 'Zigmantas ir kryžiuočiai buvo kaltinami siūlę Vytautui karūną, siekdami supriešinti Lietuvą ir Lenkiją.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Bet šis vyras,
-    tiesus ir nepalaužiamas, davė jam tokį įsidėmėtiną atsaky­
-    mą: „Nors Vytautas ir vertas yra karūnos, tačiau, jeigu
-    trokšta jos nepaisydamas šventos priesaikos, kokią pats da­
-    vė, užuot savo šlovę apvainikavęs, gėdą sau užtrauks, p
-    tėvynei nelaimę atneš. Argi Vytautas nesupranta, jog Zig­
-    mantas ir kryžiuočiai, įnirtingi dviejų susivienijusių tautų
-    priešai, ne dėl ko kita siūlo jam karūną, kaip tik savo suktas
-    užmačias dangstydami, siekdami Lietuvos ir Lenkijos su­
-    priešinimo ir galios sužlugdymo? Tyko jie tik mūsų pražū­
-    ties, nori, kad įsiliepsnotų vidaus kovos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-145
-
-- c-078
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nors lietuviai ir buvo
-    paleisti, bet Vytautas vokiečių pirklių nepaleido ir Grabovo
-    suvažiavime pareikalavo iš Ordino atsilyginti už paimtas pre­
-    kes ir nužudytų pirklių šeimoms^2 ). O kai Vokiečių Ordino ma­
-    gistras uždraudė į Lietuvą įvežti druskos, supykęs Vytautas įsa­
-    kė visiems vokiečių pirkliams iki Sekminių iš Lietuvos išsineš­
-    dinti^3 ). Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­
-    statyti Žemaitijos sienas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206
-    - t-035
-
-- c-079
-  santrauka: 'Ordinas, sužinojęs apie Vytenio minoritams skirtą bažnyčią, pasiuntė ginkluotą būrį jos sudeginti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tiesa, arkivyskupui Isamui tarpininkaujant,
-    tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­
-    dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­
-    keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­
-    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
-    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
-    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
-    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
-    ti pasiuntė. Juk taip pat nedorai Ordinas elgiasi ir su garbin­
-    gąja dvasininkijos diduomene, kaip antai arkivyskupais Jo­
-    nu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus
-    verčia dykynėmis, visada sakydami, jog visa tai daroma
-    krikščionybei ginti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-165
-
-- c-080
-  santrauka: 'Vytautas atnaujino ryšius su Prūsija ir kryžiuočiams pažadėjo padėti atstatyti sudegintas jų pilis prie Kauno.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pasigirsta vi­
-    sų kaip vieno balsai, kad jie esą laisvi ir kad jų tėvai niekados
-    nemokėję Lenkijai duoklių - toks buvo atsakymas į tą prama­
-    naus Vytauto klausimą. Taigi prasidėjo slapti sandėriai su Or­
-    dinu, pirmiausia Gardine, paskui kitose vietovėse, kur Vytau­
-    tas atnaujino senuosius savo ryšius su Prūsija; apsisaugodamas
-    nuo nepakeliamų Jogailos reikalavimų, kryžiuočiams prižadė­
-    jo teikti pagalbą atstatinėjant sudegintas jų pilis prie Kauno64.
-    Tačiau šie politiniai kivirčai nebuvo Vilniui tokie skaudūs (1399
-    m.), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­
-    giantis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-081
-  santrauka: 'Kryžiuočių ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kryžiuočių ordinas visaip stengėsi sužlugdyti minėtąją 1323 m. spalio 2 d. sutartį: jau
-    spalio 24 d. Livonijos ordinas raginamas ją nutraukti, po to imtasi žygių, kad nutrauktų
-    sutartį Rygos miestas ir t. t. Ordinas tęsė agresiją 1324 m., kovo mėn. puldamas Gardino
-    apylinkes, gegužės mėn.— Gedimino pilį Žemaitijoje, metų pabaigoje, rodos, vėl Gardiną.
-    Puldinėjo Lietuvos žemes, grobė jas pasienyje ir Livonijos riteriai57.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-062
-
-- c-082
-  santrauka: '1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dauguvos žiotyse susikūręs Kalavijuočių ordi-
-    nas pamažu pradeda užkariauti lybius, latvius, estus, kuršius. Kovodamas
-    prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis
-    Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių
-    ordino riterius (kryžiuočius). Ši fatališka klaida daug kainuos lenkams
-    ir lietuviams – Ordinas pajungė prūsus, o 1236 m. popiežius jau skelbia
-    kryžiaus žygį prieš lietuvius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-173
-
-- c-083
-  santrauka: 'Kryžiuočių ordinas priešinosi Jogailos reformai, nes numatė savo nuopuolį sustiprėjus Lietuvai ir Lenkijai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Prekyba su Rusia ir Prū­
-    sija seniai nutrūkusi, nuolatinis priešo pavojus Lietuvos sos­
-    tinę vertė pakaitomis čia karine stovykla, čia mūšio lauku.
-    Reikia pripažinti, jog ta didelė reforma, kurios ėmėsi Vla­
-    dislovas Jogaila, iš pradžių Lietuvai ir jos sostinei daug kai­
-    navo, tačiau tai buvo būtinas barbariško būvio, ligi tol tvy­
-    rojusio tame krašte, pergalėjimas, kam iš visų jėgų priešinosi
-    Kryžiuočių ordinas, aiškiai numatydamas savo nuopuolį,
-    jei Lietuva ir Lenkija ateityje sustiprėtų. Ta liūdna Vilniaus
-    padėtis dar pablogėjo įsiliepsnojus Vytauto karui su Skir­
-    gaila.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
 
 - c-084
-  santrauka: 'Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
-                                             nių
-
-      1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo  į vieną vietą su stipriomis
-    kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo
-    prie  šios  pilies, atvyko  pasiuntinys, pranešdamas, kad  keturi  tūkstančiai  lietuvių
-
-      342 Krašto magistras buvo nuo 1259 m. gegužės mėn.  iki 1261 m.  lapkričio
-    mėn.
-      343 Karšuvos (D.— terra Carsovie) žemė pietvakarių Žemaitijoje pietuose apie
-    Nemuno—Mituvos santaką siekė Nemuną, pietvakariuose  ribojosi su Skalva (apie
-    Sešuvies—Jūros santaką), vakaruose siekė Minijos žemupį, šiaurėje apėmė Jūros  ir
-    Akmenos vidupius su dab. Šilale, rytuose ėjo iki Šaltuonos aukštupio (SZM, p. 199—
-    202).
-      344 Ordino pilis ant švento Jurgio kalno (D — in monte sancti Georgii) buvo pastatyta,
-    atrodo, deš. Nemuno krante apie dab. Jurbarką, žemiau Mituvos žiočių, kur yra Bišpiliukais
-    vadinama piliavietė (dvi kalvelės Kalnėnų kaimo teritorijoje) (Toeppen M., Historisch..,
-    p. 39; Zajączkowski S., Studya.., p. 35—36; SZM, p. 213—214; LAA, 2, p. 77).
-
-    nuniokojo vieną Kuršo žemės dalį, degindami, grobstydami ir liedami krikščionių kraują,
-    o sugautas moteris bei vaikus išsivarė su savimi, kartu gabendamiesi daug kitokio
-    grobio. Šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti
-    iš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu
-    Mata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus,
-    atsakė: „Palikime savo arklius toli užpakalyje, kad neturėtume vilties prie jų sugrįžti, ir
-    patraukime link priešų pėsčiomis, nes tada žmonės, nesitikėdami išsigelbėsią arkliais,
-    nevengs mūšio, antraip jie be abejonės leisis bėgti“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-105
-
-- c-085
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
-
-      Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui
-    bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,
-    pažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras
-    sušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų
-    kariuomenė ir visą šią žmonių minią išžudė. Po kurio laiko magistras ir vėl sušaukė
-    žmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo
-    vardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-084
-    - t-098
-
-- c-086
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1387 m. žygis buvo nuostabus, prisimenant, kaip po Kęstučio
-    mirties ant peilio ašmens vartėsi klausimas, ar Lietuva galutinai
-    neapsispręs už stačiatikių tikėjimą. Kai Gediminaičiai buvo išsi­
-    dalinę tarp pagonybės ir graikų krikšto, bereikėjo tik didžiojo
-    kunigaikščio žingsnio, kuriuo butų turėję pasekti lietuvių kilmin­
-    gieji ir visa tauta. Bet nuolat kabantis vokiečių ordino pavojus per
-    visą XIV amžių buvo buvęs akstinas vesti derybas ir kokiu nors
-    būdu priimti priešo išpažįstamą, t. y. vokiškąjį tikėjimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-049
-    - t-164
-
-- c-087
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tai buvo Vytauto planų parėmimas. Dabar visa garbė ir
-    šlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­
-    čiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus
-    totorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą.
-    Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
-    jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-158
-    - t-234
-
-- c-088
-  santrauka: '1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos priori-
-    tetą – 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją
-    ir grėsmės Lietuvai nebekėlė. Atėjo metas Lietuvos ir Lenkijos santykių
-    problemai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-143
-
-- c-089
-  santrauka: 'Po Lietuvos krikšto ir Europos pripažinimo katalikiška valstybe kryžiuočių ordinas nebebuvo pateisinamas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Prūsijos ordino sekuliarizacija (1525 m.)**
-    Nuo to laiko, kai Lietuva krikštijosi ir Europos buvo pri-
-    pažinta katalikiška valstybe, kryžiuočių ordinas buvo nebepa-
-    teisinamas. Aplinkui jau visi kraštai buvo katalikiški, todėl
-    krikščionybės gynėjas — ordinas pasidarė nebereikalingas. Be
-    to, ir jo valstybės viduje atsirado reiškinių, kurie jį griovė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179
-
-- c-090
-  santrauka: 'Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tas laikotarpis betgi buvo labai svarbus. Kaip tik šituo metu
-    vokiečių ordinas nuo Vyslos jau buvo priėjęs iki Nemuno ir
-    nuo 1282 m. pradėjo pulti lietuvius (anksčiau Lietuvą
-    puldavo tik livoniškė jo šaka). Ordinas tuojau pradėjo statyti
-    savo pilis Nemuno pakrantėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-232
-
-- c-091
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Prūsus** sudarė keletas kilčių, kurių tik vakariausios bu-
-    vo vadinamos prūsais. XIII amž. į čia atsikraustęs vokiečių
-    kryžiuočių ordinas pirmučiausia pavergė prūsus. Vėliau nuka-
-    riautas tolimesnes aisčių gimines vokiečiai neskirdami irgi va-
-    dino prūsais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215
-
-- c-092
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Be to, rengė astronomo Mikalojaus Ko­
-    perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­
-    mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.
-    Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­
-    torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
-    rašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos
-    mokslo būklę. „Du šimtai penkiasdešimt metų praėjo nuo Lie­
-    tuvos universiteto įkūrimo, o nė vienas iš jo mokinių, nors ir
-    gausiai Lietuvos duona aprūpintas, neparodė didesnio noro pa­
-    sidomėti jos praeitimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-128
-
-- c-093
   santrauka: 'Apie 1226 (1230) m. Mazovijos kunigaikštis Konradas Teutonų namų ordino broliams atidavė Kulmo ir Lubavos žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6835,541 +4963,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_rodoma: ''
   statusas: verified
 
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-094
-  santrauka: '1337 m. birželio 15 d. Gediminas su kariuomene sustojo ties Bajerburgu ir puolė kryžiuočių tvirtovę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pasak Prūsijos metrašti­
-    ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi
-    priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai
-    102
-
-    ## Puslapis 119
-
-    I  KNYGA
-    vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs
-    jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
-    metų birželio 15 d., sustojo ties Bajerburgu. Tačiau Gedimi­
-    no ginklanešys, vokiečių kilmės, žinodamas apie tą prūso
-    išdavystę, išėjęs iš lietuvių stovyklos, pranešė kryžiuočiams.
-    Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų
-    pakartą išdaviką, bet vis tiek puolė tvirtovę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-078
-
-- c-095
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie vieną nuostabų atsivertimą
-
-      Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo
-    vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,
-    garsėjęs kaip labai gabus račius  ir didelis karo pabūklų meistras. Kai jis kartą, jau
-    padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo
-    vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini
-    keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis
-    neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
-    būdo; kad šitai būtų akivaizdu, jie  jį užklojo balta marška, kaip paprastai užklojami
-    numirėliai. Jis labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą
-    baltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai
-    ir užbaigė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-202
-    - t-098
-
-- c-096
-  santrauka: 'Magistras pasiuntė Kryžiuočių ordino kariuomenę į Lenkiją, kur ji apsupo ir sudegino Višogrudo pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Magistras ir broliai, naudingai pamokyti šių bei kitų švento rašto pranašysčių,
-    ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
-    Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
-    ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas. Todėl magistras minėtųjų
-    metų vasarą, subūręs didelę kariuomenę, pasiuntė ją  į Lenkiją ir apsupo Višogrudą,
-    Lenkijos karaliaus pilį; joje gyveno nuodėmingi, išgarsėję piktais darbais vyrai, kurie
-    plėšė pro šalį Vyslos upe plaukiančių laivais žmonių turtą, o juos pačius ėmė į nelaisvę
-    ar žudė,  ir niekas negalėjo nuo jų išsigelbėti, nepatyręs skriaudos, o šitaip jie darė
-    ilgus metus, sunkiai skriausdami ir brolius, ir saviškius; po daugybės antpuolių jie galop
-    smarkiai įsiveržė  į pilį602; įniršę išgalabijo nusidėjėlius, nelabus vyrus, kėlusius jiems
-    apmaudą, vienus paėmę į nelaisvę, o kitus išžudę, iš pasipiktinimo iki pamatų sudegino
-    pilį.
-
-
-
-
-                     13.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-129
-
-- c-097
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nors kryžiuočiai dar iki pat Tannenbergo kautynių lietuvius
-    Vakarų Europai pristatydavo kaip pavojingus rytų « saracėnus »,
-    kryžiaus karų šauksmas savaime turėjo pamažu nutilti. Drauge
-    išnyko ir tituluotų pilgrimų žygiai į «Litauerreisen». Lietuva
-    (^21) **Plg. M. Hruševskyj : HrlU, IV, 1905, 181 p.**
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214
-
-- c-098
-  santrauka: '1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­
-    pedicija patraukė į Prūsiją. Atskirus pulkus vedė: Silezijos
-    kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš
-    Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai
-    iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir
-    daug kitų riterių. Prie šio būrio prisijungė krašto magistras
-    Fridrichas fon Vildenbergas, visi ginkluoti krašto žmonės;
-    šis, apimtas didelio ryžto tas pajėgas panaudoti reikšmin­
-    gam žygiui, nukreiptam prieš pagonis, stojęs šimto penkias­
-    dešimties Ordino riterių priešakyje, visą tą guotą nuvedė į
-    Vaikius Žemaitijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-043
-
-- c-099
-  santrauka: 'Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tų pačių metų rudenį, kai jau buvo atstatytas minėtasis papilys, o jame sukrauta visi
-    grūdai bei javai, ten nužygiavo tas pats komtūras su savo broliais bei raiteliais ir antrą
-    kartą sudegino tą papilį, paimdamas  į nelaisvę ar nukaudamas visus žmones, kuriuos
-    ten užtiko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-025
-
-- c-100
-  santrauka: 'Vytautas ginklus ir arklius gaudavo iš Rygos ir Krokuvos, nors Ordinas draudė juos įvežti į Lietuvą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ginklus ir
-    arklius, kuriuos Ordinas draudė Lietuvon įvežti, Vytautas gau­
-    davo iš Rygos ir Krokuvos.
-    Iš Lietuvos geografinės būklės ir minėtų čia prekybos san­
-    tykių galime jau pastebėti, kad Vokiečių Ordinas Vytauto laikų
-    prekybai turėjo didžiausios įtakos, nes per jo žemes ėjo svar­
-    biausi keliai į Vakarų Europą ir Dancigą, su kuriuo lietuviai tu­
-    rėjo daugiausia reikalų. Taip pat Ordinas buvo ir turtingiau­
-    sias Vytauto kaimynas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-110
-
-- c-101
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Susirėmė su jais vokiečiai
-    ties Rudamina, pusantros mylios atstumu nuo miesto; ir šis
-    mūšis, ir Vilniaus pilių atsilaikymas, pastūmėjo kryžiuočius
-    leistis į derybas su Algirdu ir Kęstučiu, kurie pirmieji pa­
-    reiškė tokį norą25. Galop buvo sudaryta taikos sutartis, ku­
-    ria kryžiuočiai įsipareigojo palikti neliestą Vilniaus dalį, dar
-    nenukentėjusią nuo ugnies; į Vilniaus ir Trakų pilis buvo
-    pakviestas maršalas, arkikomtūras ir daugelis aukštesniųjų
-    vokiečių riterių. Ten puikiai pavaišinti, dosniai apdovanoti,
-    pagaliau paliko miestą ir šalį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-171
-
-- c-102
-  santrauka: 'Po nepavykusio Vilniaus apsiautimo Ordinas grobuoniškus planus nukreipė prieš Žemaitiją.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Po tų visų pasisekimų, paties Vytauto iškovotų,
-    nors jis ir buvo tik vietininkas Lietuvoj, bet jo padėtis, kaip
-    mano prof. Haleckis, buvo daug tvirtesnė, negu nepriklausomos
-    Lietuvos kunigaikščio prieš uniją^5 ). Jo galybės sustiprėjimas
-    aiškus ir iš rytų politikos, kurią jis ėmė vesti sunormavęs santy­
-    kius su Lenkija ir padaręs taiką su Ordinu, besistengiančiu po Os­
-    trovos akto užkariauti tikrąją Lietuvą; bet po visos eilės žygių ir
-    paskutiniojo nepasisekusio Vilniaus apsiautimo, Ordinas savo
-    grobuoniškus planus nukreipė prieš Žemaitiją. Bet ir dėl to
-    krašto įvyko tarp Vytauto bei Ordino, nors ir labai nepastovi
-    taika, bet vis dėlto taika, kas padėjo Vytautui vesti savo politi­
-    ką rytuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-156
-    - t-011
-
-- c-103
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
-    Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
-    kurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi. Šitokia sutartis nepatiko
-    dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius,
-    pasikliovus viešpačiu, drąsiai stoti į kovą. Kai visų kitų nuomonė paėmė viršų ir kai davė
-    įkaitus, apie kuriuos jau esame kalbėję, prūsai, sulaužę taikos sutartį, užpuolė ir nužudė
-    54 brolius bei visus kitus, ten buvusius, 1249 viešpaties metais308 lapkričio 29 d. Po šių
-    žudynių vienas notangas pamovė ant ieties brolio Jono, minėtojo vicekomtūro, galvą ir,
-    ją pakėlęs aukštyn, pasakė: „Jeigu broliai būtų paklausę tavo patarimo, tikrai nebūtų
-    buvę nukauti“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-032
-    - t-045
-
-- c-104
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
-    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
-    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau  į
-    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
-    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
-    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
-    atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
-
-
-
-
-                                      Pratarmė
-
-      „Aukščiausias dievas padarė manyje ženklų ir stebuklų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-152
-    - t-045
-
 - c-105
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau kiti, 1383 metai, atnešė Vilniui dar
-    didesnę nelaimę. Didelė kryžiuočių kariauna, vadovauja­
-    ma Ordino didžiojo magistro ir maršalo Konrado Valen­
-    rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti
-    Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­
-    kų pilį. Nepaisant įnirtingos gynybos, kelias dienas užsi­
-    tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­
-    versta pasiduoti. Didysis magistras į Vilnių išsiuntė
-    komtūrus: iš Elbliongo, Baigos, Brandenburgo ir Kristbur-
-    go, galingais kariuomenės daliniais vedinus, įsakęs bet
-    kokia kaina jį visiškai sunaikinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185
-
-- c-106
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nau­
-    jų sutarčių buvo sudaryta trys atskiri aktai. Pirmoje sutarty
-    Jogaila pasižada su abiem Ordinais ketverius metus laikytis
-    taikos, antrojoje žada 4-rių metų bėgy kartu su savo tautiečiais
-    apsikrikštyti, trečiąja sutartimi, kuri buvo vokiečių Ordinui pati
-    svarbiausioji, jis užrašė kryžiuočiams beveik visą Žemaičių
-    kraštą, t. y. vakarinę jo dalį iki pat Dubysos upės. Žadėdamas
-    Jogailai padėti karo jėgomis, Ordinas išgavo iš jo sutikimą, kad
-    jis be Ordino žinios ir pritarimo su niekuo nepradės karo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-114
-    - t-067
-
-- c-107
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O dabar, šventasis ir garbingasis tėve,
-    labai prašome atkreipti savo dėmesį į mūsų apverktiną būk­
-    lę, nes mes, kaip ir kiti krikščionių karaliai, esame pasirengę
-    visuose dalykuose jums paklusti ir priimti krikščionių tikė­
-    jimą, kad tik mūsų nevargintų anksčiau minėtieji kankinto­
-    jai, būtent, minėtasis magistras ir broliai.
-    87
-
-    ## Puslapis 104
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
-    monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
-    nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
-    dimino, bet nei su jo žinia, nei jo valia parašyti. Rygos
-    arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir
-    išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo
-    melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių
-    ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą
-    ginče su kryžiuočiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-093
-
-- c-108
-  santrauka: 'XIII-XIV a. Vakarų Europoje pasigirsdavo kritikos Kryžiuočių ordinui, įskaitant raginimus jį likviduoti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pačioje Vakarų Europoje XIII—XIV a.  irgi pasigirsdavo Kryžiuočių ordino adresu
-    kritiškų balsų, raginančių netgi  jį likviduoti. Įtempta grupuočių kova vyko  ir Ordino
-    viduje, siekiant restauruoti šią vokiečių feodalų karinę-religinę organizaciją. Tokiomis
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-039
-
-- c-109
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas
-    buvo pastatytas prieš lenkų kairįjį sparną, kuris siekė Ludwigsdorfo
-    mišką. Kairysis kryžiuočių sparnas, kuris buvo sutelktas prieš
-    dešiniajame sąjungininkų sparne pastatytus lietuvių pulkus, buvo
-    sudarytas iš stiprių dalinių^21. Pačios kautynės, nors valandos nega­
-    lima tiksliai nustatyti, prasidėjo jau po pietų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-149
-    - t-099
-
-- c-110
-  santrauka: 'Kryžiuočiai, Švitrigaila ir Valakijos vaivada sudarė sąjungą prieš Lenkiją.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Galingą są­
-    jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos
-    vaivada. Netrukus Voluinėje bei Podolėje įsiplieskė karas su
-    Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kry­
-    žiuočių ordinu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-059
-
-- c-111
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­
-    čioje Lietuvoje. Talkininkaujami svečių iš Anglijos, Vokietijos ir
-    Italijos, ir padedami Livonijos magistro, Prūsų kryžiuočiai 1362
-    pavasarį atliko drąsų žygį, išgriaudami svarbią lietuvių Nemuno
-    ir Neries santakos pilį — Kauną. Neišaiškinamu būdu Kęstutis su
-    (^10) **SRP, II, 72, 505-507 p.**
-    (^11) **A. Kučinskas :** **_Kęstutis,_** **1938, 59-61 p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188
-    - t-120
-    - t-131
-
-- c-112
-  santrauka: 'Per Vilniaus apsuptį kryžiuočių kariaunoje plito ligos, nes ji stovyklavo po atviru dangumi ir buvo nusilpusi.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tokios atkaklios Moskoževskio gynybos aplin­
-    kybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­
-    riaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi
-    ir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­
-    imtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema
-    grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti
-    atgal į Prūsiją. Be to, dar Skirgaila sutelkė likučius ir ėmė pul­
-    dinėti priešą iš užnugario, pasalūniškai; tad visai nusigalavę,
-    32
-    Ta dvikova neįvyko: abi pusės, nors
-    ir buvo atvykusios sutartu laiku į
-    Prahą, bet imperatoriaus Vaclovo di­
-    delių pastangų dėka buvo susitarta
-    taikytis.
-    33
-    Lindenblatt Jahrbücher etc., p. 76,
-    kryžiuočių persikėlimą per Viliją nu­
-    rodo buvus per Šv. Augustiną, tai
-    yra, rugpjūčio 28-ą, o priartėta prie
-    Vilniaus buvo rugsėjo 4-ą. Vygan­
-    das  tačiau byloja: Steterunt V septi­
-    manis in continuo agone nocte dieque
-    et pugna et ex utraque parte multi sunt
-    occisi [stovėjo 5 savaites nuolatinėse
-    kautynėse dieną naktį ir kovoje iš
-    abiejų pusių daug buvo užmuštų].
-    - • —
-    126
-
-    ## Puslapis 143
-
-    Il KNYGA
-    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
-    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
-    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-233
-
-- c-113
-  santrauka: '1237 m. Kryžiuočių ordino magistras su broliais Pagudėje pastatė pilį, pavadintą Elbingu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie karą su pagudėnais ir Elbingo pilies pastatymą
-
-       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
-    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
-    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
-    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
-    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
-    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
-    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
-    išaugo miestas242.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-080
-    - t-045
-
-- c-114
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Be to, nemaža tokių, kurie, gilaus širdies pamaldumo skatinami, su
-    begaliniu uolumu patarnauja  ligoninėse  pasilpėliams  ir  paliegėliams, sergantiems
-    šiurpiomis ligomis. Garbingą ir naudingą vietą ordine užima dvasininkai, kurie taikos
-    metu, visur pasklidę nelyginant kibirkštys, skatina brolius pasauliečius stropiai laikytis
-    regulos, laiko pamaldas ir teikia sakramentus, o skubantiems į kruvinas žudynes vardan
-    gyvenimo ar mirties rodo nukryžiuotojo viešpaties pavyzdį, šitaip keldami kovotojų
-    narsą; su begaline dvasios malone jie teikė savo patarnavimus visiems — ir tvirtiems
-    kariams,  ir silpniems paliegėliams, nešdami jų sąžinei paguodą paskutinę gyvenimo
-    valandą. Štai šį dvasios palaimą teikiantį ordiną, nuolatos šventosios bažnyčios labui
-    plečiantį savo veiklą, rėmė įvairūs popiežiai, palankia akimi stebėję jo darbą ir patvirtinę
-    jam suteiktas gausias privilegijas, imunitetus ir laisves154.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-045
-    - t-109
-
-- c-115
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva krikštijosi katalikišku krikštu, o jos
-    dalis Žemaitija tapo paskutiniu Europoje
-    apsikrikštijimo regionu – šiais įvykiais bai-
-    gė formuotis krikščioniškoji Europa.
-    Lietuvos Didžioji Kunigaikštija dėl Vo-
-    kiečių ordino pavojaus pamažu stiprino
-    ryšius su Lenkija, o XV–XVI a. perėmė
-    krikščionišką Vakarų kultūrą. XVI a. vidu-
-    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
-    valstybė – Abiejų Tautų Respublika.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210
-    - t-075
-
-- c-116
-  santrauka: 'Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Prūsams dar ir dėl to buvo sun-
-    kiau gintis nuo ordino, kad jie neturėjo vieningos valstybės; jų
-    smulkūs kunigaikštėliai, savitarpy nesugyvendami, negalėjo
-    sutartinai gintis nuo priešo. Todėl ordinas per 50 metų nukariavo
-    visas aisčių gimines tarp Vyslos ir Nemuno ir, priėjęs Nemuną,
-    susidūrė jau su vieninga Lietuvos valstybe, su kuria vėl pradėjo
-    ilgą karą. Tuo tarpu visos kiltys, buvusios anapus Nemuno,
-    liko amžinoje vokiečių vergovėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-115
-
-- c-117
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­
@@ -7396,10 +4993,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031
-    - t-166
+    - t-551
+    - t-144
 
-- c-118
+- c-106
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto Algirdo valdymo pa­
@@ -7417,1253 +5014,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-155
-
-- c-119
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ordinas galėjo pulti dar nesusitvarkiusius lenkus, bet jis
-    to nedarė, matyti bijojo, kad girioje galėjo būti dar daug pasi­
-    slėpusios kariuomenės. Trečioji Ordino kariuomenės eilė sto­
-    vėjo dar tolokai nuo mūšio lauko ir buvo laikoma atsargai. Kai
-    buvo išrikiuotos dvi lenkų linijos (trečioji tvarkėsi), Ordinas pa­
-    matė, kad jo frontas yra per trumpas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-030
-    - t-134
-
-- c-120
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a. pabaigoje,
-    agresijos  į Artimuosius Rytus metu, atsikėlimas ir įsitvirtinimas pavyslyje XIII a.
-    pirmojoje pusėje. Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
-    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
-    feodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,
-    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
-    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
-    kovą prieš agresiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-    - t-098
-
-- c-121
-  santrauka: '1323 m. Liubeke dėl tariamų Gedimino laiškų nutarta kreiptis patarimo į tuo metu mieste buvusius Ordino riterius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Rygos miesto tarė­
-    jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323
-    metų liepos 18 dieną Liubeko miesto rotušėje, dalyvaujant
-    imperatoriaus kancleriui Janui fon Bremenui, daugeliui Liu­
-    beko katedros kanauninkų, dominikonų ordino vienuoliams
-    ir miesto tarybos nariams, įteikė dominikonų ordino kuni­
-    gams tariamus karaliaus Gedimino laiškus, prašydami juos
-    čia pat skaityti. Tad buvo perskaitytas tas laiškas ir du kiti,
-    kurie buvo įteikti miesto tarybai ir minoritų kustodui. Buvo
-    aptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką
-    daryti, pritiktų kreiptis, patarimo į tuomet Liubeke buvoju­
-    sius Ordino riterius, Rygos presbiterį, Vendeno komtūrą
-    Veimarą fon Henę, Karkuso valdytoją Mikalojų fon Taršau
-    99
-
-    ## Puslapis 116
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    ir Gotfridą fon Ostą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-069
-
-- c-122
-  santrauka: 'Balińskis rašė, kad Švitrigailos laikais Kryžiuočių ordinas turėjo itin didelę įtaką Lietuvos reikalams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Anų laikų
-    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
-    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
-    ir rusų miestų, su kuriais buvo prekiaujama nuo seno. Dar
-    niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
-    reikalams, kaip tuomet. Didžiojo kunigaikščio dvare knibž­
-    dėjo beveik vieni vokiečiai, ir didysis magistras gudriai su­
-    gebėjo apstatyti Švitrigailą savo parankiniais, kurie akylai
-    sergėjo, kad dviejų neseniai susijungusių tautų vienybė vis
-    labiau silpnėtų ir tarp brolių tvyrotų nesantarvė7.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-051
-
-- c-123
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Juk val­
-    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
-    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
-    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
-    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
-    ti pasiuntė. Juk taip pat nedorai Ordinas elgiasi ir su garbin­
-    gąja dvasininkijos diduomene, kaip antai arkivyskupais Jo­
-    nu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus
-    verčia dykynėmis, visada sakydami, jog visa tai daroma
-    krikščionybei ginti. „Noriai (tęsia toliau) liausimės puldinė­
-    ję krikščionių žemes, iš tiesų esame linkę prisidėti prie to
-    tikėjimo skleidimo, ką rodo tai, kad daug minoritų laikome
-    savo žemėj, kuriems suteikėme visišką laisvę krikštyti,
-    71
-    šiame sutvirtintame mieste, papras­
-    tai tariant, nukariautame ir visai pe­
-    lenais virtusiame, daugeliui Kristų
-    tikinčiųjų nuo ginklo žuvus, dešimt
-    tūkstančių abiejų lyčių žmonių su
-    savimi paėmė ir išsivarė].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-048
-
-- c-124
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pagaliau kam visuose
-    trijuose laiškuose kartojama, kad tas pats antspaudas buvo
-    uždėtas ir ant laiško popiežiui. Visa tai susumavus, atrodo,
-    kad tas antspaudas nebuvo tikras Gedimino antspaudas, bet
-    suklastotas. Laiškų autorius, baimindamasis, kad neišaiškė­
-    tų, kaip yra iš tikrųjų, turėjo stengtis visoms dvejonėms už­
-    bėgti už akių, todėl radosi priedas, kad kryžiuočiai tikrąjį,
-    jo paties, valdovo, antspaudą į ugnį įmetę; ar tikra, ar išgal­
-    vota būtų toji aplinkybė, bet užuomina apie ją čia įdėta sie­
-    kiant tam tikro tikslo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-077
-
-- c-125
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
-    didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
-    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
-    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
-    prieš Lietuvą.
-      Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
-    feodalinių riterių žygių prieš musulmoniškąjį pasaulį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176
-    - t-098
-
-- c-126
-  santrauka: 'Gedimino laiške teigiama, kad kryžiuočiai įmetė į ugnį antspaudą, siųstą apaštališkajam viešpačiui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šį raštą mes laikysime nekeičiamu, nes mūsų žodis liks
-    tvirtas kaip plienas.
-    To [rašto] paliudijimui laikėme reikalingu dalyku pridė­
-    ti prie šio laiško tą mūsų antspaudą, kurį pasiuntėme apaš­
-    tališkajam viešpačiui ir švenčiausiajam mūsų tėvui ir kurį
-    kryžiuočiai šios pasiuntinybės įžeidimui įmetė į ugnį.
-    Šio antspaudo niekintojus ir teksto klastotojus šiuo laiš­
-    ku skelbiame tikėjimo persekiotojais, piktais ir klastingais
-    eretikais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-061
-
-- c-127
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    O Julijona ir kunigaikščio
-    taryba tėra paminėta Žemaičių dovanojimo dokumente.
-    Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais
-    tariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis
-    Jogailą priversti nesitraukti nuo didelių pažadų. Įvykiai tačiau
-    (^19) **LUB, III, 393-395, 400, 489-495 p.; RaCD, 55-60 p.**
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-212
-
-- c-128
-  santrauka: 'Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu 60 brolių ir būrys vyrų iš Prūsijos patraukė link Gardino pilies, tačiau, patyrę,
-    jog tie perspėti, pasiuntė 400 vyrų, kurie įsiveržė į šios pilies apylinkes, apiplėšė jas ir
-    sugrįžo ten, kur stovėjo brolių kariuomenė. Kitą dieną, kai lietuviai, manydami, jog
-    broliai bus patraukę  į savo žemę, ėjo  į savo laukus, broliai su visa savo kariuomene
-    užgriuvo mūsų minėtą žemę ir per šešias mylias ją nusiaubė, degindami bei grobdami.
-    Be to, daug šios pilies kilmingųjų, apie 94 žmones, su visais savo namais ir šeimyna
-    prisidėjo prie brolių ir, atvykę į Prūsiją, priėmė krikšto malonę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-098
+    - t-135
 
 - c-129
-  santrauka: 'Vytautą nuo sostinės dažnai atitraukdavo karai su Rusios kunigaikščiais, totorių chanais ir kryžiuočiais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tiekos negandų nukamuota,
-    nesiliaujant vaidams viduje ir antpuoliams iš svetur, šalis ne­
-    valiojo greit pakilti iš vargų, kokius patyrė per pastarąsias
-    apgultis. Veržli Vytauto prigimtis neleido jam ilgai išbūti už­
-    siėmus taikiais reikalais; amžinos kovos su Rusios kunigaikš­
-    čiais ir totorių ordos chanais, įtempti karai su dar nenumal-
-    dytais kryžiuočiais vertė šį šiaurės krašto karžygį pakelti
-    kardą čia vienoje valstybės pusėje, čia kitoje, dažnai atplėš­
-    davo jį nuo sostinės. Vis dėlto nereikėtų manyti, kad Vilnius
-    ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
-    patirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-028
-
-- c-130
-  santrauka: 'Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų
-    pakartą išdaviką, bet vis tiek puolė tvirtovę. 22 dienas tęsėsi
-    apsuptis, o dviejų poilsio dienų metu į pagalbą apsuptie­
-    siems atvyko Ordino maršalas Henrikas Duseneris ir Reino
-    palatinas su stipriom pajėgom. Įgula su pagalbininkais be­
-    mat susiruošė pulti ir užpuolė Gedimino stovyklą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-131
-  santrauka: 'Vytautas pakėlė savo ir Lietuvos vardą sudarydamas kampaniją prieš Ordiną, kuri galiausiai pasiekė tikslą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pa­
-    dėjo net tada, kai tam priešingi buvo veik visi Lenkijos didikai,
-    kurie buvo ten faktiški padėties viešpačiai. Labai aukštai
-    savo ir visos Lietuvos vardą pakėlė sudarydamas kompaniją
-    prieš Ordiną, kuri galutinai savo tikslo pasiekė. Ordinas tapo
-    deskredituotas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-088
-
-- c-132
-  santrauka: 'Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas ir be jų turėjo
-    pakankamai kariuomenės. Ordinas atsiuntė savo komtūrą
-    Marquardą v. Salzbachą su keliais tūkstančiais kariuomenės;
-    prisijungė prie Vytauto su savo pulkais ir Tochtamyšas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-157
-
-- c-133
-  santrauka: 'Kryžiuočiai kurstė Vytauto ambiciją, Lietuvos karūną vaizduodami kaip atpildą už jo laimėjimus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pats kone visą gyvenimą valdęs Lietuvą ir turėjęs tieka
-    įtakos Lenkijos valdžiai per savo genialumą, tiek pelnęs šlo­
-    vės, vylėsi nors gyvenimo saulėlydyje savo galvą papuošti
-    karūna. Ambicija to žmogaus buvo pašėlusi; tą senų seniau­
-    siai buvo patyręs Zigmantas, o kryžiuočiai dar geriau žino­
-    jo. Kurstė ją tad visokiausiais būdais, karūnos Lietuvai pel­
-    nymą vaizduodami puikiausiu atpildu Vytautui už jo
-    laimėjimus, nenuilsdami stengėsi dvejus metus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-094
-
-- c-134
-  santrauka: '1410 m. Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1392–1430
-    žymiausio Lietuvos valdovo Vytauto valdymo metai.
-    1410 
-    Žalgirio (Griunvaldo) mūšis. Lenkijos ir Lietuvos jungtinė kariuomenė
-    sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
-    tencijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-197
-
-- c-135
-  santrauka: '1408-1414 m. kovose su kryžiuočiais Lietuvos monarcho pastangos buvo nukreiptos į Prūsijos ordino pajėgų silpninimą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Betgi Trakų žydai,
-    gerokai anksčiau, dar 1388 m., atskirai buvo gavę panašią pri­
-    vilegiją, kuria išsamiai apibūdinta jų elgsena krikščionių at­
-    žvilgiu69.
-    Nuo šiol kelerius metus (1408-1414 m.) vyko įnirtingos ko­
-    vos su kryžiuočiais, tad visos Lietuvos monarcho pastangos
-    nukreiptos į vieną tikslą - susilpninti grėsmingas Prūsijos or­
-    dino pajėgas. Reikšminga pergalė prie Griunvaldo pirmą kar­
-    tą pajudino jo tvirtus pamatus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198
-
-- c-136
-  santrauka: 'Skirgaila iš Trakų pilies išvykdavo į mūšius su Prūsijos ordinu arba maištaujančiais Rusios kunigaikščiais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Po
-    to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
-    Lenkiją, Vilnių palikęs.
-    Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
-    gailos valdymas. Nuolatine savo buveine pasirinkęs Trakų
-    pilį, jis išvykdavo tik į mūšius su Prūsijos ordinu arba su
-    Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­
-    čiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-150
-
-- c-137
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Krikštas tačiau buvo pirmoji stipri grandis, siejanti
-    Lietuvą su krikščioniška vidurinių amžių bendruomene. Kad būtų
-    galima įeiti į tą bendruomenę ir gauti aukščiausios Bažnyčios
-    valdžios patvirtinimą, reikėjo dar nugalėti kryžiuočių daromas
-    kliūtis.
-    Pirmasis Italijon vykstąs Jogailos pasiuntinys (Trąba) Habs­
-    burgų žemėse buvo įmestas kalėjiman.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-209
-
-- c-138
-  santrauka: 'Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ilgokai jam grasinę, galop tarėjai paprašė
-    teisėją jo pasigailėti, o  jį paakino tučtuojau pakeisti savo gyvenimo būdą. Kai brolis
-    Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.
-    Kai sugrįžo išbalęs ir priblokštas  į savo pilį, papasakojo visa, ką matęs, savo žmonai,
-    kilmingai, jaunai ir švelniai moteriai, kuri, jo paprašyta skyrybų, ryžtingai atsisakė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-045
-
-- c-139
-  santrauka: '1244 m. į Prūsiją atvyko magistras Poponas su Ordino broliais ir Austrijos kunigaikščio atsiųstais raitaisiais lankininkais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis
-
-       Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop
-    paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis
-    aplinkybėmis, kuris patarė pasiųsti Austrijos kunigaikščiui Mstivojų, Sventopelko sūnų,
-    kaip įkaitą ir Prūsijos žemės bei brolių likimą patikėti Vokietijos, Čekijos, Krokuvos ir
-    Lenkijos kraštams, nes matė, kad tikėjimo ir brolių reikalai bematant čia žūsią, jeigu
-    nepaskubėsianti ateiti ir dieviškoji, ir jų pagalba. Kai šitai buvo padaryta, 1244 atvyko
-    brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.
-    Be to, Austrijos kunigaikštis dar atsiuntė šiai žemei padėti 30 raitųjų lankininkų, išlaikomų
-    savo lėšomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-139
-    - t-098
-
-- c-140
-  santrauka: 'Vokiečių ordinas trukdė Vytautui pastatyti Lietuvą Europos katalikiškųjų šalių greton.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-
-    nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-
-    tauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton. Tai
-    padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-
-    to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
-    įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
-    sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-204
-
-- c-141
-  santrauka: 'XIII a. į prūsų žemes atsikraustęs vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pir-
-    moji, dešiniajam Vyslos žemupio krante gyvenusi, vakarinė kilčių
-    grupė paprastai vadinama prūsais; nuo jų į šiaurės rytus gyveno
-    tos aisčių kiltys, iš kurių yra susiformavusi lietuvių tauta, o dar
-    toliau gyveno tos kiltys, iš kurių yra susidarę dabartiniai latviai.
-    **Prūsus** sudarė keletas kilčių, kurių tik vakariausios bu-
-    vo vadinamos prūsais. XIII amž. į čia atsikraustęs vokiečių
-    kryžiuočių ordinas pirmučiausia pavergė prūsus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186
-
-- c-142
-  santrauka: 'Ordino riteriai pasinaudojo Gedimino valdų suskaidymu, kuris, anot šaltinio, susilpnino krašto galią.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jau­
-    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
-    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
-    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
-    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
-    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
-    neįgijęs, sergėjo. Be to, dar nerimą kėlė Gedimino valia ra­
-    dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
-    ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
-    riteriai, gviešęsi grobio ir valdžios. Kivirčai tarp brolių da­
-    vė pradžią slaptoms, bet sumaniai parengtoms sutartims
-    siekiant nuversti nuo sosto Jaunutį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207
-    - t-181
-
-- c-143
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Betarpiškame ryšyje su Georgenburgo įkūrimu
-    reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies
-    Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.
-    Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
-    jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
-    tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti. Že­
-    maičiai tačiau nesidavė nulenkiami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-085
-
-- c-144
   santrauka: 'Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vizijomis apie brolių žaizdas ir randus, kuriuos rodanti abejojantiems pati švenčiausioji
-    mergelė, teigiama, jog Vokiečių ordinas esąs pats geriausias, labiausiai nusipelnęs tarp
-    kitų panašių brolijų (III, 12).
-      Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
-    žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-025
-
-- c-145
-  santrauka: 'Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje
-
-      Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių  ir
-    pragaišties, pasak šventojo rašto, be galo klastingos  ir suktos širdies; prūsų tautą,
-    neseniai priėmusią Kristaus tikėjimą, jis pradėjo taikiais žodžiais raginti griebtis klastos,
-    sudarė sąjungą su ta sąlyga, kad jie išvarysią jėga iš Prūsijos žemės Teutonų ordino
-    brolius ir kitus krikščionis266; jiems ši kalba rodėsi esanti gera, daug kas persimetė į jo
-    pusę, ir beveik visi jam prijautė. Kai šitai įvyko, šis kunigaikštis sutvirtino savo pilis Vyslos
-    pakrantėse  ir jose įkurdino nuodėmingus žmones, nedoringus vyrus  ir nusikaltėlius,
-    kurie tapo broliams nelyginant kilpa po kaklu. Mat išėję iš šių pilių, jie, pastebėję pro šalį
-    plaukiančius brolių valdinius, staiga juos užpuldavo ir smarkiai sumušdavo, pasigrobdami
-    didelį grobį; vienus ėmė  į nelaisvę, kitus be pasigailėjimo žudė ir šitaip aplinkui liejo
-    krikščionių kraują; tokie dažni būdavo tie antpuoliai, kad ilgainiui niekas nesiryždavo
-    broliams patarnauti ir pristatyti Elbingo, Baigos bei kitų vietų broliams maisto, kurio
-    jiems labai reikėjo. Visa tai broliai buvo linkę verčiau kęsti be galo nuolaidžiai ir kantriai,
-    nei, pradėjus gintis, kelti ranką prieš viešpaties pateptąjį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-098
-
-- c-146
-  santrauka: 'Ordino magistras, plėsdamas veiksmus Lietuvos pasienyje, įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Apie
-    gegužės m. 20 d. jis įsiveržė į Vilniaus srities Medininkus ir,
-    pabuvęs ten astuonias dienas, grįžo su dideliu grobiu^1 ).
-    Matydamas Vytauto pastangas neinant veltui, Ordinas ma­
-    tė reikalą taip pat išplėsti Lietuvos pasienyje akciją. Dar
-    vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi
-    pilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­
-    talpintos kryžiuočių įgulos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-170
-
-- c-147
-  santrauka: 'Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras veikiausiai buvo Medvėgalis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
-
-      Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su
-    visa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų
-      569 D.— circa territorium Medenickam, Jer.— Medenicken, Medeniken; Medininkai
-    centrinėje Žemaitijoje (SZM, p. 223— 226). Dusburgietis kalba apie Medininkų valsčių
-    (territorium), tuo tarpu XIV a. pabaigos duomenys rodo, kad tai buvusi žemė, kurią
-    sudarė keletas valsčių. Medininkų žemė, atrodo, susiformavo XIV a., kai į ją buvo sujungti
-    Žemaitijos centriniai valsčiai ir sudaryta vieninga gynybos prieš Ordino agresiją sistema,
-    kurios centras, matyt, buvęs Medvėgalyje (Łowmiański H., Studja..., 2, p. 81—82).
-      570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pilis, kaip spėjama, buvusi Girgždutės
-    piliakalnyje (Valančius M., Raštai, 1, p. 379; Łowmiański H., Studja..., 2, p. 214); Telšių
-    rj. išlikę Girgždutės  ir Pagirgždūčio piliakalniai (LAA, 2, p. 65, 121— 122). Galimas
-    dalykas, iškreiptas Sizditės pilies vardas sietinas su Spasčių kalno (prie Girgždūtės)
-    vardu, plg., be to, netolimo Sprūdės piliakalnio vardą—LAA, 2, p. 161, Nr. 717).
-      571 D.— Criwicie, Jer.— Kriwitzin, in daz lant Kriwitzin. Krivičių žeme Dusburgietis
-    vadina Naugarduko žemę Nemuno aukštupyje. Naugarduko regioną krivičiai apgyvendino
-    I m. e. tūkstantmečio 2-oje pusėje (Гуревич Ф. Д., Древности..., с. 76; Ochmański J.,
-    Litewska granica..., p. 27—33). Žr. Zinkevičius Z., Lietuvių kalbos kilmė, p. 252.
-      572 D.— parva Nogardia. Naugarduko pilis buvo kalvoje, jos netaisyklingo trikampio
-    formos kiemas apsuptas pylimais  ir kt. įtvirtinimais. XIII a. 2-oje pusėje, Mindaugo
-
-    sugriovė, o aplinkines žemes nuniokojo, degindamas ir plėšdamas visa, kas pakliuvo;
-    priešais minėtojo miesto pilį jis pastatė palapines ir ten pernakvojo, o kitą dieną jis bei
-    visa jo kariuomenė priėjo prie pilies ir ją smarkiai užpuolė, todėl abi šalys prarado keletą
-    karių nukautaisiais ir daug mirtinai sužeistaisiais. Nieko šiuo antpuoliu nepešę, pasitraukė;
-    kai priėjo vietą, kur buvo palikę saugas prie atsarginės žygio mantos, pamatė, kad
-    Gardino pilininkas Dovydas573 nužudęs 30 vyrų ir pagrobęs pusantro tūkstančio arklių,
-    duoną bei kitokį maistą ir visus kitus paliktus saugoti daiktus. Dar labiau susirūpino
-    broliai, kai, priėję antrąjį postovį, ir ten neberado nei duonos, nei kitų paliktų daiktų;
-    jie patraukė  į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo
-    arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
-    alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
-    išvykimo dienos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-096
-
-- c-148
-  santrauka: 'Kryžiuočių ordino broliai po priešų pabėgimo nužudė 17 Lietuvos karalystės galingesniųjų ir daug paprastų žmonių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Po to tie 200 vyrų, kurie ėjo priekyje, sugrįžo, smarkiai
-    šūkaudami ir triukšmaudami, patraukė į mūšio lauką ir įvarė priešams tokį siaubą, kad
-    karalius bei visi jo žmonės, juos išvydę, bematant išmėtė ginklus ir pasileido bėgti. Tada
-    įniršę broliai nubaudė nusidėjėlius ir nužudė 17 Lietuvos karalystės galingesniųjų bei
-    daugybę paprastų žmonių.
-
-
-
-
-                     292 (285).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-121
-
-- c-149
-  santrauka: 'Pasak Petro Dusburgiečio, sapne Švenčiausioji Mergelė Marija pasirodė su daugybe Teutonų namų ordino brolių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
-    Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
-    priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė
-    Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
-    vis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,
-    nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
-    taip kentėti, kaip trokšti“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-141
-
-- c-150
-  santrauka: 'Hermano vadovavimo metais popiežius ir imperatorius suteikė Kryžiuočių ordinui didelių privilegijų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
-    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
-    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
-    Jo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo
-    girdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno
-    žmogaus pastangomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-182
-
-- c-151
-  santrauka: 'Tarnybiniame pranešime įrašyti tariamieji Gedimino laiškai buvo saugomi Kryžiuočių archyve.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau ka­
-    dangi daugelis pavienių lietuvių iš diduomenės ir paprastų
-    žmonių nekeisią savo senojo gyvenimo būdo, tad, skaitantis
-    su tomis aplinkybėmis, būsią naudinga pirma pasiųsti į Lie­
-    tuvą pasiuntinius, ir pridūrė: Si prefato negocio stante in su­
-    spenso antequam fidem christi suscipiant et baptismum, quemad­
-    modum in litteris pollicentur prelibatis, in Christianos quod absit,
-    aut in res, terras seu personas eorundem manus mitterent virulen­
-    tas, sicut ex certis verisimiliter formidant coniecturis, cum fides fi­
-    dem non servanti minime debeat observari, in ipsos cogentur fidei
-    contumeliam vindicare, atque hoc facientes promissi sui inveniri
-    nolunt circa premissa transgressores [Jei minėtas reikalas atsi­
-    durs ant pražūties slenksčio anksčiau, negu jie Kristaus tikė­
-    jimą ir krikštą priimtų, kurį bent jau iš anksto laiškuose žada,
-    į krikščionis kad nebūtų, arba į reikalus, žemes arba jų pačių
-    asmenis išties nuodingas rankas; tartum tam tikrų, tikėtina,
-    baimintųsi pasekmių; kadangi tikėjimas tikėjimui netarnau­
-    jančiam mažiausiai reikalinga garbinti, pačiuose privalo ti­
-    kėjimo niekinimą įveikti ir šitai darydami dėl savo pažado
-    nenori pažeidėjų atskleisti].
-    Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­
-    biniame pranešime (Notariats instrument), į kurį taip pat buvo
-    įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­
-    rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­
-    ve, ir tik iš jo su tais laiškais galima susipažinti. Be abejonės,
-    anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­
-    dino piktadarystę" atsidūrė kryžiuočių archyve.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-107
-
-- c-152
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jokiai kitai žemei laimėti kryžiuočiai nėra padėję tiek daug pa­
-    stangų, kaip šitam pleištui tarp Nemuno žemupio ir Kuršo-Žiemga­
-    los. Todėl per visą XIV amž., iš visų pagoniškosios Lietuvos žemių,
-    Žemaičiai buvo daugiausia puolami. Kai ginklu jų nebuvo galima
-    laimėti, kryžiuočiai patys skatino arba sėkmingai maišėsi į Gedi­
-    minaičių _vidaus_ kovas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194
-    - t-103
-
-- c-153
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pakeliui viską versdama
-    pelenais, kryžiuočių kariauna puolėsi Bisenės pilies link, pa­
-    siryžusi užimti ją šturmu, ir jau vėlų vakarą imta pulti. Įgu­
-    la gynė sienas nepaprastai narsiai ir vokiečius, nepaisant jų
-    66
-
-    ## Puslapis 83
-
-    I  KNYGA
-    sunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­
-    joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­
-    dami, kad sutiksią paklusti Ordinui. Vos tik kryžiuočiai at­
-    sitolino, Gediminas jėga privertė juos sulaužyti duotą žodį ir
-    atsisakyti priklausomybės Ordino valdžiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112
-
-- c-154
-  santrauka: 'Karalius patarė Ordino broliams pastatyti pilį ant kalvos, kur vėliau stovėjo Karaliaučiaus pilis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
-    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
-    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
-    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
-    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
-    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
-    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai. Sitai
-    užbaigęs ir įvykdęs maldininko įžadus, sugrįžo karalius į savo karalystę, žygyje praradęs
-    nedaug savo žmonių.
-  citata_rodoma: ''
-  statusas: verified
-
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-155
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė
-    pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių
-    mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas neatima iš
-    tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą,
-    padrąsink savo kovotojus ir paragink juos sunaikinti tuos, kurie puola mūsų karalystę“.
-    Magistras, galop nurimęs, pasiuntė laivais didžiulę kariuomenę keršyti už neteisingai
-    nužudytuosius; atplaukę prie Baigos, jie ten išlipo ir, tinkamose vietose išdėstę lankininkus
-    bei surėmę  į sieną kopėčias, smarkiai užpuolė šią prūsų pilį, o kadangi jiems talkino
-    Kodrūnas, apgultosios pilies vadas, jie netruko ją užgrobti, dalį žmonių paimti į nelaisvę,
-    o kitus išžudyti. Šitai padarę, broliai, atsidėkodami dievui, drauge su savo ginklanešiais
-    apsigyveno toje pilyje245 1239 viešpaties dievo metais ir ten dar garbingiau kovojo su
-    minėtaisiais prūsais viešpaties dievo kariuomenei deramas kovas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-045
-    - t-106
-
-- c-156
-  santrauka: '1410 m. liepos 15 d. Žalgirio mūšyje Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos mūšiai 15
-
-    ## Puslapis 18
-
-    AG Li;
-
-    Žalgirio mūšio inscenizacija Griunvaldo apylinkėse Lenkijoje: Lietuvos kariuomenė, kartu su sąjungininkais lenkais; |
-
-    2 1410 m. liepos 15 d. sutriuškino Kryžiuočių (dar vadinamo Vokiečių arba Teutonų) ordino kariuomenę viename didžiausių /**
-    Europos viduramžių mūšyje. Ši pergalė padėjo Lietuvai įtvirtinti savo, kaip pilnavertės Europos valstybės, statusą.
-    Oficialiai Lietuva pasikrikštijo dar 1387 m., tačiau Ordinas šį faktą ignoravo ir toliau puolė Lietuvą kovos prieš pagonis
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-
-- c-157
-  santrauka: 'Henrikas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Moteris, tiek kartų ir taip
-    smarkiai bauginama siaubingų bildesių, daugel sykių gąsdinama stebuklingų balsų,
-    nebeturėjo jėgų ilgiau priešintis šventam vyro sumanymui, todėl ir nusileido, duodama
-    jam valią stoti į bet kurį vienuolyną. Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą,
-    davė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus
-    piktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.
-    Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius
-    begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo
-    tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas
-    negali tavęs išganyti, tad išpažink žydų tikėjimą“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-158
-  santrauka: '1413 m. vasario 6 d. Vilniuje Jogaila ir Vytautas įgaliojo atstovus derėtis su kryžiuočiais žemaičių vardu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    72
-    D o g i e 1 Codex Diplom. IV, 92 yra
-    kaip tik tuo metu Jogailos ir Vytau­
-    to duotas įgaliojimas Gniezno arki­
-    vyskupui ir Lenčicos arkidiakonui
-    vesti derybas su kryžiuočiais, at­
-    stovaujant žemaičiams, rašytas Vil­
-    niuje, 1413 an. febr. [metų, vasario] 6
-    dienos data. Dar žr.: Vytauto pareiš­
-    kimas asmeninių derybų dėl taikos
-    tarp jo ir Lenkijos karaliaus, iš vie­
-    nos pusės, bei būsimu didžiuoju ma­
-    gistru ir visu Ordinu, iš kitos, die­
-    nos ir vietos nustatymo dėlei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183
-
-- c-159
-  santrauka: 'Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė,
-    kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos
-    kiekvieną dieną turį skaityti evangeliją: „Pradžioje buvo žodis” su eilute: „Parodyk mums,
-    viešpatie, savo gailestingumą”  ir kolektą: „Visagalis amžinasis dieve, nukreipk mūsų
-    veiksmus, kaip tau patinka”, o tardami „Ir žodis tapo kūnu”, broliai turį pulti ant kelių ir
-    klūpoti iki kolektos galo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-045
-
-- c-160
-  santrauka: 'Vytauto laikais Lietuva ir Vilnius nebebuvo atviri kryžiuočių grobimams ir plėšikavimams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    160
-
-    ## Puslapis 177
-
-    Il KNYGA
-    dar barbarų laikais, išsiugdytos, o už tai, ką istorija jame
-    regi pikta, ne tik jam vienam kaltė tenka, bet dar ir anų
-    laikų tamsybei, kunigaikščių išprusimo stokai arba vi­
-    siškam jo nebuvimui86. Jo laikais Lietuva ir jos sostinė Vil­
-    nius liovėsi buvę atviras laukas kryžiuočių grobimams ir
-    plėšikavimams, jo laikais patirta, ką reiškia saugi nuosa­
-    vybė ir prekyba.
-    86
-    Vytautui nebuvo svetimi ir moks­
-    lai, bent jau tokie, kokie XIV ir XV
-    amžiuje galėjo būti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-116
-
-- c-161
-  santrauka: 'Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai garsas apie naują Kristaus kryžiaus žygį nuskambėjo po visas Vokietijos karalystės
-    žemes, kai buvo paskelbtas naujas karas, kuriam viešpats pasirinko Prūsijos žemę, kai
-    buvo pažadėta naujo karo dalyviams atlaidų bei laisvių, subruzdo visi tie, kuriems širdis
-    sujaudino dievas, būtent šaunūs ir garsūs Vokietijos kariai; prisisegę prie peties kryžių,
-    jie rengėsi  į karą keršyti už nukryžiuotojo viešpaties kančias, kratydamiesi visko, kas
-    galėtų trukdyti jų šventiems ketinimams. Mat jie pakluso šiems išganingos Jeronimo
-    paskatos žodžiams, bylojantiems: „Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis
-    pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk,
-    pamynęs po kojomis tėvą, skubėk, pamynęs po kojomis motiną, ir pulk prie kryžiaus karo
-    vėliavos“. Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
-    pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
-    senoji pilis223.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-045
-
-- c-162
-  santrauka: 'Bajerburgo pilis prie Nemuno apie 1337 m. pastatyta Ordino pavedimu ir padedant Bavarijos kunigaikščiui Henrikui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dabar Veliuona priklauso dvari­
-    ninkui Mykolui Zaleskiui.
-    Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­
-    burgo pilis, pastatydinta Ordinui pavedus ir padedant Ba­
-    varijos kunigaikščiui Henrikui apie 1337 metus, gavusi var­
-    dą, nuo jo paeinantį; pastarasis kunigaikštis draugėj su
-    kryžiuočiais dalyvavo daugelyje žygių į Lietuvą. Dabar Ba-
-    jerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo
-    žemaitiško žodžio „raudonas", mat jos sienos sumūrytos iš
-    raudonų plytų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-136
-
-- c-163
-  santrauka: 'Po Žygimanto Kęstutaičio mirties baigėsi ilgamečiai kryžiuočių puldinėjimai ir Prūsijos ordino įtaka Lietuvos likimui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    lacum intrantibus et exeuntibus,
-    quorum primus Lekoyo, secundus Ko-
-    moszo, tertius Kertnoy, quartus Fro­
-    mą, quintus Roschko in districtu Du-
-    binensi. Addicimus etiam duos homines
-    222
-
-    ## Puslapis 239
-
-    III KNYGA
-    Žygimanto Kęstutaičio mirtis užvertė svarbų Lietuvos is­
-    torijos puslapį, nes kartu su juo jau visiems laikams pasi­
-    baigė šitiek metų trukę kryžiuočių puldinėjimai. Nuo tada
-    liovėsi vyravusi Prūsijos ordino įtaka krašto likimui, ir sve­
-    timšalių riterių brolija jau nežvangino savo ginklais prie
-    Vilniaus sienų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187
-
-- c-164
-  santrauka: '1330 m. apie Velykas Rygos miestiečiai patikėjo miestą Livonijos Teutonų ordino magistrui Eberhardui iš Manheimo ir broliams.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    16. Apie Rygos miesto sugriovimą
-
-      Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos
-    miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė)
-    Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė laikinai aprimo; didėjant
-    nepritekliui ir stiprėjant nesantaikai, kurios su baime laukta kilsiant tarp miesto valdytojų
-    ir paprastų žmonių, miestiečiai turėjo ir save, ir savo šeimas, ir miestą, ir savo laisves
-    bei visas teises ir privilegijas patikėti broliui Eberhardui iš Manheimo, Livonijos žemės
-    magistrui, bei broliams tam, kad jie viską tvarkytų ir rikiuotų, kaip jiems rodysis tinkama.
-    Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
-    spraga.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-086
-
-- c-165
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
-    kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo
-    išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
-    šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
-    smarkiai puldavo Lietuvą.
-    Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius
-    žemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­
-    mėjęs Vislos žiotis ir Pamarį (1309 metais) ir išplėtęs savo pre­
-    kybą su tolimais Vakarų Europos miestais, nors vis labiau tolo
-    nuo pirmykštės Ordino dvasios, bet turėdami pilną iždą pinigų,
-    daug stiprių pilių ir nuolat iš Vakarų Europos plaukiančių jėgų,
-    kryžiuočiai kasmet po kelis kartus puldavo Lietuvą, išniokoda­
-    mi plačias jos sritis, degindami gyvenamas vietas ir žmones iš­
-    sivesdami nelaisvėn. Kęstučiui dar smarkiau, negu pirmtakū­
-    nams, tenka gintis nuo Ordino įsiveržimų, nes tada magistro
-    valdžią turėjo veiklus ir energingas vokietis Vinrichas von Kni­
-    prodė (1351—1382).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-132
-    - t-146
-
-- c-166
-  santrauka: '1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    159 D. — Wurcza. Burcos žemė Transilvanijoje. Joje Vengrijos karalius Andrius 11
-    1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4),
-    norėdamas, kad šie gintų kraštą nuo polovcų (kumanų). Kryžiuočiai savavališkai bandė
-    plėsti savo valdas; popiežiaus padedami, sieke visiško savarankiškumo, todėl 1225 m.
-    Andriaus II buvo išvyti iš Vengrijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216
-
-- c-167
-  santrauka: '231 Kryžiuočiai puolė 1233 m. spalio-lapkričio mėn.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo
-
-      Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo
-      229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo
-    1202 m., Krokuvos kunigaikštis 1228— 1229 ir nuo 1232 m., Opolės kunigaikštis nuo
-    1229 m., Didžiosios Lenkijos kunigaikštis nuo 1234 m. Pasak Dusburgiečio, Henrikas
-    Barzdotasis 1233 m. dalyvavo žygyje  į Prūsiją, tačiau kunigaikščio dokumentai kalba
-    apie jo buvimą Prūsijoje 1235 m. (Labuda G., Stanowisko..., p. 311—312). Manoma,
-    kad žygyje dalyvavo ne pats Henrikas Barzdotasis, bet jo sūnus Henrikas Pamaldusis
-    (Zientara B., Sprawy pruskie..., p. 38).
-      230 Pamario kunigaikštis (miręs 1266 m.).
-      231 Kryžiuočiai puolė 1233 m. spalio-lapkričio mėn. arba 1234 m. sausio-vasario
-    mėn. (Jasiński T., Stosunki śląsko-pruskie..., p. 401).
-      232 Zirgūna (D.— Sirgune, XIII—XIV a. dokumentuose — Sirgun, Syrgen, plg. pr.
-    zirgis, lie. žirgas, Žirgupė; vok. Sorge, dab. Dzierzgoń — GAO, p. 158; Būga K., 3, p. 539;
-    Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo
-    (dab. Družno) ežerą (žr. paaiškinimą III, 14, 4). Mūšis įvyko, atrodo, prie Kristburgo,
-    dab. Dzežgonis (VBK; SRP, 1, p. 58 — Tepeno M. išnaša; Ewald A. L., Die Eroberung...,
-    1, p. 163). D. pasakojimą apie krikščionių pergalę kartais linkstama laikyti įvykius
-    pagražinančiu prasimanymu arba vėlesne tradicija (Kujot S., Dzieje Prus..., 1, p. 601).
-
-    žemės, subūrė brolių ir ginklanešių kariuomenę ir pastatė Rudino pilį233 priešais dykrą,
-    buvusią tarp Pamedės ir Kulmo žemių, toje vietoje, pro kur prūsai nuolatos puldinėdavo
-    ir kur buvo įeiga į Kulmo žemę [fuerat [...] introitus ad terram Colmensem].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-229
-
-- c-168
-  santrauka: 'Klaipėdos pilis beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pavaduodamas susirgusį Livonijos magistrą,
-    Eberhard von Seyne^135 (Deutschmeister) pastatė strategiškai svarbią
-    Klaipėdos pilį 1253-1254 m.^136. Ji ne tik gynė svarbų kelią tarp
-    Prūsų ir Livonijos per patogią Kuršių Neringą, bet dar turėjo būti
-    apsauga artėjančioms iš Kuršo į pietus ir nuo kairiojo Nemuno
-    kranto į šiaurę ordino riterių jėgoms, turinčioms sudaryti bendrą tiltą
-    vakarų Žemaičiuose (Baltijos pakraštyje). Nors Klaipėdai nė iš tolo
-    neteko suvaidinti tokios rolės, kuri buvo tekusi prieš lybius ir lat­
-    vius Rygai ar prie Priegliaus — Karaliaučiui (1254 m.), tačiau Klai­
-    pėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, juo labiau, kad
-    Prūsų ordinas XIII amž. galo užvaldė Nemuno deltą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-036
-
-- c-169
-  santrauka: 'Kronikoje Kryžiuočių ordino karinė užduotis Prūsijoje ir Lietuvoje aiškinama suteikiant riterių ginklams religinę prasmę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kad Ordino užduotis — kariauti, ypač Prūsijoje bei Lietuvoje, pabrėžiama specialiais
-    skyreliais, kuriuose kiekvienam riterių ginklui suteikiama religinė prasmė: jeigu, pvz.,
-    Ordino broliai, atvykę Prūsų žemėn, griebiasi kalavijo, vadinasi, jie griebiasi dorybių
-    ginklo naujame viešpaties kare prieš velnio žabangas (II, 8—9)  ir t. t. Nuolatos čia
-    pabrėžiama religinė vedamo karo esmė: „...juk čia ne jūsų, bet dievo kova“66.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-102
-
-- c-170
-  santrauka: 'XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apkaltintas erezija Tamplierių
-    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
-    Paryžiuje 1314 m.69
-      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
-    argumentacijos. Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta
-    atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,
-    apribojama pasaulietiniai brolių poreikiai, aprangos  ir ginklų puošnumas, finansiniai
-    ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
-    vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
-    skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
-    Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6
-    metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-064
-
-- c-171
-  santrauka: 'Ordino maršalas su 40 000 kryžiuočių įsiveržė į Lietuvą, susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tų karingų vienuolių viršininkas, greitas
-    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
-    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
-    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
-    pilies sudarė sutartį su Vytautu. Netrukus po to Ordino
-    maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­
-    tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir
-    Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
-    aplinkines žemes. Veidmainingas Ordino elgesys su Vytau­
-    tu, norint ne iškelti jį, o tik drumsti vandenį Lietuvoje ir
-    niokoti ją, šįsyk išgelbėjo Vilnių nuo nelaimės: mat kryžiuo­
-    čiai, paėmę du tūkstančius belaisvių, pargrįžo triumfuoda­
-    mi, Vytauto labui nieko nenuveikę, nė negalvodami apie
-    Vilniaus užėmimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-033
-
-- c-172
-  santrauka: 'Apgulus Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, Kryžiuočių ordino broliai kentė badą ir stygių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
-    ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis
-    stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl
-    apsuptieji negalėjo nei įeiti, nei išeiti iš pilies. Vargu ar kas stengtų apsakyti, kiek atrėmė
-    antpuolių, kokių patyrė pavojų, kokį nepakeliamą alkį ir šiaip stygių kentė apsuptieji
-    broliai ir kiti žmonės šiose pilyse. Baisiausio bado kamuojami, kai nebeliko nei avių, nei
-    jaučių, nei kiaulių, nei karvių bei arklių, jie turėjo misti jų odomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-068
-
-- c-173
-  santrauka: 'Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi grąžinti Rygos Bažnyčiai paimtą turtą ir jos nebepuldinėti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Įrodė, jog daugiausia kaltinimų anaiptol ne Ordinui ten­
-    ka, jis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali
-    būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.
-    Popiežius po atskiro pasitarimo su kardinolais visuoti­
-    niame susirinkime pareiškė tokį sprendimą: „Kryžiuočių or­
-    dino riteriai turi Rygos Bažnyčiai, vyskupams bei kapitulai
-    atiduoti viską, ką paėmę, ir daugiau jų nepuldinėti; prakeiks­
-    mas kris ant to, kuris mūšyje sužeistą Ordino brolį pribaig­
-    tų arba skatintų tokį nusikaltimą daryti; niekas daugiau ne­
-    gali trukdyti arba kelti sunkumų tiems, kurie norėtų vykti
-    pas popiežių; visos sąjungos ir susimokiusiųjų sambūriai,
-    gresiantys Bažnyčios garbei, turi būti išsklaidyti ir ateityje
-    nekuriami. Kryžiuočiai turi gerbti dvasininkiją ir jokių nuos­
-    kaudų jiems, jokių skriaudų Bažnyčiai nedaryti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-235
-    - t-147
-
-- c-174
-  santrauka: 'Pratarmėje Petras Dusburgietis pranašo Danieliaus žodžius panaudojo Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
@@ -8676,2018 +5030,170 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
   citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218
-
-- c-175
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    matė, kad jį gerbia kryžiuočiai, pavesdami jam net tarpusavio
-    ginčus spręsti. Žodžiu, jis Prūsuose mito Vakarų kultūros vai­
-    siais, ypač materialine kultūra, kurią paskui kėlė savo krašte,
-    statydamas bažnyčias, pilis ir t. t.
-    Išmoko čia ir tos suktos, bet realios Ordino politikos, ku­
-    rios vėliau pats griebdavos santykiaudamas su kaimynais. Da­
-    lyvavimas tarpe riterių, kurie išdidžiai pūtėsi, dėdamiesi esą
-    tikrosios religijos nešėjai ir skelbėjai, turėjo ir Vytauto būdui
-    atsiliepti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-159
-    - t-200
-
-- c-176
-  santrauka: '1448 m. Vilniuje buvo sudaryta garsi sutartis su Prūsijos ordinu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Čia, Vilniuje (1443 metais), totorių pasiuntinių
-    prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­
-    tas Perekopo chanu. Čia 1448 metais su Prūsijos ordinu su­
-    daryta37 garsi sutartis, o po dvidešimties metų (1468 me­
-    tais) pats didžiojo magistro pavaduotojas Henrikas Plauenas
-    toje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise
-    įžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­
-    tą38. Pagaliau čia, Vilniuje, triumfuojančiai Lietuvai liūdnos iš-
-    35
-    Svarbiausi Vilniaus seimai, suside­
-    dantys iš vasalinių kunigaikščių, Ka­
-    zimiero Jogailaičio laikais vyko:
-    1451,1452,1457 (tais metais Goštau­
-    tui atleido).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-023
-
-- c-177
-  santrauka: 'Hermanas Salza 1226 m. kovo mėnesį Riminyje išsirūpino imperatoriaus Fridricho II privilegiją Vokiečių ordino ateičiai rytuose.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    _ordinas_ , kuris savo pradžią buvo gavęs 1190 m. Palestinoje prie
-    Akonos apgulimo^74.
-    Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs
-    Mozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo
-    įkyrių prūsų puldinėjimų, iš imperatoriaus Fridricho II (Hohenštau-
-    feno) išsirūpino ordino ateičiai rytuose reikšmingą privilegiją, duotą
-    Rimini, Italijoje, 1226 m. kovo mėnesį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-174
-
-- c-178
-  santrauka: 'Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    II tūkstantmečio pradžioje pradėjo formuotis prū-
-    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
-    tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
-    vėliau įkūrė Prūsijos valstybę.
-    Sėslus baltų gyvenimas, matyt, nulėmė, kad baltų mitologijoje (jos ele-
-    mentų išliko tautosakoje) yra daug senųjų indoeuropiečių mitologijos bruo-
-    žų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-230
-
-- c-179
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1410 
-    Žalgirio (Griunvaldo) mūšis. Lenkijos ir Lietuvos jungtinė kariuomenė
-    sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
-    tencijai.
-    1569 
-    Liublino unija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-038
-
-- c-180
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šitokis buvo kelias į Liublino uniją.
-    Kitados, ypač XIV amž., nuolatiniai ordino žygiai Lietuvon
-    vertė visą kraštą virsti lyg kokia nuolatinio karo stovykla. Ta­
-    čiau karams su kryžiuočiais pasibaigus, baigėsi pavojai iš vakarų
-    pusės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-228
-    - t-137
-
-- c-181
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tik paėmę Kauną, Nemuno žemu­
-    pyje privertę lietuvius pasitraukti nuo krantų, juose prisistatę savo
-    pilių, be to, laimėję prie Rudavos, kryžiuočiai jau pasijuto stipresni.
-    Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o
-    1372 puolė vienu metu iš Prūsų ir Livonijos.
-    Kad būtų galima kiek pailsėti nuo tolimesnių teriojimų, Algir­
-    das su Kęstučiu pradėjo su ordinu derybas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-073
-    - t-015
-
-- c-182
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Naugardukas jau buvo garsiojo Min­
-    daugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-
-    d)
-    Harris, Voyages. T. 1, p. 554.
-    8
-
-    ## Puslapis 25
-
-    ĮVADAS
-    denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų;
-    Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino
-    1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu
-    su Nogajaus mongolais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-148
-
-- c-183
-  santrauka: 'Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Kryžiuočių ordino brolius kaip neturtą ir pavojus pasirinkusius tikėjimo gynėjus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
-    įvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,
-    atsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius
-    darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,
-    kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių
-    „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-184
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    upės350, žuvo brolis Burchardas, Livonijos magistras351, ir brolis Henrikas Botelis, Prūsijos
-    maršalas, su jais 150 brolių352, o dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų
-    skaičiaus. Po šitokio sutriuškinimo priešai persekiojo bėgančius žmones, kurie spruko
-    taip didžiai išsigandę, kad trys ar keturi priešai nukaudavo šimtą krikščionių arba juos
-    gėdingai išsklaidydavo353. Štai kuriuo būdu sustiprėjo mūsų priešai, laimėję didelį grobį,
-    daug arklių ir ginklų, kuriuos grobstė nukautiems kariams iš rankų, štai kodėl dabar jie
-    puikuojasi savo narsumu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-098
-    - t-047
-
-- c-185
-  santrauka: 'Vilniuje vyko svarbios ir ilgos derybos su kryžiuočiais, čia buvo pasirašomos sutartys su jais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lenkijos pavyz­
-    džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarnybos
-    ir tiksliai apibrėžtos jų pareigos miestui tarsi suteikė naujo pra­
-    kilnumo71. Vilnius tuo metu tapo pagrindine vietove, kur
-    vykdavo svarbios ir ilgos derybos bei pasirašomos sutartys
-    su kryžiuočiais, buvo ir svarbiausias centras, iš kurio kara­
-    lius su Vytautu, atgavus Žemaičių žemę, karštai ėmėsi at­
-    vertimo į krikščionybę iki tol dar pagonybės besilaikančių
-    jos gyventojų72. Praėjus dvejiems metams (1415 metais),
-    diniams visiems laikams skiria visą
-    Hubortų valsčių (Huborth), prie to var­
-    do upės išsidėsčiusį, su visais kaimais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-119
-
-- c-186
-  santrauka: '1233 m. magistras ir Kryžiuočių ordino broliai Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    9. Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae
-                                    Mariae] pastatymą
-
-      Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo
-    įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir broliai, norėdami, kad
-    mūsų išganymo dievas palaimintų mums kelią į kaimynines netikėlių žemes (pasak kai
-    kurių, šitai tikriausia tiesa), paruošę visa, kas reikalinga pilims statyti, slapta nuplaukė
-    į Kvedino salą, buvusią prieš šiandieninę šventos Marijos salą, ir ten viešpaties dievo
-    1233 metais ant vienos kalvos pastatė pilį, pavadinę ją Marienverderiu. Tačiau kąi  į
-    Kulmo pilį atvyko nemažos kariuomenės ir ginklanešių lydimas kilnusis vyras ir kariauti
-    įgudęs Saksonijos karys Magdeburgo burggrafas224, pravarde Trumparankis,  jis per
-    vienus metus, kuriuos ten praleido, atplaukė čia  ir perkėlė su magistru bei broliais
-    Marienverderio salos pilį iš Kvedino salos  į tą vietą, kur ji dabar tebestovi225, būtent  į
-    Pamedės valsčių, vardu Reisiai226, pakeisdamas pilies vietą, bet ne pavadinimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-066
-
-- c-187
-  santrauka: 'Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro
-    įsakytas, sutelkė visą savo kariuomenę  ir įsiveržė  į Sūduvos žemės valsčių, vardu
-    Pakima495; smarkiai jį nusiaubęs, nudeginęs ir apiplėšęs, paėmęs  į nelaisvę ir išžudęs
-    daugybę žmonių, patraukė atgal ir vakare perėjo su savo kariuomene užšalusį ežerą,
-    vardu Nagutinas496. Rytui išaušus, ledas taip ištirpo, kad niekam nė į galvą nebūtų atėję,
-    jog jie čia perėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-098
-
-- c-188
-  santrauka: 'Hermanas iš Zalcos, Teutonų ordino didysis magistras, 1230 m. atsiuntė Hermaną Balką eiti magistro pareigų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­
-                                        ta Nesavos pilis
-
-      Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą
-    vyrą  ir pamaldų  brolį Hermaną  iš  Zalcos, Teutonų namų ordino  didįjį magistrą,
-    pranešdamas, kaip  čia tvarkomas jam  patikėtas  reikalas,  nuolankiai prašydamas
-    ir maldaudamas, kad jam atsiųstų daugiau brolių bei ginklanešių (1230). Magistras,
-    patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro
-    pareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1,
-    6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra savo brolius,
-    į žemę, kurią viešpats yra jiems pažadėjęs, ir „su tavimi bus dievas“. Be to, maršalu
-    pasiuntė brolį Ditrichą iš Bernheimo, o  į pagalbininkus jam paskyrė brolį Konradą iš
-    Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos
-    ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų. Atvykę
-    į Fogelzango pilį, jie žemiau pasistatė prie Vyslos Nešavos pilį181.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-052
-
-- c-189
-  santrauka: 'Kryžiuočių pilis Fridbergas buvo pastatyta tuo pat metu kaip Bajerburgas, už dviejų mylių nuo Veliuonos žemyn Nemunu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dabar pilis stovi be stogo, be langų ir vis labiau
-    nyksta.
-    Kita kryžiuočių pilis, vadinta Fridbergu (taikos kalnas),
-    pastatyta tuo pat metu, stovi už 2 mylių nuo Veliuonos že­
-    myn Nemuno tėkme ir dabar vadinama tiesiog pilimi**. Se­
-    niau ji priklausė Eperješams, vėliau - Gelgaudams; kadangi
-    išvengė gaisrų, kurių Bajerburgas buvo du kartus patyręs,
-    geriau išsilaikiusi ir atrodo taip, kaip ir prie kryžiuočių, tik
-    nutinkuota.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-127
-
-- c-190
-  santrauka: 'Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolis  Konradas,  magistras,  išmintingas  ir  apdairus  vyras, suprasdamas,  kad,
-    braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos
-    broliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,
-    kuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-098
-
-- c-191
-  santrauka: 'Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Po to  ji kiekvieną
-    naktį girdėjo siaubingą bildesį, nelyginant kas kūju būtų daužęs į sieną, ir balsą, kuris
-    sakė: „Henrikai, kelkis melstis, nes tavo broliai jau pakirdę“. Moteris, tiek kartų ir taip
-    smarkiai bauginama siaubingų bildesių, daugel sykių gąsdinama stebuklingų balsų,
-    nebeturėjo jėgų ilgiau priešintis šventam vyro sumanymui, todėl ir nusileido, duodama
-    jam valią stoti į bet kurį vienuolyną. Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą,
-    davė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus
-    piktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-098
-
-- c-192
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    taip pat patiems valdovams72. Kronika turėjo būti oficialiu Ordino šlovės paminklu73.
-
-
-
-
-                       Kronikos rankraščiai, publikacijos, tyrinėjimai
-
-      Dusburgiečio kronikos originalas — XIV a. rankraštis — neišliko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-065
-    - t-098
-
-- c-193
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Skubinai persikėlus per Nemuną, kryžiuočių kariuomenė
-    prie Strėvos upės išsiskyrė į du didelius dalinius. Pirmasis,
-    kurį sudarė vien svetimšaliai riteriai, vadovaujami didžio­
-    jo magistro, nužygiavo Trakų link, bet tą miestą radę Skir­
-    gailos sudegintą, pasuko atgalios ir susijungė su kitu dali­
-    niu, kuris, vadovaujamas Vytauto ir Ordino maršalo,
-    40 kus darbus gaudavo vietą prie stalo
-    Viduramžiais Vokietijoje prieš kiek- ir būdavo pagerbiamas,
-    vieną karo žygį riteriai, susiruošę į 41
-    kovą, kariautojus, prisijungusius Schütz Chroń. Pr, fol. 89 ir kiti
-    prie jų, priimdavo labai širdingai ir Prūsijos kronikininkai,
-    surengdavo puotą, kur kiekvienas 42
-    pagal savo pelnvtą šlovę bei riteris- ł n k a s 7 Da wi d,T. VTT, p 246
-    131
-
-    ## Puslapis 148
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    žygiavo per Bobius43 užimti Ukmergės, kryžiuočių vadina­
-    mos Vilkinbergu44.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-153
-
-- c-194
-  santrauka: 'Skirgaila, remdamasis sandėriu su Ordinu, Prūsijoje rengė naujus antpuolius prieš Kęstutį ir Lietuvą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tuo tarpu Skir­
-    gaila antrąkart grįžo iš Polocko nieko nepešęs, bet sugebėjo
-    pasikalbėti su Jogaila, dar tebesėdėjusiu kalėjime. Gavęs pa­
-    vedimą, nuvyko į Prūsiją ir, remdamasis sandėrio su Ordinu
-    galia, ėmė rengti naujus Kęstučio ir Lietuvos antpuolius. Išti­
-    sus 1382-uosius metus tęsėsi tarpusavio žudynės ir pade­
-    ginėjimai, o kryžiuočiai, niokodami viską pakeliui, jau net
-    Šalčininkus ir Trakus buvo pasiekę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-104
-
-- c-195
-  santrauka: 'Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolis Poponas, magistras, matydamas, kaip sumaniai minėtasis kunigaikštis  tai
-    vienur, tai kitur tvirtina pilis, ir norėdamas apsisaugoti nuo būsimų pavojų, kalvoje tarp
-    dabartinio Kulmo miesto ir senosios pilies pastatė naują, kurią praminė nuo tos kalvos
-    vardo Poterbergu287 ir kurioje paliko 12 brolių ir daug ginklanešių. Pilį pastatė tam, kad
-    nesumanytų šioje kalvoje ko statyti Sventopelkas ir šitaip nebūtų buvusi padaryta nauja
-    klaida, kur kas didesnė nei ankstesnė.
-  citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
 
-- c-196
-  santrauka: 'Kryžiuočių ordino broliai perdavė Sartovicų pilį Samborui, o vėliau Sventopelkas pradėjo statyti Svečės pilį.'
+- c-134
+  santrauka: 'Pasak Petro Dusburgiečio, sapne Švenčiausioji Mergelė Marija pasirodė su daugybe Teutonų namų ordino brolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Svečės pilies pastatymą ir jos užpuolimą
-
-      Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją
-    su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Kokie keisti, kokie
-    be galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis
-    žemino tikėjimą ir tikinčiuosius! Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo
-    sosto legatą  ir didįjį magistrą, pranešdami jiems apie naują karą  ir Prūsijos žemės
-    padėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
-    įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
-    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
-    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
-    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
-    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
-    plaukioti Vysla aukštyn ir žemyn.
+    Šventoji mergelė jam atsakė: „Neverta,
+    nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
+    taip kentėti, kaip trokšti“. Pakėlusi kiekvienam broliui apsiaustą, ji parodė jų žaizdas ir
+    randus, kurių jiems nešykštėjo netikėliai, kai gynė tikėjimą, ir pasakė: „Ar tau dabar
+    neatrodo, kad štai šie tavo broliai yra šiek tiek kentėję dėl Jėzaus Kristaus vardo“. Jai
+    tarus šiuos žodžius, regėjimas dingo. Tas brolis pakirdęs atsikvošėjo, nuėjo į kapitulą,
+    kur buvo susirinkę broliai, ir dabar, daugiau supratęs bei patyręs, nuolankiai atšaukė
+    savo klaidingą nuomonę ir atsisakė savo sumanymo, kurį anksčiau lengvapėdiškai buvo
+    priėmęs, ir visiems papasakojo matytą regėjimą.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-236
-    - t-098
+    - t-353
+    - t-276
 
-- c-197
-  santrauka: 'Kryžiuočių ordino broliai Pamedėje atstatė Kristburgo pilį naujoje vietoje ir paliko joje daug karių.'
+- c-138
+  santrauka: 'Karalius patarė Ordino broliams pastatyti pilį ant kalvos, kur vėliau stovėjo Karaliaučiaus pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Kristburgo pilies atstatymą
-
-      Magistras ir broliai, giliai susikrimtę dėl šio apverktino įvykio, nusprendė, kad kitaip
-    nepalenksi šių kietasprandžių netikėlių tikėjimui, kaip tik tada, kai šios klastingos giminės
-    viduryje [in medio nationis] būsianti pastatyta  pilis,  iš kurios galėsią juos kasdien
-    puldinėti. Todėl, sukvietę daugybę maldininkų, kurie, pastoviai raginami į kryžiaus karą,
-    nuolat čia traukė iš įvairių Vokietijos kraštų, broliai pasuko  į Pamedės žemę pasiėmę
-    visa, kas reikalinga pilims statyti. Pakeitę vietą, bet ne vardą, Jėzaus Kristaus garbei ir
-    šlovei jie pastatė Kristburgo pilį toje vietoje, kur ji ir dabar tebėra304, sutvirtinę ją viskuo,
-    kas reikalinga pilims ginti, ir palikę joje daug karių. Šiek tiek vėliau, bėgant dienoms ir
-    mėnesiams, apie pilį pradėjo kurti miestą305, į kurį suplaukė gyventi daugybė tikinčiųjų,
-    pasiryžusių už krikščionių tikėjimą kasdien aukoti be baimės savo gyvybę ir savo turtą.
+    kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
+    Paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
+    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
+    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
+    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
+    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
+    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai. Sitai
+    užbaigęs ir įvykdęs maldininko įžadus, sugrįžo karalius į savo karalystę, žygyje praradęs
+    nedaug savo žmonių.
   citata_rodoma: ''
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-050
-    - t-045
-
-- c-198
-  santrauka: 'Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.'
+- c-153
+  santrauka: 'XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kartą, kai popiežius Honorijus III
-    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
-    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
-    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
-    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
-    jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
-    kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
-    Kaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę
-    turėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem
-    pasitarnavo, draugiškai vieną su kitu taikydamas.
+    Vernerio prierašuose pabrėžiama, jog jie
+    skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
+    Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6
+    metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius).
+    Norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą,
+    didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
+    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
+    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
+    prieš Lietuvą.
+    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037
+    - t-059
+    - t-270
 
-- c-199
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kita ekspe­
-    dicija iš Prūsijos 1375 metais irgi buvo sukėlusi Vilniui pa­
-    našią grėsmę. Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
-    tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos
-    bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­
-    binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių
-    polaidžio. Ordino maršalas Gotfridas Lindenas, įsibrovęs su
-    daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­
-    meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­
-    pavykus staiga užimti gerai ginamo miesto, grįžo atgalios
-    plėšti aplinkinių žemių23.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190
-
-- c-200
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Viename jų, skirtame popiežiui ir kardinolams, Gediminas
-    prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta
-    būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­
-    ro smurtas ir nesuskaičiuojamos išdavystės greit privertu-
-    sios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­
-    mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos
-    arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­
-    riai nužudyti. Tiesa, arkivyskupui Isamui tarpininkaujant,
-    tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­
-    dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­
-    keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­
-    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
-    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
-    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
-    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
-    ti pasiuntė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-072
-    - t-189
-    - t-301
-
-- c-201
-  santrauka: 'Popiežius patvirtino Jeruzalės ligoninės brolių ordiną ir leido jo broliams dėvėti baltą apsiaustą su juodu kryžiumi.'
+- c-155
+  santrauka: 'Apgulus Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, Kryžiuočių ordino broliai kentė badą ir stygių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Tad popiežius, išklausęs šią
-    pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties
-    dievo vardu patvirtino. Jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams
-    slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti
-    broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir
-    suteikdamas jiems visokių laisvių, lengvatų bei indulgencijų, kurių apaštališkasis sostas
-      153 Akonas (Akra, Aka) — miestas ir uostas Viduržemio jūros rytinėje pakrantėje (dab
-    Izraelio teritorijoje), XI a. pabaigoje buvęs Vakarų Europos kryžininkų įkurtoje Jeruzalės
-    karalystėje. 1187 m. jį užėmė Egipto sultonas. Saladinas. Kryžininkų atkariautas 1191
-    m., tapo Jeruzalės karalystės sostine (iki 1291 m.).
-
-    teikė tokiems garbingiems ordinams, kaip jau minėtieji joanitai  ir tamplieriai, taigi
-    duodamas teisę laisvai naudotis tomis pat privilegijomis kaip ir anieji.
+    Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
+    ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis
+    stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl
+    apsuptieji negalėjo nei įeiti, nei išeiti iš pilies. Vargu ar kas stengtų apsakyti, kiek atrėmė
+    antpuolių, kokių patyrė pavojų, kokį nepakeliamą alkį ir šiaip stygių kentė apsuptieji
+    broliai ir kiti žmonės šiose pilyse. Baisiausio bado kamuojami, kai nebeliko nei avių, nei
+    jaučių, nei kiaulių, nei karvių bei arklių, jie turėjo misti jų odomis.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
+    - t-063
 
-- c-202
-  santrauka: 'Iki Tannenbergo kautynių kryžiuočiai Vakarų Europai pristatydavo lietuvius kaip pavojingus rytų „saracėnus“, bet kryžiaus karų šauksmas pamažu tilo.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-172
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    19 d. Urbo­
-    nas VI Lietuvą jau oficialiai pripažino katalikišku kraštu.
-    Nors kryžiuočiai dar iki pat Tannenbergo kautynių lietuvius
-    Vakarų Europai pristatydavo kaip pavojingus rytų « saracėnus »,
-    kryžiaus karų šauksmas savaime turėjo pamažu nutilti. Drauge
-    išnyko ir tituluotų pilgrimų žygiai į «Litauerreisen».
+    Nuorašo viršelyje yra Karaliaučiaus bibliotekos įkūrėjo Prūsijos hercogo Albrechto
+    (mirusio 1568 m.) herbas, rodąs tuometinį jo šeimininką. Nurašinėtojas prastokai mokėjo
+    lotynų kalbą, ne visada teisingai suprato XIV a. sutrumpinimus, darė kitų klaidų.
+    Torunės magistrato bibliotekos nuorašas (XVII a.) padarytas iš Karaliaučiaus
+    bibliotekos teksto.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-160
-
-- c-203
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Palestinoje prie
-    Akonos apgulimo^74.
-    Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs
-    Mozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo
-    įkyrių prūsų puldinėjimų, iš imperatoriaus Fridricho II (Hohenštau-
-    feno) išsirūpino ordino ateičiai rytuose reikšmingą privilegiją, duotą
-    Rimini, Italijoje, 1226 m. kovo mėnesį. Jos dėka ordinui, su Reicho
-    kunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­
-    ninku užkariausimoje prūsų žemėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-177
-
-- c-204
-  santrauka: 'Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šioje pilyje
-    gyveno vienas brolis, kuris, velnio klastingai sugundytas, kuo tvirčiausiai buvo įsitikinęs,
-    kad negalėsiąs Teutonų namų ordine savo sielos išganyti, dėl to sumanė stoti į griežtesnį
-    ordiną. Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
-    Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
-    priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė
-    Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
-    vis dėlto leistų pasilikti savo brolių bendrijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-025
-
-- c-205
-  santrauka: 'Pasak Petro Dusburgiečio, Henrikui pasižadėjus įstoti į Teutonų ordiną, išnyko regėtas sambūris ir regėjimai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai brolis
-    Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.
-    Kai sugrįžo išbalęs ir priblokštas  į savo pilį, papasakojo visa, ką matęs, savo žmonai,
-    kilmingai, jaunai ir švelniai moteriai, kuri, jo paprašyta skyrybų, ryžtingai atsisakė. Kai
-    jis kurį metą nelyginant dvejojo, ar pajėgs tesėti savo įžadus, velnias, žmonių giminės
-    priešas, kuriam tūkstančiai kelių kenkti žmogui, norėdamas jį sulaikyti nuo šių šventų
-    ketinimų, pasirodė jam sapne apsivilkęs karališkais rūbais bei apsuptas gausybės riterių
-    ir pasakė: „Henrikai, turėtumei tokią karalystę ir tokią kariauną, būtumei žymus karys,
-    man tarnautumei, o aš dar daugiau tau duočiau“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-024
-
-- c-206
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­
-    jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­
-    kos sėkmingos, didysis magistras Konradas Ciolneris Ro-
-    tenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų
-    rugpjūtį ties Kaunu persikėlė per Nemuną ir ėmė siautėti
-    visame krašte. Vilnius, tiesa, turėdamas tvirtovėse labai stip­
-    rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
-    ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
-    kotos. Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
-    Ordino riterių kirstas pagoniškai Lietuvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-239
-
-- c-207
-  santrauka: '1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    20. Apie didžiojo magistro mirtį
-
-      Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
-    18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
-    paties nedorybių, nužudė brolį Vernerį, didįjį magistrą, kai tas, atgiedojęs mišparus, ėjo
-    iš bažnyčios, o nužudė todėl, kad tas jį bardavo už jo nusižengimus. O Jonai brolžudy,
-
-    Pastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—
-    Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211
-
-- c-208
-  santrauka: 'Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą Vytautą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Juk
-    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
-    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
-    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
-    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
-    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
-    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
-    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
-    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
-    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
-    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
-    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
-    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
-    klestėti!
-    Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­
-    gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­
-    tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­
-    sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos
-    -- • --
-    135
-
-    ## Puslapis 152
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    bandant nuversti naująjį Lietuvos valdovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-095
-
-- c-209
-  santrauka: '1390 m. sausio 19 d. netoli Gardino pilies Ordino komtūras sudarė sutartį su Vytautu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vilniaus kapitulos archy­
-    vas: MSS, vad. Acta, tai yra*
-    117
-
-    ## Puslapis 134
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    Ordino pagalbos. 1390 metų sausio pradžioje visą savo šei­
-    mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­
-    tesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar
-    labiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų
-    savo pilių gynybą. Tų karingų vienuolių viršininkas, greitas
-    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
-    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
-    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
-    pilies sudarė sutartį su Vytautu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217
-
-- c-210
-  santrauka: 'Baigos ir kitų pilių Ordino broliai laikėsi griežtų vienuoliškų regulų ir dažnai atlikdavo atgailos praktikas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Baigos brolių vienuolišką gyvenimą
-
-      Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių
-    paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų
-    regulų laikėsi Baigos bei kitų minėtųjų pilių broliai. Niekad arba beveik niekad netruko čia
-    maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar
-    rytmetinių pamaldų tas ar kitas brolis neplaktų rykštėmis savo kūno. Kai kurie vienuoliai,
-    atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė,
-    kuo vardu jų pilis. Kai jiems atsakė, jog Engelsbergas, tai yra Angelų kalnas, šie atrėžė:
-    „Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-238
-
-- c-211
-  santrauka: 'Po magistro Hermano mirties Kryžiuočių ordine buvo priskaičiuojama du tūkstančiai brolių iš kilmingų Vokietijos šeimų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.
-    Jo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame
-    Ordine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos
-    šeimose. Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir
-    pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų
-    šio Ordino vienuoli© apsiaustą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-212
-  santrauka: 'Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kryžiuo­
-    čiams liko ištikimos 8 pilys — jų tarpe Ragainės ir Klaipėdos. Po
-    pirmo katastrofos smūgio ordinas tačiau ėmė atsipeikėti. Kai
-    Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko
-    apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės
-    jau nebeįstengė paimti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-056
-
-- c-213
-  santrauka: 'Pasak Petro Dusburgiečio, Mergelė Marija broliui Hermanui skundėsi, kad Teutonų ordino broliai kalba apie pasaulio tuštybę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    81 (78). Dar apie tą patį
-
-      Su šiuo broliu Hermanu, jau priimtu  į Ordiną ir darančiu vieną dorovingą darbą po
-    kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną
-    sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis stengėsi patirti jos
-    liūdesio priežastį, atsakė: „Man liūdna, kad mano mielieji sūnūs, o tavo broliai iš Teutonų
-    ordino, kitados apie nieką kita nesikalbėję, tik apie mano sūnų, apie mane ir šventųjų
-    darbus, dabar apie nieką kita nesikalba, tik apie karalių bei kunigaikščių darbus ir šio
-    pasaulio tuštybę, o labai retai kada arba niekada nemini nei mano sūnaus, nei manęs,
-    nei šventųjų darbų“.
-
-      340  Gerhardas iš Hiršbergo (Hircbergo) 1257—1259 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-027
-
-- c-214
-  santrauka: '1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų namų ordino broliais ir įpareigojo juos kovoti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
-    Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
-    užjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino
-    viešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai
-    sudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už
-    kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
-    priklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite
-    ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš
-    mus sunaikinti mūsų  ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti
-    mūsų tautos ir šventovės nelaimes14.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-081
-
-- c-215
-  santrauka: 'Veliuonos pilis tikriausiai buvo pastatyta XIII a., kad Žemaitijos siena būtų saugoma nuo kryžiuočių puldinėjimų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IX).
-    100
-
-    ## Puslapis 117
-
-    III
-    APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ
-    Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje,
-    kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­
-    žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­
-    vų su Ordinu šioje vietovėje, nusidriekusi ties Nemunu, už
-    7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per
-    pusantros mylios nutolusi nuo dabartinės Prūsijos sienos.
-    Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­
-    mu prie jo, yra apie 160 namų ir dvaras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-101
-
-- c-216
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmąjį Vilniaus paminėjimą, pirmą autentišką
-    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
-    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
-    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
-    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
-    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
-    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
-    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
-    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
-    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
-    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
-    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
-    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad
-    iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
-    tų vėlesnio susijungimo ir galios pirmosios gijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-163
-
-- c-217
-  santrauka: 'Vytautas nepaisė ordino reikalavimo grąžinti pabėgėlius žemaičius.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl jis
-    nepaisė ordino reikalavimo. Pagaliau santykiai tarp ordino ir
-    Vytauto tiek paaštrėjo, kad jis parėmė žemaičius, ir tie visus
-    kryžiuočius išvarė iš savo krašto. Jie sugriovė net Klaipėdą ir
-    įsiveržė į ordino žemes už Nemuno.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-168
-
-- c-218
-  santrauka: 'Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
-    pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
-    kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
-    kurį niokojo, degindamas ir grobdamas. Be kita ko, sudegino Skomanto, galingo vyro bei
-    šio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu
-    grobiu sugrįžo namo. Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per
-    šią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė
-      499  Plg. pasakojimą apie Skomanto mirtį (D. III, 224).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-045
-
-- c-219
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    K. Požėlos spaustuvė, Kaunas
-
-
-    Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą
-            „LIETUVIŲ LITERATŪROS KLASIKOS KŪRINIŲ PERKĖLIMAS
-                               Į ELEKTRONINĘ ERDVĘ“, 2013
-
-    TURINYS
-
-    Pratarmė                                           5
-    Petro Dusburgiečio kronika                            7
-    PRŪSIJOS ŽEMĖS KRONIKA                           32
-      Pirma knygos dalis                                                36
-      Antra knygos dalis                                                42
-       Trečia knygos dalis                                                52
-       Ketvirta knygos dalis (Apie įvykius)                                  225
-      Papildymas                                                     252
-    Bibliografija                                      259
-    Asmenvardžių rodyklė                              279
-    Vietovardžių, etnonimų ir kai kurių istorijos dalykų rodyklė 298
-
-    PETRI DE DUSBURG
-
-
-    CHRONICA TERRAE
-        PRUSSIAE
-
-    Lituanistinė biblioteka
-
-    Pratarmė
-
-
-
-      XIV a. trečiajame dešimtmetyje Lietuvos valstybei, Gedimino vyriausybei vedant
-    sėkmingą karinę  ir diplomatinę kovą prieš Kryžiuočių ordino agresiją, Vakarų
-    Europoje pasigirdo kritiškų balsų Ordino atžvilgiu. Siekdamas pagrįsti kryžiuočių
-    užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
-    Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
-    kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
-    valstybės kūrinys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-055
-    - t-211
+    - t-060
+    - t-399
 
 - c-220
-  santrauka: 'Ordino riteriai Liubeke siūlė prieš sprendimą dėl Lietuvos krikšto pirmiausia pasiųsti į Lietuvą pasiuntinius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Buvo
-    aptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką
-    daryti, pritiktų kreiptis, patarimo į tuomet Liubeke buvoju­
-    sius Ordino riterius, Rygos presbiterį, Vendeno komtūrą
-    Veimarą fon Henę, Karkuso valdytoją Mikalojų fon Taršau
-    99
-
-    ## Puslapis 116
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    ir Gotfridą fon Ostą. Kai pakviestieji atvyko ir jiems buvo per­
-    skaityti laiškai, jie pareiškė: jeigu viskas, kas juose rašoma,
-    yra tiesa, savo būtina pareiga jie laiką kuo veiksmingiausiai
-    prisidėti prie švento tikėjimo rėmimo Lietuvoje. Tačiau ka­
-    dangi daugelis pavienių lietuvių iš diduomenės ir paprastų
-    žmonių nekeisią savo senojo gyvenimo būdo, tad, skaitantis
-    su tomis aplinkybėmis, būsią naudinga pirma pasiųsti į Lie­
-    tuvą pasiuntinius, ir pridūrė: Si prefato negocio stante in su­
-    spenso antequam fidem christi suscipiant et baptismum, quemad­
-    modum in litteris pollicentur prelibatis, in Christianos quod absit,
-    aut in res, terras seu personas eorundem manus mitterent virulen­
-    tas, sicut ex certis verisimiliter formidant coniecturis, cum fides fi­
-    dem non servanti minime debeat observari, in ipsos cogentur fidei
-    contumeliam vindicare, atque hoc facientes promissi sui inveniri
-    nolunt circa premissa transgressores [Jei minėtas reikalas atsi­
-    durs ant pražūties slenksčio anksčiau, negu jie Kristaus tikė­
-    jimą ir krikštą priimtų, kurį bent jau iš anksto laiškuose žada,
-    į krikščionis kad nebūtų, arba į reikalus, žemes arba jų pačių
-    asmenis išties nuodingas rankas; tartum tam tikrų, tikėtina,
-    baimintųsi pasekmių; kadangi tikėjimas tikėjimui netarnau­
-    jančiam mažiausiai reikalinga garbinti, pačiuose privalo ti­
-    kėjimo niekinimą įveikti ir šitai darydami dėl savo pažado
-    nenori pažeidėjų atskleisti].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193
-
-- c-221
-  santrauka: 'Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu, o didysis magistras ėmė ruoštis naujam žygiui į Lietuvą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Poloniae factam, et erectionem Antistis
-    118
-
-    ## Puslapis 135
-
-    Il KNYGA
-    Vytautas, kryžiuočių gudrybės nesugniuždytas, tvirtai lai­
-    kydamasis savo sumanymų, išvyko į Žemaitiją, kur paprasti
-    žmonės ir bajorai nuo seno buvo palankūs jo tėvui Kęstučiui
-    ir nusistatę prieš Jogailą dėl jo uolumo užginant senovines
-    jų tikybos apeigas. Vytauto rūpesčiu žemaičiai Karaliaučiuje
-    sudarė sutartį su Ordinu, taigi Vytauto galia vėl sustiprėjo,
-    ir didysis magistras, įsitikinęs, jog lietuvių pajėgos susi­
-    skaldžiusios, ėmė ruoštis į pakartotiną, bet daug reikšmin­
-    gesnį žygį, kurio tikslas jau buvo ne tik apiplėšti Lietuvą,
-    tačiau užimti jos sostinę ir įkurdinti ten Vytautą21. Kai rug­
-    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
-    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
-    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
-    jų esant.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-227
-
-- c-222
-  santrauka: 'Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lenkija
-    atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
-    Elbingą, Marijenburgą ir visą Varmijos vyskupystę. Smarkiai
-    apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per-
-    kėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne
-    tik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų
-    kunigaikštijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-242
-
-- c-223
-  santrauka: 'Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vėliau,
-    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
-    nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
-    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
-    tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
-    vėliau įkūrė Prūsijos valstybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-243
-
-- c-224
-  santrauka: 'Petras Dusburgietis savo knygoje surašė Ordino brolių karus ir ją užbaigė 1326 metais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
-    apreikšti dievo darbus yra šlovinga.
-      Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
-    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
-    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau  į
-    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
-    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
-    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
-    atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-244
-
-- c-225
-  santrauka: 'Dusburgietis teigia, kad apie Celestiną III, popiežių, ir Henriką VI, imperatorių Tuo metu, kai radosi ir gavo pradžią Teutonų namų ordinas, tai yra 1190 viešpaties metais, viešpatavo Celestinas III, popiežius, ir Henrikas VI, imperatorius (Dusb.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ketvirta knygos dalis (Apie įvykius)
-
-
-                 PRASIDEDA KETVIRTA KNYGOS DALIS APIE ĮVYKIUS
-
-
-
-                   1. Apie Celestiną III, popiežių, ir Henriką VI, imperatorių
-
-      Tuo metu, kai radosi ir gavo pradžią Teutonų namų ordinas, tai yra 1190 viešpaties
-    metais, viešpatavo Celestinas III, popiežius, ir Henrikas VI, imperatorius (Dusb. I, 2).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-246
-    - t-045
-
-- c-226
-  santrauka: 'Kol lenkai dar rikiavosi, Kryžiuočių ordino kariuomenė buvo sustatyta į dvi eiles.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas savuosius jau seniai buvo iš­
-    rikiavęs į tris, viena užpakaly kitos, kautynių eiles ir pastatęs
-    juos dešiniame sparne, o lenkus kairiajame. Tuo tarpu, kol
-    dar lenkai tvarkėsi, Ordino kariuomenė buvo sustatyta į dvi
-    eiles. Ordinas galėjo pulti dar nesusitvarkiusius lenkus, bet jis
-    to nedarė, matyti bijojo, kad girioje galėjo būti dar daug pasi­
-    slėpusios kariuomenės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-247
-
-- c-227
-  santrauka: 'Kojelavičiaus vertinimu, Jogailos slaptieji sandėriai su kryžiuočiais buvo morališkai nepateisinami, nors Jogaila nusipelnė lenkų pagarbos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Užleidęs
-    valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes
-    nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa­
-    žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris
-    savo dėdei atsimokėjęs klastingu nužudymu. Nors Jo­
-    gaila nusipelnęs lenkų pagarbos už Krėvos uniją ir
-    27
-
-    ## Puslapis 26
-
-    Lietuvos krikštą, tačiau jo klastingumas, prie kurio
-    priskiriami ir slapti sandėriai su kryžiuočiais, morališ­
-    kai nepateisinami.
-    Kovojant su priešu, klasta gali būti pateisinama,
-    bet ne tarp savųjų, ypač artimų giminaičių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-248
-
-- c-228
-  santrauka: 'Gedimino laikais kryžiuočiai iš pamatų sugriovė Romove vadintą sodybą, vėliau tapusią Krivės Krivaičio būstine.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Plaukdami prieš srovę į krašto gilumą, prie Dubysos
-    žiočių, patogioje vietoje, pakrantėmis išsidriekusioje
-    gražioje lygumoje, padėjo savo naujos sodybos pama­
-    tus. Toji sodyba, tada vadinama R om a n o va , paskui
-    Romnove bei Romove, vėliau tapo vyriausiojo lietuvių
-    žynio Krivės Krivaičio būstine, kurią, Gediminui vieš-
-    pataujaut, iš pamatų išgriovė vokiečių ordino vienuo­
-    liai riteriai, paprastai vadinami kryžiuočiais. Gerokai
-    pasistūmėję tolyn, jie persikėlė per Nevėžio upę ir
-    nusigavo į vietas, kur gyveno alanai, arba lietuviai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-249
-
-- c-229
-  santrauka: 'Mūšyje Livonijos kariuomenė buvo sutriuškinta, žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir 150 ordino riterių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šitoks griežtas atsa­
-    kymas nemokantiems dėl žeminančių sąlygų tvardytis
-    K u ršia i, p a p ra sta i v a -
-    pasipiktinimą. Taigi pasitrau-
-    d in a m i
-    ku ršin in k a is,
-    kę ir atsimetę nuo krikščio-
-    Tada, vienoje pusėje padaugėjus jėgų, kitoje — su­
-    mažėjus, prasidėjo
-    kova: tame mūšyje Livonijos
-    kariuomenė buvo žiauriai sutriuškinta. Žuvo tada
-    pats Livonijos magistras, Prūsijos maršalas Henrikas
-    Botelis ir šimtas penkiasdešimt ordino riterių, papras­
-    tai vadinamų broliais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-250
-
-- c-230
-  santrauka: 'Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pats va­
-    das, praradęs kariuomenę, pateko į priešų rankas. Po
-    šių pergalių iš kryžiuočių buvo atimti Heilsbergo,
-    Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.
-    Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
-    latos siaubė Mindaugo karvedžiai, ten vyko kovos prie
-    Lielvardės pilies Dauguvos pakrantėse, tačiau kokia
-    norėdamas turėti laisvesnes
-    rankas, atnaujino santarvę su rusais, ir tuo būdu tapo
-    užmegzta rusų ir lietuvių
-    vo kunigaikščio vaikaitis, palydėjo Mindaugą į žygį
-    Mazovijos žemėn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-251
-
-- c-231
-  santrauka: 'Po kelių sėkmingų žygių prieš kryžiuočius prūsų padėtis sustiprėjo, nes jiems buvo pasirengę padėti lietuvių ir žemaičių būriai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Be to, jie paėmė nemažą grobį ir
-    Prūsijoje, tačiau prūsų padėtis po kelių sėkmingų žy­
-    gių prieš kryžiuočius gerokai sustiprėjo: jie menkai pa­
-    juto nuostolius, juo labiau kad sunkesnių plėšikiškų
-    antpuolių atveju čia pat stovėjo pasirengę padėti lie­
-    tuvių ir žemaičių būriai. Atrodė, jog kryžiuočiams šį
-    5*
-    131
-
-    ## Puslapis 130
-
-    1274 m eta i
-    Ž em a ičia i gina p r ū ­
-    sus ir m u ša  k r y ž iu o ­
-    čius
-    karą pavyks užbaigti tada, kai sutrauks iš karto visas
-    jėgas ir neleis priešui kokiu nors būdu pasinaudoti sve­
-    tima pagalba. Tuo metu kryžiuočių riterių magistras
-    buvo Henrikas: jis pirmiausia atnaujino santarvę su
-    Germantu, reikalaudamas, kad šis prisiektų, jog lietu­
-    viai bei žemaičiai nesikiš j prūsų karą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-252
-
-- c-232
-  santrauka: 'Sūduvos prūsai ir žemaičiai prie Liubavos neišdrįso stoti į atvirą mūšį su kryžiuočiais ir pabėgo, palikę stovyklą bei gurguoles.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Dėl tos pačios
-    priežasties valdovas neleido viešai teikti prūsams ko­
-    kios pagalbos prieš kryžiuo­
-    čius, tačiau nieko negalėjo
-    padaryti, kad slapta į Prūsi­
-    ją nežygiuotų Žemaitijoje su­
-    telkta kariuomenė, remiama
-    atskirų asmenų, tiesa, pavie­
-    niais būriais, be kovos ženklų. Nusiaubę Kulmo kraš­
-    tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa­
-    galbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi­
-    somis jėgomis ėmus juos pulti, neišdrįso atvirai pra­
-    dėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir
-    gurguoles, išsislapstė artimiausiuose miškuose. Kry­
-    žiuočių riteriai, džiaugdamie­
-    si nekruvina pergale, tuojau
-    pat be jokios tvarkos išsi­
-    sklaidė grobio ieškoti ir sto­
-    vyklos plėšti; jie puolė, ne­
-    pasirūpinę saugumu, vytis paskutiniųjų priešo būrių
-    ir apskritai elgėsi, nelyginant bet koks pavojus būtų
-    praėjęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-253
-
-- c-233
-  santrauka: 'Atvirame lauke lietuviai laimėjo kautynes su kryžiuočiais, o mūšyje žuvo ordino magistras Burchardas Aremas ir trisdešimt riterių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
-    D o b iy n ą , ž u d o  k i y -
-    nių ir plėšimo, žuvo liepsno-
-    devynis tūkstančius belaisvių. Su kryžiuočiais kautasi
-    atvirame lauke: mūšyje krito ordino magistras Bur-
-    chardas Aremas su trisdešimčia to ordino riterių, o
-    lietuviai laimėjo kautynes. Vėliau, sužinojus, jog len­
-    kai ketina smarkiai užpulti lietuvius, paliauta rengti
-    žygius į kaimynų šalis ir pradėta laukti karo; lietuviai
-    nenorėjo, vienur išžygiavę, susilaukti audros iš kitos
-    pusės, jie būgštavo, kad, išsklaidę ir nuvarginę karius,
-    1297 m e ta i
-    L ietu via i
-    siaubia
-    ėję iš kaimų į bažnyčias,
-    miestą pavyko užimti staigiu
-    antpuoliu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-254
-
-- c-234
-  santrauka: 'Karaliaučiaus komtūras Bertoldas Briuhavenas su Prūsijos kryžiuočių daliniu Livonijoje sumušė apgulties išsekintus lietuvius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Toje stovykloje kartu su ry-
-    giečiais buvo keturi tūkstančiai karių, kurie ryžtingai
-    spaudė apgultuosius. Sėkmingai užbaigti kovos nedavė
-    Bertoldas Briuhavenas, Karaliaučiaus komtūras, pasiųs­
-    tas pagalbon į Livoniją su Prūsijos kryžiuočių daliniu:
-    užpuolęs su nepavargusia kariuomene sunkios apgul-
-    ties išsekintus lietuvius, nugalėjo juos ir išvaikė; dau­
-    gybė žuvo, daugybė nuskendo upėje, per kurią bėg­
-    dami turėjo keltis. Šiek tiek vėliau Vytenis, gal bijo­
-    damas, kad po jo pergalės pablogėjusi Livonijos ordino
-    padėtis, Prūsijos kryžiuočiams suteikus pagalbą ko­
-    voje prieš Rygą, nesustiprėtų, gal norėdamas gandais
-    apie vidaus sąmyšius atgrasinti Prūsijos kryžiuočius
-    nuo karo Livonijoje, o gai trokšdamas atsiteisti už pra­
-    laimėjimą, kurį patyrė prie Nojermiuieno sumušta jo
-    kariauna,
-    pasiuntė
-    keletą
-    P rū sija
-    n io k o ja m a
-    lengvosios raitijos būrių į
-    lie tu v ių
-    Prūsiją
-    pasiieškoti
-    grobio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-255
-
-- c-235
-  santrauka: 'Kryžiuočiai prie Veliuonos pastatė įtvirtinimus, įkurdino juose stiprias įgulas ir mėgino badu priversti pilėnus pasiduoti.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Sugrįžo jis lydimas naujų kariaunų, kurias
-    iš Bavarijos buvo atvedęs kunigaikštis Henrikas, vis
-    dėlto, ankstesnio pralaimėjimo pamokytas, neišdrįso
-    stoti į atvirą kovą ir pulti. Skubotai iš abiejų pilies pu­
-    sių pastatę įtvirtinimus ir įkurdinę juose stiprias įgu­
-    las, kryžiuočiai, patys nelyginant ilsėdamiesi, pradėjo
-    kamuoti pilėnus apsuptimi: neleisdami atsivežti mais­
-    to, vylėsi badu priversiu pasiduoti. Tuo tarpu Gedimi­
-    nas, norėdamas padėti apsuptai Veliuonai, su didelėmis
-    jėgomis užpuolė Fridburgą ir Bajerburgą; jis laikė šias
-    pilis apsuptas ištisas dvidešimt dienų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-256
-
-- c-236
-  santrauka: 'Kryžiuočiai, negalėdami sustabdyti niokojimo nei klasta, nei jėga, ryžosi prašyti paliaubų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Visos žemės tarp Karaliaučiaus, Baltijos įlan­
-    kos, Elbingo, Marienburgo, Elsbergo, visa Semba, No-
-    tanga, Varmė ir dalis Pamedės degė nelyginant vienas
-    laužas, virsdamos pelenais ir dūmais. Kryžiuočiai iš pi­
-    lių stebėjo ugnimi siaubiamas apygardas; negalėdami
-    nei klasta, nei jėga nukreipti šios audros į šalį, jie ry­
-    žosi galop pristabdyti ją, prašydami paliaubų. Lietuviai
-    grąžinta Žemaitijos dalis, užimta kryžiuočių, ir lietu­
-    viams perleistos netoli Veliuonos šių jau atstatytos pi­
-    lys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-257
-
-- c-237
-  santrauka: 'Po ilgos Kauno pilies apsiausties kryžiuočiai pasikasė po sienomis, padegė pastatus ir palaužę gynėjų pasipriešinimą užėmė pilį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Galop po ilgos apsiaus­
-    ties didįjį šeštadienį, pasikasę po sienomis ir svaido­
-    ma ugnimi padegę pastatus,
-    K ry žiu o č ia i u žim a ir
-    kryžiuočiai palaužė atkaklų
-    išg ria u n a  K au n ą
-    gynėjų priešinimąsi ir už­
-    ėmė pilį. Nemaža jų žuvo,
-    kai, veržiantis prie įtvirtinimų, juos užgriuvo pakasta
-    gynybinė siena, tačiau kur kas daugiau nuostolių pa­
-    tyrė lietuviai. Pilies įgulą sudarė trys tūkstančiai rink­
-    tinių karių, apie kurių graudžią mirtį degančios pilies
-    liepsnose paprasti žmonės dar ir dabar tebegieda rau­
-    das. Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­
-    tučio sūnumi, gyvi pakliuvo į nelaisvę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-258
-
-- c-238
-  santrauka: 'Po Kauno pilies užėmimo kryžiuočiai trečią dieną sugriovė išlikusius įrenginius, išvertė sienų likučius, nukasė pylimus ir išlygino griovius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­
-    tučio sūnumi, gyvi pakliuvo į nelaisvę. Pagerbdami
-    didelę šventę,, kitą dieną kryžiuočiai praleido ramiai,
-    tačiau trečią dieną iki pat pamatų sugriovė kur ne
-    kur tarp sudegintos pilies išlikusius gynybinius įren­
-    ginius: išvertė sienų likučius, nukasė pylimus, išlygino
-    griovius. Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­
-    nos pilis: pirmąją išsigandę gynėjai atidavė be kovos,
-    antrąją paėmė po keturias dienas užtrukusios apgul-
-    ties.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-259
-
-- c-239
-  santrauka: 'Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama nusiaubė Lietuvą, sunaikindamas Ariogalos, Pernaravos ir Labūnavos žemes.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
-    desnė nelaimė — badas, siau-
-    B adas L ie tu v o je
-    binga našta užgulęs visą Lie­
-    tuvą, galimas daiktas, dėl to,
-    kad tais metais apskritai visur buvo blogas oras, net­
-    gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­
-    latinių priešo antpuolių iš baimės niekas nebedirbo
-    žemės ar iš viso nebuvo kam ją dirbti. Neatnešė ato­
-    kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
-    paramos iš Bavarijos grafo Volfgango ir Livonijos
-    kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
-    Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti­
-    joje tapo visai sunaikintos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-260
-
-- c-240
-  santrauka: 'Vytautas užėmė Ritersverderį, įsakė išžudyti nelaisvėn patekusius vokiečių pirklius bei karius, o žymesnius kryžiuočius išsivedė su savimi.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nutaikęs progą, nuskubėjo į Marienbur­
-    gą, jam priklausomą pilį, ir netikėtai užpuolė gretimąjį
-    Ritersverderį. Palaužęs menką nepasirengusių kovai
-    gynėjų pasipriešinimą, užėmė tvirtovę, visus nelaisvėn
-    328
-
-    ## Puslapis 327
-
-    pakliuvusius vokiečių pirklius bei karius įsakė išžudyti,
-    o kūnus sumesti į čia pat tekantį Nemuną; žymiuosius
-    kryžiuočius išsivedė su savi-
-    U žp u o la ir sugriauna
-    mi. Bematant pasklidęs gan-
-    k ry žiu o č ių  pilis
-    das apie šį susidorojimą pas­
-    katino gretimų tvirtovių vir­
-    šininkus griebtis ginklo; nebijodami nedidelio Vytauto
-    būrio, o gal tikėdamiesi atsiimti grobį, jie skubiai pa­
-    siuntė raitelių būrį ir pradėjo drąsiai vytis Vytautą,
-    traukiantį toliau į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-261
-
-- c-241
-  santrauka: 'Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotos Lietuvos daliai palengvinti.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Norėdamas palengvinti nuniokotos tėvynės dalią,
-    Jogaila įsakė pakrauti visokiais grūdais dvidešimt di­
-    delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa­
-    sienį, o iš ten pasieniu vežimais nugabenti viską į Lie­
-    tuvą. Užgrobę visus grūdus,
-    J ie  su daro k elia s pro-
-    gabenamus Vysla, kryžiuočiai
-    gas karu i
-    juos išsivežė kitur. Kai kara­
-    lius, pasiuntęs žygūną, parei­
-    kalavo nelaužyti susitarimo ir nedaryti skriaudų, šie
-    atrėžė, jog elgtasi jų teisingai ir teisėtai, nes atėmė
-    tai, ką karalius siuntė stabmeldžių tautai, kovojančiai
-    prieš krikščionis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-262
-
-- c-242
-  santrauka: 'Kryžiuočiai Ragainėje užpuolė pagal sutartį ramiai gyvenusius lietuvių pirklius, vienus nužudė, o iš kitų atėmė visą turtą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mat nors jie gerai žinojo, jog lietu­
-    vių tauta su savo didikais daugiau kaip prieš dvidešimt
-    metų priėmė krikščionybę, tačiau po senovei juos va­
-    dino stabmeldžiais, tariamu dievobaimingumu mulkin­
-    dami krikščioniškųjų šalių valdovus (ir net pačius Ro­
-    mos popiežius), dėl kurių paramos ar nuolaidžiavimo
-    ir galėjo tose žemėse kariauti. Kadangi karalius nesi­
-    ėmė jokių skubių priemonių atsiteisti už šiuos darbus,
-    nenorėdamas elgtis neapgalvotai, kryžiuočiai, tarytum
-    negalėdami pakęsti beveik ištisus metus trunkančios
-    ramybės ir to, kad dėl karaliaus nuolaidumo nuolatos
-    atidėliojamas karas, užpuolė Prūsijoje, Ragainėje, lie­
-    tuvių pirklius, kurie čia pagal sutartį ramiai gyveno;
-    vienus nužudė, o iš kitų atėmė visą turtą. Vytautas,
-    gavęs apie tai žinią, nutarė užbėgti priešui už akių
-    gal dėl to, kad iš prigimties buvo smarkesnio būdo, o
-    gal todėl, kad, žinodamas tikrą padėtį, nieku būdu ne­
-    sitikėjo iš kryžiuočių taikos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-263
-
-- c-243
-  santrauka: '1409 m. kryžiuočių žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, grasindamas paskelbti Lietuvai karą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nenorėdami, kad atrody-
-    1409 m e ta i
-    tų, jog jie, susiradę kliautį,
-    K r y ž iu o č ia i
-    sk e lb ia
-    pirmieji pradėjo karą, pasiun-
-    k a rą
-    tė žygūną pas karalių. Žygū­
-    nas, papasakojęs, kas Vytau­
-    to valia atsitiko Žemaitijoje, pareiškė ordino vardu,
-    kad jie nepaliks neatkeršiję už šį išpuolį, todėl, jeigu
-    kuo greičiausiai jiems neatlygins nuostolių ir neatiduos
-    Žemaitijos, atvirai paskelbsią Lietuvai karą. Galop jis
-    pareikalavo, kad karalius atvirai išreikštų savo nuomo­
-    nę ir pasakytų, ar ryžtasi ginti Vytautą, ar, jo neužtar­
-    damas, saugoti neseniai su kryžiuočiais sudarytą taiką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-264
-
-- c-244
-  santrauka: 'Seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius, kad šis skatintų magistrą draugiškai baigti ginčą su Vytautu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys­
-    kupą, pas kryžiuočius, įpareigodamas, negailint pastan­
-    gų, visokiais būdais skatinti magistrą draugiškai už­
-    baigti ginčą su Vytautu. Arkivyskupas ryžtingai ėmėsi
-    jam patikėto uždavinio, tačiau, ką bedarydamas ir ką
-    besakydamas, negalėjo iš magistro išgauti kitokio at­
-    sakymo, nei tas, kad jo žmonės, pakėlę ginklą, jau
-    traukia į Lietuvą. Atmetančio bet kokį taikingą reika­
-    lo sprendimą žmogaus atkarus išdidumas supykdė ar­
-    kivyskupą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-265
-
-- c-245
-  santrauka: '1418 m. Veliuonos susitikimas nedavė naudos, nes kryžiuočiai atmetė taikos sąlygas ir reikalavo visos Žemaitijos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nus­
-    prendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai
-    pasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą,
-    ąr susiderėti dėl amžinos taikos. Kadangi kryžiuočiai
-    atmetė vieną po kitos visas
-    1418 m e ta i
-    siūlomas taikos sąlygas, pasi-
-    S u sitik im a s d ė l tai-
-    pūtėliškai reikalaudami visos
-    k o s  a tn eša  k a rą
-    Žemaitijos, susitikimas neat­
-    nešė jokios naudos, ir netru­
-    kus kryžiuočiai iš pasalų pradėjo atvirą karą. Pasibai­
-    gus susitikimui, karalius kurį laiką pasiliko Veliuono­
-    je, norėdamas pailsėti, nes netoliese buvo vietų, tinka­
-    mų medžioklei ir poilsiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-266
-
-- c-246
-  santrauka: 'Medžiodamas prie Veliuonos karalius vos nepakliuvo į kryžiuočių pasalą, kurią surengė Rastenburgo komtūras.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pasibai­
-    gus susitikimui, karalius kurį laiką pasiliko Veliuono­
-    je, norėdamas pailsėti, nes netoliese buvo vietų, tinka­
-    mų medžioklei ir poilsiui. Medžiodamas jis pats kartą
-    vos nepakliuvo į kryžiuočių
-    K araliu s
-    išv e n g ia
-    rankas, tik narsi jo palyda
-    k ry ž iu o č ių  pasalų
-    vargais
-    negalais
-    išgelbėjo
-    valdovą nuo pasalų, kurias
-    surengė Rastenburgo komtūras vienoje tam reikalui
-    tinkamoje vietoje. Po to ir viena, ir kita šalis puldinėjo
-    ir siaubė viską, kas pakliuvo po ranka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-267
-
-- c-247
   santrauka: 'Jogaila ir Vytautas, įsiveržę į Prūsiją su lenkų ir lietuvių kariuomenėmis, siekė pergalingai užbaigti ilgą karą su kryžiuočiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Lenkų ir lietuvių kariuo-
-    Prūsija
-    menės, peržengusios sienas,
-    netruko įsiveržti į šį kraštą;
-    visi, o ypač valdovai Jogaila bei Vytautas, ketino ne­
-    gailint jėgų pergalingai užbaigti ilgą ir sunkų karą,
-    trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams
-    liktų arba ramūs bei klusnūs, arba draugiški. Tuo tarpu
-    kryžiuočiai, taikos metu be galo aikštingi ir per daug
-    savimi pasitikintys, bemat suvokė esą nepasirengę ka­
-    rui, todėl pareiškė norį susitarti, nors jie ne tiek troško
-    taikos, kiek bijojo pralaimėjimo. Kadangi daliniai jau
-    veržėsi į priekį, degdami noru atkeršyti už skriaudas,
-    jie pasitelkė popiežiaus legato, Milano arkivyskupo
-    Baltramiejaus Kapros, autori-
-    Baigiamas popiežiaus
-    tetą.
+    Pataikūniškai aiškindamas įstatymus
+    pagal valdovo norus, jis pareiškė, jog santuoka būsian­
+    ti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-
+    3 9 6
+
+    mos bažnyčia. Pasibaigus vestuvių iškilmėms, valdovai
+    iš visų jėgų įniko rengtis karui su kryžiuočiais. Vytau­
+    tas, gal dėl senų nuoskaudų
+    Vytautas įkalina Švit-
+    nepasitikėdamas
+    Švitrigaila,
+    iigailą
+    gal įtarinėdamas jį dėl kokių
+    naujų gandų, būgštavo, kad,
+    kariuomenei patraukus į Prūsiją, namie gali kilti kokie
+    neramumai, todėl liepė šį suimti ir įkalinti Kremeneco
+    kalėjime. Jį netrukus paleido rusų sąmokslininkai, nu­
+    žudę sargybos viršininką Konradą Frankenbergą. Atsi­
+    dūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig­
+    mantą, vėliau, tarpininkaujant imperatoriui bei karaliui
+    Jogailai, vargais negalais susitaikė su Vytautu.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-268
+    - t-464
 
-- c-248
-  santrauka: 'Torunės komtūras, kryžiuočių pasiųstas pas Boleslovą, kurstė brolių nesantaiką ir skatino Švitrigailą nesibaiminti karo su lenkais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+- c-228
+  santrauka: 'Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis Birutę pažino grįždamas iš žygio prieš kryžiuočius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Išpuikęs ir pasipūtęs, jis įstengė su­
-    vokti tik betarpišką grėsmę, nei matydamas, nei paisy­
-    damas būsimų ir neaiškių pavojų. Karaliaus sumanymus
-    sugriauti padėjo ir Torunės komtūras, kryžiuočių pa­
-    siųstas pas Boleslovą: jis iš paskutiniųjų kurstė tarp
-    brolių nesantaiką, be galo naudingą jo ordinui, ir, paža­
-    dėjęs rimtą pagalbą, skatino Švitrigailą nesibaiminti
-    karo su lenkais. Netekęs bet kokios vilties pasiekti tai­
-    kos, Jogaila, suvokęs, jog net kraujo giminystė nelei­
-    džia taikstytis su šitokiomis skriaudomis, griebėsi kitų
-    priemonių, norėdamas galop sutramdyti Boleslovą ir
-    nubausti savo karališkųjų tei-
-    K a ra liu s tariasi, k a ip
-    šių pažeidėją.
+    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-269
+    - t-434
+    - t-280
 
-- c-249
-  santrauka: 'Torunės komtūras Liudvikas su trimis kryžiuočių riteriais gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tada Žygimantas pagal senus papročius
-    buvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­
-    keltas į sostą, į dešinę jam įteikiant apnuogintą ka­
-    laviją, kurį buvo atsiuntęs karalius. Dėl šių iškilmių
-    didžiai susikrimto Liudvikas, Toninės komtūras, kuris
-    su trimis savo draugais, kryžiuočių ordino riteriais, gy­
-    veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš
-    tikrųjų uoliai eidamas žvalgo pareigas. Jis visaip sten­
-    gėsi iššniukštinėti, kas aptariama slaptuose senato po­
-    sėdžiuose, viliojo valdovą bei didikus, žadėdamas kry­
-    žiuočių palankumą, ir ėmėsi visų kitų priemonių, ku­
-    rios, jo galva, priverstų Žy­
-    gimantą netesėti, ką žadėjo
-    lenkams, ir, ko gero, niekais
-    paverstų visus susitarimus ir
-    pačią uniją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-270
-
-- c-250
-  santrauka: 'Karalius paprašė atidėti svarstymą, teigdamas, kad svarbiam reikalui aptarti reikia laiko, kurio trūksta dėl karo su kryžiuočiais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Karalius, g erai žinodamas, kiek rū­
-    pesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,
-    nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko
-    gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­
-    rai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­
-    sakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
-    sumanymus, g an a tolim us jų reikalavimams. P areiškęs,
-    k ad  tokiam  sv arb iam  re ik a lu i a p ta rti bei d eram ai jį
-    išn ag rin ėti re ik ia laiko, o jo  d a b a r trū k sta  d ėl k a r o s u
-    kryžiuočiais,
-    jis p ap rašė viską atidėti. Šiuo būdu iš­
-    vengęs k ai k u rių  v ald in g ų  v y rų  jam  p asp ę stų  pinklių,
-    jis p a tra u k ė  į P rūsiją, tačiau , g av ęs žinią ap ie motinos
-    mirtį, sugrįžo iš to  žygio ir K aune p ra le id o  rudenį, ta r­
-    pais sielvartą ramindamas m edžioklėm is, tarpais lanky­
-    damas L ietu v o je sk itų  būrius, atsių stu s p ad ė ti k o v o ti
-    prieš kryžiuočius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-271
-
-- c-251
-  santrauka: 'Liuterio sektai paplitus Prūsijoje, kryžiuočių ordino pareigūnai laužė įžadus, atsisakė Romos tikėjimo ir pradėjo tuoktis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Susitarė dėl ketverių
-    metų paliaubų, o per tą lai-
-    1521 m e ta i
-    ką
-    ramiomis
-    aplinkybėmis
-    turėjo būti parengtos sąly­
-    gos amžinai taikai. Tuo metu Liuterio sekta, paplitusi
-    Vokietijoje, rado galybę pasekėjų Prūsijoje, o kry­
-    žiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius,
-    jau taip buvo ištižęs ir suiręs, kad aukščiausi ir že­
-    miausi pareigūnai, nieko ne-
-    K ry žiu o č ių
-    p a d ė tis
-    paisydami, laužė dievui duo-
-    P rū sijo je
-    tus įžadus ir, išsižadėję se­
-    nolių išpažinto Romos tikė­
-    jimo, puolė šventvagiškai tuoktis. Dėl to visi pradėjo
-    atvirai niekinti senuosius magistrų, maršalų, komtūrų
-    titulus ir galvoti apie valstybinės santvarkos pakei­
-    timą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-272
-
-- c-252
-  santrauka: 'Narimantas Glėbas 1348 m. vasario 2 d. žuvo mūšyje su Kryžiuočių ordinu ties Strėva.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    • Narimantas Glėbas — antrasis Gedimino sūnus. Pinsko bei Tu-
-    rovo kunigaikštystes prie Pripetės Narimantas, veikiausiai, gavo
-    Gedimino valdymo pabaigoje, po 1330 m. Žuvo 1348.11.2 mūšyje
-    su kryžiuočiais ties Strėva.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-273
-
-- c-253
-  santrauka: '1380 m. Jogaila sudarė dvi sutartis su kryžiuočiais: paliaubas su Livonijos ordinu ir Dovydiškių sutartį su Prūsijos kryžiuočiais.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    4 4  Tuo m etu Jogaila sudarė su kryžiuočiais dvi sutartis. Pir­
-    m ąja 1380.11.27 buvo sudarytos paliaubos su Livonijos ordinu: Li­
-    vonijos ordinas Įsipareigojo nepulti Jogailos valdomų žemių bei
-    Plocko kunigaikštystės, bet Žemaitijos ir kilų, Kęstučio valdomi)
-    žemių tai nelietė. A ntrąja sutartimi, sudaryta I380.V.31 Dovytllš-
-    kėse (apie Gardiną) su Prūsijos kryžiuočių magistro Vinricho Knip-
-    rodės atstovais. Jogaila pasižadėjo neribotam laikui laikytis taikos
-    su Prūsija ir Livonija ir neteikti pagalbos Kęstučiui ir jo sūnums,
-    jeigu jie būtų kryžiuočių puolami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-274
-
-- c-254
-  santrauka: 'Kryžiuočiai 1411 m. Torūnės taika atsisakė Žemaitijos tik iki Jogailos ir Vytauto mirties, o galutinai jos atsisakė 1422 m. Melno taika.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    * Kryžiuočiai atsisakė nuo Žemaitijos 1411 m. Toninės taikos
-    sutartimi, bet tik ligi Jogailos ir Vytauto mirties. Galutinai ir vi­
-    siems laikams atsisakė pagal 1422.1X.27 talkos sutartį, sudarytą
-    prie Melno ežero.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-275
-
-- c-255
-  santrauka: 'XIV a. pradžioje kryžiuočiai apgulė Veliuonos pilį, o negalėdami jos paimti priešais pastatė Fridburgą ir Bajerburgą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kaip tik ten buvo minima Velionos šventykla. XIV am­
-    žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-
-    burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
-    lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
-    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
-    kiu šaunamuoju ginklu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-276
-
-- c-256
-  santrauka: '1364 m. kryžiuočiai sudegino Veliuoną ir sugriovė jos pilį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vis dėlto 1364 metais kryžiuočiai sudegino
-    Veliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­
-    gė pilį iš naujo atstatyti ir sustiprinti. Atnaujino ir šventyklą,
-    kuri gyvavo iki 1406 metų, kada kryžiuočiai antrą kartą paė­
-    mė pilį ir perstatė į krikščionių bažnyčią.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-277
-
-- c-257
-  santrauka: 'Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis Birutę pažino grįždamas iš žygio prieš kryžiuočius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Duomenų apie tai mums
-    paliko Strijkovskis.
-    Birutė (Biruta)
-    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
-    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
-    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-278
-
-- c-258
+- c-229
   santrauka: '1247 m. kryžiuočiai jau valdė Pamedę, bet dėl kovų neturėjo pakankamai laiko jos vidaus sutvarkymui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -10706,52 +5212,57 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-279
+    - t-516
 
-- c-259
+- c-230
   santrauka: 'Hartknocho pastaba Narbutas sieja Senosios Torunės įkūrimą su vieta, kurią kryžiuočiai paėmė įžengdami į Prūsus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Tai buvo 1258 metais“ .
-    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
-    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
-    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
-    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
-    toje vietoje įkūrė Senąją Torunę.
+    Anksčiau, kai tas medis žaliavo ir turėjo žievę, jis
+    prie žemės buvo dvidešimt septynių uolekčių apimties (vadi­
+    nasi, skersmuo buvo beveik devynios uolektys!); paliudyti tai
+    ir išduoti matų pažymėjimą gali gerbiamoji Vėluvos miesto
+    taryba; aš pats turiu šito įrodym iĮ su tos tarybos antspaudu.
+    Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
+    jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
+    išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
   citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-280
+    - t-424
 
-- c-260
+- c-231
   santrauka: 'Narbutas mano, kad vyriausiųjų žynių sąrašas autentiškas, nes Prūsijos istorikai galėjo jį perimti iš Kryžiuočių ordino užrašų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Austomo
-    285
-
-    ## Puslapis 285
-
-    do, kad egzistavo senoviniai sąrašai, kuriuos visi metraštininkai
-    aiškino nevienodai, nes kiekvienas savaip juos suprato arba tu­
-    rėjo nevienodus egzempliorius*.
-    Esame įsitikinę, kad šis vyriausiųjų žynių sąrašas yra au­
-    tentiškas, nes senieji Prūsijos istorikai turėjo jį turėti iš Kry­
-    žiuočių ordino užrašų; jie išlaikė atminimą apie tai, radę žinių
-    rašytiniuose krašto paminkluose. Pagaliau tikri lietuviški var­
-    dai, ypač toks jų skaičius, ne taip lengvai galėtų būti išgalvoti.
+    Paga­
+    liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
+    žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
+    pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
+    ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
+    ir garantuotų sau politinę ramybę. Bet tie įkalbinėjimai neda­
+    vė jokio rezultato: žmonės pasipiktino vyriausiuoju žyniu ir
+    net ėmė grasinti jį nužudysiu. Tasai senelis ir toliau nematė
+    būdo, kaip prisidėti prie savo tautiečių gerovės; ėmė galvoti
+    apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­
+    kietėjusių savo savasties gynėjų - žynių ir liaudies, pabėgo pas
+    kryžiuočius. Jo asmuo, išvaizda, amžius sukėlė jų ypatingą pa­
+    garbą, tad, užuot nubaudę mirtimi pagal seniai jam paskelbtą
+    nuosprendį, maloniai jį priėmė, iškilmingai pakrikštijo ir su
+    nuostaba klausėsi jo kalbos.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-383
     - t-281
 
-- c-261
+- c-232
   santrauka: 'Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas 1265 m. pabėgo pas kryžiuočius ir buvo pakrikštytas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -10769,7 +5280,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     net ėmė grasinti jį nužudysiu. Tasai senelis ir toliau nematė
     būdo, kaip prisidėti prie savo tautiečių gerovės; ėmė galvoti
     apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­
-    kietėjusių savo savasties gynėjų -  žynių ir liaudies, pabėgo pas
+    kietėjusių savo savasties gynėjų - žynių ir liaudies, pabėgo pas
     kryžiuočius. Jo asmuo, išvaizda, amžius sukėlė jų ypatingą pa­
     garbą, tad, užuot nubaudę mirtimi pagal seniai jam paskelbtą
     nuosprendį, maloniai jį priėmė, iškilmingai pakrikštijo ir su
@@ -10780,52 +5291,54 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-282
+    - t-379
 
-- c-262
+- c-233
   santrauka: 'Narbutas mini Hartknocho abejonę, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
-    ligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­
-    rinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo
-    daryti alų iki atsikraustant kryžiuočiams. Paneigimui pakanka
-    pasakyti, kad B lefo tikrai nepažino, bet savo alų darė labai
-    senu papročiu4.
+    Aukos
+    Visų tautų aukos buvo kažkokios vienodos - rėmėsi pir­
+    mykščio pasaulio papročiu, kurio Nojus laikėsi po Tvano. Šiuo
+    požiūriu lietuviai niekuo nesiskyrė nuo graikų ir romėnų, ne­
+    bent tik buvo kai kurių skirtumų, kilusių dėl vietos aplinkybių
+    ir nevienodo apšvietos laipsnio,. Buvo aukų, kurias atnašau­
+    jant, moterims buvo draudžiama dalyvauti. Buvo ir tokių, kur
+    ne bet kurį vyrą įleisdavo, ir jos vykdavo slapta*.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-283
+    - t-305
 
-- c-263
+- c-234
   santrauka: 'Narbutas vertina, kad Kryžiuočių ordino kunigui kronikininkui buvo paranku lyginti krivį su popiežiumi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Kad tai paprasta
-    kronikininko spėlionė, yra tokia pat tiesa, kaip tai, kad nėra
-    abejonės, jog nei prūsai savo Romonės nepavadino nusižiūrė­
-    ję į Romos pavadinimą, nei savo krivio nelygino su popiežiu­
-    mi. Tačiau kronikininkui, ypač Kryžiuočių ordino kunigui, toks
-    palyginimas buvo parankus. Romovę kildinti iš Romos pakan-
-    412
-
-    ## Puslapis 412
-
-    karnai greiti ir mūsų laikų etimologijų mėgėjai, o jei jau pri­
-    ėjome prie Romos, tai ar reikia stebėtis, kad popiežiaus vie­
-    nuolis, vaizduodamasis krivį, atrado jame savo popiežių.
+    Todėl
+    jis rašo: Describam quo modo fratres intraverunt in terram Prus-
+    chiae, - de bellis et aliis, quae gesta sunt in dicta terra, quorum
+    pauca quae vidi, alia quae audivi ab his, qui viderunt et interfu­
+    erunt, caetera quae relatione veridica intellexi (Aprašysiu, ko­
+    kiu būdu broliai įžengė į Prūsijos žemę, karus ir kitką, kas įvy­
+    ko šioje žemėje, apie tuos, kuriuos pats esu matęs, pakalbėsiu
+    ir apie tuos, apie kuriuos pasakojo juos matę ir juose dalyvavę
+    žmonės, pagaliau apie tuos, apie kuriuos sužinojau iš patiki­
+    mų šaltinių). Ar kas nors atviriau pasakytų apie savo šaltinius?
+    Arba pats matė savo akimis, arba sužinojo iš tikrų liudytojų ir
+    dalyvių, arba, rašydamas pagal tikras žinias, Dusburgietis ga­
+    lėjo ir turėjo kalbėti tiesą.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-284
+    - t-335
 
-- c-264
+- c-235
   santrauka: 'Narbutas pabrėžia, kad Dusburgietis 1326 m. įteikė kroniką didžiajam magistrui praėjus maždaug šimtmečiui nuo kryžiuočių atsikraustymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -10848,9 +5361,9 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-285
+    - t-561
 
-- c-265
+- c-236
   santrauka: 'Narbutas primena, kad Livonijos kryžiuočiai kariavo su krivičiais, o Livonijos broliai lankydavosi Karaliaučiuje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -10874,290 +5387,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-286
-
-- c-266
-  santrauka: 'Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš tos seno­
-    viškos būties jau daug buvo sunaikinta ir išstumta, kai atsira­
-    do sutartis tarp prūsų tautos ir kryžiuočių. Kai tik ordinas už­
-    kariaudavo kurią sritį, kartu joje nelikdavo nei krivių, nei ri­
-    kių. Jų viešpatystė baigdavosi akimirksniu, kai tik prasidėda­
-    vo ordino valdžia ir kai ji būdavo čiabuvių priimama.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-287
-
-- c-267
-  santrauka: 'Narbutas Simoną Grunau vadina seniausiu žinomu šaltiniu ir pabrėžia, kad jis ne visuomet pagarbiai rašė apie kryžiuočius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    1.
-    Seniausias žinomas šito šaltinis yra Simonas Grunau,
-    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
-    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
-    šantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug
-    užsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais
-    nekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­
-    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
-    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
-    11 Sirvydo žodynas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-288
-
-- c-268
-  santrauka: 'Teodoras Narbutas rašė, kad kryžiuočiai beveik iškapojo laisvę gynusius Sūduvos gyventojus, o likusius perkėlė į Sambiją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Gyventojai aistringai gynė savo lais­
-    vę, dažnai maištavo; kryžiuočiai iškapojo beveik visus, o
-    likusius, sugautus giriose, perkėlė į Sambiją. Taip pat
-    daug sudinų persikėlė ir į Lietuvą. Sūduva turėjo gana
-    daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
-    giausia buvusių savarankiškų valdovų. Kryžiuočiams val­
-    dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
-    apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
-    vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
-    Raigardo2 3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-289
-
-- c-269
-  santrauka: 'Teodoro Narbuto teigimu, prieš prūsų tautos žlugimą Salavijoje apsigyveno daugiausia iš Lietuvos atsikėlę kryžiuočių žmonės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pavadinimas kilęs iš lietuviško
-    žodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­
-    tinčia žeme. Salavija nebuvo tikra prūsų lygos provincija,
-    nes jai priklausė Rusia. Tačiau, kai joje dar prieš bendrą
-    prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi­
-    gyveno kryžiuočių, daugiausia iš Lietuvos atsikėlusių
-    žmonių, dėl to ją ligi šiol vadina prūsų Lietuva.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-290
-
-- c-270
-  santrauka: 'Teodoro Narbuto aiškinimu, Henenbergerio užraše minima Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais, vėliava.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Be to, pas Henenbergerj
-    yra užrašas senovės lietuvių kalba (apie naują šio užrašo aiški­
-    nimą, padarytą pono Tado Volianskio, bus kalbama šio veikalo
-    trečiame tome). Tinkamai perskaičius, paaiškėja, jog tai buvo
-    Lietuvos kunigaikščio Utenio, kuris padėjo prūsams kovoti su
-    kryžiuočiais ir kuris buvo pramintas Zupanu, vėliava. Čia gi pa­
-    teikėme iliustraciją, padarytą pagal piešinį, gautą iš Zaluskių bib­
-    liotekos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-291
-
-- c-271
-  santrauka: 'Popiežiui stojus už Gediminą ir už Lietuvą, imperatorius tyčia palaikė ordiną.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Popiežiui stojus už Gediminą ir už Lietuvą, imperatorius
-    tyčia palaikė ordiną. Gediminas taip pat buvo pirmasis, kuris
-    prieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie
-    Lietuvos didžiulius rusų ir ukrainiečių žemių plotus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-292
-
-- c-272
-  santrauka: 'Gedimino ir Algirdo laikais giliai Lietuvoje Nemuno pakrantėmis kyšojusios vokiečių ordino pilys buvo nušluotos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    O ta siena buvo maždaug tokia pat, kokia bu-
-    vo ir Traidenio laikais. Gedimino ir Algirdo laikais giliai Lie-
-    tuvoje Nemuno pakrantėmis kyšojusios vokiečių ordino pilys
-    buvo nušluotos. Jei Vytautas būtų turėjęs savęs vertą įpėdinį,
-    vokiečių gaivalas gal būtų buvęs nustumtas dar toliau, ir nors
-    dalis lietuviškųjų žemių dar būtų buvusi atgauta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-294
-
-- c-273
-  santrauka: 'Ukmergės mūšio laimėjimas ne vien sustiprino Zigmanto valdžią, bet dar turėjo didelę reikšmę ir Lietuvos santykiams su ordinu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ukmergės mūšio laimėjimas ne vien sustiprino Zigmanto
-    valdžią, bet dar turėjo didelę reikšmę ir Lietuvos santykiams su
-    ordinu. Kas buvo Tanenbergo mūšis Prūsų kryžiuočiams, tas
-    livoniškei ordino šakai buvo Ukmergės mūšis: jo galybė žuvo
-    galutinai, ir jis jau niekad nebeatsigavo tiek, kad galėtų pradėti
-    su Lietuva naują karą; po to jis gyveno tik rūpindamasis savo
-    vidaus reikalais ir, po 100 su viršum metų visiškai sunykęs, tu-
-    rėjo pasiduoti Lietuvos globai. Po šito mūšio ne tik Livonijos,
-    bet ir Prūsų kryžiuočiai buvo priversti padaryti taiką su Zigman-
-    tu, o su Švitrigaila nutraukti visas sutartis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-297
-
-- c-274
-  santrauka: 'Kazimiero laikais ordinas jau buvo visiškai susilpnėjęs, todėl nė nebegalvojo apie bet kokį karą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Torno taika**
-
-    **13 metų karas.** Kazimiero laikais ordinas jau buvo visiškai
-    susilpnėjęs, todėl nė nebegalvojo apie bet kokį karą. Tačiau
-    karą sukėlė jo paties valdinių sukilimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-298
-
-- c-275
-  santrauka: 'Gal tik Lietuvos neprisidėjimas ir išgelbėjo ordiną.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Gal tik Lietuvos ne-
-    prisidėjimas ir išgelbėjo ordiną. Nors ir merdėdamas, ordinas
-
-
-    betgi dar išgyveno daugiau, kaip 50 metų. Atitekusi Branden-
-    burgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir to-
-    liau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-299
-
-- c-276
-  santrauka: 'Pasak metraštininkų, tada kryžiuočiai ėmę var toti geležinius vamzdžius, kurie, užtaisyti paraku ir sviediniais, purkšdami liepsnojantį paraką, be galo smarkiai ir su baisiu trenksmu išmeta sviedinį į prie šą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Artėdami prie
-    gynybinio pylimo, lietuviai čia patyrė smarkų pralai­
-    mėjimą, nes buvo pavartoti ligi tol neregėti negirdėti
-    ginklai. Pasak metraštininkų, tada kryžiuočiai ėmę var­
-    toti geležinius vamzdžius, kurie, užtaisyti paraku ir
-    sviediniais, purkšdami liepsnojantį paraką, be galo
-    smarkiai ir su baisiu trenksmu išmeta sviedinį į prie­
-    šą. Išmoningas to amžiaus išradimas, tačiau kaip jis
-    išniekino buvusią karinę šlovę: kur dėtis buvusiam
-    šaunumui bei drąsai, jeigu silpna ranka, bemaž nieko
-    neveikdama, klote iškloja nesuskaitomas narsiausių
-    karių krūvas?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-300
-
-- c-277
-  santrauka: 'Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo Jono I prašomas, įsakė jį nukirsti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Turime kažkokį aprašymą šio medžio, kurį Bo­
-    leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
-    galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­
-    kai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­
-    vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­
-    dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
-    Jono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355
-    metų; tada tasai Jonas I buvo Varmijos vyskupas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-303
-
-- c-278
-  santrauka: 'Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant roje (ypač nuo Gedimino valdymo) Lietuvos galia ir jėga nepa prastai išaugo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
-    metų. Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių
-    problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant­
-    roje (ypač nuo Gedimino valdymo) Lietuvos galia ir jėga nepa­
-    prastai išaugo. Si epocha baigėsi 1386 metais, tai yra visiškai
-    įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara­
-    lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat
-    daryti visą tautą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-304
-
-- c-279
-  santrauka: 'Kai 1253 metų pradžioje susiklostė draugiški Pamario kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis užkariauti Prūsiją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    123
-    Kai 1253 metų pradžioje susiklostė draugiški Pamario
-    kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems
-    saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis
-    užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­
-    tinga Sembos provincija, bet šie atkaklūs bandymai ją
-    užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė
-    toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­
-    sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą,
-    sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­
-    nės kraštais. Buvo baiminamasi didžiausio pralaimėjimo,
-    jei šios provincijos ir gentys, sudariusios tarpusavio są­
-    jungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­
-    1 Henning.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-305
+    - t-520
 
 ## Citatos
 
@@ -11234,23 +5464,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178862
-
-- id: c-13398
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
-  citata_originali: |
-    Tais pačiais 1409 m. Lietuvoje buvo nederlius. Jogaila, norė-
-    damas padėti Lietuvai, siuntė jai javų. Tačiau ordinas Ragainėje
-    juos sulaikė. Tatai Vytauto santykius su ordinu visai nutraukė,
-    ir jis, jau nebesislėpdamas, nusiuntė į Žemaičius savo bajorų ir
-    paėmė juos į savo valdžią.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179072
 
 - id: c-13400
   redaktorius: "A. Šapoka"
@@ -11340,7 +5553,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179032
+    - t-198625
 
 - id: c-31126
   autorius: "Zenonas Ivinskis"
@@ -11359,22 +5572,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179074
-
-- id: c-31137
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Lietuvos ūkis smarkiai buvo žalojamas ordino karų metu.
-    Iš pagonių sodybų, kur praeidavo ordino būriai, nieko nelikdavo.
-    Šitokiu ūkio naikinimu buvo tikima lietuvius palaužti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178951
+    - t-198863
 
 - id: c-31138
   autorius: "Zenonas Ivinskis"
@@ -11392,7 +5590,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178922
+    - t-198817
 
 - id: c-31142
   autorius: "Zenonas Ivinskis"
@@ -11412,69 +5610,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179111
-
-- id: c-36829
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Iš savo pusės, sutikdami apsi­
-    krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­
-    tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­
-    lius bei Kuršius Livonijoje. Kadangi Lietuvai apsikrikštijus
-    Ordino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,
-    tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
-    nuo totorių užpuldinėjimo.
-    Kai ciesorius ir Vokiečių Ordinas su dideliais Lietuvos val­
-    dovų reikalavimais nenorėjo sutikti, vėl reikėjo griebtis kardo.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178788
-
-- id: c-36830
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Matydamas Vytauto pastangas neinant veltui, Ordinas ma­
-    tė reikalą taip pat išplėsti Lietuvos pasienyje akciją. Dar
-    vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi
-    pilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­
-    talpintos kryžiuočių įgulos.
-    Iš čia aišku, kad Vytautas, nežiūrint Jogailos didelių
-    pasiūlymų, palaikė dar gana gerus santykius su Ordinu dėl to,
-    kad jam, matyti, dar nebuvo atėjęs laikas veikti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178904
-
-- id: c-36833
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Ordinas atsiuntė savo komtūrą
-    Marquardą v. Salzbachą su keliais tūkstančiais kariuomenės;
-    prisijungė prie Vytauto su savo pulkais ir Tochtamyšas. Tuo
-    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
-    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
-    kariuomenė buvo internacionalinė.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178852
+    - t-198646
 
 - id: c-36835
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -11490,12 +5626,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     ištikus kviesdavosi ir samdydavosi riterių iš įvairių Europos
     kraštų.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178810
-
 - id: c-36836
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -11614,30 +5748,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178906
-
-- id: c-36844
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Bet tuo tarpu su Lietuvos priešu Or­
-    dinu susitarė Lenkija. Vytautas, negalėdamas pakęsti jų są­
-    jungos, apskundė patį Ordiną pasauliui, stengdamasis tuo jų
-    santykius suardyti. Jis gerai žinojo, kad jų prietelystė gali pa­
-    kenkti ne tik jo vidaus politikai, bet ir užsienių. Tada Vytautas
-    ėmė daryti nepalankių žygių prieš Ordiną. Išvijo jį iš Žemaičių
-    krašto (1401 m.), vėl jam sumaišydamas kortas: nuo Mindau­
-    go laikų dėtos pastangos užkariauti Žemaitiją, kad galėtų sau­
-    sažemiu susijungti abu Ordinai, vėl liko sutrukdytos. Dabar
-    kryžiuočiai, užmokėję už gerus santykius su Lenkija Žemaičių
-    kraštu, ėmė taikintis su Vytautu (1402).
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178813
 
 - id: c-36845
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -11759,64 +5869,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-179062
 
-- id: c-46324
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
-  citata_originali: |
-    **Ūkis.** Pagrindinė Lietuvos ūkio šaka buvo žemdirbystė.
-    Bet ji gana sunkiai klestėjo: ją trukdė nuolatiniai kryžiuočių už-
-    puolimai, kurių kartais būdavo bent po 4—5 ar net po daugiau
-    per vienerius metus.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179018
-
-- id: c-46325
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
-  citata_originali: |
-    **Karas su Lenkija.** Lenkams negrąžinant Podolės, Švitrigaila
-    tuojau užmezgė ryšius su abiem vokiečių ordino šakom (1431 m.).
-    Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri or-
-    dinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis revi-
-    duoti Melno taikos sąlygas. Šia sutartim Švitrigaila sutiko ati-
-    duoti kryžiuočiams Palangą ir trejetą mylių pajūrio ruožo.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179125
-
-- id: c-162482
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    (^126) I SKYRIUS: LIETUVOS PROISTORĖ
-    Lietuvių ten gyventą plotą akivaizdžiai parodo į pietvakarius nuo
-    Naugarduko Zieteloje (Zdzięciol) iki šių dienų išsilaikiusi lietuvių
-    kalbos sala. Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­
-    tuvos kelių aprašymuose (« die litauischen Wegeberichte ») įvairiose
-    Aukštaičių žemės vietose minimi didžiojo kunigaikščio dvarai (jų
-    iš viso sužymėta 18), gali tarnauti lietuvių plotui apibrėžti, palieka
-    atviras klausimas. Savo dvarus didysis kunigaikštis paprastai turėjo
-    jam betarpiškai priklausančiose lietuviškose tėviškės valdose.
-  citata_rodoma: "(^126) I SKYRIUS: LIETUVOS PROISTORĖ\nLietuvių ten gyventą plotą akivaizdžiai parodo į pietvakarius nuo\nNaugarduko Zieteloje (Zdzięciol) iki šių dienų išsilaikiusi lietuvių\nkalbos sala. Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­\ntuvos kelių aprašymuose (« die litauischen Wegeberichte ») įvairiose\nAukštaičių žemės vietose minimi didžiojo kunigaikščio dvarai (jų\niš viso sužymėta 18), gali tarnauti lietuvių plotui apibrėžti, palieka\natviras klausimas."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178932
-    - t-178882
-    - t-179104
-
 - id: c-162483
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11826,7 +5878,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
     apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
     vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip
-    įvykdęs maldininko įžadus, tas pats valdovas sugrįžo  į savo kraštą, palikęs Prūsijoje
+    įvykdęs maldininko įžadus, tas pats valdovas sugrįžo į savo kraštą, palikęs Prūsijoje
     didelę kariuomenę, turėjusią baigti statyti Elbingo pilį.
   statusas: verified
   teiginio_tipas: faktas
@@ -11929,71 +5981,30 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178892
 
-- id: c-162491
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Tos pilys taip pat buvo visiš­
-    kai ligi pamatų sunaikintos. Tose pilyse buvusius Ordino ka­
-    rius ir pirklius Vytautas paėmė nelaisvėn.
-    Painformuotas apie galutinius Vytauto žygius, Jogaila
-    rugpiūčio mėn.
-  citata_rodoma: "Tose pilyse buvusius Ordino ka­\nrius ir pirklius Vytautas paėmė nelaisvėn.\nPainformuotas apie galutinius Vytauto žygius, Jogaila\nrugpiūčio mėn."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179054
-    - t-178907
-
 - id: c-162495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 38-39"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 38-39."
+  puslapiai: "PDF 39"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
   citata_originali: |
-    Šitokias
-
-    štai kovas uoliai kovojo ir šis dievui pasišventęs karinis ordinas, tai yra šventosios Marijos
-    Teutonų ligoninės namai Jeruzalėje, sugebėjęs pasipildyti garbingais nariais, savo priešų
-    priešais, girtinai sutvarkęs dievui deramą tarnybą. Mat jame daug riterių ir rinktinių
-    karių, kurie, ištikimi tėvynės tvarkai, tvirta ranka triuškino priešus. Nemaža jame  ir
+    Nemaža jame ir
     tokių, kurie iš širdies rūpinasi labdarybe, teikdami globą svetimšaliams, maldininkams ir
     pavargėliams. Be to, nemaža tokių, kurie, gilaus širdies pamaldumo skatinami, su
-    begaliniu uolumu patarnauja  ligoninėse  pasilpėliams  ir  paliegėliams, sergantiems
-    šiurpiomis ligomis.
+    begaliniu uolumu patarnauja ligoninėse pasilpėliams ir paliegėliams, sergantiems
+    šiurpiomis ligomis. Garbingą ir naudingą vietą ordine užima dvasininkai, kurie taikos
+    metu, visur pasklidę nelyginant kibirkštys, skatina brolius pasauliečius stropiai laikytis
+    regulos, laiko pamaldas ir teikia sakramentus, o skubantiems į kruvinas žudynes vardan
+    gyvenimo ar mirties rodo nukryžiuotojo viešpaties pavyzdį, šitaip keldami kovotojų
+    narsą; su begaline dvasios malone jie teikė savo patarnavimus visiems — ir tvirtiems
+    kariams, ir silpniems paliegėliams, nešdami jų sąžinei paguodą paskutinę gyvenimo
+    valandą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178999
-
-- id: c-162496
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 47"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
-  citata_originali: |
-    6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
-                                      kovų
-
-      Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
-    Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
-    užjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino
-    viešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai
-    sudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už
-    kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
-    priklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178895
+    - t-196901
 
 - id: c-162497
   autorius: "Michał Baliński"
@@ -12019,8 +6030,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178823
     - t-178817
+    - t-178823
 
 - id: c-162498
   autorius: "Michał Baliński"
@@ -12045,46 +6056,24 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178816
 
-- id: c-162499
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 36"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
-  citata_originali: |
-    Mat
-    prie jo skuba visuotinė bažnyčia, trokšdama išgirsti ir pažinti jo mokymą, nelyginant
-    karalienė Saba, norėjusi patirti Saliamono išmintingumą. Štai šis popiežius Celestinas
-    III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
-    naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151  ir „išsikirto
-    septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus,
-    būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos  ir Armėnijos152,
-    kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo
-    pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
-    šulai, o kiti broliai—sienos. Šitaip jo šventenybė popiežius pasekė tuo išmintingu vyru,
-    pasistačiusiu savo namą ant uolos ir pasakiusiu (Jn 6, 63): „Aš sutvirtinau jo šulus“.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178981
-
 - id: c-162500
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 98"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
   citata_originali: |
+    Apie vienos pilies užkariavimą ir apie Kristburgo pilį
     Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
     yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko
     rūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius
-    ir maldininkus, patraukė  į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
-    ilsintis,  priartėjo  prie pamedėnų  pilies,  stovėjusios tada  toje  vietoje,  kuri dabar
-    vadinama Senuoju Kristburgu, slapta įsibrovė  į  pilį, pristatęs prie sienų kopėčias,  ir
-    ją užėmė nukovęs ar išsivaręs  į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
+    ir maldininkus, patraukė į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
+    ilsintis, priartėjo prie pamedėnų pilies, stovėjusios tada toje vietoje, kuri dabar
+    vadinama Senuoju Kristburgu, slapta įsibrovė į pilį, pristatęs prie sienų kopėčias, ir
+    ją užėmė nukovęs ar išsivaręs į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
     daug ginklanešių. Kadangi Kristaus gimimo naktį buvo tikinčiųjų užkariauta ta pilis, ji
     pavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties
     pranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse.
+  citata_rodoma: "Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems\nyra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko\nrūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius\nir maldininkus, patraukė  į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms\nilsintis,  priartėjo  prie pamedėnų  pilies,  stovėjusios tada  toje  vietoje,  kuri dabar\nvadinama Senuoju Kristburgu, slapta įsibrovė  į  pilį, pristatęs prie sienų kopėčias,  ir\nją užėmė nukovęs ar išsivaręs  į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir\ndaug ginklanešių. Kadangi Kristaus gimimo naktį buvo tikinčiųjų užkariauta ta pilis, ji\npavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties\npranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -12114,93 +6103,34 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-179052
 
-- id: c-162503
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Įvairių tautų tyrinėtojai skirtingai išryškino jose ir ati­
-    tinkamų tautų (lietuvių, lenkų, Smolensko pulkų) vaidmenį.
-    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
-    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
-    Nuo Torno Drevencos krantu iki Loebau (VII.
-  citata_rodoma: "Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis\nmagistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.\nNuo Torno Drevencos krantu iki Loebau (VII."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178897
-    - t-179083
-
-- id: c-162506
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    O vasaros žygis buvo ruošiamas apie rug­
-    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
-    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
-    kryžiuočių ir 30—iš Livonijos. Į tą skaičių neįeina pasienyje
-    ordino riterių suorganizuoti savanorių — « plėšikėlių » (vad. « strut­
-    ter », «latrunculi ») nuolatiniai plėšikavimai, be to, pasienių pilių
-    valdytojų vykdomi teriojimai į artimas Žemaičių ir Aukštaičių
-    žemes.
-  citata_rodoma: "Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų\nkryžiuočių ir 30—iš Livonijos. Į tą skaičių neįeina pasienyje\nordino riterių suorganizuoti savanorių — « plėšikėlių » (vad."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178867
-    - t-178819
-
 - id: c-162507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 45"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
-    Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams
-
-      Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip
-    didžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią  ir tokią
-    šlovę, kad jo didžios garbės atgarsiai, skersai ir išilgai paplitę, galop pasiekė ir minėtojo
-    kunigaikščio ausį. Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo  į širdį, jog jis
+    Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo į širdį, jog jis
     sumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad
     broliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės. Sušaukęs savo
     vyskupus ir kilminguosius, jis atskleidė jiems savo sumanymą, prašydamas šiuo reikalu
-    patarti.
+    patarti. Šie vienu balsu pritarė jo sumanymui, pridurdami, kad ir patys esą sužinoję
+    iš patikimų šaltinių, jog minėtieji broliai turi ryžtingų karių vardą, užsigrūdinusių iš
+    mažumės kovose, be to, kad į juos labai maloniai bei palankiai žiūri ir popiežius, ir
+    imperatorius, ir Vokietijos kunigaikščiai, kad todėl nėra jokių abejonių, jog popiežius
+    maloningai jiems Įeisiąs persikelti čia šios žemės ginti. Todėl kunigaikštis pasiuntė pas
+    minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir
+    jam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais
+    klausimais su broliais ir apsvarstęs su jais šį keblų reikalą, davėsi galop kunigaikščio
+    įkalbamas, patartas popiežiaus, imperatoriaus Fridricho II ir Vokietijos kunigaikščių,
+    kurie pasižadėjo, esant reikalui, jam padėti patarimais bei suteikti pagalbą.
+  citata_rodoma: "Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams\n\n  Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip\ndidžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią  ir tokią\nšlovę, kad jo didžios garbės atgarsiai, skersai ir išilgai paplitę, galop pasiekė ir minėtojo\nkunigaikščio ausį. Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo  į širdį, jog jis\nsumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad\nbroliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės. Sušaukęs savo\nvyskupus ir kilminguosius, jis atskleidė jiems savo sumanymą, prašydamas šiuo reikalu\npatarti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178920
-    - t-183884
     - t-194326
-
-- id: c-162508
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Kryžiuočiai nieko nepraleido Lietuvon, su Didž. Naugardu
-    sudarė sutartį prieš Gediminą, kurį juodino, rašydami krikščionių
-    valdovams ir popiežiui.
-    Visoje toje per ištisus metus po Gedimino laiškų parašymo
-    susidariusioje politinėje būklėje, kada 1324 vasarop iš Avignono
-    atvyko Rygon du legatai (vysk. Baltramiejus ir abatas Bernardas),
-    Gediminas diplomatiškai išsisukinėjo, vengdamas savo laiškuose
-    popiežiui surašytų krikšto pažadų.
-  citata_rodoma: "Kryžiuočiai nieko nepraleido Lietuvon, su Didž. Naugardu\nsudarė sutartį prieš Gediminą, kurį juodino, rašydami krikščionių\nvaldovams ir popiežiui.\nVisoje toje per ištisus metus po Gedimino laiškų parašymo\nsusidariusioje politinėje būklėje, kada 1324 vasarop iš Avignono\natvyko Rygon du legatai (vysk."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179092
-    - t-178952
 
 - id: c-162509
   autorius: "Michał Baliński"
@@ -12311,22 +6241,27 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179124
     - t-178918
+    - t-179124
 
 - id: c-162517
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 169"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
-    įrodydamas, jog broliai turi  į jas neginčijamų teisių. Išklausęs abiejų šalių įrodymų,
-    tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos
-    turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos
-    kunigaikštystėje kraštą, vardu Vancka, kur dabar stovi Mevės pilis, ir šitaip pasibaigsianti
-    tarp jų kilusi nesantarvė. Todėl 1283 viešpaties metais broliai perkėlė iš Kulmo žemės
-    Poterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji
-    po šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei.
+    Apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje,
+    Kuršių nerijoje
+    Brolis Konradas, magistras, išmintingas ir apdairus vyras, suprasdamas, kad,
+    braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos
+    broliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,
+    kuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
+    217 (212). Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
+    mą
+    Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis
+    pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią
+    tikėjimo priešus sūduvius.
+  citata_rodoma: "įrodydamas, jog broliai turi  į jas neginčijamų teisių. Išklausęs abiejų šalių įrodymų,\ntas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos\nturtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos\nkunigaikštystėje kraštą, vardu Vancka, kur dabar stovi Mevės pilis, ir šitaip pasibaigsianti\ntarp jų kilusi nesantarvė. Todėl 1283 viešpaties metais broliai perkėlė iš Kulmo žemės\nPoterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji\npo šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -12442,8 +6377,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178903
-    - t-178958
     - t-178869
 
 - id: c-162524
@@ -12506,24 +6439,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178850
 
-- id: c-162530
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Bet iki šiol vis dar
-    nėra galutinai išaiškintas klausimas, ar tie dokumentai yra tikri.
-    Jeigu jie visi būtų autentiški, tai reikštų, kad « vokiečių ordinas savo
-    draugystę su Mindaugu yra be saiko išnaudojęs »^134.
-    Santykiaudamas su naujakrikštu Mindaugu, Livonijos ordinas
-    pradėjo reikšmingą laikotarpį.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179094
-
 - id: c-162531
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12551,24 +6466,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-179008
     - t-179067
-
-- id: c-162532
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Su trigubai di­
-    desniu įniršiu, nešini šv. Jurgio vėliava puolė į mūšį Ordino
-    riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­
-    lių, turėjo grįžti prie likusių karių. Tačiau mūšio metu į me­
-    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
-    per kurį didelę Vilniaus dalį pasiglemžė ugnis.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179026
 
 - id: c-162533
   autorius: "Michał Baliński"
@@ -12611,44 +6508,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     - t-178835
     - t-178885
 
-- id: c-162535
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Pir­
-    mąjį tomą (iki 1385 m.) skirdamas pagoniškai Lietuvai, Kojalavi­
-    čius vis tik savo dėstyme parodė aniems lietuviams pagarbos. Tai
-    matyti iš kovų su kryžiuočiais ir iš gražiai aprašytos Vilniaus
-    įkūrimo (Gedimino) sapno legendos^28. Palyginti, objektyviai išdės­
-    tė jis ir 2-jį tomą.
-  citata_rodoma: ") skirdamas pagoniškai Lietuvai, Kojalavi­\nčius vis tik savo dėstyme parodė aniems lietuviams pagarbos. Tai\nmatyti iš kovų su kryžiuočiais ir iš gražiai aprašytos Vilniaus\nįkūrimo (Gedimino) sapno legendos^28. Palyginti, objektyviai išdės­\ntė jis ir 2-jį tomą."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178845
-
-- id: c-162536
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
-  citata_originali: |
-    Smarkiai
-    apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per-
-    kėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne
-    tik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų
-    kunigaikštijai. O Lenkijai Torno taika tekusios žemės išbuvo
-    jos valdžioje iki valstybės padalinimo (1772 m.).
-  citata_rodoma: "Smarkiai\napkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per-\nkėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne\ntik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų\nkunigaikštijai. O Lenkijai Torno taika tekusios žemės išbuvo\njos valdžioje iki valstybės padalinimo (1772 m."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178861
-
 - id: c-162538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -12660,11 +6519,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
     nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
     pavyko garbingai išvengti kovos.
-
-
-
-
-             249 (242).
+    249 (242).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -12697,8 +6552,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179103
     - t-178866
+    - t-179103
 
 - id: c-162541
   autorius: "Michał Baliński"
@@ -12728,44 +6583,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-179030
     - t-179120
-
-- id: c-162542
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Revelis [Talinas] už savo
-    atsiradimą dar anksčiau turi būti dėkingas danams. Teutonų
-    ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
-    gonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­
-    tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­
-    kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
-    metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
-    bemaž visi Varmės miestai.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178957
-
-- id: c-162545
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
-    mėnesiais prieš atlydį. O vasaros žygis buvo ruošiamas apie rug­
-    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
-    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
-    kryžiuočių ir 30—iš Livonijos.
-  citata_rodoma: "O vasaros žygis buvo ruošiamas apie rug­\npiūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.\nOrdino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų\nkryžiuočių ir 30—iš Livonijos."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178976
 
 - id: c-162546
   autorius: "Petras Dusburgietis"
@@ -12821,33 +6638,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179039
-
-- id: c-162549
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Ne mažiau svarbi priežastis, lėmusi menką miestiečių luomo
-    reikšmę Lietuvoje, buvo tame krašte ilgai užsilikusi pagonybė, o
-    podraug šalinimasis nuo visos Europos, kuri jau keturis amžius
-    buvo krikščioniška, išskyrus Lietuvą. Dėl tos nelemtos padėties
-    kryžiuočių grobuoniškumas irgi ilgam buvo užtveręs kelią bet
-    kokiai pažangai visoje mūsų žemėje. Išsami šio miesto istorija pa­
-    teiks skaitytojams įrodymų ir patikinimų dėl tų kelių pastabų apie
-    10
-
-    ## Puslapis 27
-
-    I V  A D  A S
-    Lietuvos miestus, kurias mes leidome sau išdėstyti šio veikalo
-    pradžioje.
-  citata_rodoma: "Dėl tos nelemtos padėties\nkryžiuočių grobuoniškumas irgi ilgam buvo užtveręs kelią bet\nkokiai pažangai visoje mūsų žemėje. Išsami šio miesto istorija pa­\nteiks skaitytojams įrodymų ir patikinimų dėl tų kelių pastabų apie\n10\n\n## Puslapis 27\n\nI V  A D  A S\nLietuvos miestus, kurias mes leidome sau išdėstyti šio veikalo\npradžioje."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179063
 
 - id: c-162553
   autorius: "Michał Baliński"
@@ -12913,8 +6703,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179075
     - t-178838
+    - t-179075
 
 - id: c-162559
   autorius: "Michał Baliński"
@@ -13069,18 +6859,22 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - id: c-162567
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 139"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
-    Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
-
-      Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui
-    bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,
-    pažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras
-    sušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų
-    kariuomenė ir visą šią žmonių minią išžudė. Po kurio laiko magistras ir vėl sušaukė
-    žmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo
-    vardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių.
+    Antrosios
+    atskalūnybės metais prūsai tiek kartų ją kamavo antpuoliais, kad negalima buvo joje
+    ilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo
+    ginklanešiais, ir ji po šiai dienai tebestovi apleista.
+    152 (147). Apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie
+    brolį Heidenreichą, Kulmo vyskupą
+    Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo
+    Kulmo vyskupas432. Apie jį sklido neabejotinų žinių, kad švenčiausioji mergelė Marija
+    pasirodžiusi vienam pavargėliui ir jam įdavusi laišką nunešti šiam vyskupui; perskaitęs
+    laišką, vyskupas rado jame aprašytą visą savo gyvenimą, be to, ten buvę pridurta, kad
+    430  Pirmoji Ordino Starkenbergo pilis, statyta 1263 (1256— 1272) m, buvo prie
+    Osos, deš. upės krante, tarp dab.
+  citata_rodoma: "Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį\n\n  Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui\nbei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,\npažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras\nsušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų\nkariuomenė ir visą šią žmonių minią išžudė. Po kurio laiko magistras ir vėl sušaukė\nžmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo\nvardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -13088,49 +6882,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178898
     - t-178920
-
-- id: c-162569
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    1387 m. žygis buvo nuostabus, prisimenant, kaip po Kęstučio
-    mirties ant peilio ašmens vartėsi klausimas, ar Lietuva galutinai
-    neapsispręs už stačiatikių tikėjimą. Kai Gediminaičiai buvo išsi­
-    dalinę tarp pagonybės ir graikų krikšto, bereikėjo tik didžiojo
-    kunigaikščio žingsnio, kuriuo butų turėję pasekti lietuvių kilmin­
-    gieji ir visa tauta. Bet nuolat kabantis vokiečių ordino pavojus per
-    visą XIV amžių buvo buvęs akstinas vesti derybas ir kokiu nors
-    būdu priimti priešo išpažįstamą, t. y. vokiškąjį tikėjimą.
-  citata_rodoma: "Bet nuolat kabantis vokiečių ordino pavojus per\nvisą XIV amžių buvo buvęs akstinas vesti derybas ir kokiu nors\nbūdu priimti priešo išpažįstamą, t. y. vokiškąjį tikėjimą."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178856
-    - t-179011
-
-- id: c-162571
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Tai buvo Vytauto planų parėmimas. Dabar visa garbė ir
-    šlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­
-    čiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus
-    totorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą.
-    Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
-    jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė.
-  citata_rodoma: "Dabar visa garbė ir\nšlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­\nčiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus\ntotorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą.\nKai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti\njam pabėgėlį Tochtamyšą, tai Vytautas atsisakė."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179004
-    - t-179117
 
 - id: c-162572
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -13260,15 +7011,14 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 181."
   citata_originali: |
     Apie vieną nuostabų atsivertimą
-
-      Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo
+    Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo
     vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,
-    garsėjęs kaip labai gabus račius  ir didelis karo pabūklų meistras. Kai jis kartą, jau
+    garsėjęs kaip labai gabus račius ir didelis karo pabūklų meistras. Kai jis kartą, jau
     padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo
     vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini
     keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis
     neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
-    būdo; kad šitai būtų akivaizdu, jie  jį užklojo balta marška, kaip paprastai užklojami
+    būdo; kad šitai būtų akivaizdu, jie jį užklojo balta marška, kaip paprastai užklojami
     numirėliai. Jis labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą
     baltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai
     ir užbaigė.
@@ -13277,8 +7027,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179071
     - t-178920
+    - t-179071
 
 - id: c-162584
   autorius: "Petras Dusburgietis"
@@ -13290,19 +7040,15 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
     Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
     ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas. Todėl magistras minėtųjų
-    metų vasarą, subūręs didelę kariuomenę, pasiuntė ją  į Lenkiją ir apsupo Višogrudą,
+    metų vasarą, subūręs didelę kariuomenę, pasiuntė ją į Lenkiją ir apsupo Višogrudą,
     Lenkijos karaliaus pilį; joje gyveno nuodėmingi, išgarsėję piktais darbais vyrai, kurie
     plėšė pro šalį Vyslos upe plaukiančių laivais žmonių turtą, o juos pačius ėmė į nelaisvę
-    ar žudė,  ir niekas negalėjo nuo jų išsigelbėti, nepatyręs skriaudos, o šitaip jie darė
+    ar žudė, ir niekas negalėjo nuo jų išsigelbėti, nepatyręs skriaudos, o šitaip jie darė
     ilgus metus, sunkiai skriausdami ir brolius, ir saviškius; po daugybės antpuolių jie galop
-    smarkiai įsiveržė  į pilį602; įniršę išgalabijo nusidėjėlius, nelabus vyrus, kėlusius jiems
+    smarkiai įsiveržė į pilį602; įniršę išgalabijo nusidėjėlius, nelabus vyrus, kėlusius jiems
     apmaudą, vienus paėmę į nelaisvę, o kitus išžudę, iš pasipiktinimo iki pamatų sudegino
     pilį.
-
-
-
-
-                     13.
+    13.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -13310,57 +7056,22 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178968
 
-- id: c-162585
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Nors kryžiuočiai dar iki pat Tannenbergo kautynių lietuvius
-    Vakarų Europai pristatydavo kaip pavojingus rytų « saracėnus »,
-    kryžiaus karų šauksmas savaime turėjo pamažu nutilti. Drauge
-    išnyko ir tituluotų pilgrimų žygiai į «Litauerreisen». Lietuva
-    (^21) **Plg. M. Hruševskyj : HrlU, IV, 1905, 181 p.**
-  citata_rodoma: "Nors kryžiuočiai dar iki pat Tannenbergo kautynių lietuvius\nVakarų Europai pristatydavo kaip pavojingus rytų « saracėnus »,\nkryžiaus karų šauksmas savaime turėjo pamažu nutilti. Drauge\nišnyko ir tituluotų pilgrimų žygiai į «Litauerreisen». Lietuva\n(^21) **Plg."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179085
-
-- id: c-162587
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­
-    pedicija patraukė į Prūsiją. Atskirus pulkus vedė: Silezijos
-    kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš
-    Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai
-    iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir
-    daug kitų riterių. Prie šio būrio prisijungė krašto magistras
-    Fridrichas fon Vildenbergas, visi ginkluoti krašto žmonės;
-    šis, apimtas didelio ryžto tas pajėgas panaudoti reikšmin­
-    gam žygiui, nukreiptam prieš pagonis, stojęs šimto penkias­
-    dešimties Ordino riterių priešakyje, visą tą guotą nuvedė į
-    Vaikius Žemaitijoje.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178849
-
 - id: c-162588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 201"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 201."
   citata_originali: |
+    Taigi jis, surinkęs kariuomenę, nuplaukė laivais drauge su tais, kurie ir šiaip jam
+    buvo pavaldūs, Jūros upe aukštyn ir nusigavo prie Pūtvės pilies558; auštant, pilėnams
+    tebemiegant, jie slaptai įsibrovė į papilį ir jį pavertė pelenais, paimdami į nelaisvę ar
+    nukaudami [visus], išskyrus tuos, kurie suskubo pasprukti į pilį.
+    299 (292). Apie tą patį
     Tų pačių metų rudenį, kai jau buvo atstatytas minėtasis papilys, o jame sukrauta visi
     grūdai bei javai, ten nužygiavo tas pats komtūras su savo broliais bei raiteliais ir antrą
-    kartą sudegino tą papilį, paimdamas  į nelaisvę ar nukaudamas visus žmones, kuriuos
+    kartą sudegino tą papilį, paimdamas į nelaisvę ar nukaudamas visus žmones, kuriuos
     ten užtiko.
+  citata_rodoma: "Tų pačių metų rudenį, kai jau buvo atstatytas minėtasis papilys, o jame sukrauta visi\ngrūdai bei javai, ten nužygiavo tas pats komtūras su savo broliais bei raiteliais ir antrą\nkartą sudegino tą papilį, paimdamas  į nelaisvę ar nukaudamas visus žmones, kuriuos\nten užtiko."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -13390,28 +7101,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178935
 
-- id: c-162590
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Susirėmė su jais vokiečiai
-    ties Rudamina, pusantros mylios atstumu nuo miesto; ir šis
-    mūšis, ir Vilniaus pilių atsilaikymas, pastūmėjo kryžiuočius
-    leistis į derybas su Algirdu ir Kęstučiu, kurie pirmieji pa­
-    reiškė tokį norą25. Galop buvo sudaryta taikos sutartis, ku­
-    ria kryžiuočiai įsipareigojo palikti neliestą Vilniaus dalį, dar
-    nenukentėjusią nuo ugnies; į Vilniaus ir Trakų pilis buvo
-    pakviestas maršalas, arkikomtūras ir daugelis aukštesniųjų
-    vokiečių riterių. Ten puikiai pavaišinti, dosniai apdovanoti,
-    pagaliau paliko miestą ir šalį.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179020
-
 - id: c-162591
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -13432,37 +7121,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     ką rytuose.
   citata_rodoma: "Haleckis, buvo daug tvirtesnė, negu nepriklausomos\nLietuvos kunigaikščio prieš uniją^5 ). Jo galybės sustiprėjimas\naiškus ir iš rytų politikos, kurią jis ėmė vesti sunormavęs santy­\nkius su Lenkija ir padaręs taiką su Ordinu, besistengiančiu po Os­\ntrovos akto užkariauti tikrąją Lietuvą; bet po visos eilės žygių ir\npaskutiniojo nepasisekusio Vilniaus apsiautimo, Ordinas savo\ngrobuoniškus planus nukreipė prieš Žemaitiją. Bet ir dėl to\nkrašto įvyko tarp Vytauto bei Ordino, nors ir labai nepastovi\ntaika, bet vis dėlto taika, kas padėjo Vytautui vesti savo politi­\nką rytuose."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179002
-    - t-178806
-
-- id: c-162593
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
-  citata_originali: |
-    Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
-    Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
-    kurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi. Šitokia sutartis nepatiko
-    dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius,
-    pasikliovus viešpačiu, drąsiai stoti į kovą. Kai visų kitų nuomonė paėmė viršų ir kai davė
-    įkaitus, apie kuriuos jau esame kalbėję, prūsai, sulaužę taikos sutartį, užpuolė ir nužudė
-    54 brolius bei visus kitus, ten buvusius, 1249 viešpaties metais308 lapkričio 29 d. Po šių
-    žudynių vienas notangas pamovė ant ieties brolio Jono, minėtojo vicekomtūro, galvą ir,
-    ją pakėlęs aukštyn, pasakė: „Jeigu broliai būtų paklausę tavo patarimo, tikrai nebūtų
-    buvę nukauti“.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178833
-    - t-178851
-
 - id: c-162596
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -13471,25 +7133,22 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_originali: |
     Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
     tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
-    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau  į
+    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
     šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
     negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
     kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
     atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
+    Pratarmė
 
 
-
-
-                                      Pratarmė
-
-      „Aukščiausias dievas padarė manyje ženklų ir stebuklų.
+    „Aukščiausias dievas padarė manyje ženklų ir stebuklų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178996
     - t-178851
+    - t-178996
 
 - id: c-162598
   autorius: "Michał Baliński"
@@ -13535,8 +7194,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178940
     - t-178877
+    - t-178940
 
 - id: c-162600
   autorius: "Michał Baliński"
@@ -13575,38 +7234,24 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - id: c-162601
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 15"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
-    Pačioje Vakarų Europoje XIII—XIV a.  irgi pasigirsdavo Kryžiuočių ordino adresu
-    kritiškų balsų, raginančių netgi  jį likviduoti. Įtempta grupuočių kova vyko  ir Ordino
-    viduje, siekiant restauruoti šią vokiečių feodalų karinę-religinę organizaciją. Tokiomis
+    aplinkybėmis reikėjo kuo pagrįsti Ordino veiksmus Prūsijoje ir Lietuvoje, parodyti jo
+    „nuopelnus“ ir uždavinius, kuriems jis buvęs sukurtas.
+
+
+    Kronikos autorius, politiniai ir ideologiniai uždaviniai
+    Dusburgiečio dedikacija kronikos pradžioje rodo, kad jis buvęs Kryžiuočių ordino
+    brolis — kunigas, vėliau, galimas daiktas, magistro kapelionas. Jo siekta palikti ateities
+    kartoms žinių apie Ordino laimėtus karus, kuriuos jis surašė ir sudėjo „į šią knygą“.
+  citata_rodoma: "Pačioje Vakarų Europoje XIII—XIV a.  irgi pasigirsdavo Kryžiuočių ordino adresu\nkritiškų balsų, raginančių netgi  jį likviduoti. Įtempta grupuočių kova vyko  ir Ordino\nviduje, siekiant restauruoti šią vokiečių feodalų karinę-religinę organizaciją. Tokiomis"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178842
-
-- id: c-162603
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas
-    buvo pastatytas prieš lenkų kairįjį sparną, kuris siekė Ludwigsdorfo
-    mišką. Kairysis kryžiuočių sparnas, kuris buvo sutelktas prieš
-    dešiniajame sąjungininkų sparne pastatytus lietuvių pulkus, buvo
-    sudarytas iš stiprių dalinių^21. Pačios kautynės, nors valandos nega­
-    lima tiksliai nustatyti, prasidėjo jau po pietų.
-  citata_rodoma: "Kairysis kryžiuočių sparnas, kuris buvo sutelktas prieš\ndešiniajame sąjungininkų sparne pastatytus lietuvių pulkus, buvo\nsudarytas iš stiprių dalinių^21. Pačios kautynės, nors valandos nega­\nlima tiksliai nustatyti, prasidėjo jau po pietų."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178993
-    - t-178921
 
 - id: c-162605
   autorius: "Michał Baliński"
@@ -13624,28 +7269,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178868
-
-- id: c-162606
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­
-    čioje Lietuvoje. Talkininkaujami svečių iš Anglijos, Vokietijos ir
-    Italijos, ir padedami Livonijos magistro, Prūsų kryžiuočiai 1362
-    pavasarį atliko drąsų žygį, išgriaudami svarbią lietuvių Nemuno
-    ir Neries santakos pilį — Kauną. Neišaiškinamu būdu Kęstutis su
-    (^10) **SRP, II, 72, 505-507 p.**
-    (^11) **A. Kučinskas :** **_Kęstutis,_** **1938, 59-61 p.
-  citata_rodoma: "Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­\nčioje Lietuvoje. Talkininkaujami svečių iš Anglijos, Vokietijos ir\nItalijos, ir padedami Livonijos magistro, Prūsų kryžiuočiai 1362\npavasarį atliko drąsų žygį, išgriaudami svarbią lietuvių Nemuno\nir Neries santakos pilį — Kauną. Neišaiškinamu būdu Kęstutis su\n(^10) **SRP, II, 72, 505-507 p."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179047
-    - t-178954
-    - t-178971
 
 - id: c-162607
   autorius: "Michał Baliński"
@@ -13694,30 +7317,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-179115
 
-- id: c-162608
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 77"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
-  citata_originali: |
-    Apie karą su pagudėnais ir Elbingo pilies pastatymą
-
-       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
-    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
-    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
-    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
-    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
-    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
-    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
-    išaugo miestas242.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178894
-    - t-178851
-
 - id: c-162610
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -13725,13 +7324,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
   citata_originali: |
     Be to, nemaža tokių, kurie, gilaus širdies pamaldumo skatinami, su
-    begaliniu uolumu patarnauja  ligoninėse  pasilpėliams  ir  paliegėliams, sergantiems
+    begaliniu uolumu patarnauja ligoninėse pasilpėliams ir paliegėliams, sergantiems
     šiurpiomis ligomis. Garbingą ir naudingą vietą ordine užima dvasininkai, kurie taikos
     metu, visur pasklidę nelyginant kibirkštys, skatina brolius pasauliečius stropiai laikytis
     regulos, laiko pamaldas ir teikia sakramentus, o skubantiems į kruvinas žudynes vardan
     gyvenimo ar mirties rodo nukryžiuotojo viešpaties pavyzdį, šitaip keldami kovotojų
     narsą; su begaline dvasios malone jie teikė savo patarnavimus visiems — ir tvirtiems
-    kariams,  ir silpniems paliegėliams, nešdami jų sąžinei paguodą paskutinę gyvenimo
+    kariams, ir silpniems paliegėliams, nešdami jų sąžinei paguodą paskutinę gyvenimo
     valandą. Štai šį dvasios palaimą teikiantį ordiną, nuolatos šventosios bažnyčios labui
     plečiantį savo veiklą, rėmė įvairūs popiežiai, palankia akimi stebėję jo darbą ir patvirtinę
     jam suteiktas gausias privilegijas, imunitetus ir laisves154.
@@ -13764,7 +7363,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179079
     - t-178886
 
 - id: c-162614
@@ -13786,59 +7384,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178942
-
-- id: c-162617
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Tad atmeskite tą bedievišką sąjungą: o ka­
-    dangi Viešpats jūsų ginklą valdo ir narsos didybės suteiks,
-    nesiliaukite kovoję su priešu ir tik po visiško jo sunaikinimo
-    pelnysite garbę žemėje, o danguje triumfo laurus"8.
-    Kai maždaug tuo metu sužinota, jog Gedimino skundas
-    tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­
-    sijos kustodas, to paties ordino Torunės, Kulmo, Braunsber-
-    go ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­
-    tai: Paulius iš Olivos ir Jordanas iš Pelplino stojo ginti
-    kryžiuočių, tiesiogiai popiežiui dviejuose laiškuose pranešda­
-    mi, esą meilė tiesai ir pareiga jos laikytis verčianti juos pa­
-    reikšti Jo Šventenybei, kad Ordino brolių garbė tapo šmeiži­
-    kišku ir nedoru būdu suteršta, nes pavyduoliai jų priešai išdrįso
-    teigti, esą ordinas karštai priešinęsis Lietuvos karaliaus pa­
-    geidavimui priimti krikščionių tikėjimą*. Jie tad, esant tokiai
-    Minus ergo decet militantes domino,
-    genti peccatrici, populo nequam, filiis
-    sceleratis aliqua pactione conjungi.
-  citata_rodoma: "Kai maždaug tuo metu sužinota, jog Gedimino skundas\ntikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­\nsijos kustodas, to paties ordino Torunės, Kulmo, Braunsber-\ngo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­\ntai: Paulius iš Olivos ir Jordanas iš Pelplino stojo ginti\nkryžiuočių, tiesiogiai popiežiui dviejuose laiškuose pranešda­\nmi, esą meilė tiesai ir pareiga jos laikytis verčianti juos pa­\nreikšti Jo Šventenybei, kad Ordino brolių garbė tapo šmeiži­\nkišku ir nedoru būdu suteršta, nes pavyduoliai jų priešai išdrįso\nteigti, esą ordinas karštai priešinęsis Lietuvos karaliaus pa­\ngeidavimui priimti krikščionių tikėjimą*. Jie tad, esant tokiai\nMinus ergo decet militantes domino,\ngenti peccatrici, populo nequam, filiis\nsceleratis aliqua pactione conjungi."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178832
-    - t-179014
-
-- id: c-162618
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Vis dėlto Algirdo valdymo pa­
-    baigoje Vilnius neišvengė seniai jam grėsusio pavojaus. Pra­
-    ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­
-    no didysis magistras pasiuntė užimti tą miestą Ordino
-    maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu
-    Elneriu. 12 000 žmonių vedini, pakeliui sudeginę Trakų mies­
-    tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti,
-    1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­
-    mis prie Vilniaus.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179001
 
 - id: c-162619
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -13867,14 +7412,20 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   puslapiai: "PDF 5"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
   citata_originali: |
-    Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a. pabaigoje,
-    agresijos  į Artimuosius Rytus metu, atsikėlimas ir įsitvirtinimas pavyslyje XIII a.
-    pirmojoje pusėje. Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
-    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
-    feodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,
+    Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
+    feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
     niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
     Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
     kovą prieš agresiją.
+    Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
+    sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
+    viduramžiais į Rytus, atskleidžia tos agresijos esmę ir jos vykdytojų katalikišką
+    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių ir bažnytinių
+    feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
+    Kronika teikia medžiagos kovai su socialistinėms šalims priešiška revanšistine
+    ideologija, kuri dabartinėje epochoje tęsia viduramžių vokiečių feodalų agresijos
+    prieš Rytų Europos tautas tradicijas.
+  citata_rodoma: "Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a. pabaigoje,\nagresijos  į Artimuosius Rytus metu, atsikėlimas ir įsitvirtinimas pavyslyje XIII a.\npirmojoje pusėje. Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui\nir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių\nfeodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,\nniokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,\nNevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės\nkovą prieš agresiją."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -13990,27 +7541,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178889
 
-- id: c-162632
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
-  citata_originali: |
-    Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
-    didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
-    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
-    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
-    prieš Lietuvą.
-      Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
-    feodalinių riterių žygių prieš musulmoniškąjį pasaulį.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179027
-    - t-178920
-
 - id: c-162633
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14031,26 +7561,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178870
-
-- id: c-162634
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    O Julijona ir kunigaikščio
-    taryba tėra paminėta Žemaičių dovanojimo dokumente.
-    Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais
-    tariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis
-    Jogailą priversti nesitraukti nuo didelių pažadų. Įvykiai tačiau
-    (^19) **LUB, III, 393-395, 400, 489-495 p.; RaCD, 55-60 p.**
-  citata_rodoma: "O Julijona ir kunigaikščio\ntaryba tėra paminėta Žemaičių dovanojimo dokumente.\nKryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais\ntariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis\nJogailą priversti nesitraukti nuo didelių pažadų. Įvykiai tačiau\n(^19) **LUB, III, 393-395, 400, 489-495 p."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178791
-    - t-179082
 
 - id: c-162635
   autorius: "Petras Dusburgietis"
@@ -14181,12 +7691,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
     tencijai.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179064
-
 - id: c-162650
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14229,38 +7737,20 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178994
 
-- id: c-162652
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Krikštas tačiau buvo pirmoji stipri grandis, siejanti
-    Lietuvą su krikščioniška vidurinių amžių bendruomene. Kad būtų
-    galima įeiti į tą bendruomenę ir gauti aukščiausios Bažnyčios
-    valdžios patvirtinimą, reikėjo dar nugalėti kryžiuočių daromas
-    kliūtis.
-    Pirmasis Italijon vykstąs Jogailos pasiuntinys (Trąba) Habs­
-    burgų žemėse buvo įmestas kalėjiman.
-  citata_rodoma: "Kad būtų\ngalima įeiti į tą bendruomenę ir gauti aukščiausios Bažnyčios\nvaldžios patvirtinimą, reikėjo dar nugalėti kryžiuočių daromas\nkliūtis.\nPirmasis Italijon vykstąs Jogailos pasiuntinys (Trąba) Habs­\nburgų žemėse buvo įmestas kalėjiman."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178802
-    - t-179078
-
 - id: c-162655
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 196"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
   citata_originali: |
-    Ilgokai jam grasinę, galop tarėjai paprašė
-    teisėją jo pasigailėti, o  jį paakino tučtuojau pakeisti savo gyvenimo būdą. Kai brolis
-    Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.
-    Kai sugrįžo išbalęs ir priblokštas  į savo pilį, papasakojo visa, ką matęs, savo žmonai,
-    kilmingai, jaunai ir švelniai moteriai, kuri, jo paprašyta skyrybų, ryžtingai atsisakė.
+    Tris kartus suvirpėjo žemė drauge su pastatais, kurių retas išliko nesugriuvęs. Ką reiškė
+    šis antgamtiškas žemės drebėjimas, paaiškės vėliau.
+    288 (281). Apie maldininkų atvykimą
+    1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti
+    į Prūsijos žemę. Atvyko šie kilmingieji: jo kilnybė Verneris, Hoinbergo grafas, riteriai
+    Adolfas iš Vintimelio su savo broliu ir Ditrichas iš Elnerio su savo broliu Arnoldu bei daug
+    kitų kilmingųjų iš Reino.
+  citata_rodoma: "Ilgokai jam grasinę, galop tarėjai paprašė\nteisėją jo pasigailėti, o  jį paakino tučtuojau pakeisti savo gyvenimo būdą. Kai brolis\nHenrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.\nKai sugrįžo išbalęs ir priblokštas  į savo pilį, papasakojo visa, ką matęs, savo žmonai,\nkilmingai, jaunai ir švelniai moteriai, kuri, jo paprašyta skyrybų, ryžtingai atsisakė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -14275,8 +7765,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
   citata_originali: |
     Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis
-
-       Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop
+    Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop
     paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis
     aplinkybėmis, kuris patarė pasiųsti Austrijos kunigaikščiui Mstivojų, Sventopelko sūnų,
     kaip įkaitą ir Prūsijos žemės bei brolių likimą patikėti Vokietijos, Čekijos, Krokuvos ir
@@ -14290,8 +7779,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178980
     - t-178920
+    - t-178980
 
 - id: c-162657
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -14355,46 +7844,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179076
     - t-179033
-
-- id: c-162662
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Betarpiškame ryšyje su Georgenburgo įkūrimu
-    reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies
-    Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.
-    Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
-    jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
-    tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti. Že­
-    maičiai tačiau nesidavė nulenkiami.
-  citata_rodoma: "Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į\njiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek\ntegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti. Že­\nmaičiai tačiau nesidavė nulenkiami."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178899
-
-- id: c-162664
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 17"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
-  citata_originali: |
-    Vizijomis apie brolių žaizdas ir randus, kuriuos rodanti abejojantiems pati švenčiausioji
-    mergelė, teigiama, jog Vokiečių ordinas esąs pats geriausias, labiausiai nusipelnęs tarp
-    kitų panašių brolijų (III, 12).
-      Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
-    žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178822
+    - t-179076
 
 - id: c-162665
   autorius: "Petras Dusburgietis"
@@ -14497,64 +7948,25 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - id: c-162672
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 199"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 199."
+  puslapiai: "PDF 201"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 201."
   citata_originali: |
-    Po to tie 200 vyrų, kurie ėjo priekyje, sugrįžo, smarkiai
-    šūkaudami ir triukšmaudami, patraukė į mūšio lauką ir įvarė priešams tokį siaubą, kad
-    karalius bei visi jo žmonės, juos išvydę, bematant išmėtė ginklus ir pasileido bėgti. Tada
-    įniršę broliai nubaudė nusidėjėlius ir nužudė 17 Lietuvos karalystės galingesniųjų bei
-    daugybę paprastų žmonių.
-
-
-
-
-                     292 (285).
+    Taigi jis, surinkęs kariuomenę, nuplaukė laivais drauge su tais, kurie ir šiaip jam
+    buvo pavaldūs, Jūros upe aukštyn ir nusigavo prie Pūtvės pilies558; auštant, pilėnams
+    tebemiegant, jie slaptai įsibrovė į papilį ir jį pavertė pelenais, paimdami į nelaisvę ar
+    nukaudami [visus], išskyrus tuos, kurie suskubo pasprukti į pilį.
+    299 (292). Apie tą patį
+    Tų pačių metų rudenį, kai jau buvo atstatytas minėtasis papilys, o jame sukrauta visi
+    grūdai bei javai, ten nužygiavo tas pats komtūras su savo broliais bei raiteliais ir antrą
+    kartą sudegino tą papilį, paimdamas į nelaisvę ar nukaudamas visus žmones, kuriuos
+    ten užtiko.
+  citata_rodoma: "Po to tie 200 vyrų, kurie ėjo priekyje, sugrįžo, smarkiai\nšūkaudami ir triukšmaudami, patraukė į mūšio lauką ir įvarė priešams tokį siaubą, kad\nkaralius bei visi jo žmonės, juos išvydę, bematant išmėtė ginklus ir pasileido bėgti. Tada\nįniršę broliai nubaudė nusidėjėlius ir nužudė 17 Lietuvos karalystės galingesniųjų bei\ndaugybę paprastų žmonių.\n\n\n\n\n                 292 (285)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178955
-
-- id: c-162675
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 75"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
-  citata_originali: |
-    Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
-    Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
-    priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė
-    Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
-    vis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,
-    nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
-    taip kentėti, kaip trokšti“.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178982
-
-- id: c-162677
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
-  citata_originali: |
-    Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
-    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
-    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
-    Jo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo
-    girdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno
-    žmogaus pastangomis.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179037
 
 - id: c-162678
   autorius: "Michał Baliński"
@@ -14594,26 +8006,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178931
-
-- id: c-162679
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Jokiai kitai žemei laimėti kryžiuočiai nėra padėję tiek daug pa­
-    stangų, kaip šitam pleištui tarp Nemuno žemupio ir Kuršo-Žiemga­
-    los. Todėl per visą XIV amž., iš visų pagoniškosios Lietuvos žemių,
-    Žemaičiai buvo daugiausia puolami. Kai ginklu jų nebuvo galima
-    laimėti, kryžiuočiai patys skatino arba sėkmingai maišėsi į Gedi­
-    minaičių _vidaus_ kovas.
-  citata_rodoma: "Todėl per visą XIV amž., iš visų pagoniškosios Lietuvos žemių,\nŽemaičiai buvo daugiausia puolami. Kai ginklu jų nebuvo galima\nlaimėti, kryžiuočiai patys skatino arba sėkmingai maišėsi į Gedi­\nminaičių _vidaus_ kovas."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179061
-    - t-178925
 
 - id: c-162682
   autorius: "Michał Baliński"
@@ -14743,15 +8135,26 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - id: c-162694
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 252"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 252."
+  puslapiai: "PDF 255"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
   citata_originali: |
-    Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė,
-    kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos
-    kiekvieną dieną turį skaityti evangeliją: „Pradžioje buvo žodis” su eilute: „Parodyk mums,
-    viešpatie, savo gailestingumą”  ir kolektą: „Visagalis amžinasis dieve, nukreipk mūsų
-    veiksmus, kaip tau patinka”, o tardami „Ir žodis tapo kūnu”, broliai turį pulti ant kelių ir
-    klūpoti iki kolektos galo.
+    O kitoje vietoje, kai žuvo
+    tie, kurie susirado mirtį dėl savo patiklumo, nes nekovojo su priešais, vienas vyras
+    pasakė kitam vyrui (1 Mak 2, 40): „Jeigu visi darysime taip, kaip padarė mūsų broliai, ir
+    nekovosime prieš pagonis dėl savo gyvybės ir savo įstatymo, anie greitai išnaikins mus
+    iš šalies”. Magistras ir broliai, naudingai pamokyti šių bei kitų švento rašto pranašysčių,
+    ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
+    Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
+    ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas. Todėl magistras minėtųjų
+    metų vasarą, subūręs didelę kariuomenę, pasiuntė ją į Lenkiją ir apsupo Višogrudą,
+    Lenkijos karaliaus pilį; joje gyveno nuodėmingi, išgarsėję piktais darbais vyrai, kurie
+    plėšė pro šalį Vyslos upe plaukiančių laivais žmonių turtą, o juos pačius ėmė į nelaisvę
+    ar žudė, ir niekas negalėjo nuo jų išsigelbėti, nepatyręs skriaudos, o šitaip jie darė
+    ilgus metus, sunkiai skriausdami ir brolius, ir saviškius; po daugybės antpuolių jie galop
+    smarkiai įsiveržė į pilį602; įniršę išgalabijo nusidėjėlius, nelabus vyrus, kėlusius jiems
+    apmaudą, vienus paėmę į nelaisvę, o kitus išžudę, iš pasipiktinimo iki pamatų sudegino
+    pilį.
+  citata_rodoma: "Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė,\nkad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos\nkiekvieną dieną turį skaityti evangeliją: „Pradžioje buvo žodis” su eilute: „Parodyk mums,\nviešpatie, savo gailestingumą”  ir kolektą: „Visagalis amžinasis dieve, nukreipk mūsų\nveiksmus, kaip tau patinka”, o tardami „Ir žodis tapo kūnu”, broliai turį pulti ant kelių ir\nklūpoti iki kolektos galo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -14886,38 +8289,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178900
 
-- id: c-162708
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
-    kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo
-    išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
-    šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
-    smarkiai puldavo Lietuvą.
-    Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius
-    žemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­
-    mėjęs Vislos žiotis ir Pamarį (1309 metais) ir išplėtęs savo pre­
-    kybą su tolimais Vakarų Europos miestais, nors vis labiau tolo
-    nuo pirmykštės Ordino dvasios, bet turėdami pilną iždą pinigų,
-    daug stiprių pilių ir nuolat iš Vakarų Europos plaukiančių jėgų,
-    kryžiuočiai kasmet po kelis kartus puldavo Lietuvą, išniokoda­
-    mi plačias jos sritis, degindami gyvenamas vietas ir žmones iš­
-    sivesdami nelaisvėn. Kęstučiui dar smarkiau, negu pirmtakū­
-    nams, tenka gintis nuo Ordino įsiveržimų, nes tada magistro
-    valdžią turėjo veiklus ir energingas vokietis Vinrichas von Kni­
-    prodė (1351—1382).
-  citata_rodoma: "Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius\nžemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­\nmėjęs Vislos žiotis ir Pamarį (1309 metais) ir išplėtęs savo pre­\nkybą su tolimais Vakarų Europos miestais, nors vis labiau tolo\nnuo pirmykštės Ordino dvasios, bet turėdami pilną iždą pinigų,\ndaug stiprių pilių ir nuolat iš Vakarų Europos plaukiančių jėgų,\nkryžiuočiai kasmet po kelis kartus puldavo Lietuvą, išniokoda­\nmi plačias jos sritis, degindami gyvenamas vietas ir žmones iš­\nsivesdami nelaisvėn. Kęstučiui dar smarkiau, negu pirmtakū­\nnams, tenka gintis nuo Ordino įsiveržimų, nes tada magistro\nvaldžią turėjo veiklus ir energingas vokietis Vinrichas von Kni­\nprodė (1351—1382)."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178972
-    - t-178988
-
 - id: c-162709
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -14973,72 +8344,26 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-179108
 
-- id: c-162712
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Pavaduodamas susirgusį Livonijos magistrą,
-    Eberhard von Seyne^135 (Deutschmeister) pastatė strategiškai svarbią
-    Klaipėdos pilį 1253-1254 m.^136. Ji ne tik gynė svarbų kelią tarp
-    Prūsų ir Livonijos per patogią Kuršių Neringą, bet dar turėjo būti
-    apsauga artėjančioms iš Kuršo į pietus ir nuo kairiojo Nemuno
-    kranto į šiaurę ordino riterių jėgoms, turinčioms sudaryti bendrą tiltą
-    vakarų Žemaičiuose (Baltijos pakraštyje). Nors Klaipėdai nė iš tolo
-    neteko suvaidinti tokios rolės, kuri buvo tekusi prieš lybius ir lat­
-    vius Rygai ar prie Priegliaus — Karaliaučiui (1254 m.), tačiau Klai­
-    pėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, juo labiau, kad
-    Prūsų ordinas XIII amž. galo užvaldė Nemuno deltą.
-  citata_rodoma: "Nors Klaipėdai nė iš tolo\nneteko suvaidinti tokios rolės, kuri buvo tekusi prieš lybius ir lat­\nvius Rygai ar prie Priegliaus — Karaliaučiui (1254 m.), tačiau Klai­\npėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, juo labiau, kad\nPrūsų ordinas XIII amž. galo užvaldė Nemuno deltą."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178839
-
 - id: c-162713
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 17"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
-    Kad Ordino užduotis — kariauti, ypač Prūsijoje bei Lietuvoje, pabrėžiama specialiais
-    skyreliais, kuriuose kiekvienam riterių ginklui suteikiama religinė prasmė: jeigu, pvz.,
-    Ordino broliai, atvykę Prūsų žemėn, griebiasi kalavijo, vadinasi, jie griebiasi dorybių
-    ginklo naujame viešpaties kare prieš velnio žabangas (II, 8—9)  ir t. t. Nuolatos čia
-    pabrėžiama religinė vedamo karo esmė: „...juk čia ne jūsų, bet dievo kova“66.
+    Dusburgietis bando pateikti savotišką
+    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
+    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
+    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų
+    ordino broliai pradėję su jais naują karą (II, 7). Dusburgietis, rašydamas apie lietuvių
+    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
+    prieš Lietuvą (III, 343—346, 357—358).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178924
-
-- id: c-162715
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
-  citata_originali: |
-    Apkaltintas erezija Tamplierių
-    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
-    Paryžiuje 1314 m.69
-      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
-    argumentacijos. Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta
-    atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,
-    apribojama pasaulietiniai brolių poreikiai, aprangos  ir ginklų puošnumas, finansiniai
-    ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
-    vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
-    skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
-    Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6
-    metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius).
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178874
+    - t-196896
 
 - id: c-162719
   autorius: "Michał Baliński"
@@ -15066,26 +8391,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178834
 
-- id: c-162720
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 117"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 117."
-  citata_originali: |
-    Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
-    ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis
-    stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl
-    apsuptieji negalėjo nei įeiti, nei išeiti iš pilies. Vargu ar kas stengtų apsakyti, kiek atrėmė
-    antpuolių, kokių patyrė pavojų, kokį nepakeliamą alkį ir šiaip stygių kentė apsuptieji
-    broliai ir kiti žmonės šiose pilyse. Baisiausio bado kamuojami, kai nebeliko nei avių, nei
-    jaučių, nei kiaulių, nei karvių bei arklių, jie turėjo misti jų odomis.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178878
-
 - id: c-162722
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15110,29 +8415,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179118
     - t-178991
-
-- id: c-162723
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 17"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
-  citata_originali: |
-    Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
-    žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies
-    įvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t. y.
-    septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje
-    įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis
-    šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,
-    Vokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų
-    niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179091
+    - t-179118
 
 - id: c-162726
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -15184,26 +8468,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178820
 
-- id: c-162728
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    _ordinas_ , kuris savo pradžią buvo gavęs 1190 m. Palestinoje prie
-    Akonos apgulimo^74.
-    Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs
-    Mozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo
-    įkyrių prūsų puldinėjimų, iš imperatoriaus Fridricho II (Hohenštau-
-    feno) išsirūpino ordino ateičiai rytuose reikšmingą privilegiją, duotą
-    Rimini, Italijoje, 1226 m. kovo mėnesį.
-  citata_rodoma: "Palestinoje prie\nAkonos apgulimo^74.\nKetvirtasis vokiečių ordino magistras Hermanas Salza, gavęs\nMozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo\nįkyrių prūsų puldinėjimų, iš imperatoriaus Fridricho II (Hohenštau-\nfeno) išsirūpino ordino ateičiai rytuose reikšmingą privilegiją, duotą\nRimini, Italijoje, 1226 m. kovo mėnesį."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179025
-
 - id: c-162733
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15241,46 +8505,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178841
 
-- id: c-162736
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Šitokis buvo kelias į Liublino uniją.
-    Kitados, ypač XIV amž., nuolatiniai ordino žygiai Lietuvon
-    vertė visą kraštą virsti lyg kokia nuolatinio karo stovykla. Ta­
-    čiau karams su kryžiuočiais pasibaigus, baigėsi pavojai iš vakarų
-    pusės.
-  citata_rodoma: "Kitados, ypač XIV amž., nuolatiniai ordino žygiai Lietuvon\nvertė visą kraštą virsti lyg kokia nuolatinio karo stovykla. Ta­\nčiau karams su kryžiuočiais pasibaigus, baigėsi pavojai iš vakarų\npusės."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179107
-    - t-178978
-
-- id: c-162738
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Tik paėmę Kauną, Nemuno žemu­
-    pyje privertę lietuvius pasitraukti nuo krantų, juose prisistatę savo
-    pilių, be to, laimėję prie Rudavos, kryžiuočiai jau pasijuto stipresni.
-    Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o
-    1372 puolė vienu metu iš Prūsų ir Livonijos.
-    Kad būtų galima kiek pailsėti nuo tolimesnių teriojimų, Algir­
-    das su Kęstučiu pradėjo su ordinu derybas.
-  citata_rodoma: "Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o\n1372 puolė vienu metu iš Prūsų ir Livonijos.\nKad būtų galima kiek pailsėti nuo tolimesnių teriojimų, Algir­\ndas su Kęstučiu pradėjo su ordinu derybas."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178884
-    - t-178811
-
 - id: c-162739
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15312,39 +8536,21 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   puslapiai: "PDF 16"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
-    Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
-    įvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,
-    atsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius
-    darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,
-    kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių
-    „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.
+    Toliau
+    Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne
+    Jėzaus Kristaus“, todėl šaukiasi į Kristų, prašydamas suteikti jiems dvasios įžvalgumo,
+    kad būtų „suniekinti visi, kurie tavo tarnams daro bloga“. Taigi autorius siekia išaukštinti
+    jau užmirštus Ordine pirminius idealus.
+    Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems
+    broliams. Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė,
+    stebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).
+  citata_rodoma: "Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų\nįvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,\natsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius\ndarbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,\nkiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių\n„stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178793
-
-- id: c-162744
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 113"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 113."
-  citata_originali: |
-    upės350, žuvo brolis Burchardas, Livonijos magistras351, ir brolis Henrikas Botelis, Prūsijos
-    maršalas, su jais 150 brolių352, o dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų
-    skaičiaus. Po šitokio sutriuškinimo priešai persekiojo bėgančius žmones, kurie spruko
-    taip didžiai išsigandę, kad trys ar keturi priešai nukaudavo šimtą krikščionių arba juos
-    gėdingai išsklaidydavo353. Štai kuriuo būdu sustiprėjo mūsų priešai, laimėję didelį grobį,
-    daug arklių ir ginklų, kuriuos grobstė nukautiems kariams iš rankų, štai kodėl dabar jie
-    puikuojasi savo narsumu.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178920
-    - t-178853
 
 - id: c-162746
   autorius: "Michał Baliński"
@@ -15400,15 +8606,19 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - id: c-162749
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 164"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
+  puslapiai: "PDF 165"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
   citata_originali: |
-    Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro
-    įsakytas, sutelkė visą savo kariuomenę  ir įsiveržė  į Sūduvos žemės valsčių, vardu
-    Pakima495; smarkiai jį nusiaubęs, nudeginęs ir apiplėšęs, paėmęs  į nelaisvę ir išžudęs
-    daugybę žmonių, patraukė atgal ir vakare perėjo su savo kariuomene užšalusį ežerą,
-    vardu Nagutinas496. Rytui išaušus, ledas taip ištirpo, kad niekam nė į galvą nebūtų atėję,
-    jog jie čia perėjo.
+    Tiek kartų jis traukė prieš juos į kovą, kad magistras, būgštaudamas, kad jis nepatirtų
+    didesnio pralaimėjimo, uždraudė jam ateityje juos puldinėti be savo ypatingo leidimo.
+    Klausiamas, dėl ko esąs ant jų taip įtūžęs, atsakydavo: „Man būtų visai nesvarbu, ką
+    su jais darau, jeigu nerūpėtų, kad būčiau jų sužeistas penkiomis žaizdomis, kaip už
+    mane buvo sužeistas Kristus“. Šitaip ir įvyko, nes ilgainiui sūduviai, sužeidę penkiomis
+    žaizdomis, jį nukovė.
+    207 (202). Apie vieno sūduvio atsivertimą ir nuostabų įvykį
+    Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
+    šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido.
+  citata_rodoma: "Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro\nįsakytas, sutelkė visą savo kariuomenę  ir įsiveržė  į Sūduvos žemės valsčių, vardu\nPakima495; smarkiai jį nusiaubęs, nudeginęs ir apiplėšęs, paėmęs  į nelaisvę ir išžudęs\ndaugybę žmonių, patraukė atgal ir vakare perėjo su savo kariuomene užšalusį ežerą,\nvardu Nagutinas496. Rytui išaušus, ledas taip ištirpo, kad niekam nė į galvą nebūtų atėję,\njog jie čia perėjo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -15423,17 +8633,16 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 50."
   citata_originali: |
     Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­
-                                        ta Nesavos pilis
-
-      Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą
-    vyrą  ir pamaldų  brolį Hermaną  iš  Zalcos, Teutonų namų ordino  didįjį magistrą,
-    pranešdamas, kaip  čia tvarkomas jam  patikėtas  reikalas,  nuolankiai prašydamas
+    ta Nesavos pilis
+    Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą
+    vyrą ir pamaldų brolį Hermaną iš Zalcos, Teutonų namų ordino didįjį magistrą,
+    pranešdamas, kaip čia tvarkomas jam patikėtas reikalas, nuolankiai prašydamas
     ir maldaudamas, kad jam atsiųstų daugiau brolių bei ginklanešių (1230). Magistras,
     patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro
     pareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1,
     6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra savo brolius,
     į žemę, kurią viešpats yra jiems pažadėjęs, ir „su tavimi bus dievas“. Be to, maršalu
-    pasiuntė brolį Ditrichą iš Bernheimo, o  į pagalbininkus jam paskyrė brolį Konradą iš
+    pasiuntė brolį Ditrichą iš Bernheimo, o į pagalbininkus jam paskyrė brolį Konradą iš
     Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos
     ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų. Atvykę
     į Fogelzango pilį, jie žemiau pasistatė prie Vyslos Nešavos pilį181.
@@ -15465,64 +8674,30 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178963
 
-- id: c-162752
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
-  citata_originali: |
-    Brolis  Konradas,  magistras,  išmintingas  ir  apdairus  vyras, suprasdamas,  kad,
-    braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos
-    broliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,
-    kuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178920
-
 - id: c-162753
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 196"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
+  puslapiai: "PDF 198"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 198."
   citata_originali: |
-    Po to  ji kiekvieną
-    naktį girdėjo siaubingą bildesį, nelyginant kas kūju būtų daužęs į sieną, ir balsą, kuris
-    sakė: „Henrikai, kelkis melstis, nes tavo broliai jau pakirdę“. Moteris, tiek kartų ir taip
-    smarkiai bauginama siaubingų bildesių, daugel sykių gąsdinama stebuklingų balsų,
-    nebeturėjo jėgų ilgiau priešintis šventam vyro sumanymui, todėl ir nusileido, duodama
-    jam valią stoti į bet kurį vienuolyną. Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą,
-    davė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus
-    piktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.
+    Tačiau brolių vėliava su savo
+    sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis
+    grafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti į riterius. Kai brolių
+    kariuomenė patraukė atgal, ji surengė pasalas ir nukovė daugiau nei 20 lietuvių, kurie
+    juos persekiojo. Daug ką šiame žygyje sudeginę, nukovė ar paėmė į nelaisvę tūkstantį
+    netikėlių.
+    290 (283). Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
+    Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,
+    patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis
+    pilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten
+    įsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė į nelaisvę ir dar kartą iki
+    pamatų sugriovė pilį.
+  citata_rodoma: "Po to  ji kiekvieną\nnaktį girdėjo siaubingą bildesį, nelyginant kas kūju būtų daužęs į sieną, ir balsą, kuris\nsakė: „Henrikai, kelkis melstis, nes tavo broliai jau pakirdę“. Moteris, tiek kartų ir taip\nsmarkiai bauginama siaubingų bildesių, daugel sykių gąsdinama stebuklingų balsų,\nnebeturėjo jėgų ilgiau priešintis šventam vyro sumanymui, todėl ir nusileido, duodama\njam valią stoti į bet kurį vienuolyną. Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą,\ndavė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus\npiktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178920
-
-- id: c-162757
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 19"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
-  citata_originali: |
-    taip pat patiems valdovams72. Kronika turėjo būti oficialiu Ordino šlovės paminklu73.
-
-
-
-
-                       Kronikos rankraščiai, publikacijos, tyrinėjimai
-
-      Dusburgiečio kronikos originalas — XIV a. rankraštis — neišliko.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178875
     - t-178920
 
 - id: c-162758
@@ -15583,18 +8758,23 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   puslapiai: "PDF 93"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 93."
   citata_originali: |
-    Brolis Poponas, magistras, matydamas, kaip sumaniai minėtasis kunigaikštis  tai
-    vienur, tai kitur tvirtina pilis, ir norėdamas apsisaugoti nuo būsimų pavojų, kalvoje tarp
-    dabartinio Kulmo miesto ir senosios pilies pastatė naują, kurią praminė nuo tos kalvos
-    vardo Poterbergu287 ir kurioje paliko 12 brolių ir daug ginklanešių. Pilį pastatė tam, kad
-    nesumanytų šioje kalvoje ko statyti Sventopelkas ir šitaip nebūtų buvusi padaryta nauja
-    klaida, kur kas didesnė nei ankstesnė.
+    Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
+    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo į sienas, taip
+    ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
+    Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
+    pasitraukė sugėdintas. Nemanyk, kad šitaip nutiko čia vieną kartą, šitaip dažnai buvo
+    ir kitose vietose, kur, vyrams išvykus, tvirtovės būtų buvusios prarastos, jeigu moterų
+    drąsa jų nebūtų apgynusi.
+    49(48). Apie vieną Sventopelko karį
+    Sventopelko šeimynoje buvo vienas karys, kuriam Teutonų ordino broliai įvarė tokį
+    siaubą, kad visas imdavo virpėti vos išgirdęs minint jų vardą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178822
+    - t-196904
 
 - id: c-162762
   autorius: "Petras Dusburgietis"
@@ -15603,12 +8783,11 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Apie Svečės pilies pastatymą ir jos užpuolimą
-
-      Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją
+    Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją
     su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Kokie keisti, kokie
     be galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis
     žemino tikėjimą ir tikinčiuosius! Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo
-    sosto legatą  ir didįjį magistrą, pranešdami jiems apie naują karą  ir Prūsijos žemės
+    sosto legatą ir didįjį magistrą, pranešdami jiems apie naują karą ir Prūsijos žemės
     padėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
     įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
     klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
@@ -15621,8 +8800,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179119
     - t-178920
+    - t-179119
 
 - id: c-162766
   autorius: "Petras Dusburgietis"
@@ -15631,12 +8810,11 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 100."
   citata_originali: |
     Apie Kristburgo pilies atstatymą
-
-      Magistras ir broliai, giliai susikrimtę dėl šio apverktino įvykio, nusprendė, kad kitaip
+    Magistras ir broliai, giliai susikrimtę dėl šio apverktino įvykio, nusprendė, kad kitaip
     nepalenksi šių kietasprandžių netikėlių tikėjimui, kaip tik tada, kai šios klastingos giminės
-    viduryje [in medio nationis] būsianti pastatyta  pilis,  iš kurios galėsią juos kasdien
+    viduryje [in medio nationis] būsianti pastatyta pilis, iš kurios galėsią juos kasdien
     puldinėti. Todėl, sukvietę daugybę maldininkų, kurie, pastoviai raginami į kryžiaus karą,
-    nuolat čia traukė iš įvairių Vokietijos kraštų, broliai pasuko  į Pamedės žemę pasiėmę
+    nuolat čia traukė iš įvairių Vokietijos kraštų, broliai pasuko į Pamedės žemę pasiėmę
     visa, kas reikalinga pilims statyti. Pakeitę vietą, bet ne vardą, Jėzaus Kristaus garbei ir
     šlovei jie pastatė Kristburgo pilį toje vietoje, kur ji ir dabar tebėra304, sutvirtinę ją viskuo,
     kas reikalinga pilims ginti, ir palikę joje daug karių. Šiek tiek vėliau, bėgant dienoms ir
@@ -15647,8 +8825,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178857
     - t-178851
+    - t-178857
 
 - id: c-162767
   autorius: "Petras Dusburgietis"
@@ -15696,36 +8874,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-179050
 
-- id: c-162772
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Viename jų, skirtame popiežiui ir kardinolams, Gediminas
-    prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta
-    būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­
-    ro smurtas ir nesuskaičiuojamos išdavystės greit privertu-
-    sios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­
-    mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos
-    arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­
-    riai nužudyti. Tiesa, arkivyskupui Isamui tarpininkaujant,
-    tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­
-    dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­
-    keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­
-    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
-    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
-    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
-    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
-    ti pasiuntė.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178883
-    - t-179048
-    - t-194173
-
 - id: c-162774
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15752,61 +8900,24 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-178814
 
-- id: c-162775
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    19 d. Urbo­
-    nas VI Lietuvą jau oficialiai pripažino katalikišku kraštu.
-    Nors kryžiuočiai dar iki pat Tannenbergo kautynių lietuvius
-    Vakarų Europai pristatydavo kaip pavojingus rytų « saracėnus »,
-    kryžiaus karų šauksmas savaime turėjo pamažu nutilti. Drauge
-    išnyko ir tituluotų pilgrimų žygiai į «Litauerreisen».
-  citata_rodoma: "Urbo­\nnas VI Lietuvą jau oficialiai pripažino katalikišku kraštu.\nNors kryžiuočiai dar iki pat Tannenbergo kautynių lietuvius\nVakarų Europai pristatydavo kaip pavojingus rytų « saracėnus »,\nkryžiaus karų šauksmas savaime turėjo pamažu nutilti. Drauge\nišnyko ir tituluotų pilgrimų žygiai į «Litauerreisen»."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179006
-
-- id: c-162780
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Palestinoje prie
-    Akonos apgulimo^74.
-    Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs
-    Mozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo
-    įkyrių prūsų puldinėjimų, iš imperatoriaus Fridricho II (Hohenštau-
-    feno) išsirūpino ordino ateičiai rytuose reikšmingą privilegiją, duotą
-    Rimini, Italijoje, 1226 m. kovo mėnesį. Jos dėka ordinui, su Reicho
-    kunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­
-    ninku užkariausimoje prūsų žemėje.
-  citata_rodoma: "Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs\nMozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo\nįkyrių prūsų puldinėjimų, iš imperatoriaus Fridricho II (Hohenštau-\nfeno) išsirūpino ordino ateičiai rytuose reikšmingą privilegiją, duotą\nRimini, Italijoje, 1226 m. kovo mėnesį. Jos dėka ordinui, su Reicho\nkunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­\nninku užkariausimoje prūsų žemėje."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179029
-
 - id: c-162781
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 75"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
   citata_originali: |
-    Šioje pilyje
-    gyveno vienas brolis, kuris, velnio klastingai sugundytas, kuo tvirčiausiai buvo įsitikinęs,
-    kad negalėsiąs Teutonų namų ordine savo sielos išganyti, dėl to sumanė stoti į griežtesnį
-    ordiną. Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
-    Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
-    priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė
+    Galop atėjo švenčiausioji mergelė
     Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
-    vis dėlto leistų pasilikti savo brolių bendrijoje.
+    vis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,
+    nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
+    taip kentėti, kaip trokšti“. Pakėlusi kiekvienam broliui apsiaustą, ji parodė jų žaizdas ir
+    randus, kurių jiems nešykštėjo netikėliai, kai gynė tikėjimą, ir pasakė: „Ar tau dabar
+    neatrodo, kad štai šie tavo broliai yra šiek tiek kentėję dėl Jėzaus Kristaus vardo“. Jai
+    tarus šiuos žodžius, regėjimas dingo. Tas brolis pakirdęs atsikvošėjo, nuėjo į kapitulą,
+    kur buvo susirinkę broliai, ir dabar, daugiau supratęs bei patyręs, nuolankiai atšaukė
+    savo klaidingą nuomonę ir atsisakė savo sumanymo, kurį anksčiau lengvapėdiškai buvo
+    priėmęs, ir visiems papasakojo matytą regėjimą.
+  citata_rodoma: "Šioje pilyje\ngyveno vienas brolis, kuris, velnio klastingai sugundytas, kuo tvirčiausiai buvo įsitikinęs,\nkad negalėsiąs Teutonų namų ordine savo sielos išganyti, dėl to sumanė stoti į griežtesnį\nordiną. Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir\nAugustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo\npriimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė\nMarija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam\nvis dėlto leistų pasilikti savo brolių bendrijoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -15822,7 +8933,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_originali: |
     Kai brolis
     Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.
-    Kai sugrįžo išbalęs ir priblokštas  į savo pilį, papasakojo visa, ką matęs, savo žmonai,
+    Kai sugrįžo išbalęs ir priblokštas į savo pilį, papasakojo visa, ką matęs, savo žmonai,
     kilmingai, jaunai ir švelniai moteriai, kuri, jo paprašyta skyrybų, ryžtingai atsisakė. Kai
     jis kurį metą nelyginant dvejojo, ar pajėgs tesėti savo įžadus, velnias, žmonių giminės
     priešas, kuriam tūkstančiai kelių kenkti žmogui, norėdamas jį sulaikyti nuo šių šventų
@@ -15835,50 +8946,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178821
-
-- id: c-162783
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­
-    jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­
-    kos sėkmingos, didysis magistras Konradas Ciolneris Ro-
-    tenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų
-    rugpjūtį ties Kaunu persikėlė per Nemuną ir ėmė siautėti
-    visame krašte. Vilnius, tiesa, turėdamas tvirtovėse labai stip­
-    rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
-    ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
-    kotos. Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
-    Ordino riterių kirstas pagoniškai Lietuvai.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179123
-
-- id: c-162785
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 257"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
-  citata_originali: |
-    20. Apie didžiojo magistro mirtį
-
-      Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
-    18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
-    paties nedorybių, nužudė brolį Vernerį, didįjį magistrą, kai tas, atgiedojęs mišparus, ėjo
-    iš bažnyčios, o nužudė todėl, kad tas jį bardavo už jo nusižengimus. O Jonai brolžudy,
-
-    Pastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—
-    Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179081
 
 - id: c-162789
   autorius: "Michał Baliński"
@@ -15947,65 +9014,26 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-179088
 
-- id: c-162791
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
-  citata_originali: |
-    Apie Baigos brolių vienuolišką gyvenimą
-
-      Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių
-    paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų
-    regulų laikėsi Baigos bei kitų minėtųjų pilių broliai. Niekad arba beveik niekad netruko čia
-    maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar
-    rytmetinių pamaldų tas ar kitas brolis neplaktų rykštėmis savo kūno. Kai kurie vienuoliai,
-    atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė,
-    kuo vardu jų pilis. Kai jiems atsakė, jog Engelsbergas, tai yra Angelų kalnas, šie atrėžė:
-    „Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai“.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179122
-
 - id: c-162792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 41"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
-    Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.
-    Jo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame
-    Ordine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos
-    šeimose. Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir
-    pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų
-    šio Ordino vienuoli© apsiaustą.
+    Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
+    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
+    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
+    Jo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo
+    girdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno
+    žmogaus pastangomis. Neverta dėl to stebėtis. Dievas jam buvo suteikęs tokių malonių,
+    kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
+  citata_rodoma: "Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.\nJo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame\nOrdine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos\nšeimose. Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir\npats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų\nšio Ordino vienuoli© apsiaustą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178807
-
-- id: c-162793
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Kryžiuo­
-    čiams liko ištikimos 8 pilys — jų tarpe Ragainės ir Klaipėdos. Po
-    pirmo katastrofos smūgio ordinas tačiau ėmė atsipeikėti. Kai
-    Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko
-    apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės
-    jau nebeįstengė paimti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178865
 
 - id: c-162795
   autorius: "Petras Dusburgietis"
@@ -16038,16 +9066,17 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   puslapiai: "PDF 47"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
-    Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
-    Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
-    užjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino
-    viešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai
-    sudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už
-    kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
-    priklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite
+    58—59): „Prisirenkite
     ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš
-    mus sunaikinti mūsų  ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti
-    mūsų tautos ir šventovės nelaimes14.
+    mus sunaikinti mūsų ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti
+    mūsų tautos ir šventovės nelaimes14. Stiprindamas jų kilnias širdis, jis guodė juos šiais
+    viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš
+    savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant
+    negu tavoji, nebijok jųjų, nes viešpats, tavo dievas, yra su tavimi“, be to, pridurdamas
+    (Ist 20. 3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų
+    širdis, nebijokite, nesitraukite ir nepabūkite jųjų, nes viešpats, jūsų dievas, yra jūsų
+    tarpe, jis kovos už jus prieš visus priešus, kad jus išgelbėtų iš pavojaus“.
+  citata_rodoma: "Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie\nLenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,\nužjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino\nviešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai\nsudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už\nkančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims\npriklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite\nir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš\nmus sunaikinti mūsų  ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti\nmūsų tautos ir šventovės nelaimes14."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -16133,6 +9162,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   puslapiai: "PDF 166"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
+    Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
     Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
     pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
     kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
@@ -16140,66 +9170,14 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     šio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu
     grobiu sugrįžo namo. Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per
     šią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė
-      499  Plg. pasakojimą apie Skomanto mirtį (D. III, 224).
+    499  Plg. pasakojimą apie Skomanto mirtį (D. III, 224).
+  citata_rodoma: "Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų\npradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo\nkariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,\nkurį niokojo, degindamas ir grobdamas. Be kita ko, sudegino Skomanto, galingo vyro bei\nšio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu\ngrobiu sugrįžo namo. Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per\nšią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė\n  499  Plg. pasakojimą apie Skomanto mirtį (D. III, 224)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178851
-
-- id: c-162813
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    K. Požėlos spaustuvė, Kaunas
-
-
-    Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą
-            „LIETUVIŲ LITERATŪROS KLASIKOS KŪRINIŲ PERKĖLIMAS
-                               Į ELEKTRONINĘ ERDVĘ“, 2013
-
-    TURINYS
-
-    Pratarmė                                           5
-    Petro Dusburgiečio kronika                            7
-    PRŪSIJOS ŽEMĖS KRONIKA                           32
-      Pirma knygos dalis                                                36
-      Antra knygos dalis                                                42
-       Trečia knygos dalis                                                52
-       Ketvirta knygos dalis (Apie įvykius)                                  225
-      Papildymas                                                     252
-    Bibliografija                                      259
-    Asmenvardžių rodyklė                              279
-    Vietovardžių, etnonimų ir kai kurių istorijos dalykų rodyklė 298
-
-    PETRI DE DUSBURG
-
-
-    CHRONICA TERRAE
-        PRUSSIAE
-
-    Lituanistinė biblioteka
-
-    Pratarmė
-
-
-
-      XIV a. trečiajame dešimtmetyje Lietuvos valstybei, Gedimino vyriausybei vedant
-    sėkmingą karinę  ir diplomatinę kovą prieš Kryžiuočių ordino agresiją, Vakarų
-    Europoje pasigirdo kritiškų balsų Ordino atžvilgiu. Siekdamas pagrįsti kryžiuočių
-    užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
-    Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
-    kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
-    valstybės kūrinys.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178864
-    - t-179081
 
 - id: c-162816
   autorius: "Michał Baliński"
@@ -16278,25 +9256,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-179105
 
-- id: c-166303
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
-  citata_originali: |
-    Lenkija
-    atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
-    Elbingą, Marijenburgą ir visą Varmijos vyskupystę. Smarkiai
-    apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per-
-    kėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne
-    tik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų
-    kunigaikštijai.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-182899
-
 - id: c-166529
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16309,12 +9268,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
     vėliau įkūrė Prūsijos valstybę.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183144
-
 - id: c-167268
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -16323,20 +9280,18 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_originali: |
     Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
     apreikšti dievo darbus yra šlovinga.
-      Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
+    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
     tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
-    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau  į
+    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
     šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
     negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
     kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
     atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183883
-
 - id: c-167270
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -16359,7 +9314,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183885
     - t-178851
 
 - id: c-167604
@@ -16376,62 +9330,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     to nedarė, matyti bijojo, kad girioje galėjo būti dar daug pasi­
     slėpusios kariuomenės.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184219
-
-- id: c-167849
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Užleidęs
-    valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes
-    nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa­
-    žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris
-    savo dėdei atsimokėjęs klastingu nužudymu. Nors Jo­
-    gaila nusipelnęs lenkų pagarbos už Krėvos uniją ir
-    27
-
-    ## Puslapis 26
-
-    Lietuvos krikštą, tačiau jo klastingumas, prie kurio
-    priskiriami ir slapti sandėriai su kryžiuočiais, morališ­
-    kai nepateisinami.
-    Kovojant su priešu, klasta gali būti pateisinama,
-    bet ne tarp savųjų, ypač artimų giminaičių.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184488
-
-- id: c-167850
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 58."
-  citata_originali: |
-    Plaukdami prieš srovę į krašto gilumą, prie Dubysos
-    žiočių, patogioje vietoje, pakrantėmis išsidriekusioje
-    gražioje lygumoje, padėjo savo naujos sodybos pama­
-    tus. Toji sodyba, tada vadinama R om a n o va , paskui
-    Romnove bei Romove, vėliau tapo vyriausiojo lietuvių
-    žynio Krivės Krivaičio būstine, kurią, Gediminui vieš-
-    pataujaut, iš pamatų išgriovė vokiečių ordino vienuo­
-    liai riteriai, paprastai vadinami kryžiuočiais. Gerokai
-    pasistūmėję tolyn, jie persikėlė per Nevėžio upę ir
-    nusigavo į vietas, kur gyveno alanai, arba lietuviai.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184489
-
 - id: c-167851
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -16459,71 +9361,22 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-184490
 
-- id: c-167852
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 106"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 106."
-  citata_originali: |
-    Pats va­
-    das, praradęs kariuomenę, pateko į priešų rankas. Po
-    šių pergalių iš kryžiuočių buvo atimti Heilsbergo,
-    Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.
-    Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
-    latos siaubė Mindaugo karvedžiai, ten vyko kovos prie
-    Lielvardės pilies Dauguvos pakrantėse, tačiau kokia
-    norėdamas turėti laisvesnes
-    rankas, atnaujino santarvę su rusais, ir tuo būdu tapo
-    užmegzta rusų ir lietuvių
-    vo kunigaikščio vaikaitis, palydėjo Mindaugą į žygį
-    Mazovijos žemėn.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184491
-
 - id: c-167853
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 130."
   citata_originali: |
-    Be to, jie paėmė nemažą grobį ir
-    Prūsijoje, tačiau prūsų padėtis po kelių sėkmingų žy­
-    gių prieš kryžiuočius gerokai sustiprėjo: jie menkai pa­
-    juto nuostolius, juo labiau kad sunkesnių plėšikiškų
-    antpuolių atveju čia pat stovėjo pasirengę padėti lie­
-    tuvių ir žemaičių būriai. Atrodė, jog kryžiuočiams šį
-    5*
-    131
-
-    ## Puslapis 130
-
     1274 m eta i
     Ž em a ičia i gina p r ū ­
-    sus ir m u ša  k r y ž iu o ­
+    sus ir m u ša k r y ž iu o ­
     čius
     karą pavyks užbaigti tada, kai sutrauks iš karto visas
     jėgas ir neleis priešui kokiu nors būdu pasinaudoti sve­
     tima pagalba. Tuo metu kryžiuočių riterių magistras
     buvo Henrikas: jis pirmiausia atnaujino santarvę su
     Germantu, reikalaudamas, kad šis prisiektų, jog lietu­
-    viai bei žemaičiai nesikiš j prūsų karą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184492
-
-- id: c-167854
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 130."
-  citata_originali: |
-    Dėl tos pačios
+    viai bei žemaičiai nesikiš j prūsų karą. Dėl tos pačios
     priežasties valdovas neleido viešai teikti prūsams ko­
     kios pagalbos prieš kryžiuo­
     čius, tačiau nieko negalėjo
@@ -16536,6 +9389,27 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     galbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi­
     somis jėgomis ėmus juos pulti, neišdrįso atvirai pra­
     dėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir
+    gurguoles, išsislapstė artimiausiuose miškuose.
+  citata_rodoma: "Be to, jie paėmė nemažą grobį ir\nPrūsijoje, tačiau prūsų padėtis po kelių sėkmingų žy­\ngių prieš kryžiuočius gerokai sustiprėjo: jie menkai pa­\njuto nuostolius, juo labiau kad sunkesnių plėšikiškų\nantpuolių atveju čia pat stovėjo pasirengę padėti lie­\ntuvių ir žemaičių būriai. Atrodė, jog kryžiuočiams šį\n5*\n131\n\n## Puslapis 130\n\n1274 m eta i\nŽ em a ičia i gina p r ū ­\nsus ir m u ša  k r y ž iu o ­\nčius\nkarą pavyks užbaigti tada, kai sutrauks iš karto visas\njėgas ir neleis priešui kokiu nors būdu pasinaudoti sve­\ntima pagalba. Tuo metu kryžiuočių riterių magistras\nbuvo Henrikas: jis pirmiausia atnaujino santarvę su\nGermantu, reikalaudamas, kad šis prisiektų, jog lietu­\nviai bei žemaičiai nesikiš j prūsų karą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184492
+    - t-196078
+
+- id: c-167854
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 130."
+  citata_originali: |
+    Nusiaubę Kulmo kraš­
+    tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa­
+    galbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi­
+    somis jėgomis ėmus juos pulti, neišdrįso atvirai pra­
+    dėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir
     gurguoles, išsislapstė artimiausiuose miškuose. Kry­
     žiuočių riteriai, džiaugdamie­
     si nekruvina pergale, tuojau
@@ -16544,13 +9418,24 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     vyklos plėšti; jie puolė, ne­
     pasirūpinę saugumu, vytis paskutiniųjų priešo būrių
     ir apskritai elgėsi, nelyginant bet koks pavojus būtų
-    praėjęs.
+    praėjęs. Kai prūsai ir žemaičiai, kurie pabėgę slapstė­
+    si netoli stovyklos brūzgynuose, tykodami progos su­
+    rengti pasalas, iš žvalgų sužinojo, jog priešas, jausda­
+    masis išvargęs po žygio ir saugus po pergalės, plėši­
+    kauja visiškai nesirūpindamas apsauga, tai, kariškai
+    staiga susirikiavę, iššoko iš miškų ir užpuolė grobio
+    ieškotojus, juos žudydami. Tada kryžiuočiai patyrė di­
+    delį pralaimėjimą: jie neteko kariuomenės, kautynėse
+    krito karo vadai magistras Henrikas ir maršalas Dit-
+    richas.
+  citata_rodoma: "Nusiaubę Kulmo kraš­\ntą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa­\ngalbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi­\nsomis jėgomis ėmus juos pulti, neišdrįso atvirai pra­\ndėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir \ngurguoles, išsislapstė artimiausiuose miškuose. Kry­\nžiuočių riteriai, džiaugdamie­\nsi nekruvina pergale, tuojau \npat be jokios tvarkos išsi­\nsklaidė grobio ieškoti ir sto­\nvyklos plėšti; jie puolė, ne­\npasirūpinę saugumu, vytis paskutiniųjų priešo būrių \nir apskritai elgėsi, nelyginant bet koks pavojus būtų \npraėjęs. Kai prūsai ir žemaičiai, kurie pabėgę slapstė­\nsi netoli stovyklos brūzgynuose, tykodami progos su­\nrengti pasalas, iš žvalgų sužinojo, jog priešas, jausda­\nmasis išvargęs po žygio ir saugus po pergalės, plėši­\nkauja visiškai nesirūpindamas apsauga, tai, kariškai \nstaiga susirikiavę, iššoko iš miškų ir užpuolė grobio \nieškotojus, juos žudydami."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184493
+    - t-196079
 
 - id: c-167855
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -16559,7 +9444,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 159."
   citata_originali: |
     Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
-    D o b iy n ą , ž u d o  k i y -
+    D o b iy n ą , ž u d o k i y -
     nių ir plėšimo, žuvo liepsno-
     devynis tūkstančius belaisvių. Su kryžiuočiais kautasi
     atvirame lauke: mūšyje krito ordino magistras Bur-
@@ -16588,9 +9473,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   puslapiai: "PDF 176"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 176."
   citata_originali: |
-    Toje stovykloje kartu su ry-
-    giečiais buvo keturi tūkstančiai karių, kurie ryžtingai
-    spaudė apgultuosius. Sėkmingai užbaigti kovos nedavė
+    Sėkmingai užbaigti kovos nedavė
     Bertoldas Briuhavenas, Karaliaučiaus komtūras, pasiųs­
     tas pagalbon į Livoniją su Prūsijos kryžiuočių daliniu:
     užpuolęs su nepavargusia kariuomene sunkios apgul-
@@ -16613,6 +9496,17 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     Prūsiją
     pasiieškoti
     grobio.
+    Šis žygis iš pradžių labai se­
+    kėsi. Be kitos priešui padarytos žalos, apiplėšė Strais-
+    bergo miestą rugsėjo pabaigoje per šventą Mykolą:
+    žuvo daugybė žmonių, gausiai susirinkusių į bažnyčias.
+    Pridarė ten lietuviai daug siaubingų šventvagysčių
+    krikščionių šventyklose, bjauriai išniekino šventuosius
+    indus; vis dėlto retai kada po tokių nusikaltimų ilgai
+    užtrunka bausmė; grįždami atgal, šventvagiškieji plė­
+    šikai patyrė kerštą už dievybės paniekinimą: Kulmo
+    komtūras Konradas Žakas juos visus ligi vieno išžudė.
+  citata_rodoma: "Toje stovykloje kartu su ry-\ngiečiais buvo keturi tūkstančiai karių, kurie ryžtingai\nspaudė apgultuosius. Sėkmingai užbaigti kovos nedavė\nBertoldas Briuhavenas, Karaliaučiaus komtūras, pasiųs­\ntas pagalbon į Livoniją su Prūsijos kryžiuočių daliniu:\nužpuolęs su nepavargusia kariuomene sunkios apgul-\nties išsekintus lietuvius, nugalėjo juos ir išvaikė; dau­\ngybė žuvo, daugybė nuskendo upėje, per kurią bėg­\ndami turėjo keltis. Šiek tiek vėliau Vytenis, gal bijo­\ndamas, kad po jo pergalės pablogėjusi Livonijos ordino\npadėtis, Prūsijos kryžiuočiams suteikus pagalbą ko­\nvoje prieš Rygą, nesustiprėtų, gal norėdamas gandais\napie vidaus sąmyšius atgrasinti Prūsijos kryžiuočius\nnuo karo Livonijoje, o gai trokšdamas atsiteisti už pra­\nlaimėjimą, kurį patyrė prie Nojermiuieno sumušta jo\nkariauna,\npasiuntė\nkeletą\nP rū sija\nn io k o ja m a\nlengvosios raitijos būrių į\nlie tu v ių\nPrūsiją\npasiieškoti\ngrobio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -16636,7 +9530,11 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     to, vylėsi badu priversiu pasiduoti. Tuo tarpu Gedimi­
     nas, norėdamas padėti apsuptai Veliuonai, su didelėmis
     jėgomis užpuolė Fridburgą ir Bajerburgą; jis laikė šias
-    pilis apsuptas ištisas dvidešimt dienų.
+    pilis apsuptas ištisas dvidešimt dienų. Artėdami prie
+    gynybinio pylimo, lietuviai čia patyrė smarkų pralai­
+    mėjimą, nes buvo pavartoti ligi tol neregėti negirdėti
+    ginklai.
+  citata_rodoma: "Sugrįžo jis lydimas naujų kariaunų, kurias\niš Bavarijos buvo atvedęs kunigaikštis Henrikas, vis\ndėlto, ankstesnio pralaimėjimo pamokytas, neišdrįso\nstoti į atvirą kovą ir pulti. Skubotai iš abiejų pilies pu­\nsių pastatę įtvirtinimus ir įkurdinę juose stiprias įgu­\nlas, kryžiuočiai, patys nelyginant ilsėdamiesi, pradėjo\nkamuoti pilėnus apsuptimi: neleisdami atsivežti mais­\nto, vylėsi badu priversiu pasiduoti. Tuo tarpu Gedimi­\nnas, norėdamas padėti apsuptai Veliuonai, su didelėmis\njėgomis užpuolė Fridburgą ir Bajerburgą; jis laikė šias\npilis apsuptas ištisas dvidešimt dienų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -16659,7 +9557,11 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     žosi galop pristabdyti ją, prašydami paliaubų. Lietuviai
     grąžinta Žemaitijos dalis, užimta kryžiuočių, ir lietu­
     viams perleistos netoli Veliuonos šių jau atstatytos pi­
-    lys.
+    lys. Mielai su šiomis taikos sąlygomis sutikus Ditri-
+    chui fon Altenburgui (pavaduodamas magistrą, jis
+    tada valdė Prūsiją), Algirdas išsivedė grobio prisikro­
+    vusią nepergalimą kariuomenę į tėvynę.
+  citata_rodoma: "Visos žemės tarp Karaliaučiaus, Baltijos įlan­\nkos, Elbingo, Marienburgo, Elsbergo, visa Semba, No-\ntanga, Varmė ir dalis Pamedės degė nelyginant vienas\nlaužas, virsdamos pelenais ir dūmais. Kryžiuočiai iš pi­\nlių stebėjo ugnimi siaubiamas apygardas; negalėdami\nnei klasta, nei jėga nukreipti šios audros į šalį, jie ry­\nžosi galop pristabdyti ją, prašydami paliaubų. Lietuviai\ngrąžinta Žemaitijos dalis, užimta kryžiuočių, ir lietu­\nviams perleistos netoli Veliuonos šių jau atstatytos pi­\nlys."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -16678,7 +9580,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     ma ugnimi padegę pastatus,
     K ry žiu o č ia i u žim a ir
     kryžiuočiai palaužė atkaklų
-    išg ria u n a  K au n ą
+    išg ria u n a K au n ą
     gynėjų priešinimąsi ir už­
     ėmė pilį. Nemaža jų žuvo,
     kai, veržiantis prie įtvirtinimų, juos užgriuvo pakasta
@@ -16701,7 +9603,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   puslapiai: "PDF 245"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 245."
   citata_originali: |
-    Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­
+    Pilies įgulą sudarė trys tūkstančiai rink­
+    tinių karių, apie kurių graudžią mirtį degančios pilies
+    liepsnose paprasti žmonės dar ir dabar tebegieda rau­
+    das. Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­
     tučio sūnumi, gyvi pakliuvo į nelaisvę. Pagerbdami
     didelę šventę,, kitą dieną kryžiuočiai praleido ramiai,
     tačiau trečią dieną iki pat pamatų sugriovė kur ne
@@ -16717,6 +9622,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184500
+    - t-196081
 
 - id: c-167862
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -16724,7 +9630,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   puslapiai: "PDF 245"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 245."
   citata_originali: |
-    Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
+    Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­
+    nos pilis: pirmąją išsigandę gynėjai atidavė be kovos,
+    antrąją paėmė po keturias dienas užtrukusios apgul-
+    ties. Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
     desnė nelaimė — badas, siau-
     B adas L ie tu v o je
     binga našta užgulęs visą Lie­
@@ -16738,44 +9647,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
     Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti­
     joje tapo visai sunaikintos.
+  citata_rodoma: "Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­\ndesnė nelaimė — badas, siau-\nB adas L ie tu v o je\nbinga našta užgulęs visą Lie­\ntuvą, galimas daiktas, dėl to,\nkad tais metais apskritai visur buvo blogas oras, net­\ngi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­\nlatinių priešo antpuolių iš baimės niekas nebedirbo\nžemės ar iš viso nebuvo kam ją dirbti. Neatnešė ato­\nkvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs\nparamos iš Bavarijos grafo Volfgango ir Livonijos\nkryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:\nAriogalos, Pernaravos ir Labūnavos žemės Žemaiti­\njoje tapo visai sunaikintos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184501
-
-- id: c-167863
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Nutaikęs progą, nuskubėjo į Marienbur­
-    gą, jam priklausomą pilį, ir netikėtai užpuolė gretimąjį
-    Ritersverderį. Palaužęs menką nepasirengusių kovai
-    gynėjų pasipriešinimą, užėmė tvirtovę, visus nelaisvėn
-    328
-
-    ## Puslapis 327
-
-    pakliuvusius vokiečių pirklius bei karius įsakė išžudyti,
-    o kūnus sumesti į čia pat tekantį Nemuną; žymiuosius
-    kryžiuočius išsivedė su savi-
-    U žp u o la ir sugriauna
-    mi. Bematant pasklidęs gan-
-    k ry žiu o č ių  pilis
-    das apie šį susidorojimą pas­
-    katino gretimų tvirtovių vir­
-    šininkus griebtis ginklo; nebijodami nedidelio Vytauto
-    būrio, o gal tikėdamiesi atsiimti grobį, jie skubiai pa­
-    siuntė raitelių būrį ir pradėjo drąsiai vytis Vytautą,
-    traukiantį toliau į Lietuvą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184502
 
 - id: c-167864
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -16788,7 +9666,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa­
     sienį, o iš ten pasieniu vežimais nugabenti viską į Lie­
     tuvą. Užgrobę visus grūdus,
-    J ie  su daro k elia s pro-
+    J ie su daro k elia s pro-
     gabenamus Vysla, kryžiuočiai
     gas karu i
     juos išsivežė kitur. Kai kara­
@@ -16810,30 +9688,29 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   puslapiai: "PDF 370"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 370."
   citata_originali: |
-    Mat nors jie gerai žinojo, jog lietu­
+    Užgrobę visus grūdus,
+    J ie su daro k elia s pro-
+    gabenamus Vysla, kryžiuočiai
+    gas karu i
+    juos išsivežė kitur. Kai kara­
+    lius, pasiuntęs žygūną, parei­
+    kalavo nelaužyti susitarimo ir nedaryti skriaudų, šie
+    atrėžė, jog elgtasi jų teisingai ir teisėtai, nes atėmė
+    tai, ką karalius siuntė stabmeldžių tautai, kovojančiai
+    prieš krikščionis. Mat nors jie gerai žinojo, jog lietu­
     vių tauta su savo didikais daugiau kaip prieš dvidešimt
     metų priėmė krikščionybę, tačiau po senovei juos va­
     dino stabmeldžiais, tariamu dievobaimingumu mulkin­
     dami krikščioniškųjų šalių valdovus (ir net pačius Ro­
     mos popiežius), dėl kurių paramos ar nuolaidžiavimo
-    ir galėjo tose žemėse kariauti. Kadangi karalius nesi­
-    ėmė jokių skubių priemonių atsiteisti už šiuos darbus,
-    nenorėdamas elgtis neapgalvotai, kryžiuočiai, tarytum
-    negalėdami pakęsti beveik ištisus metus trunkančios
-    ramybės ir to, kad dėl karaliaus nuolaidumo nuolatos
-    atidėliojamas karas, užpuolė Prūsijoje, Ragainėje, lie­
-    tuvių pirklius, kurie čia pagal sutartį ramiai gyveno;
-    vienus nužudė, o iš kitų atėmė visą turtą. Vytautas,
-    gavęs apie tai žinią, nutarė užbėgti priešui už akių
-    gal dėl to, kad iš prigimties buvo smarkesnio būdo, o
-    gal todėl, kad, žinodamas tikrą padėtį, nieku būdu ne­
-    sitikėjo iš kryžiuočių taikos.
+    ir galėjo tose žemėse kariauti.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184504
+    - t-196082
 
 - id: c-167866
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -16902,7 +9779,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     siūlomas taikos sąlygas, pasi-
     S u sitik im a s d ė l tai-
     pūtėliškai reikalaudami visos
-    k o s  a tn eša  k a rą
+    k o s a tn eša k a rą
     Žemaitijos, susitikimas neat­
     nešė jokios naudos, ir netru­
     kus kryžiuočiai iš pasalų pradėjo atvirą karą. Pasibai­
@@ -16930,7 +9807,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     K araliu s
     išv e n g ia
     rankas, tik narsi jo palyda
-    k ry ž iu o č ių  pasalų
+    k ry ž iu o č ių pasalų
     vargais
     negalais
     išgelbėjo
@@ -16944,36 +9821,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184508
-
-- id: c-167870
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 395"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 395."
-  citata_originali: |
-    Lenkų ir lietuvių kariuo-
-    Prūsija
-    menės, peržengusios sienas,
-    netruko įsiveržti į šį kraštą;
-    visi, o ypač valdovai Jogaila bei Vytautas, ketino ne­
-    gailint jėgų pergalingai užbaigti ilgą ir sunkų karą,
-    trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams
-    liktų arba ramūs bei klusnūs, arba draugiški. Tuo tarpu
-    kryžiuočiai, taikos metu be galo aikštingi ir per daug
-    savimi pasitikintys, bemat suvokė esą nepasirengę ka­
-    rui, todėl pareiškė norį susitarti, nors jie ne tiek troško
-    taikos, kiek bijojo pralaimėjimo. Kadangi daliniai jau
-    veržėsi į priekį, degdami noru atkeršyti už skriaudas,
-    jie pasitelkė popiežiaus legato, Milano arkivyskupo
-    Baltramiejaus Kapros, autori-
-    Baigiamas popiežiaus
-    tetą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184509
 
 - id: c-167871
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -17002,35 +9849,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-184510
 
-- id: c-167872
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 442"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 442."
-  citata_originali: |
-    Tada Žygimantas pagal senus papročius
-    buvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­
-    keltas į sostą, į dešinę jam įteikiant apnuogintą ka­
-    laviją, kurį buvo atsiuntęs karalius. Dėl šių iškilmių
-    didžiai susikrimto Liudvikas, Toninės komtūras, kuris
-    su trimis savo draugais, kryžiuočių ordino riteriais, gy­
-    veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš
-    tikrųjų uoliai eidamas žvalgo pareigas. Jis visaip sten­
-    gėsi iššniukštinėti, kas aptariama slaptuose senato po­
-    sėdžiuose, viliojo valdovą bei didikus, žadėdamas kry­
-    žiuočių palankumą, ir ėmėsi visų kitų priemonių, ku­
-    rios, jo galva, priverstų Žy­
-    gimantą netesėti, ką žadėjo
-    lenkams, ir, ko gero, niekais
-    paverstų visus susitarimus ir
-    pačią uniją.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184511
-
 - id: c-167873
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -17038,21 +9856,21 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 510."
   citata_originali: |
     Karalius, g erai žinodamas, kiek rū­
-    pesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,
+    pesčių jo tėvui sukėlė šitaip valdomos Lietuvos žemės,
     nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko
     gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­
-    rai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­
-    sakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
+    rai nieko n esak ė, n en o rėd am as p erd au g ankstyvu at­
+    sakymu jų erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
     sumanymus, g an a tolim us jų reikalavimams. P areiškęs,
-    k ad  tokiam  sv arb iam  re ik a lu i a p ta rti bei d eram ai jį
-    išn ag rin ėti re ik ia laiko, o jo  d a b a r trū k sta  d ėl k a r o s u
+    k ad tokiam sv arb iam re ik a lu i a p ta rti bei d eram ai jį
+    išn ag rin ėti re ik ia laiko, o jo d a b a r trū k sta d ėl k a r o s u
     kryžiuočiais,
     jis p ap rašė viską atidėti. Šiuo būdu iš­
-    vengęs k ai k u rių  v ald in g ų  v y rų  jam  p asp ę stų  pinklių,
-    jis p a tra u k ė  į P rūsiją, tačiau , g av ęs žinią ap ie motinos
-    mirtį, sugrįžo iš to  žygio ir K aune p ra le id o  rudenį, ta r­
+    vengęs k ai k u rių v ald in g ų v y rų jam p asp ę stų pinklių,
+    jis p a tra u k ė į P rūsiją, tačiau , g av ęs žinią ap ie motinos
+    mirtį, sugrįžo iš to žygio ir K aune p ra le id o rudenį, ta r­
     pais sielvartą ramindamas m edžioklėm is, tarpais lanky­
-    damas L ietu v o je sk itų  būrius, atsių stu s p ad ė ti k o v o ti
+    damas L ietu v o je sk itų būrius, atsių stu s p ad ė ti k o v o ti
     prieš kryžiuočius.
   statusas: verified
   teiginio_tipas: faktas
@@ -17064,75 +9882,32 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - id: c-167874
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 647"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 647."
+  puslapiai: "PDF 646"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 646."
   citata_originali: |
-    Susitarė dėl ketverių
-    metų paliaubų, o per tą lai-
-    1521 m e ta i
-    ką
-    ramiomis
-    aplinkybėmis
-    turėjo būti parengtos sąly­
-    gos amžinai taikai. Tuo metu Liuterio sekta, paplitusi
-    Vokietijoje, rado galybę pasekėjų Prūsijoje, o kry­
-    žiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius,
-    jau taip buvo ištižęs ir suiręs, kad aukščiausi ir že­
-    miausi pareigūnai, nieko ne-
-    K ry žiu o č ių
-    p a d ė tis
-    paisydami, laužė dievui duo-
-    P rū sijo je
-    tus įžadus ir, išsižadėję se­
-    nolių išpažinto Romos tikė­
-    jimo, puolė šventvagiškai tuoktis. Dėl to visi pradėjo
-    atvirai niekinti senuosius magistrų, maršalų, komtūrų
-    titulus ir galvoti apie valstybinės santvarkos pakei­
-    timą.
+    Tačiau tais
+    metais nesudarė jokio susitarimo, nes Vasilijus, kaip
+    vėliau išaiškino karaliaus atstovas Bogušas Voitikas,
+    išsiuntė raštą neįprastu būdu ir šitaip užkirto kelią
+    pasiuntinybėms. Mat tą raštą paliepė susukti į ritinėlį
+    ir užantspauduoti, kad pasiuntiniai negalėtų sužinoti
+    jo turinio nenuplėšę antspaudo, o pažeidus antspau­
+    dą, maskvėnai, aišku, tuo raštu nebepasitikėtų. Kai tai­
+    kos reikalas Maskvoje dėl visokių atsitiktinių dalykų,
+    o gal — ir šitai arčiau tiesos — dėl sąmoningų Vasili­
+    jaus veiksmų buvo visaip vilkinamas, Prūsijoje įsi­
+    plieskė karas. Magistras, už didelius pinigus pasisam­
+    dęs Vokietijoje dešimt tūkstančių algininkų, įsiveržė
+    su šia kariuomene, vedama maršalo Ditricho fon Šen-
+    bergo, į tas Prūsijos apygardas, kurios priklausė kara­
+    liui.
+  citata_rodoma: "Susitarė dėl ketverių\nmetų paliaubų, o per tą lai-\n1521 m e ta i\nką\nramiomis\naplinkybėmis\nturėjo būti parengtos sąly­\ngos amžinai taikai. Tuo metu Liuterio sekta, paplitusi\nVokietijoje, rado galybę pasekėjų Prūsijoje, o kry­\nžiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius,\njau taip buvo ištižęs ir suiręs, kad aukščiausi ir že­\nmiausi pareigūnai, nieko ne-\nK ry žiu o č ių\np a d ė tis\npaisydami, laužė dievui duo-\nP rū sijo je\ntus įžadus ir, išsižadėję se­\nnolių išpažinto Romos tikė­\njimo, puolė šventvagiškai tuoktis. Dėl to visi pradėjo\natvirai niekinti senuosius magistrų, maršalų, komtūrų\ntitulus ir galvoti apie valstybinės santvarkos pakei­\ntimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184513
-
-- id: c-170650
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 214"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 214."
-  citata_originali: |
-    • Narimantas Glėbas — antrasis Gedimino sūnus. Pinsko bei Tu-
-    rovo kunigaikštystes prie Pripetės Narimantas, veikiausiai, gavo
-    Gedimino valdymo pabaigoje, po 1330 m. Žuvo 1348.11.2 mūšyje
-    su kryžiuočiais ties Strėva.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187711
-
-- id: c-170651
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    4 4  Tuo m etu Jogaila sudarė su kryžiuočiais dvi sutartis. Pir­
-    m ąja 1380.11.27 buvo sudarytos paliaubos su Livonijos ordinu: Li­
-    vonijos ordinas Įsipareigojo nepulti Jogailos valdomų žemių bei
-    Plocko kunigaikštystės, bet Žemaitijos ir kilų, Kęstučio valdomi)
-    žemių tai nelietė. A ntrąja sutartimi, sudaryta I380.V.31 Dovytllš-
-    kėse (apie Gardiną) su Prūsijos kryžiuočių magistro Vinricho Knip-
-    rodės atstovais. Jogaila pasižadėjo neribotam laikui laikytis taikos
-    su Prūsija ir Livonija ir neteikti pagalbos Kęstučiui ir jo sūnums,
-    jeigu jie būtų kryžiuočių puolami.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187712
 
 - id: c-170652
   autorius: "Anoniminis metraštininkas"
@@ -17159,7 +9934,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_originali: |
     Kaip tik ten buvo minima Velionos šventykla. XIV am­
     žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-
+    jos paimti, pasistatė priešais ją dvi pilis - Fridburgą ir Bajer-
     burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
     lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
     Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
@@ -17174,14 +9949,18 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - id: c-171103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  puslapiai: "PDF 131"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
   citata_originali: |
-    Vis dėlto 1364 metais kryžiuočiai sudegino
-    Veliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­
-    gė pilį iš naujo atstatyti ir sustiprinti. Atnaujino ir šventyklą,
-    kuri gyvavo iki 1406 metų, kada kryžiuočiai antrą kartą paė­
-    mė pilį ir perstatė į krikščionių bažnyčią.
+    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
+    gėlių ir vaismedžių sodas.
+    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
+    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
+    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
+    Su šia malonia dievybe supažindina dainelė, iki šiol tebes­
+    kambanti Lietuvos kaimo gražuolių lūpose:
+    Dok mums žiedaj, dok, Grubite!
+  citata_rodoma: "Vis dėlto 1364 metais kryžiuočiai sudegino\nVeliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­\ngė pilį iš naujo atstatyti ir sustiprinti. Atnaujino ir šventyklą,\nkuri gyvavo iki 1406 metų, kada kryžiuočiai antrą kartą paė­\nmė pilį ir perstatė į krikščionių bažnyčią."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -17189,289 +9968,32 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-188209
 
-- id: c-171104
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
-  citata_originali: |
-    Duomenų apie tai mums
-    paliko Strijkovskis.
-    Birutė (Biruta)
-    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
-    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
-    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188210
-
-- id: c-171105
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 177"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
-  citata_originali: |
-    Moteris, suviliota
-    šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
-    Įdomią smulkmeną apie tuos dievaičius mums paliko Prū­
-    sijos kronikos . 1247 metais, kai kryžiuočiai jau valdė Pame-
-    dę ir tenykščius žmones lyg ir atvertė į krikščionių tikėjimą,
-    vis dėlto dėl nuolatinių sumaiščių ir kovų su kitų provincijų
-    gyventojais, remiamais Pamario kunigaikščio Sviatopelko, jie,
-    matyt, neturėjo pakankamai laiko pasirūpinti Pamedės vidaus
-    sutvarkymu bei atverstos tautos tikėjimo įtvirtinimu.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188211
-
-- id: c-171107
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 237"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
-  citata_originali: |
-    Tai buvo 1258 metais“ .
-    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
-    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
-    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
-    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
-    toje vietoje įkūrė Senąją Torunę.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188213
-
-- id: c-171108
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Austomo
-    285
-
-    ## Puslapis 285
-
-    do, kad egzistavo senoviniai sąrašai, kuriuos visi metraštininkai
-    aiškino nevienodai, nes kiekvienas savaip juos suprato arba tu­
-    rėjo nevienodus egzempliorius*.
-    Esame įsitikinę, kad šis vyriausiųjų žynių sąrašas yra au­
-    tentiškas, nes senieji Prūsijos istorikai turėjo jį turėti iš Kry­
-    žiuočių ordino užrašų; jie išlaikė atminimą apie tai, radę žinių
-    rašytiniuose krašto paminkluose. Pagaliau tikri lietuviški var­
-    dai, ypač toks jų skaičius, ne taip lengvai galėtų būti išgalvoti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188214
-
-- id: c-171109
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 286"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 286."
-  citata_originali: |
-    Paskutinis Prūsijos
-    Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
-    rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
-    je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
-    žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti. Paga­
-    liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
-    žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
-    pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
-    ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
-    ir garantuotų sau politinę ramybę. Bet tie įkalbinėjimai neda­
-    vė jokio rezultato: žmonės pasipiktino vyriausiuoju žyniu ir
-    net ėmė grasinti jį nužudysiu. Tasai senelis ir toliau nematė
-    būdo, kaip prisidėti prie savo tautiečių gerovės; ėmė galvoti
-    apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­
-    kietėjusių savo savasties gynėjų -  žynių ir liaudies, pabėgo pas
-    kryžiuočius. Jo asmuo, išvaizda, amžius sukėlė jų ypatingą pa­
-    garbą, tad, užuot nubaudę mirtimi pagal seniai jam paskelbtą
-    nuosprendį, maloniai jį priėmė, iškilmingai pakrikštijo ir su
-    nuostaba klausėsi jo kalbos.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188215
-
-- id: c-171110
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 307"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
-  citata_originali: |
-    Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
-    ligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­
-    rinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo
-    daryti alų iki atsikraustant kryžiuočiams. Paneigimui pakanka
-    pasakyti, kad B lefo tikrai nepažino, bet savo alų darė labai
-    senu papročiu4.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188216
-
-- id: c-171111
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Kad tai paprasta
-    kronikininko spėlionė, yra tokia pat tiesa, kaip tai, kad nėra
-    abejonės, jog nei prūsai savo Romonės nepavadino nusižiūrė­
-    ję į Romos pavadinimą, nei savo krivio nelygino su popiežiu­
-    mi. Tačiau kronikininkui, ypač Kryžiuočių ordino kunigui, toks
-    palyginimas buvo parankus. Romovę kildinti iš Romos pakan-
-    412
-
-    ## Puslapis 412
-
-    karnai greiti ir mūsų laikų etimologijų mėgėjai, o jei jau pri­
-    ėjome prie Romos, tai ar reikia stebėtis, kad popiežiaus vie­
-    nuolis, vaizduodamasis krivį, atrado jame savo popiežių.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188217
-
-- id: c-171112
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 413"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 413."
-  citata_originali: |
-    Visų pirma kry­
-    žiuočių kronikininko pasakojimas tame pačiame skyrelyje, kur
-    jis aprašo senovės Prūsiją, atitinka tiesą ir negali kelti jokios
-    abejonės. Vos šimtas metų buvo praėję nuo kryžiuočių atsi­
-    kraustymo ir vos truputį daugiau nei keturiasdešimt metų nuo
-    visiško Prūsijos užkariavimo, kai Dusburgietis rašė tą prūsų
-    tautos papročių ir įpročių apybraižą ir kai 1326 metais įteikė
-    savo kroniką didžiajam magistrui. Daugelis iš tų, kurių tėvai
-    dar buvo stabmeldžiai ir kurių žodiniai pasakojimai apie se­
-    novinę krašto būkle, apie žygius, papročius ir įpročius tebegy­
-    vavo grynąja to žodžio prasme, buvo gyvi* Dusburgiečio lai­
-    kais, todėl jis nenuginčijamai galėjo gauti tikriausių žinių apie
-    viską, ką norėjo papasakoti apie stabmeldystės laikus.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188218
-
-- id: c-171113
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Kaip mums rodo vietos tyrimai, Stenderis lat­
-    vių gramatikoje šiuo klausimu šiek tiek suklydo.
-    0 Betgi Livonijos kryžiuočiai patys kariavo su krivičiais; Livoni­
-    jos broliai lankydavosi Karaliaučiuje, kuriame Dusburgietis rašė kro­
-    niką; argi nebūtų apšvietę to, kuris taip uoliai tyrė visa, kas susiję su
-    istorija?
-    420
-
-    ## Puslapis 420
-
-    Toliau būtų galima pasakyti: Dusburgiečio žinia apie krivį
-    todėl darosi labai įtartina, kad, pasak jo, vyriausiojo žynio val­
-    džia apėmė ne tik Prūsiją, bet ir Lietuvą bei Latviją, nors tų
-    kraštų istorijos šaltiniai to visiškai nežino7.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188219
-
-- id: c-173451
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 422"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 422."
-  citata_originali: |
-    Iš tos seno­
-    viškos būties jau daug buvo sunaikinta ir išstumta, kai atsira­
-    do sutartis tarp prūsų tautos ir kryžiuočių. Kai tik ordinas už­
-    kariaudavo kurią sritį, kartu joje nelikdavo nei krivių, nei ri­
-    kių. Jų viešpatystė baigdavosi akimirksniu, kai tik prasidėda­
-    vo ordino valdžia ir kai ji būdavo čiabuvių priimama.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190568
-
-- id: c-173452
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 431"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
-  citata_originali: |
-    1.
-    Seniausias žinomas šito šaltinis yra Simonas Grunau,
-    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
-    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
-    šantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug
-    užsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais
-    nekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­
-    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
-    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
-    11 Sirvydo žodynas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190569
-
 - id: c-175209
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 267"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
   citata_originali: |
-    Gyventojai aistringai gynė savo lais­
-    vę, dažnai maištavo; kryžiuočiai iškapojo beveik visus, o
-    likusius, sugautus giriose, perkėlė į Sambiją. Taip pat
-    daug sudinų persikėlė ir į Lietuvą. Sūduva turėjo gana
+    Sūduva turėjo gana
     daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
     giausia buvusių savarankiškų valdovų. Kryžiuočiams val­
     dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
     apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
     vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
-    Raigardo2 3.
+    Raigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie
+    šią, toje pačioje vietoje esančią provinciją, be to, neabe­
+    jotina, kad nuo seno ten gyveno ir lietuviui Tas pats
+    geografas taip pat žinojo vieną sudinų koloniją, buvusią
+    germanų markomanų genties kaimynystėje, dabar Pra­
+    hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
+    iš prūsų Sūduvos kažkokia užklydusi genties dalis4.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192415
+    - t-197509
 
 - id: c-175210
   autorius: "Teodoras Narbutas"
@@ -17479,34 +10001,44 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   puslapiai: "PDF 269"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
   citata_originali: |
-    Pavadinimas kilęs iš lietuviško
-    žodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­
-    tinčia žeme. Salavija nebuvo tikra prūsų lygos provincija,
-    nes jai priklausė Rusia. Tačiau, kai joje dar prieš bendrą
+    Tačiau, kai joje dar prieš bendrą
     prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi­
     gyveno kryžiuočių, daugiausia iš Lietuvos atsikėlusių
-    žmonių, dėl to ją ligi šiol vadina prūsų Lietuva.
+    žmonių, dėl to ją ligi šiol vadina prūsų Lietuva. Jos sos­
+    to arba svarbesnė pilis buvo Salava, be to, manoma,
+    kad Tilžės apylinkėse. Ten, miškuose, yra akmeninių pas­
+    tatų griuvėsių ir ant kalvų piliaviečių, primenančių žilą
+    šios žemės senovę. Ptolemėjas žinojo Salavijos gyvento­
+    jus slavinu vardu; iš to galima spręsti, kad Rusios egzis­
+    tavimo laikais didelė dalis šios žemės II krikščioniškosios
+    eros amžiuje buvo žinoma Skalvos arba Rusios vardu,
+    kuriuo ją ir vadino svetimšaliai.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192416
+    - t-197510
 
 - id: c-175211
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 509"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 509."
+  puslapiai: "PDF 508"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 508."
   citata_originali: |
-    Be to, pas Henenbergerj
-    yra užrašas senovės lietuvių kalba (apie naują šio užrašo aiški­
-    nimą, padarytą pono Tado Volianskio, bus kalbama šio veikalo
-    trečiame tome). Tinkamai perskaičius, paaiškėja, jog tai buvo
-    Lietuvos kunigaikščio Utenio, kuris padėjo prūsams kovoti su
-    kryžiuočiais ir kuris buvo pramintas Zupanu, vėliava. Čia gi pa­
-    teikėme iliustraciją, padarytą pagal piešinį, gautą iš Zaluskių bib­
-    liotekos.
+    To­
+    liau sako: „Narimantas buvo pirmasis, kuris Hipokentaurą pakeitė
+    Vytimi, Giedraitis — Rože, Daumantas — Stumbro galva; Ge­
+    diminas vietoj vieno Stulpo naudojo tris, Kaributas iš pradžių
+    turėjo Erelį su Vytimi, o vėliau — Mėnulį su Kryžiais. Kunigaikš­
+    čiai Rožinskiai savo herbe pavaizdavo kryžius, kabančius ant me­
+    džio kamieno, o kiti, dar prieš Lenkijos ir Lietuvos uniją, savo
+    herbams panaudojo senuosius bajoriškus ženklus, arba, savuosius
+    užleidę, ėmė vartoti naujus“. Tas, kuris mums išsakė priekaištą,
+    jog mes lietuvius apdovanojome herbais jau tais laikais, kai dar
+    niekur jie nebuvo žinomi, pasakė nesąmonę.
+  citata_rodoma: "Be to, pas Henenbergerj\nyra užrašas senovės lietuvių kalba (apie naują šio užrašo aiški­\nnimą, padarytą pono Tado Volianskio, bus kalbama šio veikalo\ntrečiame tome). Tinkamai perskaičius, paaiškėja, jog tai buvo\nLietuvos kunigaikščio Utenio, kuris padėjo prūsams kovoti su\nkryžiuočiais ir kuris buvo pramintas Zupanu, vėliava. Čia gi pa­\nteikėme iliustraciją, padarytą pagal piešinį, gautą iš Zaluskių bib­\nliotekos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -17606,45 +10138,26 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-193104
 
-- id: c-176043
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 214"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 214."
-  citata_originali: |
-    Artėdami prie
-    gynybinio pylimo, lietuviai čia patyrė smarkų pralai­
-    mėjimą, nes buvo pavartoti ligi tol neregėti negirdėti
-    ginklai. Pasak metraštininkų, tada kryžiuočiai ėmę var­
-    toti geležinius vamzdžius, kurie, užtaisyti paraku ir
-    sviediniais, purkšdami liepsnojantį paraką, be galo
-    smarkiai ir su baisiu trenksmu išmeta sviedinį į prie­
-    šą. Išmoningas to amžiaus išradimas, tačiau kaip jis
-    išniekino buvusią karinę šlovę: kur dėtis buvusiam
-    šaunumui bei drąsai, jeigu silpna ranka, bemaž nieko
-    neveikdama, klote iškloja nesuskaitomas narsiausių
-    karių krūvas?
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193315
-
 - id: c-176970
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
   citata_originali: |
-    Turime kažkokį aprašymą šio medžio, kurį Bo­
-    leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
-    galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­
-    kai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­
-    vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­
-    dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
-    Jono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355
-    metų; tada tasai Jonas I buvo Varmijos vyskupas.
+    Žinoma, kas tas krūmas, nenumetantis žiemą lapų, dau­
+    ginasi iš sėklų, esančių gražiose baltose uogose, kurios nunoks­
+    ta žiemą ir paukščių yra godžiai lesamos; šios sėklos niekad
+    nesudygsta žemėje, o sudygsta ant kito medžio šakos, kur jas
+    užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
+    atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
+    mis augdami ant medžių, užauga sieto dydžio. Nežinau, ar, be
+    beržo ir ąžuolo, amalas auga kituose medžiuose; ąžuolo ama­
+    las pas mus dabar yra net didelė retenybė. Vis dėlto galimas
+    daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
+    reikėtų manyti, jog senovės žyniai mokėjo šventąjį ąžuolą taip
+    apauginti amalu, kad jo lapai būtų nepaprastai tankūs, o žie­
+    mą amalo žaluma nuspalvintų jo vainiką.
+  citata_rodoma: "Turime kažkokį aprašymą šio medžio, kurį Bo­\nleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­\ngalėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­\nkai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­\nvėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­\ndėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo\nJono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355\nmetų; tada tasai Jonas I buvo Varmijos vyskupas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -17700,6 +10213,4713 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindzia:
     - t-194863
 
+- id: c-178517
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 200"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 200."
+  citata_originali: |
+    Tegu jie užmetą žvilgsnį į
+    ginklus ir rankas, kurios, jo vedamos, sėkmingai lie­
+    jo galybės priešų kraują, šito užteksią jiems įtikėti
+    būsima pergale. Prieš juos stovį ne ginkluoti ligi dan­
+    tų plieno ginklais kryžiuočių pulkai, kuriuos jie dau­
+    gel kartų yra triuškinę, nors rodėsi nepalaužiami, o
+    rusai, menki buvusių pergalių likučiai, paskutinės be­
+    jėgės, mirštančios galybės nuoliekos. Vieno smūgio be­
+    reikią, ir jų kariauna savaime subyrėsianti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196080
+
+- id: c-178518
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 395"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 395."
+  citata_originali: |
+    Jį netrukus paleido rusų sąmokslininkai, nu­
+    žudę sargybos viršininką Konradą Frankenbergą. Atsi­
+    dūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig­
+    mantą, vėliau, tarpininkaujant imperatoriui bei karaliui
+    Jogailai, vargais negalais susitaikė su Vytautu. Tuo
+    metu prasidėjo karas su Prū-
+    Prūdėtas
+    karas
+    su
+    sija. Lenkų ir lietuvių kariuo-
+    Prūsija
+    menės, peržengusios sienas,
+    netruko įsiveržti į šį kraštą;
+    visi, o ypač valdovai Jogaila bei Vytautas, ketino ne­
+    gailint jėgų pergalingai užbaigti ilgą ir sunkų karą,
+    trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams
+    liktų arba ramūs bei klusnūs, arba draugiški.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196084
+
+- id: c-178969
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
+  citata_originali: |
+    Tai oficialus Kryžiuočių ordino
+    valstybės kūrinys.
+    Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a. pabaigoje,
+    agresijos į Artimuosius Rytus metu, atsikėlimas ir įsitvirtinimas pavyslyje XIII a.
+    pirmojoje pusėje. Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
+    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
+    feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
+    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
+    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
+    kovą prieš agresiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196894
+
+- id: c-178970
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
+  citata_originali: |
+    Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
+    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
+    feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
+    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
+    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
+    kovą prieš agresiją.
+    Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
+    sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
+    viduramžiais į Rytus, atskleidžia tos agresijos esmę ir jos vykdytojų katalikišką
+    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių ir bažnytinių
+    feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196895
+
+- id: c-178971
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  citata_originali: |
+    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
+    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai
+    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
+    suartėti su totoriais — mongolais ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196898
+
+- id: c-178972
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  citata_originali: |
+    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
+    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
+    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
+    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
+    apreikšti dievo darbus yra šlovinga.
+    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
+    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
+    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
+    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
+    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
+    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
+    atminimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196899
+
+- id: c-178973
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 94"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
+  citata_originali: |
+    Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
+    ir 10 laivų. Kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289,
+    kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas
+    jį nukovė. Elbingo miestiečių laive, kuris, smarkiai plaukdamas, užšoko ant seklumos ir
+    čia paliko, buvo nukauti du broliai, tačiau brolis Fridrichas, atėjęs į pagalbą, visus kitus
+    išvadavo ir perkėlė į savo laivą, praradęs kovoje du brolius ir 3 vyrus, o priešas neteko
+    20 užmuštaisiais, tačiau likusieji paspruko.
+    52 (51). Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną
+    288  Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
+    5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
+    pilis — Elbingą ir Baigą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196905
+
+- id: c-178974
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
+  citata_originali: |
+    Apie Vėluvos pilies puolimą
+    Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
+    su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias
+    dienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo į
+    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
+    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
+    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
+    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
+    piliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o
+    minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam
+    lietuvių vadui ir jį nukovė, o paleidęs [strėlę] į kitą priešo kariuomenės dalį, pataikė
+    vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
+    jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196906
+
+- id: c-180668
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    1841 m. jis tapo vienu iš enciklopedinio
+    pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir
+    J. Sniadeckių biografijas, parengė jų darbų rinktines, parašė
+    apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
+    dinį leidinį Senovės Lenkija. Be to, rengė astronomo Mikalojaus Ko­
+    perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­
+    mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.
+    Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­
+    torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
+    rašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos
+    mokslo būklę.
+  citata_rodoma: "Be to, rengė astronomo Mikalojaus Ko­\nperniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­\nmus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.\nIstorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­\ntorinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­\nrašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos \nmokslo būklę."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180669
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tas
+    Romuvas sunaikino kryžiuočiai, už­
+    ėmę Prūsiją; tačiau nežinia, ar kitos,
+    ar tos pačios iš anos žemės perkel­
+    tos, buvo pačioje Lietuvoje, prie
+    Kauno, ant Nevėžio kranto, .būtent
+    toj vietoj, kur dabar Romainiai. XIII
+    amžiuje tai buvo labai tankiai gyve­
+    nama gyvenvietė, o šventovės ir
+    šventos girios buvo saugomos galin­
+    gos tvirtovės. Nepaisant to, kryžiuo­
+    čiai, nuolatos baudęsi sunaikinti tą
+    vietovę, 1294 metais savo pasiekė ir,
+    užėmę pilį, pasiėmė turtą, o žynius
+    išžudė.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180670
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 50"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 50."
+  citata_originali: |
+    Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­
+    ta Nesavos pilis
+    Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą
+    vyrą ir pamaldų brolį Hermaną iš Zalcos, Teutonų namų ordino didįjį magistrą,
+    pranešdamas, kaip čia tvarkomas jam patikėtas reikalas, nuolankiai prašydamas
+    ir maldaudamas, kad jam atsiųstų daugiau brolių bei ginklanešių (1230). Magistras,
+    patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro
+    pareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1,
+    6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra savo brolius,
+    į žemę, kurią viešpats yra jiems pažadėjęs, ir „su tavimi bus dievas“. Be to, maršalu
+    pasiuntė brolį Ditrichą iš Bernheimo, o į pagalbininkus jam paskyrė brolį Konradą iš
+    Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos
+    ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų. Atvykę
+    į Fogelzango pilį, jie žemiau pasistatė prie Vyslos Nešavos pilį181.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180671
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
+  citata_originali: |
+    Apie Svečės pilies pastatymą ir jos užpuolimą
+    Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją
+    su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Kokie keisti, kokie
+    be galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis
+    žemino tikėjimą ir tikinčiuosius! Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo
+    sosto legatą ir didįjį magistrą, pranešdami jiems apie naują karą ir Prūsijos žemės
+    padėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
+    įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
+    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
+    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
+    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
+    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
+    plaukioti Vysla aukštyn ir žemyn.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180672
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    **Ūkis.** Pagrindinė Lietuvos ūkio šaka buvo žemdirbystė.
+    Bet ji gana sunkiai klestėjo: ją trukdė nuolatiniai kryžiuočių už-
+    puolimai, kurių kartais būdavo bent po 4—5 ar net po daugiau
+    per vienerius metus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198787
+
+- id: c-180673
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-
+    nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-
+    tauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton. Tai
+    padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-
+    to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
+    įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
+    sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180675
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Pir-
+    moji, dešiniajam Vyslos žemupio krante gyvenusi, vakarinė kilčių
+    grupė paprastai vadinama prūsais; nuo jų į šiaurės rytus gyveno
+    tos aisčių kiltys, iš kurių yra susiformavusi lietuvių tauta, o dar
+    toliau gyveno tos kiltys, iš kurių yra susidarę dabartiniai latviai.
+    **Prūsus** sudarė keletas kilčių, kurių tik vakariausios bu-
+    vo vadinamos prūsais. XIII amž. į čia atsikraustęs vokiečių
+    kryžiuočių ordinas pirmučiausia pavergė prūsus.
+  citata_rodoma: "**Prūsus** sudarė keletas kilčių, kurių tik vakariausios bu-\nvo vadinamos prūsais. XIII amž. į čia atsikraustęs vokiečių\nkryžiuočių ordinas pirmučiausia pavergė prūsus."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180678
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
+  citata_originali: |
+    Apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje,
+    Kuršių nerijoje
+    Brolis Konradas, magistras, išmintingas ir apdairus vyras, suprasdamas, kad,
+    braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos
+    broliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,
+    kuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
+    217 (212). Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
+    mą
+    Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis
+    pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią
+    tikėjimo priešus sūduvius.
+  citata_rodoma: "įrodydamas, jog broliai turi  į jas neginčijamų teisių. Išklausęs abiejų šalių įrodymų,\ntas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos\nturtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos\nkunigaikštystėje kraštą, vardu Vancka, kur dabar stovi Mevės pilis, ir šitaip pasibaigsianti\ntarp jų kilusi nesantarvė. Todėl 1283 viešpaties metais broliai perkėlė iš Kulmo žemės\nPoterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji\npo šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180679
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Todėl kryžiuočiai pristatė Žemaičiuose daugybę pilių (vieną
+    pilį net patsai Vytautas jiems padėjo statyti). Ordinas bandė
+    ir geruoju patraukti žemaičius: į sunaikintą kraštą gabeno gy-
+    vulius, maistą ir kūrė ūkius. Tuo būdu dalis žemaičių buvo pri-
+    viliota ir vyko į Marijenburgą krikštytis, nes, Vytautui remiant
+    ordiną, nebebuvo vilties išsivaduoti.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180680
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą
+    pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.
+    Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis pre-
+    kybos punktas buvo Rygos miestas. Nemuno žiotys buvo ap-
+    gultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos pre-
+    kybą. Priėjimas prie Rygos Dauguvos upe taip pat buvo ga-
+    na sunkus, — čia irgi trukdė tie patys kryžiuočiai, — vis dėlto čia
+    buvo kiek lengviau: mat, Ryga buvo laisvas miestas, kuris, no-
+    rėdamas pasipelnyti, buvo sukalbamesnis.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180682
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­
+    jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­
+    kos sėkmingos, didysis magistras Konradas Ciolneris Ro-
+    tenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų
+    rugpjūtį ties Kaunu persikėlė per Nemuną ir ėmė siautėti
+    visame krašte. Vilnius, tiesa, turėdamas tvirtovėse labai stip­
+    rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
+    ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
+    kotos. Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
+    Ordino riterių kirstas pagoniškai Lietuvai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198744
+
+- id: c-180685
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tuo tarpu Skir­
+    gaila antrąkart grįžo iš Polocko nieko nepešęs, bet sugebėjo
+    pasikalbėti su Jogaila, dar tebesėdėjusiu kalėjime. Gavęs pa­
+    vedimą, nuvyko į Prūsiją ir, remdamasis sandėrio su Ordinu
+    galia, ėmė rengti naujus Kęstučio ir Lietuvos antpuolius. Išti­
+    sus 1382-uosius metus tęsėsi tarpusavio žudynės ir pade­
+    ginėjimai, o kryžiuočiai, niokodami viską pakeliui, jau net
+    Šalčininkus ir Trakus buvo pasiekę.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180686
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
+  citata_originali: |
+    Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
+    apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
+    vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip
+    įvykdęs maldininko įžadus, tas pats valdovas sugrįžo į savo kraštą, palikęs Prūsijoje
+    didelę kariuomenę, turėjusią baigti statyti Elbingo pilį.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180687
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
+  citata_originali: |
+    Tačiau, kai joje dar prieš bendrą
+    prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi­
+    gyveno kryžiuočių, daugiausia iš Lietuvos atsikėlusių
+    žmonių, dėl to ją ligi šiol vadina prūsų Lietuva. Jos sos­
+    to arba svarbesnė pilis buvo Salava, be to, manoma,
+    kad Tilžės apylinkėse. Ten, miškuose, yra akmeninių pas­
+    tatų griuvėsių ir ant kalvų piliaviečių, primenančių žilą
+    šios žemės senovę. Ptolemėjas žinojo Salavijos gyvento­
+    jus slavinu vardu; iš to galima spręsti, kad Rusios egzis­
+    tavimo laikais didelė dalis šios žemės II krikščioniškosios
+    eros amžiuje buvo žinoma Skalvos arba Rusios vardu,
+    kuriuo ją ir vadino svetimšaliai.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180688
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­
+    čioje Lietuvoje. Talkininkaujami svečių iš Anglijos, Vokietijos ir
+    Italijos, ir padedami Livonijos magistro, Prūsų kryžiuočiai 1362
+    pavasarį atliko drąsų žygį, išgriaudami svarbią lietuvių Nemuno
+    ir Neries santakos pilį — Kauną. Neišaiškinamu būdu Kęstutis su
+    (^10) **SRP, II, 72, 505-507 p.**
+    (^11) **A. Kučinskas :** **_Kęstutis,_** **1938, 59-61 p.
+  citata_rodoma: "Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­\nčioje Lietuvoje. Talkininkaujami svečių iš Anglijos, Vokietijos ir\nItalijos, ir padedami Livonijos magistro, Prūsų kryžiuočiai 1362\npavasarį atliko drąsų žygį, išgriaudami svarbią lietuvių Nemuno\nir Neries santakos pilį — Kauną. Neišaiškinamu būdu Kęstutis su\n(^10) **SRP, II, 72, 505-507 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198726
+    - t-198813
+    - t-198834
+
+- id: c-180689
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tik prisimetė esąs paklusnus karaliui kaip savo viršesniam
+    valdovui; vis dėlto nesantaikos vengė: vienijosi su Lenkija, bet
+    niekados neišleisdavo iš akių išimtinai Lietuvos interesų. Daug
+    prisidėjo prie pergalių prieš kryžiuočius, tačiau nesiekė visiš­
+    ko jų Ordino sunaikinimo, nors turėjo tam galimybių; pritarė
+    ir skelbė sprendimus, varžančius toleranciją, kuria nuo seno
+    Vilnius garsėjo, betgi nė vienos kurios nors tikybos išpažini­
+    mas dėl to per daug nekentėjo. Pavyzdžiui, husitai dargi ne
+    kartą Vytauto globa naudojosi.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180690
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vok. Ordinas nenorėjo nusileisti. Apie Vytautą jis skelbė
+    Vak. Europoje, kad tai yra labai pavojingas katalikams valdo­
+    vas, nes visas pilis paveda stačiatikiams ir susideda su toto­
+    riais, kurie veržiasi Europon.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180694
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
+  citata_originali: |
+    Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
+    Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
+    kurių reikalavo prūsai, kad kiti, paimti į nelaisvę, išliktų gyvi. Šitokia sutartis nepatiko
+    dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius,
+    pasikliovus viešpačiu, drąsiai stoti į kovą. Kai visų kitų nuomonė paėmė viršų ir kai davė
+    įkaitus, apie kuriuos jau esame kalbėję, prūsai, sulaužę taikos sutartį, užpuolė ir nužudė
+    54 brolius bei visus kitus, ten buvusius, 1249 viešpaties metais308 lapkričio 29 d. Po šių
+    žudynių vienas notangas pamovė ant ieties brolio Jono, minėtojo vicekomtūro, galvą ir,
+    ją pakėlęs aukštyn, pasakė: „Jeigu broliai būtų paklausę tavo patarimo, tikrai nebūtų
+    buvę nukauti“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198716
+
+- id: c-180695
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
+  citata_originali: |
+    Antrosios
+    atskalūnybės metais prūsai tiek kartų ją kamavo antpuoliais, kad negalima buvo joje
+    ilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo
+    ginklanešiais, ir ji po šiai dienai tebestovi apleista.
+    152 (147). Apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie
+    brolį Heidenreichą, Kulmo vyskupą
+    Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo
+    Kulmo vyskupas432. Apie jį sklido neabejotinų žinių, kad švenčiausioji mergelė Marija
+    pasirodžiusi vienam pavargėliui ir jam įdavusi laišką nunešti šiam vyskupui; perskaitęs
+    laišką, vyskupas rado jame aprašytą visą savo gyvenimą, be to, ten buvę pridurta, kad
+    430  Pirmoji Ordino Starkenbergo pilis, statyta 1263 (1256— 1272) m, buvo prie
+    Osos, deš. upės krante, tarp dab.
+  citata_rodoma: "Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį\n\n  Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui\nbei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,\npažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras\nsušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų\nkariuomenė ir visą šią žmonių minią išžudė. Po kurio laiko magistras ir vėl sušaukė\nžmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo\nvardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180696
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Dabar Veliuona priklauso dvari­
+    ninkui Mykolui Zaleskiui.
+    Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­
+    burgo pilis, pastatydinta Ordinui pavedus ir padedant Ba­
+    varijos kunigaikščiui Henrikui apie 1337 metus, gavusi var­
+    dą, nuo jo paeinantį; pastarasis kunigaikštis draugėj su
+    kryžiuočiais dalyvavo daugelyje žygių į Lietuvą. Dabar Ba-
+    jerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo
+    žemaitiško žodžio „raudonas", mat jos sienos sumūrytos iš
+    raudonų plytų.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180697
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  citata_originali: |
+    Dusburgietis bando pateikti savotišką
+    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
+    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
+    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų
+    ordino broliai pradėję su jais naują karą (II, 7). Dusburgietis, rašydamas apie lietuvių
+    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
+    prieš Lietuvą (III, 343—346, 357—358).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180699
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tais pačiais 1409 m. Lietuvoje buvo nederlius. Jogaila, norė-
+    damas padėti Lietuvai, siuntė jai javų. Tačiau ordinas Ragainėje
+    juos sulaikė. Tatai Vytauto santykius su ordinu visai nutraukė,
+    ir jis, jau nebesislėpdamas, nusiuntė į Žemaičius savo bajorų ir
+    paėmė juos į savo valdžią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198592
+
+- id: c-180700
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Poloniae factam, et erectionem Antistis
+    118
+
+    ## Puslapis 135
+
+    Il KNYGA
+    Vytautas, kryžiuočių gudrybės nesugniuždytas, tvirtai lai­
+    kydamasis savo sumanymų, išvyko į Žemaitiją, kur paprasti
+    žmonės ir bajorai nuo seno buvo palankūs jo tėvui Kęstučiui
+    ir nusistatę prieš Jogailą dėl jo uolumo užginant senovines
+    jų tikybos apeigas. Vytauto rūpesčiu žemaičiai Karaliaučiuje
+    sudarė sutartį su Ordinu, taigi Vytauto galia vėl sustiprėjo,
+    ir didysis magistras, įsitikinęs, jog lietuvių pajėgos susi­
+    skaldžiusios, ėmė ruoštis į pakartotiną, bet daug reikšmin­
+    gesnį žygį, kurio tikslas jau buvo ne tik apiplėšti Lietuvą,
+    tačiau užimti jos sostinę ir įkurdinti ten Vytautą21. Kai rug­
+    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
+    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
+    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
+    jų esant.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180705
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
+  citata_originali: |
+    123
+    Kai 1253 metų pradžioje susiklostė draugiški Pamario
+    kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems
+    saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis
+    užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­
+    tinga Sembos provincija, bet šie atkaklūs bandymai ją
+    užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė
+    toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­
+    sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą,
+    sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­
+    nės kraštais. Buvo baiminamasi didžiausio pralaimėjimo,
+    jei šios provincijos ir gentys, sudariusios tarpusavio są­
+    jungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­
+    1 Henning.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180706
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  citata_originali: |
+    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
+    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai
+    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
+    suartėti su totoriais — mongolais ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip ir atitinkami
+    popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
+    ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
+    vienodos, kad šios tautos turėjusios bendrą priešą71.
+  citata_rodoma: "Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,\ndidžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne\ntik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,\nKryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą\nprieš Lietuvą.\n  Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų\nfeodalinių riterių žygių prieš musulmoniškąjį pasaulį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198705
+
+- id: c-180707
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    3 baigiamas
+    tokiais žodžiais: Cupientes igitur, ut
+    veritatis testimonium, quod coram vest­
+    ra protulimus sanctitate, fratribus pre-
+    notatis, utile et laudabile fiat nostrorum
+    duximus apensione fieri evidens sigil­
+    lorum [Taigi trokšdami, kad liudiji­
+    mo tikrumas, kurį jūsų šviesybės
+    akivaizdoje iškėlėme broliams minė­
+    tiems, būtų naudingas ir verta, pa­
+    raginame, kad būtų matomas prika­
+    binus mūsų antspaudusl.
+    77
+
+    ## Puslapis 94
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Jeigu dabar išnagrinėtume viską, ko tik kelerių metų tarps­
+    niu būta Ordino santykiuose arba su Lenkijos karaliumi, kad
+    ir Pamario valdymo klausimu, arba su lenkų vyskupais dėl
+    dešimtinės ir šv. Petro skatiko rinkliavų, arba su Rygos arki­
+    vyskupu, turint omenyje senus jo skundus, arba su Lietuvos
+    valdovu, už ir prieš kryžiuočius popiežiaus rūmuose Avinjo­
+    ne tieka priporinta, tad lengvai suprastume, kaip popiežiui bu­
+    vo neapsakomai sunku ir, žinia, dėl savo padėties, minėtų kraš­
+    tų tolybės, santykių nesupratimo, net neįmanoma išnarplioti
+    savaime susipainiojusių, o kartais ir tyčia suveltų sruogų, suk­
+    tybę nuo tiesos atskirti ir stoti pozicijon, kuri jam, kaip aukš­
+    čiausiajam teisėjui, derėtų, kad tartų griežtą galutinį nuosp­
+    rendį įnirtingo pykčio apimtoms pusėms.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180708
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    72
+    D o g i e 1 Codex Diplom. IV, 92 yra
+    kaip tik tuo metu Jogailos ir Vytau­
+    to duotas įgaliojimas Gniezno arki­
+    vyskupui ir Lenčicos arkidiakonui
+    vesti derybas su kryžiuočiais, at­
+    stovaujant žemaičiams, rašytas Vil­
+    niuje, 1413 an. febr. [metų, vasario] 6
+    dienos data. Dar žr.: Vytauto pareiš­
+    kimas asmeninių derybų dėl taikos
+    tarp jo ir Lenkijos karaliaus, iš vie­
+    nos pusės, bei būsimu didžiuoju ma­
+    gistru ir visu Ordinu, iš kitos, die­
+    nos ir vietos nustatymo dėlei.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180711
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Dauguvos žiotyse susikūręs Kalavijuočių ordi-
+    nas pamažu pradeda užkariauti lybius, latvius, estus, kuršius. Kovodamas
+    prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis
+    Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių
+    ordino riterius (kryžiuočius). Ši fatališka klaida daug kainuos lenkams
+    ir lietuviams – Ordinas pajungė prūsus, o 1236 m. popiežius jau skelbia
+    kryžiaus žygį prieš lietuvius.
+  citata_rodoma: "Kovodamas \nprieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis \nKonradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių \nordino riterius (kryžiuočius). Ši fatališka klaida daug kainuos lenkams \nir lietuviams – Ordinas pajungė prūsus, o 1236 m. popiežius jau skelbia \nkryžiaus žygį prieš lietuvius."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180712
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Lenkijos pavyz­
+    džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarnybos
+    ir tiksliai apibrėžtos jų pareigos miestui tarsi suteikė naujo pra­
+    kilnumo71. Vilnius tuo metu tapo pagrindine vietove, kur
+    vykdavo svarbios ir ilgos derybos bei pasirašomos sutartys
+    su kryžiuočiais, buvo ir svarbiausias centras, iš kurio kara­
+    lius su Vytautu, atgavus Žemaičių žemę, karštai ėmėsi at­
+    vertimo į krikščionybę iki tol dar pagonybės besilaikančių
+    jos gyventojų72. Praėjus dvejiems metams (1415 metais),
+    diniams visiems laikams skiria visą
+    Hubortų valsčių (Huborth), prie to var­
+    do upės išsidėsčiusį, su visais kaimais.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180713
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Betarpiškame ryšyje su Georgenburgo įkūrimu
+    reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies
+    Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.
+    Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
+    jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
+    tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti. Že­
+    maičiai tačiau nesidavė nulenkiami.
+  citata_rodoma: "Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į\njiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek\ntegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti. Že­\nmaičiai tačiau nesidavė nulenkiami."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198678
+
+- id: c-180714
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Prie­
+    šingai, kryžiuočiai paleido į Vak. Europos visuomenę gandų,
+    kad Lietuvos krikštas yra tariamas, atliktas paviršutiniškai,
+    be didesnio žmonių paruošimo ir net apsikrikštijusieji tai da­
+    rė dovanų pavilioti^2 ). Vytautas, jų vadas, esąs grasinąs sa­
+    vo arklius pagirdyti Reino upėje, vadinasi, katalikas būdamas,
+    norįs užimti ir sunaikinti katalikišką Vokietiją. Vak. Europos
+    visuomenė tikėjo Ordinui ir laikė tik jį tikėjimo gynėju Europos
+    Rytuose.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180716
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas
+    buvo pastatytas prieš lenkų kairįjį sparną, kuris siekė Ludwigsdorfo
+    mišką. Kairysis kryžiuočių sparnas, kuris buvo sutelktas prieš
+    dešiniajame sąjungininkų sparne pastatytus lietuvių pulkus, buvo
+    sudarytas iš stiprių dalinių^21. Pačios kautynės, nors valandos nega­
+    lima tiksliai nustatyti, prasidėjo jau po pietų.
+  citata_rodoma: "Kairysis kryžiuočių sparnas, kuris buvo sutelktas prieš\ndešiniajame sąjungininkų sparne pastatytus lietuvių pulkus, buvo\nsudarytas iš stiprių dalinių^21. Pačios kautynės, nors valandos nega­\nlima tiksliai nustatyti, prasidėjo jau po pietų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198656
+    - t-198835
+
+- id: c-180719
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tokiais sumetimais ir bu-
+    vo išrinktas magistru (1511
+    m.) Ansbacho Hohenco-
+    lernų šeimos narys, kara-
+    liaus Zigmanto seserėnas
+    (Kazimiero dukters sūnus)
+    Albrechtas. Buvo tikimasi,
+    kad jis sugebės geriau su-
+    sitarti su Lenkija jau vien
+    dėl savo giminystės su ka-
+    ralium. Tačiau visi mėgini-
+    mai nenusisekė, ir ordinui
+    teko pradėti su Lenkais ka-
+    rą. Karas ordinui nesisekė, ir teko padaryti paliaubas, nieko ne-
+    laimėjus.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180722
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
+  citata_originali: |
+    Tris kartus suvirpėjo žemė drauge su pastatais, kurių retas išliko nesugriuvęs. Ką reiškė
+    šis antgamtiškas žemės drebėjimas, paaiškės vėliau.
+    288 (281). Apie maldininkų atvykimą
+    1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti
+    į Prūsijos žemę. Atvyko šie kilmingieji: jo kilnybė Verneris, Hoinbergo grafas, riteriai
+    Adolfas iš Vintimelio su savo broliu ir Ditrichas iš Elnerio su savo broliu Arnoldu bei daug
+    kitų kilmingųjų iš Reino.
+  citata_rodoma: "Ilgokai jam grasinę, galop tarėjai paprašė\nteisėją jo pasigailėti, o  jį paakino tučtuojau pakeisti savo gyvenimo būdą. Kai brolis\nHenrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.\nKai sugrįžo išbalęs ir priblokštas  į savo pilį, papasakojo visa, ką matęs, savo žmonai,\nkilmingai, jaunai ir švelniai moteriai, kuri, jo paprašyta skyrybų, ryžtingai atsisakė."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180724
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuva krikštijosi katalikišku krikštu, o jos
+    dalis Žemaitija tapo paskutiniu Europoje
+    apsikrikštijimo regionu – šiais įvykiais bai-
+    gė formuotis krikščioniškoji Europa.
+    Lietuvos Didžioji Kunigaikštija dėl Vo-
+    kiečių ordino pavojaus pamažu stiprino
+    ryšius su Lenkija, o XV–XVI a. perėmė
+    krikščionišką Vakarų kultūrą. XVI a. vidu-
+    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
+    valstybė – Abiejų Tautų Respublika.
+  citata_rodoma: "Lietuvos Didžioji Kunigaikštija dėl Vo-\nkiečių ordino pavojaus pamažu stiprino \nryšius su Lenkija, o XV–XVI a. perėmė \nkrikščionišką Vakarų kultūrą. XVI a."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180726
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Taip iš Vytauto buvo
+    atimta vakarinė Podolija^1 ). Ordinas, įgavęs dar didesnės vil­
+    ties pasilikti Žemaitijoj, savo politikos su Vytautu nepakeitė.
+    Tik lenkai, matydami jo susilpnėjimą, laikė gera proga užmegs­
+    ti glaudesnius santykius su Lietuva.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180727
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Bet iki šiol vis dar
+    nėra galutinai išaiškintas klausimas, ar tie dokumentai yra tikri.
+    Jeigu jie visi būtų autentiški, tai reikštų, kad « vokiečių ordinas savo
+    draugystę su Mindaugu yra be saiko išnaudojęs »^134.
+    Santykiaudamas su naujakrikštu Mindaugu, Livonijos ordinas
+    pradėjo reikšmingą laikotarpį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198759
+
+- id: c-180728
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    **Prūsus** sudarė keletas kilčių, kurių tik vakariausios bu-
+    vo vadinamos prūsais. XIII amž. į čia atsikraustęs vokiečių
+    kryžiuočių ordinas pirmučiausia pavergė prūsus. Vėliau nuka-
+    riautas tolimesnes aisčių gimines vokiečiai neskirdami irgi va-
+    dino prūsais.
+  citata_rodoma: "XIII amž. į čia atsikraustęs vokiečių\nkryžiuočių ordinas pirmučiausia pavergė prūsus. Vėliau nuka-\nriautas tolimesnes aisčių gimines vokiečiai neskirdami irgi va-\ndino prūsais."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180729
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Su trigubai di­
+    desniu įniršiu, nešini šv. Jurgio vėliava puolė į mūšį Ordino
+    riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­
+    lių, turėjo grįžti prie likusių karių. Tačiau mūšio metu į me­
+    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
+    per kurį didelę Vilniaus dalį pasiglemžė ugnis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198638
+
+- id: c-180730
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Nepaisant to,
+    ne tik Vilnius, bet ir kiti Lietuvos
+    miestai dar nebuvo praradę savo
+    reikšmės, kadangi net prieš patį Švit­
+    rigailos nuopuolį, 1432 metais, Lie­
+    tuvos ir lietuviškos Rusios kuni­
+    gaikščiai, bajorai ir miestai raštu
+    prisiekė Prūsijos ordinui tiksliai lai­
+    kytis su juo sudarytos didžiojo ku­
+    nigaikščio Švitrigailos sutarties. Ind.
+    C od. Hist. Diplom. Livon., I. N. 1524.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180731
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Apie
+    gegužės m. 20 d. jis įsiveržė į Vilniaus srities Medininkus ir,
+    pabuvęs ten astuonias dienas, grįžo su dideliu grobiu^1 ).
+    Matydamas Vytauto pastangas neinant veltui, Ordinas ma­
+    tė reikalą taip pat išplėsti Lietuvos pasienyje akciją. Dar
+    vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi
+    pilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­
+    talpintos kryžiuočių įgulos.
+  citata_rodoma: "jis įsiveržė į Vilniaus srities Medininkus ir,\npabuvęs ten astuonias dienas, grįžo su dideliu grobiu^1 ).\nMatydamas Vytauto pastangas neinant veltui, Ordinas ma­\ntė reikalą taip pat išplėsti Lietuvos pasienyje akciją. Dar\nvasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi\npilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­\ntalpintos kryžiuočių įgulos."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180732
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Ordino kariuomenė, sudaryta iš pėstininkų, raitelių ir arti­
+    lerijos, buvo už abi sąjungininkų (lietuvių ir lenkų) kariuomenes
+    geresnė. Ji buvo geriau ginkluota, sutvarkyta, drausminga ir
+    kovose patyrusi, — tai buvo visos Europos kariuomenių pavyz­
+    dys. Nuolatinę kariuomenę sudarydavo Ordino broliai, o karui
+    ištikus kviesdavosi ir samdydavosi riterių iš įvairių Europos
+    kraštų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12375
+
+- id: c-180737
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Prūsams dar ir dėl to buvo sun-
+    kiau gintis nuo ordino, kad jie neturėjo vieningos valstybės; jų
+    smulkūs kunigaikštėliai, savitarpy nesugyvendami, negalėjo
+    sutartinai gintis nuo priešo. Todėl ordinas per 50 metų nukariavo
+    visas aisčių gimines tarp Vyslos ir Nemuno ir, priėjęs Nemuną,
+    susidūrė jau su vieninga Lietuvos valstybe, su kuria vėl pradėjo
+    ilgą karą. Tuo tarpu visos kiltys, buvusios anapus Nemuno,
+    liko amžinoje vokiečių vergovėje.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180739
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Iš savo pusės, sutikdami apsi­
+    krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­
+    tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­
+    lius bei Kuršius Livonijoje. Kadangi Lietuvai apsikrikštijus
+    Ordino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,
+    tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
+    nuo totorių užpuldinėjimo.
+    Kai ciesorius ir Vokiečių Ordinas su dideliais Lietuvos val­
+    dovų reikalavimais nenorėjo sutikti, vėl reikėjo griebtis kardo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12369
+
+- id: c-180740
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Valakijos kunigaikščiai jo globos sie­
+    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
+    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
+    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
+    Žygimantą Kaributaitį, savo sūnėną. Vilniaus miesto reikšmė
+    jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių
+    karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos
+    su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.
+    75
+    Žr. Stryjkowski, p. 518, ed. ac Vitoldum Ducem Lithuaniae, Duces-
+    Varšuv. que Masoviae ab um, et Paulum deRus-
+    76 dorf, Magistrum Cruciferorum et suum
+    Kojałowicz,Pars.
+  citata_rodoma: ") pageidaujamu valdovu kunigaikštį \nŽygimantą Kaributaitį, savo sūnėną. Vilniaus miesto reikšmė \njau anais laikais buvo tokia didelė, kad lygia greta svarbiausių \nkaralystės miestų, jam buvo leista laiduoti sutarties, sudarytos \nsu kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.\n75\nŽr."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180741
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 39"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
+  citata_originali: |
+    Be to, nemaža tokių, kurie, gilaus širdies pamaldumo skatinami, su
+    begaliniu uolumu patarnauja ligoninėse pasilpėliams ir paliegėliams, sergantiems
+    šiurpiomis ligomis. Garbingą ir naudingą vietą ordine užima dvasininkai, kurie taikos
+    metu, visur pasklidę nelyginant kibirkštys, skatina brolius pasauliečius stropiai laikytis
+    regulos, laiko pamaldas ir teikia sakramentus, o skubantiems į kruvinas žudynes vardan
+    gyvenimo ar mirties rodo nukryžiuotojo viešpaties pavyzdį, šitaip keldami kovotojų
+    narsą; su begaline dvasios malone jie teikė savo patarnavimus visiems — ir tvirtiems
+    kariams, ir silpniems paliegėliams, nešdami jų sąžinei paguodą paskutinę gyvenimo
+    valandą. Štai šį dvasios palaimą teikiantį ordiną, nuolatos šventosios bažnyčios labui
+    plečiantį savo veiklą, rėmė įvairūs popiežiai, palankia akimi stebėję jo darbą ir patvirtinę
+    jam suteiktas gausias privilegijas, imunitetus ir laisves154.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180743
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Bet šis vyras,
+    tiesus ir nepalaužiamas, davė jam tokį įsidėmėtiną atsaky­
+    mą: „Nors Vytautas ir vertas yra karūnos, tačiau, jeigu
+    trokšta jos nepaisydamas šventos priesaikos, kokią pats da­
+    vė, užuot savo šlovę apvainikavęs, gėdą sau užtrauks, p
+    tėvynei nelaimę atneš. Argi Vytautas nesupranta, jog Zig­
+    mantas ir kryžiuočiai, įnirtingi dviejų susivienijusių tautų
+    priešai, ne dėl ko kita siūlo jam karūną, kaip tik savo suktas
+    užmačias dangstydami, siekdami Lietuvos ir Lenkijos su­
+    priešinimo ir galios sužlugdymo? Tyko jie tik mūsų pražū­
+    ties, nori, kad įsiliepsnotų vidaus kovos.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180744
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
+  citata_originali: |
+    Apie Baigos brolių vienuolišką gyvenimą
+
+      Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių
+    paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų
+    regulų laikėsi Baigos bei kitų minėtųjų pilių broliai. Niekad arba beveik niekad netruko čia
+    maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar
+    rytmetinių pamaldų tas ar kitas brolis neplaktų rykštėmis savo kūno. Kai kurie vienuoliai,
+    atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė,
+    kuo vardu jų pilis. Kai jiems atsakė, jog Engelsbergas, tai yra Angelų kalnas, šie atrėžė:
+    „Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198624
+
+- id: c-180745
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Palestinoje prie
+    Akonos apgulimo^74.
+    Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs
+    Mozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo
+    įkyrių prūsų puldinėjimų, iš imperatoriaus Fridricho II (Hohenštau-
+    feno) išsirūpino ordino ateičiai rytuose reikšmingą privilegiją, duotą
+    Rimini, Italijoje, 1226 m. kovo mėnesį. Jos dėka ordinui, su Reicho
+    kunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­
+    ninku užkariausimoje prūsų žemėje.
+  citata_rodoma: "Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs\nMozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo\nįkyrių prūsų puldinėjimų, iš imperatoriaus Fridricho II (Hohenštau-\nfeno) išsirūpino ordino ateičiai rytuose reikšmingą privilegiją, duotą\nRimini, Italijoje, 1226 m. kovo mėnesį. Jos dėka ordinui, su Reicho\nkunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­\nninku užkariausimoje prūsų žemėje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198718
+
+- id: c-180746
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Ordinas jau gavo įsitikinti,
+    kad dideliu žygiu iš karto vis tiek negalės pavergti Lietuvos, to-
+    dėl griebėsi kitokios taktikos. Nedideli jo kariuomenės būriai
+    iš pasieninių pilių staiga įsiverždavo į Lietuvą ir, apiplėšę apylin-
+    kę, skubiai grįždavo į savo pilis. Grįždami jie atsigabendavo pri-
+    plėštus turtus, atsivarydavo bandas gyvulių ir atsivesdavo dau-
+    gybę belaisvių.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180747
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 94"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
+  citata_originali: |
+    Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
+    ir 10 laivų. Kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289,
+    kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas
+    jį nukovė. Elbingo miestiečių laive, kuris, smarkiai plaukdamas, užšoko ant seklumos ir
+    čia paliko, buvo nukauti du broliai, tačiau brolis Fridrichas, atėjęs į pagalbą, visus kitus
+    išvadavo ir perkėlė į savo laivą, praradęs kovoje du brolius ir 3 vyrus, o priešas neteko
+    20 užmuštaisiais, tačiau likusieji paspruko.
+    52 (51). Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną
+    288  Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
+    5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
+    pilis — Elbingą ir Baigą.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180748
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 253"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 253."
+  citata_originali: |
+    Tuo metu 60 brolių ir būrys vyrų iš Prūsijos patraukė link Gardino pilies, tačiau, patyrę,
+    jog tie perspėti, pasiuntė 400 vyrų, kurie įsiveržė į šios pilies apylinkes, apiplėšė jas ir
+    sugrįžo ten, kur stovėjo brolių kariuomenė. Kitą dieną, kai lietuviai, manydami, jog
+    broliai bus patraukę  į savo žemę, ėjo  į savo laukus, broliai su visa savo kariuomene
+    užgriuvo mūsų minėtą žemę ir per šešias mylias ją nusiaubė, degindami bei grobdami.
+    Be to, daug šios pilies kilmingųjų, apie 94 žmones, su visais savo namais ir šeimyna
+    prisidėjo prie brolių ir, atvykę į Prūsiją, priėmė krikšto malonę.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180749
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Šitokis buvo kelias į Liublino uniją.
+    Kitados, ypač XIV amž., nuolatiniai ordino žygiai Lietuvon
+    vertė visą kraštą virsti lyg kokia nuolatinio karo stovykla. Ta­
+    čiau karams su kryžiuočiais pasibaigus, baigėsi pavojai iš vakarų
+    pusės.
+  citata_rodoma: "Kitados, ypač XIV amž., nuolatiniai ordino žygiai Lietuvon\nvertė visą kraštą virsti lyg kokia nuolatinio karo stovykla. Ta­\nčiau karams su kryžiuočiais pasibaigus, baigėsi pavojai iš vakarų\npusės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198634
+    - t-198893
+
+- id: c-180751
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 433."
+  citata_originali: |
+    O kas gi buvo
+    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
+    tuva kilties ir vienos genties broliai? Labiausiai kritikui nepa­
+    tiko, kad didžioji vardų dalis baigiasi raide o; tokių prūsiškų,
+    šiaip jau žinomų vardų esą maža. Atsakant į tai, reikia atkreipti
+    kritiko dėmesį, kad tie vardai kronikose iš dalies rašomi ne­
+    tiksliai, kadangi šiaip jau žinomiBrutenes (Brutenis) ir Wejda-
+    wutis (Vaidevutis) tame būryje turi tokias pat vardų galūnes.
+    Tačiau pats kritikas negali užginčyti, kad buvo vardų ir su to­
+    kia galūne; tegu pamąsto apie tokį atvejį, jog tų žmonių būry­
+    je daugiausia buvo turinčių tas nelaimingas galūnes, kurios
+    padarė, kad autorius pats susilpnina ir vienu plunksnos brūkš­
+    niu padaro abejotinus savo principinius teiginius, taip stropiai
+    pateiktus anksčiau toje pačioje istorijoje, ir vyriausiojo žynio
+    buvimo įrodymus, nukreiptus prieš priešingų hipotezių kėlė­
+    jus, - įrodymus, tokius tvirtus, aiškius ir akivaizdžius, kiek tik
+    leidžia pagalbinės istorijos mokslo priemonės, - pasitelkda­
+    mas hipotezes jiems visiškai sugriauti ir dar hipotezes, pasi­
+    skolintas iš Hartknocho, kuris nerūpestingai prikaišiojo jų į
+    savo Prūsijos istorijos aprašymus ' ir šiandien tikrai atšauktų,
+    jeigu perskaitytų, ką mes čia tuo klausimu išdėstėme.
+  citata_rodoma: "1.\nSeniausias žinomas šito šaltinis yra Simonas Grunau,\nnaujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš\ntikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­\nšantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug\nužsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais\nnekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­\nma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų\narba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­\n11 Sirvydo žodynas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198751
+
+- id: c-180752
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    **Karas su Lenkija.** Lenkams negrąžinant Podolės, Švitrigaila
+    tuojau užmezgė ryšius su abiem vokiečių ordino šakom (1431 m.).
+    Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri or-
+    dinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis revi-
+    duoti Melno taikos sąlygas. Šia sutartim Švitrigaila sutiko ati-
+    duoti kryžiuočiams Palangą ir trejetą mylių pajūrio ruožo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198595
+
+- id: c-180753
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    (^126) I SKYRIUS: LIETUVOS PROISTORĖ
+    Lietuvių ten gyventą plotą akivaizdžiai parodo į pietvakarius nuo
+    Naugarduko Zieteloje (Zdzięciol) iki šių dienų išsilaikiusi lietuvių
+    kalbos sala. Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­
+    tuvos kelių aprašymuose (« die litauischen Wegeberichte ») įvairiose
+    Aukštaičių žemės vietose minimi didžiojo kunigaikščio dvarai (jų
+    iš viso sužymėta 18), gali tarnauti lietuvių plotui apibrėžti, palieka
+    atviras klausimas. Savo dvarus didysis kunigaikštis paprastai turėjo
+    jam betarpiškai priklausančiose lietuviškose tėviškės valdose.
+  citata_rodoma: "(^126) I SKYRIUS: LIETUVOS PROISTORĖ\nLietuvių ten gyventą plotą akivaizdžiai parodo į pietvakarius nuo\nNaugarduko Zieteloje (Zdzięciol) iki šių dienų išsilaikiusi lietuvių\nkalbos sala. Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­\ntuvos kelių aprašymuose (« die litauischen Wegeberichte ») įvairiose\nAukštaičių žemės vietose minimi didžiojo kunigaikščio dvarai (jų\niš viso sužymėta 18), gali tarnauti lietuvių plotui apibrėžti, palieka\natviras klausimas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198672
+    - t-198675
+    - t-198713
+
+- id: c-180754
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  citata_originali: |
+    Kartą, kai popiežius Honorijus III
+    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
+    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
+    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
+    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
+    jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
+    kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
+    Kaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę
+    turėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem
+    pasitarnavo, draugiškai vieną su kitu taikydamas.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180757
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Skubinai persikėlus per Nemuną, kryžiuočių kariuomenė
+    prie Strėvos upės išsiskyrė į du didelius dalinius. Pirmasis,
+    kurį sudarė vien svetimšaliai riteriai, vadovaujami didžio­
+    jo magistro, nužygiavo Trakų link, bet tą miestą radę Skir­
+    gailos sudegintą, pasuko atgalios ir susijungė su kitu dali­
+    niu, kuris, vadovaujamas Vytauto ir Ordino maršalo,
+    40 kus darbus gaudavo vietą prie stalo
+    Viduramžiais Vokietijoje prieš kiek- ir būdavo pagerbiamas,
+    vieną karo žygį riteriai, susiruošę į 41
+    kovą, kariautojus, prisijungusius Schütz Chroń. Pr, fol. 89 ir kiti
+    prie jų, priimdavo labai širdingai ir Prūsijos kronikininkai,
+    surengdavo puotą, kur kiekvienas 42
+    pagal savo pelnvtą šlovę bei riteris- ł n k a s 7 Da wi d,T. VTT, p 246
+    131
+
+    ## Puslapis 148
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    žygiavo per Bobius43 užimti Ukmergės, kryžiuočių vadina­
+    mos Vilkinbergu44.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180759
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    O dabar, šventasis ir garbingasis tėve,
+    labai prašome atkreipti savo dėmesį į mūsų apverktiną būk­
+    lę, nes mes, kaip ir kiti krikščionių karaliai, esame pasirengę
+    visuose dalykuose jums paklusti ir priimti krikščionių tikė­
+    jimą, kad tik mūsų nevargintų anksčiau minėtieji kankinto­
+    jai, būtent, minėtasis magistras ir broliai.
+    87
+
+    ## Puslapis 104
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
+    monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
+    nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
+    dimino, bet nei su jo žinia, nei jo valia parašyti. Rygos
+    arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir
+    išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo
+    melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių
+    ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą
+    ginče su kryžiuočiais.
+  citata_rodoma: "87\n\n## Puslapis 104\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nMūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­\nmonę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­\nnams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­\ndimino, bet nei su jo žinia, nei jo valia parašyti. Rygos \narkivyskupas, Gedimino vardu prisidengęs, juos parengė ir \nišsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo \nmelu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių \nordiną ir per tai pelnytų sau palankų popiežiaus sprendimą \nginče su kryžiuočiais."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180760
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    O vasaros žygis buvo ruošiamas apie rug­
+    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
+    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
+    kryžiuočių ir 30—iš Livonijos. Į tą skaičių neįeina pasienyje
+    ordino riterių suorganizuoti savanorių — « plėšikėlių » (vad. « strut­
+    ter », «latrunculi ») nuolatiniai plėšikavimai, be to, pasienių pilių
+    valdytojų vykdomi teriojimai į artimas Žemaičių ir Aukštaičių
+    žemes.
+  citata_rodoma: "Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų\nkryžiuočių ir 30—iš Livonijos. Į tą skaičių neįeina pasienyje\nordino riterių suorganizuoti savanorių — « plėšikėlių » (vad."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198735
+    - t-198783
+
+- id: c-180761
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kryžiuo­
+    čiams liko ištikimos 8 pilys — jų tarpe Ragainės ir Klaipėdos. Po
+    pirmo katastrofos smūgio ordinas tačiau ėmė atsipeikėti. Kai
+    Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko
+    apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės
+    jau nebeįstengė paimti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198712
+
+- id: c-180762
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 201"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 201."
+  citata_originali: |
+    Taigi jis, surinkęs kariuomenę, nuplaukė laivais drauge su tais, kurie ir šiaip jam
+    buvo pavaldūs, Jūros upe aukštyn ir nusigavo prie Pūtvės pilies558; auštant, pilėnams
+    tebemiegant, jie slaptai įsibrovė į papilį ir jį pavertė pelenais, paimdami į nelaisvę ar
+    nukaudami [visus], išskyrus tuos, kurie suskubo pasprukti į pilį.
+    299 (292). Apie tą patį
+    Tų pačių metų rudenį, kai jau buvo atstatytas minėtasis papilys, o jame sukrauta visi
+    grūdai bei javai, ten nužygiavo tas pats komtūras su savo broliais bei raiteliais ir antrą
+    kartą sudegino tą papilį, paimdamas į nelaisvę ar nukaudamas visus žmones, kuriuos
+    ten užtiko.
+  citata_rodoma: "Tų pačių metų rudenį, kai jau buvo atstatytas minėtasis papilys, o jame sukrauta visi\ngrūdai bei javai, ten nužygiavo tas pats komtūras su savo broliais bei raiteliais ir antrą\nkartą sudegino tą papilį, paimdamas  į nelaisvę ar nukaudamas visus žmones, kuriuos\nten užtiko."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180763
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
+  citata_originali: |
+    20. Apie didžiojo magistro mirtį
+
+      Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
+    18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
+    paties nedorybių, nužudė brolį Vernerį, didįjį magistrą, kai tas, atgiedojęs mišparus, ėjo
+    iš bažnyčios, o nužudė todėl, kad tas jį bardavo už jo nusižengimus. O Jonai brolžudy,
+
+    Pastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—
+    Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198901
+
+- id: c-180764
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
+  citata_originali: |
+    Kryžiuočių ordinas visaip stengėsi sužlugdyti minėtąją 1323 m. spalio 2 d. sutartį: jau
+    spalio 24 d. Livonijos ordinas raginamas ją nutraukti, po to imtasi žygių, kad nutrauktų
+    sutartį Rygos miestas ir t. t. Ordinas tęsė agresiją 1324 m., kovo mėn. puldamas Gardino
+    apylinkes, gegužės mėn.— Gedimino pilį Žemaitijoje, metų pabaigoje, rodos, vėl Gardiną.
+    Puldinėjo Lietuvos žemes, grobė jas pasienyje ir Livonijos riteriai57.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180765
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
+  citata_originali: |
+    Toliau
+    Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne
+    Jėzaus Kristaus“, todėl šaukiasi į Kristų, prašydamas suteikti jiems dvasios įžvalgumo,
+    kad būtų „suniekinti visi, kurie tavo tarnams daro bloga“. Taigi autorius siekia išaukštinti
+    jau užmirštus Ordine pirminius idealus.
+    Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems
+    broliams. Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė,
+    stebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).
+  citata_rodoma: "Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų\nįvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,\natsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius\ndarbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,\nkiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių\n„stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180766
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Be to, vakarų Europoje sklei-
+    džiamose kronikose vokiečių ordinas tyčia žemino lietuvius, norė-
+    damas pateisinti savo nuolatinius kruvinus žygius ir tuo būdu prisi-
+    vilioti sau į talką daugiau karingų Europos riterių. Kas gi nenorės
+    vykti pamatyti tų „laukinių baisenybių", o kartu patarnauti ir krikš-
+    čionybei? Tad iki pat XV amžiaus Europoje tolydžio buvo kalbama
+    apie Lietuvos barbariškumą, apie jos gyventojų nežmoniškumą. Tada
+    nebuvo kas parodo pasauliui tikrosios Lietuvos vaizdo.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180767
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Juk
+    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
+    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
+    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
+    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
+    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
+    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
+    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
+    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
+    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
+    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
+    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
+    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
+    klestėti!
+    Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­
+    gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­
+    tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­
+    sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos
+    -- • --
+    135
+
+    ## Puslapis 152
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bandant nuversti naująjį Lietuvos valdovą.
+  citata_rodoma: "Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­\ntiems vien nukariavimais ir, po teisybei, naujos monarchijos \nkūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės \nkraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­\ntas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­\nklestėti!\nDar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­\ngailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­\ntęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­\nsinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos\n-- • --\n135\n\n## Puslapis 152\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nbandant nuversti naująjį Lietuvos valdovą."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180768
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pasigirsta vi­
+    sų kaip vieno balsai, kad jie esą laisvi ir kad jų tėvai niekados
+    nemokėję Lenkijai duoklių - toks buvo atsakymas į tą prama­
+    naus Vytauto klausimą. Taigi prasidėjo slapti sandėriai su Or­
+    dinu, pirmiausia Gardine, paskui kitose vietovėse, kur Vytau­
+    tas atnaujino senuosius savo ryšius su Prūsija; apsisaugodamas
+    nuo nepakeliamų Jogailos reikalavimų, kryžiuočiams prižadė­
+    jo teikti pagalbą atstatinėjant sudegintas jų pilis prie Kauno64.
+    Tačiau šie politiniai kivirčai nebuvo Vilniui tokie skaudūs (1399
+    m.), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­
+    giantis.
+  citata_rodoma: "Pasigirsta vi­\nsų kaip vieno balsai, kad jie esą laisvi ir kad jų tėvai niekados \nnemokėję Lenkijai duoklių - toks buvo atsakymas į tą prama­\nnaus Vytauto klausimą. Taigi prasidėjo slapti sandėriai su Or­\ndinu, pirmiausia Gardine, paskui kitose vietovėse, kur Vytau­\ntas atnaujino senuosius savo ryšius su Prūsija; apsisaugodamas \nnuo nepakeliamų Jogailos reikalavimų, kryžiuočiams prižadė­\njo teikti pagalbą atstatinėjant sudegintas jų pilis prie Kauno64. \nTačiau šie politiniai kivirčai nebuvo Vilniui tokie skaudūs (1399 \nm."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180770
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Pavaduodamas susirgusį Livonijos magistrą,
+    Eberhard von Seyne^135 (Deutschmeister) pastatė strategiškai svarbią
+    Klaipėdos pilį 1253-1254 m.^136. Ji ne tik gynė svarbų kelią tarp
+    Prūsų ir Livonijos per patogią Kuršių Neringą, bet dar turėjo būti
+    apsauga artėjančioms iš Kuršo į pietus ir nuo kairiojo Nemuno
+    kranto į šiaurę ordino riterių jėgoms, turinčioms sudaryti bendrą tiltą
+    vakarų Žemaičiuose (Baltijos pakraštyje). Nors Klaipėdai nė iš tolo
+    neteko suvaidinti tokios rolės, kuri buvo tekusi prieš lybius ir lat­
+    vius Rygai ar prie Priegliaus — Karaliaučiui (1254 m.), tačiau Klai­
+    pėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, juo labiau, kad
+    Prūsų ordinas XIII amž. galo užvaldė Nemuno deltą.
+  citata_rodoma: "Nors Klaipėdai nė iš tolo\nneteko suvaidinti tokios rolės, kuri buvo tekusi prieš lybius ir lat­\nvius Rygai ar prie Priegliaus — Karaliaučiui (1254 m.), tačiau Klai­\npėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, juo labiau, kad\nPrūsų ordinas XIII amž. galo užvaldė Nemuno deltą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198647
+
+- id: c-180771
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 181"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 181."
+  citata_originali: |
+    Apie vieną nuostabų atsivertimą
+    Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo
+    vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,
+    garsėjęs kaip labai gabus račius ir didelis karo pabūklų meistras. Kai jis kartą, jau
+    padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo
+    vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini
+    keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis
+    neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
+    būdo; kad šitai būtų akivaizdu, jie jį užklojo balta marška, kaip paprastai užklojami
+    numirėliai. Jis labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą
+    baltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai
+    ir užbaigė.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180772
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    19 d. Urbo­
+    nas VI Lietuvą jau oficialiai pripažino katalikišku kraštu.
+    Nors kryžiuočiai dar iki pat Tannenbergo kautynių lietuvius
+    Vakarų Europai pristatydavo kaip pavojingus rytų « saracėnus »,
+    kryžiaus karų šauksmas savaime turėjo pamažu nutilti. Drauge
+    išnyko ir tituluotų pilgrimų žygiai į «Litauerreisen».
+  citata_rodoma: "Urbo­\nnas VI Lietuvą jau oficialiai pripažino katalikišku kraštu.\nNors kryžiuočiai dar iki pat Tannenbergo kautynių lietuvius\nVakarų Europai pristatydavo kaip pavojingus rytų « saracėnus »,\nkryžiaus karų šauksmas savaime turėjo pamažu nutilti. Drauge\nišnyko ir tituluotų pilgrimų žygiai į «Litauerreisen»."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198851
+
+- id: c-180773
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1410 
+    Žalgirio (Griunvaldo) mūšis. Lenkijos ir Lietuvos jungtinė kariuomenė
+    sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
+    tencijai.
+    1569 
+    Liublino unija.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180774
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1392–1430
+    žymiausio Lietuvos valdovo Vytauto valdymo metai.
+    1410 
+    Žalgirio (Griunvaldo) mūšis. Lenkijos ir Lietuvos jungtinė kariuomenė
+    sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
+    tencijai.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180776
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Nors lietuviai ir buvo
+    paleisti, bet Vytautas vokiečių pirklių nepaleido ir Grabovo
+    suvažiavime pareikalavo iš Ordino atsilyginti už paimtas pre­
+    kes ir nužudytų pirklių šeimoms^2 ). O kai Vokiečių Ordino ma­
+    gistras uždraudė į Lietuvą įvežti druskos, supykęs Vytautas įsa­
+    kė visiems vokiečių pirkliams iki Sekminių iš Lietuvos išsineš­
+    dinti^3 ). Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­
+    statyti Žemaitijos sienas.
+  citata_rodoma: "O kai Vokiečių Ordino ma­\ngistras uždraudė į Lietuvą įvežti druskos, supykęs Vytautas įsa­\nkė visiems vokiečių pirkliams iki Sekminių iš Lietuvos išsineš­\ndinti^3 ). Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­\nstatyti Žemaitijos sienas."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180777
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
+  citata_originali: |
+    Vis dėlto manyčiau, jog nieku būdu nederėtų nutylėti, kad šis brolis
+    Fridrichas prieš savo žūtį taip smarkiai kirto kalaviju per nugarą vienam tvirtam kariui,
+    pastojusiam kovoje jam kelią, taip baisiai jam smogė, kad tas, neatlaikęs smūgio, su
+    arkliu parkrito žemėn, nors šis kirtis jo visai nesužeidė ir nepaliko ant kūno jokio žaizdos
+    pėdsako, kaip vėliau, priėmę Kristaus tikėjimą, viešai pareiškė ir pats nukentėjęs, ir kiti
+    sūduviai, dalyvavę tame kare ir viską matę.
+    219 (214). Apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­
+    mą ir apie tai, kaip buvo apleista ši žemė
+    Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti,
+    nerašysime apie tuos karus.
+  citata_rodoma: "Brolis  Konradas,  magistras,  išmintingas  ir  apdairus  vyras, suprasdamas,  kad,\nbraudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos\nbroliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,\nkuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180778
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Pastarojo
+    nariai (o taip pat ir templininkai) nešiojo baltus apsiaustus su išsiūtu
+    juodu kryžium, todėl mūsų krašte dažniausiai būdavo vadinami kry-
+    žiuočiais. Kitur juos paprastai vadino vokiečių, arba Marijos Mergelės,
+    ordinu. Ordinas buvo vokiečių imperatorių bei kunigaikščių remia-
+    mas ir labai greit pralobo.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180779
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tai buvo Vytauto planų parėmimas. Dabar visa garbė ir
+    šlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­
+    čiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus
+    totorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą.
+    Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
+    jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė.
+  citata_rodoma: "Dabar visa garbė ir\nšlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­\nčiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus\ntotorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą.\nKai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti\njam pabėgėlį Tochtamyšą, tai Vytautas atsisakė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198771
+    - t-198861
+
+- id: c-180781
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pakeliui viską versdama
+    pelenais, kryžiuočių kariauna puolėsi Bisenės pilies link, pa­
+    siryžusi užimti ją šturmu, ir jau vėlų vakarą imta pulti. Įgu­
+    la gynė sienas nepaprastai narsiai ir vokiečius, nepaisant jų
+    66
+
+    ## Puslapis 83
+
+    I  KNYGA
+    sunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­
+    joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­
+    dami, kad sutiksią paklusti Ordinui. Vos tik kryžiuočiai at­
+    sitolino, Gediminas jėga privertė juos sulaužyti duotą žodį ir
+    atsisakyti priklausomybės Ordino valdžiai.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180782
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 110"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
+  citata_originali: |
+    81 (78). Dar apie tą patį
+
+      Su šiuo broliu Hermanu, jau priimtu  į Ordiną ir darančiu vieną dorovingą darbą po
+    kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną
+    sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis stengėsi patirti jos
+    liūdesio priežastį, atsakė: „Man liūdna, kad mano mielieji sūnūs, o tavo broliai iš Teutonų
+    ordino, kitados apie nieką kita nesikalbėję, tik apie mano sūnų, apie mane ir šventųjų
+    darbus, dabar apie nieką kita nesikalba, tik apie karalių bei kunigaikščių darbus ir šio
+    pasaulio tuštybę, o labai retai kada arba niekada nemini nei mano sūnaus, nei manęs,
+    nei šventųjų darbų“.
+
+      340  Gerhardas iš Hiršbergo (Hircbergo) 1257—1259 m.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180783
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 72"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
+  citata_originali: |
+    Kai garsas apie naują Kristaus kryžiaus žygį nuskambėjo po visas Vokietijos karalystės
+    žemes, kai buvo paskelbtas naujas karas, kuriam viešpats pasirinko Prūsijos žemę, kai
+    buvo pažadėta naujo karo dalyviams atlaidų bei laisvių, subruzdo visi tie, kuriems širdis
+    sujaudino dievas, būtent šaunūs ir garsūs Vokietijos kariai; prisisegę prie peties kryžių,
+    jie rengėsi  į karą keršyti už nukryžiuotojo viešpaties kančias, kratydamiesi visko, kas
+    galėtų trukdyti jų šventiems ketinimams. Mat jie pakluso šiems išganingos Jeronimo
+    paskatos žodžiams, bylojantiems: „Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis
+    pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk,
+    pamynęs po kojomis tėvą, skubėk, pamynęs po kojomis motiną, ir pulk prie kryžiaus karo
+    vėliavos“. Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
+    pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
+    senoji pilis223.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180784
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Jokiai kitai žemei laimėti kryžiuočiai nėra padėję tiek daug pa­
+    stangų, kaip šitam pleištui tarp Nemuno žemupio ir Kuršo-Žiemga­
+    los. Todėl per visą XIV amž., iš visų pagoniškosios Lietuvos žemių,
+    Žemaičiai buvo daugiausia puolami. Kai ginklu jų nebuvo galima
+    laimėti, kryžiuočiai patys skatino arba sėkmingai maišėsi į Gedi­
+    minaičių _vidaus_ kovas.
+  citata_rodoma: "Todėl per visą XIV amž., iš visų pagoniškosios Lietuvos žemių,\nŽemaičiai buvo daugiausia puolami. Kai ginklu jų nebuvo galima\nlaimėti, kryžiuočiai patys skatino arba sėkmingai maišėsi į Gedi­\nminaičių _vidaus_ kovas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198738
+    - t-198843
+
+- id: c-180785
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Smarkiai
+    apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per-
+    kėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne
+    tik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų
+    kunigaikštijai. O Lenkijai Torno taika tekusios žemės išbuvo
+    jos valdžioje iki valstybės padalinimo (1772 m.).
+  citata_rodoma: "Smarkiai\napkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per-\nkėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne\ntik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų\nkunigaikštijai. O Lenkijai Torno taika tekusios žemės išbuvo\njos valdžioje iki valstybės padalinimo (1772 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198651
+
+- id: c-180786
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    II tūkstantmečio pradžioje pradėjo formuotis prū-
+    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
+    tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
+    vėliau įkūrė Prūsijos valstybę.
+    Sėslus baltų gyvenimas, matyt, nulėmė, kad baltų mitologijoje (jos ele-
+    mentų išliko tautosakoje) yra daug senųjų indoeuropiečių mitologijos bruo-
+    žų.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180789
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
+  citata_originali: |
+    Sūduva turėjo gana
+    daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
+    giausia buvusių savarankiškų valdovų. Kryžiuočiams val­
+    dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
+    apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
+    vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
+    Raigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie
+    šią, toje pačioje vietoje esančią provinciją, be to, neabe­
+    jotina, kad nuo seno ten gyveno ir lietuviui Tas pats
+    geografas taip pat žinojo vieną sudinų koloniją, buvusią
+    germanų markomanų genties kaimynystėje, dabar Pra­
+    hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
+    iš prūsų Sūduvos kažkokia užklydusi genties dalis4.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180790
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Lenkija
+    atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
+    Elbingą, Marijenburgą ir visą Varmijos vyskupystę. Smarkiai
+    apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per-
+    kėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne
+    tik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų
+    kunigaikštijai.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180791
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
+  citata_originali: |
+    Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
+    Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
+    pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
+    kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
+    kurį niokojo, degindamas ir grobdamas. Be kita ko, sudegino Skomanto, galingo vyro bei
+    šio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu
+    grobiu sugrįžo namo. Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per
+    šią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė
+    499  Plg. pasakojimą apie Skomanto mirtį (D. III, 224).
+  citata_rodoma: "Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų\npradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo\nkariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,\nkurį niokojo, degindamas ir grobdamas. Be kita ko, sudegino Skomanto, galingo vyro bei\nšio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu\ngrobiu sugrįžo namo. Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per\nšią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė\n  499  Plg. pasakojimą apie Skomanto mirtį (D. III, 224)."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180792
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
+    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime
+    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
+    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
+    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
+    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-
+    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
+    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
+    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-
+    to apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
+    kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu
+    valdovu.
+  citata_rodoma: "Suvažiavime \ntaip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio \npasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-\nčiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-\nnijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-\nmas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją \nįėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I \nir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-\nto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas, \nkad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu \nvaldovu."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180793
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 259."
+  citata_originali: |
+    * Kryžiuočiai atsisakė nuo Žemaitijos 1411 m. Toninės taikos
+    sutartimi, bet tik ligi Jogailos ir Vytauto mirties. Galutinai ir vi­
+    siems laikams atsisakė pagal 1422.1X.27 talkos sutartį, sudarytą
+    prie Melno ežero.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180794
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    matė, kad jį gerbia kryžiuočiai, pavesdami jam net tarpusavio
+    ginčus spręsti. Žodžiu, jis Prūsuose mito Vakarų kultūros vai­
+    siais, ypač materialine kultūra, kurią paskui kėlė savo krašte,
+    statydamas bažnyčias, pilis ir t. t.
+    Išmoko čia ir tos suktos, bet realios Ordino politikos, ku­
+    rios vėliau pats griebdavos santykiaudamas su kaimynais. Da­
+    lyvavimas tarpe riterių, kurie išdidžiai pūtėsi, dėdamiesi esą
+    tikrosios religijos nešėjai ir skelbėjai, turėjo ir Vytauto būdui
+    atsiliepti.
+  citata_rodoma: "Išmoko čia ir tos suktos, bet realios Ordino politikos, ku­\nrios vėliau pats griebdavos santykiaudamas su kaimynais. Da­\nlyvavimas tarpe riterių, kurie išdidžiai pūtėsi, dėdamiesi esą\ntikrosios religijos nešėjai ir skelbėjai, turėjo ir Vytauto būdui\natsiliepti."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180795
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kol vokiečių kariau­
+    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
+    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
+    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
+    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
+    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
+    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
+    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
+    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
+    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
+    Kadangi grėsmingi buvo Gedimino nukariavimų planai,
+    atėjus žiniai apie naują kryžiuočių kariauną Čekijoje ir
+    a
+    D u s b. c.
+  citata_rodoma: "Kol vokiečių kariau­\nna dar delsė stovyklaudama Žemaitijoje, galingas lietuvių \npulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu \nnusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­\nčiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę \nišsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė \nnuomonė, esą kupinas senos neapykantos Rygos arkivys­\nkupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­\nnas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­\nvo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .\nKadangi grėsmingi buvo Gedimino nukariavimų planai, \natėjus žiniai apie naują kryžiuočių kariauną Čekijoje ir\na\nD u s b."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180796
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  citata_originali: |
+    Dievas jam buvo suteikęs tokių malonių,
+    kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
+    Jį didžiai vertino ir popiežius, ir imperatorius, nekalbant apie kitus kunigaikščius bei
+    didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
+    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti  po maišto, sukelto
+    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
+    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
+    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
+    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198700
+    - t-198729
+
+- id: c-180797
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Pir­
+    mąjį tomą (iki 1385 m.) skirdamas pagoniškai Lietuvai, Kojalavi­
+    čius vis tik savo dėstyme parodė aniems lietuviams pagarbos. Tai
+    matyti iš kovų su kryžiuočiais ir iš gražiai aprašytos Vilniaus
+    įkūrimo (Gedimino) sapno legendos^28. Palyginti, objektyviai išdės­
+    tė jis ir 2-jį tomą.
+  citata_rodoma: ") skirdamas pagoniškai Lietuvai, Kojalavi­\nčius vis tik savo dėstyme parodė aniems lietuviams pagarbos. Tai\nmatyti iš kovų su kryžiuočiais ir iš gražiai aprašytos Vilniaus\nįkūrimo (Gedimino) sapno legendos^28. Palyginti, objektyviai išdės­\ntė jis ir 2-jį tomą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198780
+
+- id: c-180798
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
+  citata_originali: |
+    Moteris, tiek kartų ir taip
+    smarkiai bauginama siaubingų bildesių, daugel sykių gąsdinama stebuklingų balsų,
+    nebeturėjo jėgų ilgiau priešintis šventam vyro sumanymui, todėl ir nusileido, duodama
+    jam valią stoti į bet kurį vienuolyną. Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą,
+    davė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus
+    piktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.
+    Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius
+    begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo
+    tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas
+    negali tavęs išganyti, tad išpažink žydų tikėjimą“.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180799
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Todėl jis
+    nepaisė ordino reikalavimo. Pagaliau santykiai tarp ordino ir
+    Vytauto tiek paaštrėjo, kad jis parėmė žemaičius, ir tie visus
+    kryžiuočius išvarė iš savo krašto. Jie sugriovė net Klaipėdą ir
+    įsiveržė į ordino žemes už Nemuno.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180800
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
+    niku. Čia pastebėjo, kad perėjimas per tą upę jau kryžiuočių
+    buvo saugojamas. Jie čia jau buvo atvykę iš Sviečės, sustipri­
+    nę upės krantus ir apstatę juos patrankomis.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180801
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    1387 m. žygis buvo nuostabus, prisimenant, kaip po Kęstučio
+    mirties ant peilio ašmens vartėsi klausimas, ar Lietuva galutinai
+    neapsispręs už stačiatikių tikėjimą. Kai Gediminaičiai buvo išsi­
+    dalinę tarp pagonybės ir graikų krikšto, bereikėjo tik didžiojo
+    kunigaikščio žingsnio, kuriuo butų turėję pasekti lietuvių kilmin­
+    gieji ir visa tauta. Bet nuolat kabantis vokiečių ordino pavojus per
+    visą XIV amžių buvo buvęs akstinas vesti derybas ir kokiu nors
+    būdu priimti priešo išpažįstamą, t. y. vokiškąjį tikėjimą.
+  citata_rodoma: "Bet nuolat kabantis vokiečių ordino pavojus per\nvisą XIV amžių buvo buvęs akstinas vesti derybas ir kokiu nors\nbūdu priimti priešo išpažįstamą, t. y. vokiškąjį tikėjimą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198616
+    - t-198890
+
+- id: c-180802
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Todėl prašome, kad jūs paskelbtumėte šį [laišką] žmo­
+    nėms miestuose, vietovėse bei kaimuose, kur tik kuriam nors
+    iš jūsiškių teks sakyti pamokslą.
+    Taip pat, jei bus [tarp jų] riterių ir ginklanešių, duosime
+    jiems pajamų ir žemės, kiek norės; pirkliams, meistrams, ra­
+    čiams, svaidomų pabūklų gamintojams, kurpiams ir [kitiems]
+    bet kokios srities amatininkams suteikiame laisvę; įeiti į mū­
+    sų žemę ir išeiti [iš jos] drauge su žmonomis, vaikais ir galvi­
+    jais be jokių rinkliavų arba muitų ir nedarant jokių kliūčių.
+    Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­
+    dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad
+    užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis,
+    •  -
+    55
+    C' ■^la ir toliau cit. pagal Gedimino laiš­
+    kai, parengė V. Pašuta ir I. Štai, [vertė
+    M- Ročka], Vilnius, Mintis, 1966.
+  citata_rodoma: "Taip pat, jei bus [tarp jų] riterių ir ginklanešių, duosime \njiems pajamų ir žemės, kiek norės; pirkliams, meistrams, ra­\nčiams, svaidomų pabūklų gamintojams, kurpiams ir [kitiems] \nbet kokios srities amatininkams suteikiame laisvę; įeiti į mū­\nsų žemę ir išeiti [iš jos] drauge su žmonomis, vaikais ir galvi­\njais be jokių rinkliavų arba muitų ir nedarant jokių kliūčių.\nNors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­\ndimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad \nužgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis,\n•  -\n55\nC' ■^la ir toliau cit."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180803
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
+  citata_originali: |
+    Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
+    feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
+    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
+    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
+    kovą prieš agresiją.
+    Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
+    sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
+    viduramžiais į Rytus, atskleidžia tos agresijos esmę ir jos vykdytojų katalikišką
+    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių ir bažnytinių
+    feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
+    Kronika teikia medžiagos kovai su socialistinėms šalims priešiška revanšistine
+    ideologija, kuri dabartinėje epochoje tęsia viduramžių vokiečių feodalų agresijos
+    prieš Rytų Europos tautas tradicijas.
+  citata_rodoma: "Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a. pabaigoje,\nagresijos  į Artimuosius Rytus metu, atsikėlimas ir įsitvirtinimas pavyslyje XIII a.\npirmojoje pusėje. Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui\nir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių\nfeodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,\nniokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,\nNevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės\nkovą prieš agresiją."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180807
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Matydamas šitai, lietuvių vadas din­
+    go kryžiuočiams iš akių, o magistras su visa kariauna
+    patraukė į Vilnių. Negalėjo didysis kunigaikštis atvirame
+    mūšio lauke drąsiai stoti prieš daug pajėgesnį priešą, tad
+    sumaniai įtvirtinęs įgulas abiejose pilyse ir mieste, pats už­
+    ėmė Vilniaus miškingas apylinkes, kad užkirstų visus ke­
+    lius užpuolikams gabentis maistą ir užkamuotų priešą nuo­
+    lat gresiančiais pavojais. Ir vos tik magistras prie Vilniaus
+    įsirengė stovyklą, bemat turėjo siųsti keturis pulkus apsau­
+    goti daliniams, išleistiems parūpinti maisto.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180809
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tiesa, arkivyskupui Isamui tarpininkaujant,
+    tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­
+    dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­
+    keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­
+    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
+    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
+    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
+    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
+    ti pasiuntė. Juk taip pat nedorai Ordinas elgiasi ir su garbin­
+    gąja dvasininkijos diduomene, kaip antai arkivyskupais Jo­
+    nu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus
+    verčia dykynėmis, visada sakydami, jog visa tai daroma
+    krikščionybei ginti.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180810
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mat Švitrigaila, iki tol irzęs dėl
+    nuolatinių nesėkmių, nuolatinio bastymosi ir žeminimosi
+    prieš Vytautą, tramdė savyje apmaudą ir neapykantą kara­
+    liui ir Lenkijai. Kryžiuočiai, neįstengę sukiršinti Vytauto su
+    Jogaila, sulaukė palankaus meto kurstydami Švitrigailą siekti
+    savo senųjų užmačių ar bent jau vėl kelti sumaištį jiems pa­
+    vojingoje Lenkijoje. Šis kunigaikštis, dar nuo pirmųjų kivir-
+    1
+    Lietuvos istorikai Švitrigailą api­
+    būdina ne per geriausiai.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180811
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
+  citata_originali: |
+    6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
+                                      kovų
+
+      Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
+    Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
+    užjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino
+    viešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai
+    sudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už
+    kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
+    priklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180812
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Pa­
+    dėjo net tada, kai tam priešingi buvo veik visi Lenkijos didikai,
+    kurie buvo ten faktiški padėties viešpačiai. Labai aukštai
+    savo ir visos Lietuvos vardą pakėlė sudarydamas kompaniją
+    prieš Ordiną, kuri galutinai savo tikslo pasiekė. Ordinas tapo
+    deskredituotas.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180813
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos priori-
+    tetą – 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją
+    ir grėsmės Lietuvai nebekėlė. Atėjo metas Lietuvos ir Lenkijos santykių
+    problemai.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180814
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    160
+
+    ## Puslapis 177
+
+    Il KNYGA
+    dar barbarų laikais, išsiugdytos, o už tai, ką istorija jame
+    regi pikta, ne tik jam vienam kaltė tenka, bet dar ir anų
+    laikų tamsybei, kunigaikščių išprusimo stokai arba vi­
+    siškam jo nebuvimui86. Jo laikais Lietuva ir jos sostinė Vil­
+    nius liovėsi buvę atviras laukas kryžiuočių grobimams ir
+    plėšikavimams, jo laikais patirta, ką reiškia saugi nuosa­
+    vybė ir prekyba.
+    86
+    Vytautui nebuvo svetimi ir moks­
+    lai, bent jau tokie, kokie XIV ir XV
+    amžiuje galėjo būti.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180815
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vytautas savuosius jau seniai buvo iš­
+    rikiavęs į tris, viena užpakaly kitos, kautynių eiles ir pastatęs
+    juos dešiniame sparne, o lenkus kairiajame. Tuo tarpu, kol
+    dar lenkai tvarkėsi, Ordino kariuomenė buvo sustatyta į dvi
+    eiles. Ordinas galėjo pulti dar nesusitvarkiusius lenkus, bet jis
+    to nedarė, matyti bijojo, kad girioje galėjo būti dar daug pasi­
+    slėpusios kariuomenės.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180819
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kita ekspe­
+    dicija iš Prūsijos 1375 metais irgi buvo sukėlusi Vilniui pa­
+    našią grėsmę. Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
+    tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos
+    bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­
+    binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių
+    polaidžio. Ordino maršalas Gotfridas Lindenas, įsibrovęs su
+    daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­
+    meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­
+    pavykus staiga užimti gerai ginamo miesto, grįžo atgalios
+    plėšti aplinkinių žemių23.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180821
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    lacum intrantibus et exeuntibus,
+    quorum primus Lekoyo, secundus Ko-
+    moszo, tertius Kertnoy, quartus Fro­
+    mą, quintus Roschko in districtu Du-
+    binensi. Addicimus etiam duos homines
+    222
+
+    ## Puslapis 239
+
+    III KNYGA
+    Žygimanto Kęstutaičio mirtis užvertė svarbų Lietuvos is­
+    torijos puslapį, nes kartu su juo jau visiems laikams pasi­
+    baigė šitiek metų trukę kryžiuočių puldinėjimai. Nuo tada
+    liovėsi vyravusi Prūsijos ordino įtaka krašto likimui, ir sve­
+    timšalių riterių brolija jau nežvangino savo ginklais prie
+    Vilniaus sienų.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180823
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 113"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 113."
+  citata_originali: |
+    upės350, žuvo brolis Burchardas, Livonijos magistras351, ir brolis Henrikas Botelis, Prūsijos
+    maršalas, su jais 150 brolių352, o dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų
+    skaičiaus. Po šitokio sutriuškinimo priešai persekiojo bėgančius žmones, kurie spruko
+    taip didžiai išsigandę, kad trys ar keturi priešai nukaudavo šimtą krikščionių arba juos
+    gėdingai išsklaidydavo353. Štai kuriuo būdu sustiprėjo mūsų priešai, laimėję didelį grobį,
+    daug arklių ir ginklų, kuriuos grobstė nukautiems kariams iš rankų, štai kodėl dabar jie
+    puikuojasi savo narsumu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198679
+
+- id: c-180824
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Ginklus ir
+    arklius, kuriuos Ordinas draudė Lietuvon įvežti, Vytautas gau­
+    davo iš Rygos ir Krokuvos.
+    Iš Lietuvos geografinės būklės ir minėtų čia prekybos san­
+    tykių galime jau pastebėti, kad Vokiečių Ordinas Vytauto laikų
+    prekybai turėjo didžiausios įtakos, nes per jo žemes ėjo svar­
+    biausi keliai į Vakarų Europą ir Dancigą, su kuriuo lietuviai tu­
+    rėjo daugiausia reikalų. Taip pat Ordinas buvo ir turtingiau­
+    sias Vytauto kaimynas.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180825
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Gregorii
+    iidem Lytvini civitatem Memelam ar­
+    m ata manu intraverunt hostiliter et eam
+    cum suburbiis suis preter solum cast­
+    rum muro circumdatum, in quo fratres
+    ejusdem ordinis morantur, ceperunt,
+    cremaverunt et penitus destruxerunt,
+    multos ibidem occidentes homines ac
+    eciam captivantes virgines, mulieres et
+    alios quos rapere valuerunt [Tais pa­
+    čiais metais po pal. Grigaliaus šven­
+    tės tie patys lietuviai į Memelio
+    miestą ginkluota jėga priešiškai įsi­
+    veržė ir jį su jo priemiesčiais, išsky­
+    rus pačią pilį, apjuostą siena, kurio­
+    je to paties Ordino brolių būta,
+    paėmė, sudegino ir iki pamatų su­
+    griovė, ten pat daugybę žmonių nu­
+    žudė ir paėmė į nelaisvę merginų,
+    moterų ir kitų, kuriuos tik įstengė
+    pagrobti].
+    g
+    Dyploma tą patį byloja ir Wehlau va­
+    dina Wilnnouwe.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180826
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
+  citata_originali: |
+    Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė
+    pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių
+    mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas neatima iš
+    tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą,
+    padrąsink savo kovotojus ir paragink juos sunaikinti tuos, kurie puola mūsų karalystę“.
+    Magistras, galop nurimęs, pasiuntė laivais didžiulę kariuomenę keršyti už neteisingai
+    nužudytuosius; atplaukę prie Baigos, jie ten išlipo ir, tinkamose vietose išdėstę lankininkus
+    bei surėmę  į sieną kopėčias, smarkiai užpuolė šią prūsų pilį, o kadangi jiems talkino
+    Kodrūnas, apgultosios pilies vadas, jie netruko ją užgrobti, dalį žmonių paimti į nelaisvę,
+    o kitus išžudyti. Šitai padarę, broliai, atsidėkodami dievui, drauge su savo ginklanešiais
+    apsigyveno toje pilyje245 1239 viešpaties dievo metais ir ten dar garbingiau kovojo su
+    minėtaisiais prūsais viešpaties dievo kariuomenei deramas kovas.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180827
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vytautas ir be jų turėjo
+    pakankamai kariuomenės. Ordinas atsiuntė savo komtūrą
+    Marquardą v. Salzbachą su keliais tūkstančiais kariuomenės;
+    prisijungė prie Vytauto su savo pulkais ir Tochtamyšas.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180828
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 255"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
+  citata_originali: |
+    Magistras ir broliai, naudingai pamokyti šių bei kitų švento rašto pranašysčių,
+    ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
+    Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
+    ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas. Todėl magistras minėtųjų
+    metų vasarą, subūręs didelę kariuomenę, pasiuntė ją į Lenkiją ir apsupo Višogrudą,
+    Lenkijos karaliaus pilį; joje gyveno nuodėmingi, išgarsėję piktais darbais vyrai, kurie
+    plėšė pro šalį Vyslos upe plaukiančių laivais žmonių turtą, o juos pačius ėmė į nelaisvę
+    ar žudė, ir niekas negalėjo nuo jų išsigelbėti, nepatyręs skriaudos, o šitaip jie darė
+    ilgus metus, sunkiai skriausdami ir brolius, ir saviškius; po daugybės antpuolių jie galop
+    smarkiai įsiveržė į pilį602; įniršę išgalabijo nusidėjėlius, nelabus vyrus, kėlusius jiems
+    apmaudą, vienus paėmę į nelaisvę, o kitus išžudę, iš pasipiktinimo iki pamatų sudegino
+    pilį.
+    13.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180829
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
+    mėnesiais prieš atlydį. O vasaros žygis buvo ruošiamas apie rug­
+    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
+    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
+    kryžiuočių ir 30—iš Livonijos.
+  citata_rodoma: "O vasaros žygis buvo ruošiamas apie rug­\npiūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.\nOrdino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų\nkryžiuočių ir 30—iš Livonijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198730
+
+- id: c-180830
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
+  citata_originali: |
+    58—59): „Prisirenkite
+    ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš
+    mus sunaikinti mūsų ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti
+    mūsų tautos ir šventovės nelaimes14. Stiprindamas jų kilnias širdis, jis guodė juos šiais
+    viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš
+    savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant
+    negu tavoji, nebijok jųjų, nes viešpats, tavo dievas, yra su tavimi“, be to, pridurdamas
+    (Ist 20. 3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų
+    širdis, nebijokite, nesitraukite ir nepabūkite jųjų, nes viešpats, jūsų dievas, yra jūsų
+    tarpe, jis kovos už jus prieš visus priešus, kad jus išgelbėtų iš pavojaus“.
+  citata_rodoma: "Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie\nLenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,\nužjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino\nviešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai\nsudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už\nkančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims\npriklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite\nir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš\nmus sunaikinti mūsų  ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti\nmūsų tautos ir šventovės nelaimes14."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180831
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Įrodė, jog daugiausia kaltinimų anaiptol ne Ordinui ten­
+    ka, jis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali
+    būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.
+    Popiežius po atskiro pasitarimo su kardinolais visuoti­
+    niame susirinkime pareiškė tokį sprendimą: „Kryžiuočių or­
+    dino riteriai turi Rygos Bažnyčiai, vyskupams bei kapitulai
+    atiduoti viską, ką paėmę, ir daugiau jų nepuldinėti; prakeiks­
+    mas kris ant to, kuris mūšyje sužeistą Ordino brolį pribaig­
+    tų arba skatintų tokį nusikaltimą daryti; niekas daugiau ne­
+    gali trukdyti arba kelti sunkumų tiems, kurie norėtų vykti
+    pas popiežių; visos sąjungos ir susimokiusiųjų sambūriai,
+    gresiantys Bažnyčios garbei, turi būti išsklaidyti ir ateityje
+    nekuriami. Kryžiuočiai turi gerbti dvasininkiją ir jokių nuos­
+    kaudų jiems, jokių skriaudų Bažnyčiai nedaryti.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180832
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau mūšio metu į me­
+    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
+    per kurį didelę Vilniaus dalį pasiglemžė ugnis. Tas pašėlęs
+    lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas­
+    metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim­
+    tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių
+    netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda­
+    vo Kernavę, bet lemtinga Jogailos ir Skirgailos pergalė prieš
+    Ragainės komtūrą, laimėta tarp Vilniaus ir Ukmergės, ir vi­
+    siškas pastarojo kariaunos sunaikinimas tąkart apsaugojo
+    sostinę nuo puolimo. Tuo metu pakitusi kaimyninės Lenki­
+    jos padėtis, nauji Jogailos politikos užmojai ilgam įžiebė Prū­
+    sijos kerštą ir Lietuvai bei Vilniui grėsė neapsakomomis ne­
+    gandomis.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180834
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    O Julijona ir kunigaikščio
+    taryba tėra paminėta Žemaičių dovanojimo dokumente.
+    Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais
+    tariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis
+    Jogailą priversti nesitraukti nuo didelių pažadų. Įvykiai tačiau
+    (^19) **LUB, III, 393-395, 400, 489-495 p.; RaCD, 55-60 p.**
+  citata_rodoma: "O Julijona ir kunigaikščio\ntaryba tėra paminėta Žemaičių dovanojimo dokumente.\nKryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais\ntariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis\nJogailą priversti nesitraukti nuo didelių pažadų. Įvykiai tačiau\n(^19) **LUB, III, 393-395, 400, 489-495 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198815
+
+- id: c-180836
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pirmąjį Vilniaus paminėjimą, pirmą autentišką
+    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
+    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
+    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
+    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
+    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
+    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
+    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
+    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
+    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
+    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
+    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
+    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad
+    iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
+    tų vėlesnio susijungimo ir galios pirmosios gijos.
+  citata_rodoma: "Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo\nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino\nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad\niš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­\ntų vėlesnio susijungimo ir galios pirmosios gijos."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180838
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  citata_originali: |
+    Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
+    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
+    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
+    Jo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo
+    girdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno
+    žmogaus pastangomis. Neverta dėl to stebėtis. Dievas jam buvo suteikęs tokių malonių,
+    kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
+  citata_rodoma: "Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.\nJo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame\nOrdine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos\nšeimose. Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir\npats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų\nšio Ordino vienuoli© apsiaustą."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180839
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tas laikotarpis betgi buvo labai svarbus. Kaip tik šituo metu
+    vokiečių ordinas nuo Vyslos jau buvo priėjęs iki Nemuno ir
+    nuo 1282 m. pradėjo pulti lietuvius (anksčiau Lietuvą
+    puldavo tik livoniškė jo šaka). Ordinas tuojau pradėjo statyti
+    savo pilis Nemuno pakrantėje.
+  citata_rodoma: "Kaip tik šituo metu\nvokiečių ordinas nuo Vyslos jau buvo priėjęs iki Nemuno ir\nnuo 1282 m. pradėjo pulti lietuvius (anksčiau Lietuvą\npuldavo tik livoniškė jo šaka). Ordinas tuojau pradėjo statyti\nsavo pilis Nemuno pakrantėje."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180841
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Po tų visų pasisekimų, paties Vytauto iškovotų,
+    nors jis ir buvo tik vietininkas Lietuvoj, bet jo padėtis, kaip
+    mano prof. Haleckis, buvo daug tvirtesnė, negu nepriklausomos
+    Lietuvos kunigaikščio prieš uniją^5 ). Jo galybės sustiprėjimas
+    aiškus ir iš rytų politikos, kurią jis ėmė vesti sunormavęs santy­
+    kius su Lenkija ir padaręs taiką su Ordinu, besistengiančiu po Os­
+    trovos akto užkariauti tikrąją Lietuvą; bet po visos eilės žygių ir
+    paskutiniojo nepasisekusio Vilniaus apsiautimo, Ordinas savo
+    grobuoniškus planus nukreipė prieš Žemaitiją. Bet ir dėl to
+    krašto įvyko tarp Vytauto bei Ordino, nors ir labai nepastovi
+    taika, bet vis dėlto taika, kas padėjo Vytautui vesti savo politi­
+    ką rytuose.
+  citata_rodoma: "Haleckis, buvo daug tvirtesnė, negu nepriklausomos\nLietuvos kunigaikščio prieš uniją^5 ). Jo galybės sustiprėjimas\naiškus ir iš rytų politikos, kurią jis ėmė vesti sunormavęs santy­\nkius su Lenkija ir padaręs taiką su Ordinu, besistengiančiu po Os­\ntrovos akto užkariauti tikrąją Lietuvą; bet po visos eilės žygių ir\npaskutiniojo nepasisekusio Vilniaus apsiautimo, Ordinas savo\ngrobuoniškus planus nukreipė prieš Žemaitiją. Bet ir dėl to\nkrašto įvyko tarp Vytauto bei Ordino, nors ir labai nepastovi\ntaika, bet vis dėlto taika, kas padėjo Vytautui vesti savo politi­\nką rytuose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12372
+
+- id: c-180843
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Lenkų ka­
+    riuomenėje tvarkos kiek palaikydavo riteriai, tarnavusieji Va­
+    karų Europoj samdiniais.
+    Ordino kariuomenė, sudaryta iš pėstininkų, raitelių ir arti­
+    lerijos, buvo už abi sąjungininkų (lietuvių ir lenkų) kariuomenes
+    geresnė. Ji buvo geriau ginkluota, sutvarkyta, drausminga ir
+    kovose patyrusi, — tai buvo visos Europos kariuomenių pavyz­
+    dys.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180844
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  citata_originali: |
+    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
+    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
+    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
+    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
+    apreikšti dievo darbus yra šlovinga.
+    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
+    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
+    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
+    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
+    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
+    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
+    atminimas.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180845
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Pagaliau santykiai tarp ordino ir
+    Vytauto tiek paaštrėjo, kad jis parėmė žemaičius, ir tie visus
+    kryžiuočius išvarė iš savo krašto. Jie sugriovė net Klaipėdą ir
+    įsiveržė į ordino žemes už Nemuno. Tada ordinas nusprendė pa-
+    remti iš Lietuvos pabėgusį ir vis dar nenurimstantį Švitrigailą.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180846
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 424"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 424."
+  citata_originali: |
+    me mūsų veikalo tome, nuo kurių šiaipjau stengėmės reikia­
+    mai nuvalyti pasakiškumo apnašą, bet norėdami suteikti dau­
+    giau svorio mūsų įrodinėjimams, pasitelkdami šio istoriko aiš­
+    kius įsigilinimus tiktai vienu klausimu ir prieš vieną priekaiš­
+    tą, savaime nieko nereiškiantį, kad parodytume, kiek tai kai­
+    nuoja tikram istorijos mokovui, kai taip nesusimąstant kriti­
+    kuojami faktai ir amžių rimties pagerbti kronikininkai, kurių
+    patikimumą bėgant metams patvirtina nauji pastebėjimai ir
+    atradimai. Jeigu nenurodomi šaltiniai ir kas ką iš jų sėmė, jei­
+    gu nepakankamai mokama juos įvertinti, jeigu pagaliau žval­
+    gymasis į ordino vyresnybę, vyresniųjų cenzūrą arba davatkys­
+    tės ar kokios kitos ydos gynimas atnešė daug žalos mūsų isto­
+    rikų seniesiems veikalams, tai ar dėl to reiktų dėti kronikas
+    šalia kalendoriaus, kadaise paisčiusio apie lietų ir giedrą, kaip
+    savo pasakėčiose yra pasakęs mūsų sąmojingasis Krasickis. Rei­
+    kia turėti tvirtą ir atskirą vertinimo skalę kiekvienam amžiui
+    ir kiekvienam rašytojui - skalę, kurią net būtų galima tikslinti
+    atsižvelgiant į galimą atsiradimą įrodymų, patvirtinančių kro­
+    nikoje teigiamus dalykus, idant nepasirodytum toks kaip švento
+    atminimo Lėrbergas su tariamo Šiaurės popiežiaus išradimu.
+  citata_rodoma: "Iš tos seno­\nviškos būties jau daug buvo sunaikinta ir išstumta, kai atsira­\ndo sutartis tarp prūsų tautos ir kryžiuočių. Kai tik ordinas už­\nkariaudavo kurią sritį, kartu joje nelikdavo nei krivių, nei ri­\nkių. Jų viešpatystė baigdavosi akimirksniu, kai tik prasidėda­\nvo ordino valdžia ir kai ji būdavo čiabuvių priimama."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198827
+
+- id: c-180847
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
+  citata_originali: |
+    Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
+    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
+    feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
+    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
+    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
+    kovą prieš agresiją.
+    Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
+    sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
+    viduramžiais į Rytus, atskleidžia tos agresijos esmę ir jos vykdytojų katalikišką
+    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių ir bažnytinių
+    feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180848
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Matydamas Vytauto pastangas neinant veltui, Ordinas ma­
+    tė reikalą taip pat išplėsti Lietuvos pasienyje akciją. Dar
+    vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi
+    pilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­
+    talpintos kryžiuočių įgulos.
+    Iš čia aišku, kad Vytautas, nežiūrint Jogailos didelių
+    pasiūlymų, palaikė dar gana gerus santykius su Ordinu dėl to,
+    kad jam, matyti, dar nebuvo atėjęs laikas veikti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198685
+
+- id: c-180849
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pasak Prūsijos metrašti­
+    ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi
+    priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai
+    102
+
+    ## Puslapis 119
+
+    I  KNYGA
+    vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs
+    jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
+    metų birželio 15 d., sustojo ties Bajerburgu. Tačiau Gedimi­
+    no ginklanešys, vokiečių kilmės, žinodamas apie tą prūso
+    išdavystę, išėjęs iš lietuvių stovyklos, pranešė kryžiuočiams.
+    Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų
+    pakartą išdaviką, bet vis tiek puolė tvirtovę.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180851
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tuo tarpu, kol
+    dar lenkai tvarkėsi, Ordino kariuomenė buvo sustatyta į dvi
+    eiles. Ordinas galėjo pulti dar nesusitvarkiusius lenkus, bet jis
+    to nedarė, matyti bijojo, kad girioje galėjo būti dar daug pasi­
+    slėpusios kariuomenės. Trečioji Ordino kariuomenės eilė sto­
+    vėjo dar tolokai nuo mūšio lauko ir buvo laikoma atsargai.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180852
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 75"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
+  citata_originali: |
+    Galop atėjo švenčiausioji mergelė
+    Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
+    vis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,
+    nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
+    taip kentėti, kaip trokšti“. Pakėlusi kiekvienam broliui apsiaustą, ji parodė jų žaizdas ir
+    randus, kurių jiems nešykštėjo netikėliai, kai gynė tikėjimą, ir pasakė: „Ar tau dabar
+    neatrodo, kad štai šie tavo broliai yra šiek tiek kentėję dėl Jėzaus Kristaus vardo“. Jai
+    tarus šiuos žodžius, regėjimas dingo. Tas brolis pakirdęs atsikvošėjo, nuėjo į kapitulą,
+    kur buvo susirinkę broliai, ir dabar, daugiau supratęs bei patyręs, nuolankiai atšaukė
+    savo klaidingą nuomonę ir atsisakė savo sumanymo, kurį anksčiau lengvapėdiškai buvo
+    priėmęs, ir visiems papasakojo matytą regėjimą.
+  citata_rodoma: "Šioje pilyje\ngyveno vienas brolis, kuris, velnio klastingai sugundytas, kuo tvirčiausiai buvo įsitikinęs,\nkad negalėsiąs Teutonų namų ordine savo sielos išganyti, dėl to sumanė stoti į griežtesnį\nordiną. Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir\nAugustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo\npriimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė\nMarija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam\nvis dėlto leistų pasilikti savo brolių bendrijoje."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180855
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 93"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 93."
+  citata_originali: |
+    Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
+    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo į sienas, taip
+    ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
+    Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
+    pasitraukė sugėdintas. Nemanyk, kad šitaip nutiko čia vieną kartą, šitaip dažnai buvo
+    ir kitose vietose, kur, vyrams išvykus, tvirtovės būtų buvusios prarastos, jeigu moterų
+    drąsa jų nebūtų apgynusi.
+    49(48). Apie vieną Sventopelko karį
+    Sventopelko šeimynoje buvo vienas karys, kuriam Teutonų ordino broliai įvarė tokį
+    siaubą, kad visas imdavo virpėti vos išgirdęs minint jų vardą.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180857
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Pirmuoju tokiu draugu vi­
+    suomet būdavo Ordinas. Bet ir pastarasis, bauginamas Vytau­
+    to laimėjimų rytuose, verčiamas buvo ieškotis taikos Lietuvoj.
+    Kryžiuočiai gerai suprato, kad Vytauto galybės išaugimas ne
+    tik jam padės atsiskaityti su Lenkija, bet ir jų pačių norams —
+    užkariauti Žemaitiją, kaip tiesioginį sausažemiu susisiekimą su
+    Livonijos Ordinu ir įsigalėti rytuose — padarys galą. Todėl
+    jie ir juto reikalą kaip nors susiartinti su Lietuva, kad nors tuo
+    tarpu iš jos ką nors laimėtų.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180858
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
+  citata_originali: |
+    Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo į širdį, jog jis
+    sumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad
+    broliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės. Sušaukęs savo
+    vyskupus ir kilminguosius, jis atskleidė jiems savo sumanymą, prašydamas šiuo reikalu
+    patarti. Šie vienu balsu pritarė jo sumanymui, pridurdami, kad ir patys esą sužinoję
+    iš patikimų šaltinių, jog minėtieji broliai turi ryžtingų karių vardą, užsigrūdinusių iš
+    mažumės kovose, be to, kad į juos labai maloniai bei palankiai žiūri ir popiežius, ir
+    imperatorius, ir Vokietijos kunigaikščiai, kad todėl nėra jokių abejonių, jog popiežius
+    maloningai jiems Įeisiąs persikelti čia šios žemės ginti. Todėl kunigaikštis pasiuntė pas
+    minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir
+    jam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais
+    klausimais su broliais ir apsvarstęs su jais šį keblų reikalą, davėsi galop kunigaikščio
+    įkalbamas, patartas popiežiaus, imperatoriaus Fridricho II ir Vokietijos kunigaikščių,
+    kurie pasižadėjo, esant reikalui, jam padėti patarimais bei suteikti pagalbą.
+  citata_rodoma: "Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams\n\n  Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip\ndidžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią  ir tokią\nšlovę, kad jo didžios garbės atgarsiai, skersai ir išilgai paplitę, galop pasiekė ir minėtojo\nkunigaikščio ausį. Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo  į širdį, jog jis\nsumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad\nbroliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės. Sušaukęs savo\nvyskupus ir kilminguosius, jis atskleidė jiems savo sumanymą, prašydamas šiuo reikalu\npatarti."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180860
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Nors kryžiuočiai dar iki pat Tannenbergo kautynių lietuvius
+    Vakarų Europai pristatydavo kaip pavojingus rytų « saracėnus »,
+    kryžiaus karų šauksmas savaime turėjo pamažu nutilti. Drauge
+    išnyko ir tituluotų pilgrimų žygiai į «Litauerreisen». Lietuva
+    (^21) **Plg. M. Hruševskyj : HrlU, IV, 1905, 181 p.**
+  citata_rodoma: "Nors kryžiuočiai dar iki pat Tannenbergo kautynių lietuvius\nVakarų Europai pristatydavo kaip pavojingus rytų « saracėnus »,\nkryžiaus karų šauksmas savaime turėjo pamažu nutilti. Drauge\nišnyko ir tituluotų pilgrimų žygiai į «Litauerreisen». Lietuva\n(^21) **Plg."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198896
+
+- id: c-180862
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kryžiuočiai nieko nepraleido Lietuvon, su Didž. Naugardu
+    sudarė sutartį prieš Gediminą, kurį juodino, rašydami krikščionių
+    valdovams ir popiežiui.
+    Visoje toje per ištisus metus po Gedimino laiškų parašymo
+    susidariusioje politinėje būklėje, kada 1324 vasarop iš Avignono
+    atvyko Rygon du legatai (vysk. Baltramiejus ir abatas Bernardas),
+    Gediminas diplomatiškai išsisukinėjo, vengdamas savo laiškuose
+    popiežiui surašytų krikšto pažadų.
+  citata_rodoma: "Kryžiuočiai nieko nepraleido Lietuvon, su Didž. Naugardu\nsudarė sutartį prieš Gediminą, kurį juodino, rašydami krikščionių\nvaldovams ir popiežiui.\nVisoje toje per ištisus metus po Gedimino laiškų parašymo\nsusidariusioje politinėje būklėje, kada 1324 vasarop iš Avignono\natvyko Rygon du legatai (vysk."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198599
+    - t-198737
+
+- id: c-180863
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau svarbiausios buvo politinės aplinkybės – krikšto nau-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    41
+    da išryškėjo netrukus, kai popiežiai uždraudė Vokiečių ordinui kariauti su
+    Lietuva. Nuo tada šio ordino agresija nebegalėjo tikėtis efektyvesnės Va-
+    karų paramos. Krėvos sutarties nulemta sąjunga su Lenkija leido pasiekti
+    pergalę prie Tanenbergo ir Žalgirio. Lietuva, apsikrikštijusi ir nugalėjusi
+    Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo
+    istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180864
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
+  citata_originali: |
+    Štai šis popiežius Celestinas
+    III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
+    naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto
+    septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus,
+    būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos ir Armėnijos152,
+    kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo
+    pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
+    šulai, o kiti broliai—sienos. Šitaip jo šventenybė popiežius pasekė tuo išmintingu vyru,
+    pasistačiusiu savo namą ant uolos ir pasakiusiu (Jn 6, 63): „Aš sutvirtinau jo šulus“.
+    Kadangi parašyta: „Dvasia teikia gyvybę, o kūnas nieko neduoda“, todėl buvo reikalingi
+    šiam namui septyni kitoniški šulai — dvasiniai, kurių trimis, būtent: klusnumu, neturtu ir
+    skaistybe, rėmėsi visiems privaloma drausmė, o keturi kiti, būtent: gailestis nusidėjus,
+    nuodėmių išpažinimas, atgaila ir gausius nusidėjimus atperkanti artimo meilė, tramdė
+    šventuoju pagarbumu tuos, kurie atbuko karštam teisybės ieškojimui. Šitokie dvasiniai
+    šulai iškirsti išminties ranka to šventojo tikėjimo namuose, kuriuos taip pastatydino jo
+    šventenybė popiežius, kad, pasipylus ant jų godumo liūčiai ir užplūdus juos prabangos
+    potvyniui, puikybės vėjui juos užgriuvus ir įsibrovus į vidų, jie negalėtų sugriūti: mat jie
+    pastatyti ant tvirtos uolos, o toji uola — Kristus.
+  citata_rodoma: "Štai šis popiežius Celestinas \nIII Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios \nnaudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto \nseptynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus, \nbūtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos ir Armėnijos152, \nkurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo \npamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo \nšulai, o kiti broliai—sienos. Šitaip jo šventenybė popiežius pasekė tuo išmintingu vyru, \npasistačiusiu savo namą ant uolos ir pasakiusiu (Jn 6, 63): „Aš sutvirtinau jo šulus“. \nKadangi parašyta: „Dvasia teikia gyvybę, o kūnas nieko neduoda“, todėl buvo reikalingi \nšiam namui septyni kitoniški šulai — dvasiniai, kurių trimis, būtent: klusnumu, neturtu ir \nskaistybe, rėmėsi visiems privaloma drausmė, o keturi kiti, būtent: gailestis nusidėjus, \nnuodėmių išpažinimas, atgaila ir gausius nusidėjimus atperkanti artimo meilė, tramdė \nšventuoju pagarbumu tuos, kurie atbuko karštam teisybės ieškojimui."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198661
+    - t-198892
+
+- id: c-180865
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pa­
+    galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-
+    karalių Zigmantą nuo ketinimo ka­
+    rūnuoti Vytautą, ir Nr. 101, kuria­
+    me, rašydamas Vytautui, reiškia
+    džiaugsmą dėl jo susitaikymo su Jo­
+    gaila ir todėl dedąs viltis, jog čekų
+    eretikai būsią šiek tiek apmalšinti.
+    84
+    Kryžiuočių Slaptajame
+    Archyve, Karaliaučiuje, yra Vy­
+    tauto laiškų, rašytų magistrui Rus-
+    dorfui (pasak Karamzino, V, p. 145)
+    derybų dėl Lietuvos karūnos Vytau­
+    tui dingstimi, kur viename iš jų, da­
+    tuotame 1430 m. rugpjūčio mėn.,
+    didžiajam magistrui praneša apie
+    Maskvos didžiojo kunigaikščio ir
+    Tverės kunigaikščio atvykimą į Lie­
+    tuvą rugpjūčio 8-ą.
+  citata_rodoma: "84\nKryžiuočių Slaptajame \nArchyve, Karaliaučiuje, yra Vy­\ntauto laiškų, rašytų magistrui Rus- \ndorfui (pasak Karamzino, V, p. 145) \nderybų dėl Lietuvos karūnos Vytau­\ntui dingstimi, kur viename iš jų, da­\ntuotame 1430 m. rugpjūčio mėn., \ndidžiajam magistrui praneša apie \nMaskvos didžiojo kunigaikščio ir \nTverės kunigaikščio atvykimą į Lie­\ntuvą rugpjūčio 8-ą."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180866
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tas kraštas jį ir politiškai iš­
+    lavino. Per tiek metų jis išmoko gerai vokiečių kalbos, kry­
+    žiuočių disciplinos, jų administracijos, karo mokslų ir daug kitų
+    dalykų. Kryžiuočiai, kuriuos daugybė svečių lankydavo pastu­
+    dijuoti jų valdymą, kariuomenės organizaciją ar šiaip pasivie­
+    šėti, drąsiai galėjo pasakyti, kad tokio pasiryžusio, supratingo
+    ir gabaus mokinio, kaip Vytautas, Prūsuose nebuvo ligtol buvę.
+  citata_rodoma: "Per tiek metų jis išmoko gerai vokiečių kalbos, kry­\nžiuočių disciplinos, jų administracijos, karo mokslų ir daug kitų\ndalykų. Kryžiuočiai, kuriuos daugybė svečių lankydavo pastu­\ndijuoti jų valdymą, kariuomenės organizaciją ar šiaip pasivie­\nšėti, drąsiai galėjo pasakyti, kad tokio pasiryžusio, supratingo\nir gabaus mokinio, kaip Vytautas, Prūsuose nebuvo ligtol buvę."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180867
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Nau­
+    jų sutarčių buvo sudaryta trys atskiri aktai. Pirmoje sutarty
+    Jogaila pasižada su abiem Ordinais ketverius metus laikytis
+    taikos, antrojoje žada 4-rių metų bėgy kartu su savo tautiečiais
+    apsikrikštyti, trečiąja sutartimi, kuri buvo vokiečių Ordinui pati
+    svarbiausioji, jis užrašė kryžiuočiams beveik visą Žemaičių
+    kraštą, t. y. vakarinę jo dalį iki pat Dubysos upės. Žadėdamas
+    Jogailai padėti karo jėgomis, Ordinas išgavo iš jo sutikimą, kad
+    jis be Ordino žinios ir pritarimo su niekuo nepradės karo.
+  citata_rodoma: "Pirmoje sutarty\nJogaila pasižada su abiem Ordinais ketverius metus laikytis\ntaikos, antrojoje žada 4-rių metų bėgy kartu su savo tautiečiais\napsikrikštyti, trečiąja sutartimi, kuri buvo vokiečių Ordinui pati\nsvarbiausioji, jis užrašė kryžiuočiams beveik visą Žemaičių\nkraštą, t. y. vakarinę jo dalį iki pat Dubysos upės. Žadėdamas\nJogailai padėti karo jėgomis, Ordinas išgavo iš jo sutikimą, kad\njis be Ordino žinios ir pritarimo su niekuo nepradės karo."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180869
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Be to, rengė astronomo Mikalojaus Ko­
+    perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­
+    mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.
+    Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­
+    torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
+    rašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos
+    mokslo būklę. „Du šimtai penkiasdešimt metų praėjo nuo Lie­
+    tuvos universiteto įkūrimo, o nė vienas iš jo mokinių, nors ir
+    gausiai Lietuvos duona aprūpintas, neparodė didesnio noro pa­
+    sidomėti jos praeitimi.
+  citata_rodoma: "Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­\ntorinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­\nrašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos\nmokslo būklę. „Du šimtai penkiasdešimt metų praėjo nuo Lie­\ntuvos universiteto įkūrimo, o nė vienas iš jo mokinių, nors ir\ngausiai Lietuvos duona aprūpintas, neparodė didesnio noro pa­\nsidomėti jos praeitimi."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180870
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
+  citata_originali: |
+    aplinkybėmis reikėjo kuo pagrįsti Ordino veiksmus Prūsijoje ir Lietuvoje, parodyti jo
+    „nuopelnus“ ir uždavinius, kuriems jis buvęs sukurtas.
+
+
+    Kronikos autorius, politiniai ir ideologiniai uždaviniai
+    Dusburgiečio dedikacija kronikos pradžioje rodo, kad jis buvęs Kryžiuočių ordino
+    brolis — kunigas, vėliau, galimas daiktas, magistro kapelionas. Jo siekta palikti ateities
+    kartoms žinių apie Ordino laimėtus karus, kuriuos jis surašė ir sudėjo „į šią knygą“.
+  citata_rodoma: "Pačioje Vakarų Europoje XIII—XIV a.  irgi pasigirsdavo Kryžiuočių ordino adresu\nkritiškų balsų, raginančių netgi  jį likviduoti. Įtempta grupuočių kova vyko  ir Ordino\nviduje, siekiant restauruoti šią vokiečių feodalų karinę-religinę organizaciją. Tokiomis"
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180872
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tik paėmę Kauną, Nemuno žemu­
+    pyje privertę lietuvius pasitraukti nuo krantų, juose prisistatę savo
+    pilių, be to, laimėję prie Rudavos, kryžiuočiai jau pasijuto stipresni.
+    Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o
+    1372 puolė vienu metu iš Prūsų ir Livonijos.
+    Kad būtų galima kiek pailsėti nuo tolimesnių teriojimų, Algir­
+    das su Kęstučiu pradėjo su ordinu derybas.
+  citata_rodoma: "Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o\n1372 puolė vienu metu iš Prūsų ir Livonijos.\nKad būtų galima kiek pailsėti nuo tolimesnių teriojimų, Algir­\ndas su Kęstučiu pradėjo su ordinu derybas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198869
+    - t-198888
+
+- id: c-180874
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau vėliau
+    jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
+    Užnemunę.
+    Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu
+    priežastis – Žemaitija. Žalgirio pergalė dar nepasiekta ideologiškai – Va-
+    karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
+    jie nugalėjo pasitelkę pagonis, totorius musulmonus.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180876
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau kiti, 1383 metai, atnešė Vilniui dar
+    didesnę nelaimę. Didelė kryžiuočių kariauna, vadovauja­
+    ma Ordino didžiojo magistro ir maršalo Konrado Valen­
+    rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti
+    Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­
+    kų pilį. Nepaisant įnirtingos gynybos, kelias dienas užsi­
+    tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­
+    versta pasiduoti. Didysis magistras į Vilnių išsiuntė
+    komtūrus: iš Elbliongo, Baigos, Brandenburgo ir Kristbur-
+    go, galingais kariuomenės daliniais vedinus, įsakęs bet
+    kokia kaina jį visiškai sunaikinti.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180877
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
+  citata_originali: |
+    Žinoma, kas tas krūmas, nenumetantis žiemą lapų, dau­
+    ginasi iš sėklų, esančių gražiose baltose uogose, kurios nunoks­
+    ta žiemą ir paukščių yra godžiai lesamos; šios sėklos niekad
+    nesudygsta žemėje, o sudygsta ant kito medžio šakos, kur jas
+    užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
+    atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
+    mis augdami ant medžių, užauga sieto dydžio. Nežinau, ar, be
+    beržo ir ąžuolo, amalas auga kituose medžiuose; ąžuolo ama­
+    las pas mus dabar yra net didelė retenybė. Vis dėlto galimas
+    daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
+    reikėtų manyti, jog senovės žyniai mokėjo šventąjį ąžuolą taip
+    apauginti amalu, kad jo lapai būtų nepaprastai tankūs, o žie­
+    mą amalo žaluma nuspalvintų jo vainiką.
+  citata_rodoma: "Turime kažkokį aprašymą šio medžio, kurį Bo­\nleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­\ngalėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­\nkai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­\nvėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­\ndėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo\nJono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355\nmetų; tada tasai Jonas I buvo Varmijos vyskupas."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180880
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 74-75"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74-75."
+  citata_originali: |
+    Apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo
+
+      Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo
+      229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo
+    1202 m., Krokuvos kunigaikštis 1228— 1229 ir nuo 1232 m., Opolės kunigaikštis nuo
+    1229 m., Didžiosios Lenkijos kunigaikštis nuo 1234 m. Pasak Dusburgiečio, Henrikas
+    Barzdotasis 1233 m. dalyvavo žygyje  į Prūsiją, tačiau kunigaikščio dokumentai kalba
+    apie jo buvimą Prūsijoje 1235 m. (Labuda G., Stanowisko..., p. 311—312). Manoma,
+    kad žygyje dalyvavo ne pats Henrikas Barzdotasis, bet jo sūnus Henrikas Pamaldusis
+    (Zientara B., Sprawy pruskie..., p. 38).
+      230 Pamario kunigaikštis (miręs 1266 m.).
+      231 Kryžiuočiai puolė 1233 m. spalio-lapkričio mėn. arba 1234 m. sausio-vasario
+    mėn. (Jasiński T., Stosunki śląsko-pruskie..., p. 401).
+      232 Zirgūna (D.— Sirgune, XIII—XIV a. dokumentuose — Sirgun, Syrgen, plg. pr.
+    zirgis, lie. žirgas, Žirgupė; vok. Sorge, dab. Dzierzgoń — GAO, p. 158; Būga K., 3, p. 539;
+    Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo
+    (dab. Družno) ežerą (žr. paaiškinimą III, 14, 4). Mūšis įvyko, atrodo, prie Kristburgo,
+    dab. Dzežgonis (VBK; SRP, 1, p. 58 — Tepeno M. išnaša; Ewald A. L., Die Eroberung...,
+    1, p. 163). D. pasakojimą apie krikščionių pergalę kartais linkstama laikyti įvykius
+    pagražinančiu prasimanymu arba vėlesne tradicija (Kujot S., Dzieje Prus..., 1, p. 601).
+
+    žemės, subūrė brolių ir ginklanešių kariuomenę ir pastatė Rudino pilį233 priešais dykrą,
+    buvusią tarp Pamedės ir Kulmo žemių, toje vietoje, pro kur prūsai nuolatos puldinėdavo
+    ir kur buvo įeiga į Kulmo žemę [fuerat [...] introitus ad terram Colmensem].
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180881
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  citata_originali: |
+    Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
+    apreikšti dievo darbus yra šlovinga.
+    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
+    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
+    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
+    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
+    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
+    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
+    atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180882
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pagaliau kam visuose
+    trijuose laiškuose kartojama, kad tas pats antspaudas buvo
+    uždėtas ir ant laiško popiežiui. Visa tai susumavus, atrodo,
+    kad tas antspaudas nebuvo tikras Gedimino antspaudas, bet
+    suklastotas. Laiškų autorius, baimindamasis, kad neišaiškė­
+    tų, kaip yra iš tikrųjų, turėjo stengtis visoms dvejonėms už­
+    bėgti už akių, todėl radosi priedas, kad kryžiuočiai tikrąjį,
+    jo paties, valdovo, antspaudą į ugnį įmetę; ar tikra, ar išgal­
+    vota būtų toji aplinkybė, bet užuomina apie ją čia įdėta sie­
+    kiant tam tikro tikslo.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180884
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Viename jų, skirtame popiežiui ir kardinolams, Gediminas
+    prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta
+    būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­
+    ro smurtas ir nesuskaičiuojamos išdavystės greit privertu-
+    sios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­
+    mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos
+    arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­
+    riai nužudyti. Tiesa, arkivyskupui Isamui tarpininkaujant,
+    tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­
+    dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­
+    keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­
+    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
+    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
+    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
+    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
+    ti pasiuntė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198628
+    - t-198768
+    - t-198881
+
+- id: c-180885
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  citata_originali: |
+    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
+    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai
+    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
+    suartėti su totoriais — mongolais ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180886
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  citata_originali: |
+    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
+    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
+    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
+    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
+    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
+    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
+    atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
+    Pratarmė
+
+
+    „Aukščiausias dievas padarė manyje ženklų ir stebuklų.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180887
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ne mažiau svarbi priežastis, lėmusi menką miestiečių luomo
+    reikšmę Lietuvoje, buvo tame krašte ilgai užsilikusi pagonybė, o
+    podraug šalinimasis nuo visos Europos, kuri jau keturis amžius
+    buvo krikščioniška, išskyrus Lietuvą. Dėl tos nelemtos padėties
+    kryžiuočių grobuoniškumas irgi ilgam buvo užtveręs kelią bet
+    kokiai pažangai visoje mūsų žemėje. Išsami šio miesto istorija pa­
+    teiks skaitytojams įrodymų ir patikinimų dėl tų kelių pastabų apie
+    10
+
+    ## Puslapis 27
+
+    I V  A D  A S
+    Lietuvos miestus, kurias mes leidome sau išdėstyti šio veikalo
+    pradžioje.
+  citata_rodoma: "Dėl tos nelemtos padėties\nkryžiuočių grobuoniškumas irgi ilgam buvo užtveręs kelią bet\nkokiai pažangai visoje mūsų žemėje. Išsami šio miesto istorija pa­\nteiks skaitytojams įrodymų ir patikinimų dėl tų kelių pastabų apie\n10\n\n## Puslapis 27\n\nI V  A D  A S\nLietuvos miestus, kurias mes leidome sau išdėstyti šio veikalo\npradžioje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198706
+
+- id: c-180889
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Naugardukas jau buvo garsiojo Min­
+    daugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-
+    d)
+    Harris, Voyages. T. 1, p. 554.
+    8
+
+    ## Puslapis 25
+
+    ĮVADAS
+    denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų;
+    Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino
+    1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu
+    su Nogajaus mongolais.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180890
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Prekyba su Rusia ir Prū­
+    sija seniai nutrūkusi, nuolatinis priešo pavojus Lietuvos sos­
+    tinę vertė pakaitomis čia karine stovykla, čia mūšio lauku.
+    Reikia pripažinti, jog ta didelė reforma, kurios ėmėsi Vla­
+    dislovas Jogaila, iš pradžių Lietuvai ir jos sostinei daug kai­
+    navo, tačiau tai buvo būtinas barbariško būvio, ligi tol tvy­
+    rojusio tame krašte, pergalėjimas, kam iš visų jėgų priešinosi
+    Kryžiuočių ordinas, aiškiai numatydamas savo nuopuolį,
+    jei Lietuva ir Lenkija ateityje sustiprėtų. Ta liūdna Vilniaus
+    padėtis dar pablogėjo įsiliepsnojus Vytauto karui su Skir­
+    gaila.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180892
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Dabar pilis stovi be stogo, be langų ir vis labiau
+    nyksta.
+    Kita kryžiuočių pilis, vadinta Fridbergu (taikos kalnas),
+    pastatyta tuo pat metu, stovi už 2 mylių nuo Veliuonos že­
+    myn Nemuno tėkme ir dabar vadinama tiesiog pilimi**. Se­
+    niau ji priklausė Eperješams, vėliau - Gelgaudams; kadangi
+    išvengė gaisrų, kurių Bajerburgas buvo du kartus patyręs,
+    geriau išsilaikiusi ir atrodo taip, kaip ir prie kryžiuočių, tik
+    nutinkuota.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180894
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tų karingų vienuolių viršininkas, greitas
+    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
+    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
+    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
+    pilies sudarė sutartį su Vytautu. Netrukus po to Ordino
+    maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­
+    tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir
+    Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
+    aplinkines žemes. Veidmainingas Ordino elgesys su Vytau­
+    tu, norint ne iškelti jį, o tik drumsti vandenį Lietuvoje ir
+    niokoti ją, šįsyk išgelbėjo Vilnių nuo nelaimės: mat kryžiuo­
+    čiai, paėmę du tūkstančius belaisvių, pargrįžo triumfuoda­
+    mi, Vytauto labui nieko nenuveikę, nė negalvodami apie
+    Vilniaus užėmimą.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180896
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­
+    pedicija patraukė į Prūsiją. Atskirus pulkus vedė: Silezijos
+    kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš
+    Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai
+    iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir
+    daug kitų riterių. Prie šio būrio prisijungė krašto magistras
+    Fridrichas fon Vildenbergas, visi ginkluoti krašto žmonės;
+    šis, apimtas didelio ryžto tas pajėgas panaudoti reikšmin­
+    gam žygiui, nukreiptam prieš pagonis, stojęs šimto penkias­
+    dešimties Ordino riterių priešakyje, visą tą guotą nuvedė į
+    Vaikius Žemaitijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198842
+
+- id: c-180897
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Įvairių tautų tyrinėtojai skirtingai išryškino jose ir ati­
+    tinkamų tautų (lietuvių, lenkų, Smolensko pulkų) vaidmenį.
+    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
+    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
+    Nuo Torno Drevencos krantu iki Loebau (VII.
+  citata_rodoma: "Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis\nmagistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.\nNuo Torno Drevencos krantu iki Loebau (VII."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198645
+    - t-198686
+
+- id: c-180898
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
+  citata_originali: |
+    Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
+
+      Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
+    nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė
+    tikėjimui ir broliams254. Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir
+    atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu
+    Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257
+    ir Rezlio258. Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
+    ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
+    daug brolių ir ginklanešių. Daug ir kitų pilių pastatė kilmingieji ir vasalai, atvykę į pagalbą
+    šiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis,
+    kurių vardus vienas dievas težino. Nuo to laiko pradėjo gausėti Prūsijos žemėje tikinčiųjų
+    ir plisti dievo tikėjimas Jėzaus Kristaus garbei bei šlovei (1241).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180899
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 225"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
+  citata_originali: |
+    Ketvirta knygos dalis (Apie įvykius)
+
+
+                 PRASIDEDA KETVIRTA KNYGOS DALIS APIE ĮVYKIUS
+
+
+
+                   1. Apie Celestiną III, popiežių, ir Henriką VI, imperatorių
+
+      Tuo metu, kai radosi ir gavo pradžią Teutonų namų ordinas, tai yra 1190 viešpaties
+    metais, viešpatavo Celestinas III, popiežius, ir Henrikas VI, imperatorius (Dusb. I, 2).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180900
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vėliau,
+    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
+    nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
+    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
+    tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
+    vėliau įkūrė Prūsijos valstybę.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180901
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Buvo
+    aptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką
+    daryti, pritiktų kreiptis, patarimo į tuomet Liubeke buvoju­
+    sius Ordino riterius, Rygos presbiterį, Vendeno komtūrą
+    Veimarą fon Henę, Karkuso valdytoją Mikalojų fon Taršau
+    99
+
+    ## Puslapis 116
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    ir Gotfridą fon Ostą. Kai pakviestieji atvyko ir jiems buvo per­
+    skaityti laiškai, jie pareiškė: jeigu viskas, kas juose rašoma,
+    yra tiesa, savo būtina pareiga jie laiką kuo veiksmingiausiai
+    prisidėti prie švento tikėjimo rėmimo Lietuvoje. Tačiau ka­
+    dangi daugelis pavienių lietuvių iš diduomenės ir paprastų
+    žmonių nekeisią savo senojo gyvenimo būdo, tad, skaitantis
+    su tomis aplinkybėmis, būsią naudinga pirma pasiųsti į Lie­
+    tuvą pasiuntinius, ir pridūrė: Si prefato negocio stante in su­
+    spenso antequam fidem christi suscipiant et baptismum, quemad­
+    modum in litteris pollicentur prelibatis, in Christianos quod absit,
+    aut in res, terras seu personas eorundem manus mitterent virulen­
+    tas, sicut ex certis verisimiliter formidant coniecturis, cum fides fi­
+    dem non servanti minime debeat observari, in ipsos cogentur fidei
+    contumeliam vindicare, atque hoc facientes promissi sui inveniri
+    nolunt circa premissa transgressores [Jei minėtas reikalas atsi­
+    durs ant pražūties slenksčio anksčiau, negu jie Kristaus tikė­
+    jimą ir krikštą priimtų, kurį bent jau iš anksto laiškuose žada,
+    į krikščionis kad nebūtų, arba į reikalus, žemes arba jų pačių
+    asmenis išties nuodingas rankas; tartum tam tikrų, tikėtina,
+    baimintųsi pasekmių; kadangi tikėjimas tikėjimui netarnau­
+    jančiam mažiausiai reikalinga garbinti, pačiuose privalo ti­
+    kėjimo niekinimą įveikti ir šitai darydami dėl savo pažado
+    nenori pažeidėjų atskleisti].
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180902
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Betgi Trakų žydai,
+    gerokai anksčiau, dar 1388 m., atskirai buvo gavę panašią pri­
+    vilegiją, kuria išsamiai apibūdinta jų elgsena krikščionių at­
+    žvilgiu69.
+    Nuo šiol kelerius metus (1408-1414 m.) vyko įnirtingos ko­
+    vos su kryžiuočiais, tad visos Lietuvos monarcho pastangos
+    nukreiptos į vieną tikslą - susilpninti grėsmingas Prūsijos or­
+    dino pajėgas. Reikšminga pergalė prie Griunvaldo pirmą kar­
+    tą pajudino jo tvirtus pamatus.
+  citata_rodoma: "Nuo šiol kelerius metus (1408-1414 m.) vyko įnirtingos ko­\nvos su kryžiuočiais, tad visos Lietuvos monarcho pastangos \nnukreiptos į vieną tikslą - susilpninti grėsmingas Prūsijos or­\ndino pajėgas. Reikšminga pergalė prie Griunvaldo pirmą kar­\ntą pajudino jo tvirtus pamatus."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180903
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 100"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 100."
+  citata_originali: |
+    Apie Kristburgo pilies atstatymą
+    Magistras ir broliai, giliai susikrimtę dėl šio apverktino įvykio, nusprendė, kad kitaip
+    nepalenksi šių kietasprandžių netikėlių tikėjimui, kaip tik tada, kai šios klastingos giminės
+    viduryje [in medio nationis] būsianti pastatyta pilis, iš kurios galėsią juos kasdien
+    puldinėti. Todėl, sukvietę daugybę maldininkų, kurie, pastoviai raginami į kryžiaus karą,
+    nuolat čia traukė iš įvairių Vokietijos kraštų, broliai pasuko į Pamedės žemę pasiėmę
+    visa, kas reikalinga pilims statyti. Pakeitę vietą, bet ne vardą, Jėzaus Kristaus garbei ir
+    šlovei jie pastatė Kristburgo pilį toje vietoje, kur ji ir dabar tebėra304, sutvirtinę ją viskuo,
+    kas reikalinga pilims ginti, ir palikę joje daug karių. Šiek tiek vėliau, bėgant dienoms ir
+    mėnesiams, apie pilį pradėjo kurti miestą305, į kurį suplaukė gyventi daugybė tikinčiųjų,
+    pasiryžusių už krikščionių tikėjimą kasdien aukoti be baimės savo gyvybę ir savo turtą.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180905
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    K. Požėlos spaustuvė, Kaunas
+
+
+    Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą
+            „LIETUVIŲ LITERATŪROS KLASIKOS KŪRINIŲ PERKĖLIMAS
+                               Į ELEKTRONINĘ ERDVĘ“, 2013
+
+    TURINYS
+
+    Pratarmė                                           5
+    Petro Dusburgiečio kronika                            7
+    PRŪSIJOS ŽEMĖS KRONIKA                           32
+      Pirma knygos dalis                                                36
+      Antra knygos dalis                                                42
+       Trečia knygos dalis                                                52
+       Ketvirta knygos dalis (Apie įvykius)                                  225
+      Papildymas                                                     252
+    Bibliografija                                      259
+    Asmenvardžių rodyklė                              279
+    Vietovardžių, etnonimų ir kai kurių istorijos dalykų rodyklė 298
+
+    PETRI DE DUSBURG
+
+
+    CHRONICA TERRAE
+        PRUSSIAE
+
+    Lituanistinė biblioteka
+
+    Pratarmė
+
+
+
+      XIV a. trečiajame dešimtmetyje Lietuvos valstybei, Gedimino vyriausybei vedant
+    sėkmingą karinę  ir diplomatinę kovą prieš Kryžiuočių ordino agresiją, Vakarų
+    Europoje pasigirdo kritiškų balsų Ordino atžvilgiu. Siekdamas pagrįsti kryžiuočių
+    užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
+    Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
+    kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
+    valstybės kūrinys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198748
+    - t-198901
+
+- id: c-180906
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
+    kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo
+    išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
+    šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
+    smarkiai puldavo Lietuvą.
+    Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius
+    žemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­
+    mėjęs Vislos žiotis ir Pamarį (1309 metais) ir išplėtęs savo pre­
+    kybą su tolimais Vakarų Europos miestais, nors vis labiau tolo
+    nuo pirmykštės Ordino dvasios, bet turėdami pilną iždą pinigų,
+    daug stiprių pilių ir nuolat iš Vakarų Europos plaukiančių jėgų,
+    kryžiuočiai kasmet po kelis kartus puldavo Lietuvą, išniokoda­
+    mi plačias jos sritis, degindami gyvenamas vietas ir žmones iš­
+    sivesdami nelaisvėn. Kęstučiui dar smarkiau, negu pirmtakū­
+    nams, tenka gintis nuo Ordino įsiveržimų, nes tada magistro
+    valdžią turėjo veiklus ir energingas vokietis Vinrichas von Kni­
+    prodė (1351—1382).
+  citata_rodoma: "Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius\nžemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­\nmėjęs Vislos žiotis ir Pamarį (1309 metais) ir išplėtęs savo pre­\nkybą su tolimais Vakarų Europos miestais, nors vis labiau tolo\nnuo pirmykštės Ordino dvasios, bet turėdami pilną iždą pinigų,\ndaug stiprių pilių ir nuolat iš Vakarų Europos plaukiančių jėgų,\nkryžiuočiai kasmet po kelis kartus puldavo Lietuvą, išniokoda­\nmi plačias jos sritis, degindami gyvenamas vietas ir žmones iš­\nsivesdami nelaisvėn. Kęstučiui dar smarkiau, negu pirmtakū­\nnams, tenka gintis nuo Ordino įsiveržimų, nes tada magistro\nvaldžią turėjo veiklus ir energingas vokietis Vinrichas von Kni­\nprodė (1351—1382)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198814
+    - t-198821
+
+- id: c-180907
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Po
+    to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
+    Lenkiją, Vilnių palikęs.
+    Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
+    gailos valdymas. Nuolatine savo buveine pasirinkęs Trakų
+    pilį, jis išvykdavo tik į mūšius su Prūsijos ordinu arba su
+    Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­
+    čiais.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180908
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 182"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
+  citata_originali: |
+    Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji
+    kunigaikščiai pasileido bėgti su visais savo lenkais. Sitai matydami, broliai nusigando ir,
+    neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
+    nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
+    pavyko garbingai išvengti kovos.
+    249 (242).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180911
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 111-112"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111-112."
+  citata_originali: |
+    Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
+                                             nių
+
+      1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo  į vieną vietą su stipriomis
+    kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo
+    prie  šios  pilies, atvyko  pasiuntinys, pranešdamas, kad  keturi  tūkstančiai  lietuvių
+
+      342 Krašto magistras buvo nuo 1259 m. gegužės mėn.  iki 1261 m.  lapkričio
+    mėn.
+      343 Karšuvos (D.— terra Carsovie) žemė pietvakarių Žemaitijoje pietuose apie
+    Nemuno—Mituvos santaką siekė Nemuną, pietvakariuose  ribojosi su Skalva (apie
+    Sešuvies—Jūros santaką), vakaruose siekė Minijos žemupį, šiaurėje apėmė Jūros  ir
+    Akmenos vidupius su dab. Šilale, rytuose ėjo iki Šaltuonos aukštupio (SZM, p. 199—
+    202).
+      344 Ordino pilis ant švento Jurgio kalno (D — in monte sancti Georgii) buvo pastatyta,
+    atrodo, deš. Nemuno krante apie dab. Jurbarką, žemiau Mituvos žiočių, kur yra Bišpiliukais
+    vadinama piliavietė (dvi kalvelės Kalnėnų kaimo teritorijoje) (Toeppen M., Historisch..,
+    p. 39; Zajączkowski S., Studya.., p. 35—36; SZM, p. 213—214; LAA, 2, p. 77).
+
+    nuniokojo vieną Kuršo žemės dalį, degindami, grobstydami ir liedami krikščionių kraują,
+    o sugautas moteris bei vaikus išsivarė su savimi, kartu gabendamiesi daug kitokio
+    grobio. Šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti
+    iš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu
+    Mata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus,
+    atsakė: „Palikime savo arklius toli užpakalyje, kad neturėtume vilties prie jų sugrįžti, ir
+    patraukime link priešų pėsčiomis, nes tada žmonės, nesitikėdami išsigelbėsią arkliais,
+    nevengs mūšio, antraip jie be abejonės leisis bėgti“.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180912
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Prūsijos ordino sekuliarizacija (1525 m.)**
+    Nuo to laiko, kai Lietuva krikštijosi ir Europos buvo pri-
+    pažinta katalikiška valstybe, kryžiuočių ordinas buvo nebepa-
+    teisinamas. Aplinkui jau visi kraštai buvo katalikiški, todėl
+    krikščionybės gynėjas — ordinas pasidarė nebereikalingas. Be
+    to, ir jo valstybės viduje atsirado reiškinių, kurie jį griovė.
+  citata_rodoma: ")**\nNuo to laiko, kai Lietuva krikštijosi ir Europos buvo pri-\npažinta katalikiška valstybe, kryžiuočių ordinas buvo nebepa-\nteisinamas. Aplinkui jau visi kraštai buvo katalikiški, todėl\nkrikščionybės gynėjas — ordinas pasidarė nebereikalingas. Be\nto, ir jo valstybės viduje atsirado reiškinių, kurie jį griovė."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180913
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 508"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 508."
+  citata_originali: |
+    To­
+    liau sako: „Narimantas buvo pirmasis, kuris Hipokentaurą pakeitė
+    Vytimi, Giedraitis — Rože, Daumantas — Stumbro galva; Ge­
+    diminas vietoj vieno Stulpo naudojo tris, Kaributas iš pradžių
+    turėjo Erelį su Vytimi, o vėliau — Mėnulį su Kryžiais. Kunigaikš­
+    čiai Rožinskiai savo herbe pavaizdavo kryžius, kabančius ant me­
+    džio kamieno, o kiti, dar prieš Lenkijos ir Lietuvos uniją, savo
+    herbams panaudojo senuosius bajoriškus ženklus, arba, savuosius
+    užleidę, ėmė vartoti naujus“. Tas, kuris mums išsakė priekaištą,
+    jog mes lietuvius apdovanojome herbais jau tais laikais, kai dar
+    niekur jie nebuvo žinomi, pasakė nesąmonę.
+  citata_rodoma: "Be to, pas Henenbergerj\nyra užrašas senovės lietuvių kalba (apie naują šio užrašo aiški­\nnimą, padarytą pono Tado Volianskio, bus kalbama šio veikalo\ntrečiame tome). Tinkamai perskaičius, paaiškėja, jog tai buvo\nLietuvos kunigaikščio Utenio, kuris padėjo prūsams kovoti su\nkryžiuočiais ir kuris buvo pramintas Zupanu, vėliava. Čia gi pa­\nteikėme iliustraciją, padarytą pagal piešinį, gautą iš Zaluskių bib­\nliotekos."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180914
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
+  citata_originali: |
+    III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
+    metų. Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių
+    problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant­
+    roje (ypač nuo Gedimino valdymo) Lietuvos galia ir jėga nepa­
+    prastai išaugo. Si epocha baigėsi 1386 metais, tai yra visiškai
+    įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara­
+    lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat
+    daryti visą tautą.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180915
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Čia, Vilniuje (1443 metais), totorių pasiuntinių
+    prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­
+    tas Perekopo chanu. Čia 1448 metais su Prūsijos ordinu su­
+    daryta37 garsi sutartis, o po dvidešimties metų (1468 me­
+    tais) pats didžiojo magistro pavaduotojas Henrikas Plauenas
+    toje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise
+    įžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­
+    tą38. Pagaliau čia, Vilniuje, triumfuojančiai Lietuvai liūdnos iš-
+    35
+    Svarbiausi Vilniaus seimai, suside­
+    dantys iš vasalinių kunigaikščių, Ka­
+    zimiero Jogailaičio laikais vyko:
+    1451,1452,1457 (tais metais Goštau­
+    tui atleido).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180916
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    IX).
+    100
+
+    ## Puslapis 117
+
+    III
+    APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ
+    Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje,
+    kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­
+    žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­
+    vų su Ordinu šioje vietovėje, nusidriekusi ties Nemunu, už
+    7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per
+    pusantros mylios nutolusi nuo dabartinės Prūsijos sienos.
+    Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­
+    mu prie jo, yra apie 160 namų ir dvaras.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180917
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno. Dar
+    niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
+    reikalams, kaip tuomet. Didžiojo kunigaikščio dvare knibž­
+    dėjo beveik vieni vokiečiai, ir didysis magistras gudriai su­
+    gebėjo apstatyti Švitrigailą savo parankiniais, kurie akylai
+    sergėjo, kad dviejų neseniai susijungusių tautų vienybė vis
+    labiau silpnėtų ir tarp brolių tvyrotų nesantarvė7.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180918
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 96-97"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96-97."
+  citata_originali: |
+    Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
+                                            jos [vyrų]
+
+      Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą  ir kai įsakė kitiems
+    jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės
+    kančios sujaudino Vokietijos kunigaikščius bei kilminguosius, o Austrijos kunigaikštis294
+    pasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais
+    kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
+    Magistras  ir broliai su jais bei su kunigaikščiu Kazimieru  ir su savaisiais įsibrovė  į
+    Pomeranijos žemę  ir, devynetą dienų  ir naktų tai viena, tai kita kryptimi smogdami
+    stiprius  ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio,
+    kurio nebūtų nuniokoję plėšimais ir gaisrais. Tuo metu, kai šitai dėjosi, Sventopelkas
+    sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
+    atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo
+    brolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,
+    šitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė
+    dvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė
+    šiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę
+    teutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
+    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
+    vyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
+    koks bailys pamatęs daugybę nukautųjų. Šitai išvydęs, valdovas Henrikas iš Lichtenšteino
+    staiga užgriuvo priešus ir sugrąžino  į pirmykštę vietą atimtą grobį. Apie tai sužinojęs,
+    Sventopelkas paskubėjo saviesiems  į pagalbą su trimis raitelių būriais. Juos išvydę,
+    lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei
+    kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino.
+    Tuo tarpu broliai susirikiavo kovai. Sventopelkas, pamatęs, kad broliai nė nemano bėgti,
+    įsakė tūkstančiui savo rinktinių karių nušokti nuo žirgų pamokęs juos pulti brolius su
+    dideliu triukšmu bei riksmu ir, prisidengus skydais, ietimis galabyti krikščionių arklius,
+    sakydamas: „Kryžiuočiai, apsišarvavę sunkiais šarvais, nestengs pėsti kovoti“. Kai abi
+    kariuomenės išsirikiavo mūšiui, valdovas Henrikas sugrįžo atgal  ir, išvydęs priešus,
+    pasakė broliams: „Delsti pavojinga, todėl pulkime juos!“ Jie įnirtingai užpuolė priešus,
+    ir prasidėjo baisios kautynės; Sventopelko kariuomenė prarado mūšio lauke tūkstantį
+    penkis šimtus žuvusių vyrų, o krikščionių nė vienas nebuvo sunkiai sužeistas, išskyrus
+    10 žirgų, kurie krito perverti priešo iečių. Šitaip broliai ir maldininkai sugrįžo namo,
+    parsivarydami tūkstantį šešis šimtus priešo žirgų, parsiveždami daugybę kitoniško
+      293 Popiežiaus legatu Prūsijoje Opicas iš Mesanos, dab. Mesinos, buvo 1245 m.
+    pabaigoje— 1246 m. pradžioje (Kujot S., Dzieje Prus..., 1, p. 727—728).
+      294 Fridrichas.
+
+    grobio  ir laimėję garbingą pergalę, nes jiems talkino mūsų viešpats Jėzus Kristus,
+    kuris tebūnie garbinamas per amžių amžius, amen.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180919
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vilniaus kapitulos archy­
+    vas: MSS, vad. Acta, tai yra*
+    117
+
+    ## Puslapis 134
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Ordino pagalbos. 1390 metų sausio pradžioje visą savo šei­
+    mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­
+    tesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar
+    labiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų
+    savo pilių gynybą. Tų karingų vienuolių viršininkas, greitas
+    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
+    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
+    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
+    pilies sudarė sutartį su Vytautu.
+  citata_rodoma: "Acta, tai yra*\n117\n\n## Puslapis 134\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nOrdino pagalbos. 1390 metų sausio pradžioje visą savo šei­\nmą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­\ntesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar \nlabiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų \nsavo pilių gynybą. Tų karingų vienuolių viršininkas, greitas \npasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­\ngos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­\nsiuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios \npilies sudarė sutartį su Vytautu."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180920
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
+  citata_originali: |
+    Kai brolis
+    Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.
+    Kai sugrįžo išbalęs ir priblokštas į savo pilį, papasakojo visa, ką matęs, savo žmonai,
+    kilmingai, jaunai ir švelniai moteriai, kuri, jo paprašyta skyrybų, ryžtingai atsisakė. Kai
+    jis kurį metą nelyginant dvejojo, ar pajėgs tesėti savo įžadus, velnias, žmonių giminės
+    priešas, kuriam tūkstančiai kelių kenkti žmogui, norėdamas jį sulaikyti nuo šių šventų
+    ketinimų, pasirodė jam sapne apsivilkęs karališkais rūbais bei apsuptas gausybės riterių
+    ir pasakė: „Henrikai, turėtumei tokią karalystę ir tokią kariauną, būtumei žymus karys,
+    man tarnautumei, o aš dar daugiau tau duočiau“.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180921
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Ordinas, remdamasis Salyno su-
+    tartim, reikalavo, kad pabėgėliai žemaičiai būtų jam grąžinami.
+    Bet sutarty buvo minimi tik nelaisvieji valstiečiai, ir Vytautas tei-
+    sinosi, kad laisvieji galį kilnotis kur tinkami. O nustatyti, kas
+    Žemaičiuose buvo laisvas, o kas ne, buvo labai sunku. Todėl jis
+    nepaisė ordino reikalavimo.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180923
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    O Julijona ir kunigaikščio
+    taryba tėra paminėta Žemaičių dovanojimo dokumente.
+    Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais
+    tariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis
+    Jogailą priversti nesitraukti nuo didelių pažadų. Įvykiai tačiau
+    (^19) **LUB, III, 393-395, 400, 489-495 p.; RaCD, 55-60 p.**
+  citata_rodoma: "O Julijona ir kunigaikščio\ntaryba tėra paminėta Žemaičių dovanojimo dokumente.\nKryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais\ntariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis\nJogailą priversti nesitraukti nuo didelių pažadų. Įvykiai tačiau\n(^19) **LUB, III, 393-395, 400, 489-495 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198637
+    - t-198884
+
+- id: c-180924
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
+  citata_originali: |
+    Apie karą su pagudėnais ir Elbingo pilies pastatymą
+
+       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
+    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
+    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
+    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
+    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
+    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
+    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
+    išaugo miestas242.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198846
+
+- id: c-180925
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    4 4  Tuo m etu Jogaila sudarė su kryžiuočiais dvi sutartis. Pir­
+    m ąja 1380.11.27 buvo sudarytos paliaubos su Livonijos ordinu: Li­
+    vonijos ordinas Įsipareigojo nepulti Jogailos valdomų žemių bei
+    Plocko kunigaikštystės, bet Žemaitijos ir kilų, Kęstučio valdomi)
+    žemių tai nelietė. A ntrąja sutartimi, sudaryta I380.V.31 Dovytllš-
+    kėse (apie Gardiną) su Prūsijos kryžiuočių magistro Vinricho Knip-
+    rodės atstovais. Jogaila pasižadėjo neribotam laikui laikytis taikos
+    su Prūsija ir Livonija ir neteikti pagalbos Kęstučiui ir jo sūnums,
+    jeigu jie būtų kryžiuočių puolami.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198724
+
+- id: c-180926
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Krikštas tačiau buvo pirmoji stipri grandis, siejanti
+    Lietuvą su krikščioniška vidurinių amžių bendruomene. Kad būtų
+    galima įeiti į tą bendruomenę ir gauti aukščiausios Bažnyčios
+    valdžios patvirtinimą, reikėjo dar nugalėti kryžiuočių daromas
+    kliūtis.
+    Pirmasis Italijon vykstąs Jogailos pasiuntinys (Trąba) Habs­
+    burgų žemėse buvo įmestas kalėjiman.
+  citata_rodoma: "Kad būtų\ngalima įeiti į tą bendruomenę ir gauti aukščiausios Bažnyčios\nvaldžios patvirtinimą, reikėjo dar nugalėti kryžiuočių daromas\nkliūtis.\nPirmasis Italijon vykstąs Jogailos pasiuntinys (Trąba) Habs­\nburgų žemėse buvo įmestas kalėjiman."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198588
+    - t-198774
+
+- id: c-180928
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    _ordinas_ , kuris savo pradžią buvo gavęs 1190 m. Palestinoje prie
+    Akonos apgulimo^74.
+    Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs
+    Mozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo
+    įkyrių prūsų puldinėjimų, iš imperatoriaus Fridricho II (Hohenštau-
+    feno) išsirūpino ordino ateičiai rytuose reikšmingą privilegiją, duotą
+    Rimini, Italijoje, 1226 m. kovo mėnesį.
+  citata_rodoma: "Palestinoje prie\nAkonos apgulimo^74.\nKetvirtasis vokiečių ordino magistras Hermanas Salza, gavęs\nMozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo\nįkyrių prūsų puldinėjimų, iš imperatoriaus Fridricho II (Hohenštau-\nfeno) išsirūpino ordino ateičiai rytuose reikšmingą privilegiją, duotą\nRimini, Italijoje, 1226 m. kovo mėnesį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198658
+
+- id: c-180930
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau ka­
+    dangi daugelis pavienių lietuvių iš diduomenės ir paprastų
+    žmonių nekeisią savo senojo gyvenimo būdo, tad, skaitantis
+    su tomis aplinkybėmis, būsią naudinga pirma pasiųsti į Lie­
+    tuvą pasiuntinius, ir pridūrė: Si prefato negocio stante in su­
+    spenso antequam fidem christi suscipiant et baptismum, quemad­
+    modum in litteris pollicentur prelibatis, in Christianos quod absit,
+    aut in res, terras seu personas eorundem manus mitterent virulen­
+    tas, sicut ex certis verisimiliter formidant coniecturis, cum fides fi­
+    dem non servanti minime debeat observari, in ipsos cogentur fidei
+    contumeliam vindicare, atque hoc facientes promissi sui inveniri
+    nolunt circa premissa transgressores [Jei minėtas reikalas atsi­
+    durs ant pražūties slenksčio anksčiau, negu jie Kristaus tikė­
+    jimą ir krikštą priimtų, kurį bent jau iš anksto laiškuose žada,
+    į krikščionis kad nebūtų, arba į reikalus, žemes arba jų pačių
+    asmenis išties nuodingas rankas; tartum tam tikrų, tikėtina,
+    baimintųsi pasekmių; kadangi tikėjimas tikėjimui netarnau­
+    jančiam mažiausiai reikalinga garbinti, pačiuose privalo ti­
+    kėjimo niekinimą įveikti ir šitai darydami dėl savo pažado
+    nenori pažeidėjų atskleisti].
+    Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­
+    biniame pranešime (Notariats instrument), į kurį taip pat buvo
+    įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­
+    rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­
+    ve, ir tik iš jo su tais laiškais galima susipažinti. Be abejonės,
+    anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­
+    dino piktadarystę" atsidūrė kryžiuočių archyve.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180931
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 39"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
+  citata_originali: |
+    Nemaža jame ir
+    tokių, kurie iš širdies rūpinasi labdarybe, teikdami globą svetimšaliams, maldininkams ir
+    pavargėliams. Be to, nemaža tokių, kurie, gilaus širdies pamaldumo skatinami, su
+    begaliniu uolumu patarnauja ligoninėse pasilpėliams ir paliegėliams, sergantiems
+    šiurpiomis ligomis. Garbingą ir naudingą vietą ordine užima dvasininkai, kurie taikos
+    metu, visur pasklidę nelyginant kibirkštys, skatina brolius pasauliečius stropiai laikytis
+    regulos, laiko pamaldas ir teikia sakramentus, o skubantiems į kruvinas žudynes vardan
+    gyvenimo ar mirties rodo nukryžiuotojo viešpaties pavyzdį, šitaip keldami kovotojų
+    narsą; su begaline dvasios malone jie teikė savo patarnavimus visiems — ir tvirtiems
+    kariams, ir silpniems paliegėliams, nešdami jų sąžinei paguodą paskutinę gyvenimo
+    valandą.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180932
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Pirmasis jos krikšto ban-
+    dymas Mindaugo laikais nepasisekė, nes to paties krikšto proga
+    vokiečių ordinas stengėsi užgrobti pagoniškosios Lietuvos žemių
+    dalį, būtent Žemaičius. Žemaičiai betgi nepasidavė; prie jų pri-
+    sidėjo pagonybės šalininkai Aukštaičiuose, ir Mindaugas, svyra-
+    vęs prie jų prisidėti, pagaliau žuvo (žiūr. 52, 59 psl.).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180933
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Susirėmė su jais vokiečiai
+    ties Rudamina, pusantros mylios atstumu nuo miesto; ir šis
+    mūšis, ir Vilniaus pilių atsilaikymas, pastūmėjo kryžiuočius
+    leistis į derybas su Algirdu ir Kęstučiu, kurie pirmieji pa­
+    reiškė tokį norą25. Galop buvo sudaryta taikos sutartis, ku­
+    ria kryžiuočiai įsipareigojo palikti neliestą Vilniaus dalį, dar
+    nenukentėjusią nuo ugnies; į Vilniaus ir Trakų pilis buvo
+    pakviestas maršalas, arkikomtūras ir daugelis aukštesniųjų
+    vokiečių riterių. Ten puikiai pavaišinti, dosniai apdovanoti,
+    pagaliau paliko miestą ir šalį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198868
+
+- id: c-180934
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mat
+    atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
+    apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad
+    teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­
+    nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant
+    valdovo sumanymą. Atvykę taip pat Rygos miesto pasiun­
+    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
+    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
+    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
+    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
+    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
+    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
+    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
+    tvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,
+    sudarytos Vilniuje, 1323 m., pirmąją savaitę po Šv.
+  citata_rodoma: "Mat \natvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui \napie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad \nteiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­\nnančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant \nvaldovo sumanymą. Atvykę taip pat Rygos miesto pasiun­\ntiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­\nterių, vyskupų ir Livonijos miestų tarpininkauti sudarant \ntaiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų, \nrašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas \njį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­\nimta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­\ntį, ištisai visą abiejų besitariančių pusių priesaikomis pa­\ntvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties, \nsudarytos Vilniuje, 1323 m."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180935
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Ordinas atsiuntė savo komtūrą
+    Marquardą v. Salzbachą su keliais tūkstančiais kariuomenės;
+    prisijungė prie Vytauto su savo pulkais ir Tochtamyšas. Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198836
+
+- id: c-180936
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  citata_originali: |
+    159 D. — Wurcza. Burcos žemė Transilvanijoje. Joje Vengrijos karalius Andrius 11
+    1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4),
+    norėdamas, kad šie gintų kraštą nuo polovcų (kumanų). Kryžiuočiai savavališkai bandė
+    plėsti savo valdas; popiežiaus padedami, sieke visiško savarankiškumo, todėl 1225 m.
+    Andriaus II buvo išvyti iš Vengrijos.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180937
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Be to, dar leidžia kapitulai
+    imti kas dešimtą sugautą žuvį ka­
+    raliaus tvenkiniuose Vilijos upėje ir
+    įsako, kad jai kasmet iš pilies būtų
+    129
+
+    ## Puslapis 146
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    pasirūpinęs ateičiai savo senosios sostinės gynyba ir ilgų ne­
+    gandos dienų iškamuotų tėvynainių karšto pritarimo sulau­
+    kęs, tvirtybės įgavęs, Jogaila žiemą išvažiavo atgalios į Len­
+    kiją; vis dėlto, kad abi Vilniaus pilys priešams būtų
+    grėsmingesnės, vos tik grįžęs, Olesnickiui atsiuntė naujos pa­
+    spirties - maisto išteklių ir žmonių. Vilniui bemat jos prirei­
+    kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti
+    Lietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo
+    naudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­
+    čioniška būdama, iš naujų savo tikėjimo brolių ne gynybos
+    sulaukė, o dar žiauresnių smūgių nei totorių antpuoliai. Po
+    visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­
+    do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­
+    ties narsa, o pirmiausia nesulaikomas potraukis į riterystę
+    vėl subūrė iš visų Europos šalių gausius ir pajėgius kryži-
+    ninkų pulkus, pasišovusius traukti į vargų prispaustą
+    Lietuvą.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180938
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kai rug­
+    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
+    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
+    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
+    jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
+    vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
+    esanti pagonių šalis. Galop ta galinga kariauna išsiruošė į
+    žygį vedama vyriausiojo vado Ordino maršalo Engelhardo
+    Rabės22, kadangi didysis magistras Konradas Ciolneris gu­
+    lėjo pakirstas sunkios ligos.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180940
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Revelis [Talinas] už savo
+    atsiradimą dar anksčiau turi būti dėkingas danams. Teutonų
+    ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
+    gonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­
+    tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­
+    kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
+    metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
+    bemaž visi Varmės miestai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198854
+
+- id: c-180941
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 37-38"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37-38."
+  citata_originali: |
+    Tad popiežius, išklausęs šią
+    pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties
+    dievo vardu patvirtino. Jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams
+    slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti
+    broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir
+    suteikdamas jiems visokių laisvių, lengvatų bei indulgencijų, kurių apaštališkasis sostas
+      153 Akonas (Akra, Aka) — miestas ir uostas Viduržemio jūros rytinėje pakrantėje (dab
+    Izraelio teritorijoje), XI a. pabaigoje buvęs Vakarų Europos kryžininkų įkurtoje Jeruzalės
+    karalystėje. 1187 m. jį užėmė Egipto sultonas. Saladinas. Kryžininkų atkariautas 1191
+    m., tapo Jeruzalės karalystės sostine (iki 1291 m.).
+
+    teikė tokiems garbingiems ordinams, kaip jau minėtieji joanitai  ir tamplieriai, taigi
+    duodamas teisę laisvai naudotis tomis pat privilegijomis kaip ir anieji.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180942
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    To [rašto] paliudijimui laikėme reikalingu dalyku pridė­
+    ti prie šio laiško tą mūsų antspaudą, kurį pasiuntėme apaš­
+    tališkajam viešpačiui ir švenčiausiajam mūsų tėvui ir kurį
+    kryžiuočiai šios pasiuntinybės įžeidimui įmetė į ugnį.
+    Šio antspaudo niekintojus ir teksto klastotojus šiuo laiš­
+    ku skelbiame tikėjimo persekiotojais, piktais ir klastingais
+    eretikais.
+    Duota Vilniuje 1323 viešpaties metais, pačioje Kristaus
+    kūno dienoje.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180944
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
+  citata_originali: |
+    Apie vienos pilies užkariavimą ir apie Kristburgo pilį
+    Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
+    yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko
+    rūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius
+    ir maldininkus, patraukė į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
+    ilsintis, priartėjo prie pamedėnų pilies, stovėjusios tada toje vietoje, kuri dabar
+    vadinama Senuoju Kristburgu, slapta įsibrovė į pilį, pristatęs prie sienų kopėčias, ir
+    ją užėmė nukovęs ar išsivaręs į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
+    daug ginklanešių. Kadangi Kristaus gimimo naktį buvo tikinčiųjų užkariauta ta pilis, ji
+    pavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties
+    pranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse.
+  citata_rodoma: "Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems\nyra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko\nrūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius\nir maldininkus, patraukė  į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms\nilsintis,  priartėjo  prie pamedėnų  pilies,  stovėjusios tada  toje  vietoje,  kuri dabar\nvadinama Senuoju Kristburgu, slapta įsibrovė  į  pilį, pristatęs prie sienų kopėčias,  ir\nją užėmė nukovęs ar išsivaręs  į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir\ndaug ginklanešių. Kadangi Kristaus gimimo naktį buvo tikinčiųjų užkariauta ta pilis, ji\npavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties\npranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180945
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo. Be to, dar nerimą kėlė Gedimino valia ra­
+    dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
+    ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
+    riteriai, gviešęsi grobio ir valdžios. Kivirčai tarp brolių da­
+    vė pradžią slaptoms, bet sumaniai parengtoms sutartims
+    siekiant nuversti nuo sosto Jaunutį.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180946
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Lietuvos mūšiai 15
+
+    ## Puslapis 18
+
+    AG Li;
+
+    Žalgirio mūšio inscenizacija Griunvaldo apylinkėse Lenkijoje: Lietuvos kariuomenė, kartu su sąjungininkais lenkais; |
+
+    2 1410 m. liepos 15 d. sutriuškino Kryžiuočių (dar vadinamo Vokiečių arba Teutonų) ordino kariuomenę viename didžiausių /**
+    Europos viduramžių mūšyje. Ši pergalė padėjo Lietuvai įtvirtinti savo, kaip pilnavertės Europos valstybės, statusą.
+    Oficialiai Lietuva pasikrikštijo dar 1387 m., tačiau Ordinas šį faktą ignoravo ir toliau puolė Lietuvą kovos prieš pagonis
+  citata_rodoma: "Lietuvos mūšiai 15\n\n## Puslapis 18\n\nAG Li;\n\nŽalgirio mūšio inscenizacija Griunvaldo apylinkėse Lenkijoje: Lietuvos kariuomenė, kartu su sąjungininkais lenkais; |\n\n2 1410 m. liepos 15 d. sutriuškino Kryžiuočių (dar vadinamo Vokiečių arba Teutonų) ordino kariuomenę viename didžiausių /**\nEuropos viduramžių mūšyje. Ši pergalė padėjo Lietuvai įtvirtinti savo, kaip pilnavertės Europos valstybės, statusą."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180947
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Ordinas galėjo pulti dar nesusitvarkiusius lenkus, bet jis
+    to nedarė, matyti bijojo, kad girioje galėjo būti dar daug pasi­
+    slėpusios kariuomenės. Trečioji Ordino kariuomenės eilė sto­
+    vėjo dar tolokai nuo mūšio lauko ir buvo laikoma atsargai. Kai
+    buvo išrikiuotos dvi lenkų linijos (trečioji tvarkėsi), Ordinas pa­
+    matė, kad jo frontas yra per trumpas.
+  citata_rodoma: "Trečioji Ordino kariuomenės eilė sto­\nvėjo dar tolokai nuo mūšio lauko ir buvo laikoma atsargai. Kai\nbuvo išrikiuotos dvi lenkų linijos (trečioji tvarkėsi), Ordinas pa­\nmatė, kad jo frontas yra per trumpas."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180951
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
+  citata_originali: |
+    Apie Vėluvos pilies puolimą
+    Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
+    su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias
+    dienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo į
+    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
+    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
+    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
+    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
+    piliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o
+    minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam
+    lietuvių vadui ir jį nukovė, o paleidęs [strėlę] į kitą priešo kariuomenės dalį, pataikė
+    vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
+    jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Anglų riteriai]], [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - Puolė Kryžiuočių ordiną: [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Sudargas]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/grupes/Žemaičiai]]
@@ -17711,7 +14931,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - Kryžiuočių ordinas valdė [[objektai/vietos/Pamedė]], [[objektai/vietos/Sūduva]], [[objektai/vietos/Vancka]]
 - Kryžiuočių ordinas keliavo į [[objektai/vietos/Livonija]], [[objektai/vietos/Papartėnai]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Ukmergės apylinkė]]
 - Kryžiuočių ordinas pastatė [[objektai/vietos/Bajerburgas]], [[objektai/vietos/Dobė]], [[objektai/vietos/Elbingas]], [[objektai/vietos/Fridburgas]], [[objektai/vietos/Georgenburgas]], [[objektai/vietos/Gotesverderis]], [[objektai/vietos/Kristburgas]], [[objektai/vietos/Kroicburgas]], [[objektai/vietos/Malburgas]], [[objektai/vietos/Marienverderis]], [[objektai/vietos/Marijenburgas]], [[objektai/vietos/Metenburgas]], [[objektai/vietos/Rezlis]], [[objektai/vietos/Torunė]], [[objektai/vietos/Ventės ragas]], [[objektai/vietos/Vizenburgas]]
-- Kryžiuočių ordinas puolė [[objektai/vietos/Aukaimis]], [[objektai/vietos/Bisenė]], [[objektai/vietos/Christmemelio pilis|Christmemelio pilis (pilis)]], [[objektai/vietos/Dobrynė]], [[objektai/vietos/Dubingiai]], [[objektai/grupes/Galindai]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Karšuva]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]], [[objektai/vietos/Kimelis]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Medininkai]], [[objektai/vietos/Medininkų žemė]], [[objektai/vietos/Polesė]], [[objektai/asmenys/Skirgaila]], [[objektai/vietos/Šešuoliai]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Vilnius]], [[objektai/grupes/Žemaičiai]], [[objektai/vietos/Žemaitija]]
+- Kryžiuočių ordinas puolė [[objektai/vietos/Aukaimis]], [[objektai/vietos/Bisenė]], [[objektai/vietos/Christmemelio pilis|Christmemelio pilis (pilis)]], [[objektai/vietos/Dobrynė]], [[objektai/vietos/Dubingiai]], [[objektai/grupes/Galindai]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Karšuva]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]], [[objektai/vietos/Kimelis]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Medininkai]], [[objektai/vietos/Medininkų žemė]], [[objektai/vietos/Polesė]], [[objektai/asmenys/Skirgaila]], [[objektai/vietos/Šešuoliai]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Žemaitija]]
 - Kryžiuočių ordinas apgulė [[objektai/vietos/Bisenė]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]], [[objektai/vietos/Trakai]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Višogrudas]]
 - Kryžiuočių ordinas užėmė [[objektai/vietos/Baiga]], [[objektai/vietos/Barta]], [[objektai/vietos/Dobrynė]], [[objektai/vietos/Jurbarkas]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]], [[objektai/vietos/Kernavė]], [[objektai/vietos/Maišiagala]], [[objektai/vietos/Naujasis Kaunas]], [[objektai/vietos/Pamaris]], [[objektai/vietos/Pomeranija]], [[objektai/vietos/Prūsija]]
 - Kryžiuočių ordinas gynė [[objektai/vietos/Drevenca]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

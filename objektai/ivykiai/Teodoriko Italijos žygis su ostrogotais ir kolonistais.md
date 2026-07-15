@@ -44,34 +44,9 @@ Nenurodyta
 <a id="claim-t-191053"></a>
 - t-001
   global_id: t-191053
-  teiginys: "Narbuto pasakojime Teodoriko Italijos žygį, pradėtą viduržiemį, lėtino dengti vežimai, įranga, kalnų keliai, šalčiai, sniegas ir gepidų bei bulgarų pasipriešinimas."
+  teiginys: 'Narbuto pasakojime Teodoriko Italijos žygį, pradėtą viduržiemį, lėtino dengti vežimai, įranga, kalnų keliai, šalčiai, sniegas ir gepidų bei bulgarų pasipriešinimas.'
   pagrindžia:
     - c-173935
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbuto pasakojime Teodoriko Italijos žygį, pradėtą viduržiemį, lėtino dengti vežimai, įranga, kalnų keliai, šalčiai, sniegas ir gepidų bei bulgarų pasipriešinimas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Paskui kariuomenę riedėjo specialiai padaryti dengti ve-
-    310
-
-    ## Puslapis 321
-
-    žiniai, galėję būti būstais, mašinos ir malūnai su visa
-    įranga. 'Žinoma, visa tai žygį, pradėtą viduržiemy, lėtino
-    ir sudarė nemažai kliūčių greitam įsiveržimui į Italiją.
-    Bet nei neišvažiuojami kalnų keliai, nei tą žiemą užklupę
-    smarkūs šalčiai ir sniegas, nei pagaliau pakeliui patirtas
-    gepidų, vėliau ir bulgarų priešinimasis nesukliudė prasi­
-    veržti net iki Italijos sienų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -97,4 +72,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191053
+    - t-001

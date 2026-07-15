@@ -42,32 +42,6 @@ Statybininkų šalmai ir dujokaukės - gautos Vilniaus miesto tarybos | | Lietuv
   teiginys: "Sovietų konstruktorius M. Kalašnikovas 1947 m. sukūrė automatinį šautuvą AK-47."
   pagrindžia:
     - c-44441
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Maistą taip pat aukojo gyventojai
-    ir maitinimo įmonės. Statybines medžiagas
-    įtvirtinimų statybai tiekė įvairios statybinės
-    organizacijos. Statybininkų šalmai ir du-
-    jokaukės - gautos Vilniaus miesto tarybos | |
-
-    Lietuvos atsikurimas
-
-    ## Puslapis 258
-
-    KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI
-
-    1947 m. sovietų konstruktoriaus M. Kalašnikovo sukurtas automa-
-    tinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

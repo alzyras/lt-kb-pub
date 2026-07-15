@@ -58,6 +58,7 @@ Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranaš
 - susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-188206|Krivičiai]]: Narbutas primena, kad Livonijos kryžiuočiai kariavo su krivičiais, o Livonijos broliai lankydavosi Karaliaučiuje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178822|Kryžiuočių ordinas]]: Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179101|Kryžiuočių ordinas]]: Marijos Mergelės ordino nariai nešiojo baltus apsiaustus su juodu kryžiumi, todėl Lietuvoje dažnai vadinti kryžiuočiais.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188218|Kryžiuočių ordinas]]: Narbutas pabrėžia, kad Dusburgietis 1326 m. įteikė kroniką didžiajam magistrui praėjus maždaug šimtmečiui nuo kryžiuočių atsikraustymo.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188219|Kryžiuočių ordinas]]: Narbutas primena, kad Livonijos kryžiuočiai kariavo su krivičiais, o Livonijos broliai lankydavosi Karaliaučiuje.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-190614|Prūsai]]: Narbutas pabrėžia, kad Dusburgietis 1326 metais įteikė kroniką, kai nuo visiško Prūsijos užkariavimo buvo praėję kiek daugiau nei keturiasdešimt metų.
 - susijęs iš [[objektai/paprociai/Krivio valios ir potvarkių klausymas.md#claim-t-189924|Krivio valios ir potvarkių klausymas]]: Narbutas aiškina, kad Dusburgietis galėjo perdėti Nadruvos krivio valdžią, tačiau tai nepaneigia krivio institucijos buvimo.
@@ -65,7 +66,6 @@ Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranaš
 - susijęs iš [[objektai/zodynas/Krieviai krivičiai gudai.md#claim-t-189226|Krieviai krivičiai gudai]]: Narbutas pateikia Faterio priekaištą, kad Dusburgiečio žinia apie krivį kilo iš rusinų, latviškai vadinamų krieviais, pavadinimo.
 - susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189140|Romovė Romuva Romow]]: Narbutas teigė, kad paskutiniais stabmeldystės amžiais Romovių būta keliose vietose ir jose gyveno atskiri kriviai.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranašautoją, kurios pranašystėmis buvo tikima.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -89,15 +89,16 @@ Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranaš
 - id: c-173027
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 304"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 304."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
-    sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
-    garsaus pranašo, kurio teirautasi apie tos šventyklos likimą.
-    Įvairiose vietose gyveno moterų pranašautojų, kurių pra­
-    našystėmis tikėta. Apie vieną iš jų tokį pasakojimą paliko Dus-
-    burgietis.
+    Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
+    Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
+    simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
+    mo nekaltai nubaudė vieną žmogų“42.
+    Duomenų apie Antikos sibiles, kurių pranašavimo princi­
+    pai buvo panašūs, skaitytojas ras F. Noelio mitologijos žody­
+    ne43. Kunigas Osinskis išvertė jį pažodžiui į lenkų kalbą.
+  citata_rodoma: "Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­\nsią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta\ngarsaus pranašo, kurio teirautasi apie tos šventyklos likimą.\nĮvairiose vietose gyveno moterų pranašautojų, kurių pra­\nnašystėmis tikėta. Apie vieną iš jų tokį pasakojimą paliko Dus-\nburgietis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Redakcinė pastaba nurodo, kad Jonas Olbrachtas Petrakavo seime buvo išrinktas Lenkijos karaliumi 1492 m. liepos 27 d. Redakcinė pastaba nurodo, kad Jonas Olbrachtas buvo vainikuotas Krokuvoje 1492 m. rugsėjo 23 d.
+Jonas Olbrachtas Petrakavo seime buvo išrinktas Lenkijos karaliumi 1492 m. liepos 27 d. Jonas Olbrachtas buvo vainikuotas Krokuvoje 1492 m. rugsėjo 23 d. Jonas Olbrachtas 1492 m. liepos 27 d. Petrakavo seime buvo išrinktas Lenkijos karaliumi, o rugsėjo 23 d. vainikuotas Krokuvoje.
 
 ## Laikotarpis ir datos
 
@@ -74,35 +74,18 @@ Nenurodyta
 <a id="claim-t-193852"></a>
 - t-003
   global_id: t-193852
-  teiginys: "Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petrakavo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23."
+  teiginys: "Jonas Olbrachtas 1492 m. liepos 27 d. Petrakavo seime buvo išrinktas Lenkijos karaliumi, o rugsėjo 23 d. vainikuotas Krokuvoje."
   pagrindžia:
     - c-169972
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1  Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petraka-
-    vo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 
 - id: c-169972
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 305"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 305."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    1  Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petraka-
+    1 Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petraka-
     vo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23.
   citata_rodoma: "1  Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petraka- \nvo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23."
   statusas: verified

@@ -52,28 +52,6 @@ media_all_json: |-
   pagrindžia:
     - c-76057
 - susijęs iš Nalšėnų žemė: Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Padėtis buvo įtempta ir
-    Lietuvos pietryčiuose. 1258-1259 m. žiemą
-    Lietuva atrėmė didžiulį Aukso ordos toto-
-    rių, vadovaujamų Burundajaus, bei jiems
-    jau pavaldžios Haličo-Voluinės Rusios
-    antpuolį. Tuomet buvo nuniokota pietry-
-    tinė Lietuvos valstybės dalis prie Nemuno
-    aukštupio ir jotvingių kraštas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-76057

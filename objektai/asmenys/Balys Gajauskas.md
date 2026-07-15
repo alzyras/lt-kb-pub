@@ -42,45 +42,6 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
   teiginys: "Sovietinė valdžia suėmė ir nuteisė disidentus Balį Gajauską ir Viktorą Petkų."
   pagrindžia:
     - c-166920
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos Helsinkio
-    grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
-    per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje. Taip
-    demokratiniai Vakarai sužinojo apie tikrąją padėtį, žmogaus teisių pažei-
-    dimus SSRS. Sovietinė valdžia represijas prieš disidentus derino su dalinių
-    nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-
-    nomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nu-
-    teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Sovietinė valdžia suėmė ir nuteisė disidentus Balį Gajauską ir Viktorą Petkų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taip
-    demokratiniai Vakarai sužinojo apie tikrąją padėtį, žmogaus teisių pažei-
-    dimus SSRS. Sovietinė valdžia represijas prieš disidentus derino su dalinių
-    nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-
-    nomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nu-
-    teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus). Skirtingai nei
-    katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

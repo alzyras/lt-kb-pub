@@ -58,8 +58,8 @@ Nenurodyta
   teiginys: "Lietuvoje gyveno garsi Triznų giminė22."
   pagrindžia:
     - c-177032
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas trizną apibūdina kaip kai kurioms lietuvių genties tautoms žinotas apeigas, atliekamas laidojant labai žymius žmones.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -101,14 +101,16 @@ Nenurodyta
 - id: c-172782
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 367"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­
-    tuvių genties tautos žinojo trizną. Tai buvo apeigos, atlieka­
-    mos laidojant labai žymius žmones. 21
-    21
-    Rusioje tai buvo vadinama “Wyt’po mertwom”.
+    Taip jų mokslas rado mora­
+    linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras
+    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
+    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
+    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
+    kai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
+    kunigas Jeronimas Kninskis.
+  citata_rodoma: "Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­\ntuvių genties tautos žinojo trizną. Tai buvo apeigos, atlieka­\nmos laidojant labai žymius žmones. 21\n21\nRusioje tai buvo vadinama “Wyt’po mertwom”."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -119,16 +121,17 @@ Nenurodyta
 - id: c-177032
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 368"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuvoje gyveno garsi
-    Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
-    gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
-    apeigų paprotį, kiekviena tauta kitonišką.
-    Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­
-    lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
-    kuriose vietose žmonos apverkdavo vyrus prie pačių kapų.
+    O tai, autoriaus žodžiais tariant, turėjo būti velnias. Nepai­
+    sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
+    Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
+    ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
+    gų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių.
+  citata_rodoma: "Lietuvoje gyveno garsi\nTriznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-\ngardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos\napeigų paprotį, kiekviena tauta kitonišką.\nŽmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­\nlėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai\nkuriose vietose žmonos apverkdavo vyrus prie pačių kapų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

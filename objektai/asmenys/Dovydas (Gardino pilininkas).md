@@ -9,16 +9,16 @@ datos:
   - '1324 m.'
 date_start: '1319'
 date_end: '1324'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - popiežius
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -75,9 +75,9 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   pagrindžia:
     - c-56072
 
-<a id="claim-t-173141"></a>
+<a id="claim-t-173133"></a>
 - t-006
-  global_id: t-173141
+  global_id: t-173133
   teiginys: "1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę."
   pagrindžia:
     - c-41892
@@ -124,57 +124,43 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   pagrindžia:
     - c-13116
 
-<a id="claim-t-173141"></a>
-- t-013
-  global_id: t-173141
-  teiginys: "1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę."
-  pagrindžia:
-    - c-41892
-
-<a id="claim-t-173141"></a>
-- t-014
-  global_id: t-173141
-  teiginys: "1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę."
-  pagrindžia:
-    - c-41892
-
 <a id="claim-t-173143"></a>
-- t-015
+- t-013
   global_id: t-173143
   teiginys: "1324 m. Ordino būrys užpuolė Gardino pilininko Dovydo dvarą ir sudegino jį iki pamatų."
   pagrindžia:
     - c-157467
 
 <a id="claim-t-173144"></a>
-- t-016
+- t-014
   global_id: t-173144
   teiginys: "Gardino pilininkas Dovydas su lietuvių kariuomene įsibrovė į Danijos karaliaus Revelio žemę."
   pagrindžia:
     - c-157472
 
 <a id="claim-t-173145"></a>
-- t-017
+- t-015
   global_id: t-173145
   teiginys: "Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės."
   pagrindžia:
     - c-167443
 
 <a id="claim-t-173146"></a>
-- t-018
+- t-016
   global_id: t-173146
   teiginys: "Lapkričio 21 d. Gardino pilininkas Dovydas su galinga kariuomene įsibrovė į Mazoviją ir nusiaubė Pultuską bei 130 kaimų."
   pagrindžia:
     - c-167443
 
 <a id="claim-t-184058"></a>
-- t-019
+- t-017
   global_id: t-184058
   teiginys: "Dovydas, Gardino pilininkas, lapkričio 21 d. įsibrovė į Mazoviją ir nusiaubė Plocko vyskupo Pultuską."
   pagrindžia:
     - c-167443
 
 <a id="claim-t-194479"></a>
-- t-020
+- t-018
   global_id: t-194479
   teiginys: "Apie 55 lietuvių žūtį 1319 metais Tais pačiais metais, kai dykrose smarkiai ištvino vandenys, Dovydas, Gardino pilininkas, su aštuoniais šimtais vyrų patraukė į karą ir, išdėstęs savo karius pasalose, pats su 80 vyrų įsibrovė į Prūsijos žemės valsčių, vardu."
   pagrindžia:
@@ -182,47 +168,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 - susijęs iš [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis).md#claim-t-62840|Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]: Po nesėkmingo Naugarduko pilies puolimo Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei maisto atsargas.
 - susijęs iš Revelis: 1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1323 m. šaltiniai mini dar platesnes kovas. Gardino pilininkas
-    Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara-
-    liaus žemę (šiaurinę Estiją). Kovo viduryje „lietuviai iš Žemaitijos
-    užkariavo Klaipėdos miestą“ ir jį sudegino kartu su trimis gre-
-    timomis kryžiuočiams pavaldžiomis pilimis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-002
-  santrauka: '1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, o vėliau puolė ir Gardiną.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilinin-
-    ko Dovydo dvarą, kiek vėliau puolė ir Gardiną, visus metus tęsėsi
-    abipusiai puldinėjimai. Lapkritį Gedimino „galinga kariuomenė“,
-    vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę,
-    o kita „didžiausia“ kariuomenė - Livonijos pietryčiuose Rezeknės
-    regioną. Tuo metu Gedimino pasiuntinys popiežiaus legatams
-    Rygoje pranešė, kad valdovas derybų dėl krikšto neveda, toliau
-    laikysis senolių tikėjimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-014
-    - t-006
-    - t-013
-    - t-007
-
 - c-003
   santrauka: 'Dovydas, Gardino pilininkas, su 800 vyrų įsibrovė į Unzatrapį, sudegino kelis namus ir išsivarė belaisvių bei grobio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -262,30 +207,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   pagrindžia:
     - t-010
 
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    sugriovė, o aplinkines žemes nuniokojo, degindamas ir plėšdamas visa, kas pakliuvo;
-    priešais minėtojo miesto pilį jis pastatė palapines ir ten pernakvojo, o kitą dieną jis bei
-    visa jo kariuomenė priėjo prie pilies ir ją smarkiai užpuolė, todėl abi šalys prarado keletą
-    karių nukautaisiais ir daug mirtinai sužeistaisiais. Nieko šiuo antpuoliu nepešę, pasitraukė;
-    kai priėjo vietą, kur buvo palikę saugas prie atsarginės žygio mantos, pamatė, kad
-    Gardino pilininkas Dovydas573 nužudęs 30 vyrų ir pagrobęs pusantro tūkstančio arklių,
-    duoną bei kitokį maistą ir visus kitus paliktus saugoti daiktus. Dar labiau susirūpino
-    broliai, kai, priėję antrąjį postovį, ir ten neberado nei duonos, nei kitų paliktų daiktų;
-    jie patraukė  į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo
-    arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
-    alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
-    išvykimo dienos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-005
-
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -316,9 +237,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
     smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;
     nukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.
 
-
-
-
                    350 (343).
   citata_rodoma: ''
   statusas: verified
@@ -347,38 +265,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
-
-- c-009
-  santrauka: 'Dusburgietis teigia, kad jis mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene lapkričio 21 dieną į Mazovijos žemę ir, plėšdamas bei degindamas, nusiaubė Plocko vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Mazovijos žemės nusiaubimą 134 metais
-
-      Kai sutarė taiką, kai Livonijos ir Prūsijos žemių bei kitų kaimyninių kraštų broliai ir visi
-    kiti krikščionys tvirtai patikėjo, kad daugiau nebereikėsią kariauti, kai jau ketino kalavijus
-    perkalti į noragus, o ietis — į pjautuvus, tas pats nedorasis [karalius], tikėjimo bei tikinčiųjų
-    priešas, užsikimšo nelyginant kurčioji angis ausis, nenorėdamas girdėti išganingų jo
-    šventenybės popiežiaus perspėjimų, kuriuos minėtieji legatai kuo tiksliausiai jam buvo
-    perdavę; užuot pagalvojęs apie savo bei saviškių išganymą, būtent apie tai, kaip jam
-    priimti su tinkamomis iškilmėmis ir su derama pagarba krikšto sakramentą, jis, eidamas
-    savo pirmtakų pėdomis, vėl suskato iš paskutiniųjų naikinti tikėjimą  ir tikinčiuosius.
-    Jis mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene
-    lapkričio 21 dieną  į Mazovijos žemę  ir, plėšdamas bei degindamas, nusiaubė Plocko
-    vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės
-    kaimų, daugybę vienuolynams bei kilmingiesiems priklausančių dvarų, 30 parapinių
-    bažnyčių  ir koplyčių su daug dievo garbei skirtų maldos namų. Jis nerodė pagarbos
-    nei bažnyčios sakramentams, nei šventiesiems rūbams bei indams, o dvasininkų, tiek
-    vienuolių, tiek pasauliečių, bei kitų abiejų lyčių žmonių sunaikino per 4 tūkstančius,
-    vienus nužudydamas, kitus išsivarydamas į amžiną vergovę583.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-    - t-017
-    - t-018
 
 ## Citatos
 
@@ -419,46 +305,53 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173130
-    - t-173142
     - t-173133
-    - t-173141
     - t-173134
 
 - id: c-56070
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 215"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 215."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie 55 lietuvių žūtį 1319 metais
     Tais pačiais metais, kai dykrose smarkiai ištvino vandenys, Dovydas, Gardino pilininkas,
-    su aštuoniais šimtais vyrų patraukė  į karą  ir, išdėstęs savo karius pasalose, pats su
-    80 vyrų įsibrovė  į Prūsijos žemės valsčių, vardu Unzatrapis, iš kur, sudeginęs keletą
-    namų, išsivarė daug nelaisvėn paimtų žmonių  ir išsigabeno galybę pagrobtų daiktų.
+    su aštuoniais šimtais vyrų patraukė į karą ir, išdėstęs savo karius pasalose, pats su
+    80 vyrų įsibrovė į Prūsijos žemės valsčių, vardu Unzatrapis, iš kur, sudeginęs keletą
+    namų, išsivarė daug nelaisvėn paimtų žmonių ir išsigabeno galybę pagrobtų daiktų.
     Juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras,
     ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo
     pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie gabenosi. Kiti bėgdami
     pakliuvo į jų pasalas, ir visi, apimti baimės, iš karto pasitraukė, tačiau kelyje patyrė tiek
     pavojų, kad retas kuris namo sugrįžo sveikas ir gyvas.
+  citata_rodoma: "Tais pačiais metais, kai dykrose smarkiai ištvino vandenys, Dovydas, Gardino pilininkas,\nsu aštuoniais šimtais vyrų patraukė  į karą  ir, išdėstęs savo karius pasalose, pats su\n80 vyrų įsibrovė  į Prūsijos žemės valsčių, vardu Unzatrapis, iš kur, sudeginęs keletą\nnamų, išsivarė daug nelaisvėn paimtų žmonių  ir išsigabeno galybę pagrobtų daiktų.\nJuos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras,\nir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo\npereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie gabenosi. Kiti bėgdami\npakliuvo į jų pasalas, ir visi, apimti baimės, iš karto pasitraukė, tačiau kelyje patyrė tiek\npavojų, kad retas kuris namo sugrįžo sveikas ir gyvas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173137
     - t-173131
+    - t-173137
     - t-194479
 
 - id: c-56071
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 216"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene  į Revelį,
-    Danijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,
-    degindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių
-    kilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių. Taip pat nužudė daug dvasininkų
-    — ir pasauliečių, ir vienuolių. Be to, klaikiai išniekino ir išgrobstė sakramentus, bažnyčias,
+    Be galybės mūsų jau minėtų nuostolių, jie išsivarė
+    tiek daug visokeriopo grobio, kad krikščionims, pakliuvusiems į amžiną netikėlių vergiją,
+    rodėsi, jog šios kunigaikštystės žemė labai ilgai, o gal ir niekad negalės atsigauti nuo
+    patirtų nuostolių (skaudūs įspūdžiai ilgam išlieka); be to, būgštauta ir sielvartauta, kad
+    dabar, kai mūsų minėtoje kunigaikštystėje akmens neliko ant akmens, netikėliai be
+    vargo galėsią brautis į gretimas bei kaimynines krikščionių žemes. Štai kiek žalos buvo
+    padaryta krikščionių tikėjimui bei tikintiesiems per pusantrų metų, kai netikėliai nužudė
+    arba išsivarė į amžiną vergiją beveik 20 tūkstančių krikščionių, o daug miestų bei pilių
+    iki pamatų sugriovę.
+    347 (340). Apie keliolikos lietuvių žūtį 1323 metais
+    Tais pačiais metais, per rugiapjūtę, brolis Henrikas, Tepliavos komtūras, su aštuoniais
+    broliais ir 300 vyrų išjojo į Zemygalos581 laukę, buvusį prieš Paštuvos pilį, tačiau dėl
+    lietingo oro neužtiko čia lietuvių pjovėjų, kuriuos tikėjosi išvysti dirbant laukuose.
+  citata_rodoma: "Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene  į Revelį,\nDanijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,\ndegindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių\nkilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių. Taip pat nužudė daug dvasininkų\n— ir pasauliečių, ir vienuolių. Be to, klaikiai išniekino ir išgrobstė sakramentus, bažnyčias,"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -469,8 +362,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 - id: c-56072
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 210"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     sugriovė, o aplinkines žemes nuniokojo, degindamas ir plėšdamas visa, kas pakliuvo;
     priešais minėtojo miesto pilį jis pastatė palapines ir ten pernakvojo, o kitą dieną jis bei
@@ -480,7 +372,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
     Gardino pilininkas Dovydas573 nužudęs 30 vyrų ir pagrobęs pusantro tūkstančio arklių,
     duoną bei kitokį maistą ir visus kitus paliktus saugoti daiktus. Dar labiau susirūpino
     broliai, kai, priėję antrąjį postovį, ir ten neberado nei duonos, nei kitų paliktų daiktų;
-    jie patraukė  į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo
+    jie patraukė į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo
     arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
     alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
     išvykimo dienos.
@@ -496,18 +388,23 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 - id: c-56075
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 14"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Popiežius 1324 m. įsakė kryžiuočiams susilaikyti nuo bet kokių žygių prieš Gedimino
-    valstybę ir patvirtino šią sutartį53. Tai buvo didelis diplomatinis Lietuvos laimėjimas.
-      XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
+    XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
     ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
     žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu,
     Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo
     Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
     priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
-    ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
+    ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55. Tuo pat metu
+    „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias
+    pilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį
+    patraukė į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta išlaikyti savo
+    pusėje56.
+
+    Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų iš
+    Vokietijos, Čekijos ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,
+    Ariogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje.
   citata_rodoma: "Medininkų\nžemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu,\nLietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo\nGardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje\npriklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos\nordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55."
   statusas: verified
   teiginio_tipas: faktas
@@ -520,19 +417,23 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 - id: c-157467
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 219."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
-
-       Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų
-    smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;
-    nukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.
-
-
-
-
-                   350 (343).
+    356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
+    čionių 1324 metais
+    Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą,
+    įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo, bei to paties
+    miesto gyventojų, du legatus, būtent: Baltramiejų, Aleto vyskupą, ir Bernardą, švento
+    Benedikto ordino švento Teofrido vienuolyno abatą Le Piui vyskupystėje, pakrikštyti
+    lietuvių ir rusų karaliaus. Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto,
+    šventės (rugsėjo 22) atvyko į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo
+    karaliaus bei jo valdinių iš vienos pusės ir tarp krikščionių iš kitos ir apaštališkojo sosto
+    valia pasiūlė tvirtai jos laikytis, pridurdami, kad toji šalis, kuri lengvapėdiškai pažeisianti
+    šį susitarimą, kuri sakysianti tokius žodžius ar darysianti tokius veiksmus, griebsiantisi
+    tokių sumanymų ar darbų, kurie galėtų trukdyti šiam susitarimui ar jį vilkinti, būsianti
+    dėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,
+    tik apaštališkasis sostas, prie kurio jie patys per tris mėnesius turėsią prisistatyti,
+    kad atvykę deramai pataisytų tai, kas atsitiko.
   citata_rodoma: "Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais\n\n   Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų\nsmarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;\nnukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.\n\n\n\n\n               350 (343)."
   statusas: verified
   teiginio_tipas: faktas
@@ -545,16 +446,20 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 - id: c-157472
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 216"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    343 (336). Apie Revelio, Danijos karaliaus žemės, nusiaubimą
-
-      Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene  į Revelį,
-    Danijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,
-    degindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių
-    kilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių. Taip pat nužudė daug dvasininkų
-    — ir pasauliečių, ir vienuolių.
+    Taip pat ugnimi
+    nusiaubė 10 parapinių bažnyčių ir svarbiausią šios kunigaikštystės miestą, vardu
+    Dobrynė, bei visus šios kunigaikštystės kaimus, o į nelaisvę paėmė ar nužudė toje
+    žemėje du tūkstančius krikščionių. Be galybės mūsų jau minėtų nuostolių, jie išsivarė
+    tiek daug visokeriopo grobio, kad krikščionims, pakliuvusiems į amžiną netikėlių vergiją,
+    rodėsi, jog šios kunigaikštystės žemė labai ilgai, o gal ir niekad negalės atsigauti nuo
+    patirtų nuostolių (skaudūs įspūdžiai ilgam išlieka); be to, būgštauta ir sielvartauta, kad
+    dabar, kai mūsų minėtoje kunigaikštystėje akmens neliko ant akmens, netikėliai be
+    vargo galėsią brautis į gretimas bei kaimynines krikščionių žemes. Štai kiek žalos buvo
+    padaryta krikščionių tikėjimui bei tikintiesiems per pusantrų metų, kai netikėliai nužudė
+    arba išsivarė į amžiną vergiją beveik 20 tūkstančių krikščionių, o daug miestų bei pilių
+    iki pamatų sugriovę.
   citata_rodoma: "Apie Revelio, Danijos karaliaus žemės, nusiaubimą\n\n  Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene  į Revelį,\nDanijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,\ndegindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių\nkilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių. Taip pat nužudė daug dvasininkų\n— ir pasauliečių, ir vienuolių."
   statusas: verified
   teiginio_tipas: faktas
@@ -566,24 +471,22 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 - id: c-167443
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 221"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Mazovijos žemės nusiaubimą 134 metais
-
-      Kai sutarė taiką, kai Livonijos ir Prūsijos žemių bei kitų kaimyninių kraštų broliai ir visi
+    Kai sutarė taiką, kai Livonijos ir Prūsijos žemių bei kitų kaimyninių kraštų broliai ir visi
     kiti krikščionys tvirtai patikėjo, kad daugiau nebereikėsią kariauti, kai jau ketino kalavijus
     perkalti į noragus, o ietis — į pjautuvus, tas pats nedorasis [karalius], tikėjimo bei tikinčiųjų
     priešas, užsikimšo nelyginant kurčioji angis ausis, nenorėdamas girdėti išganingų jo
     šventenybės popiežiaus perspėjimų, kuriuos minėtieji legatai kuo tiksliausiai jam buvo
     perdavę; užuot pagalvojęs apie savo bei saviškių išganymą, būtent apie tai, kaip jam
     priimti su tinkamomis iškilmėmis ir su derama pagarba krikšto sakramentą, jis, eidamas
-    savo pirmtakų pėdomis, vėl suskato iš paskutiniųjų naikinti tikėjimą  ir tikinčiuosius.
+    savo pirmtakų pėdomis, vėl suskato iš paskutiniųjų naikinti tikėjimą ir tikinčiuosius.
     Jis mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene
-    lapkričio 21 dieną  į Mazovijos žemę  ir, plėšdamas bei degindamas, nusiaubė Plocko
+    lapkričio 21 dieną į Mazovijos žemę ir, plėšdamas bei degindamas, nusiaubė Plocko
     vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės
     kaimų, daugybę vienuolynams bei kilmingiesiems priklausančių dvarų, 30 parapinių
-    bažnyčių  ir koplyčių su daug dievo garbei skirtų maldos namų. Jis nerodė pagarbos
+    bažnyčių ir koplyčių su daug dievo garbei skirtų maldos namų. Jis nerodė pagarbos
     nei bažnyčios sakramentams, nei šventiesiems rūbams bei indams, o dvasininkų, tiek
     vienuolių, tiek pasauliečių, bei kitų abiejų lyčių žmonių sunaikino per 4 tūkstančius,
     vienus nužudydamas, kitus išsivarydamas į amžiną vergovę583.
@@ -592,9 +495,9 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184058
     - t-173145
     - t-173146
+    - t-184058
 
 ## Ryšiai
 - Dovydas (Gardino pilininkas) puolė [[objektai/vietos/Mozūrija]], [[objektai/vietos/Revelis]]

@@ -34,34 +34,6 @@ Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį, kuriuo žem
   teiginys: "Pirmasis pilietybės įstatymas numatė iš rusų valdžios įkurdintų kolonistų atimti jų valdytą žemę ir grąžinti ją Lietuvos valstybei."
   pagrindžia:
     - c-02503
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Toliau vyriausybė paskelbė, kad majoratų žemės (t.y.
-    žemės, kurios rusų valdžios buvo nusavintos 1835 ir 1842
-    metais) ir majoratų turtai esą neginčijama valstybės nuosavybė,
-    kuri rusų valdžios įvairiais mūsų kraštui priešingais tikslais
-    buvusi pavesta valdyti atskiriems žmonėms; todėl tos žemės
-    su priklausančiais turtais turinčios atitekti Lietuvos valstybei,
-    turinčios būti sunaudotos žemės reformai (bežemiams ir maža-
-    žemiams aprūpinti žeme) ir įvairiems kitiems bendriesiems
-    Lietuvos valstybės reikalams. Tad laikinė vyriausybė įsakė
-    Žemės Ūkio Ministerijai perimti majoratus ir valdyti, ligi stei-
-    giamasis seimas išspręs tų turtų likimą.
-    Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį,
-    kuriuo žemė, valdoma rusų vyriausybės įkurdintų Lietuvoj ko-
-    lonistų, iš jų atimama ir grąžinama Lietuvos valstybei, o ši pasi-
-    žada grąžinti kolonistams pinigus, kiek jie patys už tą žemę
-    yra sumokėję.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

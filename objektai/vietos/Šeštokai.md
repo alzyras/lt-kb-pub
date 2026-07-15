@@ -43,39 +43,6 @@ media_all_json: |-
   pagrindžia:
     - c-45458
 - susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-
-    nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
-    lenkų artilerija už Punsko, prie Smalėnų miestelio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Pilėnų Kunigaikščio Margio pulko I ir II batalionai išsikrovė Šeštokų geležinkelio stotyje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    [pulko] Pilėnų Kunigaikščio
-    Margio 11 ir 11 batalionus. Šie batalionai išsikrovė Šeštokų
-    geležinkelio stotyje ir po žygio ilsėjosi gražioje pievoje. Tuo
-    tarpu nuo Lazdijų plentu atžygiavo [mūsų] 1 batalionas,
-    apneštas dulkėmis ir užgrūdintas mūšiuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45458

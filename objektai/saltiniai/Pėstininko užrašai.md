@@ -41,25 +41,6 @@ Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309. Pėstininko
   teiginys: "Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309."
   pagrindžia:
     - c-176472
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ## Puslapis 269
-
-    LIETUVOS ATSIKŪRIMAS
-
-    p. 250, „„JEDINSTVOS“ DEMONSTRACIJA“, Skučas A. Pėstininko užrašai / Dokumentinis
-    romanas, Vilnius, 2012, p. 309.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

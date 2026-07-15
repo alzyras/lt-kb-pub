@@ -58,36 +58,6 @@ Nenurodyta
   pagrindžia:
     - c-73048
 
-<a id="claim-t-75149"></a>
-- t-002
-  global_id: t-75149
-  teiginys: "1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo."
-  pagrindžia:
-    - c-73048
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sovietų Sąjun-
-    gos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripaži-
-    no Rusiją nepriklausoma valstybe. Spalio pradžioje tarp abiejų valstybių
-    buvo užmegzti diplomatiniai santykiai.
-    1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės
-    sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-
-
-    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
-    257
-    roje atskyrimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-73048
@@ -112,4 +82,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75149
-    - t-75150

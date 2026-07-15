@@ -40,29 +40,13 @@ Dusburgietis teigia, kad mažiulis V.
   teiginys: "V. Mažiulio recenzija apie B. H. Топоров „Прусский язык. Словарь (А-Д)“ paskelbta „Baltistica“ 1979 m."
   pagrindžia:
     - c-61803
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'V. Mažiulio recenzija apie B. H. Топоров „Прусский язык. Словарь (А-Д)“ paskelbta „Baltistica“ 1979 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mažiulis V. Rec: B. H. Топоров. Прусский язык. Словарь (А-Д). —Baltistica, 1979,
-    15 (2), р. 146—149.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61803
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mažiulis V. Rec: B. H. Топоров. Прусский язык. Словарь (А-Д). —Baltistica, 1979,
     15 (2), р. 146—149.

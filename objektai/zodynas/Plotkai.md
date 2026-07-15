@@ -3,12 +3,12 @@ tipas: zodyno_irasas
 pavadinimas: 'Plotkai'
 sukurta: '2026-07-12'
 variantai:
-  - plotkus
-  - „plotkus“
-  - „Plotkai“
+  - 'plotkus'
+  - '„plotkus“'
+  - '„Plotkai“'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -68,6 +68,7 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
   teiginys: "Plotkus dieną atneša bažnyčios maršalka, o atsiskaitoma už juos kalėdojant."
   pagrindžia:
     - c-178041
+
 ## Citatos
 
 - id: c-178041
@@ -80,8 +81,7 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
     kai“ atėjo dieną, juos atnešė bažnyčios maršalka ir paliko be užmo­
     kesčio. Užmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių
     gorčių.
-  citata_rodoma: "„Plotkai“ atėjo dieną, juos atnešė bažnyčios maršalka ir paliko be užmokesčio.
-Užmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių gorčių."
+  citata_rodoma: "„Plotkai“ atėjo dieną, juos atnešė bažnyčios maršalka ir paliko be užmokesčio.\nUžmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių gorčių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

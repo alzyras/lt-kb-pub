@@ -86,71 +86,6 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
   teiginys: "Karakolės metu priekinė šaulių eilė, iššovusi salvę, pasisukdavo dešinėn, grįždavo į rikiuotės galą ir ten užtaisydavo ginklus."
   pagrindžia:
     - c-167098
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. Snayerso paveikslo „Salaspilio mūšis“ fragmente Švedij iu es raita tė
-    jau pašlijusi, netrukus prasidės bėgimas. Švedų raitarai, pasikliaudami karakoliavimo taktika,
-
-    vengdavo artimo mūšio, todėl husarams
-
-    ginklais, kaip raitelių taktikos pagrindas, išliko ir toliau vystėsi
-    Lietuvoje ir Lenkijoje, taip pat Austrijoje (šalyse, kurioms tekdavo |
-    kariauti su rytietiško pavyzdžio kariuomenėmis).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
-- c-002
-  santrauka: 'Priekinė šaulių eilė, iššovusi salvę, pasisuka dešinėn ir pro rikiuotės šoną žygiuoja į savo rikiuotės galą ir ten užtaiso ginklus, tai vadinamoji karakolė arba „sraigė“.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kovos su Lietuva švedams parodė šios taktikos trūkumus.
-
-    Priekinė šaulių eilė, iššovusi salvę,
-    pasisuka dešinėn ir pro rikiuotės
-    šoną žygiuoja į savo rikiuotės galą ir
-    ten užtaiso ginklus, tai vadinamoji
-    karakolė arba „sraigė“.
-
-    Ai 4) 4
-
-    letininky (pikinieriy)
-
-    Muškietinink
-    das uškietininkų
-
-    padalinių vadai
-
-    ta AAS V
-
-    A A 5
-
-    PP
-
-    Katalikų kavalerijai
-    pavojingai priartėjus prie
-    protestantų pėstininkų
-    bataliono, muškietininkai
-    pasitraukia už ietininkų,
-    kurie turi atremti kavalerijos
-    ataką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-001
-    - t-002
 
 ## Citatos
 
@@ -173,8 +108,8 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42463
     - t-42462
+    - t-42463
 
 - id: c-167098
   sudarytojas: "Karolis Zikaras"
@@ -216,6 +151,6 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183710
     - t-42460
     - t-42461
+    - t-183710

@@ -43,37 +43,12 @@ Narbutas perpasakoja legendinę kelionę, kurioje keliautojai perėjo plačius T
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-192480|Venedai]]: Narbutas pasakoja, kad Bitinijos keliautojai per venedų ir alanų žemes pateko į Livoniją.
 - susijęs iš Livonija: Narbutas pasakoja legendą, kad iš Bitinijos išsiųsti keliautojai per Tartariją, Roksolaniją, venedų ir alanų žemes pateko į Livoniją.
 - susijęs iš Roksolanija: Narbutas pasakojo, kad keliautojai perėjo slavų Roksolanijos valstybę ir per venedų bei alanų žemes pateko į Livoniją.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas perpasakoja legendinę kelionę, kurioje keliautojai perėjo plačius Tartarijos kraštus ir per Roksolaniją pateko į Livoniją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
-    gyventi žmonės septintojo dangaus- rato pabaigoje, — čia
-    yra nepaprastai šaltas aštuntasis ratas, — išsiuntė keliau­
-    tojus tai patikrinti. Šie perėjo plačius Tartarijos kraštus,
-    vėliau didelę slavų Roksolanijos valstybę ir per venedų
-    bei alanų žemes pateko į Livoniją. Iš to krašto, dar gana
-    toli nukeliavę vandens keliu, atsidūrė plačioje ir tuščioje
-    žemėje, kuri neturėjo jokio nuolatinio pavadinimo, nes ją
-    vadino tai Sargatia arba Sargaga, tai Getida arba Vatinla
-    ir dar kitaip.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175672
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 168"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
     gyventi žmonės septintojo dangaus- rato pabaigoje, — čia

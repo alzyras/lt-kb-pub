@@ -60,50 +60,6 @@ Nenurodyta
   teiginys: "1587 m. elekcijos seime Zamoiskis ir jo priešininkai suvažiavo su kariuomenėmis, o lietuviai reikalavo jas pašalinti."
   pagrindžia:
     - c-67075
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1587 m. elekcijos seime Zamoiskis ir jo priešininkai suvažiavo su kariuomenėmis, o lietuviai reikalavo jas pašalinti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į elekcijos seimą 1587 m. Za-
-    moiskis ir jo priešininkai suvažiavo su dideliais kariuomenės
-    būriais. Elekcijos laukas atrodė, kaip dviejų priešų karo sto-
-    vykla. Lietuviai irgi atvažiavo į Varšuvą, tačiau į elekciją nėjo:
-    jie reikalavo, kad pirma lenkai savitarpyje susitaikintų ir paša-
-    lintų kariuomenę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1587 m. elekcijoje kandidatais buvo Maksimilijonas, Maskvos caras Teodoras ir Švedijos karalaitis Zigmantas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmasis kandidatas į sostą dabar buvo imperatoriaus Ru-
-    dolfo brolis Maksimilijonas, kurį rėmė ir Lietuvos didikai.
-    Antrasis kandidatas bu-
-    vo Maskvos caras Teo-
-    doras; šį palaikė daugu-
-    mas Lietuvos bajorijos.
-    Trečiasis kandidatas
-    buvo Švedų karalaitis
-    Zigmantas, dėl kurio iš-
-    rinkimo labiausiai rūpi-
-    nosi Stp. Batoro našlė
-    Ona: mat, jisai buvo jos
-    sesers Kotrynos sūnus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

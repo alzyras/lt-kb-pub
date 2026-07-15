@@ -43,21 +43,6 @@ Gabrys, J., Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje ties Grunval
   teiginys: "J. Gabrio veikalas „Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje ties Grunvaldu“ buvo išleistas Kaune 1912 m."
   pagrindžia:
     - c-38406
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tilžė, 1923.
-    Gabrys, J., Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje
-    ties Grunvaldu. Kaunas, 1912.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

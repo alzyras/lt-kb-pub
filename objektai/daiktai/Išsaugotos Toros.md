@@ -64,31 +64,6 @@ Nenurodyta
   teiginys: "Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų."
   pagrindžia:
     - c-22247
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Apskri-
-    tai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-
-    vinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių. 2004 m. pabaigoje
-    Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – at-
-    kūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir
-    saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
-    Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti de-
-    mokratinių vertybių – užtikrinti galimybes puoselėti savo kalbą ir kultūrą
-    tautinėms mažumoms, vykdyti religinio turto restituciją, įvertinti Holo-
-    kausto pamokas, grąžinti žydams išblaškytas kultūros vertybes (išsaugo-
-    tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
-    prieš antisemitizmą ir rasinį bei religinį nepakantumą, garantuoti žodžio,
-    spaudos, rinkimų laisvę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Šaltiniai ir įrodymai
 

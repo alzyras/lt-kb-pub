@@ -41,24 +41,6 @@ Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne 
   teiginys: "Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns."
   pagrindžia:
     - c-176913
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pranešimas apie jos mirtį yra 74
-    Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns. T. IU,
-    Prūsijos magistrui, rašytame iš Ry- 374. Długosz, Hist. Polon. Il, 1418-
-    gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz  Taurykū,
-    iš pastarojo aišku, kad kunigaikštie- p. 78.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

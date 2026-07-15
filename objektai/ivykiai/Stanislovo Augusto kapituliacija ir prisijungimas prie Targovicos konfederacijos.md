@@ -58,27 +58,6 @@ Nenurodyta
   teiginys: "Stanislovo Augusto pozicija 1792 m. gegužės–liepos kare su Rusija buvo susitaikėliška."
   pagrindžia:
     - c-23229
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kiekybiškai tai – nepaprastai maža persvara, ir
-    tokios nebūtų buvę, jei netikėtai vadinamosios Patriotų partijos vienas iš
-    vadų H. Kolontajus nebūtų parėmęs valdovo pozicijos. Lietuvos atstovai
-    pasirodė net garbingiau nei Lenkijos – iš penkių balsų, pasisakiusių už
-    priešinimąsi, trys buvo iš Lietuvos: LDK didysis maršalas Ignotas Potoc-
-    kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios
-    pusės maršalas K. N. Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo
-    Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
-    kare su Rusija toli gražu nebuvo išsemtos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

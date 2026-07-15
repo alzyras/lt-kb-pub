@@ -36,8 +36,8 @@ Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipi
   teiginys: "Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipimosi į Vilijos upę pradžią."
   pagrindžia:
     - c-172436
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipimosi į Vilijos upę pradžią.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -68,22 +68,28 @@ Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipi
 - id: c-172436
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 149."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iš jo paimtos eilutės, arba kreipimasis (apostrofa) į Vilijos
-    upę, liečia mūsų dalyką:
-    Rzeko, ktdrędy lz}> poniesiesz moję,
-    Zmieszane z twemi czystemi wodami;
-    Rozgioš me skargi, rozgloš niepokoje...
-    Niech twoja Neris (a) i bogam oznami,
-    Pod ktorych wladzą są morskie zamęty,
-    Cierpienia moję i žal nieujęty.
-    Powiedz przešliczne boztwo Wiliej rzeki
-    Nimfom (b) twym siostrom, boginiom podwodnym:
-    25 Štai šio nedidelio kūrinėlio pavadinimas: „Ašaringas vaizdas
-    baisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo
-    Karališkosios Malonybės Vilniaus miesto dukartinį sudeginimą.
+    Pasakyk, Vilijos upės skaisčiausioji deive,
+    Nimfoms - tavo sesėms, vandens dievybėms,
+    Kokia didi ugnis sudegino tavo blakstienas,
+    Kaip buvai beužtrokštanti nuo mirtinų dūmų,
+    Kaip tavo vandenys, bejėgiai užgesinti šį karštį,
+    Dejuodami skalavo miesto pelenus)
+    Autorius prideda tokius paaiškinimus: a) „Fama commu­
+    nis refert - žmonės pasakoja, kad Neris - tai upės Vilijos nim­
+    fa, kurią lietuviai stabmeldžiai garbino kaip deivę. Ji taip pat
+    turėjo jai skirtus savus aukurus įvairiose vietose, upės pakran­
+    tėse, pirmiausia vietovėje, vadintoje Kernave, kur buvo ir Ne-
+    riškių miškas. Žvejai ir sielininkai, sukūrę laužą iš sakingų me­
+    džių, ten degindavo tam tikras aukas“.
+    b) „Sako, kad senovėje žmonėms pasirodydavusios povan­
+    deninės moterys, kurias rusinai vadina rusalkomis (Rusatka),
+    lietuviai - dugnėmis (Dukna), žemaičiai - gudelkomis (Gu-
+    deika), kiekvienas savaip. Tai buvo piktųjų dvasių apgaulė; ty-
+    kodamos prie vandens, suvedžiodamos žmones, jos stengėsi
+    išvilioti sau dovanų“.
+  citata_rodoma: "Iš jo paimtos eilutės, arba kreipimasis (apostrofa) į Vilijos\nupę, liečia mūsų dalyką:\nRzeko, ktdrędy lz}> poniesiesz moję,\nZmieszane z twemi czystemi wodami;\nRozgioš me skargi, rozgloš niepokoje...\nNiech twoja Neris (a) i bogam oznami,\nPod ktorych wladzą są morskie zamęty,\nCierpienia moję i žal nieujęty.\nPowiedz przešliczne boztwo Wiliej rzeki\nNimfom (b) twym siostrom, boginiom podwodnym:\n25 Štai šio nedidelio kūrinėlio pavadinimas: „Ašaringas vaizdas\nbaisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo\nKarališkosios Malonybės Vilniaus miesto dukartinį sudeginimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

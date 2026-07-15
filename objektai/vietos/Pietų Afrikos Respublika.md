@@ -41,28 +41,6 @@ O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinim
   teiginys: "1967 m. Pietų Afrikos Respublikoje Christiaan Barnard atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją."
   pagrindžia:
     - c-24381
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Europos čem-
-    pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
-    boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
-    garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
-    Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
-    tauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad
-    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko
-    litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
-    kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
-    buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

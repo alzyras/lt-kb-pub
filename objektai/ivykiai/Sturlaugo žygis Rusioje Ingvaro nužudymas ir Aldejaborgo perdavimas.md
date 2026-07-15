@@ -65,44 +65,13 @@ Nenurodyta
   teiginys: "Narbuto pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, vėliau Ingigerdą išleido už Flamoro ir jam perdavė Aldejaborgą."
   pagrindžia:
     - c-174912
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Skandinavų didvyris, vadinamas Sturlaugu Darbš-
-    čiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,
-    o vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam
-    kraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo
-    Rusios uostas. Būta įvairių spėjimų, kur buvęs šis mies­
-    tas, net buvo įrodinėjama, jog tai turėjęs būti šiandienis
-    Sliselburgas. Bet, atsižvelgiant į tai, ką jau ne sykį anks­
-    čiau kalbėjome apie Aldesko upę ir apie tą miestą (§ 155),
-    nėra pagrindo abejoti, jog tai buvusi tvirtovė prie pagrin­
-    dinių Nemuno žiočių ir beveik toje pačioje vietoje, kur
-    vėliau lietuviai turėjo Klaipėdą, o kryžiuočiai įkūrė Me-
-    metburgą. Sis miestas senovėje buvęs labai garsus, nes
-    jį paveldėjęs Flamoro įpėdinis Biartmaras savo galia ne­
-    nusileido karaliams. Visi šie įvykiai susiję su II amžiaus
-    pabaiga ar III amžiaus pradžia5.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-    - t-005
 
 ## Citatos
 
 - id: c-174912
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Skandinavų didvyris, vadinamas Sturlaugu Darbš-
     čiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,
@@ -128,4 +97,3 @@ Nenurodyta
     - t-192042
     - t-192043
     - t-192488
-    - t-005

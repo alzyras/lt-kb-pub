@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "1889 m. buvo įkurta pirmoji lietuviškoji parapija."
   pagrindžia:
     - c-02011
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet daugiausia Katalikų Federacijos rūpesčio buvo ski-
-    riama lietuviškųjų parapijų ir mokyklų steigimui. Parapijų skai-
-    čius nepaprastai greit išaugo. 1889 m. buvo įkurta pirmoji lie-
-    tuviškoji parapija; 1907 m. jų buvo jau 41, 1915 m. — 95, 1925 m.
-    — apie 120, o dabar jų yra apie 150 (jose yra apie 200 lietuvių
-    kunigų).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

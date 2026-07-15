@@ -42,24 +42,6 @@ Todėl linkstama prie apytikrės datos – Lietuvos valstybė susikūrė apie 12
   teiginys: "1202 m. Dauguvos žiotyse susikūrė Kalavijuočių ordinas, vėliau pradėjęs užkariauti lybius, latvius, estus ir kuršius."
   pagrindžia:
     - c-75105
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1202 m. Dauguvos žiotyse susikūrė Kalavijuočių ordinas, vėliau pradėjęs užkariauti lybius, latvius, estus ir kuršius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl linksta-
-    ma prie apytikrės datos – Lietuvos valstybė susikūrė apie 1240 m.
-    Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią
-    faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordi-
-    nas pamažu pradeda užkariauti lybius, latvius, estus, kuršius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

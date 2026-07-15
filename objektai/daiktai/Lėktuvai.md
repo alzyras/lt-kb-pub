@@ -91,29 +91,6 @@ Nenurodyta
 - susijęs iš [[objektai/posakiai/„Antanas nori būti ore“.md#claim-t-20836|„Antanas nori būti ore“]]: Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).
 - susijęs iš Žuvinto ežeras: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
 - susijęs iš Žuvinto palios: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1919 m. rugsėjo 26 d. Kaune lėktuvai skraidė virš minios, tempdami Lietuvos trispalvę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
-    sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
-    Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
-    susirinko prie laikinosios sostinės Kauno rotušės. Laikraščiai rašė, kad to-
-    kių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai,
-    tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A. Smetona
-    iš balkono sveikino minias. Tais metais de facto Lietuvą pripažino Nor-
-    vegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija
-    (liepos 4 d.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-75246

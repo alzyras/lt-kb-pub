@@ -8,13 +8,13 @@ datos:
   - '1490 m.'
 date_start: '1490'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - giminė
   - grupe
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,8 +49,8 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   teiginys: "Jonas Lenartaitis Kęsgailą prie 1490 m. Trakų pavieto bajorų sutarties prispaudė antspaudą su bėgančio ietį laikančio žmogaus atvaizdu."
   pagrindžia:
     - c-171114
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi bent 12 kartų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -70,41 +70,24 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Jonas Lenartaitis Kęsgailą prie 1490 m. Trakų pavieto bajorų sutarties prispaudė antspaudą su bėgančio ietį laikančio žmogaus atvaizdu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    IV
-    lentelė, 19-asis piešinys. Nuogas bėgantis žmogus abiem
-    rankom laiko ietį su dviguba ietigalio geležte, nukreipta durti;
-    galva pridengta kažkokiu trikampiu apdangalu. Šį antspaudą
-    prispaudė Jonas Lenartaitis Kęsgailą (Iwan Lenartowicz Kiez-
-    hajtio) prie 1490 metų sutarties, kurią vieni su kitais sudarė
-    Trakų pavieto, arba vaivadijos, bajorai. Gal tai fetišas Regie-
-    ziowan, kurį Lasickis priskiria Kęsgailų giminei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-170719
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 22"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 22."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Trys iš jų priklau­
-    so Bychovco kronikos autoriui. Žemaitijos istorijai pri­
-    skirtina taip pat tai, kas joje pasakojama apie Žemaiti­
-    jos seniūnų Kęsgailų giminės atstovus (jie minimi bent
-    12 atvejų). Tačiau iš viso Žemaitijos ir karų su kry­
-    žiuočiais istorijai pažinti Bychovco kronika yra men­
-    kas informatorius.
+    Didžiausias au­
+    toriaus rūpestis — išaukštinti savo valstybę, parodyti,
+    kokia ji buvo galinga praeityje. Tačiau tai konservaty­
+    vus patriotizmas: jo idealas praeityje. Tuo Bychovco
+    kronika ir skiriasi nuo Mykolo Lietuvio traktato „Apie
+    totorių, lietuvių ir maskvėnų papročius" (V., 1966).
+    Jo autorius taip pat nesibiaurėjo savo valstybės isto­
+    rija. bet teikiamais jos pavyzdžiais siekė kovoti su sa­
+    vo gyvenamojo laikotarpio visuomenės ir santvarkos
+    ydomis.
+  citata_rodoma: "Trys iš jų priklau­\nso Bychovco kronikos autoriui. Žemaitijos istorijai pri­\nskirtina taip pat tai, kas joje pasakojama apie Žemaiti­\njos seniūnų Kęsgailų giminės atstovus (jie minimi bent \n12 atvejų). Tačiau iš viso Žemaitijos ir karų su kry­\nžiuočiais istorijai pažinti Bychovco kronika yra men­\nkas informatorius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -115,8 +98,7 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
 - id: c-171114
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 404"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     IV
     lentelė, 19-asis piešinys. Nuogas bėgantis žmogus abiem

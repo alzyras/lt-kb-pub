@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių.
+Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių. Piotrkovo seimas dėl Podolės grąžinimo išsiskirstė nieko nenutaręs ir, Kojelavičiaus vertinimu, dar labiau sustiprino abipusį nepakantumą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -53,53 +53,40 @@ Nenurodyta
   teiginys: "Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių."
   pagrindžia:
     - c-169185
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šitokios paskalos, sklidusios po visą Lenkiją, gerokai
-    paveikė visuomenės nuotaikas. Todėl, kai jis tų pačių
-    metų pabaigoje dalyvavo Piotrkovo seime, visi luomai
-    vienbalsiai (norėtųsi sakytį — vienšauksmiai) pareika­
-    lavo, kad jis prisiektų valstybei neatplėšti nuo karalys­
-    tės nė menkiausios apygardos, neužleisti lietuviams nė
-    vienos Podolės bei Volynės pėdos, be to, kad naujomis
-    ištarmėmis patvirtintų bajorų luomo teises bei laisves
-    ir savo pirmtakų kuriems ne kuriems asmenims bei mie­
-    stams suteiktas lengvatas. Artėjo lemiamas susirėmi­
-    mas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196242"></a>
+- t-002
+  global_id: t-196242
+  teiginys: "Piotrkovo seimas dėl Podolės grąžinimo išsiskirstė nieko nenutaręs ir, Kojelavičiaus vertinimu, dar labiau sustiprino abipusį nepakantumą."
   pagrindžia:
-    - t-001
+    - c-169185
 
 ## Citatos
 
 - id: c-169185
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 490"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 490."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Šitokios paskalos, sklidusios po visą Lenkiją, gerokai
-    paveikė visuomenės nuotaikas. Todėl, kai jis tų pačių
-    metų pabaigoje dalyvavo Piotrkovo seime, visi luomai
-    vienbalsiai (norėtųsi sakytį — vienšauksmiai) pareika­
-    lavo, kad jis prisiektų valstybei neatplėšti nuo karalys­
-    tės nė menkiausios apygardos, neužleisti lietuviams nė
-    vienos Podolės bei Volynės pėdos, be to, kad naujomis
-    ištarmėmis patvirtintų bajorų luomo teises bei laisves
-    ir savo pirmtakų kuriems ne kuriems asmenims bei mie­
-    stams suteiktas lengvatas. Artėjo lemiamas susirėmi­
-    mas.
+    Vieniems atkakliai ir ryžtingai rei­
+    kalaujant sugrąžinti Podolę, o lenkams ne mažiau įnir­
+    tingai priešinantis, seimas išsivažinėjo ne tik nieko ne­
+    nutaręs, bet dar labiau sukurstęs abipusį nepakantumą.
+    Nedaug betrūko, kad dviejų tautų sąjunga būtų amžinai
+    nutraukta.
+    Karalius ne be reikalo pradėjo būgštauti,
+    kad, jam būnant toli nuo Lietuvos, nesirastų ten kokių
+    karštakošių, kurie, pasigriebę ginklus, susimanytų puldi­
+    nėti lenkus, visai užkirsdami kelią baigti ginčą taikiomis
+    49 i
+
+    priemonėmis,.. Štai todėl, norėdamas išvengti gink­
+    luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats
+    nuvyko į Lietuvą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185824
+    - t-196242

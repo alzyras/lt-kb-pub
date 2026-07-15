@@ -49,48 +49,14 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
   pagrindžia:
     - c-167634
 - susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192192|Russ ir Ross]]: Narbuto aiškinimu, Russ atitinka lenkišką Gtomna osada, o dainelėje reiškia Ojcow dziedzina, tėviškę.
+- susijęs iš [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline.md#claim-t-199227|Vytauto tėviškės užrašymas Skirgailai Liubline]]: Lietuvos metraštis Vytauto vardu pasakoja, kad Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
+- susijęs iš Jogailos užrašymo raštai Skirgailai dėl Vytauto tėviškės: Jau metai laiko nūnai, kai kunigaikštis [Jogailai Liublino pilyje užrašė kunigaikščiui Skirgailai raštais visą mano tėviškę mano akivaizdoje6 .
+- susijęs iš Liublino pilis: Vytauto pasakojime Jogaila Liublino pilyje Skirgailai raštu užrašė visą Vytauto tėviškę jo akivaizdoje.
 - susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192192|Russ ir Ross]]: Narbuto aiškinimu, Russ atitinka lenkišką Gtomna osada, o dainelėje reiškia Ojcow dziedzina, tėviškę.
 - susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192188|Russ ir Ross]]: Narbutas rašo, kad vienas lietuvių pamokslininkas iš Viikiškių Prūsijoje žodį Russ vertė į vokiečių kalbą kaip Stammorth.
+- susijęs iš [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline.md#claim-t-199228|Vytauto tėviškės užrašymas Skirgailai Liubline]]: Lietuvos metraštis Vytauto vardu pasakoja, kad Jogaila Liubline Vytauto akivaizdoje užrašė Skirgailai jo tėviškę, ir Vytautui tai buvo skaudu.
+- susijęs iš [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline.md#claim-t-199229|Vytauto tėviškės užrašymas Skirgailai Liubline]]: Lietuvos metraštis Vytauto vardu pasakoja, kad Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotų rusų žemių.
 - susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192188|Russ ir Ross]]: Narbutas rašo, kad vienas lietuvių pamokslininkas iš Viikiškių Prūsijoje žodį Russ vertė į vokiečių kalbą kaip Stammorth.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Smulk­
-    menos niekad nenustelbė jame didesniųjų uždavinių, o kartais
-    tolimi tikslai nesumažino jo sugebėjimo naudotis momentu ir
-    taikintis prie esamų aplinkybių.
-    1392 metai Vytauto gyvenime yra persilaužimo metai —
-    jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­
-    la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
-    Jo santykiai su tauta pasikeitė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vytautas keršijo Jogailai už Kęstučio mirtį ir tėviškės pagrobimą, o tėviškės atgavimas tuo metu buvo svarbiausias jo siekis.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pasiryžęs Jogailai nepasiduoti ir
-    pabėgęs iš kalėjimo, jis įtempė visas savo jėgas, parodė ne­
-    paprastą veiklumą ir gabumus. Jo priešas — Jogaila: jis
-    jam keršija už Kęstučio mirtį ir tėviškės pagrobimą. At­
-    gaut tėviškę — vyriausias šiuo metu jo siekimas ir vei­
-    kimo akstinas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-38766

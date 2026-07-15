@@ -59,6 +59,7 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
   teiginys: "Narbutas aiškina, kad XVI a. Lietuvoje rusų kalba rašytose sutartyse „Konlyna“ reiškė ypatingos konstrukcijos skrynią."
   pagrindžia:
     - c-175126
+    - c-175344
 
 <a id="claim-t-192323"></a>
 - t-003
@@ -74,79 +75,12 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
   pagrindžia:
     - c-175126
 
-<a id="claim-t-192563"></a>
-- t-005
-  global_id: t-192563
-  teiginys: "Narbutas aiškina, kad XVI a. Lietuvoje rusų kalba rašytose sutartyse „Konlyna“ reiškė ypatingos konstrukcijos skrynią."
-  pagrindžia:
-    - c-175344
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Bet manęs
-    toks aiškinimas netenkina, todėl slavų senienų tyrinėtojų dėmesį
-    atkreipiau į žodį Kontyna. Aš pats piliečių sutartyse, parašytose
-    Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон-
-    тьма — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo
-    sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis. Si
-    skrynia būdavo naudojama ir kelionės daiktams, ginklams susidė­
-    ti; tai buvo pačių vertingiausių daiktų saugykla (хранилище).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Iš čia atsiradęs žodis Za-kon, įstatymas. Bet manęs
-    toks aiškinimas netenkina, todėl slavų senienų tyrinėtojų dėmesį
-    atkreipiau į žodį Kontyna. Aš pats piliečių sutartyse, parašytose
-    Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон-
-    тьма — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo
-    sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-
-- c-003
-  santrauka: 'Narbutas aiškina, kad XVI a. Lietuvoje rusų kalba rašytose sutartyse „Konlyna“ reiškė ypatingos konstrukcijos skrynią.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Aš pats piliečių sutartyse, parašytose
-    Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон-
-    тьма — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo
-    sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis. Si
-    skrynia būdavo naudojama ir kelionės daiktams, ginklams susidė­
-    ti; tai buvo pačių vertingiausių daiktų saugykla (хранилище).
-    Taigi galėjo būti, jog slavų protėviai taip vadino dievų šventyk­
-    las.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-175125
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 492"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 492."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Bet manęs
     toks aiškinimas netenkina, todėl slavų senienų tyrinėtojų dėmesį
@@ -168,8 +102,7 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
 - id: c-175126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 492"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 492."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš čia atsiradęs žodis Za-kon, įstatymas. Bet manęs
     toks aiškinimas netenkina, todėl slavų senienų tyrinėtojų dėmesį
@@ -189,8 +122,7 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
 - id: c-175344
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 492"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 492."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Aš pats piliečių sutartyse, parašytose
     Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон-
@@ -204,5 +136,3 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192563

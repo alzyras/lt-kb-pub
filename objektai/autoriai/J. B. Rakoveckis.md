@@ -35,34 +35,16 @@ J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltin�
   teiginys: "J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltinį apie kitų tautų antspaudus ir herbus."
   pagrindžia:
     - c-173313
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltinį apie kitų tautų antspaudus ir herbus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    5 Istorijos duomenų apie kitų tautų antspaudus ir herbus skaity­
-    tojas ras Čackio veikale „Apie teises“ (t. I. -  P. 71. -  Prierašas nr. 347),
-    taip pat J. B. Rakoveckio išleistoje „Rusų tiesoje“ (Prawda Ruska. -
-    T. II.-S . 10)**.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173313
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 399"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 399."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     5 Istorijos duomenų apie kitų tautų antspaudus ir herbus skaity­
-    tojas ras Čackio veikale „Apie teises“ (t. I. -  P. 71. -  Prierašas nr. 347),
+    tojas ras Čackio veikale „Apie teises“ (t. I. - P. 71. - Prierašas nr. 347),
     taip pat J. B. Rakoveckio išleistoje „Rusų tiesoje“ (Prawda Ruska. -
     T. II.-S . 10)**.
   statusas: verified

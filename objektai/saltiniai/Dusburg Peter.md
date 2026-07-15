@@ -47,30 +47,6 @@ media_all_json: |-
   teiginys: "Straipsnis „Dusburg Peter“ paskelbtas Lietuvių enciklopedijos 5 tome, 266–267 puslapiuose."
   pagrindžia:
     - c-91733
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bauer, H. : _Peter von Dusburg und die Geschichtsschreibung des Deu­
-    tschen Ordens im 14. Jh. in Preusseu,_ Historische Studien, Heft 272,
-    Berlin 1935. — Chodynicki, K. : _Geneza dynastii Giedymina,_ KH, t. 40,
-    1926, 541-566 p. — _Dusburgo kronika,_ MLTE, I 447-448 p. — Ivinskis
-    Z. : _Eilėtoji Livonijos kronika ir jos autentiškumus,_ Židinys, nr. 10, 1936,
-    289-302 p. — (”) _Didžiųjų Lietuvos kunigaikščių ekonominė politika savo
-    dvaruose,_ LP, I, 1, 1940, 6-28 p. — (”) _Dusburg Peter,_ LE, t. 5, 266-267-
-    p. — (”) _Eiliuotinė Livonijos kronika,_ LE, t. 5, 396-398 p. — (”) _Traide­
-    nis,_ LE, t. 31, 364-369 p. — Jakštas, J. : _Naujausi Gedimino dinastijos
-    kilmės tyrinėjimai,_ LP, I, 1, 1940, 29-56 p. (kritiškas įvertinimas ikito­
-    linių studijų).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -96,5 +72,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97250
     - t-97249
+    - t-97250

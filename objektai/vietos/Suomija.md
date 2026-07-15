@@ -43,16 +43,10 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
   teiginys: "Sovietų Sąjungai kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ši buvo išmesta iš Tautų Sąjungos kaip agresorė."
   pagrindžia:
     - c-101927
-
-<a id="claim-t-110002"></a>
-- t-002
-  global_id: t-110002
-  teiginys: "Sovietų Sąjungai kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ši buvo išmesta iš Tautų Sąjungos kaip agresorė."
-  pagrindžia:
     - c-101928
 
 <a id="claim-t-183870"></a>
-- t-003
+- t-002
   global_id: t-183870
   teiginys: "Vilniuje buvo palaiminta Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoka."
   pagrindžia:
@@ -108,7 +102,6 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 - susijęs iš Tartu: 1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje.
 - susijęs iš Trakai: Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
 - susijęs iš Vilijandis: 1560 m. rusai užėmė Alūksnę, Vilijandį.
-- susijęs iš Vilnius: Valerijonas Protasevičius Šuškovskis 1556 m. buvo perkeltas į Vilniaus katedrą ir mirė 1579 m. gruodžio 21 d.
 - susijęs iš Vilnius: Lietuvos metraštis nurodo, kad rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
 - susijęs iš Švedija: Suomijos kunigaikštis Jonas, vėliau tapęs Švedijos karaliumi, Vilniuje vedė Kotryną Jogailaitę.
 - susijęs iš Švedija: Vilniuje buvo palaiminta Suomijos kunigaikščio Jono, vėliau tapusio Švedijos karaliumi, santuoka su Kotryna Jogailaite.
@@ -139,67 +132,6 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 - susijęs iš [[objektai/zodynas/Docentas.md#claim-t-195458|Docentas]]: 1899 m. A. R. Niemi buvo pakviestas Helsinkų universiteto suomių liaudies poezijos docentu.
 - susijęs iš [[objektai/zodynas/Ordinarinis profesorius.md#claim-t-195459|Ordinarinis profesorius]]: A. R. Niemi 1930 m. buvo paskirtas ordinariniu profesoriumi.
 - susijęs iš [[objektai/zodynas/ekstraordinarinis profesorius.md#claim-t-195643|ekstraordinarinis profesorius]]: A. R. Niemi 1913 m. buvo pakviestas ekstraordinariniu profesoriumi, bet nominacija užsitęsė iki 1918 m.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sovietų Sąjungai kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ši buvo išmesta iš Tautų Sąjungos kaip agresorė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vokietija kartojo nebeturinti regione
-    interesų, Anglija ir Prancūzija kariavo, o sutriuškinus Lenkiją jų įtaka re-
-    gione apskritai sumažėjo.
-    SSRS 1940 metų ultimatumas ir
-    sovietų okupacija
-    Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-
-    ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
-    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
-    kaip agresorė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Sovietų Sąjungai kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ši buvo išmesta iš Tautų Sąjungos kaip agresorė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    SSRS 1940 metų ultimatumas ir
-    sovietų okupacija
-    Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-
-    ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
-    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
-    kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
-    nopolizuoti Lietuvos užsienio prekybą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Vilniuje buvo palaiminta Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoka.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    La­
-    biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-
-    mas Akademiją. Jis taip pat palaimino Vilniuje Suomijos
-    kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,
-    santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
-    gusto seserimi.
-    —  •  .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-101927
@@ -237,12 +169,10 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
     kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
     nopolizuoti Lietuvos užsienio prekybą.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-110002
-
 - id: c-167255
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

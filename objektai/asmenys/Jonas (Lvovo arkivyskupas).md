@@ -43,22 +43,6 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
   teiginys: "1415 m. Lvovo arkivyskupas Jonas buvo Lietuvos ir Lenkijos vyskupų delegacijos į Konstanciją narys."
   pagrindžia:
     - c-36022
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos
-    ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­
-    po Petro, Lvovo arkivysk. Jono, Gniezno arkivysk. Mikalojaus
-    ir Breslavo vysk. Jono.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms apie senovinį Truso miestą prie Drūsinės ežero.
+Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms apie senovinį Truso miestą prie Drūsinės ežero. Jei netu rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis nieko nežinotume apie šį miestą.
 
 ## Teiginiai
 
@@ -34,37 +34,25 @@ Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms ap
   teiginys: "Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms apie senovinį Truso miestą prie Drūsinės ežero."
   pagrindžia:
     - c-174702
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms apie senovinį Truso miestą prie Drūsinės ežero.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Daugiausiai dėmesio vertas šios
-    provincijos prekybinis miestas Trusas prie Drūsinės eže­
-    ro, buvęs, ko gero, ten, kur vėliau buvo įkurtas Elblion-
-    gas. Tačiau su tuo miestu susiję dalykai išnyksta prieš­
-    istorinėje praeityje, jog net nežinome, ar buvo šio seno­
-    vinio miesto pėdsakų prieš įkuriant Elbliongą. Jei netu­
-    rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
-    nieko nežinotume apie šį miestą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197692"></a>
+- t-002
+  global_id: t-197692
+  teiginys: "Jei netu rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis nieko nežinotume apie šį miestą."
   pagrindžia:
-    - t-001
+    - c-174702
 
 ## Citatos
 
 - id: c-174702
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 357"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Daugiausiai dėmesio vertas šios
+    Ki­
+    ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
+    mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
+    gezanijos tėvo, vardą. Daugiausiai dėmesio vertas šios
     provincijos prekybinis miestas Trusas prie Drūsinės eže­
     ro, buvęs, ko gero, ten, kur vėliau buvo įkurtas Elblion-
     gas. Tačiau su tuo miestu susiję dalykai išnyksta prieš­
@@ -78,3 +66,4 @@ Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191820
+    - t-197692

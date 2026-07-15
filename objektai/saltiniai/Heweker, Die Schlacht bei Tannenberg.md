@@ -43,20 +43,6 @@ Heweker, Die Schlacht bei Tannenberg, Diss.
   teiginys: "Hewekerio „Die Schlacht bei Tannenberg“ buvo disertacija, išleista Berlyne 1906 m."
   pagrindžia:
     - c-38407
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Heweker, Die Schlacht bei Tannenberg, Diss. Berlin, 1906.
-    Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

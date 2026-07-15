@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis. Jie džiaugėsi, kad smarkiai padidėjo jėgos ypač tokiu laiku, kada kaimyninės tautos, atsikėlusios prie Vyslos, iš arti ėmė grasinti ginklais Prūsijai.
+Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -49,13 +49,6 @@ Nenurodyta
   teiginys: "Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis."
   pagrindžia:
     - c-169212
-
-<a id="claim-t-193367"></a>
-- t-002
-  global_id: t-193367
-  teiginys: "Jie džiaugėsi, kad smarkiai padidėjo jėgos ypač tokiu laiku, kada kaimyninės tautos, atsikėlusios prie Vyslos, iš arti ėmė grasinti ginklais Prūsijai."
-  pagrindžia:
-    - c-176094
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77985|A. Smetona]]: 1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75737|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59957|Fridrichas Kvicas]]: 1316 m. balandžio 4 d. Fridrichas Kvicas su Ditrichu iš Altenburgo, dar vienu broliu ir trimis Ragainės ginklanešiais patraukė link Bisenės pilies.
@@ -91,7 +84,6 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/ATAS.md#claim-t-40833|ATAS]]: Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose saugojo objektą ginkluotas TT pistoletu.
 - susijęs iš [[objektai/grupes/Chlapovskio kariuomenė.md#claim-t-168145|Chlapovskio kariuomenė]]: Chlapovskio vadovaujama kariuomenė nekovojo su rusais ir, prieš pereidama Prūsijos sieną, padėjo ginklus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178924|Kryžiuočių ordinas]]: Kronikoje Kryžiuočių ordino karinė užduotis Prūsijoje ir Lietuvoje aiškinama suteikiant riterių ginklams religinę prasmę.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179423|Livonijos ordinas]]: Livonijos ordino vicemagistras prašė Liubeko pagalbos, skųsdamasis dideliais ordino nuostoliais arkliais, ginklais ir gėrybėmis.
 - susijęs iš [[objektai/grupes/Rohlando būrys.md#claim-t-01465|Rohlando būrys]]: Rohlando būrys po kelių dienų padėjo ginklus ir perėjo į Prūsiją.
 - susijęs iš [[objektai/grupes/Vietinė rinktinė.md#claim-t-66258|Vietinė rinktinė]]: Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir ėmė skirstytis su ginklais bei amunicija.
 - susijęs iš [[objektai/grupes/Vokiečių ordinas.md#claim-t-182838|Vokiečių ordinas]]: Vokiečių ordinui draudžiant į Lietuvą įvežti ginklus ir arklius, Vytautas jų gaudavo iš Rygos ir Krokuvos.
@@ -137,7 +129,6 @@ Nenurodyta
 - susijęs iš Vilniaus ginklų liejykla: 1579 m. rengiantis žygiui į Livoniją Vilniaus ginklų liejykla liejo pabūklus pagal geriausius pavyzdžius.
 - susijęs iš Vilniaus ginklų liejykla: 1579 m. rengiantis žygiui į Livoniją, Vilniaus ginklų liejykla liejo pabūklus pagal geriausius pavyzdžius.
 - susijęs iš Vilniaus pilis: Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui.
-- susijęs iš Vilnius: Prie Vilniaus pilies įkurta didžioji ginklų liejykla stipriai veikė miesto amatininkų gerovę ir tobulėjimą.
 - susijęs iš Vokietija: Rengiantis 1579 m. buvo samdomi kareiviai Vengrijoje ir Vokietijoje, perkami ir gaminami ginklai.
 - susijęs iš [[objektai/zodynas/Konlyna.md#claim-t-192321|Konlyna]]: Narbutas aiškina, kad „Konlyna“ naudota kelionės daiktams ir ginklams susidėti.
 - susijęs iš [[objektai/zodynas/Perveiza.md#claim-t-07731|perveiza]]: `Perveiza` šiame tekste reiškia karių ir jų ginklų bei arklių peržiūrą.
@@ -166,7 +157,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Gotardas Ketleris.md#claim-t-87504|Gotardas Ketleris]]: Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175187|Herkus Mantas]]: Notangai Herkų Mantą išsirinko savo kariuomenės vadu ir vyresniuoju po prūsų atkritimo nuo tikėjimo.
 - susijęs iš [[objektai/asmenys/I. Drakša.md#claim-t-39436|I. Drakša]]: Savanoris I. Drakša 1991 m. pagamino savadarbį 16,5 mm kalibro lygiavamzdį šautuvą.
-- susijęs iš [[objektai/asmenys/Ibrahimas.md#claim-t-186112|Ibrahimas]]: Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuose prieš lietuvių žemes.
 - susijęs iš [[objektai/asmenys/J. Šarauskas.md#claim-t-40173|J. Šarauskas]]: Kėdainių srities apsaugos viršininkas J. Šarauskas mieste buvo suorganizavęs savanorių būrį.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184732|Jogaila (kunigaikštis, XIV–XV a.)]]: Aptaręs pasiūlymus su senatu ir Vytautu, Jogaila sutiko jungtis į karą su turkais tik susitarus visiems krikščionių valdovams.
 - susijęs iš [[objektai/asmenys/Jonas Černius.md#claim-t-170075|Jonas Černius]]: 1938 m. manevruose generolas Jonas Černius buvo fotografijoje šalia kariuomenės vado Stasio Raštikio.
@@ -195,7 +185,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114003|Valerijonas Protasevičius (vyskupas)]]: Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64222|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Vernerio iš Orzelno laikais Kryžiuočių ordino statute buvo pabrėžtas pamaldumas ir apriboti pasaulietiniai brolių poreikiai.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64232|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Didysis magistras Verneris iš Orzelno ėmėsi restauruoti Kryžiuočių ordiną.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176699|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. liepos 15 d. Žalgirio mūšyje Vytautas Didysis vadovavo kovai su Vokiečių Ordinu ir jo sąjungininkais.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176874|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis stengėsi perimti į savo rankas kryžiuočių ginčą su Lietuva ir Lenkija.
 - susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64421|Zigmantas Sierakauskas]]: Sužeistas Zigmantas Sierakauskas mūšio pradžioje buvo išvežtas ir paslėptas Biržų girioje esančiame Skrebiškio palivarke.
 - susijęs iš [[objektai/asmenys/Štaubemelis.md#claim-t-60475|Štaubemelis]]: Štaubemelis minimas tarp krikščionių plėšikautojų, kurių žygius Dusburgietis vadino nuostabiais ir nepaprastais.
@@ -247,7 +236,6 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175542|Kalavijuočių ordinas]]: Gotardas Ketleris, Teutonų ordino Livonijoje magistras, patikėjo save, ordiną ir valdas valdovui, prašydamas gynybos.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65309|Kazokai]]: Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus.
 - susijęs iš [[objektai/grupes/Kiršenšteinai.md#claim-t-86799|Kiršenšteinai]]: Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.
-- susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-184486|Krymo totoriai]]: Krymo skitai išdrąsėjo, kai jiems į pagalbą atėjo Ibrahimo vedami turkai, skitų išpuoliais grindę kelią turkų galybei.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178874|Kryžiuočių ordinas]]: XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178935|Kryžiuočių ordinas]]: Vytautas ginklus ir arklius gaudavo iš Rygos ir Krokuvos, nors Ordinas draudė juos įvežti į Lietuvą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178955|Kryžiuočių ordinas]]: Kryžiuočių ordino broliai po priešų pabėgimo nužudė 17 Lietuvos karalystės galingesniųjų ir daug paprastų žmonių.
@@ -255,7 +243,6 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65561|Kuršiai]]: Kronikininkai mini spindinčius metalo ginklus pas kuršius ir žiemgalius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179241|Lietuviai]]: Ordino broliai nužudė 17 Lietuvos karalystės galingesniųjų ir daugybę paprastų žmonių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184546|Lietuviai]]: Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.
-- susijęs iš [[objektai/grupes/Lietuvos didikai.md#claim-t-184558|Lietuvos didikai]]: 1527 m. Lietuvos didikai, Konstantino Ostrogiškio paskatinti, susitarė savo jėgomis atremti skitus.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-182742|Lietuvos kariuomenė]]: Visuotinio šaukimo metu didesniąją Lietuvos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179356|Livonijos ordinas]]: Maskvos ginklų sutriuškintas Livonijos ordino magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179369|Livonijos ordinas]]: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą.
@@ -287,7 +274,7 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino kova su 20 prūsų plėšikų.md#claim-t-183943|Martyno iš Golino kova su 20 prūsų plėšikų]]: Po kovos pririštas sargybinis išsilaisvino, rado sunkiai sužeistą Martyną iš Golino ir nuvežė jį į Rudino pilį.
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino kova su 20 prūsų plėšikų.md#claim-t-62392|Martyno iš Golino kova su 20 prūsų plėšikų]]: Po kovos pririštas sargybinis išsilaisvino, rado sunkiai sužeistą Martyną iš Golino ir nuvežė jį į Rudino pilį.
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas.md#claim-t-62873|Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]: Martynas iš Golino su 4 vokiečiais ir 11 prūsų užgrobė Sūduvos kaimą, išžudydamas arba į nelaisvę išsivesdamas žmones.
-- susijęs iš [[objektai/ivykiai/Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.).md#claim-t-185757|Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)]]: 1460 m. karalius Bresto seime stengėsi nukreipti didikų užmojus nuo Podolės.
+- susijęs iš [[objektai/ivykiai/Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.).md#claim-t-185757|Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)]]: 1460 m. karalius Bresto seime mėgino nukreipti Lietuvos didikų užmojus nuo Podolės, bet jam išvykus jie vėl rengėsi karui.
 - susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66809|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną.
 - susijęs iš [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.).md#claim-t-62908|Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]: Didžiajam magistrui Verneriui kronikos reikėjo Ordino priekaištams atremti ir vidaus reformai įgyvendinti.
 - susijęs iš [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.).md#claim-t-62909|Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]: 1324 m. Kryžiuočių ordino vidinę kovą laikinai laimėjo reformų šalininkai.
@@ -323,7 +310,6 @@ Nenurodyta
 - susijęs iš Ptolemėjaus Geographia: Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie provinciją tarp Olecko ir Raigardo, siejamą su Sūduva.
 - susijęs iš Ribentropo-Molotovo paktas: 1939 m. Ribentropo-Molotovo paktu Stalinas ir Hitleris susitarė pasidalyti Vidurio Europą.
 - susijęs iš Vilniaus kapitulos rankraščiai: Vilniaus kapitulos rankraščiuose buvo Žygimanto Senojo 1542 m. privilegija prieš eretikus, duota Vilniaus vyskupui.
-- susijęs iš Vladislovo ir popiežiaus laiškas Ivanui dėl bendro karo prieš turkus: Vladislovas pasiuntė Zigmantą Santajį pas Ivaną su savo ir popiežiaus laišku dėl bendro krikščionių karo prieš turkus.
 - susijęs iš Baiga: Po susitaikymo Čekijos karalius nuvedė kariuomenę iki Baigos pilies, kur broliai surado seną vyrą Gedūną.
 - susijęs iš Bajerburgas Raudonė: Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
 - susijęs iš Baltarusija: Kojelavičius Baltarusiją apibūdino kaip kraštą, iki tol savo jėgomis rėmusį maištininkus prieš teisėtus valdovus.
@@ -356,8 +342,6 @@ Nenurodyta
 - susijęs iš Rudinas: Sargybinis rado sužeistą Martyną kovos vietoje ir nuvežė jį į Rudino pilį.
 - susijęs iš Skalva: Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš skalvius.
 - susijęs iš Skalvos žemė: Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš Skalvos žemės gyventojus skalvius.
-- susijęs iš Soroka: Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.
-- susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
 - susijęs iš Svyro stovykla: 1579 m. rengiantis žygiui į Livoniją, rinktinės kariuomenės būriai Vilniaus gatvėmis traukė į stovyklą Svyre.
 - susijęs iš Tikocinas: Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.
 - susijęs iš Trakų pilis (pilis): Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio.
@@ -369,7 +353,6 @@ Nenurodyta
 - susijęs iš Vengrija: 1579 m. žygiui prieš caro kariuomenę buvo pasamdyta kareivių Vengrijoje ir Vokietijoje.
 - susijęs iš Vengrija: Totoriai nuniokojo Vengriją ir Lenkiją.
 - susijęs iš Vengrija: Rengiantis 1579 m. žygiui, kareivių buvo samdoma Vengrijoje ir Vokietijoje.
-- susijęs iš Vilnius: Iki 1565 m. Žygimanto Augusto lėšomis pagamintų ginklų ir amunicijos dalis buvo palikta Vilniuje, o kita išsiųsta į pilis.
 - susijęs iš Vokietija: Rengiant 1579 m. žygį prieš caro kariuomenę, kareivių buvo prisisamdyta Vengrijoje ir Vokietijoje.
 - susijęs iš Voluinė: Apsirūpinus artilerija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.
 - susijęs iš [[objektai/zodynas/Augsburgo Augustino tikėjimas.md#claim-t-86514|Augsburgo Augustino tikėjimas]]: Gotardas Ketleris siekė, kad perduodamų apskričių žmonėms būtų leista laisvai išpažinti Augustino tikėjimą.
@@ -389,69 +372,17 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/tercija.md#claim-t-42517|tercija]]: Tercijos rikiuotės priekyje flanguose būdavo išrikiuojami muškietininkai.
 - susijęs iš [[objektai/zodynas/viešpaties karas.md#claim-t-58941|viešpaties karas]]: Petras Dusburgietis užkariavimus ir žudynes „viešpaties kare“ vaizdavo kaip šventus Ordino riterių veiksmus.
 - susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-192099|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčių laidotuvių paprotys numatė, kad su kilmingo žmogaus lavonu sudegindavo ginklus, arklį, tarnus, moteris ir karo žygiui reikalingus daiktus.
+- susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
+- susijęs iš Soroka: Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.
 - susijęs iš Vilniaus pilys: Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai.
 - susijęs iš [[objektai/zodynas/Konlyna.md#claim-t-192323|Konlyna]]: Narbutas aiškina, kad „Konlyna“ buvo pačių vertingiausių daiktų saugykla.
 - susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192277|pilkapis]]: Teodoras Narbutas baltarusių pilkapių horizontalų pjūvį apibūdina kaip šiek tiek suplotos elipsės formą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Todėl neilgai trukus paaiškė­
-    jo; j°g Per šį bendravimą, atšiauriausias širdis suvi­
-    liojus saldžiu meilumu, buvo padėti tokie viešosios
-    santarvės pamatai, jog žmonėms jau užteko kantrybės
-    įsakymų klausyti ir neišlavintu protu aiškiai suvokti,
-    kad esama dalykų, kurie vertintini labiau nei bet ko­
-    kie asmeniški reikalai, būtent — visuomenės gerovė;
-    šiuo atveju žmonės įsitikino, jog būtina garbingai ko­
-    voti prieš bet kurį priešą bendromis jėgomis ir pastan­
-    gomis, aukojant net pačią gyvybę. Tačiau Vaidevutis
-    nepradėjo nė vieno karo, mat žinojo, jog karas vei­
-    kiau laužo įstatymus, nei juos stiprina, o širdis, užkie­
-    tėjusi dažnuose žygiuose, švelnėja tada, kai padedami
-    ginklai. Vaidevutis vengė karinių stovyklų, nes iš kas­
-    dieninės patirties matė, jog žmonės, paėmę į rankas
-    ginklą, suįžūlėja ir nebeklauso įsakymų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Jie džiaugėsi, kad smarkiai padidėjo jėgos ypač tokiu laiku, kada kaimyninės tautos, atsikėlusios prie Vyslos, iš arti ėmė grasinti ginklais Prūsijai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Prū­
-    sai mielai priglaudė kaimyninę tautą: nebūgštavo, kad
-    gali nešti grėsmę tauta, gimininga tikėjimu, kalba,
-    apeigomis ir kilme, mat be kitų taikos ryšių, glaudes­
-    nę santarvę žadėjo ir ši jų geradarystė. Jie džiaugėsi,
-    kad smarkiai padidėjo jėgos ypač tokiu laiku, kada
-    kaimyninės tautos, atsikėlusios prie Vyslos, iš arti ėmė
-    grasinti ginklais Prūsijai. Tačiau vėliau, kai dėl miš­
-    rių santuokų smarkiai padidėjo ir viena, ir kita gentis,
-    žmonių gausa, kėlusi priešui baimę, ir patiems tapo
-    lemtinga.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-169212
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 50."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Todėl neilgai trukus paaiškė­
     jo; j°g Per šį bendravimą, atšiauriausias širdis suvi­
@@ -475,27 +406,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185851
-
-- id: c-176094
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 46"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 46."
-  citata_originali: |
-    Prū­
-    sai mielai priglaudė kaimyninę tautą: nebūgštavo, kad
-    gali nešti grėsmę tauta, gimininga tikėjimu, kalba,
-    apeigomis ir kilme, mat be kitų taikos ryšių, glaudes­
-    nę santarvę žadėjo ir ši jų geradarystė. Jie džiaugėsi,
-    kad smarkiai padidėjo jėgos ypač tokiu laiku, kada
-    kaimyninės tautos, atsikėlusios prie Vyslos, iš arti ėmė
-    grasinti ginklais Prūsijai. Tačiau vėliau, kai dėl miš­
-    rių santuokų smarkiai padidėjo ir viena, ir kita gentis,
-    žmonių gausa, kėlusi priešui baimę, ir patiems tapo
-    lemtinga.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193367

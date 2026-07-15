@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 499
+tema_objektu_skaicius: 507
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 499.
+Objektų skaičius: 507.
 
 ## Kaip naudoti
 
@@ -391,7 +391,6 @@ Objektų skaičius: 499.
 - [Skalka](../objektai/asmenys/Skalka)
 - [Skilūras](../objektai/asmenys/Skil%C5%ABras)
 - [Sologubas](../objektai/asmenys/Sologubas)
-- [Spytka](../objektai/asmenys/Spytka)
 - [Stanislovas Augustas](../objektai/asmenys/Stanislovas%20Augustas)
 - [Stanislovas Augustas Poniatauskas](../objektai/asmenys/Stanislovas%20Augustas%20Poniatauskas)
 - [Stanislovas Augustas Poniatovskis (valdovas)](../objektai/asmenys/Stanislovas%20Augustas%20Poniatovskis)
@@ -527,3 +526,18 @@ Objektų skaičius: 499.
 - [Vygandas Marburgietis](../objektai/autoriai/Vygandas%20Marburgietis)
 - [Walsinghamas](../objektai/autoriai/Walsinghamas)
 - [Wulfstanas](../objektai/autoriai/Wulfstanas)
+
+### Grupės
+- [Lenkijos senatas](../objektai/grupes/Lenkijos%20senatas)
+- [Venedai](../objektai/grupes/Venedai)
+- [Čekai](../objektai/grupes/%C4%8Cekai)
+
+### Vietos
+- [Krokuva](../objektai/vietos/Krokuva)
+- [Pinskas](../objektai/vietos/Pinskas)
+- [Pskovas](../objektai/vietos/Pskovas)
+- [Smolenskas](../objektai/vietos/Smolenskas)
+
+### Įvykiai
+- [Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)](../objektai/ivykiai/Lubavos%20%C5%BEem%C4%97s%20m%C5%AB%C5%A1is%2C%20kuriame%20%C5%BEuvo%20magistras%20Helmerichas%20ir%20mar%C5%A1alas%20Ditrichas%20%281263%20m.%29)
+- [Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)](../objektai/ivykiai/Vytenio%20%C5%BEygis%20%C4%AF%20Bresto%20%C5%BEem%C4%99%20ir%20Meinhardo%20atsitraukimas%20%281291%20m.%29)

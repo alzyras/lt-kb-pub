@@ -46,8 +46,10 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
+Nenurodyta
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -60,7 +62,32 @@ Nenurodyta
     Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo
     įprastas reiškinys.
   citata_rodoma: ''
+  statusas: verified
+
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+## Citatos
+
+- id: c-174974
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Reikia manyti, jog
+    ji sukėlė labai neigiamas emocijas tiek LTI autoriui, tiek
+    jos leidėjui. Tiesą sakant, rašinys galėjo būti nukreiptas
+    ne tiek prieš
+    T. Narbutą,
+    kiek
+    prieš A. Marcinovskį.
+    T. Narbuto korespondencijoje ne kartą teko rasti užuomi­
+    nų, jog Juozapas Zavadskis buvo nepatenkintas ir įžeistas
+    dėl to, kad autorius savo „Istoriją“ atidavė ne jam, bet
+    A. Marcinovskiui.
+  citata_rodoma: "Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i\nRoztrząsania Naukowe“ puslapiuose anonimiškumas buvo\nįprastas reiškinys."
   statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

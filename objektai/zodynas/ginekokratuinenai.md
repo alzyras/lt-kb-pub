@@ -80,44 +80,13 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
   teiginys: "Narbutas, remdamasis Plinijumi, ginekokratuinenus mini pirmus tarp sarmatų, kuriuos pasakojimai kildino iš medų prie Dono ir Juodosios jūros."
   pagrindžia:
     - c-175034
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    tam, kad būtų apgyvendintos Europos dykros. Tik iš
-    Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai,
-    yra medų palikuonys, gyvenę prie Dono žemupio ir Juo­
-    dosios jūros; pirmiausia buvo sarmatai, amazonių kara­
-    lienių valdomi ginekokratuinenai, po jų evazai, kotai, ki-
-    kimenai, mesėnai, kostobokai, choatrai, žigai, dandarai,
-    tisagetai, turkai1. Turbūt tos tautos tuomet sudarė sar-
-    matų lygą, nors jos skyrėsi gimine ir kilme tiek, kad,
-    įsigilinus į dabar esančias žinias apie tautų pradžią, prie
-    sarmatų lieka vien ginekokratuinenai, kažin kokia me-
-    dų-skitų gentis, turėjusi santykių su amazonėmis, kurių,
-    kaip teigia mūsų senovės tyrinėtojas2, ir kalbą reikėtų
-    laikyti panašia j skitų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-    - t-001
-    - t-004
-    - t-005
-    - t-006
 
 ## Citatos
 
 - id: c-175034
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 61"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 61."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     tam, kad būtų apgyvendintos Europos dykros. Tik iš
     Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai,
@@ -138,9 +107,8 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192153
-    - t-192152
     - t-192151
+    - t-192152
+    - t-192153
     - t-192154
     - t-192558
-    - t-006

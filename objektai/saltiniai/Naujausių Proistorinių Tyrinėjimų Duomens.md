@@ -43,23 +43,6 @@ media_all_json: |-
   teiginys: "J. Puzino „Naujausių Proistorinių Tyrinėjimų Duomens“ išleistas Kaune 1938 m. kaip atspaudas iš „Senovės“ 4 tomo."
   pagrindžia:
     - c-33672
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1 (iki 1356 m.),
-    Karaliaučius-Marburgas 1889-1969. (Pirmieji 2 tomai Aale-
-    ne - Scientia leidykloje 1961 m. fotomechan. perspausdinti).
-    PuPrT = Puzinas, J. : Naujausių Proistorinių Tyrinėjimų Duomens,
-    Kaunas 1938 (atsp. iš Senovė, t. 4).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

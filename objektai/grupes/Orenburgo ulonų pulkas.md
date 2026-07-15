@@ -36,29 +36,6 @@ Tuo pat metu pasigirdo ir sukilėlių (lenkų) 1-ojo ulonų pulko eskadronų vad
   pagrindžia:
     - c-40795
 - susijęs iš [[objektai/asmenys/D. Osten-Sakenas.md#claim-t-40082|D. Osten-Sakenas]]: Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kavaleriją.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo pat metu pasigirdo ir sukilėlių
-    (lenkų) 1-ojo ulonų pulko eskadronų vadų
-    komandos. Šio pulko ulonai taip energin-
-    gai atakavo priešą, kad Orenburgo ulonų
-    pulkas buvo perpjautas kaip pyragas ir
-    išsklaidytas. Jiems į pagalbą atskubėjo
-
-    400 Novomirogrado pulko raitelių, ta-
-    čiau ir šie neatlaikė sukilėlių ulonų smū-
-    gio ir išsilakstė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-40795

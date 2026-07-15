@@ -35,35 +35,13 @@ Narbutas rašė, kad daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kai
   teiginys: "Narbutas rašė, kad daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kaip dievybė dėl jiems priskirto poveikio sveikatai."
   pagrindžia:
     - c-172138
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašė, kad daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kaip dievybė dėl jiems priskirto poveikio sveikatai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šitų būtybių
-    dažnai šaukiamasi maldose, ir pats medis gerbiamas dėl savo
-    įgimto veiksmingumo, glūdinčio visose jo dalyse, jo šešėliui
-    priskiriamas išganingas poveikis sveikatai; dėl šios priežasties
-    daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kaip die­
-    vybė. Kaimuose iki šiol galima rasti rūpestingai puoselėjamų
-    baltųjų alyvų krūmų. Jų gydomasis poveikis žinomas visiems
-    kaimiečiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172138
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 234"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 234."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šitų būtybių
     dažnai šaukiamasi maldose, ir pats medis gerbiamas dėl savo

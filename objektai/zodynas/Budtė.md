@@ -53,21 +53,7 @@ Vardas vartojamas kaip deivės pavadinimas, bet šiame gabale pateikiamas su ai�
   pagrindžia:
     - c-175035
 
-<a id="claim-t-192155"></a>
-- t-002
-  global_id: t-192155
-  teiginys: "Narbutas Budtę apibrėžia kaip išminties ir proto deivę."
-  pagrindžia:
-    - c-175035
-
-<a id="claim-t-192155"></a>
-- t-003
-  global_id: t-192155
-  teiginys: "Narbutas Budtę apibrėžia kaip išminties ir proto deivę."
-  pagrindžia:
-    - c-175035
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -98,20 +84,21 @@ Vardas vartojamas kaip deivės pavadinimas, bet šiame gabale pateikiamas su ai�
 - id: c-175035
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 76"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 76."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    61 *
-    Naujieji slavų senienų tyrinėtojai, kurių priekyje sto­
-    vi Maksimilijonas Osolinskis, budinus priskiria prie sla­
-    vų tautų. Jų įrodymai, paremti vien hipotezėmis, prielai­
-    domis, nepagrįstomis jokiu istoriniu faktu, neverti nei
-    diskusijos, nei pernelyg didelio pasitikėjimo, todėl turėtų
-    būti palikti kiekvieno nuožiūrai, ypač to, kuris moka ir
-    slavų kalbas, ir lietuvių kalbą, nes teiginio esmė glūdi
-    lingvistiniame tos tautos vardo panašume, žodžiuose, ras­
-    tuose vienoje ar kitoje kalboje.
-    Budtė — išminties, proto deivė.
+    Taigi
+    budinai turėtų būti protėviai dviejų tautų, kurios šian­
+    dien skiriasi ir savo kalba, ir religija, ir gyvenamąja te­
+    ritorija; šios tautos šiandien nebeturi beveik jokios gi­
+    minystės, išskyrus abiem bendrą užsiėmimą, t. y. pragy­
+    venimo šaltinį, — žemdirbystę. Galbūt todėl, kad ir bu-
+    dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
+    arba šį užsiėmimą perėmė iš gelonų, pačioje susiliejimo
+    su pastaraisiais pradžioje. Safaržykas žengė dar toliau1,
+    nes senovės lietuvius visiškai sugiminiavo su slavais,
+    šiandienius šių abiejų tautų skirtumus priskirdamas liki­
+    mui, kurio dėka jos patekdavo tai į germanų, tai į finų
+    valdžią, ir lietuvių kalba vis labiau tolo nuo slavų.
   citata_rodoma: "Budtė — išminties, proto deivė."
   statusas: verified
   teiginio_tipas: faktas
@@ -119,6 +106,3 @@ Vardas vartojamas kaip deivės pavadinimas, bet šiame gabale pateikiamas su ai�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192155
-    - t-192156
-    - t-192556
-    - t-004

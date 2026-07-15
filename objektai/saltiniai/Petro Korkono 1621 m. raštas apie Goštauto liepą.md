@@ -41,38 +41,6 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
   teiginys: "Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą."
   pagrindžia:
     - c-84441
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Petro, vardui pašventė. Čia pirmiau­
-    sia mūsų lietuvių tauta Dievui nu­
-    silenkė, kai anuomet Šv. Pranciškaus
-    vienuolius, kunigus, į Vilnių tas pats
-    Petras Goštautas atkvietė, dar prieš
-    80 metų iki Jogailos viešpatavimo;
-    o vienas medis, liepa, priešais seno­
-    sios bažnyčios duris, kurią pats Goš­
-    tautas savo rankomis buvo pasodinęs,
-    kaip 1621 metais rašė maldingasis
-    kunigas Petras Korkonas, Antakalnio
-    29
-
-    ## Puslapis 46
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    Didelė ir galinga buvo Algirdo viešpatija: šalys, jo
-    valdžioje buvusios, driekėsi nuo Brastos iki Možaisko į ry­
-    tus ir nuo Baltijos krantų iki Juodosios jūros į pietus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

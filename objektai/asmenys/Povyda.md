@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigas
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,17 +36,31 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
   teiginys: "Povyda netrukus išvadavo Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho ir jų padėjėjus iš pagudėnų nelaisvės."
   pagrindžia:
     - c-61049
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197150"></a>
+- t-002
+  global_id: t-197150
+  teiginys: "Povyda ir negebėjo duoti deramo atkirčio priešo išpuoliams."
+  pagrindžia:
+    - c-61049
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Povyda netrukus išvadavo Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho ir jų padėjėjus iš pagudėnų nelaisvės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti
-    užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus
-    ir juos išsivarė į nelaisvę. Tačiau vienas [vyras], vardu Povyda, juos netrukus išvadavo.
-    Jų kunigą kapelioną jie pakorė už kaklo po medžiu, dar vieną jų tarną nužudė, o kita
-    šeimynos dalis, pasileidusi bėgti, šiaip ne taip paspruko.
+    Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių
+    apygardų nusiaubimą ir Klemento pilies sugriovimą
+    Tuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras,
+    kuris, šiaip jau apdairiai tvarkęs, ūkio reikalus, kur kas mažiau tiko karui (matyt, mažiau
+    buvo tam linkęs), todėl jis ir negebėjo duoti deramo atkirčio priešo išpuoliams. Dėl
+    to sūduviai vis dažniau įsibraudavo į Kulmo žemę ir, smarkiai nuniokoję dievo tautą,
+    viską šioje žemėje sudeginę bei išgrobstę, pasitraukdavo; pajutę, kad niekas jiems
+    nebesipriešina, jie išdrįsdavo net su maža kariuomene brautis į Kulmo žemę. Galop
+    magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį
+    karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele
+    kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems pastodavo
+    478  Istorijos šaltiniai rodo, kad prūsai ir lietuviai turėjo monogamines šeimas.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: saltinio_teiginys
@@ -53,23 +68,30 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-61049
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti
-    užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus
-    ir juos išsivarė į nelaisvę. Tačiau vienas [vyras], vardu Povyda, juos netrukus išvadavo.
-    Jų kunigą kapelioną jie pakorė už kaklo po medžiu, dar vieną jų tarną nužudė, o kita
-    šeimynos dalis, pasileidusi bėgti, šiaip ne taip paspruko.
+    Dėl
+    to sūduviai vis dažniau įsibraudavo į Kulmo žemę ir, smarkiai nuniokoję dievo tautą,
+    viską šioje žemėje sudeginę bei išgrobstę, pasitraukdavo; pajutę, kad niekas jiems
+    nebesipriešina, jie išdrįsdavo net su maža kariuomene brautis į Kulmo žemę. Galop
+    magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį
+    karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele
+    kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems pastodavo
+    478  Istorijos šaltiniai rodo, kad prūsai ir lietuviai turėjo monogamines šeimas. Apie
+    daugpatystę kronikininkas galėjo rašyti dėl to, kad stengėsi pagonis pavaizduoti kaip
+    didžiausius nedorėlius.
+  citata_rodoma: "Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių \napygardų nusiaubimą ir Klemento pilies sugriovimą\nTuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras, \nkuris, šiaip jau apdairiai tvarkęs, ūkio reikalus, kur kas mažiau tiko karui (matyt, mažiau \nbuvo tam linkęs), todėl jis ir negebėjo duoti deramo atkirčio priešo išpuoliams. Dėl \nto sūduviai vis dažniau įsibraudavo į Kulmo žemę ir, smarkiai nuniokoję dievo tautą, \nviską šioje žemėje sudeginę bei išgrobstę, pasitraukdavo; pajutę, kad niekas jiems \nnebesipriešina, jie išdrįsdavo net su maža kariuomene brautis į Kulmo žemę. Galop \nmagistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį \nkarvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele \nkariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems pastodavo \n478  Istorijos šaltiniai rodo, kad prūsai ir lietuviai turėjo monogamines šeimas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60417
+    - t-197150

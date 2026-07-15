@@ -12,6 +12,9 @@ datos:
   - '2026 m.'
 date_start: '1246'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,9 +22,6 @@ tags:
   - žemė
   - jūra
   - kraštas
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -109,7 +109,6 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59897|Mstivojus]]: Mstivojus, Pomeranijos kunigaikštis, po savo žemių nusiaubimo paprašė magistro atnaujinti taikos susitarimą.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59898|Mstivojus]]: Sventopelko pirmagimis sūnus Mstivojus anksčiau buvo atiduotas kaip įkaitas.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
-- susijęs iš [[objektai/asmenys/Hanulas.md#claim-t-186207|Hanulas]]: 1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas.
 - susijęs iš [[objektai/asmenys/Jokūbas (vėliau Urbonas IV).md#claim-t-60337|Jokūbas (vėliau Urbonas IV)]]: Jokūbas, Liežo arkidiakonas ir vėlesnis popiežius Urbonas IV, sudarė sutartį tarp Sventopelko ir brolių.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63808|Kazimieras (Kujavijos kunigaikštis)]]: Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
@@ -179,67 +178,6 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59894|Mstivojus]]: Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią.
 - susijęs iš Volynės metraštis: Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino Pomeranijos hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tai
-    buvo kraštas, esąs prie Oderio žemupio Baltijos pakraštyje.
-    Taip ir Hanzos miestai, kaip Anklamas, Stralsundas, Greifsval­
-    das, Greifenbergas suteikė lietuvių ir lenkų pirkliams panašias
-    privilegijas^2 ). Kiek vėliau (1396) pats Vytautas padarė laisvos
-    prekybos sutartis su Štetino (Pomeranijos) hercogu—Rygos ar­
-    kivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  santrauka: 'Pomeranijoje, Vyslos žemupyje ir Sembos pusiasalyje pasitaikė pavienių importuotų dirbinių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dar XVI-XV amž.
-    Lietuvoje žalvario buvo tiek maža, kad visi įrankiai buvo dar akmeniniai.
-    Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas
-    kitas importuotas dirbinys. Veliuonoje surastas kotinis durklas iš žalvario
-    skirtinas apie 1400 m. pr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: '1246 m. magistras ir broliai su sąjungininkais įsiveržė į Pomeraniją ir devynias dienas bei naktis ją niokojo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
-                                            jos [vyrų]
-
-      Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą  ir kai įsakė kitiems
-    jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės
-    kančios sujaudino Vokietijos kunigaikščius bei kilminguosius, o Austrijos kunigaikštis294
-    pasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais
-    kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
-    Magistras  ir broliai su jais bei su kunigaikščiu Kazimieru  ir su savaisiais įsibrovė  į
-    Pomeranijos žemę  ir, devynetą dienų  ir naktų tai viena, tai kita kryptimi smogdami
-    stiprius  ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio,
-    kurio nebūtų nuniokoję plėšimais ir gaisrais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-004
   santrauka: 'Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -324,20 +262,18 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - id: c-68434
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
-                                            jos [vyrų]
-
-      Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą  ir kai įsakė kitiems
+    jos [vyrų]
+    Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą ir kai įsakė kitiems
     jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės
     kančios sujaudino Vokietijos kunigaikščius bei kilminguosius, o Austrijos kunigaikštis294
     pasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais
     kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
-    Magistras  ir broliai su jais bei su kunigaikščiu Kazimieru  ir su savaisiais įsibrovė  į
-    Pomeranijos žemę  ir, devynetą dienų  ir naktų tai viena, tai kita kryptimi smogdami
-    stiprius  ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio,
+    Magistras ir broliai su jais bei su kunigaikščiu Kazimieru ir su savaisiais įsibrovė į
+    Pomeranijos žemę ir, devynetą dienų ir naktų tai viena, tai kita kryptimi smogdami
+    stiprius ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio,
     kurio nebūtų nuniokoję plėšimais ir gaisrais.
   statusas: verified
   teiginio_tipas: faktas
@@ -349,15 +285,15 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - id: c-68435
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
-    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
-    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
-    bei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,
-    o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
-    Lietuvos ir Kuršo187.
+    Torunės pilyje apie XIII a. vidurį, atrodo, įsikūrė Ordino konventas.
+    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
+    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
+    rankose, ji naudota kaip gyvulininkystės dvaras.
+    Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
+    e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
+    (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
   citata_rodoma: "Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,\no prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,\nLietuvos ir Kuršo187."
   statusas: verified
   teiginio_tipas: faktas
@@ -369,20 +305,19 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - id: c-68436
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 97"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 97."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    56 (55). Apie taikos atkūrimą tarp Sventopelko ir brolių
-
-      Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis
-    Sventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis
-    sunaikinti brolius bei tikėjimo daigyną, per didelį ir gausų krikščionių kraujo praliejimą
-    pasodintą Prūsijos žemėje, dabar  it jaukus avinėlis, nuleidęs akis  ir nukoręs galvą,
-    nuolankiai paprašė brolius, kad teiktųsi jam vėl parodyti savo įprastą maloningąjį
-    palankumą. Broliai nenorėjo leistis suvedžiojami, žinodami, kad jis, bėdos prispirtas,
-    visados slepia po švelniu avinėlio kailiu lapės širdį, kupiną klastos ir suktumo, nes šitai
-    rodė įvykių raida, mat jis jau trečią kartą buvo sulaužęs priesaika patvirtintą taikos
-    sutartį.
+    1247
+    Brolis Henrikas iš Veidos, trečias Prūsijos žemės magistras, vadovavo aštuonerius
+    metus296. Jis atsivedė drauge su savimi į Prūsijos žemę kilnųjį vyrą Veidos valdovą297,
+    savo giminaitį, ir penkiasdešimt didžiai įgudusių kariauti vyrų (jie buvo tokie narsūs,
+    kad apie juos sklido garsas, jog niekas nestengė jų ieties atremti, o jų paleistos strėlės
+    visados susirasdavusios taikinį) bei daug kitų kilmingų maldininkų iš Vokietijos. Sis brolis
+    Henrikas, gavęs savo žmonos sutikimą, apsivilko Teutonų ordino vienuolio apsiaustą, o
+    ji pati įstojo į Kronsvico moterų vienuolyną298, kurį jis pats įkūrė ir aprūpino ir kuriam
+    suteikė dosnių dovanų. Tame pačiame vienuolyne po daugybės karų, kuriuose garbingai
+    kovojo, eidamas savo pareigas, kaip vėliau pasirodys, pasimirė ir palaidotas, didžiojo
+    magistro kviečiamas į kapitulą ir kelyje susirgęs.
   citata_rodoma: "Apie taikos atkūrimą tarp Sventopelko ir brolių\n\n  Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis\nSventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis\nsunaikinti brolius bei tikėjimo daigyną, per didelį ir gausų krikščionių kraujo praliejimą\npasodintą Prūsijos žemėje, dabar  it jaukus avinėlis, nuleidęs akis  ir nukoręs galvą,\nnuolankiai paprašė brolius, kad teiktųsi jam vėl parodyti savo įprastą maloningąjį\npalankumą."
   statusas: verified
   teiginio_tipas: faktas

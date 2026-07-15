@@ -43,23 +43,6 @@ media_all_json: |-
   teiginys: "J. Fijałeko „Wnuk Kiejstuta, Jan książę drohiczyński“ išspausdintas KH 28 tome 1914 m., p. 181-197."
   pagrindžia:
     - c-33758
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Fijałeko „Wnuk Kiejstuta, Jan książę drohiczyński“ išspausdintas KH 28 tome 1914 m., p. 181-197.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Fijałek, J. : _Wnuk Kiejstuta, Jan książę drohiczyński_ , KH, t. 28,
-    1914, 181-197 p. — Gersdorf, H. : _Der Deutsche Orden im Zeitalter der
-    polnisch-litauischen Union. Die Regierung des Hochmeisters Konrad Zöll­
-    ner_ (1382-90), Marburg a. L. 1956.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

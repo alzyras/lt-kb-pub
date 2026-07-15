@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Karbonka
 sukurta: '2026-07-12'
 variantai:
-  - karbonka
+  - 'karbonka'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []

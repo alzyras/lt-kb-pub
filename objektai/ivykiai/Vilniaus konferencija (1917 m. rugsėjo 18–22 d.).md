@@ -59,29 +59,6 @@ Nenurodyta
 - susijęs iš Bernas: Vilniaus konferencijai išrinkus Lietuvos Tarybą, 1917 m. lapkričio 2–10 d. Berne buvo sušaukta nauja konferencija.
 - susijęs iš [[objektai/zodynas/etnografinė siena.md#claim-t-72688|etnografinė siena]]: Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis, arba etnografinėmis, žemėmis.
 - susijęs iš [[objektai/zodynas/etnografinė siena.md#claim-t-72690|etnografinė siena]]: Okupacijos metu Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis etnografinėmis žemėmis.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilniaus konferencija programai vykdyti išrinko 20 asmenų Tarybą, kuri vėliau turėjo būti papildyta tautinių mažumų atstovais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tautinėms mažumoms turėjo būti laiduotos kultūrinės teisės.
-    Kad okupacinė valdžia visgi nesutrukdytų politinio darbo, kon-
-    ferencija sutiko pareikšti, kad, jeigu Vokietija pripažinsianti
-    Lietuvos valstybę ir taikos kongrese paremsianti jos reikalus,
-    tai Lietuva, nepakenkdama savarankiškai savo kūrybai, galė-
-    sianti sueiti į tam tikrus, dar nustatysimus santykius su Vokietija.
-    Konferencijos sudarytai programai vykdyti buvo išrinkta
-    Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti
-    tautinių mažumų atstovai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-02085

@@ -7,12 +7,12 @@ datos:
   - '1981 m.'
 date_start: '1981'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad nalepa J..
   teiginys: "J. Nalepos straipsnis apie jotvingišką Kamienne ežero vardą Suvalkų krašte paskelbtas „Rocznik Białostocki“ 15 tome."
   pagrindžia:
     - c-61825
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Nalepos straipsnis apie jotvingišką Kamienne ežero vardą Suvalkų krašte paskelbtas „Rocznik Białostocki“ 15 tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,13 @@ Dusburgietis teigia, kad nalepa J..
 - id: c-61825
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Nalepa J.. Stabo-jaćwięska nazwa jeziora Kamiennego na Suwalszczyznie.— Rocznik
-    Białostocki, Warszawa, 1981, t. 15, s. 141—149.
+    Schmalstieg W. R. An Old Prussian Grammar: The Phonology and Morphology of the
+    Three Catechisms.—London, 1974.
+    Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg
+    i.
+  citata_rodoma: "Nalepa J.. Stabo-jaćwięska nazwa jeziora Kamiennego na Suwalszczyznie.— Rocznik\nBiałostocki, Warszawa, 1981, t. 15, s. 141—149."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

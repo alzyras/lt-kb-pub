@@ -65,8 +65,8 @@ Nenurodyta
   teiginys: "Apie daugybės prūsų žūtį Neilgai trukus po to prūsų kariuomenė įsibrovė į Kulmo žemę ir ją nusiaubė, viską degindama ir plėšdama, o daugybę krikščionių išžudė."
   pagrindžia:
     - c-63010
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -76,9 +76,6 @@ Nenurodyta
     degindama ir plėšdama, o daugybę krikščionių išžudė. Galop ji priėjo Kulmo miestą, kur
     jiems pasipriešino ginkluoti miestiečiai; stoję į mūšį, jie nukovė jų vadą bei daugybę kitų
     [karių], šitaip buvo išvaduoti visi prūsų paimti į nelaisvę krikščionys.
-
-
-
 
        164 (159).
   citata_rodoma: ''
@@ -96,20 +93,16 @@ Nenurodyta
 - id: c-63010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie daugybės prūsų žūtį
-
-       Neilgai trukus po to prūsų kariuomenė įsibrovė  į Kulmo žemę ir ją nusiaubė, viską
-    degindama ir plėšdama, o daugybę krikščionių išžudė. Galop ji priėjo Kulmo miestą, kur
-    jiems pasipriešino ginkluoti miestiečiai; stoję į mūšį, jie nukovė jų vadą bei daugybę kitų
-    [karių], šitaip buvo išvaduoti visi prūsų paimti į nelaisvę krikščionys.
-
-
-
-
-       164 (159).
+    Kai šitai
+    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
+    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
+    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,
+    kiti pasitraukė nebaigę reikalo. Piktžodžiautojui Divanui nutiko taip kaip tam Heliodorui,
+    kuris, mėgindamas apiplėšti viešpaties šventyklos iždinę, krito dievo nutrenktas žemėn
+    negyvas; įėjęs į šventyklą su daugybe žygūnų ir padėjėjų, jis nesusilaukė nė iš vieno
+    pagalbos, tik neštuvais buvo išneštas laukan.
   citata_rodoma: "Apie daugybės prūsų žūtį\n\n   Neilgai trukus po to prūsų kariuomenė įsibrovė  į Kulmo žemę ir ją nusiaubė, viską\ndegindama ir plėšdama, o daugybę krikščionių išžudė. Galop ji priėjo Kulmo miestą, kur\njiems pasipriešino ginkluoti miestiečiai; stoję į mūšį, jie nukovė jų vadą bei daugybę kitų\n[karių], šitaip buvo išvaduoti visi prūsų paimti į nelaisvę krikščionys.\n\n\n\n\n   164 (159)."
   statusas: verified
   teiginio_tipas: faktas

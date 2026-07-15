@@ -62,7 +62,6 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
 - susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191137|Pitėjas Masilietis]]: Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti.
 - susijęs iš [[objektai/asmenys/Pitėjas.md#claim-t-191222|Pitėjas]]: Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -85,19 +84,21 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
 - id: c-175088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Plinijus bus pridūręs1. Priekaištaujama, kad, norint su­
+    Priekaištaujama, kad, norint su­
     skaičiuoti 6000 stadijų, reikia imti visą jūros ilgį. Aes­
     tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
     seklias vietas, kurios kartais būva apsemtos, o kartais —
     sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.
+    Sala, kurią Plinijus vadina Baltija, remdamasis visais
+    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
+    lia.
   citata_rodoma: "Aestuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,\nseklias vietas, kurios kartais būva apsemtos, o kartais —\nsausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192251
     - t-192249
+    - t-192251

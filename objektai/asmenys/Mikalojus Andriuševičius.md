@@ -35,25 +35,6 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
   teiginys: "Mikalojus Andriuševičius buvo Lietuvos Didžiosios Kunigaikštystės arklidininkas ir tarybos narys."
   pagrindžia:
     - c-83762
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mikalojus Andriuševičius buvo Lietuvos Didžiosios Kunigaikštystės arklidininkas ir tarybos narys.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jonui, Polocko............................Stanislovui Jonui Da Vai­
-    nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui
-    ir stalininkui Nikodemui Janavičiui iš Čechanovičių, Lietu­
-    vos Didžiosios Kunigaikštystės arklidininkui Mikalojui An-
-    driuševičiui ir kitiems mūsų tarybos nariams (senatoriams)
-    ir pareigūnams, nuoširdžiai ištikimiems ir mieliems.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

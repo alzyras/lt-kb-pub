@@ -9,13 +9,13 @@ datos:
   - '1127 m.'
 date_start: '1101'
 date_end: '1127'
+amziai:
+  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - upė
   - vieta
-amziai:
-  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -62,8 +62,7 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - susijęs iš [[objektai/asmenys/Saporas.md#claim-t-191461|Saporas]]: Narbuto perteikiamame istoriniame padavime persų karalius Saporas žiemojo prie Volgos vidurupio, kai Julijonas siuntė pas jį žygūnus.
 - susijęs iš [[objektai/grupes/Budinai.md#claim-t-189468|Budinai]]: Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso.
 - susijęs iš [[objektai/grupes/Roksolanai.md#claim-t-192940|Roksolanai]]: Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus Volgos žemupyje.
-- susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186783|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Pagal 1501 m. Aukso ordos ir LDK sutartį Aukso orda apie 1501 m. birželį iš Volgos ir Dono žemupio stepių persimetė į Dono aukštupį.
-- susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186793|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po Mengli-Girėjaus laimėto mūšio Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje.
+- susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186793|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po pralaimėjimo Mengli-Girėjui Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje.
 - susijęs iš Telkerzamo rankraštis apie Volgos žemupį ir Astrachanę: Narbutas rašo, kad 1811 m. rankose laikė vokišką Telkerzamo rankraštį apie Volgos žemupį ir Astrachanės apylinkes.
 - susijęs iš Araksas: Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, gyveno budinai, ir Volgos žemupį, kur jie vėliau apsigyveno.
 - susijęs iš Araksas: Pasak Narbuto, persų galybės slegiami skitai buvo nustumti nuo armėnų Arakso ir patraukė prie Volgos žemupio.
@@ -97,10 +96,9 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - susijęs iš [[objektai/autoriai/V. Suroveckis.md#claim-t-191558|V. Suroveckis]]: Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų gyvenamąsias vietas ir aprašė jų krašto ribas.
 - susijęs iš [[objektai/daiktai/Dryžuotos gūnios ir dovanos ant kupranugarių.md#claim-t-87109|Dryžuotos gūnios ir dovanos ant kupranugarių]]: Totorių chanas Jedigėjus Vytautui siųsdavo kupranugarius, apdengtus dryžuotomis gūniomis ir apkrautus dovanomis.
 - susijęs iš [[objektai/daiktai/Marmuro plokštė su graikišku užrašu.md#claim-t-193012|Marmuro plokštė su graikišku užrašu]]: Volgos žemupyje buvo rasta marmuro plokštė su graikišku užrašu ir neįvardytais ženklais.
-- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187440|Aukso orda]]: Aukso ordos chanas Sich-Achmetas po Mengli-Girėjaus pralaimėjimo ieškojo prieglobsčio Nogajų ordoje, bet vėliau grįžo į LDK.
-- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187445|Aukso orda]]: Aukso ordos chanas Sich-Achmetas po Mengli-Girėjaus pralaimėjimo ieškojo prieglobsčio Nogajų ordoje, bet vėliau grįžo į LDK.
+- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187440|Aukso orda]]: Manoma, kad Mengli-Girėjaus sumuštas Aukso ordos chanas Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje, o vėliau grįžo į LDK.
+- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187445|Aukso orda]]: Manoma, kad Mengli-Girėjaus sumuštas Aukso ordos chanas Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje, o vėliau grįžo į LDK.
 - susijęs iš [[objektai/grupes/Kolchai.md#claim-t-192953|Kolchai]]: Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijos gilumos atsikėlė į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179412|Livonijos ordinas]]: Lietuvos valdovai į kovą prieš Ordiną įtraukė visą Lietuvos Didžiąją Kunigaikštiją.
 - susijęs iš [[objektai/grupes/Roksolanai.md#claim-t-192942|Roksolanai]]: Teodoras Narbutas priima nuomonę, kad prie Rhox ir Arhox upės šakų gyvenę alanai buvo vadinami Rhox-alanais, arba roksolanais.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171400|Totoriai]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171430|Totoriai]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis.
@@ -109,7 +107,7 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78613|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78617|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Radvilos pajėgos nusiaubė Rževo, Toropeco ir Staricos apylinkes, o Ivanas IV buvo priverstas evakuoti savo šeimą ir dvarą.
 - susijęs iš [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską.md#claim-t-185592|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]: Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
-- susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186794|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po pralaimėjimo Mengli-Girėjui Sich-Achmetas ieškojo prieglobsčio Nogajų ordoje, bet 1503 m. rudenį grįžo į LDK.
+- susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186794|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po pralaimėjimo Mengli-Girėjui Sich-Achmetas ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje, o 1503 m. rudenį grįžo į LDK.
 - susijęs iš [[objektai/ivykiai/Roksolanų įsiveržimas į Meziją.md#claim-t-191051|Roksolanų įsiveržimas į Meziją]]: Narbutas, remdamasis Tacitu, 72 m. datuoja roksolanų, sarmatų genties, įsiveržimą į Meziją po dviejų romėnų kohortų nugalėjimo.
 - susijęs iš [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę.md#claim-t-185834|Vytauto šalininkų žygis į Riazanę]]: Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
 - susijęs iš Wawrzyniec Surowiecki, Slavų kilmės tyrinėjimas: Narbutas rašo, kad Wawrzyniecas Surowieckis venedų kraštuose lokalizavo senųjų slavų gyvenamąsias vietas.
@@ -138,25 +136,6 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - susijęs iš [[objektai/grupes/Kolchai.md#claim-t-192953|Kolchai]]: Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijos gilumos atsikėlė į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų.
 - susijęs iš Kaukazas: Narbutas rašo, kad kolchų kolonijos driekėsi beveik nuo Kaukazo per Volgą ir į vakarus iki Dono.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tačiau Kerim Ber­
-    dis nė trupučio nesutriko, drąsos jam teikė prisimini­
-    mai apie ankstesnę pergalę. Jis ryžtingai užpuolė su
-    kariuomene brolį netoli Volgos. Jerim Berdis mielai
-    pritarė savo krašto žmonių norui pirmiesiems stoti į
-    kovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Volgą Narbutas mini pasakodamas padavimą, kad persų karalius Saporas žiemojo prie jos vidurupio, o Julijono žygūnai keliavo per alanų kraštą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -179,32 +158,12 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Narbutas pasakoja, kad po kelių pralaimėjimų poloviečiai apie 1127 m. buvo priversti pasitraukti už Volgos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tik 1101 metais Vladimiras
-    Monomachas laimėjo didelę pergalę prieš poloviečius prie
-    Sutenio. Dar kelis kartus smarkiai sumušti, galop po
-    1121 metais patirto iš graikų sutriuškinimo buvo priversti
-    apie 1127 metus pasitraukti už Volgos. Ten jie, be abe­
-    jonės, davė pradžią daugeliui ordų, vėliau pavadintų to­
-    toriais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-168617
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 397"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tačiau Kerim Ber­
     dis nė trupučio nesutriko, drąsos jam teikė prisimini­
@@ -222,19 +181,21 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - id: c-175550
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šie buvo Padneprės
-    emporiumų graikų kolonistai, susigiminiavę su skitais ir
-    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
-    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
-    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
-    prie Volgos vidurupio, imperatorius Julijonas, taip pat
-    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
-    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
-    po to keliavo toliau per alanų kraštą. Tai pasakoja Amia-
-    nas Marcelinas1.
+    Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo
+    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
+    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
+    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
+    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
+    novės Kijevą. Nestoras irgi nusirašė visa tai.
+  citata_rodoma: "Šie buvo Padneprės\nemporiumų graikų kolonistai, susigiminiavę su skitais ir\ngyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;\nkitapus Dnepro jų kaimynai buvo alanai. Turime istorinių\npadavimų, jog, kai persų karalius Saporas žiemojo kažkur\nprie Volgos vidurupio, imperatorius Julijonas, taip pat\nbuvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,\nkurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o\npo to keliavo toliau per alanų kraštą. Tai pasakoja Amia-\nnas Marcelinas1."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -245,8 +206,7 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - id: c-175551
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 106"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tik 1101 metais Vladimiras
     Monomachas laimėjo didelę pergalę prieš poloviečius prie

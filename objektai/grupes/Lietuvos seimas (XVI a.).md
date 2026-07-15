@@ -45,26 +45,6 @@ Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau j
   teiginys: "Prieš bendrąjį unijos seimą sušauktame Lietuvos seime unijos klausimas nepasistūmėjo."
   pagrindžia:
     - c-01646
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos sei-
-    mas, tačiau jame unijos klausimas nė kiek nepasistūmėjo. Bendrasis
-    unijos seimas buvo sušauktas vos 1568 m. gale, o iš tikro susirinko
-    tik 1569 m. sausio 10 d.—1564 m. iš Varšuvos išvažiuodamas, Lietuvos
-    delegacijos pirmininkas Radvila pasisakė abejojąs, ar kraštas su-
-    tiksiąs su Lenkų reikalavimais ir su receso nuostatais. Ir iš tikro,
-    Lietuvos delegacija, atvykusi į 1569 m. seimą, vėl siūlė naujus unijos
-    projektus ir vėl reikalavo iš naujo pradėti derybas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -45,35 +45,12 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
 - susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-66557|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Henrikas Meiseno markgrafas 1236 m. atvyko į Prūsiją ir niokojo Pamedę.
 - susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-66558|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Pamedėje Henrikas, Meiseno markgrafas, puolė Reisių valsčių, naikino pilis ir privertė pamedėnus pasiduoti tikėjimui bei broliams.
 - susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66768|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    61. Apie Rizenburgo pilies bei miesto pastatymą
-
-       Tais metais Albrechtas, Pamedės vyskupas, pastatė Prūsijos žemėje Rizenburgo pilį
-    bei miestą.
-
-
-
-                62.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 237"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 237."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     61. Apie Rizenburgo pilies bei miesto pastatymą
 

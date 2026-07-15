@@ -50,8 +50,8 @@ Nenurodyta
   teiginys: "Narbutas Mėšlų bobą vadina iš namų iššluojamų šiukšlių globėja, kurios garbei šeimininkės darželiuose laikydavo mėšlo arba šiukšlių krūvą."
   pagrindžia:
     - c-172810
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Mėšlų bobą vadina iš namų iššluojamų šiukšlių globėja, kurios garbei šeimininkės darželiuose laikydavo mėšlo arba šiukšlių krūvą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -74,14 +74,15 @@ Nenurodyta
 - id: c-172810
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 146"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 146."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mėšlų boba (Mahslu Baba)
-    Deivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­
-    mininkės savo darželiuose laikydavo nedidelę mėšlo arba šiukš­
-    lių krūvą. Deivė pasirodydavo kaip labai iškaršusį ir drebanti
-    maža senutė.
+    Austėja (Austheja)
+    Deivė, bičių ir bitininkystės globėja. Jos buvo šaukiamasi
+    geidaujant iš kur nors atklydusį jaunų bičių spiečių įsivilioti į
+    savo avilius ir dreves. Ji taip pat turėjo galios saugoti bites nuo
+    kenksmingų vabzdžių ir kitų nutikimų.
+    Lasickis jos išsamiau neaiškino.
+  citata_rodoma: "Mėšlų boba (Mahslu Baba)\nDeivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­\nmininkės savo darželiuose laikydavo nedidelę mėšlo arba šiukš­\nlių krūvą. Deivė pasirodydavo kaip labai iškaršusį ir drebanti\nmaža senutė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

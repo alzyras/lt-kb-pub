@@ -43,27 +43,6 @@ Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų,
   pagrindžia:
     - c-36061
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176212|Vėliavos]]: Zyndramas iš Moškovicų kovojo prie vyriausios vėliavos, o visos sąjunginės kariuomenės vadovybė atiteko Vytautui.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tada karalius lenkų kariuomenės ve­
-    dimą atidavė Zyndramui iš Moškovicų, Krokuvos vaivadai.
-    Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie
-    vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
-    vadovybė atiteko Vytautui.
-    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
-    niku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-36061

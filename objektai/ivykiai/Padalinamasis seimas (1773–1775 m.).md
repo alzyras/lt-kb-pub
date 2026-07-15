@@ -61,57 +61,6 @@ Nenurodyta
   teiginys: "Per 1773–1775 m. padalinamąjį seimą buvo sunaikintos valstybės pajamos, išgrobsčius daugumą valstybės dvarų ir iždo pinigus."
   pagrindžia:
     - c-02002
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo metu pirmiausia
-    kraštą naikino tarpuvaldžio kovos, vėliau — Radomo konfedera-
-    cijos metu, — savo priešus persekiojanti rusų kariuomenė; pa-
-    galiau visas kraštas buvo nuteriotas Baro konfederacijos metu:
-    tada viską plėšė ir naikino ne tik būriai konfederatų ir rusų
-    kariuomenė, bet ir daugybė plėšikų gaujų (jos dažnai dėjosi
-    kovojančiais konfederatais, bet iš tikro teužsiėmė tik plėšimais).
-    Valstybės pajamos per 1773—1775 m. padalinamąjį seimą,
-    kai krašte šeimininkavo visoki rusų parsidavėliai, taip pat buvo
-    visiškai sunaikintos: daugumas valstybės dvarų buvo jų iš-
-    grobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus
-    ižde buvusius pinigus. Seimas priėmė eilę konstitucijų, kuriomis
-    Rusams pasidarbavę didikai „už nuopelnus kraštui" buvo
-    apdovanoti milžiniškomis sumomis pinigų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau jis vėl buvo suardytas per vidaus karus,
-    konfederacijas ir rusų kariuomenės nuolatinį lankymąsi Stanis-
-    lovo Augusto valdymo pirmoje pusėje. Tuo metu pirmiausia
-    kraštą naikino tarpuvaldžio kovos, vėliau — Radomo konfedera-
-    cijos metu, — savo priešus persekiojanti rusų kariuomenė; pa-
-    galiau visas kraštas buvo nuteriotas Baro konfederacijos metu:
-    tada viską plėšė ir naikino ne tik būriai konfederatų ir rusų
-    kariuomenė, bet ir daugybė plėšikų gaujų (jos dažnai dėjosi
-    kovojančiais konfederatais, bet iš tikro teužsiėmė tik plėšimais).
-    Valstybės pajamos per 1773—1775 m. padalinamąjį seimą,
-    kai krašte šeimininkavo visoki rusų parsidavėliai, taip pat buvo
-    visiškai sunaikintos: daugumas valstybės dvarų buvo jų iš-
-    grobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus
-    ižde buvusius pinigus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

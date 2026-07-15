@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 246
+tema_objektu_skaicius: 247
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 246.
+Objektų skaičius: 247.
 
 ## Kaip naudoti
 
@@ -274,3 +274,6 @@ Objektų skaičius: 246.
 - [W. Kętrzyński](../objektai/autoriai/W.%20K%C4%99trzy%C5%84ski)
 - [W. Manhardt](../objektai/autoriai/W.%20Manhardt)
 - [W. Schmidt](../objektai/autoriai/W.%20Schmidt)
+
+### Vietos
+- [Šv. Kazimiero bažnyčia](../objektai/vietos/%C5%A0v.%20Kazimiero%20ba%C5%BEny%C4%8Dia)

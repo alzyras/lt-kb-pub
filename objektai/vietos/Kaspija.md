@@ -49,38 +49,12 @@ Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meo
 - susijęs iš Mažoji Azija: Narbutas aiškina, kad gentis iš Mažosios Azijos per Juodosios ir Viduržemio jūrų pakrantes pateko į Europą ir davė pradžią pelazgams.
 - susijęs iš [[objektai/asmenys/Bojaduras.md#claim-t-191378|Bojaduras]]: 1223 m. Bojaduras su Cipnovianu vadovavo Čingischano pasiųstam būriui į vakarinę Kaspijos pakrantę užimti Samachos ir Derbento.
 - susijęs iš [[objektai/asmenys/Cipnovianas.md#claim-t-191383|Cipnovianas]]: 1223 m. Cipnovianas su Bojaduru vadovavo Čingischano kariuomenės būriui, pasiųstam užimti Samachos ir Derbento.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meotidės, tarp budinų ir prie Kaspijos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Jų kraštas derlingas, turtingas tankių miškų, o
-    didžiausiame miške yra pelkėtas, nendrėmis apaugęs
-    ežeras; šiame ežere jie gaudo ūdras ir bebrus. Senovės
-    geografai nurodo tris gelonų kolonijas: viena prie Meo-
-    tidės, kolchų kaimynystėje, antra tarp budinu, o trečia
-    prie Kaspijos3. Bet ne visos jos buvo vienu metu, nes
-    gerai matyti, jog pirmiausia, išvyti iš emporiumų, jie gy­
-    veno dešiniojoje Dnepro ir Bugo pakrantėje, kur stovėjo
-    ir Gelono miestas (apie tai kalbėsime vėliau), persikėlė
-    prie Meotidės arba į Dono žemupio apylinkes, o vėliau —
-    pas budinus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175647
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 78"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jų kraštas derlingas, turtingas tankių miškų, o
     didžiausiame miške yra pelkėtas, nendrėmis apaugęs

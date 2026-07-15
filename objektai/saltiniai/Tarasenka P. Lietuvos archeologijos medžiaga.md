@@ -10,13 +10,13 @@ datos:
   - '1928 m.'
 date_start: '1801'
 date_end: '1928'
+amziai:
+  - 'XIX'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,26 +51,15 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
   teiginys: "P. Tarasenkos „Lietuvos archeologijos medžiaga“ išleista 1928 m.; leidimo vieta citatoje nurodyta santrumpa „K.“."
   pagrindžia:
     - c-61643
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'P. Tarasenkos užfiksuota kartografinė medžiaga naudota D. Skronaitei tapatinti su vietove prie Mituvos aukštupio, Skeršpile.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    D. Skronaitę pabandyta, pasiremiant P. Tarasenkos užfiksuota kartografine medžiaga,
-    tapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile;
-    Tarasenka P., Lietuvos archeologinė medžiaga, p. 245; Mortensen H., Mortensen G., Die
-    Besiedlung..., 2, p. 185 ir žemėl.), tačiau dab. Skeršpylių k. (Veliuonos apyl. Jurbarko
-    rj.), deš. Mituvos krante prie Akmenos santakos bei toliau  į rytus piliakalnio pėdsakų
-    nerandame.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197028"></a>
+- t-003
+  global_id: t-197028
+  teiginys: "Kai šitaip paklaidžiojo dvi dienas ir kai lietuviai sugrįžo namo, broliai įsibrovė į Gardino valsčių, kur nužudė ir paėmė į nelaisvę daug žmonių; kai su dideliu grobiu traukė namo, susidūrė su būreliu lietuvių, kurie pavargę atsiliko nuo ne vieną kartą."
   pagrindžia:
-    - t-001
+    - c-61642
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'P. Tarasenkos „Lietuvos archeologijos medžiaga“ išleista 1928 m.; leidimo vieta citatoje nurodyta santrumpa „K.“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -89,29 +78,33 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
 - id: c-61642
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 202."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    D. Skronaitę pabandyta, pasiremiant P. Tarasenkos užfiksuota kartografine medžiaga,
-    tapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile;
-    Tarasenka P., Lietuvos archeologinė medžiaga, p. 245; Mortensen H., Mortensen G., Die
-    Besiedlung..., 2, p. 185 ir žemėl.), tačiau dab. Skeršpylių k. (Veliuonos apyl. Jurbarko
-    rj.), deš. Mituvos krante prie Akmenos santakos bei toliau  į rytus piliakalnio pėdsakų
-    nerandame.
+    Kai šitaip
+    paklaidžiojo dvi dienas ir kai lietuviai sugrįžo namo, broliai įsibrovė į Gardino valsčių,
+    kur nužudė ir paėmė į nelaisvę daug žmonių; kai su dideliu grobiu traukė namo, susidūrė
+    su būreliu lietuvių, kurie pavargę atsiliko nuo ne vieną kartą minėtosios karaliaus
+    kariuomenės, ir du iš jų nukovė.
+    309 (302). Apie brolio Zigfrido, didžiojo bei Prūsijos žemės magistro, mirtį
+    Tų metų kovo 5 dieną vyriausioje būstinėje Marienburge pasimirė brolis Zigfridas iš
+    Foichtvangeno, Teutonų ordino didysis magistras, o jį palaidojo Kulmenzėje, katedros
+    bažnyčioje.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-61010
+    - t-197028
 
 - id: c-61643
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928.
+    С. А. Аннинский. — М.—Л., 1938.
+    Грушевский М. Хронольопя подïй Галицько-волинськоï лïтописи.
+  citata_rodoma: "Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

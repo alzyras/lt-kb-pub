@@ -50,23 +50,6 @@ media_all_json: |-
 - susijęs iš Akta unii Polski z Litwą 1385-1791: „Akta unii Polski z Litwą 1385-1791“ išleido St. Kutrzeba ir Wł. Semkowiczius Krokuvoje 1932 m.
 - susijęs iš Akta unji: „Akta unii Polski z Litwą 1385-1791“ yra St. Kutrzebos ir Wl. Semkowicziaus parengtas 1385-1791 m. Lenkijos ir Lietuvos unijų aktų rinkinys, išleistas Krokuvoje 1932 m.
 - susijęs iš [[objektai/autoriai/Kutrzeba.md#claim-t-96054|Kutrzeba]]: St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'St. Kutrzeba 1914 m. paskelbė darbą „Unja Litwy z Polską“.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    : _Dzieje Wielkiego Księstwa Litewskiego za Ja­
-    giellonów,_ I, 1930, 11-51 p. — Kutrzeba, St. : _Unja Litwy z Polską,_
-    PiL, 1914, 452-658 p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-94033

@@ -3,6 +3,12 @@ tipas: ivykis
 pavadinimas: 'Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1265 m.'
+date_start: '1265'
+date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -72,43 +78,15 @@ Nenurodyta
   teiginys: "Rinavos valsčiaus sembai vėl atkrito nuo tikėjimo ir užpuolė Sembos vyskupo pilį Fišhauzeną."
   pagrindžia:
     - c-85354
+
+<a id="claim-t-196967"></a>
+- t-005
+  global_id: t-196967
+  teiginys: "Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė kariuomenę ir, įsibrovę į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su visu jų turtu išsivarė su."
+  pagrindžia:
+    - c-85352
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rinavos sembai mėgino pulti Fišhauzeno pilį, bet pasitraukė nepasiekę tikslo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ir štai kokie stebuklai! Kai jie pabeldė  į
-    vartus, juos apakino jų pačių nedorybė, ir jie nestengė pamatyti prieš akis kabančio
-    šikšnogalio, arba diržo, kurį patraukus kad ir mažuoju pirštu, pilies vartai būtų atsivėrę
-    ir, savaime aišku, jie būtų iš pamatų šią pilį išgriovę. Tuo tarpu dabar pamėginę pulti, jie
-    pasitraukė nepasiekę tikslo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    110 (105). Apie Rinavos valsčiaus sembų naują atskalūnybę
-
-      Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
-    sukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.
-    Todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
-    tebuvo du vyrai: vienas brolis bei jo tarnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
-
 - c-003
   santrauka: 'Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -119,9 +97,6 @@ Nenurodyta
     kariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su
     visu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion
     sugrįžo anksčiau čia viešpatavusi taika.
-
-
-
 
      112 (107).
   citata_rodoma: ''
@@ -137,32 +112,32 @@ Nenurodyta
 - id: c-85352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ir štai kokie stebuklai! Kai jie pabeldė  į
-    vartus, juos apakino jų pačių nedorybė, ir jie nestengė pamatyti prieš akis kabančio
-    šikšnogalio, arba diržo, kurį patraukus kad ir mažuoju pirštu, pilies vartai būtų atsivėrę
-    ir, savaime aišku, jie būtų iš pamatų šią pilį išgriovę. Tuo tarpu dabar pamėginę pulti, jie
-    pasitraukė nepasiekę tikslo.
+    Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
+    Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė
+    kariuomenę ir, įsibrovę į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su
+    visu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion
+    sugrįžo anksčiau čia viešpatavusi taika.
+    112 (107). Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
+    Po antrosios atskalūnybės buvo pastatyta 1265 m.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89395
+    - t-196967
 
 - id: c-85354
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     110 (105). Apie Rinavos valsčiaus sembų naują atskalūnybę
-
-      Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
+    Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
     sukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.
-    Todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
+    Todėl jie, subūrę kariuomenę,  užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
     tebuvo du vyrai: vienas brolis bei jo tarnas.
   citata_rodoma: "Apie Rinavos valsčiaus sembų naują atskalūnybę\n\n  Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,\nsukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.\nTodėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu\ntebuvo du vyrai: vienas brolis bei jo tarnas."
   statusas: verified
@@ -170,26 +145,21 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89397
     - t-89394
+    - t-89397
 
 - id: c-85356
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
-
-      Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė
-    kariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su
-    visu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion
-    sugrįžo anksčiau čia viešpatavusi taika.
-
-
-
-
-     112 (107).
+    Manoma, kad Vitlandu vadinta
+    ne tik Aismarių nerija, bet ir kontinentinė Pagudė bei Notanga, pavadinimas kildinamas
+    iš baltų vidus, plg. latvių Vidzeme (Źródła skandynawskie.., p. 107—109 — Labuda G.).
+    Semba buvo pavadinta ir vardu Weydelant (SRP, 2, p. 404), plg. Sembos vietovardžius:
+    Weyden, Wayday, Waiditen, Waidipelkis ir lie. Vaidžiai, Vaidbaliai (GAO, p. 191, 198),
+    Vaidlėnai, Vaidlonys, Vaidulioniai, Vaideliotai.
+  citata_rodoma: "111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį\n\n  Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė\nkariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su\nvisu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion\nsugrįžo anksčiau čia viešpatavusi taika.\n\n\n\n\n 112 (107)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

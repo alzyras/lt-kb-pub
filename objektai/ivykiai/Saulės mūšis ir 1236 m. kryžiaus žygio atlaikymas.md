@@ -59,29 +59,6 @@ Nenurodyta
   teiginys: "1236 m. popiežius paskelbė kryžiaus žygį prieš lietuvius, kurį žemaičiai atlaikė Saulės mūšyje."
   pagrindžia:
     - c-75222
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1236 m. popiežius paskelbė kryžiaus žygį prieš lietuvius, kurį žemaičiai atlaikė Saulės mūšyje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią
-    faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordi-
-    nas pamažu pradeda užkariauti lybius, latvius, estus, kuršius. Kovodamas
-    prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis
-    Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių
-    ordino riterius (kryžiuočius). Ši fatališka klaida daug kainuos lenkams
-    ir lietuviams – Ordinas pajungė prūsus, o 1236 m. popiežius jau skelbia
-    kryžiaus žygį prieš lietuvius. Nors žemaičiai Saulės mūšyje 1236 m. šį žygį
-    Vokiečių ordino riteris pagrobia vaiką.
-    Dail. J. Kossak, XIX a.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

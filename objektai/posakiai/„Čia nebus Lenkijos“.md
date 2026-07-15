@@ -42,12 +42,6 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
   teiginys: "Posakis „Čia nebus Lenkijos“ siejamas su caro valdžios politika po sukilimo buvusiose LDK žemėse naikinti „lenkų pradus“."
   pagrindžia:
     - c-73346
-
-<a id="claim-t-75627"></a>
-- t-002
-  global_id: t-75627
-  teiginys: "Posakis „Čia nebus Lenkijos“ siejamas su caro valdžios politika po sukilimo buvusiose LDK žemėse naikinti „lenkų pradus“."
-  pagrindžia:
     - c-73345
 - susijęs iš [[objektai/asmenys/Ivanas Rūstusis.md#claim-t-183533|Ivanas Rūstusis]]: Nuo Ivano Rūsčiojo laikų Rusijoje buvo žinoma nuostata pretenduoti į LDK žemes kaip į tariamą istorinį paveldą.
 - susijęs iš [[objektai/asmenys/Ivanas Rūstusis.md#claim-t-18932|Ivanas Rūstusis]]: Nuo Ivano Rūsčiojo laikų buvo žinoma nuostata pretenduoti į LDK žemes kaip tariamą Rusijai priklausantį paveldą.
@@ -62,54 +56,6 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
 - susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika.md#claim-t-75568|lenkų pradų naikinimo politika]]: Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.
 - susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika.md#claim-t-75569|lenkų pradų naikinimo politika]]: Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo politiką, vadintą „lenkų pradų naikinimo“ politika.
 - susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika.md#claim-t-75570|lenkų pradų naikinimo politika]]: Po sukilimo buvusiose LDK žemėse caro valdžia ėmėsi politikos, vadintos „lenkų pradų naikinimo“ politika.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Posakis „Čia nebus Lenkijos“ siejamas su caro valdžios politika po sukilimo buvusiose LDK žemėse naikinti „lenkų pradus“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    106
-    Caro valdžia: „Čia nebus Lenkijos“
-    Po sukilimo Lenkijos karalystė neteko politinės autonomi-
-    jos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadi-
-    no „lenkų pradų naikinimo“ politika. Šios politikos ideologiniu pagrindu
-    tapo nuo Ivano Rūsčiojo laikų žinoma nuostata pretenduoti į LDK žemes,
-    kaip Rusijai neva „istorinio pirmumo“ principu turintį priklausyti pavel-
-    dą. Atseit LDK iki jos pagoniškosios dalies katalikiško krikšto ir Krėvos
-    unijos su Lenkija buvo viena iš stipriausių rusų valstybių, konkuravusi su
-    Maskva dėl rusų žemių suvienijimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Posakis „Čia nebus Lenkijos“ siejamas su caro valdžios politika po sukilimo buvusiose LDK žemėse naikinti „lenkų pradus“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rudenį, traukdamasi į Lenkijos gilumą, ji susirgo ir mirė.
-
-    L I E T U V O S  I S T O R I J A
-    106
-    Caro valdžia: „Čia nebus Lenkijos“
-    Po sukilimo Lenkijos karalystė neteko politinės autonomi-
-    jos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadi-
-    no „lenkų pradų naikinimo“ politika. Šios politikos ideologiniu pagrindu
-    tapo nuo Ivano Rūsčiojo laikų žinoma nuostata pretenduoti į LDK žemes,
-    kaip Rusijai neva „istorinio pirmumo“ principu turintį priklausyti pavel-
-    dą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-73345
@@ -129,12 +75,10 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
     unijos su Lenkija buvo viena iš stipriausių rusų valstybių, konkuravusi su
     Maskva dėl rusų žemių suvienijimo.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-75627
-
 - id: c-73346
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

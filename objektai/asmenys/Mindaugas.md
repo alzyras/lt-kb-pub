@@ -27,356 +27,378 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
-media_total_count: '2'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'manuscript_depiction_of'
-media_primary_json: |-
-  {"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugas, Lietuvos karalius, vėlesnėje kronikos iliustracijoje.","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-11T02:44:28.970763+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas ant žirgo, su valdžios atributais ir skydu, ankstyvosios spaudos ar kronikos iliustracijos stiliumi.","metadataEvidence":"Pavadinimas „Mindaugas.jpg“, aprašas nurodo „Mindaugas, King of Lithuania“, kūrėjas Alexander Guagnini, data 1578, ryšys nurodytas kaip medieval chronicles depiction.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja konkretų target Mindaugą, o vaizdas atitinka istorinį valdovo atvaizdą.","isPrimary":1}
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
 media_direct_json: |-
-  [{"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugas, Lietuvos karalius, vėlesnėje kronikos iliustracijoje.","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-11T02:44:28.970763+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas ant žirgo, su valdžios atributais ir skydu, ankstyvosios spaudos ar kronikos iliustracijos stiliumi.","metadataEvidence":"Pavadinimas „Mindaugas.jpg“, aprašas nurodo „Mindaugas, King of Lithuania“, kūrėjas Alexander Guagnini, data 1578, ryšys nurodytas kaip medieval chronicles depiction.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja konkretų target Mindaugą, o vaizdas atitinka istorinį valdovo atvaizdą.","isPrimary":1},{"mediaId":"m-86fdec3bafe71ebc22164409","title":"Bistrampolis Manor 17.jpg","caption":"Bistrampolio dvare eksponuojamas Mindaugo portretas kartu su kitų Lietuvos valdovų atvaizdais.","originalTitle":"Bistrampolis Manor 17.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 5 June 2019, 19:31:54","dateStart":null,"dateEnd":null,"width":5846,"height":2339,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABistrampolis_Manor_17.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/32/Bistrampolis_Manor_17.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bistrampolis_Manor_17.jpg/1920px-Bistrampolis_Manor_17.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"bistrampolio-dvaras","label":"Bistrampolio dvaras","facetKind":"tema","confidence":0.95},{"code":"vytauto-ikonografija","label":"Vytauto ikonografija","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T20:49:11.999280+03:00","reviewedAt":"2026-07-11T20:56:26.902812+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Kairiajame paveiksle matomas karūnuotas barzdotas valdovas su užrašu „Rex Lithuaniae Mindaugus“ ir datomis 1253–1263.","metadataEvidence":"Kandidato aprašas sieja vaizdą su Bistrampolio dvaru, o automatinė peržiūra nurodo, kad fotografijoje eksponuojami Mindaugo, Vytauto ir Gedimino portretai.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Vaizde aiškiai identifikuotas Mindaugo istorinis portretas, todėl ryšys su target yra tiesioginis.","isPrimary":0}]
+  []
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugas, Lietuvos karalius, vėlesnėje kronikos iliustracijoje.","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-11T02:44:28.970763+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas ant žirgo, su valdžios atributais ir skydu, ankstyvosios spaudos ar kronikos iliustracijos stiliumi.","metadataEvidence":"Pavadinimas „Mindaugas.jpg“, aprašas nurodo „Mindaugas, King of Lithuania“, kūrėjas Alexander Guagnini, data 1578, ryšys nurodytas kaip medieval chronicles depiction.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja konkretų target Mindaugą, o vaizdas atitinka istorinį valdovo atvaizdą.","isPrimary":1},{"mediaId":"m-86fdec3bafe71ebc22164409","title":"Bistrampolis Manor 17.jpg","caption":"Bistrampolio dvare eksponuojamas Mindaugo portretas kartu su kitų Lietuvos valdovų atvaizdais.","originalTitle":"Bistrampolis Manor 17.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 5 June 2019, 19:31:54","dateStart":null,"dateEnd":null,"width":5846,"height":2339,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABistrampolis_Manor_17.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/32/Bistrampolis_Manor_17.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bistrampolis_Manor_17.jpg/1920px-Bistrampolis_Manor_17.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"bistrampolio-dvaras","label":"Bistrampolio dvaras","facetKind":"tema","confidence":0.95},{"code":"vytauto-ikonografija","label":"Vytauto ikonografija","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T20:49:11.999280+03:00","reviewedAt":"2026-07-11T20:56:26.902812+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Kairiajame paveiksle matomas karūnuotas barzdotas valdovas su užrašu „Rex Lithuaniae Mindaugus“ ir datomis 1253–1263.","metadataEvidence":"Kandidato aprašas sieja vaizdą su Bistrampolio dvaru, o automatinė peržiūra nurodo, kad fotografijoje eksponuojami Mindaugo, Vytauto ir Gedimino portretai.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Vaizde aiškiai identifikuotas Mindaugo istorinis portretas, todėl ryšys su target yra tiesioginis.","isPrimary":0}]
+  []
 ---
 # Mindaugas (valdovas, XIII a.)
 
 ## Santrauka
 
-Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos. viduryje, jos pirmasis valdovas Mindaugas net. 1253 VII 6 susikūrusios Lietuvos valstybės valdovas Mindaugas vainikuojasi karaliumi.
+1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje. Mindaugas žuvo 1263 m. dėl giminės nesantaikos, kilusios nepasitenkinus jo politika vokiečių atžvilgiu. Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams.
 
 ## Teiginiai
 
-<a id="claim-t-113898"></a>
+<a id="claim-t-10097"></a>
 - t-001
+  global_id: t-10097
+  teiginys: "Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams, o Vakarų Europos parama Ordinui sustiprėjo."
+  pagrindžia:
+    - c-179892
+    - c-42149
+
+<a id="claim-t-113898"></a>
+- t-002
   global_id: t-113898
   teiginys: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje."
   pagrindžia:
     - c-105096
+    - c-179913
 
 <a id="claim-t-113899"></a>
-- t-002
+- t-003
   global_id: t-113899
   teiginys: "Mindaugas žuvo 1263 m. dėl giminės nesantaikos, kilusios nepasitenkinus jo politika vokiečių atžvilgiu."
   pagrindžia:
     - c-36464
+    - c-179900
 
 <a id="claim-t-113900"></a>
-- t-003
+- t-004
   global_id: t-113900
   teiginys: "Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams."
   pagrindžia:
     - c-42149
+    - c-179892
 
 <a id="claim-t-113901"></a>
-- t-004
+- t-005
   global_id: t-113901
   teiginys: "Mindaugas, gelbėdamasis nuo Livonijos Ordino, buvo priverstas taikytis ir priimti katalikų tikėjimą."
   pagrindžia:
     - c-36463
-
-<a id="claim-t-113902"></a>
-- t-005
-  global_id: t-113902
-  teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, pasikrikštijęs ir 1253 m. karūnuotas karaliumi."
-  pagrindžia:
-    - c-105088
+    - c-179890
 
 <a id="claim-t-113903"></a>
-- t-006
+- t-007
   global_id: t-113903
   teiginys: "Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje."
   pagrindžia:
     - c-105105
-
-<a id="claim-t-113904"></a>
-- t-007
-  global_id: t-113904
-  teiginys: "Gediminas laiške popiežiui ir kardinolams rašė, kad karalius Mindaugas su visa tauta buvo priėmęs krikščioniškąjį tikėjimą."
-  pagrindžia:
-    - c-105087
-
-<a id="claim-t-113906"></a>
-- t-008
-  global_id: t-113906
-  teiginys: "Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą."
-  pagrindžia:
-    - c-105091
+    - c-179902
 
 <a id="claim-t-113907"></a>
-- t-009
+- t-008
   global_id: t-113907
   teiginys: "Mindaugas sukūrė ankstyvosios Lietuvos valstybę, kuri suteikė galimybę išlikti lietuvių tautai."
   pagrindžia:
     - c-105081
+    - c-179886
 
 <a id="claim-t-113908"></a>
-- t-010
+- t-009
   global_id: t-113908
   teiginys: "1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui."
   pagrindžia:
     - c-105104
+    - c-179922
 
 <a id="claim-t-113909"></a>
-- t-011
+- t-010
   global_id: t-113909
   teiginys: "1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės."
   pagrindžia:
     - c-105085
-
-<a id="claim-t-113910"></a>
-- t-012
-  global_id: t-113910
-  teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, krikštijęsis ir 1253 m. karūnuotas karaliumi."
-  pagrindžia:
-    - c-105088
+    - c-179898
 
 <a id="claim-t-113911"></a>
-- t-013
+- t-011
   global_id: t-113911
   teiginys: "Pasak eiliuotosios Livonijos kronikos, 1244 m. Mindaugas su 30 000 lietuvių nuniokojo Livonijos Ordino žemes."
   pagrindžia:
     - c-36462
+    - c-179889
 
 <a id="claim-t-113913"></a>
-- t-014
+- t-013
   global_id: t-113913
   teiginys: "Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine."
   pagrindžia:
     - c-42150
-
-<a id="claim-t-113914"></a>
-- t-015
-  global_id: t-113914
-  teiginys: "Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas."
-  pagrindžia:
-    - c-105113
-
-<a id="claim-t-113915"></a>
-- t-016
-  global_id: t-113915
-  teiginys: "Mindaugas sukūrė valstybę ir, nors laikinai, įvedė ją į Europos šalių sistemą."
-  pagrindžia:
-    - c-105091
+    - c-179891
 
 <a id="claim-t-113916"></a>
-- t-017
+- t-014
   global_id: t-113916
   teiginys: "Mindaugas, karūnavęsis per Livonijos ordiną, tapo popiežiaus vasalu ir gavo teisę į tiesiai popiežiui pavaldžią vyskupiją."
   pagrindžia:
     - c-105100
 
-<a id="claim-t-113917"></a>
-- t-018
-  global_id: t-113917
-  teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet vėliau nuo jo atkrito."
-  pagrindžia:
-    - c-105086
-
-<a id="claim-t-113919"></a>
-- t-019
-  global_id: t-113919
-  teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas ir XIII a. viduryje krikštijosi."
-  pagrindžia:
-    - c-105088
-
 <a id="claim-t-113921"></a>
-- t-020
+- t-015
   global_id: t-113921
   teiginys: "Mindaugas tapo popiežiaus, o ne imperatoriaus vasalu ir gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją."
   pagrindžia:
     - c-105100
 
-<a id="claim-t-113922"></a>
-- t-021
-  global_id: t-113922
-  teiginys: "Genealoginėje ištraukoje Mindaugas nurodomas kaip Lietuvos kunigaikštis 1240 m., Erdeno nužudytas 1263 m. arba 1265 m."
-  pagrindžia:
-    - c-105092
-
-<a id="claim-t-113923"></a>
-- t-022
-  global_id: t-113923
-  teiginys: "Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams, o Vakarų Europos parama Ordinui sustiprėjo."
-  pagrindžia:
-    - c-42149
-
-<a id="claim-t-113924"></a>
-- t-023
-  global_id: t-113924
-  teiginys: "Balińskis Gedimino laiškuose išskyrė užuominą apie karaliaus Mindaugo grįžimą prie pagonybės dėl Kryžiuočių ordino kaltės."
-  pagrindžia:
-    - c-105102
-
-<a id="claim-t-113925"></a>
-- t-024
-  global_id: t-113925
-  teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl teutonų išdavysčių nuo jo atkrito."
-  pagrindžia:
-    - c-105086
-
 <a id="claim-t-113926"></a>
-- t-025
+- t-016
   global_id: t-113926
   teiginys: "1245–1246 m. vokiečių kronikininkas Mindaugą pavadino „aukščiausiuoju karaliumi“."
   pagrindžia:
     - c-105082
+    - c-179923
 
 <a id="claim-t-113927"></a>
-- t-026
+- t-018
   global_id: t-113927
   teiginys: "Mindaugas sukūrė Lietuvos valstybę, kuri suteikė lietuvių tautai galimybę išlikti ir vėliau perimti Vakarų civilizaciją."
   pagrindžia:
     - c-105081
+    - c-179886
 
 <a id="claim-t-113928"></a>
-- t-027
+- t-019
   global_id: t-113928
   teiginys: "Teiginys apie žynių luomo nebuvimą buvo grindžiamas duomenimis apie Mindaugo ir Kęstučio dalyvavimą aukojimo apeigose."
   pagrindžia:
     - c-105095
-
-<a id="claim-t-113929"></a>
-- t-028
-  global_id: t-113929
-  teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė."
-  pagrindžia:
-    - c-105087
+    - c-179919
 
 <a id="claim-t-113930"></a>
-- t-029
+- t-020
   global_id: t-113930
   teiginys: "Dalis jotvingių žemių įėjo į Mindaugo valstybės sudėtį."
   pagrindžia:
     - c-105090
+    - c-179917
 
 <a id="claim-t-113931"></a>
-- t-030
+- t-021
   global_id: t-113931
   teiginys: "Mindaugas žuvo 1263 m. dėl giminės nesantaikos."
   pagrindžia:
     - c-36464
-
-<a id="claim-t-113933"></a>
-- t-031
-  global_id: t-113933
-  teiginys: "Gedimino laikais įsitvirtinus leniniam valdymui, buvo įgyvendintos Mindaugo politinės pastangos."
-  pagrindžia:
-    - c-105083
-
-<a id="claim-t-113934"></a>
-- t-032
-  global_id: t-113934
-  teiginys: "Balińskis teigė, kad Gedimino veiklumo dėka buvo įgyvendintos Mindaugo pastangos."
-  pagrindžia:
-    - c-105083
+    - c-179900
 
 <a id="claim-t-113935"></a>
-- t-033
+- t-022
   global_id: t-113935
   teiginys: "1259 m. Mindaugo dokumente išvardytos Dainavos, arba Jotvingijos, terrulae."
   pagrindžia:
     - c-105097
-
-<a id="claim-t-113936"></a>
-- t-034
-  global_id: t-113936
-  teiginys: "Maukoldas citatoje nurodomas kaip Mindaugo, dar vadinto Mendogu, tėvas."
-  pagrindžia:
-    - c-105098
-
-<a id="claim-t-113926"></a>
-- t-035
-  global_id: t-113926
-  teiginys: "1245–1246 m. vokiečių kronikininkas Mindaugą pavadino „aukščiausiuoju karaliumi“."
-  pagrindžia:
-    - c-105082
+    - c-179906
 
 <a id="claim-t-183560"></a>
-- t-036
+- t-023
   global_id: t-183560
   teiginys: "Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą."
   pagrindžia:
     - c-166953
+    - c-179896
+    - c-179895
 
 <a id="claim-t-184787"></a>
-- t-037
+- t-024
   global_id: t-184787
   teiginys: "Mindaugas, atgavęs Žemaitiją ir Kuršą bei nusiaubęs Sembą, sukurstė Prūsijos žmones atsimesti nuo kryžiuočių."
   pagrindžia:
     - c-168148
 
 <a id="claim-t-184788"></a>
-- t-038
+- t-025
   global_id: t-184788
-  teiginys: "Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai įsibrovė į Mazoviją."
+  teiginys: "Mindaugas, gavęs rusų paramą, didžiulių miškų takais slaptai ir netikėtai įsibrovė į Mazoviją."
   pagrindžia:
     - c-168149
 
 <a id="claim-t-184789"></a>
-- t-039
+- t-026
   global_id: t-184789
   teiginys: "Mirus Mindaugo žmonai, Daumanto žmona atvyko į Mindaugo rūmus tvarkyti šeimynos moterų ir surengti šermenų."
   pagrindžia:
     - c-168150
 
-<a id="claim-t-188583"></a>
-- t-040
-  global_id: t-188583
-  teiginys: "Narbutas Mindaugą vadina Lietuvos ir Rusios kunigaikščiu ir jo žudikais įvardija Daumantą, Treniotą bei Tautvilą."
-  pagrindžia:
-    - c-171472
-
-<a id="claim-t-188584"></a>
-- t-041
-  global_id: t-188584
-  teiginys: "Narbutas Mindaugo valdymo pradžią sieja su 1240 metais ir nuo jos skiria aiškesnės Lietuvos istorijos laikotarpį."
-  pagrindžia:
-    - c-171473
-
 <a id="claim-t-190921"></a>
-- t-042
+- t-027
   global_id: t-190921
   teiginys: "Narbutas aiškesnės Lietuvos istorijos pradžią siejo su Mindaugu ir laikotarpiu nuo 1240 iki 1386 metų."
   pagrindžia:
     - c-173803
+    - c-179894
 
 <a id="claim-t-193627"></a>
-- t-043
+- t-028
   global_id: t-193627
   teiginys: "Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos."
   pagrindžia:
     - c-176298
+    - c-179901
 
 <a id="claim-t-193628"></a>
-- t-044
+- t-029
   global_id: t-193628
   teiginys: "O sava valstybė, atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių, ateities planų garantas, pati didžiausia vertybė."
   pagrindžia:
     - c-176299
-
-<a id="claim-t-193957"></a>
-- t-045
-  global_id: t-193957
-  teiginys: "Mindaugas, patyręs, jog riteriai, ir vyskupas, ir vi sa Rygos kariauna nori jam |Tautvilai| padėti, pabūgo ir slapta nusiuntė pas Rygos magistrą Andrių 1 5 [pasiun tinius] ir davė jam daug dovanų, ir tuomi jam įsiteikė."
-  pagrindžia:
-    - c-176582
+    - c-179916
 
 <a id="claim-t-193958"></a>
-- t-046
+- t-030
   global_id: t-193958
-  teiginys: "Mindaugas kunigaikščiavo Lietuvos žemėje ir ėmė žudyti savo brolius ir savo giminaičius, o kitus išvarė iš krašto, ir ėmė pats vienas kunigaikščiauti visoje Lietuvos žemėje, ir ėmė labai didžiuotis, girtis didžia šlove bei didybe, ir nepakentė nė vieno, kuris būtų galėjęs jam paprieštarauti."
+  teiginys: "Lietuvos metraštis Mindaugą vaizduoja kaip valdovą, kuris žudė brolius ir giminaičius, kitus išvarė ir vienas kunigaikščiavo visoje Lietuvoje."
   pagrindžia:
     - c-176583
+    - c-179921
 
-<a id="claim-t-194233"></a>
-- t-047
-  global_id: t-194233
+<a id="claim-t-196564"></a>
+- t-031
+  global_id: t-196564
+  teiginys: "Pasak Kojelavičiaus, dėl nevienodo Mindaugo sūnaus Vaišelgos vardo istoriografijoje atsirado du veikiantieji asmenys."
+  pagrindžia:
+    - c-178769
+
+<a id="claim-t-196565"></a>
+- t-032
+  global_id: t-196565
+  teiginys: "Pasak Kojelavičiaus, kai kas teigė, kad Vytį kaip herbą ėmė vartoti karalius Mindaugas ir skyde pridėjo du kryžius."
+  pagrindžia:
+    - c-178770
+
+<a id="claim-t-198154"></a>
+- t-033
+  global_id: t-198154
+  teiginys: "Narbutas Mindaugą vadina Lietuvos ir Rusios kunigaikščiu ir jo žudikais įvardija Daumantą, Treniotą bei Tautvilą."
+  pagrindžia:
+    - c-179908
+
+<a id="claim-t-198158"></a>
+- t-034
+  global_id: t-198158
+  teiginys: "Gediminas laiške popiežiui ir kardinolams rašė, kad karalius Mindaugas su visa tauta buvo priėmęs krikščioniškąjį tikėjimą."
+  pagrindžia:
+    - c-179914
+
+<a id="claim-t-198161"></a>
+- t-035
+  global_id: t-198161
+  teiginys: "Lietuvos metraštis vaizduoja Mindaugą išsigandusį Tautvilos rėmėjų ir slapta pasiuntusį dovanas Rygos magistrui Andriui."
+  pagrindžia:
+    - c-179911
+
+<a id="claim-t-198163"></a>
+- t-036
+  global_id: t-198163
+  teiginys: "Balińskis Gedimino laiškuose išskyrė užuominą apie karaliaus Mindaugo grįžimą prie pagonybės dėl Kryžiuočių ordino kaltės."
+  pagrindžia:
+    - c-179915
+
+<a id="claim-t-198164"></a>
+- t-037
+  global_id: t-198164
+  teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl teutonų išdavysčių nuo jo atkrito."
+  pagrindžia:
+    - c-179897
+
+<a id="claim-t-198166"></a>
+- t-038
+  global_id: t-198166
+  teiginys: "Maukoldas citatoje nurodomas kaip Mindaugo, dar vadinto Mendogu, tėvas."
+  pagrindžia:
+    - c-179899
+
+<a id="claim-t-198168"></a>
+- t-039
+  global_id: t-198168
+  teiginys: "Balińskis teigė, kad Gedimino veiklumo dėka buvo įgyvendintos Mindaugo pastangos."
+  pagrindžia:
+    - c-179887
+
+<a id="claim-t-198170"></a>
+- t-040
+  global_id: t-198170
+  teiginys: "Mindaugas sukūrė valstybę ir, nors laikinai, įvedė ją į Europos šalių sistemą."
+  pagrindžia:
+    - c-179896
+
+<a id="claim-t-198172"></a>
+- t-041
+  global_id: t-198172
+  teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė."
+  pagrindžia:
+    - c-179914
+
+<a id="claim-t-198177"></a>
+- t-042
+  global_id: t-198177
+  teiginys: "Gedimino laikais įsitvirtinus leniniam valdymui, buvo įgyvendintos Mindaugo politinės pastangos."
+  pagrindžia:
+    - c-179887
+
+<a id="claim-t-198181"></a>
+- t-043
+  global_id: t-198181
+  teiginys: "Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas."
+  pagrindžia:
+    - c-179910
+
+<a id="claim-t-198189"></a>
+- t-044
+  global_id: t-198189
   teiginys: "Mažai težinoma mums patiems, o Europai visai negirdė ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios pagonybės."
   pagrindžia:
-    - c-176830
+    - c-179907
+
+<a id="claim-t-198191"></a>
+- t-045
+  global_id: t-198191
+  teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet vėliau nuo jo atkrito."
+  pagrindžia:
+    - c-179897
+
+<a id="claim-t-198192"></a>
+- t-046
+  global_id: t-198192
+  teiginys: "Genealoginėje ištraukoje Mindaugas nurodomas kaip Lietuvos kunigaikštis 1240 m., Erdeno nužudytas 1263 m. arba 1265 m."
+  pagrindžia:
+    - c-179888
+
+<a id="claim-t-198198"></a>
+- t-047
+  global_id: t-198198
+  teiginys: "Narbutas Mindaugo valdymo pradžią sieja su 1240 metais ir nuo jos skiria aiškesnės Lietuvos istorijos laikotarpį."
+  pagrindžia:
+    - c-179918
+
+<a id="claim-t-113902"></a>
+- t-006
+  global_id: t-113902
+  teiginys: 'Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, pasikrikštijęs ir 1253 m. karūnuotas karaliumi.'
+  pagrindžia:
+    - c-179903
+
+<a id="claim-t-113910"></a>
+- t-012
+  global_id: t-113910
+  teiginys: 'Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, krikštijęsis ir 1253 m. karūnuotas karaliumi.'
+  pagrindžia:
+    - c-179903
+
+<a id="claim-t-113919"></a>
+- t-017
+  global_id: t-113919
+  teiginys: 'Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas ir XIII a. viduryje krikštijosi.'
+  pagrindžia:
+    - c-179903
 - susijęs iš Naugardukas: Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse.
 - susijęs iš Naugardukas: Mindaugo sūnus Vaišelga buvo įkurdintas Naugarduke, o ši žemė jungta prie Lietuvos valstybės.
 - susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-13489|Mindaugo karūnacija (1253 m.)]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.
@@ -385,13 +407,12 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75375|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Priėmę stačiatikių tikėjimą lietuvių kunigaikščiai kūrėsi Rusios žemėse, kurios buvo jungiamos prie Lietuvos valstybės.
 - susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75376|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Vaišelga priėmė stačiatikių tikėjimą, o jo valdytas Naugardukas buvo jungiamas prie Lietuvos valstybės.
 - susijęs iš [[objektai/asmenys/Gedvydas.md#claim-t-40121|Gedvydas]]: 1249 m. Gedvydas neteko valdų, kai Mindaugas, stiprindamas centrinę valdžią, jas atėmė iš Vykinto, Tautvilo ir Gedvydo.
-- susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184894|Zemovitas]]: Mindaugas, padedamas rusų, įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.
+- susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184894|Zemovitas]]: Mindaugas su rusų parama įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.
 - susijęs iš [[objektai/asmenys/Andrius Štirlandas.md#claim-t-18808|Andrius Štirlandas]]: Andrių Štirlandą Mindaugas papirko, o per savo pasiuntinį popiežiui išdėstė Lietuvai naudingesnes sąlygas.
 - susijęs iš [[objektai/asmenys/Andrius Štirlandas.md#claim-t-18809|Andrius Štirlandas]]: Andrius Štirlandas buvo Livonijos ordino magistras, kurį Mindaugas patraukė į savo pusę pasinaudojęs Livonijos vidaus prieštaravimais.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05161|Daumantas (kunigaikštis, XV a.)]]: Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184683|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82252|Daumantas (kunigaikštis, XV a.)]]: Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176349|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas dar labiau sutvirtino Mindaugo įkurtą Lietuvos valstybę ir davė pradžią naujai galingai dinastijai.
 - susijęs iš [[objektai/asmenys/Gedvydas.md#claim-t-40121|Gedvydas]]: 1249 m. Gedvydas neteko valdų, kai Mindaugas, stiprindamas centrinę valdžią, jas atėmė iš Vykinto, Tautvilo ir Gedvydo.
 - susijęs iš [[objektai/asmenys/Klemensas IV.md#claim-t-183552|Klemensas IV]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.
 - susijęs iš [[objektai/asmenys/Klemensas IV.md#claim-t-19064|Klemensas IV]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.
@@ -415,7 +436,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-179567|Zenonas Ivinskis]]: Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną.
 - susijęs iš [[objektai/daiktai/A. Varno paveikslas „Mindaugo karūnacija“.md#claim-t-24535|A. Varno paveikslas „Mindaugo karūnacija“]]: A. Varno paveikslas „Mindaugo karūnacija“ vaizduoja Mindaugo vainikavimą ir buvo sukurtas 1952–1953 m.
 - susijęs iš [[objektai/daiktai/Marmurinė antkapinė lenta.md#claim-t-186857|Marmurinė antkapinė lenta]]: Iki XVII a. pradžios Agluonos vienuolyne buvo marmurinė antkapinė lenta su užrašu apie Mindaugo nužudymo vietos tradiciją.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178899|Kryžiuočių ordinas]]: Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179048|Kryžiuočių ordinas]]: Gediminas laiške popiežiui ir kardinolams kryžiuočių magistro smurtą siejo su Mindaugo atsitraukimu nuo krikščionybės.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176116|Žemaičiai]]: Zenonas Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir Mindaugo karines pajėgas prieš Ordiną.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176155|Žemaičiai]]: Pasak Eiliuotinės Livonijos kronikos, po laimėjimo žemaičiai siuntė pasiuntinius pas Mindaugą ir prašė Treniotos jį grąžinti į pagonybę.
@@ -450,7 +470,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/ivykiai/Mindaugo pasiuntinių siuntimas pas popiežių (1251 m.).md#claim-t-31454|Mindaugo pasiuntinių siuntimas pas popiežių (1251 m.)]]: 1251 m. vidurvasarį iš kurijos išėjo šeši popiežiaus raštai Mindaugui arba jo reikalu kitiems adresatams.
 - susijęs iš [[objektai/ivykiai/Mindaugo žygis į Livonijos Ordino žemes.md#claim-t-35868|Mindaugo žygis į Livonijos Ordino žemes]]: 1244 m., pasak eiliuotosios Livonijos kronikos, Mindaugas su 30 000 lietuvių nuniokojo Livonijos ordino žemes.
 - susijęs iš [[objektai/ivykiai/Mindaugo žygis į Mozūrus.md#claim-t-95971|Mindaugo žygis į Mozūrus]]: 1236 m. Mindaugas turėjo Lietuvoje pirmaujančią reikšmę ir tais metais surengė didelį žygį į Mozūrus.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186683|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare papildomai siejamas su 1251–1252 m. Mindaugo ir Danieliaus Romanovičiaus karo aprašymu.
+- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186683|Mūšis prie Jieseldos (mūšis, XIII a.)]]: 1971 m. komentare pasakojimas apie mūšį prie Jieseldos siejamas ir su 1251–1252 m. Mindaugo bei Danieliaus Romanovičiaus karo aprašymu.
 - susijęs iš [[objektai/ivykiai/Polocko užvaldymas ir Naugarduko metropolijos įkūrimas (apie 1300 m.).md#claim-t-31466|Polocko užvaldymas ir Naugarduko metropolijos įkūrimas (apie 1300 m.)]]: Apie 1300 m. Vytenis ilgam užvaldė Polocką Lietuvai, nes po Mindaugo mirties šis miestas buvo atsipalaidavęs nuo Lietuvos.
 - susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187500|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Lietuvos metraštis pasakoja, kad prie Vorutos Mindaugo kariai su arbaletais išjojo prieš vokiečius, o rusai, polovcai ir jotvingiai vaikėsi po lauką.
 - susijęs iš [[objektai/ivykiai/Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.).md#claim-t-62940|Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)]]: 1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje.
@@ -463,7 +483,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš A. Juška Mindaugo krikštas Mindaugas ir Lietuvos krikštas: A. Juškos „Mindaugo krikštas“ išspausdintas „Lux Christi“ 1951 m. 1 numeryje, o „Mindaugas ir Lietuvos krikštas“ - „Laiškuose Lietuviams“ 1951 m. 2 numeryje.
 - susijęs iš Gedimino laiškas popiežiui Jonui XXII (1323 m.): Gedimino laiške popiežiui Jonui XXII teigiama, kad Mindaugas su karalyste buvo priėmęs krikščionybę, bet dėl Teutonų ordino nuoskaudų nuo jos atkrito.
 - susijęs iš Klemenso IV bulė apie Mindaugą (1268 m.): 1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.
-- susijęs iš Mindaugo dovanojimo raštas Livonijos ordinui: 1252 m. Mindaugas pasiuntinybės akivaizdoje priėmė krikščionybę ir raštu pripažino amžiams dovanojęs Jotvingijos, Žemaitijos, Kuršo ir Veizių kraštus.
 - susijęs iš Regesta Lithuaniae: Regesta Lithuaniae Nr. 393 siejamas su 1262 m. Mindaugo organizuotu žygiu, kuriam vadovavo Treniota.
 - susijęs iš Varakauskas R. Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu (1236—1263): R. Varakausko straipsnis apie lietuvių kovą su vokiškaisiais agresoriais Mindaugo laikotarpiu paskelbtas 1958 m.
 - susijęs iš Deltuva: Ipatijaus metraštis Deltuvą prie Ukmergės mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.
@@ -479,20 +498,19 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/zodynas/kultūrinimas.md#claim-t-34300|kultūrinimas]]: Lietuvos kultūrinimas, pradėtas dar Mindaugo laikais, esą būtų sumažinęs nutautėjimo nuostolius.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176310|Algirdas (Lietuvos valdovas)]]: Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.
 - susijęs iš [[objektai/asmenys/Andrius Štirlandas.md#claim-t-183522|Andrius Štirlandas]]: Mindaugas papirko Livonijos ordino magistrą Andrių Štirlandą ir per pasiuntinį popiežiui išdėstė Lietuvai palankesnes sąlygas.
-- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184684|Daumantas (kunigaikštis, XV a.)]]: Po Mindaugo padarytos skriaudos Daumantas slėpė keršto troškimą ir slapta tardavosi su Treniota.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184685|Daumantas (kunigaikštis, XV a.)]]: Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82249|Daumantas (kunigaikštis, XV a.)]]: Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
 - susijęs iš [[objektai/asmenys/Edividas.md#claim-t-35053|Edividas]]: Mindaugo sūnėnas Edividas įsigyveno Drutske, kai Lietuvos valdžia plito Baltojoje Rusijoje.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54966|Fridrichas (Rygos arkivyskupas)]]: Vytenis laišku prašė Rygos arkivyskupo Fridricho ir popiežiaus legato Pranciškaus atsiųsti jam minoritų.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89710|Fridrichas (Rygos arkivyskupas)]]: Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam minoritų.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176337|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176342|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas valdė 1316–1341 m. ir davė vardą Gediminaičių dinastijai.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176368|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų pakirtęs Ordino egzistavimo pagrindą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176396|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176398|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas savo monarchijos galią grindė lietuvių ir rusų riterių priklausomybe aukščiausiajai feodalinei valdžiai.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-183532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188534|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas Gedimino valdymą sieja su laikotarpiu, kai Lietuvos galia ir jėga, jo vertinimu, nepaprastai išaugo.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
 - susijęs iš [[objektai/asmenys/Hanulis.md#claim-t-30259|Hanulis]]: Hanulis buvo Jogailai nusipelnęs svarbus patarėjas ir minėtas visose trijose Jogailos bei Skirgailos vardu sudarytose sutartyse.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175191|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
@@ -518,7 +536,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-05203|Traidenis (valdovas, XIII a.)]]: Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90046|Traidenis (valdovas, XIII a.)]]: Traidenis 1269-1282 m., remdamas žiemgalius, telkė jėgas kovai Prūsijoje.
 - susijęs iš [[objektai/asmenys/Treniota Vykintaitis.md#claim-t-40480|Treniota Vykintaitis]]: Tikėtina, kad Treniota Vykintaitis vadovavo lietuvių kariuomenei Durbės mūšyje.
-- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-184849|Treniota]]: Keturi Mindaugo asmeninės sargybos kariai nužudė Treniotą, kai dar nebuvo praėję nė metai nuo jo viešpatavimo pradžios.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-188644|Treniota]]: Narbutas pasakoja, kad po Mindaugo žūties dėl grobio susikivirčijęs Žemaičių Treniota nužudė Polocko kunigaikštį Tautvilą.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90062|Treniota]]: 1264 m. Mindaugo šalininkai nužudė Treniotą, o Lietuvos valdovu tapo Mindaugo sūnus Vaišelga.
 - susijęs iš [[objektai/asmenys/Vaišelga.md#claim-t-183573|Vaišelga (kunigaikštis)]]: 1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.
@@ -526,7 +543,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/asmenys/Vygandas.md#claim-t-30415|Vygandas]]: Vygandas buvo vienas iš penkių Jogailos brolių, Julijonos sūnų, paminėtų liudininkais trijose Jogailos ir Skirgailos sutartyse.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176695|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas siekė gauti karūną ir Vakarų pripažinimą.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176828|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais.
-- susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184894|Zemovitas]]: Mindaugas, padedamas rusų, įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.
+- susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184894|Zemovitas]]: Mindaugas su rusų parama įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179723|Švitrigaila]]: Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.
 - susijęs iš [[objektai/autoriai/A. Prochaska.md#claim-t-47869|A. Prochaska]]: A. Prochaska parašė „Stosunki krzyżaków z Gediminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“.
 - susijęs iš [[objektai/autoriai/A. Prochaska.md#claim-t-47871|A. Prochaska]]: A. Prochaska parašė darbus „Stosunki krzyżaków z Gedyminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“.
@@ -544,7 +561,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/daiktai/Monetos.md#claim-t-71567|Monetos]]: Nuo Vytauto laikų Lietuvoje buvo kalamos monetos.
 - susijęs iš [[objektai/daiktai/Varpai.md#claim-t-89440|Varpai]]: Nuo Vytauto laikų Lietuvoje buvo liejami varpai.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96078|Baltai]]: Mindaugas siekė padaryti Lietuvą bendrąja baltų valstybe, apimančia šiaurines ir pietvakarines baltų žemes.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178767|Jotvingiai]]: Ivinskis jotvingių sunykimą siejo su badmečių, marų ir žiaurių to meto karų poveikiu.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-187709|Jotvingiai]]: Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116741|Katalikų Bažnyčia]]: Mindaugas iš kunigo Kristijono sužinojo apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.
@@ -553,8 +569,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178883|Kryžiuočių ordinas]]: Gedimino laiške popiežiui ir kardinolams teigta, kad Mindaugą nuo krikščionybės atstūmė kryžiuočių magistro smurtas ir išdavystės.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178917|Kryžiuočių ordinas]]: Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras veikiausiai buvo Medvėgalis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179021|Kryžiuočių ordinas]]: Mindaugo laikų krikšto bandymui sutrukdė Vokiečių ordino siekis užgrobti Žemaičius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179032|Kryžiuočių ordinas]]: Prūsų ordinas priglausdavo lietuvių perbėgėlius, juos krikštydavo ir jų žemes priimdavo kaip vasalinius feodus.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184491|Kryžiuočių ordinas]]: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179242|Lietuviai]]: Mindaugo sukurta valstybė sudarė sąlygas lietuvių tautai išlikti ir vėliau perimti Vakarų civilizaciją.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179280|Lietuviai]]: Mindaugas apjungė smulkias Lietuvos, ypač Aukštaitijos, kunigaikštijas vienoje valdžioje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179323|Lietuviai]]: Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.
@@ -563,14 +577,10 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169687|Lietuvos Didžioji Kunigaikštija]]: Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169694|Lietuvos Didžioji Kunigaikštija]]: Lietuvos Didžiosios Kunigaikštijos atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179357|Livonijos ordinas]]: Mindaugo krikštas nepašalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Žemaitija.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179368|Livonijos ordinas]]: Livonijos ordinas nebenorėjo paklusti Rygos arkivyskupui, pas kurį krikštijosi Tautvilas.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179375|Livonijos ordinas]]: Nuo Mindaugo krikšto Livonijos ordinas buvo įgijęs įtakos Lietuvos vidaus santykiams.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179384|Livonijos ordinas]]: 1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179406|Livonijos ordinas]]: 1248 m. Mindaugo giminaičių opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179410|Livonijos ordinas]]: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179412|Livonijos ordinas]]: Lietuvos valdovai į kovą prieš Ordiną įtraukė visą Lietuvos Didžiąją Kunigaikštiją.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179426|Livonijos ordinas]]: Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija ir išlaikyti krikščionio valdovo statusą.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179430|Livonijos ordinas]]: Mindaugas, pasinaudodamas priešų nesantaika, kreipėsi į Livonijos ordino magistrą ir siuntė jam brangių dovanų.
 - susijęs iš [[objektai/grupes/Rogvoldovičiai.md#claim-t-86820|Rogvoldovičiai]]: Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.
 - susijęs iš [[objektai/grupes/Rygiečiai.md#claim-t-179441|Rygiečiai]]: 1253 m., Mindaugui susitaikius su Livonijos ordinu, rygiečiai išsirūpino prekybos teisę Lietuvoje.
 - susijęs iš [[objektai/grupes/Rygos vokiečiai.md#claim-t-31351|Rygos vokiečiai]]: Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais nebuvo palanki Livonijos ordino magistrui Andriui von Stirlandui.
@@ -583,9 +593,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89344|Žiemgaliai]]: Traidenis 1269-1282 m. rėmė žiemgalius ir telkė jėgas kovai Prūsijoje.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89357|Žiemgaliai]]: 1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.
 - susijęs iš [[objektai/ivykiai/1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje.md#claim-t-189636|1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje]]: Onacevičiaus periodizacijoje aiškesnės Lietuvos istorijos epocha baigiasi 1386 m., kai Jogaila vedė Jadvygą ir Lietuvoje buvo įvesta krikščionybė.
-- susijęs iš [[objektai/ivykiai/Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių.md#claim-t-185569|Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių]]: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš [[objektai/ivykiai/I Lietuvos Statuto priėmimas.md#claim-t-187472|I Lietuvos Statuto priėmimas]]: Alberto Goštauto pagyrimas Žygimantui II Kazimieraičiui buvo parašytas 1529 m. I Lietuvos Statuto priėmimo proga.
-- susijęs iš [[objektai/ivykiai/I Lietuvos Statuto priėmimas.md#claim-t-187473|I Lietuvos Statuto priėmimas]]: 1529 m. buvo priimtas I Lietuvos Statutas.
 - susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
 - susijęs iš [[objektai/ivykiai/Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai.md#claim-t-189604|Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai (krikštas, XIII–XIV a.)]]: Narbutas Mindaugo–1386 m. laikotarpį užbaigia Lietuvos krikščionybės įvedimu, Jogailos vedybomis su Jadvyga ir tautos vertimu krikštytis.
 - susijęs iš [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.).md#claim-t-71753|Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]: 1219 m. sutarties sąraše šalia vyresniųjų Lietuvos kunigų buvo išvardyti keturi vėliau nebesutinkami Deltuvos kunigai.
@@ -602,7 +610,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/ivykiai/Tautvilos nužudymas.md#claim-t-186566|Tautvilos nužudymas]]: Lietuvos metraščio pasakojimu, Prakapui išdavus Tautvilos kėslą, Treniota užbėgo Tautvilai už akių, jį nužudė ir liko kunigaikščiauti vienas.
 - susijęs iš [[objektai/ivykiai/Treniotos nužudymas (1264 m.).md#claim-t-28870|Treniotos nužudymas (1264 m.)]]: 1264 m. buvę Mindaugo dvariškiai arklininkai nužudė Treniotą, veikiausiai su Vaišvilko žinia ir pritarimu.
 - susijęs iš [[objektai/ivykiai/Treniotos nužudymas ir Vaišelgos atėjimas į valdžią.md#claim-t-77909|Treniotos nužudymas ir Vaišelgos atėjimas į valdžią]]: 1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga.
-- susijęs iš [[objektai/ivykiai/Treniotos nužudymas.md#claim-t-185776|Treniotos nužudymas]]: Keturi Mindaugą rėmę asmeninės sargybos kariai užpuolė į pirtį einantį Treniotą ir jį nužudė.
 - susijęs iš [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas.md#claim-t-176179|Vilniaus vyskupystės įkūrimas]]: Nuo pat pradžių Vilniaus vyskupas tapo centriniu Lietuvos bažnytinio gyvenimo asmeniu.
 - susijęs iš [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas.md#claim-t-176180|Vilniaus vyskupystės įkūrimas]]: 1387 m. vasario 17 d. Jogailos senelio įkurtoje sostinėje buvo pradėta kurti nauja Vilniaus vyskupija.
 - susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59725|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje.
@@ -616,7 +623,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas.md#claim-t-31531|Monetų kalimas ir pabūklų, varpų liejimas]]: Nuo Vytauto laikų Lietuvoje buvo kalamos monetos ir liejami pabūklai bei varpai.
 - susijęs iš [[objektai/paprociai/Sosto paveldėjimo principas Gediminaičių dinastijoje.md#claim-t-54349|Sosto paveldėjimo principas Gediminaičių dinastijoje]]: XIII a. pabaigoje Lietuvoje nauju reiškiniu tapo sosto paveldėjimas tos pačios giminės brolių arba sūnų linijoje.
 - susijęs iš [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose.md#claim-t-31537|Vidaus kolonizacija Sūduvos giriose]]: Po karų su kryžiuočiais pabaigos prasidėjo vidaus kolonizacija, ypač Sūduvos giriose.
-- susijęs iš [[objektai/paprociai/Viešas valdovo krikštas ir karūnavimas pagal įprastas apeigas.md#claim-t-185866|Viešas valdovo krikštas ir karūnavimas pagal įprastas apeigas (krikštas)]]: Mindaugui buvo žadėta, kad priėmus krikščionybę jis pagal apeigas bus pripažintas krikščionišku valdovu ir gaus karaliaus vardą.
 - susijęs iš [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra.md#claim-t-55161|Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]: Gedimino laikais Vilniaus miesto tvarka turėjo atitikti kitur taikytus leninio valdymo principus.
 - susijęs iš [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra.md#claim-t-55162|Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]: Pilininkai valdė miestą, vykdydami teisminę priežiūrą kartu su bendruomenės parinktu seniūnu.
 - susijęs iš [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra.md#claim-t-55163|Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]: Vilniaus kilimo pradžioje pilininkai valdė miestą ir teisminę priežiūrą vykdė su bendruomenės parinktu seniūnu.
@@ -664,7 +670,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš Dauguvos žiotys: 1202 m. Dauguvos žiotyse susikūrė Kalavijuočių ordinas, vėliau pradėjęs užkariauti lybius, latvius, estus ir kuršius.
 - susijęs iš Deltuva: Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų .
 - susijęs iš Deltuva: Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos.
-- susijęs iš Dnepras: Mindaugas pasiuntė visą savo kariuomenę už Dnepro prieš Romaną, Briansko kunigaikštį.
 - susijęs iš Dobė: 1259-1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti.
 - susijęs iš Dubysa: Priešui įsiveržus į Dubysos aukštupį, buvo aktyvuotas antrasis gynybos variantas.
 - susijęs iš Dubysa: Jogaila turėjo Prūsų kryžiuočiams užleisti Žemaičių plotą tarp Livonijos ir Prūsų iki Dubysos upės.
@@ -676,12 +681,10 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš Gudija: Ivinskis Mohilną, prie kurios Lietuvos metraštis mini 1234 m. kovą su totoriais, lokalizuoja Nemuno aukštupyje dabartinėje Gudijoje.
 - susijęs iš Haličas: Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje.
 - susijęs iš Haličas: Gedimino ar Algirdo laikais Haličas buvo Lietuvos politinėje įtakoje.
-- susijęs iš Heilsbergas: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš Juodosios jūros sritis: Prieš Algirdo mirtį plati rytų Europos valstybė pietuose apėmė Podoliją, nusitęsusią link Juodosios jūros srities stepių.
 - susijęs iš Karaliaučius: 1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.
 - susijęs iš Karaliaučius: 1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.
 - susijęs iš Karaliaučius: 1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.
-- susijęs iš Karaliaučius: Iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš Kaunas: Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
 - susijęs iš Kaunas: Makrai pasirinkus Kauną bylos sprendimo vieta, abi pusės ten pristatinėjo savo liudininkus.
 - susijęs iš Kijevas: Gedimino ar Algirdo laikais Kijevas buvo Lietuvos politinėje įtakoje.
@@ -720,7 +723,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš Naugardukas: Mindaugo sūnus Vaišelga buvo įkurdintas Naugarduke, o ši žemė jungta prie Lietuvos valstybės.
 - susijęs iš Podolija: Algirdo laikų Lietuvos valstybė pietuose apėmė plačią Podoliją, nusitęsusią link Juodosios jūros stepių.
 - susijęs iš Polockas: Vytenio ir Gedimino laikais Polockas 1307 m. buvo prijungtas prie Lietuvos kaip Baltosios Rusios dalis.
-- susijęs iš Polockas: Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
 - susijęs iš Polockas: Gedimino ar Algirdo laikais Polocko žemės telkėsi apie Lietuvą kaip politinės sistemos centrą.
 - susijęs iš Polockas: Narbutas pasakoja, kad po Mindaugo žūties Treniota nužudė Polocko Tautvilą, o bijodamas polockiečių keršto įkalino Polocko bajorus.
 - susijęs iš Prieglius: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
@@ -731,14 +733,12 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš Slanimas: Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasilaikė Slanimą ir Valkaviską.
 - susijęs iš Smolenskas: Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską.
 - susijęs iš Trakų vaivadija: Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.
-- susijęs iš Vilnius: Gedimino laikais Vilnius iš mažos gyvenvietės išaugo į miestą ir buvo pasirinktas Lietuvos karalystės sostine.
 - susijęs iš Vitebskas: Vytenio ir Gedimino laikais prie Lietuvos prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.
 - susijęs iš Voluinė: 1248 m. Mindaugo opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę.
 - susijęs iš Voluinė: Po krikšto ir karūnavimosi Mindaugas kariavo su Voluine dėl Danieliaus užgrobtų žemių.
 - susijęs iš Voluinė: Gedimino ar Algirdo laikais Voluinė buvo Lietuvos politinėje įtakoje.
 - susijęs iš Voluinė: 1340 m. Vytenio ir Gedimino laikų plėtros kontekste prie Lietuvos buvo prijungta Voluinė.
 - susijęs iš Vėluva: Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš Černigovas: Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
 - susijęs iš Žemaitija: 1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą.
 - susijęs iš Žemaitija: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
 - susijęs iš Žemaitija: Po Mindaugo krikšto Žemaitija buvo prarasta kaip etninės Lietuvos dalis, o ordinų pavojus neišnyko.
@@ -777,255 +777,10 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/zodynas/sostapilis.md#claim-t-28563|sostapilis]]: Mindaugo sostapilio ieškota keliose Žemaičių vietose.
 - susijęs iš [[objektai/zodynas/vasaliniai feodai.md#claim-t-28612|vasaliniai feodai]]: Prūsų ordinas perbėgėlių žemes priimdavo kaip vasalinius feodus ir žadėjo jas grąžinti po Lietuvos nukariavimo.
 - susijęs iš [[objektai/zodynas/vidaus kolonizacija.md#claim-t-32816|vidaus kolonizacija]]: Pasibaigus karams su kryžiuočiais, prasidėjo vidaus kolonizacija, ypač Sūduvos giriose.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176251|vietininkas]]: Vytautas panaikino svarbesnes sričių kunigaikštijas ir vietoj savarankiškų kunigaikščių paskyrė savo vietininkus.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176264|vietininkas]]: Vytautas panaikino svarbesnes sričių kunigaikštijas ir savarankiškus kunigaikščius pakeitė nuo didžiojo kunigaikščio priklausomais vietininkais.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176267|vietininkas]]: Vytautas panaikino svarbesnes sričių kunigaikštijas ir vietoj savarankiškų kunigaikščių paskyrė nuo jo priklausomus vietininkus.
 - susijęs iš [[objektai/asmenys/Andrius Štirlandas.md#claim-t-18809|Andrius Štirlandas]]: Andrius Štirlandas buvo Livonijos ordino magistras, kurį Mindaugas patraukė į savo pusę pasinaudojęs Livonijos vidaus prieštaravimais.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05161|Daumantas (kunigaikštis, XV a.)]]: Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė.
-- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184684|Daumantas (kunigaikštis, XV a.)]]: Po Mindaugo padarytos skriaudos Daumantas slėpė keršto troškimą ir slapta tardavosi su Treniota.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasak eiliuotosios Livonijos kronikos, 1244 m. Mindaugas su 30 000 lietuvių nuniokojo Livonijos Ordino žemes.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Mindaugo jau turėta Lie­
-    tuvoje jei ne aukščiausia valdžia, tai bent pirmaujanti reikšmė,
-    nes, kaip žinia, tais metais jis padaręs didelį žygį į Mozūrus.
-    1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su
-    30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-002
-  santrauka: 'Mindaugas, gelbėdamasis nuo Livonijos Ordino, buvo priverstas taikytis ir priimti katalikų tikėjimą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Gelbėdamasis Mindaugas buvo priverstas taikintis su
-    pavojingiausiu priešu — Livonijos Ordinu, o tas statė vieną
-    sąlygą — priimti katalikų tikėjimą. Ir 1250 met. Mindaugas
-    apsikrikštijo; apkrikštijo ir daug savo didikų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Mindaugo broliavimosi su
-    vokiečiais politika buvo nepatenkinta tautiškoji — pagoniš­
-    koji lietuvių partija. Dėl tos giminės nesantaikos 1263 met. ir
-    padėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas
-    nežuvo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-030
-    - t-002
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Per beveik tris dešimtmečius kryžiuočiai nukariavo visas
-    prūsų gentis. 1260 m. kilus didžiajam prūsų sukilimui, Lietuva
-    siuntė prūsams savo kariuomenę į pagalbą, tačiau, žuvus Lietuvos
-    karaliui Mindaugui, pagalba nutrūko, o Vakarų Europos parama
-    Ordinui labai sustiprėjo. 1274 m. sukilimas buvo visiškai už-
-    gniaužtas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-022
-    - t-003
-
-- c-005
-  santrauka: 'Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    vidurį pakaitomis
-    Se HA 1¢ AS-VI valdytos teritorijos
-    rkovasO, Ra domas Vepš 3 as VILNIUS@ Valstybių sostinės
-    Ye Liublinas KIJEVAS O Svarbesni miestai
-    +“ LENKI Cpelmas A a
-    25 O Ula O Miestai
-    Na [ S Horo —— Upės
-    k i
-
-    Mindaugo valdoma Lietuva iki 1263 m. Mindaugas pirmą kartą istoriniuose šaltiniuose minimas 1219 m., tais
-    metais jis kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine. 1236 m. Haličo-
-    Voluinės didysis kunigaikštis su Mindaugu derasi jau kaip su visos Lietuvos valdovu. Stiprindamas centrinę valdžią
-    Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
-    remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą. Daugelis lietuvių, žemaičių, nalšėnų, jotvingių
-    liko ištikimi Mindaugui ir jam pavyko 1254 m. galutinai nugalėti savo oponentus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    30
-    tarsi užbaigia valstybės susikūrimą, nes Lietuvą pripažino to meto pasau-
-    lis. Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai dau-
-    giausia nusipelniusių asmenybių. Mindaugas sukūrė didžiausią ankstyvo-
-    sios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių
-    tautai ir vėliau perimti Vakarų civilizaciją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-026
-
-- c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    28
-    1219 m. Lietuvoje vyriausiojo kunigaikščio dar nėra, bet 1245–1246 m.
-    vokiečių kronikininkas Mindaugą pavadina „aukščiausiuoju karaliumi“.
-    Vadinasi, Lietuva jau suvienyta. Kada tai įvyko? 1235 m. rusų metraščiai
-    mini „Mindaugo Lietuvą“. Gal tai rodytų, kad Mindaugas jau yra pajun-
-    gęs savo valdžiai kitus kunigaikščius? Tačiau jei yra Mindaugo Lietuva, tai
-    gal būta ir, tarkim, „Živinbudo“ ar „Dausprungo“ Lietuvos? Todėl linksta-
-    ma prie apytikrės datos – Lietuvos valstybė susikūrė apie 1240 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-035
-    - t-025
-
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gediminas, supamas tokių įvairių kaimyninio val­
-    dymo elementų, savo valstybėje turėdamas net dvi skirtin­
-    gų kalbų ir religijų, lietuvių ir rusų, tautas, savo naujos, per
-    jį iškilusios, monarchijos galią grindė tvirtesne negu buvo
-    ligi šiol kunigaikščių, įvairiais laikais pajungtų, sąjunga ir
-    abiejų tautų riterių priklausomybe aukščiausiajai jo feodali­
-    nei valdžiai. Vilnius, Gedimino dėka nuo mažos gyvenvie­
-    tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos
-    karalystės sostine. Valstybėje nusistovėjus leninio valdymo
-    principams, Gedimino veiklumo ir didžių jo politinių sie­
-    kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;
-    Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
-    tvarkos, kokia buvo ir kitur.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-032
-    - t-031
-
 - c-009
-  santrauka: '1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
-    tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
-    čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
-    ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
-    tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
-    Livonijos ordino magistrą Andrių Štirlandą. Per jį 1251 m. pavasarį (ar
-    vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
-    sau – karaliaus karūną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-010
-  santrauka: 'Karalius Mindaugas su visa savo karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl teutonų išdavysčių nuo jo atkrito.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jau seniai esame girdėję, kad visi krikščionių tikėjimo iš­
-    pažinėjai turi paklusti tavo valiai bei tėviškai [globai] ir kad
-    pats katalikų tikėjimas yra tvarkomas Romos bažnyčios rū­
-    pesčiu.
-    Tai ir yra priežastis, kad jūsų kilnybei šiuo laišku pareiš­
-    kiame, jog mūsų pirmtakas karalius Mindaugas su visa sa­
-    vo karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl bro­
-    lių iš teutonų namo magistro [daromų] žiaurių nuoskaudų
-    ir nesuskaičiuojamų išdavysčių jie visi nuo to tikėjimo at­
-    krito; kaip tik dėl to ir mes, deja, ligi šios dienos esame pri­
-    versti pasilikti savo senolių klaidoje.
-    Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
-    daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­
-    vyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai
-    nužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo
-    metu, kai jis, kaip viešpaties Bonifacijaus atstovas, sudarė
-    taiką bei paliaubas tarp mūsų ir teutonų namo brolių ir sa­
-    vo laišką mums atsiuntė; tačiau, kai pasiuntiniai grįžo iš po­
-    no Isamo namo, pakeliui vienus jie užmušė, kitus pakorė
-    arba privertė, kad jie patys pasiskandintų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-024
-    - t-018
-
-- c-011
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    I  KNYGA
-    Kai plėšikaujančių lietuvių gaujos, dažniausiai valdovo
-    numylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip
-    niokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­
-    ralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­
-    mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
-    jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
-    Viename jų, skirtame popiežiui ir kardinolams, Gediminas
-    prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta
-    būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­
-    ro smurtas ir nesuskaičiuojamos išdavystės greit privertu-
-    sios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­
-    mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos
-    arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­
-    riai nužudyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-028
-
-- c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo I a. po
@@ -1046,523 +801,9 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-    - t-012
-    - t-005
-
-- c-013
-  santrauka: 'Dalis jotvingių žemių įėjo į Mindaugo valstybės sudėtį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ypač glaudžiai
-    lietuviai bendradarbiavo su kaimynystėje gyvenusiais jotvingiais — dalis jų žemių
-    įėjo  į Mindaugo valstybės sudėtį31. Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
-    suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
-    norėjo padaryti Lietuvą bendrąja baltų valstybe,  į kurią įeitų šiaurinės ir pietvakarinės
-    baltų žemės (Livonija  ir Prūsija).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-029
-
-- c-014
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-
-    daugas ne tik sugebėjo sukurti valstybę, bet ir įeiti, nors laikinai, į Europos
-    šalių sistemą. Jis buvo vienintelis naujausiosios Viduramžių Europos valdo-
-    vas, sugebėjęs paversti savo tautą ir valstybę istoriniu subjektu.
-    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
-    veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
-    Mindaugą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-016
-
-- c-015
-  santrauka: 'Genealoginėje ištraukoje Mindaugas nurodomas kaip Lietuvos kunigaikštis 1240 m., Erdeno nužudytas 1263 m. arba 1265 m.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    GEDIMINAS '
-    MAUKOLDAS, kartu su
-    broliu
-    Lietuvos kunigaikštis
-    MINDAUGAS, Lietuvos
-    kunigaikštis 1240 m.,
-    Erdeno
-    nužudytas 1263 m. ar
-    1265 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-021
-
-- c-016
-  santrauka: 'Teiginys apie žynių luomo nebuvimą buvo grindžiamas duomenimis apie Mindaugo ir Kęstučio dalyvavimą aukojimo apeigose.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    171— 172). Tvirtinama, jog žynių luomo buvimą
-    neigia faktai apie vyriausiuosius aukotojus—valdovus (remiamasi duomenimis apie
-    Mindaugo, Kęstučio ir kt. dalyvavimą aukojimo apeigose).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-027
-
-- c-017
-  santrauka: '1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Štai Didžiojo prūsų sukilimo
-    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
-    Ordino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
-    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
-    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
-    sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—
-    1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
-    aktyviai rėmė, kiek leido sąlygos, prūsų  ir jotvingių—sūduvių kovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-018
-  santrauka: '1259 m. Mindaugo dokumente išvardytos Dainavos, arba Jotvingijos, terrulae.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Galbūt šis terminas buvo žinomas ir kitose prūsų, jotvingių bei
-
-    Pirma — Kulmo190 ir
-
-    lietuvių žemėse, tai rodytų, galimas daiktas, 1259 m. Mindaugo dokumentas, kuriame
-    išvardijama Dainavos, arba Jotvingijos, terrulae, tarp jų Cresmen (PUB, 1, 1, Nr. 79,
-    p. 70), atitinkančią D. territorium [...] Crasimam (D. III, 209).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-033
-
-- c-019
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tasai Dovilas ar Dovydas turėjo būti pir­
-    masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er-
-    deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
-    vas3. Didžiųjų bei dalinių kunigaikščių Riuriko ainių, kilmės
-    a
-    PyccKaH AeToriHCb cb BocKpe- Tepöyprb 1793.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-034
-
-- c-020
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O Mindaugas, karūnavęsis per Vokietijos vasalą –
-    Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto
-    gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją. Maža to,
-    po keleto metų Mindaugas gavo karaliaus vainiką visai dinastijai – po-
-    piežius leido vainikuotis ir sūnui. Visa tai – Mindaugo politikos rezulta-
-    tas. Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
-    lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
-    organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
-    toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-
-    žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
-    Livonijos delegatų nuostabai popiežius patenkino Mindaugo prašymą.
-    Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę –
-    apsisaugojo nuo politinių saitų su Šventąja Romos imperija. Šie svarūs
-    diplomatiniai laimėjimai rodo, kad Mindaugas talentingai sugebėjo pa-
-    kreipti įvykius sau naudinga linkme. Net savo priešų Mindaugas buvo
-    vadinamas išmintinguoju.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
     - t-017
-
-- c-021
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmiausia, joms priklauso užuomina apie kara­
-    liaus Mindaugo grįžimą prie pagonybės dėl kryžiuočių Or­
-    dino kaltės. Kaipgi Gediminas, sėdėdamas soste po 50 metų
-    nuo ano viešpatavimo, nebūtų žinojęs savo pirmtako atsi­
-    metimo priežasčių? O žinodamas ar nebūtų verčiau jų nu­
-    tylėjęs?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-023
-
-- c-022
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
-    jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
-    rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
-    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
-    mas ir vienintelis vainikuotas Lietuvos karalius. Mindaugo vainikavimas
-    Mindaugo karūnacija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-023
-  santrauka: 'Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    kišką etnosą, o Netimero vadovaujamiems pajudėti toliau nuo gentinės
-    santvarkos į valstybę, į kurią būtų verta traukti misionieriams. Lietuva
-    liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis
-    ir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar
-    gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo
-    laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir
-    iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą,
-    kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
-    Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
-    išpranašaus Vilniaus įkūrimą ir šlovę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+    - t-012
     - t-006
-
-- c-024
-  santrauka: 'Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    I. 48), liudija, kad XII amžiuje jau
-    būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­
-    lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi-
-    čių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus
-    valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą, sū­
-    nus Rostislavo Rogvoldovičiaus, kurį tas pats Mstislavas
-    išvijo į Graikiją. Tasai Dovilas ar Dovydas turėjo būti pir­
-    masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er-
-    deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
-    vas3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
-- c-025
-  santrauka: 'Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O naujausiajai Viduramžių Europai, taip pat ir Lietuvai teisė sa-
-    varankiškai krikštytis nepripažįstama: Europoje jau vyko kryžiaus karai.
-    Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-
-    daugas ne tik sugebėjo sukurti valstybę, bet ir įeiti, nors laikinai, į Europos
-    šalių sistemą. Jis buvo vienintelis naujausiosios Viduramžių Europos valdo-
-    vas, sugebėjęs paversti savo tautą ir valstybę istoriniu subjektu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-036
-
-- c-026
-  santrauka: 'Mindaugas, atgavęs Žemaitiją ir Kuršą bei nusiaubęs Sembą, sukurstė Prūsijos žmones atsimesti nuo kryžiuočių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ka­
-    dangi miestą gynė rinktinių karių įgula, apsuptis
-    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
-    rasta daug be galo narsių karių, kurie tiltu per Prieg­
-    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
-    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
-    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
-    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
-    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
-    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
-    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
-    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
-    kerštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-037
-
-- c-027
-  santrauka: 'Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai įsibrovė į Mazoviją.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
-    latos siaubė Mindaugo karvedžiai, ten vyko kovos prie
-    Lielvardės pilies Dauguvos pakrantėse, tačiau kokia
-    norėdamas turėti laisvesnes
-    rankas, atnaujino santarvę su rusais, ir tuo būdu tapo
-    užmegzta rusų ir lietuvių
-    vo kunigaikščio vaikaitis, palydėjo Mindaugą į žygį
-    Mazovijos žemėn. Mindaugas, susilaukęs paramos iš
-    rusų, slaptai ir netikėtai didžiulių miškų takais įsibro­
-    vė Mazovijon: jis užklupo kunigaikštį Zemovitą bei
-    jo sūnų Konradą, Jazdovo dvare nerūpestingai vasa­
-    ros karštymetyje gyvenančius su visa palyda. Metus
-    burtus, Zemovitas pakliuvo Švarnui į nelaisvę, o Kon­
-    radas — Mindaugui; pastarasis buvo draugiškai lietu­
-    vio priimtas, o jo žmonėms sumokėjus išpirką, sugrą­
-    žintas į tėvo valdas, vargšas Zemovitas tuo tarpu žu­
-    vo ruso netrukus žiauriai nukankintas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-038
-
-- c-028
-  santrauka: 'Mirus Mindaugo žmonai, Daumanto žmona atvyko į Mindaugo rūmus tvarkyti šeimynos moterų ir surengti šermenų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vargu ar prislėgti
-    krikščionys būtų kada lengviau atsikvėpę, jeigu be­
-    kylančios stabmeldžių galios nebūtų palaužusi vidaus
-    nesantarvė. Tuo laiku mirė Mindaugui žmona; šeimy­
-    nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū­
-    mus atvyko pakviesta Daumanto, Nalšios kunigaikš­
-    čio, žmona, karalienės sesuo.
-    Karalius,
-    turėdamas
-    begė­
-    diškų ketinimų, sulaužė įsta­
-    tymą jėga pamynęs moters
-    dorą, jis pasilaikė ją už
-    žmoną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-039
-
-- c-029
-  santrauka: 'Narbutas Mindaugą vadina Lietuvos ir Rusios kunigaikščiu ir jo žudikais įvardija Daumantą, Treniotą bei Tautvilą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šiojo sūnus Liu­
-    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
-    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
-    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
-    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
-    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
-    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
-    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
-    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
-    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-040
-
-- c-030
-  santrauka: 'Narbutas Mindaugo valdymo pradžią sieja su 1240 metais ir nuo jos skiria aiškesnės Lietuvos istorijos laikotarpį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    II. Abejotinos istorijos periodas, tai yra nuo nuolatinių Lie­
-    tuvos žygių i rusų kraštus (Pskovą ir Naugardą) iki 1240 metų,
-    tai yra Mindaugo valdymo.
-    III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
-    metų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-041
-
-- c-031
-  santrauka: 'Narbutas aiškesnės Lietuvos istorijos pradžią siejo su Mindaugu ir laikotarpiu nuo 1240 iki 1386 metų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    II. Abejotinos istorijos periodas, t. y. nuo nuolatinių Lietuvos žy­
-    gių į rusų kraštus (Pskovą ir Naugardą) iki 1240 metų, t. y. Min­
-    daugo valdymo.
-    III. Aiškesnė istorija — nuo Mindaugo (1240) iki 1386 metų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-042
-
-- c-032
-  santrauka: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi Lietaukos upelis, dešinysis Neries
-    intakas, tekėjo Lietuvos žemės link, ir nebūtinai pačioje Lietuvoje. Tokiu
-    atveju upelis pavadinimą turėjo gauti nuo žemės vardo, o ne atvirkščiai.
-    Šie argumentai nuginčija paplitusią versiją, bet nepaaiškina, iš kur kilęs
-    Lietuvos vardas. Šiandien mokslininkai, remdamiesi prielaida, kad Lie-
-    tuvos vardas turi būti išvestas iš etnonimo „lietuvis“, atkreipė dėmesį į
-    vietovardžius su šaknimis „leit-“ ir „liet-“ už Lietuvos ribų. Grindžiama
-    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
-    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
-    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
-    Lietuvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-043
-
-- c-033
-  santrauka: 'O sava valstybė, atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių, ateities planų garantas, pati didžiausia vertybė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    To, galų gale, jie ir buvo mokomi. O sava valstybė,
-    atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių,
-    ateities planų garantas, pati didžiausia vertybė.
-    Kauno sporto halėje 1939 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-044
-
-- c-034
-  santrauka: 'Mindaugas, patyręs, jog riteriai, ir vyskupas, ir vi sa Rygos kariauna nori jam |Tautvilai| padėti, pabūgo ir slapta nusiuntė pas Rygos magistrą Andrių 1 5 [pasiun tinius] ir davė jam daug dovanų, ir tuomi jam įsiteikė.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Rygiečiai jį priėmė su didžiausia iškilme,
-    ir jis buvo pakrikštytas.
-    54
-
-    ## Puslapis 50
-
-    Mindaugas, patyręs, jog riteriai, ir vyskupas, ir vi­
-    sa Rygos kariauna nori jam |Tautvilai| padėti, pabūgo
-    ir slapta nusiuntė pas Rygos magistrą Andrių 1 5  [pasiun­
-    tinius] ir davė jam daug dovanų, ir tuomi jam įsiteikė.
-    Mat, pasiuntė jam daug aukso ir sidabro bei gražių
-    sidabrinių ir auksinių indų ir daug žirgų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-045
-
-- c-035
-  santrauka: 'Mindaugas kunigaikščiavo Lietuvos žemėje ir ėmė žudyti savo brolius ir savo giminaičius, o kitus išvarė iš krašto, ir ėmė pats vienas kunigaikščiauti visoje Lietuvos žemėje, ir ėmė labai didžiuotis, girtis didžia šlove bei didybe, ir nepakentė nė vieno, kuris būtų galėjęs jam paprieštarauti.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Buvo šitaip. Jis kunigaikščiavo Lietuvos žemėje ir
-    ėmė žudyti savo brolius ir savo giminaičius, o kitus
-    išvarė iš krašto, ir ėmė pats vienas kunigaikščiauti vi­
-    soje Lietuvos žemėje, ir ėmė labai didžiuotis, girtis di­
-    džia šlove bei didybe, ir nepakentė nė vieno, kuris
-    būtų galėjęs jam paprieštarauti.
-    Turėjo jis sūnų Vaišvilką ir dukterį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-046
-
-- c-036
-  santrauka: 'Mažai težinoma mums patiems, o Europai visai negirdė ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios pagonybės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1836
-
-    ## Puslapis 18
-
-    ĮVADAS
-    R  ašydamas istoriją miesto, kuris bemaž du amžius buvo vie­
-    nos galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki
-    mūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios cen­
-    tras Lietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš
-    įvairių kronikų ir senųjų, archyvuose saugomų rankraščių iš­
-    rinkti padavimus, bylojančius apie Vilniaus kilmę, tas teises ir
-    daugybę privilegijų, kuriomis jo gyventojai nuo senų laikų nau­
-    dojosi, ne tik atgaivinti amžininkų atmintyje ankstesnius, kele­
-    to amžių, įvykius toje sostinėje, bet ir, kiek tema ir galimybės
-    man leido, prisidėti prie kai kurių Lietuvos istorijos įvykių aiški­
-    nimo. Mažai težinoma mums patiems, o Europai visai negirdė­
-    ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge­
-    dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija
-    menkame plote išsitenkančios Tautos, kuri pati viena, savosios
-    pagonybės atskirta nuo kitų Europos šalių, vien savo narsos dėka
-    įstengė atremti baisius mongolų antpuolius, pažaboti Rusią ir
-    nesileisti pavergiama godžiai grobuoniško Prūsijos Kryžiuočių
-    ordino. Tokie įvykiai civilizuotam pasauliui nėra neįdomūs, ta­
-    čiau, norint juos aiškiai nušviesti ir parašyti tokio vardo vertą
-    lietuvių Tautos Istoriją, be daugelio kitų sąlygų, pirmiausia rei-
-    2
-
-    ## Puslapis 19
-
-    ĮVADAS
-    kia detaliai išnarplioti atskirų šios šalies miestų, būtent jos sos­
-    tinės, istoriją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-047
 
 ## Citatos
 
@@ -1619,8 +860,8 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113931
     - t-113899
+    - t-113931
 
 - id: c-42149
   sudarytojas: "Karolis Zikaras"
@@ -1639,7 +880,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113923
     - t-113900
 
 - id: c-42150
@@ -1708,35 +948,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113937
     - t-113926
-
-- id: c-105083
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Gediminas, supamas tokių įvairių kaimyninio val­
-    dymo elementų, savo valstybėje turėdamas net dvi skirtin­
-    gų kalbų ir religijų, lietuvių ir rusų, tautas, savo naujos, per
-    jį iškilusios, monarchijos galią grindė tvirtesne negu buvo
-    ligi šiol kunigaikščių, įvairiais laikais pajungtų, sąjunga ir
-    abiejų tautų riterių priklausomybe aukščiausiajai jo feodali­
-    nei valdžiai. Vilnius, Gedimino dėka nuo mažos gyvenvie­
-    tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos
-    karalystės sostine. Valstybėje nusistovėjus leninio valdymo
-    principams, Gedimino veiklumo ir didžių jo politinių sie­
-    kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;
-    Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
-    tvarkos, kokia buvo ir kitur.
-  citata_rodoma: "Vilnius, Gedimino dėka nuo mažos gyvenvie­\ntės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos\nkaralystės sostine. Valstybėje nusistovėjus leninio valdymo\nprincipams, Gedimino veiklumo ir didžių jo politinių sie­\nkių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;\nVilnius savo kilimo pradžioje turėjo laikytis tokios pačios\ntvarkos, kokia buvo ir kitur."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-113934
-    - t-113933
 
 - id: c-105085
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1758,95 +970,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   pagrindzia:
     - t-113909
 
-- id: c-105086
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Jau seniai esame girdėję, kad visi krikščionių tikėjimo iš­
-    pažinėjai turi paklusti tavo valiai bei tėviškai [globai] ir kad
-    pats katalikų tikėjimas yra tvarkomas Romos bažnyčios rū­
-    pesčiu.
-    Tai ir yra priežastis, kad jūsų kilnybei šiuo laišku pareiš­
-    kiame, jog mūsų pirmtakas karalius Mindaugas su visa sa­
-    vo karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl bro­
-    lių iš teutonų namo magistro [daromų] žiaurių nuoskaudų
-    ir nesuskaičiuojamų išdavysčių jie visi nuo to tikėjimo at­
-    krito; kaip tik dėl to ir mes, deja, ligi šios dienos esame pri­
-    versti pasilikti savo senolių klaidoje.
-    Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
-    daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­
-    vyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai
-    nužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo
-    metu, kai jis, kaip viešpaties Bonifacijaus atstovas, sudarė
-    taiką bei paliaubas tarp mūsų ir teutonų namo brolių ir sa­
-    vo laišką mums atsiuntė; tačiau, kai pasiuntiniai grįžo iš po­
-    no Isamo namo, pakeliui vienus jie užmušė, kitus pakorė
-    arba privertė, kad jie patys pasiskandintų.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-113925
-    - t-113917
-
-- id: c-105087
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    I  KNYGA
-    Kai plėšikaujančių lietuvių gaujos, dažniausiai valdovo
-    numylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip
-    niokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­
-    ralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­
-    mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
-    jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
-    Viename jų, skirtame popiežiui ir kardinolams, Gediminas
-    prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta
-    būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­
-    ro smurtas ir nesuskaičiuojamos išdavystės greit privertu-
-    sios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­
-    mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos
-    arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­
-    riai nužudyti.
-  citata_rodoma: "Viename jų, skirtame popiežiui ir kardinolams, Gediminas\nprašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta\nbūtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­\nro smurtas ir nesuskaičiuojamos išdavystės greit privertu-\nsios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­\nmo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos\narkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­\nriai nužudyti."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-113904
-    - t-113929
-
-- id: c-105088
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
-  citata_originali: |
-    Nuo I a. po
-    Kristaus ji jau patenka į Romos ir kitų civilizacijų akiratį. Paprastai ma-
-    noma, kad iš šių proistorinių gelmių ateina tokios kultūrinės vertybės
-    kaip lietuvių kalba, tautosaka ir folkloras, taip pat lietuvių pagoniškoji
-    religija, nors šios išsikristalizavimas šiandien dažniausiai priskiriamas
-    jau valstybės kūrimosi laikams. Valstybė – Lietuvos Didžioji Kunigaikš-
-    tija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net
-
-    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
-    17
-    suspėjo krikštytis, o 1253 m. – karūnuotis
-    karaliumi.
-  citata_rodoma: "Valstybė – Lietuvos Didžioji Kunigaikš-\ntija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net\n\nĮvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S\n17\nsuspėjo krikštytis, o 1253 m."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-113919
-    - t-113910
-    - t-113902
-
 - id: c-105090
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1855,58 +978,16 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   citata_originali: |
     Ypač glaudžiai
     lietuviai bendradarbiavo su kaimynystėje gyvenusiais jotvingiais — dalis jų žemių
-    įėjo  į Mindaugo valstybės sudėtį31. Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
+    įėjo į Mindaugo valstybės sudėtį31. Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
     suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
-    norėjo padaryti Lietuvą bendrąja baltų valstybe,  į kurią įeitų šiaurinės ir pietvakarinės
-    baltų žemės (Livonija  ir Prūsija).
+    norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės
+    baltų žemės (Livonija ir Prūsija).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113930
-
-- id: c-105091
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
-  citata_originali: |
-    Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-
-    daugas ne tik sugebėjo sukurti valstybę, bet ir įeiti, nors laikinai, į Europos
-    šalių sistemą. Jis buvo vienintelis naujausiosios Viduramžių Europos valdo-
-    vas, sugebėjęs paversti savo tautą ir valstybę istoriniu subjektu.
-    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
-    veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
-    Mindaugą.
-  citata_rodoma: "Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-\ndaugas ne tik sugebėjo sukurti valstybę, bet ir įeiti, nors laikinai, į Europos \nšalių sistemą. Jis buvo vienintelis naujausiosios Viduramžių Europos valdo-\nvas, sugebėjęs paversti savo tautą ir valstybę istoriniu subjektu. \nNalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), \nveikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-113906
-    - t-113915
-
-- id: c-105092
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    GEDIMINAS '
-    MAUKOLDAS, kartu su
-    broliu
-    Lietuvos kunigaikštis
-    MINDAUGAS, Lietuvos
-    kunigaikštis 1240 m.,
-    Erdeno
-    nužudytas 1263 m. ar
-    1265 m.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-113922
 
 - id: c-105095
   autorius: "Petras Dusburgietis"
@@ -1937,7 +1018,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—
     1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
-    aktyviai rėmė, kiek leido sąlygos, prūsų  ir jotvingių—sūduvių kovą.
+    aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1965,24 +1046,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   pagrindzia:
     - t-113935
 
-- id: c-105098
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Tasai Dovilas ar Dovydas turėjo būti pir­
-    masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er-
-    deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
-    vas3. Didžiųjų bei dalinių kunigaikščių Riuriko ainių, kilmės
-    a
-    PyccKaH AeToriHCb cb BocKpe- Tepöyprb 1793.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-113936
-
 - id: c-105100
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2009,26 +1072,8 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113921
     - t-113916
-
-- id: c-105102
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Pirmiausia, joms priklauso užuomina apie kara­
-    liaus Mindaugo grįžimą prie pagonybės dėl kryžiuočių Or­
-    dino kaltės. Kaipgi Gediminas, sėdėdamas soste po 50 metų
-    nuo ano viešpatavimo, nebūtų žinojęs savo pirmtako atsi­
-    metimo priežasčių? O žinodamas ar nebūtų verčiau jų nu­
-    tylėjęs?
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-113924
+    - t-113921
 
 - id: c-105104
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2071,29 +1116,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   pagrindzia:
     - t-113903
 
-- id: c-105113
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    I. 48), liudija, kad XII amžiuje jau
-    būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­
-    lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi-
-    čių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus
-    valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą, sū­
-    nus Rostislavo Rogvoldovičiaus, kurį tas pats Mstislavas
-    išvijo į Graikiją. Tasai Dovilas ar Dovydas turėjo būti pir­
-    masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er-
-    deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
-    vas3.
-  citata_rodoma: "48), liudija, kad XII amžiuje jau \nbūta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­\nlavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi- \nčių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus \nvaldžiai, vietininkais pasikvietę Dovilą ir Maukoldą, sū­\nnus Rostislavo Rogvoldovičiaus, kurį tas pats Mstislavas \nišvijo į Graikiją. Tasai Dovilas ar Dovydas turėjo būti pir­\nmasis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er- \ndeno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­\nvas3."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-113914
-
 - id: c-166953
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2118,19 +1140,36 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   puslapiai: "PDF 104"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 104."
   citata_originali: |
-    Ka­
-    dangi miestą gynė rinktinių karių įgula, apsuptis
-    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
-    rasta daug be galo narsių karių, kurie tiltu per Prieg­
-    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
-    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
-    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
-    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
-    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
-    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
-    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
+    Šitaip kryžiuo­
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
-    kerštą.
+    kerštą. Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­
+    čionybės ir sutartu laiku, prieš pat šv. Motiejaus die­
+    ną, visame krašte išgriovė bažnyčias, o kunigus, ku-
+    nių valdovai nutarė sutelkti visas savo jėgas ir atremti
+    laukinių siautėjimą. Į pagalbą buvo sutraukta galybė
+    kariuomenės iš Vokietijos: puikiai ginkluotų karių,
+    patyrusių kariauti vadų; rodėsi, jog nieko netrūksta
+    Prūsijos ir Žemaitijos žemdirbiams išžudyti. Per No-
+    tangos kraštą įžengę į priešų žemę, jie, ketindami per­
+    kelti karo židinį į šalies gilumą, Prūsijos centre parin­
+    P rūsai
+    išsiža d a
+    k r i­
+    k ščio n ių
+    tik ė jim o ir
+    a tsim e ta
+    n u o
+    k r y ­
+    žiu o čių
+    riuos beįmanė pagauti, žiau­
+    riai nukankino; jie nepaliko
+    neišniekinę nė vienos krikš­
+    čionių
+    šventenybės,
+    kurią
+    tik valiojo pasiekti jų stai­
+    gus įsiūtis.
+  citata_rodoma: "Ka­\ndangi miestą gynė rinktinių karių įgula, apsuptis\nbuvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­\nrasta daug be galo narsių karių, kurie tiltu per Prieg­\nliaus upę atkakliai veržėsi prie miesto vartų, nepaisy­\ndami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­\nmaitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­\nnorėdamas, kad atrodytų, jog veltui puolęs Prūsiją,\nsukurstė žmones visame krašte atsimesti nuo kryžiuo­\nčių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-\nlerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­\nčiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie\nkerštą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2195,47 +1234,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   pagrindzia:
     - t-184789
 
-- id: c-171472
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 213"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
-  citata_originali: |
-    Šiojo sūnus Liu­
-    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
-    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
-    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
-    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
-    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
-    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
-    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
-    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
-    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188583
-
-- id: c-171473
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 457"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
-  citata_originali: |
-    II. Abejotinos istorijos periodas, tai yra nuo nuolatinių Lie­
-    tuvos žygių i rusų kraštus (Pskovą ir Naugardą) iki 1240 metų,
-    tai yra Mindaugo valdymo.
-    III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
-    metų.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188584
-
 - id: c-173803
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2292,30 +1290,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   pagrindzia:
     - t-193628
 
-- id: c-176582
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Rygiečiai jį priėmė su didžiausia iškilme,
-    ir jis buvo pakrikštytas.
-    54
-
-    ## Puslapis 50
-
-    Mindaugas, patyręs, jog riteriai, ir vyskupas, ir vi­
-    sa Rygos kariauna nori jam |Tautvilai| padėti, pabūgo
-    ir slapta nusiuntė pas Rygos magistrą Andrių 1 5  [pasiun­
-    tinius] ir davė jam daug dovanų, ir tuomi jam įsiteikė.
-    Mat, pasiuntė jam daug aukso ir sidabro bei gražių
-    sidabrinių ir auksinių indų ir daug žirgų.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193957
-
 - id: c-176583
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2336,7 +1310,396 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   pagrindzia:
     - t-193958
 
-- id: c-176830
+- id: c-178769
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 21"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 21."
+  citata_originali: |
+    Tuo vardu po mirties pravoslavų bažnyčia jį pa­
+    skelbė šventuoju. Dėl nevienodo Mindaugo sūnaus
+    Vaišelgos, pravoslavų vienuolio, vardo pasidarė du
+    veikiantieji asmenys. Tuo taip pat nereikia stebėtis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196564
+
+- id: c-178770
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 138"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 138."
+  citata_originali: |
+    Nuo to laiko imta vaizduoti didžiojo ku­
+    nigaikščio antspaude ne kentaurą, bet ginkluotą rai­
+    telį, kuris, iškėlęs kalaviją, vejasi priešą, šiaip žmonių
+    vadinamą Vyčiu, nors kai kas sako, jog tą herbą ėmęs
+    vartoti karalius Mindaugas,
+    L ie tu v o s d id žio jo ku -
+    kuris ir pridėjęs skyde du
+    n ig a ik ščio h erb a s
+    kryžius, pažyminčius, jog bu­
+    vęs priimtas krikščionių tikė­
+    jimas. Skirstant dalimis tėvoniją, Narimantui atiteko
+    Alšėnų pusė į rytus nuo Vilniaus, kuri driekiasi dau­
+    gelį mylių ligi Korablio upės; ši žemė vėliau gavo Al­
+    šėnų kunigaikštystės vardą, o Narimantas davė pra­
+    džią Alšėnų kunigaikščiams, kurie išmirė praėjusiame
+    amžiuje su Povilu, Vilniaus vyskupu. Giedriui buvo
+    duotos plačios valdos šiaurės pusėje: jis davė pradžią
+    kilniausiajai kunigaikščių Giedraičių šeimai, kuri mū­
+    sų laikais prarado, kaip matome, dėl įpėdinių gausybės
+    senąją galią bei kunigaikščių titulą ir nusmuko ligi
+    paprastų bajorų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196565
+
+- id: c-179886
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    30
+    tarsi užbaigia valstybės susikūrimą, nes Lietuvą pripažino to meto pasau-
+    lis. Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai dau-
+    giausia nusipelniusių asmenybių. Mindaugas sukūrė didžiausią ankstyvo-
+    sios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių
+    tautai ir vėliau perimti Vakarų civilizaciją.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179887
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Gediminas, supamas tokių įvairių kaimyninio val­
+    dymo elementų, savo valstybėje turėdamas net dvi skirtin­
+    gų kalbų ir religijų, lietuvių ir rusų, tautas, savo naujos, per
+    jį iškilusios, monarchijos galią grindė tvirtesne negu buvo
+    ligi šiol kunigaikščių, įvairiais laikais pajungtų, sąjunga ir
+    abiejų tautų riterių priklausomybe aukščiausiajai jo feodali­
+    nei valdžiai. Vilnius, Gedimino dėka nuo mažos gyvenvie­
+    tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos
+    karalystės sostine. Valstybėje nusistovėjus leninio valdymo
+    principams, Gedimino veiklumo ir didžių jo politinių sie­
+    kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;
+    Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
+    tvarkos, kokia buvo ir kitur.
+  citata_rodoma: "Vilnius, Gedimino dėka nuo mažos gyvenvie­\ntės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos\nkaralystės sostine. Valstybėje nusistovėjus leninio valdymo\nprincipams, Gedimino veiklumo ir didžių jo politinių sie­\nkių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;\nVilnius savo kilimo pradžioje turėjo laikytis tokios pačios\ntvarkos, kokia buvo ir kitur."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198168
+    - t-198177
+
+- id: c-179888
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    GEDIMINAS '
+    MAUKOLDAS, kartu su
+    broliu
+    Lietuvos kunigaikštis
+    MINDAUGAS, Lietuvos
+    kunigaikštis 1240 m.,
+    Erdeno
+    nužudytas 1263 m. ar
+    1265 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198192
+
+- id: c-179889
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Mindaugo jau turėta Lie­
+    tuvoje jei ne aukščiausia valdžia, tai bent pirmaujanti reikšmė,
+    nes, kaip žinia, tais metais jis padaręs didelį žygį į Mozūrus.
+    1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su
+    30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 ).
+  citata_rodoma: "1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su\n30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 )."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179890
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Gelbėdamasis Mindaugas buvo priverstas taikintis su
+    pavojingiausiu priešu — Livonijos Ordinu, o tas statė vieną
+    sąlygą — priimti katalikų tikėjimą. Ir 1250 met. Mindaugas
+    apsikrikštijo; apkrikštijo ir daug savo didikų.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179891
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    vidurį pakaitomis
+    Se HA 1¢ AS-VI valdytos teritorijos
+    rkovasO, Ra domas Vepš 3 as VILNIUS@ Valstybių sostinės
+    Ye Liublinas KIJEVAS O Svarbesni miestai
+    +“ LENKI Cpelmas A a
+    25 O Ula O Miestai
+    Na [ S Horo —— Upės
+    k i
+
+    Mindaugo valdoma Lietuva iki 1263 m. Mindaugas pirmą kartą istoriniuose šaltiniuose minimas 1219 m., tais
+    metais jis kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine. 1236 m. Haličo-
+    Voluinės didysis kunigaikštis su Mindaugu derasi jau kaip su visos Lietuvos valdovu. Stiprindamas centrinę valdžią
+    Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
+    remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą. Daugelis lietuvių, žemaičių, nalšėnų, jotvingių
+    liko ištikimi Mindaugui ir jam pavyko 1254 m. galutinai nugalėti savo oponentus.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179892
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Per beveik tris dešimtmečius kryžiuočiai nukariavo visas
+    prūsų gentis. 1260 m. kilus didžiajam prūsų sukilimui, Lietuva
+    siuntė prūsams savo kariuomenę į pagalbą, tačiau, žuvus Lietuvos
+    karaliui Mindaugui, pagalba nutrūko, o Vakarų Europos parama
+    Ordinui labai sustiprėjo. 1274 m. sukilimas buvo visiškai už-
+    gniaužtas.
+  citata_rodoma: "1260 m. kilus didžiajam prūsų sukilimui, Lietuva\nsiuntė prūsams savo kariuomenę į pagalbą, tačiau, žuvus Lietuvos\nkaraliui Mindaugui, pagalba nutrūko, o Vakarų Europos parama\nOrdinui labai sustiprėjo. 1274 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10097
+
+- id: c-179894
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 518"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 518."
+  citata_originali: |
+    II. Abejotinos istorijos periodas, t. y. nuo nuolatinių Lietuvos žy­
+    gių į rusų kraštus (Pskovą ir Naugardą) iki 1240 metų, t. y. Min­
+    daugo valdymo.
+    III. Aiškesnė istorija — nuo Mindaugo (1240) iki 1386 metų.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179895
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    O naujausiajai Viduramžių Europai, taip pat ir Lietuvai teisė sa-
+    varankiškai krikštytis nepripažįstama: Europoje jau vyko kryžiaus karai.
+    Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-
+    daugas ne tik sugebėjo sukurti valstybę, bet ir įeiti, nors laikinai, į Europos
+    šalių sistemą. Jis buvo vienintelis naujausiosios Viduramžių Europos valdo-
+    vas, sugebėjęs paversti savo tautą ir valstybę istoriniu subjektu.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179896
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-
+    daugas ne tik sugebėjo sukurti valstybę, bet ir įeiti, nors laikinai, į Europos
+    šalių sistemą. Jis buvo vienintelis naujausiosios Viduramžių Europos valdo-
+    vas, sugebėjęs paversti savo tautą ir valstybę istoriniu subjektu.
+    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
+    veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
+    Mindaugą.
+  citata_rodoma: "Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-\ndaugas ne tik sugebėjo sukurti valstybę, bet ir įeiti, nors laikinai, į Europos \nšalių sistemą. Jis buvo vienintelis naujausiosios Viduramžių Europos valdo-\nvas, sugebėjęs paversti savo tautą ir valstybę istoriniu subjektu. \nNalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), \nveikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198170
+
+- id: c-179897
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jau seniai esame girdėję, kad visi krikščionių tikėjimo iš­
+    pažinėjai turi paklusti tavo valiai bei tėviškai [globai] ir kad
+    pats katalikų tikėjimas yra tvarkomas Romos bažnyčios rū­
+    pesčiu.
+    Tai ir yra priežastis, kad jūsų kilnybei šiuo laišku pareiš­
+    kiame, jog mūsų pirmtakas karalius Mindaugas su visa sa­
+    vo karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl bro­
+    lių iš teutonų namo magistro [daromų] žiaurių nuoskaudų
+    ir nesuskaičiuojamų išdavysčių jie visi nuo to tikėjimo at­
+    krito; kaip tik dėl to ir mes, deja, ligi šios dienos esame pri­
+    versti pasilikti savo senolių klaidoje.
+    Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
+    daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­
+    vyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai
+    nužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo
+    metu, kai jis, kaip viešpaties Bonifacijaus atstovas, sudarė
+    taiką bei paliaubas tarp mūsų ir teutonų namo brolių ir sa­
+    vo laišką mums atsiuntė; tačiau, kai pasiuntiniai grįžo iš po­
+    no Isamo namo, pakeliui vienus jie užmušė, kitus pakorė
+    arba privertė, kad jie patys pasiskandintų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198164
+    - t-198191
+
+- id: c-179898
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
+    tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
+    čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
+    ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
+    tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
+    Livonijos ordino magistrą Andrių Štirlandą. Per jį 1251 m. pavasarį (ar
+    vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
+    sau – karaliaus karūną.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179899
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tasai Dovilas ar Dovydas turėjo būti pir­
+    masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er-
+    deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
+    vas3. Didžiųjų bei dalinių kunigaikščių Riuriko ainių, kilmės
+    a
+    PyccKaH AeToriHCb cb BocKpe- Tepöyprb 1793.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198166
+
+- id: c-179900
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Mindaugo broliavimosi su
+    vokiečiais politika buvo nepatenkinta tautiškoji — pagoniš­
+    koji lietuvių partija. Dėl tos giminės nesantaikos 1263 met. ir
+    padėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas
+    nežuvo.
+  citata_rodoma: "Dėl tos giminės nesantaikos 1263 met. ir\npadėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas\nnežuvo."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179901
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Taigi Lietaukos upelis, dešinysis Neries
+    intakas, tekėjo Lietuvos žemės link, ir nebūtinai pačioje Lietuvoje. Tokiu
+    atveju upelis pavadinimą turėjo gauti nuo žemės vardo, o ne atvirkščiai.
+    Šie argumentai nuginčija paplitusią versiją, bet nepaaiškina, iš kur kilęs
+    Lietuvos vardas. Šiandien mokslininkai, remdamiesi prielaida, kad Lie-
+    tuvos vardas turi būti išvestas iš etnonimo „lietuvis“, atkreipė dėmesį į
+    vietovardžius su šaknimis „leit-“ ir „liet-“ už Lietuvos ribų. Grindžiama
+    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
+    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
+    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
+    Lietuvos.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179902
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    kišką etnosą, o Netimero vadovaujamiems pajudėti toliau nuo gentinės
+    santvarkos į valstybę, į kurią būtų verta traukti misionieriams. Lietuva
+    liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis
+    ir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar
+    gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo
+    laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir
+    iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą,
+    kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
+    Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
+    išpranašaus Vilniaus įkūrimą ir šlovę.
+  citata_rodoma: "Lietuva \nliko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis \nir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar \ngyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo \nlaikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir \niki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą, \nkiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas \nGedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir \nišpranašaus Vilniaus įkūrimą ir šlovę."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179906
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 55-56"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 55-56."
+  citata_originali: |
+    Galbūt šis terminas buvo žinomas ir kitose prūsų, jotvingių bei
+
+    Pirma — Kulmo190 ir
+
+    lietuvių žemėse, tai rodytų, galimas daiktas, 1259 m. Mindaugo dokumentas, kuriame
+    išvardijama Dainavos, arba Jotvingijos, terrulae, tarp jų Cresmen (PUB, 1, 1, Nr. 79,
+    p. 70), atitinkančią D. territorium [...] Crasimam (D. III, 209).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179907
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
@@ -2378,7 +1741,262 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194233
+    - t-198189
+
+- id: c-179908
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
+  citata_originali: |
+    Šiojo sūnus Liu­
+    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
+    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
+    jo žudikai kunigaikščiai - Užgirio (Transilvaticus) Dauman­
+    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
+    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
+    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
+    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
+    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198154
+
+- id: c-179910
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Gediminas, supamas tokių įvairių kaimyninio val­
+    dymo elementų, savo valstybėje turėdamas net dvi skirtin­
+    gų kalbų ir religijų, lietuvių ir rusų, tautas, savo naujos, per
+    jį iškilusios, monarchijos galią grindė tvirtesne negu buvo
+    ligi šiol kunigaikščių, įvairiais laikais pajungtų, sąjunga ir
+    abiejų tautų riterių priklausomybe aukščiausiajai jo feodali­
+    nei valdžiai. Vilnius, Gedimino dėka nuo mažos gyvenvie­
+    tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos
+    karalystės sostine. Valstybėje nusistovėjus leninio valdymo
+    principams, Gedimino veiklumo ir didžių jo politinių sie­
+    kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;
+    Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
+    tvarkos, kokia buvo ir kitur.
+  citata_rodoma: "Vilnius, Gedimino dėka nuo mažos gyvenvie­\ntės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos\nkaralystės sostine. Valstybėje nusistovėjus leninio valdymo\nprincipams, Gedimino veiklumo ir didžių jo politinių sie­\nkių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;\nVilnius savo kilimo pradžioje turėjo laikytis tokios pačios\ntvarkos, kokia buvo ir kitur."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198181
+
+- id: c-179911
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Rygiečiai jį priėmė su didžiausia iškilme,
+    ir jis buvo pakrikštytas.
+    54
+
+    ## Puslapis 50
+
+    Mindaugas, patyręs, jog riteriai, ir vyskupas, ir vi­
+    sa Rygos kariauna nori jam |Tautvilai| padėti, pabūgo
+    ir slapta nusiuntė pas Rygos magistrą Andrių 1 5  [pasiun­
+    tinius] ir davė jam daug dovanų, ir tuomi jam įsiteikė.
+    Mat, pasiuntė jam daug aukso ir sidabro bei gražių
+    sidabrinių ir auksinių indų ir daug žirgų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198161
+
+- id: c-179913
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
+  citata_originali: |
+    Štai Didžiojo prūsų sukilimo
+    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
+    Ordino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
+    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
+    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
+    sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—
+    1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
+    aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179914
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    I  KNYGA
+    Kai plėšikaujančių lietuvių gaujos, dažniausiai valdovo
+    numylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip
+    niokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­
+    ralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­
+    mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
+    jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
+    Viename jų, skirtame popiežiui ir kardinolams, Gediminas
+    prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta
+    būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­
+    ro smurtas ir nesuskaičiuojamos išdavystės greit privertu-
+    sios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­
+    mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos
+    arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­
+    riai nužudyti.
+  citata_rodoma: "Viename jų, skirtame popiežiui ir kardinolams, Gediminas\nprašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta\nbūtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­\nro smurtas ir nesuskaičiuojamos išdavystės greit privertu-\nsios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­\nmo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos\narkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­\nriai nužudyti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198158
+    - t-198172
+
+- id: c-179915
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pirmiausia, joms priklauso užuomina apie kara­
+    liaus Mindaugo grįžimą prie pagonybės dėl kryžiuočių Or­
+    dino kaltės. Kaipgi Gediminas, sėdėdamas soste po 50 metų
+    nuo ano viešpatavimo, nebūtų žinojęs savo pirmtako atsi­
+    metimo priežasčių? O žinodamas ar nebūtų verčiau jų nu­
+    tylėjęs?
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198163
+
+- id: c-179916
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    To, galų gale, jie ir buvo mokomi. O sava valstybė,
+    atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių,
+    ateities planų garantas, pati didžiausia vertybė.
+    Kauno sporto halėje 1939 m.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179917
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
+  citata_originali: |
+    Ypač glaudžiai
+    lietuviai bendradarbiavo su kaimynystėje gyvenusiais jotvingiais — dalis jų žemių
+    įėjo į Mindaugo valstybės sudėtį31. Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
+    suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
+    norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės
+    baltų žemės (Livonija ir Prūsija).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179918
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
+  citata_originali: |
+    II. Abejotinos istorijos periodas, tai yra nuo nuolatinių Lie­
+    tuvos žygių i rusų kraštus (Pskovą ir Naugardą) iki 1240 metų,
+    tai yra Mindaugo valdymo.
+    III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
+    metų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198198
+
+- id: c-179919
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
+  citata_originali: |
+    171— 172). Tvirtinama, jog žynių luomo buvimą
+    neigia faktai apie vyriausiuosius aukotojus—valdovus (remiamasi duomenimis apie
+    Mindaugo, Kęstučio ir kt. dalyvavimą aukojimo apeigose).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179921
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 51."
+  citata_originali: |
+    Buvo šitaip. Jis kunigaikščiavo Lietuvos žemėje ir
+    ėmė žudyti savo brolius ir savo giminaičius, o kitus
+    išvarė iš krašto, ir ėmė pats vienas kunigaikščiauti vi­
+    soje Lietuvos žemėje, ir ėmė labai didžiuotis, girtis di­
+    džia šlove bei didybe, ir nepakentė nė vieno, kuris
+    būtų galėjęs jam paprieštarauti.
+    Turėjo jis sūnų Vaišvilką ir dukterį.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179922
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
+    jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
+    rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
+    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
+    mas ir vienintelis vainikuotas Lietuvos karalius. Mindaugo vainikavimas
+    Mindaugo karūnacija.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179923
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    28
+    1219 m. Lietuvoje vyriausiojo kunigaikščio dar nėra, bet 1245–1246 m.
+    vokiečių kronikininkas Mindaugą pavadina „aukščiausiuoju karaliumi“.
+    Vadinasi, Lietuva jau suvienyta. Kada tai įvyko? 1235 m. rusų metraščiai
+    mini „Mindaugo Lietuvą“. Gal tai rodytų, kad Mindaugas jau yra pajun-
+    gęs savo valdžiai kitus kunigaikščius? Tačiau jei yra Mindaugo Lietuva, tai
+    gal būta ir, tarkim, „Živinbudo“ ar „Dausprungo“ Lietuvos? Todėl linksta-
+    ma prie apytikrės datos – Lietuvos valstybė susikūrė apie 1240 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Morta]]

@@ -35,37 +35,13 @@ Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino
   teiginys: "Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas."
   pagrindžia:
     - c-168834
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kai Edigejus siaubė
-    Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su
-    Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir
-    Leopoldas, Austrijos erchercogas. Aptemdė vestuvių
-    džiaugsmą visuotinis žmonių nepritarimas, o Rusioje —
-    baisus pralaimėjimas, kurį, pasak žmonių, siuntęs dan­
-    gus, nes niekas neabejojo, kad ir dangus smerkė tai,
-    ką atmetė lyg susitarę žmonės. Mat visuotinę žmonių
-    nuomonę paprastai remia slaptas aukščiausiojo spren­
-    dimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-168834
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 393"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 393."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kai Edigejus siaubė
     Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su

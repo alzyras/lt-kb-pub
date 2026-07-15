@@ -75,33 +75,6 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
   pagrindžia:
     - c-23533
 
-<a id="claim-t-20813"></a>
-- t-002
-  global_id: t-20813
-  teiginys: "1991 m. rugpjūtį Tarptautiniam olimpiniam komitetui atkūrus LTOK teises, Lietuvos sportininkai tarptautinėse varžybose atstovavo savo šaliai."
-  pagrindžia:
-    - c-23533
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Daug geriausių žaidėjų (krepšininkų, futbolininkų, rankininkų) nuo
-    1988 m. išvažiavo sportuoti į užsienio klubus. Tačiau 1991 m. vasarą
-    Lietuvoje surengtose IV Pasaulio lietuvių sporto žaidynėse dalyvavo apie
-    2 tūkst. lietuvių sportininkų iš viso pasaulio. Tarptautinis olimpinis ko-
-    mitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto
-    tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių
-    šakų sporto varžybose už savo šalį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
@@ -127,4 +100,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-20813
-    - t-20814

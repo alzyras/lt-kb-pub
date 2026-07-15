@@ -59,26 +59,10 @@ Vartojamos formos: `vėlės`.
 - susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.
 - susijęs iš Pragaras: Narbutas Pragarą aiškina kaip lietuvišką peklos pavadinimą, siejamą su kankinimu ugnimi ir lietuvių kančių vaizdiniais.
 - susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
-- susijęs iš Vilnius: Laiško kopijoje pranešama, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.
 - susijęs iš [[objektai/zodynas/Kehms kernas.md#claim-t-189301|Kehms kernas]]: Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms, o žemaitiškai - kernu.
 - susijęs iš [[objektai/zodynas/Pragaras pekla.md#claim-t-189319|Pragaras pekla]]: Narbutas iš padavimų spėjo, kad lietuviai įsivaizdavo rojų ir peklą, o žodį „Pragaras“ siejo su kankinimu ugnimi.
 - susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-12418|Aisčių laidotuvių ir vėlinių apeigos]]: Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus.
 - susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-192097|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pagal jų nuomonę dorieji žmonės lig palaidojus stačiai ėję į dangų, bet nedorieji, kurie piktai elgęsi ant svieto, ir nelaikšiai^699 , kurie sau gyvybą nelaiku atėmę, tiems mirus, jų dūšios ėjusios į gyvulių ir kitų gyvių kūnus arba į medžius, ežerus ir upes, kurios tenai kentėjusios neturtą ir badą lig rako, nuo dievo joms paženklinto, kuriam atėjus, galėjusios išeiti iš to kūno ir apsireikšti gentims ar svetimiems, palikdamos kokį noris jiems ženklą, kartais daiktą, su savim palaidotą, kartais įkirsdamos į slenkstį arba į vartus. Tokioj dingsty mokėję žyniai, taip vadinami kunigai, išsijautoti^700 nuo vėlės, ko ji reikalavusi dėl savo išganymo; vadino tokias dūšias vėlėmis nuo to,
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-09767

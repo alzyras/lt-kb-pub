@@ -43,52 +43,22 @@ Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodės
   pagrindžia:
     - c-59741
 
-<a id="claim-t-59109"></a>
-- t-002
-  global_id: t-59109
-  teiginys: "Petras Dusburgietis Konradą Žaką apibūdino kaip itin švelnų ir malonų žmogų, apie kurį buvo galima sakyti, kad jį mylėjo ir Dievas, ir žmonės."
-  pagrindžia:
-    - c-59741
-
 <a id="claim-t-194469"></a>
-- t-003
+- t-002
   global_id: t-194469
   teiginys: "Jis garsėjo kaip itin švelnus žmogus, visiems rodėsi toks malonus, jog apie jį tikrai buvo galima sakyti, kad jį mylėjo ir dievas, ir žmonės."
   pagrindžia:
     - c-59741
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
-
-       Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus. Jis
-    garsėjo kaip itin švelnus žmogus, visiems rodėsi toks malonus, jog apie jį tikrai buvo
-    galima sakyti, kad jį mylėjo ir dievas, ir žmonės. Pailsęs nuo rūpesčių ir palaužtas negalės,
-    ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia
-    pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 
 - id: c-59741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 194"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
-
-       Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus. Jis
+    Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus. Jis
     garsėjo kaip itin švelnus žmogus, visiems rodėsi toks malonus, jog apie jį tikrai buvo
     galima sakyti, kad jį mylėjo ir dievas, ir žmonės. Pailsęs nuo rūpesčių ir palaužtas negalės,
     ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia
@@ -99,5 +69,4 @@ Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodės
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59109
-    - t-184032
     - t-194469

@@ -58,39 +58,6 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
   teiginys: "1945 m. gegužės 7 d. Dzūkų grupės įsakymas Nr. 1 buvo skirtas tik žaliukų dalinių vadams vykdyti ir žinoti."
   pagrindžia:
     - c-11215
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1945 m. gegužės 7 d. Dzūkų grupės įsakymas Nr. 1 buvo skirtas tik žaliukų dalinių vadams vykdyti ir žinoti.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš 1945 m. gegužės 7 d. Dzūkų
-    grupės įsakymo Nr. 1. žaliukų vadams:
-    „Vykdyti ir žinoti tik žaliukų dalinių va-
-    dams [...]
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Dzūkų grupės įsakyme nurodyta, kad atskiri žaliukų daliniai vadinti jų vadų slapyvardžių būriais, pavyzdžiui, Perkūno ar Šarūno būriu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Dabar veikiantieji atskiri žaliukų dali-
-    niai vadinasi atatinkamai jų vadų sla-
-    pyvardžio būriais, pav., Perkūno būrys,
-    Šarūno būrys ir pan. [...]
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

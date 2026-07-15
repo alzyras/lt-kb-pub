@@ -45,27 +45,6 @@ Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų menų magistras, b
   pagrindžia:
     - c-83763
 - susijęs iš [[objektai/daiktai/Vilniaus vyskupų antspaudų ženklai.md#claim-t-87102|Vilniaus vyskupų antspaudų ženklai]]: Vilniaus vyskupas Mikalojus Dzerško arba Dzerškavičius savo antspaude turėjo Stumbro ženklą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mikalojus Dzerško, dar vadintas Dzerškavičiumi, buvo lietuvis, laisvųjų menų magistras ir vyskupas 1453-1462 m.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    7. Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų
-    menų magistras, buvo vyskupu nuo 1453 m. iki 1462 m. Ant­
-    spaude turėjo Stumbro ženklą.
-    ciškonų istorijoje T. VII, p. 157 pa­
-    sakoja, kad 1399 metais Vilniaus
-    vyskupu buvo pakeltas po Važilos
-    pranciškonas Jonas Pliekta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83763

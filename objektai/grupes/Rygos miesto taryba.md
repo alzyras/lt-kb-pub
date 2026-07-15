@@ -41,21 +41,6 @@ Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams,
   teiginys: "Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline."
   pagrindžia:
     - c-28570
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Paskutinis Gedimino laiškas (1325.VI.2)
-    yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir
-    Danijos vietininkui Taline.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

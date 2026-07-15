@@ -34,27 +34,6 @@ Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­ ną tokiais žo
   teiginys: "Vytautas prieš Ordiną pareiškė, kad kryžiuočiai yra svetimšaliai ir ateiviai."
   pagrindžia:
     - c-33724
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautas prieš Ordiną pareiškė, kad kryžiuočiai yra svetimšaliai ir ateiviai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ordi­
-    nui priskirtoje dykroje buvę žemaičių pilių. Tai teberodą « kalniu­
-    kai » (mūsiškai « piliakalniai »).
-    Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­
-    ną tokiais žodžiais : «Kryžiuočiai yra svetimšaliai ir ateiviai iš
-
-    (^12) **StVW, I, 140-144 p.; DlugO, XIII, 240-244 p.;** **_Deutsche Reichstags­
-    akten_** **, hgg.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

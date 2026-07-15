@@ -35,24 +35,6 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
   teiginys: "Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalstamumą, nusikaltėlių grupės emigravo paskui tautiečius."
   pagrindžia:
     - c-26567
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalstamumą, nusikaltėlių grupės emigravo paskui tautiečius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos policijai pasiekus perga-
-    lių prieš didėjantį organizuotą nusikalstamumą, nusikaltėlių grupės taip
-    pat emigravo paskui tautiečius ir ėmė juos terorizuoti, o vėliau kibo plėšti
-    vietinius gyventojus ir vaišinti juos „Made in Lithuania“ narkotinėmis
-    medžiagomis...
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -56,23 +56,6 @@ Nenurodyta
   teiginys: "1263 m. Mindaugas žuvo dėl giminės nesantaikos."
   pagrindžia:
     - c-38319
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Mindaugo broliavimosi su
-    vokiečiais politika buvo nepatenkinta tautiškoji — pagoniš­
-    koji lietuvių partija. Dėl tos giminės nesantaikos 1263 met. ir
-    padėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas
-    nežuvo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

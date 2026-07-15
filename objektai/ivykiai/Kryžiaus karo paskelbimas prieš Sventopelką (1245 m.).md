@@ -7,13 +7,13 @@ datos:
   - '1245 m.'
 date_start: '1245'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - karas
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,8 +58,8 @@ Nenurodyta
   pagrindžia:
     - c-63670
     - c-63671
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1245 m. apaštališkojo sosto legatas paskelbė kryžiaus karą prieš Sventopelką ir įsakė jį skelbti įvairiose karalystėse bei provincijose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -78,41 +78,21 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: '1245 m. apaštališkojo sosto legatas paskelbė kryžiaus karą prieš Sventopelką ir įsakė jį skelbti įvairiose karalystėse bei provincijose.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo
-    sosto legatą  ir didįjį magistrą, pranešdami jiems apie naują karą  ir Prūsijos žemės
-    padėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
-    įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
-    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
-    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
-    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
-    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
-    plaukioti Vysla aukštyn ir žemyn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-63670
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kokie keisti, kokie
-    be galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis
-    žemino tikėjimą ir tikinčiuosius! Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo
-    sosto legatą  ir didįjį magistrą, pranešdami jiems apie naują karą  ir Prūsijos žemės
-    padėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
-    įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose.
+    Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
+    plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
+    traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies. Sventopelkas,
+    matydamas, kad brolių laivai jau artėja prie kranto, pabėgo nuleidęs aukštą pakeliamą
+    tiltą, kuriuo galima patekti į pilį. Vėliau, atsigrįžęs ir pastebėjęs, kad raitieji broliai su
+    savo kariuomene, atplaukusia pasroviui iš Kulmo, negali prie jų prieiti, nes juos skyrė
+    gili upė286, atgavo drąsą ir sugrįžo su savaisiais atgal, o matydamas, jog magistras
+    rengiasi pulti pilį, paskubomis atstatė tiltą ir pasiuntė 300 vyrų ginti pilies.
   citata_rodoma: "Kokie keisti, kokie\nbe galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis\nžemino tikėjimą ir tikinčiuosius! Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo\nsosto legatą  ir didįjį magistrą, pranešdami jiems apie naują karą  ir Prūsijos žemės\npadėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir\nįsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose."
   statusas: verified
   teiginio_tipas: faktas
@@ -124,11 +104,10 @@ Nenurodyta
 - id: c-63671
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo
-    sosto legatą  ir didįjį magistrą, pranešdami jiems apie naują karą  ir Prūsijos žemės
+    sosto legatą ir didįjį magistrą, pranešdami jiems apie naują karą ir Prūsijos žemės
     padėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
     įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
     klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali

@@ -40,20 +40,6 @@ media_all_json: |-
   teiginys: "Oskaro Haleckio veikalas Dzieje Unji Jagiełłonskiej pirmu tomu išleistas Krokuvoje 1919 m."
   pagrindžia:
     - c-36168
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Hal. = Halecki, Oskar, Dzieje Unji Jagiełłonskiej. I tom. Kra­
-    ków, 1919.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

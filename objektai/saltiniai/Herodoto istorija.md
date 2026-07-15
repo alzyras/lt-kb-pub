@@ -55,8 +55,15 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   teiginys: "Teodoras Narbutas Herodoto pasakojime nurodė persų karaliaus kelią nuo Maetis ežero į žemyno gilumą."
   pagrindžia:
     - c-174802
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197674"></a>
+- t-005
+  global_id: t-197674
+  teiginys: "Lig šiol vadovavomės Herodoto pasakojimu, kuriame jie keliavo nuo Maetis ežero į žemyno gilumą; dabar grįž kime ten, kur jo vandenys jungiasi su Pontu, ir panagri nėkime tą truputį istorijos palikimo."
+  pagrindžia:
+    - c-174802
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, nors jis ją laikė nepakankamai išdėstyta.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -78,67 +85,19 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Pasak Narbuto perteikto Herodoto, persų karalius Darijus, dvariškių pataikavimo suklaidintas, neapdairiu įkarščiu padėjo skitams įgyvendinti jų ketinimus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip Darijus buvo
-    priverstas greitai pereiti visą Skitiją, persikelti per to­
-    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
-    cas. Antra vertus, persų karalius, pasak Herodoto, savo
-    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
-    čio tarytum padėjo skitams įgyvendinti jų ketinimus. Jo
-    brolis Artabanas veltui stengėsi įrodyti, kad nenaudinga
-    aukoti septynissyk šimtatūkstantinę armiją nepažįstamam,
-    visiškai nusiaubtam ir sausringam kraštui, kur visko la­
-    bai stigo, o tai buvo pavojingiau negu priešo ginklai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Teodoro Narbuto teigimu, Herodotas sarmatams skyrė pusiau pasakiškas ištakas iš amazonių ir skitų palikuonių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Manoma, kad šis pavadinimas atsirado ne iš
-    itin gausios tautos, turėjusios tokį vardą, tačiau istoriš­
-    kai pirmykštė jos kilmė taip ir nenustatyta. Herodotas,
-    pats tiksliausias iš senovės rašytojų, palikęs tiek daug
-    pasaulio istoriją dominančių smulkmenų, sarmatams ski­
-    ria pusiau pasakiškas ištakas, neva jie yra neteisėto guo­
-    lio vaikai, gimę iš amazonių ir skitų. Tačiau tai nepaaiš­
-    kina šios genties istorijos, o tik rodo, kad ji esanti pu­
-    siau skitų kilmės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Teodoras Narbutas Herodoto pasakojime nurodė persų karaliaus kelią nuo Maetis ežero į žemyno gilumą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Iš čia persų
+    Kai
+    skitai staiga dingo ir jų niekur nebuvo matyti, Darijus
+    paliko šiuos pusiau pastatytus įtvirtinimus ir pasuko į
+    vakarus, nes manė, kad ten buvo visi skitai. Iš čia persų
     karalius pradėjo traukti atgal.
     Lig šiol vadovavomės Herodoto pasakojimu, kuriame
     jie keliavo nuo Maetis ežero į žemyno gilumą; dabar grįž­
     kime ten, kur jo vandenys jungiasi su Pontu, ir panagri­
-    nėkime tą truputį istorijos palikimo. Maetis ežero pa­
-    krantėje,
-    kur
-    gyveno
-    laisvi
-    skitai
-    (tą Exitteav tov
-    ėžeudĖgajv), o būtent europinėje pusėje jo laikais plytėjo
-    1 Cosmas IndicopI ap.
+    nėkime tą truputį istorijos palikimo.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -146,24 +105,23 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+    - t-005
 
 ## Citatos
 
 - id: c-174571
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 52"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    34
-    Skitijos geografija. Skitų įpročius, papročius ir religi­
-    ją iš dalies aprašė Herodotas, bet tai nelabai reikalinga
-    mūsų dalykui. Įdomesnė atrodo Skitijos geografija, nors
-    Herodoto
-    istorijoje
-    ji
-    nepakankamai
-    išdėstyta.
+    Tad šis kraštas turėtų
+    būti Rogačiovo apylinkėse ir aukščiau. Buvo atkakliai
+    ieškoma tokio pavadinimo upės, bet nerasta; mes ma­
+    nome, kad tai turėtų būti dabartinė Desna, o Hipakyris
+    dabar vadinamas Seimo upe. Šios upės, susiliejančios
+    netoli Dnepro žiočių, iš tikrųjų išteka iš skirtingų kraštų;
+    tai sako ir Herodotas.
+  citata_rodoma: "34\nSkitijos geografija. Skitų įpročius, papročius ir religi­\nją iš dalies aprašė Herodotas, bet tai nelabai reikalinga\nmūsų dalykui. Įdomesnė atrodo Skitijos geografija, nors\nHerodoto\nistorijoje\nji\nnepakankamai\nišdėstyta."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -174,8 +132,7 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
 - id: c-174572
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 56"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip Darijus buvo
     priverstas greitai pereiti visą Skitiją, persikelti per to­
@@ -197,8 +154,7 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
 - id: c-174573
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 59"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 59."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Manoma, kad šis pavadinimas atsirado ne iš
     itin gausios tautos, turėjusios tokį vardą, tačiau istoriš­
@@ -219,26 +175,23 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
 - id: c-174802
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 392"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 392."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Iš čia persų
+    Persekiojami
+    skitai aplenkė aukštupio kraštą ir vėl grįžo į Slkitiją. Kai
+    skitai staiga dingo ir jų niekur nebuvo matyti, Darijus
+    paliko šiuos pusiau pastatytus įtvirtinimus ir pasuko į
+    vakarus, nes manė, kad ten buvo visi skitai. Iš čia persų
     karalius pradėjo traukti atgal.
     Lig šiol vadovavomės Herodoto pasakojimu, kuriame
     jie keliavo nuo Maetis ežero į žemyno gilumą; dabar grįž­
     kime ten, kur jo vandenys jungiasi su Pontu, ir panagri­
-    nėkime tą truputį istorijos palikimo. Maetis ežero pa­
-    krantėje,
-    kur
-    gyveno
-    laisvi
-    skitai
-    (tą Exitteav tov
-    ėžeudĖgajv), o būtent europinėje pusėje jo laikais plytėjo
-    1 Cosmas IndicopI ap.
+    nėkime tą truputį istorijos palikimo.
+  citata_rodoma: "Kai \nskitai staiga dingo ir jų niekur nebuvo matyti, Darijus \npaliko šiuos pusiau pastatytus įtvirtinimus ir pasuko į \nvakarus, nes manė, kad ten buvo visi skitai. Iš čia persų \nkaralius pradėjo traukti atgal.\nLig šiol vadovavomės Herodoto pasakojimu, kuriame \njie keliavo nuo Maetis ežero į žemyno gilumą; dabar grįž­\nkime ten, kur jo vandenys jungiasi su Pontu, ir panagri­\nnėkime tą truputį istorijos palikimo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191920
+    - t-197674

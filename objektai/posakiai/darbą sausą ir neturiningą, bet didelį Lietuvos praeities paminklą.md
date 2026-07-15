@@ -35,8 +35,8 @@ Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų 
   teiginys: "Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų Lietuvos praeities paminklą."
   pagrindžia:
     - c-175017
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -65,21 +65,25 @@ Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų 
 - id: c-175017
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 462"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 462."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šios visumos
+    „Naujojoje mitologijoje“ jis ra­
+    šė: „Tos svarbios religijos priminimas ir pažinimas yra
+    nepaprastai reikalingas istorinėms žinioms turtinti
+    dar daugiau, be tinkamo jos išaiškinimo negali būti pa-
+    4 5 2
+
+    žinta lietuvių žemės praeitis“1. Jau 1835 metais pirmo
+    tomo pratarmėje T. Narbutas deklaravo, jog savo, kaip
+    praeities tyrinėtojo, uždavinį jis įgyvendins tik tuomet,
+    kai sugebės parodyti labai didelį tautos istorijos senoviš­
+    kumą, kuris skaitytojui gali būti pateiktas tik „ano laiko
+    dvasia“. Tai buvo itin sunkus uždavinys, bet istorikas
+    manė, jog rekonstrukcija vis dėlto dar galima, „daugybė
+    to paveikslo detalių yra dingę, tačiau išliko visuma, iš­
+    samesnė už visus šiaurės tautų mitus“2. Šios visumos
     ieškojimas tapo pagrindiniu T. Narbuto uždaviniu; jis
-    ypač ryškus pirmame LTI tome. Taigi būtų svarbu, jeigu
-    mes, skaitydami „Lietuvių mitologiją“, sugebėtume pa­
-    matyti ne tik tai, kas pasakyta, bet ir tai, kaip tai pasaky­
-    ta, kaip kuriamas vaizdas, kaip niveliuojasi atskiros deta­
-    lės, faktai, kaip į pirmą vietą iškyla visuma, panorama,
-    vaizdas.
-    Jau ne vieną kartą cituotame laiške I. Onacevičiui
-    T. Narbutas savo tyrinėjimus mitologijos srityje apibūdi­
-    no kaip „darbą sausą ir neturiningą, bet didelį Lietuvos
-    praeities paminklą“3.
+    ypač ryškus pirmame LTI tome.
   citata_rodoma: "jau ne vieną kartą cituotame laiške I. Onacevičiui\n  T. Narbutas savo tyrinėjimus mitologijos srityje apibūdino kaip „darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą“3."
   statusas: verified
   teiginio_tipas: faktas

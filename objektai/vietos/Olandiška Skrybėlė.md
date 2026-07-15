@@ -35,8 +35,8 @@ Senoji Palanga buvo išsidėsčiusi kalvos, vadinamos Olandiška Skrybėle, pap�
   teiginys: "Senoji Palanga buvo išsidėsčiusi kalvos, vadinamos Olandiška Skrybėle, papėdėje."
   pagrindžia:
     - c-171923
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Senoji Palanga buvo išsidėsčiusi kalvos, vadinamos Olandiška Skrybėle, papėdėje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -63,13 +63,12 @@ Senoji Palanga buvo išsidėsčiusi kalvos, vadinamos Olandiška Skrybėle, pap�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    156
-
-    ## Puslapis 156
-
-    užneštos pakrantės. Senoji Palanga buvo išsidėsčiusi kalvos, va­
-    dinamos Olandiška Skrybėle, papėdėje*. Kad pylimus prie Pa­
-    langos sunešė jūra, įrodo Čackis31 32.
+    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
+    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
+    mas išliko kaip žalčių laikymas1.
+    Kaunis (Kaunis)
+    Meilės dievaitis, deivės Mildos sūnus, lietuvių Kupidonas.
+  citata_rodoma: "156\n\n## Puslapis 156\n\nužneštos pakrantės. Senoji Palanga buvo išsidėsčiusi kalvos, va­\ndinamos Olandiška Skrybėle, papėdėje*. Kad pylimus prie Pa­\nlangos sunešė jūra, įrodo Čackis31 32."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

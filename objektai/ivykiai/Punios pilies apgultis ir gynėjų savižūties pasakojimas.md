@@ -47,8 +47,8 @@ Nenurodyta
   teiginys: "Brandenburgo markgrafas su Namiuro ir Henenbergo grafais bei kryžiuočių riteriais apsupo Punios pilį."
   pagrindžia:
     - c-169186
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brandenburgo markgrafas su Namiuro ir Henenbergo grafais bei kryžiuočių riteriais apsupo Punios pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -82,8 +82,7 @@ Nenurodyta
 - id: c-169186
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 226."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Brandenburgo markgra­
     fas su Namiuro ir Henenbergo grafais bei kryžiuočių
@@ -100,7 +99,10 @@ Nenurodyta
     mingai išsiverždami pro at-
     je
     virus vartus ir užpuldami su­
-    pančiuosius.
+    pančiuosius. Kai daugybė pi­
+    lėnų žuvo, o dar daugiau buvo sužeista, kai, sumažėjus
+    gynėjų skaičiui, ėmė blėsti viltis apginti pilį, ypač dėl
+  citata_rodoma: "Brandenburgo markgra­\nfas su Namiuro ir Henenbergo grafais bei kryžiuočių\nriteriais, sutelkę didžiules jėgas, nusiaubė viską, kas\npakeliui pasitaikė, ir apsupo Pulės, arba, teisingiau sa­\nkant, Punios pilį. Joje buvo keturi tūkstančiai karių,\nsubėgusių ten vos išgirdus apie priešą su savo šeimy­\nnomis iš aplinkinių kaimų. Gynėjai ilgai kamavo prie­\nšą, kaudamiesi ne tik prie\nK ry žiu o č ia i\na p su p a\ngynybinio pylimo, bet sėk-\nP u n ios p ilį L ìetu vo -\nmingai išsiverždami pro at-\nje\nvirus vartus ir užpuldami su­\npančiuosius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

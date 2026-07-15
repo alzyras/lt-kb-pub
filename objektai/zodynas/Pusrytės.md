@@ -52,21 +52,6 @@ Papildomos aiškios formos neišskirtos.
   pagrindžia:
     - c-09661
 - susijęs iš [[objektai/paprociai/Žydų prekybos ribojimas pilyse iki pusrytės.md#claim-t-07827|Žydų prekybos ribojimas pilyse iki pusrytės]]: Smulkesnėje prekyboje pilyse dar vertėsi krikščionys, o žydai negalėjo pirkti į pilį įvežamų prekių iki didžiosios pusrytės ar iki pietų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Nesgi žydai, iš Lenkų atėję į Lietuvą, noris plėtės tenai ir jau nuomojo jos muitus, vienok smulkmėmis vis dar krikščionys vertės, o žydams nevalna buvo pirkinėti už pilių įvežamas į pilį prekes, kaipogi ir pačioje pily pirm krikščionų, jau lig didžiosios pusrytės^1481 , jau lig pietų, žydai pirkti negalėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-09661
@@ -81,5 +66,5 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07750
     - t-07749
+    - t-07750

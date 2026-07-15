@@ -9,9 +9,8 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1567 m.'
-  - '1568 m.'
 date_start: '1567'
-date_end: '1568'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -39,7 +38,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas. Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu Žygimantu ir Švitrigaila, pasisekė pabėgti.
+Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas. Žygimantas kartu su Vytautu ir Švitrigaila nakties tamsoje pabėgo po kautynių tolimose stepėse. Karalius Žygimantas pirmas perbrido ir perplaukė upę, be nuostolių pervesdamas visus raitelius.
 
 ## Teiginiai
 
@@ -99,28 +98,13 @@ media_all_json: |-
   pagrindžia:
     - c-171545
 
-<a id="claim-t-193416"></a>
-- t-009
-  global_id: t-193416
-  teiginys: "Žygimantas davė pradžią garsiai šeimai, pelniusiai šlovę taikos darbais bei karo žygiais ir aukščiausiomis pareigybėmis."
-  pagrindžia:
-    - c-176138
-
-<a id="claim-t-194023"></a>
-- t-010
-  global_id: t-194023
-  teiginys: "Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris taus gimimo tūkstantis keturi šimtai devyniasdešimt šeštaisiais didysis kunigaikštis Aleksandras išvyko į Brastą \ o karalius Olbrachtas su jų broliu, karalai čiu Zigmantu — į Liubliną 5 ."
-  pagrindžia:
-    - c-176648
-
 <a id="claim-t-194249"></a>
-- t-011
+- t-009
   global_id: t-194249
   teiginys: "Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui, nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide lių turtų, nei ypatingo svorio."
   pagrindžia:
     - c-176845
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87559|Mykolas (Žygimanto sūnus)]]: 1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.
-- susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185995|Vasilijus (Maskvos kunigaikštis)]]: Vasilijus raštu paskelbė karą Žygimantui, nors Glinskis jau buvo įsiveržęs į Lietuvos žemes.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-173117|Aleksandras Balinskis]]: Po karaliaus Aleksandro mirties Aleksandras Balinskis kalėjo Vilniuje iki Žygimanto atvykimo.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-54933|Aleksandras Balinskis]]: Balinskis po karaliaus mirties kalėjo Vilniuje iki Žygimanto atvykimo, o grįžęs į Krokuvą vėl buvo įkalintas.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113785|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.
@@ -131,7 +115,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Petrašu Montgirdaitis.md#claim-t-87561|Petrašu Montgirdaitis]]: Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.
 - susijęs iš [[objektai/asmenys/Pisonas.md#claim-t-186248|Pisonas]]: Popiežiaus legatas Pisonas buvo pasiųstas iš Romos sutaikyti Žygimantą su Vasilijumi ir sustojo Vilniuje prieš kelionę į Maskvą.
 - susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87573|Simonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.
-- susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185995|Vasilijus (Maskvos kunigaikštis)]]: Vasilijus raštu paskelbė karą Žygimantui, nors Glinskis jau buvo įsiveržęs į Lietuvos žemes.
 - susijęs iš [[objektai/asmenys/Vladislovas Varnietis.md#claim-t-87886|Vladislovas Varnietis]]: Mirus Jogailai, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės į Didžiąją Kunigaikštystę.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176759|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius liko Didžiosios Kunigaikštystės sostinė.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179709|Švitrigaila]]: Švitrigaila ir Žygimantas buvo Vytauto politikos tęsėjai.
@@ -147,7 +130,7 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula.md#claim-t-185582|Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula]]: Glinskis nutraukė Minsko apgulą, nužygiavo į Borisovą ir Oršą, o karalius Žygimantas atkakliai persekiojo atsitraukiantį Glinskį.
 - susijęs iš [[objektai/ivykiai/Oršos mūšis (1514 m.).md#claim-t-54178|Oršos mūšis (1514 m.)]]: Po Oršos mūšio propagandos kampanija padėjo Žygimantui spręsti tarptautinius klausimus, o žymesni belaisviai buvo siunčiami į Europos valdovų dvarus.
 - susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66812|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: 1435 m. rugsėjo 1 d. prie Ukmergės, prie Šventosios upės, įvyko mūšis, kuriame Žygimantas ir jo sūnus Mykolas sumušė Švitrigailos pajėgas.
-- susijęs iš [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.).md#claim-t-185640|Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]: Švitrigailos pakviesta skitų kariauna ketino išvyti Žygimantą ir sugrąžinti Švitrigailą į valdžią Lietuvoje.
+- susijęs iš [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.).md#claim-t-185640|Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]: Kojelavičiaus pasakojimu, Boleslovo pakviesta skitų kariauna ketino išvyti Žygimantą ir sugrąžinti Boleslovą į valdžią Lietuvoje.
 - susijęs iš [[objektai/posakiai/O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė.md#claim-t-86867|O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė]]: Posakiu „O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė“ miestiečiai gyrė Žygimanto suteiktas garantijas.
 - susijęs iš Hanso Baigo 1432 m. rugsėjo 8 d. laiškas didžiajam magistrui: Hansas Baigas 1432 m. rugsėjo 8 d. iš Trakų rašė didžiajam magistrui apie Žygimanto teikiamas garantijas pagal Magdeburgo teises.
 - susijęs iš Jogailos sudaryta sutartis, paprastai vadinama unija: Lenkai tvirtino, kad Jogailos ir Vytauto laikų susitarimai bei Žygimanto laikų potvarkiai negali būti keičiami.
@@ -164,7 +147,6 @@ media_all_json: |-
 - susijęs iš Piotrkovas: Piotrkovo seime karalius Žygimantas parengė abiejų tautų žygį, o rudenį su kariuomene išžygiavo iš Vilniaus.
 - susijęs iš Trakai: Trakuose sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.
 - susijęs iš Trakai: Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.
-- susijęs iš Vilnius: Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu.
 - susijęs iš Žirnajų ežeras: Švitrigailos ir Ordino pajėgos prie Žirnajų ežero judėjo vakarine pakrante, o Žygimanto kariuomenė traukė rytine ežero puse.
 - susijęs iš [[objektai/zodynas/sambrūzdis.md#claim-t-185411|sambrūzdis]]: Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žygimanto mirtį.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113785|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.
@@ -172,6 +154,10 @@ media_all_json: |-
 - susijęs iš Karališkasis malūnas Vilniuje: 1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.
 - susijęs iš Vilniaus pilys: Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.
 - susijęs iš Vilniaus tiltas per Viliją: 1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
+- susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
+- susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
+- susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
+- susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.
@@ -179,21 +165,13 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54941|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82177|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82182|Aleksandras Jogailaitis]]: Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.
-- susijęs iš [[objektai/asmenys/Andrius Sakavičius.md#claim-t-186032|Andrius Sakavičius]]: Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietininku.
-- susijęs iš [[objektai/asmenys/Andrius Sakavičius.md#claim-t-186033|Andrius Sakavičius]]: Andrius Sakavičius atrėmė pirmą smolenskiečių antpuolį, atvėręs vartus ir paleidęs prieš užpuolėjus raituosius ietininkus.
 - susijęs iš [[objektai/asmenys/Andrius Sakavičius.md#claim-t-186034|Andrius Sakavičius]]: Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku.
 - susijęs iš [[objektai/asmenys/Boleslovas Švitrigaila.md#claim-t-185934|Boleslovas Švitrigaila]]: Po Žygimanto pašalinimo Boleslovas Švitrigaila vėl galėjo tikėtis grįžti į valdžią, nors didikai jo tebekenė ir keikė.
 - susijęs iš [[objektai/asmenys/Daugirdas (Vilniaus vaivada).md#claim-t-87650|Daugirdas (Vilniaus vaivada)]]: 1440 m. balandį Vilniaus vaivada Daugirdas laikinai užėmė žemutinę Vilniaus pilį Švitrigailai.
 - susijęs iš [[objektai/asmenys/Ferdinandas.md#claim-t-186108|Ferdinandas]]: Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando atstovą taikos reikaluose.
-- susijęs iš [[objektai/asmenys/Fiodoras Ovčina.md#claim-t-186039|Fiodoras Ovčina]]: Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivadinęs caro globėju, užgrobė valdžią.
 - susijęs iš [[objektai/asmenys/Ignotas Houvaitas.md#claim-t-87692|Ignotas Houvaitas]]: Ignotui Houvaitui, Smolensko kanauninkui ir Pabaisko klebonui, 1787 m. lapkričio 28 d. buvo išduotas fundacijos privilegijos išrašas.
 - susijęs iš [[objektai/asmenys/Ivanas Vasiljevičius.md#claim-t-87520|Ivanas Vasiljevičius]]: Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės.
-- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184748|Kazimieras Didysis]]: Lenkai tvirtino, kad Kazimieras Didysis užėmė Podolę ginklo ir paveldėjimo teisėmis ir pavertė ją Lenkijos sritimi.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82506|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82511|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises.
-- susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186064|Liudvikas (Torunės komtūras)]]: Liudvikas, Torunės komtūras, gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.
 - susijęs iš [[objektai/asmenys/Liudvikas (Čekijos karalius).md#claim-t-186144|Liudvikas (Čekijos karalius)]]: Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.
-- susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184793|Mykolas (Žygimanto sūnus)]]: Narbuto vadovaujami Žygimanto valdiniai ir Kęstučio šeimai atsidavę žemaičiai palaikė Mykolą.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87558|Mykolas (Žygimanto sūnus)]]: Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87559|Mykolas (Žygimanto sūnus)]]: 1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.
 - susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87574|Simonas (Alšėnų kunigaikštis)]]: 1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
@@ -210,7 +188,6 @@ media_all_json: |-
 - susijęs iš [[objektai/daiktai/Pabaisko fundacijos privilegijos pergamentas ir antspaudai.md#claim-t-87014|Pabaisko fundacijos privilegijos pergamentas ir antspaudai]]: Žygimanto sudaryta Pabaisko fundacijos privilegija buvo įrašyta į LDK Vyriausiojo Tribunolo Viešųjų reikalų knygas.
 - susijęs iš [[objektai/daiktai/Vilniaus miestiečių gynybinė ginkluotė.md#claim-t-87127|Vilniaus miestiečių gynybinė ginkluotė]]: Vilniaus magistratas turėjo išlaikyti 24 įprastai ginkluotus sargybinius, kad miesto tvarka būtų prižiūrima dieną ir naktį.
 - susijęs iš [[objektai/daiktai/Vilniaus vandentiekio vamzdžiai ir kanalai.md#claim-t-87040|Vilniaus vandentiekio vamzdžiai ir kanalai]]: Žygimantas leido iš miesto šaltinio vandenį vamzdžiais išvedžioti po Vilniaus namus.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184511|Kryžiuočių ordinas]]: Torunės komtūras Liudvikas su trimis kryžiuočių riteriais gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184552|Lietuviai]]: Lietuviai reikalavo perrašyti Jogailos sudarytą unijos sutartį ir pašalinti Lietuvos Didžiosios Kunigaikštystės orumą žeminančius straipsnius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-187717|Lietuviai]]: Žygimantas iš Vilniaus atžygiavo su septynių tūkstančių lietuvių pajėgomis prieš gruodžio 8 d. prasidėjusį mūšį.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179411|Livonijos ordinas]]: Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės.
@@ -248,7 +225,6 @@ media_all_json: |-
 - susijęs iš Kaunas: Pasak senos tradicijos, Vytautas už išsigelbėjimą įkūrė pranciškonų vienuolynus Kaune ir Ašmenoje.
 - susijęs iš Krokuva: Žygimanto privilegijoje Magdeburgo teisė apibūdinta kaip Krokuvoje nuo seno naudota teisė.
 - susijęs iš Krokuva: Žygimantas privilegijose miestui suteikė Magdeburgo teisę, kuria Krokuva naudojosi nuo seno.
-- susijęs iš Krėva: Į Lietuvą įsiveržusi totorių kariuomenė užėmė Krėvą, Lydą, Vilnių, Trakus ir kitas vietoves bei priartėjo prie Kauno.
 - susijęs iš Luckas: Žygimantas leido Vilniaus miestiečiams be muito gabenti prekes visoje Lietuvos žemėje, taip pat Lucke.
 - susijęs iš Luckas: Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes Lietuvos žemėje, įskaitant Lucką.
 - susijęs iš Metena: Sugrįžęs jis sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno - Naująjį Gardiną ir Meteną.
@@ -260,14 +236,11 @@ media_all_json: |-
 - susijęs iš Pabaiskas: Žygimantas mūšio lauką pavadino Pabaisku, per jį tekantį upelį – Viktorija, ir toje vietoje pastatė parapijos bažnyčią.
 - susijęs iš Pašilė: Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link.
 - susijęs iš Podolė: Lietuviai reikalavo sugrąžinti Podolę, kurią, jų teigimu, Lietuvos kunigaikščiai ginklu išvadavo iš skitų vergovės.
-- susijęs iš Podolė: Lenkai tvirtino, kad Podolė Lenkijai atiteko dėl Kazimiero Didžiojo užkariavimo ir paveldėjimo teisių, o ne atplėšus ją nuo Lietuvos.
 - susijęs iš Polockas: 1432 m. rugsėjo 3 d. Švitrigaila iš Polocko rašė didžiajam magistrui ir prašė skubios pagalbos.
 - susijęs iš Polockas: Švitrigaila Polocke įkūrė atramos vietą, iš kurios beveik šešerius metus plito pilietinis karas Lietuvos žemėse.
 - susijęs iš Polockas: 1432 m. rugsėjo 3 d. Švitrigaila iš Polocko parašė laišką didžiajam magistrui, prašydamas skubios pagalbos.
 - susijęs iš Polockas: Lietuvos metraštis Kęstutį vadina didžiuoju kunigaikščiu ir rašo, kad užėmęs Vilnių jis pasiuntė du žmones į Polocką.
-- susijęs iš Polockas: Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir rašo, kad jis su Elena bei didikais lankėsi Polocke.
 - susijęs iš Radaškovičiai: 1567 metų rudenį Žygimantas su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius, kur susitiko su caro pasiuntiniais.
-- susijęs iš Smolenskas: Vykdamas į Lietuvą, Goštautas Smolenske vietininku paliko Andrių Sakavičių.
 - susijęs iš Smolenskas: Jonas Goštautas buvo Smolensko vietininkas ir tuo metu buvo Smolenske, tolimame Didžiosios Kunigaikštystės mieste.
 - susijęs iš Trakai: Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos reikalus.
 - susijęs iš Trakai: Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje.
@@ -280,9 +253,6 @@ media_all_json: |-
 - susijęs iš Ukraina: Švitrigaila po prieglobsčio Vitebske nusigavo į Ukrainą praleisti paskutinių savo senatvės dienų.
 - susijęs iš Viktorijos upelis: Žygimantas per Pabaisko mūšio lauką tekėjusį mažą upelį pavadino Viktorija.
 - susijęs iš Vilniaus pilis: Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.
-- susijęs iš Vilnius: Žinia apie pergalę Aleksandrą pasiekė Vilniuje, kai valdovas jau merdėjo.
-- susijęs iš Vilnius: Žygimantas po nesėkmingo Švitrigailos persekiojimo Ašmenoje tučtuojau užėmė Vilnių ir Trakus.
-- susijęs iš Vilnius: 1432 m. rugsėjo 23 d. Žygimantas suteikė Vilniaus miestiečiams teisę be muitų gabenti prekes Lietuvos žemėje.
 - susijęs iš Vilnius: Karalius Žygimantas po Piotrkovo seimo su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius.
 - susijęs iš Vitebskas: Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutines audringos senatvės dienas.
 - susijęs iš Vitebskas: Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutines audringos senatvės dienas.
@@ -314,275 +284,6 @@ media_all_json: |-
 - susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
 - susijęs iš [[objektai/grupes/Smolenskiečiai.md#claim-t-187745|Smolenskiečiai]]: Smolenskiečiai Oršoje pasitiko kunigaikštį Mykolą ir pasidavė didžiajam kunigaikščiui Žygimantui bei jo sūnui Mykolui.
 - susijęs iš [[objektai/asmenys/Vladislovas Varnietis.md#claim-t-87886|Vladislovas Varnietis]]: Mirus Jogailai, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės į Didžiąją Kunigaikštystę.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Naujojon jo rezidencijon ėmė rinktis
-    Kęstučio ir jo paties šalininkai, ar Jogailos persekiojamieji. Čia
-    atvykęs, jo brolis Žygimantas buvo pakrikštytas. Susirinko ir kiti
-    giminės, kunigaikščiai: Eišiškių Sudemantas, Alšėniškis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Žygimantas kartu su Vytautu ir Švitrigaila nakties tamsoje pabėgo po kautynių tolimose stepėse.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Savo galvas tolimose stepėse
-    paliko ir vieninteliai du lietuviai-kryžiuočiai Jonas ir Tomas Sur­
-    vilos.
-    Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu
-    Žygimantu ir Švitrigaila, pasisekė pabėgti. Už išsigelbėjimą, pagal
-    seną tradiciją, jis įkūrė pranciškonų vienuolynus Kaune ir Ašme­
-    noje^39.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Karalius Žygimantas pirmas perbrido ir perplaukė upę, be nuostolių pervesdamas visus raitelius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vėliau nušuoliavo prie upės ir iš užpakalio
-    užpuolė pakrantėje išstatytas saugas, atverdami savo
-    vyrams kelią. Karalius su kitais kariais laukė, kuo vis­
-    kas baigsis; pastebėjęs savo vėliavas kitame krante,
-    jis drąsiai pavarė žirgą į upę ir, vienur briste brisda­
-    mas, kitur plaukte plaukdamas, pirmas nusigavo į kitą
-    krantą, pervesdamas be jokių nuostolių visus raitelius.
-    Kol pėstininkai persikėlė plaustais, saulė pakrypo į va­
-    karus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Žygimantas, praradęs viltį sudaryti taiką, išsiuntė skitams sutartą atlygį, kad šie sulaikytų priešą jo žemėje.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tačiau Vasilijus, negalėda­
-    mas užmiršti imperatoriaus bei kryžiuočių pažadų ir
-    tikėdamasis užgrobti visą Lietuvą, apie taiką nenorėjo
-    nė galvoti. Žygimantas, netekęs vilties pasiekti taikos,
-    kuo greičiausiai išsiuntė skitams pagal sutartį paža­
-    dėtą atlyginimą, manydamas, kad šie privers priešą
-    likti savo žemėje. Gavę pinigų, skitai užpuolė su di­
-    dele
-    kariuomene
-    Maskvos
-    S k ita i u žp u o la  M ask-
-    kunigaikštystę ir smarkiai ją
-    v o s  k u n ig a ik šty stę
-    nuniokojo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Prie Smolensko įkūręs stovyklą ir pasilikęs čia su dvi­
-    dešimt tūkstančių karių, pasiuntė į Lietuvą aštuonias­
-    dešimt tūkstančių, įsakydamas, užėmus Oršą bei Druc-
-    ką, traukti tiesiai į Lietuvos sostinę Vilnių. Žygiuojan­
-    čią į priekį kariuomenę sustabdė žinia, jog karalius
-    Žygimantas prie Borisovo su trisdešimt tūkstančių rink­
-    tinių karių įkūrė stovyklą.
-    Tuo tarpu Glinskis suvo-
-    T ia g išk a s
-    M y k o lo
-    kė, jog visos jo viltys bergž-
-    G lin sk io  g a la s
-    džios ir tuščios, nes Vasili­
-    jus, žodžiu pažadėjęs jam ati­
-    duoti Smolenską ir šitaip atsilyginti už paramą, nė
-    nesirengė to daryti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Žygimantas paprašė leisti į Maskvą grįžti pirkliams ir žygūnams, sulaikytiems po karališkųjų teisėjų suėmimo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Galop jis pa­
-    prašė leisti laisvai sugrįžti į Maskvą tiems pirkliams
-    ir žygūnams, kurie buvo sulaikyti, kai maskvėnai su­
-    ėmė karališkuosius teisėjus.
-    Sugrįžęs iš Maskvos, Jes-
-    manas išvydo karalių bei ka­
-    ralienę Vilniuje. Karalius, su­
-    laukęs senyvo amžiaus, nuo­
-    gąstavo, kad, jam staiga mi­
-    rus, jo sūnus Augustas, dar
-    visai vaikas, beje, tokio am­
-    žiaus, kada nepajėgiama valdyti valstybės, gali netekti
-    Lenkijos sosto, o sudarius lenkams bei lietuviams nau­
-    ją susitarimą,— ir Lietuvos kunigaikštystės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Karalius Žygimantas tais metais dalyvavo Piotrkovo seimo reikaluose ir šiaurėje kariavo su Rusija.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš tikrųjų tais me­
-    tais vyko Lenkijos seimas Piotrkove, trukęs ilgai
-    ir sėkmingai posėdžiavęs. Tais metais karaliui Žy­
-    gimantui buvo daug darbų ir rūpesčių; mat, be ši­
-    to darbštaus seimo, dar kariavo šiaurėje karą su
-    Rusija. Romanas Sanguška kovojo kruvinus mū­
-    šius su Rusija; įvyko taip, kad karalius, Piotrkovo
-    seime parengęs abiejų tautų žygį, rudenį su ka­
-    riuomene išžygiavo iš Vilniaus, bet pasiekė tik Ra-
-    daškovičius; ten jis susitiko su caro pasiuntiniais,
-    pareiškusiais pageidavimą taikytis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Karalius Žygimantas 1567 m. pabaigoje skubėjo sušaukti Gardino seimą ir išsiuntinėjo universalus Lietuvai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Nors karalius
-    nenutraukė karo veiksmų, už kuriuos stojo San­
-    guška ir Jonas Chodkevičius, tačiau, matyt, sku­
-    bėjo sušaukti seimą Gardine dar 1567 metų pa­
-    baigoje, išsiuntinėjęs universalus Lietuvai. Čia ap­
-    rašomas seimas pradėjo posėdžiauti 1568 metų pa­
-    vasarį, nes Gardino archyvuose yra likęs pėdsa­
-    kas, jog tų metų balandžio 28 dieną karaliaus bū­
-    ta Gardine. Tą patvirtina ir įstatymų knyga: „Lie­
-    tuvos seimas Gardine 1568 metais sutiko, kad ka­
-    ralius kiekvienu atveju išduotų apsaugos raštus,
-    išskyrus atvejį, kai sugaunama nusikaltimo vieto­
-    je, tai yra išskyrus akivaizdų nusikaltimą, nuo ku­
-    rio dar nepraėjo metai ir šešios savaitės“ (Czacki.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Žygimantas davė pradžią garsiai šeimai, pelniusiai šlovę taikos darbais bei karo žygiais ir aukščiausiomis pareigybėmis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ne mažiau
-    bėdų Maskvos kunigaikštystei pridarė galingi didikai,
-    pradėję nesutarti ir žiauriai vienas kitą persekioti; kai
-    varžovai nusiaubė kelias priešingos grupuotės šeimas,
-    kunigaikštis Simonas Belskis ir Ivanas Liackis, neapsi­
-    kęsdami su šitokiu gyvenimu,
-    M a sk v o s d id ik a i p e r-
-    pasiprašė su visais turtais
-    ein a  į L ie tu v ą
-    karaliaus Žygimanto prieg­
-    laudos.
-    Karalius
-    maloniai
-    juos Vilniuje priėmė ir apdovanojo didelėmis valdo­
-    mis. Liackiui atiteko Želudokas ir Aukštadvaris, jis davė
-    pradžią garsiai šeimai, pelniusiai šlovę taikos darbais
-    bei karo žygiais ir aukščiausiomis pareigybėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-010
-  santrauka: 'Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris taus gimimo tūkstantis keturi šimtai devyniasdešimt šeštaisiais didysis kunigaikštis Aleksandras išvyko į Brastą \ o karalius Olbrachtas su jų broliu, karalai čiu Zigmantu — į Liubliną 5 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Tą pačią žiemą didysis kunigaikštis
-    Aleksandras su didžiąja kunigaikštiene Elena bei su
-    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
-    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
-    j Vilnių 3 .
-    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
-    taus gimimo tūkstantis keturi šimtai devyniasdešimt
-    šeštaisiais didysis kunigaikštis Aleksandras išvyko
-    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
-    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
-    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
-    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
-    tais sumanė ir nutarė — visa tai paliko didelė paslap­
-    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
-    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-011
-  santrauka: 'Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui, nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide lių turtų, nei ypatingo svorio.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Antra, kad susikūrė iš trijų skirtingų
-    bendruomenės klasių, tai yra: nelaisvųjų, dirbusių žemę, susi­
-    spietusių apie pilį; svetimšalių kolonistų, kurie beveik visi bu­
-    vo amatininkai; ir iš bajorų arba kunigaikščių tarnų, kurie už
-    nuopelnus gaudavo namus ir sklypus su skirtingomis teisėmis
-    į juos. Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui,
-    nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide­
-    lių turtų, nei ypatingo svorio. Tuo tarpu visoje Europoje, ypač
-    Vokietijoje, miestiečių klasė, iš pradžių nuskurdusi, silpna ir nie­
-    kam verta, nuolatiniu darbu ir neišsenkančiu sumanumu paga­
-    liau praturtėjo, pelnė pripažinimą ir įgijo išsilavinimą; pamažu
-    iš jos susiformavo vadinamas vidurinysis visuomenės luomas, ku­
-    ris tapo veikliausia dabartinės civilizacijos pažangos spyruok­
-    le, - mūsų krašte miestai nieko panašaus neįstengė pasiekti!
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
 ## Citatos
 
 - id: c-167749
@@ -623,18 +324,23 @@ media_all_json: |-
 - id: c-168266
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 603"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 603."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vėliau nušuoliavo prie upės ir iš užpakalio
-    užpuolė pakrantėje išstatytas saugas, atverdami savo
-    vyrams kelią. Karalius su kitais kariais laukė, kuo vis­
-    kas baigsis; pastebėjęs savo vėliavas kitame krante,
-    jis drąsiai pavarė žirgą į upę ir, vienur briste brisda­
-    mas, kitur plaukte plaukdamas, pirmas nusigavo į kitą
-    krantą, pervesdamas be jokių nuostolių visus raitelius.
-    Kol pėstininkai persikėlė plaustais, saulė pakrypo į va­
-    karus.
+    Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­
+    puolė Minską, bet visos jo pastangos nuėjo perniek,
+    nes bajorai grūmėsi labai ryžtingai, gindami žmonas
+    bei vaikus, su kuriais buvo pasitraukę į miestą. Ga­
+    vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­
+    kis tūkstančius algininkų bei didikų kariaunas ir ka­
+    rališkąsias vėliavas, o netrukus ir pats skubiai patrau­
+    kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių
+    bajorų jėgas ir valstybės viduje įsikūrusių skitų bū­
+    rius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
+    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
+    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
+    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
+    jo per mažai karių.
+  citata_rodoma: "Vėliau nušuoliavo prie upės ir iš užpakalio\nužpuolė pakrantėje išstatytas saugas, atverdami savo\nvyrams kelią. Karalius su kitais kariais laukė, kuo vis­\nkas baigsis; pastebėjęs savo vėliavas kitame krante,\njis drąsiai pavarė žirgą į upę ir, vienur briste brisda­\nmas, kitur plaukte plaukdamas, pirmas nusigavo į kitą\nkrantą, pervesdamas be jokių nuostolių visus raitelius.\nKol pėstininkai persikėlė plaustais, saulė pakrypo į va­\nkarus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -645,23 +351,37 @@ media_all_json: |-
 - id: c-168267
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 623"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 623."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tačiau Vasilijus, negalėda­
-    mas užmiršti imperatoriaus bei kryžiuočių pažadų ir
-    tikėdamasis užgrobti visą Lietuvą, apie taiką nenorėjo
-    nė galvoti. Žygimantas, netekęs vilties pasiekti taikos,
-    kuo greičiausiai išsiuntė skitams pagal sutartį paža­
-    dėtą atlyginimą, manydamas, kad šie privers priešą
-    likti savo žemėje. Gavę pinigų, skitai užpuolė su di­
-    dele
-    kariuomene
-    Maskvos
-    S k ita i u žp u o la  M ask-
-    kunigaikštystę ir smarkiai ją
-    v o s  k u n ig a ik šty stę
-    nuniokojo.
+    Per pasiuntinius paskatino im­
+    peratorių Maksimilijoną, visa ko jam prižadėjęs, kad
+    tas, vos išgirdęs, jog Maskvos bei Livonijos kariuome­
+    nės įžengė į Lietuvą, su vokiečių ir kryžiuočių kariais
+    užpultų Lenkiją, o jam, Vasilijui, už tai, kad nutraukė
+    draugystę
+    su
+    Žygimantu,
+    M a sk v o s
+    k u n ig a ik š-
+    kuo greičiausiai deramai at-
+    čio
+    s u k ty b ė s
+    p rie š
+    lygintų — suteiktų visos Ru-
+    Z y g im a n tą
+    sios bei Maskvos karaliaus
+    titulą ir
+    atsiųstų
+    vainiką.
+    Glinskiui davė daugybę pinigų, kad šis pasamdytų
+    Vokietijoje ir sukviestų į Maskvą prityrusių karių,
+    negailėdamas gerų algų. Šitai padaryti jam padėjo vo­
+    kiečių riteris Šleinicas, kuris Vokietijoje sutelktą di­
+    delį algininkų būrį per Livoniją atvedė Vasilijui. Ne­
+    trūko nė pačioje Lenkijoje Glinskio papirktų žmonių,
+    kurie Silezijos ir Moravijos pasieniuose pasamdytus
+    karius vedė Maskvos valdovui.
+  citata_rodoma: "Tačiau Vasilijus, negalėda­\nmas užmiršti imperatoriaus bei kryžiuočių pažadų ir\ntikėdamasis užgrobti visą Lietuvą, apie taiką nenorėjo\nnė galvoti. Žygimantas, netekęs vilties pasiekti taikos,\nkuo greičiausiai išsiuntė skitams pagal sutartį paža­\ndėtą atlyginimą, manydamas, kad šie privers priešą\nlikti savo žemėje. Gavę pinigų, skitai užpuolė su di­\ndele\nkariuomene\nMaskvos\nS k ita i u žp u o la  M ask-\nkunigaikštystę ir smarkiai ją\nv o s  k u n ig a ik šty stę\nnuniokojo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -672,25 +392,27 @@ media_all_json: |-
 - id: c-168268
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 626"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 626."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Prie Smolensko įkūręs stovyklą ir pasilikęs čia su dvi­
-    dešimt tūkstančių karių, pasiuntė į Lietuvą aštuonias­
-    dešimt tūkstančių, įsakydamas, užėmus Oršą bei Druc-
-    ką, traukti tiesiai į Lietuvos sostinę Vilnių. Žygiuojan­
-    čią į priekį kariuomenę sustabdė žinia, jog karalius
-    Žygimantas prie Borisovo su trisdešimt tūkstančių rink­
-    tinių karių įkūrė stovyklą.
-    Tuo tarpu Glinskis suvo-
-    T ia g išk a s
-    M y k o lo
-    kė, jog visos jo viltys bergž-
-    G lin sk io  g a la s
-    džios ir tuščios, nes Vasili­
-    jus, žodžiu pažadėjęs jam ati­
-    duoti Smolenską ir šitaip atsilyginti už paramą, nė
-    nesirengė to daryti.
+    Kiek galėdamas šitokiems siūlymams priešinosi Solo-
+    gubas; visaip įrodinėdamas ir įtikinėdamas, jis mal­
+    daute maldavo vardan visų šventųjų, kad, skubotai
+    pasiduodami, neterštų šlovės, kurią įsigijo, garbingai
+    dvylika metų gindami pilį. Mat neilgai trukus į pa­
+    galbą atskubėsiąs karalius, kuris šiuo metu jau prie
+    Minsko: šitai ne gandai, bet tikros žinios. Vis dėlto
+    protingos kalbos neįtikino tų, kurie dėl išglebimo ry­
+    žosi žengti šį beprotišką žingsnį, reikalaudami veikiau
+    išduoti pilį, o ne pasiduoti. Nenorėdami, kad kuriam
+    vienam tektų visa atsakomybė už šį neapykantos vertą
+    sumanymą, jie visi lyg susitarę ėmė šaukti, kad reikia
+    kuo greičiausiai atiduoti pilį, antraip įgulos viršinin­
+    kas žūsiąs nuo jų rankos. Palaužtas jų maištingų nuo­
+    taikų, Sologubas balandžio 20 d. atidavė Glinskiui Smo­
+    lenską; ši žemė, Vytautui nukariavus jos kunigaikščius,
+    ištisą šimtmetį išbuvo Lietuvos didžiųjų kunigaikščių
+    valdžioje.
+  citata_rodoma: "Prie Smolensko įkūręs stovyklą ir pasilikęs čia su dvi­\ndešimt tūkstančių karių, pasiuntė į Lietuvą aštuonias­\ndešimt tūkstančių, įsakydamas, užėmus Oršą bei Druc-\nką, traukti tiesiai į Lietuvos sostinę Vilnių. Žygiuojan­\nčią į priekį kariuomenę sustabdė žinia, jog karalius\nŽygimantas prie Borisovo su trisdešimt tūkstančių rink­\ntinių karių įkūrė stovyklą.\nTuo tarpu Glinskis suvo-\nT ia g išk a s\nM y k o lo\nkė, jog visos jo viltys bergž-\nG lin sk io  g a la s\ndžios ir tuščios, nes Vasili­\njus, žodžiu pažadėjęs jam ati­\nduoti Smolenską ir šitaip atsilyginti už paramą, nė\nnesirengė to daryti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -701,8 +423,7 @@ media_all_json: |-
 - id: c-168269
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 655"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 655."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Galop jis pa­
     prašė leisti laisvai sugrįžti į Maskvą tiems pirkliams
@@ -728,8 +449,7 @@ media_all_json: |-
 - id: c-171544
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 514"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iš tikrųjų tais me­
     tais vyko Lenkijos seimas Piotrkove, trukęs ilgai
@@ -752,8 +472,7 @@ media_all_json: |-
 - id: c-171545
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 514"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nors karalius
     nenutraukė karo veiksmų, už kuriuos stojo San­
@@ -775,63 +494,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188656
-
-- id: c-176138
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 664"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 664."
-  citata_originali: |
-    Ne mažiau
-    bėdų Maskvos kunigaikštystei pridarė galingi didikai,
-    pradėję nesutarti ir žiauriai vienas kitą persekioti; kai
-    varžovai nusiaubė kelias priešingos grupuotės šeimas,
-    kunigaikštis Simonas Belskis ir Ivanas Liackis, neapsi­
-    kęsdami su šitokiu gyvenimu,
-    M a sk v o s d id ik a i p e r-
-    pasiprašė su visais turtais
-    ein a  į L ie tu v ą
-    karaliaus Žygimanto prieg­
-    laudos.
-    Karalius
-    maloniai
-    juos Vilniuje priėmė ir apdovanojo didelėmis valdo­
-    mis. Liackiui atiteko Želudokas ir Aukštadvaris, jis davė
-    pradžią garsiai šeimai, pelniusiai šlovę taikos darbais
-    bei karo žygiais ir aukščiausiomis pareigybėmis.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193416
-
-- id: c-176648
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Tą pačią žiemą didysis kunigaikštis
-    Aleksandras su didžiąja kunigaikštiene Elena bei su
-    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
-    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
-    j Vilnių 3 .
-    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
-    taus gimimo tūkstantis keturi šimtai devyniasdešimt
-    šeštaisiais didysis kunigaikštis Aleksandras išvyko
-    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
-    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
-    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
-    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
-    tais sumanė ir nutarė — visa tai paliko didelė paslap­
-    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
-    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194023
 
 - id: c-176845
   autorius: "Michał Baliński"
@@ -858,3 +520,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194249
+
+## Ryšiai
+- Kariavo prieš: [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]]

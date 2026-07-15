@@ -44,21 +44,6 @@ media_all_json: |-
   teiginys: "K. Hevekebo „Die Schlacht bei Tannenberg“ 1906 m. buvo apginta kaip disertacija Berlyne."
   pagrindžia:
     - c-33605
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    11-19 p. — Gókski, K. : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,
-    nr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.
-    Berlin 1906.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

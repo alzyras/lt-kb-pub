@@ -80,7 +80,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - susijęs iš Fišhauzenas: Rinavos valsčiaus sembai užpuolė Sembos vyskupo pilį Fišhauzeną, kurioje tuo metu buvo tik vienas brolis ir jo tarnas.
 - susijęs iš [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą.md#claim-t-192101|Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]: Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -98,24 +97,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Rinavos valsčiaus sembų naują atskalūnybę
-
-      Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
-    sukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.
-    Todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
-    tebuvo du vyrai: vienas brolis bei jo tarnas. Ir štai kokie stebuklai!
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
 
 - c-003
   santrauka: 'Rinava buvo vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus.'
@@ -138,15 +119,14 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - id: c-87071
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
-
-      Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė
-    kariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su
-    visu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion
-    sugrįžo anksčiau čia viešpatavusi taika.
+    Manoma, kad Vitlandu vadinta
+    ne tik Aismarių nerija, bet ir kontinentinė Pagudė bei Notanga, pavadinimas kildinamas
+    iš baltų vidus, plg. latvių Vidzeme (Źródła skandynawskie.., p. 107—109 — Labuda G.).
+    Semba buvo pavadinta ir vardu Weydelant (SRP, 2, p. 404), plg. Sembos vietovardžius:
+    Weyden, Wayday, Waiditen, Waidipelkis ir lie. Vaidžiai, Vaidbaliai (GAO, p. 191, 198),
+    Vaidlėnai, Vaidlonys, Vaidulioniai, Vaideliotai.
   citata_rodoma: "Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį\n\n  Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė\nkariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su\nvisu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion\nsugrįžo anksčiau čia viešpatavusi taika."
   statusas: verified
   teiginio_tipas: faktas
@@ -158,33 +138,31 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - id: c-87072
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Rinavos valsčiaus sembų naują atskalūnybę
-
-      Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
+    Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
     sukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.
-    Todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
+    Todėl jie, subūrę kariuomenę,  užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
     tebuvo du vyrai: vienas brolis bei jo tarnas. Ir štai kokie stebuklai!
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91357
     - t-91356
+    - t-91357
 
 - id: c-87073
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    382 D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau —
-    Rinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus. Rinavos
-    pilis, matyt, buvusi Galtgarbių aukštumoje (117 m virš Baltijos jūros lygio įrengtame
-    piliakalnyje tarp Galtgarbių ir Kumėnų (Kumehnen).
+    112 (107). Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
+    Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino
+    Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo
+    vieno ten gyvenusio sembo, vadinamo Laukstetu, vardo, jas sustiprinant, kad būtų
+    lengviau tramdyti sembus.
   citata_rodoma: "382 D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau —\nRinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus."
   statusas: verified
   teiginio_tipas: faktas

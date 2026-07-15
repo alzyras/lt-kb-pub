@@ -8,12 +8,12 @@ datos:
   - '1217 m.'
 date_start: '1216'
 date_end: '1217'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,8 +55,8 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   teiginys: "Naujojoje didžiojo magistro kronikoje minima pilis patikslinama kaip Cenauwe."
   pagrindžia:
     - c-61582
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Naujojoje didžiojo magistro kronikoje minima pilis patikslinama kaip Cenauwe.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -72,51 +72,19 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   pagrindžia:
     - t-003
 
-- c-002
-  santrauka: 'Didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Prerochą ir Corantą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Didžiųjų
-    magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Preroch  ir
-    Corant (Lettouwen Preroch ende Corant — SRP, 5, p. 67) arba tris pasiuntinius, kurių
-    vardai: Lettouwe, Preroch, Corant.
-      Mazovijos kunigaikštis Konradas galėjęs bandyti atsipirkti nuo prūsų antpuolių po
-    1216—1217 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    445 Greičiausiai su Skomanto sūduviais žygiavo kariai iš Gardino ar Naugarduko
-    žemių, pavaldžių Lietuvai. Sis antpuolis, matyt, susijęs su Traidenio politika vakaruose
-    (Paszkiewicz H., Jagiellonowie.., p. 130—131). Vėlesnėje didžiojo magistro kronikoje
-    Skomantas vadinamas lietuvių vadu (der Letouwen hoiftman — SRP, 5, p. 110).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-61582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100),
-    kitur — Connuvedit (GAO, p. 70; Hennenberger C., Erclerung.., p. 43; VBK; Ewald A. L.,
-    Die Eroberung.., 4, 109; Sch-K).
+    Apie 3 brolių ir 40 vyrų nužudymą
+    Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene
+    patraukė prie Baigos. Broliai su savo kariais, jiems priešindamiesi, nukovė du kilmingus
+    prūsus. Tą dieną pakilo tokia migla, kad žmonės, tolėliau stovėdami, negalėjo kits kito
+    matyti.
+  citata_rodoma: "412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100),\nkitur — Connuvedit (GAO, p. 70; Hennenberger C., Erclerung.., p. 43; VBK; Ewald A. L.,\nDie Eroberung.., 4, 109; Sch-K)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -127,8 +95,7 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
 - id: c-61583
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 44"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Didžiųjų
     magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Preroch  ir
@@ -146,8 +113,7 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
 - id: c-61584
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     445 Greičiausiai su Skomanto sūduviais žygiavo kariai iš Gardino ar Naugarduko
     žemių, pavaldžių Lietuvai. Sis antpuolis, matyt, susijęs su Traidenio politika vakaruose

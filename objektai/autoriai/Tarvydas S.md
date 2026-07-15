@@ -43,29 +43,13 @@ Dusburgietis teigia, kad tarvydas S.
   teiginys: "S. Tarvydas 1967 m. paskelbė straipsnį apie vakarinių lietuvių genčių teritorijų istorinius-geografinius landšaftus."
   pagrindžia:
     - c-61429
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'S. Tarvydas 1967 m. paskelbė straipsnį apie vakarinių lietuvių genčių teritorijų istorinius-geografinius landšaftus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tarvydas S. Vakarinių lietuvių genčių teritorijos istoriniai-geografiniai landšaftai.—
-    Geografinis metraštis, V., 1967, 8, p. 53—62.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61429
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tarvydas S. Vakarinių lietuvių genčių teritorijos istoriniai-geografiniai landšaftai.—
     Geografinis metraštis, V., 1967, 8, p. 53—62.

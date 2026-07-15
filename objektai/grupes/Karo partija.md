@@ -35,23 +35,6 @@ Iš to susidarė dvi partijos: karo ir taikos.
   teiginys: "Vytautas ir karo partija reikalavo mūšio, nors taikos partija ragino jį sudaryti paliaubas su totoriais."
   pagrindžia:
     - c-35580
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Iš to susidarė
-    dvi partijos: karo ir taikos. Taikos partija, turėdama galvoje
-    totorių kariuomenės didelį skaičių, prikalbinėjo Vytautą dary­
-    ti paliaubas. Bet Vytautas ir karo partija, į nieką neatsižiūrė­
-    dami, reikalavo mūšio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

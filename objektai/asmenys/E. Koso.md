@@ -36,25 +36,6 @@ Rusų gynybos centrinius įtvirtinimus atakavo 7-asis lenkų pėstininkų pulkas
   teiginys: "Pulkininkas E. Koso vadovavo 7-ajam lenkų pėstininkų pulkui, atakavusiam rusų gynybos centrinius įtvirtinimus."
   pagrindžia:
     - c-41527
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rusų gynybos centrinius įtvirtinimus
-    atakavo 7-asis lenkų pėstininkų pulkas,
-    vadovaujamas pulkininko E. Koso, ir 2-asis
-    (lietuvių) pėstininkų pulkas, vadovau-
-    jamas plk. S. Radziševskio. Pulkas buvo
-    tik prieš 5 dienas suformuotas ir kariai
-    jaudinosi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

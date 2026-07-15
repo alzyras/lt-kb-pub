@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui. Po Gostinino žygio lietuviai su didesnėmis pajėgomis grįžo į Konrado valdas ir iš sąjungininkų tapo priešais.
+Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui. Po Gostinino žygio lietuviai su didesnėmis pajėgomis grįžo į Konrado valdas ir iš sąjungininkų tapo priešais. Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -55,39 +55,19 @@ Nenurodyta
   teiginys: "Po Gostinino žygio lietuviai su didesnėmis pajėgomis grįžo į Konrado valdas ir iš sąjungininkų tapo priešais."
   pagrindžia:
     - c-169106
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169105
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vasarai įpusėjus, lietuviai galop sulaukė ramybės ir
-    netgi surengė vieną kitą žygį į svetimą kraštą. Pa­
+    Pa­
     kviesti Konrado, Čersko Mazovijos kunigaikščio, at­
     ėmė iš Kujavijos kunigaikščio Vladislovo Gostininą ir,
     išžudę dalį įgulos, o dalį su kitu grobiu išsivarę į ne­
     laisvę, atidavė apiplėštą pilį Konradui. Žinoma, visada
-    pavojinga telktis priešą į pa­
-    galbą, nes jis trumpą ginklų
-    draugystę gali slaptai panau­
-    doti savo reikalams ir, išty­
-    ręs padėtį kaip draugas, vė­
-    liau kur kas saugiau veikti
-    kaip priešas; šito susilaukė ir
-    Konradas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Po Gostinino žygio lietuviai su didesnėmis pajėgomis grįžo į Konrado valdas ir iš sąjungininkų tapo priešais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Žinoma, visada
     pavojinga telktis priešą į pa­
     galbą, nes jis trumpą ginklų
     draugystę gali slaptai panau­
@@ -102,40 +82,7 @@ Nenurodyta
     krašto turtais ir įniko grobstyti, o beieškodami grobio,
     Įsitraukė į karą; vos parsigabenę namo grobį iš Gos-
     tinino, jie su stambesnėmis jėgomis sugrįžo į Konrado
-    valdas, staiga iš sąjungininkų virtę priešais. Jie netru­
-    ko užimti Sochačevo ir Plocko apygardas; dvarus ir
-    visa kita, ko negalėjo išsigabenti iš krašto kaip gro­
-    bio, sunaikino ugnimi ir kalaviju.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Citatos
-
-- id: c-169105
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 157"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 157."
-  citata_originali: |
-    Vasarai įpusėjus, lietuviai galop sulaukė ramybės ir
-    netgi surengė vieną kitą žygį į svetimą kraštą. Pa­
-    kviesti Konrado, Čersko Mazovijos kunigaikščio, at­
-    ėmė iš Kujavijos kunigaikščio Vladislovo Gostininą ir,
-    išžudę dalį įgulos, o dalį su kitu grobiu išsivarę į ne­
-    laisvę, atidavė apiplėštą pilį Konradui. Žinoma, visada
-    pavojinga telktis priešą į pa­
-    galbą, nes jis trumpą ginklų
-    draugystę gali slaptai panau­
-    doti savo reikalams ir, išty­
-    ręs padėtį kaip draugas, vė­
-    liau kur kas saugiau veikti
-    kaip priešas; šito susilaukė ir
-    Konradas.
+    valdas, staiga iš sąjungininkų virtę priešais.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -146,8 +93,7 @@ Nenurodyta
 - id: c-169106
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 157"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 157."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Žinoma, visada
     pavojinga telktis priešą į pa­

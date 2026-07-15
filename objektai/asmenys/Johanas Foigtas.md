@@ -8,15 +8,15 @@ datos:
   - '1770 m.'
 date_start: '1770'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - asmuo
-amziai:
-  - 'XVIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -73,13 +73,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   pagrindžia:
     - c-173772
 
-<a id="claim-t-190891"></a>
-- t-006
-  global_id: t-190891
-  teiginys: "IV priede Narbutas pateikė Johano Foigto surinktas žinias apie senovės Prūsijos provincijų geografiją, statistiką ir istoriją."
-  pagrindžia:
-    - c-173773
-
 <a id="claim-t-190892"></a>
 - t-007
   global_id: t-190892
@@ -88,61 +81,42 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     - c-173774
 
 <a id="claim-t-190893"></a>
-- t-008
+- t-006
   global_id: t-190893
   teiginys: "Narbutas vertino, kad Johano Foigto tyrimas dėl aptariamos tvirtovės lokalizacijos prie Ząsupėnų buvo kiek klaidingas."
   pagrindžia:
     - c-173775
 
-<a id="claim-t-194710"></a>
-- t-009
-  global_id: t-194710
-  teiginys: "Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Grunau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui, taip pat turėdami omenyje kronikininkams būdingus trūku mus, negalime neginti Grunau15."
+<a id="claim-t-197756"></a>
+- t-010
+  global_id: t-197756
+  teiginys: "Senovės tyrinėtojai, pradedant Plinijaus kom piliacijomis ir baigiant nuodugniai mąstančiu Uphagenu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, net mokytasis ponas Foigtas patenka į keblią padėtį šia prasme ir daro visiškai netaiklias išvadas2."
   pagrindžia:
-    - c-177106
+    - c-173771
+
+<a id="claim-t-197757"></a>
+- t-009
+  global_id: t-197757
+  teiginys: "Iš dalies tai buvo pono Foigto studijos apie senovės Sambijos vitingus (Geschichte der Eidechsen Gesellschaft in Preussen."
+  pagrindžia:
+    - c-179327
+
+<a id="claim-t-197758"></a>
+- t-008
+  global_id: t-197758
+  teiginys: "Ponas Foigtas rado Berlyno rankraštyje vietovardį Raganita, ir tai žinomas pats tikriausias pavadinimas, nes jis kilęs iš mitinio vardo Ragana."
+  pagrindžia:
+    - c-179328
+
+<a id="claim-t-197759"></a>
+- t-011
+  global_id: t-197759
+  teiginys: "Johanas Foigtas buvo prie Šyšos upės, kuri kita dos turėjo būti vadinama Cyse arba Sussa."
+  pagrindžia:
+    - c-173775
 - susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-188413|Johanas Foigtas]]: Johanas Foigtas buvo Karaliaučiaus universiteto profesorius ir daugiatomės „Prūsijos istorijos“ autorius.
 - susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-187954|Albertas Vijūkas-Kojalavičius]]: S. Daukantas T. Narbutui atsiuntė Alberto Vijūko-Kojalavičiaus „Herbyną“, Lietuvos bajorų giminių genealogijų rinkinį.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tuščiagarbio vienuolio išmone, bet šį priekaištą perėmė iš Hartknocho.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
-    da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
-    nuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra
-    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
-    argumentų, vien kaip savo paties abejonę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas rašo, kad Johanas Foigtas, remdamasis prūsų apskaitos knygomis, nurodė 1770 m. Semboje surinktą didelį gintaro kiekį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Sis didelis gintaro kiekis nėra perdėtas, nes
-    -senovėje jo daugybė galėjo pranokti bet kokią šiandienę
-    fantaziją. Ponas Foigtas, patvirtindamas tą patį, nurodo
-    pavyzdį iš prūsų apskaitos knygų, kad 1770 metais Sem­
-    boje surinkta daugiau kaip 411 laivo statinių, arba 65 760
-    svarų karališko svorio, gintaro2. Bet neaišku, ar tas ro­
-    mėnų riteris buvęs pačiose kasyklose, ar rašytojai tik tei­
-    gia, kad tai įvykę Germanijoje arba kairiojoje Vyslos pa­
-    krantėje; ten galėjęs valdyti koks nors gotų, prekiavusių
-    tiesiai -iš kasyklų gaunamu gintaru, karalius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Pasak Narbuto, Reinchardo teiginys apie Stavaniją rėmėsi Johanu Foigtu ir vietovardžiais Stabinas bei Staviškės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -166,17 +140,17 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   santrauka: 'Narbutas vertina, kad Johanas Foigtas, svarstydamas skirių ir hirių gentis, pateko į keblią padėtį ir darė netaiklias išvadas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Galbūt ir
-    lietuvių kalba jie vadinosi skiriais, nes esama panašiai
-    skambančių senovės vietovardžių: Skirvytė, Skirai, Skir-
-    nreliškės1. Senovės tyrinėtojai, pradedant Plinijaus kom­
+    Senovės tyrinėtojai, pradedant Plinijaus kom­
     piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
     nu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis,
     net mokytasis ponas Foigtas patenka į keblią padėtį šia
     prasme ir daro visiškai netaiklias išvadas2. Pernelyg daug
     laiko reikėtų tam, kad paneigtume visas hipotezes, o ant­
     ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
-    vėliau parašyti.
+    vėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­
+    rės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,
+    j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
+    įsikūrusi Bartėnų seniūnijoje.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -184,6 +158,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+    - t-010
 
 - c-005
   santrauka: 'III priede Narbutas pateikė Johano Foigto ištrauką apie dingusį Vitiemdijos kraštą ir Aistmarių ploto išsiplėtimą į rytus.'
@@ -217,36 +192,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   pagrindžia:
     - t-005
 
-- c-006
-  santrauka: 'IV priede Narbutas pateikė Johano Foigto surinktas žinias apie senovės Prūsijos provincijų geografiją, statistiką ir istoriją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    342
-
-    ## Puslapis 353
-
-    *■ *  *
-    IV priedas
-    S e n o v ė s  P rū sijo s
-    g e o g r a fija
-    Ištrauka iš Foigto
-    (Gesch. Preuss. B. I. S. 476—510)
-    Nors aprašėme atskiras senovės Prūsijos provincijas,
-    tačiau, kadangi puikus šios tautos istorijos išmanymas
-    padeda geriau pažinti tautos istoriją, ne pro šalį bus pa­
-    teikti čia geografinius, statistinius ir istorinius visų pro­
-    vincijų aprašymus, kai jas XIII amžiaus pradžioje rado
-    kryžiuočiai, bent tam, kad supažindintume mūsų skaity­
-    tojus su tomis žiniomis, kurias surinko mokslininkas is­
-    torikas ponas Foigtas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 - c-007
   santrauka: 'Pasak Narbuto, Johanas Foigtas manė, kad Salavija senais pagonių laikais buvo kitas Lietuvos kraštas, vadintas Pusne.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -265,68 +210,22 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   pagrindžia:
     - t-007
 
-- c-008
-  santrauka: 'Narbutas vertino, kad Johano Foigto tyrimas dėl aptariamos tvirtovės lokalizacijos prie Ząsupėnų buvo kiek klaidingas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
-
-    ## Puslapis 370
-
-    dos turėjo būti vadinama Cyse arba Sussa. Bet panašiau
-    į tiesą tai, kad ji buvo tarp Eimenio ir Ząsupės upelių, į
-    pietryčius nuo Kraupiškių kaimo, netoli Įsros upės, kur
-    esama tvirtovės pėdsakų ant kalno prie Ząsupėnų kaimo;
-    tai labiau primena šį pavadinimą, nors ši vieta, mūsų
-    nuomone, priklauso Nadruvai. Pono Foigto tyrimas yra
-    kiek klaidingas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Grunau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui, taip pat turėdami omenyje kronikininkams būdingus trūku mus, negalime neginti Grunau15.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    432
-
-    ## Puslapis 432
-
-    tinių lobį ir ne bet kokiais motyvais sugundomas pataikauti
-    net tiems, kurių valdomas gyveno ir kurių paramos sulauk­
-    davo.
-    Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
-    nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
-    taip pat turėdami omenyje kronikininkams būdingus trūku­
-    mus, negalime neginti Grunau15. Žinią apie vyriausiuosius žy­
-    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
-    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
-    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
 ## Citatos
 
 - id: c-172915
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 431"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
-    da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
-    nuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra
-    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
-    argumentų, vien kaip savo paties abejonę.
+    būti tariama Mergo; Henenbergerio Ronis yra Romais - visiš­
+    kai lietuviškas vardas; Bollojsus atsispindi pas mus pačius Lie­
+    tuvoje daugelyje vietovardžių - Balčiai (Bolcie), Baltininkai
+    (Bolcieniki), Balaičiai (Bolojcie). Pagaliau kritikas, norėdamas
+    visiškai sugriauti vyriausiųjų žynių sąrašą, sako, kad Jaygello,
+    Jargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo
+    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
+    tuva kilties ir vienos genties broliai?
+  citata_rodoma: "Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­\nda apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­\nnuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra\npaimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas\nargumentų, vien kaip savo paties abejonę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -337,8 +236,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 - id: c-173769
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 175"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 175."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sis didelis gintaro kiekis nėra perdėtas, nes
     -senovėje jo daugybė galėjo pranokti bet kokią šiandienę
@@ -360,16 +258,18 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 - id: c-173770
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 273."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau vokiečių senovės tyrinėtojai prira­
-    šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti
-    visiškai nereikšmingi. Naujausias yra Reinchardo teigi­
+    Naujausias yra Reinchardo teigi­
     mas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi
     į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,
     nes ten yra vietovardžių Stabinas, Staviškės. Tai bent
-    etimologinių išvadų pagrindas!
+    etimologinių išvadų pagrindas! Sztaba (liejinys), Staw
+    (tvenkinys) nors ir labai panašiai skamba, tačiau tai
+    lenkiški žodžiai, ir, jei gerbiamieji istorikai būtų tai su­
+    vokę, jiems, be abejo, nereikėtų vargti ieškant lietuviams
+    vietos svetimoje žemėje, kur jie niekados negyveno.
+  citata_rodoma: "Tačiau vokiečių senovės tyrinėtojai prira­\nšė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti\nvisiškai nereikšmingi. Naujausias yra Reinchardo teigi­\nmas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi\nį pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,\nnes ten yra vietovardžių Stabinas, Staviškės. Tai bent\netimologinių išvadų pagrindas!"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -380,39 +280,38 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 - id: c-173771
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 275"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 275."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Galbūt ir
-    lietuvių kalba jie vadinosi skiriais, nes esama panašiai
-    skambančių senovės vietovardžių: Skirvytė, Skirai, Skir-
-    nreliškės1. Senovės tyrinėtojai, pradedant Plinijaus kom­
+    Senovės tyrinėtojai, pradedant Plinijaus kom­
     piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
     nu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis,
     net mokytasis ponas Foigtas patenka į keblią padėtį šia
     prasme ir daro visiškai netaiklias išvadas2. Pernelyg daug
     laiko reikėtų tam, kad paneigtume visas hipotezes, o ant­
     ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
-    vėliau parašyti.
+    vėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­
+    rės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,
+    j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
+    įsikūrusi Bartėnų seniūnijoje. Vėliau sužinosime, kad ją įkūrė dar
+    XIII amžiuje arba XIV amžiaus pradžioje ateiviai iš kitų Lietuvos
+    žemės kraštų.
+  citata_rodoma: "Senovės tyrinėtojai, pradedant Plinijaus kom­\npiliacijomis ir baigiant nuodugniai mąstančiu Uphage- \nnu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, \nnet mokytasis ponas Foigtas patenka į keblią padėtį šia \nprasme ir daro visiškai netaiklias išvadas2. Pernelyg daug \nlaiko reikėtų tam, kad paneigtume visas hipotezes, o ant­\nra vertus, tektų kartoti tai, ką jau rašėme arba ketiname \nvėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­\nrės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,\nj Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė, \nįsikūrusi Bartėnų seniūnijoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190889
+    - t-197756
 
 - id: c-173772
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    333
-
-    ## Puslapis 344
-
-    *  *  *
+    * * *
     III priedas
-    A p ie  d in g u s į
+    A p ie d in g u s į
     Vitiem dijos k ra štą
     Ištrauka iš Foigto
     (Gesch. Preuss. B. I. S. 677)
@@ -425,7 +324,9 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     ypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies
     ir Piliavos miesto viską dengia marių vandenys, anks­
     tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
-    nėra naujas teiginys.
+    nėra naujas teiginys. Dar kronikininkas Lukas Davidas
+    (t. IT.
+  citata_rodoma: "333\n\n## Puslapis 344\n\n*  *  *\nIII priedas\nA p ie  d in g u s į\nVitiem dijos k ra štą\nIštrauka iš Foigto\n(Gesch. Preuss. B. I. S. 677)\nTai,\nkad\nAistmarės1\ngerokai\nišplėtė savo\nplotą,\nypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies\nir Piliavos miesto viską dengia marių vandenys, anks­\ntesniais laikais buvo gyvenama sausuma, jokiais požiūriais\nnėra naujas teiginys."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -433,48 +334,21 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   pagrindzia:
     - t-190890
 
-- id: c-173773
+- id: c-173774
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    342
-
-    ## Puslapis 353
-
-    *■ *  *
-    IV priedas
-    S e n o v ė s  P rū sijo s
-    g e o g r a fija
-    Ištrauka iš Foigto
-    (Gesch. Preuss. B. I. S. 476—510)
-    Nors aprašėme atskiras senovės Prūsijos provincijas,
-    tačiau, kadangi puikus šios tautos istorijos išmanymas
-    padeda geriau pažinti tautos istoriją, ne pro šalį bus pa­
-    teikti čia geografinius, statistinius ir istorinius visų pro­
-    vincijų aprašymus, kai jas XIII amžiaus pradžioje rado
-    kryžiuočiai, bent tam, kad supažindintume mūsų skaity­
-    tojus su tomis žiniomis, kurias surinko mokslininkas is­
-    torikas ponas Foigtas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190891
-
-- id: c-173774
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 369"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
-  citata_originali: |
+    Prireikus jie vadovavo ginkluotiems žmo­
+    nėms, be to, iš jų buvo renkamas vyriausias karvedys,
+    kuriuo pastaruoju laiku buvo vitingas Glaudė.
     Salavija
     Vienuolikta Prūsijos provincija buvo Salavija, Scha-
     laueri. Jos sienas pažymėti yra labai sunku. Kadangi se­
     nais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,
     bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­
     tas, t. y. Pusnė.
+  citata_rodoma: "Salavija\nVienuolikta Prūsijos provincija buvo Salavija, Scha-\nlaueri. Jos sienas pažymėti yra labai sunku. Kadangi se­\nnais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,\nbet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­\ntas, t. y. Pusnė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -487,46 +361,58 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Gar­
+    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
+    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
     Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
-
-    ## Puslapis 370
 
     dos turėjo būti vadinama Cyse arba Sussa. Bet panašiau
     į tiesą tai, kad ji buvo tarp Eimenio ir Ząsupės upelių, į
     pietryčius nuo Kraupiškių kaimo, netoli Įsros upės, kur
     esama tvirtovės pėdsakų ant kalno prie Ząsupėnų kaimo;
     tai labiau primena šį pavadinimą, nors ši vieta, mūsų
-    nuomone, priklauso Nadruvai. Pono Foigto tyrimas yra
-    kiek klaidingas.
+    nuomone, priklauso Nadruvai.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190893
+    - t-197759
 
-- id: c-177106
+- id: c-179327
   autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    432
-
-    ## Puslapis 432
-
-    tinių lobį ir ne bet kokiais motyvais sugundomas pataikauti
-    net tiems, kurių valdomas gyveno ir kurių paramos sulauk­
-    davo.
-    Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
-    nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
-    taip pat turėdami omenyje kronikininkams būdingus trūku­
-    mus, negalime neginti Grunau15. Žinią apie vyriausiuosius žy­
-    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
-    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
-    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
+    Iš dalies
+    tai buvo pono Foigto studijos apie senovės Sambijos vi-
+    tingus (Geschichte der Eidechsen Gesellschaft in Preus-
+    sen. S. 206—208) teiginiai; tačiau ten nepakako vietos
+    viską plačiai išdėstyti, ir tik vienas dokumentas su pra­
+    dingusios žemės dydžio aprašymu sudarė svarbiausio
+    įrodymo pagrindą. Čia plačiau panagrinėsime tuos tei­
+    ginius.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194710
+    - t-197757
+
+- id: c-179328
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Ragainė Hartknocho išleistame Dus-
+    burgo veikale klaidingai pavadinta Ramige (p. III. C.
+    178). Ponas Foigtas rado Berlyno rankraštyje vietovardį
+    Raganita, ir tai žinomas pats tikriausias pavadinimas, nes
+    jis kilęs iš mitinio vardo Ragana.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197758

@@ -41,26 +41,6 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
   teiginys: "Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai emigrantai."
   pagrindžia:
     - c-49074
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai emigrantai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Per 20 metų iš
-    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
-    vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
-    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų). Jiems
-    padėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams
-    Gen. Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse
-    pagamintas lengvasis bombonešis ANBO VIII (1939 m.)
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

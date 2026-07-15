@@ -44,36 +44,15 @@ Dusburgietis teigia, kad apie brolį Liudviką, septintą Prūsijos žemės magi
   pagrindžia:
     - c-61010
 - susijęs iš [[objektai/ivykiai/Brolio Ulricho laivų kautynės ir 50 prūsų žūtis.md#claim-t-91911|Brolio Ulricho laivų kautynės ir 50 prūsų žūtis]]: Brolis Ulrichas laivų kautynėse stiebu daužė prūsų laivus ir nuskandino jų tiek, kad kartu su laivais žuvo 50 prūsų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Liudvikas iš Baldensheimo nuo 1265 m. šešerius metus vadovavo kaip septintasis Prūsijos magistras.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    124 (119). Apie brolį Liudviką, septintą Prūsijos žemės magistrą
-
-       Brolis  Liudvikas  iš Baldensheimo,  septintas  Prūsijos  magistras, vadovavo nuo
-    1265 viešpaties metų šešerius metus396. Tuo metu maršalu buvo brolis Fridrichas iš
-    Holdenštetės397.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-61010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 129"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 129."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     124 (119). Apie brolį Liudviką, septintą Prūsijos žemės magistrą
-
-       Brolis  Liudvikas  iš Baldensheimo,  septintas  Prūsijos  magistras, vadovavo nuo
+    Brolis Liudvikas iš Baldensheimo, septintas Prūsijos magistras, vadovavo nuo
     1265 viešpaties metų šešerius metus396. Tuo metu maršalu buvo brolis Fridrichas iš
     Holdenštetės397.
   citata_rodoma: "Apie brolį Liudviką, septintą Prūsijos žemės magistrą\n\n   Brolis  Liudvikas  iš Baldensheimo,  septintas  Prūsijos  magistras, vadovavo nuo\n1265 viešpaties metų šešerius metus396. Tuo metu maršalu buvo brolis Fridrichas iš\nHoldenštetės397."

@@ -35,30 +35,6 @@ Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir semi
   teiginys: "Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir seminarijoje, kur iki tol buvo lenkiškai dėstoma homiletika (pamokslų mokslas); dabar buvo įsakyta ją dėstyti rusiškai arba lietuviškai."
   pagrindžia:
     - c-176015
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir seminarijoje, kur iki tol buvo lenkiškai dėstoma homiletika (pamokslų mokslas); dabar buvo įsakyta ją dėstyti rusiškai arba lietuviškai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Muravjovas, iš visur išstumdamas len-
-
-
-    kų kalbą, uždraudė ją vartoti ir seminarijoje, kur iki tol buvo
-    lenkiškai dėstoma homiletika (pamokslų mokslas); dabar buvo
-    įsakyta ją dėstyti rusiškai arba lietuviškai. Nuo to laiko pro-
-    fesorius (vėliau Seinų vyskupas) Antanas Baranauskas čia ėmė
-    dėstyti lietuviškai lietuvių kalbą ir homiletiką. Jis pats buvo
-    geras lietuvių kalbos mokėtojas, jo jaunystės poezija irgi buvo
-    klierikams gerai žinoma, todėl niekas kitas čia negalėjo geriau
-    sukelti susidomėjimo lietuvių kalba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

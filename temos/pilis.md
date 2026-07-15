@@ -6,8 +6,8 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 417
-graph_hub: false
+tema_objektu_skaicius: 468
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 417.
+Objektų skaičius: 468.
 
 ## Kaip naudoti
 
@@ -25,32 +25,64 @@ Objektų skaičius: 417.
 
 ## Susiję objektai
 
+### Asmenys
+- [[objektai/asmenys/Derska]]
+- [[objektai/asmenys/Ditrichas iš Ezbeko]]
+- [[objektai/asmenys/Draika]]
+- [[objektai/asmenys/Ernekė]]
+- [[objektai/asmenys/Glapas]]
+- [[objektai/asmenys/Henrikas Cutsvertas]]
+- [[objektai/asmenys/Hermanas Saracėnas]]
+- [[objektai/asmenys/Jonas (Sarginio sūnus)]]
+- [[objektai/asmenys/Kunonas (Brandenburgo komtūras)]]
+- [[objektai/asmenys/Liudvikas iš Libencelės]]
+- [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- [[objektai/asmenys/Pomandas]]
+- [[objektai/asmenys/Samboras (Sventopelko sūnus)]]
+
+### Autoriai
+- [[objektai/autoriai/Beckherrn C]]
+- [[objektai/autoriai/Hartknochas]]
+- [[objektai/autoriai/Schmid B]]
+- [[objektai/autoriai/Tuulse A]]
+
+### Grupės
+- [[objektai/grupes/Pagudėnai]]
+
+### Papročiai
+- [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]
+- [[objektai/paprociai/Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis|Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis (pilis)]]
+- [[objektai/paprociai/Kristburgo brolių asketinė drausmė ir kasdienė geležinė grandinė]]
+- [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]
+- [[objektai/paprociai/Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika]]
+
 ### Vietos
 - [[objektai/vietos/Aismares]]
-- [[objektai/vietos/Aistmarios]]
-- [[objektai/vietos/Alenšteinas]]
-- [[objektai/vietos/Angerburgas]]
-- [[objektai/vietos/Angeteta]]
-- [[objektai/vietos/Apulija]]
-- [[objektai/vietos/Apuolės pilis|Apuolės pilis (pilis)]]
-- [[objektai/vietos/Arsa]]
-- [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]]
-- [[objektai/vietos/Aukaimis]]
-- [[objektai/vietos/Auktalitas]]
-- [[objektai/vietos/Auktuolyčiai]]
-- [[objektai/vietos/Aukštutinė pilis]]
-- [[objektai/vietos/Baiga]]
-- [[objektai/vietos/Bajerburgas]]
-- [[objektai/vietos/Bajerburgas Raudonė]]
-- [[objektai/vietos/Bajerburgo pilis]]
-- [[objektai/vietos/Bajorų pilaitė]]
-- [[objektai/vietos/Bakota]]
-- [[objektai/vietos/Bakotos pilis|Bakotos pilis (pilis)]]
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Bartenšteinas]]
-- [[objektai/vietos/Bauskė]]
-- [[objektai/vietos/Bausmių aikštė]]
-- [[objektai/vietos/Belichovas]]
+- [Aistmarios](../objektai/vietos/Aistmarios)
+- [Alenšteinas](../objektai/vietos/Alen%C5%A1teinas)
+- [Angerburgas](../objektai/vietos/Angerburgas)
+- [Angeteta](../objektai/vietos/Angeteta)
+- [Apulija](../objektai/vietos/Apulija)
+- [Apuolės pilis (pilis)](../objektai/vietos/Apuol%C4%97s%20pilis)
+- [Arsa](../objektai/vietos/Arsa)
+- [Aukaimio pilis (pilis)](../objektai/vietos/Aukaimio%20pilis)
+- [Aukaimis](../objektai/vietos/Aukaimis)
+- [Auktalitas](../objektai/vietos/Auktalitas)
+- [Auktuolyčiai](../objektai/vietos/Auktuoly%C4%8Diai)
+- [Aukštutinė pilis](../objektai/vietos/Auk%C5%A1tutin%C4%97%20pilis)
+- [Baiga](../objektai/vietos/Baiga)
+- [Bajerburgas](../objektai/vietos/Bajerburgas)
+- [Bajerburgas Raudonė](../objektai/vietos/Bajerburgas%20Raudon%C4%97)
+- [Bajerburgo pilis](../objektai/vietos/Bajerburgo%20pilis)
+- [Bajorų pilaitė](../objektai/vietos/Bajor%C5%B3%20pilait%C4%97)
+- [Bakota](../objektai/vietos/Bakota)
+- [Bakotos pilis (pilis)](../objektai/vietos/Bakotos%20pilis)
+- [Baltija](../objektai/vietos/Baltija)
+- [Bartenšteinas](../objektai/vietos/Barten%C5%A1teinas)
+- [Bauskė](../objektai/vietos/Bausk%C4%97)
+- [Bausmių aikštė](../objektai/vietos/Bausmi%C5%B3%20aik%C5%A1t%C4%97)
+- [Belichovas](../objektai/vietos/Belichovas)
 - [Belichovo pilis](../objektai/vietos/Belichovo%20pilis)
 - [Bendras kontekstas vietos išvardytos kaip ginklų ir amunicijos rankraščio vietovių pavadinimai](../objektai/vietos/Bendras%20kontekstas%20vietos%20i%C5%A1vardytos%20kaip%20ginkl%C5%B3%20ir%20amunicijos%20rankra%C5%A1%C4%8Dio%20vietovi%C5%B3%20pavadinimai)
 - [Birgelava](../objektai/vietos/Birgelava)
@@ -198,7 +230,6 @@ Objektų skaičius: 417.
 - [Lielvardės pilis (pilis, XIII a.)](../objektai/vietos/Lielvard%C4%97s%20pilis)
 - [Liksna](../objektai/vietos/Liksna)
 - [Lisske](../objektai/vietos/Lisske)
-- [Liublino pilis](../objektai/vietos/Liublino%20pilis)
 - [Lochštetė](../objektai/vietos/Loch%C5%A1tet%C4%97)
 - [Lohajskas](../objektai/vietos/Lohajskas)
 - [Lotzenburgas](../objektai/vietos/Lotzenburgas)
@@ -277,7 +308,6 @@ Objektų skaičius: 417.
 - [Pilies kalnas Vilniuje (pilis)](../objektai/vietos/Pilies%20kalnas%20Vilniuje)
 - [Piltenė](../objektai/vietos/Pilten%C4%97)
 - [Pilėnai](../objektai/vietos/Pil%C4%97nai)
-- [Pinskas](../objektai/vietos/Pinskas)
 - [Plateliai](../objektai/vietos/Plateliai)
 - [Plikieji kalnai](../objektai/vietos/Plikieji%20kalnai)
 - [Plockas](../objektai/vietos/Plockas)
@@ -288,7 +318,6 @@ Objektų skaičius: 417.
 - [Poznanė](../objektai/vietos/Poznan%C4%97)
 - [Prieglius](../objektai/vietos/Prieglius)
 - [Prūsai](../objektai/vietos/Pr%C5%ABsai)
-- [Pskovas](../objektai/vietos/Pskovas)
 - [Pskovo pilis (pilis)](../objektai/vietos/Pskovo%20pilis)
 - [Putvė](../objektai/vietos/Putv%C4%97)
 - [Ragainė](../objektai/vietos/Ragain%C4%97)
@@ -443,3 +472,39 @@ Objektų skaičius: 417.
 - [Žiemgala](../objektai/vietos/%C5%BDiemgala)
 - [Žitomiras](../objektai/vietos/%C5%BDitomiras)
 - [Žizdra](../objektai/vietos/%C5%BDizdra)
+
+### Įvykiai
+- [1265-1268 m. maldininkų atvykimai į Prūsiją](../objektai/ivykiai/1265-1268%20m.%20maldinink%C5%B3%20atvykimai%20%C4%AF%20Pr%C5%ABsij%C4%85)
+- [Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)](../objektai/ivykiai/Antrasis%20Medinink%C5%B3%20%C5%BEygis%20ir%20Sizdit%C4%97s%20pilies%20puolimas%20%281314%20m.%20apie%20vasario%202%20d.%29)
+- [Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)](../objektai/ivykiai/Barten%C5%A1teino%20pilies%20apsiaustis%2C%20trij%C5%B3%20kuor%C5%B3%20sunaikinimas%20ir%20apleidimas%20%281264%20m.%29)
+- [Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)](../objektai/ivykiai/Brolio%20Ditricho%20i%C5%A1%20Ezbeko%20ir%20kit%C5%B3%20broli%C5%B3%20%C5%BE%C5%ABtis%20%C5%BEygyje%20link%20Gardino%20%281295%20m.%20gegu%C5%BE%C4%97s%2020%20d.%29)
+- [Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)](../objektai/ivykiai/Brolio%20Ernek%C4%97s%20%C5%BE%C5%ABtis%20prie%20Kolaini%C5%B3%20pilies%20%281290%20m.%20gegu%C5%BE%C4%97s%2012%20d.%29)
+- [Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)](../objektai/ivykiai/Brolio%20Gundramo%20ir%20daugelio%20lietuvi%C5%B3%20%C5%BE%C5%ABtis%20prie%20Kristburgo%20%281302%20m.%29)
+- [Gardino pilies sunaikinimas (pilis, XIII a.)](../objektai/ivykiai/Gardino%20pilies%20sunaikinimas)
+- [Heilsbergo pilies apsiaustis ir įgulos pasitraukimas (pilis)](../objektai/ivykiai/Heilsbergo%20pilies%20apsiaustis%20ir%20%C4%AFgulos%20pasitraukimas)
+- [Junigedos papilio sudeginimas (1315 m. spalio 12 d.)](../objektai/ivykiai/Junigedos%20papilio%20sudeginimas%20%281315%20m.%20spalio%2012%20d.%29)
+- [Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai](../objektai/ivykiai/Karaliau%C4%8Diaus%2C%20Kroicburgo%20ir%20Barten%C5%A1teino%20pili%C5%B3%20apsiaustis%20bei%20Karaliau%C4%8Diaus%20apgulties%20epizodai)
+- [Kilmingų sembų prisidėjimas prie Karaliaučiaus brolių](../objektai/ivykiai/Kilming%C5%B3%20semb%C5%B3%20prisid%C4%97jimas%20prie%20Karaliau%C4%8Diaus%20broli%C5%B3)
+- [Kolainių pilies puolimas (1290 m. balandžio 23 d.)](../objektai/ivykiai/Kolaini%C5%B3%20pilies%20puolimas%20%281290%20m.%20baland%C5%BEio%2023%20d.%29)
+- [Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)](../objektai/ivykiai/Kristmemelio%20pilies%20apgultis%20%281315%20m.%20rugs%C4%97jo%2030%E2%80%94spalio%2011%20d.%29)
+- [Laivų kautynės prie Santyro](../objektai/ivykiai/Laiv%C5%B3%20kautyn%C4%97s%20prie%20Santyro)
+- [Martyno iš Golino kova su 20 prūsų plėšikų](../objektai/ivykiai/Martyno%20i%C5%A1%20Golino%20kova%20su%2020%20pr%C5%ABs%C5%B3%20pl%C4%97%C5%A1ik%C5%B3)
+- [Naujas Sventopelko karas ir susidūrimas prie Renzeno](../objektai/ivykiai/Naujas%20Sventopelko%20karas%20ir%20susid%C5%ABrimas%20prie%20Renzeno)
+- [Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)](../objektai/ivykiai/Nes%C4%97kmingas%20Gardino%20pilies%20puolimas%20Vyteniui%20i%C5%A1vykus%20%C4%AF%20Livonij%C4%85%20%281296%20m.%29)
+- [Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)](../objektai/ivykiai/Ragain%C4%97s%20broli%C5%B3%20%C5%BEirg%C5%B3%20pagrobimas%20ir%20Ragain%C4%97s%20bei%20Skalvi%C5%B3%20papili%C5%B3%20sudeginimas%20%281295%20m.%29)
+- [Sartovicų pilies apgula ir devynių šimtų pomeranų žūtis (1243 m.)](../objektai/ivykiai/Sartovic%C5%B3%20pilies%20apgula%20ir%20devyni%C5%B3%20%C5%A1imt%C5%B3%20pomeran%C5%B3%20%C5%BE%C5%ABtis%20%281243%20m.%29)
+- [Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)](../objektai/ivykiai/Sventopelko%20taikos%20sulau%C5%BEymas%2C%20Kujavijos%20nusiaubimas%20ir%20Santyro%20pilies%20pastatymas)
+- [Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas](../objektai/ivykiai/S%C5%ABduvi%C5%B3%20%C5%BEygis%20Lubavos%20sugriovimas%2C%20Torun%C4%97s%20ligonin%C4%97s%20sudeginimas%20ir%20Kulmo%20puolimas)
+- [Treniotos žygis į Kulmo žemę ir Birgelavos pilies apiplėšimas (pilis)](../objektai/ivykiai/Treniotos%20%C5%BEygis%20%C4%AF%20Kulmo%20%C5%BEem%C4%99%20ir%20Birgelavos%20pilies%20apipl%C4%97%C5%A1imas)
+- [Vizenburgo pilies kautynės ir apleidimas (1263 m.)](../objektai/ivykiai/Vizenburgo%20pilies%20kautyn%C4%97s%20ir%20apleidimas%20%281263%20m.%29)
+
+### Šaltiniai
+- [1249 m. Ordino — prūsų sutartis](../objektai/saltiniai/1249%20m.%20Ordino%20%E2%80%94%20pr%C5%ABs%C5%B3%20sutartis)
+- [Pašuta V. Lietuvos valstybės susidarymas](../objektai/saltiniai/Pa%C5%A1uta%20V.%20Lietuvos%20valstyb%C4%97s%20susidarymas)
+- [Roneburgo pilies bažnyčios Dusburgiečio kronikos nuorašas](../objektai/saltiniai/Roneburgo%20pilies%20ba%C5%BEny%C4%8Dios%20Dusburgie%C4%8Dio%20kronikos%20nuora%C5%A1as)
+
+### Žodynas
+- [ginklanešiai](../objektai/zodynas/ginklane%C5%A1iai)
+- [ginklanešys](../objektai/zodynas/ginklane%C5%A1ys)
+- [pilėnas](../objektai/zodynas/pil%C4%97nas)
+- [seniūnas](../objektai/zodynas/seni%C5%ABnas)

@@ -73,6 +73,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54961|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
 - susijęs iš [[objektai/asmenys/Erazmas Bretneris.md#claim-t-87660|Erazmas Bretneris]]: Vilniaus burmistras ir auksakalys Erazmas Bretneris 1546 m. testamentu skyrė savo namą Švč. Trejybės špitolei.
 - susijęs iš [[objektai/asmenys/Eustachijus Kotovičius.md#claim-t-87663|Eustachijus Kotovičius]]: Vilniaus kanauninkas Eustachijus Kotovičius 1677 m. už 750 auksinų nusipirko mūrinį namą Bernardinų gatvėje.
+- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200512|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas teigė atvyksiąs į Vilnių, todėl jam reikėjo numatyti vietą M. Lopacinskio mūriniame name.
 - susijęs iš [[objektai/asmenys/Jonas Hozijus.md#claim-t-173180|Jonas Hozijus]]: 1547 m. Jono Hozijaus parduotas sklypas ir mūrinis namas su spaustuve atiteko Sebastijonui Vitinskiui.
 - susijęs iš [[objektai/asmenys/Jonas Neliubovičius.md#claim-t-87728|Jonas Neliubovičius]]: 1607 m. Jonas Neliubovičius mūrinį namą su sklypu pardavė Vilniaus kanauninkui Vilčiopolskiui.
 - susijęs iš [[objektai/asmenys/Jonas Zabžezinskis.md#claim-t-87420|Jonas Zabžezinskis]]: Jonas Zabžezinskis 1533 metų spalio 26 dieną dovanojimo aktu Vilniaus vyskupui Jonui perdavė mūrinį namą.
@@ -110,10 +111,8 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172806|Vilniaus magistratas]]: 1632 m. Vilniaus gyventojas Parulis įkeitė mūrinį namą Vilniaus magistratui ir nurodė palūkanas mokėti Švč. Trejybės špitolei.
 - susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66509|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: Po pergalės broliai ir maldininkai grįžo namo su 1600 priešo žirgų ir kitu grobiu.
 - susijęs iš [[objektai/ivykiai/Brolių išsigelbėjimas nuo planuotos išdavystės žygyje į Lietuvą (1292 m.).md#claim-t-62759|Brolių išsigelbėjimas nuo planuotos išdavystės žygyje į Lietuvą (1292 m.)]]: Magistrui paskyrus brolius saugoti svarbiausius sąmokslininkus, klastininkai išsigando ir broliai sveiki grįžo namo.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.).md#claim-t-185578|Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]: Vengrams vilkinant karą, Jonas Olbrachtas vangiai vadovavo žygiui, todėl beveik visos karaliaus pajėgos išsiskirstė namo.
 - susijęs iš [[objektai/ivykiai/Lietuvių žygis į Kališo ir Seradzo žemes.md#claim-t-185812|Lietuvių žygis į Kališo ir Seradzo žemes]]: Spalio mėnesį lietuviai nusiaubė Kališo ir Seradzo žemes ir be pasipriešinimo grįžo namo su grobiu.
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas.md#claim-t-185530|Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]: Vasilijus išsiuntė žygūną į Možaiską ir įsakė tučtuojau paleisti karaliaus legatus, kurie netrukus grįžo namo.
-- susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187498|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Pasak šaltinio, po susirėmimo Tautvilas sugrįžo namo į Žemaitiją.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.).md#claim-t-185515|Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.)]]: Lietuviams siaubiant Lenkiją, niekas jiems nepastojo kelio ir niekas nedrįso persekioti jų grįžtant namo.
 - susijęs iš [[objektai/paprociai/Apidomės šaukimasis ir namo perkėlimas po blogo ženklo.md#claim-t-187986|Apidomės šaukimasis ir namo perkėlimas po blogo ženklo]]: Narbutas su tokiu nelaimingu ženklu sieja iškilmingą Apidomės šaukimąsi, duonos auką ir namo perkėlimą į kitą vietą.
 - susijęs iš [[objektai/paprociai/Kelio dievo aukojimas, kelionės maldos ir kelio prietarai.md#claim-t-189775|Kelio dievo aukojimas, kelionės maldos ir kelio prietarai]]: Pasak Strijkovskio, senovėje kelių dievaičiui aukotos baltos vištos, prašant laimingos kelionės ir sugrįžimo namo.
@@ -139,12 +138,13 @@ Nenurodyta
 - susijęs iš Valerijono Bursa: Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.
 - susijęs iš Valerijono bursa: Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.
 - susijęs iš Vilniaus pilis: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
-- susijęs iš Vilnius: Vilniuje Bernardinų gatvėje mūrinis namas buvo padovanotas kaip bursa neturtingiems studijas tęsiantiems studentams.
 - susijęs iš Šv. Jono akademijos spaustuvė: Akademijos kolegija vėlesniais laikais 1631 m. įgytą mūrinį namą ir sklypą pavertė spaustuve.
 - susijęs iš Švarco mūras: 1756 m. Akademijos rektorius tėvas Juraha Švarco vardu vadintą kolegijos namą perleido Valerijono bursai.
 - susijęs iš Šventosios Trejybės prieglauda Vilniuje: Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių.
 - susijęs iš [[objektai/zodynas/Nomadžiai.md#claim-t-07634|nomadžiai]]: Nomadžiais prašaliečiai vadino visą tautą, nes šis vardas aiškintas kaip žmonės, gyvenantys namuose.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184612|fogtas]]: Sembos fogto vedami kryžiuočiai, negalėdami pasivyti namo traukiančio Kęstučio, nusiaubė Ariogalos žemes.
+- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200512|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas teigė atvyksiąs į Vilnių, todėl jam reikėjo numatyti vietą M. Lopacinskio mūriniame name.
+- susijęs iš [[objektai/paprociai/Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai.md#claim-t-200560|Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai]]: 1751 m. Jonas Dominykas Lopacinskis ironiškai rašė, kad artėjant Užgavėnėms į Vilnių pribėga nereikalingų skaramušų.
 - susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195360|Šienapiūtė]]: Šienapiūtėje mergaitės grėbia, džiovina ir krauna šieną, vakare arkliai laikomi prie ugnies, o rytą su šienu siunčiamos namo.
 - susijęs iš [[objektai/paprociai/Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas.md#claim-t-195374|Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas]]: Valančius liepė mišparus laikyti tuoj po pamaldų, kad žmonės važiuotų namo pietauti.
 - susijęs iš Pilies kalnas: Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug nuostolių.
@@ -157,11 +157,9 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54951|Barbora Radvilaitė]]: 1828 m. Radvilų prokuratorija pardavė Barboros Radvilaitės rūmų griuvėsius už 500 sidabrinių rublių plytoms.
 - susijęs iš [[objektai/asmenys/Celestinas III.md#claim-t-60225|Celestinas III]]: Celestinas III Jeruzalėje įkūrė ir pašventino Šv. Marijos Teutonų ordino vienuolių ligoninę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173131|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas su 800 vyrų surengė žygį ir su 80 vyrų įsibrovė į Prūsijos Unzatrapio valsčių.
-- susijęs iš [[objektai/asmenys/Elžbieta (Ostrogo kunigaikštytė).md#claim-t-186036|Elžbieta (Ostrogo kunigaikštytė)]]: Persekiotojai prie Prahos užklupo Dimitrą ir Elžbietą, nužudė beginklį jaunikaitį, o Elžbietą sugrąžino motinai.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89714|Fridrichas (Rygos arkivyskupas)]]: Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonus į jau pastatytą bažnyčią.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-184065|Fridrichas Kvicas]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59958|Fridrichas Kvicas]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį.
-- susijęs iš [[objektai/asmenys/Gurka.md#claim-t-186206|Gurka]]: Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus neramumus dėl Elžbietos.
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59915|Henrikas Cutsvertas]]: Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59867|Henrikas iš Plockės]]: 1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių.
 - susijęs iš [[objektai/asmenys/Isamas (Rygos arkivyskupas).md#claim-t-87519|Isamas (Rygos arkivyskupas)]]: Rygos arkivyskupas Isamas, kaip Bonifacijaus atstovas, sudarė taiką ir paliaubas tarp lietuvių ir Teutonų ordino brolių.
@@ -172,8 +170,10 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Mergelė Marija.md#claim-t-59890|Mergelė Marija]]: Dusburgiečio aprašytame regėjime Mergelė Marija, šventosios mergelės ir angelai kilo į dangų su žuvusių brolių sielomis.
 - susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82570|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Kapitulai nustojus gauti činšą už Filipovo namą, su kunigaikščiu Kristupu prasidėjo teismo procesas, o 1573 m. kovo 26 d. įsigaliojo sutartis.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186353|Mikalojus Radvila]]: Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus vaivadai Mikalojui Radvilai.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113917|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet vėliau nuo jo atkrito.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113925|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl teutonų išdavysčių nuo jo atkrito.
+- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200683|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo jam karnavalo metu susirasti žmoną.
+- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200684|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: 1751 m. Jonas Dominykas Lopacinskis Mykolui Ksaverui Sapiegai rašė apie artėjančias Užgavėnes ir į Vilnių plūstančius skaramušus.
+- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200685|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: Kitame laiške kanauninkas Mykolui Ksaverui Sapiegai linkėjo karnavalo metu susirasti žmoną.
+- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200686|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: 1751 m. Mykolui Ksaverui Sapiegai buvo rašoma apie artėjančias Užgavėnes ir į Vilnių plūstančius skaramušus.
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54984|Ona Jogailaitė]]: Karalaitė Ona (Ona Jogailaitė) buvo prašoma prisidėti prie valios vykdymo ir Šv. Onos bažnyčios užbaigimo.
 - susijęs iš [[objektai/asmenys/Pranciškus (popiežiaus legatas).md#claim-t-87565|Pranciškus (popiežiaus legatas)]]: Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Drinlevės.md#claim-t-184135|Ulrichas iš Drinlevės]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo karius, nukovė 55 lietuvius ir atsiėmė visą grobį.
@@ -181,7 +181,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114011|Valerijonas Protasevičius (vyskupas)]]: 1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114017|Valerijonas Protasevičius (vyskupas)]]: Valerijonas Protasevičius 1569 metais pirmasis pakvietė jėzuitų ordiną į Vilnių.
 - susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64246|Vladimiras Leninas]]: Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176699|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. liepos 15 d. Žalgirio mūšyje Vytautas Didysis vadovavo kovai su Vokiečių Ordinu ir jo sąjungininkais.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis (valdovas, XIII–XIV a.)]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
 - susijęs iš [[objektai/asmenys/Zanka Ivanovičius.md#claim-t-87888|Zanka Ivanovičius]]: Zanka Ivanovičius dokumente nurodytas kaip Vilniaus horodničius ir vienas iš liudytojų.
 - susijęs iš [[objektai/asmenys/Šventoji Barbora.md#claim-t-60081|Šventoji Barbora]]: Šventoji Barbora moteriai tris kartus pasirodė naktį ir sakė ketinanti eiti į Kulmo miestą klausyti mišių.
@@ -202,12 +201,10 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172129|Jėzuitų ordinas]]: 1569 m. jėzuitų ordino pasirodymas Lietuvoje siejamas su simboline Baroko epochos pradžia.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172130|Jėzuitų ordinas]]: Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti Vilniuje.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-188200|Jėzuitų ordinas]]: Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus į dieceziją, kurioje stigo krikščioniško mokymo.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184563|Kalavijuočių ordinas]]: Mūšyje su lietuviais ordino kariuomenė buvo sutriuškinta, o pats magistras žuvo su beveik 20 ordino riterių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178981|Kryžiuočių ordinas]]: Popiežius Celestinas III Jeruzalėje įkūrė Šventosios Marijos Teutonų ordino vienuolių ligoninę.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184546|Lietuviai]]: Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.
 - susijęs iš [[objektai/grupes/Neliubovičiai.md#claim-t-86814|Neliubovičiai]]: 1583 m. Savickių Kristupui Zalivskiui parduota valda vėliau iš Zalivskių atiteko Neliubovičiams.
 - susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
-- susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187774|Poloviečiai]]: Prieš vokiečius rusai ir poloviečiai jodinėjo su strėlėmis, o jotvingiai buvo ginkluoti trumpomis ietimis.
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89172|Pomeranai]]: Prie Svečės pilies broliai nukovė tūkstantį penkis šimtus Pomeranijos vyrų.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108279|Pranciškonų ordinas]]: Vytenis prašė legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam du pranciškonų ordino brolius.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108296|Pranciškonų ordinas]]: Vytenis prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius į jau pastatytą bažnyčią.
@@ -246,7 +243,7 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56682|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: To paties žygio metu kita kariuomenės dalis sunaikino Sudargo kiemą ir paėmė jo šeimą į nelaisvę.
 - susijęs iš [[objektai/ivykiai/Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia).md#claim-t-59395|Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia)]]: Per pirmąjį Medininkų valsčiaus apiplėšimą užpuolikai nusiaubė valsčių, nužudė arba paėmė į nelaisvę septynis šimtus žmonių ir grįžo su grobiu.
 - susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66881|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą.
-- susijęs iš [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.).md#claim-t-185640|Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]: Švitrigailos pakviesta skitų kariauna ketino išvyti Žygimantą ir sugrąžinti Švitrigailą į valdžią Lietuvoje.
+- susijęs iš [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.).md#claim-t-185640|Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]: Kojelavičiaus pasakojimu, Boleslovo pakviesta skitų kariauna ketino išvyti Žygimantą ir sugrąžinti Boleslovą į valdžią Lietuvoje.
 - susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187500|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Lietuvos metraštis pasakoja, kad prie Vorutos Mindaugo kariai su arbaletais išjojo prieš vokiečius, o rusai, polovcai ir jotvingiai vaikėsi po lauką.
 - susijęs iš [[objektai/ivykiai/Trakų pilies apgultis ir pasidavimas (1382 m. liepos 20 d.).md#claim-t-100044|Trakų pilies apgultis ir pasidavimas (1382 m. liepos 20 d.)]]: 1382 m. liepos 20 d. Skirgaila įtikino Trakų pilies įgulą pasiduoti Jogailos ir kryžiuočių apgulties metu.
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45456|Vilniaus universiteto įkūrimas (1579 m.)]]: Valstybės remiami jėzuitai sukūrė kolegijų tinklą, kurio viršūnėje buvo 1579 m. įkurtas Vilniaus universitetas.
@@ -254,7 +251,6 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.).md#claim-t-86899|Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]: Vilniaus Jėzaus draugijos kolegijai buvo suteikta ekonominė ir administracinė valdžia seminarijai valdyti.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.).md#claim-t-185789|Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.)]]: 1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai.md#claim-t-77912|Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai]]: 1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir šiam tikslui pakako pademonstruoti jėgą.
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.).md#claim-t-185514|Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.)]]: Vytenio kariuomenė staigiu antpuoliu užėmė Kališą ir Stavišiną, degino miestus ir žudė gyventojus.
 - susijęs iš [[objektai/ivykiai/Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.).md#claim-t-185795|Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)]]: Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.
 - susijęs iš [[objektai/paprociai/Apidomės šaukimasis ir namo perkėlimas po blogo ženklo.md#claim-t-187987|Apidomės šaukimasis ir namo perkėlimas po blogo ženklo]]: Narbutas rašo, kad aklo arba ydingai gimusio naminio gyvulio atvejį lietuviai laikė nelaimingu ženklu.
 - susijęs iš [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios.md#claim-t-87264|Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]: 1579 m. Valerijonas Protasevičius Akademijai užrašė tris mūrinius namus, kad keli neturtingi studentai gautų maistą ir melstųsi už fundatorių.
@@ -263,6 +259,8 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Panedėlio už grieką laikymas.md#claim-t-07797|Panedėlio už grieką laikymas]]: Daug lietuvių panedėly vengė tolimos kelionės ar sunkaus darbo, nes šią dieną laikė grieku ir dangstė karaliaus dienos šventimu.
 - susijęs iš [[objektai/paprociai/Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu.md#claim-t-87284|Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu]]: Spaustuvė kas savaitę privalėjo duoti statinę alaus, silpnesnio alaus oxeftą, 8 asmenims po 8 kepalus duonos ir valgį iš kolegijos virtuvės.
 - susijęs iš [[objektai/paprociai/Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra.md#claim-t-87306|Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra]]: Valerijono Bursoje prefektas arba senjoras turėjo prižiūrėti, kad studentai laikytųsi pamaldumo, garbingumo, broliškos santarvės ir papročių.
+- susijęs iš [[objektai/paprociai/Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai.md#claim-t-200559|Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai]]: 1757 m. Vilniuje buvo rengiamas karnavalas, kuriame ketino dalyvauti Mykolas Kazimieras Radvila Žuvelė.
+- susijęs iš [[objektai/paprociai/Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai.md#claim-t-200560|Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai]]: 1751 m. Jonas Dominykas Lopacinskis ironiškai rašė, kad artėjant Užgavėnėms į Vilnių pribėga nereikalingų skaramušų.
 - susijęs iš [[objektai/paprociai/Vėlinės po Ilgių šventės ir kaimo mirusiųjų pagerbimas.md#claim-t-189952|Vėlinės po Ilgių šventės ir kaimo mirusiųjų pagerbimas]]: Narbutas aprašo Vėlinių paprotį, kai mirusiųjų vėlės pirmiausia kviestos į pirtį, o joms paruošti prausimo reikmenys ir drabužiai.
 - susijęs iš [[objektai/paprociai/Žemaičių apeiginiai veiksmai katalikiškose procesijose ir šventėse.md#claim-t-189956|Žemaičių apeiginiai veiksmai katalikiškose procesijose ir šventėse]]: Narbutas žemaičių procesijų veiksmus aiškino kaip senųjų apeigų tąsą: nešant brolijų altorėlius žmonės suguldavo veidais į žemę.
 - susijęs iš [[objektai/paprociai/Žiemos kelionės upeliais šunis užkinkius.md#claim-t-07826|Žiemos kelionės upeliais šunis užkinkius]]: Žiemos laiku gyventojai važinėdavo upeliais, šunis užkinkę.
@@ -270,7 +268,7 @@ Nenurodyta
 - susijęs iš [[objektai/posakiai/Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais.md#claim-t-91900|Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais]]: Kaimo kūlikas regėjime matė ore brolius, kovojančius su lietuviais, ir klausė šeimynos, ar ji mato brolių kovą su netikėliais.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89583|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89586|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę.
-- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185465|Ugnimi ir kalaviju]]: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
+- susijęs iš [[objektai/posakiai/nereikalingi skaramušai.md#claim-t-200628|nereikalingi skaramušai]]: 1751 m. Jonas Dominykas Lopacinskis artėjančias Užgavėnes Vilniuje apibūdino formule apie „nereikalingus skaramušus“.
 - susijęs iš [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“.md#claim-t-75616|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]: Homo sovieticus turėjo būti be tautinių požymių ir, partijai įsakius, dirbti bet kurioje Sovietų Sąjungos vietoje.
 - susijęs iš [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“.md#claim-t-75617|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]: Homo sovieticus turėjo būti asmuo be tautinių požymių, kuris partijai įsakius dirbtų bet kur pagal dainos žodžius „Mano adresas Tarybų Sąjunga“.
 - susijęs iš [[objektai/posakiai/„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“.md#claim-t-20891|„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“]]: Rusijos bolševikai siekė eksportuoti revoliuciją ir pasiuntė Raudonosios armijos divizijas paskui iš Lietuvos besitraukiančią vokiečių kariuomenę.
@@ -294,22 +292,14 @@ Nenurodyta
 - susijęs iš Heiligenbeilis: Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.
 - susijęs iš Jeruzalė: Popiežius Celestinas III Jeruzalėje įkūrė ir pašventino Švč. Marijos Teutonų ordino vienuolių ligoninę.
 - susijęs iš Kuršių nerija: 1283 m. žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė du valsčius.
-- susijęs iš Lietuvos valdos Lietuva: Sunkumus įveikę kariai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.
 - susijęs iš Liubava: Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės grobio dalies.
 - susijęs iš Maskva: 1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą.
 - susijęs iš Medininkų valsčius: 1314 m. brolis Henrikas su Sembos ir Notangos vyrais įsiveržė į Medininkų valsčių, jį nusiaubė ir paėmė ar nužudė 700 žmonių.
-- susijęs iš Ovručas: Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama sąjungininkams skriaudų, ir priartėjo prie Ovručo.
 - susijęs iš Piotrkovas: Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliaus pajamas iš Mazovijos ir Prūsijos.
-- susijęs iš Plockas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
 - susijęs iš Prūsija: Prūsijos teutonų ordino broliai pasiuntė kariuomenę aplinkiniais keliais ir sudegino Vytenio pranciškonams pastatytą bažnyčią.
 - susijęs iš Prūsija: Prūsijos teutonų broliai pasiuntė kariuomenę ir sudegino Vytenio pranciškonams skirtą bažnyčią.
 - susijęs iš Pskovas: Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.
 - susijęs iš Romanovas: Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame galėjęs augti šventasis ąžuolas arba būti šventykla.
-- susijęs iš Sochačevas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį sunaikino ugnimi ir kalaviju.
-- susijęs iš Trakai: Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį, Skirgaila liepos 20 d. įtikino jos įgulą pasiduoti.
-- susijęs iš Trakai: Kęstučiui ir Vytautui rugpjūčio 3 d. atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.
-- susijęs iš Trakai: Rugpjūčio 3 d. Kęstučiui su Vytautu ir Liubartu atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.
-- susijęs iš Trakai: Kęstučiui ir Vytautui rugpjūčio 3 d. atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.
 - susijęs iš Vilniaus katedros bažnyčia ir Šventojo Kryžiaus altorius: Šventojo Kryžiaus altorius buvo Vilniaus katedros bažnyčioje ties šventovės viduriu.
 - susijęs iš Vilnius: Jėzuitai Lietuvoje sukūrė kolegijų tinklą, kurio viršūnėje buvo 1579 m. įkurtas Vilniaus universitetas.
 - susijęs iš Vokietija: Į Vokietijos protestantiškus universitetus mokytis išvykę jaunuoliai dažnai grįždavo protestantai.
@@ -339,6 +329,7 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58784|papilys]]: 1306 m. Albrechtas iš Hageno su Ordino pajėgomis įsiveržė į Gardino papilį, išžudė arba paėmė į nelaisvę žmones ir papilį sudegino.
 - susijęs iš [[objektai/zodynas/popiežiaus legatas.md#claim-t-86569|popiežiaus legatas]]: Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.
 - susijęs iš [[objektai/zodynas/saikas uolektis sprindis.md#claim-t-86546|saikas uolektis sprindis]]: Prieglaudos sklypo plotis nuo bažnyčios sklypo į viršų buvo nurodytas kaip 20 sprindžių arba 7 uolektys.
+- susijęs iš [[objektai/zodynas/skaramušai.md#claim-t-200570|skaramušai]]: 1751 m. žodis „skaramušai“ Jono Dominyko Lopacinskio laiške pavartotas ironiškai apie į Vilnių prieš Užgavėnes pribėgusius juokdarius.
 - susijęs iš [[objektai/zodynas/viderkaftas.md#claim-t-86624|viderkaftas]]: Tėvas Juraha nuo mūrinio namo nuėmė 140 auksinų metinį viderkafto mokestį už Uršulę ir Mauricijų.
 - susijęs iš [[objektai/zodynas/virvės ištempimas.md#claim-t-86626|virvės ištempimas]]: Namas Vilniuje negalėjo būti statomas be miesto tarybos žinios ir virvės ištempimo.
 - susijęs iš [[objektai/zodynas/činšas.md#claim-t-183837|činšas]]: Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.
@@ -346,8 +337,14 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/Šventieji ežerai.md#claim-t-189190|Šventieji ežerai]]: Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Duupe, vietos padavimuose laikytas šventu.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89585|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89584|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.
+- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200683|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo jam karnavalo metu susirasti žmoną.
+- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200684|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: 1751 m. Jonas Dominykas Lopacinskis Mykolui Ksaverui Sapiegai rašė apie artėjančias Užgavėnes ir į Vilnių plūstančius skaramušus.
+- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200685|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: Kitame laiške kanauninkas Mykolui Ksaverui Sapiegai linkėjo karnavalo metu susirasti žmoną.
+- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200686|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: 1751 m. Mykolui Ksaverui Sapiegai buvo rašoma apie artėjančias Užgavėnes ir į Vilnių plūstančius skaramušus.
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192078|Ietis]]: Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos.
 - susijęs iš [[objektai/paprociai/Kūčių dienos ir vakarienės apeigos.md#claim-t-195396|Kūčių dienos ir vakarienės apeigos]]: Kūčių dieną krosnis kūrenama du kartus, kad būtų paruošti valgiai šventėms ir pačioms Kūčioms.
+- susijęs iš [[objektai/paprociai/Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai.md#claim-t-200559|Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai]]: 1757 m. Vilniuje buvo rengiamas karnavalas, kuriame ketino dalyvauti Mykolas Kazimieras Radvila Žuvelė.
+- susijęs iš [[objektai/posakiai/nereikalingi skaramušai.md#claim-t-200628|nereikalingi skaramušai]]: 1751 m. Jonas Dominykas Lopacinskis artėjančias Užgavėnes Vilniuje apibūdino formule apie „nereikalingus skaramušus“.
 - susijęs iš Bogušo miškas: Bogušo miškas minimas kaip vieta, iš kurios šiemet buvo samdoma.
 - susijęs iš Duburio lanka: Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė.
 - susijęs iš Vilniaus pilys: 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
@@ -360,48 +357,10 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192188|Russ ir Ross]]: Narbutas rašo, kad vienas lietuvių pamokslininkas iš Viikiškių Prūsijoje žodį Russ vertė į vokiečių kalbą kaip Stammorth.
 - susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192192|Russ ir Ross]]: Narbuto aiškinimu, Russ atitinka lenkišką Gtomna osada, o dainelėje reiškia Ojcow dziedzina, tėviškę.
 - susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192171|jurisdikcija]]: Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.
+- susijęs iš [[objektai/zodynas/skaramušai.md#claim-t-200570|skaramušai]]: 1751 m. žodis „skaramušai“ Jono Dominyko Lopacinskio laiške pavartotas ironiškai apie į Vilnių prieš Užgavėnes pribėgusius juokdarius.
 - susijęs iš Jeruzalė: Popiežius Celestinas III Jeruzalėje įkūrė ir pašventino Švč. Marijos Teutonų ordino vienuolių ligoninę.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pirmasis giriose gyvenusių žmonių trobesys vadintas nams, namas arba namaitis.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo
-        prašaleičių nomadžiais buvo vadinama, beje, žmonės, namuose gyvenantys. Tas trobesys, kurį
-        šiandien dar daugioj vietoj gal regėti, buvo pailguotinas^182 ketvirtainis, be lubų, į pietus su
-        skliautais, kuriuose netoli nuo čiukuro buvo trys langeliai, rąste išpjauti, vienas aukščiau, o du
-        žemiau per du rąstu, platumo kaip balandis galėjo įlėkti, nuo vanago vejamas, ir dūmai išrūkti.
-        Po skliautais į pietus buvo durys, didžiosiomis vadinamos, pro kurias mažne su vežimu galėjo
-        įvažiuoti, nuo rytų pusės buvo mažosios durys, o šaly jų langelis nuo saulėtekio, taip pat rąste
-        per augumą nuo žemės dėl šviesos iškirstas; po tuo langeliu namo pusėj duobė iškasta, į kurią
-        pylė paplavas ir kitą įurštą^183 vandenį, iš kurios duobės tekėjo pro namo pamatą į griovį, kursai
-        išvestas buvo namo pasieniu lauko pusėj pakalniui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Senovėj kalnėnai ir žemaičiai tame trobesy visus namų darbus atliko: alų, midų darė, žlugtį
-        žlugino, namo asloj dirbo ratus, tekinius, važius, roges, šlėdes^206 , arba šlajas, kubilus ir kitus indus,
-        žambius^207 , akėčias, milus ir tūbus^208 loviuose vėlė; trumpai sakant, jų namas buvo trobesys,
-        kuriame, kokiai norint esant pagadai, žmogus, nuo saulės ir nuo darganos paglemžtas^209 , galėjo
-        brūzti, kokį noris išsiėmęs knebinį, nesgi tenai visados ugnis kūrinos, prie kurios pablaka susėdę
-        šildės ir permerkti nuo lytaus ar krušos džiovinos, vasarą tenai valgė, rudenį ir žiemą stotkus arba
-        baldus ir kitą namų padarynę, beje, žambius, akėčias, ant sulos kamaros sukeltus, laikė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+Nenurodyta
 
 ## Citatos
 

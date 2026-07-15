@@ -3,11 +3,21 @@ tipas: asmuo
 pavadinimas: 'Henrikas Tupadelis'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1262 m.'
+  - '1263 m.'
+date_start: '1262'
+date_end: '1263'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karys
   - asmuo
+  - ordinas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,51 +45,46 @@ Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino 
   teiginys: "Henrikas Tupadelis, vėliau tapęs Teutonų ordino broliu, ragino apsuptuosius gintis ir gesino piliai padegti pakištus degalus."
   pagrindžia:
     - c-60770
+
+<a id="claim-t-197097"></a>
+- t-002
+  global_id: t-197097
+  teiginys: "Henrikas Tupadelis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos žemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė."
+  pagrindžia:
+    - c-179026
+
+<a id="claim-t-197098"></a>
+- t-003
+  global_id: t-197098
+  teiginys: "Henrikas Tupadelis patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus."
+  pagrindžia:
+    - c-60770
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179322|Lietuviai]]: Henrikas Tupadelis balistos strėle nukovė kilmingą ir galingą lietuvių vadą per Vėluvos pilies apgultį.
 - susijęs iš [[objektai/ivykiai/Vėluvos pilies apsiaustis ir apgulties nutraukimas.md#claim-t-62956|Vėluvos pilies apsiaustis ir apgulties nutraukimas (pilis)]]: Henrikas Tupadelis ragino Vėluvos pilies gynėjus priešintis ir daug kartų padėjo gesinti piliai padegti pakištus degalus.
 - susijęs iš [[objektai/zodynas/balista balistininkas arbaletas.md#claim-t-58846|balista balistininkas arbaletas]]: Henrikas Tupadelis buvo įgudęs balistininkas, raginęs apsuptuosius gintis ir gesinęs piliai padegti skirtus degalus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Henrikas Tupadelis, vėliau tapęs Teutonų ordino broliu, ragino apsuptuosius gintis ir gesino piliai padegti pakištus degalus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Galop vieną dieną visi pakilo  į
-    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
-    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
-    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
-    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
-    piliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o
-    minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam
-    lietuvių vadui ir  jį nukovė, o paleidęs [strėlę]  į kitą priešo kariuomenės dalį, pataikė
-    vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
-    jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60770
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 128"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Galop vieną dieną visi pakilo  į
-    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
-    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
-    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
-    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
-    piliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o
-    minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam
-    lietuvių vadui ir  jį nukovė, o paleidęs [strėlę]  į kitą priešo kariuomenės dalį, pataikė
-    vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
-    jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
+    Prūsai, apsitvėrę
+    užtvaromis, iš pradžių narsiai priešinosi, tačiau galop leidosi bėgti, o krikščionys, juos
+    besivydami, išsisklaidė, tada prūsai, nors jų daug bėgančių ir žuvo, susitelkė, matydami
+    nedaug vyrų apie vėliavą, sugrįžo į užtvaras ir pradėjo iš naujo kovą, kuri ilgai užtruko,
+    kol galop, šitaip leidžiant viešpačiui, kurio sprendimai protu nesuvokiami, nukovė
+    magistrą394 ir maršalą395 brolį Ditrichą, ir keturiasdešimt brolių ir išžudė visą krikščionių
+    kariuomenę; dievo tautą ištiko tokia nelaimė, kad čia patirti nuostoliai rodėsi didesni nei
+    tie, kuriuos ji patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi
+    rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.
+    Toje vietoje, kur įvyko mūšis, vėliau gyveno vienas atsiskyrėlis, kuris naktimis dažnai
+    matydavo degančias žvakes, aiškiai liudijančias, jog čia žuvusieji jau buvo nuo kankinių
+    karaliaus gavę kankinių vainikus.
+    393  Kad mūšis įvyko 1263 m., rašoma Sembos kanauninko kronikoje (SRP, 1, p.
+    282).
+    394  Ordino krašto magistras Helmerichas iš Viurcburgo (1262— 1263).
+    395  Dėl Ordino maršalo Ditricho žuvimo žr. paaiškinimus D. III, 120, 392.
   citata_rodoma: "Henrikas\nTupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,\nragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]\npiliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o\nminėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam\nlietuvių vadui ir  jį nukovė, o paleidęs [strėlę]  į kitą priešo kariuomenės dalį, pataikė\nvienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė\njam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį."
   statusas: verified
   teiginio_tipas: faktas
@@ -87,3 +92,30 @@ Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60138
+    - t-197098
+
+- id: c-179026
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Kai apie tai išgirdo magistras
+    brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos
+    žemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė. Prūsai, apsitvėrę
+    užtvaromis, iš pradžių narsiai priešinosi, tačiau galop leidosi bėgti, o krikščionys, juos
+    besivydami, išsisklaidė, tada prūsai, nors jų daug bėgančių ir žuvo, susitelkė, matydami
+    nedaug vyrų apie vėliavą, sugrįžo į užtvaras ir pradėjo iš naujo kovą, kuri ilgai užtruko,
+    kol galop, šitaip leidžiant viešpačiui, kurio sprendimai protu nesuvokiami, nukovė
+    magistrą394 ir maršalą395 brolį Ditrichą, ir keturiasdešimt brolių ir išžudė visą krikščionių
+    kariuomenę; dievo tautą ištiko tokia nelaimė, kad čia patirti nuostoliai rodėsi didesni nei
+    tie, kuriuos ji patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi
+    rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.
+    Toje vietoje, kur įvyko mūšis, vėliau gyveno vienas atsiskyrėlis, kuris naktimis dažnai
+    matydavo degančias žvakes, aiškiai liudijančias, jog čia žuvusieji jau buvo nuo kankinių
+    karaliaus gavę kankinių vainikus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197097

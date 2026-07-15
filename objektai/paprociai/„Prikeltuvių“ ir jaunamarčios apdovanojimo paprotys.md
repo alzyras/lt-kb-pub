@@ -87,6 +87,7 @@ Nenurodyta
   teiginys: "Po prikeltuvių griežikai apeidavo užstalę, o svečiai jiems duodavo pinigų."
   pagrindžia:
     - c-177802
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

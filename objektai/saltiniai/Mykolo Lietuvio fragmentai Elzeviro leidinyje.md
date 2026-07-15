@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas.
+Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas. Taip pat Kaunio vardas labiau už Kūno panašesnis į pa vadinimą miesto, kuris lietuviškai vadinasi Kaunu (Kaunos).
 
 ## Teiginiai
 
@@ -34,8 +34,15 @@ Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas i�
   teiginys: "Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas."
   pagrindžia:
     - c-173401
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197354"></a>
+- t-002
+  global_id: t-197354
+  teiginys: "Taip pat Kaunio vardas labiau už Kūno panašesnis į pa vadinimą miesto, kuris lietuviškai vadinasi Kaunu (Kaunos)."
+  pagrindžia:
+    - c-179148
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -59,18 +66,40 @@ Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas i�
 - id: c-173401
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 157"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Stenderis savo lat­
-    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
-    sukeltų, neramumų liudytojas.
-    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
-    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
-    mas išliko kaip žalčių laikymas1.
+    FA, sugrįžk, Dievutėliau!
+    Paimk juos ant savus sparnus,
+    Atnešk man juos sveiką tiktai,
+    Nenoriu aš brangių daiktų,
+    Gan man tavo apėmimo)*.
+    Vietos padavimai dar skelbia, kad Kaune, pačioje Nem u­
+    no ir Neries upių santakoje, augo dievams skirta giraitė, kuri
+    tęsėsi iki pat pilies, dabar virtusios griuvėsiais.
+  citata_rodoma: "Stenderis savo lat­\nvių mitologijoje prisimena, kad pats buvęs panašių, Auskučio\nsukeltų, neramumų liudytojas.\nGarbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­\nkoja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­\nmas išliko kaip žalčių laikymas1."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190518
+
+- id: c-179148
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Taip pat Kaunio vardas labiau už Kūno panašesnis į pa­
+    vadinimą miesto, kuris lietuviškai vadinasi Kaunu (Kaunos).
+    Senovės romėnų vienas iš Kupidono pavadinimų taip pat
+    buvo Caunius.
+    Datonas (Datonus)
+    Dievaitis, žemių arba visokio turto dalytojas. Tik tiek apie
+    jį papasakojo Lasickis. Tenka spėlioti, kad tai buvo savotiškas
+    Plutono sekimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197354

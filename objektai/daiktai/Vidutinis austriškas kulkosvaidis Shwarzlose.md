@@ -62,33 +62,6 @@ Nenurodyta
   teiginys: "Vidutinis austriškas kulkosvaidis Shwarzlose, modelis 07/12, buvo naudotas Lenkijos kariuomenės."
   pagrindžia:
     - c-41096
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ORodunia
-
-    Vidutinis austriškas kulkosvaidis Shwarzlose.
-    Modelis 07/12, naudotas Lenkijos kariuomenės.
-
-    Ads)
-    i,
-    O
-    s
-    R A : ~ Ž Sabovaj@Q) Šovinys - 8x50 mm R Mannlicher, aušinamas
-
-    SLS INesvyzius | vandeniu, užtaisomas šovinių juostomis, šau-
-
-    / = S j dymo greitis - 400 šūvių/min, efektyvus šau-
-    = = dymo nuotolis - 1000 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

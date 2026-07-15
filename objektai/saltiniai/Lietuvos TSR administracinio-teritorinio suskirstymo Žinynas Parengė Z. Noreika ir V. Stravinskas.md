@@ -40,29 +40,13 @@ Dusburgietis teigia, kad lietuvos TSR administracinio-teritorinio suskirstymo Ž
   teiginys: "Z. Noreikos ir V. Stravinsko parengto „Lietuvos TSR administracinio-teritorinio suskirstymo žinyno“ antra dalis išleista Vilniuje 1976 m."
   pagrindžia:
     - c-61773
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Z. Noreikos ir V. Stravinsko parengto „Lietuvos TSR administracinio-teritorinio suskirstymo žinyno“ antra dalis išleista Vilniuje 1976 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvos TSR administracinio-teritorinio suskirstymo Žinynas / Parengė Z. Noreika ir
-    V. Stravinskas.— D. 2 — V., 1976.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61773
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lietuvos TSR administracinio-teritorinio suskirstymo Žinynas / Parengė Z. Noreika ir
     V. Stravinskas.— D. 2 — V., 1976.

@@ -39,7 +39,7 @@ Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dė
 <a id="claim-t-187547"></a>
 - t-001
   global_id: t-187547
-  teiginys: "Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dėl įpėdinių žinomas tik iš Bychovco kronikos."
+  teiginys: 'Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dėl įpėdinių žinomas tik iš Bychovco kronikos.'
   pagrindžia:
     - c-170497
 - susijęs iš [[objektai/asmenys/Biartmaras.md#claim-t-191376|Biartmaras]]: Biartmaras Teodoro Narbuto pasakojime buvo Flamoro įpėdinis, paveldėjęs garsų miestą prie Nemuno žiočių ir galia nenusileidęs karaliams.
@@ -59,10 +59,8 @@ Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dė
 - susijęs iš [[objektai/asmenys/Goteris.md#claim-t-191274|Goteris]]: Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi ir rusų karalienės Rindos vyru.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103038|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103050|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82506|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
 - susijęs iš [[objektai/asmenys/Kerimberdėjus.md#claim-t-87533|Kerimberdėjus]]: Po sultono Saladino mirties Kerimberdėjus atsisakė paklusti Vytautui, todėl Vytautas chanu paskelbė Betsabutą.
 - susijęs iš [[objektai/asmenys/Liudolfas.md#claim-t-186141|Liudolfas]]: Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado protą ir netrukus mirė.
-- susijęs iš [[objektai/asmenys/Otonas.md#claim-t-184812|Otonas]]: Livonijos magistras Otonas žuvo prie Eželio ant ledo kovodamas su žemaičiais ir lietuviais.
 - susijęs iš [[objektai/asmenys/Rinda.md#claim-t-191459|Rinda]]: Narbutas pasakoja, kad rusų karalienės Rindos vyras Bojus kovėsi su Goteriu, buvo sužeistas ir trečią dieną mirė nuo žaizdų.
 - susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82655|Saladinas]]: Saladinas, Tochtamyšo sūnus, buvo sultonas ir ištikimas Lietuvos sąjungininkas.
 - susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111436|Tochtamišas]]: 1419 m. Vytautas Vilniaus pilyje didžiosios ordos chanu paskelbė Tochtamišo giminaitį Betsabutą.
@@ -97,40 +95,11 @@ Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dė
 - susijęs iš [[objektai/zodynas/bursa.md#claim-t-86415|bursa]]: Valerijonas Protasevičius neturtingiems studentams įsteigė Valerijono bursą ir pavedė ją jėzuitų priežiūrai.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176252|vietininkas]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176265|vietininkas]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
+- susijęs iš [[objektai/daiktai/Kukovaičio atminimo stabas.md#claim-t-198531|Kukovaičio atminimo stabas]]: Lietuvos metraštis teigia, kad Utenis tėvui Kukovaičiui atminti padirbo stabą ir pastatė jį prie Šventosios upės ant kalno netoli Deltuvos.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192033|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas nurodo, kad Goterio sūnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nutraukė baigiantis II krikščioniškosios eros amžiui.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192034|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje.
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192042|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas vėliau išleido Ingigerdą už Flamoro ir davė jam Aldejaborgą, kurį vadina Rusios uostu.
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dėl įpėdinių žinomas tik iš Bychovco kronikos.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    38
-    1  Peremišlis — dabar pietų Lenkijos miestas (prie Sano upės,
-    arti TSRS sienos, apie 100 km j vakarus nuo Lvovo|,
-    Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir
-    jų susitarimą dėl savo įpėdinių žinomas tik iš BK. Kituose Lietuvos
-    m etraščių nuorašuose apie šj susitikimą nėra nė užuominos. Faktiš­
-    kai čia turima galvoje Horodlo unija — susitarimas tarp LDK ir
-    Lenkijos feodalų Horodle (vietovė Volynėje, dabar Lenkijoje, prie
-    Vakari) Bugo, j pietus nuo Bresto), sudarytas 1413 m. spalio 2 d.
-    Tačiau, sprendžiant pagal kai kurias pasakojimo realijas, veiksmas
-    jam e vyksta daug vėliau, nes kalbama, kad Jogaila yra vedęs jau
-    ketvirtą kartą; tokia padėtis galėjo būti ne anksčiau kaip 1422.11.7
-    (Jogailos vedybos su Sofija Alšėniške) Ir ne vėliau kaip 1424 m.
-    lapkričio mėn. (pirmojo Jogailos sūnaus gimimas). Bet tuo laiko­
-    tarpiu (1422—1424) jokių valstybinio masto aktų Jogailos ir Vytau­
-    to įpėdinių klausimu nebuvo sudaryta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-170497
@@ -154,9 +123,9 @@ Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dė
     lapkričio mėn. (pirmojo Jogailos sūnaus gimimas). Bet tuo laiko­
     tarpiu (1422—1424) jokių valstybinio masto aktų Jogailos ir Vytau­
     to įpėdinių klausimu nebuvo sudaryta.
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187547
+    - t-001

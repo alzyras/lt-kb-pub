@@ -34,29 +34,6 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
   teiginys: "Oberosto režimo metais „Dabartis“ buvo vienintelis lietuviškai leistas cenzūruojamas laikraštis."
   pagrindžia:
     - c-48400
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Oberosto režimo metais „Dabartis“ buvo vienintelis lietuviškai leistas cenzūruojamas laikraštis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O Oberosto karinis kolonijinis režimas plėšė vals-
-    tiečius, – nusavindavo maistą, apkrovė dideliais mokesčiais ir prievolė-
-    mis, pramonės įmones išvežė į Vokietiją, o mokyklose pradėjo germani-
-    zaciją (lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų, tačiau
-    kariškiai įvedė privalomą vokiečių kalbos mokymą, jų paskirti mokyto-
-    jais vokiečiai liuteronai soldafoniškai ir primityvokai mokė šlovinti kaize-
-    rį). Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-
-    tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
-    „Dabartis“. Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
-    areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

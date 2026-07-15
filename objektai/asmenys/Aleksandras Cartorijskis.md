@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras Cartorijskis su Skabeika Verbų sekmadienį1 7 įvažiavo į Trakų pilį.
+Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras Cartorijskis su Skabeika Verbų sekmadienį1 7 įvažiavo į Trakų pilį. Aleksandras Cartorijskis labai mėgo medžioklę.
 
 ## Teiginiai
 
@@ -35,8 +35,15 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
   teiginys: "Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras Cartorijskis su Skabeika Verbų sekmadienį1 7 įvažiavo į Trakų pilį."
   pagrindžia:
     - c-176709
-## Reikšmingi paminėjimai
 
+<a id="claim-t-196806"></a>
+- t-002
+  global_id: t-196806
+  teiginys: "Aleksandras Cartorijskis labai mėgo medžioklę."
+  pagrindžia:
+    - c-178923
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras Cartorijskis su Skabeika Verbų sekmadienį1 7 įvažiavo į Trakų pilį.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -71,24 +78,51 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    O kitų ku­
-    nigaikščių ir didikų prie Žygimanto tuo metu nė vieno
-    nebuvo. Ir užbaigė susitardami, kad jie patys užims
-    Vilniaus ir Trakų pilis ir laikys jas kunigaikščiui Švitri­
-    gailai, kuris po Pabaisko pralaimėjimo mūšyje su My-
-    koliuku Zygimantaičiu buvo pabėgęs į Moldaviją ",
-    Ir, taip nutarę, išsiuntė dvarionį Skabeiką '5 , kilusį
-    iš Kijevo, davė jam tris šimtus vežimų šieno, o kiek­
-    viename vežime po šienu paslėpė po penkis ginkluotus
-    vyrus, o vienas važnyčiojo; ir išsiuntė tą Skabeiką į
-    Trakus neva su dėkliniu šienu.
-    Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6  ieškoti
-    kunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras
-    Cartorijskis su Skabeika Verbų sekmadienį1 7  įvažiavo
-    į Trakų pilį.
+    Kelyje
+    pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa­
+    sisvečiuoti pas Voložino kunigaikščius, ir Voložine at­
+    ėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį,
+    ir Goštautas išskubėjo j Alšėnus6 pas kunigaikštį Jurgį
+    Simonaitį Alšėniškį7. Ir ten suvažiavę skubiai praneša
+    Vilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir
+    Mikalojui Nemiravičiui *, ir krašto maršalui Radvilai 9.
+    Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį
+    Jurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš­
+    tystės šeimininku Jogailos sūnų karalaitį Kazimierą l0,
+    Lietuvos žemės tėvonį. Ir siunčia pas karalaitį į Lenkų
+    žemę. į Sandomirą. pasiuntinius, ir išleido pas jį pa­
+    siuntiniais ponus Mykolą ir Joną Kęsgailas11.
+    O Žygimantas buvo suėmęs rusų kunigaikščius: ku­
+    nigaikštis Olelka buvo įkalintas Kernavėje, o jo kuni­
+    gaikštienė su dvejetu sūnų kunigaikščių — Semionu ir
+    Mykolu — Utenoje, o kunigaikštis Jurgis Lengvenai-
+    tis — Trakuose.
+  citata_rodoma: "O kitų ku­\nnigaikščių ir didikų prie Žygimanto tuo metu nė vieno \nnebuvo. Ir užbaigė susitardami, kad jie patys užims \nVilniaus ir Trakų pilis ir laikys jas kunigaikščiui Švitri­\ngailai, kuris po Pabaisko pralaimėjimo mūšyje su My- \nkoliuku Zygimantaičiu buvo pabėgęs į Moldaviją \",\nIr, taip nutarę, išsiuntė dvarionį Skabeiką '5 , kilusį \niš Kijevo, davė jam tris šimtus vežimų šieno, o kiek­\nviename vežime po šienu paslėpė po penkis ginkluotus \nvyrus, o vienas važnyčiojo; ir išsiuntė tą Skabeiką į  \nTrakus neva su dėkliniu šienu.\nIšsiuntę Skabeiką, pasiuntė į Moldaviją1 6  ieškoti \nkunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras \nCartorijskis su Skabeika Verbų sekmadienį1 7  įvažiavo \nį Trakų pilį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194096
+
+- id: c-178923
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    O lenkų ponai neno­
+    rėjo išleisti jo iš savo žemės, kadangi jų karalius, Jo­
+    gailos sūnus Vladislovas, kuris valdė Vengrijos ir Len­
+    kijos karalystes, tą vasarą per mūšį su turkais be žinios
+    dingo karo lauke, ir dar nebuvo tikrai sužinoję, ar gy­
+    vas, ar ne l3, ir todėl nenorėjo karalaičio išleisti. Lie­
+    tuvos pasiuntiniai ėmė pasakoti apie Lietuvos kraštą,
+    apie Lietuvos taurų, stumbrų ir kitų įvairių žvėrių me­
+    džioklės malonumus. Ir karalaičiui Kazimierui labai pa­
+    tiko, nes jis labai mėgo medžioklę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196806

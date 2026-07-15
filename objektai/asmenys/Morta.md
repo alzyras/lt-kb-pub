@@ -58,26 +58,6 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113909|Mindaugas (valdovas, XIII a.)]]: 1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės.
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas.md#claim-t-187508|Mindaugo krikštas (krikštas)]]: Mindaugas, pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą.
 - susijęs iš Žemaitija: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Opoziciją pirmiausia sudarė artimiausi giminai-
-    čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
-    ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
-    tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
-    Livonijos ordino magistrą Andrių Štirlandą. Per jį 1251 m. pavasarį (ar
-    vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
-    sau – karaliaus karūną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-21901

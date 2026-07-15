@@ -98,8 +98,6 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - susijęs iš [[objektai/grupes/Bazelio bažnytinis susirinkimas.md#claim-t-40864|Bazelio bažnytinis susirinkimas]]: Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos valdovą ir Jogailą.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179023|Kryžiuočių ordinas]]: 1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179025|Kryžiuočių ordinas]]: Hermanas Salza 1226 m. kovo mėnesį Riminyje išsirūpino imperatoriaus Fridricho II privilegiją Vokiečių ordino ateičiai rytuose.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179029|Kryžiuočių ordinas]]: 1226 m. Riminyje Fridrichas II suteikė Vokiečių ordinui teisę tapti užkariausimos prūsų žemės savininku.
 - susijęs iš [[objektai/grupes/Liuksemburgiečių dinastija.md#claim-t-35715|Liuksemburgiečių dinastija]]: Liuksemburgiečių dinastija valdė Vokiečių imperiją, kuri dydžiu galėjo prilygti Vytauto valstybei.
 - susijęs iš [[objektai/grupes/Vokiečių imperija.md#claim-t-35789|Vokiečių imperija]]: Vokiečių imperija Vytauto laikais dydžiu galėjo prilygti jo valstybei, bet valdžios požiūriu buvo mažiau vieninga.
 - susijęs iš [[objektai/ivykiai/1381 m. kryžiuočių puolimai Kęstučio valdose.md#claim-t-97012|1381 m. kryžiuočių puolimai Kęstučio valdose]]: 1381 m. grįždami kryžiuočiai bombardų šūviais išgąsdino Darsūniškio gynėjus, kurie sudegino pilį ir pasitraukė.
@@ -119,50 +117,6 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - susijęs iš Šešupė: Vytauto nustatytos Lietuvos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.
 - susijęs iš Širvintos upė: Vytauto nustatytos Žemaitijos ir Sūduvijos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.
 - susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-193043|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Gediminas laiškuose į Lietuvą kviečiamiems vakarų svetimšaliams rekomendavo kelią per Mozūriją.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su
-    Mozurija. Išleidęs savo dukterį už Płocko «Vankos », Gediminas
-    ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams
-    rekomendavo kelią per Mozūriją. Jo 1325 m. sutartis buvo pir­
-    masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­
-    čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
-    mečio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1432 m. pradžioje derybos tarp lenkų
-    ir lietuvių strigo (tuo metu Jogaila sto-
-    vėjo Liubline, Švitrigaila su kryžiuo-
-    čių atstovais - Brastoje). Gegužės 15 d.
-
-    Skirsnemunėje Švitrigaila ir Ordinas
-    patvirtino prieš metus pasirašytą sutartį,
-    taip pat Švitrigaila sustiprino ryšius su
-    Naugardu, Pskovu, Mozūrija, Odojevo ir
-    Tverės kunigaikščiais. Tuo tarpu Jogailos
-    Lenkijos santykiai su Ordinu aštrėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-76765
@@ -206,8 +160,8 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79843
     - t-79842
+    - t-79843
 
 ## Ryšiai
 - Puolė Mozūriją: [[objektai/asmenys/Dovydas (Gardino pilininkas)]]

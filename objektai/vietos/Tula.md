@@ -43,24 +43,6 @@ media_all_json: |-
   teiginys: "Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė."
   pagrindžia:
     - c-176013
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, jis pats pasidarė
-    savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu
-    buvo pasiekta net Tula, Kaluga ir Riazanė. Iš tikro tai buvo
-    ne karas, o vien kelionės žygis, nes rusų kunigaikštėliai net ne-
-    išdrįso kariauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

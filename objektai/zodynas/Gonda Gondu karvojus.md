@@ -42,8 +42,8 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
   teiginys: "Narbutas skiria Gondu nuo karvojaus: Gondu esą puošdavo vestuvių apeigas ir likdavo ant stalo neliestas, o karvojų suvalgydavo."
   pagrindžia:
     - c-172113
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvių karalienę, išleidžiančią mergaites už vyrų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -92,16 +92,15 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    143
-
-    ## Puslapis 143
-
-    Gonda (Gondu)
-    Vestuvinių iškilmių deivė, vestuvių karalienė, išleidžianti
-    mergaites už vyrų.
-    Ją mini Lasickis; yra tą pati patvirtinančių vestuvinių dai­
-    nų. Ją kviesdavosi pačios merginos, norėdamos atsikratyti bran­
-    gios, bet nuobodžios mergystės.
+    suskaičiuojama daugybė žmonių, kiekvienas prie jo meldžia­
+    si, ypač mazgoja kūno dalį, kenčiančią dėl kokios nors nega­
+    lios; numazgojęs nušluosto švarios drobės gabalėliu ir pakabi­
+    na jį ant artimiausio krūmo arba ištiesia ant kranto. Tų skudu­
+    rėlių jau niekas neliečia bijodamas, kad pasilikusi skudurėlyje
+    Ilgajam nepriliptų. Tenai pūva tokia daugybė drobės gabalė­
+    lių, kad mažiau prietaringame krašte drąsiai būtų galima ap­
+    rūpinti popieriaus dirbtuvę žaliava.
+  citata_rodoma: "143\n\n## Puslapis 143\n\nGonda (Gondu)\nVestuvinių iškilmių deivė, vestuvių karalienė, išleidžianti\nmergaites už vyrų.\nJą mini Lasickis; yra tą pati patvirtinančių vestuvinių dai­\nnų. Ją kviesdavosi pačios merginos, norėdamos atsikratyti bran­\ngios, bet nuobodžios mergystės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -112,16 +111,19 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
 - id: c-172113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 143"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 143."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tokia
-    figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­
-    jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
-    tas tas antrasis pavadinimas.
-    Tačiau lietuviams tie du dalykai visiškai skirtingi. Gondu
-    suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
-    ant stalo neliestą, o tikrąjį karvojų suvalgo.
+    Kol ta brolija buvo uždrausta, gretimų kaimų moterys -
+    matyt, dėl kažkokių kerų - susirinkdavo vadovaujamos nepa­
+    žįstamos senės, kuri, tarytum būtų atsiųsta antgamtinės jėgos,
+    paprastai pasirodydavo kartą per metus, dažniausiai per Ra­
+    sos švente, šv. Jono išvakarėse. Sako, atlėkdavusi ant skrai­
+    dančio ožio. Tos raganos naktį kūrendavo ugnį, dainuodavo
+    kažkokias dainas, pliuškendavosi upelio vandenyje, kepdavo
+    kažkokius paplotėlius, kuriuos dalydavo žmonėms; o joms at­
+    nešdavo žuvų, vėžių, laukinių ir naminių vandens paukščių,
+    paršelių, sidabrinių pinigų.
+  citata_rodoma: "Tokia\nfigūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­\njus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­\ntas tas antrasis pavadinimas.\nTačiau lietuviams tie du dalykai visiškai skirtingi. Gondu\nsuteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka\nant stalo neliestą, o tikrąjį karvojų suvalgo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

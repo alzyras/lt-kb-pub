@@ -35,24 +35,6 @@ Jei Vytautas delsia, tai visada tas yra tikslinga: jis tuo arba priverčia prie�
   teiginys: "Vytauto politika lyginama su dideliu tinklu, kurio akis jis suveda, paleidžia ir naujai sumezga."
   pagrindžia:
     - c-160281
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jei Vytautas
-    delsia, tai visada tas yra tikslinga: jis tuo arba priverčia prie­
-    šus nusileisti, arba stengiasi sudaryti kokią naują kombinaciją.
-    Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda,
-    tai paleidžia, tai naujai sumezga.
-    Jo politika buvo neįmanoma be tinkamų padėjėjų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

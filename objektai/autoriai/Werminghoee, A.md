@@ -43,26 +43,6 @@ media_all_json: |-
   teiginys: "A. Werminghoee 1914 m. paskelbė darbą apie Ludwigo Bavariečio dokumentą Vokiečių ordino magistrui."
   pagrindžia:
     - c-33206
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Prioult, A. : _Un poete voyageur_ : _Guillaume de Machaut et
-    la « Reise_ » _de Jean VAveugle, roi de Boheme, en 1326-1329,_ Les Lettres
-    Romanes, IV, nr. 1, 1950, 3-29 p. — Vaičiulaitis, A.: _Vidurinių
-    amžių poetas Machaid Lietuvoje,_ Židinys, t. 29, 1939, 178-sqq. (tas pat
-    su papildymais : LASD, III, 1940, 315-319 p.). — Werminghoee, A. :
-    _Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens,_
-    Archiv, f. Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
-    St.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

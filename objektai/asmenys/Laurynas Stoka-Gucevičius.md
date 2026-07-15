@@ -1,0 +1,55 @@
+---
+tipas: asmuo
+pavadinimas: 'Laurynas Stoka-Gucevičius'
+saltiniai:
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Laurynas Stoka-Gucevičius
+
+## Santrauka
+
+Lauryno Stokos-Gucevičiaus Katedros projekte nebuvo fasado statulų; jas po architekto mirties pridėjo Mykolas Šulcas.
+
+## Teiginiai
+
+<a id="claim-t-200858"></a>
+- t-001
+  global_id: t-200858
+  teiginys: "Lauryno Stokos-Gucevičiaus Katedros projekte nebuvo fasado statulų; jas po architekto mirties pridėjo Mykolas Šulcas."
+  pagrindžia:
+    - c-184203
+
+## Citatos
+
+- id: c-184203
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 62"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 62."
+  citata_originali: |
+    Stanislovas,
+    iš dešinės — šv. Kazimieras) visai nė būti nebuvo Gucevičiaus projekte; jas
+    prikergė jo įpėdinis, prof. Mykolas Šulcas, kuris užbaigė Katedrą po jos
+    kūrėjo mirties. Šitos statulos su savo postamentais yra tokios milžiniškos, kad
+    šiurkščiai disonuoja su viso pastato proporcijomis; be jų fasadas būtų dar
+    monumentalesnis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200858

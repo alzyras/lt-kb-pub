@@ -46,10 +46,15 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
+Nenurodyta
 
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174984
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/
     Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;
@@ -59,14 +64,16 @@ Nenurodyta
     lėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Len­
     kijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
     Lietuvoje šeimos herbai egzistavo70.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+  citata_rodoma: "Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;\ntokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys\nlietuviams nebuvo būdingas, bet kai kurios riterių šeimos, pri­\nklausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), ga­\nlėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Len­\nkijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,\nLietuvoje šeimos herbai egzistavo70."
   statusas: verified
 
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-174985
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Rankoje turiu nuorašą Švitrigailos
     privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
@@ -78,8 +85,8 @@ Nenurodyta
     erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
     Podbužo dvaru Voluinėje už nuopelnus kare su totoriais. Datuotas
     Vilniuje 1354 metų rugpjūčio 7 dieną.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  citata_rodoma: "Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis\npakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat\natnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­\nriška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus\nkryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­\nliai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du\nerelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su\nPodbužo dvaru Voluinėje už nuopelnus kare su totoriais. Datuotas\nVilniuje 1354 metų rugpjūčio 7 dieną."
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

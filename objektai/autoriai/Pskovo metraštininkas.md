@@ -43,30 +43,6 @@ V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštini
   teiginys: "Pskovo metraštininkas minėjo pskoviečių pasiuntinybę pas Vytautą."
   pagrindžia:
     - c-84060
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pskovo metraštininkas minėjo pskoviečių pasiuntinybę pas Vytautą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tais
-    81
-    Karamzin  Histor. Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
-    lenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
-    metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika
-    155
-
-    ## Puslapis 172
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    pačiais 1386 metais Šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,37 +35,6 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
   teiginys: "Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje."
   pagrindžia:
     - c-41194
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Čia buvo ir
-    Tochtamišo totoriai (keli tūkstančiai), 400
-    pavienių lenkų riterių, tokių kaip Spytekas
-    iš Melštyno, Krokuvos vaivada ir Podolės
-    valdytojas bei kiti. Buvo valakai, kryžiuo-
-    čių dalinys (100 riterių), vadovaujamas
-    Ragainės komtūro Markvardo. Rugpjūčio
-    pradžioje kariuomenė, persikėlusi per
-    Dnieprą, jo kairiuoju krantu patraukė į
-
-    Šarvinių
-    pirštinių
-    rekonstrukcija
-
-    stepes, kur laukė prie
-    kairiojo Dniepro intako
-    Vorsklos, prie Ordos valdų pari-
-    bių, susitiko su Aukso ordos chano
-    Timūr-Kutluko kariuomene.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

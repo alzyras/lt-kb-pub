@@ -49,36 +49,13 @@ Nenurodyta
   teiginys: "Kazimieras Leonas Sapiega Vilniaus akademijoje įvedė teisės dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms."
   pagrindžia:
     - c-169228
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kazimieras Leonas Sapiega Vilniaus akademijoje įvedė teisės dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    K. L. Sapiega, buvusio kanclerio ir Lietuvos Statu­
-    to leidėjo sūnus, įvedė Akademijoje bajorams labai
-    reikalingą teisių dėstymą. Jis paskyrė lėšų dviem ka­
-    noninės ir dviem civilinės teisės katedroms išlaikyti.
-    Iš skiriamų lėšų civilinės teisės profesoriai turėjo gauti
-    atlyginimus, butus, maistą, mat ordinas jų išlaikymu
-    nesirūpino. K. L. Sapiegos fundaciniame rašte pasaky­
-    ta, kad civilinės teisės profesoriai turi būti pasaulie­
-    čiai, vadinasi, ne kunigai ir ne vienuoliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169228
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 7."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     K. L. Sapiega, buvusio kanclerio ir Lietuvos Statu­
     to leidėjo sūnus, įvedė Akademijoje bajorams labai

@@ -7,12 +7,12 @@ datos:
   - '1981 m.'
 date_start: '1981'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad vanagas A.
   teiginys: "A. Vanago „Lietuvių hidronimų etimologinis žodynas“ išleistas Vilniuje 1981 m."
   pagrindžia:
     - c-61976
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Vanago „Lietuvių hidronimų etimologinis žodynas“ išleistas Vilniuje 1981 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,13 @@ Dusburgietis teigia, kad vanagas A.
 - id: c-61976
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981.
-      Varakauskas R. Vokiečių feodalų agresija į Rytinį Pabaltijį ir lietuvių kova su ja XIII а.
+    102— 103.
+    Матузова В. И. Археографические принципы издания «Хроники земли прусской»
+    Петра из Дусбурга. — Материалы межреспубликанской научной конференции по
+    источниковедению и историографии народов прибалтийских республик Союза ССР:
+    Источниковедение, В., 1978, с.
   citata_rodoma: "Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981."
   statusas: verified
   teiginio_tipas: faktas

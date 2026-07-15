@@ -112,7 +112,6 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
 - susijęs iš [[objektai/zodynas/Ragutis Bubilis.md#claim-t-189134|Ragutis Bubilis]]: Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir degtinės varytojų dievą, kitaip vadintą Bubilu.
 - susijęs iš [[objektai/zodynas/Veliona Wellona.md#claim-t-189187|Veliona Wellona]]: Velioną (Wellona) Narbutas apibūdina kaip amžinybės, amžinos vilties ir būsimo pomirtinio gyvenimo deivę.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar pilkapį, klaidingai palaikė dievaičio pavadinimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -138,17 +137,19 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
 - id: c-173320
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 370"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 370."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jokiu bū­
-    du nederėjo paliesti antkapinių statinių; buvo meldžiamasi net
-    kapams savo protėvių arba asmenų, atmintinų dėl ypatingų
-    dorybių. Lasickis palaikė dievaičio pavadinimu žodį Ežagtdis
-    (ežiagulis -R . J.), lietuvių kalba reiškiantį antkapį arba pilka­
-    pį, kauburį; matyt, dievobaimingas šio žodžio minėjimas, gir­
-    dėtas su tam tikromis maldomis, davė pagrindą susidaryti to­
-    kiai tyrėjo nuomonei.
+    Man sakė, kad vieno vienuolyno biblio­
+    tekoje buvo XV amžiaus lotyniškas rankraštis - svarstymas
+    apie milžinkapius3, kuriame turėję būti padavimų apie šį ka­
+    pą. Taip pat turime pėdsaką, kad dar XVII amžiuje apie Ge­
+    dimino kapą Lietuvoje visi žinojo; apie tai 1629 metais4 mini
+    Naborovskis.
+    Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs
+    asmuo. Žymiausius laidojo ant kalnelių, greta jų namų. Net
+    pati jų forma rodo tam tikrą jų ryšį su mirusiųjų padėtimi ir
+    aukštomis pareigomis.
+  citata_rodoma: "Jokiu bū­\ndu nederėjo paliesti antkapinių statinių; buvo meldžiamasi net\nkapams savo protėvių arba asmenų, atmintinų dėl ypatingų\ndorybių. Lasickis palaikė dievaičio pavadinimu žodį Ežagtdis\n(ežiagulis -R . J.), lietuvių kalba reiškiantį antkapį arba pilka­\npį, kauburį; matyt, dievobaimingas šio žodžio minėjimas, gir­\ndėtas su tam tikromis maldomis, davė pagrindą susidaryti to­\nkiai tyrėjo nuomonei."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

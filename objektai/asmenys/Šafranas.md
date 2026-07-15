@@ -42,41 +42,12 @@ Narbutas, perteikdamas Korano aiškintojų pasakojimą, Šafraną mini kaip pran
 - susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192149|pecuarii ir nomadai]]: Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais.
 - susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192148|pecuarii ir nomadai]]: Teodoras Narbutas skitus apibendrina kaip daugiausia nomadus, išstumtus iš Azijos į lygumas į vakarus nuo Juodosios jūros.
 - susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192149|pecuarii ir nomadai]]: Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas, perteikdamas Korano aiškintojų pasakojimą, Šafraną mini kaip pranašo Khaintajo tėvą, o Khaintają esą nukankino Ross krašto tauta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Anot Korano
-    aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie
-    Ross upės; Korane ji vadinama Ashabir-Ross; ji išsisklai­
-    dė žiloje senovėje. Tas pats orientalistas mano, kad
-    Ross Biblijoje ir Korane reiškia tą patį, arba tiesiog tai
-    Arakso upė, be to, ir prie jos plytinčio krašto pavadinimą
-    bei tam tikrą ten gyvenusią tautą, kurią dievas išskaidė,
-    pavertė laukiniais nomadais, panašiais į girių žvėris už
-    tai, kad nepriėmė mokslo, siunčiamo jiems per pranašą
-    Khaintają, Šafrano sūnų, kurį jie nukankino5. Nors iš tų
-    šaltinių orientalistas nedaro išvadų, kad budinai buvę
-    dievo bausmės persekiojama tauta, įš visko sprendžiant,
-    jis darė kitas išvadas; jei mes galėtume, tai neabejotinai
-    atskleistume jas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 70"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Anot Korano
     aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie

@@ -55,28 +55,6 @@ Nenurodyta
   teiginys: "Su baroku susiję didieji liaudies meno reiškiniai – stogastulpiai su rūpintojėliais, pietomis ir šventųjų skulptūrėlėmis."
   pagrindžia:
     - c-176355
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Su baroku susiję didieji liaudies meno reiškiniai – stogastulpiai su rūpintojėliais, pietomis ir šventųjų skulptūrėlėmis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Baroko interje-
-    rai įsiveržė į ankstesnių stilių mūro bažnyčias, barokas tapo reikšmingu
-    skulptūros ir tapybos stiliumi, atsirado nauja meno šaka – teatras, išplito
-    iki kasdienybės dalykų – baldų, indų, drabužių, knygų. Su baroku susiję
-    didieji liaudies meno reiškiniai – stogastulpiai su rūpintojėliais, pietomis ir
-    šventųjų skulptūrėlėmis. Susiformavo barokinis kraštovaizdis, kuriam bū-
-    dinga bažnyčios, vienuolynai, kalvarijos, koplyčios, koplytstulpiai, kryžiai –
-    „šventasis peizažas“, organiškai pritapęs prie natūralios aplinkos, o kryždir-
-    bystė išliko vienas svarbiausių lietuvių liaudies meno atpažinimo ženklų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -57,39 +57,13 @@ Nenurodyta
   teiginys: "1293 m. liepos 25 d. magistras Meinhardas užpuolė Junigedą ir Pieštvę, o jo pajėgos iki pamatų sudegino abiejų pilių papilius."
   pagrindžia:
     - c-60160
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1293 m. liepos 25 d. magistras Meinhardas užpuolė Junigedą ir Pieštvę, o jo pajėgos iki pamatų sudegino abiejų pilių papilius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    254 (247). Apie Junigedos ir Pieštvės pilių papilių sudeginimą
-
-    Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
-    magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
-    gyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:
-    Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
-    pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
-
-
-
-
-                255 (248).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60160
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 184-185"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184-185."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     254 (247). Apie Junigedos ir Pieštvės pilių papilių sudeginimą
 

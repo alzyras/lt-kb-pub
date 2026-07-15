@@ -48,29 +48,6 @@ Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusij
 - susijęs iš [[objektai/paprociai/Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas.md#claim-t-67068|Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas (miestas)]]: Miesto atstovai išėję pasitikdavo valdovą ir atverdavo jam miesto vartus.
 - susijęs iš Cerkasai: XVI a. vidurio Kanevo pilies padavime sakoma, kad Gediminas įkūrė Kanevą ir Cerkasus.
 - susijęs iš Kanevas: XVI a. vidurio Kanevo pilies aprašo padavime sakoma, kad Kanevą su Čerkasais įkūrė Gediminas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jį pasitiko išėję iš miesto igu-
-    menai, šventikai, bajorai ir atvėrę miesto
-    vartus, sutiko tarnauti Gediminui. Šis
-    iškilmingai įjojo į miestą ir pilį. Istorinė
-    rusų tradicija keliuose variantuose mini,
-    kad Gediminas paėmė Rusijos sostinės
-    miestą Kijevą ir prijungė Kijevo kunigaikš-
-    tystę prie Lietuvos; Gediminas prie Irpenės
-
-    34 AIZKRAUKLĖS MUSIS 1279 m. kovo 5 d.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45108

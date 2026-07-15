@@ -35,23 +35,6 @@ Taip pat buvo įtvirtinta karinė teritorinė pasipriešinimo judėjimo struktū
   teiginys: "Karinėje teritorinėje pasipriešinimo judėjimo struktūroje partizanų skyriai jungėsi į būrius, būriai - į rinktines, o rinktinės - į apygardas."
   pagrindžia:
     - c-40558
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Taip pat buvo įtvirtinta karinė teritorinė
-    pasipriešinimo judėjimo struktūra. Smulkiausias partizanų vie-
-    netas buvo skyrius, jie jungėsi į būrius, būriai į rinktines, o šios į
-    apygardas, kelios apygardos sudarė sritį. Devynios partizanų apy-
-    gardos sudarė tris sritis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

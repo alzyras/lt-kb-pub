@@ -90,71 +90,6 @@ Nenurodyta
     - c-43063
 - susijęs iš Kuoknesė: Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prieš Kuoknesės mūšį Kristupas Radvila Perkūnas birželio 2-3 d. pasiuntė Joną Sicinskį smogti K. Carlsono Gyllenhielmo kariams.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    maistą ir amuniciją. Birželio 2-3 d. LDK di-
-    dysis etmonas Kristupas Radvila Perkūnas
-    pasiuntė rotmistrą Joną Sicinskį su dali-
-    niu, kuris sudavė antrą smūgį K. Carlsono
-    Gyllenhielmo kariams. Pagaliau birželio
-    23 d. prie Kuoknesės pagrindinė Lietuvos
-    kariuomenė stojo prieš švedų pajėgas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po sėkmingo 1601 m. Kuoknesės mūšio
-    prie Lietuvos kariuomenės Livonijoje
-    prisijungė ir Lenkijos pajėgos, vadovau-
-    jamos karūnos didžiojo etmono Jano Za-
-    moiskio, kuris valdovo Zigmanto Vazos
-    III nurodymu perėmė vadovavimą jungti-
-    nėms pajėgoms, veikiančioms Livonijoje.
-    Jungtinė kariuomenė užėmė daug švedų
-    pilių, tarp jų - Valmierą, Rakverę, Paidę,
-    buvo įsiveržta net į Šiaurės Estiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio išvakarėse
-
-    1601 m. balandžio 1 d. Švedijos kariuomenė
-    šturmu užėmė Kuoknesės miestą ir apsupo
-    pilį, bet joje esanti lietuvių įgula nepasi-
-    davė. 2500 švedų karių įsitvirtino mieste ir
-    pradėjo pilies apgultį. Karolis Sudermanas
-    pasiuntė 2400 karių, kurie turėjo prista-
-    tyti apsiautusiai švedų kariuomenei maistą
-    ir šaudmenis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-005
-
 ## Citatos
 
 - id: c-11864
@@ -175,8 +110,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49166
     - t-49165
+    - t-49166
 
 - id: c-43062
   sudarytojas: "Karolis Zikaras"

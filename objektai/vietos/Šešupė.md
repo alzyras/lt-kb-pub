@@ -10,15 +10,15 @@ datos:
   - '2026 m.'
 date_start: '1936'
 date_end: '2026'
+amziai:
+  - 'XX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
   - upė
-amziai:
-  - 'XX'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -118,8 +118,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-73961
     - t-73960
+    - t-73961
 
 - id: c-32594
   autorius: "Zenonas Ivinskis"

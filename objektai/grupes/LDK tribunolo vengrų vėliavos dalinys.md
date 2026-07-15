@@ -35,30 +35,6 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
   teiginys: "Vilniaus puolime balandžio 23 d. dalyvavo 50 LDK tribunolo vengrų vėliavos dalinio karių."
   pagrindžia:
     - c-44782
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos pajėgos
-    Vilniaus puolime balandžio 23 d. daly-
-    vavo LDK 4-ojo pėstininkų regimento
-    (pulko) dvi sumažintos kuopos, 7-ojo
-    fuzilierių regimento dvi sumažintos
-    kuopos, LDK tribunolo vengrų vėliavos
-    dalinio 50 karių, artilerijos ir inžineri-
-    jos korpusų kariai. Iš viso apie 580 karių
-    ir 20 vienetų artilerijos pabūklų (visi jie
-    buvo pilies arsenale stacionariose po-
-    zicijose). Jiems talkino apie 500 įvairiai
-    ginkluotų civilių Vilniaus gyventojų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

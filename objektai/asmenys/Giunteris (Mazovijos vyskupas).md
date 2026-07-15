@@ -49,40 +49,12 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markos valdovas).md#claim-t-60263|Ditrichas (Meiseno markos valdovas)]]: 1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę.
 - susijęs iš [[objektai/ivykiai/Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.).md#claim-t-89382|Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)]]: Meiseno markos valdovas Ditrichas 1272 m. nusiaubė Notangą iki Gerkynės prekyvietės ir ten išbuvo tris dienas bei naktis.
 - susijęs iš [[objektai/ivykiai/Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.).md#claim-t-89383|Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)]]: Meiseno markos valdovas Ditrichas 1272 m. atvyko į Prūsiją su daugybe karių ir, padedamas magistro bei brolių, žygiavo į Notangą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Apie 1226 (1230) m. Mazovijos vyskupas Giunteris dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
-    pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
-    esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,
-    viešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius
-    visas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei
-    teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
-    šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims. Kad
-    šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti,
-    išdavė jiems raštą, kurį patvirtino savo antspaudu172. Šitai padaryta apie 1226 (1230)
-    viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui
-    Giunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
-    Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
-    Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60924
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 46"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 46."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
     pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
@@ -94,7 +66,7 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
     šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti,
     išdavė jiems raštą, kurį patvirtino savo antspaudu172. Šitai padaryta apie 1226 (1230)
     viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui
-    Giunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
+    Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
     Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
     Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
   citata_rodoma: "Šitai padaryta apie 1226 (1230)\nviešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui\nGiunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui\nVilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui\nJonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174."

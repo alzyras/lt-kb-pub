@@ -42,40 +42,6 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
   teiginys: "Apskaičiuojama, kad bažnyčių ir klebonijų pastatymas lietuviams yra atsėjęs apie 60 milijonų dolerių."
   pagrindžia:
     - c-175911
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Dėl to kartais esti ir nesu-
-    sipratimų. Taip antai, kai kur lietuvių laisvamanių ir griežtesnių-
-    jų tautininkų įtakoje Amerikoje yra atsiradusių katalikų hierar-
-    chijos (vyskupų) nepriklausomų bažnyčių, vadinamųjų tautinių
-    bažnyčių. Bet jų nedaug tėra — vos 6.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Apskaičiuojama, kad bažnyčių ir klebonijų pastatymas lietuviams yra atsėjęs apie 60 milijonų dolerių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Apskaičiuoja-
-    ma, kad bažnyčių ir klebonijų pastatymas lietuviams yra atsėjęs
-    apie 60 milijonų dolerių. Amerikoje visų tautinių bažnyčių tur-
-    tas yra užrašomas vyskupų vardu. Dėl to kartais esti ir nesu-
-    sipratimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

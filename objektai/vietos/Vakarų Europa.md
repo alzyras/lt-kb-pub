@@ -3,12 +3,15 @@ tipas: vieta
 pavadinimas: 'Vakarų Europa'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1572 m.'
   - '1945 m.'
+  - '1974 m.'
+  - '2008 m.'
 date_start: '1572'
-date_end: '1945'
+date_end: '2008'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,7 +19,7 @@ tags:
   - kraštas
 amziai:
   - 'XVI'
-  - 'XX'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,6 +68,20 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   teiginys: "Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst."
   pagrindžia:
     - c-176323
+
+<a id="claim-t-200717"></a>
+- t-005
+  global_id: t-200717
+  teiginys: "Laužikas spėja, kad dokumentuose minimas „kumelių pienas“ buvo Vakarų Europoje nežinomas alkoholinis gėrimas, keliautojams panašus į pieną."
+  pagrindžia:
+    - c-184062
+
+<a id="claim-t-200718"></a>
+- t-006
+  global_id: t-200718
+  teiginys: "Laužiko aiškinimu, gėrimas iš vienos taurės Vakarų Europoje buvo korporatyvinės bendrystės aktas, o LDK bajorijoje įgijo savitų reikšmių."
+  pagrindžia:
+    - c-184063
 - susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
 - susijęs iš [[objektai/asmenys/Karolis Didysis.md#claim-t-78062|Karolis Didysis]]: Karolio Didžiojo imperija apibūdinama kaip ant Romos imperijos griuvėsių sukurta Europa, siekusi Elbę.
 - susijęs iš Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje: J. Stakausko veikalas „Lietuva ir Vakarų Europa XIII-ame amžiuje“ išleistas 1934 m.
@@ -81,84 +98,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 - susijęs iš Prancūzija: XVII–XVIII a. Italijos ir Ispanijos baroko kultūra plito katalikiškoje Prancūzijoje, Bavarijoje ir Flandrijoje.
 - susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-184357|lotyniškasis krikštas (krikštas)]]: Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu.
 - susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-47928|lotyniškasis krikštas (krikštas)]]: Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vakarų Europos XVI a. religinį nepakantumą simbolizavo 1572 m. Baltramiejaus naktis Paryžiuje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-
-    čioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės
-    bendruomenės ir religija toleruojamos nuo XIV a. pabaigos. Vėliau tiek
-    Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko
-    lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a. Vakarų
-    Europos situaciją XVI a. apibūdina Baltramiejaus naktis Paryžiuje (1572),
-    tapusi religinio nepakantumo simboliu Europos istorijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Europos centro koordina-
-    tės 54o55’ šiaurės platumos, 25o19’ rytų ilgumos. Lietuva yra toje pačioje
-    geografinėje platumoje kaip į vakarus nuo Lietuvos esančios Pietų Švedi-
-    ja, Danija, Škotija; toje pačioje geografinėje ilgumoje kaip į šiaurę – Suo-
-    mija, į pietus – Rumunija, Bulgarija, Graikija.
-    Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
-    tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
-    tus, o rusai į vakarus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Teodoras Narbutas siejo Vakarų Europą su kimbrų persikėlimu netrukus po 650 metų prieš Kristų ir jų giminyste su senovės germanais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ten jie vadinami Sembi\ iš čia ki­
-    lęs Sembos — vienos prūsų provincijos — pavadinimas2.
-    Taip pat nebūtina įrodinėti, jog senovės germanai3 jei
-    ir netiesiogiai kilę, tai giminiavosi su kimbrais nuo jų
-    persikėlimo į Vakarų Europą laikų4; tai, be laibejo1, įvyko
-    netrukus po 650 metų prieš Kristaus gimimą, kai kimbrų
-    grobuoniški antpuoliai Rytuose ėmė slopti5.
-    25
-    Kimbrų gentims, pagyvenusioms penkis, o gal kiek
-    daugiau amžių, dėl kažkokių svarbių priežasčių buvo lem­
-    ta pasitraukti iš Baltijos jūros pakrančių6.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Įvairiais duomenimis, 1945 m. Vakarų
-    Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst. (la-
-    tvių – daugiau kaip 111 tūkst., estų – apie 31 tūkst.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-155482
@@ -205,8 +144,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 - id: c-175538
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ten jie vadinami Sembi\ iš čia ki­
     lęs Sembos — vienos prūsų provincijos — pavadinimas2.
@@ -240,6 +178,47 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193654
+
+- id: c-184062
+  autorius: "Rimvydas Laužikas"
+  šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
+  puslapiai: "PDF 2"
+  indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 2."
+  citata_originali: |
+    „Kumelių pieno“
+    vartojimo atveju problema yra tai, kad šis gėrimas iš esmės nėra alkoholinis, be to,
+    jo savikaina mažesnė nei midaus. Greičiausiai dokumentuose kalbama apie kitokį,
+    Vakarų Europoje (net viduramžių Lenkijoje) nežinomą alkoholinį gėrimą, kuris
+    užsienio keliautojams buvo panašus į pieną. Galime spėti, kad „kumelių pienas“ iš
+    tikrųjų galėjęs būti „pagerintas“ – pienu ar grietinėle skiestas – baltasis midus, kurio
+    receptų Lietuvoje žinota dar XVIII amžiuje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200717
+
+- id: c-184063
+  autorius: "Rimvydas Laužikas"
+  šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
+  puslapiai: "PDF 15"
+  indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 15."
+  citata_originali: |
+    Kochajmy się) ir turinys galėtų perteikti gėrimo iš vienos tau-
+    rės jausmą bajoriškojoje kultūroje (Mickevičius 1974: 379–414), pagal aplinkybes
+    išreiškiantį daugybę kitų jausmų – nuo rūpesčio, broliškos meilės ir džiaugsmo iki
+    seksualumo ir pasileidimo (Dlugosz-Kurczabowa 2008: 306–307).
+    Kaip ir Vakarų Europoje, gėrimas iš vienos taurės buvo korporatyvinės bendrys-
+    tės aktas, tarp LDK bajorijos ne tik turėjęs pakartoti vakarietiškas prasmes, bet ir dėl
+    vietos specifikos įgyjęs savitų reikšmių. Šiuo požiūriu yra svarbūs korporatyvumo
+    skirtumai Vakarų Europos šalyse ir Lietuvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200718
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Kimbrai]]

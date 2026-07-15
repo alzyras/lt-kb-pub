@@ -8,15 +8,16 @@ datos:
   - '1300 m.'
 date_start: '1272'
 date_end: '1300'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - pilis
   - istorikas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,18 +45,33 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
   teiginys: "B. Schmidas cituojamas dėl teiginio, kad Ordino konventas 1280 m. perkeltas iš Santyro į Marienburgo pilį."
   pagrindžia:
     - c-61418
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197010"></a>
+- t-002
+  global_id: t-197010
+  teiginys: "Savukynas B neilgai trukus iškvėpė dvasią."
+  pagrindžia:
+    - c-179000
+
+<a id="claim-t-197011"></a>
+- t-003
+  global_id: t-197011
+  teiginys: "Schmid B galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams."
+  pagrindžia:
+    - c-61418
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'B. Schmidas cituojamas dėl teiginio, kad Ordino konventas 1280 m. perkeltas iš Santyro į Marienburgo pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
-    1272 m. ar 1274 m. 1275 m. pradėta statyti Aukštutinė pilis (iki 1279 m. pastatytas jos
-    šiaurinis sparnas, Aukštutinė pilis baigta apie 1300 m.). 1276 m. miestas gavo lokacinę
-    privilegiją. Ordino konventas perkeltas iš Santyro  į Marienburgo pilį 1280 m. (Schmid
-    B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje
-    Malborka, р. 22).
+    211 (206). Apie Skomanto, sūduvių vado, atsivertimą
+    Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto,
+    negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
+    žemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas
+    tremties, į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip
+    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
+    tikėjimui ir broliams.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: saltinio_teiginys
@@ -63,24 +79,48 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-003
 
 ## Citatos
 
 - id: c-61418
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 166"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
-    1272 m. ar 1274 m. 1275 m. pradėta statyti Aukštutinė pilis (iki 1279 m. pastatytas jos
-    šiaurinis sparnas, Aukštutinė pilis baigta apie 1300 m.). 1276 m. miestas gavo lokacinę
-    privilegiją. Ordino konventas perkeltas iš Santyro  į Marienburgo pilį 1280 m. (Schmid
-    B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje
-    Malborka, р. 22).
+    (206). Apie Skomanto, sūduvių vado, atsivertimą
+    Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto,
+    negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
+    žemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas
+    tremties, į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip
+    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
+    tikėjimui ir broliams.
+  citata_rodoma: "211 (206). Apie Skomanto, sūduvių vado, atsivertimą\nSūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto, \nnegalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios \nžemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas \ntremties, į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip \ndažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė \ntikėjimui ir broliams."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60786
+    - t-197011
+
+- id: c-179000
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Dar apie tą patį bei apie nuostabų įvykį, kurio priežastimi buvęs arbaletas
+    Vargu ar kas galėtų išsamiai apsakyti, kaip išradingai ir sumaniai sembai bei kiti prūsai
+    puldinėjo Karaliaučiaus pilį, kokių aukų patyrė abi kariaujančios šalys nukautaisiais ar
+    mirtinai sužeistaisiais. Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,
+    kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas
+    sembas paėmė šį arbaletą ir pasikabino ant kaklo. Kiti, apspitę jį, didžiai stebėjosi,
+    nežinodami, kas tai yra, nes anksčiau tokių daiktų nebuvę matę; ilgai jį čiupinėję, galop
+    paspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai
+    trukus iškvėpė dvasią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197010

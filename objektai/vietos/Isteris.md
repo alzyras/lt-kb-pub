@@ -81,6 +81,7 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
   teiginys: "Mirus Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo nijos karalystės valdžios galybė, padažnėjo grobikiškų žygių įvairių agresyvių tautų, besiskverbiančių vis toliau į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši niąją jo pakrantę."
   pagrindžia:
     - c-177326
+    - c-179374
 - susijęs iš [[objektai/grupes/Getai.md#claim-t-192938|Getai]]: Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skitais.
 - susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191045|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje.
 - susijęs iš Rugilandija: Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi Noriko dalyje, kurią pavadino Rugilandija.
@@ -110,13 +111,11 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190677|Adomas Stanislovas Naruševičius]]: Naruševičiaus nuomonę, kad jotvingiai nuo Tisos atėjo tiesiai į Polesę, Narbutas vadina labai panašia į tiesą.
 - susijęs iš [[objektai/autoriai/Amianas Marcelinas.md#claim-t-191527|Amianas Marcelinas]]: Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnų kelią per Dneprą ir alanų kraštą pas Saporą.
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190705|Herodotas]]: Teodoras Narbutas skitų tautos bruožų vaizdą siejo su Herodoto kūriniais ir jo kelione tarp skitų.
-- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-187704|Auksinė Orda]]: Aukso ordoje ulanais vadinosi chano giminės nariai iš tų linijų, kurių atstovams neteko sėdėti chanų soste.
 - susijęs iš [[objektai/grupes/Budinai.md#claim-t-192370|Budinai]]: Pasak Narbuto minimo Baturlino, budinai gyveno greta gelonų, Voluikos ir Bogončavo miestų apylinkėse.
 - susijęs iš [[objektai/grupes/Getai.md#claim-t-192938|Getai]]: Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skitais.
 - susijęs iš [[objektai/grupes/Graikai.md#claim-t-192406|Graikai]]: 514 metais prieš Kristų persų būriai, remiami graikų sąjungininkų, įžengė į Europą ir brovėsi Dunojaus link.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-184476|Herulai]]: Herulai, vedami Alueto ir Filimunto, pasitraukė per Liguriją į Trakiją, ketindami tarnauti imperatoriaus kariuomenėje.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-192407|Herulai]]: Narbutas vaizduoja, kad susiklosčius aplinkybėms herulams tarsi buvo lemta įkurti naują valstybę Vidurio Europoje.
-- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187710|Krymo chanatas]]: Perekopas buvo slaviškas sąsmaukos, jungiančios Krymo pusiasalį su žemynu, pavadinimas.
 - susijęs iš [[objektai/grupes/Persai.md#claim-t-192439|Persai]]: 514 m. pr. Kr. Darijui patraukus prieš Indatirą, persų būriai įžengė į Europą ir, remiami graikų sąjungininkų, brovėsi Dunojaus link.
 - susijęs iš [[objektai/grupes/Pečenegai.md#claim-t-192989|Pečenegai]]: Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų palikuonys ar dalis, susiformavusi iš hunams giminingų genčių likučių.
 - susijęs iš [[objektai/grupes/Skiriai.md#claim-t-192935|Skiriai]]: Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitijoje ir Žemutinėje Mezijoje, vadovaujami Kandako.
@@ -155,8 +154,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192233|revoliucija]]: Teodoras Narbutas Dnepro ir Dunojaus tarpupyje prasidėjusią revoliuciją sieja su hunų antplūdžiu.
 - susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192235|revoliucija]]: Teodoras Narbutas nauja revoliucija vadina hunų į Europą atneštą padėties pasikeitimą.
 - susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192236|revoliucija]]: Teodoras Narbutas naują revoliuciją sieja su hunais, kurie, jo pasakojime, pakeitė tuometinę Europos situaciją.
-- susijęs iš [[objektai/zodynas/ulan.md#claim-t-187552|ulan]]: Ulanas buvo feodalinis titulas, kuriuo vadinosi žymiausi chanų giminės totorių feodalai, turėję ulusus ir teisę dalyvauti chanų rinkimuose.
-- susijęs iš [[objektai/zodynas/ulusas.md#claim-t-187531|ulusas]]: Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.
 - susijęs iš [[objektai/zodynas/Įšleitė.md#claim-t-70421|įšleitė]]: `Įšleitė` šiame tekste reiškia geografinę sritį, panašią į pašlaitę, slėnį ar įdubą.
 - susijęs iš [[objektai/grupes/Sudargai.md#claim-t-192931|Sudargai]]: Narbutas sudargus, istorikų vadintus Satargarii ir Sadargii, apibūdina kaip ištikimiausius skirių bičiulius prie Dunojaus žemupio.
 - susijęs iš [[objektai/ivykiai/Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją.md#claim-t-191043|Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją]]: Narbuto pasakojimu, po pralaimėjimo longobardams herulų būrys 493 m. pabaigoje atsiskyrė prie Dunojaus ir patraukė kita kryptimi.
@@ -172,51 +169,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - susijęs iš Volga: Volgą Narbutas mini pasakodamas padavimą, kad persų karalius Saporas žiemojo prie jos vidurupio, o Julijono žygūnai keliavo per alanų kraštą.
 - susijęs iš Žemutinė Mezija: Narbutas rašo, kad skiriat su sudargais kūrėsi Žemutinėje Mezijoje, arčiau Dunojaus žemupio, vadovaujami Kandakoso.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Reikia žinoti, jog tame pasaulio sluoksny, einančiame nuo šiaurės Uksinių pamarių iki Žemaičių pajūrių, it^74 vidury yra kalva, daugiau nei per šimtą mylių tęsiantis į
-        rytus ir vakarus, dviem giriom apaugusi, rytų pusėj Juodąja, o vakarų Žaliąja giria vadinamom,
-        kuri kalva dalija tą sluoksnį į dvi įšleiti^75 : į pietinę ir šiaurinę, nuo to, jog visos upės pietinėj įšleitėj
-        teka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir
-        Isteris, arba Dunojus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Skitų valdos, arba veikiau didžiulis kraštas, po kurį jie klajojo, ribojosi Dono upe, Azovo ir Juodąja jūromis, Dunojumi, nuo Dunojaus iki Dnestro versmių plytinčio mis kalnuotomis dykumomis, paskui beveik ta pačia kryp timi nubrėžta linija iki 52 laipsnių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Toks skitų tautos
-    bruožų vaizdas susidaro iš Herodoto, kuris pats asme­
-    niškai keliavo su ta tautai, kūrinių1.
-    31
-    Skitų valdos, arba veikiau didžiulis kraštas, po kurį
-    jie klajojo, ribojosi Dono upe, Azovo ir Juodąja jūromis,
-    Dunojumi, nuo Dunojaus iki Dnestro versmių plytinčio­
-    mis kalnuotomis dykumomis, paskui beveik ta pačia kryp­
-    timi nubrėžta linija iki 52 laipsnių platumos lygiagretės,
-    kuri net iki susikirtimo su Donu uždarydavo tą erdvę iš
-    šiaurės; už tų linijų be paliovos bastėsi pusiau laukinės
-    gentys, vadinamos neurais; tai buvo miškų gyventojai,
-    kurie niekados nepereidavo į atviras skitų šalis.
-    32
-    Skitų gentys dalijosi į įvairias kartas arba klases, bet
-    dvi svarbiausios buvo šios: žemdirbių ir klajoklių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Kitas skitų upes, nepaisant jų pavadinimų sugraikinimo, atpažinti lengviau: Istras, šiandien Dunojus, Tyras, šiandien Dnestras, Hipanis, šiandien Būgas (pastaro sios dvi tekėjo iš klajoklių mizonų gyvenamo krašto), Boristenis, šiandien Dnepras.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -289,8 +241,7 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - id: c-177324
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 51"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 51."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Toks skitų tautos
     bruožų vaizdas susidaro iš Herodoto, kuris pats asme­
@@ -318,23 +269,21 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - id: c-177325
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vadina­
-    si, būta skitų gerų—kapakasių genties, kažkokios skitų
-    kastos, kuri gyveno šiame miškingame krašte — visos
-    genties kapinėse.
-    35
-    Kitas skitų upes, nepaisant jų pavadinimų sugraikini-
-    mo, atpažinti lengviau: Istras, šiandien Dunojus, Tyras,
-    šiandien Dnestras, Hipanis, šiandien Būgas (pastaro­
-    sios dvi tekėjo iš klajoklių mizonų gyvenamo krašto),
-    Boristenis, šiandien Dnepras. Veltui kai kurie senovės
-    tyrinėtojai daug vargo stengdamiesi surasti šios garsios
-    upės pavadinimo ištakas, kurių dabar nepavyks paaiškin­
-    ti, nes jis yra mitinės kilmės ir paimtas iš skitų mitologi­
-    1 Ibid.
+    Pantikapas, o
+    tai panašiausia į tikrovę, yra šiandienė Pripetė, jungianti
+    Baltijos ir Juodosios jūros vandens baseinus. Šiuo vardu
+    Skitijos geografijoje galėjo būti vadinama ne viena upė
+    ir vietovė, nes žinoma, kad šiandien Kerčės tvirtovė sto­
+    vi ant Pantikapėjos miesto griuvėsių1. Taip pat nėra
+    pagrindo neigti, kad šiandien Arklių Vandenimis vadina­
+    ma upė buvo kitados graikų vadinta Pantikapu. Bet tarp
+    Hipakyrio ir Pantikapo, Pripetės, arba ant abiejų Dnep-
+    ro krantų, t. y. tarp Baturino ir Mozyrio, gyveno skitai
+    žemdirbiai, o už kito Pantikapo, Arklių Vandenų, į šiau­
+    rę — piemenys, pecuarii, arba nomadai.
+  citata_rodoma: "Vadina­\nsi, būta skitų gerų—kapakasių genties, kažkokios skitų\nkastos, kuri gyveno šiame miškingame krašte — visos\ngenties kapinėse.\n35\nKitas skitų upes, nepaisant jų pavadinimų sugraikini-\nmo, atpažinti lengviau: Istras, šiandien Dunojus, Tyras,\nšiandien Dnestras, Hipanis, šiandien Būgas (pastaro­\nsios dvi tekėjo iš klajoklių mizonų gyvenamo krašto),\nBoristenis, šiandien Dnepras. Veltui kai kurie senovės\ntyrinėtojai daug vargo stengdamiesi surasti šios garsios\nupės pavadinimo ištakas, kurių dabar nepavyks paaiškin­\nti, nes jis yra mitinės kilmės ir paimtas iš skitų mitologi­\n1 Ibid."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -345,12 +294,9 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - id: c-177326
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 202."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    207
-    Vėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar
-    išnirdavo kai kurių faktų, susijusių su mūsų tema. Mirus
+    Mirus
     Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­
     nijos karalystės valdžios galybė, padažnėjo grobikiškų
     žygių įvairių agresyvių tautų, besiskverbiančių vis toliau
@@ -359,13 +305,54 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
     liko kairiojoje Dnepro pakrantėje savarankiški, be sle­
     giančios jų valdžios įtakos; netgi esama nedidelių dings­
     čių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­
-    tus.
+    tus. Gal tai davė pradžią romėnų žinioms apie gelonų
+    žygį į getų dukras ir net į Rodopų kalnus arba į šiandie­
+    nius Balkanus, kur buvo pažinti puikūs šios tautos lanki­
+    ninkai (§63). Visa tai įtikina, jog gelonai atskirai ir sa­
+    varankiškai rengė tolimus žygius, o jų naudos suvilioti
+    tęsė juos gana ilgus metus. Mes žinome iš Romos impe­
+    rijos istorijos, kad 21 metais prieš Kristaus gimimą, kai
+    Oktaviano Augusto valdomo ginklo šlovė sušvito Rytuose,
+    partų karalius Fraatas grąžino anksčiau iš Rraso atimtus
+    romėnų erelius, o Augusto posūnis Tiberijus, surengęs
+    laimingą žygį į Armėniją, grąžino jos sostą Tigranui; ki­
+    tas karvedys — Germanuos prokonsulas Lentulas — tais
+    pačiais metais kažkur prie Dunojaus sumušė grobikiškus
+    būrius gelonų, kariavusių nepriklausomai nei nuo alanų,
+    nei nuo .sarmatų, Vėliau romėnai sudarė su gelonais tai­
+    kos sutartį, ir atsirado abipusė sąjunga, įpareigojusi ge-
+    1 Ammian Marcelin.
+  citata_rodoma: "207\nVėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar\nišnirdavo kai kurių faktų, susijusių su mūsų tema. Mirus\nAleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­\nnijos karalystės valdžios galybė, padažnėjo grobikiškų\nžygių įvairių agresyvių tautų, besiskverbiančių vis toliau\nį pietus, iki pat Dunojaus, o kai kuriose vietose — į deši­\nniąją jo pakrantę. Alanai traukė ten, tad gelonai-budinai\nliko kairiojoje Dnepro pakrantėje savarankiški, be sle­\ngiančios jų valdžios įtakos; netgi esama nedidelių dings­\nčių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­\ntus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194930
+
+- id: c-179374
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Mirus
+    Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­
+    nijos karalystės valdžios galybė, padažnėjo grobikiškų
+    žygių įvairių agresyvių tautų, besiskverbiančių vis toliau
+    į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši­
+    niąją jo pakrantę. Alanai traukė ten, tad gelonai-budinai
+    liko kairiojoje Dnepro pakrantėje savarankiški, be sle­
+    giančios jų valdžios įtakos; netgi esama nedidelių dings­
+    čių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­
+    tus. Gal tai davė pradžią romėnų žinioms apie gelonų
+    žygį į getų dukras ir net į Rodopų kalnus arba į šiandie­
+    nius Balkanus, kur buvo pažinti puikūs šios tautos lanki­
+    ninkai (§63).
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Herulai]]

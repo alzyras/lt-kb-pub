@@ -35,16 +35,11 @@ Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pil�
   teiginys: "Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pilį su apylinkėmis."
   pagrindžia:
     - c-168672
-- susijęs iš [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika.md#claim-t-185748|Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]: Ordino magistras Ketleris ir Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
-- susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Lietuvos didžiojo kunigaikščio Žygimanto Augusto globą.
 - susijęs iš Bauskė: Livonijos riterių ordinas sąjungos sąlygomis turėjo atiduoti Lietuvai Bauskės pilį su apylinkėmis.
-- susijęs iš Lietuva: Livonijos atstovai seime nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Lietuva: Narbutas nurodė, kad rankraštis baigiasi pagyrimu lietuvių tautos svetingumui, darbštumui ir namų gyvenimo dorybėms.
-- susijęs iš Livonija: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Ludza: Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmis.
 - susijęs iš Rezeknė: Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylinkėmis.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pilį su apylinkėmis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -94,8 +89,6 @@ Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pil�
     čio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos
     7 0 3
 
-    ## Puslapis 702
-
     iždo padarytas išlaidas, Livo-
     S u la rties są ly g o s
     nijos riterių ordinas atiduo­
@@ -108,12 +101,10 @@ Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pil�
     užbaigus karą ir sutarus taiką, Livonija turėsianti teisę
     tas žemes išpirkti užmokėjusi Lietuvos pinigais šešis
     šimtus tūkstančių florinų.
+  citata_rodoma: "Seimo darbe dalyvavo ir ordino magistras Ket-\nleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus\nkunigaikščio Mikalojaus Radvilos paraginti, nusprendė,\nkad Livonija sudaranti su Lietuva sąjungą ir pereinanti\nį Žygimanto Augusto, Lietuvos didžiojo kunigaikš­\nčio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos\n7 0 3\n\n## Puslapis 702\n\niždo padarytas išlaidas, Livo-\nS u la rties są ly g o s\nnijos riterių ordinas atiduo­\ndąs\nLietuvai visas\nžemes\nabiejuose Dauguvos krantuose tarp Drujos ir Aizkrau-\nklės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug­\npilio, Sėlpilio pilis su apylinkėmis. Sutelktomis jėgomis\nužbaigus karą ir sutarus taiką, Livonija turėsianti teisę\ntas žemes išpirkti užmokėjusi Lietuvos pinigais šešis\nšimtus tūkstančių florinų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185311
-
-## Ryšiai
-- Sėlpilis priklausė [[objektai/vietos/Lietuva]]

@@ -68,57 +68,6 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
 - susijęs iš Araksas: Pasak Narbuto, persų galybės slegiami skitai buvo nustumti nuo armėnų Arakso ir patraukė prie Volgos žemupio.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171441|Totoriai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/grupes/Gruzinai.md#claim-t-62591|Gruzinai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'LDK katalikai armėnai buvo laikomi viena iš „tarpininkaujančių mažumų“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK taip pat išsiskyrė kitomis krikščioniškomis ir nekrikščioniško-
-    mis konfesijomis, kurių čia buvo jau nuo XIV a. Visų pirma – tai „tar-
-    pininkaujančios mažumos“ – katalikai armėnai ir judėjai žydai. Aišku,
-    šios mažumos į LDK persikėlė iš Lenkijos ir galbūt iš Vengrijos, todėl
-    natūralu, kad čia jų būta mažiau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'LDK įsikūrė vokiečių, žydų ir armėnų bendruomenės.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nepasitikėta ir savųjų įgūdžiais,
-    todėl valdovai kvietė pirklius ir amatininkus iš svetur. LDK įsikūrė vokie-
-    čių, žydų ir armėnų. Beveik visos šios bendruomenės (išskyrus vokiečius)
-    tapo kunigaikščių kolektyviniais vasalais, turinčiais savo konfesiją ir raštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
-
-       Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję
-    sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-84499
@@ -159,8 +108,7 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
 - id: c-84501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 247"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
 

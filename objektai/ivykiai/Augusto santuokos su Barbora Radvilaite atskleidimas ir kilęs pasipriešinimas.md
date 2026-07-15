@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Augustas Lenkijoje susitiko su tėvu Žygimantu ir paprašė pritarti santuokai su Barbora Radvilaite.
+Augustas Lenkijoje susitiko su tėvu Žygimantu ir paprašė pritarti santuokai su Barbora Radvilaite. Augustas liepė nutiesti takelį iš karaliaus pilies į Barboros Radvilaitės sodus ir tiltuką per Vilnios upę, kad galėtų greičiau ją lankyti. Augustas Lenkijoje paprašė karaliaus Žygimanto nepykti ir pritarti jo santuokai su Barbora Radvilaite, apie kurią nenorėjo, kad tėvai sužinotų iš kitų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,59 +47,88 @@ Nenurodyta
   teiginys: "Augustas Lenkijoje susitiko su tėvu Žygimantu ir paprašė pritarti santuokai su Barbora Radvilaite."
   pagrindžia:
     - c-169052
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Augustas Lenkijoje susitiko su tėvu Žygimantu ir paprašė pritarti santuokai su Barbora Radvilaite.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Augustas, baimindamasis,
-    kad tėvai pasijus smarkiai įžeisti, kai viską sužinos iš
-    kitų, susitiko Lenkijoje su karaliumi Žygimantu; kai
-    aptarė kitus reikalus, jis prabilo apie šį ir paprašė tėvą
-    nepykti bei pritarti jų santuokai, be kurios negalėjęs
-    gyventi. Ši kalba smarkiai užgavo karaliui širdį. Su­
-    vokęs, jog visos ydos, kurių nestigo Augustui jaunys­
-    tėje, dabar peržengė bet kokias ribas, karalius įniršo
-    ant sūnaus ir apskundė jį motinai, kuri, moteriškai ro­
-    dydama pyktį, dar labiau pakurstė karaliaus rūstybę.
-    Didikai, ir lenkai, ir lietuviai, pradėjo nekęsti šios ne­
-    lygių žmonių meilės, visokie liežuvautojai — drąsiai ty­
-    čiotis iš nepadorių santykių ir pašiepiamas daineles
-    dainuoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196132"></a>
+- t-002
+  global_id: t-196132
+  teiginys: "Augustas liepė nutiesti takelį iš karaliaus pilies į Barboros Radvilaitės sodus ir tiltuką per Vilnios upę, kad galėtų greičiau ją lankyti."
   pagrindžia:
-    - t-001
+    - c-169052
+
+<a id="claim-t-196133"></a>
+- t-003
+  global_id: t-196133
+  teiginys: "Augustas Lenkijoje paprašė karaliaus Žygimanto nepykti ir pritarti jo santuokai su Barbora Radvilaite, apie kurią nenorėjo, kad tėvai sužinotų iš kitų."
+  pagrindžia:
+    - c-178550
 
 ## Citatos
 
 - id: c-169052
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 674"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 674."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Augustas, baimindamasis,
-    kad tėvai pasijus smarkiai įžeisti, kai viską sužinos iš
-    kitų, susitiko Lenkijoje su karaliumi Žygimantu; kai
-    aptarė kitus reikalus, jis prabilo apie šį ir paprašė tėvą
-    nepykti bei pritarti jų santuokai, be kurios negalėjęs
-    gyventi. Ši kalba smarkiai užgavo karaliui širdį. Su­
-    vokęs, jog visos ydos, kurių nestigo Augustui jaunys­
-    tėje, dabar peržengė bet kokias ribas, karalius įniršo
-    ant sūnaus ir apskundė jį motinai, kuri, moteriškai ro­
-    dydama pyktį, dar labiau pakurstė karaliaus rūstybę.
-    Didikai, ir lenkai, ir lietuviai, pradėjo nekęsti šios ne­
-    lygių žmonių meilės, visokie liežuvautojai — drąsiai ty­
-    čiotis iš nepadorių santykių ir pašiepiamas daineles
-    dainuoti.
+    Nors Radvilų rūmai
+    buvo visai netoli karaliaus
+    A u g u sta s sla p ta i ve-
+    pilies, Augustas, trokšdamas
+    d a
+    B arborą
+    R a d vi-
+    kada panorėjęs kuo trumpes-
+    la itę
+    niu keliu ten patekti, palie­
+    pė nukloti iš pilies į Barboros
+    sodus takelį ir tiltuką per Vilnios upę. Sklido viso­
+    kios kalbos ir apie Barborą, ir apie Augustą, gal ir
+    neteisingos, bet nesakysi, kad visai be pagrindo. Mat
+    tie apsilankymai iš tiesų rodėsi šiek tiek lengvapėdiš­
+    ki, tačiau gink dieve negali sakyti, jog buvo netau­
+    rūs; vis dėlto valdovas pakankamai nusikalto jau vien
+    dėl to, kad nevengė veiksmų, kurių žmonės negali ne­
+    peikti. Ilgai draugavęs ir dažnai susitikinėjęs, Augus­
+    tas nieku būdu nestengė nei Barboros atkakliai gina­
+    mos doros įveikti, nei vis smarkiau įsiplieskiančio
+    širdies karščio nuslopinti, todėl netrukus su visomis
+    krikščioniškomis apeigomis jiedu vienas kitam prisie­
+    kė santuokinę ištikimybę Barboros giminaičių Stanis­
+    lovo Kęsgailos bei dviejų Radvilų akivaizdoje.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185691
+    - t-196132
+
+- id: c-178550
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Apmaldęs lenkus, Augustas jautėsi saugesnis, be to,
+    susituokęs, kaip dera tikram
+    P u olam a
+    A u g u sto
+    krikščioniui, liovėsi nuogąs-
+    sa n tu o k a
+    su
+    R a d vi-
+    tavęs, kad nusikalsta tikėji-
+    la ite
+    mui, todėl gyveno ramiau nei
+    kada anksčiau. Kurie nežino­
+    jo paslapties, tie suskato apkalbinėti: mat žmonės pa­
+    prastai linkę viską juodinti. Augustas, baimindamasis,
+    kad tėvai pasijus smarkiai įžeisti, kai viską sužinos iš
+    kitų, susitiko Lenkijoje su karaliumi Žygimantu; kai
+    aptarė kitus reikalus, jis prabilo apie šį ir paprašė tėvą
+    nepykti bei pritarti jų santuokai, be kurios negalėjęs
+    gyventi. Ši kalba smarkiai užgavo karaliui širdį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196133

@@ -62,27 +62,6 @@ Nenurodyta
   teiginys: "Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu."
   pagrindžia:
     - c-55155
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau
-    rusėnų kilmės giminės (Chodkevičiai ar Sapiegos) net kurdavo legendas
-    apie savo lietuvišką kilmę. Taigi politinės tautos genezės jau galima ieško-
-    ti XVI a. ar net XV a., kai Lietuvos bajorija bendrai pradėjo save kildinti
-    iš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
-    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
-    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
-    dinastija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -106,3 +85,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54264
+    - t-54265

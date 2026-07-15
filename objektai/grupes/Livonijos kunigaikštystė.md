@@ -55,53 +55,6 @@ media_all_json: |-
   teiginys: "Steponas Batoras ir Mikalojus Radvila Rudasis laikė būtina atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus."
   pagrindžia:
     - c-75667
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1561 m. Livonijos konfederacijai nustojus egzistuoti, likusi jos dalis padalyta į Kuršo ir Livonijos kunigaikštystes, atitekusias Lietuvai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1561 m. Livonijos konfederacija nustojo egzis-
-    cS <cremoss:® 2 tuoti. Šiaurinė dalis atiteko Švedijai, likusi dalis buvo padalinta į
-    4 + P i dvi kunigaikštystes (Kuršo ir Livonijos), kurios atiteko Lietuvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Karalius Steponas Batoras ir LDK
-    didysis etmonas Mikalojus Radvila
-    Rudasis suvokė, kad
-    siekiant nutraukti rusų
-    veržimąsi į Livoniją rei-
-    kia atkirsti Livonijos teritoriją nuo
-    Rusijos ir perkelti karo veiksmus
-
-    Vengriškasis-lenkiškasis kardas. Tokie
-    kardai kilo iš Vengrijos, kur jie formavosi turkų
-
-    Po Liublino unijos Livonijos ir Kuršo
-    kunigaikštystės pripažintos bend-
-    romis Lenkijos ir LDK valdomis.
-
-    1572 m. maskvėnai nugalėjo jiems
-    problemų kėlusius Krymo totorius
-    ir tuomet jie vėl suaktyvino savo
-    veiksmus Livonijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
 
 ## Citatos
 
@@ -150,5 +103,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78385
     - t-78383
+    - t-78385

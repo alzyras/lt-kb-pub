@@ -29,7 +29,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologiją, kurią vadino seniausios istorijos pamatu. Narbutas teigė, kad mitologija yra raktas seniausiajai tautų istorijai pažinti, remdamasis per trisdešimt metų kaupta medžiaga.
+Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologiją, kurią vadino seniausios istorijos pamatu. Narbutas teigė, kad mitologija yra raktas seniausiajai tautų istorijai pažinti, remdamasis per trisdešimt metų kaupta medžiaga. Lietuvių mitologija, sukurta iš graikų, nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.
 
 ## Teiginiai
 
@@ -46,23 +46,31 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
   teiginys: "Narbutas teigė, kad mitologija yra raktas seniausiajai tautų istorijai pažinti, remdamasis per trisdešimt metų kaupta medžiaga."
   pagrindžia:
     - c-172440
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197384"></a>
+- t-003
+  global_id: t-197384
+  teiginys: "Lietuvių mitologija, sukurta iš graikų, nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto."
+  pagrindžia:
+    - c-172439
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologiją, kurią vadino seniausios istorijos pamatu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Jeigu atkreipiau
-    dėmesį į naujus senovės istorijos atradimus, jeigu parodžiau
-    labai didelį tautos istorijos senoviškumą, jeigu sugebėjau pa­
-    aiškinti bent bendresnių įvykių padarinius -  tai mano darbas
-    nenueis veltui.
-    Siame pirmajame tome užsibrėžiau tikslą ko išsamiausiai
-    nušviesti lietuvių mitologiją, kurią manau esant seniausios is­
-    torijos pamatu. Sėmiau iš visų šaltinių, kokie tik galėjo pasi­
-    taikyti, tiksliai laikydamasis būdingų krašto praeities tyrimams
-    kritikos reikalavimų; rašiau apie netikrus dievus, bet stengiausi
-    griežtai laikytis tiesos.
+    Lietuvių mitologija, sukurta iš graikų,
+    nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa­
+    prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru­
+    tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.
+    Kad mums būtų lengviau išsemti visą naudą iš mitologijos
+    skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
+    mus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­
+    jimuose.
+    Seniausios žemės tautos - indai ir kinai savo tautiškumo
+    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
+    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
+    nimo smulkmenų.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -70,59 +78,42 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Narbutas teigė, kad mitologija yra raktas seniausiajai tautų istorijai pažinti, remdamasis per trisdešimt metų kaupta medžiaga.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Be to, mano pa­
-    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
-    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
-    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
-    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
-    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
-    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
-    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
-    logija yra raktas seniausiajai tautų istorijai pažinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - t-003
 
 ## Citatos
 
 - id: c-172439
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 78"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 78."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jeigu atkreipiau
-    dėmesį į naujus senovės istorijos atradimus, jeigu parodžiau
-    labai didelį tautos istorijos senoviškumą, jeigu sugebėjau pa­
-    aiškinti bent bendresnių įvykių padarinius -  tai mano darbas
-    nenueis veltui.
-    Siame pirmajame tome užsibrėžiau tikslą ko išsamiausiai
-    nušviesti lietuvių mitologiją, kurią manau esant seniausios is­
-    torijos pamatu. Sėmiau iš visų šaltinių, kokie tik galėjo pasi­
-    taikyti, tiksliai laikydamasis būdingų krašto praeities tyrimams
-    kritikos reikalavimų; rašiau apie netikrus dievus, bet stengiausi
-    griežtai laikytis tiesos.
+    Tiesa, daugybė to paveiks­
+    lo detalių yra dingusių, tačiau išliko visuma, išsamesnė už vi­
+    sus šiaurės tautų mitus. Lietuvių mitologija, sukurta iš graikų,
+    nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa­
+    prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru­
+    tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.
+    Kad mums būtų lengviau išsemti visą naudą iš mitologijos
+    skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
+    mus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­
+    jimuose.
+    Seniausios žemės tautos - indai ir kinai savo tautiškumo
+    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
+    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
+    nimo smulkmenų.
+  citata_rodoma: "Lietuvių mitologija, sukurta iš graikų, \nnebeturi tos laukinės ir barbariškos fantazijos, su kuria pa­\nprastai susiduriama kitose šiaurės tautose, tad ją turėjo išru­\ntulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.\nKad mums būtų lengviau išsemti visą naudą iš mitologijos \nskaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius \nmus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­\njimuose.\nSeniausios žemės tautos - indai ir kinai savo tautiškumo \nsvarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­\nnųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­\nnimo smulkmenų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189551
+    - t-197384
 
 - id: c-172440
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 85"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Be to, mano pa­
     ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė

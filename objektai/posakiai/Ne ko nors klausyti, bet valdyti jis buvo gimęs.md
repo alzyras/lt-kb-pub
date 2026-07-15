@@ -39,24 +39,6 @@ Aforistinė charakteristika pabrėžia, kad Vytauto prigimtis tekste siejama su 
   teiginys: "Žodžiais „Ne ko nors klausyti, bet valdyti jis buvo gimęs“ Vytautas apibūdintas kaip valdovas, netrukus ėmęs savarankišką politiką."
   pagrindžia:
     - c-14551
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Žodžiais „Ne ko nors klausyti, bet valdyti jis buvo gimęs“ Vytautas apibūdintas kaip valdovas, netrukus ėmęs savarankišką politiką.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet tokia būkle
-    jis pasitenkinti negalėjo, — jam permaža būtų buvę erdvės.
-    Ne ko nors klausyti, bet valdyti jis buvo gimęs. Jis tuojau
-    ėmė vesti savarankišką politiką ir iš Jogailos pavaldinio tapo
-    jam lygus valdovas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: vertinimas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

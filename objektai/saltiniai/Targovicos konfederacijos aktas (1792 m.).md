@@ -47,44 +47,6 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   teiginys: "Opozicionieriai Targovicos miestelyje Ukrainoje paskelbė reformoms priešingos konfederacijos aktą."
   pagrindžia:
     - c-02529
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Priimtoje konsti-
-    tucijoje buvo pasakyta, kad ji galėsianti būti pataisyta tik po 25
-    metų tam reikalui sušaukto specialaus seimo. Bet reformuoja-
-    masis seimas dar nespėjo baigti savo darbo, kai Rusija suor-
-    ganizavo reformų priešų konfederaciją ir, davusi jai savo ka-
-    riuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa-
-    skelbimo vietos yra vadinama Targovicos konfederacija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Opozicionieriai Targovicos miestelyje Ukrainoje paskelbė reformoms priešingos konfederacijos aktą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuojau visi didieji reformų priešininkai
-    buvo sukviesti į Petrapilį, kur buvo nutarta suorganizuoti re-
-    formoms priešingą konfederaciją; tam tikslui buvo išsiųsta
-    64.000 rusų kariuomenės. Opozicionieriai, atvykę į Targovicos
-    miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos
-    aktą. Jie skelbėsi einą sugrąžinti seimo sulaužytų krašto laisvių;
-    rusai esą jų sąjungininkai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

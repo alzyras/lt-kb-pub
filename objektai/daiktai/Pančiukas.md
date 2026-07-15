@@ -55,6 +55,7 @@ Nenurodyta
   teiginys: "Gyvulio parvedimo ir valdymo daiktas."
   pagrindžia:
     - c-177736
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

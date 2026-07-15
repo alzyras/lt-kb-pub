@@ -3,11 +3,21 @@ tipas: asmuo
 pavadinimas: 'Petras Skarga'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+datos:
+  - '1536 m.'
+  - '1612 m.'
+date_start: '1536'
+date_end: '1612'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dvasininkas
   - asmuo
+amziai:
+  - 'XVI'
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -25,63 +35,64 @@ media_all_json: |-
 
 ## Santrauka
 
-Tie, kurie, priėmę krikščionybę, nuo jos atsimetė arba, prisidėję prie erezijų, sukėlė vidinius vaidus, silp nino monarcho valdžią ir griovė Žečpospolitą, kaip daug kartų yra sakęs Petras Skarga.
+Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu religinės, tautinės bei valstybinės integracijos skelbėju. Petras Skarga pamoksluose valdantiesiems aiškino, kokiomis „ligomis“ serganti Žečpospolita.
 
 ## Teiginiai
 
-<a id="claim-t-193511"></a>
+<a id="claim-t-196582"></a>
 - t-001
-  global_id: t-193511
-  teiginys: "Tie, kurie, priėmę krikščionybę, nuo jos atsimetė arba, prisidėję prie erezijų, sukėlė vidinius vaidus, silp nino monarcho valdžią ir griovė Žečpospolitą, kaip daug kartų yra sakęs Petras Skarga."
+  global_id: t-196582
+  teiginys: "Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu religinės, tautinės bei valstybinės integracijos skelbėju."
   pagrindžia:
-    - c-176191
-## Reikšmingi paminėjimai
+    - c-178778
 
-- c-001
-  santrauka: 'Tie, kurie, priėmę krikščionybę, nuo jos atsimetė arba, prisidėję prie erezijų, sukėlė vidinius vaidus, silp nino monarcho valdžią ir griovė Žečpospolitą, kaip daug kartų yra sakęs Petras Skarga.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Priėmę krikščionybę, jie liko jai ištiki­
-    mi. Tie, kurie, priėmę krikščionybę, nuo jos atsimetė
-    arba, prisidėję prie erezijų, sukėlė vidinius vaidus, silp­
-    nino monarcho valdžią ir griovė Žečpospolitą, kaip
-    daug kartų yra sakęs Petras Skarga.
-    Kad toji lenkų imperija nežlugtų ir, vykdydama
-    Gnezno arkivyskupystės ir jėzuitų ordino įsipareigoji­
-    mus, toliau plėtotų savo agresiją į didžiarusių (mask-
-    vėnų) žemes, reikia remtis Lietuva, kurios piliečius,
-    turinčius ir gerbiančius savo istoriją, jungia su Lenki­
-    ja katalikybė, bendra kalba ir monarcho išmintis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196583"></a>
+- t-002
+  global_id: t-196583
+  teiginys: "Petras Skarga pamoksluose valdantiesiems aiškino, kokiomis „ligomis“ serganti Žečpospolita."
   pagrindžia:
-    - t-001
+    - c-178779
 
 ## Citatos
 
-- id: c-176191
+- id: c-178778
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 27."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Priėmę krikščionybę, jie liko jai ištiki­
-    mi. Tie, kurie, priėmę krikščionybę, nuo jos atsimetė
-    arba, prisidėję prie erezijų, sukėlė vidinius vaidus, silp­
-    nino monarcho valdžią ir griovė Žečpospolitą, kaip
-    daug kartų yra sakęs Petras Skarga.
-    Kad toji lenkų imperija nežlugtų ir, vykdydama
-    Gnezno arkivyskupystės ir jėzuitų ordino įsipareigoji­
-    mus, toliau plėtotų savo agresiją į didžiarusių (mask-
-    vėnų) žemes, reikia remtis Lietuva, kurios piliečius,
-    turinčius ir gerbiančius savo istoriją, jungia su Lenki­
-    ja katalikybė, bendra kalba ir monarcho išmintis.
+    Lietuvos atstovai stojo
+    už dviejų valstybių federaciją, o Lenkijos — už vals­
+    tybių ir tautų integraciją Lenkijos karaliaus valdžioje
+    ir jungtinę valstybę vadino Žečpospolita.
+    Abi politinės tendencijos rado šalininkų ir Akade­
+    mijoje. Uoliausias religinės, tautinės ir valstybinės
+    integracijos skelbėjas buvo pirmas jos rektorius Petras
+    Skarga (1536—1612), žymus pamokslininkas ir publi­
+    cistas.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193511
+    - t-196582
+
+- id: c-178779
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Pamoksluose, sakytuose valdantiesiems, susirenkan-
+    tiems į seimus, P. Skarga aiškino, kokiomis ligomis
+    serganti Žečpospolita. Pirmoji liga — tai nedėkingumas
+    tėvynei, kuris ją smukdo, dėl kurio gali žlugti valsty­
+    bė. Antroji liga — naminiai vaidai, trečioji — erezijų,
+    griaunančių katalikų tikėjimą, epidemija, ketvirtoji —
+    monarcho orumo ir valdžios silpnėjimas, penktoji —
+    neteisingumas. Kalbėdamas .apie neteisingumą, jis ne­
+    pamiršo ir valstiečių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196583

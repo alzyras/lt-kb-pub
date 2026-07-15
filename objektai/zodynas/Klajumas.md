@@ -52,32 +52,6 @@ Papildomos aiškios formos neišskirtos.
   pagrindžia:
     - c-09608
     - c-09609
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Apsukui tos žinyčios buvęs klajumas^774 , į kurį svietas susirinkęs liuobėjęs melstis^775 , kuriame malkinės^776 ąžuolo medžių sukrautos stovėjusios ugnelei šventai kūrinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pašaliuose to klajumo buvę žynių, arba kunigų, namai ir kitų žinyčios tarnų ir tarnaičių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -93,8 +67,8 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07678
     - t-07677
+    - t-07678
 
 - id: c-09609
   autorius: "Simonas Daukantas"

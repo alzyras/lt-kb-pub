@@ -9,7 +9,6 @@ saltiniai:
 datos:
   - '1251 m.'
   - '1253 m.'
-  - '1430 m.'
   - '1526 m.'
   - '2026 m.'
 date_start: '1251'
@@ -39,7 +38,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Cigala ir Rothas ragino Vytautą karūnuotis ir patarė kaldinti karūnas Vilniuje. Po ilgo pamokslo Olesnickis pasiūlė Vytautui Jogailos karūną. Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją.
+Cigala ir Rothas ragino Vytautą karūnuotis ir patarė kaldinti karūnas Vilniuje. Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją. Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.
 
 ## Pavadinimai šaltiniuose
 
@@ -98,29 +97,22 @@ Nenurodyta
   pagrindžia:
     - c-169999
 
-<a id="claim-t-186818"></a>
-- t-006
-  global_id: t-186818
-  teiginys: "Komentare nurodoma, kad šiame šaltinyje teigiama, kad karališkieji vainikai Vytautui ir Julijonai buvo nukalti Niurnbergo auksakalių; Šiame gabale vainikai apibūdinami kaip iš Vokietijos gabenti karūnacijos daiktai."
-  pagrindžia:
-    - c-170000
-
 <a id="claim-t-186819"></a>
-- t-007
+- t-006
   global_id: t-186819
   teiginys: "Komentare nurodoma, kad šiame šaltinyje minima legenda, kad Vytauto vainikas buvo sulydytas į Krokuvos vyskupų mitrą; Šiame gabale Vytauto karūna minima kaip vėlyvesnių politinių pretenzijų ir atminties objektas."
   pagrindžia:
     - c-169996
 
 <a id="claim-t-186821"></a>
-- t-008
+- t-007
   global_id: t-186821
   teiginys: "Po ilgo pamokslo Olesnickis pasiūlė Vytautui Jogailos karūną."
   pagrindžia:
     - c-170005
 
 <a id="claim-t-194984"></a>
-- t-009
+- t-008
   global_id: t-194984
   teiginys: "Visu savo veikimu jis reiškėsi kaip didis kara lius, bet mirtis sutrukdė jam užsidėti karališką karūną."
   pagrindžia:
@@ -140,8 +132,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176695|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas siekė gauti karūną ir Vakarų pripažinimą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176714|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176718|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas siekė Lietuvos karaliaus karūnos, tačiau tam priešinosi Vladislovas Jogaila ir Lenkijos senatas.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176732|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po suvažiavimo Vytautas įsitikino, kad su Lenkija geruoju nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176771|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kėzmarke Vytautas Didysis atmetė Zigmanto siūlymą suardyti uniją ir priimti karaliaus karūną.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176857|Zbignievas Olesnickis]]: Zbignievas Olesnickis, kaip Krokuvos universiteto rektorius, veikiausiai inspiravo profesorių nuomonę dėl Zigmanto teisės teikti karūną.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176862|Zbignievas Olesnickis]]: Zbignievas Olesnickis buvo karūnos pasiuntinys, su kuriuo Vytautas pasiuntė savo sekretorių Mikalojų Cebulką pas Zigmantą.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176864|Zbignievas Olesnickis]]: Zbignievas Olesnickis buvo karūnos pasiuntinys, kartu su kuriuo Vytautas pasiuntė Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą.
@@ -256,8 +246,6 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179150|Lenkai]]: Traidenis dažnai kariavo su lenkais ir pasiekdavo ne tik Mozūrus, bet ir Krokuvą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179162|Lenkai]]: Vytauto akte priminta, kad lenkai pasikvietė Jogailą į savo sostą ir pripažino jį karaliumi Vladislovu.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179269|Lietuviai]]: Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stiprinimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų).
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179360|Livonijos ordinas]]: Per Prūsų ir Livonijos magistrų surengtą puotą Salyno suvažiavime Vytautas paskelbtas Lietuvos karaliumi.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179373|Livonijos ordinas]]: Salyno suvažiavime per Prūsų ir Livonijos magistrų surengtą puotą Vytautas buvo paskelbtas Lietuvos karaliumi.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-188322|Radvilos]]: Šalia aprašyto antspaudo buvo kitas antspaudas su skyde pavaizduotu Vyčiu po karūna ir apačioje esančiu Radvilų Trimitų herbu.
 - susijęs iš [[objektai/ivykiai/Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris).md#claim-t-31419|Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)]]: Ieškodamas taikos su Vytautu, Jogaila veikė drauge su Skirgaila, kuris buvo didelis Kęstutaičio priešas.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49163|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: Po Kuoknesės mūšio Livonijoje prie Lietuvos kariuomenės prisijungė ir Lenkijos pajėgos, o vadovavimą perėmė Janas Zamoiskis.
@@ -305,7 +293,6 @@ Nenurodyta
 - susijęs iš Maskva: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
 - susijęs iš Maskva: 1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
 - susijęs iš Podolija: Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.
-- susijęs iš Podolė: Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.
 - susijęs iš Praga: Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.
 - susijęs iš Praga: Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.
 - susijęs iš Riazanė: Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė.
@@ -313,7 +300,6 @@ Nenurodyta
 - susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai.
 - susijęs iš Tverė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.
 - susijęs iš Tverė: 1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.
-- susijęs iš Vilnius: Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.
 - susijęs iš Vilnius: VI lentelės 40-ajame piešinyje Narbutas nurodė Vilniaus miesto senovinį herbą.
 - susijęs iš Vitebskas: Algirdas dar Gediminui gyvam esant viešpatavo Vitebske ir Krėvoje.
 - susijęs iš Vitebskas: Algirdas, Gediminui dar gyvam esant, viešpatavo Vitebske ir Krėvoje.
@@ -327,169 +313,14 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49287|petihorai]]: Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.
 - susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49289|petihorai]]: Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.
 - susijęs iš [[objektai/zodynas/vasalas.md#claim-t-111382|vasalas]]: Vokiečių Prūsija tapo Lenkijos karūnos vasale.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    *  Versija apie Vytauto vainiko sulydymą su Krokuvos vyskupų
-    mitra yra, veikiausiai, legenda, Išlikusi ligi XVI a. pradžios. JI at­
-    sispindi ir 1526 m. LDK atstovų reikalavime, kad Lenkijos karalius
-    ir Ldk 2ygtmanlas Senasis vainikuotų savo sūnų Žygimantą Au­
-    gustą Krokuvoje esančia ar turinčia būti Vytauto karūna.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kitus Jogailos pa­
-    lydovus Vytautui pasisekė patraukti savo pusėn^2 ). Bet ir tai nie­
-    ko nepadėjo. Tada dar kartą nutarta kreiptis į likusią Lenkijoj
-    karališką tarybą^3 ) ir, matyt, jau tikrai tikėtasi gauti iš jos su­
-    tikimą, nes tuo laiku Vytautas viename savo laiške Zigmantui
-    rašo, kad jis dabar galėsiąs jam siųsti karūną tiesiog per
-    Lenkiją^4 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
-    jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
-    rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
-    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
-    mas ir vienintelis vainikuotas Lietuvos karalius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-004
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1  Vytautas susirgo 1430 m. tarp spalio 18 ir 21 d., vykdamas
-    su Jogaila j Trakus; kaip J. Dlugošas nurodo - nukrito nuo žirgo.
-    * Vytauto mirties data BK klaidinga. Vytautas mirė Trakuose
-    1430 m. spalio 27 d.
-    ’ Karališkieji vainikai Vytautui ir jo  žmonai Julijonai buvo
-    nukalti Niurnbergo (Bavarija) auksakalių ir iš ten buvo gabenami,
-    o  ne iš Romos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors nebus nė vieno kunigaikščio,
-    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
-    leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
-    nuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl
-    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
-    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
-    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuo tarpu atvyko į Vilnių ir lenkų dele­
-    gacija^6 ). Čia dar tebebuvo ir Cigala ir Rothas, kurie nesi­
-    liovė Vytautą įkalbinėt karūnuotis, patardami kaldinti Vilniuj
-    karūnas ir jomis karūnuotis. Tą ir pats Zigmantas esą patvirtintų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gerbti ir garbinti
-    Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,
-    laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai
-    karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tad ir kilęs karas, galvojant taip, kaip galvojo Olesnic­
-    kis, kažin keno naudai būtų pasibaigęs.
-
-    Pasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­
-    siūlė Vytautui Jogailos karūną^2 ). Toks sumanymas, matyt, bu­
-    vo priimtas paskutiniame Sandomiriaus suvažiavime.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Visu savo veikimu jis reiškėsi kaip didis kara lius, bet mirtis sutrukdė jam užsidėti karališką karūną.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dar labiau lietuvio dėmesį nuo seno traukia garsas ir
-    darbai kito valdovo. Visu savo veikimu jis reiškėsi kaip didis kara­
-    lius, bet mirtis sutrukdė jam užsidėti karališką karūną. Abu tuos du
-    valdovus jungia vienas bendras bruožas : judviejų politikos ir vei­
-    kimo klausimais istorikai, nors apie abu yra gana daug rašę, iki šiol
-    dar tebesiginčija, nepajėgdami suderinti kai kurių prieštaravimų,
-    negalėdami pasakyti galutino žodžio dėl kai kurių problemų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
 ## Citatos
 
 - id: c-169996
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 264"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 264."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    *  Versija apie Vytauto vainiko sulydymą su Krokuvos vyskupų
+    * Versija apie Vytauto vainiko sulydymą su Krokuvos vyskupų
     mitra yra, veikiausiai, legenda, Išlikusi ligi XVI a. pradžios. JI at­
     sispindi ir 1526 m. LDK atstovų reikalavime, kad Lenkijos karalius
     ir Ldk 2ygtmanlas Senasis vainikuotų savo sūnų Žygimantą Au­
@@ -540,27 +371,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186816
-
-- id: c-170000
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 264"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 264."
-  citata_originali: |
-    1  Vytautas susirgo 1430 m. tarp spalio 18 ir 21 d., vykdamas
-    su Jogaila j Trakus; kaip J. Dlugošas nurodo - nukrito nuo žirgo.
-    * Vytauto mirties data BK klaidinga. Vytautas mirė Trakuose
-    1430 m. spalio 27 d.
-    ’ Karališkieji vainikai Vytautui ir jo  žmonai Julijonai buvo
-    nukalti Niurnbergo (Bavarija) auksakalių ir iš ten buvo gabenami,
-    o  ne iš Romos.
-  citata_rodoma: "’ Karališkieji vainikai Vytautui ir jo  žmonai Julijonai buvo \nnukalti Niurnbergo (Bavarija) auksakalių ir iš ten buvo gabenami, \no  ne iš Romos."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186818
 
 - id: c-170001
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

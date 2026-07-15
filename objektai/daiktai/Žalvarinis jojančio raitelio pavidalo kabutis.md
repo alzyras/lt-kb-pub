@@ -55,21 +55,6 @@ Nenurodyta
   teiginys: "Žalvarinis jojančio raitelio pavidalo kabutis datuojamas XI-XII a. ir siejamas su Didvyčiais."
   pagrindžia:
     - c-42597
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 21, Žalvarinis jojančio raitelio pavidalo kabutis x1-x11 a. Didvyčiai, vDKM,
-
-    Artūro Užgalio nuotr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

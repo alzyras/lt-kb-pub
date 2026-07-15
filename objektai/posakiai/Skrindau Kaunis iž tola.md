@@ -43,63 +43,13 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
   teiginys: "Mūsų kraštuose dar išliko dainelė, susijusi su tuo dievuku: Skrindau Kaunis iž tola, Kur vvassara umžynoja."
   pagrindžia:
     - c-177093
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido Kaunis iš toli, Kur vasara amžinoji“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    (Skrido Kaunis iš toli,
-    Kur vasara amžinoji.
-    Man pasakė neužauguolis,
-    Jog tenai medis kariaujoja:
-    Ant širvų arklių raitvažiuoja
-    Su didžiu iždu nuoplėšių.
-    FA, sugrįžk, Dievutėliau!
-    Paimk juos ant savus sparnus,
-    Atnešk man juos sveiką tiktai,
-    Nenoriu aš brangių daiktų,
-    Gan man tavo apėmimo)*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Mūsų kraštuose dar išliko dainelė, susijusi su tuo dievuku: Skrindau Kaunis iž tola, Kur vvassara umžynoja.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Mūsų kraštuose dar išliko dainelė, susijusi
-    su tuo dievuku:
-    Skrindau Kaunis iž tola,
-    Kur vvassara umžynoja.
-    Man pasakė Naszaugole,
-    Jog tinaj mejlis karaujoja:
-    Unt szinvu arklu rejtwažoja
-    Su didu iždu nuoplesiu.
-    E j sugriže Dewutesiu!
-    Paimk jus unt salios sparnos,
-    Atneszk man jus swejku tiktej,
-    Ne noru až brangiu diklej,
-    Gan man sauos apimirnos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-172455
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     (Skrido Kaunis iš toli,
     Kur vasara amžinoji.
@@ -122,8 +72,7 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
 - id: c-177093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Mūsų kraštuose dar išliko dainelė, susijusi
     su tuo dievuku:

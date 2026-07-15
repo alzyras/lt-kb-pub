@@ -44,25 +44,6 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
 - susijęs iš Z. Ivinskis, Melno taika: „Melno taika“ nurodyta „Lietuvių enciklopedijos“ 18 tome, 172-175 puslapiuose.
 - susijęs iš Z. Ivinskis, Melno taika: Zenono Ivinskio „Melno taika“ paskelbta Lietuvių enciklopedijos 18 tome, p. 172–175.
 - susijęs iš Z. Ivinskis, Russdorf Paul von: „Russdorf Paul von“ nurodytas „Lietuvių enciklopedijos“ 26 tome, 170-171 puslapiuose.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Magistras tada atsakė, kad ginčą
-    tarp jo ir sąjungininkų gali išspręsti tik kardas. Po to, sąjun­
-    gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau
-    link. Kai sąjungininkai sustojo stovykloj netoli Soldau Ho­
-    hendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­
-    gailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38644

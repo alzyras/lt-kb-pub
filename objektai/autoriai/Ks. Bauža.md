@@ -35,23 +35,6 @@ Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti sa
   teiginys: "Ks. Bauža savo knygoje kaltino Lietuvos bajoriją, kad ji nesirūpina savo kalba ir nekuria savos literatūros."
   pagrindžia:
     - c-01323
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Bauža** savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpi-
-    nanti savo kalba, kad nekurianti savos literatūros. Esą, nenorį lie-
-    tuviškai kalbėti net tie, kurie ir moką. Liaudis tebekalbanti lietu-
-    viškai, tačiau turinti mokytis lenkiškai, kad galėtų susikalbėti su
-    ponais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

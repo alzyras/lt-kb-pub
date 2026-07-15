@@ -57,22 +57,6 @@ Nenurodyta
   teiginys: "1323 m. kovą lietuviai iš Žemaičių puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą."
   pagrindžia:
     - c-33406
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lie­
-    tuviams puolant Livoniją, kryžiuočiai įsiveržė Žemaičių gilumon ir
-    padarė daug nuostolių^6. Bet jau 1323 m. kovo mėn. «Lietuviai iš
-    Žemaičių » puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

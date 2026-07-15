@@ -51,24 +51,6 @@ Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan V
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171431|Totoriai]]: Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas.
 - susijęs iš [[objektai/posakiai/wieszczym duchem.md#claim-t-34415|wieszczym duchem]]: Jadvyga, pasak Prochaskos, savo „wieszczym duchem“ pranašavo ambicingo Vytauto didelių užsimojimų galą.
 - susijęs iš [[objektai/ivykiai/Didžiojo Machmeto įsodinimas į Kipčako sostą ir įsigalėjimas Ordoje.md#claim-t-34470|Didžiojo Machmeto įsodinimas į Kipčako sostą ir įsigalėjimas Ordoje]]: 1424 m. Didysis Machmetas Vytauto padedamas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 m.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pagaliau valdovų kaitaliojimasis pa­
-    sibaigė 1424 met., kai Kipčako sostan Vytauto pagalba atsisėdo
-    Didysis Machmetas, kuris išsilaikė net iki 1437 ar 1438 metų,
-    nors Timur Kotlogo ainiai jį pašalinti visaip dar vis stengėsi.
-    Buvo laikai, kad jo būklė būdavo labai kritiška.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-35418

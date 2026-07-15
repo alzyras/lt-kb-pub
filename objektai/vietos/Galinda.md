@@ -9,6 +9,8 @@ datos:
   - '1253 m.'
 date_start: '1253'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,8 +18,6 @@ tags:
   - upė
   - vieta
   - žemė
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -87,6 +87,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginys: "Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, kad jie vos galėjo sutilpti."
   pagrindžia:
     - c-177128
+
+<a id="claim-t-197879"></a>
+- t-008
+  global_id: t-197879
+  teiginys: "Pietuose jos kaimynė buvo Mazovija, bet didesnė krašto dalis, šiandien priklausanti Lenkijos Karalystei, tuomet priklausė Galindai."
+  pagrindžia:
+    - c-179378
 - susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
 - susijęs iš [[objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis.md#claim-t-89590|Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis]]: Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59953|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.
@@ -134,86 +141,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/paprociai/Senovės prūsų vaišingumas ir švelnūs papročiai.md#claim-t-192093|Senovės prūsų vaišingumas ir švelnūs papročiai]]: Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus.
 - susijęs iš [[objektai/grupes/Galindai.md#claim-t-192382|Galindai]]: Narbutas Galindą vadina viena seniausių provincijų ir rašo, kad ji kadaise driekėsi plačiau Mazovijos bei Polesės link.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Petro Dusburgiečio kronikoje Galinda įvardyta kaip viena iš vienuolikos Prūsijos žemės dalių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
-    vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Galindos žemė buvo į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    T.,   ja  į pietus nuo Bartos, nuo
-    Alnos (dab. Lynos) aukštumos (apie dab. Olštiną) vakaruose iki Nagutino (Negocino)
-    ir Snervų ežerų rytuose (rytinė siena su jotvingiais nėra aiški; galindų žemės galėjo
-    būti ir už šių ežerų, iki Lego upės); siena su Barta ėjo kiek į šiaurę nuo dab. Biskupeco,
-    pietuose žemė siekė dab.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas pasakojo, kad supykdyti kaimynai nuniokojo Galindą taip, jog kraštas daugeliui metų liko beveik negyvenamas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šie, patikėję žynės žodžiu, tuojau sutelkė
-    vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
-    baisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.
-    Tačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­
-    sus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­
-    niokojo, kad Galinda daugeliui metų paliko beveik negyve­
-    nama.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: '1253 m. kryžiuočiai, siekdami lengviau užimti Sembą, pirmiausia turėjo užkariauti Galindą ir atskirti jotvingius nuo Panemunės kraštų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    123
-    Kai 1253 metų pradžioje susiklostė draugiški Pamario
-    kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems
-    saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis
-    užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­
-    tinga Sembos provincija, bet šie atkaklūs bandymai ją
-    užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė
-    toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­
-    sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą,
-    sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­
-    nės kraštais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-005
   santrauka: 'Narbutas Galindą apibūdino kaip vieną seniausių provincijų, kadaise plačiau besidriekusią Mazovijos ir Polesės link.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -240,57 +167,18 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   pagrindžia:
     - t-005
 
-- c-006
-  santrauka: 'Galindos vakarinė siena prasidėjo prie Sasavos žemės, Hohenšteino ir Noidenburgo, o Alnos upe ribojosi su Varmija.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Galinda
-    Galindos, septintos provincijos, pietuose buvo Barta,
-    vakaruose jos siena prasidėjo prie Sasavos žemės, nuo
-    Hohenšteino ir Noidenburgo, prie Alnos versmių ir ta
-    pačia upe ribojosi su Varmija. Jos šiaurėje taip pat buvo
-    Barta, vadinasi, siena driekėsi nuo Rezlio Rastenburgo
-    link. Pietuose jos kaimynė buvo Mazovija, bet didesnė
-    krašto dalis, šiandien priklausanti Lenkijos Karalystei,
-    tuomet priklausė Galindai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, kad jie vos galėjo sutilpti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie vieną iš jų tokį pasakojimą paliko Dus-
-    burgietis.
-    Galindų krašte, klestinčiame dėl ilgos taikos, taip padau­
-    gėjo žmonių, kad jie vos galėjo sutilpti. Tuomet krašto seniū­
-    nai nutarė, kad moteriškos lyties kūdikiai kurį laiką privalą
-    būti žudomi paliekant vien berniukus karo reikalui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 ## Citatos
 
 - id: c-59182
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Prūsai ir Lietuva
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
     vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
@@ -306,10 +194,9 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-59183
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 61"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    T.,   ja  į pietus nuo Bartos, nuo
+    T.,   ja į pietus nuo Bartos, nuo
     Alnos (dab. Lynos) aukštumos (apie dab. Olštiną) vakaruose iki Nagutino (Negocino)
     ir Snervų ežerų rytuose (rytinė siena su jotvingiais nėra aiški; galindų žemės galėjo
     būti ir už šių ežerų, iki Lego upės); siena su Barta ėjo kiek į šiaurę nuo dab. Biskupeco,
@@ -324,16 +211,18 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-171581
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 305"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 305."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šie, patikėję žynės žodžiu, tuojau sutelkė
-    vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
-    baisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.
-    Tačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­
-    sus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­
-    niokojo, kad Galinda daugeliui metų paliko beveik negyve­
-    nama.
+    javus ir juos gausinti, be kitokio jų panaudojimo, išmokė da­
+    ryti alų. Iš šio seno egiptiečių prasimanymo kyla išvada, kad
+    jie pirmieji ėmė daryti alų. Kad ir kaip ten būtų buvę, palikę
+    ramybėje mokslines išvadas, drįstame kurti savo hipotezę, jog
+    tiek ir lietuviams, tiek ir kitoms žemdirbių tautoms aludarystė
+    galėjo būti namų išradimas. Įvairiai ruošiant javus, lengva ap­
+    tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
+    ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per­
+    ėjus fermentaciją, alus jau ir gatavas.
+  citata_rodoma: "Šie, patikėję žynės žodžiu, tuojau sutelkė\nvyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,\nbaisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.\nTačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­\nsus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­\nniokojo, kad Galinda daugeliui metų paliko beveik negyve­\nnama."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -344,8 +233,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-175431
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     123
     Kai 1253 metų pradžioje susiklostė draugiški Pamario
@@ -370,20 +258,22 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Rytuose ji
-    ribojosi su Sūduva, pietuose — su Mazovija, vakaruo­
-    se — su Hokerlandija ir Varmija, o šiaurėje — su Barta.
-    Galinda buvo viena seniausių provincijų, kitados nepa­
-    254
-
-    ## Puslapis 265
-
     lyginti plačiau driekėsi į Mazovijos ir Polesės pusę; ji
     nusipelnė detalių senovės geografų tyrinėjimų. Galindų
     gentys nuo seno buvo gausios ir karingos, plačiai žino­
     mos, kai kurių žinių apie jas pateikėme šio veikalo pir­
     mame tome, skyriuje „Pranašystės“; čia ¡papasakosime
-    apie kitus žinomus dalykus.
+    apie kitus žinomus dalykus. Esama įvairių nuomonių apie
+    pavadinimo kilmę; vieni teigia, jog jis atsirado iš žodžio
+    Galas* 1 neva todėl, kad žmonės gyvenę pabaigoje. Tačiau
+    lai neatitinka lietuvių pavadinimų suteikimo tradicijų;
+    gyventojų taip nevadindavo, o tik žemes arba miestus,
+    pavyzdžiui, Latgala, Žiemgala, Ariogala, Betygala ir kt.
+    Kiti autoriai, gal kiek arčiau tiesos, mėgina pavadinimų
+    kildinti iš senovės prūsų žodžio Galintuvojt, tai reiškė
+    triukšmauti, niekšeli, nes šios gentys buvusios plėšikiškos
+    ir agresyvios.
+  citata_rodoma: "Rytuose ji\nribojosi su Sūduva, pietuose — su Mazovija, vakaruo­\nse — su Hokerlandija ir Varmija, o šiaurėje — su Barta.\nGalinda buvo viena seniausių provincijų, kitados nepa­\n254\n\n## Puslapis 265\n\nlyginti plačiau driekėsi į Mazovijos ir Polesės pusę; ji\nnusipelnė detalių senovės geografų tyrinėjimų. Galindų\ngentys nuo seno buvo gausios ir karingos, plačiai žino­\nmos, kai kurių žinių apie jas pateikėme šio veikalo pir­\nmame tome, skyriuje „Pranašystės“; čia ¡papasakosime\napie kitus žinomus dalykus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -394,8 +284,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-175433
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 362"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 362."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Galinda
     Galindos, septintos provincijos, pietuose buvo Barta,
@@ -416,8 +305,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-177128
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 304"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 304."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie vieną iš jų tokį pasakojimą paliko Dus-
     burgietis.
@@ -431,6 +319,26 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194732
+
+- id: c-179378
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Pietuose jos kaimynė buvo Mazovija, bet didesnė
+    krašto dalis, šiandien priklausanti Lenkijos Karalystei,
+    tuomet priklausė Galindai. Šios provincijos siena su Ma­
+    zovija prasidėdavo ten, kur Vizna įteka į Bebrą, toliau
+    ėjo ta pačia Vizna net iki Narvemedės miško, o. iš ten —
+    iki Vincentos upės, kur įteka į Pisą. Iš ten ji driekėsi pa­
+    lei Ribno, tuomet Rubins, ežerą, po to net iki Turoslio
+    upės, seniau vadintos Targawiten.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197879
 
 ## Ryšiai
 - Puolė Galindą: [[objektai/grupes/Sūduviai]]

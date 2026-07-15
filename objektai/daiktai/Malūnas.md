@@ -117,7 +117,6 @@ Nenurodyta
 - susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
 - susijęs iš Užupis: Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio iš miesto į Užupį, už Vilnelės.
 - susijęs iš Užupis: Aleksandras dovanojo Maksimui Vasiljevičiui pievą prie kelio iš Vilniaus į Užupį už Vilnelės.
-- susijęs iš Vilnius: Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.
 - susijęs iš [[objektai/zodynas/indiktas.md#claim-t-86421|indiktas]]: Rašytas Vilniuje, sausio 13 dieną, Il indikte.
 - susijęs iš [[objektai/zodynas/neofitai.md#claim-t-113658|neofitai]]: 1469 m. į Vilnių buvo pakviestas bernardinų ordinas, kad neofitai įsitvirtintų krikščionių tikėjime.
@@ -130,27 +129,6 @@ Nenurodyta
 - susijęs iš Baiga: Prie Baigos brolių persikėlę kilmingi Varmės vyrai sustiprino brolius, o šie prie upės pastatė įtvirtintą malūną.
 - susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
 - susijęs iš [[objektai/ivykiai/Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas.md#claim-t-91921|Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas]]: Prie Baigos broliai pastatė prie upės į pilį panašiai sutvirtintą malūną, kurį prūsai netrukus užėmė, gynėjus išžudė ir sudegino.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Sekančiais metais Vytautas su kryžiuočių diplomatais su­
-    važiavo į Kauną ir, be Lenkijos žinios, suteikė Vokieč.
-    Ordinui teise abipus Nevėžio statytis malūnus^2 ) ir atskiru aktu
-    pasižadėjo eiti jam į pagalbą prieš visus jo priešus. Ordinas irgi
-    sutarty pasižadėjo ginti Vytautą nuo jo priešininkų^3 ). Nors
-    Vyt. ir pažymėjo, kad jam esą netinka kelti rankos prieš lenkų
-    karalių^4 ), bet ši nauja sutartis aiškiausiai prieštaravo jo praeitų
-    metų pasižadėjimams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38219

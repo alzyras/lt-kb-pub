@@ -42,44 +42,6 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
   teiginys: "Lenkijoje už talerį mokėta 30 grašių, o Lietuvoje karaliaus paliepimu - 25 lietuviški grašiai."
   pagrindžia:
     - c-82471
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lenkijoje už talerį mokėta 30 grašių, o Lietuvoje karaliaus paliepimu - 25 lietuviški grašiai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vilniaus universiteto bibliotekoje)
-    Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30
-    grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1  Junii
-    [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo
-    Karališkosios Didenybės paliepimu, po 25 lietuviškus gra­
-    šius. Jiems išleista 15 florinų 26 grašiai ir 2 ą1g. Ežmiež*. [Tas
-    pats] pasiuntė 36 dukatus po 55 lenkiškus grašius. Jiems
-    išleista 1 florinas 6 grašiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Man buvo ati­
-    duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už
-    užstatą sidabrui Jo Karališkosios Didenybės reikalams nuo
-    žydo Brastoje ėmė po 56 lenkiškus grašius. Jiems Lukove
-    L. Mogilnickis išleido 5 flor. 7 gr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

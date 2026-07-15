@@ -48,45 +48,6 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
   teiginys: "1915 m. vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius vadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto atsišaukimai buvo nudraskyti."
   pagrindžia:
     - c-166781
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams
-    nusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-
-    vasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o
-    rugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės
-    teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
-    kariuomenių kontroliuojamoje zonoje. Toje teritorijoje gyveno lenkai,
-    lietuviai, latviai ir baltarusiai. Dar nesusigaudę kur pateko, vokiečiai Vil-
-    niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu
-    Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišau-
-    kimus nudraskė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1915 m. vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius vadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto atsišaukimai buvo nudraskyti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Toje teritorijoje gyveno lenkai,
-    lietuviai, latviai ir baltarusiai. Dar nesusigaudę kur pateko, vokiečiai Vil-
-    niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu
-    Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišau-
-    kimus nudraskė. Vos už pusmečio vokiečiai jau gerai žinojo kur esą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

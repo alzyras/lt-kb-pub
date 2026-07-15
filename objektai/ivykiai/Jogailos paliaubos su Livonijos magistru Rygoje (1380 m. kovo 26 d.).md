@@ -57,28 +57,6 @@ Nenurodyta
   teiginys: "1380 m. Jogaila Rygoje sudarė paliaubas su Livonijos magistru, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę."
   pagrindžia:
     - c-82890
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1380 m. Jogaila Rygoje sudarė paliaubas su Livonijos magistru, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
-    dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
-    dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
-    žiuočių ir palengvinti jiems Kęstučio valdų puolimą28. Taip
-    pat buvo sudarytos paliaubos su Livonijos magistru Rygo­
-    je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29. Kitais
-    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
-    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
-    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

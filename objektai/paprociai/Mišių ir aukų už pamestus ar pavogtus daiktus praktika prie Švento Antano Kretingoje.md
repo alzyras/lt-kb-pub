@@ -66,6 +66,7 @@ Nenurodyta
   teiginys: "Elgeta rinko pinigus mišioms dėl pamestų ar pavogtų turtų atradimo ir Šventą Antaną vadino pamestų daiktų patronu."
   pagrindžia:
     - c-177806
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

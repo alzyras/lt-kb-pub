@@ -58,38 +58,13 @@ Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornva
   teiginys: "Apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornvalijos grafo, Anglijos karaliaus brolio, išrinkimą Romos karaliais nesantarvės metais 1256 viešpaties metais Vokietijos valdovai nesutardami išrinko Romos karaliais du žmones, būtent: Kastilijos karalių."
   pagrindžia:
     - c-60866
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornvalijos grafo, Anglijos karaliaus
-                       brolio, išrinkimą Romos karaliais nesantarvės metais
-
-    1256 viešpaties metais Vokietijos valdovai nesutardami išrinko Romos karaliais du
-    žmones, būtent: Kastilijos karalių Alfonsą ir Kornvalijos grafą Ričardą, Anglijos karaliaus
-    brolį, o ši nesantarvė užtruko ilgus metus (Ptol. 22,15).
-
-
-
-                           40.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 
 - id: c-60866
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 232-233"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232-233."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornvalijos grafo, Anglijos karaliaus
                        brolio, išrinkimą Romos karaliais nesantarvės metais

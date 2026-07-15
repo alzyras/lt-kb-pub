@@ -37,27 +37,6 @@ Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (M
     - c-24312
 - susijęs iš Nesvyžius: Myro pilis prie Nesvyžiaus laikoma viena iš gotikinių LDK cerkvių stiliaus analogijų rezidencijų architektūroje.
 - susijęs iš Nesvyžius: Myro pilis prie Nesvyžiaus citatoje pateikiama kaip gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Čia gotika tapo
-    net ir stačiatikių ar būsimųjų graikų katalikų cerkvių stiliumi.
-    Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
-    tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
-    je. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
-    (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
-    pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
-    je, tai yra europinės reikšmės riba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24312

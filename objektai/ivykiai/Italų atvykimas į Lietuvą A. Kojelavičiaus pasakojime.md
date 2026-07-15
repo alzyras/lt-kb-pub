@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kojelavičius patikimiausia laikė prielaidą, kad italai į šias žemes atvyko po devintojo amžiaus nuo Kristaus gimimo. Galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų.
+Kojelavičius svarstė, kad žmonės galėjo palikti Italiją apie 908 m., bėgdami nuo karų ir ieškodami saugesnių žemių. Kojelavičius spėjo, kad po 924 m. italai ar kiti atvykėliai Baltijos jūra pasiekė Kuršių įlanką ir Nemuno žiotis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -43,77 +43,16 @@ Nenurodyta
 <a id="claim-t-185570"></a>
 - t-001
   global_id: t-185570
-  teiginys: "Kojelavičius patikimiausia laikė prielaidą, kad italai į šias žemes atvyko po devintojo amžiaus nuo Kristaus gimimo."
+  teiginys: "Kojelavičius svarstė, kad žmonės galėjo palikti Italiją apie 908 m., bėgdami nuo karų ir ieškodami saugesnių žemių."
   pagrindžia:
     - c-168931
 
 <a id="claim-t-193355"></a>
 - t-002
   global_id: t-193355
-  teiginys: "Galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų."
+  teiginys: "Kojelavičius spėjo, kad po 924 m. italai ar kiti atvykėliai Baltijos jūra pasiekė Kuršių įlanką ir Nemuno žiotis."
   pagrindžia:
     - c-176083
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kojelavičius patikimiausia laikė prielaidą, kad italai į šias žemes atvyko po devintojo amžiaus nuo Kristaus gimimo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tačiau tie patys rašytojai šį valdovą, tre­
-    čiąjį po Palemono, arba Publijaus Libono, priskiria
-    tūkstantis du šimtiesiems metams po žmonijos išga­
-    nymo.
-    58
-
-    ## Puslapis 57
-
-    Kita vertus, kas galėtų patikėti, jog galėję užtekti
-    trijų valdovų gyvenimo ir viešpatavimo tokiam lai­
-    kotarpiui, Todėl, paskaičiavus metus ir paderinus juos
-    su valdovų skaičiumi, patikimiausia, rodos, būtų ma­
-    nyti, kad italai į šias žemes bus atvykę po devintojo
-    amžiaus nuo Kristaus gimimo. Tada visoje Italijoje
-    liepsnojo tarpusavio rietenos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Galimas daiktas, alanai, arba herulai (kurie,
-    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
-    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
-    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
-    buvo tinkamiausios įsikurti ir neniokojamos karų. Pa­
-    galiau nesvarbu, dėl kokios dingsties, reikalo ar būti­
-    nybės jie leidosi į tokį tolimą kelią, vieną dalyką se­
-    noliai atkakliai tvirtina: ateivių italų esą buvę penki
-    šimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus
-    buvo vardijami vadai: Palemonas, arba Publijus Libo-
-    nas, herbo Stulpai,
-    Julijonas
-    Dausprungas;,
-    kurio
-    59
-
-    ## Puslapis 58
-
-    giminės herbas Kentauras, Prosperas Cezarinas — her­
-    bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba
-    Rožynas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -122,21 +61,23 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tačiau tie patys rašytojai šį valdovą, tre­
-    čiąjį po Palemono, arba Publijaus Libono, priskiria
-    tūkstantis du šimtiesiems metams po žmonijos išga­
-    nymo.
-    58
-
-    ## Puslapis 57
-
-    Kita vertus, kas galėtų patikėti, jog galėję užtekti
-    trijų valdovų gyvenimo ir viešpatavimo tokiam lai­
-    kotarpiui, Todėl, paskaičiavus metus ir paderinus juos
-    su valdovų skaičiumi, patikimiausia, rodos, būtų ma­
-    nyti, kad italai į šias žemes bus atvykę po devintojo
-    amžiaus nuo Kristaus gimimo. Tada visoje Italijoje
-    liepsnojo tarpusavio rietenos.
+    Dėl to be perstojo kildavo karas po
+    karo. Taigi iš tiesų galėjo ši-
+    908 m e ta i
+    taip įvykti, kad kurie ne
+    kurie žmonės, matydami ši­
+    tokias blogybes ir bjaurėdamiesi jomis, ryžosi palikti
+    tėvynę ir, išsaugoję sveikas galvas, leistis į kelionę.
+    Gal, palikę Italiją, šia kryptimi pasuko tie, kurie no­
+    rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių
+    priešų buvo paskelbti už įstatymo ribų; nieku būdu
+    negaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi­
+    klydėliai. Galimas daiktas, alanai, arba herulai (kurie,
+    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
+    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
+    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
+    buvo tinkamiausios įsikurti ir neniokojamos karų.
+  citata_rodoma: "Taigi iš tiesų galėjo ši- \n908 m e ta i \ntaip įvykti, kad kurie ne\nkurie žmonės, matydami ši­\ntokias blogybes ir bjaurėdamiesi jomis, ryžosi palikti \ntėvynę ir, išsaugoję sveikas galvas, leistis į kelionę. \nGal, palikę Italiją, šia kryptimi pasuko tie, kurie no­\nrėjo išvengti savo likimo, o gal tie, kurie nugalėjusių \npriešų buvo paskelbti už įstatymo ribų; nieku būdu \nnegaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi­\nklydėliai. Galimas daiktas, alanai, arba herulai (kurie, \nistorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­\nro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie \npasitraukė iš tėvynės ir pasuko į tas žemes, kurios \nbuvo tinkamiausios įsikurti ir neniokojamos karų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -149,27 +90,35 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Galimas daiktas, alanai, arba herulai (kurie,
-    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
-    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
-    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
-    buvo tinkamiausios įsikurti ir neniokojamos karų. Pa­
-    galiau nesvarbu, dėl kokios dingsties, reikalo ar būti­
-    nybės jie leidosi į tokį tolimą kelią, vieną dalyką se­
-    noliai atkakliai tvirtina: ateivių italų esą buvę penki
-    šimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus
-    buvo vardijami vadai: Palemonas, arba Publijus Libo-
-    nas, herbo Stulpai,
-    Julijonas
-    Dausprungas;,
-    kurio
-    59
-
-    ## Puslapis 58
-
-    giminės herbas Kentauras, Prosperas Cezarinas — her­
-    bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba
-    Rožynas.
+    Iš tiesų ne be
+    pagrindo spėjama, kad jie atvykę iš Insubrijos bei Li-
+    gurijos. Sako, ligi mūsų die-
+    IS
+    k u r
+    tie
+    italai ir
+    nų šiose Italijos žemėse te-
+    k a d a a tv y k o } L ietu-
+    beliko šeimų, kurių pavardės
+    vą?
+    bei herbai giminingi. Vėliau
+    Berengaras, italams iš visų
+    jėgų suskatus, buvo nuverstas nuo sosto, bet, trokšda­
+    mas priešams tuo pačiu atseikėti, jis, sako, suleidęs į
+    savo paties kraštą hunus, kurie, Ticino miestą sulygi­
+    nę su žeme, nusiaubė nelyginant laukiniai visą žemę,
+    pridarę galybę neregėtų negirdėtų piktadarysčių, nevil-
+    tin nugramzdino ir bėgti pas-
+    924 m e ta i
+    katino tuos, kurie jau anks­
+    čiau, bėdų prispausti, norėję
+    palikti Italiją. Taigi šitie arba kiti (apskritai nieko ne­
+    drįstu tokiu neaišku reikalu tvirtai sakyti), Venedų,
+    arba Baltijos, jūra įplaukę neplačiu sąsiauriu į Kuršių
+    įlanką, palei krantą nusigavo į Nemuno, arba Chrono,
+    žiotis, kur upė, ilgai tekėdama per Rusią, Lietuvą ir
+    Prūsiją, išsilieja sutelkusi vandenis dvylika atšakų.
+  citata_rodoma: "Galimas daiktas, alanai, arba herulai (kurie,\nistorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­\nro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie\npasitraukė iš tėvynės ir pasuko į tas žemes, kurios\nbuvo tinkamiausios įsikurti ir neniokojamos karų. Pa­\ngaliau nesvarbu, dėl kokios dingsties, reikalo ar būti­\nnybės jie leidosi į tokį tolimą kelią, vieną dalyką se­\nnoliai atkakliai tvirtina: ateivių italų esą buvę penki\nšimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus\nbuvo vardijami vadai: Palemonas, arba Publijus Libo-\nnas, herbo Stulpai,\nJulijonas\nDausprungas;,\nkurio\n59\n\n## Puslapis 58\n\ngiminės herbas Kentauras, Prosperas Cezarinas — her­\nbo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba\nRožynas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

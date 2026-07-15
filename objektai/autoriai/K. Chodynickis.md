@@ -37,26 +37,6 @@ Chodynickis ir J.
     - c-32991
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179529|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: K. Chodynickis ir J. Jakubowskis daug dėmesio skyrė Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179530|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: K. Chodynickis ir J. Jakubowskis daug dėmesio skyrė Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kutrze­
-    ba— Lenkijos ir Lietuvos unijos aktus (AUPL). Juos tyrinėjo
-    teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici
-    ir kt.) leidėjas O. Balzeris.
-    Daug dėmesio atskiriems Gediminaičių laikų klausimams ir
-    Lietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.
-    Jakubowskis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32991

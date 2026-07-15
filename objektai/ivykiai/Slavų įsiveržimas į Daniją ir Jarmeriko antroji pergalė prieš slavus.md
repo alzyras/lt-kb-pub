@@ -48,37 +48,13 @@ Nenurodyta
   teiginys: "Narbutas pasakoja, kad Jarmerikui žygiuojant Prūsijoje slavai įsiveržė į Daniją, o grįžęs valdovas antrą kartą juos nugalėjo."
   pagrindžia:
     - c-173957
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas pasakoja, kad Jarmerikui žygiuojant Prūsijoje slavai įsiveržė į Daniją, o grįžęs valdovas antrą kartą juos nugalėjo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pavergęs slavų kraštą ir pamanęs, jog
-    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
-    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
-    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
-    galo juos engdamas. Tuomet slavai, pasinaudodami Jar­
-    meriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir
-    plėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas
-    skubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­
-    galėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­
-    viais, jog visiškai įbauginta liaudis vėl nusižemino.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173957
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pavergęs slavų kraštą ir pamanęs, jog
     įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė

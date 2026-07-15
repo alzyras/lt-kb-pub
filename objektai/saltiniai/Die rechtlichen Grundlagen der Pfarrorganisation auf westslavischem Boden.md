@@ -49,28 +49,6 @@ Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 4
   teiginys: "H. F. Schmido „Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden“ išleista Veimare 1938 m."
   pagrindžia:
     - c-33554
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'H. F. Schmido „Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden“ išleista Veimare 1938 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje_ , Athenaeum,
-    II, nr. 1, 1931, 1-36 p. — Quillus, Helene : _Königin Hedwig von Polen,_
-    Slavische Forschungen, Heft 2, 1938. — Schmid, H. F. : _Die Gestaltung
-    der rechtlichen Grundlagen der Pfarrverfassung bei der Einführung des
-    Christentums in Litauen,_ Zeitschr. d. Savigny-Stiftung d. Rechtsgeschich­
-    te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 451-454 p.
-    — (”) _Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem
-    Boden,_ Weimar 1938, 686-724, 1091-1094, 1119-1128, 1266-1270 p. —
-    Smolka, St.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

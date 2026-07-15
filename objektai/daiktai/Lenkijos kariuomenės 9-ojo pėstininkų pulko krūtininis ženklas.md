@@ -63,32 +63,6 @@ Nenurodyta
   teiginys: "Kai dar lenkų kariuomenė traukėsi spaudžiama bolševikų, o lietuviai atsiiminėjo žemes, Lietuvos karinės ir politinės savanorių buvo demobilizuota ir nors dar 1919 m. kovo mėnesį buvo pradėtas privalomas šaukimas į Lietuvos kariuomenę, ji nebuvo Lenkijos."
   pagrindžia:
     - c-176463
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kai dar lenkų kariuomenė traukėsi spaudžiama bolševikų, o lietuviai atsiiminėjo žemes, Lietuvos karinės ir politinės savanorių buvo demobilizuota ir nors dar 1919 m. kovo mėnesį buvo pradėtas privalomas šaukimas į Lietuvos kariuomenę, ji nebuvo Lenkijos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kai dar lenkų kariuomenė traukėsi
-    spaudžiama bolševikų, o lietuviai atsiimi-
-    nėjo žemes, Lietuvos karinės ir politinės
-
-    savanorių buvo demobilizuota ir
-    nors dar 1919 m. kovo mėnesį buvo
-    pradėtas privalomas šaukimas į
-    Lietuvos kariuomenę, ji nebuvo
-
-    Lenkijos kariuomenės 9-ojo pėstininkų
-    pulko krūtininis ženklas
-
-    202 AUGUSTAVO-SUVALKŲ OPERACIJA liepa-rugsėjis 1920 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

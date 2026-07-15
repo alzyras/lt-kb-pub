@@ -45,25 +45,6 @@ Rusijos caras Aleksandras 11 1856 m. paskelbė politinę amnestiją 1831 m. suki
   teiginys: "Rusijos caras Aleksandras II 1856 m. paskelbė politinę amnestiją 1831 m. sukilimo tremtiniams."
   pagrindžia:
     - c-40575
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rusijos caras Aleksandras 11 1856 m.
-    paskelbė politinę amnestiją 1831 m. su-
-    kilimo tremtiniams. Iš Sibiro bei kitų
-    tremties vietų ėmė grįžti daug patriotiš-
-    kai nusiteikusių žmonių. Dauguma
-    jų buvo tik dar labiau užsigrūdinę to-
-    lesnei išsivadavimo kovai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -40,28 +40,13 @@ Dusburgietis teigia, kad lietuvių etnografijos bruožai / Redagavo A.
   teiginys: "A. Vyšniauskaitė redagavo 1964 m. išleistus „Lietuvių etnografijos bruožus“."
   pagrindžia:
     - c-61766
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Vyšniauskaitė redagavo 1964 m. išleistus „Lietuvių etnografijos bruožus“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvių etnografijos bruožai / Redagavo A. Vyšniauskaitė.— V., 1964.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61766
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lietuvių etnografijos bruožai / Redagavo A. Vyšniauskaitė.— V., 1964.
   statusas: verified

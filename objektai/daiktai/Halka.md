@@ -73,50 +73,7 @@ Nenurodyta
   teiginys: "Halka buvo didelė kanuolė, kurią vos patraukdavo 20 porų arklių."
   pagrindžia:
     - c-38206
-
-<a id="claim-t-35506"></a>
-- t-003
-  global_id: t-35506
-  teiginys: "Halka buvo didelė kanuolė, kurią vos patraukdavo 20 porų arklių."
-  pagrindžia:
     - c-36716
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kariuomenė buvo labai gerai ginkluota;
-    viena didelė kanuolė, vadinama Halka, buvo vos patraukiama
-    20 porų arklių. Tačiau žygiuoti į Naugardą buvo nelengva, nes
-    vasarą trukdė sunkiai perbrendamos pelkės ir miškai, kuriuos
-    kirto ir klojo kelią. Šias gamtos kliūtis Vytautas nugalėjo, bet
-    pats Naugardas liko neįveiktas, nors ir buvo apsiaustas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1428 metų vasarą jis surengė į Naugardą di­
-    delį žygį, pritraukdamas į jį daug kunigaikščių ir kariuomenės
-    iš Lenkijos ir Rusijos. Kariuomenė buvo labai gerai ginkluota;
-    viena didelė kanuolė, vadinama Halka, buvo vos patraukiama
-    20 porų arklių. Tačiau žygiuoti į Naugardą buvo nelengva, nes
-    vasarą trukdė sunkiai perbrendamos pelkės ir miškai, kuriuos
-    kirto ir klojo kelią.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 
@@ -133,12 +90,10 @@ Nenurodyta
     kirto ir klojo kelią. Šias gamtos kliūtis Vytautas nugalėjo, bet
     pats Naugardas liko neįveiktas, nors ir buvo apsiaustas.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-35506
-
 - id: c-38206
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

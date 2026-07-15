@@ -48,24 +48,6 @@ Rėklaitis : Einführung in die Kunstgeschichtsforschung des Groß- iürstentums
 - susijęs iš P. Rėklaitis Lietuvos senoji kartografija: P. Rėklaičio „Lietuvos senoji kartografija“ paskelbta „Tautos Praeities“ II tomo 1 dalyje, Romoje 1964 m., p. 64-76.
 - susijęs iš Bibliographie des Memellandes: „Bibliographie des Memellandes“ buvo atskira Klaipėdos krašto bibliografija, išleista 1957 m. Würzburge.
 - susijęs iš Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen: P. Rėklaičio „Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen“ išleista Marburge 1962 m. ir sužymėjo 944 bibliografinius numerius.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Z. Ivinskis :** **_Vytautas D. istorinėje literatūroje ir jo periodo bibliografija,_**
-    **Athenaeum, t. 2, Nr. 1, Kaunas 1931, p. 89-141.
-    P. Rėklaitis :** **_Einführung in die Kunstgeschichtsforschung des Groß-
-    iürstentums Litauen,_** **Marburg 1962 (gausiai Įtraukta ir bendroji Lietuvos
-    istorijos bibliografija. Iš viso sužymėta 944 bibliogr. numeriai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33095

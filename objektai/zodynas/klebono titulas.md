@@ -36,28 +36,6 @@ Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai pri
   teiginys: "Šv. Dvasios vienuolyno vyresnysis ir broliai prisiėmė panaikintą prieglaudos klebono titulą."
   pagrindžia:
     - c-82573
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šv. Dvasios vienuolyno vyresnysis ir broliai prisiėmė panaikintą prieglaudos klebono titulą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šv. sakramentų dalijimas ir rūpinimasis vargšais ir kitais žmo­
-    nėmis, laikinai gyvenančiais minėtoje prieglaudoje, bus pri­
-    valomas ir priklausys minėto Šv. Dvasios vienuolyno vyres­
-    niajam ir broliams, taigi jie įpareigojami visam laikui ten
-    laikyti šv. Mišias, klausyti išpažinčių ir dalinti švenčiausiąją
-    Viešpaties Kūno komuniją prieglaudos gyventojams. Taip pat
-    jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai
-    prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos
-    pačios prieglaudos klebono titulo, kurį sau prisiėmė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

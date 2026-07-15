@@ -42,29 +42,13 @@ Dusburgietis teigia, kad łowmiański H.
   teiginys: "H. Łowmiańskio veikalas „Początki Polski“ nurodytas 1, 4 ir 5 tomais, išleistais Varšuvoje 1963, 1970 ir 1973 m."
   pagrindžia:
     - c-62023
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'H. Łowmiańskio veikalas „Początki Polski“ nurodytas 1, 4 ir 5 tomais, išleistais Varšuvoje 1963, 1970 ir 1973 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Łowmiański H. Początki Polski: Z dziejów Słowian w 1 tysiącleciu n. e.—T. 1, 4, 5.—
-    Warszawa, 1963, 1970, 1973.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-62023
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Łowmiański H. Początki Polski: Z dziejów Słowian w 1 tysiącleciu n. e.—T. 1, 4, 5.—
     Warszawa, 1963, 1970, 1973.

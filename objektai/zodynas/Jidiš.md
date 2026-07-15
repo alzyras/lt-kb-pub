@@ -56,22 +56,6 @@ Gerai nemokėdami lietuviškai žydų atstovai Lietuvos Seime galėjo kalbėti j
 - susijęs iš Babilono Talmudas: Vilniaus Gaonas redagavo ir komentavo Babilono Talmudą; tai citatoje įvardijama kaip didžiausias jo nuopelnas.
 - susijęs iš Lietuva: Ir šiandien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pavadinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK po Liublino unijos).
 - susijęs iš [[objektai/zodynas/litvakai Lite litviš.md#claim-t-26549|litvakai Lite litviš]]: Lietuvoje susiformavusi jidiš kalbos tarmė litviš ilgainiui tapo norminės jidiš kalbos pagrindu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gerai nemokėdami
-    lietuviškai žydų atstovai Lietuvos Seime galėjo kalbėti jidiš – to Europoje
-    dar nebuvo...
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-26561

@@ -7,15 +7,15 @@ datos:
   - '1805 m.'
 date_start: '1805'
 date_end: ''
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - rašytojas
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,8 +43,8 @@ Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo 
   teiginys: "Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo Trembeckio pasakėčia „Balandėliai“."
   pagrindžia:
     - c-174198
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo Trembeckio pasakėčia „Balandėliai“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -77,19 +77,21 @@ Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    218
-
-    ## Puslapis 216
-
-    sudaro daugelio žodžių šaknį1, Tiriant lietuvių kalbą, pa­
-    vyko rasti tą patį žodį Russ vienoje dainelėje, kuri buvo
-    užrašyta Raseinių apskrityje 1805 metais: dainininkas
-    stengiasi piešti gyvenimo gimtojoje sodyboje laimę ir
-    naudą, peikdamas tuos, kurie ją palieka2. Tai tarsi natū­
+    Tai tarsi natū­
     ralus taip puikiai lenkiškai skambančios Trembeckio pa­
     sakėčios „Balandėliai“ pakartojimas*. Ieškojau to, kuris
     man paaiškintų prasmę žodžio Russ, turėjusio iš pirmo
-    žvilgsnio reikšti kaimą.
+    žvilgsnio reikšti kaimą. Bet vėliau vienas lietuvių pamoks­
+    lininkas iš Viikiškių Prūsijoje geriau paaiškino, jog šis
+    žodis į vokiečių kalbą verčiamas Stammorth; tai į lenkų
+    kalbą pažodžiui neverčiama, tačiau atitinka tai, ką vadi­
+    name Gtomna osada, pagrindine gyvenviete, o dainelėje
+    reiškia Ojcow dziedzina, tėviškė. O žinant, kad Hrakso,
+    arba Rosės, upė gavo pirmykštį pavadinimą iš kamieno
+    skitų tautos (§55), kurios dalis buvo budinai, nesunkiai
+    galima suvokti senovės tyrinėtojų nuomonę ir ką tik mūsų
+    pasakytas mintis.
+  citata_rodoma: "218\n\n## Puslapis 216\n\nsudaro daugelio žodžių šaknį1, Tiriant lietuvių kalbą, pa­\nvyko rasti tą patį žodį Russ vienoje dainelėje, kuri buvo\nužrašyta Raseinių apskrityje 1805 metais: dainininkas\nstengiasi piešti gyvenimo gimtojoje sodyboje laimę ir\nnaudą, peikdamas tuos, kurie ją palieka2. Tai tarsi natū­\nralus taip puikiai lenkiškai skambančios Trembeckio pa­\nsakėčios „Balandėliai“ pakartojimas*. Ieškojau to, kuris\nman paaiškintų prasmę žodžio Russ, turėjusio iš pirmo\nžvilgsnio reikšti kaimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

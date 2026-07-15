@@ -41,19 +41,6 @@ LAUKO FORTIFIKACIJA", Andžej Geglis, dail.
   teiginys: "Andžejus Geglis sukūrė iliustraciją „XVII a. lauko fortifikacija“."
   pagrindžia:
     - c-41773
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 114, „XVII A. LAUKO FORTIFIKACIJA", Andžej Geglis, dail. Andžej Geglis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

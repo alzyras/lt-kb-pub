@@ -57,25 +57,6 @@ Nenurodyta
   teiginys: "1289 m. Budikidas ir jo brolis Budivydas taikai palaikyti perdavė Valkaviską Haličo-Volinijos kunigaikščiams."
   pagrindžia:
     - c-33432
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1289 m. Budikidas ir jo brolis Budivydas taikai palaikyti perdavė Valkaviską Haličo-Volinijos kunigaikščiams.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Haličo — Volinijos kunigaikščiai plėtėsi į šiaurę,
-    paimdami senas Mindaugines valdas, Slanimo ir kitas pilis. Taikai
-    palaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­
-    leido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų
-    ordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų
-    žemes, ypač Lenkiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

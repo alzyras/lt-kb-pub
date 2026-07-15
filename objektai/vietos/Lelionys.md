@@ -35,34 +35,13 @@ Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito yra du kaimai: Leliu
   teiginys: "Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito yra du kaimai: Leliušių (Lelusze) ir Lelionių (Lelaiice); taip pat Trakų apskrityje, ponų Gorskių dvare, yra Lelionių milžinka pis."
   pagrindžia:
     - c-177161
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito yra du kaimai: Leliušių (Lelusze) ir Lelionių (Lelaiice); taip pat Trakų apskrityje, ponų Gorskių dvare, yra Lelionių milžinka pis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vie­
-    noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­
-    lius. Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito
-    yra du kaimai: Leliušių (Lelusze) ir Lelionių (Lelaiice); taip pat
-    Trakų apskrityje, ponų Gorskių dvare, yra Lelionių milžinka­
-    pis. Visa tai paaiškina dar mažai ištirtus Siaurės mitologijos mi­
-    tus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177161
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vie­
     noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­

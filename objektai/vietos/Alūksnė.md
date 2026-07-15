@@ -43,26 +43,6 @@ media_all_json: |-
   teiginys: "1560 m. rusai užėmė Alūksnę ir Viljandį."
   pagrindžia:
     - c-40395
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1560 m. rusai užėmė Alūksnę ir Viljandį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Suomijos įlanka, „ 5
-
-    1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos
-    teritorijos su Narvos ir Tartu miestais, Danija užvaldė Saremos
-    salą. 1560 m. rusai užėmė Alūksnę, Vilijandį. Švedai užėmė šiau-
-
-    1561 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

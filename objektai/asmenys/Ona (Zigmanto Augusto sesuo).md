@@ -35,24 +35,6 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
   teiginys: "Po Zigmanto Augusto mirties neliko vyriškų įpėdinių; viena iš likusių seserų, Ona, tebebuvo netekėjusi."
   pagrindžia:
     - c-64890
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po Zigmanto Augusto mirties neliko vyriškų įpėdinių; viena iš likusių seserų, Ona, tebebuvo netekėjusi.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mirė savo mėgiamajame Knišine, Palenkėje. Jam tada dar te-
-    buvo tik 52 m., tačiau jis jau buvo visiškai pasenęs, silpnas
-    senelis. Po jo mirties neliko jokių vyriškų įpėdinių (liko tik
-    seserys, kurių viena — Ona — tebebuvo netekėjusi), tad turėjo
-    prasidėti laisvai renkamųjų valdovų periodas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -51,42 +51,6 @@ Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų , Athenaeum V, 1935, 54-
   teiginys: "„Kovos bruožai dėl Žemaičių ir jų sienų“ nurodytas kaip 1935 m. „Athenaeum“ VI tomo tekstas, apimantis 54–117 puslapius."
   pagrindžia:
     - c-33763
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.
-    Berlin 1906. — Horn, A. : _Tannenberg,_ AM, t. 22, 1885, 637-648 ; t. 23,
-    1886, 142-150 p. — Ivinskis, Z. : _Kovos bruožai dėl Žemaičių ir jų
-    sienų,_ Athenaeum, VI, 1935, 54-117 p. — (”) _Vytauto Didžiojo perijodo_
-
-    (^37) **DlugO, XIII, 119 p.**
-    (^38) **DlugO, XIII, 29, 119 p.**
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Goyski, W. : _Wzajemne stosunki Polski, Litwy i Zakonu w latach
-    1399-1404,_ Przewodnik nauk. i liter., t. 34, 1906. — Ivinskis, Z. : _Kovos
-    bruožai del Žemaičių ir jų sienų,_ Athenaeum, t. 6, 1935, 54-117 p. — (”)
-    _Raciąžo taika,_ LE, t. 24, 315-316 p. — (”) _Salyno taika,_ LE, t. 26, 351-
-
-    (^66) **CEV, 192 p. ; DlugO, XII, 572 p. — Plg.** **_Marienb.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

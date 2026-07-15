@@ -35,8 +35,8 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
   teiginys: "S. Karaliūnas buvo vienas iš rankraščio recenzentų rengiant knygą spaudai."
   pagrindžia:
     - c-61411
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'S. Karaliūnas buvo vienas iš rankraščio recenzentų rengiant knygą spaudai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -57,12 +57,22 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
 - id: c-61411
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 6."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
-    S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,
-    filol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai.
+    Petro Dusburgiečio kronika
+    Epocha, šaltiniai, tendencija, reikšmė
+    Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir
+    pasakojamuosius, arba naratyvinius (iš lot. narratio), šaltinius. Pasakojamojo pobūdžio
+    šaltinius sudaro analai, kronikos,  memuarai bei dienoraščiai, šventųjų gyvenimai ir kt.
+    Tarybinis mokslas kreipia didelį dėmesį į teisingą istorinių šaltinių teksto suvokimą
+    atskleidžiant jo socialinę, klasinę esmę, traktuojant šaltinį kaip to meto visuomenės
+    gyvenimo objektyvų atspindį, tiriant jį kaip paminklą mūsų šalies tautų išsivaduojamajai
+    kovai atskleisti1.
+    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
+    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
+    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
+    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
+  citata_rodoma: "Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.\nS. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,\nfilol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

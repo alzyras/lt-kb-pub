@@ -32,42 +32,12 @@ Lietuvos metraštis Vaidilą vadina didžiojo kunigaikščio Algirdo tarnu ir ve
 <a id="claim-t-187553"></a>
 - t-001
   global_id: t-187553
-  teiginys: "Lietuvos metraštis Vaidilą vadina didžiojo kunigaikščio Algirdo tarnu ir vergu, kuris iš kepėjo iškilo iki Lydos valdytojo."
+  teiginys: 'Lietuvos metraštis Vaidilą vadina didžiojo kunigaikščio Algirdo tarnu ir vergu, kuris iš kepėjo iškilo iki Lydos valdytojo.'
   pagrindžia:
     - c-170503
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
 - susijęs iš [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas.md#claim-t-07800|Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]: Jaunas žemaitis į bažnyčią ar į mugę mieliau joja, negu važiuoja vežimu.
 - susijęs iš Naugardas ir Pskovas: Naugardą ir Pskovą aplankyti vykusiems pasiuntiniams buvo leista pereiti sienas be tikrinimo.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos metraštis Vaidilą vadina didžiojo kunigaikščio Algirdo tarnu ir vergu, kuris iš kepėjo iškilo iki Lydos valdytojo.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didysis kunigaikštis Kęstutis, atsižvelg­
-    damas j susitarimą bei savo brolišką meilę ir santar-
-    mę, kurios ligi jo mirties buvo laikęsis, pripažino di­
-    džiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį
-    Jogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip
-    anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
-    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
-    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
-    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
-    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
-    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
-    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
-    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
-    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
-    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
-    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-170503
@@ -91,9 +61,9 @@ Lietuvos metraštis Vaidilą vadina didžiojo kunigaikščio Algirdo tarnu ir ve
     didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
     išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
     kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187553
+    - t-001

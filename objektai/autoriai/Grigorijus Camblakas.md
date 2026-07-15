@@ -61,15 +61,8 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
   pagrindžia:
     - c-48357
 
-<a id="claim-t-45610"></a>
-- t-004
-  global_id: t-45610
-  teiginys: "1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu."
-  pagrindžia:
-    - c-48357
-
 <a id="claim-t-45612"></a>
-- t-005
+- t-004
   global_id: t-45612
   teiginys: "Grigorijus Camblakas buvo vienas žymiausių to meto stačiatikybės teologų."
   pagrindžia:
@@ -88,34 +81,6 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 - susijęs iš Vilnius: Kijevo ir visos Rusios metropolitas buvo įkurdintas Vilniuje, kur jam pastatyta katedra ir rezidencija.
 - susijęs iš Vilnius: Kijevo ir visos Rusios metropolitas buvo įkurdintas Vilniuje, kur jam pastatyta katedra ir rezidencija.
 - susijęs iš [[objektai/zodynas/konversija christianizacija europeizacija.md#claim-t-22198|konversija christianizacija europeizacija]]: Vytauto bažnytinė politika siekė Lietuvos konversijos ir „švento valdovo“ įvaizdžio.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    K. W. Kielisińskio rekonstrukcija, 1841 m.
-    radikalios – intensyviai kurdamas katalikiškų institucijų tinklą, valdovas
-    atsigręžė ir į stačiatikybę. 1415 m. Naugarduke sušaukęs LDK stačiatikių
-    vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
-    paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-
-    blaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
-    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
-    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o
-    G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
-    bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
-    idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
-    - t-005
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-48357
@@ -140,8 +105,7 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45611
-    - t-45609
-    - t-45612
     - t-45608
+    - t-45609
     - t-45610
+    - t-45612

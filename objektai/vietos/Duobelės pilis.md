@@ -35,25 +35,6 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
   teiginys: "Lietuviai puolė Livonijos magistro valdytą Duobelės pilį, sudegino papilį ir nusiaubė apylinkes."
   pagrindžia:
     - c-45085
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuviai puolė Livonijos magistro valdytą Duobelės pilį, sudegino papilį ir nusiaubė apylinkes.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi:
-    „atėjo vokiečiai prie Vilniaus miesto prieš Vytautą, ir buvo tarp jų
-    didelis mūšis ir nugalėjo Lietuva“. Kai Livonijos magistras buvo
-    prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino
-    papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių
-    tuo metu kontroliuojamos Viznos apylinkes prie Narevo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

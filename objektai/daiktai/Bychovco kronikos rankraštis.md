@@ -10,14 +10,14 @@ datos:
   - '1831 m.'
 date_start: '1440'
 date_end: '1831'
+amziai:
+  - 'XV'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rankraštis
   - daiktas
-amziai:
-  - 'XV'
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -75,31 +75,22 @@ Nenurodyta
   pagrindžia:
     - c-169991
 
-<a id="claim-t-186809"></a>
-- t-003
-  global_id: t-186809
-  teiginys: "Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo."
-  pagrindžia:
-    - c-169994
-
 <a id="claim-t-186810"></a>
-- t-004
+- t-003
   global_id: t-186810
   teiginys: "Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis."
   pagrindžia:
     - c-169993
 
 <a id="claim-t-186811"></a>
-- t-005
+- t-004
   global_id: t-186811
   teiginys: "Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus."
   pagrindžia:
     - c-169992
 - susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
-- susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-186920|nuorašas]]: Rastasis Bychovco kronikos rankraštis apibūdinamas kaip vėlesnis nuorašas iš blogai išlikusios kopijos.
-- susijęs iš [[objektai/zodynas/transkripcija.md#claim-t-186924|transkripcija]]: Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.
+- susijęs iš [[objektai/zodynas/transkripcija.md#claim-t-200401|transkripcija]]: Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Bychovco kronikos rankraštį prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptiko Ipolitas Klimaševskis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -179,29 +170,6 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-005
-  santrauka: 'Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 1  Po šio žodžio BK rankraštyje buvo spraga, kurią T. Narbutas
-    pažymėjo daugtaškiu. M. Strijkovskis savo kronikoje (1766 m. lei­
-    dimas, p. 2391 tęsia pasakojimą tokiu sakiniu: „Tuo pat metu mirė
-    Kukovaitis, 2ivinbudo iš Kentauro herbo giminės sūnus. Užnerto
-    Lietuvos valdovas". Lietuvos metraščių PS toje pačioje vietoje apie
-    Kukovaičio mirt) nekalbama, o  vietoj spragos, buvusios BK rank­
-    raštyje, yra pasakojimas apie Kukovaičio motinos Pajautos mirti-
-    Užpildydami spragą, dedame tos vietos vertim ą iš PS antrosios re­
-    dakcijos Račinskių nuorašo (PSRL, t. 17, p. 302—304), kadangi ligi
-    spragos BK tekstas beveik pažodžiui sutampa su PS antrosios re­
-    dakcijos nuorašų tekstais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-169990
@@ -218,8 +186,8 @@ Nenurodyta
     Žygimanto Kęstutaičio nužudymą 1440 m. Trumpoje
     pratarmėlėje apie rankraščio radimą Aleksandro By­
     chovco bibliotekoje I. Klimaševskis pirmasis šią kroni­
-    ką įvertino,4  *
-    *  O  šmierci x Zygm unta Kiejsiutowlcza.
+    ką įvertino,4 *
+    * O šmierci x Zygmunta Kiejsiutowlcza.
   citata_rodoma: "Bychovco kronikos rankraštį prieš 1830 m. Alek­\nsandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­\nniaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl \ndalyvavimo 1831 m. sukilime turėdamas emigruoti į už­\nsienį, jis tespėjo paskelbti dramatiškiausią Bychovco \nkronikos fragmentą — pasakojimą apie Vytauto brolio \nŽygimanto Kęstutaičio nužudymą 1440 m. Trumpoje \npratarmėlėje apie rankraščio radimą Aleksandro By­\nchovco bibliotekoje I. Klimaševskis pirmasis šią kroni­\nką įvertino"
   statusas: verified
   teiginio_tipas: faktas
@@ -233,10 +201,14 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    *  Nuo šio žodžio BK rankraštyje buvo spraga. T. Narbuto pa­
-    žymėta daugtaškiu. Mūsų vertim e spraga užpildoma tekstu, paimtu
-    iš Lietuvos metraščių PS Račinskio nuorašo. (PSRL. t. XVII,
-    p. 3 0 4 - 305).
+    Haličo-Volynės kunig.
+    Danieliaus Romanovičiaus
+    žygį prieš jotvingius, kurio metu jis, jodamas per ežerą, pamatęs
+    pakrantėje gražų kalną ir ant jo pilį Raigardą (PSRL. II. p 828).
+    18 Rusų
+    kronika — veikiausiai,
+    Volynės metraštis. įėjęs i IM
+    sudėtį.
   citata_rodoma: "Nuo šio žodžio BK rankraštyje buvo spraga. T. Narbuto pa­\nžymėta daugtaškiu. Mūsų vertim e spraga užpildoma tekstu, paimtu \niš Lietuvos metraščių PS Račinskio nuorašo. (PSRL. t. XVII, \np. 3 0 4 - 305)."
   statusas: verified
   teiginio_tipas: faktas
@@ -248,14 +220,17 @@ Nenurodyta
 - id: c-169992
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 9"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 9."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    T. Narbuto prašomas, rankraščio savininkas Alek­
-    sandras Bychovcas perdavė jį istoriko pažįstamam tei­
-    sėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­
-    siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
-    paviete, Nočios parapijoje.
+    Aš ją paėmiau savojo veikalo pa­
+    grindu kaip vienintelį Lietuvos istorijos liudininką at­
+    remti priekaištams, daromiems Strijkovskiui"7.
+    Baigdamas „Lietuvos istoriją", T. Narbutas nuo
+    1838 m. pradėjo rūpintis Bychovco kronikos išspaus­
+    dinimu. 1844.11.23 jis išsiuntė rankraštį į Vilnių savo
+    artimiausiam bičiuliui gydytojui A. Renjerui, prašyda­
+    mas perduoti jį giminaičiui V. Narbutui *, kuris vėliau
+    tvarkė spausdinimo reikalus ir skaitė korektūras.
   citata_rodoma: "T. Narbuto prašomas, rankraščio savininkas Alek­\nsandras Bychovcas perdavė jį istoriko pažįstamam tei­\nsėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­\nsiuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos \npaviete, Nočios parapijoje."
   statusas: verified
   teiginio_tipas: faktas
@@ -275,7 +250,7 @@ Nenurodyta
     ki przettumaczona", nors iš tikrųjų rankraštis buvo ne
     vertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­
     čio, kirilica rašyto teksto transkripcija lotyniškai len­
-    kiškais rašmenimis. Rankraščio pradžioje (1 . 1 —8) teks­
+    kiškais rašmenimis. Rankraščio pradžioje (1. 1—8) teks­
     to paraštėse būta tos pačios rašysenos trumpų pastabų
     apie turinį lenkų kalba, bet ar jų jau būta toje kopi­
     joje, iš kurios transkribuotas rastasis lankraštis, ar jos
@@ -287,30 +262,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186810
-
-- id: c-169994
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    1 1  Po šio žodžio BK rankraštyje buvo spraga, kurią T. Narbutas
-    pažymėjo daugtaškiu. M. Strijkovskis savo kronikoje (1766 m. lei­
-    dimas, p. 2391 tęsia pasakojimą tokiu sakiniu: „Tuo pat metu mirė
-    Kukovaitis, 2ivinbudo iš Kentauro herbo giminės sūnus. Užnerto
-    Lietuvos valdovas". Lietuvos metraščių PS toje pačioje vietoje apie
-    Kukovaičio mirt) nekalbama, o  vietoj spragos, buvusios BK rank­
-    raštyje, yra pasakojimas apie Kukovaičio motinos Pajautos mirti-
-    Užpildydami spragą, dedame tos vietos vertim ą iš PS antrosios re­
-    dakcijos Račinskių nuorašo (PSRL, t. 17, p. 302—304), kadangi ligi
-    spragos BK tekstas beveik pažodžiui sutampa su PS antrosios re­
-    dakcijos nuorašų tekstais.
-  citata_rodoma: "Po šio žodžio BK rankraštyje buvo spraga, kurią T. Narbutas \npažymėjo daugtaškiu. M. Strijkovskis savo kronikoje (1766 m. lei­\ndimas, p. 2391 tęsia pasakojimą tokiu sakiniu: „Tuo pat metu mirė \nKukovaitis, 2ivinbudo iš Kentauro herbo giminės sūnus. Užnerto \nLietuvos valdovas\". Lietuvos metraščių PS toje pačioje vietoje apie \nKukovaičio mirt) nekalbama, o  vietoj spragos, buvusios BK rank­\nraštyje, yra pasakojimas apie Kukovaičio motinos Pajautos mirti- \nUžpildydami spragą, dedame tos vietos vertim ą iš PS antrosios re­\ndakcijos Račinskių nuorašo (PSRL, t. 17, p. 302—304), kadangi ligi \nspragos BK tekstas beveik pažodžiui sutampa su PS antrosios re­\ndakcijos nuorašų tekstais."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186809
 
 ## Ryšiai
 - Bychovco kronikos rankraštis priklausė [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]

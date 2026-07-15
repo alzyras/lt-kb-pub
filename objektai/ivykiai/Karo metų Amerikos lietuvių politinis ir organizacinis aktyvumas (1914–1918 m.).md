@@ -53,25 +53,6 @@ Nenurodyta
   teiginys: "1916 m. Brukline katalikų ir tautininkų organizacijų atstovai svarstė karo sunaikintos Lietuvos kūrimo reikalus."
   pagrindžia:
     - c-66796
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1916 m. Brukline katalikų ir tautininkų organizacijų atstovai svarstė karo sunaikintos Lietuvos kūrimo reikalus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo reikalu dar 1916 m. Brukline
-    įvyko katalikų ir tautininkų organizacijų atstovų suvažiavimas
-    karo sunaikintos Lietuvos kūrimo reikalams apsvarstyti. Jis
-    įsteigė Lietuvos Atstatymo Bendrovę; ta bendro-
-    vė ėmėsi organizuoti įvairių šakų bendroves, kurios po karo
-    turėjo persikelti į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -11,13 +11,13 @@ datos:
   - '1274 m.'
 date_start: '1253'
 date_end: '1274'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - žemė
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -143,6 +143,13 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   teiginys: "Narbutas Nadruvą apibūdina kaip beveik ežerų neturėjusią, bet miškų turtingą prūsų provinciją."
   pagrindžia:
     - c-175471
+
+<a id="claim-t-197899"></a>
+- t-016
+  global_id: t-197899
+  teiginys: "Nadruva Devinta prūsų provincija buvo Nadruva, kuri šiau rėje ribojosi su Sūduva, galbūt per Pisos upę."
+  pagrindžia:
+    - c-179387
 - susijęs iš Katavos valsčius: Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58810|fogtas]]: Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.
 - susijęs iš Naujosios Prūsijos žemės kronika: 1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą.
@@ -231,65 +238,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - susijęs iš [[objektai/autoriai/Motiejus Pretorijus.md#claim-t-190762|Motiejus Pretorijus]]: Pretorijus teigė, kad Sasavos tvirtovė buvo prie Šyšos upės, kuri anksčiau turėjusi vadintis Cyse arba Sussa.
 - susijęs iš Auktuolyčiai: Brolis Ditrichas Nadruvos Katavos valsčiuje su kariuomene puolė Auktuolyčių pilį ir po kelių antpuolių į ją įsiveržė.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie karą su skalviais. Apie įvykius prieš šį karą
-
-       Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,
-    įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne
-    kurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima
-    pasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.
-
-
-
-
-
-      464  D. čia pats sau prieštarauja.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    33.
-    1253—1259 m. Mindaugo dokumentai, kad  ir kaip juos vertintume, liudija, kad tuo
-    metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje
-    plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr. 252, 286, 342; PUB, 1,
-    2, Nr. 39, 79; LIŠ, 1, p. 46—47).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-    - t-010
-
-- c-003
-  santrauka: 'Žynys įsikūrė Nadruvos teritorijoje, kad būtų išlaikyta politinė pusiausvyra tarp genčių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
-    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
-    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
-    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
-    muvoje pagrindinis kulto objektas buvo ugnis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 - c-004
   santrauka: 'Petro Dusburgiečio kronikoje Nadruva minima kaip viena iš vienuolikos Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -310,36 +258,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   pagrindžia:
     - t-013
 
-- c-005
-  santrauka: '1274 m. Ordino magistras ir broliai nukreipė ginklus prieš nadruvius, o daug kilmingų Nadruvos vyrų priėmė krikštą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
-
-      1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
-    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
-    kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
-    paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
-    ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
-    Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui
-    bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
-    visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
-    tarnauti gyvajam dievui Jėzui Kristui.
-
-
-
-
-          176 (171).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-009
-    - t-004
-
 - c-006
   santrauka: 'Istoriografijoje formavosi nuomonė, kad Nadruva, Skalva ir Semba buvo Žemaitijos dalys arba lietuvių kalbos dialektų sritys.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -359,60 +277,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-
-- c-007
-  santrauka: 'Nadruvoje buvusi Romuva ir jos krivis šaltinyje laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai-
-    gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
-    institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
-    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
-    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Nadruva plytėjo į rytus ir pietryčius nuo Sembos, iki Šešupės vidupio, Vištyčio ežero ir Geldapės upės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Teritorija —   į rytus  ir
-    pietryčius nuo Sembos, iki Šešupės vidupio ir Vištyčio ežero bei Geldapės upės rytuose ir
-    pietryčiuose. Žemė aprėpė Priegliaus aukštupio, Įsruties, Vangrapės (rašyta — Unguriškė,
-    Ungurupė), Romintės (Romintos), Pisos baseinus (didelė teritorija, kurios centre Įsrutis,
-    dab. Černiachovskas, ir Gumbinė, dab. Gusevas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-009
-  santrauka: 'Magistras Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, kur Retavos valsčius buvo nusiaubtas plėšiant ir deginant.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
-
-       Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą
-    bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai
-    susilpninta, pasiuntė brolį Ditrichą, sembų žemės fogtą459, su kariuomene  į Nadruvą.
-    Šie, įsiveržę į Retavos valsčių460, jį nusiaubė, piešdami bei degindami, o paskui, patraukę
-
-      456 Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
 
 - c-010
   santrauka: 'Nadruva Narbuto aprašyme yra devintoji prūsų provincija, šiaurėje galbūt per Pisos upę ribojusis su Sūduva.'
@@ -461,21 +325,14 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74485
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 152"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 152."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie karą su skalviais. Apie įvykius prieš šį karą
-
-       Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,
+    Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,
     įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne
     kurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima
     pasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.
-
-
-
-
-
-      464  D. čia pats sau prieštarauja.
+    464  D. čia pats sau prieštarauja.
   citata_rodoma: "Apie įvykius prieš šį karą\n\n   Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,\nįsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne\nkurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima\npasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.\n\n\n\n\n\n  464  D."
   statusas: verified
   teiginio_tipas: faktas
@@ -488,12 +345,11 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74486
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 11"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     33.
-    1253—1259 m. Mindaugo dokumentai, kad  ir kaip juos vertintume, liudija, kad tuo
-    metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje
+    1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo
+    metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva  tarptautinėje
     plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr. 252, 286, 342; PUB, 1,
     2, Nr. 39, 79; LIŠ, 1, p. 46—47).
   statusas: verified
@@ -501,8 +357,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77028
     - t-77026
+    - t-77028
 
 - id: c-74487
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -524,13 +380,13 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74488
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Prūsai ir Lietuva
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
     vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
@@ -546,13 +402,11 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74490
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
-
-      1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
-    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
+    1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
+    varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus,
     kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
     paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
     ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
@@ -560,34 +414,32 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
     visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
     tarnauti gyvajam dievui Jėzui Kristui.
-
-
-
-
-          176 (171).
+    176 (171).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77019
-    - t-77025
     - t-77020
+    - t-77025
 
 - id: c-74491
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 8"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei
-    ankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva
-    bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;
-    vakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4. P. Pakarklis plėtojo
-    mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą
-    buv. Rytprūsių ir Lietuvos gyventojai buvę vienos ir tos pačios kalbos, vienu ir tuo pačiu
-    vardu vadinami savo kaimynų, išpažinę vieną  ir tą pačią tikybą (dvasinės kultūros
+    Rytprūsių ir Lietuvos gyventojai buvę vienos ir tos pačios kalbos, vienu ir tuo pačiu
+    vardu vadinami savo kaimynų, išpažinę vieną ir tą pačią tikybą (dvasinės kultūros
     bendrumo požymis), sudarę vieną ir tą patį politinį vienetą5.
+    Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
+    J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
+    lietuvių lingvistai, ypač tarybiniu laikotarpiu6. Ilgainiui pavyko nustatyti prūsų kalbos
+    vietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių
+    kalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu
+    lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
+    už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
+    rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
   citata_rodoma: "Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei\nankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva\nbei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;\nvakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4."
   statusas: verified
   teiginio_tipas: faktas
@@ -616,10 +468,9 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74494
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 60"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 60."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Teritorija —   į rytus  ir
+    Teritorija — į rytus ir
     pietryčius nuo Sembos, iki Šešupės vidupio ir Vištyčio ežero bei Geldapės upės rytuose ir
     pietryčiuose. Žemė aprėpė Priegliaus aukštupio, Įsruties, Vangrapės (rašyta — Unguriškė,
     Ungurupė), Romintės (Romintos), Pisos baseinus (didelė teritorija, kurios centre Įsrutis,
@@ -634,8 +485,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
 
@@ -655,9 +505,12 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-175470
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 364"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 364."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Pietinėje Sūduvos dalyje buvo daug ežerų ir pelkių,
+    o šiaurinėje — neišbrendamų miškų; gausūs gyventojai
+    čia rasdavo viską, ko reikėjo pragyvenimui, be medžiok­
+    lės ir žūklės, jie vertėsi žemdirbyste ir gyvulininkyste.
     Nadruva
     Devinta prūsų provincija buvo Nadruva, kuri šiau­
     rėje ribojosi su Sūduva, galbūt per Pisos upę. Kiek to­
@@ -668,6 +521,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     anuomet nebuvo visiškai tikslios sienos dėl tarp jų ply-
     tėjusių dykrų; iš šiaurės sienos buvo tikresnės ir geriau
     nustatytos.
+  citata_rodoma: "Nadruva\nDevinta prūsų provincija buvo Nadruva, kuri šiau­\nrėje ribojosi su Sūduva, galbūt per Pisos upę. Kiek to­\nliau į vakarus buvo Barta, o pietuose — provincija, kurią\nskyrė Prieglius ir Angerapė. Tačiau vėlesniais laikais ap­\ntinkama, jog Nadruvos valdos tęsėsi net iki Nordenburgo.\nRytuose Nadruva ribojosi su Lietuva ir Žemaitija, bet\nanuomet nebuvo visiškai tikslios sienos dėl tarp jų ply-\ntėjusių dykrų; iš šiaurės sienos buvo tikresnės ir geriau\nnustatytos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -678,10 +532,14 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-175471
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 365"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 365."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tvirtovių val­
+    Padavimas skelbia, jog kažkada čia gyve­
+    no Nadruvą valdęs kunigaikštis Kamisviškis; be to, šis
+    kalnas su atkastais jame radiniais, kuriuos sudaro dal-
+    giakirviai, žiedai, monetos, karūnos ir t. t., taip pat su
+    pilkapiais, arba kurhanais, dar ir šiandien 15 pėdų gylio
+    grioviais, yra šių žemių senovės paminklas. Tvirtovių val­
     dovai buvo įtakingi krašto žmonės, nes ir čia aukštes­
     nioji klasė valdė žemesniąją. Dėl vietovės savitumo Nad-
     ruva nuo kitų provincijų skyrėsi tuo, kad ji beveik netu­
@@ -689,12 +547,35 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     didelėje girioje,i žinomoje Graudenu pavadinimu ir nusi­
     driekusioje per visą šios provincijos rytinę dalį, buvo dau­
     gybė įvairiausių laukinių žvėrių.
+  citata_rodoma: "Tvirtovių val­\ndovai buvo įtakingi krašto žmonės, nes ir čia aukštes­\nnioji klasė valdė žemesniąją. Dėl vietovės savitumo Nad-\nruva nuo kitų provincijų skyrėsi tuo, kad ji beveik netu­\nrėjo jokių ežerų, tačiau ji buvo turtinga miškų. Gana\ndidelėje girioje,i žinomoje Graudenu pavadinimu ir nusi­\ndriekusioje per visą šios provincijos rytinę dalį, buvo dau­\ngybė įvairiausių laukinių žvėrių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192701
+
+- id: c-179387
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Pietinėje Sūduvos dalyje buvo daug ežerų ir pelkių,
+    o šiaurinėje — neišbrendamų miškų; gausūs gyventojai
+    čia rasdavo viską, ko reikėjo pragyvenimui, be medžiok­
+    lės ir žūklės, jie vertėsi žemdirbyste ir gyvulininkyste.
+    Nadruva
+    Devinta prūsų provincija buvo Nadruva, kuri šiau­
+    rėje ribojosi su Sūduva, galbūt per Pisos upę. Kiek to­
+    liau į vakarus buvo Barta, o pietuose — provincija, kurią
+    skyrė Prieglius ir Angerapė. Tačiau vėlesniais laikais ap­
+    tinkama, jog Nadruvos valdos tęsėsi net iki Nordenburgo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197899
 
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

@@ -35,24 +35,6 @@ Ochmańskio raštai, P. Ochmański, J.
   teiginys: "J. Ochmańskio raštai rodė, kad po Antrojo pasaulinio karo jaunoji lenkų istorikų karta į Lietuvos praeitį žvelgė objektyviau."
   pagrindžia:
     - c-32975
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Beveik
-    tą patį galima pasakyti ir apie reformacijos tyrinėtoją St. Kotą.
-    Po II pasaulinio karo dar labiau jaunoji lenkų istorikų generacija
-    ėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip
-    rodo gausus J. Ochmańskio raštai, P. Lossowskio ir
-    kitų darbai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

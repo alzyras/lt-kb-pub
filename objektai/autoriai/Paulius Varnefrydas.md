@@ -35,35 +35,13 @@ Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad p
   teiginys: "Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad pas herulus matęs žaliuojančius linų laukus ."
   pagrindžia:
     - c-177241
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad pas herulus matęs žaliuojančius linų laukus .'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kur tik buvo tos giminės žmonių, ten ma­
-    tyta juos plačiai auginant linus. Paulius Varnefrydas, diako­
-    nas, rašantis apie langobardų praeitį, sako, kad pas herulus
-    matęs žaliuojančius linų laukus . Dar reikia turėti galvoje, kad
-    tuo metu, kai pietų europiečiai visiškai nenaudojo lininių au­
-    dinių drabužiams, lietuvės nuo kojų iki galvos puošėsi gražiais
-    drobiniais baltais ir dažytais rūbais, o vasarmečiu -  ir vyrai,
-    kaip liudija Petras Dusburgietis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177241
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kur tik buvo tos giminės žmonių, ten ma­
     tyta juos plačiai auginant linus. Paulius Varnefrydas, diako­
@@ -71,7 +49,7 @@ Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad p
     matęs žaliuojančius linų laukus . Dar reikia turėti galvoje, kad
     tuo metu, kai pietų europiečiai visiškai nenaudojo lininių au­
     dinių drabužiams, lietuvės nuo kojų iki galvos puošėsi gražiais
-    drobiniais baltais ir dažytais rūbais, o vasarmečiu -  ir vyrai,
+    drobiniais baltais ir dažytais rūbais, o vasarmečiu - ir vyrai,
     kaip liudija Petras Dusburgietis.
   statusas: verified
   teiginio_tipas: faktas

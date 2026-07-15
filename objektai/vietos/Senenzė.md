@@ -45,7 +45,6 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
 - susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66894|Senenzės pilies apgula ir Divano žūtis]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.
 - susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66895|Senenzės pilies apgula ir Divano žūtis]]: Bartų puolimas prieš Senenzės pilį įvyko apie 1272 m.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Senenzė, vėliau vadinta Schönsee, atitinka dabartinę Kowalewo Pomorskie gyvenvietę Kulmo žemėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -58,36 +57,15 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Bartų vadas Divanas su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    165 (160). Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
-
-      Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
-    prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
-    jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
-    pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
-    tikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-64338
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     165 (160). Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
-
-      Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
+    Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
     prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
     jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
     pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,

@@ -38,7 +38,6 @@ Narbutas nurodo, kad Reinchardas, remdamasis Foigtu, Stavaniją laikė buvusia �
 - susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190888|Johanas Foigtas]]: Pasak Narbuto, Reinchardo teiginys apie Stavaniją rėmėsi Johanu Foigtu ir vietovardžiais Stabinas bei Staviškės.
 - susijęs iš [[objektai/autoriai/J. Voigtas Foigtas.md#claim-t-191553|J. Voigtas Foigtas]]: Narbutas pašaipiai perteikė Reinchardo, paremto Foigtu, teiginį, kad Stavanija buvo į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas nurodo, kad Reinchardas, remdamasis Foigtu, Stavaniją laikė buvusia į pietus nuo Galindos ir Sūduvos bei priklausiusia Lenkijai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -63,16 +62,18 @@ Narbutas nurodo, kad Reinchardas, remdamasis Foigtu, Stavaniją laikė buvusia �
 - id: c-174340
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 273."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau vokiečių senovės tyrinėtojai prira­
-    šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti
-    visiškai nereikšmingi. Naujausias yra Reinchardo teigi­
+    Naujausias yra Reinchardo teigi­
     mas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi
     į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,
     nes ten yra vietovardžių Stabinas, Staviškės. Tai bent
-    etimologinių išvadų pagrindas!
+    etimologinių išvadų pagrindas! Sztaba (liejinys), Staw
+    (tvenkinys) nors ir labai panašiai skamba, tačiau tai
+    lenkiški žodžiai, ir, jei gerbiamieji istorikai būtų tai su­
+    vokę, jiems, be abejo, nereikėtų vargti ieškant lietuviams
+    vietos svetimoje žemėje, kur jie niekados negyveno.
+  citata_rodoma: "Tačiau vokiečių senovės tyrinėtojai prira­\nšė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti\nvisiškai nereikšmingi. Naujausias yra Reinchardo teigi­\nmas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi\nį pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,\nnes ten yra vietovardžių Stabinas, Staviškės. Tai bent\netimologinių išvadų pagrindas!"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

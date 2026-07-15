@@ -69,45 +69,6 @@ Nenurodyta
   teiginys: "Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių metų Seimo nulemtomis permainomis."
   pagrindžia:
     - c-75207
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Laurynas Gucevičius 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pats gyvenimas padėjo klasicizmui tapti svarbiausiu Vilniaus
-    pastatų stiliumi. Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Lau-
-    rynas Gucevičius (1753–1798) 1782  m. pradėjo Vilniaus katedros, o
-    1786 m. – Vilniaus rotušės rekonstrukciją. Ir nors priekiniam katedros
-    fasadui dar buvo kuriami paskutiniai baroko kūriniai – skulptūros ir tim-
-    panas, 1786 m. jau stovėjo portalo kolonada – Lietuvos klasicizmo sim-
-    bolis. O 1792 m. buvo baigtos Lietuvos globėjo šv. Kazimiero, Lenkijos
-    globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių metų Seimo nulemtomis permainomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių
-    meto seimo nulemtomis permainomis. Ginti Gegužės trečiosios kons-
-    titucijos stos ir pats L. Gucevičius, T. Kosciuškos sukilimo metu tapęs
-    Vilniaus gvardijos vadu. L. Gucevičius savo gyvenimu suvienijo ne tik
-    Apšvietos ir klasicizmo idėjas – Lietuvos istorijoje jis vienas ryškiausių
-    menininkų, savo likimą susaisčiusių su krašto likimu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

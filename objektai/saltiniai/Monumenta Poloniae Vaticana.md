@@ -44,26 +44,6 @@ Kai Lenkų Liaudies respublikoje istorijos mokslas buvo perorganizuotas, nutruko
   teiginys: "„Monumenta Poloniae Vaticana“ leidimas nutrūko 1950 m., kai Lenkų Liaudies Respublikoje buvo perorganizuotas istorijos mokslas."
   pagrindžia:
     - c-33664
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet ir šaltinių edicijos, api­
-    mančios XVI amžių, kuris lenkų daugiausia tyrinėtas, pasilieka su
-    didelimis spragomis. Kai Lenkų Liaudies respublikoje istorijos
-    mokslas buvo perorganizuotas, nutruko (1950), žinoma, Monumenta
-    Poloniae Vaticana (viso yra išėję 7 tomai) leidimas. Su pirmuoju
-    dokumentų tomu, kuris apima iki 1507 m. taip svarbią Vilniaus
-    vyskupijos istoriją (CDV), 1948 m. sustojo taip pat ir tolimesnis
-    to kodekso leidimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

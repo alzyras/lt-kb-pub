@@ -34,28 +34,6 @@ media_all_json: |-
   teiginys: "Albertas Vijūkas Kojalavičius parašė dviejų tomų veikalą „Historiae Lituanae“, išgarsinusį jį kaip žymų Lietuvos istoriką."
   pagrindžia:
     - c-33577
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Albertas Vijūkas Kojalavičius parašė dviejų tomų veikalą „Historiae Lituanae“, išgarsinusį jį kaip žymų Lietuvos istoriką.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Stryjkovskio Kroniką aukštai vertino ir jėzuitas Albertas Vijū­
-    kas Kojalavičius. Šis iš Kauno kilęs gausių religinių-pasto­
-    racinių, asketinių, poleminių ir filosofinių raštų autorius, Lietuvos
-    heraldikas, Vilniaus Akademijos profesorius, vėlesnėse kartose
-    išryškėjo su savo dviejų tomų « Historiae Lituanae » kaip žymus
-    Lietuvos istorikas.
-    Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų
-    kalba vis daugiau praplito Lietuvos kilmingųjų sluoksniuose, Koja­
-    lavičius parašė savo Historiae Lituanae.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

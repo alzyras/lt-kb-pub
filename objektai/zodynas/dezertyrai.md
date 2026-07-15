@@ -50,47 +50,6 @@ Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl 
   teiginys: "Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės ir buvo oficialiai ieškomi kaip dezertyrai."
   pagrindžia:
     - c-166806
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl jie įtraukti į oficialiai ieškomų „dezertyrų“ kategoriją, tūkstančiai jų įsijungė į lietuvių partizanų, kovojusių prieš sovietus, gretas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pradėjęs mobilizaciją į SSRS kariuomenę, sovietų režimas nustebo,
-    kad lietuviai vengia tarnybos Raudonojoje armijoje, mat Lietuvos gyven-
-    tojai laikė savo šalį okupuota, kurioje SSRS negalėjo vykdyti vyrų mobi-
-    lizacijos į Raudonąją armiją ir pažeisti tarptautinę teisę (1907 m. priimtą
-    Hagos konvenciją). Daugiausia gaudynėmis, teroru SSRS NKVD vidaus
-    kariuomenė ir pasienio kariuomenė 1944 m. rudenį–1945 m. kovai su
-    Vokietija (vėliau Japonija) į sovietų kariuomenę mobilizavo 108  000
-    Antrojo pasaulinio karo epizodas  Vilniuje,
-    1944 m. liepą
-
-    L I E T U V O S  I S T O R I J A
-    208
-    Lietuvos
-    vyrų.
-    Tūkstančiai
-    lietuvių slapstėsi arba bėgo iš
-    sovietų kariuomenės, todėl
-    jie įtraukti į oficialiai ieškomų
-    „dezertyrų“ kategoriją, tūks-
-    tančiai jų įsijungė į lietuvių
-    partizanų, kovojusių prieš so-
-    vietus, gretas. Mobilizuoti lie-
-    tuviai papildė Raudonosios ar-
-    mijos 16-ąją lietuviškąją šaulių
-    diviziją, skubiai, dėl to menkai
-    apmokyti lietuvių kariai mesti į mūšius Rytprūsiuose, Berlyno šturmą,
-    Kuršo „katilą“, kur tūkstančiai jų žuvo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -131,5 +90,5 @@ Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183412
     - t-22116
+    - t-183412

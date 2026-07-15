@@ -74,52 +74,6 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
 - susijęs iš Viljandis: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
 - susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40108|Frederikas Joachimas Mansfeldas]]: 1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje.
 - susijęs iš [[objektai/grupes/Rygiečiai.md#claim-t-179439|Rygiečiai]]: Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1608 m. rudenį numalšinus rokošą Len-
-    kijos karalystėje, Jonas Karolis Chodke-
-    vičius grįžo į Livoniją ir per trumpą laiką
-    išvadavo Kuoknesę ir Viljandį. 1609 m.
-    kovo mėnesį jis pabandė pulti Daugavgryvą
-    ir taip pralaužti Rygos blokadą, bet pa-
-    pildomais įtvirtinimais sustiprinę senąją
-    tvirtovę, Nilsomo Sternskioldomo vado-
-    dinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patran-
-    Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
-    veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
-
-    Mūšio priešistorė
-
-    1600-1611 metų karas su Švedijos karalyste
-    dėl Livonijos vyko sudėtingomis vidaus po-
-    litinėmis sąlygomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-
-- c-002
-  santrauka: '1609 m. rugsėjo 29 d. užėmus Daugavgryvos tvirtovę buvo galutinai panaikinta Rygos blokada.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Galutinai blokadą pavyko panai-
-    kinti 1609 m. rugsėjo 29 d., užėmus
-    Daugavgryvos tvirtovę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-43373
@@ -150,8 +104,8 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49648
     - t-49646
+    - t-49648
 
 - id: c-43374
   sudarytojas: "Karolis Zikaras"

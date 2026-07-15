@@ -57,6 +57,7 @@ Nenurodyta
   teiginys: "Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei."
   pagrindžia:
     - c-66970
+    - c-166663
 
 <a id="claim-t-183273"></a>
 - t-002
@@ -64,70 +65,6 @@ Nenurodyta
   teiginys: "1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą."
   pagrindžia:
     - c-166662
-
-<a id="claim-t-183274"></a>
-- t-003
-  global_id: t-183274
-  teiginys: "Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei."
-  pagrindžia:
-    - c-166663
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    11 minučių ir įveikę 6 411 km, antrą tuo
-    metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katas-
-    trofą tuometinėje Rytų Prūsijoje. Kaune laukiančią ore pasirodant lėktu-
-    vo kone šimtatūkstantinę minią žmonių gauta žinia pravirkdė. Savo laiške
-    prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei
-    ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
-    liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
-    „Pienocentro“ pastatas Kaune (apie 1938).
-    Architektas V. Landsbergis-Žemkalnis
-
-    L I E T U V O S  I S T O R I J A
-    174
-    lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kaune laukiančią ore pasirodant lėktu-
-    vo kone šimtatūkstantinę minią žmonių gauta žinia pravirkdė. Savo laiške
-    prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei
-    ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu. Didvyriams
-    Kaune pastatytas mauzoliejus (naikintas per nacių okupaciją ir baigtas
-    naikinti sovietmečiu).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -185,5 +122,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183274

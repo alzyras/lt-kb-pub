@@ -42,20 +42,6 @@ Koehler, gener.
   teiginys: "Koehlerio „Entwicklung des Kriegswesens und der Kriegsführung in der Ritterzeit“ antrasis tomas išleistas Breslau 1886 m."
   pagrindžia:
     - c-36186
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Koehler, gener. Entwicklung des Kriegswesens und der
-    Kriegsführung in der Ritterzeit. Bd. II, Breslau, 1886.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -51,8 +51,8 @@ Nenurodyta
   teiginys: "Pasak Narbuto perteikiamo Jucevičiaus pasakojimo, lietuviai burtams naudodavo žalčio taukų žvakes, kurių liepsna esą prišaukdavo žalčių karalių."
   pagrindžia:
     - c-172838
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Narbuto perteikiamo Jucevičiaus pasakojimo, lietuviai burtams naudodavo žalčio taukų žvakes, kurių liepsna esą prišaukdavo žalčių karalių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -76,15 +76,29 @@ Nenurodyta
 - id: c-172838
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 204"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 204."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tačiau tarp jų
-    negalima nepaminėti tų, kuriuos pasakoja kunigas L. A. Jucevi­
-    čius10 1. Lietuviai tam tikriems burtams naudodavo žvakes, paga­
-    mintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal­
-    čių karalius su visa didžiule roplių svita. Burtininkių visuomet į
-    naudą išeidavo šios rūšies fetišų vartojimas.
+    Siauras (Siauras)
+    Driežas. Lasickis, kalbėdamas apie fetišus, pamini tik kai
+    kuriuos vardus, o apie driežą sako, kad prie religinių šliužų
+    kategorijos priklausė juodas keturkojis šliaužiantis padaras,
+    kurį garbino kaip namų dievaitį, labai rūpestingai maitino ir
+    darė su juo įvairius burtus.
+    Dar raiškiau aiškina Gvaninis : „Dar ir šiandien (1610
+    metais) yra tokių, ypač kaimuose ir miesteliuose, kurie garbi­
+    na kažkokius žalčius ir savo kalba vadina juos gyvatėmis, o šie
+    kažkaip turį po pilvu ketvertą kojų - juodų, trumpučių, žiau­
+    nų pavidalo; juos laiko savo namuose tarytum kokius namų
+    dievaičius; šeimininkai, nudirbę savo darbus, tam tikru laiku
+    paduoda jiems aukos vietoj pieno; anie, iššliaužę iš savo lindy­
+    nių arba požeminių urvų ir nužvelgę visus ten esančius, persi-
+    ėmusius tam tikra baime ir stabmeldišku pagarbumu, kelis kar­
+    tus sušnypščia ir pasisuka į pieną; jeigu ta bjaurybė nedaug
+    laka, tai žmonės mano, jog namuose būsiąs koks nors nelai­
+    mingas atsitikimas, nes jų dievukas ant jų pykstąs; jeigu nutin­
+    ka kokia nors nelaimė dėl kokio nors atsitiktinumo arba dėl 12
+    12 Lib.
+  citata_rodoma: "Tačiau tarp jų\nnegalima nepaminėti tų, kuriuos pasakoja kunigas L. A. Jucevi­\nčius10 1. Lietuviai tam tikriems burtams naudodavo žvakes, paga­\nmintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal­\nčių karalius su visa didžiule roplių svita. Burtininkių visuomet į\nnaudą išeidavo šios rūšies fetišų vartojimas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

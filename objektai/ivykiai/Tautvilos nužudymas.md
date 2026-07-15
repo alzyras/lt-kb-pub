@@ -48,40 +48,16 @@ Nenurodyta
 <a id="claim-t-186565"></a>
 - t-001
   global_id: t-186565
-  teiginys: "Lietuvos metraščio pasakojimu, po Mindaugo nužudymo Treniota pasiuntė pasiuntinius į Polocką kviesti Tautvilos dalytis Mindaugo žeme ir turtu."
+  teiginys: 'Lietuvos metraščio pasakojimu, po Mindaugo nužudymo Treniota pasiuntė pasiuntinius į Polocką kviesti Tautvilos dalytis Mindaugo žeme ir turtu.'
   pagrindžia:
     - c-169879
 
 <a id="claim-t-186566"></a>
 - t-002
   global_id: t-186566
-  teiginys: "Lietuvos metraščio pasakojimu, Prakapui išdavus Tautvilos kėslą, Treniota užbėgo Tautvilai už akių, jį nužudė ir liko kunigaikščiauti vienas."
+  teiginys: 'Lietuvos metraščio pasakojimu, Prakapui išdavus Tautvilos kėslą, Treniota užbėgo Tautvilai už akių, jį nužudė ir liko kunigaikščiauti vienas.'
   pagrindžia:
     - c-169879
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O Treniota
-    pradėjo kunigaikščiauti visoje Lietuvos ir Žemaičių že­
-    m ėje^
-    Ir 1 5  Treniota nusiuntė pasiuntinius į Polocką pas
-    savo brolį Tautvilą, tarydamas: „Atvažiuok, brolau, ši-
-    čion, pasidalysime Mindaugo žemę ir turtą." Tajam
-    pas jį atvažiavus, Tautvilą ir ėmė galvoti, kaip Trenio­
-    tą nužudyti, o Treniota tą patį galvojo apie Tautvilą.
-    Tautvilos bajoras, polockietis Prakapas, išdavė jo kės­
-    lą. Treniota užbėgo Tautvilai už akių ir nužudė Taut­
-    vilą 1 6  ir ėmė pats vienas kunigaikščiauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 
@@ -102,10 +78,10 @@ Nenurodyta
     lą. Treniota užbėgo Tautvilai už akių ir nužudė Taut­
     vilą 1 6  ir ėmė pats vienas kunigaikščiauti.
   citata_rodoma: "Ir 1 5  Treniota nusiuntė pasiuntinius į Polocką pas \nsavo brolį Tautvilą, tarydamas: „Atvažiuok, brolau, ši- \nčion, pasidalysime Mindaugo žemę ir turtą.\" Tajam \npas jį atvažiavus, Tautvilą ir ėmė galvoti, kaip Trenio­\ntą nužudyti, o Treniota tą patį galvojo apie Tautvilą. \nTautvilos bajoras, polockietis Prakapas, išdavė jo kės­\nlą. Treniota užbėgo Tautvilai už akių ir nužudė Taut­\nvilą 1 6  ir ėmė pats vienas kunigaikščiauti."
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186565
-    - t-186566
+    - t-001
+    - t-002

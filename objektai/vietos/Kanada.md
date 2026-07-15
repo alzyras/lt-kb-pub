@@ -10,13 +10,13 @@ datos:
   - '1977 m.'
 date_start: '1944'
 date_end: '1977'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - valstybė
   - vieta
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -66,43 +66,6 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 - susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
 - susijęs iš Meksika: Meksika pateikiama kaip ispaniškosios kultūros laidos pavyzdys.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1944 m. sausį A. Smetona žuvo Klivlande per gaisrą. Tad
-    lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi
-    Lietuvos diplomatinė tarnyba (LDT), Lietuvos valstybingumo simbolis, gy-
-    vavusi per visą sovietų okupacijos laikotarpį. Ji siekė išlaikyti Lietuvos vals-
-    tybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prie-
-    vartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.),
-    Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
-    Šveicarijoje, Vatikane.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Kanadą, Didžiąją Britaniją ir Australiją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Baltijos valstybių ir Lenkijos pa-
-    bėgėlių bei tremtinių). Per trejus–ketverius metus į JAV pasisekė atvykti
-    visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
-    30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Narbutas Kanadoje gyvenančių huronų laidotuvių apeigas lygino su aptariamu laidojimo papročių kontekstu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -170,17 +133,18 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mes gi apie tai nieko negalime pasakyti*.
-    362
-
-    ## Puslapis 362
-
-    Huronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­
-    tos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,
-    šeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­
-    sius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad
-    būtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­
-    je; verkia, priekaištauja, kam juos paliko.
+    Žymesnių
+    asmenų kūnus laidodavo ne tik su visais drabužiais, būdingais
+    kiekvienam luomui, bet ir su visu tuo, kuo velionis vertėsi gy­
+    vas būdamas: karys su ginklu, medžiotojas su lanku, amati­
+    ninkas su savo amato įrankiais. Visuomet pagoniškose kapa­
+    vietėse randamas koks nors geležinis daiktas, padėtas prie deši­
+    niojo peties, prie motenį - varinės adatos, akmeniniai verpstukų
+    smagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­
+    kio lygintuvo liekanas, iškastas Obeliuose). Pas vyrus dažnai ras­
+    davo titnagą ugniai skelti arba skiltuvo likučių, taip pat galąstu­
+    vų skiltuvams su skylute, skirta pakabinti ant dirželio.
+  citata_rodoma: "Mes gi apie tai nieko negalime pasakyti*.\n362\n\n## Puslapis 362\n\nHuronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­\ntos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,\nšeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­\nsius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad\nbūtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­\nje; verkia, priekaištauja, kam juos paliko."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

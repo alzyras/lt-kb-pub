@@ -51,20 +51,6 @@ Papildomos aiškios formos neišskirtos.
   teiginys: "Gaspada buvo po kairės angos pusės ir skirta keleiviams, atėjusiems dievų maldyti."
   pagrindžia:
     - c-09678
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    po kairės tos angos buvusi gaspada^773 keleiviams, atėjusiems dievų maldyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

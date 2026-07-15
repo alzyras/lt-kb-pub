@@ -35,8 +35,8 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
   teiginys: "Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr."
   pagrindžia:
     - c-63921
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -69,24 +69,33 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
 - id: c-63921
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 301"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 301."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Diewenns
-    Dirsovija, Dirsovė (Dersowia, Dirsow; Dirschau, dab. Tčevas)
-    Diunamiundė (Dunemunde, Dūnemünde, dab. Veca Daugavgryva)
-    Dyrų sodyba
-    Dnepras, u.
-       padneprė
-    Dobinas
-    Dobre Miasto žr. Gutštatas
-    Dobrynė, ž. kunigaikštystė
-         pilis, miestas
-    Dobrynės broliai (Dobrynės ordinas) žr. Kristaus karių ordinas
-    Domijono šv. ordinas
-    Dona
-    Dorpatas
-    Dortmundas
+    vakariniai lietuviai
+    Liežas (Leodium, Lüttich, Liège)
+    Lindanisė žr. Revelis
+    Lioliai
+    Lionas
+    Lisske
+    Liškiava
+    Liubekas
+    Liuksemburgas
+    Liuneburgas (Vokietijoje)
+    Liutichas žr. Liežas
+    Liva, u.
+    Livonija
+    Livonijos ordinas
+    Ližiai
+    Lypa (Lipa, Lîpe; dab. Lipenekas)
+    Lyviai
+    Lochštetė žr. Laukstetai
+    Lotynai
+
+    Loza
+    Lubava (Lubovia, Lubaw), ž.
+    Lubava (Lubovia; Löbau, dab. Lubawa, Liubava), p., miestas
+    Luka
+    Lukas (Lick, vėliau Lyck, dab.
   citata_rodoma: "Diewenns\nDirsovija, Dirsovė (Dersowia, Dirsow; Dirschau, dab. Tčevas)\nDiunamiundė (Dunemunde, Dūnemünde, dab. Veca Daugavgryva)\nDyrų sodyba\nDnepras, u.\n   padneprė\nDobinas\nDobre Miasto žr. Gutštatas\nDobrynė, ž. kunigaikštystė\n     pilis, miestas\nDobrynės broliai (Dobrynės ordinas) žr. Kristaus karių ordinas\nDomijono šv. ordinas\nDona\nDorpatas\nDortmundas"
   statusas: verified
   teiginio_tipas: faktas

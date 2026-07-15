@@ -64,28 +64,6 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
 - susijęs iš Urugvajus: Urugvajus iki 1977 m. buvo tarp valstybių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį.
 - susijęs iš Vilniaus kraštas: Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.
 - susijęs iš [[objektai/zodynas/bažnytinė provincija.md#claim-t-182937|bažnytinė provincija]]: Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl, užmezgus oficialinius santykius su Vati-
-    kanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lie-
-    tuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuo-
-    tasis Vilniaus kraštas. Tačiau Vatikanas 1925 metais sudarė
-    konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises
-    nepabaigtame ginče su Lenkija. Vyriausybė protestavo prieš
-    tokį Vatikano elgesį, kurio negalima buvo laikyti bešališku, ir
-    dėl to santykiai su Vatikanu nutrūko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-164858

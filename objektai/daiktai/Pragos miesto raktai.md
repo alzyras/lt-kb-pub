@@ -55,25 +55,6 @@ Nenurodyta
   teiginys: "Pragos gyventojai iškilmingai sutiko Kaributą, įteikė jam miesto raktus ir pavedė karo vadovybę."
   pagrindžia:
     - c-38226
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tada čekai Kutnos Hožos seime (1421) ir išrinko
-    Vytautą savo karalium, kuris pasiuntė jiems savo vietininku
-    sūnėną Zigmantą Kaributą su keliolika tūkstančių kareivių.
-    Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
-    to raktus ir pavedė karo vadovybę.
-    Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­
-    tus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

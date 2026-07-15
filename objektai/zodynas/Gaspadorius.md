@@ -55,21 +55,6 @@ Papildomos aiškios formos neišskirtos.
 - susijęs iš [[objektai/paprociai/Kieminė auka Perūnui per audrą.md#claim-t-07785|Kieminė auka Perūnui per audrą]]: Kilus audrai arba grasinant krušai šeimininkas tris kartus apeidavo savo rugius ar varstą su lašinių paltimi ir melsdavo Perūną.
 - susijęs iš [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas.md#claim-t-07800|Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]: Jaunas žemaitis į bažnyčią ar į mugę mieliau joja, negu važiuoja vežimu.
 - susijęs iš Ragainė: Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-09646

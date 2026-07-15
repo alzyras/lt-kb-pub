@@ -25,14 +25,14 @@ media_all_json: |-
 
 ## Santrauka
 
-Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo paskirtas ir pirmuoju Livonijos vyskupu (apie 1180 m.).
+Kojelavičiaus Prūsijos magistru vadinamas Meinhardas apie balandžio vidurį apgulė Kolainius, Lietuvos pilį prie Nemuno. Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius. Įspėtas apie išdavystę, Meinhardas prieš kovos pradžią išvengė pavojaus ir nepatenkintas atitraukė kariuomenę į Prūsiją.
 
 ## Teiginiai
 
 <a id="claim-t-186067"></a>
 - t-001
   global_id: t-186067
-  teiginys: "Prūsijos magistras Meinhardas apie balandžio vidurį apgulė Kolainius, Nemuno pakrantėje buvusią Lietuvos pilį."
+  teiginys: "Kojelavičiaus Prūsijos magistru vadinamas Meinhardas apie balandžio vidurį apgulė Kolainius, Lietuvos pilį prie Nemuno."
   pagrindžia:
     - c-169428
 
@@ -46,162 +46,63 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 <a id="claim-t-186069"></a>
 - t-003
   global_id: t-186069
-  teiginys: "Įspėtas apie išdavystę, Meinhardas išvengė pavojaus ir atitraukė kariuomenę į Prūsiją."
+  teiginys: "Įspėtas apie išdavystę, Meinhardas prieš kovos pradžią išvengė pavojaus ir nepatenkintas atitraukė kariuomenę į Prūsiją."
   pagrindžia:
     - c-169430
 
-<a id="claim-t-193506"></a>
-- t-004
-  global_id: t-193506
-  teiginys: "Pirmiausia ėmėsi kariauti Meinhardas, Prūsijos magistras, apie balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos Nemuno pakrantėje esančią Lietuvos pilį."
-  pagrindžia:
-    - c-169428
-
 <a id="claim-t-193507"></a>
-- t-005
+- t-004
   global_id: t-193507
-  teiginys: "Vėliau su didesne kariauna, kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver žė į Lietuvą pats magistras Meinhardas, žiauriai nu siaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos ugnimi."
+  teiginys: "Meinhardas su didesne kariauna įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius."
   pagrindžia:
     - c-169429
 
 <a id="claim-t-193508"></a>
-- t-006
+- t-005
   global_id: t-193508
   teiginys: "Įspėtas apie išdavys tę, Meinhardas vargais negalais išvengė pavojaus anks čiau, nei prasidėjo kova, ir nepatenkintas atitraukė ka riuomenę į Prūsiją."
   pagrindžia:
     - c-169430
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prūsijos magistras Meinhardas apie balandžio vidurį apgulė Kolainius, Nemuno pakrantėje buvusią Lietuvos pilį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Už žalą, padarytą per šį niokojamą iš­
-    puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
-    kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­
-    są laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu
-    kariaudami, smogė nemažai stiprių smūgių. Pirmiausia
-    ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
-    balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
-    Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
-    tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
-    niokoti, o du tūkstančiai pėstininkų atkakliai puolė
-    apsuptą pilį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-004
-
-- c-002
-  santrauka: 'Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po to jis su savo kariais pasuko kita
-    kryptimi: staiga puolė Medrabą, kurios gynėjai daug
-    kartų buvo nusiaubę netolimas Prūsijos žemes ir pri­
-    darę nemaža nuostolių; ją užėmęs, išvadavo galybę
-    ten kalinamų krikščionių. Vėliau su didesne kariauna,
-    kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­
-    žė į Lietuvą pats magistras Meinhardas, žiauriai nu­
-    siaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos
-    ugnimi. Pasivijęs jį, atsitraukiantį su dideliu grobiu,
-    Jazbutas įniko persekioti už-
-    N u žu d o m a s
-    lie tu v ių
-    pakaimę vorą, kuriai tuomet
-    k u n ig a ik štis J a zb u ta s
-    vadovavo Henrikas Cutsver-
-    tas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-005
-
-- c-003
-  santrauka: 'Įspėtas apie išdavystę, Meinhardas išvengė pavojaus ir atitraukė kariuomenę į Prūsiją.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vytenis, neturėdamas pa­
-    kankamai jėgų priešui at-
-    A tre m ia m i
-    k iy ž iu o -
-    remti atviroje kovoje, grie-
-    čia i, n io k o ja n ty s Lie-
-    besi klastos: išdėstęs patogio-
-    tu v ą
-    se miško vietose karius, jis
-    susitarė su prūsais (kurie,
-    aišku, patys jautė priešiškumą kryžiuočių valdymui,
-    o pakursčius tą neapykantą visokiausiais kaltinimais,
-    netruko išduoti), kad, pradėjus jų pirmiesiems būriams
-    bėgti, šie iš sparnų pultų priešą. Įspėtas apie išdavys­
-    tę, Meinhardas vargais negalais išvengė pavojaus anks­
-    čiau, nei prasidėjo kova, ir nepatenkintas atitraukė ka­
-    riuomenę į Prūsiją. Tais metais nei viena, nei kita šalis
-    nieko daugiau beveik ir nenuveikė: kryžiuočiai būgš­
-    tavo, kad, kariuomenei išvykus iš krašto, prūsai nesu­
-    keltų tuo laiku kokio maišto, o lietuviams rodėsi
-    parankiau laukti, kol Prūsijoje prasidės kokie bruzdė­
-    jimai, nes visai neseniai Vytenis, paminėjęs žodį 1 a i s-
-    v ė, netruko tarp prūsų pasėti jos troškimą bei neapy­
-    kantą krikščioniškosioms apeigoms; ilgainiui šią neapy­
-    kantą dar labiau sukurstė jų gentainių kalbos ir ji
-    pavirto maištingomis nuotaikomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-006
 
 ## Citatos
 
 - id: c-169428
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 161"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 161."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Už žalą, padarytą per šį niokojamą iš­
-    puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
-    kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­
-    są laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu
-    kariaudami, smogė nemažai stiprių smūgių. Pirmiausia
+    Pirmiausia
     ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
     balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
     Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
     tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
     niokoti, o du tūkstančiai pėstininkų atkakliai puolė
-    apsuptą pilį.
+    apsuptą pilį. Gynė ją šimtas dvidešimt raitelių, vado­
+    vaujamų Surmino, ryžtingo ir prityrusio vyro; narsiai
+    ir ilgai pilies įgula atmušinėjo priešų antpuolius, ne­
+    leisdama jiems be nuostolių supti tvirtovės, mat atvi­
+    rame lauke šie buvo nesunkiai sužeidžiami ietimis ir
+    strėlėmis; kadangi įgula buvo nedidelė, o priešas, pul­
+    damas iš visų pusių, nepaliauj amai sekino menkas jė­
+    gas, vos ne vos įstengiančias vienu metu užstoti visą
+    gynybinę sieną, lietuviai patyrė didelių nuostolių; kai
+    vos dvylika jų liko nesužeistų, pilėnams iškilo baisus
+    pavojus, tačiau netikėta priešų klaida pakeitė padėtį,
+    tokią, rodos, beviltišką.
+  citata_rodoma: "Už žalą, padarytą per šį niokojamą iš­\npuolį Sembai, lietuviams buvo atsilyginta kitais ir dar\nkokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­\nsą laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu\nkariaudami, smogė nemažai stiprių smūgių. Pirmiausia\nėmėsi kariauti Meinhardas, Prūsijos magistras, apie\nbalandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos\nNemuno pakrantėje esančią Lietuvos pilį. Penki šim­\ntai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų\nniokoti, o du tūkstančiai pėstininkų atkakliai puolė\napsuptą pilį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186067
-    - t-193506
 
 - id: c-169429
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 164"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 164."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to jis su savo kariais pasuko kita
-    kryptimi: staiga puolė Medrabą, kurios gynėjai daug
-    kartų buvo nusiaubę netolimas Prūsijos žemes ir pri­
-    darę nemaža nuostolių; ją užėmęs, išvadavo galybę
-    ten kalinamų krikščionių. Vėliau su didesne kariauna,
+    Vėliau su didesne kariauna,
     kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­
     žė į Lietuvą pats magistras Meinhardas, žiauriai nu­
     siaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos
@@ -212,7 +113,16 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     pakaimę vorą, kuriai tuomet
     k u n ig a ik štis J a zb u ta s
     vadovavo Henrikas Cutsver-
-    tas.
+    tas. Šį išvydęs, Jazbutas, su
+    įniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų
+    puolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­
+    rikas ietimi persmeigė Jazbutą, kuris, griūdamas že­
+    mėn, nukirto kalaviju puolančiam nugalėtojui pirštą.
+    Susidūrus vadams, įsiliepsnojo mūšis: narsiausi prieki­
+    nio būrio kariai veržėsi ginti užpakalinio, kadangi ir
+    lietuviai, netekę vado, traukėsi, ir kryžiuočiai (kurie,
+    m
+  citata_rodoma: "Vėliau su didesne kariauna, \nkurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­\nžė į Lietuvą pats magistras Meinhardas, žiauriai nu­\nsiaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos \nugnimi. Pasivijęs jį, atsitraukiantį su dideliu grobiu,\nJazbutas įniko persekioti už- \nN u žu d o m a s \nlie tu v ių \npakaimę vorą, kuriai tuomet\nk u n ig a ik štis J a zb u ta s \nvadovavo Henrikas Cutsver-\ntas. Šį išvydęs, Jazbutas, su \nįniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų \npuolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­\nrikas ietimi persmeigė Jazbutą, kuris, griūdamas že­\nmėn, nukirto kalaviju puolančiam nugalėtojui pirštą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -224,8 +134,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 - id: c-169430
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 166"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 166."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vytenis, neturėdamas pa­
     kankamai jėgų priešui at-
@@ -252,7 +161,14 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     v ė, netruko tarp prūsų pasėti jos troškimą bei neapy­
     kantą krikščioniškosioms apeigoms; ilgainiui šią neapy­
     kantą dar labiau sukurstė jų gentainių kalbos ir ji
-    pavirto maištingomis nuotaikomis.
+    pavirto maištingomis nuotaikomis. Todėl Konradas fon
+    Štangė, Ragainės komtūras, pastebėjęs, jog netoliese
+    lietuviai stato Mingedėnų pilį, be to, nieku būdu ne­
+    norėdamas prūsams duoti progos perbėgti į netolimas
+    lietuvių stovyklas, staiga užpuolė, sukilimui dar ne­
+    prasidėjus, sutelktą kariuomenę, išžudė nemaža karių,
+    o kitus išsklaidė.
+  citata_rodoma: "Vytenis, neturėdamas pa­\nkankamai jėgų priešui at-\nA tre m ia m i\nk iy ž iu o -\nremti atviroje kovoje, grie-\nčia i, n io k o ja n ty s Lie-\nbesi klastos: išdėstęs patogio-\ntu v ą\nse miško vietose karius, jis\nsusitarė su prūsais (kurie,\naišku, patys jautė priešiškumą kryžiuočių valdymui,\no pakursčius tą neapykantą visokiausiais kaltinimais,\nnetruko išduoti), kad, pradėjus jų pirmiesiems būriams\nbėgti, šie iš sparnų pultų priešą. Įspėtas apie išdavys­\ntę, Meinhardas vargais negalais išvengė pavojaus anks­\nčiau, nei prasidėjo kova, ir nepatenkintas atitraukė ka­\nriuomenę į Prūsiją. Tais metais nei viena, nei kita šalis\nnieko daugiau beveik ir nenuveikė: kryžiuočiai būgš­\ntavo, kad, kariuomenei išvykus iš krašto, prūsai nesu­\nkeltų tuo laiku kokio maišto, o lietuviams rodėsi\nparankiau laukti, kol Prūsijoje prasidės kokie bruzdė­\njimai, nes visai neseniai Vytenis, paminėjęs žodį 1 a i s-\nv ė, netruko tarp prūsų pasėti jos troškimą bei neapy­\nkantą krikščioniškosioms apeigoms; ilgainiui šią neapy­\nkantą dar labiau sukurstė jų gentainių kalbos ir ji\npavirto maištingomis nuotaikomis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

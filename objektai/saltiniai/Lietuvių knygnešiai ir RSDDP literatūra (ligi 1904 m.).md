@@ -42,27 +42,6 @@ Be to, jis rašė : Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.) (L
   teiginys: "„Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.)“ paskelbtas „Lietuvos istorijos metraštyje“ 1972 m. tome, išleistame 1973 m."
   pagrindžia:
     - c-31686
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.)“ paskelbtas „Lietuvos istorijos metraštyje“ 1972 m. tome, išleistame 1973 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Be to, jis
-    rašė :** **_Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904_** **m.) (Liet. istorijos
-    metraštis 1972 m. (1973), 41-55 p.).**
-
-
-    (^82) ĮVADAS
-    ILKI, « Lietuvos Istorijos Metraštis », be to, kas antri metai leidžia­
-    mi « Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje ».
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -43,27 +43,6 @@ Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­ diną, kurio magis
   teiginys: "Povilas Russdortas buvo išrinktas Vokiečių ordino magistru vietoje atstatyto Küchmeisterio."
   pagrindžia:
     - c-38114
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl kurstė prieš Vytautą po­
-    piežių, abu Ordinus, Hanzos miestus, Vokietijos kunigaikščius,
-    — visus juos kviesdamas į karą su Vytautu, globojančiu hereti­
-    kus^1 ). Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­
-    diną, kurio magistru buvo išrinktas jam palankus Povilas
-    Russdortas, vietoje atstatyto Küchmeisterio, nes Ordinas su
-    Vytautu nuo 1414 m. buvo tik per plauką nuo karo. Popiežiaus
-    pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti,
-    bet neįstengė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

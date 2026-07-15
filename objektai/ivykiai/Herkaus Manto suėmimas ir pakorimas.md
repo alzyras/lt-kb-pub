@@ -7,13 +7,13 @@ datos:
   - '1273 m.'
 date_start: '1273'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - konfliktas
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -64,8 +64,8 @@ Nenurodyta
   teiginys: "Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju."
   pagrindžia:
     - c-63613
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Herkus Mantas žuvo 1273 m. vasarą arba rudenį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -104,11 +104,14 @@ Nenurodyta
 - id: c-63611
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4,
-    p. 108; Jasas R., Didysis.., p. 61).
+    Mat paprastai prisimenama,
+    kas dėjosi, bet kada — atmintyje neišlieka. Dėl to čia rasi daug ką paminėta ir aprašyta
+    užbėgant laikui už akių. Kai varmiai, notangai ir bartai atsimetė 1260 viešpaties metais
+    nuo tikėjimo ir tikinčiųjų, su ginklu rankose jie skersai ir išilgai išnaršė savo žemes,
+    žudydami krikščionis, kiek tik jų kur besurasdami, o moteris bei vaikus varydamiesi į
+    nelaisvę.
   citata_rodoma: "411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4,\np. 108; Jasas R., Didysis.., p. 61)."
   statusas: verified
   teiginio_tipas: faktas
@@ -120,9 +123,9 @@ Nenurodyta
 - id: c-63613
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie Herkaus Manto, notangų vado, žūtį
     Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė
     jokios baimės. Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti
     dėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne

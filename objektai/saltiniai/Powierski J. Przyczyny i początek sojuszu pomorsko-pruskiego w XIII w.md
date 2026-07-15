@@ -40,31 +40,15 @@ Dusburgietis teigia, kad powierski J.
   teiginys: "J. Powierskio straipsnis apie Pamario ir prūsų sąjungos priežastis bei pradžią XIII a. paskelbtas 1969 m. ABS 6 tome."
   pagrindžia:
     - c-61876
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Powierskio straipsnis apie Pamario ir prūsų sąjungos priežastis bei pradžią XIII a. paskelbtas 1969 m. ABS 6 tome.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Powierski  J. Przyczyny   i początek sojuszu pomorsko-pruskiego w XIII w.—ABS,
-    Białystok, 1969, 6, s. 197—211.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61876
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Powierski  J. Przyczyny   i początek sojuszu pomorsko-pruskiego w XIII w.—ABS,
+    Powierski J. Przyczyny i początek sojuszu pomorsko-pruskiego w XIII w.—ABS,
     Białystok, 1969, 6, s. 197—211.
   statusas: verified
   teiginio_tipas: faktas

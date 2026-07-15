@@ -35,31 +35,13 @@ Narbutas nurodo, kad Varmijos vyskupo Anzelmo rašte Lemptenburgas minimas fraz�
   teiginys: "Narbutas nurodo, kad Varmijos vyskupo Anzelmo rašte Lemptenburgas minimas frazėje „Rudolfus in Lemptenburg plebanus“."
   pagrindžia:
     - c-174745
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas nurodo, kad Varmijos vyskupo Anzelmo rašte Lemptenburgas minimas frazėje „Rudolfus in Lemptenburg plebanus“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Viena­
-    me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1. P. 289),
-    neminint liudytojų, taip pat minimas Lemptenburgas, kai
-    rašoma apie Rudolfus in Lemptenburg plebanus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174745
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 347"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Viena­
     me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1. P. 289),

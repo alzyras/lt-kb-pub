@@ -80,45 +80,13 @@ Vartojamas senosios istoriografijos ir rašytojo apie praeitį prasme.
   teiginys: "Narbutas nurodė: Simonas Daukantas „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dziejopis“ aiškino kaip „wejkaluraszytojas“."
   pagrindžia:
     - c-175114
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    si, iš cituoto teksto galima spręsti, jog T. Narbutas la­
-    bai aišikiai atribojo tai, kas šiandien mūsų ausiai skamba
-    visiškai identiškai. Simonas Daukantas vadinamajame
-    „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“
-    aiškino kaip „wejkalaj“, „księga dziejow“ — „kniga wej-
-    kalu“, „dziejopis“ — „wejkaluraszytojas“ ir t. t. Beje,
-    žodį „dziejopis“ („dziejopisarz“) prilygino žodžiui „lato-
-    pisiec“, t. y. „meturaszitojas“1. Taigi, laikantis anuome­
-    tinės terminijos, T. Narbuto LTI turėtų būti vadinama
-    „Lietuvių tautos veikalais“, o pirmieji trys tomai — „Lie­
-    tuvių
-    tautos
-    veikalais
-    senovėje“ — beveik identiškai
-    S. Daukanto tekstui „Pasakojimas apie veikalus lietuvių
-    tautos senovėje“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 
 - id: c-175114
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 440"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 440."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     si, iš cituoto teksto galima spręsti, jog T. Narbutas la­
     bai aišikiai atribojo tai, kas šiandien mūsų ausiai skamba
@@ -142,7 +110,7 @@ Vartojamas senosios istoriografijos ir rašytojo apie praeitį prasme.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192303
     - t-192300
     - t-192301
     - t-192302
+    - t-192303

@@ -50,8 +50,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   teiginys: "Didysis kunigaikštis Erdvilą įsi rengė čionai sostinę ir ėmė vadintis Naugarduko di džiuoju kunigaikščiu I S ."
   pagrindžia:
     - c-176534
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Erdvilas atsisakė mokėti skitams duoklę, paskelbė karą ir jų kunigaikščiui įteikė dvi strėles.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -102,22 +102,23 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - id: c-169362
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 80."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tiesa, kai buvę toliau
-    nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
-    vina kova. Galop nugalėję lietuviai išvijo barbarus iš
-    stovyklos: galybė priešų krito mūšyje, kur kas dau­
-    giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­
-    gėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo
-    D u o k lės p ra ša n tiem s
-    sk ita m s E rd vila s siu n ­
-    čia  d v i strė le s
-    šaukęs pasiuntinius, jis atsi­
-    sakė duoklės, paskelbė karą
-    ir įteikė jų kunigaikščiui do­
-    vaną— dvi strėles.
+    Tuo pat metu miręs Vykin­
+    tas, Žemaitijos kunigaikštis, paliko savo įpėdiniu bro­
+    lį Erdvilą, tačiau šis, manydamas, jog vieno valdovo
+    per maža skirtingoms valstybėms, kaip per maža vie­
+    nos sielos į dvi dalis padalytam kūnui, be to, norėda­
+    mas atsiteisti už pagalbą, kurios neseniai sulaukė, per­
+    leido Živinbudui visas teises į Žemaitiją. Tačiau neilgai
+    trukus jis susirgo ir pasimirė, vyras, kuris pelnytai
+    priskirtinas prie žymiausių Lietuvos didvyrių.
+    Erdvilui mirus, Naugarduko kunigaikštystę valdyti
+    žemių. Polocko rusai savo valstybės valdymą buvo
+    perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
+    permainų priežastis buvo ta, kad per skitų karą buvo
+    netekę teisėtų kunigaikščių.
+  citata_rodoma: "Tiesa, kai buvę toliau\nnuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­\nvina kova. Galop nugalėję lietuviai išvijo barbarus iš\nstovyklos: galybė priešų krito mūšyje, kur kas dau­\ngiau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­\ngėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo\nD u o k lės p ra ša n tiem s\nsk ita m s E rd vila s siu n ­\nčia  d v i strė le s\nšaukęs pasiuntinius, jis atsi­\nsakė duoklės, paskelbė karą\nir įteikė jų kunigaikščiui do­\nvaną— dvi strėles."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -131,13 +132,15 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Didysis kunigaikštis Erdvilą įsi­
-    rengė čionai sostinę ir ėmė vadintis Naugarduko di­
-    džiuoju kunigaikščiu I S .
-    Išžygiavę iš Naugarduko, įkūrė Gardino miestą l6 , ir
-    paskui nužygiavo Į Brastą l7 , ir rado Brastą, ir Drohiči-
-    ną 1 8 , ir Melniką 1 9  Batu nusiaubtus ir sunaikintus2 0 . Jis
-    tuos miestus atstatė ir ėmė juose kunigaikščiauti 2I.
+    Po savo tėvo mirties didysis kunigaikštis Mingaila su­
+    telkė savo kariuomenę ir patraukė prieš Polocko mies­
+    tą 2 ir prieš Polocko vyrus, kurie reikalus sprendė
+    viečėje3, kaip Didysis Naugardas ir Pskovas.
+    Ir visų pirma atžygiavo prie jų miesto, vadinamo
+    Gorodcu4. Polocko vyrai, stoję savo pulkais, pasitiko
+    juos prie Gorodco, ir pradėjo vieni su kitais smarkiai
+    kautis ir kapotis.
+  citata_rodoma: "Didysis kunigaikštis Erdvilą įsi­\nrengė čionai sostinę ir ėmė vadintis Naugarduko di­\ndžiuoju kunigaikščiu I S .\nIšžygiavę iš Naugarduko, įkūrė Gardino miestą l6 , ir \npaskui nužygiavo Į Brastą l7 , ir rado Brastą, ir Drohiči- \nną 1 8 , ir Melniką 1 9  Batu nusiaubtus ir sunaikintus2 0 . Jis \ntuos miestus atstatė ir ėmė juose kunigaikščiauti 2I."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

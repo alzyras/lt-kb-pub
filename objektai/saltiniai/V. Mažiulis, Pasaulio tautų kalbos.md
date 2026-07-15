@@ -34,8 +34,8 @@ Dusburgietis teigia, kad 14 Mažiulis V.
   teiginys: "V. Mažiulio „Pasaulio tautų kalbos“ cituojama nurodant 11–12 puslapius."
   pagrindžia:
     - c-61964
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Mažiulio „Pasaulio tautų kalbos“ cituojama nurodant 11–12 puslapius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -55,11 +55,12 @@ Dusburgietis teigia, kad 14 Mažiulis V.
 - id: c-61964
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 9"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.
-    7; Lietuvininkai.— LTE, t. 6, p. 527— 528; Mažoji Lietuva.— Ten pat, t. 7, p. 338—340.
+    tarmė) turėjusi ypatybių, kurios ją siejusios su prūsų kalba labiau negu su lietuvių20.
+    Taip pagrindiniais bruožais atrodo prūsų, jotvingių ir jų giminaičių lietuvių tarpusavio
+    santykiai kalbos ir kultūros duomenų požiūriu. Nežiūrint kai kurių skirtumų, išryškėja
+    čia kalbos, materialinės ir dvasinės kultūros, socialinės santvarkos bendrybės.
   citata_rodoma: "14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p."
   statusas: verified
   teiginio_tipas: faktas

@@ -35,24 +35,6 @@ ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių.
   teiginys: "Lietuvos kunigaikštis per derybas apie kryžiuočius pareiškė, kad jie siekia ne jo tikėjimo, o žemių, todėl jis pasiliks prie pagonybės."
   pagrindžia:
     - c-31444
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos kunigaikštis per derybas apie kryžiuočius pareiškė, kad jie siekia ne jo tikėjimo, o žemių, todėl jis pasiliks prie pagonybės.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pagal Jono von Winter­
-    thur kroniką^11 , įdomiai papildančią Wartbergę, Lietuvos kunigaikš­
-    tis derybų proga apie kryžiuočius pareiškęs : «... ne mano tikėjimo
-    jie trokšta, kaip jie nuduoda, bet siekia žemių. Todėl pasiliksiu
-    prie pagonybės ».
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

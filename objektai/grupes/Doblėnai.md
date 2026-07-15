@@ -35,35 +35,13 @@ Narbutas spėjo, kad doblėnai gyveno šiaurinėje Mituvos apskrities dalyje ir 
   teiginys: "Narbutas spėjo, kad doblėnai gyveno šiaurinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių."
   pagrindžia:
     - c-175749
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas spėjo, kad doblėnai gyveno šiaurinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Žiloje seno­
-    vėje šis uostas galėjo būti šalies sostinė, iš kurios ir buvo
-    kilęs tautos pavadinimas.
-    Iš akivaizdžių Mituvos apskrities skirtumų nuo kitų ša­
-    lies dalių reikėtų manyti, jog šiaurinėje dalyje gyveno
-    doblėnai, Dobleny, rytinėje — mechotėnai, Mechoteny, vi­
-    durinėje — kuršiai, Kurszovoy, o pietinėje — tervitėnai,
-    Tenvitenny. Iš tikrųjų lai buvo žemgalių gentys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-175749
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 287"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Žiloje seno­
     vėje šis uostas galėjo būti šalies sostinė, iš kurios ir buvo

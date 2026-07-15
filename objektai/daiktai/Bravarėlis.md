@@ -55,8 +55,9 @@ Nenurodyta
   global_id: t-195330
   teiginys: "Bravarėlis minimas kaip degtinės varymo vieta ir įrenginys."
   pagrindžia:
-    - c-177724
     - c-177723
+    - c-177724
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

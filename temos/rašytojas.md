@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 120
+tema_objektu_skaicius: 119
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 120.
+Objektų skaičius: 119.
 
 ## Kaip naudoti
 
@@ -39,7 +39,6 @@ Objektų skaičius: 120.
 - [[objektai/asmenys/Janas Lasickis]]
 - [[objektai/asmenys/Jonas Spudulis]]
 - [[objektai/asmenys/Jordanas]]
-- [[objektai/asmenys/Julijus Cezaris|Julijus Cezaris (vyskupas)]]
 - [[objektai/asmenys/Julius Slovackis]]
 - [[objektai/asmenys/Juozapas Ignotas Kraševskis]]
 - [[objektai/asmenys/Juozas Daumantas]]
@@ -51,7 +50,7 @@ Objektų skaičius: 120.
 - [[objektai/asmenys/Kozmas Prahietis]]
 - [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
 - [[objektai/asmenys/Laurencijus Bojeris]]
-- [Liucijus Apulėjus](../objektai/asmenys/Liucijus%20Apul%C4%97jus)
+- [[objektai/asmenys/Liucijus Apulėjus]]
 - [Mikalojus Husovianas](../objektai/asmenys/Mikalojus%20Husovianas)
 - [Motiejus Kazimieras Sarbievijus](../objektai/asmenys/Motiejus%20Kazimieras%20Sarbievijus)
 - [Ona Lukauskaitė-Poškienė](../objektai/asmenys/Ona%20Lukauskait%C4%97-Po%C5%A1kien%C4%97)

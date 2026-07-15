@@ -55,23 +55,6 @@ Nenurodyta
   teiginys: "Baltijos kryžius buvo teikiamas pasižymėjusiems vokiečių bermontininkams."
   pagrindžia:
     - c-44640
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Baltijos kryžius buvo teikiamas pasižymėjusiems vokiečių bermontininkams.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 190, Baltijos kryžius, teiktas pasižymėjusiems bermontininkams - vokiečiams.
-    http://sammler.ru/uploads/post-622-1333798270.jpg
-
-    p. 190, Vokiečių kariai, Alvydo Tamošiūno nuotr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

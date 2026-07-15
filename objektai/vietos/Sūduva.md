@@ -10,16 +10,16 @@ datos:
   - '1421 m.'
 date_start: '1398'
 date_end: '1421'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ežeras
   - kraštas
+  - ordinas
   - pilis
-  - vieta
-amziai:
-  - 'XIV'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -110,6 +110,27 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginys: "Narbutas spėjo, kad Sūduvos šiaurinė siena buvo Pisos upė, skyrusi ją nuo Salavijos ir Nadruvos."
   pagrindžia:
     - c-175534
+
+<a id="claim-t-197931"></a>
+- t-011
+  global_id: t-197931
+  teiginys: "Kruvina šio Ordino politika numatė padaryti Sūduvą visiškai negyvenamą, tad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į kitas Prūsijos dalis."
+  pagrindžia:
+    - c-175532
+
+<a id="claim-t-197932"></a>
+- t-012
+  global_id: t-197932
+  teiginys: "Sūduva turėjo gana daug įtvirtintų pilių, kur gyveno šioje provincijoje dau giausia buvusių savarankiškų valdovų."
+  pagrindžia:
+    - c-179406
+
+<a id="claim-t-197933"></a>
+- t-013
+  global_id: t-197933
+  teiginys: "Pietinėje Sūduvos dalyje buvo daug ežerų ir pelkių, o šiaurinėje — neišbrendamų miškų; gausūs gyventojai čia rasdavo viską, ko reikėjo pragyvenimui, be medžiok lės ir žūklės, jie vertėsi žemdirbyste ir gyvulininkyste."
+  pagrindžia:
+    - c-179407
 - susijęs iš [[objektai/ivykiai/Ulricho Bajerio žygis į Sūduvą.md#claim-t-62515|Ulricho Bajerio žygis į Sūduvą]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino, grobė, paėmė ir nužudė 150 žmonių.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175111|Sūduviai-jotvingiai]]: Komentarinėje pastaboje nurodoma, kad Dusburgietis Sūduvos vardu vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175122|Sūduviai-jotvingiai]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.
@@ -142,7 +163,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - susijęs iš [[objektai/autoriai/Ptolemėjas.md#claim-t-191522|Ptolemėjas]]: Narbutas rašė, kad Ptolemėjas turėjo žinių apie Sūduvą ir žinojo sudinų koloniją prie Vltavos, markomanų kaimynystėje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184493|Kryžiuočių ordinas]]: Sūduvos prūsai ir žemaičiai prie Liubavos neišdrįso stoti į atvirą mūšį su kryžiuočiais ir pabėgo, palikę stovyklą bei gurguoles.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-192415|Kryžiuočių ordinas]]: Teodoras Narbutas rašė, kad kryžiuočiai beveik iškapojo laisvę gynusius Sūduvos gyventojus, o likusius perkėlė į Sambiją.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179428|Livonijos ordinas]]: Jogailos prieš Livonijos kariuomenę pasiųstas Vytautas sudarė taiką, gavęs pažadą dėl Sūduvos ir Žemaičių pripažinimo.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175107|Sūduviai-jotvingiai]]: Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175110|Sūduviai-jotvingiai]]: Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, juos išžudė, o moteris ir vaikus išsivarė į nelaisvę.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175111|Sūduviai-jotvingiai]]: Komentarinėje pastaboje nurodoma, kad Dusburgietis Sūduvos vardu vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a.
@@ -276,7 +296,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89550|dykra]]: Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos ėjo daugiausia per dykras bei miškų plotus be gyvenviečių.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89551|dykra]]: Sūduvos dykra 1422 m. buvo padalinta.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89552|dykra]]: Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
-- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-184613|gurguolė]]: Prie Liubavos Sūduvos prūsai ir žemaičiai, pabėgę nuo kryžiuočių puolimo, paliko stovyklą ir gurguoles.
+- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-184613|gurguolė]]: Prie Liubavos Sūduvos prūsai ir jiems į pagalbą atėję žemaičiai, kryžiuočių puolami, pabėgo ir paliko stovyklą bei gurguoles.
 - susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-47929|lotyniškasis krikštas (krikštas)]]: Lietuvos valdovui pereinant į Lenkiją, valstybiniu mastu buvo atnaujintas lotyniškasis krikštas.
 - susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-47930|lotyniškasis krikštas (krikštas)]]: Lietuvos valdovui einant į Lenkiją, valstybiniu lygmeniu buvo atnaujintas lotyniškasis krikštas, nuošalyje paliekant Kryžiuočių ordiną.
 - susijęs iš [[objektai/zodynas/misijų teorija.md#claim-t-32797|misijų teorija]]: Kryžiuočių ordinas atstovavo ginkluotai misijų teorijai ir buvo paliktas nuošalyje atnaujinant lotyniškąjį krikštą Lietuvoje.
@@ -291,114 +311,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino vakarinis antpuolis Sūduvos kaime.md#claim-t-62394|Martyno iš Golino vakarinis antpuolis Sūduvos kaime]]: Martynas iš Golino su būreliu vyrų vakare užpuolė Sūduvos kaimą, išžudė žmones, pagrobė turtą ir išsivarė moteris bei vaikus į nelaisvę.
 - susijęs iš Vaišvilčiai: Salyno akte ordinui tenkančių žemių siena nuo Vaišvilčių kaimo Nevėžio aukštupyje pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ordinas turėjo tuojau
-    paimti vakarinį Sūduvos ruožą ir Žemaičių dalį — į vakarus nuo
-    Raudonės įtakos į Nemuną iki Klaipėdos^12. Visa kita Žemaičių
-    ir Sūduvos dalis iki Nemuno turėjo atitekti ordinui po pusbrolių
-    mirties. Zigmantas nepripažino nė Lenkijos teisių į ginčijamą
-    Kulmą ir Pamarį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Melno sutartimi Lietuva iš Sūduvos girių laimėjo daugiau, negu Vytautas buvo užleidęs Ordinui Salyno taika.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Sūduvių
-    gyvento vakarinio ploto dalis atiteko ordinui. Bet Melno sutartimi
-    iš Sūduvos girių Lietuva laimėjo nepalyginamai daugiau negu
-    Vytautas buvo ordinui užleidęs Salyno taika (1398).
-    Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų
-    Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau
-    Grajevo ir Točilovo ežerų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-004
-
-- c-003
-  santrauka: 'Dabartinės Suvalkų apylinkės, įskaitant Vygrių ežeryną, buvo centrinė jotvingių arba sūduvių teritorijos dalis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    145). Dab. Suvalkų apylinkės (Vygrių ežerynas) buvo centrinė jotvingių (sūduvių)
-    teritorijos plačiąja prasme dalis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Petro iš Dusburgo kronikoje Sūduva minima kaip viena iš vienuolikos Prūsijos žemės dalių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
-    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
-    iki Nemuno.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tad jie
-    stengėsi dešiniajame Nemuno žemupio krante (nuo Nevėžio) sau
-    pasilaikyti plačią girios juostą. Ordinas primygtinai savinosi visą
-    didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir
-    nusidriekusią per visą vakarų Žemaitiją.
-    Tuoj po Torno taikos Vytautas ėmė reikalauti, kad į Žemaitijos
-    ribas butų pripažintos dešiniojo Nemuno kranto girios su ordino
-    pilimis žemupyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Po tiek ilgų ginčų ir ginkluotų konfliktų pagaliau buvo sutarta
-    siena, kuri nuostabiu būdu, nežiūrint įvairių mėginimų ją pakeisti,
-    patvariai išsilaikė penkis šimtmečius. Lietuvai atiteko žymi dalis
-    Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
-    Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos
-    ėjo daugiausia per dykras bei miškų plotus be gyvenviečių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 - c-007
   santrauka: 'Narbutas rašo, kad jotvingių gyventojų likučiai arba išsikėlė, arba dar laikėsi Prūsų Sūduvos provincijoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -499,14 +411,13 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175430
     - t-175425
+    - t-175430
 
 - id: c-159550
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 61"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     145). Dab. Suvalkų apylinkės (Vygrių ežerynas) buvo centrinė jotvingių (sūduvių)
     teritorijos plačiąja prasme dalis.
@@ -520,15 +431,14 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-159553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno.
   citata_rodoma: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
@@ -580,28 +490,90 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-175532
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    137
-    Jotvingių likučiai. Jotvingių gyventojų likučiai arba iš­
-    sikėlė, arba dar laikėsi vietoj prūsų Sūduvos provincijo­
-    je. Bet ir ten juos pasiekė nepermaldaujamos lemties ran­
-    ka.
+    Kruvina šio Ordino
+    politika numatė padaryti Sūduvą visiškai negyvenamą,
+    tad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į
+    kitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­
+    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
+    Raigardo ir Insterburgo Prūsijoje. Tačiau negalime su­
+    tikti su mokslininku Heningu, kuris daro prielaidą, kad
+    visi sūduviai yra buvę jotvingiai, nes kitur esama negin­
+    čijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri
+    vadinosi sudinais ir buvo visiškai ne jotvingių kilmės.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192762
+    - t-197931
 
 - id: c-175533
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Sūduva turėjo gana
+    Kryžiuočiams val­
+    dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
+    apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
+    vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
+    Raigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie
+    šią, toje pačioje vietoje esančią provinciją, be to, neabe­
+    jotina, kad nuo seno ten gyveno ir lietuviui Tas pats
+    geografas taip pat žinojo vieną sudinų koloniją, buvusią
+    germanų markomanų genties kaimynystėje, dabar Pra­
+    hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
+    iš prūsų Sūduvos kažkokia užklydusi genties dalis4. Ne
+    kartą provincijoje prisiglausdavo nuo lenkų ir lietuvių
+    ginklų bėgantys jotvingiai. Rytuose ji ribojosi su Sudar­
+    gą, pietuose — su jotvingių Polese, vakaruose — su Ga­
+    linda ir Barta, o šiaurėje — su Barta ir Nadruva.
+    1 Kiti teigia, kad iš žodžio S žudąs, išmatos, pelkės, nes seniau
+    žemė ten buvusi labai pelkėta; bet išmanančiam kalbą ir papročius šis
+    spėjimas yra visiškai nepriimtinas.
+  citata_rodoma: "Sūduva turėjo gana\ndaug įtvirtintų pilių, kur gyveno šioje provincijoje dau­\ngiausia buvusių savarankiškų valdovų. Kryžiuočiams val­\ndant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;\napie ją žinome tik iš Dusburgo paminėto jos valsčiaus,\nvadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir\nRaigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie\nšią, toje pačioje vietoje esančią provinciją, be to, neabe­\njotina, kad nuo seno ten gyveno ir lietuviui Tas pats\ngeografas taip pat žinojo vieną sudinų koloniją, buvusią\ngermanų markomanų genties kaimynystėje, dabar Pra­\nhos apskritis (Čekija), prie Vltavos upės; tai galėjo būti\niš prūsų Sūduvos kažkokia užklydusi genties dalis4."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192763
+
+- id: c-175534
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Rytuose ji ribojosi su
+    Lietuva nuo Vincentos versmių, po to Lykos upe ir ežeru
+    prie Raigardo, o į šiaurę su tebesitęsiančia siena tarp
+    Olecko ir Bakalaževo net iki Remiko žemumos. Siaurinė
+    siena, rodos, buvo Pisos upė, atitekėjusi iš rytų į vakarus,
+    kur ji skyrė Sūduvą nuo Salavijos ir Nadruvos. Vadinasi,
+    Sūduvą sudarė žemės, kur yra Olecko, Lykos, Biala, Ario,
+    Reino ir Lėceno miesteliai. Čia taip pat būta senovinio
+    suskirstymo į mažas apskritis, iš kurių minima Kimenau,
+    Kimenava, su to paties pavadinimo pilimi; čia gyvenęs šio
+    krašto ponas, vardu Jedetas.
+  citata_rodoma: "Siaurinė\nsiena, rodos, buvo Pisos upė, atitekėjusi iš rytų į vakarus,\nkur ji skyrė Sūduvą nuo Salavijos ir Nadruvos. Vadinasi,\nSūduvą sudarė žemės, kur yra Olecko, Lykos, Biala, Ario,\nReino ir Lėceno miesteliai. Čia taip pat būta senovinio\nsuskirstymo į mažas apskritis, iš kurių minima Kimenau,\nKimenava, su to paties pavadinimo pilimi; čia gyvenęs šio\nkrašto ponas, vardu Jedetas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192764
+
+- id: c-179406
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Gyventojai aistringai gynė savo lais­
+    vę, dažnai maištavo; kryžiuočiai iškapojo beveik visus, o
+    likusius, sugautus giriose, perkėlė į Sambiją. Taip pat
+    daug sudinų persikėlė ir į Lietuvą. Sūduva turėjo gana
     daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
     giausia buvusių savarankiškų valdovų. Kryžiuočiams val­
     dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
@@ -619,28 +591,26 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192763
+    - t-197932
 
-- id: c-175534
+- id: c-179407
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 364"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 364."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Siaurinė
-    siena, rodos, buvo Pisos upė, atitekėjusi iš rytų į vakarus,
-    kur ji skyrė Sūduvą nuo Salavijos ir Nadruvos. Vadinasi,
-    Sūduvą sudarė žemės, kur yra Olecko, Lykos, Biala, Ario,
-    Reino ir Lėceno miesteliai. Čia taip pat būta senovinio
-    suskirstymo į mažas apskritis, iš kurių minima Kimenau,
-    Kimenava, su to paties pavadinimo pilimi; čia gyvenęs šio
-    krašto ponas, vardu Jedetas.
+    Taip pat čia buvo
+    nemažai turtingų didelių žemės valdų savininkų; vien Me-
+    rūniškio apskrityje jų būta aštuoniolika (Dusb. P. III. C.
+    192). Pietinėje Sūduvos dalyje buvo daug ežerų ir pelkių,
+    o šiaurinėje — neišbrendamų miškų; gausūs gyventojai
+    čia rasdavo viską, ko reikėjo pragyvenimui, be medžiok­
+    lės ir žūklės, jie vertėsi žemdirbyste ir gyvulininkyste.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192764
+    - t-197933
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Kryžiuočių ordinas]]

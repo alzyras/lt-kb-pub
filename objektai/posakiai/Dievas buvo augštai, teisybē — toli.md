@@ -22,14 +22,14 @@ media_all_json: |-
 
 ## Santrauka
 
-Dr. J. Basanavičius posakį „Dievas buvo augštai, teisybē — toli“ siejo su ūkininkų išvarymais ir laukų pasisavinimu valdžiai esant „visgalingo pono“ rankose.
+Basanavičius posakį „Dievas buvo augštai, teisybė — toli“ siejo su ūkininkų išvarymu, laukų pasisavinimu ir ponų valdžia.
 
 ## Teiginiai
 
-<a id="claim-t-200879"></a>
+<a id="claim-t-200889"></a>
 - t-001
-  global_id: t-200879
-  teiginys: "Dr. J. Basanavičius posakį „Dievas buvo augštai, teisybē — toli“ siejo su ūkininkų išvarymais ir laukų pasisavinimu valdžiai esant „visgalingo pono“ rankose."
+  global_id: t-200889
+  teiginys: "Basanavičius posakį „Dievas buvo augštai, teisybė — toli“ siejo su ūkininkų išvarymu, laukų pasisavinimu ir ponų valdžia."
   pagrindžia:
     - c-184224
 
@@ -50,9 +50,10 @@ Dr. J. Basanavičius posakį „Dievas buvo augštai, teisybē — toli“ siejo
     kai išsisklaidē po svietą.
     Panašus atsitikim ai bu­
     vo Gartyno ir Vilniaus gubernijose.
+  citata_rodoma: "Suval­\nkų gubernijoj. \nMes galētum ēm pam inēt ilgą eilę \ndvarų, kurie atsirado per išvaikymus ukininkų ir \npasisavinimą laukų per kokį nors lenkišką valdi­\nninką, vaitą ir tt. Ranka ranką mazgojo, kuomet \nvaldżia ant ukininkų buvo rankose visgalingo po­\nno: Dievas buvo augštai, teisybē — toli, ir ukinin­\nkai išsisklaidē po svietą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200879
+    - t-200889

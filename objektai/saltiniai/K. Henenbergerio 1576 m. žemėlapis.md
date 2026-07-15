@@ -7,13 +7,13 @@ datos:
   - '1576 m.'
 date_start: '1576'
 date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - žemėlapis
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,8 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   teiginys: "K. Henenbergerio 1576 m. žemėlapyje Auksinė vadinta Augste."
   pagrindžia:
     - c-61723
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'K. Henenbergerio 1576 m. žemėlapyje Auksinė vadinta Augste.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,12 +63,13 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 - id: c-61723
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 65"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Taigi Katinavos apylinkės — ryškus pagoniško kulto židinys.
     XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.
-    Henenbergerio žemėlapyje  ir M. Pretorijaus raštuose — Augste) žemupyje žymima
+    Henenbergerio žemėlapyje ir M. Pretorijaus raštuose — Augste) žemupyje žymima
     Romanuppen, o kiek toliau į rytus, prie Didlovos (Dittowa) — Kreywutschen (Sch-K VII).
+  citata_rodoma: "XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.\nHenenbergerio žemėlapyje  ir M. Pretorijaus raštuose — Augste) žemupyje žymima\nRomanuppen, o kiek toliau į rytus, prie Didlovos (Dittowa) — Kreywutschen (Sch-K VII)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

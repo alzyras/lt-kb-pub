@@ -57,34 +57,6 @@ Nenurodyta
   teiginys: "Martynas Paleckis Vilniuje gavo leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą."
   pagrindžia:
     - c-82936
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Martynas Paleckis Vilniuje gavo leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
-    lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus
-    išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­
-    šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­
-    tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
-    32 33
-    Žr. III priedą. Žr. VIII šios knygos priedą.
-    V I  L  N 7  I  A U S MIESTO ISTORIJA II TOM A S
-    274
-
-    ## Puslapis 291
-
-    IV KNYGA
-    ti stiklo liejyklą, o kartu privilegiją, leidžiančią Vilniuje par­
-    davinėti lenkišką stiklą34.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

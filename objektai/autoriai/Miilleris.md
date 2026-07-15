@@ -43,27 +43,6 @@ kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, su
   teiginys: "Miilleris buvo Maskvos archyvo vedėjas, kurio Rusijos genealoginėmis knygomis rėmėsi Kochas."
   pagrindžia:
     - c-84055
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Miilleris buvo Maskvos archyvo vedėjas, kurio Rusijos genealoginėmis knygomis rėmėsi Kochas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau teisus
-    b veikalą Tables genealogiques de Koch
-    Šios nuostabą keliančios genealogi- publiees par Schoell. Paris 1818. 4-to.
-    jos kilmė, be Vilniaus paminėjimo, Table LXV. Section L Žr. Lietuvos di-
-    yra netgi K o c h o Lentelėse, kurias dž. kunigaikščių Genealoginę lente-
-    šis, šiaip ar taip, bet vertinamas au- lę, sudarytą pagal Maskvos archyvo
-    torius, turėdamas pasitikėjimą, ga- vedėjo Miillerio Rusijos genealogi-
-    vo iš Miillerio ir įdėjo į savo svarbų nes knygas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

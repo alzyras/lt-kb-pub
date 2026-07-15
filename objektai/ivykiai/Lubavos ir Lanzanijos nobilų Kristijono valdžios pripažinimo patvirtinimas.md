@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - politinis-sprendimas
   - ivykis
+  - popiežius
 amziai:
   - 'XIII'
 media_total_count: '0'
@@ -57,37 +58,30 @@ Nenurodyta
   teiginys: "Lubavos nobiliai, vadovaujami Survabūno, ir Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią."
   pagrindžia:
     - c-60191
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Lubavos nobiliai, vadovaujami Survabūno, ir Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno,  ir
-    Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono
-    valdžią. Abiejų užrašymus 1216.II.18 patvirtino popiežius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196956"></a>
+- t-002
+  global_id: t-196956
+  teiginys: "Kristijonui radus bendrą kalbą su prūsų nobiliais, nemaža prūsų priėmė krikštą."
   pagrindžia:
-    - t-001
+    - c-60191
 
 ## Citatos
 
 - id: c-60191
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 42"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno,  ir
-    Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono
-    valdžią. Abiejų užrašymus 1216.II.18 patvirtino popiežius.
+    Kristijonui radus bendrą kalbą su prūsų nobiliais, nemaža prūsų priėmė krikštą.
+    Stiprindamas savo pozicijas Prūsijoje, Kristijonas stengėsi išvengti pavaldumo lenkų
+    bažnyčiai ir feodalams, norėjusiems pajungti prūsų naujakrikščius. Popiežiaus bulės
+    liudija, kad lenkų feodalai, nepaisydami Kristijono nepritarimo, braudavosi į apkrikštytų
+    prūsų žemes.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59559
+    - t-196956

@@ -47,31 +47,12 @@ Dusburgietis teigia, kad apie Benediktą XI, popiežių, ir Albrechtą, karalių
   pagrindžia:
     - c-60878
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112518|Domininkonų ordinas]]: 1303 m. valdęs popiežius Benediktas XI buvo Brolių pamokslininkų ordino vienuolis.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1303 m. valdė popiežius Benediktas XI, brolių pamokslininkų ordino vienuolis, ir Romos karalius Albrechtas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    96. Apie Benediktą XI, popiežių, ir Albrechtą, karalių
-
-      1303 viešpaties metais valdė Benediktas XI, popiežius, brolių pamokslininkų ordino
-    vienuolis, ir Albrechtas, Romos karalius (Mart. p. 440; Ptol. p. 1224).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60878
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     96. Apie Benediktą XI, popiežių, ir Albrechtą, karalių
 

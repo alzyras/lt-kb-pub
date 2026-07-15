@@ -41,23 +41,6 @@ Pačią Pskovo pilį jis apjuosė akmens mūrais, kurie ligi šiol tebevadinami 
   teiginys: "Pskovo pilis buvo apjuosta akmens mūrais, kurie vadinti Daumanto sienomis."
   pagrindžia:
     - c-34016
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Per 35 metus rūpestin­
-    gai tarnaudamas naujai tėvynei (Daumantas mirė 1299 m.), jis su­
-    laikė Livonijos ordino puldinėjimus. Pačią Pskovo pilį jis apjuosė
-    akmens mūrais, kurie ligi šiol tebevadinami « Daumanto sienomis ».
-    Stačiatikių cerkvė jį yra įrašiusi į šventųjų skaičių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

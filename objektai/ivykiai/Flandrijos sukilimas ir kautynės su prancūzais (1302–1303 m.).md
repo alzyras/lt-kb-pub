@@ -9,15 +9,15 @@ datos:
   - '1303 m.'
 date_start: '1223'
 date_end: '1303'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - mūšis
   - sukilimas
-amziai:
-  - 'XIII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -68,8 +68,8 @@ Nenurodyta
   teiginys: "Per Flandrijos sukilimo laikotarpio prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų."
   pagrindžia:
     - c-63577
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -90,40 +90,22 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Per Flandrijos sukilimo laikotarpio prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
-    prarado labai daug užmuštaisiais (Ptol. p. 1223),
-
-
-
-                 95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-63576
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
-    suėję  į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
+    suėję į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
     1222).
-      1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
-    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
+    1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
+    imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
     Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
-       Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
+    Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
+    95.
   citata_rodoma: "Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,\nsuėję  į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.\n1222).\n  1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,\nimperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė\nKlemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).\n   Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys\nprarado labai daug užmuštaisiais (Ptol. p. 1223),"
   statusas: verified
   teiginio_tipas: faktas
@@ -135,8 +117,7 @@ Nenurodyta
 - id: c-63577
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),

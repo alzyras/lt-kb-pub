@@ -42,38 +42,6 @@ media_all_json: |-
   teiginys: "Ordino kamarninkai Žemaičiuose vėl ėmė matuoti laukus ir surašinėti gyventojus."
   pagrindžia:
     - c-28458
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ordino vietininkas Žemaičiuose įvesdinėjo savo tvarką. Jo
-    « kamarninkai » ėmė vėl matuoti laukus, surašinėti gyventojus^46.
-    Tada ypatingai ūkiškai klestintis ordinas nesigailėjo išlaidų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Į pačius Žemaičius krikšto reikalu
-    ordinas siuntė kunigų ir vienuolių^14 , o žmonėms teisti ir valdyti —
-    « kamarninkų »^15. Kryžiuočiai skubėjo Žemaičiuose įsitvirtinti ir
-    įvesti savo tvarką^16. Savo pareigūnams, kolonistams ir jų šalinin­
-    kams į nuteriotą kraštą ordinas gabeno įvairiausio maisto ir gyvu­
-    lių^17.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

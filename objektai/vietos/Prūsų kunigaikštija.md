@@ -41,30 +41,6 @@ Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo
   teiginys: "1545 m. Lietuvos, Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje pastatytas pasienio stulpas su Vyčiu ir Lenkijos ereliu."
   pagrindžia:
     - c-166473
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje pastatytas 1545 m. Viršuj parašo lentos matyti Lietuvos Vytis ir Lenkijos erelis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Livonija buvo valdoma
-    abiejų jungtinių valstybių; mo-
-    kesčiai iš jos vienais metais ei-
-    davo į Lietuvos, o kitais metais į Lenkijos iždą.
-
-    Pasienio stulpas,
-    Lietuvos Lenkijos ir Prūsų kuni-
-    gaikštijos sienų susiėjimo vietoje
-    pastatytas 1545 m. Viršuj parašo
-    lentos matyti Lietuvos Vytis ir
-    Lenkijos erelis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

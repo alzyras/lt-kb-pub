@@ -40,27 +40,6 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
 - susijęs iš [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą.md#claim-t-186757|Suchtos sąmokslas prieš Kazimierą]]: Redakcinė pastaba nurodo, kad J. Dlugošas antrąkart mini Suchtos sąmokslą perteikdamas Zbignevo Olesnickio kalbą 1453 m. Parčevo seime.
 - susijęs iš [[objektai/ivykiai/Vytauto karūnacijos sumanymo žlugimas po Olesnickio atsakymo.md#claim-t-86966|Vytauto karūnacijos sumanymo žlugimas po Olesnickio atsakymo]]: Olesnickio atsakymas privertė Vytautą sudvejoti dėl karūnacijos sumanymo, o praradęs viltį gauti karūną jis sunkiai susirgo.
 - susijęs iš [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą.md#claim-t-186755|Suchtos sąmokslas prieš Kazimierą]]: J. Dlugošo komentatoriai, redakcinės pastabos teigimu, Suchtos sąmokslą datuoja pirmaisiais keturiais 1453 m. mėnesiais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gausus ir platus laiškai^9 rodo, jog Vytautas prieš lenkų
-    nusistatymą gynė visos Lietuvos reikalus ir jos nepriklausomybę,
-    nepakęsdamas D. L. kunigaikštijos žeminimo. Savo mokytojo
-    Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vainiko
-    klausimą tik į jo asmeninius interesus ir ambicijas ; tai kritiškai
-    yra įrodyta^10. Vytautui užgaunanti pasirodė Jogailos laikysena,
-    kuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo
-    skersai kelio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32796

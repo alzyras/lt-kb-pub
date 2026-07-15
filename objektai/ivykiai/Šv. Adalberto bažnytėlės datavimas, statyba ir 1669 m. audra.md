@@ -65,89 +65,14 @@ Nenurodyta
   teiginys: "1669 m. didžiulė audra visiškai išgriovė Šv. Adalberto bažnytėlės sienas."
   pagrindžia:
     - c-174904
-
-<a id="claim-t-192491"></a>
-- t-003
-  global_id: t-192491
-  teiginys: "1669 m. didžiulė audra visiškai išgriovė Šv. Adalberto bažnytėlės sienas."
-  pagrindžia:
     - c-175282
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas, remdamasis Foigtu ir vietiniais padavimais, Šv. Adalberto bažnytėlės pradžią sieja su XIII a. pabaiga, o mūrinę statybą – su 1422 m.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Foigtas (Gesch. Preuss. B. I. S. 678) teigia,
-    jog, anot vietinių padavimų, negalima abejoti, kad ši bažnytėlė ga­
-    lėjusi būti pastatyta XIII amžiaus pabaigoje, bet ne vėliau, kai Sem­
-    bą užkariavo čekų karalius Otokaras; to paties amžiaus antrosios
-    pusės pradžioje buvusi medinė bažnytėlė, o 1422 metais, antrą ar
-    trečią kartą sunaikinus vis atstatomus medinius pastatus, pradėta
-    statyti mūrinę (Voigt. S. 663—666). Si išvada atitinka senus pada­
-    vimus
-    ir prūsų
-    istoriko
-    tyrimo išvadas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1669 m. didžiulė audra visiškai išgriovė Šv. Adalberto bažnytėlės sienas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vai­
-    tiekaus bažnytėlės, pastatytos XIII amžiaus pabaigoje,
-    buvo apie vieną mylią, o šio autoriaus laikais, t. y. įpusė­
-    jus XVII amžiui, jūros krantas taip priartėjo prie šios,
-    jau griuvėsiais virtusios bažnytėlės, kad atstumas buvo ne
-    didesnis kaip ketvirtis mylios. Šiandien tų griuvėsių liku­
-    čius galima pamatyti beveik pačioje jūros pakrantėje, į
-    kairę nuo kelio, einančio iš Laukstetų į Litausdorfo kaimą.
-    1669 metais didžiulė audra visiškai išgriovė šio pastato
-    sienas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: '1669 m. didžiulė audra visiškai išgriovė Šv. Adalberto bažnytėlės sienas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šiandien tų griuvėsių liku­
-    čius galima pamatyti beveik pačioje jūros pakrantėje, į
-    kairę nuo kelio, einančio iš Laukstetų į Litausdorfo kaimą.
-    1669 metais didžiulė audra visiškai išgriovė šio pastato
-    sienas.
-    189
-    Ne mažiau įdomios yra pono Foigto studijos apie pra­
-    dingusią, jūrai užliejus, Vitlandijos žemę, taip pat po tos
-    pačios gamtinės revoliucijos, kuri Memelio vagą pavertė
-    marių dalimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
 - id: c-174903
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 186"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 186."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Foigtas (Gesch. Preuss. B. I. S. 678) teigia,
     jog, anot vietinių padavimų, negalima abejoti, kad ši bažnytėlė ga­
@@ -171,8 +96,7 @@ Nenurodyta
 - id: c-174904
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 186"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 186."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vai­
     tiekaus bažnytėlės, pastatytos XIII amžiaus pabaigoje,
@@ -195,8 +119,7 @@ Nenurodyta
 - id: c-175282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 186"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 186."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šiandien tų griuvėsių liku­
     čius galima pamatyti beveik pačioje jūros pakrantėje, į
@@ -212,5 +135,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192491

@@ -50,7 +50,6 @@ Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio
 - susijęs iš Nadruva: 1274 m. magistras ir broliai nukreipė savo ginklus prieš nadruvius.
 - susijęs iš [[objektai/zodynas/bažnyčios visuotinybė.md#claim-t-58895|bažnyčios visuotinybė]]: 1274 m. pagudėnai, varmiai, notangai, bartai ir sembai grįžo į šventosios motinos bažnyčios visuotinybę.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Maudelis buvo Vėluvos pilininko Tirsko sūnus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -77,11 +76,11 @@ Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio
 - id: c-61018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
     1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
-    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
+    varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus,
     kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
     paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
     ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas

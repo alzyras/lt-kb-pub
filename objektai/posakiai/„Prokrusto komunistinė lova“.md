@@ -42,50 +42,6 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
   teiginys: "Sovietmečiu menininkams tolstant nuo socialistinio realizmo nepavyko Lietuvos kultūros sugrūsti į „Prokrusto komunistinę lovą“."
   pagrindžia:
     - c-166896
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kūrybai pasitarnavo vadinamo-
-    ji „brežnevinė epocha“: kuo žmogus buvo žinomesnis, tuo sunkiau jam
-    buvo iškelti baudžiamąją bylą (stalinizmo epochoje buvo „visi lygūs“ –
-    saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir
-    eilinį žmogų). Naujomis sąlygomis menininkai vis dažniau atsiribodavo
-    nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir
-    propagandos su menu. Pasirodė istorinių romanų, dramų, filmų, augo
-    nauja menininkų karta, nepaliesta stalinizmo represijų, atėjusi iš naujų
-    visuomenės sluoksnių – visiškai parklupdyti Lietuvos kultūrą, sugrūsti ją
-    į Prokrusto komunistinę lovą sovietmečiu nepavyko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Sovietmečiu menininkams tolstant nuo socialistinio realizmo nepavyko Lietuvos kultūros sugrūsti į „Prokrusto komunistinę lovą“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Naujomis sąlygomis menininkai vis dažniau atsiribodavo
-    nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir
-    propagandos su menu. Pasirodė istorinių romanų, dramų, filmų, augo
-    nauja menininkų karta, nepaliesta stalinizmo represijų, atėjusi iš naujų
-    visuomenės sluoksnių – visiškai parklupdyti Lietuvos kultūrą, sugrūsti ją
-    į Prokrusto komunistinę lovą sovietmečiu nepavyko.
-    Švietimas ir bandymai rusinti
-    Sparti urbanizacija, SSRS militarizacija (Lietuvoje sovietme-
-    čiu buvo pastatyta per 400 karinių objektų; sovietų kariuomenė naudojo
-    daugiau kaip 6 proc.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

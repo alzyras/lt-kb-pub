@@ -36,25 +36,6 @@ Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Nie�
   pagrindžia:
     - c-33981
 - susijęs iš [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.).md#claim-t-66698|Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]: Melno taika sutarta siena išsilaikė penkis šimtmečius, Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkijai Niešavos kraštas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Po tiek ilgų ginčų ir ginkluotų konfliktų pagaliau buvo sutarta
-    siena, kuri nuostabiu būdu, nežiūrint įvairių mėginimų ją pakeisti,
-    patvariai išsilaikė penkis šimtmečius. Lietuvai atiteko žymi dalis
-    Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
-    Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos
-    ėjo daugiausia per dykras bei miškų plotus be gyvenviečių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33981

@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dubysa, Nevėžis ir Neris. Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio. Vidurinis sūnus Kūnas atsikėlė prie Nevėžio upės žiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino jį pagal savo vardą Kauno miestu5 .
+Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dubysa, Nevėžis ir Neris. Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio. Lietuvos metraštis pasakoja, kad Kūnas prie Nevėžio žiočių įkūrė miestą ir pagal savo vardą pavadino jį Kaunu.
 
 ## Teiginiai
 
@@ -47,16 +47,23 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 <a id="claim-t-193951"></a>
 - t-003
   global_id: t-193951
-  teiginys: "Vidurinis sūnus Kūnas atsikėlė prie Nevėžio upės žiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino jį pagal savo vardą Kauno miestu5 ."
+  teiginys: "Lietuvos metraštis pasakoja, kad Kūnas prie Nevėžio žiočių įkūrė miestą ir pagal savo vardą pavadino jį Kaunu."
   pagrindžia:
     - c-176576
 
 <a id="claim-t-193952"></a>
 - t-004
   global_id: t-193952
-  teiginys: "Neilgai trukus, mirė jo brolis Barkus, kuris gyveno Jurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė ir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir ėmė viešpatauti toje jo dalyje."
+  teiginys: "Lietuvos metraštis pasakoja, kad po bevaikio brolio Barkaus mirties Kūnas perėmė jo dalį ir Jurbarko miestą."
   pagrindžia:
     - c-176577
+
+<a id="claim-t-196854"></a>
+- t-005
+  global_id: t-196854
+  teiginys: "Lietuvos metraštis pasakoja, kad po Kūno mirties Užnerio kraštą iki Latgalos, Breslaujos ir Dauguvos valdė jo sūnus Kernius."
+  pagrindžia:
+    - c-178946
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82174|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus.
 - susijęs iš [[objektai/asmenys/Blinde.md#claim-t-190086|Blinde]]: Narbutas pasakoja legendą, kad moteris Blindė galėjo gimdyti iš įvairių kūno dalių, o žemės pavydas ją pavertė blindės medžiu.
 - susijęs iš [[objektai/asmenys/Hermanas iš Lichtenburgo.md#claim-t-184088|Hermanas iš Lichtenburgo]]: Hermanas iš Lichtenburgo gyveno Brandenburgo pilyje ir ant pliko kūno dėvėjo grandininius marškinius.
@@ -65,7 +72,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-54977|Kazimieras Karigaila]]: Viena versija Kazimierą Karigailą vadina tikru karaliaus broliu ir teigia, kad po nužudymo nuo kūno buvo atskirta jo galva.
 - susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176555|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Vyskupas Motiejus 1430 m. spalio 27 d. užmerkė Vytautui akis ir jo kūną nulydėjo į Vytauto pastatytą katedrą.
 - susijęs iš [[objektai/asmenys/Sidonijus Apolinaras.md#claim-t-191355|Sidonijus Apolinaras]]: Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi veidą, plaukus ir kūną raudona arba ruda spalva.
-- susijęs iš [[objektai/asmenys/Slavka.md#claim-t-186162|Slavka]]: Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, bet Jonas jį nuvilko į šalį ir išmetė pro langą.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Magdeburgo.md#claim-t-60214|Ulrichas iš Magdeburgo]]: Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo.
 - susijęs iš [[objektai/asmenys/Urbonas IV.md#claim-t-184137|Urbonas IV]]: 1261 m. popiežius Urbonas IV įsteigė Kristaus kūno šventę.
 - susijęs iš [[objektai/asmenys/Urbonas IV.md#claim-t-60216|Urbonas IV]]: 1261 m. popiežius Urbonas IV įsteigė Kristaus kūno šventę.
@@ -104,7 +110,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš Lietuva: Žygio prieš Lietuvą metu Karaliaučiaus komtūrui Albertui meldžiantis, kronikoje aprašytas viešpaties kūno pasirodymas paplotėlio pavidalu.
 - susijęs iš Luckas: 1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.
 - susijęs iš Luckas: 1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į Vilniaus katedrą.
-- susijęs iš Vilnius: Gedimino laiškas buvo duotas Vilniuje 1323 m. Kristaus Kūno dieną.
 - susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192557|Fajetono katastrofa]]: Narbutas Fajetono katastrofą laiko legendinės senovės pasakojimu, galėjusiu priminti mažo dangaus kūno kritimą.
 - susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-192100|Aisčių laidotuvių ir vėlinių apeigos]]: Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes.
 - susijęs iš [[objektai/asmenys/Albertas (Karaliaučiaus komtūras).md#claim-t-60228|Albertas (Karaliaučiaus komtūras)]]: Dusburgiečio pasakojime per žygį prieš Lietuvą besimeldžiančiam Karaliaučiaus komtūrui Albertui prie burnos pasirodė komunijos paplotėlis.
@@ -180,7 +185,7 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš Šv. Jono Akademijos Spaustuvės kronika: 1547 m. Jonas Hozijus pardavė sklypą ir mūrinį namą, kuriame buvo spaustuvė, Sebastijonui Vitinskiui.
 - susijęs iš Akademijos aikštė: Akademijos aikštė buvo netaisyklingas ketvirtainis, apsuptas bažnyčios, kolegijos sienų ir mokymosi patalpų kolonadų.
 - susijęs iš Akademijos visuotinių iškilmių salė: Akademijos visuotinių iškilmių salė buvo pailgos formos salė kairėje pusėje prie bokšto arba varpinės.
-- susijęs iš Bartos žemė: Po Varmės nuniokojimo lietuviai nuvedė grobiu apsikrovusius karius į Bartos žemę ir sustojo pailsėti atvirame lauke.
+- susijęs iš Bartos žemė: Po Vytenio žygio į Varmę lietuviai grobio prisiplėšusius karius nuvedė į Bartos žemę ir sustojo pailsėti atvirame lauke.
 - susijęs iš Eliziejaus laukai: Narbutas aiškino, kad kūnui sunykus žmogaus šešėlis išsivaduoja ir gali skristi į Eliziejaus laukus.
 - susijęs iš Kaunas: Sportas tapo integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olimpiadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.
 - susijęs iš Kirsnava: Brolis Fridrichas, grįždamas su grobiu iš Kirsnavos valsčiaus, buvo priešų nukautas kartu su 30 vyrų.
@@ -214,100 +219,12 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/zodynas/klebono titulas.md#claim-t-86594|klebono titulas]]: Šv. Dvasios vienuolyno vyresnysis ir broliai prisiėmė panaikintą prieglaudos klebono titulą.
 - susijęs iš [[objektai/zodynas/vaivada kaštelionas.md#claim-t-86623|vaivada kaštelionas]]: Po Horodlės unijos akto Lietuvoje pagal Lenkijos pavyzdį buvo įvestos vaivados ir kašteliono tarnybos, apibrėžus jų pareigas.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dubysa, Nevėžis ir Neris.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kūno, arba
-    Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
-    sa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu)
-    Nerimi. Tų žemių sostinę įkurdino pačioje Neries ir
-    Nemuno santakoje. Tas miestas su pilimi, įkūrėjo at­
-    minimui pavadintas Kaunu, po šiai dienai tebėra vie­
-    nas iš žymiausių Lietuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kokius jis nuveikė paminėtinus darbus,
-    vėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­
-    palikti po mirties sūnums paveldimo neapykantos šal­
-    tinio, todėl pasistengė laiku padalyti valdžią. Kernu-
-    sijui, arba Kerniui, atidavė valdyti Lietuvos žemes
-    tarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­
-    tui paskyrė Žemaitiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Vidurinis sūnus Kūnas atsikėlė prie Nevėžio upės žiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino jį pagal savo vardą Kauno miestu5 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Vyriausias sūnus Barkus įkūrė mies­
-    tą prie Jūros upės, ir to kunigaikščio vardas susijungė
-    su upės vardu, kuri vadinosi Jūra, o kunigaikščio var­
-    das - —  Barkus, tai tas miestas imta vadinti Jurbarku 4 .
-    Vidurinis sūnus Kūnas atsikėlė prie Nevėžio upės
-    žiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino
-    jį pagal savo vardą Kauno miestu5 .
-    O trečias sūnus Spera keliavo tolyn per girias į ry­
-    tus, kur saulė teka, ir persikėlė per Nevėžio upę, ir
-
-    ## Puslapis 41
-
-    per trečią upę — Širvintą, aptiko ežerą, dabinamą pie­
-    vų ir Įvairių medžių, pamėgo tą vietą, apsigyveno prie
-    to ežero ir tą ežerą pavadino savo vardu — Spera6 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Neilgai trukus, mirė jo brolis Barkus, kuris gyveno Jurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė ir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir ėmė viešpatauti toje jo dalyje.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Neilgai trukus, mirė jo brolis Barkus, kuris gyveno
-    Jurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė
-    ir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir
-    ėmė viešpatauti toje jo dalyje.
-    O tasai kunigaikštis Kūnas turėjo du sūnus: vieną
-    Kernių, o kitą Gimbutą8 . Beviešpataudamas Žemaičių
-    žemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries
-    upę į Užnerio kraštą 9 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-169495
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 61"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 61."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kūno, arba
     Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
@@ -326,16 +243,22 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - id: c-169496
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 62"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 62."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kokius jis nuveikė paminėtinus darbus,
-    vėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­
-    palikti po mirties sūnums paveldimo neapykantos šal­
-    tinio, todėl pasistengė laiku padalyti valdžią. Kernu-
-    sijui, arba Kerniui, atidavė valdyti Lietuvos žemes
-    tarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­
-    tui paskyrė Žemaitiją.
+    L ie tu v o s,
+    k ita s
+    Z e-
+    Karą pradėti paskatino tai,
+    m a itijo s
+    kad tautoje padidėjo šeimy­
+    nų, o laukų nausėdijoms trū­
+    ko. Vis dėlto Kernius iš pradžių abejojo, ar keltis per
+    Nerį su žmonėmis dėl naujų žemių, mat priešas, už­
+    pultas ir įsiutintas, galėtų smogti atsakomąjį smūgį ir
+    kelias į Lietuvą būtų užkirstas. Todėl, norėdamas su­
+    rišti priešui rankas, įkūrė pirmą nausėdiją ant upės
+    kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos
+  citata_rodoma: "Kokius jis nuveikė paminėtinus darbus,\nvėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­\npalikti po mirties sūnums paveldimo neapykantos šal­\ntinio, todėl pasistengė laiku padalyti valdžią. Kernu-\nsijui, arba Kerniui, atidavė valdyti Lietuvos žemes\ntarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­\ntui paskyrė Žemaitiją."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -351,18 +274,17 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     Vyriausias sūnus Barkus įkūrė mies­
     tą prie Jūros upės, ir to kunigaikščio vardas susijungė
     su upės vardu, kuri vadinosi Jūra, o kunigaikščio var­
-    das - —  Barkus, tai tas miestas imta vadinti Jurbarku 4 .
+    das -— Barkus, tai tas miestas imta vadinti Jurbarku 4.
     Vidurinis sūnus Kūnas atsikėlė prie Nevėžio upės
     žiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino
-    jį pagal savo vardą Kauno miestu5 .
+    jį pagal savo vardą Kauno miestu5.
     O trečias sūnus Spera keliavo tolyn per girias į ry­
     tus, kur saulė teka, ir persikėlė per Nevėžio upę, ir
 
-    ## Puslapis 41
-
     per trečią upę — Širvintą, aptiko ežerą, dabinamą pie­
     vų ir Įvairių medžių, pamėgo tą vietą, apsigyveno prie
-    to ežero ir tą ežerą pavadino savo vardu — Spera6 .
+    to ežero ir tą ežerą pavadino savo vardu — Spera6.
+  citata_rodoma: "Vyriausias sūnus Barkus įkūrė mies­\ntą prie Jūros upės, ir to kunigaikščio vardas susijungė \nsu upės vardu, kuri vadinosi Jūra, o kunigaikščio var­\ndas - —  Barkus, tai tas miestas imta vadinti Jurbarku 4 .\nVidurinis sūnus Kūnas atsikėlė prie Nevėžio upės \nžiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino \njį pagal savo vardą Kauno miestu5 .\nO trečias sūnus Spera keliavo tolyn per girias į ry­\ntus, kur saulė teka, ir persikėlė per Nevėžio upę, ir\n\n## Puslapis 41\n\nper trečią upę — Širvintą, aptiko ežerą, dabinamą pie­\nvų ir Įvairių medžių, pamėgo tą vietą, apsigyveno prie \nto ežero ir tą ežerą pavadino savo vardu — Spera6 ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -380,12 +302,34 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     ir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir
     ėmė viešpatauti toje jo dalyje.
     O tasai kunigaikštis Kūnas turėjo du sūnus: vieną
-    Kernių, o kitą Gimbutą8 . Beviešpataudamas Žemaičių
+    Kernių, o kitą Gimbutą8. Beviešpataudamas Žemaičių
     žemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries
-    upę į Užnerio kraštą 9 .
+    upę į Užnerio kraštą 9.
+  citata_rodoma: "Neilgai trukus, mirė jo brolis Barkus, kuris gyveno \nJurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė \nir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir \nėmė viešpatauti toje jo dalyje.\nO tasai kunigaikštis Kūnas turėjo du sūnus: vieną \nKernių, o kitą Gimbutą8 . Beviešpataudamas Žemaičių \nžemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries \nupę į Užnerio kraštą 9 ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193952
+
+- id: c-178946
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Beviešpataudamas Žemaičių
+    žemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries
+    upę į Užnerio kraštą 9. Žengdamas nuo Šventosios aukš­
+    tyn, atrado labai gražią vietą; jam labai patiko toji
+    vieta, jis ten įkurdino savo sūnų Kernių ir tam miestui
+    davė Kerniaus vardą, pavadinęs Kernave l0.
+    O paskui Kūnas mirė, ir po jo visame Užnerio kraš­
+    te, ligi Latgalos11 sienos, ir ligi Užnerio Breslaujos12,
+    ir iki pat Dauguvos upės valdė jo sūnus Kernius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196854

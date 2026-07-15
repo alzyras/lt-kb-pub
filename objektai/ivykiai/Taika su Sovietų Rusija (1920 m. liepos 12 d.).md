@@ -60,24 +60,6 @@ Nenurodyta
   teiginys: "PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį."
   pagrindžia:
     - c-43124
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    PREILIAI A
-
-    1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė
-    taikos sutartį. Sovietų Rusija pripažino Lietuvos nepriklausomybę.
-    Buvo nustatyta Lietuvos siena.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

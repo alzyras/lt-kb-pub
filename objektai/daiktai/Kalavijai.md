@@ -96,73 +96,8 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas.md#claim-t-62874|Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]: Po bendražygių žūties Martynas iš Golino sušaukė išsklaidytus vyrus, atgavo ginklus ir užpuolęs sūduvius juos išžudė.
 - susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-59741|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas iš Golino su keturiais vokiečiais ir vienuolika prūsų užgrobė kaimą Sūduvos žemėje.
 - susijęs iš 1253 m. popiežiaus bulė dėl Polesijos ir Galindos: Narbutas 1253 m. bulės atsiradimą sieja su galindų ir jotvingių perėjimu Krokuvos Boleslovo ir Kujavijos Kazimiero globon.
-- susijęs iš Dnepras: Lietuviams nugalėjus, daug bėgančių priešų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose.
 - susijęs iš Kroicburgas: 1263 m. notangai trejus metus puolė apsuptą Kroicburgo pilį, o maisto pristigę broliai naktį slapta iš jos pasitraukė.
-- susijęs iš Pripetė: Lietuviams laimėjus mūšį, daug priešų žuvo bėgdami Dnepro ir Pripetės duburiuose.
 - susijęs iš [[objektai/zodynas/duoklė.md#claim-t-185382|duoklė]]: Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikščiui įteikė dvi strėles.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pagrindiniai tokios kariuome-
-    nės ginklai buvo ietys ir kalavijai. Artilerija
-    to meto Lietuvos kariuomenėje dar nevai-
-    dino didesnio savarankiško vaidmens, bet
-    buvo įprastas atributas, kuris mūšio lauke
-    vis dėlto praversdavo. Pašauktinės kariuo-
-    menės silpnąsias savybes (santykinai nedi-
-    delę kovinę patirtį, ne visada patenkinamą
-    discipliną) bandyta kompensuoti samdi-
-    niais - kariais profesionalais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvos kariuomenės dalinių pagrindiniai ginklai buvo ietys ir kalavijai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šių dalinių kovinė vertė buvo
-    menkesnė, bet ir jie sugebėdavo pasireikšti
-    mūšio lauke. Pagrindiniai tokios kariuome-
-    nės ginklai buvo ietys ir kalavijai. Artilerija
-    to meto Lietuvos kariuomenėje dar nevai-
-    dino didesnio savarankiško vaidmens, bet
-    buvo įprastas atributas, kuris mūšio lauke
-    vis dėlto praversdavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas pasakoja, kad Starkateras liepė apsiūti kalaviją plona oda, kad Vizino burtai jo nepaveiktų dvikovoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pirkliavę Danijoje rusai
-    guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
-    jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė
-    jį, pasitelkęs ¡gudrybę. Žinodamas, kad slibinas žvilgsniu
-    užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona
-    oda; taip burtininko akims nepasiekiamas ¡ginklas padėjo
-    jam, nes, pasikliaudamas savo burtais, slibinas nebuvo itin
-    atsargus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-41060
@@ -210,8 +145,7 @@ Nenurodyta
 - id: c-175290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 244"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pirkliavę Danijoje rusai
     guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­

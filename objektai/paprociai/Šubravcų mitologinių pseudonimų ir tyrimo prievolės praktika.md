@@ -57,39 +57,13 @@ Nenurodyta
   teiginys: "Šubravcų draugijos nariai prie „Wiadomošci Brukowe“ rinkosi senovės lietuvių mitologijos pseudonimus ir rinko medžiagą apie tuos personažus."
   pagrindžia:
     - c-172836
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šubravcų draugijos nariai prie „Wiadomošci Brukowe“ rinkosi senovės lietuvių mitologijos pseudonimus ir rinko medžiagą apie tuos personažus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,
-    rašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­
-    nimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar-
-    zystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais
-    personažais. Šios masoniškos draugijos, susispietusios apie sa­
-    tyrinį laikraštį „Wiadomošci Brukowe“ (1816-1822), nariai bu­
-    vo pasirinkę pseudonimus iš senovės lietuvių mitologijos (pvz.,
-    Perkūnas, Poklus, Wajžgantos) ir privalėjo rinkti medžiagą apie
-    mitinius personažus, kurių vardais buvo pasivadinę, kad tuo
-    prisidėtų prie sudarymo lietuvių mitologijos, kuri su laiku ga­
-    lėtų būti draugijos išleista4. Mitinio personažo Palemono var­
-    du buvo pasivadinusi Raseinių masonų lošė5.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172836
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 17"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 17."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,
     rašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­

@@ -57,26 +57,6 @@ Nenurodyta
   teiginys: "Latvija 1921 m. vasario 16 d. pripažino Lietuvą de jure, suteikdama paramą tarptautinės izoliacijos metu."
   pagrindžia:
     - c-22988
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Latvija ir Es-
-    tija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo
-    į Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus
-    regioninio darinio su Lenkija priešakyje. Išnaudodama lietuvių ir lenkų
-    konfliktą savo tikslams Maskva žaidė savo naudai, o tai kenkė ir Baltijos
-    šalių, ir Lenkijos interesams. Tiesa, Latvija 1921 m. vasario 16 d. pripaži-
-    no Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė
-    parama.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

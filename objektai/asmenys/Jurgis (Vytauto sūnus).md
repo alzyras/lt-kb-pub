@@ -43,27 +43,6 @@ Taigi greitai, 1385 metais, mažamečiai Vy­ tauto sūnūs, Jonas ir Jurgis, bu
   teiginys: "Vytauto mažametis sūnus Jurgis 1385 m. buvo nunuodytas Karaliaučiuje kartu su broliu Jonu."
   pagrindžia:
     - c-83719
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytauto mažametis sūnus Jurgis 1385 m. buvo nunuodytas Karaliaučiuje kartu su broliu Jonu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kokios bu­
-    vo šios sutarties pasekmės? Taigi
-    greitai, 1385 metais, mažamečiai Vy­
-    tauto sūnūs, Jonas ir Jurgis, buvo Ka­
-    raliaučiuje nunuodyti! Vytautas ne­
-    vilty dėl savo sūnų netekties puolėsi
-    prie sutarties su Jogaila, visą širdį
-    dėdamas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

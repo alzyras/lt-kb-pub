@@ -43,23 +43,6 @@ Kuczyński, S.
   teiginys: "S. M. Kuczyński 1936 m. Varšuvoje išleido veikalą „Antymoskiewska inicjatywa Litwy w drugiej połowie XIV wieku“."
   pagrindžia:
     - c-29275
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Kuczyński, S. M. : _Antymoskiewska inicjatywa
-    Litwy w drugiej połowie XIV wieku,_ Warszawa 1936. — (”) _Ziemie
-    czernihowsko-siewierskie pod rządami Litwy,_ Warszawa 1936. — Liansko-
-    ronskij, V. : _Russkije pochody v stępi v udel’uo-večervoje vremia i pochod
-    kn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

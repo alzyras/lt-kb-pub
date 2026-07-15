@@ -49,48 +49,6 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
   teiginys: "Dėl Lietuvos istorijos komplikuotumo Lietuvos istorikai nelaikomi kaltais."
   pagrindžia:
     - c-23551
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Patys trokšte troš-
-    kome parašyti būtent tokią Lietuvos istoriją. Tūlas gal pasakys, kad mūsų
-    naratyvas, papasakota istorija, jam pasirodė atverianti per daug aštrių
-    prieštaravimų, gal net per daug kritiška kaimynams. Tačiau toks įspūdis
-    gali darytis tik dėl to, kad būta valstybių, kurios (kartais) labai norėjo
-    „priglobti“ Lietuvą kuo ilgesniam laikui arba tiesiog joje dominuoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau toks įspūdis
-    gali darytis tik dėl to, kad būta valstybių, kurios (kartais) labai norėjo
-    „priglobti“ Lietuvą kuo ilgesniam laikui arba tiesiog joje dominuoti. Au-
-    toriai dėl tokių troškimų Lietuvą matyti kaip savo nuosavybę, taip pat dėl
-    atkaklių lietuvių kovų už savarankiškumą, savo nepriklausomą valstybę,
-    kurie jos tikrai nusipelnė, ją sukūrė ir kelis kartus atkūrė, jokios kaltės
-    nejaučia, o ta kova didžiuojasi, juolab kad senų istorijos reiškinių neiš-
-    kraipo, nekuria, jų nepolitizuoja, o tik pabandė išdėstyti ir paaiškinti, kaip
-    tik sugebėdami aiškiau, naudodami visus naujausius mūsų istoriografijos
-    pasiekimus.
-    Nes dėl Lietuvos istorijos komplikuotumo tikrai kalti ne Lietuvos
-    istorikai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
 
 ## Citatos
 
@@ -136,5 +94,5 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75602
     - t-75600
+    - t-75602

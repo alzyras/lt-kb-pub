@@ -61,67 +61,18 @@ Nenurodyta
     - c-85341
     - c-85343
 
-<a id="claim-t-89385"></a>
-- t-002
-  global_id: t-89385
-  teiginys: "1281 m. Traidenis pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario."
-  pagrindžia:
-    - c-85341
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
-    bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
-    sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
-    (III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
-    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,
-    pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
-    po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui). Tai rodo glaudžius
-    prūsų, jotvingių, lietuvių ir kt. baltų ryšius, jų bendrą kovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  santrauka: '1281 m. Traidenis pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Traidenis (1269—1282 m.), remdamas žiemgalius,
-    telkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
-    bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
-    sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
-    (III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
-    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,
-    pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
-    po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-85341
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 12"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
     bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
     sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
     (III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
-    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,
+    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes,
     pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
     po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui). Tai rodo glaudžius
     prūsų, jotvingių, lietuvių ir kt. baltų ryšius, jų bendrą kovą.
@@ -131,21 +82,19 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89385
     - t-89384
 
 - id: c-85343
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 12"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Traidenis (1269—1282 m.), remdamas žiemgalius,
     telkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
     bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
     sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
     (III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
-    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,
+    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes,
     pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
     po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
   statusas: verified

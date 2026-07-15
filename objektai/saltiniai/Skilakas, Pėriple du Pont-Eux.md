@@ -40,33 +40,13 @@ Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš
   teiginys: "Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)."
   pagrindžia:
     - c-177296
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux).'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Juodąja jūrą pavadino vėliau dėl dažnai virš jos tvy­
-    rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė
-    vyko Argo laivu, taip vadinamu gal dėl jo statytojo, o
-    plaukę kartu jūreiviai buvo vadinami argonautais. Tai
-    buvo 1350 metais iki Kristaus gimimo, 70 metų prieš
-    1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 42"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Juodąja jūrą pavadino vėliau dėl dažnai virš jos tvy­
     rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė

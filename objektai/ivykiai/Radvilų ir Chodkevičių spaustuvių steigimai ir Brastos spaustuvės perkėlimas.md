@@ -58,24 +58,6 @@ Nenurodyta
   teiginys: "1562 m. Radvila Juodasis įkūrė spaustuvę Nesvyžiuje, o 1569 m. Chodkevičiai įsteigė spaustuvę Zabluduve."
   pagrindžia:
     - c-23183
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
-    sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
-    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
-    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
-    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
-    jos pobūdį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

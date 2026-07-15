@@ -42,24 +42,6 @@ Fijalek, J.
   teiginys: "J. Fijalek parašė darbą apie viduramžių Rytų bažnyčios vyskupystes Rusioje ir Lietuvoje."
   pagrindžia:
     - c-32924
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kn. Litovskogo do upadku udel'noj sistemy v litovskoj
-    Rusi,_ Tarnopol 1887. — Chodynicki, K. : _Ze studiów nad dziejopisarst­
-    wem rusko-litevskiem (t. n. rękopis Raudański),_ AW, t. 3, 1925-1926, 387-
-    401 p. — Fijalek, J. : _Średniowieczne biskupstwa kościoła wschodniego
-    na Rusi i Litwie,_ KH, t. 10, 1896, 487-521 p. — Ivinskis, Z. : _Die
-    Handelsbeziehungen Litauens mit Riga im 14.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

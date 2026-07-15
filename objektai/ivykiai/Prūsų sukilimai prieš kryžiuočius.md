@@ -47,24 +47,6 @@ Nenurodyta
   teiginys: "Prūsų sukilimams aprimstant, ordinas kviesdavosi paramą iš Vokietijos ir kitų kraštų, o prūsai būdavo įveikiami."
   pagrindžia:
     - c-02020
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Daug kryžiuočių jos tuomet išžudė, daug or-
-    dino pilių išgriovė; nepajėgė išgriauti tik pačių stipriųjų pilių.
-    Kai sukilimai aprimdavo, ordinas kiekvieną kartą turėdavo iš
-    naujo nugalėti prūsus. Bet šitokiais kritiškais momentais jis pa-
-    sišaukdavo paramos iš Vokietijos ir iš kitų kraštų, ir prūsai bū-
-    davo nuveikiami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

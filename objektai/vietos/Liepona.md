@@ -42,25 +42,6 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 - susijęs iš Šešupė: Sūduvos dykroje siena ėjo Šešupės krantu per girių masyvus, o Šešupės žemupys buvo paliktas Ordinui.
 - susijęs iš Širvinta: Sūduvos dykroje siena ėjo Širvintos krantu iki jos įtekėjimo į Šešupę.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89549|dykra]]: Siena per dykrą ėjo į Preivosto šilus, Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš čia ji tęsėsi vėl per dykrą tiesiai
-    į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius
-    ir Vystyčio ežerą, kuris liko ordino pusėje.
-    Sūduvos dykroje toliau siena buvo nužymėta upių krantais :
-    visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
-    Šešupėn. Šešupės krantu ji ėjo per girių masyvus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33925

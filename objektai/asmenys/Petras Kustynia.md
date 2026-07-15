@@ -44,26 +44,6 @@ Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­ dę „S" turėjęs, 
   teiginys: "Petras Kustynia, lenkas iš Krokuvos ir šv. teologijos daktaras, vyskupu tapo 1415 m. ir mirė 1421 m."
   pagrindžia:
     - c-83806
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Petras Kustynia, lenkas iš Krokuvos ir šv. teologijos daktaras, vyskupu tapo 1415 m. ir mirė 1421 m.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    4. Mikalojus Gožkovskis, lenkas, šv. teologijos daktaras, kry­
-    žiaus ženklo antspaudą dėdavęs, buvo vyskupu nuo 1408 m.
-    iki 1414 m.5
-    5. Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­
-    dę „S" turėjęs, šv. teologijos daktaras, vyskupu tapo 1415 m.,
-    mirė 1421 m.
-    6.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

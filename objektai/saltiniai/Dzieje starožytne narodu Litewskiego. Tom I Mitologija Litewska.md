@@ -8,12 +8,12 @@ datos:
   - '1836 m.'
 date_start: '1835'
 date_end: '1836'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,8 @@ T. Narbuto „Lietuvių mitologija“ 1835 ir 1836 m. sulaukė dviejų didelių 
   teiginys: "T. Narbuto „Lietuvių mitologija“ 1835 ir 1836 m. sulaukė dviejų didelių oficialių recenzijų."
   pagrindžia:
     - c-173394
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'T. Narbuto „Lietuvių mitologija“ 1835 ir 1836 m. sulaukė dviejų didelių oficialių recenzijų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -71,15 +71,22 @@ T. Narbuto „Lietuvių mitologija“ 1835 ir 1836 m. sulaukė dviejų didelių 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    55
-
-    ## Puslapis 55
-
-    Pirmoji reakcija. Oficialūs atgarsiai į T. Narbuto „Lietu­
-    vių mitologiją“ pasirodė netrukus, t. y. tais pačiais 1835 ir ki­
-    tais 1836 metais. Tai buvo dvi didelės recenzijos: pirmoji iš­
-    spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­
-    roji -  oficioze „Tygodnik Petersburski“.
+    Kaip ir įprasta kiekvie­
+    nam tokio pobūdžio rašiniui, recenzentas iš pradžių nurodė
+    teigiamąsias „Mitologijos“ puses: „Nors autorius ir ne vienas
+    pats stojo Lietuvos istorijos tyrinėjimų srityje (kaip jis nori tvir­
+    tinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus
+    Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę
+    jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai dide­
+    lis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios
+    buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas,
+    taip pat skambėjo įvairiuose to krašto padavimuose. Jau vien
+    dėl šios priežasties jo darbas tapo reikšminga medžiaga, kad
+    kada nors būtų parašyta tikra (pabr. mano - R. G.) Lietuvos
+    istorija“20. Recenzento nuomone, T. Narbuto „Lietuvių mito­
+    18 Dzieje starožytne narodu Litewskiego przez Teodora Narbut-
+    ta.
+  citata_rodoma: "55\n\n## Puslapis 55\n\nPirmoji reakcija. Oficialūs atgarsiai į T. Narbuto „Lietu­\nvių mitologiją“ pasirodė netrukus, t. y. tais pačiais 1835 ir ki­\ntais 1836 metais. Tai buvo dvi didelės recenzijos: pirmoji iš­\nspausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­\nroji -  oficioze „Tygodnik Petersburski“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

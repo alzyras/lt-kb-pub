@@ -40,29 +40,13 @@ Dusburgietis teigia, kad [Powierski J.] Pogezania.— SSS, Wrocław—Warszawa�
   teiginys: "J. Powierskio straipsnis „Pogezania“ publikuotas SSS 1970 m. 4 tomo 1 dalyje."
   pagrindžia:
     - c-61883
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Powierskio straipsnis „Pogezania“ publikuotas SSS 1970 m. 4 tomo 1 dalyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    [Powierski J.] Pogezania.— SSS, Wrocław—Warszawa—Kraków, 1970, t. 4, cz. 1, s.
-    175—176.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61883
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     [Powierski J.] Pogezania.— SSS, Wrocław—Warszawa—Kraków, 1970, t. 4, cz. 1, s.
     175—176.

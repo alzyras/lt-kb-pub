@@ -40,7 +40,6 @@ Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko
 - susijęs iš Istachrio Abu Izaoko al Farisi žemėlapiai: Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko al Farisi žemėlapių, tarp jų Armėnijos žemėlapį su Araksu, vadinamu Nahr-Russ.
 - susijęs iš [[objektai/autoriai/Kruzė.md#claim-t-191678|Kruzė]]: Narbutas rėmėsi Dorpato universiteto profesoriaus Kruzės nuomone apie Gotos bibliotekoje aptiktus Istachrio geografijos žemėlapius.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -72,18 +71,18 @@ Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    260
-
-    ## Puslapis 260
-
-    II skyrius
-    ŠVENTOSIOS VIETOS
-    Šventieji kalnai, Kalnas
-    Iš seniausios istorijos žinoma, kad senovės tautos atnašau­
-    davo dievams aukas ant aukštumų. Mat jos įsivaizdavo, kad
-    dievybės gyvenančios aukštai danguje, todėl jos, atnašauda-
-    mos aukas ant kalno, manė, kad taip priartėja prie jų. Abrao­
-    mas ėjo ant kalno aukoti Izaoko.
+    Pirmieji misionieriai - pran­
+    ciškonai ant jo pastatė tris kryžius, kaip savo misijos ženklą;
+    1365 metais* septyni iš jų buvo ant to kalno nukryžiuoti ir nu­
+    mesti į Vilnią. Tad, jeigu kalnas būtų šventas stabmeldystės
+    prasme, šito nebūtų darę, nes nedrįsdavo suteršti šventos vie­
+    tos kokia nors žmogžudyste.
+    Šventieji miškeliai, Ernas?
+    Seniausiais amžiais, kai miškai, dengiantys žemę, buvo
+    žmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra­
+    žumu ir malonia aplinka, būdavo draugiškų sueigų vieta; tai
+    ten gyvendavo pirmieji tautų vadai ir drauge pirmieji žyniai.
+  citata_rodoma: "260\n\n## Puslapis 260\n\nII skyrius\nŠVENTOSIOS VIETOS\nŠventieji kalnai, Kalnas\nIš seniausios istorijos žinoma, kad senovės tautos atnašau­\ndavo dievams aukas ant aukštumų. Mat jos įsivaizdavo, kad\ndievybės gyvenančios aukštai danguje, todėl jos, atnašauda-\nmos aukas ant kalno, manė, kad taip priartėja prie jų. Abrao­\nmas ėjo ant kalno aukoti Izaoko."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

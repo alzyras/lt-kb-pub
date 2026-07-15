@@ -44,26 +44,6 @@ Jono Kuklierio kūno 1920 m.
   pagrindžia:
     - c-44383
 - susijęs iš Vidugiriai: 1920 m. rugsėjo 22 d. leitenantas Jonas Kuklieris buvo žuvęs mūšyje netoli Vidugirio kaimo.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    | mir bataliono kariai sustoję žiūrėjo į seniai bematy-
-    | tąjį 1 batalioną. Tuojau pasirodė ir pulko vadas pulkininkas
-
-    1920 m. rugsėjo 22 d. 6-ojo pėstininkų pulko kariai prie žuvusio
-    mūšyje netoli Vidugirio kaimo Itn. Jono Kuklierio kūno
-
-    1920 m. liepa-rugsėjis AUGUSTAVO-SUVALKŲ OPERACIJA 201
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44383

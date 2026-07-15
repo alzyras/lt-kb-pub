@@ -25,6 +25,9 @@ Objektų skaičius: 106.
 
 ## Susiję objektai
 
+### Vietos
+- [[objektai/vietos/Veližas]]
+
 ### Įvykiai
 - [[objektai/ivykiai/1379 m. Trakų 10 metų paliaubos su ordinu]]
 - [[objektai/ivykiai/1381 m. kryžiuočių puolimai Kęstučio valdose]]
@@ -50,7 +53,7 @@ Objektų skaičius: 106.
 - [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]
 - [[objektai/ivykiai/Gedimino prekybinė sutartis su Livonija (1338 m.)]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
-- [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.)]]
+- [Gedimino sąjunga su Lenkija (1325 m.)](../objektai/ivykiai/Gedimino%20s%C4%85junga%20su%20Lenkija%20%281325%20m.%29)
 - [Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)](../objektai/ivykiai/Gedimino%20taika%20su%20Lenkija%20ir%20Aldonos%20vedybos%20%281325%20m.%29)
 - [Gedimino taikos sutartis su Livonija (1322 m.)](../objektai/ivykiai/Gedimino%20taikos%20sutartis%20su%20Livonija%20%281322%20m.%29)
 - [Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)](../objektai/ivykiai/Jaunu%C4%8Dio%20nuvertimas%20Vilniuje%20%281345%20m.%20lapkri%C4%8Dio%2022%20d.%29)
@@ -119,7 +122,6 @@ Objektų skaičius: 106.
 - [T. Narbuto ir A. Marcinovskio sutarties dėl LTI leidimo sudarymas (sutartis)](../objektai/ivykiai/T.%20Narbuto%20ir%20A.%20Marcinovskio%20sutarties%20d%C4%97l%20LTI%20leidimo%20sudarymas)
 - [Taika su Sovietų Rusija (1920 m. liepos 12 d.)](../objektai/ivykiai/Taika%20su%20Soviet%C5%B3%20Rusija%20%281920%20m.%20liepos%2012%20d.%29)
 - [Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)](../objektai/ivykiai/Taikos%20atk%C5%ABrimas%20tarp%20Sventopelko%20ir%20broli%C5%B3%20%281246%20m.%29)
-- [Taikos susitarimas su Prūsijos magistru Albrechtu ir jo paskelbimas Prūsijos kunigaikščiu](../objektai/ivykiai/Taikos%20susitarimas%20su%20Pr%C5%ABsijos%20magistru%20Albrechtu%20ir%20jo%20paskelbimas%20Pr%C5%ABsijos%20kunigaik%C5%A1%C4%8Diu)
 - [Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m](../objektai/ivykiai/Teodoriko%20ir%20Odoakro%20taika%2C%20Odoakro%20nu%C5%BEudymas%20ir%20Ravenos%20herul%C5%B3%20skerdyn%C4%97s%20493%20m)
 - [Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)](../objektai/ivykiai/Vaclovo%20Pragie%C4%8Dio%20sprendimas%20ir%20vieneri%C5%B3%20met%C5%B3%20paliaubos%20su%20Ordinu%20%281409%20m.%29)
 - [Vasilijaus taikos prašymas ir taika su maskvėnais](../objektai/ivykiai/Vasilijaus%20taikos%20pra%C5%A1ymas%20ir%20taika%20su%20maskv%C4%97nais)

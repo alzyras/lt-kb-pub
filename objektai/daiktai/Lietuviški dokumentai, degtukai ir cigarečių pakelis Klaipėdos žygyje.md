@@ -61,22 +61,6 @@ Nenurodyta
   teiginys: "1923 m. sausio 9 d. civiliai aprengti 1 050 Lietuvos savanorių peržengė sieną be lietuviškų dokumentų, degtukų ar cigarečių pakelių."
   pagrindžia:
     - c-22259
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1923 m. sausio 9 d. civiliai aprengti 1 050 Lietuvos savanorių peržengė sieną be lietuviškų dokumentų, degtukų ar cigarečių pakelių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sausio 9-ąją civiliai aprengti 1 050 Lietuvos savanorių, kurių
-    kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų
-    ar cigarečių pakelio, peržengė sieną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

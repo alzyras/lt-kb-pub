@@ -66,49 +66,6 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   teiginys: "1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko."
   pagrindžia:
     - c-14180
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Ordinas grąžintų žemes iki Deimės ir Alės upių ir keltųsi kovoti su totoriais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    bergan pas ciesorių Karolių IV vieną savo giminaitį tartis dėl
-    priėmimo krikščionių tikėjimo. Iš savo pusės, sutikdami apsi­
-    krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­
-    tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­
-    lius bei Kuršius Livonijoje. Kadangi Lietuvai apsikrikštijus
-    Ordino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,
-    tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
-    nuo totorių užpuldinėjimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tiesa, 1358 met.
-    jie patys Niurnbergo imperijos seimui buvo pasisiūlę
-    apsikrikštyti, bet to nepadarė, o tik pasiuntė imperatoriui Ka­
-    roliui IV raštą, kuriame nurodo savo krikšto sąlygas: teati­
-    duoda Ordinas Lietuvai Prūsų kraštą iki Deines ir Alės upių,
-    o pats tegu persikelia į Rusijos pietus kovoti su totoriais, nes
-    Lietuvai apsikrikštijus, Ordinui Pabaltėje būti nebėr pras­
-    mės.^5 ). Žinoma, abu kunigaikščiai iš kalno labai gerai žinojo,
-    kad tokios sąlygos deryboms netinka. Tai buvo jų tik tam
-    tikras politikos manevras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

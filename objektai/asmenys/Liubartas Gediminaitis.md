@@ -49,24 +49,6 @@ O mirus senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų ka
 - susijęs iš A. Presnjakov Obrazovanie velikorusskogo gosudarstva: A. Presnjakovo „Obrazovanie velikorusskogo gosudarstva“ išleista Petrograde 1918 m.
 - susijęs iš H. Paszkiewicz Ze studiów uad polityką polską, litewską i krzyżacką Bolesława-Jerzego, ostatniego księcia Rusi halicko-włodzimierskiej: H. Paszkiewicziaus „Ze studiów nad polityką polską, litewską i krzyżacką Bolesława-Jerzego“ paskelbta AW 2 tome 1924 m., p. 31–67.
 - susijęs iš Jaunutis, Gedimino sūnus: „Jaunutis, Gedimino sūnus“ nurodytas LE 9 tome, 355–356 puslapiuose.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1384 m. vasarą jis buvo gavęs dalį tėvo valdų, būtent, Gardiną,
-    Lietuvos Brastą ir Palenkę su Drohičinu ir Mielniku^8. O mirus
-    senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų
-    kažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­
-    valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32786

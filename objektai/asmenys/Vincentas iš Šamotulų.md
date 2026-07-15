@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą. Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė suversti vežimus po ledu ir atlaisvinti kelią kitiems būriams.
+Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą. Vincentas iš Šamotulų su visa kariuomene patraukė į Lenkiją.
 
 ## Teiginiai
 
@@ -36,61 +36,19 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   pagrindžia:
     - c-169449
 
-<a id="claim-t-186089"></a>
+<a id="claim-t-196628"></a>
 - t-002
-  global_id: t-186089
-  teiginys: "Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė suversti vežimus po ledu ir atlaisvinti kelią kitiems būriams."
+  global_id: t-196628
+  teiginys: "Vincentas iš Šamotulų su visa kariuomene patraukė į Lenkiją."
   pagrindžia:
     - c-169450
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Neti­
-    kėtai užpuolęs Podolę, jis netruko ją sugrąžinti Boles­
-    lovui. Karalius, norėdamas sustabdyti priešą, skubiai
-    atvyko į Lvovą, o iš ten išsiuntė priešais Fiodorą Vin­
-    centą iš Šamotulų, Rusios vaivadą. Fiodoras, su leng­
-    vąja rusų, valachų bei skitų raitija labiau linkęs pa­
-    salas rengti, nei stoti į atvirą kovą, vengė susidurti su
-    Šamotulskiu akis į akį, tačiau, puldinėdamas iš tolo,
-    vargino ir alino lenkus, Šamotulskis, patraukęs su pa­
-    grindinėmis jėgomis į priekį, be vargo atsiėmė vieną
-    kitą pražygiuojamą pilį ir priartėjo prie Braclavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė suversti vežimus po ledu ir atlaisvinti kelią kitiems būriams.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Prasidėjo smar­
-    ki kova. Šamotulskis, atsidūręs dvigubame pavojuje,
-    įsakė kuo greičiausiai suversti nuo perkėlos vežimus
-    po ledu ir padaryti kelią kitiems būriams. Plaukte per­
-    plaukęs upę, jis ir pats stojo į kovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-169449
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 443"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 443."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Neti­
     kėtai užpuolęs Podolę, jis netruko ją sugrąžinti Boles­
@@ -113,17 +71,19 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
 - id: c-169450
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 444"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 444."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Prasidėjo smar­
-    ki kova. Šamotulskis, atsidūręs dvigubame pavojuje,
-    įsakė kuo greičiausiai suversti nuo perkėlos vežimus
-    po ledu ir padaryti kelią kitiems būriams. Plaukte per­
-    plaukęs upę, jis ir pats stojo į kovą.
+    Štai todėl
+    Šamotulskis ir patraukė su visa kariuomene į Lenkiją.
+    Nenorėdamas praleisti progos tinkamu metu susikauti,
+    Fiodoras lydėjo atsitraukiančius lenkus, bet taip tyliai,
+    kad tie nė nejuto, jog rusai jiems lipa ant kulnų. Len­
+    kams beliko įveikti Murafos upę, tekančią tankiomis
+    4 45
+  citata_rodoma: "Štai todėl \nŠamotulskis ir patraukė su visa kariuomene į Lenkiją. \nNenorėdamas praleisti progos tinkamu metu susikauti, \nFiodoras lydėjo atsitraukiančius lenkus, bet taip tyliai, \nkad tie nė nejuto, jog rusai jiems lipa ant kulnų. Len­\nkams beliko įveikti Murafos upę, tekančią tankiomis\n4 45\n\ngiriomis tarp žemų nendrėtų krantų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186089
+    - t-196628

@@ -40,24 +40,6 @@ Tuo būdu tais pat 1566 m. Gardino seime buvo sudaryta nauja sutartis, kuria Liv
   teiginys: "1566 m. Gardino seime sudaryta sutartimi Livonija tapo Lietuvos provincija su kunigaikštystės titulu."
   pagrindžia:
     - c-01553
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu tais pat 1566 m. Gardino seime buvo su-
-    daryta nauja sutartis, kuria Livonija pasidarė Lietuvos provin-
-    cija su kunigaikštystės titulu. Ji gavo teisę savo atstovus lygiai
-    su visomis Lietuvos provincijomis siųsti į Lietuvos seimą. Len-
-    kai be galo buvo pasipiktinę dėl šito lietuvių laimėjimo; jie nuo-
-    lat reikalavo, kad Livonija lygia dalia ir jiems priklausytų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

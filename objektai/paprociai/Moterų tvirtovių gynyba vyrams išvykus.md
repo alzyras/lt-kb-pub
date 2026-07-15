@@ -56,37 +56,16 @@ Nenurodyta
   teiginys: "Vyrams išvykus, moterys prisisegdavo kalavijus, stodavo ant sienų ir savo drąsa apgindavo tvirtoves nuo praradimo."
   pagrindžia:
     - c-60440
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vyrams išvykus, moterys prisisegdavo kalavijus, stodavo ant sienų ir savo drąsa apgindavo tvirtoves nuo praradimo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
-    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip
-    ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
-    Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
-    pasitraukė sugėdintas. Nemanyk, kad šitaip nutiko čia vieną kartą, šitaip dažnai buvo
-    ir kitose vietose, kur, vyrams išvykus, tvirtovės būtų buvusios prarastos, jeigu moterų
-    drąsa jų nebūtų apgynusi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60440
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 93"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 93."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
-    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip
+    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo į sienas, taip
     ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
     Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
     pasitraukė sugėdintas. Nemanyk, kad šitaip nutiko čia vieną kartą, šitaip dažnai buvo

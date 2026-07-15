@@ -37,35 +37,6 @@ Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkinink
   pagrindžia:
     - c-167161
 
-<a id="claim-t-41586"></a>
-- t-002
-  global_id: t-41586
-  teiginys: "Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė ežeru."
-  pagrindžia:
-    - c-167161
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė ežeru.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šis ginklas buvo vienas
-    mėgstamiausių tarp partizanų ir buvo jų pramintas „dešimtuku“ (pagal šovinių dėtuvės talpą)
-
-    patikrinti. Pritrūkus valčių, enkavėdistai
-    nulupo Aleknonių ir Žuvinto kaimų ūki-
-    ninkų kluonų duris ir jomis kaip plaustais
-    plaukė ežeru. Partizanai be paliovos juos
-    apšaudė ir granatomis skandino.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-167161
@@ -86,5 +57,4 @@ Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183773
     - t-41586

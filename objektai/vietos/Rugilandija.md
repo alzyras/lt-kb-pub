@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi Noriko dalyje, kurią pavadino Rugilandija.
+Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi Noriko dalyje, kurią pavadino Rugilandija. Didžiausia herulų dalis pasitraukė prie Dunojaus, kur ketino apsigyventi šalia rugių arba toje Noriko dalyje, kurią pavadino Rugilandija.
 
 ## Teiginiai
 
@@ -35,22 +35,28 @@ Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi N
   teiginys: "Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi Noriko dalyje, kurią pavadino Rugilandija."
   pagrindžia:
     - c-175667
+
+<a id="claim-t-197920"></a>
+- t-002
+  global_id: t-197920
+  teiginys: "Didžiausia herulų dalis pasitraukė prie Dunojaus, kur ketino apsigyventi šalia rugių arba toje Noriko dalyje, kurią pavadino Rugilandija."
+  pagrindžia:
+    - c-175667
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-192409|Herulai]]: Po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus, ketindama apsigyventi šalia rugių arba Noriko Rugilandijoje.
 - susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191045|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje.
 - susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191045|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-192409|Herulai]]: Po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus, ketindama apsigyventi šalia rugių arba Noriko Rugilandijoje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi Noriko dalyje, kurią pavadino Rugilandija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Lietuvių genčių likimai po kovo skerdynių Ra-
-    venoje buvo įvairūs. Didžiausia herulų dalis pasitraukė
+    Didžiausia herulų dalis pasitraukė
     prie Dunojaus, kur ketino apsigyventi šalia rugių arba
     toje Noriko dalyje, kurią pavadino Rugilandija. Savo kai­
     mynystėje jie rado longobardus ir ėmė savintis tam tikrą
-    jų valdžią.
+    jų valdžią. Tai buvo germanų gentis, klajojusi ir dyki­
+    nėjusi, be to, visiškai negausi, bet pernelyg karinga.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -58,24 +64,29 @@ Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi N
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-175667
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 324"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Lietuvių genčių likimai po kovo skerdynių Ra-
-    venoje buvo įvairūs. Didžiausia herulų dalis pasitraukė
+    Didžiausia herulų dalis pasitraukė
     prie Dunojaus, kur ketino apsigyventi šalia rugių arba
     toje Noriko dalyje, kurią pavadino Rugilandija. Savo kai­
     mynystėje jie rado longobardus ir ėmė savintis tam tikrą
-    jų valdžią.
+    jų valdžią. Tai buvo germanų gentis, klajojusi ir dyki­
+    nėjusi, be to, visiškai negausi, bet pernelyg karinga. He-
+    rulai su jiems būdingu pasipūtimu įžeidė nepriklauso­
+    mus longobardus, linkusius paklusti savo valia, o ne
+    prievarta.
+  citata_rodoma: "Didžiausia herulų dalis pasitraukė \nprie Dunojaus, kur ketino apsigyventi šalia rugių arba \ntoje Noriko dalyje, kurią pavadino Rugilandija. Savo kai­\nmynystėje jie rado longobardus ir ėmė savintis tam tikrą \njų valdžią. Tai buvo germanų gentis, klajojusi ir dyki­\nnėjusi, be to, visiškai negausi, bet pernelyg karinga."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192897
+    - t-197920

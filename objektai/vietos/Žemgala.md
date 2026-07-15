@@ -44,53 +44,12 @@ Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma a
     - c-177335
 - susijęs iš Kuršas: Narbutas pritarė Ksaverui Bogušui, kad islandų sagų chorai arba churai suprastini kaip kuršiai.
 - susijęs iš Kuršas: Narbutas pritarė Ksaverui Bogušui, kad islandų sagų chorai arba churai suprastini kaip kuršiai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma atskira kunigaikštyste.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau apie
-    XIII amžių jie turėjo savo valdovą1, ir todėl ši provin­
-    cija visuomet buvo laikoma atskira kunigaikštyste, va­
-    dinama Žemgala. Jos teritoriją sudaro Mituvos (Jelga­
-    vos) ir Selburgo (Sėlpilio) valsčiai. Šioje lietuvių žemės
-    vietoje toliausiai į jūrą nusidriekusi sausuma, todėl ji
-    buvo pavadinta žemės galu — Zeme-galo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Iš tikrųjų lai buvo žemgalių gentys.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Iš akivaizdžių Mituvos apskrities skirtumų nuo kitų ša­
-    lies dalių reikėtų manyti, jog šiaurinėje dalyje gyveno
-    doblėnai, Dobleny, rytinėje — mechotėnai, Mechoteny, vi­
-    durinėje — kuršiai, Kurszovoy, o pietinėje — tervitėnai,
-    Tenvitenny. Iš tikrųjų lai buvo žemgalių gentys. Selonės
-    apskrity gyveno šeloniečių, Selonczycy, tauta — taip pat
-    žemgaliai'2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-175576
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 287"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau apie
     XIII amžių jie turėjo savo valdovą1, ir todėl ši provin­
@@ -109,8 +68,7 @@ Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma a
 - id: c-177335
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 287"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš akivaizdžių Mituvos apskrities skirtumų nuo kitų ša­
     lies dalių reikėtų manyti, jog šiaurinėje dalyje gyveno

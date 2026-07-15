@@ -35,20 +35,6 @@ Tuskenis.
   teiginys: "E. Tuskenis redagavo leidinį „Lithuania in European Politics“."
   pagrindžia:
     - c-22127
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
-    politics.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

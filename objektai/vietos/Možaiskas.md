@@ -51,29 +51,22 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   pagrindžia:
     - c-168414
 
-<a id="claim-t-185054"></a>
-- t-003
-  global_id: t-185054
-  teiginys: "Žygūnas per naktines pamaldas pranešė kunigaikščiui, kad priešą paliko Možaiske."
-  pagrindžia:
-    - c-168415
-
 <a id="claim-t-185055"></a>
-- t-004
+- t-003
   global_id: t-185055
   teiginys: "Pagal taikos sąlygas Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės."
   pagrindžia:
     - c-168416
 
 <a id="claim-t-185056"></a>
-- t-005
+- t-004
   global_id: t-185056
   teiginys: "Pirmoji pasiuntinybė patraukė į Možaiską tik gavusi žinią, kad karaliaus legatai yra Smolenske."
   pagrindžia:
     - c-168417
 
 <a id="claim-t-185057"></a>
-- t-006
+- t-005
   global_id: t-185057
   teiginys: "Vasilijus įsakė sulaikyti karaliaus pasiuntinius Možaiske, kai Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą."
   pagrindžia:
@@ -104,145 +97,8 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 - susijęs iš Rusia: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
 - susijęs iš Ugros upė: Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upės.
 - susijęs iš Viazmos žemė: Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę.
-- susijęs iš Vilnius: Algirdo laikais Lietuvos sostinė kelis kartus buvo žiauriai nuniokota, bet valdovas išgelbėdavo Vilnių nuo visiškos pražūties.
 - susijęs iš Lietuva: Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.
 - susijęs iš Petro Korkono 1621 m. raštas apie Goštauto liepą: Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tad Maskva
-    galėjo laisvai veikti. Pirmiausia ji privertė savo valdžiai pasi-
-    duoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-
-    vas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio
-    (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
-    Maskvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Žvalgams pranešus apie netoliese esantį Možaiską, Algirdas surikiavo karius kautynių tvarka ir išvedė į vieškelį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Visiems įsakė nieko nedeginti ir
-    nieko neniokoti; gyventojus leido skriausti tik tada,
-    kai reikėjo gauti maisto bei pašaro. Kai žvalgai pra­
-    nešė, jog netoliese esąs didelis miestas Možaiskas, Al­
-    girdas, leidęs kariams šiek tiek pailsėti, surikiavo juos
-    kautynių tvarka ir išvedė į atvirą vieškelį. Tada, pasi­
-    kvietęs žygūną (šis ligi tol nežinojo, kas su juo da­
-    roma ir kur esąs atvežtas), įteikė jam deglą ir pasakė
-    šitokius žodžius: tegu jis nešąs nelyginant laišką ir
-    dovaną savo valdovui šį deglą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Žygūnas per naktines pamaldas pranešė kunigaikščiui, kad priešą paliko Možaiske.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nuo
-    stovyklos iki Maskvos bebuvo likę dar aštuoniolika
-    mylių, tačiau kariai šį kelią taip greitai, regis, pusris-
-    čia sukorė, kad žygūnas tik keliomis valandomis pra­
-    lenkė iš paskos sekančią kariuomenę. Tą pačią naktį,
-    skirtą paminėti Kristaus iš numirusių prisikėlimui ir
-    krikščionių kasmet iškilmingai švenčiamą, kai kuni­
-    gaikštis ėjo bažnyčion į naktines pamaldas, prie jo
-    pribėgo žygūnas, pasakė, kas jam buvo liepta, ir pra­
-    nešė, kad priešą palikęs Možaiske. Nesunku atspėti,
-    224
-
-    ## Puslapis 223
-
-    koks sąmyšis kilo tarp žmonių, kai pasklido gandai
-    apie tokį netikėtą pavojų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Pagal taikos sąlygas Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­
-    jojo visokių netikėtumų, ir lietuvis norėjo laiku iš­
-    vengti visokių atsitiktinumų, jie be didelio vargo su­
-    tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi­
-    mas žymiausiųjų palydovų ir
-    T a ik o s ta ip  m a s k v ė -
-    bajorų, įžengsiąs į miestą ne­
-    rių ir A lg ir d o  s ą ly g o s
-    lyginant draugas; tarsi nuga­
-    lėtojas jis įsmeigsiąs ietį į
-    pilies vartus. Lietuvos sienos būsiančios praplėstos li­
-    gi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­
-    reiviams algą, o vadui — karo išlaidas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Pirmoji pasiuntinybė patraukė į Možaiską tik gavusi žinią, kad karaliaus legatai yra Smolenske.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Suderinę su karaliumi savo planus,
-    popiežiaus, imperatoriaus bei Romos karaliaus pasiun­
-    tiniai pirmieji iškeliavo į Maskvos kunigaikštystę, kur
-    iš paskos turėjo leistis ir karaliaus legatai, turėję tol
-    laukti pasienyje, kol jiems būsią leista įžengti į Mask­
-    vos žemę. Pirmoji pasiuntinybė patraukė į Možaiską
-    tik tada, kai gavo žinią, jog karaliaus legatai Smo­
-    lenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
-    jųjų metų nepradėta kalbėtis dėl taikos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Vasilijus įsakė sulaikyti karaliaus pasiuntinius Možaiske, kai Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Be to, sutarė teismų reikalus sutvarkyti iki
-    garsios Rusioje palaimintosios mergelės globėjos šven­
-    tės, sutikdamas, kad teismo posėdžiuose dalyvautų
-    Mackevičius. Karaliaus legatai jau keliavo namo, kai
-    Maskvą pasiekė žinia, jog valachų pasiuntiniai sulai­
-    kyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas
-    palydovas maskvėnas gavęs įsakymą grįžti į Maskvą.
-    Pritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­
-    liaus pasiuntinius Možaiske.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 ## Citatos
 
 - id: c-02850
@@ -267,8 +123,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 - id: c-168414
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 222"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 222."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Visiems įsakė nieko nedeginti ir
     nieko neniokoti; gyventojus leido skriausti tik tada,
@@ -279,7 +134,11 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     kvietęs žygūną (šis ligi tol nežinojo, kas su juo da­
     roma ir kur esąs atvežtas), įteikė jam deglą ir pasakė
     šitokius žodžius: tegu jis nešąs nelyginant laišką ir
-    dovaną savo valdovui šį deglą.
+    dovaną savo valdovui šį deglą. Tegul jam sakąs, jog
+    štai jis atleidžiąs Maskvos kunigaikštį nuo varganos
+    kelionės ligi Vilniaus, o pats anksčiau atvyksiąs į
+    Maskvą, nei sudegsiąs šis deglas.
+  citata_rodoma: "Visiems įsakė nieko nedeginti ir\nnieko neniokoti; gyventojus leido skriausti tik tada,\nkai reikėjo gauti maisto bei pašaro. Kai žvalgai pra­\nnešė, jog netoliese esąs didelis miestas Možaiskas, Al­\ngirdas, leidęs kariams šiek tiek pailsėti, surikiavo juos\nkautynių tvarka ir išvedė į atvirą vieškelį. Tada, pasi­\nkvietęs žygūną (šis ligi tol nežinojo, kas su juo da­\nroma ir kur esąs atvežtas), įteikė jam deglą ir pasakė\nšitokius žodžius: tegu jis nešąs nelyginant laišką ir\ndovaną savo valdovui šį deglą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -287,53 +146,26 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   pagrindzia:
     - t-185053
 
-- id: c-168415
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Nuo
-    stovyklos iki Maskvos bebuvo likę dar aštuoniolika
-    mylių, tačiau kariai šį kelią taip greitai, regis, pusris-
-    čia sukorė, kad žygūnas tik keliomis valandomis pra­
-    lenkė iš paskos sekančią kariuomenę. Tą pačią naktį,
-    skirtą paminėti Kristaus iš numirusių prisikėlimui ir
-    krikščionių kasmet iškilmingai švenčiamą, kai kuni­
-    gaikštis ėjo bažnyčion į naktines pamaldas, prie jo
-    pribėgo žygūnas, pasakė, kas jam buvo liepta, ir pra­
-    nešė, kad priešą palikęs Možaiske. Nesunku atspėti,
-    224
-
-    ## Puslapis 223
-
-    koks sąmyšis kilo tarp žmonių, kai pasklido gandai
-    apie tokį netikėtą pavojų.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185054
-
 - id: c-168416
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­
     jojo visokių netikėtumų, ir lietuvis norėjo laiku iš­
     vengti visokių atsitiktinumų, jie be didelio vargo su­
     tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi­
     mas žymiausiųjų palydovų ir
-    T a ik o s ta ip  m a s k v ė -
+    T a ik o s ta ip m a s k v ė -
     bajorų, įžengsiąs į miestą ne­
-    rių ir A lg ir d o  s ą ly g o s
+    rių ir A lg ir d o s ą ly g o s
     lyginant draugas; tarsi nuga­
     lėtojas jis įsmeigsiąs ietį į
     pilies vartus. Lietuvos sienos būsiančios praplėstos li­
     gi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­
-    reiviams algą, o vadui — karo išlaidas.
+    reiviams algą, o vadui — karo išlaidas. Abiejų tautų
+    priesaika turinti sustiprinti amžinąją taiką.
+  citata_rodoma: "Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­\njojo visokių netikėtumų, ir lietuvis norėjo laiku iš­\nvengti visokių atsitiktinumų, jie be didelio vargo su­\ntarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi­\nmas žymiausiųjų palydovų ir\nT a ik o s ta ip  m a s k v ė -\nbajorų, įžengsiąs į miestą ne­\nrių ir A lg ir d o  s ą ly g o s\nlyginant draugas; tarsi nuga­\nlėtojas jis įsmeigsiąs ietį į\npilies vartus. Lietuvos sienos būsiančios praplėstos li­\ngi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­\nreiviams algą, o vadui — karo išlaidas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -344,18 +176,28 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 - id: c-168417
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 651"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 651."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Suderinę su karaliumi savo planus,
-    popiežiaus, imperatoriaus bei Romos karaliaus pasiun­
-    tiniai pirmieji iškeliavo į Maskvos kunigaikštystę, kur
-    iš paskos turėjo leistis ir karaliaus legatai, turėję tol
-    laukti pasienyje, kol jiems būsią leista įžengti į Mask­
-    vos žemę. Pirmoji pasiuntinybė patraukė į Možaiską
-    tik tada, kai gavo žinią, jog karaliaus legatai Smo­
-    lenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
-    jųjų metų nepradėta kalbėtis dėl taikos.
+    Galop
+    Vasilijus per karaliaus pasiuntinį Bonfalą Dimitrovičių
+    taip surašė laišką, kaip visuomet daro maskvėnai, tai
+    yra saviškius išteisindamas, o visą bėdą suversdamas
+    karaliaus pasiuntiniams. Jis tvirtino, kad, rūpestingai
+    susipažinus su visu reikalu, ir jam, ir jo vaivadoms
+    bei patarėjams paaiškėjo, kad maskvėnai nieko nėra
+    skriaudę, bet patys buvę daug kartų skriaudžiami, jo
+    vaivados gynę nuskriaustųjų teises, tuo tarpu kara­
+    liaus atstovai nenorį jo nei suprasti, nei pripažinti.
+    Be to, paprašė karalių nutraukti visiems laikams nuo­
+    latinius ginčus ir atsiųsti įgaliotus legatus, kurie ga­
+    lop susitartų dėl taikos ir tikrų abiejų tautų sienų.
+    rim a s
+    su
+    P rū sijo s
+    siuntimą į Maskvą vėlesniam
+    atsiųsti legatus, ta pačia proga nusiskųsdamas dėl nau­
+    jų skriaudų.
+  citata_rodoma: "Suderinę su karaliumi savo planus,\npopiežiaus, imperatoriaus bei Romos karaliaus pasiun­\ntiniai pirmieji iškeliavo į Maskvos kunigaikštystę, kur\niš paskos turėjo leistis ir karaliaus legatai, turėję tol\nlaukti pasienyje, kol jiems būsią leista įžengti į Mask­\nvos žemę. Pirmoji pasiuntinybė patraukė į Možaiską\ntik tada, kai gavo žinią, jog karaliaus legatai Smo­\nlenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­\njųjų metų nepradėta kalbėtis dėl taikos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -366,18 +208,36 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 - id: c-168418
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 656"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 656."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Be to, sutarė teismų reikalus sutvarkyti iki
-    garsios Rusioje palaimintosios mergelės globėjos šven­
-    tės, sutikdamas, kad teismo posėdžiuose dalyvautų
-    Mackevičius. Karaliaus legatai jau keliavo namo, kai
-    Maskvą pasiekė žinia, jog valachų pasiuntiniai sulai­
-    kyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas
-    palydovas maskvėnas gavęs įsakymą grįžti į Maskvą.
-    Pritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­
-    liaus pasiuntinius Možaiske.
+    Reikėjo prikalbėti didikus, senatą ir ba­
+    jorus, kad kuo greičiausiai paskelbtų Žygimantą Augus­
+    tą Lietuvos didžiuoju kunigaikščiu. Tartasi šiais klausi­
+    mais uždaruose pasitarimuose, slaptai sukviečiant žmo­
+    nes, kad apie tai nesužinotų lenkai ir nepaverstų nie­
+    kais viso sumanymo. Kai valdovas tvarkė Vilniuje šiuos
+    reikalus, atvyko Maskvos kunigaikščio legatas, atsiųs­
+    tas labai įdomia dingstimi. Mat Vasilijus pasijuto įžeis­
+    tas, kai paaiškėjo, kad Jonas
+    Maskvos k u n ig a ik štis
+    Jesmanas, kilmingas ir suma-
+    įsiže id žia d ė l pasiu n -
+    nūs jaunikaitis, praėjusiais
+    tin io
+    ja u n o am žia u s
+    metais pasiųstas į Maskvą,
+    esąs labai jaunas: šitai su­
+    vokęs kaip savo atšiaurios didybės paniekinimą, jis
+    per pasiuntinį pareikalavo brandesnių metų vyrui
+    1528 m e ta i
+    D era m a si d ė l sū n au s
+    A u g u sto
+    išrin k im o
+    L ie tu v o s
+    d id žiu o ju
+    k u n ig a ik ščiu
+    6 5 7
+  citata_rodoma: "Be to, sutarė teismų reikalus sutvarkyti iki\ngarsios Rusioje palaimintosios mergelės globėjos šven­\ntės, sutikdamas, kad teismo posėdžiuose dalyvautų\nMackevičius. Karaliaus legatai jau keliavo namo, kai\nMaskvą pasiekė žinia, jog valachų pasiuntiniai sulai­\nkyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas\npalydovas maskvėnas gavęs įsakymą grįžti į Maskvą.\nPritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­\nliaus pasiuntinius Možaiske."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

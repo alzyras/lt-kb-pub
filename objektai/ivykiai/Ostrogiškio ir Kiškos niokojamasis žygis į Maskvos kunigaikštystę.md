@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Karvedžiai nutarė, kad Firlėjus su lenkais ir Ostrogiškis su lietuviais įžengs į Maskvos kunigaikštystę.
+Kojelavičius vaizduoja Glinskį visą naktį drąsinus maskvėnų vadus ir žadėjus lengvą pergalę, nes jis tikėjęs menkomis karaliaus jėgomis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,57 +41,41 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-185822"></a>
+<a id="claim-t-196233"></a>
 - t-001
-  global_id: t-185822
-  teiginys: "Karvedžiai nutarė, kad Firlėjus su lenkais ir Ostrogiškis su lietuviais įžengs į Maskvos kunigaikštystę."
+  global_id: t-196233
+  teiginys: "Kojelavičius vaizduoja Glinskį visą naktį drąsinus maskvėnų vadus ir žadėjus lengvą pergalę, nes jis tikėjęs menkomis karaliaus jėgomis."
   pagrindžia:
     - c-169183
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Karvedžiai nutarė, kad Firlėjus su lenkais ir Ostrogiškis su lietuviais įžengs į Maskvos kunigaikštystę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Štai todėl pulkai patraukė į Oršą; be didelio
-    vargo atgavus pilį, visos jėgos pasuko link Smolens­
-    ko. Karvedžių pasitarime nusprendė, kad karalius su
-    smulkesniais būriais apsistosiąs Smolensko apylinkėse,
-    o Firlėjus su lenkais bei Ostrogiškis su lietuviais įženg­
-    siąs į Maskvos kunigaikštystę, viską pakeliui siaubda­
-    mi ir visur gaudydami paklydusius bėglius. Dėl žymiau­
-    siųjų didikų nesutarimų, o ypač dėl to, kad kai kas
-    pavydėjo Ostrogiškiui naujųjų pareigų, atidėjo šį rei­
-    kalą ateičiai, o galop visai nieko nepadarė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169183
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 604"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 604."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Štai todėl pulkai patraukė į Oršą; be didelio
-    vargo atgavus pilį, visos jėgos pasuko link Smolens­
-    ko. Karvedžių pasitarime nusprendė, kad karalius su
-    smulkesniais būriais apsistosiąs Smolensko apylinkėse,
-    o Firlėjus su lenkais bei Ostrogiškis su lietuviais įženg­
-    siąs į Maskvos kunigaikštystę, viską pakeliui siaubda­
-    mi ir visur gaudydami paklydusius bėglius. Dėl žymiau­
-    siųjų didikų nesutarimų, o ypač dėl to, kad kai kas
-    pavydėjo Ostrogiškiui naujųjų pareigų, atidėjo šį rei­
-    kalą ateičiai, o galop visai nieko nepadarė.
+    Karalius su kitais kariais laukė, kuo vis­
+    kas baigsis; pastebėjęs savo vėliavas kitame krante,
+    jis drąsiai pavarė žirgą į upę ir, vienur briste brisda­
+    mas, kitur plaukte plaukdamas, pirmas nusigavo į kitą
+    krantą, pervesdamas be jokių nuostolių visus raitelius.
+    Kol pėstininkai persikėlė plaustais, saulė pakrypo į va­
+    karus. Užėjusi naktis neleido užpulti priešų stovyk­
+    los. Mat stovykla, apsupta pylimu bei grioviais ir gi­
+    nama daugybės kovotojų, net dienos šviesoje galėjo
+    sudaryti nemažai vargo puolėjams; dabar ji kėlė dar
+    didesnę baimę, nes nakties tamsoje priešas, įpratęs
+    klastingai elgtis, galėjo paspęsti pasalas. Glinskis, puo­
+    selėdamas jau kartą atmestus sumanymus, po senovei
+    troško vienu smūgiu viską sėkmingai bei laimingai pa­
+    baigti, todėl, visą naktį nesudėjęs nė bluosto, guodė ir
+    drąsino maskvėnų pulkų vadus bei kunigaikščius, sa­
+    kydamas gerai žinąs, jog karaliaus jėgos menkos, ir
+    tvirtai žadėdamas lengvą pergalę.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185822
+    - t-196233

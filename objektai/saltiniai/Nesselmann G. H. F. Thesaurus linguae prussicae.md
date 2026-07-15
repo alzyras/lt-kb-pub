@@ -42,28 +42,13 @@ Dusburgietis teigia, kad nesselmann G.
   teiginys: "G. H. F. Nesselmanno veikalas „Thesaurus linguae prussicae“ išleistas Berlyne 1873 m."
   pagrindžia:
     - c-61830
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'G. H. F. Nesselmanno veikalas „Thesaurus linguae prussicae“ išleistas Berlyne 1873 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nesselmann G. H. F. Thesaurus linguae prussicae.— Berlin, 1873.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61830
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nesselmann G. H. F. Thesaurus linguae prussicae.— Berlin, 1873.
   statusas: verified

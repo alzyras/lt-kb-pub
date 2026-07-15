@@ -94,72 +94,6 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
   teiginys: "Per Lietuvos krikštą Vilniuje Gniezno arkivyskupas Bodzanta pašventino Šv. Stanislovo katedrą."
   pagrindžia:
     - c-55328
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Per Lietuvos krikštą Vilniuje Gniezno arkivyskupas Bodzanta pašventino Šv. Stanislovo katedrą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iškil­
-    mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
-    griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
-    liavietės, pradėta statyti Šv. Stanislovo katedra8. Iškilmingai,
-    dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
-    ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė
-    Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais
-    rykais ir visokia manta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Il KNYGA
-    Su tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­
-    taus tikėjimo išpažinėjams. Tuoj pat sušauktas lietuvių ku­
-    nigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­
-    sirinkusiems žmonėms apie didelį ir esminį religijos pokytį.
-    Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
-    po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­
-    mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
-    griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
-    liavietės, pradėta statyti Šv. Stanislovo katedra8.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-    - t-002
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Il KNYGA
-    Galop išsižadėjęs jau apnykusių pagonybės prietarų, kaip
-    naujas Kristaus tikėjimo išpažinėjas ir uolus savo tautos
-    apaštalas, 1387 metų sausį lietuvių žemėje Gedimino sostinė­
-    je atsirado Vladislovas Jogaila. Kartu su juo atvyko žavesiu ir
-    tauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­
-    čionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno
-    arkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­
-    čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
-    krikštytieji Krokuvoje. Lietuviai bajorai buvo puiki tų dviejų
-    pirmaujančios anuomet Šiaurėje valstybės valdovų svita.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 ## Data ir vieta
 
@@ -210,8 +144,8 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54446
-    - t-54448
     - t-54447
+    - t-54448
 
 - id: c-55330
   autorius: "Michał Baliński"

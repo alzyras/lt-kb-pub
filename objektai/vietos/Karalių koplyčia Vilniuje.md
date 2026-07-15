@@ -41,30 +41,6 @@ Nepašykštėjo čia ir Žygimantas Augustas, dalydamas gausius savo prieraišum
   teiginys: "1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje."
   pagrindžia:
     - c-82172
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų
-    giminės galybė ir kaupėsi nauji jų turtai, kurių pėdsakai, net
-    ir prie visiško sunykimo ribos, po tiek amžių trukusios val­
-    džios ir pasisekimo, stebina savo didybe. Nepašykštėjo čia ir
-    Žygimantas Augustas, dalydamas gausius savo prieraišumo
-    30
-    Ši slapta santuoka įvyko 1547 metų
-    rugsėjo mėnesį Karalių koplyčioje
-    Vilniuje. Mačiau originalų raštą ar­
-    ba pakvitavimą, rašytą karalienės
-    Barboros slaviškai, su antspaudu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

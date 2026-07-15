@@ -71,52 +71,6 @@ Nenurodyta
   pagrindžia:
     - c-22286
 
-<a id="claim-t-45536"></a>
-- t-003
-  global_id: t-45536
-  teiginys: "1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį ne LSSR, o LR – Lietuvos Respublikos."
-  pagrindžia:
-    - c-22286
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11–
-    13 d.). Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.
-    Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka
-    Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.
-    Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-002
-  santrauka: '1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė plakatu reikalavo ne LSSR, o Lietuvos Respublikos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.
-    Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka
-    Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.
-    Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.
-    Algirdo Sabaliausko nuotrauka
-
-    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
-    241
-    nesilaikys SSRS konstitucijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22286
@@ -136,7 +90,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45536
-    - t-45537
 
 - id: c-48311
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

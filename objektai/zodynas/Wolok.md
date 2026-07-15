@@ -56,14 +56,7 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
   pagrindžia:
     - c-175049
 
-<a id="claim-t-192174"></a>
-- t-003
-  global_id: t-192174
-  teiginys: "Teodoro Narbuto aiškinimu, slavai nuo seniausių laikų Wolok vadino sausumos kelius tarp dviejų prieplaukų."
-  pagrindžia:
-    - c-175049
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -87,13 +80,16 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
 - id: c-175049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 165"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 165."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų
-    slavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­
-    mažai.
-    2 Kotzebue.
+    Tuo keliu prekes
+    gabeno ir masiliečiai, Nėra nė mažiausių abejonių, jog ger­
+    manų tautų valtys išplaukdavo toliau Zundo ir nugaben­
+    davo savo prekių į Okeano pakrančių miestus (§ 157).
+    'tacitas, užsiminęs apie sveonus, pateikia žinių, kad jie
+    turėjo daug didelių laivų1. Siaurės sagose daug žinių apie
+    jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais
+    žygiais.
   citata_rodoma: "Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų\nslavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­\nmažai."
   statusas: verified
   teiginio_tipas: faktas
@@ -102,5 +98,3 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
   pagrindzia:
     - t-192174
     - t-192175
-    - t-192581
-    - t-004

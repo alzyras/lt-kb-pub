@@ -42,32 +42,6 @@ media_all_json: |-
   teiginys: "Vakare Kazimiero Sapiegos vadovaujamos artilerijos baterijos dengiama Vilniaus įgula atsitraukė per Žaliąjį tiltą."
   pagrindžia:
     - c-42076
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Visas miestas buvo intensyviai apšaudo-
-    mas stambaus kalibro rusų artilerijos.
-    q Priešui pralaužus vilniečių gy-
-    nybą ir giliai prasiveržus, masyviai
-    artilerijos apšaudomi gynėjai, norė-
-    dami išvengti blokavimo ir visiško
-    sunaikinimo, buvo priversti trauktis.
-    Vakare Vilniaus įgula, dengiama ar-
-    tilerijos kapitono kunigaikščio Kazi-
-    miero Sapiegos, sumaniai vadovaujamos
-    artilerijos baterijos, sėkmingai atsitraukė
-    per Žaliąjį tiltą. Rugpjūčio 12 d. Rusi-
-    jos kariuomenė užėmė Vilnių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -95,5 +69,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49420
     - t-49419
+    - t-49420

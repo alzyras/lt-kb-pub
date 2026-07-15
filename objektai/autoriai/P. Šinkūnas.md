@@ -34,20 +34,6 @@ media_all_json: |-
   teiginys: "P. Šinkūnas parengė „Geografijos vadovėlį“ IV pradžios mokyklos skyriui ir I vidurinės mokyklos klasei."
   pagrindžia:
     - c-36685
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    21. P. Šinkūno, GEOGRAFIJOS VADOVĖLIS. IV-am pradžios mo­
-    kyklos skyriui ir I-ai vidurinės mokyklos klasei. Kaina Lt. 3,50.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

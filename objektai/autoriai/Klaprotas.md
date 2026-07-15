@@ -7,16 +7,16 @@ datos:
   - '1590 m.'
 date_start: '1590'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - autorius
   - istorikas
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,35 +51,8 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
   teiginys: "Narbuto tekste gamtos tyrinėtojai Klaprotas ir Hagenas nurodomi kaip teigę, kad gintaras yra senojo pasaulio kūrinys."
   pagrindžia:
     - c-175317
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdamas neradęs ryškaus panašumo į lietuvių kalbą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Juk šiandien negalima nieko įro­
-    dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi
-    šios tautos likučiai, Kaukazo kalnų gyventojai osetinai,
-    ištirti mokslininko, senovės istoriko pono Klaproto, kuris
-    veikale „Asia Polyglotta“** pateikia osetinų kalbos žo­
-    dyną, kuriame nerandame nieko, ką galima būtų vadinti
-    panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
-    tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
-    192
-    Pirmame šio veikalo tome mes stengėmės pateikti iš­
-    samų lietuvių tautos senovės paminklų vaizdą, iš kurio
-    kiekvienas skaitytojas galėjo įsitikinti, kas kažkada buvo
-    ši senovinė tauta ir ar dera vadinti ją laukine orda miškų
-    gyventojų, atsiskyrusių nuo nežinomos barbarų minios,
-    1 Lib.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbuto tekste gamtos tyrinėtojai Klaprotas ir Hagenas nurodomi kaip teigę, kad gintaras yra senojo pasaulio kūrinys.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -106,8 +79,7 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
 - id: c-174510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 188"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Juk šiandien negalima nieko įro­
     dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi
@@ -134,8 +106,7 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
 - id: c-175317
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 338"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Wigancli Epis-
     copi Pomesatiiensis de Succino, alce et herbis iri Prussia
@@ -145,7 +116,11 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
     gamtos tyrinėtojai Klaprotas ir Hagenas. Pastarojo dar
     neišleistame veikale chemiškai įrodyta, jog jis priklauso
     1 Man sykį sakė, kad, apdorojęs vištos kiaušinio dydžio gintaro
-    gabalą, žmogus pamatė viduje žirnio dydžio vandens rutuliuką.
+    gabalą, žmogus pamatė viduje žirnio dydžio vandens rutuliuką. Jis
+    norėjo padarytį jį geriau matomą ir ketino priartinti; nuimant dalį
+    apdorojamo paviršiaus, gabalas su trenksmu sprogo, o vanduo pa­
+    virto dūmeliu.
+  citata_rodoma: "Wigancli Epis-\ncopi Pomesatiiensis de Succino, alce et herbis iri Prussia\nnascentibus libri\", išleistą 1590 metais Jenoje; Bajeris\nją norėjo įdėti į savo „Monumentą Prussica“.\nTai, kad gintaras yra senojo pasaulio kūrinys, teigia\ngamtos tyrinėtojai Klaprotas ir Hagenas. Pastarojo dar\nneišleistame veikale chemiškai įrodyta, jog jis priklauso\n1 Man sykį sakė, kad, apdorojęs vištos kiaušinio dydžio gintaro\ngabalą, žmogus pamatė viduje žirnio dydžio vandens rutuliuką."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

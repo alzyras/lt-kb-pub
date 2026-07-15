@@ -73,6 +73,7 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   teiginys: "Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu."
   pagrindžia:
     - c-32665
+    - c-167727
 
 <a id="claim-t-47929"></a>
 - t-002
@@ -87,75 +88,6 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   teiginys: "Lietuvos valdovui einant į Lenkiją, valstybiniu lygmeniu buvo atnaujintas lotyniškasis krikštas, nuošalyje paliekant Kryžiuočių ordiną."
   pagrindžia:
     - c-32666
-
-<a id="claim-t-184357"></a>
-- t-004
-  global_id: t-184357
-  teiginys: "Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu."
-  pagrindžia:
-    - c-167727
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Svarbioji jungtis
-    su Vakarų Europa buvo pradėta lotyniškuoju krikštu. Lietuvos
-    ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo
-    laikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu. Į kai­
-    myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­
-    binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-
-    paliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­
-    kluotai « misijų teorijai ».
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvos valdovui pereinant į Lenkiją, valstybiniu mastu buvo atnaujintas lotyniškasis krikštas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos
-    ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo
-    laikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu. Į kai­
-    myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­
-    binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-
-    paliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­
-    kluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­
-    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
-    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
-    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
-    netos, liejami pabūklai, varpai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-003
-  santrauka: 'Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    _Kultūriniu_ atžvilgiu vyko reikšmingas persilaužimas, nes lie­
-    tuvių tauta, nors ir valdydama daug rusų žemių ir turėdama pasto­
-    vių sąlyčių su rytais, aiškiai pasuko Vakarų link. Svarbioji jungtis
-    su Vakarų Europa buvo pradėta lotyniškuoju krikštu. Lietuvos
-    ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo
-    laikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 ## Citatos
 
@@ -219,5 +151,3 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184357

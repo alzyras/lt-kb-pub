@@ -45,27 +45,6 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   teiginys: "Povilas Algimantas buvo Alšėnų kunigaikštis, nuo 1536 m. Vilniaus vyskupas ir mirė 1553 metais."
   pagrindžia:
     - c-83814
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Povilas Algimantas buvo Alšėnų kunigaikštis, nuo 1536 m. Vilniaus vyskupas ir mirė 1553 metais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto
-    I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o
-    1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40
-    metų, 1538 m.
-    13. Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis
-    iš savo giminės, pirma Lucko, paskui, nuo 1536 m., Vilniaus
-    vyskupas, mirė 1553 m. Karštas katalikų tikėjimo nuo disi­
-    dentų gynėjas, visa širdim atsidavęs Bažnyčiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

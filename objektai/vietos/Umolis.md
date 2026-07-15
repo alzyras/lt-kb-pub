@@ -33,48 +33,16 @@ Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už
 <a id="claim-t-187365"></a>
 - t-001
   global_id: t-187365
-  teiginys: "Umolis buvo gyvenvietė prie Slucko."
+  teiginys: 'Umolis buvo gyvenvietė prie Slucko.'
   pagrindžia:
     - c-170378
 
 <a id="claim-t-187366"></a>
 - t-002
   global_id: t-187366
-  teiginys: "Strijkovskis Umolį lokalizavo laukuose už Slucko."
+  teiginys: 'Strijkovskis Umolį lokalizavo laukuose už Slucko.'
   pagrindžia:
     - c-170379
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 6  Slučė — BTSR upė, prasidedanti šiauriau Slucko ir tekanti
-    pro Slucką pietų kryptimi j Pripetę.
-    1 4  Nuo Slucko iki Kopyiio y ra apie 38 km.
-    17 Umolts — gyvenvietė prie Slucko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 4  Nuo Slucko iki Kopyiio y ra apie 38 km.
-    17 Umolts — gyvenvietė prie Slucko. Jo s vietų patikslina
-    M  Strijkovskis: „ties Slucku, laukuose u i Umolio, kur Slucko ku­
-    nigaikštis Jurgis, ano [t. y. Simono M ykolalčiol, vaikaitis, dabar
-    pastatydino naująjį dvarą" (Kronika, p. 667).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -88,12 +56,12 @@ Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už
     1 4  Nuo Slucko iki Kopyiio y ra apie 38 km.
     17 Umolts — gyvenvietė prie Slucko.
   citata_rodoma: "17 Umolts — gyvenvietė prie Slucko."
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187365
+    - t-001
 
 - id: c-170379
   autorius: "Anoniminis metraštininkas"
@@ -106,9 +74,9 @@ Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už
     nigaikštis Jurgis, ano [t. y. Simono M ykolalčiol, vaikaitis, dabar
     pastatydino naująjį dvarą" (Kronika, p. 667).
   citata_rodoma: "Jo s vietų patikslina \nM  Strijkovskis: „ties Slucku, laukuose u i Umolio,"
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187366
+    - t-002

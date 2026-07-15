@@ -24,74 +24,37 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.
+Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabijo upės pakrantėje.
 
 ## Teiginiai
 
-<a id="claim-t-186157"></a>
+<a id="claim-t-196581"></a>
 - t-001
-  global_id: t-186157
-  teiginys: "Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą."
+  global_id: t-196581
+  teiginys: "Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabijo upės pakrantėje."
   pagrindžia:
-    - c-169518
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Lietuviai ketino neti-
-    239
-
-    ## Puslapis 238
-
-    ketai įsiveržti į Lenkijos gilumą, tačiau šį sumanymą
-    įgyvendinti trukdė didžiausia to krašto upė Vysla, te­
-    kanti gana plačia ir gilia vaga. Štai todėl jie ir pasiun­
-    tė Pšonką, kuris, savo krašte galėdamas ramiai jaustis
-    ir nieko nebijoti, turėjo surasti brastą. Neilgai trukus
-    šis ir padarė, kas įsakyta, kartimis nusmaigstydamas
-    vietas, kur Vysla tekėdama sudaro brastas; vėliau ten
-    užsuko žvejai ir labai nustebo, negalėdami suprasti, ką
-    žymi kartys, styrančios iš vandens; ne be pagrindo
-    įtardami, jog čia esama kažin kokios klastos, jie iš­
-    traukė iš tos vietos kartis ir subedė jas ten, kur sro­
-    vė kuo smarkiausiai sūkuriavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+    - c-178777
 
 ## Citatos
 
-- id: c-169518
+- id: c-178777
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Lietuviai ketino neti-
-    239
-
-    ## Puslapis 238
-
-    ketai įsiveržti į Lenkijos gilumą, tačiau šį sumanymą
-    įgyvendinti trukdė didžiausia to krašto upė Vysla, te­
-    kanti gana plačia ir gilia vaga. Štai todėl jie ir pasiun­
-    tė Pšonką, kuris, savo krašte galėdamas ramiai jaustis
-    ir nieko nebijoti, turėjo surasti brastą. Neilgai trukus
-    šis ir padarė, kas įsakyta, kartimis nusmaigstydamas
-    vietas, kur Vysla tekėdama sudaro brastas; vėliau ten
-    užsuko žvejai ir labai nustebo, negalėdami suprasti, ką
-    žymi kartys, styrančios iš vandens; ne be pagrindo
-    įtardami, jog čia esama kažin kokios klastos, jie iš­
-    traukė iš tos vietos kartis ir subedė jas ten, kur sro­
-    vė kuo smarkiausiai sūkuriavo.
+    Tamsią naktį visa lie­
+    tuvių kariuomenė atėjo prie upės. Jie manė, jog ved­
+    lys teisingai pažymėjo brastą, ir drąsesnieji, nieko
+    neįtardami, subrido į upę; kai pradėjo skęsti pirmo­
+    sios karių gretos, patekusios į verpetus, tie, kurie dar
+    nebuvo atsidūrę pavojuje, garsiai šaukdami, jog čia
+    esama aiškios išdavystės, maldavo kunigaikščius ne­
+    pasitikėti vedliu. Išdavystės bijojo ir patys kunigaikš­
+    čiai; kai buvo patikrintas upės gylis, kariai supuolė ir
+    Pšonką, kaip išdaviką, nugalabijo upės pakrantėje.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186157
+    - t-196581

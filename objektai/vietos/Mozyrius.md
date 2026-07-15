@@ -8,7 +8,6 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
   - '1535 m.'
-  - '1936 m.'
   - '2026 m.'
 date_start: '1535'
 date_end: '2026'
@@ -16,7 +15,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-  - gyvenvietė
 amziai:
   - 'XVI'
   - 'XXI'
@@ -41,45 +39,46 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 
 ## Teiginiai
 
-<a id="claim-t-68717"></a>
-- t-001
-  global_id: t-68717
-  teiginys: "Ties Lojevu žygio dalyviai persikėlė į dešinįjį Dniepro krantą ir pasuko vakarų kryptimi Mozyriaus bei Slucko link."
-  pagrindžia:
-    - c-43658
-
 <a id="claim-t-68718"></a>
-- t-002
+- t-001
   global_id: t-68718
   teiginys: "Maišto vadui pavyko užimti tik Mozyrių ir Turovą, o Sluckas ir Minskas jam nepasidavė."
   pagrindžia:
     - c-68225
+    - c-182415
 
 <a id="claim-t-68719"></a>
-- t-003
+- t-002
   global_id: t-68719
   teiginys: "Maišto vadui pavyko užimti Mozyrių ir Turovą, bet Sluckas ir Minskas jam nepasidavė."
   pagrindžia:
     - c-68225
+    - c-182415
 
 <a id="claim-t-185052"></a>
-- t-004
+- t-003
   global_id: t-185052
   teiginys: "Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę."
   pagrindžia:
     - c-168413
 
-<a id="claim-t-187617"></a>
+<a id="claim-t-199615"></a>
+- t-004
+  global_id: t-199615
+  teiginys: "Ties Lojevu žygio dalyviai persikėlė į dešinįjį Dniepro krantą ir pasuko vakarų kryptimi Mozyriaus bei Slucko link."
+  pagrindžia:
+    - c-182414
+
+<a id="claim-t-199617"></a>
 - t-005
-  global_id: t-187617
+  global_id: t-199617
   teiginys: "Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
   pagrindžia:
-    - c-170564
+    - c-182412
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
 - susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš Starodubas: Lietuvos metraštis Skirmantą vadina didžiuoju kunigaikščiu ir pasakoja, kad po pergalės prie Kaidanovo jis Rusų žemėje paėmė Starodubą.
-- susijęs iš [[objektai/asmenys/Kurdas.md#claim-t-186059|Kurdas]]: Kurdas buvo sustojęs Mozyriaus krašte prie Okuniovkos upės ir iš ten pasiuntė kelis pulkus plėšikauti.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113896|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis buvo Dubingių ir Biržų kunigaikštis, Vilniaus vaivada, LDK vyriausiasis kancleris, Mozyriaus ir Lydos seniūnas.
 - susijęs iš [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.).md#claim-t-39099|Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]: 1648 m. vasarą sukilę kazokai veržėsi į LDK pietrytines sritis ir siautėjo Pinsko, Starodubo bei Mozyriaus apylinkėse.
 - susijęs iš [[objektai/ivykiai/Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus.md#claim-t-186687|Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)]]: Mozyrius XIV a. antrajame ketvirtyje, valdant Gediminui, buvo Lietuvos įtakoje, o XIV a. viduryje galutinai prijungtas Algirdo.
@@ -92,7 +91,6 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 - susijęs iš Lojevas: Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link.
 - susijęs iš Lojevas: Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė vakarų kryptimi Mozyriaus bei Slucko link.
 - susijęs iš Sluckas: Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171401|Totoriai]]: Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.
 - susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos tribunolas.md#claim-t-113374|Vyriausiasis Lietuvos tribunolas]]: 1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas.
 - susijęs iš [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.).md#claim-t-41286|Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]: Apie liepos 20–22 d. totoriai stovyklavietei pasirinko Klecką, nes jis buvo patogus punktas išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187489|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje.
@@ -114,128 +112,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187930|A. Vijūkas Kojelavičius]]: Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.
 - susijęs iš [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.).md#claim-t-39099|Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]: 1648 m. vasarą sukilę kazokai veržėsi į LDK pietrytines sritis ir siautėjo Pinsko, Starodubo bei Mozyriaus apylinkėse.
 - susijęs iš Lojevas: Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ties Lojevu žygio dalyviai persikėlė į dešinįjį Dniepro krantą ir pasuko vakarų kryptimi Mozyriaus bei Slucko link.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jodami stepėmis tarp
-    Lietuvos ir Maskvos valdų jie kasdien su-
-    kardavo maždaug po 25 km ir per 50 dienų
-    įveikė apie 900 km atstumą. Ties Lojevu jie
-    persikėlė į dešinįjį Dniepro krantą ir pa-
-    spartinę žygio tempą pasileido tiesiai va-
-    karų kryptimi Mozyriaus ir Slucko link.
-    Galiausiai apie liepos 20-22 d. jie sustojo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, Lietuvos po-
-    nai, jo priešai, norėdami jį
-    pražudyti, grasino jam iš-
-    kelti bylą tarsi už Aleksan-
-    dro nužudymą. Visa tai
-    matydamas, jis sumanė už-
-    grobti kuo daugiausia Lie-
-    tuvos žemių ir pasiduoti Maskvos kunigaikščiui Vosyliui III
-    (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
-    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
-    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-003
-  santrauka: 'Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Skirman­
-    tas, nepasitenkindamas šia pergale, vedė toliau kariuo­
-    menę, kad, išvadavęs iš skitų jungo daugelį Rusios
-    miestų, toliau nuo savęs nustumtų priešą. Jo sumany­
-    mą lydėjo sėkmė, jis išplėšė iš priešo rankų Mozyrių,
-    Starodubą, Černigovą, Karačevą ir beveik visą Severs-
-    ko žemę. Tada, sūnums Liu-
-    L ietu via i, iš v iję  s k i-
-    bartui ir Pisimantui atidalijęs
-    tus, u žim a M o zy rių  ir
-    šias
-    sritis,
-    jauniausiajam
-    v is ą  S e v e rsk o  že m ę
-    Treniotai testamentu pasky­
-    rė Lietuvos žemes
-    šiapus
-    Neries, Naugarduko ir Poleksijos kunigaikštystes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    50
-
-    ## Puslapis 48
-
-    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
-    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
-    nos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
-    galybę, ir nukovė patį chaną ", Su didžios pergalės
-    šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
-    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
-    jęs pergalę, be nuostolių pargrįžo atgalios.
-    Turėjo didysis kunigaikštis Skirmantas tris sūnus:
-    vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
-
-- id: c-43658
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
-  citata_originali: |
-    Jodami stepėmis tarp
-    Lietuvos ir Maskvos valdų jie kasdien su-
-    kardavo maždaug po 25 km ir per 50 dienų
-    įveikė apie 900 km atstumą. Ties Lojevu jie
-    persikėlė į dešinįjį Dniepro krantą ir pa-
-    spartinę žygio tempą pasileido tiesiai va-
-    karų kryptimi Mozyriaus ir Slucko link.
-    Galiausiai apie liepos 20-22 d. jie sustojo.
-  citata_rodoma: "Ties Lojevu jie\npersikėlė į dešinįjį Dniepro krantą ir pa-\nspartinę žygio tempą pasileido tiesiai va-\nkarų kryptimi Mozyriaus ir Slucko link.\nGaliausiai apie liepos 20-22 d."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-68717
 
 - id: c-68225
   redaktorius: "A. Šapoka"
@@ -275,13 +152,13 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     mą lydėjo sėkmė, jis išplėšė iš priešo rankų Mozyrių,
     Starodubą, Černigovą, Karačevą ir beveik visą Severs-
     ko žemę. Tada, sūnums Liu-
-    L ietu via i, iš v iję  s k i-
+    L ietu via i, iš v iję s k i-
     bartui ir Pisimantui atidalijęs
-    tus, u žim a M o zy rių  ir
+    tus, u žim a M o zy rių ir
     šias
     sritis,
     jauniausiajam
-    v is ą  S e v e rsk o  že m ę
+    v is ą S e v e rsk o že m ę
     Treniotai testamentu pasky­
     rė Lietuvos žemes
     šiapus
@@ -293,7 +170,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   pagrindzia:
     - t-185052
 
-- id: c-170564
+- id: c-182412
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
@@ -316,7 +193,50 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187617
+    - t-199617
+
+- id: c-182414
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Jodami stepėmis tarp
+    Lietuvos ir Maskvos valdų jie kasdien su-
+    kardavo maždaug po 25 km ir per 50 dienų
+    įveikė apie 900 km atstumą. Ties Lojevu jie
+    persikėlė į dešinįjį Dniepro krantą ir pa-
+    spartinę žygio tempą pasileido tiesiai va-
+    karų kryptimi Mozyriaus ir Slucko link.
+    Galiausiai apie liepos 20-22 d. jie sustojo.
+  citata_rodoma: "Ties Lojevu jie\npersikėlė į dešinįjį Dniepro krantą ir pa-\nspartinę žygio tempą pasileido tiesiai va-\nkarų kryptimi Mozyriaus ir Slucko link.\nGaliausiai apie liepos 20-22 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199615
+
+- id: c-182415
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Be to, Lietuvos po-
+    nai, jo priešai, norėdami jį
+    pražudyti, grasino jam iš-
+    kelti bylą tarsi už Aleksan-
+    dro nužudymą. Visa tai
+    matydamas, jis sumanė už-
+    grobti kuo daugiausia Lie-
+    tuvos žemių ir pasiduoti Maskvos kunigaikščiui Vosyliui III
+    (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
+    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
+    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
+  citata_rodoma: "Maskvos pasienio\nsritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-\nzyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Užėmė Mozyrių: [[objektai/asmenys/Skirmantas]]

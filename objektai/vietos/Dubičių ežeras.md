@@ -35,8 +35,8 @@ Narbutas Dubičių ežerą Lydos apskrityje siejo su vardais Dub ir Duupe, aišk
   teiginys: "Narbutas Dubičių ežerą Lydos apskrityje siejo su vardais Dub ir Duupe, aiškindamas juos dviem iš ežero į skirtingas puses tekančiomis upėmis."
   pagrindžia:
     - c-171880
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Dubičių ežerą Lydos apskrityje siejo su vardais Dub ir Duupe, aiškindamas juos dviem iš ežero į skirtingas puses tekančiomis upėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -58,13 +58,17 @@ Narbutas Dubičių ežerą Lydos apskrityje siejo su vardais Dub ir Duupe, aišk
 - id: c-171880
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 229"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    1. Lydos apskrityje yra didžiulis [Dubičių] ežeras Dub, ar­
-    ba Duupe, tai yra Dviupis, kadangi jame prasideda dvi upės,
-    tekančios j skirtingas puses. Pasak vietos padavimų, jis buvo
-    laikomas šventu.
+    Nur-t - vandens tėkmė; Nurzač, Zanurzač - veiks­
+    mai vandenyje. Bet stebinantis dalykas yra tai, kaip plačiai pa­
+    sklidę ir nesuskaičiuojami yra upių ir ežerų pavadinimai, tu­
+    rintys tą pačią etimologiją. Norėdami atkreipti senovės tyrėjų
+    dėmesį į šį objektą, pateiksime tik kai kuriuos reikšminges­
+    nius pavyzdžius, susijusius su etimologija, kurią pirmykštė kal­
+    ba pavertė šventa arba panaudojo šventiesiems vandenims pra­
+    minti.
+  citata_rodoma: "1. Lydos apskrityje yra didžiulis [Dubičių] ežeras Dub, ar­\nba Duupe, tai yra Dviupis, kadangi jame prasideda dvi upės,\ntekančios j skirtingas puses. Pasak vietos padavimų, jis buvo\nlaikomas šventu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

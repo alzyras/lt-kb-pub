@@ -35,12 +35,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
   teiginys: "Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo."
   pagrindžia:
     - c-69442
-
-<a id="claim-t-182995"></a>
-- t-002
-  global_id: t-182995
-  teiginys: "Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo."
-  pagrindžia:
     - c-166392
 - susijęs iš [[objektai/asmenys/Burnašas.md#claim-t-80731|Burnašas]]: Mengli-Girėjaus jaunesnieji sūnūs Fatihas ir Burnašas vadovavo žygiui į LDK gilumą.
 - susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191944|Darijus]]: Narbutas Darijaus nesėkmingam žygiui priskyrė didelę įtaką Skitijos vidaus gyvenimui ir jos artėjimui prie žlugimo.
@@ -52,13 +46,7 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79109|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171507|Karolis Zikaras]]: Karolis Zikaras ir Loreta Uzdraitė yra teksto apie 1923 m. sausio 9-15 d. sukilėlių žygį į Klaipėdos kraštą autoriai.
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60511|Powierski J]]: J. Powierski cituojamas aiškinant 1218 m. Kristijono žygį ir jo sutartį su Mazovijos kunigaikščiu Konradu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178819|Kryžiuočių ordinas]]: Ordino kronikose nurodyta, kad 1345–1382 m. įvyko 66 Prūsų kryžiuočių ir 30 Livonijos žygių.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178867|Kryžiuočių ordinas]]: Ordino kronikose nurodyta, kad 1345–1382 m. buvo surengti 66 žygiai iš Prūsų ir 30 iš Livonijos.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178976|Kryžiuočių ordinas]]: Ordino kronikose 1345-1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179159|Lenkai]]: Lenkai tvirtina, kad Vorsklos žygis palaidojo tris ketvirtąsias Vytauto kariuomenės dalis.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179371|Livonijos ordinas]]: Ordino kronikose 1345-1382 m. užregistruoti 66 žygiai į Lietuvą iš Prūsijos ir 30 iš Livonijos.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179396|Livonijos ordinas]]: Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179432|Livonijos ordinas]]: Ordino kronikose 1345-1382 m. užregistruota 30 žygių į Lietuvą iš Livonijos.
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-05288|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: Pirmojo žygio metu lietuviai pasiekė Maskvos vartus, tačiau Algirdas nebuvo pasirengęs ilgam apgulimui.
 - susijęs iš [[objektai/ivykiai/Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą.md#claim-t-62764|Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą]]: 1210 m. Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą padėjo Kristijono misijai Prūsijoje.
 - susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191010|Darijaus žygis prieš skitus]]: Narbutas vertino, kad Darijui nepavykęs žygis prieš skitus paveikė Skitijos vidaus sąlygas ir artino ją prie žlugimo.
@@ -82,10 +70,12 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - susijęs iš Lietuvos Metraštis: Lietuvos metraštis Vytauto lūpomis aiškino, kad Jogailos žygis sukėlė Lietuvoje nepasitenkinimą dėl svetimųjų valdymo.
 - susijęs iš Regesta Lithuaniae: „Regesta Lithuaniae“ puslapis 144 nurodomas prie 1292 m. žygio ir pasakojimo apie nuostabų brolių išsigelbėjimą.
 - susijęs iš Prūsija: Dėl baisių šalčių Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o kryžiuočiai negalėjo imtis žygio.
+- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-199219|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį sutelkė Lietuvos pajėgas, pats vadovavo žygiui prie Smolensko ir miestą atsiėmė.
 - susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-192099|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčių laidotuvių paprotys numatė, kad su kilmingo žmogaus lavonu sudegindavo ginklus, arklį, tarnus, moteris ir karo žygiui reikalingus daiktus.
 - susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-195043|„Lietuvos karaliaus sūnus“]]: Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.
 - susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-195044|„Lietuvos karaliaus sūnus“]]: Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. rašė apie jo žygį į Livoniją.
 - susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-195045|„Lietuvos karaliaus sūnus“]]: Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė apie karaliaus Vytenio žygį į Livoniją.
+- susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
 - susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191109|Adomas Stanislovas Naruševičius]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru kėlėsi iš Germanijos į Sarmatiją per Vyslos žemupį.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-184655|Albertas iš Meiseno]]: Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-190842|Aleksandras]]: Narbutas rašo, kad po susidūrimo su Pilypo sūnumi Aleksandru skitų kariuomenė neteko 30 000 karių ir prašė Aleksandro taikos.
@@ -119,27 +109,21 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187442|Aukso orda]]: Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88539|Cistersų ordinas]]: 1210 m. pabaigos popiežiaus bulėje Cistersų ordino vienuolis Kristijonas minimas kaip vienas krikščioniškosios misijos Prūsijoje vadovų.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo bojarinai.md#claim-t-86789|Didžiojo Naugardo bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96099|Gediminaičių dinastija]]: Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto, kai sprendėsi Lietuvos krikšto kryptis.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96114|Gediminaičių dinastija]]: Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto, kai sprendėsi Lietuvos krikšto kryptis.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116684|Hanza]]: 1416 m. Hanzos vadovybė įsikišo, kai Dorpatas uždraudė prekybą su Naugardu, bet turėjo sutikti su Dorpato draudimu.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175533|Kalavijuočių ordinas]]: 1557 m. iš Vilniaus į Livoniją žygiavo kariuomenė prieš kalavijuočių ordino magistrą Firstembergą.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175553|Kalavijuočių ordinas]]: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš Kalavijuočių ordino didįjį magistrą Firstembergą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178856|Kryžiuočių ordinas]]: XIV a. Vokiečių ordino pavojus skatino Lietuvą derėtis ir ieškoti būdo priimti priešo išpažįstamą tikėjimą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179011|Kryžiuočių ordinas]]: Per visą XIV a. Vokiečių ordino pavojus skatino Lietuvą derėtis ir svarstyti priešo išpažįstamo tikėjimo priėmimą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179099|Kryžiuočių ordinas]]: Vytautas Kaune be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179123|Kryžiuočių ordinas]]: 1385 m. didžiojo magistro Konrado Ciolnerio žygis buvo paskutinis Ordino smūgis pagoniškai Lietuvai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179242|Lietuviai]]: Mindaugo sukurta valstybė sudarė sąlygas lietuvių tautai išlikti ir vėliau perimti Vakarų civilizaciją.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187725|Lietuvos kariuomenė]]: Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179369|Livonijos ordinas]]: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą.
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-192434|Mazovijos kunigaikščiai]]: Mazovijos Ziemovitas 1260 m. birželio 15 d. Trošine sudarė taikos sutartį, kuria kryžiuočiai atidavė jam šeštadalį jotvingių krašto.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171440|Totoriai]]: 1506 m. vasarą totoriai įsiveržė į LDK valdas, nesitikėdami nesėkmės.
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-05289|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: 1370 m. rudenį Algirdas po dešimties dienų prie Maskvos sudarė paliaubas su Dimitru Doniečiu.
 - susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186765|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad aptariamas žygis gali būti siejamas su Rumelijos vietininko Ali-pašos žygiu į Moldaviją 1485 m. vasarą.
 - susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-184232|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Po Kauno susitarimo Ordinas atskiru dokumentu pažadėjo Vytautui mirus globoti Oną ir ginti jos teises į jos dalį.
 - susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-23327|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: Žygis į Klaipėdą buvo pristatytas kaip vietinis sukilimas; susišaudymuose žuvo 16 lietuvių ir du prancūzai.
 - susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-26645|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.
 - susijęs iš [[objektai/ivykiai/Kristijono kryžiaus žygio įteisinimas ir įvykdymas.md#claim-t-59350|Kristijono kryžiaus žygio įteisinimas ir įvykdymas]]: Per 1218 m. žygį Kristijonas greičiausiai sudarė sutartį su Mazovijos kunigaikščiu Konradu ir gavo iš jo naujų valdų.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis, Algirdo pralaimėjimas ir atsakomasis puolimas į Sembą (1345-1346 m.).md#claim-t-185730|Kryžiuočių žygis, Algirdo pralaimėjimas ir atsakomasis puolimas į Sembą (1345-1346 m.)]]: Kitais metais kryžiuočiai su keturiasdešimčia tūkstančių karių įsiveržė į Lietuvą ir nusiaubė didelius Žemaitijos plotus.
 - susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186731|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: Bychovco kronikos epizodas 1971 m. komentare aiškinamas kaip glaustas pasakojimas apie 1406–1408 m. LDK ir Maskvos Didžiosios Kunigaikštystės karus.
 - susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186733|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: Komentaras karo priežastimi laiko Vytauto siekį plėsti įtaką Pskove ir Didžiajame Naugarde bei ten pasodinti savo vietininkus.
 - susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186734|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: 1406–1408 m. LDK ir Maskvos karų veiksmai vyko LDK rytų pasienyje, Ugros ir Okos upių ruože.
@@ -149,7 +133,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10253|Mėlynųjų Vandenų mūšis (1362 m.)]]: Algirdo pajėgų pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.
 - susijęs iš [[objektai/ivykiai/Skitų susidūrimas su Aleksandro pajėgomis.md#claim-t-191074|Skitų susidūrimas su Aleksandro pajėgomis]]: Narbutas pasakoja, kad Sapiriono vadovaujama skitų kariuomenė, praradusi 30 000 karių, buvo priversta prašyti Aleksandro taikos ir santarvės.
 - susijęs iš [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara).md#claim-t-35895|Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]: 1394 m. vasaros žygyje į Lietuvos gilumą dalyvavo svečiai iš Vakarų Europos ir Burgundijos hercogas Pilypas su 200 šaulių.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.).md#claim-t-185656|Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)]]: Kęstutis Mazovijos pasieniu nuvedė kariuomenę į menkai įtvirtintą Prūsijos pakraštį ir prie Saldavos bei Neidenburgo sumušė kryžiuočius.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.).md#claim-t-185669|Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]: Vytautas įsakė kavalerijos vadams rasti neužkirstas properšas miškuose ir pelkėse bei siaubti Vasilijaus valdas.
 - susijęs iš [[objektai/ivykiai/Vytenio įsiveržimas į Livoniją ir Gardino priešpilio užėmimas (1296 m.).md#claim-t-31503|Vytenio įsiveržimas į Livoniją ir Gardino priešpilio užėmimas (1296 m.)]]: 1296 m. žiemą Balgos komtūras galbūt tame pačiame žygyje užėmė Gardino priešpilį.
 - susijęs iš [[objektai/ivykiai/Želigovskio smurtas (1920 m. spalio 8–9 d.).md#claim-t-01898|Želigovskio smurtas (1920 m. spalio 8–9 d.)]]: Želigovskio smurtas sulaužė Suvalkų sutartį praėjus dviem dienoms po jos pasirašymo ir sutrikdė Lietuvos ir Lenkijos santykių tvarkymą.
@@ -200,7 +183,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - susijęs iš Sčara: 1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros.
 - susijęs iš Sčara: 1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros.
 - susijęs iš Trošinas: Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingijos gynybos.
-- susijęs iš Vilnius: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė sutartį su Švitrigaila.
 - susijęs iš Vilnius: 1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
 - susijęs iš Vitebskas: Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
 - susijęs iš Vitebskas: 1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
@@ -227,49 +209,11 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - susijęs iš [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“.md#claim-t-195042|„krikščionys turi raudoti dėl jo mirties“]]: Eiliuotinės kronikos autorius apie neofitą Suksę rašė, kad „krikščionys turi raudoti dėl jo mirties“.
 - susijęs iš Dotnava: Forma „Dotnavietis“ vartojama kaip Dotnavos gyventojo pavadinimas.
 - susijęs iš Dotnava: Dotnavoje gyvenantys „Dotnavos gudai“ apibūdinami kaip su vietiniais jau antrą šimtmetį gyvenanti ir kalba bei būdu besiskirianti grupė.
+- susijęs iš Koloža: Koloža minima XV a. pirmosios pusės LDK ir Pskovo karo kontekste.
+- susijęs iš Koloža: 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą.
 - susijęs iš Malburgas: Didysis magistras slapta iš Marienburgo išplaukė Vysla laivais, o paskui per jūros įlanką įplaukė į Nemuną.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nedideli jo kariuomenės būriai
-    iš pasieninių pilių staiga įsiverždavo į Lietuvą ir, apiplėšę apylin-
-    kę, skubiai grįždavo į savo pilis. Grįždami jie atsigabendavo pri-
-    plėštus turtus, atsivarydavo bandas gyvulių ir atsivesdavo dau-
-    gybę belaisvių. Toks žygis paprastai trukdavo ne ilgiau, kaip
-    savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems
-    kelio lietuviai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Grįždami jie atsigabendavo pri-
-    plėštus turtus, atsivarydavo bandas gyvulių ir atsivesdavo dau-
-    gybę belaisvių. Toks žygis paprastai trukdavo ne ilgiau, kaip
-    savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems
-    kelio lietuviai. Sužinoję apie kryžiuočių žygį, lietuviai skubė-
-    davo pasislėpti miškuose, iš kur tykodavo užpulti kryžiuočius,
-    dažnai jie sunaikindavo ištisą grįžtančių kryžiuočių būrį: kry-
-    žiuočių kelią staiga užvertę medžiais, patys iš visų pusių
-    supuolę juos išžudydavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
+- susijęs iš Velikije Lūki: 1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką.
+- susijęs iš Velikije Lūki: Velikije Lūki citatos pastaboje įvardijami kaip vienas iš Lietuvos miestų, kuriuos 1406 m. puolė pskoviečiai.
 ## Citatos
 
 - id: c-69442
@@ -310,5 +254,3 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-182995

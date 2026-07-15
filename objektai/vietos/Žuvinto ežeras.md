@@ -63,22 +63,15 @@ media_all_json: |-
   pagrindžia:
     - c-77306
 
-<a id="claim-t-80591"></a>
-- t-004
-  global_id: t-80591
-  teiginys: "Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais."
-  pagrindžia:
-    - c-44123
-
 <a id="claim-t-80594"></a>
-- t-005
+- t-004
   global_id: t-80594
   teiginys: "Pritrūkę valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė Žuvinto ežeru."
   pagrindžia:
     - c-77305
 
 <a id="claim-t-80595"></a>
-- t-006
+- t-005
   global_id: t-80595
   teiginys: "Per Žuvinto ežerą enkavėdistai plaukė iš kluonų durų pasidarytais plaustais."
   pagrindžia:
@@ -90,90 +83,6 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Muškietininkų būrys.md#claim-t-41091|Muškietininkų būrys]]: 1945 m. birželio 25 d. į pasalą patekę žuvo „Muškietininkų“ būrio vadas Vladas Gavėnas-Tarzanas, Vincas Boruta-Žvalgas ir Sigitas Melnykas-Portas.
 - susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71779|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį.
 - susijęs iš Buktos (Žaliosios) miškas: Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško ir Palių pakraštį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    vadas Vladas Gavėnas-Tarzanas bei lais-
-    vės kovotojai Vincas Boruta-Žvalgas ir
-    Sigitas Melnykas-Portas. Tų pačių metų
-    liepos 13 d., grįždami iš žygio, Dzūkų būrio
-    partizanai prie Žuvinto ežero susidūrė su
-    pasaloje laukusiais NKVD kareiviais ir vie-
-    tiniais stribais. Tuomet žuvo partizanas
-    Jurgis Krušinskas, Juozas Remeikis-Lokys
-    vėliau mirė nuo sužeidimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šis ginklas buvo vienas
-    mėgstamiausių tarp partizanų ir buvo jų pramintas „dešimtuku“ (pagal šovinių dėtuvės talpą)
-
-    patikrinti. Pritrūkus valčių, enkavėdistai
-    nulupo Aleknonių ir Žuvinto kaimų ūki-
-    ninkų kluonų duris ir jomis kaip plaustais
-    plaukė ežeru. Partizanai be paliovos juos
-    apšaudė ir granatomis skandino.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-006
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1945 m. rugpjūčio mėnesio pačioje pra-
-    džioje Palias puolė NKVD užnugario ap-
-    saugos kariuomenės 132-ojo pasienio
-    pulko ir jungtinio pasienio būrio pajė-
-    gos. Žuvinto ežeras ir Palios buvo apsupti
-    šarvuočių. Lėktuvai raketų šūviais nuro-
-    dydavo įtartinas ežero vietas, o ginkluotų
-    kareivių pilnos valtys tuoj pat plaukdavo jų
-
-    Karas po karo
-
-    ## Puslapis 230
-
-    E
-    -
-    "a
-    a“
-    2
-    1
-    wy
-    st
-    a“
-    2
-
-    PUSIAU AUTOMATINIAI ŠAUTUVAI
-
-    Dar prieš Pirmąjį pasaulinį karą buvo sukurti šautuvai, kuriuose
-    šūvio metu išsiskirianti parako dujų energija ne tik išstumdavo
-    kulką iš vamzdžio, bet ir pertaisydavo spyną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-44123
@@ -196,7 +105,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80591
-    - t-80593
 
 - id: c-77305
   sudarytojas: "Karolis Zikaras"

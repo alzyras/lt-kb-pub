@@ -41,28 +41,6 @@ Ji gavo europeiško nobiliteto pažymius — herbus ir nuo tų laikų palengva �
   teiginys: "Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius – herbus."
   pagrindžia:
     - c-38751
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jų vietą
-    užima nauja sociališka jėga, kuriai lemta buvo iškilti jau XV
-    amž. ir ypatingai įsigalėti XVI—XVIII amž.
-    Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­
-    jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji
-    dar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius
-    — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
-    siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
-    luomu.
-    Žinoma mes negalime patikėti Dlugošu, kad iki 1413 met.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

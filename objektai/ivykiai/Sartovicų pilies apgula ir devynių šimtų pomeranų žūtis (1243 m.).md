@@ -13,6 +13,8 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
+  - kunigaikštis
+  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'
@@ -58,56 +60,36 @@ Nenurodyta
   teiginys: "1243 m. brolis Ditrichas su nedidele kariuomene smogė Sartovicų pilį apgulusioms pajėgoms ir nukovė devynis šimtus vyrų."
   pagrindžia:
     - c-63116
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: '1243 m. brolis Ditrichas su nedidele kariuomene smogė Sartovicų pilį apgulusioms pajėgoms ir nukovė devynis šimtus vyrų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Sartovicų pilies apgulą ir devynių šimtų pomeranų žūtį
-
-      Kai apie šiuos įvykius išgirdo minėtasis kunigaikštis,  jis, nepaprastai irzdamas  ir
-    apie nieką kita negalvodamas, tik apie nuodingą kerštą, sušaukė visus Prūsijos žemės
-    naujakrikščius, atsimetusius nuo tikėjimo, ir apsiautė Sartovicų pilį, įnirtingai ją puldamas
-    penkias savaites su visokiais karo įtaisais, apšaudydamas strėlėmis ir griebdamasis visų
-    kitų priemonių, kokias bestengė sugalvoti, o broliai bei kiti apsiaustieji narsiai gynėsi.
-    Tas klastingasis kunigaikštis visados ir elgėsi klastingai. Galop jo nedorybė užrūstino
-    dievą, kai, pasiėmęs didesnę savo kariuomenės dalį, o kitą palikęs kamuoti apsiaustimi
-    pilį, nakties metu slaptai perėjo ledu Vyslą ir daugelyje vietų apiplėšė Kulmo žemę. Jį
-    pasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu
-    dievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo
-    į kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;
-    be kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196968"></a>
+- t-002
+  global_id: t-196968
+  teiginys: "Paklojęs devynis šimtus vyrų, kitus privertė bėgti; be kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių."
   pagrindžia:
-    - t-001
+    - c-63116
 
 ## Citatos
 
 - id: c-63116
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 87"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 87."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Sartovicų pilies apgulą ir devynių šimtų pomeranų žūtį
-
-      Kai apie šiuos įvykius išgirdo minėtasis kunigaikštis,  jis, nepaprastai irzdamas  ir
-    apie nieką kita negalvodamas, tik apie nuodingą kerštą, sušaukė visus Prūsijos žemės
-    naujakrikščius, atsimetusius nuo tikėjimo, ir apsiautė Sartovicų pilį, įnirtingai ją puldamas
-    penkias savaites su visokiais karo įtaisais, apšaudydamas strėlėmis ir griebdamasis visų
-    kitų priemonių, kokias bestengė sugalvoti, o broliai bei kiti apsiaustieji narsiai gynėsi.
-    Tas klastingasis kunigaikštis visados ir elgėsi klastingai. Galop jo nedorybė užrūstino
-    dievą, kai, pasiėmęs didesnę savo kariuomenės dalį, o kitą palikęs kamuoti apsiaustimi
-    pilį, nakties metu slaptai perėjo ledu Vyslą ir daugelyje vietų apiplėšė Kulmo žemę. Jį
+    Jį
     pasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu
     dievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo
     į kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;
-    be kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių.
+    be kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių. Sumuštas
+    kunigaikštis su būreliu kitų vyrų taip slaptai sugrįžo pas savo karius, paliktus siausti pilies,
+    kad apsuptieji nė negalėjo suprasti, kuo baigėsi mūšis. Dėl to jie pasiuntė pas maršalą
+    vieną brolį, kuriam pavedė sužinoti, kuo ten iš tiesų viskas baigėsi; maršalas, viską
+    paaiškinęs, pasiuntė jį atgal, įsakydamas, kad tada, kai jis stosiąs į kovą su Sventopelko
+    kariuomene, jie nusileistų iš pilies ir jam talkintų, be to, pridurdamas, kad pilį valdysią
+    tie, kurie čia iškovosią pergalę. Kai maršalas ketino vėl susigrumti su kunigaikščio
+    kariuomene, Sventopelkas, iš pirmo pralaimėto mūšio tikrai ir aiškiai suvokdamas, jog
+    dievas yra didžiai ant jo užsirūstinęs, ir neabejodamas, jog dieviškosios globos skydas
+    jo nebedengsiąs, be galo išsigando ir taip ištižo, kad nei jis pats, nei dauguma karių
+    nedrįso bent šiek tiek palaukti nedidelės kariuomenės, o gėdingai pasileido bėgti.
   citata_rodoma: "Apie Sartovicų pilies apgulą ir devynių šimtų pomeranų žūtį\n\n  Kai apie šiuos įvykius išgirdo minėtasis kunigaikštis,  jis, nepaprastai irzdamas  ir\napie nieką kita negalvodamas, tik apie nuodingą kerštą, sušaukė visus Prūsijos žemės\nnaujakrikščius, atsimetusius nuo tikėjimo, ir apsiautė Sartovicų pilį, įnirtingai ją puldamas\npenkias savaites su visokiais karo įtaisais, apšaudydamas strėlėmis ir griebdamasis visų\nkitų priemonių, kokias bestengė sugalvoti, o broliai bei kiti apsiaustieji narsiai gynėsi.\nTas klastingasis kunigaikštis visados ir elgėsi klastingai. Galop jo nedorybė užrūstino\ndievą, kai, pasiėmęs didesnę savo kariuomenės dalį, o kitą palikęs kamuoti apsiaustimi\npilį, nakties metu slaptai perėjo ledu Vyslą ir daugelyje vietų apiplėšė Kulmo žemę. Jį\npasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu\ndievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo\nį kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;\nbe kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių."
   statusas: verified
   teiginio_tipas: faktas
@@ -115,3 +97,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62467
+    - t-196968

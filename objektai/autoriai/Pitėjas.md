@@ -7,15 +7,15 @@ datos:
   - '340 m.'
 date_start: '340'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'IV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - autorius
-amziai:
-  - 'IV'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,25 +65,47 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   pagrindžia:
     - c-174431
 
-<a id="claim-t-191550"></a>
+<a id="claim-t-197632"></a>
 - t-005
-  global_id: t-191550
-  teiginys: "Teodoras Narbutas rašo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas tokį pavadinimą laikė neseniai pradėtu vartoti."
+  global_id: t-197632
+  teiginys: "Ši kelionė įvyko 340 metais prieš Kristaus gimimą; nuo tų laikų net iki Tacito senovės autoriai niekur nemini Estijos, nors kai kurie, kaip Diodoras Sicilietis, Melą ir net pats Plinijus, rėmęsis Pitėjo ir kitais kelionių Šiaurės jūromis aprašymais, estų."
   pagrindžia:
-    - c-174432
-## Reikšmingi paminėjimai
+    - c-179270
 
+<a id="claim-t-197633"></a>
+- t-006
+  global_id: t-197633
+  teiginys: "Pitėjas turbūt turėjo iš germanų, kurie visuomet taip gotiškai vadino šiuos kraštus ir žmones."
+  pagrindžia:
+    - c-179271
+
+<a id="claim-t-197634"></a>
+- t-008
+  global_id: t-197634
+  teiginys: "Pitėjas gabenamas, nei kelio, kuriuo jį veždavo."
+  pagrindžia:
+    - c-174428
+
+<a id="claim-t-197635"></a>
+- t-007
+  global_id: t-197635
+  teiginys: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
+  pagrindžia:
+    - c-174431
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes bei tyrinėjo gintaro gavybos vietas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Plinijus surinkęs liudijimų,
-    kad gintaras vaidinęs svarbų vaidmenį senovės moterų
-    ¡puošyboje ir prabangoje. Herodotas, Talis, Aristotelis, Teo-
-    frastas*, o juo labiau Pitėjas Masilietis žinojo šį brangų
-    produktą ir jo savybes, tyrinėjo jo gavybos vietas. Taip
-    pat gintaras lėmė, kaip sakėme, seniausius geografinius
-    tyrinėjimus pakrančių, kur gyveno lietuvių genties tautos.
+    Priartinus mūsų tyrimus prie
+    geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
+    tėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi
+    apie gintaringas vietas; boristeniečiai, ariba Padneprės
+    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
+    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
+    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
+    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -91,112 +113,40 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Teodoras Narbutas Pitėją vadina Masilijos astronomu ir jūrų keliautoju, apie 340 m. pr. Kr. išplaukusiu į Atlantą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­
-    mus Masilijos astronomas ir jūrų keliautojas Pitėjas. Jis,
-    gerai nustatęs išvykimo vietos, t. y. Masilijos uosto, geo­
-    grafinę padėtį, išplaukė į Atlanto vandenyną. Tai įvyko
-    praėjus 90 metų po H imi Ikaro kelionės, arba 340 metais
-    ¡prieš Kristaus gimimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Teodoro Narbuto pasakojime Pitėjas per tą pačią kelionę atrado šiaurines Tanajo upės žiotis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Plinijus paliko mums tokius šio keliautojo
-    aprašymų papildymus: „Pakrantėje, kuri vadinasi Mente-
-    nomonu ir plyti per 6000 stadijų, gyvena germanų gutonų
-    gentis. Per vieną plaukimo iš ten dieną yra Abalo sala,
-    į kurią pavasario audrų bangos išmeta gintaro, sumetė­
-    jusio jūros produkto. Gyventojai naudoja jį vietoj malkų
-    kurui arba parduoda kaimynams teutonams“2. Tos pačios
-    kelionės metu Pitėjas atrado šiaurinės Tanajo upės žiotis3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Teodoras Narbutas nurodo nuomonę, kad Pitėjas keliavo du kartus: į Britaniją ir į šiaurės rytus, kur atrado Baltijos salą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
-    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
-    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
-    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
-    tojas Strabonas daug ką jam priskyrė svetimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Teodoras Narbutas rašo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas tokį pavadinimą laikė neseniai pradėtu vartoti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pitėjas vadina gutonus ger­
-    manų gentimi, tuo tarpu Tacitas tikina, jog šis pavadi­
-    nimas pradėtas vartoti tik neseniai. Vadinasi, norint iš­
-    gelbėti Pitėją, reikia daryti prielaidą, jog šį pavadinimą
-    1 Reikia atkreipti dėmesį, jog pirklių pavydas ir valdžios politika
-    daugelį atradimų laikė paslaptyje. Tai tekste jau minėta.
-    325
-
-    ## Puslapis 336
-
-    Plinijus bus pridūręs1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
+    - t-008
 
 ## Citatos
 
 - id: c-174428
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 150"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Plinijus surinkęs liudijimų,
-    kad gintaras vaidinęs svarbų vaidmenį senovės moterų
-    ¡puošyboje ir prabangoje. Herodotas, Talis, Aristotelis, Teo-
-    frastas*, o juo labiau Pitėjas Masilietis žinojo šį brangų
-    produktą ir jo savybes, tyrinėjo jo gavybos vietas. Taip
-    pat gintaras lėmė, kaip sakėme, seniausius geografinius
-    tyrinėjimus pakrančių, kur gyveno lietuvių genties tautos.
+    Priartinus mūsų tyrimus prie
+    geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
+    tėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi
+    apie gintaringas vietas; boristeniečiai, ariba Padneprės
+    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
+    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
+    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
+    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
+    Keliautojas tik sužinojo, kad jis renkamas prie Eridano
+    upės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­
+    gi kalba apie gintarą, randamą ten, kur Aldeskos upė
+    įteka į Šiaurės jūrą3.
+  citata_rodoma: "Priartinus mūsų tyrimus prie \ngeografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos \ntėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi \napie gintaringas vietas; boristeniečiai, ariba Padneprės \ngraikų kolonistai, jam pasakoję, jog šis produktas pasie­\nkiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt \ndėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei \nvietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191546
+    - t-197634
 
 - id: c-174429
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­
     mus Masilijos astronomas ir jūrų keliautojas Pitėjas. Jis,
@@ -214,8 +164,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
 - id: c-174430
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 156"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 156."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Plinijus paliko mums tokius šio keliautojo
     aprašymų papildymus: „Pakrantėje, kuri vadinasi Mente-
@@ -235,40 +184,68 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
 - id: c-174431
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 335"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
     Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
     toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
-    tojas Strabonas daug ką jam priskyrė svetimo.
+    tojas Strabonas daug ką jam priskyrė svetimo. Dažnai
+    jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
+    ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
+    jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
+    vintais jėzuitų aprašymais.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191549
+    - t-197635
 
-- id: c-174432
+- id: c-179270
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pitėjas vadina gutonus ger­
-    manų gentimi, tuo tarpu Tacitas tikina, jog šis pavadi­
-    nimas pradėtas vartoti tik neseniai. Vadinasi, norint iš­
-    gelbėti Pitėją, reikia daryti prielaidą, jog šį pavadinimą
-    1 Reikia atkreipti dėmesį, jog pirklių pavydas ir valdžios politika
-    daugelį atradimų laikė paslaptyje. Tai tekste jau minėta.
-    325
-
-    ## Puslapis 336
-
-    Plinijus bus pridūręs1.
+    Ši kelionė
+    įvyko 340 metais prieš Kristaus gimimą; nuo tų laikų
+    net iki Tacito senovės autoriai niekur nemini Estijos, nors
+    kai kurie, kaip Diodoras Sicilietis, Melą ir net pats Pli-
+    nijus, rėmęsis Pitėjo ir kitais kelionių Šiaurės jūromis
+    aprašymais, estų nemini. Matyt, priežastis yra ta, kad
+    tuomet nebuvo jokios tautos, su kuria tiesiogiai galima
+    būtų sieti šį pavadinimą. Tik Tacitas, rašęs I mūsų eros
+    amžiaus pabaigoje, paminėjęs germanų gyvenamąsias vie­
+    tas, jų kartas ir papročius ir baigdamas savo aprašymus
+    galinga svebų tautos karta, kuri gyveno šiauriausiuose
+    germanų kraštuose, galop pereina prie Prūsijos pakran­
+    čių ir prisimena estus.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191550
+    - t-197632
+
+- id: c-179271
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Matyt, priežastis yra ta, kad
+    tuomet nebuvo jokios tautos, su kuria tiesiogiai galima
+    būtų sieti šį pavadinimą. Tik Tacitas, rašęs I mūsų eros
+    amžiaus pabaigoje, paminėjęs germanų gyvenamąsias vie­
+    tas, jų kartas ir papročius ir baigdamas savo aprašymus
+    galinga svebų tautos karta, kuri gyveno šiauriausiuose
+    germanų kraštuose, galop pereina prie Prūsijos pakran­
+    čių ir prisimena estus. 2inių apie šį pavadinimą jis tur­
+    būt turėjo iš germanų, kurie visuomet taip gotiškai vadi­
+    no šiuos kraštus ir žmones.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197633

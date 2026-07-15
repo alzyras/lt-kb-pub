@@ -36,25 +36,6 @@ media_all_json: |-
   teiginys: "Įsigalėjęs kardininkų ordinas virto paprasta militarine valstybe."
   pagrindžia:
     - c-14592
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Įsigalėjęs kardininkų ordinas virto paprasta militarine valstybe.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pirmiausia tai buvo 1202 met.
-    įsteigtasis „Kristaus kariuomenės brolių“ — „kardininkų“
-    ordinas. Jis turėjo tikslą garantuoti jaunutei krikščionių ko­
-    lonijai (Rygoje ir apylinkėse) bei bažnyčiai saugumą ir pagel­
-    bėti dvasiškijai varyti apaštalavimo darbą karingų pagonų tar­
-    pe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

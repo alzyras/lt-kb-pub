@@ -35,8 +35,8 @@ Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni spor
   teiginys: "Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni sporzjadają“, aiškindami, jog jos per daug suėda."
   pagrindžia:
     - c-172473
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni sporzjadają“, aiškindami, jog jos per daug suėda.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -66,16 +66,14 @@ Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni spor
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    10*.
-    183
-
-    ## Puslapis 183
-
-    Lietuvos rusinai pasakoja apie panašias baidykles, turin­
-    čias keliamečių vaikų pavidalą, vadindami jas Zlydni. Jos vi­
-    suomet kenkia, o kai įsiskverbia į kieno nors namus, apsiryja
-    ir prisigeria iki nukritimo; įdomiai apie jas sako: oni sporzja-
-    dają -  jos per daug suėda.
+    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
+    pagrindą ištisai sudaro indų padavimai. Saulė ir mėnuo, du
+    svarbiausieji dangaus kūnai, į savo giminę įtraukia visus kitus,
+    kurie yra jų vaikai.
+    Rūpestingai surinkome to pirmykščio kulto liekanas, išli­
+    kusias mitologinėse istorijose, padavimuose ir dainose, ir pa­
+    gal tai išdėstome tokiu būdu.
+  citata_rodoma: "10*.\n183\n\n## Puslapis 183\n\nLietuvos rusinai pasakoja apie panašias baidykles, turin­\nčias keliamečių vaikų pavidalą, vadindami jas Zlydni. Jos vi­\nsuomet kenkia, o kai įsiskverbia į kieno nors namus, apsiryja\nir prisigeria iki nukritimo; įdomiai apie jas sako: oni sporzja-\ndają -  jos per daug suėda."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,7 +41,6 @@ Narbutas Čeltyčias vaizdavo kaip Baltijos jūros vandenų nimfas, pajūrio že
 - susijęs iš Baltijos jūra: Narbutas čeltyčias apibūdino kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.
 - susijęs iš [[objektai/zodynas/Strungai Strungas.md#claim-t-189333|Strungai Strungas]]: Narbutas Vilija plaukiojusius krovininius laivus strungais kildino iš lietuviško žodžio „Strungas“ ir vaizdavo juos kaip upinių laivų milžinus.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas Čeltyčias vaizdavo kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -72,17 +71,19 @@ Narbutas Čeltyčias vaizdavo kaip Baltijos jūros vandenų nimfas, pajūrio že
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Čeltyčios (Czeltice)
-    Tai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių
-    vaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­
-    152
-
-    ## Puslapis 152
-
-    taro rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusivi­
-    liodavo į savo slėptuves dailius jaunikaičius, kurie jau niekuo­
-    met iš ten nebesugrįždavo . Tų deivių karalienės vardas buvo
-    Jūratė .
+    Ragana (Ragana)
+    Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei­
+    vės, globojančios tam tikrus medžius, augančius savaime arba
+    kieno nors persodintus. Tokie medžiai yra užkerėti, tad pavo­
+    jinga juos liesti.
+    Kiekviena ragana turėjo savo medį, kurį globojo stengda­
+    masi padalyti viską, kad jis būtų sveikas ir augtų. Žmonėms,
+    kurie jai tuo tikslu būtų padėję, ji galėjo suteikti tūkstantį pa­
+    slaugų ir malonumų. Priešingai, tam, kuris norėjo savavališ­
+    kai pakenkti medžiui arba nukirsti ji, jos galėjusios atimti ran­
+    kų ir kojų galią, sutraukti sąnarius arba tokį žmogų užkrėsti
+    neišgydomomis ligomis.
+  citata_rodoma: "Čeltyčios (Czeltice)\nTai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių\nvaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­\n152\n\n## Puslapis 152\n\ntaro rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusivi­\nliodavo į savo slėptuves dailius jaunikaičius, kurie jau niekuo­\nmet iš ten nebesugrįždavo . Tų deivių karalienės vardas buvo\nJūratė ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

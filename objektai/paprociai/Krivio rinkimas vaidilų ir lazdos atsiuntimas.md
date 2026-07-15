@@ -51,40 +51,18 @@ Nenurodyta
   teiginys: "Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at siųsdavo lazdą su dviem užlenkimais."
   pagrindžia:
     - c-177214
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at siųsdavo lazdą su dviem užlenkimais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tą patvirtina
-    paprotys, gyvavęs Lietuvoje iki XVI amžiaus, kuriuo didelės
-    sumos auksu būdavo dedamos saugoti į Vilniaus bažnyčios -
-    Katedros -  iždą .
-    Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at­
-    siųsdavo lazdą su dviem užlenkimais. Žyniai vilkėdavo įpras­
-    tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
-    juosta, kuria apsivyniodavo septynis kartus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177214
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 290"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tą patvirtina
     paprotys, gyvavęs Lietuvoje iki XVI amžiaus, kuriuo didelės
     sumos auksu būdavo dedamos saugoti į Vilniaus bažnyčios -
-    Katedros -  iždą .
+    Katedros - iždą .
     Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at­
     siųsdavo lazdą su dviem užlenkimais. Žyniai vilkėdavo įpras­
     tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės

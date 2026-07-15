@@ -47,7 +47,6 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 - susijęs iš [[objektai/asmenys/Laurynas Goslickis.md#claim-t-87539|Laurynas Goslickis]]: Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau Poznanės vyskupas ir lotyniškos knygos „De optimo Senatore“ autorius.
 - susijęs iš [[objektai/asmenys/Motiejus Kazimieras Sarbievijus.md#claim-t-19157|Motiejus Kazimieras Sarbievijus]]: Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose.
 - susijęs iš [[objektai/asmenys/Mykolas Lietuvis.md#claim-t-191962|Mykolas Lietuvis]]: Mykolas Lietuvis, Narbuto apibūdintas kaip Lenkijos mokslo amžiaus autorius, stengėsi įrodyti lietuvių ir lotynų kalbų vienodumą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176654|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas mokėjo vokiečių ir lotynų kalbas, o šaltinyje svarstoma, kad galėjo mokėti ir rusų bei totorių kalbas.
 - susijęs iš [[objektai/autoriai/Adomas Rogalskis.md#claim-t-190412|Adomas Rogalskis]]: Adomo Rogalskio vertimas iš lotynų kalbos 1823 m. buvo išspausdintas Vilniaus periodiniame leidinyje „Dziennik Wileński“.
 - susijęs iš [[objektai/autoriai/Grigalius Kniaževičius.md#claim-t-88058|Grigalius Kniaževičius]]: Grigalius Kniaževičius iš lotynų kalbos išvertė Vilniaus vyskupijos dotacijos nuorašą, išspausdintą 1822 m. „Dzieje dobroczynności“.
 - susijęs iš [[objektai/autoriai/Janockis.md#claim-t-88068|Janockis]]: Janockis Augustą Rotundą vadino Mieleskiu ir pasakojo, kad šis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti „Lietuvos istoriją“.
@@ -79,7 +78,6 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 - susijęs iš Lietuva: Teodoras Narbutas lietuvių kalbą kildino iš pelazgų kalbos šakos kartu su graikų ir lotynų kalbomis.
 - susijęs iš Lotynų Amerika: Iš Lotynų Amerikos plukdomas auksas prisidėjo prie Ispanijos ir Portugalijos lyderystės praradimo, nes neskatino plėtoti jų miestų ir ekonomikos.
 - susijęs iš Portugalija: Portugalija ir Ispanija neteko lyderių pozicijų, nes iš Lotynų Amerikos plukdomas auksas neskatino vietos miestų ir ekonomikos plėtros.
-- susijęs iš Vilnius: Popiežiui buvo įteiktas 1323 m. Vilniuje sudarytos sutarties nuorašas, išverstas iš vokiečių į lotynų kalbą.
 - susijęs iš [[objektai/paprociai/Lotynų kalbos vartojimas kaip diplomatinės kalbos.md#claim-t-192105|Lotynų kalbos vartojimas kaip diplomatinės kalbos]]: Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip diplomatinę kalbą.
 - susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-18765|Albertas Vijūkas-Kojalavičius]]: Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje.
 - susijęs iš [[objektai/asmenys/Albrechtas (Prūsijos hercogas).md#claim-t-60230|Albrechtas (Prūsijos hercogas)]]: Karaliaučiaus karališkos bibliotekos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį jo šeimininką.
@@ -229,34 +227,12 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 - susijęs iš [[objektai/zodynas/Kiniglis.md#claim-t-192329|Kiniglis]]: Narbutas nurodo, kad lietuvių kalboje žodis „Kiniglis“ reiškia triušį.
 - susijęs iš [[objektai/zodynas/Kiniglis.md#claim-t-192330|Kiniglis]]: Narbutas „Kiniglis“ mini kaip senojo lenkų herbo pavadinimą, kuriame matė lietuvių kalbai būdingų elementų.
 - susijęs iš [[objektai/zodynas/Kiniglis.md#claim-t-192331|Kiniglis]]: Narbutas aiškina, kad „Paparona“ arba „Kiniglis“ reiškia ne kiškį, kaip rašyta „Herbyne“, o triušį.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po Konstantinopolio užėmimo imperatoriumi tapo Flandrijos grafas Balduinas, o lotynai ten valdė 57 metus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Konstantinopolio miesto užėmimą
-
-      1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog
-    niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai,
-    įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir
-    apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
-    lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-64120
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 225"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Konstantinopolio miesto užėmimą
 

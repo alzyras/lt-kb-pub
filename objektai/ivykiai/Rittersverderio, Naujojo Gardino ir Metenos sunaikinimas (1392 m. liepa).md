@@ -65,42 +65,6 @@ Nenurodyta
   teiginys: "1392 m. liepą Vytautas staiga pasirodė prie Rittersverderio pilies ir ją sudegino, o paskui atsigręžė prieš Naująjį Gardiną ir Meteną."
   pagrindžia:
     - c-88382
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1392 m. Vytautas sustiprino Gardiną, atsigręžė prieš Naująjį Gardiną ir Meteną, sunaikino šias pilis bei paėmė Ordino karius ir pirklius į nelaisvę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Po to
-    skubiai atvyko prie Gardino, jį labai sustiprino ir tuojau atsigrę­
-    žė prieš Neu-Gardiną ir Meteną. Tos pilys taip pat buvo visiš­
-    kai ligi pamatų sunaikintos. Tose pilyse buvusius Ordino ka­
-    rius ir pirklius Vytautas paėmė nelaisvėn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuo tarpu kaip tik patogiu momentu Vytau­
-    tas ir pasiryžo pereiti į Jogailos pusę, kuris Ordino derybomis
-    su vengrais taip pat buvo labai nepatenkintas. Vytautui dabar
-    beliko tik veikti, o jau kalbamų metų liepos mėn. staiga jis pa­
-    sirodė prie Rittersverderio pilies, kurią tuojau sudegino. Po to
-    skubiai atvyko prie Gardino, jį labai sustiprino ir tuojau atsigrę­
-    žė prieš Neu-Gardiną ir Meteną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

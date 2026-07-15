@@ -33,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merkinės valsčiaus valstiečių maištininkų vadu.
+Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merkinės valsčiaus valstiečių maištininkų vadu. Leicis buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima.
 
 ## Teiginiai
 
@@ -43,37 +43,13 @@ Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merk
   teiginys: "Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merkinės valsčiaus valstiečių maištininkų vadu."
   pagrindžia:
     - c-173062
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merkinės valsčiaus valstiečių maištininkų vadu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
-    radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
-    šytoje ant pergamento rusų kalba, kuria bajorui Rimvydui
-    128
-
-    ## Puslapis 128
-
-    (Rymwidowi) suteikia žemę prie Merkio upės Trakų apskrity­
-    je. Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­
-    tymais garantuojama, laisvės siekiančių Merkinės valsčiaus
-    valstiečių maišto nuslopinimą, taip pat už sugavimą maišti­
-    ninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo
-    didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
-    liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
-    (Lietwii) ženklas.
-    Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
-    suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
-    dodavo laisvės deivės simboliu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197423"></a>
+- t-002
+  global_id: t-197423
+  teiginys: "Leicis buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima."
   pagrindžia:
-    - t-001
+    - c-173062
 
 ## Citatos
 
@@ -82,27 +58,19 @@ Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merk
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
-    radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
-    šytoje ant pergamento rusų kalba, kuria bajorui Rimvydui
-    128
-
-    ## Puslapis 128
-
-    (Rymwidowi) suteikia žemę prie Merkio upės Trakų apskrity­
-    je. Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­
-    tymais garantuojama, laisvės siekiančių Merkinės valsčiaus
-    valstiečių maišto nuslopinimą, taip pat už sugavimą maišti­
-    ninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo
-    didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
-    liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
-    (Lietwii) ženklas.
-    Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
-    suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
-    dodavo laisvės deivės simboliu.
+    Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
+    dindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį
+    mitą pastebi Stenderis, bet dėl savo keistos etimologizacijos
+    sudvejina: vienur vadinaDekkla, kitur - Tikla. Taip pat priski­
+    ria jai nebūdingas ypatybes: kadangi ji buvusi prievartos ne-
+    pakenčiančio jaunimo deivė, tai painioja ją su Laima.
+    Veliona (Wellona)
+    Tai buvo garsi amžinybės, amžinos vilties, būsimo pomirti­
+    nio gyvenimo deivė.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190179
+    - t-197423

@@ -35,7 +35,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­ nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas Janas Kropidła iš Jogailos svitos.
+Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos giminystės.
 
 ## Teiginiai
 
@@ -45,65 +45,6 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
   teiginys: "Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos giminystės."
   pagrindžia:
     - c-83803
-
-<a id="claim-t-184819"></a>
-- t-002
-  global_id: t-184819
-  teiginys: "Kojelavičius vaizduoja Vilniaus vyskupą Petrą kaip atkakliai prieštaravusį Vytauto santuokai, nes ji esą pažeidė Dievo ir žmonių įstatymus."
-  pagrindžia:
-    - c-168180
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos giminystės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kai
-    Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­
-    džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­
-    lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­
-    dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono
-    Algimantaičio dukterį. Tačiau Vilniaus vyskupas Petras tam
-    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
-    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
-    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
-    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
-    ti, ir kuris palaimino tą santuoką.
-    Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
-    su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
-    klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
-    dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
-    skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
-    daugelis dažnai buvodavo jo rūmuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vilniaus vyskupas Petras atkakliai priešinosi Vytauto santuokai, kad nebūtų pažeisti Dievo ir žmonių įstatymai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Julijona mi-
-    rusiajai buvo teta. Todėl Petras, Vilniaus vyskupas,
-    labai atkakliai priešinosi šiai santuokai, kad nebūtų pa­
-    žeisti dievo bei žmonių įstatymai. Galbūt atkakliu ne­
-    pritarimu ir būtų privertęs
-    V y ta u ta s  v e d a
-    Vytautą atsisakyti šio suma­
-    nymo, jeigu nebūtų parėmęs
-    Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at­
-    vykęs į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -136,26 +77,3 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87824
-
-- id: c-168180
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 394"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 394."
-  citata_originali: |
-    Julijona mi-
-    rusiajai buvo teta. Todėl Petras, Vilniaus vyskupas,
-    labai atkakliai priešinosi šiai santuokai, kad nebūtų pa­
-    žeisti dievo bei žmonių įstatymai. Galbūt atkakliu ne­
-    pritarimu ir būtų privertęs
-    V y ta u ta s  v e d a
-    Vytautą atsisakyti šio suma­
-    nymo, jeigu nebūtų parėmęs
-    Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at­
-    vykęs į Lietuvą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184819

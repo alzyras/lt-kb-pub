@@ -35,38 +35,22 @@ Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nu
   teiginys: "Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nugalėtojas turi teisę valdyti nugalėtuosius."
   pagrindžia:
     - c-168840
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nugalėtojas turi teisę valdyti nugalėtuosius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Lietuviai, net būdami pagonys, teisėtai valdę
-    Rusios krikščionis (rutėnus, arba rusinus) — pravos­
-    lavus, nes buvo juos nukariavę. Pasak jo, nugalėtojas
-    turi teisę valdyti nugalėtuosius. Lietuvius apkrikštijus,
-    toji teisė padvigubėjusi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-168840
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 11"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 11."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Lietuviai, net būdami pagonys, teisėtai valdę
-    Rusios krikščionis (rutėnus, arba rusinus) — pravos­
-    lavus, nes buvo juos nukariavę. Pasak jo, nugalėtojas
-    turi teisę valdyti nugalėtuosius. Lietuvius apkrikštijus,
-    toji teisė padvigubėjusi.
+    Švit­
+    rigaila rėmėsi Rusios kunigaikščiais ir bajorais pravos­
+    lavais, o Žygimantas — Lietuvos didikais ir bajorais ka­
+    talikais bei Lenkijos ponais. Skilimą pavyko pašalinti,
+    sulyginus — bent formaliai — pravoslavų feodalų (ne
+    dvasininkų) teises su to paties luomo katalikų teisė­
+    mis. Apie tai A. Kojelavičius neužsiminė, nes tam ne­
+    pritarė.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

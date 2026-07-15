@@ -62,45 +62,6 @@ Nenurodyta
   teiginys: "Po Aizkrauklės kautynių riterių vėliava atiteko pagonims."
   pagrindžia:
     - c-163189
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po Aizkrauklės kautynių riterių vėliava atiteko pagonims.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    5 d.), iš kurių kry­
-    žiuočių nelaimei pasitraukė žiemgaliai^238 , žuvo pats magistras ir 71
-    ordino riteris^239. Skaudžiam Aizkrauklės pralaimėjimni Eiliuotinės
-    kronikos autorius tepaskyrė, palyginti, nedaug posmelių. Iš to, ką
-    kronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­
-    ventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir
-    pagonims atiteko riterių vėliava 240 *.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Skaudžiam Aizkrauklės pralaimėjimni Eiliuotinės
-    kronikos autorius tepaskyrė, palyginti, nedaug posmelių. Iš to, ką
-    kronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­
-    ventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir
-    pagonims atiteko riterių vėliava 240 *. O jos netekimas kovoje, prie
-    viduriniais amžiais perdėtai vertinamos įvairių ženklų simbolikos,
-    skaitėsi didelė nelaimė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

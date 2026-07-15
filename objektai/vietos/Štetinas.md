@@ -55,26 +55,6 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 - susijęs iš Stralsundas: Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas.
 - susijęs iš Ukmergė: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
 - susijęs iš [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės.md#claim-t-86570|Rygos miesto civilinė teisė vokiečių teisės]]: Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vienas tų
-    laiškų (1323.1.24), skirtas «visai krikščionijai», buvo išsiuntinėtas
-    penkiems Vokietijos miestams ir Romai (Avignonui). O trys laiškai
-    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­
-    konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
-    Greifswaldni, Stettinui ir Gotlando salai). Du, o gal ir trys laiškai
-    buvo parašyti popiežiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-158753

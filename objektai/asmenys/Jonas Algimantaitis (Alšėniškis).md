@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Jonas Algimantaitis (Alšėniškis)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -25,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Joną Algimantaitį (Alšėniškį)^3 ).
+Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vietininku Kijeve. Kojelavičius pasakoja, kad Jonas Algimantaitis neilgai džiaugėsi naujomis valdomis, nes jo džiaugsmą nutraukė kito žmogaus nedorumas.
 
 ## Teiginiai
 
@@ -35,21 +36,13 @@ Joną Algimantaitį (Alšėniškį)^3 ).
   teiginys: "Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vietininku Kijeve."
   pagrindžia:
     - c-54947
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taip
-    pav., mirus Kijevą valdžiusiam Skirgailai, jis savo vietininku
-    ten paskyrė sau artimą kunig. Joną Algimantaitį (Alšėniškį)^3 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
+<a id="claim-t-196495"></a>
+- t-002
+  global_id: t-196495
+  teiginys: "Kojelavičius pasakoja, kad Jonas Algimantaitis neilgai džiaugėsi naujomis valdomis, nes jo džiaugsmą nutraukė kito žmogaus nedorumas."
   pagrindžia:
-    - t-001
+    - c-178729
 
 ## Citatos
 
@@ -69,3 +62,28 @@ Joną Algimantaitį (Alšėniškį)^3 ).
   patikimumo_saltinis: ai
   pagrindzia:
     - t-53956
+
+- id: c-178729
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Vis dėlto neil­
+    gai jis džiaugėsi naujomis
+    valdomis, kurių taip aistringai troško: džiaugsmą nu­
+    traukė kito žmogaus nedorumas. Mat vieną kartą Skir­
+    gaila po smagios medžioklės užsuko į netolimą rusų
+    vienuolyną ir čia po puikių pietų susimanė gerti; įsi­
+    linksminęs sugalvojo varžytis, kas daugiau išgers; ka­
+    dangi nebuvo ragautojo, vienuolyno viršininkas, pava­
+    davęs tuo metu Kijevo metropolitą, slaptai jam įpylė
+    nuodų. Aiškus nusikaltimas, tačiau daug kas troško
+    šitokios baigties, kai nekenčiamas valdovas savo gyvy­
+    be užmoka už gyvybes tų, kurių nelaimei ketino gyven­
+    ti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196495

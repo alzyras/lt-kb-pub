@@ -56,9 +56,10 @@ Nenurodyta
   global_id: t-195325
   teiginys: "Liuntas aprašomas kaip vyžų medžiaga ir minkštos virvės pavidalas."
   pagrindžia:
-    - c-177713
     - c-177712
+    - c-177713
     - c-177714
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

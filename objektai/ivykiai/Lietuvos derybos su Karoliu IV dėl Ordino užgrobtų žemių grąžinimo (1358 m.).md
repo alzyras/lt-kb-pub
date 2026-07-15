@@ -57,32 +57,13 @@ Nenurodyta
   teiginys: "1358 m. Lietuvos vyriausybė derybose su imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros."
   pagrindžia:
     - c-63694
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1358 m. Lietuvos vyriausybė derybose su imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
-    apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.
-    1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
-    grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
-    Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63694
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 12"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
     apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.

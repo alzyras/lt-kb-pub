@@ -78,28 +78,6 @@ Nenurodyta
 - susijęs iš Gegužės 3 d. konstitucija (1791 m.): Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės 3 d. konstituciją.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-183400|Bajorų respublika liberum veto]]: Lenkijoje ir Lietuvoje visuomenės agrarinis pobūdis ir miestų silpnumas lėmė Bajorų respublikos susiformavimą.
 - susijęs iš Malburgas: Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pasipriešinimo teisė
-    visų buvo labai branginama, nes visi savo laisvės pagrindu laikė
-    šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
-    _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
-    pasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti,
-
-
-    nieko nenuveikę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-153470

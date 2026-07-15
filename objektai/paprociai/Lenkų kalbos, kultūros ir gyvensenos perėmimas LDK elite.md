@@ -75,51 +75,6 @@ Nenurodyta
   teiginys: "Integraciniai procesai viešajame gyvenime skatino lenkiškojo kalbinio kultūros modelio plitimą LDK elite."
   pagrindžia:
     - c-166708
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Nors Lietuvoje ir toliau bandyta rašyti lotyniškai ir lietuviškai, lenkėjimas pamažu apėmė visą jos politinį ir kultūrinį elitą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gyveni-
-    mas reikalavo vis daugiau lietuviškų žodžių, bet, užuot juos kūrus, buvo
-    pasisavinami lenkiški. Taigi lietuvių kalbą, nesuspėjant kurti naujadarų
-    pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų,
-    tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
-    žemėse priemone.
-    Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai,
-    lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-
-    tavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai,
-    vis labiau plito lenkiškasis, kurį skatino integraciniai procesai viešajame
-    gyvenime. Bene svarbiausias lenkiškojo modelio pradžios taškas buvo
-    1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie-
-    tuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo-
-    rijos knyga. Lietuvos lenkėjimo procesas yra vienas svarbiausių Baroko
-
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    69
-    epochos reiškinių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
 
 ## Citatos
 
@@ -165,5 +120,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183318
     - t-54271
+    - t-183318

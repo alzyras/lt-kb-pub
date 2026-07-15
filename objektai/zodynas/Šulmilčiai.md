@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'Šulmilčiai'
 sukurta: '2026-07-12'
 variantai:
-  - „šulmilčiais“
+  - '„šulmilčiais“'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -58,6 +58,7 @@ Terminas vartojamas šalutinio kruopų gamybos produkto ir vaikų maisto bei ža
   teiginys: "Šulmilčiai šiame šaltinyje duodami vaikams tešlai ir lipdiniams."
   pagrindžia:
     - c-178043
+
 ## Citatos
 
 - id: c-178043

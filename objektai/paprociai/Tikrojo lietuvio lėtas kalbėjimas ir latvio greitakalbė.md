@@ -55,39 +55,13 @@ Nenurodyta
   teiginys: "Narbutas „tikrąjį lietuvį“ apibūdina kaip kalbantį lėtai, su pauzėmis ir atidžiai paisantį balsių ilgumo."
   pagrindžia:
     - c-174963
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas „tikrąjį lietuvį“ apibūdina kaip kalbantį lėtai, su pauzėmis ir atidžiai paisantį balsių ilgumo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kilmė, kalba, religija, papročiai ir įpročiai buvo
-    tokie pat, išskyrus stipriai išryškėjusius dialektinius kal­
-    bos skirtumus naujesnių kalbų atžvilgiu, ypač įsiterpus
-    slavų kalbai bei kitoms nepažįstamoms, galbūt livoniš-
-    koms priemaišoms; tai kartu su būdingu latvių tautos
-    bruožu, kuris reiškiasi greitakalbe ir pernelyg greitu min­
-    čių perteikimu, taip keičia lietuvių kalbą, kad, vos ją iš­
-    girdus, sunku suprasti. Tikrasis lietuvis kalba lėtai, pa­
-    sverdamas žodžius, su pauzėmis ir atidžiausiai paiso bal­
-    sių ilgumo. Latvis, atvirkščiai, greitai taria, trumpina žo­
-    džius, beria ištisus skiemenis ir visiškai neatsižvelgia į
-    balsių ilgumą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174963
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 284"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 284."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kilmė, kalba, religija, papročiai ir įpročiai buvo
     tokie pat, išskyrus stipriai išryškėjusius dialektinius kal­

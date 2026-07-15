@@ -44,43 +44,6 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
   teiginys: "1434 m. rugsėjo 8 d. Trakuose Vilniaus kaštelionas Aštikas buvo tarp akto patvirtinimui pritarusių asmenų."
   pagrindžia:
     - c-83608
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1434 m. rugsėjo 8 d. Trakuose Vilniaus kaštelionas Aštikas buvo tarp akto patvirtinimui pritarusių asmenų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lelus-
-    chio Trocensi Palatinis, Kezygal de
-    Deuweltowo, Petraschio Montygerdo-
-    wicz, Chodkone Jurgeowicz, Iwaschko-
-    ne Gastoltowicz, Olechnowe Dowoyno-
-    wicz, et nobili Nicolao Curiae nostrae
-    notario quo praesentia habuit in com­
-    missis etc. [Aktuota ir duota Tra­
-    kuose, Viešpaties metais 1434, ket­
-    virtadienį, per Švč. Garbingosios
-    Mergelės Marijos gimimo dieną
-    (rugsėjo 8), dalyvaujant Jo Dideny­
-    bei ir pritariantiems: Vilniaus kašte­
-    lionui Aštikui, Vilniaus vaivadai
-    Daugirdui, Trakų vaivadai Le-
-    liušiul, Kęsgailai iš Deltuvos, Petraš­
-    kai Montgirdaičiui, Chodkai Jurge-
-    ovičiui, Ivaškai Goštautaičiui,
-    Olechnai Davainaičiui ir kilminga­
-    jam mūsų rūmų raštininkui, kuriam
-    dabartinis reikalas buvo patikėtas"
-    ir t. t. Panašiai 1436 m. tas pats Žy­
-    gimantas Vilniaus kapitulai padova­
-    nojo Vainelgų dvarą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

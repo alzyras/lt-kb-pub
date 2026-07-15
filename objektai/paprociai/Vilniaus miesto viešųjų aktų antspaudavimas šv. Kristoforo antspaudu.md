@@ -77,58 +77,6 @@ Nenurodyta
   teiginys: "Viešiesiems reikalams Vilniaus magistratas galėjo naudoti tik senąjį miesto antspaudą su šv. Kristoforo atvaizdu ant raudono lako."
   pagrindžia:
     - c-55734
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O 1568 metų
-    birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu
-    sprendimu apsaugojo miestiečius nuo engiančio užrašinėji-
-    mo jų namuose apsigyventi dvariškiams, karaliaus valdi­
-    ninkams ir svetimšaliams pasiuntiniams, be miesto tarybos
-    žinios ir leidimo. Tas pats Gardino seimas Vilniaus miesto
-    gyventojams buvo labai įsimintinas dėl suteiktos privilegi­
-    jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs
-    vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­
-    rate, su palikuonimis buvo visiems laikams pakeltas į bajo­
-    rų luomą ir įgijo teisę į visus pasaulietinius ir dvasinius ran­
-    gus. Tokiems miestiečiams galėjo būti suteikti bajorų herbai,
-    bet tik sutikus nors vienai pastariesiems priklausančiai šei­
-    mai, o viešiesiems reikalams magistratas negalėjo naudoti
-    kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su
-    šventojo Kristoforo atvaizdu, ant raudono lako, kaip buvo
-    įprasta pirmuosiuose Karalystės miestuose39.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Bet to negalime dovanoti die­
-    vobaimingiems Vilniaus miestie­
-    čiams, kad jie 1548 metais, kaip
-    teigia straipsnio apie Vilniaus ant­
-    spaudą autorius, turėdami herbe šv.
-    Kristoforą, apie kurį karalius Žygi­
-    mantas Augustas dabar pacituoto­
-    je privilegijoje taip aiškiai kalba, iš­
-    drįso panaudoti kažkokį pagonių
-    milžiną Alkį patvirtinančiam ant­
-    spaudui. Dėl kokios priežasties? Ne­
-    įmanoma suprasti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -40,21 +40,6 @@ Klimo, LIETUVIŲ KALBOS SINTAKSĖ.
   teiginys: "P. Klimo „Lietuvių kalbos sintaksės“ septintasis leidimas išleistas 1928 m."
   pagrindžia:
     - c-37217
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'P. Klimo „Lietuvių kalbos sintaksės“ septintasis leidimas išleistas 1928 m.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    15. P. Klimo, LIETUVIŲ KALBOS SINTAKSĖ. Septintasis leidimas.
-    1928 m. Kaina Lt. 1,50.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

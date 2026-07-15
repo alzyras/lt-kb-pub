@@ -41,19 +41,6 @@ p- 139, „XVIII A.
   teiginys: "Andžejus Geglis sukūrė iliustraciją „XVIII a. linijinė taktika“."
   pagrindžia:
     - c-43305
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p- 139, „XVIII A. LINIJINĖ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

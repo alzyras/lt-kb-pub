@@ -35,25 +35,6 @@ Susiformavo dvi kultūrinės kryptys – etnokultūrinis sąjūdis ir dėl Vakar
   teiginys: "XX a. septintame dešimtmetyje Lietuvoje dėl Vakarų kultūros įtakos susiformavo roko muzikos grupių, hipių, pankų, rokerių ir kitų jaunimo bendrijos."
   pagrindžia:
     - c-24846
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XX a. septintame dešimtmetyje Lietuvoje dėl Vakarų kultūros įtakos susiformavo roko muzikos grupių, hipių, pankų, rokerių ir kitų jaunimo bendrijos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XX a. septintame dešimtmetyje ir visoje Europoje, ir Lietuvoje plito
-    vakarietiškos muzikos ir jaunimo laisvės bei naujo gyvenimo stiliaus idė-
-    jos. Jaunimo bendruomenių veikla pasidarė priešiška sovietinės sistemos
-    nustatytiems kultūros standartams. Susiformavo dvi kultūrinės kryptys –
-    etnokultūrinis sąjūdis ir dėl Vakarų kultūros įtakos susidariusios jaunimo
-    roko muzikos grupių, hipių, pankų, rokerių ir kitų bendrijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

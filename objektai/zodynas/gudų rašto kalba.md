@@ -42,42 +42,6 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
   teiginys: "Plačiosios bajorų masės lotynų kalbos nemokėjo, nes nebuvo mokyklų, kuriose jie būtų galėję išmokti, ir gyvenimas nuėjo savo vaga."
   pagrindžia:
     - c-175898
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau judėjimas dėl lotynų kalbos veikiai aprimo. Plačiosios
-    bajorų masės lotynų kalbos nemokėjo, nes nebuvo mokyklų,
-    kuriose jie būtų galėję išmokti, ir gyvenimas nuėjo savo vaga.
-    Dar ilgai buvo vartojama ta pati gudų kalba, o po unijos kaskart
-    vis labiau ėmė įsigalėti lenkų kalba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Plačiosios bajorų masės lotynų kalbos nemokėjo, nes nebuvo mokyklų, kuriose jie būtų galėję išmokti, ir gyvenimas nuėjo savo vaga.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Plačiosios
-    bajorų masės lotynų kalbos nemokėjo, nes nebuvo mokyklų,
-    kuriose jie būtų galėję išmokti, ir gyvenimas nuėjo savo vaga.
-    Dar ilgai buvo vartojama ta pati gudų kalba, o po unijos kaskart
-    vis labiau ėmė įsigalėti lenkų kalba. Tuo pat metu visi publi-
-    cistiški ginčai jau ėjo lenkų kalba; lenkiškais raštais kovojo ir
-    katalikai su tuo metu iškilusiu protestantizmu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

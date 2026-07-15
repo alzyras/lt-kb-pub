@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,6 +35,13 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   teiginys: "Pasakojime šventasis Bernardas sapne žengė brolių priekyje ir atsisakė priimti maldavusį vyrą į bendrininkus."
   pagrindžia:
     - c-60880
+
+<a id="claim-t-197061"></a>
+- t-002
+  global_id: t-197061
+  teiginys: "Bernardas nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje."
+  pagrindžia:
+    - c-60880
 - susijęs iš [[objektai/asmenys/Bernardas (Jachnos sūnus).md#claim-t-87632|Bernardas (Jachnos sūnus)]]: 1491 m. dokumente Jachnos sūnus Bernardas vadinamas magistru Bernardu, pono Jachnos sūnumi.
 - susijęs iš [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas).md#claim-t-184674|Bernardas (Šv. Teofrido vienuolyno abatas)]]: Šv. Teofrido vienuolyno abatas Bernardas kartu su Alėto vyskupu Baltramiejumi tapo pasiuntiniu taikos ir krikšto reikalu.
 - susijęs iš [[objektai/asmenys/Bernardas iš Svidnicos.md#claim-t-87633|Bernardas iš Svidnicos]]: 1322 m. žiemą Silezijos kunigaikštis Bernardas iš Svidnicos vedė atskirą kryžiuočių ekspedicijos į Prūsiją pulką.
@@ -43,37 +51,24 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178849|Kryžiuočių ordinas]]: 1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje.
 - susijęs iš [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika.md#claim-t-87296|Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]: 1322 m. kryžiuočių žygio į Vaikius Žemaitijoje tikslai buvo belaisvių ėmimas, krašto niokojimas ir plėšikavimas.
 - susijęs iš Prūsija: 1322 m. žiemą po ilgos ramybės nauja kryžiuočių ekspedicija patraukė į Prūsiją.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasakojime šventasis Bernardas sapne žengė brolių priekyje ir atsisakė priimti maldavusį vyrą į bendrininkus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
-    Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
-    priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60880
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 75"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
-    Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
-    priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė.
+    Galop atėjo švenčiausioji mergelė
+    Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
+    vis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,
+    nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
+    taip kentėti, kaip trokšti“. Pakėlusi kiekvienam broliui apsiaustą, ji parodė jų žaizdas ir
+    randus, kurių jiems nešykštėjo netikėliai, kai gynė tikėjimą, ir pasakė: „Ar tau dabar
+    neatrodo, kad štai šie tavo broliai yra šiek tiek kentėję dėl Jėzaus Kristaus vardo“.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60248
+    - t-197061

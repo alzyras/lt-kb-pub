@@ -43,23 +43,6 @@ media_all_json: |-
   teiginys: "Kunigas Mackevičius pamoksle ragino eiti už šventą tikėjimą, tėvynę Lietuvą ir lietuvius brolius."
   pagrindžia:
     - c-12474
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
-    menė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:
-
-    ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
-    lius Lietuvius!“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

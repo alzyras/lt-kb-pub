@@ -73,6 +73,7 @@ Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėj
 - susijęs iš [[objektai/grupes/Senovės romėnai.md#claim-t-189374|Senovės romėnai]]: Narbutas rašo, kad kronikos romėnų ar į juos panašių atvykimą į Lietuvą datavo 48 m. pr. Kr., 57 m. po Kr. arba 401 m.
 - susijęs iš [[objektai/grupes/Signotai.md#claim-t-189464|Signotai]]: Narbutas Signotus apibūdina kaip Atrimpo arba Gardaičio žynius, kurių pavadinimą sieja su Hartknocho aiškintu prūsų žodžiu Sigos.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176148|Žemaičiai]]: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188363|Žemaičiai]]: Narbutas mini pajūrio žemaičių dainą, kurioje apverkiami jūreiviai, esą pagrobti paaukoti audrai.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188365|Žemaičiai]]: Narbutas rašė, kad pajūrio žemaičių vaizduotėje Čeltyčios buvo Baltijos jūros nimfos, gyvenančios gintaro rūmuose jūros gelmėse.
 - susijęs iš [[objektai/ivykiai/Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu.md#claim-t-191030|Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu]]: Narbuto pasakojimu, Malabatas po nesėkmės puldinėjo Graikiją, išgriovė Čižiką, pasiekė Atėnus ir privertė imperiją pirkti taiką.
 - susijęs iš [[objektai/paprociai/Gardaičiui aukojamos žuvys ir audros aukų daina.md#claim-t-189831|Gardaičiui aukojamos žuvys ir audros aukų daina]]: Narbuto pasakojime pajūrio žemaičių daina apverkė jūreivius, pagrobtus paaukoti audrai kaip juodus gyvulius, aukojamus audrų dievui.
@@ -86,7 +87,6 @@ Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėj
 - susijęs iš [[objektai/zodynas/Signotai Sigonottai.md#claim-t-189331|Signotai Sigonottai]]: Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių būta pajūrio srityse.
 - susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188436|Kristupas Hartknochas]]: Narbutas perteikia Hartknocho aiškinimą, kad senovės prūsų žodis Sigos reiškė tvarką arba vienuoliją.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėja jį buvus Raseinių apskrityje prie Jūros upės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -117,17 +117,14 @@ Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėj
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Rageziowan
-    Kęsgailų giminės fetišas.
-    Dievaitis (Dewojtis)
-    Pajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­
-    seinių apskrityje, tikriausiai prie Jūros upės.
-    207
-
-    ## Puslapis 207
-
-    Vetustis (W etustis)
-    Rietavo miestelio fetišas, lietuviškai -  senovinis.
+    Reikėjo iškasti griovį slėnelyje prie gyvena­
+    mojo namo, ir kaip tik toje vietoje, kur buvo seno perkaso
+    pėdsakai, kasėjai dumble aptiko akmenį ir jį išmetė. Aš, pri­
+    žiūrėdamas jų darbą, pastebėjau tą akmenį. Jis iš karto nuste­
+    bino mane ypatinga savo išvaizda. Liepiau apvalyti nuo jo dum­
+    blą. Pasvarstęs, kad visame perkase nebuvo jokio akmens, su­
+    vokiau, kad jis ten buvo tyčia įmestas.
+  citata_rodoma: "Rageziowan\nKęsgailų giminės fetišas.\nDievaitis (Dewojtis)\nPajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­\nseinių apskrityje, tikriausiai prie Jūros upės.\n207\n\n## Puslapis 207\n\nVetustis (W etustis)\nRietavo miestelio fetišas, lietuviškai -  senovinis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

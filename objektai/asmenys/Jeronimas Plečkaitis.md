@@ -43,25 +43,6 @@ Sukilusieji su savo lyderiu Jeronimu Plečkaičiu priešakyje pasitraukė į už
   teiginys: "Jeronimas Plečkaitis vadovavo sukilėliams, kurie po 1927 m. rugsėjo pučų pasitraukė į užsienį ir vykdė teroro veiksmus."
   pagrindžia:
     - c-26671
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1927 m. rugsėjo 8–9 d. ginkluotos socialdemokratų grupės surengė
-    pučus keliose apskrityse. Sukilimas kuriam laikui pavyko tik Tauragėje,
-    buvo perimtas vadovavimas miestui, tačiau valdžia jį nuslopino, daugu-
-    mą jo dalyvių suėmė ir nuteisė. Sukilusieji su savo lyderiu Jeronimu Pleč-
-    kaičiu priešakyje pasitraukė į užsienį ir kurį laiką, veikdami iš Rygos, o
-    paskui iš Lenkijos, vykdė teroro veiksmus, puoselėdami planus... autori-
-    tarinės Lenkijos padedami nuversti nedemokratinę A. Smetonos valdžią.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

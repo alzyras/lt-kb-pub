@@ -39,7 +39,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiame šaltinyje Auksinė Orda taip pat tiesiogiai įvardijama kaip silpnėjanti totorių valstybė, į kurios valdžią Vytautas siekė grąžinti Tochtamišą.
+Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė. Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje. Lemiamasis Vytauto žygis, siekęs pasodinti Tochtamišą Aukso ordoje, baigėsi nesėkme.
 
 ## Teiginiai
 
@@ -106,17 +106,10 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   pagrindžia:
     - c-87636
 
-<a id="claim-t-187704"></a>
-- t-010
-  global_id: t-187704
-  teiginys: "Aukso ordoje ulanais vadinosi chano giminės nariai iš tų linijų, kurių atstovams neteko sėdėti chanų soste."
-  pagrindžia:
-    - c-170643
-
 <a id="claim-t-187705"></a>
-- t-011
+- t-010
   global_id: t-187705
-  teiginys: "Komentare Achmatas apibūdinamas kaip Aukso ordos chanas 1459–1481 m., Kazimiero Jogailaičio sąjungininkas ir 1480 m. žygio prie Ugros dalyvis."
+  teiginys: 'Komentare Achmatas apibūdinamas kaip Aukso ordos chanas 1459–1481 m., Kazimiero Jogailaičio sąjungininkas ir 1480 m. žygio prie Ugros dalyvis.'
   pagrindžia:
     - c-170644
 - susijęs iš Volynė: 1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę.
@@ -125,12 +118,11 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187443|Aukso orda]]: 1501 m. Aukso orda sudarė sąjungą su LDK prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.
 - susijęs iš [[objektai/ivykiai/Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą.md#claim-t-186780|Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą (sutartis, XV a.)]]: 1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.
 - susijęs iš [[objektai/ivykiai/Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą.md#claim-t-186781|Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą (sutartis, XV a.)]]: 1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.
-- susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186783|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Pagal 1501 m. Aukso ordos ir LDK sutartį Aukso orda apie 1501 m. birželį iš Volgos ir Dono žemupio stepių persimetė į Dono aukštupį.
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186784|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: 1501 m. rugpjūtį Aukso orda įsiveržė į buvusias LDK teritorijas Desnos baseine, 1500 m. prijungtas prie Maskvos Didžiosios Kunigaikštystės.
 - susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-183316|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
 - susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-54266|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prisijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
 - susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-54267|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
-- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195009|Šich Achmetas]]: Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos chanas.
+- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195009|Šich Achmetas]]: Šich Achmetas buvo Achmato sūnus ir paskutinis Aukso ordos chanas.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40019|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Burundajus.md#claim-t-78960|Burundajus]]: Burundajus vadovavo Aukso ordos totoriams per didelį antpuolį, kurį Lietuva atrėmė žiemą.
@@ -162,10 +154,10 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - susijęs iš [[objektai/daiktai/Artilerija.md#claim-t-187515|Artilerija]]: Komentare nurodoma, kad 1501-1502 m. žiemą Aukso ordos totoriai nesulaukė realios paramos kariuomene, artilerija ir maistu iš Aleksandro ir LDK Ponų Tarybos.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187436|Aukso orda]]: Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187437|Aukso orda]]: Vytautas žadėjo Aukso ordos chaną Tochtamišą iškelti į visų totorių chanatų viršūnę.
-- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187440|Aukso orda]]: Aukso ordos chanas Sich-Achmetas po Mengli-Girėjaus pralaimėjimo ieškojo prieglobsčio Nogajų ordoje, bet vėliau grįžo į LDK.
+- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187440|Aukso orda]]: Manoma, kad Mengli-Girėjaus sumuštas Aukso ordos chanas Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje, o vėliau grįžo į LDK.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187441|Aukso orda]]: Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187442|Aukso orda]]: Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme.
-- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187445|Aukso orda]]: Aukso ordos chanas Sich-Achmetas po Mengli-Girėjaus pralaimėjimo ieškojo prieglobsčio Nogajų ordoje, bet vėliau grįžo į LDK.
+- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187445|Aukso orda]]: Manoma, kad Mengli-Girėjaus sumuštas Aukso ordos chanas Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje, o vėliau grįžo į LDK.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187446|Aukso orda]]: Vytautas žadėjo Aukso ordos chaną Tochtamišą iškelti į visų totorių chanatų viršūnę.
 - susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171343|Karijotaičiai]]: Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis.
 - susijęs iš [[objektai/grupes/Lietuvos jungtinės pajėgos.md#claim-t-183660|Lietuvos jungtinės pajėgos]]: Lietuvos jungtines pajėgas prie Vorsklos sudarė lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamyšo totoriai, lenkų talkininkai, Kryžiuočių ordino kariai ir moldavai.
@@ -184,8 +176,8 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186785|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Seversko Naugardą ir Starodubą Aukso ordos totoriai puolė 1501 m. rugsėjį, iki spalio 7 d.
 - susijęs iš [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.).md#claim-t-62787|Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]: 1337 m. Gedimino kariuomenė siekė likviduoti Bajerburgą, Ordino agresijos židinį prie Nemuno šalia Veliuonos.
 - susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.).md#claim-t-62824|Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
-- susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186793|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po Mengli-Girėjaus laimėto mūšio Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje.
-- susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186794|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po pralaimėjimo Mengli-Girėjui Sich-Achmetas ieškojo prieglobsčio Nogajų ordoje, bet 1503 m. rudenį grįžo į LDK.
+- susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186793|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po pralaimėjimo Mengli-Girėjui Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje.
+- susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186794|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po pralaimėjimo Mengli-Girėjui Sich-Achmetas ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje, o 1503 m. rudenį grįžo į LDK.
 - susijęs iš [[objektai/ivykiai/Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.).md#claim-t-89374|Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)]]: 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia).md#claim-t-62866|Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)]]: Gedimino Lietuva 1323 m. pabaigoje arba 1324 m. pradžioje, matyt, susitarusi su Vladislovu Lokietka, užėmė Bresto žemę.
 - susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10253|Mėlynųjų Vandenų mūšis (1362 m.)]]: Algirdo pajėgų pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.
@@ -229,8 +221,6 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - susijęs iš [[objektai/zodynas/emyras.md#claim-t-183709|emyras]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
 - susijęs iš [[objektai/zodynas/emyras.md#claim-t-42448|emyras]]: Krymo emyro Edygos kariai sudarė dalį totorių pajėgų.
 - susijęs iš [[objektai/zodynas/kondominiumas.md#claim-t-183436|kondominiumas]]: LDK rusiškosios žemės laikytos Lietuvos ir Aukso ordos kondominiumu, tai yra bendra valda.
-- susijęs iš [[objektai/zodynas/ulan.md#claim-t-187552|ulan]]: Ulanas buvo feodalinis titulas, kuriuo vadinosi žymiausi chanų giminės totorių feodalai, turėję ulusus ir teisę dalyvauti chanų rinkimuose.
-- susijęs iš [[objektai/zodynas/ulusas.md#claim-t-187531|ulusas]]: Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.
 - susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.).md#claim-t-62824|Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
 - susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.).md#claim-t-62824|Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
 - susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59727|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Dalis nadruvių, pagudėnų, sūduvių ir bartų pasitraukė į Lietuvos valstybę ir dalyvavo kovoje prieš Ordino bei Aukso ordos agresiją.
@@ -242,192 +232,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - susijęs iš [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas.md#claim-t-183694|Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]: Prieš mūšį Vytautas iš Timūr-Kutluko tarsi reikalavo pavaldumo, prašydamas visus Ordos pinigus žymėti Vytauto ženklu.
 - susijęs iš [[objektai/zodynas/kondominiumas.md#claim-t-183436|kondominiumas]]: LDK rusiškosios žemės laikytos Lietuvos ir Aukso ordos kondominiumu, tai yra bendra valda.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^6) PRATARMĖ
-    vokiečių ordinu. Kai nuo XIV amž. galo totorių valstybė (Aukso
-    Orda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji
-    jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.
-    Bet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai
-    didesnių nuostolių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pagal rusų met­
-    raščius, Vytautas žadėjo Perekopo (Krymo) vad. Aukso ordos
-    chanui Tochtamišui, nugalėjęs jo priešą Timur-Kutlugą, pasodinti
-    jį visų totorių chanatų viršūnėje, sakydamas : «o tu mane paso­
-    dinki didžiojoje Maskvos kunigaikštijoje ... Vokiečius (ordiną) aš
-    pats paimsiu^2 ».
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    žentas Vasilius, ir todėl jis laikėsi pasyviai, kai Konstantinopolio
-    patriarchas ragino visos Rusios metropolitą Kiprijoną skelbti kry­
-    žiaus karą^32.
-    Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
-    (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.
-    Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
-    Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
-    sutriuškino švedų galybę (1709).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dabar teks nors trumpai susipažinti su tuo, kaip Vytautas
-    įsimaišė į totorių reikalus.
-    Ši puslaukinė tauta atkeliavo iš Azijos į Europą apie XIII
-    amž. pradžią. Iš karto ji apsistojo paliai Kaspijos jūrą ir įstei­
-    gė Aukso Ordą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Trisdešimt metų vėliau baisu­
-    sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­
-    jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­
-    galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus,
-    nors ir smarkiai buvo pirmojo sumuštas. Pajutęs savo galy­
-    bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės. Šis padarė
-    tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
-    buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­
-    dovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­
-    vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir
-    paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net
-    Aukso Ordoje. Bet Žalgirio mūšis, kuriame jis palaužė Vokie­
-    čių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­
-    skynė kelią į tikruosius jo didybės laikus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Po Tamerlano žygių Auksinėje Ordoje buvo pasodintas Koiridžakas-Aglenas, o po jo - Kotlogas-Timuras.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pajutęs savo galy­
-    bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės. Šis padarė
-    tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
-    buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
-
-    - Aglenas ir jo įpėdinis Kotlogas-Timuras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-008
-  santrauka: 'Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jų tarpe įvyko dideli skilimai,
-    prasidėję jau nuo 1360 metų. Trisdešimt metų vėliau baisu­
-    sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­
-    jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­
-    galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus,
-    nors ir smarkiai buvo pirmojo sumuštas. Pajutęs savo galy­
-    bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-009
-  santrauka: 'Jonas III sudarė sąjungą su Perekopo chanu ir sunaikino Auksinę Ordą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
-    rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
-    nės pilis). Jonas III su naujuoju chanu padarė sąjungą ir su-
-    naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
-    totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
-    Lietuva.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 - c-010
-  santrauka: 'Aukso ordoje ulanais vadinosi chano giminės nariai iš tų linijų, kurių atstovams neteko sėdėti chanų soste.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    BK Perekopo orda vadinami Krymo chanato
-    totoriai, kurių kontroliuojam a teritorija siekė nuo Dunojaus žiočių
-    110 Siaurės Kaukazo.
-    2 5  Ulan — feodalinis titulas, kuriuo vadinosi žymiausi chanų
-    giminės totorių feodalai, turintys savas žemės valdas — ulusus ir
-    teisę dalyvauti chanų rinkimuose. Aukso ordoje ulanais vadinosi
-
-    ## Puslapis 290
-
-    chano giminės nariai iš tų linijų, kurių atstovam s neteko sėdėti
-    chanų soste.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-011
   santrauka: 'Komentare Achmatas apibūdinamas kaip Aukso ordos chanas 1459–1481 m., Kazimiero Jogailaičio sąjungininkas ir 1480 m. žygio prie Ugros dalyvis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -441,12 +246,12 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
     mo chanų Mengll-Girėjų, kuris savo možiu siekė pašalinti Sich-
     Achmetų ir sujungti savo valdžioje visas totorių ordas.
   citata_rodoma: ''
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
+    - t-010
 
 ## Citatos
 
@@ -627,50 +432,6 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92025
-
-- id: c-170643
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    BK Perekopo orda vadinami Krymo chanato
-    totoriai, kurių kontroliuojam a teritorija siekė nuo Dunojaus žiočių
-    110 Siaurės Kaukazo.
-    2 5  Ulan — feodalinis titulas, kuriuo vadinosi žymiausi chanų
-    giminės totorių feodalai, turintys savas žemės valdas — ulusus ir
-    teisę dalyvauti chanų rinkimuose. Aukso ordoje ulanais vadinosi
-
-    ## Puslapis 290
-
-    chano giminės nariai iš tų linijų, kurių atstovam s neteko sėdėti
-    chanų soste.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187704
-
-- id: c-170644
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    ** Achmatas (Achmetas) — Aukso ordos chanas (1459—1481),
-    Kazimiero Jogailaičio sųjungininkas, paskutini kartų 1480 m. žygiu
-    prie Ugros bandęs pajungti totorių valdžiai Maskvos Didžiųjų Ku­
-    nigaikštystę.
-    Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos
-    chanas. 1500—1503 m. M askvos ir Lietuvos valstybių k are stojo
-    LDK pusėn, tikėdamasis iš jos paramos prieš bendrų priešų — Kry­
-    mo chanų Mengll-Girėjų, kuris savo možiu siekė pašalinti Sich-
-    Achmetų ir sujungti savo valdžioje visas totorių ordas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187705
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Volynė]]

@@ -64,43 +64,6 @@ Nenurodyta
   teiginys: "Atkūrus Lietuvos nepriklausomybę, 1991 m. rugsėjo 6 d. Lietuvos diplomatinė tarnyba baigė darbą."
   pagrindžia:
     - c-166628
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos diplomatinės tarnybos diplomatai atstovaujamose valstybėse simboliškai atstovavo Lietuvai ir palaikė ryšius su Baltijos šalių atstovais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos oku-
-    pacijos. Blėstant viltims Vakarų padedamiems greitai atkurti nepriklauso-
-    mą Lietuvos valstybę, visas LDT dėmesys buvo sutelktas į diplomatinių at-
-    stovybių ir personalo išlaikymą. Diplomatai savo atstovaujamose valstybėse
-    simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais,
-    dalyvavo įvairių šalių ambasadų, oficialių įstaigų priėmimuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Atkūrus Lietuvos nepriklausomybę, 1991 m. rugsėjo 6 d. Lietuvos diplomatinė tarnyba baigė darbą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Diplomatai savo atstovaujamose valstybėse
-    simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais,
-    dalyvavo įvairių šalių ambasadų, oficialių įstaigų priėmimuose. Tai padėjo
-    užmegzti naujų ryšių ir palaikyti senus, išlaikyti pasiuntinybių pastatus, Va-
-    karų pasauliui neleisti pamiršti Lietuvos laisvinimo bylos. Atkūrus Lietuvos
-    nepriklausomybę, 1991 m. rugsėjo 6 d. LDT savo darbą baigė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

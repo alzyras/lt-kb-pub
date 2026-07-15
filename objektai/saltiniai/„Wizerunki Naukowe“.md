@@ -40,36 +40,18 @@ media_all_json: |-
   teiginys: "„Wizerunki Naukowe“ 1836 m. X tome paskelbė Komisijos dekretą apie valstiečių ginčą su Slucko bažnyčios klebonu."
   pagrindžia:
     - c-173450
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Wizerunki Naukowe“ 1836 m. X tome paskelbė Komisijos dekretą apie valstiečių ginčą su Slucko bažnyčios klebonu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pasak Lietuvos statuto, įrodymai daugiausia remdavosi
-    priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir
-    18 Komisijos dekretas apie valstiečių ginčą su Slucko bažnyčios
-    klebonu (Wizerunki Naukowe. -1836. -  T. X. -  S. 128-138).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173450
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 321"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 321."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasak Lietuvos statuto, įrodymai daugiausia remdavosi
     priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir
     18 Komisijos dekretas apie valstiečių ginčą su Slucko bažnyčios
-    klebonu (Wizerunki Naukowe. -1836. -  T. X. -  S. 128-138).
+    klebonu (Wizerunki Naukowe. -1836. - T. X. - S. 128-138).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

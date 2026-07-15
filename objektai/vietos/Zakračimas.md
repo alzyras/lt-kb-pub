@@ -35,25 +35,6 @@ Susijungusios lietuvių, rusų, totorių jėgos su lenkų kariuomene prie Zakra�
   pagrindžia:
     - c-38691
 - susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176866|Zigmantas Kaributas]]: Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims per karą, kuriame buvo nuniokoti Prūsai.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Karas buvo paskelbtas Vy­
-    tauto drauge su Jogaila. Susijungusios lietuvių, rusų, totorių
-    jėgos su lenkų kariuomene prie Zakračimo (prie Vislos) padėjo
-    nuniokoti Prūsus. Vytauto bajorai irgi dalyvavo kovose, kaip
-    antai, kun. Zigmantas Kaributas vadovavo kai kurioms lenkų
-    kariuomenės dalims.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38691

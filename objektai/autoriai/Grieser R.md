@@ -34,31 +34,13 @@ Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privil
   teiginys: "R. Grieseris aiškino, kad žodis dažnai apibūdina gyvenvietę iki miesto privilegijos suteikimo."
   pagrindžia:
     - c-61340
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'R. Grieseris aiškino, kad žodis dažnai apibūdina gyvenvietę iki miesto privilegijos suteikimo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Žodis dažnai apibūdina gyvenvietę iki miesto
-    privilegijos suteikimo (Grieser R. Lischke..., p. 232—241), plg. vietoves Lisken (į šiaurę
-    nuo Bartenšteino), Lyskow, Liskaw, Liskouwe, vėliau Lischkau  į šiaurę nuo Tepliavos
-    ir kt.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61340
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 52"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 52."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Žodis dažnai apibūdina gyvenvietę iki miesto
     privilegijos suteikimo (Grieser R. Lischke..., p. 232—241), plg. vietoves Lisken (į šiaurę

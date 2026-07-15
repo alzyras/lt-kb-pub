@@ -50,8 +50,8 @@ Nenurodyta
   teiginys: "Narbutas spėja, kad mirusiųjų atminimo apeigos baigdavosi vaišių liekanas atiduodant pavargėliams arba paliekant ant kapų."
   pagrindžia:
     - c-172849
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas spėja, kad mirusiųjų atminimo apeigos baigdavosi vaišių liekanas atiduodant pavargėliams arba paliekant ant kapų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -82,22 +82,23 @@ Nenurodyta
 - id: c-172849
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 386"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 386."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Sis
-    paprotys turėjo būti paplitęs tik Žemaitijoje, kadangi tik čia tu­
-    rėjo būti žinoma ta Ilgių šventė, kaip tai parodėme anksčiau
-    atitinkamame straipsnyje.
-    Apskritai mirusiųjų atminimo pagerbimas po šventės ar­
-    ba iškilmių, atrodo, baigdavosi tuo, kad vaišių liekanas ati­
-    duodavo pavargėliams arba, kaip kitose provincijose, padėda­
-    vo šventoje vietoje, tai yra ant kapų, kur jas surankiodavo pa­
-    vargėliai.
-    Pomirtinio gyvenimo supratimas
-    Vėlių jperėjimas iš mirusiųjų kūnų į vėliau gimstančius, net
-    į gyvulius , senajame lietuvių genties tautų tikėjime buvo per-
-    21 Est enim omnium Getharum (sc.
+    O į tą kalną be tų
+    lūšies ar lokio nagų būsią sunku įkopti. Ir dėl to prie jų dėdavo
+    tuos nagus, su kuriais jie turėsią įkopti į tą kalną ir stoti Dievo
+    teisman. Nors jie buvo pagonys, bet visuomet taip įsivaizduoda­
+    vo ir tikėjo vieną dievą, kad būsianti paskutiniojo teismo diena,
+    ir tikėjo mirusiųjų prisikėlimą ir vieną dievą, ateisiantį gyvųjų ir
+    mirusiųjų teisti) *.
+    Jie manė, kad tuoj pat po laidotuvių ir žmogaus palaikų
+    pagerbimo jo vėlė kaip šešėlis, turintis tokią pat išvaizdą ir
+    aprengtas drabužiais, su kuriais ir buvo palaidotas, praeina
+    pro krivio arba paties Krivių Krivaičio namus, apsireikšdama
+    jam - palikdama kartais kai ką iš daiktų, su kuriais velionis
+    buvo palaidotas, arba ženklą, runą, hieroglifą ar įkirtimą gin­
+    klu į vartus.
+  citata_rodoma: "Sis\npaprotys turėjo būti paplitęs tik Žemaitijoje, kadangi tik čia tu­\nrėjo būti žinoma ta Ilgių šventė, kaip tai parodėme anksčiau\natitinkamame straipsnyje.\nApskritai mirusiųjų atminimo pagerbimas po šventės ar­\nba iškilmių, atrodo, baigdavosi tuo, kad vaišių liekanas ati­\nduodavo pavargėliams arba, kaip kitose provincijose, padėda­\nvo šventoje vietoje, tai yra ant kapų, kur jas surankiodavo pa­\nvargėliai.\nPomirtinio gyvenimo supratimas\nVėlių jperėjimas iš mirusiųjų kūnų į vėliau gimstančius, net\nį gyvulius , senajame lietuvių genties tautų tikėjime buvo per-\n21 Est enim omnium Getharum (sc."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

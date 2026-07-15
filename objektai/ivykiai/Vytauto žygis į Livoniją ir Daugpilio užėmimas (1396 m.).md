@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
+1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje. Kojelavičiaus pasakojime Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -53,69 +53,36 @@ Nenurodyta
   teiginys: "1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje."
   pagrindžia:
     - c-169150
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: '1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vytautas, ligi šiol laikęs savo kariuomenę
-    Rusioje žiemos stovykloje, negalėjo su keliais būriais,
-    jį palydėjusiais į Lietuvą, im-
-    1396 m e ta i
-    tis jokių veiksmingesnių žy­
-    gių: nei niokojančių atremti,
-    nei traukiančių namo vytis. Norėdamas vis dėlto atsi­
-    lyginti priešui už tą antpuolį, jis, kuo greičiausiai su­
-    telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus,
-    užėmė
-    Daugpilį
-    Dauguvos
-    V y ta u ta s  n io k o ja  Li-
-    pakrantėje. Esu tikras, jog
-    v o n iją
-    Vytautas turėjo tam tikrą
-    tikslą, siųsdamas Į Livoniją
-    savo kariuomenę, mat iš žvalgų jis sužinojo, kad Švitri­
-    gaila perėjęs iš Prūsijos į Livoniją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196278"></a>
+- t-002
+  global_id: t-196278
+  teiginys: "Kojelavičiaus pasakojime Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą."
   pagrindžia:
-    - t-001
+    - c-169150
 
 ## Citatos
 
 - id: c-169150
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 345"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 345."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vytautas, ligi šiol laikęs savo kariuomenę
-    Rusioje žiemos stovykloje, negalėjo su keliais būriais,
-    jį palydėjusiais į Lietuvą, im-
-    1396 m e ta i
-    tis jokių veiksmingesnių žy­
-    gių: nei niokojančių atremti,
-    nei traukiančių namo vytis. Norėdamas vis dėlto atsi­
-    lyginti priešui už tą antpuolį, jis, kuo greičiausiai su­
-    telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus,
-    užėmė
-    Daugpilį
-    Dauguvos
-    V y ta u ta s  n io k o ja  Li-
-    pakrantėje. Esu tikras, jog
-    v o n iją
-    Vytautas turėjo tam tikrą
-    tikslą, siųsdamas Į Livoniją
-    savo kariuomenę, mat iš žvalgų jis sužinojo, kad Švitri­
-    gaila perėjęs iš Prūsijos į Livoniją.
+    Matydamas, kad Vytautą lydi pa­
+    stovi sėkmė, jis niršo ir siuto, galop ėmėsi ryžtingų
+    žingsnių, pasitelkdamas sve-
+    K ry žiu o č ia i
+    n io k o ja
+    timšalių ginklą. Jis nuolatos
+    L ie tu v ą
+    kurstė Prūsijos bei Livonijos
+    kryžiuočių magistrus prieš
+    Vytautą. Vasario 6 šie žiauriai nuniokojo Lietuvą, o po
+    to Žemaitiją.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185789
+    - t-196278

@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: 'Blaivystė'
 sukurta: '2026-07-12'
 variantai:
-  - blaivystės
-  - blaivystė
+  - 'blaivystės'
+  - 'blaivystė'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -58,6 +58,7 @@ Terminas vartojamas prisiekimo, išpažinties ir komunijos kontekste.
   teiginys: "Blaivystė šiame šaltinyje vaizduojama kaip padedanti atsisakyti girtavimo."
   pagrindžia:
     - c-178025
+
 ## Citatos
 
 - id: c-178025

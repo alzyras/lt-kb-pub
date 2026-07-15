@@ -34,29 +34,6 @@ media_all_json: |-
   teiginys: "Žygimantas Senasis rašė Vilniaus miestiečiui Andrejui Tyckiui dėl Smolensko muito ir smuklių arendavimo."
   pagrindžia:
     - c-83600
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Žygimantas Senasis rašė Vilniaus miestiečiui Andrejui Tyckiui dėl Smolensko muito ir smuklių arendavimo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    XI.
-    20
-    Lietuvos Metrikoje yra labai daug
-    Žygimanto Senojo laiškų, tuo tikslu
-    rašytų Vilniaus miestiečiams, - paci­
-    tuosime kai kuriuos: List Meszczani-
-    nu Wileńskomu Andrejų Tyckomu
-    [Laiškas Vilniaus miestiečiui Andre­
-    jui Tiekiui] dėl Smolensko muito ir
-    smuklių arendavimo. Knyga 8,1.87.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

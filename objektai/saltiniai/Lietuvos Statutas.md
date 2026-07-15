@@ -3,10 +3,17 @@ tipas: saltinis
 pavadinimas: 'Lietuvos Statutas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+datos:
+  - '1648 m.'
+date_start: '1648'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -24,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Į jį buvo įtraukti ir senieji nuostatai, kad Lietuvos urėdais negalį būti skiriami jokie svetimšaliai. Visa tai buvo patvirtinta naujai perredaguotoje ant- rojoje statuto laidoje. Seime, derybų pradžioje, lietuviai rėmėsi savo naujuoju statutu, kuriuo karalius pasižadėjo išsaugoti Lietuvos sienų neliečiamybę, šaukti jos seimus ir neduoti jokiems svetimšaliams urėdų Lietuvoje.
+Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešinosi lenkų bandymams gauti vietą Lietuvoje. Alberto Goštauto vadovaujamas Lietuvos Statutas iki 1529 m. buvo baigtas ir Zigmanto II patvirtintas. Antroji Lietuvos Statuto laida buvo naujai perredaguota.
 
 ## Teiginiai
 
@@ -55,83 +62,13 @@ media_all_json: |-
   teiginys: "Į Lietuvos Statutą buvo įtraukti nuostatai, kad Lietuvos urėdais negali būti skiriami svetimšaliai."
   pagrindžia:
     - c-67345
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Į Lietuvos Statutą buvo įtraukti nuostatai, kad Lietuvos urėdais negali būti skiriami svetimšaliai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vi-
-    sas statutas buvo taip sutvarkytas, kad rodė Lietuvą esant vi-
-    siškai savarankišką valstybę; apie ryšį su Lenkija jame ne-
-    buvo nė žodžio. Į jį buvo įtraukti ir senieji nuostatai, kad
-    Lietuvos urėdais negalį būti skiriami jokie svetimšaliai. Len-
-    kams tas kaip tik labiausiai nepatiko, ir jie norėjo įrodyti, kad
-    pagal senuosius aktus jie negalį būti laikomi svetimšaliais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196356"></a>
+- t-005
+  global_id: t-196356
+  teiginys: "Kojelavičiaus pasakojime Lietuvos Statutas kartu su unijos aktais sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą suverenu."
   pagrindžia:
-    - t-004
-
-- c-002
-  santrauka: 'Alberto Goštauto vadovaujamas Lietuvos Statutas iki 1529 m. buvo baigtas ir Zigmanto II patvirtintas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai 1522 m. bajorija
-    pažadėjo jį išrinkti didžiuoju Lietuvos kunigaikščiu, jo tėvas
-    sutiko patvirtinti numatytą ruošti statutą, kuris turėjo ap-
-    imti visas krašto teises. Alberto Goštauto vadovau-
-    jamas, tas darbas iki 1529 m. buvo baigtas, ir Zigmantas II,
-    atsilygindamas už savo sūnaus išrinkimą, patvirtino statutą. Vi-
-    sas statutas buvo taip sutvarkytas, kad rodė Lietuvą esant vi-
-    siškai savarankišką valstybę; apie ryšį su Lenkija jame ne-
-    buvo nė žodžio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešinosi lenkų bandymams gauti vietą Lietuvoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Žodžiu, ji visą laiką kovojo,
-    kad Lietuva gautų tokią pat reikšmę jungtinėje valstybėje, ko-
-    kią turėjo Lenkija. Lenkai į jokias valstybines vietas Lietuvoje
-    nebuvo įsileidžiami. Nors, kaip minėta, jie daug kartų reika-
-    lavo jiems priešingus Lietuvos Statuto nuostatus panaikinti, bet
-    lietuviai to nepadarė ir karščiausiai priešinosi kiekvienam lenkų
-    bandymui gauti vietą Lietuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Antroji Lietuvos Statuto laida buvo naujai perredaguota.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    valdyme. Visa tai buvo patvirtinta naujai perredaguotoje ant-
-    rojoje statuto laidoje.
-    Po šitų reformų Lietuvos valstybės aparatas pasidarė jau
-    toks pat, koks jis buvo ir Lenkijoje, ir Lietuvos bajorijos tei-
-    sės buvo visiškai sulygintos su Lenkijos bajorų teisėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+    - c-178646
 
 ## Citatos
 
@@ -213,3 +150,29 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67451
+
+- id: c-178646
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio­
+    navo Ukrainos prijungimą prie Lenkijos, pripažino ka­
+    ralių ir bendrą seimą jungtinės valstybės suverenu,
+    užtikrino žemės nuosavybės ir žemėvaldos teisę tik
+    šlėktų luomo nariams, o politines teises — tik federa­
+    ciją sudarantiems indigenams, o šitai konservavo bau­
+    džiavą, kliudė prekiniams ir piniginiams santykiams
+    plėstis, miestams stiprėti ir tuo pačiu lietuvių, baltaru­
+    sių ir ukrainiečių tautybėms tapti tautomis (nacijomis).
+    Kai 1648 m. Bogdano Chmelnickio vadovaujami suki­
+    lę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti
+    savo valstybę, Lietuvos ir Lenkijos feodalai su šlėk­
+    tomis slopino juos, panaudodami ne tik jungtinės vals­
+    tybės, bet ir savo valdų privačią kariuomenę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196356

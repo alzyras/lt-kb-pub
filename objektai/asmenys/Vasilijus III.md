@@ -36,26 +36,6 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
   pagrindžia:
     - c-44558
 - susijęs iš [[objektai/ivykiai/Oršos mūšis (1514 m.).md#claim-t-54180|Oršos mūšis (1514 m.)]]: Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po mūšio pasikeitė karo eiga.
-    Išgirdęs apie pralaimėjimą,
-    Vasilijus 111 palikęs įgulą pasi-
-    traukė iš Smolensko. Lietuvai
-
-    vėl atiteko Mstislavlis, Dubrovnos,
-    Kryčevo pilys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44558

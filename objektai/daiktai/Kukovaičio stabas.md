@@ -54,7 +54,6 @@ Nenurodyta
 - susijęs iš Deltuvos kalnas: Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo medinis milžino išvaizdos Kukovaičio stabas.
 - susijęs iš Kukovaičio kalnas: Narbutas, remdamasis Strijkovskiu, rašo, kad ant Kukovaičio kalno buvusi dievams skirta giraitė ir Kukovaičio stabas.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas, remdamasis Strijkovskiu, Kukovaičio stabą apibūdina kaip ant kalno prie Deltuvos stovėjusį medinį milžino išvaizdos atvaizdą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -76,13 +75,15 @@ Nenurodyta
 - id: c-172595
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 259"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 259."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuviams buvo žinomas dievinamų asmenų stabų staty­
-    mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
-    čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
-    milžino išvaizdos.
+    Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
+    tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors
+    Plikasis kalnas. Visa, ką šiuo klausimu žinome iš istorijos, ap­
+    siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
+    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
+    šventykla.
+  citata_rodoma: "Lietuviams buvo žinomas dievinamų asmenų stabų staty­\nmas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-\nčio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,\nmilžino išvaizdos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

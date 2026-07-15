@@ -41,52 +41,13 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
   teiginys: "Pakartoto Įstatymo knygos žodžiais buvo guodžiami į karą einantys žmonės, raginant nebijoti gausesnės priešų kariuomenės."
   pagrindžia:
     - c-61629
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pakartoto Įstatymo knygoje kerštas priskiriamas Viešpačiui, sakant: „Mano yra kerštas, ir aš atlyginsiu“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    12. Apie Višogrudo pilies sugriovimą
-
-      Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”,
-    tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite
-    jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir
-    amžiną vardą”. Siek tiek toliau jis priduria (1 Mak 2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Pakartoto Įstatymo knygos žodžiais buvo guodžiami į karą einantys žmonės, raginant nebijoti gausesnės priešų kariuomenės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Stiprindamas jų kilnias širdis, jis guodė juos šiais
-    viešpaties žodžiais, kuriais šis bylojo  į Izraelio tautą (Ist 20. 1): „Jei išeisi  į karą prieš
-    savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant
-    negu tavoji, nebijok jųjų, nes viešpats, tavo dievas, yra su tavimi“, be to, pridurdamas
-    (Ist 20. 3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų
-    širdis, nebijokite, nesitraukite ir nepabūkite jųjų, nes viešpats, jūsų dievas, yra jūsų
-    tarpe, jis kovos už jus prieš visus priešus, kad jus išgelbėtų iš pavojaus“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-61628
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 255"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     12. Apie Višogrudo pilies sugriovimą
 
@@ -105,11 +66,10 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
 - id: c-61629
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 47"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Stiprindamas jų kilnias širdis, jis guodė juos šiais
-    viešpaties žodžiais, kuriais šis bylojo  į Izraelio tautą (Ist 20. 1): „Jei išeisi  į karą prieš
+    viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš
     savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant
     negu tavoji, nebijok jųjų, nes viešpats, tavo dievas, yra su tavimi“, be to, pridurdamas
     (Ist 20. 3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų

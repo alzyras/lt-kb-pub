@@ -34,38 +34,16 @@ media_all_json: |-
 
 ## Santrauka
 
-Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Serpuchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi miniavęs su LDK didikais Goštautais ir vasaliniais buv.
+Fedoras Ivanovičius Jaroslavičius LDK valdė Klecką, Davidgorodoką, Rogačiovą ir Pinską, kurį gavo vedęs Oleną Aleksandrą.
 
 ## Teiginiai
 
 <a id="claim-t-194132"></a>
 - t-001
   global_id: t-194132
-  teiginys: "Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Serpuchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi miniavęs su LDK didikais Goštautais ir vasaliniais buv."
+  teiginys: 'Fedoras Ivanovičius Jaroslavičius LDK valdė Klecką, Davidgorodoką, Rogačiovą ir Pinską, kurį gavo vedęs Oleną Aleksandrą.'
   pagrindžia:
     - c-176745
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Serpuchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi miniavęs su LDK didikais Goštautais ir vasaliniais buv.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
-    puchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­
-    miniavęs su LDK didikais Goštautais ir vasaliniais buv. Kijevo ir
-    Slucko kunigaikščiais Olelkaičiais ir Alšėniškiais. Lietuvos Di­
-    džiojoje Kunigaikštystėje Fedoras Jaroslavičius valdė Klecką, Da-
-    vidgorodoką ir Rogačiovą, o  taip pat Pinską, kurj gavo, vesdamas
-    Kijevo kunigaikščio Simono Olelkaičio ir jo  žmonos Jonaitės Goš-
-    tautaitės dukterį Oleną Aleksandrą. M irė tarp 1520 ir 1522 m.,
-    pasižymėjęs labdarybe ir cerkvių rėmimu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -83,9 +61,9 @@ Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Serpuchovo kunigaikš
     Kijevo kunigaikščio Simono Olelkaičio ir jo  žmonos Jonaitės Goš-
     tautaitės dukterį Oleną Aleksandrą. M irė tarp 1520 ir 1522 m.,
     pasižymėjęs labdarybe ir cerkvių rėmimu.
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194132
+    - t-001

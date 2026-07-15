@@ -58,24 +58,6 @@ Nenurodyta
   teiginys: "1918 m. vasario 16 d. Jono Basanavičiaus vadovaujama Lietuvos Taryba Vokietijos okupacijos sąlygomis paskelbė nepriklausomos Lietuvos valstybės atkūrimą."
   pagrindžia:
     - c-23060
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1918 m. vasario 16 d. Jono Basanavičiaus vadovaujama Lietuvos Taryba Vokietijos okupacijos sąlygomis paskelbė nepriklausomos Lietuvos valstybės atkūrimą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rusija, Austrija ir Prūsija galutinai pasidalija Lenkijos ir Lietuvos valsty-
-    bę. Didžioji Lietuvos dalis atitenka Rusijai.
-    1918 II 16
-    Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
-    vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

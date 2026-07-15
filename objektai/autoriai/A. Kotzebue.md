@@ -43,26 +43,6 @@ Kotzebue : Preussens ältere Geschichte , III, 292 p. (^14) CEV, 78, 1034 p.
   pagrindžia:
     - c-32871
 - susijęs iš A. Kotzebue, Preussens ältere Geschichte: A. Kotzebue veikalas Narbuto pastaboje cituojamas prie žinios, kad netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo galima uždegti degų daiktą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tvirtindamas, kad laisvieji gali nevaržomai kilnotis^20 , Vytau­
-    (^11) **CEV, 67-68 p. — CDPr, VI, 99, 105 p. — J. Voigt :** **_Gesch. Preuss.,_**
-    **VI, 185 p.**
-    (^12) **KrSO, 119-120 p.**
-    (^13) **A. Kotzebue :** **_Preussens ältere Geschichte_** **, III, 292 p.**
-    (^14) **CEV, 78, 1034 p. — SRP, III, 240 p. — CDPr, VI, 118 p.**
-    (^15) **SRP, III, 237 p.—Voigt :** **_Gesch.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32871

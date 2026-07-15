@@ -8,13 +8,13 @@ datos:
   - '1839 m.'
 date_start: '1839'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - papuošalas
   - daiktas
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -76,8 +76,8 @@ Nenurodyta
   teiginys: "Narbutas 1839 m. gavo Jo Didenybės Imperatoriaus dovanotą briliantinį žiedą, galėjusį atgaivinti viltį išleisti rusiškąjį variantą."
   pagrindžia:
     - c-174931
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -137,15 +137,15 @@ Nenurodyta
 - id: c-170993
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 12"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 12."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    A. H. Kirkoras, A. Renjė bandė jį užtarti pe­
-    riodikoje, pagirdami už iškelto ir realizuoto sumanymo di­
-    dumą.
-    1839 m. istorikas nusiuntė penkis savo istorijos veikalo to­
-    mus Rusijos imperatoriui ir gavo iš jo briliantinį 1000 aukso .'A
-    rublių vertės žiedą.
+    Karaliaučiuje ir Rygoje gyvenantys isto­
+    rikai Johanas Foigtas ir Karolis Edvardas Napierskis žadėjo
+    T. Narbutui atsiųsti dokumentų. Pradžia jau buvo padaryta:
+    išleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-
+    jūko-Kojalavičiaus „Herbyną“ - Lietuvos bajorų giminių ge­
+    nealogijų rinkinį. Bet istorijos šaltinių leidimas nejudėjo iš vie­
+    tos.
   citata_rodoma: "A. H. Kirkoras, A. Renjė bandė jį užtarti pe­\nriodikoje, pagirdami už iškelto ir realizuoto sumanymo di­\ndumą.\n1839 m. istorikas nusiuntė penkis savo istorijos veikalo to­\nmus Rusijos imperatoriui ir gavo iš jo briliantinį 1000 aukso .'A\nrublių vertės žiedą."
   statusas: verified
   teiginio_tipas: faktas
@@ -157,15 +157,16 @@ Nenurodyta
 - id: c-174930
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 62"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 62."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Va­
-    dinasi, sumanymas siekia daug ankstesnius laikus nei „Lietu­
-    vių mitologija“ buvo įvertinta sostinėje Peterburge. Jo Dide­
-    nybės Imperatoriaus dovaną, briliantinį žiedą, istorikas gavo
-    1839 metais. Šis faktas galėjo tik atgaivinti seną viltį išleisti
-    rusiškąjį variantą.
+    Nesėkmės prie­
+    žasčių galėtų būti įvairių, tačiau šiandien faktografinė medžiaga
+    nesudaro galimybės vienareikšmiškai atsakyti į šį klausimą.
+    Didelės apimties (862 lapai) rankraštis šiuo metu saugo­
+    mas Lietuvos mokslų akademijos bibliotekos rankraščių sky­
+    riuje. Tituliniame lape rusų kalba parašyta: „Lietuvių mitolo­
+    gija. Iš lenkų kalbos išvertė pats autorius“. Deja, pastaruoju
+    faktu tenka suabejoti.
   citata_rodoma: "Va­\ndinasi, sumanymas siekia daug ankstesnius laikus nei „Lietu­\nvių mitologija“ buvo įvertinta sostinėje Peterburge. Jo Dide­\nnybės Imperatoriaus dovaną, briliantinį žiedą, istorikas gavo\n1839 metais. Šis faktas galėjo tik atgaivinti seną viltį išleisti\nrusiškąjį variantą."
   statusas: verified
   teiginio_tipas: faktas
@@ -177,17 +178,17 @@ Nenurodyta
 - id: c-174931
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 453"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 453."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vadinasi, su­
-    manymas siekia daug ankstesnius laikus nei „Lietuvių mi­
-    tologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­
-    bės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­
-    vo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-
-    išleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­
-    nės T. Narbuto korespondencijos, istorikas daugelį metų
-    ieškojo galimybės išspausdinti šio tomo vertimą.
+    Vargu ar būtų galima vienareikšmiškai pasakyti, kas
+    paskatino T. Narbutą išversti į rusų kalbą „Lietuvių mi­
+    tologiją“. Beje, buvo išverstas ne tik pirmas tomas —
+    mūsų dienas pasiekė ir antro LTI tomo rusiškasis va­
+    riantas, kuris datuojamas 1835 metų gegužės mėnesiu;
+    vadinasi, jis buvo parengtas dar nepasirodžius lenkiška­
+    jam šio tomo leidimui4. Si aplinkybė leidžia daryti prie­
+    laidą, jog abu tomai į rusų kalbą buvo verčiami tiesiog
+    iš rankraščio, kartu su lenkiškuoju variantu.
   citata_rodoma: "Vadinasi, su-\nmanymas siekia daug ankstesnius laikus nei „Lietuvių mi­\ntologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­\nbės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­\nvo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-\nišleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­\nnės T. Narbuto korespondencijos, istorikas daugelį metų\nieškojo galimybės išspausdinti šio tomo vertimą."
   statusas: verified
   teiginio_tipas: faktas

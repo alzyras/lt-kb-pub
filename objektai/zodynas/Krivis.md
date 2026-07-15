@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pilys. Netgi teigiama, kad Grevožos tvirtovėje gyvenęs vietinis Krivis.
+Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pilys. Netgi teigiama, kad Grevožos tvirtovėje gyvenęs vietinis Krivis. Visa tai leidžia padaryti teisingą išvadą, jog būtent šiose vietose buvo rezidencinės Reiksa, karaliuko ir krašto Krivio pilys, o kitos priklausė kitiems žymiems asmenims.
 
 ## Teiginiai
 
@@ -43,29 +43,15 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
   teiginys: "Netgi teigiama, kad Grevožos tvirtovėje gyvenęs vietinis Krivis."
   pagrindžia:
     - c-177299
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pilys.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Visa tai leidžia padaryti teisingą
-    išvadą, jog būtent šiose vietose buvo rezidencinės Reiksa,
-    karaliuko ir krašto Krivio pilys, o kitos priklausė kitiems
-    žymiems asmenims. Kaip šventoje girioje prie Romovės,
-    Sambijoje, buvo šventos ugnies aukuras, kur kitados lieps­
-    nojo amžinoji ugnis, taip šičia vietovardžiai Prantlak-
-    Brantlak, arba Brandlankės, primena šio aukuro vietą.
-    Taigi čia gyveno Bartos karaliukas, čia buvo ir savo
-    sprendimus skelbė vietinis Krivis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197695"></a>
+- t-003
+  global_id: t-197695
+  teiginys: "Visa tai leidžia padaryti teisingą išvadą, jog būtent šiose vietose buvo rezidencinės Reiksa, karaliuko ir krašto Krivio pilys, o kitos priklausė kitiems žymiems asmenims."
   pagrindžia:
-    - t-001
+    - c-175693
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Netgi teigiama, kad Grevožos tvirtovėje gyvenęs vietinis Krivis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -92,10 +78,11 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
 - id: c-175693
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 361"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 361."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Visa tai leidžia padaryti teisingą
+    Salia šio
+    miško stūkso supilta kita stati kalva, ant kurios ir turėjo
+    stovėti Weistote-Pil. Visa tai leidžia padaryti teisingą
     išvadą, jog būtent šiose vietose buvo rezidencinės Reiksa,
     karaliuko ir krašto Krivio pilys, o kitos priklausė kitiems
     žymiems asmenims. Kaip šventoje girioje prie Romovės,
@@ -110,14 +97,17 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192923
+    - t-197695
 
 - id: c-177299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 356"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Belichovo pilis, kilmingojo Jono
+    Taip
+    pat šioje provincijoje būva pilaičių, iš dalies pastatytų
+    lapsisaugoti nuo priešų puolimų, o iš dalies — keliaujan­
+    tiems ponams apsistoti. Belichovo pilis, kilmingojo Jono
     buveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bia-
     lochovo, apylinkėse, šiaurinėje Osos pakrantėje, prie pat
     Mokrau kaimo. Ant Grevožos kalno, kur dabar stūkso
@@ -126,6 +116,7 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
     vietą primena Heiligenmalde, esanti į pietus nuo Christ­
     burgo. Netgi teigiama, kad Grevožos tvirtovėje gyvenęs
     vietinis Krivis.
+  citata_rodoma: "Belichovo pilis, kilmingojo Jono\nbuveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bia-\nlochovo, apylinkėse, šiaurinėje Osos pakrantėje, prie pat\nMokrau kaimo. Ant Grevožos kalno, kur dabar stūkso\nChristburgo pilies griuvėsiai, stovėjo pilis, slėpusi neto­\nliese buvusią šventą girią ir šventovę; šiandien tą Šventą\nvietą primena Heiligenmalde, esanti į pietus nuo Christ­\nburgo. Netgi teigiama, kad Grevožos tvirtovėje gyvenęs\nvietinis Krivis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

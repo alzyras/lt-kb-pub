@@ -42,25 +42,6 @@ Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot kovojęs su rusais,
   teiginys: "Chlapovskio vadovaujama kariuomenė nekovojo su rusais ir, prieš pereidama Prūsijos sieną, padėjo ginklus."
   pagrindžia:
     - c-152975
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Krašto
-    bajorija buvo labai nepatenkinta generolais. Pagaliau generolai
-    sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti
-    į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
-    Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot
-    kovojęs su rusais, prieš pereidamas Prūsijos sieną, padėjo gink-
-    lus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

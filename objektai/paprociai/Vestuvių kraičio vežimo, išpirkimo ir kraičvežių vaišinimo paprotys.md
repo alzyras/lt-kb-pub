@@ -79,8 +79,9 @@ Nenurodyta
   global_id: t-195383
   teiginys: "Atlyginti kraičvežiai išveždavo skrynią ir ryšulį į jaunikio namus, kur jų laukdavo sukviesti svečiai."
   pagrindžia:
-    - c-177799
     - c-177798
+    - c-177799
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

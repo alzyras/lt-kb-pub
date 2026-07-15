@@ -54,8 +54,8 @@ Nenurodyta
   global_id: t-195323
   teiginys: "Vyžų adymo įrankis, aprašytas ir per funkciją, ir per medžiagas."
   pagrindžia:
-    - c-177709
     - c-177708
+    - c-177709
     - c-177710
 - susijęs iš [[objektai/daiktai/Ąsikliai.md#claim-t-195324|Ąsikliai]]: Pagalbinė detalė vyžoms adyti.
 ## Reikšmingi paminėjimai

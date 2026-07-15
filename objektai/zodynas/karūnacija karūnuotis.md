@@ -64,77 +64,6 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   teiginys: "Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium. Sumanymą iškėlė imperatorius Zigmantas."
   pagrindžia:
     - c-175901
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tada lenkai pradėjo ginkluotis.
-    Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci-
-    jos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus
-    atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
-
-- c-002
-  santrauka: 'Vytautas neketino atsisakyti karūnos ir buvo pasirengęs atvirai kovai su lenkais, tačiau jo karūnacijos pastangas nutraukė mirtis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tad santykių klausimas išbuvo ne-
-    judintas iki Vytauto gyvenimo galo. Tik tada, kai jis panoro
-    Lietuvos savarankiškumą apdrausti karališkąja karūna, lenkai
-    pakėlė didžiausią triukšmą. Vytautas dabar nebepabūgo sueiti su
-    jais į atvirą kovą ir nė neketino išsižadėti karūnos; tačiau jo
-    pastangas pakirto mirtis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Imperatorius Zigmantas iškėlė sumanymą karūnuoti Vytautą Lietuvos karaliumi, o Jogaila šiam sumanymui pritarė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
-    siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.
-    Sumanymą iškėlė imperatorius Zigmantas. Jogaila tam pritarė,
-    bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vado-
-    vavo Lietuvos savarankiškumo priešas, vysk. Zbignevas
-    Olesnickis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium. Sumanymą iškėlė imperatorius Zigmantas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Suvažiavimo šeimininkas, Vytautas, turėjo progos
-    parodyti savo vaišingumą.
-
-    Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
-    siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.
-    Sumanymą iškėlė imperatorius Zigmantas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
 
 ## Citatos
 
@@ -153,8 +82,8 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104171
     - t-104168
+    - t-104171
 
 - id: c-97128
   redaktorius: "A. Šapoka"

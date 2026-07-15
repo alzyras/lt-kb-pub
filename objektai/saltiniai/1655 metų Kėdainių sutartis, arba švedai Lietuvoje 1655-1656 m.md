@@ -43,27 +43,6 @@ Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655 metų Kėdainių
   teiginys: "Šapokos habilitacija „1655 metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m.“ liko nespausdinta Lietuvoje."
   pagrindžia:
     - c-33503
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tuo atžvilgiu Šapoka dar
-    labiau šaltiniais pagrindė tezę I. Lappo, su kuriuo nuo savo studijų
-    gilinimų Pragoję (1931) buvo suėjęs į artimesnį kontaktą.
-    Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655
-    metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m. »,kuri
-    yra paremta svarbia archyvine medžiaga, labiausiai panaudojant
-    švedų archyvus. Savo išvadas jis yra davęs straipsniuose apie
-    Jonušą Radvilą ir Švediją (Židinys, 1939) ir Kėdainių sutartį
-    (LE, t, 11).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,28 +35,6 @@ Jo krikštatėviu buvo Ragainės komtūras Vy­ gandas von Baldersheimas, dėl t
   teiginys: "Ragainės komtūras Vygandas von Baldersheimas buvo Vytauto krikštatėvis, todėl Vytautas apsikrikštijo Vygando vardu."
   pagrindžia:
     - c-38151
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    21 d. Tapiau mieste­
-    lyje Prūsuose. Jo krikštatėviu buvo Ragainės komtūras Vy­
-    gandas von Baldersheimas, dėl to ir Vytautas apsikrikštijo Vy­
-    gando vardu^1 ). Jis turėjo tada 33 metus, ir krikščionybė jam
-    nebuvo svetima, nes savo tėvo Kęstučio dvare Trakuose susi­
-    tikdavo su svečiais katalikais iš Mozūrijos, kur buvo nutekė­
-    jusi jo sesuo Danuta, iš Malburgo ir kartais iš kitų Vakarų Eu­
-    ropos kraštų, o per abi savo žmonas stačiatikes suartėjo su jų
-    tikėjimu, nes mirus pirmajai žmonai Marijai, Vytautas vedė
-    Smolensko kunigaikštytę Oną, taip pat stačiatikę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

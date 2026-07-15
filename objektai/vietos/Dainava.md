@@ -72,25 +72,6 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
 - susijęs iš Varčios miškas: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.
 - susijęs iš Zilija: Konradas iš Tirbergo su Ordino kariuomene įsiveržė į Sūduvos valsčių Ziliją ir jį nusiaubė.
 - susijęs iš [[objektai/autoriai/Ochmański J.md#claim-t-60619|Ochmański J]]: J. Ochmańskis nurodomas prie duomenų apie Dainavos gyvenvietes XIII a. etninio lietuvių ploto rytiniame pakraštyje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kaip patys sūduviai-jotvingiai save vadino, nežinoma.
-    Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl
-    kurių pirmojo autentiškumo nėra keliama abejonių, yra minima
-    Dainava (Denowe, Deynowe, Dainowe). Ją kai kas, esą, vadinąs
-    Jotvingiais (« Denowe totą, quam etiam quidam Jetwesen vocant »,
-    PUB, I, 2 nr. 79).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33814

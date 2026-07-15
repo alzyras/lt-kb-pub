@@ -58,7 +58,6 @@ Pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją ir įstojo į vie
 - susijęs iš [[objektai/zodynas/Lietuvių mitologija.md#claim-t-189157|Lietuvių mitologija]]: Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romėnų dievų bei skandinavų religijos samplaikos rezultatą.
 - susijęs iš [[objektai/posakiai/Visiškai tikra yra tai, jog Lietuva tuo pačiu kaip ir dabar vardu jau buvo žinoma romėnams.md#claim-t-192123|Visiškai tikra yra tai, jog Lietuva tuo pačiu kaip ir dabar vardu jau buvo žinoma romėnams]]: Narbutas cituoja Tadą Volianskį, teigusį, kad Lietuva tuo pačiu vardu romėnams buvo žinoma jau senovėje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas vaizduoja Graikijos ir senosios Romos dievus kaip persikėlusius į Lietuvos kraštus ir susiliejusius su vietos tikyba.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -85,18 +84,23 @@ Pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją ir įstojo į vie
 - id: c-171838
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 83"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
-    tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
-    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
-    čią beveik visas menkiausias smulkmenas.
-    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
-    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
-    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
-    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
-    plaikos kilo mitologija, kurią imamės išdėstyti.
+    Kadangi ir šioje yra nemažai pasi­
+    savinta iš graikų, todėl mūsų ir skandinavų mitologijos pana-
+    šybė pasirodo esanti dar ryškesnė. Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
+    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
+    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
+    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
+    religijos, kurią gana veiksmingai formavo graikų mitologija.
+  citata_rodoma: "Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip\ntatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną\nir tais pačiais principais besiremiančią religiją, pamėgdžiojan-\nčią beveik visas menkiausias smulkmenas.\nNet atrodo, kad Graikijos ir senosios Romos dievai, išgui­\nti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­\ndami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų\nsistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­\nplaikos kilo mitologija, kurią imamės išdėstyti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

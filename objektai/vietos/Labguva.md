@@ -9,13 +9,13 @@ datos:
   - '1966 m.'
 date_start: '1500'
 date_end: '1966'
+amziai:
+  - 'XV'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-amziai:
-  - 'XV'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,7 +60,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-62115|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
 - susijęs iš Nogatas: Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -80,11 +79,12 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - id: c-67974
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.
-    185—189.
+    114—120.
+    Мажюлис В. Заметки по прусскому вокализму. — Вопросы теории и истории языка,
+    Л., 1963, с.
+  citata_rodoma: "Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.\n185—189."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

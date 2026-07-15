@@ -51,33 +51,13 @@ Nenurodyta
   teiginys: "Narbuto pateikiamame datavime Torfėjas Frotono III valdymą sieja su III krikščioniškosios eros amžiumi."
   pagrindžia:
     - c-174898
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat skandinavų užkariavi­
-    mai lietuvių žemėse buvo labai seni ir dideli. Tai patvir­
-    tina Nestoro pateiktos žinios, kad skandinavams priklau­
-    sė daug kraštų ir tautų2. Torfėjas, chronologiškai vardijęs
-    danų istorijos įvykius, palygintus su tiksliausiais skaičia­
-    vimais, Frotono III valdymą sieja su III krikščioniškosios
-    eros amžiumi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174898
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 242"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat skandinavų užkariavi­
     mai lietuvių žemėse buvo labai seni ir dideli. Tai patvir­

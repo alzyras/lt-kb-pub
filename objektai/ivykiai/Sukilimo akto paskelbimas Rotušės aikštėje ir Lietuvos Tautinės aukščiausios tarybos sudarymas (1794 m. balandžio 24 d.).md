@@ -51,46 +51,12 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-78639"></a>
+<a id="claim-t-78638"></a>
 - t-001
-  global_id: t-78639
+  global_id: t-78638
   teiginys: "1794 m. balandžio 24 d. Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba."
   pagrindžia:
     - c-75855
-
-<a id="claim-t-78639"></a>
-- t-002
-  global_id: t-78639
-  teiginys: "1794 m. balandžio 24 d. Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba."
-  pagrindžia:
-    - c-75855
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    užmuštų ir šešių sužeistų karių.
-    Balandžio 24 d. Vilniuje,
-    Kovos Viln
-
-    Rotušės aikštėje, buvo paskelbtas
-
-    2328 sukilėlių pasirašytas sukilimo aktas
-
-    ir sudarytas vykdomosios valdžios orga-
-
-    nas - Lietuvos Tautinė aukščiausia taryba
-
-    (Roda Naididžiausia Naradaus Lietuvos).
-    Sukilimas apėmė visą Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 
@@ -120,4 +86,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78638
-    - t-78639

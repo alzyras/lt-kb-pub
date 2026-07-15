@@ -61,25 +61,6 @@ Nenurodyta
   teiginys: "Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais."
   pagrindžia:
     - c-00209
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tie keliai būdavo tokie
-    vingrūs ir pilni klastingų posūkių, kad jais tegalėjo eiti tik pri-
-    tyrusio vadovo vedami žmonės; niekas svetimas negalėjo jais
-    naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami
-    kūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti
-    Lietuvoje tokių kelių liekanų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -100,5 +81,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06735
     - t-06734
+    - t-06735

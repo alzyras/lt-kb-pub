@@ -37,28 +37,6 @@ Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsb
   pagrindžia:
     - c-33263
 - susijęs iš [[objektai/grupes/Romanovų dinastija.md#claim-t-66062|Romanovų dinastija]]: Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^32) ĮVADAS
-    Ir tolimesnė epocha turi abiejų tautų istorijoje paraleles. Kai
-    vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-
-    lernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją,
-    buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos
-    partneriams realizuoti savą tautinį idealą. Atsistatanti Lenkijos
-    valstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos
-    minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
-    vandenį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33263

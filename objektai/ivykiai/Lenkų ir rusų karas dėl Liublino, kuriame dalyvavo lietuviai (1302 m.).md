@@ -5,8 +5,9 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1302 m.'
+  - '1303 m.'
 date_start: '1302'
-date_end: ''
+date_end: '1303'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kare dėl Liublino rusai sutelkė didelę kariuomenę ir į pagalbą pasikvietė skitus bei lietuvius. Po pralaimėjimo rusai nebeatnaujino mūšio, o išblaškytus jų karius žudė pergalingi lenkai.
+Kare dėl Liublino rusai sutelkė didelę kariuomenę ir į pagalbą pasikvietė skitus bei lietuvius. Po pralaimėjimo rusai nebeatnaujino mūšio, o išblaškytus jų karius žudė pergalingi lenkai. Kare dėl Liublino abi pusės sutelkė didžiules kariuomenes, o rusai pagalbon pasikvietė skitus ir lietuvius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -60,94 +61,68 @@ Nenurodyta
   teiginys: "Po pralaimėjimo rusai nebeatnaujino mūšio, o išblaškytus jų karius žudė pergalingi lenkai."
   pagrindžia:
     - c-169098
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Kare dėl Liublino rusai sutelkė didelę kariuomenę ir į pagalbą pasikvietė skitus bei lietuvius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mat len­
-    kai ginklu stengėsi iš rusų at­
-    siimti Liubliną, kurio buvo
-    netekę prieš penkiasdešimt
-    septynerius metus. Abi pusės
-    sutelkė šiam karui didžiules
-    kariuomenes, ypač rusai, ku­
-    rie pagalbon buvo pasikvietę skitus ir lietuvius. Mūšį
-    laimėjo lenkai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196200"></a>
+- t-003
+  global_id: t-196200
+  teiginys: "Kare dėl Liublino abi pusės sutelkė didžiules kariuomenes, o rusai pagalbon pasikvietė skitus ir lietuvius."
   pagrindžia:
-    - t-001
+    - c-169097
 
-- c-002
-  santrauka: 'Po pralaimėjimo rusai nebeatnaujino mūšio, o išblaškytus jų karius žudė pergalingi lenkai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Rusai
-    po to nemėgino nei iš naujo stoti į mūšį, nei antpuo­
-    liais kamuoti priešo: išblaškytus ir iškrikusius juos žu­
-    dė pergalingi lenkai. Daug kas išsigelbėjo tik dėl to,
-    kad šalimais buvo Liublinas; tiesą sakant, ši aplinkybė
-    nieku būdu negalėjo padėti išvengti pralaimėjimo, tik
-    šiek tiek jį atitolino. Kadangi tvirtovėje padaugėjo ka­
-    rių ir trūko maisto, o atgabenti nebuvo galima, nes prie­
-    šas visur budėjo, todėl nugalėtojas tol kamavo apsup­
-    timi miestą, kol badas privertė pasiduoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196201"></a>
+- t-004
+  global_id: t-196201
+  teiginys: "Kojelavičiaus pasakojime Liublino pralaimėjimas smarkiai sutrikdė lietuvius, todėl jie metus gyveno ramiai ir atkūrinėjo jėgas."
   pagrindžia:
-    - t-002
+    - c-169098
 
 ## Citatos
 
 - id: c-169097
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 180"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 180."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat len­
-    kai ginklu stengėsi iš rusų at­
-    siimti Liubliną, kurio buvo
-    netekę prieš penkiasdešimt
-    septynerius metus. Abi pusės
+    Abi pusės
     sutelkė šiam karui didžiules
     kariuomenes, ypač rusai, ku­
     rie pagalbon buvo pasikvietę skitus ir lietuvius. Mūšį
-    laimėjo lenkai.
+    laimėjo lenkai. Kadangi rusai, surikiavę kariuomenę
+    pusmėnuliu, labai į šalis išskleidė sparnus, o vidurį su­
+    silpnino, lenkai, sutelkę vienoje vietoje karius nelygi­
+    nant kumštį, be galo lengvai sunkiaisiais raiteliais pra­
+    laužė rikiuotės vidurį ir atvėrė kelią į pergalę.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185736
+    - t-196200
 
 - id: c-169098
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 180"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 180."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Rusai
-    po to nemėgino nei iš naujo stoti į mūšį, nei antpuo­
-    liais kamuoti priešo: išblaškytus ir iškrikusius juos žu­
-    dė pergalingi lenkai. Daug kas išsigelbėjo tik dėl to,
+    Daug kas išsigelbėjo tik dėl to,
     kad šalimais buvo Liublinas; tiesą sakant, ši aplinkybė
     nieku būdu negalėjo padėti išvengti pralaimėjimo, tik
     šiek tiek jį atitolino. Kadangi tvirtovėje padaugėjo ka­
     rių ir trūko maisto, o atgabenti nebuvo galima, nes prie­
     šas visur budėjo, todėl nugalėtojas tol kamavo apsup­
-    timi miestą, kol badas privertė pasiduoti.
+    timi miestą, kol badas privertė pasiduoti. Ne be pa­
+    grindo manoma, kad šis pra-
+    1303 m e ta i
+    laimėjimas smarkiai sutrikdė
+    lietuvius, nes pastarieji po to
+    ištisus metus gyveno ramiai, stengdamiesi atstatyti jė­
+    gas. Trumpą atokvėpį vis dėlto nutraukė nauji ant­
+    puoliai iš Prūsijos.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185737
+    - t-196201

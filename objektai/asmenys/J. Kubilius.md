@@ -35,27 +35,6 @@ Kubiliaus vadovaujama kolona (Ukmergės atskirasis batalionas, pusė husarų esk
   teiginys: "J. Kubiliaus vadovaujamas Ukmergės batalionas išmušė bolševikus iš apkasų ir užėmė keletą kaimų."
   pagrindžia:
     - c-41958
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Kubiliaus vadovaujamas Ukmergės batalionas išmušė bolševikus iš apkasų ir užėmė keletą kaimų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Karin. J. Kubiliaus vadovaujamas Uk-
-    mergės batalionas, nepaisydamas smar-
-    kios priešo ugnies, drąsiai veržėsi ir
-    išmušė bolševikus iš jų apkasų, užėmė ke-
-    letą kaimų. Išaušus kitai dienai, remiant
-    karin. M. Pečiulionio artilerijos baterijai,
-    Ukmergės bataliono kariai išstūmė rusus
-    ir iš jų gilumoje buvusių pozicijų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

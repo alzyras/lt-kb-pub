@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas rašo, kad Ragučio stabas ar keistas jo atvaizdas per vasario mėnesio šventę buvo vežiojamas rogėmis iš kaimo į kaimą.
+Narbutas rašo, kad Ragučio stabas ar keistas jo atvaizdas per vasario mėnesio šventę buvo vežiojamas rogėmis iš kaimo į kaimą. Ugniai ir saulei buvo nusilenkiama visur, kur tik stabmeldiškoji religija turėjo išorinę išraišką ir žynius.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -50,34 +50,13 @@ Nenurodyta
   teiginys: "Narbutas rašo, kad Ragučio stabas ar keistas jo atvaizdas per vasario mėnesio šventę buvo vežiojamas rogėmis iš kaimo į kaimą."
   pagrindžia:
     - c-172625
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas rašo, kad Ragučio stabas ar keistas jo atvaizdas per vasario mėnesio šventę buvo vežiojamas rogėmis iš kaimo į kaimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Jį taip pat vadino Tiimpus,
-    lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai
-    buvo paprastas girtuoklių globėjo epitetas. Kadangi to dievo
-    L
-    99
-
-    ## Puslapis 99
-
-    stabas ar kažkoks keistas jo atvaizdas per jo šventę, švenčiamą
-    vasario mènes j, buvo vežiojamas rogėmis iš kaimo j kaimą, o
-    lietuvių kalba rogės vadinamos Ragutas, todėl tinkamiausia
-    būtų išvada, kad ir tas dievas Ragutis plačiausiai buvo vadina­
-    mas vardu, kilusiu iš to žodžio.
-    Santvaras (Sotvaras, Sotwaros)
-    Dienos šviesos, poetų, gydytojų dievas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197243"></a>
+- t-002
+  global_id: t-197243
+  teiginys: "Ugniai ir saulei buvo nusilenkiama visur, kur tik stabmeldiškoji religija turėjo išorinę išraišką ir žynius."
   pagrindžia:
-    - t-001
+    - c-172625
 
 ## Citatos
 
@@ -86,24 +65,16 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jį taip pat vadino Tiimpus,
-    lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai
-    buvo paprastas girtuoklių globėjo epitetas. Kadangi to dievo
-    L
-    99
-
-    ## Puslapis 99
-
-    stabas ar kažkoks keistas jo atvaizdas per jo šventę, švenčiamą
-    vasario mènes j, buvo vežiojamas rogėmis iš kaimo j kaimą, o
-    lietuvių kalba rogės vadinamos Ragutas, todėl tinkamiausia
-    būtų išvada, kad ir tas dievas Ragutis plačiausiai buvo vadina­
-    mas vardu, kilusiu iš to žodžio.
-    Santvaras (Sotvaras, Sotwaros)
-    Dienos šviesos, poetų, gydytojų dievas.
+    Ugniai ir saulei buvo nusilenkiama
+    visur, kur tik stabmeldiškoji religija turėjo išorinę išraišką ir
+    žynius. Graikai sakydavo, kad Šiaurės tautų Apolono garbini­
+    mas buvo labai pagarsėjęs, todėl Apoloną vadino Šiauriniu 12 13
+    12 In Verrem Act. - IV
+    13 Aukščiau minėtas veikalas. - P. 145.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189742
+    - t-197243

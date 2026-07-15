@@ -41,36 +41,12 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Paiakas.md#claim-t-191452|Paiakas]]: Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vadovavo roksolanams kare Skilūro pusėje prieš Mitridatą.
 - susijęs iš [[objektai/grupes/Roksolanai.md#claim-t-192941|Roksolanai]]: Teodoras Narbutas seniausią užuominą apie roksolanus kaip sarmatų padermės tautą tarp Dnepro ir Dauguvos sieja su 94 m. pr. Kr.
 - susijęs iš [[objektai/asmenys/Pasijus.md#claim-t-191453|Pasijus]]: Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '94 m. pr. Kr. roksolanai, vadovaujami Pasijaus, Paiako sūnaus, padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    51
-    Ros-alanai, Seniausia užuomina apie roksolanus, kaip
-    apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
-    Dauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-
-    lanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­
-    tų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-
-    hR. Kai alanai iš Uralo kalnų pasistūmėjo į pietus, vie­
-    na jų orda pateko Į Volgos žemupį ir ten, šiandieninės
-    Astrachanės apylinkėse, gyveno gana ilgai4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174349
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 66."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     51
     Ros-alanai, Seniausia užuomina apie roksolanus, kaip

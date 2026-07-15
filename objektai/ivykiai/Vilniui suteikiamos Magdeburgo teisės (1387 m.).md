@@ -70,52 +70,6 @@ Nenurodyta
   teiginys: "Magdeburgo teisių suteikimu Jogaila siekė vilioti svetimtaučius kurtis Vilniuje, bet privilegiją ribojo miestiečių pavaldumas Vilniaus seniūnui."
   pagrindžia:
     - c-55660
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Atmindamas Vilniaus
-    gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
-    su Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo
-    valdžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­
-    mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
-    rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
-    tės, valdovas Vilniui suteikė Magdeburgo teises15. Prisižiū­
-    rėjęs į klestinčią Krokuvą, Vladislovas Jogaila nusprendė vi­
-    lioti svetimtaučius kurdintis Vilniaus mieste, tačiau palankūs
-    tos privilegijos padariniai sumenko per išlygą, jog nepai­
-    sant naujų nuostatų, visi miestiečiai pavaldūs Vilniaus se­
-    niūnui, dėl ko jiems kilo pavojus ne kartą susidurti su sava­
-    vališkos valdžios perlenkimais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Merkinėje rašytu iškilmingu aktu Vilniui buvo suteiktos Magdeburgo teisės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­
-    mesį į savo senosios sostinės padėtį. Atmindamas Vilniaus
-    gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
-    su Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo
-    valdžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­
-    mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
-    rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
-    tės, valdovas Vilniui suteikė Magdeburgo teises15.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

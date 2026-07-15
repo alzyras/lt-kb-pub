@@ -35,24 +35,6 @@ Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.
   pagrindžia:
     - c-83832
 - susijęs iš Brasta: Brastoje Slupskis sumokėjo 38 lietuviškus grašius palūkanų nuo filipkų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Slupskis Brastoje davė 38 lietuviškus grašius palūkanų nuo filipkų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    20 grašių. Slups-
-    kis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­
-    šius. Per poną Turčiną pasiunčiau į Vilnių 80 filipkų, kuriuos
-    priėmė į iždą karališk. did. paliepimu po 1 floriną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83832

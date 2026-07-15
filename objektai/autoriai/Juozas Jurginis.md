@@ -13,15 +13,15 @@ aliases:
   - 'objektai/autoriai/J. Jurginis'
 variantai:
   - 'J. Jurginis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - istorikas
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,20 +56,12 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   teiginys: "Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
   pagrindžia:
     - c-169795
-
-<a id="claim-t-186444"></a>
-- t-003
-  global_id: t-186444
-  teiginys: "Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
-  pagrindžia:
-    - c-169795
 - susijęs iš [[objektai/autoriai/A. Šidlauskas.md#claim-t-97147|A. Šidlauskas]]: A. Šidlauskas kartu su J. Jurginiu parengė 1983 m. Vilniuje išleistą rinkinį „Kraštas ir žmonės“.
 - susijęs iš [[objektai/autoriai/Jurginis J.md#claim-t-64662|Jurginis J]]: J. Jurginis nurodomas tarp autorių, siejusių paprotinę teisę su aukšta moters padėtimi senovės baltų šeimoje.
 - susijęs iš [[objektai/autoriai/Jurginis J.md#claim-t-64667|Jurginis J]]: J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu.
 - susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): 1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.
 - susijęs iš Kraštas ir žmonės Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) Parengė J. Jurginis ir A. Šidlauskas: Leidinį „Kraštas ir žmonės“ parengė J. Jurginis ir A. Šidlauskas, jis išleistas Vilniuje 1983 m.
 - susijęs iš Lietuvių Pilys: „Lietuvos Pilys“ buvo J. Jurginio redaguotas devynių autorių tyrinėjimų rinkinys apie mūrines Lietuvos pilis, išleistas Vilniuje 1971 m.
-- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojelavičius.md#claim-t-184457|Albertas Vijūkas-Kojelavičius]]: J. Jurginis įvade nurodo, kad Albertas Vijūkas-Kojelavičius buvo teisus vadindamas save istoriku.
 - susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojelavičius.md#claim-t-184603|Albertas Vijūkas-Kojelavičius]]: J. Jurginis įvade teigia, kad Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ sėkmingai atstovavo Lietuvai mokslo pasaulyje.
 - susijęs iš [[objektai/autoriai/B. Dundulis.md#claim-t-71508|B. Dundulis]]: B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais XV amžiuje.
 - susijęs iš [[objektai/autoriai/K. Sideravičius.md#claim-t-30749|K. Sideravičius]]: K. Sideravičius 1944 m. paskelbė darbą „Nuo Durbės iki Žalgirio“.
@@ -77,7 +69,6 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
 - susijęs iš [[objektai/grupes/Istorikų kolektyvas.md#claim-t-31193|Istorikų kolektyvas]]: Istorikų kolektyvas parengė bendrą lietuvių kovų su kryžiuočiais istoriją „Lietuvių karas su kryžiuočiais“.
 - susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -130,28 +121,21 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
 - id: c-167829
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 2"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 2."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    BBK-63.3(2L)
-    Vi-109
-    Spausdinama pagal leidinį:
-    Albertas Vijūkas-Kojelavičius
-    LIETUVOS ISTORIJA, V., Vaga, 1988
-    REDAKCINE KOM ISIJA
-    J. LANKUTIS (pirm ininkas),
-    A. JOVAIŠAS, A. MALDONIS, V. MERKYS,
-    E. ULČINAITĖ, H. ZABULIS
-    Įvadą ir paaiškinim us parašė
-    JUOZAS JURGINIS
-    Iš lotynų ka!bos_vertė
-    LEONAS VALKŪNAS
-    V
-    0503020908—250
-    -----------------------  Prot. Nr.
-    M853(10)—89
-    1—89
-    (6) Vertimas, įvadas, paaiškinimai.
+    A. Kojelavičiaus
+    „Lietuvos istorijoje" gausu beletristikos, vis dėlto au­
+    torius buvo teisus, vadindamas save istoriku,
+    Jo pirmtakai — Aleksandras Gvagninis (lotyniškasis
+    „Sarmatų Europos aprašymas", 1578) ir Motiejus Strij­
+    kovskis (lenkiškoji „Lenkijos, Lietuvos, Žemaitijos ir
+    visos Rusios kronika", 1582). Šiedu autoriai vaidijosi.
+    Antrasis apkaltino pirmąjį plagiatu. Jis mat davęs jam,
+    savo viršininkui, veikalą pasiskaityti, o šis begėdiškai
+    pasisavinęs darbą ir išspausdinęs savo vardu, tačiau
+    „kiekvienas matys, jog varna puošiasi svetimomis
+    plunksnomis". Šitaip rašė M. Strijkovskis apie A. Gvag-
+    ninį.
   citata_rodoma: "BBK-63.3(2L)\nVi-109\nSpausdinama pagal leidinį:\nAlbertas Vijūkas-Kojelavičius\nLIETUVOS ISTORIJA, V., Vaga, 1988\nREDAKCINE KOM ISIJA\nJ. LANKUTIS (pirm ininkas),\nA. JOVAIŠAS, A. MALDONIS, V. MERKYS,\nE. ULČINAITĖ, H. ZABULIS\nĮvadą ir paaiškinim us parašė\nJUOZAS JURGINIS\nIš lotynų ka!bos_vertė\nLEONAS VALKŪNAS\nV\n0503020908—250\n-----------------------  Prot. Nr.\nM853(10)—89\n1—89\n(6) Vertimas, įvadas, paaiškinimai."
   statusas: verified
   teiginio_tipas: faktas
@@ -165,11 +149,14 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    REDAKCINE KOMISIJA
-    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
-    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
-    *
-    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
+    Rankraštis neturėjo jokio pavadini­
+    mo. „Bychovco kronika" jis buvo pramintas XIX a.
+    pagal rankraščio savininką, Gardino gubernijos Volko-
+    vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
+    vos metraščio" antraštė duota dėl nusistojusios jau lie­
+    tuvių tarybinėje istoriografijoje tradicijos vadinti
+    metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
+    Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
   citata_rodoma: "REDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,  \nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į\n*\nVertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S"
   statusas: verified
   teiginio_tipas: faktas
@@ -177,4 +164,3 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186444
-    - t-186445

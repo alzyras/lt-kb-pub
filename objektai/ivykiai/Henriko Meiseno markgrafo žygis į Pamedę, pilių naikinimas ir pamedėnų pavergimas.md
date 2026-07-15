@@ -75,87 +75,19 @@ Nenurodyta
   pagrindžia:
     - c-66766
 
-<a id="claim-t-66559"></a>
-- t-004
-  global_id: t-66559
-  teiginys: "Henrikas, Meiseno markgrafas, atvyko į Prūsiją su 500 kilmingų kovai pasirengusių vyrų ir dideliais turtais."
-  pagrindžia:
-    - c-66766
-
 <a id="claim-t-194388"></a>
-- t-005
+- t-004
   global_id: t-194388
   teiginys: "Apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais."
   pagrindžia:
     - c-66766
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie daugelio pilių sunaikinimą ir pamedėnų pavergimą
-
-      Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų
-    ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė,
-    kamuodamas grobstymais bei gaisrais ir nuleisdamas netikėliams daug kraujo. Smarkiai
-    užpuolė jų pilį, pastatytą prie Mukeros upės235, bei visas pilaites [omnia propugnacula],
-
-      233  D.— castrum de Redino, Jer. — burc Reddin. Redinas, kitaip Rudinas (dab.
-    Radzyń Chełmiński) — per 18 km į pietryčius nuo Grudziondzo (GAO, p. 145; SZCh, p.
-    104—106). Vėliau (1290—1300 m.) čia pastatyta galinga mūrinė Ordino pilis su dviem
-    papiliais.
-      234 Atvyko į Prūsiją ir niokojo Pamedę 1236 m. (Ewald A. L., Die Eroberung..., 1, p.
-    190—192).
-      235 D.— circa fluvium Mockeram, Jer.— vlîz [...J Muckir. Plg. 1437 m. Mucker See
-    (GAO, p. 100; į pietus nuo dab. Mrongovo, dab. jezioro Mokre); be to, plg. lie. Mukriškė
-
-    kurias jie turėjo toje vietoje, kuri vadinama Stuma, prie Postelino236, prie Rizenburgo bei
-    Rizenkircheno237, prie ežero, vardu Drūsinė238, bei Vildenbergo239, žudydami netikėlius ir
-    imdami juos nelaisvėn, ir ją, pavertę pelenais, sulygino su žeme240. Taip smarkiai ir taip
-    drąsiai šis markgrafas užgriuvo šias netikėlių gentis nelyginant liūtas, kuris nesibijo bet
-    kokio susirėmimo, kad niekas to nestengtų apsakyti nei žodžiu, nei raštu. Taip žiauriai jis
-    kariavo, kad jie pasidavė tikėjimui bei broliams. Ir kiti naujakrikščiai vėliau buvo valdomi,
-    remiantis ta pačia sutartimi bei laisvėmis, kurios tuo metu šiems buvo suteiktos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Meiseno markgrafo atvykimą
-
-      Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas,
-    Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su
-    dideliais turtais. Šis vyras iš visos širdies ir iš visų jėgų ryžosi naikinti netikėlius ir plėsti
-    krikščionių žemes.
-
-
-
-
-                 14.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-    - t-005
 
 ## Citatos
 
 - id: c-66764
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 75-76"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75-76."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie daugelio pilių sunaikinimą ir pamedėnų pavergimą
 
@@ -185,14 +117,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66558
     - t-66557
+    - t-66558
 
 - id: c-66766
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 75"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Meiseno markgrafo atvykimą
 
@@ -211,5 +142,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66559
-    - t-183923
     - t-194388

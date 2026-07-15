@@ -57,23 +57,6 @@ Nenurodyta
   teiginys: "Apie gegužės 20 d. Vytautas įsiveržė į Vilniaus srities Medininkus ir po aštuonių dienų grįžo su dideliu grobiu."
   pagrindžia:
     - c-35793
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Keliems mėnesiams praslinkus ir susirinkus į Rittersverderį
-    daug svečių, Vytautas vėl gavo magistro leidimą žygiuoti Lie­
-    tuvon. Jam tada talkininkavo Marquardas v. Salzbachas. Apie
-    gegužės m. 20 d. jis įsiveržė į Vilniaus srities Medininkus ir,
-    pabuvęs ten astuonias dienas, grįžo su dideliu grobiu^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

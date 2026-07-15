@@ -58,39 +58,13 @@ Nenurodyta
   teiginys: "Po nesėkmingo Naugarduko pilies puolimo Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei maisto atsargas."
   pagrindžia:
     - c-63669
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po nesėkmingo Naugarduko pilies puolimo Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei maisto atsargas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    sugriovė, o aplinkines žemes nuniokojo, degindamas ir plėšdamas visa, kas pakliuvo;
-    priešais minėtojo miesto pilį jis pastatė palapines ir ten pernakvojo, o kitą dieną jis bei
-    visa jo kariuomenė priėjo prie pilies ir ją smarkiai užpuolė, todėl abi šalys prarado keletą
-    karių nukautaisiais ir daug mirtinai sužeistaisiais. Nieko šiuo antpuoliu nepešę, pasitraukė;
-    kai priėjo vietą, kur buvo palikę saugas prie atsarginės žygio mantos, pamatė, kad
-    Gardino pilininkas Dovydas573 nužudęs 30 vyrų ir pagrobęs pusantro tūkstančio arklių,
-    duoną bei kitokį maistą ir visus kitus paliktus saugoti daiktus. Dar labiau susirūpino
-    broliai, kai, priėję antrąjį postovį, ir ten neberado nei duonos, nei kitų paliktų daiktų;
-    jie patraukė  į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo
-    arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
-    alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
-    išvykimo dienos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63669
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 210"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     sugriovė, o aplinkines žemes nuniokojo, degindamas ir plėšdamas visa, kas pakliuvo;
     priešais minėtojo miesto pilį jis pastatė palapines ir ten pernakvojo, o kitą dieną jis bei
@@ -100,7 +74,7 @@ Nenurodyta
     Gardino pilininkas Dovydas573 nužudęs 30 vyrų ir pagrobęs pusantro tūkstančio arklių,
     duoną bei kitokį maistą ir visus kitus paliktus saugoti daiktus. Dar labiau susirūpino
     broliai, kai, priėję antrąjį postovį, ir ten neberado nei duonos, nei kitų paliktų daiktų;
-    jie patraukė  į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo
+    jie patraukė į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo
     arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
     alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
     išvykimo dienos.

@@ -85,64 +85,8 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 - susijęs iš 1568 m. Gardino seimo privilegija Vilniaus miestiečiams: 1568 m. privilegija leido tokiems Vilniaus miestiečiams priimti bajorų herbus tik gavus bent vienos tą herbą turinčios šeimos sutikimą.
 - susijęs iš LLV ir Rusijos taikos sutartis (1793 m.): 1793 m. Gardino Seimas turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
 - susijęs iš Gardinas: 1568 m. birželio 15 d. Lietuvos seimas Gardine apsaugojo miestiečius nuo dvariškių, valdininkų ir pasiuntinių apgyvendinimo be miesto tarybos leidimo.
-- susijęs iš Vilnius: 1568 m. Gardino seimas suteikė privilegiją Vilniaus magistrato pareigūnams ir jų palikuonims būti pakeltiems į bajorų luomą.
 - susijęs iš [[objektai/zodynas/miesto magistrato pareigybės.md#claim-t-86486|miesto magistrato pareigybės]]: 1568 m. Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis tapti bajorais.
 - susijęs iš Gegužės 3 d. konstitucija (1791 m.): 1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Rusija sau tenkančias žemes tuo metu jau buvo užėmusi; Prū-
-    sija savąsias irgi tuojau okupavo. Tuomet, kaip ir 1772 m., iš
-    karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą;
-    su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
-    Tam tikslui Gardine buvo sušauktas seimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-001
-
-- c-002
-  santrauka: 'Gardino seime buvo atgaivinta Nuolatinė Taryba ir po pirmojo padalijimo veikusios karo bei iždo komisijos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip pirmą padalinimą patvirtinusiame seime, taip ir šitame
-    šeimininkavo Kotrynos ambasadorius, Ziversas. Buvo sudaryta
-    naujoji valstybės konstitucija, kuria buvo grąžinta santvarka,
-    buvusi po I padalinimo. Buvo atgaivinta Nuolatinė Taryba ir
-    tada veikusios karo ir iždo komisijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau Rusijai buvo patogiau, kad valstybės priešaky liktų ka-
-    ralius: mat, laikant jį savo įtakoj, lengviau prižiūrėti visą vals-
-    tybės politiką; palikus bajoriškąją demokratiją, tektų skaitytis
-    su daugybe ponų, o daugelį suvaldyti visada sunkiau. Todėl
-    Rusija norėjo sugrąžinti tokią tvarką, kokia buvo po I padali-
-    nimo. Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai
-    padaryti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-
 ## Citatos
 
 - id: c-46280
@@ -161,8 +105,8 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72077
     - t-72073
+    - t-72077
 
 - id: c-46281
   redaktorius: "A. Šapoka"

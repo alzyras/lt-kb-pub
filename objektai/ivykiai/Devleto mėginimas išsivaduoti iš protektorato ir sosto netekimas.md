@@ -57,23 +57,6 @@ Nenurodyta
   teiginys: "1422 m. Devletas pabandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko."
   pagrindžia:
     - c-35694
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kai 1422 met. Devletas pabandė iš
-    to protektorato išsivaduoti, neteko sosto ir vos gyvas pats
-    paspruko. 1426 met. iš Konstantinopolio jis rašė Vytautui at­
-    gailaudamas, kad „prie nesantaikos su kunigaikščiu jį prikal­
-    bėję tik blogi žmonės“^5 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

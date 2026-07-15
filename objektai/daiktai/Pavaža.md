@@ -54,8 +54,8 @@ Nenurodyta
   global_id: t-195350
   teiginys: "Senas vežimo pagrindas, naudotas dėdeliui vežti per kaimą."
   pagrindžia:
-    - c-177757
     - c-177756
+    - c-177757
 - susijęs iš [[objektai/daiktai/Tekinis.md#claim-t-195351|Tekinis]]: Prie pavažos pritvirtintas ratas, verčiantis įtaisą svyruoti ir suktis.
 - susijęs iš [[objektai/daiktai/Dėdelis.md#claim-t-195352|Dėdelis]]: Apeiginis sudėtas daiktas, vežiojamas per kaimą Pelenijos dieną.
 ## Reikšmingi paminėjimai

@@ -37,27 +37,6 @@ Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurta
     - c-44728
 - susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78164|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
 - susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78165|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Radijo stotys gautos iš Dariaus ir Girėno
-    skraidymo klubo. Nešiojamosios radijo
-    stotelės perimtos iš buvusios DOSAAF
-    (jomis buvo sukurtas ryšio tinklas tarp
-    lauko postų), R-105 ir R-107 karinės radijo
-    stotys gautos iš kol kas nežinomų šaltinių
-    ir panaudotos radijo žvalgybai (sovietų
-    ryšio pasiklausymui).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44728

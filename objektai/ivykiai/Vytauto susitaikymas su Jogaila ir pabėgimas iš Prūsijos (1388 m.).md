@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Išjojęs iš Marienburgo, Vytautas pasiėmė žmoną su turtais ir skubiai paspruko link Žemaitijos, o iš ten pasuko į Palenkę.
+Išjojęs iš Marienburgo, Vytautas pasiėmė žmoną su turtais ir skubiai paspruko link Žemaitijos, o iš ten pasuko į Palenkę. Kojelavičiaus pasakojime Jogaila, baimindamasis, kad Lietuva ir Rusia pripažins Vytauto valdžią, skubėjo stabdyti karo veiksmus. Kojelavičius vaizduoja Ordino magistrą sutikusį su Vytauto siūlymu, kad naujos Lietuvos skriaudos apsunkintų Vytauto suartėjimą su Jogaila.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -54,37 +54,20 @@ Nenurodyta
   teiginys: "Išjojęs iš Marienburgo, Vytautas pasiėmė žmoną su turtais ir skubiai paspruko link Žemaitijos, o iš ten pasuko į Palenkę."
   pagrindžia:
     - c-169024
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Išjojęs iš Marienburgo, Vytautas pasiėmė žmoną su turtais ir skubiai paspruko link Žemaitijos, o iš ten pasuko į Palenkę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vytautas įsakė sa­
-    vo kariams parengti ginklus, pasiimti maisto daugeliui
-    dienų ir gerai pasiruošti skubiam žygiui: pats taip vis­
-    ką tvarkė, kad jo žmonės neapsikrautų per daug nešu­
-    liais ir kad kryžiuočiams nekiltų įtarimas, jog jie bėga.
-    Išjojęs iš Marienburgo visai kitu keliu, ne tuo, kuris
-    vedė į dvarą, netrukus pasuko ir iš dvaro pasiėmė žmo­
-    ną, kuri, kaip ir buvo sutarta, susiruošusi jo laukė su
-    turtais, ir skubiai paspruko link Žemaitijos, o iš ten,
-    pasukęs Prūsijos pasieniu į Palenkę, kurią gynė jo įgu­
-    los, Jurbarke, Noigardene, Marienburge, sutinkamas
-    tarsi draugas, išžudė vokiečių eilinius karius, apiplėšė
-    ir sudegino pilis, išsivedė įgulų viršininkus. Patekęs į
-    Gardiną, savo valdą, parašė Jogailai laišką ir skubiai
-
-    ## Puslapis 308
-
-    jį išsiuntė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196274"></a>
+- t-002
+  global_id: t-196274
+  teiginys: "Kojelavičiaus pasakojime Jogaila, baimindamasis, kad Lietuva ir Rusia pripažins Vytauto valdžią, skubėjo stabdyti karo veiksmus."
   pagrindžia:
-    - t-001
+    - c-178608
+
+<a id="claim-t-196275"></a>
+- t-003
+  global_id: t-196275
+  teiginys: "Kojelavičius vaizduoja Ordino magistrą sutikusį su Vytauto siūlymu, kad naujos Lietuvos skriaudos apsunkintų Vytauto suartėjimą su Jogaila."
+  pagrindžia:
+    - c-169024
 
 ## Citatos
 
@@ -93,7 +76,18 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vytautas įsakė sa­
+    Pats po
+    kelių dienų aplankė ordino magistrą (aplankė slapta,
+    tuo tarsi rodydamas, koks svarbus jo sumanymas) ir
+    pasisakė sugalvojęs būdą, kaip galima įveikti Lietuvą;
+    laimėti esą įmanoma greitumu ir slaptumu, todėl pra­
+    šo, kad visą reikalą patikėtų jam bei jo kariams, pratu-
+    siems prie lengvų ir judrių žygių, nes tam jie labiausiai
+    tinką. Magistras lengvai sutiko su tuo siūlymu, jis ir
+    pats trokšte troško naujomis Lietuvos skriaudomis ai­
+    trinti senąsias žaizdas, tada Vytautui būtų sunkiau su­
+    artėti su karaliumi Jogaila, jis būtų priverstas stipriau
+    laikytis draugystės su kryžiuočiais. Vytautas įsakė sa­
     vo kariams parengti ginklus, pasiimti maisto daugeliui
     dienų ir gerai pasiruošti skubiam žygiui: pats taip vis­
     ką tvarkė, kad jo žmonės neapsikrautų per daug nešu­
@@ -105,15 +99,40 @@ Nenurodyta
     pasukęs Prūsijos pasieniu į Palenkę, kurią gynė jo įgu­
     los, Jurbarke, Noigardene, Marienburge, sutinkamas
     tarsi draugas, išžudė vokiečių eilinius karius, apiplėšė
-    ir sudegino pilis, išsivedė įgulų viršininkus. Patekęs į
-    Gardiną, savo valdą, parašė Jogailai laišką ir skubiai
-
-    ## Puslapis 308
-
-    jį išsiuntė.
+    ir sudegino pilis, išsivedė įgulų viršininkus.
+  citata_rodoma: "Magistras lengvai sutiko su tuo siūlymu, jis ir \npats trokšte troško naujomis Lietuvos skriaudomis ai­\ntrinti senąsias žaizdas, tada Vytautui būtų sunkiau su­\nartėti su karaliumi Jogaila, jis būtų priverstas stipriau \nlaikytis draugystės su kryžiuočiais. Vytautas įsakė sa­\nvo kariams parengti ginklus, pasiimti maisto daugeliui \ndienų ir gerai pasiruošti skubiam žygiui: pats taip vis­\nką tvarkė, kad jo žmonės neapsikrautų per daug nešu­\nliais ir kad kryžiuočiams nekiltų įtarimas, jog jie bėga. \nIšjojęs iš Marienburgo visai kitu keliu, ne tuo, kuris \nvedė į dvarą, netrukus pasuko ir iš dvaro pasiėmė žmo­\nną, kuri, kaip ir buvo sutarta, susiruošusi jo laukė su \nturtais, ir skubiai paspruko link Žemaitijos, o iš ten, \npasukęs Prūsijos pasieniu į Palenkę, kurią gynė jo įgu­\nlos, Jurbarke, Noigardene, Marienburge, sutinkamas \ntarsi draugas, išžudė vokiečių eilinius karius, apiplėšė \nir sudegino pilis, išsivedė įgulų viršininkus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185663
+    - t-196275
+
+- id: c-178608
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Visa ši pa­
+    dėtis Jogailai buvo labai aiški, vis dėlto, būgštaudamas,
+    kad Lietuva ir Rusia, išvargintos atgrasaus karo, ne­
+    pripažintų Vytauto valdžios, kuris, ne tik viešai gink-
+    luodamasis, bet ir visokiomis slaptomis gudrybėmis
+    patyliukais stiprino savo padėtį, suskato kuo greičiau­
+    siai bet kokiomis sąlygomis sustabdyti karo veiksmus.
+    Tad, trumpu laišku paraginęs Vytautą perdaug sku­
+    biais neapgalvotais įgeidžiais, darančiais žalos tėvynei,
+    nekurstyti priešų godulio, be to, sužadinęs viltį, jog
+    jam atiteksianti valdžia, atsakė: taika ne tik Lietuvai
+    būtina, ji ir Vytautui suteiksianti garbės, jos ir jis pats
+    labiausiai turįs trokšti.
+    Kas valdžios tyko, tam lengva sužadinti viltį, tas
+    greitai patiki pažadais, ypač kai pažadai atitinka jo troš­
+    kimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196274

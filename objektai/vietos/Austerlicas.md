@@ -9,12 +9,12 @@ datos:
   - '1809 m.'
 date_start: '1807'
 date_end: '1809'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,7 +51,6 @@ Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės 
 - susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.).md#claim-t-187806|T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.)]]: T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
 - susijęs iš Peterburgas: 1906 m. Peterburge rimtai nesvarstyta rezoliucija dėl politinės autonomijos suteikimo Lietuvai.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -72,12 +71,18 @@ Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės 
 - id: c-171867
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
-    vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­
-    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
+    Tuo me­
+    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
+    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
+    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
+    kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
+    mitologiją.
+  citata_rodoma: "Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­\nvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

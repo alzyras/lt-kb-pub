@@ -60,52 +60,13 @@ Nenurodyta
   teiginys: "Pamokslininkų ordino brolis Heidenreichas antrosios prūsų atskalūnybės metais buvo Kulmo vyskupas."
   pagrindžia:
     - c-87554
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pamokslininkų ordino brolis Heidenreichas antrosios prūsų atskalūnybės metais buvo Kulmo vyskupas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie
-                                  brolį Heidenreichą, Kulmo vyskupą
-
-      Pamokslininkų  ordino  brolis Heidenreichas  antrosios atskalūnybės metais buvo
-    Kulmo vyskupas432. Apie  jį sklido neabejotinų žinių, kad švenčiausioji mergelė Marija
-    pasirodžiusi vienam pavargėliui ir jam įdavusi laišką nunešti šiam vyskupui; perskaitęs
-    laišką, vyskupas rado jame aprašytą visą savo gyvenimą, be to, ten buvę pridurta, kad
-
-      430  Pirmoji Ordino Starkenbergo pilis, statyta 1263 (1256— 1272) m, buvo prie
-    Osos, deš. upės krante, tarp dab. Lasino ir Osos, kur į pietus nuo gyvenvietės Sčepankai
-    (Szczepanki)  išliko ovalus  piliakalnis. Kai prūsai šią  pilį sunaikino, 1326 m. buvo
-    pastatyta antroji Štarkenbergo pilis kair. Osos krante, tarp upės ir Meino ežero, kur išliko
-    keturkampis piliakalnis. Dab. Slupas (Ewald A. L., Die Eroberung.., 4, 49—51; SZCh, p.
-    119).
-      431 D.— Spittenbergk, Jer.— Spittinberc. Šios mažos kryžiuočių pilies ieškota Osos
-    žemupio deš. krante (Voigt J., Geschichte.., 3, p. 293; VBK); pažymima, kad tikslesnė
-    pilies vieta Pamedėje nenustatoma (Ewald A. L., Die Eroberung.., 4, p. 51).
-      Norime atkreipti dėmesį į kalvą Spittels (Sch-K, X; Boetticher A., Die Bau-.., 3, p. 42;
-    dėl vardo plg. Spitteynen, Spitten, lie. spitė — GAO, p. 170) kair. Veisikos krante, kiek į
-    rytus nuo dab. Paslenko (Pasłęk). Sis kraštas XIII a. viduryje įėjo į Pamedės vyskupiją
-    (PUB, 1, 1, Nr. 233).
-      432 D.— Hedenricus, Jer.— Heidinrîch; dominikonas iš Leipcigo, Kulmo vyskupu buvęs
-    1246—1263 m. (AB, 1, p. 258).
-
-    Prūsijos žemėje krikščionims teksią dar daug patirti vargo bei kančių nuo prūsų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-87554
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 140-141"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140-141."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie
                                   brolį Heidenreichą, Kulmo vyskupą

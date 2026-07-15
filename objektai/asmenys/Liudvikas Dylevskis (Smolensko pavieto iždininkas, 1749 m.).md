@@ -7,14 +7,14 @@ datos:
   - '1749 m.'
 date_start: '1749'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,11 +37,18 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200481"></a>
-- t-001
+- t-002
   global_id: t-200481
   teiginys: "Domininkas Burba nurodo, kad 1749 m. Smolensko pavieto seimelyje iždininku minėtas Liudvikas Dylevskis arba Juozapas Anupras Kulieša."
   pagrindžia:
     - c-183851
+
+<a id="claim-t-200481"></a>
+- t-001
+  global_id: t-200481
+  teiginys: '1749 m. Smolensko pavieto seimelyje iždininku minėtas Liudvikas Dylevskis arba Juozapas Anupras Kulieša.'
+  pagrindžia:
+    - c-001
 - susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200650|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, žemės raštininku Karolis Piotrovskis.
 - susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200652|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, o žemės raštininku Karolis Piotrovskis.
 - susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200650|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, žemės raštininku Karolis Piotrovskis.

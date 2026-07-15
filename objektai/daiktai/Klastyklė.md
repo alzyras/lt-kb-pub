@@ -53,8 +53,9 @@ Nenurodyta
   teiginys: "Atskiras javų valymo įrankis, aprašytas per medžiagą ir veikimą."
   pagrindžia:
     - c-177716
-    - c-177718
     - c-177717
+    - c-177718
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

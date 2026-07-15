@@ -51,15 +51,9 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
   teiginys: "Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba."
   pagrindžia:
     - c-69854
-
-<a id="claim-t-26964"></a>
-- t-002
-  global_id: t-26964
-  teiginys: "Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba."
-  pagrindžia:
     - c-166822
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -76,44 +70,6 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai kartu paaiškina ir Vilniaus Gaono autoritetą.
-    Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
-    ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studi-
-    jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:
-    nuo Šventojo Rašto komentarų iki hebrajų kalbos gramatikos ir biblinės
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
-    ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studi-
-    jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:
-    nuo Šventojo Rašto komentarų iki hebrajų kalbos gramatikos ir biblinės
-
-    L I E T U V O S  I S T O R I J A
-    84
-    geografijos. Didžiausias Gaono nuopelnas – Babilono Talmudo redagavi-
-    mas ir komentavimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-69854
@@ -152,5 +108,3 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-26964

@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 141
+tema_objektu_skaicius: 147
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 141.
+Objektų skaičius: 147.
 
 ## Kaip naudoti
 
@@ -169,3 +169,19 @@ Objektų skaičius: 141.
 - [Potkowski E](../objektai/autoriai/Potkowski%20E)
 - [Ročka M](../objektai/autoriai/Ro%C4%8Dka%20M)
 - [Rygos arkivyskupas Fridrichas](../objektai/autoriai/Rygos%20arkivyskupas%20Fridrichas)
+
+### Daiktai
+- [Šventojo kryžiaus relikvija](../objektai/daiktai/%C5%A0ventojo%20kry%C5%BEiaus%20relikvija)
+
+### Papročiai
+- [Prūsų degintinės laidotuvės su įkapėmis ir palydimaisiais](../objektai/paprociai/Pr%C5%ABs%C5%B3%20degintin%C4%97s%20laidotuv%C4%97s%20su%20%C4%AFkap%C4%97mis%20ir%20palydimaisiais)
+
+### Posakiai
+- [Išmintis pasistatė sau namus, ji išsikirto septynis šulus](../objektai/posakiai/I%C5%A1mintis%20pasistat%C4%97%20sau%20namus%2C%20ji%20i%C5%A1sikirto%20septynis%20%C5%A1ulus)
+
+### Įvykiai
+- [Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas](../objektai/ivykiai/Lubavos%20ir%20Lanzanijos%20nobil%C5%B3%20Kristijono%20vald%C5%BEios%20pripa%C5%BEinimo%20patvirtinimas)
+- [Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.)](../objektai/ivykiai/Vokie%C4%8Di%C5%B3%20ordino%20prad%C5%BEios%20datavimas%20nuo%20Akono%20apgulties%20iki%20ilgesnio%20susiformavimo%20proceso%20%281190-1198%20m.%29)
+
+### Šaltiniai
+- [1216 m. vasario 18 d. popiežiaus patvirtinti Lubavos ir Lanzanijos užrašymai](../objektai/saltiniai/1216%20m.%20vasario%2018%20d.%20popie%C5%BEiaus%20patvirtinti%20Lubavos%20ir%20Lanzanijos%20u%C5%BEra%C5%A1ymai)

@@ -56,36 +56,13 @@ Nenurodyta
   teiginys: "Rusijos valdžiai sekvestravus Šaurų dvarą, jo muziejaus eksponatai, knygos ir archyvai buvo suvežti į vieną Vilniaus bažnyčią."
   pagrindžia:
     - c-172588
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rusijos valdžiai sekvestravus Šaurų dvarą, jo muziejaus eksponatai, knygos ir archyvai buvo suvežti į vieną Vilniaus bažnyčią.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­
-    ti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­
-    ciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­
-    rėjas 1864 m. lapkričio 26 d. mirė Vilniuje. Rusijos valdžia
-    Saurų dvarą sekvestravo. Knygas, archyvus, muziejaus ekspo­
-    natus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­
-    ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
-    ir rankraščius išgabenti. Taip nyko dešimtmečius kaupta bib­
-    lioteka, istorijos dokumentų archyvas, nespausdinti darbai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172588
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 13"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­
     ti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­

@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 76
+tema_objektu_skaicius: 79
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 76.
+Objektų skaičius: 79.
 
 ## Kaip naudoti
 
@@ -56,6 +56,7 @@ Objektų skaičius: 76.
 - [Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)](../objektai/paprociai/Lietuvos%20kariuomen%C4%97s%20i%C5%A1vedimas%20u%C5%BE%20sienos%20tik%20seimo%20%C4%AFsakymu)
 - [Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)](../objektai/paprociai/Lotyni%C5%A1ko%20krik%C5%A1to%20privalomumas%20ir%20mi%C5%A1ri%C5%B3%20moterysti%C5%B3%20draudimas)
 - [Naujai krikštytų lietuvių bajorų privilegijavimas](../objektai/paprociai/Naujai%20krik%C5%A1tyt%C5%B3%20lietuvi%C5%B3%20bajor%C5%B3%20privilegijavimas)
+- [Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme](../objektai/paprociai/Nesumok%C4%97t%C5%B3%20skol%C5%B3%20byl%C5%B3%20k%C4%97limas%20Vilniaus%20pilies%20teisme)
 - [Pavietų ir vaivadijų bajorų seimeliai](../objektai/paprociai/Paviet%C5%B3%20ir%20vaivadij%C5%B3%20bajor%C5%B3%20seimeliai)
 - [Piemenų samdymo ir apmokėjimo tvarka](../objektai/paprociai/Piemen%C5%B3%20samdymo%20ir%20apmok%C4%97jimo%20tvarka)
 - [Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika](../objektai/paprociai/Politin%C4%97s%20manifestacijos%20kaip%20spaudimo%20vald%C5%BEiai%20ir%20teismui%20praktika)
@@ -69,6 +70,7 @@ Objektų skaičius: 76.
 - [Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu](../objektai/paprociai/Seimo%20ceremonialas%20su%20rugomis%20ir%20karaliaus%20rankos%20bu%C4%8Diavimu)
 - [Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)](../objektai/paprociai/Sutarties%20ir%20vasaliteto%20tvirtinimas%20ra%C5%A1tu%20bei%20antspaudais)
 - [Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas](../objektai/paprociai/S%C5%ABduvos%20pasidalijimo%20sutartys%20ir%20s%C4%85jung%C5%B3%20stiprinimas)
+- [Teisminių reikalų tvarkymas per advokatus ir regentus](../objektai/paprociai/Teismini%C5%B3%20reikal%C5%B3%20tvarkymas%20per%20advokatus%20ir%20regentus)
 - [Terminų skaičiavimas įkirtimais ir mazgais](../objektai/paprociai/Termin%C5%B3%20skai%C4%8Diavimas%20%C4%AFkirtimais%20ir%20mazgais)
 - [Testamento vykdytojų pareiga padalyti turtą pagal testatoriaus valią](../objektai/paprociai/Testamento%20vykdytoj%C5%B3%20pareiga%20padalyti%20turt%C4%85%20pagal%20testatoriaus%20vali%C4%85)
 - [Valdų dovanojimas už riteriškus nuopelnus ir bajoriškos karinės tarnybos prievolė](../objektai/paprociai/Vald%C5%B3%20dovanojimas%20u%C5%BE%20riteri%C5%A1kus%20nuopelnus%20ir%20bajori%C5%A1kos%20karin%C4%97s%20tarnybos%20prievol%C4%97)
@@ -102,3 +104,6 @@ Objektų skaičius: 76.
 - [Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka](../objektai/paprociai/%C5%BDyd%C5%B3%20savivaldos%2C%20teismo%20ir%20priesaikos%20prie%20mokyklos%20tvarka)
 - [Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka](../objektai/paprociai/%C5%BDyd%C5%B3%20u%C5%BEstat%C5%B3%20laikymo%2C%20rodymo%2C%20pardavimo%20ir%20%C5%A1ven%C4%8Di%C5%B3%20netrukdymo%20tvarka)
 - [„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams (sukilimas)](../objektai/paprociai/%E2%80%9ERaudon%C5%B3j%C5%B3%E2%80%9C%20daugiakalb%C4%97%20sukilimo%20propaganda%20valstie%C4%8Diams)
+
+### Posakiai
+- [Pergalės būdas tikriausias — kantrybė](../objektai/posakiai/Pergal%C4%97s%20b%C5%ABdas%20tikriausias%20%E2%80%94%20kantryb%C4%97)

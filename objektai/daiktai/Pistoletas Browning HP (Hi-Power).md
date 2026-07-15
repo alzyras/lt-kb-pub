@@ -70,52 +70,6 @@ Nenurodyta
   teiginys: "Pistoletas Browning HP buvo priimtas į ikikarinės Lietuvos kariuomenės ginkluotę."
   pagrindžia:
     - c-176409
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Belgiškas pistoletas
-    Browning HP (Hi-Power).
-    Šovinys - 9x19 mm Parabel-
-    lum, dėtuvė - 13 šovinių, svoris — iki
-    1kg (priklausomai nuo modifikacijos).
-    Sukurtas amerikiečių konstruktoriaus
-    Džono Brauningo, po jo mirties išbaigtas
-    Belgijoje. Pradėtas gaminti 1935 m. Šis ginklas
-    buvo labai sėkmingas ir ilgą laiką naudotas
-    daugelyje pasaulio šalių ginkluotose pajėgose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Pistoletas Browning HP buvo priimtas į ikikarinės Lietuvos kariuomenės ginkluotę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šis ginklas
-    buvo labai sėkmingas ir ilgą laiką naudotas
-    daugelyje pasaulio šalių ginkluotose pajėgose.
-    Pistoletas Browning HP buvo priimtas į ikikarinės
-    Lietuvos kariuomenės ginkluotę. Taip pat naudotas ir
-    Lietuvos partizanų
-
-    223
-
-    ## Puslapis 226
-
-    1945-1951 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

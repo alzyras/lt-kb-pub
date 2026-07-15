@@ -35,8 +35,8 @@ Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vak
   teiginys: "Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vakarų lietuvių kraštus puldinėjusią grėsmę."
   pagrindžia:
     - c-172395
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vakarų lietuvių kraštus puldinėjusią grėsmę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -62,23 +62,22 @@ Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vak
 - id: c-172395
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 212"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 212."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pasak mūsų šiaurės is­
-    torijos, Lietuvos kraštai senovės laikais kentėjo nuo panašių
-    dangaus rykščių. Tarp kitų, mažiau įsimintinų, pasirodė žmo­
-    gėdrų (androfagų) tauta, kuri iš šiaurės ir vakarų * užpuldavo
-    lietuvių kraštus. Kiekvienas tos laukinės tautos žingsnis reiškė
-    naikinimą: jie imdavo žmones į nelaisvę ir, nusivarę prie šiau­
-    rės ežero, suėsdavo, o iš jų kaulų sukraudavo milžiniškas pira­
-    mides savo dievų garbei.
+    Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
+    tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o
+    vaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­
+    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
+    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
+    jo žudikai kunigaikščiai - Užgirio (Transilvaticus) Dauman­
+    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
+    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
+    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
+    niota.
+  citata_rodoma: "Pasak mūsų šiaurės is­\ntorijos, Lietuvos kraštai senovės laikais kentėjo nuo panašių\ndangaus rykščių. Tarp kitų, mažiau įsimintinų, pasirodė žmo­\ngėdrų (androfagų) tauta, kuri iš šiaurės ir vakarų * užpuldavo\nlietuvių kraštus. Kiekvienas tos laukinės tautos žingsnis reiškė\nnaikinimą: jie imdavo žmones į nelaisvę ir, nusivarę prie šiau­\nrės ežero, suėsdavo, o iš jų kaulų sukraudavo milžiniškas pira­\nmides savo dievų garbei."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189507
-
-## Ryšiai
-- Žmogėdros (androfagai) puolė [[objektai/vietos/Lietuva]]

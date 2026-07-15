@@ -34,23 +34,6 @@ Jakšto lenkiškai parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur 
   teiginys: "„Lietuvių Balse“ buvo išdėstytos sąlygos, kuriomis būtų galimas bendradarbiavimas Lietuvos atgaivinimo darbe."
   pagrindžia:
     - c-02448
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **„Lietuvių Balse"** **_(„Glos Litwinöw")_** buvo išdėstyta, kokiomis
-    sąlygomis būtų galimas bendradarbiavimas. Pirmiausia čia pa-
-    sakoma, kad lietuvių tautiškojo sąjūdžio idealas esąs savos kultū-
-    ros kėlimas. Lietuva turinti būti lietuviams, o ne
-    Lietuva Lenkijai, kaip to norį nutautę mūsų bajorai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

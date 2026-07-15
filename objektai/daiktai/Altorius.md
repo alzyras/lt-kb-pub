@@ -70,13 +70,16 @@ Nenurodyta
 - susijęs iš Vilniaus katedra: Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.
 - susijęs iš Vilniaus katedra: Pasak Narbuto perteikiamo Strijkovskio, Vilniaus katedroje po didžiuoju altoriumi buvo koplyčia, kur laikytos gyvatės.
 - susijęs iš Vilniaus katedros bažnyčia ir Šventojo Kryžiaus altorius: Šventojo Kryžiaus altorius buvo Vilniaus katedros bažnyčioje ties šventovės viduriu.
+- susijęs iš Šv. Petro ir Povilo bažnyčia: Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar tęsėsi dvejus metus, bet didysis altorius nebuvo užbaigtas.
 - susijęs iš [[objektai/asmenys/Andrius Vosylius Jastrzębiecas.md#claim-t-35029|Andrius Vosylius Jastrzębiecas]]: Andrius Vosylius Jastrzębiecas buvo paskirtas Vilniaus vyskupu ir nuo Lietuvos krikšto pradžios vadovavo apaštalavimo darbui.
 - susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186106|Dimitrijus]]: Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas.
 - susijęs iš [[objektai/asmenys/Heidenrichas.md#claim-t-60302|Heidenrichas (kunigas)]]: Brolis Heidenrichas, tos pačios pilies kunigas, matė ir viešai skelbė pasakojimą apie medinio nukryžiuotojo palaiminimą.
+- susijęs iš [[objektai/asmenys/Lionardo da Vinci.md#claim-t-200860|Lionardo da Vinci]]: Vorobjovo aiškinimu, Lionardo da Vinci moterų paveikslų šypsena paliko pėdsaką vėlesnių Milano dailininkų atmintyje.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114011|Valerijonas Protasevičius (vyskupas)]]: 1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176647|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudijo, kad jis jau buvo krikščionis.
 - susijęs iš [[objektai/asmenys/Šv. Stanislovas.md#claim-t-64437|Šv. Stanislovas]]: Jogailos pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.
 - susijęs iš [[objektai/daiktai/Medinis nukryžiuotasis.md#claim-t-59694|Medinis nukryžiuotasis]]: Pasak Petro Dusburgiečio, medinis nukryžiuotasis koplyčioje ištiesė rankas ir palaimino besimeldžiantįjį kryžiaus ženklu.
+- susijęs iš [[objektai/daiktai/Šv. Petro laivės pavidalo sakykla.md#claim-t-200848|Šv. Petro laivės pavidalo sakykla]]: Praeitojo šimtmečio pradžioje iš Milano pakviesti du skulptoriai pastatė burinės šv. Petro laivės pavidalo sakyklą.
 - susijęs iš [[objektai/grupes/Jogailaičių dinastija.md#claim-t-182856|Jogailaičių dinastija]]: Jogailaičių epocha Lenkijos istorijoje laikoma šviesiausiąja.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
 - susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-93041|Lietuvos krikšto apeigos]]: 1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.
@@ -89,41 +92,15 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/margutis.md#claim-t-185407|margutis]]: Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą.
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-184630|metropolitas]]: Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė.
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-185415|viečė]]: Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis taikos sąlygų su Algirdu.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Markburge priimami riteriai prieš įvilktuves kniūpsti puolė prieš altorių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Išgirdęs
-    šiuos žodžius, landgrafas taip nudžiugo, kad, puolęs iš džiaugsmo jam  į glėbį, atleido
-    nusikaltimą. Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su
-    daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,
-    kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš
-    altorių, o kunigas, ilgai meldęsis, garsiai užgiedojo: „Aleliuja, ateik šventoji dvasia“,
-    nusileido ant jų kūniškai apčiuopiama šventoji dvasia nelyginant ugnies liepsnelė ir juo
-    labiau kuris iš jų degė dievo meile, tuo didesnė ši liepsnelė rodėsi ten stovintiesiems.
-    Šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis
-    ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas
-    buvo susitepęs paleistuvystės nuodėme.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60309
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 231"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Išgirdęs
-    šiuos žodžius, landgrafas taip nudžiugo, kad, puolęs iš džiaugsmo jam  į glėbį, atleido
+    šiuos žodžius, landgrafas taip nudžiugo, kad, puolęs iš džiaugsmo jam į glėbį, atleido
     nusikaltimą. Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su
     daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,
     kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš

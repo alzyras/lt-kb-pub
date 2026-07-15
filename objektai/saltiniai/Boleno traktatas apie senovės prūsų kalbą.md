@@ -34,34 +34,13 @@ Narbuto išnašoje Boleno traktatas apie senovės prūsų kalbą nurodytas per V
   teiginys: "Narbuto išnašoje Boleno traktatas apie senovės prūsų kalbą nurodytas per Voigto „Geschichte Preussens“ pirmą tomą."
   pagrindžia:
     - c-174711
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbuto išnašoje Boleno traktatas apie senovės prūsų kalbą nurodytas per Voigto „Geschichte Preussens“ pirmą tomą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    2 Profesoriaus Boleno traktatas apie senovės prūsų kalbą (Voigt,
-    Gesch.
-    Preuss.
-    B.
-    I.
-    S.
-    721).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174711
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 146"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     2 Profesoriaus Boleno traktatas apie senovės prūsų kalbą (Voigt,
     Gesch.

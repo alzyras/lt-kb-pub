@@ -52,28 +52,6 @@ Nenurodyta
   teiginys: "Iki XIII a. pradžios Voluinės kunigaikščiai, kariaudami su jotvingais, buvo užėmę Gardiną."
   pagrindžia:
     - c-67058
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Iki XIII a. pradžios Voluinės kunigaikščiai, kariaudami su jotvingais, buvo užėmę Gardiną.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po ilgų kovų, XIII amž. pra-
-    džioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė
-    sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-
-    riavęs didelius aisčių plotus, sukūrė ten savo valstybę.
-    Voluinės kunigaikščiams geriau sekėsi kariauti su jotvin-
-    gais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną.
-    Nukariautose žemėse tada buvo įkurti Naugardukas, Slanimas ir
-    atstatyta, jotvingų buvusi, Gardino pilis (senasis Gardinas, tur
-    būt, bus turėjęs kitą vardą).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -9,13 +9,13 @@ datos:
   - '1364 m.'
 date_start: '1329'
 date_end: '1364'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,29 +57,8 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
   teiginys: "Pagal 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino, Fridburgo ir Bajerburgo pilys buvo sunaikintos."
   pagrindžia:
     - c-171378
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    XIV am­
-    žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-
-    burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
-    lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
-    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
-    kiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17
-    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
-    buvo sunaikintos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 - c-002
   santrauka: 'Pagal 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino, Fridburgo ir Bajerburgo pilys buvo sunaikintos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -103,12 +82,11 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
 - id: c-170963
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     XIV am­
     žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-
+    jos paimti, pasistatė priešais ją dvi pilis - Fridburgą ir Bajer-
     burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
     lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
     Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
@@ -127,15 +105,20 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
 - id: c-171378
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    1329 metais Lietuvos didysis kunigaikštis
-    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
-    kiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17
-    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
-    buvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino
-    Veliuoną ir sugriovė pilį.
+    Kitus dalykus apie ją išdėsty-
+    sime straipsniuose „Vėlinės“, „Laidotuvių papročiai“, „Kapai,“
+    „Mirusiųjų garbinimas“.
+    Pergrubė (Pergrubie)
+    Pavasario, gėlių, daržų, žmogaus pastangomis gausinamų
+    žemės vaisių deivė.
+    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
+    gėlių ir vaismedžių sodas.
+    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
+    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
+    grubę.
+  citata_rodoma: "1329 metais Lietuvos didysis kunigaikštis\nGediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­\nkiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17\ndienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys\nbuvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino\nVeliuoną ir sugriovė pilį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

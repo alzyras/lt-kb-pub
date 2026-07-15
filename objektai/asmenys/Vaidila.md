@@ -36,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­ ras Vaidila. Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­ tutis, kaip to karo kurstytoją, įsakė pakarti. Ati­ teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
+Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajoras Vaidila patarimais rėmė Jogailos siekius ir savo įtaka juos skatino. Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju.
 
 ## Teiginiai
 
@@ -61,10 +61,17 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
   pagrindžia:
     - c-83442
 
+<a id="claim-t-196874"></a>
+- t-005
+  global_id: t-196874
+  teiginys: "Vaidila jau buvo iš Drohičino atvykęs į Gardiną."
+  pagrindžia:
+    - c-178954
+
 <a id="claim-t-194000"></a>
 - t-004
   global_id: t-194000
-  teiginys: "Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa davinėti jam geriamą vandenį, o ilgainiui didysis kuni gaikštis jį net labai pamėgo ir davė."
+  teiginys: 'Lietuvos metraščio pasakojime Vaidila iš Algirdo tarno ir kepėjo buvo iškeltas valdyti Lydą, o Jogaila jį sutuokė su seserimi Marija.'
   pagrindžia:
     - c-176625
 - susijęs iš Dubrovno pavietas: Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
@@ -72,7 +79,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179311|Lietuviai]]: Palei Vilnią gyvenę lietuviai ir Perkūną garbinę vaidilos citatoje laikomi būsimo Vilniaus užuomazga iki Gedimino.
 - susijęs iš [[objektai/grupes/Vaidilos.md#claim-t-189442|Vaidilos]]: Narbutas abejojo pasakojimu, kad vaidila galėjęs pagalve uždusinti ligonį, jei būrimai rodė neišvengiamą mirtį.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172842|Vilniaus miestiečių luomas]]: Iki Gedimino Vilniaus būsimo miesto užuomazgą sudarė palei Vilnią gyvenę lietuviai, vaidilos ir jų svitos žmonės.
-- susijęs iš [[objektai/ivykiai/Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį.md#claim-t-185772|Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį]]: Slaptoje sąmokslo sutartyje buvo numatyta nužudyti Kęstutį ir jo palikuonis, o Vaidilai atlyginti nugalėtų priešų valdomis.
+- susijęs iš [[objektai/ivykiai/Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį.md#claim-t-185772|Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį]]: Kojelavičius slaptą susitarimą vaizduoja kaip planą nužudyti Kęstutį bei jo palikuonis ir Vaidilai atlyginti nugalėtų priešų valdomis.
 - susijęs iš [[objektai/paprociai/Išpažintis per aukojimo apeigas.md#claim-t-189804|Išpažintis per aukojimo apeigas]]: Grunau pasakojimu, per ožio aukojimą vyrai klaupėsi prieš vaidilą, išpažindavo nuodėmes ir gaudavo fizinę atgailą.
 - susijęs iš [[objektai/paprociai/Permaldavimo aukos Pokliui ir kraujo atnašavimas.md#claim-t-189774|Permaldavimo aukos Pokliui ir kraujo atnašavimas]]: Narbutas rašė, kad vėliau kruviną permaldavimo auką pakeitė vaidilos kraujo atnašavimas ir gyvulio galvos padėjimas prie Pokliaus stabo.
 - susijęs iš Dubrovno pavietas: Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
@@ -100,92 +107,13 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
 - susijęs iš Prūsija: Vaidila 1380 m. nuvyko į Prūsiją ir paruošė Jogailai dirvą slaptam sandėriui su arkikomtūru.
 - susijęs iš Rūdninkų vartai: Vladislovas Jogaila skyrė katedrai ir vyskupams Vilniaus plotą iki Šv. Mikalojaus kapinių netoli Rūdninkų vartų.
 - susijęs iš Verkiai: Verkių kaimai prie Vilniaus buvo įtraukti į valdas, kuriomis iškilmingu dovanojimo aktu aprūpinta Vilniaus katedra.
-- susijęs iš Vilnius: Vladislovas Jogaila skyrė Vilniaus katedrai ir vyskupams miesto plotą nuo pilies iki Šv. Mikalojaus kapinių.
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86454|Arkikomtūras]]: Vaidila 1380 m. Prūsijoje paruošė dirvą Jogailos slaptam sandėriui su arkikomtūru.
 - susijęs iš [[objektai/zodynas/Išpažintis.md#claim-t-189298|Išpažintis]]: Narbutas, remdamasis Strijkovskiu ir Grunau, išpažintį priskiria lietuvių atnašavimo apeigoms.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113662|pavietas]]: Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.
 - susijęs iš [[objektai/zodynas/vergas.md#claim-t-187553|vergas]]: Lietuvos metraštis Vaidilą vadina didžiojo kunigaikščio Algirdo tarnu ir vergu, kuris iš kepėjo iškilo iki Lydos valdytojo.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bajoras Vaidila patarimais rėmė Jogailos siekius ir savo įtaka juos skatino.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jogailos siekius pata­
-    rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­
-    ras Vaidila. Tai buvo žmogus, kurį dar Algirdas dėl didelių
-    gabumų iš kepėjo sūnaus iki rūmų pataurininkio iškėlė. O
-    Jogaila, labai jį pamilęs, ne tik Lydos vietininku padarė, bet,
-    nepaisydamas Kęstučio prieštaravimų, dargi atidavė jam į
-    žmonas savo seserį. Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
-    dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
-    dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
-    žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ir prisiekė Jogai­
-    la, kaip mūsų tėvui nepadės, ir gy­
-    rėsi, kaip mano tėvą ir mane patį pa­
-    gaus, ir kaip mano tėvą ir mane pati
-    35
-
-    ## Puslapis 52
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Pasigailėjo laimėtojas Jogailos, nors iš surastų pas jį doku­
-    mentų akivaizdžiai įsitikino jo priešiškumu, bet, Vytautui
-    užsistojus, kartu su motina į tėvoniją, į Vitebską, išsiuntė.
-    Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­
-    tutis, kaip to karo kurstytoją, įsakė pakarti. Tuo tarpu Skir­
-    gaila antrąkart grįžo iš Polocko nieko nepešęs, bet sugebėjo
-    pasikalbėti su Jogaila, dar tebesėdėjusiu kalėjime.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    I1l
-
-    ## Puslapis 128
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
-    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
-    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
-    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
-    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
-    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
-    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė. Tas
-    lėšas Vladislovas Jogaila dar padidino skirdamas katedrai
-    ir vyskupams nemažą Vilniaus miesto dalį - visą plotą nuo
-    pilies iki pat Šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-004
-  santrauka: 'Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa davinėti jam geriamą vandenį, o ilgainiui didysis kuni gaikštis jį net labai pamėgo ir davė.'
+  santrauka: 'Lietuvos metraščio pasakojime Vaidila iš Algirdo tarno ir kepėjo buvo iškeltas valdyti Lydą, o Jogaila jį sutuokė su seserimi Marija.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Didysis kunigaikštis Kęstutis, atsižvelg­
@@ -205,7 +133,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
     išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
     kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
   citata_rodoma: ''
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -291,33 +219,29 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
   pagrindzia:
     - t-87462
 
-- id: c-176625
+- id: c-178954
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Didysis kunigaikštis Kęstutis, atsižvelg­
-    damas j susitarimą bei savo brolišką meilę ir santar-
-    mę, kurios ligi jo mirties buvo laikęsis, pripažino di­
-    džiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį
-    Jogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip
-    anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
-    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
-    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
-    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
-    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
-    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
-    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
-    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
-    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
-    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
-    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
+    O didysis kunigaikštis Kęstutis, sutelkęs savo pajė­
+    gas, skuba į Vilnių ir suima didįjį kunigaikštį Jogailą
+    su broliaisM ir su motina, suranda tas sutartis, kurias
+    buvo su vokiečiais sudarę, ir pasiunčia žygūną pas sa­
+    vo sūnų, didįjį kunigaikštį Vytautą, į Drohičiną, pra­
+    nešdamas, kas įvyko. Tas žygūnas suranda didįjį ku-
+    SJ
+
+    nigaikštį Vytautą Gardine, nes jis jau buvo iš Drohiči-
+    no atvykęs į Gardiną. Didysis kunigaikštis Vytautas
+    per vieną dieną atskuba iš Gardino pas savo tėvą, di­
+    dįjį kunigaikštį Kęstutį.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194000
+    - t-196874
 
 ## Ryšiai
 - Vaidila keliavo į [[objektai/vietos/Prūsija]]

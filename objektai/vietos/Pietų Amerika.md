@@ -42,26 +42,6 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   pagrindžia:
     - c-24383
 - susijęs iš [[objektai/zodynas/kolonijos.md#claim-t-70183|kolonijos]]: Pietų Amerikoje buvo laikoma įmanoma įkurti grynai lietuviškų kolonijų, kokių turėjo kitos tautos.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pietų Amerikos šalys tapo pagrindine neprasigyvenusių smulkių mažažemių valstiečių emigracijos kryptimi, kai JAV įvedė imigracijos kvotas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sportas tapo
-    integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olim-
-    piadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.
-    Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-
-    venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
-    Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24383

@@ -8,13 +8,13 @@ datos:
   - '1945 m.'
 date_start: '1945'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kaimas
   - vieta
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -63,24 +63,15 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   teiginys: "Narbutas Pajūrio kaimo fetišą Dievaitį siejo su neapibrėžta vieta Raseinių apskrityje, tikriausiai prie Jūros upės."
   pagrindžia:
     - c-171710
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    X ŠILAINIŲ PASALA
-    1945 m. vasario 15 d. Raseinių aps. Betygalos vls. Graužų-Lenčių
-    (Zembiškio) miške NKVD Betygalos stribai, grįždami iš užduoties Kėdainių
-    aps., prie Šilainių miško pateko į Vlado Pabarčiaus 40-ties partizanų būrio
-    pasalą. Žuvo 6 stribai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197476"></a>
+- t-005
+  global_id: t-197476
+  teiginys: "Upinė (Uppinė ) Upių, šaltinių, apskritai tekančio vandens deivė."
   pagrindžia:
-    - t-001
+    - c-171709
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas mitologinį pasakojimą apie deivę siejo su Raseinių apskrities Pašvenčio apylinkėse girdėta tradicija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -163,16 +154,17 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - id: c-171708
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pats pavadinimas, iš­
-    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
-    kovskis, o deivei.
-    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
-    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
-    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
-    nepaprasto grožio vienatinę dukterį.
+    Užtat išmoko dirbti žemę ir gauti naudos iš
+    pasėtų įvairių javų, kurių sėklų buvo atsivežusi. Nuo to ji ėmė
+    mokyti žemdirbystės meno vargšus žmones, kurie maitinosi
+    laukiniais gamtos vaisiais. Iškirtus lydymui vieną mišką, ka­
+    daise pilną drakonų siaubūnų (Siaubimas), jame buvo suras­
+    tas akmuo, ant kurio Lemtis savo pirštu buvo užrašiusi kara­
+    lienės Krūminės dukters likimą, kurį jai skyrė dievai prieš daug
+    daug amžių.
+  citata_rodoma: "Pats pavadinimas, iš­\nreikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­\nkovskis, o deivei.\nApie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­\nšvenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­\ndangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo\nnepaprasto grožio vienatinę dukterį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -183,38 +175,39 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - id: c-171709
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 142"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 142."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iszskalbk man amzuliali.
-    Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
-    liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai
-    ir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti
-    religinės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie
-    juos dar teks pakalbėti).
+    Gondu
+    suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
+    ant stalo neliestą, o tikrąjį karvojų suvalgo.
+    Kaip tik tai ir bus ta pati deivė, kurią garbino jaunos ro­
+    mėnės, vadindamos Manturna.
+    Upinė (Uppinė )
+    Upių, šaltinių, apskritai tekančio vandens deivė. Upė -Rze-
+    ka, Upinė - Rzeczna. Istorija teigia, kad tai dievybei kaip auka
+    buvo atnašaujami balti paršeliai.
+  citata_rodoma: "Gondu \nsuteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka \nant stalo neliestą, o tikrąjį karvojų suvalgo.\nKaip tik tai ir bus ta pati deivė, kurią garbino jaunos ro­\nmėnės, vadindamos Manturna.\nUpinė (Uppinė )\nUpių, šaltinių, apskritai tekančio vandens deivė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188820
+    - t-197476
 
 - id: c-171710
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Rageziowan
-    Kęsgailų giminės fetišas.
-    Dievaitis (Dewojtis)
-    Pajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­
-    seinių apskrityje, tikriausiai prie Jūros upės.
-    207
-
-    ## Puslapis 207
-
-    Vetustis (W etustis)
-    Rietavo miestelio fetišas, lietuviškai -  senovinis.
+    Reikėjo iškasti griovį slėnelyje prie gyvena­
+    mojo namo, ir kaip tik toje vietoje, kur buvo seno perkaso
+    pėdsakai, kasėjai dumble aptiko akmenį ir jį išmetė. Aš, pri­
+    žiūrėdamas jų darbą, pastebėjau tą akmenį. Jis iš karto nuste­
+    bino mane ypatinga savo išvaizda. Liepiau apvalyti nuo jo dum­
+    blą. Pasvarstęs, kad visame perkase nebuvo jokio akmens, su­
+    vokiau, kad jis ten buvo tyčia įmestas.
+  citata_rodoma: "Rageziowan\nKęsgailų giminės fetišas.\nDievaitis (Dewojtis)\nPajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­\nseinių apskrityje, tikriausiai prie Jūros upės.\n207\n\n## Puslapis 207\n\nVetustis (W etustis)\nRietavo miestelio fetišas, lietuviškai -  senovinis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

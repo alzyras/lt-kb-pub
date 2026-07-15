@@ -46,31 +46,12 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 - susijęs iš [[objektai/grupes/Tamplierių ordinas.md#claim-t-89290|Tamplierių ordinas]]: Neseniai Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir egzistavo Teutonų ordinas.
 - susijęs iš [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.).md#claim-t-62933|Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]: Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir veikė Teutonų ordinas.
 - susijęs iš Prancūzija: Prancūzijoje buvo likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo Teutonų ordinas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1324 m. popiežius Jonas XXII pagrasino ekskomunikuoti Ordiną.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
-    padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
-    Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
-    Teutonų ordinas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59531
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
     padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai

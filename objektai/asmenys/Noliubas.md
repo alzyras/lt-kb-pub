@@ -57,7 +57,6 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 - susijęs iš [[objektai/posakiai/Šiandien prisiminkite puikius drabužius.md#claim-t-59172|Šiandien prisiminkite puikius drabužius]]: Sembas Sklodas iš Kvedenavos ragino giminaičius prisiminti puikius drabužius, kurių jie dažnai gaudavo iš Ordino brolių.
 - susijęs iš [[objektai/zodynas/atskalūnybė atskalūnai.md#claim-t-58808|atskalūnybė atskalūnai]]: Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Noliubas, Sklodo iš Kvedenavos sūnus, atsisakė paklusti Karaliaučiaus broliams ir nesekė savo tėvų pavyzdžiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -103,18 +102,17 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 - id: c-85898
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 119"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    101 (96). Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
-                            pirmiausia — prieš Kvedenavos valsčių
-
-      Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,
-    be to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai
-    paklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu. Kai dėl to supykę
-    broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis
-    šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis
-    p. 54), kelio iš Kaliningrado į Laduškiną pradžioje.
+    Viešpats tą vietą buvo pasirinkęs savo vardui garbinti ir šlovinti373, todėl, bausdamas juos
+    už piktus sumanymus bei klastingas užmačias, niekais vertė viską, ko šie griebdavosi.
+    Matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai,
+    pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius
+    maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų. Susirūpinę šiuo reikalu,
+    broliai bei komtūras slapta pasiuntė vieną vyrą, kuris, kartą pragręžęs šiuos laivus grąžtu,
+    taip dažnai šitai kartojo, kad priešai, nukamuoti didelių įstangų ir išlaidų, turėjo liautis
+    puldinėję brolių laivus, kurių nemaža jau buvo sunaikinę, o įgulas paėmę nelaisvėn ir
+    išžudę.
   citata_rodoma: "Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o\n                        pirmiausia — prieš Kvedenavos valsčių\n\n  Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,\nbe to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai\npaklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu. Kai dėl to supykę\nbroliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis\nšiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis\np."
   statusas: verified
   teiginio_tipas: faktas
@@ -126,15 +124,21 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 - id: c-85899
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 120"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
-    nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie
-    čia atvyksta“. Šis pabėgo  į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo
-    namų šeimyna bei visi turtai buvo brolių išsklaidyti. Ilgainiui tas pats Noliubas, dažnų
-    antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl
-    savo įsitikinimų, ir dėl darbų.
+    103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
+    Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas
+    priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė
+    pastatyti tiltą per Priegliaus upę, o abiejuose tilto galuose įrengti tvirtus kuorus,
+    manydami galėsią šitaip trukdyti broliams plukdyti į Karaliaučiaus pilį visokius reikmenis.
+    Kai broliai minėtoje pilyje atsidūrė bado akivaizdoje, jie ryžosi verčiau žūti kovoje, nei
+    laukti negailestingos bado mirties, todėl apsiginklavo ir susėdo į laivus, o kai priplaukė
+    netoli tilto, nuleido inkarus, tačiau pakilo smarkus vėjas ir nubloškė juos prie pat tilto,
+    Žinoma, šitai įvyko dėl dievo apvaizdos; kopdami ant tilto, jie užtiko daugybę ginkluotų
+    vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
+    kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
+    matęs vedant nedidelį karių būrį.
+  citata_rodoma: "Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,\nnei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie\nčia atvyksta“. Šis pabėgo  į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo\nnamų šeimyna bei visi turtai buvo brolių išsklaidyti. Ilgainiui tas pats Noliubas, dažnų\nantpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl\nsavo įsitikinimų, ir dėl darbų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

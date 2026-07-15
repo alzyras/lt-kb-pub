@@ -51,124 +51,21 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   teiginys: "Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams."
   pagrindžia:
     - c-171059
-
-<a id="claim-t-188016"></a>
-- t-003
-  global_id: t-188016
-  teiginys: "Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams."
-  pagrindžia:
     - c-171058
 
 <a id="claim-t-188017"></a>
-- t-004
+- t-003
   global_id: t-188017
   teiginys: "Bazilijonų ordinas Lietuvoje turėjo kelias dešimtis vienuolynų ir daugiausia rūpinosi unitų mokymu."
   pagrindžia:
     - c-171061
 
-<a id="claim-t-188019"></a>
-- t-005
-  global_id: t-188019
+<a id="claim-t-188018"></a>
+- t-004
+  global_id: t-188018
   teiginys: "Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius."
   pagrindžia:
     - c-171060
-
-<a id="claim-t-188019"></a>
-- t-006
-  global_id: t-188019
-  teiginys: "Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius."
-  pagrindžia:
-    - c-171060
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Daug geriau buvo sutvarkytas
-    unitų švietimas. Vilniuje šie turėjo net savą, popiežiaus iš-
-    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
-    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
-    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
-    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1822. Mamoničių namai sto­
-    vėjo, rodos, toje vietoje, kur dabar Sle-
-    dzinskio namai, Nr. 203, o šalia,
-    kampiniame name, seniau buvo
-    cerkvelė. Vėliau Mamoničių spaus­
-    tuvė, matyt, atiteko bazilijonams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mamoničių namai sto­
-    vėjo, rodos, toje vietoje, kur dabar Sle-
-    dzinskio namai, Nr. 203, o šalia,
-    kampiniame name, seniau buvo
-    cerkvelė. Vėliau Mamoničių spaus­
-    tuvė, matyt, atiteko bazilijonams.
-    69
-    Perlas paimtas iš pranašo Habukuko ir
-    Kalėdoms dovanotas Jonui Hlebavičiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Beveik tuo
-    pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką
-    Dievui už puikią savo pergalę, ant kalvelės, netoli Medinin­
-    kų vartų, pastatė mūrinę Švč. Trejybės cerkvę ir prie jos įkur­
-    dino Šv. Bazilijaus ordino vienuolius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-005
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vilniuje šie turėjo net savą, popiežiaus iš-
-    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
-    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
-    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
-    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
-    prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
-    ir aukštesniųjų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 ## Citatos
 
@@ -204,12 +101,10 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     tuvė, matyt, atiteko bazilijonams.
   citata_rodoma: "Mamoničių namai sto-\nvėjo, rodos, toje vietoje, kur dabar Sle-\ndzinskio namai, Nr. 203, o šalia,\nkampiniame name, seniau buvo\ncerkvelė. Vėliau Mamoničių spaus-\ntuvė, matyt, atiteko bazilijonams."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188016
-
 - id: c-171059
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -248,7 +143,6 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188019
     - t-188018
 
 - id: c-171061

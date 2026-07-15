@@ -7,15 +7,14 @@ datos:
   - '1834 m.'
 date_start: '1834'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-tags:
-  - asmuo
-  - pareigūnas
 amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - asmuo
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,33 +36,16 @@ Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kron
 
 ## Teiginiai
 
-<a id="claim-t-186507"></a>
+<a id="claim-t-198240"></a>
 - t-001
-  global_id: t-186507
+  global_id: t-198240
   teiginys: "Aleksandro Bychovco perduotą Bychovco kronikos rankraštį Vincentas Janovskis 1834 m. vasario 4 d. persiuntė Teodorui Narbutui į Saurus."
   pagrindžia:
-    - c-169845
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    T. Narbuto prašomas, rankraščio savininkas Alek­
-    sandras Bychovcas perdavė jį istoriko pažįstamam tei­
-    sėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­
-    siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
-    paviete, Nočios parapijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: tiesioginė-citata
-  pagrindžia:
-    - t-001
+    - c-180057
 
 ## Citatos
 
-- id: c-169845
+- id: c-180057
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   puslapiai: "PDF 9"
@@ -74,10 +56,10 @@ Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kron
     sėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­
     siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
     paviete, Nočios parapijoje.
-  citata_rodoma: "T. Narbuto prašomas, rankraščio savininkas Alek-\nsandras Bychovcas perdavė jį istoriko pažįstamam tei-\nsėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per-\nsiuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos\npaviete, Nočios parapijoje."
+  citata_rodoma: "T. Narbuto prašomas, rankraščio savininkas Alek­\nsandras Bychovcas perdavė jį istoriko pažįstamam tei­\nsėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­\nsiuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos \npaviete, Nočios parapijoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186507
+    - t-198240

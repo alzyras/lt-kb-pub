@@ -6,7 +6,7 @@ tema_kategorija: "terminai"
 tema_kategorijos_pavadinimas: "Žodyno įrašai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 129
+tema_objektu_skaicius: 127
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 129.
+Objektų skaičius: 127.
 
 ## Kaip naudoti
 
@@ -126,7 +126,6 @@ Objektų skaičius: 129.
 - [rykys](../objektai/zodynas/Rykys)
 - [rūmininkas vyno pilstytojas](../objektai/zodynas/r%C5%ABmininkas%20vyno%20pilstytojas)
 - [scholastiko prelatūra scholastikas](../objektai/zodynas/scholastiko%20prelat%C5%ABra%20scholastikas)
-- [seniūnas](../objektai/zodynas/seni%C5%ABnas)
 - [seniūnas storasta](../objektai/zodynas/seni%C5%ABnas%20storasta)
 - [stalininkas](../objektai/zodynas/stalininkas)
 - [sufraganas kleras arkipresbiteris](../objektai/zodynas/sufraganas%20kleras%20arkipresbiteris)
@@ -144,7 +143,6 @@ Objektų skaičius: 129.
 - [vaitas Vilniaus vaitystė](../objektai/zodynas/vaitas%20Vilniaus%20vaityst%C4%97)
 - [vaivada kaštelionas](../objektai/zodynas/vaivada%20ka%C5%A1telionas)
 - [valsčių viršaičiai staršinos](../objektai/zodynas/vals%C4%8Di%C5%B3%20vir%C5%A1ai%C4%8Diai%20star%C5%A1inos)
-- [vietininkas](../objektai/zodynas/vietininkas)
 - [viršila](../objektai/zodynas/vir%C5%A1ila)
 - [vyskupo teisėjas](../objektai/zodynas/vyskupo%20teis%C4%97jas)
 - [vytūnas](../objektai/zodynas/Vyt%C5%ABnas)

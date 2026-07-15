@@ -66,81 +66,16 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 - susijęs iš [[objektai/asmenys/Augustas Friderikas Kocebu.md#claim-t-191175|Augustas Friderikas Kocebu]]: Narbutas taiso Kocebu vietovardį Cemptenbece į Lemptenburgą ir pabrėžia, kad šios vietos padėtį sunku tiksliai nustatyti.
 - susijęs iš [[objektai/asmenys/Kocebus.md#claim-t-191351|Kocebus]]: Teodoras Narbutas Kocebo pavartotą Cemptenbece vietovardį taisė į Lemptenburgą ir pažymėjo, kad jo padėtį tiksliai nustatyti sunku.
 - susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio šventojo miško kirtimas.md#claim-t-189627|Jeronimo Prahiškio šventojo miško kirtimas]]: Narbutas pasakoja, kad šventojo miško viduryje žmonės kurį laiką nedrįso paliesti seniausio medžio, laikyto dievų buveine.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    140 (135). Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
-                                          lies bei miesto paėmimą
-
-      Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
-    pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo
-    tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele
-    kariuomene ją apsupo, visą dieną smarkiai puolė. Jiems narsiai pasipriešino miestiečiai
-    ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
-    tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Pasak Narbuto cituojamo Treterio, Varmijos vyskupas Anzelmas įsakė nukirsti ąžuolą, prie kurio žmonės garbino dievus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Varmijos vyskupų biografas Trete-
-    ris sako: „Toje vietoje, kur yra Heiligenbeilis, augo milžiniš­
-    kas ąžuolas, kuris tiek vasarą, tiek žiemą žaliavo (be abejo,
-    velnio pastangomis).
-    Sunaikinus Kurko šventyklą, tas ąžuolas dar stovėjo, ir pa­
-    prasti žmonės, nepaisydami Varmijos vyskupo Anzelmo pa­
-    mokslų ir pamokymų, nesiliovė po juo garbinti dievų. Tad, kai
-    vyskupas įsakė ąžuolą nukirsti, atsitiko taip, jog kirvis, atšokęs
-    nuo kamieno, mirtinai sužeidė žmogų, todėl krikščionys ne­
-    bedrįso jo liesti, kol pats vyskupas, paėmęs į rankas kirvį, ne­
-    pradėjo vadovauti kirtimui, tačiau ir šiaip be ugnies nepajėgta
-    susidoroti su ąžuolu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Viena me Varmijos vyskupo Anzelmo rašte (Bacho.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Viena­
-    me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1. P. 289),
-    neminint liudytojų, taip pat minimas Lemptenburgas, kai
-    rašoma apie Rudolfus in Lemptenburg plebanus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-60717
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     140 (135). Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
-                                          lies bei miesto paėmimą
-
-      Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
+    lies bei miesto paėmimą
+    Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
     pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo
     tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele
     kariuomene ją apsupo, visą dieną smarkiai puolė. Jiems narsiai pasipriešino miestiečiai
@@ -157,8 +92,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 - id: c-171403
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 236"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Varmijos vyskupų biografas Trete-
     ris sako: „Toje vietoje, kur yra Heiligenbeilis, augo milžiniš­
@@ -182,8 +116,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 - id: c-177306
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 347"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Viena­
     me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1. P. 289),

@@ -81,7 +81,6 @@ Nenurodyta
   pagrindžia:
     - c-05255
 - susijęs iš [[objektai/asmenys/Skabeika.md#claim-t-186161|Skabeika]]: Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų vežimų.
-- susijęs iš [[objektai/asmenys/Vincentas iš Šamotulų.md#claim-t-186089|Vincentas iš Šamotulų]]: Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė suversti vežimus po ledu ir atlaisvinti kelią kitiems būriams.
 - susijęs iš [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis.md#claim-t-87074|Dengtos rogės ir vežimai su atsargomis]]: Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų.
 - susijęs iš [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai.md#claim-t-77924|Gardino ekonomijos manufaktūrų gaminiai]]: Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.
 - susijęs iš [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai.md#claim-t-40715|Geležinėmis grandinėmis kaustyti vežimai]]: Vorsklos mūšyje Timūr-Kutluko totoriai paėmė Vytauto kariuomenės gurguolę, vežimus su geležinėmis grandinėmis, patrankas, arbaletus ir daug turto.
@@ -131,47 +130,6 @@ Nenurodyta
 - susijęs iš Pasarė: Brunsbergo pilis ir miestas buvo pastatyti Pasarės, vadintos Serijos upe, žemupyje esančioje saloje.
 - susijęs iš Prūsija: Jogaila įsakė dvidešimt laivų su grūdais Vysla nuplukdyti į Prūsijos pasienį, kad maistas būtų nugabentas į Lietuvą.
 - susijęs iš Valkininkai: Nugalėtojai su belaisviais, 8 patrankomis ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
-    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
-    žmonos vežime. Iš patalo daugiau nebepakilo. Pagal Dlugošo idi­
-    lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­
-    gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus. Lenkų isto­
-    rikas J. Puzlnas (Puzyna), kuris nuošalus nuo oficialiosios nacio­
-    nalinės lenkų istoriografijos krypties, 1914 m. savo disertacijoje apie
-    Švitrigailą bandė įrodyti, jog Vytautas miręs nenatūralia mirtimi,
-    t. y. lenkų (Jogailos?) nunuodytas^17. Tačiau trūksta duomenų ir
-    šaltinių, kad būtų galima šią prielaidą, kurią J. Puzinas taip ak­
-    tyviai gynė, išvystyti į dėmesio vertą tezę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dabar jie abu dar labiau suskato imtis konkrečių žygių ir rink­
-    ti kariuomenę. Jogaila nuvyko Krokuvon ir įsakė šaukti ka­
-    riuomenę. Lenkijos riteriams įsakė pasiimti po vieną tarną ir
-    po vieną vežimą maisto šešioms savaitėms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-05255
@@ -213,5 +171,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93002
     - t-93001
+    - t-93002

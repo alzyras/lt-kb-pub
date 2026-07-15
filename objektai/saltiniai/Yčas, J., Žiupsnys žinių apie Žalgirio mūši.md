@@ -44,21 +44,6 @@ Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr.
   teiginys: "J. Yčo „Žiupsnys žinių apie Žalgirio mūšį“ siejamas su 1914 m. Vilniuje leista „Lietuvių tauta“ ir 1930 m. Kaune leistu „Vasario 16“ leidiniu."
   pagrindžia:
     - c-38444
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Berlin, 1906.
-    Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr. „Lietuviu tauta“,
-    Vilnius, 1914 ir „Vasario 16“, Šauliu Sąjungos leidinys, Kaunas, 1930).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

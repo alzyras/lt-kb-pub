@@ -9,13 +9,13 @@ datos:
   - '1836 m.'
 date_start: '1814'
 date_end: '1836'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - moneta
   - daiktas
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -72,27 +72,8 @@ Nenurodyta
   teiginys: "Moneta sveria beveik tiek, kiek trys su puse raudonojo auksino."
   pagrindžia:
     - c-177018
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas nusipirko auksinę monetą, kuri, jo žiniomis, apie 1814–1815 m. buvo rasta Švėkšnos klebonijos sode.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kartą man pasitaikė nupirkti auksinę monetą, kuri pavaiz­
-    duota natūralaus dydžio III lentelės 17-ajame piešinyje. Ji iš
-    Žemaitijos, turėjo būti nelabai seniai rasta (1814 ar 1815 me­
-    tais) Švėkšnoje, tenykštės klebonijos sode; tarnas pasisavino
-    lobį, iškastą persodinant rožių krūmą, -  mat auksinių monetų
-    turėjo būti keliolika svarų. Tas žmogus pabėgo į užsienį, ir bran­
-    gios senovės liekanos nežinia kur dingo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono Juozapo Januškevičiaus sode rasto lobio istorija buvo žinoma vietos gyventojams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -111,37 +92,18 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Moneta sveria beveik tiek, kiek trys su puse raudonojo auksino.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tas žmogus pabėgo į užsienį, ir bran­
-    gios senovės liekanos nežinia kur dingo. Moneta sveria beveik
-    tiek, kiek trys su puse raudonojo auksino. Ji įdubi, kaip graži
-    lėkštelė, į ją telpa didoko kavos šaukštelio vandens ketvirta­
-    dalis; iškalta labai raiškiai ir, nors iškilioji jos pusė nudilusi,
-    atspaudas dar gana ryškus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-172533
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 218"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 218."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kartą man pasitaikė nupirkti auksinę monetą, kuri pavaiz­
     duota natūralaus dydžio III lentelės 17-ajame piešinyje. Ji iš
     Žemaitijos, turėjo būti nelabai seniai rasta (1814 ar 1815 me­
     tais) Švėkšnoje, tenykštės klebonijos sode; tarnas pasisavino
-    lobį, iškastą persodinant rožių krūmą, -  mat auksinių monetų
+    lobį, iškastą persodinant rožių krūmą, - mat auksinių monetų
     turėjo būti keliolika svarų. Tas žmogus pabėgo į užsienį, ir bran­
     gios senovės liekanos nežinia kur dingo.
   statusas: verified
@@ -154,15 +116,21 @@ Nenurodyta
 - id: c-172535
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
-    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
-    to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
-    turėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­
-    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
-    autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
+    Apie jį dar esama padavimo, kad jis buvęs gar­
+    binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
+    ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
+    skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
+    keliais milžinkapiais. Pusdievio ir Nemuno vardo panašumas
+    perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­
+    kas šia upe keliavęs, bus davęs upei savo vardą. Lietuvoje
+    gyveno panašiai besivadinanti bajorų giminė; turim rankoje
+    laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemu-
+    navičiaus (Niemonowicz) parašu. Matyti, kad ta pavardė yra
+    kilusi iš Nemuno pavadinimo, kaip Piotrowicz, tai yra Petro
+    sūnus, iš Petro.
+  citata_rodoma: "Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­\nninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­\nto gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris\nturėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­\nnas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio\nautorius, man rašytame laiške (Raseiniai. -  1836.IV19)*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -173,8 +141,7 @@ Nenurodyta
 - id: c-177018
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 218"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 218."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tas žmogus pabėgo į užsienį, ir bran­
     gios senovės liekanos nežinia kur dingo. Moneta sveria beveik

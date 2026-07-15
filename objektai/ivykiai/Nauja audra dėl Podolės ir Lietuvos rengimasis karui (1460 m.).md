@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuva suskato rengtis karui dėl Podolės, tačiau apsiribota grasinimais ir kariuomenės telkimu. 1460 m. karalius Bresto seime stengėsi nukreipti didikų užmojus nuo Podolės.
+Lietuva suskato rengtis karui dėl Podolės, tačiau apsiribota grasinimais ir kariuomenės telkimu. 1460 m. karalius Bresto seime mėgino nukreipti Lietuvos didikų užmojus nuo Podolės, bet jam išvykus jie vėl rengėsi karui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -57,74 +57,9 @@ Nenurodyta
 <a id="claim-t-185757"></a>
 - t-002
   global_id: t-185757
-  teiginys: "1460 m. karalius Bresto seime stengėsi nukreipti didikų užmojus nuo Podolės."
+  teiginys: "1460 m. karalius Bresto seime mėgino nukreipti Lietuvos didikų užmojus nuo Podolės, bet jam išvykus jie vėl rengėsi karui."
   pagrindžia:
     - c-169118
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuva suskato rengtis karui dėl Podolės, tačiau apsiribota grasinimais ir kariuomenės telkimu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    N e s ė k m in g a s  ž y g is  į
-    P rūsiją
-    leidimo paliko stovyklą, o
-    sumažėjus jėgoms ir pralei­
-    dus tinkamą metą
-    lemia-
-    rkovo seime jie, be galo iš­
-    510
-
-    ## Puslapis 509
-
-    Šitai dar labiau sukurstė aist-
-    N a u ja  au d ra  d ė l Po-
-    ras, dar neatvėsusias po anks-
-    d o lės
-    tesnių sambrūzdžių. Visa Lie­
-    tuva suskato rengtis karui dėl
-    Podolės. Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
-    tenkinta grasinimais bei kariuomenės telkimu, nes kaip
-    tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
-    nas Goštautas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1460 m. karalius Bresto seime stengėsi nukreipti didikų užmojus nuo Podolės.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
-    tenkinta grasinimais bei kariuomenės telkimu, nes kaip
-    tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
-    nas Goštautas. Antra vertus, karalius irgi labiau nei
-    kitados stengėsi išlaikyti sa-
-    1460 m e ta i
-    vo rankose Lietuvą, nes su­
-    silaukė jau kelių palikuonių
-    (mat šiek tiek anksčiau gimė trečias sūnus Jonas Ol-
-    brachtas, o šiais metais ir ketvirtas — Aleksandras), to­
-    dėl visaip baudėsi Bresto seime nukreipti nuo Podolės
-    didikų užmojus. Kadangi skausmas dėl patirtos skriau­
-    dos, tai yra dėl atimtų žemių, tebuvo tik sušvelnėjus,
-    karaliaus akivaizdoje jie, tiesa, nerodė ypatingo įkar­
-    ščio, tačiau, jam išvykus, vėl
-    K araliui p a v y k s ta  n u-
-    ryžtingai rengdavosi karui ir
-    ram inti
-    griebdavosi ginklų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -133,27 +68,28 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    N e s ė k m in g a s  ž y g is  į
-    P rūsiją
-    leidimo paliko stovyklą, o
-    sumažėjus jėgoms ir pralei­
-    dus tinkamą metą
-    lemia-
-    rkovo seime jie, be galo iš­
-    510
-
-    ## Puslapis 509
-
-    Šitai dar labiau sukurstė aist-
-    N a u ja  au d ra  d ė l Po-
-    ras, dar neatvėsusias po anks-
-    d o lės
-    tesnių sambrūzdžių. Visa Lie­
-    tuva suskato rengtis karui dėl
-    Podolės. Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
-    tenkinta grasinimais bei kariuomenės telkimu, nes kaip
-    tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
-    nas Goštautas.
+    1458 m eta i
+    K araliu s su la ik o nuo
+    karo
+    Neapsakomai sumanus ir
+    apsukrus buvo šis valdovas,
+    jam, tiesą sakant, be galo se­
+    kėsi raminti lietuvius. Jis
+    netruko užgesinti vos beįsi-
+    liepsnojančio karo dėl Podolės liepsną, be to, jo pas­
+    tangomis luomai seime vienu balsu nutarė padėti len­
+    kams, kovojantiems su Prūsija. Suteikė jiems paskolą
+    iš valstybės iždo — aštuoniasdešimt tūkstančių auksi­
+    nų, be to, išsiuntė į pagalbą astuonių tūkstančių vyrų
+    kariuomenę, vedamą Jono Chodkevičiaus, Vitebsko vai­
+    vados. Vis dėlto ir šitokios išlaidos nepadėjo pasiekti
+    Prūsijoje didesnių laimėjimų. Mat Vengrijos pasiunti­
+    nys Iskra, dėdamasis norįs pasiekti taikos, užvilkino
+    karo veiksmus, ir todėl daugybė lenkų be karaliaus
+    miems žygiams, karalius tu­
+    rėjo pasitraukti iš Prūsijos nieko naudinga čia šiuo žy­
+    giu nepešęs.
+  citata_rodoma: "N e s ė k m in g a s  ž y g is  į\nP rūsiją\nleidimo paliko stovyklą, o\nsumažėjus jėgoms ir pralei­\ndus tinkamą metą\nlemia-\nrkovo seime jie, be galo iš­\n510\n\n## Puslapis 509\n\nŠitai dar labiau sukurstė aist-\nN a u ja  au d ra  d ė l Po-\nras, dar neatvėsusias po anks-\nd o lės\ntesnių sambrūzdžių. Visa Lie­\ntuva suskato rengtis karui dėl\nPodolės. Tačiau lemiamas žingsnis nebuvo žengtas: pasi­\ntenkinta grasinimais bei kariuomenės telkimu, nes kaip\ntik tuo metu mirė žymiausias šios grupuotės vadas Jo­\nnas Goštautas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -164,8 +100,7 @@ Nenurodyta
 - id: c-169118
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 509"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 509."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
     tenkinta grasinimais bei kariuomenės telkimu, nes kaip
@@ -182,7 +117,7 @@ Nenurodyta
     dos, tai yra dėl atimtų žemių, tebuvo tik sušvelnėjus,
     karaliaus akivaizdoje jie, tiesa, nerodė ypatingo įkar­
     ščio, tačiau, jam išvykus, vėl
-    K araliui p a v y k s ta  n u-
+    K araliui p a v y k s ta n u-
     ryžtingai rengdavosi karui ir
     ram inti
     griebdavosi ginklų.

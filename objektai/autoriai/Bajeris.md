@@ -7,15 +7,15 @@ datos:
   - '1590 m.'
 date_start: '1590'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - autorius
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,26 +57,15 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginys: "Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles įtraukti į „Monumentą Prussica“."
   pagrindžia:
     - c-174420
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum pavadinimo ryšį su Baltijos pakrančių gyventojais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ado­
-    mas Bremenietis Balticum pavadinimą tapatina ¡su šių
-    kraštų pakrančių gyventojais (baltų), priklausančiais lie­
-    tuvių genties tautoms5. Regis tą patį patvirtina ir Bajeris,
-    šį dalyką tyrinėjęs išsamiau ir kruopščiau6. Mes negalime
-    1 Istoryczeskij Magazyn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197583"></a>
+- t-004
+  global_id: t-197583
+  teiginys: "Wigancli Episcopi Pomesatiiensis de Succino, alce et herbis iri Prussia nascentibus libri\", išleistą 1590 metais Jenoje; Bajeris ją norėjo įdėti į savo „Monumentą Prussica“."
   pagrindžia:
-    - t-001
+    - c-179252
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Bajeris manė, kad Kulmo provincijos pavadinimas, svetimšalių taikytas ir kryžiuočių Prūsijai, vartotas gana seniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -118,8 +107,7 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
 - id: c-174418
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 177"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ado­
     mas Bremenietis Balticum pavadinimą tapatina ¡su šių
@@ -137,15 +125,16 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
 - id: c-174419
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 258"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 258."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Sis Kulmo provincijos pavadinimas sve­
-    timšalių raštuose buvo taikomas ir visai Prūsijai, būtent
-    priklausančiai kryžiuočiams, kurie valdyti pradėjo nuo
-    Ruimo. Bajeris mano, kad šis pavadinimas buvo vartoja­
-    mas gana seniai3. Bet ir vėlesni istorikai kryžiuočių Prū­
-    siją vadino tuo pačiu vardu4.
+    Bet ir vėlesni istorikai kryžiuočių Prū­
+    siją vadino tuo pačiu vardu4. Dar kartais svetimšaliai
+    rašytojai prie šių pavadinimų pridėdavo Seirzbia, arba
+    Semland, arba tiesiog šiuo vienu pavadinimu, laikydami
+    garsesnę provinciją visu kraštu, vadindavo visgĮ Prūsiją5 6.
+    Lenkų rašytojai iš pat ¡pradžių prūsus lotyniškai vadinda­
+    vo Gethae5.
+  citata_rodoma: "Sis Kulmo provincijos pavadinimas sve­\ntimšalių raštuose buvo taikomas ir visai Prūsijai, būtent\npriklausančiai kryžiuočiams, kurie valdyti pradėjo nuo\nRuimo. Bajeris mano, kad šis pavadinimas buvo vartoja­\nmas gana seniai3. Bet ir vėlesni istorikai kryžiuočių Prū­\nsiją vadino tuo pačiu vardu4."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -156,8 +145,7 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
 - id: c-174420
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 338"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Labiausiai jį primena skruzdėliniai gyvasakiai; gel­
     tonas ir baltas gintaras kvepia skirtingai. Smalsuoliams
@@ -165,9 +153,31 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
     copi Pomesatiiensis de Succino, alce et herbis iri Prussia
     nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
     ją norėjo įdėti į savo „Monumentą Prussica“.
+    Tai, kad gintaras yra senojo pasaulio kūrinys, teigia
+    gamtos tyrinėtojai Klaprotas ir Hagenas.
+  citata_rodoma: "Labiausiai jį primena skruzdėliniai gyvasakiai; gel­\ntonas ir baltas gintaras kvepia skirtingai. Smalsuoliams\nrekomenduojama paskaityti knygelę „Ja. Wigancli Epis-\ncopi Pomesatiiensis de Succino, alce et herbis iri Prussia\nnascentibus libri\", išleistą 1590 metais Jenoje; Bajeris\nją norėjo įdėti į savo „Monumentą Prussica“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191538
+
+- id: c-179252
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Smalsuoliams
+    rekomenduojama paskaityti knygelę „Ja. Wigancli Epis-
+    copi Pomesatiiensis de Succino, alce et herbis iri Prussia
+    nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
+    ją norėjo įdėti į savo „Monumentą Prussica“.
+    Tai, kad gintaras yra senojo pasaulio kūrinys, teigia
+    gamtos tyrinėtojai Klaprotas ir Hagenas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197583

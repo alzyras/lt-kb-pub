@@ -40,20 +40,6 @@ Nasonov, A.
   teiginys: "A. N. Nasonovo „Mongoly i Rus’. Istorija tatarskoj politiki na Rusi“ buvo išleista Maskvoje 1940 m."
   pagrindžia:
     - c-29646
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Nasonov, A. N. : _Mongoly i Rus’. Istorija tatarskoj politiki na
-    Rusi,_ Maskva 1940. — _Očerki istorii SSSR.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

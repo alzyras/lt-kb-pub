@@ -46,45 +46,13 @@ Nenurodyta
   teiginys: "Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais."
   pagrindžia:
     - c-169162
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kadangi švedų valdovas atsisakė siūlomos sąjungos,
-    būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
-    ros, Augustas laiškais stengėsi sutaikyti švedus bei
-    maskvėnus.
-    Po ilgų ir karštų ginčų tais pačiais metais leista
-    karalienei Bonai, negailėju-
-    K a ra lic n ė
-    B ona
-    iš-
-    šiai dovanų Lenkijos didi-
-    v y k s ta  į Ita liją
-    kams, išvykti į Italiją su vi­
-    somis brangenybėmis ir vi­
-    sais valdovės turtais. Tiesa, vėliau tinkama forma
-    surašytame prieš pat mirtį testamente ji sūnų Augustą
-    paskyrė viso savo turto paveldėtoju, tačiau dėl jos tar­
-    no Papakodos suktybių paskutinioji velionės valia
-    buvo neįvykdyta, o visas turtas vėjais paleistas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169162
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 696"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 696."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kadangi švedų valdovas atsisakė siūlomos sąjungos,
     būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
@@ -96,7 +64,7 @@ Nenurodyta
     B ona
     iš-
     šiai dovanų Lenkijos didi-
-    v y k s ta  į Ita liją
+    v y k s ta į Ita liją
     kams, išvykti į Italiją su vi­
     somis brangenybėmis ir vi­
     sais valdovės turtais. Tiesa, vėliau tinkama forma

@@ -30,7 +30,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko. Vytautui pasitraukus pas kryžiuočius, Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas buvo neseniai atėmęs iš lietuvių.
+Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko. Vytautui pasitraukus pas kryžiuočius, Jogaila nukreipė jėgas į Poleksiją, kurią Jonušas neseniai buvo atėmęs iš lietuvių. Vežamas iš Vilniaus į Krėvą Vytautas, pasak Kojelavičiaus, sulaukė karališkos pagarbos, bet buvo nuolat saugomas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -56,81 +56,38 @@ Nenurodyta
 <a id="claim-t-185543"></a>
 - t-002
   global_id: t-185543
-  teiginys: "Vytautui pasitraukus pas kryžiuočius, Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas buvo neseniai atėmęs iš lietuvių."
+  teiginys: "Vytautui pasitraukus pas kryžiuočius, Jogaila nukreipė jėgas į Poleksiją, kurią Jonušas neseniai buvo atėmęs iš lietuvių."
   pagrindžia:
     - c-168904
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vienas sargybinis kar­
-    tą įspėjo Oną, jog Vytautui
-    gresianti mirtis, pridurdamas,
-    kad Jogailos siųsti budeliai
-    jau atvyko į Krėvą. Žmona
-    apie viską pranešė vyrui ir
-    patarė apsirengus merginos drabužiais apgauti sargy­
-    binius ir pasprukti iš priešo rankų ir nuo tikros mir­
-    ties: draugai jau, girdi, parūpinę visko, kas reikalinga
-    bėgliui. Kaip sumanyta, taip ir padaryta: pavakaryje,
-    apsivilkęs mergaitės drabužiais, Vytautas lyg niekur
-    nieko praėjo pro sargybinius, tamsoje nusileidęs nuo
-    sienų, užsėdo ant žirgo ir pa-
-    P a b ėg a  iš p radžių  į
-    spruko į Mazoviją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196267"></a>
+- t-003
+  global_id: t-196267
+  teiginys: "Vežamas iš Vilniaus į Krėvą Vytautas, pasak Kojelavičiaus, sulaukė karališkos pagarbos, bet buvo nuolat saugomas."
   pagrindžia:
-    - t-001
+    - c-178603
 
-- c-002
-  santrauka: 'Vytautui pasitraukus pas kryžiuočius, Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas buvo neseniai atėmęs iš lietuvių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tiesą sakant,
-    jam derėjo ne kalbėti užuolankomis, o aiškiai prisi­
-    minti, jog ne taip seniai pats buvo sudaręs su Jogaila
-    sutartį, nukreiptą prieš Kęstutį bei jo šeimyną, tačiau
-    žmogui, tykančiam užgrobti Lietuvą, nė motais, su
-    kuo sudaryti sutartį, su kuo nutraukti, jam svarbu,
-    kad, čia vienus, čia kitus remdamas į pagalbą siunčia­
-    mais būriais, galėtų kurstyti ir skatinti tarp lietuvių
-    neapykantą pačios Lietuvos pražūčiai. Todėl neilgai jis
-    dangstė veidą atšiaurumo kauke: netrukus, pažadėjęs
-    pagalbą, paskyrė Vytautui būstą Marienburge, ypač
-    paakintas to, kad iš Žemaitijos bei tų Lietuvos žemių,
-    kurios priklausė Kęstučiui,
-    1383 m e ta i
-    traukė pas Vytautą žymūs
-    bajorai ir, aukodami savo
-    turtus, baudėsi sukurstyti karą prieš Jogailą. Tuo tar­
-    pu Jogaila, užkirtęs, kaip jis manė, kelią vidaus ne­
-    santarvei, nukreipė jėgas prieš išorinį priešą, norėda­
-    mas jį išvyti iš Poleksijos, kurią Jonušas, Mazovijos
-    kunigaikštis, kilus nesutarimams tarp Lietuvos valdo­
-    vų, buvo neseniai atėmęs iš lietuvių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196269"></a>
+- t-004
+  global_id: t-196269
+  teiginys: "Pavakaryje Vytautas, apsivilkęs mergaitės drabužiais, praėjo pro sargybinius, nusileido nuo sienų, užsėdo ant žirgo ir paspruko į Mazoviją."
   pagrindžia:
-    - t-002
+    - c-178604
 
 ## Citatos
 
 - id: c-168903
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 272."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vienas sargybinis kar­
+    Lais­
+    vai prie jo prileidžiama tebuvo žmona Ona, kuri, lais­
+    va valia nutarusi dalytis su vyru likimo užkrautais var­
+    gais, čia jį ir palydėjo su dviem mergaitėmis. Ši
+    aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
+    vę: dažnai juk likimą lemia menkų menkiausios prie­
+    žastys. Vienas sargybinis kar­
     tą įspėjo Oną, jog Vytautui
     gresianti mirtis, pridurdamas,
     kad Jogailos siųsti budeliai
@@ -143,7 +100,7 @@ Nenurodyta
     apsivilkęs mergaitės drabužiais, Vytautas lyg niekur
     nieko praėjo pro sargybinius, tamsoje nusileidęs nuo
     sienų, užsėdo ant žirgo ir pa-
-    P a b ėg a  iš p radžių  į
+    P a b ėg a iš p radžių į
     spruko į Mazoviją.
   statusas: verified
   teiginio_tipas: faktas
@@ -155,8 +112,7 @@ Nenurodyta
 - id: c-168904
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 273."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tiesą sakant,
     jam derėjo ne kalbėti užuolankomis, o aiškiai prisi­
@@ -186,3 +142,75 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185543
+
+- id: c-178603
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Nedrįso Jogaila greitosiomis imtis
+    prieš jį kokių griežtesnių priemonių ir dėl senos drau­
+    gystės, ir dėl to, kad žinojo, jog šis ir paskutiniuoju
+    V iln iu je J o g a ila įsa ­
+    k o su im ti K ę stu tį ir
+    V y ta u tą
+    K ęstu tis K r ė v o je p a ­
+    sm a u g ia m a s,
+    V id i-
+    m a n ta s
+    n u k a n k in a ­
+    m a s
+    ratu,
+    V y ta u ta s
+    įm eta m a s k a lėjim a n
+    2 7 3
+
+    laiku rodąs jam palankumą. Jis taip ilgai brandino nu­
+    sikalstamą sumanymą, kad Vytautas turėjo pakanka­
+    mai laiko išlikti gyvas ir sulaukti geresnių dienų. Kai
+    jį vežė iš Vilniaus į Krėvą, jam rodė karališką pagar­
+    bą; čia irgi buvo laikomas nelyginant karalius, tik
+    nuolatos saugomas budrios sargybos, kuri neleido nei
+    su artimaisiais pasimatyti, nei su kuo pasikalbėti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196267
+
+- id: c-178604
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Žmona
+    apie viską pranešė vyrui ir
+    patarė apsirengus merginos drabužiais apgauti sargy­
+    binius ir pasprukti iš priešo rankų ir nuo tikros mir­
+    ties: draugai jau, girdi, parūpinę visko, kas reikalinga
+    bėgliui. Kaip sumanyta, taip ir padaryta: pavakaryje,
+    apsivilkęs mergaitės drabužiais, Vytautas lyg niekur
+    nieko praėjo pro sargybinius, tamsoje nusileidęs nuo
+    sienų, užsėdo ant žirgo ir pa-
+    P a b ėg a iš p radžių į
+    spruko į Mazoviją. Ten jį
+    M a z o v iją ,
+    p a sk u i
+    į
+    maloniai priėmė kunigaikštis
+    P rūsiją
+    Jonušas, žmonos Onos tėvas,
+    kuris jam suteikė paramą ir
+    paskyrė valdų, tačiau, neilgai trukus, gal dėl kokios
+    kitos priežasties, gal dėl to, kad žemę dažnai niokojo
+    lietuvių antpuoliai, o gal todėl, kad ryžtingas vyras
+    galvojo apie kokį būsimą karą ir dairėsi geresnių pa­
+    galbininkų, jis pasitraukė pas Konradą Celnerį, Prūsi­
+    jos magistrą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196269

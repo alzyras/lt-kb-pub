@@ -41,29 +41,13 @@ Dusburgietis teigia, kad kubicka W.
   teiginys: "W. Kubickos „Bibliografia języka staropruskiego (do 1965 r.)“ paskelbta Balstogėje 1967 m."
   pagrindžia:
     - c-61739
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'W. Kubickos „Bibliografia języka staropruskiego (do 1965 r.)“ paskelbta Balstogėje 1967 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kubicka W. Bibliografia języka staropruskiego (do 1965 r.).— ABS, Białystok, 1967,
-    5, s. 257—311.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61739
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 265"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kubicka W. Bibliografia języka staropruskiego (do 1965 r.).— ABS, Białystok, 1967,
     5, s. 257—311.

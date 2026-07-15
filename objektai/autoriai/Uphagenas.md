@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu į prielaidas apie skirių ir hirių gentis.
+Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu į prielaidas apie skirių ir hirių gentis. Senovės tyrinėtojai, pradedant Plinijaus kom piliacijomis ir baigiant nuodugniai mąstančiu Uphagenu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, net mokytasis ponas Foigtas patenka į keblią padėtį šia prasme ir daro visiškai netaiklias išvadas2.
 
 ## Teiginiai
 
@@ -35,23 +35,30 @@ Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu
   teiginys: "Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu į prielaidas apie skirių ir hirių gentis."
   pagrindžia:
     - c-174542
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197656"></a>
+- t-002
+  global_id: t-197656
+  teiginys: "Senovės tyrinėtojai, pradedant Plinijaus kom piliacijomis ir baigiant nuodugniai mąstančiu Uphagenu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, net mokytasis ponas Foigtas patenka į keblią padėtį šia prasme ir daro visiškai netaiklias išvadas2."
+  pagrindžia:
+    - c-174542
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu į prielaidas apie skirių ir hirių gentis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Galbūt ir
-    lietuvių kalba jie vadinosi skiriais, nes esama panašiai
-    skambančių senovės vietovardžių: Skirvytė, Skirai, Skir-
-    nreliškės1. Senovės tyrinėtojai, pradedant Plinijaus kom­
+    Senovės tyrinėtojai, pradedant Plinijaus kom­
     piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
     nu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis,
     net mokytasis ponas Foigtas patenka į keblią padėtį šia
     prasme ir daro visiškai netaiklias išvadas2. Pernelyg daug
     laiko reikėtų tam, kad paneigtume visas hipotezes, o ant­
     ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
-    vėliau parašyti.
+    vėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­
+    rės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,
+    j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
+    įsikūrusi Bartėnų seniūnijoje.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -59,29 +66,33 @@ Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-174542
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 275"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 275."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Galbūt ir
-    lietuvių kalba jie vadinosi skiriais, nes esama panašiai
-    skambančių senovės vietovardžių: Skirvytė, Skirai, Skir-
-    nreliškės1. Senovės tyrinėtojai, pradedant Plinijaus kom­
+    Senovės tyrinėtojai, pradedant Plinijaus kom­
     piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
     nu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis,
     net mokytasis ponas Foigtas patenka į keblią padėtį šia
     prasme ir daro visiškai netaiklias išvadas2. Pernelyg daug
     laiko reikėtų tam, kad paneigtume visas hipotezes, o ant­
     ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
-    vėliau parašyti.
+    vėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­
+    rės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,
+    j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
+    įsikūrusi Bartėnų seniūnijoje. Vėliau sužinosime, kad ją įkūrė dar
+    XIII amžiuje arba XIV amžiaus pradžioje ateiviai iš kitų Lietuvos
+    žemės kraštų.
+  citata_rodoma: "Senovės tyrinėtojai, pradedant Plinijaus kom­\npiliacijomis ir baigiant nuodugniai mąstančiu Uphage- \nnu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, \nnet mokytasis ponas Foigtas patenka į keblią padėtį šia \nprasme ir daro visiškai netaiklias išvadas2. Pernelyg daug \nlaiko reikėtų tam, kad paneigtume visas hipotezes, o ant­\nra vertus, tektų kartoti tai, ką jau rašėme arba ketiname \nvėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­\nrės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,\nj Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė, \nįsikūrusi Bartėnų seniūnijoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191660
+    - t-197656

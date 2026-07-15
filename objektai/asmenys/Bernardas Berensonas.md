@@ -48,35 +48,6 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
   pagrindžia:
     - c-95117
 - susijęs iš Butrimonys: Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
-    tauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad
-    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko
-    litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
-    kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
-    buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)). O juk
-    reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai
-    susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. lau-
-    reatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių,
-    nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Be-
-    rensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda
-    Elion, 1918–1999; 1988 m. premija; tėvas emigravo iš Lietuvos į JAV bū-
-    damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
-    siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
-    premija).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-95117
@@ -105,5 +76,5 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101638
     - t-101637
+    - t-101638

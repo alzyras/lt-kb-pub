@@ -83,6 +83,7 @@ Socialinė ir prekybinė grupė.
   teiginys: "Vėlesniu metu kromininkai po kaimus nebebuvo pėsti vaikščiotojai ir daugiau supirkdavo negu parduodavo."
   pagrindžia:
     - c-177935
+
 ## Citatos
 
 - id: c-177934

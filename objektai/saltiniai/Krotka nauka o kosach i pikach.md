@@ -41,21 +41,6 @@ Krotka nauka 0 kosach i pikach, Warszawa, 1794.
   teiginys: "P. Aignerio „Krotka nauka o kosach i pikach“ 1794 m. Varšuvoje išleista sukilėlių mokymui skirtu cirkuliaru."
   pagrindžia:
     - c-41727
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 161, 1794 m. sukilimo laikais išleisto cirkuliaro, skirto sukilėlių mokymui, iliustracija,
-    vaizduojanti dalgininkų ir ietininkų kovos metodus, Aigner P. Krotka nauka 0 kosach i
-    pikach, Warszawa, 1794.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

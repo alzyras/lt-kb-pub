@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Filosofijos magistro laipsnis
 sukurta: '2026-07-12'
 variantai:
-  - fil. magistro
+  - 'fil. magistro'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -58,6 +58,7 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie 1894 m. pasiektą mok
   teiginys: "A. R. Niemi 1894 m. gavo fil. magistro laipsnį."
   pagrindžia:
     - c-178015
+
 ## Citatos
 
 - id: c-178015

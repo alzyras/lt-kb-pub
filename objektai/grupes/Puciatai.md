@@ -36,7 +36,6 @@ Narbutas Puciatus aiškina kaip Zefyrą ir Zefyriukus, o pavadinimą kildina iš
     - c-172386
 - susijęs iš [[objektai/zodynas/Pucis Puciatai Bangpūtis.md#claim-t-189243|Pucis Puciatai Bangpūtis]]: Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriukus, o pajūrio gyventojų Bangpūtį siejo su jūros putos plakimu.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas Puciatus aiškina kaip Zefyrą ir Zefyriukus, o pavadinimą kildina iš lietuviško veiksmažodžio „pučiu“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -73,23 +72,19 @@ Narbutas Puciatus aiškina kaip Zefyrą ir Zefyriukus, o pavadinimą kildina iš
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    176
-
-    ## Puslapis 176
-
-    Tu man būsi užtvarėlė:
-    Auk linksmutė ežioje,
-    Malšink troškulį mano ašaromis ir prakaitu,
-    Kol atjos mano mylimasis.
-    Tegu tau nepakenkia pikti vėjai,
-    Tegu lietus nenulenkia iki žemės,
-    Tegu tave atgaivina Zefyrai,
-    Mielieji gėlių bičiuliai)
-    Pavadinimas Pucis kilęs iš Pučiu -  pučiu, daugiskaita Pu-
-    ciataj; tai bus Zefyras ir Zefyriukai.
-    Pajūrio gyventojai šį dievaitį dar vadino Bangpūčiu (Bang-
-    putis), mat manė, kad jis^iš lėto sūpuodamas jūros vandenis,
-    krante suplakdavęs putą .
+    Įlen­
+    da į klėtis, senoms, taupioms šeimininkėms išneša grietinę,
+    duoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­
+    terims arba mergaitėms, duoda net pinigų. Moteris, suviliota
+    šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
+    Įdomią smulkmeną apie tuos dievaičius mums paliko Prū­
+    sijos kronikos . 1247 metais, kai kryžiuočiai jau valdė Pame-
+    dę ir tenykščius žmones lyg ir atvertė į krikščionių tikėjimą,
+    vis dėlto dėl nuolatinių sumaiščių ir kovų su kitų provincijų
+    gyventojais, remiamais Pamario kunigaikščio Sviatopelko, jie,
+    matyt, neturėjo pakankamai laiko pasirūpinti Pamedės vidaus
+    sutvarkymu bei atverstos tautos tikėjimo įtvirtinimu.
+  citata_rodoma: "176\n\n## Puslapis 176\n\nTu man būsi užtvarėlė:\nAuk linksmutė ežioje,\nMalšink troškulį mano ašaromis ir prakaitu,\nKol atjos mano mylimasis.\nTegu tau nepakenkia pikti vėjai,\nTegu lietus nenulenkia iki žemės,\nTegu tave atgaivina Zefyrai,\nMielieji gėlių bičiuliai)\nPavadinimas Pucis kilęs iš Pučiu -  pučiu, daugiskaita Pu-\nciataj; tai bus Zefyras ir Zefyriukai.\nPajūrio gyventojai šį dievaitį dar vadino Bangpūčiu (Bang-\nputis), mat manė, kad jis^iš lėto sūpuodamas jūros vandenis,\nkrante suplakdavęs putą ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

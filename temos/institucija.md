@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 157
+tema_objektu_skaicius: 159
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 157.
+Objektų skaičius: 159.
 
 ## Kaip naudoti
 
@@ -65,7 +65,6 @@ Objektų skaičius: 157.
 - [Latvių Tautos Taryba (institucija)](../objektai/grupes/Latvi%C5%B3%20Tautos%20Taryba)
 - [LDK Ponų Taryba (institucija, XV a.)](../objektai/grupes/LDK%20Pon%C5%B3%20Taryba)
 - [LDK žemių seimas (seimas, XV a.)](../objektai/grupes/LDK%20%C5%BEemi%C5%B3%20seimas)
-- [Lenkijos didikų ir bajorų seimas (seimas, XIV a.)](../objektai/grupes/Lenkijos%20didik%C5%B3%20ir%20bajor%C5%B3%20seimas)
 - [Lenkijos ponų taryba](../objektai/grupes/Lenkijos%20pon%C5%B3%20taryba)
 - [Lenkijos seimas Piotrkove (seimas, XVI a.)](../objektai/grupes/Lenkijos%20seimas%20Piotrkove)
 - [Lenkijos senatas](../objektai/grupes/Lenkijos%20senatas)
@@ -135,6 +134,8 @@ Objektų skaičius: 157.
 - [Radvilų prokuratorija](../objektai/grupes/Radvil%C5%B3%20prokuratorija)
 - [Romos senatas](../objektai/grupes/Romos%20senatas)
 - [Rygos miesto taryba (institucija)](../objektai/grupes/Rygos%20miesto%20taryba)
+- [Smolensko pavieto seimelis](../objektai/grupes/Smolensko%20pavieto%20seimelis)
+- [Starodubo seimelis](../objektai/grupes/Starodubo%20seimelis)
 - [Steigiamasis seimas](../objektai/grupes/Steigiamasis%20seimas)
 - [Stepono Batoro vengrų kariuomenė](../objektai/grupes/Stepono%20Batoro%20vengr%C5%B3%20kariuomen%C4%97)
 - [Suomių mokslo akademija](../objektai/grupes/Suomi%C5%B3%20mokslo%20akademija)
@@ -165,6 +166,7 @@ Objektų skaičius: 157.
 - [Vilniaus kapitula](../objektai/grupes/Vilniaus%20kapitula)
 - [Vilniaus magistratas](../objektai/grupes/Vilniaus%20magistratas)
 - [Vilniaus pirkliai](../objektai/grupes/Vilniaus%20pirkliai)
+- [Vilniaus seimelis](../objektai/grupes/Vilniaus%20seimelis)
 - [Vilniaus Senienų muziejus](../objektai/grupes/Vilniaus%20Senien%C5%B3%20muziejus)
 - [Vilniaus sukilimo centrinis komitetas](../objektai/grupes/Vilniaus%20sukilimo%20centrinis%20komitetas)
 - [Vilniaus universitetas](../objektai/grupes/Vilniaus%20universitetas)

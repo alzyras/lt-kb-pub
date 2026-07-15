@@ -50,22 +50,6 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
   teiginys: "1991 m. nuotraukoje Marius Šmitas vaizduojamas su medžiokliniu šautuvu."
   pagrindžia:
     - c-44452
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM.
-
-    p. 261, Marius Šmitas ir Pranas Kasteckas 1991 m. pučas, KAM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -83,5 +67,5 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40328
     - t-40327
+    - t-40328

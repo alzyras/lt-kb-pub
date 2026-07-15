@@ -29,13 +29,6 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
 
 ## Teiginiai
 
-<a id="claim-t-189245"></a>
-- t-001
-  global_id: t-189245
-  teiginys: "Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives, globojusias savaime augančius ar persodintus medžius."
-  pagrindžia:
-    - c-172133
-
 <a id="claim-t-189246"></a>
 - t-002
   global_id: t-189246
@@ -49,30 +42,6 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
 - susijęs iš Ragainė: Narbutas nurodo, kad Hartknocho išleistame Dusburgo veikale Ragainė klaidingai pavadinta Ramige.
 - susijęs iš Senegalo upė: Narbutas aiškina, kad portugalai fetišais pirmiausia vadino dievukus prie Senegalo upės, o vėliau terminas įgavo platesnę reikšmę.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives, globojusias savaime augančius ar persodintus medžius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    153
-
-    ## Puslapis 153
-
-    Ragana (Ragana)
-    Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei­
-    vės, globojančios tam tikrus medžius, augančius savaime arba
-    kieno nors persodintus. Tokie medžiai yra užkerėti, tad pavo­
-    jinga juos liesti.
-    Kiekviena ragana turėjo savo medį, kurį globojo stengda­
-    masi padalyti viską, kad jis būtų sveikas ir augtų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas rašo, kad šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis bei šarkomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -94,42 +63,24 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
 
 ## Citatos
 
-- id: c-172133
+- id: c-172134
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    153
-
-    ## Puslapis 153
-
-    Ragana (Ragana)
-    Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei­
-    vės, globojančios tam tikrus medžius, augančius savaime arba
-    kieno nors persodintus. Tokie medžiai yra užkerėti, tad pavo­
-    jinga juos liesti.
-    Kiekviena ragana turėjo savo medį, kurį globojo stengda­
-    masi padalyti viską, kad jis būtų sveikas ir augtų.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189245
-
-- id: c-172134
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
-  citata_originali: |
-    Šios deivės yra tikra antikinių hamadriadžių kopija.
-    Prietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,
-    dabar raganomis vadina tam tikras kerėtojas, galinčias pasi­
-    versti katėmis bei šarkomis ir skraidančias raitomis ant ožio.
-    Pavasarį perkūno oželis, aukštai iškildamas į orą, mekena ožio
-    balsu, tad valstiečiai sako, kad ragana skrendanti raita ant ožio
-    ir kankinanti jį savo pentinais, todėl tas bliaunąs.
+    Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
+    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
+    nė, būdama gyva, garsėjo savo kilniaširdiškumu. Žuvus vyrui
+    ir jau Vytautui viešpataujant Lietuvoje, ji sugrįžo atgal į Pa­
+    langą ir ten, laikydamasi savo senojo tikėjimo, 1416 metais
+    užbaigė gyvenimą.
+  citata_rodoma: "Šios deivės yra tikra antikinių hamadriadžių kopija.\nPrietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,\ndabar raganomis vadina tam tikras kerėtojas, galinčias pasi­\nversti katėmis bei šarkomis ir skraidančias raitomis ant ožio.\nPavasarį perkūno oželis, aukštai iškildamas į orą, mekena ožio\nbalsu, tad valstiečiai sako, kad ragana skrendanti raita ant ožio\nir kankinanti jį savo pentinais, todėl tas bliaunąs."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

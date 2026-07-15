@@ -47,8 +47,8 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
   teiginys: "Prastuomenė Dusburgiečio kronikoje vadinama communis populus arba ignobiles."
   pagrindžia:
     - c-57653
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prastuomenė Dusburgiečio kronikoje vadinama communis populus arba ignobiles.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -71,14 +71,17 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
 - id: c-57653
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 68"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    208 Paprastus žmones, prastuomenę D. vadina communis populus  (III, 5, 188,
+    Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum):
+    Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267,
+    269, 306, 310, 356).
+    208 Paprastus žmones, prastuomenę D. vadina communis populus (III, 5, 188,
     249, 259, 291; Jer,— dî gemeine schar) arba ignobiles — nekilmingieji (III, 5, 220).
     Jis vardija vargšus, neturtingus (pauperes), menkus, silpnus (impotentes), vergus ir
     tarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,
     130), taip pat laukininkus — valstiečius (rustict — III, 262).
+  citata_rodoma: "208 Paprastus žmones, prastuomenę D. vadina communis populus  (III, 5, 188,\n249, 259, 291; Jer,— dî gemeine schar) arba ignobiles — nekilmingieji (III, 5, 220).\nJis vardija vargšus, neturtingus (pauperes), menkus, silpnus (impotentes), vergus ir\ntarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,\n130), taip pat laukininkus — valstiečius (rustict — III, 262)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

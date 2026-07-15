@@ -35,28 +35,6 @@ Tačiau ir tos sutar­ ties, kaip ir visų kitų, galia parėjo ne nuo pergament
   teiginys: "Ostrovos akto galia priklausė ne nuo pergamento, o nuo faktinių jėgų santykių ir diplomatinių sugebėjimų."
   pagrindžia:
     - c-38378
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl savo rašte Jogaila pažymėjo,
-    kad Vytautas yra kviečiamas padėti valdyti bendros Lietuvos
-    — Lenkijos valstybės dalies — Lietuvos. Tačiau ir tos sutar­
-    ties, kaip ir visų kitų, galia parėjo ne nuo pergamento, kuriame
-    buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavi­
-    mo ir nuo diplomatinių sugebėjimų^1 ). Vėlybesni įvykiai parodė,
-    kad Vytautas naudojasi daug didesnėmis laisvėmis ir teisėmis,
-    negu Ostrovos aktas pripažino; jis ne kartą ir pačiai Lenkijai
-    pagrūmodavo, kas turėjo reikšti jo galybę, turinčią savarankiš­
-    ką pamatą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

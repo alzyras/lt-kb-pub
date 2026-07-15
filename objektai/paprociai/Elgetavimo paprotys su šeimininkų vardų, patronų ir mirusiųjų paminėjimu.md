@@ -65,6 +65,7 @@ Nenurodyta
   teiginys: "Eidamas pas žmones elgeta turėjo žinoti šeimininkų vardus, paminėti patronus ir melstis už mirusiųjų dūšias."
   pagrindžia:
     - c-177805
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

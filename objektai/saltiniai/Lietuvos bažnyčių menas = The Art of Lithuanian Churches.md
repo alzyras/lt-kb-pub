@@ -41,24 +41,6 @@ Lietuvos bažnyčių menas = The Art of Lithuanian Churches.
   teiginys: "Leidinys „Lietuvos bažnyčių menas = The Art of Lithuanian Churches“ buvo išleistas Vilniuje 1993 m."
   pagrindžia:
     - c-48409
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Leidinys „Lietuvos bažnyčių menas = The Art of Lithuanian Churches“ buvo išleistas Vilniuje 1993 m.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Parengė
-    Aldona Bieliūnienė ir kiti. Vilnius, 1999; Lietuvos bažnyčių menas = The Art of
-    Lithuanian Churches. Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
-    Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
-    darbas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

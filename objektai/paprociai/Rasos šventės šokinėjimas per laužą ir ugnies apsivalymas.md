@@ -52,8 +52,8 @@ Nenurodyta
   teiginys: "Narbutas ugnies krikštą siejo su plaukų pakirpimu ir skyrė jį nuo apsivalomojo šokinėjimo per ugnį."
   pagrindžia:
     - c-172749
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas ugnies krikštą siejo su plaukų pakirpimu ir skyrė jį nuo apsivalomojo šokinėjimo per ugnį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -79,17 +79,17 @@ Nenurodyta
 - id: c-172749
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 343"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 343."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šis ugnies krikštas, arba apsivalymas
-    panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
-    sakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­
-    gas nuo apsivalomojo šokinėjimo per ugnį. Strijkovskis aiškiai
-    tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės
-    romėnai, kurie taip krikštydavosi per Palilėjų šventes deivės
-    Palės garbei.
-    Būrimus, darytus su ugnimi, uždegta šv.
+    Paltu messu (paltį mėsos. - R. J.)
+    reiškia pusę kiaulės skerdienos kartu su riebalais, įprastinę ro­
+    mėnų ir lietuvių auką, kurią kaimiečiai atnašauja dievams. Si
+    maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­
+    šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode­
+    rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
+    gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
+    ne. muskis. und man'.
+  citata_rodoma: "Šis ugnies krikštas, arba apsivalymas\npanaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­\nsakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­\ngas nuo apsivalomojo šokinėjimo per ugnį. Strijkovskis aiškiai\ntvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės\nromėnai, kurie taip krikštydavosi per Palilėjų šventes deivės\nPalės garbei.\nBūrimus, darytus su ugnimi, uždegta šv."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

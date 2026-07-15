@@ -36,35 +36,13 @@ Narbutas rašė, kad kronikininkai Svaistiką arba Svaitestiksą mini kaip švie
   teiginys: "Narbutas rašė, kad kronikininkai Svaistiką arba Svaitestiksą mini kaip šviesos dievą, o jo vardą aiškino kaip šviesos teikėją."
   pagrindžia:
     - c-175119
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie tai plačiai kalba
-    ponas Riteris savo Siaurės senovės tyrimuose15.
-    Kronikininkai mini Svaistiką (Szwajstix) arba Svaitestiksą
-    (Swajtestix) kaip šviesos dievą: lietuviškai tas žodis reiškia švie­
-    sos teikėją arba žadinančiąją šviesą, o tai atitinka senovės Fe­
-    bą.
-    „Lietuviams saulė, vadinama Sotuar, priklauso pirmosios
-    eilės dievams, sakytum, lyg pasaulio prikėlėja arba pasaulio
-    dvasia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-175119
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 100"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 100."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie tai plačiai kalba
     ponas Riteris savo Siaurės senovės tyrimuose15.

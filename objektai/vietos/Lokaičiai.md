@@ -45,43 +45,16 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Daujotas.md#claim-t-190141|Daujotas]]: Narbutas rašo, kad 1813 m. Lokaičių palivarko nuomotojas Daujotas jam pasakojo gavęs varinį žiedą iš Lokaičiuose rastų daiktų.
 - susijęs iš Marijampolės apskritis: 1809 m. Lokaičių kaime Marijampolės apskrityje kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų.
 - susijęs iš Nemunas: Narbutas rašė, kad 1809 m. Lokaičiuose prie kairiojo Nemuno kranto rasta daug ginklų nuolaužų ir metalinių daiktų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1809 m. Lokaičių kaime kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Man sakė, kad Karaliaučiuje
-    buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­
-    das žirgas, o ant jo -  juodas gaidys.
-    1809 metais Marijampolės apskrityje, netoli nuo kairiojo
-    Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
-    liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil­
-    žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų:
-    lai buvo rūdžių suėsti kalavijai, kardai, berdyšiai, skydai, ant­
-    veidžiai, kai kurie variniai ir sidabriniai daiktai. 1813 metais jo
-    mylista Daujotas, anuometinis Lokaičių palivarko nuomoto­
-    jas, man pasakojo: „Gavau varinį žiedą su puse colio pločio,
-    11 colių diametro“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-171844
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Man sakė, kad Karaliaučiuje
     buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­
-    das žirgas, o ant jo -  juodas gaidys.
+    das žirgas, o ant jo - juodas gaidys.
     1809 metais Marijampolės apskrityje, netoli nuo kairiojo
     Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
     liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil­

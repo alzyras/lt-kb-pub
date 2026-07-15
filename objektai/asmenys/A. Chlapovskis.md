@@ -42,45 +42,6 @@ Chlapovskis mėgino vyriausiąjį vadą generolą A. Chlapovskiui, kurio žinioj
   teiginys: "Generolas Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti."
   pagrindžia:
     - c-41269
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Matydami stiprią rusų gynybą, sukilėlių
-    kariuomenės štabo viršininkas pulkininkas
-    E Doterivas ir generolas D. Chlapovskis
-    mėgino vyriausiąjį vadą generolą A. Gel-
-    gaudą atkalbėti nuo puolimo ir siūlė pa-
-    sitraukti, bet jis riktelėjo: „Trauktis - aš
-    nenoriu!“ Jo planas buvo paprastas: prasi-
-    veržti per priešo gynybos liniją, priversti jį
-    trauktis per sudėtingą Panerių kalvų reljefą
-    ir bėgantį sutriuškinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Gen. A. Gelgaudas pavedė gen. A. Chlapovskiui organizuoti sukilėlių kariuomenės atsitraukimą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sukilėlių kariuomenės atsitraukimą
-    gen. A. Gelgaudas pavedė organizuoti gen.
-    A. Chlapovskiui, kurio žinioje buvo paliktas
-    1-asis ulonų pulkas, Kališo raitelių dalinys,
-    kuopa jėgerių ir viena artilerijos baterija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

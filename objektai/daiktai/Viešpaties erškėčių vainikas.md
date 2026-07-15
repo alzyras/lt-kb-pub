@@ -62,49 +62,19 @@ Nenurodyta
   pagrindžia:
     - c-60341
 
-<a id="claim-t-59709"></a>
-- t-002
-  global_id: t-59709
-  teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
-  pagrindžia:
-    - c-60341
-
 <a id="claim-t-194437"></a>
-- t-003
+- t-002
   global_id: t-194437
   teiginys: "Apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol."
   pagrindžia:
     - c-60341
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie viešpaties erškėčių vainiko perkėlimą
-
-      1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio  į
-    Paryžių viešpaties erškėčių vainiką (Ptol. 21,36).
-
-
-
-    27.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 
 - id: c-60341
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 229"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie viešpaties erškėčių vainiko perkėlimą
 
@@ -120,5 +90,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59709
-    - t-183982
     - t-194437

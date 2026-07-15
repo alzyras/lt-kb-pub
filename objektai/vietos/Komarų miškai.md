@@ -46,6 +46,7 @@ Komarų miškai šiame šaltinyje yra miškai.
   teiginys: "Pasakojime sakoma, kad Belazaro skalikai ežį nusivijo per laukus į Komarų miškus."
   pagrindžia:
     - c-178061
+
 ## Citatos
 
 - id: c-178061
@@ -66,18 +67,7 @@ Komarų miškai šiame šaltinyje yra miškai.
     ji tada dar buvo ežio nemačiusi ir tarė: „Sako, kad ežys labai
     greitas.“
     Vyrai ėmė kvatoti: pajuokė mergelę.
-  citata_rodoma: "Štai vieną sykį Mataušas su ki­
-tu vyru valgo pietus.
-Barbora jiems padavinėja.
-Vyrai, žiūrėdami į
-mergaitę, pradeda kalbėti apie tai, kad ežys esąs dideliai greitas žvė­
-ris; girdi, vieną sykį Belazaro skalikai pakėlė ežį ir nusivijo per lau­
-kus į Komarų miškus ir niekur nesurado.
-Barbora prisidėjo prie kal­
-bos.
-ji tada dar buvo ežio nemačiusi ir tarė: „Sako, kad ežys labai
-greitas.“
-Vyrai ėmė kvatoti: pajuokė mergelę."
+  citata_rodoma: "Štai vieną sykį Mataušas su ki­\ntu vyru valgo pietus. \nBarbora jiems padavinėja. \nVyrai, žiūrėdami į \nmergaitę, pradeda kalbėti apie tai, kad ežys esąs dideliai greitas žvė­\nris; girdi, vieną sykį Belazaro skalikai pakėlė ežį ir nusivijo per lau­\nkus į Komarų miškus ir niekur nesurado. \nBarbora prisidėjo prie kal­\nbos. \nji tada dar buvo ežio nemačiusi ir tarė: „Sako, kad ežys labai \ngreitas.“ \nVyrai ėmė kvatoti: pajuokė mergelę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

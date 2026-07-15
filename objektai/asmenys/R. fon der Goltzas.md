@@ -50,40 +50,6 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
   teiginys: "1919 m. pradžioje gen. R. fon der Goltzas buvo paskirtas vokiečių pajėgų Baltijos šalyse vadu."
   pagrindžia:
     - c-42198
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    == 1919 m. pradžioje Vokietijos karinė vadovybė vokiečių
-    pajėgų Baltijos šalyse vadu paskyrė gen. R. fon der Goltzq.
-    Jo vadovaujamos pajėgos turėjo padėti Baltijos valstybėms
-    kovoti su bolševikais. Tačiau Vokietija siekė išsaugoti įtaką
-    Baltijos šalyse. Goltzas savo priešais laikė ne tik bolševikus,
-    bet ir Lietuvos bei Latvijos vyriausybes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1919 m. spalio 12 d. gen. R. von der Goltzas buvo pakeis-
-    tas gen. W. Eberhardtu. Dalis vokiečių grįžo į Vokietiją, ta-
-    čiau didesnė dalis įsiliejo į Bermonto pajėgas. Jiems buvo
-    mokama gera alga, pergalės atveju žadama duoti žemės
-    Latvijoje ar Lietuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

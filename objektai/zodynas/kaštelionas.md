@@ -66,85 +66,22 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 - susijęs iš [[objektai/asmenys/Aleksandras Jurgėvičius.md#claim-t-87616|Aleksandras Jurgėvičius]]: Aleksandras Jurgėvičius 1501 metais Gardine minėtas kaip Vilniaus kaštelionas ir Gardino seniūnas.
 - susijęs iš [[objektai/asmenys/Jonas Švitrigaila.md#claim-t-87734|Jonas Švitrigaila]]: Jonas Švitrigaila buvo Trakų kaštelionas, priskirtas Lietuvos didikams.
 - susijęs iš [[objektai/asmenys/Jurgis (Vilniaus kaštelionas, Barboros tėvas).md#claim-t-87739|Jurgis (Vilniaus kaštelionas, Barboros tėvas)]]: Jurgis buvo Vilniaus kaštelionas ir Barboros Radvilaitės tėvas.
-- susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186030|Andrejus Kurbskis]]: Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurbskį su visais palydovais.
+- susijęs iš [[objektai/asmenys/Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.).md#claim-t-200494|Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.)]]: Aleksandras Pšezdieckis buvo Livonijos kaštelionas.
+- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200487|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: Martynas Tiškevičius buvo Vitebsko kaštelionas.
+- susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200619|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1757 m. Lopacinskis su Vitebsko kaštelionu Martynu Tiškevičiumi tarėsi dėl seimelio reikalų ir Sapiegų interesų.
 - susijęs iš [[objektai/asmenys/Aštikas.md#claim-t-87629|Aštikas]]: 1434 m. rugsėjo 8 d. Trakuose Vilniaus kaštelionas Aštikas buvo tarp akto patvirtinimui pritarusių asmenų.
-- susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-184697|Eustachijus Valavičius]]: Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.
 - susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87394|Jonas Hlebavičius]]: Minsko kaštelionas Jonas Hlebavičius apie 1580 m. globojo Danieliaus iš Lenčicos evangelikų reformatų spaustuvę.
+- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200488|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: 1757 m. Vitebsko kaštelionas Martynas Tiškevičius tarėsi su Jonu Dominyku Lopacinskiu dėl seimelio reikalų ir Sapiegų interesų.
 - susijęs iš [[objektai/asmenys/Mikalojus (Medininkų vyskupas nominatas).md#claim-t-87780|Mikalojus (Medininkų vyskupas nominatas)]]: Mikalojus sutartyje buvo nurodytas kaip Medininkų, arba Žemaitijos, vyskupas nominatas tarp kunigaikščių ir prelatų.
-- susijęs iš [[objektai/asmenys/Mikalojus Naruševičius.md#claim-t-186151|Mikalojus Naruševičius]]: Iždininkas Mikalojus Naruševičius dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186350|Mikalojus Radvila]]: Vilniaus vaivada Mikalojus Radvila dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.
 - susijęs iš [[objektai/asmenys/Motiejus (Vilniaus vyskupas).md#claim-t-87448|Motiejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui.
 - susijęs iš [[objektai/asmenys/Mykolas Skirgaila.md#claim-t-87802|Mykolas Skirgaila]]: Mykolas Skirgaila buvo Žemaičių seniūnas, sutartyje paminėtas tarp Lietuvos didikų.
-- susijęs iš [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas.md#claim-t-185700|Gardino taikos derybos su maskvėnais ir jų žlugimas]]: Gardino derybose su maskvėnais Lietuvos senatoriai buvo paskirti vieni pasiuntiniams priimti, kiti valstybės reikalams aptarti.
-- susijęs iš [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas.md#claim-t-185869|Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]: Karalius senatoriams atskyrė pareigas: vieni turėjo sutikti, priimti ir vaišinti maskvėnų pasiuntinius, o kiti derėtis dėl valstybės reikalų.
 - susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilniuje ir Trakuose turėjo būti įsteigtos vaivados ir kašteliono pareigybės.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
-    lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada
-    ir kaštelionas, taip pat ir Trakuose...”
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1566 m. Žemaitijai buvo paskirtas kaštelionas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Čia nuo Vytauto laikų buvo krašto
-    viršininkas, vadinamas seniūnu. Jis buvo lygus su vaiva-
-    domis. Vėliau Žemaitijai buvo paskirtas ir kaštelionas
-    (1566 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Unijos akto 11 paragrafu Jogaila ir Vytautas pažadėjo Vilniuje ir Trakuose įsteigti Lenkijos pavyzdžio kašteliono pareigybę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogaila su Vytautu unijos akto 11 § pažadėjo, kad
-    „dignitates, sedes et officia, prout in regno Poloniae instituta
-    sunt, instituentur et locabantur in Vilna scilicet palatinus et cas­
-    tellanus vilnensis et demum in Trokky“...^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Kaštelionai karo reikaluose ir teismuose buvo tarsi Vilniaus ir Trakų vaivadų padėjėjai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tai buvo lenkiškojo tipo urėdai,
-    kurie vesdavo savo srities bajoriją į karą ir turėdavo kitokių,
-    į vietininkų panašių, pareigų. Jiems karo reikaluose ir teismuose
-    tarsi padėjėjai buvo kaštelionai. (Bet tose dviejose di-
-    džiulėse vaivadijose buvo taip pat ir vietininkų, valdančių di-
-    džiojo kunigaikščio dvarus su mažesnėmis apylinkėmis).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
+- susijęs iš [[objektai/asmenys/Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.).md#claim-t-200495|Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.)]]: 1730 m. kanauninkas derėjosi su Livonijos kaštelionu Aleksandru Pšezdieckiu dėl Dombrovnos prie Oršos ir Skuodo valdų.
+- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200511|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas buvo Minsko vaivada.
+- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200512|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas teigė atvyksiąs į Vilnių, todėl jam reikėjo numatyti vietą M. Lopacinskio mūriniame name.
+- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200488|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: 1757 m. Vitebsko kaštelionas Martynas Tiškevičius tarėsi su Jonu Dominyku Lopacinskiu dėl seimelio reikalų ir Sapiegų interesų.
+- susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200502|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: Tomas Ignotas Zenkovičius buvo Baltarusijos sufraganas.
+- susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200503|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: 1755 m. į Tomo Ignoto Zenkovičiaus konsekraciją atvyko Mikalojus Lopacinskis, Tadas Oginskis, Stanislovas Bužinskis ir Antanas Dominykas Tiškevičius.
 ## Citatos
 
 - id: c-14693

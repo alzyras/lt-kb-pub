@@ -54,36 +54,6 @@ media_all_json: |-
   teiginys: "Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“."
   pagrindžia:
     - c-176415
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kai bokšto gynėjų buvo gerokai mažiau, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Čia bokšto
-    gynėjų buvo žymiai mažiau. Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom
-    ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom
-    ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“. Tada vyrai sustojo ant kelio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

@@ -27,11 +27,12 @@ media_all_json: |-
 
 Dusburgietis teigia, kad apie vieną stebuklą Šioje kariuomenėje buvo vienas grafas magistras Vilhelmas, vengrų karvedys, kuriam naktį, kai jis ilsėjosi savo lovoje, pasirodė švenčiausioji mergelė ir, rūsčiais žodžiais jį išbarusi, pasakė: „Kodėl siaubi mano žemę, aplaistytą daugybės.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Mergelė Marija grafui magistrui Vilhelmui pranašavo nelaimingą mirtį, jeigu jis nepasitrauks iš jos žemės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+- id: c-167419
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     18. Apie vieną stebuklą
 
@@ -39,8 +40,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Šioje kariuomenėje buvo vienas 
     naktį, kai jis ilsėjosi savo lovoje, pasirodė švenčiausioji mergelė ir, rūsčiais žodžiais jį
     išbarusi, pasakė: „Kodėl siaubi mano žemę, aplaistytą daugybės krikščionių krauju?
     Jeigu nepasitrauksi, žinok, kad netrukus susilauksi nelaimingos mirties”.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

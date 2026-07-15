@@ -58,24 +58,6 @@ Nenurodyta
   teiginys: "Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“."
   pagrindžia:
     - c-23252
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tiesa,
-    nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
-    arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų
-    tautą, o Lietuvą laikė Lenkijos dalimi. Būtent ši samprata iškilo 1920 m.
-    Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
-    suformuota „Vidurinė Lietuva“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

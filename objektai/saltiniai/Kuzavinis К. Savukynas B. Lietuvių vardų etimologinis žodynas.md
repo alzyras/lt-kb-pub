@@ -40,35 +40,17 @@ Dusburgietis teigia, kad kuzavinis К.
   teiginys: "K. Kuzavinio ir B. Savukyno „Lietuvių vardų etimologinis žodynas“ paskelbtas 1971 m. leidinyje „Vardai ir žodžiai“, p. 42–157."
   pagrindžia:
     - c-61749
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'K. Kuzavinio ir B. Savukyno „Lietuvių vardų etimologinis žodynas“ paskelbtas 1971 m. leidinyje „Vardai ir žodžiai“, p. 42–157.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kuzavinis К. Savukynas B. Lietuvių vardų etimologinis žodynas.— Vardai ir žodžiai, V.,
-    1971, p. 42—157.
-      Labuda G. Stosunek prawnopubliczny Zakonu Krzyżackiego do Rzeszy Niemieckiej
-    w świetle ztotej bulli Fryderyka II z r.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61749
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kuzavinis К. Savukynas B. Lietuvių vardų etimologinis žodynas.— Vardai ir žodžiai, V.,
     1971, p. 42—157.
-      Labuda G. Stosunek prawnopubliczny Zakonu Krzyżackiego do Rzeszy Niemieckiej
+    Labuda G. Stosunek prawnopubliczny Zakonu Krzyżackiego do Rzeszy Niemieckiej
     w świetle ztotej bulli Fryderyka II z r.
   citata_rodoma: "Kuzavinis К. Savukynas B. Lietuvių vardų etimologinis žodynas.— Vardai ir žodžiai, V.,\n1971, p. 42—157."
   statusas: verified

@@ -53,38 +53,6 @@ Nenurodyta
   pagrindžia:
     - c-167068
 
-<a id="claim-t-41356"></a>
-- t-002
-  global_id: t-41356
-  teiginys: "Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti."
-  pagrindžia:
-    - c-167068
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Žuvo apie
-
-    30 sukilėlių ir pats būrio vadas. Vilniaus
-    apskrityje veikę Liudviko Narbuto vado-
-    vaujami sukilėliai kovėsi su rusų kariuo-
-    mene prie Rūdninkų ir Dubičių, kur žuvo
-    pats Narbutas, o sukilėliai buvo išblaškyti.
-
-    Kauno gubernijoje vienas pirmųjų su-
-    kilimo organizatorių buvo kunigas An-
-    tanas Mackevičius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-167068
@@ -108,5 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183676
     - t-41356

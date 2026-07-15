@@ -7,15 +7,15 @@ datos:
   - '1285 m.'
 date_start: '1285'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,8 +43,8 @@ Dusburgietis teigia, kad apie tai, kaip žuvo Konradas, Vokietijos kunigas, pers
   teiginys: "1285 m. Vokietijos kunigas Konradas persikėlė į Lietuvą atversti stabmeldžių, o po dvejų metų lietuviai jį nužudė."
   pagrindžia:
     - c-60995
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1285 m. Vokietijos kunigas Konradas persikėlė į Lietuvą atversti stabmeldžių, o po dvejų metų lietuviai jį nužudė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -68,15 +68,18 @@ Dusburgietis teigia, kad apie tai, kaip žuvo Konradas, Vokietijos kunigas, pers
 - id: c-60995
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 239"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 239."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių
-                                              atversti
-
-      1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė  į Lietuvos kraštą
-    atversti stabmeldžių. Kai jis čia nugyveno dvejus metus, lietuviai jį nužudė. Toje vietoje,
-    kur jį nužudė, vėliau dažnai galėjai išvysti degant žvakes.
+    Todėl ir tas, kuris per šešias dienas vienu žodžiu viską sukūrė,
+    daugiau nei 33 metus pasaulyje triūsė, nes troško atpirkti nuodėmę. Šitai ir yra vienui
+    vienas dalykas, kuris jam nepatinka, kuris žeidžia jo didybę, kuris žadina jo — tokio
+    švelnaus ir malonaus — rūstį, šitai yra tas dalykas, kuris iš angelo padaro velnią, iš
+    laisvojo — vergą, iš sveikojo — paliegėlį ir galadienį, iš laimingojo— pavargėlį, iš piliečio
+    — užguitą tremtinį, iš dievo sūnų — velnio sūnus, šitai yra tas dalykas, kuris niekada
+    nepalieka be bausmės. Todėl, pasvėręs nuodėmes nedorųjų žmonių, kurie visokeriopai
+    teršė piktadarystėmis šventąją žemę, pavirto, jų sukurstytas, žiauruoliu jis, tas, kuris iš
+    prigimties yra meilus ir švelnus.
+  citata_rodoma: "Apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių\n                                          atversti\n\n  1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė  į Lietuvos kraštą\natversti stabmeldžių. Kai jis čia nugyveno dvejus metus, lietuviai jį nužudė. Toje vietoje,\nkur jį nužudė, vėliau dažnai galėjai išvysti degant žvakes."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

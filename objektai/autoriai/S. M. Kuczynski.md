@@ -33,41 +33,16 @@ media_all_json: |-
 
 ## Santrauka
 
-S. M. Kuczynski figūruoja kaip Dubrovnos mūšis) yra lokiu pavidalu žinomas lik iš BK.
+S. M. Kuczynskio nuomone, apie 85 procentai Bychovco kronikos pasakojimo faktų apie Žalgirio mūšį yra artimi tiesai.
 
 ## Teiginiai
 
 <a id="claim-t-194149"></a>
 - t-001
   global_id: t-194149
-  teiginys: "S. M. Kuczynski figūruoja kaip Dubrovnos mūšis) yra lokiu pavidalu žinomas lik iš BK."
+  teiginys: 'S. M. Kuczynskio nuomone, apie 85 procentai Bychovco kronikos pasakojimo faktų apie Žalgirio mūšį yra artimi tiesai.'
   pagrindžia:
     - c-176762
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'S. M. Kuczynski figūruoja kaip Dubrovnos mūšis) yra lokiu pavidalu žinomas lik iš BK.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    263
-
-    ## Puslapis 256
-
-    Tolimesnis pasakojimas apie svarbiausia šio karo epizodą -
-    Žalgirio (Griunvaldo arba Tanenbergol mūši (BK jis figūruoja kaip
-    Dubrovnos mūšis) yra lokiu pavidalu žinomas lik iš BK. Spe­
-    cialiai tyrusio kronikos žinias apie Žalgirio mūšj S. M. Kuiinskio
-    (S. M. KuczyAski. Studla z  dztejöw Europy W schodniej X—XVII w„
-    Warszawa. 1965, p. 218) nuomone, apie 85% laktų BK pasakojime
-    y ra artimi tiesai
-    ’ Dubrovna (vok.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -88,9 +63,9 @@ S. M. Kuczynski figūruoja kaip Dubrovnos mūšis) yra lokiu pavidalu žinomas l
     Warszawa. 1965, p. 218) nuomone, apie 85% laktų BK pasakojime
     y ra artimi tiesai
     ’ Dubrovna (vok.
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194149
+    - t-001

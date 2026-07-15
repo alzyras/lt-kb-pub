@@ -46,22 +46,6 @@ media_all_json: |-
   teiginys: "„Dabar tai jie gaus“ kareiviai kartojo pakilus ūpui po pro rinktinę pravažiavusių keturių vokiečių patrankų."
   pagrindžia:
     - c-12473
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tada pro rinktinę pravažiavo keturios vokiečių
-    patrankos. Kareivių ūpas pakilo. Noras buvo ko greičiau atkeršyti už aną dieną. Visų lūpos
-    tą patį kartojo: „Dabar tai jie gaus“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -79,5 +63,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09657
     - t-09656
+    - t-09657

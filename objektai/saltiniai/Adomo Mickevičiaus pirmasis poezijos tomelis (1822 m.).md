@@ -48,29 +48,6 @@ media_all_json: |-
   teiginys: "1822 m. Vilniuje išėjo pirmasis Adomo Mickevičiaus poezijos tomelis, o vėliau jo poezija pagarsėjo visoje Europoje."
   pagrindžia:
     - c-166744
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1822 m. Vilniuje išėjo pirmasis Adomo Mickevičiaus poezijos tomelis, o vėliau jo poezija pagarsėjo visoje Europoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tarp
-    šių organizacijų narių buvo ir A. Mickevičius, rašęs ir apie Tėvynę Lietu-
-    Adomas Mickevičius.
-    Dail. S. Heymann, 1897 m.
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    105
-    vą. 1822 m. Vilniuje išėjo pirmasis jo poezijos tomelis, vėliau savo poezija
-    A. Mickevičius pagarsėjo visoje Europoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -93,5 +70,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183352
     - t-20996
+    - t-183352

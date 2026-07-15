@@ -61,25 +61,6 @@ Nenurodyta
   teiginys: "Muštiniai buvo vartojami vėlesniais laikais kaip specialūs sidabro gabalai su pažymėtąja verte."
   pagrindžia:
     - c-00224
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pinigų senovės aisčiai neturėjo, o naudojosi svetimaisiais
-    pinigais arba paprastais aukso ar sidabro gabalais. Vėlesniaisiais
-    laikais buvo vartojami specialūs pailgi sidabro gabalai su pažy-
-    mėtąja verte. Jie buvo vadinami muštiniais. Bet daug daž-
-    niau už pinigus senovės aisčiai vartojo prekyboje įvairius bran-
-    giuosius kailius ir kitus daiktus, žodžiu, varė mainų prekybą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

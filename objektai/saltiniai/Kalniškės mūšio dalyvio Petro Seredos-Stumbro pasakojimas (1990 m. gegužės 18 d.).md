@@ -66,49 +66,6 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   teiginys: "Petras Sereda-Stumbras pasakojo, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų būrį apsupo NKVD kariuomenė."
   pagrindžia:
     - c-43260
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Petro Seredos-Stumbro pasakojime nurodoma, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų apsupo NKVD kariuomenė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    »---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD
-    kariuomenė. Simno stribų prašymu mišką apsupo iš vakaro. Keletas
-    partizanų išėjo į kaimą. Sugrįžę apie 24 val. pas ūkininką, miške ra-
-    dome pilna vyrų. Dar saulei netekėjus Ralių k. prie miško pasigirdo
-    automatų šūviai. Vyrai sukilo ir išėjo į savo vietas. Iš kaimo atbėgo
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Petras Sereda-Stumbras pasakojo, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų būrį apsupo NKVD kariuomenė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tauta ir kiekvienas pilietis turi teisę
-    priešintis bet kam, kas prievarta kėsinasi į
-    Lietuvos valstybės nepriklausomybę, terito-
-    rijos vientisumą, konstitucinę santvarką.“
-
-    MŪŠIO DALYVIO ATSIMINIMAI
-
-    Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio da-
-    lyvio Petro Seredos-Stumbro pasakojimo ištrauka:
-
-    »---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD
-    kariuomenė. Simno stribų prašymu mišką apsupo iš vakaro.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
 
 ## Citatos
 
@@ -152,5 +109,5 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78857
     - t-78856
+    - t-78857

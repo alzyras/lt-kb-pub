@@ -66,12 +66,12 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   pagrindžia:
     - c-59011
 
-<a id="claim-t-184933"></a>
+<a id="claim-t-196676"></a>
 - t-005
-  global_id: t-184933
-  teiginys: "Kraštą niokoję kryžiuočių pulkai buvo sutraukti prie Bisenės pilies ir ją apgulė."
+  global_id: t-196676
+  teiginys: "Viena kryžiuočių vora apsupo Bisenės pilį, po kovos nuo aušros iki vidurdienio ją užėmė ir sudegino."
   pagrindžia:
-    - c-168294
+    - c-178834
 - susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86984|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Bisenės pilies įgula atrėmė vokiečius nepaisydama jų sunkiųjų ginklų.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78404|Notangai]]: 1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį ir sudegino abu jos papilius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178938|Kryžiuočių ordinas]]: Kryžiuočių kariauna, pakeliui viską degindama, puolė Bisenės pilį ir mėgino ją užimti šturmu.
@@ -109,7 +109,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179282|Lietuviai]]: 1316 m. prie Bisenės pilies Ordino broliai nukovė šešis lietuvių pamaininės saugos vyrus, turėjusius trauktis iš pilies.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-187717|Lietuviai]]: Žygimantas iš Vilniaus atžygiavo su septynių tūkstančių lietuvių pajėgomis prieš gruodžio 8 d. prasidėjusį mūšį.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.).md#claim-t-185525|Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]]: Ragainės komtūras Verneris pasiūlė kryžiuočiams laivais pulti prie Nemuno ir kitų upių stovėjusias lietuvių pilis.
-- susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185497|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Vasaros pabaigoje Ragainės kryžiuočiai sudegino Pūtvės miestą prie Jūros, o miestiečius paėmė į nelaisvę arba išžudė.
+- susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185497|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Vasarai baigiantis Ragainės kryžiuočiai sudegino Pūtvės miestą Jūros pakrantėje, o miestiečius paėmė į nelaisvę arba išžudė.
 - susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185498|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Lietuviai įgulų tarnybas tvarkė taip, kad kariškai lavintųsi jaunimas.
 - susijęs iš Ariogala: Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.
 - susijęs iš Ariogala: Narbutas Liutaurą vadina jūrų karžygiu ir rašo, kad jis 1262 m. atstatė senovinę Ariogalą.
@@ -119,7 +119,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - susijęs iš Nemunas: Narbutas pateikė iš Hartknocho paimtą lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, maldos pavyzdį.
 - susijęs iš Romuva: Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58772|papilys]]: 1313 m. rudenį maršalas Henrikas užpuolė Bisenės pilį, o po ilgų kovų sudegė abu jos papiliai.
-- susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Bisenės užpuolimą pilėnai narsiai atrėmė, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
+- susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Kojelavičiaus pasakojime Bisenės pilėnai narsiai atrėmė užpuolimą, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59957|Fridrichas Kvicas]]: 1316 m. balandžio 4 d. Fridrichas Kvicas su Ditrichu iš Altenburgo, dar vienu broliu ir trimis Ragainės ginklanešiais patraukė link Bisenės pilies.
 - susijęs iš [[objektai/ivykiai/Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.).md#claim-t-185554|Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.)]]: Bisenės pilėnai narsiai atrėmė kryžiuočių puolimą ir privertė daug karių netekusį priešą pasitraukti.
 - susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97014|Bisenos sunaikinimas (1316 m.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino.
@@ -128,144 +128,26 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179282|Lietuviai]]: 1316 m. prie Bisenės pilies Ordino broliai nukovė šešis lietuvių pamaininės saugos vyrus, turėjusius trauktis iš pilies.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179282|Lietuviai]]: 1316 m. prie Bisenės pilies Ordino broliai nukovė šešis lietuvių pamaininės saugos vyrus, turėjusius trauktis iš pilies.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175084|Sembai]]: 1313 m. rudenį maršalas Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį, o abu jos papiliai sudegė.
-- susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185497|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Vasaros pabaigoje Ragainės kryžiuočiai sudegino Pūtvės miestą prie Jūros, o miestiečius paėmė į nelaisvę arba išžudė.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1313 m. rudenį Henrikas su broliais ir Sembos bei Notangos vyrais puolė Bisenės pilį, o per kovas sudegė abu jos papiliai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    319 (312). Apie Bisenės papilių sudeginimą 1313 metais
-
-      Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais
-    užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,
-    abu jos papiliai supleškėjo ugnyje.
-
-
-
-
-                    320 (313).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  santrauka: 'Henrikas iš Plockės su kariuomene ilgai puolė Bisenės pilį, bet nutraukė apgulą jos neužėmęs.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
-    visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,
-    kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę
-    karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne
-    kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: '1316 m. Fridrichas iš Libencelės prie Bisenės pilies išžudė lietuvių sargybos pamainą, išskyrus penkis pabėgusius vyrus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    328 (321). Apie 80 lietuvių žūtį 1316 metais
-
-      Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
-    60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,
-    turėjo iš čia pasitraukti, o  į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
-    išskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.
-
-
-
-
-                 329 (322).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: '1316 m. balandžio 4 d. Ditrichas iš Altenburgo, Fridrichas Kvicas ir dar vienas brolis su Ragainės ginklanešiais sudegino tuščią Bisenės pilį iki pamatų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Bisenės pilies sudeginimą 1316 metais
-
-       Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas  iš
-    Altenburgo, brolis Fridrichas Kvicas  ir dar vienas brolis patraukė su trimis Ragainės
-    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
-    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
-    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
-    broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
-    pilis paliko apleista po šiai dienai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-005
-  santrauka: 'Kraštą niokoję kryžiuočių pulkai buvo sutraukti prie Bisenės pilies ir ją apgulė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Apmalšinus žudynėmis širdis, kai, pykčiui lėgstant,
-    gėda apėmė ginkluotus karius, kad nelyginant plėši­
-    kai siaubia beginklius žmones ir kaimiečių lūšneles,
-    1322 m eta i
-    V o k ie č ių  ir k r y ž iu o ­
-    čių
-    š v e n ta sis
-    karas
-    prieš lietu viu s
-    Šiais dalykais ir rūpinosi
-    Gediminas, kai jį užgriuvo
-    naujos bėdos. Baigiantis dve­
-    jų metų paliauboms, kryžiuo­
-    čių riteriai pradėjo rengti di-
-    207
-
-    ## Puslapis 206
-
-    niekur nestodami į tikrą kovą, pulkai, niokoję kraštą,
-    buvo sutraukti prie Bisenės pilies, kurią jie ir apgulė.
-    Ir viena, ir kita pusė iš pradžių kovojo su didžiuliu
-    įkarščiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
+- susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185497|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Vasarai baigiantis Ragainės kryžiuočiai sudegino Pūtvės miestą Jūros pakrantėje, o miestiečius paėmė į nelaisvę arba išžudė.
 ## Citatos
 
 - id: c-59011
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 208"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    319 (312). Apie Bisenės papilių sudeginimą 1313 metais
-
-      Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais
-    užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,
-    abu jos papiliai supleškėjo ugnyje.
-
-
-
-
-                    320 (313).
+    sugriovė, o aplinkines žemes nuniokojo, degindamas ir plėšdamas visa, kas pakliuvo;
+    priešais minėtojo miesto pilį jis pastatė palapines ir ten pernakvojo, o kitą dieną jis bei
+    visa jo kariuomenė priėjo prie pilies ir ją smarkiai užpuolė, todėl abi šalys prarado keletą
+    karių nukautaisiais ir daug mirtinai sužeistaisiais. Nieko šiuo antpuoliu nepešę, pasitraukė;
+    kai priėjo vietą, kur buvo palikę saugas prie atsarginės žygio mantos, pamatė, kad
+    Gardino pilininkas Dovydas573 nužudęs 30 vyrų ir pagrobęs pusantro tūkstančio arklių,
+    duoną bei kitokį maistą ir visus kitus paliktus saugoti daiktus. Dar labiau susirūpino
+    broliai, kai, priėję antrąjį postovį, ir ten neberado nei duonos, nei kitų paliktų daiktų;
+    jie patraukė į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo
+    arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
+    alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
+    išvykimo dienos.
   citata_rodoma: "Apie Bisenės papilių sudeginimą 1313 metais\n\n  Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais\nužpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,\nabu jos papiliai supleškėjo ugnyje.\n\n\n\n\n                320 (313)."
   statusas: verified
   teiginio_tipas: faktas
@@ -277,14 +159,15 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - id: c-59012
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 208"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
     visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,
     kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę
     karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne
     kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.
+    317 (310).
+  citata_rodoma: "Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė\nvisą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,\nkurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę\nkaro įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne\nkurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -295,20 +178,14 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - id: c-59013
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 212"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     328 (321). Apie 80 lietuvių žūtį 1316 metais
-
-      Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
+    Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
     60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,
-    turėjo iš čia pasitraukti, o  į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
+    turėjo iš čia pasitraukti, o į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
     išskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.
-
-
-
-
-                 329 (322).
+    329 (322).
   citata_rodoma: "Apie 80 lietuvių žūtį 1316 metais\n\n  Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir\n60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,\nturėjo iš čia pasitraukti, o  į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,\nišskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.\n\n\n\n\n             329 (322)."
   statusas: verified
   teiginio_tipas: faktas
@@ -320,13 +197,11 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - id: c-59014
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 212"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Bisenės pilies sudeginimą 1316 metais
-
-       Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas  iš
-    Altenburgo, brolis Fridrichas Kvicas  ir dar vienas brolis patraukė su trimis Ragainės
+    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
+    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
     ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
     čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
     du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
@@ -339,39 +214,27 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   pagrindzia:
     - t-58381
 
-- id: c-168294
+- id: c-178834
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Apmalšinus žudynėmis širdis, kai, pykčiui lėgstant,
-    gėda apėmė ginkluotus karius, kad nelyginant plėši­
-    kai siaubia beginklius žmones ir kaimiečių lūšneles,
-    1322 m eta i
-    V o k ie č ių  ir k r y ž iu o ­
-    čių
-    š v e n ta sis
-    karas
-    prieš lietu viu s
-    Šiais dalykais ir rūpinosi
-    Gediminas, kai jį užgriuvo
-    naujos bėdos. Baigiantis dve­
-    jų metų paliauboms, kryžiuo­
-    čių riteriai pradėjo rengti di-
-    207
-
-    ## Puslapis 206
-
-    niekur nestodami į tikrą kovą, pulkai, niokoję kraštą,
-    buvo sutraukti prie Bisenės pilies, kurią jie ir apgulė.
-    Ir viena, ir kita pusė iš pradžių kovojo su didžiuliu
-    įkarščiu.
+    Pirmoji apsupo Bi-
+    senės pilį ir po kovos, trukusios nuo Aušros ligi vi­
+    durdienio, užėmė ją bei sudegino; kita vora nuniokojo
+    aplinkines žemes, tačiau, traukdami atgal, patyrė di­
+    delių nuostolių, nes Nemuno ledas, nepakankamai tuo
+    metu tvirtas, neatlaikė jų svorio ir nemaža dalis ka­
+    riuomenės bei grobio paskendo verpetuose. Ramiai
+    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
+    ji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,
+    netikėtai patraukė su prūsų kariais Gardino kryptimi.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184933
+    - t-196676
 
 ## Ryšiai
 - Puolė Bisenę: [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Notangai]]

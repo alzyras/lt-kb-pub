@@ -34,40 +34,17 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
   teiginys: "Unzatrapio žemės vyrai kartu su komtūro kariuomene įsiveržė į Notangos pakraštį ir jį nuniokojo plėšdami bei degindami."
   pagrindžia:
     - c-64317
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Unzatrapio žemės vyrai kartu su komtūro kariuomene įsiveržė į Notangos pakraštį ir jį nuniokojo plėšdami bei degindami.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    76 (75). Apie vienos Notangos dalies nuniokojimą
-
-      Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
-    kurie jam buvo paklusnūs,  ir įsibrovė  į vieną Notangos žemės pakraštį [confinium],
-    nenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],
-    ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė
-    drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
-    moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-64317
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 109"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 109."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     76 (75). Apie vienos Notangos dalies nuniokojimą
-
-      Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
-    kurie jam buvo paklusnūs,  ir įsibrovė  į vieną Notangos žemės pakraštį [confinium],
+    Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
+    kurie jam buvo paklusnūs, ir įsibrovė į vieną Notangos žemės pakraštį [confinium],
     nenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],
     ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė
     drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su

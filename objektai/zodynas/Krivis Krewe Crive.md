@@ -64,83 +64,29 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   teiginys: "Pasak jo, Kre ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego rijos teisėjais arba žyniais."
   pagrindžia:
     - c-177081
+
+<a id="claim-t-197364"></a>
+- t-006
+  global_id: t-197364
+  teiginys: "Tikslus vyriausiojo žynio pavadinimas yra Krewe-Krewejto, panašiai kaip senovės persų vyriausiasis kunigas vadinosi Mubad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį."
+  pagrindžia:
+    - c-171993
+
+<a id="claim-t-197365"></a>
+- t-007
+  global_id: t-197365
+  teiginys: "Ar krivio buvimas dėl to nevykusio palyginimo virto pasaka?"
+  pagrindžia:
+    - c-179150
+
+<a id="claim-t-197366"></a>
+- t-008
+  global_id: t-197366
+  teiginys: "Manau, kad šiais argumentais ir šiais galinčių kelti prie kaištų nagrinėjimais išgelbėjau istorinį Prūsijos krivio egzista vimą, apgindamas nuo naujų abejonių, ir drauge patvirtinau senojo kryžiuočių kronikininko Dusburgiečio patikimumą."
+  pagrindžia:
+    - c-171997
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos paminklų formomis „Krewo“ ir „Krewiczy“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Be­
-    je, budinu susiliejimas su europiečių tauta ir vėliau graikų ti­
-    3 Šio pavadinimo rašyba nesutampa: vieni rašoKriwe, kiti —Kre-
-    we. Mes laikomės pastarosios, kadangi Lietuvos istorijos paminkluose
-    turime Krewo, Krewiczy — pavadinimus, kilusius iš vieno šaltinio, iki
-    šiol girdimus iš žmonių lūpų ir randamus seniausiuose raštuose. Tie­
-    sa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,
-    kadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-
-    tas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
-    jų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­
-    ta žodį krivis kildinti iš Greve, Graff- garbingos pareigos, nuo
-    seno žinomos germanų tautoms. Tačiau mūsų to dalyko su­
-    pratimu sunku su tuo sutikti. Mat nors nėra abejonės, kad se­
-    novės lietuviai daug ką perėmė iš skandinavų, ypač religijos
-    srityje, -  net Romovė turėjusi būti senosios skandinavų Upsa­
-    los kopija, -  bet juk ir ten grafo tarp žynių negirdėti. Antra
-    vertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios
-    giminės tautas pasaulietiškos grafo pareigos nebuvo susijusios
-    su žyniavimu .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veikimas dažnai ribojosi vietos vidaus reikalais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ar svetimšalis, prekiaudamas krašte, matydavo
-    vyriausiąjį žynį, kuris net tautiečiams retai pasirodydavo, o nuo­
-    lat slėpdavosi šventovių slėptuvėse? Kas iš tikrųjų krivį įsivaiz­
-    duoja kaip Šiaurės popiežių, Kas Dusburgiečio palyginimą pri­
-    ima už gryną pinigą, taip pat kas vyriausiąjį prūsų žynį laiko
-    Baltijos jūros pakrantės šalių visagaliu valdovu, tas, žinoma,
-    turi gerokai stebėtis, kodėl kronikininkai apie jį nekalba; tas
-    pat turi kelti nerimą ir abejonę dėl visos to dalyko esmės. Ta­
-    čiau tam, kuriam žinoma, kokios reikšmės krivio pareigos tu­
-    rėjo Prūsijoje gyvenant tiems kronikininkams, kaip dažnai jo
-    422
-
-    ## Puslapis 422
-
-    garbinimas ribodavosi vienu valsčiumi, kaip jo veikimas dary­
-    davo įtakos tik sričių vidaus padėčiai ir nuramindavo visuo­
-    menę, tam jokiu būdu nepasirodys keista, kad tie kronikinin­
-    kai, kurie taip menkai pažino tautos vidaus gyvenimą, nieko
-    nepasakoja apie krivį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'O be to, krivio pavadinimą žinojo beveik vien lietuvių kiltys - tiek, kad kiekviena atskira gentis arba kiekvie na provincija turėjo savo atskirą krivį - net tolimuose kraš- 10 1 Skaityk pabaigoje I priedą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -186,30 +132,31 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 - id: c-171993
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 279"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 279."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Be­
-    je, budinu susiliejimas su europiečių tauta ir vėliau graikų ti­
-    3 Šio pavadinimo rašyba nesutampa: vieni rašoKriwe, kiti —Kre-
-    we. Mes laikomės pastarosios, kadangi Lietuvos istorijos paminkluose
-    turime Krewo, Krewiczy — pavadinimus, kilusius iš vieno šaltinio, iki
-    šiol girdimus iš žmonių lūpų ir randamus seniausiuose raštuose. Tie­
-    sa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,
-    kadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-
-    tas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.
+    Čia pakaks pasakyti, kad kiekvienas, susipažinęs su lie­
+    tuvių tautos istorija ir mitologija, teiginius, kuriais abejojama
+    vyriausiojo žynio buvimu, palaikys nesąmone.
+    Šios garbingos elementariųjų religijos dalykų pareigos su­
+    tapo su aukščiausiosios civilinės valdžios turėjimu. Taigi Vai­
+    devutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,
+    buvo kartu vyriausieji žyniai ir tautos vadai, arba didieji kuni­
+    gaikščiai .
+    Tikslus vyriausiojo žynio pavadinimas yra Krewe-Krewejto,
+    panašiai kaip senovės persų vyriausiasis kunigas vadinosi Mu-
+    bad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189105
+    - t-197364
 
 - id: c-171994
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 281"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 281."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
     jų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­
@@ -217,8 +164,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     seno žinomos germanų tautoms. Tačiau mūsų to dalyko su­
     pratimu sunku su tuo sutikti. Mat nors nėra abejonės, kad se­
     novės lietuviai daug ką perėmė iš skandinavų, ypač religijos
-    srityje, -  net Romovė turėjusi būti senosios skandinavų Upsa­
-    los kopija, -  bet juk ir ten grafo tarp žynių negirdėti. Antra
+    srityje, - net Romovė turėjusi būti senosios skandinavų Upsa­
+    los kopija, - bet juk ir ten grafo tarp žynių negirdėti. Antra
     vertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios
     giminės tautas pasaulietiškos grafo pareigos nebuvo susijusios
     su žyniavimu .
@@ -234,47 +181,48 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ar svetimšalis, prekiaudamas krašte, matydavo
-    vyriausiąjį žynį, kuris net tautiečiams retai pasirodydavo, o nuo­
-    lat slėpdavosi šventovių slėptuvėse? Kas iš tikrųjų krivį įsivaiz­
-    duoja kaip Šiaurės popiežių, Kas Dusburgiečio palyginimą pri­
-    ima už gryną pinigą, taip pat kas vyriausiąjį prūsų žynį laiko
-    Baltijos jūros pakrantės šalių visagaliu valdovu, tas, žinoma,
-    turi gerokai stebėtis, kodėl kronikininkai apie jį nekalba; tas
-    pat turi kelti nerimą ir abejonę dėl visos to dalyko esmės. Ta­
-    čiau tam, kuriam žinoma, kokios reikšmės krivio pareigos tu­
-    rėjo Prūsijoje gyvenant tiems kronikininkams, kaip dažnai jo
-    422
-
-    ## Puslapis 422
-
-    garbinimas ribodavosi vienu valsčiumi, kaip jo veikimas dary­
-    davo įtakos tik sričių vidaus padėčiai ir nuramindavo visuo­
-    menę, tam jokiu būdu nepasirodys keista, kad tie kronikinin­
-    kai, kurie taip menkai pažino tautos vidaus gyvenimą, nieko
-    nepasakoja apie krivį.
+    Ogi Dusburgietis buvo už­
+    sibrėžęs rašyti tai, quae vidi, alia quae audivi ab his, qui vide­
+    runt, et interfuerunt, caetera, quae relatione veridica intellexi (ką
+    pats esu matęs, apie ką pasakojo matę ir dalyvavę; [pagaliau]
+    ir apie tai, apie ką sužinojau iš patikimų šaltinių). Todėl vargu
+    ar buvo kokia galimybė Dusburgiečiui dažniau minėti jį savo
+    veikale.
+    Manau, kad šiais argumentais ir šiais galinčių kelti prie­
+    kaištų nagrinėjimais išgelbėjau istorinį Prūsijos krivio egzista­
+    vimą, apgindamas nuo naujų abejonių, ir drauge patvirtinau
+    senojo kryžiuočių kronikininko Dusburgiečio patikimumą.
+    Baigiant šias pastabas, būtų galima pateikti daug pavyz­
+    džių, kaip nepasitvirtindavo naujojo meto nuomonės, kritikuo­
+    jančios senus dalykus, kai vėlesni atradimai arba blaivesnis įsi­
+    gilinimas į istorijos faktus įtikino, kad tų jaunų kritikų spren­
+    dimai būdavo pernelyg impulsyvūs, dažnai paremti vien „taip
+    man atrodo“ arba noru iškilti su savo nepalenkiama nuomone
+    arba, kas dar blogiau, skatinami tendencingumo, kažkokios
+    įkvėptos tautinės neapykantos.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189109
+    - t-197366
 
 - id: c-177080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 281"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 281."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Antra
-    vertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios
-    giminės tautas pasaulietiškos grafo pareigos nebuvo susijusios
-    su žyniavimu . O be to, krivio pavadinimą žinojo beveik vien
-    lietuvių kiltys -  tiek, kad kiekviena atskira gentis arba kiekvie­
-    na provincija turėjo savo atskirą krivį -  net tolimuose kraš- * 10 1
-    Skaityk pabaigoje I priedą.
-    10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir
-    Pruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius.
+    nes; tam įvykus, krivis užkopdavo ant laužo ir prašnekdavo į
+    susirinkusiuosius sakydamas, kad jie privalą iš visos širdies ta-
+    nauti dievams, apverkti nuodėmes, kuriomis sukėlę dievų pyktį,
+    pagaliau toliau gyventi doresnį gyvenimą. Kai žmonės, atsi­
+    liepdami į tokį pamokslą, su verksmu ir riksmu išpažindavo
+    savo nuodėmes ir išsakydavo nuoširdžią atgailą, krivis guos­
+    davo žadėdamas dievų malonę. O kad būtų labiau tuo įsitiki­
+    nę, sakydavo jiems, kad jis pats norįs už jų nuodėmes pasiau­
+    koti ir kankinio mirtimi už juos atsilyginti.
+  citata_rodoma: "Antra\nvertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios\ngiminės tautas pasaulietiškos grafo pareigos nebuvo susijusios\nsu žyniavimu . O be to, krivio pavadinimą žinojo beveik vien\nlietuvių kiltys -  tiek, kad kiekviena atskira gentis arba kiekvie­\nna provincija turėjo savo atskirą krivį -  net tolimuose kraš- * 10 1\nSkaityk pabaigoje I priedą.\n10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir\nPruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -285,19 +233,44 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 - id: c-177081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 282"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 282."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
-    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
-    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
-    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
-    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
-    rijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų
-    žynių vyriausiąjį žynį.
+    Mirus senajam vyriausiajam žyniui, vaidilos labai slaptai
+    išrinkdavo naują; kitą dieną po išrinkimo pristatydavo jį žmo­
+    nėms, aiškindami, kad patys dievai pasirinkę šį šventą žmogų
+    iš labiausiai nusipelniusių: privalu gerbti jį ir klausyti jo. Nors
+    Hartknochas abejoja tokią konklavą buvus, kadangi ankstes­
+    nieji istorikai apie ją neužsimena, tačiau užginčyti tai - neįma­
+    nomas dalykas, nes vietos padavimai ir dainos galėjo išsaugoti
+    ir perteikti vėlesniems amžiams tą detalę, kurią pamaldieji ra­
+    šytojai savo raštuose praleido nenorėdami lyginti su švento­
+    mis dabartinės Romos apeigomis.
+    Henenbergeris išsaugojo mums vyriausiųjų žynių sąrašą,
+    pradedamą Vaidevučiu, kuris VI amžiaus pradžioje, iki kry­
+    žiuočiams užkariaujant Prūsiją, neabejotinai įvedė religinę san­
+    tvarką (pas Hartknochą, p. 149):
+    1.
+  citata_rodoma: "Pretorijus Hartknocho studijų prierašuose aiškina teisin­\ngai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­\nive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos\nteisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­\ndinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­\nrijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų\nžynių vyriausiąjį žynį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194684
+
+- id: c-179150
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Ar toji
+    istorinė tiesa dėl to tapo abejotina? Ar krivio buvimas dėl to
+    nevykusio palyginimo virto pasaka? Jokiu būdu. Po tūkstan­
+    čio metų kam nors galbūt ateis į galvą mintis paskelbti Peter­
+    burgą apaštalo Petro pilimi, jo pavadinimą palyginti su šv.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197365

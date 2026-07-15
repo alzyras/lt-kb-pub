@@ -36,29 +36,6 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
   teiginys: "Kutlubuga buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių."
   pagrindžia:
     - c-42098
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos kariuomenė buvo sudaryta
-    iš Lietuvos valdovo Algirdo ir jo brolio
-    Karijoto trijų sūnų - Karijotaičių vado-
-    vaujamų karių. Jie susirėmė su Juodosios
-    jūros pajūrio ir Krymo totorių teritori-
-    jos trijų vadų-kunigaikščių Chadžibėjaus,
-    Kutlugbugo, Dmitrijaus kariuomene.
-
-    Didžiausia tikimybė, kad Mėlynieji Van-
-    denys, tai Siniuchos upė Pietų Ukrainoje,
-    kairysis Pietinio Bugo intakas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

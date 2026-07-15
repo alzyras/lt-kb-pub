@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vytautui išėjus, senatas kuo rimčiau siai paaiškino karaliui, kad, pritardamas pavojingiems ir suktiems imperatoriaus sumanymams, nusileistų žmo gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos priešas, nes šitai esąs parodęs praeityje ne vieną kar.
+Krokuvos vyskupas Zbignevas Olesnickis Vytautui senate aiškino, kad imperatoriaus draugystė esanti įtartina, o jo siūlymai pavojingi. Kojelavičius vaizduoja, kad Gnezno arkivyskupas senate kalbėjo iškalbingai, bet varžėsi įžeisti Vytautą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,62 +47,44 @@ Nenurodyta
 <a id="claim-t-193480"></a>
 - t-001
   global_id: t-193480
-  teiginys: "Vytautui išėjus, senatas kuo rimčiau siai paaiškino karaliui, kad, pritardamas pavojingiems ir suktiems imperatoriaus sumanymams, nusileistų žmo gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos priešas, nes šitai esąs parodęs praeityje ne vieną kar."
+  teiginys: "Krokuvos vyskupas Zbignevas Olesnickis Vytautui senate aiškino, kad imperatoriaus draugystė esanti įtartina, o jo siūlymai pavojingi."
   pagrindžia:
     - c-176181
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Vytautui išėjus, senatas kuo rimčiau siai paaiškino karaliui, kad, pritardamas pavojingiems ir suktiems imperatoriaus sumanymams, nusileistų žmo gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos priešas, nes šitai esąs parodęs praeityje ne vieną kar.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vytautui išėjus, senatas kuo rimčiau­
-    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
-    suktiems imperatoriaus sumanymams, nusileistų žmo­
-    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
-    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
-    tą. Štai todėl karalius po senato posėdžio, net neatsi­
-    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196327"></a>
+- t-002
+  global_id: t-196327
+  teiginys: "Kojelavičius vaizduoja, kad Gnezno arkivyskupas senate kalbėjo iškalbingai, bet varžėsi įžeisti Vytautą."
   pagrindžia:
-    - t-001
+    - c-176181
 
 ## Citatos
 
 - id: c-176181
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 418"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vytautui išėjus, senatas kuo rimčiau­
-    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
-    suktiems imperatoriaus sumanymams, nusileistų žmo­
-    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
-    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
-    tą. Štai todėl karalius po senato posėdžio, net neatsi­
-    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams.
+    Taip
+    ir buvo, senato pirmininkas Gnezno arkivyskupas bylo­
+    jo be galo iškalbingai, tačiau smarkiai varžydamasis,
+    nes bijojo įžeisti Vytautą; visa ko prišnekėjęs, nutilo
+    lyg kirviu nukirstas. Tuo tarpu Krokuvos vyskupas Zbig­
+    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
+    kokia įtartina imperatoriaus
+    S en ato įsp ė ta s
+    draugystė, ir, atskleidęs, ko­
+    kie pavojingi jo siūlymai,
+    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
+    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
+    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
+    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
+    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
+    nas iš Tarnovo, Krokuvos vaivada.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193480
+    - t-196327

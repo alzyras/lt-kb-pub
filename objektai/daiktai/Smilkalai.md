@@ -59,19 +59,7 @@ Nenurodyta
 - susijęs iš [[objektai/posakiai/Lingvistiniai tautų kilmės tyrimai yra pirmas ir pats tikriausias kelias.md#claim-t-192121|Lingvistiniai tautų kilmės tyrimai yra pirmas ir pats tikriausias kelias]]: Teodoras Narbutas kalbotyrą vadina pirmu ir patikimiausiu tautų kilmės tyrimo keliu, atveriančiu ir kitas senienas.
 - susijęs iš [[objektai/posakiai/Lingvistiniai tautų kilmės tyrimai yra pirmas ir pats tikriausias kelias.md#claim-t-192121|Lingvistiniai tautų kilmės tyrimai yra pirmas ir pats tikriausias kelias]]: Teodoras Narbutas kalbotyrą vadina pirmu ir patikimiausiu tautų kilmės tyrimo keliu, atveriančiu ir kitas senienas.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    kunigas turėjęs tris dienas pasninkauti, ant plikos žemės gulęs, ir į šventą ugnį smilkalus
-        mėčioti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Citatos
 

@@ -70,27 +70,6 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
   teiginys: "Vinricho von Kniprodės laikais Kęstutis ir Ordinas pradėjo keistis belaisviais, daryti tarpukares ir riteriškai vienas kitą vaišinti."
   pagrindžia:
     - c-14483
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­
-    gaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti
-    paliaubas. Čia reikia pastebėti, kad Vinrichas von Kniprodė,
-    būdamas gabus ir lankstus politikas, nuolat kariaudamas su
-    Kęstučiu, ėmėsi kitokios taktikos, negu jo pirmtakūnai. Nors
-    Vokiečių Ordino įstatai draudė su pagonimis daryti kokias nors
-    sutartis, vis dėlto jiedu pradėjo pasikeisti belaisviais, daryti tar­
-    pukares, vienas kitą riteriškai pavaišinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

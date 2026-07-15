@@ -7,12 +7,12 @@ datos:
   - '1933 m.'
 date_start: '1933'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad pakarklis P.
   teiginys: "P. Pakarklio „Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą“ 1933 m. publikuotas „Mūsų žinyne“."
   pagrindžia:
     - c-61842
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. Pakarklio „Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą“ 1933 m. publikuotas „Mūsų žinyne“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,12 @@ Dusburgietis teigia, kad pakarklis P.
 - id: c-61842
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    207—216.
     Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų
     žinynas, 1933, t. 25, Nr. 101, p. 171—185.
+  citata_rodoma: "Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų\nžinynas, 1933, t. 25, Nr. 101, p. 171—185."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

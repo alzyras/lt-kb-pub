@@ -34,8 +34,8 @@ Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietim
   teiginys: "Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietimi smeigiantis drakoną."
   pagrindžia:
     - c-174376
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietimi smeigiantis drakoną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -56,12 +56,17 @@ Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietim
 - id: c-174376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 489"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 489."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vienoje pusėje — Gediminaičių herbas Stulpai ir kaž­
-    kokia neaiški raidė. Kitoje pusėje — šv. Jurgis ant žirgo; jis
-    smeigia ietimi drakoną.
+    L, 36). Turimas omenyje minėtas T. Volianskio laiš­
+    kas (P. 12).
+    95 /Ten
+    pat,
+    (23)
+    išnaša/
+    Spanheim E. Dissertationes de usu et praestantia numismatum
+    aliquorum.
+  citata_rodoma: "Vienoje pusėje — Gediminaičių herbas Stulpai ir kaž­\nkokia neaiški raidė. Kitoje pusėje — šv. Jurgis ant žirgo; jis\nsmeigia ietimi drakoną."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

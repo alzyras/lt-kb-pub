@@ -57,23 +57,6 @@ Nenurodyta
   teiginys: "Vilniuje Algirdą pasitikę žmonės plojo rankomis ir giedojo „Lado! Lado!“."
   pagrindžia:
     - c-12303
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vilniuje Algirdą džiaugsmin-
-    gai pasitiko visi žmonės, senovės papročiu
-    plodami rankomis ir „Lado! Lado!“ giedo-
-    dami (M. Stryjkovskis).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

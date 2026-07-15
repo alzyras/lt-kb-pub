@@ -13,13 +13,13 @@ datos:
   - '1974 m.'
 date_start: '1222'
 date_end: '1974'
+amziai:
+  - 'XIII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIII'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -75,25 +75,8 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   teiginys: "J. Dlugošo veikale 1282 m. lietuvių kariuomenės įsiveržimas į Sandomežo žemę siejamas su mūšiu Ruvne, į pietus nuo Drohičino."
   pagrindžia:
     - c-85465
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Dlugošas Mazovijos nusiaubimą ir Plocko sudeginimą siejo su 1222 m., nors tie įvykiai galėtų būti 1224 ar 1225 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    163  Panašiai apie Mazovijos nusiaubimą ir Plocko sudeginimą J. Dlugošas žuvusio
-    Mazovijos šaltinio pagrindu kalba ties 1222 m. Vis dėlto įvykių chronologija Dlugošo
-    paankstinta keleriais metais, todėl aptariami įvykiai galėtų sietis su 1224 ar 1225 m.
-    (Długosz J. Roczniki..., kn. 6, 1973, p. 293, 299, 301; HP, 1, 1, p. 427; Powierski J.
-    Stosunki..., p. 153, 158— 159; to paties, Przekaz..., p. 409).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-002
   santrauka: 'J. Dlugošo veikale 1282 m. lietuvių kariuomenės įsiveržimas į Sandomežo žemę siejamas su mūšiu Ruvne, į pietus nuo Drohičino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -143,29 +126,12 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   pagrindžia:
     - t-001
 
-- c-005
-  santrauka: 'J. Dlugošo „Analuose“ Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi
-    (II a. pr. m. e.) Prūsijumi (Długossii J. Annales..., kn. II, p. 216); kitur Prūsijos pradžia
-    siejama su Pruteniu ir Videvučiu (SRP, 4, p. 293—298; Jurginis J. Legendos..., p. 17—
-    18, 70—75, 89— 97).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-85464
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 43"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     163  Panašiai apie Mazovijos nusiaubimą ir Plocko sudeginimą J. Dlugošas žuvusio
     Mazovijos šaltinio pagrindu kalba ties 1222 m. Vis dėlto įvykių chronologija Dlugošo
@@ -182,13 +148,15 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
 - id: c-85465
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 162"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 162."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    491 Greičiausiai kalbama apie lietuvių kariuomenės įsiveržimą 1282 m. rudenį  į
-    Sandomežo žemę ir mūšį Ruvne (Równe), Sandomežo žemės šiaurės rytuose, į pietus nuo
-    Drohičino (Długosz J., Roczniki..., kn. 7 (1974), p. 282—285; Krakowski S., Obrona...,
-    p. 110—113).
+    201 (196). Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
+    Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
+    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
+    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
+    pasiuntinių prašomas, jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
+    metais.
+  citata_rodoma: "491 Greičiausiai kalbama apie lietuvių kariuomenės įsiveržimą 1282 m. rudenį  į\nSandomežo žemę ir mūšį Ruvne (Równe), Sandomežo žemės šiaurės rytuose, į pietus nuo\nDrohičino (Długosz J., Roczniki..., kn. 7 (1974), p. 282—285; Krakowski S., Obrona...,\np. 110—113)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -199,14 +167,15 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
 - id: c-85466
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 20"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
-    jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.
-    Dlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš
-    Jerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.
-    Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
+    XVI a.
+    3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
+    redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių
+    laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
+    Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
+    m.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
+    variantas.
   citata_rodoma: "Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo\njį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m."
   statusas: verified
   teiginio_tipas: faktas
@@ -218,13 +187,14 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
 - id: c-85467
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 20"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Iš šio vertimo Dusburgiečio
-    kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
-      Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
-    jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m.
+    Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
+    Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.
+    3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
+    redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių
+    laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
+  citata_rodoma: "Iš šio vertimo Dusburgiečio\nkronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.\n  Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo\njį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -235,8 +205,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
 - id: c-85468
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 55"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 55."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi
     (II a. pr. m. e.) Prūsijumi (Długossii J. Annales..., kn. II, p. 216); kitur Prūsijos pradžia

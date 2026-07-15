@@ -21,14 +21,11 @@ datos:
   - '2026 m.'
 date_start: '1034'
 date_end: '2026'
-sukurta: ''
-atnaujinta: ''
-tags:
-  - kraštas
-  - vieta
 amziai:
   - 'XI'
   - 'XXI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,6 +38,10 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+tags:
+  - kraštas
+  - ordinas
+  - vieta
 ---
 # Vokietija
 
@@ -260,9 +261,9 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - c-164752
 
-<a id="claim-t-181205"></a>
+<a id="claim-t-181199"></a>
 - t-031
-  global_id: t-181205
+  global_id: t-181199
   teiginys: "Pasiuntiniai su vainikais, išgirdę apie pasienio trukdymus, grįžo į Vokietiją."
   pagrindžia:
     - c-164759
@@ -302,54 +303,54 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - c-164760
 
-<a id="claim-t-181205"></a>
-- t-037
-  global_id: t-181205
-  teiginys: "Pasiuntiniai su vainikais, išgirdę apie pasienio trukdymus, grįžo į Vokietiją."
-  pagrindžia:
-    - c-164759
-
 <a id="claim-t-181206"></a>
-- t-038
+- t-037
   global_id: t-181206
   teiginys: "Karolis Tryrietis 1323 m. rugpjūčio viduryje dar buvo Vokietijoje."
   pagrindžia:
     - c-164757
 
 <a id="claim-t-181208"></a>
-- t-039
+- t-038
   global_id: t-181208
   teiginys: "1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis ir su ja pasiekė daugiausia užsienio politikos susitarimų."
   pagrindžia:
     - c-164755
 
 <a id="claim-t-181209"></a>
-- t-040
+- t-039
   global_id: t-181209
   teiginys: "Aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo detalių."
   pagrindžia:
     - c-164735
 
 <a id="claim-t-181210"></a>
-- t-041
+- t-040
   global_id: t-181210
   teiginys: "Vilniaus konferencijoje svarstyta, kad Lietuvos interesai labiau krypsta į Vakarus, tai yra į Vokietiją."
   pagrindžia:
     - c-164733
 
 <a id="claim-t-183107"></a>
-- t-042
+- t-041
   global_id: t-183107
   teiginys: "Dvasininkais besirengiantys studentai paprastai vykdavo į Krokuvą, o kiti mokėsi Vokietijos, Italijos ir Prancūzijos universitetuose."
   pagrindžia:
     - c-166492
 
 <a id="claim-t-193656"></a>
-- t-043
+- t-042
   global_id: t-193656
   teiginys: "Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje)."
   pagrindžia:
     - c-176325
+
+<a id="claim-t-197181"></a>
+- t-043
+  global_id: t-197181
+  teiginys: "Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją."
+  pagrindžia:
+    - c-179053
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-184043|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56968|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56969|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
@@ -393,7 +394,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-182885|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172080|Dominikonų ordinas]]: Michałas Balińskis Gedimino vardu dominikonams, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo klastote.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112515|Domininkonų ordinas]]: Michałas Balińskis Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo prasimanymu ir klastote.
-- susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-187778|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
 - susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74138|JAV lietuviai]]: JAV lietuvius 1917 m. suaktyvino JAV įstojimas į karą prieš Vokietiją ir Woodrow Wilsono paskelbti „14 punktų“.
 - susijęs iš [[objektai/grupes/Jaunieji tautininkai.md#claim-t-183134|Jaunieji tautininkai]]: Voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.
 - susijęs iš [[objektai/grupes/Jaunieji tautininkai.md#claim-t-19719|Jaunieji tautininkai]]: Jaunieji tautininkai Vokietijos ir Lenkijos karo metu kaltino valdžią neveiklumu ir ragino vyriausybę jėga atsiimti Vilnių.
@@ -490,7 +490,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš Lietuva: Lietuvių tautinio judėjimo iškilimą dalis lenkų laikė Rusijos carizmo politikos projektu, gimusiu tik tam, kad skaldytų ir silpnintų lenkų jėgą, o vėliau Lietuvos valstybės atkūrimą laikys tik Vokietijos intriga.
 - susijęs iš Lietuva: 1940 m. birželio 16 d. sovietų divizijos, žygiuodamos per Lietuvą, strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.
 - susijęs iš Oberostas: Oberosto karinis kolonijinis režimas nusavindavo valstiečių maistą, apkrovė juos mokesčiais bei prievolėmis ir išvežė pramonės įmones į Vokietiją.
-- susijęs iš Prūsija: Į pagalbą prieš Prūsijos ir Žemaitijos gyventojus buvo sutelkta daug kariuomenės iš Vokietijos.
 - susijęs iš Rytų Europa: Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos, nes per ją eina tiesiausias kelias iš Vokietijos į Rusiją.
 - susijęs iš Silezija: Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.
 - susijęs iš Silezija: Į Vilnių atvykę amatininkai iš Silezijos ir kitų Vokietijos žemių tapo turtingiausiu miesto gyventojų sluoksniu.
@@ -504,6 +503,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš [[objektai/zodynas/bombarda.md#claim-t-86584|bombarda]]: Bombarda buvo Vokietijoje neseniai išrastas ir Lietuvoje dar nežinomas šaunamasis ginklas.
 - susijęs iš [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui.md#claim-t-45356|Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]: Pabėgėlių gretas papildė nacių okupacijos metais prievarta į Vokietiją dirbti išvežti lietuviai.
 - susijęs iš [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui.md#claim-t-45357|Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]: Pabėgėlių gretas papildė nacių okupacijos metais prievarta į Vokietiją dirbti išvežti lietuviai.
+- susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-198563|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75629|A. Hitleris]]: 1939 m. kovo 23 d. A. Hitleris karo laivu atplaukė į Klaipėdą ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75633|A. Hitleris]]: A. Smetona 1935 m. privačiai apibūdino A. Hitlerį kaip pavojingą politinį pamišėlį, galintį dėl savo pseudoidėjų išnaikinti pusę Europos.
 - susijęs iš [[objektai/asmenys/A. Jakaitis.md#claim-t-39978|A. Jakaitis]]: Mjr. A. Jakaitis vadovavo 10-ajam pulkui, kuris iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą.
@@ -634,7 +634,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš [[objektai/daiktai/Bomba.md#claim-t-45474|Bomba]]: Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba.
 - susijęs iš [[objektai/daiktai/Bomba.md#claim-t-45475|Bomba]]: Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba.
 - susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-45487|Ginklai ir ginkluotė]]: 1918 m. gruodžio 21 d. A. Smetona Berlyne pasirašė 100 mln. markių paskolą ginklams įsigyti.
-- susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186818|Karūna]]: Komentare nurodoma, kad šiame šaltinyje teigiama, kad karališkieji vainikai Vytautui ir Julijonai buvo nukalti Niurnbergo auksakalių; Šiame gabale vainikai apibūdinami kaip iš Vokietijos gabenti karūnacijos daiktai.
 - susijęs iš [[objektai/daiktai/Mediniai rūmai.md#claim-t-87085|Mediniai rūmai]]: Gedimino dvare gyvenę lietuvių didikai ir kunigaikščio giminės ties pilimi statydinosi medinius rūmus.
 - susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89430|Mūro sienos ir miesto sienos]]: Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.
 - susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87059|Mūro sienos]]: Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.
@@ -660,12 +659,9 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178857|Kryžiuočių ordinas]]: Kryžiuočių ordino broliai Pamedėje atstatė Kristburgo pilį naujoje vietoje ir paliko joje daug karių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178908|Kryžiuočių ordinas]]: M. Balinskis manė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus, kuriais siekė apšmeižti Kryžiuočių ordiną.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178942|Kryžiuočių ordinas]]: Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178954|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai, remiami Livonijos magistro ir svečių iš Vakarų, išgriovė Kauno pilį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178971|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai su sąjungininkais išgriovė svarbią lietuvių pilį Kauną prie Nemuno ir Neries santakos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178997|Kryžiuočių ordinas]]: Skubinai persikėlus per Nemuną, kryžiuočių kariuomenė prie Strėvos upės išsiskyrė į du didelius dalinius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179047|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė Kauno pilį Nemuno ir Neries santakoje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-190568|Kryžiuočių ordinas]]: Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios.
 - susijęs iš [[objektai/grupes/Laikinoji vyriausybė.md#claim-t-19773|Laikinoji vyriausybė]]: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per užimtą radiją paskelbė apie Laikinąją vyriausybę.
 - susijęs iš [[objektai/grupes/Laikinoji vyriausybė.md#claim-t-19776|Laikinoji vyriausybė]]: Laikinoji vyriausybė realiai nevaldė padėties, nes negalėjo palaikyti ryšių su visu kraštu.
@@ -733,7 +729,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš [[objektai/ivykiai/Informacijos perdavimas po Sausio 13-osios ir Lietuvos kreipimasis į JT (1991 m. sausio 13 d.).md#claim-t-20208|Informacijos perdavimas po Sausio 13-osios ir Lietuvos kreipimasis į JT (1991 m. sausio 13 d.)]]: Po Sausio 13-osios sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios informacijos.
 - susijęs iš [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.).md#claim-t-66573|Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]: Prieš kautynes žvalgas Stantekas, sunkiai sužeistas sembų sargybos, pranešė maldininkams apie pasalą.
 - susijęs iš [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.).md#claim-t-31426|Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]: Lietuvos kunigaikščiai krikštui kėlė sąlygą, kad kryžiuočių ordinas grąžintų užimtas žemes tarp Alnos, Priegliaus ir Dauguvos.
-- susijęs iš [[objektai/ivykiai/Kauno apgulties pradžia (1362 m.).md#claim-t-185804|Kauno apgulties pradžia (1362 m.)]]: 1362 m. pavasario pradžioje kryžiuočių magistras išvedė nuolatinę ir pagalbinę kariuomenę į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas).md#claim-t-75114|Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]: Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
 - susijęs iš [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.).md#claim-t-01667|Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]: 1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.
 - susijęs iš [[objektai/ivykiai/Konrado misionieriaus nužudymas Lietuvoje (1285-1287 m.).md#claim-t-62330|Konrado misionieriaus nužudymas Lietuvoje (1285-1287 m.)]]: 1285 m. Vokietijos kunigas Konradas persikėlė į Lietuvą atversti stabmeldžių, o po dvejų metų lietuviai jį nužudė.
@@ -933,9 +928,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš Prūsija: Livonija vis glaudžiau šliejosi prie Prūsijos.
 - susijęs iš Prūsija: 1329 m. Jonas Liuksemburgietis, Čekijos karalius, su kilmingaisiais atžygiavo į Prūsijos žemę.
 - susijęs iš Prūsija: 1304 m. Vokietijos maldininkai vėl išsirengė keliauti į Prūsijos žemę.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Pskovo kunigaikščiai.
 - susijęs iš Rainiai: Prie Rainių buvo surengtos masinės kalinių žudynės, per kurias nužudyti 76 prieš tai ypač žiauriai nukankinti asmenys.
 - susijęs iš Rostokas: Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų Liubekui, Rostokui, Stralsundui, Greifsvaldui ir Ščecinui.
 - susijęs iš Ruhro sritis: Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė.
@@ -972,10 +964,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš Vilijampolė: 1941 m. birželio 26 d. Vilijampolėje lietuvių talkininkai dalyvavo SD inspiruotuose žiauriuose pogromuose.
 - susijęs iš Vilnia: Gediminas, statydindamas pilį, iškasė Vilniai naują vagą ir iškastomis žemėmis paaukštino Pilies kalną.
 - susijęs iš Vilniaus sporto rūmai: Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas vyko Vilniaus sporto rūmuose 1988 m. spalio 22–23 d.
-- susijęs iš Vilnius: Švitrigailos valdymo laikais Vilniaus miestietis Bomannas prekiavo su Gdansku.
-- susijęs iš Vilnius: Prie Vilniaus pilies prieglobsčio ieškojo žmonės, tikėjęsi apsisaugoti nuo kryžiuočių.
 - susijęs iš Vilnius: 1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į atgautą istorinę sostinę Vilnių.
-- susijęs iš Vilnius: Ankstyvasis Vilnius, anot šaltinio, labiau priminė kelis sujungtus didelius kaimus negu mūro sienų ir bokštų saugomą miestą.
 - susijęs iš Vitchendorfas: Vitchendorfas buvo kaimas Saksonijoje.
 - susijęs iš Vonsdorfas: Prūsijos žemės kronikos rodyklėje Vonsdorfas siejamas su formomis Wohenstorph, Wünsdorf, Wonsdorff, Wansdorf ir Unzatrapis.
 - susijęs iš Vroclavas: 1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.
@@ -1024,549 +1013,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš Kaunas: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę.
 - susijęs iš [[objektai/asmenys/Henrikas I Paukštininkas.md#claim-t-87688|Henrikas I Paukštininkas]]: Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Protestantizmo plitimas.** Protestantizmas labai greitai pa-
-    siekė Lietuvą. 1525 m. Lietuvos pašonėje priėmė protestantizmą
-    kryžiuočių ordino magistras ir daugumas brolių. Be to, daug didi-
-    kų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsda-
-    vo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia,
-    esant tokiai liūdnai Bažnyčios būklei, jam buvo labai patogi
-    dirva plisti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
-    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
-    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
-    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
-    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
-    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
-    spaudimą Lietuvai kaip ranka nuėmė.
-    Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
-    kvą ministrą Juozą Urbšį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-011
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kadangi Lietuva be vidinių skrupulų laikė „klaipėdiečius“ lie-
-    tuviais, skaičiavo krašte esant 50,8 proc. lietuvių. Lietuva įgijo neužšalantį
-    uostą.
-    Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
-    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
-    svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
-    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-    - t-014
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    karą, neturint galimybės patiems apginti nepriklausomybę, pasirinkti
-    kiti būdai išlikti, priešintis, bandyti išsaugoti tautą, jos kalbą ir kultūrą
-    ir laukta palankaus momento Lietuvos valstybei atkurti. Lietuvių tautos
-    lūkesčiai gyventi savo valstybėje išsipildys tik baigiantis Šaltajam karui,
-    kai antrą kartą XX a. pavyks atkurti šalies nepriklausomybę, atgauti jos
-    tarptautinį pripažinimą ir tapti visateise Vakarų pasaulio ir demokratinės
-    Europos dalimi.
-    Lietuvos sovietizacija
-    1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-
-    vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
-    okupuotos ir dvi gretimos Baltijos valstybės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-034
-    - t-035
-
-- c-005
-  santrauka: 'Lietuvių konferencija numatė santykius su Vokietija, jeigu ši prieš Taikos konferenciją pripažintų Lietuvos valstybę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos
-    valstybės modelio kontūrus – „nepriklausoma demokratiškai sutvarkyta
-    valstybė etnografinėmis ribomis su būtinai reikalingomis ekonominiam
-    gyvenimui korektyvomis“, kurios galutinę struktūrą turės nustatyti „su-
-    šauktas Steigiamasis Lietuvos Seimas Vilniuje, demokratiškai visų jos
-    gyventojų išrinktas“, užtikrintos kultūrinės teisės tautinėms mažumoms.
-    Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konfe-
-    renciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu
-    tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne
-    tiek į rytus /Rusiją/ ir ne tiek į pietus /Lenkiją/, kiek į vakarus /Vokieti-
-    ją/“. Konferencijoje išrinkta 20 asmenų Lietuvos Taryba (ji pradėjo veikti
-    rugsėjo 24 dieną) kaip vykdomasis Lietuvos žmonių organas, o jos pirmi-
-    ninku – teisininkas, lietuviškų laikraščių redaktorius A. Smetona, tikintis,
-    Lietuvių konferencijos Vilniuje prezidiumas (1917 m. rugsėjis)
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-032
-    - t-041
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    giausia tai spontaniškas atsakas į sovietų politiką Lietuvoje, iš dalies jis
-    ruoštas – antisovietinio sukilimo idėją Vokietijos ir SSRS karo pradžioje
-    brandino buvusio Lietuvos pasiuntinio Berlyne Kazio Škirpos vadovauja-
-    mas 1940 m. lapkritį Berlyne grupės lietuvių emigrantų įkurtas Lietuvių
-    aktyvistų frontas (LAF), save laikęs pagrindiniu sukilimo organizatoriumi.
-    1941 m. birželio 26 d. sovietų nužudyti Pravieniškių lagerio
-    kaliniai ir prižiūrėtojai
-    Kauno gyventojai sveikina įžengusį vermachtą 1941 m.
-    (R. Mičiūno reprodukcija)
-
-    L I E T U V O S  I S T O R I J A
-    196
-    Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
-    Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis
-    dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą,
-    būsimo sukilimo detales. Kadangi karinė LAF dalis bendradarbiavo su
-    Abveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-
-    gus, oro uostus, fabrikus ir kt. LAF vadovybė pernelyg pasitikėjo nacių
-    Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus
-    suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-040
-    - t-033
-
-- c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu jau buvo pakankamai
-    kandidatų aukštajai mokyklai, kuri buvo labai reikalinga, nes
-    daugelis jaunimo turėjo vykti toliau mokytis į užsienio univer-
-    sitetus. Daugelis vyko į Vokietiją; bet kadangi ten universitetai
-    buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.
-    Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje
-    buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-
-    talikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-
-    testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-
-    likybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-    - t-012
-
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dar niekas nenutuokė juos buvus
-    kunigaikščio gudrybe ir apgaule, ypač, kai greitai kitas išti­
-    ko dalykas, kurio tikslų irgi negalima buvo suprasti. Mat
-    atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
-    apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad
-    teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­
-    nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant
-    valdovo sumanymą. Atvykę taip pat Rygos miesto pasiun­
-    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
-    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
-    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
-    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
-    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
-    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
-    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
-    tvirtintą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-024
-
-- c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lenkiją. Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
-    ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
-    tuonios sutartys ir pasiekta daugiausia. A. Voldemaras užsienio politiką
-    stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesi-
-    keičia, tačiau be Vilniaus Lietuva nėra vienas kūnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-025
-
-- c-010
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
-    cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
-    davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
-    kur Taryba veda Lietuvą. Kovo 23 dieną Berlyne A. Smetonos vadovau-
-    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
-    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
-    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
-    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
-    gruodžio 11-osios rezoliucijos pagrindu.
-    Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
-    vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
-    jungti Lietuvą personaline unija su Saksonija arba Prūsija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-002
-
-- c-011
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau laimėjo lietuviai
-    ir karalius; lenkai irgi sutiko apsidėti mokesčiais. Lietuva noriai
-    pasižadėjo duoti 10.000 karių. Tuo būdu surinkus pinigų, prisi-
-    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
-    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
-
-    1579 m. vasarą pats karalius iš Vilniaus išžygiavo prieš caro
-    kariuomenę, kuri buvo suspiesta Pskove.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-010
-
-- c-012
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
-    50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
-    Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje. Aštrėjant santykiams
-    tarp didžiųjų valstybių, gegužę Lietuvos diplomatams nurodyta, kad
-    Lietuva laikysis griežto neutraliteto „kiekvienoje situacijoje ir kiekvienu
-    klausimu“.
-    Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir
-    sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS
-    pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
-    mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-    - t-005
-
-- c-013
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1935 m. balandį
-    S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuria-
-    me išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus,
-    mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Nega-
-    lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-
-    žinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje
-    S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
-    bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
-    J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-023
-    - t-026
-
-- c-014
-  santrauka: '1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją išvyko į JAV.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Per trejus–ketverius metus į JAV pasisekė atvykti
-    visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
-    30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
-    1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
-    geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
-    tugaliją išvyko į JAV.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-015
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pabėgėlių gretas pa-
-    pildė nacių okupacijos metais prievarta išvežti į Vokietiją dirbti lietuviai.
-    Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų
-    (angl. displaced persons (DP) – perkeltieji asmenys) – karo pabėgėlių, dėl
-    įvairių priežasčių atsidūrusių už tėvynės ribų, stovyklas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-027
-
-- c-016
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Daugelis vyko į Vokietiją; bet kadangi ten universitetai
-    buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.
-    Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje
-    buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-
-    talikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-
-    testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-
-    likybę. Todėl katalikų dvasininkams ir jėzuitams buvo labai
-    svarbu įkurti savo aukštąją mokyklą, kad kuo mažiausia vyktų
-    mokytis svetur ir kad vietoje būtų galima paruošti didžiai rei-
-    kalingų katalikų šviesuolių su aukštuoju mokslu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-030
-
-- c-017
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ištremtųjų
-    vietas turėjo užimti atkelti milijonai vokiečių.
-    Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-
-    ministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis
-    okupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų
-    Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
-    (Ostlando) reicho komisariatas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-
-- c-018
-  santrauka: '1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis ir su ja pasiekė daugiausia užsienio politikos susitarimų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pasirodė, kad jis neturėjo naujų užsienio politikos idė-
-    jų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas –
-    Red.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe.
-    A. Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų drau-
-    gai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina
-    per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš
-    VII Lietuvos žemės ūkio  ir pramonės parodos lankytojai
-    (Kaunas, 1928 m.)
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    159
-    Lenkiją. Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
-    ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
-    tuonios sutartys ir pasiekta daugiausia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-039
-
-- c-019
-  santrauka: 'Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo pergalių prieš katalikų kariuomenes.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo
-    vadovaujama švedų kariuomenė ėmė skinti pergales prieš kata-
-    likų kariuomenes Trisdešimtmečio karo mūšių laukuose (1618-
-    1648 m.), Vokietijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-020
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Diplom. T. IV, p. 1034-1035;
-    kad Karolis Tryrietis, dar 1323 m.
-    rugpjūčiui įpusėjus, buvo Vokietijo­
-    je. Apie jo priėmimą popiežiaus
-    rūmuose pasakoja Vygandas
-    M a r b u r g a s, p. 279; Adiit papam,
-    u quo honorifice et amicabiliter suscep­
-    tus est [Atvyko pas popiežių, kurio
-    buvo pagarbiai ir draugiškai priim­
-    tas].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-038
-    - t-029
-
-- c-021
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lenkai dar labiau su­
-    stiprino sargybas, kad nepravažiuotų delegacija, kuri vežė vainikus.
-    Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
-    Vokietijon. Vainikavimas susitrukdė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-037
-    - t-031
-
-- c-022
-  santrauka: 'Kaltinamieji teigė, kad Klaipėdą laiko Vokietijos dalimi ir nurodymus gaudavo iš Vokietijos nacių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-
-    kiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-
-    momis, instrukcijomis, lapeliais, ginklais. Dauguma kaltinamųjų sakė,
-    kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-
-    vo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems
-    davė nacių vadai Valteris R.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-036
-
-- c-023
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių
-    ir krikštytų čiabuvių karinė pajėga. Neišnyko nė senas paprati-
-    mas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specia-
-    lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
-    nas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-021
-    - t-004
-
-- c-024
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Atvyko
-    Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
-    su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos
-    giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su
-    gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
-    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
-    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
-    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
-    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
-    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
-    niai^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-028
-
-- c-025
-  santrauka: '1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo Lietuvai neatidavė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be to, moderniosios Lietuvos
-    valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes. Tiesa, Versalio
-    taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-
-    vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė-
-    diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
-    statuso (panašaus į Dancigo (dabar Gdanskas)).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
-- c-026
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    pabaigoje padėtis pasikeitė. Vokie-
-    tija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabar-
-    tinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo
-    į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai. Geryn
-    klostėsi santykiai su kaimyne Lenkija, mat Vilniuje per pusę šimtme-
-
-    L I E T U V O S  I S T O R I J A
-    256
-    čio demografinė padėtis pasikeitė lietuvių naudai, lenkų Vilniuje liko
-    20  proc.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-022
-
 - c-027
   santrauka: 'Po magistro mirties Ordine buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos šeimose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1584,44 +1030,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
-
-- c-028
-  santrauka: 'Dvasininkais besirengiantys studentai paprastai vykdavo į Krokuvą, o kiti mokėsi Vokietijos, Italijos ir Prancūzijos universitetuose.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šiaip, kas norėdavo gauti aukštesniojo ir
-
-
-    aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-
-    ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
-    visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
-    Italiją ir Prancūziją. Kadangi į tolimuosius kraštus tegalėjo
-    vykti mokytis tik turtingųjų bajorų vaikai, todėl mokytų žmo-
-    nių buvo nedaug.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-042
-
-- c-029
-  santrauka: 'Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš
-    nestabilių Rytų rinkų į reiklesnes Vakarų rinkas. Lietuvos pagrindinėmis
-    užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
-    (antroje vietoje). Greitai persiorientavusi į Vakarus Lietuvos ekonomika
-    išvengė nuosmukio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-043
 
 ## Citatos
 
@@ -1685,8 +1093,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181182
     - t-181180
+    - t-181182
 
 - id: c-164731
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1772,8 +1180,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181209
     - t-181201
+    - t-181209
 
 - id: c-164736
   redaktorius: "A. Šapoka"
@@ -1796,8 +1204,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181185
     - t-181178
+    - t-181185
 
 - id: c-164737
   autorius: "Michał Baliński"
@@ -1870,8 +1278,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181172
     - t-181163
+    - t-181172
 
 - id: c-164745
   redaktorius: "A. Šapoka"
@@ -1916,8 +1324,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181181
     - t-181168
+    - t-181181
 
 - id: c-164748
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2085,8 +1493,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181206
     - t-181196
+    - t-181206
 
 - id: c-164759
   autorius: "Zenonas Ivinskis"
@@ -2103,7 +1511,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181205
     - t-181199
 
 - id: c-164760
@@ -2140,8 +1547,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181187
     - t-181167
+    - t-181187
 
 - id: c-164765
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2212,15 +1619,16 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - id: c-164773
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.
-    Jo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame
-    Ordine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos
-    šeimose. Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir
-    pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų
-    šio Ordino vienuoli© apsiaustą.
+    Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
+    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
+    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
+    Jo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo
+    girdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno
+    žmogaus pastangomis. Neverta dėl to stebėtis. Dievas jam buvo suteikęs tokių malonių,
+    kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
+  citata_rodoma: "Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.\nJo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame\nOrdine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos\nšeimose. Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir\npats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų\nšio Ordino vienuoli© apsiaustą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2265,6 +1673,24 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193656
+
+- id: c-179053
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
+    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
+    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
+    Jo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo
+    girdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno
+    žmogaus pastangomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197181
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Poponas iš Osternos]]

@@ -42,53 +42,6 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
   teiginys: "Švitrigailos sutarties su Didžiuoju Naugardu originalas buvo laikomas Užsienio reikalų kolegijos archyve ir buvo sunkiai įskaitomas."
   pagrindžia:
     - c-84344
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Švitrigailos sutarties su Didžiuoju Naugardu originalas buvo laikomas Užsienio reikalų kolegijos archyve ir buvo sunkiai įskaitomas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nors šiuo
-    6
-    Šios sutarties originalas (kaip tvirti­
-    na K a r a m z i n a s, V, L 144, prie-
-    raš.) yra Užsienio reikalų kolegijos
-    archyve, bet toks senas, kad pavyko
-    įskaityti tik kai kurias ir tai ne išti­
-    sas eilutes. Dar žr. Coópanue rocy-
-    gapcmDcniiLixL TpciM M om h, L 24.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Volumes gyventojai, jausdami karaliui anti­
-    patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų
-    apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­
-    tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­
-    nėtinai sėkmingas, taigi karalius, negalėdamas nieko jam pa­
-    tarti, sudarė su juo ilgalaikes paliaubas. Tik tada Švitrigaila
-    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
-    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
-    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
-    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
-    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
-    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
-    ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,31 +35,6 @@ List Radzcy Wileńskomu Bohdanu Onkieiviczu, na wybranie jemu winnych peneźy z 
   teiginys: "Vilniaus tarėjas Bohdanas Ankevičius gavo leidimą surinkti jam priklausančius pinigus iš Bobruisko ir Svisločės smuklių už devynerius metus."
   pagrindžia:
     - c-83614
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilniaus tarėjas Bohdanas Ankevičius gavo leidimą surinkti jam priklausančius pinigus iš Bobruisko ir Svisločės smuklių už devynerius metus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    List Radzcy Wileńskomu Bohdanu On-
-    kieiviczu, na wybranie jemu winnych
-    peneźy z Korczem Bobruyjskoje i
-    Swisłockoje do dewet let spoina [Laiš­
-    kas Vilniaus tarėjui Bohdanui Anke-
-    vičiui, leidžiantis jam surinkti pri­
-    klausančius pinigus iš Bobruisko ir
-    Svisločės smuklių už devynerius
-    metus], 1. 100. Tam pačiam duotas
-    laiškas, leidžiantis surinkti jam pri­
-    klausančią pinigų sumą 472 kapas
-    grašių iš Oršos smuklės už 6 metus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

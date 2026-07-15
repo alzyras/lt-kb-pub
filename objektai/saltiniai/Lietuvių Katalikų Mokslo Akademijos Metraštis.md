@@ -41,22 +41,6 @@ LAM = Lietuvių Katalikų Mokslo Akademijos Metraštis, t.
   teiginys: "„Lietuvių Katalikų Mokslo Akademijos Metraščio“ 1-5 tomus 1965-1971 m. redagavo A. Liuima."
   pagrindžia:
     - c-33623
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    : Mūsų Lietuva, t. 1-4, Boston, Mass. (J. A. V.),
-    1964-68.
-    LAM = Lietuvių Katalikų Mokslo Akademijos Metraštis, t. 1-5, red.
-    A. Liuima, S. J.^ 1965-1971.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

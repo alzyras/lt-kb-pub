@@ -34,34 +34,13 @@ Narbutas iš Bergerono kelionių aprašymų siejo Kantorinio liudijimą su lietu
   teiginys: "Narbutas iš Bergerono kelionių aprašymų siejo Kantorinio liudijimą su lietuviška apeigų muzika."
   pagrindžia:
     - c-173298
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas iš Bergerono kelionių aprašymų siejo Kantorinio liudijimą su lietuviška apeigų muzika.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Žinome, kad per panašias apeigas skam­
-    bėdavo lietuviška muzika. Venecijos pasiuntinys Kantorinis
-    (Kantoriui) Bergerono kelionių aprašymuose duoda tam tikrą
-    supratimą apie tą muziką, susidedančią iš katilų, būgnų, tri­
-    mitų, ragų, dūdelių; apie tas aukas galime tik spėlioti, nes duo­
-    menų apie jas neišliko.
-    6.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 313"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 313."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Žinome, kad per panašias apeigas skam­
     bėdavo lietuviška muzika. Venecijos pasiuntinys Kantorinis

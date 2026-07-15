@@ -57,28 +57,6 @@ Nenurodyta
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
 - susijęs iš Vidugiriai: 1920 m. rugsėjo 22 d. leitenantas Jonas Kuklieris buvo žuvęs mūšyje netoli Vidugirio kaimo.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Buvo sunai-
-    kintos 1-oji baterija, 5-oji bei 2-oji haubicų
-    baterijos. Bendrai nukautaisiais, sužeistai-
-    siais, patekusiais į nelaisvę Lietuvos pajė-
-    gos visos Augustavo-Suvalkų operacijos
-    metu prarado daugiau nei 2 000 karių.
-    Vieną reikšmingiausių nesėkmių Lietuvos
-    karo istorijoje nulėmė daugelis aplinky-
-    bių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44892

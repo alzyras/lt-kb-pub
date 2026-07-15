@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Per Pelužio antpuolį žuvo septyniasdešimt kunigaikščių bei didikų, o jaunikis, jaunoji ir tarybos narių šeimos buvo išgabenti į Karaliaučių.
+Per Pelužio antpuolį žuvo septyniasdešimt kunigaikščių bei didikų, o jaunikis, jaunoji ir tarybos narių šeimos buvo išgabenti į Karaliaučių. Kojelavičiaus pasakojime Pelužio žygio planas buvo slepiamas nuo paprastų karių, kad lietuviai nebūtų įspėti apie rengiamas skerdynes. Per Pelužio antpuolį, be daugelio žemesnės padėties žmonių, žuvo septyniasdešimt kunigaikščių ir didikų, o jaunikiai ir moterys išgabenti į Karaliaučių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -54,34 +54,20 @@ Nenurodyta
   teiginys: "Per Pelužio antpuolį žuvo septyniasdešimt kunigaikščių bei didikų, o jaunikis, jaunoji ir tarybos narių šeimos buvo išgabenti į Karaliaučių."
   pagrindžia:
     - c-169122
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Per Pelužio antpuolį žuvo septyniasdešimt kunigaikščių bei didikų, o jaunikis, jaunoji ir tarybos narių šeimos buvo išgabenti į Karaliaučių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nelauktas svečias
-    160
-
-    ## Puslapis 159
-
-    gūdžią naktį užpuolė pasigėrusius ir įmigusius poky­
-    liautoj us. Žinoma, kilęs triukšmas pažadino daugelį, ne­
-    pavyko jų išgalabyti lovose, daugelis griebėsi ginklo,
-    tačiau, užsimiegoję ir įsigėrę, nepajėgė nei ginklu gin­
-    tis nuo dūrių, nei išmone, nežinodami, nei koks už­
-    griuvo pavojus, nei iš kur. Be galybės šeimynykščių ir
-    kitokių menkos padėties žmonių, žuvo septynios dešim­
-    tys kunigaikščių bei didikų; pats jaunikis bei jaunoji,
-    visos tarybos narių žmonos bei dukros su didžiuliu
-    grobiu buvo išgabentos į Karaliaučių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196237"></a>
+- t-002
+  global_id: t-196237
+  teiginys: "Kojelavičiaus pasakojime Pelužio žygio planas buvo slepiamas nuo paprastų karių, kad lietuviai nebūtų įspėti apie rengiamas skerdynes."
   pagrindžia:
-    - t-001
+    - c-178591
+
+<a id="claim-t-196238"></a>
+- t-003
+  global_id: t-196238
+  teiginys: "Per Pelužio antpuolį, be daugelio žemesnės padėties žmonių, žuvo septyniasdešimt kunigaikščių ir didikų, o jaunikiai ir moterys išgabenti į Karaliaučių."
+  pagrindžia:
+    - c-169122
 
 ## Citatos
 
@@ -90,13 +76,7 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Nelauktas svečias
-    160
-
-    ## Puslapis 159
-
-    gūdžią naktį užpuolė pasigėrusius ir įmigusius poky­
-    liautoj us. Žinoma, kilęs triukšmas pažadino daugelį, ne­
+    Žinoma, kilęs triukšmas pažadino daugelį, ne­
     pavyko jų išgalabyti lovose, daugelis griebėsi ginklo,
     tačiau, užsimiegoję ir įsigėrę, nepajėgė nei ginklu gin­
     tis nuo dūrių, nei išmone, nežinodami, nei koks už­
@@ -104,10 +84,44 @@ Nenurodyta
     kitokių menkos padėties žmonių, žuvo septynios dešim­
     tys kunigaikščių bei didikų; pats jaunikis bei jaunoji,
     visos tarybos narių žmonos bei dukros su didžiuliu
-    grobiu buvo išgabentos į Karaliaučių.
+    grobiu buvo išgabentos į Karaliaučių. Šitaip viena pra­
+    gaištinga puota privertė gedėti dėl artimųjų mirties
+    ar nelaisvės beveik visas Lietuvos šeimas, šitaip vie­
+    noje vietoje tapo apiplėšta beveik visa Lietuva, nes
+    turtingiausieji, kaip tada buvo įprasta, susivežė ten
+    kartu su žmonomis ir vaikais visus lobius, norėdami
+    pasigirti. Kai po šio smūgio Lietuva šiek tiek atsiga­
+    vo, Vytenis, surinkęs visose valdose lėšų, vieną ka­
+    riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo­
+    čius.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185761
+    - t-196238
+
+- id: c-178591
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Žygis nereikalavo didelės ka­
+    riuomenės, būtų užtekę negausaus, bet ryžtingo būrio,
+    lengvai ginkluotų, bet drąsių, ne per daug besidomin­
+    čių vado planais karių. Mat paprasti kareiviai apskri­
+    tai neturėjo žinoti, ko imamasi, nenorėta, kad kalbos
+    apie žygį pasklistų tarp Pelužio palydovų, kad kartais
+    jų neišgirstų žmogus, kuris susimanytų ar iš gailesčio,
+    ar iš baimės įspėti savo krašto žmones apie rengiamas
+    skerdynes. Be to, reikėjo karius taip vesti, kad tik ta­
+    da lietuviai pajustų, jog priešas perėjo sieną, kai žy­
+    gis bus baigtas: didžiausią rūpestį kėlė ne tiek lietuvių
+    kariuomenė, kiek jų budrumas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196237

@@ -35,24 +35,6 @@ media_all_json: |-
   teiginys: "Raigardo ežeras buvo perpus dalijamas aprašytos sienos linijos."
   pagrindžia:
     - c-34020
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų
-    Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau
-    Grajevo ir Točilovo ežerų. Šiauriau ji kilo stačiai per tyrus į pu­
-    siau dalinamą Raigardo ežerą. Iš čia ji tęsėsi vėl per dykrą tiesiai
-    į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius
-    ir Vystyčio ežerą, kuris liko ordino pusėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

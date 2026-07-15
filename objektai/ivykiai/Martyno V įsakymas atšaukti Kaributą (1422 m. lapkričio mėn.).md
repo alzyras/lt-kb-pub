@@ -57,26 +57,6 @@ Nenurodyta
   teiginys: "1422 m. lapkritį popiežius Martynas V įsakė Vytautui per du mėnesius atšaukti Kaributą, grasindamas ekskomunika."
   pagrindžia:
     - c-35772
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Popiežius draudė siųsti Kaributą, o kai
-    Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį,
-    jei jo neatšauktų ir nenutrauktų su husitais santykių. Lenkų, o
-    tikriausiai ir Lietuvos vyskupai gavo iš popiežiaus raginimą,
-    kad bažnytinėmis bausmėmis priverstų Vytautą negloboti husi­
-    tų. 1422 m. lapkričio mėn. Vytautas gavo popiežiaus įsakymą
-    dviejų mėnesių bėgy atšaukti Kaributą, nes kitaip būsiąs eksko­
-    munikuotas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

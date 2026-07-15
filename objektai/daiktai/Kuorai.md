@@ -56,13 +56,6 @@ Nenurodyta
   teiginys: "Brandenburgo pilyje broliai ir jų šeimyna gynėsi mediniame kuore nuo prūsų puldinėjimų."
   pagrindžia:
     - c-167364
-
-<a id="claim-t-59691"></a>
-- t-002
-  global_id: t-59691
-  teiginys: "Brandenburgo pilyje broliai ir jų šeimyna gynėsi mediniame kuore nuo prūsų puldinėjimų."
-  pagrindžia:
-    - c-167364
 - susijęs iš [[objektai/daiktai/Tiltas per Prieglių.md#claim-t-59708|Tiltas per Prieglių]]: Prūsai pastatė tiltą per Prieglių su tvirtais kuorais abiejuose galuose, siekdami trukdyti broliams plukdyti reikmenis į Karaliaučiaus pilį.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78395|Notangai]]: 1263 m. notangai apsupo Kroicburgo pilį ir trejus metus ją puolė trimis apgulos mašinomis bei trimis kuorais.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175092|Sembai]]: Sembai paliko kuorus prie Karaliaučiaus, pasitraukė ir pastojo kelią maldininkų kariuomenei.
@@ -85,39 +78,17 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Katilas.md#claim-t-59689|Katilas]]: Prūsai katile buvo pratę virti savo šventenybes, kaip reikalavo jų apeigos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178878|Kryžiuočių ordinas]]: Apgulus Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, Kryžiuočių ordino broliai kentė badą ir stygių.
 - susijęs iš Karaliaučius: Po Torno taikos Ordinas, tapęs Lenkijos vasalu, perkėlė savo sostinę į Karaliaučių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dusburgietis teigia, kad šitai išgirdęs, komtūras susirūpino ir patraukė su saviškiais link Karaliaučiaus, o parplaukęs laivais į Brandenburgą, čia išvadavo nuo prūsų brolius ir kitus iš savo šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė
-    Varmių vadui Glapui, kad broliai esą iš čia išvykę. Šis su daugybe karių atvyko ir užėmė
-    pilį. Šitai išgirdęs, komtūras susirūpino  ir patraukė su saviškiais link Karaliaučiaus,
-    o parplaukęs laivais  į Brandenburgą, čia išvadavo nuo prūsų brolius  ir kitus iš savo
-    šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus
-    išsivedė su savimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-167364
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 131"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė
     Varmių vadui Glapui, kad broliai esą iš čia išvykę. Šis su daugybe karių atvyko ir užėmė
-    pilį. Šitai išgirdęs, komtūras susirūpino  ir patraukė su saviškiais link Karaliaučiaus,
-    o parplaukęs laivais  į Brandenburgą, čia išvadavo nuo prūsų brolius  ir kitus iš savo
+    pilį. Šitai išgirdęs, komtūras susirūpino ir patraukė su saviškiais link Karaliaučiaus,
+    o parplaukęs laivais į Brandenburgą, čia išvadavo nuo prūsų brolius ir kitus iš savo
     šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus
     išsivedė su savimi.
   statusas: verified
@@ -125,5 +96,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183979
     - t-59691

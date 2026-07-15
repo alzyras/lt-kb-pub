@@ -35,8 +35,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   teiginys: "Vyskupas Kristijonas dažnai ragino prūsus atsisakyti stabų, tačiau dieviškojo žodžio sėkla tarp jų krito į negerą dirvą."
   pagrindžia:
     - c-59722
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vyskupas Kristijonas dažnai ragino prūsus atsisakyti stabų, tačiau dieviškojo žodžio sėkla tarp jų krito į negerą dirvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,18 +63,19 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 - id: c-59722
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 42"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip prūsai niokojo Kulmo žemę
-
-      Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai
-    krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos
-    vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai
-    sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą
-    Jėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą. Mat jie
+    Mat jie
     buvo tokie užkietėję nedorėliai, kad jokie išganingi įkalbinėjimai nestengė jų atitraukti
-    nuo netikėjimo klaidos.
+    nuo netikėjimo klaidos. Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
+    būdami netikėliai ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo
+    160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo ir
+    Lenčicos, 1229 ir 1241—1243 m. Krokuvos kunigaikštis.
+    161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
+    misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
+    tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas
+    ir su Lekno vienuolynu į šiaurės vakarus nuo Gnezno).
+  citata_rodoma: "Apie tai, kaip prūsai niokojo Kulmo žemę\n\n  Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai\nkrikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos\nvyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai\nsėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą\nJėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą. Mat jie\nbuvo tokie užkietėję nedorėliai, kad jokie išganingi įkalbinėjimai nestengė jų atitraukti\nnuo netikėjimo klaidos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

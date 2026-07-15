@@ -73,30 +73,6 @@ Archeologijos ir mokslo komisija.
 - susijęs iš [[objektai/autoriai/Laurynas Ivinskis.md#claim-t-113487|Laurynas Ivinskis]]: M. Balinskis Gazeta Warszawska straipsniuose supažindino skaitytojus su Lauryno Ivinskio kalendoriais.
 - susijęs iš Lauryno Ivinskio kalendoriai: M. Balinskis Gazeta Warszawska straipsniuose skaitytojams pristatė Lauryno Ivinskio kalendorius.
 - susijęs iš Gazeta Warszawska: „Gazeta Warszawska“ buvo svarbi M. Balinskio publicistinės literatūros dalis.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Michałas Balińskis laikraštyje „Gazeta Warszawska“ detaliai aprašė Vilniaus archeologijos komisijos veiklą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iki pat gyvenimo pabaigos M. Balinskis liko kritinio meto­
-    do, kurį jam dar jaunystėje įskiepijo istorikas J. Lelevelis, šali­
-    ninkas. Kituose Gazeta Warszawska spausdintuose straipsniuo­
-    se istorikas detaliai aprašė Vilniaus Archeologinės komisijos
-    veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė
-    istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­
-    šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis
-    supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
-    rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-78240
@@ -119,5 +95,5 @@ Archeologijos ir mokslo komisija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81662
     - t-55076
+    - t-81662

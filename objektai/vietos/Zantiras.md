@@ -38,7 +38,6 @@ Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksči
 - susijęs iš Marienburgas Zantiras: Narbutas nurodė, kad Marienburgo vietovė prie Nogato anksčiau vadinosi Zantiras.
 - susijęs iš Marienburgas Zantiras: Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėjusi trečia šventykla.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksčiau vadinosi Zantiru.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -60,13 +59,16 @@ Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksči
 - id: c-171974
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Trečia šventykla buvo vietovėje, kur dabar Marienburgas,
-    prie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu,
-    pastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę.
-    Toji vietovė anksčiau vadinosi Zantiras.
+    Vis dėlto istorija mena labai seną šventyklą, kuri buvo
+    prie Baltijos jūros Austechijos (Aiistechia - Aukštaitija. -R. J.)'°
+    provincijoje, iki šiol neištirtoje vietoje; anot Sarnickio", tai lies­
+    tų Kuršą. Kadangi istorikai šią šventyklą vadina ir Romove,
+    todėl reikėtų manyti, kad, žlugus senajai prūsų religijai, Ale-
+    po, paskutinio prūsų vyriausiojo žynio, įpėdinis iš pradžių gy­
+    veno prie šios šventyklos; su tuo sutinka ir Strijkovskis.
+  citata_rodoma: "Trečia šventykla buvo vietovėje, kur dabar Marienburgas,\nprie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu,\npastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę.\nToji vietovė anksčiau vadinosi Zantiras."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

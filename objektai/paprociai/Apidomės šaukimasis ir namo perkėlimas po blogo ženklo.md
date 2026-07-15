@@ -65,8 +65,8 @@ Nenurodyta
   teiginys: "Narbutas rašo, kad aklo arba ydingai gimusio naminio gyvulio atvejį lietuviai laikė nelaimingu ženklu."
   pagrindžia:
     - c-170998
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -93,23 +93,22 @@ Nenurodyta
 - id: c-170998
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 167."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apidomė (Apidonu)
-    Šio dievaičio būdavo šaukiamasi, kai ūkininkas būdavo pri­
-    verstas keisti gyvenamąją vietą dėl kokio nors negero nutiki­
-    mo arba dėl kerėtojo ištarto nepalankaus pranašavimo. Šiuo
-    atveju lietuviai nelaimingu ženklu laikė, jei naminis gyvulys
-    gimdavo aklas arba su kokia baisia yda. Šitaip nutikus, būda­
-    vo iškilmingai šaukiamasi dievaičio Apydėmės (Apidonu), ku­
-    riam kaip auka su ypatingomis apeigomis būdavo kepama duo­
-    na (Donas), po to namą perkeldavo į kitą vietą.
+    Lietuviškai Ligas reiškia plyną, lygų, vienodą; iš to Lygičius
+    (Ligiczus) - taikinantis, vienodinantis. Per žiemos švenčių žai­
+    dimus kaimiečiai moka savo tarpe suvaidinti tam tikrą sceninę
+    pantomimą, kurioje dalyvauja vienas ar du asmenys. Tai yra ka­
+    rikatūriški paukščių, gyvulių, žmonių, kuriuos nori išjuokti, pa­
+    mėgdžiojimai, visuomet sukeliantys juoką; merginėjimas, pyk­
+    tis, muštynės, pasipūtimas, orumas, šiurkštumas, gašlūs jude­
+    siai - čia yra visa, ką gali mimo fantazija. Tačiau yra vaidinimų,
+    turinčių tam tikrą planą ir tikslą.
   citata_rodoma: "Šiuo\natveju lietuviai nelaimingu ženklu laikė, jei naminis gyvulys\ngimdavo aklas arba su kokia baisia yda. Šitaip nutikus, būda­\nvo iškilmingai šaukiamasi dievaičio Apydėmės (Apidonu), ku­\nriam kaip auka su ypatingomis apeigomis būdavo kepama duo­\nna (Donas), po to namą perkeldavo į kitą vietą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187987
     - t-187986
+    - t-187987

@@ -79,14 +79,15 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
 - id: c-171763
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 143"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 143."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
-    tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
-    žiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise
-    vadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­
-    vieną šventę, ypač per šv.
+    Senė, vadinama Upine, tomis apei­
+    gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
+    domosios galios. Kai Vilkijos seniūnas Zabiela uždraudė tuos
+    kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
+    šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
+    ris dėl to iki šiol neprarado gydomojo poveikio.
+  citata_rodoma: "Man pasisekė toks tyrimas. Kairiajame Nemuno krante,\ntarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­\nžiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise\nvadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­\nvieną šventę, ypač per šv."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

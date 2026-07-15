@@ -44,24 +44,6 @@ Eberhardtu.
   pagrindžia:
     - c-44577
 - susijęs iš [[objektai/asmenys/R. fon der Goltzas.md#claim-t-40401|R. fon der Goltzas]]: 1919 m. spalio 12 d. gen. R. von der Goltzą pakeitė gen. W. Eberhardtas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1919 m. spalio 12 d. gen. R. von der Goltzas buvo pakeis-
-    tas gen. W. Eberhardtu. Dalis vokiečių grįžo į Vokietiją, ta-
-    čiau didesnė dalis įsiliejo į Bermonto pajėgas. Jiems buvo
-    mokama gera alga, pergalės atveju žadama duoti žemės
-    Latvijoje ar Lietuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44577

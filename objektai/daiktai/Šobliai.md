@@ -56,23 +56,6 @@ Nenurodyta
   teiginys: "Dolegos vedamo pirmojo pulko kareiviai prie šonų turėjo šoblias, ant pečių - muškietus, ant galvų - konfederatkes."
   pagrindžia:
     - c-41113
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Buvusi ten atėjusi Lietuvos kariuomenė, trys didžiausi pulkai. Vienas pulkas, Dolegos
-    vedamas, antras kunigo Mackevičiaus, trečias kunigo Pežos-Palionio. Pirmajame visi
-    | kareiviai gražiai apsitaisę, prie šonų šoblios, ant pečių muškietai, ant galvų konfederat-
-    kos. Antrasai pulkas aptaisytas, kas ką turėjo; o trečiasai - sodiečių, beveik visų vyzoty,
-    dalgėm apginkluotų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

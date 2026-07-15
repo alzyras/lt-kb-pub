@@ -65,6 +65,7 @@ Nenurodyta
   teiginys: "Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje."
   pagrindžia:
     - c-73036
+    - c-166622
 
 <a id="claim-t-75123"></a>
 - t-003
@@ -80,134 +81,12 @@ Nenurodyta
   pagrindžia:
     - c-73034
 
-<a id="claim-t-183234"></a>
-- t-005
-  global_id: t-183234
-  teiginys: "Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje."
-  pagrindžia:
-    - c-166622
-
 <a id="claim-t-183235"></a>
-- t-006
+- t-005
   global_id: t-183235
   teiginys: "Prieš Liaudies seimo rinkimus, 1940 m. liepos 11–12 d., valdžia suėmė kelis šimtus žinomų šalies veikėjų."
   pagrindžia:
     - c-166623
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Oficialiais duomenimis, 1940 m. liepos 14–15 d. rinkimuose į Liaudies seimą dalyvavo 95 proc. rinkėjų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Viešai grasinama,
-    kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
-    tininkai ir aukštus postus turėję valdininkai. Prieš pat rinkimus, liepos
-    11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.
-    Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
-    seimą dalyvavo 95 proc.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  santrauka: 'Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pusė jų – atrinkti komunistų partijos nariai, kiti komunistų simpatikai
-    („nepartiniai komunistai“). Per rinkimų agitaciją valdžia daug dėmesio
-    skyrė A. Smetonos režimo kritikai ir niekinimui, propagandai, meluo-
-    ta, kad rinkimai vyks demokratiškai, Lietuva išliks nepriklausoma, bus
-    išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
-    kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
-    tininkai ir aukštus postus turėję valdininkai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iš pareigų atleisti
-    apskričių viršininkai, valsčių viršaičiai, policijos viršininkai – jų vietas
-    užėmė sovietams prijaučiantieji, o vyriausybės daugumą sudarius komu-
-    nistams imta ruoštis visiškam Lietuvos prijungimui prie SSRS.
-    Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –
-    toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
-    vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
-    jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Prieš 1940 m. Liaudies seimo rinkimus valdžia liepos 11–12 d. suėmė kelis šimtus žinomų Lietuvos veikėjų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prieš pat rinkimus, liepos
-    11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.
-    Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
-    seimą dalyvavo 95 proc. (per rinkimus į pasus buvo dedami antspaudai),
-
-    L I E T U V O S  I S T O R I J A
-    192
-    iš jų 99,19 proc. balsavo už Lietuvos darbo liaudies sąjungos kandidatus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-005
-  santrauka: 'Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –
-    toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
-    vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
-    jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos. Visi
-    iki vieno iškelti 79 kandidatai (per skubėjimą neapsižiūrėta, kad vienas
-    miręs) atstovavo mitologinei Lietuvos darbo liaudies sąjungai (LDLS).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Prieš Liaudies seimo rinkimus, 1940 m. liepos 11–12 d., valdžia suėmė kelis šimtus žinomų šalies veikėjų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Per rinkimų agitaciją valdžia daug dėmesio
-    skyrė A. Smetonos režimo kritikai ir niekinimui, propagandai, meluo-
-    ta, kad rinkimai vyks demokratiškai, Lietuva išliks nepriklausoma, bus
-    išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
-    kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
-    tininkai ir aukštus postus turėję valdininkai. Prieš pat rinkimus, liepos
-    11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
 
 ## Citatos
 
@@ -304,12 +183,10 @@ Nenurodyta
     iki vieno iškelti 79 kandidatai (per skubėjimą neapsižiūrėta, kad vienas
     miręs) atstovavo mitologinei Lietuvos darbo liaudies sąjungai (LDLS).
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183234
-
 - id: c-166623
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

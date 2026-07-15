@@ -78,79 +78,6 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 - susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
 - susijęs iš Praga: Būtautas, vadintas Henricus dux Lithuaniae, ilgai gyveno imperatoriaus Karolio IV dvare ir 1380 m. mirė Pragoje.
 - susijęs iš Praga: Būtautas, ilgai gyvenęs imperatoriaus Karolio IV dvare, 1380 m. mirė Pragoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pasiekęs neregėtą galybę rytuose, Algirdas 1358 m. derybose su
-    Šv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti
-    kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietu-
-    vai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.
-    Kryžiuočiai į tai atsakė 1360 m. prasidėjusiomis intensyviomis
-    puolamosiomis operacijomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1358 m. Šv. Romos imperatorius Karolis IV derėjosi su Algirdu, kuris reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pergalė prieš kryžiuočius. Lietuvos galybės maksimumas
-
-    Pasiekęs neregėtą galybę rytuose, Algirdas 1358 m. derybose su
-    Šv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti
-    kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietu-
-    vai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  santrauka: 'Karolis IV buvo imperatorius, kurį Kazimieras siekė įtraukti į pasiūlymą Lietuvai krikštytis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet Kęs-
-    tučio pažadas buvo duotas sunkaus karo metu; iš tikro jis nė
-    neketino krikštytis. Vos tik Kazimieras pasitraukė iš kovų lauko,
-    Kęstutis su Liubartu tuojau išvarė lenkų įgulas iš Voluinės pi-
-    lių, ir vėl prasidėjo karas. Tada Kazimieras ėmė rūpintis, kad
-    Lietuvai pasiūlytų krikštytis patsai popiežius ir imperatorius Ka-
-    rolis IV.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: '1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
-    apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.
-    1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
-    grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
-    Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-11538
@@ -214,8 +141,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 - id: c-85800
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 12"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
     apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.

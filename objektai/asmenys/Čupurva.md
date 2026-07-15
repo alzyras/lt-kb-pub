@@ -43,28 +43,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   teiginys: "1396 m. Vilniuje Čupurva minėtas kaip viena iš dvaro maršalkų, dalyvavusių akto sudaryme."
   pagrindžia:
     - c-83876
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1396 m. Vilniuje Čupurva minėtas kaip viena iš dvaro maršalkų, dalyvavusių akto sudaryme.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Aktuota
-    ir duota Vilniuje, Švč. Mergelės Ma­
-    rijos Apsivalymo dienoje, Viešp. me­
-    tais 1396. Dalyvaujant garbingiems
-    ir narsiems vyrams Mingailai, Goš­
-    tautui; Vilniaus vaivadai Manvydui
-    bei mūsų dvaro maršalkoms Čupur-
-    vai ir Milonui bei daugeliui kitų, ver­
-    tų pasitikėjimo].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

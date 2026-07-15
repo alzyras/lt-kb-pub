@@ -41,24 +41,6 @@ Kaip pats prisipažino atsiminimuose, turėjęs „gimti Mickūnuose, jei ne tų
   teiginys: "Michałas Balińskis atsiminimuose rašė, kad būtų gimęs Mickūnuose, jei ne jėgerių ir kazokų užpuolimas."
   pagrindžia:
     - c-82834
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Michałas Balińskis atsiminimuose rašė, kad būtų gimęs Mickūnuose, jei ne jėgerių ir kazokų užpuolimas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tai didelis jo nuopelnas.
-    M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
-    li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
-    Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
-    mas"2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

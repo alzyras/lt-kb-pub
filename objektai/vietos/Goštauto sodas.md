@@ -34,21 +34,6 @@ Goštauto sodas.
   teiginys: "Goštauto sodas."
   pagrindžia:
     - c-176876
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Goštauto sodas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    9. Goštauto sodas.
-    10. Dominikonų ordino namas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

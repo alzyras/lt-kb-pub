@@ -38,7 +38,6 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
 - susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66894|Senenzės pilies apgula ir Divano žūtis]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88530|Bartai]]: Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Brolis Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą, po to puolėjai pasitraukė nebaigę puolimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,16 +62,18 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
 - id: c-60872
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
-    pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
-    tikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių. Kai šitai
-    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
-    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
-    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,
-    kiti pasitraukė nebaigę reikalo.
+    Po to veržliai ir žiauriai užgriuvo kito vasalo, riterio, vardu Cipelis, pilį448 ir,
+    nukovęs ar paėmęs į nelaisvę visus ten gyvenusius žmones, abi pilis pavertė pelenais.
+    167 (162). Apie prūsų, mokančių vokiečių kalbą, niekšiškumą
+    Herkus Mantas, notangų vadas, bei daugybė kitų prūsų, iš mažumės augusių prie
+    brolių, pridarė tais negandų metais nemaža piktadarysčių krikščionims, nes labai dažnai,
+    netikėlių kariuomenei traukiant brolių žemėmis, krikščionys, kurie negalėjo pabėgti į
+    pilis, slapstėsi miškuose, brūzgynuose ar pelkėse. Sitai sužinojęs, Herkus, pasiėmęs
+    daug ginklanešių, eidavo į tas vietas, kur tikėdavosi rasti besislapstančiųjų, ir, taikingais
+    žodžiais pridengęs klastą, garsiai vokiškai sakydavo: „Jei kas čia slapstosi, tegu išeina
+    be baimės, nes netikėlių kariuomenė jau atsitraukė“.
   citata_rodoma: "Kai šitai\npadarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga\ngynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas\nKrofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,\nkiti pasitraukė nebaigę reikalo."
   statusas: verified
   teiginio_tipas: faktas

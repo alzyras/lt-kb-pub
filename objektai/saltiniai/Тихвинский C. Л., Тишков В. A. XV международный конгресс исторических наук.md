@@ -7,12 +7,12 @@ datos:
   - '1980 m.'
 date_start: '1980'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad тихвинский C.
   teiginys: "C. L. Тихвинский ir V. A. Тишков straipsnis „XV международный конгресс исторических наук“ paskelbtas 1980 m. leidinio „ВИ“ 12 numeryje, p. 3–23."
   pagrindžia:
     - c-62109
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'C. L. Тихвинский ir V. A. Тишков straipsnis „XV международный конгресс исторических наук“ paskelbtas 1980 m. leidinio „ВИ“ 12 numeryje, p. 3–23.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,22 @@ Dusburgietis teigia, kad тихвинский C.
 - id: c-62109
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 277"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 277."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Тихвинский C. Л., Тишков В. A. XV международный конгресс исторических наук.
-    — ВИ, 1980, № 12, с. 3—23.
+    Rudė, Sembos fogtas
+    Gerkenas B. (Guerquin)
+    Gerlachas Rudasis
+    Gernuldas, abatas
+    Gerševskis S. (Gierszewski)
+    Gertė V. (Gaerte W.)
+    Gerulis G. (Gerullis)
+    Gibelinas
+    Gimbotas L. (Gimboth)
+    Gimbutienė M.
+    Girdavas (D.— Girdaw, Jer.— Girdauwe)
+    Girdila (D.— Girdilo, Jer.— Girdelô)
+    Giunteris, Mazovijos vysk.
+  citata_rodoma: "Тихвинский C. Л., Тишков В. A. XV международный конгресс исторических наук.\n— ВИ, 1980, № 12, с. 3—23."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -65,44 +65,6 @@ Nenurodyta
   teiginys: "Lenčicoje lietuvių delegacija Vytauto vardu pareiškė, kad Vytautas priims karūną nepaisydamas Jogailos pritarimo."
   pagrindžia:
     - c-167617
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tada lietuvių delegacija Vytauto vardu
-    griežtai pareiškė: ar Jogailai patiks ar nepatiks — Vytautas vis
-    tiek karūną priims ir ant savo galvos užsidės^3 ). Paskum Vy­
-    tauto pasiuntiniai greit išvyko iš Lenčicos. O Jogaila susirinku­
-    siems saviškiams dar pasakė ilgą kalbą, pareikšdamas Vytautui
-    savo brolišką meilę ir pabrėždamas, kad jis laikąs jį ir lietuvių
-    bajorus visiškai laisvus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lenčicoje lietuvių delegacija Vytauto vardu pareiškė, kad Vytautas priims karūną nepaisydamas Jogailos pritarimo.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogaila dar kartą pasitaręs su savo didikais,
-    atsakė, kad apie tokį svarbų reikalą, kuris liečia Lenkiją ir Lie­
-    tuvą, suvažiavime per mažai esą didikų ir riterių ir dėl to negalįs
-    nieko galutinai atsakyti. Tada lietuvių delegacija Vytauto vardu
-    griežtai pareiškė: ar Jogailai patiks ar nepatiks — Vytautas vis
-    tiek karūną priims ir ant savo galvos užsidės^3 ). Paskum Vy­
-    tauto pasiuntiniai greit išvyko iš Lenčicos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

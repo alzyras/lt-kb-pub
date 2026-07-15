@@ -111,7 +111,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Asgarai: Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asgardu.
 - susijęs iš Asgarai: Narbutas rašo, kad pats Asgarų kaimo neaplankė, bet girdėjo apie piliavietės liekanas ir kapus su skandinavų senovės iškasenomis.
 - susijęs iš Aukaimis: Narbutas rašo, kad Aukaimio kaime slapstėsi vyriausiasis žynys Gintautas, miręs 1414 m. liepos 28 d., ir su juo baigėsi lietuvių stabmeldystė.
-- susijęs iš Aukštasis krantas: Aukštasis krantas yra kaimas dešiniame Ušos krante.
 - susijęs iš Ašminta: 1947 m. liepos 17 d. Prienų apskrities Ašmintos kaime MGB grupė apsupo partizanų bunkerį, kuriame slėpėsi 7 Birutės ir Geležinio Vilko rinktinės partizanai.
 - susijęs iš Ažagų kaimas: Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.
 - susijęs iš Ažagų kaimas: Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.
@@ -119,7 +118,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Ažagų-Eimuliškio miškas: Mūšio metu Ažagų-Eimuliškio miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.
 - susijęs iš Bakaloriškiai kaimas: Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos būrį Bakaloriškių kaimui saugoti nuo komunistinių partizanų puldinėjimų.
 - susijęs iš Belichovo pilis: Belichovo pilis, kilmingojo Jono buveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bialochovo, apylinkėse, šiaurinėje Osos pakrantėje, prie pat Mokrau kaimo.
-- susijęs iš Cirinas: Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino.
 - susijęs iš Dambrava: Dambravos kaimas prie Vilniaus buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.
 - susijęs iš Daukšiai: Remiantis KGB duomenimis, liepos 15 d. per operaciją Buktos miške ir Daukšių kaime žuvo partizanai Juozas Pūkas ir Motiejus Overa.
 - susijęs iš Dragonių kaimas: Pirmiausia buvo pulta vietinių vyrų stovykla, kurios dauguma buvo iš Dragonių kaimo.
@@ -170,8 +168,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Pajūris: Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėja jį buvus Raseinių apskrityje prie Jūros upės.
 - susijęs iš Paobeliai: J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius apeiti bolševikų iš užnugario.
 - susijęs iš Pilviškiai: 1948 m. vasario 1 d. Vilkaviškio apskrities Pilviškių valsčiaus Gulbiniškių kaime MGB grupė apsupo sodyboje besislėpusius partizanus.
-- susijęs iš Polonka: 1971 m. leidimo paaiškinime Polonka, dabar Polonečka, nurodoma kaip kaimas prie Dviejos upės.
-- susijęs iš Polonka: Polonka, dabar vadinama Polonečka, yra kaimas apie 10 km į pietryčius nuo Cirino, prie Dviejos upės.
 - susijęs iš Prilvicas: Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir laikė Retrą pirmykščiu herulų miestu.
 - susijęs iš Puvočiai: Puvočių kaime priešo netikėtai užkluptas žuvo Marcinkonių bataliono vadas Šernas, dar vadintas leitenantu Kondrotu, ir du jo kovos draugai.
 - susijęs iš Ralių kaimas: Dar saulei netekėjus prie Ralių kaimo miško pasigirdo automatų šūviai, o vyrai pakilo ir išėjo į savo vietas.
@@ -196,8 +192,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Vilkaviškio apskritis: 1948 m. vasario 1 d. Vilkaviškio apskrities Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodyboje besislėpusius partizanus.
 - susijęs iš Vilkaviškio apskritis: 1950 m. birželio 22-23 d. Vilkaviškio apskrities Žiūrų-Gudelių kaimo apylinkėse MGB pajėgos puolė Tauro apygardos partizanų grupę.
 - susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
-- susijęs iš Vilnius: Narbutas piktukų pavadinimą siejo su žodžiu „piktas“ ir minėjo netoli Vilniaus esantį Piktukonių kaimą.
-- susijęs iš Vilnius: Narbutas rašė, kad XVII a. pradžioje jėzuitai greta Vilniaus esančio kaimo mokykloje ant mokinio kaklo pastebėjo maišelį.
 - susijęs iš Vilnius: Narbutas rašė, kad XVII amžiaus pradžioje jėzuitai prie Vilniaus esančio kaimo mokykloje pastebėjo mokinį su žalčio kultu siejamu maišeliu.
 - susijęs iš Vitchendorfas: Vitchendorfas buvo kaimas Saksonijoje.
 - susijęs iš Šilginėliai: Vasario 7 d. bolševikai kelis kartus puolė Šilginėlių kaime buvusią lietuvių sargybą, mėgindami pralaužti jos gynybą.
@@ -273,7 +267,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/asmenys/Zigfridas iš Runkelės.md#claim-t-60474|Zigfridas iš Runkelės (arkivyskupas, XIII a.)]]: Mūšyje netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.
 - susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87380|Zigmantas (Romos imperatorius)]]: Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.
 - susijęs iš [[objektai/asmenys/Štaubemelis.md#claim-t-60475|Štaubemelis]]: Štaubemelis minimas tarp krikščionių plėšikautojų, kurių žygius Dusburgietis vadino nuostabiais ir nepaprastais.
-- susijęs iš [[objektai/autoriai/A. Mickevičius.md#claim-t-19368|A. Mickevičius]]: A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.
+- susijęs iš [[objektai/autoriai/A. Mickevičius.md#claim-t-19368|Adomas Mickevičius]]: A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/autoriai/B. Nerman.md#claim-t-30569|B. Nerman]]: B. Nermanas 1929 m. Stokholme paskelbė darbą apie Skandinavijos ir Rytų Baltijos ryšius vėlyvajame geležies amžiuje.
 - susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190266|Frydrichas Stenderis]]: Narbutas nesutiko su Stenderio siejimu Tiimpus su Atrimpos ir vadino Tiimpus paprastu girtuoklių globėjo epitetu.
 - susijęs iš [[objektai/autoriai/Gotthardas Friedrichas Stenderis.md#claim-t-191541|Gotthardas Friedrichas Stenderis]]: Gotthardas Friedrichas Stenderis Narbuto pateikiamas kaip Kuršo pamokslininkas ir latvių gramatikos autorius, rašęs apie latvių kalbos skirtumą nuo estų kalbos.
@@ -385,7 +379,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Apaščia: Žemaičių ribos Nevėžio aukštupyje buvo pratęstos Mūšos upe, Smardonės upeliu ir Apaščios ežeru ties dabartiniais Biržais.
 - susijęs iš Augustavo gubernija: 1863 m. Augustavo gubernijoje, į kurią įėjo lietuviškoji Užnemunė, įvyko 62 sukilėlių mūšiai su caro kariuomene.
 - susijęs iš Auksinė: Sreterio žemėlapyje Auksinės žemupyje pažymėta Romanuppen, o prie Didlovos - Kreywutschen.
-- susijęs iš Aukštasis krantas: Aukštasis krantas yra apie 25 km į šiaurę ar šiaurės vakarus nuo Klecko.
 - susijęs iš Baisogala: Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.
 - susijęs iš Chełmža: Chełmža 1222 m. dokumente minima Lozos vardu, o 1251 m. joje įkurta Kulmo vyskupijos katedra ir miestas Culmense.
 - susijęs iš Cirinas: LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.
@@ -418,7 +411,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Peterburgas: Peterburge nebuvo rimtai svarstoma rezoliucija dėl politinės autonomijos suteikimo Lietuvai.
 - susijęs iš Pietų Lietuva: Pakeliui į 1949 m. vasario 11 d. suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.
 - susijęs iš Plungė: XX a. septintajame dešimtmetyje Plungės gamyklose 50-70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.
-- susijęs iš Polonka: Polonka yra prie Dviejos upės, kuri nurodyta kaip Ušos intakas.
 - susijęs iš Pskovas: Ordino reikalautos Žemaičių ribos buvo vedamos iki Pskovo respublikos valdų.
 - susijęs iš Pskovas: Salyno akte ordinui tenkančių žemių sienos buvo nužymėtos iki Pskovo respublikos valdų.
 - susijęs iš Raseinių apskritis: Narbutas Pajūrio kaimo fetišą Dievaitį siejo su neapibrėžta vieta Raseinių apskrityje, tikriausiai prie Jūros upės.
@@ -433,10 +425,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Smilgiai: Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.
 - susijęs iš Sudervėlė: Prie Sudervėlės upelio buvo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.
 - susijęs iš Uturiai: Uturiai buvo prie Betygalos.
-- susijęs iš Uša: Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių.
-- susijęs iš Uša: Uša yra pietinis kairysis Nemuno aukštupio intakas.
-- susijęs iš Uša: Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių.
-- susijęs iš Uša: Uša yra pietinis kairysis Nemuno aukštupio intakas.
 - susijęs iš Vakarų Lietuva: 1949 m. vasario 11 d. pakeliui į partizanų vadų suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.
 - susijęs iš Valdava: Valdava buvo valsčiaus centras į rytus nuo dabartinio Kaliningrado, o pilis greičiausiai stovėjo šiauriau Valdavos.
 - susijęs iš Varka: Lenkijos bajorai Varkoje nusprendė reikalauti paleisti karalių, o nesėkmės atveju rengti žygį į Lietuvą.
@@ -471,7 +459,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/daiktai/Terba.md#claim-t-195300|Terba]]: Piemens terboje laikomas maistas, kiaušiniai ir kitos įdėtos gėrybės.
 - susijęs iš [[objektai/daiktai/Terba.md#claim-t-195304|Terba]]: Elgetavimo pasakojimuose terba ir terbelė yra nešulys maistui rinkti; vienu atveju išskiriama šikšninė terba su pasaitu.
 - susijęs iš [[objektai/grupes/Žydai kromininkai.md#claim-t-195515|Žydai kromininkai]]: Žydas kromininkas po Kalėdų eidavo į vargšų grįčiukes, nes ten būdavo pinigų ir reikėdavo prekių.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195011|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį etmonas Stanislovas Petravičius Kiška sunkiai susirgo ir nebegalėjo laikytis balne.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195015|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui.
 - susijęs iš [[objektai/paprociai/Piemenų samdymo ir apmokėjimo tvarka.md#claim-t-195366|Piemenų samdymo ir apmokėjimo tvarka]]: Piemeniui už ganymą būdavo mokama pinigais, bulvėmis, drabužiu ir maistu.
 - susijęs iš [[objektai/paprociai/Pilkapių nelietimo iš pagarbos ir baimės paprotys.md#claim-t-192104|Pilkapių nelietimo iš pagarbos ir baimės paprotys]]: Narbutas nurodė: Vietos kaimiečiai pilkapių nelietė, nes gerbė po jais besiilsinčios genties žmonių palaikus.
@@ -492,52 +479,15 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/ivykiai/Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo).md#claim-t-62272|Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo)]]: 1300 m. rudenį 75 lietuviai įsibrovė į Varmės vyskupystės Glotavos valsčių ir sudegino vieną kaimą.
 - susijęs iš Pirmasis Lietuvos gyventojų surašymas (1923 m.): 1923 m. pirmojo Lietuvos gyventojų surašymo duomenimis, kaime gyveno 84 proc. Lietuvos gyventojų, o lietuviai sudarė 91 proc. kaimo gyventojų.
 - susijęs iš [[objektai/grupes/Gardino pulkas.md#claim-t-78168|Gardino pulkas]]: Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas buvo įsikūrę kaime, prie kurio sugulė lietuviai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kaimas buvo to paties vardo valsčiaus centras rytų Semboje, į vakarus nuo Deimenos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    326 D. — Caym, Jer. — Kayme; Kaimas (dab. Zarečjė), to pat vardo valsčiaus centras
-    rytų Semboje,  į vakarus nuo Deimenos; prūsų pilies vietoje pastatyta Ordino pilis su
-    priešpiliu (CF, p. 68—70).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Karalius atžygiavo į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kurių dalis gyventojų jam atidavė įkaitus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
-    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
-    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
-    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
-    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
-    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
-    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59192
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 106"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    326 D. — Caym, Jer. — Kayme; Kaimas (dab. Zarečjė), to pat vardo valsčiaus centras
-    rytų Semboje,  į vakarus nuo Deimenos; prūsų pilies vietoje pastatyta Ordino pilis su
+    326  D. — Caym, Jer. — Kayme; Kaimas (dab. Zarečjė), to pat vardo valsčiaus centras
+    rytų Semboje, į vakarus nuo Deimenos; prūsų pilies vietoje pastatyta Ordino pilis su
     priešpiliu (CF, p. 68—70).
   citata_rodoma: "326 D. — Caym, Jer. — Kayme; Kaimas (dab. Zarečjė), to pat vardo valsčiaus centras\nrytų Semboje,  į vakarus nuo Deimenos; prūsų pilies vietoje pastatyta Ordino pilis su\npriešpiliu (CF, p."
   statusas: verified
@@ -550,11 +500,10 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - id: c-59193
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 106"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
-    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
+    Paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
     kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
     įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
     tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo

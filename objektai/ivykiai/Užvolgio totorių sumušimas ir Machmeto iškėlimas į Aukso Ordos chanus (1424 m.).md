@@ -59,37 +59,6 @@ Nenurodyta
   pagrindžia:
     - c-167618
 
-<a id="claim-t-35891"></a>
-- t-002
-  global_id: t-35891
-  teiginys: "Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu."
-  pagrindžia:
-    - c-167618
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1424 m. Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytauto pa­
-    siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie,
-    vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­
-    jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu
-    tapo Vytauto palaikomas Machmetas. Jis savo sūnų pasiuntė
-    auklėtis į Vytauto Didžiojo dvarą, o pačiam didžiajam kuni­
-    gaikščiui davė paramos jo žygiams į Pskovą bei Naugardą, ir
-    per savo pasiuntinius teikė jam dovanų Smolenske ir Lucko su­
-    važiavime1 2). Taigi paskutiniais savo valdymo metais Vytautas
-    Aukso Ordą turėjo visiškoje savo įtakoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-167618
@@ -113,5 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184234
     - t-35891

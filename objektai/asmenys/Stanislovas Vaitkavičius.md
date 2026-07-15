@@ -34,31 +34,6 @@ media_all_json: |-
   teiginys: "Stanislovas Vaitkavičius turėjo žemę, iš kurios buvo mokama kviečių dešimtinė."
   pagrindžia:
     - c-83842
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Stanislovas Vaitkavičius turėjo žemę, iš kurios buvo mokama kviečių dešimtinė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taip ir Jonas Jurevičius
-    iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek
-    iš pirktų žemių ir privažiuojamų
-    ...................... [iš] Sta­
-    nislovo Vaitkavičiaus žemės dešimtinę kviečių. Be tö, ir ba­
-    jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­
-    tinę kviečių iš visų laukų; taip ir bajorė Ona Tarnavska iš
-    savo dvaro nuo visų javų, o iš Stanislovo Vaitkavičiaus tik
-    nuo kviečių....................Įprastą dešimtinę privalo mokė­
-    ti ir visi, gyvenantys minėtos bažnyčios teritorijoje, su visa
-    Gelvonų sritim bei tie, kurie anksčiau nuo seno dešimtinę
-    duodavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

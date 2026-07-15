@@ -45,24 +45,6 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
   pagrindžia:
     - c-41401
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192077|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuviai labai greitai įsisavindavo karybos naujoves. XIV a.
-    lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai
-    iliustruoja užfiksuota 1329 m. Čekijos karaliaus Jono Liuksem-
-    burgiečio dvikova su lietuviu didiku Margaliu (Margiriu?). Kai jie
-    raiti susirėmė ir sulaužę ietis ėmė kirstis kalavijais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41401

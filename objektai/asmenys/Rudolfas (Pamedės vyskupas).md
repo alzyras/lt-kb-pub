@@ -35,43 +35,20 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
   teiginys: "Rudolfas, Pamedės vyskupas, Osos pakrantėje pastatė miestą, vardu Bišofsverderis."
   pagrindžia:
     - c-61060
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rudolfas, Pamedės vyskupas, Osos pakrantėje pastatė miestą, vardu Bišofsverderis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo tarpu pirmoje pilyje, tai yra Girdavuose, kur
-    taip pat buvo laikomos mišios, po visam pasirodė du balandžiai, kurie skraidė  ir
-    pilyje,  ir virš jos sienų. Prūsai, kurie irgi statė šią pilį, įtikinėjo, kad niekad nebuvo
-    matę šioje negyvenamoje dykynėje naminių balandžių. Be to, tas pats brolis Fridrichas
-    pastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas,
-    Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto  pilį, vardu  Plutai589,
-    o Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą, vardu Bišofsverderis590, o
-    brolis Luterbergas, Kulmo landkomtūras,— Drevantos upės pakrantėje miestą, vardu
-    Noimarkas591.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61060
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 223"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 223."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tuo tarpu pirmoje pilyje, tai yra Girdavuose, kur
-    taip pat buvo laikomos mišios, po visam pasirodė du balandžiai, kurie skraidė  ir
-    pilyje,  ir virš jos sienų. Prūsai, kurie irgi statė šią pilį, įtikinėjo, kad niekad nebuvo
+    taip pat buvo laikomos mišios, po visam pasirodė du balandžiai, kurie skraidė ir
+    pilyje, ir virš jos sienų. Prūsai, kurie irgi statė šią pilį, įtikinėjo, kad niekad nebuvo
     matę šioje negyvenamoje dykynėje naminių balandžių. Be to, tas pats brolis Fridrichas
     pastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas,
-    Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto  pilį, vardu  Plutai589,
+    Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto pilį, vardu Plutai589,
     o Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą, vardu Bišofsverderis590, o
     brolis Luterbergas, Kulmo landkomtūras,— Drevantos upės pakrantėje miestą, vardu
     Noimarkas591.

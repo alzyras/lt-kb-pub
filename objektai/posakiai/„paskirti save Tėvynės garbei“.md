@@ -35,50 +35,7 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
   teiginys: "Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei."
   pagrindžia:
     - c-23658
-
-<a id="claim-t-183500"></a>
-- t-002
-  global_id: t-183500
-  teiginys: "Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei."
-  pagrindžia:
     - c-166894
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    11 minučių ir įveikę 6 411 km, antrą tuo
-    metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katas-
-    trofą tuometinėje Rytų Prūsijoje. Kaune laukiančią ore pasirodant lėktu-
-    vo kone šimtatūkstantinę minią žmonių gauta žinia pravirkdė. Savo laiške
-    prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei
-    ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kaune laukiančią ore pasirodant lėktu-
-    vo kone šimtatūkstantinę minią žmonių gauta žinia pravirkdė. Savo laiške
-    prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei
-    ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu. Didvyriams
-    Kaune pastatytas mauzoliejus (naikintas per nacių okupaciją ir baigtas
-    naikinti sovietmečiu).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -116,5 +73,3 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183500

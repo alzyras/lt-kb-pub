@@ -7,14 +7,14 @@ datos:
   - '1273 m.'
 date_start: '1273'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - mūšis
   - karas
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -72,31 +72,8 @@ Nenurodyta
   teiginys: "1273 m. pagudėnai surengė pasalą prie Elbingo ir privertė miestiečius pasitraukti į įtvirtintą Liefardo malūną."
   pagrindžia:
     - c-63690
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1273 m. pagudėnai surengė pasalą prie Elbingo ir privertė miestiečius pasitraukti į įtvirtintą Liefardo malūną.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
-
-      1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
-    broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami
-    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur
-    keli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie
-    savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
-    Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
-    pasalos, atkirto jiems kelią  į miestą. Persekiojami miestiečiai, nestengdami priešintis
-    tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum
-    pilis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-002
   santrauka: 'Liefardo malūne apsupti Elbingo miestiečiai sutiko pagudėnams atiduoti 25 žymesniuosius vyrus, kad kiti liktų gyvi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -141,18 +118,16 @@ Nenurodyta
 - id: c-63690
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
-
-      1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
+    1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
     broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami
-    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur
+    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške, iš kur
     keli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie
     savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
     Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
-    pasalos, atkirto jiems kelią  į miestą. Persekiojami miestiečiai, nestengdami priešintis
+    pasalos, atkirto jiems kelią į miestą. Persekiojami miestiečiai, nestengdami priešintis
     tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum
     pilis.
   citata_rodoma: "Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį\n\n  1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei\nbroliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami\nnusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur\nkeli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie\nsavęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.\nTačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš\npasalos, atkirto jiems kelią  į miestą. Persekiojami miestiečiai, nestengdami priešintis\ntokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum\npilis."
@@ -166,16 +141,21 @@ Nenurodyta
 - id: c-63691
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti
-    krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.
-    Galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų
-    gyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi
-    miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni
-    gynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo
-    ant iškeltų prūsų iečių, o likusieji sudegė.
+    Apie nuolatinius priešų antpuolius  bei įvairiopus Prūsijos krikščionių vargus
+    antrosios atskalūnybės metais
+    Vienas dievas težino ir vargu ar koks dabar gyvenantis žmogus stengtų papasakoti,
+    kokį vargą, kokias negandas, kokį stygių vyriškai kentėjo broliai bei kiti tikintieji tame ar
+    kitame mieste, toje ar kitoje pilyje bei kitoje vietoje, daugiau nei 15 metų persekiojami
+    priešų455. Vargu ar buvo valandų, kada jie galėjo ramiai valgyti savo duoną, nes ne vieną
+    kartą, ne du ar tris kartus jie turėjo stoti į kovą ir gintis nuo priešo. Tiesą sakant, jų
+    gyvenime išsipildė tai, kas bylojama apie žydus, norėjusius atstatyti šventąjį Jeruzalės
+    miestą, bet trukdomus stabmeldžių: pusė jų dirbo darbą, o kita pusė laikė ietis nuo aušros
+    iki žvaigždėms pasirodant, viena ranka dirbo savo darbą, o kita laikė kalaviją. Šie dievo
+    tarnai, kaip moko apaštalas, gyveno nelyginant merdėdami didžiai kantrūs sielvartuose,
+    negandose, suspaudimuose, plakimuose, kalėjimuose, sąmyšiuose, sunkiuose darbuose,
+    budėjimuose, badavimuose; jie rodėsi nuliūdę, tačiau buvo visuomet linksmi.
   citata_rodoma: "Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti\nkrikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.\nGalop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų\ngyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi\nmiestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni\ngynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo\nant iškeltų prūsų iečių, o likusieji sudegė."
   statusas: verified
   teiginio_tipas: faktas
@@ -187,17 +167,18 @@ Nenurodyta
 - id: c-63692
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi
-    miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni
-    gynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo
-    ant iškeltų prūsų iečių, o likusieji sudegė. Tiek ten buvo krikščionių kraujo pralieta,
-    kad gretimas upelis454 nustojo savo įprastinės spalvos ir atrodė krauju pasruvęs. Sklido
-    nemaža patikimų pasakojimų, kuriais abejoti neturime pagrindo, kad tuo metu, kai šitai
-    dėjosi, kai kurie miestiečiai, stovėdami ant Elbingo sienų, matę atsivėrusį dangų ir ten
-    angelų vedamas nukautųjų sielas.
+    Vargu ar buvo valandų, kada jie galėjo ramiai valgyti savo duoną, nes ne vieną
+    kartą, ne du ar tris kartus jie turėjo stoti į kovą ir gintis nuo priešo. Tiesą sakant, jų
+    gyvenime išsipildė tai, kas bylojama apie žydus, norėjusius atstatyti šventąjį Jeruzalės
+    miestą, bet trukdomus stabmeldžių: pusė jų dirbo darbą, o kita pusė laikė ietis nuo aušros
+    iki žvaigždėms pasirodant, viena ranka dirbo savo darbą, o kita laikė kalaviją. Šie dievo
+    tarnai, kaip moko apaštalas, gyveno nelyginant merdėdami didžiai kantrūs sielvartuose,
+    negandose, suspaudimuose, plakimuose, kalėjimuose, sąmyšiuose, sunkiuose darbuose,
+    budėjimuose, badavimuose; jie rodėsi nuliūdę, tačiau buvo visuomet linksmi. Tad
+    maldaute maldauju tuos, kurie skaitys šią knygą: nesibaiminkite visokeriopų vargų,
+    bet supraskite, jog tai, kas įvyko, neturi mūsų giminės pražudyti, o tegali ją pataisyti.
   citata_rodoma: "Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi\nmiestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni\ngynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo\nant iškeltų prūsų iečių, o likusieji sudegė. Tiek ten buvo krikščionių kraujo pralieta,\nkad gretimas upelis454 nustojo savo įprastinės spalvos ir atrodė krauju pasruvęs. Sklido\nnemaža patikimų pasakojimų, kuriais abejoti neturime pagrindo, kad tuo metu, kai šitai\ndėjosi, kai kurie miestiečiai, stovėdami ant Elbingo sienų, matę atsivėrusį dangų ir ten\nangelų vedamas nukautųjų sielas."
   statusas: verified
   teiginio_tipas: faktas

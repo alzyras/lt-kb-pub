@@ -41,7 +41,6 @@ Dusburgietis teigia, kad taip pat buvęs jų nužudytas dar vienas vyras, vardu 
 - susijęs iš Molotovo–Ribentropo paktas: 1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas, minint pakto pasirašymo 50-ąsias metines.
 - susijęs iš Molotovo–Ribentropo paktas: 1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas dėl Molotovo–Ribentropo pakto.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Petras Dusburgietis Tropą mini kaip nužudytą labai taurų ir karštai tikintį vyrą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -64,14 +63,15 @@ Dusburgietis teigia, kad taip pat buvęs jų nužudytas dar vienas vyras, vardu 
 - id: c-61081
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 127"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Taip pat buvęs jų nužudytas dar
-    vienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus. Dėl šių dviejų žūties
-    prūsai labai džiūgavo, o broliai sielvartavo. Tačiau broliai sugalvojo paversti jų džiugesį
-    ašaromis bei liūdesiu ir prieš pilies vartus pakorė 30 prūsų įkaitų, kuriuos buvo paėmę
-    į nelaisvę.
+    Galop po nesibaigiančių pavojų ir kovų vienas pamaldus brolis paprašė dievą pamokyti,
+    kaip elgtis, kai tyko tokios nelaimės. Jam atsakė iš dangaus pasigirdęs balsas: „Judėja
+    ir Jeruzale, nesibaiminkite, rytoj išeisite, o viešpats bus su jumis; būkite patvarios ir
+    regėsite viešpaties jums siunčiamą pagal bą“. Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
+    pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų
+    relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.
+  citata_rodoma: "Taip pat buvęs jų nužudytas dar\nvienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus. Dėl šių dviejų žūties\nprūsai labai džiūgavo, o broliai sielvartavo. Tačiau broliai sugalvojo paversti jų džiugesį\našaromis bei liūdesiu ir prieš pilies vartus pakorė 30 prūsų įkaitų, kuriuos buvo paėmę\nį nelaisvę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

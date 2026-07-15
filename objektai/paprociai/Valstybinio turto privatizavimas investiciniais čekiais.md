@@ -81,44 +81,6 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
   teiginys: "Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto."
   pagrindžia:
     - c-23544
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Planinės ekonomikos laivas plūduriavo kapitalizmo
-    jūroje, lėtai steigiant privačias žemės ūkio ir pramonės įmones, kurių
-    dauguma orientuotos į kapitalistinę Vakarų pasaulio rinką. Tam reikėjo
-    pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
-    tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
-    šos. Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių
-    tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
-    pasaulio ekonomikos standartus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
-    gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
-    pasinaudojo ne visi. Nemažai čekių supirkėjų, nusipirkę anksčiau buvu-
-    sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis
-    gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
-    būsto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Šaltiniai ir įrodymai
 

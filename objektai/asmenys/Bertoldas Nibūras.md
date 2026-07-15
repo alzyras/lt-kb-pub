@@ -35,37 +35,13 @@ Bertoldas Nibūras apie pelazgų kolonijų paplitimą tvirtino kalbantis iš ist
   teiginys: "Bertoldas Nibūras apie pelazgų kolonijų paplitimą tvirtino kalbantis iš istorinio įsitikinimo, o ne remdamasis prielaida."
   pagrindžia:
     - c-174222
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bertoldas Nibūras apie pelazgų kolonijų paplitimą tvirtino kalbantis iš istorinio įsitikinimo, o ne remdamasis prielaida.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šia prasme mūsų is­
-    torija yra pernelyg jauna, nes, kiek siekia jos atmintis,
-    pelazgai jau buvo netoli savo saulėlydžio, išsklaidyti, per­
-    sekiojami kažkokio jiems nepalankaus likimo; jie klair
-    tižiojo po tolimiausius kraštus, tarytum stengdamiesi pa­
-    bėgti nuo jiems priešiško dangaus pykčio. Iš to senų se­
-    niausios istorijos sprendžia apie plačiausią pelazgų kolo­
-    nijų pasklidimą. Nibūras, kurio darbus paėmėme, taip sa­
-    ko apie juos: „Tai ne prielaida, kalbu kuo tvirčiausiai isto­
-    riškai įsitikinęs“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 40"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šia prasme mūsų is­
     torija yra pernelyg jauna, nes, kiek siekia jos atmintis,

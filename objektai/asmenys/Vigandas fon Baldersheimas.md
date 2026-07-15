@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų.
+Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų. Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų, žudydamas ir imdamas į nelaisvę kaimiečius.
 
 ## Teiginiai
 
@@ -35,41 +35,24 @@ media_all_json: |-
   teiginys: "Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų."
   pagrindžia:
     - c-169627
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šis staigus ant­
-    puolis baisiai nusiaubė Prūsiją: visa žemė paversta
-    dykromis, jos sostinė Gozenlankės pilis užkariauta ir
-    išgriauta. Puolęs vytis įkandin traukiančių iš Prūsijos
-    lietuvių su menka manta beapsikrovusiais kariais, Įs-
-    ruties komtūras Vigandas fon Baldersheimas apiplėšė
-    galybę kaimų, ligi tol nepatyrusių karo negandų, ir
-    sudegino išžudęs bei paėmęs į nelaisvę kaimiečius.
-    Ir viena, ir kita šalis nuolatos puldinėjo priešo kai­
-    mus; tuo pat metu, mirus Lenkijos karaliui Kazimierui,
-    lietuviai ėmė rengtis naujam karui, tikėdamiesi atgau­
-    ti Volynę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196626"></a>
+- t-002
+  global_id: t-196626
+  teiginys: "Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų, žudydamas ir imdamas į nelaisvę kaimiečius."
   pagrindžia:
-    - t-001
+    - c-169627
 
 ## Citatos
 
 - id: c-169627
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 252"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 252."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Šis staigus ant­
+    Kęstutis spėjo su savo kariais ateiti pagalbon. Nega­
+    lėdamas pasivyti traukiančių atgal kryžiuočių, jis nu­
+    vedė savo būrius niokoti priešo kaimų. Šis staigus ant­
     puolis baisiai nusiaubė Prūsiją: visa žemė paversta
     dykromis, jos sostinė Gozenlankės pilis užkariauta ir
     išgriauta. Puolęs vytis įkandin traukiančių iš Prūsijos
@@ -81,9 +64,11 @@ media_all_json: |-
     mus; tuo pat metu, mirus Lenkijos karaliui Kazimierui,
     lietuviai ėmė rengtis naujam karui, tikėdamiesi atgau­
     ti Volynę.
+  citata_rodoma: "Nega­\nlėdamas pasivyti traukiančių atgal kryžiuočių, jis nu­\nvedė savo būrius niokoti priešo kaimų. Šis staigus ant­\npuolis baisiai nusiaubė Prūsiją: visa žemė paversta \ndykromis, jos sostinė Gozenlankės pilis užkariauta ir \nišgriauta. Puolęs vytis įkandin traukiančių iš Prūsijos \nlietuvių su menka manta beapsikrovusiais kariais, Įs- \nruties komtūras Vigandas fon Baldersheimas apiplėšė \ngalybę kaimų, ligi tol nepatyrusių karo negandų, ir \nsudegino išžudęs bei paėmęs į nelaisvę kaimiečius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186266
+    - t-196626

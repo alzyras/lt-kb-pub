@@ -3,12 +3,20 @@ tipas: autorius
 pavadinimas: 'Belskis'
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+datos:
+  - '1342 m.'
+date_start: '1342'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - metraštininkas
   - istorikas
   - autorius
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -26,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledos vardo panašumu į Ladą. Narbutas mini, kad Belskis savo kronikoje pasakojo panašų dalyką apie senovės prūsų monetas.
+Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledos vardo panašumu į Ladą. Narbutas mini, kad Belskis savo kronikoje pasakojo panašų dalyką apie senovės prūsų monetas. Belskis buvo ir lietuvių valdovų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytautaitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
 
 ## Teiginiai
 
@@ -43,59 +51,20 @@ Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledo
   teiginys: "Narbutas mini, kad Belskis savo kronikoje pasakojo panašų dalyką apie senovės prūsų monetas."
   pagrindžia:
     - c-173265
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledos vardo panašumu į Ladą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šie
-    mitai jokiu būdu netaikomi Ledos dvyniams Kastorui ir Poliuk-
-    sui, kaip tai mėginta įrodyti.
-    Šios nuomonės klaidingumas atsirado dėl to, kad šitaip ma­
-    nė kronikininkas Belskis, kuriam tikriausiai pirmiau už Lato­
-    ną atėjo į galvą Ledos vardas, panašesnis į Ladą, žinomą Lėlio
-    ir Polėlio motinos vardu.
-    Tyrėjams stokojant kritiškumo, ta klaida išplito panašiai
-    kaip mūsų mitologų spėjimas; kai kurie iš mūsų deivės Lados
-    daro graikų Venerą arba egiptiečių Izidę, o iš jos dvynių Lėlių
-    vadina Kupidonu, o Polėlių -  Himenėju.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197278"></a>
+- t-003
+  global_id: t-197278
+  teiginys: "Belskis buvo ir lietuvių valdovų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytautaitis, kuris valdė Pskovo žemę apie 1342 metus27 28."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas mini, kad Belskis savo kronikoje pasakojo panašų dalyką apie senovės prūsų monetas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Senovės prūsų monetas mini kronikininkai, jos dingo, kry­
-    žiuočių buvo sulydytos ir perkaldintos; vėlesniais laikais kai
-    kurios būdavo randamos žemėje, ypač senovės kapuose. Apie
-    25 Panašų dalyką Belskis pasakoja savo kronikoje.
-    247
-
-    ## Puslapis 247
-
-    jas su ypatingu dėmesiu rašo kronikininkas Šiucas26.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-173265
 
 ## Citatos
 
 - id: c-173264
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šie
     mitai jokiu būdu netaikomi Ledos dvyniams Kastorui ir Poliuk-
@@ -107,7 +76,7 @@ Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledo
     Tyrėjams stokojant kritiškumo, ta klaida išplito panašiai
     kaip mūsų mitologų spėjimas; kai kurie iš mūsų deivės Lados
     daro graikų Venerą arba egiptiečių Izidę, o iš jos dvynių Lėlių
-    vadina Kupidonu, o Polėlių -  Himenėju.
+    vadina Kupidonu, o Polėlių - Himenėju.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -120,18 +89,17 @@ Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledo
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Senovės prūsų monetas mini kronikininkai, jos dingo, kry­
-    žiuočių buvo sulydytos ir perkaldintos; vėlesniais laikais kai
-    kurios būdavo randamos žemėje, ypač senovės kapuose. Apie
-    25 Panašų dalyką Belskis pasakoja savo kronikoje.
-    247
-
-    ## Puslapis 247
-
-    jas su ypatingu dėmesiu rašo kronikininkas Šiucas26.
+    Iškiliojoje pusėje
+    ženklas, panašus į vadinamojo biarmiškojo raidyno raidę A
+    arbatų, prie kurios yra dobilo lapelis. Tas žodis gali turėti ryšį
+    su Hirijos (Hirrya), arba Jurijos (Juhrya), šalimi, kuri buvo prie
+    Jūros upės, jai priklausė ir Jurbarkas. Buvo ir lietuvių valdo­
+    vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
+    taitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190382
+    - t-197278

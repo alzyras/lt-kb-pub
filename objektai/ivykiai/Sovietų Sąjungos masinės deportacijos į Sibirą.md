@@ -70,44 +70,6 @@ Nenurodyta
   teiginys: "1944–1953 m. Lietuvoje vyko Sovietų Sąjungos organizuotos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija."
   pagrindžia:
     - c-26611
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvą okupavusi, o 1944 m. – reokupavusi. Tačiau pergyvenusi
-    didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
-    vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-
-    gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
-    nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
-    o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
-    Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1944–1953 m. Lietuvoje vyko Sovietų Sąjungos organizuotos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1941–1944
-    nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje.
-    1944–1953
-    Sovietų Sąjungos organizuotų represijų, deportacijų, masinės kolekty-
-    vizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis.
-    1976
-    susikuria Helsinkio grupė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

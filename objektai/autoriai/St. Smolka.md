@@ -60,41 +60,6 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
 - susijęs iš [[objektai/autoriai/Fr. Papée.md#claim-t-30617|Fr. Papée]]: Fr. Papée su St. Smolka parengė veikalą „Władysław Jagiełło“.
 - susijęs iš [[objektai/autoriai/Pr. Papée.md#claim-t-30930|Pr. Papée]]: Fr. Papée kartu su St. Smolka parengė darbą Władysław Jagiełło Encyklopedja Polska leidiniui.
 - susijęs iš Władysław Jagiełło: St. Smolka ir Fr. Papée parengė tekstą „Władysław Jagiełło“, paskelbtą „Encyklopedja Polska“ V tomo 1 dalyje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Prochaska, A. : _Upadek Kiejstuta_ , KH, t. 23, 1909, 493-
-    506 p. — Semkowicz, Wb.: _Hanul, namiestnik wileński i jego ród_ , AW,
-    t. 7, 1930, 1-20 p. — Smolka, St. : _Kiejstut i Jagiełło_ , Pamiętnik AU,
-    t. 7, Kraków 1889, 79-155 p. — Wagner, K. : _Vokiečių ordino pilys
-    Kauno apylinkėje,_ Naujoji Romuva, nr. 107, 1933.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jeigu anksčiau stambesni vidaus nesutikimai
-    (pvz., po Mindaugo ir Gedimino mirties) buvo sutvarkomi be jokio
-
-    (^7) **PSRL, 11, 66. Plg. St. Smolka:** **_Kiejstut i Jagiełło_** **, 1889, 99p.**
-    (^8) **SRP, II, 601; III, 115116 p.**
-    (^9) **SRP, II, 116, 605, 610 p.**
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-55079
@@ -114,6 +79,7 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54137
+    - t-54138
 
 - id: c-55080
   autorius: "Zenonas Ivinskis"

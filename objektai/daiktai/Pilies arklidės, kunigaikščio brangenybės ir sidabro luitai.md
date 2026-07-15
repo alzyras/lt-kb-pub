@@ -61,27 +61,6 @@ Nenurodyta
   teiginys: "Apie 1400 m. gaisras, prasidėjęs kunigaikščio arklidėse pilies kieme, sunaikino beveik visą Vilnių."
   pagrindžia:
     - c-83095
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Apie 1400 m. gaisras, prasidėjęs kunigaikščio arklidėse pilies kieme, sunaikino beveik visą Vilnių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau šie politiniai kivirčai nebuvo Vilniui tokie skaudūs (1399
-    m.), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­
-    giantis. Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio
-    arklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir
-    Katedros, ištisai visas miestas sudegė. Didysis kunigaikštis ne­
-    teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
-    kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
-    čių sidabro luitų65 • .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

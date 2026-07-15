@@ -46,7 +46,6 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
 - susijęs iš [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas.md#claim-t-66640|Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]: Kunigaikštis Kristaus karių ordinui perdavė Dobrynės pilį ir žemės plotą Kujavijoje, vadintą Sedlcais.
 - susijęs iš Kujavija: Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Sedlcų kaimas buvo į pietus nuo Vyslos, kiek į šiaurę nuo Inovroclavo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,36 +62,27 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Kujavijoje broliams duotas žemės plotas arba dvaras buvo pavadintas Sedlcais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
-    jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
-    ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
-    padedami, ateityje pajungsią savo valdžiai. Kai apie tai sužinojo prūsai, jie, smarkiai
-    suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
-    ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-59354
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    169 Kaimas Sedlce (D.— Cedelicze) buvęs  į pietus nuo Vyslos, kiek  į šiaurę nuo
-    Inovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose). Kaip Dobrynės ordino
-    palikimas  atiteko kryžiuočiams (Guldon  Z., Powierski  J.  Podziały...,  p. 173—174,
-    žemėlapis Nr. 6).
+    savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
+    pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
+    esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,
+    viešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius
+    visas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei
+    teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
+    šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims. Kad
+    šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti,
+    išdavė jiems raštą, kurį patvirtino savo antspaudu172. Šitai padaryta apie 1226 (1230)
+    viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui
+    Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
+    Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
+    Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
+  citata_rodoma: "169 Kaimas Sedlce (D.— Cedelicze) buvęs  į pietus nuo Vyslos, kiek  į šiaurę nuo\nInovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose). Kaip Dobrynės ordino\npalikimas  atiteko kryžiuočiams (Guldon  Z., Powierski  J.  Podziały...,  p. 173—174,\nžemėlapis Nr. 6)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -103,8 +93,7 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
 - id: c-59355
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
     jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis

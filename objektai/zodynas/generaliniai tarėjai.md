@@ -68,56 +68,6 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 - susijęs iš [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.).md#claim-t-101528|Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.
 - susijęs iš SS dalinio organizavimo planas: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.
 - susijęs iš SS dalinio organizavimo planas: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio planą ir pasisakė už tautinę Lietuvos kariuomenę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
-    205
-    1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadina-
-    moji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio
-    organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę. Vokiečių
-    valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje pritarė lie-
-    tuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę,
-    kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritori-
-    joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  santrauka: 'Vokiečių valdžia vietoje Laikinosios vyriausybės ministrų lietuvių administracijos vadovais paskyrė generalinius tarėjus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Stokodama žmonių
-    okupacinei administracijai steigti, nacių valdžia leido veikti vietos sa-
-    vivaldai – vidurines ir žemesnes pareigas ir toliau ėjo lietuviai, paskirti
-    Laikinosios vyriausybės. Vietoje LV ministrų vokiečių valdžia lietuvių
-    administracijos vadovais paskyrė generalinius tarėjus, o ministerijas
-
-    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
-    203
-    pervadino vadybomis. Taigi lietuvių administracija prižiūrėta per lie-
-    tuvių generalinius tarėjus, pavaldžius generaliniam tarėjui – juo tapo
-    voldemarininkas gen. Petras Kubiliūnas. Keturi tarėjai, atsisakę vykdyti
-    vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos
-    stovyklą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
 ## Citatos
 
 - id: c-73296
@@ -140,8 +90,8 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75548
     - t-75547
+    - t-75548
 
 - id: c-166820
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -166,5 +116,5 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183426
     - t-75549
+    - t-183426

@@ -41,27 +41,6 @@ Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias L
   teiginys: "„Žydai Lietuvoje“ yra vienas iš paminėtų Janulaičio raštų, išleistų 1923 m."
   pagrindžia:
     - c-33780
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Žydai Lietuvoje“ yra vienas iš paminėtų Janulaičio raštų, išleistų 1923 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Visą laiką, būdamas katedros vedėju, Lietuvos teisės
-    istoriją dėstė nepriklausomoje Lietuvoje Teisių fakultete, kurio
-    dekanu jis buvo nuo 1935 m. Poliublininius Lietuvos istorijos
-    kursus (XVII-XVIII amž.) skaitė Janulaitis ir Humanitarinių
-    mokslų fakultete.
-    Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923),
-    «Vyriausias Lietuvos Tribunolas XVI-XVIII amž. » (1927), «Užne­
-    munė po Prūsais 1795-1807 » (1928), «Napoleono teisynas» (1930).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

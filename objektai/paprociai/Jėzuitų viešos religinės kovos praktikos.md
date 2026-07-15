@@ -62,48 +62,6 @@ Nenurodyta
   teiginys: "Jėzuitai kovoje su protestantais rengdavo tikybinius disputus, o protestantams jų vengiant patys inscenizuodavo abiejų pusių argumentų ginčą."
   pagrindžia:
     - c-67141
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jėzuitai kovoje su protestantais rengdavo tikybinius disputus, o protestantams jų vengiant patys inscenizuodavo abiejų pusių argumentų ginčą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šie buvo leidžiami į aukštąsias užsienio mo-
-    kyklas ir, gerai išmokslinti, grįždavo namo dirbti mokyklose,
-    misijose ir t.t.
-    Be mokyklų, katalikiškai auklėjančių jaunąją kartą, jėzuitai
-    dar kovojo su protestantais ir kitokiais būdais. Jie ruošdavo
-    tikybinius disputus, kuriuose savo moksliškumu nugalėdavo
-    protestantų teologus. Kai protestantai pradėjo vengti disputų,
-    jie tokiuos disputus rengdavo vieni; vienas jų narys stodavo
-    ginti protestantizmo, išdėstydamas protestantų argumentus, o
-    kitas, ginąs katalikybę, sugriaudavo tuos argumentus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Vilniaus vyskupas Protasevičius kovai su protestantais atsikvietė į Vilnių jėzuitus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl Vilniaus vyskupas
-    Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo
-    ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jė-
-    zuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadi-
-    namą kolegija (žiūr. 254 psl.). Maža to, vyskupas Protasevičius,
-    nesigailėdamas savo turtų, rūpinosi įkurti Vilniuje ir aukštąją
-    mokyklą. Tatai jis irgi pavedė padaryti tiems patiems jėzuitams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

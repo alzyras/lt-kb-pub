@@ -42,26 +42,6 @@ Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerok
   teiginys: "Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje."
   pagrindžia:
     - c-166513
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau Lietuvoje formavosi labai gausi Evangelikų re-
-    formatų bažnyčia, gerokai stipresnė nei Lenkijoje. Tai nulėmė, kad LDK
-    didikai (aukščiausias visuomenės sluoksnis) parėmė būtent evangelikų
-    reformatų tikėjimą. Beveik visi didikai katalikai, taip pat dalis ortodoksų
-    perėjo į kalvinistų tikėjimą ir sekuliarizavo beveik 50 proc. katalikų baž-
-    nyčių. Tiesa, kalvinizmas pamažu pradėjo menkti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -81,5 +61,5 @@ Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183128
     - t-19690
+    - t-183128

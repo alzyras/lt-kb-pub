@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų nuskriausti jo globon paimti asmenys ar jų tėvonijos. Ivano įsakymu į nelaisvę atvestas Konstantinas buvo kankinamas ir surakintas grandinėmis. Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo.
+Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų nuskriausti jo globon paimti asmenys ar jų tėvonijos. Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo. Karalius žadėjo atiduoti Andrejų tik tada, jei Ivanas grąžintų kunigaikščius su jų šeimomis ir tėvonijomis.
 
 ## Teiginiai
 
@@ -37,182 +37,41 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   pagrindžia:
     - c-169305
 
-<a id="claim-t-185945"></a>
-- t-002
-  global_id: t-185945
-  teiginys: "Ivano įsakymu į nelaisvę atvestas Konstantinas buvo kankinamas ir surakintas grandinėmis."
-  pagrindžia:
-    - c-169306
-
 <a id="claim-t-185947"></a>
-- t-003
+- t-002
   global_id: t-185947
   teiginys: "Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo."
   pagrindžia:
     - c-169308
 
 <a id="claim-t-185948"></a>
-- t-004
+- t-003
   global_id: t-185948
   teiginys: "Karalius žadėjo atiduoti Andrejų tik tada, jei Ivanas grąžintų kunigaikščius su jų šeimomis ir tėvonijomis."
   pagrindžia:
     - c-169309
 
 <a id="claim-t-193391"></a>
-- t-005
+- t-004
   global_id: t-193391
-  teiginys: "Sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada."
+  teiginys: "Ivano maskvėnų atstovus Lietuvoje sutiko Mikalojus Kiška, o derybas vedė Mikalojus Radvila ir kiti Lietuvos pareigūnai."
   pagrindžia:
+    - c-169309
     - c-176115
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų nuskriausti jo globon paimti asmenys ar jų tėvonijos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Juk jis įsakęs Vilniaus vys­
-    kupui Vaitiekui Taborui ir
-    P a sk elb ia
-    A le k sa n d -
-    Smolensko
-    Juozapui Solta-
-    rui karą
-    nui ne kartą raginti Eleną
-    pereiti į Romos tikėjimą; li­
-    gi šiol rūmuose nesanti pastatyta Elenos reikalams
-    koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo
-    ir todėl kai kurie, norėdami išvengti šitokios nuodė­
-    mės, ieškosi prieglobsčio Maskvoje. Jis, Ivanas, nieku
-    būdu negalįs ramiai žiūrėti, kaip jam daroma skriau­
-    dos, negalįs nepaisyti rusų maldavimų, todėl ateityje
-    pasirūpinsiąs ginklu atremti bet kokį smurtą, kurio
-    bus griebiamasi prieš asmenis ir tėvonijas, jo paimtas
-    į globą. Skubiai po to pasiuntęs žygūną, sakėsi pas­
-    kelbsiąs Aleksandrui tikrą karą, jeigu šis pasisavin­
-    siąs pabėgėlių turtus arba nuskriausiąs dėl tikėji­
-    mo kitus rusus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196477"></a>
+- t-005
+  global_id: t-196477
+  teiginys: "Ivano maskvėnų raiteliai neatlaikė antpuolio ir mūšiui prasidėjus pasitraukė iš atviro lauko į stovyklą."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Ivano įsakymu į nelaisvę atvestas Konstantinas buvo kankinamas ir surakintas grandinėmis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Išvengė nelaisvės ar
-    mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va­
-    lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie
-    garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su
-    kardu rankoje prasiskynė kelią per ginkluotus būrius
-    ir paspruko iš pavojaus. Atvestas pas Ivaną, Konstan­
-    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
-    kinimus: ne tik kojas jam it vergui surakino grandinė­
-    mis, bet ir rankas užlaužė už nugaros ir nelyginant
-    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
-    Aleksandras sužinojo prie Bobro upės; norėdamas su­
-    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
-    se.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mat šis, nepakęsdamas Ivano žiau­
-    rumo, kartu su visa šeimyna šiek tiek anksčiau buvo
-    persikėlęs į Lietuvą. Išgirdęs apie šį Andrejaus žingsnį,
-    Ivanas didžiai įniršo; vieną atsitiktinai sugautą Kurbs-
-    kio tarną kuo žiauriausiai nukankino, o kitą žymų di­
-    diką, palaidojusį nužudytojo palaikus, tol visaip kan­
-    kino, kol šis bekankinamas mirė. Ir po šių žudynių ne­
-    nurimo pasiutėlis, nelyginant jam būtų maža nekaltų
-    aukų: viską darė, norėdamas pagrobti patį Andrejų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Karalius žadėjo atiduoti Andrejų tik tada, jei Ivanas grąžintų kunigaikščius su jų šeimomis ir tėvonijomis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Lietuvos istorija
-    -737
-
-    ## Puslapis 736
-
-    V ė l p ra d e d a m a s
-    ras su M a sk v a
-    atmesti, nes nebuvo nė vieno reikalavimo, su kuriuo
-    jie galėjo sutikti. Kad jie galop patys suprastų, kokie
-    neprotingi jų reikalavimai, karalius pažadėjo atiduoti
-    Andrejų, bet tada, kai Ivanas savo ruožtu karaliui grą­
-    žinsiąs kunigaikščius Lengvenaičius, Glinskius, Belskius,
-    Trubeckojus, Odojevskius, Masalskius ir kitus su viso­
-    mis jų šeimynomis ir
-    tėvonijomis. Nieko nenuveikę,
-    pasiuntiniai patraukė atgal, ir
-    ka-
-    štai vėl įsiplieskė karas, kurį
-    maskvėnai pradėjo, nė nelau­
-    kdami, kol pasibaigs paliau­
-    bos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Sutiko ir priėmė
-    maskvėnus pataurininkis Mikalojus Kiška, stalininkas
-    Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir
-    Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-
-    činskis ir Mikalojus Konča, o vedė derybas tokie orūs
-    vyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų
-    kaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis
-    Tiškevičius, maršalai Eustachijus Valavičius ir Jonas
-    Simkovičius, iždininkas Mikalojus Naruševičius, Lietu­
-    vos raštininkas Mykolas Garaburda. Kai prieita prie
-    pagrindinio derybų klausimo, maskvėnai atkakliausiai
-    pareikalavo amžinam Maskvos valdymui perduoti tai,
-    ką didysis kunigaikštis esąs užėmęs. Karalius turįs vi­
-    siškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,
-    Jezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį
-    su visais palydovais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
+    - c-169306
 
 ## Citatos
 
 - id: c-169305
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 557"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 557."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Juk jis įsakęs Vilniaus vys­
     kupui Vaitiekui Taborui ir
@@ -245,34 +104,25 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
 - id: c-169306
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 560"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Išvengė nelaisvės ar
-    mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va­
-    lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie
-    garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su
-    kardu rankoje prasiskynė kelią per ginkluotus būrius
-    ir paspruko iš pavojaus. Atvestas pas Ivaną, Konstan­
-    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
-    kinimus: ne tik kojas jam it vergui surakino grandinė­
-    mis, bet ir rankas užlaužė už nugaros ir nelyginant
-    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
-    Aleksandras sužinojo prie Bobro upės; norėdamas su­
-    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
-    se.
+    Po to visi it vienas pa­
+    reikalavo vesti juos į priekį ir pulti priešą. Nesilsėjusi
+    kariuomenė, vargais negalais nužygiavusi dvi mylias,
+    įnirtingai užpuolė priešą vos jį išvydusi. Maskvėnų
+    raiteliai neatlaikė antpuolio; vos prasidėjus mūšiui, at­
+    sitraukė iš atviro lauko į stovyklą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185945
+    - t-196477
 
 - id: c-169308
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 735"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 735."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat šis, nepakęsdamas Ivano žiau­
     rumo, kartu su visa šeimyna šiek tiek anksčiau buvo
@@ -295,40 +145,6 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Lietuvos istorija
-    -737
-
-    ## Puslapis 736
-
-    V ė l p ra d e d a m a s
-    ras su M a sk v a
-    atmesti, nes nebuvo nė vieno reikalavimo, su kuriuo
-    jie galėjo sutikti. Kad jie galop patys suprastų, kokie
-    neprotingi jų reikalavimai, karalius pažadėjo atiduoti
-    Andrejų, bet tada, kai Ivanas savo ruožtu karaliui grą­
-    žinsiąs kunigaikščius Lengvenaičius, Glinskius, Belskius,
-    Trubeckojus, Odojevskius, Masalskius ir kitus su viso­
-    mis jų šeimynomis ir
-    tėvonijomis. Nieko nenuveikę,
-    pasiuntiniai patraukė atgal, ir
-    ka-
-    štai vėl įsiplieskė karas, kurį
-    maskvėnai pradėjo, nė nelau­
-    kdami, kol pasibaigs paliau­
-    bos.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185948
-
-- id: c-176115
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 735"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 735."
-  citata_originali: |
     Sutiko ir priėmė
     maskvėnus pataurininkis Mikalojus Kiška, stalininkas
     Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir
@@ -345,6 +161,40 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     siškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,
     Jezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį
     su visais palydovais.
+  citata_rodoma: "Karalius \ntaip paskirstė senatorių \npareigas, kad vieni turėjo\npasiuntinius sutikti, priimti ir \nT a ria m a si d ė l ta ik o s, \ndosniai pavaišinti, o kiti —\nb e t su sip y k sta m o \nkalbėtis su jais apie valstybės\nreikalus. Sutiko ir priėmė \nmaskvėnus pataurininkis Mikalojus Kiška, stalininkas \nMikalojus Dorogostaiskis, maršalai Jonas Valavičius ir \nJonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To- \nčinskis ir Mikalojus Konča, o vedė derybas tokie orūs \nvyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų \nkaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis \nTiškevičius, maršalai Eustachijus Valavičius ir Jonas \nSimkovičius, iždininkas Mikalojus Naruševičius, Lietu­\nvos raštininkas Mykolas Garaburda. Kai prieita prie \npagrindinio derybų klausimo, maskvėnai atkakliausiai \npareikalavo amžinam Maskvos valdymui perduoti tai, \nką didysis kunigaikštis esąs užėmęs."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185948
+    - t-193391
+
+- id: c-176115
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    M ask v ėn ų atstovai, d ėl k u rių kelio n ės į L ietuvą b u ­
+    v o su sitarta an k stesn iais m etais, lab ai ilgai nesirodė;
+    nors M askvos k u n ig aik štis bei k araliau s leg atai visai
+    n esen iai buvo su sitarę, k a d tol p a sien y je v iešp ata u s ta i­
+    ka, kol atv y k s p asiu n tin y b ė ir kol tęsis d erybos, m ask-
+    v ėn ai po seno v ei k u rstė neram um us. P rie U sviatų ir
+    D auguvos b ei Ū los san tak o je p astatę įtvirtinim us, jie
+    plėšė kaim ynin es žem es, o k a rtą b an d ė užgrobti V oro-
+    n ečo pilį, tiesa, nesėkm ingai. V asiliju i Z aborovskiui, k u ­
+    ris k araliau s v a rd u n u sisk u n d ė dėl d arom ų skriaudų,
+    Iv an as atsakė, k ad U sviatai bei Ū la jo rankose, k ad čia
+    staty ti pilis jam v isai n ed rau d žia paliaubos, o V orone-
+    čą k araliau s žm onės p astatė p aliau b ų m etu, ir dėl to
+    k ariai k etin ę jį užim ti. N eg alėd am as rasti tiesos nei p er
+    laiškus, n ei p e r pasiuntinius, k araliu s p arag in o gretim ų
+    pilių seniūnus p u ld in ėti m ask v ėn ų žem es. P irm as p a t­
+    rau k ė į žygį S tanislovas Pacas, lauko etm onas; su len ­
+    gvaisiais V itebsko žem ės raiteliais jis n u siau b ė ap lin ­
+    kinius m ask v ėn ų kaim us.
+  citata_rodoma: "Sutiko ir priėmė\nmaskvėnus pataurininkis Mikalojus Kiška, stalininkas\nMikalojus Dorogostaiskis, maršalai Jonas Valavičius ir\nJonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-\nčinskis ir Mikalojus Konča, o vedė derybas tokie orūs\nvyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų\nkaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis\nTiškevičius, maršalai Eustachijus Valavičius ir Jonas\nSimkovičius, iždininkas Mikalojus Naruševičius, Lietu­\nvos raštininkas Mykolas Garaburda. Kai prieita prie\npagrindinio derybų klausimo, maskvėnai atkakliausiai\npareikalavo amžinam Maskvos valdymui perduoti tai,\nką didysis kunigaikštis esąs užėmęs. Karalius turįs vi­\nsiškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,\nJezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį\nsu visais palydovais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

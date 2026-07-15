@@ -9,6 +9,7 @@ tags:
   - asmuo
   - kunigaikštis
   - popiežius
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,6 +51,13 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
   teiginys: "Dusburgiečio pasakojime krivis mirusiojo tėvams nurodydavo mirusiojo drabužius, ginklus, žirgus ir šeimyną."
   pagrindžia:
     - c-60679
+
+<a id="claim-t-197122"></a>
+- t-004
+  global_id: t-197122
+  teiginys: "Dėl šitų mirusiųjų nutikdavo tokių velniškų patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus, ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas nedvejodamas pasakydavo, kokie buvo."
+  pagrindžia:
+    - c-179033
 - susijęs iš [[objektai/asmenys/Fateris.md#claim-t-190122|Fateris]]: Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusinų, latviškai vadinamų krieviais.
 - susijęs iš [[objektai/asmenys/Henrikas Latvis.md#claim-t-190100|Henrikas Latvis]]: Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio, kurio valdžią pats Narbutas sieja su tuo kraštu.
 - susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-188569|Kristijonas (vyskupas, XIII a.)]]: Narbutas sprendė, kad vyskupas Kristijonas žinojo apie krivio buvimą ir galėjo jį pažinti būdamas prūsų nelaisvėje.
@@ -125,56 +133,12 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
 - susijęs iš [[objektai/zodynas/Mubad-Mubaden Destruri-Destur.md#claim-t-189314|Mubad-Mubaden Destruri-Destur]]: Narbutas Krewe-Krewejto titulą lygino su persų vyriausiojo kunigo pavadinimais Mubad-Mubaden ir Destruri-Destur, reiškusiais žynių žynį.
 - susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192259|Krirsae]]: Narbutas nurodo, kad Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“, reiškiančio šaltinį.
 - susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192260|Krirsae]]: Narbutas nepripažįsta krivičių pavadinimo kildinimo iš sarmatų žodžio „Krirsae“.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Krivis turėjo tokį autoritetą, kad jo pasiuntinys su krivūle sulaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
-    ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas,
-    kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu
-    kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
-    iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
-    senovėje, negęstančiąją ugnį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dėl šitų mirusiųjų nutikdavo tokių velniškų
-    patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
-    ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas
-    nedvejodamas pasakydavo, kokie buvo mirusiojo drabužiai, ginklai210, žirgai bei šeimyna,
-    be to, siekdamas didesnio įtikinamumo, pridurdavo, jog, girdi, jo namų durų staktoje
-    numirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu. Po pergalės jie
-    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
-    atiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse
-    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
-    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
-    pastovėti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-60678
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 68"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
     ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas,
@@ -193,8 +157,7 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
 - id: c-60679
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 69"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dėl šitų mirusiųjų nutikdavo tokių velniškų
     patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
@@ -215,6 +178,30 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
   pagrindzia:
     - t-60046
     - t-60048
+
+- id: c-179033
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Dėl šitų mirusiųjų nutikdavo tokių velniškų
+    patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
+    ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas
+    nedvejodamas pasakydavo, kokie buvo mirusiojo drabužiai, ginklai210, žirgai bei šeimyna,
+    be to, siekdamas didesnio įtikinamumo, pridurdavo, jog, girdi, jo namų durų staktoje
+    numirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu. Po pergalės jie
+    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
+    atiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse
+    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
+    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
+    pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
+    papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197122
 
 ## Ryšiai
 - Krivis gyveno [[objektai/vietos/Prūsija]]

@@ -43,13 +43,6 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   pagrindžia:
     - c-59274
 
-<a id="claim-t-58642"></a>
-- t-003
-  global_id: t-58642
-  teiginys: "Pamedės žemėje buvusią Spitenbergo pilį broliai sudegino ir paliko per antrąją atskalūnybę."
-  pagrindžia:
-    - c-59275
-
 <a id="claim-t-194549"></a>
 - t-004
   global_id: t-194549
@@ -66,7 +59,6 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
 - susijęs iš Stabo ežeras: Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.
 - susijęs iš Stabo ežeras: Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Spitenbergas buvo maža kryžiuočių pilis, kurios tikslesnė vieta Pamedėje nenustatyta.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -92,9 +84,6 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
     ilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo
     ginklanešiais, ir ji po šiai dienai tebestovi apleista.
 
-
-
-
      152 (147).
   citata_rodoma: ''
   statusas: verified
@@ -111,12 +100,15 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
 - id: c-59274
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 140"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    431 D.— Spittenbergk, Jer.— Spittinberc. Šios mažos kryžiuočių pilies ieškota Osos
-    žemupio deš. krante (Voigt J., Geschichte.., 3, p. 293; VBK); pažymima, kad tikslesnė
-    pilies vieta Pamedėje nenustatoma (Ewald A.
+    Apie Rudino brolių kovą ir tenykščio miesto sugriovimą
+    Vargu ar kas stengtų išsamiai aprašyti bei papasakoti, kiek vargų antrosios atskalūnybės
+    metais patyrė Rudino broliai bei miestiečiai, gindami krikščionių tikėjimą nuo prūsų, nes
+    šiomis vietomis prūsai nuolatos braudavosi į Kulmo žemę ir iš jos traukdavo atgal. Pasak
+    kai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės
+    arba paimti į nelaisvę, arba išžudyti.
+  citata_rodoma: "431 D.— Spittenbergk, Jer.— Spittinberc. Šios mažos kryžiuočių pilies ieškota Osos\nžemupio deš. krante (Voigt J., Geschichte.., 3, p. 293; VBK); pažymima, kad tikslesnė\npilies vieta Pamedėje nenustatoma (Ewald A."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -127,27 +119,23 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
 - id: c-59275
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 140"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis
-
-      Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai. Antrosios
-    atskalūnybės metais prūsai tiek kartų ją kamavo antpuoliais, kad negalima buvo joje
-    ilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo
-    ginklanešiais, ir ji po šiai dienai tebestovi apleista.
-
-
-
-
-     152 (147).
+    Susirūpinęs dėl šio
+    įvykio vyskupas susišaukė kilminguosius bei vasalus, įpareigodamas juos už nuodėmes
+    išeiti [iš miesto] ir tiksliai sužinoti, kiek priešo kariuomenėje karių ir kokio ji stiprumo.
+    Išeinančius [iš miesto] pasitiko prūsai, prasidėjo kautynės, kuriose jie sužeidė vieną tokį
+    aukštą prūsą, kad jis buvo visa uolektimi aukštesnis už kitus, ir pusgyvį jį atsigabeno į
+    miestą. Jį paėmus į nelaisvę, be galo susikrimto prūsų vadas, kuris pažadėjo pasitraukti
+    nuo miesto ir nebeskriausti krikščionių, jeigu jiems būsiąs atiduotas šis sužeistasis, o
+    šitaip abi šalys ir padarė.
+  citata_rodoma: "Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis\n\n  Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai. Antrosios\natskalūnybės metais prūsai tiek kartų ją kamavo antpuoliais, kad negalima buvo joje\nilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo\nginklanešiais, ir ji po šiai dienai tebestovi apleista.\n\n\n\n\n 152 (147)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58642
-    - t-184205
     - t-194549
 
 ## Ryšiai

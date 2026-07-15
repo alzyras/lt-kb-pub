@@ -7,13 +7,13 @@ datos:
   - '1096 m.'
 date_start: '1096'
 date_end: ''
+amziai:
+  - 'XI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - simbolis
-amziai:
-  - 'XI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -71,26 +71,8 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
   teiginys: "Narbutas svarsto, kad 1096 m. prūsai prie Goplo ežero galėjo pamesti savo deivės stabą, vėliau atsidūrusį generolo Skažinskio nuosavybėje."
   pagrindžia:
     - c-174927
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Žinoma, jog 1096 metais prūsai buvo tuose kraštuose ir stojo į
-    mūšį su lenkais prie Goplo ežero1. Kaip tik tuomet jie galėjo pa­
-    mesti savo deivės stabą, kuris išgulėjo žemėje daugiau nei sep­
-    tynis amžius. Šiandien tai lenkų
-    armijos
-    generolo Skažinskio
-    (Skaržynski) nuosavybė. Statulėlės išmatavimai nežinomi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -117,8 +99,7 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
 - id: c-174927
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 471"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 471."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Žinoma, jog 1096 metais prūsai buvo tuose kraštuose ir stojo į
     mūšį su lenkais prie Goplo ežero1. Kaip tik tuomet jie galėjo pa­
@@ -138,19 +119,23 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
 - id: c-174928
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 471"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 471."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    29 /P.
-    84, 1
-    pastraipos
-    tęsinys/
-    Netoli Krušvicos, prie Goplo ežero, buvo atkastas deivės Laimos
-    stabas, gana dailiai iškaltas iš smiltainio. Ponas T. Volianskis
-    atsiuntė man piešinį, kurį čia pridedu. Iš kitų rankų gavau tokį
-    pat piešinį, tik su tuo skirtumu, jog ant akmeninio pagrindo buvo
-    rastas runų užrašas, patvirtinantis pono Volianskio spėjimą. Jis
-    išskaitė, jog tai yra Lauma, AVFTAL (skaitoma iš dešinės į kairę).
+    Šios dainos vertimą į lenkų
+    kalbą istorikas gavo iš savo korespondento archeologo, kolekcio­
+    nieriaus Tado Volianskio (Wolanski). 1844 sausį T. Volianskis ra­
+    šė istorikui:
+    siunčiu Tamstai dainą, kurią išverčiau ka-
+    dais, prieš daugel metų, į lenkų kalbą. Tai nebus Tamstai nema­
+    lonu, nes tas, kuris savo širdyje ištikimai, kaip lenkas ir lietu­
+    vis, saugo tėvynės meilę ir jos ankstesniy laikų prisiminimą, tai
+    jam
+    ir
+    tokia
+    smulkmena
+    yra
+    geistina“
+    (Bidgoščius.
   citata_rodoma: "Netoli Krušvicos, prie Goplo ežero, buvo atkastas deivės Laimos\nstabas, gana dailiai iškaltas iš smiltainio. Ponas T. Volianskis\natsiuntė man piešinį, kurį čia pridedu. Iš kitų rankų gavau tokį\npat piešinį, tik su tuo skirtumu, jog ant akmeninio pagrindo buvo\nrastas runų užrašas, patvirtinantis pono Volianskio spėjimą. Jis\nišskaitė, jog tai yra Lauma, AVFTAL (skaitoma iš dešinės į kairę)."
   statusas: verified
   teiginio_tipas: faktas

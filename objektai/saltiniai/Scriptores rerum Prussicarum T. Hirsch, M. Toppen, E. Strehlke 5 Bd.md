@@ -13,12 +13,12 @@ datos:
   - '1900 m.'
 date_start: '1801'
 date_end: '1900'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,8 +46,8 @@ Dusburgietis teigia, kad scriptores rerum Prussicarum / T.
   teiginys: "Penkių tomų „Scriptores rerum Prussicarum“ leidinys išėjo Leipcige 1861–1874 m."
   pagrindžia:
     - c-61923
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Penkių tomų „Scriptores rerum Prussicarum“ leidinys išėjo Leipcige 1861–1874 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -67,11 +67,14 @@ Dusburgietis teigia, kad scriptores rerum Prussicarum / T.
 - id: c-61923
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Scriptores rerum Prussicarum / T. Hirsch, M. Toppen, E. Strehlke: 5 Bd.— 1861 —1874
-    —Leipzig.—Bd. 1, 1861; Bd. 2, 1863; Bd. 3, 1866; Bd. 4, 1870; Bd. 5, 1874.
+    Zweck A. Ueber die Entstehung des Flusslaufes der Deime (Mit einer Skizze über die
+    Abmündung der Deime bei Tapiau).— AM, 1896, Bd. 33, S. 110—136.
+    Źródła skandynawskie i anglosaskie do dziejów słowiańszczyzny/Wydał G. Labuda —
+    Warszawa, 1961.
+    Žulkus V. Klaipėdos pilis ir miestas XIII—XVI a —MG 1983, Nr. 8, p. 28—29.
+  citata_rodoma: "Scriptores rerum Prussicarum / T. Hirsch, M. Toppen, E. Strehlke: 5 Bd.— 1861 —1874\n—Leipzig.—Bd. 1, 1861; Bd. 2, 1863; Bd. 3, 1866; Bd. 4, 1870; Bd. 5, 1874."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

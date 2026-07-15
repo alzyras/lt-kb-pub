@@ -36,27 +36,6 @@ media_all_json: |-
   pagrindžia:
     - c-83651
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179393|Livonijos ordinas]]: Mūšyje žuvo daug livoniečių, tarp jų Kalavijuočių riterių ordino magistras Frankas Kirskorffas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kalavijuočių riterių ordino magistras Frankas Kirskorffas žuvo mūšyje, kuriame žuvo daug livoniečių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mūšis buvo įnirtingas ir žiaurus, kol pagaliau pralaužtos
-    vokiečių ir rusų rikiuotės pradėjo bėgti iš mūšio lauko. Čia
-    žuvo daugybė livoniečių, tarp jų - Frankas Kirskorffas, Ka­
-    lavijuočių riterių ordino magistras. Priešininkas, persekio­
-    jamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­
-    tosios upę ties Ukmerge, kur buvo nuskandinta labai daug
-    jo kareivių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83651

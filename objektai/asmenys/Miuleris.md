@@ -38,24 +38,6 @@ Miulerio vadovaujama kolona įsiveržė į centrinę Aušros vartų gatvę.
 - susijęs iš [[objektai/autoriai/Adomas Fergusonas.md#claim-t-187792|Adomas Fergusonas]]: Leidinio įvado autorius Adomą Fergusoną priskiria žymiausiems XVIII-XIX a. Europos istorikams, kurių darbus vertė Vilniaus universiteto auklėtiniai.
 - susijęs iš [[objektai/autoriai/Vilhelmas Robertsonas.md#claim-t-187945|Vilhelmas Robertsonas]]: Įvadinis tekstas Vilhelmą Robertsoną vadina vienu žymiausių XVIII-XIX a. Europos istorikų, kurių darbus vertė Vilniaus universiteto auklėtiniai.
 - susijęs iš [[objektai/grupes/Lietuvos masonų organizacijos.md#claim-t-188044|Lietuvos masonų organizacijos]]: Masonų organizacijose buvo suformuluoti visuomenės švietimo ir ugdymo uždaviniai.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo metu kritinė situacija susidarė ties
-    Aušros vartais. Plk. Miulerio vadovaujama
-    kolona įsiveržė į centrinę Aušros vartų
-    gatvę. Iš namų pasipylė sukilėlių šautuvų
-    salvės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41591

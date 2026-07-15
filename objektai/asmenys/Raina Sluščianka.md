@@ -43,33 +43,6 @@ media_all_json: |-
   teiginys: "Raina Sluščianka buvo Martyno Paleckio žmona ir sutarties su miestu dėl stiklo liejyklos bei stiklo supirkimo dalyvė."
   pagrindžia:
     - c-83821
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Raina Sluščianka buvo Martyno Paleckio žmona ir sutarties su miestu dėl stiklo liejyklos bei stiklo supirkimo dalyvė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1572, mir.
-    1619 m.
-    56
-    Miesto aktuose yra: karaliaus Stepo­
-    no patvirtinimas sutarties tarp po­
-    no Martyno Paleckio ir jo žmonos,
-    dabar ponios Rainos Sluščiankos, ir
-    miesto dėl stiklo liejyklos ir stiklo su­
-    pirkimo. Buvo taip: Vilniaus vaitas
-    ir burmistrai, matydami, kad Palec­
-    kio, kuris buvo karaliaus maršalka
-    ir Eišiškių valdytojas, monopolis
-    kaskart vis didesnę žalą daro mies­
-    tui, norėjo jo privilegiją atšaukti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -47,40 +47,9 @@ Nenurodyta
 <a id="claim-t-194798"></a>
 - t-001
   global_id: t-194798
-  teiginys: "Tą lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy nui, tas tučtuojau siunčia tolyn, kol paskutinis iš eilės atneša atgal vaitui; kiekvienas, gavęs tokį ženklą, yra įpareigotas ne delsiant atvykti į valsčiaus susirinkimo vietą."
+  teiginys: 'Tą lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy nui, tas tučtuojau siunčia tolyn, kol paskutinis iš eilės atneša atgal vaitui; kiekvienas, gavęs tokį ženklą, yra įpareigotas ne delsiant atvykti į valsčiaus susirinkimo vietą.'
   pagrindžia:
     - c-177194
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tą lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy nui, tas tučtuojau siunčia tolyn, kol paskutinis iš eilės atneša atgal vaitui; kiekvienas, gavęs tokį ženklą, yra įpareigotas ne delsiant atvykti į valsčiaus susirinkimo vietą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Jau ir šiaip žinome, ir anksčiau sakėme, kad
-    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
-    8
-    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
-    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
-    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
-    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
-    430
-
-    ## Puslapis 430
-
-    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
-    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
-    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose. Tą
-    lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy­
-    nui, tas tučtuojau siunčia tolyn, kol paskutinis iš eilės atneša
-    atgal vaitui; kiekvienas, gavęs tokį ženklą, yra įpareigotas ne­
-    delsiant atvykti į valsčiaus susirinkimo vietą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -112,4 +81,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194798
+    - t-001

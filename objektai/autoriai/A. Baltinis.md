@@ -43,21 +43,6 @@ Baltinis, Vysk.
   teiginys: "A. Baltinis parašė veikalą „Vysk. V. Borisevičiaus gyvenimas ir darbai“, išleistą Romoje 1975 m."
   pagrindžia:
     - c-32862
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    14 dol.
-    A. Baltinis, Vysk. V. Borisevičiaus gyvenimas ir darbai,
-    XII-178 psl., Roma 1975. 8 dol.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

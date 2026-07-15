@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi metu iš Vyslos žemupio ir šiauresnių kraštų pajudėjo į pietus.
+Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi metu iš Vyslos žemupio ir šiauresnių kraštų pajudėjo į pietus. Kaip tik tuo metu vyko didelis germanų genčių kraustymasis: vandalai, tiuringiai, gepidai, longobarda!
 
 ## Teiginiai
 
@@ -36,36 +36,20 @@ Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi me
   teiginys: "Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi metu iš Vyslos žemupio ir šiauresnių kraštų pajudėjo į pietus."
   pagrindžia:
     - c-175769
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi metu iš Vyslos žemupio ir šiauresnių kraštų pajudėjo į pietus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Jų net pa­
-    daugėjo atvykus tautiečiams tiesiai iš gimtų lietuvių že­
-    mių. Kaip tik tuo metu vyko didelis germanų genčių
-    kraustymasis: vandalai, tiuringiai, gepidai, longobarda!
-    ir kai kurios sikandinavų-gotų gentys iš Vyslos žemupio
-    ir iš toliau Į šiaurę esančių kraštų siūbtelėjo į pietus; tai
-    jie išsivedė su savimi ir lietuvių kartas1, kurios galbūt
-    nenuėjo toliau kaip iki Dunojaus ir Noriko, o ten įsiliejo
-    į herulų kolonijas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197524"></a>
+- t-002
+  global_id: t-197524
+  teiginys: "Kaip tik tuo metu vyko didelis germanų genčių kraustymasis: vandalai, tiuringiai, gepidai, longobarda!"
   pagrindžia:
-    - t-001
+    - c-179230
 
 ## Citatos
 
 - id: c-175769
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 312"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jų net pa­
     daugėjo atvykus tautiečiams tiesiai iš gimtų lietuvių že­
@@ -82,3 +66,23 @@ Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi me
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192999
+
+- id: c-179230
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Kaip tik tuo metu vyko didelis germanų genčių
+    kraustymasis: vandalai, tiuringiai, gepidai, longobarda!
+    ir kai kurios sikandinavų-gotų gentys iš Vyslos žemupio
+    ir iš toliau Į šiaurę esančių kraštų siūbtelėjo į pietus; tai
+    jie išsivedė su savimi ir lietuvių kartas1, kurios galbūt
+    nenuėjo toliau kaip iki Dunojaus ir Noriko, o ten įsiliejo
+    į herulų kolonijas. Tačiau lietuvių Europos pietuose laukė
+    kitas likimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197524

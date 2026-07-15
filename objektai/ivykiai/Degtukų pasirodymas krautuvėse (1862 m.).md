@@ -89,6 +89,7 @@ Nenurodyta
   teiginys: "Kaime degtukų nekentė dėl to, kad jie perkami, ir bijojo dėl gaisro pavojaus."
   pagrindžia:
     - c-178012
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -134,5 +135,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195608
     - t-195607
+    - t-195608

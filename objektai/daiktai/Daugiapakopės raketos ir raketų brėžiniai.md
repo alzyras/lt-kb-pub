@@ -74,43 +74,6 @@ Nenurodyta
   teiginys: "K. Semenavičius citatoje vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju."
   pagrindžia:
     - c-22225
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'K. Semenavičius citatoje vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Baroko
-    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
-    universitetą. Manoma, kad studijų lygis senajame universitete nebuvo
-    menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose. Iš šių
-    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
-    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
-    teorijos  kūrėjo K. Semenavičiaus veikalo
-    „Artis magnae artilleriae“  frontispisas, 1650 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-002
-  santrauka: 'K. Semenavičiaus raketų brėžiniai buvo susieti su Amsterdamu ir 1650 m.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Yra ir kitas senojo Vilniaus universiteto
-    istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
-    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -133,8 +96,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75316
     - t-75315
+    - t-75316
 
 - id: c-22226
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

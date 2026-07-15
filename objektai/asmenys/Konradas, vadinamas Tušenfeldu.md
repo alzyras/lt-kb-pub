@@ -35,34 +35,13 @@ Dusburgietis teigia, kad ten žuvo nukautas brolis Konradas, vadinamas Tušenfel
   teiginys: "Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu."
   pagrindžia:
     - c-61002
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Livonijos atstovų prieštaravimo originale rašoma: van
-    des koninges wegene van Lettowen dat lant do Ousteyten und Sameyten, Plessekowe
-    und alle de Russen (LUB, 2, Nr. 694, p. 155). Pagrindinių sutarties tekstų pradžioje aiškiai
-    minimas Lietuvos karalius Gediminas (Gedeminne, de koning van Lethowen; Gedeminus,
-
-    Romainiai, kuris pagal jų papročius buvo laikomas šventuoju543, o visus gyventojus paėmė
-    į nelaisvę arba išžudė. Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61002
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 186-187"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 186-187."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Livonijos atstovų prieštaravimo originale rašoma: van
     des koninges wegene van Lettowen dat lant do Ousteyten und Sameyten, Plessekowe

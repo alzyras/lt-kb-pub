@@ -43,24 +43,18 @@ Greta didžiojo etmono M.
   teiginys: "Aleksandras, pasitaręs su ponu Petru, etmono vietą perdavė Konstantinui Ostrogiškiui."
   pagrindžia:
     - c-170472
-
-<a id="claim-t-187522"></a>
-- t-003
-  global_id: t-187522
-  teiginys: "Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą."
-  pagrindžia:
-    - c-170473
 - susijęs iš [[objektai/asmenys/Avigenas.md#claim-t-186096|Avigenas]]: Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir jai vadovavo lyg etmonas.
 - susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-63715|Jonas Chodkevičius]]: Jonas Chodkevičius buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo Livonijos etmonu.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103053|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila paveikslo „Oršos mūšis“ fragmente vaizduojamas kaip buože užsimojęs lauko etmonas.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila Perkūnas.md#claim-t-79095|Kristupas Radvila Perkūnas]]: Šešiolikmetis Kristupas Radvila Perkūnas buvo tarp karių greta didžiojo etmono Mikalojaus Radvilos.
+- susijęs iš [[objektai/asmenys/Mykolas Kazimieras Pacas.md#claim-t-200861|Mykolas Kazimieras Pacas]]: Mykolas Kazimieras Pacas, Lietuvos Didžiosios Kunigaikštystės etmonas ir Vilniaus vaivada, pastatė Šv. Petro ir Povilo bažnyčią Antakalnyje.
 - susijęs iš [[objektai/asmenys/Romanas Sanguška.md#claim-t-40405|Romanas Sanguška]]: Romanas Sanguška buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo lauko etmonu.
 - susijęs iš [[objektai/asmenys/S. Kosakovskis.md#claim-t-40407|S. Kosakovskis]]: S. Kosakovskis buvo paskutinysis LDK didysis etmonas ir generolas, suimtas Milerio name Vilniuje.
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78202|Lenkijos kariuomenė]]: Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-182743|Lietuvos kariuomenė]]: Kristupas Radvila Perkūnas 1589–1603 m. vadovavo Lietuvos kariuomenei kaip LDK kariuomenės didysis etmonas.
+- susijęs iš [[objektai/ivykiai/Bernardinų bažnyčios atstatymas po 1655 m. rusų antplūdžio.md#claim-t-200841|Bernardinų bažnyčios atstatymas po 1655 m. rusų antplūdžio]]: Po 1655 metų rusų antplūdžio apdaužytą Bernardinų bažnyčią padėjo atstatyti Vilniaus vaivada ir Didžiosios Kunigaikštystės etmonas Mykolas Pacas.
 - susijęs iš [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.).md#claim-t-09885|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]: Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis.
 - susijęs iš [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.).md#claim-t-41393|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]: Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195011|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį etmonas Stanislovas Petravičius Kiška sunkiai susirgo ir nebegalėjo laikytis balne.
 - susijęs iš [[objektai/asmenys/Aleksandras Gonsevskis.md#claim-t-39999|Aleksandras Gonsevskis]]: Smolensko vaivada Aleksandras Gonsevskis su 6 tūkst. apylinkėse veikusių karių organizavo apsiaustųjų pajėgų aprūpinimą.
 - susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40035|Antoine Gramont]]: Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.
 - susijęs iš [[objektai/asmenys/Augustinas Rotundas.md#claim-t-60086|Augustinas Rotundas]]: Jonas Chodkevičius XVI a. antrojoje pusėje perdavė Dusburgiečio kroniką Vilniaus vaitui Augustinui Rotundui.
@@ -96,6 +90,7 @@ Greta didžiojo etmono M.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187750|Totoriai]]: Prie Klecko už Lanės upės stovėjo mūšiui pasirengę totorių pulkai.
 - susijęs iš [[objektai/grupes/Vilniaus konfederacija.md#claim-t-20071|Vilniaus konfederacija]]: Vilniaus konfederacija 1792 m. birželio 25 d. pritarė Targovicos konfederacijai.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184592|Žemaičiai]]: Staigi grėsmė išjudino kuršius, žemaičius ir lietuvius, kurie pirmajame susidūrime sutriuškino krikščionių karius.
+- susijęs iš [[objektai/ivykiai/Didžiojo sniego sukelta rūmų griūtis Vilniuje (1754 m. vasario 6 d.).md#claim-t-200602|Didžiojo sniego sukelta rūmų griūtis Vilniuje (1754 m. vasario 6 d.)]]: 1754 m. laiške aprašyta, kad dėl ekstremaliai gausaus sniego Vilniuje įgriuvo Sluškų rūmų stogas.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49165|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49166|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: Prieš Kuoknesės mūšį Kristupas Radvila Perkūnas birželio 2-3 d. pasiuntė Joną Sicinskį smogti K. Carlsono Gyllenhielmo kariams.
 - susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80673|Kėdainių unija (1655 m. spalio 20 d.)]]: Jonušo Radvilos pastangomis Kėdainių unija su Švedija buvo sudaryta 1655 m. spalio 20 d.
@@ -106,10 +101,12 @@ Greta didžiojo etmono M.
 - susijęs iš [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai.md#claim-t-20537|Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]: 1792 m. birželio 25 d. Vilniaus, arba Lietuvos, konfederacija pritarė Targovicos konfederacijai.
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.).md#claim-t-41382|Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]: 1655 m. rugpjūčio 7 d. po aršių kautynių Rusijos kariuomenė ir jos sąjungininkai kazokai užėmė Lietuvos sostinę Vilnių.
 - susijęs iš [[objektai/paprociai/Bajoriškoji demokratija, seimavimai ir liberum veto praktika.md#claim-t-77932|Bajoriškoji demokratija, seimavimai ir liberum veto praktika]]: Prieš vykdami į bendrus seimus Lietuvos atstovai rengdavo seimavimus bendrai pozicijai aptarti.
+- susijęs iš [[objektai/posakiai/Vilniaus publika dar nepradėjo rinktis.md#claim-t-200626|Vilniaus publika dar nepradėjo rinktis]]: 1747 m. Jonas Dominykas Lopacinskis rašė, kad Vilniaus publika dar nepradėjo rinktis, nors jos požymiai jau matėsi.
 - susijęs iš [[objektai/posakiai/„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“.md#claim-t-41494|„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“ (kraštas)]]: Lietuvos didysis etmonas Mykolas Kazimieras Oginskis atsakė, kad įgyvendina seną etmonų teisę įžengus svetimai kariuomenei rinkti Respublikos kariuomenę.
 - susijęs iš Roneburgo pilies bažnyčios Dusburgiečio kronikos nuorašas: Petro iš Dusburgo kronikos nuorašas buvo Livonijoje, Roneburgo pilies bažnyčioje, kur jį XVI a. antroje pusėje rado Jonas Chodkevičius.
 - susijęs iš Salaspilio mūšis: Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną.
 - susijęs iš Trečiasis Lietuvos Statutas (1588 m.): Trečiasis Lietuvos Statutas 1588 m. įformino atskirą LDK teisinę sistemą.
+- susijęs iš Bernardinų bažnyčia Vilniuje: Dėl Reformacijos įtakos ir lėšų stokos Bernardinų bažnyčios statyba užsitęsė iki XVI amžiaus pabaigos.
 - susijęs iš Dauguva: Lietuvos kariuomenės sparnas turėjo nustumti švedus nuo Dauguvos kranto ir nublokšti juos į šiaurėje esantį pelkėtą mišką.
 - susijęs iš Didžiųjų Lukų tvirtovė: Į Didžiųjų Lukų tvirtovę buvo nurodyta suvežti atsargas, kurių kariuomenei turėjo pakakti pusei metų.
 - susijęs iš Gardinas: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną.
@@ -122,7 +119,7 @@ Greta didžiojo etmono M.
 - susijęs iš Salacgryva: Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį.
 - susijęs iš Salacgryva: Jonas Karolis Chodkevičius Salacgryvos uosto prieigose slapta parengė du branderius - padegamuosius laivus.
 - susijęs iš Salacgryva: Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį.
-- susijęs iš Vilnius: XVI a. antrojoje pusėje Jonas Chodkevičius Petro Dusburgiečio kroniką perdavė Vilniaus vaitui Augustinui Rotundui.
+- susijęs iš [[objektai/zodynas/Bernardinų bažnyčia Vilniuje.md#claim-t-200827|Bernardinų bažnyčia Vilniuje]]: Pritrūkus lėšų ir atšalus statytojų uolumui dėl Reformacijos įtakos, Bernardinų bažnyčios statyba užsitęsė iki XVI a. pabaigos.
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101586|federacija federacinė valstybė]]: Po unijos LDK išlaikė atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.
 - susijęs iš [[objektai/zodynas/federacija konfederacinė valstybė unitarinė valstybė.md#claim-t-22144|federacija konfederacinė valstybė unitarinė valstybė]]: LDK turėjo atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.
 - susijęs iš [[objektai/zodynas/jakobinizmas jakobinų klubas.md#claim-t-22172|jakobinizmas jakobinų klubas]]: Prūsiją gąsdino galimas valstybės sustiprėjimas dėl reformų, o Jekaterina II nerimavo dėl Prancūzijos jakobinizmo prie Rusijos sienų.
@@ -131,38 +128,10 @@ Greta didžiojo etmono M.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70312|rotmistras]]: Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70314|rotmistras]]: Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams.
 - susijęs iš [[objektai/zodynas/sarmatai Sarmatija sarmatizmas.md#claim-t-185368|sarmatai Sarmatija sarmatizmas]]: Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo protėvių įtaką Europos tautų istorijai.
+- susijęs iš [[objektai/ivykiai/Didžiojo sniego sukelta rūmų griūtis Vilniuje (1754 m. vasario 6 d.).md#claim-t-200602|Didžiojo sniego sukelta rūmų griūtis Vilniuje (1754 m. vasario 6 d.)]]: 1754 m. laiške aprašyta, kad dėl ekstremaliai gausaus sniego Vilniuje įgriuvo Sluškų rūmų stogas.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195015|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui.
+- susijęs iš [[objektai/posakiai/Vilniaus publika dar nepradėjo rinktis.md#claim-t-200626|Vilniaus publika dar nepradėjo rinktis]]: 1747 m. Jonas Dominykas Lopacinskis rašė, kad Vilniaus publika dar nepradėjo rinktis, nors jos požymiai jau matėsi.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    buvo geriausi kariai, kuriuos tuo metu
-    buvo galima surinkti. Greta didžiojo
-    etmono M. Radvilos buvo jo šešio-
-    likmetis sūnus Kristupas Radvila,
-    vėliau tapęs didžiuoju etmonu ir
-    vadintas Perkūnu, lauko etmo-
-    nas Grigalius Chodkevičius,
-    būsimasis lauko etmonas
-    Romanas Sanguška, būsima-
-    sis Livonijos etmonas Jonas
-    Chodkevičius ir daugelis kitų.
-
-    Žygimanto Augusto
-    paradiniai šarvai, pa-
-
-    gaminti Niunberge meistro
-    Kunzo Lochnerio, XVI a.
-    6 dešimtmetyje
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Aleksandras, pasitaręs su ponu Petru, etmono vietą perdavė Konstantinui Ostrogiškiui.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -180,28 +149,6 @@ Greta didžiojo etmono M.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir, apsupę Mstislavlio miestą, ilgokai stovėjo ir,
-    pridarę aplink miestą daug žalos, sugrįžo atgal5 8 .
-    Ponas Žemaičių seniūnas ir visos Lietuvos Didžio­
-    sios Kunigaikštystės etmonas ilgokai stovyklavo kalnuo­
-    se ir paskui nužygiavo į Lietuvą, čeką Joną Cerniną su
-    visais svetimšaliais nusiuntė į Polocką kaip įgulą5 9 .
-    Septyni tūkstančiai dešimtaisiais, o nuo Kristaus gi­
-    mimo tūkstantis penki šimtai pirmaisiais metais Toru-
-    nės mieste, Prūsijoje, mirė Lenkijos karalius Olbrach-
-    tas 6 0 , karaliaus Aleksandro brolis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -241,37 +188,21 @@ Greta didžiojo etmono M.
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir didysis kunigaikštis Aleksandras, maty­
-    damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­
-    ties perduoti etmono vietą. Ponas Petras patarė per­
-    duoti Volynės kunigaikščiui Konstantinui Ostrogiš-
-    kiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius
-    davė etmono vietą kunigaikščiui Konstantinui2 5 .
+    O pas­
+    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
+    vą 39.
+    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
+    das, ir paplito žmonėse prancūziškos ligos40. Paskui,
+    sekančių metų vasarą bei rudenį4I, atėjo Moldavijos
+    vaivada Steponas, o su juo — turkų sultono didysis pa­
+    ša, vardu Malkočas 42, vedinas daugeliu žmonių, ir ka­
+    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
+    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
+    kuvos 43.
+  citata_rodoma: "Ir didysis kunigaikštis Aleksandras, maty­\ndamas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­\nties perduoti etmono vietą. Ponas Petras patarė per­\nduoti Volynės kunigaikščiui Konstantinui Ostrogiš- \nkiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius \ndavė etmono vietą kunigaikščiui Konstantinui2 5 ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187521
-
-- id: c-170473
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Ir, apsupę Mstislavlio miestą, ilgokai stovėjo ir,
-    pridarę aplink miestą daug žalos, sugrįžo atgal5 8 .
-    Ponas Žemaičių seniūnas ir visos Lietuvos Didžio­
-    sios Kunigaikštystės etmonas ilgokai stovyklavo kalnuo­
-    se ir paskui nužygiavo į Lietuvą, čeką Joną Cerniną su
-    visais svetimšaliais nusiuntė į Polocką kaip įgulą5 9 .
-    Septyni tūkstančiai dešimtaisiais, o nuo Kristaus gi­
-    mimo tūkstantis penki šimtai pirmaisiais metais Toru-
-    nės mieste, Prūsijoje, mirė Lenkijos karalius Olbrach-
-    tas 6 0 , karaliaus Aleksandro brolis.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187522

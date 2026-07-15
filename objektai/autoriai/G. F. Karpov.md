@@ -40,23 +40,6 @@ Karpov, 1892) ir t.
   teiginys: "G. F. Karpovas 1892 m. išleido SbRIO 35 tomą apie Lietuvos ir Lenkijos diplomatinius santykius su Maskva."
   pagrindžia:
     - c-29380
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    SbRIO = Sbornik Russkogo Imperatorskogo Istoričeskogo Obščestva,
-    St. Petersburgas. Iš 148 rinkinio tomų čia panaudota : t. 35
-    (1487-1570 m. diplomat, santykiai Lietuvos ir Lenkijos su
-    Maskva, išl. G. F. Karpov, 1892) ir t. 41 (Maskvos santykiai
-    su totoriais).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

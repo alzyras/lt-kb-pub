@@ -69,21 +69,6 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71559|Dviašmenis kalavijas]]: X–XI a. dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.
 - susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71560|Dviašmenis kalavijas]]: X–XI a. Vakarų Europoje paplitusių dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.
 - susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71561|Dviašmenis kalavijas]]: X–XI a. dviašmenis kalavijas buvo paplitęs Vakarų Europoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 23, Lietuvoje karių kapuose rastos sidabruotos geležinės xI-x11 a. balnakilpės. Veršvai,
-    Rimaisiai. VDKM, Artūro Užgalio nuotr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-12242

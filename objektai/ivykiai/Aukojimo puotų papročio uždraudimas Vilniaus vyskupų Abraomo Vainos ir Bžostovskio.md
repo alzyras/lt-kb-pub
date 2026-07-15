@@ -64,39 +64,13 @@ Nenurodyta
   teiginys: "Narbutas nurodo, kad Vilniaus vyskupas Bžostovskis 1710 m. dar matė aukojimo puotų paprotį ir griežtai jį uždraudė."
   pagrindžia:
     - c-174905
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai buvo akivaizdus aukojimo puotų li­
-    kutis. Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tik­
-    riausiai pristatydavo Izraelio sūnūs ir kurie tais laikais labiau iš­
-    plito, Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir
-    visiškai likviduoti tą paprotį'. Bet jis išliko iki XVII amžiaus pra­
-    džios, nes Vilniaus vyskupas Bžostovskis dar 1710 metais tą pa­
-    protį
-    matė
-    ir
-    griežtai
-    jį
-    uždraudė2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 
 - id: c-174905
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 497"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 497."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai buvo akivaizdus aukojimo puotų li­
     kutis. Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tik­

@@ -35,23 +35,6 @@ Tačiau, kai prasidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos šia
   teiginys: "Rusinimo laikotarpiu rusų valdžia Lietuvos gubernijas ėmė vadinti Rusijos šiaurės vakarų kraštu."
   pagrindžia:
     - c-02968
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visos tos trys gubernijos iš pradžių ir Rusų valdžios buvo
-    vadinamos Lietuvos gubernijomis. Tačiau, kai pra-
-    sidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos
-    šiaurės vakarų kraštu. Jį valdė Vilniaus generalgu-
-    bernatorius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

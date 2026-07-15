@@ -40,29 +40,6 @@ Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d
   teiginys: "1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o naujų rinkimų neskelbimas teisintas rengiamu plebiscitu."
   pagrindžia:
     - c-23938
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o naujų rinkimų neskelbimas teisintas rengiamu plebiscitu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    III Seimo pradėti dar-
-    bai įvardyti kaip neįvykdomi ir
-    „priešingi pagrindiniams tautos
-    psichikos dėsniams“. Atsitokėjusi
-    kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą,
-    tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį
-    susibūrusios grupės perversmo planas, suėmus J. Pajaujį, žlugo. Opozi-
-    cijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-
-    klaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas,
-    o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

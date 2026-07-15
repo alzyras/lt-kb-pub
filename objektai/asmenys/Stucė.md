@@ -38,7 +38,6 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
 - susijęs iš [[objektai/asmenys/Skumas.md#claim-t-60435|Skumas]]: Skumas ir Stucė su didele kariuomene patraukė prie Baigos.
 - susijęs iš [[objektai/ivykiai/Trijų brolių ir 40 vyrų žūtis prie Balgos.md#claim-t-62510|Trijų brolių ir 40 vyrų žūtis prie Balgos]]: Prie Balgos pasaloje pasirodę prūsai nukovė tris brolius ir 40 vyrų, kai broliai puolė atsitraukiančius prūsus.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Stucė kartu su Skumu ir didele kariuomene patraukė prie Baigos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,14 +60,17 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
 - id: c-61072
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    138 (133). Apie 3 brolių ir 40 vyrų nužudymą
-
-      Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene
-    patraukė prie Baigos. Broliai su savo kariais, jiems priešindamiesi, nukovė du kilmingus
-    prūsus.
+    Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
+    lies bei miesto paėmimą
+    Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
+    pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo
+    tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele
+    kariuomene ją apsupo, visą dieną smarkiai puolė. Jiems narsiai pasipriešino miestiečiai
+    ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
+    tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti. Šis mūšis pareikalavo iš
+    abiejų šalių daug sužeistųjų, kai kurie krito nukauti.
   citata_rodoma: "Apie 3 brolių ir 40 vyrų nužudymą\n\n  Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene\npatraukė prie Baigos. Broliai su savo kariais, jiems priešindamiesi, nukovė du kilmingus\nprūsus."
   statusas: verified
   teiginio_tipas: faktas

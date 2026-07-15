@@ -43,30 +43,6 @@ media_all_json: |-
   pagrindžia:
     - c-33798
 - susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Galima
-    tačiau daryti išvadas, kad prieš įsikuriant Lietuvos valstybei, dre­
-    govičiai (būsimieji gudai) buvo pasiekę ne tik aukštutinį Nemuną
-    ir jo šaltinius, bet ir dešinių prieupių Neries ir Beržūnės aukštupius.
-    Šiaip jau platus Nemuno aukštupio-vidurupio dešinės kraštas ir
-    beveik ištisai Neries baseinas su Šventąja sudarė Aukštaičių žemės
-    pagrindą, nuo XI amž. rusų metraščiuose vadinamą «Litva».
-    Kronistui Dusburgui pažįstami Aukštaičiai (« Austechia »), 1322 m.
-    minimi Lietuvos didžiojo kunigaikščio Gedimino taikos sutartyje
-    su Livonija (« Eystoythen »), buvo grynai geografinis žemės pavadi­
-    nimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33798

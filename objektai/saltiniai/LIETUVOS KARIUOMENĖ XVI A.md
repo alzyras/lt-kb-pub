@@ -34,20 +34,6 @@ p. 95, „LIETUVOS KARIUOMENE XVI A.“ Lina Vidauskyte, Andžej Geglis, Karolis
   teiginys: "Informacinį bloką „Lietuvos kariuomenė XVI a.“ parengė Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras."
   pagrindžia:
     - c-45002
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 95, „LIETUVOS KARIUOMENE XVI A.“ Lina Vidauskyte, Andžej Geglis, Karolis Zikaras.
-    p. 98, „HUSARŲ ORGANIZACIJA XVII A.“, Andžej Geglis, Karolis Zikaras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

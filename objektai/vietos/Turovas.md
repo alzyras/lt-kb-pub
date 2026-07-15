@@ -35,7 +35,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė. Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
+Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų.
 
 ## Teiginiai
 
@@ -45,29 +45,13 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   teiginys: "Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų."
   pagrindžia:
     - c-162058
-
-<a id="claim-t-185165"></a>
-- t-002
-  global_id: t-185165
-  teiginys: "Turovas buvo vienas žymiausių Polesės miestų kartu su Pinsku ir David Gorodoku."
-  pagrindžia:
-    - c-168526
-
-<a id="claim-t-187664"></a>
-- t-003
-  global_id: t-187664
-  teiginys: "Po Skirmanto mirties Pisimantas sėdo valdyti Turovą."
-  pagrindžia:
-    - c-170606
 - susijęs iš Pinskas: Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.
-- susijęs iš Pinskas: Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
 - susijęs iš Turovo evangelija: Turovo evangelija buvo viena iš XI a. surašytų evangelijų, minimų greta Ostromiro evangelijos.
 - susijęs iš Gomelis: Apie 1447 m. Švitrigaila iš Kazimiero gavo Gomelį ir galbūt Turovą.
-- susijęs iš Pinskas: Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Sluckas: Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-188512|Algirdas (Lietuvos valdovas)]]: Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.
 - susijęs iš [[objektai/asmenys/Glebas (Smolensko kunigaikštis).md#claim-t-40124|Glebas (Smolensko kunigaikštis)]]: Smolensko kunigaikštis Glebas buvo priverstas kartu su totoriais dalyvauti antpuolyje prieš Lietuvą.
 - susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93284|Gregorijus Cemblakas]]: Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu.
 - susijęs iš [[objektai/asmenys/Olegas (Romano sūnus).md#claim-t-40378|Olegas (Romano sūnus)]]: Olegas, Briansko kunigaikščio Romano sūnus, buvo priverstas dalyvauti totorių antpuolyje prieš Lietuvą.
@@ -78,68 +62,10 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 - susijęs iš Luckas: Lietuvos metraštyje Skirmantas prie Jieseldos upės sumušė Lucko ir Pinsko kunigaikštį Mstislavą, kuris pabėgo į Lucką.
 - susijęs iš Pinskas: Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.
 - susijęs iš Polesė: Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.
-- susijęs iš Polockas: Po Voinos mirties Gediminas Polocke pasodino Narimantą, nors Voina buvo palikęs įpėdinių.
-- susijęs iš Polockas: Po Voinos mirties Gediminas Polocke pasodino Narimantą, nors Voina buvo palikęs įpėdinių.
 - susijęs iš Strėva: Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
 - susijęs iš Černigovas: Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu.
 - susijęs iš Černigovas: Černigovo vyskupas dalyvavo stačiatikių vyskupų susirinkime, kuris išleido aplinkraštį dėl teisių gynimo nuo Rusijos metropolitų.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tada pats Naugarduko susirinkimas Cem­
-    blaką paskyrė Kijevo metropolitu. Susirinkusieji stačiatikių
-    vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro,
-    Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo
-    Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­
-    tropolitų savo teises. Taip Vytautas vėl atgaivino Kijeve at­
-    skirą Lietuvai stačiatikių metropoliją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Turovas buvo vienas žymiausių Polesės miestų kartu su Pinsku ir David Gorodoku.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    3 „Lietuvos istorijos" I tome A. Kojelavičius daugelyje atvejų
-    neskyrė Polesės (lenk. Polesie) nuo kaimynystėje buvusios Palenkės
-    (lenk. Poleksia, vėliau — Podlasie). Polesė — baltarusių gyvenama te­
-    ritorija, kurios žymiausi miestai — Turovas, Pinskas, David Gorodo-
-    kas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Po Skirmanto mirties Pisimantas sėdo valdyti Turovą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O paskui didysis kunigaikštis Skirmantas pasimirė.
-    Liubartas sėdo valdyti Karačevą 1 8  ir ėmė tituluotis
-    Karačevo kunigaikščiu, o Pisimantas sėdo valdyti Tu-
-    rovą l9 , o Treniota — Naugarduką, ir valdė tuos mies­
-    tus daugelį metų !0 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-162058
@@ -161,41 +87,6 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178310
-
-- id: c-168526
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 755"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 755."
-  citata_originali: |
-    3 „Lietuvos istorijos" I tome A. Kojelavičius daugelyje atvejų
-    neskyrė Polesės (lenk. Polesie) nuo kaimynystėje buvusios Palenkės
-    (lenk. Poleksia, vėliau — Podlasie). Polesė — baltarusių gyvenama te­
-    ritorija, kurios žymiausi miestai — Turovas, Pinskas, David Gorodo-
-    kas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185165
-
-- id: c-170606
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    O paskui didysis kunigaikštis Skirmantas pasimirė.
-    Liubartas sėdo valdyti Karačevą 1 8  ir ėmė tituluotis
-    Karačevo kunigaikščiu, o Pisimantas sėdo valdyti Tu-
-    rovą l9 , o Treniota — Naugarduką, ir valdė tuos mies­
-    tus daugelį metų !0 .
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187664
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Pisimantas]]

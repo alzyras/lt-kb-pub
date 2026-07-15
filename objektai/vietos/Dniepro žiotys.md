@@ -45,6 +45,7 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   teiginys: "1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį."
   pagrindžia:
     - c-32017
+    - c-167754
 
 <a id="claim-t-67819"></a>
 - t-002
@@ -52,63 +53,6 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   teiginys: "Totoriams užėmus Dniepro žiotis, lietuvių prekyba su Juodosios jūros, Vakarų Azijos ir Viduržemio pajūrio kraštais sumažėjo."
   pagrindžia:
     - c-67583
-
-<a id="claim-t-184386"></a>
-- t-003
-  global_id: t-184386
-  teiginys: "1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį."
-  pagrindžia:
-    - c-167754
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
-    tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
-    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Totoriams užėmus Dniepro žiotis, lietuvių prekyba su Juodosios jūros, Vakarų Azijos ir Viduržemio pajūrio kraštais sumažėjo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Prekyba.** Seniausiais laikais lietuviai prekiavo su skandina-
-    vais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, to-
-    limi vakarinės Azijos kraštai ir Viduržemio pajūris. Bet toto-
-    riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gavę sau privilegijas iš
-    Vytauto, kuris totorių atmintyje per šimtmečius buvo garbinamas,
-    Lietuvos totoriai išlaikė savo mahometonišką tikėjimą ir papročius,
-    kai tuo tarpu Lenkijoje jie buvo sukrikščioninti ir sulenkinti.
-    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
-    tvirtovę « Tavan’ » (šv. Jono pilį)^21.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -159,8 +103,6 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184386
 
 ## Ryšiai
 - Užėmė Dniepro žiotį: [[objektai/grupes/Totoriai]]

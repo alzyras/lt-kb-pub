@@ -51,8 +51,8 @@ Nenurodyta
   teiginys: "Prie šventojo altoriaus netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu."
   pagrindžia:
     - c-62706
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prie šventojo altoriaus netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -74,13 +74,12 @@ Nenurodyta
 - id: c-62706
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 226."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    6. Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu
-
-      Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu
-    prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).
+    Apie trečiąjį pasaulį šitaip
+    kalbėjo: „Trečiame pasaulyje gims iš mergelės Marijos dievo sūnus ir kentės dėl žmonių
+    išganymo“. Žydas, šitai perskaitęs, su visa šeimyna priėmė krikštą. Be to, ten buvo
+    parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. p. 400; Ptol.
   citata_rodoma: "6. Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu\n\n  Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu\nprie šventojo altoriaus (Ptol. 21,4; Mart. p. 395)."
   statusas: verified
   teiginio_tipas: faktas

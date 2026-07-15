@@ -40,37 +40,16 @@ Odojevas lokalizuojamas prie Upos upės. Upa šiame gabale apibūdinama kaip Oko
 <a id="claim-t-187367"></a>
 - t-001
   global_id: t-187367
-  teiginys: "Upa buvo Okos aukštupio dešinysis intakas prie Odojevo."
+  teiginys: 'Upa buvo Okos aukštupio dešinysis intakas prie Odojevo.'
   pagrindžia:
     - c-170380
 
 <a id="claim-t-187368"></a>
 - t-002
   global_id: t-187368
-  teiginys: "Upa apibūdinama kaip Okos aukštupio dešinysis intakas prie Odojevo, buvusio LDK rytų pasienyje."
+  teiginys: 'Upa apibūdinama kaip Okos aukštupio dešinysis intakas prie Odojevo, buvusio LDK rytų pasienyje.'
   pagrindžia:
     - c-170380
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    M irė 1401 m.
-    1 1  Lucko suvažiavime dalyvavo kryžiuočių ordino didžiojo ma­
-    gistro P. Rusdorfo atstovai — Baigos ir Rastenburgo pilių komtūrai.
-    1 4  Odojevas — tuo laikotarpiu kunigaikštyste ir miestas LDK
-    rytų pasienyje (j pietų vakarus nuo Tūlos, prie Okos aukštupio
-    dešiniojo intako Upos upės). Odojevo kunigaikščiu 1429 m. galėjo
-    būti Jurijus Romanovičius, minimas 1423— 1424 m.
-    '* Peremišlis — XV a.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 
@@ -88,10 +67,10 @@ Odojevas lokalizuojamas prie Upos upės. Upa šiame gabale apibūdinama kaip Oko
     būti Jurijus Romanovičius, minimas 1423— 1424 m.
     '* Peremišlis — XV a.
   citata_rodoma: "1 4  Odojevas — tuo laikotarpiu kunigaikštyste ir miestas LDK \nrytų pasienyje (j pietų vakarus nuo Tūlos, prie Okos aukštupio \ndešiniojo intako Upos upės). Odojevo kunigaikščiu 1429 m. galėjo \nbūti Jurijus Romanovičius, minimas 1423— 1424 m."
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187367
-    - t-187368
+    - t-001
+    - t-002

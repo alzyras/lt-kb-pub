@@ -27,8 +27,16 @@ media_all_json: |-
 
 Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krokuvos kunigaikštis491, subūręs daugybę tūkstančių vyrų, užkopė į vieną kalvą ir pasakė: „Kas nejaučia baimės, tegu tas kopia pas mane, idant šiandien galėtume atkeršyti už nukryžiuotojo kančias”. Dusburgietis teigia, kad lešekas (Krokuvos kunigaikštis) nelyginant Gedeonas iš daugybės karių tepasiėmė 300 vyrų, su kuriais stojo į kovą ir drąsiai puolė priešus, pasikliaudamas gailestingumu dievo, kuris neapleidžia nė vieno žmogaus, juo įtikėjusio; pirmiausia išvadavęs nelaisvėn paimtuosius krikščionis, smogė tikėjimo priešams tokį smūgį, kad iš aštuonių šimtų vyrų vos dešimčiai pavyko pasprukti.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-197125"></a>
+- t-001
+  global_id: t-197125
+  teiginys: "Lešekas (Krokuvos kunigaikštis) slaptomis, priešams miegant, vieną po kito išvogė jų skydus, kalavijus bei ietis, o turėdamas ginklų, staiga juos su savo bendrais užpuolė ir visus išžudė jų guoliuose, išskyrus vieną, kurį Martynas nukovė pastojęs jam kelią, kuriuo šis mėgino sprukti; po to sugrįžo namo su anksčiau pelnytu grobiu bei šių netikėlių ginklais ir kitais daiktais."
+  pagrindžia:
+    - c-179034
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lešekas, Krokuvos kunigaikštis, subūrė daugybę tūkstančių vyrų ir ragino nebijančius karius stoti pas jį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -46,7 +54,33 @@ Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krok
     smogė tikėjimo priešams tokį smūgį, kad iš aštuonių šimtų vyrų vos dešimčiai pavyko
     pasprukti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+
+
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+## Citatos
+
+- id: c-179034
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Sūduviai dėl to labai džiaugėsi,
+    tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus
+    bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną
+    po kito išvogė jų skydus, kalavijus bei ietis, o turėdamas ginklų, staiga juos su savo
+    bendrais užpuolė ir visus išžudė jų guoliuose, išskyrus vieną, kurį Martynas nukovė
+    pastojęs jam kelią, kuriuo šis mėgino sprukti; po to sugrįžo namo su anksčiau pelnytu
+    grobiu bei šių netikėlių ginklais ir kitais daiktais.
+    199 (194). Apie tą patį
+    Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą
+    ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias
+    tarnybas, jį užpuolė, o visus žmones išžudė.
   statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197125

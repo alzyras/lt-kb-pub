@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he rulai.
+Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he rulai. Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he rulai.
 
 ## Teiginiai
 
@@ -35,21 +35,20 @@ media_all_json: |-
   teiginys: "Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he rulai."
   pagrindžia:
     - c-177264
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he rulai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Helmoldas ir
-    Adomas Bremenietis teigia, jog herulai pirmiausia ap­
-    sistojo prie Hebolos, arba Havolos, upės; dėl to kai ku­
-    rie kronikininkai priskiria juos prie slavų havolėnų. Bet
+    Bet
     šis pavadinimas aprėpė įvairias arti viena kitos taikiai
     gyvenusias arba tam tikrai lygai priklausiusias gentis, o
     ta Havolija plytėjo prie Havolos, Sprė ir dalies Elbės.
     Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­
-    rulai.
+    rulai. Taip pat neabejotina, kad senovės valetabai ir lu-
+    žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
+    tuvių kartos.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -57,14 +56,14 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-177264
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 327"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 327."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Helmoldas ir
     Adomas Bremenietis teigia, jog herulai pirmiausia ap­
@@ -74,7 +73,10 @@ media_all_json: |-
     gyvenusias arba tam tikrai lygai priklausiusias gentis, o
     ta Havolija plytėjo prie Havolos, Sprė ir dalies Elbės.
     Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­
-    rulai.
+    rulai. Taip pat neabejotina, kad senovės valetabai ir lu-
+    žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
+    tuvių kartos.
+  citata_rodoma: "Bet \nšis pavadinimas aprėpė įvairias arti viena kitos taikiai \ngyvenusias arba tam tikrai lygai priklausiusias gentis, o \nta Havolija plytėjo prie Havolos, Sprė ir dalies Elbės. \nŠiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­\nrulai. Taip pat neabejotina, kad senovės valetabai ir lu- \nžitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­\ntuvių kartos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

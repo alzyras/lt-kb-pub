@@ -40,22 +40,6 @@ Prochaska, Nieznany akt homogialny Witolda, Kwartalnik histor.
   teiginys: "A. Prochaskos darbas „Nieznany akt homogialny Witolda“ nurodytas „Kwartalnik historyczny“ IX tome, 234 puslapyje."
   pagrindžia:
     - c-38401
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, iš­
-    duotą 1386 m. gegužės 10 d. Žiūr. A. Prochaska, Nieznany akt homogialny
-    Witolda, Kwartalnik histor. IX t., 234 p.
-    (^2) ) C. ep„ V., 234 nr., (^3) ) Žerb.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

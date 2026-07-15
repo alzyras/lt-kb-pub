@@ -58,25 +58,6 @@ Nenurodyta
   teiginys: "1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą."
   pagrindžia:
     - c-33429
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs Jurgis ir jo brolis
-    Hlebas — pateko savitarpio nesantaikon. Remdamasis giminyste,
-    Vytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė
-    Smolenską, iškilmingai miestan įžengdamas ir amžininkus nuste­
-    bindamas. Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
-    ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
-    vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

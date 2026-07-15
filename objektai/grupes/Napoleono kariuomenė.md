@@ -51,66 +51,8 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
   teiginys: "Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje."
   pagrindžia:
     - c-47007
-
-<a id="claim-t-182911"></a>
-- t-003
-  global_id: t-182911
-  teiginys: "Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje."
-  pagrindžia:
     - c-166314
 - susijęs iš Nemunas: 1812 m. Napoleono kariuomenė kėlėsi per Nemuną žygyje į Rusiją.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš visos Lietuvos rusai pa-
-    sitraukė be mūšio. Su jais išsikraustė ir Oginskis ir kiti Rusijos
-    globos šalininkai.
-    Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau
-    sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-
-    boje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Rusų valdžios sugrįžimas.** Paskui Napoleoną atslinko į
-    Lietuvą ir jo kariuomenės likučiai. Išbadėjusi ir nuskurusi ka-
-    riuomenė pakeliui viską plėšė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Su jais išsikraustė ir Oginskis ir kiti Rusijos
-    globos šalininkai.
-    Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau
-    sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-
-    boje. Bet Napoleonui pirmučiausia rūpėjo, kiek Lietuva galėtų
-    duoti jo armijai maisto ir kareivių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-47007
@@ -163,8 +105,6 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-182911
 
 ## Ryšiai
 - Napoleono kariuomenė užėmė [[objektai/vietos/Lietuva]]

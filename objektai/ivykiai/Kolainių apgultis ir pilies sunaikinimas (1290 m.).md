@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos. Surminas pasinaudojo kryžiuočių atsitraukimu, išvedė Kolainių įgulą ir išgabeno vertybes, o priešas užėmė tuščią pilį.
+Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos. Kojelavičiaus pasakojime Surminas per kryžiuočių atokvėpį išvedė Kolainių įgulą ir išgabeno vertingiausius daiktus. Kojelavičiaus pasakojime kryžiuočiai užėmė tuščią Kolainių pilį, sugriovė gynybinius įrenginius ir nebesiveržė toliau.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -57,22 +57,25 @@ Nenurodyta
 <a id="claim-t-185715"></a>
 - t-002
   global_id: t-185715
-  teiginys: "Surminas pasinaudojo kryžiuočių atsitraukimu, išvedė Kolainių įgulą ir išgabeno vertybes, o priešas užėmė tuščią pilį."
+  teiginys: "Kojelavičiaus pasakojime Surminas per kryžiuočių atokvėpį išvedė Kolainių įgulą ir išgabeno vertingiausius daiktus."
   pagrindžia:
     - c-169076
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+<a id="claim-t-196180"></a>
+- t-003
+  global_id: t-196180
+  teiginys: "Kojelavičiaus pasakojime kryžiuočiai užėmė tuščią Kolainių pilį, sugriovė gynybinius įrenginius ir nebesiveržė toliau."
+  pagrindžia:
+    - c-169076
+
+## Citatos
+
+- id: c-169075
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pirmiausia
-    ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
-    balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
-    Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
-    tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
-    niokoti, o du tūkstančiai pėstininkų atkakliai puolė
-    apsuptą pilį. Gynė ją šimtas dvidešimt raitelių, vado­
+    Gynė ją šimtas dvidešimt raitelių, vado­
     vaujamų Surmino, ryžtingo ir prityrusio vyro; narsiai
     ir ilgai pilies įgula atmušinėjo priešų antpuolius, ne­
     leisdama jiems be nuostolių supti tvirtovės, mat atvi­
@@ -83,20 +86,12 @@ Nenurodyta
     gynybinę sieną, lietuviai patyrė didelių nuostolių; kai
     vos dvylika jų liko nesužeistų, pilėnams iškilo baisus
     pavojus, tačiau netikėta priešų klaida pakeitė padėtį,
-    tokią, rodos, beviltišką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Surminas pasinaudojo kryžiuočių atsitraukimu, išvedė Kolainių įgulą ir išgabeno vertybes, o priešas užėmė tuščią pilį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pėstininkai, kurie tuo metu iš paskutiniųjų rengėsi
+    tokią, rodos, beviltišką. Kartą prietemoje su dideliu
+    triukšmu grįžo iš aplinkinių kaimų priešų raiteliai,
+    džiūgaudami dėl sėkmingo žygio ir prisiplėšto grobio:
+    iš tolo pramaišiui aidėjo žmonių šauksmai ir žirgų žven­
+    gimas, pėsčiųjų žingsniai, atrodė, jog artėja kariuome­
+    nė. Pėstininkai, kurie tuo metu iš paskutiniųjų rengėsi
     pulti gynybines sienas ir kuriems buvo visai iš galvos
     išgaravusi sava raitija, pamanė, jog link jų su didele
     1290 m e ta i
@@ -105,56 +100,8 @@ Nenurodyta
     kryžiuočių
     vėlesniais metais, kai kry­
     žiuočiai visomis savo jėgo­
-    mis ėmė niokoti Lietuvą. Re­
-    tai rasdami pagrįstą dingstį
-    karui, o dažniau ieškodami
-    6 !
-    J 63
-
-    ## Puslapis 162
-
-    kariuomene skuba lietuviai, norėdami pralaužti apsup­
-    tį, jie ėmė šaukti, kad štai čia pat priešas, metė supę
-    pilį ir galvotrūkčiais leidosi bėgti prie laivų. Vėliau,
-    sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-
-    nas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies
-    įgulą ir išgabeno vertingiausius daiktus; priešas, už­
-    ėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­
-    drįso toliau veržtis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Citatos
-
-- id: c-169075
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 161"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 161."
-  citata_originali: |
-    Pirmiausia
-    ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
-    balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
-    Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
-    tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
-    niokoti, o du tūkstančiai pėstininkų atkakliai puolė
-    apsuptą pilį. Gynė ją šimtas dvidešimt raitelių, vado­
-    vaujamų Surmino, ryžtingo ir prityrusio vyro; narsiai
-    ir ilgai pilies įgula atmušinėjo priešų antpuolius, ne­
-    leisdama jiems be nuostolių supti tvirtovės, mat atvi­
-    rame lauke šie buvo nesunkiai sužeidžiami ietimis ir
-    strėlėmis; kadangi įgula buvo nedidelė, o priešas, pul­
-    damas iš visų pusių, nepaliauj amai sekino menkas jė­
-    gas, vos ne vos įstengiančias vienu metu užstoti visą
-    gynybinę sieną, lietuviai patyrė didelių nuostolių; kai
-    vos dvylika jų liko nesužeistų, pilėnams iškilo baisus
-    pavojus, tačiau netikėta priešų klaida pakeitė padėtį,
-    tokią, rodos, beviltišką.
+    mis ėmė niokoti Lietuvą.
+  citata_rodoma: "Pirmiausia\nėmėsi kariauti Meinhardas, Prūsijos magistras, apie\nbalandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos\nNemuno pakrantėje esančią Lietuvos pilį. Penki šim­\ntai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų\nniokoti, o du tūkstančiai pėstininkų atkakliai puolė\napsuptą pilį. Gynė ją šimtas dvidešimt raitelių, vado­\nvaujamų Surmino, ryžtingo ir prityrusio vyro; narsiai\nir ilgai pilies įgula atmušinėjo priešų antpuolius, ne­\nleisdama jiems be nuostolių supti tvirtovės, mat atvi­\nrame lauke šie buvo nesunkiai sužeidžiami ietimis ir\nstrėlėmis; kadangi įgula buvo nedidelė, o priešas, pul­\ndamas iš visų pusių, nepaliauj amai sekino menkas jė­\ngas, vos ne vos įstengiančias vienu metu užstoti visą\ngynybinę sieną, lietuviai patyrė didelių nuostolių; kai\nvos dvylika jų liko nesužeistų, pilėnams iškilo baisus\npavojus, tačiau netikėta priešų klaida pakeitė padėtį,\ntokią, rodos, beviltišką."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -182,8 +129,6 @@ Nenurodyta
     6 !
     J 63
 
-    ## Puslapis 162
-
     kariuomene skuba lietuviai, norėdami pralaužti apsup­
     tį, jie ėmė šaukti, kad štai čia pat priešas, metė supę
     pilį ir galvotrūkčiais leidosi bėgti prie laivų. Vėliau,
@@ -191,10 +136,17 @@ Nenurodyta
     nas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies
     įgulą ir išgabeno vertingiausius daiktus; priešas, už­
     ėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­
-    drįso toliau veržtis.
+    drįso toliau veržtis. Šiek tiek vėliau Ernekė, Ragainės
+    komtūras, ieškodamas progos karui ar pataikaudamas,
+    kaip priduria senieji rašytojai, kažkokiam iš Vienos
+    kilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­
+    tą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­
+    munu prieš srovę į Lietuvą, ir jau buvo bepraplaukią
+    Kolainių pilį, Surmino iš naujo atstatytą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185715
+    - t-196180

@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai buvo vadinami Ingemony.
+Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai buvo vadinami Ingemony. Senovės tyrinėtojai ne abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos, Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie jūros.
 
 ## Teiginiai
 
@@ -34,38 +34,20 @@ Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai b
   teiginys: "Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai buvo vadinami Ingemony."
   pagrindžia:
     - c-174443
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai buvo vadinami Ingemony.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pasvarsčius nepernelyg didelį Plinijaus geografinių
-    aprašymų tikslumą, šiuose trijuose pavadinimuose gali­
-    ma lengvai įžvelgti lyvių protėvius, priklausiusius keltų-
-    gerrnanų tautoms. Anot Maksimiliano Osolinskio7, ger­
-    manų giminėje jūros pakrančių gyventojai buvo vadina­
-    mi Ingemony. Tai maždaug turėtų reikšti pamarėnus;
-    Itewony buvo vadinami sausumos gilumoje esančių lygu­
-    mų gyventojai, be to, ir minėti pavadinimai, ir livonai pri­
-    klauso
-    germanų-keltų
-    giminėms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197617"></a>
+- t-002
+  global_id: t-197617
+  teiginys: "Senovės tyrinėtojai ne abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos, Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie jūros."
   pagrindžia:
-    - t-001
+    - c-179264
 
 ## Citatos
 
 - id: c-174443
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 93"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pasvarsčius nepernelyg didelį Plinijaus geografinių
     aprašymų tikslumą, šiuose trijuose pavadinimuose gali­
@@ -84,3 +66,27 @@ Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191561
+
+- id: c-179264
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Senovės tyrinėtojai ne­
+    abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
+    mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš­
+    stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos,
+    Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie
+    jūros skubančio Nemuno vaga atvedė iki žygio j vakarus
+    pabaigos. Tad Nemuno žemupio pakrantes visų pirma de­
+    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
+    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
+    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
+    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
+    užėmė Sembą ir gintaro kasyklas2.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197617

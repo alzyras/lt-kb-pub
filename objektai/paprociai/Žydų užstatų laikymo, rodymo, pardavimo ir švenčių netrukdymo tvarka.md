@@ -55,30 +55,6 @@ Nenurodyta
   teiginys: "Jeigu žydas metus laikytą krikščionio užstatą vertino mažiau už skolą, jis turėjo parodyti užstatą savo teisėjui."
   pagrindžia:
     - c-83221
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jeigu žydas metus laikytą krikščionio užstatą vertino mažiau už skolą, jis turėjo parodyti užstatą savo teisėjui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taip pat jeigu žydas paimtų iš krikščionies užstatą ir
-    per visus metus laikytų, o tas užstatas tų pinigų nesiektų,
-    *
-    Atmintinė - bylą laimėjusio mokes- mėtą bylą ar turto perleidimo įrašy-
-    tis teisėjui ir jo pavaduotojui už lai- mą į teismo knygas (vert. past.).
-    197
-
-    ## Puslapis 214
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    žydas savo teisėjui turi parodyti užstatą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

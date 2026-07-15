@@ -52,36 +52,6 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
   pagrindžia:
     - c-09764
 
-<a id="claim-t-70064"></a>
-- t-003
-  global_id: t-70064
-  teiginys: "Vytūnas vesdavo visą kariauną į karą, kai nebūdavo atmono."
-  pagrindžia:
-    - c-09764
-
-<a id="claim-t-70064"></a>
-- t-004
-  global_id: t-70064
-  teiginys: "Vytūnas vesdavo visą kariauną į karą, kai nebūdavo atmono."
-  pagrindžia:
-    - c-09764
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Karės vyresnieji tie buvo: atmonas, nuo žodžio atmonyti, dešimtininkas, šimtininkas, arba pulkorius, nuo žodžio pulti, ir karūžasis, kuriuos viršiau minavojau; buvo dar vytūnas, kurs visą kariauną vedė į karę nesant atmono, sargūnas, kursai rūpinos kariaunos mitalu ir pavojumu^1308 , abažūnas, kurs priegule^1309 kariaunos rūpinos. Lygia dalia pilies vyras, arba pilies ponas, turėjo sau pripadėtoją vyresnįjį, anginu vadinamą, kurs angas pilies saugojo ir uždarius jų raktus pas save laikė, be jo žinios, karei esant, niekas negalėjo įeiti į pilį nei išeiti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
-
 ## Citatos
 
 - id: c-09764
@@ -97,5 +67,3 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
   pagrindzia:
     - t-70063
     - t-70064
-    - t-70065
-    - t-70066

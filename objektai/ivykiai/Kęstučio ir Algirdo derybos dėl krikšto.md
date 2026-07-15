@@ -51,25 +51,6 @@ Nenurodyta
   teiginys: "Valdymo pradžioje Kęstutis ir Algirdas buvo pradėję tartis dėl krikšto."
   pagrindžia:
     - c-38311
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Valdymo pradžioje Kęstutis ir Algirdas buvo pradėję tartis dėl krikšto.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kęstučiui dar smarkiau, negu pirmtakū­
-    nams, tenka gintis nuo Ordino įsiveržimų, nes tada magistro
-    valdžią turėjo veiklus ir energingas vokietis Vinrichas von Kni­
-    prodė (1351—1382). Tiesa, savo valdymo pradžioje Kęstutis su
-    Algirdu buvo pradėję tartis dėl krikšto. Apsikrikštijus būtų tu­
-    rėję pasiliauti nuolatiniai Ordino puolimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

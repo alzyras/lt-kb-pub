@@ -58,23 +58,6 @@ Nenurodyta
   teiginys: "1298 m. į Rygą atvykę Lietuvos pasiuntiniai pareiškė, kad lietuviai nori jungtis su krikščionimis ir krikštytis."
   pagrindžia:
     - c-33415
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nepatogu Rygai buvo girdėti priekaištą apie bendravimą su pago­
-    nimis. Tad Rygos arkivyskupo paraginti, Lietuvos pasiuntiniai,
-    1298 atvykę Rygon sutarties reikalu, pareiškė, jog lietuviai, Min­
-    daugo pavyzdžiu, norį jungtis su krikščionimis ir krikštytis. Savo
-    pažadus jie dar patvirtino pagoniško papročio priesaika^32.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

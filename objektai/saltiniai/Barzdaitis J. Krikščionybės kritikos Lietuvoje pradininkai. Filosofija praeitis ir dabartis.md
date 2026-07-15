@@ -34,37 +34,32 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
   teiginys: "Barzdaitis Vytenio epizodą aiškino kaip raginimą lietuviams ir pavergtiesiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną."
   pagrindžia:
     - c-61682
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Barzdaitis Vytenio epizodą aiškino kaip raginimą lietuviams ir pavergtiesiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    564  Žr. dar SRP, 2, p. 456. Šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
-    prūsus laikytis senosios tėvų religijos  ir kovoti prieš Ordino agresiją (Barzdaitis  J.,
-    Krikščionybės..., p. 20—21).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197016"></a>
+- t-002
+  global_id: t-197016
+  teiginys: "Ten suplaukė tokia galybė laivų, kad iš jų pasidarė tiltas per Nemuną, kuriuo kiekvienas galėjo saugiai pereiti į netikėlių krantą; šiuo tiltu lietuviai kur kas daugiau stebėjosi nei visais kitais krikščionių darbais, kuriuos gyvenime kada buvo matę."
   pagrindžia:
-    - t-001
+    - c-61682
 
 ## Citatos
 
 - id: c-61682
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 205"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 205."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    564  Žr. dar SRP, 2, p. 456. Šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
-    prūsus laikytis senosios tėvų religijos  ir kovoti prieš Ordino agresiją (Barzdaitis  J.,
-    Krikščionybės..., p. 20—21).
+    Ten suplaukė tokia galybė laivų, kad iš jų pasidarė tiltas per Nemuną,
+    kuriuo kiekvienas galėjo saugiai pereiti į netikėlių krantą; šiuo tiltu lietuviai kur kas
+    daugiau stebėjosi nei visais kitais krikščionių darbais, kuriuos gyvenime kada buvo matę.
+    Kai baigė statyti, dvasininkai, lydimi žmonių, su iškilminga procesija nunešė į bažnyčią
+    relikvijas ir ten atlaikė iškilmingas pamaldas. Nederėtų nutylėti ir to, kad dievo valia
+    daug brolių laivų, pakrautų maisto bei kitų daiktų, reikalingų pilių statybai, plaukdami
+    mariomis, paskendo, o drauge prigėrė 4 broliai ir keturi šimtai vyrų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-61050
+    - t-197016

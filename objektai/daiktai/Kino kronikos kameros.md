@@ -60,23 +60,6 @@ Nenurodyta
   teiginys: "Prezidentas Antanas Smetona 1927 m. vasarą ir rudenį keliavo po miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų."
   pagrindžia:
     - c-22252
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prezidentas A. Smetona visą 1927 m. vasarą ir rudenį, lydimas kari-
-    ninkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš mieste-
-    lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,
-    moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po jų – prie ati-
-    tinkamai išpuoštų vietos žydų vartų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

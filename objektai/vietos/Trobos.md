@@ -41,41 +41,13 @@ Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraiči
   teiginys: "Kad Trobius apskritai yra buvęs didžiuo ju kunigaikščiu, įrodo ir tai, jog, savo protėvių papro čiu, jis Lietuvos viduryje buvo įkūręs naują sodyb vietę, pavadindamas ją nuo savo vardo Trobomis."
   pagrindžia:
     - c-168676
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kojelavičius Trobiaus įkurtas Trobas laikė įrodymu, kad Trobius buvo Lietuvos didysis kunigaikštis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Negaliu patikėti, kad
-    jis iš tiesų nebūtų kreipęs nė kruopelytės dėmesio į
-    šią pareigybę ar dėl sunkių aplinkybių jos neatlikęs:
-    dėl susidariusios padėties negalima buvo gaišti, o rei­
-    kėjo skubėti. Kad Trobius apskritai yra buvęs didžiuo­
-    ju kunigaikščiu, įrodo ir tai, jog, savo protėvių papro­
-    čiu, jis Lietuvos viduryje buvo įkūręs naują sodyb­
-    vietę, pavadindamas ją nuo savo vardo Trobomis.
-    Viešpatavimo metu jis nieko daugiau nėra padaręs —
-    gal dėl to, kad mėgo ramybę ir buvo pasenęs, o gal
-    dėl to, kad, nė metų jam nepabuvus prie valdžios, už­
-    klupo jį mirtis — galvojantį apie žygius, bet nespėjusį
-    nieko nuveikti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 
 - id: c-168676
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 134."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Negaliu patikėti, kad
     jis iš tiesų nebūtų kreipęs nė kruopelytės dėmesio į

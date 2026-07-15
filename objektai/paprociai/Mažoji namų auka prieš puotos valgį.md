@@ -51,8 +51,8 @@ Nenurodyta
   teiginys: "Narbutas mažąją namų auką aprašo kaip apeigą, kurią prieš kiekvieną puotos valgį atlikdavo namų šeimininkas, šeimos tėvas arba vyriausias dalyvis."
   pagrindžia:
     - c-172691
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mažąją namų auką aprašo kaip apeigą, kurią prieš kiekvieną puotos valgį atlikdavo namų šeimininkas, šeimos tėvas arba vyriausias dalyvis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -76,15 +76,17 @@ Nenurodyta
 - id: c-172691
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 310"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 310."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    1.
-    M ažoji auka, kurią atnašaudavo namų šeimininkas, šei­
-    mos tėvas arba vyriausiasis iš posėdžio dalyvių. Būdavo atlie­
-    kama prieš kiekvieną puotos valgį. Vaišių dalyviams susirin­
-    kus prie stalo, aukos atnašautojas atsistodavo pirmojoje vie­
-    toje, tai yra per stalo vidurį, priešais lauko durų slenkstį.
+    dijau, idant maloningai teiktųsi priimti tos šventės apeigą li­
+    auką. Tada visi vyrai, sugriebę jautį arba ožį už ragų, veda jį į
+    kluoną ir pakelia į viršų, o žynys viršaitis, persijuosęs rankš­
+    luosčiu, antrą kartą šaukiasi visų dievų, bylodamas: „Tai yra
+    garbinga auka ir mūsų tėvų atminimas, idant numaldytume
+    mūsų dievų rūstybę“. Paskui šnibždėdamas apeina aplink jau­
+    tį, papjauna jį, o kraujo neišlaisto ant žemės, bet nuleistą į
+    indą semia ąsotėliu arba taure.
+  citata_rodoma: "1.\nM ažoji auka, kurią atnašaudavo namų šeimininkas, šei­\nmos tėvas arba vyriausiasis iš posėdžio dalyvių. Būdavo atlie­\nkama prieš kiekvieną puotos valgį. Vaišių dalyviams susirin­\nkus prie stalo, aukos atnašautojas atsistodavo pirmojoje vie­\ntoje, tai yra per stalo vidurį, priešais lauko durų slenkstį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

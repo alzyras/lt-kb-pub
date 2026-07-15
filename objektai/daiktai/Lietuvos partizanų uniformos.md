@@ -56,24 +56,6 @@ Nenurodyta
   teiginys: "Bunkeryje buvę trylika vyrų vilkėjo lietuviškas uniformas, o vienas dėvėjo uniformą su liudininkės siuvinėtu antsiuvu."
   pagrindžia:
     - c-42526
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bunkeryje buvę trylika vyrų vilkėjo lietuviškas uniformas, o vienas dėvėjo uniformą su liudininkės siuvinėtu antsiuvu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Bunkeryje buvo visi tie trylika vyrų - visi aukšti kaip ąžuo-
-    lai, visi gražūs, visi vilkėjo lietuviškas uniformas. [...] O paskui atkreipiau dėmesį į rankovių antsiuvus. [...]. Ir atpažinau savo pačios
-    siuvinėtą ženklą. Mat kai buvau suimta, saugumiečiai buvo mane nutempę Ariogaloje atpažinti ant grindinio numesto žuvusio parti-
-    zano „Uosio“. Jis vilkėjo uniformą su mano siuvinėtu ženklu, o dabar tą uniformą su mano pačios siuvinėtu antsiuvu dėvėjo vienas iš tų
-    „partizanų“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

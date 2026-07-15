@@ -45,29 +45,6 @@ Rusijos kariuomenės korpusui, puolusiam Vilnių, vadovavo generolas leitenantas
     - c-44310
 - susijęs iš [[objektai/asmenys/Nikolajus Arsenjevas.md#claim-t-40373|Nikolajus Arsenjevas]]: Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas majoras Nikolajus Arsenjevas.
 - susijęs iš [[objektai/asmenys/Nikolajus Repinas.md#claim-t-40375|Nikolajus Repinas]]: Nikolajus Repinas buvo Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Antroji kovų fazė:
-
-    Vilniaus gynyba
-
-    Liepos 19 d. gen. ltn. B. Knorrin-
-
-    go vadovaujamas Rusijos kariuo-
-    menės korpusas, padalintas į tris
-    kolonas, pasiekė Vilnių. Pirmajai va-
-    dovavo gen. mjr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44310

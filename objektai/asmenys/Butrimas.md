@@ -42,24 +42,6 @@ Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius
 - susijęs iš [[objektai/asmenys/Cibulka.md#claim-t-100069|Cibulka]]: Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius Cibulka.
 - susijęs iš [[objektai/asmenys/Vengrijos Zigmantas.md#claim-t-30408|Vengrijos Zigmantas]]: Vengrijos Zigmantas siūlėsi tarpininkauti ir galėjo tapti rimtu kryžiuočių sąjungininku.
 - susijęs iš [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.).md#claim-t-92931|Kęstučio žūtis Krėvos kalėjime (1382 m.)]]: Kęstučio kūnas Vilniuje senu papročiu buvo iškilmingai sudegintas su jo arkliais, sakalais, šunimis ir ginklais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pusbroliai nesutiko su tokiu sprendimu.
-    Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir
-    Vytauto sekretorius Cibulka. Vaclovas tačiau gąsdino, jog ordino
-    pusėje stosiąs jis pats ir jo brolis Vengrijos Zigmantas, kuris siūlėsi
-    tarpininkauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-93994

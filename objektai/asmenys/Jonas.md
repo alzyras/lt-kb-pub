@@ -43,6 +43,13 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   teiginys: "1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus."
   pagrindžia:
     - c-60970
+
+<a id="claim-t-197105"></a>
+- t-002
+  global_id: t-197105
+  teiginys: "Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo."
+  pagrindžia:
+    - c-60970
 - susijęs iš [[objektai/asmenys/Jonas (Alšėnų kunigaikštis).md#claim-t-87710|Jonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina.
 - susijęs iš [[objektai/asmenys/Jonas (kancleris).md#claim-t-60342|Jonas (kancleris)]]: Kancleris Jonas buvo tarp liudytojų, dalyvavusių apie 1226 arba 1230 m. patvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/asmenys/Jonas (popiežius).md#claim-t-87522|Jonas (popiežius)]]: Popiežius Jonas turėjo atsiųsti pasiuntinius Gediminui, tačiau jų delsimas Gediminui kėlė didelį susirūpinimą.
@@ -61,22 +68,42 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - susijęs iš [[objektai/asmenys/Jonas von Posilge.md#claim-t-184374|Jonas von Posilge]]: Kronikininkas Jonas von Posilge pateikė daug įdomių žinių apie Žemaičių pasidavimą Ordinui.
 - susijęs iš [[objektai/asmenys/Jonas von Posilge.md#claim-t-29017|Jonas von Posilge]]: Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui.
 - susijęs iš [[objektai/asmenys/Robertas (Sicilijos karalius).md#claim-t-60427|Robertas (Sicilijos karalius)]]: Sicilijos karalius Robertas buvo šventojo Liudviko brolis, kurį popiežius Jonas kanonizavo 1317 m.
-- susijęs iš [[objektai/asmenys/Slavka.md#claim-t-186162|Slavka]]: Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, bet Jonas jį nuvilko į šalį ir išmetė pro langą.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184858|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Po pergalės Vladislovas Jogailaitis pasiūlė broliui Jonui tartis dėl santarvės sudarymo.
 - susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-184350|J. Posilge]]: Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui ir krašto kilmingųjų duotus įkaitus.
 - susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-29505|J. Posilge]]: Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų.
 - susijęs iš [[objektai/autoriai/Rygiškių Jonas.md#claim-t-96044|Rygiškių Jonas]]: Rygiškių Jonas redagavo „Pasakėčias“, skirtas kalbos ir literatūros mokslui.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179081|Kryžiuočių ordinas]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179420|Livonijos ordinas]]: Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio.
-- susijęs iš [[objektai/grupes/Vengrai.md#claim-t-184585|Vengrai]]: Stipri vengrų kariuomenė susidūrė su Jonu, kuris turėjo vos keturis tūkstančius karių.
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66506|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: 1290 m. gegužės 12 d. Ernekė su Jonu iš Vienos ir 25 ginklanešiais laivais plaukė link Lietuvos pro Kolainių pilį.
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66508|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Gegužės 12 d. Ragainės komtūras brolis Ernekė magistro įsakymu laivais išplaukė Lietuvos link su Jonu iš Vienos ir 25 ginklanešiais.
 - susijęs iš [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas.md#claim-t-62119|Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]: 1317 m. popiežius Jonas kanonizavo šventą Liudviką ir liepė jo gimimą švęsti penktą dieną po Žolinės.
-- susijęs iš Vengrija: Vladislovas turėjo likti Vengrijos karaliumi, o jam mirus be vaikų Jonas turėjo tapti sosto įpėdiniu.
 - susijęs iš Vilniaus katedra: 1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.
 - susijęs iš [[objektai/zodynas/oktava.md#claim-t-58859|oktava]]: 1330 m. per švento Martyno oktavą Jonas iš Endorfo nužudė didįjį magistrą Vernerį.
+- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200511|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas buvo Minsko vaivada.
+- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200498|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis buvo Ukmergės pavieto stalininkas.
+- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200499|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis su broliu prašė, kad Mykolas Ksaveras Sapiega nenorėtų iš jų atpirkti rakto.
+- susijęs iš [[objektai/asmenys/Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.).md#claim-t-200578|Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)]]: Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės.
+- susijęs iš [[objektai/asmenys/Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.).md#claim-t-200580|Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)]]: Nuo 1762 m. Jonas Dominykas Lopacinskis buvo Žemaičių vyskupas.
+- susijęs iš [[objektai/asmenys/Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.).md#claim-t-200581|Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)]]: Jonas Dominykas Lopacinskis nuo 1752 m. buvo Vilniaus kanauninkas.
+- susijęs iš [[objektai/asmenys/Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.).md#claim-t-200582|Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)]]: Amžininkai pastebėjo, kad Jonas Dominykas Lopacinskis sumaniai laviravo tarp konkuruojančių bajorijos grupuočių ir turėjo platų pažinčių ratą.
+- susijęs iš [[objektai/asmenys/Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.).md#claim-t-200583|Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)]]: 1755 m. Jonas Dominykas Lopacinskis buvo LDK sekretorius.
+- susijęs iš [[objektai/asmenys/Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.).md#claim-t-200584|Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)]]: Laiškuose Jonas Dominykas Lopacinskis vaizduojamas kaip paslaugus, smalsus ir konkretus žmogus.
+- susijęs iš [[objektai/asmenys/Jonas Pliateris (Gegabrastos seniūnas ir tijūnas, XVIII a.).md#claim-t-200515|Jonas Pliateris (Gegabrastos seniūnas ir tijūnas, XVIII a.)]]: Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas.
+- susijęs iš [[objektai/asmenys/Jonas Pliateris (Gegabrastos seniūnas ir tijūnas, XVIII a.).md#claim-t-200516|Jonas Pliateris (Gegabrastos seniūnas ir tijūnas, XVIII a.)]]: Jonas Pliateris tuo metu buvo Vilniuje kartu su Antanu Davainiu Solohubu, Brigita Petronėle ir Jurgiu Abramovičiumi.
+- susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200519|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas.
+- susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200520|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: 1755 m. Jonas Tadas Božimovskis vedė Ašmenos žemės teisėjienę Salomėją Franckevičovą.
+- susijęs iš [[objektai/asmenys/Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.).md#claim-t-200504|Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)]]: Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas.
+- susijęs iš [[objektai/asmenys/Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.).md#claim-t-200505|Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)]]: 1749 m. Jonas Vladislovas Korfas perėmė nenurodytą sumą ir vėliau turėjo perduoti pinigus Liudvikai Sapiegaitei Potockai.
+- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200684|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: 1751 m. Jonas Dominykas Lopacinskis Mykolui Ksaverui Sapiegai rašė apie artėjančias Užgavėnes ir į Vilnių plūstančius skaramušus.
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192077|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
+- susijęs iš [[objektai/daiktai/Mažasis staliukas Panerių priėmime.md#claim-t-200668|Mažasis staliukas Panerių priėmime]]: 1751 m. Paneriuose Juozapas Antanas Solohubas ir Antanas Solohubas be ceremonijų pakvietė Joną Dominyką Lopacinskį prie mažojo staliuko.
+- susijęs iš [[objektai/posakiai/Greitai mūsų publika visai užges.md#claim-t-200627|Greitai mūsų publika visai užges]]: 1760 m. pasibaigus tribunolui Jonas Dominykas Lopacinskis formule „Greitai mūsų publika visai užges“ nusakė Vilniaus bajoriškos publikos išsiskirstymą.
+- susijęs iš [[objektai/posakiai/Vilniaus publika dar nepradėjo rinktis.md#claim-t-200626|Vilniaus publika dar nepradėjo rinktis]]: 1747 m. Jonas Dominykas Lopacinskis rašė, kad Vilniaus publika dar nepradėjo rinktis, nors jos požymiai jau matėsi.
+- susijęs iš [[objektai/posakiai/kaip koks juodaknygis tamsiuose požemiuose.md#claim-t-200676|kaip koks juodaknygis tamsiuose požemiuose]]: 1754 m. Jonas Dominykas Lopacinskis Antano Mykolo Paco slaptą knygų skaitymą palygino su juodaknygiu tamsiuose požemiuose.
+- susijęs iš [[objektai/posakiai/nereikalingi skaramušai.md#claim-t-200628|nereikalingi skaramušai]]: 1751 m. Jonas Dominykas Lopacinskis artėjančias Užgavėnes Vilniuje apibūdino formule apie „nereikalingus skaramušus“.
+- susijęs iš Rodūnė: 1755 m. Jonas Tadas Božimovskis, minimas kaip Rodūnės seniūnas, vedė Ašmenos žemės teisėjienę Salomėją Franckevičovą.
 - susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus įvykdė karaliaus pavedimą: per Viliją pastatė mūrinį tiltą, o po jo mirties darbus užbaigė sūnus Jonas.
+- susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
+- susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40019|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
@@ -108,14 +135,12 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - susijęs iš [[objektai/asmenys/Nodamas.md#claim-t-60395|Nodamas]]: Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais ir atsisėdo Nemuno pakrantėje, siekdamas apgauti brolius.
 - susijęs iš [[objektai/asmenys/Petras iš Rozenbergo.md#claim-t-60408|Petras iš Rozenbergo]]: 1324 m. Petras iš Rozenbergo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
 - susijęs iš [[objektai/asmenys/Pilypas.md#claim-t-60410|Pilypas]]: 1324 m. grafas Pilypas iš Španheimo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
-- susijęs iš [[objektai/asmenys/Stanislovas Narbutas.md#claim-t-186256|Stanislovas Narbutas]]: Stanislovas Narbutas Aleksandro buvo pasiųstas į Maskvą parodyti, kad Aleksandras neprieštarauja taikai.
 - susijęs iš [[objektai/asmenys/Surminas.md#claim-t-60001|Surminas]]: Kolainių pilininkas Surminas sušaukė pilėnus tartis, kaip apgauti pro pilį laivais plaukusius Ordino brolius.
 - susijęs iš [[objektai/asmenys/Tomas Survila.md#claim-t-39652|Tomas Survila]]: Tomas Survila žuvo tarnaudamas senajai Tėvynei kaip vienas iš dviejų lietuvių kryžiuočių.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87362|Ulrikas Hozijus]]: Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti viešą špitolę ir ją išlaikyti.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-184141|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1329 m. Verneris su 200 brolių ir 18 tūkstančių karių patraukė į Lietuvą ir apsupo Medvėgalio pilį.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64229|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64231|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1329 m. Verneris su 200 brolių ir 18 tūkstančių karių patraukė į Lietuvą ir apsupo Medvėgalio pilį.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184857|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Vengrijos seime daugelis rėmė Jono brolį Vladislovą.
 - susijęs iš [[objektai/asmenys/Volfgeris.md#claim-t-60468|Volfgeris]]: Pasau vyskupas Volfgeris buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės steigimo ir patvirtinimo.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176633|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po sūnų Jono ir Jurgio netekties Vytautas puolėsi prie sutarties su Jogaila.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176678|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po sūnų Jono ir Jurgio netekties Vytautas puolėsi prie sutarties su Jogaila.
@@ -134,7 +159,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186707|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Komentare nurodoma, kad tarp lietuvių kunigaikščių J. Dlugošas mini ir Jogailą su Vytautu.
 - susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186708|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Leidimo komentaras nurodo, kad Jonas iš Carnkovo ir J. Dlugošas mini Kęstučio, Liubarto ir Jurgio Narimantaičio kariuomenės žygį pro Zavichostą 1376 m. lapkričio 2 d.
 - susijęs iš [[objektai/ivykiai/Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo.md#claim-t-185604|Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo]]: Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų.
-- susijęs iš [[objektai/ivykiai/Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo.md#claim-t-185605|Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo]]: Ostrogiškis su sąjungininkais už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.
 - susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-183677|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius.
 - susijęs iš [[objektai/ivykiai/Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.).md#claim-t-62545|Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)]]: 1317 m. popiežius Jonas kanonizavo Liudviką, Sicilijos karaliaus Roberto brolį iš mažesniųjų brolių ordino.
 - susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius laimėjo dvejas kautynes, o prie Vorsklos pralaimėjo.
@@ -144,7 +168,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - susijęs iš Kaltinėnai: 1416 metais Vytautas Kaltinėnuose pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių.
 - susijęs iš Kaunas: Pasak senos tradicijos, Vytautas už išsigelbėjimą įkūrė pranciškonų vienuolynus Kaune ir Ašmenoje.
 - susijęs iš Kelmė: 1416 m. Vytautas Kelmėje pastatė vieną iš aštuonių Žemaitijos parapinių bažnyčių.
-- susijęs iš Kijevas: Ostrogiškis už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.
 - susijęs iš Kijevas: Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį.
 - susijęs iš Kolainių pilis (pilis): Kolainių pilininkas Surminas su pilėnais tarėsi, kaip apgauti pro pilį plaukusius Ordino brolius.
 - susijęs iš Luokė: 1416 m. Vytautas Luokėje pastatė vieną iš aštuonių parapijinių bažnyčių.
@@ -154,55 +177,45 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - susijęs iš Merkinė: 1503 m. Vilniuje duotame dokumente Jonas iš Zabrežjės minimas kaip Merkinės laikytojas.
 - susijęs iš Sanas: Sanas apibūdinamas kaip į Vislą iš dešinės įtekanti upė, esanti apie 15 km aukščiau Zavichosto.
 - susijęs iš Sanas: Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe.
-- susijęs iš Silezija: Pagal Vladislovo ir Jono susitarimą Jonas turėjo gauti Sileziją kaip beneficiją iš Vladislovo.
 - susijęs iš Viduklė: 1416 m. Vytautas Viduklėje pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių.
 - susijęs iš [[objektai/zodynas/Pilininkas.md#claim-t-89572|Pilininkas]]: Surminas, Kolainių pilininkas, sušaukė pilėnus tartis, kaip apgauti pro pilį plaukiančius Ordino brolius.
 - susijęs iš [[objektai/zodynas/mišparai.md#claim-t-58917|mišparai]]: 1330 m. lapkričio 18 d. Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis po mišparų ėjo iš bažnyčios.
 - susijęs iš [[objektai/zodynas/scholastiko prelatūra scholastikas.md#claim-t-86617|scholastiko prelatūra scholastikas]]: 1522 m. Vilniaus vyskupas Jonas prie katedros įkūrė penktąją scholastiko prelatūrą, nes scholastikas turėjo išlaikyti Katedros mokyklą.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184857|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Vengrijos seime daugelis rėmė Jono brolį Vladislovą.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184858|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Po pergalės Vladislovas Jogailaitis pasiūlė broliui Jonui tartis dėl santarvės sudarymo.
-- susijęs iš Silezija: Pagal Vladislovo ir Jono susitarimą Jonas turėjo gauti Sileziją kaip beneficiją iš Vladislovo.
+- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200461|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius.
+- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200462|Adomas Chmara (Minsko vaivada, 1720–1805)]]: 1751 m. Palenkės vaivada Mykolas Antanas Sapiega pasiuntė Minsko pavieto iždininką Adomą Chmarą į Vilnių su pinigais už Jedžiotus.
+- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200463|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomo Chmaros gyvenimo datos nurodytos kaip 1720–1805.
+- susijęs iš [[objektai/asmenys/Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.).md#claim-t-200521|Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.)]]: Brigita Petronėlė tuo metu buvo Vilniuje kartu su sutuoktiniu Antanu Davainiu Solohubu.
+- susijęs iš [[objektai/asmenys/Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.).md#claim-t-200522|Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.)]]: Brigita Petronėlė buvo Antano Davainio Solohubo sutuoktinė.
+- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200512|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas teigė atvyksiąs į Vilnių, todėl jam reikėjo numatyti vietą M. Lopacinskio mūriniame name.
+- susijęs iš [[objektai/asmenys/Jurgis Abramovičius (Vilniaus pavaivadis, XVIII a.).md#claim-t-200513|Jurgis Abramovičius (Vilniaus pavaivadis, XVIII a.)]]: Jurgis Abramovičius tuo metu buvo Vilniuje kartu su Antanu Davainiu Solohubu, Brigita Petronėle ir Jonu Pliateriu.
+- susijęs iš [[objektai/asmenys/Jurgis Abramovičius (Vilniaus pavaivadis, XVIII a.).md#claim-t-200514|Jurgis Abramovičius (Vilniaus pavaivadis, XVIII a.)]]: Jurgis Abramovičius buvo Vilniaus pavaivadis.
+- susijęs iš [[objektai/asmenys/Spytka.md#claim-t-198226|Spytka]]: Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \ o kiemo etmonu 5 — ponas Spytka Spytkovičius 6 .
+- susijęs iš [[objektai/posakiai/Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę.md#claim-t-199234|Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę]]: A. Goštauto memoriale Albertas Goštautas save vaizduoja kaip jauną Lietuvos tėvynės gynėją nuo M. Glinskio.
 - susijęs iš Vilniaus tiltas per Viliją: Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
-    iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei
-    ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė
-    prieš tikėjimo priešus, nes ledas buvo plonas.
-
-
-
-
-       349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
+- susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
+- susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
 ## Citatos
 
 - id: c-60970
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 219."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
-    iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei
-    ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė
-    prieš tikėjimo priešus, nes ledas buvo plonas.
-
-
-
-
-       349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
+    356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
+    čionių 1324 metais
+    Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą,
+    įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo, bei to paties
+    miesto gyventojų, du legatus, būtent: Baltramiejų, Aleto vyskupą, ir Bernardą, švento
+    Benedikto ordino švento Teofrido vienuolyno abatą Le Piui vyskupystėje, pakrikštyti
+    lietuvių ir rusų karaliaus. Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto,
+    šventės (rugsėjo 22) atvyko į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo
+    karaliaus bei jo valdinių iš vienos pusės ir tarp krikščionių iš kitos ir apaštališkojo sosto
+    valia pasiūlė tvirtai jos laikytis, pridurdami, kad toji šalis, kuri lengvapėdiškai pažeisianti
+    šį susitarimą, kuri sakysianti tokius žodžius ar darysianti tokius veiksmus, griebsiantisi
+    tokių sumanymų ar darbų, kurie galėtų trukdyti šiam susitarimui ar jį vilkinti, būsianti
+    dėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,
+    tik apaštališkasis sostas, prie kurio jie patys per tris mėnesius turėsią prisistatyti,
+    kad atvykę deramai pataisytų tai, kas atsitiko.
   citata_rodoma: "1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,\niš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei\nginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė\nprieš tikėjimo priešus, nes ledas buvo plonas.\n\n\n\n\n   349 (342)."
   statusas: verified
   teiginio_tipas: faktas
@@ -210,3 +223,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60338
+    - t-197105
+
+## Ryšiai
+- Jonas puolė [[objektai/asmenys/Slavka]]

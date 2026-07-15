@@ -43,21 +43,6 @@ media_all_json: |-
   teiginys: "Antonio Mierzyńskio „Źródła do mytologii litewskiej“ I ir II tomai išleisti Varšuvoje 1892 ir 1896 m."
   pagrindžia:
     - c-38445
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dvi dalys (vertimas), Vilnius, 1922.
-    Mierz. = Mierzyński, Antoni, Dr., Źródła do mytologii litews­
-    kiej, t. I, II, Warszawa 1892, 1896.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

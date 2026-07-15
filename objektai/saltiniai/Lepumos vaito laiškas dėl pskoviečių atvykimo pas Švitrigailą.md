@@ -34,26 +34,6 @@ Slaptajame archyve yra Lepumos vaito laiškas, datuotas Šv.
   teiginys: "Lepumos vaito laiške, datuotame Šv. Lauryno dieną, pranešta, kad pskoviečiai atvyko pas didįjį kunigaikštį prašyti valdytojo."
   pagrindžia:
     - c-84422
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lepumos vaito laiške, datuotame Šv. Lauryno dieną, pranešta, kad pskoviečiai atvyko pas didįjį kunigaikštį prašyti valdytojo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Slaptajame archyve yra Lepu-
-    mos vaito laiškas, datuotas Šv. Lau­
-    ryno dieną, tai yra, rugpjūčio 14-ą.
-    Juo pranešama, kad pskoviečiai at­
-    vyko pas didįjį kunigaikštį, prašy­
-    dami valdytojo ir pareikšdami, jog
-    būsią jam paklusnūs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

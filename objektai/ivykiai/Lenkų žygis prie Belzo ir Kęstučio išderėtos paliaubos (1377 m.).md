@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo. Kęstutis atvyko į karaliaus stovyklą kaip tarpininkas ir sustabdė karą, susitaręs dėl paliaubų sąlygų.
+Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo. Kęstutis atvyko į karaliaus stovyklą kaip tarpininkas ir sustabdė karą, susitaręs dėl paliaubų sąlygų. Gavęs žinią apie lietuvių siautėjimą, karalius Liudvikas trumpiausiu keliu per Sanoko kalvynus patraukė iš Vengrijos į Lenkiją.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -61,76 +61,42 @@ Nenurodyta
   teiginys: "Kęstutis atvyko į karaliaus stovyklą kaip tarpininkas ir sustabdė karą, susitaręs dėl paliaubų sąlygų."
   pagrindžia:
     - c-169100
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Netoli Sandomiro (čia susirinko visi
-    kovon pašaukti bajorai) padalijo karius žygio voro­
-    mis: vienus, vedamus Sendzi-
-    L en kų  ž y g is  p rie š lie-
-    vojaus iš Šubino, pasiuntė
-    tu v iu s
-    pulti
-    Chelmo,
-    o
-    kitus —
-    domiro žemių bajoriją-—pats nuvedė prie Belzo. Sen-
-    dzivojui gana greitai pavyko išvyti lietuvius iš visų
-    Chelmo žemių, jis užėmė Chelmą, apygardos sostinę,
-    Grabovo, Horodlės ir Sevlošo pilis. Belzą supant, ka­
-    raliui prisiėjo ilgiau užtrukti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196202"></a>
+- t-003
+  global_id: t-196202
+  teiginys: "Gavęs žinią apie lietuvių siautėjimą, karalius Liudvikas trumpiausiu keliu per Sanoko kalvynus patraukė iš Vengrijos į Lenkiją."
   pagrindžia:
-    - t-001
+    - c-169099
 
-- c-002
-  santrauka: 'Kęstutis atvyko į karaliaus stovyklą kaip tarpininkas ir sustabdė karą, susitaręs dėl paliaubų sąlygų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Surado išeitį iš bemaž
-    beviltiškos padėties Kęstutis,
-    K ę stu tis
-    su m an u m u
-    vyras vingraus proto, mokė-
-    g e lb s ti tė v y n ę
-    jęs atremti bet kokį likimo
-    smūgį. Buvęs priešas ir kurs­
-    tęs karą, jis kaip draugas atvyko į karaliaus stovyk­
-    lą, pasidarė taikos skelbėju bei susitarimo tarpininku
-    ir sustabdė grėsmingą karą susitaręs sudaryti paliaubas
-    šitokiomis sąlygomis: Kęstutis, sugrįžęs pas savuosius,
-    paleisiąs lietuvių nelaisvėje laikomus lenkus, Jurgis
-    atiduosiąs karaliui Belzą, o visas kitas valdas pasiliksiąs
-    sau. Atidavęs Belzą, Jurgis bemat susitaikė su kara­
-    liumi prisiekęs jam ištikimybę; jis atgavo ne tik pra­
-    rastas valdas, bet karalius jam dar pridėjo Liubačovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196203"></a>
+- t-004
+  global_id: t-196203
+  teiginys: "Kojelavičiaus pasakojime Kęstutis atvyko į karaliaus stovyklą kaip tarpininkas ir susitarė dėl paliaubų, turėjusių sustabdyti karą."
   pagrindžia:
-    - t-002
+    - c-169100
 
 ## Citatos
 
 - id: c-169099
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 255"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 255."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Netoli Sandomiro (čia susirinko visi
+    Po to, patraukęs prie Nemuno, Prū­
+    sijos maršalas su dešimčia
+    1377 m e ta i
+    tūkstančių karių kalaviju bei
+    ugnimi
+    nusiaubė
+    didelius
+    plotus ir išsigabeno didžiulį grobį. Kai į Vengriją at­
+    ėjo žinia apie lietuvių siautėjimą, karalius Liudvikas
+    kuo greičiausiai patraukė į Lenkiją trumpiausiu keliu
+    Sanoko kalvynais. Netoli Sandomiro (čia susirinko visi
     kovon pašaukti bajorai) padalijo karius žygio voro­
     mis: vienus, vedamus Sendzi-
-    L en kų  ž y g is  p rie š lie-
+    L en kų ž y g is p rie š lie-
     vojaus iš Šubino, pasiuntė
     tu v iu s
     pulti
@@ -140,22 +106,24 @@ Nenurodyta
     domiro žemių bajoriją-—pats nuvedė prie Belzo. Sen-
     dzivojui gana greitai pavyko išvyti lietuvius iš visų
     Chelmo žemių, jis užėmė Chelmą, apygardos sostinę,
-    Grabovo, Horodlės ir Sevlošo pilis. Belzą supant, ka­
-    raliui prisiėjo ilgiau užtrukti.
+    Grabovo, Horodlės ir Sevlošo pilis.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185738
+    - t-196202
 
 - id: c-169100
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 256"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 256."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Surado išeitį iš bemaž
+    Mat jis neturėjo pakankamai jėgų atsispirti šito­
+    kiai karo galybei, o iš dėdžių, Lietuvos kunigaikščių,
+    įsitraukusių į karą Prūsijoje, negalėjo tikėtis nei stip­
+    rios, nei savalaikės pagalbos. Surado išeitį iš bemaž
     beviltiškos padėties Kęstutis,
     K ę stu tis
     su m an u m u
@@ -169,12 +137,11 @@ Nenurodyta
     šitokiomis sąlygomis: Kęstutis, sugrįžęs pas savuosius,
     paleisiąs lietuvių nelaisvėje laikomus lenkus, Jurgis
     atiduosiąs karaliui Belzą, o visas kitas valdas pasiliksiąs
-    sau. Atidavęs Belzą, Jurgis bemat susitaikė su kara­
-    liumi prisiekęs jam ištikimybę; jis atgavo ne tik pra­
-    rastas valdas, bet karalius jam dar pridėjo Liubačovą.
+    sau.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185739
+    - t-196203

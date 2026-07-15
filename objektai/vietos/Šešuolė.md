@@ -48,25 +48,6 @@ media_all_json: |-
 - susijęs iš Širvinta: Pabaisko parapijos ribos ėjo nuo Širvintos upės iki Šventosios.
 - susijęs iš Širvinta: Pabaisko parapijos riba ėjo nuo Širvintos upės iki Šventosios.
 - susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86419|fundacija]]: Remiantis prisiekusių liudininkų duomenimis apie Pabaisko bažnyčios fundaciją, Valentinui iš Pilzno suteikta nauja privilegija.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Užėmę Kurklius, lenkai veržėsi Vidiškių
-    ir Ukmergės link. Giedraičius gynęs
-    2-asis pulkas buvo priverstas atsi-
-    traukti į Šešuolės- Virintos upių liniją.
-    Lietuvių pajėgos ėmė rengtis kontr-
-    puolimui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45460

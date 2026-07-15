@@ -53,23 +53,6 @@ Nenurodyta
   teiginys: "Raseiniškių sėkmė paskatino sukilimą kitose apskrityse, ir netrukus sukilėlių rankose atsidūrė visa Lietuva."
   pagrindžia:
     - c-02028
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šitas raseiniškių pa-
-    sisekimas sujudino visus kitus. Tuojau visose apskrityse ėmė
-    rinktis bajorai, skelbti sukilimo aktus, pasižadėjimus susijungti
-    su Lenkija, ir labai greit sukilėlių rankose atsidūrė visa Lie-
-    tuva. Rusai liko tik Kaune ir Vilniuje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

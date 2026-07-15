@@ -7,13 +7,13 @@ datos:
   - '1416 m.'
 date_start: '1416'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

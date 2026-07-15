@@ -40,25 +40,6 @@ iš XVI-XVII amžių doku­ mentų rinkinio « Lietuvos valstiečių ir miestel�
   teiginys: "K. Jablonskis sudarė pirmąjį XVI-XVII a. dokumentų rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą."
   pagrindžia:
     - c-33647
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    toliau pats leido šaltinius, sėkmingai skatino to darbo imtis kitus
-    ir iki savo mirties (1960) tęsė tyrinėjamąjį darbą.
-    K. Jablonskis ištisai sudarė 1 t. iš XVI-XVII amžių doku­
-    mentų rinkinio « Lietuvos valstiečių ir miestelėnų ginčai su dvarų
-    valdytojais» (1959). Rinkinio 2-sis tomas (XVIII amž.), surinktas
-    ir spaudai parengtas R. Jaso ir J. Ordos, dar buvo spėtas Ja­
-    blonskio suredaguoti (1961).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

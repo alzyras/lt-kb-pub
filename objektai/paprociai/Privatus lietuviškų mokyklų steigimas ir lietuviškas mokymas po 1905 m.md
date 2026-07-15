@@ -68,26 +68,6 @@ Nenurodyta
   teiginys: "Po 1905 m. mokyklas leista steigti privatiems asmenims ir visuomeninėms organizacijoms, o jose galėjo būti mokoma lietuvių ir lenkų kalbomis."
   pagrindžia:
     - c-166721
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Be to, mokyklas leista steigti ir privatiems asmenims bei visuomeninėms organizacijoms, jose galėjo būti mokoma ir lietuvių, taip pat lenkų kalba.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be to, mokyklas leista steigti ir privatiems asmenims bei visuomeninėms
-    organizacijoms, jose galėjo būti mokoma ir lietuvių, taip pat lenkų kalba.
-    Daugiausia – apie 70 – tokių pradžios mokyklų, kuriose dėstoma lietuvių
-    kalba, įsteigė katalikiškos draugijos. Užnemunėje veikė ir privati moterų
-    gimnazija dėstomąja lietuvių kalba. Kaime ir toliau vaikus mokyta skaityti,
-    rašyti ir skaičiuoti grupelėmis namuose – to valdžia nebedraudė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -107,5 +87,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183331
     - t-54327
+    - t-183331

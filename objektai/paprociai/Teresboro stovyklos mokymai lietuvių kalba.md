@@ -64,58 +64,14 @@ Nenurodyta
   teiginys: "Teresboro stovykloje mokymai vyko lietuviškai, o komandos buvo duodamos lietuvių kalba."
   pagrindžia:
     - c-43176
-
-<a id="claim-t-78720"></a>
-- t-002
-  global_id: t-78720
-  teiginys: "Teresboro stovykloje mokymai vyko lietuviškai, o komandos buvo duodamos lietuvių kalba."
-  pagrindžia:
     - c-43175
 
 <a id="claim-t-78721"></a>
-- t-003
+- t-002
   global_id: t-78721
   teiginys: "Teresboro stovykloje mokymai vyko lietuviškai."
   pagrindžia:
     - c-43175
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Joje vykdė naujokų ap-
-    mokymus, formavo naujus ir reorganizavo
-    esamus dalinius. Kunigas A. Mackevičius
-    stovykloje laikė mišias, atlikinėjo naujokų
-    įšventinimo apeigas. Stovykloje veikė karo
-    lauko ligoninė, mokymai vyko lietuviškai,
-    komandos buvo duodamos lietuvių kalba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kunigas A. Mackevičius
-    stovykloje laikė mišias, atlikinėjo naujokų
-    įšventinimo apeigas. Stovykloje veikė karo
-    lauko ligoninė, mokymai vyko lietuviškai,
-    komandos buvo duodamos lietuvių kalba.
-    Netrukus nenumatyti įvykiai pri-
-    vertė koreguoti planus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -137,7 +93,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78721
-    - t-78720
 
 - id: c-43176
   sudarytojas: "Karolis Zikaras"

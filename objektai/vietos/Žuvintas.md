@@ -78,41 +78,22 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
 - susijęs iš [[objektai/grupes/Edvardo Lajaus būrys.md#claim-t-40878|Edvardo Lajaus būrys]]: Edvardo Lajaus būrys veikė Žuvinto paliose ir Buktos, dar vadintame Žaliuoju, miške.
 - susijęs iš [[objektai/grupes/Juozo Pandeikos būrys.md#claim-t-40904|Juozo Pandeikos būrys]]: Juozo Pandeikos būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
 - susijęs iš [[objektai/grupes/Jurgio Lajaus būrys.md#claim-t-40905|Jurgio Lajaus būrys]]: Jurgio Lajaus būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nekrasovas), v., p.
-      Žirgupė
-      Žydai
-      Žuvintas, ež.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-87538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 323"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 323."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nekrasovas), v., p.
-      Žirgupė
-      Žydai
-      Žuvintas, ež.
+    Žirgupė
+    Žydai
+    Žuvintas, ež.
   citata_rodoma: ", p.\n  Žirgupė\n  Žydai\n  Žuvintas, ež."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91896
     - t-91895
+    - t-91896

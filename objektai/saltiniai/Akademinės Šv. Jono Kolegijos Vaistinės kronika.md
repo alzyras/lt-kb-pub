@@ -49,59 +49,6 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
   teiginys: "1546 m. būsimos Akademinės Šv. Jono kolegijos vaistinės vietoje stovėjo medinis namas su dideliu sklypu."
   pagrindžia:
     - c-84213
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Akademinė Šv. Jono kolegijos vaistinė gyvavimo pradžioje buvo įsteigta ir išlaikoma kolegijos lėšomis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Toji vaistinė savo gyvavimo pradžioje, kaip jokių turtų
-    ir pinigų užrašytų neturinti, buvo Collegii [kolegijos! lėšo­
-    182
-
-    ## Puslapis 199
-
-    Il KNYGA
-    mis įsteigta ir išlaikoma tik dėlei asmenų, in Collegio [kole­
-    gijoje] gyvenančių. Betgi pastaraisiais laikais, kelių vaisti­
-    ninkų dėka pradėjusi plėstis, ji pasiekė tą klestintį būvį, kaip
-    dabar (1780 metais).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1546 m. būsimos Akademinės Šv. Jono kolegijos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    - • —
-    181
-
-    ## Puslapis 198
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    E) Ak ademinės Šv. Jono Kolegijos Vaistinės kronika
-    1546. Žygimanto Augusto laikais to mūrinio namo vie­
-    toje, kur buvo Jėzuitų, paskui Universiteto, o dabar Medici­
-    nos Akademijos vaistinė, stovėjo medinis namas su dideliu
-    sklypu, apstatytu mažais nameliais, kampinis, sukant iš
-    Šv. Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo
-    (Šv. Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­
-    vė), kurio savininkas buvo Vilniaus burmistras ir auksaka­
-    lys (Proconsul et aurifex) Erazmas Bretneris. Tas Erazmas Bret-
-    neris testamentu, tais pat metais surašytu, šį namą skyrė Švč.
-    Trejybės Špitolei, Žr. D u b i ń s k i, p. 79.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

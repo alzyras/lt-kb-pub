@@ -40,28 +40,13 @@ Dusburgietis teigia, kad kulikauskas P.
   teiginys: "P. Kulikausko veikalas „Užnemunės piliakalniai I—XIII amžiuje“ išleistas Vilniuje 1982 m."
   pagrindžia:
     - c-61742
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'P. Kulikausko veikalas „Užnemunės piliakalniai I—XIII amžiuje“ išleistas Vilniuje 1982 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kulikauskas P. Užnemunės piliakalniai I—XIII amžiuje.— V., 1982.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61742
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 265"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kulikauskas P. Užnemunės piliakalniai I—XIII amžiuje.— V., 1982.
   statusas: verified

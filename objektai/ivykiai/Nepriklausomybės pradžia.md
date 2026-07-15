@@ -66,31 +66,6 @@ Nenurodyta
   teiginys: "1918 metai ilgai buvo laikomi viena kertinių politiškai svarbių Lietuvos istorijos datų kaip nepriklausomybės pradžia."
   pagrindžia:
     - c-33420
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos istorijos periodizacija ir jos reikšmingieji etapai**
-        Į klausimą, kokiais svarbiausiais etapais reikėtų išskirstyti visą
-    Lietuvos istoriją, nėra dar galutinai nustatytų ribų. Į visą eilę svar­
-    bių Lietuvos praeities klausimų, ypač iš jos valstybinio gyvenimo
-    pirmųjų šimtmečių, pažiūros ir pačiuose lietuviuose nėra nusisto­
-    vėjusios.
-    Gana ilgai, iki pat nepriklausomybės dešimtmečių Lietuvoją
-    ir jos kaimynuose, paprastai buvo laikomasi šių kertinių politiškai
-    Svarbių Lietuvos istorijos datų : 1) 1219-1236 (lietuvių gyvenamų
-    plotų susivienijimas į valstybę), 2) 1385-1387 m. (Kriavo aktas,
-    Lietuvos krikštas), 3) 1569-1572 m. (Liublino unija, Gediminaičių
-    [Jogailaičių ] dinastijos pabaiga), 4) 1795 m. (Lietuvos ir Lenkijos
-    paskutinis padalinimas) ir 5) 1918 m. (nepriklausomybės pradžia).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

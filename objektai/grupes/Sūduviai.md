@@ -4,6 +4,7 @@ pavadinimas: 'Sūduviai'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1259 m.'
   - '1262 m.'
@@ -176,52 +177,45 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   pagrindžia:
     - c-85224
 
-<a id="claim-t-89247"></a>
-- t-020
-  global_id: t-89247
-  teiginys: "Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą."
-  pagrindžia:
-    - c-85220
-
-<a id="claim-t-89246"></a>
-- t-021
-  global_id: t-89246
-  teiginys: "Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė."
-  pagrindžia:
-    - c-85215
-
-<a id="claim-t-89248"></a>
-- t-022
-  global_id: t-89248
-  teiginys: "Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos."
-  pagrindžia:
-    - c-85212
-
 <a id="claim-t-194364"></a>
-- t-023
+- t-020
   global_id: t-194364
   teiginys: "Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos pilies bei miesto sugriovimą Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei."
   pagrindžia:
     - c-85220
 
 <a id="claim-t-194365"></a>
-- t-024
+- t-021
   global_id: t-194365
   teiginys: "Apie sūduvių pabėgimą Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė."
   pagrindžia:
     - c-85215
 
 <a id="claim-t-194366"></a>
-- t-025
+- t-022
   global_id: t-194366
   teiginys: "Jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti."
   pagrindžia:
     - c-85212
 
+<a id="claim-t-196924"></a>
+- t-023
+  global_id: t-196924
+  teiginys: "Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir."
+  pagrindžia:
+    - c-178982
+
+<a id="claim-t-197523"></a>
+- t-024
+  global_id: t-197523
+  teiginys: "Sūduva turėjo gana daug įtvirtintų pilių, kur gyveno šioje provincijoje dau giausia buvusių savarankiškų valdovų."
+  pagrindžia:
+    - c-179229
+
 <a id="claim-t-194603"></a>
 - t-026
   global_id: t-194603
-  teiginys: "Rausvės (Ross) upė, kuri ir dabar vadinama tuo pačiu vardu, tekėjo sudinų (sūduvių) šalyje."
+  teiginys: 'Rausvės (Ross) upė, kuri ir dabar vadinama tuo pačiu vardu, tekėjo sudinų (sūduvių) šalyje.'
   pagrindžia:
     - c-177002
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas.md#claim-t-62874|Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]: Po bendražygių žūties Martynas iš Golino sušaukė išsklaidytus vyrus, atgavo ginklus ir užpuolęs sūduvius juos išžudė.
@@ -402,391 +396,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90025|Sventopelkas]]: Sventopelkas po metų sulaužė taikos sutartį ir su naujakrikščiais atkritėliais bei sūduviais nusiaubė Kulmo žemę.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę
-
-       Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo
-    gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių.  Jį, paimtą  į nelaisvę,
-    atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
-    todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
-    puotauti. Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,
-    be paliovos  jį užgauliodamas bei plūsdamas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-    - t-022
-    - t-025
-
-- c-002
-  santrauka: 'Liudvikas iš Libencelės į Kristaus tikėjimą atvertė tūkstantį šešis šimtus abiejų lyčių sūduvių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
-                               mą
-
-      Tuo metu  tas  pats  brolis Konradas,  magistras, rūpindamasis jam  patikėtomis
-    pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią
-    tikėjimo priešus sūduvius. Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;
-    kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su
-    savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų
-    lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė  į Kristaus tikėjimą. Juos išvydęs,
-    magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-
-- c-003
-  santrauka: 'Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
-    Bysleidos  pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė,  ir ją smarkiai
-    užpuolė. Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
-    tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
-    gyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
-    ir nukovė daugiau nei du tūkstančius priešo karių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie sūduvių pabėgimą
-
-      Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
-    palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.
-    Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai
-    sužeidė, o kiti gėdingai pabėgo.
-
-
-
-
-       201 (196).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-    - t-021
-    - t-024
-
-- c-005
-  santrauka: 'Magistras su kariuomene įsiveržė į Sūduvos Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sitai padaręs,
-    magistras kitą dieną su savo kariuomene įsibrovė  į Sūduvos valsčių, vardu Kimenava,
-    ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog
-    jiems bus leista netrukdomiems iš čia išeiti su visa manta, pasižadėjus priimti Kristaus
-    tikėjimą. Tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti  į Sembos žemę. Kai kitą
-    dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal,  jie
-    sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-006
-  santrauka: 'Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    166 (161). Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
-                                būtent: Eimsutis ir dar viena
-
-      Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
-    siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas
-    karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-007
-  santrauka: 'Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    205 (200). Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį
-
-      Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris,
-    Tepliavos komtūras, su 12 brolių  ir 250 raitelių įsiveržė  į Sūduvą  ir, neskaitant kitų
-    nuostolių, kurių pridarė šiai žemei, degindamas ir grobdamas, paėmė ir nužudė 150
-    žmonių, išsivarė į nelaisvę kilmingųjų žmonas, sūnus, dukteris ir šeimyną; šitaip sūduviai
-    čia kur kas daugiau prarado, nei buvo pelnę Semboje.
-
-
-
-
-                   206 (201).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-008
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
-                                       pilies bei miesto sugriovimą
-
-      Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo
-    matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei miestą440. Paskui
-    prie Štraisbergo pilies441 įėjo į Kulmo žemę padaliję savo kariuomenę, paėmė daug pilių,
-    o  į jas bėgančius žmones išžudė ar išsivarė  į nelaisvę. Po to priėjo Torunę ir sudegino
-    ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-    - t-020
-    - t-023
-
-- c-009
-  santrauka: '1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Traidenis (1269—1282 m.), remdamas žiemgalius,
-    telkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
-    bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
-    sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
-    (III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
-    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,
-    pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
-    po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-010
-  santrauka: 'Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
-
-      Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
-    labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,
-    broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į
-    nelaisvę visus gyventojus, ir net pelenais pavertė.
-
-
-
-
-          174 (169).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-011
-  santrauka: 'Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, juos išžudė, o moteris ir vaikus išsivarė į nelaisvę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,
-    pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Vieną
-    sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai
-    užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į
-    nelaisvę.
-
-      435  Vartenbergo  pilies,  sūduvių  sudegintos  ir  iki  pat  kronikos rašymo metų
-    neatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a. 2-oje pusėje
-    tebuvo žinomas vienas kryžiuočių centras Vonė (Wonne) Osos aukštupyje (dab.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-012
-  santrauka: 'Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    kelią, užpuldavo juos ir sumušdavo, daugybę išžudydamas, o kitus išsklaidydamas; jis tiek
-    kartų šitai padarė ir tiek jų išžudė, kad sūduviai daugiau nebedrįsdavo rodytis be didesnės
-    kariuomenės. Įniršęs dėl tokio savo žmonių pralaimėjimo  ir tokių didelių nuostolių,
-    patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir
-    stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių
-    dieną481, pasiryžęs visokeriopai atkeršyti už savųjų žūtį. Iš pradžių jie smarkiai užpuolė
-    vieno vasalo pilį, vardu Plovista482, buvusią Osos upės pakrantėje; būtų ją sugriovę,
-    jeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie
-    netikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-
-- c-013
-  santrauka: 'Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sūduviai, subūrę dar
-    didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,
-    kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du
-    brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista.
-
-
-
-
-                     160 (155).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-014
-  santrauka: 'Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Štai Didžiojo prūsų sukilimo
-    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
-    Ordino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
-    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
-    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
-    sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—
-    1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
-    aktyviai rėmė, kiek leido sąlygos, prūsų  ir jotvingių—sūduvių kovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-015
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje
-
-       Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais
-    raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488;
-    neskaitant galybės užmuštųjų, jie išsivarė su savimi tūkstantį belaisvių ir išsigabeno
-    galybę kitokio grobio. Kitą dieną, kai brolių kariuomenė atsitraukdama priėjo mišką,
-    vardu Vinsas489, juos pasivijo trys tūkstančiai rinktinių sūduvių vyrų, kuriuos broliai su
-    saviškiais drąsiai užpuolė, daugybę nukovė ir mirtinai sužeidė, o kitus nuvijo iki įeigos į
-    jų žemę. Šiose kautynėse brolių kariuomenė neteko šešių vyrų, kritusių kovoje, visi kiti
-    sveiki sugrįžo atgal.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-009
-
-- c-016
-  santrauka: 'Magistro Mangoldo vadovavimo metais sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Sembos žemės nusiaubimą
-
-      Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami
-    mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu
-    įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už šitokią priespaudą, tačiau patys
-    vieni nieko nestengdami, pasitelkė į pagalbą lietuvius ir smarkiai užpuolė Sembos žemę497.
-    Broliai iš anksto buvo pasirengę tam antpuoliui. Dėl to šie nieko kita čia negalėjo daryti,
-    tik dešimt dienų žygiuoti nuo vienos šios žemės ribos iki kitos ir deginti sodybas bei visa
-    kita, kas buvo už pilių ir įtvirtinimų [sienų]; jie sugrįžo namo, netekę tik 5 savo karių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
-- c-017
-  santrauka: 'Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį
-
-      Po to Skomantas442, įsibrovęs su sūduviais  į Kulmo žemę, padalijo savo kariuomenę
-      439  Sūduviai puolė tarp 1263 m. balandžio pradžios  ir 1264 m. sausio mėn, D.
-    III, 161 aprašomas prūsų antpuolis įvyko 1263 m. balandžio—birželio mėn. Aprašomi
-    įvykiai, galimas daiktas, rodo sūduvių ir prūsų karinį bendradarbiavimą (Powierski J.,
-    Dobra.., p. 77—78).
-      440 Dab. Liubava (Lóbau, Lubawa), gyvenvietė į rytus nuo Drevantos aukštupio.
-      441 D.— Straisbergk; vėliau — Strasburg, dab. Brodnica prie Drevantos (SZCh, p.
-    12).
-      442 D.— Scumandus, Jer.— Skomant; jotvingių Skomant(a)s arba Skomand(a)
-    s. Asmenvardis giminingas vietovardžiams Skomantai, Klaipėdos rj. (Gerullis G., Zur
-    Sprache.., p. 48; Būga К., 2, p. 100—101; 3, p. 140—141), Skuomantai (kaimas prie
-    Rokiškio, su tarminiu senesnio o virtimu uo).
-
-    į dvi dalis, kurių viena patraukė prieš Torunę, o kita prieš Kulmo miestą, žudydamos,
-    imdamos į nelaisvę ir degindamos visa, ką sutikdavo pakelėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-018
-  santrauka: 'Dusburgietis sūduvius vadina paskutine ir galingiausia neužkariauta Prūsijos žemės gentimi.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie karą su sūduviais ir apie paskutinį karą Prūsijos žemėje
-
-      Užkariavus iš viešpaties Jėzaus Kristaus malonės visas Prūsijos žemės gentis, beliko
-    vienui viena, bet visų galingiausioji, būtent sūduviai, kuriuos broliai narsiai puolė, ne
-    tiek pasikliaudami žmogaus drąsa ir gausia kariuomene, kiek dieviškąja pagalba, nes
-    žinojo, kad viešpats yra mokęs, jog, aukojant auką, privalu aukoti ne tik galvą ar kurią
-      481 Metus nurodo Sembos kanauninko kronika, kur rašoma, kad 1277 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
 - c-019
   santrauka: 'Rausvės (Ross) upė, kuri ir dabar vadinama tuo pačiu vardu, tekėjo sudinų (sūduvių) šalyje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -814,41 +423,38 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85212
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę
-
-       Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo
-    gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių.  Jį, paimtą  į nelaisvę,
-    atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
-    todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
-    puotauti. Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,
-    be paliovos  jį užgauliodamas bei plūsdamas.
+    Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
+    kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
+    213 (208). Apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis
+    Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,
+    turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą,
+    Samborą, Vartislavą bei dar vieną507. Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
+    minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
+    ordino broliams Prūsijoje.
+  citata_rodoma: "Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę\n\n   Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo\ngyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių.  Jį, paimtą  į nelaisvę,\natidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,\ntodėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę\npuotauti. Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,\nbe paliovos  jį užgauliodamas bei plūsdamas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89248
-    - t-183901
     - t-194366
 
 - id: c-85213
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
-                               mą
-
-      Tuo metu  tas  pats  brolis Konradas,  magistras, rūpindamasis jam  patikėtomis
+    mą
+    Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis
     pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią
     tikėjimo priešus sūduvius. Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;
     kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su
     savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų
-    lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė  į Kristaus tikėjimą. Juos išvydęs,
+    lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė į Kristaus tikėjimą. Juos išvydęs,
     magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512.
   statusas: verified
   teiginio_tipas: faktas
@@ -860,11 +466,10 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85214
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
-    Bysleidos  pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė,  ir ją smarkiai
+    Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai
     užpuolė. Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
     tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
     gyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
@@ -880,41 +485,33 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85215
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 163"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie sūduvių pabėgimą
-
-      Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
+    Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
     palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.
     Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai
     sužeidė, o kiti gėdingai pabėgo.
-
-
-
-
-       201 (196).
+    201 (196).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89246
-    - t-183900
     - t-194365
 
 - id: c-85216
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sitai padaręs,
-    magistras kitą dieną su savo kariuomene įsibrovė  į Sūduvos valsčių, vardu Kimenava,
+    magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava,
     ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog
     jiems bus leista netrukdomiems iš čia išeiti su visa manta, pasižadėjus priimti Kristaus
-    tikėjimą. Tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti  į Sembos žemę. Kai kitą
-    dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal,  jie
+    tikėjimą. Tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti į Sembos žemę. Kai kitą
+    dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal, jie
     sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
   statusas: verified
   teiginio_tipas: faktas
@@ -926,15 +523,16 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85218
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    166 (161). Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
-                                būtent: Eimsutis ir dar viena
-
-      Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
-    siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas
-    karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
+    Tuos, kurie, patikėję šiais žodžiais,
+    išeidavo, jis su saviškiais užpuldavo ir paimdavo į nelaisvę arba nužudydavo.
+    168 (163). Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
+    apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
+    Kai antrosios atskalūnybės  metais stiprėjo krikščionių persekiojimas, kurie ne kurie
+    Pagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,
+    paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
+    su broliais.
   citata_rodoma: "Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,\n                            būtent: Eimsutis ir dar viena\n\n  Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas\nsiaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas\nkarys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui."
   statusas: verified
   teiginio_tipas: faktas
@@ -946,21 +544,19 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85219
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 165"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    205 (200). Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį
-
-      Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris,
-    Tepliavos komtūras, su 12 brolių  ir 250 raitelių įsiveržė  į Sūduvą  ir, neskaitant kitų
-    nuostolių, kurių pridarė šiai žemei, degindamas ir grobdamas, paėmė ir nužudė 150
-    žmonių, išsivarė į nelaisvę kilmingųjų žmonas, sūnus, dukteris ir šeimyną; šitaip sūduviai
-    čia kur kas daugiau prarado, nei buvo pelnę Semboje.
-
-
-
-
-                   206 (201).
+    Šitai papasakojęs kunigui, sūduvis tą pačią dieną laimingai
+    atidavė viešpačiui sielą499.
+    208 (203). Apie Marienburgo pilies pastatymą
+    1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
+    kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios
+    šlovei bei garbei ji čia ir buvo perkelta500.
+    209 (204). Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
+    Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
+    pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
+    kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
+    kurį niokojo, degindamas ir grobdamas.
   citata_rodoma: "Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį\n\n  Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris,\nTepliavos komtūras, su 12 brolių  ir 250 raitelių įsiveržė  į Sūduvą  ir, neskaitant kitų\nnuostolių, kurių pridarė šiai žemei, degindamas ir grobdamas, paėmė ir nužudė 150\nžmonių, išsivarė į nelaisvę kilmingųjų žmonas, sūnus, dukteris ir šeimyną; šitaip sūduviai\nčia kur kas daugiau prarado, nei buvo pelnę Semboje.\n\n\n\n\n               206 (201)."
   statusas: verified
   teiginio_tipas: faktas
@@ -972,16 +568,14 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85220
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
-                                       pilies bei miesto sugriovimą
-
-      Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo
+    pilies bei miesto sugriovimą
+    Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo
     matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei miestą440. Paskui
     prie Štraisbergo pilies441 įėjo į Kulmo žemę padaliję savo kariuomenę, paėmė daug pilių,
-    o  į jas bėgančius žmones išžudė ar išsivarė  į nelaisvę. Po to priėjo Torunę ir sudegino
+    o į jas bėgančius žmones išžudė ar išsivarė į nelaisvę. Po to priėjo Torunę ir sudegino
     ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų.
   statusas: verified
   teiginio_tipas: faktas
@@ -989,21 +583,19 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89247
-    - t-183899
     - t-194364
 
 - id: c-85221
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 12"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Traidenis (1269—1282 m.), remdamas žiemgalius,
     telkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
     bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
     sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
     (III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
-    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,
+    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes,
     pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
     po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
   statusas: verified
@@ -1016,20 +608,14 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85222
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
-
-      Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
+    Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
     labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,
-    broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į
+    broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę į
     nelaisvę visus gyventojus, ir net pelenais pavertė.
-
-
-
-
-          174 (169).
+    174 (169).
   citata_rodoma: "Apie antrąjį Bartenšteino pilies sugriovimą\n\n  Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,\nlabai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,\nbroliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į\nnelaisvę visus gyventojus, ir net pelenais pavertė.\n\n\n\n\n      174 (169)."
   statusas: verified
   teiginio_tipas: faktas
@@ -1041,16 +627,15 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85223
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 142"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį
     Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,
     pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Vieną
     sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai
-    užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į
+    užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris ir vaikus išsivarė į
     nelaisvę.
-
-      435  Vartenbergo  pilies,  sūduvių  sudegintos  ir  iki  pat  kronikos rašymo metų
+    435 Vartenbergo pilies, sūduvių sudegintos ir iki pat kronikos rašymo metų
     neatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a. 2-oje pusėje
     tebuvo žinomas vienas kryžiuočių centras Vonė (Wonne) Osos aukštupyje (dab.
   citata_rodoma: "Vieną\nsekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai\nužgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į\nnelaisvę.\n\n  435  Vartenbergo  pilies,  sūduvių  sudegintos  ir  iki  pat  kronikos rašymo metų\nneatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a."
@@ -1064,12 +649,11 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85224
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 160"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 160."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     kelią, užpuldavo juos ir sumušdavo, daugybę išžudydamas, o kitus išsklaidydamas; jis tiek
     kartų šitai padarė ir tiek jų išžudė, kad sūduviai daugiau nebedrįsdavo rodytis be didesnės
-    kariuomenės. Įniršęs dėl tokio savo žmonių pralaimėjimo  ir tokių didelių nuostolių,
+    kariuomenės. Įniršęs dėl tokio savo žmonių pralaimėjimo ir tokių didelių nuostolių,
     patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir
     stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių
     dieną481, pasiryžęs visokeriopai atkeršyti už savųjų žūtį. Iš pradžių jie smarkiai užpuolė
@@ -1087,8 +671,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85225
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 143"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sūduviai, subūrę dar
     didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,
@@ -1109,8 +692,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85226
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 11"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Štai Didžiojo prūsų sukilimo
     metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
@@ -1119,7 +701,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—
     1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
-    aktyviai rėmė, kiek leido sąlygos, prūsų  ir jotvingių—sūduvių kovą.
+    aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą.
   citata_rodoma: "Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,\nkovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,\n122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai\nsutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—\n1263 m."
   statusas: verified
   teiginio_tipas: faktas
@@ -1131,12 +713,10 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85227
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 161"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 161."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje
-
-       Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais
+    Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais
     raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488;
     neskaitant galybės užmuštųjų, jie išsivarė su savimi tūkstantį belaisvių ir išsigabeno
     galybę kitokio grobio. Kitą dieną, kai brolių kariuomenė atsitraukdama priėjo mišką,
@@ -1155,12 +735,10 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85228
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 164"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Sembos žemės nusiaubimą
-
-      Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami
+    Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami
     mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu
     įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už šitokią priespaudą, tačiau patys
     vieni nieko nestengdami, pasitelkė į pagalbą lietuvius ir smarkiai užpuolė Sembos žemę497.
@@ -1177,8 +755,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85229
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 144-145"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144-145."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį
 
@@ -1207,8 +784,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85230
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 160"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 160."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie karą su sūduviais ir apie paskutinį karą Prūsijos žemėje
 
@@ -1224,27 +800,54 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   pagrindzia:
     - t-89244
 
-- id: c-177002
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- id: c-178982
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    H*
-    227
-
-    ## Puslapis 227
-
-    (Ross) upę, kuri ir šiandien taip tebesivadina ir įteka į Narevą
-    jo dešiniajame krante, žemiau Ostrolenkos. Rausvės (Ross)
-    upė, kuri ir dabar vadinama tuo pačiu vardu, tekėjo sudinų
-    (sūduvių) šalyje. Ji įteka į Šešupę jos kairiajame krante netoli
-    Naumiesčio.
+    Apie Marienburgo pilies pastatymą
+    1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
+    kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios
+    šlovei bei garbei ji čia ir buvo perkelta500.
+    209 (204). Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
+    Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
+    pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
+    kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
+    kurį niokojo, degindamas ir grobdamas.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194603
+    - t-196924
+
+- id: c-179229
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Gyventojai aistringai gynė savo lais­
+    vę, dažnai maištavo; kryžiuočiai iškapojo beveik visus, o
+    likusius, sugautus giriose, perkėlė į Sambiją. Taip pat
+    daug sudinų persikėlė ir į Lietuvą. Sūduva turėjo gana
+    daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
+    giausia buvusių savarankiškų valdovų. Kryžiuočiams val­
+    dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
+    apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
+    vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
+    Raigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie
+    šią, toje pačioje vietoje esančią provinciją, be to, neabe­
+    jotina, kad nuo seno ten gyveno ir lietuviui Tas pats
+    geografas taip pat žinojo vieną sudinų koloniją, buvusią
+    germanų markomanų genties kaimynystėje, dabar Pra­
+    hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
+    iš prūsų Sūduvos kažkokia užklydusi genties dalis4.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197523
 
 ## Ryšiai
 - Puolė Sūduviai: [[objektai/asmenys/Martynas iš Golino]]

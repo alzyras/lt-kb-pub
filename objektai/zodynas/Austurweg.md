@@ -55,37 +55,6 @@ Vartojama normanų žygių Baltijos regione aptarime.
   teiginys: "Austurweg buvo normanų vartotas Baltijos jūros pakrantės nuo Vyslos žiočių iki Suomijos įlankos pavadinimas."
   pagrindžia:
     - c-55796
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kraštas, lankytas normanų piratų iš
-    Švedijos, Norvegijos ir Danijos, už­
-    ėmė visą Baltijos jūros pakrantę nuo
-    Vyslos žiočių iki pat Suomijos įlan­
-    kos ir buvo jų vadinamas A ust u rweg.
-    Atšiaurus klimatas, nenaši, uolėta
-    žemė, pagaliau tvarkos stoka ir tar­
-    pusavio nesantaika atgrasaus barba­
-    riškumo laikais vertė skandinavus
-    traukti į tas jūros keliones, o kartais
-    į didesnes išvykas, į kitą Baltijos pu­
-    sę. Nors jau V amžiaus pabaigoje,
-    tuoj po Romos valstybės žlugimo,
-    Europos Šiaurės kraštai kentėjo nuo
-    normanų puldinėjimų, bet jie nebu­
-    vo tokie reikšmingi ir grėsmingi,
-    kaip prasidėjusieji sulig didelės Ka­
-    rolio Didžiojo monarchijos žlugimu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -118,5 +87,5 @@ Vartojama normanų žygių Baltijos regione aptarime.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54800
     - t-54799
+    - t-54800

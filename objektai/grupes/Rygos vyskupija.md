@@ -45,26 +45,8 @@ media_all_json: |-
   pagrindžia:
     - c-44843
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169699|Lietuvos Didžioji Kunigaikštystė]]: 1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187719|Lietuvos Didžioji Kunigaikštystė]]: Lietuvos metraštis Vytautą vaizduoja valdžius Lietuvos ir Rusų Didžiąją Kunigaikštystę bei artimai bendravus su Vengrų valdovu.
 - susijęs iš [[objektai/grupes/Livonijos konfederacija.md#claim-t-41065|Livonijos konfederacija]]: 1561 m. sutartimi su LDK Livonijos konfederacija buvo panaikinta, o didesnė Livonijos dalis tapo Lietuvos dalimi.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-
-    toratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
-    didesnė dalis Livonijos tapo Lietuvos dalimi
-
-    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
-    Lietuvos kariuomenių struktūrą:
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44843

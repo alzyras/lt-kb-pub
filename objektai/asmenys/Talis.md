@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo jo gavybos vietas.
+Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo jo gavybos vietas. Talis gabenamas, nei kelio, kuriuo jį veždavo.
 
 ## Teiginiai
 
@@ -35,19 +35,27 @@ Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes i
   teiginys: "Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo jo gavybos vietas."
   pagrindžia:
     - c-174356
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197823"></a>
+- t-002
+  global_id: t-197823
+  teiginys: "Talis gabenamas, nei kelio, kuriuo jį veždavo."
+  pagrindžia:
+    - c-174356
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo jo gavybos vietas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Plinijus surinkęs liudijimų,
-    kad gintaras vaidinęs svarbų vaidmenį senovės moterų
-    ¡puošyboje ir prabangoje. Herodotas, Talis, Aristotelis, Teo-
-    frastas*, o juo labiau Pitėjas Masilietis žinojo šį brangų
-    produktą ir jo savybes, tyrinėjo jo gavybos vietas. Taip
-    pat gintaras lėmė, kaip sakėme, seniausius geografinius
-    tyrinėjimus pakrančių, kur gyveno lietuvių genties tautos.
+    Priartinus mūsų tyrimus prie
+    geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
+    tėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi
+    apie gintaringas vietas; boristeniečiai, ariba Padneprės
+    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
+    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
+    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
+    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -55,25 +63,32 @@ Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-174356
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 150"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Plinijus surinkęs liudijimų,
-    kad gintaras vaidinęs svarbų vaidmenį senovės moterų
-    ¡puošyboje ir prabangoje. Herodotas, Talis, Aristotelis, Teo-
-    frastas*, o juo labiau Pitėjas Masilietis žinojo šį brangų
-    produktą ir jo savybes, tyrinėjo jo gavybos vietas. Taip
-    pat gintaras lėmė, kaip sakėme, seniausius geografinius
-    tyrinėjimus pakrančių, kur gyveno lietuvių genties tautos.
+    Priartinus mūsų tyrimus prie
+    geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
+    tėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi
+    apie gintaringas vietas; boristeniečiai, ariba Padneprės
+    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
+    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
+    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
+    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
+    Keliautojas tik sužinojo, kad jis renkamas prie Eridano
+    upės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­
+    gi kalba apie gintarą, randamą ten, kur Aldeskos upė
+    įteka į Šiaurės jūrą3.
+  citata_rodoma: "Priartinus mūsų tyrimus prie \ngeografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos \ntėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi \napie gintaringas vietas; boristeniečiai, ariba Padneprės \ngraikų kolonistai, jam pasakoję, jog šis produktas pasie­\nkiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt \ndėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei \nvietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191474
+    - t-197823

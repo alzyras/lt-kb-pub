@@ -40,22 +40,6 @@ media_all_json: |-
   teiginys: "Jozepho Pfitznerio veikalas „Grossfürst Witold von Litauen als Staatsmann“ buvo išleistas Rudolfo M. Rohrerio leidykloje 1930 m."
   pagrindžia:
     - c-36133
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pfitz. = Pfitzner, Jozeph, Grossfürst Witold von Litauen als
-    Staatsmann. Verlag Rudolf M. Rohrer. Brün — Prag —
-    Leipzig — Wien, 1930.', __
-    Proch.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

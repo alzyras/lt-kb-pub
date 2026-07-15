@@ -68,34 +68,7 @@ Nenurodyta
     - c-56415
 - susijęs iš [[objektai/daiktai/Akstys.md#claim-t-08278|Akstys]]: Akstys buvo ginklai, kurių galuose vietoj ietigalių buvo įtaisyti aštrūs akmenys.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Ginklai jų buvo įvairūs pagal įvairią gadynę: visų giliojoj senovėj pėsčiųjų buvo ginklais
-        rendėtiniai^1324 brūkliai, o raitųjų kestės, taurų ragais apmaustytos, nuo ko ragotinėmis buvo
-        vadinamos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Ilgainiui tų brūklių drūktieji galai buvo švinu pripilti dėl svarumo, idant tuo siūtį pasmarkintų, vieni
-        sulig žmogaus augumu, kiti trumpesni, stripiniais, arba strypais^1326 , vadinami, kurių kožnas turėjo po
-        penkis, šešis padiržėj užkištus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+Nenurodyta
 
 ## Pastabos
 

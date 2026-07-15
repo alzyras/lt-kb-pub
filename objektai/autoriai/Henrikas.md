@@ -59,7 +59,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš [[objektai/asmenys/Henrikas (kryžiuočių magistras).md#claim-t-186002|Henrikas (kryžiuočių magistras)]]: Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas priesaikos nesikišti į prūsų karą.
 - susijęs iš [[objektai/asmenys/Henrikas (pranciškonas).md#claim-t-30260|Henrikas (pranciškonas)]]: Pranciškonas Henrikas kartu su Bertoldu laiške įrašė daugiau, negu, tikėtina, buvo ketinęs Gediminas.
 - susijęs iš [[objektai/asmenys/Henrikas fon Plauenas.md#claim-t-40136|Henrikas fon Plauenas]]: Henrikas fon Plauenas pasirengė Ordino tvirtovės apsiausčiai ir ją apgynė.
-- susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186043|Henrikas fon Plockė]]: Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių apsupo lietuvius.
 - susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186045|Henrikas fon Plockė]]: Henrikas fon Plockė ir jo vadovaujami kryžiuočiai miško tankmėje buvo sunaikinti arba pateko į nelaisvę.
 - susijęs iš [[objektai/asmenys/Henrikas iš Berkos.md#claim-t-60311|Henrikas iš Berkos]]: Henrikas iš Berkos iš Tiuringijos buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
 - susijęs iš [[objektai/asmenys/Henrikas iš Ceico.md#claim-t-60312|Henrikas iš Ceico]]: Henrikas iš Ceico iš Vitchendorfo kaimo buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
@@ -102,7 +101,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš [[objektai/asmenys/Valteris, pravarde Goldinas.md#claim-t-60218|Valteris, pravarde Goldinas]]: 1296 m. Valteris Goldinas pagal kraujo pėdsakus surado brolio Henriko žirgą pagrobusį rusą ir jį nukovė.
 - susijęs iš [[objektai/autoriai/Henriką von Rebdorf.md#claim-t-30637|Henriką von Rebdorf]]: Kronikininkas Henrikas von Rebdorfas rašė, kad 1358 m. liepą Lietuvos karalius pas imperatorių buvo atsiuntęs savo brolį.
 - susijęs iš [[objektai/daiktai/Žirgai.md#claim-t-59717|Žirgai]]: Henriko arklys naktį sustojo prie skardžio, nes matė pavojų, kurio raitelis tamsoje negalėjo išvysti.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179111|Kryžiuočių ordinas]]: Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti, kai Henrikas von Plauen Marienburge surinko apie 5000 vyrų įgulą.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169584|Latviai]]: Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie deramai vadinami Lethigalli.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78408|Notangai]]: Notangų vadas Herkus Mantas pasitraukė į dykras, kur Henrikas iš Šenenbergo ir Helvigas iš Goldbacho jį pakorė ir pervėrė kalaviju.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78411|Notangai]]: Notangų vadą Herkų Mantą broliai Henrikas iš Šenenbergo ir Helvigas iš Goldbacho pakorė ir pervėrė kalaviju.
@@ -133,10 +131,9 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176661|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu atvyko pas Vytautą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176758|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu buvo atvykęs pas Vytautą.
 - susijęs iš [[objektai/asmenys/Zigfridas iš Rechbergo.md#claim-t-60473|Zigfridas iš Rechbergo]]: 1296 m. žiemą Baigos komtūras Zigfridas iš Rechbergo iš Notangos patraukė link Lietuvos ir priėjo Gardino pilį.
-- susijęs iš [[objektai/asmenys/Šindekopfas.md#claim-t-186090|Šindekopfas]]: Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, kad būtų ginama nauja pilis ir nustumtas priešas.
+- susijęs iš [[objektai/asmenys/Šindekopfas.md#claim-t-186090|Šindekopfas]]: Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, kad būtų ginama Gotesverderio pilis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178809|Kryžiuočių ordinas]]: Henrikas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178821|Kryžiuočių ordinas]]: Pasak Petro Dusburgiečio, Henrikui pasižadėjus įstoti į Teutonų ordiną, išnyko regėtas sambūris ir regėjimai.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178865|Kryžiuočių ordinas]]: Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178880|Kryžiuočių ordinas]]: 1323 m. Liubeke dėl tariamų Gedimino laiškų nutarta kreiptis patarimo į tuo metu mieste buvusius Ordino riterius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169588|Latviai]]: Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų.
@@ -171,7 +168,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema).md#claim-t-183919|Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]: 1296 m. žiemą Gardino pilies apylinkių ir papilio puolėjai, be užmuštųjų, išsivarė į nelaisvę 200 žmonių.
 - susijęs iš [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema).md#claim-t-62782|Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]: 1296 m. žiemą broliai persikėlė per užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.
 - susijęs iš [[objektai/ivykiai/Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas.md#claim-t-185720|Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas]]: Po kryžiuočių pralaimėjimo krikščionių valdovai surinko kariuomenes ir atvedė jas į Prūsiją.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis, Algirdo pralaimėjimas ir atsakomasis puolimas į Sembą (1345-1346 m.).md#claim-t-185730|Kryžiuočių žygis, Algirdo pralaimėjimas ir atsakomasis puolimas į Sembą (1345-1346 m.)]]: Kitais metais kryžiuočiai su keturiasdešimčia tūkstančių karių įsiveržė į Lietuvą ir nusiaubė didelius Žemaitijos plotus.
 - susijęs iš [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.).md#claim-t-183945|Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]: Per 1316 m. žygį į Medininkų valsčių grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius.
 - susijęs iš [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.).md#claim-t-62875|Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]: 1316 m. brolis Henrikas su Reino krašto maldininkais nusiaubė Medininkų valsčių, nukovė arba paėmė į nelaisvę 200 žmonių.
 - susijęs iš [[objektai/ivykiai/Paštuvos valsčiaus nusiaubimas (1316 m. žiema).md#claim-t-62427|Paštuvos valsčiaus nusiaubimas (1316 m. žiema)]]: 1316 m. žiemą maršalas Henrikas su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių, jį nusiaubė ir paėmė į nelaisvę arba nukovė 500 žmonių.
@@ -227,43 +223,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš Malburgas: Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių.
 - susijęs iš Malburgas: Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai.
 - susijęs iš Malburgas: Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“
-    apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti
-
-    „Lettonijos [Lietuvos] valdžia siekė valdyti visas šituose kraštuose gyvenančias gentis, tiek
-    krikščionių, tiek pagonių, ir retas kas drįsdavo gyventi savo sodyboje, labiausiai nedrįso
-    lettai. Ir dėl to jie per pavojus palikdavo savo namus ir slėpdavosi miško tankynėse, bet
-    ir čia neišsigelbėdavo nuo lettony; lettonai persekiojo juos miškuose, vienus užmušinėjo,
-    kitus ėmė į nelaisvę, vedė juos į savo žemę ir ėmė iš jų viską kaip savo. Ir bėgo rutenai
-    [rusai] miškais ir kaimais nuo lettonų, net nuo nedaugelio, kaip bėga kiškiai nuo me-
-    džiotojo, o lyviai ir lettai klusniai tarnavo lettonams, davė maistą ir pašarą, kaip avys, be
-    ganytojo patekusios į vilkų gaują.“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-13009

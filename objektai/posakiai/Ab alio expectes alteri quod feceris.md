@@ -65,38 +65,6 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
   teiginys: "Posakis „Ab alio expectes alteri quod feceris“ cituojamas paskutinės valios, testamento ar kodicilo galios aptarime."
   pagrindžia:
     - c-55773
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    posakį: Ab alio expectes alteri quod feceris [Tai, ką padarei vie­
-    nam, sulauksi iš kito]. Tai mūsų paskutinioji valia, bet gana
-    plačiai aprašyta ir aiškiai išreikšta, kad būtų svarbi ir tvirta,
-    jeigu ne kaip testamentas, tai kaip kodicilas, kadangi pagal
-    krikščioniškas teises, kurių visi krikščionių valdovai įpratę
-    bylose laikytis, imperatoriai, karaliai, kunigaikščiai, jokios
-    viršenybės sau juo nepripažindami, testamento arba kodi-
-    cilo galia veikti sine solennibus [be iškilmių], kaip teisininkai
-    sako, Regulis Juris [teisės nuostatomis] ir pareiškę paskutinę
-    savo valią raštu be liudininkų, tai yra daugeliu atvejų ponų
-    tarybų viršesniems žmonėms leista. Taip pat šį perrašytą
-    testamentą mes kartą ir antrą, ir dar keliolika kartų perskai­
-    tę ir išklausę, jį, kaip mūsų nuoširdžia ir gera valia bei palie­
-    pimu parašytą, mūsų signetu, kuriuo paprastai antspauduo­
-    davome slaptus raštus, užantspaudavome ir, kad būtų tikriau
-    ir patikimiau, savo ranka pasirašėme, būdami geros atmin­
-    ties ir sveiko proto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 

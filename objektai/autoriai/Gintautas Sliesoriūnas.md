@@ -41,28 +41,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   pagrindžia:
     - c-42407
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Gintautas Sliesoriūnas gimė 1964 m. ir 1989 m. baigė Vilniaus universiteto Istorijos fakulteto istorijos specialybę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gintautas Sliesoriūnas (gimęs 1964 m.), 1989 m. baigė Vilniaus
-    universiteto Istorijos fakultetą, istorijos specialybę. 1997 m. Vy-
-    tauto Didžiojo universitete ir Lietuvos istorijos institute apgynė
-    daktaro disertaciją. Lietuvos istorijos instituto Lietuvos Didžiosios
-    Kunigaikštystės istorijos skyriaus mokslo darbuotojas. Mokslinių
-    tyrimų sritis - Lietuvos Didžiosios Kunigaikštystės visuomeninė
-    politinė istorija xvi a. pab. - xviII a. vid.; Lietuvos Didžiosios Ku-
-    nigaikštystės politinių grupuočių kova xvii a. pab. - XVIII a. pr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-42407

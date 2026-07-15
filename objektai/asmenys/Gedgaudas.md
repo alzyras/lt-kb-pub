@@ -43,24 +43,6 @@ Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogail�
   teiginys: "1429 m. Vytautas pasiuntė Vilniaus vaivadą Gedgaudą į Lenčicą kaip savo delegatą pas Jogailą."
   pagrindžia:
     - c-35953
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kai sužinojo, kad kryžiuočių
-    pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­
-    siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­
-    num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­
-    poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
-    tauto laišką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

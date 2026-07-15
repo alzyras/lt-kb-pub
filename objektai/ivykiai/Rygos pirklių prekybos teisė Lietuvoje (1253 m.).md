@@ -64,38 +64,6 @@ Nenurodyta
   teiginys: "Rygai rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių."
   pagrindžia:
     - c-91587
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Rygai
-    rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
-    Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
-    išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
-    Dviejų metų paliaubos buvo pasinengimas tolimesnei kovai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    rygiečiai esą galėję vieni pas kitus keliauti ir prekiauti^159. Rygai
-    rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
-    Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
-    išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

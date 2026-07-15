@@ -35,8 +35,8 @@ Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiem
   teiginys: "Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiems atneša grūdų ir pripila malant."
   pagrindžia:
     - c-172216
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiems atneša grūdų ir pripila malant.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -58,13 +58,17 @@ Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiem
 - id: c-172216
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 178"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Rungis (Rungis)
-    Malūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­
-    dų ir malant pripila. Sako, kad gyvena pas savo garbintojus,
-    pasivertęs juodu katinu. Tas mitas pastebėtas ir tarp latvių .
+    Tai buvo dvasios, arba genijai, pasirodantys kerėpliškų ir
+    barzdotų neūžaugų pavidalu, vienų metų vaiko išvaizdos, bet
+    turėjo sieksnines barzdas. Vis dėlto jie buvo labai greiti ir vik­
+    rūs. Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
+    pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­
+    teikia Upsalos arkivyskupo Olafo, Agripos ir kitų lengvatikių,
+    kaip ir jis pats, rašytojų liudijimus, nes sako: „Kurše, Livonijo­
+    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (?
+  citata_rodoma: "Rungis (Rungis)\nMalūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­\ndų ir malant pripila. Sako, kad gyvena pas savo garbintojus,\npasivertęs juodu katinu. Tas mitas pastebėtas ir tarp latvių ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

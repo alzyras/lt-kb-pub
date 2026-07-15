@@ -36,25 +36,6 @@ media_all_json: |-
   teiginys: "Buvo teigiama, kad ir nekarūnuotas ciesorius turi teisę teikti karališkąsias investitūras."
   pagrindžia:
     - c-38736
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
-    nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala. Šis įro­
-    dinėjo, kad ir neapkarūnuotas ciesorius turįs teisę teikti inves­
-    titūras į karalius; o Zigmanto valdžia paeinanti ne iš karūna­
-    cijos fakto, bet iš elektorių rinkimo. Po jo atsiliepė ir Vienos
-    universiteto profesoriai, pakviesti Zigmanto pareiškti savo
-    nuomonę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

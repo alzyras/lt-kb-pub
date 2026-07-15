@@ -54,25 +54,6 @@ Nenurodyta
   teiginys: "1811 m. Oginskis įteikė carui memorialą dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių."
   pagrindžia:
     - c-02081
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    lyginti su kitų Rusijos sričių mokesčiais. Patsai Oginskis dėl to
-    pasidarė populiariu bajorijos vadu. Jis pats tuo tarpu pradėjo
-    rūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos že-
-    mių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įtei-
-    kė carui memorialą — ku-
-    nigaikštijos sudarymo pro-
-    jektą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

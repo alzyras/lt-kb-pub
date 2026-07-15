@@ -59,8 +59,8 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
   teiginys: "Narbuto aiškinimu, Salavijos pavadinimas kilo iš lietuviško žodžio Szalin, nes ji laikyta toliausiai į šiaurę plytinčia žeme."
   pagrindžia:
     - c-175073
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -83,13 +83,15 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
 - id: c-175073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Salavija {Szalamonia). Pavadinimas kilęs iš lietuviško
-    žodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­
-    tinčia žeme. Salavija nebuvo tikra prūsų lygos provincija,
-    nes jai priklausė Rusia.
+    Salavija nebuvo tikra prūsų lygos provincija,
+    nes jai priklausė Rusia. Tačiau, kai joje dar prieš bendrą
+    prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi­
+    gyveno kryžiuočių, daugiausia iš Lietuvos atsikėlusių
+    žmonių, dėl to ją ligi šiol vadina prūsų Lietuva. Jos sos­
+    to arba svarbesnė pilis buvo Salava, be to, manoma,
+    kad Tilžės apylinkėse.
   citata_rodoma: "Pavadinimas kilęs iš lietuviško\nžodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­\ntinčia žeme."
   statusas: verified
   teiginio_tipas: faktas
@@ -98,4 +100,3 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
   pagrindzia:
     - t-192221
     - t-192578
-    - t-004

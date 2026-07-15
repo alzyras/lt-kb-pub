@@ -65,49 +65,6 @@ media_all_json: |-
   teiginys: "Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir formavo „antemurale Christianitatis“ ideologiją."
   pagrindžia:
     - c-76021
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti
-    žūtbūtinėje kovoje prieš kryžiuočių ekspansiją ir įsigyti vietą
-
-    Europoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civili-
-    zaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai palikę tik
-    barjero tarp Rytų ir Vakarų vaidmenį. Jau pirmieji krikščioniški
-    Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-
-    tiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius,
-    formuodami „antemurale Christianitatis“ ideologiją. Garsiajame
-    Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
-    Europos valdovai svarstyti jau nebe Kryžiuočių ordino, o Osmanų
-    imperijos keliamo pavojaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Antemurale Christianitatis“! Lietuvos kova Vakarų civiliza-
-    cijos vertybių pusėje turi gilią tradiciją. Pirmiausia prisiminkime
-    šiandien labai populiarų S. Huntingtono Vakarų civilizacijos po-
-    žymių išvardijimą: klasikinės (antikinės) civilizacijos paveldas,
-    Vakarų (o ne Rytų) krikščionybė, kalbų daugybiškumas, dvasinės
-    ir pasaulietinės valdžios atskirumas, teisės primatas, socialinis
-    pliuralizmas, politinis atstovavimas, individualizmas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

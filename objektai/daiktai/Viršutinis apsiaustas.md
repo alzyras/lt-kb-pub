@@ -53,6 +53,7 @@ Nenurodyta
   teiginys: "Piemens aprūpinimo aprašyme viršutinis apsiaustas duodamas kaip atskira aprangos dalis."
   pagrindžia:
     - c-177697
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

@@ -36,26 +36,6 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
   pagrindžia:
     - c-38594
 - susijęs iš Uždauguvis: Vytautas Uždauguvyje turėjo vietininkų mokesčiams rinkti, nors ten nebuvo jo dvarų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Juos rinkdavo Vytauto dvaruose gyvenantieji vietininkai ir
-    kartu su dvarų pelnu pristatydavo didž. kunigaikščiui. Mokes­
-    čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo
-    dvarų, kaip Uždauguvio ir Padnieprės srityse.
-    Kadangi Vytauto laikais vyko persilaužimas tarp natūrali­
-    nio ir piniginio ūkio, tai mokesčiai buvo mokami natūra ir pi­
-    nigais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38594

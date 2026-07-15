@@ -35,25 +35,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   teiginys: "Posakyje Lietuva vadinama kraštu, kuriame labai pavojinga gyventi mažai tautai."
   pagrindžia:
     - c-23570
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
-    tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
-    tus, o rusai į vakarus. Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga
-    aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikė-
-    tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors
-    Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas),
-    ji dažnai laikoma Rytų Europos dalimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

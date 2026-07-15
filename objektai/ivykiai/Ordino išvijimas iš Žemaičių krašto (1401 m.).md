@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "1401 m. Vytautas išvijo Ordiną iš Žemaičių krašto ir sutrukdė jo siekiui sausuma sujungti abu Ordinus."
   pagrindžia:
     - c-37043
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1401 m. Vytautas išvijo Ordiną iš Žemaičių krašto ir sutrukdė jo siekiui sausuma sujungti abu Ordinus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tada Vytautas
-    ėmė daryti nepalankių žygių prieš Ordiną. Išvijo jį iš Žemaičių
-    krašto (1401 m.), vėl jam sumaišydamas kortas: nuo Mindau­
-    go laikų dėtos pastangos užkariauti Žemaitiją, kad galėtų sau­
-    sažemiu susijungti abu Ordinai, vėl liko sutrukdytos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

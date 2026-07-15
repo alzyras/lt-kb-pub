@@ -9,16 +9,16 @@ datos:
   - '1410 m.'
 date_start: '1336'
 date_end: '1410'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-amziai:
-  - 'XIV'
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -79,35 +79,6 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
 - susijęs iš Pabaiskas: Pabaiskas buvo kalvota, bet atvira ir gana graži vietovė prie naujos mūrinės bažnyčios.
 - susijęs iš Viktorijos upelis: Balińskis Viktorijos upelį apibūdino kaip mažą, bet vertą gražaus vardo.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m.
-    rudenį (X.8) iki kitų metų šv. Jono (VI.24) buvo padarytos paliau­
-    bos 1 2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Sprendimu Vaclovo, kuris iš kryžiuočių
-    už tai gavo keliasdešimt tūkstančių vengriškų « raudonųjų », Pra­
-    goję 1410.II.15 d. buvo surašytas naujas dokumentas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-003
   santrauka: 'Vaclovas, dar vadintas Vanka, buvo Mazovijos kunigaikštis ir Algirdo sesers vyras.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -168,8 +139,7 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
 - id: c-168212
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 226."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kadangi tyli ir metraš­
     tininkai, aišku, kad artimiausiais metais ir su kaimy­
@@ -183,7 +153,9 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
     mene lapkričio mėnesį nu­
     niokojo Mažo vi ją; žygyje dalyvavo pats Algirdas su
     kitais broliais; rašoma, jog buvo išvesta tūkstantis du
-    šimtai belaisvių.
+    šimtai belaisvių. Vis dėlto tėvynėje jie patyrė ne ma­
+    žesnių nuostolių iš vokiečių.
+  citata_rodoma: "Kadangi tyli ir metraš­\ntininkai, aišku, kad artimiausiais metais ir su kaimy­\nnais gyventa santaikoje, ir valstybės viduje nebuvo\njokių sambrūzdžių. Ramybė liovėsi, kai mirė Vanka,\narba Vaclovas, Mazovijos kunigaikštis (vedęs Algirdo\nseserį). Lietuviai, manydami, jog kunigaikščio mirtimi\nnutraukiama ir giminystė, ir\n1336 m e ta i\nsantarvė, su didžiule kariuo­\nmene lapkričio mėnesį nu­\nniokojo Mažo vi ją; žygyje dalyvavo pats Algirdas su\nkitais broliais; rašoma, jog buvo išvesta tūkstantis du\nšimtai belaisvių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

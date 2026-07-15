@@ -46,37 +46,6 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
   teiginys: "Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui."
   pagrindžia:
     - c-156016
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvoje karių
-    kapuose rastos
-    sidabruotos
-    geležinės
-    XI-XIII a.
-    balnakilpės
-
-    = L
-
-    se
-
-    KRISTAUS KARIŲ BROLIJOS LIKIMAS
-
-    Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ apie 1236 m. Saulės mūšį ir jo
-    pasekmes Kalavijuočių ordinui.
-
-    „Po daugelio garsių ir laimingų kovų su netikėliais magistras Volkvinas su kariuomene
-    žygiavo į netikėlių lietuvių kraštą kartu su Haseldorpo ir ponu Donnenbergo grafu, ir
-    ten Saulės žemėje (terram Sauleorum) šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

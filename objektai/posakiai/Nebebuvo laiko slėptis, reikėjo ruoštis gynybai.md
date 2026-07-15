@@ -35,25 +35,6 @@ Nebebuvo laiko slėptis, reikėjo ruoštis gynybai.
   teiginys: "Artėjant tanketėms, sunkvežimiams ir gurguolėms, nebebuvo laiko slėptis ir reikėjo ruoštis gynybai."
   pagrindžia:
     - c-44957
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Artėjant tanketėms, sunkvežimiams ir gurguolėms, nebebuvo laiko slėptis ir reikėjo ruoštis gynybai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Netrukus
-    miško link pradėjo važiuoti tanketės, sunk-
-    vežimiai, gurguolės, o lėktuvas vėl ėmė
-    skraidyti virš miško. Nebebuvo laiko slėp-
-    tis, reikėjo ruoštis gynybai. Mūšis prasi-
-    dėjo ankstų rytą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

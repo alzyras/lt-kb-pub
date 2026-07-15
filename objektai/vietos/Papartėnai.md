@@ -35,24 +35,6 @@ Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi 
   teiginys: "Persekiojami kryžiuočiai vis dėlto nuėjo iki Papartėnų netoli Kernavės."
   pagrindžia:
     - c-38596
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    O
-    Vytautas, pasislėpęs miškuose, naikino atsiskyrusius Ordino
-    pulkus ir gurguoles. Nors ir smarkiai kryžiuočiai buvo perse­
-    kiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).
-
-    (^1) ) C. ep.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

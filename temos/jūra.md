@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 22
+tema_objektu_skaicius: 21
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 22.
+Objektų skaičius: 21.
 
 ## Kaip naudoti
 
@@ -37,7 +37,6 @@ Objektų skaičius: 22.
 - [[objektai/vietos/Juodoji jūra]]
 - [[objektai/vietos/Kaspijos jūra]]
 - [[objektai/vietos/Klaipėda Memelis]]
-- [[objektai/vietos/Mazovija]]
 - [[objektai/vietos/Memelis]]
 - [[objektai/vietos/Olandiška Skrybėlė]]
 - [[objektai/vietos/Podolė]]

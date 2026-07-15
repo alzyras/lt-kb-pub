@@ -79,84 +79,6 @@ media_all_json: |-
   teiginys: "1949 m. vasario 16 d. LLKS tarybos deklaracija nubrėžė atkurtos nepriklausomos demokratinės Lietuvos Respublikos ateities raidos gaires."
   pagrindžia:
     - c-43273
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1949 m. vasario 16 d. LLKS tarybos deklaracija nubrėžė atkurtos nepriklausomos demokratinės Lietuvos Respublikos ateities raidos gaires.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tačiau jie
-
-    ## Puslapis 235
-
-    LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA
-
-    1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas,
-    kuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą
-    organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs). Suvažiavimas
-    patvirtino dokumentus, įteisinusius LLKs vadovavimą politinei ir
-    karinei tautos išlaisvinimo kovai. 1949 m. vasario 16 d. LLKS tarybos
-    patvirtinta deklaracija aukščiausia teisėta valdžia Lietuvoje paskelbė
-
-    atkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė
-    jos ateities raidos gaires.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  santrauka: '1949 m. vasarį partizanų apygardų atstovų suvažiavimas suvienijo antisovietinio pasipriešinimo kovotojus į Lietuvos laisvės kovos sąjūdį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Suvažiavime
-    aptarti svarbiausi partizanų veik-
-    lą reglamentuojantys dokumentai,
-    numatyta bendra kovos strategija ir taktikos kryptys, suformuota aukš-
-    čiausioji partizanų vadovybė. LLKS Tarybos prezidiumo pirmininku iš-
-    rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno
-    karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
-    rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
-    jam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-
-    imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
-    atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
-    suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
-    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
-    sudarytą vyriausybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-003
-  santrauka: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos valdymo principai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LLKS Tarybos prezidiumo pirmininku iš-
-    rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno
-    karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
-    rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
-    jam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-
-    imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
-    atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
-    suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
-    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
-    sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
-    organu iki laisvų demokratinių Seimo rinkimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -212,8 +134,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-108558
     - t-108556
+    - t-108558
 
 - id: c-100711
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

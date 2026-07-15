@@ -8,15 +8,15 @@ datos:
   - '1864 m.'
 date_start: '1863'
 date_end: '1864'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sukilėlis
   - asmuo
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -62,8 +62,8 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
   teiginys: "1863 m. sukilime Pranciškus Narbutas išėjo į miškus, o vėliau spėjo pasitraukti į užsienį."
   pagrindžia:
     - c-170887
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1863 m. sukilime Pranciškus Narbutas išėjo į miškus, o vėliau spėjo pasitraukti į užsienį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -89,17 +89,19 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
 - id: c-170887
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 13"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Sėkmingai iš­
-    vengęs kalniečių kulkų, L. Narbutas žuvo Lietuvoje 1863 m.
-    pavasarį. 1863 m. sukilime aktyviai dalyvavo visa Narbutų šei­
-    ma: į miškus išėjo sūnūs Boleslovas, Pranciškus.
-    Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­
-    ti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­
-    ciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­
-    rėjas 1864 m. lapkričio 26 d. mirė Vilniuje.
+    XIX a. pirmosios pusės Lietu­
+    vos bajorų lenkiška romantinės pakraipos kūryba aušrininkams
+    buvo labai artima ir suprantama. Jonas Spudulis rašė Adomui
+    Dambrauskui-Jakštui: „Bet juk žinai, kad ne tik pas lietuvius,
+    ir pas kitas tautas buvo tokie pat vyrai, kurie nerašė savo pri­
+    gimtoje „motinos“ kalboje, vienok pagarbino ir pakėlė savo
+    tėvynę ir atnešė jai nemažą naudą, nors ir ne taip gausią, kaip
+    tai būtų padarę rašydami savotiškoje kalboje“15.
+    XIX-XX a. sandūroje vis stiprėjantis politinis ir kultūrinis
+    lietuvių ir lenkų antagonizmas negalėjo neatsiliepti vertinant
+    Lietuvos kultūrinę tradiciją.
   citata_rodoma: "1863 m. sukilime aktyviai dalyvavo visa Narbutų šei­\nma: į miškus išėjo sūnūs Boleslovas, Pranciškus.\nSukilimo slopintojas Michailas Muravjovas norėjo ištrem­\nti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­\nciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­\nrėjas 1864 m. lapkričio 26 d. mirė Vilniuje."
   statusas: verified
   teiginio_tipas: faktas

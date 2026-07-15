@@ -35,32 +35,12 @@ Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gav
   pagrindžia:
     - c-174291
 - susijęs iš Vitliandija: Narbutas spėjo, kad sagos minima Vindliandija arba Vitlanda galėjo būti prūsų provincija Vitliandija prie Priegliaus žiočių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gavo Vindliandiją, arba Vitlandą; įvykiai siejami su III a.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Norvegas Heidrigas
-    vedė šią reto grožio moterį ir gavo 'kraičio Vindliandiją,
-    arba Vitlandą. Ko gero, čia kalbama apie buvusią prūsų
-    provinciją Vitliandiją prie Priegliaus žiočių; ją mes jau
-    ne sykį minėjome. Visi Šie įvykiai siejami su III amžiumi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 243"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Norvegas Heidrigas
     vedė šią reto grožio moterį ir gavo 'kraičio Vindliandiją,

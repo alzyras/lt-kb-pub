@@ -7,7 +7,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - citata
+  - ginklas
   - posakis
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,34 +51,15 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   teiginys: "Dusburgietis Grigaliui priskiria mintį, kad kankiniu galima būti ir be kalavijo ar liepsnų, jei sieloje išsaugoma kantrybė."
   pagrindžia:
     - c-59684
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Dusburgietis kantrybę vadina priemone laimėti kovą ir cituoja posakį, kad pasikliaujantis kantrumu laimi.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Judą Makabėjų
-    pasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą,
-    kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai
-    kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio kariuomenė turėjo
-    bėgti. (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė laimėti kovą, būtent kantrybė,
-    kuri padėjusi Kristaus kankiniams išsaugoti tyras savo sielas, apie ją ir poetas sako:
-
-                     Pergalės būdas tikriausias — kantrybė, tas kovą laimi,
-                   Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
-
-      o kitoje vietoje:
-
-                    Vien tik kantrybė, dorybių viršūnė, įstengia
-                         Ir beginklį įveikt, ir ginkluotą parblokšt!
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197052"></a>
+- t-004
+  global_id: t-197052
+  teiginys: "Jeronimas priduria: „Negi gali būti kas vainikuotas šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios neteisybės, nei kantrios teisybės."
   pagrindžia:
-    - t-001
+    - c-59682
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Dusburgietis kantrybę vadina dorybių viršūne, galinčia įveikti ir beginklį, ir ginkluotą priešininką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -117,23 +100,13 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
 - id: c-59682
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Judą Makabėjų
-    pasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą,
-    kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai
-    kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio kariuomenė turėjo
-    bėgti. (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė laimėti kovą, būtent kantrybė,
-    kuri padėjusi Kristaus kankiniams išsaugoti tyras savo sielas, apie ją ir poetas sako:
-
-                     Pergalės būdas tikriausias — kantrybė, tas kovą laimi,
-                   Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
-
-      o kitoje vietoje:
-
-                    Vien tik kantrybė, dorybių viršūnė, įstengia
-                         Ir beginklį įveikt, ir ginkluotą parblokšt!
+    Jeronimas priduria: „Negi gali būti kas vainikuotas
+    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
+    neteisybės, nei kantrios teisybės. Šitaip prasidėjo naujas karas, šitaip pradėta vartoti
+    naujas kovos priemones, leidusias mums dvasios ginklais nugalėti tikybos ir bažnyčios
+    priešus.
   citata_rodoma: "(1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė laimėti kovą, būtent kantrybė,\nkuri padėjusi Kristaus kankiniams išsaugoti tyras savo sielas, apie ją ir poetas sako:\n\n                 Pergalės būdas tikriausias — kantrybė, tas kovą laimi,\n               Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!\n\n  o kitoje vietoje:\n\n                Vien tik kantrybė, dorybių viršūnė, įstengia\n                     Ir beginklį įveikt, ir ginkluotą parblokšt!"
   statusas: verified
   teiginio_tipas: faktas
@@ -141,20 +114,26 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59050
+    - t-197052
 
 - id: c-59683
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
     o kitoje vietoje:
 
-                    Vien tik kantrybė, dorybių viršūnė, įstengia
-                         Ir beginklį įveikt, ir ginkluotą parblokšt!
 
-      Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
+
+    Vien tik kantrybė, dorybių viršūnė, įstengia
+
+
+
+    Ir beginklį įveikt, ir ginkluotą parblokšt!
+    Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
     jei sieloje tikrai išsaugome kantrybę“.
+  citata_rodoma: "o kitoje vietoje:\n\n                Vien tik kantrybė, dorybių viršūnė, įstengia\n                     Ir beginklį įveikt, ir ginkluotą parblokšt!\n\n  Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,\njei sieloje tikrai išsaugome kantrybę“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -165,13 +144,15 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
 - id: c-59684
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
-    jei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas
-    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
-    neteisybės, nei kantrios teisybės.
+    10 (8).  Apie pirmąją Teutonų namų ordino brolių pilį, kurią vadino Fogelzangu
+    Aptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226).
+    Kadangi minėtieji Teutonų namų ordino broliai, tai yra brolis Konradas bei jo bičiulis,
+    neturėjo kur Prūsijos žemėje, minėtojo Lenkijos kunigaikščio jau anksčiau jiems
+    atiduotoje, galvos priglausti, juodu sugalvojo iš toliau siekti užsibrėžto tikslo, iš už Vyslos,
+    kuri juos saugotų, būdama tarp jų ir prūsų.
+  citata_rodoma: "Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,\njei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas\nšventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios\nneteisybės, nei kantrios teisybės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

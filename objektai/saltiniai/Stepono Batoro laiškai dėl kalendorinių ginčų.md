@@ -40,45 +40,6 @@ media_all_json: |-
   teiginys: "1586 m. liepos 11 d. Steponas Batoras įsakė Vilniaus gyventojams įprastas šventes švęsti pagal naują kalendorių."
   pagrindžia:
     - c-84456
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1586 m. liepos 11 d. Steponas Batoras įsakė Vilniaus gyventojams įprastas šventes švęsti pagal naują kalendorių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O s i ń s k i, O życiu i pismach X. Piot­
-    ra Skargi, 1. 21.
-    67
-    Be karaliaus Stepono laiškų, rašytų
-    dėl kalendorinių ginčų, Dubins-
-    k i o išspausdintų „Vilniaus miesto
-    privilegijų rinkinyje", p. 149 ir 150,
-    dar miesto archyve yra reliacinis ka­
-    raliaus Stepono sprendimas: Decre­
-    tum relationum Stephani Regis Polo-
-    niae inter nonnullos mercatores
-    vilnenses et advocatum Vilnensem ex
-    seriis partium controversiis anno 1586
-    die 11 Julii latum, quo festa solemnia
-    juxta novum calendarium ab omnibus
-    incolis civitatis vilnensis in ea qua par
-    est reverentia haberi demandantur [Re­
-    liacinis Lenkijos karaliaus Stepono
-    sprendimas dėl tarp kai kurių Vil­
-    niaus pirklių ir Vilniaus vaito šalių
-    rimtų prieštaravimų, išleistas 1586
-    metų liepos 11 dieną, kuriuo įpras­
-    tas šventes pagal naują kalendorių
-    įsakoma visiems Vilniaus gyvento­
-    jams su lygiai tokia pačia pagarba
-    švęsti]; jo turinys yra toks.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

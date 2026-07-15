@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Mechmet Girėjus, Mengli Girėjaus sūnus, smarkiai ir plačiai nusiaubė Lietuvą. Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
+Mechmet Girėjus, Mengli Girėjaus sūnus, smarkiai ir plačiai nusiaubė Lietuvą. Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu. Mengli Girėjaus kariai, vedami jo sūnų, nusiaubė Lietuvą ir pridarė daug žalos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -54,87 +54,50 @@ Nenurodyta
   teiginys: "Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu."
   pagrindžia:
     - c-169114
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Mechmet Girėjus, Mengli Girėjaus sūnus, smarkiai ir plačiai nusiaubė Lietuvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vaivada Goštautas, pilies seniūnas
-    Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai
-    taip nukamavo priešą, šaudydami iš patrankų bei reng­
-    dami išpuolius, kad tas, nebesitikėdamas užkariauti pi­
-    lies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas
-    smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus
-    sūnus Mechmet Girėjus. Nužygiavęs ligi Minsko, jis
-    visur nuniokojo kraštą, sudegino miestą, o matydamas,
-    jog pilies nieku būdu greitai neužims, jos neapgulė,
-    bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko
-    ir Vitebsko žemes, niekur nesutikdamas pasipriešini­
-    mo, ir sugrįžo atgal su didžiausiu grobiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196222"></a>
+- t-003
+  global_id: t-196222
+  teiginys: "Mengli Girėjaus kariai, vedami jo sūnų, nusiaubė Lietuvą ir pridarė daug žalos."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nužygiavęs ligi Minsko, jis
-    visur nuniokojo kraštą, sudegino miestą, o matydamas,
-    jog pilies nieku būdu greitai neužims, jos neapgulė,
-    bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko
-    ir Vitebsko žemes, niekur nesutikdamas pasipriešini­
-    mo, ir sugrįžo atgal su didžiausiu grobiu. Žmonės pa­
-    sakojo, kad šimtą tūkstančių žmonių, jaunų ir stiprių,
-    priešas išsivarė iš Baltarusijos ir Lietuvos į nelaisvę,
-    neskaitant žuvusių visokiausiose skerdynėse nuo kar­
-    do senių bei vaikų. Po priešo niokojamo antpuolio
-    Minske ir kituose miestuose užėjo maras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-169113
 
 ## Citatos
 
 - id: c-169113
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 583"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vaivada Goštautas, pilies seniūnas
-    Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai
-    taip nukamavo priešą, šaudydami iš patrankų bei reng­
-    dami išpuolius, kad tas, nebesitikėdamas užkariauti pi­
-    lies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas
-    smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus
-    sūnus Mechmet Girėjus. Nužygiavęs ligi Minsko, jis
-    visur nuniokojo kraštą, sudegino miestą, o matydamas,
-    jog pilies nieku būdu greitai neužims, jos neapgulė,
-    bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko
-    ir Vitebsko žemes, niekur nesutikdamas pasipriešini­
-    mo, ir sugrįžo atgal su didžiausiu grobiu.
+    Patariamas Nogajų ordos skitų, bandė iš ten pabėgti,
+    tačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur
+    dar stipriau saugojo, ypač
+    K ry m o sk ita i n io k o -
+    dėl to, kad Krymo chanas
+    ja L ie tu v ą
+    Mengli Girėjus per pasiunti­
+    nius žadėjo karaliui taiką ir
+    pagalbą, jeigu šis neleis Šich Achmetui pasprukti. Ne­
+    rasdamas užtarėjų žemėje, Šich Achmetas kreipėsi mal­
+    domis į dangų, norėdamas, atgavęs aukščiausiojo ma­
+    lonę, atkeršyti jo padedamas už skriaudas. Išklausė
+    dangus varguolio maldų. Mengli Girėjaus kariai, veda­
+    mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­
+    los. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
+    jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
+    jūčio viduryje užpuolė Slucką.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185752
+    - t-196222
 
 - id: c-169114
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 583"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nužygiavęs ligi Minsko, jis
     visur nuniokojo kraštą, sudegino miestą, o matydamas,

@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "1392 m. rudenį kryžiuočiai įsiveržė į Lietuvą, užpuolė Suražiaus pilį, ją paėmė ir sudegino."
   pagrindžia:
     - c-35778
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dar 1392 m.
-    rudenį kryžiuočiai suruošė žygį į Lietuvą. Sulaukė didelio
-    skaičiaus svečių iš Vakarų Europos, vadovaujami maršalkos
-    Engelhardo Rabė, įsiveržė į Lietuvą, užpuolė Suražiaus pilį,
-    paėmė ją ir sudegino. Grįžo į Prūsus vedini keletu šimtų be­
-    laisvių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -34,8 +34,8 @@ Hugo Grotius.
   teiginys: "Hugo Grotius."
   pagrindžia:
     - c-177292
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hugo Grotius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -54,10 +54,12 @@ Hugo Grotius.
 - id: c-177292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    3 Hugo Grotius. Prolegom. ad Hist. Longobard. Pauli Diaconi.
+    dų“'. Rytuose ji ribojosi su Sudargija, pietuose — su
+    Barta, vakaruose — su Natangija ir Sambija, o šiaurė­
+    je — su Salavija.
+  citata_rodoma: "3 Hugo Grotius. Prolegom. ad Hist. Longobard. Pauli Diaconi."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

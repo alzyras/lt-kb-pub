@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 22
+tema_objektu_skaicius: 23
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 22.
+Objektų skaičius: 23.
 
 ## Kaip naudoti
 
@@ -37,6 +37,7 @@ Objektų skaičius: 22.
 - [[objektai/paprociai/Lydimoji žemdirbystė]]
 - [[objektai/paprociai/Lyčių pasiskirstymas ūkio ir namų darbuose]]
 - [[objektai/paprociai/Moterų vėžiavimas]]
+- [[objektai/paprociai/Naktinis faraono lošimas per vizitus]]
 - [[objektai/paprociai/Oonų mityba vandens paukščių kiaušiniais ir avižomis]]
 - [[objektai/paprociai/Savarankiškas ūkio ir namų dirbinių gaminimas]]
 - [[objektai/paprociai/Senosios gadynės kasdienybė]]

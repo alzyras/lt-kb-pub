@@ -43,29 +43,13 @@ Dusburgietis teigia, kad matusevičiūtė I.
   teiginys: "I. Matusevičiūtė 1939 m. paskelbė straipsnį „Kiek naujos medžiagos prūsų vardynui“."
   pagrindžia:
     - c-61382
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'I. Matusevičiūtė 1939 m. paskelbė straipsnį „Kiek naujos medžiagos prūsų vardynui“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Matusevičiūtė I. Kiek naujos medžiagos prūsų vardynui.— Archivum philologicum. K.,
-    1939, kn. 8, p. 10—18.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61382
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Matusevičiūtė I. Kiek naujos medžiagos prūsų vardynui.— Archivum philologicum. K.,
     1939, kn. 8, p. 10—18.

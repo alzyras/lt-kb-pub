@@ -35,8 +35,8 @@ Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.
   teiginys: "Bagrationovskas anksčiau vadintas Prūsų Ylava."
   pagrindžia:
     - c-59318
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bagrationovskas anksčiau vadintas Prūsų Ylava.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -59,14 +59,16 @@ Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.
 - id: c-59318
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 299"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 299."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Bačkininkėliai
-    Bagrationovskas (buv. Pr. Ylava)
-    Bajerburgas
-    Baldensheimas
-    Baiga (Honeda, Vundenava, dab.
+    brolių, Teutonų namų) ordinas (Teutonų namų broliai; broliai, kryžiuočiai, Ordinas) žr.
+    visoje knygoje
+    Kroicburgas (Crucebergk, Cruceburgk; dab. Slavskojė)
+    Krokuva
+    Kronsvicas
+    Krušvica
+    Kujavija
+  citata_rodoma: "Bačkininkėliai\nBagrationovskas (buv. Pr. Ylava)\nBajerburgas\nBaldensheimas\nBaiga (Honeda, Vundenava, dab."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

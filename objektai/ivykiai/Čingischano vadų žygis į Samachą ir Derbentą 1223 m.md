@@ -64,57 +64,13 @@ Nenurodyta
   teiginys: "Erbelotas minėjo alanų karaliuką, valdžiusį savo genties ordą, kuri klajojo į šiaurę nuo Derbento."
   pagrindžia:
     - c-175281
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas pasakoja, kad prie Samachos ir Derbento apsupti Čingischano vadai susitarė su poloviečiais, kad šie paliktų alanus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Staiga jie suvokė esą apsupti
-    poloviečių ir alanų, šio krašto tautų: jiems tuomet pri­
-    klausė šie miestai. Esant tokiai situacijai, apdairūs va­
-    dai susitarė su gimininga poloviečių tauta, kad šie pa­
-    liktų jiems svetimą alanų giminę1. Iš to įsitikiname, jog
-    poloviečiai buvo hunų arba mongolų palikuonys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Erbelotas minėjo alanų karaliuką, valdžiusį savo genties ordą, kuri klajojo į šiaurę nuo Derbento.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Erbelotas* mini vieną
-    alanų karaliuką, viešpatavusį savo genties ordoje, kuri
-    klajojo kažkur į šiaurę nuo Derbento1. Čingischano va­
-    dai irgi kariavo 1223 metais toje pačioje ¡pusėje su ala­
-    nais, kuriems pusiau su poloviečiais priklausė Dagesta­
-    nas, nors jų kilmė ir kalba buvo visiškai skirtingos2. Ka­
-    talikų vienuoliai Karpinas ir Rusbergas, arba Rubrikvis,
-    keliavę XIII amžiuje per Rytus į didelę mongolų ordą,
-    kalba apie Kaukazo alanus, kuriuos taip pat vadina Jassi,
-    Asses, Aries; jie tuomet buvę krikščionys, gabūs kalviai
-    ir šaltkalviai, gaminę puikius ginklus ir saugoję savo ne­
-    priklausomybę3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-174897
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 110"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 110."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Staiga jie suvokė esą apsupti
     poloviečių ir alanų, šio krašto tautų: jiems tuomet pri­
@@ -133,8 +89,7 @@ Nenurodyta
 - id: c-175281
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 65"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 65."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Erbelotas* mini vieną
     alanų karaliuką, viešpatavusį savo genties ordoje, kuri

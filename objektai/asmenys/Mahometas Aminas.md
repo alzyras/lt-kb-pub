@@ -35,34 +35,6 @@ Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis L
   teiginys: "Kazanės chanas Mahometas Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą."
   pagrindžia:
     - c-44449
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mengli-Girėjus, gavęs žinią apie toto-
-    riams fatališkai pasibaigusį mūšį, tuojau pat
-    išsiuntė savo pasiuntinį į Vilnių, kuris turėjo
-    pranešti, kad chanas labai noriai laikysis ge-
-    gužės mėnesį suderėtos taikos. Pasiuntinys
-    taip pat gabeno Kazanės chano Mahometo-
-
-    Amino laišką, kuriame jis Lietuvai siūlė są-
-
-    jungą prieš Maskvą. Naujasis LDK valdovas
-
-    Žygimantas Senasis ir taip turėjo reikalų į
-
-    valias, todėl sąjunga su Krymu buvo patvir-
-
-    tinta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

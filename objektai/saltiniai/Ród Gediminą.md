@@ -42,20 +42,6 @@ Wolff = Wolff, Józef, Ród Gediminą.
   teiginys: "Józefo Wolffo veikalas „Ród Gediminą“ buvo išleistas Krokuvoje 1886 m."
   pagrindžia:
     - c-36211
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Wolff = Wolff, Józef, Ród Gediminą. Kraków, 1886.
-    Žerb.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

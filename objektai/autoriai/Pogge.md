@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas (tas pats ir straipsnis „Kobham“); Pogge.
+La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas (tas pats ir straipsnis „Kobham“); Pogge. Pogge buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
 
 ## Teiginiai
 
@@ -35,37 +35,30 @@ La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (
   teiginys: "La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas (tas pats ir straipsnis „Kobham“); Pogge."
   pagrindžia:
     - c-177244
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas (tas pats ir straipsnis „Kobham“); Pogge.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    2 La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Ba-
-    yle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas
-    (tas pats ir straipsnis „Kobham“); Pogge. Epistola ad Aretinum.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197335"></a>
+- t-002
+  global_id: t-197335
+  teiginys: "Pogge buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
   pagrindžia:
-    - t-001
+    - c-177244
 
 ## Citatos
 
 - id: c-177244
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 398"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 398."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    2 La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Ba-
-    yle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas
-    (tas pats ir straipsnis „Kobham“); Pogge. Epistola ad Aretinum.
+    Taip anot pono Foigto tyrimų.
+    Tautinė senovės prūsų vėliava, kurią nešdavo karo žygiuo­
+    se ir iškeldavo pilių bokštuose, kai joms grėsdavo priešas. Is­
+    torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
+    ir ją išmatavęs: ji buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194848
+    - t-197335

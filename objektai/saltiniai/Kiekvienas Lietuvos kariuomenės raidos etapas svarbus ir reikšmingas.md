@@ -40,22 +40,6 @@ p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lie
   teiginys: "2010 m. žurnale „Krašto apsauga“ paskelbtas tekstas „Kiekvienas Lietuvos kariuomenės raidos etapas svarbus ir reikšmingas“."
   pagrindžia:
     - c-44999
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lietuvos
-    kariuomenės raidos etapas svarbus ir reikšmingas // Krašto apsauga, 2010, Nr. 8 (183), p. 15.
-    p. 262, „SAVANORIO LAIŠKAS“ [nepublikuota; laiško nuorašas iš Alberto Daugirdo
-    asmeninio archyvo].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

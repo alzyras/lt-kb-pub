@@ -35,8 +35,8 @@ media_all_json: |-
   teiginys: "Įsruties komtūras Eberhardas Sorcas su 300 raitelių ir 500 pėstininkų buvo žygio metu užpultas ir sunaikintas."
   pagrindžia:
     - c-169558
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Įsruties komtūras Eberhardas Sorcas su 300 raitelių ir 500 pėstininkų buvo žygio metu užpultas ir sunaikintas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -66,8 +66,7 @@ media_all_json: |-
 - id: c-169558
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 218"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 218."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Niekur
     nesuėjo į atvirą kovą, nes priešas spruko už tvirtovių
@@ -80,7 +79,11 @@ media_all_json: |-
     kintas. Visos žemės tarp Karaliaučiaus, Baltijos įlan­
     kos, Elbingo, Marienburgo, Elsbergo, visa Semba, No-
     tanga, Varmė ir dalis Pamedės degė nelyginant vienas
-    laužas, virsdamos pelenais ir dūmais.
+    laužas, virsdamos pelenais ir dūmais. Kryžiuočiai iš pi­
+    lių stebėjo ugnimi siaubiamas apygardas; negalėdami
+    nei klasta, nei jėga nukreipti šios audros į šalį, jie ry­
+    žosi galop pristabdyti ją, prašydami paliaubų.
+  citata_rodoma: "Niekur\nnesuėjo į atvirą kovą, nes priešas spruko už tvirtovių\nsienų, čia stengdamasis išgelbėti gyvybę ir likusią man­\ntą, ir lietuviai vedėsi kariuomenę nieko netrukdomi.\nTik Įsruties komtūras Eberhardas Sorcas su trimis šim­\ntais raitelių ir penkiais šimtais pėstininkų, kuriuos ve­\ndėsi iš Saksonijos papildyti Karaliaučiaus įgulai, buvo\nžygio metu užpultas, priverstas stoti į kovą ir sunai­\nkintas. Visos žemės tarp Karaliaučiaus, Baltijos įlan­\nkos, Elbingo, Marienburgo, Elsbergo, visa Semba, No-\ntanga, Varmė ir dalis Pamedės degė nelyginant vienas\nlaužas, virsdamos pelenais ir dūmais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

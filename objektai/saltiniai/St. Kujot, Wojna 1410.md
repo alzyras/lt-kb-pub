@@ -43,22 +43,6 @@ media_all_json: |-
   teiginys: "St. Kujoto „Wojna 1410“ publikuota „Rocznik Towarzystwa Nauk w Toruniu“ 18 tome 1911 m., p. 157–159."
   pagrindžia:
     - c-33717
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — (”) _Studia z dziejów Europy wschodniej
-    X-XVII w.,_ Warszawa 1965, 189-202 p.—Kujot, St. : _Wojna 1410,_
-    Rocznik Towarz. Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,
-    O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

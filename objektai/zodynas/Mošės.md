@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Mošės
 sukurta: '2026-07-12'
 variantai:
-  - mošėms
+  - 'mošėms'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -58,6 +58,7 @@ Terminas vartojamas vestuvių dovanų paskirstymo kontekste.
   teiginys: "Mošės šiame šaltinyje yra vyro seserys."
   pagrindžia:
     - c-178034
+
 ## Citatos
 
 - id: c-178034

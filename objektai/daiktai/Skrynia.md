@@ -56,9 +56,9 @@ Nenurodyta
   global_id: t-195340
   teiginys: "Kraitis iš pradžių minimas mažoje skrynelėje."
   pagrindžia:
-    - c-177741
     - c-177739
     - c-177740
+    - c-177741
 - susijęs iš [[objektai/paprociai/Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys.md#claim-t-195383|Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys]]: Atlyginti kraičvežiai išveždavo skrynią ir ryšulį į jaunikio namus, kur jų laukdavo sukviesti svečiai.
 - susijęs iš [[objektai/posakiai/Akmenų pridėta ir gana!.md#claim-t-195433|Akmenų pridėta ir gana!]]: Skrynios sunkumas aiškinamas formule apie pridėtus akmenis.
 - susijęs iš [[objektai/paprociai/Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys.md#claim-t-195381|Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys]]: Jaunoji kraičvežiams dovanodavo rankšluosčius, kuriuos jie persirišdavo per pečius.

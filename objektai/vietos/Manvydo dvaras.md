@@ -35,21 +35,6 @@ Manvydo dvaras.
   teiginys: "Manvydo dvaras."
   pagrindžia:
     - c-176877
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Manvydo dvaras.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    6. Manvydo dvaras.
-    7. Šv. Kryžiaus bažnyčia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

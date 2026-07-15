@@ -45,38 +45,18 @@ Dusburgietis teigia, kad vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wi
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70227|maldininkai / maldininko įžadai]]: Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58828|maldininkai]]: Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58803|pilėnas pilėnai]]: 1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vildenbergas
-      Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab. Vilbarkas,
-    piet. Malborko dalis)
-       Viljandis
-       Vilka (Vilkė), u.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59380
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 321"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 321."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vildenbergas
-      Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab. Vilbarkas,
+    Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab. Vilbarkas,
     piet. Malborko dalis)
-       Viljandis
-       Vilka (Vilkė), u.
+    Viljandis
+    Vilka (Vilkė), u.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

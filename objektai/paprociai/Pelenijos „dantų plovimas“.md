@@ -81,6 +81,7 @@ Nenurodyta
   teiginys: "Autorius rašo, kad vėliau Pelenijoje jau nebebuvo nei dantų plovimo, nei dėdelio vežiojimo, nei gavėnios negavėjimo."
   pagrindžia:
     - c-177819
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

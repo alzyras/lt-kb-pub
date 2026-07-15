@@ -43,24 +43,6 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
     - c-45249
 - susijęs iš Daugailiai: Karininkas Kazys Ladyga su lietuvių kariais birželio 3 d. užėmė Daugailius ir Tauragnus, o birželio 4 d. Paberžę.
 - susijęs iš Tauragnai: 1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1919 m. birželio 4 d. lietuvių kariai užėmė Paberžę, persekiodami bolševikus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Karin. K. Ladyga su lie-
-    tuvių kariais toliau persekiojo bolševi-
-    kus. Birželio 3 d. buvo užimti Daugailiai,
-    Tauragnai, birželio 4 d. Paberžė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45249

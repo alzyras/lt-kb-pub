@@ -43,36 +43,17 @@ Dusburgietis teigia, kad powierski J.
   teiginys: "J. Powierskio veikalas apie Vloclaveko vyskupijos Ostrovico ir Golubo valdas 1235–1308 m. išleistas Gdanske 1977 m."
   pagrindžia:
     - c-61871
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Powierskio veikalas apie Vloclaveko vyskupijos Ostrovico ir Golubo valdas 1235–1308 m. išleistas Gdanske 1977 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków
-    polsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977.
-      Powierski J. Krytyka koncepcji o decydującym znaczeniu ekspansji z zewnątrz dla
-    opóźnienia rozwoju politycznego Prusów.—ABS, Wrocław—Warszawa—Kraków—Gdańsk,
-    1977, 11, s.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61871
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków
     polsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977.
-      Powierski J. Krytyka koncepcji o decydującym znaczeniu ekspansji z zewnątrz dla
+    Powierski J. Krytyka koncepcji o decydującym znaczeniu ekspansji z zewnątrz dla
     opóźnienia rozwoju politycznego Prusów.—ABS, Wrocław—Warszawa—Kraków—Gdańsk,
     1977, 11, s.
   citata_rodoma: "Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków\npolsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977.\n  Powierski J."

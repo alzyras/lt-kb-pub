@@ -41,25 +41,6 @@ Varčios miške, tarp Alovės ir Daugų mstl.
   teiginys: "1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku."
   pagrindžia:
     - c-40372
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    DAINAVOS APYGARDA DIDZIOSIOS KOVOS APYGARDA
-
-    IVARCIOS MŪšIS
-    1945 m. birželio 14 d. Alytaus aps. Alytaus vls. Varčios miške, tarp Alovės ir Daugų
-    mstl. partizanai susikovė su NKVD kariuomenės 220-ojo pasienio pulku, kuris puolė
-    Lietuvos kariuomenės ats. Itn. Adolfo Ramanausko vadovaujamą partizanų būrį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -42,28 +42,6 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
   teiginys: "Lenkų tautinių demokratų lyderis Romanas Dmovskis vadovavosi lenkų organinio nacionalizmo doktrina."
   pagrindžia:
     - c-166844
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski) vadovavosi lenkų organinio nacionalizmo doktrina.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių or-
-    ganizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai. La-
-    biausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių
-    lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski)
-    vadovavosi lenkų organinio nacionalizmo doktrina. Etniniams lietu-
-    viams jų įsivaizduojamoje Lenkijos valstybėje (arba autonominėje Len-
-    kijoje Rusijos sudėtyje) buvo numatytas etninės kultūrinės mažumos
-    statusas. Nedaug nuo jų skyrėsi lenkų krikščionių demokratų pozicija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -85,5 +63,5 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183449
     - t-22235
+    - t-183449

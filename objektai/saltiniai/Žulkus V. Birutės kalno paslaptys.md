@@ -40,33 +40,16 @@ Dusburgietis teigia, kad žulkus V.
   teiginys: "V. Žulkaus „Birutės kalno paslaptys“ paskelbtas 1984 m. MG 6 numeryje, 16 puslapyje."
   pagrindžia:
     - c-62035
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'V. Žulkaus „Birutės kalno paslaptys“ paskelbtas 1984 m. MG 6 numeryje, 16 puslapyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Žulkus V. Birutės kalno paslaptys.—MG, 1984, Nr. 6, p. 16—
-      Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje
-    1982 ir 1983 metais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-62035
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 274"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Žulkus V. Birutės kalno paslaptys.—MG, 1984, Nr. 6, p. 16—
-      Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje
+    Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje
     1982 ir 1983 metais.
   citata_rodoma: "Žulkus V. Birutės kalno paslaptys.—MG, 1984, Nr. 6, p. 16—\n  Žulkus V."
   statusas: verified

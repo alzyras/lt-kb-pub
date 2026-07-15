@@ -54,24 +54,6 @@ Nenurodyta
   teiginys: "Po ilgos bylos seimas nusprendė nugriauti Vilniaus kalvinų bažnyčią, o 1640 m. kita kalvinų bažnyčia pastatyta už miesto."
   pagrindžia:
     - c-02082
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mieste
-    tuojau kilo triukšmas: kalvinai buvo apkaltinti išniekinę baž-
-    nyčią, ir minia už tai apgriovė jų bažnyčią. Paskui prasidėjo
-    ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vil-
-    niuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už
-    miesto (1640 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

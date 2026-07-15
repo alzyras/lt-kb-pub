@@ -58,8 +58,6 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
 - susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110664|Jogailaičiai]]: Gediminaičių ir Jogailaičių dinastijų palikuonys siejami su žinomiausiomis Europos monarchijomis.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175532|Kalavijuočių ordinas]]: 1202-1203 m. žiemą vyskupo priklausomybėje buvo įkurtas Kalavijuočių ordinas.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175552|Kalavijuočių ordinas]]: Kalavijuočių ordinas 1202-1203 m. žiemą buvo įkurtas vyskupo priklausomybėje pagal templininkų statutą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179025|Kryžiuočių ordinas]]: Hermanas Salza 1226 m. kovo mėnesį Riminyje išsirūpino imperatoriaus Fridricho II privilegiją Vokiečių ordino ateičiai rytuose.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179029|Kryžiuočių ordinas]]: 1226 m. Riminyje Fridrichas II suteikė Vokiečių ordinui teisę tapti užkariausimos prūsų žemės savininku.
 - susijęs iš [[objektai/grupes/Litvakai.md#claim-t-45103|Litvakai]]: Holokausto metu buvo sunaikinta pasaulinę šlovę Lietuvai suteikusi litvakų bendruomenė, nors jos gyvosios šaknys išliko Lietuvoje, JAV ir Izraelyje.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117401|Žydai]]: Kai kuriose Lietuvos ūkio srityse žydai tvirtai dominavo: eksportavo daugiau arklių, kailių, odų ir miško medžiagos, o importe sudarė didžiąją dalį.
 - susijęs iš [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.).md#claim-t-31483|Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]: Fridrichas II 1245 m. Veronoje duota auksine bule kryžiuočiams amžinai padovanojo Kuršą, Lietuvą ir Žiemgalius.
@@ -69,29 +67,6 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
 - susijęs iš [[objektai/grupes/Gruzinai.md#claim-t-62591|Gruzinai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos.md#claim-t-77942|Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]: Žydai Lietuvoje gyveno atskirą bendruomeninį gyvenimą, menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas skatino keltis į Palestiną.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117401|Žydai]]: Kai kuriose Lietuvos ūkio srityse žydai tvirtai dominavo: eksportavo daugiau arklių, kailių, odų ir miško medžiagos, o importe sudarė didžiąją dalį.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Europoje skelbiami kryžiaus karai prieš turkus Palestinoje skatino savanorius karius vykti į kovas su pagonimis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Dažnai jis pats nuvykdavo į Vokietiją ir atsiveždavo
-    būrius karių ir riterių, kurie jam padėjo ne tik saugoti esančias
-    krikščionių bendruomenes, bet ir plėsti krikščionybę ir stiprinti
-    valdžią. Kadangi tuo metu Europoje buvo skelbiami kryžiaus
-    karai prieš turkus Palestinoje ir vyravo nuomonė, kad su neti-
-    kėliais pagonimis reikią kariauti, todėl savanorių karių atsiras-
-    davo nemaža. Bet atvykstančių karių pagalba buvo laikinė, nes,
-    pabuvę kiek laiko (dažniausiai metus), jie grįždavo atgal, ir vėl
-    reikėdavo ieškoti naujų karių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-166458

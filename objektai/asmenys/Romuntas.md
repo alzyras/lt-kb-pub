@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas buvo Traidenio ir Mazovijos kunigaikštytės sūnus, vadinamas garsiu lietuvių istorijoje.
+Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas buvo Traidenio ir Mazovijos kunigaikštytės sūnus, vadinamas garsiu lietuvių istorijoje. Romuntui dar esant gyvam, jauniausias iš jo sūnumis vadintų asmenų Traidenis vadovavo kariuomenei kaip vyriausiasis vadas.
 
 ## Teiginiai
 
@@ -43,86 +43,48 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
   teiginys: "Narbuto pasakojime Romuntas buvo Traidenio ir Mazovijos kunigaikštytės sūnus, vadinamas garsiu lietuvių istorijoje."
   pagrindžia:
     - c-173848
+
+<a id="claim-t-196588"></a>
+- t-003
+  global_id: t-196588
+  teiginys: "Romuntui dar esant gyvam, jauniausias iš jo sūnumis vadintų asmenų Traidenis vadovavo kariuomenei kaip vyriausiasis vadas."
+  pagrindžia:
+    - c-169521
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-184844|Traidenis (valdovas, XIII a.)]]: Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Romuntas buvo Giliginio sūnus ir sosto įpėdinis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vargu ar tuo skai­
-    čiumi galima patikėti, vis dėlto jis svariai įrodo, jog
-    lenkai buvo smarkiai sumušti.
-    Kiti metai Giliginui tapo
-    lemtingi: mirė sosto įpėdinis
-    jo sūnus Romuntas. Kaip tei­
-    giama įvairių rašytojų, Ro­
-    muntas paliko penketą sūnų,
-    tačiau artesnis tiesai vos ke­
-    lių šaltinių minimas pasakojimas, jog jis mirė bevai­
-    kis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbuto pasakojime Romuntas buvo Traidenio ir Mazovijos kunigaikštytės sūnus, vadinamas garsiu lietuvių istorijoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Juo tapo
-    tikras Narimanto brolis Traidenis, kuris buvo Jotvingijos
-    ir Dainavos kunigaikštis su priklausomybės nuo Lietuvos
-    didžiojo kunigaikščio ir tam tikros duoklės mokėjimo pa­
-    reiga. Sis kunigaikštis pastatė Raigardo pilį, vedė Mazo­
-    vijos kunigaikštytę, kuri pagimdė jam garsų lietuvių isto­
-    rijoje Romuntą. Be to, jis nuolat rengė plėšikiškus žygius
-    į Lenkiją, Rusią ir Mazoviją, buvo griežtas ir žiaurus val­
-    dovas, tironiškai elgėsi su valdiniais ir užkariautais žmo­
-    nėmis1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-169521
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 132."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vargu ar tuo skai­
-    čiumi galima patikėti, vis dėlto jis svariai įrodo, jog
-    lenkai buvo smarkiai sumušti.
-    Kiti metai Giliginui tapo
-    lemtingi: mirė sosto įpėdinis
-    jo sūnus Romuntas. Kaip tei­
-    giama įvairių rašytojų, Ro­
-    muntas paliko penketą sūnų,
-    tačiau artesnis tiesai vos ke­
-    lių šaltinių minimas pasakojimas, jog jis mirė bevai­
-    kis.
+    Mat tie, kurie vadinami jo sūnumis, buvo jau to­
+    kio amžiaus, kad jauniausias iš jų, Traidenis, Romun-
+    tui dar gyvam esant, vadovavo kariuomenei kaip
+    vyriausiasis vadas. Vargu ar galima patikėti, kad per
+    tokį trumpą laiką po Šventaragio mirties (tai yra vos
+    per dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­
+    džiais jaunikaičiais, bet ir vyrais, galinčiais valstybę
+    valdyti. Valdovo sūnus ar seserėnas Traidenis, pačiam
+    Giliginui dar esant gyvam, išsivedė sutelkęs ir apgink­
+    lavęs asmeniškomis lėšomis trisdešimties tūkstančių
+    kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo­
+    menės jis nusiaubė Mazoviją, o su likusiais dviem treč­
+    daliais— Kulmo žemę.
+  citata_rodoma: "Kaip tei­\ngiama įvairių rašytojų, Ro­\nmuntas paliko penketą sūnų, \ntačiau artesnis tiesai vos ke­\nlių šaltinių minimas pasakojimas, jog jis mirė bevai­\nkis. Mat tie, kurie vadinami jo sūnumis, buvo jau to­\nkio amžiaus, kad jauniausias iš jų, Traidenis, Romun- \ntui dar gyvam esant, vadovavo kariuomenei kaip \nvyriausiasis vadas. Vargu ar galima patikėti, kad per \ntokį trumpą laiką po Šventaragio mirties (tai yra vos \nper dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­\ndžiais jaunikaičiais, bet ir vyrais, galinčiais valstybę \nvaldyti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186160
+    - t-196588
 
 - id: c-173848
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Juo tapo
     tikras Narimanto brolis Traidenis, kuris buvo Jotvingijos

@@ -9,14 +9,14 @@ datos:
   - '1303 m.'
 date_start: '1222'
 date_end: '1303'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-sprendimas
   - ivykis
-amziai:
-  - 'XIII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,8 +60,8 @@ Nenurodyta
   teiginys: "1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi ir jam atidavė Prancūzijos karalystę, bet Klemensas V tai atšaukė."
   pagrindžia:
     - c-63527
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi ir jam atidavė Prancūzijos karalystę, bet Klemensas V tai atšaukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -84,14 +84,17 @@ Nenurodyta
 - id: c-63527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
+    suėję į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
+    1222).
     1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
-    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
+    imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
     Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
-       Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
+    Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
+    95.
   citata_rodoma: "1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,\nimperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė\nKlemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).\n   Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys\nprarado labai daug užmuštaisiais (Ptol. p. 1223),"
   statusas: verified
   teiginio_tipas: faktas

@@ -35,24 +35,6 @@ media_all_json: |-
   teiginys: "14-ame kvartale stovėjęs Vytauto būrys nebuvo apsuptas ir smogė rusams į nugarą."
   pagrindžia:
     - c-40823
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    14-ame
-    kvartale stovėjo Vytauto būrys. Ir būtent šis
-    būrys, apie 90 vyrų, kažkaip liko neapsup-
-    tas. Tada Vytauto būrio partizanai smogė
-    rusams į nugarą, užtat jų (rusų) tiek daug
-    ir žuvo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

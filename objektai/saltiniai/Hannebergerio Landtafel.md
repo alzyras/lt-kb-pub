@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadintas krašto kunigaikštis gyveno ežero viduryje netoli Loetzen.
+Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadintas krašto kunigaikštis gyveno ežero viduryje netoli Loetzen. Šio krašto kunigaikštis, kurį vėlesnis kronikininkas vadina .Jesugubu, gyveno netoli Loetzen, vieno ežero viduryje (Hanneberger.
 
 ## Teiginiai
 
@@ -35,39 +35,34 @@ Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadinta
   teiginys: "Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadintas krašto kunigaikštis gyveno ežero viduryje netoli Loetzen."
   pagrindžia:
     - c-174719
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadintas krašto kunigaikštis gyveno ežero viduryje netoli Loetzen.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šio
-    krašto kunigaikštis, kurį vėlesnis kronikininkas vadina
-    .Jesugubu, gyveno netoli Loetzen, vieno ežero viduryje
-    (Hanneberger. Landtafel. S. 136.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197671"></a>
+- t-002
+  global_id: t-197671
+  teiginys: "Šio krašto kunigaikštis, kurį vėlesnis kronikininkas vadina .Jesugubu, gyveno netoli Loetzen, vieno ežero viduryje (Hanneberger."
   pagrindžia:
-    - t-001
+    - c-174719
 
 ## Citatos
 
 - id: c-174719
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 363"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 363."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šio
+    Pilys padėjo apsiginti iš Mazovijos pusės, bet isto­
+    rija nemini pilių pavadinimų, net nežinome, kur gyveno
+    ta šventoji pranašė, kuri dėl savo reikšmės ir pranašys­
+    čių valdė ir tvarkė savo kraštą (Domina, guae secundum
+    ritum ipsorum sacra et Prophetissa reputabatur, ad cujus
+    itnperium hujus terrae facta singula regebantur). Šio
     krašto kunigaikštis, kurį vėlesnis kronikininkas vadina
     .Jesugubu, gyveno netoli Loetzen, vieno ežero viduryje
-    (Hanneberger. Landtafel. S. 136.).
+    (Hanneberger.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191837
+    - t-197671

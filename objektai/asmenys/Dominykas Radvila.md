@@ -43,23 +43,6 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   teiginys: "Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis."
   pagrindžia:
     - c-83634
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Terespolis nebuvo Balinskių
-    giminės paveldima nuosavybė. 1811 m. I. Balinskis perėmė iš
-    Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau įsigijo
-    kaip nuosavybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

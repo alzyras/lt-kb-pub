@@ -11,15 +11,15 @@ datos:
   - '2026 m.'
 date_start: '1382'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - valstybė
   - vieta
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -106,124 +106,6 @@ Trakų pilis.
 - susijęs iš Kernavė: XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės.
 - susijęs iš Lietuva: Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietuva akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtėjo ekonomiškai.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jau Kestutis 1382 m. per Velykų šventes ataka­
-    vęs Jurbarko pilį, pasinaudodamas patrankų baterija. Tuo pat
-    laiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­
-    šteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­
-    čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
-    Marienverderio nukreipė jas prieš patį Ordiną. Vytautas savo
-    karuose taip pat naudojo parako ginklus ir patrankas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-006
-
-- c-002
-  santrauka: 'Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytauto laikais lietuviams nebuvo svetimi ir parako ginklai
-    bei patrankos. Jau Kestutis 1382 m. per Velykų šventes ataka­
-    vęs Jurbarko pilį, pasinaudodamas patrankų baterija. Tuo pat
-    laiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­
-    šteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­
-    čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
-    Marienverderio nukreipė jas prieš patį Ordiną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-003
-  santrauka: 'Skirgaila pasirinko Trakų pilį nuolatine buveine ir iš jos vykdavo į mūšius ar malšinti maištaujančių kunigaikščių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Po
-    to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
-    Lenkiją, Vilnių palikęs.
-    Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
-    gailos valdymas. Nuolatine savo buveine pasirinkęs Trakų
-    pilį, jis išvykdavo tik į mūšius su Prūsijos ordinu arba su
-    Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­
-    čiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dabartinė Vilnelės ir Vilijos san­
-    takos vieta tėra Gedimino laikais
-    iškasta perkasa aukštinant pilies kal­
-    ną ir norint, kad abi tvirtovės būtų
-    vandenų skalaujamos.
-    5
-    Lukiškės pavadintos nuo lietuviškų
-    žodžių laukas ir kišas, kadangi Lukiš­
-    kės yra prie Vilijos upės, tad ta vie-
-    108
-
-    ## Puslapis 125
-
-    Il KNYGA
-    Iš Kreivosios pilies vedė dar du pagrindiniai keliai: vie­
-    nas - vakarų link, į Trakų pilį, palei kurį smėlingoj žemėj
-    stovėjo nedidelė medinė bažnyčia ir pranciškonų vienuoly­
-    nas, buvę Goštauto rūmai, o kitas ėjo pietų linkui, už rusų
-    vienuolyno šakojosi į tris siauresnius: į pilis - Garteno, arba
-    Gardino, Lydos ir Medininkų. Dar kitas vieškelis per Vil­
-    nios upę, prie bendro naudojimo malūno (dabar vadinamo
-    Vyskupo), iš miesto suko į Polocką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
-    gailos valdymas. Nuolatine savo buveine pasirinkęs Trakų
-    pilį, jis išvykdavo tik į mūšius su Prūsijos ordinu arba su
-    Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­
-    čiais. Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su
-    lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir
-    16
-    Skirgaila ne anksčiau kaip 1388 me­
-    tais tapo didžiuoju kunigaikščiu, nes
-    1387 metais visuose dokumentuose
-    visur vadinamas Skargalo Dux Tro-
-    censis, bet niekur nėra Dux Lithua-
-    niae.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-006
   santrauka: 'Senojoje Trakų pilyje virš didžiųjų vartų anksčiau buvo akmenyje iškaltas kryžius skyde.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -264,8 +146,8 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95321
     - t-95320
+    - t-95321
 
 - id: c-90244
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -340,8 +222,8 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95318
     - t-95316
+    - t-95318
 
 - id: c-90250
   autorius: "Michał Baliński"
@@ -371,16 +253,37 @@ Trakų pilis.
 - id: c-171732
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 407"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    MITOLOGIJOS PABAIGA. 13
-    13
-    Seniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo
-    senojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies
-    tyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­
-    niaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,
-    suteikęs mums tą žinią.
+    retur (Šios klastingos tautos [gyvenamų žemių] viduryje, Nad-
+    ruvoje, buvo vieta, kurią vadino Romove, gavusi savo vardą
+    nuo Romos, o ten gyveno žmogus, vadinamas kriviu, kurį ger­
+    bė kaip popiežių, nes kaip valdovas popiežius valdo visuotinę
+    tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne
+    tik minėtosios gentys, bet ir lietuviai, ir kitos tautos, gyvenu­
+    sios Livonijos žemėje. Toks didelis buvo jo autoritetas, kad ne
+    tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo kri­
+    vūle ar kokiu kitu žinomu ženklu keliaudamas per šių netikė­
+    lių žemes, sulaukdavo didžios kunigaikščių, kilmingųjų bei pra­
+    stuomenės pagarbos). Nepradedami aiškinti šios Dusburgie-
+    čio kronikos vietos, pateiksime tą patį iš vėlesniojo jos perdir­
+    binio (rankraštis iš Slaptojo Karaliaučiaus archyvo), kur pasa­
+    kyta šitaip: In medio eorum fiât sita civitas Romowe, dicta a
+    Roma, in qua habitabat eorum nobilior, dictus Crive, quem pa­
+    gani pro Papa habebant, cui omnes non solum Pruteni, sed ei
+    Lithvani et Livonienses, veluti christiani Papae obediebant et
+    tantum venerabantur, quod etiam suos nuntios, qui ejus bacu­
+    lum aut signum aliquod portabant ab eo missum, principes etiam
+    et communis populus multo honore colebant et omnia praecep­
+    ta ejus firmiter servabant (Jų [žemės] viduryje buvo Romovės
+    miestas, gavęs vardą nuo Romos, kuriame gyveno kilminges-
+    nis iš jų, vadinamas kriviu, kurį stabmeldžiai laikė popiežiu­
+    mi, kurie visi - ne tik prūsai, bet ir lietuviai, ir livoniečiai -
+    klausė jo kaip krikščionys popiežiaus ir taip jį gerbė, kad netgi
+    jo pasiuntinius, nešinus jo lazda arba kokiu nors ženklu, jo
+    siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
+    sia pagarba ir griežtai vykdydavo visus jo nurodymus).
+  citata_rodoma: "MITOLOGIJOS PABAIGA. 13\n13\nSeniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo\nsenojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies\ntyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­\nniaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,\nsuteikęs mums tą žinią."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -61,36 +61,16 @@ Nenurodyta
 <a id="claim-t-186703"></a>
 - t-001
   global_id: t-186703
-  teiginys: "Teodoras Karijotaitis 1402 m. mėgino atgauti Podolę, bet buvo atmuštas."
+  teiginys: 'Teodoras Karijotaitis 1402 m. mėgino atgauti Podolę, bet buvo atmuštas.'
   pagrindžia:
     - c-169938
 
 <a id="claim-t-186704"></a>
 - t-002
   global_id: t-186704
-  teiginys: "Redakcinė pastaba teigia, kad 1402 m. Teodoras Karijotaitis mėgino atgauti Podolę, bet buvo atmuštas."
+  teiginys: 'Redakcinė pastaba teigia, kad 1402 m. Teodoras Karijotaitis mėgino atgauti Podolę, bet buvo atmuštas.'
   pagrindžia:
     - c-169938
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 8  Pašalintas iš Podolės, Teodoras Karijotaitis tikrai pabėgo
-    j Vengrijų, gavo grafo titulų ir 1396— 1414 m. (iki mirties) valdė
-    Užkarpatėje Mukačiovų ir vykdė Beregovo distrikto viršininko
-    funkcijas. Su Teodoru Karijotaičių siejama ligi šiol išlikusi Muka-
-    čiovo (UTSR) pilis, o  taip pat legenda apie huculų (ukrainiečių)
-    įsikūrimų Užkarpatėje. 1402 m. jis mėgino atgauti Podolę, bet bu­
-    vo atmuštas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 
@@ -112,5 +92,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186703
-    - t-186704
+    - t-001
+    - t-002

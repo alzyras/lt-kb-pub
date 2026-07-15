@@ -55,25 +55,6 @@ Nenurodyta
   teiginys: "Lenkiškoji protestantų akcija Lietuvoje greitai nustelbė silpną ir trumpą lietuvišką protestantizmo skelbimą."
   pagrindžia:
     - c-67204
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lenkiškoji protestantų akcija Lietuvoje greitai nustelbė silpną ir trumpą lietuvišką protestantizmo skelbimą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuviškai protestantizmas tebuvo
-    skelbiamas žmonių, atėjusių iš Mažosios Lietuvos; bet tas judė-
-    jimas buvo labai silpnas ir trumpas. Jį labai greit nustelbė
-    lenkiškoji protestantų akcija. Lietuvos protestantai suskato
-    lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus
-    tik tada, kai to griebėsi atsigavę katalikai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,24 +35,6 @@ Kitas ukrainietis istorikas V. Zai­ kinas rašė iš teisės filosofijos ir rel
   teiginys: "V. Zaikinas rašė teisės filosofijos ir religijos istorijos temomis, liesdamas Didžiąją Lietuvos Kunigaikštystę."
   pagrindžia:
     - c-33188
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­
-    čių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo
-    žemės istoriją iki mongolų laikų ir toliau kaip tą žemę užval­
-    dė Lietuvos kunigaikščiai^146. Kitas ukrainietis istorikas V. Zai­
-    kinas rašė iš teisės filosofijos ir religijos istorijos srities, lies­
-    damas D. Lietuvos Kunigaikštystę^147.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -78,7 +78,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93423|Konradas (Mozūrijos kunigaikštis)]]: 1230 m. Mozūrijos kunigaikštis Konradas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė į pagalbą Kryžiuočių ordiną.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93424|Konradas (Mozūrijos kunigaikštis)]]: Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93426|Konradas (Mozūrijos kunigaikštis)]]: Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis.
-- susijęs iš [[objektai/asmenys/Konradas (Prūsijos magistras).md#claim-t-186127|Konradas (Prūsijos magistras)]]: Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.
+- susijęs iš [[objektai/asmenys/Konradas (Prūsijos magistras).md#claim-t-186127|Konradas (Prūsijos magistras)]]: Konradas, Kojelavičiaus vadinamas magistru, įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.
 - susijęs iš [[objektai/asmenys/Konradas (Skalvių pilies gynėjas).md#claim-t-60478|Konradas (Skalvių pilies gynėjas)]]: Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/asmenys/Konradas fon Jungingenas.md#claim-t-39580|Konradas fon Jungingenas]]: Konradas fon Jungingenas rekomendavo neišrinkti savo brolio Ulricho didžiuoju magistru, nes jo karštakošiškumas galėjo atnešti nelaimę Ordinui.
 - susijęs iš [[objektai/asmenys/Konradas iš Blindenburgo.md#claim-t-60365|Konradas iš Blindenburgo]]: Konradas iš Blindenburgo išėjo kautis su prūsais, gavo penkias žaizdas ir krito kovoje.
@@ -107,7 +107,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - susijęs iš [[objektai/ivykiai/Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius.md#claim-t-62328|Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius]]: Kunigaikštis Konradas prūsų pasiuntiniams davė žirgų ir ryškiaspalvių drabužių, tačiau dovanos jų antpuolių nesušvelnino.
 - susijęs iš [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru.md#claim-t-66631|Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]: Po metų Konradas iš Foichtvangeno atsisakė pareigų Prūsijoje ir liko tik Livonijos žemės magistru.
 - susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185716|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Į Prūsiją atvykus Reino krašto didikams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
-- susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185717|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš [[objektai/ivykiai/Mėrūniškių valsčiaus nusiaubimas.md#claim-t-183947|Mėrūniškių valsčiaus nusiaubimas]]: Mėrūniškių valsčių magistras Konradas smarkiai nusiaubė degindamas ir plėšdamas, nukovęs arba paėmęs į nelaisvę 600 vyrų ir moterų.
 - susijęs iš Henriko iš Hohenlohės pranešimas: Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.
 - susijęs iš Mozūrai: Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.
@@ -154,7 +153,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - susijęs iš Dubysa: 1382 m. spalio 31 d. Dubysos žiočių saloje po šešių dienų derybų buvo surašytos trys sutartys.
 - susijęs iš Engelsbergas: Engelsbergas tapatinamas su dabartiniu Pokživnu, esančiu daugiau kaip 8 km į pietryčius nuo Grudziondzo.
 - susijęs iš Gardinas: 1305 m. Konradas iš Lichtenhageno su didele kariuomene nusiaubė Gardino pilies apylinkes degindamas ir plėšdamas.
-- susijęs iš Gardinas: Magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš Gardinas: Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.
 - susijęs iš Karšuva: 1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.
 - susijęs iš Kujavija: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijoje veikė vyskupas Kristijonas.
@@ -179,101 +177,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175170|ginklanešiai]]: 1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.
 - susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-175176|ginklanešys]]: 1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.
 - susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-193043|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    jauti su prūsais 1226-1228 m.
-    pakvietė Mozūrijos kunigaikš-
-    tis Konradas ir padovanojo
-    jiems Kulmo žemę. 1231 m.
-    Ordinas pasistatė Torunės pil.
-    Prasidėjo metodiški kryžiaus
-    žygiai į Prūsiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet
-    iš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-
-    davo surasti. Praėjo net keliolika metų, o vysk. Kristijonui vis ne-
-    sisekė: pagonys ne tik naikino jo kuriamas krikščionių bendruo-
-    menes, bet dar teriojo ir Lenkijos sritis. Tada Mozūrų kunigaikš-
-    tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
-    kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
-    mės pakraštėj.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbuto pasakojime Konrado valdymo Mazovijoje metu Gotardas kautynėse suėmė septynis jotvingių kunigaikštukus, išsipirkusius sidabru.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ma­
-    tyti, jog lietuvių padedami jie išsivadavo iš svetimųjų
-    priklausomybės ir savarankiškai, vadovaujami savo vadų
-    arba kunigai'kštukų, įvairiais laikais ir keliais veržėsi į
-    Rusią, Lenkiją ir Mazoviją. Taip vadų rankose buvo su­
-    kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­
-    dant, kai sykį Uchanės grafas Gotardas, Lukošiaus sūnus,
-    kautynėse suėmė septynis jotvingių kunigaikštukus, kiek­
-    vienas jų išsipirko sumokėdamas septynis šimtus gryno
-    sidabro grivinų, o tai yra šiandieninių lenkiškų auksinų
-    po 22 tūkstančius 400 už kiekvieną3. Jotvingiai, nepaisy­
-    dami iš mazoviečių ir prūsų patirtų nesėkmių, gyvendami
-    slavų Brastos kaimynystėje, 1227 metais savo antpuolius
-    išplėtė net iki Voluinės Vladimiro, kur buvo suimti du
-    jotvingių vadai: Sutras Monoduničius ir Stegutas Zebro-
-    vičius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Narbutas vaizduoja Konradą kaip Mazovijos kunigaikštį, XIII a. pradžioje pasiekusį laimėjimų Jotvingijoje ir valdžiusį Drohičiną.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tad Danielius, palikęs Neb-
-    rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
-    jotvingiam sK itais metais jotvingių grėsmė iškilo Ru­
-    siai, nes Voluinės kunigaikščiai, prieš išžygiuodami su
-    kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga
-    turėjo patikėti Pinsko kunigaikščiui Vladimirui1 2.
-    121
-    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
-    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
-    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
-    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
-    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
-    pateiksime. Būgas jau tuomet buvo Mazovijos ir rusų
-    žemių riba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-42083
@@ -320,8 +223,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - id: c-173788
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 122"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ma­
     tyti, jog lietuvių padedami jie išsivadavo iš svetimųjų
@@ -349,8 +251,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - id: c-173789
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad Danielius, palikęs Neb-
     rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems

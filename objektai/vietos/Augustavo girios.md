@@ -41,23 +41,6 @@ Daugelis kronikų aprašė ir Europoje plačiai išgarsino tai, kaip jis bemedž
   teiginys: "1361 m. Lietuvos pasienyje, Augustavo giriose, į kryžiuočių nelaisvę pateko kronikose plačiai aprašytas asmuo."
   pagrindžia:
     - c-33792
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kovose jis yra parodęs daug vikrumo. Daugelis kronikų
-    aprašė ir Europoje plačiai išgarsino tai, kaip jis bemedžiodamas,
-    ar bežygiuodamas į priešo kraštą, Lietuvos pasienyje (Augustavo
-    giriose) 1361 m. pakliuvo į kryžiuočių nelaisvę. Bet po 7 mėnesių
-    jam pavyko pabėgti ir iš saugių Marienburgo mūrų^9.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

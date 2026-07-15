@@ -53,6 +53,7 @@ Nenurodyta
   teiginys: "Buitinis pieno produktų džiovinimo daiktas."
   pagrindžia:
     - c-177702
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

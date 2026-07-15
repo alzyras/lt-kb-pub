@@ -53,65 +53,20 @@ Baltų / prūsų regioninė grupė.
   teiginys: "Narbutas Sambijos gyventojus siejo daugiausia su senovės budinais, įsikūrusiais ten lietuvių protėviams atėjus į šiuos kraštus."
   pagrindžia:
     - c-175248
+
+<a id="claim-t-197516"></a>
+- t-003
+  global_id: t-197516
+  teiginys: "Sambija — ne itin didelis kraštas, anksčiau, kol jūra per visą pakrantės ilgį nepa siglemžė dalies sausumos, buvęs platesnis, nes, anot kai kurių stebėtojų, buvo atplėštas keliolikos kvadratinių my lių plotas2."
+  pagrindžia:
+    - c-179227
 - susijęs iš Vitlandija: Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už pagalbą kryžiuočiams užkariaujant sambius.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    T. Narbutas ne­
-    kompiliavo senųjų šaltinių, tačiau lietuviais laikydamas visus
-    baltus, analizuodamas vieną ar kitą jų mitologijos reiškinį, sten­
-    gėsi surinkti duomenis iš visų jų gyventų arealų (Lietuvos, Prū­
-    sijos, Latvijos) ir kartu juos pateikti. Pavyzdžiui, kalbėdamas
-    apie „didžiuosius“ lietuvių dievus, pateikia duomenis apie svar­
-    biausius lietuvių, prūsų ir kitų baltų genčių dievus. Prie „di­
-    džiųjų“ lietuvių dievų jis priskiria Praamžių (Pramžimą), Ra­
-    gutį, Santvarą, Žemininką -  dievus, kuriuos M. Strijkovskis
-    laiko ypatingais lietuvių ir žemaičių dievais, priskiria Ukapir-
-    mą, Perkūną, Atrimpą, Gardaitį, Poklių, kuriuos M. Strijkov­
-    skis laiko lietuvių, žemaičių, sambių, latvių ir prūsų, o K. Hart-
-    knochas -  prūsų dievais, priskiria Viršaitį, Patelą, Sneibratą,
-    kuriuos M. Strijkovskis ir K. Hartknochas laiko prūsų dievais,
-    ir pagaliau priskiria Kriukį, kurį J. Lasickis laiko žemaičių die­
-    vu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas Sambijos gyventojus siejo daugiausia su senovės budinais, įsikūrusiais ten lietuvių protėviams atėjus į šiuos kraštus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Lietuvių protėviams atėjus į šiuos
-    kraštus, Sambijoje įsikūrė daugiausia senovės budinus
-    sudarantys gyventojai. Hugas Grocijus, tyręs budinu ko­
-    lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs
-    tyrimai paaiškina istorinę tiesą; tas autorius buvo Gero-
-    pijus Bekanas3. Sambijoje buvo gynybinių miestų, puikių
-    dievams garbinti skirtų šventųjų vietų, pastatytų turtin­
-    gų dvarų ir dėl nepaliaujamų susidūrimų su pakrančių
-    plėšikais gana daug laukinių, nepasitikinčių, tarpusavyje
-    besivaidijančių gyventojų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-170875
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 25"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 25."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     T. Narbutas ne­
     kompiliavo senųjų šaltinių, tačiau lietuviais laikydamas visus
@@ -121,11 +76,11 @@ Baltų / prūsų regioninė grupė.
     apie „didžiuosius“ lietuvių dievus, pateikia duomenis apie svar­
     biausius lietuvių, prūsų ir kitų baltų genčių dievus. Prie „di­
     džiųjų“ lietuvių dievų jis priskiria Praamžių (Pramžimą), Ra­
-    gutį, Santvarą, Žemininką -  dievus, kuriuos M. Strijkovskis
+    gutį, Santvarą, Žemininką - dievus, kuriuos M. Strijkovskis
     laiko ypatingais lietuvių ir žemaičių dievais, priskiria Ukapir-
     mą, Perkūną, Atrimpą, Gardaitį, Poklių, kuriuos M. Strijkov­
     skis laiko lietuvių, žemaičių, sambių, latvių ir prūsų, o K. Hart-
-    knochas -  prūsų dievais, priskiria Viršaitį, Patelą, Sneibratą,
+    knochas - prūsų dievais, priskiria Viršaitį, Patelą, Sneibratą,
     kuriuos M. Strijkovskis ir K. Hartknochas laiko prūsų dievais,
     ir pagaliau priskiria Kriukį, kurį J. Lasickis laiko žemaičių die­
     vu.
@@ -140,8 +95,7 @@ Baltų / prūsų regioninė grupė.
 - id: c-175248
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Lietuvių protėviams atėjus į šiuos
     kraštus, Sambijoje įsikūrė daugiausia senovės budinus
@@ -159,3 +113,28 @@ Baltų / prūsų regioninė grupė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192454
+
+- id: c-179227
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Sambija — ne itin didelis
+    kraštas, anksčiau, kol jūra per visą pakrantės ilgį nepa­
+    siglemžė dalies sausumos, buvęs platesnis, nes, anot kai
+    kurių stebėtojų, buvo atplėštas keliolikos kvadratinių my­
+    lių plotas2. Ji turėjo daugiausiai pasaulyje gintaro, gy­
+    ventojai visados buvo patys turtingiausi. Provincija ko­
+    vai su kryžiuočiais galėjo surinkti apie 40 000 pėstininkų
+    ir tiek pat raitelių. Lietuvių protėviams atėjus į šiuos
+    kraštus, Sambijoje įsikūrė daugiausia senovės budinus
+    sudarantys gyventojai. Hugas Grocijus, tyręs budinu ko­
+    lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs
+    tyrimai paaiškina istorinę tiesą; tas autorius buvo Gero-
+    pijus Bekanas3.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197516

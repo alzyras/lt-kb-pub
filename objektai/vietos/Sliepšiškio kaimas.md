@@ -35,27 +35,6 @@ Beveik tuo pat metu buvo puolamas ir Alberto Žilio-Kęstučio būrio bunkeris �
   teiginys: "Šimonių girioje netoli Sliepšiškio kaimo buvo puolamas Alberto Žilio-Kęstučio būrio bunkeris, kuriame žuvo 5 partizanai."
   pagrindžia:
     - c-45330
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Beveik tuo pat metu buvo puolamas
-    ir Alberto Žilio-Kęstučio būrio bunke-
-    ris Šimonių girioje netoli Sliepšiškio k. Čia
-    žuvo 5 partizanai.
-
-    Taip pat užpultas Antano Jančio-Žaibo
-    bunkeris Šimonių girioje prie Iženos upelio,
-    jame žuvo 6 partizanai. Vėliausiai užpul-
-    tas Kunigaikščio Margio rinktinės bunkeris
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

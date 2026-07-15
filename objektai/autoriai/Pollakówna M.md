@@ -7,15 +7,15 @@ datos:
   - '1958 m.'
 date_start: '1958'
 date_end: ''
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - autorius
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 Dusburgietis teigia, kad pollakówna M.
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'M. Pollakówna parašė darbus „Zanik ludności pruskiej“ ir „Galindia“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,3 +59,32 @@ Dusburgietis teigia, kad pollakówna M.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-63381
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    — Monumenta Germaniae historica: Scriptores rerum
+    Germanicarum. Nova series. Tomus VIII.— Berolini, 1930, p. 1—242.
+  citata_rodoma: "Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.\n78—79."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-63382
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17.
+    Tholomei Lucensis Anna les. — Monumenta Germaniae historica: Scriptores rerum
+    Germanicarum.
+  citata_rodoma: "Pollakówna M. Zanik ludności pruskiej.— Pomorze średniowieczne/Pod red. G. Labudy,\nWarszawa, 1958, s. 160—207."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

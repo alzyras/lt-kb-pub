@@ -57,15 +57,9 @@ Nenurodyta
   teiginys: "Šalavijoje svarbesni reikalai buvo aptariami vyresniųjų susirinkimuose, o karo metu vadai skirti pagal vasalų kiekį ir tinkamumą."
   pagrindžia:
     - c-174970
-
-<a id="claim-t-192513"></a>
-- t-002
-  global_id: t-192513
-  teiginys: "Šalavijoje svarbesni reikalai buvo aptariami vyresniųjų susirinkimuose, o karo metu vadai skirti pagal vasalų kiekį ir tinkamumą."
-  pagrindžia:
     - c-175303
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šalavijoje svarbesni reikalai buvo aptariami vyresniųjų susirinkimuose, o karo metu vadai skirti pagal vasalų kiekį ir tinkamumą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -120,10 +114,12 @@ Nenurodyta
 - id: c-174970
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 370"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 370."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šalavija taip pat turėjo savo
+    Bet
+    kita piliavietė, kuri mums rūpi, ko gero, buvo ant vienos
+    iš kalvų, esančių dešiniojoje Šešupės pakrantėje, kur tu­
+    rėtų būti tvirtovės pėdsakų. Šalavija taip pat turėjo savo
     savarankiškų ponų, valdžiusių žmones ir kraštą; buvo
     minimi Surbantas, Svisdeta, Surdeta.
     Iš šių galingų
@@ -143,9 +139,11 @@ Nenurodyta
 - id: c-175303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 370"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 370."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Šalavija taip pat turėjo savo
+    savarankiškų ponų, valdžiusių žmones ir kraštą; buvo
+    minimi Surbantas, Svisdeta, Surdeta.
     Iš šių galingų
     žmonių buvo renkami vyriausieji vadai, kurių vienas buvo
     Stinigutas. Svarbesni reikalai buvo aptariami susirinki­
@@ -162,9 +160,8 @@ Nenurodyta
     norėjome atskleisti; manytume, jog jau sukaupėme pa­
     kankamai faktų ir, jais remdamiesi, atskleidėme ne vieną
     istorinę tiesą.
+  citata_rodoma: "Iš šių galingų\nžmonių buvo renkami vyriausieji vadai, kurių vienas buvo\nStinigutas. Svarbesni reikalai buvo aptariami susirinki­\nmuose vyresniųjų žmonių, kuriuos karo metu skirdavo at­\nsižvelgdami į vasalų kiekį ir tinkamumą, taip pat paskir­\ndavo skyrių vadus, kurie vadovavo būriams mūšio lauke.\n* * *\nV Priedas\nK a i k u rio s p a s ta b o s\napie B a ltijo s jū rą\nSiame\nveikale stengėmės surinkti ir išdėstyti visa\ntai, kas padeda pažinti lietuvių tautos' proistorę, kurią\nnorėjome atskleisti; manytume, jog jau sukaupėme pa­\nkankamai faktų ir, jais remdamiesi, atskleidėme ne vieną\nistorinę tiesą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192513

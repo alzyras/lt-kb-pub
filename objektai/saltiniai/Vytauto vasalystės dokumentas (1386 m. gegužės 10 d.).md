@@ -48,25 +48,6 @@ Vilniaus - (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, 
   teiginys: "Vytauto vasalystės dokumentas buvo išduotas 1386 m. gegužės 10 d."
   pagrindžia:
     - c-88478
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet Vytautui mirus, vėl
-    jo valdžia turėjo atitekti į Jogailos ir karūnos rankas. Kitokios
-    institucijos minėtais dokumentais nebuvo įsteigtos. Vilniaus -
-
-    (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, iš­
-    duotą 1386 m. gegužės 10 d. Žiūr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -87,5 +68,5 @@ Vilniaus - (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93073
     - t-93072
+    - t-93073

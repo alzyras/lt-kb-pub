@@ -7,12 +7,12 @@ datos:
   - '1974 m.'
 date_start: '1974'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad vanagas A.
   teiginys: "A. Vanago straipsnis „Jotvingių kalbos reliktai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1974 m."
   pagrindžia:
     - c-61970
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Vanago straipsnis „Jotvingių kalbos reliktai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1974 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,13 @@ Dusburgietis teigia, kad vanagas A.
 - id: c-61970
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vanagas A. [Jotvingių] kalbos reliktai.— MG, 1974, Nr. 2, p. 19—21.
+    — Вопросы теории и истории языка,
+    Л., 1963, с. 191—197.
+    Мажюлис В. О связях литовско-латышского с другими древнебалтийскими
+    диалектами.
+  citata_rodoma: "Vanagas A. [Jotvingių] kalbos reliktai.— MG, 1974, Nr. 2, p. 19—21."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

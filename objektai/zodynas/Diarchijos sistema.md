@@ -36,23 +36,6 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
   pagrindžia:
     - c-28483
 - susijęs iš [[objektai/autoriai/L. Kolankowski.md#claim-t-12254|L. Kolankowski]]: L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog
-    ateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos
-    pusiau^2. Pagal tą susitarimą Kęstutis buvo Algirdo padėjėjas.
-    Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-28483

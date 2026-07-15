@@ -40,27 +40,6 @@ media_all_json: |-
   teiginys: "Guillaume de Machaut 1357 m. veikale „Confort d’Ami“ paminėjo žygį, kuriame dalyvavo svečių net iš Anglijos."
   pagrindžia:
     - c-33569
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš kitų puolimų yra išskirtinas 1329
-    pradžioje pirmasis Čekijos karaliaus Jono Liuksemburgiečio žygis
-    į pietvakarių Žemaičius. Šis žygis, kuriame buvo daug svečių iš
-    visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
-    žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
-    rašytame veikale « Confort d’Ami » (« Draugo parama »). Poetas
-    išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar
-    paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
-    kaimį).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -56,27 +56,6 @@ Nenurodyta
   teiginys: "Lietuvos demokratų partija susikūrė 1902 m. „Varpą“ leidusios organizacijos pagrindu."
   pagrindžia:
     - c-166627
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos demokratų partija susikūrė 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
-    tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi
-    1902 m. „Varpą“ leidusios organizacijos pagrindu. Šie intelektualai pro-
-    pagavo Bažnyčios atskyrimo nuo valstybės principą. Lietuvos demokratų
-    programinis idealas – nepriklausoma demokratinė Lietuvos Respublika
-    lietuvių istorinių etnografinių žemių ribose, „su teisingu turto paskirsty-
-    mu“ ir federacijos ryšiais susijusi su gretimomis demokratinėmis valsty-
-    bėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -9,16 +9,16 @@ datos:
   - '1236 m.'
 date_start: '1226'
 date_end: '1236'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
   - karalius
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,8 +53,8 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
   teiginys: "Visvaldis buvo nugalėtas Rygos vyskupo Alberto."
   pagrindžia:
     - c-175813
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -77,58 +77,28 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jersikos karalius
-
-    2 Dauguva
-    Žiemgaliai ;
-    Sėliai
-    X Saulė (Šiauliai) 1236 m.
-
-    Nes Lietuviai
-
-    Vilnius
-
-    0
-
-    Jotvingiai aw MI Visvaldis buvo nugalėtas
-    NY Rygos vyskupo Alberto.
-    Teutonų ordiną padėti kar- Europos rytuose didelius
-
-    jauti su prūsais 1226-1228 m.
-    pakvietė Mozūrijos kunigaikš-
-    tis Konradas ir padovanojo
-    jiems Kulmo žemę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-002
-
 ## Citatos
 
 - id: c-175812
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 97"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
-    sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
-    kalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­
-    ją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­
-    sų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo
-    Gercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis
-    Daugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;
-    kiek kartų jį turėję su savimi kovodami su livoniečiais, tiek
-    kartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės
-    keršydamas už nužudymą Dangeručio, kuris, kaip jie manė,
-    nelaisvėje buvo nužudytas tuo kalaviju.
+    Priklausomai nuo gėrimo pagaminimo būdo
+    dievas įgydavo Bubilo arba Ragučio vardą, kaip tai pastebima
+    ¡r kitose mitologijose.
+    Iš padavimų apie graikų dievus žinome, kad garsus prana­
+    šautojas Melampas, kuris gyveno Proito laikais, dar iki Trojos
+    karo, apie 1380 metus prieš Kristaus gimimą, pirmasis Graiki­
+    joje įvedė Bakcho garbinimą. Todėl tais laikais, kai lietuvių
+    tauta brandino savo stabmeldystę, to dievo garbinimas kitur
+    buvo labai senas ir visuotinai paplitęs. Lietuviai įvedė tą gar­
+    binimą savo šalyje, tačiau natūralu, kad, neturėdami vynuo­
+    gių, savo Bakchui turėjo priskirti kitas ypatybes ir atributus,
+    nes žmonių polinkiai visur panašūs, piktnaudžiaujančių svai­
+    ginamaisiais gėrimais ištvirkimas visur dangstomas dievobai­
+    mingumo skraiste.
+  citata_rodoma: "Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje\nsugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties\nkalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­\nją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­\nsų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo\nGercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis\nDaugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;\nkiek kartų jį turėję su savimi kovodami su livoniečiais, tiek\nkartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės\nkeršydamas už nužudymą Dangeručio, kuris, kaip jie manė,\nnelaisvėje buvo nužudytas tuo kalaviju."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -169,4 +139,3 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193043
-    - t-002

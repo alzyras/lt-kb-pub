@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 87
+tema_objektu_skaicius: 86
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 87.
+Objektų skaičius: 86.
 
 ## Kaip naudoti
 
@@ -44,14 +44,13 @@ Objektų skaičius: 87.
 - [[objektai/grupes/Europos Sąjunga]]
 - [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]]
 - [[objektai/grupes/Hanza]]
-- [[objektai/grupes/Hanzos sąjunga]]
 - [[objektai/grupes/Istorikų kolektyvas]]
 - [[objektai/grupes/Jakobinų klubas]]
 - [[objektai/grupes/jaunųjų istorikų būrelis]]
 - [[objektai/grupes/Jedinstvo]]
 - [[objektai/grupes/Jungtinių Tautų organizacija]]
 - [[objektai/grupes/Jutrzenka]]
-- [Jėzuitų ordinas](../objektai/grupes/J%C4%97zuit%C5%B3%20ordinas)
+- [[objektai/grupes/Jėzuitų ordinas]]
 - [Kariškoji Lenkų Organizacija (P.O.W.)](../objektai/grupes/Kari%C5%A1koji%20Lenk%C5%B3%20Organizacija%20%28P.O.W.%29)
 - [Komjaunimas](../objektai/grupes/Komjaunimas)
 - [Laisvųjų riterių brolija](../objektai/grupes/Laisv%C5%B3j%C5%B3%20riteri%C5%B3%20brolija)

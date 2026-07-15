@@ -79,91 +79,7 @@ Nenurodyta
   teiginys: "Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija."
   pagrindžia:
     - c-22991
-
-<a id="claim-t-183233"></a>
-- t-005
-  global_id: t-183233
-  teiginys: "Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija."
-  pagrindžia:
     - c-166621
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kaune atsakomąja kalba A. Smetona užvėrė duris kom-
-    promisui. Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
-    dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
-    perėjusį liniją lenkų kareivį. Nors per panašius incidentus lenkai buvo nu-
-    šovę 7 lietuvių pasienio policininkus, Varšuva, Vokietijai absorbuojant Aus-
-    triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
-    reikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą
-    atsakymą, nes kitaip bus blogai – suprask – kils karas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors per panašius incidentus lenkai buvo nu-
-    šovę 7 lietuvių pasienio policininkus, Varšuva, Vokietijai absorbuojant Aus-
-    triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
-    reikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą
-    atsakymą, nes kitaip bus blogai – suprask – kils karas.
-    Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
-    santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
-    Kaunui sakė Maskva ir Berlynas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors tūkstančiai karštakošių Lenkijos
-    miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“),
-    oficialiąją Varšuvą rezultatai tenkino.
-    Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko
-    liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun-
-    tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių
-    turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
-    Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
-    Lietuvos bendradarbiavimas nesusiklostė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-004
-  santrauka: 'Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
-    santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
-    Kaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen.
-    S. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau
-    Lietuvos kariuomenės paradinė rikiuotė 1937 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
 
 ## Citatos
 
@@ -229,8 +145,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75119
     - t-75118
+    - t-75119
 
 - id: c-166621
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -246,5 +162,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183233

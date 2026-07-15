@@ -56,58 +56,13 @@ Nenurodyta
   pagrindžia:
     - c-63416
     - c-63417
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Karalius įteikė savo vėliavas, kad jos būtų iškabintos prie žemių ir kiemų kaip apsauga nuo skriaudos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai karalius jį paklausė, rodydamas
-    tik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad
-    nieku būdu. Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė
-    tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar
-    nepakako, galop atėjo visa likusi kariuomenė, taip tirštai padengdama ledą, kaip skėriai
-    padengia žemę; kai karalius paklausė, ar šitiek kariuomenės pakanka, kad galėtum šį
-    tą nuveikti Sembos žemėje, jis atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.
-    Paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių
-    ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Karalius įteikė savo vėliavas, kad jos būtų iškabintos prie žemių ir kiemų kaip apsauga nuo skriaudos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė
-    tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar
-    nepakako, galop atėjo visa likusi kariuomenė, taip tirštai padengdama ledą, kaip skėriai
-    padengia žemę; kai karalius paklausė, ar šitiek kariuomenės pakanka, kad galėtum šį
-    tą nuveikti Sembos žemėje, jis atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.
-    Paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių
-    ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.
-    Jis vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai,
-    todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo
-    ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63416
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 105"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai karalius jį paklausė, rodydamas
     tik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad
@@ -129,8 +84,7 @@ Nenurodyta
 - id: c-63417
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 105"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė
     tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar

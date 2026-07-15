@@ -38,7 +38,6 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
 - susijęs iš [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą.md#claim-t-89366|Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]: Kitos Sūduvos dalies vadas Skurda su savo žmonėmis pasitraukė į Lietuvos žemę.
 - susijęs iš [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą.md#claim-t-89367|Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]: Gedetas su savo namais, šeimyna ir 1500 sūduvių pasitraukė pas brolius ir priėmė krikštą, o Skurda su žmonėmis išvyko į Lietuvą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Skurda, kitos Sūduvos dalies vadas, su savo žmonėmis pasitraukė į Lietuvos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,16 +62,18 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
 - id: c-61068
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 171"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti,
-    nerašysime apie tuos karus. Kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę
-    galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei
-    smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais
-    šimtais vyrų bei moterų jis pasitraukė pas brolius ir priėmė krikštą. Tačiau Skurdą516,
-    kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į
-    Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
+    Dėl to Prūsijoje daug naujakrikščių,
+    kurių protėviai gimę iš kilmingų šeimų, tačiau jie patys dėl nusikaltimų, padarytų tikėjimui
+    bei tikintiesiems, buvo palaikyti prastos kilmės žmonėmis, tuo tarpu kiti, kurių tėvai
+    buvę nekilmingi, pelnė laisvę už ištikimą tarnybą tikėjimui ir broliams518.
+    221 (216). Baigiamas karas Prūsijoje. Prasideda karas su lietuviais
+    1283 viešpaties metais, kai nuo karų su prūsų gentimis pradžios prabėgo jau 53 metai
+    ir visos šios žemės giminės [nationes] jau buvo nukariautos ir išvaikytos, žodžiu, kai čia
+    nebeliko nė vieno, kuris nebūtų nuolankiai paklusęs šventajai Romos bažnyčiai, Teutonų
+    ordino broliai šitaip pradėjo karą su ta galinga, kietasprande ir kariauti pratusia tauta,
+    kuri gyveno Prūsijos žemės kaimynystėje, anapus Nemuno, Lietuvos žemėje.
   citata_rodoma: "Tačiau Skurdą516,\nkitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į\nLietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517."
   statusas: verified
   teiginio_tipas: faktas
@@ -80,6 +81,3 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60436
-
-## Ryšiai
-- Skurda keliavo į [[objektai/vietos/Lietuva]]

@@ -50,52 +50,6 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
   teiginys: "Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo lietuviška ir nebebuvo painiojama nei su Lenkija, nei su Rusija."
   pagrindžia:
     - c-24685
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo lietuviška ir nebebuvo painiojama nei su Lenkija, nei su Rusija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nė vienų netenkino nuosaikus A. Smetonos autoritarinis re-
-    žimas, nors ir dėl visai skirtingų priežasčių.
-    Nepriklausomybės karta
-    Per nepilnus du dešimtmečius Lietuva galutinai tapo lietu-
-    viška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A. Smetonos
-    valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-
-    tuviškai kalbanti Lietuva – iš esmės įgyvendintas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Lietuviška Lietuva, nors tarpais buvo be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kauno sporto halėje 1939 m. Lietuvos vyrų
-    krepšinio rinktinė antrą kartą tapo Europos čempionais
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    177
-    Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias
-    tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
-    kokia yra. Gana tipiškas to meto Europai A. Smetonos valstybės modelis,
-    įdiegtas tautiškumas, patriotizmas savotiškai tarsi paruošė nepriklauso-
-    mybės vaikus viena po kitos ėjusioms trims okupacijoms, net 50 metų už-
-    truksiančiam sovietų valdymui, o Lietuvos nepriklausomybės idėja, viltis
-    vėl gyventi laisvėje duos jėgų išsaugoti gimtąją kalbą, kultūrą, kai greitai
-    besisukdamos juodos svastikos ir raudonas pjautuvas ims kapoti galvas
-    geriausioms tautos dukterims ir sūnums.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

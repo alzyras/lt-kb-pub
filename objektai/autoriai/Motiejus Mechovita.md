@@ -35,35 +35,13 @@ Motiejus Mechovita, Zigmanto I laikų istorikas, rašė girdėjęs jotvingių ka
   teiginys: "Motiejus Mechovita, Zigmanto I laikų istorikas, rašė girdėjęs jotvingių kalbą Polesėje prie Drohičino ir jos nesupratęs."
   pagrindžia:
     - c-174778
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Motiejus Mechovita, Zigmanto I laikų istorikas, rašė girdėjęs jotvingių kalbą Polesėje prie Drohičino ir jos nesupratęs.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Dėl to reikia daryti išva­
-    dą, kad senovės jotvingių kalba arba visiškai išnykusi,
-    arba buvo panaši j slavų kalbas. Tiesa, Mechovita, Zig­
-    manto I laikais gyvenęs istorikas, rašo girdėjęs jotvingių
-    kalbą Polesėje, šalia Drohičino; jos nei jis, nei lietuvis,
-    nei žemaitis negalėję suprasti. Mechovita taip kalba apie
-    čigonus, žmones, kuriuos kai kada priskirdavo prie jot­
-    vingių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174778
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 119"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 119."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Dėl to reikia daryti išva­
     dą, kad senovės jotvingių kalba arba visiškai išnykusi,

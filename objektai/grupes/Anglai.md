@@ -11,14 +11,14 @@ datos:
   - '1829 m.'
 date_start: '1340'
 date_end: '1829'
+amziai:
+  - 'XIV'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
-amziai:
-  - 'XIV'
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -173,221 +173,6 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195581|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutų gaudymas siautėjo ypač smarkiai.
 - susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195583|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutai buvo gaudomi ištisus metus, nežiūrint nei į amžių, nei į sveikatos trūkumus.
 - susijęs iš [[objektai/asmenys/Vilhelmas Douglas.md#claim-t-87882|Vilhelmas Douglas]]: Vilhelmas Douglas buvo įžymus škotas, žuvęs dvikovoje per anglų ir škotų vaidus Karaliaučiuje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Ant galų galo, nebgalėdami nė nuo ko geležies gauti, nemintą metuose 1340 Kęstučiui, didžiajam Lietuvos kunigaikščiui, ūkę valdant, išleido
-        siuntinius^1432 į Anglijos žemę, kurie tenai su anglais padarė sandarą^1433 , kurioje sutarė, jog lietuviai,
-        kalnėnai ir žemaičiai, galės Anglijos žemėj prekioti ir gyventi, lygia dalia anglai galės Žemaičiuose ir
-        Kalne gyventi ir prekioti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Atentį metą anglai buvo įkūrę tenai prekės draugybą^1512.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
-    čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
-    vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir
-    Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro
-    sienų. Visos tuometinės artilerijos karo mašinos ir ugnias-
-    vaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-004
-  santrauka: 'Anglija, Škotija ir Prancūzija savanoriais papildė vokiečių riterių būrius, susirinkusius Karaliaučiuje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Anglija, Škotija ir Prancūzija gerokai papildė sa-
-    duodama 12 pūdų vaško: duodecem
-    talenta cerae Pud dieta, de curia castri
-    nostri Viln. singulis quatuor tempori­
-    bus tria talenta solvi debent capitulo su-
-    prascripto etc [dvylika talentų vaško,
-    vadinamų pūdais, iš mūsų Vilniaus
-    pilies dvaro kiekvienais metais ke­
-    turiskart po tris talentus privalo
-    aukščiau aprašytai kapitulai mokė­
-    ti]. Už tą dovį karalius įpareigoja ka­
-    pitulą, kad jo sielos išganymo dėlei
-    nustatytomis dienomis būtų atlaiko­
-    mos mišios. Actum Vilnae, die domi­
-    nico infra octavas Ascensionis Chr. An­
-    no D-ni 1390. Sigillum appensile
-    [ Aktuota Vilniuje, Kristaus Žengimo
-    į dangų oktavoje, Viešpaties metais
-    1390. Prikabinamas antspaudas]. Ta
-    privilegija buvo patvirtinta Žygi­
-    manto 11518 m. in conventu generali
-    Brestensi [didžiajame Brastos kon­
-    vente]. Paneriai - tai palivarkas ir
-    kalnai, pavadinimą tokį gavę nuo to,
-    kad išsidėstę prie upės, kuri seniau
-    buvo vadinta Nerimi, dabar Vilija
-    (Panerys). Lietuvoj labai paplitęs pa­
-    protys gyvenvietes prie upių vadin­
-    ti, pridėjus prie upės pavadinimo
-    priešdėlį -pa: pvz.: Paširvintys - nuo
-    Širvintos upės; Pamerkys - nuo Mer­
-    kio upės; Pamusiai - nuo Musės
-    upės; Panevėžys - nuo Nevėžio; Pa­
-    dubysis - nuo Dubysos.
-    39
-    Valenrodas didžiuoju magistru iš­
-    rinktas 1391 m. Verbų sekmadienį,
-    tai yra kovo 12-ą, o mirė 1393 metų
-    liepos 25-ą.
-    130
-
-    ## Puslapis 147
-
-    Il KNYGA
-    vanoriais daugelį vokiečių riterių būrių, kurie, susirinkę Ka­
-    raliaučiuje, prie riterių garbės puotos stalų40, valiodavo už­
-    miršti apie sunkumus ir nesėkmes, patirtas per praėjusių me­
-    tų žygį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vis dėlto visi
-    pasistengta rasti kelis išdavikus, ku- kryžiuočių raštai ir jų kronikininkų
-    rie per priešo puolimą sviedė deglą, pasakojimai užginčija buvus įšda-
-    Tokiu būdu paimta pilis ir nužudv- vvstę. Arkikomtūro laiškas Romos
-    - •
-    123
-
-    ## Puslapis 140
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­
-    dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose
-    įgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Siaubo
-    pagautų žmonių kamšatis ir visur umaru besibraunantis, įsi-
-    šėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­
-    ti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­
-    tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito
-    mūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­
-    vo likimą31.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tūkstančiui rinktinių anglų
-    21
-    To įsidėmėtino žygio į Vilnių apra­
-    šymą nepasirašę įdėjome į 1829 metų
-    Dziennik Wileński Nr. 1. Dabartinis
-    iš tiesų visiškai skiriasi nuo pirmes-
-    niojo, kurio klaidas stengėmės ištai­
-    syti, remdamiesi naujais, vėliau ap­
-    tiktais šaltiniais, būtent: F o i g t o
-    naujai išleistos Prūsijos istorijos T. V
-    ir pastabomis, kurias mums itin ge­
-    ranoriškai pareiškė mokslininkas
-    Lietuvos istorijos žinovas Ignacas
-    Onacevičius.
-    22
-    Miechovita, Strijkovskis
-    ir K o j e 1 a v i č i u s klysta sakyda­
-    mi, esą žygio vadovavimas buvo pa­
-    vestas Konradui Valenrodui, kurį
-    jau tuo metu vadina didžiuoju ma­
-    gistru, kai Konradas Valenrodas
-    1382 metais, sekmadienį prieš Šv.
-    Mykolą paskirtas Ordino didžiuoju
-    maršalu, 1387 metais per Apreiški­
-    mo Marijai šventę tapo didžiuoju
-    komtūru arba arkikomtūru, 1390
-    rugpjūčio 15 d., po didžiojo magistro
-    Konrado Ciolnerio fon Rotenšteino
-    mirties, - ir didžiojo magistro vieti­
-    ninku, iki pat kapitulos suvažiavi­
-    mo, ir tik 1391 m. kovo 12 d. išrink­
-    tas didž. magistru; mirė 1393 m.
-    liepos 25 d.
-    119
-
-    ## Puslapis 136
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    lankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­
-    bio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­
-    no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos
-    sostą23.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-007
-  santrauka: 'Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytauto rūpesčiu žemaičiai Karaliaučiuje
-    sudarė sutartį su Ordinu, taigi Vytauto galia vėl sustiprėjo,
-    ir didysis magistras, įsitikinęs, jog lietuvių pajėgos susi­
-    skaldžiusios, ėmė ruoštis į pakartotiną, bet daug reikšmin­
-    gesnį žygį, kurio tikslas jau buvo ne tik apiplėšti Lietuvą,
-    tačiau užimti jos sostinę ir įkurdinti ten Vytautą21. Kai rug­
-    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
-    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
-    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
-    jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
-    vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
-    esanti pagonių šalis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-005
-
 ## Citatos
 
 - id: c-10105
@@ -527,8 +312,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172071
     - t-172070
+    - t-172071
 
 - id: c-156497
   autorius: "Michał Baliński"
@@ -606,5 +391,5 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172073
     - t-172072
+    - t-172073

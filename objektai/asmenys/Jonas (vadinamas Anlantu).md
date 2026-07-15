@@ -44,33 +44,13 @@ Dusburgietis teigia, kad apie Albrechto, Romos karaliaus, nužudymą 1308 viešp
   teiginys: "1308 m. gegužės 1 d. kunigaikštis Jonas, vadinamas Anlantu, nužudė savo senelį Romos karalių Albrechtą."
   pagrindžia:
     - c-60976
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1308 m. gegužės 1 d. kunigaikštis Jonas, vadinamas Anlantu, nužudė savo senelį Romos karalių Albrechtą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    104. Apie Albrechto, Romos karaliaus, nužudymą
-
-      1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos
-    karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs
-    Austrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.
-      599 D.— Dunemunde; vėliau vok.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60976
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     104. Apie Albrechto, Romos karaliaus, nužudymą
 

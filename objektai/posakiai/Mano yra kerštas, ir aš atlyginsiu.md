@@ -35,33 +35,13 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
   teiginys: "Posakis „Mano yra kerštas, ir aš atlyginsiu“ priskiriamas Pakartoto įstatymo knygai."
   pagrindžia:
     - c-59760
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Posakis „Mano yra kerštas, ir aš atlyginsiu“ priskiriamas Pakartoto įstatymo knygai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    12. Apie Višogrudo pilies sugriovimą
-
-      Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”,
-    tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite
-    jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir
-    amžiną vardą”. Siek tiek toliau jis priduria (1 Mak 2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-59760
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 255"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     12. Apie Višogrudo pilies sugriovimą
 

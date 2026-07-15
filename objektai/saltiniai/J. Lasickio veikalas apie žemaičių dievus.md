@@ -3,6 +3,12 @@ tipas: saltinis
 pavadinimas: 'J. Lasickio veikalas apie žemaičių dievus'
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+datos:
+  - '1220 m.'
+date_start: '1220'
+date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -35,29 +41,22 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   pagrindžia:
     - c-173348
 
-<a id="claim-t-190466"></a>
-- t-002
-  global_id: t-190466
-  teiginys: "Narbutas nurodo, kad Lasickis ir liaudies padavimai Raganomis vadino deives, globojusias tam tikrus medžius."
-  pagrindžia:
-    - c-173349
-
 <a id="claim-t-190468"></a>
-- t-003
+- t-002
   global_id: t-190468
   teiginys: "Narbutas nurodo, kad Lasickis Datoną aprašė tik kaip dievaitį, dalijusį žemes arba visokį turtą."
   pagrindžia:
     - c-173351
 
 <a id="claim-t-190469"></a>
-- t-004
+- t-003
   global_id: t-190469
   teiginys: "Narbutas rašo, kad Lasickis Varpelį laikė ore sklindančio aido dievaičiu, sukeldavusiu griausmą po perkūno trenksmo."
   pagrindžia:
     - c-173352
 
 <a id="claim-t-190470"></a>
-- t-005
+- t-004
   global_id: t-190470
   teiginys: "Narbutas nurodo, kad Lasickis Markopolius aprašė kaip požemio dievaičius, ypač garbintus didikų ir bajorų."
   pagrindžia:
@@ -85,34 +84,55 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
     - c-173356
 
 <a id="claim-t-190474"></a>
-- t-009
+- t-005
   global_id: t-190474
   teiginys: "Narbutas nurodo, kad, pasak Lasickio, Jokūbas Laskovičius jam pasakojo apie Žemaitijoje daugeliui dievų teiktą garbę."
   pagrindžia:
     - c-173357
 
 <a id="claim-t-190475"></a>
-- t-010
+- t-009
   global_id: t-190475
   teiginys: "Narbutas rašo, kad Lasickis paliko pirmos alaus statinės pradėjimo apeigų, vadintų nuleidimu, aprašymą Ragutienės garbei."
   pagrindžia:
     - c-173358
 
-<a id="claim-t-190476"></a>
-- t-011
-  global_id: t-190476
-  teiginys: "Narbutas rašo, kad Lasickis, aptardamas Ežiagulį, aprašė žemaičių gedulingą šventę skerstuves."
-  pagrindžia:
-    - c-173359
-
 <a id="claim-t-194678"></a>
-- t-012
+- t-010
   global_id: t-194678
   teiginys: "Lazdona (Lazdona) Tai buvo ypatinga hamadriadė, pasak Lasickio, globojusi vien tik lazdynus."
   pagrindžia:
     - c-177075
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197346"></a>
+- t-011
+  global_id: t-197346
+  teiginys: "Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa statė stabą, kadangi po mirties jai pradėta teikti dievišką gar bę, kitaip sakant, ji buvo pripažinta deive."
+  pagrindžia:
+    - c-179143
+
+<a id="claim-t-197347"></a>
+- t-012
+  global_id: t-197347
+  teiginys: "Kaimiečiai iki šiol tebėra pamaldūs šiam dievaičiui, nors dėl daugelio priežasčių beveik jau jį užmiršo ir savo tos rūšies maldose turi galvoje tikrąjį Dievą; tas maldas kalba krikščio nišku papročiu prieš pat įsėsdami į ratus; taigi keliautojai, prieš."
+  pagrindžia:
+    - c-173352
+
+<a id="claim-t-197348"></a>
+- t-013
+  global_id: t-197348
+  teiginys: "Sunkiai, labai steng damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip dievą."
+  pagrindžia:
+    - c-179144
+
+<a id="claim-t-197349"></a>
+- t-014
+  global_id: t-197349
+  teiginys: "Už pir mą vagystę bausdavo nuplakdami rykštėmis; įrodytąjį pavo gus antrą kartą žiauriai primušdavo lazdomis, o nepasitaisiusįjį ir pavogusį trečią kartą išvesdavo už miesto, toli nuo dievų prieglobsčio, ir užpjudydavo didžiuliais šunimis, kurie jį vieto je."
+  pagrindžia:
+    - c-173358
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pats tai laikė nepanašu į tiesą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -131,80 +151,6 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Narbutas nurodo, kad Lasickis ir liaudies padavimai Raganomis vadino deives, globojusias tam tikrus medžius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Štai ir
-    naujas kačių muzikos kilmės išaiškinimas!
-    153
-
-    ## Puslapis 153
-
-    Ragana (Ragana)
-    Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei­
-    vės, globojančios tam tikrus medžius, augančius savaime arba
-    kieno nors persodintus. Tokie medžiai yra užkerėti, tad pavo­
-    jinga juos liesti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas nurodo, kad Lasickis Datoną aprašė tik kaip dievaitį, dalijusį žemes arba visokį turtą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Datonas (Datonus)
-    Dievaitis, žemių arba visokio turto dalytojas. Tik tiek apie
-    jį papasakojo Lasickis. Tenka spėlioti, kad tai buvo savotiškas
-    Plutono sekimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Narbutas rašo, kad Lasickis Varpelį laikė ore sklindančio aido dievaičiu, sukeldavusiu griausmą po perkūno trenksmo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­
-    tų gongais.
-    Varpelis (WarpeJis)
-    Aido, sklindančio ore, dievaitis. Lasickis pasakoja, kad, se­
-    novės lietuvių nuomone, jis sukeldavęs tą griausmą, kuris pa­
-    sigirsta ore trenkus perkūnui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Narbutas nurodo, kad Lasickis Markopolius aprašė kaip požemio dievaičius, ypač garbintus didikų ir bajorų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Markopoliai (Markopole)
-    Požemio dievaičiai, kuriuos ypač garbino didikai ir bajo­
-    rai. Aiškiu Lasickio liudijimu, Strijkovskis ir kiti trumpai mini
-    juos kaip požemio dievaičius. Tai buvo barstukai, tik kilmin-
-    gesnės giminės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
 
 - c-006
   santrauka: 'Narbutas rašo, kad, pasak Lasickio, kaukai pasirodydavę tik jais tikėjusiems žmonėms.'
@@ -269,115 +215,22 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   pagrindžia:
     - t-008
 
-- c-009
-  santrauka: 'Narbutas nurodo, kad, pasak Lasickio, Jokūbas Laskovičius jam pasakojo apie Žemaitijoje daugeliui dievų teiktą garbę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Matėme aukojimų aprašyme, kad
-    aukų paplotėliai buvo kepami mėtant juos per ugnį -  tai buvo
-    apvalytoji duona, vadinamieji sikies nuplaudimies.
-    Lasickis sako, kad Jokūbas Laskovičius, Žemaičių kuni­
-    gaikštystės valdininkas, pasakojęs jam apie garbę, teiktą tame
-    krašte dar daugeliui kitų dievų. O iš kitų apeigų, išlikusių iš
-    stabmeldystės laikų, ten buvo žinoma maldelė, kurią autorius
-    perteikia šiais žodžiais: Perkūne Dewajte, ne muski und mana
-    diewu: melsu tavi paltu miessu ir išverčia ją šitaip: „Susilaikyk,
-    Perkūne, nedaryk žalos mano lauke: aš tau atiduodu šią paltį
-    lašinių“1 2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-010
-  santrauka: 'Narbutas rašo, kad Lasickis paliko pirmos alaus statinės pradėjimo apeigų, vadintų nuleidimu, aprašymą Ragutienės garbei.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    347
-
-    ## Puslapis 347
-
-    myn, kaip tai darė kitos tautos amžininkės, o atgal. Vis dėlto
-    Lasickis mums paliko pirmos alaus statinės pradėjimo apeigų
-    aprašymą, nors nedaug vertą, bet praleisti jį, kaip senovės pa­
-    minklą, nederėtų. Kai išvirtą alų pastatydavo rūsyje ir ketin­
-    davo pradėti jį gerti, namų šeimininkas, pritekinęs indą iš pir­
-    mos statinės, atlikdavo apeigas, vadintas nuleidimu (Nutajdi-
-    mas), deivės Ragutienės garbei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-011
-  santrauka: 'Narbutas rašo, kad Lasickis, aptardamas Ežiagulį, aprašė žemaičių gedulingą šventę skerstuves.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    384
-
-    ## Puslapis 384
-
-    Tas pats autorius straipsnyje apie Ežiagulį (Eiagulis) ap­
-    rašo gedulingą žemaičių šventę, vadinamą skerstuvėmis
-    (Skierstimes); lietuvių kalba tai reiškia meitėlio skerdimą; pa­
-    prastai tai vyksta ruošiant vaišių stalą ir dabar yra mūsų kai­
-    miečių įprastinės apeigos, turinčios kažkokią dalį ką tik apra­
-    šyto papročio. Mūsų mitologas sako, kad per šią šventę šauk­
-    davosi dievo Ežiagulio; ankstesniame straipsnyje išsiaiškino­
-    me, kad tas žodis reiškia tiesiog kapą, o šiuo atveju galėjo reikšti
-    asmenį, gulintį kape. Tą meldimą išreiškia šiais žodžiais: Veni
-    cum mortuis, farcimina nobiscum manducatums (Ateik kartu
-    su mirusiaisiais valgyti dešros.) Tai visiškai sutampa su aprašy­
-    tomis apeigomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-012
-  santrauka: 'Lazdona (Lazdona) Tai buvo ypatinga hamadriadė, pasak Lasickio, globojusi vien tik lazdynus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lazdona (Lazdona)
-    Tai buvo ypatinga hamadriadė, pasak Lasickio, globojusi
-    vien tik lazdynus.
-    Medziojna (Medziojna)
-    Taip nuo žodžio Medžios -  tankus miškas vadinosi miško
-    nimfos, kurios globojo miško tankmes ir, ten gyvendamos,
-    kenkdavo arba padėdavo žmonėms, todėl turėjo teisę būti jų
-    garbinamos. Apie jas žinome iš Lasickio ir liaudies padavimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
 ## Citatos
 
 - id: c-173348
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 152"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 152."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tų deivių karalienės vardas buvo
-    Jūratė .
-    Dugne (Dugną)
-    Upinė nimfa, kitaip Gudelka26 * 28, pagal tai, ką aukščiau pa­
-    teikėme iš Jakimavičiaus. Lasickis šiai dievybei priskiria ypa­
-    tybe globoti įmaišytą tešlą; tai visai nepanašu į tiesą, kadangi
-    pats žodis Dugnas reiškia upės dugną.
+    Priešingai, tam, kuris norėjo savavališ­
+    kai pakenkti medžiui arba nukirsti ji, jos galėjusios atimti ran­
+    kų ir kojų galią, sutraukti sąnarius arba tokį žmogų užkrėsti
+    neišgydomomis ligomis. Taip anot lietuvių padavimų.
+    Šios deivės yra tikra antikinių hamadriadžių kopija.
+    Prietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,
+    dabar raganomis vadina tam tikras kerėtojas, galinčias pasi­
+    versti katėmis bei šarkomis ir skraidančias raitomis ant ožio.
+  citata_rodoma: "Tų deivių karalienės vardas buvo\nJūratė .\nDugne (Dugną)\nUpinė nimfa, kitaip Gudelka26 * 28, pagal tai, ką aukščiau pa­\nteikėme iš Jakimavičiaus. Lasickis šiai dievybei priskiria ypa­\ntybe globoti įmaišytą tešlą; tai visai nepanašu į tiesą, kadangi\npats žodis Dugnas reiškia upės dugną."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -385,34 +238,10 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   pagrindzia:
     - t-190465
 
-- id: c-173349
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Štai ir
-    naujas kačių muzikos kilmės išaiškinimas!
-    153
-
-    ## Puslapis 153
-
-    Ragana (Ragana)
-    Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei­
-    vės, globojančios tam tikrus medžius, augančius savaime arba
-    kieno nors persodintus. Tokie medžiai yra užkerėti, tad pavo­
-    jinga juos liesti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190466
-
 - id: c-173351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 159"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 159."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Datonas (Datonus)
     Dievaitis, žemių arba visokio turto dalytojas. Tik tiek apie
@@ -428,27 +257,33 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-173352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 162"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 162."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­
-    tų gongais.
-    Varpelis (WarpeJis)
-    Aido, sklindančio ore, dievaitis. Lasickis pasakoja, kad, se­
-    novės lietuvių nuomone, jis sukeldavęs tą griausmą, kuris pa­
-    sigirsta ore trenkus perkūnui.
+    Niekas
+    neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
+    tam tikros mitinės formulės, tai yra maldelės, matyt, iš bai­
+    mės, kad neatsitiktų kas blogo: dažniausiai manyta, kad ak­
+    muo gali pasitraukti iš po sėdinčio, todėl galima smarkiai už­
+    sigauti.
+    Kaimiečiai iki šiol tebėra pamaldūs šiam dievaičiui, nors
+    dėl daugelio priežasčių beveik jau jį užmiršo ir savo tos rūšies
+    maldose turi galvoje tikrąjį Dievą; tas maldas kalba krikščio­
+    nišku papročiu prieš pat įsėsdami į ratus; taigi keliautojai, prieš
+    išeidami iš trobos, susėda ant suolo kartu su visais esančiais,
+    trumpai pasimeldžia ir patyli akis nukreipę į krosnį. Taip pa­
+    sėdi kurį laiką, tarytum dar kažką apmąstydami.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190469
+    - t-197347
 
 - id: c-173353
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Markopoliai (Markopole)
     Požemio dievaičiai, kuriuos ypač garbino didikai ir bajo­
@@ -465,15 +300,18 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-173354
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 182"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kitų supratimu, tai buvu­
-    sios lietuviškos Silfos . Pasak Lasickio pasakojimų, kaukai pa-
-    si rodydavę tiems, kurie jais tikėjo, kiti jų visiškai negalėję ma­
-    tyti. Siu kaukų garbintojai nakčiai tam tikrose vietose padėda­
-    vo jiems maisto; iš jo suvalgymo pranašaudavo panašiai kaip
-    su barstukais.
+    „Lietuvių tautos istorijos“ pirmojo tomo skyrių uždavinys. O
+    čia surinksime visokias išlikusias žinias apie dangaus kūnų su­
+    dievinimą, kadangi aukščiau nurodėme ne vieną dievaitį, tie­
+    siogiai kilusį iš šio šaltinio, ir kitus, galėjusius būti tos kilmės;
+    kadangi užrašai žuvo, šito tiksliai aprašyti negalėjome. Be jo­
+    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
+    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
+    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
+    no, gyveno ši tauta, garbinusi dangaus kūnus .
+  citata_rodoma: "Kitų supratimu, tai buvu­\nsios lietuviškos Silfos . Pasak Lasickio pasakojimų, kaukai pa-\nsi rodydavę tiems, kurie jais tikėjo, kiti jų visiškai negalėję ma­\ntyti. Siu kaukų garbintojai nakčiai tam tikrose vietose padėda­\nvo jiems maisto; iš jo suvalgymo pranašaudavo panašiai kaip\nsu barstukais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -486,16 +324,19 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vis dėlto išliko neabejotinų
-    faktų apie jų buvimą senovėje. Lasickis sako, kad lietuviai slėp­
-    davo tam tikras dievų garbinimo apeigas, dažniausiai nuo krikš­
-    čionių, tai yra ne kiekvienas jose galėdavo dalyvauti. Iš čia slap­
-    tos sueigos, slaptos reikšmės dievybės, kurių mūsų mitologas
-    197
+    Šiuo aspektu žvelgdami į lietuvių religiją, į gana aukštą
+    tautos senovinės civilizacijos laipsnį, tobulą mitologiją, kalbą,
+    teisę ir kitą viešąją tvarką, iš tikrųjų turime pritarti nuomonei,
+    1 Essais sur l’esprit et les moeurs de nations. - T. I. - P. 20.
+    J98
 
-    ## Puslapis 197
-
-    išvardija net aštuonetą.
+    kad paslaptys nebuvo svetimos mūsų protėviams. Pagaliau jei­
+    gu kronikos ir padavimai tvirtina apie lietuvius, kad jie slepią
+    kai kurias savo apeigas , jeigu autoriai, įvairiapusiškai išma­
+    nantys visuotinę mitologiją, tą patį pripažįsta ir laukiniams Af­
+    rikos Sacharos dykumos gyventojams’, tai kodėl tą turėtume
+    užginčyti lietuvių tautai?
+  citata_rodoma: "Vis dėlto išliko neabejotinų\nfaktų apie jų buvimą senovėje. Lasickis sako, kad lietuviai slėp­\ndavo tam tikras dievų garbinimo apeigas, dažniausiai nuo krikš­\nčionių, tai yra ne kiekvienas jose galėdavo dalyvauti. Iš čia slap­\ntos sueigos, slaptos reikšmės dievybės, kurių mūsų mitologas\n197\n\n## Puslapis 197\n\nišvardija net aštuonetą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -506,20 +347,15 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-173356
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 206"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 206."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Simonaitė (Simonajte)
-    Moteriškos giminės fetišas, jį garbino Mikuckių giminė.
-    Sidzia
-    Mikalauskų giminės fetišas.
-    Ventis (W entis)
-    Semetų giminės fetišas.
-    Rageziowan
-    Kęsgailų giminės fetišas.
-    Dievaitis (Dewojtis)
-    Pajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­
-    seinių apskrityje, tikriausiai prie Jūros upės.
+    1825 metais man pasitaikė aptikti mano kaimelio senųjų
+    savininkų fetišą. Reikėjo iškasti griovį slėnelyje prie gyvena­
+    mojo namo, ir kaip tik toje vietoje, kur buvo seno perkaso
+    pėdsakai, kasėjai dumble aptiko akmenį ir jį išmetė. Aš, pri­
+    žiūrėdamas jų darbą, pastebėjau tą akmenį. Jis iš karto nuste­
+    bino mane ypatinga savo išvaizda.
+  citata_rodoma: "Simonaitė (Simonajte)\nMoteriškos giminės fetišas, jį garbino Mikuckių giminė.\nSidzia\nMikalauskų giminės fetišas.\nVentis (W entis)\nSemetų giminės fetišas.\nRageziowan\nKęsgailų giminės fetišas.\nDievaitis (Dewojtis)\nPajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­\nseinių apskrityje, tikriausiai prie Jūros upės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -530,11 +366,10 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-173357
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 344"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 344."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Matėme aukojimų aprašyme, kad
-    aukų paplotėliai buvo kepami mėtant juos per ugnį -  tai buvo
+    aukų paplotėliai buvo kepami mėtant juos per ugnį - tai buvo
     apvalytoji duona, vadinamieji sikies nuplaudimies.
     Lasickis sako, kad Jokūbas Laskovičius, Žemaičių kuni­
     gaikštystės valdininkas, pasakojęs jam apie garbę, teiktą tame
@@ -556,63 +391,40 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    347
-
-    ## Puslapis 347
-
-    myn, kaip tai darė kitos tautos amžininkės, o atgal. Vis dėlto
-    Lasickis mums paliko pirmos alaus statinės pradėjimo apeigų
-    aprašymą, nors nedaug vertą, bet praleisti jį, kaip senovės pa­
-    minklą, nederėtų. Kai išvirtą alų pastatydavo rūsyje ir ketin­
-    davo pradėti jį gerti, namų šeimininkas, pritekinęs indą iš pir­
-    mos statinės, atlikdavo apeigas, vadintas nuleidimu (Nutajdi-
-    mas), deivės Ragutienės garbei.
+    Už pir­
+    mą vagystę bausdavo nuplakdami rykštėmis; įrodytąjį pavo­
+    gus antrą kartą žiauriai primušdavo lazdomis, o nepasitaisiu-
+    sįjį ir pavogusį trečią kartą išvesdavo už miesto, toli nuo dievų
+    prieglobsčio, ir užpjudydavo didžiuliais šunimis, kurie jį vieto­
+    je surydavo.
+    Vestuvių apeigos
+    Sį platų straipsnį dar galėtume išplėsti, jeigu norėtume iš­
+    dėstyti visas smulkesnes žinias, tačiau aptinkama visada tas
+    pats dalykas, tiktai vis kitu būdu pakartotas, todėl tas ištęsi­
+    mas būtų tuščias skaitytojo kantrybės varginimas. Lietuviai ne­
+    sipriešino vedyboms su kitos tautos merginomis, nes lietuvių
+    apeigose istorija mums pateikia daug skolinių, kadangi gyvuoja
+    amžinas paprotys, jog vestuvių apeigose vadovaujamasi ne vy­
+    ro, o nuotakos tautiniu papročiu; kurios tautos buvo jaunoji,
+    pagal tos tautos apeigas vyko ir vestuvės.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190475
-
-- id: c-173359
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    384
-
-    ## Puslapis 384
-
-    Tas pats autorius straipsnyje apie Ežiagulį (Eiagulis) ap­
-    rašo gedulingą žemaičių šventę, vadinamą skerstuvėmis
-    (Skierstimes); lietuvių kalba tai reiškia meitėlio skerdimą; pa­
-    prastai tai vyksta ruošiant vaišių stalą ir dabar yra mūsų kai­
-    miečių įprastinės apeigos, turinčios kažkokią dalį ką tik apra­
-    šyto papročio. Mūsų mitologas sako, kad per šią šventę šauk­
-    davosi dievo Ežiagulio; ankstesniame straipsnyje išsiaiškino­
-    me, kad tas žodis reiškia tiesiog kapą, o šiuo atveju galėjo reikšti
-    asmenį, gulintį kape. Tą meldimą išreiškia šiais žodžiais: Veni
-    cum mortuis, farcimina nobiscum manducatums (Ateik kartu
-    su mirusiaisiais valgyti dešros.) Tai visiškai sutampa su aprašy­
-    tomis apeigomis.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190476
+    - t-197349
 
 - id: c-177075
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lazdona (Lazdona)
     Tai buvo ypatinga hamadriadė, pasak Lasickio, globojusi
     vien tik lazdynus.
     Medziojna (Medziojna)
-    Taip nuo žodžio Medžios -  tankus miškas vadinosi miško
+    Taip nuo žodžio Medžios - tankus miškas vadinosi miško
     nimfos, kurios globojo miško tankmes ir, ten gyvendamos,
     kenkdavo arba padėdavo žmonėms, todėl turėjo teisę būti jų
     garbinamos. Apie jas žinome iš Lasickio ir liaudies padavimų.
@@ -622,3 +434,41 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194678
+
+- id: c-179143
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Mirė maždaug prieš 1220
+    metus. Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa­
+    statė stabą, kadangi po mirties jai pradėta teikti dievišką gar­
+    bę, kitaip sakant, ji buvo pripažinta deive. Toje vietoje jai bu­
+    vo meldžiamasi: jos šaukėsi liepų miškelyje, ją garbino iki pas­
+    kutinių lietuvių stabmeldystės laikų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197346
+
+- id: c-179144
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­
+    paprastai seni, ir apie juos pasakojo ypač keistų dalykų. Gva-
+    ninis8 ta dingstimi pateikia pasakojimą: „Vienas žmogus, tik­
+    ras katalikų tikėjimo išpažinėtojas, pirko iš vieno tų žalčių gar­
+    bintojų keletą avilių bičių. Vėliau, po ilgos jų bičiulystės, at­
+    vertė ir patį šeimininką į Kristaus tikėjimą. Sunkiai, labai steng­
+    damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
+    dievą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197348

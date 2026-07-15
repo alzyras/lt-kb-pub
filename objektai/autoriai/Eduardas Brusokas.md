@@ -41,27 +41,6 @@ Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete įgijo istorijos bakal
   pagrindžia:
     - c-41647
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Eduardas Brusokas gimė 1970 m., Vilniaus universitete įgijo istorijos bakalauro, o Vytauto Didžiojo universitete - istorijos magistro laipsnį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete
-    įgijo istorijos bakalauro, Vytauto Didžiojo universitete - istori-
-    jos magistro laipsnį. Nuo 2000 m. dirba Vytauto Didžiojo karo
-    muziejaus Lietuvos Didžiosios Kunigaikštystės karybos istori-
-    jos skyriuje, nuo 2006 m. yra skyriaus vedėjas. Tyrinėjimo lau-
-    kas — Lietuvos Didžiosios Kunigaikštystės karybos istorija,
-    XVIII a. Lietuvos istorija, 1794 m. sukilimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41647

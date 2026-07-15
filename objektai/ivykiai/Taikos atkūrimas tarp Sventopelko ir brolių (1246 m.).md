@@ -7,14 +7,14 @@ datos:
   - '1246 m.'
 date_start: '1246'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - paliaubos
   - sutartis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,33 +65,8 @@ Nenurodyta
   teiginys: "1246 m. buvo sudarytos paliaubos tarp Ordino ir Sventopelko."
   pagrindžia:
     - c-63167
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po ilgų derybų Ordino broliai ir Pomeranijos kunigaikštis Sventopelkas atnaujino ankstesnę taikos sutartį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie taikos atkūrimą tarp Sventopelko ir brolių
-
-      Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis
-    Sventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis
-    sunaikinti brolius bei tikėjimo daigyną, per didelį ir gausų krikščionių kraujo praliejimą
-    pasodintą Prūsijos žemėje, dabar  it jaukus avinėlis, nuleidęs akis  ir nukoręs galvą,
-    nuolankiai paprašė brolius, kad teiktųsi jam vėl parodyti savo įprastą maloningąjį
-    palankumą. Broliai nenorėjo leistis suvedžiojami, žinodami, kad jis, bėdos prispirtas,
-    visados slepia po švelniu avinėlio kailiu lapės širdį, kupiną klastos ir suktumo, nes šitai
-    rodė įvykių raida, mat jis jau trečią kartą buvo sulaužęs priesaika patvirtintą taikos
-    sutartį. Kadangi taikos malonių visados reikia siekti, nes to moko tas, kuris teikia taiką ir
-    ją puoselėja, tai yra Jėzus Kristus, todėl po ilgų derybų, kryžininkų patariami, jie atnaujino
-    pagal pirmykštę formulę senąją sutartį, jų sudarytą su minėtuoju kunigaikščiu295.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: '1246 m. buvo sudarytos paliaubos tarp Ordino ir Sventopelko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -111,15 +86,13 @@ Nenurodyta
 - id: c-63166
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 97"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 97."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie taikos atkūrimą tarp Sventopelko ir brolių
-
-      Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis
+    Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis
     Sventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis
     sunaikinti brolius bei tikėjimo daigyną, per didelį ir gausų krikščionių kraujo praliejimą
-    pasodintą Prūsijos žemėje, dabar  it jaukus avinėlis, nuleidęs akis  ir nukoręs galvą,
+    pasodintą Prūsijos žemėje, dabar it jaukus avinėlis, nuleidęs akis ir nukoręs galvą,
     nuolankiai paprašė brolius, kad teiktųsi jam vėl parodyti savo įprastą maloningąjį
     palankumą. Broliai nenorėjo leistis suvedžiojami, žinodami, kad jis, bėdos prispirtas,
     visados slepia po švelniu avinėlio kailiu lapės širdį, kupiną klastos ir suktumo, nes šitai
@@ -138,11 +111,19 @@ Nenurodyta
 - id: c-63167
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 97"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 97."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    295   Paliaubos tarp Ordino  ir Sventopelko sudarytos 1246 m. (Ewald  A., Die
-    Eroberung..., 2, p. 205).
+    Apie vienos pilies užkariavimą ir apie Kristburgo pilį
+    Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
+    yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko
+    rūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius
+    ir maldininkus, patraukė į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
+    ilsintis, priartėjo prie pamedėnų pilies, stovėjusios tada toje vietoje, kuri dabar
+    vadinama Senuoju Kristburgu, slapta įsibrovė į pilį, pristatęs prie sienų kopėčias, ir
+    ją užėmė nukovęs ar išsivaręs į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
+    daug ginklanešių. Kadangi Kristaus gimimo naktį buvo tikinčiųjų užkariauta ta pilis, ji
+    pavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties
+    pranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse.
   citata_rodoma: "295   Paliaubos tarp Ordino  ir Sventopelko sudarytos 1246 m. (Ewald  A., Die\nEroberung..., 2, p. 205)."
   statusas: verified
   teiginio_tipas: faktas

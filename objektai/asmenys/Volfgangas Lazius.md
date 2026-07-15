@@ -46,35 +46,15 @@ Volfgangas Lazius, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis 
   pagrindžia:
     - c-173103
 - susijęs iš [[objektai/autoriai/Volfgangas Lazijus.md#claim-t-191662|Volfgangas Lazijus]]: Volfgangas Lazijus, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis paskelbė heruliškąja laikytą maldą „Tėve mūsų“.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Volfgangas Lazius, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis paskelbė heruliškąją maldą „Tėve mūsų“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    -  Išnaša, kuria T. Narbutas papildė paragrafą, reng­
-    damas antrąjį LTI leidimą (PEĮ. -  L. 304). Volf­
-    gangas Lazius (1514-1565), istoriografas ir geog­
-    rafas, pirmasis paskelbė šią heruliškąją maldą „Tė­
-    ve mūsų“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-173103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 513"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 513."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    -  Išnaša, kuria T. Narbutas papildė paragrafą, reng­
-    damas antrąjį LTI leidimą (PEĮ. -  L. 304). Volf­
+    - Išnaša, kuria T. Narbutas papildė paragrafą, reng­
+    damas antrąjį LTI leidimą (PEĮ. - L. 304). Volf­
     gangas Lazius (1514-1565), istoriografas ir geog­
     rafas, pirmasis paskelbė šią heruliškąją maldą „Tė­
     ve mūsų“.

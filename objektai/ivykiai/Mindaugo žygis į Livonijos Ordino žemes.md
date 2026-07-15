@@ -57,23 +57,6 @@ Nenurodyta
   teiginys: "1244 m., pasak eiliuotosios Livonijos kronikos, Mindaugas su 30 000 lietuvių nuniokojo Livonijos ordino žemes."
   pagrindžia:
     - c-38320
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Mindaugo jau turėta Lie­
-    tuvoje jei ne aukščiausia valdžia, tai bent pirmaujanti reikšmė,
-    nes, kaip žinia, tais metais jis padaręs didelį žygį į Mozūrus.
-    1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su
-    30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

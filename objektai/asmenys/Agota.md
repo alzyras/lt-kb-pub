@@ -77,83 +77,12 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
 - susijęs iš [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams.md#claim-t-62846|Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]: Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams, suteikiant jiems visas turėtas teises ir naudas.
 - susijęs iš [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę.md#claim-t-62936|Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]: Agotos valia Ordino broliai su Lenkijos vyrais stojo į kovą su prūsais, buvo mirtinai sužeisti, bet pagiję baigė patikėtą reikalą.
 - susijęs iš Lubavos žemė: Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
-    kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
-      168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje
-    besiribojančios su prūsų teritorija, centras.
-      169 Kaimas Sedlce (D.— Cedelicze) buvęs  į pietus nuo Vyslos, kiek  į šiaurę nuo
-    Inovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose). Kaip Dobrynės ordino
-    palikimas  atiteko kryžiuočiams (Guldon  Z., Powierski  J.  Podziały...,  p. 173—174,
-    žemėlapis Nr. 6).
-      170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.
-    411).
-
-    savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
-    pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
-    esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,
-    viešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius
-    visas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei
-    teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
-    šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Agotos valia Ordino broliai pasitelkė daug Lenkijos vyrų ir stojo į kovą su Prūsijos kariuomene.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Minėtieji broliai, valdovės
-    Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo  į kovą,
-    tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti,
-    minėtuosius brolius mirtinai sužeidė ir daugybę žmonių išžudė, o su savimi nusivedė
-    sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
-    likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai. Broliai pagydyti protingai
-    užbaigė jiems patikėtą reikalą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Valdovė Agota po mūšio įsakė surinkti kovos lauke likusius pusgyvius Ordino brolius ir patikėti juos gydytojams.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
-    prūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais. Minėtieji broliai, valdovės
-    Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo  į kovą,
-    tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti,
-    minėtuosius brolius mirtinai sužeidė ir daugybę žmonių išžudė, o su savimi nusivedė
-    sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
-    likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-57665
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45-46"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45-46."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
     kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
@@ -183,11 +112,10 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
 - id: c-57666
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Minėtieji broliai, valdovės
-    Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo  į kovą,
+    Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo į kovą,
     tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti,
     minėtuosius brolius mirtinai sužeidė ir daugybę žmonių išžudė, o su savimi nusivedė
     sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
@@ -203,12 +131,11 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
 - id: c-57667
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
-    prūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais. Minėtieji broliai, valdovės
-    Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo  į kovą,
+    prūsų kariuomenė ir ją nuniokojo gaisrais ir grobstymais. Minėtieji broliai, valdovės
+    Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo į kovą,
     tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti,
     minėtuosius brolius mirtinai sužeidė ir daugybę žmonių išžudė, o su savimi nusivedė
     sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke

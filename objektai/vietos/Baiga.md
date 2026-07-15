@@ -11,14 +11,14 @@ datos:
   - '1327 m.'
 date_start: '1239'
 date_end: '1327'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - pilis
-amziai:
-  - 'XIII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -145,29 +145,15 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   pagrindžia:
     - c-167529
 
-<a id="claim-t-90292"></a>
-- t-016
-  global_id: t-90292
-  teiginys: "Dusburgietis pabrėžė Baigos ir kitų pilių brolių skaistumą, santūrumą ir griežtų vienuoliškų regulų laikymąsi."
-  pagrindžia:
-    - c-86161
-
-<a id="claim-t-90291"></a>
-- t-017
-  global_id: t-90291
-  teiginys: "Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo narsa ir dažnai pridarydavo nuostolių priešo kariuomenei."
-  pagrindžia:
-    - c-86164
-
 <a id="claim-t-194527"></a>
-- t-018
+- t-016
   global_id: t-194527
   teiginys: "Apie Baigos brolių vienuolišką gyvenimą Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų regulų laikėsi Baigos bei kitų minėtųjų pilių."
   pagrindžia:
     - c-86161
 
 <a id="claim-t-194528"></a>
-- t-019
+- t-017
   global_id: t-194528
   teiginys: "Apie kelių prūsų žūtį Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo tokia narsa ir drąsa, kad retai kada priešo kariuomenė atsitraukdavo nuo pilies nepatyrusi nuostolių."
   pagrindžia:
@@ -318,7 +304,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - susijęs iš Skrando kalnas: Gubučiai Skrando kalne pastatė įtvirtintą kuorą ir sustiprino jį kariais.
 - susijęs iš Upa: Upa buvo Okos aukštupio dešinysis intakas prie Odojevo.
 - susijęs iš Upa: Upa apibūdinama kaip Okos aukštupio dešinysis intakas prie Odojevo, buvusio LDK rytų pasienyje.
-- susijęs iš Vilnius: 1377 m. birželio pabaigoje Ordino pajėgos puolė Vilnių, o padegtas miestas neteko dviejų trečdalių namų.
 - susijęs iš Šnikenbergas: Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir Parteinių bei Skrando kalno prūsų įtvirtinimų.
 - susijęs iš Šnikenbergas: Broliai ant kalvos prie tilto į Baigos pilį pastatė Šnikenbergo pilį ir įkurdino joje brolių bei karingų vyrų.
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86453|Arkikomtūras]]: Arkikomtūras Redigeris Elneris kartu su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.
@@ -344,31 +329,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - susijęs iš [[objektai/grupes/Gubučiai.md#claim-t-183882|Gubučiai]]: Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir pastatė Partigalos pilį bei įtvirtinimą Skrando kalne.
 - susijęs iš [[objektai/daiktai/Įtvirtintas malūnas prie Baigos.md#claim-t-59710|Įtvirtintas malūnas prie Baigos]]: Įtvirtintas malūnas prie Baigos greičiausiai stovėjo apie 4 km į pietryčius nuo Baigos, prie upelio ties vėlesniu Hoppenbrucho kaimu.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Varmių vadas Pijopas apsiautė Baigos pilį, bet žuvo prie jos pervertas vieno brolio strėle.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    20. Apie Baigos pilies apgulą
-
-      Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs
-    visą savo kariuomenę, apsiautė Baigos pilį  ir, būdamas viršininkas, įsigeidė pats kaip
-    karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau, priartėjęs prie pilies ir pervertas
-    vieno brolio strėle [telo], krito žemėn ir baigė dienas, o šio įvykio nugąsdinti ir visi kiti
-    išsižadėjo savo sumanymo.
-
-
-
-
-                   21.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
 - c-002
   santrauka: 'Po susitaikymo Čekijos karalius nuvedė kariuomenę iki Baigos pilies, kur broliai surado seną vyrą Gedūną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -415,43 +375,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   pagrindžia:
     - t-004
 
-- c-004
-  santrauka: 'Du laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
-    apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
-    vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Baigos brolių vienuolišką gyvenimą
-
-      Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių
-    paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų
-    regulų laikėsi Baigos bei kitų minėtųjų pilių broliai. Niekad arba beveik niekad netruko čia
-    maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar
-    rytmetinių pamaldų tas ar kitas brolis neplaktų rykštėmis savo kūno. Kai kurie vienuoliai,
-    atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė,
-    kuo vardu jų pilis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-016
-    - t-018
-
 - c-006
   santrauka: '1260 m. nuo tikėjimo atsimetę varmiai, notangai ir bartai kelis kartus puolė Baigą ir grobė brolių arklius bei gyvulius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -462,9 +385,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     nelaisvę. Paskui jie patraukė prieš Baigą ir pagrobė brolių arklius bei gyvulius, ir šitai
     buvo ne vieną, bet keletą kartų.
 
-
-
-
                      138 (133).
   citata_rodoma: ''
   statusas: verified
@@ -473,59 +393,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-
-- c-007
-  santrauka: 'Prie Baigos atplaukusi Ordino kariuomenė, padedama pilies vado Kodrūno, užgrobė prūsų pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Baigos pilį
-
-      Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė
-    pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių
-    mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas neatima iš
-    tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą,
-    padrąsink savo kovotojus ir paragink juos sunaikinti tuos, kurie puola mūsų karalystę“.
-    Magistras, galop nurimęs, pasiuntė laivais didžiulę kariuomenę keršyti už neteisingai
-    nužudytuosius; atplaukę prie Baigos, jie ten išlipo ir, tinkamose vietose išdėstę lankininkus
-    bei surėmę  į sieną kopėčias, smarkiai užpuolė šią prūsų pilį, o kadangi jiems talkino
-    Kodrūnas, apgultosios pilies vadas, jie netruko ją užgrobti, dalį žmonių paimti į nelaisvę,
-    o kitus išžudyti. Šitai padarę, broliai, atsidėkodami dievui, drauge su savo ginklanešiais
-    apsigyveno toje pilyje245 1239 viešpaties dievo metais ir ten dar garbingiau kovojo su
-    minėtaisiais prūsais viešpaties dievo kariuomenei deramas kovas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-013
-
-- c-008
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie kelių prūsų žūtį
-
-      Įkūrus Baigos pilį, joje gyvenę broliai  ir ginklanešiai garsėjo tokia narsa  ir drąsa,
-    kad retai kada priešo kariuomenė atsitraukdavo nuo pilies nepatyrusi nuostolių. Todėl,
-    kai Pobravas, susivienijęs su notangais  ir variniais, naktį pasiuntė daug pėstininkų  į
-    Balgos lauką, o pats anksti rytą su raiteliais užgrobė brolių gyvulius  ir užmušė tris
-    juos saugojusius vyrus, brolis Gerhardas iš Reino ir nemaža kitų brolių bei ginklanešių
-    nusivijo juos, nužudė Pobravą bei šešis vyrus ir išplėšė iš jų rankų grobį.
-
-
-
-
-     140 (135).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-017
-    - t-019
 
 - c-009
   santrauka: 'Pasak kronikos, Kristus padėjo Baigoje apsuptiems broliams, paragindamas vieną prūsą išduoti saviškius.'
@@ -544,123 +411,12 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   pagrindžia:
     - t-006
 
-- c-010
-  santrauka: 'Prie Baigos brolių persikėlę kilmingi Varmės vyrai sustiprino brolius, o šie prie upės pastatė įtvirtintą malūną.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip buvo pastatytas ir išgriautas malūnas
-
-      Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti
-    broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246
-    persikėlė pas Baigos brolius, o šie, jiems atvykus, sustiprėjo ir pastatė prie upės malūną
-      245 Prūsiškoji Baigos pilis buvusi Aismarių kranto kyšulyje, per 25 m virš jūros lygio,
-    sausumos prieigas dengusios pelkės. Paėmę pilį, kryžiuočiai čia įsitvirtino, pastatė mūrinę
-    pilį, o šalia jos rytų pusėje — didelį papilį (Тоерреn M., HCCP, p. 203; Boetticher A., Die
-    Bau.., 2, p. 17—18). Vardas siejamas su ‘pelke, balzganas’ (Топоров B. H., Прусский
-    язык, A—Д, с. 185; GAO, p. 15). Ankstesnis, nutylėtas prūsų pilies vardas buvęs Honeda
-    (SRP, 5, p. 100, 2, p. 104). Manoma, kad prūsiškas vardas buvęs Vundenava (literatūroje
-    — Vuntenovė: GAO, p. 210; Matusas J., Senovės..., p. 23, 27). Baiga — dab. Vesiolojė
-    (į pietvakarius nuo Kaliningrado).
-      246 D.— cum omni domo et familia sua. D. domus (namai) — tai šeimos nariai, o
-    familia (šeimyna) — ūkyje dirbantys ne šeimos nariai, kurių šeimininkas buvęs feodalas,
-    viešpats (Jurginis  J., Baudžiavos..., p. 120—121). Vitingo (bajoro) šeimyną sudarė
-    patriarchaliniai vergai (dvaro išlaikomi bernai, mergos, piemenys) ir bernai bei tarnai,
-    turėję žemės ir ūkį, dalyvavę savo feodalo kariaunoje (ten pat, p. 128—145).
-
-    už pelkės tilto prie grindos247, prie dabartinio vieškelio, ir tą malūną sutvirtino nelyginant
-    pilį, palikdami jame du brolius ir daug ginklanešių jam saugoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-011
-  santrauka: 'Pasakojime apie antrąjį prūsų sukilimą Baiga minima tarp pilių ir miestų, atsidūrusių įvykių centre.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kronikininkas, rašydamas apie antrąjį prūsų sukilimą, Ordino brolių veiklos pagrindine
-    vieta laiko Karaliaučių (III, 95, 100—113). Po to ima pasakoti apie atskirų pilių bei
-    miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas,
-    Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174). Pastarojo
-    pasakojimo pradžioje kronikininkas pažymi, jog skaitytojas antrojo sukilimo laikotarpio
-    „karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
-    atminties ir vargu ar kas galėtų juos tinkamai išdėstyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-012
-  santrauka: 'Prie Varmės kranto broliai netoli būsimos Baigos pilies vietos pamatė prūsų pilį, bet jos nepuolė dėl karių stokos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė
-    Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams.
-    Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
-    pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių. Tačiau
-    nenorėdami grįžti tuščiomis rankomis,  užpuolė aplinkinius kaimus244, degindami juos
-    ir piešdami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-013
-  santrauka: 'Kronikos dalyje apie karus prieš Lietuvą minimi trys Baigos komtūrai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Žinių Dusburgiečiui teikė visų pirma Ordino broliai. Kronikos dalyje, aprašančioje karus
-    prieš Lietuvą, išvardijama apie 70 brolių, tuo tarpu visose kitose dalyse —žymiai mažiau.
-    Minimi čia 7 Ragainės komtūrai (1289—1324 m. laikotarpiu; Bertoldas iš Austrijos,
-    Ernekė, Konradas, Folčas, Verneris, Fridrichas iš Libencelės, Ditrichas bei 1 vicekomtūras
-    (III, 235, 239, 251, 297, 317, 332, 351, 300), 4 Karaliaučiaus komtūrai (Albertas iš
-    Meiseno, Bertoldas iš Austrijos, Eberhardas, Fridrichas) (III, 230, 236, 289, 307), tiek
-    pat Sembos vyskupo fogtų (advocatus) (Ditrichas, Pilypas, Hugonas, Gerhardas) (III,
-    227, 291, 330, 338), trys Baigos komtūrai (III, 247, 266, 362) ir t. t., daugumas jų — iš
-    rytinės Ordino teritorijos dalies, tiesiogiai dalyvavę kare prieš Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-014
-  santrauka: 'Broliai perplaukė Gėlo vandens marias ieškodami vietos piliai ir netoli būsimos Baigos pamatė prūsų pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Todėl po to, kai, įkvėpti dievo be
-    kurio nieko gera negali įvykti, pamedėnai ir pagudėnai pasidavė tikėjimui ir broliams,
-    tas pats magistras bei broliai susirengė  į kovą prieš varmius, notangus  ir bartus243.
-    Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė
-    Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams.
-    Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
-    pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
 ## Citatos
 
 - id: c-86156
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 79"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     20. Apie Baigos pilies apgulą
 
@@ -685,21 +441,23 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86157
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 105"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Žiemą ši kariuomenė atžygiavo  į Elbingą,
-    tačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo
-    apvaizdos teikiamo žmonių išganymui, jis mat sukurstė viename malūne susiginčyti
-    du vyrus, vieną — iš Saksonijos, o kitą — iš Austrijos, katras pirmas turįs malti,  ir
-    štai ne tik kariai bei paprasti žmonės, bet  ir karalius,  ir kiti kunigaikščiai jau buvo
-    bepakelią ginklus kovai, tačiau Olomouco vyskupas, dievotas ir taikus vyras, pasirūpino,
-    kad nebūtų dingsties ginčui, ir atstatė pirmykštę sandorą. Susitaikius Čekijos karalius
-    nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
-    vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama
-    Kandeimu, gerai žinojusį visą Sembos karių galią. Kai karalius jį paklausė, rodydamas
-    tik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad
-    nieku būdu.
+    Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė
+    tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar
+    nepakako, galop atėjo visa likusi kariuomenė, taip tirštai padengdama ledą, kaip skėriai
+    padengia žemę; kai karalius paklausė, ar šitiek kariuomenės pakanka, kad galėtum šį
+    tą nuveikti Sembos žemėje, jis atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.
+    Paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių
+    ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.
+    Jis vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai,
+    todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo
+    ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.
+    Tada karalius įsibrovė į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas
+    Medenava, ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs į
+    nelaisvę ir išžudęs, ten pat ir pernakvojo. Kitą dieną patraukė į Rudavos valsčių ir ten
+    pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų,
+    321 D.— Medenow, Jer.
   citata_rodoma: "Susitaikius Čekijos karalius\nnuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,\nvardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama\nKandeimu, gerai žinojusį visą Sembos karių galią. Kai karalius jį paklausė, rodydamas\ntik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad\nnieku būdu."
   statusas: verified
   teiginio_tipas: faktas
@@ -711,19 +469,19 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86158
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    70 (69). Apie karo su sembais rezultatų atspėjimą
-
-      Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau
-    jį ištirti, nusiuntė  į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,
-    maloniai  jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.
-    Šis, gerai susipažinęs su brolių gyvenimu, sugrįžo pas sembus ir pasakė: „Žinokite, kad
-    broliai tokie pat žmonės kaip ir mes: jie turi didelius ir minkštus pilvus, o tokius ir mes
-    turime, panašūs jų ginklai, panašus maistas ir šiaip daug kuo jie  į mus labai panašūs,
-    bet štai kuo nuo mūsų skiriasi: jie įpratę prie vieno dalyko, kuris tikriausiai mums atneš
-    pragaištį.
+    Apie sembų pavergimą
+    Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko
+    sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos
+    karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,
+    kuris šiame maldininkų žygyje buvo jo maršalas, Austrijos kunigaikštį, Moravijos
+    markgrafą319, Kulmo vyskupą Henriką, Varmės vyskupą Anzelmą, Olomouco320 vyskupą
+    su galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,
+    Austrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu
+    atkeršyti už nukryžiuotojo viešpaties kančias. Tokia didelė buvo ši kariuomenė, kad joje
+    318 Pršemislas Otokaras II, Čekijos karalius (1253—1278), 1254 m. gruodžio
+    pabaigoje dar tebuvo Vroclave.
   citata_rodoma: "Apie karo su sembais rezultatų atspėjimą\n\n  Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau\njį ištirti, nusiuntė  į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,\nmaloniai  jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.\nŠis, gerai susipažinęs su brolių gyvenimu, sugrįžo pas sembus ir pasakė: „Žinokite, kad\nbroliai tokie pat žmonės kaip ir mes: jie turi didelius ir minkštus pilvus, o tokius ir mes\nturime, panašūs jų ginklai, panašus maistas ir šiaip daug kuo jie  į mus labai panašūs,\nbet štai kuo nuo mūsų skiriasi: jie įpratę prie vieno dalyko, kuris tikriausiai mums atneš\npragaištį."
   statusas: verified
   teiginio_tipas: faktas
@@ -735,8 +493,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86160
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 77"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
     apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
@@ -751,8 +508,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86161
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Baigos brolių vienuolišką gyvenimą
 
@@ -769,25 +525,24 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90292
-    - t-184145
     - t-194527
 
 - id: c-86162
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai varmiai, notangai ir bartai atsimetė 1260 viešpaties metais
-    nuo tikėjimo ir tikinčiųjų, su ginklu rankose jie skersai ir išilgai išnaršė savo žemes,
-    žudydami krikščionis, kiek tik jų kur besurasdami, o moteris bei vaikus varydamiesi  į
-    nelaisvę. Paskui jie patraukė prieš Baigą ir pagrobė brolių arklius bei gyvulius, ir šitai
-    buvo ne vieną, bet keletą kartų.
-
-
-
-
-                     138 (133).
+    Todėl,
+    kai Pobravas, susivienijęs su notangais ir variniais, naktį pasiuntė daug pėstininkų į
+    Balgos lauką, o pats anksti rytą su raiteliais užgrobė brolių gyvulius ir užmušė tris
+    juos saugojusius vyrus, brolis Gerhardas iš Reino ir nemaža kitų brolių bei ginklanešių
+    nusivijo juos, nužudė Pobravą bei šešis vyrus ir išplėšė iš jų rankų grobį.
+    140 (135). Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
+    lies bei miesto paėmimą
+    Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
+    pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo
+    tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele
+    kariuomene ją apsupo, visą dieną smarkiai puolė.
   citata_rodoma: "Paskui jie patraukė prieš Baigą ir pagrobė brolių arklius bei gyvulius, ir šitai\nbuvo ne vieną, bet keletą kartų.\n\n\n\n\n                 138 (133)."
   statusas: verified
   teiginio_tipas: faktas
@@ -799,8 +554,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86163
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 79"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Baigos pilį
 
@@ -827,42 +581,36 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86164
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie kelių prūsų žūtį
-
-      Įkūrus Baigos pilį, joje gyvenę broliai  ir ginklanešiai garsėjo tokia narsa  ir drąsa,
+    Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo tokia narsa ir drąsa,
     kad retai kada priešo kariuomenė atsitraukdavo nuo pilies nepatyrusi nuostolių. Todėl,
-    kai Pobravas, susivienijęs su notangais  ir variniais, naktį pasiuntė daug pėstininkų  į
-    Balgos lauką, o pats anksti rytą su raiteliais užgrobė brolių gyvulius  ir užmušė tris
+    kai Pobravas, susivienijęs su notangais ir variniais, naktį pasiuntė daug pėstininkų į
+    Balgos lauką, o pats anksti rytą su raiteliais užgrobė brolių gyvulius ir užmušė tris
     juos saugojusius vyrus, brolis Gerhardas iš Reino ir nemaža kitų brolių bei ginklanešių
     nusivijo juos, nužudė Pobravą bei šešis vyrus ir išplėšė iš jų rankų grobį.
-
-
-
-
-     140 (135).
+    140 (135).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90291
-    - t-184146
     - t-194528
 
 - id: c-86165
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 16"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė,
-    stebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).
-    Pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti
-    saviškius (III, 26). Dievo apvaizda patvarkė, kad prūsai išdavė broliams Vėluvos pilį
-      63 SRP, B. 1, S. 3, 816; 6, S. 35 (1327 m.); PUB, 2, 2, S. 380 (1326 m.).
+    Kai kryžiuočiai jau nebegalėjo priešintis apgultame Bartenšteine, dievas
+    juos pamokęs bėgti paliekant pilį (III, 121). Kitąkart mūšio metu danguje pasirodžiusi
+    mergelė Marija (III, 141). Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
+    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
+    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv.
+    kryžiaus ženklu, Jėzaus Kristaus padedami, sėkmingai prasiveržė pro didžiulę lietuvių
+    kariuomenę (III, 251).
   citata_rodoma: "Pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti\nsaviškius (III, 26). Dievo apvaizda patvarkė, kad prūsai išdavė broliams Vėluvos pilį\n  63 SRP, B."
   statusas: verified
   teiginio_tipas: faktas
@@ -874,8 +622,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86166
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 79-80"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79-80."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
 
@@ -908,8 +655,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86167
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 26"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kronikininkas, rašydamas apie antrąjį prūsų sukilimą, Ordino brolių veiklos pagrindine
     vieta laiko Karaliaučių (III, 95, 100—113). Po to ima pasakoti apie atskirų pilių bei
@@ -929,14 +675,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86168
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 78"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė
     Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams.
     Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
     pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių. Tačiau
-    nenorėdami grįžti tuščiomis rankomis,  užpuolė aplinkinius kaimus244, degindami juos
+    nenorėdami grįžti tuščiomis rankomis,   užpuolė aplinkinius kaimus244, degindami juos
     ir piešdami.
   statusas: verified
   teiginio_tipas: faktas
@@ -948,8 +693,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86169
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Žinių Dusburgiečiui teikė visų pirma Ordino broliai. Kronikos dalyje, aprašančioje karus
     prieš Lietuvą, išvardijama apie 70 brolių, tuo tarpu visose kitose dalyse —žymiai mažiau.
@@ -971,12 +715,11 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-167529
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 78"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Todėl po to, kai, įkvėpti dievo be
     kurio nieko gera negali įvykti, pamedėnai ir pagudėnai pasidavė tikėjimui ir broliams,
-    tas pats magistras bei broliai susirengė  į kovą prieš varmius, notangus  ir bartus243.
+    tas pats magistras bei broliai susirengė į kovą prieš varmius, notangus ir bartus243.
     Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė
     Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams.
     Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos

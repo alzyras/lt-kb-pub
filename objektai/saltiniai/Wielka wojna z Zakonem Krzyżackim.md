@@ -44,22 +44,6 @@ media_all_json: |-
   teiginys: "S. M. Kuczyńskio veikalas „Wielka wojna z Zakonem Krzyżackim w latach 1409-1411“ išleistas Varšuvoje; pirmas leidimas nurodytas 1955 m., antras - 1966 m."
   pagrindžia:
     - c-30016
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'S. M. Kuczyńskio veikalas „Wielka wojna z Zakonem Krzyżackim w latach 1409-1411“ išleistas Varšuvoje; pirmas leidimas nurodytas 1955 m., antras - 1966 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    KuWZ = Kuczyński, S. M. : Wielka wojna z Zakonem Krzyżackim
-    w latach 1409-1411, 1-mas leid. 1955, 2-ras leid. 1966,
-    Varšuva.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

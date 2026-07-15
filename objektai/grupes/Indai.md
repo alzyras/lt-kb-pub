@@ -77,8 +77,10 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - susijęs iš [[objektai/paprociai/Upių šventinimas Rosės vardu.md#claim-t-192091|Upių šventinimas Rosės vardu]]: Narbutas upių šventinimą Rosės vardu aiškina kaip vieną iš lietuvių tautos religinių skolinių iš indų budistų.
 - susijęs iš [[objektai/paprociai/Upių šventinimas Rosės vardu.md#claim-t-192516|Upių šventinimas Rosės vardu]]: Narbutas Rosės pavadinimo kilmę sieja su upių šventinimu Rosės vardu ir lietuvių religijos skoliniais iš indų budistų.
 - susijęs iš [[objektai/paprociai/Upių šventinimas ir šventovių statymas santakose.md#claim-t-192514|Upių šventinimas ir šventovių statymas santakose]]: Upių šventinimo paprotį Narbutas sieja su seniausiais indais, kurie prie dviejų upių santakos statydavo šventoves.
+- susijęs iš Abiejų Tautų Respublika: XVIII a. Abiejų Tautų Respublikoje bendras gėrimas iš vienos taurės užsieniečių buvo aiškinamas kaip svetingumo ženklas, senas paprotys ar indų stygiaus pasekmė.
 - susijęs iš Himalajų kalnai: Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kultas kilo iš prie jų gyvenusios tautos.
 - susijęs iš Indija: Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų, daugelio mokslų bei religinių vaizdinių kilmės vieta.
+- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199224|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraščio pasakojime Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, sabalais, brangakmeniais, indais ir bachmatais.
 - susijęs iš [[objektai/paprociai/Upių šventinimas Rosės vardu.md#claim-t-192091|Upių šventinimas Rosės vardu]]: Narbutas upių šventinimą Rosės vardu aiškina kaip vieną iš lietuvių tautos religinių skolinių iš indų budistų.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
 - susijęs iš [[objektai/asmenys/Georgi.md#claim-t-190152|Georgi]]: Narbutas perteikia Georgi nuomonę, kad japonų dievai Kami visiškai tapatūs egiptiečių Kamefiams, o šie atitinką slavų Tryzną.
@@ -102,131 +104,33 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - susijęs iš [[objektai/posakiai/Upių ir ežerų vardai yra seniausi tautų palikimo paminklai.md#claim-t-189593|Upių ir ežerų vardai yra seniausi tautų palikimo paminklai]]: Narbutas upių ir ežerų vardų pažinimą laikė svarbia parama senovės tyrėjui, aiškinančiam jų etimologiją pirmykštėse kalbose.
 - susijęs iš Oskolas: Teodoro Narbuto aiškinimu, budinai naujame krašte indų papročiu pašventino upę mitiniu Ross vardu, siejamu su Oskolo pavadinimu.
 - susijęs iš Pilies kalnas Vilniuje (pilis): Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies kalne iš saulėtekio pusės.
-- susijęs iš Vilnius: Narbutas spėjo, kad Vilniuje kunigaikščių pelenai turėtų būti pakasti Pilies kalno rytinėje pusėje.
 - susijęs iš [[objektai/zodynas/Dangaus kūnų sudievinimas.md#claim-t-189147|Dangaus kūnų sudievinimas]]: Narbutas lietuvių mitologijoje saulę ir mėnulį laikė svarbiausiais dangaus kūnais, kurių vaikais aiškino kitus dangaus kūnus.
+- susijęs iš [[objektai/daiktai/Bachmatai.md#claim-t-198529|Bachmatai]]: Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą brangiomis dovanomis, tarp jų bachmatais.
+- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199225|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vytautas apdovanojo Vasilijų, išlydėjo jį į Maskvą ir pats išvyko į Lietuvą.
+- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199226|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pavasariop atvyko į Smolenską pas Vytautą ir pagerbė jį brangiomis dovanomis.
 - susijęs iš [[objektai/grupes/Budinai.md#claim-t-189467|Budinai]]: Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios paprotys buvo garbinti upių šventumą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senuosius įstatymus, papročius ir visuomenės gyvenimo smulkmenas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kad mums būtų lengviau išsemti visą naudą iš mitologijos
-    skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
-    mus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­
-    jimuose.
-    Seniausios žemės tautos -  indai ir kinai savo tautiškumo
-    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
-    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
-    nimo smulkmenų. Kaip tik tai yra priežastis amžino sąstingio,
-    dėl kurio tos tautos su savo geografine padėtimi ilgai buvo ir
-    dabar tebėra to paties apšvietos, politinių institucijų ir religi­
-    jos lygio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų ir graikų padavimai mena palaimingą praeitį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tačiau tiesa visuomet išliko atmintyje. Senovės isto­
-    rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai,
-    egiptiečiai, izraelitai, persai, graikai dūsauja prisimindami ge­
-    resnę praeitį -  visų padavimai primena palaimingus dar nesu­
-    gadintos prigimties laikus. Senovės filosofų devizas buvo šie
-    žodžiai: aurea prima sata ėst aetas -  pirmasis gimė aukso am­
-    žius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas buvo įsitikinęs, kad aptariamas kultas kilo iš indų arba iš tautos prie Himalajų kalnų, iš kurios kilo indai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Be jo­
-    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
-    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
-    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
-    no, gyveno ši tauta, garbinusi dangaus kūnus .
-    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
-    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
-    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
-    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
-    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
-    pagrindą ištisai sudaro indų padavimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Narbutas žalčių garbinimą vadino senovėje visuotiniu ir prie jo priskyrė indus, chaldėjus, egiptiečius, persus, finikiečius, graikus, romėnus ir gotus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šiuos prietarus žinojo ir Lietuvos rusinai.
-    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
-    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
-    gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
-    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Narbutas teigė, kad indai svarbia savo religingumo dalimi laikė šventomis pripažintų upių garbinimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kaip mano Naruševičius', slavai taip pat žinojo panašią
-    ugnį, vadintą Zwicz.
-    Šventosios upės
-    Senovės religijos pripažino šventumą kai kurių vandenų,
-    tekančių per šalis, įžymias tuo, kad jos buvo pirmoji tautos
-    protėvių tėvynė. Indai svarbiu savo religingumo dalyku laiko
-    tų upių garbinimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-172297
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 79"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 79."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kad mums būtų lengviau išsemti visą naudą iš mitologijos
-    skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
-    mus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­
-    jimuose.
-    Seniausios žemės tautos -  indai ir kinai savo tautiškumo
-    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
-    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
-    nimo smulkmenų. Kaip tik tai yra priežastis amžino sąstingio,
-    dėl kurio tos tautos su savo geografine padėtimi ilgai buvo ir
-    dabar tebėra to paties apšvietos, politinių institucijų ir religi­
-    jos lygio.
+    Atviras, gyvas, aistringas, trokštantis lais­
+    vės protas; paprastumas, vaišingumas, noras išgarsėti savo iš­
+    radimais, pomėgis perimti svetimus dalykus ir iš to nenumal­
+    šinamas siekimas tobulėti - tokie buvo amžini Europos tautų
+    bruožai, ypač pelazgų-helenų genčių, kurių priekin išėjo grai­
+    kai. Tačiau pernelyg didelis graikų nepastovumas - didelė yda
+    šalia tų gražių privalumų - lėmė daug pasaulietinių ir religi­
+    nių piktnaudžiavimų.
+    Tuo tarpu Apvaizda ruošė kitą tautą, turėjusią tapti Euro­
+    pos apšvietos sargu. Senovės Lacijaus gilumoje, tarp plikų kal­
+    nų, nesveikiausiame užkampyje, užsimezgė romėnų karalys­
+    tė - romėnų, kurie parodė pasauliui didų būdą, didžias dory­
+    bes, nepalyginamą tėvynės meilę, vyriškumą, ištvermę, gilia­
+    mintę politiką, neišmatuojamą troškimą būti galingi.
+  citata_rodoma: "Kad mums būtų lengviau išsemti visą naudą iš mitologijos\nskaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius\nmus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­\njimuose.\nSeniausios žemės tautos -  indai ir kinai savo tautiškumo\nsvarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­\nnųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­\nnimo smulkmenų. Kaip tik tai yra priežastis amžino sąstingio,\ndėl kurio tos tautos su savo geografine padėtimi ilgai buvo ir\ndabar tebėra to paties apšvietos, politinių institucijų ir religi­\njos lygio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -237,15 +141,14 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - id: c-172298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 81"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 81."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tačiau tiesa visuomet išliko atmintyje. Senovės isto­
     rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai,
     egiptiečiai, izraelitai, persai, graikai dūsauja prisimindami ge­
-    resnę praeitį -  visų padavimai primena palaimingus dar nesu­
+    resnę praeitį - visų padavimai primena palaimingus dar nesu­
     gadintos prigimties laikus. Senovės filosofų devizas buvo šie
-    žodžiai: aurea prima sata ėst aetas -  pirmasis gimė aukso am­
+    žodžiai: aurea prima sata ėst aetas - pirmasis gimė aukso am­
     žius.
   statusas: verified
   teiginio_tipas: faktas
@@ -257,20 +160,21 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - id: c-172299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 184"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Be jo­
-    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
-    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
-    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
-    no, gyveno ši tauta, garbinusi dangaus kūnus .
-    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
-    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
-    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
-    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
-    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
-    pagrindą ištisai sudaro indų padavimai.
+    Saulės rūmai buvo rytuose, kur buvo šventa ir palaiminta
+    šalis, lietuvių protėvių tėvynė - rytų šalis (Aušinimą zemme).
+    Iš šių rūmų tekanti Saulė išvažiuodavo nuostabiu vežimu, ku­
+    ris švietė skaisčiau už devynias galybes liepsnojančių deglų.
+    Vežimą traukė trejetas arklių - sidabrinis, auksinis ir deiman­
+    tinis. Didingai riedėdama savo keliu, apžvelgusi visą pasaulį,
+    kuris, lietuvių supratimu, buvęs ne apvalus, o plokščias ir ova­
+    lus, kaip lėkštė, priartėdavo prie jūros, nugrimzdavo joje nusi­
+    maudyti ir vykdavo į savo rūmus nakties poilsio.
+    Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
+    jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
+    Saulė aptemdavo.
+  citata_rodoma: "Be jo­\nkios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­\ndžiai Siaurės Europoje buvo samojedai: juk žinome, kad dar\nXVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­\nno, gyveno ši tauta, garbinusi dangaus kūnus .\nTegu mitologai sako ką nori apie senovės egiptiečių religi­\nją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,\nyra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­\nlio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.\nTaip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,\npagrindą ištisai sudaro indų padavimai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -281,8 +185,7 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - id: c-172300
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -299,8 +202,7 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - id: c-172301
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 225"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 225."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kaip mano Naruševičius', slavai taip pat žinojo panašią
     ugnį, vadintą Zwicz.

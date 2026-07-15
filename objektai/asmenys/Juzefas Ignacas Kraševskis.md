@@ -53,44 +53,13 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   teiginys: "Šaltinio komentare spėjama, kad ši recenzija galėjo pradėti šaltus T. Narbuto ir J. I. Kraševskio santykius."
   pagrindžia:
     - c-173783
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Juzefas Ignacas Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilniuje lenkų kalba išeina devyni tomai karo in-
-    žinieriaus ir istoriko Teodoro Narbuto „Lietuvių tautos istorijos“, skirtos
-    Lietuvos istorijai iki Liublino unijos. Čia rašė produktyvusis lenkų rašyto-
-    jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs
-    kultūrinio pobūdžio žurnalą „Atheneum“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197768"></a>
+- t-003
+  global_id: t-197768
+  teiginys: "Juzefas Ignacas Kraševskis nevengė tuo pasidalyti su kitais."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Šaltinio komentare spėjama, kad ši recenzija galėjo pradėti šaltus T. Narbuto ir J. I. Kraševskio santykius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Galima
-    spėti, jog būtent ši recenzija
-    davė pradžią šaltiems
-    T. Narbuto ir J. I. Kraševskio santykiams (nors, jeigu
-    tikėsime pirmuoju, jie niekuomet nebuvo asmeniškai pa­
-    žįstami). Ši nuostata ypač ryški istoriko laiškuose arti-
-    miausiems bičiuliams. Beje, T. Narbutas dėl J. I. Kra­
-    ševskio istorinių darbų išsakė identiškų priekaištų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-179331
 
 ## Citatos
 
@@ -115,8 +84,7 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
 - id: c-173783
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 451"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 451."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Galima
     spėti, jog būtent ši recenzija
@@ -132,3 +100,20 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190901
+
+- id: c-179331
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Kaip ga­
+    lima prieiti iki jos lopšio?“2.
+    Visos šios mintys yra identiškos antrame LTI tome
+    keliamoms problemoms — T. Narbutą kankino tie patys
+    nuogąstavimai, ir jis nevengė tuo pasidalyti su kitais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197768

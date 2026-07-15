@@ -65,8 +65,8 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
   teiginys: "Narbutas, remdamasis gamtininkų aprašymais, Hevea Gujanensis pristato kaip labai aukštą medį."
   pagrindžia:
     - c-175091
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -94,8 +94,7 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
 - id: c-175091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 339"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 339."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tik
     Hevea Gujanensis, anot gamtininkų aprašymų, išauga
@@ -106,12 +105,14 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
     vartojama vietoj riebalų. Jos sakai aromatingi, naudo­
     jami žvakėms ir deglams daryti. Tad čia rasta šiokia to­
     kia giminystė, bet tik giminystė“.
+    Man atrodo panašu į tiesą, kad kažkada gintaro pal­
+    mė augusi Šiaurėje.
   citata_rodoma: "Tik\nHevea Gujanensis, anot gamtininkų aprašymų, išauga\ntaip pat labai aukšta; jos vainikas menkas, kamienas vi-\nsiškai bešakis, medis lengvas, retas, lankstus, labai pa-\nnašūs į Manioc, vaisius tribriaunis, turi tris sėklų bran-\nduolius, valgomus migdolus, iš kurių gaunama alyva,\nvartojama vietoj riebalų. Jos sakai aromatingi, naudo-\njami žvakėms ir deglams daryti. Tad čia rasta šiokia to-\nkia giminystė, bet tik giminystė“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192258
     - t-192256
     - t-192257
+    - t-192258

@@ -67,34 +67,6 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   teiginys: "Posakis „Tikslas pateisino priemones“ taikytas Vytauto kovai dėl savo teisių ne visai teisėtu būdu."
   pagrindžia:
     - c-177412
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tėviškės atsivadavimo reikalas jį vertė
-    susidėti ir su svetimaisiais prieš savuosius. Jis kovojo dėl sa­
-    vo teisių, bet ne visai teisėtu būdu. Tikslas pateisino prie­
-    mones.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tikslas pateisino prie­
-    mones. Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame
-    lauke, bet dažnai ir aplinkiniais keliais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -115,6 +87,8 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195050
+    - t-195051
+    - t-195052
 
 - id: c-177413
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

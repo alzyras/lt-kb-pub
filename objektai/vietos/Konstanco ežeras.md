@@ -38,33 +38,12 @@ Narbutas nurodo, kad Pomponijus Mela Konstanco ežerą vadino Venedų ežeru.
     - c-175650
 - susijęs iš [[objektai/asmenys/Pomponijus Mela.md#claim-t-191508|Pomponijus Mela]]: Pomponijus Mela, pasak Narbuto, nedviprasmiškai tvirtino, kad Konstanco ežeras buvo vadinamas Venedų ežeru.
 - susijęs iš [[objektai/autoriai/Pomponijus Mela.md#claim-t-191551|Pomponijus Mela]]: Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo vadinamas Venedų ežeru.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas nurodo, kad Pomponijus Mela Konstanco ežerą vadino Venedų ežeru.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Strabonas kalba apie belgų venedus šian­
-    dieniuose Nyderlanduose. Melą Pomponijus nedvipras­
-    miškai tvirtina, kad Konstanco ežeras buvo vadinamas
-    Venedų ežeru2. Anglijoje, Kornvalio krašte priešais Gali-
-    jos Armoriką, buvo venetų kraštas, vadinamas Guénet
-    arba Venet, Vannes krašto Armorikos venedų kolonija3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175650
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 96."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Strabonas kalba apie belgų venedus šian­
     dieniuose Nyderlanduose. Melą Pomponijus nedvipras­

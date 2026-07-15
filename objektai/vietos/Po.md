@@ -35,8 +35,8 @@ Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakran
   teiginys: "Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro bei Dono."
   pagrindžia:
     - c-175663
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro bei Dono.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -62,17 +62,17 @@ Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakran
 - id: c-175663
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 40"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Būtent dėl šių priežasčių įvairios
-    pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
-    bos susiformavo graikų kalba.
-    17
-    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
-    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
-    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
-    Dono.
+    Neginčijamas dalykas yra ir tai, kad pelazgai buvo tos
+    kartos žmonės, kuriuos laikėme atklydusiais nuo Tibeto
+    prie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad
+    jonėnai ir trojėnai kilę iš pelazgų. Šios tautos plėtėsi nuo
+    1700 iki 1200 metų prieš Kristaus gimimą. Per tuos pen­
+    kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
+    arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
+    davė pradžią dorėnams ir achajams.
+  citata_rodoma: "Būtent dėl šių priežasčių įvairios\npelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­\nbos susiformavo graikų kalba.\n17\nPelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­\nčiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,\npradedant nuo Po ir Arno upių žiočių net iki Dnepro ir\nDono."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

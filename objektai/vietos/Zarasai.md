@@ -75,22 +75,6 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 - susijęs iš Ukmergė: Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi, o Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.
 - susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40250|K. Ladyga]]: I brigados vadas K. Ladyga įsakė pulti bolševikus Degučių plentu Zarasų kryptimi.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78003|A. Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Voldemaras buvo ištremtas iš Zarasų į Paryžių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
-    Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24615

@@ -42,38 +42,12 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 - susijęs iš [[objektai/asmenys/Flekenšteinas.md#claim-t-60275|Flekenšteinas]]: Brolis Flekenšteinas iš Reino krašto į Brandenburgo pilį atgabeno Viešpaties kryžiaus atskalą.
 - susijęs iš [[objektai/asmenys/Gebhardas iš Manstfeldo.md#claim-t-60284|Gebhardas iš Manstfeldo]]: Brolis Gebhardas iš Manstfeldo įmetė Viešpaties kryžiaus atskalą į ugnį, iš kurios ji iššoko daugelio žmonių akyse.
 - susijęs iš Brandenburgo pilis: Dusburgietis pasakoja, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas mirė ir atgijo per Viešpaties kryžiaus atskalą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Hertvigas buvo kilmingas vyras, įkurdintas Šnikenbergo pilyje kartu su Ordino broliais ir kitais karingais vyrais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    24. Apie Šnikenbergo pilies pastatymą
-
-      Tą lauką, kur stovi Baigos pilis, supa pelkės, ten net vasaros metu tegalima pakliūti
-    tiltu, prieš kurį ant vienos kalvos broliai pastatė pilį, vardu Šnikenbergas251, įkurdinę joje
-    daug brolių ir vieną kilmingą vyrą Hertvigą, Hertvigo iš Pokarvių tėvą, bei kitus karingus
-    vyrus, kurie trukdė netikėliams įsibrauti.
-
-
-
-
-                        25.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60960
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 81"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     24. Apie Šnikenbergo pilies pastatymą
 

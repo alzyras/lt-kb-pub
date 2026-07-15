@@ -35,50 +35,20 @@ Dusburgietis teigia, kad šis, gerai susipažinęs su brolių gyvenimu, sugrįž
   teiginys: "Todėl jie mus kovoje, be abejonės, nugalės!“ Kadangi matė brolius valgant kopūstus, kurių prūsai nevartoja, ir manė, jog tai žolė, jis pridūrė: „Be to, ir valgo jie žolę nelyginant arkliai ar mulai, tai kas gi įstengsiąs jiems atsispirti, jeigu jie ir dykrose."
   pagrindžia:
     - c-176959
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Todėl jie mus kovoje, be abejonės, nugalės!“ Kadangi matė brolius valgant kopūstus, kurių prūsai nevartoja, ir manė, jog tai žolė, jis pridūrė: „Be to, ir valgo jie žolę nelyginant arkliai ar mulai, tai kas gi įstengsiąs jiems atsispirti, jeigu jie ir dykrose.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Todėl jie mus
-    kovoje, be abejonės, nugalės!“ Kadangi matė brolius valgant kopūstus, kurių prūsai
-    nevartoja, ir manė, jog tai žolė, jis pridūrė: „Be to, ir valgo jie žolę nelyginant arkliai
-    ar mulai, tai kas gi įstengsiąs jiems atsispirti, jeigu jie ir dykrose be vargo gali susirasti
-    maisto?“
-
-
-
-
-
-                          71 (70).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-176959
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Todėl jie mus
     kovoje, be abejonės, nugalės!“ Kadangi matė brolius valgant kopūstus, kurių prūsai
     nevartoja, ir manė, jog tai žolė, jis pridūrė: „Be to, ir valgo jie žolę nelyginant arkliai
     ar mulai, tai kas gi įstengsiąs jiems atsispirti, jeigu jie ir dykrose be vargo gali susirasti
     maisto?“
-
-
-
-
-
-                          71 (70).
+    71 (70).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

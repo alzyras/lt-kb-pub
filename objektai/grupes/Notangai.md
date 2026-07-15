@@ -15,14 +15,14 @@ datos:
   - '1317 m.'
 date_start: '1246'
 date_end: '1317'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - ordinas
-amziai:
-  - 'XIII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -177,33 +177,26 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindžia:
     - c-75685
 
-<a id="claim-t-78412"></a>
-- t-020
-  global_id: t-78412
-  teiginys: "Notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką pulti pilies."
-  pagrindžia:
-    - c-75685
-
-<a id="claim-t-78400"></a>
-- t-021
-  global_id: t-78400
-  teiginys: "1317 m. žiemą brolis Henrikas su broliais ir Sembos bei Notangos kariais žygiavo prieš Vaikių valsčių."
-  pagrindžia:
-    - c-75691
-
 <a id="claim-t-194332"></a>
-- t-022
+- t-020
   global_id: t-194332
   teiginys: "Apie Karaliaučiaus pilies užpuolimą Neilgai trukus po to notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką, ketindamas pulti pilį."
   pagrindžia:
     - c-75685
 
 <a id="claim-t-194333"></a>
-- t-023
+- t-021
   global_id: t-194333
   teiginys: "Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus."
   pagrindžia:
     - c-75691
+
+<a id="claim-t-196913"></a>
+- t-022
+  global_id: t-196913
+  teiginys: "Po šių skerdynių notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir turtingam vyrui, vardu Hirtshalsas, kuris, patekęs į tokią bėdą, paprašė."
+  pagrindžia:
+    - c-75680
 - susijęs iš Baiga: Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo narsa ir dažnai pridarydavo nuostolių priešo kariuomenei.
 - susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-184070|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
 - susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-60287|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
@@ -307,53 +300,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58811|fogtas]]: Grįžęs iš Vokietijos, sembų fogtas Ditrichas iš Lidelau atkalbėjo jį gerbusius sembus nuo paklydimo.
 - susijęs iš [[objektai/asmenys/Štenkelis iš Bentheimo.md#claim-t-60476|Štenkelis iš Bentheimo]]: Štenkelis iš Bentheimo Pokarviuose įsiveržė į notangų rikiuotę ir grįždamas buvo nukautas.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Įvyko šitaip todėl, kad pats Kristus,
-    kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
-    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
-    ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
-    karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
-    grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
-    nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
-    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
-    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
-    tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
-      307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-002
-  santrauka: '1274 m. notangai kartu su pagudėnais, varmiais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
-
-      1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
-    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
-    kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
-    paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
-    ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
-    Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui
-    bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
-    visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
-    tarnauti gyvajam dievui Jėzui Kristui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
 - c-003
   santrauka: 'Prūsams vėl atkritus nuo tikėjimo, notangai savo kariuomenės vadu ir vyresniuoju išsirinko Herkų Mantą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -365,9 +311,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
     bartai — Divaną361.
 
-
-
-
                    90 (85). Apie didelį krikščionių kraujo praliejimą
   citata_rodoma: ''
   statusas: verified
@@ -376,34 +319,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
-
-- c-004
-  santrauka: '1260 m. Klaipėdoje notangai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ordino pajėgos
-    1260 m. Klaipėdoje prieš Lietuvą buvo
-    sutelktos Livonijos ir Prūsijos kryžiuočių
-    ordinų pajėgos, broliai riteriai ir
-    i 4 jiems pavaldžių užgrobtų žemių
-    “prievarta buriami kariai (prūsai -
-    pamedėnai, notangai, varmiai, sem-
-    bai, o taip pat kuršiai, estai ir kt.), iš
-    Vokietijos žemių 30 naujai įstojusių Ordino
-    brolių būrys, Revelio (Talino) danų kariuo-
-    menė, vadovaujama švedų kunigaikščio
-    Karolio, turėjusio dar savo būrį. Į šią kry-
-    žiaus karo akciją buvo įtraukti ir prieš tuo
-    metu Rytų Europą užplūdusius totorius
-    gausiai suverbuoti kryžininkai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-003
 
 - c-005
   santrauka: 'Notangai ir varmiai išsižadėjo maišto sumanymų ir davė žodį būti ištikimi broliams.'
@@ -464,78 +379,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindžia:
     - t-002
 
-- c-008
-  santrauka: 'Išžudžius karo vadus, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
-    kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
-    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
-
-
-
-
-    137 (132).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-009
-  santrauka: 'Iš pradžių jis buvo siejamas tik su notangais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šiuo vardu iš pradžių, manoma,
-    vadinta tik Pagudė ir, matyt, Pamedė, o pats vardas atsirado ne anksčiau kaip IX—X a.
-    Galvojama, kad etninis vardas Prūsai galėjo egzistuoti jau Romos imperijos laikais (K.
-    Ptolemėjo Boruskus). Iš pradžių jis buvo siejamas tik su notangais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-010
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Karaliaučiaus pilies užpuolimą
-
-       Neilgai trukus po to notangų vadas Herkus Mantas subūrė didelę kariuomenę  ir
-    atžygiavo  į Karaliaučiaus lauką, ketindamas pulti pilį. Susidūrę su juo, broliai su savo
-    ginklanešiais narsiai pasipriešino. Tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį
-    Henriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat
-    pasiųsiu tave  į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda
-    vėliau ir užgijo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-    - t-020
-    - t-022
-
-- c-011
-  santrauka: 'Notangai gyveno Notangoje, teritorijoje į rytus nuo Varmės, siekusioje Priegliaus pakrantes ir Alnos upę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    195 D.— Nattangia, Jer.— Natangin. Teritorija  į rytus nuo Varmės, šiaurėje siekė
-    Priegliaus pakrantes, o rytuose — Alnos upę  (į pietryčius nuo dab. Kaliningrado —
-    imtinai su Bagrationovsku. Pietuose maždaug iki dab. Bartošicės).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
 - c-012
   santrauka: '1314 m. brolis Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -555,53 +398,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindžia:
     - t-017
 
-- c-013
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Herkaus Manto, notangų vado, žūtį
-
-      Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė
-    jokios baimės. Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti
-    dėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne
-    kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas
-    sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo
-    komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai
-    nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-    - t-018
-
-- c-014
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
-                                    kariuomenę
-
-      1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir
-    Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus,
-    atūžė tokia siaubinga, tokia nematyta negirdėta audra, kad vėjai taip klaikiai daužėsi,
-    jog rodėsi, kad tranko griaustinis; nekalbant jau apie baimę, apėmusią žmones, daugiau
-    nei penki šimtai arklių, sutraukę kamanas ir pančius, išlakstė po mišką. Todėl, vargais
-    negalais sugaudę arklius, tiesa, ne visus, brolių kariuomenė patraukė atgal. Neilgai
-    trukus jie gavo patikimą žinią, kad daugybė kovai pasirengusių netikėlių tris dienas
-    tykojo brolių bei jų kariuomenės; jeigu krikščionys būtų įsibrovę  į jų žemę grobio, nė
-
-    vienas nebūtų išnešęs sveikos galvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-021
-    - t-023
-
 - c-015
   santrauka: '1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį ir sudegino abu jos papilius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -612,9 +408,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,
     abu jos papiliai supleškėjo ugnyje.
 
-
-
-
                     320 (313).
   citata_rodoma: ''
   statusas: verified
@@ -623,26 +416,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-
-- c-016
-  santrauka: 'Po skerdynių notangai metė burtus dėl aukos dievams, ir burtai tris kartus krito Magdeburgo miestiečiui Hirtshalsui.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Po šių skerdynių
-    notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų
-    akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir
-    turtingam vyrui, vardu Hirtshalsas, kuris, patekęs  į tokią bėdą, paprašė Herkų Mantą
-    prisiminti patirtas Magdeburgo mieste geradarystes ir išgelbėti jį nuo šitokios nelaimės.
-    Šitai išgirdęs, Herkus, jį užjausdamas, du kartus jį išgelbėjo. Tačiau kai ir trečią kartą
-    burtai jam krito, pats atsižadėjo noro išsigelbėti  ir iš pagarbos tikėjimui laisva valia
-    pasiaukojo dievui: pririštas ant savo žirgo, jis buvo sudegintas367.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
 
 - c-017
   santrauka: 'Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo.'
@@ -665,12 +438,11 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75674
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Įvyko šitaip todėl, kad pats Kristus,
     kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
-    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    širdis, tad į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
     ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
     karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
     grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
@@ -678,7 +450,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
     teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
     tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
-      307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
+    307  Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -689,13 +461,11 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75675
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
-
-      1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
-    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
+    1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
+    varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus,
     kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
     paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
     ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
@@ -713,8 +483,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75676
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 115"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
     netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
@@ -722,11 +491,10 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
     Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
     bartai — Divaną361.
-
-
-
-
-                   90 (85). Apie didelį krikščionių kraujo praliejimą
+    90 (85). Apie didelį krikščionių kraujo praliejimą
+    Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
+    išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
+  citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361.\n\n\n\n\n               90 (85). Apie didelį krikščionių kraujo praliejimą"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -760,21 +528,21 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78402
     - t-78396
+    - t-78402
 
 - id: c-75679
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie daugybės pagudėnų išžudymą
     Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
-    sembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
+    sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
     varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis
-
-      476 1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas
+    476  1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas
     (plg. D. III, 223).
+  citata_rodoma: "Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo\nsembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir\nvarmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis\n\n  476 1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas\n(plg. D. III, 223)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -785,39 +553,40 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75680
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 116"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Broliai ir maldininkai nutarė, kad viena dalis jų kariuomenės
-    sugrįžtų atgal ir pakartotinai nusiaubtų minėtąją žemę, o kita dalis — paliktų toje pačioje
-    vietoje. Kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės
-    siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį;
-    maldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu
-    Štenkelis iš Bentheimo, kuris kadaise patyrė iš vieno vyskupo pamokslo, kad tikinčiųjų,
-    nukautų Prūsijoje, sielos kylančios tiesiai į dangų, aplenkdamos skaistyklą, todėl dabar,
-    paspaudęs savo žirgą pentinais, atstatęs ietį, kaip paprastai daro kariai, įsibrovė į priešo
-    rikiuotę, žudydamas nedorėlius į dešinę ir kairę, o jie krito žemėn vieni čia, kiti ten. Vis
-    dėlto, kai grįždamas brovėsi per juos, buvo nukautas, o tarp jų prasidėjo atkakli kova,
-    pareikalavusi ir vienoje, ir kitoje pusėje daugybės mirtinai sužeistų arba užmuštų.
+    Po šių skerdynių
+    notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų
+    akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir
+    turtingam vyrui, vardu Hirtshalsas, kuris, patekęs į tokią bėdą, paprašė Herkų Mantą
+    prisiminti patirtas Magdeburgo mieste geradarystes ir išgelbėti jį nuo šitokios nelaimės.
+    Šitai išgirdęs, Herkus, jį užjausdamas, du kartus jį išgelbėjo. Tačiau kai ir trečią kartą
+    burtai jam krito, pats atsižadėjo noro išsigelbėti ir iš pagarbos tikėjimui laisva valia
+    pasiaukojo dievui: pririštas ant savo žirgo, jis buvo sudegintas367. Gerai įsidėmėk, kad ir
+    tas pats Herkus, ir daugybė kitų vėliau, priesaika patvirtindami savo žodžius, tikino, jog
+    tuo metu, kai tas ant arklio sudegintas miestietis išleido paskutinį atodūsį, jie išvydo jam
+    iš burnos išskrendant baltų balčiausią balandį.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78397
+    - t-196913
 
 - id: c-75681
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 126"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    118 (113). Apie Kroicburgo pilies sugriovimą
-
-       Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus
-    metus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna,
-    ilgai ir garbingai ten kovoję ir visiškai pristigę maisto, naktį slapta pasitraukė iš pilies.
-    Sitai pajutę, prūsai pradėjo juos vytis ir kalavijais iškapojo visus, išskyrus du brolius.
+    Sitai girdėdamas,
+    Miligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis. Pastebėjęs
+    didelį priešų būrį, staiga iššokusį iš pasalų, jis nukovė savo iššaukėją, paspruko į mišką
+    ir slaptais keliais sugrįžo į Bartenšteino pilį. Šitokiais bei panašiais būdais [prūsai] jį ilgai
+    viliojo į dvikovą, kol galop, nutykoję progą, nužudė. Taip pat buvęs jų nužudytas dar
+    vienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus. Dėl šių dviejų žūties
+    prūsai labai džiūgavo, o broliai sielvartavo.
+  citata_rodoma: "118 (113). Apie Kroicburgo pilies sugriovimą\n\n   Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus\nmetus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna,\nilgai ir garbingai ten kovoję ir visiškai pristigę maisto, naktį slapta pasitraukė iš pilies.\nSitai pajutę, prūsai pradėjo juos vytis ir kalavijais iškapojo visus, išskyrus du brolius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -828,16 +597,11 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75683
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
     kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
     kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
-
-
-
-
     137 (132).
   statusas: verified
   teiginio_tipas: faktas
@@ -849,8 +613,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75684
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 54"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šiuo vardu iš pradžių, manoma,
     vadinta tik Pagudė ir, matyt, Pamedė, o pats vardas atsirado ne anksčiau kaip IX—X a.
@@ -866,16 +629,14 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75685
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 121"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Karaliaučiaus pilies užpuolimą
-
-       Neilgai trukus po to notangų vadas Herkus Mantas subūrė didelę kariuomenę  ir
-    atžygiavo  į Karaliaučiaus lauką, ketindamas pulti pilį. Susidūrę su juo, broliai su savo
+    Neilgai trukus po to notangų vadas Herkus Mantas subūrė didelę kariuomenę ir
+    atžygiavo į Karaliaučiaus lauką, ketindamas pulti pilį. Susidūrę su juo, broliai su savo
     ginklanešiais narsiai pasipriešino. Tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį
     Henriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat
-    pasiųsiu tave  į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda
+    pasiųsiu tave į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda
     vėliau ir užgijo.
   statusas: verified
   teiginio_tipas: faktas
@@ -883,14 +644,12 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78412
-    - t-183889
     - t-194332
 
 - id: c-75686
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 59"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 59."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     195 D.— Nattangia, Jer.— Natangin. Teritorija  į rytus nuo Varmės, šiaurėje siekė
     Priegliaus pakrantes, o rytuose — Alnos upę  (į pietryčius nuo dab. Kaliningrado —
@@ -905,16 +664,21 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75687
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
-    brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
-    valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,
-    todėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino
-    brolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami
-    karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
-    mūsų dievo Jėzaus Kristaus garbei.
+    Apie Ragainės pilies užpuolimą
+    1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir
+    netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė. Broliai
+    jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė
+    atsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį
+    Joną, vadinamą Pope, o daug kitų sužeidė. Galop lietuviai, nieko nepešę iš šio antpuolio,
+    pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
+    pasėlius.
+    324 (317). Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
+    Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
+    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
+    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.
+  citata_rodoma: "1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats\nbrolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų\nvalsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,\ntodėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino\nbrolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami\nkaršto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi\nmūsų dievo Jėzaus Kristaus garbei."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -925,12 +689,10 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75690
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Herkaus Manto, notangų vado, žūtį
-
-      Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė
+    Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė
     jokios baimės. Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti
     dėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne
     kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas
@@ -948,8 +710,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75691
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 212-213"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212-213."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
                                     kariuomenę
@@ -970,25 +731,26 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78400
-    - t-183890
     - t-194333
 
 - id: c-75692
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 208"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    319 (312). Apie Bisenės papilių sudeginimą 1313 metais
-
-      Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais
-    užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,
-    abu jos papiliai supleškėjo ugnyje.
-
-
-
-
-                    320 (313).
+    sugriovė, o aplinkines žemes nuniokojo, degindamas ir plėšdamas visa, kas pakliuvo;
+    priešais minėtojo miesto pilį jis pastatė palapines ir ten pernakvojo, o kitą dieną jis bei
+    visa jo kariuomenė priėjo prie pilies ir ją smarkiai užpuolė, todėl abi šalys prarado keletą
+    karių nukautaisiais ir daug mirtinai sužeistaisiais. Nieko šiuo antpuoliu nepešę, pasitraukė;
+    kai priėjo vietą, kur buvo palikę saugas prie atsarginės žygio mantos, pamatė, kad
+    Gardino pilininkas Dovydas573 nužudęs 30 vyrų ir pagrobęs pusantro tūkstančio arklių,
+    duoną bei kitokį maistą ir visus kitus paliktus saugoti daiktus. Dar labiau susirūpino
+    broliai, kai, priėję antrąjį postovį, ir ten neberado nei duonos, nei kitų paliktų daiktų;
+    jie patraukė į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo
+    arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
+    alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
+    išvykimo dienos.
+  citata_rodoma: "319 (312). Apie Bisenės papilių sudeginimą 1313 metais\n\n  Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais\nužpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,\nabu jos papiliai supleškėjo ugnyje.\n\n\n\n\n                320 (313)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -999,16 +761,15 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 116"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Po šių skerdynių
     notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų
     akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir
-    turtingam vyrui, vardu Hirtshalsas, kuris, patekęs  į tokią bėdą, paprašė Herkų Mantą
+    turtingam vyrui, vardu Hirtshalsas, kuris, patekęs į tokią bėdą, paprašė Herkų Mantą
     prisiminti patirtas Magdeburgo mieste geradarystes ir išgelbėti jį nuo šitokios nelaimės.
     Šitai išgirdęs, Herkus, jį užjausdamas, du kartus jį išgelbėjo. Tačiau kai ir trečią kartą
-    burtai jam krito, pats atsižadėjo noro išsigelbėti  ir iš pagarbos tikėjimui laisva valia
+    burtai jam krito, pats atsižadėjo noro išsigelbėti ir iš pagarbos tikėjimui laisva valia
     pasiaukojo dievui: pririštas ant savo žirgo, jis buvo sudegintas367.
   statusas: verified
   teiginio_tipas: faktas
@@ -1020,13 +781,14 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75696
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 58-59"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58-59."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ventos intaką Varmė (Būga K. 3, 114).
-    Teritorija į šiaurės rytus nuo Pagudės, platus ruožas nuo Elbingo palei Aismares beveik
-
-    Notanga195, kurioje [gyveno] notangai. Šešta — Semba196, kurioje [gyveno] sembai.
+    Teritorija į rytus nuo Varmės, šiaurėje siekė
+    Priegliaus pakrantes, o rytuose — Alnos upę (į pietryčius nuo dab. Kaliningrado —
+    imtinai su Bagrationovsku. Pietuose maždaug iki dab. Bartošicės). Siaurės rytuose priėjo
+    Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais
+    priskiriama Notangai).
+  citata_rodoma: "Ventos intaką Varmė (Būga K. 3, 114).\nTeritorija į šiaurės rytus nuo Pagudės, platus ruožas nuo Elbingo palei Aismares beveik\n\nNotanga195, kurioje [gyveno] notangai. Šešta — Semba196, kurioje [gyveno] sembai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

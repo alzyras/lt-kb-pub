@@ -68,28 +68,28 @@ Taurė siejama su masonų apeigomis; jos raižinyje pateikti keli simboliniai ob
 <a id="claim-t-187809"></a>
 - t-001
   global_id: t-187809
-  teiginys: "Viename masonų apeigų taurės šone buvo išraižytas įrašas „Teodor Narbutt“, kitame – stalas su kaukole, kalaviju ir kitais simboliais."
+  teiginys: 'Viename masonų apeigų taurės šone buvo išraižytas įrašas „Teodor Narbutt“, kitame – stalas su kaukole, kalaviju ir kitais simboliais.'
   pagrindžia:
     - c-170766
 
 <a id="claim-t-187810"></a>
 - t-002
   global_id: t-187810
-  teiginys: "Lietuvos istorijos ir etnografijos muziejaus rinkiniuose saugota taurė aprašyta kaip masonų apeigų atributas."
+  teiginys: 'Lietuvos istorijos ir etnografijos muziejaus rinkiniuose saugota taurė aprašyta kaip masonų apeigų atributas.'
   pagrindžia:
     - c-170766
 
 <a id="claim-t-187811"></a>
 - t-003
   global_id: t-187811
-  teiginys: "Ant masonų apeigų taurės buvo išgraviruota data „1817 m.“."
+  teiginys: 'Ant masonų apeigų taurės buvo išgraviruota data „1817 m.“.'
   pagrindžia:
     - c-170766
 
 <a id="claim-t-188384"></a>
 - t-004
   global_id: t-188384
-  teiginys: "Visuomenės švietimo ir ugdymo uždaviniai buvo suformu luoti masonų organizacijose."
+  teiginys: 'Visuomenės švietimo ir ugdymo uždaviniai buvo suformu luoti masonų organizacijose.'
   pagrindžia:
     - c-170766
 - susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-187939|Antanas Marcinovskis]]: Antanas Marcinovskis buvo vienas iš „Dziennik Willenski“ ir „Tygodnik Wilenski“ redaktorių, priklausiusių masonų organizacijai.
@@ -100,40 +100,6 @@ Taurė siejama su masonų apeigomis; jos raižinyje pateikti keli simboliniai ob
 - susijęs iš [[objektai/paprociai/Masonų ugdymo uždaviniai ir apeiginė simbolika.md#claim-t-189846|Masonų ugdymo uždaviniai ir apeiginė simbolika]]: Masonų organizacijose kampainis simbolizavo sąžinę, akacijos šakelė - nemirtingumą, o skriestuvas - aukščiausiąjį protą.
 - susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-188483|Teodoras Narbutas]]: Teodoras Narbutas spaudai parengė „Kronika Niemiecka J. F. R.“ iš autentiško rankraščio.
 - susijęs iš Revelis: Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje, vadinamojo Suomijos karo metu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Visuomenės švietimo ir ugdymo uždaviniai buvo suformu­
-    luoti masonų organizacijose. Lietuvos istorijos ir etnografijos
-    muziejaus rinkiniuose saugoma taurė -  masonų apeigų atri­
-    butas. Viename taurės šone išraižytas įrašas „Teodor Narbutt“,
-    7
-
-    ## Puslapis 7
-
-    s
-    s
-    kitame -  staltiese užtiestas stalas, ant kurio padėta žmogaus
-    kaukolė, kalavijas, akacijos šakelė, kampainis, skriestuvas, pa­
-    statytos svarstyklės, žiūronas ir deganti žvakė, į kurios šviesą
-    skrenda drugelis. Masonų organizacijose kampainis simboli­
-    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
-    čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
-    mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
-    organizaciją4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-    - t-003
-    - t-004
-
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
@@ -169,7 +135,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187810
-    - t-187809
-    - t-187811
-    - t-188384
+    - t-004
+    - t-005
+    - t-006
+    - t-007

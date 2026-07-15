@@ -63,8 +63,8 @@ Nenurodyta
   teiginys: "Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę."
   pagrindžia:
     - c-174956
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -114,18 +114,21 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Piktadarystė — nusikaltimas prieš
-    valstybę ir religiją, kaip moralės saugotoją.
-    Vaizdingi, nors ir žiaurūs, karo veiksmų aprašy­
-    mai su lietuvių kunigaikščių ir karvedžių charakteris­
-    28
-
-    ## Puslapis 27
-
-    tikomis leidžia pastebėti siužetų idėją. Tie lietuviai
-    pagonys kilnūs, išmintingi ir narsūs, kurie buvo išti­
-    kimi protėvių religijai ir papročiams,— jie sukūrė Lie­
-    tuvos valstybę.
+    Kad toji lenkų imperija nežlugtų ir, vykdydama
+    Gnezno arkivyskupystės ir jėzuitų ordino įsipareigoji­
+    mus, toliau plėtotų savo agresiją į didžiarusių (mask-
+    vėnų) žemes, reikia remtis Lietuva, kurios piliečius,
+    turinčius ir gerbiančius savo istoriją, jungia su Lenki­
+    ja katalikybė, bendra kalba ir monarcho išmintis.
+    Nors veikalas, kur pasaulėžiūra išreiškiama litera­
+    tūrine išmone, negalėjo lygiuotis su Vakarų Europos
+    istoriografijoje besireiškiančiu racionalizmu, vis dėl­
+    to A. Kojelavičiaus Lietuvos istorija sėkmingai atsto­
+    vavo Lietuvai mokslo pasaulyje. Po šimto metų Vil­
+    niaus akademijos profesorius P. Paprockis parašė trum­
+    pą Lietuvos istoriją lenkiškai (Domowe wiadomošci o
+    Wielkim Xięstwie Litewskim z przytączeniem historyi
+    tegož narodu przedrukowane.
   citata_rodoma: "Piktadarystė — nusikaltimas prieš\nvalstybę ir religiją, kaip moralės saugotoją.\nVaizdingi, nors ir žiaurūs, karo veiksmų aprašy­\nmai su lietuvių kunigaikščių ir karvedžių charakteris­\n28\n\n## Puslapis 27\n\ntikomis leidžia pastebėti siužetų idėją. Tie lietuviai\npagonys kilnūs, išmintingi ir narsūs, kurie buvo išti­\nkimi protėvių religijai ir papročiams,— jie sukūrė Lie­\ntuvos valstybę."
   statusas: verified
   teiginio_tipas: faktas
@@ -137,17 +140,20 @@ Nenurodyta
 - id: c-174956
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 27."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tie lietuviai
-    pagonys kilnūs, išmintingi ir narsūs, kurie buvo išti­
-    kimi protėvių religijai ir papročiams,— jie sukūrė Lie­
-    tuvos valstybę. Priėmę krikščionybę, jie liko jai ištiki­
-    mi. Tie, kurie, priėmę krikščionybę, nuo jos atsimetė
-    arba, prisidėję prie erezijų, sukėlė vidinius vaidus, silp­
-    nino monarcho valdžią ir griovė Žečpospolitą, kaip
-    daug kartų yra sakęs Petras Skarga.
+    Nors veikalas, kur pasaulėžiūra išreiškiama litera­
+    tūrine išmone, negalėjo lygiuotis su Vakarų Europos
+    istoriografijoje besireiškiančiu racionalizmu, vis dėl­
+    to A. Kojelavičiaus Lietuvos istorija sėkmingai atsto­
+    vavo Lietuvai mokslo pasaulyje. Po šimto metų Vil­
+    niaus akademijos profesorius P. Paprockis parašė trum­
+    pą Lietuvos istoriją lenkiškai (Domowe wiadomošci o
+    Wielkim Xięstwie Litewskim z przytączeniem historyi
+    tegož narodu przedrukowane. Wilno, 1763). Jis nau­
+    dojosi A. Kojelavičiumi, tačiau, daugelį įvykių aiškin­
+    damas antgamtinėmis jėgomis ir žmonių prigimtimi,
+    pirmtakui toli gražu neprilygo.
   citata_rodoma: "Tie lietuviai\npagonys kilnūs, išmintingi ir narsūs, kurie buvo išti­\nkimi protėvių religijai ir papročiams,— jie sukūrė Lie­\ntuvos valstybę. Priėmę krikščionybę, jie liko jai ištiki­\nmi. Tie, kurie, priėmę krikščionybę, nuo jos atsimetė\narba, prisidėję prie erezijų, sukėlė vidinius vaidus, silp­\nnino monarcho valdžią ir griovė Žečpospolitą, kaip\ndaug kartų yra sakęs Petras Skarga."
   statusas: verified
   teiginio_tipas: faktas

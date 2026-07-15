@@ -48,43 +48,6 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
   teiginys: "Per 20 metų lietuviai iš Lietuvos daugiausia emigravo į Pietų Amerikos šalis: Argentiną, Braziliją, Venesuelą ir Urugvajų."
   pagrindžia:
     - c-166577
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Su stipriausiais finansiškai ir
-    organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminin-
-    gas politines organizacijas, profesiškai ar tiesiog asmeniškai. Pasaulio
-    lietuvių kongresas Kaune 1935 m., į kurį atvyko 3 000 delegatų ir svečių
-    iš 19 valstybių, parodė, kad dauguma užsienio lietuvių artimi Lietuvai,
-    rūpinasi jos ateitimi, nors ir nepritaria autoritarinio režimo įvestiems
-    politiniams suvaržymams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-
-    venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
-    Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Per 20 metų iš
-    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
-    vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
-    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

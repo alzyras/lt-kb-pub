@@ -77,13 +77,13 @@ Nenurodyta
 - susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Martyno iš Opavos istorijoje pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona – kūnu.
 - susijęs iš Ptolomėjaus iš Lukos Analai: Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona kūnu.
 - susijęs iš Kristburgas: 1324 m. Kristburgo pilyje račiaus Andriaus vaišėse iš aluje dažytos duonos pradėjo varvėti kraujo lašai.
-- susijęs iš Vilnius: Vilniaus tarėjams nurodyta su valdinių turinčiais ponais susitarti dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.
 - susijęs iš [[objektai/zodynas/Olia Charitatis.md#claim-t-86601|Olia Charitatis]]: Iš Joniškio pajamų neturtingiems studentams kasdien buvo skiriami Olia Charitatis labdaringi pietūs ir duonos kepalas.
 - susijęs iš [[objektai/zodynas/Pelenų Gabija Moterų Gabija.md#claim-t-189271|Pelenų Gabija Moterų Gabija]]: Narbutas rašė, kad Pelenų Gabijos moterys šaukdavosi kūrendamos namų krosnis, o Moterų Gabijos - kepėjai, siekę sėkmingos duonos.
 - susijęs iš [[objektai/zodynas/vaitas ir tarėjai.md#claim-t-86559|vaitas ir tarėjai]]: Vilniaus tarėjams nurodyta su valdinių turinčiais ponais susitarti dėl duonos dydžio, svorio ir miesto tvarkos.
 - susijęs iš [[objektai/asmenys/Daukšienė (Kairėnėlių šeimininkė).md#claim-t-195564|Daukšienė (Kairėnėlių šeimininkė)]]: Kairėnėliuose Daukšienė su duona ir rūgštimi pasitiko jaunuosius.
 - susijęs iš [[objektai/asmenys/Tadaušas Iešmantas (kerdžius, XIX a.).md#claim-t-195261|Tadaušas Iešmantas (kerdžius, XIX a.)]]: Tadaušas Iešmantas buvo vienrankis, gimęs ir augęs tame pačiame kaime, ir iš ganymo valgė duoną.
 - susijęs iš [[objektai/asmenys/Abraomas.md#claim-t-60226|Abraomas]]: Abraomas su 318 tarnų kovojo dėl savo dievobaimingo brolio laisvės ir nekalto kalinio sugrąžinimo.
+- susijęs iš [[objektai/asmenys/Antoninas Pijus.md#claim-t-200737|Antoninas Pijus]]: Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė apie Saulės dieną vykusius miestų ir kaimų gyventojų susirinkimus.
 - susijęs iš [[objektai/asmenys/Barbora iš Sulistrovskių Čechavičienė.md#claim-t-87630|Barbora iš Sulistrovskių Čechavičienė]]: 1759 m. balandžio 22 d. pas Barborą iš Sulistrovskių Čechavičienę buvo investuota 4000 lenkų auksinų spaustuvės suma.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173132|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei atsargų.
 - susijęs iš [[objektai/asmenys/Gerhardas, pravarde Rudė.md#claim-t-60288|Gerhardas, pravarde Rudė]]: Lietuviai paaukojo dievams Sembos fogtą Gerhardą Rudę, sudegindami jį su šarvais ant jo kovos žirgo.
@@ -150,37 +150,12 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/Apieravonė.md#claim-t-195638|Apieravonė]]: Apieravonė šiame šaltinyje yra trumpas išmaldos ar aukojimo veiksmas.
 - susijęs iš [[objektai/zodynas/Magaryčios.md#claim-t-195617|Magaryčios]]: Magaryčios šiame šaltinyje geriamos kaip atskiras gėrimo veiksmas.
 - susijęs iš [[objektai/zodynas/Poterėliai.md#claim-t-195646|Poterėliai]]: Poterėlių vartosena šiame šaltinyje siejama su trumpu užsukimu ir greitu išėjimu.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1324 m. Kristburgo pilyje iš duonos, kurią račius Andrius dažė aluje, pradėjo varvėti kraujo lašai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    123. Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje
-
-      1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo
-    pilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami,
-    jog jie laša iš kokios žaizdos, atidžiai apžiūrėjo jam ir burną, ir veidą, ir rankas, bet
-    nerado nė pėdsako žaizdos, todėl visi didžiai dėl to atsitikimo stebėjosi.
-
-
-
-                  124.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 250"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 250."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     123. Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje
 

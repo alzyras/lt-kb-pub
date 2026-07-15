@@ -47,25 +47,6 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
 - susijęs iš Vilijampolė: 1941 m. birželio 26 d. Vilijampolėje lietuvių talkininkai dalyvavo SD inspiruotuose žiauriuose pogromuose.
 - susijęs iš „Lietūkio“ garažas: 1941 m. birželio 27 d. Kauno „Lietūkio“ garaže lietuviai dalyvavo SD inspiruotame žiauriame pogrome.
 - susijęs iš [[objektai/zodynas/einzatsgrupės Einzatsgruppen.md#claim-t-22131|einzatsgrupės Einzatsgruppen]]: Einzatsgrupės terorą organizavo taip, kad pirmieji pogromai ir „apsivalymo“ akcijos atrodytų vykdomi vietinių gyventojų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    pereinamojo laikotarpio. Specialiosios SD grupės (Tilžės gestapo būrys)
-    1941 m. birželio 24 d. sušaudė tik žydus (vyrus) 25 km ruože Lietuvos ir
-    Vokietijos pasienyje, Gargžduose – 201 žydą, kitą dieną Kretingoje – 214,
-    birželio 27-ąją Palangoje 111 žydų, žudė juos ir kitose vietose.
-    Einzatsgrupės terorą organizavo taip, kad atrodytų, jog pirmuosius
-    pogromus ir „apsivalymo“ akcijas vykdo vietiniai gyventojai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24128

@@ -44,50 +44,12 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   pagrindžia:
     - c-59247
 - susijęs iš Barta: Petro Dusburgiečio kronikoje Barta ir Plikoji Barta priskiriamos vienai iš vienuolikos Prūsijos žemės dalių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Plikąja, arba Mažąja, Barta buvo vadinamas pietvakarinis Bartos kampas ties Alnos upe.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Plikąja, arba Mažąja, Barta — buvo vadinamas pietvakarinis Bartos kampas ties Alna
-    —dab. Varmijos Lidzbarko (Lidzbark Varm.), Dobrė Miasto (Dobre Miasto) ir Jezioranų
-    apylinkės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Petro Dusburgiečio kronikoje Plikoji Barta minima kaip viena iš vienuolikos Prūsijos žemės dalių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
-    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
-    iki Nemuno.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-59246
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 63"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Plikąja, arba Mažąja, Barta — buvo vadinamas pietvakarinis Bartos kampas ties Alna
     —dab. Varmijos Lidzbarko (Lidzbark Varm.), Dobrė Miasto (Dobre Miasto) ir Jezioranų
@@ -102,15 +64,14 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-59247
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno.
   citata_rodoma: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.\n  Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu\nvadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos\niki Nemuno."

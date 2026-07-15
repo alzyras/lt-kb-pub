@@ -75,6 +75,7 @@ Nenurodyta
   teiginys: "Senojoje gadynėje Lietuvos žmonės švietėsi balanomis, avėjo vyžomis, kūlė spragilu ir gyveno dūminėse grįčiose."
   pagrindžia:
     - c-178014
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -97,14 +98,11 @@ Nenurodyta
     dailės kūriniams,
     pilniems
     naivumo ir tragizmo.
-  citata_rodoma: "Man teko būti liudininku, kaip senoji gadynė pasikeitė į naująją,
-liudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi,
-vj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo,
-daug meldėsi, daug dirbo, daug gėrė ir lėbavo."
+  citata_rodoma: "Man teko būti liudininku, kaip senoji gadynė pasikeitė į naująją,\nliudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi,\nvj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo,\ndaug meldėsi, daug dirbo, daug gėrė ir lėbavo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195612
     - t-195611
+    - t-195612

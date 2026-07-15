@@ -63,25 +63,6 @@ Nenurodyta
   teiginys: "Rusų kariai pranoko sukilėlius ginkluote, nes buvo ginkluoti naujo pavyzdžio kapsuliniais šautuvais."
   pagrindžia:
     - c-44659
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    I. Ganeckio rinktinę, tačiau rusų
-    kariai pranoko sukilėlius ginkluote, nes
-    buvo ginkluoti naujo pavyzdžio kapsuli-
-    niais šautuvais. Be to, rusai turėjo didelį
-    neseniai pasibaigusio Krymo karo paty-
-    rimą. Daugelis sukilėlių turėjo tik senus
-    titnaginius arba medžioklinius šautuvus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

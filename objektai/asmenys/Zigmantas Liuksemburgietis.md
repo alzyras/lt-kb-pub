@@ -9,6 +9,10 @@ datos:
   - '1422 m.'
 date_start: '1402'
 date_end: '1422'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,10 +20,6 @@ tags:
   - karalius
   - kunigaikštis
   - popiežius
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -120,180 +120,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 - susijęs iš Breslavas: 1420 m. Breslavo suvažiavime Zigmantas Liuksemburgietis patvirtino 1411 m. Torno sutartį.
 - susijęs iš Kujavija: Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­
-    tus. Jis pabijojo, kad Vytautas nepradėtų Čekijoje uoliai šei­
-    mininkauti ir jos nepaveržtų. Todėl kurstė prieš Vytautą po­
-    piežių, abu Ordinus, Hanzos miestus, Vokietijos kunigaikščius,
-    — visus juos kviesdamas į karą su Vytautu, globojančiu hereti­
-    kus^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­
-    da jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą,
-    norėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija. Zig­
-    mantas atsisakė išpildyti tuo atveju, jei kiltų karas tarp Lenki­
-    jos ir Ordino. Užtat slaptai, nedalyvaujant lenkų ponams, ku­
-    rie kartu buvo atvykę su Vytautu, pasiūlė jam karaliaus karū­
-    ną, žadėdamas visišką nepriklausomybę nuo Jogailos ir Lenki­
-    jos ir net pagalbą prieš juos, jeigu jie priešintųsi. Bet Vytau­
-    tas, ką jis priminė vėliau lenkams, nesileido į jokias derybas
-    tuo klausimu, bet priešingai, sugrįžęs tuojau pranešė Jogailai
-    tuos pasitarimus^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Abi
-    pusės išvažinėjo labai susierzinusios ir išsiskubino su skundais
-    pas Zigmantą L., kuris kaskart vis labiau stengėsi paimti į savo
-    rankas kryžiuočių ginčą su Lietuvą ir Lenkija. Galop paaiš­
-    kėjo, kad ginčą išspręsti gali padėti tik ginklas. Buvo
-    jau net suruoštas ir žygis, bet Zigmantui ir popiežiaus legatams
-    tarpininkaujant, ginklai buvo laikinai sustabdyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Zigmantas Liuksemburgietis dažnai klausė Vytauto apie karūnacijos terminą ir skatino jį negaišti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Zigmantas dažnai klausinėja
-    Vytautą apie karūnacijos terminą ir skatina jį negaišt. Jis rū­
-    pinasi vis labiau patraukt į savo pusę Ordiną ir sukelt visus ki­
-    tus Lenkijos priešus. Damoklo kardas tikrai pakibo ant unijos,
-    kurią taip smarkiai gynė lenkai ir, ieškodami plačiausios para­
-    mos prieš šį pavojų, Jogailos pašaukti, susivažiavo į Jedlną
-    (1430.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-005
-  santrauka: 'Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet
-    po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­
-    mene nusiuntė Zigmantą Kaributą padėti husitams kovose su
-    ciesorium Zigmantu. Vytautas tai darė ne iš simpatijos pačiam
-    husitizmui, bet iš pykčio ant ciesoriaus (in odium Sigismundi),
-    kuris Breslavo sprendimu (142Ü) pripažino Ordinui Žemaičius ir
-    rėmė agresingus jo žygius prieš Vytautą; pats gi kovojo su če­
-    kais, kaip kandidatas į Čekijos sostą. Vytautas jį dabar ir pa­
-    baidė, pasiųsdamas čekams husitams pagalbą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kryžiuočiai vis dar nenorėjo pripažinti savo pra­
-    laimėjimo Konstancijos susirinkime ir visokeriopais būdais sten­
-    gėsi atgauti prarastą garbę. Martynas V jiems grąžino popie­
-    žiaus Jono XXIII atimtas privilegijas valdyti užimtąsias žemes,
-    o ciesorius Zigmantas savo sprendimu Breslave (1420) prisky­
-    rė jiems ir Žemaitiją. Vytautui reikėjo ginti apkrikštytus že­
-    maičius, ir tas neapsiėjo be karo, kuris įvyko 1422 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Atsitiko taip.
-    Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­
-    ėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­
-    mininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­
-    vus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje krikš­
-    čionybę, bet ir visai Europai, sulaikydamas totorių užplūdimą
-    ir iškeldamas bažnyčių unijos problemą. Jogaila, išgirdęs, kad
-    Vytautas apie tą sumanymą nieko nežino, pasiuntė į jį patį Zig­
-    mantą apie tai pasikalbėti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-006
-
-- c-008
-  santrauka: 'Zigmantui Liuksemburgiečiui tapus Romos imperatoriumi, Lenkijai dar labiau padidėjo Lietuvos pagalbos poreikis, nes jis buvo sąjungoje su Ordinu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kaip tik tuo laiku
-    Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos
-    valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­
-    trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis
-    buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
-    žant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­
-    vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L. tapo
-    Romos imperatorium, nes jis buvo sąjungoj su Ordinu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-009
-  santrauka: 'Zigmantas Liuksemburgietis pabijojo, kad Vytautas neįsitvirtintų Čekijoje ir jos neperimtų.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
-    to raktus ir pavedė karo vadovybę.
-    Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­
-    tus. Jis pabijojo, kad Vytautas nepradėtų Čekijoje uoliai šei­
-    mininkauti ir jos nepaveržtų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
 - c-010
   santrauka: 'Narbutas nurodo, kad 1402–1403 m. Čekijoje ir 1404 m. Moravijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai su kumanais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -461,8 +287,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176878
     - t-176876
+    - t-176878
 
 - id: c-160829
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -507,16 +333,16 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 - id: c-173887
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje
-    gyveno Vengrijoje arba gretimuose kraštuose. Juk žino­
-    ma, kad 1402 ir 1403 metais Čekijoje, o 1404 metais Mo­
-    ravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio
-    kariai kartu su kumanais linksminosi2.
-    139
-    Pastabos.
+    Tenykščiai kaimiečiai yra originalūs slavai, at­
+    sikėlę iš Rusios kitapus Bugo, o tai įrodo jų kalba, įpročiai
+    ir papročiai. Bet vietinius gyventojus jie pralenkia dvasine
+    kultūra, amatais ir gražesniu kūno sudėjimu. Šiuo at­
+    žvilgiu jie netgi gerokai pranoksta lietuvius polesiečius.
+    Istoriniai tyrinėjimai byloja, jog Vladislovas Lokietka, ap-
+    1 Leidinyje „Tygodnik Wilenski“ (1817.
+  citata_rodoma: "Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje\ngyveno Vengrijoje arba gretimuose kraštuose. Juk žino­\nma, kad 1402 ir 1403 metais Čekijoje, o 1404 metais Mo­\nravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio\nkariai kartu su kumanais linksminosi2.\n139\nPastabos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

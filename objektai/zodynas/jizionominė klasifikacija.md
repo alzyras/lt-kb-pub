@@ -52,38 +52,13 @@ Gali būti OCR ar rašybos variantas; kontekste kalbama apie žmonių klasifikac
   teiginys: "Narbutas jizionominę klasifikaciją laiko fiziologų tyrinėjimų patvirtintu tautų skirstymo būdu."
   pagrindžia:
     - c-175038
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas jizionominę klasifikaciją laiko fiziologų tyrinėjimų patvirtintu tautų skirstymo būdu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau, skirstant tautas į šias grupes, dėmesys kreipiamas ne tik
-    į veido bruožus, bet ir į lingvistinius bei istorinius skirtumus, kurie,
-    pavyzdžiui, neleidžia giminiškomis tautomis laikyti žydus, indus, mad-
-    jarus, turkus, slavus, lietuvius, čiudus ir samojedus; šios tautos savo
-    istorine kilme ir kalba viena nuo kitos labai skiriasi, nors Kiuvjė jas
-    ir priskiria vienai grupei. Be to, reikėtų pasakyti, jog jizionominė
-    klasifikacija, kuri naudojama nuo seniausių laikų, t. y. nuo Herodoto,
-    nėra klaidinga; atvirkščiai, ją patvirtina fiziologų tyrinėjimai. Isto­
-    riniai arba lingvistiniai skirtumai, tai mes esame minėję, atsirado tik
-    dėl to, jog žmonių giminė iš vienos klasės suskilo į atskiras šakas,
-    bet ne iš karto, o amžiams bėgant.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-175038
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 77"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 77."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau, skirstant tautas į šias grupes, dėmesys kreipiamas ne tik
     į veido bruožus, bet ir į lingvistinius bei istorinius skirtumus, kurie,

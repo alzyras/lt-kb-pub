@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Žiemos pabaigoje į Lietuvą pas karalių atvyko Liudvikas, Antiochijos patriarchas ir popiežiaus pasiuntinys. Pasak Liudviko, Mechmedas rengėsi kariauti prieš krikščionių pasaulį.
+Žiemos pabaigoje į Lietuvą pas karalių atvyko Liudvikas, Antiochijos patriarchas ir popiežiaus pasiuntinys.
 
 ## Teiginiai
 
@@ -37,108 +37,34 @@ media_all_json: |-
   pagrindžia:
     - c-169503
 
-<a id="claim-t-186143"></a>
-- t-002
-  global_id: t-186143
-  teiginys: "Pasak Liudviko, Mechmedas rengėsi kariauti prieš krikščionių pasaulį."
-  pagrindžia:
-    - c-169504
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Žiemos pabaigoje į Lietuvą pas karalių atvyko Liudvikas, Antiochijos patriarchas ir popiežiaus pasiuntinys.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Iš ten karalius nuvyko į Lietuvą
-    ir likusius žiemos mėnesius praleido Kaune, nes Vil­
-    niuje ir Gardine siautė maras.
-    Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
-    vikas, Antiochijos
-    patriar­
-    chas, popiežiaus pasiuntinys.
-    Rytų imperijos gyventojai,
-    pavergti turkų, maldavo Va­
-    karų šalis, o ypač popiežių
-    bei imperatorių padėti be-
-    žlungančiai krikščionybei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Pasak Liudviko, Mechmedas rengėsi kariauti prieš krikščionių pasaulį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Rytų imperijos gyventojai,
-    pavergti turkų, maldavo Va­
-    karų šalis, o ypač popiežių
-    bei imperatorių padėti be-
-    žlungančiai krikščionybei. Reikėjo skubėti, kol Mech-
-    medas, turkų valdovas, neužkariavo kaimyninių kraštų
-    ir neperkėlė karo į Europos
-    gilumą: pasak Liudviko,
-    jis iš paskutiniųjų rengėsi kariauti prieš krikščionių
-    pasaulį. Kad jis sakė teisybę, akivaizdžiai patvirtino
-    vėlesni įvykiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-169503
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 513"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 513."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Iš ten karalius nuvyko į Lietuvą
-    ir likusius žiemos mėnesius praleido Kaune, nes Vil­
-    niuje ir Gardine siautė maras.
-    Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
-    vikas, Antiochijos
-    patriar­
-    chas, popiežiaus pasiuntinys.
-    Rytų imperijos gyventojai,
-    pavergti turkų, maldavo Va­
-    karų šalis, o ypač popiežių
-    bei imperatorių padėti be-
-    žlungančiai krikščionybei.
+    Nebežinoda­
+    mi, ko griebtis, sugalvojo padegti vieną kitą namą, iš­
+    gąsdinti žmonės supuolė gesinti gaisrų, o kariai, paspau­
+    dę pentinais žirgus, kuo greičiausiai nušuoliavo iš
+    miesto į atvirą lauką. Sužinojęs apie šį Įvykį, miesto se­
+    niūnas Mykolas, Čartorysko kunigaikštis, sielvartauda­
+    mas ir niršdamas dėl padarytos skriaudos, pasileido pas­
+    kui padrikai sprunkantį raitelių būrį, pasivijęs bėglius,
+    iš pradžių nesėkmingai užpuolė, o vėliau, atskubėjus di­
+    desnėms jėgoms, apsupo juos prie Bugo upės ir kardais
+    iškapojo; tepaspruko iš čia vos penki raiteliai, kuriems
+    padėjo išnešti sveiką kailį gal laimė, o gal narsa. Kai
+    žinia apie šį įvykį pasiekė Lenkiją ir Lietuvą, bemat
+    pasklido kalbos, jog ten vyko kur kas didesnės kovos
+    nei iš tikrųjų (paprastai šitokį atgarsį sukelia pirmi
+    gandai), nes žmogus be galo linkęs viską perdėti arba
+    visko prisigalvoti, kaip jam šauna į galvą.
+  citata_rodoma: "Iš ten karalius nuvyko į Lietuvą\nir likusius žiemos mėnesius praleido Kaune, nes Vil­\nniuje ir Gardine siautė maras.\nŽiemos pabaigoje atvyko Lietuvon pas karalių Liud­\nvikas, Antiochijos\npatriar­\nchas, popiežiaus pasiuntinys.\nRytų imperijos gyventojai,\npavergti turkų, maldavo Va­\nkarų šalis, o ypač popiežių\nbei imperatorių padėti be-\nžlungančiai krikščionybei."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186142
-
-- id: c-169504
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 513"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 513."
-  citata_originali: |
-    Rytų imperijos gyventojai,
-    pavergti turkų, maldavo Va­
-    karų šalis, o ypač popiežių
-    bei imperatorių padėti be-
-    žlungančiai krikščionybei. Reikėjo skubėti, kol Mech-
-    medas, turkų valdovas, neužkariavo kaimyninių kraštų
-    ir neperkėlė karo į Europos
-    gilumą: pasak Liudviko,
-    jis iš paskutiniųjų rengėsi kariauti prieš krikščionių
-    pasaulį. Kad jis sakė teisybę, akivaizdžiai patvirtino
-    vėlesni įvykiai.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186143

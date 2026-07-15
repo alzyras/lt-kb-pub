@@ -41,29 +41,6 @@ Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), kurios 
   teiginys: "Lietuvos laisvės lyga pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“."
   pagrindžia:
     - c-75437
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos laisvės lyga pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),
-    kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
-    politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
-    niuose forumuose. LLL įkūrėjas ir vadovas Antanas Terleckas save vadino
-    rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos
-    nepriklausomybę taikiomis priemonėmis. Organizacijai priklausė būrys
-    prieš sovietų santvarką kovojusių asmenų, kai kurie jų – Romaldas Juozas
-    Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
-    Petras Cidzikas. LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
-    klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -72,85 +72,12 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
 - susijęs iš Rosė (Ross) upė Kijevo gubernijoje: Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą iš ten kadaise gyvenusių lietuvių genties tautų.
 - susijęs iš Rosė: Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė vardą gavusia iš lietuvių genties tautų.
 - susijęs iš Rusa (Russ) upė Naugardo gubernijoje: Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė variagų atgabenta lietuvių tautos kolonija.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, išėjusiomis į rytus valdant Filimerui arba kiek vėliau.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Galbūt neįsižeis slavų seno­
-    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
-    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
-    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
-    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
-    sų gatve.
-    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
-    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
-    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
-    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
-    arba šiek tiek vėliau.
-    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
-    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
-    liaudies padavimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbuto aiškinimu, Filimero žygio kryptį rodo spalių kelias nuo Azovo jūros į Vakarų šalis ir vėlesnis jų judėjimas su gotais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Apie šią tautą senovės ty­
-    rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
-    buvę kairiojoje Dono pakrantėje, prie Kimerijos Bospo­
-    ro2; šis teiginys, paimtas iš senovės geografų ir esantis
-    Plinijaus kompiliacijose, rodo, kad ši tauta buvusi labai
-    sena, be to, Jordanas teigia, kad spaliai gyveno dabarti­
-    nėje Mazovijoje. Norint sužinoti Filimero žygio kryptį,
-    reikia prisiminti, kad pirmiausia spaliai atvyko į tas Va­
-    karų šalis nuo Azovo jūros, o vėliau visi ar galbūt veik­
-    lesnė jų dalis keliavo su gotais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbuto pasakojime kvadai, svebai, markomanai ir kitos gotų kartos daugelį metų traukė į Rytus paskui Filimerą per lietuvių tautų žemes ar jų pakraščiais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Gerai žinoma gotų ir jų kraštiečių iš Skandinavijos įtaka
-    minėtoms tautoms, — tai ne sykį įrodysime šiame vei­
-    kale; jie nutiesė kelią per Lietuvą iš Skandinavijos ir
-    Užvyslio Gotijos, o kartu davė progą patraukti žmones
-    paskui save. Kvadai, svebai, markomanai ir įvairios ki­
-    taip vadinamos gotų kartos traukė į Rytus paskui Fili-
-    merą, bet ne kartu, o vienos paskui kitas ir daugelį metų;
-    toks jų persikėlimas nuolat vyko arba lietuvių tautų gy­
-    venamų sričių pakraščiais, arba per jų žemes. Todėl ne­
-    mažai permainų turėjo įvykti ir šioje Europos dalyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-173032
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 227"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Galbūt neįsižeis slavų seno­
     vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
@@ -176,8 +103,7 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
 - id: c-173736
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 85"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Apie šią tautą senovės ty­
     rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
@@ -199,8 +125,7 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
 - id: c-173737
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 86"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 86."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Gerai žinoma gotų ir jų kraštiečių iš Skandinavijos įtaka
     minėtoms tautoms, — tai ne sykį įrodysime šiame vei­

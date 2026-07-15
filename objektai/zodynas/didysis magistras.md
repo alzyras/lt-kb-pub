@@ -8,6 +8,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1309 m.'
+  - '1324 m.'
   - '1382 m.'
   - '1391 m.'
   - '1392 m.'
@@ -16,14 +17,15 @@ datos:
   - '2026 m.'
 date_start: '1309'
 date_end: '2026'
-sukurta: ''
-atnaujinta: ''
-tags:
-  - sąvoka
-  - pareigybė
 amziai:
   - 'XIV'
   - 'XXI'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - ordinas
+  - sąvoka
+  - pareigybė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,9 +54,9 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   pagrindžia:
     - c-104813
 
-<a id="claim-t-113622"></a>
+<a id="claim-t-113613"></a>
 - t-002
-  global_id: t-113622
+  global_id: t-113613
   teiginys: "Žalgirio mūšyje didysis magistras metė rezervą į mūšį, kai pamatė, kad kova krypsta ne jo naudai."
   pagrindžia:
     - c-44160
@@ -94,19 +96,12 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   pagrindžia:
     - c-104813
 
-<a id="claim-t-113612"></a>
+<a id="claim-t-197034"></a>
 - t-008
-  global_id: t-113612
-  teiginys: "Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe ir apie 200 Ordino riterių."
+  global_id: t-197034
+  teiginys: "Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6 metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius)."
   pagrindžia:
-    - c-104813
-
-<a id="claim-t-113622"></a>
-- t-009
-  global_id: t-113622
-  teiginys: "Žalgirio mūšyje didysis magistras metė rezervą į mūšį, kai pamatė, kad kova krypsta ne jo naudai."
-  pagrindžia:
-    - c-44160
+    - c-179012
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-184046|Anonas (didysis magistras)]]: Anonas buvo septintasis Teutonų namų ordino didysis magistras ir mirė liepos 8 dieną.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60082|Anonas (didysis magistras)]]: Anonas buvo septintasis Teutonų namų ordino didysis magistras ir mirė liepos 8 dieną.
 - susijęs iš [[objektai/asmenys/Burchardas iš Švandeno.md#claim-t-184050|Burchardas iš Švandeno]]: Burchardas iš Švandeno buvo devintas Teutonų ordino didysis magistras ir vėliau perėjo į hospitaljerų ordiną.
@@ -118,10 +113,8 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89919|Konradas iš Tirbergo Vyresnysis]]: Po Konrado iš Tirbergo Vyresniojo mirties 1279 m. didysis magistras Konradą iš Foichtvangeno paskyrė Prūsijos ir Livonijos brolių magistru.
 - susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87381|Zigmantas (Romos imperatorius)]]: Imperatorius Zigmantas ir didysis magistras siekė nutraukti Lietuvos ir Lenkijos sąjungą, tačiau jų sumanymai žlugo.
 - susijęs iš [[objektai/autoriai/August von Kotzebue.md#claim-t-87945|August von Kotzebue]]: Kotzebue citavo Slaptajame archyve buvusį Švitrigailos laišką didžiajam magistrui, rašytą iš Trakų 1432 m. rugpjūčio 13 d.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178897|Kryžiuočių ordinas]]: Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti priešui kelią.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178898|Kryžiuočių ordinas]]: Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179001|Kryžiuočių ordinas]]: Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną ir Redigerį Elnerį užimti Vilniaus.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179083|Kryžiuočių ordinas]]: Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti jiems kelią.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179105|Kryžiuočių ordinas]]: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu, o didysis magistras ėmė ruoštis naujam žygiui į Lietuvą.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92735|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92739|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
@@ -134,9 +127,6 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - susijęs iš Maskva: 1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
 - susijęs iš Venecija: Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno.
 - susijęs iš Venecija: Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno.
-- susijęs iš Vilnius: Priešui nuniokojus Vilniaus apylinkes keturių mylių spinduliu, didysis magistras įsakė trauktis.
-- susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
-- susijęs iš Vilnius: Vilnius dėl stiprių tvirtovių įgulų išvengė puolimo, bet didysis magistras nuniokojo apylinkes iki Medininkų ir Ašmenos.
 - susijęs iš Vysla: Manydamas, kad Jogaila puls kairiajame Vyslos krante, didysis magistras pagrindines Ordino jėgas sutelkė prie Vyslos.
 - susijęs iš [[objektai/zodynas/Ordino maršalas didysis maršalas.md#claim-t-86490|Ordino maršalas didysis maršalas]]: Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga.
 - susijęs iš [[objektai/zodynas/suma.md#claim-t-58926|suma]]: Didysis magistras Verneris nutarė, kad kunigai po sumos kasdien turi skaityti evangeliją „Pradžioje buvo žodis“.
@@ -265,9 +255,6 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.
 - susijęs iš Tverė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.
 - susijęs iš Tverė: 1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.
-- susijęs iš Vilnius: Didysis magistras tris savaites ir dvi dienas apgulė Vilniaus pilis, bet jų neužėmė.
-- susijęs iš Vilnius: Didysis magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš kryžiuočių akiračio.
-- susijęs iš Vilnius: 1377 m. birželio pabaigoje Ordino pajėgos puolė Vilnių, o padegtas miestas neteko dviejų trečdalių namų.
 - susijęs iš Vingrių šaltiniai: Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš Vroclavas: Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą kelionę su prekėmis per Ordino žemes.
 - susijęs iš Vroclavas: Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą ir nevaržomą keliavimą su prekėmis per Ordino žemes.
@@ -280,51 +267,6 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - susijęs iš [[objektai/zodynas/prūsiškos grivenos.md#claim-t-86612|prūsiškos grivenos]]: 1392 m. Kauno iškilmių parengimas ir žygio išlaidos, pasak metraštininkų, siekė beveik 500 000 prūsiškų grivenų.
 - susijęs iš [[objektai/zodynas/rezervas.md#claim-t-42503|rezervas]]: Žalgirio mūšyje didysis magistras metė rezervą į kovą, kai mūšio sėkmė krypo ne jo naudai.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo tarpu len
-    ėmė spausti kryžiuočių dešinįjį flangą.
-    Matydamas, kad mūšio sėkmė krypsta ne
-    jo naudai, didysis magistras į mūšį metė
-    rezervą. Kryžiuočiai mėgino apeiti lenkų
-
-    64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m. liepos 15 d.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-009
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tačiau Vytautas ir Jogaila
-
-    pasiekė savo strateginį tikslą — vokie-
-
-    čių karinė mašina buvo sutriuškinta.
-    Žuvo pats didysis magistras Ulrichas fon
-    Jungingenas, beveik visa likusi Ordino va-
-    dovybė, apie 200 Ordino riterių (trečioji
-    dalis prūsiškųjų kryžiuočių) ir tūkstan-
-    čiai eilinių kryžeivių bei samdinių. Nors
-    Kryžiuočių ordinas nenustojo gyvuoti,
-    bet jam buvo suduotas stiprus smūgis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-007
-    - t-001
-
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -342,109 +284,6 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Prieš 1392 m. žygį didysis magistras ir jo svita dėl pasitikėjimo Ordino kariuomenės galybe Lietuvą jau laikė nukariauta.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    130
-
-    ## Puslapis 147
-
-    Il KNYGA
-    vanoriais daugelį vokiečių riterių būrių, kurie, susirinkę Ka­
-    raliaučiuje, prie riterių garbės puotos stalų40, valiodavo už­
-    miršti apie sunkumus ir nesėkmes, patirtas per praėjusių me­
-    tų žygį. Pasitikėjimas tokia didžiule Ordino kariuomenės
-    galybe buvo taip visus pakerėjęs, jog ir didysis magistras, ir
-    jo svita, dar žygiui neprasidėjus, Lietuvą jau manė esant
-    nukariautą. Tačiau netrukus Karaliaučiuje prasidėję anglų
-    vaidai su škotais, Vilhelmo Douglo, įžymaus škoto, žuvu­
-    sio dvikovoje, mirtis, vėlei škotų nesutarimai su prancū­
-    zais - tai vis bloga lemiantys ženklai, kurie net didįjį ma­
-    gistrą privertė baigti karo puotą, kariuomenei dar
-    nepasiekus pagonių šalies sienų. Toji armija kartu su į pa­
-    galbą atėjusiais Vytauto pulkais sudarė aniems laikams milži­
-    nišką ginkluotų žmonių minią - 46 00041. 1392 metų rugsėjo
-    pirmąją didysis magistras su visomis pajėgomis sustojo prie­
-    šais Kauną ir ten, kaip buvo žadėta, suruošė atidėtas iškilmes,
-    jau tokias prašmatnias ir prabangias, kokių prie jokio magist­
-    ro niekas nebuvo matęs. Tų anuomet garsių vaišių parengi­
-    mas ir žygio išlaidos, pasak kai kurių metraštininkų, siekė maž­
-    ne penkiskart po šimtą tūkstančių prūsiškų grive'nų42.
-    Skubinai persikėlus per Nemuną, kryžiuočių kariuomenė
-    prie Strėvos upės išsiskyrė į du didelius dalinius. Pirmasis,
-    kurį sudarė vien svetimšaliai riteriai, vadovaujami didžio­
-    jo magistro, nužygiavo Trakų link, bet tą miestą radę Skir­
-    gailos sudegintą, pasuko atgalios ir susijungė su kitu dali­
-    niu, kuris, vadovaujamas Vytauto ir Ordino maršalo,
-    40 kus darbus gaudavo vietą prie stalo
-    Viduramžiais Vokietijoje prieš kiek- ir būdavo pagerbiamas,
-    vieną karo žygį riteriai, susiruošę į 41
-    kovą, kariautojus, prisijungusius Schütz Chroń.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-005
-  santrauka: 'Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas Ordino didžiuoju magistru.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dabartinis
-    iš tiesų visiškai skiriasi nuo pirmes-
-    niojo, kurio klaidas stengėmės ištai­
-    syti, remdamiesi naujais, vėliau ap­
-    tiktais šaltiniais, būtent: F o i g t o
-    naujai išleistos Prūsijos istorijos T. V
-    ir pastabomis, kurias mums itin ge­
-    ranoriškai pareiškė mokslininkas
-    Lietuvos istorijos žinovas Ignacas
-    Onacevičius.
-    22
-    Miechovita, Strijkovskis
-    ir K o j e 1 a v i č i u s klysta sakyda­
-    mi, esą žygio vadovavimas buvo pa­
-    vestas Konradui Valenrodui, kurį
-    jau tuo metu vadina didžiuoju ma­
-    gistru, kai Konradas Valenrodas
-    1382 metais, sekmadienį prieš Šv.
-    Mykolą paskirtas Ordino didžiuoju
-    maršalu, 1387 metais per Apreiški­
-    mo Marijai šventę tapo didžiuoju
-    komtūru arba arkikomtūru, 1390
-    rugpjūčio 15 d., po didžiojo magistro
-    Konrado Ciolnerio fon Rotenšteino
-    mirties, - ir didžiojo magistro vieti­
-    ninku, iki pat kapitulos suvažiavi­
-    mo, ir tik 1391 m. kovo 12 d. išrink­
-    tas didž. magistru; mirė 1393 m.
-    liepos 25 d.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-006
-  santrauka: 'Ordino priešakyje stovėjo didysis magistras (Hochmeister) su taryba.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Ordino valstybės santvarka.** Savo organizaciją ordinas at-
-    sinešė jau gatavą, susidariusią dar Palestinoje. Jo priešaky sto-
-    vėjo didysis magistras _(Hochmeister)_ su taryba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
 
 ## Citatos
 
@@ -467,7 +306,6 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113613
-    - t-113622
 
 - id: c-104813
   sudarytojas: "Karolis Zikaras"
@@ -491,23 +329,25 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113621
-    - t-113620
     - t-113612
+    - t-113620
 
 - id: c-104814
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
-    didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
-    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
-    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
-    prieš Lietuvą.
-      Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
-    feodalinių riterių žygių prieš musulmoniškąjį pasaulį.
+    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
+    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai
+    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
+    suartėti su totoriais — mongolais ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip ir atitinkami
+    popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
+    ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
+    vienodos, kad šios tautos turėjusios bendrą priešą71.
+  citata_rodoma: "Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,\ndidžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne\ntik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,\nKryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą\nprieš Lietuvą.\n  Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų\nfeodalinių riterių žygių prieš musulmoniškąjį pasaulį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -618,3 +458,24 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113616
+
+- id: c-179012
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Vernerio prierašuose pabrėžiama, jog jie
+    skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
+    Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6
+    metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius).
+    Norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą,
+    didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
+    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
+    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
+    prieš Lietuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197034

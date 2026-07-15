@@ -25,110 +25,39 @@ media_all_json: |-
 
 ## Santrauka
 
-Čeliadninas atitraukė visas jėgas už upės ir apsistojo Kropivnos upės pakrantėse tarp Oršos ir Dubrovnos. Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.
+Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.
 
 ## Teiginiai
 
-<a id="claim-t-185266"></a>
-- t-001
-  global_id: t-185266
-  teiginys: "Čeliadninas atitraukė visas jėgas už upės ir apsistojo Kropivnos upės pakrantėse tarp Oršos ir Dubrovnos."
-  pagrindžia:
-    - c-168627
-
 <a id="claim-t-185267"></a>
-- t-002
+- t-001
   global_id: t-185267
   teiginys: "Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje."
   pagrindžia:
     - c-168628
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Čeliadninas atitraukė visas jėgas už upės ir apsistojo Kropivnos upės pakrantėse tarp Oršos ir Dubrovnos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo
-    pat metu netikėtai susidūrė prie Bobro abiejų kariuo­
-    menių sargybiniai būriai; lietuviai mūšyje maskvėnus
-    atstūmė ir daugybę jų paėmė į nelaisvę. Po šių įvykių
-    Čeliadninas, praradęs pirmykštį užmojį, pamanė, kad,
-    turėdamas Dneprą už nugaros, gali būti priverstas kau­
-    tis nepatogiomis sąlygomis, todėl, atitraukęs visas jė­
-    gas už upės, apsistojo Kropivnos upės pakrantėse, tarp
-    Oršos ir Dubrovnos. Ostrogiškis, ryžtingai jį persekio­
-    damas, pirmiausia patraukė į Oršą, ketindamas ten
-    persikelti per Dneprą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Konstantinas, pasukęs su savo kariais į
-    kairę, užvedė priešo raitelius, lipte lipančius jiems ant
-    kulnų, tiesiai ant karo pabūklų ir pėstininkų, įsakyda­
-    mas savo raitelių vėliavoms sugrįžti ir užpulti priešą.
-    Maskvėnai, nelaukę šitokio manevro, dėl kurio žuvo
-    daugybė jų karių, šaukdami ir rėkdami pasileido išsi­
-    gandę bėgti. Kova pavirto tikromis skerdynėmis, ne­
-    maža maskvėnų prigėrė Kropivnos pelkėse ir pačioje
-    upėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
-
-- id: c-168627
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 629"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 629."
-  citata_originali: |
-    Tuo
-    pat metu netikėtai susidūrė prie Bobro abiejų kariuo­
-    menių sargybiniai būriai; lietuviai mūšyje maskvėnus
-    atstūmė ir daugybę jų paėmė į nelaisvę. Po šių įvykių
-    Čeliadninas, praradęs pirmykštį užmojį, pamanė, kad,
-    turėdamas Dneprą už nugaros, gali būti priverstas kau­
-    tis nepatogiomis sąlygomis, todėl, atitraukęs visas jė­
-    gas už upės, apsistojo Kropivnos upės pakrantėse, tarp
-    Oršos ir Dubrovnos. Ostrogiškis, ryžtingai jį persekio­
-    damas, pirmiausia patraukė į Oršą, ketindamas ten
-    persikelti per Dneprą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185266
 
 - id: c-168628
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 631"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 631."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Konstantinas, pasukęs su savo kariais į
-    kairę, užvedė priešo raitelius, lipte lipančius jiems ant
-    kulnų, tiesiai ant karo pabūklų ir pėstininkų, įsakyda­
-    mas savo raitelių vėliavoms sugrįžti ir užpulti priešą.
-    Maskvėnai, nelaukę šitokio manevro, dėl kurio žuvo
-    daugybė jų karių, šaukdami ir rėkdami pasileido išsi­
-    gandę bėgti. Kova pavirto tikromis skerdynėmis, ne­
-    maža maskvėnų prigėrė Kropivnos pelkėse ir pačioje
-    upėje.
+    Taip smarkiai
+    jis buvo apakęs nuo pasipūtėliškų ir išdidžių vilčių,
+    kad nebeįstengė nė sugalvoti protingesnio kovos plano.
+    Rugsėjo 8 d. (kai švenčiamas Mergelės dievo Motinos
+    gimimas) Ostrogiškis, perkėlęs visas jėgas, trečią va­
+    landą po saulėtekio patraukė su savo kariais į mūšį.
+    Čeliadninas, kovos tvarka surikiavęs aštuoniasdešimt
+    tūkstančių karių, laukė jo priartėjant, ketindamas kuo
+    plačiausiai išskleisti sparnus ir priversti Konstantiną,
+    iš visų pusių apsuptą, stoti į žūtbūtines kautynes. Mas-
+    kvėnams davus ženklą mūšiui, keletas jų pulkų stip­
+    riai smogė į Konstantino kariuomenės sparną: narsiai
+    gindamiesi, lietuviai atlaikė pirmąjį smūgį ir, sutelkę
+    jėgas, atstūmė priešą.
+  citata_rodoma: "Konstantinas, pasukęs su savo kariais į\nkairę, užvedė priešo raitelius, lipte lipančius jiems ant\nkulnų, tiesiai ant karo pabūklų ir pėstininkų, įsakyda­\nmas savo raitelių vėliavoms sugrįžti ir užpulti priešą.\nMaskvėnai, nelaukę šitokio manevro, dėl kurio žuvo\ndaugybė jų karių, šaukdami ir rėkdami pasileido išsi­\ngandę bėgti. Kova pavirto tikromis skerdynėmis, ne­\nmaža maskvėnų prigėrė Kropivnos pelkėse ir pačioje\nupėje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -42,20 +42,7 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   teiginys: "Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais."
   pagrindžia:
     - c-22518
-
-<a id="claim-t-183149"></a>
-- t-003
-  global_id: t-183149
-  teiginys: "Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais."
-  pagrindžia:
     - c-166534
-
-<a id="claim-t-19795"></a>
-- t-004
-  global_id: t-19795
-  teiginys: "Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti."
-  pagrindžia:
-    - c-166535
 - susijęs iš [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba.md#claim-t-45085|Lietuvos SSR liaudies komisarų taryba (institucija)]]: Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia ir pakeitė Liaudies vyriausybę.
 - susijęs iš [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba.md#claim-t-45086|Lietuvos SSR liaudies komisarų taryba (institucija)]]: Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia.
 - susijęs iš [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba.md#claim-t-45087|Lietuvos SSR liaudies komisarų taryba (institucija)]]: Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia ir pakeitė Liaudies vyriausybę.
@@ -77,64 +64,6 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
 - susijęs iš [[objektai/zodynas/aneksija.md#claim-t-183395|aneksija]]: Lietuvos pasiuntiniams užsienyje pareiškus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas.
 - susijęs iš [[objektai/zodynas/aneksija.md#claim-t-70087|aneksija]]: Lietuvos pasiuntiniams užsienyje pareiškus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas.
 - susijęs iš [[objektai/zodynas/savanoriškumo kamufliažas.md#claim-t-22296|savanoriškumo kamufliažas]]: Pavertus Lietuvą SSRS dalimi, savanoriškumo kamufliažo atsisakyta, o valdymo sistema pertvarkyta pagal Sovietų Sąjungos modelį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Analogiškas farsas vyko ir Latvijoje bei Estijoje.
-    Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamen-
-    tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis
-    respublikomis. Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
-    mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
-    valstybės nuosavybe, o ūkininkai – žemės naudotojais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
-    mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
-    valstybės nuosavybe, o ūkininkai – žemės naudotojais. Buvo nacionalizuoti
-    bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
-    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
-    prašė neva savanoriškai įeiti į SSRS sudėtį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
-    193
-    patenkinti ir imperialistiniai sovietų siekiai. Kadangi okupantų paskirtas
-    Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų
-    panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo ne-
-    teisėti. Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
-    prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
-    jų turtas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
-
 ## Citatos
 
 - id: c-22518
@@ -168,12 +97,10 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
     ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
     prašė neva savanoriškai įeiti į SSRS sudėtį.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183149
-
 - id: c-166535
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -192,5 +119,4 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183150
     - t-19795

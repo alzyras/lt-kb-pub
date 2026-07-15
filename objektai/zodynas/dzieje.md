@@ -8,13 +8,13 @@ datos:
   - '1837 m.'
 date_start: '1836'
 date_end: '1837'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - sąvoka
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -67,8 +67,8 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
   teiginys: "Narbutas nurodė: Simonas Daukantas „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“ aiškino kaip „wejkalaj“."
   pagrindžia:
     - c-175113
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas „dzieje“ pateikia kaip kuklesnį savo veikalo pavadinimą negu „historia“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -91,51 +91,24 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    si, iš cituoto teksto galima spręsti, jog T. Narbutas la­
-    bai aišikiai atribojo tai, kas šiandien mūsų ausiai skamba
-    visiškai identiškai. Simonas Daukantas vadinamajame
-    „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“
-    aiškino kaip „wejkalaj“, „księga dziejow“ — „kniga wej-
-    kalu“, „dziejopis“ — „wejkaluraszytojas“ ir t. t. Beje,
-    žodį „dziejopis“ („dziejopisarz“) prilygino žodžiui „lato-
-    pisiec“, t. y. „meturaszitojas“1. Taigi, laikantis anuome­
-    tinės terminijos, T. Narbuto LTI turėtų būti vadinama
-    „Lietuvių tautos veikalais“, o pirmieji trys tomai — „Lie­
-    tuvių
-    tautos
-    veikalais
-    senovėje“ — beveik identiškai
-    S. Daukanto tekstui „Pasakojimas apie veikalus lietuvių
-    tautos senovėje“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-175112
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 439"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 439."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ma­
+    Tai turėtų būti metai po „Lietuvių mito­
+    logijos“ pasirodymo, t. y. laukiant LTI antro tomo —
+    1836 metai arba 1837 metų pradžia. Taigi skaitome: „Aš
+    nerašau lietuvių tautos istorijos, nes neįstengčiau susi­
+    doroti su tokiu darbu; be kita ko, ir pats Livijus nesuge­
+    bėtų jos parašyti — tokia ji šiandien, kai nuosmukį pa­
+    tyrė dalykai, galėję palaikyti jos šaunumą, yra neapdo­
+    rota, tokius išbarstytus ir išblaškytus turi šaltinius. Ma­
     no uždavinys, kaip galima spręsti iš „Mitologijos“, yra
     atskleisti praeities įvykių esmę, pradedant tautos kilmės
-    ab ovo (pabr. T. N. — R. G.), iki pat tų laikų, kai ji 1569
-    metais, valdant Zygimįantui] Aug[ustui], susijungė su
-    Lenkija. Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pa­
-    grindimo, sumanymų, pastabų ir šaltiniuose išskaitytų
-    faktų rinkinys, kuris sudarys penkis arba šešis tomus,
-    negali būti vadinamas istorija (historia), o tik veikalais
-    (dzieje), t. y. turi turėti kuklesnį pavadinimą2.
+    ab ovo (pabr.
   citata_rodoma: "Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pagrindimo, sumanymų,\npastabų ir šaltiniuose išskaitytų faktų rinkinys, kuris sudarys penkis\narba šešis tomus, negali būti vadinamas istorija (historia), o tik\nveikalais (dzieje), t. y. turi turėti kuklesnį pavadinimą2."
   statusas: verified
   teiginio_tipas: faktas
@@ -147,8 +120,7 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
 - id: c-175113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 440"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 440."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     si, iš cituoto teksto galima spręsti, jog T. Narbutas la­
     bai aišikiai atribojo tai, kas šiandien mūsų ausiai skamba

@@ -45,35 +45,13 @@ Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių apraš
   teiginys: "Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių aprašymu apie 1799–1804 m. keliones į Naujojo žemyno lygiadienio sritis."
   pagrindžia:
     - c-173273
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių aprašymu apie 1799–1804 m. keliones į Naujojo žemyno lygiadienio sritis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tik­
-    riausiai T. Narbutas šią informaeiją paėmė iš ke­
-    liautojo ir mokslininko barono Frideriko Aleksan­
-    dro fon Humbolto (1769-1859) kelionių aprašymo
-    (HumboldtA. von und Bonplandt A. Reise in die
-    Aeąuinoctiol-Gegenden dės neuen Continents in
-    den Jahren 1799,1800,1801,1802,1803 und 1804. -
-    T. I-VI. -  Stuttgart-Tuubingen, 1815-1832).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 489"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 489."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tik­
     riausiai T. Narbutas šią informaeiją paėmė iš ke­
@@ -82,7 +60,7 @@ Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių apraš
     (HumboldtA. von und Bonplandt A. Reise in die
     Aeąuinoctiol-Gegenden dės neuen Continents in
     den Jahren 1799,1800,1801,1802,1803 und 1804. -
-    T. I-VI. -  Stuttgart-Tuubingen, 1815-1832).
+    T. I-VI. - Stuttgart-Tuubingen, 1815-1832).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -35,37 +35,15 @@ Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirt
   teiginys: "Petras Dusburgietis Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą „iš dievo malonės“ ir „viešpaties darbą“."
   pagrindžia:
     - c-59571
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Petras Dusburgietis Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą „iš dievo malonės“ ir „viešpaties darbą“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kronikininkas parodo, kad užkariavimus Ordinas  įtvirtina savo  pilių statyba,  tai
-    darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).
-    Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
-    315). Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino
-    siekimas — grobti naujas žemes. Jo nuomone, Marienverderio pilis pavyslyje pastatyta,
-    „kad dievas palaimintų mums kelią į kaimynines netikėlių žemes“ (III, 9), t. y. į vakarines
-    prūsų žemes, o Kristmemelis panemunyje — norint „praplėsti krikščionių žemes“ (III,
-    315), t. y. užgrobti lietuvių žemes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-59571
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 30"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 30."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kronikininkas parodo, kad užkariavimus Ordinas  įtvirtina savo  pilių statyba,  tai
+    Kronikininkas parodo, kad užkariavimus Ordinas įtvirtina savo pilių statyba, tai
     darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).
     Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
     315). Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino

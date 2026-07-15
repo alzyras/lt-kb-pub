@@ -77,26 +77,6 @@ media_all_json: |-
 - susijęs iš Žuvinto ežeras: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
 - susijęs iš Žuvinto ežeras: Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.
 - susijęs iš Žuvinto palios: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    dėjo pavėluotas pasipriešinimas - sukilimai (1794, 1831, 1863 m.)
-    ir ginkluota rezistencija, šiandien vadinama „karu po karo“ arba
-    Lietuvos-ssRS karu (1945-1953). Pastarajame galima surasti ne
-    vieną heroizmo pavyzdį, o gal net visą karą galima pavadinti he-
-    roizmu. Tiesa, kartais mūsų priešai jį bando vadinti „pilietiniu
-    karu“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-12495
@@ -116,5 +96,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09686
     - t-09685
+    - t-09686

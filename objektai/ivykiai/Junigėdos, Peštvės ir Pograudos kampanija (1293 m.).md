@@ -10,14 +10,14 @@ datos:
   - '1294 m.'
 date_start: '1292'
 date_end: '1294'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - žygis
   - mūšis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -68,8 +68,8 @@ Sudegė abiejų pilių papiliai.
   teiginys: "Magistras Meinhardas liepos 25 d. užpuolė Junigėdą ir Pieštvę, o nepajėgęs daugiau padaryti sudegino abiejų pilių papilius."
   pagrindžia:
     - c-69725
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -87,54 +87,22 @@ Sudegė abiejų pilių papiliai.
     - t-001
     - t-002
 
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Grįždami nuo Junigėdos 1292, kryžiuočiai
-    teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
-    1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
-    gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies
-    kalne^25. Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės
-    (Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo
-    apgulta, tuo pat metu Žemaičių pietvakariuose nuteriojant « Po­
-    graudą»^26.
-  citata_rodoma: ''
-  statusas: verified
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
-    gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies
-    kalne^25. Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės
-    (Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo
-    apgulta, tuo pat metu Žemaičių pietvakariuose nuteriojant « Po­
-    graudą»^26. Taip pat du kartu (1292, 1294) ordino kariuomenė
-    pasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,
-    nusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­
-    stovie ») sritis^27.
-  citata_rodoma: ''
-  statusas: verified
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 ## Citatos
 
 - id: c-69725
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 185"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
     magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
     gyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:
     Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
     pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
+    255 (248). Apie Paštuvos ir Gaižuvos valsčių nuniokojimą
+    1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
+    savo kariuomene įsiveržti į Ariogalos valsčių, bet leidosi atkalbamas.
+  citata_rodoma: "Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,\nmagistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei\ngyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:\nJunigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki\npamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

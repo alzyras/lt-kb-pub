@@ -49,8 +49,8 @@ Nenurodyta
   teiginys: "Vasilijus įsakė budriau saugoti visus pasienio kelius ir rūpestingai kratyti visų keleivių drabužius bei nešulius."
   pagrindžia:
     - c-169282
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vasilijus įsakė budriau saugoti visus pasienio kelius ir rūpestingai kratyti visų keleivių drabužius bei nešulius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -89,8 +89,6 @@ Nenurodyta
     kad Glinskis, sugrįžęs į tėvynę ir atgavęs karaliaus
     6 2 8
 
-    ## Puslapis 627
-
     malonę, po senovei rengsiąs klastingas ir žalingas pink­
     les, slaptai išsiuntė žygūną, pranešdami Maskvos ku­
     nigaikščiui, ką galvoja daryti Glinskis. Vasilijus, nie­
@@ -100,6 +98,7 @@ Nenurodyta
     legatas Pisonas, pasiųstas iš Romos sutaikyti Žygiman­
     tą su Vasilijumi, sustojo Vilniuje, ketindamas netrukus
     leistis į Maskvą, kur jo diena iš dienos laukė.
+  citata_rodoma: "Didikai, būgštaudami,\nkad Glinskis, sugrįžęs į tėvynę ir atgavęs karaliaus\n6 2 8\n\n## Puslapis 627\n\nmalonę, po senovei rengsiąs klastingas ir žalingas pink­\nles, slaptai išsiuntė žygūną, pranešdami Maskvos ku­\nnigaikščiui, ką galvoja daryti Glinskis. Vasilijus, nie­\nkam nieko aiškiai nesakydamas, paliepė budriau sau­\ngoti visus pasienio kelius ir rūpestingai kratyti visų\nkeleivių drabužius bei nešulius. Tuo metu popiežiaus\nlegatas Pisonas, pasiųstas iš Romos sutaikyti Žygiman­\ntą su Vasilijumi, sustojo Vilniuje, ketindamas netrukus\nleistis į Maskvą, kur jo diena iš dienos laukė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

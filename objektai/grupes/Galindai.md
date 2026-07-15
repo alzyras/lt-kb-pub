@@ -10,14 +10,14 @@ datos:
   - '1147 m.'
 date_start: '1058'
 date_end: '1147'
+amziai:
+  - 'XI'
+  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
-amziai:
-  - 'XI'
-  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -101,6 +101,13 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   teiginys: "Apie Galindos žemės nuniokojimą Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti."
   pagrindžia:
     - c-65625
+
+<a id="claim-t-197496"></a>
+- t-010
+  global_id: t-197496
+  teiginys: "Būtina atsižvelgti į tai, jog galindai prūsų karuose su kryžiuočiais iš pradžių nedalyvavo."
+  pagrindžia:
+    - c-175177
 - susijęs iš [[objektai/asmenys/Ptolemajas.md#claim-t-17607|Ptolemajas]]: Ptolemajas II a. žinojo galindus ir jotvingius, arba sūduvius.
 - susijęs iš [[objektai/autoriai/Gelonas.md#claim-t-191607|Gelonas]]: Teodoras Narbutas Geloną minėjo tarp pavardžių, kuriomis grindė prielaidas apie Galindos kilmę.
 - susijęs iš [[objektai/autoriai/Jaskanis J.md#claim-t-60720|Jaskanis J]]: J. Jaskanio recenzija cituojama prie nuomonės, kad prūsiškuosius ir rytinius galindus siejo tik vardų panašumas.
@@ -141,108 +148,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-192411|Jotvingiai]]: Narbutas rašo, kad galindai ir jotvingiai perėjo Krokuvos Boleslovo ir Kujavijos Kazimiero globon, o kunigaikščiai apie tai pranešė popiežiui.
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-192482|Venedai]]: Narbutas nurodo, kad apie 253 m. jungtiniai finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Galindos žemės nuniokojimą
-
-      Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai
-    sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti. Kaip tas faraonas,
-    kuris, norėdamas sunaikinti Izraelio tautą, tarė priėmėjoms:  „Jei gims berniukas,
-    nužudykite jį, jeigu mergaitė — palikite gyvą“, taip ir jie nutarė, kad gimusios mergaitės
-    būtų nužudomos, o berniukai paliekami karui. Susivokę šia nutartimi vargu ką laimėsią,
-    nes motinos, išvydusios gimusių mergaičių grožį, slapčiomis jas augino, vieningai
-    nutarė nupjaustyti visoms savo žmonoms krūtis, kad neturėtų kuo maitinti kūdikių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-    - t-009
-
-- c-002
-  santrauka: 'Galindų žemė driekėsi į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    200 D.— Galindia, in qua Galindite, Jer.— Galindin. T.,   ja  į pietus nuo Bartos, nuo
-    Alnos (dab. Lynos) aukštumos (apie dab. Olštiną) vakaruose iki Nagutino (Negocino)
-    ir Snervų ežerų rytuose (rytinė siena su jotvingiais nėra aiški; galindų žemės galėjo
-    būti ir už šių ežerų, iki Lego upės); siena su Barta ėjo kiek į šiaurę nuo dab. Biskupeco,
-    pietuose žemė siekė dab. Omulevo, Rozogos ir kt. Narevo intakų aukštiupius; praeityje
-
-    [gyveno] galindai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas Galindams priskyrė Rosės vardu vadintas šventas upes ir siejo jas su lietuvių genčių papročiu šventinti upes.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietu­
-    vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
-    arba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­
-    ja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno
-    atšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė). Pa­
-    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
-    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
-    pačiu šventu vardu Ross. Šitaip galindų tauta turėjo Rosės * 5
-    šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
-    likti tokį garbinimą (Hiegels.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Narbutas pasakojo, kad ilgai taikiai gyvenusiame Galindų krašte žmonių padaugėjo tiek, jog seniūnai nutarė žudyti moteriškos lyties kūdikius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Galindų krašte, klestinčiame dėl ilgos taikos, taip padau­
-    gėjo žmonių, kad jie vos galėjo sutilpti. Tuomet krašto seniū­
-    nai nutarė, kad moteriškos lyties kūdikiai kurį laiką privalą
-    būti žudomi paliekant vien berniukus karo reikalui. Tačiau mo­
-    tinų meilė dažnai sugebėdavo nuslėpti ką tik gimusias dukte­
-    ris, ir jos su moterišku išradingumu rasdavo būdų, kaip jas
-    išsaugoti gyvas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-005
-  santrauka: 'Narbutas pasakojo, kad po galindų žygio krikščionys juos išmušė, o supykdyti kaimynai nuniokojo Galindą beveik iki negyvenamos šalies.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šie, patikėję žynės žodžiu, tuojau sutelkė
-    vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
-    baisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.
-    Tačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­
-    sus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­
-    niokojo, kad Galinda daugeliui metų paliko beveik negyve­
-    nama.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 - c-006
   santrauka: 'Narbutas Galindą vadina viena seniausių provincijų ir rašo, kad ji kadaise driekėsi plačiau Mazovijos bei Polesės link.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -269,33 +174,12 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   pagrindžia:
     - t-007
 
-- c-007
-  santrauka: 'Narbutas rašo, kad galindai iš pradžių nedalyvavo prūsų karuose su kryžiuočiais, o vėliau kryžiuočiai užpuolė Galindą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Būtina atsižvelgti į tai, jog galindai prūsų karuose
-    su kryžiuočiais iš pradžių nedalyvavo. Tik žlugus vidi­
-    nėms provincijoms, kai bejėgiai politikai Mazovijos ku­
-    nigaikščiai ketino užvaldyti Galindą, o jos gyventojai
-    buvo linkę jiems pasiduoti, kryžiuočiai puolė galindus ir,
-    atvedę žiaurių savo karių, sukurstė juos iškapoti beveik
-    jau visiškai nesipriešinančius žmones. Taip Galindos pa­
-    minklai buvo palaidoti šios nelaimingos genties kapuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
 ## Citatos
 
 - id: c-65625
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 63"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Galindos žemės nuniokojimą
 
@@ -318,8 +202,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-65626
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 61-62"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61-62."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     200 D.— Galindia, in qua Galindite, Jer.— Galindin. T.,   ja  į pietus nuo Bartos, nuo
     Alnos (dab. Lynos) aukštumos (apie dab. Olštiną) vakaruose iki Nagutino (Negocino)
@@ -338,8 +221,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-171078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietu­
     vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
@@ -361,8 +243,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-171079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 304"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 304."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Galindų krašte, klestinčiame dėl ilgos taikos, taip padau­
     gėjo žmonių, kad jie vos galėjo sutilpti. Tuomet krašto seniū­
@@ -381,16 +262,18 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-171080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 305"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 305."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šie, patikėję žynės žodžiu, tuojau sutelkė
-    vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
-    baisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.
-    Tačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­
-    sus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­
-    niokojo, kad Galinda daugeliui metų paliko beveik negyve­
-    nama.
+    javus ir juos gausinti, be kitokio jų panaudojimo, išmokė da­
+    ryti alų. Iš šio seno egiptiečių prasimanymo kyla išvada, kad
+    jie pirmieji ėmė daryti alų. Kad ir kaip ten būtų buvę, palikę
+    ramybėje mokslines išvadas, drįstame kurti savo hipotezę, jog
+    tiek ir lietuviams, tiek ir kitoms žemdirbių tautoms aludarystė
+    galėjo būti namų išradimas. Įvairiai ruošiant javus, lengva ap­
+    tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
+    ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per­
+    ėjus fermentaciją, alus jau ir gatavas.
+  citata_rodoma: "Šie, patikėję žynės žodžiu, tuojau sutelkė\nvyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,\nbaisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.\nTačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­\nsus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­\nniokojo, kad Galinda daugeliui metų paliko beveik negyve­\nnama."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -403,20 +286,22 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Rytuose ji
-    ribojosi su Sūduva, pietuose — su Mazovija, vakaruo­
-    se — su Hokerlandija ir Varmija, o šiaurėje — su Barta.
-    Galinda buvo viena seniausių provincijų, kitados nepa­
-    254
-
-    ## Puslapis 265
-
     lyginti plačiau driekėsi į Mazovijos ir Polesės pusę; ji
     nusipelnė detalių senovės geografų tyrinėjimų. Galindų
     gentys nuo seno buvo gausios ir karingos, plačiai žino­
     mos, kai kurių žinių apie jas pateikėme šio veikalo pir­
     mame tome, skyriuje „Pranašystės“; čia ¡papasakosime
-    apie kitus žinomus dalykus.
+    apie kitus žinomus dalykus. Esama įvairių nuomonių apie
+    pavadinimo kilmę; vieni teigia, jog jis atsirado iš žodžio
+    Galas* 1 neva todėl, kad žmonės gyvenę pabaigoje. Tačiau
+    lai neatitinka lietuvių pavadinimų suteikimo tradicijų;
+    gyventojų taip nevadindavo, o tik žemes arba miestus,
+    pavyzdžiui, Latgala, Žiemgala, Ariogala, Betygala ir kt.
+    Kiti autoriai, gal kiek arčiau tiesos, mėgina pavadinimų
+    kildinti iš senovės prūsų žodžio Galintuvojt, tai reiškė
+    triukšmauti, niekšeli, nes šios gentys buvusios plėšikiškos
+    ir agresyvios.
+  citata_rodoma: "Rytuose ji\nribojosi su Sūduva, pietuose — su Mazovija, vakaruo­\nse — su Hokerlandija ir Varmija, o šiaurėje — su Barta.\nGalinda buvo viena seniausių provincijų, kitados nepa­\n254\n\n## Puslapis 265\n\nlyginti plačiau driekėsi į Mazovijos ir Polesės pusę; ji\nnusipelnė detalių senovės geografų tyrinėjimų. Galindų\ngentys nuo seno buvo gausios ir karingos, plačiai žino­\nmos, kai kurių žinių apie jas pateikėme šio veikalo pir­\nmame tome, skyriuje „Pranašystės“; čia ¡papasakosime\napie kitus žinomus dalykus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -427,10 +312,11 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-175177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 363"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 363."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Būtina atsižvelgti į tai, jog galindai prūsų karuose
+    Apie kitus valdovus
+    nežinome nieko aiškaus, bet jų buvimas nekelia abejo­
+    nių. Būtina atsižvelgti į tai, jog galindai prūsų karuose
     su kryžiuočiais iš pradžių nedalyvavo. Tik žlugus vidi­
     nėms provincijoms, kai bejėgiai politikai Mazovijos ku­
     nigaikščiai ketino užvaldyti Galindą, o jos gyventojai
@@ -444,6 +330,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192383
+    - t-197496
 
 ## Ryšiai
 - Puolė Galindai: [[objektai/grupes/Krikščionys]], [[objektai/grupes/Kryžiuočių ordinas]]

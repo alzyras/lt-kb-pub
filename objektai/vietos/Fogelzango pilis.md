@@ -42,43 +42,12 @@ media_all_json: |-
   pagrindžia:
     - c-71239
 
-<a id="claim-t-72890"></a>
-- t-002
-  global_id: t-72890
-  teiginys: "1230 m. pirmieji ordino atstovai Prūsų pasienyje pasistatė Fogelzango pilį."
-  pagrindžia:
-    - c-71239
-
 <a id="claim-t-72892"></a>
-- t-003
+- t-002
   global_id: t-72892
   teiginys: "Pirmieji ordino atstovai Prūsų pasienyje gavo Konrado žemių su Niešavos pilaite ir pasistatė Fogelzango pilį."
   pagrindžia:
     - c-71239
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1230 m. pirmieji ordino atstovai Prūsų pasienyje pasistatė Fogelzango pilį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
-    Čia jie gavo iš Konrado
-    žemių su Niešavos pi-
-    laite, o patys pasista-
-    tė Fogelzango pilį. Ne-
-    trukus iš tų pirmųjų
-    savo sodybų jie pradėjo
-    nuolatinį karą su aisčių
-    kiltimis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-    - t-002
 
 ## Citatos
 
@@ -104,4 +73,3 @@ media_all_json: |-
   pagrindzia:
     - t-72890
     - t-72892
-    - t-72891

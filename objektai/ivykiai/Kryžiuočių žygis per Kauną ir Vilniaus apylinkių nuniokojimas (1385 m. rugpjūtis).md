@@ -64,55 +64,6 @@ Nenurodyta
   teiginys: "1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą."
   pagrindžia:
     - c-82893
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vilnius, tiesa, turėdamas tvirtovėse labai stip­
-    rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
-    ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
-    kotos. Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
-    Ordino riterių kirstas pagoniškai Lietuvai. Juk kai per Jogai­
-    los apsukrų laviravimą žlugo visos kryžiuočių jam daromos
-    kliūtys siekti Lenkijos sosto, 1385 metų pabaigoje Lietuvos
-    valdovas paliko savo senąją sostinę ir gausios lietuvių kuni­
-    gaikščių ir didikų svitos lydimas išvyko į Krokuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir nuniokojo žemes iki Medininkų bei Ašmenos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    40
-
-    ## Puslapis 57
-
-    I  KNYGA
-    vokiečių nagų į Lietuvą, suduodamas jiems didelį smūgį41.
-    Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­
-    jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­
-    kos sėkmingos, didysis magistras Konradas Ciolneris Ro-
-    tenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų
-    rugpjūtį ties Kaunu persikėlė per Nemuną ir ėmė siautėti
-    visame krašte. Vilnius, tiesa, turėdamas tvirtovėse labai stip­
-    rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
-    ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
-    kotos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

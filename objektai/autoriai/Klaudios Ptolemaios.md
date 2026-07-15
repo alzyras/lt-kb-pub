@@ -37,22 +37,6 @@ Tik graikų matematikas-geografas Klaudios Ptolemaios (a.
     - c-33005
 - susijęs iš Geografija: Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.
 - susijęs iš Geografija: Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Čia Tacitas galėjęs minėti prūsus. Tik graikų
-    matematikas-geografas Klaudios Ptolemaios (a. 100 - a. 178 po Kr.)
-    buvo pirmasis, kuris patiekė du neabejotinus baltų kilčių vardus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33005

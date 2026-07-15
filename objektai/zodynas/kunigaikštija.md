@@ -49,17 +49,11 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
   teiginys: "Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savarankiškumą viduje."
   pagrindžia:
     - c-38747
-
-<a id="claim-t-36802"></a>
-- t-002
-  global_id: t-36802
-  teiginys: "Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savarankiškumą viduje."
-  pagrindžia:
     - c-38744
     - c-38745
 
 <a id="claim-t-36803"></a>
-- t-003
+- t-002
   global_id: t-36803
   teiginys: "Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža."
   pagrindžia:
@@ -106,80 +100,9 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
 - susijęs iš Smolenskas: Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską.
 - susijęs iš Vilnius: 1391 m. liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus ir kitų miestų be jo žinios niekam neatiduos.
 - susijęs iš Vitebskas: XII a. iš Polocko kunigaikštijos miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos.
+- susijęs iš Vitebskas: Vytautas su Skirgaila ir didele kariuomene žygiavo į Vitebską prieš kunigaikštį Švitrigailą.
 - susijęs iš Žemaitija: 1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.
 - susijęs iš [[objektai/zodynas/perdėtinis.md#claim-t-36823|perdėtinis]]: Vytauto santykiai su Lenkija buvo apibrėžti kaip valdomojo su aukštesniu perdėtiniu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Priežastis — nereikia manyt, ją buvus svarbiausią —
-    atgavimas Skirgailai Kijevo, kuris jam pagal sutartį buvo paža­
-    dėtas atiduoti. Kad išpildytų tą sutartį, Vytautui reikėjo iš Ki­
-    jevo pašalinti Algirdo sūnų Vladimirą. Tuo pat metu, kaip ži­
-    nom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų
-    krašto viduje savarankiškumą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    vietininko, Lenkijos duoto, atskiru monarchu^1 ). Tai būtų buvusi
-    didelė pažanga padaryta atsipalaiduojant nuo Lenkijos, ko taip
-    Vytautas troško. Todėl ir nenuostabu, kad po Ostrovos sutarties,
-    t. y. d. Lietuvos kunigaikštijos žemių rekonstrukcijos, logiškai is­
-    torijos faktams besivystant, turėjo iškilti ir jos valstybiškumo at­
-    naujinimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vyguntas, būdamas
-    Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos
-    galvos, nes pati Kernavės kunigaikštija buvo maža. Kad šito­
-    kia reforma buvo manoma padaryti, rodo ir šis faktas. 1391 m.
-    liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus
-    ir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo
-    broliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila
-    ir jo palikuonys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kad išpildytų tą sutartį, Vytautui reikėjo iš Ki­
-    jevo pašalinti Algirdo sūnų Vladimirą. Tuo pat metu, kaip ži­
-    nom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų
-    krašto viduje savarankiškumą. Ir, be to, Vytautui reikėjo kovoti
-    rytuose, nes naminio karo metu Rusijos kraštai buvo patekę
-    Maskvos įtakon.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38744
@@ -196,12 +119,10 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     krašto viduje savarankiškumą.
   citata_rodoma: "Tuo pat metu, kaip ži­\nnom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų\nkrašto viduje savarankiškumą."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-36802
-
 - id: c-38745
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -216,12 +137,10 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     naujinimas.
   citata_rodoma: "Todėl ir nenuostabu, kad po Ostrovos sutarties,\nt. y. d. Lietuvos kunigaikštijos žemių rekonstrukcijos, logiškai is­\ntorijos faktams besivystant, turėjo iškilti ir jos valstybiškumo at­\nnaujinimas."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-36802
-
 - id: c-38746
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

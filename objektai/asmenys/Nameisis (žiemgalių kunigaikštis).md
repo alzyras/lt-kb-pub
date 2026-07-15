@@ -51,51 +51,6 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
   teiginys: "Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis vadovavo Traidenio kariuomenei Ordino vakarų fronte."
   pagrindžia:
     - c-167144
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    buvo atremti Aukso ordos, rusų kunigaikš
-    čių bei Livonijos ordino antpuoliai. Po šio
-    Livonijos ordino sutriuškinimo žiemgaliai
-    vėl sukilo prieš Ordiną, jų kunigaikščio
-    Nameisio vadovaujami ir remiami lietuvių,
-    atsiėmė Tervetės pilį, dalį belaisvių Ordino
-    brolių žemgaliai pasiuntė lietuviams.
-    Lietuviai taip pat toliau rėmė jotvingius jų
-    kovoje su Ordinu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbiavimas, jų kunigaikštis Nameisis - Traidenio karvedys - vadovavo valdovo kariuomenei net tolimame Ordino vakarų fronte.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    frontą, jungtinėmis pajėgomis atakuodami
-    Ordiną ir jo sąjungininkę Lenkiją.
-
-    Traidenio valdymo laikotarpiu vyko ak-
-    tyvus lietuvių ir žiemgalių bendradarbiavi-
-    mas, jų kunigaikštis Nameisis - Traidenio
-    karvedys - vadovavo valdovo kariuome-
-    nei net tolimame Ordino vakarų fronte.
-    Lietuvos kariaunų aktyvumas visame
-    regione skatino gintis nuo vokiečių visus
-    baltus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
 
 ## Citatos
 
@@ -142,5 +97,5 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183756
     - t-40366
+    - t-183756

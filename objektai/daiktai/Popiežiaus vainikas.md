@@ -7,13 +7,13 @@ datos:
   - '1226 m.'
 date_start: '1226'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - pinigai
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,8 +61,8 @@ Nenurodyta
   teiginys: "Popiežiui nukentėjus, nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo viršuje įtaisytas rubinas."
   pagrindžia:
     - c-60334
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Popiežiui nukentėjus, nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo viršuje įtaisytas rubinas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -84,13 +84,14 @@ Nenurodyta
 - id: c-60334
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
     Mat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio
     iškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę
     pinigo, o šitai parodė, kokia būsianti jo ateitis (Mart. p. 441; Ptol. p. 1226).
+    100.
+  citata_rodoma: "Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.\nMat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio\niškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę\npinigo, o šitai parodė, kokia būsianti jo ateitis (Mart. p. 441; Ptol. p. 1226)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

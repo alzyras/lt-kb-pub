@@ -48,25 +48,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   teiginys: "Vasalystė čia reiškia priklausomybės ir ištikimybės santykį."
   pagrindžia:
     - c-14724
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Joje 1384 metų birželio mėn. 14 d. Vytautas ir magis­
-    tras iš naujo patvirtino vienas antram anksčiau duotus pažadus.
-    Magistras vėl pakartojo Vytautui savo sutikimą padėti atgauti
-    jo žemes, o Vytautas iš savo pusės jam pasižadėjo savo vasa­
-    lystę. Sutarties akte buvo pažymėta, jog po Vytauto mirties,
-    nesant teisėtų įpėdinių, jo žemės turi tekti Ordinui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

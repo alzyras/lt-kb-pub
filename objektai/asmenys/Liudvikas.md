@@ -3,12 +3,21 @@ tipas: asmuo
 pavadinimas: 'Liudvikas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1351 m.'
+date_start: '1351'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -26,7 +35,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos karaliui Liudvikui (iš d'Anjou giminės). Liudvikas mirė (1382 m.), taip pat nepalikęs sūnų.
+Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją. Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio. Liudvikas visas savo teises į Rusią buvo perleidęs Kazimierui ir lenkams.
 
 ## Teiginiai
 
@@ -44,8 +53,22 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   pagrindžia:
     - c-36430
     - c-64806
+
+<a id="claim-t-196548"></a>
+- t-003
+  global_id: t-196548
+  teiginys: "Liudvikas visas savo teises į Rusią buvo perleidęs Kazimierui ir lenkams."
+  pagrindžia:
+    - c-178757
+
+<a id="claim-t-196550"></a>
+- t-004
+  global_id: t-196550
+  teiginys: "Po karaliaus Liudviko mirties vengrai pardavė Liubartui Oleską, Kremenecą, Horodlę, Lopatiną ir Sniatiną."
+  pagrindžia:
+    - c-178759
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176422|Jadvyga Jogailienė]]: Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.
-- susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186063|Liudvikas (Torunės komtūras)]]: Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigailą nebijoti karo su lenkais.
+- susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186063|Liudvikas (Torunės komtūras)]]: Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaiką ir žadėdamas pagalbą skatino Švitrigailą nebijoti karo su lenkais.
 - susijęs iš [[objektai/asmenys/Liudvikas (Čekijos karalius).md#claim-t-186144|Liudvikas (Čekijos karalius)]]: Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.
 - susijęs iš [[objektai/asmenys/Liudvikas iš Baldensheimo.md#claim-t-60378|Liudvikas iš Baldensheimo]]: Liudvikas iš Baldensheimo nuo 1265 m. šešerius metus vadovavo kaip septintasis Prūsijos magistras.
 - susijęs iš [[objektai/asmenys/Liudvikas iš Libencelės.md#claim-t-184110|Liudvikas iš Libencelės]]: Liudvikas iš Libencelės, būdamas nelaisvėje, į Kristaus tikėjimą atvertė tūkstantį šešis šimtus abiejų lyčių sūduvių.
@@ -72,6 +95,10 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje.md#claim-t-62892|Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje]]: Liudvikas iš Libencelės Pagraudės valsčiuje surengė pasalą ir nukovė visus jį vijusius raitelius, išskyrus šešis.
 - susijęs iš [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę.md#claim-t-59460|Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]: Antrą kartą patekęs į nelaisvę, brolis Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai.
 - susijęs iš [[objektai/zodynas/šeimynykštis famulus.md#claim-t-58886|šeimynykštis famulus]]: Skomanto šeimynykštis išvadavo brolį Liudviką iš nelaisvės ir sugrąžino pas brolius.
+- susijęs iš [[objektai/asmenys/Liudvikas Chelchovskis (Kauno pavieto stalininkas, XVIII a.).md#claim-t-200501|Liudvikas Chelchovskis (Kauno pavieto stalininkas, XVIII a.)]]: Liudvikas Chelchovskis buvo Kauno pavieto stalininkas.
+- susijęs iš [[objektai/asmenys/Liudvikas Dylevskis (Smolensko pavieto iždininkas, 1749 m.).md#claim-t-200481|Liudvikas Dylevskis (Smolensko pavieto iždininkas, 1749 m.)]]: Domininkas Burba nurodo, kad 1749 m. Smolensko pavieto seimelyje iždininku minėtas Liudvikas Dylevskis arba Juozapas Anupras Kulieša.
+- susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200650|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, žemės raštininku Karolis Piotrovskis.
+- susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200652|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, o žemės raštininku Karolis Piotrovskis.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Holdenštetės.md#claim-t-184064|Fridrichas iš Holdenštetės]]: Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Holdenštetės.md#claim-t-60119|Fridrichas iš Holdenštetės]]: Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176422|Jadvyga Jogailienė]]: Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.
@@ -94,61 +121,16 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 - susijęs iš Semba: Magistras Konradas liepė Liudviko iš Libencelės atvestiems sūduviams žygiuoti link Sembos žemės.
 - susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175174|ginklanešiai]]: Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.
 - susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-175178|ginklanešys]]: Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Susidėjo tokios aplinkybės, kad dėl to ilgai galvos laužyt
-    niekam nereikėjo.
-    Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
-    įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
-    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tą žemę Kazimieras III buvo atidavęs
-    Vladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas
-    Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją. Kadangi
-    Liudvikas norėjo tą žemę prijungti prie Vengrijos, tai Vladis­
-    lovą iš čia pavarė: jam už tai davė Valdyti Kujaviją, esančią
-    kitame Vislos krante priešais Dobrynę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tik čia tvirtai stovėjo Lietuva, ir dėl tų žemių
-    reikėjo kaip nors su ja susitarti.
-    Susidėjo tokios aplinkybės, kad dėl to ilgai galvos laužyt
-    niekam nereikėjo.
-    Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
-    įpėdinio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
+- susijęs iš [[objektai/asmenys/Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.).md#claim-t-200480|Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)]]: 1749 m. Smolensko pavieto seimelyje Karolis Eidžiatovičius buvo išrinktas žemės teisėju.
+- susijęs iš [[objektai/asmenys/Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.).md#claim-t-200482|Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.)]]: 1749 m. Smolensko pavieto seimelyje Karolis Piotrovskis ėjo žemės raštininko pareigas.
+- susijęs iš [[objektai/asmenys/Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.).md#claim-t-200534|Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.)]]: 1752 m. Jonas Dominykas Lopacinskis tikėjosi per seimelį pasiderėti su Vilniaus vaivada Mykolu Kazimieru Radvila Žuvele dėl brolio interesų.
+- susijęs iš [[objektai/asmenys/Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.).md#claim-t-200479|Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.)]]: 1749 m. Smolensko pavieto seimelio vėliavininku išrinktas Povilas Vladislovas Košycas.
+- susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200651|Smolensko pavieto seimelis]]: 1749 m. įvyko Smolensko pavieto seimelis.
+- susijęs iš [[objektai/grupes/Starodubo seimelis.md#claim-t-200688|Starodubo seimelis]]: 1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius.
+- susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200620|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1752 m. Jonas Dominykas Lopacinskis Vilniaus seimelį laikė proga pasikalbėti ir pasiderėti dėl brolio interesų.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200631|seimelis]]: Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200632|seimelis]]: Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200667|seimelis]]: 1749 m. Smolensko pavieto seimelyje buvo renkami tokie pareigūnai kaip vėliavininkas, žemės teisėjas, iždininkas ir žemės raštininkas.
 ## Citatos
 
 - id: c-36430
@@ -209,3 +191,69 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63884
+
+- id: c-178757
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Vėliau iš atsiimtų pilių
+    nuolatos puldinėjo ir siaubė gretimus lenkų kaimus.
+    Karalius Kazimieras, po pergalės prieš lietuvius pa­
+    miršęs karo reikalus ir atsi-
+    1351 m e ta i
+    dėjęs visokiausiems kūniš­
+    kiems
+    pomėgiams,
+    atgavo
+    ankstesnį narsumą ir karingumą, kai priešas keletą
+    kartų jam pridarė didelių nuostolių. Kaip karo sąjun­
+    gininkas, atskubėjo į pagalbą Vengrijos karalius Liud­
+    vikas, Kazimiero seserėnas,
+    neseniai paskelbtas Lenkijos
+    sosto įpėdiniu; ta dingstimi
+    jis visas savo teises į Rusią
+    buvo perleidęs Kazimierui ir
+    lenkams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196548
+
+- id: c-178759
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kadangi šis elgėsi su
+    buvusia belaisve labai pagarbiai, todėl tėvai bei pati
+    mergelė, vienintelė didelių turtų paveldėtoja, pasiūlė
+    jam imti ją į žmoną, ir Davaina, priėmęs krikščionybę,
+    pasiliko Lenkijoje; ten jis gavo ir naują herbą, vietos
+    žmonių Dembnu vadinamą, kuriame vaizduojamas ir
+    kryžius, turintis priminti, kaip tada viskas buvo. Tuo
+    metu vengrai, po karaliaus Liudviko mirties bijodami
+    stoti į nelengvą kovą su lenkais dėl neseniai jiems
+    perduotų valdų Pūkutėje ir
+    V e n g r a i
+    p a rd u o d a
+    kitose Rusios žemėse, už di-
+    lie tu v ia m s k a i k u ria s
+    delius pinigus pardavė Liu-
+    pilis R u sio je
+    bariui, Jogailos dėdei (val­
+    džiusiam tuo metu Lietuvos
+    kunigaikščio teisėmis Lucką, Vladimirą ir visą Voly­
+    nę), Oleską, Kremenecą, Horodlę, Lopatiną ir Sniatiną.
+    Tuo tarpu Lenkijoje, kai visiems pakiro pilietiniai ka­
+    rai bei niokojami antpuoliai prieš vienas kitą, įvairios
+    politinės grupės paliovė atkakliai ginčytis ir sutarė
+    baigti tarpuvaldį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196550

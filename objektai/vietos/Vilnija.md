@@ -58,25 +58,6 @@ O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos 
 - susijęs iš [[objektai/grupes/Armija Krajova.md#claim-t-183118|Armija Krajova]]: Vilnijoje lietuvių Vietinės rinktinės daliniai susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.
 - susijęs iš [[objektai/grupes/Armija Krajova.md#claim-t-19638|Armija Krajova]]: Vilnijoje lietuvių Vietinės rinktinės daliniai susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.
 - susijęs iš [[objektai/grupes/Vietinė rinktinė.md#claim-t-66257|Vietinė rinktinė]]: Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tad
-    iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje
-    Kaune susirinko į pirmąjį Seimo posėdį. O juk planuota išrinkti ir apie
-    100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rin-
-    kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo. Tai rodo, kad
-    turimos teritorijos Lietuva dar nelaikė galutine.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24591

@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį, išnaikinusį žmogėdras bei įgijusį vadų vado vardą. Narbutas teigia perrašęs fragmentą norėdamas įrodyti, kad pasakų Gelonas buvo, ir paaiškinti nepakankamai nušviestus įvykius.
+Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį, išnaikinusį žmogėdras bei įgijusį vadų vado vardą. Narbutas teigia perrašęs fragmentą norėdamas įrodyti, kad pasakų Gelonas buvo, ir paaiškinti nepakankamai nušviestus įvykius. Gelonas šukuodavo jam plaukus ir barzdą vėjinio malūno sparno dydžio šukomis.
 
 ## Teiginiai
 
@@ -42,8 +42,15 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   teiginys: "Narbutas teigia perrašęs fragmentą norėdamas įrodyti, kad pasakų Gelonas buvo, ir paaiškinti nepakankamai nušviestus įvykius."
   pagrindžia:
     - c-172949
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197398"></a>
+- t-003
+  global_id: t-197398
+  teiginys: "Gelonas šukuodavo jam plaukus ir barzdą vėjinio malūno sparno dydžio šukomis."
+  pagrindžia:
+    - c-179167
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį, išnaikinusį žmogėdras bei įgijusį vadų vado vardą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -64,42 +71,25 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas teigia perrašęs fragmentą norėdamas įrodyti, kad pasakų Gelonas buvo, ir paaiškinti nepakankamai nušviestus įvykius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Prie Vilnios ir Neries santakos pradėjo statyti dvi pilis, o
-    prie jų -  miestą, apie kurį Lizdeika teisingai išpranašavo: jei­
-    gu toje vietoje būsianti įkurta valstybės sostinė, tai miestas vi­
-    sad būsiąs didžiausias Lietuvoje“.
-    Toliau sutrumpintai pateikiama žinoma istorija iki kara­
-    liaus Kazimiero. Šį fragmentą perrašėme norėdami įrodyti, kad
-    buvo pasakų Gelonas, ir norėdami geriau nušviesti šiaip dar
-    nepakankamai išaiškintų įvykių istoriją ir chronologiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172948
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 212"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 212."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pagaliau atsirado lietuvių didvyris,
-    Elonos, arba Iglonos, sūnus, vardu Gelonas. Sis, pašauktas iš­
-    vaduoti šiaurę nuo tos nelaimės, pradėjo kariauti su žmogėd­
-    romis; iš pradžių juos dažniausiai tik sutramdydavo, pagaliau
-    visiškai išnaikino. Istorija mena, kad jis buvo vieno iš senovės
-    lietuvių dievų sūnus, jo motina buvo žynė. Taigi po tų pergalių
-    ir daugelio kitų didvyriškų žygių jis įgijo lietuvių tautos vadų
-    vado vardą.
+    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
+    jo žudikai kunigaikščiai - Užgirio (Transilvaticus) Dauman­
+    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
+    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
+    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
+    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
+    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
+    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
+    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
+    imtus bajorus.
+  citata_rodoma: "Pagaliau atsirado lietuvių didvyris,\nElonos, arba Iglonos, sūnus, vardu Gelonas. Sis, pašauktas iš­\nvaduoti šiaurę nuo tos nelaimės, pradėjo kariauti su žmogėd­\nromis; iš pradžių juos dažniausiai tik sutramdydavo, pagaliau\nvisiškai išnaikino. Istorija mena, kad jis buvo vieno iš senovės\nlietuvių dievų sūnus, jo motina buvo žynė. Taigi po tų pergalių\nir daugelio kitų didvyriškų žygių jis įgijo lietuvių tautos vadų\nvado vardą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -110,11 +100,10 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
 - id: c-172949
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 215"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Prie Vilnios ir Neries santakos pradėjo statyti dvi pilis, o
-    prie jų -  miestą, apie kurį Lizdeika teisingai išpranašavo: jei­
+    prie jų - miestą, apie kurį Lizdeika teisingai išpranašavo: jei­
     gu toje vietoje būsianti įkurta valstybės sostinė, tai miestas vi­
     sad būsiąs didžiausias Lietuvoje“.
     Toliau sutrumpintai pateikiama žinoma istorija iki kara­
@@ -127,3 +116,22 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190066
+
+- id: c-179167
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Alcis ją stipriai mylėjo, ji šukuo­
+    davo jam plaukus ir barzdą vėjinio malūno sparno dydžio šu­
+    komis. Keliaujant žmona sėdėdavo jam ant pečių. Kai jis bris­
+    davo per giliausias upes, vanduo vos siekdavo jam kelius. Jis
+    nuolat keliavo ir niekad nestokojo nuotykių.
+    Lietuvoje yra miško laukymių, turinčių panašius pavadini­
+    mus: žinau Alcės {Alde) pievą prie Rodūnios upės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197398

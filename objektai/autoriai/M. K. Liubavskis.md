@@ -35,25 +35,6 @@ Liubavskis. Liubavskij : Oblastnoe delenie (LOD); Litovsko-russkij sejm (ČIObč
   teiginys: "M. K. Liubavskis, naudodamas Lietuvos Metriką ir senus dokumentus, reikšmingai prisidėjo prie Lietuvos istorijos tyrimų."
   pagrindžia:
     - c-33054
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pirmasis rašė apie baudžia­
-    vą Lietuvoje ir valstiečių tarnybą dvaruose, svarstydamas ir apskri­
-    tai įvairius teisės klausimus^138 , antrasis daugiau nagrinėjo Lietuvos
-    Statuto ir kitas teisės istorijos problemas^139. Gausiai panaudodamas
-    Lietuvos metriką ir kitus senus dokumentus, didelį įnašą Lietuvos
-    istorijai davė M. K. Liubavskis. Ypač reikšmingi jo veikalai
-    apie Lietuvos valstybės administracinį padalinimą ir apie seimą^140.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -7,16 +7,16 @@ datos:
   - '1236 m.'
 date_start: '1236'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - valdovas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,8 +51,8 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
   teiginys: "Otonas, Braunšveigo valdovas ir Liuneburgo kunigaikštis, su daugybe maldininkų atvyko į Prūsijos žemę padėti broliams."
   pagrindžia:
     - c-60822
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Otonas Kūdikis nuo 1236 m. buvo Braunšveigo-Liuneburgo hercogas ir Henriko Liūto vaikaitis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -78,9 +78,6 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
     maldininkų atvyko kilnusis  ir pamaldusis Otonas, šviesusis Braunšveigo valdovas  ir
     kunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo253.
 
-
-
-
              26.
   citata_rodoma: ''
   statusas: verified
@@ -95,11 +92,13 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
 - id: c-60821
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 81"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Dusburgietis čia pakiliai tekalba apie į pagalbą
+    atvykusius Vokietijos „maldininkus“.
     253  Braunšveigo—Liuneburgo hercogas (nuo 1236 m.) Otonas Kūdikis (Otto das
     Kind), Henriko Liūto vaikaitis. Liuneburgas — į pietryčius nuo Hamburgo.
+  citata_rodoma: "253  Braunšveigo—Liuneburgo hercogas (nuo 1236 m.) Otonas Kūdikis (Otto das\nKind), Henriko Liūto vaikaitis. Liuneburgas — į pietryčius nuo Hamburgo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -110,20 +109,16 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
 - id: c-60822
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 81"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    25. Apie Braunšveigo kunigaikščio atvykimą
-
-      Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera
-    žinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe
-    maldininkų atvyko kilnusis  ir pamaldusis Otonas, šviesusis Braunšveigo valdovas  ir
-    kunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo253.
-
-
-
-
-             26.
+    Didžiai dėl to susirūpinę broliai dažnai
+    rinkdavosi pasitarti, vildamiesi rasti šiomis aplinkybėmis tinkamą išeitį. Galop pats
+    Kristus, kuris niekad nesiliauja gailestingai guodęs jam atsidavusių vyrų, atsidūrusių
+    sunkioje nelaimėje, maloniai paragino vieną kilnų vyrą, vardu Pomandas, nusipelniusį
+    didelės prūsų pagarbos ir neseniai priėmusį Kristaus tikėjimą bei atvykusį pas brolius,
+    imtis tikėjimo bei tikinčiųjų reikalo. Taigi Pomandas iš Baigos pilies sugrįžo pas savo
+    bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai
+    nudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas.
   citata_rodoma: "Apie Braunšveigo kunigaikščio atvykimą\n\n  Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera\nžinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe\nmaldininkų atvyko kilnusis  ir pamaldusis Otonas, šviesusis Braunšveigo valdovas  ir\nkunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo253.\n\n\n\n\n         26."
   statusas: verified
   teiginio_tipas: faktas

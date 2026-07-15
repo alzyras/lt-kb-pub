@@ -34,23 +34,6 @@ b) Voskresensk.
   teiginys: "„Voskresensk. lietopis“ cituoja Vytauto žodžius apie ketinimą nugalėti carą Temir Kutlujų ir pasodinti Tachtamyšą."
   pagrindžia:
     - c-38439
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    XVII, 517).
-    b) Voskresensk. lietopis (Pol. sobr. VIII, 72 p.), „Pochvalivsia, gla-
-    golišče bo Vitovt: pojdiem i pobiedim caria Temir Kutluja, wziem carstvo
-    jego, posadim ria niem caria Tachtamyša, o sam siadu na Moskvie, na
-    Vielikom kniaženii, na vsiej ruskoj ziemli" ...
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -65,59 +65,6 @@ Nenurodyta
   teiginys: "Vasylių Šuiskį paskelbus caru, Maskvoje ramybė neįsigalėjo: krašte prasidėjo nauji sukilimai ir atsirado antras apsimetėlis Dimitrijas."
   pagrindžia:
     - c-66729
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jį rėmė kai kurie
-    Lenkijos ponai, o Sandomiero vaivada Mniškas (Mniszek)
-    net pasiskubino išleisti už jo savo dukterį Mariną. Karalius
-    Zigmantas taip pat jį maloniai priėmė. Lenkų ponų padedamas,
-    jis 1605 m. užėmė Maskvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Vasylių Šuiskį paskelbus caru, Maskvoje ramybė neįsigalėjo: krašte prasidėjo nauji sukilimai ir atsirado antras apsimetėlis Dimitrijas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Caru
-    buvo paskelbtas bajoras Vasylius Šuiskis. Tačiau
-    Maskvoj nebuvo ramybės nė dabar. Krašte prasidėjo nauji su-
-    kilimai, ir atsirado antras apsimetėlis Dimitrijas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Po bevaikio Teodoro mirties 1597 m. caru pasiskelbė Godunovas, o po šešerių metų Lenkijoje atsirado Dimitrijumi pasivadinęs jaunikaitis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Teodoro jaunutis brolis Dimitrijas bu-
-    vo nužudytas, o Teodoras mirė bevaikis, ir po jo caru pasiskelbė
-    Godunovas (1597 m.). Po 6 metų Lenkijoje atsirado kažkoks
-    jaunikaitis, kuris sakėsi esąs caraitis Dimitrijas: esą, jis pabė-
-    gęs, o vietoj jo buvęs nužudytas kas kitas. Jį rėmė kai kurie
-    Lenkijos ponai, o Sandomiero vaivada Mniškas (Mniszek)
-    net pasiskubino išleisti už jo savo dukterį Mariną. Karalius
-    Zigmantas taip pat jį maloniai priėmė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

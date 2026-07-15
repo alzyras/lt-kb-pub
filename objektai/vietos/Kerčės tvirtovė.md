@@ -32,37 +32,11 @@ Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto gri
 <a id="claim-t-192879"></a>
 - t-001
   global_id: t-192879
-  teiginys: "Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių."
+  teiginys: 'Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių.'
   pagrindžia:
     - c-175649
 - susijęs iš Pantikapėja: Narbuto aiškinime Pantikapėjos vardas Skitijos geografijoje galėjo žymėti ne vieną upę ar vietovę, nes Kerčė stovėjo ant Pantikapėjos griuvėsių.
 - susijęs iš Pripetė: Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    56
-
-    ## Puslapis 54
-
-    jos, kurios nežinome; tačiau atrodo, kad su dievinamu
-    Borėju susisiekia ir jo dukra Boristenė, skitų Jupiterio
-    žmona (tai minėjome aukščiau — § 12). Pantikapas, o
-    tai panašiausia į tikrovę, yra šiandienė Pripetė, jungianti
-    Baltijos ir Juodosios jūros vandens baseinus. Šiuo vardu
-    Skitijos geografijoje galėjo būti vadinama ne viena upė
-    ir vietovė, nes žinoma, kad šiandien Kerčės tvirtovė sto­
-    vi ant Pantikapėjos miesto griuvėsių1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175649
@@ -87,4 +61,4 @@ Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto gri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192879
+    - t-001

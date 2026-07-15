@@ -44,33 +44,13 @@ Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronik
   teiginys: "Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronikos autorius."
   pagrindžia:
     - c-174521
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronikos autorius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Sakinys, kuriuo T. Narbutas papildė paragra­
-    fą, rengdamas antrąjį leidimą (PEĮ. P. 378—
-    379). Turimas omenyje vokiečių istorikas Dyt-
-    maras (Tietmar, Tietmarus; 976—apie 1018—
-    1024), ¡penkių Saksonijos karalių valdymo kro­
-    nikos autorius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174521
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 429"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 429."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sakinys, kuriuo T. Narbutas papildė paragra­
     fą, rengdamas antrąjį leidimą (PEĮ. P. 378—

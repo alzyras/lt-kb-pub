@@ -56,29 +56,6 @@ Nenurodyta
   pagrindžia:
     - c-41076
 - susijęs iš [[objektai/zodynas/pistoletai-kulkosvaidžiai pistoletas-kulkosvaidis.md#claim-t-38696|pistoletai-kulkosvaidžiai pistoletas-kulkosvaidis]]: Pistoletas-kulkosvaidis PPS Antrojo pasaulinio karo metu rusų pradėtas kurti ir gaminti kaip paprastesnė PPS-41 alternatyva.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'PPS 41 buvo vienas gausiausiai gamintų Antrojo pasaulinio karo pistoletų-kulkosvaidžių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vadas Jonas Neifaltas-
-    Lakūnas partizanus suskirstė į keturis
-
-    PPS 41 (Pistolet-Pulemiot Špagina). Bene gausiausiai gamintas Antrojo
-    pasaulinio karo pistoletas-kulkosvaidis. Iki Antrojo pasaulinio karo pabaigos
-    sovietinė karo pramonė šių ginklų pagamino apie 6 milijonus. Lietuvos
-    partizanai labai dažnai naudojo šį ginklą iki pat pasipriešinimo kovų pabaigos
-
-    būrius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41076

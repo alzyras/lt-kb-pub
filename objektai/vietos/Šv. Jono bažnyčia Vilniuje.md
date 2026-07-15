@@ -2,30 +2,22 @@
 tipas: vieta
 pavadinimas: 'Šv. Jono bažnyčia Vilniuje'
 saltiniai:
+  - 'Lenkai Lietuvoje Dr. J. Basanavičius'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
 datos:
   - '1386 m.'
-  - '1426 m.'
-  - '1427 m.'
-  - '1571 m.'
-  - '1667 m.'
   - '1668 m.'
 date_start: '1386'
 date_end: '1668'
-aliases:
-  - 'Šv. Jono bažnyčia Vilniuje'
-  - 'Šv. Jono bažnyčia Vilniuje'
-variantai:
-  - 'Šv. Jono bažnyčia Vilniuje'
-  - 'Šv. Jono bažnyčia Vilniuje'
-amziai:
-  - 'XIV'
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - šventvietė
   - vieta
+amziai:
+  - 'XIV'
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +35,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82. Jono bažnyčios Vilniuje įkūrimą ir jos prijungimą prie Akademijos kolegijos Vladislovo Jogailos valdymo laikais lietuvių tautos at­ vertimui į šventąjį tikėjimą atminti Vilniuje 1386 m. įkurta Šv. Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­ toriaus instancijai su visu turtu ir arkipresbiterio namais pri- 172 ## Puslapis 189 Il KNYGA jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.
+Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir pritaikė jį jiems gyventi. Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią. 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
 
 ## Teiginiai
 
@@ -96,155 +88,13 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
   pagrindžia:
     - c-177563
     - c-177564
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jono bažnyčia, ir 1667 metų lapkričio 19 dieną
-    Vilniaus magistrato neteisingos pretenzijos Šv. Jono bažny­
-    čios atžvilgiu buvo išnagrinėtos, o 1668 metų gegužės 17 die­
-    ną karaliaus raštu galutinai patvarkyta ir Šv. Jono bažnyčios
-    užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-- c-002
-  santrauka: 'Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    JONO BAŽNYČIĄ IR APIE TO PATIES VARDO
-    KOLEGIJĄ, TAIP PAT APIE VISUS PADALINIUS IR PASTATUS,
-    TĄ KOLEGIJĄ SUDARANČIUS; ISTORINIAI-TOPOGRAFINIAI
-    DUOMENYS PAIMTI IŠ BUVUSIO VILNIAUS EDUKACINĖS
-    KOMISIJOS ARCHYVO BYLŲ
-    A) Apie Šv. Jono bažnyčios Vilniuje įkūrimą ir
-    jos prijungimą prie Akademijos kolegijos
-    Vladislovo Jogailos valdymo laikais lietuvių tautos at­
-    vertimui į šventąjį tikėjimą atminti Vilniuje 1386 m. įkurta
-    Šv. Jono bažnyčia, o kunigaikščio Aleksandro Vytauto lai­
-    kais Lietuvos Kunigaikštystės visuotinomis lėšomis 1426 m.
-    pabaigta, pašventinta dviejų vyskupų - Plocko ir Kujavų,
-    1427 metų sausio 10-ą, kaip šitai žinoma iš tų pačių vysku­
-    pų duoto induito.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-- c-003
-  santrauka: 'Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir pritaikė jį jiems gyventi.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jų pastangos disputuoti su disidentais išties
-    pelnė jiems vyskupo ir kapitulos prielankumą. Protasevi­
-    čius šiam ordinui nupirko mūrinį namą netoli Švento Jono
-    bažnyčios ir pritaikė jiems gyventi. Dar nupirko du sklypus
-    priešais savo rūmus ir patvirtino nemažas fundacijas toles­
-    nėms statyboms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-004
-  santrauka: 'Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
-    vo disputais ir raštais spaudęs savo priešininkus, nekan­
-    traudamas trokštamos pergalės, ėmėsi smarkių priemonių,
-    bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
-    jo atvesti į užsibrėžtą tikslą. Jėzuitų pakurstytas vyskupas
-    Protasevičius, nepaprastai užsidegęs išnaikinti eretikus, įsa­
-    kė surinktas disidentų knygas, viešai deginti priešais Šv.
-    Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujuši-
-    no protus65.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-- c-005
-  santrauka: '1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
-    lenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
-    metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika
-    155
 
-    ## Puslapis 172
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    pačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos
-    lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
-    mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
-    Stanislovas82.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-200789"></a>
+- t-008
+  global_id: t-200789
+  teiginys: "Šv. Jono bažnyčioje Vilniuje išlikę gotiniai bruožai apima aštrialankius langus, kontraforsus ir halės tipo trijų navų erdvę."
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: '1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jono brolijai priklausantiems,
-    kurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta­
-    tais ir papuošimu, ad tenorem [pagal] sutartį, 1521 metų ba­
-    landžio 9 dieną sudarytą Vilniaus miesto su tos bažnyčios
-    arkipresbiterių Leonardu Rodijanu, o šviesiausiojo karaliaus
-    Žygimanto Augusto patvirtintą. Tasai karalius 1571 metų
-    kovo 10 dieną Šv. Jono bažnyčią atidavė kun. Valerijono Pro-
-    tasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­
-    toriaus instancijai su visu turtu ir arkipresbiterio namais pri-
-    172
-
-    ## Puslapis 189
-
-    Il KNYGA
-    jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-- c-007
-  santrauka: 'Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mes cituojame tik tuos, kuriuos
-    matėme patys.
-    70
-    Detali Kardinalijos istorija yra tokia:
-    kunigaikštis Jurgis Radvila, dar bū­
-    damas Vilniaus vyskupijos koadju­
-    torius, su broliu gavo palikimo mū­
-    rinį namą, Goštautų vardo, stovintį
-    priešais Šv. Jono bažnyčią, visą mū­
-    rinį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+    - c-184134
 
 ## Citatos
 
@@ -408,4 +258,26 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-195199
     - t-195201
+
+- id: c-184134
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 19."
+  citata_originali: |
+    Gal kiek ryš­
+    kesni gotiniai bruožai yra išlikę tiktai šv. Jono bažnyčioje: iš oro ( 52 ) —
+    aštrialankiai langai ir galingos sienų atramos (kontraforsai), viduje
+    (12)—aiškiai išreikštas halės tipas: erdvė padalytą į tris vienodo aukščio
+    navas aukštais, lieknais aštuoniasieniais pilioriais; pastarieji, nors buvo
+    vėliau naujai apdirbinėjami, iš karto išduoda gotinį savo charakterį. Gi
+    tobuliausiai halės tipas yra įsikūnijęs XVI amžiuje, būtent Bernardinų
+    bažnyčioje, kurią tuojau pat išnagrinėsime.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200789

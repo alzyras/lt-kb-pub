@@ -64,8 +64,8 @@ Nenurodyta
   global_id: t-195312
   teiginys: "Elgetos pasakojime rimbas yra apsigynimo nuo šunų įrankis, į kurio galą įsirišama vinis."
   pagrindžia:
-    - c-177693
     - c-177690
+    - c-177693
     - c-177694
 
 <a id="claim-t-195313"></a>
@@ -73,10 +73,10 @@ Nenurodyta
   global_id: t-195313
   teiginys: "Kerdžiaus rimbas aprašomas kaip ganymo, drausminimo ir bausminimo priemonė."
   pagrindžia:
+    - c-177691
     - c-177692
     - c-177695
     - c-177696
-    - c-177691
 - susijęs iš [[objektai/daiktai/Lazda.md#claim-t-195347|Lazda]]: Elgetos nešiojamas gynybos ir pasiramstymo daiktas.
 - susijęs iš [[objektai/posakiai/Trimitais trimituoti, dambreliais uždambriuoti.md#claim-t-195421|Trimitais trimituoti, dambreliais uždambriuoti]]: Dainose randama formulė apie trimitus ir dambrelius.
 - susijęs iš Duburio lanka: Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė.

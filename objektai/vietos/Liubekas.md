@@ -14,14 +14,14 @@ datos:
   - '2026 m.'
 date_start: '1190'
 date_end: '2026'
+amziai:
+  - 'XII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -127,7 +127,6 @@ media_all_json: |-
 - susijęs iš [[objektai/autoriai/Gierszewski S.md#claim-t-91949|Gierszewski S]]: S. Gierszewski cituojamas teiginiui, kad greta Elbingo pilies augęs miestas 1246 m. gavo Liubeko teises.
 - susijęs iš [[objektai/autoriai/J. Voigtas Foigtas.md#claim-t-191552|J. Voigtas Foigtas]]: Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su kaimais ir Liubeko pirklių pastatytu Lipsos uostu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179057|Kryžiuočių ordinas]]: Ordino riteriai Liubeke siūlė prieš sprendimą dėl Lietuvos krikšto pirmiausia pasiųsti į Lietuvą pasiuntinius.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179423|Livonijos ordinas]]: Livonijos ordino vicemagistras prašė Liubeko pagalbos, skųsdamasis dideliais ordino nuostoliais arkliais, ginklais ir gėrybėmis.
 - susijęs iš [[objektai/ivykiai/Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.).md#claim-t-59630|Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.)]]: Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai per Akono apgulą vyrai iš Bremeno ir Liubeko įrengė ligoninę.
 - susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią Sambijos dalį, susijusią su Liubeko gyventojų valdomis.
 - susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: 1246 m. sutartyje minima Liubeko gyventojams statytina laisvoji civitas ir jiems priskirtos Sambijos, Vitlandijos bei Varmijos žemės.
@@ -170,173 +169,6 @@ media_all_json: |-
 - susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią Sambijos dalį, susijusią su Liubeko gyventojų valdomis.
 - susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: 1246 m. sutartyje minima Liubeko gyventojams statytina laisvoji civitas ir jiems priskirtos Sambijos, Vitlandijos bei Varmijos žemės.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1241 m. Hamburgas sudarė karinę sąjungą su Liubeku, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
-    tai, net slaviškieji, ėmė prie jų šlietis. Prie karinės sąjungos, 1241 m.
-    Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė
-    D
-
-    ## Puslapis 22
-
-    ĮVADAS
-    Krokuva, Kališas ir Naugardas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-010
-
-- c-002
-  santrauka: '1323 m. Liubeke parengtame notariniame akte aprašytas prie Gedimino laiškų prikabintas apvalus vaškinis antspaudas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    To ant­
-    spaudo tokį apibūdinimą turime raštininko aprašyme.
-    Notariats-Instrument, parengtame 1323 metais Liubeke: Si­
-    gillum vero huiusmodi litteris appensum erat rotundum cereum,
-    continens circulum duodecim angulorum et in medio circuli yma-
-    ginem viri capillati residentis in Cathedra, continentis in manu
-    dextra coronam et ceptrum in sinistra, et in circumferenda eius
-    per quadraginta unam litteras et cruce sculptum erat: S. dei gra-
-    cia Gedemini lethvinorum et ruthenor. reg.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-003
-  santrauka: 'Gedimino laiške Liubeko ir kitų miestų gyventojams skelbta, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto civiline teise.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
-    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
-    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
-    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
-    13
-    Rygos miestas buvo įkurtas 1200
-    metais, ant kalno, vadinto Righe,
-    Dvinos pakrantėje, vyskupo Alber­
-    to fon Apeldemo, pasiųsto skleisti
-    krikščioniškąjį tikėjimą Livonijoje,
-    bet ten dar prieš aštuonerius metus
-    Bremeno pirkliai jau buvo pastaty­
-    dinę keletą namų.
-    14
-    Gedimino laiške Liubeko, Rostoko,
-    Zundo, Greifsvaldo, Štetino mies­
-    tams ir Gotlando salos gyventojams
-    šis valdovas praneša, kad į Vilnių at­
-    vykę kolonistai galės vadovautis ci­
-    viline teise, kokia naudojasi Rygos
-    miestas, kol teisėtvarkininkai nesu­
-    kurs geresnių įstatymų. Jure civili
-    utantur Rigensis Civitatis, omnis vul­
-    gus, nisi tunc melius fuerit inuentum
-    de sano consilio discretorum [tad visi
-    [tie] žmonės tesinaudoja civiline Ry­
-    gos miesto teise, jei paskui geriau ne­
-    bus sumanyta išmintingųjų tarybos].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lietu­
-    vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink
-    įgyvendino savo dvariškius bei tarnus, žinoma, dar reikė­
-    tų pridurti ir nemažai paimtų į nelaisvę lenkų bei rusinu.
-    Žinodami gausią globą ir ypatingas privilegijas, o krikščio­
-    nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­
-    kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­
-    zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie
-    pasidarė turtingiausias Vilniaus gyventojų sluoksnis. Savo
-    ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
-    dimino dvare, statydinosi ties pilimi medinius savo rūmus,
-    o aplink kurdino savo valdinius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-002
-
-- c-005
-  santrauka: '1323 m. liepos 18 d. Liubeko rotušėje Rygos tarėjai Henrikas fon Calmaras ir Jonas Roghenas įteikė dominikonams tariamus Gedimino laiškus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tikriausiai Kotzebue
-    vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs apkal­
-    tinti Ordiną nauja piktadarystė, kaip kad buvo įpratęs. Jam
-    lengviausia buvo atsekti tikrą įvykių eigą. Rygos miesto tarė­
-    jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323
-    metų liepos 18 dieną Liubeko miesto rotušėje, dalyvaujant
-    imperatoriaus kancleriui Janui fon Bremenui, daugeliui Liu­
-    beko katedros kanauninkų, dominikonų ordino vienuoliams
-    ir miesto tarybos nariams, įteikė dominikonų ordino kuni­
-    gams tariamus karaliaus Gedimino laiškus, prašydami juos
-    čia pat skaityti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Turėdami
-    Durbės patyrimą, riteriai šį kartą nebesidavė apsupami, ir jų tekrito
-    10, kai pilgrimų esą žuvę daug. Keliose kronikose Lielvardės kauty­
-    nės^173 yra atvaizduotos kaip skaudus ordino pralaimėjimas. 1261 m.
-    balandžio 27 d. Livonijos ordino vicemagistras maldavo pagalbos
-    iš Liubeko miesto, skųsdamasis, jog ordinas turėjęs daug nuostolių
-    arkliais, ginklais ir kitokiomis gėrybėmis^174.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-007
-  santrauka: 'Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas sutiko jas grąžinti tik ta sąlyga, jei magistras
-    grąžins lietuvių prekes^4 ). Dėl to rygiečiai kėlė balsą Hanzos
-    sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų
-    patvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad
-    jis pats su jais jokios sutarties nedarė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-008
   santrauka: 'Bremeno ir Liubeko miestiečiai, pirmieji Teutonų ordino steigėjai, padovanojo Henrikui Valpotui Akono ligoninę su jos išmaldomis ir gėrybėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -443,8 +275,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175381
     - t-175380
+    - t-175381
 
 - id: c-159511
   autorius: "Michał Baliński"
@@ -469,8 +301,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175387
     - t-175379
+    - t-175387
 
 - id: c-159512
   autorius: "Michał Baliński"
@@ -536,20 +368,20 @@ media_all_json: |-
 - id: c-159519
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 39"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    2. Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­
-                                                 trą
-
-      Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
-    Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
-    dieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
+    Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
     kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti
     į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos
     kilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis
-    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
-    broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga.
+    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams jis drauge su
+    broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga. Paėmus Akoną, tas pats brolis
+    Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,
+    kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais
+    154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų
+    — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a. 2-oje
+    pusėje, o prancūziškasis Tamplierių ordinas — XII a. 2-ame dešimtmetyje). Sekant
+    statutų prologu, Ordino įkūrimas datuojamas 1190 m.
   citata_rodoma: "Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­\n                                             trą\n\n  Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis\nHenrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)\ndieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,\nkurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti\nį namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos\nkilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis\ngausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su\nbroliais nuolankiai tarnavo ir rūpino visa, kas reikalinga."
   statusas: verified
   teiginio_tipas: faktas

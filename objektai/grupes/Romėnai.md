@@ -10,14 +10,14 @@ datos:
   - '2026 m.'
 date_start: '1936'
 date_end: '2026'
+amziai:
+  - 'XX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
-amziai:
-  - 'XX'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,75 +46,73 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   pagrindžia:
     - c-46394
 
-<a id="claim-t-188323"></a>
-- t-002
-  global_id: t-188323
-  teiginys: "Narbuto vertinimu, graikai ir romėnai religinėmis paslaptimis tik pamėgdžiojo egiptiečius, pranokusius visas antikines tautas."
-  pagrindžia:
-    - c-171216
-
 <a id="claim-t-188324"></a>
-- t-003
+- t-002
   global_id: t-188324
   teiginys: "Narbutas romėnų Penates ir Lares, kaip ir lietuvių Siejmi Dewas bei Gulbi, priskyrė bendriems namų dievaičiams, globojusiems ūkio dalis."
   pagrindžia:
     - c-171217
 
 <a id="claim-t-188325"></a>
-- t-004
+- t-003
   global_id: t-188325
   teiginys: "Narbutas rašė, kad žalčių garbinimas senovėje buvo paplitęs tarp indų, chaldėjų, egiptiečių, persų, finikiečių, graikų, romėnų ir gotų."
   pagrindžia:
     - c-171218
 
 <a id="claim-t-188326"></a>
-- t-005
+- t-004
   global_id: t-188326
   teiginys: "Narbutas nurodė, kad romėnai turėjo dievaitį Famulą, kuris žmonėms apsireikšdavo žalčiu."
   pagrindžia:
     - c-171219
 
 <a id="claim-t-188327"></a>
-- t-006
+- t-005
   global_id: t-188327
   teiginys: "Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, o Minervą - Alkida."
   pagrindžia:
     - c-171220
 
 <a id="claim-t-188328"></a>
-- t-007
+- t-006
   global_id: t-188328
   teiginys: "Narbutas pažymėjo, kad kronikos romėnų ar į juos panašių atvykimą į Lietuvą datavo 48 m. pr. Kr., 57 m. po Kr. arba 401 m."
   pagrindžia:
     - c-171221
 
 <a id="claim-t-188329"></a>
-- t-008
+- t-007
   global_id: t-188329
   teiginys: "Narbutas lietuvių antspaudų naudojimą vietoj parašų lygino su romėnų praktika."
   pagrindžia:
     - c-171222
 
 <a id="claim-t-192452"></a>
-- t-009
+- t-008
   global_id: t-192452
   teiginys: "Kartaginietis, nenorėdamas parodyti kelio paskui plaukusiam romėnų laivui, įviliojo jį į pavojingas vietas."
   pagrindžia:
     - c-175246
 
 <a id="claim-t-194864"></a>
-- t-010
+- t-009
   global_id: t-194864
   teiginys: "Sis autorius, kruopščiausiai rin kęs įvairias žinias iš retų raštų, pats lankėsi prie Elbės, vadovaudamas romėnų kariuomenei, be to, buvo visiškai atsidavęs gamtos tyrinėjimui ir neabejotinai turėjo progos susipažinti su to meto mokslininkų požiūriais ¡bei."
   pagrindžia:
     - c-177260
+
+<a id="claim-t-197515"></a>
+- t-010
+  global_id: t-197515
+  teiginys: "Tai, ką čia pateikėme, įrodė ir parašė Diodoro amžininkas Strabonas: „Visas žemynas, esąs už Elbės upės, aukštyn net iki didelės jūros yra dar visiškai nežinomas, nes romėnai niekad nenuplaukė toliau Elbės ir niekas dar neapvažiavo sausuma tų tolimų plotų“1."
+  pagrindžia:
+    - c-179226
 - susijęs iš [[objektai/asmenys/Julijus Kapitolinas.md#claim-t-191245|Julijus Kapitolinas]]: Naruševičius, rašydamas apie jotvingius, Narbuto teigimu rėmėsi Kapitolinu ir vadino juos Cestobochy.
-- susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185425|Langobardai]]: 703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.
 - susijęs iš [[objektai/asmenys/Galėnas.md#claim-t-191401|Galėnas]]: Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo romėnų valdose sulaikė puolimą ir sutriuškino herulus.
 - susijęs iš [[objektai/asmenys/Cyras-Karbo.md#claim-t-191384|Cyras-Karbo]]: Narbutas rašo, kad Strijkovskis kimbrus siejo su mūšiu prie Nortbėjos, kur jie 190 m. pr. Kr. pirmą kartą kovėsi su Cyras-Karbo vadovaujamais romėnais.
 - susijęs iš [[objektai/asmenys/Gajus Mesijus Kvintas Decijus.md#claim-t-191400|Gajus Mesijus Kvintas Decijus]]: Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai kariavo su romėnais ir buvo germanų sąjungininkai.
 - susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190377|Plinijus]]: Narbutas Plinijumi grindė teiginį, kad romėnų laivai prieš Kristaus gimimą plaukiojo Baltijos jūroje.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-184602|Vėliavos]]: Herulai, tapę Romos sąjungininkais ir pagalbine kariuomene, daugelį amžių karo tarnyboje gynė romėnų vėliavas.
 - susijęs iš [[objektai/asmenys/Cyras-Karbo.md#claim-t-191384|Cyras-Karbo]]: Narbutas rašo, kad Strijkovskis kimbrus siejo su mūšiu prie Nortbėjos, kur jie 190 m. pr. Kr. pirmą kartą kovėsi su Cyras-Karbo vadovaujamais romėnais.
 - susijęs iš [[objektai/asmenys/Gajus Mesijus Kvintas Decijus.md#claim-t-191400|Gajus Mesijus Kvintas Decijus]]: Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai kariavo su romėnais ir buvo germanų sąjungininkai.
 - susijęs iš [[objektai/asmenys/Galėnas.md#claim-t-191401|Galėnas]]: Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo romėnų valdose sulaikė puolimą ir sutriuškino herulus.
@@ -138,7 +136,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - susijęs iš [[objektai/grupes/Graikai.md#claim-t-189510|Graikai]]: Narbutas rašė, kad graikai, kaip ir chaldėjai, persai, egiptiečiai bei romėnai, garbino ugnį kaip dievybę.
 - susijęs iš [[objektai/grupes/Indai.md#claim-t-189413|Indai]]: Narbutas žalčių garbinimą vadino senovėje visuotiniu ir prie jo priskyrė indus, chaldėjus, egiptiečius, persus, finikiečius, graikus, romėnus ir gotus.
 - susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-188205|Krikščionys]]: Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.
-- susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185425|Langobardai]]: 703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.
 - susijęs iš [[objektai/grupes/Lietuvos rusinai.md#claim-t-189473|Lietuvos rusinai]]: Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į permainingą romėnų Fortūną.
 - susijęs iš [[objektai/grupes/Persai.md#claim-t-189428|Persai]]: Narbutas rašo, kad chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti ugnį garbino kaip dievybę.
 - susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189417|Senovės egiptiečiai]]: Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su į pragarą pagrobtos deivės dukterimi.
@@ -177,6 +174,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - susijęs iš Ilyrija: Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakrančių į Ilyriją, kur jie prie Nortbėjos kariavo su romėnais.
 - susijęs iš Italija: Narbutas teigė, kad gotai lietuviams būtų primetę ne iš Italijos miestų išguitą romėnų stabmeldystę, o krikščionybę arba šiaurės asų religiją.
 - susijęs iš Lacijus: Narbutas senovės Lacijuje užsimezgusią romėnų karalystę aiškina kaip Apvaizdos parengtą Europos apšvietos sargą.
+- susijęs iš Paestumas (vieta): Klasicizmas žavėjosi dorėniškomis Paestumo šventyklomis kaip graikų ir romėnų architektūros paminklais.
 - susijęs iš Panonija: Pasak Narbuto, Ptolemėjas nuo Vyslos žiočių iki Panonijos skaičiavo tokį pat 600 romėnų miliarijų nuotolį kaip Plinijus.
 - susijęs iš [[objektai/zodynas/Ambervales.md#claim-t-189273|Ambervales]]: Narbutas Ambervales apibūdina kaip romėnų laukų apvalymo arba pašventinimo apeigas su iškilmingomis aukomis.
 - susijęs iš [[objektai/zodynas/Kabirai Trejopa.md#claim-t-189126|Kabirai Trejopa]]: Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptiečiams, graikams, romėnams, indams, japonams, slavams ir lietuviams.
@@ -230,19 +228,19 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - susijęs iš [[objektai/daiktai/Galeros.md#claim-t-193011|Galeros]]: Herulai, negalėdami vieni atremti romėnų galerų antpuolių, kreipdavosi pagalbos į kaimyninius gotus grutingus.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92961|Herbai]]: Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92965|Herbai]]: Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-184602|Vėliavos]]: Herulai, tapę Romos sąjungininkais ir pagalbine kariuomene, daugelį amžių karo tarnyboje gynė romėnų vėliavas.
 - susijęs iš [[objektai/grupes/Atėniečiai.md#claim-t-189512|Atėniečiai]]: Pasak Narbuto cituojamo Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeigose Bakcho garbei.
 - susijęs iš [[objektai/grupes/Galai druidai.md#claim-t-189514|Galai druidai]]: Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas panašumą bendra senovės religijų ir tautų kilme.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-188188|Gotai]]: Narbutas teigė, kad dėl artimų ryšių su gotais lietuvių gentys perėmė daug religinių mitų ir apeigų, palikusių pėdsakų lietuvių mitologijoje.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-192399|Gotai]]: Narbutas rašo, kad hunų įveikti gotai ieškojo pagalbos ir prieglobsčio Rytų imperijoje, kurią anksčiau patys naikino.
 - susijęs iš [[objektai/grupes/Gvebrai.md#claim-t-189517|Gvebrai]]: Gvebrus Narbutas apibūdino kaip Zoroastro mokymo išpažinėjus, ugnyje įžiūrinčius Dievą arba pasaulio visatos sielą.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-188192|Herulai]]: Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.
-- susijęs iš [[objektai/grupes/Kentauro herbo dinastija.md#claim-t-187771|Kentauro herbo dinastija]]: Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiams, Lietuvos sostas atiteko Vyteniui.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179283|Lietuviai]]: Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188254|Lietuviai]]: Narbutas seniausiąją lietuvių religiją aiškino kaip azijinę ir indišką, dangaus kūnų bei ugnies, vandens ir žemės garbinimą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190578|Lietuviai]]: Narbutas lietuvių aukurus apibūdino kaip primityvius ir nepuošnius, išskirdamas kai kuriuos Perkūno šventyklų aukurus.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190602|Lietuviai]]: Narbutas rašė, kad lietuviai skenduolių arba plėšikų nužudytųjų kūnus laidodavo toje vietoje, kur juos rasdavo.
+- susijęs iš [[objektai/grupes/Paestumas (grupė).md#claim-t-200835|Paestumas (grupė)]]: Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų architektūros paminklais, tarp jų dorėniškomis Paestumo šventyklomis.
 - susijęs iš [[objektai/grupes/Persai.md#claim-t-189426|Persai]]: Narbutas šio dievo mitą sieja su senovės persų Oromazu ir Arimanu ir spėja iš jų kilmę.
+- susijęs iš [[objektai/grupes/Pompėja (grupė).md#claim-t-200836|Pompėja (grupė)]]: Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų architektūros paminklais, tarp jų neseniai atkasta Pompėja.
 - susijęs iš [[objektai/grupes/Roksolanai.md#claim-t-192942|Roksolanai]]: Teodoras Narbutas priima nuomonę, kad prie Rhox ir Arhox upės šakų gyvenę alanai buvo vadinami Rhox-alanais, arba roksolanais.
 - susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189420|Senovės egiptiečiai]]: Narbutas rašė, kad egiptiečiai nelaikyti religinių paslapčių išradėjais, nors savo paslaptimis pranoko kitas antikines tautas.
 - susijęs iš [[objektai/grupes/Senovės vokiečiai.md#claim-t-189546|Senovės vokiečiai]]: Narbutas rašo, kad senovės vokiečiai garbino dievaites, vadintas Pilwith, Pilwis ir Belewitt.
@@ -286,11 +284,11 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - susijęs iš [[objektai/zodynas/Užsparinė Užsparos prakeikimas.md#claim-t-189254|Užsparinė Užsparos prakeikimas]]: Narbutas nurodė turįs Vytauto laikų sienų nustatymo dokumentą, kuriame riboženklių neliečiamybė siejama su Užsparos prakeikimu ir Kristaus šventenybe.
 - susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192246|karaliukas]]: Teodoras Narbutas žodį „karaliukai“ vartoja kalbėdamas apie skirtingose šalyse atsiradusius barbarų valdovus.
 - susijęs iš [[objektai/zodynas/romėniškoji kilmė.md#claim-t-74036|romėniškoji kilmė]]: Romėniškosios kilmės teorijoje teigta, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.
-- susijęs iš [[objektai/zodynas/skitai.md#claim-t-185343|skitai]]: Paaiškinimuose nurodoma, kad A. Kojelavičius skitais vadina mongolus bei totorius.
 - susijęs iš [[objektai/zodynas/turma.md#claim-t-58879|turma]]: Terminas turma reiškia įvairaus dydžio kariuomenės arba raitelių būrį.
 - susijęs iš [[objektai/ivykiai/Roksolanų įsiveržimas į Meziją.md#claim-t-191052|Roksolanų įsiveržimas į Meziją]]: Tacito cituojamame pasakojime roksolanai išžudė dvi romėnų kohortas ir įsiveržė į Meziją.
 - susijęs iš [[objektai/daiktai/Galeros.md#claim-t-193011|Galeros]]: Herulai, negalėdami vieni atremti romėnų galerų antpuolių, kreipdavosi pagalbos į kaimyninius gotus grutingus.
 - susijęs iš [[objektai/asmenys/Galėnas.md#claim-t-191401|Galėnas]]: Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo romėnų valdose sulaikė puolimą ir sutriuškino herulus.
+- susijęs iš [[objektai/grupes/Kentauro herbo dinastija.md#claim-t-198583|Kentauro herbo dinastija]]: Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiams, Lietuvos sostas atiteko Vyteniui.
 - susijęs iš [[objektai/ivykiai/Herulų surengtas Juvavos sudeginimas Norike 477 m.md#claim-t-191062|Herulų surengtas Juvavos sudeginimas Norike 477 m]]: 477 m. herulai, Narbuto pasakojimu, Norike sudegino romėnų koloniją Juvavą prie Saurus upės, dabartinio Zalcburgo vietoje.
 - susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192039|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas sarmatų ir alanų plitimą, lėmusį gelonų bei budinų pasitraukimą nuo Dono, vadina sarmatų-alanų revoliucijomis.
 - susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192040|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbuto aiškinimu, svarbiausia gelonų ir budinų pasitraukimo priežastis buvo sarmatų ir kitų Pavolgio tautų plitimas į dešiniosios Dono pakrantės Skitiją.
@@ -301,90 +299,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - susijęs iš [[objektai/posakiai/Panašu į tiesą, kad dakai su getais, prisimindami tiek iš romėnų patirtų pralaimėjimų, pasikvietė pas save gotus, pasiryžę veikiau jungtis su jais negu būti svetimų valdomi.md#claim-t-192117|Panašu į tiesą, kad dakai su getais, prisimindami tiek iš romėnų patirtų pralaimėjimų, pasikvietė pas save gotus, pasiryžę veikiau jungtis su jais negu būti svetimų valdomi]]: Narbutas nurodo Naruševičiaus aiškinimą, kad dakai ir getai po romėnų pralaimėjimų pasikvietė gotus, bet pats su juo nesutinka.
 - susijęs iš [[objektai/asmenys/Tacitas.md#claim-t-190978|Tacitas]]: Narbutas rašo, kad Tacitas jazigus laikė ne ramiais žemdirbiais, o karinga gentimi, turėjusia rinktinę raitąją armiją.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus
-    galo romėnų rašytojas Tacitas savo veikale „Germania".
-    Jis juos vadina aisčiais _(aestii, aestiorum gentes)._ Kadan-
-    gi Pabaltijy archeologinės iškasenos nerodo jokio kultūros
-    pasikeitimo, tai reikia manyti, kad jau nuo naujojo akmens am-
-    žiaus čia bus gyvenę tie patys aisčiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbuto vertinimu, graikai ir romėnai religinėmis paslaptimis tik pamėgdžiojo egiptiečius, pranokusius visas antikines tautas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Antikoje beveik kiekviena tauta turėjo
-    savo slaptas religines šventes, maldas, aukas; kuo labiau iš­
-    prususi kuri nors tauta buvo, tuo painesnis, tamsesnis, deta­
-    lesnis darydavosi tas stabmeldiškasis religinis kultas. Egiptie­
-    čiai savo paslaptimis pranoksta visas antikines tautas; atrodo,
-    šiuo požiūriu graikai ir romėnai tik pamėgdžioja tą nuostabią
-    tautą. Vis dėlto Eleusino, Cereros, Bakcho, Gerosios deivės,
-    Hekatės, dievų Kabirų paslaptys turėjo išganingą ir išmintin­
-    196
-
-    ## Puslapis 196
-
-    gą tikslą: taisyti papročius, rodyti kelią j tikrąją dorovę, į skaistų
-    dievybės garbinimą, į neišvengiamą bausmę arba atlyginimą
-    busimajame gyvenime.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas romėnų Penates ir Lares, kaip ir lietuvių Siejmi Dewas bei Gulbi, priskyrė bendriems namų dievaičiams, globojusiems ūkio dalis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie fetišizmą
-    Visos stabmeldžių tautos turėjo įvairiais vardais vadina­
-    mus savo namų dievus. Romėnų DU Penates, Lares ir 1.1., lie­
-    tuvių Siejmi Dewas, Gulbi ir 1.1, buvo šios rūšies dievaičiai, tik
-    jie buvo visiems bendri, garbinami visų krašto žmonių, jų es­
-    mę suprasdavo ir juos įsivaizduodavo pagal kitų dievų pavyz­
-    dį, jiems skirtas maldas jungdavo su maldomis, kreipiamomis
-    apskritai į visus dievus; jų žemą kategoriją rodo tai, kad jie
-    buvo kasdieniai, globojantys tą ar kitą namų ūkio dalį, saky­
-    čiau, namų parankiniai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Narbutas rašė, kad žalčių garbinimas senovėje buvo paplitęs tarp indų, chaldėjų, egiptiečių, persų, finikiečių, graikų, romėnų ir gotų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šiuos prietarus žinojo ir Lietuvos rusinai.
-    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
-    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
-    gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
-    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-005
   santrauka: 'Narbutas nurodė, kad romėnai turėjo dievaitį Famulą, kuris žmonėms apsireikšdavo žalčiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -402,44 +316,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-
-- c-006
-  santrauka: 'Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, o Minervą - Alkida.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Senovės germanai nehervalai turėjo du dievaičius Alcius,
-    amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
-    laikų graikai ir romėnai Heraklį vadino Alkidu, Minervą -  Al­
-    kidą. Jie taip pat turėjo atskiras dievybes, vadintas Alkidėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Narbutas pažymėjo, kad kronikos romėnų ar į juos panašių atvykimą į Lietuvą datavo 48 m. pr. Kr., 57 m. po Kr. arba 401 m.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Palemonas (Palemon)
-    Didvyris, vardas, Lietuvos pajūrio šalies valdovas, atkilęs
-    su savo žmonėmis iš svetimos žemės.
-    Kronikos vienur rašė, kad romėnai arba kurie nors pana­
-    šūs į juos piliečiai atvykę į Lietuvą apie 48 metus prieš Kristų,
-    kitur -  57 metais po Kristaus, trečiur -  tos pačios eros 401
-    metais. Strijkovskis, savo papratimu nesileisdamas į jokią kri­
-    tiką, naiviai deda ištraukas iš anuomet jam žinomų kronikų,
-    kurių gana daug turėjo rankose, arba semiasi žinių iš vietos
-    padavimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
 
 - c-008
   santrauka: 'Narbutas lietuvių antspaudų naudojimą vietoj parašų lygino su romėnų praktika.'
@@ -531,38 +407,10 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   pagrindzia:
     - t-66064
 
-- id: c-171216
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Antikoje beveik kiekviena tauta turėjo
-    savo slaptas religines šventes, maldas, aukas; kuo labiau iš­
-    prususi kuri nors tauta buvo, tuo painesnis, tamsesnis, deta­
-    lesnis darydavosi tas stabmeldiškasis religinis kultas. Egiptie­
-    čiai savo paslaptimis pranoksta visas antikines tautas; atrodo,
-    šiuo požiūriu graikai ir romėnai tik pamėgdžioja tą nuostabią
-    tautą. Vis dėlto Eleusino, Cereros, Bakcho, Gerosios deivės,
-    Hekatės, dievų Kabirų paslaptys turėjo išganingą ir išmintin­
-    196
-
-    ## Puslapis 196
-
-    gą tikslą: taisyti papročius, rodyti kelią j tikrąją dorovę, į skaistų
-    dievybės garbinimą, į neišvengiamą bausmę arba atlyginimą
-    busimajame gyvenime.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188323
-
 - id: c-171217
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 200"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 200."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie fetišizmą
     Visos stabmeldžių tautos turėjo įvairiais vardais vadina­
@@ -584,8 +432,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-171218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -602,15 +449,17 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-171219
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pasak Plutarcho, pas atėniečius prijaukinti žal­
-    čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
-    vo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­
-    nėms apsireikšdavo žalčiu.
-    Per daug ilgai reikėtų vardyti visas smulkmenas, bendras
-    lietuviams ir Antikos tautoms, iš tos pačios srities.
+    Pasak Sten-
+    derio, atseit tai buvusi namų senė, sergėjanti naminius žalčius
+    ir rupūžes; ji aprėkdavusi kiekvieną įeinantį, kad nesumindy-
+    tų pieno karalienės.
+    J. F. R. kronika mini tokią rupūžę, užaugusią nepaprasto
+    dydžio, išmaitintą pienu; ji išdarinėjusi neapsakomus dalykus.
+    Ji buvo vieno lietuvių kaimiečio, gyvenusio Neringoje, arba
+    Kuršių nerijoje, namų dievaitė XVI amžiaus pirmojoje pusėje.
+  citata_rodoma: "Pasak Plutarcho, pas atėniečius prijaukinti žal­\nčiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­\nvo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­\nnėms apsireikšdavo žalčiu.\nPer daug ilgai reikėtų vardyti visas smulkmenas, bendras\nlietuviams ir Antikos tautoms, iš tos pačios srities."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -621,12 +470,11 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-171220
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 216"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 216."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Senovės germanai nehervalai turėjo du dievaičius Alcius,
     amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
-    laikų graikai ir romėnai Heraklį vadino Alkidu, Minervą -  Al­
+    laikų graikai ir romėnai Heraklį vadino Alkidu, Minervą - Al­
     kidą. Jie taip pat turėjo atskiras dievybes, vadintas Alkidėmis.
   statusas: verified
   teiginio_tipas: faktas
@@ -638,15 +486,14 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-171221
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Palemonas (Palemon)
     Didvyris, vardas, Lietuvos pajūrio šalies valdovas, atkilęs
     su savo žmonėmis iš svetimos žemės.
     Kronikos vienur rašė, kad romėnai arba kurie nors pana­
     šūs į juos piliečiai atvykę į Lietuvą apie 48 metus prieš Kristų,
-    kitur -  57 metais po Kristaus, trečiur -  tos pačios eros 401
+    kitur - 57 metais po Kristaus, trečiur - tos pačios eros 401
     metais. Strijkovskis, savo papratimu nesileisdamas į jokią kri­
     tiką, naiviai deda ištraukas iš anuomet jam žinomų kronikų,
     kurių gana daug turėjo rankose, arba semiasi žinių iš vietos
@@ -661,16 +508,19 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-171222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 401"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 401."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Užrašas virš akmenų galvų -  runomis'*.
-    Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra
-    viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­
-    ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­
-    toj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­
-    9
-    Neseckis (Herbarz Polski.
+    Šis herbas, pavadintas Krunevičiaus vardu, ži­
+    nomas ir Neseckiui.
+    Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
+    metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
+    Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
+    kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
+    strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
+    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
+    du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
+    Podbužo dvam Voluinėje už nuopelnus kare su totoriais.
+  citata_rodoma: "Užrašas virš akmenų galvų -  runomis'*.\nLietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra\nviduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­\nni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­\ntoj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­\n9\nNeseckis (Herbarz Polski."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -681,21 +531,22 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-175246
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 172"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 172."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kai kartaginietis
-    pamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­
-    rodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats
-    prarado savo laivą ir pražudė savo seklį, tačiau buvo už
-    lai saviškių dosniai apdovanotas1.
-    175
-    Ilgo imperatoriaus Augusto valdymo metais geografi­
-    jos tyrinėjimas padarė geroką pažangą: šis Romos val­
-    dovas pats rašė traktatus apie geografiją, iš visur rinko
-    žinias, pasitelkė matematikus2. Taigi nėra abejonių, kad
+    Taigi nėra abejonių, kad
     valstybės valdžia turėjo tam tikrų tikslių žinių apie jūras
-    ir kraštus, esančius į šiaurę nuo Elbės.
+    ir kraštus, esančius į šiaurę nuo Elbės. Tuo tarpu moksli­
+    ninkams šios žinios veikiausiai buvo neprieinamos. Ant­
+    rajame krikščioniškosios eros amžiuje Dionyzas iš Cha-
+    rakso dar nemokėjo deramai pažymėti Aldesko ir Panti-
+    kapo upių tėkmės. Jis sakė, kad jų versmės nežinomos, gal
+    ištekančios iš Ritėjų kalnų, be to, jis teigė, kad antra
+    šiauresnė už pirmą, o jų vandenys susisiekia su Baltijos
+    jūra. į šiaurę Europa yra susiaurėjusi. Šie pasakiški, t. y.
+    Rifėjų, kalnai skyrė į rytus tekančius Volgos, Dono, Dnep-
+    ro vandens baseinus nuo Dauguvos, Nemuno, Vyslos ir
+    kitų upių, bėgančių į vakarus3.
+  citata_rodoma: "Kai kartaginietis\npamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­\nrodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats\nprarado savo laivą ir pražudė savo seklį, tačiau buvo už\nlai saviškių dosniai apdovanotas1.\n175\nIlgo imperatoriaus Augusto valdymo metais geografi­\njos tyrinėjimas padarė geroką pažangą: šis Romos val­\ndovas pats rašė traktatus apie geografiją, iš visur rinko\nžinias, pasitelkė matematikus2. Taigi nėra abejonių, kad\nvalstybės valdžia turėjo tam tikrų tikslių žinių apie jūras\nir kraštus, esančius į šiaurę nuo Elbės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -708,26 +559,52 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    149
-
-    ## Puslapis 147
-
-    nes pas juos randamas1“. Sis autorius, kruopščiausiai rin­
-    kęs įvairias žinias iš retų raštų, pats lankėsi prie Elbės,
-    vadovaudamas romėnų kariuomenei, be to, buvo visiškai
-    atsidavęs gamtos tyrinėjimui ir neabejotinai turėjo progos
-    susipažinti su to meto mokslininkų požiūriais ¡bei sufor­
-    muoti savo nuomonę; anot jo, tai yra nežinomo medžio
-    sakai.
-    151
-    Naujųjų laikų gamtos tyrinėtojai ligi šiol nesutarė dėl
-    gintaro prigimties ir kilmės.
+    Iš įvairių prielaidų įtikina­
+    miausia atrodytų ta, kad ši medžiaga sunkiasi iš jūros
+    dugne esančių uolų kaip gamtinė derva, kuri vėliau kietė­
+    ja vandenyje; tai įrodinėja įvairūs stebėjimai, kurių patei­
+    kimas užimtų pernelyg daug vietos. Bet visa tai paverčia
+    niekais vienas klausimas: iš kur patenka tie gintare ran­
+    dami daiktai ir vabzdžiai? Smėlio, akmenukų, vandens
+    lašų, samanų, lapų, eglės spyglių, musių, bičių, uodų,
+    įvairių kirmėlaičių jūroje pasitaiko labai retai. Kai kurie
+    vabzdžiai ramiai susitaikė su savo likimu, kiti iš baimės
+    mėgino gelbėtis ir, įbridę į klampią masę, taip ir sustin­
+    go, be to, pasitaiko klampaus skysčio užkluptų poravimosi
+    momentu vabzdžių.
+  citata_rodoma: "149\n\n## Puslapis 147\n\nnes pas juos randamas1“. Sis autorius, kruopščiausiai rin­\nkęs įvairias žinias iš retų raštų, pats lankėsi prie Elbės,\nvadovaudamas romėnų kariuomenei, be to, buvo visiškai\natsidavęs gamtos tyrinėjimui ir neabejotinai turėjo progos\nsusipažinti su to meto mokslininkų požiūriais ¡bei sufor­\nmuoti savo nuomonę; anot jo, tai yra nežinomo medžio\nsakai.\n151\nNaujųjų laikų gamtos tyrinėtojai ligi šiol nesutarė dėl\ngintaro prigimties ir kilmės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194864
+
+- id: c-179226
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Būdavo aptinkamos didelių upių žiotys, būdavo
+    keliaujama jomis aukštyn, bet visa tai nesuteikdavo pa­
+    kankamai medžiagos nupiešti Siaurės Europos žemėlapį,
+    atitinkantį tikrąjį vaizdą. Pirmieji geografijos žemėlapiai
+    pernelyg priartindavo Vakarų jūras prie Juodosios jūros,
+    iš to išeidavo, kad Galija buvo vos ne prie vieno dieno­
+    vidžio su Skitija, o Baltijos jūra įsiterpdavo tarp jų. Iš
+    to Bazilija, arba šiandienė Semba, buvo vaizduojama čia
+    pat, virš Galijos. Tai, ką čia pateikėme, įrodė ir parašė
+    Diodoro amžininkas Strabonas: „Visas žemynas, esąs už
+    Elbės upės, aukštyn net iki didelės jūros yra dar visiškai
+    nežinomas, nes romėnai niekad nenuplaukė toliau Elbės
+    ir niekas dar neapvažiavo sausuma tų tolimų plotų“1. Ki­
+    tur jis visiškai pasitiki Pitėjo aprašymais2.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197515
 
 ## Ryšiai
 - Puolė Romėnai: [[objektai/grupes/Herulai]]

@@ -35,29 +35,6 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   pagrindžia:
     - c-03011
 - susijęs iš Grabova: Lietuvos vyriausybės siūlyta laikinoji demarkacijos linija turėjo eiti per Grabovą, Augustavą ir Stabiną.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo tarpu lenkai, prancūzų padedami, sutvar-
-    kė savo kariuomenę, atsigavo ir pradėjo stumti atgal bolševikus,
-    buvusius jau prie Varšuvos. Nepaisydami Lietuvos neutrali-
-    teto pareiškimo abiejų kariaujančių pusių atžvilgiu, jie kartu
-    puolė ir lietuvių įgulas, esančias Gardino ir Augustavo ruože.
-    Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis
-    su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-
-    rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
-
-    kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-03011

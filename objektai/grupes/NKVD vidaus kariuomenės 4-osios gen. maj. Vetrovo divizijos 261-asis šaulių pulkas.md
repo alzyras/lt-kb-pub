@@ -41,25 +41,6 @@ NKVD pajėgos NKVD vidaus kariuomenės 4-osios gen. “ Mūšis 1945 m. kovo pra
   teiginys: "NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas veikė kartu su vadinamuoju specialiuoju daliniu."
   pagrindžia:
     - c-42878
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    NKVD pajėgos
-
-    NKVD vidaus kariuomenės 4-osios
-
-    gen. maj. Vetrovo divizijos 261-asis šaulių
-    pulkas ir vadinamasis spec. dalinys (apie
-    800 žmonių).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -50,34 +50,6 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
   teiginys: "J. Eretas parašė veikalą „Kazys Pakštas. Tautinio šauklio odisėja“, išleistą Romoje 1970 m."
   pagrindžia:
     - c-30556
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    J. Eretas, Kazys Pakštas. Tautinio Šauklio Odisėja,
-    XVI-384 psl., Roma 1970. 14 dol.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    8 dol.
-    J. Eretas, Valančiaus šviesa už marių. Pranciškaus Juro
-    ir jo bendrininkų gyvenimas bei veikla, paruošta spaudai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -45,27 +45,6 @@ Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl 
 - susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-24564|Mindaugo karūnacija (1253 m.)]]: Mindaugo vainikavimas šaltinyje aiškinamas kaip valstybės susikūrimo užbaigimas, nes Lietuvą pripažino to meto pasaulis.
 - susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-26855|Mindaugo karūnacija (1253 m.)]]: Mindaugas po karūnacijos tapo popiežiaus, o ne imperatoriaus vasalu ir gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.
 - susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-26856|Mindaugo karūnacija (1253 m.)]]: Mindaugo pasiekti diplomatiniai laimėjimai šaltinyje vadinami pirma tarptautine Lietuvos diplomatijos pergale.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
-    gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­
-    vinės rusų kalbos.
-    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
-    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
-    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
-    m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
-    naujas įpėdinis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-34128

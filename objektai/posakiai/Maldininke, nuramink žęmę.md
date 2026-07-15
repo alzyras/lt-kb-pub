@@ -42,50 +42,13 @@ Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, 
   teiginys: "Petras Dusburgietis aiškina, kad „Fridlando“ vardas lotyniškai reiškia „Maldininke, nuramink žęmę“."
   pagrindžia:
     - c-167421
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Fridlando“ vardas lotyniškai reiškė posakį „Maldininke, nuramink žęmę“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Taigi
-    ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų
-    mažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia
-    „Maldininke, nuramink žęmę“. Abu vardai iš tiesų labai jiems tiko. Jie mat labai pasitarnavo
-    (Dotnuvos apyl. upė), Dubysos intaką Mukė, resp.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Petras Dusburgietis aiškina, kad „Fridlando“ vardas lotyniškai reiškia „Maldininke, nuramink žęmę“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie karo laivus ir markgrafo pasitraukimą
-
-      Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių. Taigi
-    ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų
-    mažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia
-    „Maldininke, nuramink žęmę“. Abu vardai iš tiesų labai jiems tiko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-59756
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 76"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 76."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Taigi
     ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų
@@ -103,8 +66,7 @@ Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, 
 - id: c-167421
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 76"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 76."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie karo laivus ir markgrafo pasitraukimą
 

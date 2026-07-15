@@ -47,27 +47,6 @@ Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. Valstyb
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170082|Juozas Tūbelis]]: Juozas Tūbelis 7,5 metų vadovavo Ministrų Tarybai ir garantavo vyriausybių stabilumą bei vieningą ministrų politiką.
 - susijęs iš [[objektai/ivykiai/Valstybės gynimo tarybos kariuomenės perorganizavimo plano priėmimas (1935 m.).md#claim-t-20525|Valstybės gynimo tarybos kariuomenės perorganizavimo plano priėmimas (1935 m.)]]: Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą, pagal kurį apie 20 proc. biudžeto turėjo būti skirta krašto gynybai.
 - susijęs iš Valstybės gynimo tarybos kariuomenės perorganizavimo planas (1935 m.): Valstybės gynimo tarybos priimtas kariuomenės perorganizavimo planas numatė apie 20 proc. biudžeto skirti krašto gynybai.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Panašiai A. Smetona
-    išrinktas prezidentu ir 1938 m. lapkričio 14 d. Kai Vokietijoje 1933 m.
-    į valdžią atėjo A. Hitleris, o 1934 m. po perversmų įsitvirtino autorita-
-    riniai režimai Estijoje ir Latvijoje, regione A. Smetonos režimas atrodė
-    visai liberalus.
-    Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m.
-    Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą –
-    apie 20 proc. biudžeto teko skirti krašto gynybos reikalams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22793

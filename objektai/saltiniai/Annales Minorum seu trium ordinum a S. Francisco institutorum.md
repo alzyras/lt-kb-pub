@@ -60,57 +60,6 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
   teiginys: "Analų pasakojime minima 1341 m. gegužės 24 d. Vilniuje nužudytų 36 pranciškonų versija."
   pagrindžia:
     - c-55616
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kry­
-    žiaus bažnyčios, sodyboje, vėliau ta­
-    pusioje Vyskupo rūmais. Jie visi,
-    regis, buvo nukankinti tais pačiais,
-    1333 metais, nušalinus Goštautą. To­
-    liau rašoma, jog, remiantis Baroni-
-    j a u s nuomone, 36 kiti pranciško­
-    nai 1341 metų gegužės 24 dieną bu­
-    vę Vilniuje nužudyti, tarp jų ir pats
-    Petras Goštautas, kuris, atsisakęs
-    vaivadystės, esą apsivilkęs pranciš­
-    kono abitą, o vėliau netgi tapęs pir­
-    muoju Vilniaus vyskupu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Waddyngas,  Mažesniųjų brolių
-    ordino istorijos autorius, ir jo komen­
-    tatorius Antoni Melissanius
-    de Macro pasakoja, kad dar 1333
-    metais (prieš Gedimino mirtį) Pet­
-    ras Goštautas, būdamas Podolės vai­
-    vada, iš Rusios ir Podolės atkvietęs
-    į Vilnių keturiolika Šv. Pranciškaus
-    regulos vienuolių vietoje anksčiau,
-    1325 metais, atvykusių su popie­
-    žiaus pasiuntinybe ir jau mirusių ar
-    įvairiais laikais pagonių nukankin­
-    tų, ir apgyvendino juos prie Šv. Kry­
-    žiaus bažnyčios, sodyboje, vėliau ta­
-    pusioje Vyskupo rūmais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

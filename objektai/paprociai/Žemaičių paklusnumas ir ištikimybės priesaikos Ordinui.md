@@ -71,26 +71,6 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
   teiginys: "1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto vietų gyventojai pareiškė paklusnumą Ordinui."
   pagrindžia:
     - c-14494
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl ir
-    nenuostabu, kad žemaičiai savo vakarykščiams priešams
-    ėmė daryti ištikimybės priesaikas. Taip 1384 metų vasa­
-    rio mėn. pradžioj Žemaičių krašto (Medininkų, Vangių ir
-    kt.) gyventojai pareiškė Ordinui savo paklusnumą. Iš tų gy­
-    ventojų pusės buvo tai pirmas savarankiškas mėginimas pasi­
-    duoti naujai jėgai^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -113,5 +93,5 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11636
     - t-11635
+    - t-11636

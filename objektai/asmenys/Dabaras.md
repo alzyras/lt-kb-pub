@@ -39,7 +39,6 @@ Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo 
 - susijęs iš [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės.md#claim-t-91915|Kristburgo brolių smūgis Divanui prie Gubros upės]]: Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.
 - susijęs iš [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės.md#claim-t-91915|Kristburgo brolių smūgis Divanui prie Gubros upės]]: Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Dabaras buvo Divano giminaitis, nukautas per Divano užpuolimą prie Gubros upės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,12 +59,19 @@ Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo 
 - id: c-60891
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 138"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    silpna kariuomene prie Gubros upės425. Ten jie narsiai užpuolė Divaną ir nukovė vieną
-    jo giminaitį, vardu Dabaras, o visus jo žmones išžudė. Vis dėlto Divanas su nedideliu
-    būreliu savo karių gėdingai paspruko.
+    Kokia nuostabi, kokia dosni dievo malonė, mielaširdingai
+    suteikta broliams bei kitiems krikščionims ne tik šioje pilyje, bet ir visoje Prūsijos žemėje
+    ir leidusi jiems vargti šį beveik nepakeliamą vargą, be galo priešingą žmogaus gyvenimo
+    reikmėms, taip kantriai ir nuolankiai, kad jie ne tik neliūdėjo, bet visada džiūgavo,
+    tikėdamiesi galop pelnysią rojaus linksmybes.
+    146 (141). Apie pagirtiną brolio Engelkės gyvenimą Kristburgo pilyje
+    Tuo metu mūsų minėtoje Kristburgo pilyje gyveno brolis Engelkė, gimęs Vestfalijoje,
+    nuostabaus pamaldumo ir begalinės savitvardos vyras, visa širdimi pasišventęs dievui, be
+    kitų dorovingų darbų garsėjęs dar ir tuo, kad ant savo nuogo kūno nedėvėjo marškinių,
+    o geležinius grandininius šarvus; iki savo mirties jis sudėvėjo ketverius tokius šarvus,
+    visiškai suėstus metų ir rūdžių.
   citata_rodoma: "Ten jie narsiai užpuolė Divaną ir nukovė vieną\njo giminaitį, vardu Dabaras, o visus jo žmones išžudė. Vis dėlto Divanas su nedideliu\nbūreliu savo karių gėdingai paspruko."
   statusas: verified
   teiginio_tipas: faktas

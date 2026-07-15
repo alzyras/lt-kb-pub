@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "1296 m. žiemą Balgos komtūras galbūt tame pačiame žygyje užėmė Gardino priešpilį."
   pagrindžia:
     - c-33445
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pradinis žygis nepasisekė,
-    nes « gynėjai taip smarkiai priešinosi, kad broliai, nieko nepadarę,
-    buvo priversti grįžti »^7. Gal tame pat žygyje (1296 žiemą) Balgos
-    komtūras užėmė Gardino priešpilį^8. Ordino kariuomenei pačias
-    pagonių pilis retai teįveikiant, dažnai pasisekdavo prieiti prie jų
-    priešpilių ir juos sunaikinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

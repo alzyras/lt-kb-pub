@@ -40,39 +40,6 @@ media_all_json: |-
   teiginys: "Johannesas Voigtas rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo sergančiai žmonai Julijonai."
   pagrindžia:
     - c-84290
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Johannesas Voigtas rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo sergančiai žmonai Julijonai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pasta­
-    rasis varį (miedź - mied') palaikė me­
-    dumi (miód).
-    53
-    F o i g t a s savo Marienburgo miesto
-    ir pilies istorijoje (Geschichte Marien-
-    burgs, der Stadt und des Haupthauses
-    des deutschen Ritter Ordens in Preus-
-    sen, p. 241) rašo, kad 1426 metais di­
-    dysis kunigaikštis Vytautas prašė di­
-    džiojo magistro rūmų gydytojo
-    (Leibarzt), nes jo žmona Julijona, ku­
-    rią jis vadina savo mylima šeiminin­
-    ke (seine liebe Hausfrau), jau metai
-    kaip serga, ir kad liga kaip tik šiuo
-    metu taip paūmėjo, jog visiškai nie­
-    ko negalinti valgyti. Kitame laiške
-    Lenkijos karalius dėkoja didžiajam
-    magistrui už jam atsiųstą rūmų gy­
-    dytoją ir giria didelį jo patyrimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

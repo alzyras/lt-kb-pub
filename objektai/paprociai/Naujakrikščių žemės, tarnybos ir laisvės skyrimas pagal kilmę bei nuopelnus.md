@@ -56,31 +56,8 @@ Nenurodyta
   pagrindžia:
     - c-63447
     - c-63448
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Aukštos kilmės naujakrikščiai gaudavo žemės be prievolių, o nekilmingieji turėjo tarnauti broliams pagal Prūsijos papročius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei
-    libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis
-    turi tarnauti broliams taip, kaip to reikalauja po šiai dienai Prūsijoje išlikę papročiai; vis
-    dėlto, paisydami jų nuopelnų ar nusižengimų, broliai gali ir kitaip elgtis, pavyzdžiui, negi
-    nekilmingasis, atskalūnybės metais ar kitokių tikėjimui iškilusių negandų atvejais likęs
-    ištikimas tikėjimui ir broliams, nėra taip didžiai nusipelnęs, kad iš nekilmingųjų būtų
-    pakeltas į garbingus kilminguosius, o vergovė jam pakeista pelnyta laisve? Žinoma, kad
-    taip. Priešingais atvejais broliai irgi tinkamai elgėsi. Dėl to Prūsijoje daug naujakrikščių,
-    kurių protėviai gimę iš kilmingų šeimų, tačiau jie patys dėl nusikaltimų, padarytų tikėjimui
-    bei tikintiesiems, buvo palaikyti prastos kilmės žmonėmis, tuo tarpu kiti, kurių tėvai
-    buvę nekilmingi, pelnė laisvę už ištikimą tarnybą tikėjimui ir broliams518.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Aukštos kilmės naujakrikščiai gaudavo žemės be prievolių, o nekilmingieji turėjo tarnauti broliams pagal Prūsijos papročius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -107,8 +84,7 @@ Nenurodyta
 - id: c-63447
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 172"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 172."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei
     libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis
@@ -132,18 +108,20 @@ Nenurodyta
 - id: c-63448
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 172"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 172."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tiems, kurie, išsižadėję stabmeldystės, priima Kristaus tikėjimą, broliai teikia štai šias
-    malones. Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei
-    libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis
-    turi tarnauti broliams taip, kaip to reikalauja po šiai dienai Prūsijoje išlikę papročiai; vis
-    dėlto, paisydami jų nuopelnų ar nusižengimų, broliai gali ir kitaip elgtis, pavyzdžiui, negi
-    nekilmingasis, atskalūnybės metais ar kitokių tikėjimui iškilusių negandų atvejais likęs
-    ištikimas tikėjimui ir broliams, nėra taip didžiai nusipelnęs, kad iš nekilmingųjų būtų
-    pakeltas į garbingus kilminguosius, o vergovė jam pakeista pelnyta laisve? Žinoma, kad
-    taip.
+    Apie Gardino pilies sunaikinimą
+    1284 viešpaties metais tas pats magistras, kuriam niekad nebuvo gana karų su
+    netikėliais, sutelkė stiprią kariuomenę ir vasarą su vadovu Skomantu patraukė prieš
+    Gardino pilį520; persikėlęs per Nemuną, jis išdėstė savo šaulius tinkamose vietose ir
+    pristatė prie sienų kopėčias; užvirė tokia žiauri kova, kad bailesnieji nė nedrįso į ją
+    žiūrėti. Vieniems drąsiai puolant, kitiems atkakliai ginantis, viena ir kita šalis neteko
+    daugybės [karių] užmuštaisiais ar sužeistaisiais. Galop iš dievo malonės broliai įsiveržė
+    į pilį ir ją sudegino, o visus [pilėnus] išžudė arba paėmė į nelaisvę. Po to tūkstantis
+    aštuoni šimtai vyrų užpuolė šios pilies apylinkes, jas nusiaubė, degindami bei piešdami,
+    ir patraukė namo su didžiausiu grobiu, paėmę daug žmonių į nelaisvę ar išžudę. Šiame
+    valsčiuje jie nukovė vieną bartą, pabėgusį iš Pagudės ir paskutiniosios atskalūnybės
+    metais paėmusį į nelaisvę Kristburgo ir Elbingo komtūrus su jų šeimynomis.
   citata_rodoma: "Tiems, kurie, išsižadėję stabmeldystės, priima Kristaus tikėjimą, broliai teikia štai šias\nmalones. Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei\nlibera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis\nturi tarnauti broliams taip, kaip to reikalauja po šiai dienai Prūsijoje išlikę papročiai; vis\ndėlto, paisydami jų nuopelnų ar nusižengimų, broliai gali ir kitaip elgtis, pavyzdžiui, negi\nnekilmingasis, atskalūnybės metais ar kitokių tikėjimui iškilusių negandų atvejais likęs\ništikimas tikėjimui ir broliams, nėra taip didžiai nusipelnęs, kad iš nekilmingųjų būtų\npakeltas į garbingus kilminguosius, o vergovė jam pakeista pelnyta laisve? Žinoma, kad\ntaip."
   statusas: verified
   teiginio_tipas: faktas

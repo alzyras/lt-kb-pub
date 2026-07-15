@@ -15,14 +15,14 @@ datos:
   - '2026 m.'
 date_start: '1447'
 date_end: '2026'
+amziai:
+  - 'XV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - socialinis-terminas
   - sąvoka
-amziai:
-  - 'XV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -102,9 +102,9 @@ Nenurodyta
   pagrindžia:
     - c-100721
 
-<a id="claim-t-108582"></a>
+<a id="claim-t-108576"></a>
 - t-006
-  global_id: t-108582
+  global_id: t-108576
   teiginys: "Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus."
   pagrindžia:
     - c-100726
@@ -130,22 +130,15 @@ Nenurodyta
   pagrindžia:
     - c-00271
 
-<a id="claim-t-108582"></a>
-- t-010
-  global_id: t-108582
-  teiginys: "Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus."
-  pagrindžia:
-    - c-100726
-
 <a id="claim-t-108583"></a>
-- t-011
+- t-010
   global_id: t-108583
   teiginys: "Rusijos pralaimėjimas Krymo kare paskatino carą Aleksandrą II rengtis baudžiavos panaikinimui."
   pagrindžia:
     - c-100725
 
 <a id="claim-t-193138"></a>
-- t-012
+- t-011
   global_id: t-193138
   teiginys: "Labai dažnai bajorai versdavo valstiečius pirkti tam tikrą kiekį degtinės, kaip kad, pav., vertė eiti baudžiavą ar mokėti mokesčius."
   pagrindžia:
@@ -190,8 +183,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-108577
     - t-108568
+    - t-108577
 
 - id: c-24661
   redaktorius: "A. Šapoka"
@@ -209,8 +202,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-108579
     - t-108574
+    - t-108579
 
 - id: c-100721
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -274,7 +267,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108576
-    - t-108582
 
 - id: c-100727
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

@@ -43,24 +43,6 @@ Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Korner
   teiginys: "Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą."
   pagrindžia:
     - c-84041
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tas pareiškimas prieštarauja Koje-
-    1 a v i č i a u s (p. 272), Hermano Kornerio (Chron. p. 1006),
-    Alberto Krantzo (Wandal. L. VIII, c. 9) teiginiams, esą
-    Gediminas buvo prisiekęs, kad nori gyventi ir mirti savo
-    tėvų tikėjimą išpažindamas!
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

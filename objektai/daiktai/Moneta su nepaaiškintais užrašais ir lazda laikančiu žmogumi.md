@@ -50,39 +50,19 @@ Nenurodyta
   teiginys: "Narbutas manė, kad nepaaiškintų užrašų moneta pagal kaldinimo būdą, sidabrą ir pavidalą tikriausiai yra to paties amžiaus kaip kita lyginta moneta."
   pagrindžia:
     - c-172543
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas manė, kad nepaaiškintų užrašų moneta pagal kaldinimo būdą, sidabrą ir pavidalą tikriausiai yra to paties amžiaus kaip kita lyginta moneta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iki šiol negalėjau gauti užrašų paaiškinimo, nors stengiau­
-    si ir siunčiau piešinius įvairiems mokovams, lyginau su įvai­
-    riais raidynais, esančiais išleistuose veikaluose.
-    Kaldinimo būdas, sidabras ir pavidalas -  visai tokie, kaip
-    ir kitoje monetoje -  tikriausiai rodo jų tą patį amžių. Net gali
-    būti susiję su kuriuo nors senovės Šiaurės Europos valdovu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172543
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 251"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 251."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iki šiol negalėjau gauti užrašų paaiškinimo, nors stengiau­
     si ir siunčiau piešinius įvairiems mokovams, lyginau su įvai­
     riais raidynais, esančiais išleistuose veikaluose.
-    Kaldinimo būdas, sidabras ir pavidalas -  visai tokie, kaip
-    ir kitoje monetoje -  tikriausiai rodo jų tą patį amžių. Net gali
+    Kaldinimo būdas, sidabras ir pavidalas - visai tokie, kaip
+    ir kitoje monetoje - tikriausiai rodo jų tą patį amžių. Net gali
     būti susiję su kuriuo nors senovės Šiaurės Europos valdovu.
   statusas: verified
   teiginio_tipas: faktas

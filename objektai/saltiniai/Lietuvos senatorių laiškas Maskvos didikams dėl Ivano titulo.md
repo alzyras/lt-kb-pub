@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiui prisiimti naujo titulo, bet atsakymo nesulaukė.
+Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiui prisiimti naujo titulo, bet atsakymo nesulaukė. Kojelavičius Ivaną Vasiljevičių vaizduoja kaip nesiekusį taikos su Lietuva ir svajojusį apie viešpatavimą visoje Rusioje.
 
 ## Teiginiai
 
@@ -34,57 +34,38 @@ Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiu
   teiginys: "Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiui prisiimti naujo titulo, bet atsakymo nesulaukė."
   pagrindžia:
     - c-169700
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiui prisiimti naujo titulo, bet atsakymo nesulaukė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nieko nepasiekę, pasiun­
-    tiniai grįžo namo: mat Vasiljevičius tarė, kad visokia
-    teisė priklausanti nuo jo noro ir galios, o kaltę dėl sa­
-    vo siaubiamųjų žygių suvertė Jurgiui Glebavičiui, aiš­
-    kindamasis buvęs priverstas sutramdyti jo niokojamus
-    išpuolius. Taip pat ir žymiausi lietuvių senatoriai laišku
-    kreipėsi į Maskvos didikus, ragindami neleisti kuni­
-    gaikščiui prisiimti naujo titulo, bet nesusilaukė jokio
-    atsakymo. Visiems buvo aišku, kad jų siunčiamos pa­
-    siuntinybės rodo jų baimę ir kad dėl to į puikybę paki­
-    lęs priešas be galo suįžūlėjo, kad reikia pradėti ginkluo­
-    tą puolimą, tačiau tokį, kad jis nesibaigtų pralaimėjimu
-    ir neatneštų Lietuvai žalos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196355"></a>
+- t-002
+  global_id: t-196355
+  teiginys: "Kojelavičius Ivaną Vasiljevičių vaizduoja kaip nesiekusį taikos su Lietuva ir svajojusį apie viešpatavimą visoje Rusioje."
   pagrindžia:
-    - t-001
+    - c-169700
 
 ## Citatos
 
 - id: c-169700
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 544"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 544."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Nieko nepasiekę, pasiun­
-    tiniai grįžo namo: mat Vasiljevičius tarė, kad visokia
-    teisė priklausanti nuo jo noro ir galios, o kaltę dėl sa­
-    vo siaubiamųjų žygių suvertė Jurgiui Glebavičiui, aiš­
-    kindamasis buvęs priverstas sutramdyti jo niokojamus
-    išpuolius. Taip pat ir žymiausi lietuvių senatoriai laišku
-    kreipėsi į Maskvos didikus, ragindami neleisti kuni­
-    gaikščiui prisiimti naujo titulo, bet nesusilaukė jokio
-    atsakymo. Visiems buvo aišku, kad jų siunčiamos pa­
-    siuntinybės rodo jų baimę ir kad dėl to į puikybę paki­
-    lęs priešas be galo suįžūlėjo, kad reikia pradėti ginkluo­
-    tą puolimą, tačiau tokį, kad jis nesibaigtų pralaimėjimu
-    ir neatneštų Lietuvai žalos.
+    Ta­
+    čiau Ivanui nė kiek nerūpėjo
+    Iva n a s
+    V a silje v ič iu s
+    taika su Lietuva. Pastatęs Li-
+    p a siv a d in a v is o s Ru-
+    vonijos pasienyje prie Nar­
+    sios caru
+    vos garsią pilį, nuo jo vardo
+    jusią būti savotišku raktu į Livoniją bei suomių žemes,
+    jis pradėjo svajoti apie viešpatavimą visoje Rusioje. Jo
+    slaptus sumanymus išdavė neįprastinis titulas laiške
+    Aleksandrui.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186339
+    - t-196355

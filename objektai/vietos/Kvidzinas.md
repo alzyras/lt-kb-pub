@@ -34,8 +34,8 @@ Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėl
   teiginys: "Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėliau išardytą vandens srautų."
   pagrindžia:
     - c-175651
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėliau išardytą vandens srautų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -60,16 +60,22 @@ Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėl
 - id: c-175651
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 356"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tą patį įrodo ir vietovardžiai, kurie pietuose ir ry­
+    Iš to tvir­
+    tovių išsidėstymo jau galima daryti išvadą, jog rytinė ir
+    šiaurinė Pamedės dalys buvo gerai apgyvendintos, o šiau­
+    rėje plytėjusios žemės šalia Malborko net iki Elbliongo,
+    taip pat Nogato ir Vyslos tarpupis buvo Labai mažai ap­
+    gyvendinta arba čia apskritai nebuvo nuolatinių gyven­
+    tojų. Tą patį įrodo ir vietovardžiai, kurie pietuose ir ry­
     tuose daugiausia yra senovės prūsų, o šiaurėje — beveik
     visi vokiečių kilmės. Vakaruose, kur šios provincijos sie­
     na ėjo Vysla, jai priklausė įvairios salos, kurias vėliau
     išardė vandens srautai. Tokia sala buvo Kvidzinas, Qui-
     dino, taip pat Zantiro, Berno ir kitos, ligi šiol egzistuo­
     jančios salos.
+  citata_rodoma: "Tą patį įrodo ir vietovardžiai, kurie pietuose ir ry­\ntuose daugiausia yra senovės prūsų, o šiaurėje — beveik\nvisi vokiečių kilmės. Vakaruose, kur šios provincijos sie­\nna ėjo Vysla, jai priklausė įvairios salos, kurias vėliau\nišardė vandens srautai. Tokia sala buvo Kvidzinas, Qui-\ndino, taip pat Zantiro, Berno ir kitos, ligi šiol egzistuo­\njančios salos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

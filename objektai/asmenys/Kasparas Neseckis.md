@@ -32,32 +32,9 @@ Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą he
 <a id="claim-t-191212"></a>
 - t-001
   global_id: t-191212
-  teiginys: "Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą herbą."
+  teiginys: 'Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą herbą.'
   pagrindžia:
     - c-174094
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą herbą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
-    Lietuvoje šeimos herbai egzistavo70.
-    500
-
-    ## Puslapis 510
-
-    70 Malachovskis savo bajoriškų pavardžių rinkinyje (neaišku,
-    kokiu šaltiniu remdamasis) pateikė žinių apie tai, kaip Gediminas
-    suteikė herbą Krunevičiui. Neseckiui šis herbas, pavadintas Kru-
-    nevičiaus vardu, yra žinomas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -76,9 +53,9 @@ Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą he
     kokiu šaltiniu remdamasis) pateikė žinių apie tai, kaip Gediminas
     suteikė herbą Krunevičiui. Neseckiui šis herbas, pavadintas Kru-
     nevičiaus vardu, yra žinomas.
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191212
+    - t-001

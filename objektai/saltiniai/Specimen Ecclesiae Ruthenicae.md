@@ -34,30 +34,6 @@ Daugiau apie tai žinių yra įdėję: K u 1 c z y ń sk i Specimen Ecclesiae Ru
   teiginys: "Specimen Ecclesiae Ruthenicae pateikė daugiau žinių apie Vytauto ryšių nutraukimą su Maskvos metropolitu Fotijumi."
   pagrindžia:
     - c-84454
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Specimen Ecclesiae Ruthenicae pateikė daugiau žinių apie Vytauto ryšių nutraukimą su Maskvos metropolitu Fotijumi.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytautas užkirto tam ke­
-    lią, nutraukdamas iš karto visus ry­
-    šius su naujai išrinktu Maskvos
-    metropolitu Fotijumi ir paliepdamas
-    vyskupams, susirinkusiems į Nau­
-    garduką, išrinkti iš savo tarpo Lie­
-    tuvai atskirą metropolitą. Daugiau
-    apie tai žinių yra įdėję: K u 1  c z y ń s-
-    k i Specimen Ecclesiae Ruthenicae,
-    Pars. III, p. 207, ir Append, ad specim.
-    p. 75.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,23 +35,6 @@ Karas susmulkėjo į eilę atskirų susirėmimų ir pilių apgulimų, kurių tik
   teiginys: "Per karą iš apgultų pilių buvo paimtas tik Golubovas."
   pagrindžia:
     - c-33851
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pusbroliams ėmus kariauti, ordino būriai silpnai tegalėjo
-    priešintis, ir jie užsidarinėjo pilyse.
-    Karas susmulkėjo į eilę atskirų susirėmimų ir pilių apgulimų,
-    kurių tik viena (Golubovas) tebuvo paimta. Du mėnesiu lietuvių
-    ir lenkų kariuomenės naikino kryžiuočių valdas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

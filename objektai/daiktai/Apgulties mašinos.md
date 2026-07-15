@@ -66,25 +66,6 @@ Nenurodyta
   teiginys: "1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas."
   pagrindžia:
     - c-163160
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    O 1272 m. jis iš žiemgalių atsiėmė porą per sukilimą kri­
-    tusių pilių, būtent, Tervetę ir Mežotnę, ir pajungtuosius privertė mo­
-    kėti duoklę. 1274 m. pačiame Lietuvos pasienyje pastatytasis Daug­
-    pilis turėjo palengvinti ordino žygius į lietuvių žemes. Po nepasise­
-    kusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­
-    šinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -64,42 +64,6 @@ Nenurodyta
   teiginys: "Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse."
   pagrindžia:
     - c-00235
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo
-    traukti minios maldininkų. Bet netrukus naujajai Jeruzalės valstybei
-    vėl ėmė grėsti turkų pavojus, ir maldininkams darėsi labai pavojinga
-    ten keliauti. Todėl visos didesniosios valstybės ten ėmė steigti spe-
-    cialias brolijas savo maldininkams globoti. Iš pradžių tokios brolijos
-    globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
-    kelyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl visos didesniosios valstybės ten ėmė steigti spe-
-    cialias brolijas savo maldininkams globoti. Iš pradžių tokios brolijos
-    globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
-    kelyje. Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
-    turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
-    virto kariaujančiųjų riterių ordinais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

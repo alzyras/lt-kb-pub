@@ -73,6 +73,7 @@ Nenurodyta
   teiginys: "Vyžas pindavo iš suraitytų karnų."
   pagrindžia:
     - c-178067
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

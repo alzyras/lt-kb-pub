@@ -34,34 +34,13 @@ Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su
   teiginys: "Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su latvių kalba ir herulų žodžiu „duhkt“."
   pagrindžia:
     - c-174696
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su latvių kalba ir herulų žodžiu „duhkt“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Odoakras,
-    tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo
-    1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia­
-    lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti,
-    kelti triukšmą (Stender. Lettische Gramm. S. 37). „E“ yra prieš-
-    vardinis garsas, paverčiantis siekinį daiktavardžiu; taip Eduhka reiš­
-    kia ūmų, aistringai bet kokio žygio besiimantį žmogų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174696
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 317"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Odoakras,
     tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo

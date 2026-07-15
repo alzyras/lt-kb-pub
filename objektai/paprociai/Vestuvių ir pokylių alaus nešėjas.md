@@ -66,6 +66,7 @@ Nenurodyta
   teiginys: "Besėdninkai pokylio metu kalbėdavosi būreliais ir gerdavo alų."
   pagrindžia:
     - c-177793
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

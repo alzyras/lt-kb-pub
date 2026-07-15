@@ -75,48 +75,6 @@ Nenurodyta
   teiginys: "Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos."
   pagrindžia:
     - c-176251
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi, todėl daroma išvada, kad Lietuva jau buvo suvienyta.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    28
-    1219 m. Lietuvoje vyriausiojo kunigaikščio dar nėra, bet 1245–1246 m.
-    vokiečių kronikininkas Mindaugą pavadina „aukščiausiuoju karaliumi“.
-    Vadinasi, Lietuva jau suvienyta. Kada tai įvyko? 1235 m. rusų metraščiai
-    mini „Mindaugo Lietuvą“. Gal tai rodytų, kad Mindaugas jau yra pajun-
-    gęs savo valdžiai kitus kunigaikščius? Tačiau jei yra Mindaugo Lietuva, tai
-    gal būta ir, tarkim, „Živinbudo“ ar „Dausprungo“ Lietuvos? Todėl linksta-
-    ma prie apytikrės datos – Lietuvos valstybė susikūrė apie 1240 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų
-    kolonijinių valstybių kūrimasis prie Baltijos. Lietuvos valstybė atsirado
-    pirmiausia kaip apsigynimo priemonė, tačiau ji turėjo remtis kokiu nors
-    visuomenės sluoksniu – tas sluoksnis buvo Mindaugo kariauna, o vieno
-    valdovo įsitvirtinimas yra ryškiausias išorinis valstybės atsiradimo požy-
-    mis. Iš šių dienų perspektyvos galima sakyti – tauta galėjo apsisaugoti tik
-    sukūrusi valstybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -139,8 +97,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75205
     - t-75204
+    - t-75205
 
 - id: c-176251
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

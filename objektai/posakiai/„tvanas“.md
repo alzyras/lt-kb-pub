@@ -66,38 +66,6 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 - susijęs iš Rusija: XVII–XVIII a. Rusijos ir Švedijos karai prisidėjo prie Rusijos kišimosi į Lenkijos ir Lietuvos vidaus reikalus.
 - susijęs iš Švedija: Valdant Vazų dinastijai Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 metais.
 - susijęs iš Švedija: Narbutas Švediją ir Daniją pateikė kaip kraštus, kuriuose prie didžiųjų šventyklų susirinkdavo gausios žmonių minios.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Antra vertus,
-    tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
-    visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
-    joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
-    Rusijos atsikeliantiems sentikiams, be to, nuo Vytauto laikų gyvuojan-
-
-    L I E T U V O S  I S T O R I J A
-    64
-    tiems karaimams, totoriams ir žydams.
-    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
-    dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
-    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
-    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
-    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena. Šio karo
-    pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
-    kalus, galų gale privedęs prie Lenkijos ir Lietuvos Valstybės padalijimų ir
-    panaikinimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-166906
@@ -127,5 +95,5 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183512
     - t-20954
+    - t-183512

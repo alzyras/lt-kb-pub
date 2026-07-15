@@ -42,29 +42,6 @@ media_all_json: |-
   teiginys: "1255 m. šešiasdešimt miestų įsteigė Reino konfederaciją, vadovaujamą aukščiausiųjų dvasininkų."
   pagrindžia:
     - c-82798
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1255 m. šešiasdešimt miestų įsteigė Reino konfederaciją, vadovaujamą aukščiausiųjų dvasininkų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Prie karinės sąjungos, 1241 m.
-    Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė
-    D
-
-    ## Puslapis 22
-
-    ĮVADAS
-    Krokuva, Kališas ir Naugardas. 1255 m. šešiasdešimt miestų pa­
-    našiu tikslu įsteigė Reino konfederaciją, vadovaujamą aukščiau­
-    siųjų dvasininkų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

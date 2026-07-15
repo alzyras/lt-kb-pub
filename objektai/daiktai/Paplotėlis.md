@@ -63,7 +63,6 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Šventojo kryžiaus ženklas.md#claim-t-59715|Šventojo kryžiaus ženklas]]: Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę.
 - susijęs iš Karaliaučius: Dusburgietis pasakoja, kad žygio prieš Lietuvą metu besimeldžiančiam Karaliaučiaus komtūrui Albertui pasirodė Kristaus kūnas.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Žygio prieš Lietuvą metu broliui Albertui prie burnos pasirodė Viešpaties kūnas paplotėlio pavidalu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -87,15 +86,15 @@ Nenurodyta
 - id: c-60331
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 17"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kitąkart mūšio metu danguje pasirodžiusi
-    mergelė Marija  (III, 141). Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
-    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
-    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv.
-    kryžiaus ženklu, Jėzaus Kristaus padedami, sėkmingai prasiveržė pro didžiulę lietuvių
-    kariuomenę (III, 251).
+    Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
+    vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
+    globojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės
+    globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
+    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333). Tai
+    jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
+    pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
   citata_rodoma: "Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui\nAlbertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu\nir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv."
   statusas: verified
   teiginio_tipas: faktas

@@ -34,25 +34,6 @@ Bendrųjų Informacinių blokų sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJ
   teiginys: "Karolis Zikaras parengė informacinį bloką „Leičiai - valdovo valios įgyvendintojai“."
   pagrindžia:
     - c-41755
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Bendrųjų Informacinių blokų sąrašas
-
-    NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS
-
-    p. 29, „LEIČIAI - VALDOVO VALIOS ĮGYVENDINTOJAI“, Karolis Zikaras.
-
-    p- 31, „PAVOJAI TRAIDENIO LIETUVAI IS RYTŲ“, Romas Batūra.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

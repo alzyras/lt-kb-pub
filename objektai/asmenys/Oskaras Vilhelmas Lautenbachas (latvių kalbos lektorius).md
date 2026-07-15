@@ -100,5 +100,5 @@ Lautenbachas šiame straipsnyje minimas kaip Tartų universiteto latvių kalbos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195257
     - t-195256
+    - t-195257

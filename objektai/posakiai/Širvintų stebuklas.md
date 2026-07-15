@@ -53,27 +53,6 @@ media_all_json: |-
   teiginys: "Balno reidas į Gardino pulko užnugarį visuomenėje buvo pramintas „Širvintų stebuklu“."
   pagrindžia:
     - c-44971
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    T. Balno reidas į Gardino pulko užnugarį
-
-    visuomenei ir buvo pramintas „Širvintų ste-
-    buklu“. Ši pergalė leido lietuviams perimti
-    iniciatyvą. Jei lenkams būtų pavykę sėkmin-
-    gai įvykdyti suplanuotą puolimą ir priar-
-    tėti prie Kauno, būtų iškilęs didelis pavojus
-    Lietuvos valstybingumui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -96,5 +75,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41479
     - t-41478
+    - t-41479

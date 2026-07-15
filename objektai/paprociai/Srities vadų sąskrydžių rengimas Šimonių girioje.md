@@ -66,25 +66,6 @@ Nenurodyta
   teiginys: "Šimonių girioje bazavosi srities vadovybė ir būdavo rengiami srities vadų sąskrydžiai."
   pagrindžia:
     - c-12355
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Apygardos teritorijoje, Šimonių girioje,
-    bazavosi srities vadovybė, būdavo ren-
-    giami srities vadų sąskrydžiai. Apygarda
-    leido laikraštį „Partizanų kova“. Algimanto
-    apygardai vadovavo Antanas Slučka-Ša-
-    rūnas (1947 m. gegužė - 1948 m. spalis) ir
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -105,5 +86,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09607
     - t-09606
+    - t-09607

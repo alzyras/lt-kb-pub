@@ -8,15 +8,15 @@ datos:
   - '2026 m.'
 date_start: '1564'
 date_end: '2026'
+amziai:
+  - 'XVI'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
   - ūkis
   - kasdienybė
-amziai:
-  - 'XVI'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -64,22 +64,9 @@ Nenurodyta
   teiginys: "Lasickis rašė, kad 1564 m. žemaičiai savo namuose kepė sėtinius ir laikė juos dideliu skanėstu."
   pagrindžia:
     - c-10055
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Lasickis rašė, kad 1564 m. žemaičiai savo namuose kepė sėtinius ir laikė juos dideliu skanėstu.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Vieni dar žemaičiai sekė senovės būdą, ir
-        taip Lasickis rašo tyčiodamos, jog Žemaičių jomylistos metuose 1564 sėtinius kepę savo namuose ir
-        už visų didžiausią skaninį turėję.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

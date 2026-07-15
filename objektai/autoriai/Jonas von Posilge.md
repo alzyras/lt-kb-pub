@@ -35,25 +35,6 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
   teiginys: "Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von Posilge."
   pagrindžia:
     - c-177383
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von Posilge.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gi įkaitus
-    kryžiuočiai ėmė šimtais iš įvairių vietų. Daug įdomių žinių iš to
-    laikotarpio yra patiekęs kronikininkas Jonas von Posilge. Jis pa­
-    žymėjo : « Ordinui šį kartą pasidavė visa Žemaičių žemė, ir daug
-    įkaitų davė krašto kilmingieji; dar niekados jis ordinui nebuvo
-    taip pasidavęs »^9.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

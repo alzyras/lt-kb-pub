@@ -9,13 +9,13 @@ datos:
   - '1946 m.'
 date_start: '1944'
 date_end: '1946'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestelis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -76,82 +76,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 - susijęs iš Kaišiadorys: Jonas Misiūnas vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse.
 - susijęs iš [[objektai/grupes/Didžiosios kovos apygarda (DKA).md#claim-t-40874|Didžiosios kovos apygarda (DKA)]]: Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Misiūnas su maždaug 200 partizanų daliniu nuolat keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vokiečių okupacijos metais buvo geležinkelių apsaugos polici-
-    ninkas Kaišiadoryse. 1944 m. įstojo į Vietinę rinktinę. Sovietams pakartotinai okupavus Lietuvą, 1944 m. organizavo
-    partizanų būrį. Su savo maždaug 200 partizanų daliniu J. Misiūnas nuolat keliavo po Ukmergės
-    ir Trakų apskritis ir nevengdamas susidūrimų kovėsi su sovietais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rugsėjį savo junginį jis pa-
-    vadino Didžiosios kovos rinktine. Vėliau ji buvo pervadinta į 5-ąjį LLA rajoną (dar vėliau 5-ąją LLA
-    apygardą), tuomet Žalias Velnias ėjo šio junginio vado pavaduotojo pareigas, vadovavo Myko-
-    las Kareckas-Serbentas, šiam žuvus, vėl vadu tapo J. Misiūnas, apygarda pavadinta Didžiosios
-    kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).
-
-    1946 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas mini, kad Trakų apskrityje, ponų Gorskių dvare, buvo Lelionių milžinkapis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vie­
-    noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­
-    lius. Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito
-    yra du kaimai: Leliušių (Lelusze) ir Lelionių (Lelaiice); taip pat
-    Trakų apskrityje, ponų Gorskių dvare, yra Lelionių milžinka­
-    pis. Visa tai paaiškina dar mažai ištirtus Siaurės mitologijos mi­
-    tus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje, Trakų apskrityje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Siek tiek pasistūmėję upe
-    aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
-    ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
-    nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
-    (Betygola) pavadinimas. Šių keliautojų vadas vadinosi Nemu­
-    nas (Nemon). Apie jį dar esama padavimo, kad jis buvęs gar­
-    binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
-    ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
-    skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
-    keliais milžinkapiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-005
   santrauka: 'Narbutas rašo, kad Tikrojoje Lietuvoje, įskaitant Trakų apskritį, nuo seniausių laikų buvo vietų sudegintų žmonių pelenams laikyti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -212,8 +136,7 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 - id: c-171729
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vie­
     noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­
@@ -232,8 +155,7 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 - id: c-171730
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 220"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Siek tiek pasistūmėję upe
     aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
@@ -255,16 +177,19 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 - id: c-171731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 375"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vienoda jų sandara ir tokia pat radimo vieta įtikina,
-    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
-    kad į jas tekėtų ašaros.
-    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
-    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
-    rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
-    Obelijomis.
+    įvairiose Prūsijos vietose tiek atsitiktinai, tiek sąmoningai ka­
+    sinėjant senovinius pilkapius, ypač Velnio saloje (Czartowy-
+    Osirow), esančioje Sniardvų ežere, ir ties Pleviškių kaimu, as­
+    tuonios mylios nuo Karaliaučiaus, prie Priegliaus upės. Tai bu­
+    vo puodeliai arba kažkokios urnos su pelenais ir sudegusių
+    žmonių kaulų gabaliukais viduje. Toje vietovėje pats autorius
+    liepė atkasti vieną pilkapį ir surado naujo pavidalo pelenų ur­
+    ną. Tai buvo du akmenys, gulintys vienas ant kito ir taip apdo­
+    roti, kad tarp jų susidariusioje tuštumoje galėjo būti pilami
+    pelenai.
+  citata_rodoma: "Vienoda jų sandara ir tokia pat radimo vieta įtikina,\njog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,\nkad į jas tekėtų ašaros.\nTikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­\ndos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­\nrias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo\nObelijomis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

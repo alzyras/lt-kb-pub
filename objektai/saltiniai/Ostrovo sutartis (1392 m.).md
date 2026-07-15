@@ -48,26 +48,6 @@ Ostrovo sutartimi Jogaila atidavė Vytautui valdyti visą didžiąją Lietuvos k
   teiginys: "Ostrovo sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti ir turėjo užtikrinti taiką bei tvarką krašte."
   pagrindžia:
     - c-160256
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Šitų nepasitenkinusiųjų priešaky atsistojo pats
-    Vytautas, Lietuvos ir jos visuomenės reikalų gynėjas, kuris
-    po ilgų ir sunkių kovų, ne be svetimos pagalbos, iškovojo iš
-    Jogailos ne tik savo tėviškę, bet ir visą Lietuvą su jai priklau­
-    sančiais Rusų žemių plotais. Jo sudarytąja su Jogaila Ostrovos
-    sutartimi (1392) buvo padėtas ir pagrindas Lietuvos nepriklau­
-    somybei atstatyti^1 ). Be to, ši sutartis turėjo užtikrinti ir taiką ir
-    tvarką išvargintam ir nualintam ilgų naminių karų kraštui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

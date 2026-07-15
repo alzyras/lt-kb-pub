@@ -42,26 +42,6 @@ Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad 
   teiginys: "1387 m. Jogailos privilegija nesuteikė privilegijų stačiatikiams, nors bajorai katalikai buvo gavę plačių laisvių."
   pagrindžia:
     - c-13853
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1387 m. Jogailos privilegija nesuteikė privilegijų stačiatikiams, nors bajorai katalikai buvo gavę plačių laisvių.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tie raštai, suprantama, kėlė tarp sta­
-    čiatikių nesutikimų ir neramumų, nes vieni palaikė Gregorijų
-    Cemblaką, o kiti — Focijų. Kai kurie stačiatikiai, ypač jų di­
-    duomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija
-    nei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai
-    tuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę
-    ir buvo atleisti nuo daugelio pareigų valstybei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

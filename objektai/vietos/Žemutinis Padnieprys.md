@@ -41,28 +41,6 @@ Mūšio išvakarėse Parengiamieji žygiai buvo organizuoti dviem kryptims: nuo 
   teiginys: "Prieš mūšį parengiamieji žygiai buvo organizuoti nuo Žemutinio Padnieprio Dono link ir į Krymą."
   pagrindžia:
     - c-40483
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio išvakarėse
-
-    Parengiamieji žygiai buvo organi-
-
-    zuoti dviem kryptims: nuo Žemutinio
-    Padnieprio Dono link ir į Krymą. 1397 m.
-    Vytauto pajėgos pasiekė pagrindinę totorių
-    klajonių teritoriją ryčiau Dnepro, perėjo
-    Doną, siaubė Volgos apylinkes, daug toto-
-    rių belaisvių atgabeno į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

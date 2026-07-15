@@ -43,21 +43,6 @@ Yla, St. : Krikščionybės įvedimas Lietuvoje, Kaunas 1938. — Kolankowski, L
   teiginys: "St. Yla 1938 m. Kaune paskelbė veikalą „Krikščionybės įvedimas Lietuvoje“."
   pagrindžia:
     - c-33152
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Yla, St. : _Krikščionybės įvedimas Lietuvoje,_ Kaunas 1938.
-    — Kolankowski, L. : _Dzieje Wielkiego Księstwa Litewskiego za Ja­
-    giellonów,_ I, 1930, 11-51 p. — Kutrzeba, St.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

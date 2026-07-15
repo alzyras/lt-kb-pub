@@ -40,25 +40,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/P. Genys.md#claim-t-39794|P. Genys]]: P. Genys birželio 3 d. užėmė Svėdasus, vėliau Užpalius, o birželio 5 d. - Antalieptę.
 - susijęs iš Užpaliai: Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę.
 - susijęs iš [[objektai/asmenys/A. Džiuvė.md#claim-t-39695|A. Džiuvė]]: Birželio 1 d. A. Džiuvė su 3-iąja kuopa žvalgė Sudeikių, Talaikių ir Kušneriūnų rajoną.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Birželio 3 d. P. Genys užima
-
-    Svėdasus. |
-    O po to Užpalius ir birže-
-
-    lio 5 d. Antalieptę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-40240

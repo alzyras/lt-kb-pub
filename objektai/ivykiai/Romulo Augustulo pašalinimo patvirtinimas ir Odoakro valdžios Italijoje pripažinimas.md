@@ -61,37 +61,34 @@ Nenurodyta
   teiginys: "Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje po tenykščio imperatoriaus mirties."
   pagrindžia:
     - c-173917
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbuto vaizdavimu, išsigandusiems italams nesipriešinant Odoakrui, Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    318
-    Išsigandę italai nė nedrįso priešintis, visi iškart len­
-    kėsi naujo valdovo galybei. Romos senatas patvirtino Ro­
-    mulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­
-    mulo karališkoji ir pirmojo Augusto įsteigtos karūnos,
-    pašalinimą iš imperatoriaus posto. Tarsi pats likimas pa­
-    noro, kad šis jaunuolis sujungtų anų įžymių Romos im­
-    perijos įkūrėjų vardus ir būtų paskutinis jų vadų ir ti­
-    tulų paveldėtojas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197550"></a>
+- t-004
+  global_id: t-197550
+  teiginys: "Romos senatas patvirtino Ro mulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro mulo karališkoji ir pirmojo Augusto įsteigtos karūnos, pašalinimą iš imperatoriaus posto."
   pagrindžia:
-    - t-001
+    - c-173915
 
+<a id="claim-t-197551"></a>
+- t-005
+  global_id: t-197551
+  teiginys: "Dėl to Romos se natas nusiuntė į Konstantinopolį pasiuntinius, pranešda mas, jog nereikia skelbti imperatorių Romoje, nes aukš čiausio rango pareigūnas yra Rytų imperijoje; imperato rius gali drąsiai pasikliauti dora ir karingumu Odoakro kaip patricijaus."
+  pagrindžia:
+    - c-173916
+
+<a id="claim-t-197552"></a>
+- t-006
+  global_id: t-197552
+  teiginys: "Tuo metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą Italijos vietininku, pavesdami jam visą valdžią ir Dal matijoje, kurios imperatorius buvo miręs."
+  pagrindžia:
+    - c-173917
+
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Romos senatas pasiuntė į Konstantinopolį delegaciją pranešti Zenonui, kad Romoje nereikia skelbti imperatoriaus, o Odoakrui galima patikėti Italijos valdžią.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Odoakras,
-    kuriam buvo gerai žinoma Rytų imperatoriaus mintys ir
-    ketinimai, nutarė, jog, atsižvelgiant į jo padėtį, dera pa­
-    rodyti tam tikrą paklusnumą Zenonui. Dėl to Romos se­
+    Dėl to Romos se­
     natas nusiuntė į Konstantinopolį pasiuntinius, pranešda­
     mas, jog nereikia skelbti imperatorių Romoje, nes aukš­
     čiausio rango pareigūnas yra Rytų imperijoje; imperato­
@@ -99,7 +96,11 @@ Nenurodyta
     kaip patricijaus, kuriam jis teikiasi patikėti valdžią italų
     diecezijoje. Su šia delegacija Odoakras nusiuntė savo pa­
     siuntinius, kurie, demonstruodami nuolankumą, turėjo
-    prašyti patvirtinti senato reikalavimus.
+    prašyti patvirtinti senato reikalavimus. Taip pat atvyko
+    ir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­
+    tas jų imperatoriaus titulas. Tačiau, nepaisant viso to,
+    Odoakras gavo tai, ko geidė, nors italai nelabai buvo
+    linkę jį remti.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -107,14 +108,13 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+    - t-005
 
 - c-003
   santrauka: 'Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje po tenykščio imperatoriaus mirties.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Po trejų metų Dalmatijoje šį nominalinį
-    monarchą nužudė atsiųsti Giicero, kurį jis seniau nu­
-    vertė nuo sosto ir paskyrė Salemos vyskupu, žmonės. Tuo
+    Tuo
     metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
     Italijos vietininku, pavesdami jam visą valdžią ir Dal­
     matijoje, kurios imperatorius buvo miręs. Odoakras ne­
@@ -122,7 +122,12 @@ Nenurodyta
     norėdamas taip pelnyti jo palankumą, o kiek anksčiau
     jis užmezgė draugiškus santykius su galingu Afrikos
     vandalų karaliumi Genseriku, iš kurio tam tikromis są­
-    lygomis gavo Siciliją.
+    lygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių
+    vadovų Zenono, Evariko ir Genseriko, kurie galėjo jam
+    pakenkti, palankumą, jis, dorybingo ministro romėno Li-
+    berijaus remiamas, sutelkė visą dėmesį į Italijos vidaus
+    problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
+    trečdalį žemės valdų1.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -130,36 +135,38 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+    - t-006
 
 ## Citatos
 
 - id: c-173915
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 314"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    318
-    Išsigandę italai nė nedrįso priešintis, visi iškart len­
-    kėsi naujo valdovo galybei. Romos senatas patvirtino Ro­
+    Romos senatas patvirtino Ro­
     mulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­
     mulo karališkoji ir pirmojo Augusto įsteigtos karūnos,
     pašalinimą iš imperatoriaus posto. Tarsi pats likimas pa­
     noro, kad šis jaunuolis sujungtų anų įžymių Romos im­
     perijos įkūrėjų vardus ir būtų paskutinis jų vadų ir ti­
-    tulų paveldėtojas.
+    tulų paveldėtojas. Savo kariuomenės paskelbtas karaliu­
+    mi, Odoakras galėjo priimti titulus ir sosto papuošalus,
+    bet iš kuklumo ar politinių sumetimų skatinamas, o gal
+    vengdamas įžeisti senatą, neliepė vadinti save nei im­
+    peratoriumi, nei Italijos karaliumi.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191033
+    - t-197550
 
 - id: c-173916
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 315"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Odoakras,
     kuriam buvo gerai žinoma Rytų imperatoriaus mintys ir
@@ -172,19 +179,24 @@ Nenurodyta
     kaip patricijaus, kuriam jis teikiasi patikėti valdžią italų
     diecezijoje. Su šia delegacija Odoakras nusiuntė savo pa­
     siuntinius, kurie, demonstruodami nuolankumą, turėjo
-    prašyti patvirtinti senato reikalavimus.
+    prašyti patvirtinti senato reikalavimus. Taip pat atvyko
+    ir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­
+    tas jų imperatoriaus titulas. Tačiau, nepaisant viso to,
+    Odoakras gavo tai, ko geidė, nors italai nelabai buvo
+    linkę jį remti.
+  citata_rodoma: "Dėl to Romos se­\nnatas nusiuntė į Konstantinopolį pasiuntinius, pranešda­\nmas, jog nereikia skelbti imperatorių Romoje, nes aukš­\nčiausio rango pareigūnas yra Rytų imperijoje; imperato­\nrius gali drąsiai pasikliauti dora ir karingumu Odoakro \nkaip patricijaus, kuriam jis teikiasi patikėti valdžią italų \ndiecezijoje. Su šia delegacija Odoakras nusiuntė savo pa­\nsiuntinius, kurie, demonstruodami nuolankumą, turėjo \nprašyti patvirtinti senato reikalavimus. Taip pat atvyko \nir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­\ntas jų imperatoriaus titulas. Tačiau, nepaisant viso to, \nOdoakras gavo tai, ko geidė, nors italai nelabai buvo \nlinkę jį remti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191034
+    - t-197551
 
 - id: c-173917
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 315"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Po trejų metų Dalmatijoje šį nominalinį
     monarchą nužudė atsiųsti Giicero, kurį jis seniau nu­
@@ -196,10 +208,17 @@ Nenurodyta
     norėdamas taip pelnyti jo palankumą, o kiek anksčiau
     jis užmezgė draugiškus santykius su galingu Afrikos
     vandalų karaliumi Genseriku, iš kurio tam tikromis są­
-    lygomis gavo Siciliją.
+    lygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių
+    vadovų Zenono, Evariko ir Genseriko, kurie galėjo jam
+    pakenkti, palankumą, jis, dorybingo ministro romėno Li-
+    berijaus remiamas, sutelkė visą dėmesį į Italijos vidaus
+    problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
+    trečdalį žemės valdų1.
+  citata_rodoma: "Tuo \nmetu Rytų rūmai nedviprasmiškai patvirtino Odoakrą \nItalijos vietininku, pavesdami jam visą valdžią ir Dal­\nmatijoje, kurios imperatorius buvo miręs. Odoakras ne­\ntrukus perleido šią provinciją visigotų karaliui Evarikui, \nnorėdamas taip pelnyti jo palankumą, o kiek anksčiau \njis užmezgė draugiškus santykius su galingu Afrikos \nvandalų karaliumi Genseriku, iš kurio tam tikromis są­\nlygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių \nvadovų Zenono, Evariko ir Genseriko, kurie galėjo jam \npakenkti, palankumą, jis, dorybingo ministro romėno Li- \nberijaus remiamas, sutelkė visą dėmesį į Italijos vidaus \nproblemas; samdyta kariuomenė, kaip buvo žadėta, gavo \ntrečdalį žemės valdų1."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191035
+    - t-197552

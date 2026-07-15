@@ -8,15 +8,17 @@ datos:
   - '1294 m.'
 date_start: '1289'
 date_end: '1294'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
+  - pilis
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -73,60 +75,28 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   pagrindžia:
     - c-60504
 
-<a id="claim-t-59873"></a>
-- t-006
-  global_id: t-59873
-  teiginys: "Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras ir vadovavo vienuolika metų."
-  pagrindžia:
-    - c-60506
-
 <a id="claim-t-194505"></a>
-- t-007
+- t-006
   global_id: t-194505
   teiginys: "Apie brolį Meinhardą, Prūsijos žemės magistrą Brolis Meinhardas Saksas iš Kverfurto, tryliktas Prūsijos magistras, vadovavo vienuolika metų527."
   pagrindžia:
     - c-60506
+
+<a id="claim-t-197129"></a>
+- t-007
+  global_id: t-197129
+  teiginys: "Meinhardas Saksas iš Kverfurto patraukė atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių."
+  pagrindžia:
+    - c-60506
+
+<a id="claim-t-197130"></a>
+- t-008
+  global_id: t-197130
+  teiginys: "Apie Kolainių pilies užpuolimą 1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas, magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais pėstininkų."
+  pagrindžia:
+    - c-60504
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Meinhardas Saksas iš Kverfurto švento Jokūbo dieną su raiteliais užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    254 (247). Apie Junigedos ir Pieštvės pilių papilių sudeginimą
-
-    Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
-    magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
-    gyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:
-    Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
-    pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Meinhardas Saksas iš Kverfurto kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Drąsiai ėmėsi tokių sunkių darbų,
-    apie kuriuos kitas bijojo ir pagalvoti. Dėl to jis kėlė siaubą visiems priešams, nes jų
-    negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.
-
-
-
-
-                  235 (228).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-003
   santrauka: '1294 m. Meinhardas Saksas iš Kverfurto subūrė kariuomenę, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -149,25 +119,6 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolį Meinhardą, Prūsijos žemės magistrą
-
-       Brolis Meinhardas Saksas  iš  Kverfurto,  tryliktas  Prūsijos  magistras, vadovavo
-    vienuolika metų527. Kaip šlovingai jis ėjo savo pareigas, liudija šlovingi jo darbai, apie
-    kuriuos netrukus papasakosime. Jis garsėjo narsa. Drąsiai ėmėsi tokių sunkių darbų,
-    apie kuriuos kitas bijojo ir pagalvoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-006
-    - t-007
 
 - c-005
   santrauka: '1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.'
@@ -196,8 +147,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
 - id: c-60503
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 184-185"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184-185."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     254 (247). Apie Junigedos ir Pieštvės pilių papilių sudeginimą
 
@@ -217,17 +167,15 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
 - id: c-60504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 177"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Drąsiai ėmėsi tokių sunkių darbų,
-    apie kuriuos kitas bijojo ir pagalvoti. Dėl to jis kėlė siaubą visiems priešams, nes jų
-    negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.
-
-
-
-
-                  235 (228).
+    Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė
+    atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana
+    daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.
+    238 (231). Apie Kolainių pilies užpuolimą
+    1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
+    magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais
+    pėstininkų.
   citata_rodoma: "Dėl to jis kėlė siaubą visiems priešams, nes jų\nnegalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.\n\n\n\n\n              235 (228)."
   statusas: verified
   teiginio_tipas: faktas
@@ -235,24 +183,24 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59875
+    - t-197130
 
 - id: c-60505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 186"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 186."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
-                                       na
-
-       Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis,
-    ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą,
-    ne kartą vaišino savo pilyje Viznoje tikėjimo priešus lietuvius, leisdamas jiems plėšti
-    Prūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai
-    dėl to įspėtas. Todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui,
-    kuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo
-    keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį
-    ir ją iš pamatų sugriovė.
+    Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
+    tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė į valsčių, vardu Vaikiai545, kur
+    — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
+    sykių jis stojo prieš juos į kovą. Trumpai kalbant, jis taip ryžtingai kariavo, kad per
+    šešerius metus, kada vadovavo šiai piliai, privertė visus lietuvius, gyvenusius Nemuno
+    pakrantėje, nuo Neries upės iki Lamatos žemės546, laikytis taikos su krikščionimis, bet
+    Lethovinorum rex), o toliau konstatuojama: Štai kraštai, kuriuose mes nustatėme taiką:
+    iš mūsų pusės — Aukštaičių ir Žemaičių kraštas, Pskovas ir visi rusų [kraštai], kurie
+    yra mūsų valdžioje (PUB, 2, 1, Nr. 418, p. 301; GL, Nr. 8, p. 69; popiežiaus bulės
+    tekste — LUB, 2, Nr. 693, p. 151).
+  citata_rodoma: "Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­\n                                   na\n\n   Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis,\nieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą,\nne kartą vaišino savo pilyje Viznoje tikėjimo priešus lietuvius, leisdamas jiems plėšti\nPrūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai\ndėl to įspėtas. Todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui,\nkuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo\nkeliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį\nir ją iš pamatų sugriovė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -263,40 +211,39 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
 - id: c-60506
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 177"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie brolį Meinhardą, Prūsijos žemės magistrą
-
-       Brolis Meinhardas Saksas  iš  Kverfurto,  tryliktas  Prūsijos  magistras, vadovavo
-    vienuolika metų527. Kaip šlovingai jis ėjo savo pareigas, liudija šlovingi jo darbai, apie
-    kuriuos netrukus papasakosime. Jis garsėjo narsa. Drąsiai ėmėsi tokių sunkių darbų,
-    apie kuriuos kitas bijojo ir pagalvoti.
+    237 (230). Apie Sembos žemės nusiaubimą
+    Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į
+    Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,
+    o grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė
+    į žygį. Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė
+    atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana
+    daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59873
-    - t-184112
     - t-194505
+    - t-197129
 
 - id: c-60507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 177"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    235 (228). Apie Ragainės ir Skalvių pilių pastatymą
-
-      1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
-    krikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio
-    kankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei
-    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
-    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
-    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
-    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
-    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
+    Apie Kolainių pilies užpuolimą
+    1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
+    magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais
+    pėstininkų. Pilyje buvo [jos] vadas Surminas, o su juo 120 karingų vyrų, kurie narsiai
+    priešinosi broliams. Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad
+    nuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo. Kai pradėjo temti,
+    penki šimtai brolių raitelių, ėjusių sargybą tarp Lietuvos Žemės bei šios pilies ir pailsusių
+    nuo ilgo budėjimo, patraukė atgal, keldami didelį šurmulį bei triukšmą, ir taip išgąsdino
+    paprastus karius, kad šie nudūmė prie laivų, manydami, jog artėja priešai. Broliai nieku
+    būdu jų negalėjo susišaukti, nors ne kartą bandė šitai padaryti.
   citata_rodoma: "Apie Ragainės ir Skalvių pilių pastatymą\n\n  1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti\nkrikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio\nkankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei\nant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai\nreiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,\npalikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,\nsu 40 brolių ir šimtu rinktinių ginklanešių."
   statusas: verified
   teiginio_tipas: faktas

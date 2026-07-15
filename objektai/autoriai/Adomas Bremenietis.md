@@ -10,16 +10,16 @@ datos:
   - '1076 m.'
 date_start: '1009'
 date_end: '1076'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dvasininkas
   - metraštininkas
   - autorius
-amziai:
-  - 'XI'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -96,75 +96,16 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   teiginys: "Adomas Bremenietis, Narbuto teigimu, Sembą laikė besiribojančia su rusais arba Rusia, bet Rusios nepriskyrė Prūsijos provincijoms."
   pagrindžia:
     - c-173563
+
+<a id="claim-t-197575"></a>
+- t-009
+  global_id: t-197575
+  teiginys: "Adomas Bremenietis priskyrė Lenkijai visą Prūsiją net iki Baltijos jūros; kaimynystėje jis randa rusus, kuriuos netinkamai vadina rutėnais, t."
+  pagrindžia:
+    - c-173563
 - susijęs iš [[objektai/posakiai/homines humanissimi.md#claim-t-31557|homines humanissimi]]: Adomas Bremenietis sembus arba prūsus vadino „homines humanissimi“ ir teigė, kad jie gelbėja pavojuje atsidūrusius jūroje.
 - susijęs iš [[objektai/posakiai/moterų kraštas.md#claim-t-28744|moterų kraštas (kraštas)]]: Adomas Bremenietis minėjo moterų „karalystę“, nors rytinių baltų vardų apskritai nepaminėjo.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Adomas Bremenietis 1072-1076 m. veikalo „Gesta Hammaburgensis ecclesiae pontificum“ ketvirtoje knygoje pateikė žinių apie prūsus.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Adalberto (Vaitiekaus) biografas Canaparius, kuris
-    kalbėjo apie « Pruzzorum fines ». O « Europos šiaurės Tacitas »,
-    arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta
-    Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas
-    Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė
-    daugiau žinių apie prūsus ir ypač iškėlė jų prekybinius santykius
-    su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus»
-    (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą
-    gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas rašė, kad Adomas Bremenietis mini šventąjį ąžuolą, augusį Švedijoje netoli Upsalos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tą ypatybę kronikininkai priskiria velnio galy­
-    bei, manydami, kad velniai buvo garbinami toje šventykloje
-    šalies dievų pavidalu.
-    Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo­
-    lą, augusį Švedijoje, netoli Upsalos, tačiau Albertas Krantcas* 11,
-    nė kiek neneigdamas, kad tas medis visą laiką žaliavęs, pridu­
-    ria, jog jo rūšies niekas negalėjęs nustatyti. Taigi tai turėjo bū­
-    ti ne ąžuolai, bet kitokios rūšies medžiai, kurie išnyko seniai,
-    dar iki XIII amžiaus, o jų liekana buvo tie milžiniški šventieji
-    medžiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas teigė, kad, Adomo Bremeniečio pranešimu, švedų protėviai ypač laikėsi šventųjų ąžuolų tradicijos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apskritai reikia ma­
-    nyti, kad visur, kur buvo šventyklos, augo šventieji ąžuolai,
-    kadangi šio medžio šventumas lietuvių mitologijoje susiliejo
-    su dievų buveinės vaizdiniu.
-    Tikėjimą šito medžio šventumu skandinavai iš dalies pe­
-    rėmė iš lietuvių, kadangi ne visi ir ne visur turėjo šventyklas
-    po ąžuolais; kaip praneša Adomas Bremenietis, to ypač laikė­
-    si švedų protėviai .
-    Lietuvių liaudies pasakos mini, kad žmonės valgydavę gi­
-    les, iškeptas pelenuose arba virtas su pelenais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Narbutas Adomą Bremenietį nurodė kaip šaltinį apie prie šventyklų buvusius apeiginius šaltinius ar šulinius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -183,64 +124,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
-- c-005
-  santrauka: 'Narbutas citavo Adomą Bremenietį apie Upsalos žynius: „de sacerdotibus, qui ad Ubsolam Daemonibus astare solebant“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tautos
-    šventovė buvo Upsaloje; ten, kaip Romovės šventykloje, sto­
-    vėjo trijų vyriausiųjų dievų stabai (Adamus Bremenensis. De
-    situ Daniae. -  Cap. 233); ten, kaip ir Romovėje, gyveno tar­
-    nauti dievams pašaukti žyniai ir, be abejo, taip pat vyriausiasis
-    žynys. Adomas Bremenietis (skyrius 235) sako: de sacerdoti­
-    bus, qui ad Ubsolam Daemonibus astare solebant (apie žynius,
-    kurie Upsaloje buvo papratę tarnauti piktosioms dvasioms).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Adomas Bremenietis, Narbuto perteikimu, rašė apie didžiulę Baltijos jūros salą, vadintą Estlandija.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Dešinėje tos upės pusėje gotų
-    jau nebuvo, todėl prūsai įėjo į estų genčių skaičių. Ado­
-    mas Bremenietis* žinojo tą pačią Estiją. Aprašinėdamas
-    prie Baltijos jūros esančius kraštus, kuriuos dėl senama­
-    diškų kaprizų vadina salomis, jis rašo: „Taip pat mums
-    pasakojo, kad toje jūroje esama daug kitų salų, kurių
-    viena
-    didžiulė vadinasi Estlandija1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Adomas Bremenietis, Narbuto aiškinimu, Balticum vardą siejo su Baltijos pakrančių baltais, priskirtais lietuvių genties tautoms.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tuo labiau kad jūros vadinimas Baltąja
-    neprieštarauja senovės ir naujųjų laikų geografijai. Ado­
-    mas Bremenietis Balticum pavadinimą tapatina ¡su šių
-    kraštų pakrančių gyventojais (baltų), priklausančiais lie­
-    tuvių genties tautoms5. Regis tą patį patvirtina ir Bajeris,
-    šį dalyką tyrinėjęs išsamiau ir kruopščiau6.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
 
 - c-008
   santrauka: 'Adomas Bremenietis, Narbuto teigimu, Sembą laikė besiribojančia su rusais arba Rusia, bet Rusios nepriskyrė Prūsijos provincijoms.'
@@ -290,8 +173,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - id: c-171282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tą ypatybę kronikininkai priskiria velnio galy­
     bei, manydami, kad velniai buvo garbinami toje šventykloje
@@ -313,8 +195,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - id: c-171283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 238"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apskritai reikia ma­
     nyti, kad visur, kur buvo šventyklos, augo šventieji ąžuolai,
@@ -336,16 +217,17 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - id: c-171284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 277"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 277."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
-    šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
-    apiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­
-    mas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie
-    tai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad
-    krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
-    šaltinių. Toks šaltinis vadinosi šulinys (Szulnis).
+    dintas kriviu3, kurį gerbė kaip popiežių, nes kaip mūsų Šven­
+    tasis tėvas valdo visuotinę bažnyčią, taip šis vadovavo stab­
+    meldžiams. Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­
+    viai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­
+    toritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir
+    jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
+    giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
+    davo karalių, ponų ir prastuomenės didžios pagarbos.
+  citata_rodoma: "Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji\nšuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame\napiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­\nmas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie\ntai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad\nkrikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių\nšaltinių. Toks šaltinis vadinosi šulinys (Szulnis)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -356,13 +238,12 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - id: c-171285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 416"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 416."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tautos
     šventovė buvo Upsaloje; ten, kaip Romovės šventykloje, sto­
     vėjo trijų vyriausiųjų dievų stabai (Adamus Bremenensis. De
-    situ Daniae. -  Cap. 233); ten, kaip ir Romovėje, gyveno tar­
+    situ Daniae. - Cap. 233); ten, kaip ir Romovėje, gyveno tar­
     nauti dievams pašaukti žyniai ir, be abejo, taip pat vyriausiasis
     žynys. Adomas Bremenietis (skyrius 235) sako: de sacerdoti­
     bus, qui ad Ubsolam Daemonibus astare solebant (apie žynius,
@@ -377,8 +258,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - id: c-173561
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 92."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Dešinėje tos upės pusėje gotų
     jau nebuvo, todėl prūsai įėjo į estų genčių skaičių. Ado­
@@ -398,8 +278,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - id: c-173562
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 177"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tuo labiau kad jūros vadinimas Baltąja
     neprieštarauja senovės ir naujųjų laikų geografijai. Ado­
@@ -417,21 +296,29 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - id: c-173563
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 217."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kvedliriburgo kronika mini prieš 1009 metus ru­
-    sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos
-    šiaurėje2. Adomas Bremenietis, minėdamas Prūsijos pro­
+    Adomas Bremenietis, minėdamas Prūsijos pro­
     vincijas, kurias dėl nesuprantamų priežasčių vadina salo­
     mis, sako, jog Semba ribojasi su rusais, arba Rusios kraš­
     tu, kurio jis vis dėlto nepriskiria prie Prūsijos provincijų,
     nes tada tos žemės buvo Žemaitijos sudėtinė dalis3. Ra-
     devikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos
-    sienas, mini Rusios problemą.
+    sienas, mini Rusios problemą. Jis priskyrė Lenkijai visą
+    Prūsiją net iki Baltijos jūros; kaimynystėje jis randa ru­
+    sus, kuriuos netinkamai vadina rutėnais, t. y. rusinais4.
+    Tie ir vėlesni kronikininkai žinojo šią lietuvių žemę, turė­
+    jusią Rusios vardą, kuris susimaišė su Nemuno aukštupio
+    slaviškumu. Pats Dusburgas (nepaisant jo teksto šiame
+    skyriuje apie Prūsijos sienas), regis, nurodo dvi atskiras
+    jo amžiuje žinomas Rusias: vieną, per kurios vidurį plau­
+    kė Nemunas iki lietuvių žemių, ir antrą, kurią kirto išėjęs
+    iš Lietuvos5.
+  citata_rodoma: "Ra- \ndevikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos \nsienas, mini Rusios problemą. Jis priskyrė Lenkijai visą \nPrūsiją net iki Baltijos jūros; kaimynystėje jis randa ru­\nsus, kuriuos netinkamai vadina rutėnais, t. y. rusinais4. \nTie ir vėlesni kronikininkai žinojo šią lietuvių žemę, turė­\njusią Rusios vardą, kuris susimaišė su Nemuno aukštupio \nslaviškumu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190681
+    - t-197575

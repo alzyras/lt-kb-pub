@@ -59,33 +59,9 @@ Nenurodyta
 <a id="claim-t-192045"></a>
 - t-001
   global_id: t-192045
-  teiginys: "1837–1838 m. J. I. Kraševskis „Tygodnik Petersburski“ pažadėjo atsiųsti Narbuto „Istorijos“ antro tomo kritiką, kai tik tomas jį pasieks."
+  teiginys: '1837–1838 m. J. I. Kraševskis „Tygodnik Petersburski“ pažadėjo atsiųsti Narbuto „Istorijos“ antro tomo kritiką, kai tik tomas jį pasieks.'
   pagrindžia:
     - c-174915
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1837–1838 m. J. I. Kraševskis „Tygodnik Petersburski“ pažadėjo atsiųsti Narbuto „Istorijos“ antro tomo kritiką, kai tik tomas jį pasieks.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Juolab kad apie tai buvo pareiškęs ir pats J. I. Kra­
-    ševskis. 1837—1838 metais „Tygodnik Petersburski“ bu­
-    vo spausdinamas didelis jo rašinys, skirtas Mykolo Ba-
-    linskio monografijos „Vilnius“ analizei. Rašinio pabai­
-    goje recenzentas pažadėjo: „Netrukus, kai tik mus pa­
-    8
-
-    ## Puslapis 8
-
-    sieks Narbuto „Istorijos“ antras tomas (kuris jau išėjo),
-    kuo skubiausiai atsiųsiu redakcijai jo kritiką“1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -111,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192045
+    - t-002

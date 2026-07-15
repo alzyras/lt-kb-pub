@@ -54,33 +54,13 @@ Nenurodyta
   teiginys: "Prūsai pagal senovinį paprotį garbino negęstančiąją ugnį."
   pagrindžia:
     - c-60327
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prūsai pagal senovinį paprotį garbino negęstančiąją ugnį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Toks didelis buvo jo autoritetas,
-    kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu
-    kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
-    iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
-    senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,
-    žinoma, [tikėjo] ne taip, kaip dera.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60327
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 68"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Toks didelis buvo jo autoritetas,
     kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu

@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas imperatorių. Jo įkėli mui į chano sostą drauge su juo pasiuntė krašto mar šalą Radvilą 3 2 .
+Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas imperatorių. Jo įkėli mui į chano sostą drauge su juo pasiuntė krašto mar šalą Radvilą 3 2 . Radvila, raitelių būrio vadas, patarė kariams persikelti per patvinusią Vyslą prie Zavichosto pilies.
 
 ## Teiginiai
 
@@ -37,14 +37,24 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   pagrindžia:
     - c-169532
 
+<a id="claim-t-196586"></a>
+- t-003
+  global_id: t-196586
+  teiginys: "Radvila, raitelių būrio vadas, patarė kariams persikelti per patvinusią Vyslą prie Zavichosto pilies."
+  pagrindžia:
+    - c-178780
+
 <a id="claim-t-193973"></a>
 - t-002
   global_id: t-193973
-  teiginys: "Jo įkėli mui į chano sostą drauge su juo pasiuntė krašto mar šalą Radvilą 3 2 ."
+  teiginys: 'Jo įkėli mui į chano sostą drauge su juo pasiuntė krašto mar šalą Radvilą 3 2 .'
   pagrindžia:
     - c-176598
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/asmenys/Dominykas Radvila.md#claim-t-87655|Dominykas Radvila]]: Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.
+- susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200531|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo kunigaikštis vėliavininkas.
+- susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200532|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo sutaikytas su iždininku Jurgiu Detlofu Flemingu prieš pakanclerio persikėlimą į Flemingų rūmus.
+- susijęs iš [[objektai/asmenys/Jurgis Detloff Flemming (artilerijos generolas, XVIII a.).md#claim-t-200506|Jurgis Detloff Flemming (artilerijos generolas, XVIII a.)]]: Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeronimu Radvila prieš pakanclerio persikėlimą į Flemingų rūmus.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103038|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103048|Jurgis Radvila (vyskupas, XVI a.)]]: 1582 m. dokumentą Jurgis Radvila pasirašė kaip Vilniaus vyskupas ir Olykos kunigaikštis.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103049|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. sausio 11 d. Vilniuje pasirašė vyskupo seminarijos fundacijos aktą.
@@ -52,9 +62,9 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103051|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103052|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo ne mažiau kaip 8000 lietuvių pašauktinių bajorų.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103054|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo lietuvių pašauktiniams bajorams.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-184747|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila metė prieš Čeliadniną lengvąją kavaleriją.
 - susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49421|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
 - susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49422|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
+- susijęs iš [[objektai/asmenys/Mikalojus III.md#claim-t-200871|Mikalojus III]]: Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 1525 m. pradėtą Bernardinų bažnyčios statybą.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186354|Mikalojus Radvila]]: Lietuvos maršalka Mikalojus Radvila užtarė Martyną Paleckį, gavusį iš karaliaus žemės sklypą ir leidimą steigti stiklo fabriką.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186357|Mikalojus Radvila]]: Mikalojus Radvila smogė priešams į sparną ir nulėmė mūšio sėkmę.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186358|Mikalojus Radvila]]: 1560 m. vasario 12 d. Mikalojus Radvila iš Rotundo gavo jo Lietuvos istorijos rankraštį.
@@ -70,13 +80,16 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
 - susijęs iš [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.).md#claim-t-49171|Lojevo mūšis (1649 m. liepos 31 d.)]]: Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė.
 - susijęs iš [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.).md#claim-t-49174|Lojevo mūšis (1649 m. liepos 31 d.)]]: Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė, o žinia apie ją pasklido visoje Europoje.
 - susijęs iš [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.).md#claim-t-78637|Prostkų mūšis (1656 m. spalio 8 d.)]]: Prostkų mūšyje pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė brandenburgiečius, o Boguslavas Radvila pateko į nelaisvę.
-- susijęs iš [[objektai/paprociai/Pakėlimas į kunigaikščius su įprastinėmis apeigomis.md#claim-t-185920|Pakėlimas į kunigaikščius su įprastinėmis apeigomis]]: Imperatorius Maksimilijonas Goniondze įprastinėmis apeigomis pakėlė Mikalojų II Radvilą į Rusios ir Mazovijos kunigaikščius.
 - susijęs iš 1576 m. gruodžio 20 d. Stepono Batoro laiškas Mikalojui Radvilai dėl muitų, Czopowe ir Szosowe mokesčių: 1576 m. gruodžio 20 d. Steponas Batoras reikalavo, kad Mikalojus Radvila skatintų mokėti muitus ir iš Vilniaus miestiečių išreikalautų Czopowe bei Szosowe mokesčius.
 - susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
 - susijęs iš Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
-- susijęs iš Vilnius: Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą.
+- susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200531|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo kunigaikštis vėliavininkas.
+- susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200532|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo sutaikytas su iždininku Jurgiu Detlofu Flemingu prieš pakanclerio persikėlimą į Flemingų rūmus.
+- susijęs iš [[objektai/asmenys/Jurgis Detloff Flemming (artilerijos generolas, XVIII a.).md#claim-t-200506|Jurgis Detloff Flemming (artilerijos generolas, XVIII a.)]]: Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeronimu Radvila prieš pakanclerio persikėlimą į Flemingų rūmus.
+- susijęs iš [[objektai/asmenys/Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.).md#claim-t-200534|Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.)]]: 1752 m. Jonas Dominykas Lopacinskis tikėjosi per seimelį pasiderėti su Vilniaus vaivada Mykolu Kazimieru Radvila Žuvele dėl brolio interesų.
+- susijęs iš [[objektai/grupes/Vilniaus seimelis.md#claim-t-200659|Vilniaus seimelis]]: 1752 m. Mykolas Kazimieras Radvila Žuvelė buvo labai patenkintas Vilniaus seimelio rezultatais.
+- susijęs iš [[objektai/paprociai/Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai.md#claim-t-200559|Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai]]: 1757 m. Vilniuje buvo rengiamas karnavalas, kuriame ketino dalyvauti Mykolas Kazimieras Radvila Žuvelė.
 - susijęs iš [[objektai/asmenys/Aleksandras Gonsevskis.md#claim-t-39999|Aleksandras Gonsevskis]]: Smolensko vaivada Aleksandras Gonsevskis su 6 tūkst. apylinkėse veikusių karių organizavo apsiaustųjų pajėgų aprūpinimą.
-- susijęs iš [[objektai/asmenys/Augustas.md#claim-t-185941|Augustas]]: Augustas netrukus atšalo nuo Kotrynos ir nutarė su ja išsiskirti, aiškindamas, kad santuoka esanti neteisėta.
 - susijęs iš [[objektai/asmenys/Cimermanas.md#claim-t-87645|Cimermanas]]: Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino.
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-184710|Grigalius Chodkevičius]]: Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius.
 - susijęs iš [[objektai/asmenys/Kasparas Bekešas.md#claim-t-87531|Kasparas Bekešas]]: Kasparo Bekešo atminimas Vilniuje 1580 m. pagerbtas prie kapo ant kalno prie Vilnelės pastačius apvalaus bokšto paminklą.
@@ -89,6 +102,8 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
 - susijęs iš [[objektai/grupes/Lietuvos seimas (XVI a.).md#claim-t-01408|Lietuvos seimas (XVI a.)]]: Prieš bendrąjį unijos seimą sušauktame Lietuvos seime unijos klausimas nepasistūmėjo.
 - susijęs iš [[objektai/grupes/Savickiai.md#claim-t-86823|Savickiai]]: Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams.
 - susijęs iš [[objektai/grupes/Vilniaus pirkliai.md#claim-t-172855|Vilniaus pirkliai]]: Vilniaus pirkliai ir gyventojai, remdamiesi privilegijomis, priešinosi muito mokėjimui.
+- susijęs iš [[objektai/grupes/Vilniaus seimelis.md#claim-t-200657|Vilniaus seimelis]]: 1753 m. J. D. Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas.
+- susijęs iš [[objektai/grupes/Vilniaus seimelis.md#claim-t-200658|Vilniaus seimelis]]: 1753 m. Jonas Dominykas Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas.
 - susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80673|Kėdainių unija (1655 m. spalio 20 d.)]]: Jonušo Radvilos pastangomis Kėdainių unija su Švedija buvo sudaryta 1655 m. spalio 20 d.
 - susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80675|Kėdainių unija (1655 m. spalio 20 d.)]]: Jonušas Radvila siekė nutraukti LDK uniją su Lenkija ir sudaryti naują uniją su Švedija.
 - susijęs iš [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.).md#claim-t-49172|Lojevo mūšis (1649 m. liepos 31 d.)]]: 1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.
@@ -117,36 +132,24 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
 - susijęs iš [[objektai/zodynas/muitas thelonea.md#claim-t-86426|muitas thelonea]]: Dėl Vilniaus Batoras pareikalavo, kad vaivada Radvila ragintų mokėti nustatytus muitus ir iš miestiečių išreikalautų Czopowe bei Szosowe mokesčius.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185338|skitai]]: Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.
 - susijęs iš [[objektai/zodynas/urėdas.md#claim-t-182985|urėdas]]: Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.
+- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200683|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo jam karnavalo metu susirasti žmoną.
+- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200684|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: 1751 m. Jonas Dominykas Lopacinskis Mykolui Ksaverui Sapiegai rašė apie artėjančias Užgavėnes ir į Vilnių plūstančius skaramušus.
+- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200685|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: Kitame laiške kanauninkas Mykolui Ksaverui Sapiegai linkėjo karnavalo metu susirasti žmoną.
+- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200686|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: 1751 m. Mykolui Ksaverui Sapiegai buvo rašoma apie artėjančias Užgavėnes ir į Vilnių plūstančius skaramušus.
+- susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200653|Smolensko pavieto seimelis]]: 1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius.
+- susijęs iš [[objektai/grupes/Starodubo seimelis.md#claim-t-200688|Starodubo seimelis]]: 1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius.
+- susijęs iš [[objektai/grupes/Vilniaus seimelis.md#claim-t-200656|Vilniaus seimelis]]: 1752 m. Jonas Dominykas Lopacinskis Vilniaus seimelį laikė proga pasiderėti dėl brolio interesų.
+- susijęs iš [[objektai/grupes/Vilniaus seimelis.md#claim-t-200657|Vilniaus seimelis]]: 1753 m. J. D. Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas.
+- susijęs iš [[objektai/grupes/Vilniaus seimelis.md#claim-t-200658|Vilniaus seimelis]]: 1753 m. Jonas Dominykas Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas.
+- susijęs iš [[objektai/ivykiai/Didžiojo sniego sukelta rūmų griūtis Vilniuje (1754 m. vasario 6 d.).md#claim-t-200602|Didžiojo sniego sukelta rūmų griūtis Vilniuje (1754 m. vasario 6 d.)]]: 1754 m. laiške aprašyta, kad dėl ekstremaliai gausaus sniego Vilniuje įgriuvo Sluškų rūmų stogas.
+- susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200620|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1752 m. Jonas Dominykas Lopacinskis Vilniaus seimelį laikė proga pasikalbėti ir pasiderėti dėl brolio interesų.
+- susijęs iš [[objektai/paprociai/Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai.md#claim-t-200560|Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai]]: 1751 m. Jonas Dominykas Lopacinskis ironiškai rašė, kad artėjant Užgavėnėms į Vilnių pribėga nereikalingų skaramušų.
+- susijęs iš [[objektai/posakiai/Vilniaus publika dar nepradėjo rinktis.md#claim-t-200626|Vilniaus publika dar nepradėjo rinktis]]: 1747 m. Jonas Dominykas Lopacinskis rašė, kad Vilniaus publika dar nepradėjo rinktis, nors jos požymiai jau matėsi.
+- susijęs iš [[objektai/posakiai/nereikalingi skaramušai.md#claim-t-200628|nereikalingi skaramušai]]: 1751 m. Jonas Dominykas Lopacinskis artėjančias Užgavėnes Vilniuje apibūdino formule apie „nereikalingus skaramušus“.
+- susijęs iš [[objektai/zodynas/skaramušai.md#claim-t-200570|skaramušai]]: 1751 m. žodis „skaramušai“ Jono Dominyko Lopacinskio laiške pavartotas ironiškai apie į Vilnių prieš Užgavėnes pribėgusius juokdarius.
 - susijęs iš [[objektai/zodynas/etmonas.md#claim-t-42451|etmonas]]: Kristupas Radvila vėliau tapo didžiuoju etmonu ir buvo vadinamas Perkūnu.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113989|Steponas Batoras]]: Steponas Batoras įsakė Vilniaus vaivadai Radvilai skatinti vilniečius mokėti nustatytus muitus.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas imperatorių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėlto buvo pamato būgštauti, kad jie gali
-    nepaisyti teisėto susitarimo iš palankumo žmonėms, su
-    kuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio
-    uždavinio: pasikvietęs į palydovus didikus Goštautą,
-    Rumbaudą bei Radvilą, jis išvyko pas imperatorių.
-    Prieš tai susitarė slaptai su karaliumi (apie tai žinojo
-    tiktai karalystės pakancleris Trombą), kad, Vytautui
-    376
-
-    ## Puslapis 375
-
-    išsiaiškinus, jog imperatorius bei jo brolis neabejingi
-    jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
-    mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Jo įkėli mui į chano sostą drauge su juo pasiuntė krašto mar šalą Radvilą 3 2 .'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -160,7 +163,7 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
     gaikščio Kazimiero vardu įsodino jį Radvila į Perekopo
     chanų sostą M .
   citata_rodoma: ''
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -174,20 +177,36 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vis dėlto buvo pamato būgštauti, kad jie gali
-    nepaisyti teisėto susitarimo iš palankumo žmonėms, su
-    kuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio
-    uždavinio: pasikvietęs į palydovus didikus Goštautą,
-    Rumbaudą bei Radvilą, jis išvyko pas imperatorių.
-    Prieš tai susitarė slaptai su karaliumi (apie tai žinojo
-    tiktai karalystės pakancleris Trombą), kad, Vytautui
-    376
-
-    ## Puslapis 375
-
-    išsiaiškinus, jog imperatorius bei jo brolis neabejingi
-    jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
-    mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
+    Jogaila, ne be pagrindo įtardamas,
+    jog visas reikalas kreipiamas
+    J o g a ila
+    n u sp ren d žia
+    į neišvengiamą ginkluotą su-
+    k a riau ti
+    p rieš
+    k r y -
+    sirėmimą, skubiai išvyko į
+    žiu o čiu s
+    Lietuvos Brestą pasitarti dėl
+    karo su skitų chanu ir Vytau­
+    tu. Ten jie nusprendė visomis jėgomis pradėti bendrą
+    karą prieš kryžiuočius. Jie ilgai svarstė reikšmingą ir
+    svarbų klausimą, galintį nulemti visų įvykių raidą, bū­
+    tent, kas daryti, kad kryžiuočių pusėje nekariautų nei
+    imperatorius Zigmantas, nei karalius Vaclovas. Jogaila
+    manė, kad, negavę pagalbos iš vengrų bei čekų, kry­
+    žiuočiai nepajėgsią ilgiau at-
+    S ten giasi
+    p a la ik y ti
+    sispirti; antra vertus, dar te-
+    d ra u g y stę su im pera-
+    begaliojo sutartis, sudaryta
+    to riu m i Z ig m a n tu
+    šešiolikai metų tarp šių šalių
+    valdovų ir Lenkijos bei Lie­
+    tuvos, pagal kurią jie neturėjo teikti kryžiuočiams pa­
+    galbos.
+  citata_rodoma: "Vis dėlto buvo pamato būgštauti, kad jie gali\nnepaisyti teisėto susitarimo iš palankumo žmonėms, su\nkuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio\nuždavinio: pasikvietęs į palydovus didikus Goštautą,\nRumbaudą bei Radvilą, jis išvyko pas imperatorių.\nPrieš tai susitarė slaptai su karaliumi (apie tai žinojo\ntiktai karalystės pakancleris Trombą), kad, Vytautui\n376\n\n## Puslapis 375\n\nišsiaiškinus, jog imperatorius bei jo brolis neabejingi\njų reikalui, kuo greičiausiai, niekam nieko nesakyda­\nmas, ten išvyks ir Jogaila patvirtinti naujo susitarimo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -195,22 +214,34 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   pagrindzia:
     - t-186171
 
-- id: c-176598
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- id: c-178780
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ir didysis kunigaikštis Kazimieras, pagerbęs ir ap­
-    dovanojęs tą chaną Ač-Girėjų, išsiuntė su iškilminga
-    palyda iš Lydos į Perekopo ordą viešpatauti. Jo įkėli­
-    mui į chano sostą drauge su juo pasiuntė krašto mar­
-    šalą Radvilą 3 2 . Ir Radvila atlydėjo jį pagarbiai ligi pa­
-    čios jo sostinės, iki Perekopo3 3 , ir ten didžiojo kuni­
-    gaikščio Kazimiero vardu įsodino jį Radvila į Perekopo
-    chanų sostą M .
+    Kitame Vyslos
+    krante buvo Zavichosto pilis, kur aplinkinių žemių
+    bajorai, bijodami priešo, užsidarė su savo vaikais ir
+    manta, manydami, jog priešas nieku būdu neįstengs
+    persikelti per upę. Mat tomis dienomis, pakilus van­
+    deniui, upė rodėsi neperbrendama, nebuvo čia nei val­
+    čių, nei plaustų, kuriais galėtų kariai persikelti. Visi
+    sunkumai vis dėlto buvo įveikti padarius taip, kaip
+    patarė Radvila, vieno raite-
+    Dėl
+    R a d vilo s
+    sum a-
+    lių būrio vadas;
+    kol kiti
+    num o u žk a ria u ja m a s
+    svarstė, ką daryti, jis, apsu-
+    Za vich o sta s
+    kęs sau apie kairę ranką ark­
+    lio uodegą, pavarė žirgą že­
+    myn į upę ir įsakė saviesiems tą patį daryti.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193973
+    - t-196586

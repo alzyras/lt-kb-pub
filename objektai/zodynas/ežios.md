@@ -35,25 +35,6 @@ Visa žemė buvo išmatuota ir nustatytos aiškios ežios. ežios: tik bylos dė
   teiginys: "Visa žemė buvo išmatuota ir nustatytos aiškios ežios."
   pagrindžia:
     - c-176021
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Visa žemė buvo išmatuota ir nustatytos aiškios ežios.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau didžiojo
-    kunigaikščio žemės buvo sujungtos į didžiulius plotus su aiš-
-    kiomis ribomis; kieno, į didžiojo kunigaikščio žemes įsiterpusi,
-    žemė buvo atimta, tiems buvo duodama žemės kitur.
-    Visa žemė buvo išmatuota ir nustatytos aiškios ežios.
-    Bajorų žemės buvo atskirtos ir nuo dvasininkų žemių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

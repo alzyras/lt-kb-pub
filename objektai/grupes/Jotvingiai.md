@@ -17,15 +17,16 @@ datos:
   - '2026 m.'
 date_start: '1227'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - ordinas
   - tauta
-amziai:
-  - 'XIII'
-  - 'XXI'
+  - valstybė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,138 +48,143 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 
 ## Teiginiai
 
-<a id="claim-t-178767"></a>
-- t-001
-  global_id: t-178767
-  teiginys: "Ivinskis jotvingių sunykimą siejo su badmečių, marų ir žiaurių to meto karų poveikiu."
-  pagrindžia:
-    - c-162471
-
 <a id="claim-t-178768"></a>
-- t-002
+- t-001
   global_id: t-178768
   teiginys: "II tūkstantmečio pradžioje pradėję formuotis jotvingiai buvo nukariauti ir asimiliuoti Vokiečių ordino."
   pagrindžia:
     - c-162476
-
-<a id="claim-t-178769"></a>
-- t-003
-  global_id: t-178769
-  teiginys: "1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių."
-  pagrindžia:
-    - c-162464
-
-<a id="claim-t-178770"></a>
-- t-004
-  global_id: t-178770
-  teiginys: "1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes."
-  pagrindžia:
-    - c-162462
+    - c-180647
 
 <a id="claim-t-178771"></a>
-- t-005
+- t-002
   global_id: t-178771
   teiginys: "Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29."
   pagrindžia:
     - c-162467
+    - c-180641
 
 <a id="claim-t-178772"></a>
-- t-006
+- t-003
   global_id: t-178772
   teiginys: "Jotvingiai, pasistūmėję į Rusios gilumą, kalba ir papročiais buvo panašūs į slavus."
   pagrindžia:
     - c-162468
-
-<a id="claim-t-178774"></a>
-- t-007
-  global_id: t-178774
-  teiginys: "XIII a. duomenimis, Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino."
-  pagrindžia:
-    - c-162473
-
-<a id="claim-t-178775"></a>
-- t-008
-  global_id: t-178775
-  teiginys: "Pagal XIII a. duomenis Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino."
-  pagrindžia:
-    - c-162470
-
-<a id="claim-t-178777"></a>
-- t-009
-  global_id: t-178777
-  teiginys: "Per 1279 metų badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių."
-  pagrindžia:
-    - c-162464
-
-<a id="claim-t-178778"></a>
-- t-010
-  global_id: t-178778
-  teiginys: "Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų antpuolių."
-  pagrindžia:
-    - c-162469
-
-<a id="claim-t-178779"></a>
-- t-011
-  global_id: t-178779
-  teiginys: "Jotvingius badmečiai, marai ir to meto karai privedė prie sunykimo."
-  pagrindžia:
-    - c-162465
-
-<a id="claim-t-178781"></a>
-- t-012
-  global_id: t-178781
-  teiginys: "1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes."
-  pagrindžia:
-    - c-162462
-
-<a id="claim-t-178782"></a>
-- t-013
-  global_id: t-178782
-  teiginys: "Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų ir badmečių."
-  pagrindžia:
-    - c-162466
-
-<a id="claim-t-187707"></a>
-- t-014
-  global_id: t-187707
-  teiginys: "Lietuvos metraštyje Vykintas vaizduojamas sidabru ir įvairiomis dovanomis palenkęs jotvingius ir pusę žemaičių."
-  pagrindžia:
-    - c-170646
-
-<a id="claim-t-187708"></a>
-- t-015
-  global_id: t-187708
-  teiginys: "Tautvilas, pabėgęs pas Vykintą į Žemaitiją, pasiėmė jotvingius, žemaičius ir Danieliaus pagalbą žygiui prieš Mindaugą."
-  pagrindžia:
-    - c-170647
-
-<a id="claim-t-187709"></a>
-- t-016
-  global_id: t-187709
-  teiginys: "Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius."
-  pagrindžia:
-    - c-170648
+    - c-180634
 
 <a id="claim-t-192410"></a>
-- t-017
+- t-004
   global_id: t-192410
   teiginys: "Narbutas rašo, kad Konrado valdymo metu Gotardas, Lukošiaus sūnus, kautynėse suėmė septynis jotvingių kunigaikštukus."
   pagrindžia:
     - c-175204
+    - c-180648
 
 <a id="claim-t-192411"></a>
-- t-018
+- t-005
   global_id: t-192411
   teiginys: "Narbutas rašo, kad galindai ir jotvingiai perėjo Krokuvos Boleslovo ir Kujavijos Kazimiero globon, o kunigaikščiai apie tai pranešė popiežiui."
   pagrindžia:
     - c-175205
+    - c-180640
 
-<a id="claim-t-194980"></a>
+<a id="claim-t-198564"></a>
+- t-016
+  global_id: t-198564
+  teiginys: "Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius."
+  pagrindžia:
+    - c-180642
+
+<a id="claim-t-198565"></a>
+- t-007
+  global_id: t-198565
+  teiginys: "Per 1279 metų badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių."
+  pagrindžia:
+    - c-180645
+
+<a id="claim-t-198566"></a>
+- t-008
+  global_id: t-198566
+  teiginys: "Ivinskis jotvingių sunykimą siejo su badmečių, marų ir žiaurių to meto karų poveikiu."
+  pagrindžia:
+    - c-180636
+
+<a id="claim-t-198567"></a>
+- t-009
+  global_id: t-198567
+  teiginys: "Pagal XIII a. duomenis Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino."
+  pagrindžia:
+    - c-180637
+
+<a id="claim-t-198570"></a>
+- t-010
+  global_id: t-198570
+  teiginys: "1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių."
+  pagrindžia:
+    - c-180645
+
+<a id="claim-t-198571"></a>
+- t-011
+  global_id: t-198571
+  teiginys: "Jotvingius badmečiai, marai ir to meto karai privedė prie sunykimo."
+  pagrindžia:
+    - c-180643
+
+<a id="claim-t-198572"></a>
+- t-012
+  global_id: t-198572
+  teiginys: "XIII a. duomenimis, Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino."
+  pagrindžia:
+    - c-180638
+
+<a id="claim-t-198574"></a>
+- t-013
+  global_id: t-198574
+  teiginys: "1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes."
+  pagrindžia:
+    - c-180633
+
+<a id="claim-t-198577"></a>
+- t-014
+  global_id: t-198577
+  teiginys: "Lietuvos metraštyje Vykintas vaizduojamas sidabru ir įvairiomis dovanomis palenkęs jotvingius ir pusę žemaičių."
+  pagrindžia:
+    - c-180644
+
+<a id="claim-t-198578"></a>
+- t-015
+  global_id: t-198578
+  teiginys: "Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų antpuolių."
+  pagrindžia:
+    - c-180635
+
+<a id="claim-t-198579"></a>
+- t-006
+  global_id: t-198579
+  teiginys: "Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų ir badmečių."
+  pagrindžia:
+    - c-180639
+
+<a id="claim-t-198580"></a>
 - t-019
-  global_id: t-194980
+  global_id: t-198580
   teiginys: "Apie prūsus ir įsakmiai apie jotvingius yra žinoma, jog, norėdami apsisaugoti nuo priešų, jie turėjo susimesti į sustiprintus kaimus."
   pagrindžia:
-    - c-177366
+    - c-180646
+
+<a id="claim-t-198581"></a>
+- t-018
+  global_id: t-198581
+  teiginys: "1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes."
+  pagrindžia:
+    - c-180633
+
+<a id="claim-t-198582"></a>
+- t-017
+  global_id: t-198582
+  teiginys: "Tautvilas, pabėgęs pas Vykintą į Žemaitiją, pasiėmė jotvingius, žemaičius ir Danieliaus pagalbą žygiui prieš Mindaugą."
+  pagrindžia:
+    - c-180632
 - susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1247 m. kunigaikštis Vasilka, išžygiavęs iš Voluinės Vladimiro, trečią dieną pasivijo jotvingius prie Drohičino.
 - susijęs iš [[objektai/asmenys/Vasilka.md#claim-t-190995|Vasilka]]: 1247 m. kunigaikštis Vasilka prie Drohičino pasivijo jotvingius ir, Narbuto pasakojimu, kruviname mūšyje iškovojo pergalę.
 - susijęs iš [[objektai/grupes/Pamarėnai.md#claim-t-63188|Pamarėnai]]: Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.
@@ -221,7 +227,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-192433|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Konradas XIII a. pradžioje, pasak Narbuto, pasiekė didelių laimėjimų Jotvingijoje.
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-192434|Mazovijos kunigaikščiai]]: Mazovijos Ziemovitas 1260 m. birželio 15 d. Trošine sudarė taikos sutartį, kuria kryžiuočiai atidavė jam šeštadalį jotvingių krašto.
 - susijęs iš [[objektai/grupes/Pamarėnai.md#claim-t-63188|Pamarėnai]]: Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.
-- susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187774|Poloviečiai]]: Prieš vokiečius rusai ir poloviečiai jodinėjo su strėlėmis, o jotvingiai buvo ginkluoti trumpomis ietimis.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175114|Sūduviai-jotvingiai]]: Kazio Būgos nuomone, jotvingiai kalbėjo prūsų kalbos tarme.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175116|Sūduviai-jotvingiai]]: Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.
 - susijęs iš [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje.md#claim-t-31394|1279 m. badmetis Lietuvoje ir Jotvingijoje]]: Per 1279 m. badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikštį Vladimirą parduoti rugių.
@@ -281,7 +286,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192445|Prūsai]]: Pasak Teodoro Narbuto pasakojimo, kitą dieną priešams į pagalbą buvo atsiųsti prūsai ir bartai.
 - susijęs iš [[objektai/ivykiai/1227 m. jotvingių antpuoliai iki Voluinės Vladimiro ir mūšis su Danieliumi bei Vasilka.md#claim-t-191038|1227 m. jotvingių antpuoliai iki Voluinės Vladimiro ir mūšis su Danieliumi bei Vasilka]]: Narbutas rašo, kad jotvingiai pasitraukė nuo Vladimiro, o vėlesniame mūšyje Sutras krito nuo kunigaikščių ginklo.
 - susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu.md#claim-t-185589|Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]: Kernavėje sukviestame susirinkime susirinko daug diduomenės, o lietuviai rėmė Vaišvilko išrinkimą valdovu.
-- susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187498|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Pasak šaltinio, po susirėmimo Tautvilas sugrįžo namo į Žemaitiją.
 - susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59728|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Lietuvos ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš Pavyslyje įsikūrusį Kryžiuočių ordiną.
 - susijęs iš [[objektai/paprociai/Bičiulystė ir bitininkystė.md#claim-t-97126|Bičiulystė ir bitininkystė]]: Šalia žemdirbystės, gyvulininkystės, bitininkystės, medžioklės ir žvejybos Lietuvoje buvo puoselėjamas amatas.
 - susijęs iš Johanno Voigto Prūsijos istorija: Narbutas rašė, kad kryžiuočiai į Polesę įsiveržė laikydami ją senąja Prūsijos provincija ir kaltindami Kujavijos kunigaikštį sulaužius sutartį.
@@ -293,9 +297,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - susijęs iš Drohičinas: Narbutas rašo, kad 1247 m. kunigaikštis Vasilka trečią dieną pasivijo jotvingius prie Drohičino.
 - susijęs iš Haličas: Po pergalės prie Drohičino kunigaikštis Vasilka daug belaisvių jotvingių pasiuntė į Haličą savo broliui.
 - susijęs iš Holmas: 1247 metais jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o Narbutas rašo, kad tas kraštas buvo labai nuniokotas.
-- susijęs iš Kernavė: Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę.
 - susijęs iš Narevas: Teodoras Narbutas sprendė, kad po 1237 m. jotvingiai traukėsi nuo Bugo ir Narevo Prūsijos bei Lietuvos sienų link.
-- susijęs iš Naugardukas: Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę.
 - susijęs iš Ochodza: 1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o tas kraštas buvo labai nuniokotas.
 - susijęs iš Polesė: Teodoras Narbutas rašo, kad Kazimieras, priėmęs nusižeminusią jotvingių vyresnybę, pavertė Polesę visiems laikams lenkų valdomis.
 - susijęs iš Semba: Narbutas vaizdavo turtingą Sembą kaip vokiečių godumą skatinusią provinciją, kurios užkariavimo bandymai nepavyko.
@@ -318,273 +320,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - susijęs iš [[objektai/asmenys/Lešekas Juodasis.md#claim-t-190919|Lešekas Juodasis]]: 1282 metais Lešeko Juodojo vadovaujami lenkai prie Narevo užklupo jotvingius ties Ostrolenka.
 - susijęs iš Galinda: 1253 m. kryžiuočiai, siekdami lengviau užimti Sembą, pirmiausia turėjo užkariauti Galindą ir atskirti jotvingius nuo Panemunės kraštų.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    To įrodymu gali būti dažni žygiai į kaimynų kraštus.
-    1282 drauge su jotvingiais lietuviai teriojo Liublino ir Sandomie­
-    riaus žemes; kitais metais, atjoję per Kuršių Neringą, lietuviai
-    puolė Sembą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-    - t-004
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš vienos pusės buvo minima, kad priešai (lenkai) ten
-    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
-    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
-    javų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­
-    metį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,
-    jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami
-    « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL
-    II, 879).
-    Šalia pagrindinių lietuvių verslų (žemdirbystės ir gyvulinin­
-    kystės) ir kitų pridedamųjų užsiėmimų (bitininkystės, medžioklės,
-    žvejybos), buvo puoselėjamas amatas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-009
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Priimant dėmesin ir šitas istorines aplinkybes, nega­
-    lima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų
-    buvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius
-    nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus
-    to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra
-    atsitikę su jotvingiais.
-    Kai IX-XII amž. ariamoji žemdirbystė visame Pabaltijyje
-    padarė pažangą, tuo pačiu galėjo didėti ir gyventojų skaičius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-004
-  santrauka: 'Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų ir badmečių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių
-    pavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten
-    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
-    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
-    javų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­
-    metį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,
-    jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami
-    « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL
-    II, 879).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-005
-  santrauka: 'Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kryžiuočiai patyrė pirmą nuo pat
-    atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
-    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
-    lietuviai29.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ta lietuvių tauta, išsis­
-    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
-    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
-    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
-    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
-    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
-    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
-    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
-    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
-    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
-    išsaugojo gryniausius savo padermės bruožus. Kraštas, ku­
-    rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
-    jų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­
-    tuvių tautos padermių gyvenvietė: Žemaitijos, arba
-    žemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.
-    i
-    Kol istorikai neįstengė rasti patiki­
-    mos išvados apie lietuvių tautos
-    kilmę, kol kas to dar neketinu šia­
-    me veikale aptarti; vis dėlto turiu
-    pripažinti, kad švedų mokslininko
-    Thunmano  tyrinėjimai ir prie­
-    laidos panašiausios į tiesą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų antpuolių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dar neturint masinio šakniavaisių pakaitalo,
-    kokiu tik labai vėlai (XIX amž.) tapo bulvė, sausros ar didelės
-    liūtys privesdavo prie žiaurių badmečių, kurie trukdė gyventojų
-    daugėjimą.
-    Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių
-    pavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten
-    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
-    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
-    javų likučius sudegino (PSRL, II, 834).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-008
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų
-    pareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos
-    priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
-    drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
-    dalis jų yra žinoma ir vardais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Ivinskis jotvingių sunykimą siejo su badmečių, marų ir žiaurių to meto karų poveikiu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tačiau atrodo, kad tie skaičiai yra per maži, nes kitaip
-    tada butu sunku paaiškinti, kaip po intensyvių ir per eilę genera­
-    cijų daug aukų reikalavusių karų su ordinu, tuo pat laiku vykstant
-    stipriai ekspansijai į rytus, butų galėjusi tuojau prasidėti vidaus
-    kolonizacija. Priimant dėmesin ir šitas istorines aplinkybes, nega­
-    lima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų
-    buvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius
-    nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus
-    to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra
-    atsitikę su jotvingiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-010
-  santrauka: 'XIII a. duomenimis, Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Išskyrus Gardiną, tos sritys buvo
-    imta vadinti Juodoji Rusia («Černaja Rus’ »), ir jos jau XII
-    amžiaus pradžioje pateko Lietuvos valdžion. Toliau į pietvakarius
-    ėjo jotvingių žemė. Nors šios sienos yra įvairavusios, tačiau iš
-    XIII amž. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę
-    nuo per balas tekančio Bebro (Narevo prieupio) aukštupio ir Ne­
-    muno prie Gardino.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-011
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vėliau,
-    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
-    nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
-    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
-    tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
-    vėliau įkūrė Prūsijos valstybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-012
-  santrauka: 'Lietuvos metraštyje Vykintas vaizduojamas sidabru ir įvairiomis dovanomis palenkęs jotvingius ir pusę žemaičių.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O
-    paskui Danielius sumanė su savo broliu ir nusiuntė
-    pasiuntinius į Lenkiją, pas lenkų kunigaikščius, bylo­
-    damas: „Dabar proga krikščionims prieš pagonis eiti,
-    nes jie patys vieni su kitais kariauja." Lenkai pažadė­
-    jo, bet netesėjo. Danielius su Vasilka nusiuntė Vykin­
-    tą pas jotvingius ir žemaičius bei į Rygą pas vokiečius,
-    ir Vykintas palenkė juos, jotvingius ir pusę žemaičių
-    sidabru ir įvairiomis dovanomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-013
-  santrauka: 'Tautvilas, pabėgęs pas Vykintą į Žemaitiją, pasiėmė jotvingius, žemaičius ir Danieliaus pagalbą žygiui prieš Mindaugą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Visa tai padarė, kad Lietuva netapo krikščioniška.
-    Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
-    parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė
-    jotvingius ir žemaičius bei Danieliaus pagalbą, kurią
-    Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
-    Mindaugą.
-    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
-    virame lauke nesikauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
 - c-014
   santrauka: 'Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -608,65 +343,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindžia:
     - t-016
 
-- c-015
-  santrauka: 'Narbutas rašo, kad Konrado valdymo metu Gotardas, Lukošiaus sūnus, kautynėse suėmė septynis jotvingių kunigaikštukus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    120
-    Santykiai su lietuviais. Laikui bėgant, matome jotvin­
-    gius kartu su lietuviais puldinėjančius rusų kraštus. Ma­
-    tyti, jog lietuvių padedami jie išsivadavo iš svetimųjų
-    priklausomybės ir savarankiškai, vadovaujami savo vadų
-    arba kunigai'kštukų, įvairiais laikais ir keliais veržėsi į
-    Rusią, Lenkiją ir Mazoviją. Taip vadų rankose buvo su­
-    kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­
-    dant, kai sykį Uchanės grafas Gotardas, Lukošiaus sūnus,
-    kautynėse suėmė septynis jotvingių kunigaikštukus, kiek­
-    vienas jų išsipirko sumokėdamas septynis šimtus gryno
-    sidabro grivinų, o tai yra šiandieninių lenkiškų auksinų
-    po 22 tūkstančius 400 už kiekvieną3. Jotvingiai, nepaisy­
-    dami iš mazoviečių ir prūsų patirtų nesėkmių, gyvendami
-    slavų Brastos kaimynystėje, 1227 metais savo antpuolius
-    išplėtė net iki Voluinės Vladimiro, kur buvo suimti du
-    jotvingių vadai: Sutras Monoduničius ir Stegutas Zebro-
-    vičius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
-- c-016
-  santrauka: 'Narbutas rašo, kad galindai ir jotvingiai perėjo Krokuvos Boleslovo ir Kujavijos Kazimiero globon, o kunigaikščiai apie tai pranešė popiežiui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai lėmė, kad
-    galindai ir jotvingiai drauge perėjo lenkų kunigaikščių,
-    Krokuvos Boleslovo ir Kujavijos Kazimiero, protekcijon,
-    o jie išsiuntė pranešimus apie tai popiežiui. Iš to atsira­
-    do 1253 metų bulė, kuri leido kunigaikščiams priimti sau­
-    goti ir globoti pagonių gentis, jei jos geranoriškai ir be
-    mažiausios prievartos priims krikščionių tikėjimą; šioje
-    bulėje buvo sąlyga, kad teisė atversti užsispyrusius pa­
-    gonis su kalavijais priklauso vokiečių ordino riteriams,
-    lenkų kunigaikščiai neturi į tai įsipainioti nei išplėtoti
-    savo valdžią žemėse, kurios įėjo į naujų diecezijų ribas;
-    be kita ko, popiežius garantavo kunigaikščiams valdžią
-    savanoriškai pasiduodančiose žemėse ir gentyse nuo bet
-    kokių tolesnių kryžiuočių pretenzijų1.
-    124
-    Tokiu popiežiaus nutarimu remdamasis, Kujavijos ku­
-    nigaikštis sudarė krikščionišką Jotvingių provinciją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-
 - c-017
   santrauka: 'Apie prūsus ir įsakmiai apie jotvingius yra žinoma, jog, norėdami apsisaugoti nuo priešų, jie turėjo susimesti į sustiprintus kaimus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -688,100 +364,19 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 
 ## Citatos
 
-- id: c-162462
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    To įrodymu gali būti dažni žygiai į kaimynų kraštus.
-    1282 drauge su jotvingiais lietuviai teriojo Liublino ir Sandomie­
-    riaus žemes; kitais metais, atjoję per Kuršių Neringą, lietuviai
-    puolė Sembą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178781
-    - t-178770
-
-- id: c-162464
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Iš vienos pusės buvo minima, kad priešai (lenkai) ten
-    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
-    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
-    javų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­
-    metį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,
-    jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami
-    « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL
-    II, 879).
-    Šalia pagrindinių lietuvių verslų (žemdirbystės ir gyvulinin­
-    kystės) ir kitų pridedamųjų užsiėmimų (bitininkystės, medžioklės,
-    žvejybos), buvo puoselėjamas amatas.
-  citata_rodoma: "Tuo tarpu per didelį bad­\nmetį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,\njotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami\n« vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL\nII, 879).\nŠalia pagrindinių lietuvių verslų (žemdirbystės ir gyvulinin­\nkystės) ir kitų pridedamųjų užsiėmimų (bitininkystės, medžioklės,\nžvejybos), buvo puoselėjamas amatas."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178769
-    - t-178777
-
-- id: c-162465
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Priimant dėmesin ir šitas istorines aplinkybes, nega­
-    lima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų
-    buvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius
-    nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus
-    to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra
-    atsitikę su jotvingiais.
-    Kai IX-XII amž. ariamoji žemdirbystė visame Pabaltijyje
-    padarė pažangą, tuo pačiu galėjo didėti ir gyventojų skaičius.
-  citata_rodoma: "Priimant dėmesin ir šitas istorines aplinkybes, nega­\nlima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų\nbuvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius\nnebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus\nto laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra\natsitikę su jotvingiais.\nKai IX-XII amž."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178779
-
-- id: c-162466
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių
-    pavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten
-    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
-    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
-    javų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­
-    metį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,
-    jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami
-    « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL
-    II, 879).
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178782
-
 - id: c-162467
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 11"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
-    Kryžiuočiai patyrė pirmą nuo pat
-    atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
-    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
-    lietuviai29.
+    Priešiškuose lietuviams
+    šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
+    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
+    Ordino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
+    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
+    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
+    sutriuškino kryžiuočius mūšio lauke (III, 123).
   citata_rodoma: "Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
   statusas: verified
   teiginio_tipas: faktas
@@ -826,88 +421,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindzia:
     - t-178772
 
-- id: c-162469
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Dar neturint masinio šakniavaisių pakaitalo,
-    kokiu tik labai vėlai (XIX amž.) tapo bulvė, sausros ar didelės
-    liūtys privesdavo prie žiaurių badmečių, kurie trukdė gyventojų
-    daugėjimą.
-    Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių
-    pavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten
-    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
-    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
-    javų likučius sudegino (PSRL, II, 834).
-  citata_rodoma: ") tapo bulvė, sausros ar didelės\nliūtys privesdavo prie žiaurių badmečių, kurie trukdė gyventojų\ndaugėjimą.\nKaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių\npavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten\nrado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­\nriuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar\njavų likučius sudegino (PSRL, II, 834)."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178778
-
-- id: c-162470
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų
-    pareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos
-    priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
-    drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
-    dalis jų yra žinoma ir vardais.
-  citata_rodoma: "Tokiu atskirų sričių kunigų istorijos\npriešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant\ndrauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178775
-
-- id: c-162471
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Tačiau atrodo, kad tie skaičiai yra per maži, nes kitaip
-    tada butu sunku paaiškinti, kaip po intensyvių ir per eilę genera­
-    cijų daug aukų reikalavusių karų su ordinu, tuo pat laiku vykstant
-    stipriai ekspansijai į rytus, butų galėjusi tuojau prasidėti vidaus
-    kolonizacija. Priimant dėmesin ir šitas istorines aplinkybes, nega­
-    lima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų
-    buvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius
-    nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus
-    to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra
-    atsitikę su jotvingiais.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178767
-
-- id: c-162473
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Išskyrus Gardiną, tos sritys buvo
-    imta vadinti Juodoji Rusia («Černaja Rus’ »), ir jos jau XII
-    amžiaus pradžioje pateko Lietuvos valdžion. Toliau į pietvakarius
-    ėjo jotvingių žemė. Nors šios sienos yra įvairavusios, tačiau iš
-    XIII amž. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę
-    nuo per balas tekančio Bebro (Narevo prieupio) aukštupio ir Ne­
-    muno prie Gardino.
-  citata_rodoma: "Toliau į pietvakarius\nėjo jotvingių žemė. Nors šios sienos yra įvairavusios, tačiau iš\nXIII amž. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę\nnuo per balas tekančio Bebro (Narevo prieupio) aukštupio ir Ne­\nmuno prie Gardino."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-178774
-
 - id: c-162476
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -926,72 +439,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178768
-
-- id: c-170646
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 49."
-  citata_originali: |
-    O
-    paskui Danielius sumanė su savo broliu ir nusiuntė
-    pasiuntinius į Lenkiją, pas lenkų kunigaikščius, bylo­
-    damas: „Dabar proga krikščionims prieš pagonis eiti,
-    nes jie patys vieni su kitais kariauja." Lenkai pažadė­
-    jo, bet netesėjo. Danielius su Vasilka nusiuntė Vykin­
-    tą pas jotvingius ir žemaičius bei į Rygą pas vokiečius,
-    ir Vykintas palenkė juos, jotvingius ir pusę žemaičių
-    sidabru ir įvairiomis dovanomis.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187707
-
-- id: c-170647
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 50."
-  citata_originali: |
-    Visa tai padarė, kad Lietuva netapo krikščioniška.
-    Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
-    parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė
-    jotvingius ir žemaičius bei Danieliaus pagalbą, kurią
-    Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
-    Mindaugą.
-    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
-    virame lauke nesikauti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187708
-
-- id: c-170648
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
-    virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir
-    55
-
-    ## Puslapis 51
-
-    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
-    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
-    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
-    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
-    mis ietimis, ir vaikėsi po lauką, tarytum turnyre.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187709
 
 - id: c-175204
   autorius: "Teodoras Narbutas"
@@ -1054,27 +501,382 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindzia:
     - t-192411
 
-- id: c-177366
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+- id: c-180632
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 50"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 50."
   citata_originali: |
-    Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais
-    triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.
-    Apie prūsus ir įsakmiai apie jotvingius yra žinoma, jog, norėdami
-    apsisaugoti nuo priešų, jie turėjo susimesti į sustiprintus kaimus.
-    Galėjo tas pat būti ir Lietuvoje, kai gyventojai iš sunkiau apgi­
-    namų vietų ordino karų laikais vis labiau traukėsi į uždarų sodybų
-    plotus.
+    Visa tai padarė, kad Lietuva netapo krikščioniška.
+    Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
+    parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė
+    jotvingius ir žemaičius bei Danieliaus pagalbą, kurią
+    Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
+    Mindaugą.
+    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
+    virame lauke nesikauti.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194980
+    - t-198582
+
+- id: c-180633
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    To įrodymu gali būti dažni žygiai į kaimynų kraštus.
+    1282 drauge su jotvingiais lietuviai teriojo Liublino ir Sandomie­
+    riaus žemes; kitais metais, atjoję per Kuršių Neringą, lietuviai
+    puolė Sembą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198574
+    - t-198581
+
+- id: c-180634
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus. Kraštas, ku­
+    rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
+    jų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­
+    tuvių tautos padermių gyvenvietė: Žemaitijos, arba
+    žemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.
+    i
+    Kol istorikai neįstengė rasti patiki­
+    mos išvados apie lietuvių tautos
+    kilmę, kol kas to dar neketinu šia­
+    me veikale aptarti; vis dėlto turiu
+    pripažinti, kad švedų mokslininko
+    Thunmano  tyrinėjimai ir prie­
+    laidos panašiausios į tiesą.
+  citata_rodoma: "Ta lietuvių tauta, išsis­\nkyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­\nšius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba \ntikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos \niki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki \nNemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina, \nkad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu \npalei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­\nmą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija, \niki pat Baltijos jūros siekianti, kaip lietuvių genties centras, \nišsaugojo gryniausius savo padermės bruožus. Kraštas, ku­\nrį dabar užima Vilniaus gubernija ir dalis Gardino guberni­\njų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­\ntuvių tautos padermių gyvenvietė: Žemaitijos, arba \nžemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.\ni\nKol istorikai neįstengė rasti patiki­\nmos išvados apie lietuvių tautos \nkilmę, kol kas to dar neketinu šia­\nme veikale aptarti; vis dėlto turiu \npripažinti, kad švedų mokslininko \nThunmano  tyrinėjimai ir prie­\nlaidos panašiausios į tiesą."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180635
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Dar neturint masinio šakniavaisių pakaitalo,
+    kokiu tik labai vėlai (XIX amž.) tapo bulvė, sausros ar didelės
+    liūtys privesdavo prie žiaurių badmečių, kurie trukdė gyventojų
+    daugėjimą.
+    Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių
+    pavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten
+    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
+    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
+    javų likučius sudegino (PSRL, II, 834).
+  citata_rodoma: "Dar neturint masinio šakniavaisių pakaitalo,\nkokiu tik labai vėlai (XIX amž.) tapo bulvė, sausros ar didelės\nliūtys privesdavo prie žiaurių badmečių, kurie trukdė gyventojų\ndaugėjimą.\nKaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių\npavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten\nrado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­\nriuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar\njavų likučius sudegino (PSRL, II, 834)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198578
+
+- id: c-180636
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tačiau atrodo, kad tie skaičiai yra per maži, nes kitaip
+    tada butu sunku paaiškinti, kaip po intensyvių ir per eilę genera­
+    cijų daug aukų reikalavusių karų su ordinu, tuo pat laiku vykstant
+    stipriai ekspansijai į rytus, butų galėjusi tuojau prasidėti vidaus
+    kolonizacija. Priimant dėmesin ir šitas istorines aplinkybes, nega­
+    lima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų
+    buvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius
+    nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus
+    to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra
+    atsitikę su jotvingiais.
+  citata_rodoma: "Tačiau atrodo, kad tie skaičiai yra per maži, nes kitaip\ntada butu sunku paaiškinti, kaip po intensyvių ir per eilę genera­\ncijų daug aukų reikalavusių karų su ordinu, tuo pat laiku vykstant\nstipriai ekspansijai į rytus, butų galėjusi tuojau prasidėti vidaus\nkolonizacija. Priimant dėmesin ir šitas istorines aplinkybes, nega­\nlima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų\nbuvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius\nnebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus\nto laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra\natsitikę su jotvingiais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198566
+
+- id: c-180637
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų
+    pareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos
+    priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
+    drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
+    dalis jų yra žinoma ir vardais.
+  citata_rodoma: "tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų\npareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos\npriešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant\ndrauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.\ndalis jų yra žinoma ir vardais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198567
+
+- id: c-180638
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Išskyrus Gardiną, tos sritys buvo
+    imta vadinti Juodoji Rusia («Černaja Rus’ »), ir jos jau XII
+    amžiaus pradžioje pateko Lietuvos valdžion. Toliau į pietvakarius
+    ėjo jotvingių žemė. Nors šios sienos yra įvairavusios, tačiau iš
+    XIII amž. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę
+    nuo per balas tekančio Bebro (Narevo prieupio) aukštupio ir Ne­
+    muno prie Gardino.
+  citata_rodoma: "Išskyrus Gardiną, tos sritys buvo\nimta vadinti Juodoji Rusia («Černaja Rus’ »), ir jos jau XII\namžiaus pradžioje pateko Lietuvos valdžion. Toliau į pietvakarius\nėjo jotvingių žemė. Nors šios sienos yra įvairavusios, tačiau iš\nXIII amž. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę\nnuo per balas tekančio Bebro (Narevo prieupio) aukštupio ir Ne­\nmuno prie Gardino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198572
+
+- id: c-180639
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių
+    pavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten
+    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
+    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
+    javų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­
+    metį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,
+    jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami
+    « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL
+    II, 879).
+  citata_rodoma: "Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių\npavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten\nrado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­\nriuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar\njavų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­\nmetį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,\njotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami\n« vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL\nII, 879)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198579
+
+- id: c-180640
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 125"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 125."
+  citata_originali: |
+    Tai lėmė, kad
+    galindai ir jotvingiai drauge perėjo lenkų kunigaikščių,
+    Krokuvos Boleslovo ir Kujavijos Kazimiero, protekcijon,
+    o jie išsiuntė pranešimus apie tai popiežiui. Iš to atsira­
+    do 1253 metų bulė, kuri leido kunigaikščiams priimti sau­
+    goti ir globoti pagonių gentis, jei jos geranoriškai ir be
+    mažiausios prievartos priims krikščionių tikėjimą; šioje
+    bulėje buvo sąlyga, kad teisė atversti užsispyrusius pa­
+    gonis su kalavijais priklauso vokiečių ordino riteriams,
+    lenkų kunigaikščiai neturi į tai įsipainioti nei išplėtoti
+    savo valdžią žemėse, kurios įėjo į naujų diecezijų ribas;
+    be kita ko, popiežius garantavo kunigaikščiams valdžią
+    savanoriškai pasiduodančiose žemėse ir gentyse nuo bet
+    kokių tolesnių kryžiuočių pretenzijų1.
+    124
+    Tokiu popiežiaus nutarimu remdamasis, Kujavijos ku­
+    nigaikštis sudarė krikščionišką Jotvingių provinciją.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180641
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Kryžiuočiai patyrė pirmą nuo pat
+    atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
+    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
+    lietuviai29.
+  citata_rodoma: "Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180642
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
+  citata_originali: |
+    Vaišvilkas negalėjo pasiekti Šventojo Kalno, nesgi
+    anuose kraštuose tuomet buvo didelis sąmyšis. Ir par­
+    keliavo jis atgal j Naugarduką, ir įkūrė6 <sau vienuo­
+    lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
+    ir gyveno tenai. O jo tėvas Mindaugas priekaištavo
+    jam, kam tokį gyvenimą pasirinkęs; bet jis savo tėvo
+    labai nemylėjo.
+    Tuo laiku mirė kunigaikštienė Mindaugienė9, ir tas
+    pradėjo jos gedėti. O jos sesuo buvo ištekėjusi už
+    Daumanto, už Nalšios kunigaikščiol0.
+  citata_rodoma: "Mindaugas buvo pasiruošęs, bet nutarė su jais at­\nvirame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir\n55\n\n## Puslapis 51\n\n(naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus, \nir jotvingius. O rytojaus metą prieš vokiečius išjojo \n[Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­\nsai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­\nmis ietimis, ir vaikėsi po lauką, tarytum turnyre."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198564
+
+- id: c-180643
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Priimant dėmesin ir šitas istorines aplinkybes, nega­
+    lima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų
+    buvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius
+    nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus
+    to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra
+    atsitikę su jotvingiais.
+    Kai IX-XII amž. ariamoji žemdirbystė visame Pabaltijyje
+    padarė pažangą, tuo pačiu galėjo didėti ir gyventojų skaičius.
+  citata_rodoma: "Priimant dėmesin ir šitas istorines aplinkybes, nega­\nlima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų\nbuvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius\nnebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus\nto laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra\natsitikę su jotvingiais.\nKai IX-XII amž. ariamoji žemdirbystė visame Pabaltijyje\npadarė pažangą, tuo pačiu galėjo didėti ir gyventojų skaičius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198571
+
+- id: c-180644
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 49."
+  citata_originali: |
+    O
+    paskui Danielius sumanė su savo broliu ir nusiuntė
+    pasiuntinius į Lenkiją, pas lenkų kunigaikščius, bylo­
+    damas: „Dabar proga krikščionims prieš pagonis eiti,
+    nes jie patys vieni su kitais kariauja." Lenkai pažadė­
+    jo, bet netesėjo. Danielius su Vasilka nusiuntė Vykin­
+    tą pas jotvingius ir žemaičius bei į Rygą pas vokiečius,
+    ir Vykintas palenkė juos, jotvingius ir pusę žemaičių
+    sidabru ir įvairiomis dovanomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198577
+
+- id: c-180645
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Iš vienos pusės buvo minima, kad priešai (lenkai) ten
+    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
+    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
+    javų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­
+    metį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,
+    jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami
+    « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL
+    II, 879).
+    Šalia pagrindinių lietuvių verslų (žemdirbystės ir gyvulinin­
+    kystės) ir kitų pridedamųjų užsiėmimų (bitininkystės, medžioklės,
+    žvejybos), buvo puoselėjamas amatas.
+  citata_rodoma: "Iš vienos pusės buvo minima, kad priešai (lenkai) ten\nrado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­\nriuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar\njavų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­\nmetį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,\njotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami\n« vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL\nII, 879).\nŠalia pagrindinių lietuvių verslų (žemdirbystės ir gyvulinin­\nkystės) ir kitų pridedamųjų užsiėmimų (bitininkystės, medžioklės,\nžvejybos), buvo puoselėjamas amatas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198565
+    - t-198570
+
+- id: c-180646
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    To įrodymu gali būti dažni žygiai į kaimynų kraštus.
+    1282 drauge su jotvingiais lietuviai teriojo Liublino ir Sandomie­
+    riaus žemes; kitais metais, atjoję per Kuršių Neringą, lietuviai
+    puolė Sembą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198580
+
+- id: c-180647
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vėliau,
+    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
+    nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
+    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
+    tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
+    vėliau įkūrė Prūsijos valstybę.
+  citata_rodoma: "Vėliau, \nI tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-\nnių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-\nsų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių \ntautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir \nvėliau įkūrė Prūsijos valstybę."
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-180648
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
+  citata_originali: |
+    120
+    Santykiai su lietuviais. Laikui bėgant, matome jotvin­
+    gius kartu su lietuviais puldinėjančius rusų kraštus. Ma­
+    tyti, jog lietuvių padedami jie išsivadavo iš svetimųjų
+    priklausomybės ir savarankiškai, vadovaujami savo vadų
+    arba kunigai'kštukų, įvairiais laikais ir keliais veržėsi į
+    Rusią, Lenkiją ir Mazoviją. Taip vadų rankose buvo su­
+    kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­
+    dant, kai sykį Uchanės grafas Gotardas, Lukošiaus sūnus,
+    kautynėse suėmė septynis jotvingių kunigaikštukus, kiek­
+    vienas jų išsipirko sumokėdamas septynis šimtus gryno
+    sidabro grivinų, o tai yra šiandieninių lenkiškų auksinų
+    po 22 tūkstančius 400 už kiekvieną3. Jotvingiai, nepaisy­
+    dami iš mazoviečių ir prūsų patirtų nesėkmių, gyvendami
+    slavų Brastos kaimynystėje, 1227 metais savo antpuolius
+    išplėtė net iki Voluinės Vladimiro, kur buvo suimti du
+    jotvingių vadai: Sutras Monoduničius ir Stegutas Zebro-
+    vičius.
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Lietuviai]]
 - Kariavo prieš: [[objektai/asmenys/Vasilka]]
 - Buvo užkariauta: [[objektai/grupes/Vokiečių ordinas]]
 - Jotvingiai kariavo prieš [[objektai/grupes/Romėnai]]

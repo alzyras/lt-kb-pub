@@ -25,16 +25,9 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais prie Dono žemupio ir Juodosios jūros. Įpusėjus IV amžiui prieš Kristaus gimimą, sarmatai jau buvo įtakinga dešiniosios Dnepro pakrantės tauta.
+Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais prie Dono žemupio ir Juodosios jūros. Įpusėjus IV amžiui prieš Kristaus gimimą, sarmatai jau buvo įtakinga dešiniosios Dnepro pakrantės tauta. Gatereris1 bergž džiai stengiasi įrodinėti, kad sarmatai tik 80 metais prieš Kristaus gimimą buvo galingi dešiniojo Dnepro kranto gyventojai ir pastatė savo valstybę ant senovės S k i t i j o s griuvėsių, nes nei iki tų metų, nei vėliau negali ma rasti.
 
 ## Teiginiai
-
-<a id="claim-t-192961"></a>
-- t-001
-  global_id: t-192961
-  teiginys: "Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais prie Dono žemupio ir Juodosios jūros."
-  pagrindžia:
-    - c-175731
 
 <a id="claim-t-194865"></a>
 - t-002
@@ -42,6 +35,20 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
   teiginys: "Įpusėjus IV amžiui prieš Kristaus gimimą, sarmatai jau buvo įtakinga dešiniosios Dnepro pakrantės tauta."
   pagrindžia:
     - c-177261
+
+<a id="claim-t-197517"></a>
+- t-003
+  global_id: t-197517
+  teiginys: "Gatereris1 bergž džiai stengiasi įrodinėti, kad sarmatai tik 80 metais prieš Kristaus gimimą buvo galingi dešiniojo Dnepro kranto gyventojai ir pastatė savo valstybę ant senovės S k i t i j o s griuvėsių, nes nei iki tų metų, nei vėliau negali ma rasti."
+  pagrindžia:
+    - c-177261
+
+<a id="claim-t-192961"></a>
+- t-001
+  global_id: t-192961
+  teiginys: 'Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais prie Dono žemupio ir Juodosios jūros.'
+  pagrindžia:
+    - c-175731
 - susijęs iš [[objektai/asmenys/Valuzianas.md#claim-t-191482|Valuzianas]]: Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu, vėliau šlovintu kaip jų nugalėtoju.
 - susijęs iš [[objektai/asmenys/Gatereris.md#claim-t-191269|Gatereris]]: Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo galingais dešiniojo Dnepro kranto gyventojais.
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190871|Herodotas]]: Teodoras Narbutas Herodotą vadino tiksliausiu senovės rašytoju ir jam priskyrė pusiau pasakišką sarmatų kilmę iš amazonių bei skitų.
@@ -88,7 +95,6 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
 - susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192572|revoliucija]]: Teodoro Narbuto pasakojime agatirai galėjo palikti Septynių miestų kraštą, kai sarmatų revoliucijos neleido jiems ramiai gyventi prie Marokos.
 - susijęs iš [[objektai/asmenys/Tacitas.md#claim-t-190975|Tacitas]]: Tacitas rašė, kad roksolanai, sarmatų gentis, nugalėję dvi romėnų kohortas, dideliu būriu įsiveržė į Meziją.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais prie Dono žemupio ir Juodosios jūros.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -118,84 +124,31 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Įpusėjus IV amžiui prieš Kristaus gimimą, sarmatai jau buvo įtakinga dešiniosios Dnepro pakrantės tauta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    62
-
-    ## Puslapis 60
-
-    44
-    Įpusėjus IV amžiui prieš Kristaus gimimą, sarmatai
-    jau buvo įtakinga dešiniosios Dnepro pakrantės tauta.
-    Vėliau jie pradėjo nugalėti skitų-trakų ordas ir valdyti
-    visą Skitiją. Nuo tų laikų sarmatų galybės garsas pa­
-    sklido po Siaurės Vakarų Europos kraštus; visos gentys,
-    gyvenusios nuo Juodosios iki Baltijos jūros, priskiriamos
-    sarmatams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
-
-- id: c-175731
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    63
-
-    ## Puslapis 61
-
-    tam, kad būtų apgyvendintos Europos dykros. Tik iš
-    Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai,
-    yra medų palikuonys, gyvenę prie Dono žemupio ir Juo­
-    dosios jūros; pirmiausia buvo sarmatai, amazonių kara­
-    lienių valdomi ginekokratuinenai, po jų evazai, kotai, ki-
-    kimenai, mesėnai, kostobokai, choatrai, žigai, dandarai,
-    tisagetai, turkai1. Turbūt tos tautos tuomet sudarė sar-
-    matų lygą, nors jos skyrėsi gimine ir kilme tiek, kad,
-    įsigilinus į dabar esančias žinias apie tautų pradžią, prie
-    sarmatų lieka vien ginekokratuinenai, kažin kokia me-
-    dų-skitų gentis, turėjusi santykių su amazonėmis, kurių,
-    kaip teigia mūsų senovės tyrinėtojas2, ir kalbą reikėtų
-    laikyti panašia j skitų.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192961
 
 - id: c-177261
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    62
-
-    ## Puslapis 60
-
-    44
-    Įpusėjus IV amžiui prieš Kristaus gimimą, sarmatai
-    jau buvo įtakinga dešiniosios Dnepro pakrantės tauta.
-    Vėliau jie pradėjo nugalėti skitų-trakų ordas ir valdyti
-    visą Skitiją. Nuo tų laikų sarmatų galybės garsas pa­
-    sklido po Siaurės Vakarų Europos kraštus; visos gentys,
-    gyvenusios nuo Juodosios iki Baltijos jūros, priskiriamos
-    sarmatams.
+    Tai, kokia buvo jų val­
+    džia, kalba ir kokie papročiai, nežinoma. Gatereris1 bergž­
+    džiai stengiasi įrodinėti, kad sarmatai tik 80 metais
+    prieš Kristaus gimimą buvo galingi dešiniojo Dnepro
+    kranto gyventojai ir pastatė savo valstybę ant senovės
+    S k i t i j o s griuvėsių, nes nei iki tų metų, nei vėliau negali­
+    ma rasti sarmatų valstybės šia prasme. Neabejotina tik
+    tai, kad, kaip jau sakėme, kažkokia iš daugelio ir dau­
+    giausia už Dono gyvenusių genčių sudaryta lyga, kuriai
+    vadovaudami sarmatai gavo savo pavadinimą, žlungant
+    skitams įsiliejo į Europą ir sukėlė jos tautų judėjimą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194865
+    - t-197517
 
 ## Ryšiai
 - Sarmatai gyveno [[objektai/vietos/Donas]]

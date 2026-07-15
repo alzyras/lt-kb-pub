@@ -7,12 +7,12 @@ datos:
   - '1980 m.'
 date_start: '1980'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad wojtkowiak Z.
   teiginys: "Z. Wojtkowiako knyga apie Užnerio Lietuvą XV a. ir XVI a. pirmojoje pusėje išleista Poznanėje 1980 m."
   pagrindžia:
     - c-62002
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Z. Wojtkowiako knyga apie Užnerio Lietuvą XV a. ir XVI a. pirmojoje pusėje išleista Poznanėje 1980 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,13 @@ Dusburgietis teigia, kad wojtkowiak Z.
 - id: c-62002
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Wojtkowiak Z. Litwa Zawilejska w XV i pierwszej połowie XVI w.—Poznań, 1980.
+    —
+    Baltistica, 1980, 16(1), р. 19—24.
+    Пашуто В. Т. Помезания: «Помезанская правда» как исторический источник
+    изучения общественного и политического строя Помезании XIII—XIV вв.
+  citata_rodoma: "Wojtkowiak Z. Litwa Zawilejska w XV i pierwszej połowie XVI w.—Poznań, 1980."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

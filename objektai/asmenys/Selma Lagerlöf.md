@@ -36,28 +36,6 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
   pagrindžia:
     - c-35983
 - susijęs iš Kristaus rožės legenda ir kiti pasakojimai: „Kristaus rožės legenda ir kiti pasakojimai“ buvo Selmos Lagerlöf pasakojimų leidinys.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    3. Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­
-    JIMAI. Vertė J. T.
-    Didžiojo karo įtakoje žmonės tartum pasidarė žiauresni; netei­
-    singumas ir įvairios suktybės dar labiau, rodos, įsivyravo, negu tai
-    buvo pirmiau, šeimos Lagerlöf raštuose dvelkia žmoniškumas. Jos
-    raštus perskaitęs, žmogus jauti, kad širdis švelnėja, atsiranda dau­
-    giau meilės, ne tik geriems, bet ir nusižengusiems žmonėms. Auto­
-    rė už savo gražius ir sentimentalius raštus yra gavusi Nobelio pre­
-    miją, taigi matyt, kad jos raštai yra labai didelės literatūrinės vertės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-35983

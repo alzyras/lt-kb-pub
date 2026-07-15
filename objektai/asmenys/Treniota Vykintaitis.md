@@ -36,38 +36,6 @@ media_all_json: |-
   teiginys: "Tikėtina, kad Treniota Vykintaitis vadovavo lietuvių kariuomenei Durbės mūšyje."
   pagrindžia:
     - c-44543
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tai buvo Lietuvos, vakarinių lie-
-    tuvių-žemaičių, dalyvaujant aukš-
-    taičiams, padedant nuo priešų
-    atsimetusiems kuršiams, pergalė.
-    Įtikimiausia, kad lietuvių kariuome-
-    nei Durbės mūšyje bus vadovavęs
-    Treniota Vykintaitis, Mindaugo sesers
-
-    ## Puslapis 29
-
-    sūnus, žymus to laikotarpio Mindaugo
-
-    karo vadas (kronikininko P. Dusburgiečio
-
-    vadinamas „lietuvių karaliaus sūnumi“),
-
-    vadovavęs tolimuose lietuvių žygiuose
-
-    į Livoniją, Prūsiją, Pavyslį, Lenkiją.
-    Lietuvos valdovas Mindaugas to meto
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

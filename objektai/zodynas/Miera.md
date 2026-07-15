@@ -45,6 +45,7 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
   pagrindžia:
     - c-09710
 - susijęs iš [[objektai/daiktai/Pavaža.md#claim-t-195350|Pavaža]]: Senas vežimo pagrindas, naudotas dėdeliui vežti per kaimą.
+- susijęs iš [[objektai/ivykiai/Deputato Łapos ir Weysenhoffo susirėmimas Vilniuje (1758 m. rugsėjo 9 d.).md#claim-t-200606|Deputato Łapos ir Weysenhoffo susirėmimas Vilniuje (1758 m. rugsėjo 9 d.)]]: Per 1758 m. susirėmimą Antanui Lapai sužeista kakta ir ranka, o Weysenhofui - nosis, ranka ir kakta; jis prarado pirštą.
 - susijęs iš [[objektai/posakiai/Krikštynos, prikeltuvės.md#claim-t-195419|Krikštynos, prikeltuvės]]: Sutvarkant vežimą šaukiama „Krikštynos, prikeltuvės“.
 - susijęs iš Karališkasis malūnas Vilniuje: 1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.
 - susijęs iš [[objektai/asmenys/Antanas Buračas.md#claim-t-183523|Antanas Buračas]]: Antanas Buračas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę.
@@ -83,21 +84,6 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - susijęs iš Vilniaus tiltas per Viliją: Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.
 - susijęs iš [[objektai/zodynas/Kraičvežiai.md#claim-t-195626|Kraičvežiai]]: Kraičvežiai šiame šaltinyje saugo kraitį ir gauna vaišes bei dovanas.
 - susijęs iš [[objektai/zodynas/Varianka.md#claim-t-195455|Varianka]]: Varianka šiame šaltinyje yra skysčiui perleisti vartojamo lovelio ar piltuvėlio pavadinimas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Miera arba saikas citatoje apima storumo ir tekumo matavimus, o svoriui minimas svaras arba voga.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Miera, ar saikas, storumo buvo: žiupsnis, rieškutės, gniūžtis^1137 , našta, klėbys, ašis^1138 , sauja, grįžtis, kepurė, rakandą, druskinė, dvolikis^1139 , sėtuvė, pūras, bačka, vežimas. Miera, arba saikas, tekumo^1140 buvo: lašas, tauragė^1141 , kaušas, krūžas^1142 ,^ kipis^1143 , milžtuvė, legerė^1144 , vogonas^1145 , verpelė^1146 , bačka, bosas ir taip toliau. Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^1150.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-09710

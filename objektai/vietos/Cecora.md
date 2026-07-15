@@ -41,53 +41,7 @@ media_all_json: |-
   teiginys: "1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės."
   pagrindžia:
     - c-45051
-
-<a id="claim-t-183780"></a>
-- t-002
-  global_id: t-183780
-  teiginys: "1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės."
-  pagrindžia:
     - c-167168
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1620 m. Lenkijos kariuomenė įžengė
-    į Valakiją ir mūšyje prie Cecoro ne-
-    toli Jasų buvo sutriuškinta Turkijos ka-
-    riuomenės. Lenkijos kariuomenė buvo
-    sunaikinta, žuvo pats didysis karū-
-    nos etmonas, kadaise užėmęs
-    Maskvą, S. Žolkievskis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Turkija siekė užvaldyti visą vi-
-    dinių kovų draskomą Moldaviją ir Valakiją
-    bei plėsti savo ekspansiją toliau į Lenkijai
-    priklausiusios Ukrainos teritoriją.
-
-    1620 m. Lenkijos kariuomenė įžengė
-    į Valakiją ir mūšyje prie Cecoro ne-
-    toli Jasų buvo sutriuškinta Turkijos ka-
-    riuomenės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -129,5 +83,3 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183780

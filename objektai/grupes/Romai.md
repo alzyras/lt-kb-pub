@@ -65,26 +65,6 @@ Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose L I E
 - susijęs iš [[objektai/zodynas/pagonybė.md#claim-t-101593|pagonybė]]: Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija.
 - susijęs iš [[objektai/zodynas/pagonybė.md#claim-t-101595|pagonybė]]: Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija.
 - susijęs iš [[objektai/zodynas/pagonybė.md#claim-t-101596|pagonybė]]: Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose kraštuose likviduoti romus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose
-
-    L I E T U V O S  I S T O R I J A
-    202
-    kraštuose likviduoti žydus, romus, nepagydomus ir psichinius ligonius,
-    sovietų valdžios ir komunistų partijos darbuotojus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-66377

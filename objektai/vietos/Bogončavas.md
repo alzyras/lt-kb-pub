@@ -47,41 +47,12 @@ Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miest
 - susijęs iš [[objektai/asmenys/Baturlinas.md#claim-t-191255|Baturlinas]]: Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Narbuto vertinimu naujausius Herodoto geografijos paaiškinimus.
 - susijęs iš [[objektai/autoriai/Baturlinas.md#claim-t-191579|Baturlinas]]: Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė naujesnius Herodoto geografijos paaiškinimus.
 - susijęs iš [[objektai/grupes/Gelonai.md#claim-t-192387|Gelonai]]: Herodoto pasakojime į šiaurę nuo gelonų ir budinų krašto driekėsi septynių dienų kelio dykra, o už jos gyveno tisagetai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miestų apylinkes Dono ir Doneco tarpupyje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Naujausių ir tiksliau­
-    sių šios graikų istoriko geografijos paaiškinimų pateikė
-    generolas Baturlinas, aprašydamas Darijaus žygį prieš
-    Skitiją2. Pasak jo, gelonų gyventa dabartinėje Staro-
-    belsko apskrityje, o budinai gyveno visai greta, rytų link
-    buvo užėmę šiandienių Voluikos ir Bogončavo miestų
-    apylinkes, vadinasi, šių abiejų genčių gyvenamas kraš­
-    tas plytėjo Dono ir Doneco tarpupyje, jo plotas iš pietų
-    į šiaurę galėjo būti nuo 48 iki 51 laipsnio platumos, o
-    tisagetai buvo įsikūrę šiandienėse Oriolo, Tūlos, Riaza-
-    nės, Tambovo ir Penzos gubernijose. Šios gentys buvo
-    laikomos getų karta, kuri anksčiau turėjusi gyventi prie
-    Tisos, arba Tibiskos, upės, įtekančios į Dunojų ir dėl to
-    taip vadinamos3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175636
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 73"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Naujausių ir tiksliau­
     sių šios graikų istoriko geografijos paaiškinimų pateikė

@@ -56,24 +56,6 @@ Nenurodyta
   pagrindžia:
     - c-41020
 - susijęs iš Prūsija: XVIII a. pabaigoje didesnė dalis LDK kariuomenei skirtų muškietų buvo nupirkta stiprią karinę pramonę turėjusioje Prūsijoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ## Puslapis 151
-
-    Pėstininkų muškieta titnagine spyna (pėstininkų fuzėja). Kalibras — 18 mm, Prūsija, XVIII a.
-    pabaiga. Lygiavamzdžiai šautuvai titnaginėmis spynomis XVIII-XIX a. buvo pėstininkų ginkluotės
-    pagrindas, artimajame mūšyje juos naudodavo su pritvirtintais durtuvais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Puslapis 151 Pėstininkų muškieta titnagine spyna (pėstininkų fuzėja).
 
 Nenurodyta

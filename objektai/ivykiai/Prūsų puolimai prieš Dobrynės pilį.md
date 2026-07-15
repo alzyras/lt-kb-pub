@@ -59,34 +59,13 @@ Nenurodyta
   teiginys: "Prūsai kelis kartus su gausybe ginkluotų vyrų puolė Dobrynės pilį ir privertė brolius vengti rodytis už pilies sienų."
   pagrindžia:
     - c-63764
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prūsai kelis kartus su gausybe ginkluotų vyrų puolė Dobrynės pilį ir privertė brolius vengti rodytis už pilies sienų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kunigaikštis
-    ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
-    padedami, ateityje pajungsią savo valdžiai. Kai apie tai sužinojo prūsai, jie, smarkiai
-    suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
-    ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170. To maža,
-    ilgainiui jie taip suįžūlėjo, kad nuolatos penki ar keturi prūsai kiek tinkami prie pilies
-    plėšikavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63764
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kunigaikštis
     ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties

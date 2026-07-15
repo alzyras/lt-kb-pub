@@ -2,27 +2,27 @@
 tipas: asmuo
 pavadinimas: 'Kazimieras Didysis'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1325 m.'
   - '1370 m.'
 date_start: '1325'
 date_end: '1370'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - istorikas
   - karalius
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -137,15 +137,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   pagrindžia:
     - c-167778
 
-<a id="claim-t-184748"></a>
-- t-014
-  global_id: t-184748
-  teiginys: "Lenkai tvirtino, kad Kazimieras Didysis užėmė Podolę ginklo ir paveldėjimo teisėmis ir pavertė ją Lenkijos sritimi."
-  pagrindžia:
-    - c-168109
-
 <a id="claim-t-194230"></a>
-- t-015
+- t-014
   global_id: t-194230
   teiginys: "Koks Lenkijai bu vo Kazimieras Didysis, tokiu Lietuvai tapo Žygimantas Se nasis."
   pagrindžia:
@@ -156,189 +149,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184709|Goštautas (vyskupas, XV a.)]]: Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.
 - susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89430|Mūro sienos ir miesto sienos]]: Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.
 - susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87059|Mūro sienos]]: Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.
-- susijęs iš Vilnius: Prie Vilniaus pilies prieglobsčio ieškojo žmonės, tikėjęsi apsisaugoti nuo kryžiuočių.
-- susijęs iš Vilnius: Ankstyvasis Vilnius, anot šaltinio, labiau priminė kelis sujungtus didelius kaimus negu mūro sienų ir bokštų saugomą miestą.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jau tada bekovodamas su Ordinu Lenkų kara­
-    lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­
-    žiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­
-    daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir
-    Vladislovo sūnaus Kazimiero (busimojo Kazimiero didžiojo)
-    jungtuvės^2 ). Bet ta sąjunga nieko gero nedavė. 1343 mt. Kališiaus
-    taika lenkų - Ordino ginčas kuriam laikui buvo išrištas. Už
-    gautą Kujavų ir Dobrynės žemę Kazimieras didysis sutiko
-    Pamarį palikti Ordinui^3 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-006
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gediminas, užsitikrinęs sau-
-    dybomis, buvo labai tvirti ir svarbūs.
-    Iš jų Aldona, arba Aldoina, per
-    krikštą pavadinta Ona, buvo ištekin­
-    ta už Lenkijos karaliaus Kazimiero
-    Didžiojo. Danmilė, pakrikštyta Elž­
-    bieta, už Vaclovo - Mazovijos kuni­
-    gaikščio, Marija - už Boleslovo - Ru­
-    sios kunigaikščio; o ketvirtoji,
-    bevaikė, - už Rusios didžiojo kuni­
-    gaikščio Dmitrijaus Michailovičiaus,
-    1326 metų spalio 15 dieną totorių
-    chano Uzbeko įsakymu nužudyto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-    - t-001
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ne mažiau jų davė ir santykiai su Lenkija. Rytų Europos
-    tolimesniam vystymuisi yra laikoma labai stambiu įvykiu^12 , kad
-    Lietuvos valdovas tapo karaliumi kaimyninėje lenkų žemėje. Tai
-    reiškė pradžią visai naujos, beveik du amžiu (1386-1572) patveru­
-    sios Jogailaičių epochos, sekusios keliolika metų po paskutiniojo
-    Piasto Kazimiero Didžiojo mirties (1370).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-
-    kiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą
-    Aldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-
-    mieru. 1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė
-    1200 savo raitelių ir bendromis pastangomis su lenkais ties Frank-
-    furtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino
-    valdų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-005
-  santrauka: '1325 m. Gedimino duktė Aldona (Ona) buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimo Kazimiero III Didžiojo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Neumark, dab. Nowe Miasto
-    Lubawskie (SZCh, p. 87—88) Drevantos aukštupyje.
-      592 Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos
-    sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kalyšiaus sutartimi atsi­
-    sakė nuo Pamario ir kitų kraštų Ordino naudai. Jau anksčiau
-    prasidėjęs didelis spaudimas vakaruose lenkus dabar automatiš­
-    kai atgręžė į rytus. Šitą atsigręžimą lenkų istorikas Kocha­
-    novskis vadina nemirštama Kazimiero D. politikos idėja, nes
-    ji parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­
-    se^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-013
-    - t-011
-
-- c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pagaliau nemažai įvairių tenykš­
-    čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­
-    globsčio prie Vilniaus pilies. Taip kūrėsi Vilnius, kuris tuo­
-    met, regis, buvo panašesnis į keletą didelių kaimų, sujungtų
-    į vieną, negu į tokį padorų, bokštų ir mūro sienų saugomą
-    miestą, kokie XIV amžiuje kilo jau visoje Vokietijoje, ar ko­
-    kiais Kazimieras Didysis puošė ir tvirtino Lenkiją. Gedimi­
-    no viešpatavimas Lietuvai anuomet buvo tokia pat epocha,
-    kokia Lenkijai buvo Boleslovo Didžiojo, o Henriko Paukšti-
-    ninko - Vokietijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-008
-
-- c-008
-  santrauka: 'Kazimieras III Dobrynės žemę buvo atidavęs Vladislovui iš Opolės.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lenkijoj ėjo nuo seniau ginčas
-    dėl Dobrynės žemės. Tą žemę Kazimieras III buvo atidavęs
-    Vladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas
-    Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Žydai, dar XI am­
-    žiuje paplitę kaimyninėje Lenkijoje, Lietuvoje irgi nuo seno
-    buvo ne naujiena, juk laisvai galėjo į ją atvykti, tiek Lenkijos
-    sieną kirsdami, tiek ir iš rytų pusės. Tikriausiai jau Algirdo
-    laikais Vilnius juos bus pažinęs, bet Vytautas, kaip pavyzdį pri­
-    simindamas Kazimierą Didįjį, kuris žydų tautybės žmonių, ga­
-    nėtinai pasiturinčių, apsčiai pritelkė savo naujai pastatydintuo­
-    se miestuose, be to, išmanė, kiek naudos gali duoti turtai, verslai
-    bei įgimti sugebėjimai prekiauti tos tautos, anuomet ne tokios
-    kenksmingos kaip dabar. Taigi siekdamas to, nes matė jau ga-
-    66
-    Žr. Vol.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-    - t-004
-
 - c-010
   santrauka: 'Lenkai tvirtino, kad Kazimieras Didysis užėmė Podolę ginklo ir paveldėjimo teisėmis ir pavertė ją Lenkijos sritimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -366,40 +177,11 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     ligi jų gyvos galvos.
   citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-011
-  santrauka: 'Koks Lenkijai bu vo Kazimieras Didysis, tokiu Lietuvai tapo Žygimantas Se nasis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Bet Lietuvos valdymą perėmė karalius
-    —  • —
-    257
-
-    ## Puslapis 274
-
-    258
-
-    ## Puslapis 275
-
-    IV KNYGA
-    Žygimantas Senasis, apdovanotas proto ir charakterio pri­
-    valumais ir tvirtai siekiantis įvesti tvarką. Koks Lenkijai bu­
-    vo Kazimieras Didysis, tokiu Lietuvai tapo Žygimantas Se­
-    nasis. Jis pirmas nukreipė Lietuvos valdymo mechanizmą
-    reikiama kryptimi, stipria ranka suėmė valdžios vadžias ir
-    apgalvotai ėmėsi veiklos.
-  citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
+    - t-014
 
 ## Citatos
 
@@ -451,8 +233,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184420
     - t-184409
+    - t-184420
 
 - id: c-167775
   autorius: "Zenonas Ivinskis"
@@ -496,12 +278,11 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 - id: c-167777
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 223"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 223."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Neumark, dab. Nowe Miasto
     Lubawskie (SZCh, p. 87—88) Drevantos aukštupyje.
-      592 Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos
+    592  Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos
     sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.
   citata_rodoma: "Neumark, dab. Nowe Miasto\nLubawskie (SZCh, p. 87—88) Drevantos aukštupyje.\n  592 Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos\nsūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo."
   statusas: verified
@@ -531,8 +312,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184414
-    - t-184421
     - t-184419
+    - t-184421
 
 - id: c-167779
   autorius: "Michał Baliński"
@@ -599,41 +380,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184418
     - t-184412
-
-- id: c-168109
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto
-    laikais sudaryti susitarimai, be to, vėliau, Žygimanto
-    laikais, paskelbti potvarkiai iš viso negalį būti keičiami,
-    nes jų teisėtumas nekeliąs jokių abejonių, antra vertus,
-    nieku būdu negalima liesti ir keisti ištarmių, daugel
-    kartų patvirtintų abiejų tautų didikų bei valdovų prie­
-    saikomis, antspaudais bei parašais. Podolė atitekusi Len­
-    kijos karalystei ne dėl to, kad jie atplėšė ją nuo Lie­
-    tuvos, kuri į ją neturinti jokių teisių, bet todėl, kad
-    ją kadaise užėmė karalius Kazimieras Didysis, iš dalies
-    remdamasis ginklo, iš dalies — paveldėjimo teisėmis, ir
-    pavertė Lenkijos sritimi bei Lenkijos karalių nuosavy­
-    be. Jogaila, vainikuotas karaliumi, Podolę užleidęs Vy­
-    tautui, Švitrigailai ir Žygimantui todėl, kad apskritai
-    mėgęs apdalyti valdomis valstybei nusipelniusius vyrus,
-    489
-
-    ## Puslapis 488
-
-    rodydamas malonę, turėjusią trukti ne ilgiau, kaip
-    ligi jų gyvos galvos.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184748
+    - t-184418
 
 - id: c-176828
   autorius: "Michał Baliński"

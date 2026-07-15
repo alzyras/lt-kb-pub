@@ -35,35 +35,6 @@ Jokio atskiro turto, kaip valdų ar piniginių sumų, Aka­ demija neturi, išsk
   teiginys: "Akademija dalį pajamų iš kolegijai užrašytų sumų ir turtų skyrė civilinės ir kanonų teisės profesoriams."
   pagrindžia:
     - c-82570
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Akademija dalį pajamų iš kolegijai užrašytų sumų ir turtų skyrė civilinės ir kanonų teisės profesoriams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    185
-
-    ## Puslapis 202
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    Šioji privilegija aprobuota visų karalių, iki pat dabartinio,
-    laimingai viešpataujančio.
-    Jokio atskiro turto, kaip valdų ar piniginių sumų, Aka­
-    demija neturi, išskyrus tai, kad nuo kai kurių kolegijai užra­
-    šytų piniginių sumų ir turtų dalis pajamų Juris Civilis et Ca­
-    nonici [civiline ir kanonų teise] profesoriams, taip pat
-    profesorių ir studentų praemia [atlyginimo] dėlei ir varguo­
-    liams yra skirta, būtent nuo Počajevičių [valdos], keturių Ju­
-    ris Canonici et Civilis profesorių dėlei.
-    Iš Joniškio - neturtingiems studentams kasdien Olia Cha-
-    ritatis [labdaringi pietūs] ir duonos kepalas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

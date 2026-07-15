@@ -40,23 +40,6 @@ media_all_json: |-
   teiginys: "1387 m. vasario 22 d. Jogaila išleido raštą, kuriuo prisiekė visus lietuvius patraukti į savo pusę ar net jėga priversti priimti katalikybę."
   pagrindžia:
     - c-23789
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ši privilegija yra
-    svarbiausias krikščionybės įvedimo Lietuvoje aktas. Vasario 22-ąją Jogai-
-    la išleido raštą, kuriuo visus lietuvius prisiekė patraukti į savo pusę ar net
-    jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
-    šalimi, panaikino pagrindinę politinės izoliacijos priežastį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

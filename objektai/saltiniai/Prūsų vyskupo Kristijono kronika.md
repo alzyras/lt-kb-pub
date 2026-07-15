@@ -62,8 +62,8 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   teiginys: "Teodoro Narbuto teigimu, vyskupo Kristijono kronika vadinosi „Liber filiorum Belini“, o jos pradžią sudarė Jaroslavo kronika."
   pagrindžia:
     - c-174602
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia apie sieros šaltinį netoli prūsų Romovės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -79,31 +79,6 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Hartknocho liudijimu, vyskupas Kristijonas buvo senovės Prūsijos kronikos autorius, o ją citavo Grunau, Henenbergeris, Vaiselijus ir Lukas Davidas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Iš imperatoriaus Augusto valdy­
-    mo Romos valstybėje epochos išliko geografijos—istorijos
-    paminklas, susijęs su mūsų tema. ITartknochas savo prūsų
-    istorijos 20 puslapyje rašo« jog pirmasis Kulmo, arba Prū­
-    sijos, vyskupas Kristijonas, autorius kronikos, kuri buvo
-    laikoma pradingusia, apie senovės Prūsiją, — ją cituoja
-    ir mūsų kronikininkai Grunau, Henenbergeris, Vaiselijus
-    ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
-    neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
-    te, vėliau pavadintame Prūsija, stebėjimus. Mes panau­
-    dosime Hartknocho aprašytus padavimus, pridurdami ir
-    Luko Davido kronikos teiginius, kurių nežinojo anas au­
-    1 Lib.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 - c-003
   santrauka: 'Pasak Teodoro Narbuto, vyskupas Kristijonas Divonio kelionės aprašymą rado Plocko kanauninko Jaroslavo kronikoje.'
@@ -124,53 +99,22 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   pagrindžia:
     - t-003
 
-- c-004
-  santrauka: 'Teodoras Narbutas vaizduoja Kulmo vyskupą Kristijoną kaip į savo kroniką įrašiusį ištrauką iš Plocko kronikininko raštų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai turėjusi
-    būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
-    mis2. Kulmo vyskupas su jam būdingu kuklumu ir tei­
-    singumu įrašė į savo kroniką ištrauką iš Plocko kroniki­
-    ninko raštų3. Visos svarbiausios šio veikalo detalės turi
-    geriausių šiaurinių kraštų tyrinėtojų išvadas4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Teodoro Narbuto teigimu, vyskupo Kristijono kronika vadinosi „Liber filiorum Belini“, o jos pradžią sudarė Jaroslavo kronika.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    3 Apie tikrą egzistavimą vyskupo Kristijono kronikos, kuri vadi­
-    nosi Liber filiorum Belini, cum suis superstitionibus Brutiae factionis
-    incipit cum molestia cordis ir kurios pradžią sudarė Jaroslavo kroni­
-    ka, o vėliau autoriaus pastabos, nėra abejonių, atsižvelgiant j tai, ką
-    šia tema parašė ponas Foigtas (Gesch. Preuss. B. I. S. 617).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-174598
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
-    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
-    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
-    S. 261).
+    Gintaras lenkiškai vadinamas bursztyrv,
+    jo pavadinimas pasiskolintas iš vokiečių kalbos bdrnstein,
+    galbūt iš žodžio boernen, kuris reiškia „degti“, t. y. degus
+    akmuo. Visuose lietuvių kalbos dialektuose vadinamas
+    Gentoras; šio pavadinimo šaltinis, kaip spėja daugelis fi­
+    lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
+    ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės. Rusiškas
+    žodis Hentar pasiskolintas iš lietuvių.
+  citata_rodoma: "2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,\njog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­\nlima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L\nS. 261)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -181,8 +125,7 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
 - id: c-174599
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš imperatoriaus Augusto valdy­
     mo Romos valstybėje epochos išliko geografijos—istorijos
@@ -207,16 +150,17 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
 - id: c-174600
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau Tidemanas rašo, kad
-    jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
-    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
-    ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­
-    no rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi
-    būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
-    mis2.
+    Visos svarbiausios šio veikalo detalės turi
+    geriausių šiaurinių kraštų tyrinėtojų išvadas4. Tik buvo
+    manoma, kad už Divonio vardo slypi kažkoks romėnų
+    astronomas, kuris buvo įpareigotas išmatuoti šiaurinę Eu­
+    ropą; šie Julijaus Cezario pradėti matavimai vyko be pa­
+    liovos net iki dešimtojo Augusto Oktaviano konsulato, t. y.
+    iki 24 metų prieš Kristaus gimimą. Tiems topografams
+    vadovavo kažkoks Teodoras, Teodatas ar Tironas5.
+  citata_rodoma: "Tačiau Tidemanas rašo, kad\njis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės\naprašymas išliko rankraštyje, kuris atiteko Plocko kated­\nros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­\nno rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi\nbūti knyga, parašyta slavų kalba, bet graikiškomis raidė­\nmis2."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -227,8 +171,7 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
 - id: c-174601
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai turėjusi
     būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
@@ -246,8 +189,7 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
 - id: c-174602
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     3 Apie tikrą egzistavimą vyskupo Kristijono kronikos, kuri vadi­
     nosi Liber filiorum Belini, cum suis superstitionibus Brutiae factionis

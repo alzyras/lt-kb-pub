@@ -43,23 +43,6 @@ PIRMAS SKYRIUS ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž.
   teiginys: "1129 m. didysis kunigaikštis Mstislavas Vladimirovičius išvijo Polocko kunigaikštį Rostislavą Rogvoldovičių su broliais iš Polocko."
   pagrindžia:
     - c-83551
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1129 m. didysis kunigaikštis Mstislavas Vladimirovičius išvijo Polocko kunigaikštį Rostislavą Rogvoldovičių su broliais iš Polocko.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    PIRMAS SKYRIUS
-    ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž. kun. Mstis­
-    lavo Vladimirovičiaus išvytas su broliais iš Polocko 1129 m. Išvyko į Kon­
-    stantinopolį, iš kur paskui pakviestas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

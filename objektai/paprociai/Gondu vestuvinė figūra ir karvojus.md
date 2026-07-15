@@ -56,8 +56,8 @@ Nenurodyta
   teiginys: "Narbutas skiria Gondu nuo karvojaus: Gondu vestuvėse paliekamas ant stalo neliestas, o tikrasis karvojus suvalgomas."
   pagrindžia:
     - c-172716
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gondu figūra Merkinės valsčiuje buvo statoma ant apvalaus duonos kepalo, apvynioto baltu rankšluosčiu, ir puošiama audiniu, skarele, kaspinais bei žalumynais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -105,20 +105,23 @@ Nenurodyta
 - id: c-172715
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 143"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 143."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šios dievybės atvaizdą pasiseka pamatyti kai kuriose Lie­
-    tuvos vietovėse, kur išlikę senieji papročiai, ypač Merkinės vals­
-    čiuje. Ant apvalaus 10 colių skersmens duonos kepalo, apvy­
-    nioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai
-    panaši į ulonų kepurę -  sulig alkūne aukščio, apsiūta balta
-    drobe, apačioje perjuosta siaurai susukta spalvota skarele; pati
-    figūra apjuosta kaspinais ir žalumynų vainikais, panašiais į ko­
-    kardas, girliandas, sukabintas puošiančiosios nuožiūra. Tokia
-    figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­
-    jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
-    tas tas antrasis pavadinimas.
+    Tenai pūva tokia daugybė drobės gabalė­
+    lių, kad mažiau prietaringame krašte drąsiai būtų galima ap­
+    rūpinti popieriaus dirbtuvę žaliava. Prie upelio, dešinėje vieš­
+    kelio pusėje, ant nedidelės žemės sankasos, kurią sakė buvus
+    deivės Upinės, kadaise to upelio globėjos, altoriumi, stovi me­
+    dinė koplytėlė su Nukryžiuotoju. Dar gyvas nesenas atmini­
+    mas apie buvusią kažkokią moterų broliją, atlikinėjusią apei­
+    gas tai Upinei. 1813 metais vietos kunigas klebonas Jankaus­
+    kas (Jankowski) smulkiai pasakojo, ką pats prieš 40 metų ma­
+    tęs. Kol ta brolija buvo uždrausta, gretimų kaimų moterys -
+    matyt, dėl kažkokių kerų - susirinkdavo vadovaujamos nepa­
+    žįstamos senės, kuri, tarytum būtų atsiųsta antgamtinės jėgos,
+    paprastai pasirodydavo kartą per metus, dažniausiai per Ra­
+    sos švente, šv.
+  citata_rodoma: "Šios dievybės atvaizdą pasiseka pamatyti kai kuriose Lie­\ntuvos vietovėse, kur išlikę senieji papročiai, ypač Merkinės vals­\nčiuje. Ant apvalaus 10 colių skersmens duonos kepalo, apvy­\nnioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai\npanaši į ulonų kepurę -  sulig alkūne aukščio, apsiūta balta\ndrobe, apačioje perjuosta siaurai susukta spalvota skarele; pati\nfigūra apjuosta kaspinais ir žalumynų vainikais, panašiais į ko­\nkardas, girliandas, sukabintas puošiančiosios nuožiūra. Tokia\nfigūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­\njus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­\ntas tas antrasis pavadinimas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -129,16 +132,19 @@ Nenurodyta
 - id: c-172716
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 143"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 143."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tokia
-    figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­
-    jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
-    tas tas antrasis pavadinimas.
-    Tačiau lietuviams tie du dalykai visiškai skirtingi. Gondu
-    suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
-    ant stalo neliestą, o tikrąjį karvojų suvalgo.
+    Kol ta brolija buvo uždrausta, gretimų kaimų moterys -
+    matyt, dėl kažkokių kerų - susirinkdavo vadovaujamos nepa­
+    žįstamos senės, kuri, tarytum būtų atsiųsta antgamtinės jėgos,
+    paprastai pasirodydavo kartą per metus, dažniausiai per Ra­
+    sos švente, šv. Jono išvakarėse. Sako, atlėkdavusi ant skrai­
+    dančio ožio. Tos raganos naktį kūrendavo ugnį, dainuodavo
+    kažkokias dainas, pliuškendavosi upelio vandenyje, kepdavo
+    kažkokius paplotėlius, kuriuos dalydavo žmonėms; o joms at­
+    nešdavo žuvų, vėžių, laukinių ir naminių vandens paukščių,
+    paršelių, sidabrinių pinigų.
+  citata_rodoma: "Tokia\nfigūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­\njus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­\ntas tas antrasis pavadinimas.\nTačiau lietuviams tie du dalykai visiškai skirtingi. Gondu\nsuteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka\nant stalo neliestą, o tikrąjį karvojų suvalgo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

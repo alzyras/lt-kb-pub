@@ -51,38 +51,6 @@ Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.
   teiginys: "Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai."
   pagrindžia:
     - c-175925
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šv.
-    Margaritos dieną (1260.VII.13) pietiniame Durbės ežero krante
-    įvykęs susirėmimas baigėsi pagonių pergale.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ordino kariuomenė nusiskubino gelbėti savo žemių.
-    Abiem kariuomenėm susitikus prie Durbės ežero, kovą lai-
-    mėjo žemaičiai. Reikia pastebėti, kad iš mūšio pasitraukė ordino
-    pavergtieji kuršiai, kurie čia buvo jų atvesti kartu su lybiais ir
-    latgaliais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

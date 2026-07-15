@@ -46,29 +46,6 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 - susijęs iš Vintara: Kariuomenių išsidėstymą natūroje atitinka Vintaros, o ne Žirnajos, padėtis; Vintara yra dešinysis Žirnajos intakas, tekantis per dabartinį Pabaiską.
 - susijęs iš Žirnajų ežeras: Švitrigailos ir Ordino pajėgos prie Žirnajų ežero judėjo vakarine pakrante, o Žygimanto kariuomenė traukė rytine ežero puse.
 - susijęs iš Pašilė: Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę keliu Gelvonų link.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sprendžiant iš pagrindinių istorinių
-    šaltinių, Švitrigailos ir Ordino pajėgos iš
-    Vilkmergės patraukė į pietus pro Pašilę
-    ir toliau keliu Gelvonų link, einančiu
-    per dabartinį Pabaiską, vakarine Žirnajų
-    ežero pakrante. Žygimanto kariuomenė
-    traukė į šiaurę rytine to paties ežero puse.
-    Jos viena kitą pastebėjo šiauriau Žirnajų
-    ežero, kur išteka Žirnajos upelis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45099

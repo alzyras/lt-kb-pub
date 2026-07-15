@@ -42,8 +42,8 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
   teiginys: "Dusburgietis teigia, kad juk čia ne jūsų, bet dievo kova."
   pagrindžia:
     - c-176943
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgiečio karo sampratoje pabrėžiama religinė kovos esmė: „juk čia ne jūsų, bet dievo kova“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,38 +61,20 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Dusburgietis teigia, kad juk čia ne jūsų, bet dievo kova.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1): „Jei išeisi  į karą prieš
-    savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant
-    negu tavoji, nebijok jųjų, nes viešpats, tavo dievas, yra su tavimi“, be to, pridurdamas
-    (Ist 20. 3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų
-    širdis, nebijokite, nesitraukite ir nepabūkite jųjų, nes viešpats, jūsų dievas, yra jūsų
-    tarpe, jis kovos už jus prieš visus priešus, kad jus išgelbėtų iš pavojaus“. Juk čia ne
-    jūsų, bet dievo kova.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-67257
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 17"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kad Ordino užduotis — kariauti, ypač Prūsijoje bei Lietuvoje, pabrėžiama specialiais
-    skyreliais, kuriuose kiekvienam riterių ginklui suteikiama religinė prasmė: jeigu, pvz.,
-    Ordino broliai, atvykę Prūsų žemėn, griebiasi kalavijo, vadinasi, jie griebiasi dorybių
-    ginklo naujame viešpaties kare prieš velnio žabangas (II, 8—9)  ir t. t. Nuolatos čia
-    pabrėžiama religinė vedamo karo esmė: „...juk čia ne jūsų, bet dievo kova“66.
+    Dusburgietis bando pateikti savotišką
+    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
+    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
+    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų
+    ordino broliai pradėję su jais naują karą (II, 7). Dusburgietis, rašydamas apie lietuvių
+    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
+    prieš Lietuvą (III, 343—346, 357—358).
   citata_rodoma: "Nuolatos čia\npabrėžiama religinė vedamo karo esmė: „...juk čia ne jūsų, bet dievo kova“66."
   statusas: verified
   teiginio_tipas: faktas
@@ -104,10 +86,9 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
 - id: c-176943
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 47"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1): „Jei išeisi  į karą prieš
+    1): „Jei išeisi į karą prieš
     savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant
     negu tavoji, nebijok jųjų, nes viešpats, tavo dievas, yra su tavimi“, be to, pridurdamas
     (Ist 20. 3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų

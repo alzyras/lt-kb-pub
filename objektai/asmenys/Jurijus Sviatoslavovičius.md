@@ -35,52 +35,19 @@ Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė prieši
   teiginys: "Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė priešiškumą ir prijungė savo pajėgas prie Vytauto."
   pagrindžia:
     - c-169481
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė priešiškumą ir prijungė savo pajėgas prie Vytauto.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Drucko kunigaikščiai, pirmųjų Rusios valdo­
-    vų palikuonys, kurie šių neramumų pradžioje mažai
-    klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus
-    antpuolio sutriuškinti, supra-
-    S u tra m d o  rusų didi-
-    to, jog kur kas geriau mal­
-    kus
-    dauti Vytautą — kad ir ne­
-    patikimo — atlaidumo, nei iš
-    naujo ginkluotis ir griebtis kalavijo, todėl nesunkiai,
-    pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­
-    niams, susilaukė, ko prašė. Taip pat ir Jurijus Svia-
-    toslavovičius, Smolensko valdovas, nors ir elgėsi kaip
-    neabejotinas priešas, kol Vytautas dar nebuvo atvykęs,
-    tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­
-    draugiškus jausmus ir prijungė, puoselėdamas tam tik­
-    rus sumanymus, savo karines jėgas prie Vytauto. Smo-
-    lenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė
-    buvo nuvesta į Vitebską.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169481
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 347"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Drucko kunigaikščiai, pirmųjų Rusios valdo­
     vų palikuonys, kurie šių neramumų pradžioje mažai
     klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus
     antpuolio sutriuškinti, supra-
-    S u tra m d o  rusų didi-
+    S u tra m d o rusų didi-
     to, jog kur kas geriau mal­
     kus
     dauti Vytautą — kad ir ne­

@@ -44,67 +44,7 @@ media_all_json: |-
   teiginys: "Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę."
   pagrindžia:
     - c-44318
-
-<a id="claim-t-183734"></a>
-- t-002
-  global_id: t-183734
-  teiginys: "Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę."
-  pagrindžia:
     - c-167122
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Žygių išvakarėse
-
-    Maskvos didysis kunigaikštis Dmitrijus
-    Ivanovičius, siekdamas plėsti savo valdžią,
-    remiamas Ordos, puolė Tverę. Jos kuni-
-    gaikštis Michailas Aleksandrovičius pa-
-    bėgo į Lietuvą ir Lietuvos valdovo Algirdo
-    (jo žmona Julijona Tverietė) prašė „pagal-
-    bos ir apginti“, kvietė žygiuoti į Maskvą.
-    Siekdamas neprarasti pozicijų rytuose
-    (nors tuo metu vyko sunki kova su kry-
-    žiuočiais prie Nemuno vidupio), Algirdas
-    1368 m. rudenį ryžosi smogti Maskvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rytuose
-    (senose baltų žemėse), kur vis stiprėjo
-    Lietuvai priešiška Maskvos ir Bizantijos
-    Konstantinopolio valdžia, remdamas su
-    Maskva konkuravusią Tverę, Algirdas su-
-    rengė tris žygius į Maskvą.
-
-    Žygių išvakarėse
-
-    Maskvos didysis kunigaikštis Dmitrijus
-    Ivanovičius, siekdamas plėsti savo valdžią,
-    remiamas Ordos, puolė Tverę. Jos kuni-
-    gaikštis Michailas Aleksandrovičius pa-
-    bėgo į Lietuvą ir Lietuvos valdovo Algirdo
-    (jo žmona Julijona Tverietė) prašė „pagal-
-    bos ir apginti“, kvietė žygiuoti į Maskvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -159,8 +99,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183734
 
 ## Ryšiai
 - Dmitrijus Ivanovičius puolė [[objektai/vietos/Tverė]]

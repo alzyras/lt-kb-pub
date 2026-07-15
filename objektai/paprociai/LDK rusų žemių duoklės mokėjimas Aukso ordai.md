@@ -62,54 +62,7 @@ Nenurodyta
   teiginys: "Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai."
   pagrindžia:
     - c-55156
-
-<a id="claim-t-183316"></a>
-- t-003
-  global_id: t-183316
-  teiginys: "Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai."
-  pagrindžia:
     - c-166706
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Paprastai perimama ir žlu-
-    gusios imperijos administracinė struktūra bei kultūros paveldas.
-    Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
-    golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors
-    Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
-    das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
-    Vytautas nustojo mokėti mongolams duoklę).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
-    golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors
-    Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
-    das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
-    Vytautas nustojo mokėti mongolams duoklę). Panašu, kad LDK rusiš-
-    kosios žemės buvo Lietuvos ir Aukso ordos kondominiumas – bendra
-
-    L I E T U V O S  I S T O R I J A
-    38
-    valda.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -131,6 +84,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-54266
     - t-54267
 
 - id: c-166706
@@ -152,5 +106,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183316

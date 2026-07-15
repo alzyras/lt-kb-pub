@@ -14,14 +14,14 @@ datos:
   - '2026 m.'
 date_start: '1390'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -109,63 +109,6 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
 - susijęs iš Volfgango Lazijaus istorija: Narbutas rašo, kad Volfgangas Lazijus į savo istoriją įdėjo iš „Meklenburgo istorijos“ paimtą Dievo maldos užrašą.
 - susijęs iš [[objektai/zodynas/Bendrinė sąvoka.md#claim-t-21984|Bendrinė sąvoka]]: Tony Žemaitis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pirmąjį privatizacijos dešimtmetį daugelis stambių įmonių subankru-
-    tavo, tūkstančiai žmonių neteko darbo. Masinis nedarbas paskatino ma-
-    sinę Lietuvos gyventojų emigraciją. Įvairiais duomenimis, nuo 1990 m. iš
-    Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,
-    Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
-    Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.
-    O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-
-    tams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison
-    ir Paul McCartney, Keith Richards ir Ronnie Wood, David Gilmour ir
-    Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
-    Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
-    ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos sukilėlių vadovybė vyriausiuoju
-    sukilėlių ginkluotojų pajėgų vadu 1863
-    m. pavasarį paskyrė Peterburge tarnavusį
-
-    Rusijos kariuomenės Generalinio štabo
-    karininką, kpt. Zigmantą Sierakauską,
-
-    ginklų ir savanorių iš Londono. Sukilėliai
-    planavo užimti Palangos ir Liepojos uos-
-    tus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-004
   santrauka: 'Narbutas Londono alų laikė ištobulinta senojo lietuviško alaus forma.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -181,23 +124,6 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
-- c-005
-  santrauka: 'Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Santykiai su britais ir prancūzais pablogėjo A. Voldemarui 1928 m.
-    gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos
-    konstituciją, kuri deklaravo Vilnių Lietuvos sostine. Taip tarsi pademons-
-    truota, kad ir Londonas yra įsitraukęs į disputą dėl Vilniaus. Londonas
-    pašėlo dėl tokio svečio elgesio ir Lietuvos tarptautinė izoliacija tęsėsi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
 
 ## Citatos
 
@@ -266,13 +192,17 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
 - id: c-171658
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 307"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­
-    vėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:
-    be jokių prieskonių. Londono A l yra tiesiog ištobulintas šitas
-    alus.
+    Šį gėrimą mini padavimai, o
+    senos žyniuonės kai kuriose vietose dar moka jį paruošti; ligo­
+    niams tai esąs labai stiprinantis dalykas. Degintą degtinę su
+    medumi žmonės lenkiškai vadina krupniku (Knipniczek); tas
+    slaviškas pavadinimas tikriausiai kilęs iš to lietuviško gėrimo.
+    Aukos
+    Visų tautų aukos buvo kažkokios vienodos - rėmėsi pir­
+    mykščio pasaulio papročiu, kurio Nojus laikėsi po Tvano.
+  citata_rodoma: "Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­\nvėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:\nbe jokių prieskonių. Londono A l yra tiesiog ištobulintas šitas\nalus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

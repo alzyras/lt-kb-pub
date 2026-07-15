@@ -8,15 +8,17 @@ datos:
   - '1273 m.'
 date_start: '1267'
 date_end: '1273'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - pilis
+  - tikėjimas
   - karvedys
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -79,6 +81,13 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   teiginys: "Varmių vadas Glapas, sužinojęs apie brolių išvykimą iš Brandenburgo pilies, su daugybe karių ją užėmė."
   pagrindžia:
     - c-167457
+
+<a id="claim-t-197083"></a>
+- t-007
+  global_id: t-197083
+  teiginys: "Šis, paklausęs patarimo, susikvietė daug brolių bei ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga juos užpuolė ir visus išžudė."
+  pagrindžia:
+    - c-85727
 - susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-184128|Steinavas]]: Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.
 - susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-60208|Steinavas]]: Steinavas buvo Glapo mėgtas valdinys, kurį varmių vadas daug kartų buvo išgelbėjęs iš mirtino pavojaus.
 - susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-60209|Steinavas]]: Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.
@@ -97,64 +106,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-60209|Steinavas]]: Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.
 - susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66552|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šis, paklausęs patarimo, susikvietė daug brolių bei
-    ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
-    juos užpuolė ir visus išžudė. Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
-    kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
-    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  santrauka: 'Varmių vadas Glapas, gavęs pabėgusios prūsės pranešimą, su daugybe karių atvyko ir užėmė pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė
-    Varmių vadui Glapui, kad broliai esą iš čia išvykę. Šis su daugybe karių atvyko ir užėmė
-    pilį. Šitai išgirdęs, komtūras susirūpino  ir patraukė su saviškiais link Karaliaučiaus,
-    o parplaukęs laivais  į Brandenburgą, čia išvadavo nuo prūsų brolius  ir kitus iš savo
-    šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus
-    išsivedė su savimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  santrauka: 'Glapas, Varmių vadas, turėjo valdinį Steinavą, kurį labai mėgo ir daug kartų gelbėjo iš mirtino pavojaus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
-
-      Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug
-    kartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,
-    atsiteisė blogu už gera ir neapykanta už meilę. Jis sugalvojo būdą, kaip  jį pribaigti,
-    ir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios
-    Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,
-
-      409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m.— Santyro, vėliau —
-    Kristburgo, Kulmo komtūras, nuo 1273 m.— Prūsijos krašto magistras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Prūsams vėl atkritus nuo tikėjimo, varmiai išsirinko Glapą savo kariuomenės vadu ir vyresniuoju.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -173,30 +124,12 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   pagrindžia:
     - t-005
 
-- c-005
-  santrauka: 'Varmių vadas Glapas, sužinojęs apie brolių išvykimą iš Brandenburgo pilies, su daugybe karių ją užėmė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai
-    traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta
-    Štai šiuo būdu. Viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė
-    Varmių vadui Glapui, kad broliai esą iš čia išvykę. Šis su daugybe karių atvyko ir užėmė
-    pilį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 ## Citatos
 
 - id: c-85724
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šis, paklausęs patarimo, susikvietė daug brolių bei
     ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
@@ -208,19 +141,18 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89790
     - t-89789
+    - t-89790
 
 - id: c-85725
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 131"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė
     Varmių vadui Glapui, kad broliai esą iš čia išvykę. Šis su daugybe karių atvyko ir užėmė
-    pilį. Šitai išgirdęs, komtūras susirūpino  ir patraukė su saviškiais link Karaliaučiaus,
-    o parplaukęs laivais  į Brandenburgą, čia išvadavo nuo prūsų brolius  ir kitus iš savo
+    pilį. Šitai išgirdęs, komtūras susirūpino ir patraukė su saviškiais link Karaliaučiaus,
+    o parplaukęs laivais į Brandenburgą, čia išvadavo nuo prūsų brolius ir kitus iš savo
     šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus
     išsivedė su savimi.
   statusas: verified
@@ -233,19 +165,17 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-85727
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
-
-      Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug
-    kartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,
-    atsiteisė blogu už gera ir neapykanta už meilę. Jis sugalvojo būdą, kaip  jį pribaigti,
-    ir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios
-    Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,
-
-      409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m.— Santyro, vėliau —
-    Kristburgo, Kulmo komtūras, nuo 1273 m.— Prūsijos krašto magistras.
+    Šis, paklausęs patarimo, susikvietė daug brolių bei
+    ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
+    juos užpuolė ir visus išžudė. Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
+    kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
+    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
+    137 (132). Apie atskirų Prūsijos žemės pilių bei miestų kovas per antrąją atskatūnybę,
+    pirmiausia apie Balgą
+    Bendrais bruožais aprašius karus, vykusius antrosios atskalūnybės metais, reikia
+    papasakoti ir apie kiekvienos pilies bei kiekvieno Prūsijos žemės valsčiaus kovas.
   citata_rodoma: "Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą\n\n  Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug\nkartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,\natsiteisė blogu už gera ir neapykanta už meilę. Jis sugalvojo būdą, kaip  jį pribaigti,\nir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios\nSembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,\n\n  409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m."
   statusas: verified
   teiginio_tipas: faktas
@@ -253,12 +183,12 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89791
+    - t-197083
 
 - id: c-85728
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 115"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
     netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
@@ -266,6 +196,10 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
     Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
     bartai — Divaną361.
+    90 (85). Apie didelį krikščionių kraujo praliejimą
+    Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
+    išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
+  citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -276,8 +210,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-167457
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 131"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai
     traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta

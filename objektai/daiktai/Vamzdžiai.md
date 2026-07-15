@@ -69,19 +69,7 @@ Nenurodyta
 - susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
 - susijęs iš Vokiečių gatvė: Jonui Hozijui buvo leista atvesti ir nuolat turėti vandenį jo namuose Vokiečių gatvėje.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip pat vamzdžiais vamzdijo jaunuomenė, iš mauknos^559 karklų ar blendies padirbę pavasariais, lig žievei neprikepus;
-        be tų vamzdžių turėjo piemenėliai molio pypynes, su kuriomis pavasarį ožaičius ir ėraičius po laukus ganydami tancino.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Pastabos
 

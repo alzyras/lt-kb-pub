@@ -50,6 +50,13 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   teiginys: "476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi."
   pagrindžia:
     - c-175707
+
+<a id="claim-t-197518"></a>
+- t-004
+  global_id: t-197518
+  teiginys: "Tas pats istorikas Jorda nas, pasakodamas apie gotų kivirčus, pirmiausia mini skirius, iš pradžių taikiai gyvenusius su kitomis gotų gentimis; jie labiau linko į žemdirbystę ir namų verslus negu į kariavimą."
+  pagrindžia:
+    - c-175706
 - susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190889|Johanas Foigtas]]: Narbutas vertina, kad Johanas Foigtas, svarstydamas skirių ir hirių gentis, pateko į keblią padėtį ir darė netaiklias išvadas.
 - susijęs iš [[objektai/asmenys/Kandaksas.md#claim-t-191287|Kandaksas]]: Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam vadovaujant šios gentys kūrėsi Mažojoje Skitijoje ir žemutinėje Mezijoje.
 - susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191969|Plinijus Vyresnysis]]: Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis.
@@ -78,7 +85,6 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
 - susijęs iš [[objektai/grupes/Sudargai.md#claim-t-192930|Sudargai]]: Narbutas rašo, kad skiriai su sudargais po gotų žygių kūrėsi Mažojoje Skitijoje ir Žemutinėje Mezijoje, vadovaujami Kandakoso.
 - susijęs iš [[objektai/ivykiai/Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m.md#claim-t-191017|Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m]]: Skiriai sudarė sąjungą su sukilėliais, kartu puolė gotus ir po šio karo patyrė didelį pralaimėjimą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitijoje ir Žemutinėje Mezijoje, vadovaujami Kandako.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -104,30 +110,6 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Pasak Narbuto cituojamo Jordano, skiriai iš pradžių taikiai gyveno su gotų gentimis ir labiau linko į žemdirbystę negu į karą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tas pats istorikas Jorda­
-    nas, pasakodamas apie gotų kivirčus, pirmiausia mini
-    skirius, iš pradžių taikiai gyvenusius su kitomis gotų
-    gentimis; jie labiau linko į žemdirbystę ir namų verslus
-    negu į kariavimą. Tačiau atsitiko taip, kad svebų kara­
-    liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių
-    bendrininkai, kažin kokio pavydo šiai pagrindinei tautai
-    paskatinti, ėmė maištauti ir sukėlė pilietinį karą. Jie pir­
-    miausia sukurstė skirius nusimesti gotų priespaudą kaip
-    tik tuo metu, kai jau atvirai kovojo su jais susikivirčiję
-    kvadai. Skiriai, dar turėję čia savo kėslų, sudarė sąjungą
-    su sukilėliais ir išvien su jais puolė gotus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 - c-003
   santrauka: '476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.'
@@ -161,12 +143,7 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    282
-
-    ## Puslapis 293
-
-    klausiusių d akų; 245 metais gotai pradėjo grobuoniškus
-    žygius į Romos imperijos kraštus ir miestus'. Būtent po
+    Būtent po
     šių laikų ir skiriat su sudargais pradėjo kurtis mažojoje
     Skitijoje, arba dešiniojoje Dnestro pakrantėje, ir žemu­
     tinėje Mezijoje, arba arčiau Dunojaus žemupio, vadovau­
@@ -174,7 +151,15 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
     sas1 2. Tai vyko jau tuo metu, kai, IV amžiaus pradžioje
     iki valiai prisiklajoję gotai, apsikrovę grobiu ir karų iš­
     varginti, beveik be paliovos puldinėję imperijos žemes,
-    ėmė mąstyti apie įsikūrimą vienoje vietoje.
+    ėmė mąstyti apie įsikūrimą vienoje vietoje. Šių karingų
+    plėšikų būriai, savaime suprantama, negalėjo ilgai gy­
+    venti taikiai ir, kai kaimynystėje nebuvo ko plėšti, ėmė
+    vaidytis ir kariauti tarpusavyje. Tas pats istorikas Jorda­
+    nas, pasakodamas apie gotų kivirčus, pirmiausia mini
+    skirius, iš pradžių taikiai gyvenusius su kitomis gotų
+    gentimis; jie labiau linko į žemdirbystę ir namų verslus
+    negu į kariavimą.
+  citata_rodoma: "282\n\n## Puslapis 293\n\nklausiusių d akų; 245 metais gotai pradėjo grobuoniškus\nžygius į Romos imperijos kraštus ir miestus'. Būtent po\nšių laikų ir skiriat su sudargais pradėjo kurtis mažojoje\nSkitijoje, arba dešiniojoje Dnestro pakrantėje, ir žemu­\ntinėje Mezijoje, arba arčiau Dunojaus žemupio, vadovau­\njami, gotų pavyzdžiu, vado ar karaliuko, vardu Kandak-\nsas1 2. Tai vyko jau tuo metu, kai, IV amžiaus pradžioje\niki valiai prisiklajoję gotai, apsikrovę grobiu ir karų iš­\nvarginti, beveik be paliovos puldinėję imperijos žemes,\nėmė mąstyti apie įsikūrimą vienoje vietoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -185,8 +170,7 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
 - id: c-175706
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 293"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tas pats istorikas Jorda­
     nas, pasakodamas apie gotų kivirčus, pirmiausia mini
@@ -199,32 +183,35 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
     miausia sukurstė skirius nusimesti gotų priespaudą kaip
     tik tuo metu, kai jau atvirai kovojo su jais susikivirčiję
     kvadai. Skiriai, dar turėję čia savo kėslų, sudarė sąjungą
-    su sukilėliais ir išvien su jais puolė gotus.
+    su sukilėliais ir išvien su jais puolė gotus. Bet Siaurės
+    didvyrių giminė, susilpnėjusi po Romos miestų puldinė­
+    jimų ir kautynių su legionais, pergalingai baigė šį baisų
+    ir netikėtą karą, kuris galėjo tapti jiems visiška pražūti­
+    mi.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192936
+    - t-197518
 
 - id: c-175707
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro
-    šios temos pagrindą.
-    303
-
-    ## Puslapis 314
-
-    317
     Karingoms, nesvetingų italų pavydo ir Oresto griež­
     tumo išgąsdintoms gentims nieko daugiau nereikėjo; 476
     metų pradžioje visi alanai, turcilingai, gepidai, skiriai,
     herulai paskelbė Odoakrą savo vadu jr karaliumi. Sis
     naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
-    mas gausius būrius.
+    mas gausius būrius. Orestas, nedrįsęs atvirai pasiprie­
+    šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
+    laikoma Italijos sostine. Odoakro kariuomenės apgultas
+    miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
+    tas; Orestas žuvo.
+  citata_rodoma: "1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro\nšios temos pagrindą.\n303\n\n## Puslapis 314\n\n317\nKaringoms, nesvetingų italų pavydo ir Oresto griež­\ntumo išgąsdintoms gentims nieko daugiau nereikėjo; 476\nmetų pradžioje visi alanai, turcilingai, gepidai, skiriai,\nherulai paskelbė Odoakrą savo vadu jr karaliumi. Sis\nnaujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­\nmas gausius būrius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

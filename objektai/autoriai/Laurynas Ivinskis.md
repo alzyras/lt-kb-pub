@@ -53,46 +53,6 @@ media_all_json: |-
   teiginys: "M. Balinskis Gazeta Warszawska straipsniuose supažindino skaitytojus su Lauryno Ivinskio kalendoriais."
   pagrindžia:
     - c-104711
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Aplenkėjusi Lietuvos bajorija tuo sąjūdžiu nesidomėjo: jai
-    terūpėjo savi luominiai reikalai ir kova dėl senųjų valstybinių
-    tradicijų; prie tautiškojo sąjūdžio teprisidėjo tik mažytė jos
-    dalelė. Svarbiausi šito sąjūdžio ankstyvojo periodo veikėjai
-    buvo iš liaudies tarpo kilę S. Daukantas (1793—1864 m.)
-    ir vysk. M. Valančius (1801—1875 m, vyskupavo nuo
-    1850 m.). Čia dar reikia paminėti ir lietuviškų kalendorių lei-
-    dėją, žemaičių bajorą Lauryną Ivinskį (1808—1881 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'M. Balinskis Gazeta Warszawska straipsniuose supažindino skaitytojus su Lauryno Ivinskio kalendoriais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kituose Gazeta Warszawska spausdintuose straipsniuo­
-    se istorikas detaliai aprašė Vilniaus Archeologinės komisijos
-    veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė
-    istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­
-    šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis
-    supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
-    rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
-    Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

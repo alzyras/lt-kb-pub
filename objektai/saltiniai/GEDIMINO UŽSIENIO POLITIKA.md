@@ -34,23 +34,6 @@ P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
   teiginys: "P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra."
   pagrindžia:
     - c-77410
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p- 31, „PAVOJAI TRAIDENIO LIETUVAI IS RYTŲ“, Romas Batūra.
-
-    P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
-
-    P. 43, „KRYŽIUOČIAI PRIEŠ LIETUVĄ XIV A.‘ Karolis Zikaras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

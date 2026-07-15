@@ -35,29 +35,6 @@ Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas
   teiginys: "Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas Rogalskis uoliai prisidėjo kuo galėdamas prie mano darbo."
   pagrindžia:
     - c-176909
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas Rogalskis uoliai prisidėjo kuo galėdamas prie mano darbo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Negaliu taip
-    pat nutylėti, kad gerbiamas grafas Adomas Chreptavičius, pri­
-    gimties apdovanotas paslaugumu ir palankumu visiems, kurie
-    mokslo imasi, iš savo turtingos bibliotekos Ščiorsuose man nešė
-    viską, ko tik reikėjo. Pagaliau mokslo siekiams karštai pritarian­
-    tis ir talentingas rašytojas Leonas Rogalskis uoliai prisidėjo kuo
-    galėdamas prie mano darbo. O šio veikalo sandarą ir padalijimą
-    į skyrius lėmė epochos: pirmykštis kūrimasis, augimas ir klestėji­
-    mas, o vėliau - negandos ir permainingas likimas, kuris Vilniui
-    nuo pat jo gyvavimo pradžios buvo skirtas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

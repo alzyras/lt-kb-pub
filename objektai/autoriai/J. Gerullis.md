@@ -43,22 +43,6 @@ Gerullis, J.: Zur Sprache der Sudauer-Jätwinger, Festschrift für Ad. Bezzenber
   teiginys: "J. Gerullis parašė darbą „Zur Sprache der Sudauer-Jätwinger“, išspausdintą 1921 m. Getingene."
   pagrindžia:
     - c-32963
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Essen, V.: _Die länd­
-    lichen Siedlungen in Litauen,_ SBRiga, 1934. — Gerullis, J.: _Zur Sprache
-    der Sudauer-Jätwinger,_ Festschrift für Ad. Bezzenberger, Göttingen 1921,
-    44-51p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

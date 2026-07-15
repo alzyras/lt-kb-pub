@@ -43,28 +43,6 @@ Korsako) milicijos batalionas ir keli eskadronai bei keletas kitų smulkesnių s
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-183210|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: Rusijos kariuomenė, vadovaujama Aleksandro Suvorovo, 1794 m. sukilimo metu ėmėsi veiksmų prieš sukilėlius.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-66433|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. rugpjūtį Rusijos kariuomenė užėmė Vilnių, o lapkričio 5 d. pasidavė Varšuva.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-183208|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: Rusijos kariuomenė, vadovaujama Aleksandro Suvorovo, 1794 m. sukilimo metu ėmėsi veiksmų prieš sukilėlius.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vilniaus
-    miesto įgulą sudarė nedideli 4-ojo ir 8-ojo
-    pėstininkų regimentų ir raitelių atsarginiai
-    padaliniai - apie 1000 karių, tik 420 tu-
-    réjo šautuvus, taip pat 7 artilerijos pabū-
-    klus. Įguloje taip pat buvo Vilniaus pavieto
-    (žemės gen. mjr. T. Korsako) milicijos ba-
-    talionas ir keli eskadronai bei keletas kitų
-    smulkesnių sukilėlių padalinių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44529

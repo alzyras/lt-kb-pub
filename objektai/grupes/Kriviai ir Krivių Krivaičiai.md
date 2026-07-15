@@ -37,13 +37,6 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
 
 ## Teiginiai
 
-<a id="claim-t-189436"></a>
-- t-001
-  global_id: t-189436
-  teiginys: "Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę lazdą su trišake viršūne ir trimis kutais."
-  pagrindžia:
-    - c-172323
-
 <a id="claim-t-189437"></a>
 - t-002
   global_id: t-189437
@@ -64,8 +57,22 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
   teiginys: "Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur slavų krivičių tauta."
   pagrindžia:
     - c-176969
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197185"></a>
+- t-005
+  global_id: t-197185
+  teiginys: "Pretorijus, atpa sakodamas šią Dusburgiečio kronikos vietą, kur kalbama apie žynio lazdą, vadina ją krivūle."
+  pagrindžia:
+    - c-172324
+
+<a id="claim-t-189436"></a>
+- t-001
+  global_id: t-189436
+  teiginys: 'Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę lazdą su trišake viršūne ir trimis kutais.'
+  pagrindžia:
+    - c-172323
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę lazdą su trišake viršūne ir trimis kutais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -95,138 +102,38 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas krivio valdžios ženklą Buthstus aprašo kaip ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    (Vietos ar srities burtininko krivio valdžios
-    ženklas, arba dvasininko lazda, liaudies kalba
-    Buthstus, atrodė taip: ilgoka paprasto ąžuolo
-    lazda, kurios viršūnę sudaro dvi šakos, išdėsty­
-    tos kaip dvišakis; nuo jų jungties kabo du ku­
-    tai).
-    Symbolium jurisdictionis communi sacerdo­
-    tis, jus judicandi habentis, Wajdalotae vel alii id
-    generis, sive baculus sacerdotalis. Vulgari sermo­
-    ne Buthas nuncupatus talem habuit formam: Ba­
-    culus longuisculus, de ligno simplici quaerci, sup­
-    ra quem est una virga, curvata in modum nodi,
-    paululo inclinata rursum, de qua junctione una
-    bursa pendent.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas mano, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis vyriausiųjų žynių eilėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Turime dar pakartotinai panagrinėti šį lietuvių mitologi­
-    jos fragmentą, kadangi, gavę jį pavėluotai, negalėjome sudėti
-    kylančių iš jo pastabų į atitinkamus šio veikalo straipsnius. Ma­
-    tyt, autorius turėjo rankoje istorijos šaltinį, iš kurio pasisėmė
-    žinią, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis
-    vyriausiųjų žynių eilėje. Žynių, anot Prūsijos kronikų, iki ga­
-    lutinio stabmeldystės žlugimo, arba iki vyriausiojo žynio Ale-
-    po, buvo 481 12; taigi nuo krikšto priėmimo datos, arba nuo 1265
-    iki 1414 metų, per 149 metus, jų buvo dar 23.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur slavų krivičių tauta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dabar pateiksime šį lietuvių mitologijos gabalėlį.
-    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
-    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
-    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
-    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
-    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
-    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
-    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
-    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
-    nių apeigų papročių, vienodų su jų lietuvių apeigomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
-
-- id: c-172323
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    428
-
-    ## Puslapis 428
-
-    (Žynio Krivių Krivaičio valdžios ženklas,
-    arba dvasininko lazda, liaudies kalbaButhstun-
-    kas, atrodė taip: ilgoka paprasto ąžuolo lazda,
-    kurios viršūnę sudaro trys šakos, [kiekviena]
-    tarytum perrišta mazgu, išdėstytos trišakiu; nuo
-    jų susijungimo kabo trys kutai).
-    Symbolum jurisdictionis Superstitis loci, vel
-    provinciae, Krewe, sive baculus sacerdotalis, vul­
-    gari sermone Buthstus nuncupatus, talem habuit
-    formam: Baculus longuisculus, de ligno simpli­
-    ci quaerci, supra quem sunt duae virgae, dispo­
-    sitae in formam rami bifurci. De quarum junc­
-    tione duo bursae pendunt.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189436
 
 - id: c-172324
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 428"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 428."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    (Vietos ar srities burtininko krivio valdžios
-    ženklas, arba dvasininko lazda, liaudies kalba
-    Buthstus, atrodė taip: ilgoka paprasto ąžuolo
-    lazda, kurios viršūnę sudaro dvi šakos, išdėsty­
-    tos kaip dvišakis; nuo jų jungties kabo du ku­
-    tai).
-    Symbolium jurisdictionis communi sacerdo­
-    tis, jus judicandi habentis, Wajdalotae vel alii id
-    generis, sive baculus sacerdotalis. Vulgari sermo­
-    ne Buthas nuncupatus talem habuit formam: Ba­
-    culus longuisculus, de ligno simplici quaerci, sup­
-    ra quem est una virga, curvata in modum nodi,
-    paululo inclinata rursum, de qua junctione una
-    bursa pendent.
+    Pretorijus, atpa­
+    sakodamas šią Dusburgiečio kronikos vietą, kur kalbama apie
+    žynio lazdą, vadina ją krivūle. Čia anksčiau nupieštą kreivą
+    lazdą Prūsijos lietuviai šitaip tebevadina, taigi krivis turėjo pa­
+    našią lazdą ir ji turėjo būti jo įsakomasis ženklas9 10.
+    Iš tikrųjų čia anksčiau pateiktuose atvaizduose yra šio to
+    panašaus, tik iš atvirkštinės pusės; matyt, lietuvių metraštinin­
+    kai, iš kurių sėmėsi rankraštis, kaip rodo pastabos, turėjo ge­
+    riau išmanyti apie tas lazdas ir žinojo, kaip jos atrodė antspau­
+    duose, išsaugotuose iš senų laikų, kai stabmeldystė dar buvo
+    pačioje stipiybėje, nors nemini krivūlės (Krewula) pavadini­
+    mo, visiškai nelietuviško, nes paimto iš slavų kalbos: Krywoj,
+    Krzywy; Krivūlė reiškia mažą, kreivą daiktą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189437
+    - t-197185
 
 - id: c-172326
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 431"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Turime dar pakartotinai panagrinėti šį lietuvių mitologi­
     jos fragmentą, kadangi, gavę jį pavėluotai, negalėjome sudėti
@@ -247,8 +154,7 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
 - id: c-176969
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 429"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dabar pateiksime šį lietuvių mitologijos gabalėlį.
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­

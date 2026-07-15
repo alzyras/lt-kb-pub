@@ -27,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. Dusburgietis teigia, kad ) iš Dusburgo, Dusburgietis (D.— Petrus de Dusburgk, Jer.— P. von Dûsburc), Or. br.
+Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius. Livonijos kariuomenės sutriuškinimo mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir 150 ordino riterių, vadintų broliais.
 
 ## Teiginiai
 
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 <a id="claim-t-184631"></a>
 - t-002
   global_id: t-184631
-  teiginys: "Mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, vadinamų broliais."
+  teiginys: "Livonijos kariuomenės sutriuškinimo mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir 150 ordino riterių, vadintų broliais."
   pagrindžia:
     - c-167992
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64234|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
@@ -72,78 +72,34 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 - susijęs iš [[objektai/zodynas/mišparai.md#claim-t-58917|mišparai]]: 1330 m. lapkričio 18 d. Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis po mišparų ėjo iš bažnyčios.
 - susijęs iš [[objektai/zodynas/oktava.md#claim-t-58859|oktava]]: 1330 m. per švento Martyno oktavą Jonas iš Endorfo nužudė didįjį magistrą Vernerį.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58805|pilėnas pilėnai]]: Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    (žr. Povilas)
-    Pelužis (D.— Peluse)
-    Perkūnas
-    Perlbachas M. (Perlbach)
-    Petras Atsiskyrėlis
-        br. kunigas Brandenburge (Pr.)
-        iš Dusburgo, Dusburgietis (D.— Petrus de Dusburgk, Jer.— P. von Dûsburc), Or. br.
-       kunigas, Prūsijos žemės kronikos autorius žr visame įvado bei paaiškinimų tekste
-        iš Rozenbergo
-        iš Čekijos
-        iš Tarantezo (žr. Inocentas V)
-       Ordino dvasininkas
-        šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, vadinamų broliais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Taigi pasitrau-
-    d in a m i
-    ku ršin in k a is,
-    kę ir atsimetę nuo krikščio-
-    Tada, vienoje pusėje padaugėjus jėgų, kitoje — su­
-    mažėjus, prasidėjo
-    kova: tame mūšyje Livonijos
-    kariuomenė buvo žiauriai sutriuškinta. Žuvo tada
-    pats Livonijos magistras, Prūsijos maršalas Henrikas
-    Botelis ir šimtas penkiasdešimt ordino riterių, papras­
-    tai vadinamų broliais. O kiek žuvo paprastųjų karių,
-    neįmanoma nė suskaičiuoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-59493
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 292"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 292."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    (žr. Povilas)
-    Pelužis (D.— Peluse)
-    Perkūnas
-    Perlbachas M. (Perlbach)
-    Petras Atsiskyrėlis
-        br. kunigas Brandenburge (Pr.)
-        iš Dusburgo, Dusburgietis (D.— Petrus de Dusburgk, Jer.— P. von Dûsburc), Or. br.
-       kunigas, Prūsijos žemės kronikos autorius žr visame įvado bei paaiškinimų tekste
-        iš Rozenbergo
-        iš Čekijos
-        iš Tarantezo (žr. Inocentas V)
-       Ordino dvasininkas
-        šv.
+    Diewenns
+    Dirsovija, Dirsovė (Dersowia, Dirsow; Dirschau, dab. Tčevas)
+    Diunamiundė (Dunemunde, Dūnemünde, dab. Veca Daugavgryva)
+    Dyrų sodyba
+    Dnepras, u.
+
+    padneprė
+    Dobinas
+    Dobre Miasto žr. Gutštatas
+    Dobrynė, ž. kunigaikštystė
+
+    pilis, miestas
+    Dobrynės broliai (Dobrynės ordinas) žr. Kristaus karių ordinas
+    Domijono šv. ordinas
+    Dona
+    Dorpatas
+    Dortmundas
+
+    Dovilai
+    Dramenava (Dramenow, vėliau Drebnau)
+    Drava, u.
   citata_rodoma: ")\n    iš Dusburgo, Dusburgietis (D.— Petrus de Dusburgk, Jer.— P. von Dûsburc), Or. br."
   statusas: verified
   teiginio_tipas: faktas
@@ -155,8 +111,7 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 - id: c-167992
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 103"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 103."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Taigi pasitrau-
     d in a m i

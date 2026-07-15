@@ -57,8 +57,8 @@ Nenurodyta
   teiginys: "Narbutas piorunkomis vadina Petro iš Kurozvenkų kaldintus lenkiškuosius grašius, kurie, pasak jo, turėjo tik pusę vertės."
   pagrindžia:
     - c-172581
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'XV amžiuje kursavo lenkiški grašiai, vadinti piorunkomis, kuriuos Kojalavičius skyrė nuo Lietuvoje žinotų auksinių ir sidabrinių perunų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -101,15 +101,15 @@ Nenurodyta
 - id: c-172580
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 245."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vadinasi, bu­
-    vo tik Jupiteris, turėjęs antrąją ypatybę*.
-    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
-    piorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos
-    nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
-    se buvo žinomi Lietuvoje.
+    jas su ypatingu dėmesiu rašo kronikininkas Šiucas26. Anot jo
+    paties pastebėjimų, jos buvo arba su dievų atvaizdais, arba su
+    užrašais nepažįstamu raštu, kartais lotyniškomis raidėmis.
+    Jis sako (7 lapas, antroji pusė): „Prūsijoje ir gretimuose kraš­
+    tuose kapuose ir žemėje buvo randamos auksinės bei sidabri­
+    nės monetos su nežinomais atvaizdais, herbais ir užrašais.
+  citata_rodoma: "Vadinasi, bu­\nvo tik Jupiteris, turėjęs antrąją ypatybę*.\nŽinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti\npiorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos\nnuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­\nse buvo žinomi Lietuvoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -120,16 +120,21 @@ Nenurodyta
 - id: c-172581
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 246."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mat tais laikais bajorai, susidėję su žy­
-    dais, spekuliavo pinigais, ypač lietuviškais. Tasai Petras buvo
-    nepaprastai apsukrus ir visoje Lietuvoje supirkinėjo senus pi­
-    nigus, ypač perkūnus: auksą parduodavo į Olandiją, o baltąjį
-    sidabrą perkaldindavo į lenkiškus pinigus, tad buvo pramintas
-    Perkūnu iš Kurozvenkų. Jo išmonės lenkiškieji grašiai, turin­
-    tys vos pusę vertės, buvo praminti piorunkomis25.
+    Antroji - ortas, beveik talerio dydžio: vienoje pusėje
+    karūna vainikuota karalienė; už galvos horizontali strėlė, prie­
+    šais veidą ženklas, panašus į Merkurijaus, kaducėjaus pavidalo;
+    viename pakraštyje prie strėlės aiškiai perskaitomas užrašas: T/i-
+    CIPORUS; kitame pakraštyje priešais karalienės veidą - užra­
+    šas: KRASSIURA. Antrojoje pusėje - ąsotėlis ir triumfo ginklai,
+    tropheum, tačiau užrašas dėl senumo neaiškus, nė vienos raidės
+    negalima suprasti. Trečioji moneta - dar kitoniška tokio plačio­
+    jo grašio atmaina, turinti vienoje pusėje karūnuotą karaliene su
+    šiomis dar perskaitomomis raidėmis: CESTIANUS; kitoje pu­
+    sėje ant laidotuvinių neštuvų pavaizduotas žmogus tinkleliu už­
+    dengtu veidu, o užrašo visai negalima perskaityti.
+  citata_rodoma: "Mat tais laikais bajorai, susidėję su žy­\ndais, spekuliavo pinigais, ypač lietuviškais. Tasai Petras buvo\nnepaprastai apsukrus ir visoje Lietuvoje supirkinėjo senus pi­\nnigus, ypač perkūnus: auksą parduodavo į Olandiją, o baltąjį\nsidabrą perkaldindavo į lenkiškus pinigus, tad buvo pramintas\nPerkūnu iš Kurozvenkų. Jo išmonės lenkiškieji grašiai, turin­\ntys vos pusę vertės, buvo praminti piorunkomis25."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

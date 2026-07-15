@@ -56,88 +56,16 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   teiginys: "Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą."
   pagrindžia:
     - c-69409
-
-<a id="claim-t-182985"></a>
-- t-004
-  global_id: t-182985
-  teiginys: "Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą."
-  pagrindžia:
     - c-166383
-- susijęs iš [[objektai/zodynas/seniūnas.md#claim-t-12584|seniūnas]]: Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje.
 - susijęs iš [[objektai/daiktai/Ietys.md#claim-t-192067|Ietys]]: Narbutas nurodė: Mūšyje su jotvingiais rūmų urėdas Andrius paleido iš rankų ietį ir, pasileidęs tarp priešo gretų, vos nebuvo nukautas.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113660|pavietas]]: Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113661|pavietas]]: Veliuona kurį laiką buvo Žemaitijos pavieto centras.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113663|pavietas]]: Veliuona kurį laiką buvo Žemaitijos pavieto centras.
 - susijęs iš [[objektai/zodynas/pilies teismas.md#claim-t-03118|pilies teismas (pilis)]]: Pilies teismui buvo pavesta spręsti baudžiamąsias bylas.
 - susijęs iš [[objektai/zodynas/seniūnas storasta.md#claim-t-36834|seniūnas storasta]]: Pirmasis lenkų urėdas Lietuvoje vadinosi seniūnu, lenkiškai starosta.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pirmasis lenkų urėdas Lietuvoje buvo Jogailos 1386 m. į Vilnių atsiųstas Vilniaus seniūnas.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pirmas lenkų urėdas atsiradęs Lietuvoje vadinosi seniūnu
-    (lenk. starosta). Tai buvo 1386 met. Jogailos Vilniun atsiųstas
-    jau minėtas vad. „Vilniaus seniūnas“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Naujai įvesti urėdai buvo pirmieji krašto žmonės. Tas pir­
-    mąsias lenkiškas institucijas sekė kitos, kol XVI amž. atėjo
-    momentas, kada Lietuvos administracijos aparatas visiškai
-    susilygino su lenkiškuoju.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Abudu
-    kancleriai — Radvila ir Valavičius — net buvo atsisakę prispausti
-    privilegijoje valstybinį antspaudą. Galingasis Radvila nenusileido.
-    Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-
-    kanclerio urėdas, nusileido ir prispaudė antspaudą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Galingasis Radvila nenusileido.
-    Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-
-    kanclerio urėdas, nusileido ir prispaudė antspaudą.
-
-    Pirmuoju akademijos rektorium buvo paskirtas mozūras,
-    ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas,
-    rašytojas ir pamokslininkas Petras Skarga.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200664|seimelis]]: Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200665|seimelis]]: Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200666|seimelis]]: Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.
 ## Citatos
 
 - id: c-14719
@@ -207,5 +135,3 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-182985

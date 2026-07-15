@@ -59,22 +59,6 @@ Nenurodyta
   teiginys: "1657 m. Lietuvos Brastos apsiaustis baigėsi miesto pasidavimu priešui, po kurio miestas buvo gerokai suniokotas."
   pagrindžia:
     - c-43072
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1657 m. Lietuvos Brastos apsiaustis baigėsi miesto pasidavimu priešui, po kurio miestas buvo gerokai suniokotas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vokietijoje. Pirmą
-    kartą 1656 m. švedams miesto užimti nepavyko. Po metų vykusi apsiaustis sėk-
-    mingesnė, miestas galiausia pasidavė priešui, po ko buvo gerokai suniokotas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

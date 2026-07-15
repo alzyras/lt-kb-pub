@@ -51,63 +51,7 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 - susijęs iš Lietuva: 1567 m. pabaigoje karalius, nenutraukęs karo veiksmų, išsiuntė Lietuvai universalus dėl Gardino seimo sušaukimo.
 - susijęs iš Piotrkovas: Piotrkovo seime karalius Žygimantas parengė abiejų tautų žygį, o rudenį su kariuomene išžygiavo iš Vilniaus.
 - susijęs iš Radaškovičiai: 1567 metų rudenį Žygimantas su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius, kur susitiko su caro pasiuntiniais.
-- susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
 - susijęs iš Vilnius: Karalius Žygimantas po Piotrkovo seimo su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Romanas Sanguška buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo lauko etmonu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    buvo geriausi kariai, kuriuos tuo metu
-    buvo galima surinkti. Greta didžiojo
-    etmono M. Radvilos buvo jo šešio-
-    likmetis sūnus Kristupas Radvila,
-    vėliau tapęs didžiuoju etmonu ir
-    vadintas Perkūnu, lauko etmo-
-    nas Grigalius Chodkevičius,
-    būsimasis lauko etmonas
-    Romanas Sanguška, būsima-
-    sis Livonijos etmonas Jonas
-    Chodkevičius ir daugelis kitų.
-
-    Žygimanto Augusto
-    paradiniai šarvai, pa-
-
-    gaminti Niunberge meistro
-    Kunzo Lochnerio, XVI a.
-    6 dešimtmetyje
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Romanas Sanguška kariavo su Rusija ir, Narbuto apibūdinimu, kovojo kruvinus mūšius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš tikrųjų tais me­
-    tais vyko Lenkijos seimas Piotrkove, trukęs ilgai
-    ir sėkmingai posėdžiavęs. Tais metais karaliui Žy­
-    gimantui buvo daug darbų ir rūpesčių; mat, be ši­
-    to darbštaus seimo, dar kariavo šiaurėje karą su
-    Rusija. Romanas Sanguška kovojo kruvinus mū­
-    šius su Rusija; įvyko taip, kad karalius, Piotrkovo
-    seime parengęs abiejų tautų žygį, rudenį su ka­
-    riuomene išžygiavo iš Vilniaus, bet pasiekė tik Ra-
-    daškovičius; ten jis susitiko su caro pasiuntiniais,
-    pareiškusiais pageidavimą taikytis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-44497
@@ -144,8 +88,7 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 - id: c-171495
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 514"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iš tikrųjų tais me­
     tais vyko Lenkijos seimas Piotrkove, trukęs ilgai

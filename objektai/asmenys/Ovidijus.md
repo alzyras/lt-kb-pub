@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir Dunojaus prie Juodosios jūros. Narbutas Ovidijų priskyrė autoriams, kalbėjusiems apie vandens lygio kritimą ir pateikusiems jo įrodymų.
+Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir Dunojaus prie Juodosios jūros. Narbutas Ovidijų priskyrė autoriams, kalbėjusiems apie vandens lygio kritimą ir pateikusiems jo įrodymų. Maždaug tuo metu, kai Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir Dunojaus prie Juodosios jūros.
 
 ## Teiginiai
 
@@ -42,29 +42,15 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
   teiginys: "Narbutas Ovidijų priskyrė autoriams, kalbėjusiems apie vandens lygio kritimą ir pateikusiems jo įrodymų."
   pagrindžia:
     - c-174187
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir Dunojaus prie Juodosios jūros.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Iš tų senovės istorikų pateiktų žinių pa­
-    aiškėja, ta tiesa, jog jotvingiai buvo sarmatą* kilmės
-    gentis, pirmiausia žemdirbiai, o tik vėliau pasirinko kla-
-    joklinj ir karingą gyvenimo būdą. Maždaug tuo metu, kai
-    Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir
-    Dunojaus prie Juodosios jūros. Paskui pamažu, valdant
-    imperatoriui Klaudijui, apie 50 metus po Kristaus gimimo,
-    užėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo
-    tenykščius gyventojus slavus, užimdami daug jų miestų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197788"></a>
+- t-003
+  global_id: t-197788
+  teiginys: "Maždaug tuo metu, kai Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir Dunojaus prie Juodosios jūros."
   pagrindžia:
-    - t-001
+    - c-179339
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Ovidijų priskyrė autoriams, kalbėjusiems apie vandens lygio kritimą ir pateikusiems jo įrodymų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -98,8 +84,7 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
 - id: c-174186
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš tų senovės istorikų pateiktų žinių pa­
     aiškėja, ta tiesa, jog jotvingiai buvo sarmatą* kilmės
@@ -120,8 +105,7 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
 - id: c-174187
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
@@ -138,10 +122,32 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
     žemėlapiai
     šiai jūrai skiria gerokai didesnį plotą, negu ji užima
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
-    mėse, kurios tarsi įrodo jos mažėjimą.
+    mėse, kurios tarsi įrodo jos mažėjimą. Tačiau esama dar
+    1 Tacitas kildina iš lotyniško žodžio germanus, gimtas.
+  citata_rodoma: "Tačiau Kelsijus ir Dalinas per­\nnelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo\nKristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po\nketurių tūkstančių metų jos neliks nė pėdsako. Antra\nvertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,\nOvidijus kalba apie vandens lygio kritimą, pateikdami\nakivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis\napie\nBaltijos\njūrą“).\nSeni\nvenecijiečių\nžemėlapiai\nšiai jūrai skiria gerokai didesnį plotą, negu ji užima\nšiandien, be to, matoma daug pavyzdžių ir gretimose že­\nmėse, kurios tarsi įrodo jos mažėjimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191305
+
+- id: c-179339
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Maždaug tuo metu, kai
+    Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir
+    Dunojaus prie Juodosios jūros. Paskui pamažu, valdant
+    imperatoriui Klaudijui, apie 50 metus po Kristaus gimimo,
+    užėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo
+    tenykščius gyventojus slavus, užimdami daug jų miestų.
+    Vėliau jie prašė padėti kaimynines germanų tautas —■ vik-
+    lofalus ir kvadus, kad šie padėtų nugalėti užkariautojus1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197788

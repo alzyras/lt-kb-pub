@@ -11,14 +11,14 @@ datos:
   - '1351 m.'
 date_start: '1319'
 date_end: '1351'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - pilis
   - vieta
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,25 +60,6 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 - susijęs iš Lunenburgas: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje.
 - susijęs iš Saina: Ditrichas iš Altenburgo Lunenburgo pilį pastatė Bartos žemėje, Gubros ir Sainos santakoje.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ilienburgas buvo vėlesnis Gilgenburgas, dabartinis Dąbrównas, sąsmaukoje tarp dviejų ežerų senoje Sasnos žemėje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,
-    3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351
-    m. — Ilgenburgk (ten pat, Nr. 349, 455, 615, 692); tai vėlesnis Gilgenburgas (dab.
-    Dąbrówno) sąsmaukoje tarp dviejų ežerų, senoje Sasnos žemėje. Ordino pilis statyta
-    1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen...,
-    p. 473; Ambrassat A., Die Provinz..., p. 421).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -89,10 +70,6 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
     to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
     jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
     Ilienburgo [Ilijos] pilies595.
-
-
-
-
 
       593 D.— Says, Jer.
   citata_rodoma: ''
@@ -108,8 +85,7 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 - id: c-59190
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,
     3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351
@@ -127,21 +103,16 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 - id: c-59191
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą
-    leidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,
-    santakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be
-    to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
-    jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
-    Ilienburgo [Ilijos] pilies595.
-
-
-
-
-
-      593 D.— Says, Jer.
+    Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
+    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
+    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
+    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
+    Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
+    Henriko VI laikais (Dusb. I, 2).
+    Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
+    III (Ptol.
   citata_rodoma: "Be\nto, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,\njo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie\nIlienburgo [Ilijos] pilies595.\n\n\n\n\n\n  593 D."
   statusas: verified
   teiginio_tipas: faktas

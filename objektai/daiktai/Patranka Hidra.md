@@ -62,20 +62,6 @@ Nenurodyta
   teiginys: "Patrankos „Hidra“ laibgalis dekoruotas Hidra, o drūtgalis - karūna, Vyčiu, Gediminaičių stulpais ir 1564 m. Žygimanto Augusto įrašu."
   pagrindžia:
     - c-40992
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Patrankos laibgalis dekoruotas Hidra (drakonu), o drūtgalis - karūna, Vyčiu ir Gediminaičių stulpais bei užrašu
-    „SIGISMVNDVS AVGVST. REX POLO MAG. DVX LIT 1564“ (Žygimantas Augustas, Lenkijos karalius, Didysis Lietuvos Kunigaikštis, 1564).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

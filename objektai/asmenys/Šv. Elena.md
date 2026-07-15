@@ -49,22 +49,6 @@ Elenos skulptūros ant katedros frontono.
   teiginys: "1792 m. buvo baigta šv. Elenos skulptūra ant katedros frontono."
   pagrindžia:
     - c-166971
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Elenos skulptūros ant katedros frontono.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O 1792 m. buvo baigtos Lietuvos globėjo šv. Kazimiero, Lenkijos
-    globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -80,5 +64,5 @@ Elenos skulptūros ant katedros frontono.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183578
     - t-19354
+    - t-183578

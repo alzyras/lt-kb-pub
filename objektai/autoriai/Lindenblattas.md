@@ -52,29 +52,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 - susijęs iš [[objektai/autoriai/Lindenblattas Johannes Lindenblatt.md#claim-t-87979|Lindenblattas Johannes Lindenblatt]]: Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.
 - susijęs iš Lindenblatt Jahrbücher: Lindenblatto kronikos vietovardis Boparthen pastabose aiškinamas kaip dabartinis Bobiai į šiaurės vakarus nuo Kauno.
 - susijęs iš Lindenblatt Jahrbücher: Lindenblattas išsaugojo smulkias Vilniaus pilių apgulties aplinkybes, kurių lietuvių metraštininkai nežinojo.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vygandas ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Upė Nerige, dažnai minima senovi­
-    niame Lietuvos kelių aprašyme,
-    esančiame Kryžiuočių archyve, yra
-    dabartinė Vilija. Vygandas ir
-    Lindenblattas, kronikininkai,
-    ją taip pat vadina - Nerga, Nerge, Ne-
-    rye ir Neria. Jau 1398 metais, po
-    krikščionių tikėjimo Vilniuje priėmi­
-    mo, Vilija taip buvo vadinama.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-84053

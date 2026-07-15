@@ -62,25 +62,6 @@ media_all_json: |-
 - susijęs iš Šušvė: Lietuva Žemaičiuose apėmė į vakarus nuo Nevėžio buvusį Šušvės baseiną.
 - susijęs iš Švento Jurgio pilis (pilis, XIII a.): 1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.
 - susijęs iš Nemunas: Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Beveik trečdalį savo
-    kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­
-    tinės Livonijos kronikos autorius Žemaičius tapatino su lietuviais
-    (« den Lettowen, die Sameiten sin genannt », eil. 4466).
-    Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
-    Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33953

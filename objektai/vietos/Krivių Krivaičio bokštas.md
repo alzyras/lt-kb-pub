@@ -35,20 +35,6 @@ Krivių Krivaičio, vyriausiojo kunigo, bokštas.
   teiginys: "Krivių Krivaičio, vyriausiojo kunigo, bokštas."
   pagrindžia:
     - c-82179
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    5. Krivių Krivaičio, vyriausiojo kunigo, bokštas.
-    6. Manvydo dvaras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

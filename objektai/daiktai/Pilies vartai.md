@@ -65,45 +65,12 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Sirenas.md#claim-t-184125|Sirenas]]: Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.
 - susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89395|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos sembai mėgino pulti Fišhauzeno pilį, bet pasitraukė nepasiekę tikslo.
 - susijęs iš [[objektai/zodynas/šikšnogalis diržas.md#claim-t-58932|šikšnogalis diržas]]: Fišhauzeno pilies vartus buvo galima atverti patraukus prie jų kabantį šikšnogalį, arba diržą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
-
-      Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
-    pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir
-    panoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai
-    pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai
-    prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių
-    rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
-    štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
-    kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
-    Dėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus,  ir broliai, ten
-    įsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai
-
-      554 Konradas Žakas, atrodo, ne pastatė Goliubo  pilį, o tik ją pritaikė kryžiuočių
-    poreikiams (Powierski J., Dobra..., p. 191 — 192).
-
-    sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
-    Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60332
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 194-195"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194-195."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
 

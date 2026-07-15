@@ -73,27 +73,6 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 - susijęs iš Gardinas: Narbutas abejojo, ar Lietuvos seimas posėdžiavo Gardine 1567 m., nes vien kronikos šios abejonės nepašalino.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101581|etnografinės ribos etnografinis principas]]: Konferencijos rezoliucijoje būsima Lietuvos valstybė apibrėžta kaip demokratiška nepriklausoma valstybė etnografinėmis ribomis.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-183421|etnografinės ribos etnografinis principas]]: Konferencijos rezoliucija numatė nepriklausomą demokratinę Lietuvos valstybę etnografinėmis ribomis su ekonominėmis korektyvomis.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ket-
-    virtoji dalis liečia tranzitą upe ir geležinkeliais. Pagaliau
-    penktoje dalyje signatarai apsiima pripažinti po ratifikacijos
-    teisėtais Lietuvos vyriausybės aktus, kuriais ji palaikė tvarką šalyje.
-    Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
-
-    **4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-46373

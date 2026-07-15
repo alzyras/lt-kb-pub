@@ -44,23 +44,6 @@ media_all_json: |-
   teiginys: "S. Sužiedėlis 1930 m. paskelbė publikaciją „Vytautas Didysis ir Lietuvos christianizacija“."
   pagrindžia:
     - c-33156
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Br. 1923. — Sužiedėlis, S. :
-    Vytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-
-    483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.
-    — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
-    ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

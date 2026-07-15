@@ -48,37 +48,13 @@ istoriografija, kilmės aiškinimai
   teiginys: "Narbuto antrojo tomo įvadinis tekstas lietuvių kilmės teorijas pristato kaip nuo Renesanso žinotą istoriografinį lauką."
   pagrindžia:
     - c-175021
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taigi antro „Lietuvių tautos istorijos“ (toliau LTI) tomo
-    uždavinys buvo nusakytas labai konkrečiai. Savo reikš­
-    me ir apimtimi jis turėjo nenusileisti pirmam tomui, nes
-    nagrinėjo bene populiariausią romantinės istoriografijos
-    problemą — „šaknų ieškojimo“ klausimą.
-    Lietuvių kilmės teorijos, kurių atsiradimą reikėtų sie­
-    ti dar su Renesanso laikotarpiu, buvo puikiai žinomos
-    LTI autoriui: tiek Jono Dlugošo užrašyta romėniškoji,
-    tiek Erazmo Stelos propaguota gotiškoji, tiek jau vėliau
-    atsiradusi heruiiškoji lietuvių tautos genezės teorija —
-    dviejų pirmųjų junginys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-175021
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 4"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 4."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taigi antro „Lietuvių tautos istorijos“ (toliau LTI) tomo
     uždavinys buvo nusakytas labai konkrečiai. Savo reikš­

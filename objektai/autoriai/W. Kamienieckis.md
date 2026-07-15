@@ -46,26 +46,6 @@ Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių
     - c-33194
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179525|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: W. Kamienieckis parašė eilę studijų apie Lietuvos XIV-XV a. visuomeninius-socialinius santykius.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179527|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: W. Kamienieckis parašė studijų apie XIV-XV a. Lietuvos visuomeninius ir socialinius santykius.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šio objektyvi studija «Tautybių santykiai
-    Lietuvoje prieš Liublino uniją » Kaune Švietimo Ministerijos buvo
-    išleista lietuviškai (1921). Vertingas yra taip pat jo XVI amž.
-    pirmos pusės Lietuvos žemėlapis (1928). Čia reikia paminėti ir
-    W. Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž.
-    visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra
-    iš 1947 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33194

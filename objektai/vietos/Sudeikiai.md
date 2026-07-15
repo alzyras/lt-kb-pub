@@ -39,26 +39,6 @@ Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras,
 - susijęs iš Raseiniai: Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras.
 - susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1418 m.md#claim-t-50814|Žemaičių sukilimas 1418 m (sukilimas)]]: Žemaičių sukilimas prasidėjo Raseinių apskrityje, apėmė Ariogalą, Kražius ir Medininkus, o Vytautas jį malšino du kartus.
 - susijęs iš Airiogala: Žemaičių sukilimas, prasidėjęs Raseinių apskrityje, atsiliepė Airiogaloje, Kražiuose, Medininkuose ir kitose Žemaitijos vietose.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Prie jų prisidėjo taip pat ir uolesni seno
-    lietuvių tikėjimo garbintojai, kurie buvo priešingi įvedamam ka­
-    talikų tikėjimui. Sukilimas prasidėjo Raseinių apskrityje, kur
-    buvo sudegintas Sudeikių dvaras, atsiliepė Airiogaloje, Kra­
-    žiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas
-    Žemaičių vietas. Daugiausia sukilėliai degino dvarus ir žudė
-    jų savininkus; buvo užpuolę Klaipėdą ir sudegino Liepoją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38648

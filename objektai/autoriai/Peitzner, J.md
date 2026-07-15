@@ -44,25 +44,6 @@ Hruševskoho, I, 1928, Kijiv, 165-168 p. — Peitzner, J.
   teiginys: "J. Peitznerio darbe „PfiW“ buvo du skyriai apie Vytauto rytų politiką."
   pagrindžia:
     - c-33103
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Peitznerio darbe „PfiW“ buvo du skyriai apie Vytauto rytų politiką.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Petkun’, P. : _Schidnia meža Ve-
-    lykoho Knjazistva Lytovskoho v 30-ach rokach XV storiččja,_ Juvilejnyj
-    zbirnik pošanu akademyka M. S. Hruševskoho, I, 1928, Kijiv, 165-168
-    p. — Peitzner, J. : PfiW (du skyriai apie Vytauto rytų politiką). —
-    Presniakov, A. E. : _Lekciji po russkoj istoriji,_ t. 2, vyp. 1 (Zapadnaja
-    Rus’ i Litovsko-Russkoj e gosudarstvo), Maskva 1939.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

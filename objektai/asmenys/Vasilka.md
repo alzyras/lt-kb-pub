@@ -66,6 +66,20 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   teiginys: "Neilgai trukus, Vladimiro kunigaikštis Levas atsiun tė savo broliui Vasilkai [žinią], kad norįs su juo pasi matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat pas juos atvažiuotų pasitarti."
   pagrindžia:
     - c-176630
+
+<a id="claim-t-196624"></a>
+- t-005
+  global_id: t-196624
+  teiginys: "Vasilka ir Švarnas Kojelavičiaus pasakojime pakvietė Vaišvilką į Vladimirą, o Vaišvilkas jais pasikliovė ir nusileido jų prašymams."
+  pagrindžia:
+    - c-169530
+
+<a id="claim-t-197839"></a>
+- t-006
+  global_id: t-197839
+  teiginys: "Vasilka buvo baiminamasi didžiausio pralaimėjimo, jei šios provincijos ir gentys, sudariusios tarpusavio sąjungą, kartu, bendromis jėgomis užpultų Kryžiuočių or1 Henning."
+  pagrindžia:
+    - c-173877
 - susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1247 m. kunigaikštis Vasilka, išžygiavęs iš Voluinės Vladimiro, trečią dieną pasivijo jotvingius prie Drohičino.
 - susijęs iš [[objektai/asmenys/Lozorius.md#claim-t-191439|Lozorius]]: Lozorius mūšio metu lūkuriavo rezerve su poloviečiais, kuriuos vėliau smarkiai puolė jotvingiai.
 - susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-191004|Ziemovitas]]: Narbutas pasakoja, kad atvykus rezervui į Vasilkos ir Ziemovito kariuomenę kilo žiaurus mūšis, kuriame abu vadai narsiai kovėsi.
@@ -76,98 +90,6 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
 - susijęs iš Haličas: Po pergalės prie Drohičino kunigaikštis Vasilka daug belaisvių jotvingių pasiuntė į Haličą savo broliui.
 - susijęs iš Prūsija: Narbutas rašo, kad 1253 metų pradžioje kryžiuočiai, sustiprinę saugumą nuo Vyslos pusės, ėmė siekti užkariauti Prūsiją.
 - susijęs iš Voluinės Vladimiras: 1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pakviesti Vaišvilko į Vladimirą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mat tuo sa­
-    vo širdies nuolankumu, ypač dėl to, kad jį rėmė Švar-
-    121
-
-    ## Puslapis 120
-
-    nas, jis šitaip paveikė lietuvį, jog šis paleido visą ka­
-    riuomenę ir sutartą dieną su menku kareivių būriu,
-    beveik tik su svita, atvyko į Ugrovską. Leonas, kuris
-    ketino daryti visai ką kita, nei buvo žadėjęs, pasiliko
-    Vladimire, o brolį Švarną ir dėdę Vasilką, Galičo ku­
-    nigaikštį, nė nenujaučiančius jokios klastos, išsiuntė į
-    Ugrovską Vaišvilko pakviesti į Vladimirą. Patogiau,
-    girdi, šitame mieste susirinkti tokiam skaičiui kuni­
-    gaikščių su jų palydomis, pasivaišinsią, o beviešint ir
-    draugystė tvirtesnė užsimegsianti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1247 m. kunigaikštis Vasilka prie Drohičino pasivijo jotvingius ir, Narbuto pasakojimu, kruviname mūšyje iškovojo pergalę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    1247 metais jotvin­
-    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
-    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
-    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
-    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
-    čino (dabar Kobrino apskritis). Prie pat šio miesto sienų
-    įvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią
-    pergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-
-    gaikštukų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Mūšyje su jotvingiais Vasilka liko su Ziemovitu, o Lozorius su poloviečiais laukė rezerve, kuris vėliau atvyko į jų kariuomenę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vasilka pasiliko su Ziemovitu, o Lozorius lūkuriavo re­
-    zerve su poloviečiais. Pastaruosius jotvingiai smarkiai puo­
-    lė ir atėmė vado vėliavą. Kai šis rezervas atvyko į Vasil-
-    kos ir Ziemovito kariuomenę, įvyko žiaurus mūšis: iš abie­
-    jų pusių krito daug karių, bet Vasilka ir Ziemovitas narsiai
-    kovėsi, kaip Ir Andrius, rūmų urėdas, nors ir ligotas, bet
-    narsus žmogus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Neilgai trukus, Vladimiro kunigaikštis Levas atsiun tė savo broliui Vasilkai [žinią], kad norįs su juo pasi matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat pas juos atvažiuotų pasitarti.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Neilgai trukus, Vladimiro kunigaikštis Levas atsiun­
-    tė savo broliui Vasilkai [žinią], kad norįs su juo pasi­
-    matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat
-    pas juos atvažiuotų pasitarti.
-    Ir Haličo kunigaikštis Vasilka kvietė Vaišvilką,
-    kad jis ten pat pas juos atvyktų ir susitiktų su jais.
-    Vaišvilkas nenorėjo ten dalyvauti, nes gyveno nesan­
-    taikoje su kunigaikščiu Levu, ir dėl kunigaikščio Levo
-    jam nevertėjo ten važiuoti, bet atvažiavo į Vladimiro
-    miestą, pasitikėdamas Vasilkos ir Švarno žodžiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-169530
@@ -175,56 +97,63 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat tuo sa­
-    vo širdies nuolankumu, ypač dėl to, kad jį rėmė Švar-
-    121
-
-    ## Puslapis 120
-
-    nas, jis šitaip paveikė lietuvį, jog šis paleido visą ka­
-    riuomenę ir sutartą dieną su menku kareivių būriu,
-    beveik tik su svita, atvyko į Ugrovską. Leonas, kuris
+    Leonas, kuris
     ketino daryti visai ką kita, nei buvo žadėjęs, pasiliko
     Vladimire, o brolį Švarną ir dėdę Vasilką, Galičo ku­
     nigaikštį, nė nenujaučiančius jokios klastos, išsiuntė į
     Ugrovską Vaišvilko pakviesti į Vladimirą. Patogiau,
     girdi, šitame mieste susirinkti tokiam skaičiui kuni­
     gaikščių su jų palydomis, pasivaišinsią, o beviešint ir
-    draugystė tvirtesnė užsimegsianti.
+    draugystė tvirtesnė užsimegsianti. Vaišvilkui pasirodė
+    įtartina, kad nesilaikoma sutartos dienos, be to, ne­
+    įprastas atrodė ir priešo meilumas. Vis dėlto, būdamas
+    tikras, jog Vasilka ir Švarnas, su kuriais anksčiau vi­
+    sada kuo draugiškiausiai bendraudavo, negalvoja apie
+    jokią klastą, jais pasikliovęs, nusileido jų prašymams.
+    Vladimire, už parodytą prielankumą kunigaikščių Leo­
+    no ir Romano kuo širdingiausiai priimtas, jis galop
+    atsikratė visų įtarimų, kurie be paliovos kamavo jaut­
+    rią širdį.
+  citata_rodoma: "Patogiau, \ngirdi, šitame mieste susirinkti tokiam skaičiui kuni­\ngaikščių su jų palydomis, pasivaišinsią, o beviešint ir \ndraugystė tvirtesnė užsimegsianti. Vaišvilkui pasirodė \nįtartina, kad nesilaikoma sutartos dienos, be to, ne­\nįprastas atrodė ir priešo meilumas. Vis dėlto, būdamas \ntikras, jog Vasilka ir Švarnas, su kuriais anksčiau vi­\nsada kuo draugiškiausiai bendraudavo, negalvoja apie \njokią klastą, jais pasikliovęs, nusileido jų prašymams."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186169
+    - t-196624
 
 - id: c-173877
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    1247 metais jotvin­
-    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
-    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
-    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
-    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
-    čino (dabar Kobrino apskritis). Prie pat šio miesto sienų
-    įvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią
-    pergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-
-    gaikštukų.
+    Kai 1253 metų pradžioje susiklostė draugiški Pamario
+    kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems
+    saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis
+    užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­
+    tinga Sembos provincija, bet šie atkaklūs bandymai ją
+    užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė
+    toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­
+    sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą,
+    sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­
+    nės kraštais. Buvo baiminamasi didžiausio pralaimėjimo,
+    jei šios provincijos ir gentys, sudariusios tarpusavio są­
+    jungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­
+    1 Henning.
+  citata_rodoma: "Ypač vokiečių godumą skatino tur­\ntinga Sembos provincija, bet šie atkaklūs bandymai ją \nužkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė \ntoks pavojus, kad, norint lengviau užimti Sembą, pirmiau­\nsia reikėjo užimti kitą Bartos dalį, užkariauti Galindą, \nsutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­\nnės kraštais. Buvo baiminamasi didžiausio pralaimėjimo, \njei šios provincijos ir gentys, sudariusios tarpusavio są­\njungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­\n1 Henning."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190995
+    - t-197839
 
 - id: c-173878
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 129"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vasilka pasiliko su Ziemovitu, o Lozorius lūkuriavo re­
     zerve su poloviečiais. Pastaruosius jotvingiai smarkiai puo­
@@ -243,19 +172,26 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
 - id: c-176630
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 54"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 54."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Neilgai trukus, Vladimiro kunigaikštis Levas atsiun­
-    tė savo broliui Vasilkai [žinią], kad norįs su juo pasi­
-    matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat
-    pas juos atvažiuotų pasitarti.
-    Ir Haličo kunigaikštis Vasilka kvietė Vaišvilką,
-    kad jis ten pat pas juos atvyktų ir susitiktų su jais.
-    Vaišvilkas nenorėjo ten dalyvauti, nes gyveno nesan­
-    taikoje su kunigaikščiu Levu, ir dėl kunigaikščio Levo
-    jam nevertėjo ten važiuoti, bet atvažiavo į Vladimiro
-    miestą, pasitikėdamas Vasilkos ir Švarno žodžiu.
+    Ir įsakė savo sūnui, kad po jo mirties visi Lietuvos
+    kunigaikščiai ir žymiausi bajorai būtų deginami toje
+    vietoje, kur jis bus sudegintas, ir kad jau niekur kitur
+    mirusiųjų palaikai nebūtų deginami, tiktai ten, nes iki
+    tol mirusiųjų kūnus degindavo toje vietoje, kur kas
+    būdavo miręs. Davęs tais žodžiais paliepimą savo sū­
+    nui Skirmantui, didysis kunigaikštis Šventaragis ir
+    mirė.
+    Po savo tėvo valdyti Didžiąją Lietuvos ir Žemaičių
+    ir Rusų Kunigaikštystę liko didysis kunigaikštis Skir­
+    mantas.
+    Ir pagal savo tėvo įsakymą toje vietoje, Vilnios
+    žiotyse, kur ji įteka į Nerį, įtaisė ugniavietę, ir ten sa­
+    vo tėvo kūną sudegino, ir jo žirgą, ant kurio jodinėda­
+    vo, ir jo drabužius, kuriais vilkėdavo, ir jo mylimą
+    vergą, kuriam jis buvo malonus, ir sakalą, ir jo kurtą
+    sudegino.
+  citata_rodoma: "Neilgai trukus, Vladimiro kunigaikštis Levas atsiun­\ntė savo broliui Vasilkai [žinią], kad norįs su juo pasi­\nmatyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat \npas juos atvažiuotų pasitarti.\nIr Haličo kunigaikštis Vasilka kvietė Vaišvilką, \nkad jis ten pat pas juos atvyktų ir susitiktų su jais. \nVaišvilkas nenorėjo ten dalyvauti, nes gyveno nesan­\ntaikoje su kunigaikščiu Levu, ir dėl kunigaikščio Levo \njam nevertėjo ten važiuoti, bet atvažiavo į Vladimiro \nmiestą, pasitikėdamas Vasilkos ir Švarno žodžiu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

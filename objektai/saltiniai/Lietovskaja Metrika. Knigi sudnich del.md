@@ -43,20 +43,6 @@ LMS = Litovskaja Metrika.
   teiginys: "„Litovskaja Metrika. Knigi sudnich del“ P. A. Hiltebrantas išleido 1903 m. Petrapilyje, „Russkaja Istoričeskaja Biblioteka“ 20 tome."
   pagrindžia:
     - c-29822
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    LMS = Litovskaja Metrika. Knigi sudnich del, išl. P. A. Hil’tebrant
-    (Russkaja Istoričeskaja Biblioteka, t. 20), Petrapilis 1903.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

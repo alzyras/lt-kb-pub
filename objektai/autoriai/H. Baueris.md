@@ -34,30 +34,13 @@ Dusburgietis teigia, kad baueris86. Dusburgietis teigia, kad 95—119; Bauer H.
   teiginys: "H. Baueris XX a. ketvirtajame dešimtmetyje aptarė kai kuriuos Dusburgiečio kronikos klausimus."
   pagrindžia:
     - c-61237
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'H. Baueris XX a. ketvirtajame dešimtmetyje aptarė kai kuriuos Dusburgiečio kronikos klausimus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vėliau pasirodžiusios kitų Prūsijos kronikų, Ordino statutų, dokumentų publikacijos leido
-    M. Perlbachui atskleisti kronikos šaltinius ir tiksliau suvokti šio veikalo struktūrą. XX a.
-    IV-ame dešimtmetyje kai kuriuos kronikos klausimus aptarė H. Baueris86.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61237
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 20"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vėliau pasirodžiusios kitų Prūsijos kronikų, Ordino statutų, dokumentų publikacijos leido
     M. Perlbachui atskleisti kronikos šaltinius ir tiksliau suvokti šio veikalo struktūrą. XX a.

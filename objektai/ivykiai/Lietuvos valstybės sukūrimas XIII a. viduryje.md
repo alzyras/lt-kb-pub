@@ -72,47 +72,6 @@ Nenurodyta
   teiginys: "Lietuvių pagoniškosios religijos išsikristalizavimas dažniausiai siejamas su Lietuvos valstybės kūrimosi laikais."
   pagrindžia:
     - c-73073
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuo I a. po
-    Kristaus ji jau patenka į Romos ir kitų civilizacijų akiratį. Paprastai ma-
-    noma, kad iš šių proistorinių gelmių ateina tokios kultūrinės vertybės
-    kaip lietuvių kalba, tautosaka ir folkloras, taip pat lietuvių pagoniškoji
-    religija, nors šios išsikristalizavimas šiandien dažniausiai priskiriamas
-    jau valstybės kūrimosi laikams. Valstybė – Lietuvos Didžioji Kunigaikš-
-    tija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net
-
-    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
-    17
-    suspėjo krikštytis, o 1253 m. – karūnuotis
-    karaliumi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi
-    pralenkė turtingus prūsus ar karingus kuršius. Matyt, lėmė genties vyrų
-    gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo
-    pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
-    bei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

@@ -3,11 +3,18 @@ tipas: zodyno_irasas
 pavadinimas: 'karaliaus vainikas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+datos:
+  - '1419 m.'
+  - '1420 m.'
+date_start: '1419'
+date_end: '1420'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - sąvoka
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -25,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Čekai pasiūlė Jogailai ir Vytautui Čekijos karaliaus vainiką, manydami, kad jie norės atkeršyti už pablogėjusius santykius. Čekai neišsižadėjo sumanymo ir antrą kartą siuntė žygūnus palenkti Jogailą bei Vytautą priimti karaliaus vainiką. Žygimantas, Dimitro Kaributaičio sūnus, apibūdintas kaip prityręs karvedys, galintis užsidėti bet kokios karalystės vainiką.
+Čekai pasiūlė Jogailai ir Vytautui Čekijos karaliaus vainiką, manydami, kad jie norės atkeršyti už pablogėjusius santykius. Čekai neišsižadėjo sumanymo ir antrą kartą siuntė žygūnus palenkti Jogailą bei Vytautą priimti karaliaus vainiką. Žinodami, kad pastarojo Č ek a i siūlo karaliaus v a in ik ą Jog a ila i ir V y ta u tu i šiaurėje bei rytuose ir paska tino kaimynus čekus, atsikra čius teisėto valdovo valdžios, pasisiūlyti į valdinius.
 
 ## Teiginiai
 
@@ -43,82 +50,12 @@ media_all_json: |-
   pagrindžia:
     - c-168711
 
-<a id="claim-t-185351"></a>
+<a id="claim-t-196375"></a>
 - t-003
-  global_id: t-185351
-  teiginys: "Žygimantas, Dimitro Kaributaičio sūnus, apibūdintas kaip prityręs karvedys, galintis užsidėti bet kokios karalystės vainiką."
+  global_id: t-196375
+  teiginys: "Žinodami, kad pastarojo Č ek a i siūlo karaliaus v a in ik ą Jog a ila i ir V y ta u tu i šiaurėje bei rytuose ir paska tino kaimynus čekus, atsikra čius teisėto valdovo valdžios, pasisiūlyti į valdinius."
   pagrindžia:
-    - c-168712
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Čekai pasiūlė Jogailai ir Vytautui Čekijos karaliaus vainiką, manydami, kad jie norės atkeršyti už pablogėjusius santykius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo
-    dyti savo teises. Po neseniai
-    400
-
-    ## Puslapis 399
-
-    santykiai su Jogaila ir Vytautu smarkiai pablogėjo,
-    manydami, jog tie nieku būdu nepraleis geros progos
-    atkeršyti, jiems ir pasiūlė Čekijos karaliaus vainiką.
-    Jogaila,
-    ilgai neužlaikyda-
-    Ir vien a s, ir k ita s at-
-    mas pasiuntinių, čia pat atvi-
-    m eta
-    rai pareiškė esąs patenkintas
-    ta valdžia, kurią gavęs iš die­
-    vo, nieko neskriausdamas, o svetimų valdų visai ne­
-    trokštas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Čekai neišsižadėjo sumanymo ir antrą kartą siuntė žygūnus palenkti Jogailą bei Vytautą priimti karaliaus vainiką.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Panašų atsakymą gavo jie ir iš
-    Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,
-    manydami, jog troškimas gauti karaliaus vainiką įveiks
-    kiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­
-    gūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­
-    dis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Žygimantas, Dimitro Kaributaičio sūnus, apibūdintas kaip prityręs karvedys, galintis užsidėti bet kokios karalystės vainiką.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Imperatorius Zigmantas,
-    skriausdamas Lenkiją, vis dėlto verčiąs jį neatsisakyti
-    čekų gynimo, tačiau jis galįs imtis šio reikalo visai ki­
-    taip, nei ligi šiol čekai jam siūlę. Jis turįs pusbrolį
-    Žygimantą, kunigaikščio Dimitro Kaributaičio sūnų, la­
-    bai prityrusį karvedį, kurį lydi pastovi karo sėkmė
-    ir kuris gali užsidėti bet kokios karalystės vainiką. Jei­
-    gu čekai jį paskelbsią karaliumi, be pavydo paremsiąs
-    pusbrolį, valdantį Čekiją, kariais ir pinigais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+    - c-168710
 
 ## Citatos
 
@@ -127,68 +64,69 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo
-    dyti savo teises. Po neseniai
-    400
-
-    ## Puslapis 399
-
-    santykiai su Jogaila ir Vytautu smarkiai pablogėjo,
-    manydami, jog tie nieku būdu nepraleis geros progos
-    atkeršyti, jiems ir pasiūlė Čekijos karaliaus vainiką.
-    Jogaila,
-    ilgai neužlaikyda-
-    Ir vien a s, ir k ita s at-
-    mas pasiuntinių, čia pat atvi-
-    m eta
-    rai pareiškė esąs patenkintas
-    ta valdžia, kurią gavęs iš die­
-    vo, nieko neskriausdamas, o svetimų valdų visai ne­
-    trokštas.
+    Po šių žygių garsas apie Vytauto pergales pasklido
+    tarpu imperatorius Zigmantas
+    apsiėmė tarpininkauti ir išspręsti jau keletą metų už­
+    sitęsusį lenkų ir kryžiuočių ginčą dėl kurių ne kurių
+    žemių, nes, siaučiant dažnoms kovoms bei rietenoms,
+    vargu ar galima buvo kitaip nustelbti šio be galo dai­
+    gaus karo želmenį. Jogaila
+    1419 m e ta i
+    ir Vytautas, įsitikinę, jog len­
+    kų reikalavimai teisėti, neat­
+    metė šitokios galimybės ginčui išspręsti. Kai paaiškėjo,
+    kad imperatoriaus sprendimai nesiremia teisingumu,
+    kad jo skelbiamos ištarmės pažeidžia net moralės nor­
+    mas, jie atsisakė jo tarpinin-
+    1420 m e ta i
+    kavimo ir pasiryžo ginklu įro-
+    kilusių tikybinių nesutarimų čekai atsisakė klausyti
+    Romos bažnyčios, pradėjo atvirai maištauti prieš savo
+    karalių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­
+    myninėse šalyse jėgų, kuriomis galėtų remtis kovoje
+    prieš imperatoriaus galybę.
+  citata_rodoma: "Jogaila\n1419 m e ta i \nir Vytautas, įsitikinę, jog len­\nkų reikalavimai teisėti, neat­\nmetė šitokios galimybės ginčui išspręsti. Kai paaiškėjo, \nkad imperatoriaus sprendimai nesiremia teisingumu, \nkad jo skelbiamos ištarmės pažeidžia net moralės nor­\nmas, jie atsisakė jo tarpinin-\n1420 m e ta i \nkavimo ir pasiryžo ginklu įro-\nkilusių tikybinių nesutarimų čekai atsisakė klausyti \nRomos bažnyčios, pradėjo atvirai maištauti prieš savo \nkaralių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­\nmyninėse šalyse jėgų, kuriomis galėtų remtis kovoje \nprieš imperatoriaus galybę. Žinodami, kad pastarojo\nČ ek a i siūlo karaliaus \nv a in ik ą \nJog a ila i \nir \nV y ta u tu i\nšiaurėje bei rytuose ir paska­\ntino kaimynus čekus, atsikra­\nčius teisėto valdovo valdžios, \npasisiūlyti į valdinius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185349
+    - t-196375
 
 - id: c-168711
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 399"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 399."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Panašų atsakymą gavo jie ir iš
-    Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,
-    manydami, jog troškimas gauti karaliaus vainiką įveiks
-    kiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­
-    gūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­
-    dis.
+    Jogaila
+    1419 m e ta i
+    ir Vytautas, įsitikinę, jog len­
+    kų reikalavimai teisėti, neat­
+    metė šitokios galimybės ginčui išspręsti. Kai paaiškėjo,
+    kad imperatoriaus sprendimai nesiremia teisingumu,
+    kad jo skelbiamos ištarmės pažeidžia net moralės nor­
+    mas, jie atsisakė jo tarpinin-
+    1420 m e ta i
+    kavimo ir pasiryžo ginklu įro-
+    kilusių tikybinių nesutarimų čekai atsisakė klausyti
+    Romos bažnyčios, pradėjo atvirai maištauti prieš savo
+    karalių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­
+    myninėse šalyse jėgų, kuriomis galėtų remtis kovoje
+    prieš imperatoriaus galybę. Žinodami, kad pastarojo
+    Č ek a i siūlo karaliaus
+    v a in ik ą
+    Jog a ila i
+    ir
+    V y ta u tu i
+    šiaurėje bei rytuose ir paska­
+    tino kaimynus čekus, atsikra­
+    čius teisėto valdovo valdžios,
+    pasisiūlyti į valdinius.
+  citata_rodoma: "Panašų atsakymą gavo jie ir iš\nVytauto. Tačiau čekai neišsižadėjo savo sumanymo,\nmanydami, jog troškimas gauti karaliaus vainiką įveiks\nkiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­\ngūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­\ndis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185350
-
-- id: c-168712
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 401"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 401."
-  citata_originali: |
-    Imperatorius Zigmantas,
-    skriausdamas Lenkiją, vis dėlto verčiąs jį neatsisakyti
-    čekų gynimo, tačiau jis galįs imtis šio reikalo visai ki­
-    taip, nei ligi šiol čekai jam siūlę. Jis turįs pusbrolį
-    Žygimantą, kunigaikščio Dimitro Kaributaičio sūnų, la­
-    bai prityrusį karvedį, kurį lydi pastovi karo sėkmė
-    ir kuris gali užsidėti bet kokios karalystės vainiką. Jei­
-    gu čekai jį paskelbsią karaliumi, be pavydo paremsiąs
-    pusbrolį, valdantį Čekiją, kariais ir pinigais.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185351

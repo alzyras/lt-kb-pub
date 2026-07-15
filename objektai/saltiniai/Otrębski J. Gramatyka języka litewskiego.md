@@ -7,12 +7,12 @@ datos:
   - '1958 m.'
 date_start: '1958'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad otrębski J.
   teiginys: "J. Otrębskio „Gramatyka języka litewskiego“ pirmasis tomas išleistas Varšuvoje 1958 m."
   pagrindžia:
     - c-61838
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Otrębskio „Gramatyka języka litewskiego“ pirmasis tomas išleistas Varšuvoje 1958 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,12 @@ Dusburgietis teigia, kad otrębski J.
 - id: c-61838
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Otrębski J. Gramatyka języka litewskiego.— T. I.— Warszawa, 1958.
+    Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
+    Porębska przy współpracy M Grzegorza; Pod. red. M. Biskupa.— Wrocław—Warszawa—
+    Kraków— Gdańsk, 1971.
+  citata_rodoma: "Otrębski J. Gramatyka języka litewskiego.— T. I.— Warszawa, 1958."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

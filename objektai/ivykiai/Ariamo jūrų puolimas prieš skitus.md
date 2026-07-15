@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas Ariamo puolimą aiškina kerštu už pažeminimą: Kapadokijos valdytojas jūra puolė skitus, juos sumušė, paėmė grobio ir belaisvių.
+Narbutas Ariamo puolimą aiškina kerštu už pažeminimą: Kapadokijos valdytojas jūra puolė skitus, juos sumušė, paėmė grobio ir belaisvių. Skitai savo ruožtu sudarė išmintingą gynybos pla ną: jie pirmiausia kreipėsi į savo kaimynus ir sąjunginin kus, kviesdami kovoti su bendru priešu, o patys, nusiau bę Padnestrės apylinkes, paliko šias vietas puolantiems persams ir taip darė be paliovos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,32 +47,13 @@ Nenurodyta
   teiginys: "Narbutas Ariamo puolimą aiškina kerštu už pažeminimą: Kapadokijos valdytojas jūra puolė skitus, juos sumušė, paėmė grobio ir belaisvių."
   pagrindžia:
     - c-173940
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas Ariamo puolimą aiškina kerštu už pažeminimą: Kapadokijos valdytojas jūra puolė skitus, juos sumušė, paėmė grobio ir belaisvių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Bet persų pasiuntiniai buvo išsiųsti atgal
-    su panieka; į prašymą karalaitės rankos atsakyta nei­
-    giamai.
-    58
-
-    ## Puslapis 56
-
-    38
-    Keršydamas už tokį pažeminimą, galingas Rytų val­
-    dovas įsakė Kapadokijos valdytojui Ariamui pulti skitus
-    iš jūros. Šis, priplaukęs su 30 galerų, labai juos sumušė,
-    paėmė didelį grobį ir belaisvių, tarp kurių buvo ir kara­
-    liaus brolis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197531"></a>
+- t-002
+  global_id: t-197531
+  teiginys: "Skitai savo ruožtu sudarė išmintingą gynybos pla ną: jie pirmiausia kreipėsi į savo kaimynus ir sąjunginin kus, kviesdami kovoti su bendru priešu, o patys, nusiau bę Padnestrės apylinkes, paliko šias vietas puolantiems persams ir taip darė be paliovos."
   pagrindžia:
-    - t-001
+    - c-173940
 
 ## Citatos
 
@@ -81,22 +62,22 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Bet persų pasiuntiniai buvo išsiųsti atgal
-    su panieka; į prašymą karalaitės rankos atsakyta nei­
-    giamai.
-    58
-
-    ## Puslapis 56
-
-    38
-    Keršydamas už tokį pažeminimą, galingas Rytų val­
-    dovas įsakė Kapadokijos valdytojui Ariamui pulti skitus
-    iš jūros. Šis, priplaukęs su 30 galerų, labai juos sumušė,
-    paėmė didelį grobį ir belaisvių, tarp kurių buvo ir kara­
-    liaus brolis.
+    Skitai savo ruožtu sudarė išmintingą gynybos pla­
+    ną: jie pirmiausia kreipėsi į savo kaimynus ir sąjunginin­
+    kus, kviesdami kovoti su bendru priešu, o patys, nusiau­
+    bę Padnestrės apylinkes, paliko šias vietas puolantiems
+    persams ir taip darė be paliovos traukdamiesi nuo jų
+    kariuomenės. Jie padalijo savo jėgas į dvi dalis, kurioms
+    vadovavo du vadai, turėję veikti pagal išankstinį susita­
+    rimą. Kadangi priešo būriai buvo narsūs ir puikiai gink­
+    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
+    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
+    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
+    jo nesuskaičiuojamų atsargų našta.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191058
+    - t-197531

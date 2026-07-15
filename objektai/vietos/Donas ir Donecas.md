@@ -35,8 +35,8 @@ Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Don
   teiginys: "Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Doneco, o jų tėvynėje buvusi šventoji Ross upė."
   pagrindžia:
     - c-171877
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Doneco, o jų tėvynėje buvusi šventoji Ross upė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -63,18 +63,23 @@ Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Don
 - id: c-171877
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
-    Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­
-    kui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­
-    nusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­
-    čią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­
-    sivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo
-    tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo
-    kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
-    kančią per jų sodybų vidurį, jie pavadino Rose (Ross).
+    Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
+    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
+    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
+    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
+    arba šiek tiek vėliau.
+    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
+    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
+    liaudies padavimų.
+  citata_rodoma: "Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir\nRoksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­\nkui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­\nnusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­\nčią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­\nsivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo\ntos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo\nkairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­\nkančią per jų sodybų vidurį, jie pavadino Rose (Ross)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -50,37 +50,20 @@ Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katin
   teiginys: "Karalius Kazimieras 1483 m. privilegija bajorui Rimvydui suteikė žemę prie Merkio upės Trakų apskrityje."
   pagrindžia:
     - c-173551
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
-    radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
-    šytoje ant pergamento rusų kalba, kuria bajorui Rimvydui
-    128
-
-    ## Puslapis 128
-
-    (Rymwidowi) suteikia žemę prie Merkio upės Trakų apskrity­
-    je. Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­
-    tymais garantuojama, laisvės siekiančių Merkinės valsčiaus
-    valstiečių maišto nuslopinimą, taip pat už sugavimą maišti­
-    ninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo
-    didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
-    liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
-    (Lietwii) ženklas.
-    Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
-    suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
-    dodavo laisvės deivės simboliu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197411"></a>
+- t-003
+  global_id: t-197411
+  teiginys: "Karalius Kazimieras buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima."
   pagrindžia:
-    - t-001
-    - t-002
+    - c-173551
+
+<a id="claim-t-197412"></a>
+- t-004
+  global_id: t-197412
+  teiginys: "Pas mus, valdant Jonui Kazimierui, atsirado rusų sentikių sekta iš tų popų, kurie nenorėjo priimti Biblijos ir liturgijos, Maskvos patriarcho Nikono pataisytos; persekiojami tėvynėje, jie visu būriu persikėlė į Lietuvą."
+  pagrindžia:
+    - c-179172
 
 ## Citatos
 
@@ -89,24 +72,15 @@ Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katin
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
-    radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
-    šytoje ant pergamento rusų kalba, kuria bajorui Rimvydui
-    128
-
-    ## Puslapis 128
-
-    (Rymwidowi) suteikia žemę prie Merkio upės Trakų apskrity­
-    je. Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­
-    tymais garantuojama, laisvės siekiančių Merkinės valsčiaus
-    valstiečių maišto nuslopinimą, taip pat už sugavimą maišti­
-    ninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo
-    didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
-    liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
-    (Lietwii) ženklas.
-    Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
-    suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
-    dodavo laisvės deivės simboliu.
+    Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
+    dindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį
+    mitą pastebi Stenderis, bet dėl savo keistos etimologizacijos
+    sudvejina: vienur vadinaDekkla, kitur - Tikla. Taip pat priski­
+    ria jai nebūdingas ypatybes: kadangi ji buvusi prievartos ne-
+    pakenčiančio jaunimo deivė, tai painioja ją su Laima.
+    Veliona (Wellona)
+    Tai buvo garsi amžinybės, amžinos vilties, būsimo pomirti­
+    nio gyvenimo deivė.
   citata_rodoma: "Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,\nradau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­\nšytoje ant pergamento rusų kalba, kuria bajorui Rimvydui\n128\n\n## Puslapis 128\n\n(Rymwidowi) suteikia žemę prie Merkio upės Trakų apskrity­\nje. Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­\ntymais garantuojama, laisvės siekiančių Merkinės valsčiaus\nvalstiečių maišto nuslopinimą, taip pat už sugavimą maišti­\nninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo\ndidenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­\nliui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės\n(Lietwii) ženklas.\nIš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių\nsuvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­\ndodavo laisvės deivės simboliu."
   statusas: verified
   teiginio_tipas: faktas
@@ -115,3 +89,26 @@ Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katin
   pagrindzia:
     - t-190668
     - t-190669
+    - t-197411
+
+- id: c-179172
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Tuo tarpu yra tik­
+    ras dalykas, jog Rusijoje, taip pat besiribojančiuose su ja kraš­
+    tuose nuo seno atsirasdavo sektų, dažnai tokių neaiškių, su­
+    painiotų ir slaptų, kad vietiniai rašytojai patys nesugeba nu­
+    statyti, kaip jos atsirado, nors nemaža jų gyvuoja iki šiol. Nuo
+    amžių sektantus vadina raskolnikais, tai yra atskalūnais. Pas
+    mus, valdant Jonui Kazimierui, atsirado rusų sentikių sekta iš
+    tų popų, kurie nenorėjo priimti Biblijos ir liturgijos, Maskvos
+    patriarcho Nikono pataisytos; persekiojami tėvynėje, jie visu
+    būriu persikėlė į Lietuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197412

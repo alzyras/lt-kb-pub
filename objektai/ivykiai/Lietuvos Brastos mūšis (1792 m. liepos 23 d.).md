@@ -104,93 +104,6 @@ Nenurodyta
 - susijęs iš Muchavecas: Jokūbui Jasinskui vadovaujant Senajame Muchavece buvo užverstos dvi brastos, o prie tilto per Muchaveco upę supiltas pylimas.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 - susijęs iš [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.).md#claim-t-78620|Ketverių metų seimas (1788–1792 m.)]]: Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Iš tikrųjų jie turėjo būti bent
-    10 kartų didesni, nes nors lietuviai ir trau-
-    kėsi, tačiau kiekvienas priešininko žingsnis į
-    priekį buvo pasiektas tik didelių aukų kaina.
-    Ne veltui karalius S. A. Poniatovskis apdova-
-    nojo keliolika šio mūšio karininkų ir karei-
-    vių neseniai įsteigto karinio Virtuti Militari
-    ordino auksiniais ir sidabriniais medaliais.
-    Mūšio prie Lietuvos Brastos negalime
-    vadinti pergale, kadangi LDK kariuomenė
-    turėjo pasitraukti, o priešininkui atiteko
-    strategiškai svarbi teritorija, tačiau negalime
-    laikyti ir pralaimėjimu, kadangi priešinin-
-    kas patyrė didelių nuostolių, o atsitraukta
-    nesulaukus pastiprinimo, organizuotai ir
-    tvarkingai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jau liepos 24 d. karalius S. A. Poniatovskis
-    paskelbė jungiąsis prie Targovicos konfede-
-    racijos, o kariuomenei įsakė sudėti ginklus,
-    nors ji dar tikrai galėjo kovoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšis
-
-    Mūšis prasidėjo auštant liepos 23-osios ry-
-    tui, kai prie lietuvių pozicijų priartėjo rusų
-    kavalerijos priešakiniai kazokų daliniai.
-    Lietuvių kavalerija lengvai atmušė pirmąjį
-    smūgį. Ir netrukus pati atakavo. Ji turėjo
-    smogti koncentruotą smūgį pagrindinėms
-    priešo kavalerijos pajėgoms, o po to nesku-
-    bant trauktis, kad persekiodami rusai taptų
-    pasiekiami prieš priemiesčius išdėstytai ar-
-    tilerijai ir pėstininkams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-001
-
-- c-004
-  santrauka: 'Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė, S. Zabielos raportais, neteko apie 300 karių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio padariniai
-
-    Mūšis truko apie 8 valandas. Lietuvos ka-
-    riuomenė, remiantis S. Zabielos raportais,
-    neteko apie 300 karių. Rusų duomenimis
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-007
-
 ## Citatos
 
 - id: c-11875
@@ -220,8 +133,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66683
     - t-66682
+    - t-66683
 
 - id: c-11876
   sudarytojas: "Karolis Zikaras"
@@ -261,8 +174,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66686
     - t-66681
+    - t-66686
 
 - id: c-43076
   sudarytojas: "Karolis Zikaras"

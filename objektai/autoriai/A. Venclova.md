@@ -7,15 +7,15 @@ datos:
   - '1971 m.'
 date_start: '1971'
 date_end: ''
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - redaktorius
   - autorius
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,7 +53,6 @@ A. Venclova šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
 - susijęs iš [[objektai/autoriai/Rimantas Jasas.md#claim-t-186453|Rimantas Jasas]]: Rimantas Jasas išvertė Bychovco kroniką ir parašė 1971 m. leidinio įvadą bei paaiškinimus.
 - susijęs iš Lietuvos metraštis, Bychovco kronika (1971 m.): 1971 m. Vilniuje išleistas leidinys pavadintas „Lietuvos metraštis, Bychovco kronika“, o vertimą, įvadą ir paaiškinimus parašė Rimantas Jasas.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -77,11 +76,14 @@ A. Venclova šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    REDAKCINE KOMISIJA
-    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
-    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
-    *
-    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
+    Rankraštis neturėjo jokio pavadini­
+    mo. „Bychovco kronika" jis buvo pramintas XIX a.
+    pagal rankraščio savininką, Gardino gubernijos Volko-
+    vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
+    vos metraščio" antraštė duota dėl nusistojusios jau lie­
+    tuvių tarybinėje istoriografijoje tradicijos vadinti
+    metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
+    Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
   citata_rodoma: "REDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,  \nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į"
   statusas: verified
   teiginio_tipas: faktas

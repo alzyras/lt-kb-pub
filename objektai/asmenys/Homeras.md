@@ -29,53 +29,14 @@ Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujanči
 
 ## Teiginiai
 
-<a id="claim-t-191278"></a>
-- t-001
-  global_id: t-191278
-  teiginys: "Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujančia upe."
-  pagrindžia:
-    - c-174160
-
 <a id="claim-t-191279"></a>
 - t-002
   global_id: t-191279
   teiginys: "Narbutas aiškino, kad Homero ir Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai matematiniai."
   pagrindžia:
     - c-174161
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujančia upe.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    155
-
-    ## Puslapis 153
-
-    kalingos, nes turime senovės ¡padavimą, kuris kalba ką
-    kita: Ovidijus Eridaną vadina didžiausia upe; Hesiodas
-    mini, kad Eridanas buvęs Okeano ir Tetidės sūnus, kuris
-    teka gilia ir šniokščiančia vaga; Vergilijus, taip pat vadi­
-    na jį didžiausia upe, upių karaliene, kuri turi dvi šakas;
-    Dionyzas Perigetas* dar vaizdingiau vadina Eridaną gė­
-    lėtąja jūra. Visus šiuos padavimus ¡sujungę į vieną, įsiti­
-    kinsime, jog pirmiausia Baltijos jūra buvo žinoma Erida-
-    no vardu; klaidingos tų vietų geografijos žinios upėmis
-    laikydavo net ir didesnius vandens telkinius; Homero kū­
-    riniuose aptinkame, kad Okeanas vadinamas upe, skalau­
-    jančia pasaulį. Be kita ko, Baltijos jūra siejama su Okea­
-    nu, ji laikoma pačia didžiausia upe arba gali būti vadi­
-    nama upių karaliene, kuri turi dvi šakas, laikant Suomių
-    ir Botnijos įlankas šakomis, turinčiomis gintaringus
-    krantus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas aiškino, kad Homero ir Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai matematiniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -103,45 +64,18 @@ Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujanči
 
 ## Citatos
 
-- id: c-174160
+- id: c-174161
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    155
-
-    ## Puslapis 153
-
-    kalingos, nes turime senovės ¡padavimą, kuris kalba ką
-    kita: Ovidijus Eridaną vadina didžiausia upe; Hesiodas
-    mini, kad Eridanas buvęs Okeano ir Tetidės sūnus, kuris
-    teka gilia ir šniokščiančia vaga; Vergilijus, taip pat vadi­
-    na jį didžiausia upe, upių karaliene, kuri turi dvi šakas;
-    Dionyzas Perigetas* dar vaizdingiau vadina Eridaną gė­
-    lėtąja jūra. Visus šiuos padavimus ¡sujungę į vieną, įsiti­
-    kinsime, jog pirmiausia Baltijos jūra buvo žinoma Erida-
-    no vardu; klaidingos tų vietų geografijos žinios upėmis
-    laikydavo net ir didesnius vandens telkinius; Homero kū­
-    riniuose aptinkame, kad Okeanas vadinamas upe, skalau­
-    jančia pasaulį. Be kita ko, Baltijos jūra siejama su Okea­
-    nu, ji laikoma pačia didžiausia upe arba gali būti vadi­
-    nama upių karaliene, kuri turi dvi šakas, laikant Suomių
-    ir Botnijos įlankas šakomis, turinčiomis gintaringus
-    krantus.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191278
-
-- id: c-174161
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 389"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 389."
-  citata_originali: |
-    Būtent ši priežastis daro
+    Taigi naujų laikų gabumams nebūdin­
+    gas praėjusių amžių tikėjimas, kuris buvo mokslinis,
+    žmogiškas ir dieviškas taip, jog šiandien, žvelgdami į
+    praeities veidrodį, suvokiame mūsų labai matematiškai
+    ribotą žvilgsni, kuris pastebi tik išorinius paviršius, vos
+    įžiūri užtemdytus klonius, bet jokiu būdu negali nei jų
+    išmatuoti, nei geriau pažinti. Būtent ši priežastis daro
     mus visiškai bejėgius spręsti apie tikrą reikšmę praėju­
     sių laikų, jei jie patys savęs nepaaiškina; kalbant kitais
     žodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­
@@ -154,6 +88,7 @@ Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujanči
     įvertinti skirtumą ir išnagrinėti jo priežastis tam, kad
     išvengtume nesusipratimų, kurių tokiu atveju pasitaiko
     gana daug.
+  citata_rodoma: "Būtent ši priežastis daro\nmus visiškai bejėgius spręsti apie tikrą reikšmę praėju­\nsių laikų, jei jie patys savęs nepaaiškina; kalbant kitais\nžodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­\nlosofiškai arba kritiškai, nes kritika — filosofijos šaka.\nNei Homero, nei Herodoto žemėlapiai, kurie niekad\nnebuvo tikslūs astronominiai-geografiniai, bet apskritai\nmitologiniai, kosmografiniai, genealoginiai ir istoriniai,\nnesutampa su mūsų žemėlapiais, kuriems būdingos tiks­\nlios matematinės projekcijos. Dėl to derėtų šia prasme\nįvertinti skirtumą ir išnagrinėti jo priežastis tam, kad\nišvengtume nesusipratimų, kurių tokiu atveju pasitaiko\ngana daug."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

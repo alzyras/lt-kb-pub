@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Valstybinė santvarka po Liublino unijos.
+Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė atsiimti Žemaitiją. Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją. 1566 m. Lietuvoje nerimauta, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą kare.
 
 ## Teiginiai
 
@@ -50,19 +50,12 @@ Valstybinė santvarka po Liublino unijos.
   pagrindžia:
     - c-14717
 
-<a id="claim-t-184641"></a>
+<a id="claim-t-196391"></a>
 - t-003
-  global_id: t-184641
-  teiginys: "1566 m. Lietuvoje nerimą kėlė tai, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą."
+  global_id: t-196391
+  teiginys: "1566 m. Lietuvoje nerimauta, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą kare."
   pagrindžia:
-    - c-168002
-
-<a id="claim-t-193383"></a>
-- t-004
-  global_id: t-193383
-  teiginys: "Be abejo, jie n o rė jo unijos, b et tokios, k ad n eb ū tų p ažeistas v a l stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to, įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau L ietuvos Di džiosios K unig aik šty stės sienos."
-  pagrindžia:
-    - c-176108
+    - c-178659
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188627|Teodoras Narbutas]]: Teodoras Narbutas LTI apžvelgė politinę ir kultūrinę lietuvių raidą nuo seniausių laikų iki 1569 m. Liublino unijos.
 - susijęs iš [[objektai/autoriai/Kochanovskis.md#claim-t-184239|Kochanovskis]]: Kochanovskis Lenkijos ir Lietuvos unijos sumanymą vadino genialia mintimi, pralenkusia amžius ir kartas.
 - susijęs iš [[objektai/autoriai/Kochanovskis.md#claim-t-35454|Kochanovskis]]: Kochanovskis uniją su Lietuva vadino genialia mintimi, pralenkusia ištisus amžius ir kartas.
@@ -103,7 +96,6 @@ Valstybinė santvarka po Liublino unijos.
 - susijęs iš [[objektai/asmenys/Romanas Dmovskis.md#claim-t-19207|Romanas Dmovskis]]: Romano Dmovskio ir J. Pilsudskio šalininkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.
 - susijęs iš [[objektai/asmenys/Vilhelmas fon Urachas.md#claim-t-26463|Vilhelmas fon Urachas]]: Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-183769|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176656|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kochanovskio nuomone, Horodlės unija Vytautas Didysis siekė ne lenkinti Lietuvą, o ją civilizuoti.
 - susijęs iš [[objektai/autoriai/Nikolajus Karamzinas.md#claim-t-190307|Nikolajus Karamzinas]]: Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams ir pagal juos suskirstė „Lietuvių tautos istorijos“ turinį.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80771|Abiejų Tautų Respublika]]: 1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80774|Abiejų Tautų Respublika]]: Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Lenkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.
@@ -167,89 +159,6 @@ Valstybinė santvarka po Liublino unijos.
 - susijęs iš [[objektai/zodynas/perdėtinis.md#claim-t-36823|perdėtinis]]: Vytauto santykiai su Lenkija buvo apibrėžti kaip valdomojo su aukštesniu perdėtiniu.
 - susijęs iš [[objektai/zodynas/įpėdinis.md#claim-t-187547|įpėdinis]]: Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dėl įpėdinių žinomas tik iš Bychovco kronikos.
 - susijęs iš Šaurų dvaras: Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos paviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas, aptvarkęs šiek tiek santykius su Lenkija ir su­
-    stiprinęs savo padėtį viduje, vėl ėmė nesutikti su Ordinu. Tam
-    buvo priežasčių. Nors Vytautas, darydamas Salyno taiką ir
-    buvo jam pavedęs Žemaičius, bet jie geruoju naujiems šeiminin­
-    kams nepasidavė ir nemanė pasiduoti: reikėjo juos jėga užka­
-    riauti. Jie į tai atsakydavo sukilimais, kuriuos Ordinas žiau­
-    riai malšindavo. Tame darbe jiems iš pradžių talkininkavo ir
-    Vytautas. Bet apsisaugojęs nuo Lenkijos nauja unija, sutvar­
-    kęs reikalus rytuose ir viduje, ėmė trauktis nuo Ordino, dė­
-    damas pastangų atsiimti lietuvišką kraštą — Žemaitija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  santrauka: '1566 m. Lietuvoje nerimą kėlė tai, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    K ai žlugo visos v il­
-    ty s sutarti taiką, k araliau s pasiuntiniai v arg ais n eg a­
-    7 3 4
-
-    ## Puslapis 733
-
-    lais p rik alb ė jo  m ask v ėn u s, k ad  Iv an as v ėliau  savo ru o ­
-    žtu p asiu siąs pas k a ra lių  leg atu s, o k o l k as n ei viena,
-    n ei k ita šalis n esig rieb sia n ti ginklo.
-    T uo ta rp u  L ietuvą užgriu-
-    1566 metai
-    v o  d a r didesni rūpesčiai, m at
-    Tariamasi dėl Lietu-
-    p ašlijo  k a raliau s sv eik ata, be
-    vos unijos su Lenkija
-    to, jis n e tu rė jo  įpėdinių, štai
-    to d ėl didelį n erim ą kėlė tai,
-    jo g  le n k a i gali p aliau ti te ik ę  p ag a lb ą k raštu i, įsitra u k u ­
-    siam  į su n k ų  k arą, y p a č  tad a, je ig u  k a rta is k araliu s m ir­
-    tų
-    anksčiau, n ei d a r b ū tų  su ja is su d a ry ta
-    su tartis,
-    k u rią  v ad in a u nija. Ilgą laik ą d au g y b ė v iso k ių  n e p a la n ­
-    k ių  ap lin k y b ių  tru k d ė įsig alėti stip riai d v iejų  ta u tų  są ­
-    ju n g ai, k u ri b ū tų  užbaigusi p o rą šim tm ečių u žtru k u sias
-    ab ie jų  šalių p astan g as.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Be abejo, jie n o rė jo unijos, b et tokios, k ad n eb ū tų p ažeistas v a l stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to, įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau L ietuvos Di džiosios K unig aik šty stės sienos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    K okį atsak y m ą
-    g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
-    n eb u v o  su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u ­
-    v o  u žd rau sta b et k ą  spręsti, ir jie  tu rė jo  ap ie v isk ą p ra ­
-    n ešti luom am s, susirinkusiem s į B resto seim ą. Be abejo,
-    jie  n o rė jo  unijos, b et tokios, k ad n eb ū tų  p ažeistas v a l­
-    stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to,
-    įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau  L ietuvos Di­
-    džiosios K unig aik šty stės sienos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-14717
@@ -273,65 +182,36 @@ Valstybinė santvarka po Liublino unijos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72005
     - t-72004
+    - t-72005
 
-- id: c-168002
+- id: c-178659
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    K ai žlugo visos v il­
-    ty s sutarti taiką, k araliau s pasiuntiniai v arg ais n eg a­
-    7 3 4
-
-    ## Puslapis 733
-
-    lais p rik alb ė jo  m ask v ėn u s, k ad  Iv an as v ėliau  savo ru o ­
-    žtu p asiu siąs pas k a ra lių  leg atu s, o k o l k as n ei viena,
-    n ei k ita šalis n esig rieb sia n ti ginklo.
-    T uo ta rp u  L ietuvą užgriu-
+    T uo ta rp u L ietuvą užgriu-
     1566 metai
-    v o  d a r didesni rūpesčiai, m at
+    v o d a r didesni rūpesčiai, m at
     Tariamasi dėl Lietu-
-    p ašlijo  k a raliau s sv eik ata, be
+    p ašlijo k a raliau s sv eik ata, be
     vos unijos su Lenkija
-    to, jis n e tu rė jo  įpėdinių, štai
+    to, jis n e tu rė jo įpėdinių, štai
     to d ėl didelį n erim ą kėlė tai,
-    jo g  le n k a i gali p aliau ti te ik ę  p ag a lb ą k raštu i, įsitra u k u ­
-    siam  į su n k ų  k arą, y p a č  tad a, je ig u  k a rta is k araliu s m ir­
+    jo g le n k a i gali p aliau ti te ik ę p ag a lb ą k raštu i, įsitra u k u ­
+    siam į su n k ų k arą, y p a č tad a, je ig u k a rta is k araliu s m ir­
     tų
-    anksčiau, n ei d a r b ū tų  su ja is su d a ry ta
+    anksčiau, n ei d a r b ū tų su ja is su d a ry ta
     su tartis,
-    k u rią  v ad in a u nija. Ilgą laik ą d au g y b ė v iso k ių  n e p a la n ­
-    k ių  ap lin k y b ių  tru k d ė įsig alėti stip riai d v iejų  ta u tų  są ­
-    ju n g ai, k u ri b ū tų  užbaigusi p o rą šim tm ečių u žtru k u sias
-    ab ie jų  šalių p astan g as.
+    k u rią v ad in a u nija. Ilgą laik ą d au g y b ė v iso k ių n e p a la n ­
+    k ių ap lin k y b ių tru k d ė įsig alėti stip riai d v iejų ta u tų są ­
+    ju n g ai, k u ri b ū tų užbaigusi p o rą šim tm ečių u žtru k u sias
+    ab ie jų šalių p astan g as. L ietuviai, su šau k ę B reste lu o ­
+    m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin ­
+    kosi len k ų seim as. P asiu n tin iai tu rė jo p areik šti štai ką.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184641
-
-- id: c-176108
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 734"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 734."
-  citata_originali: |
-    K okį atsak y m ą
-    g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
-    n eb u v o  su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u ­
-    v o  u žd rau sta b et k ą  spręsti, ir jie  tu rė jo  ap ie v isk ą p ra ­
-    n ešti luom am s, susirinkusiem s į B resto seim ą. Be abejo,
-    jie  n o rė jo  unijos, b et tokios, k ad n eb ū tų  p ažeistas v a l­
-    stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to,
-    įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau  L ietuvos Di­
-    džiosios K unig aik šty stės sienos.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193383
+    - t-196391

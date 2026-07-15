@@ -3,11 +3,19 @@ tipas: asmuo
 pavadinimas: 'Augustas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+datos:
+  - '1543 m.'
+date_start: '1543'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - karalius
   - asmuo
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -25,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė. Augustas netrukus atšalo nuo Kotrynos ir nutarė su ja išsiskirti, aiškindamas, kad santuoka esanti neteisėta. Augustas nesusipažinęs su L ietuvos isto rija, k u r aišk iai p asak y ta, k ad jo p irm tak ai Jo g a ila bei V y tau tas p a p rastai už p inigus L iv o n ijo je sam dydavęsi k arių?
+Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė. 1543 m. Krokuvoje Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį. Karalius B resto se im a s atvyko su sūnumi Augustu.
 
 ## Teiginiai
 
@@ -36,27 +44,26 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   pagrindžia:
     - c-169301
 
-<a id="claim-t-185941"></a>
+<a id="claim-t-196421"></a>
 - t-002
-  global_id: t-185941
-  teiginys: "Augustas netrukus atšalo nuo Kotrynos ir nutarė su ja išsiskirti, aiškindamas, kad santuoka esanti neteisėta."
+  global_id: t-196421
+  teiginys: "1543 m. Krokuvoje Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį."
+  pagrindžia:
+    - c-169301
+
+<a id="claim-t-196422"></a>
+- t-003
+  global_id: t-196422
+  teiginys: "Karalius B resto se im a s atvyko su sūnumi Augustu."
+  pagrindžia:
+    - c-178676
+
+<a id="claim-t-196423"></a>
+- t-004
+  global_id: t-196423
+  teiginys: "Ginče dėl caro titulo Augustui atsakyta, kad ciesoriumi iš pagarbos tituluojamas tik Romos imperatorius."
   pagrindžia:
     - c-169302
-
-<a id="claim-t-193386"></a>
-- t-003
-  global_id: t-193386
-  teiginys: "Augustas nesusipažinęs su L ietuvos isto rija, k u r aišk iai p asak y ta, k ad jo p irm tak ai Jo g a ila bei V y tau tas p a p rastai už p inigus L iv o n ijo je sam dydavęsi k arių?"
-  pagrindžia:
-    - c-176111
-
-<a id="claim-t-193387"></a>
-- t-004
-  global_id: t-193387
-  teiginys: "Augustas n eu žp u o lė L ivonijos, žinodam as, k ad ten g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją, sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės, Š klovo apylinkes."
-  pagrindžia:
-    - c-176112
-- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-184673|Barbora Radvilaitė]]: Augustas senatoriams pareiškė, kad Barbora Radvilaitė buvo jo žmona, sutuokta krikščioniškomis apeigomis.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54947|Barbora Radvilaitė]]: Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54948|Barbora Radvilaitė]]: Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.
 - susijęs iš [[objektai/paprociai/Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje.md#claim-t-185891|Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje]]: Augustas ir Barbora krikščioniškomis apeigomis prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.
@@ -79,6 +86,8 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170093|Stanislovas Augustas Poniatovskis (valdovas)]]: Stanislovo Augusto veiksmai su Rusijos ambasada Varšuvoje prisidėjo prie jo politinio fiasko 1795 metais.
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170094|Stanislovas Augustas Poniatovskis (valdovas)]]: Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą.
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170095|Stanislovas Augustas Poniatovskis (valdovas)]]: Istorikų vertinimu, Stanislovo Augusto susitaikėliška pozicija buvo nepagrįsta, nes LLV dar turėjo galimybių priešintis Rusijai.
+- susijęs iš [[objektai/asmenys/Stanislovas Augustas.md#claim-t-200767|Stanislovas Augustas]]: Italas Righi buvo karaliaus Stanislovo Augusto dvaro skulptorius.
+- susijęs iš [[objektai/asmenys/Stanislovas Augustas.md#claim-t-200892|Stanislovas Augustas]]: Basanavičiaus tekste Sigismanto Augusto gadynė siejama su vergijos įvedinėjimo Lietuvoje pradžia XVI amžiuje.
 - susijęs iš [[objektai/asmenys/Zigmantas Augustas.md#claim-t-93758|Zigmantas Augustas]]: Kai kurių nuomone, naujų žemių suskirstymas ir žmonių įkurdinimas sodžiais padėjo susidaryti vėlesnei Zigmanto Augusto valakų sistemai.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-182749|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183581|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį.
@@ -93,8 +102,6 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183852|Žygimantas Augustas (arkivyskupas, XVI a.)]]: 1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183853|Žygimantas Augustas (arkivyskupas, XVI a.)]]: 1564 m. liepos 7 d. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Statuto galios.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183854|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą.
-- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-184912|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimantas Augustas slėpė Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, todėl pasklido gandai apie jo palankumą liuteronybei.
-- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-184913|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-188657|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Narbutas Žygimantą Augustą vadino paskutiniu savarankišku Lietuvos valdovu ir paskutiniu vyriškuoju Jogailos palikuoniu.
 - susijęs iš [[objektai/autoriai/Augustas fon Kocebus.md#claim-t-191568|Augustas fon Kocebus]]: Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu saulės akmens vardu ir tikra gamtos mįsle.
 - susijęs iš [[objektai/autoriai/Dionyzas iš Charakso.md#claim-t-191563|Dionyzas iš Charakso]]: Dionyzas iš Charakso Oktaviano Augusto laikais aprašinėdamas pasaulį minėjo Pantikapo ir Aldeskos upes prie gintaro pakrančių jūros.
@@ -108,8 +115,6 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108301|Pranciškonų ordinas]]: 1552 m. Žygimanto Augusto dekretu Vilniaus pranciškonai neteko jurisdikcijos savo pavaldiniams mieste.
 - susijęs iš [[objektai/grupes/Romos senatas.md#claim-t-192974|Romos senatas]]: Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto.
 - susijęs iš [[objektai/ivykiai/1792 m. LLV ir Rusijos karas.md#claim-t-71721|1792 m. LLV ir Rusijos karas]]: 1792 m. birželio 14 d. Vilnius buvo atiduotas be kovos, o liepos 24 d. atėjo žinia apie Stanislovo Augusto kapituliaciją.
-- susijęs iš [[objektai/ivykiai/Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje.md#claim-t-185551|Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje]]: Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna.
-- susijęs iš [[objektai/ivykiai/Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje.md#claim-t-185552|Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje]]: Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, anksčiau leidusį jam vesti mirusios žmonos seserį.
 - susijęs iš [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare.md#claim-t-20173|Brastos pasipriešinimas 1792 m. kare]]: 1792 m. liepos pabaigoje gynyba telkėsi prie Brastos, bet liepos 24 d. atėjo žinia apie Stanislovo Augusto kapituliaciją ir prisijungimą prie Targovicos konfederacijos.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169846|Liublino unija (1569 m.)]]: Prieš Liublino uniją Žygimantas Augustas prie Lenkijos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169848|Liublino unija (1569 m.)]]: Liublino unijos metu lenkai ir Žygimantas Augustas spaudė LDK atstovus, siekdami panaikinti valstybingumą ir atplėšti teritorijų.
@@ -146,16 +151,17 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš Brasta: Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.
 - susijęs iš Brasta: Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.
 - susijęs iš Knišinas: Mirdamas Knišine, Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią, išplėsti Švč. Trejybės prieglaudą ir geriau ją aprūpinti.
-- susijęs iš Lenkija: Žiniai apie Dorpato apiplėšimą pasiekus Lenkiją, Augustas paragino savo legatus tartis su kunigaikščiu Ivanu dėl Livonijos.
 - susijęs iš Livonija: Numalšinęs Livoniją, Žygimantas Augustas pasiuntė pasiuntinius derėtis dėl taikos su Maskva.
 - susijęs iš Piotrkovas: Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliaus pajamas iš Mazovijos ir Prūsijos.
 - susijęs iš Rūdninkai: Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, o Rūdninkai labiau išgarsėjo Žygimanto Senojo ir Žygimanto Augusto laikais.
 - susijęs iš [[objektai/zodynas/sambrūzdis.md#claim-t-185411|sambrūzdis]]: Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žygimanto mirtį.
+- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200511|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas buvo Minsko vaivada.
 - susijęs iš [[objektai/autoriai/Augustas Robertas Niemi.md#claim-t-195248|Augustas Robertas Niemi]]: 1898 m. Augustas Robertas Niemi parašė „Kalevalos I sudėtį. Rinkinį runų apie Vainamoiną“, nurodytą kaip licenciato disertaciją.
 - susijęs iš [[objektai/autoriai/Augustas Robertas Niemi.md#claim-t-195249|Augustas Robertas Niemi]]: 1911 m. Augustas Robertas Niemi paskelbė darbą „Latviškos ir lietuviškos žymės suomių liaudies poezijoje“.
 - susijęs iš [[objektai/autoriai/Augustas Robertas Niemi.md#claim-t-195250|Augustas Robertas Niemi]]: 1913 m. Augusto Roberto Niemio „Lietuvių liaudies dainų tyrinėjimai“ buvo spausdinami kun. A. Sabaliausko vertime Tautosakos komisijoje.
 - susijęs iš [[objektai/autoriai/Augustas Robertas Niemi.md#claim-t-195251|Augustas Robertas Niemi]]: Augustas Robertas Niemi buvo suomis, gimęs 1869 m. liepos 25 d. vakarų Suomijoje, prie Turku ir Naantalio.
 - susijęs iš [[objektai/autoriai/Augustas Robertas Niemi.md#claim-t-195252|Augustas Robertas Niemi]]: 1912 m. Augustas Robertas Niemi paskelbė „Lietuvių dainas ir giesmes šiaurės rytų Lietuvoje“ kaip dainų rinkinį drauge su kun. A. Sabaliausko rinkiniu.
+- susijęs iš [[objektai/daiktai/Puotų konfitiūrai iš ananasų ir kitų egzotinių vaisių.md#claim-t-200673|Puotų konfitiūrai iš ananasų ir kitų egzotinių vaisių]]: 1754 m. Augusto III vardo dienos iškilmių aplinkoje minėti koadjutoriaus konfitiūrai iš ananasų ir kitų egzotinių vaisių.
 - susijęs iš Archangelsko gubernija: 1904 m. rugpjūtį ir rugsėjį Augustas Robertas Niemi dar kartą vyko į Archangelsko guberniją, į senų runų rinkimo vietą.
 - susijęs iš Archangelsko gubernija: 1901 m. vasarą Augustas Robertas Niemi keliavo po Archangelsko guberniją rinkdamas dainas.
 - susijęs iš Estų salos: 1899 m. Augustas Robertas Niemi keliavo į Estų salas, kur rinko estų liaudies dainas.
@@ -175,12 +181,10 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/asmenys/Albinas (Vilniaus sufraganas).md#claim-t-87611|Albinas (Vilniaus sufraganas)]]: Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.
 - susijęs iš [[objektai/asmenys/Andrius Volanas.md#claim-t-87626|Andrius Volanas]]: Andrius Volanas garsėjo mokslu ir rašytojo talentu, o Vilniuje uoliai skleidė reformatų idėjas.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173121|Barbora Radvilaitė]]: Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio dukra ir Trakų vaivados Goštauto našlė.
-- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-184672|Barbora Radvilaitė]]: Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą.
-- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-184673|Barbora Radvilaitė]]: Augustas senatoriams pareiškė, kad Barbora Radvilaitė buvo jo žmona, sutuokta krikščioniškomis apeigomis.
+- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-184672|Barbora Radvilaitė]]: Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą ir Stanislovo Goštauto našlę.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54947|Barbora Radvilaitė]]: Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54949|Barbora Radvilaitė]]: Barbora Radvilaitė gyveno rūmuose prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
 - susijęs iš [[objektai/asmenys/Erazmas Bretneris.md#claim-t-87660|Erazmas Bretneris]]: Vilniaus burmistras ir auksakalys Erazmas Bretneris 1546 m. testamentu skyrė savo namą Švč. Trejybės špitolei.
-- susijęs iš [[objektai/asmenys/Florijonas Zebžidovskis.md#claim-t-186109|Florijonas Zebžidovskis]]: Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus į Polocką.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176331|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Valdant Gediminui pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė bei dvasinė struktūra įgijo brandžiausią pavidalą.
 - susijęs iš [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras).md#claim-t-87680|Goštautas (Trakų vaivada, Barboros vyras)]]: Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė.
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-184710|Grigalius Chodkevičius]]: Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius.
@@ -190,26 +194,20 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113839|Julijona (Vytauto žmona)]]: Pasiligojusi Vytauto žmona Julijona buvo apsistojusi kunigaikščių kaime Memitz prie Vilniaus.
 - susijęs iš [[objektai/asmenys/Jurgis (Vilniaus kaštelionas, Barboros tėvas).md#claim-t-87739|Jurgis (Vilniaus kaštelionas, Barboros tėvas)]]: Jurgis buvo Vilniaus kaštelionas ir Barboros Radvilaitės tėvas.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103041|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo vyskupas ir Mikalojaus Radvilos Juodojo sūnus.
-- susijęs iš [[objektai/asmenys/Jurgis Tiškevičius.md#claim-t-186051|Jurgis Tiškevičius]]: Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivaną pavadino jį Astrachanės caru.
+- susijęs iš [[objektai/asmenys/Jurgis Tiškevičius.md#claim-t-186051|Jurgis Tiškevičius]]: Kojelavičiaus pasakojime Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivaną pavadino jį Astrachanės caru.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87438|Kazimieras IV]]: Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.
 - susijęs iš [[objektai/asmenys/Kiščina (Vitebsko vaivadienė).md#claim-t-87756|Kiščina (Vitebsko vaivadienė)]]: Kiščina, Vitebsko vaivadienė, buvo įspėta nestabdyti į Vilnių vamzdžiais vedamo vandens iš Drujos upės.
-- susijęs iš [[objektai/asmenys/Kotryna.md#claim-t-186056|Kotryna]]: Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl žmonės dar labiau patikėjo gandais apie jo perėjimą į liuteronybę.
-- susijęs iš [[objektai/asmenys/Kotryna.md#claim-t-186057|Kotryna]]: Augusto skyrybos su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.
-- susijęs iš [[objektai/asmenys/Kotryna.md#claim-t-186058|Kotryna]]: Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo ir mirė kelionėje.
 - susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-190909|Kristijonas (vyskupas, XIII a.)]]: Narbuto perteikiamas Hartknochas Kristijoną vadino pirmuoju Kulmo arba Prūsijos vyskupu ir dingusios kronikos autoriumi.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113879|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka; jo šarvų viršutinė dalis apie 1555 m. pagaminta Niurnberge.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113885|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113886|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.
 - susijęs iš [[objektai/asmenys/Ovidijus Nazonas.md#claim-t-191169|Ovidijus Nazonas]]: Narbutas rašė, kad imperatoriaus Augusto laikais Ovidijus Nazonas iki mirties gyveno „mūsų kraštuose“.
-- susijęs iš [[objektai/asmenys/Papakoda.md#claim-t-186245|Papakoda]]: Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė valia, o jos turtas buvo iššvaistytas.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184424|Petras I Didysis]]: Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184426|Petras I Didysis]]: Petro I Rusija buvo viena iš stiprėjančių centralizuotų valstybių, grasinusių Lenkijai ir Lietuvai.
-- susijęs iš [[objektai/asmenys/Petras Semaška.md#claim-t-186247|Petras Semaška]]: Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėnų legatą į Liubliną.
 - susijęs iš [[objektai/asmenys/Romanas Sanguška.md#claim-t-40405|Romanas Sanguška]]: Romanas Sanguška buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo lauko etmonu.
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-190968|Simonas Grunau]]: Narbutas, remdamasis Hartknochu, mini Simoną Grunau tarp kronikininkų, citavusių Kristijono kroniką apie senovės Prūsiją.
 - susijęs iš [[objektai/asmenys/Stanislovas Jendžejevskis.md#claim-t-186255|Stanislovas Jendžejevskis]]: Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113989|Steponas Batoras]]: Steponas Batoras įsakė Vilniaus vaivadai Radvilai skatinti vilniečius mokėti nustatytus muitus.
-- susijęs iš [[objektai/asmenys/Teodoras Vodka.md#claim-t-186260|Teodoras Vodka]]: Teodoras Vodka buvo tarp didikų, kurie karaliaus įsakymu su didele pagarba atlydėjo maskvėnų legatą į Liublino seimą.
 - susijęs iš [[objektai/asmenys/Vaiselijus.md#claim-t-191481|Vaiselijus]]: Narbutas Vaiselijų mini tarp kronikininkų, citavusių vyskupo Kristijono kroniką apie senovės Prūsiją.
 - susijęs iš [[objektai/asmenys/Vladislovas IV.md#claim-t-87593|Vladislovas IV]]: Vladislovas IV, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.
 - susijęs iš [[objektai/asmenys/Vladislovas Vaza.md#claim-t-79226|Vladislovas Vaza]]: 1632 m. Vladislovas Vaza ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas padidinti jų ugnies galią.
@@ -239,6 +237,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175553|Kalavijuočių ordinas]]: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš Kalavijuočių ordino didįjį magistrą Firstembergą.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120187|Karaimai]]: Karaimų etninė bendruomenė ir religija LDK buvo toleruojamos nuo XIV a. pabaigos.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169703|Lietuvos Didžioji Kunigaikštystė]]: Žygimantas Augustas, pasigailėjęs Lietuvos Didžiosios Kunigaikštystės pavaldinių, paskelbė lietuviškos monetos vertės taisyklę.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187720|Lietuvos Didžioji Kunigaikštystė]]: Vytautui galutinai prijungus Smolenską prie Lietuvos Didžiosios Kunigaikštystės, Jurijus Svetoslavovičius persikėlė į Didįjį Naugardą.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179369|Livonijos ordinas]]: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą.
 - susijęs iš [[objektai/grupes/Maskvėnai.md#claim-t-184572|Maskvėnai]]: Maskvėnai atidėjo derybas su Lukošiumi Garaburda ir Jonu Vilčeku, laukdami didesnius įgaliojimus turinčių pasiuntinių.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-184578|Radvilos]]: Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią.
@@ -257,7 +256,6 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/grupes/Šv. Jono brolija.md#claim-t-54836|Šv. Jono brolija]]: Dalis Šv. Jono bažnyčios pajamų priklausė Šv. Jono brolijai priklausiusiems Vilniaus gyventojams.
 - susijęs iš [[objektai/ivykiai/1792 m. LLV ir Rusijos karas.md#claim-t-71722|1792 m. LLV ir Rusijos karas]]: Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
 - susijęs iš [[objektai/ivykiai/1792 m. LLV ir Rusijos karas.md#claim-t-71723|1792 m. LLV ir Rusijos karas]]: 1792 m. gegužės-liepos kare su Rusija LLV priešinimosi galimybės dar nebuvo išsemtos.
-- susijęs iš [[objektai/ivykiai/Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje.md#claim-t-185553|Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje]]: Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo ir mirė kelionėje.
 - susijęs iš [[objektai/ivykiai/Gardino seimas ir antrojo LLV padalijimo patvirtinimas.md#claim-t-20185|Gardino seimas ir antrojo LLV padalijimo patvirtinimas (seimas)]]: Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą.
 - susijęs iš [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją.md#claim-t-185801|Karalienės Bonos išvykimas į Italiją]]: Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169843|Liublino unija (1569 m.)]]: Liublino unijos rezultatas buvo LDK atstovų priimtas kompromisas, kurio pagrįstumu rimčiau nesuabejota dar du šimtmečius.
@@ -265,7 +263,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169845|Liublino unija (1569 m.)]]: 1569 m. birželio 28 d. Jonas Jeronimaitis Chodkevičius Liublino seime priėmė unijos ir vieno antspaudo idėją kaip žiaurų kompromisą.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169850|Liublino unija (1569 m.)]]: 1569 m. birželio 28 d. Jonas Jeronimaitis Chodkevičius Liublino seime priėmė unijos ir vieno antspaudo idėją.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-188373|Liublino unija (1569 m.)]]: Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos.
-- susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185750|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus.
+- susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185750|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Kojelavičiaus pasakojime Maskvos kunigaikštis Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią sakėsi telkęs karui prieš skitus ir švedus.
 - susijęs iš [[objektai/ivykiai/Padalinamasis seimas (1773–1775 m.).md#claim-t-01764|Padalinamasis seimas (1773–1775 m.)]]: Per 1773–1775 m. padalinamąjį seimą buvo sunaikintos valstybės pajamos, išgrobsčius daugumą valstybės dvarų ir iždo pinigus.
 - susijęs iš [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.).md#claim-t-41344|Polocko apsiaustis (1563 m. sausio 31 d.)]]: Polocko praradimas buvo skaudi netektis Lietuvai, nes miestas buvo svarbus prekybos centras ir stipriausia rytinių žemių tvirtovė.
 - susijęs iš [[objektai/ivykiai/Varšuvos konfederacija.md#claim-t-77910|Varšuvos konfederacija]]: Lenkijoje daugiakonfesiškumo juridinis įforminimas įvyko 1573 m. Varšuvos konfederacijoje.
@@ -275,7 +273,6 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-87183|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: 1572 m. įsakymas numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą.
 - susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-87184|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: 1572 m. Žygimantas Augustas įsakė lietuvišką monetą imti nustatyta verte, o atsisakiusiesiems ją priimti numatė dešimties lenkiškų grivinų baudą.
 - susijęs iš [[objektai/paprociai/Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje.md#claim-t-185891|Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje]]: Augustas ir Barbora krikščioniškomis apeigomis prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.
-- susijęs iš [[objektai/paprociai/Valdovo meilės ryšių viešas smerkimas apkalbomis ir pašiepiamomis dainelėmis.md#claim-t-185899|Valdovo meilės ryšių viešas smerkimas apkalbomis ir pašiepiamomis dainelėmis]]: Lenkų ir lietuvių didikai smerkė nelygių žmonių meilę, o liežuvautojai iš nepadorių santykių tyčiojosi pašiepiamomis dainelėmis.
 - susijęs iš [[objektai/paprociai/Vilniaus miestiečių bylinėjimasis pagal Magdeburgo teisę.md#claim-t-87309|Vilniaus miestiečių bylinėjimasis pagal Magdeburgo teisę]]: 1564 m. Žygimantas Augustas atskyrė Vilniaus miestiečius nuo Statuto galios ir suteikė daugiau laisvės bylinėtis pagal Magdeburgo teisę.
 - susijęs iš [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu.md#claim-t-54745|Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]: M. Balińskis abejojo teiginiu, kad 1548 m. Vilniaus miestiečiai galėjo naudoti antspaudą su pagonių milžinu Alkiu.
 - susijęs iš [[objektai/paprociai/Vilniaus padienininkų rinkimasis prie rotušės.md#claim-t-54741|Vilniaus padienininkų rinkimasis prie rotušės]]: Vilniaus padienininkams nurodyta rinktis prie rotušės pagal Krokuvoje įvestos tvarkos pavyzdį.
@@ -312,7 +309,6 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš Barboros rūmai Vilniuje: Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
 - susijęs iš Braclavas: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės, arba Braclavo, vaivadijas.
 - susijęs iš Brasta: 1544 m. Brastos seime Žygimantas dar prieš mirtį atidavė sūnui Lietuvos valdžią.
-- susijęs iš Brasta: Lietuvos metraštyje Brasta, Drohičinas ir Melnikas vaizduojami kaip Batu nusiaubti ir sunaikinti miestai, kuriuos Erdvilas atstatė.
 - susijęs iš Druja: Iš versmės Paplaujoje ištekantis upelis vadinosi Druja.
 - susijęs iš Druja: 1538 m. Žygimanto Augusto laiške minima Drujos upė Paplaujoje, iš kurios vanduo vamzdžiais buvo nuvestas į miestą.
 - susijęs iš Gardinas: Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. targovitėnų valdomame Gardine sušaukti Seimą.
@@ -326,7 +322,6 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš Krokuva: Henrikas vainikavosi Krokuvoje, nepaisė savo pažadų ir atidėliojo vedybas su Ona.
 - susijęs iš Krokuva: Žygimanto Augusto laikais geriausi amatininkai iš Krokuvos apsigyveno Vilniuje ir prisidėjo prie cechų organizavimo.
 - susijęs iš Krokuva: Krokuvoje vainikuotas valdovas nepaisė pažadų, atidėliojo vedybas su Ona ir svajojo valdyti kaip Prancūzijoje.
-- susijęs iš Krokuva: Didikai sutiko, kad Barbora Krokuvoje būtų vainikuota karaliene kaip ir kitos karalienės.
 - susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
 - susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
 - susijęs iš Lietuva: Karalius lapkritį grįžo į Krokuvą ir leido Augustui vykti į Lietuvą.
@@ -354,17 +349,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš Vilniaus pilis: Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.
 - susijęs iš Vilniaus rotušė: 1547 m. Vilniuje padieniams darbininkams nurodyta rinktis prie rotušės, kad miestiečiai galėtų lengviau juos pasisamdyti.
 - susijęs iš Vilnius: 1544 m. Žygimantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir perėmė valdžią Lietuvoje.
-- susijęs iš Vilnius: Iki 1565 m. Žygimanto Augusto lėšomis pagamintų ginklų ir amunicijos dalis buvo palikta Vilniuje, o kita išsiųsta į pilis.
-- susijęs iš Vilnius: 1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.
-- susijęs iš Vilnius: Balińskis Žygimanto Augusto laikus Vilniui vadino aukso amžiumi, o jo mirtį siejo su visuotiniu sielvartu.
-- susijęs iš Vilnius: Vilniaus miestiečiams ir pirkliams buvo nurodyta apskaičiuoti ir sumokėti muitus bei Czopowe ir Szosowe mokesčius.
-- susijęs iš Vilnius: Žygimantas Augustas savo turtingą biblioteką, pradėtą tėvo ir jo paties kauptą, atidavė Vilniaus jėzuitų kolegijai.
 - susijęs iš Vilnius: Po rimtesnių kautynių birželio 11 d. prie Myro Vilnius birželio 14 d. buvo atiduotas be kovos.
-- susijęs iš Vilnius: 1544 m. Žygimantui perdavus Lietuvos valdžią sūnui, Vilnius vėl tapo pagrindiniu valdžios židiniu.
-- susijęs iš Vilnius: Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.
-- susijęs iš Vilnius: Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, kurioje dažnai būdavo ir pats karalius.
-- susijęs iš Vilnius: Narbutas rašė, kad Vilniuje ir kitose vietose būta aukurų, kuriuose degė vaidilučių saugoma Amžinoji ugnis.
-- susijęs iš Vilnius: Narbutas senajame Vilniaus miesto herbe matė milžiną Alcį, žengiantį per vandenį su moterimi ant pečių.
 - susijęs iš Volinijos-Haličo kunigaikštija: Vaišvilko bandymas sujungti Lietuvos valstybę su Volinijos-Haličo kunigaikštija buvo labai trumpas.
 - susijęs iš Voluinė: Žygimantas Augustas prie Lenkijos prijungė Voluinės, Kijevo ir Podolės vaivadijas bei Palenkę.
 - susijęs iš Šv. Jono akademijos spaustuvė: Akademijos kolegija vėlesniais laikais 1631 m. įgytą mūrinį namą ir sklypą pavertė spaustuve.
@@ -388,189 +373,108 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/zodynas/žirgininkas.md#claim-t-185418|žirgininkas]]: Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173325|Žygimantas Senasis]]: 1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią.
 - susijęs iš [[objektai/grupes/Karalaičio Jokūbo partija.md#claim-t-01344|Karalaičio Jokūbo partija]]: Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę.
+- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200512|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas teigė atvyksiąs į Vilnių, todėl jam reikėjo numatyti vietą M. Lopacinskio mūriniame name.
 - susijęs iš Malburgas: 1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.
 - susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
 - susijęs iš [[objektai/zodynas/Liciejus.md#claim-t-195449|Liciejus]]: Liciejus šiame šaltinyje reiškia gimnazijos tipo mokymo įstaigą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Seimo pradžioje, kai pradė­
-    jo dalyti pareigybes, Jurgį Chodkevičių paskyrė vy­
-    riausiuoju kunigaikščio miegamojo prižiūrėtoju, kurį
-    žmonės vadina Lietuvos Didžiosios Kunigaikštystės ar-
-    chikamerarij ūmi. Kai pradėta nagrinėti valstybės rei­
-    kalai, karalius, pareiškęs, kad jo sveikata pakirsta me­
-    tų bei ligų, perdavė savo sūnui Augustui Lietuvos
-    Didžiosios Kunigaikštystės valdymą, o luomai tam pri­
-    tarė. Paleidęs seimą, karalius išvyko į Krokuvą, o
-    Augustas su žmona — į Vilnių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Augustas netrukus atšalo nuo Kotrynos ir nutarė su ja išsiskirti, aiškindamas, kad santuoka esanti neteisėta.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Iš lietuvių puošniausiai
-    atrodė Radvila bei Grigalius Chodkevičius. Beje, ši­
-    taip iškilmingai atšvęstos vestuvės, sukėlusios tada vi­
-    suotinę linksmybę, neatnešė džiaugsmo pačiam kara­
-    liui, nes Augustas netrukus taip atšalo nuo Kotrynos,
-    kad apskritai nutarė su ja išsiskirti, aiškindamasis tuo,
-    jog santuoka esanti neteisėta, nes negalima, girdi,
-    vesti mirusios žmonos sesers. Tuo tarpu kurių ne ku­
-    rių didikų patrakėliški meilės nuotykiai sukėlė Voly­
-    nėje didelį sąmyšį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Augustas nesusipažinęs su L ietuvos isto rija, k u r aišk iai p asak y ta, k ad jo p irm tak ai Jo g a ila bei V y tau tas p a p rastai už p inigus L iv o n ijo je sam dydavęsi k arių?'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Esą k am  gi jam  b ū tų  re ik ė ję
-    tarp a is L ivoniją v ad in ti R om os im p erato ria u s dovana,
-    tarp a is —  L ietuvos k u n ig aik ščių  tėv o n ija, jeig u  n e n o rė ­
-    tų aiškaus m elo p a v e rsti tiesa? A p sk rita i n e o ru  to k iam
-    v ald o v u i k aip  A u g u stas ra šy ti tokius p rieštarin g u s, to ­
-    k iu s n esu d erin am u s d alykus. A rg i jis nesusipažinęs su
-    L ietuvos isto rija, k u r aišk iai p asak y ta, k ad  jo  p irm tak ai
-    Jo g a ila  bei V y tau tas p a p rastai už p inigus L iv o n ijo je
-    sam dydavęsi k arių?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Augustas n eu žp u o lė L ivonijos, žinodam as, k ad ten g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją, sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės, Š klovo apylinkes.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tiesa, jis n eu žp u o lė L ivonijos, žinodam as, k ad  ten
-    g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti
-    tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją,
-    sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės,
-    Š klovo apylinkes. G avęs ap ie tai žinią, k araliu s A u g u s­
-    tas p ad alijo  sav o  jėg as į dv i dalis. K araly stės lau k o  e t­
-    m onui F lo rijo n u i Z ebžidovskiui įsak ė len k u s v esti į
-    Polocką, o M ik alo ju i R advilai tra u k ti su  lietu v iais link
-    Sm olensko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
+- susijęs iš [[objektai/zodynas/konfitiūrai.md#claim-t-200689|konfitiūrai]]: Jono Dominyko Lopacinskio laiške konfitiūrai minimi kaip koadjutoriaus vaišės iš ananasų, karambolų ir kitų indiškų vaisių.
 ## Citatos
 
 - id: c-169301
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 672"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 672."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Seimo pradžioje, kai pradė­
-    jo dalyti pareigybes, Jurgį Chodkevičių paskyrė vy­
-    riausiuoju kunigaikščio miegamojo prižiūrėtoju, kurį
-    žmonės vadina Lietuvos Didžiosios Kunigaikštystės ar-
-    chikamerarij ūmi. Kai pradėta nagrinėti valstybės rei­
-    kalai, karalius, pareiškęs, kad jo sveikata pakirsta me­
-    tų bei ligų, perdavė savo sūnui Augustui Lietuvos
-    Didžiosios Kunigaikštystės valdymą, o luomai tam pri­
-    tarė. Paleidęs seimą, karalius išvyko į Krokuvą, o
-    Augustas su žmona — į Vilnių.
+    1543 m e ta i
+    Ž y g im a n ta s
+    A u g u s­
+    ta s v e d a a u strų k u ­
+    n ig a ik š ty tę E lžb ietą
+    Sugrįžęs į Lenkiją, kara­
+    lius suskato apvesdinti sūnų
+    Augustą. Nutarta susigimi­
+    niuoti su Austrijos valdovų
+    šeima ir paprašyti Augustui
+    Romos karaliaus Ferdinando
+    dukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­
+    torius Karolis V didžiai pritarė šiai santuokai, įsitikinę,
+    kad ji dar labiau sustiprins santarvę ir gerus santy­
+    kius, kuriems padėta pamatai anksčiau, susigiminiuo­
+    jant su Vladislovu bei Liudviku. Balandžio 15 d. Kro­
+    kuvoje iškėlė vestuves, labai iškilmingas, kaip ir dera
+    šitokiems sutuoktiniams.
+  citata_rodoma: "1543 m e ta i \nŽ y g im a n ta s \nA u g u s­\nta s v e d a a u strų k u ­\nn ig a ik š ty tę E lžb ietą\nSugrįžęs į Lenkiją, kara­\nlius suskato apvesdinti sūnų \nAugustą. Nutarta susigimi­\nniuoti su Austrijos valdovų \nšeima ir paprašyti Augustui \nRomos karaliaus Ferdinando \ndukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­\ntorius Karolis V didžiai pritarė šiai santuokai, įsitikinę, \nkad ji dar labiau sustiprins santarvę ir gerus santy­\nkius, kuriems padėta pamatai anksčiau, susigiminiuo­\njant su Vladislovu bei Liudviku."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185940
+    - t-196421
 
 - id: c-169302
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 690"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 690."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Iš lietuvių puošniausiai
-    atrodė Radvila bei Grigalius Chodkevičius. Beje, ši­
-    taip iškilmingai atšvęstos vestuvės, sukėlusios tada vi­
-    suotinę linksmybę, neatnešė džiaugsmo pačiam kara­
-    liui, nes Augustas netrukus taip atšalo nuo Kotrynos,
-    kad apskritai nutarė su ja išsiskirti, aiškindamasis tuo,
-    jog santuoka esanti neteisėta, nes negalima, girdi,
-    vesti mirusios žmonos sesers. Tuo tarpu kurių ne ku­
-    rių didikų patrakėliški meilės nuotykiai sukėlė Voly­
-    nėje didelį sąmyšį.
+    Tuo tarpu Maskvos
+    valdovas atsiuntė įgaliotus legatus neseniai sudarytoms
+    paliauboms patvirtinti, be to, norėdamas įtikinti kara­
+    lių, kad, rūpinantis dėl tvir-
+    G in čija m a si su m a sk -
+    tos taikos, ir laiškų rašytojai,
+    v ė n a is
+    d ė l
+    ca ro
+    Ii-
+    ir pasiuntiniai nieku būdu
+    tū lo
+    neturi užmiršti caro titulo.
+    Jam buvo atsakyta, kad žo­
+    džiai ciesorius ir caras šiek tiek rodosi panašūs tik ta­
+    da, kai juos matai parašytus, bet šiaip visiškai skir­
+    tingos reikšmės. Ciesoriumi iš pagarbos kitų šalių val­
+    dovai tituluoja tik Romos imperatorių, nes jis — pir­
+    mas tarp visų kitų krikščioniškųjų valdovų, be to, pa­
+    tys maskvėnai ne kartą pareiškę, jog Ivanas nesiekiąs
+    to titulo.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185941
+    - t-196423
 
-- id: c-176111
+- id: c-178676
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 715"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 715."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Esą k am  gi jam  b ū tų  re ik ė ję
-    tarp a is L ivoniją v ad in ti R om os im p erato ria u s dovana,
-    tarp a is —  L ietuvos k u n ig aik ščių  tėv o n ija, jeig u  n e n o rė ­
-    tų aiškaus m elo p a v e rsti tiesa? A p sk rita i n e o ru  to k iam
-    v ald o v u i k aip  A u g u stas ra šy ti tokius p rieštarin g u s, to ­
-    k iu s n esu d erin am u s d alykus. A rg i jis nesusipažinęs su
-    L ietuvos isto rija, k u r aišk iai p asak y ta, k ad  jo  p irm tak ai
-    Jo g a ila  bei V y tau tas p a p rastai už p inigus L iv o n ijo je
-    sam dydavęsi k arių?
+    B adas L ie tu v o je
+    Prieš metus bei kelis mė­
+    nesius skėrių tumulams išnai­
+    kinus javus, visa Lietuva ju­
+    to didelę maisto stoką, o labiausiai Vilnius, mat čia
+    suplaukė iš kaimų baisybė alkanų varguolių, kurie kri­
+    to it musės pribaigti ligų ir bado, nes per žmonių gau­
+    są sunku buvo susirasti maisto. Štai todėl, nutarus tais
+    metais sušaukti lietuvių seimą, bajorai ir didikai rin­
+    kosi ne į Vilnių, bet į Brestą. Čia ir sugužėjo gausybė
+    visų luomų atstovų. Karalius
+    B resto se im a s
+    atvyko su sūnumi Augustu.
+    Seimo pradžioje, kai pradė­
+    jo dalyti pareigybes, Jurgį Chodkevičių paskyrė vy­
+    riausiuoju kunigaikščio miegamojo prižiūrėtoju, kurį
+    žmonės vadina Lietuvos Didžiosios Kunigaikštystės ar-
+    chikamerarij ūmi.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193386
-
-- id: c-176112
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 716"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 716."
-  citata_originali: |
-    Tiesa, jis n eu žp u o lė L ivonijos, žinodam as, k ad  ten
-    g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti
-    tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją,
-    sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės,
-    Š klovo apylinkes. G avęs ap ie tai žinią, k araliu s A u g u s­
-    tas p ad alijo  sav o  jėg as į dv i dalis. K araly stės lau k o  e t­
-    m onui F lo rijo n u i Z ebžidovskiui įsak ė len k u s v esti į
-    Polocką, o M ik alo ju i R advilai tra u k ti su  lietu v iais link
-    Sm olensko.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193387
+    - t-196422
 
 ## Ryšiai
-- Augustas valdė [[objektai/vietos/Lietuva]]
-- Augustas keliavo į [[objektai/vietos/Vilnius]]
+- Žmonos: [[objektai/asmenys/Barbora Radvilaitė]]
+- Augustas siuntė į [[objektai/vietos/Polockas]]

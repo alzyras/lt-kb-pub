@@ -71,8 +71,8 @@ Nenurodyta
   teiginys: "Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs asmuo."
   pagrindžia:
     - c-177028
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aprašytas prūsų pilkapis turėjo akmenų aptvarą, žvaigždės pavidalo statinį ir pietų pusėje įrengtą vietą urnai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -94,80 +94,25 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Žemesnio luomo prūsų palaidojimuose urnos dažnai būdavo užkasamos laukuose ar miškuose, virš jų supilant smėlio kauburius be akmenų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Be abejo,
-    tai vėliau mirusių artimų velionio giminaičių arba drauge su
-    juo sudegintų tarnų ir tarnaičių kapai.
-    Žemesnio luomo žmonių palaidojimai buvo be tokių soli­
-    džių statinių. Urnas su pelenais labai dažnai pakasdavo žemė­
-    je plikame lauke arba miškuose ir virš jų supildavo daugiau ar
-    mažiau iškilius kauburius iš smėlio, be jokių akmenų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas spėjo, kad kai kurie prūsų pilkapiai naudoti kaip šeimos kapai, iš anksto numatant vietas vėliau mirsiantiems šeimos nariams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Urnas su pelenais labai dažnai pakasdavo žemė­
-    je plikame lauke arba miškuose ir virš jų supildavo daugiau ar
-    mažiau iškilius kauburius iš smėlio, be jokių akmenų. Paga­
-    liau atrodo, kad kai kurie iš tų pilkapių būdavo naudojami
-    kaip visos šeimos kapai; pradedant juos pilti, būdavo galvoja­
-    ma apie vietas šeimos nariams, mirsiantiems vėliau6.
-    Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
-    panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
-    nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
-    kitame šio veikalo tome.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs asmuo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs
-    asmuo. Žymiausius laidojo ant kalnelių, greta jų namų. Net
-    pati jų forma rodo tam tikrą jų ryšį su mirusiųjų padėtimi ir
-    aukštomis pareigomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-172742
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 372"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Aplink visą pilkapį ratu eina didokų
-    akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­
-    tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­
-    nų eilės, nukreiptos nuo viršūnės tiesiai į apačią. Vieta, kurio­
-    je stovėdavo urna, beveik visuomet yra pietų pusėje, priešais
-    ugniaviete, skirtą deginti; vieta dailiai apdėta kyšančiais ak­
-    menimis ir gerai apsaugota, kad urnos viduje niekas nesuges­
-    tų. Angą į šį rūsį uždaro milžiniškas akmeninis skydas (žiūrėk
-    VIII lentelės« raidę).
+    kį iš plonų dalių, todėl neatpažįstamai surūdijusį; prie kojų,
+    žemiau blauzdų, stovėjo molinis indas - lėkštas dubenėlis ke­
+    turių colių skersmens, dviejų su puse colio gylio, beveik colio
+    storio, padarytas iš juodo deginto molio, viduje lygaus pavir­
+    šiaus, lyg padengto pokostu. Tai buvo ašarinė, pastatyta į kapą
+    su ašaromis, kurių laidojant priverkė raudotojos. Kaip man
+    pasakojo, panašių dubenėlių kartais rasdavo keliolikos pėdų
+    gylyje šalia žmonių kaulų. Kaukolės likučiai buvo pažaliavę
+    nuo metalo oksidacijos: matyt, mirusysis buvo su galvos ap­
+    dangalu, papuoštu vario arba sidabro gabaliukais; jų likučių
+    nepastebėjome.
+  citata_rodoma: "Aplink visą pilkapį ratu eina didokų\nakmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­\ntinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­\nnų eilės, nukreiptos nuo viršūnės tiesiai į apačią. Vieta, kurio­\nje stovėdavo urna, beveik visuomet yra pietų pusėje, priešais\nugniaviete, skirtą deginti; vieta dailiai apdėta kyšančiais ak­\nmenimis ir gerai apsaugota, kad urnos viduje niekas nesuges­\ntų. Angą į šį rūsį uždaro milžiniškas akmeninis skydas (žiūrėk\nVIII lentelės« raidę)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -178,8 +123,7 @@ Nenurodyta
 - id: c-172743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 373"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Be abejo,
     tai vėliau mirusių artimų velionio giminaičių arba drauge su
@@ -198,8 +142,7 @@ Nenurodyta
 - id: c-172744
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 373"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Urnas su pelenais labai dažnai pakasdavo žemė­
     je plikame lauke arba miškuose ir virš jų supildavo daugiau ar
@@ -221,8 +164,7 @@ Nenurodyta
 - id: c-177028
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 372"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs
     asmuo. Žymiausius laidojo ant kalnelių, greta jų namų. Net

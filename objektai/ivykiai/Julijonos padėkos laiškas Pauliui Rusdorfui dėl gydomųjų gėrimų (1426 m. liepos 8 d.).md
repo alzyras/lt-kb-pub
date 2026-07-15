@@ -58,33 +58,6 @@ Nenurodyta
   teiginys: "1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir."
   pagrindžia:
     - c-176897
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    54
-    Index Cod. Hist. Dipl. Livoniae, T. I,
-    N. 1208, kur nurodytas Slaptajame
-    archyve esantis vokiečių kalba rašy­
-    tas didžiojo Lietuvos kunigaikščio
-    Vytauto žmonos Julijonos, dėkojan-
-    čios didžiajam magistrui Pauliui fon
-    237
-
-    ## Puslapis 254
-
-    VILNIAUS MIESTO ISTORIJA I I  TOMAS
-    Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir vėles­
-    niais laikais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

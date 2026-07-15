@@ -41,23 +41,6 @@ Be to, Rusijai reikalaujant, su ja buvo padaryta puolimo bei gynimosi sutartis.
   teiginys: "Rusijai reikalaujant buvo sudaryta puolimo bei gynimosi sutartis su Rusija."
   pagrindžia:
     - c-02510
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Dabar buvo atskirta ir anksčiau
-    buvusi bendra Edukacinė Komisija. Be to, Rusijai reikalaujant,
-    su ja buvo padaryta puolimo bei gynimosi sutartis. Kariuo-
-    menės buvo palikta 5.000 Lietuvoje ir 10.000 Lenkijoje; likusioji
-    jos dalis arba turėjo pereiti Rusų žiniai arba turėjo būti atleista.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

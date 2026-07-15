@@ -8,13 +8,13 @@ datos:
   - '1940 m.'
 date_start: '1440'
 date_end: '1940'
+amziai:
+  - 'XV'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XV'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,8 @@ Dusburgietis teigia, kad milthaler F.
   teiginys: "F. Milthalerio „Die Grossgebietiger des Deutschen Ritterordens bis 1440“ išleista Karaliaučiuje ir Berlyne 1940 m."
   pagrindžia:
     - c-61814
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'F. Milthalerio „Die Grossgebietiger des Deutschen Ritterordens bis 1440“ išleista Karaliaučiuje ir Berlyne 1940 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,11 +63,12 @@ Dusburgietis teigia, kad milthaler F.
 - id: c-61814
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    2: wiek XIV i XV,—Warszawa, 1896.
     Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg
     (Pr.) und Berlin, 1940.
+  citata_rodoma: "Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg\n(Pr.) und Berlin, 1940."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

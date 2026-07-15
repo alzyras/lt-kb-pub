@@ -35,34 +35,13 @@ Bailambero vadovaujamų hunų Europos užpuolimą Narbutas, remdamasis Naruševi
   teiginys: "Bailambero vadovaujamų hunų Europos užpuolimą Narbutas, remdamasis Naruševičiumi, datuoja 376 m."
   pagrindžia:
     - c-174254
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bailambero vadovaujamų hunų Europos užpuolimą Narbutas, remdamasis Naruševičiumi, datuoja 376 m.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vis dėlto ne­
-    aišku, kada ir kaip iš ten pasitraukėi.
-    47
-    Alanai natūralizuojasi Vakarų Europoje. Alanų galy­
-    bės smukimas, arba šių genčių susiskaidymas, anot Na­
-    ruševičiaus tyrimų5, prasidėjo 376 mūsų eros metais, kai
-    Europą užpuolė Bailambero vadovaujami hunai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174254
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 62"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 62."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vis dėlto ne­
     aišku, kada ir kaip iš ten pasitraukėi.

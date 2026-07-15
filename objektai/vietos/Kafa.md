@@ -40,29 +40,6 @@ Yra duomenų, kad toliau žygiuojant buvo pasiektas pietinėje Krymo pakrantėje
 - susijęs iš Lietuva: Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros.
 - susijęs iš [[objektai/asmenys/Musat-chanas.md#claim-t-183755|Musat-chanas]]: Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių caraičiui Musat-chanui.
 - susijęs iš [[objektai/asmenys/Musat-chanas.md#claim-t-39610|Musat-chanas]]: Į Lietuvos pusę perėjęs totorių caraitis Musat-chanas buvo paskirtas valdyti Kafos apylinkes.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jono vardas.
-    Yra duomenų, kad toliau žygiuojant buvo
-    pasiektas pietinėje Krymo pakrantėje tarp-
-    tautinės reikšmės uostas Kafa (Feodosija,
-    totorių perleistas italų Genujos pirkliams,
-    vykdęs prekybą net su Indija). Kafos apy-
-    linkės buvo pavestos valdyti į Lietuvos
-    pusę perėjusiam totorių caraičiui Musat-
-    Chanui, taigi perėjo į tam tikrą Lietuvos
-    kontrolę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45119

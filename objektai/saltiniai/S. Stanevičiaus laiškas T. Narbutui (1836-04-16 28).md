@@ -37,33 +37,9 @@ Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose rašytu laišku Teodor
 <a id="claim-t-191854"></a>
 - t-001
   global_id: t-191854
-  teiginys: "Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose rašytu laišku Teodorui Narbutui patvirtino Narbuto minimą teiginį."
+  teiginys: 'Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose rašytu laišku Teodorui Narbutui patvirtino Narbuto minimą teiginį.'
   pagrindžia:
     - c-174736
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose rašytu laišku Teodorui Narbutui patvirtino Narbuto minimą teiginį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip tvirtina ponas Simonas
-    Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio au­
-    torius, man rašytame laiške (Raseiniai. 1836.IV.19).
-    472
-
-    ## Puslapis 482
-
-    Tekstas, kuriuo T, Narbutas papildė paragrafą, rengdamas antrai)
-    LT1
-    leidimą
-    (PEĮ.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -83,9 +59,9 @@ Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose rašytu laišku Teodor
     LT1
     leidimą
     (PEĮ.
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191854
+    - t-001

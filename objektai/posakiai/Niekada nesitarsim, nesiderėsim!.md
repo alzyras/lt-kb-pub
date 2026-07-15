@@ -40,23 +40,6 @@ media_all_json: |-
   teiginys: "„Niekada nesitarsim, nesiderėsim!“ buvo SSRS valdovų atsakymas į Lietuvos siūlymą tartis."
   pagrindžia:
     - c-12485
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Štai, buvę skriaudėjai arba paveldėtojai, mūsų ištiesta taikos ir
-    draugystės ranka, susitarkime.
-
-    - Niekada nesitarsim, nesiderésim! - toks buvo ssrs valdovų
-    atsakymas. - Atšaukit savo paskelbtą Nepriklausomybės aktą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

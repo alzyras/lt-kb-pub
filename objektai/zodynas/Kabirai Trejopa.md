@@ -49,94 +49,55 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
   teiginys: "Iš istorijos žinoma, kad senovės prūsai turėjo Trejybę, todėl nedvejosime priimdami Kabirus į lietuvių die vų tarpą."
   pagrindžia:
     - c-177079
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptiečiams, graikams, romėnams, indams, japonams, slavams ir lietuviams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Egiptiečiai ir graikai, romėnai, in­
-    dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­
-    giau ar mažiau paslaptingą dievų Kabirų ritualą.
-    Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
-    kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
-    Dii socii arbaAnactes -  monarchai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197361"></a>
+- t-004
+  global_id: t-197361
+  teiginys: "Dabar sunku tinkamai atskleisti to mito prasmę: pirma, apeigos buvo slaptos, antra, painiava net senovės mitologų vei kaluose, nes vieni Kabirus prilygina Dioskūrams, tai yra Kas torui ir Polideukui, kiti laiko juos kažkokių dievų vaikais, tre ti - kerėtojais."
   pagrindžia:
-    - t-001
+    - c-172014
 
-- c-002
-  santrauka: 'Narbutas žodį „Triopa“ arba „Trejopa“ aiškina kaip tris ženklus, simbolius ar žmogaus egzistavimo tarpsnius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Domintis vėliau,
-    po dešimt metų, neaptikta nė pėdsako, kur toji liekana dingo;
-    vos rasta atsimenančių šį nutikimą; žydai nenorėjo prisipažin­
-    ti tai pirkę. Nežinia, kas buvo užrašyta, bet vis dėlto vienas
-    žodis, to dvarininko nupieštas iš atminties, kaip nagrinėjant
-    paaiškėjo, mūsų raštu reiškė Triopa (Trejopa), o tai lietuviškai
-    tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
-    ar figūros arba trys žmogaus egzistavimo tarpsniai -  gyveni­
-    mas, mirtis ir amžinybė. Apie tai dar kalbėsime aptardami lai­
-    dotuvių apeigas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197362"></a>
+- t-005
+  global_id: t-197362
+  teiginys: "Nežinia, kas buvo užrašyta, bet vis dėlto vienas žodis, to dvarininko nupieštas iš atminties, kaip nagrinėjant paaiškėjo, mūsų raštu reiškė Triopa (Trejopa), o tai lietuviškai tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai ar figūros."
   pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Iš istorijos žinoma, kad senovės prūsai turėjo Trejybę, todėl nedvejosime priimdami Kabirus į lietuvių die vų tarpą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
-    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
-    Indų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
-    Kamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­
-    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
-    slavų Tryzną. Iš istorijos žinoma, kad senovės prūsai turėjo
-    Trejybę, todėl nedvejosime priimdami Kabirus į lietuvių die­
-    vų tarpą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+    - c-177079
 
 ## Citatos
 
 - id: c-172014
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 111"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Egiptiečiai ir graikai, romėnai, in­
-    dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­
-    giau ar mažiau paslaptingą dievų Kabirų ritualą.
-    Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
-    kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
-    Dii socii arbaAnactes -  monarchai.
+    Dabar sunku tinkamai atskleisti to mito prasmę: pirma,
+    apeigos buvo slaptos, antra, painiava net senovės mitologų vei­
+    kaluose, nes vieni Kabirus prilygina Dioskūrams, tai yra Kas­
+    torui ir Polideukui, kiti laiko juos kažkokių dievų vaikais, tre­
+    ti - kerėtojais arba kažkokiais šventikais, panašiais į daktilus,
+    koribantus, kuretus. Tačiau lygindami tuos padavimus vieną
+    su kitu ir aiškindamiesi tų dievybių prigimtį, Mnelea, o vėliau
+    Rolandas, labiausiai priartėdami prie tiesos, sutaria, kad Ka­
+    tarai - trys pragaro, arba mirusiųjų, dievai, kadangi Prozerpi­
+    na simbolizuoja žemę, priimančią į savo įsčias visa, kas mirė,
+    ir atiduodančią, arba gimdančią, iš tų pačių įsčių, dėl to ji yra
+    pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito
+    gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Pluto­
+    nas - požemį, arba egzistavimą po mirties. Tai iš tikrųjų ir yra
+    graikų mitologijos Trejybė.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189126
+    - t-197361
 
 - id: c-172016
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 113"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 113."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Domintis vėliau,
     po dešimt metų, neaptikta nė pėdsako, kur toji liekana dingo;
@@ -145,7 +106,7 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
     žodis, to dvarininko nupieštas iš atminties, kaip nagrinėjant
     paaiškėjo, mūsų raštu reiškė Triopa (Trejopa), o tai lietuviškai
     tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
-    ar figūros arba trys žmogaus egzistavimo tarpsniai -  gyveni­
+    ar figūros arba trys žmogaus egzistavimo tarpsniai - gyveni­
     mas, mirtis ir amžinybė. Apie tai dar kalbėsime aptardami lai­
     dotuvių apeigas.
   statusas: verified
@@ -158,20 +119,28 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
 - id: c-177079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
-    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
-    Indų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
-    Kamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­
-    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
-    slavų Tryzną. Iš istorijos žinoma, kad senovės prūsai turėjo
-    Trejybę, todėl nedvejosime priimdami Kabirus į lietuvių die­
-    vų tarpą.
+    Domintis vėliau,
+    po dešimt metų, neaptikta nė pėdsako, kur toji liekana dingo;
+    vos rasta atsimenančių šį nutikimą; žydai nenorėjo prisipažin­
+    ti tai pirkę. Nežinia, kas buvo užrašyta, bet vis dėlto vienas
+    žodis, to dvarininko nupieštas iš atminties, kaip nagrinėjant
+    paaiškėjo, mūsų raštu reiškė Triopa (Trejopa), o tai lietuviškai
+    tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
+    ar figūros arba trys žmogaus egzistavimo tarpsniai - gyveni­
+    mas, mirtis ir amžinybė. Apie tai dar kalbėsime aptardami lai­
+    dotuvių apeigas.
+    II
+    skyrius
+    DEIVĖS, D ew e* l
+    Praurimė (Praurime)
+    Šventosios ugnies deivė, viena seniausių senojo pasaulio
+    dievybių.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194682
+    - t-197362

@@ -62,26 +62,6 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
   teiginys: "Ipatijaus metraštis prie 1270 m. pradžios pažymi, kad Lietuvoje pradėjo valdyti Traidenis."
   pagrindžia:
     - c-169747
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pagal
-    Ipatijų, keturi Traidenio broliai (Borza, Sirputis, Lesis, Svilkenis)
-    esą buvę krikščionys, kilnus ir geri vyrai^225 Bet toji kronika nepa­
-    gailėjo piktų žodžių pačiam Traideniui. Prie 1270 m. ji pradžioje
-    pažymi : « Lietuvoje pradėjo valdyti pašėlęs _(okajauyj),_ nedorovingas,
-    prakeiktas ir negailestingas Traidenis ». Jis ten lyginamas su žiau­
-    ruoliais : « Sirijos Antiochu, Jeruzalės Erodu, Romos Neronu »^227.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
 
 ## Citatos
 
@@ -103,5 +83,7 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186400
+    - t-186397
     - t-186398
+    - t-186399
+    - t-186400

@@ -9,15 +9,15 @@ datos:
   - '1318 m.'
 date_start: '1318'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - dvasininkas
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,15 +60,8 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   pagrindžia:
     - c-171469
 
-<a id="claim-t-188581"></a>
-- t-004
-  global_id: t-188581
-  teiginys: "Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos."
-  pagrindžia:
-    - c-171470
-
 <a id="claim-t-194715"></a>
-- t-005
+- t-004
   global_id: t-194715
   teiginys: "Strijkovskis, dėstydamas istoriją iki stabmeldystės žlugimo Lietuvoje, nuo lat mini vyriausiojo žynio pareigas ir paskutinį jų eilėje taria buvus Lizdeiką."
   pagrindžia:
@@ -96,11 +89,9 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 - susijęs iš Tauro kalnas: Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukštutinę mūro pilį.
 - susijęs iš Vilnius: Vilniaus įkūrimo legenda pasakoja, kad Gedimino sapno geležinis vilkas pranašavo būsimo miesto garsą.
 - susijęs iš Vilnius: Ivinskis Vilniaus kaip valstybės sostinės įkūrimą apibūdino kaip gražia legenda apipintą pasakojimą.
-- susijęs iš Vilnius: 1655 m. rusams užėmus Vilnių, mieste kilęs gaisras siautė 17 dienų.
 - susijęs iš Vilnius: Narbutas Gedimino sapno pasakojime rašė, kad Gediminas nakvojo Šventaragiu vadintame miške prie Vilnios ir Neries santakos.
 - susijęs iš [[objektai/zodynas/civilizacinė monada.md#claim-t-77791|civilizacinė monada]]: Lietuva apibūdinta kaip savarankiška civilizacinė monada, nes Gediminas ir Algirdas vadinosi karaliais be pripažinimo iš svetur.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -119,84 +110,6 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    2
-    Tas pats dviejų aukštų pastatas, la­
-    bai storo mūro sienomis, stovintis
-    šalimais katedros bokšto, iki 1832
-    metų priklausęs diecezijos konsisto­
-    rijai ir gyvenamas kunigų invalidų,
-    minėtais metais, kaip ir daugelis ki­
-    tų mūrinių pastatų, supančių kated­
-    ros aikštę, buvo nugriautas, kad bū­
-    tų atvira naujos tvirtovės nuokalnė.
-    3
-    Dabartinė katedros varpinė, anot
-    Lietuvos kronikininkų ir vietos žmo­
-    nių padavimų, buvęs tas pats bokš­
-    tas, iš kurio Lizdeika ir jo pirmtakai
-    iškilmingai pasirodydavę Vilniaus
-    pagonims paskelbti blogos ar geros
-    pranašystės. Tačiau nėra patikimų
-    tam įrodymu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Narbutas rašo, kad Lizdeika, gyvenęs Gedimino laikais, apie 1318 m. patarė įkurti Vilnių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Straips­
-    nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
-    buveinių vietos Lietuvoje. Jokiuose istorijos šaltiniuose neiš­
-    liko vardų šių garsių žmonių, kurių būta Lietuvoje, išskyrus
-    vienintelį Lizdeiką, gyvenusį Gedimino laikais, apie 1318 me­
-    tus patarusį įkurti Vilnių. Sako, kad jis paskutinis vyriausiasis
-    žynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkū­
-    no šventykla; tai įvyko praėjus 69 metams po minėtosios da­
-    tos, todėl turėjo būti jau labai senas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    304
-
-    ## Puslapis 304
-
-    tinai turi išaugti į didelį miestą, kadangi tą nuostabiai skati­
-    no ir vietos padėtis.
-    Lizdeika išaiškino sapną Gediminui po to, kai jis, nukovęs
-    didžiulį taurą ant aukščiausio kalno, stūksančio Antakalnio
-    link, -  išmanantys tėvynės istoriją dabar jį vadina Tauro kal­
-    nu -  nakvojo šventajame miške prie Vilnios ir Neries santa­
-    kos, vadintame Šventaragiu; jam prisisapnavo, kad matęs mil­
-    žinišką vilką, visą šarvuotą geležiniais šarvais, o jo viduje stau­
-    gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
-    kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
-    čiui -  kas nors panašaus prisisapnuotų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 - c-005
   santrauka: 'Strijkovskis, dėstydamas istoriją iki stabmeldystės žlugimo Lietuvoje, nuo lat mini vyriausiojo žynio pareigas ir paskutinį jų eilėje taria buvus Lizdeiką.'
@@ -221,17 +134,19 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 - id: c-170881
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 204"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 204."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuojau prašyta žynių, kurie netoliese gyveno, at­
-    skleisti paslaptį. Tuo metu Lizdeika buvo vyriausiasis
+    Tuo metu Lizdeika buvo vyriausiasis
     žynys, arba, tėvų kalba, Krivė Krivaitis. Jis, kitados
     dar kūdikis girioje erelio lizde arba, pasak kitų, lop­
     šyje, ant medžio pakabintame, paties Vytenio medžio­
     jant surastas, jo paliepimu dievų tarnybai išauklėtas ir
     iš mažens šventąsias tėvų paslaptis pažinęs, tuo metu
     buvo laikomas geriausiu slėpiningų ženklų aiškintoju.
+    Jis liepė valdovui nebūgštauti. Kas valdovui ir Lietu­
+    vos valstybei dievų lemta, tegu jis šitai laimingai ir
+    vykdąs: geležinis vilkas reiškiąs pilį ir miestą, kurį jis
+    šioje vietoje įkursiąs.
   citata_rodoma: "Tuojau prašyta žynių, kurie netoliese gyveno, at­\nskleisti paslaptį. Tuo metu Lizdeika buvo vyriausiasis\nžynys, arba, tėvų kalba, Krivė Krivaitis. Jis, kitados\ndar kūdikis girioje erelio lizde arba, pasak kitų, lop­\nšyje, ant medžio pakabintame, paties Vytenio medžio­\njant surastas, jo paliepimu dievų tarnybai išauklėtas ir\niš mažens šventąsias tėvų paslaptis pažinęs, tuo metu\nbuvo laikomas geriausiu slėpiningų ženklų aiškintoju."
   statusas: verified
   teiginio_tipas: faktas
@@ -275,8 +190,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 - id: c-171469
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 287"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Straips­
     nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
@@ -294,45 +208,21 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   pagrindzia:
     - t-188580
 
-- id: c-171470
+- id: c-177111
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    304
-
-    ## Puslapis 304
-
-    tinai turi išaugti į didelį miestą, kadangi tą nuostabiai skati­
-    no ir vietos padėtis.
-    Lizdeika išaiškino sapną Gediminui po to, kai jis, nukovęs
-    didžiulį taurą ant aukščiausio kalno, stūksančio Antakalnio
-    link, -  išmanantys tėvynės istoriją dabar jį vadina Tauro kal­
-    nu -  nakvojo šventajame miške prie Vilnios ir Neries santa­
-    kos, vadintame Šventaragiu; jam prisisapnavo, kad matęs mil­
-    žinišką vilką, visą šarvuotą geležiniais šarvais, o jo viduje stau­
-    gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
-    kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
-    čiui -  kas nors panašaus prisisapnuotų.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188581
-
-- id: c-177111
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 280"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 280."
-  citata_originali: |
-    Iš istorikų Dusburgietis pirmasis užsimena prūsus turėjus
-    vyriausiąjį žynį. Vėlesnieji kronikininkai nė kiek neabejoja šiuo
-    autoriaus teiginiu; jo paties žodžius pacitavome. Strijkovskis,
-    dėstydamas istoriją iki stabmeldystės žlugimo Lietuvoje, nuo­
-    lat mini vyriausiojo žynio pareigas ir paskutinį jų eilėje taria
-    buvus Lizdeiką.
+    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
+    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
+    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
+    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
+    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
+    rijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų
+    žynių vyriausiąjį žynį. Jo asmeninis autoritetas buvo labai di­
+    delis, jo sprendimai tapdavo įstatymais, pamokymai - tikėji­
+    mo tiesomis.
+  citata_rodoma: "Iš istorikų Dusburgietis pirmasis užsimena prūsus turėjus\nvyriausiąjį žynį. Vėlesnieji kronikininkai nė kiek neabejoja šiuo\nautoriaus teiginiu; jo paties žodžius pacitavome. Strijkovskis,\ndėstydamas istoriją iki stabmeldystės žlugimo Lietuvoje, nuo­\nlat mini vyriausiojo žynio pareigas ir paskutinį jų eilėje taria\nbuvus Lizdeiką."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

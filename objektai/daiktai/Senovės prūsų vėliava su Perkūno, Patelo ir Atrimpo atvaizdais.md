@@ -50,8 +50,8 @@ Nenurodyta
   teiginys: "Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus."
   pagrindžia:
     - c-172649
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -72,12 +72,17 @@ Nenurodyta
 - id: c-172649
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 254"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 254."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš
-    senovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios
-    vėliavos aprašymas yra straipsnyje apie herbus.
+    dės užrašytos ratu: lotyniškas užrašas, venedų runomis, pagal
+    mano aiškinimą:
+    IM M ^t:SYatPIXr!:qX:1 ^n^nnt^n
+    (Immolavit Sambūrius dux Kracho olitori). To dievaičio vardo
+    užraše raidė „o“yra įterpta į vidurį, o ne įpabaigą, vadinasi, yra
+    „Koruch“ vietoj „Kracho“, o vietoje raidės „ch“, kuri nebuvo ži­
+    noma venedų runų abėcėlėje, buvo naudojama dviguba „gg“
+    (11), kurios, sujungtos į vieną raidę, skaitoma kaip „ CH“.
+  citata_rodoma: "Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš\nsenovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios\nvėliavos aprašymas yra straipsnyje apie herbus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

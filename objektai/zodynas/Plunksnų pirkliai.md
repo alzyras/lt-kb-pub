@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Plunksnų pirkliai
 sukurta: '2026-07-12'
 variantai:
-  - plunksnų pirkliai
+  - 'plunksnų pirkliai'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -58,6 +58,7 @@ Terminas vartojamas kraičvežių kalboje ir vaidmeniniame vestuvių juoke.
   teiginys: "Kraičvežiai šiame šaltinyje juokais vadinasi plunksnų pirkliais."
   pagrindžia:
     - c-178030
+
 ## Citatos
 
 - id: c-178030

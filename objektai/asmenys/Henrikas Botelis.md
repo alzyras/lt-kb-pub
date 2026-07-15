@@ -9,15 +9,15 @@ datos:
   - '1238 m.'
 date_start: '1219'
 date_end: '1238'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karvedys
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -68,9 +68,8 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78407|Notangai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89169|Pagudėnai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78547|Varmiai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
-- susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-184631|Ordino brolis]]: Mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, vadinamų broliais.
+- susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-184631|Ordino brolis]]: Livonijos kariuomenės sutriuškinimo mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir 150 ordino riterių, vadintų broliais.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Prūsams pareikalavus, broliai davė įkaitu maršalą Henriką Botelį, kad nelaisvėje esantys broliai liktų gyvi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -89,42 +88,6 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   pagrindžia:
     - t-002
 
-- c-002
-  santrauka: 'Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ilgą laiką sėkmei
-    nekrypstant nei  į vieną, nei  į kitą pusę, galop broliai, viešpačiui leidžiant, pralaimėjo,
-    nes visa jų kariuomenės galia palūžo, kai pasileido bėgti prastuomenė; šiose kautynėse,
-    įvykusiose palaimintos Margaritos dieną (liepos 13 d.) Kuršo žemėje, lauke prie Durbės
-
-
-
-
-
-      345 D.— nobilis diclus Matto, Jer.— Matte (ТАР, p. 56).
-      346  T. y. Henriko Botelio.
-      347 1219 m. Danijos kariuomenė užėmė estiškosios Riavalos žemės centrą Lindanisę.
-    Nuo tada (neskaitant 1227—1238 m, kai jį buvo užėmęs Ordinas) Revelis (dab. Talinas)
-    buvo Danijos valdžioje (История Эстонской ССР, 1, с. 161, 174, 178, 218).
-      348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos
-    požiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais
-    pasekę ir estai (LRCh, eil. 5601—5643; LIS, 1, p. 49). Šiaip ar taip, kuršių veiksmai
-    vertinami kaip jų pagalba lietuviams (Ivinskis Z., Durbės.., p. 70—71; Lietuvių karas..,
-    p. 153).
-      349  Žr. D. III, 101.
-
-    upės350, žuvo brolis Burchardas, Livonijos magistras351, ir brolis Henrikas Botelis, Prūsijos
-    maršalas, su jais 150 brolių352, o dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų
-    skaičiaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -136,47 +99,24 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   citata_rodoma: ''
   statusas: verified
 
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Mūšyje žuvo Prūsijos maršalas Henrikas Botelis, Livonijos magistras ir šimtas penkiasdešimt ordino riterių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Taigi pasitrau-
-    d in a m i
-    ku ršin in k a is,
-    kę ir atsimetę nuo krikščio-
-    Tada, vienoje pusėje padaugėjus jėgų, kitoje — su­
-    mažėjus, prasidėjo
-    kova: tame mūšyje Livonijos
-    kariuomenė buvo žiauriai sutriuškinta. Žuvo tada
-    pats Livonijos magistras, Prūsijos maršalas Henrikas
-    Botelis ir šimtas penkiasdešimt ordino riterių, papras­
-    tai vadinamų broliais. O kiek žuvo paprastųjų karių,
-    neįmanoma nė suskaičiuoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 ## Citatos
 
 - id: c-107146
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 101-102"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101-102."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vengoževą, prie
-    Mamrų ežero (RSNG, 2, p. 581), bet čia — jau ne Notangos teritorija.
-
-    Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
-    Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
-    kurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi.
+    Vienas brolis štai šitaip mirė kankinio mirtimi: prūsai jį gyvą pririšo už
+    rankų prie medžio ir, išpjovę jam iš pilvo bambą, ant kurios laikosi žarnos, prikalė ją prie
+    medžio ir, smarkiai mušdami, privertė vaikščioti aplink medį, kol visos žarnos susivijo
+    apie kamieną ir jis atidavė dievui dvasią, neišsižadėdamas tikrojo tikėjimo. Vartyk
+    nevartęs visus šventųjų kankinių gyvenimo aprašus, niekur neužtiksi, kad kas būtų
+    šitaip nukankintas. Netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs visokių kankinimo
+    būdų, šitokio nesugalvojo. Iš tiesų šitai būta nepaprasto ir pasaulyje negirdėto būdo309.
   citata_rodoma: "581), bet čia — jau ne Notangos teritorija.\n\nKadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.\nJie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,\nkurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi."
   statusas: verified
   teiginio_tipas: faktas
@@ -188,8 +128,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 - id: c-107147
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 112-113"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112-113."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Ilgą laiką sėkmei
     nekrypstant nei  į vieną, nei  į kitą pusę, galop broliai, viešpačiui leidžiant, pralaimėjo,
@@ -225,8 +164,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 - id: c-168072
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 103"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 103."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Taigi pasitrau-
     d in a m i

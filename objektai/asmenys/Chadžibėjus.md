@@ -37,30 +37,6 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
   pagrindžia:
     - c-41306
 - susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186695|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Redakcinė pastaba mini tris su mūšiu sietus totorių vadų vardus, iš kurių iš Algirdo laikotarpio kituose šaltiniuose žinomas tik Kutlubugas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos kariuomenė buvo sudaryta
-    iš Lietuvos valdovo Algirdo ir jo brolio
-    Karijoto trijų sūnų - Karijotaičių vado-
-    vaujamų karių. Jie susirėmė su Juodosios
-    jūros pajūrio ir Krymo totorių teritori-
-    jos trijų vadų-kunigaikščių Chadžibėjaus,
-    Kutlugbugo, Dmitrijaus kariuomene.
-
-    Didžiausia tikimybė, kad Mėlynieji Van-
-    denys, tai Siniuchos upė Pietų Ukrainoje,
-    kairysis Pietinio Bugo intakas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41306

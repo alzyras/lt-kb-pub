@@ -41,28 +41,6 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
   teiginys: "1425 m. lenkų šlėkta pasirinko Jogailos sūnų Vladislovą būsimu valdovu specialiu Vytauto, jo prelatų, baronų ir riterių patarimu bei valia."
   pagrindžia:
     - c-90735
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1425 m. lenkų šlėkta pasirinko Jogailos sūnų Vladislovą būsimu valdovu specialiu Vytauto, jo prelatų, baronų ir riterių patarimu bei valia.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kadangi vie­
-    toj įpėdinystės teisės Lenkijoj gavo viršų elekcija, tai jos luomai,
-    norėdami palaikyti su Lietuva ryšius, paremtus laisvu Vytauto ir
-    lietuvių didikų sutikimu, pripažino jiems teisę dalyvauti elekcijoj,
-    neatsižiūrint į tai, ar eis reikalas apie dinastijos pakeitimą ar ne..
-    Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­
-    tį Vladislovą, Jogailos sūnų, kaip būsimą savo valdovą, karalių
-    „de speciali consilio et voluntate Vitoldi ipsiusque praelatorum,
-    baronum ac militum“^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

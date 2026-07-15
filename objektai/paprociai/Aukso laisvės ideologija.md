@@ -56,28 +56,6 @@ Nenurodyta
   teiginys: "Aukso laisvės ideologai netvarką laikė Respublikos saugumo sąlyga, nes manė, kad tokia valstybė niekam nepavojinga."
   pagrindžia:
     - c-67096
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Aukso laisvės ideologai netvarką laikė Respublikos saugumo sąlyga, nes manė, kad tokia valstybė niekam nepavojinga.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nie-
-    kas nesirūpino perorganizuoti valstybės. Laisvės ideologai matė
-    netvarką, tačiau _veto_ teisę laikė šventa: esą, tai visų bajoriškųjų
-    laisvių perlas, saugotinas, kaip akies lėlytė. Kiek vėliau įėjo
-    į madą posakis: „Respublika laikosi netvarka"
-    (t. y. netvarkos dėka): esą, laisva bajorų Respublika esanti
-    netvarkinga, užtat niekam ir nepavojinga, — todėl jos niekas
-    nepulsiąs; taigi bajorija galinti džiaugtis savo laisve ir niekuo
-    nesirūpinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

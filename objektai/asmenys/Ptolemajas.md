@@ -35,22 +35,6 @@ Jau Ptolemajas II a.
   teiginys: "Ptolemajas II a. žinojo galindus ir jotvingius, arba sūduvius."
   pagrindžia:
     - c-20625
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    I mūsų eros tūkstantmetis – baltų diferenciacijos laikas. Jau Ptolema-
-    jas II a. žinojo prūsų gentį galindus ir jotvingius arba sūduvius. Anks-
-    tyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus,
-    kuršius, žiemgalius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

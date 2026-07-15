@@ -66,26 +66,6 @@ Nenurodyta
   teiginys: "Šubravcų draugijos nariai leido humoristinį laikraštį Wiadomości brukowe, kuriame aktyviai bendradarbiavo ir M. Balinskis."
   pagrindžia:
     - c-55730
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Draugijos narių leidžiamas
-    humoristinis laikraštis Wiadomości brukowe (Grindinio žinios),
-    kuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a.
-    Anglijoje leidžiamo žurnalo Spectator tradicijas. Satyriniai kil­
-    mingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­
-    vos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­
-    lizmo išgarsino draugiją net už Lietuvos ribų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -107,5 +87,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54740
     - t-54739
+    - t-54740

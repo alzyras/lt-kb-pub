@@ -2,8 +2,8 @@
 tipas: zodyno_irasas
 pavadinimas: 'seimas'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,30 +26,37 @@ media_all_json: |-
 
 ## Santrauka
 
-Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovco kronikos pasakojime karalius Aleksandras Brastos seime nepagrįstai pyko ant didikų dėl Droždžai atiduotos Lydos. Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome.
+Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Gal vengdamas aiškaus atsakymo į kry­
+    žiuočių klausimą, gal norėdamas turėti laiko pasitarti,
+    373
+
+    ## Puslapis 372
+
+    karalius atsakė, kad jis viešpataująs valstybėje, kurio­
+    je svarbiais reikalais nieko negalįs nutarti be luomų
+    pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
+    Seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys­
+    kupą, pas kryžiuočius, įpareigodamas, negailint pastan­
+    gų, visokiais būdais skatinti magistrą draugiškai už­
+    baigti ginčą su Vytautu.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
 
 ## Teiginiai
 
-<a id="claim-t-185391"></a>
-- t-001
-  global_id: t-185391
-  teiginys: "Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą."
-  pagrindžia:
-    - c-168752
-
-<a id="claim-t-187527"></a>
-- t-002
-  global_id: t-187527
-  teiginys: "Bychovco kronikos pasakojime karalius Aleksandras Brastos seime nepagrįstai pyko ant didikų dėl Droždžai atiduotos Lydos."
-  pagrindžia:
-    - c-170477
-
-<a id="claim-t-187528"></a>
-- t-003
-  global_id: t-187528
-  teiginys: "Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome."
-  pagrindžia:
-    - c-170478
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77965|A. Smetona]]: 1927 m. balandžio 12 d. A. Smetona paleido III Seimą ir taip pašalino krikščionis demokratus iš valdžios.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75728|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. balandžio 12 d. Antanas Smetona prezidento aktu paleido III Seimą ir nustūmė krikščionis demokratus nuo valdžios.
 - susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75994|Mykolas Sleževičius]]: Mykolas Sleževičius laikėsi šūkio „Kova eina, ji eis iki Seimas bus sušauktas“.
@@ -68,9 +75,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš [[objektai/grupes/Ketverių metų seimas.md#claim-t-74187|Ketverių metų seimas]]: Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184506|Kryžiuočių ordinas]]: Seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius, kad šis skatintų magistrą draugiškai baigti ginčą su Vytautu.
 - susijęs iš [[objektai/grupes/LDK žemių seimas.md#claim-t-187781|LDK žemių seimas (seimas, XV a.)]]: 1492 m. liepos 18 d. Vilniuje visų LDK žemių seimas patvirtino Aleksandrą Lietuvos didžiuoju kunigaikščiu.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184533|Lenkai]]: Lenkų seimas susirinko Parčeve, o lietuvių seimas Breste; po ginčų nutarta susitikti Lomžoje.
 - susijęs iš [[objektai/grupes/Lenkijos seimas Piotrkove.md#claim-t-189520|Lenkijos seimas Piotrkove (seimas, XVI a.)]]: Narbutas rašė, kad 1567 m. Lenkijos seimas Piotrkove ilgai ir sėkmingai posėdžiavo, kai Žygimantas rengė abiejų tautų žygį.
-- susijęs iš [[objektai/grupes/Lenčicos seimas.md#claim-t-185452|Lenčicos seimas (seimas)]]: Lenčicos seimas buvo sušauktas karaliui atleidus kryžiuočių žygūną.
 - susijęs iš [[objektai/grupes/Liaudies seimas.md#claim-t-183149|Liaudies seimas (seimas)]]: Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.
 - susijęs iš [[objektai/grupes/Liaudies seimas.md#claim-t-183150|Liaudies seimas (seimas)]]: Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti.
 - susijęs iš [[objektai/grupes/Liaudies seimas.md#claim-t-19795|Liaudies seimas (seimas)]]: Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti.
@@ -94,7 +99,6 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-71725|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Po 1926 m. gruodžio 17 d. perversmo III Seimas gruodžio 19 d. nauju Lietuvos prezidentu išrinko tautininkų lyderį Antaną Smetoną.
 - susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186792|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Lenkijos seimas 1501 m. spalio 3 d. Petrakave preliminariai išrinko Aleksandrą Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.).md#claim-t-01571|Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)]]: 1918 m. kovo 13–14 d. Niujorke sušauktas Amerikos lietuvių seimas pareikalavo, kad JAV vyriausybė pripažintų nepriklausomą Lietuvos valstybę.
-- susijęs iš [[objektai/ivykiai/Badas Lietuvoje ir seimo perkėlimas į Brestą.md#claim-t-185692|Badas Lietuvoje ir seimo perkėlimas į Brestą (seimas)]]: Skėriams sunaikinus javus, Lietuvoje kilo maisto stoka, todėl lietuvių seimas buvo sušauktas Breste, o ne Vilniuje.
 - susijęs iš [[objektai/ivykiai/Didysis Vilniaus Seimas.md#claim-t-77881|Didysis Vilniaus Seimas]]: Gavus valdžios sutikimą, Didysis Vilniaus Seimas vyko Vilniaus Miesto salėje gruodžio 4–5 dienomis.
 - susijęs iš [[objektai/ivykiai/III Seimo paleidimas (1927 m. balandžio 12 d.).md#claim-t-20199|III Seimo paleidimas (1927 m. balandžio 12 d.)]]: 1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai nepaskelbti.
 - susijęs iš [[objektai/ivykiai/IV Seimo rinkimai (1936 m. vasara).md#claim-t-20205|IV Seimo rinkimai (1936 m. vasara)]]: 1936 m. rinkimuose kandidatus į Seimą galėjo siūlyti tautininkų kontroliuojamos savivaldybės, o ne visuomeninės organizacijos ar piliečių grupės.
@@ -123,10 +127,14 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš Trakai: Trakuose sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.
 - susijęs iš Trakai: Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.
 - susijęs iš Vilnius: Didysis Vilniaus Seimas vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis.
-- susijęs iš Vilnius: 1492 m. liepos 18 d. Vilniuje visų LDK žemių seimas patvirtino Aleksandrą Lietuvos valdovu.
 - susijęs iš Vitebskas: 1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
 - susijęs iš [[objektai/zodynas/delegacinis seimas.md#claim-t-42440|delegacinis seimas (seimas)]]: 1773–1775 m. delegacinis seimas Varšuvoje patvirtino 1772 m. Sankt Peterburge pasirašytas padalinimo sutartis.
 - susijęs iš [[objektai/zodynas/konvokaciniai seimai.md#claim-t-03052|konvokaciniai seimai]]: Konvokaciniai seimai būdavo šaukiami mirus karaliui, o juos šaukdavo Gniezno arkivyskupas, laikytas valstybės galva tarpuvaldžiu.
+- susijęs iš Soroka: Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200631|seimelis]]: Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200632|seimelis]]: Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200665|seimelis]]: Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200666|seimelis]]: Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75715|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona Lietuvos demokratiją vadino vaikams per dideliais batais, nes parlamentarizmo tradicija per šešerius metus neįsitvirtino.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75719|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1917 m. Lietuvių konferencijoje Vilniuje Antanas Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks Tarybos vidaus prieštaravimus.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75724|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1938 m. gegužės 12 d. prezidentas Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją.
@@ -137,7 +145,6 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75750|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona demokratiją Lietuvoje lygino su per dideliais batais vaikams, nes parlamentarizmo tradicija dar nebuvo įsitvirtinusi.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75766|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75781|Augustinas Voldemaras]]: Augustinas Voldemaras buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184729|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo.
 - susijęs iš [[objektai/asmenys/Jokūbas Jasinskis.md#claim-t-63710|Jokūbas Jasinskis]]: 1794 m. balandžio 16 d. Šiauliuose prasidėjus sukilimui Lietuvoje, jo vadu tapo Jokūbas Jasinskis.
 - susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-188549|Jonas Chodkevičius]]: Narbutas rašo, kad Jonas Chodkevičius ir Romanas Sanguška 1567 metais palaikė karo veiksmų su Rusija tęsimą.
 - susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101650|Jonas Jeronimaitis Chodkevičius]]: 1562 m. Vitebsko karo lauko seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
@@ -191,7 +198,6 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54448|Lietuvos krikštas Vilniuje (1387 m.)]]: Vilniaus gyventojai pagonys buvo pakrikštyti, o po apeigų jiems išdalyti balti lininiai marškiniai.
 - susijęs iš [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.).md#claim-t-23347|Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]: 1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi.
 - susijęs iš [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.).md#claim-t-23348|Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]: 1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą.
-- susijęs iš [[objektai/ivykiai/Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.).md#claim-t-185630|Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.)]]: Lapkričio mėnesį lenkų seimas susirinko Parčeve, lietuvių seimas Breste, o po ginčų nutarta susitikti Lomžoje.
 - susijęs iš [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.).md#claim-t-23351|Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]: 1922 m. spalio 1 d. Lietuvoje įvestas litas.
 - susijęs iš [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.).md#claim-t-23352|Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]: Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.
 - susijęs iš [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.).md#claim-t-26858|Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]: Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.
@@ -248,10 +254,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš Trakai: Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose.
 - susijęs iš Varšuva: Padalinimo sutartys pasirašytos 1772 m. Sankt Peterburge, o 1773-1775 m. jas patvirtino delegacinis seimas Varšuvoje.
 - susijęs iš Varšuva: 1830 m. lapkričio pabaigoje Varšuvoje pasikėsinus prieš caro brolį, kuris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukilimas.
-- susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
-- susijęs iš Vilnius: Vilniuje pakrikštyti pagonys gyventojai, užgesinta amžinoji ugnis ir pradėta statyti Šv. Stanislovo katedra.
 - susijęs iš Vilnius: 1915 m. rugsėjo 15 d. vokiečiai įžengė į Vilnių, o senoji Lenkijos ir Lietuvos valstybės teritorija atsidūrė Vokietijos ir Austrijos kariuomenių kontrolėje.
-- susijęs iš Vilnius: 1568 m. Gardino seimas suteikė privilegiją Vilniaus magistrato pareigūnams ir jų palikuonims būti pakeltiems į bajorų luomą.
 - susijęs iš Vilnius: Karalius Žygimantas po Piotrkovo seimo su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius.
 - susijęs iš Čikaga: Lietuvių katalikų seimas Čikagoje rugsėjį pritarė Lietuvos autonomijai.
 - susijęs iš [[objektai/zodynas/Valstybinis žemės fondas.md#claim-t-77807|Valstybinis žemės fondas]]: Į Valstybinį žemės fondą buvo paimta valstybinė žemė, kai kurių dvarų ir virš 80 ha turėjusių privačių ar bažnytinių savininkų žemė.
@@ -261,8 +264,8 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-183421|etnografinės ribos etnografinis principas]]: Konferencijos rezoliucija numatė nepriklausomą demokratinę Lietuvos valstybę etnografinėmis ribomis su ekonominėmis korektyvomis.
 - susijęs iš [[objektai/zodynas/litas.md#claim-t-183444|litas]]: Litas Lietuvoje įvestas 1922 m. spalio 1 d.; jo aukso turinys buvo 0,150462 g gryno aukso, o santykis su JAV doleriu buvo 10:1.
 - susijęs iš [[objektai/zodynas/litas.md#claim-t-22218|litas]]: Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.
-- susijęs iš [[objektai/zodynas/luomai.md#claim-t-185359|luomai]]: Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką.
-- susijęs iš [[objektai/zodynas/luomas.md#claim-t-184621|luomas]]: Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką.
+- susijęs iš [[objektai/zodynas/luomai.md#claim-t-185359|luomai]]: Kojelavičiaus pasakojime karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką kaip kitą politinę perspektyvą.
+- susijęs iš [[objektai/zodynas/luomas.md#claim-t-184621|luomas]]: Kojelavičiaus pasakojime karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką kaip kitą politinę perspektyvą.
 - susijęs iš [[objektai/zodynas/miesto magistrato pareigybės.md#claim-t-86486|miesto magistrato pareigybės]]: 1568 m. Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis tapti bajorais.
 - susijęs iš [[objektai/zodynas/rekrutų prievolė rekrutai.md#claim-t-104193|rekrutų prievolė rekrutai]]: 1831 m. pavasariop Žemaitijoje sukilimas prasidėjo spontaniškai dėl valdžios paskelbto rekrutų ėmimo.
 - susijęs iš [[objektai/zodynas/rekrutų prievolė.md#claim-t-75582|rekrutų prievolė]]: 1831 m. pavasariop Žemaitijoje sukilimas prasidėjo spontaniškai dėl valdžios paskelbto rekrutų ėmimo.
@@ -272,130 +275,5 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185333|žygūnas]]: Jedlnioje lenkų seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai neprasmuktų nė viena kryptimi.
 - susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195007|Šich Achmetas]]: Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.
 - susijęs iš Malburgas: 1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Gal vengdamas aiškaus atsakymo į kry­
-    žiuočių klausimą, gal norėdamas turėti laiko pasitarti,
-    373
-
-    ## Puslapis 372
-
-    karalius atsakė, kad jis viešpataująs valstybėje, kurio­
-    je svarbiais reikalais nieko negalįs nutarti be luomų
-    pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
-    Seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys­
-    kupą, pas kryžiuočius, įpareigodamas, negailint pastan­
-    gų, visokiais būdais skatinti magistrą draugiškai už­
-    baigti ginčą su Vytautu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Bychovco kronikos pasakojime karalius Aleksandras Brastos seime nepagrįstai pyko ant didikų dėl Droždžai atiduotos Lydos.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O po kunigaikščio Michailo mirties Lucką
-    davė raštininkui ponui Teodorui Januševičiui3 6 .
-    Tais pat metais karalius Aleksandras dalyvavo Bras­
-    tos seime3 7 , nepagrįstai pykdamas ant didikų, ir štai
-    dėl ko. Kunigaikščio Glinskio priprašytas, jis davė
-    Droždžai Lydą3 8 , priklausiusią Iljiničiui3 9 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir Maskvos
-    Didžioji Kunigaikštystė sunkiai pralaimėjo ir neapsa­
-    komai daug neteko; labai maža maskvėnų pargrįžo,
-    nesuskaičiuojama jų daugybė žuvo.
-    Paskui6 1  karalius Aleksandras paskyrė Lenkijos po­
-    nams seimą Radome rudenį, šventųjų Kozmo ir Dami­
-    jono dieną 6 5 . Ten dalyvavo ir Lietuvos didikai 6 6 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-## Citatos
-
-- id: c-168752
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Gal vengdamas aiškaus atsakymo į kry­
-    žiuočių klausimą, gal norėdamas turėti laiko pasitarti,
-    373
-
-    ## Puslapis 372
-
-    karalius atsakė, kad jis viešpataująs valstybėje, kurio­
-    je svarbiais reikalais nieko negalįs nutarti be luomų
-    pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
-    Seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys­
-    kupą, pas kryžiuočius, įpareigodamas, negailint pastan­
-    gų, visokiais būdais skatinti magistrą draugiškai už­
-    baigti ginčą su Vytautu.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185391
-
-- id: c-170477
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    O po kunigaikščio Michailo mirties Lucką
-    davė raštininkui ponui Teodorui Januševičiui3 6 .
-    Tais pat metais karalius Aleksandras dalyvavo Bras­
-    tos seime3 7 , nepagrįstai pykdamas ant didikų, ir štai
-    dėl ko. Kunigaikščio Glinskio priprašytas, jis davė
-    Droždžai Lydą3 8 , priklausiusią Iljiničiui3 9 .
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187527
-
-- id: c-170478
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Ir Maskvos
-    Didžioji Kunigaikštystė sunkiai pralaimėjo ir neapsa­
-    komai daug neteko; labai maža maskvėnų pargrįžo,
-    nesuskaičiuojama jų daugybė žuvo.
-    Paskui6 1  karalius Aleksandras paskyrė Lenkijos po­
-    nams seimą Radome rudenį, šventųjų Kozmo ir Dami­
-    jono dieną 6 5 . Ten dalyvavo ir Lietuvos didikai 6 6 .
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187528
+- susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
+## Teiginiai

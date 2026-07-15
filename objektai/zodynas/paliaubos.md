@@ -103,7 +103,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179431|Livonijos ordinas]]: 1380 m. Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.).md#claim-t-35833|Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]: 1382 m. liepos 6 d. Jogaila su Vokiečių ordino magistru sudarė puolimo sutartį prieš Kęstutį ir jo sūnus.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.).md#claim-t-35834|Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]: 1382 m. sutartis rodė, kad Jogaila užmezgė dar artimesnius santykius su Vokiečių ordinu.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.).md#claim-t-185600|Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)]]: Kryžiuočiai su Prūsijos maršalu Henriku fon Plocke tankmėje buvo sunaikinti arba pateko į nelaisvę.
 - susijęs iš [[objektai/ivykiai/Rygos pirklių prekybos teisė Lietuvoje (1253 m.).md#claim-t-97038|Rygos pirklių prekybos teisė Lietuvoje (1253 m.)]]: 1253 m., Mindaugui susitaikius su Livonijos ordinu, rygiečiai išsirūpino prekybos teisę Lietuvoje.
 - susijęs iš [[objektai/ivykiai/Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.).md#claim-t-62497|Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)]]: 1246 m. buvo sudarytos paliaubos tarp Ordino ir Sventopelko.
 - susijęs iš [[objektai/ivykiai/Veliuonos susitikimas dėl taikos ir karo su kryžiuočiais atsinaujinimas (1418 m.).md#claim-t-185782|Veliuonos susitikimas dėl taikos ir karo su kryžiuočiais atsinaujinimas (1418 m.)]]: 1418 m. Veliuonos susitikimas neatnešė taikos, nes kryžiuočiai atmetė siūlomas sąlygas ir reikalavo visos Žemaitijos.
@@ -116,15 +115,14 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - susijęs iš Gardinas: Ordino magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikštijos sričių, tarp jų Gardino.
 - susijęs iš Kamiencas: Kamiencas buvo minimas tarp krikščioniškų Trakų kunigaikštijos sričių, kurių magistrai pasižadėjo nepulti.
 - susijęs iš Kamienecas: Kamienecas buvo minimas tarp krikščioniškų Trakų kunigaikštijos sričių, kurių magistrai pasižadėjo nepulti.
-- susijęs iš Lietuva: Lietuvos delegacija pareiškė nepripažįstanti Zigmanto didžiuoju kunigaikščiu, nes jis buvo išrinktas be lietuvių.
-- susijęs iš Lietuva: Pavasario pradžioje kariuomenės buvo išvestos į Lietuvą ir pirmiausia puolė Kauną.
+- susijęs iš Lietuva: Pavasario pradžioje magistras išvedė kariuomenes į Lietuvą, o pirmasis jų puolimo taikinys buvo Kaunas.
+- susijęs iš Lietuva: Narbutas rašė, kad alanai, senieji kai kurių plačiosios Lietuvos sričių gyventojai, būrė iš karklo šakų.
 - susijęs iš Livonija: Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas.
 - susijęs iš Livonija: 1380 m. Jogailos aplinkoje buvo sudarytos paliaubos su Livonijos magistru Rygoje, apeinant Kęstutį ir Žemaitijos kunigaikštystę.
 - susijęs iš Livonija: Rygoje buvo sudarytos paliaubos su Livonijos magistru, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę.
 - susijęs iš Mielnikas: 1379 m. Ordino magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikštijos sričių, tarp jų ir Mielniko.
 - susijęs iš Polockas: Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Kęstučiui palankaus Andriaus Algirdaičio, kilo atviras susirėmimas.
 - susijęs iš Polockas: Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, kilo atviras susirėmimas.
-- susijęs iš Veliuona: Veliuonoje abi šalys turėjo tartis, ar pratęsti sudarytą susitarimą, ar sudaryti amžiną taiką.
 - susijęs iš Vilnius: Maskvos pasiuntinybė pareikalavo, kad po Lietuvą išmėtyti maskvėnų belaisviai būtų suvaryti į Vilnių ir geriau laikomi.
 - susijęs iš Žemaitija: Derybose dėl sienų Vytautas reikalavo Žemaitijai plačių sienų, tačiau Ordinas su tuo nesutiko.
 - susijęs iš Žemaitija: 1380 m. Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę.
@@ -132,117 +130,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - susijęs iš Žemaitija: 1380 m. sudarytos paliaubos su Livonijos magistru Rygoje aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę.
 - susijęs iš Žemaitija: Trijuose suvažiavimuose dėl sienų Vytautas reikalavo plačių Žemaitijos ribų, bet Ordinas su tuo nesutiko.
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86454|Arkikomtūras]]: Vaidila 1380 m. Prūsijoje paruošė dirvą Jogailos slaptam sandėriui su arkikomtūru.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Spalio 6 d. prasidėjo paliaubos, per kurias lenkai slapta pergrupavo ir papildė savo pajėgas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tačiau lenkų puolimas taip pat sustoja.
-    Spalio 6 d. prasideda paliaubos.
-
-    Lenkai per derybų laiką slapta pergru-
-    pavo savo pajėgas, gausiai jas papildė ir
-    pasirengė pulti Lietuvą ties Seinais ir Kap-
-    čiamiesčiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Lenkų atstovas pasakė, kad lenkai naktį gavo telefonogramą apie karo paliaubas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas.
-    Kpt. Ignatavičius nurodė, kad Lietuvos kariuomenė irgi gavo tokią pat telefonogramą. [...]
-
-    Tada pašnekesys užsimezgė dėl anos dienos mūšio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ordinas nesiskubino į Žemaičius, bet pirmučiausia puolė
-    Lenkiją (1409 m.). Iš Lenkijos jo kariuomenė buvo išvyta, ir ne-
-    trukus buvo padarytos vienerių metų paliaubos. Paliaubų metu
-    susitarta pavesti ginčą išspręsti imperatoriui Vaclovui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tada ne metas buvo pyktis su Lenkija dėl
-    tuščio karaliaus titulo, tad Vytautas atmetė Zigmanto pasiūly-
-    mą. Nuostolis dėl pairusių derybų buvo nedidelis: sąjunga su
-    savo tikslų siekiančiu Zigmantu negalėjo būti naudinga Lietuvai.
-    Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su
-    livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
-    džiame Tanenbergo mūšyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Ivanas atsakė Vasilijui Zaborovskiui, kad paliaubos nedraudžia jam statyti pilių prie Usviatų ir Ūlos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    P rie U sviatų ir
-    D auguvos b ei Ū los san tak o je p astatę įtvirtinim us, jie
-    plėšė kaim ynin es žem es, o k a rtą  b an d ė užgrobti V oro-
-    n ečo  pilį, tiesa, nesėkm ingai. V asiliju i Z aborovskiui, k u ­
-    ris k araliau s v a rd u  n u sisk u n d ė dėl d arom ų skriaudų,
-    Iv an as atsakė, k ad  U sviatai bei Ū la jo rankose, k ad  čia
-    staty ti pilis jam  v isai n ed rau d žia paliaubos, o V orone-
-    čą k araliau s žm onės p astatė p aliau b ų  m etu, ir dėl to
-    k ariai k etin ę jį užim ti. N eg alėd am as rasti tiesos nei p er
-    laiškus, n ei p e r pasiuntinius, k araliu s p arag in o  gretim ų
-    pilių seniūnus p u ld in ėti m ask v ėn ų  žem es.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Jau derybų metu lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų buvę rusų bolševikų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Želigovskio smurtas.** Jau derybų metu lenkų karo jėgos,
-    nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų
-    buvę rusų bolševikų. Lenkų vyriausybė apsimetė nieko apie
-    tai nežinanti ir siūlė toliau tęsti derybas Varėnoj, nepabaigtiems
-    klausimams išspręsti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 ## Citatos
 
 - id: c-44201
@@ -320,20 +207,19 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - id: c-167993
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 734"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 734."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     P rie U sviatų ir
     D auguvos b ei Ū los san tak o je p astatę įtvirtinim us, jie
-    plėšė kaim ynin es žem es, o k a rtą  b an d ė užgrobti V oro-
-    n ečo  pilį, tiesa, nesėkm ingai. V asiliju i Z aborovskiui, k u ­
-    ris k araliau s v a rd u  n u sisk u n d ė dėl d arom ų skriaudų,
-    Iv an as atsakė, k ad  U sviatai bei Ū la jo rankose, k ad  čia
-    staty ti pilis jam  v isai n ed rau d žia paliaubos, o V orone-
-    čą k araliau s žm onės p astatė p aliau b ų  m etu, ir dėl to
+    plėšė kaim ynin es žem es, o k a rtą b an d ė užgrobti V oro-
+    n ečo pilį, tiesa, nesėkm ingai. V asiliju i Z aborovskiui, k u ­
+    ris k araliau s v a rd u n u sisk u n d ė dėl d arom ų skriaudų,
+    Iv an as atsakė, k ad U sviatai bei Ū la jo rankose, k ad čia
+    staty ti pilis jam v isai n ed rau d žia paliaubos, o V orone-
+    čą k araliau s žm onės p astatė p aliau b ų m etu, ir dėl to
     k ariai k etin ę jį užim ti. N eg alėd am as rasti tiesos nei p er
-    laiškus, n ei p e r pasiuntinius, k araliu s p arag in o  gretim ų
-    pilių seniūnus p u ld in ėti m ask v ėn ų  žem es.
+    laiškus, n ei p e r pasiuntinius, k araliu s p arag in o gretim ų
+    pilių seniūnus p u ld in ėti m ask v ėn ų žem es.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

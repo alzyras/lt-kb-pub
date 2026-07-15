@@ -35,8 +35,8 @@ Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų v
   teiginys: "Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų valdovą ir nepermaldaujamą mirusių nusikaltėlių vėlių keršytoją."
   pagrindžia:
     - c-172061
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų valdovą ir nepermaldaujamą mirusių nusikaltėlių vėlių keršytoją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -62,17 +62,21 @@ Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų v
 - id: c-172061
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 105"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 105."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Juos laukinių žmonių rankos nužudžiusios kaip juodus
-    gyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­
-    ta atnašauti audrų dievui.
-    Poklius (Poklus)
-    Požemio dievas, numirėlių neštuvų valdovas, varginantis
-    mirusių nusikaltėlių vėles pragariškomis kančiomis, nepermal­
-    daujamas keršytojas. Būta įvairių jo vardų: Pokolus, Pokole,
-    Pikol, Pikole, Pragartis -  nuo žodžio Pragaras, pekla.
+    Šis apreikšdavo dievų valią,
+    išaiškindavo, ko jie trokšta. Kadangi visuomet būtinai turėda­
+    vo būti aukojamas žmonių kraujas, todėl žynys įvardindavo
+    žmogų, kurį reikėdavo atnašauti kaip auką. Taigi šeimininkai
+    su namiškiais ir giminaičiais negalėdavo nurimti tol, kol nenu-
+    žudydavo nurodytos aukos ir jos galvos nepadėdavo prie Po-
+    kliaus stabo kojų.
+    Tačiau vėlesniais laikais tas žynių piktnaudžiavimas, ma-
+    lyt, nebegaliojo, nes reikalas baigdavosi dosniu užmokesčiu
+    žyniui, kuris pats save sužeisdavo ir išperkamąją auką atiduo­
+    davo savo krauju, taip pat būdavo paaukojama kokio nors gy­
+    vulio galva.
+  citata_rodoma: "Juos laukinių žmonių rankos nužudžiusios kaip juodus\ngyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­\nta atnašauti audrų dievui.\nPoklius (Poklus)\nPožemio dievas, numirėlių neštuvų valdovas, varginantis\nmirusių nusikaltėlių vėles pragariškomis kančiomis, nepermal­\ndaujamas keršytojas. Būta įvairių jo vardų: Pokolus, Pokole,\nPikol, Pikole, Pragartis -  nuo žodžio Pragaras, pekla."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

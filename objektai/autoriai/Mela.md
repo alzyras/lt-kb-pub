@@ -34,39 +34,13 @@ Narbuto svarstymu, Mela galėjo nesilankyti prie Baltijos, bet apie jos pakrant�
   teiginys: "Narbuto svarstymu, Mela galėjo nesilankyti prie Baltijos, bet apie jos pakrantės salas remtis gerais senovės šaltiniais."
   pagrindžia:
     - c-174535
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbuto svarstymu, Mela galėjo nesilankyti prie Baltijos, bet apie jos pakrantės salas remtis gerais senovės šaltiniais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip jūros plotas vis didėjo, ir
-    galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra
-    didėjo. Tad tie, kurie pastebėjo fizinių įvykių, lėmusių
-    žemių prie Baltijos jūros dingimą, sakė tikrą tiesą, ir
-    tie, kurie, kaip Melą, teigė, jog Baltijos jūra užgriozta
-    pakrantės salų, kurios vieną sykį panašios į sausumą, o
-    kitą — į archipelagą, sakė taip pat ne mažiau tiesos. Tad
-    kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal­
-    būt nesilankė prie Baltijos, neturėjo tikro supratimo apie
-    Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės
-    šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su­
-    vokė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174535
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 373"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra

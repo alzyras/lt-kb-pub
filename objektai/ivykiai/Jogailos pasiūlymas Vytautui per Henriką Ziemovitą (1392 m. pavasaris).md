@@ -57,25 +57,6 @@ Nenurodyta
   teiginys: "Ieškodamas taikos su Vytautu, Jogaila veikė drauge su Skirgaila, kuris buvo didelis Kęstutaičio priešas."
   pagrindžia:
     - c-33394
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Per jauną Mozūrijos kuni­
-    gaikštį, Płocko nominatą Henriką Ziemovitą Vytautui ir buvo
-    1392 m. pavasarį Jogailos vardu pasiūlyta ne mažiau negu jis
-    tikėjosi. Ieškodamas taikos su sau pavojingu Vytautu, karalius
-    veikė drauge su didžiuoju Kęstutaičio priešu — Skirgaila^21.
-    Vytautni buvo naudingiau tapti Karūnos ir pusbrolio, o ne
-    ordino vasalu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

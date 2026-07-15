@@ -42,35 +42,6 @@ Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejyk
   teiginys: "1579 m. rengiantis žygiui į Livoniją, rinktinės kariuomenės būriai Vilniaus gatvėmis traukė į stovyklą Svyre."
   pagrindžia:
     - c-82220
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1579 m. rengiantis žygiui į Livoniją, rinktinės kariuomenės būriai Vilniaus gatvėmis traukė į stovyklą Svyre.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Smig-
-    288
-
-    ## Puslapis 305
-
-    IV KNYGA
-    jo žmonai palikta išimtinė privilegija supirkinėti stiklą, o
-    po jų mirties palikuonims skirta teisė atiteko miestui56.
-    Pirmasis Stepono Batoro atvykimas į Vilnių 1579 metų
-    pavasarį buvo įsimintinas miestui. Kuo rimčiausiai rengian­
-    tis žygiui į Livoniją, kai Vilniaus ginklų liejykla beveik ka­
-    raliaus akyse liejo grėsmingus pabūklus pagal geriausius
-    pavyzdžius, kai skaitlingi rinktinės kariuomenės būriai Vil­
-    niaus gatvėmis traukė į stovyklą Svyre, šis didysis karalius,
-    lecki Loik i Statysta [pasaulietis ir
-    valstybės veikėjas], gim.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

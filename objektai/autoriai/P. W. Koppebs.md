@@ -44,23 +44,6 @@ Koppebs.
   teiginys: "P. W. Koppebsas žurnale „Soter“ paskelbė darbą „Indoeuropiečių religijos kultūriniai istoriniai santykiai“."
   pagrindžia:
     - c-33097
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Juan Lasicki’s Samogitian Gods,_ Studi Bal-
-    tici, IX, 1952, 65-106 p. (kritiškas išaiškinimas «dievais » laikytų žo­
-    džių). — Koppebs. P. W. : _Indoeuropiečių religijos kultūriniai istoriniai
-    santykiai,_ Soter, t. 6, 1929, 113-117 p. ; t. 7, 1930, 19-29 p. — Kroll-
-    mann, Chr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

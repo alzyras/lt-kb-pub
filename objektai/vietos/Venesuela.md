@@ -48,25 +48,6 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
 - susijęs iš Argentina: Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai emigrantai.
 - susijęs iš Urugvajus: Urugvajus buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai.
 - susijęs iš [[objektai/paprociai/Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus.md#claim-t-77962|Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus]]: Draugija užsienio lietuviams remti buvo sukurta padėti emigrantams ir palaikyti jų ryšius su tėvyne.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Neprasigy-
-    venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
-    Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Per 20 metų iš
-    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
-    vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
-    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24549

@@ -57,43 +57,20 @@ Nenurodyta
     - c-60329
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172970|Vygandas Marburgietis]]: Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172971|Vygandas Marburgietis]]: Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sventopelkas pabėgo nuleidęs aukštą pakeliamą tiltą, kuriuo buvo galima patekti į pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
-    plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
-    traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies. Sventopelkas,
-    matydamas, kad brolių laivai jau artėja prie kranto, pabėgo nuleidęs aukštą pakeliamą
-    tiltą, kuriuo galima patekti  į pilį. Vėliau, atsigrįžęs ir pastebėjęs, kad raitieji broliai su
-    savo kariuomene, atplaukusia pasroviui iš Kulmo, negali prie jų prieiti, nes juos skyrė
-    gili upė286, atgavo drąsą  ir sugrįžo su savaisiais atgal, o matydamas, jog magistras
-    rengiasi pulti pilį, paskubomis atstatė tiltą ir pasiuntė 300 vyrų ginti pilies.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60329
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
     plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
     traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies. Sventopelkas,
     matydamas, kad brolių laivai jau artėja prie kranto, pabėgo nuleidęs aukštą pakeliamą
-    tiltą, kuriuo galima patekti  į pilį. Vėliau, atsigrįžęs ir pastebėjęs, kad raitieji broliai su
+    tiltą, kuriuo galima patekti į pilį. Vėliau, atsigrįžęs ir pastebėjęs, kad raitieji broliai su
     savo kariuomene, atplaukusia pasroviui iš Kulmo, negali prie jų prieiti, nes juos skyrė
-    gili upė286, atgavo drąsą  ir sugrįžo su savaisiais atgal, o matydamas, jog magistras
+    gili upė286, atgavo drąsą ir sugrįžo su savaisiais atgal, o matydamas, jog magistras
     rengiasi pulti pilį, paskubomis atstatė tiltą ir pasiuntė 300 vyrų ginti pilies.
   statusas: verified
   teiginio_tipas: faktas

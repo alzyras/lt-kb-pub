@@ -42,7 +42,6 @@ Narbutas rašo, kad Inachas, kaip ir Kadmas, pas graikus įvedė jau susiklosči
 - susijęs iš Kreta: Narbutas slaptų apeigų įvedimą Kretoje priskyrė Minui, o persų, graikų ir trakų tradicijose minėjo kitus jų įvedėjus.
 - susijęs iš Trakija: Zoroastras pas persus, Kadmas ir Inachas pas grai kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu sias slaptas apeigas.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas rašo, kad Inachas, kaip ir Kadmas, pas graikus įvedė jau susiklosčiusias slaptas apeigas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -66,15 +65,19 @@ Narbutas rašo, kad Inachas, kaip ir Kadmas, pas graikus įvedė jau susiklosči
 - id: c-173041
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 195"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 195."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
-    tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,
-    kad jos atsirado senų senovėje. Egiptiečiai visiškai nesivadina
-    jų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­
-    kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­
-    sias slaptas apeigas.
+    Būdavo dėstomas rinktinių fi­
+    losofų moralės mokslas, dievybė buvo vaizduojama subtili, ne­
+    materiali, nepriekaištinga, gyva, tobuliausia. Visuomet naktį,
+    tomis valandomis, kai fantazija pasiekia aukščiausią lygį, kai
+    tyla ir tamsa pažadina didžiausiems apmąstymams, visokie įtai­
+    symai, ugnys, šešėliai, visokiausios sąmonės apgaulės pagyvin­
+    davo tas šventas iškilmes.
+    Lietuviai turėjo savo slaptas apeigas, kurias joms pasišven-
+    tusieji ne kiekvienam atskleisdavo, todėl išsamesnės žinios apie
+    jas dingo kartu su jų netektimi.
+  citata_rodoma: "Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri\ntauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,\nkad jos atsirado senų senovėje. Egiptiečiai visiškai nesivadina\njų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­\nkus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­\nsias slaptas apeigas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

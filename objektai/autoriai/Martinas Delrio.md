@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnimi priskyrė piromantijai.
+Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnimi priskyrė piromantijai. Martinas Delrio smogia strėle į vieną kurį kalną.
 
 ## Teiginiai
 
@@ -35,8 +35,15 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
   teiginys: "Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnimi priskyrė piromantijai."
   pagrindžia:
     - c-173253
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197322"></a>
+- t-002
+  global_id: t-197322
+  teiginys: "Martinas Delrio smogia strėle į vieną kurį kalną."
+  pagrindžia:
+    - c-179129
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnimi priskyrė piromantijai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -69,22 +76,40 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Strijkovskis aiškiai
-    tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės
-    romėnai, kurie taip krikštydavosi per Palilėjų šventes deivės
-    Palės garbei.
-    Būrimus, darytus su ugnimi, uždegta šv. Jono Krikštytojo
-    šventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-
-    344
-
-    ## Puslapis 344
-
-    rijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­
-    romantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­
-    je pusėje, praktikuodavo dar kitą piromantijos rūšį.
+    Si
+    maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­
+    šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode­
+    rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
+    gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
+    ne. muskis. und man'. Dėl šios maldelės Lasickis pateikia anek­
+    dotišką žinią, kaip kaimietis, dangui grasinant audra arba liū­
+    timi, nusiėmęs kepurę, bėgiodavo po lauką, užsidėjęs ant pe­
+    čių lašinių paltį, ir šitaip maldėsi Perkūnui, bet, debesims išsi­
+    sklaidžius, lašinius pats suvalgydavo.
+  citata_rodoma: "Strijkovskis aiškiai\ntvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės\nromėnai, kurie taip krikštydavosi per Palilėjų šventes deivės\nPalės garbei.\nBūrimus, darytus su ugnimi, uždegta šv. Jono Krikštytojo\nšventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-\n344\n\n## Puslapis 344\n\nrijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­\nromantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­\nje pusėje, praktikuodavo dar kitą piromantijos rūšį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190370
+
+- id: c-179129
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Šia tema Vergilijus
+    taip aiškina: „Dažnai užeina audra su nepaprasta liūtimi, ūž­
+    dami krinta žemyn baisūs lietūs, kurie užlieja ir niekais paver­
+    čia žemdirbio triūsą. O pats Jupiteris viduty tamsios nakties
+    galinga dešine svaido žaibus, nuo trenksmo net žemė dreba,
+    gyvuliai bėga, žmonių širdis persmelkia nerimas, o jis smogia
+    strėle į vieną kurį kalną. Padūksta vėjai, vis stiprėja liūtis, gū­
+    džiai ošia miškas ir suūžia jūros pakrantės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197322

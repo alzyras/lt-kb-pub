@@ -7,15 +7,15 @@ datos:
   - '1984 m.'
 date_start: '1984'
 date_end: ''
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - istorikas
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,8 +43,8 @@ Dusburgietis teigia, kad wiliński K.
   teiginys: "K. Wilińskis 1984 m. Lodzėje paskelbė darbą apie X–XIII a. lenkų ir prūsų kovas."
   pagrindžia:
     - c-61450
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'K. Wilińskis 1984 m. Lodzėje paskelbė darbą apie X–XIII a. lenkų ir prūsų kovas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -64,11 +64,25 @@ Dusburgietis teigia, kad wiliński K.
 - id: c-61450
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 278"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 278."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Wiliński K. Walki polsko-pruskie w X—XIII w.—Acta universitatis Lodziensis: Folia
-    historica, Lódz, 1984.
+    Varmės vysk. valdytojas
+    Jozuė
+    Jucevičius L. A.
+    Jučas M.
+    Judas
+    Judas Makabėjus
+    Juodutis (D.— Jodute)
+    Jurginis J. (Юргинис Ю.)
+    Jurgis šv.
+    Justas šv.
+    Justinianas
+    Kabelka J.
+    Kaltis (Colte, Kolte)
+    Kalvaitis V. (Kalwaitis W.)
+    Kaminskis A. (Kamiński)
+    Kandeimas (D. — Candeym, Jer.
+  citata_rodoma: "Wiliński K. Walki polsko-pruskie w X—XIII w.—Acta universitatis Lodziensis: Folia\nhistorica, Lódz, 1984."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

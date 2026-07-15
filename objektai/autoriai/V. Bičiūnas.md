@@ -51,41 +51,6 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
   teiginys: "V. Bičiūnas parengė Vinco Krėvės misterijos „Likimo keliais“ pastabas ir komentarus."
   pagrindžia:
     - c-36080
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Labai reikšmingą priedą prie „Likimo kelių” sudaro V. Bičiūno
-    pastabos ir komentarai. Be jų daugeliui nebūtų aiškios nei paties au­
-    toriaus intencijos, nei tikslas bei veikalo idėja Komentarai daro vei­
-    kalą suprantamą net ir mažiau išsilavinusiam skaitytojui.
-    („Karys” Nr. 22, 1930 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    8. Vinco Krėvės Raštai VIII t. Misterijos „LIKIMO KELIAIS” II da­
-    lis, su priedu — V. Bičiūno tos misterijos pastabos ir komentarai. Abiejų
-    knygų kaina Lt. 8, —
-    „Likimo kelių” turinį sudaro savotiškai pasakiškas pasakoji­
-    mas apie Vincą Višvilį — prastą kaimo bernaitį piemenėli, kuris pri­
-    siklausęs motinos pasakų apie karalių Žvaigždikį ir karalienę Panikę,
-    ryžtasi prikelti iš miego Žvaigždikį, atseit, pačią Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

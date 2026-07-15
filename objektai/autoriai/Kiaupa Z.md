@@ -39,21 +39,6 @@ Kiaupa Z., Kiaupienė J., Kuncevičius A.
   teiginys: "Z. Kiaupa kartu su J. Kiaupiene ir A. Kuncevičiumi parašė leidinį „The history of Lithuania before 1795“."
   pagrindžia:
     - c-75388
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Z. Kiaupa kartu su J. Kiaupiene ir A. Kuncevičiumi parašė leidinį „The history of Lithuania before 1795“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kiaupa Z., Kiaupienė J., Kuncevičius A. The history of Lithuania before
-    1795 / [translated by Irena Zujienė ... [et al.]. Vilnius, 2000.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

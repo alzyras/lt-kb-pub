@@ -52,34 +52,13 @@ Nenurodyta
   teiginys: "Prūsų kronikose minima, kad 1303 metais Prūsijoje įvyko žemės drebėjimas."
   pagrindžia:
     - c-173953
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prūsų kronikose minima, kad 1303 metais Prūsijoje įvyko žemės drebėjimas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Be to, šios pakrantės neišvengė vulkaninių ka­
-    tastrofų, kurių ryšį su staigiais atmosferos sujudimais
-    jau įrodė mokslininkai. Iš prūsų kronikų žinoma, kad
-    1303 metais įvyko žemės drebėjimas2. Dėl Baltijos jūros
-    lygio kritimo, galbūt net keliais sieksniais3, formuojantis
-    žemynams, kuriuos skalauja vandenys, žemės būklė labai
-    pakito.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173953
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 48"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 48."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, šios pakrantės neišvengė vulkaninių ka­
     tastrofų, kurių ryšį su staigiais atmosferos sujudimais

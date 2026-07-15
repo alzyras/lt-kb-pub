@@ -74,49 +74,6 @@ Nenurodyta
   teiginys: "S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga."
   pagrindžia:
     - c-73103
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl 1934 m. pradėti megzti neoficialūs
-    Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras
-    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
-    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
-    strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
-
-    L I E T U V O S  I S T O R I J A
-    178
-    vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-
-- c-002
-  santrauka: '1935 m. balandį Stasys Lozoraitis įteikė prezidentui Antanui Smetonai slaptą memorandumą apie Klaipėdos ir Vilniaus padėtį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1935 m. balandį
-    S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuria-
-    me išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus,
-    mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Nega-
-    lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-
-    žinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje
-    S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
-    bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
-    J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -140,8 +97,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75264
     - t-75262
+    - t-75264
 
 - id: c-73105
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

@@ -7,13 +7,13 @@ datos:
   - '1780 m.'
 date_start: '1780'
 date_end: ''
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karinė-praktika
   - paprotys
-amziai:
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -63,8 +63,8 @@ Nenurodyta
   teiginys: "Lietuviškai šis žo dis paraidžiui reiškia varpą, perkeltine prasme - žadinimą."
   pagrindžia:
     - c-177036
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Gumbinės (Gumbin) miesto pavadinimą kildino iš tokio varpo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -83,40 +83,23 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Lietuviškai šis žo dis paraidžiui reiškia varpą, perkeltine prasme - žadinimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuviškai šis žo­
-    dis paraidžiui reiškia varpą, perkeltine prasme -  žadinimą.
-    Padavimai išsaugojo paprastų žmonių atminimą, kad lie­
-    tuvių garduose, arba pilyse, vadintose Tweras, būta varpų ka­
-    riams prikelti, ženklui sargybiniams paduoti, taip pat pavojui
-    paskelbti. 1780 metais* tokio varpo gabalą radau sename ap­
-    kase, arba pilies pylime, prie Gorodiščės kaimo, ties Rodū­
-    nios miesteliu, tikroje lietuviškoje žemėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172696
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 161"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Gumbinės (Gumbin) miestas nuo
-    tokio varpo gavęs pavadinimą.
-    Kronikininkai taip pat mano, kad dievui Varpui būdavo
-    aukojami gaidžiai, kaip budrumo simboliai.
-    Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,
-    skirtų tam tikroms religinėms apeigoms.
+    Tik pastebime iš žmonių pasakojimų, kad kalbama apie tam
+    tikrus akmenis, gulinčius prie kelio. Toks akmuo vadinosi Ak­
+    muo užukiejkimo Kieto Dewo (Kelio dievo užkeikimo akmuo);
+    tiksliausiai išvertus - akmuo, paskirtas kelių dievui. Niekas
+    neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
+    tam tikros mitinės formulės, tai yra maldelės, matyt, iš bai­
+    mės, kad neatsitiktų kas blogo: dažniausiai manyta, kad ak­
+    muo gali pasitraukti iš po sėdinčio, todėl galima smarkiai už­
+    sigauti.
+  citata_rodoma: "Gumbinės (Gumbin) miestas nuo\ntokio varpo gavęs pavadinimą.\nKronikininkai taip pat mano, kad dievui Varpui būdavo\naukojami gaidžiai, kaip budrumo simboliai.\nSenovės egiptiečiai, persai, graikai, romėnai turėjo varpų,\nskirtų tam tikroms religinėms apeigoms."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -127,11 +110,10 @@ Nenurodyta
 - id: c-177036
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 161"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuviškai šis žo­
-    dis paraidžiui reiškia varpą, perkeltine prasme -  žadinimą.
+    dis paraidžiui reiškia varpą, perkeltine prasme - žadinimą.
     Padavimai išsaugojo paprastų žmonių atminimą, kad lie­
     tuvių garduose, arba pilyse, vadintose Tweras, būta varpų ka­
     riams prikelti, ženklui sargybiniams paduoti, taip pat pavojui

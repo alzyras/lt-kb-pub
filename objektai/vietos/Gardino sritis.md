@@ -35,21 +35,6 @@ Apie VIII-IX amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų G
   teiginys: "Apie VIII-IX a. slavai jau buvo prie Polocko ir Minsko, o iš pietų pasiekė Gardino sritį."
   pagrindžia:
     - c-28235
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Su slavais išryškėjo karo ir prekybiniai santykiai. Apie VIII-IX
-    amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų
-    Gardino sritį. Tada jie įsikūrė ir Pamaryje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

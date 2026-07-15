@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės. Teodoras Narbutas, remdamasis Stenderio latvių gramatika, kėlė galimą vieno Odoakro vado vardo kildinimą iš latvių kalbos.
+Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės. Teodoras Narbutas, remdamasis Stenderio latvių gramatika, kėlė galimą vieno Odoakro vado vardo kildinimą iš latvių kalbos. Odoakras, tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo 1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti, kelti triukšmą (Stender.
 
 ## Teiginiai
 
@@ -41,6 +41,13 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 - t-002
   global_id: t-190792
   teiginys: "Teodoras Narbutas, remdamasis Stenderio latvių gramatika, kėlė galimą vieno Odoakro vado vardo kildinimą iš latvių kalbos."
+  pagrindžia:
+    - c-173674
+
+<a id="claim-t-197643"></a>
+- t-003
+  global_id: t-197643
+  teiginys: "Odoakras, tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo 1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti, kelti triukšmą (Stender."
   pagrindžia:
     - c-173674
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189992|Frydrichas Stenderis]]: Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o paprastu girtuoklių globėjo epitetu.
@@ -82,65 +89,27 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 - susijęs iš [[objektai/paprociai/Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius.md#claim-t-187834|Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius]]: Įžangos autorius nurodo, kad T. Narbutas mitologijos duomenis rinko iš rašytinių istorijų, mokslinių tyrimų, padavimų, dainų ir paminklų liekanų.
 - susijęs iš Mykolo Lietuvio fragmentai Elzeviro leidinyje: Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas.
 - susijęs iš Toloma: Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros apylinkėmis Uždauguvio skirstyme.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Žyniai vilkėdavo įpras­
-    tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
-    juosta, kuria apsivyniodavo septynis kartus.
-    Veltui Stenderis savo latvių mitologijoje stengiasi išve­
-    džioti, kad kriviai kilę iš rusų žemės, esančios į rytus nuo Li­
-    vonijos, kadangi latviai tenykščius rusinus vadiną Kreews ar­
-    ba Kriws, nes tai buvo žemė, gyvenama slavų -  krevičių, arba
-    krivičių, o to pavadinimo etimologija slavų kalboje gali būti
-    kitokia. Arba šitaip vadinosi dėl to, kad buvo vieno tikėjimo
-    kaip ir lietuviai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Teodoras Narbutas, remdamasis Stenderio latvių gramatika, kėlė galimą vieno Odoakro vado vardo kildinimą iš latvių kalbos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Odoakras,
-    tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo
-    1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia­
-    lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti,
-    kelti triukšmą (Stender. Lettische Gramm. S. 37).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-173336
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 290"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žyniai vilkėdavo įpras­
-    tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
-    juosta, kuria apsivyniodavo septynis kartus.
-    Veltui Stenderis savo latvių mitologijoje stengiasi išve­
-    džioti, kad kriviai kilę iš rusų žemės, esančios į rytus nuo Li­
-    vonijos, kadangi latviai tenykščius rusinus vadiną Kreews ar­
-    ba Kriws, nes tai buvo žemė, gyvenama slavų -  krevičių, arba
-    krivičių, o to pavadinimo etimologija slavų kalboje gali būti
-    kitokia. Arba šitaip vadinosi dėl to, kad buvo vieno tikėjimo
-    kaip ir lietuviai.
+    Vaidila (Wejdalotašn)
+    Žemesnės kategorijos aukų atnašautojas, žynys, atnašau­
+    jantis aukas. Jų privilegija buvo atnašauti kasdienes aukas kiek­
+    vienoje vietoje, kiekvienam dievui atskirai arba visiems drau­
+    ge. Prūsijos kronikininkai išvardija tokias vaidilų pareigas :
+    atnašauti dievams aukas, mokyti liaudį tikėjimo ir priklausan­
+    čių jam dalykų; šviesti žmones, mokant, kaip jie pagal dievų
+    įsakymus privalo elgtis laikinajame gyvenime; melstis, idant
+    permaldautų dievus, o tuo tikslu per naktinius pasirodymus
+    maloniai aiškinti žyniams savo valią; laiminti žmones ir linkėti
+    jiems visokeriopos gerovės; pagaliau abejotinais atvejais arba
+    jeigu nutikdavo kokia nelaimė, padėti nelaimingajam ir nura­
+    minti jį apreiškus dievų valią.
+  citata_rodoma: "Žyniai vilkėdavo įpras­\ntu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės\njuosta, kuria apsivyniodavo septynis kartus.\nVeltui Stenderis savo latvių mitologijoje stengiasi išve­\ndžioti, kad kriviai kilę iš rusų žemės, esančios į rytus nuo Li­\nvonijos, kadangi latviai tenykščius rusinus vadiną Kreews ar­\nba Kriws, nes tai buvo žemė, gyvenama slavų -  krevičių, arba\nkrivičių, o to pavadinimo etimologija slavų kalboje gali būti\nkitokia. Arba šitaip vadinosi dėl to, kad buvo vieno tikėjimo\nkaip ir lietuviai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -151,17 +120,19 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 - id: c-173674
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 317"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Odoakras,
     tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo
     1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia­
     lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti,
-    kelti triukšmą (Stender. Lettische Gramm. S. 37).
+    kelti triukšmą (Stender. Lettische Gramm. S. 37). „E“ yra prieš-
+    vardinis garsas, paverčiantis siekinį daiktavardžiu; taip Eduhka reiš­
+    kia ūmų, aistringai bet kokio žygio besiimantį žmogų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190792
+    - t-197643

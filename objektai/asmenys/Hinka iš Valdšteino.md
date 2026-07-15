@@ -44,26 +44,6 @@ media_all_json: |-
   pagrindžia:
     - c-36017
 - susijęs iš [[objektai/grupes/Čekai.md#claim-t-50768|Čekai]]: 1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Čekai, nenustoję vilties, vėl išsiuntė
-    savo pasiuntinį Hinką iš Valdšteino, kurį Jogaila su Vytautu
-    priėmė 1421 m. Pirmiausia pasiuntinys pasiūlė karūną Jogai­
-    lai, kuris atsakė, kad tuo reikalu sušauksiąs Liubline seimą.
-    Čekai, nenorėdami laukti, kreipėsi tuojau į Vytautą, kuris pa­
-    siūlymą priėmė palankiai, nežiūrint to, kad Jogaila su tuo ne­
-    sutikęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-36017

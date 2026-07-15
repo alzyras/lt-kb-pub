@@ -45,29 +45,6 @@ Apsiaustųjų pajėgų aprūpinimo papildymus organizavo Smolensko vaivada Aleks
   pagrindžia:
     - c-44264
 - susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09881|Smolensko apgultis (1632–1634 m.)]]: Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Smolensko vaivada Aleksandras Gonsevskis su 6 tūkst. apylinkėse veikusių karių organizavo apsiaustųjų pajėgų aprūpinimą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuviai rusų veiksmus varžė išpuoliais.
-    Apsiaustųjų pajėgų aprūpinimo papil-
-    dymus organizavo Smolensko vaivada
-    Aleksandras Gonsevskis su 6 tūkst. apy-
-    linkėse veikusių karių.
-
-    1633 m. žiemą į pagalbą atskubėjo tuo-
-    metinis Lietuvos lauko etmonas Kristupas
-    Radvila 11.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44264

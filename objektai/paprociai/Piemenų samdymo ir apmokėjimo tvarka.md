@@ -80,6 +80,7 @@ Nenurodyta
   teiginys: "Piemeniui už ganymą būdavo mokama pinigais, bulvėmis, drabužiu ir maistu."
   pagrindžia:
     - c-177779
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

@@ -35,24 +35,6 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   teiginys: "Vilniaus Visų Šventųjų bažnyčioje sovietmečiu veikė Liaudies meno muziejus."
   pagrindžia:
     - c-24593
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Už-
-    darytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pri-
-    taikytos uždarytos bažnyčios: Šv. Kazimiero bažnyčioje atidarytas Ateiz-
-    mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
-    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
-    M. K. Čiurlionio muziejaus senojo meno ekspozicija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

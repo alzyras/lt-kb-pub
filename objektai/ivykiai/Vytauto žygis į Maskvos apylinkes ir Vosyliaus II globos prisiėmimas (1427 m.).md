@@ -64,50 +64,6 @@ Nenurodyta
   teiginys: "Tapęs savo duktėno globėju ir Maskvos kunigaikštijos protektoriumi, Vytautas iškilo aukščiau kitų rusų kunigaikščių."
   pagrindžia:
     - c-38332
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Daug didesnį žygį sekančiais metais surengė Vytautas į
-    Maskvos apylinkes. Ten jis žygiavo, norėdamas suvaldyti ne­
-    paklusnius jam Okos ir Dono aukštupių kunigaikščius, kurių
-    vienas kitas, kaip, pav., Odojevo, buvo nuo Vytauto atsimetę.
-    Vytautas ruošėsi gerai juos nubausti. Bet dar Minske jį sutiko
-    duktė Sofija, Maskvos kunigaikštienė su nepilnamečiu savo
-    sūnumi Vosylių II ir, pildydama savo mirusio vyro valią, prašė
-    paimti sūnų savo globon, paliekant jam jo valstybę^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet dar Minske jį sutiko
-    duktė Sofija, Maskvos kunigaikštienė su nepilnamečiu savo
-    sūnumi Vosylių II ir, pildydama savo mirusio vyro valią, prašė
-    paimti sūnų savo globon, paliekant jam jo valstybę^2 ). Šis daly­
-    kas neleido Vytautui eiti prieš Maskvą, kurios jis, be abejo, ne­
-    būtų aplenkęs, tačiau, iš kitos pusės Vytautas, tapdamas savo
-    duktėno globėju, tuo pačiu ir Maskvos kunigaikštijos protekto­
-    rium, iškilo aukščiau kitų rusų kunigaikščių, kas vertė juos dar
-    labiau lenktis Vytauto galybei. Savo laiške jis rašo, kad su vi­
-    sa kariuomene ir pulku dvariškių pasiekė net 100 mylių už Smo­
-    lensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­
-    nų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už
-    Pronsko (visai netoli dabartinės Penzos).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

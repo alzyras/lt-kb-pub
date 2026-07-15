@@ -44,30 +44,13 @@ Dusburgietis teigia, kad rimantienė.
   teiginys: "R. Rimantienė redagavo 1977 m. Vilniuje išleistą „Lietuvos TSR archeologijos atlaso“ trečią tomą."
   pagrindžia:
     - c-61405
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'R. Rimantienė redagavo 1977 m. Vilniuje išleistą „Lietuvos TSR archeologijos atlaso“ trečią tomą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvos TSR archeologijos atlasas.— T. 2: Piliakalniai / Redagavo A. Tautavičius. —
-    V., 1975; T. 3: I—XIII a. pilkapynai ir senkapiai / Parengė A. Tautavičius; Redagavo R.
-    Rimantienė. — V., 1977.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61405
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lietuvos TSR archeologijos atlasas.— T. 2: Piliakalniai / Redagavo A. Tautavičius. —
     V., 1975; T. 3: I—XIII a. pilkapynai ir senkapiai / Parengė A. Tautavičius; Redagavo R.

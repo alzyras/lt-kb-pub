@@ -69,37 +69,13 @@ Nenurodyta
   teiginys: "Lietuvos metraštis pasakoja, kad pas Prūsų Ordiną Vytautas priėmė krikščionių tikėjimą ir prisiekė paklusnumą popiežiui."
   pagrindžia:
     - c-169923
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir po duo­
-    to žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano
-    motiną taip pat nužudė, o ir mane patį jie paėmė į ne­
-    laisvę. Tada mane išgelbėjo dievas, ir aš nuo jų pabė­
-    gau ir nubėgau pas prakilnius žmones, Prūsų Ordino
-    didįjį magistrą, priėmiau šventąjį krikščionių tikėjimą
-    ir [prisiekiau) paklusnumą šventajam tėvui popiežiui.
-    O tenai pas juos palikau savo brolį, savo seserį, savo
-    žmoną ir savo vaikus. Visus juos palikau jo nelaisvėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 
 - id: c-169923
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 174"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 174."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir po duo­
     to žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano

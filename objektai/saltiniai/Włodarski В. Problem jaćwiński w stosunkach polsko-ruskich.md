@@ -40,29 +40,13 @@ Dusburgietis teigia, kad włodarski В.
   teiginys: "B. Włodarskio straipsnis „Problem jaćwiński w stosunkach polsko-ruskich“ paskelbtas Torunėje 1959 m."
   pagrindžia:
     - c-62005
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'B. Włodarskio straipsnis „Problem jaćwiński w stosunkach polsko-ruskich“ paskelbtas Torunėje 1959 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Włodarski В. Problem jaćwiński w stosunkach polsko-ruskich.— Zapiski historyczne,
-    Toruń, 1959, t. 14, z. 2—3, s. 7 35.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-62005
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Włodarski В. Problem jaćwiński w stosunkach polsko-ruskich.— Zapiski historyczne,
     Toruń, 1959, t. 14, z. 2—3, s. 7 35.

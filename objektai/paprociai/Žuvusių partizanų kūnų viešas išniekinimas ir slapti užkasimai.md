@@ -74,35 +74,6 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
   teiginys: "Represinės institucijos viešai išniekindavo žuvusių partizanų kūnus, neleisdavo jų palaidoti ir slapčia užkasdavo pelkėse ar šiukšlynuose."
   pagrindžia:
     - c-23547
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nemažai stribų
-    buvo abejotinos moralės
-    asmenys, autoriteto jie
-    neturėjo, greitai sumota
-    būrių pavadinimą pa-
-    keisti iš „naikintojų“ į
-    „liaudies gynėjų“. Dislo-
-    kuoti visuose valsčiuo-
-    se jie saugojo sovietinį
-    aktyvą.
-    Represinės instituci-
-    jos, slopindamos parti-
-    zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių
-    šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę
-    prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
-    miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
-    čia užkasdavo pelkėse ar šiukšlynuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Šaltiniai ir įrodymai
 

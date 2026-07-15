@@ -48,31 +48,6 @@ media_all_json: |-
   teiginys: "1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis nugabeno partizanų vadovybės laišką popiežiui Pijui XII į laisvąjį pasaulį."
   pagrindžia:
     - c-23924
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pereita prie įprasto
-    partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir
-    šnipų naikinimo. Tuo laikotarpiu okupacinė valdžia kovai su partizanais
-    vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių par-
-    tizanų ir MGB kadrinių karininkų) būrius.
-    1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras
-    Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-
-    tizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios
-    ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką
-    popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
-    dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
-    SSRS nutrauktų terorą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

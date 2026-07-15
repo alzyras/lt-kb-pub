@@ -35,8 +35,8 @@ Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir varda
   teiginys: "Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir vardais Gabalus bei Heliogabalus."
   pagrindžia:
     - c-172182
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir vardais Gabalus bei Heliogabalus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -59,14 +59,20 @@ Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir varda
 - id: c-172182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 99"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 99."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Reikia atminti, kad Antikos žmonės saulę laikė
-    ugnies šaltiniu ir garbino ją kaip to elemento dievybę, vadin­
-    dami taip pat Gabie, Gabalus, Heliogabalus. Pažiūrėk į mito­
-    logijos žodynus. Visose tautose ugnies ir saulės, arba Apolo­
-    no, garbinimas sutampa.
+    Vis dėlto ši dievybė pas juos neturi atskirų šventyklų,
+    kaip tai buvo pas visus šiaurės stabmeldžius. Juk jie turi savus
+    šiokios tokios astronomijos mokovus: skaičiuoja metų laikus,
+    mėnesius, savaites, dienas; savo mėnesį pradeda nuo jauno
+    mėnulio; savaitę kaip musulmonai - nuo penktadienio, kurį
+    paskiria savo Jupiteriui, o antrą dieną po penktadienio, tai yra
+    sekmadienį, jie, visai kaip senovės romėnai, paskiria saulei.
+    Šie žmonės labai atsidavę žemės darbui ir su juo susijusiam
+    naminių gyvulių auginimui; atsižvelgiant į tai, Santvaras (So­
+    tuar), kaip piemenų dievas, gauna aukas, ir jį garbinti moka
+    skurdžiausiose pirkelėse“16.
+  citata_rodoma: "Reikia atminti, kad Antikos žmonės saulę laikė\nugnies šaltiniu ir garbino ją kaip to elemento dievybę, vadin­\ndami taip pat Gabie, Gabalus, Heliogabalus. Pažiūrėk į mito­\nlogijos žodynus. Visose tautose ugnies ir saulės, arba Apolo­\nno, garbinimas sutampa."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -57,33 +57,6 @@ Nenurodyta
   teiginys: "Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji valdžios organai ir nutarta iš Sapiegų atimti pareigybes bei konfiskuoti dvarus."
   pagrindžia:
     - c-77364
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji valdžios organai ir nutarta iš Sapiegų atimti pareigybes bei konfiskuoti dvarus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jų alga - trisdešimt livry už ketvirtį.“
-
-    suvažiavimas, priėmęs „Valkininkų nuta-
-    rimą“, kuriuo buvo įkurta LDK bajorijos
-    generalinė konfederacija, suformuoti ypa-
-    tingieji LDK valdžios organai, nutarta atimti
-    iš Sapiegų jų turėtas pareigybes, o dvarus
-    konfiskuoti. Priėmusi nutarimą respubli-
-    konų kariuomenė nužygiavo į Vilnių, kur
-    Šnipiškių priemiestyje įrengtoje stovykloje,
-
-    vykdant Valkininkų nutarimą, buvo iš
-    esmės suformuota nauja LDK kariuomenė -
-    7500 etatinių vienetų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

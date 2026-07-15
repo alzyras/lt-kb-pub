@@ -7,6 +7,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1211 m.'
@@ -16,6 +17,7 @@ datos:
   - '1526 m.'
   - '1553 m.'
   - '1579 m.'
+  - '1738 m.'
   - '2026 m.'
 date_start: '1211'
 date_end: '2026'
@@ -97,82 +99,68 @@ media_all_json: |-
   pagrindžia:
     - c-164349
 
-<a id="claim-t-180764"></a>
-- t-008
-  global_id: t-180764
-  teiginys: "Karalius Kazimieras Vilniuje gavo žinią apie sūnaus Jono Albrechto sutriuškinimą Vengrijoje."
-  pagrindžia:
-    - c-164356
-
 <a id="claim-t-180770"></a>
-- t-009
+- t-008
   global_id: t-180770
   teiginys: "Rengiantis 1579 m. žygiui, kareivių buvo samdoma Vengrijoje ir Vokietijoje."
   pagrindžia:
     - c-164351
 
 <a id="claim-t-180772"></a>
-- t-010
+- t-009
   global_id: t-180772
   teiginys: "Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o iš ten superkami į Vilnių."
   pagrindžia:
     - c-164355
 
 <a id="claim-t-180773"></a>
-- t-011
+- t-010
   global_id: t-180773
   teiginys: "Joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų)."
   pagrindžia:
     - c-164348
 
 <a id="claim-t-180774"></a>
-- t-012
+- t-011
   global_id: t-180774
   teiginys: "Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o ten superkami Vilniui."
   pagrindžia:
     - c-164355
 
 <a id="claim-t-180775"></a>
-- t-013
+- t-012
   global_id: t-180775
   teiginys: "1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio."
   pagrindžia:
     - c-164352
 
 <a id="claim-t-185173"></a>
-- t-014
+- t-013
   global_id: t-185173
   teiginys: "Imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, iš Volynės patraukė tiesiai į Vengriją."
   pagrindžia:
     - c-168534
 
-<a id="claim-t-185174"></a>
-- t-015
-  global_id: t-185174
-  teiginys: "Tėvo raginamas valdovo sūnus su karių parama leidosi į Vengriją, tačiau vengrai nuo jo nusigręžė."
-  pagrindžia:
-    - c-168535
-
-<a id="claim-t-185175"></a>
-- t-016
-  global_id: t-185175
-  teiginys: "Vladislovas turėjo likti Vengrijos karaliumi, o jam mirus be vaikų Jonas turėjo tapti sosto įpėdiniu."
-  pagrindžia:
-    - c-168536
-
 <a id="claim-t-192769"></a>
-- t-017
+- t-014
   global_id: t-192769
   teiginys: "Teodoras Narbutas Vengriją arba jos gretimus kraštus laikė vieta, kur jazigai dar gyveno XV amžiuje."
   pagrindžia:
     - c-175539
 
 <a id="claim-t-193244"></a>
-- t-018
+- t-015
   global_id: t-193244
   teiginys: "Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai."
   pagrindžia:
     - c-175980
+
+<a id="claim-t-200719"></a>
+- t-016
+  global_id: t-200719
+  teiginys: "1738 m. Marcijonas Mykolas Oginskis tiesiai iš Vengrijos pirko 25 statines seno ir jauno vyno už 274 raudonuosius auksinus."
+  pagrindžia:
+    - c-184064
 - susijęs iš [[objektai/asmenys/Kolomanas.md#claim-t-60357|Kolomanas]]: Totoriams įsiveržus į Vengriją ir Lenkiją, mūšyje žuvo Vengrijos karaliaus brolis Kolomanas.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-10729|Lietuvos pinigai]]: Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12874|Lietuvos pinigai]]: Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.
@@ -215,7 +203,6 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171407|Totoriai]]: Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką Vroclavietį ir daugybę kitų žmonių, o šias šalis pavertė dykromis.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171439|Totoriai]]: Totoriai nuniokojo Vengriją ir Lenkiją.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-183905|Totoriai]]: Totoriai nuniokojo Vengriją ir Lenkiją.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.).md#claim-t-185575|Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)]]: Po Motiejaus Korvino mirties vengrai pakvietė Joną Olbrachtą į Vengrijos karalystės sostą.
 - susijęs iš [[objektai/ivykiai/Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą.md#claim-t-186709|Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą (seimas, XIV a.)]]: Prieš Krokuvos seimą dėl Jogailos pakvietimo į Lenkijos sostą Lietuvos delegacija 1385 m. kovo pradžioje Vengrijoje gavo Elžbietos sutikimą.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus.md#claim-t-01676|Kryžiuočių ordino atsikraustymas į Prūsus]]: Gavęs kvietimą atvykti į Prūsus, Vokiečių ordinas bylinėjosi su Vengrijos karaliumi dėl siekio atgauti prarastas žemes.
 - susijęs iš [[objektai/ivykiai/Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.).md#claim-t-28834|Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.)]]: 1351 m. Kęstutis, sudarydamas taiką su Vengrijos karaliumi Liudviku Anžu, sutiko priimti krikštą su broliais ir valdiniais.
@@ -258,7 +245,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Jonas iš Endorfo.md#claim-t-60345|Jonas iš Endorfo]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis ėjo iš bažnyčios.
 - susijęs iš [[objektai/asmenys/Jurgis (Vilniaus kaštelionas, Barboros tėvas).md#claim-t-87739|Jurgis (Vilniaus kaštelionas, Barboros tėvas)]]: Jurgis buvo Vilniaus kaštelionas ir Barboros Radvilaitės tėvas.
 - susijęs iš [[objektai/asmenys/Jurgis Algimantaitis.md#claim-t-186223|Jurgis Algimantaitis]]: Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus Vladislovo brolį Kazimierą.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82509|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis mirė 1492 metų birželio 7 dieną, susirgęs kelyje iš Vilniaus į Trakus.
 - susijęs iš [[objektai/asmenys/Kolomanas.md#claim-t-60357|Kolomanas]]: Totoriams įsiveržus į Vengriją ir Lenkiją, mūšyje žuvo Vengrijos karaliaus brolis Kolomanas.
 - susijęs iš [[objektai/asmenys/Konradas Ciolneris Rotenšteinas.md#claim-t-87439|Konradas Ciolneris Rotenšteinas]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas su didelėmis pajėgomis persikėlė per Nemuną ties Kaunu ir niokojo kraštą.
 - susijęs iš [[objektai/asmenys/Kuno von Hattenstein.md#claim-t-30339|Kuno von Hattenstein]]: Kuno von Hattenstein buvo Ordino maršalas ir padėjo Jogailai įveikti dėdę.
@@ -281,8 +267,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186021|Vladislovas (karalius, Kazimiero brolis)]]: Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu.
 - susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186023|Vladislovas (karalius, Kazimiero brolis)]]: Vengrijos karalius Vladislovas pradėjo karą ir patyrė pralaimėjimą Varnos mūšyje.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173226|Vladislovas Jogaila]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184857|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Vengrijos seime daugelis rėmė Jono brolį Vladislovą.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184858|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Po pergalės Vladislovas Jogailaitis pasiūlė broliui Jonui tartis dėl santarvės sudarymo.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184859|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176668|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto karūnacijos projektas siejamas su Lietuvos christianizacijos ir europeizacijos kontekstu.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176707|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto politika šaltinyje interpretuojama kaip orientuota į „švento valdovo“ įvaizdį.
@@ -322,7 +306,6 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Vengrai.md#claim-t-66254|Vengrai]]: Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių.
 - susijęs iš [[objektai/grupes/Vilniaus universiteto Lietuvių literatūros katedra.md#claim-t-75040|Vilniaus universiteto Lietuvių literatūros katedra]]: Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų ideologinis puolimas.
 - susijęs iš [[objektai/grupes/Vilniaus universiteto Lietuvių literatūros katedra.md#claim-t-75041|Vilniaus universiteto Lietuvių literatūros katedra]]: Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų ideologinis puolimas.
-- susijęs iš [[objektai/ivykiai/Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas.md#claim-t-185798|Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas]]: Kol karalius buvo išvykęs, Bogdanas smarkiai nuniokojo Rusią, sudegino kelis miestus ir daugybę bažnyčių.
 - susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.).md#claim-t-185586|Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.)]]: Po ginčų daugelis Lietuvos didikų nutarė valdovu rinkti karaliaus Vladislovo brolį Kazimierą.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.).md#claim-t-01685|Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)]]: 1309 m. didysis magistras su taryba atsikėlė į Marijenburgą, kuris tapo Kryžiuočių ordino sostine.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis).md#claim-t-86914|Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir nuniokojo žemes iki Medininkų bei Ašmenos.
@@ -333,10 +316,8 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/Mohačo mūšis.md#claim-t-77903|Mohačo mūšis]]: 1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.
 - susijęs iš [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.).md#claim-t-97031|Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]: Po Prahos sprendimo Lietuvos vardu protestą Prahoje pareiškė Butrimas ir Vytauto sekretorius Cibulka.
 - susijęs iš [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.).md#claim-t-97032|Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]: Lietuvos vardu protestuoti į Prahą nuvyko Butrimas ir Vytauto sekretorius Cibulka.
-- susijęs iš [[objektai/ivykiai/Varnos mūšis.md#claim-t-186730|Varnos mūšis (mūšis, XV a.)]]: Vladislovas žuvo 1444 m. lapkričio 10 d. mūšyje su turkais ties Varna Bulgarijoje.
 - susijęs iš [[objektai/ivykiai/Vengrų karaliaus karo paskelbimas Lenkijai (1410 m. liepos 11 d.).md#claim-t-35893|Vengrų karaliaus karo paskelbimas Lenkijai (1410 m. liepos 11 d.)]]: 1410 m. liepos 11 d. sąjungininkams sustojus prie Soldau, Vengrijos pasiuntinys įteikė Jogailai raštą, kuriuo Vengrijos karalius skelbė Lenkijai karą.
 - susijęs iš [[objektai/ivykiai/Vengrų karaliaus karo paskelbimas Lenkijai (1410 m. liepos 11 d.).md#claim-t-35894|Vengrų karaliaus karo paskelbimas Lenkijai (1410 m. liepos 11 d.)]]: Vengrijos pasiuntinys Jogailai pranešė, kad vengrai neketina kariauti ir karo paskelbimu siekia iš Ordino gauti daugiau pinigų.
-- susijęs iš [[objektai/ivykiai/Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.).md#claim-t-185784|Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.)]]: 1509 m. Vilniaus seime nutarta teisti Glinskio šalininkus, o žymiausieji iš jų buvo įkalinti Trakuose.
 - susijęs iš [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.).md#claim-t-184600|Vytauto karūnacijos byla (1429–1430 m.)]]: Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams.
 - susijęs iš [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną.md#claim-t-62690|Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]: 1325 m. pradžioje Lietuva ir Lenkija sudarė sutartį dėl abipusės karinės paramos, todėl Lietuva prisijungė prie koalicijos.
 - susijęs iš [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose.md#claim-t-55157|Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]: Pasak Strijkovskio, Vytautas dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose gerdavo iš auksu aptaisytų tauro ragų.
@@ -383,7 +364,6 @@ media_all_json: |-
 - susijęs iš Prūsija: 1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas iš Prūsijos puolė Lietuvos žemes.
 - susijęs iš Prūsija: Prūsiją pasiekus žiniai apie Jogailos derybų sėkmę, Konradas Ciolneris Rotenšteinas 1385 m. rugpjūtį puolė Lietuvą.
 - susijęs iš Romanija: Brolio Hermano vadovavimo metais Ordinas gavo puikių dovanų Romanijoje.
-- susijęs iš Silezija: Pagal Vladislovo ir Jono susitarimą Jonas turėjo gauti Sileziją kaip beneficiją iš Vladislovo.
 - susijęs iš Skidlius: Prie Skidliaus cerkvės rastas 1553 metų užrašas liudijo, kad joje tuo metu buvo krikštijami Jotvingijos pagonys.
 - susijęs iš Soldau: Liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link.
 - susijęs iš Tauro kalnas: Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukštutinę mūro pilį.
@@ -404,8 +384,7 @@ media_all_json: |-
 - susijęs iš Vilniaus katedra: Elžbieta, ištekinta už Žygimanto Augusto, mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje.
 - susijęs iš Vilniaus pilies kalnas: Vilniaus pilies kalno griūtis palietė tik kalną, o pilies mūrai išliko sveiki.
 - susijęs iš Vilniaus pilies kalnas: Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus pilies kalną ištiko griūtis.
-- susijęs iš Vilnius: Prie Vilniaus pilies įkurta didžioji ginklų liejykla stipriai veikė miesto amatininkų gerovę ir tobulėjimą.
-- susijęs iš Vilnius: Pasak padavimo, Gediminas Tauro kalne pastatydino Aukštutinę pilį, o slėnyje - medinę pilį, pavadintą Vilniumi.
+- susijęs iš Vilnius: 1738 m. Marcijono Mykolo Oginskio iš Vengrijos pirkto vyno atvežimas į Vilnių kainavo 125 raudonuosius auksinus.
 - susijęs iš Vokietija: Rengiantis 1579 m. buvo samdomi kareiviai Vengrijoje ir Vokietijoje, perkami ir gaminami ginklai.
 - susijęs iš Vokietija: Rengiant 1579 m. žygį prieš caro kariuomenę, kareivių buvo prisisamdyta Vengrijoje ir Vokietijoje.
 - susijęs iš Šventaragio slėnis: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po Trakų pilies įkūrimo medžiojo Šventaragio slėnyje.
@@ -432,278 +411,24 @@ media_all_json: |-
 - susijęs iš Vilniaus Aukštutinė pilis: Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį.
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192167|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 - susijęs iš [[objektai/grupes/Jogailaičių dinastija.md#claim-t-183137|Jogailaičių dinastija]]: Jogailai tapus Lenkijos karaliumi 1386 m., atsirado Gediminaičių šakos Jogailaičių dinastija.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną bei Henriką ir nuniokojo tas šalis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
-                                  lio, ir Henriko, Vroclavo kunigaikščio, žūtį
-
-       Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
-    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
-    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
-    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
-
-      1326  viešpaties metais Vengrijos  karalius nukovė 30 tūkstančių  totorių,  kurių
-    kariuomenė siaubė jo karalystę.
-
-
-
-                    126.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-011
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
-    lančiais pagonimis kumanais. Bet Vengrijos karalius, pamatęs, kad or-
-    dinas čia ne jam tarnauja, bet ruošiasi sukurti savo valstybę, jį išvijo
-    (1224 m.). Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis
-    bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-005
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau laimėjo lietuviai
-    ir karalius; lenkai irgi sutiko apsidėti mokesčiais. Lietuva noriai
-    pasižadėjo duoti 10.000 karių. Tuo būdu surinkus pinigų, prisi-
-    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
-    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
-
-    1579 m. vasarą pats karalius iš Vilniaus išžygiavo prieš caro
-    kariuomenę, kuri buvo suspiesta Pskove.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-002
-
-- c-005
-  santrauka: '1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi,
-    šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
-    jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente. Jo-
-    gailaičių Europa pradėjo vaidinti „krikščionybės forposto“ vaidmenį, tie-
-    sa, nevienodai sėkmingai. Lietuva, Lenkijos padedama, atsilaikė prieš sta-
-    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
-    patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
-    lapio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-006
-  santrauka: 'Totoriai nuniokojo Vengriją ir Lenkiją.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    22. Apie Vengrijos ir Lenkijos nusiaubimą
-
-       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ten jų reikėjo daugybės ir visokių. Alavas ir varis iš
-    Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į
-    Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.
-    Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
-    lų, gaminta bombos ir kiti karo reikmenys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-    - t-012
-
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vėliau jo pamaldumą pripažino
-    Romos Bažnyčios galva, suteikė jam Šventojo vardą ir šlo­
-    vę, o kartu ir visam kraštui Globėjo vardą39. Prabėgus
-    aštuoneriems metams, pats karalius Kazimieras, būdamas
-    Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­
-    nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­
-    niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia
-    šį pasaulį.
-    39
-    Šventasis Kazimieras, kurio mirtis,
-    tapytojo Dankerso pavaizduota
-    al fresco ant kairės Šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-008
-
-- c-009
-  santrauka: 'Imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, iš Volynės patraukė tiesiai į Vengriją.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
-    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
-    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
-    iš Volynės į Vengriją. Išvykstančiam Vytautas davė
-    galybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino
-    nukauto tauro garsųjį ragą, išmoningai papuoštą auksu
-    bei brangakmeniais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-010
-  santrauka: 'Tėvo raginamas valdovo sūnus su karių parama leidosi į Vengriją, tačiau vengrai nuo jo nusigręžė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Be to, jis puikiai atsi­
-    minė, kaip atsitiko kitam jo broliui, Kazimierui, kurį
-    vengrai lengva ranka apgavo. Kadangi tėvas karštai
-    reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis,
-    gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė­
-    damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa­
-    grįstas. Mat vengrai nuo jo nusigręžė, ir jis, nieko ne­
-    pešęs, turėjo grįžti į Lenkiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
-- c-011
-  santrauka: 'Vladislovas turėjo likti Vengrijos karaliumi, o jam mirus be vaikų Jonas turėjo tapti sosto įpėdiniu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tačiau Vladislovas tuojau pat po
-    pergalės per pasiuntinius pasiūlė broliui tartis dėl san­
-    tarvės sudarymo. Brolis neatsisakė, ir jie susitarė šito­
-    kiomis sąlygomis: Vladislovas liksiąs Vengrijos karaliu­
-    mi, jam mirus ir nepalikus vaikų, Jonas tapsiąs sosto
-    įpėdiniu, šiuo metu iš Vladislovo jis gausiąs kaip be­
-    neficiją Sileziją.
-    Apie šiuos susitarimus karalius nieko nežinojo, mat
-    tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-
-- c-012
-  santrauka: 'Teodoras Narbutas Vengriją arba jos gretimus kraštus laikė vieta, kur jazigai dar gyveno XV amžiuje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat pavyko rasti prie
-    Skidliaus cerkvės 1553 metų užrašą, liudijantį, kad šioje
-    cerkvėje tuo metu buvo krikštijami Jotvingijos pagonys1.
-    Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje
-    gyveno Vengrijoje arba gretimuose kraštuose. Juk žino­
-    ma, kad 1402 ir 1403 metais Čekijoje, o 1404 metais Mo­
-    ravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio
-    kariai kartu su kumanais linksminosi2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
-- c-013
-  santrauka: 'Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos vidaus gyvenimas Stepono Batoro laikais
-    Tikybiniai santykiai.** Nors Stepono Batoro tėvynėje, Veng-
-    rijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauk-
-    lėtas katalikiškai. Kad ir užaugęs tikybinių kovų metu, jis vis
-    dėlto buvo ne fanatikas, bet didelis tolerantas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-
 ## Citatos
 
 - id: c-164347
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 229"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
-                                  lio, ir Henriko, Vroclavo kunigaikščio, žūtį
-
-       Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
-    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
-    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
-    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
+    Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su
+    daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,
+    kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš
+    altorių, o kunigas, ilgai meldęsis, garsiai užgiedojo: „Aleliuja, ateik šventoji dvasia“,
+    nusileido ant jų kūniškai apčiuopiama šventoji dvasia nelyginant ugnies liepsnelė ir juo
+    labiau kuris iš jų degė dievo meile, tuo didesnė ši liepsnelė rodėsi ten stovintiesiems.
+    Šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis
+    ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas
+    buvo susitepęs paleistuvystės nuodėme. Vienas abatas, šitai sužinojęs, panoro ištirti, ar
+    taip yra iš tikrųjų, todėl nusivedė du jaunus pasileidėlius pas magistrą, tačiau šis, vos
+    išvydęs tuos tarnus, liepė jiems išsinešdinti.
   citata_rodoma: "Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­\n                              lio, ir Henriko, Vroclavo kunigaikščio, žūtį\n\n   Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,\nkur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir\ngalybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių\nvieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399)."
   statusas: verified
   teiginio_tipas: faktas
@@ -715,17 +440,17 @@ media_all_json: |-
 - id: c-164348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 250"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 250."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
-
-      1326  viešpaties metais Vengrijos  karalius nukovė 30 tūkstančių  totorių,  kurių
-    kariuomenė siaubė jo karalystę.
-
-
-
-                    126.
+    Atsilyginkite savo priešams, ką jie užsipelnė”. O kitoje vietoje, kai žuvo
+    tie, kurie susirado mirtį dėl savo patiklumo, nes nekovojo su priešais, vienas vyras
+    pasakė kitam vyrui (1 Mak 2, 40): „Jeigu visi darysime taip, kaip padarė mūsų broliai, ir
+    nekovosime prieš pagonis dėl savo gyvybės ir savo įstatymo, anie greitai išnaikins mus
+    iš šalies”. Magistras ir broliai, naudingai pamokyti šių bei kitų švento rašto pranašysčių,
+    ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
+    Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
+    ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas.
+  citata_rodoma: "125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį\n\n  1326  viešpaties metais Vengrijos  karalius nukovė 30 tūkstančių  totorių,  kurių\nkariuomenė siaubė jo karalystę.\n\n\n\n                126."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -750,8 +475,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180768
     - t-180766
+    - t-180768
 
 - id: c-164351
   redaktorius: "A. Šapoka"
@@ -772,8 +497,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180770
     - t-180763
+    - t-180770
 
 - id: c-164352
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -799,12 +524,15 @@ media_all_json: |-
 - id: c-164354
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 228"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 228."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    22. Apie Vengrijos ir Lenkijos nusiaubimą
-
-       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
+    Aukščiausiojo ten įkvėptas, su keliais iš savo šeimynos jis kreipėsi į jo šventenybę
+    popiežių, kuriam ir išpažino visas savo nuodėmes. Popiežius jam paliepė užsivilkti Teutonų
+    namų ordino vienuolio apsiaustą. Grįždamas po to namo, jis atsisakė jam į žmonas
+    pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo,
+    papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos
+    dievui bei jam įstotų į šį ordiną.
+  citata_rodoma: "22. Apie Vengrijos ir Lenkijos nusiaubimą\n\n   Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -855,27 +583,37 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180764
-    - t-180769
 
 - id: c-168534
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 418"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
-    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
-    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
-    iš Volynės į Vengriją. Išvykstančiam Vytautas davė
-    galybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino
-    nukauto tauro garsųjį ragą, išmoningai papuoštą auksu
-    bei brangakmeniais.
+    Tuo tarpu Krokuvos vyskupas Zbig­
+    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
+    kokia įtartina imperatoriaus
+    S en ato įsp ė ta s
+    draugystė, ir, atskleidęs, ko­
+    kie pavojingi jo siūlymai,
+    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
+    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
+    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
+    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
+    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
+    nas iš Tarnovo, Krokuvos vaivada. Visi sutartinai pri­
+    tarė vyskupui ir vaivadai. Vytautas, pasipiktinęs ne tiek
+    dėl pralaimėjimo, kiek dėl
+    P a sip ik tin ęs pasišali-
+    drąsių kalbų, išėjo iš senato
+    na
+    posėdžio, o pasišalindamas at­
+    virai pagrasino, sakydamas,
+    14*
+    4 1 9
+
+    jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
+    siryžęs pasiekti.
+  citata_rodoma: "Atvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams. Karaliui išvykus, ir\nimperatorius, apsvarstęs su Vytautu svarbiausius klau­\nsimus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai\niš Volynės į Vengriją. Išvykstančiam Vytautas davė\ngalybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino\nnukauto tauro garsųjį ragą, išmoningai papuoštą auksu\nbei brangakmeniais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -883,54 +621,10 @@ media_all_json: |-
   pagrindzia:
     - t-185173
 
-- id: c-168535
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 535"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 535."
-  citata_originali: |
-    Be to, jis puikiai atsi­
-    minė, kaip atsitiko kitam jo broliui, Kazimierui, kurį
-    vengrai lengva ranka apgavo. Kadangi tėvas karštai
-    reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis,
-    gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė­
-    damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa­
-    grįstas. Mat vengrai nuo jo nusigręžė, ir jis, nieko ne­
-    pešęs, turėjo grįžti į Lenkiją.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185174
-
-- id: c-168536
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 536"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 536."
-  citata_originali: |
-    Tačiau Vladislovas tuojau pat po
-    pergalės per pasiuntinius pasiūlė broliui tartis dėl san­
-    tarvės sudarymo. Brolis neatsisakė, ir jie susitarė šito­
-    kiomis sąlygomis: Vladislovas liksiąs Vengrijos karaliu­
-    mi, jam mirus ir nepalikus vaikų, Jonas tapsiąs sosto
-    įpėdiniu, šiuo metu iš Vladislovo jis gausiąs kaip be­
-    neficiją Sileziją.
-    Apie šiuos susitarimus karalius nieko nežinojo, mat
-    tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185175
-
 - id: c-175539
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat pavyko rasti prie
     Skidliaus cerkvės 1553 metų užrašą, liudijantį, kad šioje
@@ -964,10 +658,26 @@ media_all_json: |-
   pagrindzia:
     - t-193244
 
+- id: c-184064
+  autorius: "Rimvydas Laužikas"
+  šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
+  puslapiai: "PDF 3"
+  indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
+  citata_originali: |
+    1738 m. Mykolo Kleopo pro-
+    senelis Marcijonas Mykolas Oginskis tiesiai iš Vengrijos pirko trylika statinių seno,
+    įprastinio (mūsų laikais sakytume – stalo) vyno, dvi statines seno sausų uogų vyno
+    ir dešimt statinių dviejų rūšių jauno vyno ir už viską sumokėjo 274 raudonuosius
+    auksinus. Dar 125 raudonuosius auksinus kainavo vyno atvežimas į Vilnių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200719
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Motiejus Huniadis]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - Buvo valdoma: [[objektai/grupes/Jogailaičių dinastija]]
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Puolė Vengriją: [[objektai/grupes/Totoriai]]
-- Buvo žygio kryptis: [[objektai/grupes/Totoriai]]
 - Gyvenamoji vieta: [[objektai/grupes/Jazygai]]

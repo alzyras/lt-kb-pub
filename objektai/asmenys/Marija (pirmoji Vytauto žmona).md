@@ -35,23 +35,6 @@ Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė. Ma
   teiginys: "Vytauto pirmoji žmona Marija buvo Rusijos kunigaikštytė ir, anot šaltinio, veikiausiai stačiatikė."
   pagrindžia:
     - c-38088
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vadinas, Vytautas
-    augo ir pagoniško ir krikščioniško tikėjimų įtakoje. Jo pirmoji
-    žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė.
-    Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik
-    paskui pasidarė labai uoli katalikė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

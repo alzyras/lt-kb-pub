@@ -37,27 +37,6 @@ Kubiliaus vadovaujamas Ukmergės batalionas, nepaisydamas smarkios priešo ugnie
   pagrindžia:
     - c-40812
 - susijęs iš [[objektai/asmenys/J. Kubilius.md#claim-t-40157|J. Kubilius]]: J. Kubiliaus vadovaujamas Ukmergės batalionas išmušė bolševikus iš apkasų ir užėmė keletą kaimų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Karin. J. Kubiliaus vadovaujamas Uk-
-    mergės batalionas, nepaisydamas smar-
-    kios priešo ugnies, drąsiai veržėsi ir
-    išmušė bolševikus iš jų apkasų, užėmė ke-
-    letą kaimų. Išaušus kitai dienai, remiant
-    karin. M. Pečiulionio artilerijos baterijai,
-    Ukmergės bataliono kariai išstūmė rusus
-    ir iš jų gilumoje buvusių pozicijų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-40812

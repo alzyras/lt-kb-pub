@@ -4,10 +4,7 @@ pavadinimas: 'Mengli Girėjus'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-variantai:
-  - 'Mengli-Girėjus'
-aliases:
-  - 'Mengli-Girėjus'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos. Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido. Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus.
+Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus. Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas. Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido.
 
 ## Teiginiai
 
@@ -62,135 +59,28 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
   pagrindžia:
     - c-177385
 
-<a id="claim-t-195006"></a>
+<a id="claim-t-196558"></a>
 - t-005
-  global_id: t-195006
-  teiginys: "1 6 Mechmet (Machmud)-Girėjus — Krymo chano M engli-Girėjaus trečiasis sūnus."
+  global_id: t-196558
+  teiginys: "Krymo skitai, vadovaujami Biti Girėjaus, nuniokojo Rusią ir įsiveržę į Lietuvą ją nusiaubė beveik iki Vilniaus."
   pagrindžia:
-    - c-177384
+    - c-178765
+
+<a id="claim-t-196559"></a>
+- t-006
+  global_id: t-196559
+  teiginys: "Mengli Girėjus su pagrindinėmis jėgomis apėjo lenkus ir smarkiai užgriuvo dešinįjį Konstantino sparną."
+  pagrindžia:
+    - c-177386
 - susijęs iš [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas.md#claim-t-185838|Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]: Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.
 - susijęs iš Trakai: Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose.
 - susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195007|Šich Achmetas]]: Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Išklausė
-    dangus varguolio maldų. Mengli Girėjaus kariai, veda­
-    mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­
-    los. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
-    jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
-    jūčio viduryje užpuolė Slucką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Lie­
-    tuviai ir lenkai atsiėmė šešiolika tūkstančių belaisvių,
-    jiems atiteko dešimt tūkstančių arklių bei didžiulis ir
-    įvairus grobis. Garsas apie šią pergalę plačiai paskli­
-    do, be kita ko, ir dėl to, kad mūšio lauke krito trys
-    Mengli Girėjaus sūnūs bei žentas. Kovoje nedalyvavu­
-    sius skitus, kurie ilgai klaidžiojo po visokius pašalius
-    beplėšikaudami, ilgainiui įvairiose vietose išgaudė ir
-    išžudė lenkų kariai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pra­
-    sidėjus žiemai, užėjo blogi orai, ir nebeliko nieko kito,
-    kaip nutraukti apgulą ir su visa kariuomene išžygiuoti
-    į žiemos stovyklą. Skitas Mengli Girėjus, pakviestas už
-    mokamą atlyginimą į šį karo žygį, įsikūrė su kariais
-    netoli karaliaus stovyklos, tačiau nepradėjo kovoti
-    prieš maskvėnus, nors Ostrogiškis atkakliai reikalavo,
-    kad įsibrautų į Maskvos kunigaikštystę, mat jis iš
-    Maskvos valdovo irgi buvo gavęs nemaža pinigų. Ne­
-    trūko barbarui sumanumo deramai pateisinti savo ne­
-    veiklumą, nors, tiesą sakant, jis ketino užpulti tuos,
-    kurie pirmieji suklups mūšyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-- c-005
-  santrauka: 'Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pats žygis
-
-    į LDK gilumą prasidėjo gegužės pabaigoje.
-    Jam vadovavo jaunesnieji Mengli-Girėjaus
-    sūnūs Fatihas ir Burnašas. Ekspedicines
-    pajėgas sudarė maždaug 4000 totorių, tu-
-    rėję apie 10000 žirgų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-- c-006
-  santrauka: '1 6 Mechmet (Machmud)-Girėjus — Krymo chano M engli-Girėjaus trečiasis sūnus.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 6  Mechmet (Machmud)-Girėjus — Krymo chano M engli-Girėjaus
-    trečiasis sūnus.
-    S! Burnašas — penktasis, jaunesnysis Krymo chano Mengli-Girė­
-    jaus sūnus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 ## Citatos
-
-- id: c-177384
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    1 6  Mechmet (Machmud)-Girėjus — Krymo chano M engli-Girėjaus
-    trečiasis sūnus.
-    S! Burnašas — penktasis, jaunesnysis Krymo chano Mengli-Girė­
-    jaus sūnus.
-  citata_rodoma: "1 6  Mechmet (Machmud)-Girėjus — Krymo chano M engli-Girėjaus \ntrečiasis sūnus.\nS! Burnašas — penktasis, jaunesnysis Krymo chano Mengli-Girė­\njaus sūnus."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195006
 
 - id: c-177385
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 582"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 582."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Išklausė
     dangus varguolio maldų. Mengli Girėjaus kariai, veda­
@@ -209,18 +99,20 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
 - id: c-177386
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 619"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 619."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Lie­
-    tuviai ir lenkai atsiėmė šešiolika tūkstančių belaisvių,
-    jiems atiteko dešimt tūkstančių arklių bei didžiulis ir
-    įvairus grobis. Garsas apie šią pergalę plačiai paskli­
-    do, be kita ko, ir dėl to, kad mūšio lauke krito trys
-    Mengli Girėjaus sūnūs bei žentas. Kovoje nedalyvavu­
-    sius skitus, kurie ilgai klaidžiojo po visokius pašalius
-    beplėšikaudami, ilgainiui įvairiose vietose išgaudė ir
-    išžudė lenkų kariai.
+    Išgirdę šią vado kalbą, kariai nelyginant įgiję naujų
+    jėgų trečią kartą taip veržliai užpuolė priešą, kad da­
+    lis skitų krito kovos lauke, o kiti leidosi bėgti. Paste­
+    bėjęs, kokiame pavojuje atsidūrė jo kariai, Mengli Gi-
+    rėjus, palikęs nedidelius būrius belaisviams saugoti,
+    patraukė į kovą su pagrindinėmis jėgomis ir, apėjęs
+    lenkus, smarkiai užgriuvo dešinįjį Konstantino sparną.
+    Jis vylėsi, jog šis antpuolis padėsiąs jam laimėti mūšį,
+    jog Lietuvos bei Volynės raiteliai, ilgos kovos išvar­
+    ginti, nieku būdu neatsilaikysią prieš pailsėjusius jo
+    karius, o bėgdami ir kitus paskatinsią sprukti kur kojos
+    neša.
   citata_rodoma: "Lie­\ntuviai ir lenkai atsiėmė šešiolika tūkstančių belaisvių,\njiems atiteko dešimt tūkstančių arklių bei didžiulis ir\nįvairus grobis. Garsas apie šią pergalę plačiai paskli­\ndo, be kita ko, ir dėl to, kad mūšio lauke krito trys\nMengli Girėjaus sūnūs bei žentas. Kovoje nedalyvavu­\nsius skitus, kurie ilgai klaidžiojo po visokius pašalius\nbeplėšikaudami, ilgainiui įvairiose vietose išgaudė ir\nišžudė lenkų kariai."
   statusas: verified
   teiginio_tipas: faktas
@@ -228,12 +120,12 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195004
+    - t-196559
 
 - id: c-177387
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 632"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 632."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pra­
     sidėjus žiemai, užėjo blogi orai, ir nebeliko nieko kito,
@@ -274,3 +166,29 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195003
+
+- id: c-178765
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Tais pačiais metais
+    Krymo skitai, vedami Biti
+    S k ita i
+    n io k o ja
+    Lie-
+    Girėjaus, nuniokojo Rusią ir
+    ta v ą
+    įsiveržė į Lietuvą, nusiaubda­
+    mi ją beveik ligi pat Vil­
+    niaus. Kadangi niekas nedrįso su ginklu jiems pasi­
+    priešinti, netrukdomi išsigabeno didžiulį grobį ir išsi­
+    varė galybę belaisvių. Prie Dnestro krantų valachai
+    juos sumušė: daug skitų paskendo sraunios upės ver­
+    petuose, dalis žuvo mūšyje, dalis — bėgant.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196558

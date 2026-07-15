@@ -35,28 +35,6 @@ media_all_json: |-
   teiginys: "2-ojo pėstininkų pulko I batalionas prie Panevėžio rinktinės prisijungė jau išlaisvinus Panevėžį."
   pagrindžia:
     - c-77347
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '2-ojo pėstininkų pulko I batalionas prie Panevėžio rinktinės prisijungė jau išlaisvinus Panevėžį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    III. 25“
-
-    LIETUVIAI SUTINKA SAVO KARIUOMENĘ
-
-    2-ojo pėstininkų pulko I bataliono puskari-
-    ninkis Antanas Šukys prisimena bataliono su-
-    stojimą Pagirių kaime žygiuojant į Panevėžio
-    frontą. Šis batalionas prie Panevėžio rinktinės
-    prisijungė jau išlaisvinus Panevėžio miestą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

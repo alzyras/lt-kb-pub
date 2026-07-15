@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus Odoakro vadovaujamus herulus, kilusius iš estų tautos. Teodoro Narbuto pasakojime Jordanas hirius siejo su gotais, o Prokopijaus pasakojimo pabaigoje hirių užuominų jau nebematyti.
+Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus Odoakro vadovaujamus herulus, kilusius iš estų tautos. Teodoro Narbuto pasakojime Jordanas hirius siejo su gotais, o Prokopijaus pasakojimo pabaigoje hirių užuominų jau nebematyti. Jorda nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako jimą kaip ir Prokopijus; kai girdime tų pačių istorikų pateiktas žinias apie skirius ir sudargus, apie hirius jau nematome jokių užuominų.
 
 ## Teiginiai
 
@@ -43,29 +43,15 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
   teiginys: "Teodoro Narbuto pasakojime Jordanas hirius siejo su gotais, o Prokopijaus pasakojimo pabaigoje hirių užuominų jau nebematyti."
   pagrindžia:
     - c-174853
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus Odoakro vadovaujamus herulus, kilusius iš estų tautos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
-    riko įtaką Europos vakaruose gyvenančioms tautoms ir
-    gentims, sako: „Turbūt tas pats karalius Germanarikas
-    savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
-    kraštą ir pavergė estų tautą“4. Žinios apie šį bendrinį pa­
-    vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
-    ni estus, kalbėdamas apie karingus Odoakro vadovauja­
-    mus herulus, kilusius iš estų tautos. Sis istorikas gyveno
-    imperatoriaus Justiniano laikais, arba VI amžiuje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197807"></a>
+- t-003
+  global_id: t-197807
+  teiginys: "Jorda nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako jimą kaip ir Prokopijus; kai girdime tų pačių istorikų pateiktas žinias apie skirius ir sudargus, apie hirius jau nematome jokių užuominų."
   pagrindžia:
-    - t-001
+    - c-179350
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoro Narbuto pasakojime Jordanas hirius siejo su gotais, o Prokopijaus pasakojimo pabaigoje hirių užuominų jau nebematyti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -93,8 +79,7 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
 - id: c-174191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
     riko įtaką Europos vakaruose gyvenančioms tautoms ir
@@ -115,22 +100,43 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
 - id: c-174853
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 295"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 295."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Bet, nenorėdami pažeisti mūsų pasakojimų chro­
-    nologinės tvarkos, turime atkreipti dėmesį dar ir į trečią
-    lietuvių gentį, iškeliavusią kartu su gotais į Rytus.
-    290
     Istorijoje esama aiškių įrodymų, kad tarp gotų buvę
     ir hirių, tų pačių, apie kuriuos jau daug rašėme. Jorda­
     nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­
     jimą kaip ir Prokopijus; kai girdime tų pačių istorikų
     pateiktas žinias apie skirius ir sudargus, apie hirius jau
-    nematome jokių užuominų.
+    nematome jokių užuominų. Tačiau III amžiaus pabaigoje
+    minimi herulai; tai gentis, laikoma ta pačia, kuri anks­
+    čiau buvo vadinama hiriais. Taigi privalome patyrinėti
+    šios trečios lietuvių genties, grįžusios su gotais į Rytus,
+    kelius.
+  citata_rodoma: "Bet, nenorėdami pažeisti mūsų pasakojimų chro­\nnologinės tvarkos, turime atkreipti dėmesį dar ir į trečią\nlietuvių gentį, iškeliavusią kartu su gotais į Rytus.\n290\nIstorijoje esama aiškių įrodymų, kad tarp gotų buvę\nir hirių, tų pačių, apie kuriuos jau daug rašėme. Jorda­\nnas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­\njimą kaip ir Prokopijus; kai girdime tų pačių istorikų\npateiktas žinias apie skirius ir sudargus, apie hirius jau\nnematome jokių užuominų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191971
+
+- id: c-179350
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Jorda­
+    nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­
+    jimą kaip ir Prokopijus; kai girdime tų pačių istorikų
+    pateiktas žinias apie skirius ir sudargus, apie hirius jau
+    nematome jokių užuominų. Tačiau III amžiaus pabaigoje
+    minimi herulai; tai gentis, laikoma ta pačia, kuri anks­
+    čiau buvo vadinama hiriais. Taigi privalome patyrinėti
+    šios trečios lietuvių genties, grįžusios su gotais į Rytus,
+    kelius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197807

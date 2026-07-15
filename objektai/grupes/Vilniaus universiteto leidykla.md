@@ -37,29 +37,6 @@ Kalbos redaktorė Gražina Indrišiūnienė Viršelio dailininkė Audronė Uziel
     - c-25396
 - susijęs iš [[objektai/autoriai/Alvydas Jokubaitis.md#claim-t-25191|Alvydas Jokubaitis]]: Alvydas Jokubaitis buvo „Lietuvos istorijos“ redakcinės kolegijos narys.
 - susijęs iš [[objektai/autoriai/Inga Vinogradnaitė.md#claim-t-26473|Inga Vinogradnaitė]]: Dr. Inga Vinogradnaitė buvo knygos „Lietuvos istorija“ redakcinės kolegijos narė.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kalbos redaktorė Gražina Indrišiūnienė
-    Viršelio dailininkė Audronė Uzielaitė
-    Maketuotoja Vida Vaidakavičienė
-    Išleido Vilniaus universitetas, Vilniaus universiteto leidykla
-    Universiteto g. 3, LT-01122 Vilnius
-    Alfonsas Eidintas, Alfredas Bumblauskas,
-    Antanas Kulakauskas, Mindaugas Tamošaitis
-
-    Lietuvos istorija. – Vilnius: Vilniaus universitetas, Vilniaus universiteto
-    leidykla, 2012. – 280 p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-25396

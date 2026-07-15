@@ -51,26 +51,6 @@ Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir
   teiginys: "Kauno taika, kaip apsigynimo ir puolimo sutartis, Vytautui buvo naudinga politikai rytuose."
   pagrindžia:
     - c-14680
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tokią ištikimybės prie­
-    saiką tuo laiku iš viso buvo padarytos trys^2 ).
-    Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­
-    kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
-    stojo savo galios^3 ). Gal lenkai taip ir manė, bet Vytautui Kau­
-    no taika, būdama apsigynimo ir puolimo sutartis, nenustojo sa­
-    vo vertės ir jam buvo labai naudinga politikai rytuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

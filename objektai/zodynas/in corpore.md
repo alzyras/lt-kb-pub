@@ -52,26 +52,6 @@ Voldemaro gyvybę, 1929 m. rugsėjį visiems ministrams in corpore „atsistatyd
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170081|Juozas Tūbelis]]: 1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį.
 - susijęs iš [[objektai/grupes/Geležinis vilkas.md#claim-t-19696|Geležinis vilkas]]: Antanas Smetona uždarė pusiau slaptą ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“.
 - susijęs iš [[objektai/ivykiai/Pasikėsinimas į A. Voldemarą, jo atsistatydinimas ir J. Tūbelio paskyrimas premjeru (1929 m.).md#claim-t-20440|Pasikėsinimas į A. Voldemarą, jo atsistatydinimas ir J. Tūbelio paskyrimas premjeru (1929 m.)]]: Po 1929 m. gegužės pasikėsinimo į A. Voldemarą rugsėjį atsistatydino ministrai, todėl turėjo atsistatydinti ir premjeras A. Voldemaras.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1929 m. rugsėjį ministrams in corpore „atsistatydinus“, atsistatydinti turėjo ir premjeras Augustinas Voldemaras.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-
-    demaras nieko negalėjo pakeisti. Būdamas ir premjeru, ir užsienio rei-
-    kalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais
-    ir pradėjo pretenduoti į vienvaldystę šalyje. Po gegužę įvykdyto studen-
-    tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
-    ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24850

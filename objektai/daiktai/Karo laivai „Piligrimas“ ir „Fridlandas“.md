@@ -62,37 +62,13 @@ Nenurodyta
   teiginys: "Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės."
   pagrindžia:
     - c-176960
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie karą su pagudėnais ir Elbingo pilies pastatymą
-
-       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
-    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
-    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
-    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
-    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
-    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
-    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
-    išaugo miestas242.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-176960
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 77"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie karą su pagudėnais ir Elbingo pilies pastatymą
 

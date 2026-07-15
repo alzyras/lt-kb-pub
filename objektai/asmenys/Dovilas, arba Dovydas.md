@@ -44,29 +44,6 @@ media_all_json: |-
   teiginys: "Dovilas, arba Dovydas, šaltinyje laikomas pirmuoju Vilniaus kunigaikščiu, kurį vilniečiai pasikvietė vietininku XII amžiuje."
   pagrindžia:
     - c-83471
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dovilas, arba Dovydas, šaltinyje laikomas pirmuoju Vilniaus kunigaikščiu, kurį vilniečiai pasikvietė vietininku XII amžiuje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    I. 48), liudija, kad XII amžiuje jau
-    būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­
-    lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi-
-    čių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus
-    valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą, sū­
-    nus Rostislavo Rogvoldovičiaus, kurį tas pats Mstislavas
-    išvijo į Graikiją. Tasai Dovilas ar Dovydas turėjo būti pir­
-    masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er-
-    deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
-    vas3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

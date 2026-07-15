@@ -39,8 +39,8 @@ Narbutas rašo, kad Augustas Kocebiu Neapolyje įsigijo rankraštį ir 1809 m. R
   teiginys: "Narbutas rašo, kad Augustas Kocebiu Neapolyje įsigijo rankraštį ir 1809 m. Revelyje davė jį Narbutui išrašams apie Lietuvos istoriją bei mitologiją."
   pagrindžia:
     - c-173015
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Augustas Kocebiu Neapolyje įsigijo rankraštį ir 1809 m. Revelyje davė jį Narbutui išrašams apie Lietuvos istoriją bei mitologiją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -70,16 +70,16 @@ Narbutas rašo, kad Augustas Kocebiu Neapolyje įsigijo rankraštį ir 1809 m. R
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
-    d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki
-    1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį
-    buvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,
-    ypač mitologiją liečiančius dalykus**.
-    101
-
-    ## Puslapis 101
-
-    ir kiekvienos ligos, išsigydymo šaltinis.
+    Tyrėjams stokojant kritiškumo, ta klaida išplito panašiai
+    kaip mūsų mitologų spėjimas; kai kurie iš mūsų deivės Lados
+    daro graikų Venerą arba egiptiečių Izidę, o iš jos dvynių Lėlių
+    vadina Kupidonu, o Polėlių - Himenėju. O iš tikrųjų slavų
+    Lelum - Polelum, Lėlius ir Lėlė, arba bendras vardas Lėly va
+    (Leliwa), reiškė tą patį, kąLatoides, arba Latonos vaikai17 18. Se­
+    17 Pagal lietuvių kalbos ypatybes žodis Lelus, latviškai Leels reiš­
+    kia šviesųjį (excellens), kai taikomas žmogui, ir didįjį (magnus), kai
+    kalbama ne apie žmogų, o apie negyvą daiktą.
+  citata_rodoma: "Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro\nd’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki\n1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį\nbuvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,\nypač mitologiją liečiančius dalykus**.\n101\n\n## Puslapis 101\n\nir kiekvienos ligos, išsigydymo šaltinis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

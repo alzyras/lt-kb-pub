@@ -43,28 +43,6 @@ Todėl, pavyzdžiui, 1926—1929 m., emigracijos bendrovėms gabenant mūsų tau
   teiginys: "1926–1929 m. emigracijos bendrovės vežė lietuvius daugiausia į Pietų Ameriką, kur daugelis patyrė išnaudojimą ir sunkias gyvenimo sąlygas."
   pagrindžia:
     - c-72107
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1926–1929 m. emigracijos bendrovės vežė lietuvius daugiausia į Pietų Ameriką, kur daugelis patyrė išnaudojimą ir sunkias gyvenimo sąlygas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau ir Lietuvoje susirūpinta savo emigracijos reikalais:
-    stengiamasi palaikyti kultūrinius ryšius su anksčiau išvykusiais išei-
-    viais ir globoti naujai vykstančius. Pirmasis emigracijos įstatymas
-    buvo išleistas dar 1920 m., bet pasirodė, kad jame buvo nemaža
-    spragų, o be to, jis ilgainiui atsiliko nuo gyvenimo reikalavimų. Todėl,
-    pavyzdžiui, 1926—1929 m., emigracijos bendrovėms gabenant mūsų
-    tautiečius į įvairius kraštus, daugiausia į Pietų Ameriką, daugelis
-    važiavusių buvo labai išnaudojami ir nuvažiavę pakliuvo į sunkias
-    gyvenimo sąlygas, veltui nuvežtieji turėjo atidirbti kelionės išlaidas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

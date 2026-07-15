@@ -4,11 +4,18 @@ pavadinimas: 'Poloviečiai'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+datos:
+  - '1101 m.'
+  - '1127 m.'
+date_start: '1101'
+date_end: '1127'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - grupe
+amziai:
+  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -26,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais. Prieš vokiečius rusai ir poloviečiai jodinėjo su strėlėmis, o jotvingiai buvo ginkluoti trumpomis ietimis. Pasak Nestoro, poloviečiai visą vasarą laikė apgulę Giurgevo tvirtovę, bet jos neįveikė ir, sudarę taiką su Sventopelku, nesikėlė per Rosės upę.
+Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais. Pasak Nestoro, poloviečiai visą vasarą laikė apgulę Giurgevo tvirtovę, bet jos neįveikė ir, sudarę taiką su Sventopelku, nesikėlė per Rosės upę. Karamzinas Nestoro žodžius apie poloviečius siejo su jų veiksmais dešiniajame Dnepro krante prie Jurjevo ir Rosės upės.
 
 ## Teiginiai
 
@@ -37,33 +44,40 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   pagrindžia:
     - c-170712
 
-<a id="claim-t-187774"></a>
-- t-002
-  global_id: t-187774
-  teiginys: "Prieš vokiečius rusai ir poloviečiai jodinėjo su strėlėmis, o jotvingiai buvo ginkluoti trumpomis ietimis."
-  pagrindžia:
-    - c-170713
-
 <a id="claim-t-192441"></a>
-- t-003
+- t-002
   global_id: t-192441
   teiginys: "Pasak Nestoro, poloviečiai visą vasarą laikė apgulę Giurgevo tvirtovę, bet jos neįveikė ir, sudarę taiką su Sventopelku, nesikėlė per Rosės upę."
   pagrindžia:
     - c-175235
 
 <a id="claim-t-192442"></a>
-- t-004
+- t-003
   global_id: t-192442
   teiginys: "Karamzinas Nestoro žodžius apie poloviečius siejo su jų veiksmais dešiniajame Dnepro krante prie Jurjevo ir Rosės upės."
   pagrindžia:
     - c-175236
 
 <a id="claim-t-192443"></a>
-- t-005
+- t-004
   global_id: t-192443
   teiginys: "Teodoras Narbutas rašo, kad Ksaveras Bogušas, remdamasis Kojalavičiaus prielaidomis, poloviečius priskyrė lietuvių genties tautoms."
   pagrindžia:
     - c-175237
+
+<a id="claim-t-197512"></a>
+- t-005
+  global_id: t-197512
+  teiginys: "Tačiau jis prieštarauja sau ir savo tiksliai išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai riojoje Dnepro pakrantėje, į rytus nuo jo."
+  pagrindžia:
+    - c-175235
+
+<a id="claim-t-197513"></a>
+- t-006
+  global_id: t-197513
+  teiginys: "Nuo tų laikų sėkmės paskatintos poloviečių ordos, visuomet būdamos stipresnės ir pridarydamos daug žalos, nesiliovė puldinėjusios pietinius Rusios kraštus."
+  pagrindžia:
+    - c-179225
 - susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-190839|Albertas Vijūkas-Kojalavičius]]: Ksaveras Bogušas poloviečius priskyrė lietuvių genties tautoms, remdamasis panašiomis Kojalavičiaus prielaidomis.
 - susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-190840|Albertas Vijūkas-Kojalavičius]]: Narbutas rašo, kad Kojalavičius poloviečius laikė turinčiais lietuvių kalbą ir siejo juos su Mamajaus sugriauta Beloserkos sostine.
 - susijęs iš [[objektai/asmenys/Jonas Komninas.md#claim-t-191285|Jonas Komninas]]: Pasak Narbuto, Jonui Komninui 1121 m. nugalėjus pečenegus, hiriai išsikėlė į kairįjį Dnepro krantą pas poloviečius.
@@ -101,10 +115,8 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
 - susijęs iš [[objektai/daiktai/Strėlės.md#claim-t-186831|Strėlės]]: Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad rusai ir poloviečiai šiame susirėmime jodinėjo su strėlėmis; Šiame gabale strėlės minimos kaip atskira kovinė priemonė.
 - susijęs iš [[objektai/daiktai/Trumpos ietys.md#claim-t-186832|Trumpos ietys]]: Lietuvos metraščio pasakojime jotvingiai susirėmime prieš vokiečius jodinėjo su trumpomis ietimis.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-192507|Vėliavos]]: Narbuto pasakojime jotvingiai smarkiai puolė Lozoriaus rezerve buvusius poloviečius ir atėmė vado vėliavą.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178767|Jotvingiai]]: Ivinskis jotvingių sunykimą siejo su badmečių, marų ir žiaurių to meto karų poveikiu.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-187709|Jotvingiai]]: Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius.
 - susijęs iš [[objektai/grupes/Pečenegai.md#claim-t-192989|Pečenegai]]: Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų palikuonys ar dalis, susiformavusi iš hunams giminingų genčių likučių.
-- susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187498|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Pasak šaltinio, po susirėmimo Tautvilas sugrįžo namo į Žemaitiją.
 - susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187500|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Lietuvos metraštis pasakoja, kad prie Vorutos Mindaugo kariai su arbaletais išjojo prieš vokiečius, o rusai, polovcai ir jotvingiai vaikėsi po lauką.
 - susijęs iš [[objektai/ivykiai/Čingischano vadų žygis į Samachą ir Derbentą 1223 m.md#claim-t-192490|Čingischano vadų žygis į Samachą ir Derbentą 1223 m]]: Erbelotas minėjo alanų karaliuką, valdžiusį savo genties ordą, kuri klajojo į šiaurę nuo Derbento.
 - susijęs iš Johanno Voigto Prūsijos istorija: Narbutas rašė, kad kryžiuočiai į Polesę įsiveržė laikydami ją senąja Prūsijos provincija ir kaltindami Kujavijos kunigaikštį sulaužius sutartį.
@@ -115,114 +127,6 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
 - susijęs iš Volga: Narbutas pasakoja, kad po kelių pralaimėjimų poloviečiai apie 1127 m. buvo priversti pasitraukti už Volgos.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-190974|Sventopelkas]]: Teodoras Narbutas aiškino, kad Giurgevo tvirtovė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė taiką.
 - susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-190688|Albertas Vijūkas-Kojalavičius]]: Kojalavičius, Narbuto perteikimu, teigė, kad poloviečiai turėjo lietuvių kalbą, ir rėmėsi pasakojimu apie Mamajaus sugriautą Beloserką.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Paėmė jie daug miestų ir pargrįžo namo l3 .
-    O paskui atsiuntė žinią Vykintas, pranešdamas, kad
-    vokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­
-    siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
-    čius, ir jie ilgai kariavo vieni su kitais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Prieš vokiečius rusai ir poloviečiai jodinėjo su strėlėmis, o jotvingiai buvo ginkluoti trumpomis ietimis.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Užsidarė pilyje-vorutoje2 3 , ir
-    55
-
-    ## Puslapis 51
-
-    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
-    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
-    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
-    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
-    mis ietimis, ir vaikėsi po lauką, tarytum turnyre. Ir iš
-    ten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Pasak Nestoro, poloviečiai visą vasarą laikė apgulę Giurgevo tvirtovę, bet jos neįveikė ir, sudarę taiką su Sventopelku, nesikėlė per Rosės upę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Turbūt toks
-    pavadinimas atsirado iš kažkokio šios upės vandens sko­
-    nio ar spalvos panašumo, pastebėto pirmųjų slavų kolo­
-    nistų. Panagrinėkime, kaip buvo sakoma senovėje. Ne­
-    storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­
-    vės, laikė ją apgulę visą vasarą, bet, negalėdami jos
-    įveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-
-    ku2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Karamzinas Nestoro žodžius apie poloviečius siejo su jų veiksmais dešiniajame Dnepro krante prie Jurjevo ir Rosės upės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ka­
-    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
-    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
-    toro žodžius priskiria poloviečių veiksmams dešiniojoje
-    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
-    statytas XII amžiaus pradžioje po to, kai jį sunaikino
-    poloviečiai. Tačiau jis prieštarauja sau ir savo tiksliai
-    išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­
-    mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­
-    imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­
-    riojoje Dnepro pakrantėje, į rytus nuo jo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Teodoras Narbutas rašo, kad Ksaveras Bogušas, remdamasis Kojalavičiaus prielaidomis, poloviečius priskyrė lietuvių genties tautoms.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    95
-    Pastabos. Mūsų mokslininkas, lietuvių istorijos tyri­
-    nėtojas Ksaveras Bogušas priskiria lietuvių genties tau­
-    toms iš kitur pažįstamus poloviečius', remdamasis tokio­
-    mis pat Kojalavičiaus prielaidomis1 2. Naruševičius patei­
-    kia žinių, kurios, rodos, taip pat remia šią nuomonę, kad
-    poloviečiai buvę rusų kaimynai nuo saulės patekėjimo ir
-    nusileidimo pusių3. Šie teiginiai įpareigoja mus patyri­
-    nėti istorinius faktus, kurie geriau paaiškintų tai ir at­
-    skleistų tikrą ar spėjamą giminystę, kurią mini mūsų pirm­
-    takai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-170712
@@ -230,11 +134,12 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Paėmė jie daug miestų ir pargrįžo namo l3 .
+    Paėmė jie daug miestų ir pargrįžo namo l3.
     O paskui atsiuntė žinią Vykintas, pranešdamas, kad
     vokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­
     siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
     čius, ir jie ilgai kariavo vieni su kitais.
+  citata_rodoma: "Paėmė jie daug miestų ir pargrįžo namo l3 .\nO paskui atsiuntė žinią Vykintas, pranešdamas, kad \nvokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­\nsiuntė Tautvilą \", ir jam į pagalbą— rusus bei polovie- \nčius, ir jie ilgai kariavo vieni su kitais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -242,67 +147,48 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   pagrindzia:
     - t-187773
 
-- id: c-170713
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Užsidarė pilyje-vorutoje2 3 , ir
-    55
-
-    ## Puslapis 51
-
-    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
-    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
-    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
-    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
-    mis ietimis, ir vaikėsi po lauką, tarytum turnyre. Ir iš
-    ten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 .
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187774
-
 - id: c-175235
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 74"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Turbūt toks
-    pavadinimas atsirado iš kažkokio šios upės vandens sko­
-    nio ar spalvos panašumo, pastebėto pirmųjų slavų kolo­
-    nistų. Panagrinėkime, kaip buvo sakoma senovėje. Ne­
-    storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­
-    vės, laikė ją apgulę visą vasarą, bet, negalėdami jos
-    įveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-
-    ku2.
+    Tačiau jis prieštarauja sau ir savo tiksliai
+    išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­
+    mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­
+    imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­
+    riojoje Dnepro pakrantėje, į rytus nuo jo. Be to, tvirto­
+    vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
+    taiką; kartu ji nebuvo sunaikinta ir todėl netrukus turė­
+    jo* būti atstatyta. Tatiščevas**, gal geriau žinojęs šiuos
+    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
+    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
+    Jurjevu, stovėjusią prie Osteros upės žiočių.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192441
+    - t-197512
 
 - id: c-175236
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 74"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ka­
-    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
-    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
-    toro žodžius priskiria poloviečių veiksmams dešiniojoje
-    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
-    statytas XII amžiaus pradžioje po to, kai jį sunaikino
-    poloviečiai. Tačiau jis prieštarauja sau ir savo tiksliai
-    išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­
-    mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­
-    imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­
-    riojoje Dnepro pakrantėje, į rytus nuo jo.
+    Tatiščevas**, gal geriau žinojęs šiuos
+    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
+    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
+    Jurjevu, stovėjusią prie Osteros upės žiočių. Reikėtų nu­
+    keliauti toliau į rytus ir gal ten, Doneco ir Dono tarp­
+    upyje, rasime buvusios Giurgevo tvirtovės vietą ir seno­
+    vės upę Ros. Topografiniuose prisiminimuose, apie ku­
+    riuos anksčiau kalbėjome (§ 51), minimas kraštas, kurį
+    aprašome: nuo Oskolo miestelio, esančio prie to paties
+    1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida. S.
+    231). Oskolok, oskoloczok dar rusiškai reiškia drožlę, skiedrą, pliaus­
+    ką, medžio atplaišą (Slownik Ross.
+  citata_rodoma: "Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai. Tačiau jis prieštarauja sau ir savo tiksliai\nišdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­\nmai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­\nimti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­\nriojoje Dnepro pakrantėje, į rytus nuo jo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -313,8 +199,7 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
 - id: c-175237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     95
     Pastabos. Mūsų mokslininkas, lietuvių istorijos tyri­
@@ -333,6 +218,30 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192443
+
+- id: c-179225
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Po
+    šešerių metų antras vadas, vardu Sekalas, užpuolė rusų
+    kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį gro­
+    bį. Nuo tų laikų sėkmės paskatintos poloviečių ordos,
+    visuomet būdamos stipresnės ir pridarydamos daug žalos,
+    nesiliovė puldinėjusios pietinius Rusios kraštus. Ne sy­
+    kį jie buvo smarkiai sutriuškinti, tačiau nebuvo taip pa­
+    laužti, kad liautųsi kovoti. Tik 1101 metais Vladimiras
+    Monomachas laimėjo didelę pergalę prieš poloviečius prie
+    Sutenio. Dar kelis kartus smarkiai sumušti, galop po
+    1121 metais patirto iš graikų sutriuškinimo buvo priversti
+    apie 1127 metus pasitraukti už Volgos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197513
 
 ## Ryšiai
 - Poloviečiai apgulė [[objektai/vietos/Giurgevo tvirtovė]]

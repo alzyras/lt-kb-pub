@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Svodbiškai
 sukurta: '2026-07-12'
 variantai:
-  - svodbiškai
-  - svodbininkas
+  - 'svodbiškai'
+  - 'svodbininkas'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -66,6 +66,7 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
   teiginys: "Šioje apybraižoje piršlys vienoje pusėje veikia kaip eilinis svodbininkas."
   pagrindžia:
     - c-178026
+
 ## Citatos
 
 - id: c-178026

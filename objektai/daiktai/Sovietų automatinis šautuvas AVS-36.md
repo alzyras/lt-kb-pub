@@ -61,21 +61,6 @@ Nenurodyta
   teiginys: "AVS-36 buvo 1936 m. pavyzdžio Simonovo automatinis šautuvas, naudojęs 7,62x54 mm R šovinius ir 15 šovinių dėtuvę."
   pagrindžia:
     - c-41089
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sovietų automatinis šautuvas AVS-36 (Avtomaticheskaya Vintovka Simonova, obrazec
-    1936 goda), 1936 m. pavyzdžio Simonovo automatinis šautuvas. Šovinys - 7,62x54 mm R,
-    > dėtuvė —15 šovinių, šaudymo tempas - 800 šūvių per minutę, svoris 3,8 kg.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

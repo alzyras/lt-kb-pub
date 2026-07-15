@@ -35,37 +35,6 @@ Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu A
   teiginys: "Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu Ač Girėjų."
   pagrindžia:
     - c-169396
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu Ač Girėjų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    L ietuvos isto rija
-    481
-
-    ## Puslapis 480
-
-    Tvarką ir ramybę palaikė ne tiktai tose žemėse, kur
-    gyveno jam pavaldžios ir jį gerbiančios tautos, bet ir
-    kaimyninėse šalyse, kurias privertė jį gerbti. Krymo
-    skitai, mirus jų senajam val-
-    A č  G irėjų  skiria K ry -
-    dovui, kuris nepaliko įpėdi-
-    m o  sk itų  v a ld o v u
-    nio, neišdrįso nieko daryti
-    be Kazimiero žinios, todėl,
-    pasiuntę garbingą pasiuntinybę, paprašė duoti jiems
-    valdovu Ač Girėjų. Šis tremtinio teisėmis gyveno Lie­
-    tuvoje, kur Kazimieras buvo jam paskyręs valdyti di­
-    delę Lydos apygardą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -74,24 +43,23 @@ Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu A
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    L ietuvos isto rija
-    481
-
-    ## Puslapis 480
-
-    Tvarką ir ramybę palaikė ne tiktai tose žemėse, kur
-    gyveno jam pavaldžios ir jį gerbiančios tautos, bet ir
-    kaimyninėse šalyse, kurias privertė jį gerbti. Krymo
-    skitai, mirus jų senajam val-
-    A č  G irėjų  skiria K ry -
-    dovui, kuris nepaliko įpėdi-
-    m o  sk itų  v a ld o v u
-    nio, neišdrįso nieko daryti
-    be Kazimiero žinios, todėl,
-    pasiuntę garbingą pasiuntinybę, paprašė duoti jiems
-    valdovu Ač Girėjų. Šis tremtinio teisėmis gyveno Lie­
-    tuvoje, kur Kazimieras buvo jam paskyręs valdyti di­
-    delę Lydos apygardą.
+    Ilgai dėl jo mirties abejojo
+    ir tauta, ir šeima, nes iš tiesų
+    nebuvo gavę jokios tikros ži­
+    nios, Kazimieras su šeima gedėjo žuvusio brolio, tačiau,
+    nenorėdamas naujais įkalčiais apsunkinti ankstesnės
+    bylos dėl Lietuvos sosto užėmimo, vengė bet kokios
+    minties užimti Lenkijos karalių sostą, džiaugdamasis,
+    kad niekas netiki, jog žuvo tas, kuriam iš broliškos mei­
+    lės linkėjo kuo puikiausios sveikatos. Tarytum karalius
+    būtų dar gyvas, jis nesirūpino lenkų reikalais, visą dė­
+    mesį skirdamas lietuvių valstybės tvarkymui ir stiprini­
+    mui. Tiems, kurių ištikimybę bei narsumą patyrė per
+    ankstesnius karus, suteikė visokiausių pareigybių, no­
+    rėdamas duoti deramą paskatą ir kitiems į juos pana­
+    šiems vyrams, kurie taip reikalingi negandų metais,—
+    šitai ir turi būti svarbiausias valdovų rūpestis taikos
+    metu.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

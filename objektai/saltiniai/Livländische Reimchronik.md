@@ -45,21 +45,6 @@ LReim = Livländische Reimchronik, išl.
   teiginys: "„Livländische Reimchronik“ leidimą parengė Leo Meyeris, o jis buvo išleistas Paderborne 1876 m."
   pagrindžia:
     - c-33654
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    LReim = Livländische Reimchronik, išl. Leo Meyer, Paderborn 1876
-    (Nachdruck 1963, Hildesheim) (cituota pagal eilutes).
-    LTI = Lietuvos TSR Istorija, t. 1, nuo seniausių laikų iki 1861 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

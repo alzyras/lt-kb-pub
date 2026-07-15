@@ -41,37 +41,8 @@ Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką api
   teiginys: "Vytautas patikėjo tariamuoju Brodnicos komtūro laišku ir dėl jo nutraukė Kulmo apgulą."
   pagrindžia:
     - c-169684
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką apie varganą Brodnicos padėtį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Rodė­
-    si, kad miestas netrukus bus
-    K u lm ą
-    supdam as,
-    užkariautas, kad jis vos vieną
-    V y ta u ta s
-    k la stin gai
-    kitą dieną begali laikytis, ir
-    apga u n a m a s
-    štai šitokioje beviltiškoje pa­
-    dėtyje Kiuchelmeisteris su­
-    maniai surado būdą išsigelbėti. Jis sugalvojo parašyti
-    tariamąjį Brodnicos komtūro laišką, kuriuo ordino ma­
-    gistrui pranešama, kokia vargana padėtis Brodnicoje,
-    kad gyventojai čia visiškai neturi nei maisto, nei gink­
-    lų. Jeigu magistras nepaskubėsiąs padėti, priešas ne­
-    abejotinai pulsiąs ir po kelių dienų miestas žūsiąs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Vytautas patikėjo tariamuoju Brodnicos komtūro laišku ir dėl jo nutraukė Kulmo apgulą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -98,8 +69,7 @@ Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką api
 - id: c-169683
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 388"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 388."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Rodė­
     si, kad miestas netrukus bus
@@ -128,18 +98,26 @@ Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką api
 - id: c-169684
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 388"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 388."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Žy­
-    gūnui įsakė joti tokiais keliais, kad atrodytų, jog jisai
-    visai atsitiktinai patekęs Vytauto žvalgams į rankas.
-    Žygūną sugavo, laišką perskaitė ir patikėjo klastote, ir
-    šitaip klastūnas pasiekė, ko norėjo. Mat Vytautas, nė
-    neįtaręs, jog čia esama apgaulės, be to, norėdamas
-    trūks plyš užimti Brodnicą, bematant nutraukė Kulmo
-    apgulą, o vylių suvokė tik tada, kai prie Brodnicos pa­
-    tyrė, jog padėtis čia visai kitokia.
+    Atšaukę
+    kariuomenę, niokojančią kaimus, karalius savo karius
+    nuvedė prie Torunės, o Vytautas lietuvius — prie Rui­
+    mo. Šitoks jėgų išskaidymas Jogailai rodėsi nevykęs,
+    tačiau Vytautas atkakliai laikėsi savo nuomonės ir
+    nuolatos vargino Kulmą antpuoliais ir pabūklais. Rodė­
+    si, kad miestas netrukus bus
+    K u lm ą
+    supdam as,
+    užkariautas, kad jis vos vieną
+    V y ta u ta s
+    k la stin gai
+    kitą dieną begali laikytis, ir
+    apga u n a m a s
+    štai šitokioje beviltiškoje pa­
+    dėtyje Kiuchelmeisteris su­
+    maniai surado būdą išsigelbėti.
+  citata_rodoma: "Žy­\ngūnui įsakė joti tokiais keliais, kad atrodytų, jog jisai\nvisai atsitiktinai patekęs Vytauto žvalgams į rankas.\nŽygūną sugavo, laišką perskaitė ir patikėjo klastote, ir\nšitaip klastūnas pasiekė, ko norėjo. Mat Vytautas, nė\nneįtaręs, jog čia esama apgaulės, be to, norėdamas\ntrūks plyš užimti Brodnicą, bematant nutraukė Kulmo\napgulą, o vylių suvokė tik tada, kai prie Brodnicos pa­\ntyrė, jog padėtis čia visai kitokia."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

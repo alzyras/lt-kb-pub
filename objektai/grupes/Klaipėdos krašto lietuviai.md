@@ -48,43 +48,6 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
   teiginys: "Klaipėdos krašto surašymo duomenimis, krašte gyveno 37 000 lietuvių ir 34 000 lietuviškai namuose kalbėjusių „klaipėdiečių“."
   pagrindžia:
     - c-22464
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Klaipėdos krašto lietuviai politiškai liko ištikimi Vokietijai ir patys sukilti nesiruošė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kadangi Maskva visur stengėsi pakenkti
-    Lenkijai, sovietai akcijai irgi neprieštaravo, o jei Lenkija pajudėtų prieš
-    Lietuvą – sovietai sakė neliksią stebėtojai.
-    Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kul-
-    tūros, liuteronai, o ne katalikai, politiškai liko ištikimi Vokietijai, todėl pa-
-    tys sukilti nesiruošė. Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
-    gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
-    gauti gerus postus administracijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1925 m. Klaipėdos krašto gyventojų surašy-
-    mo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000
-    vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo
-    lietuviškai. Kadangi Lietuva be vidinių skrupulų laikė „klaipėdiečius“ lie-
-    tuviais, skaičiavo krašte esant 50,8 proc. lietuvių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

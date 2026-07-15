@@ -40,28 +40,13 @@ Dusburgietis teigia, kad [Nalepa J.] Polekszanie.—SSS, 1970, t.
   teiginys: "J. Nalepos straipsnis „Polekszanie“ publikuotas SSS 1970 m. 4 tomo 1 dalyje."
   pagrindžia:
     - c-61826
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Nalepos straipsnis „Polekszanie“ publikuotas SSS 1970 m. 4 tomo 1 dalyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    [Nalepa J.] Polekszanie.—SSS, 1970, t. 4, cz. 1, p. 212— 213.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61826
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     [Nalepa J.] Polekszanie.—SSS, 1970, t. 4, cz. 1, p. 212— 213.
   statusas: verified

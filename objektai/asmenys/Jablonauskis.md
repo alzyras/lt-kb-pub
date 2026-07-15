@@ -34,21 +34,6 @@ media_all_json: |-
   teiginys: "Vadas Jablonauskis sušaukė karius, pranešė apie „kirilo“ atsitraukimą ir liepė jiems dainuoti."
   pagrindžia:
     - c-41551
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    [Vadas] Jablonauskis mus sušaukęs pareiškė, kad „kirilas“ jau atsitraukė ir liepė mums
-    dainuoti. Uždainavom balsiai, kiek galėjome; miškas mums pritarė. Beskambant mūsų
-    balsams, sugrįžo ir raitininkai netušti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -75,42 +75,6 @@ Nenurodyta
   teiginys: "1895 m. modelio Winchester šautuvas buvo gamintas JAV pagal Rusijos kariuomenės užsakymą ir naudojo 7,62x54 mm R šovinį."
   pagrindžia:
     - c-44696
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos karininkai
-    pafrontėje žvalgo
-    pozicijas. Vidurinysis
-    laiko amerikietišką
-    1895 m. modelio
-    Winchester šautuvą.
-    1919 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Svoris - 4,12 kg
-
-    1895 m. modelio šautuvas Winchester, gamintas JAV pagal Rusijos kariuomenės užsakymą.
-    Šovinys - 7,62x54 mm R, dėtuves talpa — 5 šoviniai. Ilgis - 1175 mm, vamzdžio ilgis - 710 mm. Svoris - 4,06 kg
-
-    Japoniškas 30 modelio (1897 m.) šautuvas Arisaka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

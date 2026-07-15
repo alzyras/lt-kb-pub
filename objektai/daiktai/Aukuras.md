@@ -9,13 +9,13 @@ datos:
   - '1321 m.'
 date_start: '1321'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - simbolis
   - daiktas
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -145,69 +145,6 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75585|Romuva ir krivis]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
 - susijęs iš [[objektai/zodynas/Romuva krivis.md#claim-t-77805|Romuva krivis]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasak legendos, Birutė pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Iš
-    visų Gedimino giminės, kunigaikščių jis sudarė lietuviškiausią
-    šeimą. Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
-    tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,
-    išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —
-    Vytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­
-    ti ne visų Kęstučio vaikų motina.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Šventaragio slėnyje buvęs aukuras buvo skirtas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ties ta
-    puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­
-    tų, slėnyje, kur nuo senovės augo ąžuolai, kur dabar stovi
-    katedra, iki krikščioniškojo tikėjimo įvedimo ir visą epochą
-    gal iki Gedimino, degė amžinoji ugnis, vadinta Gabija, - die­
-    vaičio Perkūno garbei. Ją saugojo ir kurstė žyniai, o jų vy­
-    riausiasis Krivių Krivaitis buvo pranašas, o Lietuvos kūri­
-    mosi metu gal buvo paprastų ir laisvų žmonių vienas vadų
-    ir patriarchų. Tas slėnis, vadintas Šventaragio, buvo skirtas
-    aukurui, ant kurio pagal lietuvių pagonių papročius degin­
-    davo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo
-    atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­
-    kimu tarnu, šunimis ir žirgu, išbandytu mūšiuose7.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Lotyniškas žodis „rogus“ reiškė aukurą, skirtą mirusiųjų kūnams deginti ir laidoti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau Vilniaus istorija prasideda tik 1321 metais, kai
-    Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,
-    torių. Juk lotynų kalba Rogum v. Ro­
-    gus, reiškia Aukurą, vietą deginti ir
-    laidoti mirusiųjų kūnams. Betgi lie­
-    tuviai nemokėjo lotyniškai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-004
   santrauka: 'Narbutas aukurą aprašo kaip pakilesnę vietą atviroje aikštėje, miškuose arba bestogėje šventykloje su pusės žmogaus ūgio ugniaviete.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -316,19 +253,22 @@ Nenurodyta
 - id: c-171269
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 241"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 241."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Aukurai, ragai (Roha)21 2
-    Senovės žmonių aukurai -  tai tam tikro aukščio pakiles­
-    nės vietos atviroje aikštėje, miškuose arba šventykloje, netu­
-    rinčioje stogo; šiame paaukštėjime, atstojančiame pakopas, bu­
-    vo pusės žmogaus ūgio ugniavietė. Kunigai, stovėdami ant pa­
-    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
-    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
-    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
-    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
-    kai kuriuos, buvusius Perkūno šventyklose.
+    Luno Heliogabalo stabas, kurį
+    Aurelijus Antoninas pastatė Romoje, ant Kapitolijaus kalno,
+    buvo didžiulis juodas akmuo, apie kurį manyta, kad jis nukri­
+    tęs iš dangaus (akmuo - meteoritas).
+    Vėlgi buvo dievybių, kurioms nekūrė nei stabų, nei atvaiz­
+    dų; dažnai dievo vardas, parašytas ant lentos arba iškaltas ak­
+    menyje, atstodavo jų atvaizdą. Kartais adoracijos objektas bū­
+    davo austinė uždanga, pakabinta šventykloje priešais kokį nors
+    sienos įdubimą; dažniausiai tai būdavo slaptosiose šventyklo­
+    se. Iš antikinės istorijos taip pat žinome, kad Gadžio mieste,
+    dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
+    šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
+    jokios statulos, net paties Heraklio.
+  citata_rodoma: "Aukurai, ragai (Roha)21 2\nSenovės žmonių aukurai -  tai tam tikro aukščio pakiles­\nnės vietos atviroje aikštėje, miškuose arba šventykloje, netu­\nrinčioje stogo; šiame paaukštėjime, atstojančiame pakopas, bu­\nvo pusės žmogaus ūgio ugniavietė. Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -339,14 +279,19 @@ Nenurodyta
 - id: c-177012
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 241"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 241."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų
-    dievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų
-    deivės Velionos aukurą kalbėsime straipsnyje „Kapai“. Dievo
-    Perkūno šventyklos aukurą aprašysime straipsnyje „Šventyk­
-    los“.
+    Kartais adoracijos objektas bū­
+    davo austinė uždanga, pakabinta šventykloje priešais kokį nors
+    sienos įdubimą; dažniausiai tai būdavo slaptosiose šventyklo­
+    se. Iš antikinės istorijos taip pat žinome, kad Gadžio mieste,
+    dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
+    šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
+    jokios statulos, net paties Heraklio.
+    Lietuvių stabų dievai, be abejo, turėjo būti daugiausia tos
+    seniausios mados; daugumas dievų, deivių ir dievaičių net ne­
+    turėjo jokių stabų.
+  citata_rodoma: "Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų\ndievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų\ndeivės Velionos aukurą kalbėsime straipsnyje „Kapai“. Dievo\nPerkūno šventyklos aukurą aprašysime straipsnyje „Šventyk­\nlos“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

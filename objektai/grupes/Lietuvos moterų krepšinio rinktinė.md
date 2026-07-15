@@ -44,30 +44,6 @@ Moterų krepšinio rinktinė 1997 m. tapo Europos čempione.
   pagrindžia:
     - c-22630
 
-<a id="claim-t-74757"></a>
-- t-002
-  global_id: t-74757
-  teiginys: "Lietuvos moterų krepšinio rinktinė 1997 m. tapo Europos čempione."
-  pagrindžia:
-    - c-22630
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dar geresni rezultatai pasiekti Europos
-    krepšinio pirmenybėse – 1995 m. iškovota antroji vieta, o 2003 m. Lietu-
-    vos krepšininkai trečią kartą tapo Europos čempionais. Moterų krepšinio
-    rinktinė 1997 m. tapo Europos čempione.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-22630
@@ -86,4 +62,3 @@ Moterų krepšinio rinktinė 1997 m. tapo Europos čempione.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74757
-    - t-74758

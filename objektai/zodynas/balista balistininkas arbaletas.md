@@ -42,8 +42,8 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
   teiginys: "Arbaletas aiškinamas kaip kilpinis lankas, kurio templė įtempiama suktuvu."
   pagrindžia:
     - c-59478
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Arbaletas aiškinamas kaip kilpinis lankas, kurio templė įtempiama suktuvu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,43 +63,22 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
   pagrindžia:
     - t-002
 
-- c-002
-  santrauka: 'Henrikas Tupadelis buvo įgudęs balistininkas, raginęs apsuptuosius gintis ir gesinęs piliai padegti skirtus degalus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Galop vieną dieną visi pakilo  į
-    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
-    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
-    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
-    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
-    piliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o
-    minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam
-    lietuvių vadui ir  jį nukovė, o paleidęs [strėlę]  į kitą priešo kariuomenės dalį, pataikė
-    vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
-    jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59478
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 121"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    106 (101). Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­
-                                         lojaus kalvoje
-
-      Aplink parapinę švento Mikalojaus bažnyčią, ant kalvos prie Karaliaučiaus pilies, broliai
-    buvo įkūrę miestą376; kadangi jis nebuvo deramai sutvirtintas, sembai netikėtai jį užpuolė
-      375 D. — balista, Jer.— armbrost; arbaletas— kilpinis lankas, kurio templė įtempiama
-    suktuvu.
+    Vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos
+    ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
+    nukovė daugybę sembų.
+    108 (103). Apie brolių pergalę prieš sembus Bečių valsčiuje
+    Sembos žemėje yra valsčius, vardu Bečiai381, kur gyveno žiaurūs žmonės, be to, tokie
+    galingi, kad vienas kaimas galėjęs duoti penkis šimtus karui tinkamų vyrų, kurių patys
+    vieni Karaliaučiaus broliai nė nedrįso užkabinti. Dėl to jie paprašė Livonijos magistrą
+    atsiųsti iš savo žemių jiems į pagalbą brolių bei ginklanešių, nurodydami dieną bei
+    vietą, iš kur turėjo kartu traukti į kovą.
   citata_rodoma: "Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­\n                                     lojaus kalvoje\n\n  Aplink parapinę švento Mikalojaus bažnyčią, ant kalvos prie Karaliaučiaus pilies, broliai\nbuvo įkūrę miestą376; kadangi jis nebuvo deramai sutvirtintas, sembai netikėtai jį užpuolė\n  375 D. — balista, Jer.— armbrost; arbaletas— kilpinis lankas, kurio templė įtempiama\nsuktuvu."
   statusas: verified
   teiginio_tipas: faktas
@@ -111,17 +90,16 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 - id: c-59479
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 128"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Galop vieną dieną visi pakilo  į
+    Galop vieną dieną visi pakilo į
     kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
     bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
     Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
     ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
     piliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o
     minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam
-    lietuvių vadui ir  jį nukovė, o paleidęs [strėlę]  į kitą priešo kariuomenės dalį, pataikė
+    lietuvių vadui ir jį nukovė, o paleidęs [strėlę] į kitą priešo kariuomenės dalį, pataikė
     vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
     jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
   citata_rodoma: "Henrikas\nTupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,\nragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]\npiliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o\nminėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam\nlietuvių vadui ir  jį nukovė, o paleidęs [strėlę]  į kitą priešo kariuomenės dalį, pataikė\nvienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė\njam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį."

@@ -79,15 +79,8 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
   pagrindžia:
     - c-79574
 
-<a id="claim-t-55242"></a>
-- t-005
-  global_id: t-55242
-  teiginys: "Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
-  pagrindžia:
-    - c-79573
-
 <a id="claim-t-83199"></a>
-- t-006
+- t-005
   global_id: t-83199
   teiginys: "Iš Barboros rūmų buvo likusios tik neužlygintų tvenkinių žymės."
   pagrindžia:
@@ -104,98 +97,6 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54949|Barbora Radvilaitė]]: Barbora Radvilaitė gyveno rūmuose prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54947|Barbora Radvilaitė]]: Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183848|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Su skausmu ir pa­
-    sibaisėjimu tenka pripažinti, kad
-    1828 metais tuometinė Radvilų pro-
-    kuratorija, pro pirštus žiūrėdama į
-    lietuviams brangius dingusios di­
-    dingos praeities paminklus, atėmė iš
-    miesto ir krašto, ir taip nedaug se­
-    novinių paminklų teturinčio, tuos
-    garbingus ir puikius griuvėsius, par­
-    duodama juos už 500 sidabrinių rub­
-    lių plytoms naujai statomam dvari­
-    ninko Kosobudžkio namui Nr.
-    priemiestyje už Aušros vartų. Dabar
-    jau nebeliko nieko, kas galėtų pri­
-    minti tą gražųjį Barboros būstą, iš­
-    skyrus tiktai iki šiol dar neužlygintų
-    tvenkinių žymes. Mūsų nuomone,
-    nebūtų buvę tinkamesnės vietos vi­
-    suomenės vaikštynėms kaip gražus
-    parkas Radvilų sklype, kur dabar
-    yra medinė krautuvė, ir toliau, kur
-    buvo karalienės Barboros rūmai,
-    tvenkiniai ir sodai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-006
-
-- c-002
-  santrauka: 'Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    272
-
-    ## Puslapis 289
-
-    IV KNYGA
-    Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­
-    teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­
-    lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio
-    atrado kuklumą ir sulaukė prielankumo. Barboros rūmai
-    stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
-    Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
-    Barboros, kol pagaliau su ja susituokė30.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-001
-
-- c-003
-  santrauka: 'Barboros rūmų griuvėsiai stovėjo Vilniuje tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    31
-    Dar prieš kelerius metus Vilnių puo­
-    šė Barboros rūmų griuvėsiai, stovė­
-    ję tarp Katedros ir Šv. Jurgio bažny­
-    čios prie Vilijos. Su skausmu ir pa­
-    sibaisėjimu tenka pripažinti, kad
-    1828 metais tuometinė Radvilų pro-
-    kuratorija, pro pirštus žiūrėdama į
-    lietuviams brangius dingusios di­
-    dingos praeities paminklus, atėmė iš
-    miesto ir krašto, ir taip nedaug se­
-    novinių paminklų teturinčio, tuos
-    garbingus ir puikius griuvėsius, par­
-    duodama juos už 500 sidabrinių rub­
-    lių plytoms naujai statomam dvari­
-    ninko Kosobudžkio namui Nr.
-    priemiestyje už Aušros vartų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
 ## Citatos
 
 - id: c-55844
@@ -256,7 +157,6 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83198
     - t-55242
 
 - id: c-79574
@@ -286,5 +186,5 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83197
     - t-55244
+    - t-83197

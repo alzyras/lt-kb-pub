@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė.
+A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė. Kojelavičiaus tekste tariama Traidenio brolžudystė vadinama piktadaryste, o valstybė po jos vaizduojama likusi našlaitė.
 
 ## Teiginiai
 
@@ -36,35 +36,20 @@ A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad d
   teiginys: "A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė."
   pagrindžia:
     - c-168751
-- susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192085|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    A. Kojelavičiui šitai nerū­
-    pėjo. Jo tekste nauja kitkas: kad tariama brolžudystė
-    vadinama piktadaryste, pabrėžiama, kad dėl jos vals­
-    tybė likusi našlaitė. Šiais dviem žodžiais jis primena,
-    kad valstybės valdžia — ne privatus kunigaikščių, o
-    visos tautos reikalas. Piktadarystė — nusikaltimas prieš
-    valstybę ir religiją, kaip moralės saugotoją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196385"></a>
+- t-002
+  global_id: t-196385
+  teiginys: "Kojelavičiaus tekste tariama Traidenio brolžudystė vadinama piktadaryste, o valstybė po jos vaizduojama likusi našlaitė."
   pagrindžia:
-    - t-001
-
+    - c-178658
+- susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192085|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.
 ## Citatos
 
 - id: c-168751
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 26"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 26."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     A. Kojelavičiui šitai nerū­
     pėjo. Jo tekste nauja kitkas: kad tariama brolžudystė
@@ -79,3 +64,28 @@ A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185390
+
+- id: c-178658
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kol Traidenis prausėsi, žudikai tykojo;
+    kai išėjo iš pirties su tarnais ir kraujo nuleidėjų, ta­
+    riami valstiečiai, stoję iš šalių po tris, žemai nusilenkė,
+    kaip buvo įprasta ko prašant, nužudė ir pabėgo. Čia
+    pat M. Strijkovskis daro analogiją su T. Livijaus ap­
+    rašytu pasikėsinimu prieš Romos karalių Tarkvinijų,
+    matyt, norėdamas pabrėžti panašumą tarp pagoniš­
+    kosios Lietuvos ir Romos. A. Kojelavičiui šitai nerū­
+    pėjo. Jo tekste nauja kitkas: kad tariama brolžudystė
+    vadinama piktadaryste, pabrėžiama, kad dėl jos vals­
+    tybė likusi našlaitė. Šiais dviem žodžiais jis primena,
+    kad valstybės valdžia — ne privatus kunigaikščių, o
+    visos tautos reikalas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196385

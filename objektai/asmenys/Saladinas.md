@@ -37,7 +37,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų jam chaną, vyriausią Tochtamyšo sūnų Saladiną, kuris jo tėvui mirus, buvo pas Vytautą prisiglaudęs.
+1409 m. Vytautas artimose totorių žemėse įkurdino jam paklusnų chaną Saladiną, vyriausią Tochtamyšo sūnų. Saladinas citatoje vadinamas Tochtamišo sūnumi ir ištikimu Lietuvos sąjungininku, po kurio mirties įpėdinis Kerimberdėjus nepakluso Vytautui. Saladinas, Tochtamyšo sūnus, buvo sultonas ir ištikimas Lietuvos sąjungininkas.
 
 ## Teiginiai
 
@@ -72,7 +72,7 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 <a id="claim-t-193976"></a>
 - t-005
   global_id: t-193976
-  teiginys: "O pats Saladinas, atvykęs į Ordą, sėdo į chanų sostą, kaip bu vo didžiojo valdovo, vadinamo Vytautu, liepta."
+  teiginys: "Lietuvos metraštyje Saladinas, Vytauto nurodymu atvykęs į Ordą, atsisėdo į chanų sostą ir tarnavo šlovinguoju valdovu vadinamam Vytautui."
   pagrindžia:
     - c-176601
 - susijęs iš [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas).md#claim-t-35297|Tochtamyšas (Krymo ordos chanas)]]: Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą.
@@ -83,94 +83,6 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 - susijęs iš [[objektai/asmenys/Kerimberdėjus.md#claim-t-87533|Kerimberdėjus]]: Po sultono Saladino mirties Kerimberdėjus atsisakė paklusti Vytautui, todėl Vytautas chanu paskelbė Betsabutą.
 - susijęs iš Toržokas: Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
 - susijęs iš Toržokas: Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nepavykęs Vorsklos mūšis kuriam laikui buvo
-    sustabdęs šį Vytauto įsigalėjimą Rusų pietuose. Bet jau 1409
-    m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų
-    jam chaną, vyriausią Tochtamyšo sūnų Saladiną, kuris jo tėvui
-    mirus, buvo pas Vytautą prisiglaudęs. Žalgirio karo metu ir jisai
-    siuntė Vytautui pagalbos^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau Vilniaus vyskupas Petras tam
-    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
-    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
-    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
-    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
-    ti, ir kuris palaimino tą santuoką.
-    Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
-    su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
-    klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
-    dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
-    skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
-    daugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­
-    tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus
-    pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­
-    tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo
-    paklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu
-    paskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas
-    jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
-    73 nė Ona mirė Trakuose, o palaidota
-    Ona buvo Smolensko kunigaikščio buvo Vilniuje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-003
-  santrauka: 'Ir jis paskyrė jiems chaną, vardu Saladiną7 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Mat, daug buvo
-    Ordos didžiųjų chanų, tarnaujančių jo rūmuose. Ir
-    jis paskyrė jiems chaną, vardu Saladiną7 . O tas chanas,
-    kur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­
-    skyrė chanu savo tarną, neišdrįso priešintis šlovinga­
-    jam valdovui, paliko chanystę ir pabėgo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'O pats Saladinas, atvykęs į Ordą, sėdo į chanų sostą, kaip bu vo didžiojo valdovo, vadinamo Vytautu, liepta.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O tas chanas,
-    kur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­
-    skyrė chanu savo tarną, neišdrįso priešintis šlovinga­
-    jam valdovui, paliko chanystę ir pabėgo. O pats
-    Saladinas, atvykęs į Ordą, sėdo į chanų sostą, kaip bu­
-    vo didžiojo valdovo, vadinamo Vytautu, liepta. Ir tar­
-    navo šlovingajam valdovui, persiėmęs didžia baime.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-79116
@@ -233,10 +145,11 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
   citata_originali: |
     Mat, daug buvo
     Ordos didžiųjų chanų, tarnaujančių jo rūmuose. Ir
-    jis paskyrė jiems chaną, vardu Saladiną7 . O tas chanas,
+    jis paskyrė jiems chaną, vardu Saladiną7. O tas chanas,
     kur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­
     skyrė chanu savo tarną, neišdrįso priešintis šlovinga­
     jam valdovui, paliko chanystę ir pabėgo.
+  citata_rodoma: "Mat, daug buvo \nOrdos didžiųjų chanų, tarnaujančių jo rūmuose. Ir \njis paskyrė jiems chaną, vardu Saladiną7 . O tas chanas, \nkur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­\nskyrė chanu savo tarną, neišdrįso priešintis šlovinga­\njam valdovui, paliko chanystę ir pabėgo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -247,8 +160,7 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 - id: c-176601
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 179."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O tas chanas,
     kur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­

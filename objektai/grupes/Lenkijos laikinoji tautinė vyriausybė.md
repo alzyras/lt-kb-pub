@@ -35,24 +35,6 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
   teiginys: "Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią."
   pagrindžia:
     - c-66039
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pogrindyje susikūrusi Lenkijos laikinoji tauti-
-    nė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią. Vasario 1-ąją
-    atsišaukimais lenkų ir lietuvių kalbomis sukilimo pradžia paskelbta ir
-    buvusios LDK teritorijoje. Baimindamasi Lietuvos „raudonųjų“ radika-
-    lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
-    „baltiesiems“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

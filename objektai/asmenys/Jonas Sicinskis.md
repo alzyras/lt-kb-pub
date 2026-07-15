@@ -35,25 +35,6 @@ Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė rotmi
   teiginys: "Birželio 2–3 d. Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu smogti K. Carlsono Gyllenhielmo kariams."
   pagrindžia:
     - c-44387
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    maistą ir amuniciją. Birželio 2-3 d. LDK di-
-    dysis etmonas Kristupas Radvila Perkūnas
-    pasiuntė rotmistrą Joną Sicinskį su dali-
-    niu, kuris sudavė antrą smūgį K. Carlsono
-    Gyllenhielmo kariams. Pagaliau birželio
-    23 d. prie Kuoknesės pagrindinė Lietuvos
-    kariuomenė stojo prieš švedų pajėgas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

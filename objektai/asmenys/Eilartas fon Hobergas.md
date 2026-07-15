@@ -42,43 +42,6 @@ media_all_json: |-
   teiginys: "Danų vietininkas Taline Eilartas fon Hobergas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti."
   pagrindžia:
     - c-167125
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Žuvo Livonijos ordino magistras Ernestas fon Racburgas, danų vietininkas Taline Eilartas fon Hobergas, tik kai kam pavyko ištrūkti.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ši mašina
-    veikia naudojant
-    sunkio jėgą Šūvio metu nuo
-    kablio atsikabina
-    virve pririštas
-    sviedinys
-
-    Po kiekvieno šūvio svaidymo
-    mašiną aptarnaujantys kariai
-    sukdami rankenas turi pakelti
-    atsvarą
-
-    negalėjo“. Žuvo Livonijos ordino magistras
-    Ernestas fon Racburgas, danų vietininkas
-    Taline Eilartas fon Hobergas, tik kai kam
-    pavyko ištrūkti.
-
-    Atkreiptinas dėmesys į reikšmingą lie-
-    tuvių mūšio taktiką, kurios tikslas buvo
-    išvilioti, tarsi bėgant iš mūšio lauko,
-    dalį priešo pajėgų, o po to persitvarkius
-
-    sumušti priešą dalimis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -115,5 +78,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183737
     - t-40100
+    - t-183737

@@ -39,7 +39,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos maršalkos Rumbaudo antspaudas, bet jis kažkodėl nebuvo prisegtas.
+Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą. Vytautas pasiuntė maršalką Rumbaudą ir Vilniaus vaivadą Gedgaudą į Lenčicą pas Jogailą. Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą.
 
 ## Teiginiai
 
@@ -66,71 +66,8 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
 - susijęs iš [[objektai/asmenys/Radvila.md#claim-t-186171|Radvila]]: Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas imperatorių.
 - susijęs iš [[objektai/asmenys/Vasibutas.md#claim-t-30407|Vasibutas]]: Vasibutas su Rumbaudu ir kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184875|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas su didikais Goštautu, Rumbaudu ir Radvila išvyko pas imperatorių.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.).md#claim-t-185597|Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)]]: Vytautas įsakė maršalui Rumbaudui skubiai sutelkti kariuomenę ir išvyti kryžiuočius iš visos Žemaitijos.
 - susijęs iš [[objektai/zodynas/vaivada.md#claim-t-184643|vaivada]]: Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184707|Goštautas (vyskupas, XV a.)]]: Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautas pasiuntė maršalką Rumbaudą ir Vilniaus vaivadą Gedgaudą į Lenčicą pas Jogailą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kai sužinojo, kad kryžiuočių
-    pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­
-    siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­
-    num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­
-    poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
-    tauto laišką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Grūdų sulaikymas Vytautui akivaizdžiai parodė, ką reiškė
-    neturėjimas Nemuno žiočių, ir tai paskatino jį veikti. Jo pareigū­
-    nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
-    sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­
-    navos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių
-    bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­
-    gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po to prasidėjo ilgos tarpusavio rietenos, kurias
-    nuolat kurstė ir Vytautas, ir
-    lenkai, siuntinėdami žygūnus:
-    Lietuvos didysis kunigaikštis
-    stengėsi iš lenkų išgauti suti­
-    kimą, o šie — priversti Vy­
-    tautą atsisakyti savo sumany­
-    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
-    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
-    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
-    dovo reikalavimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-36494
@@ -175,20 +112,24 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
 - id: c-168185
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 418"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to prasidėjo ilgos tarpusavio rietenos, kurias
-    nuolat kurstė ir Vytautas, ir
-    lenkai, siuntinėdami žygūnus:
-    Lietuvos didysis kunigaikštis
-    stengėsi iš lenkų išgauti suti­
-    kimą, o šie — priversti Vy­
-    tautą atsisakyti savo sumany­
-    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
-    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
-    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
-    dovo reikalavimus.
+    jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
+    siryžęs pasiekti. Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
+  citata_rodoma: "Vytautui išėjus, senatas kuo rimčiau­\nsiai paaiškino karaliui, kad, pritardamas pavojingiems ir \nsuktiems imperatoriaus sumanymams, nusileistų žmo­\ngui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos \npriešas, nes šitai esąs parodęs praeityje ne vieną kar­\ntą. Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie- \nIšsiskiisto Lucko su- \ntė Korčine seimą, norėdamas, \nvažiavimo dalyviai \nkad karalystės luomai nu­\nspręstų, kaip dera priešintis \nnesaikingiems Vytauto potroškiams."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -51,7 +51,6 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
 - susijęs iš St. Peterburgo kodeksas: St. Peterburgo kodekse Narbutas nurodė skaitęs formą „Galindam“.
 - susijęs iš Tacitas, Germania: Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei sarmatams, nei germanams, o jų vakarinė riba siejama su Vysla.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų greta estų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -73,50 +72,29 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbuto perteikiamame Sarmatijos aprašyme „venedų gitonai“ priskiriami mažesnėms gentims prie Vyslos žemupio.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Toliau jis
-    jau kalba apskritai apie visą Sarmatiją: „Sarmatijoje gy­
-    vena gausiausios venedų gentys prie Venedų įlankos
-    (nurodo Baltijos jūros kryptį), o aukščiau dakai, peucinai
-    ir basternai ir visą Meotijos pakrantę užimantys jazigai
-    ir roksolanai, taip pat toliau į sausumos gilumą — ha-
-    maksobai ir alanai-skitai. Mažesnės Sarmatijos gentys
-    gyvena prie Vyslos (tiksliau — jos žemupyje), venedų
-    gitonai ir finai (gal norėjo pasakyti gotai ir svebai), pas­
-    kui sulanai, žemiau jų frungudionai, toliau prie Vyslos
-    ištakų avarinai, žemiau , jų ambronai, toliau anartofrak-
-    tai, už jų burgionai, arsietai, sabocai, toliau pengitai ir
-    besai prie Karpatų kalnų. Iš jų visų arčiausiai prie ve­
-    nedų iš pietryčių yra galindai, sudinai ir stavanai net iki
-    1 St.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-175740
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 98."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Siek tiek labiau venedų reika­
-    lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
-    klauso nei sarmatams, nei germanams, turi daug žemių,
-    vakaruose teka Vysla; jų kaimynai — estai bei gitonai
-    (§§ 66—80), šiaurėje — finai, pietuose — peucinai, o
-    rytuose yra nežinomos sritys. Jie stato namus, gyvena
-    kolonijomis, užsiima žemdirbyste, prekyba, pernicitate gau­
-    dent, turi pėstininkų kariuomenę; jų gyvenimo būdas vi­
-    siškai skiriasi nuo sarmatų klajoklių.
+    Sis aprašymas ap­
+    ima plačius ir labai didžiulius kraštus. Žymusis mūsų
+    senovės tyrinėtojas ponas Suroveckis2 labai gerai aiškina,
+    kad šiose venedų srityse lokalizuoja senų senovės slavų
+    gyvenamąsias vielas, aprašinėdamas ribas kraštų, kur
+    šen bei ten esti slavų valstiečių, kolonijų. Pasak jo, šio
+    venedų krašto ribos buvusios tokios: „Pradedant nuo Vys­
+    los, išilgai estų kraštų, per šiandienį Nemuną (viduryje,
+    kiek žemiau Gardino), Žemaitiją, Livoniją, Estiją (Gu­
+    diją) net iki rytinio Baltijos pakraščio (Suomių įlanką);
+    iš ten pro Volgos ir Dnepro versmes iki Pripetės žiočių,
+    toliau išilgai šios upės iki jos versmių, per dalį Polesės ir
+    Voluinės, per Dnestro aukštupį net ligi Tatrų ir Vyslos,
+    kuri nuo tada buvo vakarų siena, skirianti juos nuo ger­
+    1 De Mor.
+  citata_rodoma: "Siek tiek labiau venedų reika­\nlus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­\nklauso nei sarmatams, nei germanams, turi daug žemių,\nvakaruose teka Vysla; jų kaimynai — estai bei gitonai\n(§§ 66—80), šiaurėje — finai, pietuose — peucinai, o\nrytuose yra nežinomos sritys. Jie stato namus, gyvena\nkolonijomis, užsiima žemdirbyste, prekyba, pernicitate gau­\ndent, turi pėstininkų kariuomenę; jų gyvenimo būdas vi­\nsiškai skiriasi nuo sarmatų klajoklių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -127,8 +105,7 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
 - id: c-175741
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 100"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 100."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Toliau jis
     jau kalba apskritai apie visą Sarmatiją: „Sarmatijoje gy­

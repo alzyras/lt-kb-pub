@@ -66,42 +66,20 @@ Nenurodyta
   teiginys: ") Ordino valdas pavyslyje iki Kristburgo (III, 192)."
   pagrindžia:
     - c-85366
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Traidenis (1269—1282 m.), remdamas žiemgalius,
-    telkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
-    bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
-    sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
-    (III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
-    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,
-    pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
-    po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 
 - id: c-85366
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 12"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Traidenis (1269—1282 m.), remdamas žiemgalius,
     telkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
     bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
     sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
     (III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
-    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,
+    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes,
     pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
     po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
   statusas: verified

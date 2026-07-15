@@ -67,43 +67,6 @@ Nenurodyta
   teiginys: "1919 m. balandžio 16–17 d. lenkai užėmė Lydą, o balandžio 19–21 d. po sunkių kovų užėmė Vilnių ir išstūmė iš jo bolševikus."
   pagrindžia:
     - c-39061
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1919 m. balandžio pradžioje Lietuvos karinė vado-
-    vybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti
-    Vilnių ir pirmiau nei lenkai jį užimti.
-
-    Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.
-    Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį
-    Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezin-
-    kelį pro Lentvarį pulti Vilnių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    — 1919 m. balandžio 16-17 lenkai užėmė Lydą E). Balandžio
-    19-21 d. po sunkių kovų lenkai užėmė Vilnių ir išstūmė bolševikus iš
-    meso Pasitraukus į vakarus vokiečių pajėgoms, lenkai balan-
-    džio 27 d. užėmė Gardin Iki gegužės 1 d. lenkų kariai užėmė
-    Musninkus, Giedraičius £PA, Švenčionis, Adutiši
-    Smurgainis (E).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

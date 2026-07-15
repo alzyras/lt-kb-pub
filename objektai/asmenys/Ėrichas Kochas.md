@@ -44,25 +44,6 @@ Hess), Rytų Prūsijos oberprezidentas Ėrichas Kochas (Erich Koch) ir Vokietijo
 - susijęs iš [[objektai/grupes/Vokiečių nacionalsocialistų partija.md#claim-t-77832|Vokiečių nacionalsocialistų partija]]: 1934–1935 m. Kaune vyko pirmasis Europoje vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.
 - susijęs iš [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas).md#claim-t-75114|Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]: Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
 - susijęs iš [[objektai/paprociai/Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas.md#claim-t-77938|Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas]]: 1934 m. liepą–1935 m. kovą Kaune vykęs teismas buvo pirmasis Europoje vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dauguma kaltinamųjų sakė,
-    kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-
-    vo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems
-    davė nacių vadai Valteris R. Hesas (Walter R. Hess), Rytų Prūsijos ober-
-    prezidentas Ėrichas Kochas (Erich Koch) ir Vokietijos konsulatas Klaipė-
-    doje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22090

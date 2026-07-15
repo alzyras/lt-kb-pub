@@ -55,24 +55,6 @@ Smetona žuvo Klivlande per gaisrą.
 - susijęs iš Prancūzija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos pripažinimą Prancūzijoje ir kitose valstybėse, nepripažinusiose Lietuvos įjungimo į SSRS.
 - susijęs iš Prancūzija: Prancūzija nepripažino prievartinio Lietuvos įjungimo į SSRS sudėtį.
 - susijęs iš Urugvajus: Urugvajus iki 1977 m. buvo tarp valstybių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
-    geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
-    tugaliją išvyko į JAV. Tačiau norėdamas gauti JAV vizą turėjo įsipareigoti
-    nevykdyti politinės veiklos, tad apsiribojo ryšiais su JAV lietuviais ir Lietu-
-    vos diplomatais. 1944 m. sausį A. Smetona žuvo Klivlande per gaisrą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-18292

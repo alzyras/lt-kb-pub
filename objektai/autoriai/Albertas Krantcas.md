@@ -36,37 +36,13 @@ Narbutas rašė, kad Albertas Krantcas neneigė visą laiką žaliavusio švento
   teiginys: "Narbutas rašė, kad Albertas Krantcas neneigė visą laiką žaliavusio šventojo medžio, bet teigė, jog jo rūšies niekas negalėjo nustatyti."
   pagrindžia:
     - c-173263
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašė, kad Albertas Krantcas neneigė visą laiką žaliavusio šventojo medžio, bet teigė, jog jo rūšies niekas negalėjo nustatyti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tą ypatybę kronikininkai priskiria velnio galy­
-    bei, manydami, kad velniai buvo garbinami toje šventykloje
-    šalies dievų pavidalu.
-    Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo­
-    lą, augusį Švedijoje, netoli Upsalos, tačiau Albertas Krantcas* 11,
-    nė kiek neneigdamas, kad tas medis visą laiką žaliavęs, pridu­
-    ria, jog jo rūšies niekas negalėjęs nustatyti. Taigi tai turėjo bū­
-    ti ne ąžuolai, bet kitokios rūšies medžiai, kurie išnyko seniai,
-    dar iki XIII amžiaus, o jų liekana buvo tie milžiniški šventieji
-    medžiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tą ypatybę kronikininkai priskiria velnio galy­
     bei, manydami, kad velniai buvo garbinami toje šventykloje

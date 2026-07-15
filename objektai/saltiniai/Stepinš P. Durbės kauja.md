@@ -7,12 +7,12 @@ datos:
   - '1967 m.'
 date_start: '1967'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad stepinš P.
   teiginys: "P. Stepinšo „Durbės kauja“ išleista Rygoje 1967 m."
   pagrindžia:
     - c-61930
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. Stepinšo „Durbės kauja“ išleista Rygoje 1967 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,14 @@ Dusburgietis teigia, kad stepinš P.
 - id: c-61930
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Stepinš P. Durbės kauja.— Rīga, 1967.
+    — Балто-
+    славянские этноязыковые отношения в историческом и ареальном плане: Тезисы
+    докладов, М, 1983 с. 69.
+    Валиконите И. Социально-экономическое и правовое положение женщин в ВКЛ
+    (конец XV — первая пол.
+  citata_rodoma: "Stepinš P. Durbės kauja.— Rīga, 1967."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

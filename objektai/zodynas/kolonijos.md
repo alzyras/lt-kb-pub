@@ -62,25 +62,6 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
 - susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192253|Phyllantus Emblica]]: Narbuto pasakojimu, Halės botanikas Sprengelis pagal vaisiaus išvaizdą priskyrė gintarą prie Phyllantus Emblica.
 - susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192254|Phyllantus Emblica]]: Narbuto cituojamas Sprengelis svarstė, kad su Phyllantus Emblica sietas prūsų vaisius galėjo būti susijęs su palme.
 - susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192255|Phyllantus Emblica]]: Narbutas Phyllantus Emblica vadina karšto klimato medžiu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ypatingai daug lietuvių vargsta Pietų Amerikoje; čia labiausiai ir
-    reikalinga jiems parama. Čia daug reikia lėšų ne tik organizacijoms,
-    mokykloms ir spaudai, bet taip pat ir ekonominiam gyvenimui pakelti.
-    Pietų Amerika dar tebėra didelių galimybių kraštas, dar dideli
-    žemės plotai tebėra neišnaudoti, ir daugely vietų būtų galima įkurti
-    grynai lietuviškų kolonijų, kokių kad turi kitos tautos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-69263

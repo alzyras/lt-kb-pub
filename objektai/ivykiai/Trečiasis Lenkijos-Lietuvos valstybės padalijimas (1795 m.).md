@@ -71,32 +71,6 @@ Lenkijos-Lietuvos valstybė neteko nepriklausomybės ir priklausė trims imperij
   teiginys: "Po trečiojo padalijimo 1795 m. Lenkijos-Lietuvos valstybė visiškai neteko nepriklausomybės."
   pagrindžia:
     - c-170973
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Sis judėjimas su­
-    stiprino domėjimąsi kalbotyra ir tiesiog pagimdė etnologijos
-    (tautosakos, etnografijos, mitologijos ir pan.) mokslus, o pro­
-    fesinėje kultūroje (ypač literatūroje, muzikoje, vaizduojama­
-    jame mene) įtvirtino naują romantizmo kryptį.
-    Šie Europoje vykstantys audringi socialinio, politinio ir kul­
-    tūrinio gyvenimo procesai negalėjo neveikti ir Lenkijos-Lie­
-    tuvos valstybės, kuri po trečiojo padalijimo (1795 m.) visiškai
-    neteko nepriklausomybės ir priklausė Rusijos, Prūsijos ir Aust­
-    rijos imperijoms. Naujų socialinių ekonominių santykių, nau­
-    jo gyvenimo būdo, naujos kultūros formavimasis čia sutapo
-    su tautinio išsivaduojamojo judėjimo stiprėjimu, su kova už
-    Lenkijos ir Lietuvos nepriklausomybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Data ir vieta
 
@@ -107,8 +81,7 @@ Data: 1795 m.
 - id: c-170973
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 16"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 16."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Sis judėjimas su­
     stiprino domėjimąsi kalbotyra ir tiesiog pagimdė etnologijos
@@ -129,5 +102,5 @@ Data: 1795 m.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187974
     - t-187973
+    - t-187974

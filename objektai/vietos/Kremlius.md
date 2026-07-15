@@ -98,27 +98,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176311|Algirdas (Lietuvos valdovas)]]: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
 - susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-183768|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
 - susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-39674|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
-    ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo
-    Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire. Rem-
-    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
-    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
-    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
-    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
-    Vilnius nevirto „antruoju Kijevu“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-49334

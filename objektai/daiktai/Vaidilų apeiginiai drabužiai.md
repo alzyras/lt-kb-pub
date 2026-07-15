@@ -57,27 +57,8 @@ Nenurodyta
   teiginys: "Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų."
   pagrindžia:
     - c-172548
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas vaidilų apeiginį viršutinį drabužį aprašė kaip ilgą, baltu drobiniu apvadu apsiūtą rūbą su trimis sagomis ir virvelinėmis kilpomis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šie žyniai būdavo ne­
-    vedę*.
-    Vaidilų viršutinis drabužis buvo ilgas, įprastinio sukirpi­
-    mo, apsiūtas baltu drobiniu apvadu; krūtinė būdavo užsega­
-    ma trimis sagomis su trimis poromis baltų virvelinių kilpų, be­
-    sibaigiančių kutais. Baltas drobinis diržas, susegtas sagtimi arba
-    juosta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -100,8 +81,7 @@ Nenurodyta
 - id: c-172547
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 293"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 293."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šie žyniai būdavo ne­
     vedę*.
@@ -120,14 +100,20 @@ Nenurodyta
 - id: c-172548
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 293"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 293."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Drabužio apačioje vienur kitur būdavo prisiuvinėta pė­
-    dos ilgumo gyvulio plaukų kuokštų. Tarnaudami dievams, vai­
-    dilos užsidėdavo ant galvos žalumynų vainikus, nupintus iš
-    šventųjų medžių lapų ir kvapniųjų žolių.
-    Visi vaidilos buvo dvasios ir kūno gydytojai.
+    Puotininkas (Potinikas)
+    Dievo Ragučio žynys; apie juos, kaip apie išskirtinius to
+    dievo puotų ir girtavimų tarnus, kalbėjome jam skirtame
+    straipsnyje.
+    Lygašonys ir tulisonys
+    (Lingussones ir Tilussones)
+    Tai buvo laidotuvių žyniai, kurių pareiga atlikti laidotuvių
+    apeigas ir išpranašauti, kas įvyko mirusiojo sielai po jo mir­
+    ties. Pirmieji praminti nuo senovės prūsų žodžio Linguot, tai
+    reiškia skraidyti ore išskleistais sparnais; antrieji - nuo tokios
+    pat kilmės žodžio Tilussut, reiškiančio murmėti.
+  citata_rodoma: "Drabužio apačioje vienur kitur būdavo prisiuvinėta pė­\ndos ilgumo gyvulio plaukų kuokštų. Tarnaudami dievams, vai­\ndilos užsidėdavo ant galvos žalumynų vainikus, nupintus iš\nšventųjų medžių lapų ir kvapniųjų žolių.\nVisi vaidilos buvo dvasios ir kūno gydytojai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

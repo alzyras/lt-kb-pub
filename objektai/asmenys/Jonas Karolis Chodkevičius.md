@@ -61,25 +61,6 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
 - susijęs iš Smolenskas: 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.
 - susijęs iš Talinas: 1609 m. kovo 16 d. Jonas Karolis Chodkevičius sužinojo, kad iš Talino išsiųstas švedų pastiprinimas buvo 50 km nuo Piarnu.
 - susijęs iš Viljandis: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
-    Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
-    Rygą ir užvaldė Baltijos pakrantes.
-    1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
-    vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
-    turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-21738

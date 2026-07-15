@@ -42,26 +42,6 @@ Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios
   pagrindžia:
     - c-34048
 - susijęs iš [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas.md#claim-t-97291|Gedimino « Geležinio vilko » sapnas]]: Nuo XIX a. Vilniaus įkūrimo legenda siejo miesto pradžią su Gedimino medžiokle ant Taurakalnio ir geležinio vilko sapnu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Geležinio vilko legenda, be abejo, primena
-    Romos vilkę, kai jau lietuviai buvo įsisąmoninę apie savo kilmę
-    iš romėnų. Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo
-    į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
-    «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio
-    vilko » sapno yra nebeįsivaizduojama.
-    Istoriškai yra tikra, kad vėliausiai 1322 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-34048

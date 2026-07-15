@@ -11,14 +11,14 @@ datos:
   - '1282 m.'
 date_start: '1237'
 date_end: '1282'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - žemė
   - upė
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -103,12 +103,12 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   pagrindžia:
     - c-175482
 
-<a id="claim-t-192713"></a>
-- t-010
-  global_id: t-192713
-  teiginys: "Pagudė vakaruose ribojosi su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės ežeras."
+<a id="claim-t-197178"></a>
+- t-011
+  global_id: t-197178
+  teiginys: "Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš pasalos, atkirto jiems kelią į miestą."
   pagrindžia:
-    - c-175483
+    - c-179051
 - susijęs iš Glotava: Glotava laikoma pietrytiniu Pagudės valsčiumi.
 - susijęs iš Łowmiański H., Studja: Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius.
 - susijęs iš [[objektai/asmenys/Ditrichas (Kristburgo komtūras).md#claim-t-60102|Ditrichas (Kristburgo komtūras)]]: Ditrichas Rodė, Kristburgo komtūras, antrosios atskalūnybės metais nusiaubė Pagudę ir mūšyje privertė prūsus bėgti.
@@ -172,7 +172,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60101|Derska]]: Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89170|Pagudėnai]]: Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis nusiaubė Pagudę bei Pamedę.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Magistras ir broliai, keršydami už nužudytuosius, įsiveržė į Pagudės žemę ir ją nusiaubė plėšdami, degindami bei imdami belaisvius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -190,28 +189,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie karą su pagudėnais ir Elbingo pilies pastatymą
-
-       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
-    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
-    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
-    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
-    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
-    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
-    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
-    išaugo miestas242.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-002
 
 - c-003
   santrauka: 'Kai pavergta Pagudė ir kitos prūsų žemės vėl bandė sukilti prieš kryžiuočius, Skomanto vadovaujama kariuomenė 1277 m. siaubė Ordino valdas.'
@@ -251,22 +228,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   pagrindžia:
     - t-006
 
-- c-005
-  santrauka: 'Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsų žemė į šiaurės rytus nuo
-    Pamedės, vakaruose siekė dab. Elbingo apylinkes, o rytuose — Alnos upę. Kartais kaip
-    rytų riba nurodoma labiau  į vakarus esanti Pasarės (Pasargės, dab. Paslenkos) upė
-    (GAO, p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
 - c-006
   santrauka: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko su šeimomis į Elbingą ir susidėjo su broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -279,9 +240,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
     su broliais.
 
-
-
-
                 169 (164).
   citata_rodoma: ''
   statusas: verified
@@ -290,27 +248,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-
-- c-007
-  santrauka: 'Kristburgo komtūras Ditrichas Rodė antrosios atskalūnybės metais su brolių ir maldininkų šimtine apiplėšė Pagudės žemę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
-    patraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko
-    namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo,
-    pasisuko  į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė
-    prūsus bėgti, o broliai ir maldininkai, juos besivydami, tiek daug jų nukovė, kad vargu
-    per vieną dieną toks mažas karių pulkelis būtų kada pajėgęs nukauti. Paimtieji į nelaisvę
-    prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią
-    mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip
-    palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - c-008
   santrauka: 'Narbutas Pagudės pavadinimą kildino iš Jesse arba Wesseke upės, prie kurios, jo aiškinimu, buvo šios žemės.'
@@ -330,43 +267,21 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   pagrindžia:
     - t-009
 
-- c-009
-  santrauka: 'Pagudė vakaruose ribojosi su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės ežeras.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    346
-
-    ## Puslapis 357
-
-    Pagudė
-    Trečia — Pagirdės — provincija vakaruose ribojosi
-    su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės
-    ežeras. Šiaurėje ją skalavo Aistmarės, rytuose — Pasar-
-    gės, o pietuose — Veisiikos upės, bent jau ji driekėsi ne
-    toliau už tos upės ir jai priklausančios Holando kalvos.
-    Iš to jau matyti, jog ji buvo viena mažiausių apylinkių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
 ## Citatos
 
 - id: c-86946
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
     subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,
-    plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami  į nelaisvę.
+    plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami į nelaisvę.
     Be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones
     išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo
     taika.
+    172 (167).
+  citata_rodoma: "Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,\nsubūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,\nplėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami  į nelaisvę.\nBe to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones\nišsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo\ntaika."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -377,8 +292,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-86947
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 77"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie karą su pagudėnais ir Elbingo pilies pastatymą
 
@@ -395,21 +309,23 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91229
     - t-91224
+    - t-91229
 
 - id: c-86948
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 12"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vis dėlto Lietuva ir toliau liko pagrindinė,
-    vadovaujanti jėga kovoje prieš Ordiną. Traidenis (1269—1282 m.), remdamas žiemgalius,
-    telkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
-    bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
-    sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
-    (III, 192).
+    1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
+    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes,
+    pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
+    po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui). Tai rodo glaudžius
+    prūsų, jotvingių, lietuvių ir kt. baltų ryšius, jų bendrą kovą. Tačiau sudėtinga tarptautinė
+    padėtis, nauji Aukso ordos feodalų antpuoliai iš pietryčių (1275, 1279, 1282 m.) trukdė
+    baltams bendrai kovoti prieš Ordino, Lenkijos ir kitų katalikiškųjų Vakarų Europos šalių
+    feodalų agresiją ir leido kryžiuočiams iki 1283 m. pavergti sūduvių, prūsų žemes iki
+    Nemuno žemupio.
   citata_rodoma: "Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl\nbandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga\nsūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo\n(III, 192)."
   statusas: verified
   teiginio_tipas: faktas
@@ -421,13 +337,13 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-86951
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Prūsai ir Lietuva
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
     vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
@@ -443,8 +359,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-86952
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Prūsų žemė į šiaurės rytus nuo
     Pamedės, vakaruose siekė dab. Elbingo apylinkes, o rytuose — Alnos upę. Kartais kaip
@@ -460,21 +375,20 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-86953
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 146"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    168 (163). Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
-               apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
-
-      Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie
-    Pagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,
-    paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
-    su broliais.
-
-
-
-
-                169 (164).
+    Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
+    1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
+    broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami
+    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške, iš kur
+    keli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie
+    savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
+    Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
+    pasalos, atkirto jiems kelią į miestą. Persekiojami miestiečiai, nestengdami priešintis
+    tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum
+    pilis. Atskubėję pagudėnai smarkiai užpuolė malūną. Kadangi miestiečiai, dar nepailsę,
+    naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
+    laiką nieko nedarė.
   citata_rodoma: "Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir\n           apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių\n\n  Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie\nPagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,\npaliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo\nsu broliais.\n\n\n\n\n            169 (164)."
   statusas: verified
   teiginio_tipas: faktas
@@ -486,13 +400,12 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-86954
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
-    patraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko
+    patraukė su šimtine brolių bei maldininkų žygin ir, apiplėšęs Pagudės žemę, pasuko
     namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo,
-    pasisuko  į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė
+    pasisuko į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė
     prūsus bėgti, o broliai ir maldininkai, juos besivydami, tiek daug jų nukovė, kad vargu
     per vieną dieną toks mažas karių pulkelis būtų kada pajėgęs nukauti. Paimtieji į nelaisvę
     prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią
@@ -509,15 +422,22 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-175482
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    258
-    Pagudė (Pojessania.). Pavadinimą gavo nuo Jesse, ar­
+    Pavadinimą gavo nuo Jesse, ar­
     ba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­
     ties sudėtinė dalis buvo Hokerlandija, arba hokrų kraš­
     tas, turėjęs taip vadintą gentį, o anot kitų, šis pavadini­
-    mas turėtų būti atsiradęs dėl vietovės kalvotumo.
+    mas turėtų būti atsiradęs dėl vietovės kalvotumo. Pasak
+    Pretorijaus, Poiein ziemme senovės prūsams turėjo reikš­
+    ti galingos genties žemę1. Šioje provincijoje, prie to pa­
+    ties pavadinimo ežero, buvęs Truso prekybos miestas, da­
+    bar netoli šiandienio Elbliongo. Rytuose ji ribojosi su
+    Varmija, pietuose— su Mazovija, kur buvo dvi tos pa­
+    čios provincijos nepriklausomos Sasuvos ir Liubavos že­
+    mės, arba apskritys, vakaruose — su Ruimu ir Pamede,
+    1 Ibidem.
+  citata_rodoma: "258\nPagudė (Pojessania.). Pavadinimą gavo nuo Jesse, ar­\nba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­\nties sudėtinė dalis buvo Hokerlandija, arba hokrų kraš­\ntas, turėjęs taip vadintą gentį, o anot kitų, šis pavadini­\nmas turėtų būti atsiradęs dėl vietovės kalvotumo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -525,28 +445,23 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   pagrindzia:
     - t-192712
 
-- id: c-175483
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- id: c-179051
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    346
-
-    ## Puslapis 357
-
-    Pagudė
-    Trečia — Pagirdės — provincija vakaruose ribojosi
-    su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės
-    ežeras. Šiaurėje ją skalavo Aistmarės, rytuose — Pasar-
-    gės, o pietuose — Veisiikos upės, bent jau ji driekėsi ne
-    toliau už tos upės ir jai priklausančios Holando kalvos.
-    Iš to jau matyti, jog ji buvo viena mažiausių apylinkių.
+    Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
+    pasalos, atkirto jiems kelią į miestą. Persekiojami miestiečiai, nestengdami priešintis
+    tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum
+    pilis. Atskubėję pagudėnai smarkiai užpuolė malūną. Kadangi miestiečiai, dar nepailsę,
+    naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
+    laiką nieko nedarė.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192713
+    - t-197178
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Glotava]]

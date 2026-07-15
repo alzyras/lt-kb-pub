@@ -42,32 +42,6 @@ Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta 
   teiginys: "1422 m. Vilniui leista drauge su svarbiausiais karalystės miestais laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą."
   pagrindžia:
     - c-84242
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1422 m. Vilniui leista drauge su svarbiausiais karalystės miestais laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Valakijos kunigaikščiai jo globos sie­
-    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
-    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
-    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
-    Žygimantą Kaributaitį, savo sūnėną. Vilniaus miesto reikšmė
-    jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių
-    karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos
-    su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.
-    75
-    Žr. Stryjkowski, p. 518, ed. ac Vitoldum Ducem Lithuaniae, Duces-
-    Varšuv. que Masoviae ab um, et Paulum deRus-
-    76 dorf, Magistrum Cruciferorum et suum
-    Kojałowicz,Pars.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

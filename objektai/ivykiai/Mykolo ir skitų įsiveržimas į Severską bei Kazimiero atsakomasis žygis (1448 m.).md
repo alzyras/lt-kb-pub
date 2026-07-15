@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1448 m. Mykolui su skitais įsiveržus į Severską, Kazimieras atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.
+1448 m. Mykolui su skitais įsiveržus į Severską, Kazimieras atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių. Po skitų įsiveržimo lenkai ir lietuviai pradėjo įtarinėti karalių: lenkai kalbėjo apie slaptus susitarimus, o lietuviai kaltino jį neapdairumu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -53,63 +53,44 @@ Nenurodyta
   teiginys: "1448 m. Mykolui su skitais įsiveržus į Severską, Kazimieras atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių."
   pagrindžia:
     - c-169116
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: '1448 m. Mykolui su skitais įsiveržus į Severską, Kazimieras atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    V ilniaus
-    seim as n u ta rė  p e rk e lti d ery b as į L iubliną.
-    K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
-    gužės pabaigoje, Mykolas su
-    1448 m e ta i
-    sk itais įsiv eržė į Severską ir,
-    Sum u ša M y k o lą  Se-
-    sum ušęs greitosiom is sutelk-
-    v e r s k e
-    tas jėg as, jam  p asto ju sias k e ­
-    lią, p aėm ė Brianską, Naugar-
-    dą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,
-    dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė
-    į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį
-    karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų
-    žemių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196228"></a>
+- t-002
+  global_id: t-196228
+  teiginys: "Po skitų įsiveržimo lenkai ir lietuviai pradėjo įtarinėti karalių: lenkai kalbėjo apie slaptus susitarimus, o lietuviai kaltino jį neapdairumu."
   pagrindžia:
-    - t-001
+    - c-169116
 
 ## Citatos
 
 - id: c-169116
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 486"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 486."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    V ilniaus
-    seim as n u ta rė  p e rk e lti d ery b as į L iubliną.
-    K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
-    gužės pabaigoje, Mykolas su
-    1448 m e ta i
-    sk itais įsiv eržė į Severską ir,
-    Sum u ša M y k o lą  Se-
-    sum ušęs greitosiom is sutelk-
-    v e r s k e
-    tas jėg as, jam  p asto ju sias k e ­
-    lią, p aėm ė Brianską, Naugar-
-    dą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,
-    dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė
-    į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį
-    karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų
-    žemių.
+    Š tai dėl to ir lenkai, ir lie­
+    tuviai pradėjo šnairuoti į karalių: lenkai manė, jog
+    skitai įsiveržė į Podolę dėl
+    L en k a i
+    ir
+    lie tu v ia i
+    to, kad sudarė kokius slaptus
+    p r a d e d a įta rin ėti ka-
+    susitarimus su karaliumi, o
+    ralių
+    lietuviai B učackio elgesį aiš­
+    k in o si karaliaus neapdairu­
+    mu. L enkai pirmieji atvirai jį užsipuolė, reik alau d am i
+    su šau k ti luom us į Piotrkovo seim ą. T am e seim e jie v i­
+    saip rag in o k a ra lių n iek o n ed a ry ti B učackui, atėm u siam
+    iš lietuvių Chmelniką ir M edžibožą, be to, neatiduoti
+    u žg ro b tų P odolės žem ių lietu v iam s, o su siru o šu s iš L en­
+    k ijo s į L ietuvą, n iek u b ū d u n esu g a lv o ti leistis į k elią
+    be lenkų senatorių.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185755
+    - t-196228

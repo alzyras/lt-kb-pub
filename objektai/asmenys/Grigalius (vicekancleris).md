@@ -54,9 +54,7 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - susijęs iš [[objektai/asmenys/Jonas (kancleris).md#claim-t-60342|Jonas (kancleris)]]: Kancleris Jonas buvo tarp liudytojų, dalyvavusių apie 1226 arba 1230 m. patvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/asmenys/Mykolas (Kujavijos vyskupas).md#claim-t-60390|Mykolas (Kujavijos vyskupas)]]: Kujavijos vyskupas Mykolas buvo tarp liudytojų, dalyvavusių tvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/asmenys/Parfėjus.md#claim-t-87925|Parfėjus]]: Pskoviečiai pasiuntė valdovo vietininką Parfėjų pas Vytautą tartis dėl belaisvių išpirkimo.
-- susijęs iš [[objektai/asmenys/Petras Semaška.md#claim-t-186247|Petras Semaška]]: Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėnų legatą į Liubliną.
 - susijęs iš [[objektai/asmenys/Silvestras Levontjevičius.md#claim-t-87928|Silvestras Levontjevičius]]: Pskoviečiai pasiuntė posadniką Silvestrą Levontjevičių pas Vytautą derėtis dėl belaisvių išpirkimo.
-- susijęs iš [[objektai/asmenys/Teodoras Vodka.md#claim-t-186260|Teodoras Vodka]]: Teodoras Vodka buvo tarp didikų, kurie karaliaus įsakymu su didele pagarba atlydėjo maskvėnų legatą į Liublino seimą.
 - susijęs iš [[objektai/asmenys/Vilhelmas (dekanas).md#claim-t-60462|Vilhelmas (dekanas)]]: Dekanas Vilhelmas dalyvavo kaip liudytojas tvirtinant apie 1226 arba 1230 m. sudarytą Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams.md#claim-t-62844|Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]: Kulmo ir Lubavos žemių dovanojimui patvirtinti buvo išduotas raštas su antspaudu, kad dovanojimo nebūtų galima atšaukti.
 - susijęs iš [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams.md#claim-t-62846|Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]: Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams, suteikiant jiems visas turėtas teises ir naudas.
@@ -70,40 +68,12 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - susijęs iš [[objektai/zodynas/daiktiški ir dvasiški ginklai dvasios ginklai.md#claim-t-58935|daiktiški ir dvasiški ginklai dvasios ginklai]]: Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.
 - susijęs iš [[objektai/zodynas/daiktiški ir dvasiški ginklai.md#claim-t-58934|daiktiški ir dvasiški ginklai]]: Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.
 - susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192172|jurisdikcija]]: 1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Apie 1226 (1230) m. vicekancleris Grigalius dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
-    pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
-    esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,
-    viešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius
-    visas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei
-    teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
-    šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims. Kad
-    šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti,
-    išdavė jiems raštą, kurį patvirtino savo antspaudu172. Šitai padaryta apie 1226 (1230)
-    viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui
-    Giunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
-    Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
-    Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60928
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 46"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 46."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
     pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
@@ -115,7 +85,7 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
     šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti,
     išdavė jiems raštą, kurį patvirtino savo antspaudu172. Šitai padaryta apie 1226 (1230)
     viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui
-    Giunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
+    Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
     Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
     Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
   citata_rodoma: "Šitai padaryta apie 1226 (1230)\nviešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui\nGiunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui\nVilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui\nJonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174."

@@ -48,20 +48,6 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
   teiginys: "Mezliavą svietas skirdavo ūkės reikalų nuo namų darbo atitrauktiems vyresniesiems išlaikyti."
   pagrindžia:
     - c-09769
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Viršiau minavotiems vyresniesiems, kuriuos ūkės reikalai trukino nuo namų darbo, tiems svietas metė mezliavą, kaipo negalintiems patiems sau duonos užpelnyti, kožnas pagal savo knebinį^1073 ; ir taip kurie javus sėjo, tie davė jiems duonos, o jų arkliams avižų, kaipogi toj gadynėj vyresnieji raiti jodė po svietą, ne važiojos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

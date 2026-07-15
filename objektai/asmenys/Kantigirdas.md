@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - tikėjimas
   - bajoras
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -42,13 +43,19 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
   teiginys: "Brolis Liudvikas iš Libencelės pas magistrą Konradą atsivedė Kantigirdą, kurio anksčiau buvo paimtas į nelaisvę."
   pagrindžia:
     - c-60785
+
+<a id="claim-t-197111"></a>
+- t-003
+  global_id: t-197111
+  teiginys: "Kantigirdas pasitraukė pas brolius ir priėmė krikštą."
+  pagrindžia:
+    - c-179029
 - susijęs iš [[objektai/asmenys/Liudvikas iš Libencelės.md#claim-t-59885|Liudvikas iš Libencelės]]: Antrą kartą patekęs į nelaisvę Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175138|Sūduviai-jotvingiai]]: Brolis Liudvikas iš Libencelės atvedė magistrui Konradui Kantigirdą ir 1600 sūduvių, kuriuos nelaisvėje buvo atvertęs į Kristaus tikėjimą.
 - susijęs iš [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę.md#claim-t-59460|Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]: Antrą kartą patekęs į nelaisvę, brolis Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai.
 - susijęs iš [[objektai/ivykiai/Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas.md#claim-t-89369|Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas (pilis, XVI a.)]]: Liudvikas iš Libencelės pas magistrą Konradą atvedė Kantigirdą ir 1600 sūduvių, kuriuos nelaisvėje atvertė į Kristaus tikėjimą.
 - susijęs iš [[objektai/ivykiai/Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas.md#claim-t-89370|Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas (pilis, XVI a.)]]: Liudvikas iš Libencelės pas magistrą atvedė Kantigirdą ir 1600 abiejų lyčių sūduvių, kuriuos nelaisvėje atvertė į Kristaus tikėjimą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Brolis Liudvikas iš Libencelės pas magistrą Konradą atsivedė Kantigirdą, kurio anksčiau buvo paimtas į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -68,42 +75,21 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
   pagrindžia:
     - t-002
 
-- c-002
-  santrauka: 'Kantigirdas buvo kilmingasis, kurio globai pateko antrą kartą į nelaisvę paimtas brolis Liudvikas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Neilgai trukus jį aptiko sūduviai ir, uždėję ant arklio taip, kad galva bei rankos karojo
-    viename arklio šone, o kojos kitame, nusigabeno, bet taip nevykusiai, kad iš apkrešėjusių
-    žaizdų vėl smarkiai paplūdo kraujas, o šitai ir išgelbėjo sužeistąjį, kaip jis pats vėliau
-    teisingai sakė. Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
-    kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
-
-
-
-
-        213 (208).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60785
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tuo metu  tas  pats  brolis Konradas,  magistras, rūpindamasis jam  patikėtomis
+    Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
+    mą
+    Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis
     pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią
     tikėjimo priešus sūduvius. Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;
     kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su
     savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų
-    lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė  į Kristaus tikėjimą. Juos išvydęs,
+    lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė į Kristaus tikėjimą. Juos išvydęs,
     magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512.
   citata_rodoma: "Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;\nkai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su\nsavimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų\nlyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė  į Kristaus tikėjimą."
   statusas: verified
@@ -116,19 +102,14 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
 - id: c-60786
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 168"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Neilgai trukus jį aptiko sūduviai ir, uždėję ant arklio taip, kad galva bei rankos karojo
     viename arklio šone, o kojos kitame, nusigabeno, bet taip nevykusiai, kad iš apkrešėjusių
     žaizdų vėl smarkiai paplūdo kraujas, o šitai ir išgelbėjo sužeistąjį, kaip jis pats vėliau
     teisingai sakė. Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
     kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
-
-
-
-
-        213 (208).
+    213 (208).
   citata_rodoma: "Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną\nkilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.\n\n\n\n\n    213 (208)."
   statusas: verified
   teiginio_tipas: faktas
@@ -136,3 +117,22 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60153
+
+- id: c-179029
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę
+    galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei
+    smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais
+    šimtais vyrų bei moterų jis pasitraukė pas brolius ir priėmė krikštą. Tačiau Skurdą516,
+    kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į
+    Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
+    220 (215).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197111

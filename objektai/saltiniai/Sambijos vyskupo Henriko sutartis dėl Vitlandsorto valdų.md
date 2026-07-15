@@ -35,34 +35,13 @@ Sambijos vyskupas Henrikas sutartimi perleido Vitlandsorto valdas Ordinui už at
   teiginys: "Sambijos vyskupas Henrikas sutartimi perleido Vitlandsorto valdas Ordinui už atlyginimą, kad šis galėtų pastatyti laivų saugumą užtikrinančią tvirtovę."
   pagrindžia:
     - c-174738
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sambijos vyskupas Henrikas sutartimi perleido Vitlandsorto valdas Ordinui už atlyginimą, kad šis galėtų pastatyti laivų saugumą užtikrinančią tvirtovę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Aiškiausiai apie tai kalba
-    Sambijos vyskupo Henriko sutartis, paminėta Dregerio*
-    (p. 476; et in act. Boruss. T. III. P. 146), kuria jis savo
-    žemės vaidas, esančias Vitlandsorte, perleidžia už atly­
-    ginimą Ordinui, siekdamas suteikti jam galimybę pasta­
-    tyti ten tvirtovę, kuri garantuotų įplaukiančių ir išplau­
-    kiančių laivų saugumą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174738
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 349"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 349."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Aiškiausiai apie tai kalba
     Sambijos vyskupo Henriko sutartis, paminėta Dregerio*

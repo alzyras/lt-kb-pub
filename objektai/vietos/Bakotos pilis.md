@@ -35,27 +35,6 @@ Karijotaičiai Podolėje pastatė Smotričo, Bakotos, Kameneco pilis, užage —
   teiginys: "Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis."
   pagrindžia:
     - c-45032
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    lės jų baskakams. Karijotaičiai
-    Podolėje pastatė Smotričo,
-    Bakotos, Kameneco pilis, už-
-
-    age
-
-    —
-
-    valdė visą šią žemę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

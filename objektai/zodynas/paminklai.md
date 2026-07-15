@@ -80,6 +80,8 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   teiginys: "Teodoras Narbutas teigia, kad Prūsų kronikininkai paliko įspūdingą paminklų lobį, bet daug nutylėjo ir praleido."
   pagrindžia:
     - c-175346
+- susijęs iš [[objektai/paprociai/Vilnius — tikras lobis.md#claim-t-200857|Vilnius — tikras lobis]]: Mikalojus Vorobjovas Vilnių vadino lobiu meno istorijos studijoms, nes miesto paminklai rodo Europos stilių raidą nuo gotikos iki empiro.
+- susijęs iš [[objektai/posakiai/Vilnius — tikras lobis.md#claim-t-200840|Vilnius — tikras lobis]]: Mikalojus Vorobjovas Vilnių vadino lobiu meno istorijos studijoms, nes miesto paminklai rodo Europos stilių raidą nuo gotikos iki empiro.
 - susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192276|pilkapis]]: Teodoro Narbuto užrašytuose pasakojimuose kaimiečiai neliečia pilkapių iš pagarbos po jais besiilsinčių žmonių palaikams.
 - susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190938|Nestoras]]: Teodoro Narbuto vertinimu, Nestoras, vadinamas rusų istorijos tėvu, rado mažai medžiagos ir užrašė tik sutrumpintas senų padavimų liekanas.
 - susijęs iš [[objektai/autoriai/Nestoras.md#claim-t-191534|Nestoras]]: Narbutas Nestorą vadino rusų istorijos tėvu ir rašė, kad jis užrašė tik sutrumpintas senų padavimų liekanas.
@@ -90,103 +92,12 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192282|pilkapis]]: Teodoro Narbuto užrašytuose vietos pasakojimuose pilkapiai priskiriami neatmenamos senovės epochai.
 - susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192279|pilkapis]]: Teodoro Narbuto užrašytuose vietos padavimuose pilkapiai visuomet laikomi kapais.
 - susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192282|pilkapis]]: Teodoro Narbuto užrašytuose vietos pasakojimuose pilkapiai priskiriami neatmenamos senovės epochai.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Buvo sudaužytos gimtųjų dievų statulos, su­
-    griautos šventyklos, iškirsti šventieji šilai, įvesta kita
-    kalba, uždrausti vieši susiėjimai įprastose šventose vie­
-    tose, kur giesmės, pasakojimai ir sakmės primindavo da­
-    lykus, susijusius su brangiais gimtaisiais prisiminimais.
-    O šie praradimai palaidojo neįkainojamą tautos istoriją,
-    kuria ji, kaip įprasta, garsėjo šioje šiaurinėje žemėje, tu­
-    rėdama iš tiesų nepatvarius paminklus, bet iš kartos į
-    kartą atstatomus iš paveldėtos tautiškumo meilės. Pir­
-    mą šių raštų tomą skyrėme tam, kad atskleistume bran­
-    gius lietuvio širdžiai mitologinius paminklus, iš kurių
-    trykšta istorijos šaltiniai; šiame tome dėstysime pačią
-    istoriją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-    - t-006
-
-- c-002
-  santrauka: 'Teodoras Narbutas tautinius paminklus vaizduoja kaip su laisve ir namų taika susijusius tautos atminties ženklus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ginkluoti krikštyto­
-    jai, turėdami laukines širdis ir atlikdami baisius darbus,
-    užkariaudami tautas, buvo taip pamiršę žmogų, kad kaip
-    ir žiauriausi barbarai, atimdavo gyvybę ir jam už gyvybę
-    brangesnius tautinius paminklus, laisvę ir namų taiką.
-    Nelaimė netgi lėmė, kad ir švelniais būdais priimant švie­
-    są kitose lietuvių žemės šalyse tautos prarado visas savo
-    senienas: arba iš anksto kruvinais karais pažymėtomis
-    išmokomis apmokėdavo už savo savitumą, arba krikščio­
-    nių kunigų nusistatymas be išlygų išnaikino krašto pa­
-    minklus. Buvo sudaužytos gimtųjų dievų statulos, su­
-    griautos šventyklos, iškirsti šventieji šilai, įvesta kita
-    kalba, uždrausti vieši susiėjimai įprastose šventose vie­
-    tose, kur giesmės, pasakojimai ir sakmės primindavo da­
-    lykus, susijusius su brangiais gimtaisiais prisiminimais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Teodoras Narbutas Prūsų kronikininkus vaizduoja palikusius įspūdingą paminklų lobį, bet daug ką nutylėjusius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau jis nesuskubo įgyvendin­
-    ti visų savo ketinimų. Iš tikrųjų jis negailėjo darbo, bet
-    nemokėjo juo laimingai naudotis. Prūsų kronikininkai pa­
-    liko mums įspūdingą paminklų lobį, bet jie daug ką nu­
-    tylėjo, dar daugiau praleido dėl neatidumo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Teodoras Narbutas teigia, kad Prūsų kronikininkai paliko įspūdingą paminklų lobį, bet daug nutylėjo ir praleido.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Iš tikrųjų jis negailėjo darbo, bet
-    nemokėjo juo laimingai naudotis. Prūsų kronikininkai pa­
-    liko mums įspūdingą paminklų lobį, bet jie daug ką nu­
-    tylėjo, dar daugiau praleido dėl neatidumo. Latvių, arba
-    Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
-    randa nemažai vertingų tautos istorijos perlų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-175025
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 29"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Buvo sudaužytos gimtųjų dievų statulos, su­
     griautos šventyklos, iškirsti šventieji šilai, įvesta kita
@@ -209,13 +120,11 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   pagrindzia:
     - t-192139
     - t-192567
-    - t-006
 
 - id: c-175026
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 29"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ginkluoti krikštyto­
     jai, turėdami laukines širdis ir atlikdami baisius darbus,
@@ -243,14 +152,25 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - id: c-175027
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 30"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau jis nesuskubo įgyvendin­
-    ti visų savo ketinimų. Iš tikrųjų jis negailėjo darbo, bet
-    nemokėjo juo laimingai naudotis. Prūsų kronikininkai pa­
-    liko mums įspūdingą paminklų lobį, bet jie daug ką nu­
-    tylėjo, dar daugiau praleido dėl neatidumo.
+    mingiau susiję su vokiečių tauta, turi .pilnesnius ir geres­
+    nius už mus savo istorijų aprašymus; jų kronikininkų
+    skaičius yra ženklus. Mokytos plunksnos dirbo ir dabar
+    darbuojas i prie jų istorijos: Kocebus* parašė senovės
+    Prūsų istoriją, pelniusią didelį pripažinimą; mokslingasis
+    ponas Foi'gtas** baigia išleisti paskutinius pilnos tos
+    pačios istorijos tomus, kurių bus astuoni; šis visiškai už­
+    baigtas veikalas savo verte pranoksta visus lig tol žino­
+    mus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­
+    nikomis, o jie yra iš visur sukaupti Karaliaučiuje. Šie
+    šaltiniai mokslininkams buvo žinomi: mūsų rusiškieji se­
+    novės tyrėjai netgi padarė išsamiai ir tvarkingai surink­
+    tų, reikalingų ištraukų atsargas, o ponas Foigtas pats
+    nepaprastu savo darbštumu, genialumu ir talentais at­
+    skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
+    vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
+    ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
   citata_rodoma: "Prūsų kronikininkai pa­\nliko mums įspūdingą paminklų lobį, bet jie daug ką nu­\ntylėjo, dar daugiau praleido dėl neatidumo."
   statusas: verified
   teiginio_tipas: faktas
@@ -262,15 +182,26 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - id: c-175346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 30"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Iš tikrųjų jis negailėjo darbo, bet
-    nemokėjo juo laimingai naudotis. Prūsų kronikininkai pa­
-    liko mums įspūdingą paminklų lobį, bet jie daug ką nu­
-    tylėjo, dar daugiau praleido dėl neatidumo. Latvių, arba
-    Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
-    randa nemažai vertingų tautos istorijos perlų.
+    mingiau susiję su vokiečių tauta, turi .pilnesnius ir geres­
+    nius už mus savo istorijų aprašymus; jų kronikininkų
+    skaičius yra ženklus. Mokytos plunksnos dirbo ir dabar
+    darbuojas i prie jų istorijos: Kocebus* parašė senovės
+    Prūsų istoriją, pelniusią didelį pripažinimą; mokslingasis
+    ponas Foi'gtas** baigia išleisti paskutinius pilnos tos
+    pačios istorijos tomus, kurių bus astuoni; šis visiškai už­
+    baigtas veikalas savo verte pranoksta visus lig tol žino­
+    mus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­
+    nikomis, o jie yra iš visur sukaupti Karaliaučiuje. Šie
+    šaltiniai mokslininkams buvo žinomi: mūsų rusiškieji se­
+    novės tyrėjai netgi padarė išsamiai ir tvarkingai surink­
+    tų, reikalingų ištraukų atsargas, o ponas Foigtas pats
+    nepaprastu savo darbštumu, genialumu ir talentais at­
+    skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
+    vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
+    ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
+  citata_rodoma: "Iš tikrųjų jis negailėjo darbo, bet\nnemokėjo juo laimingai naudotis. Prūsų kronikininkai pa­\nliko mums įspūdingą paminklų lobį, bet jie daug ką nu­\ntylėjo, dar daugiau praleido dėl neatidumo. Latvių, arba\nLivonijos, autoriai pas naujesnius senovės tyrinėtojus at­\nranda nemažai vertingų tautos istorijos perlų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

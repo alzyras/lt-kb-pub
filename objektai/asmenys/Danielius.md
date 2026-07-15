@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Danielius'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1237 m.'
@@ -13,6 +14,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+  - tauta
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -34,30 +36,44 @@ media_all_json: |-
 
 ## Santrauka
 
-Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį). Danielius tuojau pasiuntė Vykintą į Livonijos ordiną, siūlydamas jam sąjungą.
+Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai. Narbutas Danielių apibūdina kaip klastingą, godų ir neramų Pietų Rusios kunigaikščių vadą, 1237 m. vedusį būrius prieš jotvingius prie Brastos. Danielius buvo anksčiau suteikęs Tautvilai pagalbą, su kuria Tautvila kartu su jotvingiais ir žemaičiais žygiavo prieš Mindaugą.
 
 ## Teiginiai
 
-<a id="claim-t-186101"></a>
-- t-001
-  global_id: t-186101
-  teiginys: "Po karaliaus Danieliaus mirties Rusioje dėl kunigaikščių garbėtroškos ir nesutarimų prasidėjo vidaus maišatis."
-  pagrindžia:
-    - c-169462
-
 <a id="claim-t-191160"></a>
-- t-002
+- t-001
   global_id: t-191160
   teiginys: "Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai."
   pagrindžia:
     - c-174042
 
 <a id="claim-t-191161"></a>
-- t-003
+- t-002
   global_id: t-191161
   teiginys: "Narbutas Danielių apibūdina kaip klastingą, godų ir neramų Pietų Rusios kunigaikščių vadą, 1237 m. vedusį būrius prieš jotvingius prie Brastos."
   pagrindžia:
     - c-174043
+
+<a id="claim-t-196816"></a>
+- t-003
+  global_id: t-196816
+  teiginys: "Danielius buvo anksčiau suteikęs Tautvilai pagalbą, su kuria Tautvila kartu su jotvingiais ir žemaičiais žygiavo prieš Mindaugą."
+  pagrindžia:
+    - c-178928
+
+<a id="claim-t-197720"></a>
+- t-004
+  global_id: t-197720
+  teiginys: "Danielius nesutiko."
+  pagrindžia:
+    - c-179305
+
+<a id="claim-t-197721"></a>
+- t-005
+  global_id: t-197721
+  teiginys: "Tarp jų du apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir atvestas pas kunigaikštį Danielių."
+  pagrindžia:
+    - c-179306
 - susijęs iš [[objektai/asmenys/Boleslovas Gėdingasis.md#claim-t-191199|Boleslovas Gėdingasis]]: Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius.
 - susijęs iš [[objektai/asmenys/Boleslovas Gėdingasis.md#claim-t-191199|Boleslovas Gėdingasis]]: Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius.
 - susijęs iš [[objektai/asmenys/Nebiastas.md#claim-t-191446|Nebiastas]]: Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu prašė Danielių taikiai išeiti iš jų žemės ir nebendradarbiauti su lenkais.
@@ -73,61 +89,44 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - susijęs iš Būgas: Būgas jau tuomet buvo Mazovijos ir rusų žemių riba.
 - susijęs iš Vizna: Kunigaikštis Danielius nuėjo prie Viznos, persikėlė per Narevo upę ir iš nelaisvės išvadavo daug krikščionių.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Po karaliaus Danieliaus mirties Rusioje dėl kunigaikščių garbėtroškos ir nesutarimų prasidėjo vidaus maišatis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Boleslovas, ga­
-    vęs žinią apie sėkmingą žygį, netvėrė džiaugsmu; jis
-    uo
-
-    ## Puslapis 118
-
-    nutarė toliau persekioti Švarną ir galop išgręžti patei­
-    sinamą pyktį. To meto Rusios padėtis, atrodo, irgi
-    skatino imtis tokių sumanymų: po karaliaus Danieliaus
-    mirties dėl kunigaikščių garbėtroškos bei nesutarimų
-    buvo prasidėjusį vidaus maišatis. Tad, sušaukęs ka-
+    Tad, sušaukęs ka-
     L en kai sė k m in g a i už-
     sutelkęs stiprias jėgas, jis
-    Švarno valdas.
+    Švarno valdas. Petras keletą dienų netrukdomas žygia­
+    vo per priešų šalį, viską pakeliui su savo pulkais šluo­
+    damas ir niokodamas, neleisdamas būriams palaidai
+    plėšikauti ir toli nuo stovyklos nukrypti, nes žinojo,
+    jog priešas esąs viskam pasiryžęs ir moka griebtis vi­
+    sokių karinių vylių: nenorėjo duoti progos rusams
+    laisvai veikti. Švarnas, negalėdamas lenkų įvilioti į
+    spąstus nei tada, kai tie kuo ramiausiai šlaistėsi po
+    laukus, nei tada, kai greitosiomis rinkosi vietą stovyk­
+    lai, pats atviroje vietoje įsirengė stovyklą.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
+    - t-005
 
-- c-002
-  santrauka: 'Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tuo tarpu Stegutas tikriausiai žu­
-    vo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­
-    dėjus traukimuisi, Danielius pavijo jotvingių vadą Nebrą
-    ir, ištraukęs jam iš rankų ietį, smarkiai sužeidė ir būtų
-    jau pribaigęs, jeigu nebūtų reikėję padėti Vasilkai, kurį
-    priešai spaudė iš visų pusių. Tad Danielius, palikęs Neb-
-    rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
-    jotvingiam sK itais metais jotvingių grėsmė iškilo Ru­
-    siai, nes Voluinės kunigaikščiai, prieš išžygiuodami su
-    kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga
-    turėjo patikėti Pinsko kunigaikščiui Vladimirui1 2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+## Citatos
 
-- c-003
-  santrauka: 'Narbutas Danielių apibūdina kaip klastingą, godų ir neramų Pietų Rusios kunigaikščių vadą, 1237 m. vedusį būrius prieš jotvingius prie Brastos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+- id: c-174042
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Būgas jau tuomet buvo Mazovijos ir rusų
+    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
+    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
+    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
+    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
+    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
+    pateiksime. Būgas jau tuomet buvo Mazovijos ir rusų
     žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­
     bių jotvingių gyvenviečių, nes jas tikėjosi užpulti Pietų
     Rusios kunigaikščiai, kuriems
@@ -136,59 +135,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     dė savo būrius prieš jotvingius į Brastos apylinkes, bet
     itin dideli pavasario potvyniai ;užtvindė upių krantus, ir
     jo sumanymas nebuvo įgyvendintas3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-## Citatos
-
-- id: c-169462
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Boleslovas, ga­
-    vęs žinią apie sėkmingą žygį, netvėrė džiaugsmu; jis
-    uo
-
-    ## Puslapis 118
-
-    nutarė toliau persekioti Švarną ir galop išgręžti patei­
-    sinamą pyktį. To meto Rusios padėtis, atrodo, irgi
-    skatino imtis tokių sumanymų: po karaliaus Danieliaus
-    mirties dėl kunigaikščių garbėtroškos bei nesutarimų
-    buvo prasidėjusį vidaus maišatis. Tad, sušaukęs ka-
-    L en kai sė k m in g a i už-
-    sutelkęs stiprias jėgas, jis
-    Švarno valdas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186101
-
-- id: c-174042
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
-  citata_originali: |
-    Tuo tarpu Stegutas tikriausiai žu­
-    vo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­
-    dėjus traukimuisi, Danielius pavijo jotvingių vadą Nebrą
-    ir, ištraukęs jam iš rankų ietį, smarkiai sužeidė ir būtų
-    jau pribaigęs, jeigu nebūtų reikėję padėti Vasilkai, kurį
-    priešai spaudė iš visų pusių. Tad Danielius, palikęs Neb-
-    rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
-    jotvingiam sK itais metais jotvingių grėsmė iškilo Ru­
-    siai, nes Voluinės kunigaikščiai, prieš išžygiuodami su
-    kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga
-    turėjo patikėti Pinsko kunigaikščiui Vladimirui1 2.
+  citata_rodoma: "Tuo tarpu Stegutas tikriausiai žu­\nvo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­\ndėjus traukimuisi, Danielius pavijo jotvingių vadą Nebrą\nir, ištraukęs jam iš rankų ietį, smarkiai sužeidė ir būtų\njau pribaigęs, jeigu nebūtų reikėję padėti Vasilkai, kurį\npriešai spaudė iš visų pusių. Tad Danielius, palikęs Neb-\nrą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems\njotvingiam sK itais metais jotvingių grėsmė iškilo Ru­\nsiai, nes Voluinės kunigaikščiai, prieš išžygiuodami su\nkariauna į Lenkiją, savo sienų nuo pat Brastos apsauga\nturėjo patikėti Pinsko kunigaikščiui Vladimirui1 2."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -199,8 +146,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - id: c-174043
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Būgas jau tuomet buvo Mazovijos ir rusų
     žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­
@@ -217,3 +163,63 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191161
+
+- id: c-178928
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Tautvilos išpažinties klausė Rygos vyskupas22 ir
+    [katedros] klebonas; gailėjosi jo, žinodami, kad jeigu
+    Tautvilą nebūtų išvarytas iš Lietuvos žemės, jis būtų
+    jų rankose, ir [lietuviai), nors ir nenorėdami, būtų
+    krikštą priėmę.
+    Visa tai padarė, kad Lietuva netapo krikščioniška.
+    Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
+    parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė
+    jotvingius ir žemaičius bei Danieliaus pagalbą, kurią
+    Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
+    Mindaugą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196816
+
+- id: c-179305
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Vakarop atvyko pasiuntiniai, vadovaujami tokio Ne-
+    biasto, kuris visos jotvingių tautos vardu prašė Danie­
+    liaus, kad šis taikiai išeitų iŠ jų žemės ir atsisakytų bend­
+    radarbiauti su lenkais. Danielius nesutiko. Naktį jotvin­
+    giai užpuolė tik lenkus, o rusinu —■ ne. Priešinamasi buvo
+    atkakliai, žiauriai, nuodėguliai krito kaip žaibai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197720
+
+- id: c-179306
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Tarp jų du
+    apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir
+    atvestas pas kunigaikštį Danielių. Kunigaikštis jam ištiesė
+    ranką ir pažadėjo dovanoti gyvybę, jeigu šis sutiks būti
+    vedliu. Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
+    kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
+    prūsai ir bartai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197721

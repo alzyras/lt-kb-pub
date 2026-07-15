@@ -36,28 +36,6 @@ Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kai
   pagrindžia:
     - c-21540
 - susijęs iš Lenkija: Nors dalį ginčijamų žemių jau kontroliavo Lenkija, Adolfas Jofė sutiko Vilnių, Gardiną ir Lydą priskirti Lietuvai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Adolfo Jofės vadovaujami sovietai Lietuvą laikė nauju politiniu vienetu ir sutiko ją pripažinti remdamiesi nacijų apsisprendimo teise.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
-    miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
-    mo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
-    Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-
-    tuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-
-    mo dokumentu.
-    Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
-    atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-21540

@@ -35,8 +35,8 @@ Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą:
   teiginys: "Pratarmėje Petras Dusburgietis ragino skaitytojus nesibaiminti visokeriopų vargų ir nelaikyti įvykių pražūtingais giminei."
   pagrindžia:
     - c-59771
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pratarmėje Petras Dusburgietis ragino skaitytojus nesibaiminti visokeriopų vargų ir nelaikyti įvykių pražūtingais giminei.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -62,17 +62,17 @@ Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą:
 - id: c-59771
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šie dievo
-    tarnai, kaip moko apaštalas, gyveno nelyginant merdėdami didžiai kantrūs sielvartuose,
-    negandose, suspaudimuose, plakimuose, kalėjimuose, sąmyšiuose, sunkiuose darbuose,
-    budėjimuose, badavimuose;  jie rodėsi nuliūdę, tačiau buvo visuomet linksmi. Tad
-    maldaute maldauju tuos, kurie skaitys šią knygą: nesibaiminkite visokeriopų vargų,
-    bet supraskite, jog tai, kas įvyko, neturi mūsų giminės pražudyti, o tegali ją pataisyti.
-    Juk labai geras darbas padaromas ne tada, kai leidžiama nusikaltėliams ilgą laiką viską
-    daryti, ką užsimano, bet tada, kai tuojau pat jie baudžiami.
+    Po to, kai mūsų aukščiau minėtas
+    Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui
+    bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
+    visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
+    tarnauti gyvajam dievui Jėzui Kristui.
+    176 (171). Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
+    Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą
+    bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai
+    susilpninta, pasiuntė brolį Ditrichą, sembų žemės fogtą459, su kariuomene į Nadruvą.
   citata_rodoma: "Tad\nmaldaute maldauju tuos, kurie skaitys šią knygą: nesibaiminkite visokeriopų vargų,\nbet supraskite, jog tai, kas įvyko, neturi mūsų giminės pražudyti, o tegali ją pataisyti.\nJuk labai geras darbas padaromas ne tada, kai leidžiama nusikaltėliams ilgą laiką viską\ndaryti, ką užsimano, bet tada, kai tuojau pat jie baudžiami."
   statusas: verified
   teiginio_tipas: faktas

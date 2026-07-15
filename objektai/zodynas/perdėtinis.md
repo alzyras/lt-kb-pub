@@ -36,25 +36,6 @@ Tiesa, pastarojoj sutarty nerandame jokio teoretinio santykių apibrėžimo, kok
   teiginys: "Vytauto santykiai su Lenkija buvo apibrėžti kaip valdomojo su aukštesniu perdėtiniu."
   pagrindžia:
     - c-38756
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Radomo, trumpiau vilniškė, unija yra todėl tikra ir visiškai per­
-    sonalinė. Tiesa, pastarojoj sutarty nerandame jokio teoretinio
-    santykių apibrėžimo, kokie nuo to laiko turėjo susidaryt tarp
-    Lietuvos ir Lenkijos; Vytauto gi santykiai su Lenkija buvo api­
-    brėžti, kaip valdomojo su aukštesniu perdėtiniu^1 ). Lenkų ponų
-    taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
-    kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

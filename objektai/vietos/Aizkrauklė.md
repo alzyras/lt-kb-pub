@@ -57,7 +57,6 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
 - susijęs iš Dauguva: Ordino kariuomenė buvo užpulta prie Aizkrauklės ant Dauguvos kranto.
 - susijęs iš Irpenė: Istorinė rusų tradicija Gediminą prie Irpenės siejo su Kijevo paėmimu ir Kijevo kunigaikštystės prijungimu prie Lietuvos.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Aizkrauklė šaltinio rodyklėje tapatinama su buvusia Ašerade.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -73,37 +72,21 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   pagrindžia:
     - t-002
 
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
-    _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
-    (X, 3). XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,
-    kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
-    apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
-    krauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­
-    veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos
-    žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
-    kranto ruožą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-67445
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 298"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 298."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Aizkrauklė (buv. Ašeradė)
-      Akmena (Jūros intakas), u.
-      Akmena (Mituvos intakas), u.
+    Plementa), p.
+    Kluniečių ordinas
+    Knivitė, u.
+    Kobrinas
+    Kolainiai (Colayne, Kalaine, p., greičiausiai Jurbarko Bišpilio, Višpilio piliakalnyje)
+    Colm/Kolm
+    Colmelawcken, Collmilawken
+    Colmen (deš.
   citata_rodoma: "Aizkrauklė (buv. Ašeradė)\n  Akmena (Jūros intakas), u."
   statusas: verified
   teiginio_tipas: faktas

@@ -34,8 +34,8 @@ Kalbant apie mūsų žemės formavimąsi, ne 1 Vienas milžinas, suspaudęs savo
   teiginys: "Kalbant apie mūsų žemės formavimąsi, ne 1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė jį iš Trakijos į Makedoniją (Noet Fr."
   pagrindžia:
     - c-177283
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kalbant apie mūsų žemės formavimąsi, ne 1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė jį iš Trakijos į Makedoniją (Noet Fr.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -57,13 +57,16 @@ Kalbant apie mūsų žemės formavimąsi, ne 1 Vienas milžinas, suspaudęs savo
 - id: c-177283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kalbant apie mūsų žemės formavimąsi, ne­
-    1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė
-    jį iš Trakijos į Makedoniją (Noet Fr. Dictionnaire de la fable. Straips­
-    nis „Athos“)*.
+    Apie gintarą. Gintaras lenkiškai vadinamas bursztyrv,
+    jo pavadinimas pasiskolintas iš vokiečių kalbos bdrnstein,
+    galbūt iš žodžio boernen, kuris reiškia „degti“, t. y. degus
+    akmuo. Visuose lietuvių kalbos dialektuose vadinamas
+    Gentoras; šio pavadinimo šaltinis, kaip spėja daugelis fi­
+    lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
+    ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės.
+  citata_rodoma: "Kalbant apie mūsų žemės formavimąsi, ne­\n1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė\njį iš Trakijos į Makedoniją (Noet Fr. Dictionnaire de la fable. Straips­\nnis „Athos“)*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

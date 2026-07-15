@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme.
+Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme. Kojelavičiaus pasakojime Prūsijos magistras su pagalbininkais nusiaubė Vėluvos ir Tapiavos kraštą.
 
 ## Teiginiai
 
@@ -35,47 +35,37 @@ Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme.
   teiginys: "Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme."
   pagrindžia:
     - c-168673
+
+<a id="claim-t-196746"></a>
+- t-002
+  global_id: t-196746
+  teiginys: "Kojelavičiaus pasakojime Prūsijos magistras su pagalbininkais nusiaubė Vėluvos ir Tapiavos kraštą."
+  pagrindžia:
+    - c-168673
 - susijęs iš Vėluva: Prūsijos magistras sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.).md#claim-t-185655|Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)]]: Po reikalų Rusioje sutvarkymo lietuviai pradėjo keršyti kryžiuočiams už ankstesnių metų skriaudas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šitaip praėjo ir kiti metai, pakaitomis vieniems
-    kitus puldinėjant. Prūsijos magistras, susilaukęs pa­
-    galbininkų iš svetur, baisiai sumušė Lietuvą; tuo tarpu
-    gardą, užpuolė pilį, sudegino miestą, o Vėluvos ir Ta-
-    piavos kraštą sulygino su žeme. Pats pilies komtūras,
-    praradęs miestą, vargais negalais išgelbėjo pilį ir išsau­
-    gojo gyvybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-168673
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 247"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 247."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Šitaip praėjo ir kiti metai, pakaitomis vieniems
+    Kai Algirdas bei Aleksandras
+    Karijotaitis su keliomis žygio voromis padalyta kariuo­
+    mene iš karto nuniokojo daugelį Prūsijos vietų ir, su­
+    griovę svarbias pilis Tilžę bei Ragainę ir daugybę kitų
+    miestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­
+    gistras irgi sėkmingai nusiaubė didelius Lietuvos plo­
+    tus. Šitaip praėjo ir kiti metai, pakaitomis vieniems
     kitus puldinėjant. Prūsijos magistras, susilaukęs pa­
     galbininkų iš svetur, baisiai sumušė Lietuvą; tuo tarpu
     gardą, užpuolė pilį, sudegino miestą, o Vėluvos ir Ta-
-    piavos kraštą sulygino su žeme. Pats pilies komtūras,
-    praradęs miestą, vargais negalais išgelbėjo pilį ir išsau­
-    gojo gyvybę.
+    piavos kraštą sulygino su žeme.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185312
+    - t-196746

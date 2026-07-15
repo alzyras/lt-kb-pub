@@ -35,35 +35,6 @@ Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo n
   teiginys: "Lietuviai prie Vėluvos nužudė įtakingą kryžiuotį Fridrichą fon Quitzą ir trisdešimt šešis jo karius."
   pagrindžia:
     - c-83655
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuviai prie Vėluvos nužudė įtakingą kryžiuotį Fridrichą fon Quitzą ir trisdešimt šešis jo karius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    J a r o-
-    68
-
-    ## Puslapis 85
-
-    I KNYGA
-    ir mažų laivų, žodžiu, sunaikino viską, ką tik buvo galima
-    plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf. Tokios
-    didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
-    gavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis
-    kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su
-    trisdešimt šešiais kariais nužudė8.
-    Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
-    nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­
-    gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­
-    linkės1 1 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

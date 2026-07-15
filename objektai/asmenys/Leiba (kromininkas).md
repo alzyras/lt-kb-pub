@@ -60,8 +60,8 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
   global_id: t-195269
   teiginys: "Leiba gyveno santaikoje su kaimynais ir atpildydavo už talką."
   pagrindžia:
-    - c-177635
     - c-177633
+    - c-177635
 
 <a id="claim-t-195270"></a>
 - t-003

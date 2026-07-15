@@ -59,8 +59,8 @@ Nenurodyta
   teiginys: "Vytenis su 800 vyrų per Sekmines įsiveržė į Lenkiją, užpuolė Lenčicos dvasininkus ir išsivarė daug belaisvių."
   pagrindžia:
     - c-60088
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų persekiojo iš Lenkijos besitraukiančius lietuvius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -74,9 +74,6 @@ Nenurodyta
     juos  ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris
     paspruko, kad galėtų kitiems apie tai papasakoti.
 
-
-
-
         251 (244).
   citata_rodoma: ''
   statusas: verified
@@ -86,52 +83,22 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Vytenis su 800 vyrų per Sekmines įsiveržė į Lenkiją, užpuolė Lenčicos dvasininkus ir išsivarė daug belaisvių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    250 (243). Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­
-                            nių nužudymą bei paėmimą į nelaisvę
-
-       Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais
-    vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,
-    kunigai ir kiti dvasininkai, apsivilkę iškilmių arnotais, ėjo procesiją, žiauriai juos užpuolė,
-    o bažnyčioje nužudė 400 krikščionių, kunigų ir prelatų; kitus, kuriuos panorėjo, išsivarė
-    į nelaisvę; jie arnotus, taures ir kitokius bažnytinius indus pavartojo, niekindami dievą,
-    neleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,
-    be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
-    belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių. Po to, kai jie ėmė
-    trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių
-    žūties, leidosi jų persekioti su tūkstančiu  ir aštuoniais šimtais vyrų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-60087
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 183"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Po to, kai jie ėmė
-    trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių
-    žūties, leidosi jų persekioti su tūkstančiu  ir aštuoniais šimtais vyrų. Šitai sužinojęs,
-    Mazovijos kunigaikštis Boleslovas man nesuprantamais sumetimais sudarė kuriam laikui
-    tarp krikščionių ir netikėlių paliaubas, jų metu lenkai, nesitikėdami jokių pavojų, ramiai
-    sau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį paliaubų susitarimą, užpuolė
-    juos  ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris
-    paspruko, kad galėtų kitiems apie tai papasakoti.
-
-
-
-
-        251 (244).
+    Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
+    magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
+    gyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:
+    Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
+    pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
+    255 (248). Apie Paštuvos ir Gaižuvos valsčių nuniokojimą
+    1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
+    savo kariuomene įsiveržti į Ariogalos valsčių, bet leidosi atkalbamas.
+  citata_rodoma: "Po to, kai jie ėmė\ntrauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių\nžūties, leidosi jų persekioti su tūkstančiu  ir aštuoniais šimtais vyrų. Šitai sužinojęs,\nMazovijos kunigaikštis Boleslovas man nesuprantamais sumetimais sudarė kuriam laikui\ntarp krikščionių ir netikėlių paliaubas, jų metu lenkai, nesitikėdami jokių pavojų, ramiai\nsau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį paliaubų susitarimą, užpuolė\njuos  ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris\npaspruko, kad galėtų kitiems apie tai papasakoti.\n\n\n\n\n    251 (244)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -142,13 +109,11 @@ Nenurodyta
 - id: c-60088
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 183"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     250 (243). Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­
-                            nių nužudymą bei paėmimą į nelaisvę
-
-       Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais
+    nių nužudymą bei paėmimą į nelaisvę
+    Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais
     vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,
     kunigai ir kiti dvasininkai, apsivilkę iškilmių arnotais, ėjo procesiją, žiauriai juos užpuolė,
     o bažnyčioje nužudė 400 krikščionių, kunigų ir prelatų; kitus, kuriuos panorėjo, išsivarė
@@ -157,7 +122,7 @@ Nenurodyta
     be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
     belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių. Po to, kai jie ėmė
     trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių
-    žūties, leidosi jų persekioti su tūkstančiu  ir aštuoniais šimtais vyrų.
+    žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.
   citata_rodoma: "Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­\n                        nių nužudymą bei paėmimą į nelaisvę\n\n   Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais\nvyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,\nkunigai ir kiti dvasininkai, apsivilkę iškilmių arnotais, ėjo procesiją, žiauriai juos užpuolė,\no bažnyčioje nužudė 400 krikščionių, kunigų ir prelatų; kitus, kuriuos panorėjo, išsivarė\nį nelaisvę; jie arnotus, taures ir kitokius bažnytinius indus pavartojo, niekindami dievą,\nneleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,\nbe to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę\nbelaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių. Po to, kai jie ėmė\ntrauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių\nžūties, leidosi jų persekioti su tūkstančiu  ir aštuoniais šimtais vyrų."
   statusas: verified
   teiginio_tipas: faktas

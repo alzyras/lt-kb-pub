@@ -40,30 +40,13 @@ media_all_json: |-
   teiginys: "„Musų senovės“ 1940 m. trečiame tome nurodomi J. Spudulio laiškai A. Dambrauskui-Jakštui."
   pagrindžia:
     - c-173433
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Musų senovės“ 1940 m. trečiame tome nurodomi J. Spudulio laiškai A. Dambrauskui-Jakštui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuvos bajorai buvo laikomi su­
-    14 J. Spudulio laiškai A. Dambrauskui-Jakštui // Musų senovė. -
-    1940. - T. 3. - P. 169.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173433
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 13"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuvos bajorai buvo laikomi su­
     14 J. Spudulio laiškai A. Dambrauskui-Jakštui // Musų senovė. -

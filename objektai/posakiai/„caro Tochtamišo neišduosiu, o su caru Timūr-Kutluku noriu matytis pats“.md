@@ -58,55 +58,6 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     - c-169741
 - susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-183762|Timūr-Kutlukas]]: Aukso ordos chanas Timūr-Kutlukas, rengdamasis žygiui į Sarajų, reikalavo, kad Vytautas išduotų jo priešą Tochtamišą.
 - susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111433|Tochtamišas]]: Timūr-Kutlukas reikalavo, kad Vytautas išduotų pabėgusį jo priešą Tochtamišą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad neišduos Tochtamišo ir nori pats susitikti su Timūr-Kutluku.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Greičiausiai Vytauto
-    iniciatyva per Maskvos didįjį kunigaikštį
-    Vasilijų Konstantinopolio patriarchas ra-
-    gino Kijevo metropolitą Kiprijoną kviesti
-    tikinčiuosius į karą prieš totorius.
-    Besirengdamas žygiui į Sarajų, Aukso
-    ordos chanas Timūr-Kutlukas atsiuntė savo
-    pasiuntinius pas lietuvių didįjį kunigaikštį
-    Vytautą, kad išduotų jam pabėgusį „carą“
-    Tochtamišą, jo priešą. O Vytautas atsakęs:
-    „caro Tochtamišo neišduosiu, o su caru
-    Timūr-Kutluku noriu matytis pats“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Besirengdamas žygiui į Sarajų, Aukso
-    ordos chanas Timūr-Kutlukas atsiuntė savo
-    pasiuntinius pas lietuvių didįjį kunigaikštį
-    Vytautą, kad išduotų jam pabėgusį „carą“
-    Tochtamišą, jo priešą. O Vytautas atsakęs:
-    „caro Tochtamišo neišduosiu, o su caru
-    Timūr-Kutluku noriu matytis pats“.
-    Pagrindinė Vytauto kariuomenė iš
-    Vilniaus išvyko apie gegužės 18 d. Vytautas
-    visą birželį telkė karius (savo lietuvius,
-    jam pavaldžių rusų kunigaikščių karius ir
-    kitus) stovykloje prie Kijevo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-169740
@@ -132,6 +83,8 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-186382
+    - t-186383
     - t-186384
 
 - id: c-169741

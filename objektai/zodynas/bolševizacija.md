@@ -36,22 +36,6 @@ media_all_json: |-
   teiginys: "Kaltinimus „bolševizacija“ papildė kaltinimai polonizacija, kai vyriausybė leido lenkams steigti 70 lenkiškų mokyklų."
   pagrindžia:
     - c-24768
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Bolševizaciją“ papildė kaltinimai polonizaci-
-    ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
-    70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santy-
-    kiams, įvertinta kaip pavojus visai tautai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

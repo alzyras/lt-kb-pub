@@ -5,8 +5,9 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1413 m.'
+  - '1475 m.'
 date_start: '1413'
-date_end: ''
+date_end: '1475'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1413 m. Horodlės seime Lenkijos bajorai, Lietuvos ir Lenkijos unijos ženklan, suteikė savo herbus lietuvių bajorams ir įvedė herbų vienovę. Narbutas aiškina, kad herbas „Paparona“ arba „Kiniglis“ lietuviškai reiškia ne kiškį, kaip rašė Neseckis, o triušį.
+1413 m. Horodlės seime Lenkijos bajorai, Lietuvos ir Lenkijos unijos ženklan, suteikė savo herbus lietuvių bajorams ir įvedė herbų vienovę. Narbutas aiškina, kad herbas „Paparona“ arba „Kiniglis“ lietuviškai reiškia ne kiškį, kaip rašė Neseckis, o triušį. Žąsies herbas, arba Paparona, - toks kaip lenkų herbynuose; skiriasi tuo, kad čia yra ke turios trikampės riterių vėliavėlės su stiebais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -60,58 +61,20 @@ Nenurodyta
   teiginys: "Narbutas aiškina, kad herbas „Paparona“ arba „Kiniglis“ lietuviškai reiškia ne kiškį, kaip rašė Neseckis, o triušį."
   pagrindžia:
     - c-172506
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: '1413 m. Horodlės seime Lenkijos bajorai, Lietuvos ir Lenkijos unijos ženklan, suteikė savo herbus lietuvių bajorams ir įvedė herbų vienovę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vienas kitas aiškiai lietuviškas her­
-    bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
-    rios tais herbais naudojosi. Tik 1413 metais, po Lietuvos uni­
-    jos su Lenkija Horodlės seime, abiejų tautų susijungimo žen-
-    klan Lenkijos bajorai suteikė savo herbus lietuvių bajorams ir
-    įvesta herbų vienovė.
-    Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
-    herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197230"></a>
+- t-003
+  global_id: t-197230
+  teiginys: "Žąsies herbas, arba Paparona, - toks kaip lenkų herbynuose; skiriasi tuo, kad čia yra ke turios trikampės riterių vėliavėlės su stiebais."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas aiškina, kad herbas „Paparona“ arba „Kiniglis“ lietuviškai reiškia ne kiškį, kaip rašė Neseckis, o triušį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pa­
-    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
-    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
-    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
-    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
-    Nors pirmaujančios lietuvių giminės po Horodlės seimo
-    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
-    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus. Juo­
-    se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
-    XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
-    dalo ir seno graviravimo signečių pėdsakas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-172506
 
 ## Citatos
 
 - id: c-172505
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 402"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vienas kitas aiškiai lietuviškas her­
     bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
@@ -131,23 +94,16 @@ Nenurodyta
 - id: c-172506
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 403"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 403."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pa­
-    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
-    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
-    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
-    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
-    Nors pirmaujančios lietuvių giminės po Horodlės seimo
-    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
-    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus. Juo­
-    se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
-    XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
-    dalo ir seno graviravimo signečių pėdsakas.
+    IV lentelė, 26-asis piešinys. Žąsies herbas, arba Paparo-
+    na, - toks kaip lenkų herbynuose; skiriasi tuo, kad čia yra ke­
+    turios trikampės riterių vėliavėlės su stiebais. Antspaudą pri­
+    dėjo Smilginis (Szmilgin) 1475 metais.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189623
+    - t-197230

@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 77
+tema_objektu_skaicius: 75
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 77.
+Objektų skaičius: 75.
 
 ## Kaip naudoti
 
@@ -64,7 +64,6 @@ Objektų skaičius: 77.
 - [Mlynivas](../objektai/vietos/Mlynivas)
 - [Mogiliovcai](../objektai/vietos/Mogiliovcai)
 - [Motiejūnai](../objektai/vietos/Motiej%C5%ABnai)
-- [Mozyrius](../objektai/vietos/Mozyrius)
 - [Musninkai](../objektai/vietos/Musninkai)
 - [Mėrūniškis](../objektai/vietos/M%C4%97r%C5%ABni%C5%A1kis)
 - [Naujasodė](../objektai/vietos/Naujasod%C4%97)
@@ -96,7 +95,6 @@ Objektų skaičius: 77.
 - [Vilija](../objektai/vietos/Vilija)
 - [Vilnia](../objektai/vietos/Vilnia)
 - [Vilniaus pilis](../objektai/vietos/Vilniaus%20pilis)
-- [Voložinas](../objektai/vietos/Volo%C5%BEinas)
 - [Zaslavlis](../objektai/vietos/Zaslavlis)
 - [Šiauliai](../objektai/vietos/%C5%A0iauliai)
 - [Šventaragio slėnis](../objektai/vietos/%C5%A0ventaragio%20sl%C4%97nis)

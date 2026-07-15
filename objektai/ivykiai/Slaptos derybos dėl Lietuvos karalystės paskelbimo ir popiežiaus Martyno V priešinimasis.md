@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Imperatorius Zigmantas ir Vytautas kelerius metus slapta derėjosi dėl Lietuvos paskelbimo karalyste. Popiežius Martynas V įspėjo Kulmo vyskupą neapvainikuoti Vytauto karaliaus vainiku ir nepakelti jo į Lietuvos karalius.
+Imperatorius Zigmantas ir Vytautas kelerius metus slapta derėjosi dėl Lietuvos paskelbimo karalyste. Popiežius Martynas V įspėjo Kulmo vyskupą neapvainikuoti Vytauto karaliaus vainiku ir nepakelti jo į Lietuvos karalius. Imperatorius Zigmantas ir Vytautas kelerius metus slapta derėjosi dėl Lietuvos karalystės paskelbimo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -55,92 +55,38 @@ Nenurodyta
   teiginys: "Popiežius Martynas V įspėjo Kulmo vyskupą neapvainikuoti Vytauto karaliaus vainiku ir nepakelti jo į Lietuvos karalius."
   pagrindžia:
     - c-169004
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Imperatorius Zigmantas ir Vytautas kelerius metus slapta derėjosi dėl Lietuvos paskelbimo karalyste.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kartu
-    jis būgštavo, kad iš garbėtroškos šis nesukeltų naujos
-    nesantaikos tarp tautų, kurios didžiam krikščioniškojo
-    pasaulio labui glaudžiai suaugo į vieną valstybę. Mat
-    imperatorius Zigmantas ir Vytautas jau kelerius metus
-    slapta derėjosi dėl Lietuvos
-    V y ta u ta s  nori p a sk el-
-    karalystės paskelbimo. Kai
-    hti L ietu vą  k a ra ly ste
-    apie šias derybas pradėjo
-    kalbėti kiti žmonės, viską su­
-    žinojo ir Romos kurija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196258"></a>
+- t-003
+  global_id: t-196258
+  teiginys: "Imperatorius Zigmantas ir Vytautas kelerius metus slapta derėjosi dėl Lietuvos karalystės paskelbimo."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Popiežius Martynas V įspėjo Kulmo vyskupą neapvainikuoti Vytauto karaliaus vainiku ir nepakelti jo į Lietuvos karalius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kai
-    hti L ietu vą  k a ra ly ste
-    apie šias derybas pradėjo
-    kalbėti kiti žmonės, viską su­
-    žinojo ir Romos kurija. Štai todėl popiežius, puikiai su­
-    vokdamas, kaip lengvai ir giliai žeidžia valdovų širdis
-    pažadas gauti karaliaus vainiką, tuojau pat įspėjo laiš­
-    ku Kulmo vyskupą, kuris, jo
-    P opiežiu s
-    M a rty n a s
-    galva, vienas galėjo ryžtis
-    V su k liu d o
-    šitokiam žingsniui, kad šis,
-    paklausęs imperatoriaus Zig­
-    manto, nieku būdu nedrįstų apvainikuoti Vytauto pagal
-    Romos bažnyčios papročius karaliaus vainiku ir pakel­
-    ti į Lietuvos karalius. Vargu ar galima tikėti, kad kara­
-    lius nieko nebūtų žinojęs
-    K aralius J o g a ila  de-
-    apie Vytauto gudrius suma-
-    dasi n ie k o  n ežin ąs
-    nymus, jis veikiau dėjosi nie­
-    ko nežinąs, didžiai trokšda-
-    393
-
-    ## Puslapis 392
-
-    mas, kad išgarsėtų Vytauto bei Lietuvos vardas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-169004
 
 ## Citatos
 
 - id: c-169003
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 391"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 391."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kartu
-    jis būgštavo, kad iš garbėtroškos šis nesukeltų naujos
-    nesantaikos tarp tautų, kurios didžiam krikščioniškojo
-    pasaulio labui glaudžiai suaugo į vieną valstybę. Mat
-    imperatorius Zigmantas ir Vytautas jau kelerius metus
-    slapta derėjosi dėl Lietuvos
-    V y ta u ta s  nori p a sk el-
-    karalystės paskelbimo. Kai
-    hti L ietu vą  k a ra ly ste
-    apie šias derybas pradėjo
-    kalbėti kiti žmonės, viską su­
-    žinojo ir Romos kurija.
+    Suvažiavime
+    d ū k o s u v a ž ia v im e
+    suėmė Grigorijų Fotijų, Ki­
+    jevo
+    metropolitą,
+    Rusioje
+    3 9 2
+
+    kursčiusį ir plėtusį religinį bruzdėjimą, ir, baudžiant už
+    šį nusikaltimą, pašalino visuotiniu pritarimu iš pareigų.
+    Jo įpėdiniu tapo bulgaras Grigorijus Camblakas, žmogus,
+    išgarsėjęs kaip didelis šventųjų mokslų žinovas. Jis ne­
+    trukus ir Romoje, ir generaliniame bažnytiniame suva­
+    žiavime smarkiai pasidarbavo Rytų bei Vakarų bažny­
+    čių suartėjimo reikalu pasiųstas ten savo tautos suva­
+    žiavimo ir kunigaikščio Vytauto.
+  citata_rodoma: "Kartu\njis būgštavo, kad iš garbėtroškos šis nesukeltų naujos\nnesantaikos tarp tautų, kurios didžiam krikščioniškojo\npasaulio labui glaudžiai suaugo į vieną valstybę. Mat\nimperatorius Zigmantas ir Vytautas jau kelerius metus\nslapta derėjosi dėl Lietuvos\nV y ta u ta s  nori p a sk el-\nkaralystės paskelbimo. Kai\nhti L ietu vą  k a ra ly ste\napie šias derybas pradėjo\nkalbėti kiti žmonės, viską su­\nžinojo ir Romos kurija."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -153,37 +99,22 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kai
-    hti L ietu vą  k a ra ly ste
-    apie šias derybas pradėjo
-    kalbėti kiti žmonės, viską su­
-    žinojo ir Romos kurija. Štai todėl popiežius, puikiai su­
-    vokdamas, kaip lengvai ir giliai žeidžia valdovų širdis
-    pažadas gauti karaliaus vainiką, tuojau pat įspėjo laiš­
-    ku Kulmo vyskupą, kuris, jo
-    P opiežiu s
-    M a rty n a s
-    galva, vienas galėjo ryžtis
-    V su k liu d o
-    šitokiam žingsniui, kad šis,
-    paklausęs imperatoriaus Zig­
-    manto, nieku būdu nedrįstų apvainikuoti Vytauto pagal
-    Romos bažnyčios papročius karaliaus vainiku ir pakel­
-    ti į Lietuvos karalius. Vargu ar galima tikėti, kad kara­
-    lius nieko nebūtų žinojęs
-    K aralius J o g a ila  de-
-    apie Vytauto gudrius suma-
-    dasi n ie k o  n ežin ąs
-    nymus, jis veikiau dėjosi nie­
-    ko nežinąs, didžiai trokšda-
-    393
-
-    ## Puslapis 392
-
-    mas, kad išgarsėtų Vytauto bei Lietuvos vardas.
+    Smarkiai palaikė
+    Vytauto atsidavimą tikėjimo reikalams popiežius Mar­
+    tynas V, girdamas atkaklumą, su kuriuo šis priešinosi
+    ne tik graikiškajai atskalai, bet ir Viklifo klaidų pase­
+    kėjams, kaip pareiškė Jogailai pasiųstame laiške. Kartu
+    jis būgštavo, kad iš garbėtroškos šis nesukeltų naujos
+    nesantaikos tarp tautų, kurios didžiam krikščioniškojo
+    pasaulio labui glaudžiai suaugo į vieną valstybę. Mat
+    imperatorius Zigmantas ir Vytautas jau kelerius metus
+    slapta derėjosi dėl Lietuvos
+    V y ta u ta s nori p a sk el-
+    karalystės paskelbimo.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185643
+    - t-196258

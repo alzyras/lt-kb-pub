@@ -41,19 +41,6 @@ PRADŽIOS RAITARŲ TAKTIKA“ Andžej Geglis, dail.
   teiginys: "Andžejus Geglis sukūrė iliustraciją „XVII a. pradžios raitarų taktika“."
   pagrindžia:
     - c-41775
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 103, „XVII A. PRADŽIOS RAITARŲ TAKTIKA“ Andžej Geglis, dail. Andžej Geglis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

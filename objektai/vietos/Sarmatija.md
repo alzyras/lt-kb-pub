@@ -51,29 +51,6 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
 - susijęs iš St. Peterburgo kodeksas: St. Peterburgo kodekse Narbutas nurodė skaitęs formą „Galindam“.
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190673|Adomas Stanislovas Naruševičius]]: Gotai, pasak Narbuto cituojamų Naruševičiaus tyrimų, 161 m. su karaliumi Filimeru iš Germanijos į Sarmatiją kėlėsi per Vyslos žemupį.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios žemės kartais atrodydavo kaip salos, o kartais kaip žemynas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Po to
-    tas pats geografas vardija tos pačios jūros, kurią vadina
-    Sinus Codanus, salas, kurių didžiausią vadina Codano-
-    nia2\ vieni tyrinėtojai ją laiko Skandinavija3, O' kiti su­
-    pranta kaip Zelandiją4. Be to, sako: „Bet tarp esančių
-    priešais Sarmatiją salų dėl jūros potvynių ir atoslūgių
-    kartais atsiranda sausumos, o kartais jas skiria vanduo,
-    todėl kartais jos atrodo kaip salos, o kartais — kaip ne­
-    nutrūkstamas žemynas“. Negi Baltijos jūroje senovėje
-    būta jūros potvynių ir atoslūgių?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas svarstė, kad Melos laikais priešais Sarmatiją plytėjusios žemės galėjo būti užliejamos ir kartais laikomos salomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -102,8 +79,7 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
 - id: c-175563
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 173"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 173."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Po to
     tas pats geografas vardija tos pačios jūros, kurią vadina
@@ -125,8 +101,7 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
 - id: c-175564
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 337"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 337."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Palyginus vienus įrodymus su kitais, atrodo, jog
     gintaringą prūsų pakrantę kažkada išties sudarė salos.
@@ -138,7 +113,10 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
     būti laikomos salomis, o kartais buvo tarsi sausuma. Ka­
     dangi Baltijos jūroje potvynių ir atoslūgių nebūna, tai
     galėjo būti, jog Melos laikais vis dėlto buvęs staigus
-    vandens lygio kritimas.
+    vandens lygio kritimas. Tačiau neketinu dabar įrodinėti
+    šito nepatikimo dalyko, dėl kurio tiek amžių mokslininkai
+    bergždžiai laužė galvas.
+  citata_rodoma: "Palyginus vienus įrodymus su kitais, atrodo, jog\ngintaringą prūsų pakrantę kažkada išties sudarė salos.\nJei Slėcėris nebūtų Įrodęs, kad Melą apie Baltijos jurą\nnieko tikro nežinojo, o tai, ką skelbė apie Prūsiją, Livo^-\nniją, Rusią, išmanė tik iš nuogirdų,, savo prielaidą pa­\ngrįsčiau Meios pasakojimais, jog priešais Sarmatiją ply­\ntinčios žemės buvo užliejamos, vadinasi, kartais galėjo\nbūti laikomos salomis, o kartais buvo tarsi sausuma. Ka­\ndangi Baltijos jūroje potvynių ir atoslūgių nebūna, tai\ngalėjo būti, jog Melos laikais vis dėlto buvęs staigus\nvandens lygio kritimas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

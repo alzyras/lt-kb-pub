@@ -35,25 +35,6 @@ media_all_json: |-
   teiginys: "Rūdninkų medžioklės rūmai buvo mediniai, stovėjo ant aukšto mūrinio cokolio ir buvo skirti karaliams apsistoti."
   pagrindžia:
     - c-82010
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rūdninkų medžioklės rūmai buvo mediniai, stovėjo ant aukšto mūrinio cokolio ir buvo skirti karaliams apsistoti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vis dėlto esama vieno gana nemažo
-    iš plytų ir akmens sumūryto pastato pamatų griuvėsių. Čia
-    buvo vadinamieji medžioklės rūmai, skirti apsistoti patiems
-    karaliams. Pastatyti iš medžio ant aukšto mūrinio cokolio,
-    stūksojo ant mažos kalvelės, puslankiu skalaujami veržlios
-    Merkio upės srovės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

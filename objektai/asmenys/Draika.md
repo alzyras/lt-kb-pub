@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - pilis
   - pareigūnas
 amziai:
   - 'XIV'
@@ -35,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų. Dusburgietis teigia, kad paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
+Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrikštytas su visa šeimyna. 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos. Draika Kojelavičiaus pasakojime pradėjo linkti į krikščionių tikėjimą ir per sūnų Piną susitarė su Ragainės komtūru Folradu.
 
 ## Teiginiai
 
@@ -56,9 +57,30 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 <a id="claim-t-184694"></a>
 - t-003
   global_id: t-184694
-  teiginys: "Aukaimio pilies viršininkas Draika pradėjo linkti į krikščionių tikėjimą."
+  teiginys: "Draika Kojelavičiaus pasakojime pradėjo linkti į krikščionių tikėjimą ir per sūnų Piną susitarė su Ragainės komtūru Folradu."
   pagrindžia:
     - c-168055
+
+<a id="claim-t-196445"></a>
+- t-004
+  global_id: t-196445
+  teiginys: "Draika per sūnų Piną suderino ketinimus su Ragainės komtūru Folradu ir vadovavo nakties sargybai, kai Folradas pritraukė kariuomenę prie pilies."
+  pagrindžia:
+    - c-178692
+
+<a id="claim-t-197071"></a>
+- t-005
+  global_id: t-197071
+  teiginys: "Draika prijojo vietą, kur jo arklys nebenorėjo toliau nė žingsnio žengti, nors jį ir smarkiai ragino pentinais."
+  pagrindžia:
+    - c-60740
+
+<a id="claim-t-197072"></a>
+- t-006
+  global_id: t-197072
+  teiginys: "Draika išvydo neapsakomai aukštą skardį, nuo kurio galėjo nukristi į giliausią prarają, jeigu arklys būtų bent žingsnį žengęs į priekį, jis paženklino save šventuoju kryžiaus ženklu ir pašlovino vardą viešpaties, per kurį išvengė šitokio siaubingo pavojaus."
+  pagrindžia:
+    - c-60741
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę.md#claim-t-185727|Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)]]: Draika per sūnų Piną susitarė su Ragainės komtūru Folradu ir įleido jo kariuomenę į Aukaimio pilį.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę.md#claim-t-185726|Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)]]: Aukaimio pilis buvo prarasta per jos viršininko Draikos išdavystę.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę.md#claim-t-185727|Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)]]: Draika per sūnų Piną susitarė su Ragainės komtūru Folradu ir įleido jo kariuomenę į Aukaimio pilį.
@@ -66,87 +88,23 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 - susijęs iš [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.).md#claim-t-31407|Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]: Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį.
 - susijęs iš Aukaimis: Aukaimio pilis tais pačiais metais buvo prarasta per išdavystę.
 - susijęs iš Ragainė: Po Aukaimio užėmimo Draika buvo nuvestas į Ragainę ir čia pakrikštytas su visa šeimyna.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    280 (273). Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
-
-      Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
-    pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir
-    panoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai
-    pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai
-    prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių
-    rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
-    štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
-    kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrikštytas su visa šeimyna.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus,  ir broliai, ten
-    įsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai
-
-      554 Konradas Žakas, atrodo, ne pastatė Goliubo  pilį, o tik ją pritaikė kryžiuočių
-    poreikiams (Powierski J., Dobra..., p. 191 — 192).
-
-    sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
-    Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Aukaimio pilies viršininkas Draika pradėjo linkti į krikščionių tikėjimą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėlto žmonių ne­
-    daug žuvo, nes gyventojai,
-    palikę namus priešų valiai, patys su visais brangesniais
-    daiktais išsislapstė miškų tankmėse. Tais pačiais me­
-    tais per išdavystę buvo prarasta Aukaimio pilis. Pilies
-    viršininkas Draika pradėjo linkti į krikščionių tikėji­
-    mą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-60740
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 194"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    280 (273). Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
-
-      Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
-    pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir
-    panoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai
-    pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai
-    prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių
-    rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
-    štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
-    kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
+    Galop jis prijojo vietą, kur jo arklys nebenorėjo toliau nė žingsnio
+    žengti, nors jį ir smarkiai ragino pentinais. Mat arklys matė pavojų, kurio raitelis nakties
+    tamsoje negalėjo išvysti. Galop Henrikas tarė savo arkliui, stipriai jį paspausdamas
+    pentinais: „Vardan viešpaties— į priekį“. Tada jo bendras, tai yra velnias, atsistojo prieš
+    jį ir pasakė: „Tavo laimė, kad paminėjai savo dievo vardą, jeigu to nebūtum padaręs,
+    jau būtum negyvas nutrenktas į šią pragarmę“. Pagautas siaubo, Henrikas liko stovėti
+    toje vietoje, iki aušros nedrįsdamas nei į priekį žengti, nei atgal trauktis; kai jis išvydo
+    neapsakomai aukštą skardį, nuo kurio galėjo nukristi į giliausią prarają, jeigu arklys būtų
+    bent žingsnį žengęs į priekį, jis paženklino save šventuoju kryžiaus ženklu ir pašlovino
+    vardą viešpaties, per kurį išvengė šitokio siaubingo pavojaus.
   citata_rodoma: "Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais\n\n  Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio\npilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir\npanoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai\npasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai\nprašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių\nrankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir\nštai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,\nkad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika."
   statusas: verified
   teiginio_tipas: faktas
@@ -154,47 +112,79 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60109
+    - t-197071
 
 - id: c-60741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 194-195"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194-195."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus,  ir broliai, ten
-    įsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai
-
-      554 Konradas Žakas, atrodo, ne pastatė Goliubo  pilį, o tik ją pritaikė kryžiuočių
-    poreikiams (Powierski J., Dobra..., p. 191 — 192).
-
-    sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
-    Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
+    Pagautas siaubo, Henrikas liko stovėti
+    toje vietoje, iki aušros nedrįsdamas nei į priekį žengti, nei atgal trauktis; kai jis išvydo
+    neapsakomai aukštą skardį, nuo kurio galėjo nukristi į giliausią prarają, jeigu arklys būtų
+    bent žingsnį žengęs į priekį, jis paženklino save šventuoju kryžiaus ženklu ir pašlovino
+    vardą viešpaties, per kurį išvengė šitokio siaubingo pavojaus. Po to vieną pavakarę jis
+    išvydo teisėją, sėdintį prie pakylos, ir apsukui stovėjusią minią žmonių, kurie įniko jį
+    kaltinti visokiausiais nusikaltimais; įvestas į teismą ir teisėjo paklaustas, kuo galįs atremti
+    jam keliamus įkalčius, jis nusigandęs tylėjo. Ilgokai jam grasinę, galop tarėjai paprašė
+    teisėją jo pasigailėti, o jį paakino tučtuojau pakeisti savo gyvenimo būdą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60108
+    - t-197072
 
 - id: c-168055
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 179."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vis dėlto žmonių ne­
-    daug žuvo, nes gyventojai,
-    palikę namus priešų valiai, patys su visais brangesniais
-    daiktais išsislapstė miškų tankmėse. Tais pačiais me­
-    tais per išdavystę buvo prarasta Aukaimio pilis. Pilies
+    Pilies
     viršininkas Draika pradėjo linkti į krikščionių tikėji­
-    mą.
+    mą. Negalėdamas tarp saviškių garbinti dievo pagal
+    šias apeigas, jis ryžosi pereiti priešo pusėn, o prieš
+    tai pelnyti jo palankumą nepaprasta išdavyste. Todėl,
+    pasiuntęs tarpininku savo sūnų Piną, suderino savo
+    ketinimus su Folradu, Ragainės komtūru, ir sutarė die­
+    ną; Draika pats vadovavo nakties sargybai, kai Folra-
+    das tamsoje pritraukė prie pilies kariuomenę: atida­
+    rius vartus, buvo įleistas į pilį, karius ir visą kariauti
+    pajėgiantį jaunimą jis skerste išskerdė, o vaikus ir
+    moteris išsivarė į vergovę.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184694
+
+- id: c-178692
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Negalėdamas tarp saviškių garbinti dievo pagal
+    šias apeigas, jis ryžosi pereiti priešo pusėn, o prieš
+    tai pelnyti jo palankumą nepaprasta išdavyste. Todėl,
+    pasiuntęs tarpininku savo sūnų Piną, suderino savo
+    ketinimus su Folradu, Ragainės komtūru, ir sutarė die­
+    ną; Draika pats vadovavo nakties sargybai, kai Folra-
+    das tamsoje pritraukė prie pilies kariuomenę: atida­
+    rius vartus, buvo įleistas į pilį, karius ir visą kariauti
+    pajėgiantį jaunimą jis skerste išskerdė, o vaikus ir
+    moteris išsivarė į vergovę. Paėmė į nelaisvę ir gyvą
+    paliko tiktai Sudargo sūnų, kilmingą ir narsų jauni­
+    kaitį, kuris, sunkiai sužeistas, nebegalėjo nei apsiginti,
+    nei atkakliu pasipriešinimu sukurstyti priešą jį pribaig­
+    ti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196445
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Pinas]]

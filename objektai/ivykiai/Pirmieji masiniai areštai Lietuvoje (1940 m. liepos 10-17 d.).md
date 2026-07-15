@@ -58,31 +58,6 @@ Nenurodyta
   teiginys: "1940 m. liepos 6 d. Antanas Sniečkus išleido įsakymą, leidusį suimti agituojančius prieš Liaudies vyriausybę."
   pagrindžia:
     - c-26608
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1940 m. liepos 6 d. Antanas Sniečkus išleido įsakymą, leidusį suimti agituojančius prieš Liaudies vyriausybę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Represijos ir 1941 metų
-    Birželio sukilimas
-    Represijos, areštai, deportacijos, jų baimė – sudedamoji
-    bolševikų vykdytos politikos dalis. 1940 m. liepos 6 d. Valstybės saugumo
-    departamento direktorius A. Sniečkus išleido įsakymą, leidžiantį suimti
-    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
-    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
-    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
-
-    L I E T U V O S  I S T O R I J A
-    194
-    turėjo neleisti tokiems pabėgti į Vokietiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

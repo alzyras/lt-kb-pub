@@ -41,39 +41,12 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
 
 ## Teiginiai
 
-<a id="claim-t-54813"></a>
+<a id="claim-t-54812"></a>
 - t-001
-  global_id: t-54813
+  global_id: t-54812
   teiginys: "Vilniaus miesto istorijos rašymo tradicijos atsiradimas siejamas su locus geni akcentavimu romantinėje pasaulėžiūroje."
   pagrindžia:
     - c-55823
-
-<a id="claim-t-54813"></a>
-- t-002
-  global_id: t-54813
-  teiginys: "Vilniaus miesto istorijos rašymo tradicijos atsiradimas siejamas su locus geni akcentavimu romantinėje pasaulėžiūroje."
-  pagrindžia:
-    - c-55823
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vilniaus miesto istorijos rašymo tradicijos atsiradimas yra
-    susijęs su locus geni akcentavimu romantinėje pasaulėžiūroje.
-    Nors M. Balinskio istorinio veikalo stilių vargu ar galima pava­
-    dinti romantišku, tačiau pats tyrimo objektas - tai iš amžių glū­
-    dumos kylantis Miestas, savo istorija susiliečiantis su amžinin­
-    kais. Kiekviena gatvė, bažnyčia, kalnas, rūmai ar vienuolynas
-    turi savo praeitį, kuri užrašyta istoriniuose dokumentuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -95,5 +68,4 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54813
     - t-54812

@@ -37,7 +37,6 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     - c-59397
 - susijęs iš Lochštetė: Lochštetės pilis stovėjo Sembos pietvakarių kyšulyje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą ties vieta, kur Dusburgiečio laikais stovėjo Laukstetų pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,12 +62,12 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - id: c-59397
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 103"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 103."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie Girmavos valsčiaus nuniokojimą
     Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
     aprašinėdami skyrium, nors šį bei tą reikia pasakyti. Kristburgo komtūras, brolis Henrikas,
-    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
+    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą
     prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
     pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
     žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai. Mūsų minėtasis

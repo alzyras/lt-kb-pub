@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses. Narbutas rašo, kad Teodorikas 479 m. nesileido Zenono kurstomas prieš Odoakrą, bet vėliau Italijos žygį jam paskatino pavydas ir krašto troškimas.
+Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses. Narbutas rašo, kad Teodorikas 479 m. nesileido Zenono kurstomas prieš Odoakrą, bet vėliau Italijos žygį jam paskatino pavydas ir krašto troškimas. Galop jis slapta susitarė su Teodoriku, pasikliaudamas pažadais, o gal vildamasis sukelti barbarų valdovų tarpusavio karą; abiem šalims nusilpus, atsirastų proga pašalinti juos abu, be to, jis leido ostrogotams grobti ir Romą, ir Italiją.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -54,38 +54,24 @@ Nenurodyta
   teiginys: "Narbutas rašo, kad Teodorikas 479 m. nesileido Zenono kurstomas prieš Odoakrą, bet vėliau Italijos žygį jam paskatino pavydas ir krašto troškimas."
   pagrindžia:
     - c-173939
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197561"></a>
+- t-003
+  global_id: t-197561
+  teiginys: "Galop jis slapta susitarė su Teodoriku, pasikliaudamas pažadais, o gal vildamasis sukelti barbarų valdovų tarpusavio karą; abiem šalims nusilpus, atsirastų proga pašalinti juos abu, be to, jis leido ostrogotams grobti ir Romą, ir Italiją."
+  pagrindžia:
+    - c-173938
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    325
-    Rytų imperatorius, silpstant jo galiai, blaškėsi pavy­
-    dėdamas, sudarinėjo su Odoakru sutartis ir vėl pažeidi­
-    nėjo paliaubas, ieškojo priežasčių susidūrimams ir vėl
-    stengėsi jų išvengti. Galop jis slapta susitarė su Teodo-
+    Galop jis slapta susitarė su Teodo-
     riku, pasikliaudamas pažadais, o gal vildamasis sukelti
     barbarų valdovų tarpusavio karą; abiem šalims nusilpus,
     atsirastų proga pašalinti juos abu, be to, jis leido ostro-
     gotams grobti ir Romą, ir Italiją. Nors Teodorikas gerai
-    perprato ketinimus visuomet klastingo Zenono, kuris jau
-    seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po
-    Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
-    ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas rašo, kad Teodorikas 479 m. nesileido Zenono kurstomas prieš Odoakrą, bet vėliau Italijos žygį jam paskatino pavydas ir krašto troškimas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Nors Teodorikas gerai
     perprato ketinimus visuomet klastingo Zenono, kuris jau
     seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po
     Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
@@ -93,30 +79,23 @@ Nenurodyta
     Bet dabartinėmis aplinkybėmis surengti Italijos žygį pa­
     skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
     ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
-    klausė Mezijoje. Tariamomis žygio priežastimis tapo
-    kerštas už padarytą rugiams skriaudą ir vykdymas įsa­
-    kymų Zenono, kuris tuomet buvo laikomas imperatoriumi
-    visos Romos valstybės, buvusios iki jos pasidalijimo į
-    Rytų ir Vakarų imperijas; kartu jis turėjo teisę savo nuo­
-    žiūra skirti vietininkus Italijoje ir nušalinti jam neįtin­
-    kančius.
+    klausė Mezijoje.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
+    - t-001
+    - t-003
 
 ## Citatos
 
 - id: c-173938
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 320"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    325
     Rytų imperatorius, silpstant jo galiai, blaškėsi pavy­
     dėdamas, sudarinėjo su Odoakru sutartis ir vėl pažeidi­
     nėjo paliaubas, ieškojo priežasčių susidūrimams ir vėl
@@ -129,18 +108,23 @@ Nenurodyta
     seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po
     Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
     ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
+    Bet dabartinėmis aplinkybėmis surengti Italijos žygį pa­
+    skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
+    ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
+    klausė Mezijoje.
+  citata_rodoma: "Galop jis slapta susitarė su Teodo- \nriku, pasikliaudamas pažadais, o gal vildamasis sukelti \nbarbarų valdovų tarpusavio karą; abiem šalims nusilpus, \natsirastų proga pašalinti juos abu, be to, jis leido ostro- \ngotams grobti ir Romą, ir Italiją. Nors Teodorikas gerai \nperprato ketinimus visuomet klastingo Zenono, kuris jau \nseniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po \nNepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­\nninko; tačiau tuomet Teodorikas nesileido sukurstomas. \nBet dabartinėmis aplinkybėmis surengti Italijos žygį pa­\nskatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas \nir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­\nklausė Mezijoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191056
+    - t-197561
 
 - id: c-173939
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 320"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nors Teodorikas gerai
     perprato ketinimus visuomet klastingo Zenono, kuris jau

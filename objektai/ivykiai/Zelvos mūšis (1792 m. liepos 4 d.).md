@@ -57,29 +57,6 @@ Nenurodyta
   teiginys: "1792 m. liepos 4 d. LDK kariuomenė patyrė antrąjį pralaimėjimą prie Zelvos."
   pagrindžia:
     - c-77366
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1792 m. liepos 4 d. LDK kariuomenė patyrė antrąjį pralaimėjimą prie Zelvos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pirmasis didelis mūšis įvyko bir-
-    želio 11 d. prie Miro. Čia Lietuvos
-    kariuomenė patyrė pirmąją nesė-
-    kmę. Birželio 18 d. Lenkijos kariuo-
-    menė prie Zelencų sumušė rusus,
-    tačiau didelėms priešų pajėgoms
-    spaudžiant ATR pajėgos turėjo
-    trauktis visu frontu, liepos
-    4 d. LDK kariuomenė patyrė an-
-    trąjį pralaimėjimą prie Zelvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

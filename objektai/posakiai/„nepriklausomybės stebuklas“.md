@@ -35,25 +35,6 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
   teiginys: "Lietuvos pripažinimą tautine valstybe autoriai apibūdina kaip įvykusį „nepriklausomybės stebuklą“."
   pagrindžia:
     - c-67272
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos pripažinimą tautine valstybe autoriai apibūdina kaip įvykusį „nepriklausomybės stebuklą“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva nelengvai, tačiau tapo
-    visateise Europos valstybe. Taigi istorinės LDK dalybos baigėsi tuo, kad
-    tautinį valstybingumą įgyvendino tik lietuviai, o likusias LDK žemes pa-
-    sidalijo Lenkija ir Sovietų Rusija. Pirmąsias sutartis Lietuva pasirašė kaip
-    tautinė valstybė ir buvo tokia pripažinta – nepriklausomybės stebuklas
-    įvyko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

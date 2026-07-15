@@ -53,22 +53,6 @@ Nenurodyta
   teiginys: "1621 m. Rygai atitekus švedams, Lietuvos laisvajai prekybai užsidarė Dauguvos kelias per Rygą."
   pagrindžia:
     - c-02032
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėju-
-    siam Dauguvos upe per Rygą. Kai 1621 m. Ryga atiteko Šve-
-    dams, laisvajai prekybai užsidarė ir šis kelias. Dėl visų šitų
-    priežasčių sugriautam Lietuvos ūkiui buvo sunku atsigauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

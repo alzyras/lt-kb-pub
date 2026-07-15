@@ -43,39 +43,6 @@ Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusi
   teiginys: "Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio masPetrus Maureus Royzius, gimęs Alcagnizo [ Alkaniso] mieste Aragonoje, kilęs iš ispanų Ruiz de Moros gi minės."
   pagrindžia:
     - c-176910
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio masPetrus Maureus Royzius, gimęs Alcagnizo [ Alkaniso] mieste Aragonoje, kilęs iš ispanų Ruiz de Moros gi minės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau šio karaliaus val­
-    dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­
-    žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio mas-
-    50
-    Petrus Maureus Royzius, gimęs Al-
-    cagnizo [ Alkaniso] mieste Aragono-
-    je, kilęs iš ispanų Ruiz de Moros gi­
-    minės, įvairiomis bylomis išgarsėjęs
-    teisininkas, pagaliau buvęs LDK
-    miesto reikalų referendorius ir Vil­
-    niaus katedros kustodas. Garsiau­
-    sias jo veikalas yra „Lietuvos spren­
-    dimai", kur jis pasireiškė kaip
-    didelis Romos teisės garbintojas ir
-    kuo nepalankiausiai nusiteikęs Lie­
-    tuvos Statuto atžvilgiu. Daugiausia
-    žinių apie šį nepaprastą žmogų ga­
-    lima surasti O s s o 1  i ń s k i II t., 1.155
-    sq.; jis pataisė Janockio ir kitų Roizi-
-    jaus biografų klaidas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -69,45 +69,6 @@ Nenurodyta
   teiginys: "Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos."
   pagrindžia:
     - c-73072
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tų pačių metų sausį Lietuva prisijungė
-    prie Partnerystės taikos labui iniciatyvos. 1999 m. balandį NATO šalių
-    vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą
-    siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stoji-
-    mui į NATO. 2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
-    garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
-    tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
-    259
-    Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie
-    Šiaurės Atlanto bendradarbiavimo tarybos. 1994 m. sausį Lietuvos Res-
-    publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-
-    toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
-    dauja tapti šios organizacijos nare. Tų pačių metų sausį Lietuva prisijungė
-    prie Partnerystės taikos labui iniciatyvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

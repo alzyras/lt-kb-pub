@@ -35,24 +35,6 @@ Tegyvuoja gegužės 3 d. konstitucija!: vienas Vilniaus gimnazijos mokinys ant l
   teiginys: "Po šūkio „Tegyvuoja gegužės 3 d. konstitucija!“ užrašymo prasidėjo mokinių ir studentų kratos bei areštai."
   pagrindžia:
     - c-67252
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po šūkio „Tegyvuoja gegužės 3 d. konstitucija!“ užrašymo prasidėjo mokinių ir studentų kratos bei areštai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Te-
-    gyvuoja gegužės 3 d. konstitucija!" (mat, ši reforminio
-    seimo konstitucija lenkų ir Lietuvos bajorijos buvo laiko-
-    ma siektinu idealu ir laisvės garantija). Tuojau po to prasi-
-    dėjo kratos ir areštai mokinių ir studentų tarpe.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

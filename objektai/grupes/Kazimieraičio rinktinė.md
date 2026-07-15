@@ -42,22 +42,6 @@ media_all_json: |-
   teiginys: "1948 m. Vaclovas Voveris buvo paskirtas Kazimieraičio rinktinės vadu ir ėjo Dainavos apygardos vado pavaduotojo pareigas."
   pagrindžia:
     - c-77352
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1948 m. Vaclovas Voveris buvo paskirtas Kazimieraičio rinktinės vadu ir ėjo Dainavos apygardos vado pavaduotojo pareigas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sovietams vėl okupavus Lietuvą, 1944 m. V. Voveriui su savo bendražygiais
-    teko pasitraukti į pogrindį. 1948 m. jis buvo paskirtas Kazimieraičio rinktinės vadu,
-    ėjo ir Dainavos apygardos vado pavaduotojo pareigas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

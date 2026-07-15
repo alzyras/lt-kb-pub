@@ -35,25 +35,6 @@ p. dalys, turinčios apsaugoti divizijos vadovybe ir sustiprinti kitus pulkus.
   teiginys: "Į Ukmergę atvykusios 8-ojo pėstininkų pulko dalys turėjo apsaugoti divizijos vadovybę ir sustiprinti kitus pulkus."
   pagrindžia:
     - c-42615
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    B | Ukmergę atvyksta 8-ojo pest. p. dalys, turinčios apsaugoti divizijos va-
-
-    dovybe ir sustiprinti kitus pulkus. Lapkričio 19 d. 8-ojo pėst. p. III bn. ties
-
-    Šventosios upe atitveria plentą Ukmergė-Utena, taip apsaugodamas divi-
-
-    zijos kairįjį flangą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

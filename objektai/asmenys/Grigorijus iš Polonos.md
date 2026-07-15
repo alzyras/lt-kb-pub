@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas.
+Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas. Kojelavičiaus pasakojime Grigorijus iš Polonos prie Naugarduko pasistatė vienuolyną ir su bendraminčiais ėmė dievobaimingai gyventi.
 
 ## Teiginiai
 
@@ -34,57 +34,44 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
   teiginys: "Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas."
   pagrindžia:
     - c-169566
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vaišvilkas mat, pasipiktinęs savo tėvo Min­
-    daugo atsimetimu nuo krikščionių tikybos, pabėgo pas
-    rusus, kur kitados gyveno kaip įkaitas. Didžiai pasi­
-    keitus aplinkybėms, jo širdis ten palinko niekinti visa,
-    kas žemiška, todėl, išpažinęs griežtesnių regulų gyve­
-    nimą pagal Grigorijaus iš Polonos mokslą, gyveno Ga-
-    liče. Gal dėl kitos priežasties, o gal vildamasis atvers­
-    ti į krikščionių tikėjimą tėvą karalių bei savo tautą,
-    iš ten jis vėl persikraustė į Lietuvą; netoli Naugardu­
-    ko Nemuno pakrantėje pasistatęs vienuolyną, ten ėmė
-    su daugeliu tokio pat gyvenimo bendrininkų dievo­
-    baimingai ir pastoviai gyventi, kartkartėmis, tiesa,
-    kurstomas didikų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196466"></a>
+- t-002
+  global_id: t-196466
+  teiginys: "Kojelavičiaus pasakojime Grigorijus iš Polonos prie Naugarduko pasistatė vienuolyną ir su bendraminčiais ėmė dievobaimingai gyventi."
   pagrindžia:
-    - t-001
+    - c-169566
 
 ## Citatos
 
 - id: c-169566
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 110"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 110."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vaišvilkas mat, pasipiktinęs savo tėvo Min­
-    daugo atsimetimu nuo krikščionių tikybos, pabėgo pas
-    rusus, kur kitados gyveno kaip įkaitas. Didžiai pasi­
-    keitus aplinkybėms, jo širdis ten palinko niekinti visa,
-    kas žemiška, todėl, išpažinęs griežtesnių regulų gyve­
-    nimą pagal Grigorijaus iš Polonos mokslą, gyveno Ga-
-    liče. Gal dėl kitos priežasties, o gal vildamasis atvers­
+    Gal dėl kitos priežasties, o gal vildamasis atvers­
     ti į krikščionių tikėjimą tėvą karalių bei savo tautą,
     iš ten jis vėl persikraustė į Lietuvą; netoli Naugardu­
     ko Nemuno pakrantėje pasistatęs vienuolyną, ten ėmė
     su daugeliu tokio pat gyvenimo bendrininkų dievo­
     baimingai ir pastoviai gyventi, kartkartėmis, tiesa,
-    kurstomas didikų.
+    kurstomas didikų. Gavęs žinią, kad Treniota nužudė jo
+    tėvą ir brolius, jis, nenorėdamas susilaukti tokios pat
+    dalios, paspruko į Pinską. Keršto troškimas nedavė
+    ramybės širdžiai, kuri per trumpą laiką dar nebuvo
+    pakankamai užgrūdinta nepasiduoti žmogiškiems jaus­
+    mams. Šitaip susiklosčius jo gyvenimui, jis neturėjo
+    ir negalėjo pats rasti būdo keršyti. Todėl ėmė skatin­
+    ti Tautvilą: jam, krikščioniui valdovui, jis perduodąs
+    iš tėvo paveldėtas teises į Lietuvą, be to, maldaująs,
+    kad nenurimtų neatkeršijęs Treniotai už tiek daug pik­
+    tadarybių, kad tėvui Mindaugui paaukotų jo žudiko
+    kraują.
+  citata_rodoma: "Vaišvilkas mat, pasipiktinęs savo tėvo Min­\ndaugo atsimetimu nuo krikščionių tikybos, pabėgo pas\nrusus, kur kitados gyveno kaip įkaitas. Didžiai pasi­\nkeitus aplinkybėms, jo širdis ten palinko niekinti visa,\nkas žemiška, todėl, išpažinęs griežtesnių regulų gyve­\nnimą pagal Grigorijaus iš Polonos mokslą, gyveno Ga-\nliče. Gal dėl kitos priežasties, o gal vildamasis atvers­\nti į krikščionių tikėjimą tėvą karalių bei savo tautą,\niš ten jis vėl persikraustė į Lietuvą; netoli Naugardu­\nko Nemuno pakrantėje pasistatęs vienuolyną, ten ėmė\nsu daugeliu tokio pat gyvenimo bendrininkų dievo­\nbaimingai ir pastoviai gyventi, kartkartėmis, tiesa,\nkurstomas didikų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186205
+    - t-196466

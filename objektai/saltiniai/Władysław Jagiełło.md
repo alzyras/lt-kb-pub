@@ -34,21 +34,6 @@ media_all_json: |-
   teiginys: "St. Smolka ir Fr. Papée parengė tekstą „Władysław Jagiełło“, paskelbtą „Encyklopedja Polska“ V tomo 1 dalyje."
   pagrindžia:
     - c-33760
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    —- (”) _Król Wladystaw Jagiełto,_ I-II, Kraków 1908.
-    — (”) _Markward Salzbach,_ PH, t. 9, 1909, 12-28, 121-132 p. — Smolka,
-    St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

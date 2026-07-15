@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 72
+tema_objektu_skaicius: 71
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 72.
+Objektų skaičius: 71.
 
 ## Kaip naudoti
 
@@ -37,6 +37,7 @@ Objektų skaičius: 72.
 - [[objektai/ivykiai/Bonifaco VIII ir Pilypo IV nesantarvė bei bulės sudeginimas Paryžiuje (1302 m.)]]
 - [[objektai/ivykiai/Bonifaco VIII suėmimas Ananyje ir bažnyčios turto išnešiojimas (1303 m. rugsėjo pradžia)]]
 - [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje]]
+- [[objektai/ivykiai/Deputato Łapos ir Weysenhoffo susirėmimas Vilniuje (1758 m. rugsėjo 9 d.)]]
 - [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
 - [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]
 - [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis]]
@@ -50,7 +51,7 @@ Objektų skaičius: 72.
 - [[objektai/ivykiai/Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.)]]
 - [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]
 - [[objektai/ivykiai/Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas]]
-- [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]
+- [Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)](../objektai/ivykiai/Junig%C4%97dos%20puolimas%20ir%20Mederabos%20sunaikinimas%20%281291%20m.%29)
 - [Kampsvykių pilies užkariavimas (pilis)](../objektai/ivykiai/Kampsvyki%C5%B3%20pilies%20u%C5%BEkariavimas)
 - [Kauno apgulties pradžia (1362 m.)](../objektai/ivykiai/Kauno%20apgulties%20prad%C5%BEia%20%281362%20m.%29)
 - [Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu (sutartis)](../objektai/ivykiai/Kazimiero%20konfliktas%20d%C4%97l%20Rusios%20ir%20sutartis%20su%20lietuvi%C5%B3%20valdovu)
@@ -59,7 +60,6 @@ Objektų skaičius: 72.
 - [Klaipėdos prisijungimas prie Lietuvos (1923 m.)](../objektai/ivykiai/Klaip%C4%97dos%20prisijungimas%20prie%20Lietuvos%20%281923%20m.%29)
 - [Kražių įvykiai](../objektai/ivykiai/Kra%C5%BEi%C5%B3%20%C4%AFvykiai)
 - [Kulmenzės miesto apgula ir sužeisto prūso iškeitimas (miestas)](../objektai/ivykiai/Kulmenz%C4%97s%20miesto%20apgula%20ir%20su%C5%BEeisto%20pr%C5%ABso%20i%C5%A1keitimas)
-- [Kęstučio suėmimas ir nužudymas po susitikimo su Jogaila](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20su%C4%97mimas%20ir%20nu%C5%BEudymas%20po%20susitikimo%20su%20Jogaila)
 - [Kęstučio Vilniaus užėmimas ir Jogailos suėmimas](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20Vilniaus%20u%C5%BE%C4%97mimas%20ir%20Jogailos%20su%C4%97mimas)
 - [Lencenbergo pilies ir jos kilmingųjų sudeginimas (pilis)](../objektai/ivykiai/Lencenbergo%20pilies%20ir%20jos%20kilming%C5%B3j%C5%B3%20sudeginimas)
 - [Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.)](../objektai/ivykiai/Lietuvos%20karo%20pad%C4%97ties%20paskelbimas%20ir%20sprendimas%20i%C5%A1varyti%20bermontininkus%20i%C5%A1%20Lietuvos%20%281919%20m.%20spalio%209%E2%80%9316%20d.%29)
@@ -84,7 +84,6 @@ Objektų skaičius: 72.
 - [Tautvilo nužudymas (apie 1263-1264 m.)](../objektai/ivykiai/Tautvilo%20nu%C5%BEudymas%20%28apie%201263-1264%20m.%29)
 - [Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas](../objektai/ivykiai/Tautvilo%20s%C4%85mokslas%20prie%C5%A1%20Treniot%C4%85%2C%20Tautvilo%20nu%C5%BEudymas%20ir%20Polocko%20u%C5%BE%C4%97mimas)
 - [Tautvilos nužudymas](../objektai/ivykiai/Tautvilos%20nu%C5%BEudymas)
-- [Treniotos nužudymas](../objektai/ivykiai/Treniotos%20nu%C5%BEudymas)
 - [Treniotos nužudymas (1264 m.)](../objektai/ivykiai/Treniotos%20nu%C5%BEudymas%20%281264%20m.%29)
 - [Treniotos nužudymas ir Vaišelgos atėjimas į valdžią](../objektai/ivykiai/Treniotos%20nu%C5%BEudymas%20ir%20Vai%C5%A1elgos%20at%C4%97jimas%20%C4%AF%20vald%C5%BEi%C4%85)
 - [Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.)](../objektai/ivykiai/Tre%C4%8Diasis%20Lenkijos-Lietuvos%20valstyb%C4%97s%20padalijimas%20%281795%20m.%29)

@@ -127,127 +127,6 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
 - susijęs iš Gardinas: Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas.
 - susijęs iš Gardinas: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.
 - susijęs iš Paulava: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma Apšvietos epochos pradžios ženklu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
-    XVIII a. pabaigoje. Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
-    vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
-    panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
-    kartais laikomi Apšvietos epochos pradžia.
-    Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
-    sąjunga, sukurta Liublino unijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-004
-    - t-006
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dail. P. Smuglevičius, 1800 m.
-    įsteigė tekstilės, popieriaus, galanterijos, ginklų, vežimų manufaktūras
-    Gardino ekonomijoje. A. Tyzenhauzo reformos buvo vienas iš svarbiau-
-    sių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-007
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    For-
-    mavosi nauji fizikos, biologijos ir medicinos mokslai, astronomija tapo ats-
-    kira specialybė. Nors lietuvių kalba buvo mokoma tik pradinėje mokykloje,
-    o vidurinė mokykla ir universitetas perėjo nuo lotynų kalbos prie lenkų, vis
-    dėlto naujoji švietimo sistema griovė luomų barjerus.
-    Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
-    po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
-    ūkį, pradžia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors lietuvių kalba buvo mokoma tik pradinėje mokykloje,
-    o vidurinė mokykla ir universitetas perėjo nuo lotynų kalbos prie lenkų, vis
-    dėlto naujoji švietimo sistema griovė luomų barjerus.
-    Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
-    po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
-    ūkį, pradžia. Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
-    steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
-    buvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me-
-    lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
-    lės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
-    po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
-    ūkį, pradžia. Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
-    steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
-    buvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me-
-    lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
-    lės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
-    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-010
-    - t-003
-
-- c-006
-  santrauka: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
-    steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
-    buvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me-
-    lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
-    lės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
-    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine. Jis
-
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    89
-    Lietuvos valstiečiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
 ## Citatos
 
 - id: c-21603
@@ -268,9 +147,9 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46009
     - t-46005
     - t-46007
+    - t-46009
 
 - id: c-25412
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -350,9 +229,9 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-46004
     - t-46006
     - t-46011
-    - t-46004
 
 - id: c-48648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

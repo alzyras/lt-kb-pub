@@ -7,13 +7,13 @@ datos:
   - '1342 m.'
 date_start: '1342'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,7 +65,6 @@ Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir 
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-188350|Slavai]]: Narbutas pagal Prilvico stabo piešinį sprendė, kad slavai vaizdavosi milžiną, ant pečių nešantį mažesnį žmogų.
 - susijęs iš Suroveckio studija „Rocznik Towarzystwa Przyjaciol Nauk“ leidinyje: Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Suroveckio studijoje, paskelbtoje 1812 m. Varšuvoje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir laikė Retrą pirmykščiu herulų miestu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -85,46 +84,22 @@ Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir 
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas teigia, kad dievo Santvara stabas rastas Prilvice su užrašu runomis Swaistix29, kur tarp 72 stabų, atkastų žemėje, tikriausiai ne vie nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotritai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo mis30.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Buvo ir lietuvių valdo­
-    vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
-    taitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
-    Dievo Santvara stabas rastas Prilvice su užrašu runomis
-    Swaistix29, kur tarp 72 stabų, atkastų žemėje, tikriausiai ne vie­
-    nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotri-
-    tai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo­
-    mis30. Viename dokumente, rusiškai rašytame XVI amžiuje
-    Lydos apskrityje ant labai patvaraus popieriaus, pastebėjau
-    vandenženklį arba fabriko ženklą, kurio atvaizdas yra IV lente­
-    27 Išsamesnių žinių apie senovės prūsų monetas yra Lybknechto
-    (Liebknecht) veikale “De antiquis nummis aliquando effosis in Prussia
-    Regali et adjacentibus Regionibus”.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-171854
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 264"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 264."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
-    dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
-    giją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir
-    puošė dievų statulomis. Neabejotina, kad Retra iš karto buvo
-    lierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-
-    l<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­
-    nanti prabangumu tas beveik dar laukines Europos šalis.
+    Bet manęs toks aiškinimas netenkina, todėl slavų senienų
+    tyrinėtojų dėmesį atkreipiau į žodį „Kontyna “. Aš pats piliečių sutarty­
+    se, parašytose Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog „Konty­
+    na “, „ Коптина“ - tai ypatingos konstrukcijos skrynia, skirta laikyti
+    stalo sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis. Si
+    skrynia būdavo naudojama ir kelionėms daiktams, ginklams susidėti;
+    tai buvo pačių vertingiausių daiktų saugykla (хранилище). Taigi galė­
+    jo būti, kad slavų protėviai taip vadino dievų šventyklas.
+  citata_rodoma: "Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­\ndę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­\ngiją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir\npuošė dievų statulomis. Neabejotina, kad Retra iš karto buvo\nlierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-\nl<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­\nnanti prabangumu tas beveik dar laukines Europos šalis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -135,8 +110,7 @@ Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir 
 - id: c-177140
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Buvo ir lietuvių valdo­
     vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-

@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Skandinavija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -35,6 +36,13 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   teiginys: "Protestantizmas padėjo Skandinavijai pritapti prie dinamiškosios šiaurinės Vakarų Europos dalies."
   pagrindžia:
     - c-68637
+
+<a id="claim-t-197928"></a>
+- t-002
+  global_id: t-197928
+  teiginys: "Seningas imasi visokio darbo, siekdamas gintaro iš gavimo garbę priskirti Skandinavijai, nes tai didelis pu siasalis, plytintis net iki Ledinuotosios jūros."
+  pagrindžia:
+    - c-179404
 - susijęs iš [[objektai/asmenys/Odinas.md#claim-t-191166|Odinas]]: Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovės skitų dalies kelionę į Skandinaviją su Odinu priešakyje.
 - susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191090|Plinijus Vyresnysis]]: Plinijus rašė, kad Hilleviones, jo apibūdinti kaip labai gausūs žmonės, gyveno Skandinavijoje.
 - susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190952|Plinijus]]: Plinijus rašė, kad Hilleviones, jo apibūdinti kaip labai gausūs žmonės, gyveno Skandinavijoje.
@@ -90,30 +98,6 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - susijęs iš [[objektai/zodynas/variagų (normanų) laikotarpis.md#claim-t-32815|variagų (normanų) laikotarpis]]: Variagų laikotarpiu Dniepro baseine lietuviai plėtojo prekybinius santykius rytų kryptimi.
 - susijęs iš [[objektai/asmenys/Filimeras.md#claim-t-190855|Filimeras]]: Narbuto pasakojime kvadai, svebai, markomanai ir kitos gotų kartos daugelį metų traukė į Rytus paskui Filimerą per lietuvių tautų žemes ar jų pakraščiais.
 - susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-190796|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Teodoras Narbutas rašo, kad Tacitas gotus apibūdino kaip nuo senų laikų kairiojoje Vyslos žemupio pakrantėje gyvenusią tautą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Protestantizmas padėjo Skandinavijai pritapti prie dinamiškosios šiaurinės Vakarų Europos dalies.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
-    kiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-
-    panijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-
-    cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
-    dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
-    teris Paulius Rubensas).
-    Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
-    ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
-    pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
-    Vidurio Europą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-68637
@@ -138,3 +122,22 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69251
+
+- id: c-179404
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Seningas imasi visokio darbo, siekdamas gintaro iš­
+    gavimo garbę priskirti Skandinavijai, nes tai didelis pu­
+    siasalis, plytintis net iki Ledinuotosios jūros. Jis esąs
+    priešais Skitijos sausumą (Prūsiją, Livoniją) ir arčiausiai
+    baltų, iš kur kilo Baltijos pavadinimas. Iš tikrųjų kai ku­
+    rias sausumas galima laikyti buvusiomis salomis po to,
+    kai iš ten pasitraukė jūra.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197928

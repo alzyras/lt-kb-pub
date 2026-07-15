@@ -35,8 +35,8 @@ Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eil
   teiginys: "Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eilutę pasakojime apie žvaigždžių tuoktuves."
   pagrindžia:
     - c-172449
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eilutę pasakojime apie žvaigždžių tuoktuves.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -63,18 +63,18 @@ Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eil
 - id: c-172449
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 192"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 192."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žvaigždės tuokdavosi tarpusavy, kaip sakoma latvių
-    dainoje:
-    Kur palikti Deewa sirgi?
-    Deewa dehli jahdija.
-    Kur aisjahje Deewa dehli?
-    Saules mejtos raudsitees.
-    Patti Saule atbildeja:
-    Maži marini behrnini,
-    Mažas mannas dahwanes.
+    Laiške iš Raseinių gavau tokią informaciją: „Kai sužinojau
+    apie vieną senelį bajorą, gyvenusį Kretingos apylinkėse ir garsė-
+    jusį didele išmintimi, meteorologinių, politinių bei visuomeni­
+    nių įvykių prognozavimu, specialiai nuvykau pas jį dėdamasis,
+    jog noriu gauti patarimą. Tai buvo labai reikšmingo veido, apie
+    65 metų amžiaus žmogus, gyvenantis visiškai pasiturinčiai. Ma­
+    ne priėmė maloniai. Pradėjome šnekučiuotis ir prašnekėjome
+    nuo vakaro iki vėlyvos nakties (turėjau su savimi pasiėmęs kele­
+    tą butelaičių).
+  citata_rodoma: "Žvaigždės tuokdavosi tarpusavy, kaip sakoma latvių\ndainoje:\nKur palikti Deewa sirgi?\nDeewa dehli jahdija.\nKur aisjahje Deewa dehli?\nSaules mejtos raudsitees.\nPatti Saule atbildeja:\nMaži marini behrnini,\nMažas mannas dahwanes."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

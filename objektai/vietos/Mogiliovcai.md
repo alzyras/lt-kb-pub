@@ -34,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Bychovco kronikos rankraštis buvo aptiktas Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje. Mogiliovcai šiame gabale siejami su rankraščio radimo vieta.
+Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klimaševskis aptiko Bychovco kronikos rankraštį. Prieš 1830 m. Ipolitas Klimaševskis Bychovco kronikos rankraštį aptiko Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje.
 
 ## Teiginiai
 
@@ -48,7 +48,7 @@ Bychovco kronikos rankraštis buvo aptiktas Aleksandro Bychovco Mogiliovcų dvar
 <a id="claim-t-187263"></a>
 - t-002
   global_id: t-187263
-  teiginys: "Iki 1830 m. Ipolitas Klimaševskis Bychovco kronikos rankraštį aptiko Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje."
+  teiginys: "Prieš 1830 m. Ipolitas Klimaševskis Bychovco kronikos rankraštį aptiko Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje."
   pagrindžia:
     - c-170318
 - susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
@@ -59,37 +59,12 @@ Bychovco kronikos rankraštis buvo aptiktas Aleksandro Bychovco Mogiliovcų dvar
 - susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas.md#claim-t-187470|Žygimanto Kęstutaičio nužudymas]]: Ipolitas Klimaševskis paskelbė Bychovco kronikos pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m.
 - susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas.md#claim-t-187471|Žygimanto Kęstutaičio nužudymas]]: Žygimanto Kęstutaičio nužudymas datuojamas 1440 m.
 - susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    I RANKRAŠTIS IR JO  SKELBIMAS
-    Bychovco kronika, palyginus su Trumpuoju ir Pla-
-    tesniuoju sąvadais, yra pilniausia Lietuvos istorija, pa­
-    rašyta iki XVI a. vidurio; joje užpildytos Trumpojo
-    sąvado spragos Vytauto valdymo laikų aprašyme, o
-    Lietuvos istorija po 1446 m. sistemingai aprašoma ligi
-    1506 m.
-    Bychovco kronikos rankraštį prieš 1830 m. Alek­
-    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
-    niaus gimnazijos mokytojas Ipolitas Klimaševskis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-170318
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 8"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     I RANKRAŠTIS IR JO  SKELBIMAS
     Bychovco kronika, palyginus su Trumpuoju ir Pla-
@@ -107,5 +82,5 @@ Bychovco kronikos rankraštis buvo aptiktas Aleksandro Bychovco Mogiliovcų dvar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187263
     - t-187262
+    - t-187263

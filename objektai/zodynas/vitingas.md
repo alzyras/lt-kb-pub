@@ -74,43 +74,6 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
 - susijęs iš [[objektai/paprociai/Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas.md#claim-t-192102|Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas]]: Pasak Narbuto, prireikus Sambijos vitingai vadovavo ginkluotiems žmonėms, o iš jų buvo renkamas vyriausias karvedys, paskiausiai Glaudė.
 - susijęs iš [[objektai/paprociai/Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas.md#claim-t-192102|Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas]]: Pasak Narbuto, prireikus Sambijos vitingai vadovavo ginkluotiems žmonėms, o iš jų buvo renkamas vyriausias karvedys, paskiausiai Glaudė.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kitas aukštesnysis luo-
-    mas buvo atėjūnai vokiečiai bajorai, kurie čia gavo
-    dvarų ir kurių pareiga buvo padėti ordinui kariauti. Jų tarpe
-    buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam
-    tarnavęs (jie buvo vadinami vitingais). Ir iš jų, kaip ir iš atsi-
-    krausčiusių vokiečių riterių, kai kurie įstodavo į ordiną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    tinės valdžios. Prireikus jie vadovavo ginkluotiems žmo­
-    nėms, be to, iš jų buvo renkamas vyriausias karvedys,
-    kuriuo pastaruoju laiku buvo vitingas Glaudė.
-    Salavija
-    Vienuolikta Prūsijos provincija buvo Salavija, Scha-
-    laueri.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-005
-    - t-004
-
 - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -158,8 +121,7 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
 - id: c-175098
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 369"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     tinės valdžios. Prireikus jie vadovavo ginkluotiems žmo­
     nėms, be to, iš jų buvo renkamas vyriausias karvedys,
@@ -173,17 +135,22 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192275
-    - t-192274
     - t-192273
+    - t-192274
+    - t-192275
 
 - id: c-175099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 368"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 368."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šių užkariautojų palikuonys, val­
+    Turbūt
+    šio krašto didikai buvo skandinavų kariai, avantiūristai
+    ar veikiau jų vadų įpėdiniai, užvaldę kraštą, išžudę gink­
+    luotus žmones, pasidaliję tarpusavyje žemes, likusius
+    žmones paėmę į nelaisvę ir pavertę savo' darbo jėga, o
+    savo saugumui pastatę aukštesnėse vietose tvirtoves ir
+    taip tapę krašto ponais. Šių užkariautojų palikuonys, val­
     dę jų tėvams atitekusias žemes, mokėjo iš kartos į kartą
     deramai išsaugoti savo valdžią ir teisę į nuosavybę. Kaip
     savo valdų ponai ir turtingiausi krašto savininkai, jie
@@ -200,5 +167,5 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192272
     - t-192271
+    - t-192272

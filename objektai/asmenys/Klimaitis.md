@@ -35,21 +35,6 @@ Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis.
   teiginys: "111 būrio būrininkas Klimaitis pirmasis buvo apnuodytas nuodingų dujų sviedinių atakos metu."
   pagrindžia:
     - c-41572
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šie sviediniai buvo pripildyti nuodingų dujų. Jie sprogo prie apkasų ir palengva skleidėsi |
-    dujos. Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis. Jis staiga pasijuto blogai, |
-    ir skausmai spaudė jam krūtinę. Žmogus niekur negalėjo rasti ramybės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

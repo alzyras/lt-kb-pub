@@ -44,28 +44,6 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
 - susijęs iš Himanso planas: Lietuva ir Lenkija sutarė priimti Himanso planą kaip derybų pagrindą.
 - susijęs iš Himanso planas: Pagal Himanso planą Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karines bei ekonomines konvencijas.
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101588|federacija federacinė valstybė]]: P. Himansas parengė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuva ir Lenkija sutarė priimti Himanso planą kaip „bazę diskusijom“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    146
-    Per tris savaites P. Himansas Šveicarijos pavyzdžiu paruošė Lietuvos
-    federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
-    Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karinę
-    ir ekonominę konvencijas. Abi šalys sutarė priimti tą planą kaip „bazę
-    diskusijom“. 1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją,
-    pritariančią Himanso planui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-75161

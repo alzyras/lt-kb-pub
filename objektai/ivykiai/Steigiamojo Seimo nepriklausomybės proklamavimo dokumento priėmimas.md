@@ -59,28 +59,6 @@ Nenurodyta
   teiginys: "Steigiamasis Seimas vienbalsiai priėmė Lietuvos valstybės nepriklausomybės proklamavimo dokumentą."
   pagrindžia:
     - c-75232
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Steigiamasis Seimas vienbalsiai priėmė Lietuvos valstybės nepriklausomybės proklamavimo dokumentą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius. Vien-
-    balsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo
-    dokumentas, kuris dar kartą, kaip ir 1918 m. Vasario 16 Aktas, skelbė,
-    kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
-    tikriausiai turėjo reikšti, kad kiek atsitraukta vien nuo etnografinių sienų
-    planų, turint viltį, kad teritorija padidės. Steigiamojo Seimo pirmininku
-    išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m.
-    išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko
-    Kazio Griniaus vadovaujama vyriausybė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -45,36 +45,18 @@ Jano Potockio kelionės į Astrachanę ir jos apylinkes 1797 m. aprašymas buvo 
   teiginys: "Jano Potockio kelionės į Astrachanę ir jos apylinkes 1797 m. aprašymas buvo paskelbtas „Dziennik Wilenski“ 1828 m."
   pagrindžia:
     - c-173219
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jano Potockio kelionės į Astrachanę ir jos apylinkes 1797 m. aprašymas buvo paskelbtas „Dziennik Wilenski“ 1828 m.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šį kartą istorikas turėjo omenyje straipsnį: Podrož
-    Hrabiego Jana Potockiego do Astrachanu i okolic
-    przyleglych, w roku 1797 // Dziennik Wilenski. -
-    1828. -  T. V. -  S. 222-240; 284-304.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173219
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 483"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 483."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šį kartą istorikas turėjo omenyje straipsnį: Podrož
     Hrabiego Jana Potockiego do Astrachanu i okolic
     przyleglych, w roku 1797 // Dziennik Wilenski. -
-    1828. -  T. V. -  S. 222-240; 284-304.
+    1828. - T. V. - S. 222-240; 284-304.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

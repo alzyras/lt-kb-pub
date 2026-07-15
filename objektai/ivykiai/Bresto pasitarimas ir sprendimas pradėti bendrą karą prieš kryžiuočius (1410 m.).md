@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvos Braste Jogaila, Vytautas ir skitų chanas nusprendė visomis jėgomis pradėti bendrą karą prieš kryžiuočius.
+Lietuvos Braste Jogaila, Vytautas ir Kojelavičiaus skitų chanu vadinamas sąjungininkas nutarė pradėti bendrą karą prieš kryžiuočius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -50,46 +50,16 @@ Nenurodyta
 <a id="claim-t-185697"></a>
 - t-001
   global_id: t-185697
-  teiginys: "Lietuvos Braste Jogaila, Vytautas ir skitų chanas nusprendė visomis jėgomis pradėti bendrą karą prieš kryžiuočius."
+  teiginys: "Lietuvos Braste Jogaila, Vytautas ir Kojelavičiaus skitų chanu vadinamas sąjungininkas nutarė pradėti bendrą karą prieš kryžiuočius."
   pagrindžia:
     - c-169058
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos Braste Jogaila, Vytautas ir skitų chanas nusprendė visomis jėgomis pradėti bendrą karą prieš kryžiuočius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Apskritai nieko gera
-    nebuvo padaryta taikai sustiprinti tuo metu, kol taip
-    ilgai tylėjo ginklai. Jogaila, ne be pagrindo įtardamas,
-    jog visas reikalas kreipiamas
-    J o g a ila
-    n u sp ren d žia
-    į neišvengiamą ginkluotą su-
-    k a riau ti
-    p rieš
-    k r y -
-    sirėmimą, skubiai išvyko į
-    žiu o čiu s
-    Lietuvos Brestą pasitarti dėl
-    karo su skitų chanu ir Vytau­
-    tu. Ten jie nusprendė visomis jėgomis pradėti bendrą
-    karą prieš kryžiuočius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169058
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 374"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 374."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Apskritai nieko gera
     nebuvo padaryta taikai sustiprinti tuo metu, kol taip

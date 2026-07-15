@@ -52,60 +52,13 @@ Nenurodyta
   pagrindžia:
     - c-63615
     - c-63616
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui iš Zalcos ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kartą, kai popiežius Honorijus III
-    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
-    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
-    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
-    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
-    jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
-    kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
-    Kaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę
-    turėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem
-    pasitarnavo, draugiškai vieną su kitu taikydamas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui iš Zalcos ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
-    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
-    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
-    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
-    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių. Kartą, kai popiežius Honorijus III
-    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
-    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
-    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
-    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
-    jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
-    kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63615
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kartą, kai popiežius Honorijus III
     ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
@@ -128,10 +81,9 @@ Nenurodyta
 - id: c-63616
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
+    Kai venedai buvo smarkiai sutramdyti  po maišto, sukelto
     prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
     šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
     ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl

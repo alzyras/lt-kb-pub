@@ -85,47 +85,9 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 - susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54798|Vidivarijai]]: Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
 - susijęs iš [[objektai/ivykiai/Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo.md#claim-t-192047|Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo]]: Narbutas nurodė: Griškaitės aiškinimu, Lavrovo laiškai rodė, kad lietuvių kilmės klausimas penktajame dešimtmetyje tebebuvo diskusijų objektas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    BUVUSIO VALSTYBINGUMO TRAUKOJE
-    Kultūrinė autonomija Napoleono šešėlyje
-    L
-    DK teritorijų prijungimas prie Rusijos reiškė pateki-
-    mą į autokratinės monarchinės imperijos valdžią, kuri
-    realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį apa-
-    ratą. Vietinio valdymo grandyje buvo gubernija, kurios galva – caro ski-
-    riamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas
-    iš centro arba kitų gubernijų. Gubernijos skirstytos į apskritis (ujezd) su
-    gubernatoriaus skiriamu apskrities viršininku priešakyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prieš baudžiavos
-    panaikinimą Vilniaus gyventojų skaičius priartėjo prie 60 tūkst.
-    Iš pradžių aneksuotoje teritorijoje pradėtos kurti dvi gubernijos, tačiau
-    tepraėjus tik metams sujungtos į vieną Lietuvos vardu (Litovskaja guber-
-    nija). 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
-    Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
-    dėjusiai veikti generalgubernatoriaus institucijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
+- susijęs iš [[objektai/zodynas/metraštis.md#claim-t-200392|metraštis]]: Leidinio antraštė „Lietuvos metraštis, arba Bychovco kronika“ nėra autentiškas rankraščio pavadinimas.
+- susijęs iš [[objektai/zodynas/metraštis.md#claim-t-200393|metraštis]]: Siaurąja prasme metraštis suprantamas kaip griežtai pamečiui dėstomų ir tiksliai datuojamų trumpų žinių tekstas.
+- susijęs iš [[objektai/zodynas/metraštis.md#claim-t-200394|metraštis]]: Bychovco kronikai metraščio sąvoka siaurąja prasme taikoma tik sąlyginai.
 ## Citatos
 
 - id: c-24844

@@ -34,8 +34,8 @@ IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer V�
   teiginys: "IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer Völkergesch."
   pagrindžia:
     - c-177295
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer Völkergesch.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -55,11 +55,18 @@ IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer V�
 - id: c-177295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 78"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus
-    (Vorhalle der europäischer Völkergesch.
+    Juos matydavo vaikščiojant beveik nuogus,
+    galbūt norinčius parodyti gražų kūno sudėjimą, kurį jiems
+    davė prigimtis ir kuriuo jie pranoko kitus žmones, o gal
+    norėdami pademonstruoti įvairių spalvų ir simbolinių fi­
+    gūrų piešinius3. Maistui ir gėrimui, gal sekdami budi-
+    nais, vartojo kumelių pieną. Tą sveiką gyvulinės kilmės
+    produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
+    suomet labai vertino ir dabar tebevertina šiaurės rytų
+    gyventojai.
+  citata_rodoma: "3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus\n(Vorhalle der europäischer Völkergesch."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

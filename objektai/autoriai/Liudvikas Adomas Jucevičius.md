@@ -5,6 +5,10 @@ saltiniai:
   - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+aliases:
+  - 'objektai/autoriai/Jucevičius L. A'
+variantai:
+  - 'Jucevičius L. A'
 sukurta: ''
 atnaujinta: ''
 tags:

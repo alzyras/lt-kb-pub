@@ -75,73 +75,19 @@ Nenurodyta
   pagrindžia:
     - c-43178
 
-<a id="claim-t-78722"></a>
-- t-003
-  global_id: t-78722
-  teiginys: "Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos."
-  pagrindžia:
-    - c-12431
-
 <a id="claim-t-78725"></a>
-- t-004
+- t-003
   global_id: t-78725
   teiginys: "Lietuva tris valstybingumo atkūrimo ar kūrimo kartus mini per nacionalines šventes."
   pagrindžia:
     - c-43178
 
 <a id="claim-t-78726"></a>
-- t-005
+- t-004
   global_id: t-78726
   teiginys: "Trijų Lietuvos valstybingumo datų minėjimas siejamas su Mindaugo karūnavimu, valstybingumo atkūrimu ir atsiskyrimu nuo sovietų imperijos."
   pagrindžia:
     - c-12431
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tačiau svar-
-    biausia, kodėl Lietuvai reikia prisiminti mūšius - ji kaip valstybė
-    buvo naikinama ir turėjo kurtis arba keltis net tris kartus. Visus
-    šiuos tris kartus minime per nacionalines šventes ir kalbame apie
-    Liepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas
-    Mindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką
-    (1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,
-    panaikinto 1795 m., atkūrimas), pagaliau 1990 m. Kovo 11-osios
-    Lietuvą arba Antrąją Respubliką, bet pirmąją, atsiskyrusią nuo so-
-    vietų imperijos, ir pradėjusią suverenitetų paradą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-    - t-005
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jau vien šios aplinkybės neleidžia tiesiogiai lyginti ir
-    gretinti Švedijos ir Lietuvos istorijos, juo labiau kad niekada nesi-
-    bodėjo savo karų istorijos, ir tai lengva pamatyti Stokholme, kuris
-    yra kupinas paminklų savo karvedžiams ir valdovams. Tačiau svar-
-    biausia, kodėl Lietuvai reikia prisiminti mūšius - ji kaip valstybė
-    buvo naikinama ir turėjo kurtis arba keltis net tris kartus. Visus
-    šiuos tris kartus minime per nacionalines šventes ir kalbame apie
-    Liepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas
-    Mindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką
-    (1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,
-    panaikinto 1795 m., atkūrimas), pagaliau 1990 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
 
 ## Citatos
 
@@ -166,7 +112,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78724
     - t-78722
     - t-78726
 

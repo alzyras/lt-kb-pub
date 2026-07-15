@@ -62,31 +62,6 @@ Nenurodyta
   teiginys: "Vilniaus magistratas turėjo išlaikyti 24 įprastai ginkluotus sargybinius, kad miesto tvarka būtų prižiūrima dieną ir naktį."
   pagrindžia:
     - c-83106
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilniaus magistratas turėjo išlaikyti 24 įprastai ginkluotus sargybinius, kad miesto tvarka būtų prižiūrima dieną ir naktį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gaisro atveju kiekvienas miestie­
-    tis privalėjo skubėti prie ugnies, o burmistrai - vadovauti ge­
-    sinimui. Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­
-    rėti šarvus, muškietą ir ragotinę, o miesto taryba - stebėti,
-    kad bendromis lėšomis išlaikomos patrankos ir arkebuzos bū­
-    tų gerai prižiūrimos. Miesto sargyba ir policija, laikinai pri­
-    klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­
-    tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta
-    magistratui - karaliaus Žygimanto 1522 metų įsakymu. Ma­
-    gistratas, Krokuvos miesto pavyzdžiu, turėjo išlaikyti 24 įpras­
-    tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­
-    ma dieną ir naktį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -47,7 +47,7 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
 <a id="claim-t-188677"></a>
 - t-003
   global_id: t-188677
-  teiginys: "Narbutas Romovės miestą vaizduoja kaip buvusį Prūsijoje, Prūsos ir Bysleidos upių santakoje."
+  teiginys: 'Narbutas Romovės miestą vaizduoja kaip buvusį Prūsijoje, Prūsos ir Bysleidos upių santakoje.'
   pagrindžia:
     - c-171566
 - susijęs iš [[objektai/asmenys/Pasdrauputis.md#claim-t-60405|Pasdrauputis]]: Pasdrauputis buvo Namedos, kilusios iš Mantiminų giminės, sūnus.
@@ -76,42 +76,6 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
 - susijęs iš Prūsija: Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
 - susijęs iš [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis.md#claim-t-62763|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai puolė Bysleidos pilį Kartenės miške prie Bartenšteino.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bartoszyce) prie Bysleidos upelio.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    457 D.— castrum Beseledam, Jer.— Beseledâ; vėliau Beisleiden, dab. Bezledai
-    (Bezledy) — gyvenvietė per 10 km į šiaurės vakarus nuo Bartenšteino (dab. Bartoszyce)
-    prie Bysleidos upelio. Piliakalnis per 2 km  į pietvakarius nuo Bezledų (Sch-K; VBK;
-    Тоерреn М., HCGP, p. 19; Ewald A. L., Die Eroberung.., 4, p. 112; HE, p. 13, 187; CV, t.
-    32, d. 1, p. 203; GAO, p. 21; MGP, p. 49).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
-    Bysleidos  pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė,  ir ją smarkiai
-    užpuolė. Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
-    tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
-    gyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
-    ir nukovė daugiau nei du tūkstančius priešo karių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-003
   santrauka: 'Narbutas Romovės miestą vaizduoja kaip buvusį Prūsijoje, Prūsos ir Bysleidos upių santakoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -140,8 +104,7 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
 - id: c-59168
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     457 D.— castrum Beseledam, Jer.— Beseledâ; vėliau Beisleiden, dab. Bezledai
     (Bezledy) — gyvenvietė per 10 km į šiaurės vakarus nuo Bartenšteino (dab. Bartoszyce)
@@ -158,11 +121,10 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
 - id: c-59169
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
-    Bysleidos  pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė,  ir ją smarkiai
+    Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai
     užpuolė. Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
     tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
     gyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
@@ -173,29 +135,6 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58536
-
-- id: c-171566
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    42 pav. Senovės prūsų herbas
-    470
-
-    ## Puslapis 465
-
-    VII lentelė
-    Vaizduoja šventą Romovės miestą, buvusį Prūsijoje, Prūsos ir
-    Bysleidos upių santakoje. Aptvare, kurį supa namai, pastatyti šven­
-    tovės tarnams ir pačiam vyriausiajam žyniui, auga žiemą vasarą ža­
-    liuojantis ąžuolas, prie kurio nišose stovi dievų stabai, o prieš juos -
-    aukų deginimo aukuras su nuolat degančia ugnimi.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188677
 
 ## Ryšiai
 - Puolė Bysleidą: [[objektai/grupes/Nadruviai]], [[objektai/grupes/Skalviai]]

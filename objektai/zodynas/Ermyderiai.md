@@ -52,21 +52,6 @@ Vartojamos formos: `ermyderių`.
   pagrindžia:
     - c-09675
 - susijęs iš [[objektai/grupes/Mozūrai (XV amžius).md#claim-t-11083|Mozūrai (XV amžius)]]: Mozūrai buvo tarp grupių, su kuriomis Zigmantas Kęstutaitis patvirtino sandaras, po kurių prekyba didėjo.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Vienos yra buvusios šiame pasauly tokios atmainos, kurias jam raštai pasako, kitas jam žemės, vandens ir oro ermyderiai^3 rodo, noris^4 raštai tyli, kitos yra tokios, kurias žmogus pats savo amžiuje gali regėti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-09675

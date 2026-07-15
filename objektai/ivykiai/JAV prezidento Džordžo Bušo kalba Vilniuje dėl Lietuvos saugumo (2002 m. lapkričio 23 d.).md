@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "2002 m. lapkričio 23 d. Vilniuje Džordžas Bušas pareiškė, kad Lietuvos priešai taptų ir JAV priešais."
   pagrindžia:
     - c-26600
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento
-    Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų
-    sąjunga pasiryžusi ginti savo nares. Tie, kurie pasirinktų Lietuvą savo
-    priešu, taptų ir Jungtinių Amerikos Valstijų priešu.“ Dž. Bušas taip pat
-    priminė, kad JAV niekada nepripažino Lietuvos okupacijos ir visada
-    tikėjo, jog mūsų „žemynas nebus padalytas per amžius“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

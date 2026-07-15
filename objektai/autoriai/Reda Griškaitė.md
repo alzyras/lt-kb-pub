@@ -9,16 +9,16 @@ datos:
   - '2005 m.'
 date_start: '1995'
 date_end: '2005'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - istorikas
-amziai:
-  - 'XX'
-  - 'XXI'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -70,42 +70,6 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192423|Lietuviai]]: Teodoras Narbutas pratarmėje antrąjį tomą pristatė kaip lietuvių tautos ištakų ir protėvių atsikėlimo istorijos apžvalgą.
 - susijęs iš Mykolas Balinskis kova dėl istorijos: Reda Griškaitė pastebėjo, kad ankstyvoji Mykolo Balinskio kūryba turėjo romantinės istoriografijos bruožų, o vėliau jis stengėsi rašyti nauja maniera.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Reda Griškaitė parašė studiją, skirtą M. Balinskio biografijos vingiams ir jo meto istorinėms realijoms.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    M. Balinskį, kurios autorius - Lietuvos lenkas. Savotiškai isto­
-    riko biografijos vingių ir ano meto istorinių realijų analizei skir­
-    ta kultūros istorikės Redos Griškaitės studija. Svarbi tyrinėtojos
-    išvada, jog „susidaro įspūdis, kad jis niekuomet ir nebuvo „tik­
-    rasis" romantikas - tik „naujasis klasikas".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Reda Griškaitė 2005 m. Vilniuje paskelbė darbą „Mykolas Balinskis: kova dėl istorijos?“.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1  N a run i ec R. Michał Baliński jako mecenas polsko-litewskich więzi kul­
-    turowych. Warszawa, 1995; Griškaitė R. Mykolas Balinskis: kova dėl
-    istorijos?. V., 2005, p. 137-138. Tyrinėtoja parodo M. Balinskio kritiką T.
-    Narbuto istorijos atžvilgiu, kurią galima vertinti kaip romantinės istori­
-    jos rašymo kritiką: „<.. .> Balinskio rašiniuose Narbutui skiriamas ypati-
-    nas dėmesys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-003
   santrauka: 'Reda Griškaitė Narbuto LTI piešiamą vaizdą apibūdino kaip individualų ir asmeninį istorijos suvokimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -182,11 +146,10 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
     ir nebūtina. Kiekvienas rašo savo istoriją.
     Reda Griškaitė
 
-    ## Puslapis 22
-
     Istorijoje tiesa yra geležinė
     būtinybė, ir nereikėtų manyti, jog
     ji kada nors gali pakenkti.
+  citata_rodoma: "Taigi T. Narbutas, nors gerai\nišmanė savo profesijos paslaptis, puikiai valdė plunksną\nir žinojo savo meto keliamus reikalavimus, stengėsi pa­\nbrėžti, jog LTI piešiamas vaizdas — tai jo individualus,\nasmeninis suvokimas, nuo jo pabėgti neįmanoma, be to,\nir nebūtina. Kiekvienas rašo savo istoriją.\nReda Griškaitė\n\n## Puslapis 22\n\nIstorijoje tiesa yra geležinė\nbūtinybė, ir nereikėtų manyti, jog\nji kada nors gali pakenkti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,36 +41,22 @@ media_all_json: |-
   teiginys: "183- Turima omenyje Olafo Monsono (1490-1558) „Šiaurės tautų istorija“ (Olaus Magnus."
   pagrindžia:
     - c-177239
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '183- Turima omenyje Olafo Monsono (1490-1558) „Šiaurės tautų istorija“ (Olaus Magnus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    P. 183*- Turima omenyje Olafo Monsono (1490-1558)
-    „Šiaurės tautų istorija“ (Olaus Magnus. Gentium
-    septentrionalium historiae. -  1652 // [Narbutt T]
-    Spisanie Muzeum w Szawrach. -  L. 16. -  Nr. 216).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
+- susijęs iš Historia De Gentibus Septentrionalis, Auctore Olao Magno, Gotho, Archiepiscopo Upsalensi, Suetiae et Gothiae Primate: Olauso Magnuso veikalas „Historia De Gentibus Septentrionalis“ bibliografijoje nurodomas kaip 1555 m. Plantino leidinys Antverpene.
 ## Citatos
 
 - id: c-177239
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 484"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 484."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    P. 183*- Turima omenyje Olafo Monsono (1490-1558)
-    „Šiaurės tautų istorija“ (Olaus Magnus. Gentium
-    septentrionalium historiae. -  1652 // [Narbutt T]
-    Spisanie Muzeum w Szawrach. -  L. 16. -  Nr. 216).
+    - Lubecae, 1760.
+    Pirmajame LTI leidime T. Narbutas Jono Lasickio
+    sudarytą dievybių sąrašą buvo pateikęs tokia eilės
+    tvarka: Atlaibas, Salaus, Šluotražis, Tiknis, Biržu­
+    lis, Siričius, Dvargantis, Klamals ir Prigirditis. Reng­
+    damas antrąjį leidimą, autorius nutarė jį spausdin­
+    ti abėcėlės tvarka (PE.
+  citata_rodoma: "P. 183*- Turima omenyje Olafo Monsono (1490-1558)\n„Šiaurės tautų istorija“ (Olaus Magnus. Gentium\nseptentrionalium historiae. -  1652 // [Narbutt T]\nSpisanie Muzeum w Szawrach. -  L. 16. -  Nr. 216)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

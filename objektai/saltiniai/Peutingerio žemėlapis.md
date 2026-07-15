@@ -35,32 +35,13 @@ Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų
   teiginys: "Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų gentį vadina venedais."
   pagrindžia:
     - c-174733
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų gentį vadina venedais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Italijoje būta venetų prie
-    Adrijos jūros; jie kildinami iš trojėnų1. Prie Juodosios
-    jūros buvo antų gentis, kurią Peutingerio žemėlapis** va­
-    dina venedais. Strabonas kalba apie belgų venedus šian­
-    dieniuose Nyderlanduose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 96."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Italijoje būta venetų prie
     Adrijos jūros; jie kildinami iš trojėnų1. Prie Juodosios

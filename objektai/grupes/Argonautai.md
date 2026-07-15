@@ -49,33 +49,12 @@ Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, ne
 - susijęs iš [[objektai/grupes/Iboristeniečiai.md#claim-t-192995|Iboristeniečiai]]: Iboristeniečiai pirkliavo prie Dnepro, kuriuo ėjo seniausias kelias per Aldeską ir Pantikapą.
 - susijęs iš Baltija: Narbutas rašo, kad apie Pitėją manyta jį antrąją kelionę vykus į šiaurės rytus ir atradus Baltijos salą.
 - susijęs iš Didžioji Britanija: Narbutas perteikia nuomonę, kad Pitėjas pirmąją kelionę atliko į Britaniją, o antrąją - į šiaurės rytus, kur atrado Baltijos salą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, nes plaukė Argo laivu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Juodąja jūrą pavadino vėliau dėl dažnai virš jos tvy­
-    rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė
-    vyko Argo laivu, taip vadinamu gal dėl jo statytojo, o
-    plaukę kartu jūreiviai buvo vadinami argonautais. Tai
-    buvo 1350 metais iki Kristaus gimimo, 70 metų prieš
-    1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175747
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 42"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Juodąja jūrą pavadino vėliau dėl dažnai virš jos tvy­
     rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė

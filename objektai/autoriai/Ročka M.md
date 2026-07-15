@@ -35,36 +35,17 @@ Dusburgietis teigia, kad vad., ir čia ryški tendencija susieti savo tautos pra
   teiginys: "M. Ročka cituojamas aiškinant tendenciją lietuvių praeitį sieti su tikrais ar menamais senovės Romos įvykiais."
   pagrindžia:
     - c-61407
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'M. Ročka cituojamas aiškinant tendenciją lietuvių praeitį sieti su tikrais ar menamais senovės Romos įvykiais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Viduramžių tradicijai artima humanizmo epochos versija, radusi atgarsio Kazimiero
-    Jogailaičio pasiuntinio pas popiežių Jono Ostrorogo kalboje apie senovės lenkų bei lietuvių
-    kovas su Julijumi Cezariu, apie jo pralaimėjimus Lietuvos žemėje. Vad.,  ir čia ryški
-    tendencija susieti savo tautos praeitį su tikrais ar menamais senovės Romos istorijos
-    įvykiais (Ročka M. Lietuvių..., p. 70—71).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61407
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 48"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Viduramžių tradicijai artima humanizmo epochos versija, radusi atgarsio Kazimiero
     Jogailaičio pasiuntinio pas popiežių Jono Ostrorogo kalboje apie senovės lenkų bei lietuvių
-    kovas su Julijumi Cezariu, apie jo pralaimėjimus Lietuvos žemėje. Vad.,  ir čia ryški
+    kovas su Julijumi Cezariu, apie jo pralaimėjimus Lietuvos žemėje. Vad., ir čia ryški
     tendencija susieti savo tautos praeitį su tikrais ar menamais senovės Romos istorijos
     įvykiais (Ročka M. Lietuvių..., p. 70—71).
   statusas: verified

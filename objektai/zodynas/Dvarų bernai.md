@@ -35,26 +35,6 @@ Patriarchali­ niuose Lietuvos santykiuose iš buvusiųjų vergų būklėje žmo
   teiginys: "XV-XVI a. didžiojo kunigaikščio ir kilmingųjų ūkiuose dvarų bernai buvo žinomi kaip iš buvusių vergų būklės žmonių kilusi nelaisvoji šeimyna."
   pagrindžia:
     - c-93926
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XV-XVI a. didžiojo kunigaikščio ir kilmingųjų ūkiuose dvarų bernai buvo žinomi kaip iš buvusių vergų būklės žmonių kilusi nelaisvoji šeimyna.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Į šių padėtį
-    paprastai patekdavo iš kaimynų atvedamieji karo belaisvių būriai.
-    Bet tikro vergų luomo Lietuvoje nesusiformuota. Patriarchali­
-    niuose Lietuvos santykiuose iš buvusiųjų vergų būklėje žmonių
-    XV-XVI amž. didžiojo kunigaikščio ir kilmingųjų ūkiuose buvo
-    žinomi dvarų bernai («parobki»), nelaisvoji šeimyna («čeliad’
-    nievolinaja »).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -55,24 +55,6 @@ Nenurodyta
   teiginys: "Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu."
   pagrindžia:
     - c-75276
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su
-    pasauline literatūra, menu. Gimė profesionali lietuvių dailė, architektūra,
-    sava filosofijos mokykla. Poezija ir literatūra, pasiekusi gana aukštą lygį,
-    eksperimentavo su anksčiau negirdėtais stiliais, atsirado psichologinių
-    ir satyrinių romanų, istorinės ir realistinės dramos kūrinių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

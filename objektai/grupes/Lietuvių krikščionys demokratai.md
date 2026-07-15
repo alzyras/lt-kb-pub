@@ -41,28 +41,6 @@ Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro vald�
   teiginys: "Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nekėlė."
   pagrindžia:
     - c-22536
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nekėlė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kartu su
-    būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-
-    no Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos
-    bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis. Vyskupi-
-    joje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenkų
-    nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV
-    teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
-    nimu. Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą
-    caro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

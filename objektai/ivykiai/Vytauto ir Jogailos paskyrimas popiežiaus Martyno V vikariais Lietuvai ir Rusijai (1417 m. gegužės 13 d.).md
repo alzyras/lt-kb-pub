@@ -57,26 +57,6 @@ Nenurodyta
   teiginys: "1417 m. gegužės 13 d. popiežius Martynas V paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai."
   pagrindžia:
     - c-35786
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Popiežius Martynas V, Konstan­
-    cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė
-    (1417. V. 13) savo vikarais pasauliniuose dalykuose Lietuvai
-    ir Rusijai, pavesdamas jiems kurti bažnyčias, lengvinti kuni­
-    gams žmonių krikštijimą, globoti kunigiją ir tikinčiuosius, ginti
-    tikėjimą. Popiežius ypač pabrėžė rusų prijungimą Kat. Baž­
-    nyčiai Naugardo ir Pskovo apylinkėse, Vytautui priklausan­
-    čiose^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

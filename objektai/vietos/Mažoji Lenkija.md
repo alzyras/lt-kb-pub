@@ -54,24 +54,6 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
 - susijęs iš Poznanė: Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų.
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101586|federacija federacinė valstybė]]: Po unijos LDK išlaikė atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.
 - susijęs iš [[objektai/zodynas/federacija konfederacinė valstybė unitarinė valstybė.md#claim-t-22144|federacija konfederacinė valstybė unitarinė valstybė]]: LDK turėjo atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Camblakas.
-    Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­
-    jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
-    vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
-    juos iš Maž. Lenkijos (Tynieco).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-71519

@@ -73,46 +73,6 @@ Nenurodyta
   teiginys: "Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą."
   pagrindžia:
     - c-166608
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Edukacinės komisijos sukūrimas 1773 m. kartais laikomas vienu iš Apšvietos epochos pradžios įvykių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
-    XVIII a. pabaigoje. Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
-    vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
-    panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
-    kartais laikomi Apšvietos epochos pradžia.
-    Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
-    sąjunga, sukurta Liublino unijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
-    vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
-    timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
-    švietimo sistemą. Edukacinė komisija ėmėsi permainų ir stengėsi sukur-
-    ti vientisą švietimo sistemą. Valstybė buvo padalyta į Lenkijos ir Lietuvos
-    švietimo provincijas, o šios – į apygardas. Lietuvos provincijos švietimą
-    tvarkė reformuotas Vilniaus universitetas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
 
 ## Citatos
 
@@ -153,5 +113,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183221
     - t-66536
+    - t-183221

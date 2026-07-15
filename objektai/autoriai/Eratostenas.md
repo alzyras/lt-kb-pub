@@ -34,8 +34,8 @@ Eratostenas Narbuto paminėtas tarp autorių, kurie, jo teigimu, kalbėjo apie v
   teiginys: "Eratostenas Narbuto paminėtas tarp autorių, kurie, jo teigimu, kalbėjo apie vandens lygio kritimą."
   pagrindžia:
     - c-174505
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Eratostenas Narbuto paminėtas tarp autorių, kurie, jo teigimu, kalbėjo apie vandens lygio kritimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -69,8 +69,7 @@ Eratostenas Narbuto paminėtas tarp autorių, kurie, jo teigimu, kalbėjo apie v
 - id: c-174505
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
@@ -87,7 +86,9 @@ Eratostenas Narbuto paminėtas tarp autorių, kurie, jo teigimu, kalbėjo apie v
     žemėlapiai
     šiai jūrai skiria gerokai didesnį plotą, negu ji užima
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
-    mėse, kurios tarsi įrodo jos mažėjimą.
+    mėse, kurios tarsi įrodo jos mažėjimą. Tačiau esama dar
+    1 Tacitas kildina iš lotyniško žodžio germanus, gimtas.
+  citata_rodoma: "Tačiau Kelsijus ir Dalinas per­\nnelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo\nKristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po\nketurių tūkstančių metų jos neliks nė pėdsako. Antra\nvertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,\nOvidijus kalba apie vandens lygio kritimą, pateikdami\nakivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis\napie\nBaltijos\njūrą“).\nSeni\nvenecijiečių\nžemėlapiai\nšiai jūrai skiria gerokai didesnį plotą, negu ji užima\nšiandien, be to, matoma daug pavyzdžių ir gretimose že­\nmėse, kurios tarsi įrodo jos mažėjimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

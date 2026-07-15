@@ -86,22 +86,15 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   pagrindžia:
     - c-43938
 
-<a id="claim-t-122422"></a>
-- t-007
-  global_id: t-122422
-  teiginys: "Karališkųjų muitinių valdytojai Ukrainoje naujais mokesčiais bandė varžyti iš Vilniaus gabenamų prekių prekybą."
-  pagrindžia:
-    - c-112015
-
 <a id="claim-t-185168"></a>
-- t-008
+- t-007
   global_id: t-185168
   teiginys: "Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos."
   pagrindžia:
     - c-168529
 
 <a id="claim-t-193239"></a>
-- t-009
+- t-008
   global_id: t-193239
   teiginys: "Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas ir didžiausias kazokų priešas."
   pagrindžia:
@@ -117,7 +110,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš [[objektai/grupes/Janičarai.md#claim-t-40893|Janičarai]]: Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą.
 - susijęs iš [[objektai/grupes/Lietuvių policijos savisaugos batalionai.md#claim-t-19813|Lietuvių policijos savisaugos batalionai]]: Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74913|Rusėnai]]: XV–XVI a. Lietuvos Metrikos rusėnų kalboje buvo vartojamos lietuviškos ūkio sąvokos, paplitusios net Ukrainoje.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184599|Liublino unija (1569 m.)]]: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu.
+- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184599|Liublino unija (1569 m.)]]: Cituojamoje istoriografinėje interpretacijoje unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos.
 - susijęs iš [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.).md#claim-t-01890|Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]: Šiaulių ekonomijos sukilėliai norėjo susidėti su Ukrainos valstiečiais, bet atvykusi kariuomenė jų sukilimą žiauriai numalšino.
 - susijęs iš M. Grabovskis, Ukraina Dawna i terainiejsza: M. Grabovskio „Ukraina Dawna i terainiejsza“ pirmasis tomas Teodoro Narbuto nuorodoje siejamas su 1850 m. leidimu.
 - susijęs iš Targovicos konfederacijos aktas (1792 m.): Opozicionieriai Targovicos miestelyje Ukrainoje paskelbė reformoms priešingos konfederacijos aktą.
@@ -126,7 +119,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš Baltarusija: LDK erdvė apėmė Lietuvos, Baltarusijos, Ukrainos ir Lenkijos žydus, vadintus „Rusijos žydais“.
 - susijęs iš Naugardukas: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
 - susijęs iš Podolė: Apsirūpinus artilerija ir amunicija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.
-- susijęs iš Tlumačas: Tlumačas lokalizuojamas vakarų Ukrainos dalyje prie Stanislavo.
 - susijęs iš Vakarų Ukraina: Mindaugo, Vytenio ir Gedimino laikais prie Lietuvos prijungtos rusėnų žemės apėmė dalį dabartinės Vakarų Ukrainos.
 - susijęs iš Valakija: Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.
 - susijęs iš Vitebskas: Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutines audringos senatvės dienas.
@@ -175,7 +167,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš [[objektai/paprociai/Upių šventinimas Rosės vardu.md#claim-t-192092|Upių šventinimas Rosės vardu]]: Pasak Narbuto, Volkovysko apylinkių upė buvo pavadinta religiniu vardu Ros, kuris išliko nepakitęs.
 - susijęs iš [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje.md#claim-t-54377|Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.
 - susijęs iš [[objektai/posakiai/„Lietuvą padaryti internacionalinę“.md#claim-t-25373|„Lietuvą padaryti internacionalinę“]]: Petras Griškevičius ir Rimgaudas Songaila laikėsi pasyviai, o Nikolajus Mitkinas siekė „Lietuvą padaryti internacionalinę“.
-- susijęs iš Aleksandro laiškas Ivanui dėl pagalbos prieš skitus: Gandai apie Mengli Girėjaus žygį į Ukrainą paskatino Aleksandrą su žmona per Joną Drovą vėl siųsti Ivanui laišką ir prašyti pagalbos prieš skitus.
+- susijęs iš Aleksandro laiškas Ivanui dėl pagalbos prieš skitus: Gandai apie Mengli Girėjaus žygį į Ukrainą paskatino Aleksandrą su žmona per Joną Drovą siųsti Ivanui laišką ir prašyti pagalbos prieš skitus.
 - susijęs iš Andrusavos taika (1667 m.): Andrusavos paliaubose nustatytos sienos buvo patvirtintos 1686 m. „amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.
 - susijęs iš Bresto taika: 1918 m. lapkričio 13 d. Bresto taikos sąlygos su Vokietija buvo anuliuotos.
 - susijęs iš KGB kontržvalgybos sąvokų žodynas Kontržvalgybos žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
@@ -191,7 +183,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš Kauno Laisvės alėja: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais.
 - susijęs iš Kolomyja: Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nuo Lvovo.
 - susijęs iš Kolomyja: Moldavijos vaivada Steponas atvyko į Kolomyją tarp 1485 m. rugsėjo 6 ir 12 d.
-- susijęs iš Kolomyja: Lenkijos karalius Kazimieras 1485 m. rugpjūčio 24 d. atvyko į Kolomyją ir išbuvo ten iki rugsėjo 18 d.
+- susijęs iš Kolomyja: Lenkijos karalius Kazimieras 1485 m. rugpjūčio 24 d. atvyko į Kolomyją ir ten išbuvo iki rugsėjo 18 d.
 - susijęs iš Livonija: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš kalavijuočių ordino magistrą Firstenbergą.
 - susijęs iš Mažoji Rosė (Roska): Roska prie Rošovsko kaimo iš dešiniojo kranto įteka į Rosę, kuri drauge su Supo upe sudaro į Dneprą plaukiančių upių baseiną.
 - susijęs iš Myro pilis (pilis): Myro pilis prie Nesvyžiaus yra gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje.
@@ -202,9 +194,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš Polockas: Vytenio ir Gedimino laikais Polockas 1307 m. buvo prijungtas prie Lietuvos kaip Baltosios Rusios dalis.
 - susijęs iš Rosė: Narbutas Rosę aprašė kaip upę, tekančią per tankiai gyvenamas, gražias ir derlingas Volkovysko apskrities apylinkes.
 - susijęs iš Rytų Lietuva: 1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai.
-- susijęs iš Tlumačas: 1440 m. birželio 6 d. Švitrigaila pasirodė Lenkijai priklausiusioje vakarų Ukrainos dalyje, Tlumače prie Stanislavo.
 - susijęs iš Uturiai: Uturiai buvo prie Betygalos.
-- susijęs iš Vilnius: Prie Vilniaus pilies įkurta didžioji ginklų liejykla stipriai veikė miesto amatininkų gerovę ir tobulėjimą.
 - susijęs iš Vitebskas: Vytenio ir Gedimino laikais prie Lietuvos prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.
 - susijęs iš Voluinė: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
 - susijęs iš Voluinė: 1340 m. Vytenio ir Gedimino laikų plėtros kontekste prie Lietuvos buvo prijungta Voluinė.
@@ -225,164 +215,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš Voluinė: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
 - susijęs iš KGB kontržvalgybos sąvokų žodynas Kontržvalgybos žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
 - susijęs iš KGB kontržvalgybos sąvokų žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lengvieji
-    raitininkai, tokie kaip kazokai ar vidutiniai (pe-
-    tihorai), dėvėdavo žieduočio šarvus, rankų ap-
-    saugas (karvašus). Jie būdavo ginkluoti lankais ir
-    strėlėmis, kardais, pistoletais ir kitokiais ginklais
-
-    112
-
-    Mūšio priešistorė
-    XVI a. pabaigoje XVII a. pirmojoje pu-
-    sėje Lenkija ir Turkija kovojo dėl įtakos
-    Moldavijoje. Turkija siekė užvaldyti visą vi-
-    dinių kovų draskomą Moldaviją ir Valakiją
-    bei plėsti savo ekspansiją toliau į Lenkijai
-    priklausiusios Ukrainos teritoriją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-002
-  santrauka: 'Švitrigaila po prieglobsčio Vitebske nusigavo į Ukrainą praleisti paskutinių savo senatvės dienų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    220
-
-    ## Puslapis 237
-
-    I I I  KNYGA
-    dysis magistras gudriausiomis suktybėmis siekė, kad nu­
-    trūktų Lietuvos ir Lenkijos sąjunga, grėsmingos jų užma­
-    čios žlugo; su Vladislovu Jogaila turėjo būti sudaryta ilga­
-    laikė taika. Švitrigaila, pagaliau atsiduodamas likimui,
-    prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybė­
-    je praleisti paskutinių audringos senatvės dienų, o Kęstu­
-    čio sūnus nuo tol galėjo saugiai valdyti tiekos nelaimių iš­
-    kamuotą Lietuvą. Palankios buvo visos aplinkybės, nes ir
-    nesutarimai (1434 metų), galėję kilti tarp Žygimanto ir Jo­
-    gailos, buvo užglaistyti naujos tarpusavio sutarties23.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-003
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Išliko nemaža
-    įrodymų, kaip Batoras globojo Vilniaus pirklius, kurie iš­
-    vystė nemažą prekybą, ypač kailiais, nukakdami iki pat
-    Gniezno ir kitų Didžiosios Lenkijos miestų. Karališkųjų
-    muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­
-    kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė
-    suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­
-    dė54. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­
-    raliaus paskirtų senatorių pastangomis, išlaisvino miestą
-    nuo ateityje labai nemalonaus monopolio, kuris būtų smar­
-    kiai pakėlęs stiklo kainą miesto gyventojams55.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-007
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
-    lų, gaminta bombos ir kiti karo reikmenys. Apsirūpinus ar­
-    tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
-    vo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,
-    Podolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­
-    les karinės amunicijos atsargas, nesunku buvo apginkluoti
-    gausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­
-    giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
-    gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
-    gos arkivyskupą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-005
-  santrauka: '1595 m. Ukrainoje kuopai vadovavęs karys pasižymėjo malšindamas kazokų sukilimą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1595 m. Ukrainoje,
-    vadovaudamas kuopai, pasižymėjo malšindamas ka-
-    zokų sukilimą. Veiksmuose prieš kazokus dalyvavo
-    ir1596 m. 1599 m. tapo Žemaitijos seniūnu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-006
-  santrauka: 'Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio­
-    navo Ukrainos prijungimą prie Lenkijos, pripažino ka­
-    ralių ir bendrą seimą jungtinės valstybės suverenu,
-    užtikrino žemės nuosavybės ir žemėvaldos teisę tik
-    šlėktų luomo nariams, o politines teises — tik federa­
-    ciją sudarantiems indigenams, o šitai konservavo bau­
-    džiavą, kliudė prekiniams ir piniginiams santykiams
-    plėstis, miestams stiprėti ir tuo pačiu lietuvių, baltaru­
-    sių ir ukrainiečių tautybėms tapti tautomis (nacijomis).
-    Kai 1648 m. Bogdano Chmelnickio vadovaujami suki­
-    lę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti
-    savo valstybę, Lietuvos ir Lenkijos feodalai su šlėk­
-    tomis slopino juos, panaudodami ne tik jungtinės vals­
-    tybės, bet ir savo valdų privačią kariuomenę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-007
-  santrauka: 'Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas ir didžiausias kazokų priešas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Čia jie turėjo milžiniškų dvarų.
-    Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias
-    Ukrainos ponas ir didžiausias kazokų priešas. Jis su kazokais
-    kariavo net pats vienas, savo jėgomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
 ## Citatos
 
 - id: c-43938
@@ -438,8 +270,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122427
     - t-122425
+    - t-122427
 
 - id: c-112015
   autorius: "Michał Baliński"
@@ -464,7 +296,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-122422
-    - t-122430
 
 - id: c-112017
   autorius: "Michał Baliński"
@@ -509,8 +340,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - id: c-168529
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 30"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 30."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio­
     navo Ukrainos prijungimą prie Lenkijos, pripažino ka­

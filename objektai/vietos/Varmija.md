@@ -33,35 +33,49 @@ media_all_json: |-
 
 ## Santrauka
 
-žygius į jo žemes, teriodamas Varmijos kraštą; tų metų pavasarį net ar­ motomis ginkluotas nuplaukė laivais Nemunu į Ordino sritį ir sustojo ties Jurbarku.
+Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaruose besiribojusi su Pagude per Pasargės, arba Sargos, upę. Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Giniau miestų iki Alnos upės, už kurios prasidėjo Barta. Varmija užėmė didelį plotą ir turėjo daugiau dirbamos bei tankiau apgyvendintos žemės negu anksčiau minėtos provincijos.
 
 ## Teiginiai
 
-<a id="claim-t-185317"></a>
-- t-001
-  global_id: t-185317
-  teiginys: "Varmijos Braunsberge kardinolas Stanislovas Hozijus 1568 m. įsteigė kolegiją, netrukus tapusią svarbia jėzuitų atrama."
-  pagrindžia:
-    - c-168678
-
 <a id="claim-t-192795"></a>
-- t-002
+- t-001
   global_id: t-192795
   teiginys: "Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaruose besiribojusi su Pagude per Pasargės, arba Sargos, upę."
   pagrindžia:
     - c-175565
 
 <a id="claim-t-192796"></a>
-- t-003
+- t-002
   global_id: t-192796
   teiginys: "Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Giniau miestų iki Alnos upės, už kurios prasidėjo Barta."
   pagrindžia:
     - c-175566
 
 <a id="claim-t-192797"></a>
-- t-004
+- t-003
   global_id: t-192797
   teiginys: "Varmija užėmė didelį plotą ir turėjo daugiau dirbamos bei tankiau apgyvendintos žemės negu anksčiau minėtos provincijos."
+  pagrindžia:
+    - c-175567
+
+<a id="claim-t-197936"></a>
+- t-004
+  global_id: t-197936
+  teiginys: "Varmija Ketvirta provincija — Varmija, taip vadinama nuo senų laikų."
+  pagrindžia:
+    - c-175565
+
+<a id="claim-t-197937"></a>
+- t-005
+  global_id: t-197937
+  teiginys: "Iš čia Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Gin iau miestų net ligi Alnos upės, kur baigėsi senoji Var mijos siena, o kitapus upės prasidėjo Barta."
+  pagrindžia:
+    - c-175566
+
+<a id="claim-t-197938"></a>
+- t-006
+  global_id: t-197938
+  teiginys: "Dar mažiau žinomos pietinės Varmijos sienos su Galinda."
   pagrindžia:
     - c-175567
 - susijęs iš [[objektai/zodynas/Warikt.md#claim-t-192206|Warikt]]: Teodoro Narbuto aiškinimu, varinų pavadinimas kilo iš Warikt, siejamo su piemeniu, varymu, gyvulių gynimu ir ganymu.
@@ -85,106 +99,18 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/Warikt.md#claim-t-192206|Warikt]]: Teodoro Narbuto aiškinimu, varinų pavadinimas kilo iš Warikt, siejamo su piemeniu, varymu, gyvulių gynimu ir ganymu.
 - susijęs iš [[objektai/zodynas/Warikt.md#claim-t-192207|Warikt]]: Teodoro Narbuto aiškinimu, Warikt lietuvių kalboje reiškė varyti, ginti gyvulius ir ganyti.
 - susijęs iš [[objektai/grupes/Glotinų šeima.md#claim-t-192982|Glotinų šeima]]: Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, galėjusią krašto gynybai duoti nemažų būrių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Varmijos Braunsberge kardinolas Stanislovas Hozijus 1568 m. įsteigė kolegiją, netrukus tapusią svarbia jėzuitų atrama.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    1644 m. A. Kojelavičius siunčiamas į Braunsbergą
-    dėstyti teologijos. Šiame Varmijos mieste kardinolas
-    Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne­
-    trukus pasidariusią svarbia jėzuitų atrama.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaruose besiribojusi su Pagude per Pasargės, arba Sargos, upę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Varmija
-    Ketvirta provincija — Varmija, taip vadinama nuo
-    senų laikų. Vakaruose ji ribojosi su Pagude, nuo kurios
-    ją skyrė Pasargės, arba Sargos, upė1. Jos šiaurėje tyvu­
-    liavo Aistmarės, vakaruose ji ribojosi su Natangija ir
-    Barta, o į pietus driekėsi net iki Galindos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Giniau miestų iki Alnos upės, už kurios prasidėjo Barta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Iš čia
-    Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Gin­
-    iau miestų net ligi Alnos upės, kur baigėsi senoji Var­
-    mijos siena, o kitapus upės prasidėjo Barta. Dar mažiau
-    žinomos pietinės Varmijos sienos su Galinda. Atrodo, jog
-    vienas šios sienos punktas buvo prie Morungeno, kur ir
-    šiandien yra Galindų kaimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Varmija užėmė didelį plotą ir turėjo daugiau dirbamos bei tankiau apgyvendintos žemės negu anksčiau minėtos provincijos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Atrodo, jog
-    vienas šios sienos punktas buvo prie Morungeno, kur ir
-    šiandien yra Galindų kaimas. Vadinasi, Varmijai priklau­
-    santis krašto plotas buvo didelis, be to, ji turėjo daugiau
-    dirbamos ir tankiau apgyvendintos žemės negu anksčiau
-    minėtos provincijos. Nėra abejonių, kad ir ji dalijosi į
-    plačius valsčius, nes ir čia gyveno bajorų šeimos, kurioms
-    taip pat priklausė didelės valdos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
-
-- id: c-168678
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 6."
-  citata_originali: |
-    1644 m. A. Kojelavičius siunčiamas į Braunsbergą
-    dėstyti teologijos. Šiame Varmijos mieste kardinolas
-    Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne­
-    trukus pasidariusią svarbia jėzuitų atrama.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185317
 
 - id: c-175565
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 358"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 358."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Be to, ir kitose
+    vietose turėjo būti įtvirtinimų, skirtų krašto gynybai ir
+    turtingesnių valdžiai stiprinti, bet jų pėdsakai visiškai
+    išnyko; net nežinoma, kur mitinė kunigaikštytė Pogeza-
+    nija skelbė savo pranašystes ir sprendimus.
     Varmija
     Ketvirta provincija — Varmija, taip vadinama nuo
     senų laikų. Vakaruose ji ribojosi su Pagude, nuo kurios
@@ -197,14 +123,18 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192795
+    - t-197936
 
 - id: c-175566
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 359"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 359."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Iš čia
+    Ten ją nuo Natangijos turėjo skirti kai
+    kurie upeliai, galbūt pro Soelius,
+    Schoelen,
+    Federau,
+    Fedderau, ir Pomernę, Potnmern, tekėję j marias. Iš čia
     Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Gin­
     iau miestų net ligi Alnos upės, kur baigėsi senoji Var­
     mijos siena, o kitapus upės prasidėjo Barta. Dar mažiau
@@ -217,14 +147,15 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192796
+    - t-197937
 
 - id: c-175567
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 359"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 359."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Atrodo, jog
+    Dar mažiau
+    žinomos pietinės Varmijos sienos su Galinda. Atrodo, jog
     vienas šios sienos punktas buvo prie Morungeno, kur ir
     šiandien yra Galindų kaimas. Vadinasi, Varmijai priklau­
     santis krašto plotas buvo didelis, be to, ji turėjo daugiau
@@ -232,12 +163,14 @@ media_all_json: |-
     minėtos provincijos. Nėra abejonių, kad ir ji dalijosi į
     plačius valsčius, nes ir čia gyveno bajorų šeimos, kurioms
     taip pat priklausė didelės valdos.
+  citata_rodoma: "Dar mažiau \nžinomos pietinės Varmijos sienos su Galinda. Atrodo, jog \nvienas šios sienos punktas buvo prie Morungeno, kur ir \nšiandien yra Galindų kaimas. Vadinasi, Varmijai priklau­\nsantis krašto plotas buvo didelis, be to, ji turėjo daugiau \ndirbamos ir tankiau apgyvendintos žemės negu anksčiau \nminėtos provincijos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192797
+    - t-197938
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Vitlandija]]

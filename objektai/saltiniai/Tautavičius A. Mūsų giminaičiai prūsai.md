@@ -7,12 +7,12 @@ datos:
   - '1968 m.'
 date_start: '1968'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad tautavičius A.
   teiginys: "A. Tautavičiaus „Mūsų giminaičiai prūsai“ paskelbtas 1968 m. žurnalo MG 6 numeryje, 17–22 puslapiuose."
   pagrindžia:
     - c-61945
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Tautavičiaus „Mūsų giminaičiai prūsai“ paskelbtas 1968 m. žurnalo MG 6 numeryje, 17–22 puslapiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,11 @@ Dusburgietis teigia, kad tautavičius A.
 - id: c-61945
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tautavičius A. Mūsų giminaičiai prūsai.— MG, 1968, Nr. 6, p. 17—22.
+    Г уревич Ф. Д. Древности белорусского Понеманья. — М.— Л., 1962.
+    Г уревич Ф. Д. Древний Новогрудок.
+  citata_rodoma: "Tautavičius A. Mūsų giminaičiai prūsai.— MG, 1968, Nr. 6, p. 17—22."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

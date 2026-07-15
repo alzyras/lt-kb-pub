@@ -68,41 +68,19 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - susijęs iš Semba: Kimenavos pilėnams buvo paskirtas vedlys ir įsakyta nedelsiant keliauti į Sembos žemę.
 - susijęs iš [[objektai/asmenys/Gedetas.md#claim-t-184067|Gedetas]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
 - susijęs iš [[objektai/asmenys/Gedetas.md#claim-t-60285|Gedetas]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Magistras su kariuomene įsibrovė į Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti to paties vardo pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sitai padaręs,
-    magistras kitą dieną su savo kariuomene įsibrovė  į Sūduvos valsčių, vardu Kimenava,
-    ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog
-    jiems bus leista netrukdomiems iš čia išeiti su visa manta, pasižadėjus priimti Kristaus
-    tikėjimą. Tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti  į Sembos žemę. Kai kitą
-    dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal,  jie
-    sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59083
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sitai padaręs,
-    magistras kitą dieną su savo kariuomene įsibrovė  į Sūduvos valsčių, vardu Kimenava,
+    magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava,
     ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog
     jiems bus leista netrukdomiems iš čia išeiti su visa manta, pasižadėjus priimti Kristaus
-    tikėjimą. Tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti  į Sembos žemę. Kai kitą
-    dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal,  jie
+    tikėjimą. Tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti į Sembos žemę. Kai kitą
+    dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal, jie
     sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
   statusas: verified
   teiginio_tipas: faktas

@@ -67,8 +67,8 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   teiginys: "Teodoras Narbutas rašo, kad įvairiose šalyse atsirado skirtingų imperatorių ir barbarų karaliukų."
   pagrindžia:
     - c-175343
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -104,32 +104,12 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'Teodoras Narbutas rašo, kad įvairiose šalyse atsirado skirtingų imperatorių ir barbarų karaliukų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ne­
-    trukus Ricimeras atsikratė Majorijano, o kartu neteko
-    vieningos imperijos valdžios. Įvairiose šalyse atsirado
-    įvairių imperatorių ir barbarų karaliukų. Imperatoriaus
-    sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
-    darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
-    galbos iš Konstantinopolio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-175086
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 316"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 316."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Turbūt pirmasis buvo pernelyg senas tam, kad būtų tė­
     vas Odoakro, kuris, tai žinoma iš Kasiodoro raštų, buvo
@@ -137,7 +117,9 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
     1 K. Sirvydo žodynas. P. 339. Senovės rašytojai, tokie kaip Pro-
     kopijus ir Jordanas, herulų vadų, t. y. karaliukų, vardus Faras, File-
     mut, Fanoteus, Fulkaris akivaizdžiai iškraipė neatpažįstamai, nes lie­
-    tuvių kalboje, nė vienoje jos tarmėje, raidė „f" nėra žinoma.
+    tuvių kalboje, nė vienoje jos tarmėje, raidė „f" nėra žinoma. Lietu­
+    vis, nuo pat gimimo pripratęs prie savo kalbos, nemoka ištarti šio
+    garso. Pavyzdžiui, žodį „falszyay" jis taria „palszymy“*.
   citata_rodoma: "Senovės rašytojai, tokie kaip Prokopijus ir Jordanas, herulų vadų, t. y. karaliukų, vardus Faras, File-\nmut, Fanoteus, Fulkaris akivaizdžiai iškraipė neatpažįstamai, nes lie-\ntuvių kalboje, nė vienoje jos tarmėje, raidė „f“ nėra žinoma."
   statusas: verified
   teiginio_tipas: faktas
@@ -149,15 +131,15 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
 - id: c-175087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 313"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Bet Majorijano ir Rytų
-    imperatoriaus Leono žygiai j Afriką buvo nesėkmingi;
-    romėnai patys vertė niekais savo monarchų darbus. Ne­
+    Ne­
     trukus Ricimeras atsikratė Majorijano, o kartu neteko
     vieningos imperijos valdžios. Įvairiose šalyse atsirado
-    įvairių imperatorių ir barbarų karaliukų.
+    įvairių imperatorių ir barbarų karaliukų. Imperatoriaus
+    sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
+    darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
+    galbos iš Konstantinopolio.
   citata_rodoma: "Įvairiose šalyse atsirado įvairių imperatorių ir barbarų karaliukų."
   statusas: verified
   teiginio_tipas: faktas
@@ -169,16 +151,19 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
 - id: c-175343
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 313"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ne­
-    trukus Ricimeras atsikratė Majorijano, o kartu neteko
-    vieningos imperijos valdžios. Įvairiose šalyse atsirado
+    Įvairiose šalyse atsirado
     įvairių imperatorių ir barbarų karaliukų. Imperatoriaus
     sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
     darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
-    galbos iš Konstantinopolio.
+    galbos iš Konstantinopolio. Per šią sumaištį greitai kei­
+    tėsi imperatoriai: Antemijus, Olibrijus, Gliceras, Nepas
+    neilgai valdė; pagaliau Ricimero mirtis davė progą sam­
+    dytai kariuomenei vadovavusiam Orestui į imperatoriaus
+    sostą pasodinti savo dar jauną sūnų Romulą Momilijų
+    Augustulą.
+  citata_rodoma: "Ne­\ntrukus Ricimeras atsikratė Majorijano, o kartu neteko\nvieningos imperijos valdžios. Įvairiose šalyse atsirado\nįvairių imperatorių ir barbarų karaliukų. Imperatoriaus\nsosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­\ndarė beveik vien Italija, vadovu Severą ir šaukėsi pa­\ngalbos iš Konstantinopolio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

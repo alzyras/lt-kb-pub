@@ -48,6 +48,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginys: "„Uusi Suomi“ spausdino prof. Niemio raštus, tarp jų ir apie Vilnių."
   pagrindžia:
     - c-178070
+
 ## Citatos
 
 - id: c-178070

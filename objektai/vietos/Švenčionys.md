@@ -43,25 +43,6 @@ Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines ž
   teiginys: "1939 m. derybose Lietuva siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus."
   pagrindžia:
     - c-167036
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1939 m. derybose Lietuva siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Derybas apsunkino tai, jog spalio pradžioje karines bazes pagal pa-
-    našias sutartis sovietai jau buvo primetę Estijai ir Latvijai. Lietuviai at-
-    kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti
-    kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
-    Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
-    iki 20 000.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

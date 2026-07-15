@@ -47,27 +47,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89211|Skalviai]]: M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.
 - susijęs iš Nogatas: Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.
 - susijęs iš Prieglius: Kalbinė riba tarp lietuvių ir prūsų Ordino atsikraustymo metu ėjo Priegliumi ir kitomis natūraliomis ribomis.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos prekės iš Nemuno per Giliją ir Kuršmares buvo plukdomos Deimena pro Labguvą į Prieglių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    183 psl.), jis pasi-
-    darė svarbiausias Lenkijos žemės produktų eksporto centras.
-    Lietuva kad ir neturėjo savo uosto, tačiau ir ji stengėsi ekspor-
-    tuoti savo javus. Ji veždavo savo prekes Nemunu; iš Nemuno
-    kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo
-    plaukiama Deimena pro Labguvą į Prieglių, juo — pro Kara-
-    liaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-02644

@@ -43,34 +43,6 @@ media_all_json: |-
   teiginys: "Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje."
   pagrindžia:
     - c-83617
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vilno ipso die Sanctae Priscae Virginis 67
-    et martyris anno D-ni 1401 [Lietuvos Lindenblatt Jahrbücher, p. 147.
-    aukštesniesiems ir t. t. privilegija, Geschichte Marienburgs, etc. von J o-
-    duota Vilniuje Šv. Priskos, mergelės hannes Voigt, p. 220.
-    146
-
-    ## Puslapis 163
-
-    Il KNYGA
-    nėtinai didelį skaičių žydų Lietuvoje ir Voluinėje, ir pačioje sosti­
-    nėje jaugi nemažai jų buvo, Lucke (1408 m.) visiems Lietuvos
-    žydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­
-    sios Lenkijos kunigaikščio Boleslovo Pamaldžiojo atmintiną
-    privilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­
-    rią vėliau patvirtino Kazimieras Didysis68.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, jakutai, čiukčiai.
+To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, jakutai, čiukčiai. Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie tuvių genties tautos žinojo trizną.
 
 ## Teiginiai
 
@@ -35,31 +35,13 @@ To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, 
   teiginys: "To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, jakutai, čiukčiai."
   pagrindžia:
     - c-177191
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, jakutai, čiukčiai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    366
-
-    ## Puslapis 366
-
-    Taip pat iš liaudies pasakojimų aiškėja, jog kai kurie šykš­
-    tuoliai seniai, pavydintys sėkmės net savo artimiausiems gimi­
-    nėms ir manantys, kad šio pasaulio turtai pravers jiems aname
-    pasaulyje, prieš mirtį taip užkasdavo savo pinigus žemėje, jog
-    niekas apie tai nesužinodavo. Atrodo, kad tokį padavimą pa­
-    tvirtina seni pinigai, randami gana dažnai tikrosios Lietuvos
-    kraštuose. To papročio tebesilaiko tamsybėje skendinčios šiau­
-    rės tautos -  samojedai, jakutai, čiukčiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197227"></a>
+- t-002
+  global_id: t-197227
+  teiginys: "Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie tuvių genties tautos žinojo trizną."
   pagrindžia:
-    - t-001
+    - c-177191
 
 ## Citatos
 
@@ -68,21 +50,24 @@ To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    366
-
-    ## Puslapis 366
-
-    Taip pat iš liaudies pasakojimų aiškėja, jog kai kurie šykš­
-    tuoliai seniai, pavydintys sėkmės net savo artimiausiems gimi­
-    nėms ir manantys, kad šio pasaulio turtai pravers jiems aname
-    pasaulyje, prieš mirtį taip užkasdavo savo pinigus žemėje, jog
-    niekas apie tai nesužinodavo. Atrodo, kad tokį padavimą pa­
-    tvirtina seni pinigai, randami gana dažnai tikrosios Lietuvos
-    kraštuose. To papročio tebesilaiko tamsybėje skendinčios šiau­
-    rės tautos -  samojedai, jakutai, čiukčiai.
+    Nuostabus dalykas, kaip tos rau­
+    dotojos sugeba išreikšti didžiausią liūdesį, bet stebėtoją labiau­
+    siai stulbina jų linksmi ir pragiedrėję veidai tuo momentu, kai
+    jos liaujasi rėkusios - nueina nuo scenos kaip artistės, visiškai
+    nepaveiktos įspūdžių, kuriuos ką tik vaizdavo žiūrovams. Ne­
+    turtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net
+    jei ir nebūtų jokios giminaitės, kuri nors moteris iš dievobai­
+    mingumo turi paklykauti .
+    Seniau ašaras, išverktas per laidotuves, labai rūpestingai
+    surinkdavo į molinius dubenėlius; kai kada turėdavo stiklinių
+    indelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­
+    rusiojo kojų. Apie tai bus straipsnyje „Kapai“.
+    Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­
+    tuvių genties tautos žinojo trizną.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194795
+    - t-197227

@@ -66,41 +66,6 @@ Nenurodyta
   pagrindžia:
     - c-73051
 
-<a id="claim-t-75151"></a>
-- t-003
-  global_id: t-75151
-  teiginys: "1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į Vilnių."
-  pagrindžia:
-    - c-73051
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Berlynas ir Mas-
-    kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,
-    1941 m. sausio 10 d. SSRS pagal dar vieną slaptą protokolą jas nusipirks iš
-    Vokietijos už 7,5 mln. aukso dolerių).
-    Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
-    va prarado neutralios politikos statusą ir dalį suvereniteto. Tik Vilniaus,
-    Lietuvos kariuomenė įžengia į Vilnių
-    (1939 m. spalio pabaiga)
-
-    L I E T U V O S  I S T O R I J A
-    186
-    istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje,
-    o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-
-    sakis „Vilnius mūsų, o mes rusų“).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-    - t-001
-
 ## Citatos
 
 - id: c-73051
@@ -128,6 +93,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75152
-    - t-75153
     - t-75151
+    - t-75152

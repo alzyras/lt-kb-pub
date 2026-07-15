@@ -41,7 +41,6 @@ Narbutas Signotus apibūdina kaip Atrimpo arba Gardaičio žynius, kurių pavadi
 - susijęs iš [[objektai/zodynas/Signotai Sigonottai.md#claim-t-189331|Signotai Sigonottai]]: Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių būta pajūrio srityse.
 - susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188436|Kristupas Hartknochas]]: Narbutas perteikia Hartknocho aiškinimą, kad senovės prūsų žodis Sigos reiškė tvarką arba vienuoliją.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas Signotus apibūdina kaip Atrimpo arba Gardaičio žynius, kurių pavadinimą sieja su Hartknocho aiškintu prūsų žodžiu Sigos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -66,16 +65,22 @@ Narbutas Signotus apibūdina kaip Atrimpo arba Gardaičio žynius, kurių pavadi
 - id: c-172351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 294"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 294."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir
-    susijuosdavo balta drobine skara.
-    Signotai (Sigonottaį
-    Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos
-    senovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką
-    arba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba
-    Gardaičio tarnai, todėl jų būdavo pajūrio srityse.
+    sose antikinėse tautose jų pašaukimas buvo labai kilnus ir ger­
+    biamas; mat jie, pranašesni savo protu ir turintys nuostabią
+    dovaną kurti eiles, pranokdavo kitus žmones, pateikdavo įsta­
+    tymus, kūrė mokslą ir skatindavo karo žygius arba puoselėda­
+    vo pilietines dorybes, tramdydavo nusikaltimus ir diegdavo ap-
+    švietą kerinčia poezijos ir muzikos meno galia. Lietuvių bar­
+    dai grojo styginiu instrumentu, vadintu Citera , kurio garsai
+    būdavo išgaunami sukant rankeną, panašią į veleną; kaip liu­
+    dija liaudies pasakojimai, dar esama senų žmonių, kurie yra
+    mate tokį instrumentą arba girdėję pasakojant apie jį. Padavi­
+    muose dar prisimenami lietuvių liaudies dainų dainuotojai,
+    vaikščioję po kaimus su tokiais instrumentais, panašūs į elge­
+    tas, tačiau, pasak tų pasakojimų, tai buvę seniai.
+  citata_rodoma: "Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir\nsusijuosdavo balta drobine skara.\nSignotai (Sigonottaį\nTai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos\nsenovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką\narba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba\nGardaičio tarnai, todėl jų būdavo pajūrio srityse."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

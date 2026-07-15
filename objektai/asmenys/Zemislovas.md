@@ -7,16 +7,16 @@ datos:
   - '1269 m.'
 date_start: '1269'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - valdovas
   - asmuo
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,8 +44,8 @@ Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemis
   teiginys: "Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai."
   pagrindžia:
     - c-169629
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -71,17 +71,24 @@ Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemis
 - id: c-169629
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 124."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo tarpu kilo neramu-
-    1269 m e ta i
-    mai Lenkijoje. Tarp riterių
-    ordino ir kunigaikščio Ze-
-    mislovo, valdžiusio Kujaviją ir Lenčicą, prasidėjo vai­
-    dai ir ginkluoti susidūrimai. Žinia apie šią nesantaiką
-    paskatino visus narsiausius lietuvių jaunikaičius žygiui
-    dėl grobio.
+    Greitosiomis su-
+    L ie tu v ia i n u n io k o jo
+    telkta kariuomenė ryžosi nio-
+    K u ja v iją
+    koti Kujaviją; patraukė jie
+    ten Mazovijos ir Prūsijos pa­
+    sieniu; niekieno netrukdomi, nusiaubė kaimus, išsivarė
+    galybę gyvulių ir belaisvių. Kitame pakraštyje neliko
+    ramūs ir žemaičiai. Gyvi išlikę prūsai susilaukė žiau­
+    raus likimo, dėl to imta jų gailėtis; būgštauta, jog,
+    juos iki vienam išnaikinus,
+    Ž em a ičia i g in a prū sų
+    priešas atsidurs per arti ir
+    lik u č iu s
+    sukels karą.
+  citata_rodoma: "Tuo tarpu kilo neramu-\n1269 m e ta i\nmai Lenkijoje. Tarp riterių\nordino ir kunigaikščio Ze-\nmislovo, valdžiusio Kujaviją ir Lenčicą, prasidėjo vai­\ndai ir ginkluoti susidūrimai. Žinia apie šią nesantaiką\npaskatino visus narsiausius lietuvių jaunikaičius žygiui\ndėl grobio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

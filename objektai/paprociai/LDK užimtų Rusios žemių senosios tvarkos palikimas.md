@@ -62,27 +62,6 @@ Nenurodyta
   teiginys: "LDK užimtuose kraštuose lietuviai iš pradžių nekeisdavo susiklosčiusios tvarkos ir palikdavo senąsias kunigaikštijų struktūras."
   pagrindžia:
     - c-55157
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'LDK užimtose Rusios žemėse lietuvių kunigaikščiai iš pradžių palikdavo senąsias kunigaikštijų struktūras.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Net dinastinės
-    vedybos vykdavo tiesioginiu kariniu spaudimu.
-    Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-
-    bę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-
-    sios tvarkos. Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis:
-    „senovės negriauname, naujovių neįvedame“  – jie palikdavo senąsias
-    kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaiki-
-    niais terminais – autonomijas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -106,3 +85,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54268
+    - t-54269

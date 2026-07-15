@@ -43,32 +43,13 @@ Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi 
   teiginys: "Komestorius rašė, kad panašūs ženklai rodėsi mirštant Julijui Cezariui, o po jo mirties suskilo senatas."
   pagrindžia:
     - c-61362
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Komestorius rašė, kad panašūs ženklai rodėsi mirštant Julijui Cezariui, o po jo mirties suskilo senatas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sitai ir buvo ženklas bei požymis,
-    rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija. Vis dėlto šis skilimas
-    užtruko dvejus metus ir keturis mėnesius, kol kardinolai sutarė dėl busimojo popiežiaus
-    išrinkimo. Pasak Komestoriaus, panašūs ženklai šitaip rodęsi ir tuo metu, kai mirė Julijus
-    Cezaris, o po jo mirties suskilo senatas (Ptol. n 1241).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61362
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sitai ir buvo ženklas bei požymis,
     rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija. Vis dėlto šis skilimas

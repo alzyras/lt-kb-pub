@@ -93,51 +93,6 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - susijęs iš [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija.md#claim-t-87263|Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]: 1469 m. karaliaus pavedimu į Vilnių pakviestiems bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis prie Vilnios.
 - susijęs iš Karališkasis malūnas: 1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš [[objektai/zodynas/neofitai.md#claim-t-113658|neofitai]]: 1469 m. į Vilnių buvo pakviestas bernardinų ordinas, kad neofitai įsitvirtintų krikščionių tikėjime.
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš Lietuvos Metrikos. Knyga, apimanti
-    Metrikos archyvo sąrašą. Raidė S.
-    Antraštė: Molendinum Vilnense [Vil­
-    niaus malūnas].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-004
-- c-002
-  santrauka: '1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    40), matyti,
-    266
-
-    ## Puslapis 283
-
-    IV KNYGA
-    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
-    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
-    gai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­
-    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
-    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
-    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
-    mis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­
-    lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
-    žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
-    malūnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-55849
@@ -155,8 +110,8 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195087
     - t-195086
+    - t-195087
 
 - id: c-177469
   autorius: "Michał Baliński"

@@ -8,13 +8,13 @@ datos:
   - '880 m.'
 date_start: '880'
 date_end: ''
+amziai:
+  - 'IX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - transportas
-amziai:
-  - 'IX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -92,36 +92,6 @@ Nenurodyta
 - susijęs iš Žuvinto ežeras: Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.
 - susijęs iš Žuvinto palios: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Man vis dėlto atrodo,
-    kad įvykis, aprašytas Petro Olai
-    „Danų kronikoje", yra kaip tik tas,
-    kuris, viena vertus, atbloškė Riuri-
-    ką ir jo variagus į Rusiją, kita ver­
-    tus, galbūt tariamąjį Palemoną su
-    draugais - į Lietuvą. Juk šis kroniki­
-    ninkas pasakoja, kad apie 880 me­
-    tus, viešpataujant Danijoje karaliui
-    Kanutui (Cnud), kai dėl pragaištingo
-    nederliaus visiems gyventojams trū­
-    ko grūdų, buvo įsakyta kas trečią
-    žmogų išvaryti iš valsčiaus visiems
-    laikams. Likimo lemties tremtiniai,
-    sutelkę į draugę valtis, vadovauja­
-    mi išsirinkto vado, persikėlė per jū­
-    rą ir įsikūrė Prūsijoje, Žemaitijoje bei
-    Karelijoje, tarp vietinių gyventojų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -216,16 +186,20 @@ Nenurodyta
 - id: c-174945
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 241"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šie, susirinkę labai daug savo valčių, stojo
-    į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
-    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
-    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
+    Sis sutriuškinimas buvęs toks ¡baisus,
     jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
     veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
     riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
+    Toji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­
+    rios, turėjusi prie Rasytės susisiekimą su jūra. Pasakoji­
+    mui apie šį neabejotinai seną įvykį būdingi istoriškumo
+    bruožai, ir jis yra visiškai įtikėtinas. Šiose kautynėse žu­
+    vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija
+    netgi nedviprasmiškai nurodo šios didelės pergalės prie­
+    žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
+    Onevu, perėjimą į priešo pusę.
   citata_rodoma: "Sis sutriuškinimas buvęs toks ¡baisus,\njog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­\nveik iš naujo grumtis su sudužusiomis valtimis ir plūdu­\nriuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką."
   statusas: verified
   teiginio_tipas: faktas
@@ -237,18 +211,19 @@ Nenurodyta
 - id: c-174946
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 241"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šią
-    karalaitę, nenorėjusią už jo tekėti, Frotonas paviliojęs ste­
-    buklingu gėrimu, bet netrukus ją palikęs. įžeistas išdavi­
-    kiškai pamestos karalienės tėvas susijungė su rusais ir pa­
-    skelbė žentui karą, kuris baigėsi danų karaliaus pergale.
     Po to šio kariūno pyktis pakrypo prieš rusus; jis surinko
     laivyną, atplaukė prie Baltijos jūros rytinių pakrančių ir
     užpuolė rusus. Šie, susirinkę labai daug savo valčių, stojo
-    į mūšį prie įėjimo į Rusnės įlanką.
+    į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
+    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
+    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
+    jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
+    veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
+    riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
+    Toji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­
+    rios, turėjusi prie Rasytės susisiekimą su jūra.
   citata_rodoma: "Šie, susirinkę labai daug savo valčių, stojo į mūšį prie įėjimo į Rusnės įlanką."
   statusas: verified
   teiginio_tipas: faktas
@@ -260,17 +235,17 @@ Nenurodyta
 - id: c-175296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 241"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Danai, atplaukę su
-    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
-    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
-    jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
-    veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
-    riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
     Toji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­
-    rios, turėjusi prie Rasytės susisiekimą su jūra.
+    rios, turėjusi prie Rasytės susisiekimą su jūra. Pasakoji­
+    mui apie šį neabejotinai seną įvykį būdingi istoriškumo
+    bruožai, ir jis yra visiškai įtikėtinas. Šiose kautynėse žu­
+    vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija
+    netgi nedviprasmiškai nurodo šios didelės pergalės prie­
+    žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
+    Onevu, perėjimą į priešo pusę. Karalius Frotonas užėmė
+  citata_rodoma: "Danai, atplaukę su\nnedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas\nrusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,\njog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­\nveik iš naujo grumtis su sudužusiomis valtimis ir plūdu­\nriuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.\nToji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­\nrios, turėjusi prie Rasytės susisiekimą su jūra."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

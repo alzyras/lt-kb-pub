@@ -57,33 +57,6 @@ Nenurodyta
   teiginys: "1384 m. Jogaila ir Skirgaila tarp Vilniaus ir Ukmergės nugalėjo Ragainės komtūrą ir sunaikino jo kariauną."
   pagrindžia:
     - c-82927
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1384 m. Jogaila ir Skirgaila tarp Vilniaus ir Ukmergės nugalėjo Ragainės komtūrą ir sunaikino jo kariauną.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau mūšio metu į me­
-    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
-    per kurį didelę Vilniaus dalį pasiglemžė ugnis. Tas pašėlęs
-    lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas­
-    metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim­
-    tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių
-    netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda­
-    vo Kernavę, bet lemtinga Jogailos ir Skirgailos pergalė prieš
-    Ragainės komtūrą, laimėta tarp Vilniaus ir Ukmergės, ir vi­
-    siškas pastarojo kariaunos sunaikinimas tąkart apsaugojo
-    sostinę nuo puolimo. Tuo metu pakitusi kaimyninės Lenki­
-    jos padėtis, nauji Jogailos politikos užmojai ilgam įžiebė Prū­
-    sijos kerštą ir Lietuvai bei Vilniui grėsė neapsakomomis ne­
-    gandomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

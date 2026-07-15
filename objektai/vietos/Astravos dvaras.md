@@ -45,56 +45,12 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
   pagrindžia:
     - c-31941
 
-<a id="claim-t-72795"></a>
-- t-002
-  global_id: t-72795
-  teiginys: "1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais."
-  pagrindžia:
-    - c-31941
-
 <a id="claim-t-72797"></a>
-- t-003
+- t-002
   global_id: t-72797
   teiginys: "Vytautas, atsimetęs nuo ordino, Astravos dvare prie Lydos susitaikė su Jogaila."
   pagrindžia:
     - c-46441
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vy­
-    tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
-    duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
-    Trakų ir Lucko kunigaikščiais2S.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  santrauka: 'Vytautas, atsimetęs nuo ordino, Astravos dvare prie Lydos susitaikė su Jogaila.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Astravos**
-        **sutartis (1392 m.)**
-    Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila As-
-    travos dvare, paliai Lydą. Čia buvo sudaryta sutartis, kuria Jo-
-    gaila grąžino Vytautui visas jo tėvo žemes, paliko jam po pirmo-
-    jo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-
-    tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
-    valdžią ir visada jį palaikyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -113,7 +69,6 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72795
-    - t-72796
 
 - id: c-46441
   redaktorius: "A. Šapoka"

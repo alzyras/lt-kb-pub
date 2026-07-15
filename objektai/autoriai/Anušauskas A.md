@@ -45,19 +45,6 @@ Anušauskas A.
   teiginys: "A. Anušauskas parašė veikalą „Teroras. 1940–1958 m.“, išleistą Vilniuje 2012 m."
   pagrindžia:
     - c-20701
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Anušauskas A. Teroras. 1940–1958 m. Vilnius, 2012.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -6,7 +6,7 @@ tema_kategorija: "posakiai"
 tema_kategorijos_pavadinimas: "Posakiai"
 tema_aprasymas: ""
 tema_graph_role: "supporting"
-tema_objektu_skaicius: 188
+tema_objektu_skaicius: 192
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 188.
+Objektų skaičius: 192.
 
 ## Kaip naudoti
 
@@ -38,9 +38,11 @@ Objektų skaičius: 188.
 - [[objektai/posakiai/didžioji suirutė]]
 - [[objektai/posakiai/du priešai, šaltis ir totoriai]]
 - [[objektai/posakiai/geopolitine katastrofa]]
+- [[objektai/posakiai/Greitai mūsų publika visai užges]]
 - [[objektai/posakiai/išmovė pas Abraomą]]
 - [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis|jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
 - [[objektai/posakiai/Kad tik be arklio nebūtų]]
+- [[objektai/posakiai/kaip koks juodaknygis tamsiuose požemiuose]]
 - [[objektai/posakiai/Kalba - visų kalbų motina]]
 - [[objektai/posakiai/Kalba yra pirmutinis tautų istorijos paminklas]]
 - [[objektai/posakiai/Kalbos dvasios nepažinęs, taisykliškai kalbėt ir rašyt neišmoksi]]
@@ -49,8 +51,8 @@ Objektų skaičius: 188.
 - [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės]]
 - [[objektai/posakiai/karų neras aprašytų tokia seka, kokia jie yra vykę]]
 - [[objektai/posakiai/kein Soule sie karten wider]]
-- [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį]]
-- [[objektai/posakiai/Kinstutte herczoge czu Tracken und Wytould unsir son]]
+- [Kijevo ir Rusios didįjį kunigaikštį](../objektai/posakiai/Kijevo%20ir%20Rusios%20did%C4%AFj%C4%AF%20kunigaik%C5%A1t%C4%AF)
+- [Kinstutte herczoge czu Tracken und Wytould unsir son](../objektai/posakiai/Kinstutte%20herczoge%20czu%20Tracken%20und%20Wytould%20unsir%20son)
 - [ko nepastebi šimtaakis Argas — tauta, akyliausias pasaulyje padaras](../objektai/posakiai/ko%20nepastebi%20%C5%A1imtaakis%20Argas%20%E2%80%94%20tauta%2C%20akyliausias%20pasaulyje%20padaras)
 - [Koks Lenkijai buvo Kazimieras Didysis, tokiu Lietuvai tapo Žygimantas Senasis](../objektai/posakiai/Koks%20Lenkijai%20buvo%20Kazimieras%20Didysis%2C%20tokiu%20Lietuvai%20tapo%20%C5%BDygimantas%20Senasis)
 - [kol dar jiems bus likę kas daro](../objektai/posakiai/kol%20dar%20jiems%20bus%20lik%C4%99%20kas%20daro)
@@ -98,6 +100,7 @@ Objektų skaičius: 188.
 - [Nei dovanomis papirkti, nei grasinimais įbauginti neįstengs](../objektai/posakiai/Nei%20dovanomis%20papirkti%2C%20nei%20grasinimais%20%C4%AFbauginti%20ne%C4%AFstengs)
 - [nei žemės, nei žmonių](../objektai/posakiai/nei%20%C5%BEem%C4%97s%2C%20nei%20%C5%BEmoni%C5%B3)
 - [Neklystančiojo tonas istorijai nedaro garbės](../objektai/posakiai/Neklystan%C4%8Diojo%20tonas%20istorijai%20nedaro%20garb%C4%97s)
+- [nereikalingi skaramušai](../objektai/posakiai/nereikalingi%20skaramu%C5%A1ai)
 - [Niekada nesitarsim, nesiderėsim!](../objektai/posakiai/Niekada%20nesitarsim%2C%20nesider%C4%97sim%21)
 - [Nors pataikiau gyventi metu, kuris nėra palankus darbui, skirtam tautai, kurios tik vardas gyvas](../objektai/posakiai/Nors%20pataikiau%20gyventi%20metu%2C%20kuris%20n%C4%97ra%20palankus%20darbui%2C%20skirtam%20tautai%2C%20kurios%20tik%20vardas%20gyvas)
 - [Nors žuvo valstybė, bet neleiskime žūti tautai](../objektai/posakiai/Nors%20%C5%BEuvo%20valstyb%C4%97%2C%20bet%20neleiskime%20%C5%BE%C5%ABti%20tautai)
@@ -144,6 +147,7 @@ Objektų skaičius: 188.
 - [vartais į Rusiją](../objektai/posakiai/vartais%20%C4%AF%20Rusij%C4%85)
 - [vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią](../objektai/posakiai/vienintelis%20kelias%2C%20kuriuo%20galima%20atvesti%20husitus%20atgal%20%C4%AF%20katalik%C5%B3%20Ba%C5%BEny%C4%8Di%C4%85)
 - [vienui viena veiksminga priemonė](../objektai/posakiai/vienui%20viena%20veiksminga%20priemon%C4%97)
+- [Vilniaus publika dar nepradėjo rinktis](../objektai/posakiai/Vilniaus%20publika%20dar%20neprad%C4%97jo%20rinktis)
 - [Vilnius - tai gyva senosios Lietuvos kronika](../objektai/posakiai/Vilnius%20-%20tai%20gyva%20senosios%20Lietuvos%20kronika)
 - [Vilnius tapo žodžio ir rašto rungtynių lauku](../objektai/posakiai/Vilnius%20tapo%20%C5%BEod%C5%BEio%20ir%20ra%C5%A1to%20rungtyni%C5%B3%20lauku)
 - [visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas](../objektai/posakiai/visuotin%C4%99%20%C5%BEmoni%C5%B3%20nuomon%C4%99%20paprastai%20remia%20slaptas%20auk%C5%A1%C4%8Diausiojo%20sprendimas)

@@ -62,34 +62,13 @@ Senovinio lietuviško titulo arba valdžios žymens žodis, kurio sudėtinė var
   teiginys: "Teodoro Narbuto perteikimu, Sirvydo žodyne Wespats tiksliau aiškinamas kaip visagalis ponas."
   pagrindžia:
     - c-175059
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Wespats lietuvių kalba reiškia poną. Sirvydo žodyne (p. 240)
-    rašoma tiksliau — visagalis ponas, nes pats žodis, jei jis vartojamas
-    sujungtas su kitu, reiškia patvaldystę.
-    2 Svetimšalių rašytojų iškraipytas vardas, tačiau atrodo, jog bu­
-    vęs lietuviškos kilmės, nes turi šaknį Gan, iš kurios kilęs žodis Ga­
-    nau, taip pat prieveiksmis Gana.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-    - t-002
 
 ## Citatos
 
 - id: c-175059
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 239"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Wespats lietuvių kalba reiškia poną. Sirvydo žodyne (p. 240)
     rašoma tiksliau — visagalis ponas, nes pats žodis, jei jis vartojamas
@@ -104,5 +83,5 @@ Senovinio lietuviško titulo arba valdžios žymens žodis, kurio sudėtinė var
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192193
-    - t-192195
     - t-192194
+    - t-192195

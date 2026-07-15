@@ -92,9 +92,9 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - c-177513
     - c-177519
 
-<a id="claim-t-195160"></a>
+<a id="claim-t-195138"></a>
 - t-007
-  global_id: t-195160
+  global_id: t-195138
   teiginys: "Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus."
   pagrindžia:
     - c-177513
@@ -160,8 +160,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   global_id: t-195147
   teiginys: "Narbutas Vilnios, arba Vilnelės, vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus."
   pagrindžia:
-    - c-177512
     - c-177511
+    - c-177512
 
 <a id="claim-t-195148"></a>
 - t-017
@@ -247,15 +247,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   pagrindžia:
     - c-177517
 
-<a id="claim-t-195160"></a>
-- t-029
-  global_id: t-195160
-  teiginys: "Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus."
-  pagrindžia:
-    - c-177513
-
 <a id="claim-t-195161"></a>
-- t-030
+- t-029
   global_id: t-195161
   teiginys: "Gedimino legendoje medžioklė vyko kalne prie Neries ir Vilnelės santakos, o sapną Šventaragio slėnyje išaiškino Lizdeika."
   pagrindžia:
@@ -296,7 +289,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - susijęs iš Vilniaus pilis: Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.
 - susijęs iš Vilniaus Žemutinė pilis: Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.
 - susijęs iš Vilnius: Vilniaus įkūrimo legenda pasakoja, kad Gedimino sapno geležinis vilkas pranašavo būsimo miesto garsą.
-- susijęs iš Vilnius: Atvykusiems lenkams anuometinis Vilnius pasirodė niūrokas, bet išsiskyrė gražiu kraštovaizdžiu.
 - susijęs iš Vilnius: Ivinskis Vilniaus kaip valstybės sostinės įkūrimą apibūdino kaip gražia legenda apipintą pasakojimą.
 - susijęs iš Vilnius: Vilniaus sostinės įkūrimo legenda siejama su Gedimino medžiokle ir Lizdeikos išaiškintu sapnu.
 - susijęs iš Vingrių upokšnis: Iš vakarų atitekėjęs Vingrių upokšnis įtekėjo į Viliją visai greta Vilnios žiočių.
@@ -306,244 +298,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.
 - susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dar
-    niūrokas tuomet, bet visais laikais kerintis gražiu krašto­
-    vaizdžiu buvo anuometinis Vilnius, iškilęs prieš akis atvyku-
-    siems lenkams. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
-    nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,
-    buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­
-    ta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų
-    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
-    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
-    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-012
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš tos versmės ištekantis upelis vadi­
-    nosi Druja, nes yra miesto archyve ka­
-    raliaus Žygimanto Augusto laiškas,
-    rašytas rusų kalba iš Liublino, datuo­
-    tas 1538 metų rugsėjo 1 dieną, su
-    Lietuvos antspaudu ir raštininko Os-
-    tafiejaus [Eustachijaus] parašu, įspė­
-    jantis ponią Kiščiną, Vitebsko vaiva-
-    dienę, kad nestabdytų vandens,
-    vamzdžiais nuvesto į miestą, iš Dru­
-    jos upės Paplaujoje, tekančios netoli
-    Ziupronių kelio, nes tam yra kara­
-    liaus leidimas, kurį ji privalanti gerb­
-    ti. Toji Kiščina valdė Markučius ir ant
-    kalno prie Vilnelės turėjo didelius
-    kaimo stiliaus namus, - prie kelio, iš­
-    einančio iš daubos ir vedančio iš da­
-    bartinio Markučių dvaro į namelį, va­
-    dintą Jeruzalimu, Paplaujoje. Ponia
-    Vitebsko vaivadienė turėjo gerą sko­
-    nį ir gyveno žavingoje vietoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-015
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    PATS ALEKSANDRAS,
-    DIEVO MALONE DIDYSIS LIETUVOS,
-    RUSIOS, ŽEMAIČIŲ IR KITŲ
-    KUNIGAIKŠTIS
-    Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­
-    vilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi-
-    čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
-    čio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo
-    vaikams visiems laikams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-010
-- c-004
-  santrauka: 'Vilnia, arba Vilnelė, anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau nėra patikimų
-    tam įrodymu.
-    4
-    Vilnia, arba Vilnelė, anuomet, atite­
-    kėjusi iš už Plikojo kalno, bėgo pro
-    Pilies [gatvę], per senuosius roki tų
-    mūrus, palei Pilies vartus, paskui per
-    mažąjį turgų ir, apsukusi lankstu pi­
-    lies teritoriją, už dabartinės katedros
-    įtekėjo į Viliją. Iš priešingos, vakarų,
-    pusės atitekėjęs Vingrių upokšnis vi­
-    siškai greta Vilnios žiočių įtekėjo į Vi­
-    liją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-    - t-013
-- c-005
-  santrauka: '1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Malūnas, iki mūsų laikų vadin­
-    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
-    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
-    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
-    mis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­
-    lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
-    žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
-    malūnas. Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­
-    tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­
-    dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę
-    nutiesti tiltą iš akmenų arba plytų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-008
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pagaliau čia, Vilniuje,
-    šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
-    mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
-    gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
-    sipelniusius. Vilniaus turguje 1580 metų birželio 18 dieną
-    buvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­
-    vystę61. Narsiojo Kasparo Bekešo atminimas Vilniuje 1580
-    metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės,
-    pastačius apvalaus bokšto pavidalo paminklą, išlikusį iki
-    [Vyskupo seminarijos fundacija iš
-    vyskupo stalo dvaro, vadinamo
-    Vozgėliškėmis [Vaisgėliškis].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-007
-- c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O pilies kalno pietų
-    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
-    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
-    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Reikš­
-    mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
-    tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų
-    senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija,
-    didžiai garbinama lietuvių. Čia pat medinė šventykla, prie
-    kurios šliejosi pagonių vaidilų būstai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-- c-008
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gražia legenda yra apipintas Vilniuje valstybės sostinės
-    įkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­
-    takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje
-    (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­
-    jėgęs tik vyriausias žynys Lizdeika išaiškinti. Valdovo sapne gir­
-    dėtas staugimas «geležinio vilko », «lyg jame butų staugę šimtas
-    vilkų », reiškęs, jog toje vietoje busiąs pastatytas miestas, kuris
-    pasieksiąs didelio garso.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­
-    konams ir dominikonams, prie Vilniaus pilies pastatydino
-    jiems vienuolynus ir bažnyčias, o kad krašte plistų amatai,
-    leido naujai įkurtame mieste apsigyventi gausiems atėjū­
-    nams iš Vokietijos ir Lenkijos
-    9
-    Manome, kad Pilies kalnas senų se­
-    novėje buvo gerokai mažesnė kalva,
-    užbaigianti virtinę kalnų, juosiančių
-    Vilnelės vorupę, kuri seniau toje mi­
-    nėtosios kalvos pusėje įtekėjo į Vili­
-    ją. Gediminas, statydindamas pilį
-    karo belaisvių iš Rusios rankomis,
-    iškasęs Vilnelei kitą vagą, kurią da­
-    bar matome, ten išraustomis žemė­
-    mis paaukštino paskuoją pilies kal­
-    vą ir gal ją iš karto visai vandeniu
-    užtvindė, juk anuomet visas lietuvių
-    pilis buvo stengiamasi apsupti van­
-    deniu. Iki šiol Palenkėję tarp vieti­
-    nių žmonių sklinda padavimas, esą
-    senovės laikais iš ten eidavę į Vilnių
-    kalnų kasti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-029
-- c-010
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tuo metu poreikis turėti savą gynybą ir per ne­
-    paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
-    sikračiusiomis netašyto barbariškumo, davė pradžią rastis
-    Lietuvos žemėje medinėms pilims ir tvirtovėms.
-    Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­
-    liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­
-    sėjus ten būta medinių namų gyvenvietės4. Nors ir patogio­
-    je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių
-    santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos
-    surašytos klausantis jų skaldų, bei
-    šiaurės kronikos byloja ne apie vie­
-    ną tokį žygį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-025
 - c-011
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -560,151 +314,28 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
-- c-013
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    48
-
-    ## Puslapis 65
-
-    I  KNYGA
-    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
-    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
-    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
-    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
-    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
-    nuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­
-    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
-    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
-    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
-    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
-    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
-    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
-    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
-    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
-    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
-    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
-    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
-    imperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­
-    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
-    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
-    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-027
-- c-014
-  santrauka: 'VILNIAUS MIESTO ISTORIJA I TOMAS Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse įkurdavo savo valdžios buveines.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    17
-
-    ## Puslapis 34
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono
-    sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami
-    puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse
-    įkurdavo savo valdžios buveines. Bet labai tikėtina, kad nuo
-    seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­
-    kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų,
-    supančių Vilnios srovę, būta medinės tvirtovės6. Čia buvo
-    pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten
-    išaugusiam miestui, pagaliau nuo tos tvirtovės prie Vilnios
-    palei krantą pažemiais tęsėsi trobelės iki pat Vilijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-030
-- c-015
-  santrauka: 'Man atrodo, kad jei Lietuvo je buvo keletas tokių šventų vieto vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Man atrodo, kad jei Lietuvo­
-    je buvo keletas tokių šventų vieto­
-    vių, tai Vilnius būtinai turėjo būti
-    viena iš jų, o jeigu buvo tik ta vie­
-    nintelė, tad tikriausiai po to smūgio
-    Perkūno tikėjimo relikvijos ir Krivių
-    Krivaitis su aukotojais iš Romainių
-    buvo perkelti į Vilnių, taigi Vilnius
-    XIII amžiaus gale jau galėjo būti tan­
-    kiai gvvenama ir svarbi gyvenvietė.
-    -  •  -
-    19
-
-    ## Puslapis 36
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir
-    savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti
-    mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­
-    tinto, Vilnelės bei Vilijos9 upių santakoje, ir į ten iš Trakų
-    perkėlė savo buveinę. Jis, pirmasis iš visų Lietuvos kuni­
-    gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
-    šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-031
-- c-016
-  santrauka: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taigi ta vietovė, žinia, jei ji buvo parinkta to­
-    kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
-    ta ir gyvenama. Netgi pats Vilniaus vardas, paeinantis ne
-    nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios,
-    į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti
-    prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus
-    lydimais vertęs, kaip ir Gediminas keliasdešimt metų vė­
-    liau ant kalno statydinęs mūro tvirtovę, iškilusią jo viršūnė­
-    je, nieko daugiau nedarę, tik artinę Vilijos link ir plėtę seno­
-    vinę Vilniaus gyvenvietę, palei Vilnios, arba Vilnelės,
-    krantus nusidriekusią ir medinės pilies saugomą. Pagaliau
-    visas tas aplinkinis kraštas, kuriame yra Vilnius, kaip nuo
-    Rusios sienų netoli esantis, jau labai seniai turėjo būti apgy­
-    vendintas, ką liudija tokios tankiai gyvenamos vietovės ir
-    pilys, pirmiausia medinės, o jau XIV amžiuje perstatytos į
-    mūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-032
 
 ## Citatos
 
 - id: c-177511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 151"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iš to žodžio paimtas pa­
-    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
-    niaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­
-    jimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­
-    niui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­
-    ja, kurią seniau vadino Nerimi.
+    Kaimiečiai iki
+    šiol tebepasakoja, kad ten, meldynuose, pasirodančios skais­
+    čios, nuogos mergos. Jos šokančios, linksmai išdykaujančios;
+    vargas tam, kurį suvilios jų klastingas gundymas.
+    Kitose vietose, kaip man pasakojo, tokias vandenų gundy­
+    tojas paprasti žmonės vadina undinėmis (Ondynami) arba van­
+    denėmis (Wundynami), o tai žodžio nimfa vertimas.
   citata_rodoma: "Iš to žodžio paimtas pa­\nvadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­\nniaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­\njimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­\nniui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­\nja, kurią seniau vadino Nerimi."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-195147
 
 - id: c-177512
   autorius: "Michał Baliński"
@@ -729,8 +360,12 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-195132
     - t-195141
     - t-195143
+    - t-195144
+    - t-195147
+    - t-195148
 
 - id: c-177513
   autorius: "Michał Baliński"
@@ -764,8 +399,10 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195160
+    - t-195137
     - t-195138
+    - t-195150
+    - t-195155
 
 - id: c-177514
   autorius: "Michał Baliński"
@@ -788,8 +425,9 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195145
     - t-195136
+    - t-195139
+    - t-195145
 
 - id: c-177515
   autorius: "Michał Baliński"
@@ -851,8 +489,9 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195158
     - t-195152
+    - t-195156
+    - t-195158
 
 - id: c-177517
   autorius: "Michał Baliński"
@@ -1027,6 +666,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195133
+    - t-195157
 
 - id: c-177523
   autorius: "Michał Baliński"
@@ -1077,8 +717,9 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195151
     - t-195140
+    - t-195151
+    - t-195154
 
 - id: c-177525
   autorius: "Michał Baliński"
@@ -1102,3 +743,22 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   pagrindzia:
     - t-195149
     - t-195153
+
+- id: c-177511
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Iš to žodžio paimtas pa­
+    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
+    niaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­
+    jimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­
+    niui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­
+    ja, kurią seniau vadino Nerimi.
+  citata_rodoma: "Iš to žodžio paimtas pa­\nvadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­\nniaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­\njimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­\nniui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­\nja, kurią seniau vadino Nerimi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023

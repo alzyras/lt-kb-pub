@@ -35,32 +35,6 @@ Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą
   teiginys: "Iki Atgimimo sovietmečiu drausta viešai kalbėti apie pokario masines gyventojų deportacijas ir partizanų kovas."
   pagrindžia:
     - c-95098
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Iki Atgimimo sovietmečiu drausta viešai kalbėti apie pokario masines gyventojų deportacijas ir partizanų kovas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ir kitose kultūros
-    srityse išmokta atiduoti duoklę komunizmui, o toliau kuriamas kad ir ri-
-    botas, bet tautinės kultūros reiškinys.
-    Nors iki atgimimo galiojo įvairūs draudimai (neužsiminti apie nepri-
-    klausomą Lietuvos valstybę, ją peikti ir niekinti, nekalbėti apie pokario
-    masines gyventojų deportacijas, partizanų kovas) nuo septintojo dešimt­
-    mečio kultūros padėtis pagerėjo: rašytojai, menininkai, mokslininkai
-
-    L I E T U V O S  I S T O R I J A
-    222
-    galėjo drąsiau tarti savo žodį, viešai sakyta ir rašyta kaip reikia, o viduje,
-    savo rateliuose, diskutuota apie svarbiausius dalykus. Kultūrininkai pa-
-    laipsniui tapo savo tautos sąžinės balsu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -110,7 +110,7 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - susijęs iš [[objektai/asmenys/Papildomi mažesnio konteksto kandidatai iš vienos citatos.md#claim-t-87924|Papildomi mažesnio konteksto kandidatai iš vienos citatos]]: Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyzdžiu kitiems?
 - susijęs iš [[objektai/asmenys/Petras (Hermano iš Lichtenburgo nuodėmklausys).md#claim-t-60407|Petras (Hermano iš Lichtenburgo nuodėmklausys)]]: Kunigas ir nuodėmklausys Petras subarė brolį dėl grandininių šarvų, bet šis atsisakė juos nusivilkti, kol gyvas.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173205|Petras Goštautas]]: Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui.
-- susijęs iš [[objektai/asmenys/Petras iš Dusburgo.md#claim-t-186246|Petras iš Dusburgo (kunigas)]]: Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.
+- susijęs iš [[objektai/asmenys/Petras iš Dusburgo.md#claim-t-186246|Petras iš Dusburgo (kunigas)]]: Kojelavičius rašė, kad Petras iš Dusburgo tvirtino Palemoną paskyrus Romanovą vyriausiajam žyniui tikėjimui saugoti.
 - susijęs iš [[objektai/asmenys/Peža-Palionis.md#claim-t-39799|Peža-Palionis]]: Kunigas Peža-Palionis vadovavo trečiajam Lietuvos kariuomenės pulkui, sudarytam iš dalgėmis ginkluotų sodiečių.
 - susijęs iš [[objektai/asmenys/Pilypas Frizijus.md#claim-t-87562|Pilypas Frizijus]]: 1631 m. kunigas Pilypas Frizijus prie Vilniaus kapitulos 4000 auksinų pridėjo 1500 savų ir 5500 auksinų perdavė Vilniaus kahalo žydams.
 - susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173216|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: 1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.
@@ -196,6 +196,7 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - susijęs iš Tėvynės sargas: „Tėvynės sargas“ nuo 1896 m. tapo populiariausiu katalikiškos pakraipos leidiniu, o jo varomoji jėga buvo Juozas Tumas-Vaižgantas.
 - susijęs iš Ašmena: Prieš vyskupijos įkūrimą Jogaila rytų Lietuvoje aplankė Ašmeną, kur vietiniai žmonės buvo mokomi tikėjimo tiesų ir krikštijami.
 - susijęs iš Dievo Kūno koplyčia: Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.
+- susijęs iš Druja: Cituojamas kunigas rašė, kad anksčiau buvo Drujos vikarijus, vėliau Graužiškių klebonas ir galiausiai tapo vadinamas „litvomanu“.
 - susijęs iš Kaunas: 1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.
 - susijęs iš Lietuva: Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.
 - susijęs iš Merkinė: Prieš Vilniaus vyskupijos įkūrimą Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo ir krikštijami.
@@ -205,9 +206,6 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - susijęs iš Rusia Rusios žemės: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
 - susijęs iš Rusia: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
 - susijęs iš Upinės upelis Išganytojo upelis: Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės kerus ant Upinės kaupo buvo pastatyta koplyčia.
-- susijęs iš Vilnius: 1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines idėjas ir savo mokykloje išlavino šešiasdešimt mokinių.
-- susijęs iš Vilnius: Algirdo laikais Lietuvos sostinė kelis kartus buvo žiauriai nuniokota, bet valdovas išgelbėdavo Vilnių nuo visiškos pražūties.
-- susijęs iš Vilnius: Tą pačią vasarą į Vilnių pas Aleksandrą atvyko jo motina Elžbieta, brolis Fridrichas ir seserys Barbora bei Elžbieta, o metraštis pabrėžia džiaugsmingą jų priėmimą.
 - susijęs iš Virogorų ežeras: Tėvai jėzuitai pasisavino Virogorų ežerą su žeme, miškais ir lankomis.
 - susijęs iš Šventoji ties Smalininkais: Šventoji (Swięta) ties Smalininkais minima kaip upė, įtekanti į Nemuną žemiau Jurbarko prie Prūsijos sienos.
 - susijęs iš [[objektai/zodynas/Aitvaras viršgulis.md#claim-t-189110|Aitvaras viršgulis]]: Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kuris užgula miegančias moteris.
@@ -226,46 +224,6 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - susijęs iš Šv. Dvasios bažnyčia Vilniuje: 1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.
 - susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192259|Krirsae]]: Narbutas nurodo, kad Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“, reiškiančio šaltinį.
 - susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192260|Krirsae]]: Narbutas nepripažįsta krivičių pavadinimo kildinimo iš sarmatų žodžio „Krirsae“.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII
-    amž.
-    Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai
-    didelė, o joje esą daug medaus ir žuvies. Tarp savęs aisčiai daug
-    kariaują. Keliautojas pažymėjo ir socialinius skirtumus tarp val­
-    dančiųjų ir paprastų žmonių, nes «kunigai» ir turtingieji gerią
-    kumelių pieną. (Matomai arklius teturėdavę turtingieji).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'XII-XIII a. kunigų įrengtos pilys, anksčiau naudotos tarpusavio vaidams, ėmė tarnauti gynybai nuo išorinių priešų.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    giminės apgyventa ir sutvirtinta kalva, vėliau virto tikra pilimi.
-    Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar
-    «kunigų » (mūsiškai kunigaikščių) įsirengtos gynimuisi tarpusavio
-    vaiduose ir nesantaikoje, XII-XIII amž. ėmė tarnauti gintis nuo
-    išorinių priešų. Ir anglo-saksų jūrininkas Wulfstanas savo prane­
-    šime (870-890 m.), kuris iki istorinių laikų apie vakarinius baltus
-    palieka svarbiausias rašytas šaltinis, kalbėjo apie daugelį ten buvu­
-    sių pilių, kurių kiekvienoje yra « kunigas » (« cynigc »).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-34161

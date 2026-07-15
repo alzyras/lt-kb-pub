@@ -64,21 +64,6 @@ Nenurodyta
   teiginys: "Lietuvos kariuomenės artileristai užtaisė 76,2 mm kalibro rusišką 1902 m. modelio Putiliovo gamyklos lauko patranką."
   pagrindžia:
     - c-42542
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos kariuomenės artileristai užtaisė 76,2 mm kalibro rusišką 1902 m. modelio Putiliovo gamyklos lauko patranką.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 182, Lietuvos kariuomenės artileristai užtaiso 76, 2 mm kalibro rusišką 1902 m. modelio
-    Putiliovo gamyklos lauko patranką, VDKM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

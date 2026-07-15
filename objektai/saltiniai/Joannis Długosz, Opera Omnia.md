@@ -43,25 +43,6 @@ DlugO = Joannis Długosz, Opera Omnia, t.
   teiginys: "„Joannis Długosz, Opera Omnia“ 11–14 tomai buvo išleisti Krokuvoje 1873–1878 m."
   pagrindžia:
     - c-33596
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    DaSD = Skarbiec diplomatów do dziejów Litwy, Rusi litewskiej
-    i ościennych im Krajów, t. 1-2, Vilnius 1860-62.
-    DlugO = Joannis Długosz, Opera Omnia, t. 11-14, Krokuva 1873-
-    1878.
-    DoZGos = Dovnar-Zapol’skij, M. V. : Gosudarstvennoe chozjaistvo Ve-
-    likogo Knjažestva Litovskogo pri Jagellonach, atsp. iš
-    KUIz, Kijevas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

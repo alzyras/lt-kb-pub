@@ -35,8 +35,8 @@ Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
   teiginys: "Ašeradė) Akmena (Jūros intakas), u."
   pagrindžia:
     - c-59307
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ašeradė) Akmena (Jūros intakas), u.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -57,12 +57,16 @@ Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
 - id: c-59307
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 298"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 298."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Aizkrauklė (buv. Ašeradė)
-      Akmena (Jūros intakas), u.
-      Akmena (Mituvos intakas), u.
+    Plementa), p.
+    Kluniečių ordinas
+    Knivitė, u.
+    Kobrinas
+    Kolainiai (Colayne, Kalaine, p., greičiausiai Jurbarko Bišpilio, Višpilio piliakalnyje)
+    Colm/Kolm
+    Colmelawcken, Collmilawken
+    Colmen (deš.
   citata_rodoma: "Ašeradė)\n  Akmena (Jūros intakas), u.\n  Akmena (Mituvos intakas), u."
   statusas: verified
   teiginio_tipas: faktas

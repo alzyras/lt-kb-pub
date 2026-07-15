@@ -34,24 +34,6 @@ Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vi
   teiginys: "Iš Alkuskų kasyklos buvo vežami plienas ir geležis."
   pagrindžia:
     - c-82146
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Iš Alkuskų kasyklos buvo vežami plienas ir geležis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ten jų reikėjo daugybės ir visokių. Alavas ir varis iš
-    Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į
-    Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.
-    Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
-    lų, gaminta bombos ir kiti karo reikmenys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

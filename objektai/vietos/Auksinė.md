@@ -79,52 +79,12 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 - susijęs iš Perekopas: Krime susikūrė Perekopo chanatas, kurio sostinės pilis buvo vadinama Perekopu.
 - susijęs iš Perekopas: Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis.
 - susijęs iš Rausvė: A. Mežinskis manė, kad Romovė galėjusi būti ir prie Rausvės.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sreterio žemėlapyje Auksinės žemupyje pažymėta Romanuppen, o prie Didlovos - Kreywutschen.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.
-    Henenbergerio žemėlapyje  ir M. Pretorijaus raštuose — Augste) žemupyje žymima
-    Romanuppen, o kiek toliau į rytus, prie Didlovos (Dittowa) — Kreywutschen (Sch-K VII).
-    XIX a. tose vietose V. Kalvaitis užfiksavo Romovupės upę ir Romovupių gyvenvietę bei
-    kaimą Kriwuczei, Kreywuczei (Kalwaitis W., Lietuwiszku..., p. 41, 54, 70). Vad., čia, prie
-    Auksinės upės, yra vienintelė Nadruvoje mums žinoma vieta, kurioje matome Kriv- ir
-    Rom- kompleksą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Auksinės apylinkės siejamos su pagonišku kultu, remiantis vietovardžiais Juodkapis, Sernupė ir galbūt Auksinės upės vardu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Minėti faktai sietų apylinkes prie Auksinės su pagonišku kultu. Tai rodytų ir Auksinės
-    deš. intakas Juodkapis (į pietryčius nuo aptariamo regiono), Sernupė (šiaurės rytuose,
-    Priegliaus kair. intakas; šernas — daugelio Vidurio ir Centrinės Europos tautų totemas
-    religinių vaizdinių formavimosi ankstyvojoje stadijoje, vakarų baltų mitinės pasaulėžiūros
-    gyvūnas), galbūt ir Auksinės upės vardas.
-       Taigi su pagonišku kultu sietųsi buv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-59149
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 65"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.
     Henenbergerio žemėlapyje  ir M. Pretorijaus raštuose — Augste) žemupyje žymima
@@ -143,15 +103,14 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 - id: c-59150
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Minėti faktai sietų apylinkes prie Auksinės su pagonišku kultu. Tai rodytų ir Auksinės
     deš. intakas Juodkapis (į pietryčius nuo aptariamo regiono), Sernupė (šiaurės rytuose,
     Priegliaus kair. intakas; šernas — daugelio Vidurio ir Centrinės Europos tautų totemas
     religinių vaizdinių formavimosi ankstyvojoje stadijoje, vakarų baltų mitinės pasaulėžiūros
     gyvūnas), galbūt ir Auksinės upės vardas.
-       Taigi su pagonišku kultu sietųsi buv.
+    Taigi su pagonišku kultu sietųsi buv.
   citata_rodoma: "Minėti faktai sietų apylinkes prie Auksinės su pagonišku kultu. Tai rodytų ir Auksinės\ndeš. intakas Juodkapis (į pietryčius nuo aptariamo regiono), Sernupė (šiaurės rytuose,\nPriegliaus kair. intakas; šernas — daugelio Vidurio ir Centrinės Europos tautų totemas\nreliginių vaizdinių formavimosi ankstyvojoje stadijoje, vakarų baltų mitinės pasaulėžiūros\ngyvūnas), galbūt ir Auksinės upės vardas."
   statusas: verified
   teiginio_tipas: faktas

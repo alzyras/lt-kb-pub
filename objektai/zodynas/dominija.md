@@ -42,47 +42,6 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
   teiginys: "Dokumente numatyta, kad po Vytauto mirties Didžioji Lietuvos Kunigaikštystė ir jos dominijos turi tekti Jogailai ir Lenkijai."
   pagrindžia:
     - c-157355
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kitoj doku­
-    mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun.
-    (principatus supremus terre Littwanie), ir visos jos dominijos
-    turi tekti Jogailai ir Lenkijai. Gi visi turtai, žemės, kunigaikš­
-    tijos ir visos Lietuvos dominijos, ką Vytautas valdo kaip tėviš­
-    kę, irgi turi tekti Jogailai, jo įpėdiniams, karūnai ir lenkų kara­
-    lystei (debent reverti, adiungxi plenarie et redire). Iš to punk­
-    to išskirtos tos žemės ir turtai, kurie paliekami Zigmantui ir
-    jo žmonai, kas jai buvo užrašyta kraičiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    karalystę ir jos gyventojus, atnaujina ir patvirtina savo anksčiau
-    duotą dokumentą^1 ), ir pasižada su dideliu tikėjimu, neveidmai­
-    niaudamas, pagal to dokumento turinį, jų laikytis. Kitoj doku­
-    mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun.
-    (principatus supremus terre Littwanie), ir visos jos dominijos
-    turi tekti Jogailai ir Lenkijai. Gi visi turtai, žemės, kunigaikš­
-    tijos ir visos Lietuvos dominijos, ką Vytautas valdo kaip tėviš­
-    kę, irgi turi tekti Jogailai, jo įpėdiniams, karūnai ir lenkų kara­
-    lystei (debent reverti, adiungxi plenarie et redire).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

@@ -43,27 +43,6 @@ media_all_json: |-
   teiginys: "1991 m. gegužės 19 d. Šalčininkų rajone, Krakūnų pasienio poste žuvo pirmasis Lietuvos pasienietis Gintaras Žagunis."
   pagrindžia:
     - c-176467
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1991 m. gegužės 19 d. Šalčininkų rajone, Krakūnų pasienio poste žuvo pirmasis Lietuvos pasienietis Gintaras Žagunis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Siekdama tarptau-
-    tinio pripažinimo atsikūrusi Lietuvos valstybė
-    turėjo kuo greičiau pradėti kontroliuoti valsty-
-    bės sienas. Neseniai įkurti ir menkai ginkluoti
-    sienų kontrolės postai tapo lengvais sovietų
-    taikiniais. 1991 m. gegužės 19 d. Šalčininkų
-    rajone, Krakūnų pasienio poste žuvo pirmasis
-    Lietuvos pasienietis Gintaras Žagunis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

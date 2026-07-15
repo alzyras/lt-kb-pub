@@ -63,50 +63,7 @@ Nenurodyta
   teiginys: "Nuo Astravo taikos metų Vytautas ir Jogaila, savo tėvų pavyzdžiu, per 36 metus bendrai veikė (iki Lucko suvažiavimo 1429)."
   pagrindžia:
     - c-28833
-
-<a id="claim-t-184349"></a>
-- t-002
-  global_id: t-184349
-  teiginys: "Nuo Astravo taikos metų Vytautas ir Jogaila, savo tėvų pavyzdžiu, per 36 metus bendrai veikė (iki Lucko suvažiavimo 1429)."
-  pagrindžia:
     - c-167719
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nuo Astravo taikos metų Vytautas
-    ir Jogaila, savo tėvų pavyzdžiu, per 36 metus bendrai veikė (iki
-    Lucko suvažiavimo 1429). Jiedu išvien stojo prieš ordiną karo
-    lauke, kartu skundė jį Konstancos susirinkimui, drauge krikštijo
-    Žemaičius.
-    Per 15 metų po Algirdo mirties, ypač vidaus kovų dešimtme­
-    tyje (1382-92), Lietuvoje buvo įvykę žymių pasikeitimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Nuo Astravo taikos metų Vytautas ir Jogaila, savo tėvų pavyzdžiu, per 36 metus bendrai veikė (iki Lucko suvažiavimo 1429).'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1382 metų pabėgėlis iš kalėjimo išsikovojo ne tiktai savo tėviš­
-    kę, bet ir visą Kunigaikšiją. Nuo Astravo taikos metų Vytautas
-    ir Jogaila, savo tėvų pavyzdžiu, per 36 metus bendrai veikė (iki
-    Lucko suvažiavimo 1429). Jiedu išvien stojo prieš ordiną karo
-    lauke, kartu skundė jį Konstancos susirinkimui, drauge krikštijo
-    Žemaičius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -144,5 +101,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184349

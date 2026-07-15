@@ -42,30 +42,13 @@ Dusburgietis teigia, kad varakauskas R.
   teiginys: "R. Varakausko straipsnis apie 1279 m. kautynes ties Ašerade paskelbtas 1963 m. leidinyje „Istorija“ 4 tome."
   pagrindžia:
     - c-61977
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'R. Varakausko straipsnis apie 1279 m. kautynes ties Ašerade paskelbtas 1963 m. leidinyje „Istorija“ 4 tome.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Varakauskas R. Kautynės ties Ašerade (1279 m.): Iš lietuvių kovų prieš Livonijos
-    ordiną XIII a.— Lietuvos TSR aukštųjų mokyklų mokslo darbai. Istorija, V., 1963, 4, p.
-    123—134.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61977
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Varakauskas R. Kautynės ties Ašerade (1279 m.): Iš lietuvių kovų prieš Livonijos
     ordiną XIII a.— Lietuvos TSR aukštųjų mokyklų mokslo darbai. Istorija, V., 1963, 4, p.

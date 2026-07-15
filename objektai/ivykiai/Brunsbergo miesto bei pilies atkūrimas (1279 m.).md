@@ -7,12 +7,12 @@ datos:
   - '1279 m.'
 date_start: '1279'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,8 +57,8 @@ Nenurodyta
   pagrindžia:
     - c-63549
     - c-63550
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur jie tebestovėjo Dusburgiečio laikais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -76,36 +76,20 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: '1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur jie tebestovėjo Dusburgiečio laikais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Išgirdę, kad pilis ir miestas
-    sudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,
-    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar
-    tebestovi415. Vos atvykęs  po konsekracijos  į savo vyskupystę, šis vyskupas gavo per
-    metus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-63549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Jiems atsitraukiant, atskubėjo priešpriešiais 60
-    krikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas
-    sudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,
-    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar
-    tebestovi415.
+    Šis regėjimas taip juos nugąsdino, taip
+    palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
+    142 (137). Apie vienos pilaitės užkariavimą
+    Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
+    užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
+    įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
+    Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
   citata_rodoma: "Jiems atsitraukiant, atskubėjo priešpriešiais 60\nkrikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas\nsudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,\n1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar\ntebestovi415."
   statusas: verified
   teiginio_tipas: faktas
@@ -117,13 +101,12 @@ Nenurodyta
 - id: c-63550
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Išgirdę, kad pilis ir miestas
     sudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,
-    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar
-    tebestovi415. Vos atvykęs  po konsekracijos  į savo vyskupystę, šis vyskupas gavo per
+    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur ji ir dabar
+    tebestovi415. Vos atvykęs  po konsekracijos į savo vyskupystę, šis vyskupas gavo per
     metus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas.
   citata_rodoma: "Išgirdę, kad pilis ir miestas\nsudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,\n1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar\ntebestovi415. Vos atvykęs  po konsekracijos  į savo vyskupystę, šis vyskupas gavo per\nmetus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas."
   statusas: verified

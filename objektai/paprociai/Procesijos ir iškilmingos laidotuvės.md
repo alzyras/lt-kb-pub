@@ -62,48 +62,6 @@ Nenurodyta
   teiginys: "Miestuose, ypač Vilniuje, per procesijas ir iškilmingas laidotuves dažnai kildavo katalikų ir protestantų rietenos bei muštynės."
   pagrindžia:
     - c-67200
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Miestuose, ypač Vilniuje, per procesijas ir iškilmingas laidotuves dažnai kildavo katalikų ir protestantų rietenos bei muštynės.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Miestuose, ypač Vil-
-    niuje, kur mišrai gyveno katali-
-    kai su protestantais, kildavo vi-
-    sokių nesusipratimų ir muš-
-    tynių. Dažniausiai muštynių atsitikdavo švenčių metu, per
-    procesijas, kada ypatingai vieni kitus gebėdavo įžeisti. Taip
-    pat nemaža rietenų ir muštynių būdavo ir per iškilmingas lai-
-    dotuves.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Jėzuitai visuomenę į bažnyčią traukė iškilmingomis pamaldomis, procesijomis ir kitomis iškilmėmis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai protestantai pradėjo vengti disputų,
-    jie tokiuos disputus rengdavo vieni; vienas jų narys stodavo
-    ginti protestantizmo, išdėstydamas protestantų argumentus, o
-    kitas, ginąs katalikybę, sugriaudavo tuos argumentus. Be to,
-    jie stengėsi patraukti visuomenę į bažnyčią gražiomis iškilmin-
-    gomis pamaldomis, visokiomis procesijomis ir iškilmėmis. Pa-
-    mažu jėzuitai įgavo visuomenės simpatijų: jų mokyklos buvo
-    pilnos mokinių, jie patys tapo įtakingiausiųjų didikų kapelionais
-    ir artimaisiais jų patarėjais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

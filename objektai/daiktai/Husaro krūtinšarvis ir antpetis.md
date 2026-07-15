@@ -54,21 +54,6 @@ Nenurodyta
   teiginys: "XVII a. husaro krūtinšarvis ir antpetis priklausė Abiejų Tautų Respublikos karybos aplinkai."
   pagrindžia:
     - c-41056
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 120, xvII a. Husaro krūtinšarvis ir antpetis. Abiejų Tautų Respublika, vDKM,
-
-    Artūro Užgalio nuotr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

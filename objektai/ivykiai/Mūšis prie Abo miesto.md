@@ -8,13 +8,13 @@ datos:
   - '1809 m.'
 date_start: '1808'
 date_end: '1809'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - ivykis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -69,8 +69,8 @@ Nenurodyta
   teiginys: "Mūšyje prie Abo miesto Teodoras Narbutas buvo kontūzytas per 1808–1809 m. Rusijos ir Švedijos karą."
   pagrindžia:
     - c-170758
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -103,21 +103,23 @@ Nenurodyta
 - id: c-170758
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    T. Nar­
-    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
-    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
-    siliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu
-    T. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­
-    nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo
-    prancūzų administracijoje.
+    Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
+    kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
+    mitologiją. Vilniuje buvo rengiamas spaudai XVI a. kroniki­
+    ninko Motiejaus Strijkovskio veikalas. Vilniaus universiteto
+    auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
+    Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
+    Vilhelmo Gizo, Johano Miulerio - darbus.
   citata_rodoma: "T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.\nMūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­\nsiliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu\nT. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­\nnys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo\nprancūzų administracijoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187808
     - t-187807
+    - t-187808

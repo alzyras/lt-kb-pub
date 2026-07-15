@@ -69,48 +69,6 @@ Nenurodyta
   teiginys: "Rusija suorganizavo reformų priešininkų Targovicos konfederaciją ir parėmė ją savo kariuomene."
   pagrindžia:
     - c-67019
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tačiau
-    1791 m. pabaigoje, pasibaigus karui su Tur-
-    kija, o dar anksčiau su Švedija, Rusija vėl
-    sutelkė dėmesį į ATR. Jakaterina II pasinau-
-    dojusi tuo, kad Lenkijoje ir Lietuvoje buvo
-    nemažai valstybės reformų priešininkų,
-    ėmė juos globoti, o netrukus su Rusijos pa-
-    galba suorganizuota reformoms priešiška
-    Targovicos konfederacija, reikalavusi at-
-    šaukti visus Ketverių metų seimo priimtus
-    įstatymus. Pati Jakaterina II gegužės 18 d.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Priimtoje konsti-
-    tucijoje buvo pasakyta, kad ji galėsianti būti pataisyta tik po 25
-    metų tam reikalui sušaukto specialaus seimo. Bet reformuoja-
-    masis seimas dar nespėjo baigti savo darbo, kai Rusija suor-
-    ganizavo reformų priešų konfederaciją ir, davusi jai savo ka-
-    riuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa-
-    skelbimo vietos yra vadinama Targovicos konfederacija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

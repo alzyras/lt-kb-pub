@@ -38,9 +38,9 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 
 ## Teiginiai
 
-<a id="claim-t-177103"></a>
+<a id="claim-t-177099"></a>
 - t-001
-  global_id: t-177103
+  global_id: t-177099
   teiginys: "1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių."
   pagrindžia:
     - c-161005
@@ -59,15 +59,8 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   pagrindžia:
     - c-161004
 
-<a id="claim-t-177103"></a>
-- t-004
-  global_id: t-177103
-  teiginys: "1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių."
-  pagrindžia:
-    - c-161005
-
 <a id="claim-t-177104"></a>
-- t-005
+- t-004
   global_id: t-177104
   teiginys: "Adamkavičiaus vadovaujama 1-oji divizija spalio 29-31 d. sėkmingai kontraatakavo ir išvadavo Giedraičius."
   pagrindžia:
@@ -103,102 +96,6 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 - susijęs iš Šešuolė: Giedraičius gynęs 2-asis pulkas atsitraukė į Šešuolės ir Virintos upių liniją.
 - susijęs iš Švenčionėliai: Frontas nusistovėjo Kernavės, Musninkų, Širvintų, Giedraičių, Dubingių ir Švenčionėlių linijoje.
 - susijęs iš [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire.md#claim-t-101571|buferinė valstybė saugumo kordonas cordon sanitaire]]: Sąjungininkai Lietuvą įsivaizdavo kaip buferinę valstybę ir saugumo kordono nuo bolševizmo dalį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    LIETUVOS
-    RESPUBLIKA
-
-    Kautynių priešistorė
-
-    1920 m. spalio 9 d. želigovskininkai užė-
-    mė Vilnių ir ėmė veržtis toliau į Lietuvos
-    teritoriją. Viena svarbiausių lenkų puo-
-    limo krypčių buvo Ukmergės link pro
-    Giedraičius su galutiniu tikslu pulti Kauną
-    iš šiaurės rytų. Lietuvių pajėgos negalėjo
-    atsilaikyti prieš gausių lenkų pajėgų puo-
-    lima.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
-    Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
-    želigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos
-    kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie
-    Širvintų ir Giedraičių.
-    Lietuvių artilerija prieš lenkų dalinius
-    1920 m. kovose prie Giedraičių
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    145
-    Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
-    tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
-    vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvių pajėgos negalėjo
-    atsilaikyti prieš gausių lenkų pajėgų puo-
-    lima. Spalio 26-27 d. lenkai apėjo kai-
-
-    rįjį lietuvių sparną ir užėmė Giedraičius,
-    Želvą, Dubingius, Vidiškį. Susidarė pavo-
-    jinga padėtis, lenkams pasiekus savo puo-
-    limo tikslą, Lietuvai būtų iškilęs pavojus
-    prarasti nepriklausomybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šis ženklas atspindėjo siekį
-    atkurti didžiąją Lenkiją
-    inkorporuojant į ją visą
-    Lietuvos teritoriją
-
-    jau E. Adamkavičiaus vado-
-    vaujama 1-oji divizija spalio
-    29-31 d. sėkmingai kontraat-
-    akavo ir išvadavo Giedraičius.
-    Želigovskio ketinimas greitai pa-
-    siekti pergalę buvo sužlugdytas.
-    Frontas nusistovėjo Kernavės-
-    Musninkų-Širvintų- Giedraičių
-    Dubingių-Švenčionėlių linijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-161004
@@ -251,7 +148,6 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177103
     - t-177099
 
 - id: c-161006

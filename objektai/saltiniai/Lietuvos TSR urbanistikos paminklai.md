@@ -40,28 +40,13 @@ Dusburgietis teigia, kad lietuvos TSR urbanistikos paminklai.— Kn.
   teiginys: "Ketvirtoji „Lietuvos TSR urbanistikos paminklų“ knyga, parengta A. Miškinio ir A. Tylos, išleista Vilniuje 1981 m."
   pagrindžia:
     - c-61778
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ketvirtoji „Lietuvos TSR urbanistikos paminklų“ knyga, parengta A. Miškinio ir A. Tylos, išleista Vilniuje 1981 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvos TSR urbanistikos paminklai.— Kn. 4 / A. Miškinis, A. Tyla.—V, 1981.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61778
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lietuvos TSR urbanistikos paminklai.— Kn. 4 / A. Miškinis, A. Tyla.—V, 1981.
   statusas: verified

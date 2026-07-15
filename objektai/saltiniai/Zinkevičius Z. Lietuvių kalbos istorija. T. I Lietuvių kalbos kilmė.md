@@ -7,12 +7,12 @@ datos:
   - '1984 m.'
 date_start: '1984'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad zinkevičius Z.
   teiginys: "Z. Zinkevičiaus „Lietuvių kalbos istorijos“ pirmasis tomas „Lietuvių kalbos kilmė“ išleistas Vilniuje 1984 m."
   pagrindžia:
     - c-62018
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Z. Zinkevičiaus „Lietuvių kalbos istorijos“ pirmasis tomas „Lietuvių kalbos kilmė“ išleistas Vilniuje 1984 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,12 @@ Dusburgietis teigia, kad zinkevičius Z.
 - id: c-62018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 274"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Zinkevičius Z. Lietuvių kalbos istorija. T. I: Lietuvių kalbos kilmė.—V., 1984.
+    — Питания гiдронiмiки, Киiв, 1971, с. 131—137.
+    Седов В. В. Этногеография Восточной Европы середины I тысячелетия и. э. по
+    данным археологии и Иордана.
+  citata_rodoma: "Zinkevičius Z. Lietuvių kalbos istorija. T. I: Lietuvių kalbos kilmė.—V., 1984."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

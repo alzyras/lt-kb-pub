@@ -42,44 +42,6 @@ Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo d
   teiginys: "Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo demonopolizacija, padidėjo efektyvumas ir prekių bei paslaugų pasiūla."
   pagrindžia:
     - c-166802
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Narystė ES apribojo Lietuvos vyriausybės galimybes tiesiogiai
-    ir netiesiogiai kištis į ūkio funkcionavimą ir suteikė daugiau laisvių ir ga-
-    limybių Lietuvos įmonėms bei vartotojams. Kita vertus, privalomas ES
-    sprendimų vykdymas kartais sukelia diskusijų dėl tautos suvereniteto su-
-    varžymo. Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos,
-    prasidėjo demonopolizacija, padidėjo efektyvumas, prekių ir paslaugų
-    pasiūla, atsirado naujų galimybių plėtoti švietimą, kultūrą, spręsti sociali-
-    nes problemas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo demonopolizacija, padidėjo efektyvumas ir prekių bei paslaugų pasiūla.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kita vertus, privalomas ES
-    sprendimų vykdymas kartais sukelia diskusijų dėl tautos suvereniteto su-
-    varžymo. Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos,
-    prasidėjo demonopolizacija, padidėjo efektyvumas, prekių ir paslaugų
-    pasiūla, atsirado naujų galimybių plėtoti švietimą, kultūrą, spręsti sociali-
-    nes problemas. Šiuo atveju didžiausią naudą gauna vartotojai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

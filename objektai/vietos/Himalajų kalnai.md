@@ -35,8 +35,8 @@ Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kult
   teiginys: "Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kultas kilo iš prie jų gyvenusios tautos."
   pagrindžia:
     - c-171893
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kultas kilo iš prie jų gyvenusios tautos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -65,20 +65,21 @@ Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kult
 - id: c-171893
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 184"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Be jo­
-    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
-    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
-    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
-    no, gyveno ši tauta, garbinusi dangaus kūnus .
-    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
-    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
-    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
-    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
-    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
-    pagrindą ištisai sudaro indų padavimai.
+    Saulės rūmai buvo rytuose, kur buvo šventa ir palaiminta
+    šalis, lietuvių protėvių tėvynė - rytų šalis (Aušinimą zemme).
+    Iš šių rūmų tekanti Saulė išvažiuodavo nuostabiu vežimu, ku­
+    ris švietė skaisčiau už devynias galybes liepsnojančių deglų.
+    Vežimą traukė trejetas arklių - sidabrinis, auksinis ir deiman­
+    tinis. Didingai riedėdama savo keliu, apžvelgusi visą pasaulį,
+    kuris, lietuvių supratimu, buvęs ne apvalus, o plokščias ir ova­
+    lus, kaip lėkštė, priartėdavo prie jūros, nugrimzdavo joje nusi­
+    maudyti ir vykdavo į savo rūmus nakties poilsio.
+    Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
+    jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
+    Saulė aptemdavo.
+  citata_rodoma: "Be jo­\nkios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­\ndžiai Siaurės Europoje buvo samojedai: juk žinome, kad dar\nXVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­\nno, gyveno ši tauta, garbinusi dangaus kūnus .\nTegu mitologai sako ką nori apie senovės egiptiečių religi­\nją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,\nyra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­\nlio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.\nTaip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,\npagrindą ištisai sudaro indų padavimai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

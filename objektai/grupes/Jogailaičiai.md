@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
 datos:
   - '1514 m.'
   - '1515 m.'
@@ -74,9 +75,17 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau."
   pagrindžia:
     - c-176217
+
+<a id="claim-t-200755"></a>
+- t-006
+  global_id: t-200755
+  teiginys: "Vorobjovas paskutiniųjų Jogailaičių ryšius su Margarita Austrijiete Savojiete siejo su galimu Šv. Onos bažnyčios ryšiu su vėlyvąja Flandrijos gotika."
+  pagrindžia:
+    - c-184100
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184415|Kazimieras Didysis]]: Kazimieras Didysis buvo paskutinysis Piastas, miręs 1370 m. prieš Jogailaičių epochos pradžią.
+- susijęs iš [[objektai/asmenys/Margarita Austrijietė Savojietė.md#claim-t-200870|Margarita Austrijietė Savojietė]]: Margaritos Austrijietės Savojietės giminystė su paskutiniaisiais Jogailaičiais galėjo sietis su Niderlandų įtaka Šv. Onos bažnyčios fasadui.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
 - susijęs iš [[objektai/autoriai/Jonas Kantas Boreiša.md#claim-t-190431|Jonas Kantas Boreiša]]: Narbutas nurodo, kad Jono Kanto Boreišos 1689 m. lotyniškame pamoksle rado iš esmės tą pačią Jogailaičių genealogiją.
@@ -89,7 +98,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101620|„jogailaičių Europa“ „krikščionybės forpostas“]]: XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“.
 - susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-183493|„jogailaičių Europa“ „krikščionybės forpostas“]]: Jogailaičių dinastija Lenkijos ir Lietuvos sostuose valdė iki 1572 m., o XV a. pabaigoje–XVI a. pradžioje užėmė ir Čekijos bei Vengrijos sostus.
 - susijęs iš [[objektai/asmenys/Bronislovas Komorovskis.md#claim-t-17466|Bronislovas Komorovskis]]: Bronislovo Komorovskio tėvo šaknys buvo Lietuvoje, jo dvare Rokiškio apskrityje.
-- susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185988|Jonušas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Jonušas, siekdamas sosto, atvyko į Piotrkovą su tūkstantine raitelių palyda.
 - susijęs iš [[objektai/asmenys/Solikovskis.md#claim-t-87856|Solikovskis]]: Solikovskis buvo Lvovo, o ne Vilniaus arkivyskupas, ir 1501 metais dar nebuvo gimęs.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113976|Steponas Batoras]]: Vilniaus miestiečių luomas Steponą Batorą laikė stipriu globėju, kokiu vėliau netapo nė vienas karalius.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113978|Steponas Batoras]]: Steponas Batoras stipriai palaikė miestiečių luomą ir buvo laikomas globėju, kokiu netapo vėlesni karaliai.
@@ -104,103 +112,10 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - susijęs iš Lietuva: Čekijai pasitraukus iš Jogailaičių dinastinės sistemos, joje liko Lenkija ir Lietuva.
 - susijęs iš Maskva: Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.
 - susijęs iš Mohačas: Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.
-- susijęs iš Piotrkovas: Mazovijos kunigaikštis Jonušas, siekdamas sosto, dėl nuomonių įvairovės vyko į Piotrkovą.
+- susijęs iš Niderlandai (vieta): Vorobjovas svarstė, kad šv. Onos bažnyčios sąryšiui su Flandrijos gotika galėjo turėti reikšmės Jogailaičių ryšiai su Niderlandais.
 - susijęs iš Rokiškio apskritis: Bronislovo Komorovskio tėvo šaknys Lietuvoje siejamos su jo dvaru Rokiškio apskrityje.
 - susijęs iš Vengrija: 1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.
 - susijęs iš [[objektai/zodynas/miestiečių luomas.md#claim-t-86439|miestiečių luomas]]: Du paskutiniai Jogailaičiai miestiečių luomą paaukštino iki tikrųjų piliečių, o karalius Steponas jį stipriai palaikė.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys siejami su žinomiausiomis Europos monarchijomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pabaiga arba išbarstyti
-    Lietuvos veidai
-    D
-    aug ko Lietuva negalėjo sureikšminti pasauliui XIX–
-    XX a. Okupacijos ir aneksijos, tremtys, genocidai ir
-    Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-
-    kusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,
-    JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
-    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
-    monarchijoms ir nuo to mes jaučiamės smagiau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  santrauka: 'Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IV KNYGA
-    didžponiai, nors jų norą keltis į puikybę ir visur vadovauti
-    karalius prilaikydavo už vadžių. Bet jau tokia būna geni­
-    jaus įtaka menkesniems protams, kad dažnai net nenoro­
-    mis lenkiasi jo narsumui, pakerėti pranašumo bei žavesio,
-    garbina ir vykdo didvyrio sumanymus, kurių iš paprasto
-    žmogaus nenorėtų nei girdėti, nei žinoti. Miestiečių luomas,
-    dviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­
-    liečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­
-    menyje neteko tokio globėjo, kokiu paskui netapo nė vienas
-    iš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­
-    gaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje,
-    panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
-    dar ir naujų, amžiui priderančių, laisvių dalyviu72.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-003
-  santrauka: '1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    To suartė-
-    jimo ryškiausia manifestacija buvo 1515 m.
-    suvažiavimas Vienoje. Nors Habsburgai
-    dinastinėje kovoje su Jogailaičiais dėl įtakos
-    Čekijoje ir Vengrijoje turėjo neabejotinai
-    daugiau naudos, bet nustojo remti amžinus
-    Lietuvos ir Lenkijos priešus - Vokiečių or-
-    diną ir Maskvą.
-
-    1514 m. rugsėjo 8 d. ORŠOS MŪŠIS 85
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Okupacijos ir aneksijos, tremtys, genocidai ir
-    Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-
-    kusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,
-    JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
-    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
-    monarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių
-    šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-
-    ninkų, audėjų, auklių, inžinierių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-22426
@@ -251,8 +166,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110663
     - t-110662
+    - t-110663
 
 - id: c-102463
   sudarytojas: "Karolis Zikaras"
@@ -296,6 +211,25 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193537
+
+- id: c-184100
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 23"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 23."
+  citata_originali: |
+    Tiesa, kaip parodė naujausieji
+    tyrinėjimai, labai yra galimas šv. Onos sąryšis su Prancūzijos, o ypač Flan­
+    drijos vėlybąja gotika, kur to stiliaus klestėta iki pat XVII amžiaus. Galėjo
+    turėti reikšmės ir paskutiniųjų Jogailaičių susigiminiavimas su Niderlandų
+    vietininke, Margarita Austrijiete Savojiete, ir gyvi abiejų dvarų tarpusavio
+    santykiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200755
 
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Motiejus Huniadis]]

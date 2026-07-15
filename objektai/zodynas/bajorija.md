@@ -36,24 +36,12 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
   teiginys: "Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių vadai—rikiai—tapo aukštesniuoju visuomenės sluoksniu, arba bajorija."
   pagrindžia:
     - c-176018
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių vadai—rikiai—tapo aukštesniuoju visuomenės sluoksniu, arba bajorija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Visuomenės sluoksniai.** Iškilus didesnių sričių valdovams
-    —kunigaikščiams, senieji apylinkių vadai—rikiai—tapo aukštes-
-    niuoju visuomenės sluoksniu, arba bajorija. Be jų, buvo
-    dar kitų, žemesnių sluoksnių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
+- susijęs iš [[objektai/asmenys/Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.).md#claim-t-200582|Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)]]: Amžininkai pastebėjo, kad Jonas Dominykas Lopacinskis sumaniai laviravo tarp konkuruojančių bajorijos grupuočių ir turėjo platų pažinčių ratą.
+- susijęs iš [[objektai/paprociai/Gėrimas iš vienos taurės.md#claim-t-200735|Gėrimas iš vienos taurės]]: Rimvydas Laužikas mano, kad XVI–XVII a. Lietuvoje gėrimas iš vienos taurės galėjo plisti kopijuojant lenkų bajorus kaip sarmatizmo madą.
+- susijęs iš [[objektai/asmenys/Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.).md#claim-t-200584|Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)]]: Laiškuose Jonas Dominykas Lopacinskis vaizduojamas kaip paslaugus, smalsus ir konkretus žmogus.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200630|seimelis]]: Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200664|seimelis]]: Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200666|seimelis]]: Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.
 ## Citatos
 
 - id: c-176018

@@ -41,24 +41,6 @@ Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė 
   teiginys: "1941 m. gruodį naciai uždarė iš voldemarininkų susidariusią Lietuvių nacionalistų partiją."
   pagrindžia:
     - c-22537
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vyriausybės pir-
-    mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
-    veikimą sustabdytu prieš savo valią“. Daugumai ministrų atsisakius tapti
-    tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
-    sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
-    baigėsi legalių lietuvių organizacijų veikla.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

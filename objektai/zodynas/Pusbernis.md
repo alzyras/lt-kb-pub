@@ -75,40 +75,12 @@ Vartojamas asmens socialinei padėčiai nusakyti.
 - susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195358|Šienapiūtė]]: Per šienapiūtę vyrai savaitei išeina į pievas, ten gyvena ir verda valgį, o mergaitės atveža pusryčius bei pietus.
 - susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195360|Šienapiūtė]]: Šienapiūtėje mergaitės grėbia, džiovina ir krauna šieną, vakare arkliai laikomi prie ugnies, o rytą su šienu siunčiamos namo.
 - susijęs iš [[objektai/posakiai/Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad tu terboje duonos turėtum, bus tau geriau, negu pinigai.md#claim-t-195427|Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad tu terboje duonos turėtum, bus tau geriau, negu pinigai]]: Šeimininkas linki, kad gegutė užkukuotų su duona, nes ji geresnė už pinigus.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pamatyti tą figūrėlę galima mano lietuviškų daiktų muziejuje.
-    1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
-    Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu
-    aprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dva­
-    re, priklausančiame grafienei Choueseul, tą dievuką gavau iš
-    kun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas
-    kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko
-    aplankyti savo brolį. Tuo metu Burokų dvare, priklausančiame
-    J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo
-    Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė
-    tą
-    figūrą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-175129
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 491"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pamatyti tą figūrėlę galima mano lietuviškų daiktų muziejuje.
     1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
@@ -130,4 +102,3 @@ Vartojamas asmens socialinei padėčiai nusakyti.
   pagrindzia:
     - t-192328
     - t-192569
-    - t-003

@@ -44,19 +44,6 @@ KAr = Karo Archyvas, Vyriausiojo Kariuomenės Štabo Karo Mokslo skyriaus leidin
   teiginys: "1925 m. Kaune išleisto „Karo archyvo“ 11 tome buvo paskelbtas tekstas „Sukilėlių pulkai“."
   pagrindžia:
     - c-39238
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pp. 159, „SUKILĖLIŲ PULKAI“, Karo archyvas 11, Kaunas, 1925, p. 60-61.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -65,6 +65,7 @@ Nenurodyta
   teiginys: "Vėžiavimas buvo moterų žvejybos būdas, kai į Šešupę eidavusios moterys parnešdavo terbą vėžių."
   pagrindžia:
     - c-177767
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

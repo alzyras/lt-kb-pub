@@ -44,22 +44,6 @@ Kryczyński, St.: Tatarzy litewscy.
   teiginys: "St. Kryczyński 1938 m. Varšuvoje paskelbė istorinę-etnografinę monografiją „Tatarzy litewscy“."
   pagrindžia:
     - c-29151
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Kryczyński, St.: _Tatarzy litewscy.
-    Próba monografii historyczno-etnograficznej,_ Rocznik Tatarski, III,
-    Warszawa 1938. — Kuczyński, S. M. : _Antymoskiewska inicjatywa
-    Litwy w drugiej połowie XIV wieku,_ Warszawa 1936.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

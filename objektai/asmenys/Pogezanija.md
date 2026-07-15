@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė savo pranašystes ir sprendimus.
+Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė savo pranašystes ir sprendimus. Be to, ir kitose vietose turėjo būti įtvirtinimų, skirtų krašto gynybai ir turtingesnių valdžiai stiprinti, bet jų pėdsakai visiškai išnyko; net nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė savo pranašystes ir sprendimus.
 
 ## Teiginiai
 
@@ -34,21 +34,27 @@ Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė s
   teiginys: "Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė savo pranašystes ir sprendimus."
   pagrindžia:
     - c-174190
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197803"></a>
+- t-002
+  global_id: t-197803
+  teiginys: "Be to, ir kitose vietose turėjo būti įtvirtinimų, skirtų krašto gynybai ir turtingesnių valdžiai stiprinti, bet jų pėdsakai visiškai išnyko; net nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė savo pranašystes ir sprendimus."
+  pagrindžia:
+    - c-174190
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė savo pranašystes ir sprendimus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Pietuose į viršų kilo Vek-
+    Senovinė Kiedinių tvirtovė, kur
+    vėliau įsikūrė vienuolynas, kita stovėjo tarp Tolkmito ir
+    Frauenburgo, ant Tolko kalno. Pietuose į viršų kilo Vek-
     lico tvirtovė, viena garsiausių Pagudėje. Be to, ir kitose
     vietose turėjo būti įtvirtinimų, skirtų krašto gynybai ir
     turtingesnių valdžiai stiprinti, bet jų pėdsakai visiškai
     išnyko; net nežinoma, kur mitinė kunigaikštytė Pogeza-
     nija skelbė savo pranašystes ir sprendimus.
-    Varmija
-    Ketvirta provincija — Varmija, taip vadinama nuo
-    senų laikų.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -56,16 +62,18 @@ Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-174190
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 358"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 358."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pietuose į viršų kilo Vek-
+    Senovinė Kiedinių tvirtovė, kur
+    vėliau įsikūrė vienuolynas, kita stovėjo tarp Tolkmito ir
+    Frauenburgo, ant Tolko kalno. Pietuose į viršų kilo Vek-
     lico tvirtovė, viena garsiausių Pagudėje. Be to, ir kitose
     vietose turėjo būti įtvirtinimų, skirtų krašto gynybai ir
     turtingesnių valdžiai stiprinti, bet jų pėdsakai visiškai
@@ -74,9 +82,11 @@ Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė s
     Varmija
     Ketvirta provincija — Varmija, taip vadinama nuo
     senų laikų.
+  citata_rodoma: "Senovinė Kiedinių tvirtovė, kur \nvėliau įsikūrė vienuolynas, kita stovėjo tarp Tolkmito ir \nFrauenburgo, ant Tolko kalno. Pietuose į viršų kilo Vek- \nlico tvirtovė, viena garsiausių Pagudėje. Be to, ir kitose \nvietose turėjo būti įtvirtinimų, skirtų krašto gynybai ir \nturtingesnių valdžiai stiprinti, bet jų pėdsakai visiškai \nišnyko; net nežinoma, kur mitinė kunigaikštytė Pogeza- \nnija skelbė savo pranašystes ir sprendimus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191308
+    - t-197803

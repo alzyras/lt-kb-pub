@@ -55,27 +55,6 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 - susijęs iš Kauno pilis (pilis): Šležas rašė apie Kauno pilies išgriovimą 1362 m.
 - susijęs iš Uturiai: Uturiai buvo prie Betygalos.
 - susijęs iš [[objektai/asmenys/Survila.md#claim-t-82732|Survila]]: Survila 1365 m. liepos 25 d. kartu su Butautu pabėgo į Karaliaučių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Butautas, kuriam šaltiniai duoda įvai­
-    rius vardus ir kartais vadina Vaidotu, kuris vėliau dažnai da­
-    lyvaudavo vokiečių derybose vertėju, su savo draugu Survila
-    1365 metų liepos mėn. 25 d. išbėgo Karaliaučiun ir apsikrikštijo
-    Henriko vardu. Nuvykęs Vakarų Europon buvo Romos cieso­
-    riaus Karolio IV pakeltas imperijos kunigaikščiu ir gyveno jo dvare (1369
-    —81), paprastai vadinamas „lietuvių karaliumi Henriku”.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-88591

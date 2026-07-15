@@ -10,6 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - ordinas
   - kunigas
 amziai: []
 periodo_grupes: []
@@ -61,6 +62,13 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   teiginys: "M. Poliakuvna parašė darbą „Zanik ludności pruskiej“, paskelbtą 1958 m. Varšuvoje leidinyje „Pomorze średniowieczne“."
   pagrindžia:
     - c-65360
+
+<a id="claim-t-197005"></a>
+- t-005
+  global_id: t-197005
+  teiginys: "M. Poliakuvna buvo nuomonių, kad kronikos autorius kilęs iš pareinio Duisburgo."
+  pagrindžia:
+    - c-65361
 - susijęs iš 1230 m. rugsėjo 12 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1230 m. rugsėjo 12 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
 - susijęs iš 1232 m. sausio 23 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1232 m. sausio 23 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
 - susijęs iš 1248 m. Kristburgo sutartis: M. Poliakuvna pažymėjo, kad Dusburgietis 1248 m. Sventopelko ir Ordino Kristburgo sutartį panaudojo labai savavališkai.
@@ -68,7 +76,6 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59858|Fridrichas II]]: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
 - susijęs iš [[objektai/asmenys/Vilhelmas iš Modenos.md#claim-t-60076|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]: M. Poliakuvna atkreipė dėmesį į dokumentus, susijusius su popiežiaus pasiuntinio Vilhelmo iš Modenos veikla Prūsijoje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'M. Poliakuvna parašė straipsnį „Galindia“, paskelbtą 1964 m. Vroclave, Varšuvoje ir Krokuvoje išleistame SSS tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -110,34 +117,16 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   pagrindžia:
     - t-004
 
-- c-004
-  santrauka: 'M. Poliakuvna kėlė mintį, kad Petras Dusburgietis galėjo rašyti Marienburge.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šiuo metu žinomas dokumentas, rodantis, kad 1327 m. gruodžio
-    mėn. kunigas brolis Petras tikrai gyvenęs Karaliaučiuje63. Tyrinėtojai siejo Dusburgietį
-    iš pradžių su Ragaine, po to su Karaliaučiumi. Kelta mintis, kad jis rašęs Marienburge,
-    didžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs
-    pasirodyti Prūsijoje  ir kiek vėliau, kai Ordino sostinė buvusi perkelta  į Marienburgą
-    (1309 m.) (M. Poliakuvna).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-65358
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.
-    78—79.
+    — Monumenta Germaniae historica: Scriptores rerum
+    Germanicarum. Nova series. Tomus VIII.— Berolini, 1930, p. 1—242.
+  citata_rodoma: "Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.\n78—79."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -148,10 +137,11 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
 - id: c-65359
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    78—79.
     Pollakówna M. Kronika Piotra z Dusburga.— Wrocław— Warszawa—Kraków, 1968.
+  citata_rodoma: "Pollakówna M. Kronika Piotra z Dusburga.— Wrocław— Warszawa—Kraków, 1968."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -162,11 +152,12 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
 - id: c-65360
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pollakówna M. Zanik ludności pruskiej.— Pomorze średniowieczne/Pod red. G. Labudy,
-    Warszawa, 1958, s. 160—207.
+    Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17.
+    Tholomei Lucensis Anna les. — Monumenta Germaniae historica: Scriptores rerum
+    Germanicarum.
+  citata_rodoma: "Pollakówna M. Zanik ludności pruskiej.— Pomorze średniowieczne/Pod red. G. Labudy,\nWarszawa, 1958, s. 160—207."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -177,15 +168,16 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
 - id: c-65361
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 16"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šiuo metu žinomas dokumentas, rodantis, kad 1327 m. gruodžio
-    mėn. kunigas brolis Petras tikrai gyvenęs Karaliaučiuje63. Tyrinėtojai siejo Dusburgietį
-    iš pradžių su Ragaine, po to su Karaliaučiumi. Kelta mintis, kad jis rašęs Marienburge,
-    didžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs
-    pasirodyti Prūsijoje  ir kiek vėliau, kai Ordino sostinė buvusi perkelta  į Marienburgą
-    (1309 m.) (M. Poliakuvna).
+    Vis dėlto vertėtų manyti, kad Petras iš Dusburgo, rašydamas
+    kroniką, gyveno rytinėje Kryžiuočių valstybės dalyje, veikiausiai Karaliaučiuje, nes tik
+    kronikos papildymuose pirmą kartą ryškiau iškyla „vakarinė“ autoriaus orientacija. Todėl
+    manoma, kad autorius persikėlė arčiau didžiojo magistro ryšium su kronikos dedikavimu
+    Verneriui64.
+    Buvo nuomonių, kad kronikos autorius kilęs iš pareinio Duisburgo. Pastaruoju metu jį
+    bandoma kildinti iš olandų Dusburgo (Doesburg), į rytus nuo Utrechto esančio miesto,
+    kur Vokiečių ordinas veikė nuo XIII а.
   citata_rodoma: "Tyrinėtojai siejo Dusburgietį\niš pradžių su Ragaine, po to su Karaliaučiumi. Kelta mintis, kad jis rašęs Marienburge,\ndidžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs\npasirodyti Prūsijoje  ir kiek vėliau, kai Ordino sostinė buvusi perkelta  į Marienburgą\n(1309 m.) (M. Poliakuvna)."
   statusas: verified
   teiginio_tipas: faktas
@@ -193,3 +185,4 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64726
+    - t-197005

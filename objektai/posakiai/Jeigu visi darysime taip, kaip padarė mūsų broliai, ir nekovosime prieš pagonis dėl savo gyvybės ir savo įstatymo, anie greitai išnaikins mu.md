@@ -34,44 +34,26 @@ Dusburgietis teigia, kad o kitoje vietoje, kai žuvo tie, kurie susirado mirtį 
   teiginys: "Makabiejų knygos žodžiai apie kovą už gyvybę ir įstatymą skatino magistrą ir brolius ginti Prūsijos žemę nuo karaliaus antpuolių."
   pagrindžia:
     - c-59736
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Makabiejų knygos žodžiai apie kovą už gyvybę ir įstatymą skatino magistrą ir brolius ginti Prūsijos žemę nuo karaliaus antpuolių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Atsilyginkite savo priešams, ką jie užsipelnė”. O kitoje vietoje, kai žuvo
-    tie, kurie susirado mirtį dėl savo patiklumo, nes nekovojo su priešais, vienas vyras
-    pasakė kitam vyrui (1 Mak 2, 40): „Jeigu visi darysime taip, kaip padarė mūsų broliai, ir
-    nekovosime prieš pagonis dėl savo gyvybės ir savo įstatymo, anie greitai išnaikins mus
-    iš šalies”. Magistras ir broliai, naudingai pamokyti šių bei kitų švento rašto pranašysčių,
-    ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
-    Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
-    ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197047"></a>
+- t-002
+  global_id: t-197047
+  teiginys: "Deja, tavyje nesirado nė kruopelytės malonės, nes tuo metu, kai magistras tave bardavo už tavo nusikaltimus, tu, jeigu būtum buvęs protingas, turėjai jį gerbti nelyginant savo tėvą."
   pagrindžia:
-    - t-001
+    - c-59736
 
 ## Citatos
 
 - id: c-59736
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 255"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Atsilyginkite savo priešams, ką jie užsipelnė”. O kitoje vietoje, kai žuvo
-    tie, kurie susirado mirtį dėl savo patiklumo, nes nekovojo su priešais, vienas vyras
-    pasakė kitam vyrui (1 Mak 2, 40): „Jeigu visi darysime taip, kaip padarė mūsų broliai, ir
-    nekovosime prieš pagonis dėl savo gyvybės ir savo įstatymo, anie greitai išnaikins mus
-    iš šalies”. Magistras ir broliai, naudingai pamokyti šių bei kitų švento rašto pranašysčių,
-    ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
-    Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
-    ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas.
+    Deja, tavyje nesirado nė kruopelytės malonės, nes tuo metu,
+    kai magistras tave bardavo už tavo nusikaltimus, tu, jeigu būtum buvęs protingas, turėjai
+    jį gerbti nelyginant savo tėvą. Tuo tarpu tu sakytum beprotis žiūrėjai į jį su neapykanta.
+    Kodėl nepasikliovei jo gerumu? Kodėl nelyginant patrakėlis Judas tą pačią dieną valgei
+    jo valgymą bei gėrei jo gėrimą, o po to praliejai jo kūno kraują, pervėręs jį durklu?
   citata_rodoma: "O kitoje vietoje, kai žuvo\ntie, kurie susirado mirtį dėl savo patiklumo, nes nekovojo su priešais, vienas vyras\npasakė kitam vyrui (1 Mak 2, 40): „Jeigu visi darysime taip, kaip padarė mūsų broliai, ir\nnekovosime prieš pagonis dėl savo gyvybės ir savo įstatymo, anie greitai išnaikins mus\niš šalies”. Magistras ir broliai, naudingai pamokyti šių bei kitų švento rašto pranašysčių,\nryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių\nPrūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų\nir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas."
   statusas: verified
   teiginio_tipas: faktas
@@ -79,3 +61,4 @@ Dusburgietis teigia, kad o kitoje vietoje, kai žuvo tie, kurie susirado mirtį 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59104
+    - t-197047

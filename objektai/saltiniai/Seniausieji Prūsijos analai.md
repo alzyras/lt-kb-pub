@@ -8,12 +8,12 @@ datos:
   - '1293 m.'
 date_start: '1230'
 date_end: '1293'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -48,22 +48,8 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
   teiginys: "Seniausiųjų Prūsijos analų pagrindas susidarė XIII a. pabaigoje Ordino valstybėje buvusios oficialios analistikos aplinkoje."
   pagrindžia:
     - c-61638
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Seniausiųjų Prūsijos analų pagrindas susidarė XIII a. pabaigoje Ordino valstybėje buvusios oficialios analistikos aplinkoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Volfenbiutelio bibliotekos kopija99. Šių tekstų tyrinėjimai parodė, kad Ordino valstybėje
-    buvusi oficiali analistika. Jos pagrindas susidarė XIII a. pabaigoje100.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: 'Seniausieji Prūsijos analai pirmajame raidos etape iš esmės apėmė 1230–1293 m. įvykius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -87,8 +73,7 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
 - id: c-61638
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 22"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Volfenbiutelio bibliotekos kopija99. Šių tekstų tyrinėjimai parodė, kad Ordino valstybėje
     buvusi oficiali analistika. Jos pagrindas susidarė XIII a. pabaigoje100.
@@ -103,15 +88,19 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
 - id: c-61639
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 22"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    „Pelplino analų“
-    teksto analizė leidžia manyti, kad „Seniausieji Prūsijos analai“, iš kurių padarytos mūsų
-    minėtos išlikusios kopijos, pirmajame savo raidos etape apėmė iš esmės 1230—1293
-    m. įvykius101.
-      „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat
-    Torunės analai (originalios žinios prasideda XIV a.
+    „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat
+    Torunės analai (originalios žinios prasideda XIV a. pradžia, įvykiai pratęsti iki 1410 m.)102
+    bei su pastaraisiais susijusi „Prūsijos žemės kronika“ (pratęsta iki 1450 m.)103, sudaryta
+    Chelmžos vyskupo aplinkoje104.
+    Sembos kanauninko rinkinio105, turinčio ryšio su Dusburgiečio tekstu, tyrinėjimai106
+    rodo, kad čia taip pat esama žinių, išrašytų iš neišlikusio Seniausio Prūsijos metraščio,
+    kad Dusburgietis galėjęs žinoti ir Diunamiundės metraštį107. Apskritai visų šių šaltinių
+    ir Dusburgiečio teksto analizė rodo, kad Dusburgietis naudojosi Seniausiu Prūsijos
+    metraščiu, kuriame buvo kur kas daugiau žinių, negu išliko jo nuorašuose iki mūsų
+    dienų108.
+  citata_rodoma: "„Pelplino analų“\nteksto analizė leidžia manyti, kad „Seniausieji Prūsijos analai“, iš kurių padarytos mūsų\nminėtos išlikusios kopijos, pirmajame savo raidos etape apėmė iš esmės 1230—1293\nm. įvykius101.\n  „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat\nTorunės analai (originalios žinios prasideda XIV a."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

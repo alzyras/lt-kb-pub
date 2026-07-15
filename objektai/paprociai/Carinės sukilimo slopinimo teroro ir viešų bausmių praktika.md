@@ -103,82 +103,6 @@ Nenurodyta
   teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių."
   pagrindžia:
     - c-166695
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sukilėlių būriai neturėjo jokių galimy-
-    bių kontroliuoti didesnių teritorijų. Pavasarį paskirtas vyriausiuoju Lietu-
-    vos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas
-    Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-
-    nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
-    mybę vienu smūgiu nuleisti sukilėliams daug kraujo. Gegužės pradžioje
-    prie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
-    vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
-
-- c-002
-  santrauka: '1863 m. pabaigoje Antanas Mackevičius ir Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakarti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors liepos mėn. Lenkijos sukilėlių vyriausybė į Lietu-
-    vos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas
-    Lietuvos patriotas ir baltarusių tautinio atgimimo šalininkas Konstan-
-    tinas Kalinauskas), sukilimas ėmė blėsti. 1863 m. pabaigoje į sukilimo
-    slopintojų rankas pakliuvo A. Mackevičius, vėliau K. Kalinauskas, abu
-    netrukus buvo viešai pakarti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    nas Mackevičius. Į didesnius dalinius sukilėliai jau nesitelkė, vadovavosi
-    partizaninio karo nedidelių antpuolių taktika.
-    Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
-    nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė
-    ryžtingai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
-    nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė
-    ryžtingai. Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-
-    vas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-
-    mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Jis gudriai
-    išmušė iš sukilimo vadovybės valstietišką kortą – pasiekė, kad valstiečių
-    reforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta
-    vykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m.
-    įstatymų aktuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
 
 ## Citatos
 
@@ -200,8 +124,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75354
+    - t-75351
     - t-75352
+    - t-75354
 
 - id: c-73156
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -219,6 +144,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-75355
     - t-75356
 
 - id: c-73158

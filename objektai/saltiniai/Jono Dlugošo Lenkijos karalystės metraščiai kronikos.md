@@ -56,43 +56,13 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
   teiginys: "Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks."
   pagrindžia:
     - c-61618
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jono Dlugošo „Annales seu cronicae incliti regni Poloniae“ tomai Varšuvoje leisti 1964, 1973, 1975 ir 1978 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dlugossii I. Annales seu cronicae incliti regni Poloniae.— Varsaviae, lib. I—II, 1964;
-    lib. V et VI, 1973; lib. VII et VIII, 1975; lib. IX, 1978; Opera omnia, t. 13, 1877.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Długosz J. Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks. 1—2,
-    1961; ks. 5 6, 1973; ks. 7 8, 1974.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-61617
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 262"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 262."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dlugossii I. Annales seu cronicae incliti regni Poloniae.— Varsaviae, lib. I—II, 1964;
     lib. V et VI, 1973; lib. VII et VIII, 1975; lib. IX, 1978; Opera omnia, t. 13, 1877.
@@ -106,8 +76,7 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
 - id: c-61618
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 262"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 262."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Długosz J. Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks. 1—2,
     1961; ks. 5 6, 1973; ks. 7 8, 1974.

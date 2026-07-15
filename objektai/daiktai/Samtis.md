@@ -53,6 +53,7 @@ Nenurodyta
   teiginys: "Buitinis semiamasis įrankis tarp kerdžiaus padarinių."
   pagrindžia:
     - c-177705
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

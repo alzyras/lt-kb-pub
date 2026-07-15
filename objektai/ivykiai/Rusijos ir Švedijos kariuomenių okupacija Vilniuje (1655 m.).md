@@ -7,13 +7,13 @@ datos:
   - '1655 m.'
 date_start: '1655'
 date_end: ''
+amziai:
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - okupacija
   - ivykis
-amziai:
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,8 +53,8 @@ Nenurodyta
   teiginys: "1655 m., prasidėjus Rusijos ir Švedijos kariuomenių okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją."
   pagrindžia:
     - c-176178
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1655 m., prasidėjus Rusijos ir Švedijos kariuomenių okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -77,14 +77,17 @@ Nenurodyta
 - id: c-176178
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 6."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    1655 m., prasidėjus Rusijos ir Švedijos kariuomenių
-    okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.
-    A. Kojelavičius dalyvavo ordino narių susirinkime
-    Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio­
-    tiniu. Jos reikalais važinėjo į Romą!
+    Po to iškel­
+    dinamas į Varšuvą ir paskiriamas jėzuitų namų viršinin­
+    ku bei kolegijos kunigu. Varšuvoje jis 1677 m. ir
+    mirė.
+    Toks ordino vadovybės elgesys su savo' nariu, tu­
+    rinčiu aukščiausius mokslo laipsnius ir didelę pedago­
+    ginę patirtį, verčia daryti prielaidą, kad šis iš Vijūkų
+    kilęs bajorėlis galėjo būti jai kuo nors nepageidautinas.
+  citata_rodoma: "1655 m., prasidėjus Rusijos ir Švedijos kariuomenių\nokupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.\nA. Kojelavičius dalyvavo ordino narių susirinkime\nVaršuvoje, kur išrenkamas Lietuvos provincijos įgalio­\ntiniu. Jos reikalais važinėjo į Romą!"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

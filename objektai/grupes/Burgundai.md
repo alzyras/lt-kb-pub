@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiusių į po Odoakro mirties Italijoje vykusius susirėmimus.
+Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiusių į po Odoakro mirties Italijoje vykusius susirėmimus. Po Odo akro mirties dar ketverius metus truko susirėmimas prie šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo burgundų.
 
 ## Teiginiai
 
@@ -35,45 +35,33 @@ Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiu
   teiginys: "Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiusių į po Odoakro mirties Italijoje vykusius susirėmimus."
   pagrindžia:
     - c-175748
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiusių į po Odoakro mirties Italijoje vykusius susirėmimus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    330
-    Lietuvių genčių likimai po Odoakro mirties. Po Odo­
-    akro mirties dar ketverius metus truko susirėmimas prie­
-    šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir
-    nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo
-    burgundų. Lietuvių genčių likimai po kovo skerdynių Ra-
-    venoje buvo įvairūs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197495"></a>
+- t-002
+  global_id: t-197495
+  teiginys: "Po Odo akro mirties dar ketverius metus truko susirėmimas prie šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo burgundų."
   pagrindžia:
-    - t-001
+    - c-175748
 
 ## Citatos
 
 - id: c-175748
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 324"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    330
-    Lietuvių genčių likimai po Odoakro mirties. Po Odo­
+    Po Odo­
     akro mirties dar ketverius metus truko susirėmimas prie­
     šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir
     nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo
     burgundų. Lietuvių genčių likimai po kovo skerdynių Ra-
-    venoje buvo įvairūs.
+    venoje buvo įvairūs. Didžiausia herulų dalis pasitraukė
+    prie Dunojaus, kur ketino apsigyventi šalia rugių arba
+    toje Noriko dalyje, kurią pavadino Rugilandija.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192978
+    - t-197495

@@ -7,13 +7,15 @@ datos:
   - '1291 m.'
 date_start: '1291'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
-amziai:
-  - 'XIII'
+  - karalius
+  - kunigaikštis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -64,8 +66,15 @@ Nenurodyta
   teiginys: "Apie Lenkijos žemės apiplėšimą Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę."
   pagrindžia:
     - c-63840
-## Reikšmingi paminėjimai
 
+<a id="claim-t-196979"></a>
+- t-003
+  global_id: t-196979
+  teiginys: "Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio nių nužudymą bei paėmimą į nelaisvę Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai."
+  pagrindžia:
+    - c-178992
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, ėmė belaisvius, degino ir grobė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -93,12 +102,12 @@ Nenurodyta
 - id: c-63840
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 182"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie Lenkijos žemės apiplėšimą
     Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele
-    kariuomene  į Lenkiją,  į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių
-    nukovę bei paėmę  į nelaisvę, išdeginę bei išgrobstę, Kazimieras bei Lokietka, Lenkijos
+    kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių
+    nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę, Kazimieras bei Lokietka, Lenkijos
     kunigaikščiai, nerimaudami dėl savo žmonių likimo, paprašė brolį Meinhardą, Prūsijos
     magistrą, pagalbos. Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji
     kunigaikščiai pasileido bėgti su visais savo lenkais. Sitai matydami, broliai nusigando ir,
@@ -113,3 +122,32 @@ Nenurodyta
   pagrindzia:
     - t-62954
     - t-194432
+
+- id: c-178992
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­
+    nių nužudymą bei paėmimą į nelaisvę
+    Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais
+    vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,
+    kunigai ir kiti dvasininkai, apsivilkę iškilmių arnotais, ėjo procesiją, žiauriai juos užpuolė,
+    o bažnyčioje nužudė 400 krikščionių, kunigų ir prelatų; kitus, kuriuos panorėjo, išsivarė
+    į nelaisvę; jie arnotus, taures ir kitokius bažnytinius indus pavartojo, niekindami dievą,
+    neleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,
+    be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
+    belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių. Po to, kai jie ėmė
+    trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių
+    žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų. Šitai sužinojęs,
+    Mazovijos kunigaikštis Boleslovas man nesuprantamais sumetimais sudarė kuriam laikui
+    tarp krikščionių ir netikėlių paliaubas, jų metu lenkai, nesitikėdami jokių pavojų, ramiai
+    sau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį paliaubų susitarimą, užpuolė
+    juos ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris
+    paspruko, kad galėtų kitiems apie tai papasakoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196979

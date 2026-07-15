@@ -45,27 +45,6 @@ Lewickis, kuris ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), be
     - c-32876
 - susijęs iš Cod. ep. saec. XV: „Codex epistolaris saeculi decimi quinti“ yra XV amžiaus laiškų rinkinys, kurio 1-3 tomus parengė J. Sokołowskis, J. Szujskis ir A. Lewickis.
 - susijęs iš Codex epistolaris saeculi XV: Codex epistolaris saeculi XV sudarė du tomai, kuriuos A. Lewickis parengė ir 1891 m. išleido Krokuvoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vertingas yra taip pat jo XVI amž.
-    pirmos pusės Lietuvos žemėlapis (1928). Čia reikia paminėti ir
-    W. Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž.
-    visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra
-    iš 1947 m. Taip pat vertingą įnašą davė A. Lewickis, kuris
-    ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), bet ir
-    davė gana įžvalgią ir šaltiniais paremtą monografiją apie Švitri­
-    gailą (LePS).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32876

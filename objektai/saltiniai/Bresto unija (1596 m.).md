@@ -40,24 +40,6 @@ media_all_json: |-
   teiginys: "1596 metais sudarius Bresto uniją, Lietuvos ribose pradėjo veikti unitai, išlaikę Rytų Bažnyčios apeigas ir priėmę katalikų dogmas."
   pagrindžia:
     - c-36173
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ir taip Vytautui nepasisekė sukurti religiniu atžvilgiu vie­
-    ningos Lietuvos valstybės ir katalikybės pastūmėti toliau į ry­
-    tus, sustiprinant kartu savo valdžią rusų kraštuose. Tačiau pa­
-    ti ši Vytauto idėja nežuvo. 1596 m. buvo padaryta Bresto unija
-    ir Lietuvos ribose pradėjo veikti mitai, pasilaikę Rytų Bažny­
-    čios apeigas, bet priėmę visas katalikų tikėjimo dogmas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

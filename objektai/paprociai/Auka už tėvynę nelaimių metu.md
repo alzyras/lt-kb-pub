@@ -50,39 +50,13 @@ Nenurodyta
   teiginys: "Kai kraštą ištikdavo pralaimėjimai ir nelaimės, žyniai kartais įsivaizduodavo, kad užrūstinti dievai trokštą, idant kas nors pasiaukotų už tėvynę pagal jų būrimą, arba reikėdavo, kad kas nors savo noru susidegintų ant laužo ar žūtų kovoje su priešu."
   pagrindžia:
     - c-177207
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kai kraštą ištikdavo pralaimėjimai ir nelaimės, žyniai kartais įsivaizduodavo, kad užrūstinti dievai trokštą, idant kas nors pasiaukotų už tėvynę pagal jų būrimą, arba reikėdavo, kad kas nors savo noru susidegintų ant laužo ar žūtų kovoje su priešu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kai kraštą ištikdavo pralaimėjimai ir
-    nelaimės, žyniai kartais įsivaizduodavo, kad užrūstinti dievai
-    trokštą, idant kas nors pasiaukotų už tėvynę pagal jų būrimą,
-    arba reikėdavo, kad kas nors savo noru susidegintų ant laužo
-    ar žūtų kovoje su priešu. Žmonėse dar tebegyvi pasakojimai,
-    kuriuose minimi nutikimai, kai kelios dešimtys abiejų lyčių
-    žmonių leisdavosi sudeginami, kad atpirktų tėvynę, arba kai
-    keli šimtai ryždavosi mirti mūšyje kaip auka; tuomet jie des­
-    peratiškai puldavo priešų gretas ir tol kovodavo, kol visus juos
-    išžudydavo. Istorija mena, jog aukštieji žyniai sutikdavo susi­
-    deginti ant laužo, kad būtų išmelstas dievų palankumas tėvy­
-    nei; apie tai jau kalbėjome straipsnyje apie Krivių Krivaitį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177207
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 317"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 317."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kai kraštą ištikdavo pralaimėjimai ir
     nelaimės, žyniai kartais įsivaizduodavo, kad užrūstinti dievai

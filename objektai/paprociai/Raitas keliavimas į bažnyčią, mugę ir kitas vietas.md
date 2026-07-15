@@ -51,24 +51,9 @@ Nenurodyta
   teiginys: "Jaunas žemaitis į bažnyčią ar į mugę mieliau joja, negu važiuoja vežimu."
   pagrindžia:
     - c-09958
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Todėl šiandien dar jaunas žemaitis, jei
-        negali raitas joti noris ir ant erkelės kumelėlės į bažnyčią ar į mugę, tad velijąs pėsčias beeinąs,
-        nekaip bevažiuojąs. Klausiamas, dėl ko nevažiuoja su motriškosiomis važiuotas, atsako: „Ar aš koksai
-        vergas ratgaly vilktis.“ Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo
-        jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj
-        duosiu arklius į bažnyčią joti.“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

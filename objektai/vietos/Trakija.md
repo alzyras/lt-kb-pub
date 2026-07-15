@@ -40,7 +40,6 @@ Zoroastras pas persus, Kadmas ir Inachas pas grai kus, Orfėjas Trakijoje, Minas
 - susijęs iš Dauguva: Narbutas teigė, kad potvynių ir šiaurės vėjų sukelti pokyčiai labiausiai paveikė Baltijos pakrantes tarp Vyslos ir Dauguvos žiočių.
 - susijęs iš Vysla: Narbutas rašė, kad potvyniai ir ilgalaikiai šiaurės vėjai labiausiai paveikė Baltijos pakrantes tarp Vyslos ir Dauguvos žiočių.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Zoroastras pas persus, Kadmas ir Inachas pas grai kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu sias slaptas apeigas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -65,16 +64,20 @@ Zoroastras pas persus, Kadmas ir Inachas pas grai kus, Orfėjas Trakijoje, Minas
 - id: c-171958
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 195"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 195."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Egiptiečiai visiškai nesivadina
-    jų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­
-    kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­
-    sias slaptas apeigas. Antikoje beveik kiekviena tauta turėjo
-    savo slaptas religines šventes, maldas, aukas; kuo labiau iš­
-    prususi kuri nors tauta buvo, tuo painesnis, tamsesnis, deta­
-    lesnis darydavosi tas stabmeldiškasis religinis kultas.
+    Visuomet naktį,
+    tomis valandomis, kai fantazija pasiekia aukščiausią lygį, kai
+    tyla ir tamsa pažadina didžiausiems apmąstymams, visokie įtai­
+    symai, ugnys, šešėliai, visokiausios sąmonės apgaulės pagyvin­
+    davo tas šventas iškilmes.
+    Lietuviai turėjo savo slaptas apeigas, kurias joms pasišven-
+    tusieji ne kiekvienam atskleisdavo, todėl išsamesnės žinios apie
+    jas dingo kartu su jų netektimi. Vis dėlto išliko neabejotinų
+    faktų apie jų buvimą senovėje. Lasickis sako, kad lietuviai slėp­
+    davo tam tikras dievų garbinimo apeigas, dažniausiai nuo krikš­
+    čionių, tai yra ne kiekvienas jose galėdavo dalyvauti.
+  citata_rodoma: "Egiptiečiai visiškai nesivadina\njų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­\nkus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­\nsias slaptas apeigas. Antikoje beveik kiekviena tauta turėjo\nsavo slaptas religines šventes, maldas, aukas; kuo labiau iš­\nprususi kuri nors tauta buvo, tuo painesnis, tamsesnis, deta­\nlesnis darydavosi tas stabmeldiškasis religinis kultas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

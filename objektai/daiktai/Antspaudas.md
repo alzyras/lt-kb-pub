@@ -2,13 +2,16 @@
 tipas: daiktas
 pavadinimas: 'Antspaudas'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1401 m.'
   - '1649 m.'
 date_start: '1401'
 date_end: '1649'
+amziai:
+  - 'XV'
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,9 +19,6 @@ tags:
   - simbolis
   - antspaudas
   - dokumentas
-amziai:
-  - 'XV'
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -73,13 +73,6 @@ Nenurodyta
   teiginys: "XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais."
   pagrindžia:
     - c-14294
-
-<a id="claim-t-184601"></a>
-- t-003
-  global_id: t-184601
-  teiginys: "1649 m. rugpjūčio 25 d. Vilniuje leidimas spausdinti Lietuvos istorijos pirmą dalį buvo paliudytas įprastiniu tarnybos antspaudu."
-  pagrindžia:
-    - c-167962
 - susijęs iš [[objektai/asmenys/Bičkus.md#claim-t-190227|Bičkus]]: Narbutas nurodo, kad Bičkus 1604 metais pridėjo antspaudą su driežiuko piešiniu.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176340|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis darė išvadą, kad Gedimino vardu naudotas antspaudas nebuvo tikras ir buvo suklastotas.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176383|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino vardu naudotame antspaude jis tituluotas lietuvių ir rusų karaliumi.
@@ -169,7 +162,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173337|Žygimantas Senasis]]: 1538 m. balandžio 6 d. Žygimantas Senasis rašė Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikcijos tarnų teises.
 - susijęs iš [[objektai/daiktai/Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu.md#claim-t-87081|Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu]]: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams apsistoti.
 - susijęs iš [[objektai/daiktai/Moneta su užrašais MENDOK ir ZEMAJTAS MINZIOS.md#claim-t-189690|Moneta su užrašais MENDOK ir ZEMAJTAS MINZIOS]]: Narbutas monetos užrašą „ZEMAJTAS: MINZIOS“ aiškino kaip reikšmę „Žemaičių moneta“.
-- susijęs iš [[objektai/daiktai/Vytis.md#claim-t-186858|Vytis]]: Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas.
+- susijęs iš [[objektai/daiktai/Vytis.md#claim-t-186858|Vytis]]: 1971 m. leidimo komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116743|Katalikų Bažnyčia]]: Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.
 - susijęs iš [[objektai/grupes/Pabaltijo slavai.md#claim-t-189460|Pabaltijo slavai]]: Pasak Narbuto cituojamo Tado Volianskio, žąsis ant antspaudo priminė būrimą, kuriam Pabaltijo slavai naudojo žirgą.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108286|Pranciškonų ordinas]]: Karalius atėmė iš pranciškonų jurisdikciją mieste ir priemiesčiuose turėtiems valdiniams.
@@ -186,7 +179,6 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86884|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Jonas Hozijus ir jo įpėdiniai kasmet turėjo atsiskaityti Vilniaus vyskupui ir kapitulai už tilto bei prieglaudos pajamas ir išlaidas.
 - susijęs iš [[objektai/paprociai/Bažnytinių mėsinių nuoma ir laisva mėsos prekyba Vilniuje.md#claim-t-87139|Bažnytinių mėsinių nuoma ir laisva mėsos prekyba Vilniuje]]: Vilniaus gyventojams buvo leista turguje pirkti mėsą vyskupo įrengtose mėsinėse, nepaisant miesto pareigūnų draudimų.
 - susijęs iš [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas.md#claim-t-87157|Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]: 1323 m. gegužės 26 d. Vilniuje rašytuose Gedimino laiškuose pavesta juos perskaičius siųsti toliau ir visur skelbti jų pranešimus.
-- susijęs iš [[objektai/paprociai/Jėzuitų ordino narių raštų cenzūra ir viršininkų aprobata prieš spausdinimą.md#claim-t-185873|Jėzuitų ordino narių raštų cenzūra ir viršininkų aprobata prieš spausdinimą]]: Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ antra dalis prieš spausdinimą buvo peržiūrėta Jėzaus draugijos teologų ir gavo leidimą spausdinti.
 - susijęs iš [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka.md#claim-t-87310|Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]: Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.
 - susijęs iš [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės.md#claim-t-87191|Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]: 1584 m. Gardine Steponas Batoras paskelbė Vilniaus vyskupijos jurisdikcijos pavaldinius laisvus nuo miesto pasaulietinės jurisdikcijos ir cechų.
 - susijęs iš [[objektai/posakiai/Kinstutte herczoge czu Tracken und Wytould unsir son.md#claim-t-35975|Kinstutte herczoge czu Tracken und Wytould unsir son]]: Dokumento tekste frazė „Kinstutte herczoge czu Tracken und Wytould unsir son“ nurodo Kęstutį, Trakų kunigaikštį, ir jo sūnų Vytautą.
@@ -204,9 +196,7 @@ Nenurodyta
 - susijęs iš Gedimino laiškai ordinams ir Vokietijos miestams: 1323 metų gegužės 26 dieną Vilniuje rašytuose Gedimino laiškuose nurodyta juos skaityti, siųsti toliau ir viešai skelbti.
 - susijęs iš Gedimino laiškas popiežiui Jonui XXII (1323 m.): Balińskis aiškino, kad pasakojimas apie kryžiuočių sudegintą valdovo antspaudą buvo įterptas siekiant išsklaidyti abejones dėl laiškų tikrumo.
 - susijęs iš Gedimino laiškas pranciškonams (1323 m.): Gedimino laiške pranciškonų prašyta perskaičius jį siųsti į kitą provinciją ir melstis už karalių, jo šeimą bei kraštą.
-- susijęs iš Gerbiamojo Tėvo Provincijolo leidimas: Jėzaus draugijos Lietuvos provincijos viršininkas Jonas Rivockis 1663 m. rugsėjo 9 d. Gardine leido spausdinti antrąją Alberto Kojelavičiaus „Lietuvos istorijos“ dalį.
 - susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): 1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais.
-- susijęs iš Lenkijos, Lietuvos, Žemaitijos ir visos Rusios kronika: Kojelavičius Motiejų Strijkovskį vadino pirmuoju kruopščiai iš rusų ir kryžiuočių rašto paminklų surinktos Lietuvos istorijos skelbėju.
 - susijęs iš Radvilų archyvo dekretų ir laiškų originalai: Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui.
 - susijęs iš Stepono Batoro 1576 m. gruodžio 20 d. laiškas: Stepono Batoro parašo faksimilė paimta iš jo 1576 m. gruodžio 20 d. rašyto laiško.
 - susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai.
@@ -235,54 +225,12 @@ Nenurodyta
 - susijęs iš Trakų pavietas arba vaivadija: Jonas Lenartaitis Kęsgaila prispaudė antspaudą prie 1490 m. sutarties, kurią sudarė Trakų pavieto, arba vaivadijos, bajorai.
 - susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
 - susijęs iš Vilniaus pilis: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
-- susijęs iš Vilnius: Gedimino laiškas buvo duotas Vilniuje 1323 m. Kristaus Kūno dieną.
-- susijęs iš Vilnius: Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.
-- susijęs iš Vilnius: 1559 m. dokumentas buvo duotas Vilniuje artimiausią ketvirtadienį po Šv. Baltramiejaus šventės.
-- susijęs iš Vilnius: Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
 - susijęs iš Vosyliškis Vosyliškio vėliavininkystė: Narbutas nurodo prie galbūt XV a. pirmosios pusės dokumento radęs antspaudą, kuriuo Aleksandras Jurgaitis Meteika tvirtino Vosyliškio vėliavininkystės žemininkų žemės mainus.
 - susijęs iš [[objektai/zodynas/Cechas.md#claim-t-54805|Cechas]]: Vilniaus vyskupijos jurisdikcijai priklausantys asmenys sprendime paskelbti laisvi nuo Vilniaus miesto cechų.
 - susijęs iš [[objektai/zodynas/indiktas.md#claim-t-86422|indiktas]]: Vilniuje rašytas dokumentas datuotas 1533 m. spalio 23 d., 7 indiktu.
 - susijęs iš [[objektai/zodynas/pūdas talentas.md#claim-t-86614|pūdas talentas]]: 1390 m. Vilniaus pilies dvaras kapitulai turėjo mokėti dvylika vaško talentų, vadinamų pūdais.
 - susijęs iš [[objektai/zodynas/tenuta laikytojas.md#claim-t-86575|tenuta laikytojas]]: 1503 m. Vilniuje duotame rašte Stanislovas Hlebavičius minimas kaip Polocko laikytojas, o Albertas Janavičius - kaip Kauno laikytojas.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    tikro prie šitos sutarties buvo Vytauto antspauda su jo ženklu
-    ir užrašu „S: DUCJS VITAUTE”, kas reiškia kunigaikščio
-    Vytauto antspaudą. 1379 metai yra pati pirmoji Vytauto ant­
-    spaudos pasirodymo data^1 ). Prūsų istorikas Voigtas (apie 1825
-    metus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­
-    mi tos sutarties originalą, sakė esą matę visų keturių valdovų
-    sveikas antspaudas^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    (^1) ) a) Vytauto dokumento, duoto 1401 m. sausio 18 d. Vilniuj, yra išli­
-    kęs iki mūsų laikų originalas (kun. Cartoriškių archyve).
-    b) Lietuvių bajorų dokumentas išduotas tais pačiais metais ir tą pačią
-    dieną Vilniuj; originalas žuvęs.
-    c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­
-    dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
-    (^2) ) C. ep. V., 223.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-003
   santrauka: '1649 m. rugpjūčio 25 d. Vilniuje leidimas spausdinti Lietuvos istorijos pirmą dalį buvo paliudytas įprastiniu tarnybos antspaudu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -357,37 +305,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64897
-
-- id: c-167962
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Tavo Aukštybės
-    žemiausiasis tarnas
-    Albertas Vijiikas-Kojelavičius
-    Jėzaus draugijos narys
-    40
-
-    ## Puslapis 39
-
-    LEIDIMAS
-    Aš, žemiau pasirašęs Lietuvos provincijos Jėzaus
-    draugijos viršininkas, remdamasis didžiai gerbiamo
-    mūsų tėvo Vincento Karafos, Generalinio Viršininko,
-    man šiuo atveju suteikta galia, leidžiu spausdinti Lie­
-    tuvos istorijos pirmą dalį, TĖVO ALBERTO KOJELA­
-    VIČIAUS surašytą ir kelių tos pačios Jėzaus draugi­
-    jos teologų peržiūrėtą bei aprobuotą. Šitai patvirtin­
-    damas, savo ranka surašiau šį dokumentą ir jį išdaviau,
-    paliudydamas įprastiniu tarnybos antspaudu. Vilniuje,
-    1649 viešpaties metais, rugpjūčio 25 dieną.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184601
 
 ## Ryšiai
 - Antspaudas priklausė [[objektai/asmenys/Katilas]]

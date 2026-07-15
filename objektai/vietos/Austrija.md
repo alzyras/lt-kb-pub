@@ -55,7 +55,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59880|Bertoldas, vadinamas Briuhavenu]]: 1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63421|Albrechtas (Romos karalius)]]: 1308 m. gegužės 1 d. Romos karalių Albrechtą nužudė kunigaikštis Jonas Anlantas, iš kurio buvo atimta Austrijos kunigaikštystė.
 - susijęs iš [[objektai/asmenys/Augustas III.md#claim-t-82227|Augustas III]]: Po Augusto II mirties Rusija, Austrija ir Prūsija priešinosi tiek Fridriko Augusto, tiek Leščinskio išrinkimui į sostą.
-- susijęs iš [[objektai/asmenys/Cimbarka.md#claim-t-186192|Cimbarka]]: Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau tapusi Austrijos erchercogo Ernesto žmona.
 - susijęs iš [[objektai/asmenys/Jozefas Frankas.md#claim-t-19009|Jozefas Frankas]]: Jozefas Frankas buvo iš Austrijos į Vilniaus universitetą atvykęs mokslininkas, kurio darbai buvo žinomi tarptautiniu mastu.
 - susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63849|Kotryna II]]: Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai.
 - susijęs iš [[objektai/asmenys/Leopoldas (Austrijos erchercogas).md#claim-t-186233|Leopoldas (Austrijos erchercogas)]]: Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbietos vestuvių puotoje.
@@ -84,7 +83,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - susijęs iš Prūsija: Per Kotrynos II įvykdytus Respublikos padalijimus trečdalis valstybės buvo atiduotas Prūsijai ir Austrijai.
 - susijęs iš Prūsija: Kryžiuočiai paragino ginkluotis Prūsijos vyrus ir pasikvietė pagalbininkų iš Silezijos, Austrijos, Vokietijos, Anglijos bei Prancūzijos.
 - susijęs iš Rusija: 1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.
-- susijęs iš Sanokas: Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas.
+- susijęs iš Sanokas: Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Leopoldas, Austrijos erchercogas.
 - susijęs iš Vilnius: 1915 m. rugsėjo 15 d. vokiečiai įžengė į Vilnių, o senoji Lenkijos ir Lietuvos valstybės teritorija atsidūrė Vokietijos ir Austrijos kariuomenių kontrolėje.
 - susijęs iš Galicija: Po Lenkijos padalinimo Galicijoje išliko unitai, nes ši sritis buvo patekusi Austrijai.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
@@ -115,7 +114,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176422|Jadvyga Jogailienė]]: Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176430|Jadvyga Jogailienė]]: Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes.
 - susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-78034|Joachimas Lelevelis (istorikas, XVIII–XIX a.)]]: Istorikas Joachimas Lelevelis dirbo universitete jo klestėjimo laikotarpiu.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184731|Jogaila (kunigaikštis, XIV–XV a.)]]: Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir iškėlė vestuvių puotą.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184731|Jogaila (kunigaikštis, XIV–XV a.)]]: Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas.
 - susijęs iš [[objektai/asmenys/Johanas Pėteris Frankas.md#claim-t-18967|Johanas Pėteris Frankas]]: Johanas Pėteris Frankas dirbo Vilniaus universitete, o jo darbai buvo žinomi tarptautiniu mastu.
 - susijęs iš [[objektai/asmenys/Jonas (vadinamas Anlantu).md#claim-t-60344|Jonas (vadinamas Anlantu)]]: 1308 m. gegužės 1 d. kunigaikštis Jonas, vadinamas Anlantu, nužudė savo senelį Romos karalių Albrechtą.
 - susijęs iš [[objektai/asmenys/Jonas Sniadeckis.md#claim-t-183544|Jonas Sniadeckis]]: Filosofas Jonas Sniadeckis dirbo universitete didžiausio jo klestėjimo laikotarpiu.
@@ -124,7 +123,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - susijęs iš [[objektai/asmenys/Konradas (Landsbergo markgrafas).md#claim-t-60360|Konradas (Landsbergo markgrafas)]]: Landsbergo markgrafas Konradas buvo tarp didikų, pritarusių pasiūlymui prašyti popiežiaus patvirtinti naują ligoninę.
 - susijęs iš [[objektai/asmenys/Konradas (Mainco arkivyskupas).md#claim-t-60361|Konradas (Mainco arkivyskupas)]]: Mainco arkivyskupas Konradas buvo tarp Vokietijos didikų, pritarusių prašymui popiežiui leisti įsteigti ir patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Konradas (Viurcburgo vyskupas).md#claim-t-60362|Konradas (Viurcburgo vyskupas)]]: Konradas, Viurcburgo vyskupas ir Romos imperijos kancleris, buvo tarp Vokietijos didikų, palaikiusių ligoninės patvirtinimo prašymą.
-- susijęs iš [[objektai/asmenys/Kotryna (Austrijos kunigaikštytė).md#claim-t-186132|Kotryna (Austrijos kunigaikštytė)]]: Karalienė motina patarė karaliui prašyti Austrijos kunigaikštytės Kotrynos rankos, kad nenutrūktų giminystė su Austrijos karališkąja šeima.
 - susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63840|Kotryna II]]: Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.
 - susijęs iš [[objektai/asmenys/Leopoldas.md#claim-t-186232|Leopoldas]]: Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, kurios remiami kryžiuočiai nusiaubė Žemaitiją.
 - susijęs iš [[objektai/asmenys/Liudvigas Heinrichas Bojanus.md#claim-t-78065|Liudvigas Heinrichas Bojanus]]: Liudvigas Heinrichas Bojanus dirbo Vilniaus universitete tarp tarptautiniu mastu žinomų mokslininkų.
@@ -215,42 +213,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - susijęs iš [[objektai/zodynas/landkomtūras.md#claim-t-58912|landkomtūras]]: Popiežius Celestinas III paskyrė septynis Teutonų ordino brolius landkomtūrais, arba provincijų valdytojais.
 - susijęs iš [[objektai/zodynas/raitarai.md#claim-t-42501|raitarai]]: Švedų raitarai, pasikliaudami karakoliavimo taktika, vengdavo artimo mūšio.
 - susijęs iš [[objektai/asmenys/Albrechtas (Rudolfo sūnus).md#claim-t-60231|Albrechtas (Rudolfo sūnus)]]: Rudolfas, nukovęs Čekijos karalių Otokarą, Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Austrijos Juozapas II vykdė reformas, kuriomis net Bažnyčią pajungė valstybės valdžiai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Prie jų dar prisidėjo Austrijos Juozapas II. Susižavėjęs švie-
-    čiamąja literatūra, jis darė reformas, viską, net Bažnyčią, pajungda-
-    mas valstybės valdžiai (jozefinizmas). Dėl šitų reiškinių visas perio-
-    das vadinamas šviesiojo absoliutizmo laikotarpiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Per Abiejų Tautų Respublikos padalijimus Kotryna II trečdalį padalytos valstybės turėjo užleisti Prūsijai ir Austrijai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Abu rusų valdovai stengėsi savo
-    valstybę stiprinti vakarinio kaimyno sąskaiton. Nuo «nebylių
-    seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius
-    ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
-    kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai. Tai sudarė
-    visai naują epochą Lietuvos istorijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24050

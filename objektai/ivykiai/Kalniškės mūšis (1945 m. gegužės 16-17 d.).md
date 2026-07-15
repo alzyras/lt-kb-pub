@@ -85,48 +85,6 @@ Nenurodyta
 - susijęs iš Kalniškės miškas: Kalniškės miškas yra apie 3–4 km pločio ir 8 km ilgio mišrus miškas, kuriame 1945 m. įvyko Kalniškės mūšis.
 - susijęs iš Krosna: Apie kilometrą už Krosnos Lazdijų link buvo Kalniškės miškas, kuriame 1945 m. įvyko Kalniškės mūšis.
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ne tik jėgos, pritrūko ir šaudmenų. Bai-
-    giantis šaudmenims buvo priimtas spren-
-    dimas veržtis iš apsupties. Panaudojus
-    granatas ir sutelktą ugnį partizanams su
-    nemenkais nuostoliais pavyko prasiveržti
-    link Sūsninkų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušelė“. Bet pats
-    Neifalta-Lakūnas tikrai nežuvo, kaip kad daug kur rašoma. „Lakūną“ po Kalniškės mūšio
-    mačiau ne kartą savo akimis. Žuvo jis apie 1946 m., kūnas buvo numestas ant grindinio
-    Krosnoje. Tuo metu aš jau buvau suimtas...“
-
-    Mūšis
-
-    220-ojo pasienio pulko kariai apsupo
-    Kalniškės mišką, kuriame buvo įrengta
-    partizanų stovykla.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-    - t-002
-
 ## Citatos
 
 - id: c-43049
@@ -167,6 +125,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71749
-    - t-71748
     - t-71747
+    - t-71748
+    - t-71749

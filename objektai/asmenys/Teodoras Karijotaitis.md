@@ -36,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-o iš Karijoto sūnaus, Teodoro, — Podolė.
+Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patraukė prieš Vytautą ir susidūrė su juo prie Braclavo. Teodoras Karijotaitis, Vytauto smarkiai persekiojamas, po karių pabėgimo vargais negalais paspruko į Kamenecą. Kunigaikštis Teodoras Karijotaitis su šeima buvo išgabentas į Vilnių, kai pilis perduota ir Podolė vėl prijungta prie Lietuvos.
 
 ## Teiginiai
 
@@ -68,124 +68,37 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
   pagrindžia:
     - c-169344
 
-<a id="claim-t-193500"></a>
-- t-005
-  global_id: t-193500
-  teiginys: "Kariams pasileidus bėgti, Teodoras, Vytauto smarkiai persekiojamas, vargais negalais paspruko į Kamenecą."
-  pagrindžia:
-    - c-169345
-
 <a id="claim-t-193501"></a>
-- t-006
+- t-005
   global_id: t-193501
   teiginys: "Kunigaikštį Teodorą su šeimy na išgabeno į Vilnių."
   pagrindžia:
     - c-169346
 
 <a id="claim-t-193992"></a>
-- t-007
+- t-006
   global_id: t-193992
   teiginys: "Ketvirtas jų brolis, kunigaikštis Teodoras Karijotaitis, Lietuvoje valdė Naugarduką."
   pagrindžia:
     - c-176617
 
-<a id="claim-t-193993"></a>
+<a id="claim-t-196601"></a>
 - t-008
+  global_id: t-196601
+  teiginys: "Mirus broliui, Teodoras Karijotaitis, Algirdo remiamas, tapo Naugarduko kunigaikščiu, bet vėliau buvo išvarytas iš visų valdų."
+  pagrindžia:
+    - c-178790
+
+<a id="claim-t-193993"></a>
+- t-007
   global_id: t-193993
-  teiginys: "1 8 Pašalintas iš Podolės, Teodoras Karijotaitis tikrai pabėgo j Vengrijų, gavo grafo titulų ir 1396— 1414 m. (iki mirties) valdė Užkarpatėje Mukačiovų ir vykdė Beregovo distrikto viršininko funkcijas."
+  teiginys: 'Pašalintas iš Podolės, Teodoras Karijotaitis pabėgo į Vengriją, gavo grafo titulą ir 1396–1414 m. valdė Mukačiovą Užkarpatėje.'
   pagrindžia:
     - c-176618
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patraukė prieš Vytautą ir susidūrė su juo prie Braclavo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tegu iš
-    svetimųjų nelaimių mokosi išminties tie, kurie savo
-    tėvynėje neturi jokių vilčių: jis negalįs nei taip labai
-    vertinti Vytauto sėkmės, kuri nugalėtojams visada bū­
-    nanti slidi, nei niekinti savo jėgų. Su stipria kariuome­
-    ne, sutelkta Podolėje ir Valachijoje, jis patraukė prieš
-    Vytautą ir susidūrė su juo prie Braclavo. Vytauto ša­
-    lininkai, didžiuodamiesi dviem pergalėmis, su tokiu
-    įniršiu puolė priešą, kad pirmuoju smūgiu palaužė jo
-    jėgas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-004
-
-- c-002
-  santrauka: 'Teodoras Karijotaitis, Vytauto smarkiai persekiojamas, po karių pabėgimo vargais negalais paspruko į Kamenecą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kariams pasileidus bėgti, Teodoras, Vytauto
-    smarkiai persekiojamas, vargais negalais paspruko į
-    Kamenecą. Jis nevaliojo greitosiomis suburti kariuo­
-    menės, kuri galėtų stoti į atvirą kovą. Todėl sustiprino
-    ir šiaip pajėgią pilies įgulą pasiryžęs čia kariauti toliau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-005
-
-- c-003
-  santrauka: 'Kunigaikštis Teodoras Karijotaitis su šeima buvo išgabentas į Vilnių, kai pilis perduota ir Podolė vėl prijungta prie Lietuvos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
-    pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
-    vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
-    na išgabeno į Vilnių. Po šio
-    Su len k a is tariasi d ė l
-    žygio smarkiai sunerimo len-
-    P o d o lės v a ld y m o
-    kai, būgštaudami, kad Vytau­
-    to pergalės nepaverstų nie­
-    kais jų senų ketinimų valdyti Podolę, ypač dėl to, kad
-    Vytautas, gerai prisimindamas karus, kuriuos vedė Al­
-    girdo vadovaujami lietuviai, vydami iš Podolės skitus,
-    neslėpė, jog šią žemę jis imąs į savo rankas ne tik kaip
-    karo laimikį, atitekusį po pergalingo karo, bet ir kaip
-    seną, teisėtai jam priklausančią valdą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-006
-
-- c-004
-  santrauka: 'Ketvirtas jų brolis, kunigaikštis Teodoras Karijotaitis, Lietuvoje valdė Naugarduką.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ketvirtas jų brolis, kunigaikštis Teodoras Karijo-
-    taitis, Lietuvoje valdė Naugarduką. Kunigaikštis Teodo­
-    ras išgirdo, kad jo brolių Podolės žemėje nebėra gy­
-    vųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.1 5
-    O tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­
-    dysis kunigaikštis Algirdas l6 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 - c-005
-  santrauka: '1 8 Pašalintas iš Podolės, Teodoras Karijotaitis tikrai pabėgo j Vengrijų, gavo grafo titulų ir 1396— 1414 m. (iki mirties) valdė Užkarpatėje Mukačiovų ir vykdė Beregovo distrikto viršininko funkcijas.'
+  santrauka: 'Pašalintas iš Podolės, Teodoras Karijotaitis pabėgo į Vengriją, gavo grafo titulą ir 1396–1414 m. valdė Mukačiovą Užkarpatėje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     1 8  Pašalintas iš Podolės, Teodoras Karijotaitis tikrai pabėgo
@@ -201,26 +114,29 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
+    - t-007
 
 ## Citatos
 
 - id: c-169344
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 343"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 343."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tegu iš
-    svetimųjų nelaimių mokosi išminties tie, kurie savo
-    tėvynėje neturi jokių vilčių: jis negalįs nei taip labai
-    vertinti Vytauto sėkmės, kuri nugalėtojams visada bū­
-    nanti slidi, nei niekinti savo jėgų. Su stipria kariuome­
-    ne, sutelkta Podolėje ir Valachijoje, jis patraukė prieš
-    Vytautą ir susidūrė su juo prie Braclavo. Vytauto ša­
-    lininkai, didžiuodamiesi dviem pergalėmis, su tokiu
-    įniršiu puolė priešą, kad pirmuoju smūgiu palaužė jo
-    jėgas.
+    bei tremties palydovą, tačiau ne Kijevo kunigaikščiu,
+    o tiktai vietininku.
+    Beliko Teodoras Karijotaitis, Podolės kunigaikštis,
+    kuris, bičiuliams pralaimėjus neišsižadėjęs nei atkak­
+    lumo, nei drąsos, dar rūpestingiau ėmė rengtis karui
+    prieš Vytautą, nes buvo tvirtai įsitikinęs, jog kariauti
+    teks jam vienam. Jis sakė, jog didžiausia gėda, nepa­
+    mačius priešo ir su juo nesu-
+    Sum uša P o d o lės ku-
+    sigrūmus, pasiduoti vien dėl
+    n ig a ik štį T eo d o rą
+    to, jog žinai, koks buvo są­
+    jungininkų likimas.
+  citata_rodoma: "Tegu iš\nsvetimųjų nelaimių mokosi išminties tie, kurie savo\ntėvynėje neturi jokių vilčių: jis negalįs nei taip labai\nvertinti Vytauto sėkmės, kuri nugalėtojams visada bū­\nnanti slidi, nei niekinti savo jėgų. Su stipria kariuome­\nne, sutelkta Podolėje ir Valachijoje, jis patraukė prieš\nVytautą ir susidūrė su juo prie Braclavo. Vytauto ša­\nlininkai, didžiuodamiesi dviem pergalėmis, su tokiu\nįniršiu puolė priešą, kad pirmuoju smūgiu palaužė jo\njėgas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -232,8 +148,7 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - id: c-169345
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 343"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 343."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kariams pasileidus bėgti, Teodoras, Vytauto
     smarkiai persekiojamas, vargais negalais paspruko į
@@ -246,29 +161,30 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185984
-    - t-193500
 
 - id: c-169346
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 344"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 344."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
+    Gal dėl Vytauto klastingumo,
+    gal dėl kokios kitos priežasties tarp Podolės ir Valachi-
+    jos karių kilo nesutarimai,
+    Sulaukia
+    K a m e n e c o
+    kurie tarytum išgriovė gyny-
+    k a p itu lia c ijo s
+    bines sienas ir atvėrė priešui
+    kelią: dėl asmeniškos neapy­
+    kantos įtūžusios širdys visiškai užmiršo rūpintis ben­
+    drais reikalais. Išsiuntė žygūnus, turėjusius tartis dėl
+    pilies perdavimo sąlygų. Kadangi Vytautas jiems paro­
+    dė palankumą, apsuptieji visiškai pasidavė jo malonei.
     Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
     pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
     vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
-    na išgabeno į Vilnių. Po šio
-    Su len k a is tariasi d ė l
-    žygio smarkiai sunerimo len-
-    P o d o lės v a ld y m o
-    kai, būgštaudami, kad Vytau­
-    to pergalės nepaverstų nie­
-    kais jų senų ketinimų valdyti Podolę, ypač dėl to, kad
-    Vytautas, gerai prisimindamas karus, kuriuos vedė Al­
-    girdo vadovaujami lietuviai, vydami iš Podolės skitus,
-    neslėpė, jog šią žemę jis imąs į savo rankas ne tik kaip
-    karo laimikį, atitekusį po pergalingo karo, bet ir kaip
-    seną, teisėtai jam priklausančią valdą.
+    na išgabeno į Vilnių.
+  citata_rodoma: "Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,\npilyse bei miestuose paliko lietuvių karių įgulas ir lietu­\nvių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­\nna išgabeno į Vilnių. Po šio\nSu len k a is tariasi d ė l\nžygio smarkiai sunerimo len-\nP o d o lės v a ld y m o\nkai, būgštaudami, kad Vytau­\nto pergalės nepaverstų nie­\nkais jų senų ketinimų valdyti Podolę, ypač dėl to, kad\nVytautas, gerai prisimindamas karus, kuriuos vedė Al­\ngirdo vadovaujami lietuviai, vydami iš Podolės skitus,\nneslėpė, jog šią žemę jis imąs į savo rankas ne tik kaip\nkaro laimikį, atitekusį po pergalingo karo, bet ir kaip\nseną, teisėtai jam priklausančią valdą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -282,12 +198,17 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ketvirtas jų brolis, kunigaikštis Teodoras Karijo-
-    taitis, Lietuvoje valdė Naugarduką. Kunigaikštis Teodo­
-    ras išgirdo, kad jo brolių Podolės žemėje nebėra gy­
-    vųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.1 5
-    O tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­
-    dysis kunigaikštis Algirdas l6 .
+    Neilgai trukus, didysis kunigaikštis Algirdas davė
+    Petrui Goštautui Vilnių. Būdamas Vilniaus vaivada \
+    didžiajam kunigaikščiui Algirdui leidus, jis pirmą kar­
+    tą parsikvietė iš Lenkijos 14 vienuolių pranciškonų5,
+    ir savo rūmuose Vilniuje, kur dabar yra Vilniaus vys­
+    kupo rūmai6, įsteigė dievo motinos vienuolyną, o sau
+    rūmus pasistatė Smėlynėje7, priešais Vingrius8, kur
+    dabar dievo motinos vienuolynas9. Tasai Petras Goš­
+    tautas pirmas priėmė Romos tikėjimą ir parnešė jį
+    j Lietuvą l0.
+  citata_rodoma: "Ketvirtas jų brolis, kunigaikštis Teodoras Karijo- \ntaitis, Lietuvoje valdė Naugarduką. Kunigaikštis Teodo­\nras išgirdo, kad jo brolių Podolės žemėje nebėra gy­\nvųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.1 5\nO tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­\ndysis kunigaikštis Algirdas l6 ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -295,21 +216,38 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
   pagrindzia:
     - t-193992
 
-- id: c-176618
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- id: c-178790
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    1 8  Pašalintas iš Podolės, Teodoras Karijotaitis tikrai pabėgo
-    j Vengrijų, gavo grafo titulų ir 1396— 1414 m. (iki mirties) valdė
-    Užkarpatėje Mukačiovų ir vykdė Beregovo distrikto viršininko
-    funkcijas. Su Teodoru Karijotaičių siejama ligi šiol išlikusi Muka-
-    čiovo (UTSR) pilis, o  taip pat legenda apie huculų (ukrainiečių)
-    įsikūrimų Užkarpatėje. 1402 m. jis mėgino atgauti Podolę, bet bu­
-    vo atmuštas.
+    Neilgai
+    trukus po to sugrįžęs į Podolę, jis čia ir mirė. Kai mirė
+    brolis, jo įpėdiniu, Algirdo remiamas, tapo Naugardu-
+    K o n sta n tin a s
+    K a rijo ­
+    ta itis,
+    A lg ird o
+    b ro ­
+    lėn as,
+    k v ie č ia m a s
+    į
+    L e n k ijo s ka ra liu s
+    23 o
+
+    ko kunigaikštis Teodoras Ka-
+    A lg ird a s
+    su tra m d o
+    rijotaitis; kadangi šis, įsigi-
+    m a išta u ja n tį b ro lėn ą
+    jęs naujų žemių, ėmė nebe­
+    siskaityti su Lietuvos didžio­
+    jo kunigaikščio senosiomis teisėmis, buvo išvarytas iš
+    visų valdų. Karą prieš maištininką pradėjo pats Algir­
+    das.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193993
+    - t-196601

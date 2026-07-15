@@ -58,50 +58,6 @@ Nenurodyta
   teiginys: "Dailės, vaizduojamojo meno ir architektūros srityje draugijų paralelizmas pasireiškė Lietuvių dailės draugijos ir Vilniaus dailės draugijos veikla."
   pagrindžia:
     - c-166624
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dailės ir vaizduojamojo me-
-    no bei architektūros srityje taip
-    pat pastebėtas draugijų paraleliz-
-    mas. Lietuviai pirmieji Vilniuje
-    įkūrė Lietuvių dailės draugiją, pra-
-    dėjo rengti viešas dailės parodas,
-    bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių
-    lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją. Kai
-    kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
-    džiama priklausyti ir abiem tuo pat metu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Dailės, vaizduojamojo meno ir architektūros srityje draugijų paralelizmas pasireiškė Lietuvių dailės draugijos ir Vilniaus dailės draugijos veikla.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Beje, abi jos buvo
-    viena kitos kolektyviniai nariai.
-    Dailės ir vaizduojamojo me-
-    no bei architektūros srityje taip
-    pat pastebėtas draugijų paraleliz-
-    mas. Lietuviai pirmieji Vilniuje
-    įkūrė Lietuvių dailės draugiją, pra-
-    dėjo rengti viešas dailės parodas,
-    bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių
-    lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

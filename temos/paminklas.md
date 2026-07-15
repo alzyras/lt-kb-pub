@@ -6,7 +6,7 @@ tema_kategorija: "daiktai"
 tema_kategorijos_pavadinimas: "Daiktai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 33
+tema_objektu_skaicius: 32
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 33.
+Objektų skaičius: 32.
 
 ## Kaip naudoti
 
@@ -28,7 +28,6 @@ Objektų skaičius: 33.
 ### Daiktai
 - [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje]]
 - [[objektai/daiktai/Alegorinė skulptūra „Lietuvos mokykla 1864-1904“]]
-- [[objektai/daiktai/Atminimo statula]]
 - [[objektai/daiktai/Kidulių Dangaus karalienės bareljefas]]
 - [[objektai/daiktai/Lenino paminklas Vilniuje]]
 - [[objektai/daiktai/Marmurinė antkapinė lenta]]
@@ -51,7 +50,7 @@ Objektų skaičius: 33.
 - [[objektai/daiktai/Praurimės aukuras ant Birutės kalno]]
 - [[objektai/daiktai/Prisikėlimo bažnyčia Kaune]]
 - [[objektai/daiktai/Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios]]
-- [Rittersverderio pilis ir laikini įtvirtinimai](../objektai/daiktai/Rittersverderio%20pilis%20ir%20laikini%20%C4%AFtvirtinimai)
+- [[objektai/daiktai/Rittersverderio pilis ir laikini įtvirtinimai]]
 - [Rėja](../objektai/daiktai/R%C4%97ja)
 - [Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai](../objektai/daiktai/R%C5%ABdnink%C5%B3%20karali%C5%A1kieji%20med%C5%BEiokl%C4%97s%20r%C5%ABmai%20ir%20dvaro%20pastatai)
 - [Stogastulpiai, rūpintojėliai, pietos, šventųjų skulptūrėlės, koplytstulpiai ir kryžiai](../objektai/daiktai/Stogastulpiai%2C%20r%C5%ABpintoj%C4%97liai%2C%20pietos%2C%20%C5%A1vent%C5%B3j%C5%B3%20skulpt%C5%ABr%C4%97l%C4%97s%2C%20koplytstulpiai%20ir%20kry%C5%BEiai)

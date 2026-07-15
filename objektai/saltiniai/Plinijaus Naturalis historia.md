@@ -34,8 +34,8 @@ Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įl
   teiginys: "Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įlanka ir to paties pavadinimo miestelis prie Boristenio ir Bugo žiočių."
   pagrindžia:
     - c-174631
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įlanka ir to paties pavadinimo miestelis prie Boristenio ir Bugo žiočių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -65,9 +65,14 @@ Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įl
 - id: c-174631
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 376"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 376."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Herodotas1 savo geografiniuose aprašymuose, kurie,
+    nelaimei, mus pasiekė daug trumpesni, pasakodamas apie
+    Gerų kraštą ir upę, kur gyveno skitai kapų kasėjai, sako,
+    jog ši upė, susiliejusi su kita, t. y. Hippakaris, įtekėjo į
+    didelės Boristenio upės šaką, įlanką, vagą ar išsišakoji­
+    mą, vadinamą Karkinitu; čia ir buvęs Karkinęs miestas.
     Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­
     ga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine
     ir to p.aties pavadinimo miestelis, esantis prie žiočių Bo­
@@ -80,6 +85,7 @@ Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įl
     įvairių šaltinių, nes senovės Skitijos žemėlapių leidėjai
     nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
     pavadinimo miestui.
+  citata_rodoma: "Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­\nga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine\nir to p.aties pavadinimo miestelis, esantis prie žiočių Bo­\nristenio ir Bugo, šio autoriaus vadinto Btigus2. Bet, kal­\nbant apie Gero upę, o ypač apie kraštą, kur yra skitų ka­\npinynas, negalima atmesti prielaidos, kad buvę ir kitų\nvietų su panašiais, anksčiau ar vėliau Plinijaus užrašy­\ntais pavadinimais; tuo atveju, jei šis žymus geografas\nnesuklydo remdamasis žiniomis, surinktomis iš pernelyg\nįvairių šaltinių, nes senovės Skitijos žemėlapių leidėjai\nnemokėjo rasti vietos jo Carcinites** įlankai ir to paties\npavadinimo miestui."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

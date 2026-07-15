@@ -35,28 +35,6 @@ Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvas
   teiginys: "Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvasių bei dievų."
   pagrindžia:
     - c-176020
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvasių bei dievų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vieni žmonės, ypač žy-
-    mesnieji, pirma buvo sudeginami ant laužo, o paskui buvo lai-
-    dojami jų ir kartu sudeginto turto pelenai; kiti buvo laidojami
-    su daiktais nesudeginti. Anas pomirtinis pasaulis buvo vadi-
-    namas dausomis; jis taip pat turėjo savo dvasių bei dievų.
-    Tačiau aisčiai tikėjo, kad mirusiųjų vėlės nesiskiriančios nuo
-    šeimų ir gyventos aplinkos: jos apsigyvenančios gyvuliuose ar
-    medžiuose, augančiuose ant jų kapų, ir būnančios savo šeimų
-    globėjos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

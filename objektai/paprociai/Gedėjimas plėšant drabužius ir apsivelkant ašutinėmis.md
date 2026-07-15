@@ -55,50 +55,13 @@ Nenurodyta
   pagrindžia:
     - c-63412
     - c-63413
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Gedulo metu žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums
-    dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
-    gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Gedulo metu žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tai kam gi mums
-    dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
-    gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
-
-
-
-
-                                  41.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63412
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 90"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums
     dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
@@ -114,17 +77,12 @@ Nenurodyta
 - id: c-63413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 90"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tai kam gi mums
     dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
     gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
-
-
-
-
-                                  41.
+    41.
   citata_rodoma: "Tai kam gi mums\ndar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais\ngedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.\n\n\n\n\n                              41."
   statusas: verified
   teiginio_tipas: faktas

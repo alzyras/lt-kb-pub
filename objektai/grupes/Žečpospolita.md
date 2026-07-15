@@ -36,28 +36,6 @@ Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Že
   teiginys: "Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Žečpospolitos (respublikos) tautų federaciją."
   pagrindžia:
     - c-28538
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184598|Liublino unija (1569 m.)]]: 1569 m. Liublino seime ginčytasi ne dėl pačios unijos, o dėl jos sąlygų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kai
-    vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-
-    lernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją,
-    buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos
-    partneriams realizuoti savą tautinį idealą. Atsistatanti Lenkijos
-    valstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos
-    minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
-    vandenį. Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir
-    kitų buvusių Žečpospolitos (respublikos) tautų federaciją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Ordinarinis profesorius
 sukurta: '2026-07-12'
 variantai:
-  - Ordinariniu profesorium
+  - 'Ordinariniu profesorium'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []

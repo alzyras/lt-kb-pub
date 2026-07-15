@@ -55,22 +55,6 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
 - susijęs iš Opočka: Krasnogorodskoje lokalizuojama 30 km į šiaurės vakarus nuo Opočkos.
 - susijęs iš Opočka: Krasnogorodskoje lokalizuojama į šiaurės vakarus nuo Opočkos.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
-    karus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­
-    ni kitus LDK kariuomenės pultus Pskovo miestus (žr. past. 5).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 - c-002
   santrauka: 'Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -107,8 +91,7 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
 - id: c-170304
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 254"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 254."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
     karus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­
@@ -119,39 +102,39 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187242
     - t-187241
+    - t-187242
 
 - id: c-170534
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Didysis kunigaikštis Vytautas, sutelkęs visas savo
-    pajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis
-    mėnesius prie Porchovo miesto3  ir, nepaėmęs miesto,
-    nuėjo per Naugardo ir Pskovo žemę niokodamas, de­
-    gindamas ir imdamas nelaisvėn * .
-    Sekančiais metais didysis kunigaikštis Vytautas išsi­
-    rengė prieš Pskovo miestą5  ir paėmė Pskovo miestus
-    Veližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami,
-    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
-    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
-    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
-    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
-    (07
+    Numatė vokie­
+    čiai, kad lenkai ir lietuviai su tokia daugybe kariuo­
+    menės niekur kitur negalės išsirikiuoti, kaip tik šiame
+    lauke, ir todėl prikasė duobių ir pridengė velėnomis,
+    kad žirgai ir žmonės į jas įgriūtų3.
+    Karalius Jogaila ir didysis kunigaikštis Vytautas, su
+    savo kariuomenėmis perėję per miškus, priėjo tuos
+    Dubrovnos laukus. Tuo metu Jogailos kariuomenėje
+    didžiuoju etmonu buvo ponas Sokolas Čekas \ o kiemo
+    etmonu 5 — ponas Spytka Spytkovičius 6. O Vytauto ka­
+    riuomenėje didžiuoju etmonu buvo kunigaikštis Jonas
+    2adivydas7, Jogailos ir Vytauto brolis8, o kiemo et­
+    monu — ponas Jonas Goštautas9.
+    Kai tie anksčiau minėti etmonai pradėjo rikiuoti
+    žmones, apie tas duobes, kurias jiems vokiečiai iškasė.
 
-    ## Puslapis 103
-
-    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
-    jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
-    žygiavo prieš Naugardą.
+    nieko nežinojo, taigi, kariuomenę berikiuodami, di­
+    dieji etmonai — kunigaikštis Jonas Zadivydas ir ponas
+    Sokolas — įkrito į duobes ir nulūžo kojas, labai susi­
+    žeidė ir nuo to mirė; ir ne vien tik etmonai, bet ir dau­
+    gelis karių dėl tų duobių labai nukentėjo.
+  citata_rodoma: "Didysis kunigaikštis Vytautas, sutelkęs visas savo \npajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis \nmėnesius prie Porchovo miesto3  ir, nepaėmęs miesto, \nnuėjo per Naugardo ir Pskovo žemę niokodamas, de­\ngindamas ir imdamas nelaisvėn * .\nSekančiais metais didysis kunigaikštis Vytautas išsi­\nrengė prieš Pskovo miestą5  ir paėmė Pskovo miestus \nVeližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami, \nkad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­\nnius pas didįjį kunigaikštį Vytautą, kad jis būtų jų \nvaldovu, žadėjo jo klausyti ir kasmet mokėti jam duok­\nlę bei įsileisti jo vietininką, ir didysis kunigaikštis\n(07\n\n## Puslapis 103\n\npasodino pas juos vietininku Pinsko kunigaikštį Juri­\njų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­\nžygiavo prieš Naugardą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187587
-
-## Ryšiai
-- Užėmė Krasnyj Gorod: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

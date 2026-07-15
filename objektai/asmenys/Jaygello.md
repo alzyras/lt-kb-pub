@@ -34,8 +34,8 @@ Narbutas mini kritiko teiginį, kad Jaygello, Jargallo ir Pomoloys esą aiškiai
   teiginys: "Narbutas mini kritiko teiginį, kad Jaygello, Jargallo ir Pomoloys esą aiškiai lietuviški vardai."
   pagrindžia:
     - c-173113
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini kritiko teiginį, kad Jaygello, Jargallo ir Pomoloys esą aiškiai lietuviški vardai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -67,18 +67,21 @@ Narbutas mini kritiko teiginį, kad Jaygello, Jargallo ir Pomoloys esą aiškiai
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    433
-
-    ## Puslapis 433
-
-    būti tariama Mergo; Henenbergerio Ronis yra Romais -  visiš­
-    kai lietuviškas vardas; Bollojsus atsispindi pas mus pačius Lie­
-    tuvoje daugelyje vietovardžių -  Balčiai (Bolcie), Baltininkai
-    (Bolcieniki), Balaičiai (Bolojcie). Pagaliau kritikas, norėdamas
-    visiškai sugriauti vyriausiųjų žynių sąrašą, sako, kad Jaygello,
-    Jargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo
-    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
-    tuva kilties ir vienos genties broliai?
+    Apie juos senovės Graikijos
+    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
+    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
+    ir paties Herodoto išvardytų.
+    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
+    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
+    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
+    atskirą valstybę. Vėliau iš skandinavų legendų arba iš gana
+    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
+    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
+    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
+    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
+    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
+    mokėjo gana neblogai gintis.
+  citata_rodoma: "433\n\n## Puslapis 433\n\nbūti tariama Mergo; Henenbergerio Ronis yra Romais -  visiš­\nkai lietuviškas vardas; Bollojsus atsispindi pas mus pačius Lie­\ntuvoje daugelyje vietovardžių -  Balčiai (Bolcie), Baltininkai\n(Bolcieniki), Balaičiai (Bolojcie). Pagaliau kritikas, norėdamas\nvisiškai sugriauti vyriausiųjų žynių sąrašą, sako, kad Jaygello,\nJargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo\nanų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­\ntuva kilties ir vienos genties broliai?"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

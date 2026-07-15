@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus. Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
+Kojelavičiaus pasakojime Maskvos kunigaikštis Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią sakėsi telkęs karui prieš skitus ir švedus. Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą. Prie Pasvalio sustojus kariuomenei, karalius įsakė Mikalojui Radvilai su lengvaisiais raiteliais įsiveržti į Livoniją ir nusiaubti priešo kraštą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-185750"></a>
 - t-001
   global_id: t-185750
-  teiginys: "Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus."
+  teiginys: "Kojelavičiaus pasakojime Maskvos kunigaikštis Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią sakėsi telkęs karui prieš skitus ir švedus."
   pagrindžia:
     - c-169111
 
@@ -55,65 +55,20 @@ Nenurodyta
   teiginys: "Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą."
   pagrindžia:
     - c-169112
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po magistro ir
-    kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš­
-    tus patvirtino savo parašais, be magistro, dar du rite­
-    rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom­
-    tūras, ir Kristupas iš Viljandžio, krašto maršalas.
-    Numalšinęs Livoniją ir iš­
-    siuntęs į Maskvą Palenkės
-    vaivadą Vasilijų Tiškevičių,
-    maršalą Mykolą Pašušvinskį
-    bei Lietuvos raštininką Joną
-    Gaiką, turėjusius derėtis su
-    maskvėnais dėl taikos, kara­
-    lius iš stovyklos patraukė į
-    Lenkiją, manydamas, jog ateina visuotinės ramybės me­
-    tas. Tuo tarpu Maskvos kunigaikštis Ivanas netikėtai įsi­
-    veržė į Livoniją su visa kariuomene, kurią sakėsi telkęs
-    karui prieš skitus ir švedus, baimindamasis, matyt, kad
-    Augustas pirmas neužimtų šio krašto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196221"></a>
+- t-003
+  global_id: t-196221
+  teiginys: "Prie Pasvalio sustojus kariuomenei, karalius įsakė Mikalojui Radvilai su lengvaisiais raiteliais įsiveržti į Livoniją ir nusiaubti priešo kraštą."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Maskvėnai, į šį žygį patraukę
-    su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
-    didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
-    Viljandyje į priešų rankas pakliuvo pats magistras Fiur-
-    stenbergas, bet niekur neradau parašyta, ar gyvas, ar
-    žuvęs. Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
-    apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
-    kų kolegiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-178583
 
 ## Citatos
 
 - id: c-169111
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 699"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 699."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Po magistro ir
     kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš­
@@ -143,20 +98,55 @@ Nenurodyta
 - id: c-169112
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 699"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 699."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Maskvėnai, į šį žygį patraukę
-    su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
-    didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
-    Viljandyje į priešų rankas pakliuvo pats magistras Fiur-
-    stenbergas, bet niekur neradau parašyta, ar gyvas, ar
-    žuvęs. Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
-    apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
-    kų kolegiją.
+    Iš žvalgų sužino­
+    jęs, kokia didžiulė karaliaus kariuomenė, bemat paliovė
+    galvojęs apie karą ir, tarpininkaujamas imperatoriaus
+    Ferdinando pasiuntinio, buvusio magistro stovykloje,
+    paprašė taikos, maldaudamas atleisti už tai, ką buvo
+    padaręs. Karalius, išleidęs šiam karo žygiui galybę pi­
+    nigų, ne taip jau labai norėjo siūlomos taikos, kuri jam
+    rodėsi būsianti kol kas tik nuostolinga. Kadangi už
+    pergalę reikėtų mokėti nekaltų žmonių krauju ir gy­
+    vybe, jis pasiuntiniui vis dėlto atsakė, jog nepriešta­
+    rausiąs taikai, jeigu magistras asmeniškai jos paprašy­
+    siąs ir kuo greičiausiai paleisiąs iš kalėjimo bei sugrą­
+    žinsiąs į sostą arkivyskupą.
+  citata_rodoma: "Maskvėnai, į šį žygį patraukę\nsu šimtu dvidešimt tūkstančių vyrų, netrukus užėmė\ndidelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.\nViljandyje į priešų rankas pakliuvo pats magistras Fiur-\nstenbergas, bet niekur neradau parašyta, ar gyvas, ar\nžuvęs. Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei\napygardos valdytoją Dorpato vyskupą ir visą dvasinin­\nkų kolegiją."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185751
+
+- id: c-178583
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kai pulkai sustojo
+    S ė k m in g a s ž y g is į Li-
+    prie Pasvalio, įsakė Mikalo-
+    v o n iją
+    j ui Radvilai patraukti į prie­
+    kį su lengvųjų raitelių vėlia­
+    vomis, įsibrauti į Livoniją ir nusiaubti priešo kraštą.
+    Fiurstenbergas pasiryžo iš paskutiniųjų ginti savo žemę
+    ir tam tikslui sutelkė aštuonis tūkstančius samdytinės
+    raitijos bei kelis tūkstančius pėstininkų, greitosiomis
+    sutelktų ir apginkluotų kaimiečių. Jis nė nemanė, jog
+    karalius jį užpuls visomis jėgomis, ir todėl vylėsi galė­
+    siąs atsilaikyti su turima kariuomene. Iš žvalgų sužino­
+    jęs, kokia didžiulė karaliaus kariuomenė, bemat paliovė
+    galvojęs apie karą ir, tarpininkaujamas imperatoriaus
+    Ferdinando pasiuntinio, buvusio magistro stovykloje,
+    paprašė taikos, maldaudamas atleisti už tai, ką buvo
+    padaręs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196221

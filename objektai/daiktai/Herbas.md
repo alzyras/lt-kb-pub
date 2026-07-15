@@ -2,6 +2,7 @@
 tipas: daiktas
 pavadinimas: 'Herbas'
 saltiniai:
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -85,13 +86,20 @@ Nenurodyta
   teiginys: "Kiekvienas bajoras, kuris turėjo herbą, su to pačio herbo bajoru skaitėsi gi minėmis; buvo suteikta teisė ir abipusėms vedyboms."
   pagrindžia:
     - c-177341
+
+<a id="claim-t-200761"></a>
+- t-005
+  global_id: t-200761
+  teiginys: "Aprašomoje akmens kompozicijoje herbas išskirtas užtikrintu ir raiškiu kalto darbu."
+  pagrindžia:
+    - c-184106
 - susijęs iš [[objektai/asmenys/Alcis.md#claim-t-190049|Alcis]]: Narbutas su Alciu lygina Vilniaus herbui priskiriamą šarvuotą riterį, kuris remiasi į nulaužtą medžio kamieną ir laiko pasagą primenantį daiktą.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-190846|Algirdas (Lietuvos valdovas)]]: Narbutas mini Algirdo privilegijos nuorašą, kuriuo patvirtinta riteriška kilmė ir herbas su strėlių ryšuliu raudoname lauke.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188533|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas, remdamasis Strijkovskiu, mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-190856|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad 1841 m. prie Druskininkų rastoje monetoje vienoje pusėje buvo Gedimino šeimos herbas Stulpai.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-190857|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad prie Kauno rasta senovinė lietuviška moneta vienoje pusėje turėjo Gediminaičių herbą Stulpai ir neaiškią raidę.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-190858|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad 1302 m. Gediminas suteikė herbą Krunevičiui, nors toks paprotys lietuviams nebuvęs būdingas.
-- susijęs iš [[objektai/asmenys/Julijonas Dausprungas.md#claim-t-186050|Julijonas Dausprungas]]: Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip vienas iš kilmingųjų italų vadų, kurio giminės herbas buvo Kentauras.
+- susijęs iš [[objektai/asmenys/Jonas Feliksas Pacas.md#claim-t-200869|Jonas Feliksas Pacas]]: Jonas Feliksas Pacas buvo Šv. Kotrynos bažnyčios sumanytojas ir fundatorius, o jo herbas bei devizai puošė bažnyčios fasadą.
 - susijęs iš [[objektai/asmenys/Kasparas Neseckis.md#claim-t-191212|Kasparas Neseckis]]: Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą herbą.
 - susijęs iš [[objektai/asmenys/Malachovskis.md#claim-t-190233|Malachovskis]]: Narbutas nurodo, kad Malachovskis savo bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą, bet šaltinio neįvardijo.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188597|Motiejus Strijkovskis]]: Narbutas rašo, kad, Strijkovskio teigimu, kai kurios Lietuvos kunigaikščių giminės turėjo tikrus savo herbus.
@@ -105,22 +113,16 @@ Nenurodyta
 - susijęs iš [[objektai/autoriai/Malachovskis.md#claim-t-190440|Malachovskis]]: Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą.
 - susijęs iš [[objektai/autoriai/Petras Malachovskis.md#claim-t-191615|Petras Malachovskis]]: Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą.
 - susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190287|Tadas Volianskis]]: Narbutas pagal Volianskio šifruotę runų užrašą siejo su Vaivedučio vardu, bet nežinojo, ar jis skirtas vėliavai, ar herbui.
-- susijęs iš [[objektai/daiktai/Dubnia herbas.md#claim-t-186864|Dubnia herbas]]: Pagal herbynus Davainų giminės ženklas buvo ne Dubnios, o į Seligos herbą panašus kryžius gulsčiame pusmėnulyje.
 - susijęs iš [[objektai/daiktai/Dubnia herbas.md#claim-t-186865|Dubnia herbas]]: Dubnios herbas buvo Habdanko herbo atmaina su baltu kryžiumi raudoname skyde ir kryžiumi tarp dviejų jaučio ragų virš skydo.
 - susijęs iš [[objektai/daiktai/Habdankas.md#claim-t-186862|Habdankas]]: Habdanko ženklas sudarė Dubnios herbo atmainos detalę: baltą W raidę apatiniame kairiajame raudono skydo kampe.
-- susijęs iš [[objektai/daiktai/Habdankas.md#claim-t-186863|Habdankas]]: Habdankas buvo senovinis lenkų bajorų herbas su sidabriniu W raidę primenančiu ženklu raudoname lauke.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12290|Herbai]]: Turintieji tą patį herbą buvo laikomi giminėmis, jiems leistos abipusės vedybos, o tai suartino abiejų valstybių aukštąjį luomą.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92962|Herbai]]: Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92964|Herbai]]: LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.
-- susijęs iš [[objektai/daiktai/Kentauro herbas.md#claim-t-186855|Kentauro herbas]]: M. Strijkovskio kronikos citatoje Kukovaitis vadinamas Živinbudo sūnumi iš Kentauro herbo giminės.
 - susijęs iš [[objektai/daiktai/Lietuvos herbas Vytis.md#claim-t-77927|Lietuvos herbas Vytis]]: 1922 m. Lietuvos Valstybės Konstitucijoje herbu liko baltas Vytis raudoname fone.
-- susijęs iš [[objektai/daiktai/Seligos herbas.md#claim-t-186866|Seligos herbas]]: Komentare Seligos herbas aprašomas kaip kryžius, įstatytas į gulsčią pusmėnulį, panašus į Davainų giminės ženklą.
-- susijęs iš [[objektai/daiktai/Stulpai.md#claim-t-185849|Stulpai]]: Kojelavičiaus pasakojime Palemonas ir Prosperas Cezarinas buvo siejami su Stulpų herbu.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu.md#claim-t-87061|Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]: 1548 metais Vilniaus miesto herbas buvo šv. Kristoforo atvaizdas raudoname fone.
-- susijęs iš [[objektai/daiktai/Vytis.md#claim-t-186858|Vytis]]: Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas.
+- susijęs iš [[objektai/daiktai/Vytis.md#claim-t-186858|Vytis]]: 1971 m. leidimo komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-187706|Gediminaičių dinastija]]: Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-188187|Gediminaičių dinastija]]: Prie Kauno rastoje senovinėje lietuviškoje monetoje Narbutas vienoje pusėje nurodė Gediminaičių Stulpų herbą ir neaiškią raidę.
-- susijęs iš [[objektai/grupes/Kentauro herbo dinastija.md#claim-t-187771|Kentauro herbo dinastija]]: Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiams, Lietuvos sostas atiteko Vyteniui.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188319|Prūsai]]: Narbutas rašo, kad kitas tautinis prūsų herbas vaizdavo dvi karališkas karūnas vieną virš kitos, o apatinė karūna buvo apversta.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-188322|Radvilos]]: Šalia aprašyto antspaudo buvo kitas antspaudas su skyde pavaizduotu Vyčiu po karūna ir apačioje esančiu Radvilų Trimitų herbu.
 - susijęs iš [[objektai/grupes/Sapiegų giminė.md#claim-t-188330|Sapiegų giminė]]: Neseckis teigė, kad Sapiegų giminės protėvio herbe buvo pavaizduotos trys lelijos.
@@ -140,9 +142,9 @@ Nenurodyta
 - susijęs iš Nesvyžius: Nesvyžiaus Radvilų liejykloje 1602 m. buvo nulieta patranka su Radvilų herbu ir užrašu.
 - susijęs iš Podbužo dvaras: Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas Ostapui Kropotkovui už nuopelnus kare su totoriais.
 - susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai senovės prūsų herbo kilmę siejo su Vaidevučio laikais.
-- susijęs iš Vilnius: Narbutas senajame Vilniaus miesto herbe matė milžiną Alcį, žengiantį per vandenį su moterimi ant pečių.
 - susijęs iš Vilnius: VI lentelės 40-ajame piešinyje Narbutas nurodė Vilniaus miesto senovinį herbą.
 - susijęs iš [[objektai/zodynas/Kiniglis.md#claim-t-192330|Kiniglis]]: Narbutas „Kiniglis“ mini kaip senojo lenkų herbo pavadinimą, kuriame matė lietuvių kalbai būdingų elementų.
+- susijęs iš [[objektai/grupes/Kentauro herbo dinastija.md#claim-t-198583|Kentauro herbo dinastija]]: Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiams, Lietuvos sostas atiteko Vyteniui.
 - susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui.md#claim-t-192032|Gedimino herbo suteikimas Krunevičiui]]: Narbutas pateikia 1302 m. Gedimino Krunevičiui duotą herbą kaip pavyzdį, kad didieji kunigaikščiai kartais suteikdavo herbus slavų giminėms.
 - susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192037|Herbo suteikimas Ostapui Kropotkovui]]: 1354 m. rugpjūčio 7 d. Vilniuje Ostapui Kropotkovui buvo duotas herbas kartu su Podbužo dvaru Voluinėje.
 - susijęs iš [[objektai/asmenys/Aaronas.md#claim-t-87604|Aaronas]]: Aaronas buvo pirmasis Tyneco abatas ir vėliau septintasis Krokuvos vyskupas, miręs 1059 m. spalio 9 d.
@@ -156,6 +158,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Krunevičius.md#claim-t-190177|Krunevičius]]: Narbutas nurodė, kad Malachovskis pateikė žinių apie Gedimino suteiktą herbą Krunevičiui, bet šaltinis jam buvo neaiškus.
 - susijęs iš [[objektai/asmenys/Krunevičius.md#claim-t-190913|Krunevičius]]: Malachovskis pateikė žinių, kad Gediminas suteikė herbą Krunevičiui, nors Narbutas nurodo neaiškų šio teiginio šaltinį.
 - susijęs iš [[objektai/asmenys/Neseckis.md#claim-t-190189|Neseckis]]: Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui.
+- susijęs iš [[objektai/asmenys/Steponas Kristupas Pacas.md#claim-t-200863|Steponas Kristupas Pacas]]: Kristupas Pacas keliaudamas po Italiją ir Nyderlandus studijavo meno paminklus, pažinojo Rubensą ir lankydavosi jo dirbtuvėje Antverpene.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-190999|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas nurodo turėjęs Švitrigailos 1451 m. privilegijos nuorašą, kuriame pakartota 1439 m. Vytauto privilegija.
 - susijęs iš [[objektai/asmenys/Šv. Jurgis.md#claim-t-191494|Šv. Jurgis]]: Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietimi smeigiantis drakoną.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-191006|Švitrigaila]]: Švitrigailos 1451 m. vasario 18 d. Lucke datuota privilegija, Narbuto teigimu, pakartojo Vytauto privilegiją ir atnaujino Algirdo privilegiją.
@@ -171,7 +174,7 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Vienaragis (pabūklas).md#claim-t-40778|Vienaragis (pabūklas)]]: 1831 m. sukilimo laikotarpiu Rusijos artilerija naudojo „jedinorog“, arba „vienaragio“, tipo pabūklus.
 - susijęs iš [[objektai/daiktai/Vytis.md#claim-t-186859|Vytis]]: Atkuriant Lietuvos valstybę sovietinį Lietuvos SSR herbą pakeitė Vytis.
 - susijęs iš [[objektai/daiktai/Zigmanto Augusto pinigai.md#claim-t-65013|Zigmanto Augusto pinigai]]: Visuose Zigmanto Augusto piniguose buvo įrašas „Moneta magni ducatus Lithuaniae“.
-- susijęs iš [[objektai/grupes/Italų ateiviai.md#claim-t-185426|Italų ateiviai]]: Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki šimtai kilmingųjų.
+- susijęs iš [[objektai/grupes/Italų ateiviai.md#claim-t-185426|Italų ateiviai]]: Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu iš Italijos po hunų nusiaubimų 924 metais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190608|Lietuviai]]: Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192432|Lietuviai]]: Teodoro Narbuto teigimu, herbų suteikimo paprotys lietuviams nebuvo būdingas, nors Lietuvoje šeimos herbai egzistavo bent nuo Gedimino laikų.
 - susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-188284|Lietuvos bajorija]]: Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį.
@@ -183,10 +186,11 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Druskininkų kapavietėje rastos monetos radimas.md#claim-t-192027|Druskininkų kapavietėje rastos monetos radimas]]: 1841 m. prie Druskininkų tik ką atkastoje kapavietėje, lauke su gausiais laidojimais, buvo rasta moneta.
 - susijęs iš [[objektai/ivykiai/Druskininkų kapavietėje rastos monetos radimas.md#claim-t-192028|Druskininkų kapavietėje rastos monetos radimas]]: Vienoje prie Druskininkų rastos monetos pusėje pavaizduoti Gedimino Stulpai, o kita pusė buvo gerokai pažeista.
 - susijęs iš [[objektai/ivykiai/Druskininkų kapavietėje rastos monetos radimas.md#claim-t-192486|Druskininkų kapavietėje rastos monetos radimas]]: 1841 m. prie Druskininkų tik ką atkastoje kapavietėje buvo rasta moneta.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187492|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Mokslinėje literatūroje legendine vadinama Platesniojo sąvado dalis iki Kęstučio ir Algirdo sąmokslo prieš Jaunutį 1345 m.
+- susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187492|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Mokslinėje literatūroje pradinė Platesniojo sąvado dalis iki 1345 m. Kęstučio ir Algirdo sąmokslo prieš Jaunutį vadinama legendine.
 - susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187494|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Kęstučio ir Algirdo sąmokslas prieš brolį Jaunutį datuojamas 1345 metais.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-75162|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.).md#claim-t-75168|Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]: Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta.
+- susijęs iš [[objektai/ivykiai/Šv. Kotrynos bažnyčios statybos užbaigimas.md#claim-t-200842|Šv. Kotrynos bažnyčios statybos užbaigimas]]: Šv. Kotrynos bažnyčios statybą 1743 metais galutinai užbaigė tuo metu Vilniuje garsus architektorius Jonas Kristupas Glaubicas.
 - susijęs iš [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu.md#claim-t-54745|Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]: M. Balińskis abejojo teiginiu, kad 1548 m. Vilniaus miestiečiai galėjo naudoti antspaudą su pagonių milžinu Alkiu.
 - susijęs iš [[objektai/posakiai/„kad yra atstatomas 1940 metais svetimos jėgos panaikintas Lietuvos Valstybės suverenių galių vykdymas...“.md#claim-t-20903|„kad yra atstatomas 1940 metais svetimos jėgos panaikintas Lietuvos Valstybės suverenių galių vykdymas...“]]: Lietuvos nepriklausomybės atkūrimo Aktas paskelbė, kad atkuriamas 1940 m. svetimos jėgos panaikintas Lietuvos valstybės suverenių galių vykdymas.
 - susijęs iš Mogiliavo Magdeburgo teisės privilegija: 1578 m. sausio 28 d. Steponas Batoras suteikė Mogiliavui privilegiją, kuria miestas gavo Magdeburgo teisę.
@@ -204,7 +208,6 @@ Nenurodyta
 - susijęs iš Prūsa: Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.
 - susijęs iš Prūsija: Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
 - susijęs iš Prūsija: Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.
-- susijęs iš Vilnius: Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.
 - susijęs iš Vilnius: Algirdo privilegijos nuoraše minimas Ostapui Kropotkovui suteiktas herbas buvo datuotas Vilniuje 1354 metų rugpjūčio 7 dieną.
 - susijęs iš Voluinė: Švitrigailos privilegijos nuoraše nurodyta, kad Ostapui Kropotkovui herbas duotas kartu su Podbužo dvaru Voluinėje.
 - susijęs iš [[objektai/zodynas/patricijus.md#claim-t-187558|patricijus]]: Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Romos patricijų, tarp jų keturių patricijų giminių atstovai.
@@ -212,86 +215,6 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Druskininkų kapavietėje rastos monetos radimas.md#claim-t-192028|Druskininkų kapavietėje rastos monetos radimas]]: Vienoje prie Druskininkų rastos monetos pusėje pavaizduoti Gedimino Stulpai, o kita pusė buvo gerokai pažeista.
 - susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui.md#claim-t-192031|Gedimino herbo suteikimas Krunevičiui]]: Narbuto aiškinimu, 1302 m. Gedimino Krunevičiui duotas herbas siejamas su lietuviams nebūdingu herbų suteikimo papročiu.
 - susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192036|Herbo suteikimas Ostapui Kropotkovui]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Įdomiausias unijos paragrafas (18) tai tas, kuriuo buvo su­
-    teikta 47 lietuviams bajorams 47 lenkų bajorų herbai^2 ). Tuo bu­
-    vo padarytas lietuvių lenkų giminystės bei moralinis ryšys, pa­
-    daręs tiek daug žalos Lietuvai ištautėjimo pavidale. Kiekvienas
-    bajoras, kuris turėjo herbą, su to pačio herbo bajoru skaitėsi gi­
-    minėmis; buvo suteikta teisė ir abipusėms vedyboms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas rašo, kad Algirdo privilegija patvirtino Ostapo Kropotkovo riterišką kilmę ir herbą, duotą su Podbužo dvaru Voluinėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Rankoje turiu nuorašą Švitrigailos
-    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
-    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
-    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
-    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
-    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
-    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
-    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
-    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais. Datuotas
-    Vilniuje 1354 metų rugpjūčio 7 dieną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: '180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/ Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302 metais Gediminas davė Krunevičiui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/
-    Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;
-    tokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys
-    lietuviams nebuvo būdingas, bet kai kurios riterių šeimos, pri­
-    klausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), ga­
-    lėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Len­
-    kijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
-    Lietuvoje šeimos herbai egzistavo70.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Kiekvienas bajoras, kuris turėjo herbą, su to pačio herbo bajoru skaitėsi gi minėmis; buvo suteikta teisė ir abipusėms vedyboms.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kiekvienas
-    bajoras, kuris turėjo herbą, su to pačio herbo bajoru skaitėsi gi­
-    minėmis; buvo suteikta teisė ir abipusėms vedyboms. Tuo keliu
-    liko abiejų valstybių aukštasis luomas suartintas. Iš čia prasi­
-    dėjo bičiulystės, kurios padėjo mūsų bajorijai sulenkėti, dėl
-    ko Lietuva ir neteko savo tautiškos aristokratijos. Šis unijos
-    punktas ir bus buvęs vienas iš žalingiausių mūsų kraštui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-35797
@@ -316,8 +239,7 @@ Nenurodyta
 - id: c-175288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 510"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Rankoje turiu nuorašą Švitrigailos
     privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
@@ -339,8 +261,7 @@ Nenurodyta
 - id: c-177266
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 509"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 509."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/
     Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;
@@ -376,6 +297,23 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194945
+
+- id: c-184106
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 28"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 28."
+  citata_originali: |
+    Masyvūs priegalvio bruožai įspūdingai ir galingai kontrastuoja
+    su gausiomis visos kompozicijos statmeninėmis.
+    Be galo meistriškas yra akmens apdirbimas; užtikrintai, raiškiai ir rūpes­
+    tingai kaltas formuoja detales — pav., išskirdamas herbą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200761
 
 ## Ryšiai
 - Herbas priklausė [[objektai/asmenys/Ostapas Kropotkovas]], [[objektai/vietos/Vilnius]]

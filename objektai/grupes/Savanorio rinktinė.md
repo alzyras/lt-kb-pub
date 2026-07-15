@@ -41,24 +41,6 @@ Po rinktinės vado suėmimo J.
   teiginys: "Po rinktinės vado suėmimo J. Paliūnas pakrikusius partizanus suorganizavo į Savanorio rinktinę."
   pagrindžia:
     - c-40808
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po rinktinės vado suėmimo J. Paliūnas pakrikusius partizanus suorganizavo į Savanorio rinktinę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po rinktinės vado suėmimo J. Paliūnui
-    pavyko pakrikusius partizanus suorganizuoti į Savano-
-    rio rinktinę. 1948 m. Jungtinė Kęstučio apygarda (ku-
-    riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir
-    Prisikėlimo apygardas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

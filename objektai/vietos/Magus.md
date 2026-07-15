@@ -43,28 +43,6 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
   teiginys: "Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais."
   pagrindžia:
     - c-33938
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'-
-    Idrisi (1100-66 m.), kuris, gyvendamas Sicilijos Rogero II dvare,
-    susirankiojęs žinių iš pirklių, keliautojų ir piligrimų, esąs savo vei­
-    kale (« Rogero knygoje »), skyriuje apie rytų Pabaltijį, jau pami­
-    nėjęs Kauną. Iš arabų kalbos verčiant tekstą, jis yra įvairiai tran­
-    skribuojamas : Qanya (Kaniya), Qaynu (Kaynu), ar net Kabnu.
-    Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­
-    lapyje minima žemė « Magus », t. y. ugnies garbintojų, yra laikoma
-    lietuvių-latvių plotais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

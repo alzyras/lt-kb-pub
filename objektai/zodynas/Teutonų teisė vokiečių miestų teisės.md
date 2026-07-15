@@ -44,34 +44,6 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
   teiginys: "Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a."
   pagrindžia:
     - c-82621
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tad jau
-    nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
-    tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­
-    linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­
-    čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
-    dajam. Poznanė dar anksčiau už Krokuvą - 1253 metais,
-    Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
-    ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
-    teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
-    1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus. Išsi­
-    laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­
-    tai, sykiu su teutonų teise suvieniję atleidimą nuo įvairių duok­
-    lių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą
-    miesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­
-    zacijos požiūriu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -61,42 +61,6 @@ Nenurodyta
   teiginys: "Draugija Užsienio Lietuviams Remti rūpinosi lietuviškomis mokyklomis, mokytojais ir knygomis išeivių bibliotekoms."
   pagrindžia:
     - c-01848
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Draugija Užsienio Lietuviams Remti rūpinosi lietuviškomis mokyklomis, mokytojais ir knygomis išeivių bibliotekoms.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    (Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune. Tarp kitko jis
-    nutarė įkurti Pasaulio Lietuvių Sąjungą).
-    Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
-    lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
-    siunčia išeivių bibliotekoms knygų ir vadovėlių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tam tikslui 1932 m. įsikūrė Draugija
-    Užsienio Lietuviams Remti (DULR). Draugijos tik-
-    slas — remti užsieny gyvenančius lietuvius kultūriškai, o kiek galint
-    ir materialiai. Rūpindamasi, kad kraštas palaikytų su išeiviais kuo
-    artimiausią ryšį, draugija padeda į Lietuvą atvykstančioms išeivių
-    ekskursijoms, suartina panašias užsienio lietuvių ir Lietuvos orga-
-    nizacijas, padeda susitikti sportininkams ir pasirodyti menininkams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

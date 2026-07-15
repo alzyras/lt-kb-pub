@@ -43,30 +43,6 @@ media_all_json: |-
   teiginys: "Popiežiui Pijui XII buvo skirtas 1947 m. pabaigoje į laisvąjį pasaulį nugabentas partizanų vadovybės laiškas."
   pagrindžia:
     - c-21939
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pereita prie įprasto
-    partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir
-    šnipų naikinimo. Tuo laikotarpiu okupacinė valdžia kovai su partizanais
-    vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių par-
-    tizanų ir MGB kadrinių karininkų) būrius.
-    1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras
-    Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-
-    tizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios
-    ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką
-    popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
-    dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
-    SSRS nutrauktų terorą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

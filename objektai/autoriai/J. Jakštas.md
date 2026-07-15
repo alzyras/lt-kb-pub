@@ -58,29 +58,6 @@ Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje ist
 - susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-00084|Zenonas Ivinskis]]: Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo.
 - susijęs iš [[objektai/ivykiai/Strėvos mūšis (1348 m.).md#claim-t-10299|Strėvos mūšis (1348 m.)]]: Strėvos mūšis, nors ir nuostolingas, prisidėjo prie galingo Ordino spaudimo atremimo.
 - susijęs iš Clevelandas: Nuo 1949 m. J. Jakštas emigracijoje gyveno Clevelande ir produktyviai reiškėsi Lietuvos istorijos lauke.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje viduramžių istorijoje, kurią docento teisėmis dėstė Vilniaus universitete 1940–1944 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos istorijos dirvone gana pozityviu būdu pasirodė J.
-    Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis
-    visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento
-    teisėmis dėstė 1940-1943 [44] Vilniaus universitete.
-    Jakštas paskelbė originalią ir kritišką studiją apie vokiečių
-    ordiną ir Lietuvą Vytenio ir Gedimino laikais (JakG). Ten jis, be
-    kitko, davė naują aiškinimą Gedimino laiškų atsiradimo. Taip pat
-    gana apdairiai ir išsamiai jis žvelgė į Jogailos ir Vytauto kovas
-    su vokie čiu ordinu (JoŠ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-03986

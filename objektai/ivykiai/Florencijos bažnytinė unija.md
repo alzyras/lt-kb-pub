@@ -58,26 +58,6 @@ Nenurodyta
   pagrindžia:
     - c-26619
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116731|Katalikų Bažnyčia]]: Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
-    ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
-    Katalikų bažnyčia. Tačiau popiežiai labai atsargiai steigė arkivyskupijas
-    ir bažnytines provincijas, o Rytų ir Vakarų bažnyčių neįstengė sujungti
-    netrukus po Vytauto mirties įvykusi Florencijos bažnytinė unija (1439).
-    Tačiau Vytauto bažnytinė politika padėjo pagrindus tolesniam Lietuvos
-    krikščionėjimui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-26619

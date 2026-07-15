@@ -8,12 +8,12 @@ datos:
   - '1979 m.'
 date_start: '1978'
 date_end: '1979'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,8 @@ Dusburgietis teigia, kad labuda G.
   teiginys: "G. Labudos publikacija apie baltų gyventojų apgyvendinimą kairiajame žemutinės Vyslos krante išspausdinta 1979 m. „Konferencja pomorska“ leidinyje."
   pagrindžia:
     - c-61757
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'G. Labudos publikacija apie baltų gyventojų apgyvendinimą kairiajame žemutinės Vyslos krante išspausdinta 1979 m. „Konferencja pomorska“ leidinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,12 +63,13 @@ Dusburgietis teigia, kad labuda G.
 - id: c-61757
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Labuda G. Zagadnienie osadnictwa ludności baltyjskiej na lewym brzegu dolnej Wisły
-    we wczesnym średniowieczu: Komunikat.—Konferencja pomorska (1978), Wrocław—
-    Warszawa— Kraków—Gdańsk, 1979, s. 13—34.
+    Piętka J. Geneza mazowieckiej elity feudalnej i jej stan w pierwszym okresie
+    niezależności księstwa (1138—1371).— Rocznik mazowiecki, Warszawa, 1979, t. 7, s.
+    31—56.
+    Plinius C. Secundus Naturalis historiae libri XXXVII/Ed. C. Mayhoff.
+  citata_rodoma: "Labuda G. Zagadnienie osadnictwa ludności baltyjskiej na lewym brzegu dolnej Wisły\nwe wczesnym średniowieczu: Komunikat.—Konferencja pomorska (1978), Wrocław—\nWarszawa— Kraków—Gdańsk, 1979, s. 13—34."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

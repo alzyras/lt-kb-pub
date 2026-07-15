@@ -30,7 +30,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Redakcinė pastaba nurodo, kad Kazimieras susirgo po 1492.V.8 Trakuose vykdamas iš Vilniaus į Gardiną. Redakcinė pastaba nurodo, kad nuo 1492 m. gegužės 16 d. Kazimieras tikrai buvo Gardine.
+Kazimieras Jogailaitis nuo 1492 m. gegužės 16 d. buvo Gardine. Kazimieras Jogailaitis po 1492 m. gegužės 8 d. Trakuose susirgo vidurių liga keliaudamas iš Vilniaus į Gardiną.
 
 ## Laikotarpis ir datos
 
@@ -59,32 +59,16 @@ Nenurodyta
 <a id="claim-t-186768"></a>
 - t-001
   global_id: t-186768
-  teiginys: "Nuo 1492 m. gegužės 16 d. Kazimieras Jogailaitis tikrai buvo Gardine."
+  teiginys: "Kazimieras Jogailaitis nuo 1492 m. gegužės 16 d. buvo Gardine."
   pagrindžia:
     - c-169971
 
 <a id="claim-t-186769"></a>
 - t-002
   global_id: t-186769
-  teiginys: "Kazimieras Jogailaitis susirgo vidurių liga po 1492 m. gegužės 8 d. Trakuose, kelionėje iš Vilniaus į Gardiną."
+  teiginys: "Kazimieras Jogailaitis po 1492 m. gegužės 8 d. Trakuose susirgo vidurių liga keliaudamas iš Vilniaus į Gardiną."
   pagrindžia:
     - c-169971
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    4  Karalius Kazimieras susirgo Vidurių liga po 1492.V.8 Trakuo­
-    se, kelionėje Iš Vilniaus j Gardiną. Tikrai buvo G ardine nuo 1492 m.
-    gegužės 16 d. (F. Papėe, Polska i Litwa. I, p. 404).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -93,8 +77,8 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    4  Karalius Kazimieras susirgo Vidurių liga po 1492.V.8 Trakuo­
-    se, kelionėje Iš Vilniaus j Gardiną. Tikrai buvo G ardine nuo 1492 m.
+    4 Karalius Kazimieras susirgo Vidurių liga po 1492.V.8 Trakuo­
+    se, kelionėje Iš Vilniaus j Gardiną. Tikrai buvo Gardine nuo 1492 m.
     gegužės 16 d. (F. Papėe, Polska i Litwa. I, p. 404).
   citata_rodoma: "4  Karalius Kazimieras susirgo Vidurių liga po 1492.V.8 Trakuo­\nse, kelionėje Iš Vilniaus j Gardiną. Tikrai buvo G ardine nuo 1492 m. \ngegužės 16 d. (F. Papėe, Polska i Litwa. I, p. 404)."
   statusas: verified
@@ -102,5 +86,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186769
     - t-186768
+    - t-186769

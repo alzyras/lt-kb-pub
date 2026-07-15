@@ -43,29 +43,6 @@ media_all_json: |-
   pagrindžia:
     - c-26679
 - susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75845|Ignotas Masalskis]]: 1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti jo rūmus Verkiuose.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Klasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-
-    jos stiliumi. Lietuvoje Apšvietos ir klasicizmo žingsniai iš esmės buvo to
-    paties istorinio proceso dalys. 1769 m. vienas iš klasicizmo architektūros
-
-    L I E T U V O S  I S T O R I J A
-    90
-    pradininkų Lietuvoje Martynas Knakfusas (Marcin Knackfus, apie 1740–
-    1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus
-    vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus
-    Verkiuose, vieną iš ryškiausių klasicizmo paminklų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-26679

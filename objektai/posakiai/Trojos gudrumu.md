@@ -42,37 +42,6 @@ Planas buvo išduotas, ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.
   teiginys: "Vytauto planas „Trojos gudrumu“ netikėtai užimti Vilnių buvo išduotas, todėl sostinėje įsitvirtinti nepavyko."
   pagrindžia:
     - c-167732
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Reikėjo netikėtai užimti Vilnių. Planas buvo išduotas,
-    ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko. Bet virtęs
-    atviru sąmokslininku, Vytautas jau nebegalėjo pasilikti Lucke.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vytauto planas „Trojos gudrumu“ netikėtai užimti Vilnių buvo išduotas, todėl sostinėje įsitvirtinti nepavyko.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš Liublino sugrįžęs Luckan, Vytautas ryžosi platesnei kovai,
-    kurios pasisekimas turėjo reikšti visos didžiosios kunigaikštijos
-    laimėjimą. Reikėjo netikėtai užimti Vilnių. Planas buvo išduotas,
-    ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

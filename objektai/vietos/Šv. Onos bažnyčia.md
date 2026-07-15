@@ -43,28 +43,6 @@ Onos bažnyčios atsiradimo žr.
 - susijęs iš Radvilų archyvo dekretų ir laiškų originalai: Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui.
 - susijęs iš Stepono Batoro 1576 m. gruodžio 20 d. laiškas: Stepono Batoro parašo faksimilė paimta iš jo 1576 m. gruodžio 20 d. rašyto laiško.
 - susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Patartume peri­
-    odinių leidinių leidėjams rūpestin­
-    giau peržiūrėti jiems pateikiamus
-    rašinius, susijusius su Lietuvos isto­
-    rija, nes ji, deja, iki šiol mažiausiai
-    žinoma. Apie mūsų prielaidas dėl
-    Šv. Onos bažnyčios atsiradimo žr.
-    268 p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82266

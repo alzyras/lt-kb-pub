@@ -41,29 +41,6 @@ media_all_json: |-
   teiginys: "Žydų naikinimas kėlė didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje neteko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčiose, liaudyje jie paniekinamai vadinti „žydšaudžiais“."
   pagrindžia:
     - c-25046
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miš-
-    kus, įsijungė į antinacinę rezistenciją – sovietų partizanų būrius, kur, ne-
-    paisant susidūrimo su antisemitinėmis nuotaikomis, ėmėsi ginklo, daug
-    Lietuvos žydų kovojo SSRS gilumoje suformuotoje 16-ojoje lietuviškojoje
-    šaulių divizijoje.
-    1941 m. rudenį Lietuvos miestų ir miestelių centrai ištuštėjo, o žydų
-    namuose įsikūrė įstaigos arba apsigyveno nauji šeimininkai, naciai iš-
-    grobstė visas vertingiausias žydų kultūros vertybes. Žydų naikinimas kėlė
-    didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje nete-
-    ko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčio-
-    se, liaudyje jie paniekinamai vadinti „žydšaudžiais“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,25 +35,6 @@ g“ sel Flanguose Tercijos priekyje būdavo išrikiuojami išrikiuota muškieti
   teiginys: "Tercijos rikiuotės priekyje flanguose būdavo išrikiuojami muškietininkai."
   pagrindžia:
     - c-45553
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ie r. g“ sel
-
-    Flanguose Tercijos priekyje būdavo išrikiuojami
-    išrikiuota muškietininkai. Kitose tercijos rikiuotės
-    kavalerija vietose didžiąją dalį šaulių sudarė ne tokiais
-
-    galingais ginklais aprūpinti arkebuzieriai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

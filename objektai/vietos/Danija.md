@@ -8,6 +8,8 @@ datos:
   - '1570 m.'
 date_start: '1570'
 date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,8 +17,6 @@ tags:
   - jūra
   - valstybė
   - vieta
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -124,9 +124,9 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
 - susijęs iš [[objektai/daiktai/Kalavijai.md#claim-t-192500|Kalavijai]]: Narbutas pasakoja, kad Starkateras liepė apsiūti kalaviją plona oda, kad Vizino burtai jo nepaveiktų dvikovoje.
 - susijęs iš [[objektai/daiktai/Kalavijas.md#claim-t-192501|Kalavijas]]: Narbutas pasakoja, kad Starkateras liepė apsiūti kalaviją plona oda, kad Vizino burtai jo nepaveiktų dvikovoje.
+- susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-198563|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
 - susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas Daniją mini kaip kraštą, kuriame prie didžiųjų šventyklų susirinkdavo minios žmonių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -151,30 +151,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas Danijos pakrantes mini tarp vietų, kur randama pavienių gintaro gabalų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Jūra dažnai išmeta gintarą, prikibusį prie
-    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
-    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
-    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
-    skirtos nuo medžių žievės1.
-    152
-    Pavienių gintaro gabalų randama beveik visur: Lie­
-    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
-    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
-    balų išmesdavo Švedijos ežeras Maeleras. Kai kuriose Ja­
-    ponijos salose turėtų būti gintaro, nes tenykščiai gyven­
-    tojai žino, iš ko jis atsiranda2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Narbutas pasakoja, kad Frotono III sūnus Fridleifas, auklėtas Rusioje, padedamas rusnėnų karaliuko susigrąžino Danijos sostą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -198,62 +174,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   pagrindžia:
     - t-003
 
-- c-004
-  santrauka: 'Skandinavų padavimuose Starkateras vaizduojamas kaip auklėtas Danijos karaliaus Haroldo rūmuose kartu su karalaičiu Vikaru.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    236
-    Sklinda garsūs senoviniai skandinavų padavimai apie
-    didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
-    niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
-    ringumo žmogus. Jis buvo auklėjamas Danijos karaliaus
-    Haroldo rūmuose kartu su karalaičiu Vikaru. Sis Siaurės
-    didvyris pirmaisiais V amžiaus metais, kai Letrą, t. y. Da­
-    niją, valdė karaliai Halfadonas ir Fridleifas, o po jų —
-    Frotonas IV, daug kartų rengė žygius į tolimus kraštus.
-    Karalius Frotonas, valdęs, pasak Torfėjo skaičiavimų, maž­
-    daug IV amžiaus viduryje, sužinojo, kad lietuvių genties
-    tautos, gyvenančios rytinėse Baltijos jūros pakrantėse;
-    rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
-    jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
-    nijos karalystei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Narbutas pasakoja, kad slavai, pasinaudoję Jarmeriko nebuvimu, sunaikino jo paliktas sargybas ir plėšdami įsiveržė į Daniją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pavergęs slavų kraštą ir pamanęs, jog
-    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
-    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
-    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
-    galo juos engdamas. Tuomet slavai, pasinaudodami Jar­
-    meriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir
-    plėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas
-    skubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­
-    galėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­
-    viais, jog visiškai įbauginta liaudis vėl nusižemino. Kiek
-    vėliau, kai Jarmerikas sunkiais karais vargino Pabaltijo
-    rusus, juos sėkmingai rėmė pašauktas pagalbon Danijos
-    karalius Halfanask
-    239
-    Visi šie išdėstyti dalykai ir iš įvairių šaltinių surinkti
-    įvykiai, rodos, gali įtikinti, kad lietuvių tauta politiškai
-    egzistavo apvaizdos jiems skirtame Vakarų krašte.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-171834
@@ -261,18 +181,22 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    416
-
-    ## Puslapis 416
-
-    giminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,
-    jie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­
-    rodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­
-    mo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­
-    kėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios
-    žmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau
-    bendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­
-    tykiui.
+    Hunc index nota utrimque inustulata emittebat sin-
+    gidum singulis territorii quadrantibus, ut per manus vicinorum
+    extraditus et facti notitiam simul et comparandi maneatum cir­
+    cumferret: quomodo non juditia tantum, sed et promiscue om­
+    nes conventus publici indicti fuerunt, ubi de casu aliquo extra
+    ordinem deliberandum erat, aut judicandum. Erat autem hic
+    baculus nunciatorius effectus ad modum rei, de qua in Conven­
+    tu tractatio instituenda fuit, ut, si res sacra, crux lignea, si homi­
+    cidium, ligneum telum, aut securis (Budlafla senuosiuose šve­
+    dų įstatymuose būdavo vadinamas šaukimas į teismą papras­
+    tosiose bylose, panaudojant lazdą, kuri buvo praminta žinių
+    arba pranešėjo, pasiuntinio lazda. Šią lazdą su išdegintu iš abie­
+    jų pusių ženklu teisėjas išsiųsdavo skirtingą atskiriems terito­
+    rijos gyventojams, kad žinia apie įvykį ir kartu įspėjimas būti
+    pasiruošusiems pasklistų aplinkui.
+  citata_rodoma: "416\n\n## Puslapis 416\n\ngiminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,\njie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­\nrodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­\nmo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­\nkėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios\nžmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau\nbendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­\ntykiui."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -283,8 +207,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-175399
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jūra dažnai išmeta gintarą, prikibusį prie
     supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
@@ -308,20 +231,23 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-175400
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 243"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Visi Šie įvykiai siejami su III amžiumi.
-    235
-    Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
-    pas motinos, karalaitės Chunigardijos, gimines; vieno iš
-    giminaičių — rusnėnų karaliuko — padedamas, jis susi­
-    grąžino iš jo tėvo atimtą Danijos sostą1.
-    236
     Sklinda garsūs senoviniai skandinavų padavimai apie
     didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
     niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
-    ringumo žmogus.
+    ringumo žmogus. Jis buvo auklėjamas Danijos karaliaus
+    Haroldo rūmuose kartu su karalaičiu Vikaru. Sis Siaurės
+    didvyris pirmaisiais V amžiaus metais, kai Letrą, t. y. Da­
+    niją, valdė karaliai Halfadonas ir Fridleifas, o po jų —
+    Frotonas IV, daug kartų rengė žygius į tolimus kraštus.
+    Karalius Frotonas, valdęs, pasak Torfėjo skaičiavimų, maž­
+    daug IV amžiaus viduryje, sužinojo, kad lietuvių genties
+    tautos, gyvenančios rytinėse Baltijos jūros pakrantėse;
+    rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
+    jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
+    nijos karalystei.
+  citata_rodoma: "Visi Šie įvykiai siejami su III amžiumi.\n235\nFrotono III sūnus Fridleifas buvo auklėjamas Rusioje,\npas motinos, karalaitės Chunigardijos, gimines; vieno iš\ngiminaičių — rusnėnų karaliuko — padedamas, jis susi­\ngrąžino iš jo tėvo atimtą Danijos sostą1.\n236\nSklinda garsūs senoviniai skandinavų padavimai apie\ndidvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­\nniojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­\nringumo žmogus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -332,8 +258,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-175401
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 243"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     236
     Sklinda garsūs senoviniai skandinavų padavimai apie
@@ -360,8 +285,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-175402
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pavergęs slavų kraštą ir pamanęs, jog
     įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė

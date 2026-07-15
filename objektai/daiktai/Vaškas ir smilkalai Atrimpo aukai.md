@@ -49,36 +49,15 @@ Nenurodyta
   teiginys: "Pavyzdžiui, Atrimpui degindavo vašką ir smilkalus."
   pagrindžia:
     - c-177202
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pavyzdžiui, Atrimpui degindavo vašką ir smilkalus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Žyniai, kurie vadinosi Wejktime, latviškai -  Wiktums, tu­
-    rintys atlikti aukojimą, rengdavosi jam. Henenbergerio liudi­
-    jimu, vaidila, atnašaujantis aukas Atrimpui, turėdavo rengtis
-    tris dienas pasninkaudamas ir gulėdamas ant plikos žemės.
-    Pasak to paties autoriaus, prieš aukos atnašavimą priešais sta­
-    bus būdavo smilkoma įvairiomis medžiagomis, nelygu koks
-    dievas. Pavyzdžiui, Atrimpui degindavo vašką ir smilkalus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 311"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 311."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žyniai, kurie vadinosi Wejktime, latviškai -  Wiktums, tu­
+    Žyniai, kurie vadinosi Wejktime, latviškai - Wiktums, tu­
     rintys atlikti aukojimą, rengdavosi jam. Henenbergerio liudi­
     jimu, vaidila, atnašaujantis aukas Atrimpui, turėdavo rengtis
     tris dienas pasninkaudamas ir gulėdamas ant plikos žemės.

@@ -65,52 +65,13 @@ Nenurodyta
   teiginys: "Elbingo broliai su nedidele ginklanešių palyda vijosi didelę prūsų kariuomenę, prisiplėšusią grobio jų valdomose apygardose."
   pagrindžia:
     - c-85315
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
-    ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.
-    Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau
-    priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,
-    matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
-    davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  santrauka: 'Elbingo broliai su nedidele ginklanešių palyda vijosi didelę prūsų kariuomenę, prisiplėšusią grobio jų valdomose apygardose.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    nė tiksliai aprašyti, nė atpasakoti. Vis dėlto papasakosiu vieną pažymėtiną nuostabų
-    įvykį. Vieną gražią dieną Elbingo broliai su saujele ginklanešių traukė įkandin didelės
-    prūsų kariuomenės, prisiplėšusios grobio jų valdomose apygardose [in districtu]. Kai
-    jau rengėsi stoti  į kovą, visi prūsai išsibėgiojo, išskyrus vieną, kurį paėmė  į nelaisvę.
-    Šis, išvydęs tokį nedidelį brolių karių būrį, paklausė, kur kiti. Jam atsakė, kad kitų nė
-    nebuvę. Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
-    ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
 - id: c-85313
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 78"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
     ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.
@@ -123,14 +84,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89363
     - t-89362
+    - t-89363
 
 - id: c-85315
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 78"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     nė tiksliai aprašyti, nė atpasakoti. Vis dėlto papasakosiu vieną pažymėtiną nuostabų
     įvykį. Vieną gražią dieną Elbingo broliai su saujele ginklanešių traukė įkandin didelės

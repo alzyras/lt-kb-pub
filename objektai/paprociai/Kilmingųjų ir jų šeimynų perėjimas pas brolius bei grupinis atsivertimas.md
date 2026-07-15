@@ -62,29 +62,15 @@ Nenurodyta
   teiginys: "Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius."
   pagrindžia:
     - c-62563
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip buvo apleista Skalvos žemė
-
-      Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai
-    galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta
-    ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai
-    palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po
-    kito patraukė pas brolius su visais savo namais ir šeimyna. Paprasti žmonės, išgirdę,
-    kad jų kariuomenės vadai, vadovavę jiems karo metais, yra pasitraukę, irgi pasidavė
-    krikščionių tikėjimui. Šitaip visa ši žemė liko ilgiems metams be gyventojų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196985"></a>
+- t-002
+  global_id: t-196985
+  teiginys: "Šis Bansas norėjo viešai turėti dvi žmonas478; kadangi broliai jam šitai uždraudė, jis įniršęs beveik visus prūsus sukurstė atsimesti nuo krikščionybės."
   pagrindžia:
-    - t-001
+    - c-62563
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Daug galingų ir kilmingų Nadruvos vyrų su šeimynomis atėjo pas brolius, priėmė krikštą, išsižadėjo stabų ir ėmė tarnauti Kristui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -116,18 +102,19 @@ Nenurodyta
 - id: c-62563
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip buvo apleista Skalvos žemė
-
-      Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai
-    galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta
-    ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai
-    palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po
-    kito patraukė pas brolius su visais savo namais ir šeimyna. Paprasti žmonės, išgirdę,
-    kad jų kariuomenės vadai, vadovavę jiems karo metais, yra pasitraukę, irgi pasidavė
-    krikščionių tikėjimui. Šitaip visa ši žemė liko ilgiems metams be gyventojų.
+    Kai šitai vyko, ir vyrai, ir moterys paskutiniais
+    žodžiais keikė vieną sembą, vardu Bansas, Pabečių valsčiaus kamerarijų, tvirtindami,
+    jog jis esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas. Šis Bansas
+    norėjo viešai turėti dvi žmonas478; kadangi broliai jam šitai uždraudė, jis įniršęs beveik
+    visus prūsus sukurstė atsimesti nuo krikščionybės. Dėl to, ištyrę visus jo nusižengimus,
+    jį pelnytai pasmerkė mirti.
+    191 (186). Dar apie tą patį
+    Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę ir ją nusiaubė, degindami
+    bei piešdami, daugybę paėmė į nelaisvę ar nukovė, išskyrus keletą tų, kurie su savo
+    šeimyna patraukė link Lietuvos į Gardino pilies apygardą [territorium], o visa ši žemė
+    pavirto dykromis.
   citata_rodoma: "Apie tai, kaip buvo apleista Skalvos žemė\n\n  Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai\ngalingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta\nir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai\npalankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po\nkito patraukė pas brolius su visais savo namais ir šeimyna. Paprasti žmonės, išgirdę,\nkad jų kariuomenės vadai, vadovavę jiems karo metais, yra pasitraukę, irgi pasidavė\nkrikščionių tikėjimui. Šitaip visa ši žemė liko ilgiems metams be gyventojų."
   statusas: verified
   teiginio_tipas: faktas
@@ -135,3 +122,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62131
+    - t-196985

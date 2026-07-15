@@ -43,26 +43,6 @@ Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis 
   teiginys: "1428 m. popiežius Martynas V laišku perspėjo Kulmo vyskupą nesikišti į lenkų ir lietuvių reikalus."
   pagrindžia:
     - c-84443
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1428 m. popiežius Martynas V laišku perspėjo Kulmo vyskupą nesikišti į lenkų ir lietuvių reikalus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nepadėjo
-    šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis
-    kišusis į lenkų ir lietuvių reikalus83; nei ištvermingas lenkų
-    83
-    Popiežius Martynas V 1428 m. rašė Rusios karaliumi. Žr. MSS Bibl. Pu-
-    laišką, perspėdamas Kulmo vysku- lazusk. N. 35, orig. nuo 1400 iki 1500
-    pą, kad nepaisydamas imperato- metų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

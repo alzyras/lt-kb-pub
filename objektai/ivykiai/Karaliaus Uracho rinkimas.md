@@ -47,27 +47,6 @@ Nenurodyta
   teiginys: "Lietuvos Taryba nusprendė valdovu kviesti kataliką kunigaikštį von Urachą, kuris priėmė lietuvių pateiktas karaliavimo sąlygas."
   pagrindžia:
     - c-01876
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Norėdama Lietuvos valstybę išgelbėti iš tos
-    būklės, Taryba nusprendė pavesti ją vienam iš valdančiųjų Vo-
-    kietijos princų, būtent Viurtembergo karaliaus artimam giminai-
-    čiui katalikui, kunigaikščiui von Urachui, kurs, būdamas už
-    Prūsijos karalių daug silpnesnis, buvo ne toks pavojingas Lie-
-    tuvos savarankiškumui. Jis apsiėmė saugoti tam tikrus konsti-
-    tucinius principus, t. y. priėmė lietuvių pateiktas karaliavimo są-
-    lygas. Kaip antrasis Lietuvos karalius, jis turėjo vadintis Min-
-    daugu II.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

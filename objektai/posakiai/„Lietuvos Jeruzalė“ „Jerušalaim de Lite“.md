@@ -57,45 +57,6 @@ media_all_json: |-
   teiginys: "XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“, nes tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu."
   pagrindžia:
     - c-26740
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Aišku,
-    šios mažumos į LDK persikėlė iš Lenkijos ir galbūt iš Vengrijos, todėl
-    natūralu, kad čia jų būta mažiau. Tačiau XVII–XVIII a. bent jau Vilnius
-    prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
-    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net
-    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
-    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
-    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau kartu litvakais imta vadinti žydus, kuriems
-    būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo.
-    Taip Vilnius XVIII a. tapo žydų gyvenimo pastovumo ir kultūros kles-
-    tėjimo simboliu ir buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de
-    Lite). Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam
-    žydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londo-
-    no, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
 
 ## Citatos
 

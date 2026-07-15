@@ -42,45 +42,6 @@ media_all_json: |-
   teiginys: "Leidiniu siekta per karų kulminacinius momentus, tai yra mūšius, parodyti ilgaamžę kovų už Lietuvos valstybę istoriją."
   pagrindžia:
     - c-167102
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šio leidinio tikslas - per karų kulminacinius momen-
-    tus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę
-    istoriją. Knygą stengtasi gausiai iliustruoti, kad skaity-
-    tojas galėtų susikurti įvairių laikotarpių Lietuvos kario
-    įvaizdį. Stengtasi pateikti daug kontekstinės informacijos,
-    nupasakojančios kiekvieno laikotarpio karybos, ginkluo-
-    tės raidos tendencijas bei regiono geopolitinį kontekstą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Leidiniu siekta per karų kulminacinius momentus, tai yra mūšius, parodyti ilgaamžę kovų už Lietuvos valstybę istoriją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kai kurių laikotarpių gan svarbūs mūšiai
-    nebuvo atrinkti tiesiog dėl vietos stokos.
-
-    Šio leidinio tikslas - per karų kulminacinius momen-
-    tus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę
-    istoriją. Knygą stengtasi gausiai iliustruoti, kad skaity-
-    tojas galėtų susikurti įvairių laikotarpių Lietuvos kario
-    įvaizdį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

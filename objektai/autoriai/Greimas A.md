@@ -35,31 +35,13 @@ Dusburgietis teigia, kad turėdami omenyje prūsų dievų triadą (Patulas, Patr
   teiginys: "Algirdas Greimas veikale „Apie dievus...“ aptarė prūsų dievų triadą ir dievus žemininkus."
   pagrindžia:
     - c-61339
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Algirdas Greimas veikale „Apie dievus...“ aptarė prūsų dievų triadą ir dievus žemininkus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Turėdami omenyje prūsų dievų triadą (Patulas, Patrimpas, Perkūnas)  ir dievus
-    „žemininkus“ (Greimas A., Apie dievus..., p. 166—179; Топоров B. H., Заметки по
-    балтийской мифологии, с. 289—314; Vėlius N., Senovės baltų..., p. 59), anksčiau
-    aptartus Nadruvos regionus, skirtus pagoniškam kultui, galima būtų diferencijuoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61339
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Turėdami omenyje prūsų dievų triadą (Patulas, Patrimpas, Perkūnas)  ir dievus
     „žemininkus“ (Greimas A., Apie dievus..., p. 166—179; Топоров B. H., Заметки по

@@ -43,25 +43,6 @@ Algirdui vedant vienintelę Vitebsko kunigaikščio sosto įpėdinę, dukterį M
   teiginys: "Marija buvo vienintelė Vitebsko kunigaikščio sosto įpėdinė, o ją vedęs Algirdas po uošvio mirties paveldėjo Vitebską."
   pagrindžia:
     - c-32788
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Politiškai
-    dar reikšmingesnės buvo sūnų vedybos. Algirdui vedant vienintelę
-    Vitebsko kunigaikščio sosto įpėdinę, dukterį Mariją, Vitebskas
-    pateko Gedimino valstybės valdžion, nes, uošviui mirus, Algirdas
-    tapo paveldėtoju^2.
-    Kai Liubartas Gediminaitis dar prieš 1322 m. vedė paskutinio
-    Vladimiro kunigaikščio Andriaus (Jurgio sūnaus) dukterį Bučą, jis
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

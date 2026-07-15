@@ -7,14 +7,14 @@ datos:
   - '1249 m.'
 date_start: '1249'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -45,7 +45,6 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
 - susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89603|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Po Vargulio įspėjimo Noliubas pabėgo į Ziokos valsčių, o vėliau, nukamuotas antpuolių, nulenkė galvą prieš tikėjimą.
 - susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89602|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vargulis, Noliubės giminaitis, broliams pritarus išėjo į priekį ir įspėjo Noliubę dėl nepaklusnumo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -75,21 +74,26 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
 - id: c-61091
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 119-120"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119-120."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai dėl to supykę
-    broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis
-    šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis
-    p. 54), kelio iš Kaliningrado į Laduškiną pradžioje. D. toliau mini Sklunijos valsčių (III,
-    262; vardas tapatinamas su 1249.II.9 sutarties dokumento Slinia — PUB, 1, 1, Nr. 218,
-    p. 163), kurio centras galėjo būti Kalijoje.
-      372  Plg. Ordino turto užrašymus prūsams, perėjusiems į kryžiuočių pusę (Pakarklis
-    P., Kryžiuočių..., p. 80—81 ir kt.).
-
-    Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
-    nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie
-    čia atvyksta“.
+    Susirūpinę šiuo reikalu,
+    broliai bei komtūras slapta pasiuntė vieną vyrą, kuris, kartą pragręžęs šiuos laivus grąžtu,
+    taip dažnai šitai kartojo, kad priešai, nukamuoti didelių įstangų ir išlaidų, turėjo liautis
+    puldinėję brolių laivus, kurių nemaža jau buvo sunaikinę, o įgulas paėmę nelaisvėn ir
+    išžudę.
+    103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
+    Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas
+    priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė
+    pastatyti tiltą per Priegliaus upę, o abiejuose tilto galuose įrengti tvirtus kuorus,
+    manydami galėsią šitaip trukdyti broliams plukdyti į Karaliaučiaus pilį visokius reikmenis.
+    Kai broliai minėtoje pilyje atsidūrė bado akivaizdoje, jie ryžosi verčiau žūti kovoje, nei
+    laukti negailestingos bado mirties, todėl apsiginklavo ir susėdo į laivus, o kai priplaukė
+    netoli tilto, nuleido inkarus, tačiau pakilo smarkus vėjas ir nubloškė juos prie pat tilto,
+    Žinoma, šitai įvyko dėl dievo apvaizdos; kopdami ant tilto, jie užtiko daugybę ginkluotų
+    vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
+    kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
+    matęs vedant nedidelį karių būrį.
+  citata_rodoma: "Kai dėl to supykę\nbroliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis\nšiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis\np. 54), kelio iš Kaliningrado į Laduškiną pradžioje. D. toliau mini Sklunijos valsčių (III,\n262; vardas tapatinamas su 1249.II.9 sutarties dokumento Slinia — PUB, 1, 1, Nr. 218,\np. 163), kurio centras galėjo būti Kalijoje.\n  372  Plg. Ordino turto užrašymus prūsams, perėjusiems į kryžiuočių pusę (Pakarklis\nP., Kryžiuočių..., p. 80—81 ir kt.).\n\nNoliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,\nnei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie\nčia atvyksta“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

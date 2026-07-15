@@ -42,28 +42,13 @@ Dusburgietis teigia, kad šeliagovičius M.
   teiginys: "Šeliagovičius M. 1984 m. žurnale „Mokslas ir gyvenimas“ paskelbė straipsnį „Senovės baltų atgarsis“."
   pagrindžia:
     - c-61465
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šeliagovičius M. 1984 m. žurnale „Mokslas ir gyvenimas“ paskelbė straipsnį „Senovės baltų atgarsis“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šeliagovičius M. Senovės baltų atgarsis.— MG, 1984, Nr. 1, p. 32—33.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61465
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šeliagovičius M. Senovės baltų atgarsis.— MG, 1984, Nr. 1, p. 32—33.
   statusas: verified

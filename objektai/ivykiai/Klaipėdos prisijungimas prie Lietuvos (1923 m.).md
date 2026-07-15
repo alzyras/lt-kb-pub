@@ -96,218 +96,40 @@ Nenurodyta
   pagrindžia:
     - c-100633
 
-<a id="claim-t-23329"></a>
-- t-006
-  global_id: t-23329
-  teiginys: "1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai."
-  pagrindžia:
-    - c-16889
-
 <a id="claim-t-26645"></a>
-- t-007
+- t-006
   global_id: t-26645
   teiginys: "Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo."
   pagrindžia:
     - c-26869
 
 <a id="claim-t-26646"></a>
-- t-008
+- t-007
   global_id: t-26646
   teiginys: "1923 m. sausio 17 d. Vyriausias Mažosios Lietuvos gelbėjimo komitetas nutarė prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė karinės bei finansinės pagalbos."
   pagrindžia:
     - c-16892
 
 <a id="claim-t-26841"></a>
-- t-009
+- t-008
   global_id: t-26841
   teiginys: "1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės bei finansinės pagalbos."
   pagrindžia:
     - c-100634
 
 <a id="claim-t-26842"></a>
-- t-010
+- t-009
   global_id: t-26842
   teiginys: "Lietuvai liko sukilimo inscenizacijos scenarijus."
   pagrindžia:
     - c-26867
 
 <a id="claim-t-26843"></a>
-- t-011
+- t-010
   global_id: t-26843
   teiginys: "Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, nes Klaipėdos uostas jai labai rūpėjo."
   pagrindžia:
     - c-166615
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    153
-    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
-    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
-    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
-    tine ir karine pergale, kokia ji iš tiesų ir buvo.
-    1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas pa-
-    naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
-    autonomine Lietuvos dalimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-004
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Akcija pradėta laiku: Vakaruose
-    vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų da-
-    linių įvedimo į Ruro kraštą. Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį
-    pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai nepriešta-
-    ravo. Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
-    o ne prieš Gabrielio Žano Petisnė (Gabriel Jean Petisne) administraciją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kaunas triumfavo, euforija apėmė visą šalį. „Sukilėlių“ sėkmė atro-
-    dė kaip moralinė satisfakcija už prarastą Vilnių. 1923 m. sausio 17 d.
-    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
-    teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-008
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvai liko sukilimo inscenizacijos
-    scenarijus. Abipusis psichologinis atotrūkis akivaizdus – E. Galvanauskas
-    ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovins-
-    kas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš
-    lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį,
-    nes... nelaikė to kova už tėvynę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį
-    pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai nepriešta-
-    ravo. Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
-    o ne prieš Gabrielio Žano Petisnė (Gabriel Jean Petisne) administraciją.
-    Susišaudymuose nuo prancūzų kulkų žuvo 16 lietuvių, nuo lietuvių – du
-    prancūzai, tačiau garsiai protestavo visi – aršiausiai prancūzai, formaliai
-    vokiečiai ir net britai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-006
-  santrauka: 'Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, nes nemanė, kad Lietuva jį gaus per Tautų Sąjungą ar Ambasadorių konferenciją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ministras pirminin-
-    kas E. Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių
-    konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot
-    A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
-    džiu pastatyti visus į fait accompli padėtį ir tada derėtis. 1922 m. pradžioje
-    Lietuvos atstovas Klaipėdoje Jonas Žilius pranešė vyriausybei, kad tėra
-    viena galimybė pasiimti miestą – užimti jį karine jėga. Kariškiai laikė tai
-    24 valandų reikalu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    TAUTOS TAPSMAS
-    Lietuva įgyja jūrų uostą –
-    Klaipėdos prisijungimas
-    T
-    autinės valstybės prioritetas – lietuvių tauta, todėl
-    nemažai dėmesio skirta Ryprūsiams, kur daug vietos
-    gyventojų vartojo lietuvių kalbą, ėjo lietuviški laikraščiai, į tą sritį kaž-
-    kada pretendavo Vytautas Didysis. Netekusi Vilniaus, Lietuva atsisuko į
-    Mažąją Lietuvą. Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
-    nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-008
-  santrauka: '1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės bei finansinės pagalbos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1923 m. sausio 17 d.
-    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
-    teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    153
-    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
-    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
-    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
-    tine ir karine pergale, kokia ji iš tiesų ir buvo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-009
-  santrauka: 'Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, nes Klaipėdos uostas jai labai rūpėjo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Netekusi Vilniaus, Lietuva atsisuko į
-    Mažąją Lietuvą. Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
-    nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
-    Lietuviams mainų principas netiko, nes Vilnius – senoji sostinė, tačiau
-    uostas labai rūpėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
 
 ## Citatos
 
@@ -331,7 +153,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23331
     - t-23329
 
 - id: c-16891

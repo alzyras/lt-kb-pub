@@ -45,24 +45,6 @@ media_all_json: |-
   pagrindžia:
     - c-35029
 - susijęs iš Ragainė: Ragainės komtūras per vieną puolimą išsivedė 100 žmonių į nelaisvę.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Per 1380-1381 m. susirėmimus kariuomenės dalis paėmė Naujapilį su 3000 žmonių.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pav., Ragainės komtūras vienu puolimu išsivedė 100
-    žmonių nelaisvėn. Kita kariuomenės dalis paėmė Naujapilį su
-    3000 žmonių. Tuose kruvinuose 1380—81 metų susirėmimuo­
-    se Kęstutis neteko per 4000 žmonių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-35029

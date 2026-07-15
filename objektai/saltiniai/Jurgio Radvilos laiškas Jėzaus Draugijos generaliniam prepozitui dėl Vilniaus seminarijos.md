@@ -34,31 +34,6 @@ Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiama
   teiginys: "Jurgio Radvilos laiške Vilniaus jėzuitų kolegijai patikėtas seminarijos klierikų mokymas ir visa administracinė bei ekonominė valdžia."
   pagrindžia:
     - c-84412
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jurgio Radvilos laiške Vilniaus jėzuitų kolegijai patikėtas seminarijos klierikų mokymas ir visa administracinė bei ekonominė valdžia.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tai jų sąžinei griežtai
-    pavedame. Klierikų mokymo reikalus ir vadovavimą kole­
-    gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­
-    niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai* ger­
-    biamam tėvui generaliniam Prepozitui (kuriam dėl šio
-    reikalo nusiuntėme laišką ir neabejojame, kad mums bus pa­
-    lankus), tuos pačius karštai raginame, kad imtų rūpintis šia
-    mūsų seminarija. Be to, jiems suteikiame visišką valdžią, tiek
-    ekonominę, tiek visą administracinę, ir juos darome ir skel­
-    biame amžinais mūsų seminarijos valdytojais, administra­
-    toriais ir rektoriais, jų rūpesčiui, veiklumui ir meilei patiki­
-    me visą seminariją ir kiekvieną joje esantį klieriką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

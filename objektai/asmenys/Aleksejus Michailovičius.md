@@ -51,28 +51,6 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
   pagrindžia:
     - c-76041
 - susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-183743|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis faktiškai vadovavo Rusijos kariuomenei, nors oficialiu vadu buvo caras Aleksejus Michailovičius.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1655 m.
-
-    Smolenske caras Alekse-
-    jus Michailovičius jį pa-
-    skelbė vyriausiuoju vadu.
-    Šklovo mūšyje taip pat dalyvavo ir kuni-
-    gaikščio Jurijaus Boratinskio vadovaujamos
-    pajėgos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-76041

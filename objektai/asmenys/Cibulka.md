@@ -38,24 +38,6 @@ Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius
 - susijęs iš Jotvingija: Vytautas rašte Zigmantui teigė, kad Sūdavija su Jotvingija, arba Dzūkija, yra lietuvių kraštai, dėl kurių ginčo negali kilti.
 - susijęs iš Sūdavija: Sūdavija su Jotvingija buvo laikomos lietuvių kraštais, dėl kurių negalėjo kilti ginčas.
 - susijęs iš Aukštaitija: Vytautas rašte Zigmantui teigė, kad Aukštaitija ir Žemaitija yra dvi neatskiriamos Lietuvos dalys.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pusbroliai nesutiko su tokiu sprendimu.
-    Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir
-    Vytauto sekretorius Cibulka. Vaclovas tačiau gąsdino, jog ordino
-    pusėje stosiąs jis pats ir jo brolis Vengrijos Zigmantas, kuris siūlėsi
-    tarpininkauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-93995

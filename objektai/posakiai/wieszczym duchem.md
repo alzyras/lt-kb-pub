@@ -35,23 +35,6 @@ Jadvyga savo „wiesz­ czym duchem“ (pranašingu nujautimu), kaip sako Procha
   teiginys: "Jadvyga, pasak Prochaskos, savo „wieszczym duchem“ pranašavo ambicingo Vytauto didelių užsimojimų galą."
   pagrindžia:
     - c-35640
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
-    jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
-    totoriais pasidarė jau nebeišvengiamas. Jadvyga savo „wiesz­
-    czym duchem“ (pranašingu nujautimu), kaip sako Prochaska,
-    pranašavo ambicingam Vytautui didelių užsimojimų galą^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

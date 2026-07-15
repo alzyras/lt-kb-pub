@@ -64,41 +64,6 @@ Nenurodyta
   teiginys: "Skirgaila Trakų piliai ginti iš maršalkos gavo dovanų kelias dideles armotas."
   pagrindžia:
     - c-38325
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Norėdamas skubiai Trakus
-    paimti, praėjus porai savaičių (liepos mėn. 20 d.), Skirgaila
-    vėl pasišaukė pagalbon maršalką. Kada Vytauto paliktieji Tra­
-    kų pilies gynėjai nenorėjo nė kalbėti apie pasidavimą kryžiuo­
-    čiams, vokiečių kariuomenės maršalka, grasindamas sugriau­
-    siąs pilį, reikalavo, kad jie pasiduotų geruoju nors Jogailai. Kai
-    įgula pasidavė Jogailai, pilyje buvo pastatyti jo kareiviai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kai
-    įgula pasidavė Jogailai, pilyje buvo pastatyti jo kareiviai. Skir­
-    gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­
-    lių armotų.
-    Dabar Kęstučio padėtis žymiai pablogėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

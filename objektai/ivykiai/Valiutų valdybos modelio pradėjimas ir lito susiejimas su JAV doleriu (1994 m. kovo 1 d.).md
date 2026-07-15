@@ -59,26 +59,6 @@ Nenurodyta
   teiginys: "Lito susiejimas su JAV doleriu laikytas vienu išmintingiausių atsikūrusios Lietuvos ekonominės politikos sprendimų."
   pagrindžia:
     - c-23248
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    BVP didėjo. Nuo 1993 m.
-    vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl nacionalinės valiu-
-    tos – lito įvedimo laikotarpiu Lietuvos banko vykdytos sugriežtintos pi-
-    nigų politikos ir 1994 m. kovo 1 d. pradėto taikyti valiutų valdybos mo-
-    delio (pagal jį litas susietas su JAV doleriu santykiu 4 litai – 1 doleris).
-    Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-
-    giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
-    laikotarpį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

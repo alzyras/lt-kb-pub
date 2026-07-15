@@ -7,13 +7,13 @@ datos:
   - '1220 m.'
 date_start: '1220'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - giminė
   - grupe
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,8 @@ Narbutas Dausprungų giminės Zivinbudą vadino Ukmergės srities kunigaikščiu
   teiginys: "Narbutas Dausprungų giminės Zivinbudą vadino Ukmergės srities kunigaikščiu, kuriam Pajauta kaip kraitį atnešė Kernavės kunigaikštystę."
   pagrindžia:
     - c-172375
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Dausprungų giminės Zivinbudą vadino Ukmergės srities kunigaikščiu, kuriam Pajauta kaip kraitį atnešė Kernavės kunigaikštystę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -74,18 +74,17 @@ Narbutas Dausprungų giminės Zivinbudą vadino Ukmergės srities kunigaikščiu
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    154
-
-    ## Puslapis 154
-
-    Pajauta (Pojata)
-    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
-    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
-    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
-    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
-    šė paveldimą Kernavės kunigaikštystę. Ji garsėjo grožiu ir do­
-    rybėmis, dievintomis anais amžiais. Mirė maždaug prieš 1220
-    metus.
+    nenustota jos garbinti. Strijkovskis pats sako: „Palangoje, prie
+    jūros, mačiau aukštą kalną, tos Birutės milžinkapį, kurį že­
+    maičiai bei kuršiai dar ir šiandien vadina šventos Birutės (Swis-
+    tos-Bimtos) kalnu ir dar iki šios dienos švenčia jos šventę ten,
+    toje vietoje, kur ir Romos katalikų kunigas atvažiuoja surink­
+    damas nemaža naudos iš žvakių ir aukų, nors nesuprantu, kaip
+    Dievas priima tas aukas, kadangi toji Birutė buvo stabmeldė“.
+    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
+    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
+    mėti ten visuomet stovi medinis kryžius.
+  citata_rodoma: "154\n\n## Puslapis 154\n\nPajauta (Pojata)\nLietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­\nba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.\nTa kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-\nvinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­\nšė paveldimą Kernavės kunigaikštystę. Ji garsėjo grožiu ir do­\nrybėmis, dievintomis anais amžiais. Mirė maždaug prieš 1220\nmetus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

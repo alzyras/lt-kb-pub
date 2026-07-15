@@ -54,27 +54,6 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
   teiginys: "Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais, ir prieš juos jungėsi su lenkais bei mozūrais."
   pagrindžia:
     - c-14561
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tai buvo pradžia tos
-    Ordinų demaskavimo bei diskreditavimo vakarų Europoje
-    politikos, kurią užbaigė tik Vytautas. Gediminas pirmas iš lie­
-    tuvių pareiškė pasauliui: „Mes kariaujame ne su kryžium, o su
-    vokiečiais!“
-    Kad padidintų savo realią jėgą prieš Vokiečius, jis, kaip
-    minėta, jungėsi su Lenkais ir Mozūrais, ir tas sąjungas su­
-    tvirtino, išleisdamas už tų kraštų valdovų savo dukteris.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

@@ -3,10 +3,20 @@ tipas: autorius
 pavadinimas: 'Beckherrn C'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1267 m.'
+  - '1273 m.'
+date_start: '1267'
+date_end: '1273'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - pilis
   - vyskupas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -42,8 +52,15 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   teiginys: "C. Beckherrnas nagrinėjo pilaitę prie įėjimo į Notangą."
   pagrindžia:
     - c-61181
-## Reikšmingi paminėjimai
 
+<a id="claim-t-196995"></a>
+- t-003
+  global_id: t-196995
+  teiginys: "Beckherrn C sugalvojo būdą, kaip jį pribaigti, ir, norėdamas savo sumanymą įgyvendinti, pakvietė jį pulti vienos pilies, stovėjusios Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo pilį412, 409 Konradas Vyresnysis iš Tirbergo (Frankonija), 1267 m.— Santyro, vėliau — Kristburgo, Kulmo komtūras, nuo 1273 m.— Prūsijos krašto magistras."
+  pagrindžia:
+    - c-61181
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'C. Beckherrnas rašė apie prūsų ginklus ir karybą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -58,35 +75,20 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'C. Beckherrnas nagrinėjo pilaitę prie įėjimo į Notangą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    407 D.— invenit propugnaculum in introitu terre Nattangie; Jer.— dî zucht kegn
-    Nattąngin in daz lant, an dets înwege er sâ vant gebûwit eine vestin. Ši pilaitė prie
-    įėjimo  į Notangą buvusi, kaip manoma, prie gyvenvietės Pilzen (Beckherrn C., Das
-    „propugnaculum.., p. 299—300), kiek  į šiaurę nuo jos, Knivitės aukštupio deš. krante
-    (CV, t. 34, p. 99), per 8 km  į šiaurės vakarus nuo Prūsų Ylavos (buv. Pr. Eylau, dab.
-    Bagrationovskas). Už poros kilometrų į šiaurės rytus buvusi gyvenvietė galbūt sietina su
-    D. minima prekyviete (žr. žemiau).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-61179
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 69"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    210 Apie prūsų ginklus, karybą — Beckherrn C.. Bewaffnung..., p. 359—392. Okulicz-
-    Kozaryn L. Zycie..., p. 218—221.
+    jų namuose rastumei tokių valgių ir tokių gėrimų, kuriais šia proga nepasidalytų su savo
+    svečiu. Jiems rodosi, jog svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki
+    apsvaigimo. Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui
+    namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką
+    išgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki nusigeria
+    visi: svečias su namiškiais, žmona su vyru, sūnus su dukterimi.
+  citata_rodoma: "210 Apie prūsų ginklus, karybą — Beckherrn C.. Bewaffnung..., p. 359—392. Okulicz-\nKozaryn L. Zycie..., p. 218—221."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -97,19 +99,20 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
 - id: c-61181
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    407 D.— invenit propugnaculum in introitu terre Nattangie; Jer.— dî zucht kegn
-    Nattąngin in daz lant, an dets înwege er sâ vant gebûwit eine vestin. Ši pilaitė prie
-    įėjimo  į Notangą buvusi, kaip manoma, prie gyvenvietės Pilzen (Beckherrn C., Das
-    „propugnaculum.., p. 299—300), kiek  į šiaurę nuo jos, Knivitės aukštupio deš. krante
-    (CV, t. 34, p. 99), per 8 km  į šiaurės vakarus nuo Prūsų Ylavos (buv. Pr. Eylau, dab.
-    Bagrationovskas). Už poros kilometrų į šiaurės rytus buvusi gyvenvietė galbūt sietina su
-    D. minima prekyviete (žr. žemiau).
+    Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
+    Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug
+    kartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,
+    atsiteisė blogu už gera ir neapykanta už meilę. Jis sugalvojo būdą, kaip jį pribaigti,
+    ir, norėdamas savo sumanymą įgyvendinti, pakvietė jį pulti vienos pilies, stovėjusios
+    Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo pilį412,
+    409 Konradas Vyresnysis iš Tirbergo (Frankonija), 1267 m.— Santyro, vėliau —
+    Kristburgo, Kulmo komtūras, nuo 1273 m.— Prūsijos krašto magistras.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60548
+    - t-196995

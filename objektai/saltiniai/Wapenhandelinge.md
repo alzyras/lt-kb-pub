@@ -40,25 +40,6 @@ Wapenhandelinge, 1607 (pirmasis leidimas).
   teiginys: "Jacobo de Gheyno „Wapenhandelinge“ pirmasis leidimas pasirodė 1607 m."
   pagrindžia:
     - c-41744
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 92, Arkebuza dagtine spyna. Kalibras - 15,5 mm, xvI a. antroji pusė, VDKM,
-
-    Artūro Užgalio nuotr.
-
-    p. 92, Arkebuzininkas; Muškietininkas, Jacob de Gheyn. Wapenhandelinge, 1607
-
-    (pirmasis leidimas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

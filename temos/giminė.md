@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 44
+tema_objektu_skaicius: 43
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 44.
+Objektų skaičius: 43.
 
 ## Kaip naudoti
 
@@ -55,7 +55,6 @@ Objektų skaičius: 44.
 - [Mikuckių giminė](../objektai/grupes/Mikucki%C5%B3%20gimin%C4%97)
 - [Narbutai](../objektai/grupes/Narbutai)
 - [Neliubovičiai](../objektai/grupes/Neliubovi%C4%8Diai)
-- [Nemiravičių giminė](../objektai/grupes/Nemiravi%C4%8Di%C5%B3%20gimin%C4%97)
 - [Nesvyžiaus Radvilos](../objektai/grupes/Nesvy%C5%BEiaus%20Radvilos)
 - [Oginskiai](../objektai/grupes/Oginskiai)
 - [Piastų giminė](../objektai/grupes/Piast%C5%B3%20gimin%C4%97)

@@ -3,11 +3,17 @@ tipas: zodyno_irasas
 pavadinimas: 'Užuotas ąžuolas'
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+datos:
+  - '1258 m.'
+date_start: '1258'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinis-terminas
   - sąvoka
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,99 +55,53 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
   teiginys: "Narbutas manė, kad prie šventyklų augo šventieji ąžuolai, nes jų šventumas lietuvių mitologijoje susiliejo su dievų buveinės vaizdiniu."
   pagrindžia:
     - c-172010
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieglaudą, kurią, kronikininkų liudijimu, puolant Prūsiją bandė sunaikinti Boleslovas Kreivaburnis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
-    bių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­
-    leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
-    galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­
-    kai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­
-    vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­
-    dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
-    Jono I prašomas, įsakė jį nukirsti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197376"></a>
+- t-004
+  global_id: t-197376
+  teiginys: "Nežinau, ar, be beržo ir ąžuolo, amalas auga kituose medžiuose; ąžuolo ama las pas mus dabar yra net didelė retenybė."
   pagrindžia:
-    - t-001
+    - c-172008
 
-- c-002
-  santrauka: 'Narbutas spėjo, kad senovės žyniai galėjo dirbtinai apauginti šventąjį ąžuolą amalu, kad jo vainikas žaliuotų ir žiemą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vis dėlto galimas
-    daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
-    reikėtų manyti, jog senovės žyniai mokėjo šventąjį ąžuolą taip
-    apauginti amalu, kad jo lapai būtų nepaprastai tankūs, o žie­
-    mą amalo žaluma nuspalvintų jo vainiką.
-    Sventamiestyje, vėliau Heiligenbeilyje, vadinamame Šven­
-    tuoju Kirveliu, augo panašios rūšies žiemą vasarą žalias neap­
-    sakomo storumo ąžuolas. Varmijos vyskupų biografas Trete-
-    ris sako: „Toje vietoje, kur yra Heiligenbeilis, augo milžiniš­
-    kas ąžuolas, kuris tiek vasarą, tiek žiemą žaliavo (be abejo,
-    velnio pastangomis).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197377"></a>
+- t-005
+  global_id: t-197377
+  teiginys: "Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo las arba šventykla, savo viduryje turėjusi neapsakomo didumo ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta."
   pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas manė, kad prie šventyklų augo šventieji ąžuolai, nes jų šventumas lietuvių mitologijoje susiliejo su dievų buveinės vaizdiniu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
-    jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
-    išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
-    Kronikininkai teigia, kad, pasak vietos padavimų, toje vie­
-    toje senovėje buvusi ir prūsų šventykla. Apskritai reikia ma­
-    nyti, kad visur, kur buvo šventyklos, augo šventieji ąžuolai,
-    kadangi šio medžio šventumas lietuvių mitologijoje susiliejo
-    su dievų buveinės vaizdiniu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+    - c-179155
 
 ## Citatos
 
 - id: c-172008
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
-    bių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­
-    leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
-    galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­
-    kai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­
-    vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­
-    dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
-    Jono I prašomas, įsakė jį nukirsti.
+    Žinoma, kas tas krūmas, nenumetantis žiemą lapų, dau­
+    ginasi iš sėklų, esančių gražiose baltose uogose, kurios nunoks­
+    ta žiemą ir paukščių yra godžiai lesamos; šios sėklos niekad
+    nesudygsta žemėje, o sudygsta ant kito medžio šakos, kur jas
+    užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
+    atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
+    mis augdami ant medžių, užauga sieto dydžio. Nežinau, ar, be
+    beržo ir ąžuolo, amalas auga kituose medžiuose; ąžuolo ama­
+    las pas mus dabar yra net didelė retenybė. Vis dėlto galimas
+    daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
+    reikėtų manyti, jog senovės žyniai mokėjo šventąjį ąžuolą taip
+    apauginti amalu, kad jo lapai būtų nepaprastai tankūs, o žie­
+    mą amalo žaluma nuspalvintų jo vainiką.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189120
+    - t-197376
 
 - id: c-172009
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 236"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vis dėlto galimas
     daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
@@ -164,8 +124,7 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
 - id: c-172010
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 238"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
     jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
@@ -181,3 +140,23 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189122
+
+- id: c-179155
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Tai buvo 1258 metais“ .
+    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
+    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
+    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
+    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
+    toje vietoje įkūrė Senąją Torunę. Ponas Svenckis12 13 nekritiškai
+    teigia, kad šis ąžuolas, kaip ir visi kiti panašūs to krašto me­
+    džiai, dėl savo storumo buvęs kaip tvirtovė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197377

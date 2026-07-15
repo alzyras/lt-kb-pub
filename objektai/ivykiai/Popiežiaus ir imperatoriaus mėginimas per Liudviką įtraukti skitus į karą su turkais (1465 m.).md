@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Žiemos pabaigoje į Lietuvą pas karalių atvyko popiežiaus pasiuntinys Liudvikas, Antiochijos patriarchas. Po Bajazito sutriuškinimo skitų vardas, pasak Kojelavičiaus, turkams kėlė didžiausią siaubą. Kazimieras manė, kad valstybei nenaudinga pradėti karą su turkais, kol nebaigtas karas su kryžiuočiais.
+Žiemos pabaigoje į Lietuvą pas karalių atvyko popiežiaus pasiuntinys Liudvikas, Antiochijos patriarchas. Liudvikas ragino skubėti prieš Mechmedą, nes, jo teigimu, turkų valdovas rengėsi karui prieš krikščionių pasaulį. Žiemos pabaigoje atvyko Lietuvon pas karalių Liud vikas, Antiochijos patriar chas, popiežiaus pasiuntinys.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -54,126 +54,45 @@ Nenurodyta
   pagrindžia:
     - c-168892
 
-<a id="claim-t-185532"></a>
-- t-002
-  global_id: t-185532
-  teiginys: "Po Bajazito sutriuškinimo skitų vardas, pasak Kojelavičiaus, turkams kėlė didžiausią siaubą."
-  pagrindžia:
-    - c-168893
-
 <a id="claim-t-185533"></a>
-- t-003
+- t-002
   global_id: t-185533
-  teiginys: "Kazimieras manė, kad valstybei nenaudinga pradėti karą su turkais, kol nebaigtas karas su kryžiuočiais."
+  teiginys: "Liudvikas ragino skubėti prieš Mechmedą, nes, jo teigimu, turkų valdovas rengėsi karui prieš krikščionių pasaulį."
   pagrindžia:
     - c-168894
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Žiemos pabaigoje į Lietuvą pas karalių atvyko popiežiaus pasiuntinys Liudvikas, Antiochijos patriarchas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Iš ten karalius nuvyko į Lietuvą
-    ir likusius žiemos mėnesius praleido Kaune, nes Vil­
-    niuje ir Gardine siautė maras.
-    Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
-    vikas, Antiochijos
-    patriar­
-    chas, popiežiaus pasiuntinys.
-    Rytų imperijos gyventojai,
-    pavergti turkų, maldavo Va­
-    karų šalis, o ypač popiežių
-    bei imperatorių padėti be-
-    žlungančiai krikščionybei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196243"></a>
+- t-003
+  global_id: t-196243
+  teiginys: "Žiemos pabaigoje atvyko Lietuvon pas karalių Liud vikas, Antiochijos patriar chas, popiežiaus pasiuntinys."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Po Bajazito sutriuškinimo skitų vardas, pasak Kojelavičiaus, turkams kėlė didžiausią siaubą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Antra vertus, visi žinojo, kad po Bajazito sutriuš­
-    kinimo skitų vardas turkams kelia didžiausią siaubą.
-    Štai todėl, pažadėję atsiųsti didelę samdininkų kariuo­
-    menę, imperatorius ir popiežius stengėsi per Liudviką
-    sukurstyti prieš turkus skitus. Skitų chanas Ač Girė-
-    jus atsakė jų pasiuntiniui, kad jis net pagalvoti negalįs
-    apie karą be karaliaus Kazimiero žinios ir sutikimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Kazimieras manė, kad valstybei nenaudinga pradėti karą su turkais, kol nebaigtas karas su kryžiuočiais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nors Kazimierui ir nestigo
-    ryžto pradėti karą su turkais, tačiau jis manė, jog tuo
-    tarpu valstybei nenaudinga, išskaidžius jėgas, pradėti
-    naują ir pavojingą žygį nepabaigus gerokai visus
-    1465 m e ta i
-    P o p iežiu s ir im p e r a ­
-    toriu s
-    k u rsto
-    sk itu s
-    p rieš tu rku s
-    17*
-    515
-
-    ## Puslapis 514
-
-    veiksmus varžančio karo su kryžiuočiais. Liudvikas, su­
-    vokęs, jog delsiama tokiu svarbiu reikalu, dėl kurio nie­
-    ku būdu negalima neskubėti, pabūgęs gaišaties labiau
-    nei atviro neigiamo atsakymo, sugrįžo pas imperatorių,
-    nebesitikėdamas susilaukti pagalbos iš skitų. Tuo tarpu
-    karalius, numetęs nuo galvos šį rūpestį, iš paskutiniųjų
-    ėmė rengtis naujam žygiui prieš kryžiuočius: sulaukęs
-    lietuvių pagalbos, daliai ka-
-    R en giasi ka ru i
-    p rie š
-    riuomenės įsakė saugoti Li-
-    k ry ž iu o č iu s
-    vonijos pasienį, kad pro ten
-    kokie karių būriai negalėtų
-    laisvai traukti į Prūsiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+    - c-178593
 
 ## Citatos
 
 - id: c-168892
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 513"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 513."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Iš ten karalius nuvyko į Lietuvą
-    ir likusius žiemos mėnesius praleido Kaune, nes Vil­
-    niuje ir Gardine siautė maras.
-    Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
-    vikas, Antiochijos
-    patriar­
-    chas, popiežiaus pasiuntinys.
-    Rytų imperijos gyventojai,
-    pavergti turkų, maldavo Va­
-    karų šalis, o ypač popiežių
-    bei imperatorių padėti be-
-    žlungančiai krikščionybei.
+    Nebežinoda­
+    mi, ko griebtis, sugalvojo padegti vieną kitą namą, iš­
+    gąsdinti žmonės supuolė gesinti gaisrų, o kariai, paspau­
+    dę pentinais žirgus, kuo greičiausiai nušuoliavo iš
+    miesto į atvirą lauką. Sužinojęs apie šį Įvykį, miesto se­
+    niūnas Mykolas, Čartorysko kunigaikštis, sielvartauda­
+    mas ir niršdamas dėl padarytos skriaudos, pasileido pas­
+    kui padrikai sprunkantį raitelių būrį, pasivijęs bėglius,
+    iš pradžių nesėkmingai užpuolė, o vėliau, atskubėjus di­
+    desnėms jėgoms, apsupo juos prie Bugo upės ir kardais
+    iškapojo; tepaspruko iš čia vos penki raiteliai, kuriems
+    padėjo išnešti sveiką kailį gal laimė, o gal narsa. Kai
+    žinia apie šį įvykį pasiekė Lenkiją ir Lietuvą, bemat
+    pasklido kalbos, jog ten vyko kur kas didesnės kovos
+    nei iš tikrųjų (paprastai šitokį atgarsį sukelia pirmi
+    gandai), nes žmogus be galo linkęs viską perdėti arba
+    visko prisigalvoti, kaip jam šauna į galvą.
+  citata_rodoma: "Iš ten karalius nuvyko į Lietuvą\nir likusius žiemos mėnesius praleido Kaune, nes Vil­\nniuje ir Gardine siautė maras.\nŽiemos pabaigoje atvyko Lietuvon pas karalių Liud­\nvikas, Antiochijos\npatriar­\nchas, popiežiaus pasiuntinys.\nRytų imperijos gyventojai,\npavergti turkų, maldavo Va­\nkarų šalis, o ypač popiežių\nbei imperatorių padėti be-\nžlungančiai krikščionybei."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -181,64 +100,48 @@ Nenurodyta
   pagrindzia:
     - t-185531
 
-- id: c-168893
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 513"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 513."
-  citata_originali: |
-    Antra vertus, visi žinojo, kad po Bajazito sutriuš­
-    kinimo skitų vardas turkams kelia didžiausią siaubą.
-    Štai todėl, pažadėję atsiųsti didelę samdininkų kariuo­
-    menę, imperatorius ir popiežius stengėsi per Liudviką
-    sukurstyti prieš turkus skitus. Skitų chanas Ač Girė-
-    jus atsakė jų pasiuntiniui, kad jis net pagalvoti negalįs
-    apie karą be karaliaus Kazimiero žinios ir sutikimo.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185532
-
 - id: c-168894
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Nors Kazimierui ir nestigo
-    ryžto pradėti karą su turkais, tačiau jis manė, jog tuo
-    tarpu valstybei nenaudinga, išskaidžius jėgas, pradėti
-    naują ir pavojingą žygį nepabaigus gerokai visus
-    1465 m e ta i
-    P o p iežiu s ir im p e r a ­
-    toriu s
-    k u rsto
-    sk itu s
-    p rieš tu rku s
-    17*
-    515
-
-    ## Puslapis 514
-
-    veiksmus varžančio karo su kryžiuočiais. Liudvikas, su­
-    vokęs, jog delsiama tokiu svarbiu reikalu, dėl kurio nie­
-    ku būdu negalima neskubėti, pabūgęs gaišaties labiau
-    nei atviro neigiamo atsakymo, sugrįžo pas imperatorių,
-    nebesitikėdamas susilaukti pagalbos iš skitų. Tuo tarpu
-    karalius, numetęs nuo galvos šį rūpestį, iš paskutiniųjų
-    ėmė rengtis naujam žygiui prieš kryžiuočius: sulaukęs
-    lietuvių pagalbos, daliai ka-
-    R en giasi ka ru i
-    p rie š
-    riuomenės įsakė saugoti Li-
-    k ry ž iu o č iu s
-    vonijos pasienį, kad pro ten
-    kokie karių būriai negalėtų
-    laisvai traukti į Prūsiją.
+    Reikėjo skubėti, kol Mech-
+    medas, turkų valdovas, neužkariavo kaimyninių kraštų
+    ir neperkėlė karo į Europos
+    gilumą: pasak Liudviko,
+    jis iš paskutiniųjų rengėsi kariauti prieš krikščionių
+    pasaulį. Kad jis sakė teisybę, akivaizdžiai patvirtino
+    vėlesni įvykiai. Tačiau tuo metu niekas nenorėjo pir­
+    mas susigrumti su bendru priešu ir užsitraukti sau bė­
+    dos.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185533
+
+- id: c-178593
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kadangi menkame miestelyje nebuvo nei tinkamų būs­
+    tų gyventi, nei deramos menės bendriems posėdžiams,
+    be to, vargu ar čia galėjo tikėtis kokių patogumų žie-
+    5 1 4
+
+    mą, vėl visą reikalą atidėjo kitiems metams ir, nieko
+    nenuveikę, išsiskirstė. Iš ten karalius nuvyko į Lietuvą
+    ir likusius žiemos mėnesius praleido Kaune, nes Vil­
+    niuje ir Gardine siautė maras.
+    Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
+    vikas, Antiochijos
+    patriar­
+    chas, popiežiaus pasiuntinys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196243

@@ -50,39 +50,6 @@ media_all_json: |-
   teiginys: "Lietuvos principas buvo nepulti, bet nesitraukti, pasirinkus nesmurtinio politinio ir moralinio išsivadavimo kelią."
   pagrindžia:
     - c-12483
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuva neturėjo jokios ginkluotos jėgos, ji jau buvo pasirinkus
-    nesmurtinio politinio ir moralinio išsivadavimo kelią. Jei kas ėmėsi
-    smurto, tai buvo kiti. Lietuvos principas buvo nepulti, bet nesi-
-    traukti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sudarėme savo Laikinąją
-    gynybos vadovybę ir toliau laikydamiesi nesmurtinio pasiprieši-
-    nimo civilių piliečių apsisprendimu. Jie plikomis rankomis, dai-
-    nuodami ir melsdamiesi, stojo skersai kelio sovietų užpuolikui.
-    „Nepuolam, bet nesitraukiam“ gynybinė nuostata pasiekė savo
-    kulminaciją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

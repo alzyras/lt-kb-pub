@@ -35,28 +35,6 @@ Tučkovui, vadovavusiam rusų artilerijos parkui Poguliankoje (dabartinės J.
   teiginys: "Kapitonas A. Tučkovas, vadovavęs rusų artilerijos parkui Poguliankoje, atsitraukė su įgulos likučiais."
   pagrindžia:
     - c-44252
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kapitonas A. Tučkovas, vadovavęs rusų artilerijos parkui Poguliankoje, atsitraukė su įgulos likučiais.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jį saugoję
-    Lietuvos kariuomenės artileris-
-    tai patys įleido sukilėlius į vidų.
-    Atsitraukti su įgulos likučiais
-    pavyko kpt. A. Tučkovui, vado-
-    vavusiam rusų artilerijos par-
-    kui Poguliankoje (dabartinės
-
-    J. Basanavičiaus gatvės dalis).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

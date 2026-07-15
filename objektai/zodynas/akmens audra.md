@@ -61,8 +61,8 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
   teiginys: "Narbutas akmens audros pėdsakus aiškina nevienodu uolienų nuolaužų išsidėstymu žemės paviršiuje."
   pagrindžia:
     - c-175107
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -107,16 +107,23 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
 - id: c-175106
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 400"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 400."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Vis
+    dėlto visat kas priklauso šiai iškasenų karalijai, yra kilę
+    iš Skandinavijos, t. y. Suomijos kalnų, kurie visiškai ski­
+    riasi nuo Pietuose ir Rytuose stūksančių masyvų.
+    Visi akmens luitai — ir tokie, kurių masė neleido jiems
+    būti išverstiems norago, t. y. nepajudinti iš savo pirmykš­
+    tės vietos, ir patys didžiausi, — visi guli ant pagrindo,
+    kuris atitinka jų svorio masės centrą, ir nesvarbu, ar jie
+    yra ant žemės paviršiaus, ar pripustytos žemės gilumoje.
     Ilgai nekalbėsime įrodinėdami, kad akmens audros ki­
     lo iš Skandinavijos, nes tai jau anksčiau įrodė geologai,
     ypač Hisingeris ir Geiingeno universiteto profesorius IJaus-
     manas, kurio straipsnis buvo išspausdintas
     ,,Dziennik
-    Wilenski" (J829. T. V). Sunku nustatyti tų sąnašų ribas
-    neturint smulkių tų vietovių tyrinėjimų.
+    Wilenski" (J829.
   citata_rodoma: "Ilgai nekalbėsime įrodinėdami, kad akmens audros ki­\nlo iš Skandinavijos, nes tai jau anksčiau įrodė geologai,\nypač Hisingeris ir Geiingeno universiteto profesorius IJaus-\nmanas, kurio straipsnis buvo išspausdintas\n,,Dziennik\nWilenski\" (J829. T. V). Sunku nustatyti tų sąnašų ribas\nneturint smulkių tų vietovių tyrinėjimų."
   statusas: verified
   teiginio_tipas: faktas
@@ -128,10 +135,13 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
 - id: c-175107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 401"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 401."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šios akmens krušos įrodymas ■—■ tai
+    Be jokios abejonės, galima pa­
+    daryti prielaidą, jog dėl vidinės žemės jėgos, nepadedant
+    jokiems vulkaniniams fenomenams, įvyko sprogimai, ku­
+    rie į didelį aukštį išmetė pirmykščių uolų mases ir nusviedė
+    jas iš šiaurės į pietus. Šios akmens krušos įrodymas ■—■ tai
     akmens sangrūdų išsidėstymas. Jų visuomet daugiau ir
     masyvesnių būva kalnų papėdėse, tose vietose, kur yra jų
     svorio centrą atitinkantis pagrindas. Taigi matyti, jog

@@ -40,19 +40,6 @@ media_all_json: |-
   teiginys: "Leidinys „Užduotis: Krašto apsaugos savanorių pajėgos“ 2001 m. išleistas Vilniuje."
   pagrindžia:
     - c-41709
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 255, „UŽDUOTIS“, Krašto apsaugos savanorių pajėgos, Vilnius, 2001, p. 9.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

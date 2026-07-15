@@ -52,42 +52,6 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
   teiginys: "Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams."
   pagrindžia:
     - c-76219
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    be „LENK wr po > > OChotenė “|
-    andomiras ig af Chotmisls
-    N. odie o ( a
-    ‘E> oo 3 =
-    2 “Batas0, 3 By sie iy Perejeslal < „
-    Lvovas a a ecas
-    = Aa 42 erczeas Kereso =
-    ~ > erkasai ų 2
-    iš a Ka a nigoro
-    1490 m. mirė Jogailaičiams priešiškas (A oN
-    Vengrijos karalius Motiejus Huniadis oo = A
-
-    ėlyn
-    EN
-
-    vieta ir žygio į Klecką kryptis dera K
-    Krymo totorių žygių į LDK kryptys „> a a 610
-    X. 1506 m. Klecko mūšio vieta E > Azovo )
-    VILNIUS g Valstybių sostinės Rr gro Cher:
-    KIJEVAS O Svarbesni miestai jlija M y =
-    : : =] his 40 1484 m. Turkijos sultonas Bajazidas II užėmė Moldavi-
-    Ula O Miestai = y?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

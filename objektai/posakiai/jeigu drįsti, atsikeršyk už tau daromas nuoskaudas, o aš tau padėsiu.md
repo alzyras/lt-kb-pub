@@ -35,8 +35,8 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
   teiginys: "Puotoje Skomantas paragino brolį Liudviką atsikeršyti už įžeidimus ir pažadėjo jam padėti."
   pagrindžia:
     - c-59734
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Puotoje Skomantas paragino brolį Liudviką atsikeršyti už įžeidimus ir pažadėjo jam padėti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -59,14 +59,17 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
 - id: c-59734
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,
-    be paliovos  jį užgauliodamas bei plūsdamas. Todėl jis tarė Skomantui: „Negi tam čia
-    mane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė
-    Skomantas: „Apgailestauju, kad esi koneveikiamas, jeigu  drįsti, atsikeršyk už tau
-    daromas nuoskaudas, o aš tau padėsiu“.
+    Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
+    minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
+    ordino broliams Prūsijoje. Samboras, matydamas, kad iš savo dalies negalėsiąs gyventi
+    taip iškilniai, kaip dera jo padėties žmogui, atidavė ją broliams, kad šie jį bei jo šeimyną
+    visa kuo aprūpintų. Tą patį padarė ir ketvirtas brolis, o kad šis dovanojimas butų teisėtas
+    ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių
+    veiksmų, kuriems galėtų pagal įstatymus ryžtis šioje kunigaikštystėje jie patys ar jų
+    palikuonys, ir išdavė tuo reikalu broliams raštus, kuriuos patvirtino savo antspaudais.
+  citata_rodoma: "Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,\nbe paliovos  jį užgauliodamas bei plūsdamas. Todėl jis tarė Skomantui: „Negi tam čia\nmane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė\nSkomantas: „Apgailestauju, kad esi koneveikiamas, jeigu  drįsti, atsikeršyk už tau\ndaromas nuoskaudas, o aš tau padėsiu“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

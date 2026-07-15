@@ -34,27 +34,6 @@ Dva­ sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės ba�
   teiginys: "Dva sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku ris tik tuo metu turės, taip pat ir du kitus namelius viršuje už prieglaudos, ten pat, priešais Šv."
   pagrindžia:
     - c-176902
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dva sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku ris tik tuo metu turės, taip pat ir du kitus namelius viršuje už prieglaudos, ten pat, priešais Šv.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Onos bažnyčios įsakytų pastatyti
-    trylikai asmenų pagal jų kunigišką luomą [pritinkantį būs­
-    tą]. Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­
-    glaudos praplėtimo prie dominikonų vienuolyno Šv. Dva­
-    sios [bažnyčios] namelius, stovinčius žemiau Šventosios
-    Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku­
-    ris tik tuo metu turės, taip pat ir du kitus namelius viršuje
-    už prieglaudos, ten pat, priešais Šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

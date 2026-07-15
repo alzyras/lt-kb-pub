@@ -55,33 +55,11 @@ Nenurodyta
 <a id="claim-t-192504"></a>
 - t-002
   global_id: t-192504
-  teiginys: "Franckevičiaus dienoraščio pasakojime Kauno klebonijoje darbininkas sienoje aptiko įmūrytą cinkinę Veneros statulėlę ir nunešė ją vikarui Mingailai."
+  teiginys: 'Franckevičiaus dienoraščio pasakojime Kauno klebonijoje darbininkas sienoje aptiko įmūrytą cinkinę Veneros statulėlę ir nunešė ją vikarui Mingailai.'
   pagrindžia:
     - c-175294
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas pasakojo, kad darbininkas mūre aptiko cinkinę deivės Veneros statulėlę ir nunešė ją kunigui vikarui Mingailai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ten dirbęs žmogus, išmušęs keletą
-    sluoksnių plytų, aptiko kadaise įmūrytą cinkinę deivės Veneros
-    statulėlę, kurią nunešė kunigui vikanu Mingailai. Kunigas vika­
-    ras, skrupulas, nelaukdamas mano sugrįžimo, įsakė tą antiką
-    sudaužyti ir nucinkuoti prikaistuvus bei puodus. Ir įvyko taip,
-    jog to paminklo, kurį senovės lietuvis (vadinasi, tam Dievui mel­
-    dęsis) bandė išgelbėti nuo pražūties, mūsiškis bedievis Mingaila
-    nenorėjo net pėdsako palikti“. Tai apčiuopiamas įrodymas, jog
-    kadaise buvo deivės Mildos stabai, kuriuos lietuviai itin garbi­
-    no*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Franckevičiaus dienoraščio pasakojime Kauno klebonijoje darbininkas sienoje aptiko įmūrytą cinkinę Veneros statulėlę ir nunešė ją vikarui Mingailai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -120,8 +98,7 @@ Nenurodyta
 - id: c-172615
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ten dirbęs žmogus, išmušęs keletą
     sluoksnių plytų, aptiko kadaise įmūrytą cinkinę deivės Veneros
@@ -139,36 +116,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189732
-
-- id: c-175294
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Šio atradimo smulkmenas
-    man papasakojo gerbiamas profesorius ponas Laurinavičius „Rei­
-    kėtų priminti ir tai, — rašoma jo laiške, —- jog amžiną atilsį ku­
-    nigas Franckevičius, buvęs Kauno klebonas (klebonavęs maždaug
-    prieš amžiną atilsį kunjigą] Pucilovskį) savo dienoraštyje (jis
-    ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš, norėdamas
-    462
-
-    ## Puslapis 472
-
-    savo bute, klebonijoje, pasidaryti sandėliuką, prieš išvykdamas į
-    Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iškirsti angą ir
-    ją sutvirtinti. Ten dirbęs žmogus, išmušęs keletą sluoksnių plytų,
-    aptiko kadaise įmūrytą cinkinę deivės Veneros statulėlę, kurią nu­
-    nešė kunigui vikarui Mingailai. Kunigas vikaras, skrupulas, ne­
-    laukdamas mano sugrįžimo, įsakė tą antiką sudaužyti ir nucin-
-    kuoti prikaistuvus bei puodus. Ir įvyko taip, jog to paminklo, ku­
-    rį senovės lietuvis (vadinasi, tam Dievui meldęsis) bandė išgel­
-    bėti nuo pražūties, mūsiškis bedievis Mingaila nenorėjo net pėd­
-    sako palikti“. Tai apčiuopiamas įrodymas, jog kadaise buvo deivės
-    Mildos stabai, kuriuos lietuviai itin garbino.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192504

@@ -42,43 +42,6 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   teiginys: "Pijarai, arba dievobaimingosios mokyklos, buvo pakviesti dėl dėmesio mokslui ir praktinio gyvenimo reikalams."
   pagrindžia:
     - c-03215
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pijarai, arba dievobaimingosios mokyklos, buvo pakviesti dėl dėmesio mokslui ir praktinio gyvenimo reikalams.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pijarai daugiau rūpinosi pačiu mokslu ir praktiškojo
-    gyvenimo reikalais. Ypač dėl to jie ir buvo pakviesti. Mat, švie-
-    sesnieji žmonės norėjo, kad mokyklų teikiamasai mokslas būtų
-    platesnis, pritaikytas ir kitiems gyvenimo reikalams, ne vien
-    Bažnyčiai. Tačiau pijarams buvo sunku įsigalėti: jėzuitų mo-
-    kyklų tinklas buvo jau išplėstas, visuomenė buvo jų įtakoje, o
-    patys jėzuitai nenorėjo užleisti savo pozicijų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    tuvoje buvo jau gana daug. Be to, XVIII amž. ir į Lietuvą
-    atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų
-    ordinas (pijarai kurdavo vadinamąsias dievobaimingąsias
-    mokyklas, lotyniškai _scholae piae;_ dėl to jie ir buvo vadinami
-    pijarais). Jie turėjo ne vien pradinių mokyklų, bet ir tokių pat
-    kolegijų, kaip ir jėzuitai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

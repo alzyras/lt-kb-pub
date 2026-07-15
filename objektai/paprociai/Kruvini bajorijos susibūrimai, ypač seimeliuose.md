@@ -63,40 +63,6 @@ Nenurodyta
   teiginys: "Kruvinų susidūrimų pasitaikydavo dažnuose bajorijos susibūrimuose, ypač seimeliuose."
   pagrindžia:
     - c-67157
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kruvinų susidūrimų pasitaikydavo dažnuose bajorijos susibūrimuose, ypač seimeliuose.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik ketvirtą dieną vyskupo Bžostausko ir Višniaveckių rūpesčių jie
-    buvo palaidoti.
-    Visa tai labai charakteringa to meto bajorijos nuotaikai ir jos
-    veikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos
-    susibūrimuose, o ypač seimeliuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Per vieną bajorų susibūrimą įsiaudrinusi minia po naktinių išgertuvių apsupo vienuolyną ir reikalavo belaisvio mirties.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Čia jis uždarė belaisvį pranciškonų vienuolyno celėje, greta savęs.
-    Tuo tarpu bajorų minia lauke siuto. Per naktį miestely girtuoklia-
-    vusi ir siautėjusi, rytą minia apsupo vienuolyną, reikalaudama be-
-    laisviui mirties.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

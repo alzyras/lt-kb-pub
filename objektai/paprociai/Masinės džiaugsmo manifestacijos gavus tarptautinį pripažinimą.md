@@ -73,29 +73,6 @@ media_all_json: |-
   teiginys: "1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai."
   pagrindžia:
     - c-23535
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pasamdyta užsienio karininkų tarnybai Lietuvoje, pra-
-    dėta formuoti JAV lietuvių karinė brigada – nors daug tokių sumanymų
-    nepavyko dėl finansų stokos, jie turėjo gerą atgarsį tarp sąjungininkų.
-    Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir An-
-    tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti
-    nepriklausomybę, be to, misijos suteikė objektyvią informaciją Antantei
-    apie padėtį Lietuvoje.
-    Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
-    sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
-    Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
-    susirinko prie laikinosios sostinės Kauno rotušės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Šaltiniai ir įrodymai
 

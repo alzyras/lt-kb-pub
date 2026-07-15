@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - žygis
   - ivykis
+  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'
@@ -71,59 +72,31 @@ Nenurodyta
   teiginys: "Dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje."
   pagrindžia:
     - c-59904
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dar apie tą patį
-
-       Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
-    maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
-    pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
-    lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
-    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno  ir brolio Rebodo iš
-    Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
-    ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
-    jas nusiaubė, degindami ir piešdami.
-
-
-
-
-       322 (315).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196930"></a>
+- t-004
+  global_id: t-196930
+  teiginys: "Todėl broliai, šitai matydami, sudegino savo pilies papilį, norėdami išvengti galimų pavojų."
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
+    - c-178986
 
 ## Citatos
 
 - id: c-59904
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dar apie tą patį
-
-       Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
+    Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
     maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
     pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
     lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
-    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno  ir brolio Rebodo iš
+    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno ir brolio Rebodo iš
     Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
     ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
     jas nusiaubė, degindami ir piešdami.
-
-
-
-
-       322 (315).
+    322 (315).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -132,3 +105,21 @@ Nenurodyta
     - t-59272
     - t-183911
     - t-194376
+
+- id: c-178986
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Todėl broliai, šitai matydami,
+    sudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,
+    atplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai
+    užstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir
+    ne kartą mėgino šitai padaryti. Dėl to broliai turėjo pasilikti laivuose, kur juos kiekvieną
+    valdymo metais ar kiek vėliau, pastatytas mūrinis bokštas donžonas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196930

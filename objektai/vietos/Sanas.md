@@ -57,40 +57,17 @@ Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe. Sanas apibūdi
 - susijęs iš Vakarų Bugas: Horodlė šaltinio pastaboje lokalizuojama Volynėje, dabartinėje Lenkijoje, prie Vakarų Bugo, į pietus nuo Bresto.
 - susijęs iš [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės.md#claim-t-86570|Rygos miesto civilinė teisė vokiečių teisės]]: Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.
 - susijęs iš [[objektai/zodynas/įpėdinis.md#claim-t-187547|įpėdinis]]: Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dėl įpėdinių žinomas tik iš Bychovco kronikos.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    2 d. mini Jonas iš Carnkovo (Monumentą Polonlae
-    Historica. t. II, p. 674—675) ir pagal j| J. Dlugošas (Dziejėvr pols-
-    kich ksiąg dwanascie. t. Ill, Krakow, 1868, p. 342). J. Dlugošas
-    tarp  lietuvių kunigaikščių mini ir Jogailą su Vytautu.
-    s Lenkų šaltiniuose (žr. past. 4) kalbama apie lietuvių persi­
-    kėlimą ne per Vistą, o per Sano upę, kuri (teka j Vislą iš dešinės,
-    apie 15 km aukščiau Zavichosto, taip pat apie nuniokojimą vie­
-    tovių dešiniajame Vislos krante.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-170354
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 232"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 232."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     2 d. mini Jonas iš Carnkovo (Monumentą Polonlae
     Historica. t. II, p. 674—675) ir pagal j| J. Dlugošas (Dziejėvr pols-
     kich ksiąg dwanascie. t. Ill, Krakow, 1868, p. 342). J. Dlugošas
-    tarp  lietuvių kunigaikščių mini ir Jogailą su Vytautu.
+    tarp lietuvių kunigaikščių mini ir Jogailą su Vytautu.
     s Lenkų šaltiniuose (žr. past. 4) kalbama apie lietuvių persi­
     kėlimą ne per Vistą, o per Sano upę, kuri (teka j Vislą iš dešinės,
     apie 15 km aukščiau Zavichosto, taip pat apie nuniokojimą vie­
@@ -101,5 +78,5 @@ Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe. Sanas apibūdi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187324
     - t-187323
+    - t-187324

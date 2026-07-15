@@ -66,25 +66,21 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186763|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono atvykimas į Kolomyją datuojamas 1485 m. rugsėjo 6-12 d.
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186764|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje datuojama 1485 m. rugsėjo 15 d.
 - susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.
-- susijęs iš Stepono laiškas Ivanui apie taiką su Aleksandru: Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai laikytis taikos su Aleksandru.
 - susijęs iš Vyskupo seminarijos įsteigimo iš Vozgėliškių dvaro raštas (1582 m.): 1582 m. rašte prašoma, kad karalius Steponas priimtų Vilniaus seminariją į savo globą ir gynybą.
-- susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Olbrachto kariuomenė buvo Bukovinoje, kai ją užpuolė Moldavijos vaivada Steponas.
-- susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Bukovinos miškuose ir bukynuose Steponas užpuolė Olbrachtą ir jo kariuomenę.
 - susijęs iš Moldavija: Lietuvos metraštis pasakoja, kad Olbrachtui įsiveržus į Moldaviją vaivada Steponas sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.
 - susijęs iš Putna: Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje.
 - susijęs iš Putna: Putna buvo kalnuose esantis Stepono mėgstamas vienuolynas, kuriame jis apsistojo su visa kariuomene.
 - susijęs iš Sučiava: Sučiavos pilis šiame pasakojime įvardijama kaip Moldavijos vaivados Stepono sostinė.
 - susijęs iš [[objektai/zodynas/miestiečių luomas.md#claim-t-86439|miestiečių luomas]]: Du paskutiniai Jogailaičiai miestiečių luomą paaukštino iki tikrųjų piliečių, o karalius Steponas jį stipriai palaikė.
+- susijęs iš [[objektai/daiktai/Sidabras, alavas, varis ir staltiesės.md#claim-t-200612|Sidabras, alavas, varis ir staltiesės]]: Po Juozapo Sapiegos mirties Steponas Olendskis perėmė ir išsivežė sidabrą, alavą, varį ir staltieses pagal velionio dvasininko registrą.
+- susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Olbrachto kariuomenė buvo Bukovinoje, kai ją užpuolė Moldavijos vaivada Steponas.
+- susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Bukovinos miškuose ir bukynuose Steponas užpuolė Olbrachtą ir jo kariuomenę.
 - susijęs iš Malburgas: 1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.
 - susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192172|jurisdikcija]]: 1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.
 - susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87407|Martynas Paleckis]]: Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo.
-- susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185425|Langobardai]]: 703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186652|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186654|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato, kad miesto nepaims.
-- susijęs iš Bukovina: Lietuvos metraštyje Bukovina vaizduojama kaip akmeninga, uolėta ir sunkiai pereinama vietovė Lenkijos sienos link.
-- susijęs iš Bukovina: Po sutarties su Moldavijos vaivada Olbrachtas traukė per Bukoviną ir kalnus Lenkijos sienos link.
 - susijęs iš Kamenecas: Moldavijos vaivada Steponas su turkų paša Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Lvovo ir net Tarnovo.
-- susijęs iš Kolomyja: Moldavijos vaivados Stepono vasalinė priesaika įvyko Kolomyjoje 1485 m. rugsėjo 15 d.
 - susijęs iš Kolomyja: Moldavijos vaivada Steponas atvyko į Kolomyją tarp 1485 m. rugsėjo 6 ir 12 d.
 - susijęs iš Lvovas: Moldavijos vaivada Steponas ir turkų sultono paša Malkočas kariavo Lenkijos žemėje nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių.
 - susijęs iš Sniatinas: Sniatinas lokalizuojamas į rytus nuo Kolomyjos.
@@ -95,44 +91,10 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo.
 - susijęs iš [[objektai/zodynas/konversija christianizacija europeizacija.md#claim-t-22198|konversija christianizacija europeizacija]]: Vytauto bažnytinė politika siekė Lietuvos konversijos ir „švento valdovo“ įvaizdžio.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Paminėkime tokią grandinę: Lenkijos valdovo
-    Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988),
-    kankinyste pasibaigusi šv. Adalberto misija Prūsijoje (997), Norvegijos
-    valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-
-    imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
-    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
-    krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Apaštalų darbuose rašoma, kad Steponas, pilnas malonės ir galios, darė didžių stebuklingų ženklų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie didingus ženklus
-    „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė
-    žmonėse didžių stebuklingų ženklų“. Vargu ar kas galėtų suabejoti, kad Teutonų namų
-    broliai buvo pilni malonės ir galios, nes,  į tokį negausų būrį susispietę, pajungė tokią
-    galingą, tokią žiaurią ir nesuskaitomą prūsų gentį, kurios neįstengė pavergti daugybė
-    valdovų, daug kartų šitai mėginusių padaryti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
+- susijęs iš Bukovina: Lietuvos metraštyje Bukovina vaizduojama kaip akmeninga, uolėta ir sunkiai pereinama vietovė Lenkijos sienos link.
+- susijęs iš Bukovina: Po sutarties su Moldavijos vaivada Olbrachtas traukė per Bukoviną ir kalnus Lenkijos sienos link.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200664|seimelis]]: Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200666|seimelis]]: Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.
 ## Citatos
 
 - id: c-22021
@@ -158,8 +120,7 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - id: c-64968
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 33"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie didingus ženklus
     „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė

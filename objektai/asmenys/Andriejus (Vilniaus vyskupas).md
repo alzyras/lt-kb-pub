@@ -43,23 +43,6 @@ Rodos, kad Jogaila su Vytautu ir Vilniaus vysk.
   teiginys: "Vilniaus vyskupas Andriejus su Jogaila ir Vytautu, rodos, susitarė sudaryti taiką su Ordinu."
   pagrindžia:
     - c-37982
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuo reikalu jų abiejų susitarimas
-    turėjo įvykti 1397 m. pavasarį, būnant Jogailai Lietuvoj. Rodos,
-    kad Jogaila su Vytautu ir Vilniaus vysk. Andriejum susitarė pa­
-    daryti ir taiką su Ord., su kuriuo tų metų pradžioj buvo padarytos
-    ginklų paliaubos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,25 +35,6 @@ Varšuvos kunigaikštija kartu su Saksonija įėjo į Napoleono protektorate esa
   teiginys: "Varšuvos kunigaikštija kartu su Saksonija įėjo į Napoleono protektorate esančią Pareinės valstybių sąjungą."
   pagrindžia:
     - c-176036
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Varšuvos kunigaikštija kartu su Saksonija įėjo į Napoleono protektorate esančią Pareinės valstybių sąjungą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kunigaikščiu buvo paskirtas Saksų
-    karalius. Varšuvos kunigaikštija kartu su Saksonija įėjo į Na-
-    poleono protektorate esančią Pareinės valstybių sąjungą. Ji bu-
-    vo sudaryta iš Lenkijos žemių, tekusių Prūsijai per I ir II pa-
-    dalinimus, ir iš Lietuvos Užnemunės, per trečiąjį padalinimą taip
-    pat tekusios Prūsijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

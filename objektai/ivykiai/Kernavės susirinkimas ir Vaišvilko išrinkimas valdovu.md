@@ -54,8 +54,8 @@ Nenurodyta
   teiginys: "Kernavės susirinkime dėl Vaišvilko valdžios abi ginčo pusės triukšmavo ir užsipuldinėjo viena kitą."
   pagrindžia:
     - c-168951
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kernavėje sukviestame susirinkime susirinko daug diduomenės, o lietuviai rėmė Vaišvilko išrinkimą valdovu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -105,19 +105,26 @@ Nenurodyta
 - id: c-168950
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 112."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kernavėje buvo sukviestas susirinkimas,
-    ten susirinko galybė diduomenės. Visi lietuviai rėmė
-    Vaišvilką. Tuo tarpu žemaičiai bei jotvingiai apie tai
+    Tuo tarpu žemaičiai bei jotvingiai apie tai
     nė girdėti nenorėjo; jie sutiko pripažinti bet kieno val­
     džią, tik ne Vaišvilko, dėl akių jie minėjo visokiau­
     sias priežastis, nors tikroji priežastis buvo nepasitikė­
     jimas ir baimė, kad Vaišvilkas, paskelbtas valdovu, ne
     tiek rūpinsis valstybe, kiek galvos apie kerštą už tė­
     vą Mindaugą, kurį nužudyti neseniai žemaičiai ir jot­
-    vingiai padėjo Treniotai.
+    vingiai padėjo Treniotai. Susirinkime ir ta, ir kita ša­
+    lis be galo triukšmavo, užsipuldinėdama viena kitą.
+    Naugardukiečiai bei kiti Lietuvai priklausę, bet iš ru­
+    sų kilę didikai skelbėsi valstybės labui neremsią nė
+    vienos pusės: jie būsią paklusnūs tam valdovui, kurį
+    sutardamos abi tautos išrinksią. Vis dėlto jeigu tary­
+    boje laisva valia nebus rastas geriausias būdas taikai
+    pasiekti sau nepakenkiant, jie tikrai pirmieji pasiūly­
+    sią susirasti kokį svetimšalį valdovą, kuris, paėmęs
+    valdžią, bus bešališkas ir nelinkstąs nė į vieną pusę.
+  citata_rodoma: "Kernavėje buvo sukviestas susirinkimas,\nten susirinko galybė diduomenės. Visi lietuviai rėmė\nVaišvilką. Tuo tarpu žemaičiai bei jotvingiai apie tai\nnė girdėti nenorėjo; jie sutiko pripažinti bet kieno val­\ndžią, tik ne Vaišvilko, dėl akių jie minėjo visokiau­\nsias priežastis, nors tikroji priežastis buvo nepasitikė­\njimas ir baimė, kad Vaišvilkas, paskelbtas valdovu, ne\ntiek rūpinsis valstybe, kiek galvos apie kerštą už tė­\nvą Mindaugą, kurį nužudyti neseniai žemaičiai ir jot­\nvingiai padėjo Treniotai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -128,19 +135,26 @@ Nenurodyta
 - id: c-168951
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 112."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Susirinkime ir ta, ir kita ša­
-    lis be galo triukšmavo, užsipuldinėdama viena kitą.
-    Naugardukiečiai bei kiti Lietuvai priklausę, bet iš ru­
-    sų kilę didikai skelbėsi valstybės labui neremsią nė
-    vienos pusės: jie būsią paklusnūs tam valdovui, kurį
-    sutardamos abi tautos išrinksią. Vis dėlto jeigu tary­
+    Vis dėlto jeigu tary­
     boje laisva valia nebus rastas geriausias būdas taikai
     pasiekti sau nepakenkiant, jie tikrai pirmieji pasiūly­
     sią susirasti kokį svetimšalį valdovą, kuris, paėmęs
     valdžią, bus bešališkas ir nelinkstąs nė į vieną pusę.
+    Rusios karalius Danielius turįs sūnų, pakankamai su­
+    brendusį valdyti, taip pat kaimynystėje gyvenąs jo
+    seserėnas Lucko ir Drogičino kunigaikštis Svarnas, la­
+    bai įgudęs ir uolus kariautojas, lydėjęs Mindaugą lie­
+    tuvių žygiuose prieš lenkus. Šito sumanymo nepeikė
+    nei žemaičiai, nei jotvingiai, tik lietuviai jam kuo
+    įnirtingiausiai priešinosi. Jie sakėsi neabejoję, kad
+    rusų diduomenė iš širdies rūpinasi valstybe; mat nuo
+    to laiko, kai Naugardukas su kitomis Rusios žemėmis
+    prijungtas prie Lietuvos, jie ne tik pavaldumu, bet ir
+    savo nuotaikomis bei siekimais perėję į Lietuvos pu­
+    sę ir pradėję taip elgtis, tarsi būtų, sumišai gyvenda-
+  citata_rodoma: "Susirinkime ir ta, ir kita ša­\nlis be galo triukšmavo, užsipuldinėdama viena kitą.\nNaugardukiečiai bei kiti Lietuvai priklausę, bet iš ru­\nsų kilę didikai skelbėsi valstybės labui neremsią nė\nvienos pusės: jie būsią paklusnūs tam valdovui, kurį\nsutardamos abi tautos išrinksią. Vis dėlto jeigu tary­\nboje laisva valia nebus rastas geriausias būdas taikai\npasiekti sau nepakenkiant, jie tikrai pirmieji pasiūly­\nsią susirasti kokį svetimšalį valdovą, kuris, paėmęs\nvaldžią, bus bešališkas ir nelinkstąs nė į vieną pusę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

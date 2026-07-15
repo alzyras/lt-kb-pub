@@ -9,17 +9,19 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1225 m.'
   - '1263 m.'
   - '1267 m.'
   - '1270 m.'
   - '1274 m.'
   - '2026 m.'
-date_start: '1263'
+date_start: '1225'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - upė
   - kariuomenė
 amziai:
   - 'XIII'
@@ -41,7 +43,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių, gyveno kuršiai.
+Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus. Istorijos priešaušryje kuršių žemėse turėjo būti gana daug atskirų sričių kunigų, atlikdavusių aukojimus.
 
 ## Teiginiai
 
@@ -107,6 +109,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginys: "Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais."
   pagrindžia:
     - c-31146
+    - c-167698
 
 <a id="claim-t-65565"></a>
 - t-010
@@ -136,36 +139,28 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   pagrindžia:
     - c-65959
 
-<a id="claim-t-184328"></a>
-- t-014
-  global_id: t-184328
-  teiginys: "Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais."
-  pagrindžia:
-    - c-167698
-
 <a id="claim-t-184514"></a>
-- t-015
+- t-014
   global_id: t-184514
   teiginys: "Staiga kilusi grėsmė išjudino daug kuršių, žemaičių ir lietuvių priešintis priešui, kurio pavojų rodė pavergtos Latvijos likimas."
   pagrindžia:
     - c-167875
 
-<a id="claim-t-184515"></a>
-- t-016
-  global_id: t-184515
-  teiginys: "Kitais metais Utenis perkėlė karą iš Kuršo į Livoniją, o sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus."
-  pagrindžia:
-    - c-167876
-
 <a id="claim-t-192418"></a>
-- t-017
+- t-015
   global_id: t-192418
   teiginys: "Teodoro Narbuto teigimu, kuršiai pirmosios apskrities gyventojus vadino Kreeminen, arba krevinėnais, o antruosius - lyviais arba rehdingais."
   pagrindžia:
     - c-175212
+
+<a id="claim-t-196086"></a>
+- t-016
+  global_id: t-196086
+  teiginys: "Pasak Kojelavičiaus, Livonijos vokiečiai užpuolė kuršius, kurie tuo metu priklausė Lietuvai."
+  pagrindžia:
+    - c-178520
 - susijęs iš Ceklio sritis: Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą.
 - susijęs iš Kuršas: Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.
-- susijęs iš [[objektai/asmenys/Barkus.md#claim-t-186097|Barkus]]: Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitijos dalį iki Kuršių įlankos.
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
 - susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-116281|Henrikas Botelis]]: Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.
 - susijęs iš [[objektai/autoriai/Gotthard Friedrich Stender.md#claim-t-191624|Gotthard Friedrich Stender]]: Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
@@ -226,9 +221,6 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-191187|Vulfstanas]]: Narbuto pasakojime Vulfstanas dideliu laivu atplaukė prie Nogato žiočių ir pasiekė Druso miestą.
 - susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192506|Valtys]]: Narbuto pasakojime po rusų jūros pajėgų sutriuškinimo nugalėtojai įplaukę į įlanką turėjo brautis pro sudužusias valtis.
 - susijęs iš [[objektai/daiktai/Šventojo kryžiaus ženklas.md#claim-t-59715|Šventojo kryžiaus ženklas]]: Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178770|Jotvingiai]]: 1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178781|Jotvingiai]]: 1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178839|Kryžiuočių ordinas]]: Klaipėdos pilis beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
 - susijęs iš [[objektai/grupes/Lamatiečiai.md#claim-t-59036|Lamatiečiai]]: Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.
 - susijęs iš [[objektai/grupes/Lietgaliai.md#claim-t-184331|Lietgaliai]]: Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų.
 - susijęs iš [[objektai/grupes/Lietgaliai.md#claim-t-31268|Lietgaliai]]: Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų.
@@ -290,264 +282,6 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - susijęs iš Hervararsaga: Hervararsaga apie 675 m. teigė, kad Kuršą buvo užvaldęs švedų karalius Ivaras.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184593|Žemaičiai]]: Utenio sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus ir privertė priešą ginti savo kraštą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Nestoro „Povest“ tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų minėjo Kuršą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nepa­
-    duodama tikslios chronologijos, Nestoro « Povest » paminėjo kaimy­
-    nines tautas, kurios mokėjusios rusams duoklę. Tarp kitų duokli­
-    ninkių tautų yra minimos — vis savo atskiras kalbas turinčios —
-    «Lietuva, Žiemgala, Kuršas, Neroma, Lybiai». Dauguva norma­
-    nams buvo svarbus vandens kelias į rytus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-    - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų
-    pareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos
-    priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
-    drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
-    dalis jų yra žinoma ir vardais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-003
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais. Net ir
-    pas vienkiemius pamėgusius lietgalius yra atrasta kuopinių kaimų.
-    Istorinių laikų sąvartoje, šalia įprastinių kuopinių kaimų, pasitai­
-    kydavo lietuvių gyvenamų viensėdžių sodybų, tačiau kaiminės
-    sodybos dominavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kadangi Prūsų kryžiuočiai porai dešimtmečių buvo užimti
-    krašto viduje (sukilimas galutinai buvo numalšintas 1274 m.), Trai­
-    denio ir jo įpėdinių valdžioje spėjusi sutvirtėti, vėliau per eilę gene­
-    racijų Lietuva pajėgė sėkmingai vesti įtemptas kovas prieš riterius.
-    Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą
-    prieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.)
-    nesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo
-    sukilusios tautos : estai, kuršiai, žiemgaliai. Kuršas buvo pajungtas
-    tik po 7 metų kovos (1267 m.), o kol žiemgaliai buvo nugalėti, praėjo
-    30 metų (1290).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-012
-
-- c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ankstyvųjų šaltinių ir archeologiniai duomenys leidžia teigti, kad
-    kai kurių pietvakarių baltų genčių kariniai junginiai yra dalyvavę
-    karo žygiuose į yrančios Romos imperijos teritoriją. Vikingų epo-
-    choje prie jūros gyvenusiems prūsams ir kuršiams teko atremti
-    plėšikaujančius skandinavus. Tiesa, kuršiai XI a. jau ir patys reng-
-    davo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
-
-    vi-v1I a. į baltų žemes, iš pietų palei Dniepro upę, ėmė verž-
-    tis slavų gentys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-002
-
-- c-006
-  santrauka: 'Skalviai prie Nemuno žemupio siejosi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
-    Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai
-    prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,
-    žemaičių (žemutinių lietuvių) ir latvių13.
-      Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
-    baltų, kuriais laikytini ir kuršiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-007
-  santrauka: 'Kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
-    kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.
-    Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
-    žmonės, tvirtindami, kad su jų belaisviais bus pasielgta taip, kaip reikalauja elgtis
-    visiems žinomi karo papročiai. Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
-    ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš
-    užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš
-    užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
-    ištikimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-008
-  santrauka: 'Kronikininkai mini spindinčius metalo ginklus pas kuršius ir žiemgalius.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    8345). Spindinčius metalo ginklus kronikininkai randa ir pas
-    kuršius bei žiemgalius.
-    Puikų lietuvių apginklavimą paliudija ir faktas, kad po per­
-    galės Livonijoje vokiečių kariuomenė dalinosi lietuvių ginklais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Kuršių gyvenama teritorija prasidėjo į šiaurę nuo Minijos žemupio, Klaipėdos apylinkėse.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Į šiaurę nuo Nemuno žiočių, Minijos
-    žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
-    Lietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,
-    p. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,
-    žemėl.). Ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-010
-  santrauka: 'Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Galėjo tas pat būti ir Lietuvoje, kai gyventojai iš sunkiau apgi­
-    namų vietų ordino karų laikais vis labiau traukėsi į uždarų sodybų
-    plotus. Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais. Net ir
-    pas vienkiemius pamėgusius lietgalius yra atrasta kuopinių kaimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-011
-  santrauka: 'Staiga kilusi grėsmė išjudino daug kuršių, žemaičių ir lietuvių priešintis priešui, kurio pavojų rodė pavergtos Latvijos likimas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kolonijos Agripinos6 ar­
-    kivyskupas Avigenas ne tik pats su kariuomene pa­
-    traukė į žygį, bet netgi jai nelyginant etmonas vado­
-    vavo. Staiga kilusi grėsmė išjudino galybę kuršių,
-    žemaičių ir lietuvių: Latvijos, pakliuvusios į žeminan­
-    čią vergovę, varganas likimas akivaizdžiausiai rodė,
-    kaip labai pavojinga iš pat pradžių neatremti visomis
-    jėgomis į kovą pakilusio priešo. Šitokios mintys teikė
-    nepatyrusiems žmogeliams tokio ryžto ir tokios drą­
-    sos, kad, greitosiomis sutelktai miniai užpuolus, pirma­
-    me susidūrime buvo sutriuškinti prityrę krikščionių
-    kariai, o pats arkivyskupas žuvo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
-- c-012
-  santrauka: 'Kitais metais Utenis perkėlė karą iš Kuršo į Livoniją, o sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kitais metais
-    Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę
-    tik savo šalyje priešintis Li-
-    L en kai k v ie č ia  iš V o -
-    vonijos riteriams, dabar lie-
-    k ie tijo s  į P rū siją  k r y -
-    tuviai buvo nusiųsti pulti
-    žiu o č iu s
-    priešų žemių. Sutelkus di­
-    džiulę
-    kuršių ir žemaičių
-    kariuomenę, buvo nusiaubti dideli Livonijos plotai. Ši­
-    taip Utenis privertė priešą liautis puldinėjus Žemaiti­
-    ją ir ginti savo kraštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-
-- c-013
-  santrauka: 'Teodoro Narbuto teigimu, kuršiai pirmosios apskrities gyventojus vadino Kreeminen, arba krevinėnais, o antruosius - lyviais arba rehdingais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šį žodį estiškai galėjo pateikti šią su­
-    tartį rašęs žmogus, galėjo taip pavadinti net ir patys te­
-    nykščiai gyventojai, nes galbūt jie yra estų palikuonys;
-    tačiau šis noras įmaišyti juos į visos tautos šaknį yra
-    neteisingas ir labai klaidingas. Kuršiai pirmosios apskri­
-    ties gyventojus skiria nuo savo gentainių, vadindami
-    Kreeminen, ikrevinėnais, turbūt todėl, kad kilę iš slavų-fi-
-    nų, o antruosius vadina tiesiog lyviais arba rehdingais
-    (§ 83).
-    249
-    Bet grįžkime prie mūsų temos tęsinio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
 ## Citatos
 
 - id: c-31144
@@ -567,8 +301,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65565
     - t-65554
+    - t-65565
 
 - id: c-31145
   autorius: "Zenonas Ivinskis"
@@ -586,8 +320,8 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65559
     - t-65556
+    - t-65559
 
 - id: c-31146
   autorius: "Zenonas Ivinskis"
@@ -650,21 +384,21 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65560
     - t-65555
+    - t-65560
 
 - id: c-65957
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 9"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
-    Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai
-    prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,
-    žemaičių (žemutinių lietuvių) ir latvių13.
-      Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
-    baltų, kuriais laikytini ir kuršiai.
+    Jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15. Kiti tyrinėtojai teigia, kad
+    sunku esą įrodyti buvus skirtumų tarp prūsų ir jotvingių kalbų16, kad visiškai neaišku, ar
+    jotvingių kalba buvusi tarpinė tarp prūsų ir lietuvių, ar prūsų kalbos tarmė17. Mums žinomi
+    jotvingiški vietų ir asmenų vardai turi fonetinių ypatybių, būdingų prūsų kalbai18. Prūsai
+    (bei jotvingiai) priskiriami vakarų baltų tarmių regionui19. Lyginant su rytiniais baltais
+    — lietuviais, konstatuojama, kad jotvingių ir lietuvių kalbos nebuvo per daug viena nuo
+    kitos nutolusios.
   citata_rodoma: "Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai\nprie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,\nžemaičių (žemutinių lietuvių) ir latvių13.\n  Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t."
   statusas: verified
   teiginio_tipas: faktas
@@ -676,8 +410,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - id: c-65959
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
     kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.
@@ -714,14 +447,17 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - id: c-65964
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 54"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Į šiaurę nuo Nemuno žiočių, Minijos
-    žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
-    Lietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,
-    p. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,
-    žemėl.). Ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.
+    Pruzze, Pruze ir
+    pan. (MPKP, 1, p. 13—14). XII—XIII a. istoriniuose aktuose vardas dar nenusistovėjęs:
+    Pruzia (1141 m.—PUB, 1, 1, Nr. 2, p. 1; 1212 m.— Nr. 10, p. 7; 1222 m.— Nr. 41 A, p.
+    30), Pruscia (1210 m.— ten pat, Nr. 5, p. 4; 1216—1217 m.— Nr. 14, p. 10; 1218 m.—
+    Nr. 23, p. 17; 1222 m.— Nr. 41 B, p. 27; 1226 m.— Nr. 56, p. 42; 1243 m.— Nr. 143, p.
+    108), Prussia (1212 m..— ten pat, Nr. 6, p. 5; Nr. 7, p. 6; 1224 m.— Nr. 52, p. 38), Prutia
+    (1216 m.—ten pat, Nr. 9, p. 7; 1222 m.— Nr. 41, p. 28), Prusia (1223 m,— ten pat, Nr.
+    46, p. 34; 1230 m.— Nr. 75, p. 56), Prucia (1228 m.— ten pat, Nr. 67, p. 49—50).
+  citata_rodoma: "Į šiaurę nuo Nemuno žiočių, Minijos\nžemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.\nLietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,\np. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,\nžemėl.). Ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -739,17 +475,14 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     plotus. Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais. Net ir
     pas vienkiemius pamėgusius lietgalius yra atrasta kuopinių kaimų.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184328
-
 - id: c-167875
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 86"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 86."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kolonijos Agripinos6 ar­
     kivyskupas Avigenas ne tik pats su kariuomene pa­
@@ -770,38 +503,10 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   pagrindzia:
     - t-184514
 
-- id: c-167876
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 87"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 87."
-  citata_originali: |
-    Kitais metais
-    Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę
-    tik savo šalyje priešintis Li-
-    L en kai k v ie č ia  iš V o -
-    vonijos riteriams, dabar lie-
-    k ie tijo s  į P rū siją  k r y -
-    tuviai buvo nusiųsti pulti
-    žiu o č iu s
-    priešų žemių. Sutelkus di­
-    džiulę
-    kuršių ir žemaičių
-    kariuomenę, buvo nusiaubti dideli Livonijos plotai. Ši­
-    taip Utenis privertė priešą liautis puldinėjus Žemaiti­
-    ją ir ginti savo kraštą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184515
-
 - id: c-175212
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 256"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 256."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šį žodį estiškai galėjo pateikti šią su­
     tartį rašęs žmogus, galėjo taip pavadinti net ir patys te­
@@ -820,6 +525,47 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192418
+
+- id: c-178520
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Šitokios mintys teikė
+    nepatyrusiems žmogeliams tokio ryžto ir tokios drą­
+    sos, kad, greitosiomis sutelktai miniai užpuolus, pirma­
+    me susidūrime buvo sutriuškinti prityrę krikščionių
+    kariai, o pats arkivyskupas žuvo. Mirus apie tuos mė­
+    tos kalvos prie Šventosios upės statulą, Šiuo metu ten
+    giraitė, tebeturinti senąjį vardą: palaidoto kunigaikš-
+    1225 m eta i
+    L iv o n ijo s v o k ie č ia i
+    su m u ša m i že m a ičių ir
+    lie tu v ių
+    jos vokiečiai pirmą kartą pa­
+    tyrė
+    stambų
+    pralaimėjimą
+    nuo
+    lietuvių
+    ir
+    žemaičių.
+    Pavergę Livoniją, jie užpuo­
+    lė kuršius, kurie anuo me­
+    tu priklausė Lietuvai; dang-
+    U ten is — L ie tu vo s
+    b e i Ž e m a itijo s k u n i­
+    g a ik štis
+    tus Kukovaičiui, valdžią se­
+    nojoje Lietuvoje (Užneryje)
+    ir Žemaitijoje perėmė jo sū­
+    nus Utenis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196086
 
 ## Ryšiai
 - Kuršiai surengė žygį į [[objektai/vietos/Švedija]]

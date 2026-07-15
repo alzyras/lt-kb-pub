@@ -43,29 +43,6 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
   teiginys: "Vytautas 1415 m. Naugarduke paskelbė Jurgį Cemblaką Kijevo metropolitu."
   pagrindžia:
     - c-38064
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dėl to jau Algirdas buvo dėjęs daug
-    pastangų, ir jam pagaliau buvo pasisekę įkurti Lietuvos kuni­
-    gaikštijos ribose gyvenantiems pravoslavams atskirą metropo­
-    liją, nes senąjį metropolitą grąžinti į Kijevą jau buvo nebegalima.
-    Vytautas tą savos metropolijos svarbą suprato labai gerai ir po
-    visokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti
-    klausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho
-    priešinimosi 1415 met. sušaukęs Naugardukan pravoslavų aukš­
-    tuosius dvasiškius ir didikus, Kijevo metropolitu paskelbė Jurgį
-    Cemblaką. Patriarcho tas metropolitas buvo iškeiktas, bet iš­
-    silaikė savo soste iki mirties.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

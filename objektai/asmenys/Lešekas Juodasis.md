@@ -48,50 +48,6 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
   teiginys: "1282 metais Lešeko Juodojo vadovaujami lenkai prie Narevo užklupo jotvingius ties Ostrolenka."
   pagrindžia:
     - c-173801
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lešekas Juodasis Krokuvai suteikė svarbias privilegijas ir sustiprino miestą geriausiomis mūro sienomis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Benjaminas iš Tudelio, žydų kilmės ke­
-    liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne
-    tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau
-    nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
-    tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­
-    linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­
-    čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
-    dajam. Poznanė dar anksčiau už Krokuvą - 1253 metais,
-    Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
-    ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
-    teises.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1282 metais Lešeko Juodojo vadovaujami lenkai prie Narevo užklupo jotvingius ties Ostrolenka.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be
-    to, Traidenis vakarinėje Jotvingijoje paliko visos tautos
-    pražūties užuomazgą, nes savo užpuolimais galutinai įer­
-    zino lenkus, kurie, Lešeko Juodojo vadovaujami, 1282 me­
-    tais prie Narevo įvykdė tai, ką jotvingiams skyrė nelai­
-    minga lemtis: jie visi buvo užklupti prie garsėjusios dau­
-    geliu kraujo praliejimų Ostrolenkos. Tačiau jotvingiai
-    paniekino nelaisvę ir leidosi visi iškapojami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -121,8 +77,7 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
 - id: c-173801
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be
     to, Traidenis vakarinėje Jotvingijoje paliko visos tautos

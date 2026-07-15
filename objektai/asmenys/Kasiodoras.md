@@ -43,31 +43,8 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
   teiginys: "Kasiodoro raštų rinkinyje (Variarum. Lib."
   pagrindžia:
     - c-177310
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje gyvenusius estus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Apie estus nėra žinių nuo Tacito
-    laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
-    tijos jūros pakrančių gyventojais, kurie prekiavo gintaru
-    ir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,
-    daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­
-    jęs, mini estus, kurie taip pat gyveną jūros pakrantėje3.
-    Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
-    riko įtaką Europos vakaruose gyvenančioms tautoms ir
-    gentims, sako: „Turbūt tas pats karalius Germanarikas
-    savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
-    kraštą ir pavergė estų tautą“4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Kasiodoro raštų rinkinyje (Variarum. Lib.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -89,8 +66,7 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
 - id: c-174170
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Apie estus nėra žinių nuo Tacito
     laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
@@ -113,13 +89,18 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
 - id: c-177310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie
-    tai
-    šiame veikale dar bus
-    kalbama vėliau.
+    Ado­
+    mas Bremenietis* žinojo tą pačią Estiją. Aprašinėdamas
+    prie Baltijos jūros esančius kraštus, kuriuos dėl senama­
+    diškų kaprizų vadina salomis, jis rašo: „Taip pat mums
+    pasakojo, kad toje jūroje esama daug kitų salų, kurių
+    viena
+    didžiulė vadinasi Estlandija1. Čia neminėsime
+    skandinavų keliautojo Vulfstano pasakojimo apie Estiją;
+    čia jis apsilankė IX amžiaus antrojoje pusėje.
+  citata_rodoma: "2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie\ntai\nšiame veikale dar bus\nkalbama vėliau."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

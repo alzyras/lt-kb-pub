@@ -34,30 +34,13 @@ Dusburgietis teigia, kad 206 D.— baculum. Krivės baculum buvo krivūlė — k
   teiginys: "Lietuvių etnografijos bruožuose krivūlė siejama su krivio valdžios ženklu ir lazda žmonėms į kuopą šaukti."
   pagrindžia:
     - c-61765
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvių etnografijos bruožuose krivūlė siejama su krivio valdžios ženklu ir lazda žmonėms į kuopą šaukti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    206 D.— baculum. Krivės baculum buvo krivūlė — kreiva lazda, krivio (vėliau seniūno)
-    valdžios ženklas, lazda žmonėms  į kuopą šaukti (Lietuvių kalbos žodynas, VI, p. 661;
-    Lietuvių etnografijos bruožai, p. 528—529; MLTE, 2, p. 220).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61765
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 68"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     206 D.— baculum. Krivės baculum buvo krivūlė — kreiva lazda, krivio (vėliau seniūno)
     valdžios ženklas, lazda žmonėms  į kuopą šaukti (Lietuvių kalbos žodynas, VI, p. 661;

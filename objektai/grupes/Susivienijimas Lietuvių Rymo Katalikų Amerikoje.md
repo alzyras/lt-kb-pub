@@ -42,28 +42,6 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
   teiginys: "Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių turėjo 704 narius, o 1936 m. turėjo daugiau kaip 300 kuopų ir 20 000 narių."
   pagrindžia:
     - c-66462
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių turėjo 704 narius, o 1936 m. turėjo daugiau kaip 300 kuopų ir 20 000 narių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Susivienijimas Lietuvių Rymo Katalikų
-    Amerikoje** iš pradžių teturėjo vos 704 narius, o dabar turi
-    300 su viršum kuopų ir 20.000 narių. Turto jis turi apie 1.200.000
-    dolerių. Jo organas anksčiau buvo „Žvaigždė" ir „Drau-
-
-
-    gas", nuo 1917 metų tapo „Garsas". Susivienijimo pirmi-
-    ninku paprastai renkamas kunigas. Susivienijimas daro kon-
-    gresus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

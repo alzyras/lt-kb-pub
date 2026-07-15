@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Pasak Narbuto, Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.
+Pasak Narbuto, Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą. Perrašau jį ištisai, ka dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį.
 
 ## Teiginiai
 
@@ -35,43 +35,35 @@ Pasak Narbuto, Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinus�
   teiginys: "Pasak Narbuto, Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą."
   pagrindžia:
     - c-173413
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Pasak Narbuto, Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Buvęs Vilniaus universi­
-    teto architektūros profesorius ponas Šulcas tarp mirusio ar­
-    chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
-    tinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­
-    kimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­
-    lininkas Pjetras Rosis nupiešė tą gotiško stiliaus šventyklą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197345"></a>
+- t-002
+  global_id: t-197345
+  teiginys: "Perrašau jį ištisai, ka dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   pagrindžia:
-    - t-001
+    - c-173413
 
 ## Citatos
 
 - id: c-173413
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Buvęs Vilniaus universi­
-    teto architektūros profesorius ponas Šulcas tarp mirusio ar­
-    chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
-    tinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­
-    kimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­
-    lininkas Pjetras Rosis nupiešė tą gotiško stiliaus šventyklą.
+    Pats pavadinimas, iš­
+    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
+    kovskis, o deivei.
+    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
+    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
+    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
+    nepaprasto grožio vienatinę dukterį. Kartą pavasarį ji norėjo
+    pradžiuginti motiną ką tik pražydusiomis gėlėmis, kurias pro
+    karalienės rūmų langą pamatė žydinčias Rasos (Ross) upės
+    pakrantėje; tuo tikslu ji nepastebėta išbėgo iš rūmų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190530
+    - t-197345

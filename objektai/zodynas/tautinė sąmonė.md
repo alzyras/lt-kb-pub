@@ -72,58 +72,7 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
   teiginys: "Daukantas lietuvių tautinės sąmonės raidai davė reikšmingų paskatų."
   pagrindžia:
     - c-05597
-
-<a id="claim-t-47944"></a>
-- t-003
-  global_id: t-47944
-  teiginys: "Stryjkovskis savo veikale negalėjo išreikšti tautinės sąmonės, kuri išsivystė tik XIX amžiuje."
-  pagrindžia:
-    - c-32689
 - susijęs iš [[objektai/posakiai/vardan tos Lietuvos.md#claim-t-36022|vardan tos Lietuvos]]: Posakis „vardan tos Lietuvos“ siejamas su patriotizmu, praeities meile ir jėgomis kovoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jokia Daukanto istorijos rašymo ir jo metodo kritika tačiau
-    nepajėgs sumažinti jo didelės reikšmės tautinio atgimimo laikotar­
-    pyje. Daukantas lietuvių tautinės sąmonės išsivystymui yra davęs
-    gana reikšmingų paskatų^58. Jis pirmasis gana aiškiai rodė kelią,
-    kad lietuviams reikia atsiskirti nuo «koroniarų » (lenkų). Ne tik
-    dėl savo žemaitiškai kieto antilenkiško nusistatymo, bet ir dėl savo
-    istorijos rašymo metodo Daukantas—tuo metu, kai Valančius už
-    savo Žemaičių Vyskupystę buvo giriamas —susilaukė iš lenkų per­
-    dėtai karčios kritikos^59.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Stryjkovskis savo veikale negalėjo išreikšti tautinės sąmonės, kuri išsivystė tik XIX amžiuje.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Mozūras Stryjkovskis
-    ryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­
-    binę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius
-    Didžiosios Lietuvos Kunigaikštystės gyventojus. Stryjkovskis ne­
-    galėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri
-    teišsivystė XIX amžiuje. Nuo 1578 metų gyvendamas Varniuose
-    pas didelį patriotą, Medininkų vyskupą Merkelį Giedraitį, kuris
-    Stryjkovskį padarė savo kapitulos kanauninku, šis « Lietuvos Hero­
-    dotas »^20 nuoširdžiai persiėmė Lietuvos reikalais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-
 ## Citatos
 
 - id: c-05597
@@ -167,5 +116,4 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47946
     - t-47944

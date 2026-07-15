@@ -51,25 +51,6 @@ media_all_json: |-
   teiginys: "1413 m. sausio 28 d. Salyne prie Kauno Mykolas Kiuchmeisteris fon Štenbergas vadovavo Vokiečių ordino pasiuntinybei."
   pagrindžia:
     - c-21905
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau Vytauto bažnytinė politika padėjo pagrindus tolesniam Lietuvos
-    krikščionėjimui.
-    Pagrindinis konfliktas su Vokiečių ordinu vyko dėl Žemaitijos. Šio
-    konflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Sa-
-    lyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu My-
-    kolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -90,5 +71,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101697
     - t-101696
+    - t-101697

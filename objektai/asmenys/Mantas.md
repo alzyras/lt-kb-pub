@@ -60,7 +60,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - susijęs iš Ewald A. L., Die Eroberung: Ewaldo veikalas „Die Eroberung“ nurodomas kaip šaltinis Herkaus Manto žūčiai 1273 m. vasarą ar rudenį datuoti.
 - susijęs iš [[objektai/asmenys/Andrius fon Vestfalenas.md#claim-t-186179|Andrius fon Vestfalenas]]: Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo lietuvių sumuštas ir žuvo.
 - susijęs iš [[objektai/asmenys/Henrikas Ulenbušas.md#claim-t-60139|Henrikas Ulenbušas]]: Herkus Mantas ietimi sunkiai sužeidė Henriką Ulenbušą, kai šis tempė arbaletą, bet Henriko Ulenbušo žaizda vėliau užgijo.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176771|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kėzmarke Vytautas Didysis atmetė Zigmanto siūlymą suardyti uniją ir priimti karaliaus karūną.
 - susijęs iš [[objektai/asmenys/Zig. Rothas.md#claim-t-35395|Zig. Rothas]]: Zigmantas siuntė Zig. Rothą pas Vytautą kaip imperatoriaus atstovą aiškinti karūnacijos klausimų ir sklaidyti abejonių.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176871|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis Kėzmarke pasiūlė Vytautui karaliaus karūną ir visišką nepriklausomybę nuo Jogailos bei Lenkijos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178987|Kryžiuočių ordinas]]: Zigmantas ir kryžiuočiai buvo kaltinami siūlę Vytautui karūną, siekdami supriešinti Lietuvą ir Lenkiją.
@@ -71,36 +70,12 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - susijęs iš [[objektai/posakiai/Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė.md#claim-t-89589|Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė]]: Herkus Mantas vokiškai viliojo besislapstančius krikščionis išeiti, o patikėjusiuosius jo vyrai paimdavo į nelaisvę arba nužudydavo.
 - susijęs iš [[objektai/posakiai/Nei dovanomis papirkti, nei grasinimais įbauginti neįstengs.md#claim-t-86865|Nei dovanomis papirkti, nei grasinimais įbauginti neįstengs]]: Krokuvos vyskupas Olesnickis Vytautui atsakė, kad jo nei dovanomis papirkti, nei grasinimais įbauginti neįstengs.
 - susijęs iš Kėzmarkas: Kėzmarke Vytautas atmetė gundymą suardyti uniją ir siekė palenkti Zigmantą laikytis paliaubų su Lenkija.
-- susijęs iš Polockas: Daumantas susitaikė su broliu ir gavo valdyti Polocko kraštą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Štai Didžiojo prūsų sukilimo
-    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
-    Ordino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
-    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
-    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
-    sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—
-    1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
-    aktyviai rėmė, kiek leido sąlygos, prūsų  ir jotvingių—sūduvių kovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-61111
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 11"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Štai Didžiojo prūsų sukilimo
     metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
@@ -109,7 +84,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—
     1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
-    aktyviai rėmė, kiek leido sąlygos, prūsų  ir jotvingių—sūduvių kovą.
+    aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą.
   citata_rodoma: "Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,\nkovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,\n122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai\nsutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—\n1263 m."
   statusas: verified
   teiginio_tipas: faktas

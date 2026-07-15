@@ -11,14 +11,14 @@ datos:
   - '2026 m.'
 date_start: '1399'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -66,7 +66,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184686|Daumantas (kunigaikštis, XV a.)]]: Daumantui buvo duota Utenos kunigaikštystė, o kai kurie šaltiniai jam priskyrė Svyrių pilies įkūrimą.
 - susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52441|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
 - susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52442|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
-- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186743|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: Livonijos kariuomenės reidas 1433 m. sausio 30–vasario 9 d. ėjo per Linkmenų, Tauragnų, Utenos ir Užpalių valsčius.
 - susijęs iš Alytus: Alytaus, Plungės ir Utenos gamyklose 50–70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.
 - susijęs iš Kaniūkai: Kolona pro Kaniūkų ir Pakalnių kaimus turėjo veržtis Utenos kryptimi.
 - susijęs iš Tauragnai: Dalis raitininkų buvo pasiųsta Tauragnų kryptimi, o likusieji vyko į Uteną.
@@ -111,52 +110,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
 - susijęs iš Ukmergė: Ukmergės rinktinė turėjo veržtis Ukmergės, Utenos ir Zarasų kryptimi.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1919 m. gegužės 24 d. gen. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės–Daugpilio plentu ir užimti Uteną.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Telkdama į bolševikų frontą vis daugiau
-    naujai suformuotų dalinių, Lietuvos ka-
-    riuomenės vadovybė ėmė ruoštis naujam
-    puolimui. 1919 m. gegužės 24 d. vyriausiasis
-    kariuomenės vadas gen. S. Žukauskas įsakė
-    karin. K. Ladygos vadovaujamai Ukmergės
-    rinktinei žygiuoti Ukmergės- Daugpilio
-    plentu ir užimti Uteną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Generaliniame Lietuvos teritorijos vadavimo nuo bolševikų plane Ukmergės rinktinė turėjo veržtis Ukmergės–Utenos–Zarasų kryptimi.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Buvo sukurtas
-    generalinis Lietuvos teritorijos nuo bolše-
-    vikų pajėgų išvadavimo planas. Ukmergės
-    rinktinė turėjo veržtis Ukmergės-Utenos-
-    Zarasų kryptimi, Panevėžio rinktinė -
-    Kėdainių-Panevėžio-Rokiškio kryptimi.
-
-    Atskirojo Joniškėlio partizanų, kitaip
-    vadinamojo mirties bataliono kariai
-
-    ## Puslapis 181
-
-    | 1881 m. jstojo į Rusijos kariuomenę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Kojelavičiaus pasakojime Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotoju vadintas žmogus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -237,25 +190,23 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - id: c-168530
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 140"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 140."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Patyręs savo bei žmonos
-    skriaudą, Narimantas liūdėjo, niršo, grasino, tuo tar­
-    pu tas, kuris per aistrą buvo
-    U ž D a u m a n to  p ik ta -
-    praradęs protą, nusikaltimą
-    d a r y t ę
-    N a rim a n ta s
-    parėmė užsispyrimu: pamy-
-    k e ršiįa  karu
-    nęs dorovę, jis arba nematė
-    pavojų, arba jų nepaisė. To­
+    To­
     dėl valdovas buvo priverstas griebtis ginklo ir pradėti
     karą su broliu. Jis apgulė Uteną, kadangi ten buvo
     pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk­
     mės atvirame kovos lauke, nes labiau buvo linkęs prie
-    piktadarybių nei prie karo.
+    piktadarybių nei prie karo. Kadangi nė sienos nega­
+    lėjo ilgiau jo apsaugoti, nes matė, jog bus priverstas
+    neišvengiamai pasiduoti arba dėl apsupties, arba dėl
+    bado, kai nebegaus maisto, jis stengėsi kelti saviškiams
+    nuotaiką viltimi, jog skubiai ateisianti artimųjų pa­
+    galba; tuo tarpu pats, nieko gero nesitikėdamas, paža­
+    dėjęs greitai atvykti su kariuomene ir pralaužti ap­
+    supimą, nakčia, išleistas iš pilies, paspruko per supan­
+    čiųjų eiles.
+  citata_rodoma: "Patyręs savo bei žmonos\nskriaudą, Narimantas liūdėjo, niršo, grasino, tuo tar­\npu tas, kuris per aistrą buvo\nU ž D a u m a n to  p ik ta -\npraradęs protą, nusikaltimą\nd a r y t ę\nN a rim a n ta s\nparėmė užsispyrimu: pamy-\nk e ršiįa  karu\nnęs dorovę, jis arba nematė\npavojų, arba jų nepaisė. To­\ndėl valdovas buvo priverstas griebtis ginklo ir pradėti\nkarą su broliu. Jis apgulė Uteną, kadangi ten buvo\npasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk­\nmės atvirame kovos lauke, nes labiau buvo linkęs prie\npiktadarybių nei prie karo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

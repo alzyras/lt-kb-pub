@@ -35,8 +35,8 @@ Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies 
   teiginys: "Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies kalne iš saulėtekio pusės."
   pagrindžia:
     - c-171933
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies kalne iš saulėtekio pusės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -63,18 +63,19 @@ Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies 
 - id: c-171933
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 377"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 377."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pagaliau panašių atradimų retumas mūsų krašte verčia
-    daryti išvadą, kad mirusiųjų kūnai būdavo deginami retai ar­
-    ba kad pelenus dažniausiai užkasdavo induose iš medžiagos,
-    neatsparios puvimui. Vilniuje, kaip spėjama, kunigaikščių pe­
-    lenai turi būti pakasti Pilies kalne iš saulėtekio pusės, ir jei jie
-    buvo supilti į patvarias urnas, tai turėtų gulėti giliai kalne.
-    Mano kaimynystėje, prie Nočios miestelio, atsitiktinai at­
-    kasus vieną kapą, rastas akmeninis kirvukas, padarytas iš kie­
-    tos geležies.
+    Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių
+    senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje
+    tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak­
+    sonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­
+    dą, kad tai buvo deivės Velionos aukurai.
+    Tačiau laikant juos kapais, iškyla toks klausimas. Pirmiau­
+    sia tvirtinu, kad kryžius senų senovėje beveik visoms tautoms,
+    kuriose gyvavo kokia nors civilizacija, religiniu požiūriu buvo
+    išganymo, tai yra geresnio pomirtinio gyvenimo vilties, žen­
+    klas.
+  citata_rodoma: "Pagaliau panašių atradimų retumas mūsų krašte verčia\ndaryti išvadą, kad mirusiųjų kūnai būdavo deginami retai ar­\nba kad pelenus dažniausiai užkasdavo induose iš medžiagos,\nneatsparios puvimui. Vilniuje, kaip spėjama, kunigaikščių pe­\nlenai turi būti pakasti Pilies kalne iš saulėtekio pusės, ir jei jie\nbuvo supilti į patvarias urnas, tai turėtų gulėti giliai kalne.\nMano kaimynystėje, prie Nočios miestelio, atsitiktinai at­\nkasus vieną kapą, rastas akmeninis kirvukas, padarytas iš kie­\ntos geležies."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

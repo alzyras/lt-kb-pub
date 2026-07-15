@@ -48,26 +48,6 @@ media_all_json: |-
 - susijęs iš Panevėžys: Panevėžyje veikusią lenkų gimnaziją finansiškai rėmė Lietuvos vyriausybė ir lenkų kultūros organizacijos.
 - susijęs iš Ukmergė: Ukmergėje veikė Lietuvos vyriausybės finansiškai remta lenkų gimnazija.
 - susijęs iš Ukmergė: Lenkų kultūros organizacijos rėmė Lietuvos vyriausybės finansuojamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prezidentas A. Smetona manė, kad
-    jeigu lietuvis kažkada virto lenku, tai kodėl jis negali vėl atvirsti lietuviu?
-    Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mo-
-    kyklų visose Lietuvos dalyse, tad leido vaikus į nelegalias mokyklas, kurių
-    1935 m. priskaičiuota apie 40. Švietimui padėjo lenkų kultūros organiza-
-    cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
-    gaudavusios pinigų iš Lenkijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22690

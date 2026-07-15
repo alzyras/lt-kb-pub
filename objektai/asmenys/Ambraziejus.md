@@ -31,33 +31,9 @@ Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziej
 <a id="claim-t-191365"></a>
 - t-001
   global_id: t-191365
-  teiginys: "Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziejui, Odoakras liepė jam tuoj nuimti grandines."
+  teiginys: 'Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziejui, Odoakras liepė jam tuoj nuimti grandines.'
   pagrindžia:
     - c-174247
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziejui, Odoakras liepė jam tuoj nuimti grandines.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    307
-
-    ## Puslapis 318
-
-    šventajam įvykdysiąs viską, ko tik jis paprašysiąs. Šven­
-    tasis vyras paprašė laisvės kažkokiam Ambraziejui, ir
-    Odoakras liepė tučtuojau nuimti jam grandines.
-    321
-    Nors šio valdovo valdžia buvo skirta vidinei tvarkai
-    Italijoje įvesti ir išorinei taikai išsaugoti, tačiau ne kar­
-    tą jam reikėjo rengti karo žygius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -82,4 +58,4 @@ Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191365
+    - t-001

@@ -35,20 +35,6 @@ p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-L
   teiginys: "Po Polocko praradimo ir Ulos mūšio karo veiksmai persikėlė į Maskvos-Lietuvos pasienį."
   pagrindžia:
     - c-43631
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-Lietuvos
-    pasienį. Karolis Zikaras, Loreta Uzdraitė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

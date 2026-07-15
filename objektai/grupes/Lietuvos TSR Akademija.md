@@ -42,29 +42,6 @@ Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­ kis, kuris (nuo
   teiginys: "Tarybiniais metais Jablonskis pamažu tapo Lietuvos TSR Akademijos pilnateisiu nariu, akademiku."
   pagrindžia:
     - c-33317
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Antrasis to rinkinio tomas liko rankraštyje.
-    Kai iki tol vadovavusieji universiteto istorikai (I. Jonynas,
-    A. Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­
-    kis, kuris (nuo 1935) universitete tebuvo neetatiniu lektoriumi
-    Lietuvos teisės istorijai, Kauno apygardos teisėju ir Valstybės
-    Tarybos nariu (nuo 1938), tarybiniais metais šalia universitetinio
-    darbo pasidarė pamažu Lietuvos TSR Akademijoje pilnateisiu
-    nariu (akademiku). Jis tapo Lietuvos istorijos srityje ne tik tikruoju
-    jaunos kartos istorikų auklėtoju Vilniaus universitete, bet dar
-
-    (^84) **Z. Ivinskis :** **_Prel.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

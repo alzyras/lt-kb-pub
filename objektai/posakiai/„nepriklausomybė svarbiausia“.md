@@ -51,29 +51,6 @@ media_all_json: |-
   teiginys: "Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga."
   pagrindžia:
     - c-73340
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl 1934 m. pradėti megzti neoficialūs
-    Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras
-    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
-    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
-    strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
-
-    L I E T U V O S  I S T O R I J A
-    178
-    vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -97,5 +74,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75619
     - t-75618
+    - t-75619

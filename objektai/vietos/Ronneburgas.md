@@ -35,25 +35,6 @@ media_all_json: |-
   pagrindžia:
     - c-34025
 - susijęs iš Livonija: Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kai kurie jo kronikoje naudoti ir išversti šaltiniai nė­
-    ra išlikę iki mūsų dienų. Šitaip pagal Stryjkovskį buvo restauruoti
-    Livonijos Ronneburgo analai ir necrologium14 15. Bet toji akyla
-    lotyniška restauracija parodė, kad analų originalo tekstu skubotas
-    Stryjko vskis nesinaudojo tiksliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-34025

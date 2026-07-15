@@ -35,24 +35,6 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
   teiginys: "Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuvos žemes paversti tiesiog Vakarų Rusija."
   pagrindžia:
     - c-24970
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tuo metu carizmas pradėjo jau anksčiau
-    paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.
-    Valstiečiai pavirto sąlyginai laisvais žmonėmis, nuosavybės teisę į dirba-
-    mą žemę įgijusiu žemiausiu, bet savarankišku valstiečių žemdirbių luo-
-    mu. Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenki-
-    jos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -79,27 +79,6 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas.md#claim-t-31259|LTSR Mokslų Akademijos Istorijos Institutas]]: LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.
 - susijęs iš Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje: „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“ buvo kas dvejus metus leidžiamas LTSR MA Istorijos instituto leidinys.
 - susijęs iš [[objektai/daiktai/Skydai.md#claim-t-192053|Skydai]]: E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    L. N a k a i t ė rašė apie sidabro naudojimą II-XIII a.
-    Lietuvoje (AkMD, t. 16, 1964, 63-80 p.), apie sidabrą kaip vertės
-    matą (AkMD, t. 20, 1966, 33-45 p.), apie sidabro dirbinius ir auk­
-    sakalystę Lietuvoje iki XIII a. (AkMD, t. 22, 1966, 67-83 p.; t. 27,
-    1968, 47-55 p.). E. Danilaitė domėjosi brūkšniuotąja keramika
-    Lietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;
-    t. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-30989
@@ -120,5 +99,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47809
     - t-47808
+    - t-47809

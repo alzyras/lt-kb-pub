@@ -36,25 +36,6 @@ S. Podobaila išsirinko vietą tarp Dniepro ir Sožos žiočių, apsuptą neprae
   teiginys: "S. Podobaila pasirinko gynybinę vietą tarp Dniepro ir Sožos žiočių, apsuptą pelkių, griovių ir pylimų."
   pagrindžia:
     - c-43878
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    S. Podobaila išsirinko vietą tarp
-    Dniepro ir Sožos žiočių, apsuptą nepra-
-    einamų pelkių, o tose vietose, kur buvo
-    įmanoma pereiti, išrausė griovius ir supylė
-    pylimus. Lojevo miestas, esantis kitoje
-    (dešinėje) upės pusėje, buvo sudegintas,
-    kad priešui nebūtų kur įsitvirtinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

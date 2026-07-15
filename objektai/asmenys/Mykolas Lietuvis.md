@@ -50,8 +50,8 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   teiginys: "Mykolas Lietuvis, Narbuto apibūdintas kaip Lenkijos mokslo amžiaus autorius, stengėsi įrodyti lietuvių ir lotynų kalbų vienodumą."
   pagrindžia:
     - c-174844
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėnus, žalčių laikymu išlikusį Eskulapo garbinimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -69,60 +69,22 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas Mykolą Lietuvį minėjo tarp nedaugelio lietuvių, kurie per 400 metų pasirūpino krašto praeitimi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kortos, romanai, garderobai — tokios yra jų dory­
-    bės. Vyrauja tuščias pasididžiavimas senoliais, o protėvių
-    istorijai paprasčiausiai atsuko nugarą. Per 400 metų nė
-    vienas lietuvis, išskyrus Kojalavičių, Mykolą Lietuvį ir
-    Teodorą Narbutą, nepasirūpino krašto praeitimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Mykolas Lietuvis, Narbuto apibūdintas kaip Lenkijos mokslo amžiaus autorius, stengėsi įrodyti lietuvių ir lotynų kalbų vienodumą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    199
-    Nenutraukdami mūsų pastabų sekos, laikysime, jog lai­
-    mingesnės aplinkybės leido graikams ir italams puikiau
-    išlavinti tą patį religingumą, labiau išplėtoti švietimą,
-    išpuošti tą pačią kalbą, tatai nėmaž netrukdo po daugelio
-    amžių pripažinti jai giminingą kalbą tautos, nublokštos
-    j rūsčias pasaulio šalis. Lenkijos mokslo amžiuje gyvenęs
-    Mykolas Lietuvis stengėsi įrodyti lietuvių ir lotynų kalbų
-    ■vienodumą2. Ilgai čia reikėtų dėstyti jo įrodymus, parem­
-    tus vien žodžių ir religinių apeigų panašumu, bet pasaky­
-    sime tik tiek, jog šis autorius, puikiai mokėjęs abi kalbas,
-    labiau įrodė jų kilmę iš vieno šaltinio negu jų tapatybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-173070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 157"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
-    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
-    mas išliko kaip žalčių laikymas1.
-    Kaunis (Kaunis)
-    Meilės dievaitis, deivės Mildos sūnus, lietuvių Kupidonas.
+    Paimk juos ant savus sparnus,
+    Atnešk man juos sveiką tiktai,
+    Nenoriu aš brangių daiktų,
+    Gan man tavo apėmimo)*.
+    Vietos padavimai dar skelbia, kad Kaune, pačioje Nem u­
+    no ir Neries upių santakoje, augo dievams skirta giraitė, kuri
+    tęsėsi iki pat pilies, dabar virtusios griuvėsiais. Šią vietą iki šiol
+    vadina šilu, nors joje nematyti jokio medžio.
+  citata_rodoma: "Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­\nkoja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­\nmas išliko kaip žalčių laikymas1.\nKaunis (Kaunis)\nMeilės dievaitis, deivės Mildos sūnus, lietuvių Kupidonas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -133,8 +95,7 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
 - id: c-173811
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 452"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 452."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kortos, romanai, garderobai — tokios yra jų dory­
     bės. Vyrauja tuščias pasididžiavimas senoliais, o protėvių
@@ -151,8 +112,7 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
 - id: c-174844
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 194"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 194."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     199
     Nenutraukdami mūsų pastabų sekos, laikysime, jog lai­

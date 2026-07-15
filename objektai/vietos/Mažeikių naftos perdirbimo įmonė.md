@@ -34,23 +34,6 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
   teiginys: "Septintąjį–aštuntąjį dešimtmetį per sovietinę industrializaciją Lietuvoje pastatyta Mažeikių naftos perdirbimo įmonė."
   pagrindžia:
     - c-24295
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai
-    industrializacijai ir urbanizacijai, septintąjį–aštuntąjį dešimtmetį pasta-
-    tyta daug didelių naujų pramonės įmonių (Kauno HES, Mažeikių naftos
-    perdirbimo įmonė, Jonavos azotinių trąšų gamykla, Ignalinos atominė
-    elektrinė (AE)).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

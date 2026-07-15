@@ -11,14 +11,14 @@ datos:
   - '1410 m.'
 date_start: '1285'
 date_end: '1410'
+amziai:
+  - 'XIII'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karyba
   - paprotys
-amziai:
-  - 'XIII'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -66,8 +66,8 @@ Nenurodyta
   teiginys: "Ordino valdžioje likę prūsai buvo verčiami dalyvauti Ordino žygiuose."
   pagrindžia:
     - c-63464
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ordino valdžioje likę prūsai buvo verčiami dalyvauti Ordino žygiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -92,16 +92,16 @@ Nenurodyta
 - id: c-63464
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 12"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,
-    kad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III,
-    226—1285 m.; 249—1292 m.), padėjo lietuvių kariuomenei naikinti kryžiuočių pilis
-    (III, 253— 1293 m.), be kita ko, siekė (1337 m.) padėti Gedimino kariuomenei, kuri
-    stengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—
-    Bajerburgą36. Net 1410 m. Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių
+    Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių
     prūsų bajorų, kurie dar nebuvo užmiršę savo baltiškosios kilmės37.
+    Užgrobtų prūsų ir kitų vakarinių baltų žemių ryšiai su Lietuva nebuvo užmiršti ir karinėje
+    bei diplomatinėje kovoje su Ordinu. Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
+    apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.
+    1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
+    grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
+    Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
   citata_rodoma: "Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,\nkad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III,\n226—1285 m.; 249—1292 m.), padėjo lietuvių kariuomenei naikinti kryžiuočių pilis\n(III, 253— 1293 m.), be kita ko, siekė (1337 m.) padėti Gedimino kariuomenei, kuri\nstengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—\nBajerburgą36. Net 1410 m. Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių\nprūsų bajorų, kurie dar nebuvo užmiršę savo baltiškosios kilmės37."
   statusas: verified
   teiginio_tipas: faktas

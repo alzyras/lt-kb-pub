@@ -48,9 +48,9 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   pagrindžia:
     - c-21889
 
-<a id="claim-t-101694"></a>
+<a id="claim-t-101690"></a>
 - t-003
-  global_id: t-101694
+  global_id: t-101690
   teiginys: "M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius."
   pagrindžia:
     - c-16722
@@ -76,15 +76,8 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   pagrindžia:
     - c-16724
 
-<a id="claim-t-101694"></a>
-- t-007
-  global_id: t-101694
-  teiginys: "M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius."
-  pagrindžia:
-    - c-16722
-
 <a id="claim-t-101695"></a>
-- t-008
+- t-007
   global_id: t-101695
   teiginys: "Po Stalino mirties, atšilimo laikotarpiu, buvo spausdinami Mikalojaus Konstantino Čiurlionio kūrybos albumai."
   pagrindžia:
@@ -112,110 +105,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - susijęs iš Šv. Jonų bažnyčia: Šv. Jonų bažnyčioje buvo įkurtas Mokslo muziejus.
 - susijęs iš [[objektai/zodynas/destalinizacija atšilimo laikotarpis.md#claim-t-22112|destalinizacija atšilimo laikotarpis]]: Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.
 - susijęs iš [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis.md#claim-t-22113|destalinizacija postalininis metas atšilimo laikotarpis]]: Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O
-    kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
-    vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.
-    Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė
-    1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir
-    nacionaliniais pagrindais – Lietuvos Respubliką. Jos ištakose – ir didžiau-
-    sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
-    tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
-    čius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kai
-    kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
-    džiama priklausyti ir abiem tuo pat metu. Kurį laiką taip elgėsi Mikalojus
-    Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje
-    žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
-    Varšuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-
-    kotarpio lietuviškai gerai nemokėjęs, M. K. Čiurlionis pasirinko lietuvius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-005
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietu-
-    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
-    pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
-    kabinėta komunistinių šūkių. Padėtis kultūroje ėmė švelnėti tik šeštojo
-    dešimtmečio antroje pusėje, prasidėjus destalinizacijai.
-    Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
-    pradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-
-    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
-    V. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos,
-    Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
-    rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
-    kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-006
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuviai pirmieji Vilniuje
-    įkūrė Lietuvių dailės draugiją, pra-
-    dėjo rengti viešas dailės parodas,
-    bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių
-    lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją. Kai
-    kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
-    džiama priklausyti ir abiem tuo pat metu. Kurį laiką taip elgėsi Mikalojus
-    Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje
-    žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
-    Varšuvoje ir Leipcige.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Už-
-    darytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pri-
-    taikytos uždarytos bažnyčios: Šv. Kazimiero bažnyčioje atidarytas Ateiz-
-    mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
-    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
-    M. K. Čiurlionio muziejaus senojo meno ekspozicija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-16722
@@ -238,7 +127,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101694
     - t-101690
 
 - id: c-16723
@@ -285,8 +173,8 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101695
     - t-101693
+    - t-101695
 
 - id: c-21889
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

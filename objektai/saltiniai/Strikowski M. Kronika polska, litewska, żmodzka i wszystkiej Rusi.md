@@ -7,12 +7,12 @@ datos:
   - '1582 m.'
 date_start: '1582'
 date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad strikowski M.
   teiginys: "M. Strikowskio „Kronika polska, litewska, żmodzka i wszystkiej Rusi“ išleista Karaliaučiuje 1582 m."
   pagrindžia:
     - c-61933
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Strikowskio „Kronika polska, litewska, żmodzka i wszystkiej Rusi“ išleista Karaliaučiuje 1582 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,13 @@ Dusburgietis teigia, kad strikowski M.
 - id: c-61933
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
-      Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi.
+    — В., 1978.
+    Ванагас А. К вопросу о языковых ятвяжских реликтах в Литве. — ABS, 1976, 9, s.
+    71—79.
+    Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
+    происхождения балтов.
   citata_rodoma: "Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582."
   statusas: verified
   teiginio_tipas: faktas

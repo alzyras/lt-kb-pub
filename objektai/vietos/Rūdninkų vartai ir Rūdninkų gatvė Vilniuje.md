@@ -35,30 +35,6 @@ Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie ga
   teiginys: "Žygimantų laikais Vilniuje atsiradę nauji vartai ir nuo jų vingiuojanti gatvė gavo Rūdninkų vardą."
   pagrindžia:
     - c-82211
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Žygimantų laikais Vilniuje atsiradę nauji vartai ir nuo jų vingiuojanti gatvė gavo Rūdninkų vardą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pasiligojusi Vytauto žmona Julijona bu­
-    vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­
-    me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto
-    vokiečių raštininko, šiandien negalima suprasti, kokia tai
-    buvo vieta. Kazimieras pamėgo Rūdninkus ir dažnai juose
-    buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau,
-    Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje
-    atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­
-    vo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė. Vė­
-    liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­
-    da Rūdninkuose smagiai leisdavo laiką medžiodami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

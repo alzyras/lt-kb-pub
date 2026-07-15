@@ -43,30 +43,6 @@ media_all_json: |-
   teiginys: "Kristupas Varševickis, jėzuitų rektorius, 1572 m. žiemą dalyvavo kapitulos susirinkime vyskupo rūmuose."
   pagrindžia:
     - c-83739
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kristupas Varševickis, jėzuitų rektorius, 1572 m. žiemą dalyvavo kapitulos susirinkime vyskupo rūmuose.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Daugiausia
-    žinių apie šį nepaprastą žmogų ga­
-    lima surasti O s s o 1  i ń s k i II t., 1.155
-    sq.; jis pataisė Janockio ir kitų Roizi-
-    jaus biografų klaidas.
-    51
-    Šis pareiškimas buvo išsakytas ka­
-    pitulos susirinkime vyskupo rū­
-    muose 1572 metų žiemą, dalyvau­
-    jant kun. Varševickiui, jėzuitų
-    rektoriui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -160,6 +160,13 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginys: "Apie tą patį Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias tarnybas, jį užpuolė, o visus žmones išžudė."
   pagrindžia:
     - c-64824
+
+<a id="claim-t-197128"></a>
+- t-020
+  global_id: t-197128
+  teiginys: "Martynas iš Golino šiek tiek nuo kitų ir, susijaudinęs bei ašarodamas, pasakė: „O viešpatie Jėzau Kristau, jeigu dabar būčiau namie, priimčiau, sukalbėjęs daug maldų, tavo kūną“."
+  pagrindžia:
+    - c-179035
 - susijęs iš [[objektai/asmenys/Abraomas Kulvietis.md#claim-t-181560|Abraomas Kulvietis]]: 1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių.
 - susijęs iš [[objektai/asmenys/Jonas iš Endorfo.md#claim-t-60345|Jonas iš Endorfo]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis ėjo iš bažnyčios.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63803|Kazimieras (Kujavijos kunigaikštis)]]: Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.
@@ -173,6 +180,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87405|Martynas Paleckis]]: 1547 m. gegužės 22 d. privilegija Martynui Paleckiui steigti fabriką skyrė sklypą prie Vilniaus už Vilijos upės.
 - susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87406|Martynas Paleckis]]: Martynas Paleckis iš karaliaus gavo sklypą prie Vilniaus už Vilijos ir leidimą steigti pirmąjį miesto stiklo fabriką.
 - susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87407|Martynas Paleckis]]: Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo.
+- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200487|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: Martynas Tiškevičius buvo Vitebsko kaštelionas.
+- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200488|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: 1757 m. Vitebsko kaštelionas Martynas Tiškevičius tarėsi su Jonu Dominyku Lopacinskiu dėl seimelio reikalų ir Sapiegų interesų.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184433|Martynas V]]: Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184434|Martynas V]]: Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184435|Martynas V]]: Popiežius Martynas V draudė kištis į lenkų ir lietuvių reikalus.
@@ -187,7 +196,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184444|Martynas V]]: Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184445|Martynas V]]: Vytautas ir Jogaila siekė iškelti Ordino bylą popiežiui Martynui V, kovodami prieš Breslavo sprendimą.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184446|Martynas V]]: Popiežius Martynas V 1421 m. rugsėjo 11 d. bule „Mirabilis Deus“ patvirtino savarankišką Žemaičių vyskupiją.
-- susijęs iš [[objektai/asmenys/Martynas Volodkovičius.md#claim-t-186066|Martynas Volodkovičius]]: Karalius pasiuntė Martyną Volodkovičių pas Maskvos valdovą, kai sužinojo, kad šis galvoja apie karą.
 - susijęs iš [[objektai/asmenys/Martynas iš Krušvicos.md#claim-t-60384|Martynas iš Krušvicos]]: Martynas iš Krušvicos buvo riteris ir vėliavininkas, kuris kartu su kunigaikščiu Kazimieru nepabėgo pamatęs Sventopelko raitelius.
 - susijęs iš [[objektai/asmenys/Martynas iš Opavos.md#claim-t-60385|Martynas iš Opavos (arkivyskupas, XIII a.)]]: Martynas iš Opavos, čekų vienuolis, 1278 m. buvo paskirtas Gnezno arkivyskupu, bet mirė ten nenuvykęs.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113880|Mikalojus Radvila Juodasis]]: Vilniaus vaivada Mikalojus Radvila Juodasis stipriai palaikė Vilniuje įsišaknijusį Martyno Liuterio ir Cvinglio mokslą.
@@ -280,8 +288,9 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš Roma: Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.
 - susijęs iš Vilniaus katedra: Vilniaus katedrai pamatai buvo padėti kartu su Šv. Martyno ir Šv. Jono bažnyčiomis.
 - susijęs iš Vilniaus universitetas: Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
-- susijęs iš Vilnius: 1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines idėjas ir savo mokykloje išlavino šešiasdešimt mokinių.
-- susijęs iš Vilnius: Vilniuje buvo įsteigtas pirmasis stiklo fabrikas, kurį steigti leidimą gavo karaliaus dvariškis Martynas Paleckis.
+- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200487|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: Martynas Tiškevičius buvo Vitebsko kaštelionas.
+- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200488|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: 1757 m. Vitebsko kaštelionas Martynas Tiškevičius tarėsi su Jonu Dominyku Lopacinskiu dėl seimelio reikalų ir Sapiegų interesų.
+- susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200619|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1757 m. Lopacinskis su Vitebsko kaštelionu Martynu Tiškevičiumi tarėsi dėl seimelio reikalų ir Sapiegų interesų.
 - susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-18765|Albertas Vijūkas-Kojalavičius]]: Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje.
 - susijęs iš [[objektai/asmenys/Andrius Kopernikas.md#claim-t-87483|Andrius Kopernikas]]: Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.
 - susijęs iš [[objektai/asmenys/Cvinglis.md#claim-t-87646|Cvinglis]]: Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo giliai įsišaknijęs ir remiamas Mikalojaus Radvilos Juodojo.
@@ -295,7 +304,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89924|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
 - susijęs iš [[objektai/asmenys/Martynas Mažvydas.md#claim-t-19126|Martynas Mažvydas]]: 1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio programos dalimi.
 - susijęs iš [[objektai/asmenys/Mata.md#claim-t-60055|Mata]]: Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.
-- susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-184818|Pelužis]]: Pelužio būrys buvo papildytas keliais miklesniais jo dvariškiais ir dvidešimčia kryžiuočių riterių.
 - susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-90002|Pelužis]]: Pelužis su Karaliaučiaus komtūro paskirtais vyrais užpuolė savo viešpaties sodybą ir nužudė 70 kunigaikščių.
 - susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-90004|Pelužis]]: Lietuvis Pelužis, įžeistas savo viešpaties kunigaikščio, atvyko pas Sembos žemės brolius ir siekė atkeršyti už patirtas skriaudas.
 - susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173216|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: 1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.
@@ -319,6 +327,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179407|Livonijos ordinas]]: Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179416|Livonijos ordinas]]: Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas.
+- susijęs iš [[objektai/grupes/Sapiegos.md#claim-t-200690|Sapiegos]]: Jonas Dominykas Lopacinskis nenutraukė ryšių su Sapiegų gimine net tapęs vyskupu.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176096|Vilniaus kapitula]]: Kapitula ragino vyskupą imtis priemonių, kai sostinėje pasklido kitatikystė.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176099|Vilniaus kapitula]]: Vilniaus kapitula, sužinojusi apie sostinėje plintančią kitatikystę, ragino vyskupą imtis priemonių.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113357|Vilniaus universitetas]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų.
@@ -340,6 +349,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.).md#claim-t-34527|Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]: Žemaičių arba Medininkų vyskupija buvo įkurta 1417 m. spalio 24 d. kaip antroji Lietuvos vyskupija.
 - susijęs iš [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose.md#claim-t-87202|Bažnyčių steigimas buvusiose pagonių kulto vietose]]: Vilniaus Šv. Stanislovo katedra, Šv. Martyno ir Šv. Jono bažnyčios laikytos įkurtomis buvusiose pagonių apeigų vietose.
 - susijęs iš [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose.md#claim-t-87203|Bažnyčių steigimas buvusiose pagonių kulto vietose]]: Krikščionių bažnyčias buvo raginama steigti ten, kur anksčiau stovėjo pagonių šventyklos ar šventos giraitės.
+- susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200619|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1757 m. Lopacinskis su Vitebsko kaštelionu Martynu Tiškevičiumi tarėsi dėl seimelio reikalų ir Sapiegų interesų.
 - susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-183989|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas nukovė dešimt vyrų pirtyje, pagrobė arklių, gyvulių ir kitų daiktų, o moteris bei vaikus išsivarė į nelaisvę.
 - susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-59739|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas su bendrais prie Bugo užpuolė prekių laivą, išžudė upeivius, nuplukdė grobį į Torunę ir pasidalijo pinigus.
 - susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-59740|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas nukovė dešimt vyrų pirtyje, pagrobė arklių, gyvulių ir kitų daiktų, o moteris bei vaikus išsivarė į nelaisvę.
@@ -371,6 +381,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš Mardasavas: 1945 m. gruodžio 5 d. prie Mardasavo, ant Merkio kranto, NKVD dalinio netikėtai užklupti žuvo keturi partizanai.
 - susijęs iš Minskas: Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.
 - susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
+- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
 - susijęs iš Paleckio stiklo liejykla prie Vilijos: Martynas Paleckis gavo sklypą už Vilijos ir leidimą steigti stiklo liejyklą prie Vilniaus.
 - susijęs iš Pašiaušė: Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.
 - susijęs iš Prūsija: Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa Prūsijoje pradėjo lietuviakalbės raštijos tradiciją.
@@ -383,9 +394,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš Vidurio Europa: Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų.
 - susijęs iš Vilija: Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 metų tapo reformacijos šalininkų prieglobsčiu ir mokykla.
 - susijęs iš Vilija: 1547 m. Paleckio liejyklai skirtas sklypas buvo prie Vilniaus miesto, už Vilijos upės.
-- susijęs iš Vilnius: Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.
-- susijęs iš Vilnius: Tą pačią vasarą į Vilnių pas Aleksandrą atvyko jo motina Elžbieta, brolis Fridrichas ir seserys Barbora bei Elžbieta, o metraštis pabrėžia džiaugsmingą jų priėmimą.
 - susijęs iš Vitebskas: Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija.
+- susijęs iš Vitebskas: Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui.
 - susijęs iš Vroclavas: Jogaila tuojau apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą.
 - susijęs iš Žodiškiai: Žodiškiuose veikusi jėzuitų kolegija buvo Minkevičių fundacija.
 - susijęs iš [[objektai/zodynas/atskala.md#claim-t-185347|atskala]]: Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdovą, daugiau neremti husitų atskalos.
@@ -405,221 +415,18 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš [[objektai/zodynas/vikariatas.md#claim-t-36853|vikariatas]]: Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186354|Mikalojus Radvila]]: Lietuvos maršalka Mikalojus Radvila užtarė Martyną Paleckį, gavusį iš karaliaus žemės sklypą ir leidimą steigti stiklo fabriką.
 - susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-90002|Pelužis]]: Pelužis su Karaliaučiaus komtūro paskirtais vyrais užpuolė savo viešpaties sodybą ir nužudė 70 kunigaikščių.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nemaža žinių galėjo pateikti  ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę
-    Ordino labui. Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau
-    su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
-      Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
-    pažinoję teritoriją, kelius ir žmones (III, 74, 223). Štai pirmosiose  kovose prieš Ordiną
-    žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
-    XIV a. viduryje134.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-011
-
-- c-002
-  santrauka: 'Martynas iš Golino pateko tarp belaisvių, kuriuos prūsai išsivarė po persekiojimo ir grobio surinkimo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsai besivydami daugybę išžudė, o kiti pabėgo280. Taigi
-    surinkę be galo didelį grobį, išsivarė džiūgaudami daugybę moterų ir vaikų  į nelaisvę.
-    Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
-    negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
-    į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Taigi
-    surinkę be galo didelį grobį, išsivarė džiūgaudami daugybę moterų ir vaikų  į nelaisvę.
-    Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
-    negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
-    į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
-    Martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš
-    netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir
-    bus papasakota vėliau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_vaizdinys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-015
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais
-    neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais,
-    du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau tas juos
-    nuvedė į priešo žemę. Pastebėję šią klastą, nužudė jį; paskubomis traukdamiesi, buvo
-    pagauti ir surišti penkių jiems pavymui pasileidusių prūsų raitelių, kurių dviem patikėjo
-    juodu saugoti. Trys  kiti prūsai nusivijo pabėgusį brolio arklį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-010
-
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
-    krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],
-    vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas
-    Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas
-    ar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,
-    nekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių
-    ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o
-    kiti išbėgiojo palikę visus turimus ginklus bei visą maistą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-    - t-014
-    - t-012
-
-- c-006
-  santrauka: 'Martynas iš Golino prie Bugo upės užpuolė prekių laivo upeivius, juos išžudė ir laivą nuplukdė į Torunę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    229 (224). Apie tą patį
-
-      Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs
-    per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui
-    ir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė
-    pokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į
-    laivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo
-    po 20 markių dalies.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-007
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tą patį
-
-      Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą
-    ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias
-    tarnybas, jį užpuolė, o visus žmones išžudė. Martynas nukovė 10 vyrų pirtyje, pagrobė
-    arklių, gyvulių bei kitko ir išsivarė į nelaisvę moteris bei vaikus.
-
-
-
-
-                         200 (195).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-018
-    - t-017
-    - t-019
-
-- c-008
-  santrauka: 'Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
-    vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
-    karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras
-    paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
-    vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
-    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas. Kai jie priėjo šio
-    kunigaikščio sodybą, užtiko ten sukviestus  į vestuves beveik visus Lietuvos karalystės
-    kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė
-    juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
-    ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
-    žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-009
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dar apie Martyną iš Golino ir jo nuostabią kovą
-
-      Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino
-    leidosi pavymui su 17 kovos draugų. Grįždami iš Lenkijos, prūsai užklupo Martyno
-    sargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,
-    kiek čia jo bendrų ir kur jie.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-001
-
-- c-010
-  santrauka: 'Po sesers nužudymo Martynas iš Golino ėmė nekęsti netikėlių ir, išsivadavęs iš nelaisvės, smarkiai jiems smogė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
-    negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
-    į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
-    Martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš
-    netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir
-    bus papasakota vėliau. Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
-    žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-
 ## Citatos
 
 - id: c-56150
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Nemaža žinių galėjo pateikti  ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę
+    Nemaža žinių galėjo pateikti ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę
     Ordino labui. Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau
     su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
-      Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
-    pažinoję teritoriją, kelius ir žmones (III, 74, 223). Štai pirmosiose  kovose prieš Ordiną
+    Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
+    pažinoję teritoriją, kelius ir žmones (III, 74, 223). Štai pirmosiose   kovose prieš Ordiną
     žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
     XIV a. viduryje134.
   statusas: verified
@@ -633,11 +440,10 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-56151
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 89"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Prūsai besivydami daugybę išžudė, o kiti pabėgo280. Taigi
-    surinkę be galo didelį grobį, išsivarė džiūgaudami daugybę moterų ir vaikų  į nelaisvę.
+    surinkę be galo didelį grobį, išsivarė džiūgaudami daugybę moterų ir vaikų į nelaisvę.
     Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
     negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
     į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
@@ -651,11 +457,10 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-56152
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 89"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Taigi
-    surinkę be galo didelį grobį, išsivarė džiūgaudami daugybę moterų ir vaikų  į nelaisvę.
+    surinkę be galo didelį grobį, išsivarė džiūgaudami daugybę moterų ir vaikų į nelaisvę.
     Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
     negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
     į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
@@ -673,15 +478,18 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-56153
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 142"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais
-    neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais,
-    du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau tas juos
-    nuvedė į priešo žemę. Pastebėję šią klastą, nužudė jį; paskubomis traukdamiesi, buvo
-    pagauti ir surišti penkių jiems pavymui pasileidusių prūsų raitelių, kurių dviem patikėjo
-    juodu saugoti. Trys  kiti prūsai nusivijo pabėgusį brolio arklį.
+    Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį
+    Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,
+    pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Vieną
+    sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai
+    užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris ir vaikus išsivarė į
+    nelaisvę.
+    435 Vartenbergo pilies, sūduvių sudegintos ir iki pat kronikos rašymo metų
+    neatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a. 2-oje pusėje
+    tebuvo žinomas vienas kryžiuočių centras Vonė (Wonne) Osos aukštupyje (dab.
+  citata_rodoma: "Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais\nneužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais,\ndu iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau tas juos\nnuvedė į priešo žemę. Pastebėję šią klastą, nužudė jį; paskubomis traukdamiesi, buvo\npagauti ir surišti penkių jiems pavymui pasileidusių prūsų raitelių, kurių dviem patikėjo\njuodu saugoti. Trys  kiti prūsai nusivijo pabėgusį brolio arklį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -693,40 +501,50 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-56155
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 163"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
-    krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],
-    vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas
-    Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas
-    ar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,
-    nekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių
-    ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o
-    kiti išbėgiojo palikę visus turimus ginklus bei visą maistą.
+    Apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą
+    Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro
+    įsakytas, sutelkė visą savo kariuomenę ir įsiveržė į Sūduvos žemės valsčių, vardu
+    Pakima495; smarkiai jį nusiaubęs, nudeginęs ir apiplėšęs, paėmęs į nelaisvę ir išžudęs
+    daugybę žmonių, patraukė atgal ir vakare perėjo su savo kariuomene užšalusį ežerą,
+    vardu Nagutinas496. Rytui išaušus, ledas taip ištirpo, kad niekam nė į galvą nebūtų atėję,
+    jog jie čia perėjo.
+    203 (198). Apie brolį Mangoldą, Prūsijos magistrą 1280 viešpaties metais
+    Brolis Mangoldas [iš Šternbergo], vienuoliktas Prūsijos magistras, vadovavo dvejus
+    metus. Anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs
+    Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą,
+    kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o
+    grįždamas namo, kelyje ir pasimirė.
+  citata_rodoma: "Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai\nkrikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],\nvadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas\nMartynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas\nar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,\nnekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių\nramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o\nkiti išbėgiojo palikę visus turimus ginklus bei visą maistą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-63916
     - t-63917
     - t-63918
-    - t-63916
 
 - id: c-64823
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 175"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    229 (224). Apie tą patį
-
-      Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs
-    per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui
-    ir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė
-    pokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į
-    laivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo
-    po 20 markių dalies.
+    Dar apie tą patį
+    Neilgai trukus po to, kai tas pats brolis Albertas su kitais broliais traukė prieš tikėjimo
+    priešus, tą dieną, kai broliai bei kiti vienuoliai paprastai ima šventąją komuniją —
+    mūsų viešpaties Jėzaus Kristaus kūną, nutolo jis šiek tiek nuo kitų ir, susijaudinęs bei
+    ašarodamas, pasakė: „O viešpatie Jėzau Kristau, jeigu dabar būčiau namie, priimčiau,
+    sukalbėjęs daug maldų, tavo kūną“. Vos šitaip tarė, staiga pasirodė viešpaties kūnas
+    pavidalu paplotėlio, kuris duodamas prie altoriaus, ir pakibo ore jam prie pat burnos.
+    Sitai išvydęs, jis išsigando ir pasakė: „Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo
+    tikras kūnas, tegu jis įeina į mane“; kai atvėrė burną, paplotėlis įėjo, o jis jį priėmė,
+    neapsakomai džiaugdamasis.
+    233 (226). Apie kito brolio gyvenimą toje pačioje pilyje
+    Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
+    Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas
+    jam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti.
   citata_rodoma: "Apie tą patį\n\n  Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs\nper patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui\nir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė\npokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į\nlaivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo\npo 20 markių dalies."
   statusas: verified
   teiginio_tipas: faktas
@@ -738,35 +556,28 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-64824
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 163"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tą patį
-
-      Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą
+    Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą
     ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias
     tarnybas, jį užpuolė, o visus žmones išžudė. Martynas nukovė 10 vyrų pirtyje, pagrobė
     arklių, gyvulių bei kitko ir išsivarė į nelaisvę moteris bei vaikus.
-
-
-
-
-                         200 (195).
+    200 (195).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63906
-    - t-184111
     - t-63921
+    - t-184111
     - t-194504
 
 - id: c-64825
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 175"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
     vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
@@ -774,7 +585,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
     vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
     su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas. Kai jie priėjo šio
-    kunigaikščio sodybą, užtiko ten sukviestus  į vestuves beveik visus Lietuvos karalystės
+    kunigaikščio sodybą, užtiko ten sukviestus į vestuves beveik visus Lietuvos karalystės
     kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė
     juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
     ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
@@ -790,12 +601,10 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-64827
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 142"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dar apie Martyną iš Golino ir jo nuostabią kovą
-
-      Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino
+    Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino
     leidosi pavymui su 17 kovos draugų. Grįždami iš Lenkijos, prūsai užklupo Martyno
     sargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,
     kiek čia jo bendrų ir kur jie.
@@ -804,14 +613,13 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63909
     - t-63905
+    - t-63909
 
 - id: c-64828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 89"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
     negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
@@ -827,6 +635,28 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63920
+
+- id: c-179035
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Dar apie tą patį
+    Neilgai trukus po to, kai tas pats brolis Albertas su kitais broliais traukė prieš tikėjimo
+    priešus, tą dieną, kai broliai bei kiti vienuoliai paprastai ima šventąją komuniją —
+    mūsų viešpaties Jėzaus Kristaus kūną, nutolo jis šiek tiek nuo kitų ir, susijaudinęs bei
+    ašarodamas, pasakė: „O viešpatie Jėzau Kristau, jeigu dabar būčiau namie, priimčiau,
+    sukalbėjęs daug maldų, tavo kūną“. Vos šitaip tarė, staiga pasirodė viešpaties kūnas
+    pavidalu paplotėlio, kuris duodamas prie altoriaus, ir pakibo ore jam prie pat burnos.
+    Sitai išvydęs, jis išsigando ir pasakė: „Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo
+    tikras kūnas, tegu jis įeina į mane“; kai atvėrė burną, paplotėlis įėjo, o jis jį priėmė,
+    neapsakomai džiaugdamasis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197128
 
 ## Ryšiai
 - Martynas iš Golino keliavo į [[objektai/vietos/Rudinas]]

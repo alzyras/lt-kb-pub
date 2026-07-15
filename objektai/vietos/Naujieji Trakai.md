@@ -33,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Tiksli Naujųjų Trakų įkūrimo data nežinoma. Naujųjų Trakų data lyginama su Senųjų Trakų įkūrimo neapibrėžtumu.
+Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip nežinoma. Narbutas pasakojo, kad Kęstutis Birutę prieš jos valią išsivežė į Naujuosius Trakus ir ten vedė kaip žmoną.
 
 ## Teiginiai
 
@@ -44,61 +44,12 @@ Tiksli Naujųjų Trakų įkūrimo data nežinoma. Naujųjų Trakų data lyginama
   pagrindžia:
     - c-170322
 
-<a id="claim-t-187270"></a>
-- t-002
-  global_id: t-187270
-  teiginys: "Tiksli Naujųjų Trakų įkūrimo data nežinoma."
-  pagrindžia:
-    - c-170322
-
 <a id="claim-t-188777"></a>
-- t-003
+- t-002
   global_id: t-188777
   teiginys: "Narbutas pasakojo, kad Kęstutis Birutę prieš jos valią išsivežė į Naujuosius Trakus ir ten vedė kaip žmoną."
   pagrindžia:
     - c-171666
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Tačiau XVI a. LDK metraščiuose užrašytoji
-    sakmė apie Kęstučio žmonos Birulės kilmę iš Palangos, veikiausiai,
-    atspindi istorinę tiesų. Manoma, kad Birutė buvo antroji Kęstučio
-    žmona, ištekėjusi už jo apie 1349 m.
-    1 4  Tiksli N aujųjų Trakų (kaip ir Senųjų) įkūrimo data nežinoma
-    1 6  Kęstučio sūnus Vytautas gimė apie 1350 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas pasakojo, kad Kęstutis Birutę prieš jos valią išsivežė į Naujuosius Trakus ir ten vedė kaip žmoną.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Birutė (Biruta)
-    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
-    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
-    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
-    Sigailą, arba Žygimantą, bei dukterį Danutę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -107,38 +58,41 @@ Tiksli Naujųjų Trakų įkūrimo data nežinoma. Naujųjų Trakų data lyginama
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Tačiau XVI a. LDK metraščiuose užrašytoji
-    sakmė apie Kęstučio žmonos Birulės kilmę iš Palangos, veikiausiai,
-    atspindi istorinę tiesų. Manoma, kad Birutė buvo antroji Kęstučio
-    žmona, ištekėjusi už jo apie 1349 m.
-    1 4  Tiksli N aujųjų Trakų (kaip ir Senųjų) įkūrimo data nežinoma
-    1 6  Kęstučio sūnus Vytautas gimė apie 1350 m.
+    Bet 1395.VL13 Jogaila do­
+    vanojo vakarinę Podolę su Kamenecu, Bakota, Cervonogradu, Ska­
+    la ir Smotričiurai lenkui Spytkai Melštinskiui, o rytinė Podolė su
+    Mežibožu, Busku ir Vinica, veikiausiai, ir toliau pasiliko Vytauto
+    valdoma.
+    Goštautas Goštautaitis, toliau vadinamas Petru Goštautu ir lai­
+    komas Podolės Kameneco valdytoju Algirdo laikais, iš kitų šalti­
+    nių nežinomas.
   citata_rodoma: "Tiksli N aujųjų Trakų (kaip ir Senųjų) įkūrimo data nežinoma"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187270
     - t-187269
 
 - id: c-171666
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Birutė (Biruta)
-    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
-    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
-    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
-    Sigailą, arba Žygimantą, bei dukterį Danutę.
+    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30. Dabar, kai rašau,
+    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
+    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
+    minimo ir garbinimo apeigos.
+  citata_rodoma: "Birutė (Biruta)\nŽemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­\nte būryje mergelių, saugojančių šventą Praurimės aukuro ug­\nnį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,\nSigailą, arba Žygimantą, bei dukterį Danutę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

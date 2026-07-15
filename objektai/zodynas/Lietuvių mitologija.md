@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romėnų dievų bei skandinavų religijos samplaikos rezultatą. Narbutas lietuvių mitologijos medžiagą siejo su trisdešimt metų trukusiais Lietuvos senovės tyrimais ir surinkta tautosaka.
+Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romėnų dievų bei skandinavų religijos samplaikos rezultatą. Narbutas lietuvių mitologijos medžiagą siejo su trisdešimt metų trukusiais Lietuvos senovės tyrimais ir surinkta tautosaka. Lietuvių mitologija, sukurta iš graikų, nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.
 
 ## Teiginiai
 
@@ -37,12 +37,12 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   pagrindžia:
     - c-172045
 
-<a id="claim-t-189158"></a>
+<a id="claim-t-197372"></a>
 - t-002
-  global_id: t-189158
-  teiginys: "Narbutas lietuvių mitologijos medžiagą siejo su trisdešimt metų trukusiais Lietuvos senovės tyrimais ir surinkta tautosaka."
+  global_id: t-197372
+  teiginys: "Lietuvių mitologija, sukurta iš graikų, nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto."
   pagrindžia:
-    - c-172046
+    - c-179153
 - susijęs iš [[objektai/paprociai/Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika.md#claim-t-189953|Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika]]: Šubravcų draugijos nariai prie „Wiadomošci Brukowe“ rinkosi senovės lietuvių mitologijos pseudonimus ir rinko medžiagą apie tuos personažus.
 - susijęs iš [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais.md#claim-t-187830|Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]: Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus.
 - susijęs iš Lituanistinis sąjūdis XIX a. pradžioje: XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus universiteto studentų ir profesorių.
@@ -50,7 +50,6 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
 - susijęs iš [[objektai/autoriai/Kamerotos vyskupas Petras.md#claim-t-190304|Kamerotos vyskupas Petras]]: Narbutas rašo, kad Kamerotos vyskupo Petro rankraštį pirmą kartą pristatė straipsnyje apie Santvarą.
 - susijęs iš [[objektai/zodynas/Pramžimas.md#claim-t-189133|Pramžimas]]: Narbutas Pramžimą laikė pirmuoju ir visuotinai paplitusiu Senojo pasaulio dievu, valdžiusiu žmonių, pasaulio ir dievų likimus.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romėnų dievų bei skandinavų religijos samplaikos rezultatą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -77,34 +76,6 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas lietuvių mitologijos medžiagą siejo su trisdešimt metų trukusiais Lietuvos senovės tyrimais ir surinkta tautosaka.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    85
-
-    ## Puslapis 85
-
-    Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek
-    buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­
-    dėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne­
-    praleisdamas nieko, kas galėjo būti naudinga. Be to, mano pa­
-    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
-    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
-    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
-    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
-    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
-    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
-    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
-    logija yra raktas seniausiajai tautų istorijai pažinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172045
@@ -112,20 +83,22 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
-    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
-    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
-    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
-    plaikos kilo mitologija, kurią imamės išdėstyti.
-    Išnagrinėję visą lietuvių mitologijos sistemą, lengvai pa­
-    stebime, kad seniausioji lietuvių religija buvo azijinė -  indiš­
-    ka: dangaus kūnai ir elementai, tai yra ugnis, vanduo, žemė,
-    84
-
-    ## Puslapis 84
-
-    buvo garbinami pagal budistų ir senovės persų -  iš budizmo
-    kilusio Zoroastro mokymo sekėjų -  taisykles.
+    Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
+    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
+    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
+    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
+    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
+    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
+    artimos, kilusios iš vienos šakos - iš vieno lopšio*.
+  citata_rodoma: "Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­\nti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­\ndami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų\nsistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­\nplaikos kilo mitologija, kurią imamės išdėstyti.\nIšnagrinėję visą lietuvių mitologijos sistemą, lengvai pa­\nstebime, kad seniausioji lietuvių religija buvo azijinė -  indiš­\nka: dangaus kūnai ir elementai, tai yra ugnis, vanduo, žemė,\n84\n\n## Puslapis 84\n\nbuvo garbinami pagal budistų ir senovės persų -  iš budizmo\nkilusio Zoroastro mokymo sekėjų -  taisykles."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -133,30 +106,26 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   pagrindzia:
     - t-189157
 
-- id: c-172046
+- id: c-179153
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    85
-
-    ## Puslapis 85
-
-    Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek
-    buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­
-    dėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne­
-    praleisdamas nieko, kas galėjo būti naudinga. Be to, mano pa­
-    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
-    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
-    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
-    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
-    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
-    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
-    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
-    logija yra raktas seniausiajai tautų istorijai pažinti.
+    Lietuvių mitologija, sukurta iš graikų,
+    nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa­
+    prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru­
+    tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.
+    Kad mums būtų lengviau išsemti visą naudą iš mitologijos
+    skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
+    mus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­
+    jimuose.
+    Seniausios žemės tautos - indai ir kinai savo tautiškumo
+    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
+    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
+    nimo smulkmenų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189158
+    - t-197372

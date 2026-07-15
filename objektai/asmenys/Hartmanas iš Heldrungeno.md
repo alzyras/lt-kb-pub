@@ -8,16 +8,16 @@ datos:
   - '1324 m.'
 date_start: '1234'
 date_end: '1324'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - popiežius
-amziai:
-  - 'XIII'
-  - 'XIV'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,8 +59,8 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   teiginys: "Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą pastarajam."
   pagrindžia:
     - c-60599
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hartmanas iš Heldrungeno buvo didysis magistras, broliu tapęs prieš 1237 m. ir miręs 1282 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -76,24 +76,6 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
-- c-002
-  santrauka: 'Hartmanas iš Heldrungeno kartu su Konradu, Ditrichu iš Gruningeno ir keliais namiškiais buvo Teneburgo pilyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.
-    Šitaip brolis Konradas palinko  į Teutonų namų ordiną. Vieną gražią dieną, bėgdamas
-    nuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš
-    Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
-    ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
-      597 D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - c-003
   santrauka: 'Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą pastarajam.'
@@ -116,13 +98,15 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 - id: c-60597
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.
-    Pirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs
-    1282 m.). Trečiajai — Ragainės komtūras nuo 1313 m., o nuo 1324 m. didysis magistras
-    Verneris, kuriam kronikininkas įteikė savo veikalą.
+    Tarpinei kartai priklausytų broliai,
+    gyvenę ir Hartmano laikais, ir Vernerio veiklos Prūsijoje pradžioje133.
+    Nemaža žinių galėjo pateikti ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę
+    Ordino labui. Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau
+    su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
+    Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
+    pažinoję teritoriją, kelius ir žmones (III, 74, 223).
   citata_rodoma: "Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.\nPirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs\n1282 m.)."
   statusas: verified
   teiginio_tipas: faktas
@@ -134,15 +118,14 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 - id: c-60598
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 230"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.
-    Šitaip brolis Konradas palinko  į Teutonų namų ordiną. Vieną gražią dieną, bėgdamas
+    Šitaip brolis Konradas palinko į Teutonų namų ordiną. Vieną gražią dieną, bėgdamas
     nuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš
     Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
     ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
-      597 D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
+    597  D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
   citata_rodoma: "Vieną gražią dieną, bėgdamas\nnuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš\nHeldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,\nten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:\n  597 D."
   statusas: verified
   teiginio_tipas: faktas
@@ -154,13 +137,14 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 - id: c-60599
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 23"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė
-    su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus
-    dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas
-    po kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje.
+    Autorius buvo aprašomų įvykių liudytojas (Hartmanas įstojo į Ordiną apie
+    1234 m.). „Pranešimas... kaip rodo jo pradžia, parašytas didžiojo magistro Hartmano
+    (1273—1282 m.) valdymo laikotarpiu — magistro kanceliarijoje ir jo įsakymu, juo
+    siekiama įtvirtinti Ordino tradiciją tarp pačių Ordino brolių, o galbūt ir tarp atvykstančių
+    talkininkų.
+  citata_rodoma: "Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė\nsu Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus\ndvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas\npo kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -34,24 +34,6 @@ Prie Vievio jie net karo veiksmais sulaikė mūsų žygiavimą ir sudegino Vakos
   teiginys: "Prie Vievio jie net karo veiksmais sulaikė mūsų žygiavimą ir sudegino Vakos tiltą."
   pagrindžia:
     - c-176011
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prie Vievio jie net karo veiksmais sulaikė mūsų žygiavimą ir sudegino Vakos tiltą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau paliaubų pasiūlymo So-
-    vietų Rusija nepriėmė, ir karas tęsėsi lenkų nenaudai. Liepos
-    mėnesį lenkai bėgo iš Vilniaus srities, tačiau nenorėjo jos užleisti
-    lietuvių kariuomenei. Prie Vievio jie net karo veiksmais sulaikė
-    mūsų žygiavimą ir sudegino Vakos tiltą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

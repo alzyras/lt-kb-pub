@@ -36,44 +36,17 @@ Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, rit
   pagrindžia:
     - c-60890
 - susijęs iš [[objektai/asmenys/Skomantas (lietuvių vadas).md#claim-t-40424|Skomantas (lietuvių vadas)]]: Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Cipelis buvo riteris ir vasalas, kurio pilis buvo užpulta, o jos gyventojai nukauti arba paimti į nelaisvę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    link Eimsučio pilies447 ir ją po veržlaus antpuolio užėmė, nukaudamas 40 vyrų, paliktų
-    jos saugoti. Po to veržliai ir žiauriai užgriuvo kito vasalo, riterio, vardu Cipelis, pilį448 ir,
-    nukovęs ar paėmęs į nelaisvę visus ten gyvenusius žmones, abi pilis pavertė pelenais.
-
-
-
-
-              167 (162).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60890
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 146"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     link Eimsučio pilies447 ir ją po veržlaus antpuolio užėmė, nukaudamas 40 vyrų, paliktų
     jos saugoti. Po to veržliai ir žiauriai užgriuvo kito vasalo, riterio, vardu Cipelis, pilį448 ir,
     nukovęs ar paėmęs į nelaisvę visus ten gyvenusius žmones, abi pilis pavertė pelenais.
-
-
-
-
-              167 (162).
+    167 (162).
   citata_rodoma: "Po to veržliai ir žiauriai užgriuvo kito vasalo, riterio, vardu Cipelis, pilį448 ir,\nnukovęs ar paėmęs į nelaisvę visus ten gyvenusius žmones, abi pilis pavertė pelenais.\n\n\n\n\n          167 (162)."
   statusas: verified
   teiginio_tipas: faktas

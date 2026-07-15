@@ -14,6 +14,7 @@ date_end: '1300'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ordinas
   - vieta
   - pilis
 amziai:
@@ -35,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atiduos Žemaičius ir Dobrynę. Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža. Lenkijoj ėjo nuo seniau ginčas dėl Dobrynės žemės.
+Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atiduos Žemaičius ir Dobrynę. Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko. Dusburgiečio aprašyme Dobrynės kunigaikštystė minima tarp Prūsijos žemę ribojusių teritorijų.
 
 ## Teiginiai
 
@@ -52,6 +53,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   teiginys: "Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko."
   pagrindžia:
     - c-159444
+    - c-167535
 
 <a id="claim-t-175287"></a>
 - t-003
@@ -102,21 +104,26 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   pagrindžia:
     - c-159443
 
-<a id="claim-t-184150"></a>
-- t-010
-  global_id: t-184150
-  teiginys: "Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko."
-  pagrindžia:
-    - c-167535
-
 <a id="claim-t-184941"></a>
-- t-011
+- t-010
   global_id: t-184941
   teiginys: "Vytenis, Lietuvai atsigavus po smūgio, vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius."
   pagrindžia:
     - c-168302
-- susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185601|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185601|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.
+
+<a id="claim-t-196678"></a>
+- t-011
+  global_id: t-196678
+  teiginys: "Dobrynėje sekmadienį žmonėms suėjus iš kaimų į bažnyčias, miestą pavyko užimti staigiu antpuoliu."
+  pagrindžia:
+    - c-168302
+
+<a id="claim-t-196679"></a>
+- t-012
+  global_id: t-196679
+  teiginys: "Kojelavičiaus pasakojime Gediminas apie rugsėjo vidurį patraukė į Mazoviją ir Dobrynę, kad kariuomenė po karo su kryžiuočiais atgautų narsą grobiu."
+  pagrindžia:
+    - c-178836
 - susijęs iš [[objektai/asmenys/Dovydas.md#claim-t-82261|Dovydas]]: Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176347|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176397|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
@@ -149,7 +156,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65113|Dobrynės broliai]]: 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179255|Lietuviai]]: 1300 m. šeši tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami, imdami belaisvius ir degindami turtą.
 - susijęs iš [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas.md#claim-t-66640|Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]: Kunigaikštis Kristaus karių ordinui perdavė Dobrynės pilį ir žemės plotą Kujavijoje, vadintą Sedlcais.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185601|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.
 - susijęs iš [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.).md#claim-t-59554|Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]: M. Tepenas manė, kad Dusburgietis 1323 m. lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę aprašė remdamasis Varmės dokumentu.
 - susijęs iš [[objektai/ivykiai/Lietuvių žygis į Dobrynę ir Kulmo kraštą (1300-1301 m.).md#claim-t-185608|Lietuvių žygis į Dobrynę ir Kulmo kraštą (1300-1301 m.)]]: Šeši tūkstančiai lietuvių karių iš Livonijos staigiai įsiveržė į Dobrynę ir nuniokojo visą kraštą.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89380|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: Lietuvos kariuomenė vasarą puolė Ordiną Semboje ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę.
@@ -166,7 +172,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - susijęs iš Dobrynės kunigaikštystė: Užimtame Dobrynės mieste žuvo apie du tūkstančius gyventojų, o kunigaikštystėje buvo plėšiami ir deginami kaimai bei bažnyčios.
 - susijęs iš Drevanta: Drevanta skyrė lenkiškąją Dobrynės žemę nuo upių ir ežerų supamo ploto, o jos vardas laikomas baltišku.
 - susijęs iš Prūsija: Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
-- susijęs iš Ripinas: Lipnas ir Ripinas buvo žiauriai nusiaubti per žygį, kai buvo užimta ir sudeginta Dobrynė.
 - susijęs iš Semba: Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę.
 - susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58854|Kristaus kariai]]: Kristaus kariais vadinti Dobrynės broliai.
 - susijęs iš [[objektai/paprociai/Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas.md#claim-t-87297|Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas]]: Rugpjūtį lietuviai prie Vėluvos sudegino šešis kaimus ir nužudė kryžiuotį Fridrichą fon Quitzą su 36 kariais.
@@ -224,7 +229,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - susijęs iš Kujavija: Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais.
 - susijęs iš Kujavija: Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.
 - susijęs iš Kulmo žemė: „Pranešime“ kalbama apie Vokiečių ordino pakvietimą ir Kulmo žemės užrašymą broliams.
-- susijęs iš Lipnas: Po Dobrynės užėmimo ir sudeginimo buvo žiauriai nusiaubti Lipnas ir Ripinas.
 - susijęs iš Mazovija: Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, kaimyninė Mazovija ir artimos apylinkės.
 - susijęs iš Mazovija: „Pranešime...“ minimas pagonių brovimasis į Mazovijos kunigaikščio Konrado valdas.
 - susijęs iš Mazovija: Prūsijos žemę iš vienos pusės ribojo Mazovijos kunigaikštystė.
@@ -249,194 +253,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - susijęs iš Klaipėda: 1323 m. „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.
 - susijęs iš Semba: Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę.
 - susijęs iš [[objektai/asmenys/Burchardas Aremas.md#claim-t-186187|Burchardas Aremas]]: Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas ir trisdešimt ordino riterių.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lenkijoj ėjo nuo seniau ginčas
-    dėl Dobrynės žemės. Tą žemę Kazimieras III buvo atidavęs
-    Vladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas
-    Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    gailos brolis, Aleksandras Vyguntas, Kernavos kun., katalikas,
-    kas Skirgailai, kaip schizmatikui, nepatiko. Vyguntas, būdamas
-    Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos
-    galvos, nes pati Kernavės kunigaikštija buvo maža. Kad šito­
-    kia reforma buvo manoma padaryti, rodo ir šis faktas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-003
-  santrauka: 'Dobrynės pilis davė vardą broliams, kurie vėliau buvo pavadinti Dobrynės broliais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
-    jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
-    ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
-    padedami, ateityje pajungsią savo valdžiai. Kai apie tai sužinojo prūsai, jie, smarkiai
-    suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
-    ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-004
-  santrauka: 'Prūsai Dobrynės ordiną galėjo pulti 1224–1225 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.
-    411).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Dusburgiečio aprašyme Dobrynės kunigaikštystė minima tarp Prūsijos žemę ribojusių teritorijų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    2. Prūsijos žemės aprašymas
-
-       Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
-    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
-    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
-    bei Pomeraniją nuo Prūsijos186.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-006
-  santrauka: 'Prūsai kelis kartus su gausiomis ginkluotomis pajėgomis puolė Dobrynės pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kunigaikštis
-    ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
-    padedami, ateityje pajungsią savo valdžiai. Kai apie tai sužinojo prūsai, jie, smarkiai
-    suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
-    ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170. To maža,
-    ilgainiui jie taip suįžūlėjo, kad nuolatos penki ar keturi prūsai kiek tinkami prie pilies
-    plėšikavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    5 d. vėl atvyko pasiuntiniai teirautis taikos sąlygų.
-    Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai
-    Ordinas atiduos Žemaičius ir Dobrynę. Neatsižvelgdami į ta­
-    riamas derybas, sąjungininkai žygiavo tolyn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-008
-  santrauka: 'Drevanta skyrė lenkiškąją Dobrynės žemę nuo upių ir ežerų supamo ploto pietryčiuose.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo
-    lenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-009
-  santrauka: 'Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
-    kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
-      168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje
-    besiribojančios su prūsų teritorija, centras.
-      169 Kaimas Sedlce (D.— Cedelicze) buvęs  į pietus nuo Vyslos, kiek  į šiaurę nuo
-    Inovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-010
-  santrauka: 'Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Broliai pagydyti protingai
-    užbaigė jiems patikėtą reikalą. Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
-    kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
-      168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje
-    besiribojančios su prūsų teritorija, centras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-011
-  santrauka: 'Vytenis, Lietuvai atsigavus po smūgio, vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šitaip viena pra­
-    gaištinga puota privertė gedėti dėl artimųjų mirties
-    ar nelaisvės beveik visas Lietuvos šeimas, šitaip vie­
-    noje vietoje tapo apiplėšta beveik visa Lietuva, nes
-    turtingiausieji, kaip tada buvo įprasta, susivežė ten
-    kartu su žmonomis ir vaikais visus lobius, norėdami
-    pasigirti. Kai po šio smūgio Lietuva šiek tiek atsiga­
-    vo, Vytenis, surinkęs visose valdose lėšų, vieną ka­
-    riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo­
-    čius. Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
 ## Citatos
 
 - id: c-37340
@@ -477,8 +293,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-159438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
     jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
@@ -497,11 +312,22 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-159439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.
-    411).
+    savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
+    pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
+    esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,
+    viešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius
+    visas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei
+    teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
+    šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims. Kad
+    šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti,
+    išdavė jiems raštą, kurį patvirtino savo antspaudu172. Šitai padaryta apie 1226 (1230)
+    viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui
+    Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
+    Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
+    Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
+  citata_rodoma: "170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.\n411)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -512,15 +338,15 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-159440
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    2. Prūsijos žemės aprašymas
-
-       Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
-    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
-    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
-    bei Pomeraniją nuo Prūsijos186.
+    Torunės pilyje apie XIII a. vidurį, atrodo, įsikūrė Ordino konventas.
+    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
+    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
+    rankose, ji naudota kaip gyvulininkystės dvaras.
+    Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
+    e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
+    (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
   citata_rodoma: "Prūsijos žemės aprašymas\n\n   Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,\nMazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186."
   statusas: verified
   teiginio_tipas: faktas
@@ -532,8 +358,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-159441
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kunigaikštis
     ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
@@ -570,11 +395,12 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-159443
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 57"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo
-    lenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca).
+    Dravinė, Dreverna — Vanagas A. Lietuvių hidronimų..., p. 90—
+    91; Salys A. [Prūsų] kalba, p. 148; Топоров B. H. Прусский язык, А—D, с. 371; K—L,
+    с.
+  citata_rodoma: "Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo\nlenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -585,14 +411,13 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-159444
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
     kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
-      168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje
+    168  Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje
     besiribojančios su prūsų teritorija, centras.
-      169 Kaimas Sedlce (D.— Cedelicze) buvęs  į pietus nuo Vyslos, kiek  į šiaurę nuo
+    169 Kaimas Sedlce (D.— Cedelicze) buvęs į pietus nuo Vyslos, kiek į šiaurę nuo
     Inovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose).
   citata_rodoma: "Juos išklausęs, minėtasis valdovas Konradas, Lenkijos\nkunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas\n  168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje\nbesiribojančios su prūsų teritorija, centras.\n  169 Kaimas Sedlce (D."
   statusas: verified
@@ -605,43 +430,86 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-167535
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Broliai pagydyti protingai
     užbaigė jiems patikėtą reikalą. Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
     kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
-      168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje
+    168  Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje
     besiribojančios su prūsų teritorija, centras.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184150
-
 - id: c-168302
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 159"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 159."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Šitaip viena pra­
-    gaištinga puota privertė gedėti dėl artimųjų mirties
-    ar nelaisvės beveik visas Lietuvos šeimas, šitaip vie­
-    noje vietoje tapo apiplėšta beveik visa Lietuva, nes
-    turtingiausieji, kaip tada buvo įprasta, susivežė ten
-    kartu su žmonomis ir vaikais visus lobius, norėdami
-    pasigirti. Kai po šio smūgio Lietuva šiek tiek atsiga­
+    Kai po šio smūgio Lietuva šiek tiek atsiga­
     vo, Vytenis, surinkęs visose valdose lėšų, vieną ka­
     riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo­
     čius. Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė.
+    Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
+    D o b iy n ą , ž u d o k i y -
+    nių ir plėšimo, žuvo liepsno-
+    devynis tūkstančius belaisvių. Su kryžiuočiais kautasi
+    atvirame lauke: mūšyje krito ordino magistras Bur-
+    chardas Aremas su trisdešimčia to ordino riterių, o
+    lietuviai laimėjo kautynes. Vėliau, sužinojus, jog len­
+    kai ketina smarkiai užpulti lietuvius, paliauta rengti
+    žygius į kaimynų šalis ir pradėta laukti karo; lietuviai
+    nenorėjo, vienur išžygiavę, susilaukti audros iš kitos
+    pusės, jie būgštavo, kad, išsklaidę ir nuvarginę karius,
+    1297 m e ta i
+    L ietu via i
+    siaubia
+    ėję iš kaimų į bažnyčias,
+    miestą pavyko užimti staigiu
+    antpuoliu.
+  citata_rodoma: "Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė. \nKadangi Dobrynėje sekmadienį visi žmonės buvo su-\nD o b iy n ą , ž u d o k i y - \nnių ir plėšimo, žuvo liepsno-\ndevynis tūkstančius belaisvių. Su kryžiuočiais kautasi \natvirame lauke: mūšyje krito ordino magistras Bur- \nchardas Aremas su trisdešimčia to ordino riterių, o \nlietuviai laimėjo kautynes."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184941
+    - t-196678
+
+- id: c-178836
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Visi kryžiuočiai su vadu Henriku fon Ploc-
+    ke, Prūsijos maršalu, buvo šioje tankmėje arba su­
+    naikinti, arba pakliuvo į nelaisvę. Gediminas, norėda­
+    mas, kad kariuomenė, prisikentusi visokio vargo per
+    karą su kryžiuočiais, atgautų narsą prisiplėšusi naujo
+    grobio, apie rugsėjo vidurį patraukė į Mazoviją ir
+    Dobrynę; jis nusiaubė ir vieną, ir kitą žemę; kadangi
+    niekur nesirodė priešas, parvedė be kovos savo ka­
+    riuomenę, prisiplėšusią grobio, į tėvynę. Po to ordino
+    magistro Karolio fon Tryro
+    L ietu via i n io k o ja M a-
+    pastangomis buvo sudarytos
+    z o v iją ir D o b ry n ę
+    paliaubos dvejiems metams:
+    gal šis norėjo, kad ilgainiui
+    aprimtų lietuvių dvasia, kurią kėlė pastovi sėkmė (mat
+    geriausias būdas užbaigti tai, kam užsimota,— tęsti sėk­
+    mingus žygius), o gal dėl to, kad tuo metu pats ren­
+    gėsi visomis jėgomis kovoti su lenkais dėl Pomerani-
+    m
+
+    jos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196679
 
 ## Ryšiai
 - Puolė Dobrynę: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Kryžiuočių ordinas]]

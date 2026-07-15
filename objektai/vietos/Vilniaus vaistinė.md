@@ -35,32 +35,6 @@ Nors jų ginčai dėl karaliaus gydymo būdo, kaip žinome ne vieną atvejį, pa
   teiginys: "Iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia."
   pagrindžia:
     - c-82241
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tik kai Aleksandrą kelerius metus nuolat ka­
-    mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­
-    dymo meną išmanantys: vienas - pagal profesiją fizikas, arba
-    rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas;
-    antras, pagarsėjęs alchemijos išmanymu bei sėkmingu gy­
-    dymu, - Aleksandras Balinskis. Nors jų ginčai dėl karaliaus
-    gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­
-    nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­
-    miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
-    tapo nuolatinės miesto vaistinės pradžia.
-    Nors Lietuvos sostinė ir gavo naudos susijusios su preky­
-    ba bei saugumu, bet akivaizdaus pagerėjimo valdant miestą
-    nebuvo matyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

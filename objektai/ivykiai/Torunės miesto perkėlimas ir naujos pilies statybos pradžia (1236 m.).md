@@ -57,24 +57,8 @@ Nenurodyta
   teiginys: "Senosios Torunės pilaitė liko Ordino rankose ir buvo naudojama kaip gyvulininkystės dvaras."
   pagrindžia:
     - c-63816
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Senosios Torunės pilaitė liko Ordino rankose ir buvo naudojama kaip gyvulininkystės dvaras.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
-    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
-    rankose, ji naudota kaip gyvulininkystės dvaras.
-      Kaip rodo archeologiniai tyrimai, dab.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: '1236 m. Torunės miestas buvo perkeltas į dabartinės Torunės vietą, kur pradėta statyti nauja pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -93,13 +77,12 @@ Nenurodyta
 - id: c-63816
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
     dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
     rankose, ji naudota kaip gyvulininkystės dvaras.
-      Kaip rodo archeologiniai tyrimai, dab.
+    Kaip rodo archeologiniai tyrimai, dab.
   citata_rodoma: "Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,\ndalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino\nrankose, ji naudota kaip gyvulininkystės dvaras.\n  Kaip rodo archeologiniai tyrimai, dab."
   statusas: verified
   teiginio_tipas: faktas

@@ -60,47 +60,19 @@ Nenurodyta
   pagrindžia:
     - c-62818
 
-<a id="claim-t-62287"></a>
-- t-002
-  global_id: t-62287
-  teiginys: "1312 m. Henrikas VII, Romos karalius, buvo vainikuotas imperatoriumi Romoje, Laterano bažnyčioje."
-  pagrindžia:
-    - c-62818
-
 <a id="claim-t-194389"></a>
-- t-003
+- t-002
   global_id: t-194389
   teiginys: "Apie karaliaus Henriko vainikavimą imperatoriumi Tais metais Henrikas VII, Romos karalius, buvo vainikuotas Romoje, Laterano bažnyčioje, imperatoriumi po 62 metų nuo imperatoriaus Fridricho II mirties (Mart."
   pagrindžia:
     - c-62818
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    110. Apie karaliaus Henriko vainikavimą imperatoriumi
-
-       Tais metais Henrikas  VII, Romos  karalius, buvo vainikuotas Romoje, Laterano
-    bažnyčioje, imperatoriumi po 62 metų nuo imperatoriaus Fridricho II mirties (Mart. p.
-
-    447; Ptol. p. 1238).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 
 - id: c-62818
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 247-248"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247-248."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     110. Apie karaliaus Henriko vainikavimą imperatoriumi
 
@@ -115,5 +87,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62287
-    - t-183924
     - t-194389

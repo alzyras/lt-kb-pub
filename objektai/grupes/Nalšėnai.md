@@ -42,43 +42,6 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   teiginys: "Vaišvilkui persekiojant tėvo nužudymo sąmokslininkus ir jo suvienytos Lietuvos priešus, Livonijon pabėgo kitas žymus Nalšėnų kunigas Suksė ( Suxe )."
   pagrindžia:
     - c-177376
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tada Vaišvilkas traukė prieš pagrindinius
-    priešus. Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų
-    opozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai.
-    Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­
-    tas, pabūgęs pakliūti Vaišvilkni į rankas, išbėgo į Pskovą su savo
-    šeima, bajorais ir palydovais (družina).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vaišvilkui persekiojant tėvo nužudymo sąmokslininkus ir jo suvienytos Lietuvos priešus, Livonijon pabėgo kitas žymus Nalšėnų kunigas Suksė ( Suxe ).'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jų vienas (Andrius) buvo tapęs įžymiu Tverės
-    vyskupu^22 °.
-    Vaišvilkui persekiojant tėvo nužudymo sąmokslininkus ir jo
-    suvienytos Lietuvos priešus, Livonijon pabėgo kitas žymus Nalšėnų
-    kunigas Suksė ( _Suxe_ ). Rygoje pasikrikštijęs Mikalojaus vardu ir pri­
-    siglaudęs pas Rygos arkivyskupą, Suksė tapo jo vasalu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

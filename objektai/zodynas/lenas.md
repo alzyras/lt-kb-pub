@@ -35,28 +35,6 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
   teiginys: "Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Lenkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vytauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vytauto tiesioginei valdžiai atiteko tik rytinė."
   pagrindžia:
     - c-176022
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Lenkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vytauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vytauto tiesioginei valdžiai atiteko tik rytinė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš visų čia suminėtų sri-
-    čių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji
-    iš seno buvo glaudžiai susijusi su Lenkija. Pašalinus Karijotaitį,
-    ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Len-
-    kijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-
-    tauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-
-    tauto tiesioginei valdžiai atiteko tik rytinė jos dalis.
-    Šitais Vytauto žygiais buvo panaikintos visos stambiausios
-    kunigaikštystės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

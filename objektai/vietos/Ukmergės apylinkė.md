@@ -44,21 +44,6 @@ media_all_json: |-
   teiginys: "1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę."
   pagrindžia:
     - c-28388
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o
-    1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­
-    niaus. Tada abiejų lyčių lietuvių buvę nužudyta 1200^4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

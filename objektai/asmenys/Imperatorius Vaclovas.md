@@ -39,28 +39,6 @@ Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o im
   teiginys: "Prancūzai pasirinko Prahą dvikovos vieta, o imperatorių Vaclovą - abiejų tautų teisėju."
   pagrindžia:
     - c-83496
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prancūzai pasirinko Prahą dvikovos vieta, o imperatorių Vaclovą - abiejų tautų teisėju.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tos
-    niautynės pagaliau baigėsi prancūzų iškvietimu kautis, jiems
-    lenkai paaiškino, kad jeigu esą tikri riteriai ir norį parodyti
-    narsą, nustatytas jų skaičius tepasirenka tam vietą. Prancū­
-    zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o
-    imperatorių Vaclovą abiejų tautų teisėju pasirinkę32.
-    Taip įvairioms kautynėms ir ginčams besitęsiant praėjo
-    penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­
-    nėje pilyje33.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -40,29 +40,13 @@ Dusburgietis teigia, kad otrębski J.
   teiginys: "J. Otrębskio „Udział Jaćwingów w ukształtowaniu języka polskiego“ 1964 m. publikuotas Balstogėje leidinyje „ABS“."
   pagrindžia:
     - c-61840
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Otrębskio „Udział Jaćwingów w ukształtowaniu języka polskiego“ 1964 m. publikuotas Balstogėje leidinyje „ABS“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Otrębski J. Udział Jaćwingów w ukształtowaniu języka polskiego.— ABS, Białystok,
-    1964, 1, s. 207—216.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61840
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Otrębski J. Udział Jaćwingów w ukształtowaniu języka polskiego.— ABS, Białystok,
     1964, 1, s. 207—216.

@@ -35,30 +35,6 @@ Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Ma
   teiginys: "Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Balio Sruogos kūrinių."
   pagrindžia:
     - c-21618
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietu-
-    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
-    pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
-    kabinėta komunistinių šūkių. Padėtis kultūroje ėmė švelnėti tik šeštojo
-    dešimtmečio antroje pusėje, prasidėjus destalinizacijai.
-    Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
-    pradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-
-    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
-    V. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos,
-    Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
-    rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
-    kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

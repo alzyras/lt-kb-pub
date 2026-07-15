@@ -8,16 +8,16 @@ datos:
   - '1127 m.'
 date_start: '1101'
 date_end: '1127'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - karvedys
   - asmuo
-amziai:
-  - 'XII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,7 +47,6 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
     - c-177318
 - susijęs iš Volga: Narbutas pasakoja, kad po kelių pralaimėjimų poloviečiai apie 1127 m. buvo priversti pasitraukti už Volgos.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš poloviečius prie Sutenio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -72,16 +71,16 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
 - id: c-177318
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 106"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ne sy­
-    kį jie buvo smarkiai sutriuškinti, tačiau nebuvo taip pa­
-    laužti, kad liautųsi kovoti. Tik 1101 metais Vladimiras
-    Monomachas laimėjo didelę pergalę prieš poloviečius prie
-    Sutenio. Dar kelis kartus smarkiai sumušti, galop po
-    1121 metais patirto iš graikų sutriuškinimo buvo priversti
-    apie 1127 metus pasitraukti už Volgos.
+    visa pečenegų istorijos visuma neteikia nieko, iš ko ga­
+    lima būtų daryti išvadas apie kokius nors ryšius su lietu­
+    viais. Be to, iš gimininio-fizionominio tautų susiskirstymo
+    negalima spręsti apie tokią giminystę. Vadinasi, reikia
+    dar patyrinėti, ar neišsivedė pečenegai arba polovieciai,
+    įsiveržę kur nors į gyvenamąsias žemes, su savimi kokios
+    lietuvių kolonijos gyventojų.
+  citata_rodoma: "Ne sy­\nkį jie buvo smarkiai sutriuškinti, tačiau nebuvo taip pa­\nlaužti, kad liautųsi kovoti. Tik 1101 metais Vladimiras\nMonomachas laimėjo didelę pergalę prieš poloviečius prie\nSutenio. Dar kelis kartus smarkiai sumušti, galop po\n1121 metais patirto iš graikų sutriuškinimo buvo priversti\napie 1127 metus pasitraukti už Volgos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

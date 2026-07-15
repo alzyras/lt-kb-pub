@@ -34,21 +34,6 @@ p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atmint
   teiginys: "LGGRT centro „Gyvosios atminties programa“ pateikė mūšio liudininkės atsiminimus."
   pagrindžia:
     - c-75982
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 222, „MŪŠIO DALYVIO ATSIMINIMAI“, LGGRT centras, „Gyvosios atminties programa“.
-    p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atminties programa“.
-    p. 224, „PARTIZANŲ ĮVAIZDIS“, Daumantas J., p. 98.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

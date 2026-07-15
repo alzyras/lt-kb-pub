@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio ir ji savaime subyrės.
+Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio ir ji savaime subyrės. Kojelavičiaus perteiktoje kalboje kariai buvo raginami manyti, kad rusų kariaunai subyrėti pakaksi vieno smūgio.
 
 ## Teiginiai
 
@@ -35,36 +35,20 @@ Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio i
   teiginys: "Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio ir ji savaime subyrės."
   pagrindžia:
     - c-168848
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio ir ji savaime subyrės.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tegu jie užmetą žvilgsnį į
-    ginklus ir rankas, kurios, jo vedamos, sėkmingai lie­
-    jo galybės priešų kraują, šito užteksią jiems įtikėti
-    būsima pergale. Prieš juos stovį ne ginkluoti ligi dan­
-    tų plieno ginklais kryžiuočių pulkai, kuriuos jie dau­
-    gel kartų yra triuškinę, nors rodėsi nepalaužiami, o
-    rusai, menki buvusių pergalių likučiai, paskutinės be­
-    jėgės, mirštančios galybės nuoliekos. Vieno smūgio be­
-    reikią, ir jų kariauna savaime subyrėsianti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196401"></a>
+- t-002
+  global_id: t-196401
+  teiginys: "Kojelavičiaus perteiktoje kalboje kariai buvo raginami manyti, kad rusų kariaunai subyrėti pakaksi vieno smūgio."
   pagrindžia:
-    - t-001
+    - c-168848
 
 ## Citatos
 
 - id: c-168848
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 200"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 200."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tegu jie užmetą žvilgsnį į
     ginklus ir rankas, kurios, jo vedamos, sėkmingai lie­
@@ -74,10 +58,18 @@ Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio i
     gel kartų yra triuškinę, nors rodėsi nepalaužiami, o
     rusai, menki buvusių pergalių likučiai, paskutinės be­
     jėgės, mirštančios galybės nuoliekos. Vieno smūgio be­
-    reikią, ir jų kariauna savaime subyrėsianti.
+    reikią, ir jų kariauna savaime subyrėsianti. Ir vieni, ir
+    kiti pradėjo kovą, įnirtingai šaudydami strėlėmis ir
+    svaidydami ietimis, tačiau niekam nepadarydami di­
+    desnės žalos. Atkaklus ir kruvinas mūšis užvirė, kai
+    susidūrė ištisi būriai, kai iš arti imta kovoti kalavi­
+    jais: vieni ir kiti grūmėsi narsiai, ir tų, ir kitų nuos­
+    toliai buvo vienodi.
+  citata_rodoma: "Prieš juos stovį ne ginkluoti ligi dan­\ntų plieno ginklais kryžiuočių pulkai, kuriuos jie dau­\ngel kartų yra triuškinę, nors rodėsi nepalaužiami, o \nrusai, menki buvusių pergalių likučiai, paskutinės be­\njėgės, mirštančios galybės nuoliekos. Vieno smūgio be­\nreikią, ir jų kariauna savaime subyrėsianti. Ir vieni, ir \nkiti pradėjo kovą, įnirtingai šaudydami strėlėmis ir \nsvaidydami ietimis, tačiau niekam nepadarydami di­\ndesnės žalos. Atkaklus ir kruvinas mūšis užvirė, kai \nsusidūrė ištisi būriai, kai iš arti imta kovoti kalavi­\njais: vieni ir kiti grūmėsi narsiai, ir tų, ir kitų nuos­\ntoliai buvo vienodi."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185487
+    - t-196401

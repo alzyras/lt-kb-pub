@@ -9,16 +9,16 @@ datos:
   - '1839 m.'
 date_start: '1782'
 date_end: '1839'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - autorius
-amziai:
-  - 'XVIII'
-  - 'XIX'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,8 +53,8 @@ Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ i�
   teiginys: "Filologas Ignotas Benediktas Rakoveckis 1820–1828 m. Varšuvoje paskelbė darbą „Prawda Ruska“."
   pagrindžia:
     - c-173608
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ išėjo Varšuvoje 1820–1828 m. dviem tomais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -93,12 +93,14 @@ Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ i�
 - id: c-173276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 509"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 509."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    P. 400** -  Turimas omenyje filologo Ignoto Benedikto Rako-
-    veckio (Rakowiecki, 1782-1839) darbas (Prawda
-    Ruska. -  Warszawa, 1820-1828. -  T. I-II).
+    Über die Verwandtschaft zwis­
+    chen der Lithauischen und Sanskritsprache. Vor­
+    getragen am 6 Nov. 1828 // Historische und litera­
+    rische Abhandlungen der Königlichen Deutschen
+    Gesellschaft zu Königsberg.
+  citata_rodoma: "P. 400** -  Turimas omenyje filologo Ignoto Benedikto Rako-\nveckio (Rakowiecki, 1782-1839) darbas (Prawda\nRuska. -  Warszawa, 1820-1828. -  T. I-II)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -109,15 +111,16 @@ Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ i�
 - id: c-173608
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 509"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 509."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    178 /Ten pat,
-    (5)
-    išnaša/
-    Turimas omenyje filologo Ignoto Benedikto Rakoveckio (Rakowiec-
-    ki; 1782—1839) darbas (Prawda Ruska. Warszawa, 1820—1828.
-    T. I—II).
+    176 /Р. 325, nauja išnaša 2 pastraipos 1 sakiniui/
+    7a Neseckis (Herbarz Polski. T. VIII. S. 242) teigia, jog Sa­
+    piegų giminės protėvio herbe buvo pavaizduotos trys lelijos. To­
+    liau sako: „Narimantas buvo pirmasis, kuris Hipokentaurą pakeitė
+    Vytimi, Giedraitis — Rože, Daumantas — Stumbro galva; Ge­
+    diminas vietoj vieno Stulpo naudojo tris, Kaributas iš pradžių
+    turėjo Erelį su Vytimi, o vėliau — Mėnulį su Kryžiais.
+  citata_rodoma: "178 /Ten pat,\n(5)\nišnaša/\nTurimas omenyje filologo Ignoto Benedikto Rakoveckio (Rakowiec-\nki; 1782—1839) darbas (Prawda Ruska. Warszawa, 1820—1828.\nT. I—II)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

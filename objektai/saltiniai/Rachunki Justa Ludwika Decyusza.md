@@ -40,30 +40,6 @@ IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Au
   teiginys: "„Rachunki Justa Ludwika Decyusza“ išsamiai nušvietė naujų dirbtuvių padėtį Vilniuje."
   pagrindžia:
     - c-84449
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Rachunki Justa Ludwika Decyusza“ išsamiai nušvietė naujų dirbtuvių padėtį Vilniuje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jį karalius patvirtino tų pačių metų lapkričio
-    18 dieną ir vėliau miestui suteikė daug kitų naudingų dova­
-    nojimų, be kita ko, bajorams, mieste įsigyjantiems namus,
-    37 v 38
-    Šių naujų dirbtuvių padėtį Vilniuje Žr. IV priedą,
-    išsamiai nušviečia Rachunki Justa Lud- *
-    wika Decyusza, Žygimanto Augusto Municipalinė teisė (willkühr - savi-
-    iždininko; iš rankraščio išspausdin- valė vok., vert. past.),
-    tos „Pamiętnik Warszawski", 1815
-    m., Il t., 1. 140. Čia galima sužinoti
-    apie daugelį įdomių detalių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

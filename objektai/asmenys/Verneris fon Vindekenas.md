@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomis grūmėsi su pėsčiu riteriu.
+Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomis grūmėsi su pėsčiu riteriu. Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčias kovėsi su riteriu ir sužeistas pateko į nelaisvę.
 
 ## Teiginiai
 
@@ -35,50 +35,39 @@ Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomi
   teiginys: "Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomis grūmėsi su pėsčiu riteriu."
   pagrindžia:
     - c-169626
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomis grūmėsi su pėsčiu riteriu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ir vieni, ir kiti kovėsi įnir­
-    tingai, tačiau kunigaikštį ištikusi nelaimė galop palau­
-    žė lietuvius ir neleido laimėti. Vernerio fon Vindeke-
-    no numestas nuo arklio, Kęstutis (žuvus, beje, ir priešo
-    žirgui) narsiai pėsčiomis grūmėsi su pėsčiu riteriu,
-    tačiau, Nešavos komtūro sunkiai sužeistas, pateko į
-    Bartenšteino komtūro rankas. Vadui pakliuvus į ne­
-    laisvę, kiti kariai pasileido bėgti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196625"></a>
+- t-002
+  global_id: t-196625
+  teiginys: "Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčias kovėsi su riteriu ir sužeistas pateko į nelaisvę."
   pagrindžia:
-    - t-001
+    - c-169626
 
 ## Citatos
 
 - id: c-169626
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 244"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 244."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ir vieni, ir kiti kovėsi įnir­
+    Džiaugėsi Kęstutis, kad atsikeršijo, ir
+    jau vedėsi iš Prūsijos karius, prisiplėšusius grobio, ta­
+    čiau Bartenšteino ir Rastenburgo komtūrai, pasiviję
+    traukiančius namo, iš visų jėgų užpuolė su savo gink­
+    luotais būriais ariergardą. Ir vieni, ir kiti kovėsi įnir­
     tingai, tačiau kunigaikštį ištikusi nelaimė galop palau­
     žė lietuvius ir neleido laimėti. Vernerio fon Vindeke-
     no numestas nuo arklio, Kęstutis (žuvus, beje, ir priešo
     žirgui) narsiai pėsčiomis grūmėsi su pėsčiu riteriu,
     tačiau, Nešavos komtūro sunkiai sužeistas, pateko į
-    Bartenšteino komtūro rankas. Vadui pakliuvus į ne­
-    laisvę, kiti kariai pasileido bėgti.
+    Bartenšteino komtūro rankas.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186265
+    - t-196625
 
 ## Ryšiai
 - Verneris fon Vindekenas puolė [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

@@ -7,12 +7,12 @@ datos:
   - '1955 m.'
 date_start: '1955'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad otrębski J.
   teiginys: "J. Otrębskio „Über die Herkunft des Preussennamens“ 1955 m. publikuotas Poznanės leidinyje „Lingua Posnaniensis“."
   pagrindžia:
     - c-61841
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Otrębskio „Über die Herkunft des Preussennamens“ 1955 m. publikuotas Poznanės leidinyje „Lingua Posnaniensis“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,13 @@ Dusburgietis teigia, kad otrębski J.
 - id: c-61841
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Otrębski J. Über die Herkunft des Preussennamens.— Lingua Posnaniensis, Poznań,
-    1955, t. 5, s. 76—78.
+    Sembritzki J. Geschichte der Königlich Preussischen See- und Handelsstadt Memel.—
+    Memel, 1926.
+    Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
+    Porębska przy współpracy M Grzegorza; Pod.
+  citata_rodoma: "Otrębski J. Über die Herkunft des Preussennamens.— Lingua Posnaniensis, Poznań,\n1955, t. 5, s. 76—78."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

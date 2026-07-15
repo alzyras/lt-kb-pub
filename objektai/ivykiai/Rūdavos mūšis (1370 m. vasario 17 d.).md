@@ -78,42 +78,6 @@ Nenurodyta
   teiginys: "Vytautas dalyvavo Rūdavos mūšyje kaip Kęstučio prie karo pratintas jaunuolis."
   pagrindžia:
     - c-66967
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas, vos dvidešimties metų jaunuolis, žinoma, čia da­
-    lyvaudamas, vadovaujamos reikšmės dar neturėjo, bet buvo tik
-    Kęstučio pratinamas prie karo. Tuo pat tikslu, matyt, ir Algir­
-    das buvo pasiėmęs su savim Jogailą, dviem metais vyresnį už
-    Vytautą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pasidalinę mažais būre­
-    liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
-    tų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,
-    netoli Karaliaučiaus, vėl susirinko krūvon. Mūšis pasibaigė di­
-    deliu lietuvių pralaimėjimu. Iš vokiečių pusės žuvo jų žymus
-    maršalka Šindenkopfas, 23 ordino broliai riteriai ir mažiausia
-    bent 300 žmonių kariuomenės. Lietuvių pusėje žuvę apie 5000
-    žmonių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -133,6 +97,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-66861
+    - t-66863
     - t-66864
 
 - id: c-66968

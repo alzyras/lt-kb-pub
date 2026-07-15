@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pagerbė Vytautą auksinėmis grandinėmis ir diržais; Šiame gabale grandinės ir diržai minimi kaip diplomatinės dovanos tarp valdovų.
+Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis ir diržais tarp kitų brangių dovanų. Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, diržais ir kitomis dovanomis.
 
 ## Pavadinimai šaltiniuose
 
@@ -66,34 +66,9 @@ Nenurodyta
 <a id="claim-t-193866"></a>
 - t-002
   global_id: t-193866
-  teiginys: "Tą pačią žiemą, pavasariop H , į Smolenską, pas savo tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa gerbė didįjį kunigaikštį brangiomis dovanomis; auksi nėmis grandinėmis ir diržais, sabalais."
+  teiginys: "Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, diržais ir kitomis dovanomis."
   pagrindžia:
     - c-170024
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis ir diržais tarp kitų brangių dovanų.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ivanovičių IJ. Didysis kunigaikštis Vytautas prieš Ria-
-    zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
-    Lengvenį su didele kariuomene ir su Smolensko pajė­
-    gomis; tie parsivarė daugybę belaisvių riazaniečių ir
-    su dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .
-    Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
-    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
-    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
-    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
-    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
-    auksiniais indais ir bachmatais ls.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 
@@ -106,8 +81,8 @@ Nenurodyta
     zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
     Lengvenį su didele kariuomene ir su Smolensko pajė­
     gomis; tie parsivarė daugybę belaisvių riazaniečių ir
-    su dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .
-    Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
+    su dideliu grobiu sugrįžo pas Vytautą (1396)13.
+    Tą pačią žiemą, pavasariop H, į Smolenską, pas savo
     tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
     vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
     gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­

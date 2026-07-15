@@ -61,51 +61,7 @@ Nenurodyta
   teiginys: "LDK kancleris saugojo valstybės antspaudus ir prižiūrėjo, kad kanceliarijos raštai neprieštarautų valstybės įstatymams."
   pagrindžia:
     - c-22307
-
-<a id="claim-t-183302"></a>
-- t-002
-  global_id: t-183302
-  teiginys: "LDK kancleris saugojo valstybės antspaudus ir prižiūrėjo, kad kanceliarijos raštai neprieštarautų valstybės įstatymams."
-  pagrindžia:
     - c-166692
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Raštinėje sukurti ir kiti LDK raštijos pa-
-    minklai – Statutai ir metraščiai, o pirmieji literatai, pavyzdžiui, Mykolas
-    Lietuvis, buvo raštininkai.
-    Plečiantis centrinės valdžios funkcijoms, pirmojoje XV  a. pusėje
-    įsteigtos LDK kanclerio (kanceliarijos viršininko) pareigos, jam pavesta
-    prižiūrėti Lietuvos Metriką. Šis pareigūnas saugojo valstybės antspaudus,
-    prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks
-    raštas, prieštaraująs valstybės įstatymams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'LDK kancleris saugojo valstybės antspaudus ir prižiūrėjo, kad kanceliarijos raštai neprieštarautų valstybės įstatymams.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Plečiantis centrinės valdžios funkcijoms, pirmojoje XV  a. pusėje
-    įsteigtos LDK kanclerio (kanceliarijos viršininko) pareigos, jam pavesta
-    prižiūrėti Lietuvos Metriką. Šis pareigūnas saugojo valstybės antspaudus,
-    prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks
-    raštas, prieštaraująs valstybės įstatymams. Atskira LDK raštinė, prižiūri-
-    ma Lietuvos kanclerio, išliko ir po Liublino unijos 1569 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -145,5 +101,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183302

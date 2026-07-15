@@ -60,34 +60,6 @@ Nenurodyta
   teiginys: "1506 m. tikriausiai buvo pataisytos pakrypusios ir suskilusios Žemutinės pilies sienos, taip pat iškilo erdvūs mediniai rūmai."
   pagrindžia:
     - c-83084
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1506 m. tikriausiai buvo pataisytos pakrypusios ir suskilusios Žemutinės pilies sienos, taip pat iškilo erdvūs mediniai rūmai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau šis karaliaus nurodymas gal taip greitai ne­
-    būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
-    bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į
-    Vilnių. Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
-    vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
-    limu, išmetę medinius statinius. Atrodo, kad tais metais bu­
-    vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­
-    krypusios ir suskilusios, be to, išaugo panašūs ir erdvūs
-    232
-
-    ## Puslapis 249
-
-    III KNYGA
-    mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
-    veinei*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

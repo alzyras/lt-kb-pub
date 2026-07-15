@@ -49,35 +49,12 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - susijęs iš Jeruzalė: Popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę ir paskyrė septynis brolius kraštų valdytojais.
 - susijęs iš Jeruzalė: Popiežius Celestinas III Jeruzalėje įkūrė ir pašventino Švč. Marijos Teutonų ordino vienuolių ligoninę.
 - susijęs iš [[objektai/zodynas/landkomtūras.md#claim-t-58912|landkomtūras]]: Popiežius Celestinas III paskyrė septynis Teutonų ordino brolius landkomtūrais, arba provincijų valdytojais.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
-    žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies
-    įvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t. y.
-    septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje
-    įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis
-    šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,
-    Vokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų
-    niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-61112
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 17"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
     žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies

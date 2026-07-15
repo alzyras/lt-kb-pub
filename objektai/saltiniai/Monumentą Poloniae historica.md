@@ -46,29 +46,13 @@ Dusburgietis teigia, kad monumentą Poloniae historica.—T.
   teiginys: "„Monumenta Poloniae historica“ 2, 4 ir 5 tomai išleisti Lvove 1872, 1884 ir 1888 m., o 1961 m. nurodytas Varšuvos leidimas."
   pagrindžia:
     - c-61816
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Monumenta Poloniae historica“ 2, 4 ir 5 tomai išleisti Lvove 1872, 1884 ir 1888 m., o 1961 m. nurodytas Varšuvos leidimas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Monumentą Poloniae historica.—T. 2, 4, 5.—Lwów, 1872, 1884, 1888 (Warszawa,
-    1961).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61816
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Monumentą Poloniae historica.—T. 2, 4, 5.—Lwów, 1872, 1884, 1888 (Warszawa,
     1961).

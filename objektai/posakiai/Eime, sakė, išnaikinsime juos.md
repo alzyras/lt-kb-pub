@@ -35,21 +35,14 @@ Dusburgietis teigia, kad „Eime, sakė, išnaikinsime juos, kad šios tautos ne
   pagrindžia:
     - c-59723
 
-<a id="claim-t-59091"></a>
-- t-002
-  global_id: t-59091
-  teiginys: "Petras Dusburgietis posakį „Eime, sakė, išnaikinsime juos“ sieja su Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupėjais."
-  pagrindžia:
-    - c-59723
-
 <a id="claim-t-194466"></a>
 - t-003
   global_id: t-194466
   teiginys: "„Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo niekas nebeminėtų“."
   pagrindžia:
     - c-59723
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -75,21 +68,23 @@ Dusburgietis teigia, kad „Eime, sakė, išnaikinsime juos, kad šios tautos ne
 - id: c-59723
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 117"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 117."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
-
-       Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir
-    piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos
-    tu globoji. „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo
-    niekas nebeminėtų“. Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
-    ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis.
+    Apie tai, kaip buvo palikta Rezlio pilis
+    Rezlio pilies broliai, išgirdę, kad prūsai apsiautė Karaliaučiaus, Kroicburgo ir Bartenšteino
+    pilis, labai išsigando ir, ilgai taręsi bei dvejoję, pavertė pelenais pilį ir slaptais dykrų
+    keliais pasitraukė.
+    98 (93). Apie laimėtą mūšį, kuriame Julicho ir Markos grafai nukovė tris tūkstančius
+    sembų
+    Prūsijos žemės broliai bei tikintieji, įvairiopų negandų užgulti, suvokė artėjant galą
+    ir, pagauti baimės, pravirko kruvinomis ašaromis, tačiau nestengė vienas kito paguosti,
+    nes būgštavo, kad dievas ant jų labai užsirūstinęs. Po dvejus metus užtrukusių smarkių
+    kovų jų jėgos ėjo silpnyn, o tikėjimo priešai stiprėjo.
+  citata_rodoma: "Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą\n\n   Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir\npiktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos\ntu globoji. „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo\nniekas nebeminėtų“. Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė\nir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59091
-    - t-184027
     - t-194466

@@ -34,43 +34,6 @@ Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovič
   teiginys: "Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje."
   pagrindžia:
     - c-83607
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA // TOMAS
-    Jonui Boleslavovičiui Svirskiui, jo karališkosios malonybės
-    maršalkai, Maišiagalos valdytojui ir taip pat gerbiamam Sta­
-    nislovui Sabinai, Jo Malonybės karaliaus sekretoriui, Vilniaus
-    vaitui, kad tuo laiku Turkijos imperatoriaus čiaušas Ibrahi-
-    mas, atvažiavęs nuo didžiojo Maskvos kunigaikščio, turėda­
-    mas tam tikrų reikalų į jo karališkąją malonybę, palikęs Vil­
-    niaus mieste tarnus su žirgais ir kai kuriais savo daiktais, būtų
-    atvažiavęs čia, pas jo malonybę karalių į Gardiną, bet Vieš­
-    pats Dievas savo šventąja valia tuo laiku jo karališkąją malo­
-    nybę mūsų valdovą teikėsi pašaukti į savo šventąją garbę,
-    mus ir visą Respubliką ištikus nelaimei, tasai čiaušas negali
-    būti šiuo metu išsiųstas neišsprendus tų reikalų, dėl kurių
-    buvo Turkijos imperatoriaus atsiųstas pas jo karališkąją ma­
-    lonybę. Todėl, jo pageidavimu, jam leidome kurį laiką pagy­
-    venti Vilniaus mieste, kol jų malonybės tarybos ponai visi čia,
-    į Gardiną, suvažiuos. Kartu su juo yra siunčiamas ir mūsų
-    priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­
-    sų Malonybės, pone vaivada, o jo malonybei nesant Vilniuje,
-    Tavo Malonybei, pone vietininke ir pone vaite, liepsime, kad
-    tąjį čiaušą ir jo tarnus, kurių jis turi dvidešimt du žmones,
-    ten, Vilniaus mieste, aprūpintumėte nakvyne ir garantuotu­
-    mėte ramų, be užpuldinėjimų gyvenimą per visą tą laiką, prie­
-    šingu atveju dėl to tegu jums bus atmintis mūsų pamokymai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

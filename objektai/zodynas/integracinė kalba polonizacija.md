@@ -43,40 +43,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   teiginys: "Lenkų kalba LDK bajorijai tapo integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone."
   pagrindžia:
     - c-24851
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta. Gyveni-
-    mas reikalavo vis daugiau lietuviškų žodžių, bet, užuot juos kūrus, buvo
-    pasisavinami lenkiški. Taigi lietuvių kalbą, nesuspėjant kurti naujadarų
-    pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų,
-    tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
-    žemėse priemone.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Lenkų kalbai Seime buvo suteiktas oficialios raštinių kalbos statusas vietoje anksčiau vartotos rusėnų raštų kalbos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Seime jai suteikiamas oficialios raštinių kalbos
-    statusas vietoje anksčiau vartotos rusėnų raštų kalbos. Taigi lenkų kalba
-    buvo įteisinta pačių Lietuvos bajorų reikalavimu, tai buvo Lietuvos visuo-
-    menės pasirinkimas, o ne polonizacija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

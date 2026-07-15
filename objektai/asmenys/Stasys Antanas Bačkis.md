@@ -49,28 +49,6 @@ LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo dip
 - susijęs iš [[objektai/posakiai/„primus inter pares“.md#claim-t-77853|„primus inter pares“]]: Stasys Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares, pirmą tarp lygiųjų tarp visų pasiuntinių.
 - susijęs iš F. Ruzvelto įsakymas dėl Baltijos valstybių lėšų įšaldymo (1940 m. liepos 15 d.): 1940 m. liepos 15 d. F. Ruzvelto įsakymas įšaldė JAV bankuose laikytas Baltijos valstybių lėšas.
 - susijęs iš [[objektai/zodynas/primus inter pares.md#claim-t-22257|primus inter pares]]: Stasys Lozoraitis diplomatijos šefo pareigas aiškino kaip primus inter pares, pirmojo tarp lygiųjų, vaidmenį tarp pasiuntinių.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    F. Ruzvelto išleistas įsakymas, kuriuo įšaldy-
-    tos JAV bankuose laikytos Baltijos valstybių
-    lėšos. Šie pinigai suteikė galimybę LDT išlai-
-    kyti savo pasiuntinybes ir personalą iki pat
-    diplomatinio darbo pabaigos.
-    LDT aukščiausia valdžia priklausė di-
-    plomatijos šefui, tas pareigas ėjo diplomatai
-    Stasys Lozoraitis (1940–1983 m.) ir Stasys
-    Antanas Bačkis (1983–1991 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-21990

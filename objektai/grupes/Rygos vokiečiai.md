@@ -35,25 +35,6 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
   teiginys: "Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais nebuvo palanki Livonijos ordino magistrui Andriui von Stirlandui."
   pagrindžia:
     - c-33354
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Naudodamasis tokia savo priešų nesantaika, Mindaugas pirmasis iš
-    lietuvių kunigaikščių gelbėjosi iš savo sunkios padėties, kreipdamasis
-    į Livonijos ordino magistrą ir siųsdamas jam įvairių brangių dovanų^86.
-    Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes
-    ir magistrui Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais
-    nebuvo pakeliui. Įtikinęs Mindaugą, žadėjusį užrašyti žemių, jog
-    būtinai jam reikia krikštytis^87 , magistras su juo padarė taiką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

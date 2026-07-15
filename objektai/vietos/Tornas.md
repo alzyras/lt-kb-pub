@@ -56,27 +56,6 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
 - susijęs iš Prūsija: Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas esą anksčiau priklausė jo protėviams.
 - susijęs iš Varmijos vyskupystė: 1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai.
 - susijęs iš Veliuona: Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas dėl to net pasiskundė Vakarų Europos ku­
-    nigaikščiams, kad Ordinas neleidžia pirkliams susisiekti su Lie­
-    tuva ne tik per jo teritoriją, bet ir jūromis1 2).
-    Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties
-    (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio
-    prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
-    aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-161973

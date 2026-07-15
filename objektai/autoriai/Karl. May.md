@@ -34,21 +34,6 @@ media_all_json: |-
   teiginys: "Karlio May „Per dykumą“ I, II ir III tomus iš originalo vertė J. Vadeikis."
   pagrindžia:
     - c-36667
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Karlio May „Per dykumą“ I, II ir III tomus iš originalo vertė J. Vadeikis.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    2. Karl. May PER DYKUMĄ. I,_II ir III tomai. Iš originalo vertė J.
-    Vadeikis. Vertimą kalbos atžvilgiu žiūrėjo J. Talmanas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

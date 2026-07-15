@@ -44,25 +44,6 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
   teiginys: "`Sriuobalas` šiame tekste reiškia skystą valgomą putrą ar sriubą."
   pagrindžia:
     - c-09741
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Valgė visi vasarą ant žemės pablaka ar išsitiesę, kaip šiandien dar tebdaro šienuodamies, ant
-        plikos vejos, dembliais ar meškenomis pasikloję, sriuobalą^345 srėbė, su duona pasikąsdami, iš
-        muldų ar raugtinių^346 ir kitų kodžių^347. Paprastai sriuobalu buvo laiški ar skoba putra^348 ; jei tam
-        kartui ją virė, tad buvo vanduo, su miltais suvirintas, ir truputį pienu saldžiu pražilinta; juo
-        daugiau tenai miltų ir pieno buvo, juo skanesne vadinos, ką patarlė, šiandien minavojama, dar
-        stigavoja: „Duok, dievali,– sako, – pievoj karklyną, putroj kankolą^349 “; lygia dalia į skystą putrą
-        sakoma tebėra: „Et, – sako, – pliurškalas, kruopas kruopą gaudo“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

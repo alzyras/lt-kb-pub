@@ -34,8 +34,8 @@ Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis
   teiginys: "Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis garbintas kaip šventasis."
   pagrindžia:
     - c-173331
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis garbintas kaip šventasis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -61,17 +61,21 @@ Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis
 - id: c-173331
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 237"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie tai papa­
-    sakosime straipsnyje „Šventyklos“.
-    Neseniai buvo aptiktas kadaise milžiniškas ir labai senas
-    jau benudžiūstantis ąžuolas; kadangi jis išliko, todėl teisingai
-    manoma, kad jis garbintas kaip šventasis. Jį atrado pats ponas
-    Dionizas Paškevičius Bardžių dvare, Žemaitijoje, arti Kražių,
-    prie vieškelio į Raseinius, tarp Nemakščių ir Kaltinėnų mies­
-    telių.
+    Apskritai reikia ma­
+    nyti, kad visur, kur buvo šventyklos, augo šventieji ąžuolai,
+    kadangi šio medžio šventumas lietuvių mitologijoje susiliejo
+    su dievų buveinės vaizdiniu.
+    Tikėjimą šito medžio šventumu skandinavai iš dalies pe­
+    rėmė iš lietuvių, kadangi ne visi ir ne visur turėjo šventyklas
+    po ąžuolais; kaip praneša Adomas Bremenietis, to ypač laikė­
+    si švedų protėviai .
+    Lietuvių liaudies pasakos mini, kad žmonės valgydavę gi­
+    les, iškeptas pelenuose arba virtas su pelenais. Gali būti, kad
+    šis vaisius nuo alkaloidinės rūgšties praranda savo aitrumą ir
+    būna visai pakenčiamas valgis.
+  citata_rodoma: "Apie tai papa­\nsakosime straipsnyje „Šventyklos“.\nNeseniai buvo aptiktas kadaise milžiniškas ir labai senas\njau benudžiūstantis ąžuolas; kadangi jis išliko, todėl teisingai\nmanoma, kad jis garbintas kaip šventasis. Jį atrado pats ponas\nDionizas Paškevičius Bardžių dvare, Žemaitijoje, arti Kražių,\nprie vieškelio į Raseinius, tarp Nemakščių ir Kaltinėnų mies­\ntelių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -90,35 +90,6 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - susijęs iš Kimerija: Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės.
 - susijęs iš [[objektai/zodynas/Medė.md#claim-t-70028|medė]]: Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros ir Dunojaus.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    tame amžiuje antsigrūdo^1388 iš Azijos tauta, jau gudais, jau lenkais vadinama, kuri pirma užgulė Lietuvos tyrus, šiandien Podolijomis vadinamus, ir taip būtinai atskiedė^1389 lietuvius nuo Uksinės, arba Juodosios, jūros ir nuo upės Dunojaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    išplėtė jos
-        rubežių į pietus lig Uksinės, arba Juodosios, jūros, upės Dunojaus ir Vengrų žemės, į rytus lig
-        Možaisko ir Putivlio pilių, tad Lietuvos prekyba, kaip sakiau, tuose kraštuose prasiplatino. Druską
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -157,25 +128,10 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   citata_rodoma: ''
   statusas: verified
 
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-005
-  santrauka: 'Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Prekyba.** Seniausiais laikais lietuviai prekiavo su skandina-
-    vais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, to-
-    limi vakarinės Azijos kraštai ir Viduržemio pajūris. Bet toto-
-    riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-10491
@@ -242,3 +198,24 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193185
+
+- id: c-10493
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    - public_note:
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - vieta_saltinyje: Citata kandidatų registre pažymėta kaip neaptikta darbiniame šaltinyje.
+    - santrauka: Totoriai šiame fragmente pereina nuo partnerystės prie karo prieš Lietuvą.
+    - pagrindzia:
+    - pastaba: Šiame žingsnyje nelaikoma pakankamu viešu įrodymu.
+      citata_originali: |
+        Nuo to regimai Lietuvos ūkė pradėjo irti; lig šiol totoriai, talkininkai ir tarnai lietuvių, nugis atstoję nuo jų, pasidavė turkams ir pradėjo pačius lietuvius kariauti, užgulė Uksinę jūrą įr Dunojų, arba Istrupį.
+  citata_rodoma: "užgulė Uksinę jūrą įr Dunojų,\narba Istrupį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

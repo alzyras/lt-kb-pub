@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje. Narbutas Rudolfą vadina herulų karaliumi arba po Odoakro valdžiusiu vadu ir rašo, kad 493 m. longobardai visiškai sumušė herulus.
+Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje. Narbutas Rudolfą vadina herulų karaliumi arba po Odoakro valdžiusiu vadu ir rašo, kad 493 m. longobardai visiškai sumušė herulus. Po Odo akro mirties dar ketverius metus truko susirėmimas prie šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo burgundų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -54,54 +54,27 @@ Nenurodyta
   teiginys: "Narbutas Rudolfą vadina herulų karaliumi arba po Odoakro valdžiusiu vadu ir rašo, kad 493 m. longobardai visiškai sumušė herulus."
   pagrindžia:
     - c-173928
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Po Odo­
-    akro mirties dar ketverius metus truko susirėmimas prie­
-    šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir
-    nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo
-    burgundų. Lietuvių genčių likimai po kovo skerdynių Ra-
-    venoje buvo įvairūs. Didžiausia herulų dalis pasitraukė
-    prie Dunojaus, kur ketino apsigyventi šalia rugių arba
-    toje Noriko dalyje, kurią pavadino Rugilandija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197538"></a>
+- t-003
+  global_id: t-197538
+  teiginys: "Po Odo akro mirties dar ketverius metus truko susirėmimas prie šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo burgundų."
   pagrindžia:
-    - t-001
+    - c-173927
 
-- c-002
-  santrauka: 'Narbutas Rudolfą vadina herulų karaliumi arba po Odoakro valdžiusiu vadu ir rašo, kad 493 m. longobardai visiškai sumušė herulus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Herulų karalius ar veikiau po Odoakro valdęs
-    vadas Rudolfas neapdairiai pradėjo kariauti su jo tau­
-    tiečio vadovaujamais longobardais, kurie dar 493 metais
-    juos visiškai sumušė. Tad herulams neliko nieko kito,
-    kaip tik išsikraustyti iš šių žemių. Jie pasistūmėjo žemyn
-    Dunojumi, ramiai perėjo gepidų kraštą ir pasidavė Rytų
-    imperatoriaus globai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197539"></a>
+- t-004
+  global_id: t-197539
+  teiginys: "Herulų karalius ar veikiau po Odoakro valdęs vadas Rudolfas neapdairiai pradėjo kariauti su jo tau tiečio vadovaujamais longobardais, kurie dar 493 metais juos visiškai sumušė."
   pagrindžia:
-    - t-002
+    - c-173928
 
 ## Citatos
 
 - id: c-173927
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 324"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Po Odo­
     akro mirties dar ketverius metus truko susirėmimas prie­
@@ -110,19 +83,22 @@ Nenurodyta
     burgundų. Lietuvių genčių likimai po kovo skerdynių Ra-
     venoje buvo įvairūs. Didžiausia herulų dalis pasitraukė
     prie Dunojaus, kur ketino apsigyventi šalia rugių arba
-    toje Noriko dalyje, kurią pavadino Rugilandija.
+    toje Noriko dalyje, kurią pavadino Rugilandija. Savo kai­
+    mynystėje jie rado longobardus ir ėmė savintis tam tikrą
+    jų valdžią. Tai buvo germanų gentis, klajojusi ir dyki­
+    nėjusi, be to, visiškai negausi, bet pernelyg karinga.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191045
+    - t-197538
 
 - id: c-173928
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 324"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Herulų karalius ar veikiau po Odoakro valdęs
     vadas Rudolfas neapdairiai pradėjo kariauti su jo tau­
@@ -130,10 +106,14 @@ Nenurodyta
     juos visiškai sumušė. Tad herulams neliko nieko kito,
     kaip tik išsikraustyti iš šių žemių. Jie pasistūmėjo žemyn
     Dunojumi, ramiai perėjo gepidų kraštą ir pasidavė Rytų
-    imperatoriaus globai.
+    imperatoriaus globai. Jam tarnaudami, jie vis laukė pa­
+    togios progos atkeršyti gotams už įvykdytą piktadarys­
+    tę. Netrukus pasitaikė tokia galimybė, kai jie, Belizari-
+    jaus vadovaujami, pradėjo kariauti.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191046
+    - t-197539

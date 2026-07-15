@@ -7,12 +7,12 @@ datos:
   - '1969 m.'
 date_start: '1969'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad lasickis J.
   teiginys: "J. Lasickio veikalas „Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus“ išleistas 1969 m."
   pagrindžia:
     - c-61758
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Lasickio veikalas „Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus“ išleistas 1969 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,11 @@ Dusburgietis teigia, kad lasickis J.
 - id: c-61758
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    13—34.
     Lasickis J. Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus.—V., 1969.
+  citata_rodoma: "Lasickis J. Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus.—V., 1969."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

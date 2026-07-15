@@ -37,7 +37,6 @@ Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus 
     - c-169588
 - susijęs iš Klemenso VI laiškas įvairiems krikščioniškųjų šalių valdovams dėl karo prieš lietuvius ir žemaičius: Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus į karą prieš lietuvius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -79,7 +78,7 @@ Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus 
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pats Klemensas
-    v a ld o v ų  ž y g is  p rie š
+    v a ld o v ų ž y g is p rie š
     VI, Romos popiežius, laišku
     lie tu v iu s
     pakvietė
@@ -89,8 +88,6 @@ Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus 
     krikščioniškųjų šalių valdo-
     2 3 2
 
-    ## Puslapis 231
-
     vus. Traukiantiems į kovą prieš lietuvius ir žemaičius
     jis žadėjo tas dieviškas malones, kurių paprastai susi­
     laukia maldininkai, kurie, davę įžadus, pamaldžiai ap­
@@ -99,6 +96,7 @@ Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus 
     Romoje. Popiežiaus žodžiai paskatino susiruošti į ko­
     vą ne tik eilinius karius, bet ir pačius valdovus su
     didžiulėmis savo žemių kariuomenėmis.
+  citata_rodoma: "Pats Klemensas\nv a ld o v ų  ž y g is  p rie š\nVI, Romos popiežius, laišku\nlie tu v iu s\npakvietė\nį\nkarą\nįvairius\nkrikščioniškųjų šalių valdo-\n2 3 2\n\n## Puslapis 231\n\nvus. Traukiantiems į kovą prieš lietuvius ir žemaičius\njis žadėjo tas dieviškas malones, kurių paprastai susi­\nlaukia maldininkai, kurie, davę įžadus, pamaldžiai ap­\nlanko Kristaus karstą Jeruzalėje ar šv. Jokūbo Kom-\nposteloje bei nusigauna prie apaštališkųjų -slenksčių\nRomoje. Popiežiaus žodžiai paskatino susiruošti į ko­\nvą ne tik eilinius karius, bet ir pačius valdovus su\ndidžiulėmis savo žemių kariuomenėmis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

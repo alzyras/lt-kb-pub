@@ -62,7 +62,6 @@ media_all_json: |-
   teiginys: "Iki Algirdo mirties Lietuvos valstybė šiaurės rytuose siekė Volgos aukštupių ties Rževu."
   pagrindžia:
     - c-167763
-- susijęs iš Velikije Lūki: 1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78615|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Kristupas Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78613|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78615|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Kristupas Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą.
@@ -70,7 +69,6 @@ media_all_json: |-
 - susijęs iš Rohačevas: Rohačevas lokalizuojamas prie Chlepenio į pietus nuo Rževo.
 - susijęs iš Velikije Lūki: 1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78614|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.
-- susijęs iš [[objektai/paprociai/Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius.md#claim-t-185854|Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius]]: Maskvos kunigaikštis Vasilijus per tarpininką siūlė taiką, žadėjo siųsti įgaliotus legatus, o didikai paragino karalių taikai pritarti.
 - susijęs iš [[objektai/posakiai/daugiau nebelieti krikščionių kraujo.md#claim-t-185476|daugiau nebelieti krikščionių kraujo]]: Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau nebelieti krikščionių kraujo.
 - susijęs iš Biala: 1355 m. jo garnizonai įsikūrė Rževe ir Bialoje.
 - susijęs iš Mosalskas: Mosalskas minimas Aleksandro 1492.IX.27 instrukcijoje tarp papildomai nurodytų vietų.
@@ -81,63 +79,7 @@ media_all_json: |-
 - susijęs iš Toropiec: Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Toropiecą.
 - susijęs iš Urdomas: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos, perėjusios Volgą, sudegino Urdomą ir pasuko Staricos link.
 - susijęs iš Volgos upė: K. Radvilos pajėgos, perėjusios Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link.
-- susijęs iš [[objektai/zodynas/legatai.md#claim-t-185419|legatai]]: Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti didesnių įgaliojimų turinčius legatus.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78613|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nuo Lenkijos pakraščio, nuo
-    Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos
-    aukštupių (Rževo). Pietuose ji apėmė plačią Podoliją, nusitęsusią
-    link stepių Juodosios jūros srityje.
-    Tokia plati valstybė negalėjo būti vienalytiška nei tautiniu,
-    nei religiniu atžvilgiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos valstybės dominavimas šiose te-
-    Algirdas dar 1356 m. tvirtinosi Volgos ritorijose ir stiprėjanti įtaka rytuose vedė
-    aukštupyje - Rževe atakavo Brianską ir prie atviro Lietuvos ir Aukso ordos totorių
-    Smolenską, 0 1359 m. užėmė Mstislavlį susidūrimo.
-    (piečiau Smolensko) ir galutinai įsitvirtino
-    Mūšio priešistorė Rževe. Kiek anksčiau, apie 1357-1358 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Iki Algirdo mirties Lietuvos valstybė šiaurės rytuose siekė Volgos aukštupių ties Rževu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Per vieną šimtą metų, prieš Algirdui užmerkiant
-    akis, iš, palyginti, dar nedidelės Mindaugo valstybės buvo pasida­
-    riusi plati rytų Europos «imperija ». Nuo Lenkijos pakraščio, nuo
-    Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos
-    aukštupių (Rževo). Pietuose ji apėmė plačią Podoliją, nusitęsusią
-    link stepių Juodosios jūros srityje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-32404
@@ -194,6 +136,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184397
-
-## Ryšiai
-- Puolė Rževą: [[objektai/grupes/Pskoviečiai]]

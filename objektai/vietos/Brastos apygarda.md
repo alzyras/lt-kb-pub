@@ -35,26 +35,6 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
   teiginys: "I Gardino apygardoj apygardėlinių mokyklų buvo šiose vietose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje, ir Ščucine; II Naugarduko apygardoje jų buvo Minske, Cholopieničiuose, Nesvyžiuje, Slucke, Bobruiske, Berezvieče ir Lužkose."
   pagrindžia:
     - c-176000
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'I Gardino apygardoj apygardėlinių mokyklų buvo šiose vietose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje, ir Ščucine; II Naugarduko apygardoje jų buvo Minske, Cholopieničiuose, Nesvyžiuje, Slucke, Bobruiske, Berezvieče ir Lužkose.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    I Gardino apygardoj apygardėlinių mokyklų buvo šiose vie-
-    tose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje,
-    ir Ščucine; II Naugarduko apygardoje jų buvo Minske, Cho-
-    lopieničiuose, Nesvyžiuje, Slucke, Bobruiske, Berezvieče ir Lužkose.
-    III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje,
-    Dombrovicoje, Liubešave ir Žuravicuose. IV Kražių apygar-
-    doje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

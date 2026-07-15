@@ -7,12 +7,12 @@ datos:
   - '1983 m.'
 date_start: '1983'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M.
   teiginys: "„Toruń dawny i dzisiejszy: Zarys dziejów“, redaguotas M. Biskupo, išleistas 1983 m."
   pagrindžia:
     - c-61955
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Toruń dawny i dzisiejszy: Zarys dziejów“, redaguotas M. Biskupo, išleistas 1983 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,12 @@ Dusburgietis teigia, kad toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M.
 - id: c-61955
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    — Gotha, 1858.
     Toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M. Bisköpa.— Warszawa—Poznań—
     Toruń, 1983.
+  citata_rodoma: "Toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M. Bisköpa.— Warszawa—Poznań—\nToruń, 1983."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -67,49 +67,6 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
   pagrindžia:
     - c-166558
 - susijęs iš [[objektai/grupes/Ložė Uolusis Lietuvis.md#claim-t-54829|Ložė Uolusis Lietuvis]]: 1816 m. ložės Uolusis Lietuvis sąraše buvo 114 narių, tarp jų nemažai Vilniaus universiteto profesorių.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tuo metu
-    Vilniuje veikė kelios masonų ložės. 1816 m. ložės Uolusis Lietu­
-    vis sąraše buvo 114 narių, tarp kurių nemažai Vilniaus universi­
-    teto profesorių. M. Balinskis daugelį iš jų asmeniškai pažinojo,
-    VII
-
-    ## Puslapis 8
-
-    1819 m. pats įstojo į šią ložę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  santrauka: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po
-    1812 m. Lietuvoje labai išpopulia-
-    rėjo masonų judėjimas. Masonų
-    ložėms priklausė diduma bent
-    kiek intelektualesnės publikos.
-    Garsiausioji ložė vadinosi „Uolusis
-    lietuvis“ („Gorliwy Litwin“).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
 ## Citatos
 
 - id: c-55456
@@ -151,5 +108,5 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183171
     - t-65918
+    - t-183171

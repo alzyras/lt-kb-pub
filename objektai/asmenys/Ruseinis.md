@@ -41,38 +41,15 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
 - susijęs iš [[objektai/daiktai/Medinis kryžius.md#claim-t-59693|Medinis kryžius]]: Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje.
 - susijęs iš [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto.md#claim-t-183988|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]: Kilmingas sūduvis Ruseinis bematant leidosi apkrikštijamas su visa savo šeimyna.
 - susijęs iš [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto.md#claim-t-59737|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]: Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą, norėdamas išklausyti pamaldų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kilmingas sūduvis Ruseinis su visa šeimyna atvyko pas Baigos komtūrą ir netrukus leidosi pakrikštijamas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    207 (202). Apie vieno sūduvio atsivertimą ir nuostabų įvykį
-
-      Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
-    šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Sužinojęs,
-    dėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo
-    šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį
-    pakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60831
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 165"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     207 (202). Apie vieno sūduvio atsivertimą ir nuostabų įvykį
-
-      Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
+    Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
     šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Sužinojęs,
     dėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo
     šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį

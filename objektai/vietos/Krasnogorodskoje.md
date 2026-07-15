@@ -45,30 +45,12 @@ Komentare Krasnogorodskoje pateikiamas kaip Krasnyj gorod atitikmuo. Krasnogorod
 - susijęs iš Krasnyj Gorod: Komentare Krasnyj gorod tapatinamas su Krasnogorodskoje.
 - susijęs iš Opočka: Krasnogorodskoje lokalizuojama 30 km į šiaurės vakarus nuo Opočkos.
 - susijęs iš Opočka: Krasnogorodskoje lokalizuojama į šiaurės vakarus nuo Opočkos.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
-    karus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­
-    ni kitus LDK kariuomenės pultus Pskovo miestus (žr. past. 5).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-170303
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 254"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 254."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
     karus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­
@@ -79,5 +61,5 @@ Komentare Krasnogorodskoje pateikiamas kaip Krasnyj gorod atitikmuo. Krasnogorod
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187240
     - t-187239
+    - t-187240

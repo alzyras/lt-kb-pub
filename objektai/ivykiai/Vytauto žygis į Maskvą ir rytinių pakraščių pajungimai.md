@@ -60,26 +60,6 @@ Nenurodyta
   teiginys: "1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir šiam tikslui pakako pademonstruoti jėgą."
   pagrindžia:
     - c-75228
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir šiam tikslui pakako pademonstruoti jėgą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
-    kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
-    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą. Grįžimas
-    namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
-    pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.). Atrodė,
-    jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas  –
-    Lietuvos karalystė – būtų pasiektas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

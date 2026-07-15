@@ -43,22 +43,6 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
   teiginys: "Sigismundo Herbersteino „Rerum Moscoviticarum Commentarii“ cituojamas leidinio skyriuje „Lemtinga arogancija“."
   pagrindžia:
     - c-41675
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi
-    Liberi Baronis in Herberstain, Neyperg & Guettenhag. Basileae: per loannem Oporinum,
-    [1556], P. 12. (Bibliotheca Augustana):http://www.hsaugsburg.de/-harsch/Chronologia/
-    Lsposti6/Sigismundus/sig_cooo.html.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

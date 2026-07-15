@@ -41,22 +41,6 @@ media_all_json: |-
   teiginys: "Nuo 1949 m. J. Jakštas emigracijoje gyveno Clevelande ir produktyviai reiškėsi Lietuvos istorijos lauke."
   pagrindžia:
     - c-28218
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jakštas pirmasis iš lietuvių su pagrindu kildino Gedimino dinas­
-    tiją iš Aukštaičių (LP, t. 1). Nors ir teturėdamas emigracijoje
-    (nuo 1949 m. J. A. V. - Clevelande) tik fizinio darbo sąlygas, Jakš­
-    tas produktyviai pasireiškė Lietuvos istorijos lauke.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

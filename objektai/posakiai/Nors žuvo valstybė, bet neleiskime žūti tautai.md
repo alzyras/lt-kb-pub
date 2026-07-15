@@ -48,21 +48,30 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   teiginys: "Posakis „Nors žuvo valstybė, bet neleiskime žūti tautai“ pateikiamas kaip svarbiausias to meto šviesuolių šūkis."
   pagrindžia:
     - c-171028
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197385"></a>
+- t-002
+  global_id: t-197385
+  teiginys: "O Lietuvoje, garsėjusioje kaip paskutinė pagoniškoji citadelė Europoje, ilgiausiai išlai kiusioje savo senąją religiją ir mitologiją, kuri jau nuo Rene sanso laikų turėjo turtingą tyrinėjimo istoriją, tautinės mito logijos svarba XIX a."
+  pagrindžia:
+    - c-171028
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Posakis „Nors žuvo valstybė, bet neleiskime žūti tautai“ pateikiamas kaip svarbiausias to meto šviesuolių šūkis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Naujų socialinių ekonominių santykių, nau­
-    jo gyvenimo būdo, naujos kultūros formavimasis čia sutapo
-    su tautinio išsivaduojamojo judėjimo stiprėjimu, su kova už
-    Lenkijos ir Lietuvos nepriklausomybę. Šviesiausi Lenkijos ir
-    Lietuvos protai suvokė, kad dar ne viskas prarasta ir, gelbstint
-    valstybę nuo galutinės pražūties, reikia palaikyti tautinę savi­
-    monę, puoselėti ir tirti gimtąją kalbą, papročius, istoriją -  kel­
-    ti tautinę kultūrą. „Nors žuvo valstybė, bet neleiskime žūti tau­
-    tai“ -  toks svarbiausias to meto Šviesuolių šūkis.
+    O Lietuvoje, garsėjusioje
+    kaip paskutinė pagoniškoji citadelė Europoje, ilgiausiai išlai­
+    kiusioje savo senąją religiją ir mitologiją, kuri jau nuo Rene­
+    sanso laikų turėjo turtingą tyrinėjimo istoriją, tautinės mito­
+    logijos svarba XIX a. pradžios kultūriniame ir išsivaduojama­
+    jame judėjime buvo itin ryškiai suvokiama ir akcentuojama.
+    Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,
+    rašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­
+    nimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar-
+    zystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais
+    personažais.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -70,27 +79,33 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-171028
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 16"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 16."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Naujų socialinių ekonominių santykių, nau­
-    jo gyvenimo būdo, naujos kultūros formavimasis čia sutapo
-    su tautinio išsivaduojamojo judėjimo stiprėjimu, su kova už
-    Lenkijos ir Lietuvos nepriklausomybę. Šviesiausi Lenkijos ir
-    Lietuvos protai suvokė, kad dar ne viskas prarasta ir, gelbstint
-    valstybę nuo galutinės pražūties, reikia palaikyti tautinę savi­
-    monę, puoselėti ir tirti gimtąją kalbą, papročius, istoriją -  kel­
-    ti tautinę kultūrą. „Nors žuvo valstybė, bet neleiskime žūti tau­
-    tai“ -  toks svarbiausias to meto Šviesuolių šūkis.
+    „Sukūrimas
+    tautinės mitologijos“ beveik visose šalyse „buvo viena iš ben­
+    dro patriotinio reikalo grandžių“3. O Lietuvoje, garsėjusioje
+    kaip paskutinė pagoniškoji citadelė Europoje, ilgiausiai išlai­
+    kiusioje savo senąją religiją ir mitologiją, kuri jau nuo Rene­
+    sanso laikų turėjo turtingą tyrinėjimo istoriją, tautinės mito­
+    logijos svarba XIX a. pradžios kultūriniame ir išsivaduojama­
+    jame judėjime buvo itin ryškiai suvokiama ir akcentuojama.
+    Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,
+    rašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­
+    nimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar-
+    zystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais
+    personažais.
+  citata_rodoma: "O Lietuvoje, garsėjusioje \nkaip paskutinė pagoniškoji citadelė Europoje, ilgiausiai išlai­\nkiusioje savo senąją religiją ir mitologiją, kuri jau nuo Rene­\nsanso laikų turėjo turtingą tyrinėjimo istoriją, tautinės mito­\nlogijos svarba XIX a. pradžios kultūriniame ir išsivaduojama­\njame judėjime buvo itin ryškiai suvokiama ir akcentuojama. \nLietuvių mitologija šiuo metu domėjosi ne tik mokslininkai, \nrašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­\nnimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar- \nzystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais \npersonažais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189598
+    - t-197385

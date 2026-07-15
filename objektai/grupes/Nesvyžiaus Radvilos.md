@@ -41,24 +41,6 @@ Po Jonušo Radvilos mirties Kėdainiai nebeturėjo pono.
   teiginys: "Po Jonušo Radvilos mirties Kėdainiai nebeturėjo pono."
   pagrindžia:
     - c-176035
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po Jonušo Radvilos mirties Kėdainiai nebeturėjo pono.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po Jonušo Radvilos mirties Kėdainiai nebeturėjo
-    pono. Jonušo duktė buvo ištekėjusi už dėdės Boguslovo Radvilos
-    (Dubingių ir Slucko pono). Šiam mirus 1669 m., pasibaigė protes-
-    tantų Radvilų giminė, kurios dvarai, perėję per daugelį rankų, pa-
-    galiau atiteko katalikams Nesvyžiaus Radviloms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -51,15 +51,8 @@ Nenurodyta
   pagrindžia:
     - c-172658
 
-<a id="claim-t-189776"></a>
-- t-002
-  global_id: t-189776
-  teiginys: "Narbutas rašė, kad prie kelio gulintys akmenys vadinti Kelio dievo užkeikimo akmenimis ir laikyti paskirtais kelių dievui."
-  pagrindžia:
-    - c-172659
-
 <a id="claim-t-189777"></a>
-- t-003
+- t-002
   global_id: t-189777
   teiginys: "Narbutas rašė, kad ant kelio dievui skirtų akmenų nebuvo sėdamasi prieš tai nesukalbėjus maldelės ar mitinės formulės."
   pagrindžia:
@@ -73,81 +66,20 @@ Nenurodyta
     - c-172661
 
 <a id="claim-t-189779"></a>
-- t-005
+- t-003
   global_id: t-189779
   teiginys: "Narbutas lygino lietuvių kelionės prietarus su senovės romėnų prietarais ir Kelio dievaitį siejo su Romos Lar vialis."
   pagrindžia:
     - c-172662
+
+<a id="claim-t-197256"></a>
+- t-005
+  global_id: t-197256
+  teiginys: "O dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne būtų priskirta nelaimingam jo perėjimui per kelią."
+  pagrindžia:
+    - c-172658
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasak Strijkovskio, senovėje kelių dievaičiui aukotos baltos vištos, prašant laimingos kelionės ir sugrįžimo namo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pasak Strijkovskio, senovės laikais kelių dievaičiui auko­
-    davo baltas vištas. Aukoj antys ir besimeldžiantys būdavo tary­
-    tum pasirengę į kelią: laikydavo rankoje lazdas, susijuosdavo,
-    apsiaudavo ir apsirengdavo kaip į kelionę. Prašydavo dievai­
-    čio laimingos kelionės ir sugrįžti į namus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas rašė, kad prie kelio gulintys akmenys vadinti Kelio dievo užkeikimo akmenimis ir laikyti paskirtais kelių dievui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    ()*
-    163
-
-    ## Puslapis 163
-
-    Tik pastebime iš žmonių pasakojimų, kad kalbama apie tam
-    tikrus akmenis, gulinčius prie kelio. Toks akmuo vadinosi Ak­
-    muo užukiejkimo Kieto Dewo (Kelio dievo užkeikimo akmuo);
-    tiksliausiai išvertus -  akmuo, paskirtas kelių dievui. Niekas
-    neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
-    tam tikros mitinės formulės, tai yra maldelės, matyt, iš bai­
-    mės, kad neatsitiktų kas blogo: dažniausiai manyta, kad ak­
-    muo gali pasitraukti iš po sėdinčio, todėl galima smarkiai už­
-    sigauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas rašė, kad ant kelio dievui skirtų akmenų nebuvo sėdamasi prieš tai nesukalbėjus maldelės ar mitinės formulės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Niekas
-    neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
-    tam tikros mitinės formulės, tai yra maldelės, matyt, iš bai­
-    mės, kad neatsitiktų kas blogo: dažniausiai manyta, kad ak­
-    muo gali pasitraukti iš po sėdinčio, todėl galima smarkiai už­
-    sigauti.
-    Kaimiečiai iki šiol tebėra pamaldūs šiam dievaičiui, nors
-    dėl daugelio priežasčių beveik jau jį užmiršo ir savo tos rūšies
-    maldose turi galvoje tikrąjį Dievą; tas maldas kalba krikščio­
-    nišku papročiu prieš pat įsėsdami į ratus; taigi keliautojai, prieš
-    išeidami iš trobos, susėda ant suolo kartu su visais esančiais,
-    trumpai pasimeldžia ir patyli akis nukreipę į krosnį. Taip pa­
-    sėdi kurį laiką, tarytum dar kažką apmąstydami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Narbutas rašė, kad Lietuvos kaimiečiai išsaugojo kelionės prietarą neišvažiuojant perkirsti kelio keleiviui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -169,80 +101,37 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-005
-  santrauka: 'Narbutas lygino lietuvių kelionės prietarus su senovės romėnų prietarais ir Kelio dievaitį siejo su Romos Lar vialis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Stebėtinai panašu į senovės romėnų prietarus;
-    tegul skaitytojas teikiasi prisiminti Horacijaus 27-ąją odę iš 3-
-    iosios knygos: laipiosparrae recinentis omen (klaida apdainuo­
-    jančio nedorus).
-    Visose lietuvių genties tautose vieškelis, Wiessas Kielas, bu­
-    vo religiškai paaukotas šalies svetingumui: nė vienam, keliau­
-    jančiam vieškeliu, nederėjo daryti skriaudos dėl rūstaus dievų
-    keršto; taip skelbia senovės padavimai.
-    Sis dievaitis atitinka Romos Larą (Lar vialis); Antikos žmo­
-    nių Merkurijus, Apolonas, Bakchas, Herkulis taip pat vadino­
-    si kelio dievai, Dii viales.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-172658
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 162"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 162."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pasak Strijkovskio, senovės laikais kelių dievaičiui auko­
-    davo baltas vištas. Aukoj antys ir besimeldžiantys būdavo tary­
-    tum pasirengę į kelią: laikydavo rankoje lazdas, susijuosdavo,
-    apsiaudavo ir apsirengdavo kaip į kelionę. Prašydavo dievai­
-    čio laimingos kelionės ir sugrįžti į namus.
+    O
+    dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo
+    jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­
+    leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­
+    būtų priskirta nelaimingam jo perėjimui per kelią.
+    Prietaringas kaimietis, prieš sėsdamas į vežimą arba išei­
+    damas su kinkiniu į lauką, turi apeiti jį ratu. O pačiame kelyje
+    sutikti tam tikri asmenys arba gyvuliai arba perbėgę per kelią
+    pranašauja, kad kelionė bus sėkminga arba nesėkminga. Be­
+    je, vienuolis, nėščia moteris, lapė, nėščia kalė arba vilkė pra­
+    našauja bloga: priešingai, sutiktas kiškis, vilkas, vaikas, burti­
+    ninkas, čigonas žada laimingą kelionę.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189775
-
-- id: c-172659
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    ()*
-    163
-
-    ## Puslapis 163
-
-    Tik pastebime iš žmonių pasakojimų, kad kalbama apie tam
-    tikrus akmenis, gulinčius prie kelio. Toks akmuo vadinosi Ak­
-    muo užukiejkimo Kieto Dewo (Kelio dievo užkeikimo akmuo);
-    tiksliausiai išvertus -  akmuo, paskirtas kelių dievui. Niekas
-    neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
-    tam tikros mitinės formulės, tai yra maldelės, matyt, iš bai­
-    mės, kad neatsitiktų kas blogo: dažniausiai manyta, kad ak­
-    muo gali pasitraukti iš po sėdinčio, todėl galima smarkiai už­
-    sigauti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189776
+    - t-197256
 
 - id: c-172660
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 163"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 163."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Niekas
     neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
@@ -267,18 +156,19 @@ Nenurodyta
 - id: c-172661
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 163"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 163."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    O
-    dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo
-    jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­
-    leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­
-    būtų priskirta nelaimingam jo perėjimui per kelią.
-    Prietaringas kaimietis, prieš sėsdamas į vežimą arba išei­
-    damas su kinkiniu į lauką, turi apeiti jį ratu. O pačiame kelyje
-    sutikti tam tikri asmenys arba gyvuliai arba perbėgę per kelią
-    pranašauja, kad kelionė bus sėkminga arba nesėkminga.
+    Miestuose būdavo sve­
+    čių namai, vadinti namijomis (Numejone). Juose apgyvendin­
+    ti svetimšaliai jausdavosi visiškai saugūs - tiek asmenys, tiek
+    turtas. Antikos žmonės yra pastebėję, kad net per vidaus maiš­
+    tus svetimšalis, ramiai pasiliekantis tokiame name, neturėda­
+    vo ko bijoti, o atbėgusiems į tokius namus maištininkams, ger­
+    biant svetingumą, nieko blogo nebuvo daroma.
+    Viename žmonių pasakojime sakoma, kad Numėjas drau­
+    ge su Peskija važinėdavo po kaimus, dvarus ir miestus, juos
+    matydavo apsirengusius baltai, važnyčiojančius baltus žirgus.
+  citata_rodoma: "O\ndėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo\njų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­\nleiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­\nbūtų priskirta nelaimingam jo perėjimui per kelią.\nPrietaringas kaimietis, prieš sėsdamas į vežimą arba išei­\ndamas su kinkiniu į lauką, turi apeiti jį ratu. O pačiame kelyje\nsutikti tam tikri asmenys arba gyvuliai arba perbėgę per kelią\npranašauja, kad kelionė bus sėkminga arba nesėkminga."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -289,8 +179,7 @@ Nenurodyta
 - id: c-172662
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 164"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 164."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Stebėtinai panašu į senovės romėnų prietarus;
     tegul skaitytojas teikiasi prisiminti Horacijaus 27-ąją odę iš 3-

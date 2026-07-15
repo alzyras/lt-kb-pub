@@ -35,29 +35,6 @@ Nuo tol joks namas negalėjo būti statomas be miesto tarybos žinios ir be virv
   teiginys: "Namas Vilniuje negalėjo būti statomas be miesto tarybos žinios ir virvės ištempimo."
   pagrindžia:
     - c-82605
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Namas Vilniuje negalėjo būti statomas be miesto tarybos žinios ir virvės ištempimo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau karo bei gresiančio priešų užpuolimo
-    atveju visi tarnautojai ir gyventojai paklusdavo vaivados ar­
-    ba jo vietininko valdžiai. Nuo tol joks namas negalėjo būti
-    statomas be miesto tarybos žinios ir be virvės ištempimo, o
-    apie miestą juosiančią sieną buvo palikta laisva keturiasde­
-    šimties sieksnių erdvė, skirta pylimui, grioviams ir gynybai
-    išdėstyti. Kepėjai ir mėsininkai įspėti, kad prekiautų sveiku
-    maistu ir neapsvėrinėtų pirkėjų, pagaliau buvo paskelbti įsa­
-    kymai dėl javų atsargų kaupimo bado atveju bei atsargumo
-    priemonių saugantis maro epidemijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

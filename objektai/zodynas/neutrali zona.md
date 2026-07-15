@@ -42,41 +42,6 @@ media_all_json: |-
   teiginys: "Prie sienos nustatyta 6 km pločio neutrali zona, todėl abi pusės turėjo pasitraukti po 3 km."
   pagrindžia:
     - c-45535
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prie sienos nustatyta 6 km pločio neutrali zona, todėl abi pusės turėjo pasitraukti po 3 km.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    . m. 0)
-
-    e
-    4 G: „Želva
-    Js
-
-    nk Seta”
-    va
-
-    D r
-
-    SOKOLKA gė
-
-    VV
-
-    siena
-    statyta 6 km pločio neu-
-    trali zona, abi pusės turėjo
-    pasitraukti atgal po 3 km. 1923 m. neu-
-    trali zona buvo panaikinta, jos viduriu
-    nustatyta demarkacinė linija, galiojusi iki
-    1939 m. Prasidėjo pasikeitimas belaisviais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

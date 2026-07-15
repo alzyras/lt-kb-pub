@@ -58,26 +58,6 @@ Nenurodyta
   teiginys: "1927 m. rugsėjo 27 d. Augustinas Voldemaras Romoje pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje."
   pagrindžia:
     - c-22965
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1927 m. rugsėjo 27 d. Augustinas Voldemaras Romoje pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilniaus problema komplikavo ir Lietuvos bažnytinės provincijos su-
-    darymo ir konkordato su Vatikanu klausimus. Vyriausybei derantis su
-    Vatikanu dėl diplomatinių santykių opozicija apkaltino krikščionis de-
-    mokratus išsižadant Seinų ir Vilniaus vyskupijų. Tik A. Voldemarui pa-
-    vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
-    pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
-    padėtį valstybėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

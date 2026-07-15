@@ -51,20 +51,6 @@ Vartojamos formos: `ašvienio`.
   teiginys: "`Ašvienis` šiame tekste reiškia arklį ar kitą jojamąjį/ūkinį gyvulį."
   pagrindžia:
     - c-09669
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Vargdienis, neturėdamas ašvienio arba javų, savo dirvą ar pievą kitam išnuomojo, už ką nuo antro paskui pusę javų ar šieno gavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -79,5 +65,5 @@ Vartojamos formos: `ašvienio`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69979
     - t-69978
+    - t-69979

@@ -40,30 +40,13 @@ Dusburgietis teigia, kad słownik historyczno-geograficzny ziemi Chełmińskiej 
   teiginys: "„Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu“ išleistas 1971 m. Vroclave, Varšuvoje, Krokuvoje ir Gdanske."
   pagrindžia:
     - c-61938
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu“ išleistas 1971 m. Vroclave, Varšuvoje, Krokuvoje ir Gdanske.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
-    Porębska przy współpracy M Grzegorza; Pod. red. M. Biskupa.— Wrocław—Warszawa—
-    Kraków— Gdańsk, 1971.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61938
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
     Porębska przy współpracy M Grzegorza; Pod. red. M. Biskupa.— Wrocław—Warszawa—

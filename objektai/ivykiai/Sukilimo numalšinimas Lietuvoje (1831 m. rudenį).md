@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis."
   pagrindžia:
     - c-67006
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ypač
-    nukentėjo Ašmena. Užėmę miestelį, rusai išplėšė ne tik gyven-
-    tojų namus, bet ir bažnyčią, išžudė apie 80 žmonių, o tuos, ku-
-    riuos įtarė dalyvavus sukilime, prisirišę prie patrankų nusivarė
-    į Vilnių. Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo
-    likviduotas sukilimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

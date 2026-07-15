@@ -35,24 +35,6 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
   teiginys: "Antoni Prochaska dokumentą, kurį Danilavičius ir Koneczny laikė falsifikatu, pripažino autentišku."
   pagrindžia:
     - c-38185
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dėl šitos sutarties autentiškumo keliama abejonių. Is­
-    torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;
-    tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip
-    autentišką.
-    Įgijimas šitos Žemaičių srities, kurią Vytautas Ordinui ką tik
-    minėta sutartimi užrašė, buvo pelningas Ordino triūso vaisius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

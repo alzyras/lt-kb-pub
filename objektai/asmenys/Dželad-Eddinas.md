@@ -52,27 +52,6 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
   pagrindžia:
     - c-167640
 - susijęs iš Vytauto panegirika: „Vytauto panegirikoje“ teigiama, kad nuo 1411 m. įsiviešpatavus Dželad-Eddinui totoriai nedrįso priešintis Vytautui.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Nuo 1411 m., įsiviešpatavus Dželad-Eddinui, totorių valdovai nebedrįso priešintis Vytautui.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nuolat remdamas juos per 30 me­
-    tų jis sulaukė totorių tarpe sau visiškai paklusnių „saarų“. Dėl
-    vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo
-    1411 met., kada įsiviešpatavo Dželad-Eddinas, nė vienas jų,
-    kaip sako „Vytauto panegirika”^4 ), „niekad nedrįso galingajam
-    gaspadoriui pasipriešinti“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-167640
@@ -92,5 +71,5 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184256
     - t-34723
+    - t-184256

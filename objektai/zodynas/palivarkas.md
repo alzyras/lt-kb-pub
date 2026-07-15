@@ -35,28 +35,13 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
   teiginys: "Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o aplink juos buvo duodama po valaką valstiečiams."
   pagrindžia:
     - c-176024
+- susijęs iš [[objektai/asmenys/Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.).md#claim-t-200496|Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.)]]: 1750 m. Ignotas Dombrovskis sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos valdas.
+- susijęs iš [[objektai/asmenys/Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.).md#claim-t-200497|Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.)]]: Ignotas Dombrovskis buvo Ukmergės vėliavininkas.
+- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200498|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis buvo Ukmergės pavieto stalininkas.
+- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200499|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis su broliu prašė, kad Mykolas Ksaveras Sapiega nenorėtų iš jų atpirkti rakto.
 - susijęs iš Karališkasis malūnas Vilniuje: 1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.
 - susijęs iš Karališkasis malūnas Vilniuje: 1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.
 - susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o aplink juos buvo duodama po valaką valstiečiams.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Miestų žemės irgi buvo atskirtos.
-    Išmatavus žemę, geriausiose vietose buvo steigiami dvarai
-    ir palivarkai, o aplink juos buvo duodama po valaką valstie-
-    čiams. Jų žemė buvo padalinta trilaukiais, o jie patys apgy-
-    vendinti kaimuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-176024

@@ -52,43 +52,6 @@ media_all_json: |-
   teiginys: "Troškūnų ir Kauno MVD bei MGB įstaigose kai kurie pareigūnai buvo užverbuoti partizanų informatoriais."
   pagrindžia:
     - c-44813
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Migučionių kautynės netoli Onuškio, pasala Kačėnų kaime
-    siautėjusiems Daugų stribams, išsiveržimas su minimalias nuostoliais iš
-    apsupties Varčios miške. 1946 m. visiškas Daugų MVD įgulos sunaikinimas.
-    1948 m. sunkvežimio netoli Onuškio susprogdinimas su 19 vietinės įgulos
-    karių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1945 m. buvo išrinktas Šarūno rin-
-    ktinės vadu. Jam vadovaujant pa-
-    vyko Troškūnų ir Kauno MVD ir MGB
-    įstaigose kai kuriuos pareigūnus
-    užverbuoti partizanų informato-
-    riais (kai kurie jų nedemaskuoti
-    liko iki 1949 m.). 1947 m. įkūrus
-    Algimanto apygardą, jis tapo jos
-    vadu, 1948 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

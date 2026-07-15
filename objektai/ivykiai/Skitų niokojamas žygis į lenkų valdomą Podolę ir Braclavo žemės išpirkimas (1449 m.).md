@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1449 m. skitai nuniokojo lenkų valdytą Podolės dalį, o Jurga dovanomis apsaugojo Braclavo žemę nuo antpuolių.
+Ginče dėl Podolės lenkai siūlė, kad ateityje Podolė lygiomis teisėmis priklausytų lenkams ir lietuviams. Lenkai siūlė Podolės ginčą spręsti panaikinant Lietuvos Didžiosios Kunigaikštystės ir Lietuvos pareigybių vardus. Kojelavičiaus pasakojime Podolės seimas išsiskirstė nieko nenutaręs ir dar labiau sustiprino abipusį lietuvių bei lenkų nepakantumą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -50,78 +50,56 @@ Nenurodyta
 <a id="claim-t-185767"></a>
 - t-001
   global_id: t-185767
-  teiginys: "1449 m. skitai nuniokojo lenkų valdytą Podolės dalį, o Jurga dovanomis apsaugojo Braclavo žemę nuo antpuolių."
+  teiginys: "Ginče dėl Podolės lenkai siūlė, kad ateityje Podolė lygiomis teisėmis priklausytų lenkams ir lietuviams."
   pagrindžia:
     - c-169128
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: '1449 m. skitai nuniokojo lenkų valdytą Podolės dalį, o Jurga dovanomis apsaugojo Braclavo žemę nuo antpuolių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Štai todėl, norėdamas išvengti gink­
-    luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats
-    nuvyko į Lietuvą.
-    1449 m ela i
-    Kol valdovas rūpinosi lie-
-    S k ila i
-    n io k o ja
-    Po-
-    tuvių seimo reikalais, skitai
-    do ]ę
-    surengė niokojamą žygį į tą
-    Podolės dalį, kurią valdė len­
-    kai, degindami ir žudydami, kas pakliuvo po ranka, ta­
-    čiau neliesdami kaimyninės Braclavo žemės, nors nio­
-    kotojams bei grobikams ji buvo tiesiog ranka pasiekia­
-    ma; mat Jurga, pasienio seniūnas, išsiuntęs per žygūnus
-    gausių dovanų, išpirko lietuviams priklausomas valdas
-    nuo siaubiamųjų antpuolių. Dėl to lenkai suskato iš
-    naujo įtarinėti: teigė, kad lietuviai ir karalius kalti dėl
-    Podolės nuniokojimo, kad nesą jokių abejonių, jog ne
-    be karaliaus žinios lietuviai sukurstė skitus prieš len­
-    kus, nes jis mat nepritarė nė vienam jų sumanymui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196253"></a>
+- t-002
+  global_id: t-196253
+  teiginys: "Lenkai siūlė Podolės ginčą spręsti panaikinant Lietuvos Didžiosios Kunigaikštystės ir Lietuvos pareigybių vardus."
   pagrindžia:
-    - t-001
+    - c-169128
+
+<a id="claim-t-196254"></a>
+- t-003
+  global_id: t-196254
+  teiginys: "Kojelavičiaus pasakojime Podolės seimas išsiskirstė nieko nenutaręs ir dar labiau sustiprino abipusį lietuvių bei lenkų nepakantumą."
+  pagrindžia:
+    - c-169128
 
 ## Citatos
 
 - id: c-169128
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 490"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 490."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Štai todėl, norėdamas išvengti gink­
-    luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats
-    nuvyko į Lietuvą.
-    1449 m ela i
-    Kol valdovas rūpinosi lie-
-    S k ila i
-    n io k o ja
-    Po-
-    tuvių seimo reikalais, skitai
-    do ]ę
-    surengė niokojamą žygį į tą
-    Podolės dalį, kurią valdė len­
-    kai, degindami ir žudydami, kas pakliuvo po ranka, ta­
-    čiau neliesdami kaimyninės Braclavo žemės, nors nio­
-    kotojams bei grobikams ji buvo tiesiog ranka pasiekia­
-    ma; mat Jurga, pasienio seniūnas, išsiuntęs per žygūnus
-    gausių dovanų, išpirko lietuviams priklausomas valdas
-    nuo siaubiamųjų antpuolių. Dėl to lenkai suskato iš
-    naujo įtarinėti: teigė, kad lietuviai ir karalius kalti dėl
-    Podolės nuniokojimo, kad nesą jokių abejonių, jog ne
-    be karaliaus žinios lietuviai sukurstė skitus prieš len­
-    kus, nes jis mat nepritarė nė vienam jų sumanymui.
+    Lenkai, at­
+    skirai pasitarę, atsakė, kad esanti vienui viena veiks­
+    minga priemonė šiam ginčui baigti, būtent nutarti, jog
+    ateityje Podolė priklausysianti lygiomis teisėmis ir len­
+    kams, ir lietuviams. Šitai galima pasiekti tada, kai abi
+    tautos gyvensiančios vienodomis teisėmis, valdomos vie­
+    no karaliaus, vienoje Lenkijos karalystėje, panaikinus
+    Lietuvos Didžiosios Kunigaikštystės bei visų Lietuvos
+    pareigybių vardus, kurie, pirma, rodo, jog valstybė
+    esanti padalyta, o antra — visada duos dingstį nesan­
+    taikai. Šitaip atsakydami, jie nelyginant įpylė į ugnį aly­
+    vos. Lietuviai, šaukdamiesi dangaus keršto, pakėlė di­
+    delį triukšmą: girdi, ligi šiol patraukliu žodžiu „unija"
+    jiems akis muilinę, susimanė galop atimti žemes ir pa­
+    siekti, kad, išnykus lietuvių bei rusų vardams, neliktų
+    nė pačios Lietuvos. Vieniems atkakliai ir ryžtingai rei­
+    kalaujant sugrąžinti Podolę, o lenkams ne mažiau įnir­
+    tingai priešinantis, seimas išsivažinėjo ne tik nieko ne­
+    nutaręs, bet dar labiau sukurstęs abipusį nepakantumą.
+  citata_rodoma: "Šitai galima pasiekti tada, kai abi \ntautos gyvensiančios vienodomis teisėmis, valdomos vie­\nno karaliaus, vienoje Lenkijos karalystėje, panaikinus \nLietuvos Didžiosios Kunigaikštystės bei visų Lietuvos \npareigybių vardus, kurie, pirma, rodo, jog valstybė \nesanti padalyta, o antra — visada duos dingstį nesan­\ntaikai. Šitaip atsakydami, jie nelyginant įpylė į ugnį aly­\nvos. Lietuviai, šaukdamiesi dangaus keršto, pakėlė di­\ndelį triukšmą: girdi, ligi šiol patraukliu žodžiu „unija\" \njiems akis muilinę, susimanė galop atimti žemes ir pa­\nsiekti, kad, išnykus lietuvių bei rusų vardams, neliktų \nnė pačios Lietuvos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185767
+    - t-196253
+    - t-196254

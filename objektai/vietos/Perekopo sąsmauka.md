@@ -42,33 +42,6 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
   teiginys: "Įtvirtinta Perekopo sąsmauka saugojo Krymą ir didino totorių pagrindinės buveinės strateginį pranašumą."
   pagrindžia:
     - c-167184
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „gerai užrakinamus Krymo vartus“ - įtvirtintą Perekopo sąsmauką - totoriai turėjo sunkiai pasiekiamą lizdą, iš kurio, savo ruožtu, galėdavo nesunkiai leistis į tolimus žygius.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Totorių kariuomenė
-
-    Strateginį privalumą totoriams laidavo jų
-    pagrindinės buveinės - Krymo pusiasalio
-    nuošalumas nuo stiprių galios centrų, tokių
-    kaip Lenkija, Lietuva ar Maskvos valstybė.
-    Nuo sėsliai gyvenančių visuomenių atskirti
-    plačių stepių ir turėdami „gerai užrakina-
-    mus Krymo vartus“ - įtvirtintą Perekopo
-    sąsmauką - totoriai turėjo sunkiai pasie-
-    kiamą lizdą, iš kurio, savo ruožtu, galėdavo
-    nesunkiai leistis į tolimus žygius. Taktinį
-    pranašumą sąlygojo jų lengvoji kavalerija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -95,5 +68,5 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183799
     - t-42021
+    - t-183799

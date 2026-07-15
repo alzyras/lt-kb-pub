@@ -43,23 +43,6 @@ Dar duodame žinoti, Jūsų Prakilnybe Malonusis Pone Magistrė, ir apie tai, ka
 - susijęs iš Krėva: Vokiečių pirkliai lankė Krėvą ir kitus Lietuvos miestus.
 - susijęs iš Vilnius: Vokiečių pirkliai lankė Vilnių, Krėvę, Trakus, Gardiną ir kitus Lietuvos miestus.
 - susijęs iš Volynija: Vytauto laikais Krokuvos ir vokiečių pirkliai sausuma lankydavo Volynijos ir Podolijos miestus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautas įsakė vokiečių pirkliams apie Sekmines palikti jo kraštą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dar duodame žinoti, Jūsų Prakilnybe Malonusis
-    Pone Magistrė, ir apie tai, kad (de Vörste) Vytautas vokiečių pir­
-    kliams įsakė apie Sekmines kraštą jo apleisti ...
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82814
@@ -78,5 +61,5 @@ Dar duodame žinoti, Jūsų Prakilnybe Malonusis Pone Magistrė, ir apie tai, ka
     - t-86835
 
 ## Ryšiai
-- Vokiečių pirkliai keliavo į [[objektai/vietos/Krėva]], [[objektai/vietos/Vilnius]]
+- Vokiečių pirkliai keliavo į [[objektai/vietos/Krėva]]
 - Vokiečių pirkliai prekiavo su [[objektai/grupes/Aisčiai]], [[objektai/grupes/Lybiai]]

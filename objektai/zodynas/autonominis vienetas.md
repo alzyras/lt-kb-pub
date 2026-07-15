@@ -36,27 +36,6 @@ media_all_json: |-
   teiginys: "Klaipėdos kraštas prie Lietuvos valstybės buvo priskirtas suteikiant jam autonominį režimą."
   pagrindžia:
     - c-03196
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    ir Įgula pasišalintų. Lietuvos vyriausybė atrėmė įtarimus, tačiau
-    apsiėmė atšaukti visus iš Didžiosios Lietuvos išėjusius savano-
-    rius, pasižadėjo viską padaryti ramybei ir taikai išlaikyti ir tam
-    tikslui pasiuntė iš savo pusės specialų komisarą. Didžiosios
-    valstybės, arba vadinamoji Ambasadorių Konferencija, buvo
-    patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu
-    visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klai-
-    pėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui
-    suteikiant autonominį režimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

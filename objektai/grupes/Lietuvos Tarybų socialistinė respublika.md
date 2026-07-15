@@ -44,30 +44,6 @@ media_all_json: |-
   pagrindžia:
     - c-33318
 - susijęs iš [[objektai/grupes/Lietuvos Sovietų Socialistinė Respublika.md#claim-t-74781|Lietuvos Sovietų Socialistinė Respublika]]: Sudarius marionetinę vyriausybę paskelbta, kad sukuriama Lietuvos Tarybų Socialistinė Respublika.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas po kliūčių esą buvęs įvykdytas 1940 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tada
-    Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė
-    darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­
-    festu paskelbė įvedanti Tarybų valdžią Lietuvoje.
-    Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių
-    tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­
-    žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
-    Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo
-    marksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo
-    būti logiškai konsekventiški.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33318

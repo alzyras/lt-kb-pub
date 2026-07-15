@@ -42,28 +42,13 @@ Dusburgietis teigia, kad mažoji lietuviškoji tarybinė enciklopedija.—T.
   teiginys: "„Mažoji lietuviškoji tarybinė enciklopedija“ išėjo trimis tomais 1966, 1968 ir 1971 m."
   pagrindžia:
     - c-61808
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Mažoji lietuviškoji tarybinė enciklopedija“ išėjo trimis tomais 1966, 1968 ir 1971 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mažoji lietuviškoji tarybinė enciklopedija.—T. 1—3.—V., 1966, 1968, 1971.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61808
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mažoji lietuviškoji tarybinė enciklopedija.—T. 1—3.—V., 1966, 1968, 1971.
   statusas: verified

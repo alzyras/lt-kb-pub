@@ -35,42 +35,18 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
   teiginys: "Naujasis maršalas brolis Berlevinas pasipriešino Ditricho siūlymui pulti likusią priešų kariuomenės dalį prie pelkės."
   pagrindžia:
     - c-60879
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Naujasis maršalas brolis Berlevinas pasipriešino Ditricho siūlymui pulti likusią priešų kariuomenės dalį prie pelkės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai sužinoję, Kulmo pilies broliai pasekė
-    juos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis
-    Ditrichas, buvęs maršalas, pasiūlė užpulti likusiąją jų dalį, tikindamas, kad ji būsianti
-    išžudyta anksčiau, nei kiti suskubs grįžti jai  į pagalbą. Šiam sumanymui pasipriešino
-    brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes
-    jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo
-    ir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti. Juos persekiodami,
-    krikščionys daugybę išžudė, o maršalas, išskleidęs krikščionių kariuomenę, priėjo su 24
-    ginklanešiais prie vienos kalvos, kur išvydo 4 tūkstančius netikėlių, pasiruošusių stoti į
-    kovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60879
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 89"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai sužinoję, Kulmo pilies broliai pasekė
     juos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis
     Ditrichas, buvęs maršalas, pasiūlė užpulti likusiąją jų dalį, tikindamas, kad ji būsianti
-    išžudyta anksčiau, nei kiti suskubs grįžti jai  į pagalbą. Šiam sumanymui pasipriešino
+    išžudyta anksčiau, nei kiti suskubs grįžti jai į pagalbą. Šiam sumanymui pasipriešino
     brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes
     jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo
     ir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti. Juos persekiodami,

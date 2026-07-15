@@ -159,15 +159,9 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 - susijęs iš Talinas: Balińskis Revelio, dabartinio Talino, atsiradimą siejo su danais.
 - susijęs iš Varmė: Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties.
 - susijęs iš Varmė: Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl gautos žinios apie taikos sutartį.
-- susijęs iš Vilnius: 1325 m. Vilniuje pasirašyta Gedimino sutartis su Łokietka dėl bendros kovos su Prūsijos ordinu.
-- susijęs iš Vilnius: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo miestas ir Gedimino sostinė.
-- susijęs iš Vilnius: 1325 m. Vilniuje buvo pasirašyta Gedimino sutartis su Lokietka dėl bendros kovos su Prūsijos ordinu.
-- susijęs iš Vilnius: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, danų vietininku, Livonijos ordinu ir Ryga.
-- susijęs iš Vilnius: Pirmasis autentiškas Vilniaus kaip miesto ir Gedimino sostinės paliudijimas siejamas su 1323 m. spalio 2 d. Vilniuje pasirašyta sutartimi.
 - susijęs iš Vėluva: 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.
 - susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Karalius Henrikas Revelyje, Livonijos žemėje, pastatė cistersų ordino vienuolyną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -189,60 +183,6 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-- c-002
-  santrauka: '1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1323 m. šaltiniai mini dar platesnes kovas. Gardino pilininkas
-    Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara-
-    liaus žemę (šiaurinę Estiją). Kovo viduryje „lietuviai iš Žemaitijos
-    užkariavo Klaipėdos miestą“ ir jį sudegino kartu su trimis gre-
-    timomis kryžiuočiams pavaldžiomis pilimis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Narbutas Revelio šv. Olafo bažnyčioje matė vėliavos liekaną su žalvariniu gaidžiu, laikytą pagonybės laikų vėliava iš Latvijos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš Marienburgo, Karaliaučiaus, Revelio senienų
-    aiškėja, kad lietuvių karo vėliavose paprastai būdavo pavaiz­
-    duotas žirgas arba gaidys. Revelyje, šv. Olafo bažnyčioje, pats
-    mačiau medinį kotą su kažkokio audeklo gabalu, kuriame bu­
-    vo žalvarinis balandžio dydžio gaidys; tatai laikyta pagonybės
-    laikų vėliava, paimta Latvijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje, vadinamojo Suomijos karo metu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    P. 383***** _ Kronika Niemiecka J. F. R. (Z rękopismu au-
-    tentycznego, objašnil, tlómaczenie polskie doląc-
-    zyt i do druku podal Teodor Narbutt // MAB RS. -
-    E 22. -  B. 54). Kaip byloja šio parengto spaudai ran­
-    kraščio pratarmė, Rivijaus kroniką T. Narbutas įsi­
-    gijo 1808 metais Revelyje, tai yra per vadinamąjį
-    Suomijos karą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-68560
@@ -265,8 +205,7 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 - id: c-171711
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iš Marienburgo, Karaliaučiaus, Revelio senienų
     aiškėja, kad lietuvių karo vėliavose paprastai būdavo pavaiz­
@@ -284,13 +223,12 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 - id: c-171712
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 507"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 507."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     P. 383***** _ Kronika Niemiecka J. F. R. (Z rękopismu au-
     tentycznego, objašnil, tlómaczenie polskie doląc-
     zyt i do druku podal Teodor Narbutt // MAB RS. -
-    E 22. -  B. 54). Kaip byloja šio parengto spaudai ran­
+    E 22. - B. 54). Kaip byloja šio parengto spaudai ran­
     kraščio pratarmė, Rivijaus kroniką T. Narbutas įsi­
     gijo 1808 metais Revelyje, tai yra per vadinamąjį
     Suomijos karą.

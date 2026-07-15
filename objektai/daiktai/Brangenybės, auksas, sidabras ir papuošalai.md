@@ -8,13 +8,14 @@ datos:
   - '1399 m.'
 date_start: '1399'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - miestas
   - papuošalas
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -69,28 +70,15 @@ Nenurodyta
   teiginys: "Narbutas rašo, kad kasinėjant netoli Elbliongo aptikta aukso, sidabro, auksuotų metalų papuošalų ir dažytų vėrinių."
   pagrindžia:
     - c-175283
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Per Vilniaus gaisrą didysis kunigaikštis neteko žirgų ir brangenybių, o miestiečių įvertinta žala siekė iki 60 tūkstančių sidabro luitų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau šie politiniai kivirčai nebuvo Vilniui tokie skaudūs (1399
-    m.), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­
-    giantis. Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio
-    arklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir
-    Katedros, ištisai visas miestas sudegė. Didysis kunigaikštis ne­
-    teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
-    kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
-    čių sidabro luitų65 • .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197563"></a>
+- t-003
+  global_id: t-197563
+  teiginys: "Esama neabejotinų įro dymų apie tolimais amžiais šiose vietose gyvenusių žmo nių, visuomet garsėjusių prekyba, turtingumą; kasinėjant netoli Elbliongo, aptikta labai dailių aukso, sidabro ir kitokių auksuotų metalų papuošalų, molio, vaško ir pana šių į."
   pagrindžia:
-    - t-001
+    - c-179245
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašo, kad kasinėjant netoli Elbliongo aptikta aukso, sidabro, auksuotų metalų papuošalų ir dažytų vėrinių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -141,10 +129,11 @@ Nenurodyta
 - id: c-175283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 357"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Jei netu­
+    Tačiau su tuo miestu susiję dalykai išnyksta prieš­
+    istorinėje praeityje, jog net nežinome, ar buvo šio seno­
+    vinio miesto pėdsakų prieš įkuriant Elbliongą. Jei netu­
     rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
     nieko nežinotume apie šį miestą. Esama neabejotinų įro­
     dymų apie tolimais amžiais šiose vietose gyvenusių žmo­
@@ -157,9 +146,34 @@ Nenurodyta
     minklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų
     keliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­
     vo gamybos blizgučius.
+  citata_rodoma: "Jei netu­\nrėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis\nnieko nežinotume apie šį miestą. Esama neabejotinų įro­\ndymų apie tolimais amžiais šiose vietose gyvenusių žmo­\nnių, visuomet garsėjusių prekyba, turtingumą; kasinėjant\nnetoli Elbliongo, aptikta labai dailių aukso, sidabro ir\nkitokių auksuotų metalų papuošalų, molio, vaško ir pana­\nšių į mozaiką, dažytų vėrinių, kurie sudaro įdomiausią\ndalį senovės paminklų, saugomų Karaliaučiaus Archyvo\nkabinete; kitur panašių beveik nepavykdavo rasti. Tai pa­\nminklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų\nkeliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­\nvo gamybos blizgučius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192493
+
+- id: c-179245
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Tačiau su tuo miestu susiję dalykai išnyksta prieš­
+    istorinėje praeityje, jog net nežinome, ar buvo šio seno­
+    vinio miesto pėdsakų prieš įkuriant Elbliongą. Jei netu­
+    rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
+    nieko nežinotume apie šį miestą. Esama neabejotinų įro­
+    dymų apie tolimais amžiais šiose vietose gyvenusių žmo­
+    nių, visuomet garsėjusių prekyba, turtingumą; kasinėjant
+    netoli Elbliongo, aptikta labai dailių aukso, sidabro ir
+    kitokių auksuotų metalų papuošalų, molio, vaško ir pana­
+    šių į mozaiką, dažytų vėrinių, kurie sudaro įdomiausią
+    dalį senovės paminklų, saugomų Karaliaučiaus Archyvo
+    kabinete; kitur panašių beveik nepavykdavo rasti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197563

@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 287
+tema_objektu_skaicius: 293
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 287.
+Objektų skaičius: 293.
 
 ## Kaip naudoti
 
@@ -315,3 +315,19 @@ Objektų skaičius: 287.
 - [Stryjkowski Strijkovskis](../objektai/autoriai/Stryjkowski%20Strijkovskis)
 - [T. Wierzbowski](../objektai/autoriai/T.%20Wierzbowski)
 - [V. Putinas-Mykolaitis](../objektai/autoriai/V.%20Putinas-Mykolaitis)
+
+### Daiktai
+- [Šventojo kryžiaus relikvija](../objektai/daiktai/%C5%A0ventojo%20kry%C5%BEiaus%20relikvija)
+
+### Grupės
+- [Gediminaičių dinastija](../objektai/grupes/Gediminai%C4%8Di%C5%B3%20dinastija)
+
+### Posakiai
+- [Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais](../objektai/posakiai/Argi%20nematote%2C%20kaip%20m%C5%ABs%C5%B3%20valdovai%20broliai%20grumiasi%20su%20netik%C4%97liais)
+
+### Vietos
+- [Lenkija](../objektai/vietos/Lenkija)
+- [Šventaragio slėnis](../objektai/vietos/%C5%A0ventaragio%20sl%C4%97nis)
+
+### Įvykiai
+- [Liublino unija (1569 m.)](../objektai/ivykiai/Liublino%20unija%20%281569%20m.%29)

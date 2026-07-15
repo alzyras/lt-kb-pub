@@ -77,7 +77,6 @@ Nenurodyta
 - susijęs iš Šeinfeldas: 1948 m. Šeinfeldo stovykloje Vokietijoje Lietuvos pabėgėliai rinkosi dalijamus drabužius.
 - susijęs iš [[objektai/zodynas/husarai.md#claim-t-49274|husarai]]: Vengrijoje ir vėliau Europoje husarais vadinta lengvoji kavalerija, dėvėjusi vengriško stiliaus drabužius.
 - susijęs iš [[objektai/zodynas/žygūnai.md#claim-t-58933|žygūnai]]: Prūsai siųsdavo žygūnus pas Lenkijos kunigaikštį reikalauti žirgų ir ryškiaspalvių drabužių.
-- susijęs iš [[objektai/asmenys/Elžbieta (Ostrogo kunigaikštytė).md#claim-t-186036|Elžbieta (Ostrogo kunigaikštytė)]]: Persekiotojai prie Prahos užklupo Dimitrą ir Elžbietą, nužudė beginklį jaunikaitį, o Elžbietą sugrąžino motinai.
 - susijęs iš [[objektai/asmenys/Gerlachas Rudasis.md#claim-t-60289|Gerlachas Rudasis]]: Gerlachas Rudasis atvyko iš Livonijos ir pranešė, kad magistras Folkvinas, daug brolių bei maldininkų krito kovoje.
 - susijęs iš [[objektai/asmenys/Hermanas Balkas.md#claim-t-89815|Hermanas Balkas]]: 1237 m. didysis magistras Hermanas pasiuntė Prūsijos magistrą Hermaną Balką su broliais ir ginklanešiais į Livoniją.
 - susijęs iš [[objektai/asmenys/Konradas (Baigos kunigas).md#claim-t-60358|Konradas (Baigos kunigas)]]: Baigos kunigas Konradas mirties patale paklausė Skomanto, kodėl šis gavęs malonę įtikėti Kristumi.
@@ -121,7 +120,7 @@ Nenurodyta
 - susijęs iš [[objektai/posakiai/stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje.md#claim-t-89606|stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje]]: Petras Dusburgietis kronikos pratarmėje rašė, kad aukščiausias Dievas per Ordino brolius Prūsijoje padarė stebuklų.
 - susijęs iš Laiškas Lvovo arkivyskupui ir Vilniaus vyskupui dėl Žemaičių vyskupystės įsteigimo: Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui patikėta įsteigti Žemaičių vyskupystę.
 - susijęs iš Krokuva: Kryžius su Šventojo Kryžiaus medžiu turėjo būti paliktas Krokuvos pilies koplyčioje, kur ilsėjosi karaliaus kūnas.
-- susijęs iš Krėva: Sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau atvyko į Krėvą.
+- susijęs iš Krėva: Kojelavičiaus pasakojime sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau buvo atvykę į Krėvą.
 - susijęs iš Lietuva: Kojelavičius aiškina, kad Jogaila dėjosi nežinąs Vytauto sumanymų, nes troško Vytauto ir Lietuvos vardo išgarsėjimo.
 - susijęs iš Lietuva: Narbutas rašė, kad Lietuvoje pilkapiai randami labai retai, dažnai giliai po žeme ir dažniausiai atsitiktinai kasant.
 - susijęs iš Lvovas: Lvovo arkivyskupui ir Vilniaus vyskupui laišku buvo patikėta įsteigti Žemaičių vyskupystę.
@@ -134,27 +133,6 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/netikėliai.md#claim-t-70246|netikėliai]]: Pirmieji Ordino broliai vaizduojami kaip pasirengę ginti tikėjimą kare su netikėliais.
 - susijęs iš [[objektai/zodynas/netikėliai.md#claim-t-70247|netikėliai]]: Dusburgietis Ordino brolius vaizduoja kaip pasirengusius ginti tikėjimą kare su `netikėliais`.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    ... slaptai sužinojome ..., kad broliai Prū­
-    sijos kryžiuočiai padovanojo daug drabužių ir gėrybių Žemaičių
-    galingiesiems su ta sąlyga, kad jie sukiltų prieš karalių, sakydami,
-    jei jis priims tikėjimą, jie išnaikinsią jį, jo sūnus ir visus jo šali­
-    ninkus ir išvysią drauge su teutonų ordino broliais iš savo kara­
-    lystės ir iš savo pašaknų visus išrausią.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-001
-    - t-001
-
 ## Citatos
 
 - id: c-70118
@@ -173,6 +151,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71558
-    - t-71558
     - t-71558

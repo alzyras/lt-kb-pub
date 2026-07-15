@@ -40,31 +40,13 @@ Dusburgietis teigia, kad stabo — dab.
   teiginys: "J. Nalepos tyrime Stabo ežeras tapatinamas su dabartiniu Kamienne ežeru Suvalkų krašte."
   pagrindžia:
     - c-61824
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Nalepos tyrime Stabo ežeras tapatinamas su dabartiniu Kamienne ežeru Suvalkų krašte.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nauji vietovardžių tyrimai (ež. Stabo — dab. Kamienne  ir
-    kt.) Mėrūniškių regione (į šiaurės vakarus nuo Suvalkų) rodo, kad nusiaubtose savose
-    centrinėse žemėse jotvingiai išliko dar ilgai po 1283 m., tik vėliau buvo palaipsniui
-    polonizuoti (Nalepa J., Stabo..., p. 146—148).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61824
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 171"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nauji vietovardžių tyrimai (ež. Stabo — dab. Kamienne  ir
     kt.) Mėrūniškių regione (į šiaurės vakarus nuo Suvalkų) rodo, kad nusiaubtose savose

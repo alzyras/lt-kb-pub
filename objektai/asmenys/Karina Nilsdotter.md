@@ -46,33 +46,6 @@ ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllen
   pagrindžia:
     - c-44407
 - susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79078|Karolis IX]]: Karolis IX ir Karina Nilsdotter buvo nesantuokinio sūnaus Karolio Karlsono Gyllenhielmo tėvai.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    £ sae.
-    ee Kuoknesės pilis
-
-    Baronas Karolis Karl-
-    sonas Gyllenhielmas
-    (Carl Carlson Gyllen-
-    hielm, 1574-1650 m.)
-    Švedijos karaliaus
-    Karolio 1x ir Karinos
-    Nilsdotter nesantuo-
-    kinis sūnus. Vadovavo
-    švedų kariuomenei,
-    veikusiai prieš lietu-
-    vius Livonijoje. 1616 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44407

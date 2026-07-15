@@ -9,13 +9,15 @@ datos:
   - '1198 m.'
 date_start: '1190'
 date_end: '1198'
+amziai:
+  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - religinis-įvykis
-amziai:
-  - 'XII'
+  - kunigaikštis
+  - ordinas
+  - popiežius
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -66,8 +68,15 @@ Nenurodyta
   teiginys: "Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai per Akono apgulą vyrai iš Bremeno ir Liubeko įrengė ligoninę."
   pagrindžia:
     - c-60262
-## Reikšmingi paminėjimai
 
+<a id="claim-t-196978"></a>
+- t-003
+  global_id: t-196978
+  teiginys: "Čia Dusburgietis pateikia oficialią Ordino pradžios tradiciją (pagal Statutų prologą)."
+  pagrindžia:
+    - c-60262
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgiečio pasakojimas perteikia oficialią Ordino pradžios tradiciją, o „Narratio“ liudija ilgesnį procesą iki 1198 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -86,39 +95,20 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai per Akono apgulą vyrai iš Bremeno ir Liubeko įrengė ligoninę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgietis iškreipia faktus dėl akivaizdžios tendencijos. Vokiečių ordino pradžią jis
-    datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai
-    iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos
-    kunigaikštis Fridrichas kreipėsi  į savo brolį, Vokietijos karalių ir busimąjį imperatorių
-    (nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje. Popiežius patvirtino
-    Jeruzalės brolių ligoninę, suteikė jiems tokių pat privilegijų, kaip kitados buvo suteikęs
-    joanitams ir tamplieriams (dvasiškiams ir riteriams).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-60261
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 28"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Popiežius patvirtino
-    Jeruzalės brolių ligoninę, suteikė jiems tokių pat privilegijų, kaip kitados buvo suteikęs
-    joanitams ir tamplieriams (dvasiškiams ir riteriams). Čia Dusburgietis pateikia oficialią
-    Ordino pradžios tradiciją (pagal Statutų prologą). Tuo tarpu „Narratio“ esama duomenų,
-    jog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos
-    kunigaikštis jau buvo miręs.
+    Kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino
+    priklausomumą nuo joanitų141. Dusburgietis tendencingai aprašo ir daugelį kitų Ordinui
+    nepalankių tarptautinių santykių reiškinių, bažnytinių ginčų, Ordino narių gėdingus
+    poelgius demaskuojančių faktų. Nutyli lenkų feodalinės ekspansijos į prūsų žemes
+    bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo
+    žemės dovanojimo charakterio, apimties ir t. t.142
+    Tendencingai Dusburgietis vaizduoja ir prūsų bei lietuvių kovas.
   citata_rodoma: "Čia Dusburgietis pateikia oficialią\nOrdino pradžios tradiciją (pagal Statutų prologą). Tuo tarpu „Narratio“ esama duomenų,\njog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos\nkunigaikštis jau buvo miręs."
   statusas: verified
   teiginio_tipas: faktas
@@ -130,19 +120,21 @@ Nenurodyta
 - id: c-60262
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 28"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dusburgietis iškreipia faktus dėl akivaizdžios tendencijos. Vokiečių ordino pradžią jis
-    datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai
-    iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos
-    kunigaikštis Fridrichas kreipėsi  į savo brolį, Vokietijos karalių ir busimąjį imperatorių
-    (nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje. Popiežius patvirtino
+    Popiežius patvirtino
     Jeruzalės brolių ligoninę, suteikė jiems tokių pat privilegijų, kaip kitados buvo suteikęs
-    joanitams ir tamplieriams (dvasiškiams ir riteriams).
+    joanitams ir tamplieriams (dvasiškiams ir riteriams). Čia Dusburgietis pateikia oficialią
+    Ordino pradžios tradiciją (pagal Statutų prologą). Tuo tarpu „Narratio“ esama duomenų,
+    jog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos
+    kunigaikštis jau buvo miręs. Kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino
+    priklausomumą nuo joanitų141. Dusburgietis tendencingai aprašo ir daugelį kitų Ordinui
+    nepalankių tarptautinių santykių reiškinių, bažnytinių ginčų, Ordino narių gėdingus
+    poelgius demaskuojančių faktų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59630
+    - t-196978

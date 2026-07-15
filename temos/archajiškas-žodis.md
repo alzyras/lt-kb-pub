@@ -6,7 +6,7 @@ tema_kategorija: "terminai"
 tema_kategorijos_pavadinimas: "Žodyno įrašai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 17
+tema_objektu_skaicius: 20
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 17.
+Objektų skaičius: 20.
 
 ## Kaip naudoti
 
@@ -27,6 +27,8 @@ Objektų skaičius: 17.
 
 ### Žodynas
 - [[objektai/zodynas/Galintuvojt ir galinduoti]]
+- [[objektai/zodynas/juodaknygis]]
+- [[objektai/zodynas/konfitiūrai]]
 - [[objektai/zodynas/Krirsae]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/Medė|medė]]
@@ -34,6 +36,7 @@ Objektų skaičius: 17.
 - [[objektai/zodynas/Neromus]]
 - [[objektai/zodynas/Nomadžiai|nomadžiai]]
 - [[objektai/zodynas/Rykys|rykys]]
+- [[objektai/zodynas/skaramušai]]
 - [[objektai/zodynas/Stigavoja|stigavoja]]
 - [[objektai/zodynas/Strungai Strungas]]
 - [[objektai/zodynas/Strūnijo|strūnijo]]

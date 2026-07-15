@@ -47,23 +47,6 @@ media_all_json: |-
   teiginys: "Kovoje padėjo budrumas ir geras miško pažinimas, iki kiekvieno kelmo ir krūmelio."
   pagrindžia:
     - c-43190
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mums kovoje padėjo tik mūsų bud-
-    rumas ir tai, kad gerai žinojome mišką -
-    kiekvieną kelmą, kiekvieną krūmelį. Prieš
-    kokią valandą iki mūšio, - toliau prisimena
-    J.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

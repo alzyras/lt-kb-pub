@@ -42,41 +42,6 @@ Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės kons
   teiginys: "Pagal 1793 m. naująją valstybės konstituciją buvo atgaivinta Nuolatinė Taryba, karo ir iždo komisijos, o Edukacinė Komisija atskirta Lietuvai ir Lenkijai."
   pagrindžia:
     - c-67383
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pagal 1793 m. naująją valstybės konstituciją buvo atgaivinta Nuolatinė Taryba, karo ir iždo komisijos, o Edukacinė Komisija atskirta Lietuvai ir Lenkijai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Buvo atgaivinta Nuolatinė Taryba ir
-    tada veikusios karo ir iždo komisijos. Kaip ir seniau, jos buvo
-    atskiros Lietuvai ir Lenkijai. Dabar buvo atskirta ir anksčiau
-    buvusi bendra Edukacinė Komisija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1793 m. Gardino seime sudaryta naujoji valstybės konstitucija grąžino santvarką, buvusią po pirmojo padalijimo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai
-    padaryti.
-    Kaip pirmą padalinimą patvirtinusiame seime, taip ir šitame
-    šeimininkavo Kotrynos ambasadorius, Ziversas. Buvo sudaryta
-    naujoji valstybės konstitucija, kuria buvo grąžinta santvarka,
-    buvusi po I padalinimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

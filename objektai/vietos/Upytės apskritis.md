@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejamų su hirių ir hendų gyvenama Žemaitijos dalimi.
+Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejamų su hirių ir hendų gyvenama Žemaitijos dalimi. Upinė (Uppinė ) Upių, šaltinių, apskritai tekančio vandens deivė.
 
 ## Teiginiai
 
@@ -35,18 +35,26 @@ Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejam�
   teiginys: "Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejamų su hirių ir hendų gyvenama Žemaitijos dalimi."
   pagrindžia:
     - c-171962
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197481"></a>
+- t-002
+  global_id: t-197481
+  teiginys: "Upinė (Uppinė ) Upių, šaltinių, apskritai tekančio vandens deivė."
+  pagrindžia:
+    - c-171962
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejamų su hirių ir hendų gyvenama Žemaitijos dalimi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Iszskalbk man amzuliali.
-    Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
-    liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai
-    ir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti
-    religinės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie
-    juos dar teks pakalbėti).
+    Gondu
+    suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
+    ant stalo neliestą, o tikrąjį karvojų suvalgo.
+    Kaip tik tai ir bus ta pati deivė, kurią garbino jaunos ro­
+    mėnės, vadindamos Manturna.
+    Upinė (Uppinė )
+    Upių, šaltinių, apskritai tekančio vandens deivė.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -54,24 +62,29 @@ Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejam�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-171962
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 142"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 142."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iszskalbk man amzuliali.
-    Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
-    liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai
-    ir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti
-    religinės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie
-    juos dar teks pakalbėti).
+    Gondu
+    suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
+    ant stalo neliestą, o tikrąjį karvojų suvalgo.
+    Kaip tik tai ir bus ta pati deivė, kurią garbino jaunos ro­
+    mėnės, vadindamos Manturna.
+    Upinė (Uppinė )
+    Upių, šaltinių, apskritai tekančio vandens deivė. Upė -Rze-
+    ka, Upinė - Rzeczna. Istorija teigia, kad tai dievybei kaip auka
+    buvo atnašaujami balti paršeliai.
+  citata_rodoma: "Gondu \nsuteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka \nant stalo neliestą, o tikrąjį karvojų suvalgo.\nKaip tik tai ir bus ta pati deivė, kurią garbino jaunos ro­\nmėnės, vadindamos Manturna.\nUpinė (Uppinė )\nUpių, šaltinių, apskritai tekančio vandens deivė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189073
+    - t-197481

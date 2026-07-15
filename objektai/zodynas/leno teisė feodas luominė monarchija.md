@@ -35,26 +35,6 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
   teiginys: "XVI a. LDK visuomenėje susiformavo leno teisė, riterio dvaras, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema."
   pagrindžia:
     - c-75138
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XVI a. LDK visuomenėje susiformavo leno teisė, riterio dvaras, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio
-    raštijos modelio), XVI a. LDK visuomenė tampa europinė ir įsilieja į Va-
-    karų civilizaciją. Nuosavybės santykiuose susiformuoja leno teisė, socia-
-    linėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje
-    ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų
-    ūkyje – cechai, edukacijoje – europinė švietimo sistema (katedrinės mo-
-    kyklos ir jų triviumas, kolegijos ir universitetas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

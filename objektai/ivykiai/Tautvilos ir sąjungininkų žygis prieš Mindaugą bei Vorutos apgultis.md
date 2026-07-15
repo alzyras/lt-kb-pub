@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvos metraštis teigia, kad po Rygos įvykių Tautvilas su jotvingiais, žemaičiais ir Danieliaus pagalba išžygiavo prieš Mindaugą, o Mindaugas užsidarė Vorutos pilyje. Pasakojime taip pat minima kova prie pilies ir Tautvilos sugrįžimas į Žemaitiją.
+Mindaugas, pasak metraščio, nesiryžo kautis atvirame lauke ir užsidarė Vorutos pilyje. Lietuvos metraščio pasakojimu, Tautvilas su jotvingiais, žemaičiais ir Danieliaus duota pagalba išžygiavo prieš Mindaugą. Lietuvos metraštis pasakoja, kad prie Vorutos Mindaugo kariai su arbaletais išjojo prieš vokiečius, o rusai, polovcai ir jotvingiai vaikėsi po lauką.
 
 ## Laikotarpis ir datos
 
@@ -52,81 +52,33 @@ Nenurodyta
   pagrindžia:
     - c-170457
 
-<a id="claim-t-187498"></a>
-- t-002
-  global_id: t-187498
-  teiginys: "Pasak šaltinio, po susirėmimo Tautvilas sugrįžo namo į Žemaitiją."
-  pagrindžia:
-    - c-170456
-
 <a id="claim-t-187499"></a>
-- t-003
+- t-002
   global_id: t-187499
   teiginys: "Lietuvos metraščio pasakojimu, Tautvilas su jotvingiais, žemaičiais ir Danieliaus duota pagalba išžygiavo prieš Mindaugą."
   pagrindžia:
     - c-170457
 
 <a id="claim-t-187500"></a>
-- t-004
+- t-003
   global_id: t-187500
   teiginys: "Lietuvos metraštis pasakoja, kad prie Vorutos Mindaugo kariai su arbaletais išjojo prieš vokiečius, o rusai, polovcai ir jotvingiai vaikėsi po lauką."
   pagrindžia:
     - c-170456
 
 <a id="claim-t-193859"></a>
-- t-005
+- t-004
   global_id: t-193859
-  teiginys: "Andrių broliai riteriai pašalino iš pareigų, o Tautvilą parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė jotvingius ir žemaičius bei Danieliaus pagalbą, kurią Danielius buvo jam anksčiau davęs, ir išžygiavo prieš Mindaugą."
+  teiginys: "Lietuvos metraščio pasakojime Tautvilas parbėgo į Žemaitiją pas Vykintą, sutelkė jotvingius, žemaičius ir Danieliaus pagalbą bei išžygiavo prieš Mindaugą."
   pagrindžia:
     - c-170457
 
-<a id="claim-t-193860"></a>
-- t-006
-  global_id: t-193860
-  teiginys: "Užsidarė pilyje-vorutoje2 3 , ir (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus, ir jotvingius."
+<a id="claim-t-196789"></a>
+- t-005
+  global_id: t-196789
+  teiginys: "Lietuvos metraščio pasakojime Mindaugas priekaištavo sūnui dėl pasirinkto vienuoliško gyvenimo, o sūnus esą labai nemylėjo tėvo."
   pagrindžia:
     - c-170456
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
-    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
-    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
-    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
-    mis ietimis, ir vaikėsi po lauką, tarytum turnyre. Ir iš
-    ten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
-    - t-006
-
-- c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Visa tai padarė, kad Lietuva netapo krikščioniška.
-    Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
-    parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė
-    jotvingius ir žemaičius bei Danieliaus pagalbą, kurią
-    Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
-    Mindaugą.
-    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
-    virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-    - t-005
 
 ## Citatos
 
@@ -135,12 +87,15 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
-    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
-    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
-    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
-    mis ietimis, ir vaikėsi po lauką, tarytum turnyre. Ir iš
-    ten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 .
+    Ir par­
+    keliavo jis atgal j Naugarduką, ir įkūrė6 <sau vienuo­
+    lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
+    ir gyveno tenai. O jo tėvas Mindaugas priekaištavo
+    jam, kam tokį gyvenimą pasirinkęs; bet jis savo tėvo
+    labai nemylėjo.
+    Tuo laiku mirė kunigaikštienė Mindaugienė9, ir tas
+    pradėjo jos gedėti. O jos sesuo buvo ištekėjusi už
+    Daumanto, už Nalšios kunigaikščiol0.
   citata_rodoma: "(naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus, \nir jotvingius. O rytojaus metą prieš vokiečius išjojo \n[Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru-\nsai bei poloviečiai su strėlėmis, o jotvingiai su trumpo-\nmis ietimis, ir vaikėsi po lauką, tarytum turnyre. Ir iš \nten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 ."
   statusas: verified
   teiginio_tipas: faktas
@@ -148,8 +103,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187500
-    - t-187498
-    - t-193860
+    - t-196789
 
 - id: c-170457
   autorius: "Anoniminis metraštininkas"
@@ -163,13 +117,13 @@ Nenurodyta
     Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
     Mindaugą.
     Mindaugas buvo pasiruošęs, bet nutarė su jais at­
-    virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir
+    virame lauke nesikauti. Užsidarė pilyje-vorutoje23, ir
   citata_rodoma: "Visa tai padarė, kad Lietuva netapo krikščioniška. \nAndrių broliai riteriai pašalino iš pareigų, o Tautvilą \nparbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė \njotvingius ir žemaičius bei Danieliaus pagalbą, kurią \nDanielius buvo jam anksčiau davęs, ir išžygiavo prieš \nMindaugą.\nMindaugas buvo pasiruošęs, bet nutarė su jais at-\nvirame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187499
     - t-187497
+    - t-187499
     - t-193859

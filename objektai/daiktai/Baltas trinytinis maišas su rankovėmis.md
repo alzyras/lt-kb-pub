@@ -55,19 +55,9 @@ Nenurodyta
   teiginys: "Kariai ant savo apdaro kartais užsimesdavo baltą trinytinį maišą su rankovėmis."
   pagrindžia:
     - c-10240
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Ant tokio savo apdaro tankiai patys antsimovė baltą trinytinį maišą su rankovėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

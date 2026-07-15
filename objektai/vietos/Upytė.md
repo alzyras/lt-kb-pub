@@ -45,19 +45,12 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginys: "Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą."
   pagrindžia:
     - c-43942
-
-<a id="claim-t-183813"></a>
-- t-002
-  global_id: t-183813
-  teiginys: "Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą."
-  pagrindžia:
     - c-167198
 - susijęs iš [[objektai/grupes/Hiriai ir hendai.md#claim-t-189544|Hiriai ir hendai]]: Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno hiriai ir hendai, Raseinių bei Upytės apskrityse.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172873|J. Dlugošas]]: J. Dlugošas mini, kad Upytės kraštą niokojęs Livonijos dalinys miške buvo apsuptas, apšaudytas strėlėmis ir priverstas pasiduoti.
 - susijęs iš [[objektai/grupes/Hiriai ir hendai.md#claim-t-189544|Hiriai ir hendai]]: Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno hiriai ir hendai, Raseinių bei Upytės apskrityse.
 - susijęs iš Raseinių apskritis: Narbutas rašė, kad Raseinių ir Upytės apskrityse rasti akmenys rodė ten vykusias ateivių iš Brandenburgo atneštas religines apeigas.
 - susijęs iš Upytės apskritis: Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejamų su hirių ir hendų gyvenama Žemaitijos dalimi.
-- susijęs iš Upytės pavietas: 1434 m. rugpjūčio pabaigoje vienas Livonijos kryžiuočių dalinys buvo įsibrovęs į Upytės pavietą.
 - susijęs iš Upytės žemė: 1363 m. pradžioje buvo siaubiama Upytės žemė Nevėžio aukštupyje ir gretimos apylinkės.
 - susijęs iš [[objektai/asmenys/Jonas Semenavičius Zažeckis.md#claim-t-87732|Jonas Semenavičius Zažeckis]]: Jonas Semenavičius Zažeckis savo iniciatyva ir lėšomis prisidėjo prie 1575 metais Vilniuje išspausdintos knygos „Cztėry Ewangelje“.
 - susijęs iš [[objektai/asmenys/Jurgis Chodkevičius.md#claim-t-87742|Jurgis Chodkevičius]]: Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą Timofejevą Mstislavliškį.
@@ -69,7 +62,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88533|Bartai]]: Bartai buvo viena iš vakarinių baltų, arba prūsų, genčių, žinomų Rytprūsiuose.
 - susijęs iš [[objektai/grupes/Mamoničių giminė.md#claim-t-86745|Mamoničių giminė]]: 1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino „Cztėry Ewangelje“.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175086|Sembai]]: Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.
-- susijęs iš [[objektai/posakiai/O trečių vasarų.md#claim-t-186892|O trečių vasarų]]: Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m.
 - susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
 - susijęs iš Aukštaitija: Aukštaitiją nuo Žemaitijos skyrusi siena ėjo dešiniuoju Neries ir Nemuno pakraščiu nuo Nevėžio žiočių iki Kuršo.
 - susijęs iš Aukštaitija: Narbuto aprašyme Aukštaitija sudarė aukštesniąją Lietuvos dalį ir lotynų autorių buvo vadinama Austechia.
@@ -78,54 +70,9 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 - susijęs iš Polockas: Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.
 - susijęs iš Tvankstė (pilis): Prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr.
 - susijęs iš Uturiai: Uturiai buvo prie Betygalos.
+- susijęs iš [[objektai/posakiai/O trečių vasarų.md#claim-t-199232|O trečių vasarų]]: Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m.
 - susijęs iš Aukštaitija: Aukštaitiją nuo Žemaitijos skyrusi siena ėjo dešiniuoju Neries ir Nemuno pakraščiu nuo Nevėžio žiočių iki Kuršo.
 - susijęs iš Aukštaitija: Narbuto aprašyme Aukštaitija sudarė aukštesniąją Lietuvos dalį ir lotynų autorių buvo vadinama Austechia.
-- susijęs iš [[objektai/posakiai/O trečių vasarų.md#claim-t-186892|O trečių vasarų]]: Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rugpjūčio pabaigoje į Žemaitiją paeiliui
-    įsibrovė trys Livonijos daliniai, jie niokojo
-    Upytės kraštą. Begrįžtantis priešas buvo
-    sumuštas, pirmiausia Kuldigos 40 raitelių
-    ir apie 1000 pėstininkų dalinys. J. Dlugošas
-    mini, kad priešas, jau manęs esąs saugus,
-    viename miške buvo apsuptas ir užblokuo-
-    tas medžių užtvaromis, ir iš už jų priedan-
-    gos gausiai strėlėmis apšaudomas, buvo
-    priverstas pasiduoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Magistras grįžo į savo žemę, o Švitrigaila -
-    į Polocką, ir, vėl paleidęs kariuomenę, iš-
-    vyko į Kijevą.
-
-    Rugpjūčio pabaigoje į Žemaitiją paeiliui
-    įsibrovė trys Livonijos daliniai, jie niokojo
-    Upytės kraštą. Begrįžtantis priešas buvo
-    sumuštas, pirmiausia Kuldigos 40 raitelių
-    ir apie 1000 pėstininkų dalinys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-43942
@@ -169,8 +116,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183813
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Hiriai ir hendai]]

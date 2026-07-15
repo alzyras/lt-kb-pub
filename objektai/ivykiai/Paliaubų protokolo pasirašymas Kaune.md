@@ -59,49 +59,6 @@ Nenurodyta
   teiginys: "1920 m. lapkričio 29 d. Kaune L. Želigovskio ir Lietuvos atstovai pasirašė paliaubų protokolą."
   pagrindžia:
     - c-44921
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lenkų pajėgos prie
-    Giedraičių patyrė didelių
-    nuostolių, tačiau ir lietuvių
-    nuostoliai buvo nemenki,
-    žuvo 15 karių ir keli karinin-
-    kai, apie 60 buvo sužeista,
-    apie 70 dingo be žinios.
-    Tarpininkaujant Tautų
-    Sąjungos kontrolės komisi-
-    ee ays Sulvalky sutarties demar-
-    Jal, 1920 Ds lapkričio 29 d. kacinė linija su Lenkija
-    Kaune L. Želigovskio ir mucus Paskutinioji
-    Lietuvos atstovai pasirašė demarkacinė lini-
-    ž ja su Lenkija
-    paliaubų protokolą. Tarp ii
-    abiejų kariuomenių nu-
-
-    T ae
-    =
-    =
-
-    \ ov
-
-    mumis Siena su Antantės adminis- ~
-    truojamu Klaipėdos kraštu
-    mmm 1919 m. birželio 18 d. de-
-    markacinė linija su Lenkija f
-    m 1919 m. liepos 26 d. demar- IB——
-    kacinė linija su Lenkija /
-    1920 m. liepos 12 d. su
-    sovietais nustatyta siena
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

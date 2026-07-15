@@ -41,30 +41,6 @@ Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius savo dvar
   teiginys: "Ekonomijos buvo dideli valdovų dvarai, administruojami jų skiriamų vietininkų."
   pagrindžia:
     - c-38733
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jau prieš Vytautą Didįjį Lietuvos valstybėje, kurios svar­
-    biausią ekonominio gyvenimo atramą sudarė žemės ūkis,
-    buvo prigijusi tokia šio ūkio tvarka, kurioje didieji Lietuvos
-    kunigaikščiai buvo vyriausieji valdomųjų žemių savininkai.
-    Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius
-    savo dvarus — ekonomijas, administruojamas tam tikrų jų ski­
-    riamų valdininkų, vad. vietininkais; kitas žemes valdė sričių
-    kunigaikščiai, kariai-bajorai, laisvieji gyventojai. Be senesnių­
-    jų lietuvių ir rusų kunigaikščių — tėvynainių (otčici) į savo val­
-    domas žemes turėjo visišką nuosavybės teisę ir Žemaitijos ba­
-    jorai nuo senų laikų, ką mes sužinom iš jų skundo prieš Ordiną
-    Konstancijoj (1416)^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

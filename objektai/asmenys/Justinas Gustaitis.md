@@ -42,30 +42,6 @@ Tad, pasirodykime laisvės verti ir tą dieną, kada kovos pradžia atrodys SAVA
   teiginys: "Justino Gustaičio laiškas buvo rastas pamestame pase Aukščiausiosios Tarybos rūmuose 1991 m. vasario mėnesį."
   pagrindžia:
     - c-44396
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tauta, kuri priešo neerzinimo sumetimais
-    neišdrįsta reikiamu momentu griebtis karo,
-    nėra laisvės verta. Tad, pasirodykime laisvės
-    verti ir tą dieną, kada kovos pradžia atrodys
-
-    SAVANORIO LAIŠKAS
-
-    Justino Gustaičio laiškas, rastas pames-
-    tame pase Aukščiausiosios Tarybos rū-
-    muose 1991 M. vasario mėn.
-
-    „Neramu, o gal jau paskutinį kartą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

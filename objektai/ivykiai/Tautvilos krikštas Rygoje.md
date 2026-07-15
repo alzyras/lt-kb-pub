@@ -51,33 +51,13 @@ Nenurodyta
   teiginys: "Lietuvos metraščio pasakojimu, Tautvilas su Danieliui skirtais belaisviais nuvyko į Rygą, kur rygiečiai jį iškilmingai priėmė ir pakrikštijo."
   pagrindžia:
     - c-170454
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos metraščio pasakojimu, Tautvilas su Danieliui skirtais belaisviais nuvyko į Rygą, kur rygiečiai jį iškilmingai priėmė ir pakrikštijo.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Danielius iš­
-    siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
-    čius, ir jie ilgai kariavo vieni su kitais.
-    Iš ten Tautvilą su Danieliui skirtais belaisviais nu­
-    vyko į Rygą. Rygiečiai jį priėmė su didžiausia iškilme,
-    ir jis buvo pakrikštytas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-170454
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 49."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Danielius iš­
     siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-

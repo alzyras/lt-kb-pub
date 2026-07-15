@@ -55,47 +55,13 @@ Nenurodyta
   teiginys: "Narbutas nurodė: Vietos kaimiečiai pilkapių nelietė, nes gerbė po jais besiilsinčios genties žmonių palaikus."
   pagrindžia:
     - c-174973
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vietos kaimiečiai pilkapių nelietė, nes gerbė po jais besiilsinčios genties žmonių palaikus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Apskri­
-    tai panašūs radiniai priklauso prie retenybių.
-    Pavyko surinkti šiuos tenykščių kaimo gyventojų iš­
-    saugotus vietos padavimus ir pasakojimus:
-    a) Pilkapiai visuomet buvo laikomi kapais.
-    b) Jie priklauso neatmenamos senovės epochai.
-    c) Tai paminklai kažkokios tautos, gyvenusios šioje
-    žemėje iki slavų ir su jais kariavusios, arba tos, kurią
-    slavai pavergė ginklu,
-    d) Rogačiovas, esąs trikampyje, kurį skalauja Dnep-
-    ras ir Drutė, ant kalvos, laikomas seniausiu šio krašto
-    miestu ir visų pripažįstamas šios buvusios pilkapių ka­
-    sėjų genties sostine.
-    e) Vis dėlto pilkapius visuomet gaubė dabartinės mū­
-    sų kraštiečių kartos pagarba. Šiandien kaimiečiai nors
-    nelaiko jų savo tautos protėvių kapais, tačiau iš pagar­
-    bos po jais besiilsinčios genties žmonių palaikams nieka­
-    da nesiryžta paliesti jų nei noragu, nei kitais įrankiais,
-    o juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury
-    laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174973
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 382"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 382."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Apskri­
     tai panašūs radiniai priklauso prie retenybių.

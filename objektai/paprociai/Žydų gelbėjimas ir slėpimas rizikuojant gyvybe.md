@@ -80,28 +80,6 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
   teiginys: "Už žydų gelbėjimą Pasaulio teisuoliais pripažinti 830 lietuvių, o jų sąrašas papildomas."
   pagrindžia:
     - c-23548
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žydų naikinimas kėlė
-    didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje nete-
-    ko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčio-
-    se, liaudyje jie paniekinamai vadinti „žydšaudžiais“. Kita lietuvių visuo-
-    menės dalis, rizikuodama gyvybe (buvo ir sušaudytų už žydų slėpimą),
-    bandė padėti žydams, gelbėti, nemažai žydų išgelbėjo katalikų kunigai,
-    vienuolės, paprasti valstiečiai. Už žydų gelbėjimą Pasaulio teisuoliais yra
-    pripažinti 830 lietuvių, nors iš tikrųjų jų buvo kur kas daugiau, jų sąrašas
-    vis papildomas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Šaltiniai ir įrodymai
 

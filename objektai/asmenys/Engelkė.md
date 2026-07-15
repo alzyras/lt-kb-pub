@@ -35,8 +35,8 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
   teiginys: "Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda."
   pagrindžia:
     - c-60905
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -48,9 +48,6 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
     kitų dorovingų darbų garsėjęs dar ir tuo, kad ant savo nuogo kūno nedėvėjo marškinių,
     o geležinius grandininius šarvus; iki savo mirties jis sudėvėjo ketverius tokius šarvus,
     visiškai suėstus metų ir rūdžių.
-
-
-
 
     147 (142).
   citata_rodoma: ''
@@ -66,21 +63,16 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
 - id: c-60905
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 138"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    146 (141). Apie pagirtiną brolio Engelkės gyvenimą Kristburgo pilyje
-
-      Tuo metu mūsų minėtoje Kristburgo pilyje gyveno brolis Engelkė, gimęs Vestfalijoje,
-    nuostabaus pamaldumo ir begalinės savitvardos vyras, visa širdimi pasišventęs dievui, be
-    kitų dorovingų darbų garsėjęs dar ir tuo, kad ant savo nuogo kūno nedėvėjo marškinių,
-    o geležinius grandininius šarvus; iki savo mirties jis sudėvėjo ketverius tokius šarvus,
-    visiškai suėstus metų ir rūdžių.
-
-
-
-
-    147 (142).
+    Iš šios pilies išėjo brolis Konradas Švabas iš
+    Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
+    šalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio
+    miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė
+    žūties, pabėgdami į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
+    buvo arba paimti į nelaisvę, arba užmušti. Per vieną ir kitą antpuolį prūsai nepagarbiai
+    elgėsi su šventųjų paveikslais, bažnytiniais rūbais ir kitomis dievo garbinimui skirtomis
+    šventenybėmis bei bažnytiniais sakramentais.
   citata_rodoma: "Apie pagirtiną brolio Engelkės gyvenimą Kristburgo pilyje\n\n  Tuo metu mūsų minėtoje Kristburgo pilyje gyveno brolis Engelkė, gimęs Vestfalijoje,\nnuostabaus pamaldumo ir begalinės savitvardos vyras, visa širdimi pasišventęs dievui, be\nkitų dorovingų darbų garsėjęs dar ir tuo, kad ant savo nuogo kūno nedėvėjo marškinių,\no geležinius grandininius šarvus; iki savo mirties jis sudėvėjo ketverius tokius šarvus,\nvisiškai suėstus metų ir rūdžių.\n\n\n\n\n147 (142)."
   statusas: verified
   teiginio_tipas: faktas

@@ -9,12 +9,12 @@ datos:
   - '1235 m.'
 date_start: '1211'
 date_end: '1235'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,8 +49,8 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
   teiginys: "1235 m. Dobrynės ordinas susijungė su kryžiuočiais."
   pagrindžia:
     - c-61594
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1235 m. Dobrynės ordinas susijungė su kryžiuočiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -66,32 +66,20 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
   pagrindžia:
     - t-002
 
-- c-002
-  santrauka: 'Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kryžiuočiams suteikta vieta Transilvanijos Burcos žemėje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    159 D. — Wurcza. Burcos žemė Transilvanijoje. Joje Vengrijos karalius Andrius 11
-    1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4),
-    norėdamas, kad šie gintų kraštą nuo polovcų (kumanų).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-61594
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 44"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1235 m. Dobrynės ordinas susijungė su kryžiuočiais. Prūsijos pasienyje bandė kurdintis
-    ir joanitai (XII a. pabaigoje —Regesta historico-diplomatica Ordinis..., Nr. 2), taip pat
-    riterių ordinas iš Kalatravos (Ispanija; Szacherska S. M., Opactwo..., p. 31—35).
+    broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
+    jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
+    ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
+    padedami, ateityje pajungsią savo valdžiai. Kai apie tai sužinojo prūsai, jie, smarkiai
+    suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
+    ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170.
+  citata_rodoma: "1235 m. Dobrynės ordinas susijungė su kryžiuočiais. Prūsijos pasienyje bandė kurdintis\nir joanitai (XII a. pabaigoje —Regesta historico-diplomatica Ordinis..., Nr. 2), taip pat\nriterių ordinas iš Kalatravos (Ispanija; Szacherska S. M., Opactwo..., p. 31—35)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -102,8 +90,7 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
 - id: c-61596
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     159 D. — Wurcza. Burcos žemė Transilvanijoje. Joje Vengrijos karalius Andrius 11
     1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4),

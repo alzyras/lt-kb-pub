@@ -47,7 +47,6 @@ Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kai
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kaip kraitį jam davė Aldejaborgą bei jo apylinkes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -76,20 +75,23 @@ Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kai
 - id: c-174278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Goterio sū­
-    nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
-    traukė baigiantis II krikščioniškosios eros amžiui4.
-    232
     Skandinavų didvyris, vadinamas Sturlaugu Darbš-
     čiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,
     o vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam
     kraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo
     Rusios uostas. Būta įvairių spėjimų, kur buvęs šis mies­
     tas, net buvo įrodinėjama, jog tai turėjęs būti šiandienis
-    Sliselburgas.
+    Sliselburgas. Bet, atsižvelgiant į tai, ką jau ne sykį anks­
+    čiau kalbėjome apie Aldesko upę ir apie tą miestą (§ 155),
+    nėra pagrindo abejoti, jog tai buvusi tvirtovė prie pagrin­
+    dinių Nemuno žiočių ir beveik toje pačioje vietoje, kur
+    vėliau lietuviai turėjo Klaipėdą, o kryžiuočiai įkūrė Me-
+    metburgą. Sis miestas senovėje buvęs labai garsus, nes
+    jį paveldėjęs Flamoro įpėdinis Biartmaras savo galia ne­
+    nusileido karaliams.
+  citata_rodoma: "Goterio sū­\nnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­\ntraukė baigiantis II krikščioniškosios eros amžiui4.\n232\nSkandinavų didvyris, vadinamas Sturlaugu Darbš-\nčiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,\no vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam\nkraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo\nRusios uostas. Būta įvairių spėjimų, kur buvęs šis mies­\ntas, net buvo įrodinėjama, jog tai turėjęs būti šiandienis\nSliselburgas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

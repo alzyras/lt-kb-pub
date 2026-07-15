@@ -51,8 +51,8 @@ Nenurodyta
   teiginys: "Narbutas, remdamasis Lasickiu, Kremarą apibūdina kaip dievaitį, globojusį aukai tinkamus kuilius ir paršavedes; jam aukodavo alų pildami į ugnį."
   pagrindžia:
     - c-172722
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Lasickiu, Kremarą apibūdina kaip dievaitį, globojusį aukai tinkamus kuilius ir paršavedes; jam aukodavo alų pildami į ugnį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -82,16 +82,14 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    168
-
-    ## Puslapis 168
-
-    ba kokie burtai arba jeigu pasivaidena naktį, jie stengiasi nu­
-    kelti lūšną nors keletą žingsnių į šalį.
-    Kremara (Kremara)
-    Sis dievaitis ypač globojo kuilius ir paršavedės, tinkamus
-    sau ir aukai. Kalbėdamas apie jį, Lasickis nieko daugiau ne­
-    nurodo, tik tai, kad jam aukodavo pildami alaus į ugnį.
+    Į sceną įeina du veikėjai, apsirengę trumpais drabužiais:
+    pirmas iš jų nutukęs, galva papuošta keistai pasiūta riterio šal­
+    mo formos kepure. Antras veikėjas - lengvabūdiškas, simpa­
+    tiškas, su maža kepuraite ant galvos. Žaidimo pradžioje vaiz­
+    duojamas netikėtas susitikimas, kvietimas susiimti rankomis,
+    toliau visokios abiejų pastangos nutverti vienas kitą į glėbį ir
+    grumtis; visa tai vyksta juokaujamu tonu.
+  citata_rodoma: "168\n\n## Puslapis 168\n\nba kokie burtai arba jeigu pasivaidena naktį, jie stengiasi nu­\nkelti lūšną nors keletą žingsnių į šalį.\nKremara (Kremara)\nSis dievaitis ypač globojo kuilius ir paršavedės, tinkamus\nsau ir aukai. Kalbėdamas apie jį, Lasickis nieko daugiau ne­\nnurodo, tik tai, kad jam aukodavo pildami alaus į ugnį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

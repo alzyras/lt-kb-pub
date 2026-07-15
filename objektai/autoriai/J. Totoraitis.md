@@ -45,24 +45,6 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
     - c-30595
 - susijęs iš [[objektai/autoriai/M. Priselkov.md#claim-t-30846|M. Priselkov]]: M. D. Priselkovas rekonstravo Troickajos metraštį, 1950 m. išleistą Maskvoje.
 - susijęs iš Friburgas: J. Totoraitis Šveicarijos Friburge pas prof. G. Schnürerį parašė disertaciją, išspausdintą 1905 m.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Totoraitis parašė „Sūduvos-Suvalkijos istorijos“ pirmą tomą, išleistą Kaune 1938 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pr. Kuraitis, Kaunas 1925-
-    1940.
-    ToS = J. Totoraitis : Sūduvos-Suvalkijos istorija, t. 1, Kaunas
-    1938.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-30595

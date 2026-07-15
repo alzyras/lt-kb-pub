@@ -34,37 +34,6 @@ media_all_json: |-
   teiginys: "Lietuvos Metrikoje minimas Žygimanto Senojo laiškas Vilniaus miestiečiui Andrejui Tiekiui dėl Smolensko muito ir smuklių arendavimo."
   pagrindžia:
     - c-84424
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos Metrikoje minimas Žygimanto Senojo laiškas Vilniaus miestiečiui Andrejui Tiekiui dėl Smolensko muito ir smuklių arendavimo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    20
-    Lietuvos Metrikoje yra labai daug
-    Žygimanto Senojo laiškų, tuo tikslu
-    rašytų Vilniaus miestiečiams, - paci­
-    tuosime kai kuriuos: List Meszczani-
-    nu Wileńskomu Andrejų Tyckomu
-    [Laiškas Vilniaus miestiečiui Andre­
-    jui Tiekiui] dėl Smolensko muito ir
-    smuklių arendavimo. Knyga 8,1.87.
-    List Radzcy Wileńskomu Bohdanu On-
-    kieiviczu, na wybranie jemu winnych
-    peneźy z Korczem Bobruyjskoje i
-    Swisłockoje do dewet let spoina [Laiš­
-    kas Vilniaus tarėjui Bohdanui Anke-
-    vičiui, leidžiantis jam surinkti pri­
-    klausančius pinigus iš Bobruisko ir
-    Svisločės smuklių už devynerius
-    metus], 1. 100.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -7,12 +7,12 @@ datos:
   - '1232 m.'
 date_start: '1232'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Ra
   teiginys: "Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Raynaldo „Annales ecclesiasticae“ prie 1232 metų."
   pagrindžia:
     - c-173435
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Raynaldo „Annales ecclesiasticae“ prie 1232 metų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -64,14 +64,16 @@ Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Ra
 - id: c-173435
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 318"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 318."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kad nuramintume žmoniškumo gynėjus, turime
-    16
-    Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX
-    // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
-    1232. -  Nr. 7.
+    Priesaikos su užkeikimu taip pat dar
+    tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
+    (Kad až skradziuprapoltu). Senovės prūsų papročiu prisiekian­
+    tysis laikydavo dešinę ranką prie savo gerklės. Kaip liudija
+    Hartknochas (p. 548), šis paprotys dar ilgai gyvavo kryžiuočių
+    valdomoje Prūsijoje, nes ši religinė apeiga sutvirtindavo prie­
+    saiką labiau nei pirštų padėjimas ant Evangelijos.
+  citata_rodoma: "Kad nuramintume žmoniškumo gynėjus, turime\n16\nĮrodymui Hartknochas pateikia: Litterae Gregorii Papae IX\n// Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum\n1232. -  Nr. 7."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

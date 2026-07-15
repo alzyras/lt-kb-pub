@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 56
+tema_objektu_skaicius: 57
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 56.
+Objektų skaičius: 57.
 
 ## Kaip naudoti
 
@@ -24,6 +24,9 @@ Objektų skaičius: 56.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 
 ### Įvykiai
 - [[objektai/ivykiai/1381 m. kryžiuočių puolimai Kęstučio valdose]]
@@ -50,7 +53,7 @@ Objektų skaičius: 56.
 - [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
 - [[objektai/ivykiai/Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai|Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai (krikštas, XIII–XIV a.)]]
-- [[objektai/ivykiai/Lietuvos pasiuntinių derybos Rygoje (1298 m.)]]
+- [Lietuvos pasiuntinių derybos Rygoje (1298 m.)](../objektai/ivykiai/Lietuvos%20pasiuntini%C5%B3%20derybos%20Rygoje%20%281298%20m.%29)
 - [Lietuvos valstybės sukūrimas XIII a. viduryje](../objektai/ivykiai/Lietuvos%20valstyb%C4%97s%20suk%C5%ABrimas%20XIII%20a.%20viduryje)
 - [Livonijos žemės atvertimas į tikėjimą (1204 m.)](../objektai/ivykiai/Livonijos%20%C5%BEem%C4%97s%20atvertimas%20%C4%AF%20tik%C4%97jim%C4%85%20%281204%20m.%29)
 - [Maironio knygų „Pavasario balsai“ ir „Jaunoji Lietuva“ išleidimas](../objektai/ivykiai/Maironio%20knyg%C5%B3%20%E2%80%9EPavasario%20balsai%E2%80%9C%20ir%20%E2%80%9EJaunoji%20Lietuva%E2%80%9C%20i%C5%A1leidimas)

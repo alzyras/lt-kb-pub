@@ -49,26 +49,6 @@ Nenurodyta
   teiginys: "Lietuvos bajorijos pareigos valstybei priklausydavo nuo bajorų valdomos žemės."
   pagrindžia:
     - c-02161
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos bajorijos pareigos valstybei priklausydavo nuo bajorų valdomos žemės.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos bajorijos pareigos valstybei priklausydavo nuo jų val-
-    domosios žemės. Taigi ir pas mus buvo maždaug tokia pat santvarka,
-    kaip Vakaruose vadinamasis feodalizmas. Tik Lietuvos feoda-
-    lizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo
-    ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis. Lietuvos sri-
-    tinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikš-
-    čio nuosava valstybe, kiek administracine apygarda.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

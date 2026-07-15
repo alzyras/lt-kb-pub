@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukaimio įgulos vyrus, neatsargiai įžengusius į priešo žemę. Liudvikas Libencelė užėmė Lietuvoje Kimelio pilį ir sumušė su juo kovoti stojusius gardiniečius.
+Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukaimio įgulos vyrus, neatsargiai įžengusius į priešo žemę. Liudvikas Libencelė užėmė Lietuvoje Kimelio pilį ir sumušė su juo kovoti stojusius gardiniečius. Liudvikas Libencelė, sugrįžęs namo, rado lietuvių sudegintą Skalvių papilį ir teberūkstančią Ragainę, kurios komtūru buvo.
 
 ## Teiginiai
 
@@ -42,65 +42,20 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
   teiginys: "Liudvikas Libencelė užėmė Lietuvoje Kimelio pilį ir sumušė su juo kovoti stojusius gardiniečius."
   pagrindžia:
     - c-169507
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukaimio įgulos vyrus, neatsargiai įžengusius į priešo žemę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Todėl jie priplaukė prie kranto, ketindami tą
-    tariamą moterį paimti į laivą, tačiau Nodamas, staiga
-    prišokęs prie vandens, suriko, kviesdamasis bendrinin­
-    kus, ir taip tvirtai nutvėrė už laivo, kad irkluotojai ne­
-    įstengė jo pajudinti, kol nesubėgo iš pasalų kariai ir,
-    užėmę laivą, visų lig vieno neišžudė. Nuo Liudviko
-    Libencelės karių rankos tais pačiais metais krito dvi­
-    dešimt penki Aukaimio įgulos vyrai, neatsargiai nusi­
-    gavę į priešo žemę. Kitame pakraštyje Jazbutas, ypa­
-    tingai aukštos kilmės lietuvis, nuniokojęs kurias ne
-    kurias Lenkijos pasienio žemes, buvo sumuštas Henriko
-    Cutsverto, Baigos komtūro, su tūkstančiu dviem šim­
-    tais riterių užėmusio kelius tarp Alnos ir Narevo upių:
-    Jazbutas neteko viso grobio ir didelės dalies raitelių,
-    kurių turėjo penkis šimtus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196553"></a>
+- t-003
+  global_id: t-196553
+  teiginys: "Liudvikas Libencelė, sugrįžęs namo, rado lietuvių sudegintą Skalvių papilį ir teberūkstančią Ragainę, kurios komtūru buvo."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Liudvikas Libencelė užėmė Lietuvoje Kimelio pilį ir sumušė su juo kovoti stojusius gardiniečius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šitaip atstumti, kryžiuo­
-    čiai leidosi į Junigedą; kadangi vienu metu laivai bu­
-    vo užplaukę ant seklumų, lietuviai juos apspito ir, vie­
-    ni laivais atplaukę, kiti atabradais nubridę, užpuolė
-    kautynių nelaukiantį priešą; jie paėmė laivus, kovoje
-    krito narsiausi vyrai, kiti vargais negalais paspruko,
-    žuvo visi vadai, išskyrus vieną. Geriau sekėsi Liudvi­
-    kui Libencelei: jis užėmė Lietuvoje Kimelio pilį, kuri
-    buvo daug kartų stipriomis jėgomis, bet nesėkmingai
-    puldinėta, ir sumušė gardiniečius, drįsusius stoti su juo
-    į kovą. Tačiau ir šią pergalę aptemdė skausmas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-169507
 
 ## Citatos
 
 - id: c-169506
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 163"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 163."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Todėl jie priplaukė prie kranto, ketindami tą
     tariamą moterį paimti į laivą, tačiau Nodamas, staiga
@@ -127,8 +82,7 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
 - id: c-169507
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 172"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 172."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šitaip atstumti, kryžiuo­
     čiai leidosi į Junigedą; kadangi vienu metu laivai bu­
@@ -140,10 +94,19 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
     kui Libencelei: jis užėmė Lietuvoje Kimelio pilį, kuri
     buvo daug kartų stipriomis jėgomis, bet nesėkmingai
     puldinėta, ir sumušė gardiniečius, drįsusius stoti su juo
-    į kovą. Tačiau ir šią pergalę aptemdė skausmas.
+    į kovą. Tačiau ir šią pergalę aptemdė skausmas. Sugrį­
+    žęs namo, jis rado lietuvių sudegintą Skalvių papilį,
+    teberūkstančią Ragainę, kurios komtūru buvo, visi gy-
+    smarkiai nusiaubęs Prūsijoje Kulmo žemę ir Goliubo
+    apylinkes, jis išgabeno iš ten didžiulį grobį. Po to įsi­
+    veržė į Livoniją, bet ten nieko reikšmingesnio nenu­
+    veikė, nes buvo priverstas greitai atitraukti kariuome­
+    nę į Lietuvą.
+  citata_rodoma: "Šitaip atstumti, kryžiuo­\nčiai leidosi į Junigedą; kadangi vienu metu laivai bu­\nvo užplaukę ant seklumų, lietuviai juos apspito ir, vie­\nni laivais atplaukę, kiti atabradais nubridę, užpuolė\nkautynių nelaukiantį priešą; jie paėmė laivus, kovoje\nkrito narsiausi vyrai, kiti vargais negalais paspruko,\nžuvo visi vadai, išskyrus vieną. Geriau sekėsi Liudvi­\nkui Libencelei: jis užėmė Lietuvoje Kimelio pilį, kuri\nbuvo daug kartų stipriomis jėgomis, bet nesėkmingai\npuldinėta, ir sumušė gardiniečius, drįsusius stoti su juo\nį kovą. Tačiau ir šią pergalę aptemdė skausmas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186146
+    - t-196553

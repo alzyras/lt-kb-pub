@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad būtų stabdomos plintančios bažnytinės naujovės. Rusų tautos suvažiavime Lietuvos Naugarduke Grigorijus Fotijus buvo suimtas ir visuotiniu pritarimu pašalintas iš pareigų.
+Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad būtų stabdomos plintančios bažnytinės naujovės. Rusų tautos suvažiavime Lietuvos Naugarduke Grigorijus Fotijus buvo suimtas ir visuotiniu pritarimu pašalintas iš pareigų. Po karo suiručių susilauV y ta u la s p u ola schizkęs ramybės, Vytautas pasim ą, p lin ta n čią jo va ijuto saugus ir uoliai įniko d o se ginti visoje valstybėje tikrą jį tikėjimą.
 
 ## Teiginiai
 
@@ -41,78 +41,45 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
   teiginys: "Rusų tautos suvažiavime Lietuvos Naugarduke Grigorijus Fotijus buvo suimtas ir visuotiniu pritarimu pašalintas iš pareigų."
   pagrindžia:
     - c-168808
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad būtų stabdomos plintančios bažnytinės naujovės.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kadangi
-    šias negeras naujoves vykdė ne paprasti žmonės, o žy­
-    mieji vyskupai, ypač tie, kurie kilę iš graikų, užkirsti
-    kelią plintančiai blogybei buvo galima ne kitaip, kaip
-    sukvietus viešą pačių ganytojų suvažiavimą. Padėjus
-    daug pastangų, Vytautui galop pavyko sušaukti rusų
-    tautos suvažiavimą Lietuvos Naugarduke. Konstantino
-    Didžiojo pavyzdžiu jis ir pats
-    h  u žgniaužia N augar-
-    jame dalyvavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196122"></a>
+- t-003
+  global_id: t-196122
+  teiginys: "Po karo suiručių susilauV y ta u la s p u ola schizkęs ramybės, Vytautas pasim ą, p lin ta n čią jo va ijuto saugus ir uoliai įniko d o se ginti visoje valstybėje tikrą jį tikėjimą."
   pagrindžia:
-    - t-001
+    - c-178541
 
-- c-002
-  santrauka: 'Rusų tautos suvažiavime Lietuvos Naugarduke Grigorijus Fotijus buvo suimtas ir visuotiniu pritarimu pašalintas iš pareigų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Suvažiavime
-    d ū k o  s u v a ž ia v im e
-    suėmė Grigorijų Fotijų, Ki­
-    jevo
-    metropolitą,
-    Rusioje
-    3 9 2
-
-    ## Puslapis 391
-
-    kursčiusį ir plėtusį religinį bruzdėjimą, ir, baudžiant už
-    šį nusikaltimą, pašalino visuotiniu pritarimu iš pareigų.
-    Jo įpėdiniu tapo bulgaras Grigorijus Camblakas, žmogus,
-    išgarsėjęs kaip didelis šventųjų mokslų žinovas. Jis ne­
-    trukus ir Romoje, ir generaliniame bažnytiniame suva­
-    žiavime smarkiai pasidarbavo Rytų bei Vakarų bažny­
-    čių suartėjimo reikalu pasiųstas ten savo tautos suva­
-    žiavimo ir kunigaikščio Vytauto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196123"></a>
+- t-004
+  global_id: t-196123
+  teiginys: "Kojelavičius rašo, kad Vytautas sušaukė ganytojų suvažiavimą, norėdamas užkirsti kelią rusų dvasininkų atsiskyrimui nuo Romos bažnyčios."
   pagrindžia:
-    - t-002
+    - c-168808
 
 ## Citatos
 
 - id: c-168807
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 390"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 390."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kadangi
-    šias negeras naujoves vykdė ne paprasti žmonės, o žy­
-    mieji vyskupai, ypač tie, kurie kilę iš graikų, užkirsti
-    kelią plintančiai blogybei buvo galima ne kitaip, kaip
-    sukvietus viešą pačių ganytojų suvažiavimą. Padėjus
-    daug pastangų, Vytautui galop pavyko sušaukti rusų
-    tautos suvažiavimą Lietuvos Naugarduke. Konstantino
-    Didžiojo pavyzdžiu jis ir pats
-    h  u žgniaužia N augar-
-    jame dalyvavo.
+    Šios siuntos,
+    upėmis pavandeniui nuplukdytos į Juodąją jūrą, iš Cha-
+    čibėjaus, tuo metu Lietuvai priklausiusio uosto, buvo
+    gabenamos didesniais laivais į Konstantinopolį.
+    Po karo suiručių susilau-
+    V y ta u la s p u ola schiz-
+    kęs ramybės, Vytautas pasi-
+    m ą, p lin ta n čią jo va i-
+    juto saugus ir uoliai įniko
+    d o se
+    ginti visoje valstybėje tikrą­
+    jį tikėjimą. Nuo seno įpratę
+    teikti šventuosius sakramentus pagal graikų papročius,
+    rusų šventikai bei vienuolynų viršininkai priėmė ir vi­
+    sus kitus graikų paklydimus, kaip ir šie, atsisakė Vytau­
+    to valdose klausyti popiežiaus ir bendrauti su Romos
+    bažnyčia.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -125,27 +92,51 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Suvažiavime
-    d ū k o  s u v a ž ia v im e
-    suėmė Grigorijų Fotijų, Ki­
-    jevo
-    metropolitą,
-    Rusioje
-    3 9 2
-
-    ## Puslapis 391
-
-    kursčiusį ir plėtusį religinį bruzdėjimą, ir, baudžiant už
-    šį nusikaltimą, pašalino visuotiniu pritarimu iš pareigų.
-    Jo įpėdiniu tapo bulgaras Grigorijus Camblakas, žmogus,
-    išgarsėjęs kaip didelis šventųjų mokslų žinovas. Jis ne­
-    trukus ir Romoje, ir generaliniame bažnytiniame suva­
-    žiavime smarkiai pasidarbavo Rytų bei Vakarų bažny­
-    čių suartėjimo reikalu pasiųstas ten savo tautos suva­
-    žiavimo ir kunigaikščio Vytauto.
+    Nuo seno įpratę
+    teikti šventuosius sakramentus pagal graikų papročius,
+    rusų šventikai bei vienuolynų viršininkai priėmė ir vi­
+    sus kitus graikų paklydimus, kaip ir šie, atsisakė Vytau­
+    to valdose klausyti popiežiaus ir bendrauti su Romos
+    bažnyčia. Didžiai dėl to susikrimto Vytautas, žinodamas,
+    jog šitoks įžūlumas ardo tą statinį, kurį jis bei karalius
+    Jogaila, siekdami valdinių santarvės, surentė po visa­
+    pusiško apmąstymo tikrojo tikėjimo naudai. Kadangi
+    šias negeras naujoves vykdė ne paprasti žmonės, o žy­
+    mieji vyskupai, ypač tie, kurie kilę iš graikų, užkirsti
+    kelią plintančiai blogybei buvo galima ne kitaip, kaip
+    sukvietus viešą pačių ganytojų suvažiavimą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185447
+    - t-196123
+
+- id: c-178541
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Po karo suiručių susilau-
+    V y ta u la s p u ola schiz-
+    kęs ramybės, Vytautas pasi-
+    m ą, p lin ta n čią jo va i-
+    juto saugus ir uoliai įniko
+    d o se
+    ginti visoje valstybėje tikrą­
+    jį tikėjimą. Nuo seno įpratę
+    teikti šventuosius sakramentus pagal graikų papročius,
+    rusų šventikai bei vienuolynų viršininkai priėmė ir vi­
+    sus kitus graikų paklydimus, kaip ir šie, atsisakė Vytau­
+    to valdose klausyti popiežiaus ir bendrauti su Romos
+    bažnyčia. Didžiai dėl to susikrimto Vytautas, žinodamas,
+    jog šitoks įžūlumas ardo tą statinį, kurį jis bei karalius
+    Jogaila, siekdami valdinių santarvės, surentė po visa­
+    pusiško apmąstymo tikrojo tikėjimo naudai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196122

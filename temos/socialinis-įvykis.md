@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 29
+tema_objektu_skaicius: 28
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 29.
+Objektų skaičius: 28.
 
 ## Kaip naudoti
 
@@ -47,11 +47,10 @@ Objektų skaičius: 29.
 - [[objektai/ivykiai/Romo Kalantos susideginimas Kaune (1972 m. gegužės 14 d.)]]
 - [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]
 - [[objektai/ivykiai/Sicilijos prancūzų žudynės (1281 m.)]]
-- [[objektai/ivykiai/Sunkus badas visoje Lietuvoje ir Baltarusijoje (1440 m.)]]
 - [[objektai/ivykiai/Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.)]]
 - [[objektai/ivykiai/T. Narbuto įstojimas į masonų organizaciją (1817 m.)]]
+- [[objektai/ivykiai/Tribunolo maršalkos ir artilerijos generolo priėmimas Paneriuose (1751 m. birželio 25 d.)]]
 - [[objektai/ivykiai/Vytauto Didžiojo jubiliejiniai metai (1930 m.)]]
-- [Vytauto ir Julijonos santuoka](../objektai/ivykiai/Vytauto%20ir%20Julijonos%20santuoka)
 - [Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)](../objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29)
 - [Vytauto palaidojimas Vilniaus katedroje](../objektai/ivykiai/Vytauto%20palaidojimas%20Vilniaus%20katedroje)
 - [Žygimanto Kęstutaičio šermenys ir laidotuvės Vilniuje (1440 m.)](../objektai/ivykiai/%C5%BDygimanto%20K%C4%99stutai%C4%8Dio%20%C5%A1ermenys%20ir%20laidotuv%C4%97s%20Vilniuje%20%281440%20m.%29)

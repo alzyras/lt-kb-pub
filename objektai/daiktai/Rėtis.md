@@ -53,6 +53,7 @@ Nenurodyta
   teiginys: "Rėtis minimas kaip kiaušinių talpa kamaroje."
   pagrindžia:
     - c-177735
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

@@ -51,22 +51,8 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   pagrindžia:
     - c-59111
 
-<a id="claim-t-58480"></a>
-- t-004
-  global_id: t-58480
-  teiginys: "Sventopelkas su daugybe ginklanešių ir 10 laivų užpuolė Elbingo brolių laivus, jiems plaukiant pro Svečės pilį."
-  pagrindžia:
-    - c-59111
-
-<a id="claim-t-58479"></a>
-- t-005
-  global_id: t-58479
-  teiginys: "Magistro Popono pasiųsti žvalgai pranešė, kad Sventopelkas su gausia kariuomene stovėjo prie Svečės pilies ir ją stiprino."
-  pagrindžia:
-    - c-167593
-
 <a id="claim-t-194550"></a>
-- t-006
+- t-004
   global_id: t-194550
   teiginys: "Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių ir 10 laivų."
   pagrindžia:
@@ -89,83 +75,15 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - susijęs iš Vda: Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 - susijęs iš Višogrudas: Magistras Poponas su savo ir kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo pilies ir ten įsirengė stovyklą.
 - susijęs iš [[objektai/ivykiai/Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų.md#claim-t-62404|Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)]]: Prie Svečės pilies broliai užpuolė Sventopelko kariuomenę ir, pasak Dusburgiečio, tą dieną nukovė 1500 Pomeranijos vyrų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dar kartų apie tą patį
-
-      Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,
-    pasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje.
-    Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
-    ir 10 laivų. Kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289,
-    kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas
-    jį nukovė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-    - t-006
-
-- c-002
-  santrauka: 'Sventopelkas pradėjo statyti Svečės pilį priešais dabartinį Kulmo miestą, kad trukdytų Ordino broliams plaukioti Vysla.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kadangi
-    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
-    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
-    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
-    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
-    plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
-    plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
-    traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Dusburgietis teigia, kad žvalgai sugrįžę pranešė, kad Sventopelkas su galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
-
-       Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
-    Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
-    Višogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su
-    galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs. Pasitarę visi nusprendė ten jį
-    užpulti ir iš Kulmo pasiuntė 10 raitelių, turėjusių neduoti ramybės priešo kariuomenei;
-    susidūrę su 20 priešo vyrų, jie nukovė vieną karį, o kiti 19, išvydę brolių vėliavą, pabėgo;
-    bėgliams parsiradus Sventopelko kariuomenėje, išsibėgiojo visi, išsigelbėjo kurie ne
-    kurie, pasiekdami pilį, visi kiti arba paskendo, arba paklojo galvas nuo kalavijo ašmenų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-002
-
 ## Citatos
 
 - id: c-59111
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 94"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dar kartų apie tą patį
-
-      Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,
+    Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,
     pasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje.
     Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
     ir 10 laivų. Kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289,
@@ -177,14 +95,12 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58480
-    - t-184207
     - t-194550
 
 - id: c-59112
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kadangi
     klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
@@ -204,12 +120,10 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - id: c-167593
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 95"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
-
-       Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
+    Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
     Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
     Višogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su
     galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs. Pasitarę visi nusprendė ten jį
@@ -222,7 +136,6 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184208
     - t-58479
 
 ## Ryšiai

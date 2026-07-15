@@ -58,9 +58,9 @@ Nenurodyta
   global_id: t-195331
   teiginys: "Vestuvių ir girtavimo pasakojimuose bonka nešama, statoma ant stalo ir slepiama užančyje."
   pagrindžia:
-    - c-177728
-    - c-177727
     - c-177726
+    - c-177727
+    - c-177728
 
 <a id="claim-t-195332"></a>
 - t-002

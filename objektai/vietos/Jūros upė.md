@@ -44,27 +44,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginys: "Narbutas Pajūrio kaimą, kurio fetišu vadino Dievaitį, tikriausiai lokalizavo Raseinių apskrityje prie Jūros upės."
   pagrindžia:
     - c-171592
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Žemaičių pusėje siena turėjo kilti Šventąja dvi mylias, paskui
-    stačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­
-    muną dviejų mylių ruože^31. Jūros upės krantu siena pasislinko
-    vieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko
-    taip, kad Nemunas, Rusnė ir Klaipėda — vis trijų mylių atstumu
-    — nuo Nemuno ir Marių, buvo palikta ordinni.
-    Su Livonijos ordinu siena buvo pradėta į Baltiją įtekančia
-    Šventosios upe, toliau paliekant « senas sienas » (« antiquos limites »).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas Pajūrio kaimą, kurio fetišu vadino Dievaitį, tikriausiai lokalizavo Raseinių apskrityje prie Jūros upės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -115,17 +96,14 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Rageziowan
-    Kęsgailų giminės fetišas.
-    Dievaitis (Dewojtis)
-    Pajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­
-    seinių apskrityje, tikriausiai prie Jūros upės.
-    207
-
-    ## Puslapis 207
-
-    Vetustis (W etustis)
-    Rietavo miestelio fetišas, lietuviškai -  senovinis.
+    Reikėjo iškasti griovį slėnelyje prie gyvena­
+    mojo namo, ir kaip tik toje vietoje, kur buvo seno perkaso
+    pėdsakai, kasėjai dumble aptiko akmenį ir jį išmetė. Aš, pri­
+    žiūrėdamas jų darbą, pastebėjau tą akmenį. Jis iš karto nuste­
+    bino mane ypatinga savo išvaizda. Liepiau apvalyti nuo jo dum­
+    blą. Pasvarstęs, kad visame perkase nebuvo jokio akmens, su­
+    vokiau, kad jis ten buvo tyčia įmestas.
+  citata_rodoma: "Rageziowan\nKęsgailų giminės fetišas.\nDievaitis (Dewojtis)\nPajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­\nseinių apskrityje, tikriausiai prie Jūros upės.\n207\n\n## Puslapis 207\n\nVetustis (W etustis)\nRietavo miestelio fetišas, lietuviškai -  senovinis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

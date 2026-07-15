@@ -64,43 +64,6 @@ Nenurodyta
   teiginys: "Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamentai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis respublikomis."
   pagrindžia:
     - c-176252
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1940 m. liepos 22 d. vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Analogiškas farsas vyko ir Latvijoje bei Estijoje.
-    Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamen-
-    tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis
-    respublikomis. Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
-    mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
-    valstybės nuosavybe, o ūkininkai – žemės naudotojais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamentai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis respublikomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamen-
-    tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis
-    respublikomis. Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
-    mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
-    valstybės nuosavybe, o ūkininkai – žemės naudotojais. Buvo nacionalizuoti
-    bankai, stambiosios pramonės įmonės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

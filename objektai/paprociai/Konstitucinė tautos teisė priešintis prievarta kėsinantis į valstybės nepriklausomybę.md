@@ -77,33 +77,6 @@ Nenurodyta
   teiginys: "Tautos suvereniteto negalima varžyti ar riboti."
   pagrindžia:
     - c-44945
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš dabartinės Lietuvos
-    Respublikos konstitucijos. (1 skirsnis,
-
-    3 straipsnis):
-
-    Niekas negali varžyti ar riboti Tautos suve-
-    reniteto, savintis visai Tautai priklausančių
-    suverenių galių.
-
-    Tauta ir kiekvienas pilietis turi teisę
-    priešintis bet kam, kas prievarta kėsinasi į
-    Lietuvos valstybės nepriklausomybę, terito-
-    rijos vientisumą, konstitucinę santvarką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 

@@ -44,29 +44,6 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   pagrindžia:
     - c-43794
 - susijęs iš Ažytėnų ganykla: Ažytėnų ganykla anuomet buvo vadinama dviem vardais: Pridotku ir Radviliškiu.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšis
-    1919 m. lapkričio 20 d. fronto vadas
-    plk. ltn. K. Ladyga įsakė pradėti puolimą
-    Radviliškio-Šiaulių kryptimi. Pirmiausiai
-    numatyta užimti Radviliškį, kuriame buvo
-    įsitvirtinę apie 800 labai gerai ginkluotų
-    bermontininkų, jie Radviliškyje turėjo
-    apie 10-12 patrankų, daugybę kulkosvai-
-    džių, minosvaidžių ir bombosvaidžių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-43794

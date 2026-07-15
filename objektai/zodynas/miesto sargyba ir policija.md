@@ -42,30 +42,6 @@ Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškiet
   pagrindžia:
     - c-82575
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172819|Vilniaus magistratas]]: Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1522 m. karaliaus Žygimanto įsakymu miesto sargyba ir policija buvo sugrąžintos magistratui, kuris turėjo išlaikyti 24 sargybinius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­
-    rėti šarvus, muškietą ir ragotinę, o miesto taryba - stebėti,
-    kad bendromis lėšomis išlaikomos patrankos ir arkebuzos bū­
-    tų gerai prižiūrimos. Miesto sargyba ir policija, laikinai pri­
-    klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­
-    tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta
-    magistratui - karaliaus Žygimanto 1522 metų įsakymu. Ma­
-    gistratas, Krokuvos miesto pavyzdžiu, turėjo išlaikyti 24 įpras­
-    tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­
-    ma dieną ir naktį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82575

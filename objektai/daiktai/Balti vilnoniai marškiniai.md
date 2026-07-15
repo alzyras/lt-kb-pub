@@ -95,46 +95,6 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 - susijęs iš [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba.md#claim-t-67170|Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]: Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.
 - susijęs iš Paryžius: Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
 - susijęs iš [[objektai/zodynas/Kilimas.md#claim-t-70007|kilimas]]: Kilimas buvo moterų išeiginis drabužis, dar vadintas sage arba sagše nuo žodžio „segti“.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
-    moterys, kiekvienam būriui suteikiant vardą. Jogaila besi­
-    krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
-    dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
-    prie krikšto turėti baltą rūbą, nekaltybės simbolį. Tačiau dėl
-    šių nežymių dovanų vargu kas iš lietuvių būtų išsižadėjęs savo
-    seno tikėjimo, arba krikštijęsis keliskart, kad daugiau jų gautų,
-
-    (^1) ) Valachijoje (dabartinėje Rumunijoje).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    krikštijo būriais. Vienas būrys buvo krikštijamas vienu, kitas
-    kitu vardu ir t. t. Kaip krikšto dovana, Jogailos vardu buvo
-    dalinami balti vilnoniai marškiniai, simbolizuoją nekaltąją sielą.
-    Kadangi tais laikais lietuviai paprastai nešiodavo lininius apdarus,
-    tai daug kas ėjo krikštytis jau vien dėl marškinių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-
 ## Citatos
 
 - id: c-169762
@@ -157,8 +117,8 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186424
     - t-12278
+    - t-186424
 
 - id: c-169763
   redaktorius: "A. Šapoka"

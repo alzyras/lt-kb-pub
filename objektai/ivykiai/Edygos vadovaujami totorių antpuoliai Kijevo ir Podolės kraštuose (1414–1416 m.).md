@@ -59,26 +59,6 @@ Nenurodyta
   teiginys: "1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką."
   pagrindžia:
     - c-35763
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­
-    jant Vorsklos nugalėtojui Edygai, 1414—1416 m. laikotarpyje
-    dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriauda­
-    mi patį Kijevą ir Lucką. Cemblakas iš savo sostinės turėjo per­
-    sikelti į Vilnių, o Vytautas, užimtas tada karu su Vok. Ordinu
-    (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
-    totorių sudrausti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

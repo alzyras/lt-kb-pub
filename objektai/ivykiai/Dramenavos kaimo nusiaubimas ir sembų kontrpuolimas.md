@@ -72,29 +72,8 @@ Nenurodyta
   teiginys: "Štai todėl, palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių."
   pagrindžia:
     - c-85312
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Broliai puldinėjo sembus, siekdami juos vėl pajungti krikščionių tikėjimui.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    107 (102). Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
-
-      Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
-    broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui. Štai todėl,
-    palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
-    kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę
-    vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo
-    atgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus
-    išsklaidė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -122,12 +101,10 @@ Nenurodyta
 - id: c-85311
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 122"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     107 (102). Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
-
-      Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
+    Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
     broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui. Štai todėl,
     palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
     kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę
@@ -145,9 +122,9 @@ Nenurodyta
 - id: c-85312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 122"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
     Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
     broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui. Štai todėl,
     palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
@@ -157,6 +134,7 @@ Nenurodyta
     išsklaidė. Vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos
     ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
     nukovė daugybę sembų.
+  citata_rodoma: "Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai\nbroliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui. Štai todėl,\npalaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei\nkaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę\nvieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo\natgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus\nišsklaidė. Vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos\nir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir\nnukovė daugybę sembų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

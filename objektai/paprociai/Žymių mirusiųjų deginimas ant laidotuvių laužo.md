@@ -57,8 +57,8 @@ Nenurodyta
   teiginys: "Narbuto aprašymu, ant laidotuvių laužo su žymaus mirusiojo kūnu kraudavo daiktus, kurie jam gyvenime buvo malonūs, reikalingi ar puošnūs."
   pagrindžia:
     - c-172792
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad žymių mirusiųjų laidotuvėse su didiku kartais laidodavo tarnus, arklius, šunis ir sakalus, o dažniau juos vesdavo ant laužo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -110,18 +110,19 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kai kada tarnai, arkliai, šunys, saka­
-    lai buvo gyvi laidojami su didiku jo kape; dažniau eidavo ant
-    364
-
-    ## Puslapis 364
-
-    uždegto laužo, kadangi turtingųjų kūnai būdavo deginami.
-    Deginti mirusiųjų kūnus buvo įprasta sekant graikų, ro­
-    mėnų, skandinavų ’ ir kai kurių slavų kilčių papročiu. Šis pa­
-    protys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­
-    tas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik
-    žymesniems žmonėms laidoti.
+    Laidodami nepamiršdavo plėšriųjų paukščių ir panašių žvė­
+    rių nagų, manydami, kad bus reikalingi mirusiajam kopiant į
+    amžinosios laimės kalną. Kaip tik dėl to, artėjant gyvenimo
+    pabaigai, užleisdavo ir savo pačių nagus, visai jų nebetrum-
+    pindavo. Jaunesni žmonės, juos kirpdami, niekad nenumes-
+    davo nuokirpų ant žemės, bet visuomet, stropiausiai surinkę,
+    sviesdavo į ugnį, nes būta fantastiškos nuomonės, jog bus nau­
+    dingi po mirties, kadangi sudegę ugnyje su dūmais pakils į aukš­
+    tybes ir ten kiekvienas juos atras. O jeigu nukirpti nagai būtų
+    išmėtyti čia, žemėje, tai mirusiojo vėlė, negalėdama be jų ap- }
+    sieiti, neišvengiamai turėtų ieškoti, kol surastų visus iki ma­
+    žiausios nuokirpos.
+  citata_rodoma: "Kai kada tarnai, arkliai, šunys, saka­\nlai buvo gyvi laidojami su didiku jo kape; dažniau eidavo ant\n364\n\n## Puslapis 364\n\nuždegto laužo, kadangi turtingųjų kūnai būdavo deginami.\nDeginti mirusiųjų kūnus buvo įprasta sekant graikų, ro­\nmėnų, skandinavų ’ ir kai kurių slavų kilčių papročiu. Šis pa­\nprotys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­\ntas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik\nžymesniems žmonėms laidoti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -132,17 +133,20 @@ Nenurodyta
 - id: c-172792
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 364"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 364."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šis pa­
-    protys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­
-    tas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik
-    žymesniems žmonėms laidoti. Ant laidotuvių laužo su miru­
-    siojo kūnu būdavo kraunama viskas, kas velionio gyvenime
-    buvo malonaus arba reikalingo ar buvo jo puošmena. Šiuo po­
-    žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
-    įvairių tautų.
+    Jaunesni žmonės, juos kirpdami, niekad nenumes-
+    davo nuokirpų ant žemės, bet visuomet, stropiausiai surinkę,
+    sviesdavo į ugnį, nes būta fantastiškos nuomonės, jog bus nau­
+    dingi po mirties, kadangi sudegę ugnyje su dūmais pakils į aukš­
+    tybes ir ten kiekvienas juos atras. O jeigu nukirpti nagai būtų
+    išmėtyti čia, žemėje, tai mirusiojo vėlė, negalėdama be jų ap- }
+    sieiti, neišvengiamai turėtų ieškoti, kol surastų visus iki ma­
+    žiausios nuokirpos. Iš čia tamsioje vaizduotėje įsišaknijo įsi­
+    vaizdavimas apie gąsdinantį mirusių vėlių vaidenimąsi prie tro­
+    besių; dažniausiai jos matomos šiukšlynuose, kur išmeta šiukš­
+    les iš kambarių.
+  citata_rodoma: "Šis pa­\nprotys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­\ntas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik\nžymesniems žmonėms laidoti. Ant laidotuvių laužo su miru­\nsiojo kūnu būdavo kraunama viskas, kas velionio gyvenime\nbuvo malonaus arba reikalingo ar buvo jo puošmena. Šiuo po­\nžiūriu sekta senovės galais ir skandinavais bei daugeliu kitų\nįvairių tautų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

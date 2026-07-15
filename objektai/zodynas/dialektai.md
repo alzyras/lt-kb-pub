@@ -60,7 +60,6 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
     - c-175030
 - susijęs iš [[objektai/zodynas/upė.md#claim-t-192230|upė]]: Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -92,18 +91,22 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Antri, susipažinę tik su
-    naujesniais latvių tyrinėjimais, visas gentis tempia po
-    latvių rubrika. Mes pasisakome už pono Kepeno požiū-
-    2. T. Narbutas
-    33
-
-    ## Puslapis 33
-
-    rį: lyginant tris svarbiausius dialektus — senovės prūsų,
-    lietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­
-    čytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­
-    tyje arba kad ši gentis buvo arčiausia prie šio lopšio1.
+    Šiuo veikalu mes stengsimės paskatinti patį skaityto­
+    ją daryti prielaidas ir įsitikinti tikrumu pateikiamų jam
+    nagrinėti dalykų, kuriuos, nelaikydami neginčijamomis
+    tiesomis, pateikiame kaip mūsų pažintą ir mūsų įsitikini­
+    mu taip suprastą tikrovę. Daryti galutines išvadas rei­
+    kės mūsų skaitytojams, būsimoms kartoms, didžiosios lie­
+    tuvių tautos palikuonims. Be to, iš anksto reikia įspėti,
+    jog, vos pradėjus gilintis į dalyką, gali būti vietų, ne
+    itin įdomių daugeliui skaitytojų: įrodymų, išvadų, teigi­
+    nių, prielaidų, jų nuolatinio tikrinimo, perėjimų nuo vie­
+    nos temos prie kitos, be to, gana tolimos, grįžimo atgal
+    prie tos pačios, fragmentų, skliaustuose įterpiamų iš pir­
+    mo žvilgsnio svetimų dalykų — tai turinys šios trečios
+    knygos, kuri, kaip įvadas į kitas, išdėstys įžangines ži­
+    nias, reikalingas tęsiniui istorijos, būsiančios kitose kny­
+    gose.
   citata_rodoma: "Mes pasisakome už pono Kepeno požiū-\nrį: lyginant tris svarbiausius dialektus — senovės prūsų,\nlietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­\nčytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­\ntyje arba kad ši gentis buvo arčiausia prie šio lopšio1."
   statusas: verified
   teiginio_tipas: faktas

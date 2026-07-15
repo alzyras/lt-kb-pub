@@ -36,25 +36,6 @@ Kariška monarchija, jeigu taip trum­ pai galima išsireikšti.
   teiginys: "Kariškoje monarchijoje valstybės priešakyje stovėjo nevaržomas didysis kunigaikštis, valdęs monarcho teisėmis."
   pagrindžia:
     - c-38738
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    — Kariška monarchija, jeigu taip trum­
-    pai galima išsireikšti. Valstybės priešaky stovėjo niekuo nevar­
-    žomas, monarcho teisėmis, did. kunigaikštis; sritys, su mažo­
-    mis išimtimis, buvo valdomos visai did. kun. priklausomų vie­
-    tininkų. Jų prievolė buvo valdyti tuos kraštus d. kun. vardu:
-    prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.
-    dvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

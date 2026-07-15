@@ -13,14 +13,14 @@ datos:
   - '2026 m.'
 date_start: '1200'
 date_end: '2026'
+amziai:
+  - 'XII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - upė
-amziai:
-  - 'XII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -82,9 +82,6 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - susijęs iš [[objektai/ivykiai/Didelių gintaro gabalų radiniai prie Gdansko ir Įsruties.md#claim-t-191040|Didelių gintaro gabalų radiniai prie Gdansko ir Įsruties]]: Gintaro randama prie Vyslos ir Dauguvos žiočių, prie Ostrolenkos ir Narevo upės pakrantėse.
 - susijęs iš [[objektai/ivykiai/Jazbuto pralaimėjimas tarp Alnos ir Narevo upių.md#claim-t-185800|Jazbuto pralaimėjimas tarp Alnos ir Narevo upių]]: Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.
 - susijęs iš [[objektai/ivykiai/Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.).md#claim-t-66564|Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)]]: Grįžtančią lietuvių kariuomenę tarp Luko ir Narevo užpuolė broliai, nukovę 350 žmonių; kiti žuvo dykroje.
-- susijęs iš Bielskas: Bielskas lokalizuojamas prie Baltosios, Narevo intako, į pietus nuo Balstogės.
-- susijęs iš Bielskas: Bielskas lokalizuojamas prie Baltosios, Narevo intako, į pietus nuo Balstogės.
-- susijęs iš Bielskas: Bielskas buvo Palenkės miestas prie Baltosios, Narevo intako, į pietus nuo Balstogės.
 - susijęs iš Vizna: Kunigaikštis Danielius nuėjo prie Viznos, persikėlė per Narevo upę ir iš nelaisvės išvadavo daug krikščionių.
 - susijęs iš Viznos apylinkės: Kai Livonijos magistras buvo prie Vilniaus, lietuviai pietvakariuose atakavo kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo.
 - susijęs iš [[objektai/asmenys/Liudvikas Libencelė.md#claim-t-186145|Liudvikas Libencelė]]: Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukaimio įgulos vyrus, neatsargiai įžengusius į priešo žemę.
@@ -98,73 +95,11 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - susijęs iš [[objektai/posakiai/kur akys veda, kur kojos neša.md#claim-t-59120|kur akys veda, kur kojos neša]]: Po brolių smūgio lietuvių kariuomenę apėmė baimė, ir ji pabėgo kur akys veda, kur kojos neša, prarasdama daug žmonių bei arklių.
 - susijęs iš Johanno Voigto Prūsijos istorija: Narbutas rašė, kad kryžiuočiai į Polesę įsiveržė laikydami ją senąja Prūsijos provincija ir kaltindami Kujavijos kunigaikštį sulaužius sutartį.
 - susijęs iš Rusų Maskvos sąvadas: Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjusius vokiečius dideliame mūšyje nugalėjo Lietuva.
-- susijęs iš Bielskas: Bielskas buvo Palenkės miestas, 1971 m. leidimo komentare tapatintas su Lenkijos Bielsku Podlaskiu.
-- susijęs iš Bielskas: Bielskas buvo Palenkės miestas, 1971 m. leidimo komentare tapatintas su Lenkijos Bielsku Podlaskiu.
-- susijęs iš Branskas: Branskas lokalizuojamas prie Nureco, Vakarų Bugo intako.
-- susijęs iš Branskas: Branskas buvo Palenkės miestas, 1971 m. leidimo komentare priskirtas Lenkijos Balstogės vaivadijai.
 - susijęs iš Duobelės pilis (pilis): Lietuviai puolė Livonijos magistro valdytą Duobelės pilį, sudegino papilį ir nusiaubė apylinkes.
 - susijęs iš Šešupė: Padalijus Užnemunę, Ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno į Šešupę.
 - susijęs iš Šešupė: Padalijus Užnemunę, ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno iki Šešupės.
 - susijęs iš Žemaitija: Vaikių ir Pagraudės valsčiai Žemaitijoje buvo nusiaubti žudynėmis ir apiplėšti, todėl daugelį metų beveik neturėjo gyventojų.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytauto kariuomenė žygiavo tarp Narevo ir Bugo upių, o jų santakoje persikėlė per Narevą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Apie
-    birželio mėn. 15 d. žygiavo artyn prie Červinsko. Žygiavo tarp
-    Narevo ir Bugo upių. Tų upių santakoje Vytauto kariuomenė
-    persikėlė per Narevą ir lygiai birželio mėn. 30 d. atvyko į Čer­
-    vinską, ties kuriuo kitoje upės pusėje buvo atėję lenkai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Lietuviai puolė kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo, kai Livonijos magistras buvo prie Vilniaus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi:
-    „atėjo vokiečiai prie Vilniaus miesto prieš Vytautą, ir buvo tarp jų
-    didelis mūšis ir nugalėjo Lietuva“. Kai Livonijos magistras buvo
-    prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino
-    papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių
-    tuo metu kontroliuojamos Viznos apylinkes prie Narevo.
-
-    Podolėje, Valakijoje, ragino dalyvauti ko-
-    voje su totoriais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Lietuviai, prieš kelias dienas perkėlę grobį ir kariuomenę per Narevą, pasislėpė miško tankmėje.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo tarpu Lešekas Juodasis,
-    Lenkijos valdovas, Krokuvoje teisė savo valdinius; ki­
-    lus staigiam pavojui, jis, metęs teismo reikalus, pas­
-    kubomis surinko šešių tūkstančių vyrų pulką ir patrau­
-    kė prieš lietuvius. Šie, prieš keletą dienų grobį bei
-    kariuomenę perkėlę per Narevą, pasislėpė miško tan­
-    kynėse. Sužinojęs apie tai, Lešekas visai nusivylė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Teodoras Narbutas sprendė, kad po 1237 m. jotvingiai traukėsi nuo Bugo ir Narevo Prūsijos bei Lietuvos sienų link.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -185,26 +120,6 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
-- c-005
-  santrauka: 'Teodoro Narbuto pasakojime 1282 m. Lešeko Juodojo vadovaujami lenkai prie Narevo užklupo jotvingius ties Ostrolenka.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be
-    to, Traidenis vakarinėje Jotvingijoje paliko visos tautos
-    pražūties užuomazgą, nes savo užpuolimais galutinai įer­
-    zino lenkus, kurie, Lešeko Juodojo vadovaujami, 1282 me­
-    tais prie Narevo įvykdė tai, ką jotvingiams skyrė nelai­
-    minga lemtis: jie visi buvo užklupti prie garsėjusios dau­
-    geliu kraujo praliejimų Ostrolenkos. Tačiau jotvingiai
-    paniekino nelaisvę ir leidosi visi iškapojami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
 
 ## Citatos
 
@@ -251,8 +166,7 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - id: c-168420
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 143"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 143."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tuo tarpu Lešekas Juodasis,
     Lenkijos valdovas, Krokuvoje teisė savo valdinius; ki­
@@ -271,18 +185,18 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - id: c-175472
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    1237 metais jis ve­
-    dė savo būrius prieš jotvingius į Brastos apylinkes, bet
-    itin dideli pavasario potvyniai ;užtvindė upių krantus, ir
-    jo sumanymas nebuvo įgyvendintas3.
-    122
-    Nuo tų laikų matyti, kad jotvingiai pasitraukė nuo
-    Bugo—Narevo bei Prūsijos ir Lietuvos sienų link. Taip pat
-    prisidėdavo prie prūsų, kai šie sukildavo prieš kryžiuo­
-    1 Hipatijaus ( Voluinės) metraštis (spausdintas).
+    Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos
+    net ligi Drevantos pelkių, lengvino kariaujančių su vo­
+    kiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko
+    su tam tikromis pertraukomis 1242—1253 metais1. Ne
+    viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
+    nes turime žinių apie didelį ir galingą jotvingių žygį į
+    Pietų Rusią, Jie tikriausiai ketino pasinaudoti ianuometi­
+    niais to krašto sunkumais: mongolai nuolat puldinėjo, o
+    kunigaikščiai vaidijosi tarpusavyje.
+  citata_rodoma: "1237 metais jis ve­\ndė savo būrius prieš jotvingius į Brastos apylinkes, bet\nitin dideli pavasario potvyniai ;užtvindė upių krantus, ir\njo sumanymas nebuvo įgyvendintas3.\n122\nNuo tų laikų matyti, kad jotvingiai pasitraukė nuo\nBugo—Narevo bei Prūsijos ir Lietuvos sienų link. Taip pat\nprisidėdavo prie prūsų, kai šie sukildavo prieš kryžiuo­\n1 Hipatijaus ( Voluinės) metraštis (spausdintas)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -293,8 +207,7 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - id: c-175473
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be
     to, Traidenis vakarinėje Jotvingijoje paliko visos tautos

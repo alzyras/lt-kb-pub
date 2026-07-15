@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - žemė
   - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -29,50 +28,20 @@ Vytautas apkrikštijo visą Užnerio žemę.
 
 ## Teiginiai
 
-<a id="claim-t-187378"></a>
+<a id="claim-t-199951"></a>
 - t-001
-  global_id: t-187378
+  global_id: t-199951
   teiginys: "Vytautas, įsteigęs Žemaičių vyskupiją, apkrikštijo visą Užnerio žemę ir, metraščio teigimu, įkūrė daug bažnyčių."
   pagrindžia:
-    - c-170385
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautas, įsteigęs Žemaičių vyskupiją, apkrikštijo visą Užnerio žemę ir, metraščio teigimu, įkūrė daug bažnyčių.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didysis kunigaikštis Vytautas
-    atsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­
-    bar iš jūsų neatimu: žiūrėkite sau sveiki į Žemaitiją,
-    o pinigų jums atiduoti neturiu."
-    Bet netrukus Vytautas ėmė rinkti pinigus ir surin­
-    kęs nusiuntė jiems visą auksinų sumą. Paėmę auksą,
-    jie daugiau Žemaitijos nebeužpuldinėjo, paliko ją ra­
-    mybėje, nes buvo Jogailos, ir Vytauto, ir žemaičių su­
-    mušti bei nuniokoti 8 ,
-    Tais pačiais metais Vytautas įsteigė Žemaičių vys­
-    kupiją ir pastatė švento Petro bažnyčią Medininkuose,
-    kuriuos žemaičiai dabar Varniais vadina; paskyrė ka­
-    nauninkus, apdovanojo bažnyčią turtais9  ir įsakė visą
-    Žemaitiją iš stabmeldžių tikėjimo perkrikštyti į krikš­
-    čionių, apkrikštijo visą Užnerio žemę ir įkūrė daug
-    bažnyčiųl0 , todėl Vytautas pramintas antruoju dievo
-    apaštalu", kadangi jis pačius atkakliausius stabmel­
-    džius atvertė į krikščionių tikėjimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+    - c-182939
 
 ## Citatos
 
-- id: c-170385
+- id: c-182939
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 107."
   citata_originali: |
     Didysis kunigaikštis Vytautas
     atsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­
@@ -82,20 +51,20 @@ Vytautas apkrikštijo visą Užnerio žemę.
     kęs nusiuntė jiems visą auksinų sumą. Paėmę auksą,
     jie daugiau Žemaitijos nebeužpuldinėjo, paliko ją ra­
     mybėje, nes buvo Jogailos, ir Vytauto, ir žemaičių su­
-    mušti bei nuniokoti 8 ,
+    mušti bei nuniokoti 8,
     Tais pačiais metais Vytautas įsteigė Žemaičių vys­
     kupiją ir pastatė švento Petro bažnyčią Medininkuose,
     kuriuos žemaičiai dabar Varniais vadina; paskyrė ka­
-    nauninkus, apdovanojo bažnyčią turtais9  ir įsakė visą
+    nauninkus, apdovanojo bažnyčią turtais9 ir įsakė visą
     Žemaitiją iš stabmeldžių tikėjimo perkrikštyti į krikš­
     čionių, apkrikštijo visą Užnerio žemę ir įkūrė daug
-    bažnyčiųl0 , todėl Vytautas pramintas antruoju dievo
+    bažnyčiųl0, todėl Vytautas pramintas antruoju dievo
     apaštalu", kadangi jis pačius atkakliausius stabmel­
     džius atvertė į krikščionių tikėjimą.
-  citata_rodoma: "Tais pačiais metais Vytautas įsteigė Žemaičių vys­\nkupiją ir pastatė švento Petro bažnyčią Medininkuose, \nkuriuos žemaičiai dabar Varniais vadina; paskyrė ka­\nnauninkus, apdovanojo bažnyčią turtais9  ir įsakė visą \nŽemaitiją iš stabmeldžių tikėjimo perkrikštyti į krikš­\nčionių, apkrikštijo visą Užnerio žemę ir įkūrė daug \nbažnyčiųl0 ."
+  citata_rodoma: "Didysis kunigaikštis Vytautas \natsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­\nbar iš jūsų neatimu: žiūrėkite sau sveiki į Žemaitiją, \no pinigų jums atiduoti neturiu.\"\nBet netrukus Vytautas ėmė rinkti pinigus ir surin­\nkęs nusiuntė jiems visą auksinų sumą. Paėmę auksą, \njie daugiau Žemaitijos nebeužpuldinėjo, paliko ją ra­\nmybėje, nes buvo Jogailos, ir Vytauto, ir žemaičių su­\nmušti bei nuniokoti 8 ,\nTais pačiais metais Vytautas įsteigė Žemaičių vys­\nkupiją ir pastatė švento Petro bažnyčią Medininkuose, \nkuriuos žemaičiai dabar Varniais vadina; paskyrė ka­\nnauninkus, apdovanojo bažnyčią turtais9  ir įsakė visą \nŽemaitiją iš stabmeldžių tikėjimo perkrikštyti į krikš­\nčionių, apkrikštijo visą Užnerio žemę ir įkūrė daug \nbažnyčiųl0 , todėl Vytautas pramintas antruoju dievo \napaštalu\", kadangi jis pačius atkakliausius stabmel­\ndžius atvertė į krikščionių tikėjimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187378
+    - t-199951

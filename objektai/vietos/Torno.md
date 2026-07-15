@@ -86,8 +86,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - susijęs iš [[objektai/daiktai/Sienodaužiai.md#claim-t-171482|Sienodaužiai]]: Puldami Gotteswerderį lietuviai naudojo 15 mašinų ir 5 sienodaužius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178805|Kryžiuočių ordinas]]: Vytautas 1410 m. Žalgirio mūšyje palaužė Ordino galybę ir grąžino Žemaitijai laisvę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178861|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178897|Kryžiuočių ordinas]]: Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti priešui kelią.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179083|Kryžiuočių ordinas]]: Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti jiems kelią.
 - susijęs iš [[objektai/grupes/Vokietijos kunigaikščiai.md#claim-t-31373|Vokietijos kunigaikščiai]]: Vokietijos kunigaikščiai galėjo paremti ordiną.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176147|Žemaičiai]]: Po Torno taikos ginčijamų sienų ir žemių klausimų centre buvo Žemaičiai ir didžiosios Sūduvos girios pasidalijimas.
 - susijęs iš [[objektai/ivykiai/Žemaičių krikštas.md#claim-t-35925|Žemaičių krikštas (krikštas)]]: Žalgirio mūšis ir Torno taika galutinai išsprendė Žemaičių krikšto klausimą.
@@ -108,66 +106,11 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - susijęs iš Merkinė: Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.
 - susijęs iš Nemunas: Ordinas primygtinai savinosi visą didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir nusidriekusią per visą vakarų Žemaitiją.
 - susijęs iš Podolija: Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.
-- susijęs iš Podolė: Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.
 - susijęs iš Sūduva: Ordinas primygtinai savinosi visą didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir nusidriekusią per visą vakarų Žemaitiją.
 - susijęs iš Tanenbergas: Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi.
 - susijęs iš Varmijos vyskupystė: 1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai.
 - susijęs iš Veliuona: Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos.
 - susijęs iš Loebau: Liepos 13 d. ordino didysis magistras Ulrichas von Jungingenas atvedė savo pulkus nuo Torno iki Loebau.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Atvykę prie Torno pilies, kur buvo užsidaręs
-    pats didysis magistras, jiedu 1411.II.1 d. padarė taiką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
-- c-002
-  santrauka: 'Po Torno taikos Vytautas iš Jogailos gavo Podoliją ir pasiuntė jam 20 000 grašių kariuomenei apmokėti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Žodžiu šios kontri­
-    bucijos ir, bendrai, mokesčiai bei duoklės didino Vytauto iždą.
-    Gavęs po Torno taikos iš Jogailos Podoliją, pasiuntė jam iš sa­
-    vo iždo 20.000 grašių^2 ), kurie lenkams buvo reikalingi mokėti
-    kariuomenei.
-    Taip maždaug atrodo Vytauto žemės ūkis ir jam mokami
-    mokesčiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Po 1411 m. Torno sutarties Vytauto ir Ordino santykiai nepagerėjo, nors sutartyje susitarta dėl laisvos savitarpio prekybos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas dėl to net pasiskundė Vakarų Europos ku­
-    nigaikščiams, kad Ordinas neleidžia pirkliams susisiekti su Lie­
-    tuva ne tik per jo teritoriją, bet ir jūromis1 2).
-    Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties
-    (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio
-    prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
-    aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-161976
@@ -182,8 +125,8 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178215
     - t-178213
+    - t-178215
 
 - id: c-161978
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

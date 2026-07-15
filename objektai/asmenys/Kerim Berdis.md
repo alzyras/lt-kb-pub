@@ -57,94 +57,31 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   teiginys: "Kerim Berdis, padrąsintas ankstesnės pergalės, ryžtingai su kariuomene užpuolė brolį netoli Volgos."
   pagrindžia:
     - c-169415
+
+<a id="claim-t-196522"></a>
+- t-004
+  global_id: t-196522
+  teiginys: "Kojelavičiaus pasakojime Kerim Berdis, būdamas galingesnis už brolius, jėga paėmė tai, ko negalėjo pasiekti geruoju."
+  pagrindžia:
+    - c-169414
 - susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-184843|Tochtamyšas]]: Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą.
 - susijęs iš Volga: Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį.
 - susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-184843|Tochtamyšas]]: Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą.
 - susijęs iš Volga: Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo pasiekti taikiai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Užvolgio skitai,
-    netekę mirusio chano Saladi-
-    1419 m eta i
-    no, suskilo atskiromis grupė-
-    S k itų  ta u to m s V y ta u -
-    mis: vieni vieną, kiti kitą
-    tas p a s k y r ė  v a ld o v u s
-    mirusio valdovo sūnų siūlė
-    sosto įpėdiniu. Kerim Berdis,
-    galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
-    pasiekti geruoju. Jo brolis Tochtamyšas, nesitikėdamas
-    savo jėgomis nieko laimėti ir nepajėgdamas susitaikyti
-    su likimu ar pašalinti varžovą, pabėgo pas Vytautą kar­
-    tu su svarbiausiais savo šalininkais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kerim Berdis sutelkė stiprią kariuomenę, mūšyje išsklaidė Tochtamyšo dalinius ir nužudė brolį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nie­
-    ko gero nesusilaukė Tochtamyšas, mat tas, kuris,
-    398
-
-    ## Puslapis 397
-
-    kopdamas į statų kalną, pasiekia saugią viršukalnę,
-    lengviau nustumia besiveržiantį aukštyn, nei leidžiasi
-    nustumiamas. Kerim Berdis, sutelkęs stiprią kariuome­
-    nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo
-    dalinius, o patį brolį nužudė. 2uvus Tochtamyšui, tre­
-    čias brolis Jerim Berdis, neišgąsdintas brolio likimo ir
-    kraujo praliejimo, taip pat pabėgo pas Vytautą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Kerim Berdis, padrąsintas ankstesnės pergalės, ryžtingai su kariuomene užpuolė brolį netoli Volgos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šio jėgos smarkiai išaugo. Tačiau Kerim Ber­
-    dis nė trupučio nesutriko, drąsos jam teikė prisimini­
-    mai apie ankstesnę pergalę. Jis ryžtingai užpuolė su
-    kariuomene brolį netoli Volgos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-169413
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 396"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Užvolgio skitai,
     netekę mirusio chano Saladi-
     1419 m eta i
     no, suskilo atskiromis grupė-
-    S k itų  ta u to m s V y ta u -
+    S k itų ta u to m s V y ta u -
     mis: vieni vieną, kiti kitą
-    tas p a s k y r ė  v a ld o v u s
+    tas p a s k y r ė v a ld o v u s
     mirusio valdovo sūnų siūlė
     sosto įpėdiniu. Kerim Berdis,
     galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
@@ -164,36 +101,42 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Nie­
-    ko gero nesusilaukė Tochtamyšas, mat tas, kuris,
-    398
-
-    ## Puslapis 397
-
-    kopdamas į statų kalną, pasiekia saugią viršukalnę,
-    lengviau nustumia besiveržiantį aukštyn, nei leidžiasi
-    nustumiamas. Kerim Berdis, sutelkęs stiprią kariuome­
-    nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo
-    dalinius, o patį brolį nužudė. 2uvus Tochtamyšui, tre­
-    čias brolis Jerim Berdis, neišgąsdintas brolio likimo ir
-    kraujo praliejimo, taip pat pabėgo pas Vytautą.
+    Kerim Berdis,
+    galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
+    pasiekti geruoju. Jo brolis Tochtamyšas, nesitikėdamas
+    savo jėgomis nieko laimėti ir nepajėgdamas susitaikyti
+    su likimu ar pašalinti varžovą, pabėgo pas Vytautą kar­
+    tu su svarbiausiais savo šalininkais. Vytautas, ne vieną
+    kartą ligi tol patyręs šios tautos tvirtą palankumą ir
+    sulaukęs karo metais pagalbos, suprato, jog valstybei
+    būsianti didelė nauda, jeigu palenks į save šios tautos
+    vadą, jį užstodamas. Štai todėl maloniai ir noriai priėmė
+    Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu­
+    les iškilmes, uždėjo jam perlais bei brangakmeniais nu­
+    sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap­
+    rastai vadinamu caru) ir pakėlė į valdovus.
+  citata_rodoma: "Kerim Berdis, \ngalingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo \npasiekti geruoju. Jo brolis Tochtamyšas, nesitikėdamas \nsavo jėgomis nieko laimėti ir nepajėgdamas susitaikyti \nsu likimu ar pašalinti varžovą, pabėgo pas Vytautą kar­\ntu su svarbiausiais savo šalininkais. Vytautas, ne vieną \nkartą ligi tol patyręs šios tautos tvirtą palankumą ir \nsulaukęs karo metais pagalbos, suprato, jog valstybei \nbūsianti didelė nauda, jeigu palenks į save šios tautos \nvadą, jį užstodamas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186053
+    - t-196522
 
 - id: c-169415
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 397"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Šio jėgos smarkiai išaugo. Tačiau Kerim Ber­
-    dis nė trupučio nesutriko, drąsos jam teikė prisimini­
-    mai apie ankstesnę pergalę. Jis ryžtingai užpuolė su
-    kariuomene brolį netoli Volgos.
+    2uvus Tochtamyšui, tre­
+    čias brolis Jerim Berdis, neišgąsdintas brolio likimo ir
+    kraujo praliejimo, taip pat pabėgo pas Vytautą. Jo šir­
+    dyje degė kur kas galingesnis garbės troškimas nei bai­
+    mė. Beje, ir Vytautas ne tiek paisė ką tik patirtos ne­
+    sėkmės, kiek rūpinosi asmenine garbe ir nauda, norė­
+    damas savo nuožiūra skirti šioms karingoms tautoms
+    valdovus.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

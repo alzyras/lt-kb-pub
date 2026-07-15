@@ -51,32 +51,13 @@ Nenurodyta
   teiginys: "Narbutas Kiraitį apibūdina kaip dievaitį, saugojusį prie ežero buvusios pilies vyšnių medelius, kuriam aukota sviedžiant papjautus gaidžius į medį."
   pagrindžia:
     - c-172833
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Kiraitį apibūdina kaip dievaitį, saugojusį prie ežero buvusios pilies vyšnių medelius, kuriam aukota sviedžiant papjautus gaidžius į medį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kirais (Kimis)
-    Dievaitis, saugantis vienos pilies, buvusios prie ežero, vyš­
-    nių medelius. Jo pagalbos, be abejo, prašyta norint pagausinti
-    vyšnių sodus. Į medį sviesdavo papjautus gaidžius, statydavo
-    ant jų uždegtas žvakes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172833
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 171"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 171."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kirais (Kimis)
     Dievaitis, saugantis vienos pilies, buvusios prie ežero, vyš­

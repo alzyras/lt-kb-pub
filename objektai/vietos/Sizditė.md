@@ -7,13 +7,13 @@ datos:
   - '1314 m.'
 date_start: '1314'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -70,29 +70,6 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58804|pilėnas pilėnai]]: 1314 m. Medininkų valsčiaus Sizditės pilėnai narsiai priešinosi maršalo Henriko kariuomenės puolimui.
 - susijęs iš [[objektai/asmenys/Rebodas iš Izenburgo.md#claim-t-60423|Rebodas iš Izenburgo]]: Brolis Rebodas iš Izenburgo žuvo 1314 m. kovoje prie Sizditės pilies Medininkų valsčiuje.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1314 m. apie vasario 2 d. maršalas Henrikas su kariuomene puolė Sizditės pilį Medininkų valsčiuje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    321 (314). Dar apie tą patį
-
-       Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
-    maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
-    pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
-    lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
-    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno  ir brolio Rebodo iš
-    Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
-    ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
-    jas nusiaubė, degindami ir piešdami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Sizditės pilies vardas galimai sietinas su Spasčių kalno prie Girgždūtės vardu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -115,16 +92,14 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - id: c-59270
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     321 (314). Dar apie tą patį
-
-       Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
+    Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
     maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
     pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
     lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
-    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno  ir brolio Rebodo iš
+    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno ir brolio Rebodo iš
     Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
     ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
     jas nusiaubė, degindami ir piešdami.
@@ -139,14 +114,19 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - id: c-59271
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pilis, kaip spėjama, buvusi Girgždutės
-    piliakalnyje (Valančius M., Raštai, 1, p. 379; Łowmiański H., Studja..., 2, p. 214); Telšių
-    rj. išlikę Girgždutės  ir Pagirgždūčio piliakalniai (LAA, 2, p. 65, 121— 122). Galimas
-    dalykas, iškreiptas Sizditės pilies vardas sietinas su Spasčių kalno (prie Girgždūtės)
-    vardu, plg., be to, netolimo Sprūdės piliakalnio vardą—LAA, 2, p. 161, Nr. 717).
+    Nieko šiuo būdu nepešę, galop jie 17
+    dieną, kai jau ketino pasitraukti, sužinoję, kad artėja magistras su didele kariuomene,
+    priėjo pilies gynybinį griovį ir ten prinešė malkų, šieno, stagarų ir šiaudu, norėdami žūt
+    būt pilį sudeginti. Tokia galybė benešiojančių ir bepuldinėjančių netikėlių buvo nukauta ir
+    mirtinai sužeista, kad net nežinau, kiek iš tikrųjų, todėl jie, nepasiekę tikslo, ir pasitraukė
+    sudeginę apgulos mašinas.
+    325 (318). Apie Junigedos papilio sudeginimą 1315 m. spalio 12
+    Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe ir
+    sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją
+    išvaduoti.
+  citata_rodoma: "570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pilis, kaip spėjama, buvusi Girgždutės\npiliakalnyje (Valančius M., Raštai, 1, p. 379; Łowmiański H., Studja..., 2, p. 214); Telšių\nrj. išlikę Girgždutės  ir Pagirgždūčio piliakalniai (LAA, 2, p. 65, 121— 122). Galimas\ndalykas, iškreiptas Sizditės pilies vardas sietinas su Spasčių kalno (prie Girgždūtės)\nvardu, plg., be to, netolimo Sprūdės piliakalnio vardą—LAA, 2, p. 161, Nr. 717)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

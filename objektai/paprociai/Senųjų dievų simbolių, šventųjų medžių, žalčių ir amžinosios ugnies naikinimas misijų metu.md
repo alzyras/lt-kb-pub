@@ -7,14 +7,14 @@ datos:
   - '1583 m.'
 date_start: '1583'
 date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinė-praktika
   - paprotys
   - tikėjimas
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -64,27 +64,8 @@ Nenurodyta
   teiginys: "Narbutas vaizdavo, kad liaudis jėzuitų pamokymus priėmė nuolankiai ir nesipriešino šventųjų ąžuolų bei girių kirtimui."
   pagrindžia:
     - c-172778
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašė, kad 1583 m. jėzuitų misionieriai Žemaičiuose ir Livonijoje naikino senųjų dievų simbolius, amuletus ir šventuosius medžius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    1583 metais jėzuitai į Žemaičius ir į Livoniją pa­
-    siuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiu­
-    lius. Ten jie rado pagonybės likučių ir juos skrupulingai išnaiki­
-    no. Tai buvo senųjų dievų simboliai: nežinomos rūšies gyvūnų
-    kaulai, įvairūs amuletai, sukabinti ant namų sienų ir dvivėrių
-    durų. Tuos likučius misionieriai trypė kojomis, mėtė į ugnį. Šven­
-    tuosius medžius įsakė nukirsdinti, žalčius išžudyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas vaizdavo, kad liaudis jėzuitų pamokymus priėmė nuolankiai ir nesipriešino šventųjų ąžuolų bei girių kirtimui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -109,8 +90,7 @@ Nenurodyta
 - id: c-172777
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 368"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     1583 metais jėzuitai į Žemaičius ir į Livoniją pa­
     siuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiu­
@@ -129,16 +109,18 @@ Nenurodyta
 - id: c-172778
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 369"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
-    kunigas Jeronimas Kninskis. Liaudis jų pamokymus priimdavo
-    nuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­
-    lų ir šventųjų girių iškirtimui. Ordino istorikas net aprašo įvykį,
-    kai, nukirtus didžiu lį ąžuolą, iš jo drevės su sparnais didžiausiu
-    triukšmu ir bildesiu išskrido (evolavit), nepaprasto dydžio rupū­
-    žė.
+    Kraštuose, kur gyveno lietuvių genties tautos, vienur kitur
+    matoma kai kada gana aukštų, nors ne taip dažnai pasitaikan­
+    čių pilkapi ų. Lietuvoje pilkapiai randami labai retai, dažnai sly­
+    pi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­
+    mę*. Latviai savo krašte iki šiol rodo didelius pilkapius, ku­
+    riuos savo padavimuose apie milžinus arba didelius žmones
+    vadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­
+    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
+    tose.
+  citata_rodoma: "Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir\nkunigas Jeronimas Kninskis. Liaudis jų pamokymus priimdavo\nnuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­\nlų ir šventųjų girių iškirtimui. Ordino istorikas net aprašo įvykį,\nkai, nukirtus didžiu lį ąžuolą, iš jo drevės su sparnais didžiausiu\ntriukšmu ir bildesiu išskrido (evolavit), nepaprasto dydžio rupū­\nžė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -12,14 +12,11 @@ datos:
   - '2026 m.'
 date_start: '1801'
 date_end: '2026'
-sukurta: ''
-atnaujinta: ''
-tags:
-  - vieta
-  - regionas
 amziai:
   - 'XIX'
   - 'XXI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,6 +29,9 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+tags:
+  - vieta
+  - regionas
 ---
 # Vilniaus gubernija
 
@@ -82,13 +82,6 @@ media_all_json: |-
   teiginys: "Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis."
   pagrindžia:
     - c-115222
-
-<a id="claim-t-188857"></a>
-- t-007
-  global_id: t-188857
-  teiginys: "Narbutui istorinė Lietuva apėmė Vilniaus, Kauno, Gardino ir Minsko gubernijas, o „litvinais“ vadinti tenykščiai katalikų bajorai."
-  pagrindžia:
-    - c-171746
 - susijęs iš Kauno gubernija: 1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.
 - susijęs iš [[objektai/asmenys/Jurgis Šaulys.md#claim-t-19033|Jurgis Šaulys]]: Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
@@ -110,132 +103,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/Vidivarijai nomen gentile nomen sociale.md#claim-t-86577|Vidivarijai nomen gentile nomen sociale]]: Vidivarijų vardas, Jornandeso duotas tautai prie Vyslos žiočių, aiškintas kaip įvairių tautų sambūrio nomen sociale.
 - susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54798|Vidivarijai]]: Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Minėtų grupuočių teritorinės aspiracijos apėmė istorines etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai nebuvo
-    monolitinės stovyklos, nes rasdavosi įvairių tranzitinių grupelių ir iš kitų
-    politinių elementų.
-    Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
-    valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
-    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
-    Suvalkų ir Gardino gubernijose, dalis Kuršo. Kadangi Lenkijos ir Lietu-
-    vos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams
-    vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo
-    idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
-    priklausomybės siekis etnografiniu pagrindu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mat baltarusių šnekta pragma-
-    tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
-    ponus bei kunigus, ir rusų valdžios atstovus. Didesnį pagreitį šis procesas
-    įgis XIX a. antrojoje pusėje, jį sustabdys atsiradę autoritetingi etninių lie-
-    tuvių tautinio sąjūdžio veikėjai, daugiausia kunigai.
-    1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies
-    apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri-
-    skirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni-
-    joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-
-    berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
-    Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-001
-
-- c-003
-  santrauka: '1840 m. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1840 m. panaikintas
-    Lietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas
-    iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
-    traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
-    Vakarų kraštu.
-    Pasikeitė valdžios kursas ir bažnyčios atžvilgiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: '1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
-    Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
-    2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A. Sme-
-    tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
-    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
-    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
-    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
-    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
-    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
-    Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
-    tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Teritoriniai klausimai taip pat buvo sprendžiami palankiai. Lietuviai pre-
-    tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
-    no gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo
-    lietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija,
-    A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
-    ta išties mažai, priskirti Lietuvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-006
-  santrauka: 'Narbutui istorinė Lietuva apėmė Vilniaus, Kauno, Gardino ir Minsko gubernijas, o „litvinais“ vadinti tenykščiai katalikų bajorai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    9
-
-    ## Puslapis 9
-
-    savarankišką kultūrinio palikimo vertinimą. Istorinė Lietuva -
-    tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -
-    tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
-    visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 ## Citatos
 
 - id: c-115218
@@ -284,8 +151,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-126080
     - t-126076
+    - t-126080
 
 - id: c-115220
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -348,23 +215,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-126081
-
-- id: c-171746
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    9
-
-    ## Puslapis 9
-
-    savarankišką kultūrinio palikimo vertinimą. Istorinė Lietuva -
-    tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -
-    tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
-    visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188857

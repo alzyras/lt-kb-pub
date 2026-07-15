@@ -57,7 +57,7 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
 <a id="claim-t-188487"></a>
 - t-003
   global_id: t-188487
-  teiginys: "Vytautas Berenis Teodorą Narbutą pavadino lietuvių mitologijos tėvu ir nepagydomu svajotoju bei romantiku."
+  teiginys: 'Vytautas Berenis Teodorą Narbutą pavadino lietuvių mitologijos tėvu ir nepagydomu svajotoju bei romantiku.'
   pagrindžia:
     - c-171377
 - susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.
@@ -69,46 +69,7 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
 - susijęs iš [[objektai/autoriai/Skirmantė Ramanauskaitė.md#claim-t-81964|Skirmantė Ramanauskaitė]]: Skirmantė Ramanauskaitė buvo 2007 m. lietuviško „Vilniaus miesto istorijos“ leidimo redaktorė.
 - susijęs iš [[objektai/grupes/Lietuvos Respublikos kultūros ministerija.md#claim-t-86805|Lietuvos Respublikos kultūros ministerija]]: Lietuvos Respublikos kultūros ministerija parėmė 2007 m. lietuviško leidimo „Vilniaus miesto istorija“ leidybą.
 - susijęs iš [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija.md#claim-t-86806|Lietuvos tūkstantmečio minėjimo direkcija]]: Knyga „Vilniaus miesto istorija“ 2007 m. išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus.
-- susijęs iš Vilnius: Mykolas Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei Vilniaus kultūrinio gyvenimo dalyvis.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    V., 1990, t. p. 39.
-    12 Kirkoras A. H. Pasivaikščiojimai po Vilnių ir jo apylinkes, V., 1991, p. 17.
-    13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
-    p. 128.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytautas Berenis
-    Mykolas Balinskis -
-    Vilniaus miesto istorikas
-    1*1 ykolo Balinskio (1794-1864) gyvenimas ir veikla atspindė­
-    jo plačią ir sudėtingą pirmosios XIX a. pusės Lietuvos istorijos
-    įvykių raidą. Šiuo atžvilgiu jam pasisekė. Gimęs Lenkijos-Lie­
-    tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
-    tiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­
-    lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
-    bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
-    gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Vytautas Berenis Teodorą Narbutą pavadino lietuvių mitologijos tėvu ir nepagydomu svajotoju bei romantiku.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -180,32 +141,3 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54652
-
-- id: c-171377
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Dabar mes iš naujo atrandame nežinomą bajoriškąją Lie­
-    tuvos kultūrą. T. Narbuto LTI -  viena iš pirmųjų pažinčių su ja.
-    Vytautas Berenis
-
-    ## Puslapis 15
-
-    TEODORAS NARBUTAS -
-    LIETUVIŲ MITOLOGIJOS TYRINĖTOJAS
-    Teodorą Narbutą visai pagrįstai galima vadinti lietuvių mi­
-    tologijos tėvu, tėvu, kurį, dar maži būdami, vaikai gerbė ir my­
-    lėjo, o bręsdami, kaip dažnai esti, išjuokė ir išsižadėjo stebė­
-    damiesi, koks jis atsilikęs ir senamadiškas, tik subrendę pra­
-    dėjo suvokti, kad vaikai negali pasirinkti savo tėvų ir kad tas
-    jų pašiepiamas tėtušis ne toks jau blogas ir neišmanantis -  kaip
-    ir visi kiti tėvai: labai darbštus, mylintis, todėl gal kiek ir nai­
-    vokas ir, kas tiesa, tai tiesa, nepagydomas svajotojas ir roman­
-    tikas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188487

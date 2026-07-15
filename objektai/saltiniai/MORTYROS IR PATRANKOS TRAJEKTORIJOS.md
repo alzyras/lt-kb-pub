@@ -34,19 +34,6 @@ p. 119, „MORTYROS IR PATRANKOS TRAJEKTORIJOS“, Andžej Geglis, dail.
   teiginys: "Iliustracijos „Mortyros ir patrankos trajektorijos“ dailininkas buvo Andžej Geglis."
   pagrindžia:
     - c-43287
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 119, „MORTYROS IR PATRANKOS TRAJEKTORIJOS“, Andžej Geglis, dail. Andžej Geglis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -44,26 +44,6 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
   pagrindžia:
     - c-32723
 - susijęs iš [[objektai/asmenys/Jurgis Galminas.md#claim-t-29024|Jurgis Galminas]]: Jurgis Galminas buvo vienas iš Vytauto didikų, vadovavusių į Konstancą atsiųstiems pakrikštytiems Žemaičių bajorams.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Grūdų sulaikymas Vytautui akivaizdžiai parodė, ką reiškė
-    neturėjimas Nemuno žiočių, ir tai paskatino jį veikti. Jo pareigū­
-    nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
-    sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­
-    navos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių
-    bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­
-    gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32723

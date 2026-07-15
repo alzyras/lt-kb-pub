@@ -60,41 +60,18 @@ Nenurodyta
   teiginys: "1219 m. Živinbudo valdoma priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir siekiant ginti prūsų kraštą."
   pagrindžia:
     - c-63699
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1219 m. Živinbudo valdoma priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir siekiant ginti prūsų kraštą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
-    ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
-    yra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.
-      „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
-    (t. y. 1209— 1210 m.)22. Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
-    žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,
-    Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
-    1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
-    ir prūsų kraštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63699
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 10"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
     ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
     yra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.
-      „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
+    „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
     (t. y. 1209— 1210 m.)22. Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
     žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,
     Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)

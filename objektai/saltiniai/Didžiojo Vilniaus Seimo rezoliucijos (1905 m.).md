@@ -40,25 +40,6 @@ Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyriu
   teiginys: "Į Didįjį Vilniaus Seimą susirinko apie 2 000 delegatų iš beveik visos etnografinės Lietuvos."
   pagrindžia:
     - c-23758
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilniaus Seimu, vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis. Į jį
-    susirinko apie 2 000 delegatų iš bemaž visų etnografinės Lietuvos vieto-
-    vių, atstovaujančių visiems visuomenės sluoksniams, visoms politinėms
-    srovėms ir tendencijoms, atvyko net iš tolimesnių Baltarusijos valsčių,
-    dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos
-    Lietuvoje delegatai. Kulminacinis suvažiavimo įvykis buvo rezoliucijos
-    dėl politinės autonomijos Lietuvai suteikimo priėmimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

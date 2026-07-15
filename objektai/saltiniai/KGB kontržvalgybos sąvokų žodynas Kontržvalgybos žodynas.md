@@ -44,29 +44,6 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
   teiginys: "KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu."
   pagrindžia:
     - c-44996
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1940-1950 m. Vakarų Ukrainoje ir Baltijos šalių teritorijoje agentais-smogikais papras-
-    tai būdavo užverbuojami nacionalistinio pogrindžio nariai.
-
-    Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
-
-    Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja
-    kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
-    jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
-
-    Antanas Starkus-Montė (1948 m. spalis -
-    1949 m. lapkričio 1 d.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

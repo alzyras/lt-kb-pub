@@ -51,24 +51,6 @@ Lewicki, A.: Kiedy Witold został wielkiem księciem Litwy, KH, t.
   teiginys: "A. Lewicki parašė straipsnį „Kiedy Witold został wielkiem księciem Litwy“, paskelbtą KH 1894 m."
   pagrindžia:
     - c-55077
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    : Vytauto šeimyna, Praeitis,
-    t. 2, 1933, 183-224 p. (Vytauto sūnų klausimas). — Kochanowski, J. :
-    Witold, w. książę litewski, Lwów 1900.—Lewicki, A.: Kiedy Witold
-    został wielkiem księciem Litwy, KH, t. 8, 1894, 424-436 p. — Lohmeyeb,
-    K. : Witowt, Grossfürst von Litauen, MLLG, II, 4, 1887, 203-230 p.-—
-    Łowmiański, H. : Witold, wielki książę litewski, Vilnius 1930.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -89,4 +71,5 @@ Lewicki, A.: Kiedy Witold został wielkiem księciem Litwy, KH, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-54132
     - t-54133

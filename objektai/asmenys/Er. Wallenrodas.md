@@ -35,24 +35,6 @@ Wallenrodas, daug aukštųjų pareigūnų ir komtūrų.
   teiginys: "Ordino maršalas Wallenrodas buvo tarp 200 kritusių kryžiuočių riterių."
   pagrindžia:
     - c-28907
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ordino maršalas Wallenrodas buvo tarp 200 kritusių kryžiuočių riterių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tarp 200
-    kritusiųjų kryžiuočių riterių buvo pats didysis magistras, maršalas
-    Er. Wallenrodas, daug aukštųjų pareigūnų ir komtūrų.
-    Sumuštieji, kaip galėdami, bėgo į savo stovyklą (prie Froge­
-    nau) ir ten slėpėsi gurguolėje, bet ir čia jų daug žuvo^28.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

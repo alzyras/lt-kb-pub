@@ -52,23 +52,6 @@ Nenurodyta
   teiginys: "Abiejų Tautų Respublikos bendras Seimas buvo aukščiausia šalia valdovo valdžios institucija ir rinko karalių."
   pagrindžia:
     - c-23134
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iš tikrųjų šioje sąjungoje vyravo
-    Lenkija. Aukščiausia (šalia valdovo) valdžios institucija – bendras Sei-
-    mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva
-    turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
-    buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

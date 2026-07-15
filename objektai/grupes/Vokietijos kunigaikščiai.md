@@ -41,24 +41,6 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
   teiginys: "Vokietijos kunigaikščiai galėjo paremti ordiną."
   pagrindžia:
     - c-33366
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pvz., Zig­
-    manto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė
-    Lenkiją su 10 vėliavų^38. Vokietijos kunigaikščiai galėjo paremti
-    ordiną.
-    Torno taika ordino ir Lenkijos santykiuose vėl įgalino kryžiuo­
-    čiams naudingus Raciąžo susitarimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

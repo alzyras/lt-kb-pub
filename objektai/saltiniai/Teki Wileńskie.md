@@ -41,27 +41,6 @@ Adomas Honorijus Kir­ koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplank
   teiginys: "Adomas Honorijus Kirkoras 1857–1858 m. leido „Teki Wileńskie“."
   pagrindžia:
     - c-84460
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Adomas Honorijus Kirkoras 1857–1858 m. leido „Teki Wileńskie“.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
-    mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
-    meninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­
-    tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
-    institucija, sutelkusi krašto visuomenę. Adomas Honorijus Kir­
-    koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplankus), lie­
-    tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­
-    tiečių kilęs švietėjas Mikalojus Akelaitis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

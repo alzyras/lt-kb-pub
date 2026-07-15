@@ -57,28 +57,6 @@ Nenurodyta
   teiginys: "1995 m. pabaigos bankų krizė sustiprino Lietuvos bankų sektorių, sumažino blogų paskolų portfelį ir sustiprino bankų priežiūrą."
   pagrindžia:
     - c-67001
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1995 m. pabaigos bankų krizė sustiprino Lietuvos bankų sektorių, sumažino blogų paskolų portfelį ir sustiprino bankų priežiūrą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šalį sukrėtė stambiųjų Lietuvos bankų griūtis, kulminaciją pasiekusi
-    1995 m. pabaigoje, kai paskelbtas moratoriumas dviem dideliems komer-
-    ciniams bankams, šalies biudžetas patyrė nemažų nuostolių, nes bankų
-    griūtis tiesiogiai paveikė apie 30 proc., netiesiogiai – iki 70 proc. šalies
-    ūkio subjektų, pakenkė Lietuvos ekonomikos ir finansų raidai, pakirto
-    pasitikėjimą bankais šalyje ir užsienyje. Nors bankų veiklos sukrėtimai
-    Lietuvoje, kaip ir kitose Vidurio ir Rytų Europos šalyse, turėjo ir teigiamų
-    pasekmių: bankų sektorius sustiprėjo, išlikę bankai veikė apdairiau, su-
-    mažėjo blogų paskolų portfelis, sustiprėjo bankų priežiūra.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

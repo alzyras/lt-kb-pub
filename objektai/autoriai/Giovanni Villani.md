@@ -43,34 +43,6 @@ Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų
   teiginys: "Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši."
   pagrindžia:
     - c-84036
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ži­
-    nome iš metraštininkų pasakojimų,
-    kad anglai pirmieji panaudojo šau­
-    namuosius ginklus 1346 metais rug­
-    pjūčio 26 dieną mūšyje prie Kreši,
-    vadinamosiomis bombardomis plie­
-    kę prancūzų karius. Buvo tai tam
-    tikra rūšis pabūklų arba patrankų,
-    įtaisytų ant vežimų, kurios, svaidy-
-    damosios ugnies išmetamomis ma­
-    žomis geležies kulkomis, baisaus
-    trenksmo lydimomis, daugiau buvo
-    tinkamos žirgams gąsdinti. Žr. G i o-
-    vanni V i 11 a n i, Storia Fiorent.
-    Lib. XII, c. 65, p. 947, ir c. 66, p. 948.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

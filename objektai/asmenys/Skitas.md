@@ -39,7 +39,6 @@ Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir ski
 - susijęs iš Ilyrija: Narbuto aiškinimu, baimė dėl skitų ar po Skitų karalystės žlugimo judėjusių genčių vertė šią grupę trauktis ir įsikurti Ilyrijoje.
 - susijęs iš [[objektai/asmenys/Mengli Girėjus.md#claim-t-195002|Mengli Girėjus]]: Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir skitų genties protėviu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -67,19 +66,19 @@ Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir ski
 - id: c-174350
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 69"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 69."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Bu­
-    dinai, kaip jau sakėme, yra senovės Azijos skitų kasta,
-    gyvenusi prie Arakso upės, kuri prasideda kartu su Euf­
-    ratu viename kalne4. Iš senovinių Berosijaus5 padavi­
-    mų žinome, kad Araksa, Jonušo duktė, buvo motina Ski­
-    to, skitų genties protėvio6, todėl ir pirmykštė jų gyvena'-
-    moji vieta nurodoma prie armėnų Arakso. Ir iš tiesų
-    budinai kilę būtent iš ten: geografas Nubenskis*** (5
-    Klimate, 6 dalyje) rašo: „Armėnijoje yra dvi didelės
-    upės: viena Ros, kita Kor, arba Cyrus.
+    ir tinkama laivybai, prasideda netoli Kaukazo kalno, su­
+    silieja su upe Ros, arba Araksu, ir įteka į Chazarų, arba
+    KaspijOiS, jūrą1. Iš pono Hamerio tyrimų ir ištraukų apie
+    Rytus2 matome, jog arabai Rass, arba Ross3, vadino Arak-
+    so upę, ištekančią iš Kiliklo kalnų, esančių prie 67 laips­
+    nių ilgumos ir 41 laipsnio šiaurės platumos, sruvenančią
+    per Varnamo žemę ir susiliejančią su Kūra4. Anot Korano
+    aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie
+    Ross upės; Korane ji vadinama Ashabir-Ross; ji išsisklai­
+    dė žiloje senovėje.
+  citata_rodoma: "Bu­\ndinai, kaip jau sakėme, yra senovės Azijos skitų kasta,\ngyvenusi prie Arakso upės, kuri prasideda kartu su Euf­\nratu viename kalne4. Iš senovinių Berosijaus5 padavi­\nmų žinome, kad Araksa, Jonušo duktė, buvo motina Ski­\nto, skitų genties protėvio6, todėl ir pirmykštė jų gyvena'-\nmoji vieta nurodoma prie armėnų Arakso. Ir iš tiesų\nbudinai kilę būtent iš ten: geografas Nubenskis*** (5\nKlimate, 6 dalyje) rašo: „Armėnijoje yra dvi didelės\nupės: viena Ros, kita Kor, arba Cyrus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

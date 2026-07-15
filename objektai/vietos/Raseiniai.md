@@ -16,14 +16,14 @@ datos:
   - '1836 m.'
 date_start: '1322'
 date_end: '1836'
+amziai:
+  - 'XIV'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - dvaras
-amziai:
-  - 'XIV'
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -113,7 +113,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - susijęs iš S. Stanevičiaus laiškas T. Narbutui (1836-04-16 28): Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose rašytu laišku Teodorui Narbutui patvirtino Narbuto minimą teiginį.
 - susijęs iš Ariogala: 1352 m. vasarį Kniprodė smarkiai teriojo Ariogalos, Gaižuvos ir Raseinių sritis.
 - susijęs iš Ariogala: 1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.
-- susijęs iš Ariogala: Žemaitiją nusiaubęs priešas sulygino su žeme Ariogalos, Vaikių, Raseinių ir Klogėnų valsčius.
+- susijęs iš Ariogala: Kojelavičiaus pasakojime priešas, nusiaubęs Žemaitiją, su žeme sulygino Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.
 - susijęs iš Kražių apygarda: Kražių apygardoje šios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
 - susijęs iš Kretinga: IV Kražių apygardoje apygardėlinės mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
 - susijęs iš Pajūris: Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėja jį buvus Raseinių apskrityje prie Jūros upės.
@@ -202,155 +202,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - susijęs iš [[objektai/zodynas/Regentas.md#claim-t-192327|Regentas]]: Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.
 - susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192189|Russ ir Ross]]: Narbuto aprašytoje dainelėje žodis Russ siejamas su gyvenimo gimtojoje sodyboje laime ir nauda.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet jau 1352.II. Kniprodė smarkiai
-    teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus
-    polaidžio jis turėjo gana nuostolingą grįžimą^12.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-002
-  santrauka: 'Raseinių sritis buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai darė taiką su Vytautu ir Ordinu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Viso Žemaičių krašto vardu pavardėmis surašyti
-    31 atstovas iš septynių Žemaičių aukštumos sričių (Ariogalos, Kal­
-    tinėnų, Knituvos, Kražių, Medingėnų, Raseinių ir Viduklės) darė
-    taiką su Vytautu ir ordinu. Jie žadėjo « padėti prieš visus jų prie­
-    šus ». O tarp Žemaičių ir Prūsų buvo sutarta laisva prekyba. Šita
-    sutartimi su Žemaičių kilmingaisiais Vytautas kilo ordino akyse,
-    nes parodė savo įtaką Žemaičiuose, kuriuos jis — be pačių Žemaičių
-    žinios — jau buvo antrukart ordinui pažadėjęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-003
-  santrauka: 'Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vaikių krašte buvo šventoji giria, ku­
-    ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­
-    tais vieną naktį buvo sudeginta iki pamatų, visi gyventojai
-    išžudyti. Baigusi kruvinus darbus, ginkluota palyda kitą die­
-    ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
-    Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­
-    vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­
-    vių Krivaičio pagrindinė buveinė).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Raseiniuose buvo įkurta pijarų mokykla.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pijarai, niekuo daugiau neužsiimdami,
-    kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
-    tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos
-    kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-
-    tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
-    Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
-    leranavoj, Vitebske, Želviuose ir dar vienur kitur.
-
-    #### 6.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-005
-  santrauka: 'Bermontininkai, užėmę Šiaurės Lietuvą, judėdami į pietus pasiekė Raseinius.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos
-    kariuomenės
-    pėstininko
-    žieminė kepurė
-
-    Lietuvos kariuomenės dalinius į rytus,
-    palaipsniui užiminėjo svarbias gele-
-    zinkelio stotis ir strategiškai svarbius
-    kelius. Bermontininkų rankose atsi-
-    dūrė Šiaurės Lietuva, palaipsniui judė-
-    dami į pietus bermontininkai pasiekė
-    net Raseinius. Lietuvos vyriausybė fak-
-    tiškai nustojo kontroliuoti didžiąją
-    dalį Šiaurės ir Vakarų Lietuvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-006
-  santrauka: 'Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Prie jų prisidėjo taip pat ir uolesni seno
-    lietuvių tikėjimo garbintojai, kurie buvo priešingi įvedamam ka­
-    talikų tikėjimui. Sukilimas prasidėjo Raseinių apskrityje, kur
-    buvo sudegintas Sudeikių dvaras, atsiliepė Airiogaloje, Kra­
-    žiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas
-    Žemaičių vietas. Daugiausia sukilėliai degino dvarus ir žudė
-    jų savininkus; buvo užpuolę Klaipėdą ir sudegino Liepoją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-007
-  santrauka: 'Žemaitijos nusiaubimo metu Raseinių valsčius buvo sulygintas su žeme kartu su Vaikių, Ariogalos ir Klogėnų valsčiais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
-    nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
-    Ariogalos ir Klogėnų valsčius jis sulygino su žeme.
-    Apmalšinus žudynėmis širdis, kai, pykčiui lėgstant,
-    gėda apėmė ginkluotus karius, kad nelyginant plėši­
-    kai siaubia beginklius žmones ir kaimiečių lūšneles,
-    1322 m eta i
-    V o k ie č ių  ir k r y ž iu o ­
-    čių
-    š v e n ta sis
-    karas
-    prieš lietu viu s
-    Šiais dalykais ir rūpinosi
-    Gediminas, kai jį užgriuvo
-    naujos bėdos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 - c-008
   santrauka: 'Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose parašytame laiške Narbutui patvirtino jo aptariamą teiginį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -493,8 +344,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - id: c-168482
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 205"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 205."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
     nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
@@ -503,7 +353,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     gėda apėmė ginkluotus karius, kad nelyginant plėši­
     kai siaubia beginklius žmones ir kaimiečių lūšneles,
     1322 m eta i
-    V o k ie č ių  ir k r y ž iu o ­
+    V o k ie č ių ir k r y ž iu o ­
     čių
     š v e n ta sis
     karas
@@ -521,12 +371,17 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - id: c-171707
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taip tvirtina ponas Simo­
-    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
-    autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
+    Pusdievio ir Nemuno vardo panašumas
+    perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­
+    kas šia upe keliavęs, bus davęs upei savo vardą. Lietuvoje
+    gyveno panašiai besivadinanti bajorų giminė; turim rankoje
+    laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemu-
+    navičiaus (Niemonowicz) parašu. Matyti, kad ta pavardė yra
+    kilusi iš Nemuno pavadinimo, kaip Piotrowicz, tai yra Petro
+    sūnus, iš Petro.
+  citata_rodoma: "Taip tvirtina ponas Simo­\nnas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio\nautorius, man rašytame laiške (Raseiniai. -  1836.IV19)*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -52,27 +52,6 @@ Nenurodyta
   teiginys: "Coaequatio iurium šūkiu siekta suvienodinti Lietuvos ir Lenkijos ministerių teises."
   pagrindžia:
     - c-67079
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Coaequatio iurium šūkiu siekta suvienodinti Lietuvos ir Lenkijos ministerių teises.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Buvo pa-
-    leistas šūkis suvaržyti hetmono teisę iš vienos vietos į kitą
-    kiloti kariuomenę ir suvaržyti iždininko teisę savo nuožiūra
-    valdyti pinigus. Ta pačia proga dar buvo reikalaujama susiau-
-    rinti kanclerio teises, atimant iš jo teismo sprendimų priežiūrą.
-    Visa tai ėjo Lietuvos ir Lenkijos teisių suly-
-    ginimo _(coaequatio iurium)_ šūkiu, nes tuo buvo norima su-
-    vienodinti Lietuvos ir Lenkijos ministerių teises.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

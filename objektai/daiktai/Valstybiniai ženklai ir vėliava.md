@@ -61,29 +61,6 @@ Nenurodyta
   teiginys: "1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas numatė bausti už valstybinių ženklų ir vėliavos niekinimą ar įžeidinėjimą."
   pagrindžia:
     - c-26638
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Susikū-
-    rusios dvi vokiečių nacių organizacijos varė antivalstybinę propagandą,
-    ruošėsi sukilimui ir krašto prijungimui prie Vokietijos, terorizavo lietuvių
-    susirinkimus, puldinėjo žydus. Klaipėda slydo iš Lietuvos kontrolės.
-    Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priim-
-    tas Tautai ir valstybei saugoti įstatymas, kuriame numatyta bausti tuos,
-    kurie niekins ir įžeidinės lietuvių tautą, Lietuvos vyriausybę, valstybi­nius
-
-    L I E T U V O S  I S T O R I J A
-    180
-    ženklus, vėliavą, dirbs užsienio naudai prieš Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

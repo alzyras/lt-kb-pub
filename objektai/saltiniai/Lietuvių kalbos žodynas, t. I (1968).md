@@ -8,13 +8,13 @@ datos:
   - '1968 m.'
 date_start: '1118'
 date_end: '1968'
+amziai:
+  - 'XII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XII'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,8 @@ Kadangi vienas Kauno priemiestis vadinosi Žr.: Lietuvių kalbos žodynas / Atsa
   teiginys: "Kadangi vienas Kauno priemiestis vadinosi Žr.: Lietuvių kalbos žodynas / Atsak."
   pagrindžia:
     - c-177253
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kadangi vienas Kauno priemiestis vadinosi Žr.: Lietuvių kalbos žodynas / Atsak.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -65,13 +65,17 @@ Kadangi vienas Kauno priemiestis vadinosi Žr.: Lietuvių kalbos žodynas / Atsa
 - id: c-177253
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 30"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 30."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kadangi vienas Kauno priemiestis vadinosi
-    16
-    Žr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -
-    V., 1968.-T. I.-P. 1118.
+    T. Narbutas Lietuvoje suranda ir antikinio mito apie Plu­
+    tono pagrobtą Demetros dukterį Persefonę atitikmenį. Visiš­
+    kai panašų „pasakojimą“ jis nugirsta Raseinių apskrityje, Pa­
+    švenčio apylinkėse. Šio „pasakojimo“ svarbiausi veikėjai pasi­
+    rodo besą M. Strijkovskio, K. Hartknocho ir kitų minimas po­
+    žemio dievas Poklius (lietuviškasis Plutonas), M. Strijkovskio
+    minima Krūminė (lietuviškoji Demetra) ir paties T. Narbuto
+    surasta jų duktė Nijolė (Persefonė).
+  citata_rodoma: "Kadangi vienas Kauno priemiestis vadinosi\n16\nŽr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -\nV., 1968.-T. I.-P. 1118."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

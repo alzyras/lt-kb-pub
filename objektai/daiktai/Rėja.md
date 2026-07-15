@@ -55,23 +55,9 @@ Nenurodyta
   teiginys: "Neturtingieji rėjos duoboje pėrėsi, nes ant kakalio buvo sukrauta krosnis."
   pagrindžia:
     - c-56399
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Neturtingieji rėjos duoboje pėrėsi, nes ant kakalio buvo sukrauta krosnis.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pas
-        neturtinguosius toje duoboj pėrės, nesgi ant kakalio buvo krosnis^ sukrauta. Pitėjas, garsus
-        žvaigždžinys^234 , keliaudamas po šiaurę, per penkis šimtus metų pirm gimimo Kristaus minavoja
-        jau tą trobesį savo kelionės raštuose, kaipo stebuklingą ir negirdėtą daiktą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

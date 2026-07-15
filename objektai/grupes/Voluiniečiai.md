@@ -50,25 +50,6 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
   teiginys: "Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais."
   pagrindžia:
     - c-46415
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu pirmosios tautos, su kuriomis aisčiams teko su-
-    sidurti ankstyvaisiais istoriniais laikais, buvo ateiviai skandi-
-    navai ir slavai: pietuose lenkai ir voluiniečiai, o rytuose gudai.
-    XIII amž. į aisčių gyvenamuosius kraštus atsikraustė vokiečiai
-    ir čia sukūrė savo valstybes. Vieni jų atsikraustė į Padauguvį (ka-
-    lavijuočiai), o kiti į Pavyslį (kryžiuočiai).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -89,5 +70,5 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-52465
     - t-52464
+    - t-52465

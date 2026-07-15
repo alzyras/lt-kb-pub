@@ -42,31 +42,6 @@ Paliose veikę Varniškių ir „Muškietininkų“ būrių partizanai.
   teiginys: "1945 m. balandį Varniškių būrio partizanai veikė Paliose."
   pagrindžia:
     - c-44866
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Paliose veikę Varniškių ir „Muškietininkų“ būrių
-
-    partizanai. 1945 m. balandis
-
-    ŽUVINTO PALIŲ KAUTYNĖS 1945
-
-    NKVD pajėgos
-
-    NKVD užnugario apsaugos kariuome-
-    nės 132-ojo pasienio pulko ir jungtinio
-    pasienio būrio pajėgos, taip pat vietos
-    stribų garnizonai. Puolimą parėmė regu-
-    liariosios sovietų kariuomenės dalys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, sukurstė prūsus atsimesti nuo kryžiuočių. Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės, prieš šv. Motiejaus dieną griovė bažnyčias ir žiauriai kankino pagautus kunigus.
+Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, sukurstė prūsus atsimesti nuo kryžiuočių. Kojelavičius pasakoja, kad prūsai, išsirinkę vadus, atsimetė nuo krikščionybės, griovė bažnyčias ir kankino pagautus kunigus. Kojelavičiaus pasakojime prieš prūsus iš Vokietijos buvo sutelkta gausi kariuomenė su gerai ginkluotais kariais ir patyrusiais vadais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -51,110 +51,27 @@ Nenurodyta
 <a id="claim-t-185763"></a>
 - t-002
   global_id: t-185763
-  teiginys: "Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės, prieš šv. Motiejaus dieną griovė bažnyčias ir žiauriai kankino pagautus kunigus."
+  teiginys: "Kojelavičius pasakoja, kad prūsai, išsirinkę vadus, atsimetė nuo krikščionybės, griovė bažnyčias ir kankino pagautus kunigus."
   pagrindžia:
-    - c-169124
-## Reikšmingi paminėjimai
+    - c-169123
 
-- c-001
-  santrauka: 'Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, sukurstė prūsus atsimesti nuo kryžiuočių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ka­
-    dangi miestą gynė rinktinių karių įgula, apsuptis
-    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
-    rasta daug be galo narsių karių, kurie tiltu per Prieg­
-    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
-    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
-    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
-    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
-    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
-    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
-    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
-    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
-    kerštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196251"></a>
+- t-003
+  global_id: t-196251
+  teiginys: "Kojelavičiaus pasakojime prieš prūsus iš Vokietijos buvo sutelkta gausi kariuomenė su gerai ginkluotais kariais ir patyrusiais vadais."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės, prieš šv. Motiejaus dieną griovė bažnyčias ir žiauriai kankino pagautus kunigus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­
-    čionybės ir sutartu laiku, prieš pat šv. Motiejaus die­
-    ną, visame krašte išgriovė bažnyčias, o kunigus, ku-
-    nių valdovai nutarė sutelkti visas savo jėgas ir atremti
-    laukinių siautėjimą. Į pagalbą buvo sutraukta galybė
-    kariuomenės iš Vokietijos: puikiai ginkluotų karių,
-    patyrusių kariauti vadų; rodėsi, jog nieko netrūksta
-    Prūsijos ir Žemaitijos žemdirbiams išžudyti. Per No-
-    tangos kraštą įžengę į priešų žemę, jie, ketindami per­
-    kelti karo židinį į šalies gilumą, Prūsijos centre parin­
-    P rūsai
-    išsiža d a
-    k r i­
-    k ščio n ių
-    tik ė jim o  ir
-    a tsim e ta
-    n u o
-    k r y ­
-    žiu o čių
-    riuos beįmanė pagauti, žiau­
-    riai nukankino; jie nepaliko
-    neišniekinę nė vienos krikš­
-    čionių
-    šventenybės,
-    kurią
-    tik valiojo pasiekti jų stai­
-    gus įsiūtis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-169123
 
 ## Citatos
 
 - id: c-169123
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 104."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ka­
-    dangi miestą gynė rinktinių karių įgula, apsuptis
-    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
-    rasta daug be galo narsių karių, kurie tiltu per Prieg­
-    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
-    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
-    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
-    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
-    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
-    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
-    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
+    Šitaip kryžiuo­
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
-    kerštą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185762
-
-- id: c-169124
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 104."
-  citata_originali: |
-    Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­
+    kerštą. Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­
     čionybės ir sutartu laiku, prieš pat šv. Motiejaus die­
     ną, visame krašte išgriovė bažnyčias, o kunigus, ku-
     nių valdovai nutarė sutelkti visas savo jėgas ir atremti
@@ -168,7 +85,7 @@ Nenurodyta
     išsiža d a
     k r i­
     k ščio n ių
-    tik ė jim o  ir
+    tik ė jim o ir
     a tsim e ta
     n u o
     k r y ­
@@ -181,9 +98,12 @@ Nenurodyta
     kurią
     tik valiojo pasiekti jų stai­
     gus įsiūtis.
+  citata_rodoma: "Ka­\ndangi miestą gynė rinktinių karių įgula, apsuptis\nbuvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­\nrasta daug be galo narsių karių, kurie tiltu per Prieg­\nliaus upę atkakliai veržėsi prie miesto vartų, nepaisy­\ndami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­\nmaitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­\nnorėdamas, kad atrodytų, jog veltui puolęs Prūsiją,\nsukurstė žmones visame krašte atsimesti nuo kryžiuo­\nčių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-\nlerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­\nčiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie\nkerštą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-185762
     - t-185763
+    - t-196251

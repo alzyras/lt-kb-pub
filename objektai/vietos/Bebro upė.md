@@ -41,36 +41,13 @@ Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseni
   teiginys: "Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseniai Mazovijos Ziemovito suda rytos taikos sutarties su kryžiuočiais atgrasinti jotvingiai pasitraukė prie Bebro upės ir Bugo žemupio, iš kur, pa dvigubinę savo jėgas, puldinėdavo kitapus."
   pagrindžia:
     - c-177321
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseniai Mazovijos Ziemovito suda rytos taikos sutarties su kryžiuočiais atgrasinti jotvingiai pasitraukė prie Bebro upės ir Bugo žemupio, iš kur, pa dvigubinę savo jėgas, puldinėdavo kitapus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Si sutartis buvo pasirašyta Trošine 1260 metų
-    birželio 15 dieną1.
-    133
-    Nuosmukis. Kryžiuočių ir gal totorių iš Galicijos pusės
-    puolimų įbauginti ir neseniai Mazovijos Ziemovito suda­
-    rytos taikos sutarties su kryžiuočiais atgrasinti jotvingiai
-    pasitraukė prie Bebro upės ir Bugo žemupio, iš kur, pa­
-    dvigubinę savo jėgas, puldinėdavo kitapus Vyslos ir darė
-    daug žalos Lenkijai ir Mazovijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177321
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 132."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Si sutartis buvo pasirašyta Trošine 1260 metų
     birželio 15 dieną1.

@@ -31,450 +31,136 @@ media_all_json: |-
 
 ## Santrauka
 
-— 99 — (1393) Dievo Apveizdos bažnyčias, o kiek vėliau pastatė ir šiose vietose bažnyčias: Švenčionyse, Perlojoje, Trakuose, Gardine, Breste ir kt. Kaune ir Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus pranciškonams; Breste įsteigė vienuolyną augustinijonams; juos taip pat gausiai apdovanojo Medininkuose (Viln.
+Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir išžudyti žymiausius Lietuvos didikus. Šich Achmetas, Užvolgio skitų valdovas, būdamas tremtinys ir beveik belaisvis Breste ir Radome tarėsi su Aleksandru. Į Brestą atkeliavę Maskvos legatai turėjo patvirtinti paliaubas, bet karaliaus Lietuvoje neberado.
 
 ## Teiginiai
 
-<a id="claim-t-185228"></a>
-- t-001
-  global_id: t-185228
-  teiginys: "Breste buvo skubiai sušauktas seimas, nes Kazimierui kelias į miestą buvo artimas, o kitų grupuočių vadovams tolokas."
-  pagrindžia:
-    - c-168589
-
-<a id="claim-t-185229"></a>
-- t-002
-  global_id: t-185229
-  teiginys: "Lapkričio mėnesį lenkų seimas susirinko Parčeve, o lietuvių seimas Breste."
-  pagrindžia:
-    - c-168590
-
 <a id="claim-t-185230"></a>
-- t-003
+- t-001
   global_id: t-185230
   teiginys: "Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir išžudyti žymiausius Lietuvos didikus."
   pagrindžia:
     - c-168591
 
 <a id="claim-t-185231"></a>
-- t-004
+- t-002
   global_id: t-185231
   teiginys: "Šich Achmetas, Užvolgio skitų valdovas, būdamas tremtinys ir beveik belaisvis Breste ir Radome tarėsi su Aleksandru."
   pagrindžia:
     - c-168592
 
-<a id="claim-t-185232"></a>
-- t-005
-  global_id: t-185232
-  teiginys: "Gegužės pradžioje karalius Žygimantas atvyko į Brestą ir ten užgaišo telkdamas lietuvių karius į žygį."
-  pagrindžia:
-    - c-168593
-
 <a id="claim-t-185233"></a>
-- t-006
+- t-003
   global_id: t-185233
   teiginys: "Į Brestą atkeliavę Maskvos legatai turėjo patvirtinti paliaubas, bet karaliaus Lietuvoje neberado."
   pagrindžia:
     - c-168594
 
-<a id="claim-t-193434"></a>
-- t-007
-  global_id: t-193434
-  teiginys: "Štai todėl kuo grei čiausiai sušaukė Breste seimą, nes kelias į tą miestą Kazi mierui buvo artimas, o kitų grupuočių vadovams tolo kas."
-  pagrindžia:
-    - c-168589
-
-<a id="claim-t-193435"></a>
-- t-008
-  global_id: t-193435
-  teiginys: "Tik lapkričio mėnesį susirinko seimai: lenkų Parčeve, o lie tuvių Breste; kadangi nei vieni, nei kiti nenorėjo ke liauti į priešininkų šalį, po ilgų ginčų nutarė susitikti Lomžoje, tai yra pusiaukelėje tarp Parčevo ir Bresto."
-  pagrindžia:
-    - c-168590
-
-<a id="claim-t-193436"></a>
-- t-009
-  global_id: t-193436
-  teiginys: "Jis sušaukė Breste seimą, ketindamas kokia nors dingstimi sukviesti ten žymiau sius didikus į pilį, suimti ir išžudyti."
-  pagrindžia:
-    - c-168591
-
-<a id="claim-t-193437"></a>
-- t-010
-  global_id: t-193437
-  teiginys: "Į seimą atvyko iš Vilniaus Skitas Sich Achmetas Šich Achmetas, Užvolgio skitariasi su karaliumi tų valdovas, o šiuo metu Breste ir Radome tremtinys ir beveik belaisvis."
-  pagrindžia:
-    - c-168592
-
-<a id="claim-t-193438"></a>
-- t-011
-  global_id: t-193438
-  teiginys: "Pavasariui išaušus, Mikalojus Firlėjus su lenkų kariuomene atžyK a ra liu s Ž y g im a n ta s giavo į Lietuvą, o gegužės tra u k ia p rie š G lin spradžioje įkandin atvyko į k į ir m a sk v ė n u s Brestą ir karalius, kuris ten šiek tiek užgaišo, telkdamas."
-  pagrindžia:
-    - c-168593
-
 <a id="claim-t-193439"></a>
-- t-012
+- t-004
   global_id: t-193439
   teiginys: "Netru kus į Brestą atkeliavo Maskvos legatai, atsiųsti patvir tinti paliaubų, tačiau nebeM a sk v o s p a siu n tin ia i surado karaliaus Lietuvoje."
   pagrindžia:
     - c-168594
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Breste buvo skubiai sušauktas seimas, nes Kazimierui kelias į miestą buvo artimas, o kitų grupuočių vadovams tolokas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kiti parėmė šį siūlymą
-    iš baimės, kad atidėliojant yal-
-    džia
-    valstybėje
-    neatitektų
-    Mykolui. Štai todėl kuo grei­
-    čiausiai sušaukė Breste seimą,
-    nes kelias į tą miestą Kazi­
-    mierui buvo artimas, o kitų grupuočių vadovams tolo­
-    kas. Pasiuntė kilmingiausius ir žymiausius didikus bro­
-    lius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti
-    Kazimierą į Brestą kuo greičiausiai perimti valdžios; jie
-    kaip beįmanydami privalėjo raginti jaunikaitį, kad jis,
-    lenkų patariamas, nesusimanytų delsti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196677"></a>
+- t-005
+  global_id: t-196677
+  teiginys: "Gediminas atsiėmė Drohičiną ir Brestą, prijungė kraštą prie Lietuvos valdų ir paliko lietuvių įgulas bei vietininkus."
   pagrindžia:
-    - t-001
-    - t-007
-
-- c-002
-  santrauka: 'Lapkričio mėnesį lenkų seimas susirinko Parčeve, o lietuvių seimas Breste.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Negi galima buvo tikėtis santarvės ir vienybės,
-    kai į vieną vietą susirinks tie, kurie jautėsi neseniai
-    nuskriausti ir neslėpė nei pykčio, nei skausmo? Tik
-    lapkričio mėnesį susirinko seimai: lenkų Parčeve, o lie­
-    tuvių Breste; kadangi nei vieni, nei kiti nenorėjo ke­
-    liauti į priešininkų šalį, po ilgų ginčų nutarė susitikti
-    Lomžoje, tai yra pusiaukelėje tarp Parčevo ir Bresto.
-    Kadangi menkame miestelyje nebuvo nei tinkamų būs­
-    tų gyventi, nei deramos menės bendriems posėdžiams,
-    be to, vargu ar čia galėjo tikėtis kokių patogumų žie-
-    5 1 4
-
-    ## Puslapis 513
-
-    mą, vėl visą reikalą atidėjo kitiems metams ir, nieko
-    nenuveikę, išsiskirstė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-008
-
-- c-003
-  santrauka: 'Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir išžudyti žymiausius Lietuvos didikus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Rodos, žiaurus patarimas, bet iš tiesų būtinas,
-    580
-
-    ## Puslapis 579
-
-    nes kitaip neapginsi nei valdovo orumo, nei valstybės
-    saugumo. Neatsispyręs kas dieną girdimiems Glinskio
-    klastingiems
-    raginimams,
-    Karalius
-    pasmerkia
-    Aleksandras pasmerkė mir-
-    mirčiai
-    žymiausius
-    čiai Žemaitijos seniūną Sta-
-    Lietuvos didikus
-    nislovą Žarnovskį, Smolens­
-    ko vietininką Stanislovą Kiš­
-    ką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos
-    maršalą Joną Zaberezinskį ir kitus to paties luomo ir
-    tos pačios minties žmones. Jis sušaukė Breste seimą,
-    ketindamas kokia nors dingstimi sukviesti ten žymiau­
-    sius didikus į pilį, suimti ir išžudyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-009
-
-- c-004
-  santrauka: 'Šich Achmetas, Užvolgio skitų valdovas, būdamas tremtinys ir beveik belaisvis Breste ir Radome tarėsi su Aleksandru.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Karalius, supratęs, kad jo sumanymai visiems žinomi,
-    sutiko parodyti malonę, patariamas to paties kancle­
-    rio, o labiausiai Jono iš Osvencimo, savo nuodėm­
-    klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­
-    ją, o kitus išvijo iš senato.
-    Į seimą atvyko iš Vilniaus
-    Skitas Sich Achmetas
-    Šich Achmetas, Užvolgio ski-
-    tariasi su karaliumi
-    tų valdovas, o šiuo metu
-    Breste ir Radome
-    tremtinys ir beveik belaisvis.
-    Aleksandras jį pasitiko už
-    penkių mylių: pastačius plyname lauke puošnią pala­
-    pinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo
-    Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie
-    karaliaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-010
-
-- c-005
-  santrauka: 'Gegužės pradžioje karalius Žygimantas atvyko į Brestą ir ten užgaišo telkdamas lietuvių karius į žygį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėlto šių sumanymų nepa­
-    vyko įgyvendinti, nes karalius skubiai išsiuntė į Lie­
-    tuvą pagalbą. Pavasariui išaušus, Mikalojus Firlėjus
-    su lenkų kariuomene atžy-
-    K a ra liu s Ž y g im a n ta s
-    giavo į Lietuvą, o gegužės
-    tra u k ia
-    p rie š
-    G lin s-
-    pradžioje įkandin atvyko į
-    k į ir m a sk v ė n u s
-    Brestą ir karalius, kuris ten
-    šiek tiek užgaišo, telkdamas
-    lietuvių karius ir ragindamas bajorus traukti į žygį.
-    Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­
-    puolė Minską, bet visos jo pastangos nuėjo perniek,
-    nes bajorai grūmėsi labai ryžtingai, gindami žmonas
-    bei vaikus, su kuriais buvo pasitraukę į miestą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-011
-
-- c-006
-  santrauka: 'Į Brestą atkeliavę Maskvos legatai turėjo patvirtinti paliaubas, bet karaliaus Lietuvoje neberado.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tol luomai nenurimo, kol negavo iš karaliaus valstybės
-    antspaudais patvirtinto rašto, kuriuo šis savo bei sa-
-    650
-
-    ## Puslapis 649
-
-    vo įpėdinių vardu pasižadėjo niekada neleisti, kad į
-    senatą pakliūtų žmonės, neišpažįstantys Romos tikėji­
-    mo. Paleidęs seimą, karalius išvyko į Krokuvą. Netru­
-    kus į Brestą atkeliavo Maskvos legatai, atsiųsti patvir­
-    tinti paliaubų, tačiau nebe-
-    M a sk v o s p a siu n tin ia i
-    surado karaliaus Lietuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-012
+    - c-178835
 
 ## Citatos
-
-- id: c-168589
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 466"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
-  citata_originali: |
-    Kiti parėmė šį siūlymą
-    iš baimės, kad atidėliojant yal-
-    džia
-    valstybėje
-    neatitektų
-    Mykolui. Štai todėl kuo grei­
-    čiausiai sušaukė Breste seimą,
-    nes kelias į tą miestą Kazi­
-    mierui buvo artimas, o kitų grupuočių vadovams tolo­
-    kas. Pasiuntė kilmingiausius ir žymiausius didikus bro­
-    lius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti
-    Kazimierą į Brestą kuo greičiausiai perimti valdžios; jie
-    kaip beįmanydami privalėjo raginti jaunikaitį, kad jis,
-    lenkų patariamas, nesusimanytų delsti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185228
-    - t-193434
-
-- id: c-168590
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Negi galima buvo tikėtis santarvės ir vienybės,
-    kai į vieną vietą susirinks tie, kurie jautėsi neseniai
-    nuskriausti ir neslėpė nei pykčio, nei skausmo? Tik
-    lapkričio mėnesį susirinko seimai: lenkų Parčeve, o lie­
-    tuvių Breste; kadangi nei vieni, nei kiti nenorėjo ke­
-    liauti į priešininkų šalį, po ilgų ginčų nutarė susitikti
-    Lomžoje, tai yra pusiaukelėje tarp Parčevo ir Bresto.
-    Kadangi menkame miestelyje nebuvo nei tinkamų būs­
-    tų gyventi, nei deramos menės bendriems posėdžiams,
-    be to, vargu ar čia galėjo tikėtis kokių patogumų žie-
-    5 1 4
-
-    ## Puslapis 513
-
-    mą, vėl visą reikalą atidėjo kitiems metams ir, nieko
-    nenuveikę, išsiskirstė.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185229
-    - t-193435
 
 - id: c-168591
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Rodos, žiaurus patarimas, bet iš tiesų būtinas,
-    580
-
-    ## Puslapis 579
-
-    nes kitaip neapginsi nei valdovo orumo, nei valstybės
-    saugumo. Neatsispyręs kas dieną girdimiems Glinskio
-    klastingiems
-    raginimams,
-    Karalius
-    pasmerkia
-    Aleksandras pasmerkė mir-
-    mirčiai
-    žymiausius
-    čiai Žemaitijos seniūną Sta-
-    Lietuvos didikus
-    nislovą Žarnovskį, Smolens­
-    ko vietininką Stanislovą Kiš­
-    ką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos
-    maršalą Joną Zaberezinskį ir kitus to paties luomo ir
-    tos pačios minties žmones. Jis sušaukė Breste seimą,
-    ketindamas kokia nors dingstimi sukviesti ten žymiau­
-    sius didikus į pilį, suimti ir išžudyti.
+    Glinskio patariamas,
+    karalius,
+    didžiai
+    įžeistas to­
+    kio didikų elgesio, nutarė Iliničių įkalinti, iš Jono
+    Zaberezinskio
+    Manvydo,
+    Lietuvos
+    maršalo,
+    atimti
+    Trakų vaivadiją, iš Baltramiejaus Taboro, Vilniaus
+    vyskupo brolio,— Surviliškio valsčių, kurį atidavė
+    Žemaitijos vyskupui, o kitus irgi visaip persekio­
+    jo, vienus — atvirai, antrus — slaptai. Visiems buvo
+    aišku, kad nepaprastą valdovo rūstį sukurstė ne jo pri­
+    gimtis, bet nuolatiniai Glinskio įkalbinėjimai, štai to­
+    dėl tie, kurie patyrė karaliaus pyktį, dabar, sutelkę
+    jėgas, ėmėsi priemonių jį nuversti. Žmonėse sklido ne­
+    žinia kieno paleisti gandai, kad Mykolas Glinskis taiks­
+    tosi, susidorojęs su lietuvių kilmės didikais, užgrobti
+    Lietuvos kunigaikštystę ir kad dėl šių jo užmačių Alek­
+    sandro gyvybei gresia pavojus. Sunku pasakyti, ar tai
+    buvo paskalos, ar teisybė, bet daugelis tuo patikėjo:
+    taip jau esti, kad apie visas žymiąsias šeimas daugiau­
+    sia ir sklinda visokiausių šnekų.
+  citata_rodoma: "Rodos, žiaurus patarimas, bet iš tiesų būtinas,\n580\n\n## Puslapis 579\n\nnes kitaip neapginsi nei valdovo orumo, nei valstybės\nsaugumo. Neatsispyręs kas dieną girdimiems Glinskio\nklastingiems\nraginimams,\nKaralius\npasmerkia\nAleksandras pasmerkė mir-\nmirčiai\nžymiausius\nčiai Žemaitijos seniūną Sta-\nLietuvos didikus\nnislovą Žarnovskį, Smolens­\nko vietininką Stanislovą Kiš­\nką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos\nmaršalą Joną Zaberezinskį ir kitus to paties luomo ir\ntos pačios minties žmones. Jis sušaukė Breste seimą,\nketindamas kokia nors dingstimi sukviesti ten žymiau­\nsius didikus į pilį, suimti ir išžudyti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185230
-    - t-193436
 
 - id: c-168592
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 579"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 579."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Karalius, supratęs, kad jo sumanymai visiems žinomi,
-    sutiko parodyti malonę, patariamas to paties kancle­
-    rio, o labiausiai Jono iš Osvencimo, savo nuodėm­
-    klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­
-    ją, o kitus išvijo iš senato.
-    Į seimą atvyko iš Vilniaus
-    Skitas Sich Achmetas
-    Šich Achmetas, Užvolgio ski-
-    tariasi su karaliumi
-    tų valdovas, o šiuo metu
-    Breste ir Radome
-    tremtinys ir beveik belaisvis.
-    Aleksandras jį pasitiko už
-    penkių mylių: pastačius plyname lauke puošnią pala­
-    pinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo
-    Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie
-    karaliaus.
+    Pats Glinskis, pasiti­
+    kėdamas valdovo palankumu, nekreipė dėmesio į
+    žmonių kalbas, nors savo ruožtu visaip stengėsi pra­
+    žudyti gandų skleidėjus. Jis sumaniai slėpė krūtinėje
+    kunkuliuojantį įtūžį, o varžovų, norinčių išlaikyti Ili-
+    ničiui Lydos vietininkystę, elgesį, dėl kurio smarkiai
+    pyko ir valdovas, skriausdamas kitus ir nepaisydamas
+    savo orumo, visaip kėlė ir puolė kiekviena proga paš­
+    nekesiuose. Jis tvirtino, jog ne atlaidus, bet aplaidus
+    valdovas aukščiausiąja savo valia, o, jeigu reikia, ir
+    kardu netramdo tų, kurie priešinasi jo potvarkiams.
+    Esą nėra jokio pagrindo vadinti laisvės gynimu puiky­
+    bėn pasinešusių savavaliautojų maišto, kuris galbūt
+    šiuo metu dar nėra išryškėjęs, bet netrukus išryškė-
+    siąs ir, jeigu skubiai nebus užgniaužtas, atnešiąs vi­
+    suomenei pražūtį.
+  citata_rodoma: "Karalius, supratęs, kad jo sumanymai visiems žinomi,\nsutiko parodyti malonę, patariamas to paties kancle­\nrio, o labiausiai Jono iš Osvencimo, savo nuodėm­\nklausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­\nją, o kitus išvijo iš senato.\nĮ seimą atvyko iš Vilniaus\nSkitas Sich Achmetas\nŠich Achmetas, Užvolgio ski-\ntariasi su karaliumi\ntų valdovas, o šiuo metu\nBreste ir Radome\ntremtinys ir beveik belaisvis.\nAleksandras jį pasitiko už\npenkių mylių: pastačius plyname lauke puošnią pala­\npinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo\nSich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie\nkaraliaus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185231
-    - t-193437
-
-- id: c-168593
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 602"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 602."
-  citata_originali: |
-    Vis dėlto šių sumanymų nepa­
-    vyko įgyvendinti, nes karalius skubiai išsiuntė į Lie­
-    tuvą pagalbą. Pavasariui išaušus, Mikalojus Firlėjus
-    su lenkų kariuomene atžy-
-    K a ra liu s Ž y g im a n ta s
-    giavo į Lietuvą, o gegužės
-    tra u k ia
-    p rie š
-    G lin s-
-    pradžioje įkandin atvyko į
-    k į ir m a sk v ė n u s
-    Brestą ir karalius, kuris ten
-    šiek tiek užgaišo, telkdamas
-    lietuvių karius ir ragindamas bajorus traukti į žygį.
-    Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­
-    puolė Minską, bet visos jo pastangos nuėjo perniek,
-    nes bajorai grūmėsi labai ryžtingai, gindami žmonas
-    bei vaikus, su kuriais buvo pasitraukę į miestą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185232
-    - t-193438
 
 - id: c-168594
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tol luomai nenurimo, kol negavo iš karaliaus valstybės
-    antspaudais patvirtinto rašto, kuriuo šis savo bei sa-
-    650
+    Šie ilgai
+    aiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­
+    džiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­
+    riomis kitados buvusi sudaryta sutartis tarp jo senelio
+    Vasilijaus ir karaliaus Kazimiero, arba tomis, kurias
+    6 4 9
 
-    ## Puslapis 649
-
-    vo įpėdinių vardu pasižadėjo niekada neleisti, kad į
-    senatą pakliūtų žmonės, neišpažįstantys Romos tikėji­
-    mo. Paleidęs seimą, karalius išvyko į Krokuvą. Netru­
-    kus į Brestą atkeliavo Maskvos legatai, atsiųsti patvir­
-    tinti paliaubų, tačiau nebe-
-    M a sk v o s p a siu n tin ia i
-    surado karaliaus Lietuvoje.
+    buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
+    Vasiljevičius. Kadangi Maskvos didikai atkirto, kad ne­
+    gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
+    tis dėl kitokių taikos formulių. Vis dėlto ir šie legatai
+    tiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­
+    dangi maskvėnai nenorėjo grąžinti ne tik Smolensko
+    žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
+    ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
+    susitarus dėl taikos, išvykti iš Maskvos.
+  citata_rodoma: "Tol luomai nenurimo, kol negavo iš karaliaus valstybės\nantspaudais patvirtinto rašto, kuriuo šis savo bei sa-\n650\n\n## Puslapis 649\n\nvo įpėdinių vardu pasižadėjo niekada neleisti, kad į\nsenatą pakliūtų žmonės, neišpažįstantys Romos tikėji­\nmo. Paleidęs seimą, karalius išvyko į Krokuvą. Netru­\nkus į Brestą atkeliavo Maskvos legatai, atsiųsti patvir­\ntinti paliaubų, tačiau nebe-\nM a sk v o s p a siu n tin ia i\nsurado karaliaus Lietuvoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -482,3 +168,28 @@ media_all_json: |-
   pagrindzia:
     - t-185233
     - t-193439
+
+- id: c-178835
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Gediminas, be kovos
+    užėmęs Lucką ir artimiausias pilis, atsiėmęs Drohičiną
+    ir Brestą, visą kraštą, ką tik iš priešo išplėštą, prijun­
+    gė prie Lietuvos valdų, palikdamas lietuvių įgulas ir
+    vietininkus. Išsiuntęs kariuomenę į žiemos stovyklą,
+    pats žiemą praleido Breste, gal norėdamas, kaip ki­
+    tiems sakėsi, laimėtų žemių reikalus geriau sutvarkyti,
+    o gal ketindamas asmeniškai rengtis, kaip ir darė, nau­
+    jam karui. Žiemą telkė kariuomenę ir rūpinosi tieki-
+    kantraudami laukė, kuria kryptimi smogs naują smū­
+    gį, sutraukta Gedimino kariuomenė perėjo Vladimiro
+    ir Lucko žemes, nedarydama čia, sąjungininkų valdo­
+    se, niekam skriaudų ir priartėjo prie Ovručo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196677

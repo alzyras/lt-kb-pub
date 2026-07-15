@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Karalius, siekdamas išvengti ginkluotų susidūrimų, sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą.
+Nenurodyta
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -40,37 +40,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-185821"></a>
-- t-001
-  global_id: t-185821
-  teiginys: "Karalius, siekdamas išvengti ginkluotų susidūrimų, sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą."
-  pagrindžia:
-    - c-169182
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Karalius, siekdamas išvengti ginkluotų susidūrimų, sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Karalius ne be reikalo pradėjo būgštauti,
-    kad, jam būnant toli nuo Lietuvos, nesirastų ten kokių
-    karštakošių, kurie, pasigriebę ginklus, susimanytų puldi­
-    nėti lenkus, visai užkirsdami kelią baigti ginčą taikiomis
-    49 i
-
-    ## Puslapis 490
-
-    priemonėmis,.. Štai todėl, norėdamas išvengti gink­
-    luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats
-    nuvyko į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Citatos
 
@@ -79,20 +49,24 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Karalius ne be reikalo pradėjo būgštauti,
-    kad, jam būnant toli nuo Lietuvos, nesirastų ten kokių
-    karštakošių, kurie, pasigriebę ginklus, susimanytų puldi­
-    nėti lenkus, visai užkirsdami kelią baigti ginčą taikiomis
-    49 i
-
-    ## Puslapis 490
-
-    priemonėmis,.. Štai todėl, norėdamas išvengti gink­
-    luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats
-    nuvyko į Lietuvą.
+    Tai­
+    gi vienai šaliai manant, jog lietuvių reikalavimai netei­
+    singi ir atmestini, o kitiems iš paskutiniųjų ginant savo
+    teises, skirtingos nuomonės ir kitoniški siekimai sukė­
+    lė atvirą priešiškumą. Nors karalius nenorėjo savo au­
+    toritetu paremti nei vienos, nei kitos šalies, širdimi pa­
+    laikydamas lietuvius, jis vis dėlto senate pareiškė nie­
+    ku būdu negalįs pritarti ginčo atkaklumui, dėl kurio,
+    nei vienai, nei kitai šaliai nenusileidžiant, galinti suve­
+    šėti nesantaika, todėl, jo galva, būtina, kad lenkai, ne­
+    norėdami suardyti sąjungos, vienaip ar kitaip surastų
+    kokį būdą išsaugoti dviejų tautų draugystę. Lenkai, at­
+    skirai pasitarę, atsakė, kad esanti vienui viena veiks­
+    minga priemonė šiam ginčui baigti, būtent nutarti, jog
+    ateityje Podolė priklausysianti lygiomis teisėmis ir len­
+    kams, ir lietuviams.
+  citata_rodoma: "Karalius ne be reikalo pradėjo būgštauti,\nkad, jam būnant toli nuo Lietuvos, nesirastų ten kokių\nkarštakošių, kurie, pasigriebę ginklus, susimanytų puldi­\nnėti lenkus, visai užkirsdami kelią baigti ginčą taikiomis\n49 i\n\n## Puslapis 490\n\npriemonėmis,.. Štai todėl, norėdamas išvengti gink­\nluotų susidūrimų, jis sušaukė Naugarduke seimą ir pats\nnuvyko į Lietuvą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185821

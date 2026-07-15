@@ -9,13 +9,13 @@ datos:
   - '1983 m.'
 date_start: '1801'
 date_end: '1983'
+amziai:
+  - 'XIX'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,8 +43,8 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
   teiginys: "Leidinį „Kraštas ir žmonės“ parengė J. Jurginis ir A. Šidlauskas, jis išleistas Vilniuje 1983 m."
   pagrindžia:
     - c-61738
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Leidinį „Kraštas ir žmonės“ parengė J. Jurginis ir A. Šidlauskas, jis išleistas Vilniuje 1983 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -64,11 +64,12 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
 - id: c-61738
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 265"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    97—114.
     Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /
     Parengė J. Jurginis ir A. Šidlauskas.—V., 1983.
+  citata_rodoma: "Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /\nParengė J. Jurginis ir A. Šidlauskas.—V., 1983."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

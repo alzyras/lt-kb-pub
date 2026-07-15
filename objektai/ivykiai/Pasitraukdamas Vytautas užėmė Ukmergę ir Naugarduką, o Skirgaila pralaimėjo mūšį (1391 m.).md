@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Išgirdęs apie artėjantį Skirgailą, Vytautas nutraukė apsupimą, pasitraukė Prūsijos link ir jėga užėmė Naugarduką bei Ukmergę. Skirgaila pasivijo Vytautą, bet jo nedidelė ir menkai ginkluota kariuomenė po trumpų kautynių buvo sumušta.
+Išgirdęs apie artėjantį Skirgailą, Vytautas nutraukė apsupimą, pasitraukė Prūsijos link ir jėga užėmė Naugarduką bei Ukmergę. Skirgaila pasivijo Vytautą, bet jo nedidelė ir menkai ginkluota kariuomenė po trumpų kautynių buvo sumušta. Gavęs žinią, kad Skirgaila skuba iš Rusios pralaužti apsupimo žiedo, Vytautas nutraukė apsupimą ir išvyko link Prūsijos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -61,73 +61,13 @@ Nenurodyta
   teiginys: "Skirgaila pasivijo Vytautą, bet jo nedidelė ir menkai ginkluota kariuomenė po trumpų kautynių buvo sumušta."
   pagrindžia:
     - c-168993
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Išgirdęs apie artėjantį Skirgailą, Vytautas nutraukė apsupimą, pasitraukė Prūsijos link ir jėga užėmė Naugarduką bei Ukmergę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Gal iš baimės, mat
-    gandai nepaprastai padidino Skirgailos jėgas, gal, žlu­
-    gus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal
-    dėl kitų sumetimų Vytautas vos išgirdęs, jog artėja
-    Skirgaila, skubiai nutraukė
-    N u tra u k ia
-    a p su p im ą
-    apsupimą ir išvyko link Prū­
-    sijos. Kelionėje jis šiek tiek
-    užtruko prie Naugarduko tvirtovės, kurią Skirgaila ne­
-    seniai buvo pastatęs Neries pakrantėje, ir prie Ukmer­
-    gės, pastatytos Šventosios pakrantėje. Jėga užėmęs ir
-    II
-    323
-
-    ## Puslapis 322
-
-    vieną, ir kitą pilį, išžudė gy-
-    U žim a
-    U k m e r g ę
-    ir
-    nėjus, sudegino įtvirtinimus
-    N a u g a rd u k ą
-    bei šiaip pastatus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196234"></a>
+- t-003
+  global_id: t-196234
+  teiginys: "Gavęs žinią, kad Skirgaila skuba iš Rusios pralaužti apsupimo žiedo, Vytautas nutraukė apsupimą ir išvyko link Prūsijos."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Skirgaila pasivijo Vytautą, bet jo nedidelė ir menkai ginkluota kariuomenė po trumpų kautynių buvo sumušta.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Jį pasivi­
-    jo netoli buvęs Skirgaila, ta­
-    čiau jo kariuomenė veikiau tiko puldinėti besitraukian­
-    tiems būriams arba laisvai beklaidžiojantiems gaudyti,
-    nei stoti į tikrą kovą: ji buvo nedidelė ir menkai gink­
-    luota. Vis dėlto išdrįsęs grum-
-    Į v e ik ia  m ū š y je  Skir-
-    tis atvirame mūšyje, turėjo
-    ga ilą
-    po trumpų kautynių skaudžiai
-    užmokėti už savo neapgalvo­
-    tą drąsumą, likdamas toks pat nelaimingas, koks buvo
-    neapdairus; taip jau paprastai dedasi, kad kariaujant
-    neapdairumą neatskiriamai lydi nesėkmė. Netekęs ka­
-    riuomenės, vargais negalais jis paspruko į Trakus, nors
-    vargstančiai tėvynei būtų daugiau pagelbėjęs, likdamas
-    kautynių lauke: narsia mirtimi būtų užbaigęs nelaimin­
-    gą valdymą ir Lietuvos bėdas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-168992
 
 ## Citatos
 
@@ -136,7 +76,21 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Gal iš baimės, mat
+    Po šio įvykio apsuptieji atgavo drąsą,
+    manydami, jog sėkmingai prasidėjęs karas sėkmingai
+    ir baigsis, tuo tarpu Vytautas bei kryžiuočiai nusivylė,
+    ypač tada, kai patyrė, jog pilyje tvarkosi vienas Oles­
+    nickis, o lietuvių neapykanta išvykusiam Skirgailai
+    smarkiai atvėso. Vis dėlto, nepraradę visų vilčių, nuta­
+    rė stoti į kovą. Porą kartų pa-
+    Puola,
+    p a tird a m a s
+    bandė visomis jėgomis pulti
+    nuostolių
+    pilis ir abu kartus buvo at­
+    stumti su nuostoliais. Tuo
+    metu jie gavo žinią, kad Skirgaila skuba iš Rusios, no­
+    rėdamas pralaužti apsupimo žiedą. Gal iš baimės, mat
     gandai nepaprastai padidino Skirgailos jėgas, gal, žlu­
     gus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal
     dėl kitų sumetimų Vytautas vos išgirdęs, jog artėja
@@ -144,34 +98,20 @@ Nenurodyta
     N u tra u k ia
     a p su p im ą
     apsupimą ir išvyko link Prū­
-    sijos. Kelionėje jis šiek tiek
-    užtruko prie Naugarduko tvirtovės, kurią Skirgaila ne­
-    seniai buvo pastatęs Neries pakrantėje, ir prie Ukmer­
-    gės, pastatytos Šventosios pakrantėje. Jėga užėmęs ir
-    II
-    323
-
-    ## Puslapis 322
-
-    vieną, ir kitą pilį, išžudė gy-
-    U žim a
-    U k m e r g ę
-    ir
-    nėjus, sudegino įtvirtinimus
-    N a u g a rd u k ą
-    bei šiaip pastatus.
+    sijos.
+  citata_rodoma: "Porą kartų pa- \nPuola, \np a tird a m a s \nbandė visomis jėgomis pulti \nnuostolių \npilis ir abu kartus buvo at­\nstumti su nuostoliais. Tuo \nmetu jie gavo žinią, kad Skirgaila skuba iš Rusios, no­\nrėdamas pralaužti apsupimo žiedą. Gal iš baimės, mat \ngandai nepaprastai padidino Skirgailos jėgas, gal, žlu­\ngus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal \ndėl kitų sumetimų Vytautas vos išgirdęs, jog artėja\nSkirgaila, skubiai nutraukė \nN u tra u k ia \na p su p im ą \napsupimą ir išvyko link Prū­\nsijos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185631
+    - t-196234
 
 - id: c-168993
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 322"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 322."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Jį pasivi­
     jo netoli buvęs Skirgaila, ta­
@@ -179,7 +119,7 @@ Nenurodyta
     tiems būriams arba laisvai beklaidžiojantiems gaudyti,
     nei stoti į tikrą kovą: ji buvo nedidelė ir menkai gink­
     luota. Vis dėlto išdrįsęs grum-
-    Į v e ik ia  m ū š y je  Skir-
+    Į v e ik ia m ū š y je Skir-
     tis atvirame mūšyje, turėjo
     ga ilą
     po trumpų kautynių skaudžiai

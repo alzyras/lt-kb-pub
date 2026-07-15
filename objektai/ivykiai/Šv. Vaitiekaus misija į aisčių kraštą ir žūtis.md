@@ -61,54 +61,6 @@ Nenurodyta
   teiginys: "Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės."
   pagrindžia:
     - c-02131
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Išplaukęs Vysla į jūrą,
-    jis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-
-    vykusius labai neskersuotų, jis atleido visus savo palydovus ir
-    liko tik su dviem kunigais. Tačiau tas nieko nepadėjo: misijo-
-    nieriams čia nesisekė platinti krikščionybės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagonys tuo būdu atkeršijo už savo šventovės
-    įžeidimą. Tas atsitiko 997 m. balandžio 23 d. Misijonierių la-
-    vonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo
-    paskelbtas šventuoju, krikščionybės kankiniu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
-    gavo apsaugą ir išvyko į aisčių kraštą. Išplaukęs Vysla į jūrą,
-    jis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-
-    vykusius labai neskersuotų, jis atleido visus savo palydovus ir
-    liko tik su dviem kunigais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -37,7 +37,6 @@ Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo got
     - c-174311
 - susijęs iš [[objektai/asmenys/Jordanas.md#claim-t-191954|Jordanas]]: Narbutas Jordano aprašymus laikė svarbiais alanams, nes Jordanas, būdamas gotas, esą gerai pažinojo alanus per savo senelio ryšius.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo gotų istoriko Jordano senelis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -61,15 +60,16 @@ Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo got
 - id: c-174311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 64"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 64."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Taip pat yra įrodymų, jog alanai buvo susi­
-    giminiavę su gotais, kuriuos aprašo Jordanas2. Jo apra­
-    šymai yra svarbūs, nes susiję su pačiu autoriumi, kuris,
-    būdamas gotas, gerai pažinojo alanus, — jo senelis bu­
-    vo alanų karaliaus Kartdakso sekretorius. Tačiau šio ra-
-    !
+    Vėlesnių istorinių dalykų tyrinė­
+    tojai supažindina mus su alanais. Erbelotas* mini vieną
+    alanų karaliuką, viešpatavusį savo genties ordoje, kuri
+    klajojo kažkur į šiaurę nuo Derbento1. Čingischano va­
+    dai irgi kariavo 1223 metais toje pačioje ¡pusėje su ala­
+    nais, kuriems pusiau su poloviečiais priklausė Dagesta­
+    nas, nors jų kilmė ir kalba buvo visiškai skirtingos2.
+  citata_rodoma: "Taip pat yra įrodymų, jog alanai buvo susi­\ngiminiavę su gotais, kuriuos aprašo Jordanas2. Jo apra­\nšymai yra svarbūs, nes susiję su pačiu autoriumi, kuris,\nbūdamas gotas, gerai pažinojo alanus, — jo senelis bu­\nvo alanų karaliaus Kartdakso sekretorius. Tačiau šio ra-\n!"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -9,14 +9,14 @@ datos:
   - '1316 m.'
 date_start: '1241'
 date_end: '1316'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - religinis-įvykis
-amziai:
-  - 'XIII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -68,25 +68,8 @@ Nenurodyta
   teiginys: "Dusburgietis trijų saulių pasirodymą laikė ženklu, kad mirs popiežius, o po jo mirties suskils kardinolų kolegija."
   pagrindžia:
     - c-63820
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dusburgietis trijų saulių pasirodymą laikė ženklu, kad mirs popiežius, o po jo mirties suskils kardinolų kolegija.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sitai ir buvo ženklas bei požymis,
-    rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija. Vis dėlto šis skilimas
-    užtruko dvejus metus ir keturis mėnesius, kol kardinolai sutarė dėl busimojo popiežiaus
-    išrinkimo. Pasak Komestoriaus, panašūs ženklai šitaip rodęsi ir tuo metu, kai mirė Julijus
-    Cezaris, o po jo mirties suskilo senatas (Ptol. n 1241).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: '1314 m. kovo 1 d. prie Karpantra, kur buvo Romos kurija, apie aštuntą valandą pasirodė trys saulės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -130,8 +113,7 @@ Nenurodyta
 - id: c-63820
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sitai ir buvo ženklas bei požymis,
     rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija. Vis dėlto šis skilimas
@@ -149,16 +131,18 @@ Nenurodyta
 - id: c-63821
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,
-    apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —
-    pietuose; viena sukosi kaip įprasta, kita— priešingai, nei gamtos patvarkyta; jos ilgai
-    stovėjo danguje, o kiekviena skleidė savo spindulius. Sitai ir buvo ženklas bei požymis,
-    rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija. Vis dėlto šis skilimas
-    užtruko dvejus metus ir keturis mėnesius, kol kardinolai sutarė dėl busimojo popiežiaus
-    išrinkimo.
+    1329 viešpaties metais į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos
+    karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su
+    Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo, Saumburgo, Falkenšteino
+    grafais ir Kerpeno, Geros, Bergo, Rotenšteino, Damiso, Kotbuso, Meiseno valdovais
+    bei Donos burggrafu ir su daugybe Vokietijos bei Anglijos karalysčių kilmingųjų. Su
+    šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių ir 18 tūkstančių karių,
+    neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų
+    pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo viešpaties vardu
+    pakrikštyti, tačiau neilgai trukus jie atkrito nuo krikščionybės.
+    10.
   citata_rodoma: "1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,\napie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —\npietuose; viena sukosi kaip įprasta, kita— priešingai, nei gamtos patvarkyta; jos ilgai\nstovėjo danguje, o kiekviena skleidė savo spindulius. Sitai ir buvo ženklas bei požymis,\nrodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija. Vis dėlto šis skilimas\nužtruko dvejus metus ir keturis mėnesius, kol kardinolai sutarė dėl busimojo popiežiaus\nišrinkimo."
   statusas: verified
   teiginio_tipas: faktas
@@ -170,16 +154,18 @@ Nenurodyta
 - id: c-63822
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    115. Apie tris saulės spindulius ir kolegijos suskilimą
-
-      1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,
-    apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —
-    pietuose; viena sukosi kaip įprasta, kita— priešingai, nei gamtos patvarkyta; jos ilgai
-    stovėjo danguje, o kiekviena skleidė savo spindulius. Sitai ir buvo ženklas bei požymis,
-    rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija.
+    1329 viešpaties metais į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos
+    karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su
+    Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo, Saumburgo, Falkenšteino
+    grafais ir Kerpeno, Geros, Bergo, Rotenšteino, Damiso, Kotbuso, Meiseno valdovais
+    bei Donos burggrafu ir su daugybe Vokietijos bei Anglijos karalysčių kilmingųjų. Su
+    šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių ir 18 tūkstančių karių,
+    neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų
+    pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo viešpaties vardu
+    pakrikštyti, tačiau neilgai trukus jie atkrito nuo krikščionybės.
+    10.
   citata_rodoma: "115. Apie tris saulės spindulius ir kolegijos suskilimą\n\n  1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,\napie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —\npietuose; viena sukosi kaip įprasta, kita— priešingai, nei gamtos patvarkyta; jos ilgai\nstovėjo danguje, o kiekviena skleidė savo spindulius. Sitai ir buvo ženklas bei požymis,\nrodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija."
   statusas: verified
   teiginio_tipas: faktas

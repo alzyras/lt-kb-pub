@@ -82,62 +82,6 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 - susijęs iš [[objektai/ivykiai/J. Tūbelio kabineto atsistatydinimas po Lenkijos ultimatumo (1938 m.).md#claim-t-20209|J. Tūbelio kabineto atsistatydinimas po Lenkijos ultimatumo (1938 m.)]]: Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77968|A. Smetona]]: Priėmus Lenkijos ultimatumą premjeru tapęs kunigas Vladas Mironas buvo A. Smetonai artimas asmuo.
 - susijęs iš [[objektai/asmenys/Stasys Lozoraitis.md#claim-t-46320|Stasys Lozoraitis]]: Po Lenkijos ultimatumo priėmimo Vladas Mironas atleido Stasį Lozoraitį, kurio politinė linija pralaimėjo.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva tai laikė taktiniu atsi-
-    traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
-    Vilnius yra Lietuvos sostinė.
-    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
-    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
-    Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
-    valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos
-    teritorijos ir 5 proc. gyventojų, prarasta trečdalis ekonomikos, o 70 proc.
-    šalies eksporto ėjo per Klaipėdą.
-    Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-
-    ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
-    Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
-    tijos gavo po dvi ministrų vietas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl 1936 m. vasarą
-    vykę rinkimai nebuvo demokratiniai, o išrinktas IV Seimas vadintas
-    „smetoniniu Seimu“. Jo 49 narių daugumą sudarė tautininkai ar valdžiai
-    lojalūs asmenys.
-    Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino pa-
-    skelbta nauja šalies konstitucija, kurią pasirašė prezidentas A. Smetona
-    ir ministras pirmininkas V. Mironas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-54988
@@ -158,6 +102,7 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-54007
     - t-54008
 
 - id: c-54989
@@ -179,6 +124,7 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54005
+    - t-54009
 
 - id: c-54990
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

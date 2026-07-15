@@ -32,36 +32,10 @@ Volkovysko apskrityje per mylią nuo grafo Tiškevičiaus Svisločės buvo Radov
 <a id="claim-t-192901"></a>
 - t-001
   global_id: t-192901
-  teiginys: "Volkovysko apskrityje per mylią nuo grafo Tiškevičiaus Svisločės buvo Radovickių kaimas Jatwiesk."
+  teiginys: 'Volkovysko apskrityje per mylią nuo grafo Tiškevičiaus Svisločės buvo Radovickių kaimas Jatwiesk.'
   pagrindžia:
     - c-175671
 - susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Volkovysko apskrityje per mylią nuo grafo Tiškevičiaus Svisločės buvo Radovickių kaimas Jatwiesk.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    138
-
-    ## Puslapis 136
-
-    čiam žinomi Lydos apskrityje du kaimai, esantys tarp
-    Sčiučino ir Kamenkos, kurių vienas vadinasi J atmesk
-    Polski, antras — / atmesk Ruski-, ¡pirmame yra Romos ka­
-    talikų lotynų apeigų bažnytėlė, o antrame — unitų tikė­
-    jimo rusų cerkvelė. Volkovysko apskrityje, per mylią nuo
-    grafo Tiškevičiaus Svisločės, yra Radovickių kaimas Jat-
-    wiesk. Tai aiškūs dviejų skirtingų religijų kolonistų, at­
-    vestų iš Jotvingijos, pėdsakai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175671
@@ -86,4 +60,4 @@ Volkovysko apskrityje per mylią nuo grafo Tiškevičiaus Svisločės buvo Radov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192901
+    - t-001

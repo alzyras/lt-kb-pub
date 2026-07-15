@@ -43,27 +43,6 @@ Prie kulkosvaidžio pritvirtintas užrašas: „Kulkosvydis, iš kurio šaudydam
   teiginys: "Karužas Sidaravičius žuvo šaudydamas iš kulkosvaidžio, kuris du kartus buvo patekęs rusams ir vėl atimtas."
   pagrindžia:
     - c-41613
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prie kulkosvaidžio pritvirtintas užrašas:
-    „Kulkosvydis, iš kurio šaudydamas
-    žuvo karužas Sidaravičius. Du syk
-    buvo patekęs rusams ir vėl atimtas.
-    1924/VIl19 m.“
-
-    BOLŠEVIKŲ ŠTABO SUNAIKINIMAS
-
-    Lengvasis vokiškas kulkosvaidis MG 08/15 Špandau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

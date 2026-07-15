@@ -58,25 +58,6 @@ Nenurodyta
   teiginys: "1298 m. pavasarį lietuviai ir rygiečiai prie Neuermühleno sudegino Ordino medžiagą, skirtą rygiečių laivybai Dauguva sustabdyti."
   pagrindžia:
     - c-28756
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bendrai veikdami, lietuviai ir rygiečiai 1298 m. pavasarį sude­
-    gino prie Neuermühleno ordino sukrautą medžiagą, skirtą sustab­
-    dyti rygiečių laivybai Dauguva. Atvykęs pats Vytenis, gegužės
-    gale sunaikino į šiaurę nuo Rygos ordino pilį Karkhaus (Karkus).
-    Veltui kryžiuočiai grižtantiems prie upės Toreidos pastojo kelią
-    (VI. 1). Čia žuvo pats magistras Bruno, Fellino komtūras ir 20
-    riterių^33.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

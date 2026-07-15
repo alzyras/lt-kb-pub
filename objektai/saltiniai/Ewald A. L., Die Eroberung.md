@@ -14,12 +14,12 @@ datos:
   - '1283 m.'
 date_start: '1249'
 date_end: '1283'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -68,24 +68,8 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   teiginys: "Ewaldo veikalas „Die Eroberung“ nurodomas kaip šaltinis Herkaus Manto žūčiai 1273 m. vasarą ar rudenį datuoti."
   pagrindžia:
     - c-61503
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas aprašant 1279–1280 m. žiemos puolimą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Čia minimas ežeras ieškotas ir  į
-    šiaurę nuo Augustavo (Łowmiański H., Studja..., 2, p. 43). Aprašomas 1279—1280 m.
-    žiemos puolimas (Ewald A. L., Die Eroberung..., 4, p. 247; Regesta Lithuaniae..., p.
-    117).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: 'Ewaldo veikalas „Die Eroberung“ nurodomas kaip šaltinis Herkaus Manto žūčiai 1273 m. vasarą ar rudenį datuoti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -100,41 +84,12 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   pagrindžia:
     - t-004
 
-- c-003
-  santrauka: 'Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip šaltinis Sembos puolimui 1280 m. vėlyvą rudenį datuoti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    497 Semba buvo puolama 1280 m. vėlyvą rudenį (Ewald A. L., Die Eroberung..., 4,
-    p. 251).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip Kimenavos puolimo datavimo 1278 m. šaltinis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kimenavos puolimas datuojamas 1278 m. (Ewald A.  L., Die Eroberung..., 4, p.
-    240).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-61502
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 164"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Čia minimas ežeras ieškotas ir  į
     šiaurę nuo Augustavo (Łowmiański H., Studja..., 2, p. 43). Aprašomas 1279—1280 m.
@@ -150,11 +105,15 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
 - id: c-61503
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4,
-    p. 108; Jasas R., Didysis.., p. 61).
+    Mat paprastai prisimenama,
+    kas dėjosi, bet kada — atmintyje neišlieka. Dėl to čia rasi daug ką paminėta ir aprašyta
+    užbėgant laikui už akių. Kai varmiai, notangai ir bartai atsimetė 1260 viešpaties metais
+    nuo tikėjimo ir tikinčiųjų, su ginklu rankose jie skersai ir išilgai išnaršė savo žemes,
+    žudydami krikščionis, kiek tik jų kur besurasdami, o moteris bei vaikus varydamiesi į
+    nelaisvę.
+  citata_rodoma: "411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4,\np. 108; Jasas R., Didysis.., p. 61)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -165,10 +124,9 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
 - id: c-61504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 164"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    497 Semba buvo puolama 1280 m. vėlyvą rudenį (Ewald A. L., Die Eroberung..., 4,
+    497  Semba buvo puolama 1280 m. vėlyvą rudenį (Ewald A. L., Die Eroberung..., 4,
     p. 251).
   statusas: verified
   teiginio_tipas: faktas
@@ -180,10 +138,9 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
 - id: c-61505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 161"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 161."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kimenavos puolimas datuojamas 1278 m. (Ewald A.  L., Die Eroberung..., 4, p.
+    Kimenavos puolimas datuojamas 1278 m. (Ewald A. L., Die Eroberung..., 4, p.
     240).
   statusas: verified
   teiginio_tipas: faktas

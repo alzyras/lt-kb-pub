@@ -8,16 +8,16 @@ datos:
   - '1825 m.'
 date_start: '1825'
 date_end: ''
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - mokslininkas
   - autorius
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -66,75 +66,15 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   teiginys: "18 Lelevelio senovės geografijos tyrimai."
   pagrindžia:
     - c-177059
+
+<a id="claim-t-197303"></a>
+- t-005
+  global_id: t-197303
+  teiginys: "Joachimas Lelevelis pasidaro šiek tiek didesnė."
+  pagrindžia:
+    - c-179115
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Caro administracija ėmėsi tyrimo,
-    kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
-    dentų ir moksleivių jaunimą. Apkaltinus per 100 asmenų, dvidešimt, tarp
-    jų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus. Išvaryti ir politiš-
-    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
-    iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
-    dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
-    policiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visos istorinės Lietuvos žemės visuomeninio ir kultūrinio gyvenimo
-    centru tapo Vilniaus universitetas, tapęs iškiliausiu lenkų kultūros centru
-    už etnografinės Lenkijos ribų. Šis laikotarpis bene didžiausio universiteto
-    klestėjimo metai – studentų skaičius nuo 200 padidėjo iki 1 300. Universi-
-    tete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Le-
-    lewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830),
-    chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liu-
-    dvigas Heinrichas Bojanus (Lu-
-    dwig Heinrich Bojanus) ir Edu-
-    ardas Karolis Eichvaldas (Edward
-    Karol Eichwald), iš Austrijos at-
-    vykę Johanas Pėteris Frankas (Jo-
-    hann Peter Frank) ir jo sūnus Jo-
-    zefas Frankas (Joseph Frank) – jų
-    darbai buvo žinomi tarptautiniu
-    mastu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Joachimas Lelevelis dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas istorija.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Išsamesnėms krašto praeities studijoms istoriką galė­
-    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
-    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
-    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
-    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
-    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
-    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
-    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
-    kus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: '18 Lelevelio senovės geografijos tyrimai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -208,8 +148,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - id: c-171299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Išsamesnėms krašto praeities studijoms istoriką galė­
     jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
@@ -230,18 +169,41 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - id: c-177059
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 140"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 140."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ši deivė savo reikšme visiškai tapati romėnų žinomam die­
-    vaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo
-    paprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­
-    kirtimo vietoje.
-    18 Lelevelio senovės geografijos tyrimai*.
-    19 Kunigo Sirvydo žodynas.
+    Bet ketvirtoji - Gadintoja (Ga­
+    dintoja) - savo pasakomis dažnai sugebėdavo anas atitraukti
+    nuo darbo; jos dirbdavo arba blogai, arba visiškai nutraukdavo
+    darbą. Tokiais atvejais žmogui imdavo nesisekti; dažnai toji pik­
+    ta deivė vogčiomis imdavo gadinti darbą, ir žmogus tapdavo luo­
+    šiu arba išsikraustydavo iš proto. Bet penktoji deivė - Sargė (Sar-
+    gietoje) - tai pastebėjusi, anoms trims primindavo jų priedermes
+    ir sergėdavo žmonių likimus.
+  citata_rodoma: "Ši deivė savo reikšme visiškai tapati romėnų žinomam die­\nvaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo\npaprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­\nkirtimo vietoje.\n18 Lelevelio senovės geografijos tyrimai*.\n19 Kunigo Sirvydo žodynas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194662
+
+- id: c-179115
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Toji Verpėja verpia taip aukštai, kad,
+    nors per dieną nuverpia tokį ilgą siūlą, kuriuo būtų galima
+    skersai išmatuoti visą pasaulį, vis dėlto ta žvaigždė leidžiasi
+    juo po truputį ir tik po daugelio metų ji pasidaro šiek tiek
+    didesnė. Todėl galima manyti, kad kuo mažesnės žvaigždės,
+    tuo jaunesniems žmonėms jos priklauso. Tą minutę, kai Lem­
+    tis nusprendžia, jog turi baigtis žmogaus gyvenimo dienos, siū­
+    las tuojau nutrūksta, žvaigždė krenta, gęsta ore, ir žmogus mirš­
+    ta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197303

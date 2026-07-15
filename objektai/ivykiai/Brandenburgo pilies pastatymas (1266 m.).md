@@ -7,12 +7,12 @@ datos:
   - '1266 m.'
 date_start: '1266'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,8 +56,8 @@ Nenurodyta
   teiginys: "1266 m. Brandenburgo markgrafas, magistro ir brolių patariamas, Prūsijoje pastatydino Brandenburgo pilį."
   pagrindžia:
     - c-63530
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1266 m. Brandenburgo markgrafas, magistro ir brolių patariamas, Prūsijoje pastatydino Brandenburgo pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -81,12 +81,11 @@ Nenurodyta
 - id: c-63530
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 130."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Sitai pamatę, kiti, apimti baimės, atsitraukė.
     127 (122). Apie Brandenburgo pilies pastatymą
-
-      Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių  į Prūsijos
+    Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių į Prūsijos
     žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro
     bei brolių patariamas, pastatydino Brandenburgo pilį399 ir panorėjo, kad ji visą laiką būtų
     vadinama tuo pat vardu, kaip vadinama ir jo markgrafystė.

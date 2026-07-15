@@ -97,68 +97,21 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
 - susijęs iš [[objektai/zodynas/viešpaties darbas opus domini.md#claim-t-58939|viešpaties darbas opus domini]]: Petras Dusburgietis Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą „iš dievo malonės“ ir „viešpaties darbą“.
 - susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
 - susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Antrosios atskalūnybės metais prūsai prie Marienverderio surengė pasalą, užėmė miestą, jį sudegino ir pasitraukė su grobiu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dėl to, subūrę daugybę karių, antrosios
-    atskalūnybės metais patraukė prie Marienverderio miesto  ir, tinkamoje vietoje įrengę
-    pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams]. Broliai ir miestiečiai su
-    savo ginklanešiais išpuolė į lauką, buvusį tarp miesto ir malūno, smarkiai juos užpuolė,
-    daugybę nukovė ar mirtinai sužeidė; kai jau tikėjosi juos visus iki vieno išžudę, staiga iš
-    pasalų iššoko prūsai ir išmušė visus brolius bei miestiečius, išskyrus kelis, pasprukusius
-    į miestą. Atkakliai juos persekiodami, prūsai po trumpų grumtynių užėmė miestą, dalį
-    gyventojų paėmė  į nelaisvę, dalį išžudė, išskyrus tuos, kurie paspruko  į pilį ir šitaip
-    išsigelbėjo. Ligi pamatų sugriovę ir sudeginę miestą, prūsai pasitraukė su dideliu grobiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Prūsai antrą kartą sugriovė atstatytą Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba nužudė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie antrąjį minėtojo Marienverderio miesto sugriovimą
-
-      Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
-    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
-    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
-    pamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš
-    Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
-    šalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio
-    miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė
-    žūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
-    buvo arba paimti į nelaisvę, arba užmušti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-167564
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 139"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dėl to, subūrę daugybę karių, antrosios
-    atskalūnybės metais patraukė prie Marienverderio miesto  ir, tinkamoje vietoje įrengę
+    atskalūnybės metais patraukė prie Marienverderio miesto ir, tinkamoje vietoje įrengę
     pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams]. Broliai ir miestiečiai su
     savo ginklanešiais išpuolė į lauką, buvusį tarp miesto ir malūno, smarkiai juos užpuolė,
     daugybę nukovė ar mirtinai sužeidė; kai jau tikėjosi juos visus iki vieno išžudę, staiga iš
     pasalų iššoko prūsai ir išmušė visus brolius bei miestiečius, išskyrus kelis, pasprukusius
     į miestą. Atkakliai juos persekiodami, prūsai po trumpų grumtynių užėmė miestą, dalį
-    gyventojų paėmė  į nelaisvę, dalį išžudė, išskyrus tuos, kurie paspruko  į pilį ir šitaip
+    gyventojų paėmė į nelaisvę, dalį išžudė, išskyrus tuos, kurie paspruko į pilį ir šitaip
     išsigelbėjo. Ligi pamatų sugriovę ir sudeginę miestą, prūsai pasitraukė su dideliu grobiu.
   statusas: verified
   teiginio_tipas: faktas
@@ -170,19 +123,17 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
 - id: c-167565
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 139"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie antrąjį minėtojo Marienverderio miesto sugriovimą
-
-      Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
+    Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio
     miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
     prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
     pamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš
     Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
     šalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio
     miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė
-    žūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
+    žūties, pabėgdami į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
     buvo arba paimti į nelaisvę, arba užmušti.
   statusas: verified
   teiginio_tipas: faktas

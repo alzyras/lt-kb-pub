@@ -52,32 +52,6 @@ Vartojamos formos: `ūkės vilkėjomis`.
   pagrindžia:
     - c-09584
     - c-09585
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Mažosios savo rūtas augino, ravėdamos ir visaip jas gerbdamos, idant ir jos būt jau vadinamos ūkės vilkėjomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    bus didi gaspadinė^402 ir ūkės vilkėja. Kitos sėjo, arė, šieną pjovė ir javus nuo lauko valijo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -107,5 +81,5 @@ Vartojamos formos: `ūkės vilkėjomis`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07653
     - t-07652
+    - t-07653

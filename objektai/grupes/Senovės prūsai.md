@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su vyriausiuoju žyniu“5. Narbutas rašo, kad senovės prūsų tarme jaunajai dedamas vainikas vadintas apglobte (Abglojte) ir reiškė nuometą.
+Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su vyriausiuoju žyniu“5. Narbutas rašo, kad senovės prūsų tarme jaunajai dedamas vainikas vadintas apglobte (Abglojte) ir reiškė nuometą. Ypač slavai, mėgs tantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa pročiuose nuslysta į kraštutinumą; net pagyvenusios moterys pirmos rodo pavyzdį: jų dainos girtą vestuvių pavakarę nu rungia bet kokį senovės cinizmo įsivaizdavimą.
 
 ## Teiginiai
 
@@ -40,6 +40,13 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
 - t-002
   global_id: t-189502
   teiginys: "Narbutas rašo, kad senovės prūsų tarme jaunajai dedamas vainikas vadintas apglobte (Abglojte) ir reiškė nuometą."
+  pagrindžia:
+    - c-172390
+
+<a id="claim-t-197220"></a>
+- t-003
+  global_id: t-197220
+  teiginys: "Ypač slavai, mėgs tantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa pročiuose nuslysta į kraštutinumą; net pagyvenusios moterys pirmos rodo pavyzdį: jų dainos girtą vestuvių pavakarę nu rungia bet kokį senovės cinizmo įsivaizdavimą."
   pagrindžia:
     - c-172390
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189981|Kristoforas Hartknochas]]: Narbutas kritikavo Hartknochą, kad šis prūsų laiko skaičiavimą naktimis kildino iš spėjimų apie gotų mėgdžiojimą.
@@ -61,7 +68,6 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
 - susijęs iš Drujos apylinkės ir Druja: 1811 metais Drujos apylinkėse, nusausinto ežero dugne, rastos trys žalvarinės statulėlės ant trikampės žalvarinės lentos.
 - susijęs iš [[objektai/zodynas/Veliona Wellona.md#claim-t-189187|Veliona Wellona]]: Velioną (Wellona) Narbutas apibūdina kaip amžinybės, amžinos vilties ir būsimo pomirtinio gyvenimo deivę.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su vyriausiuoju žyniu“5.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -81,38 +87,26 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas rašo, kad senovės prūsų tarme jaunajai dedamas vainikas vadintas apglobte (Abglojte) ir reiškė nuometą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Visa tai trukdavo iki vėlyvos nakties.
-    Prieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­
-    vos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­
-    kišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-
-    globtė (Abglojte), kas reiškia nuometą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172389
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 347"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 347."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kartais, tik­
-    riausiai kaip apgavikiškus monus, žmonėms rodydavo baisias
-    gyvates, slibinus, pabaisas, baidykles ir panašias baisybes. Iš­
-    girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal­
-    basi su vyriausiuoju žyniu“5.
-    Buvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­
-    mui ir atskleisti slaptam.
+    graikiškų ir 1.1, papročių71. Senovės prūsų merginas, jeigu norė­
+    davo jas vesti, turėdavo iš tėvų nusipirkti1.
+    Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi­
+    me vedybų papročius, bendrus lietuviams ir skandinavams, tai
+    yra kad tik viena, pirmoji, žmona buvo iš tikrųjų laikoma tei­
+    sėta žmona ir namų šeimininke, o vėliau paimtos į namus mo­
+    terys neturėjo tokios reikšmės ir nors jų vaikai, tėvo pripažin­
+    ti, buvo laikomi teisėtais, kaip ir pagimdyti pirmosios žmonos,
+    vis dėlto ta daugpatystė buvo labai apribota, net iki to, kad
+    kitos žmonos buvo laikomos vergėmis ir namų nuosavybe, ku­
+    rią po šeimininko mirties pasidalydavo įpėdiniai; jos būdavo
+    arba iš paimtų per karą, arba nupirktos iš vargingų tėvų.
+  citata_rodoma: "Kartais, tik­\nriausiai kaip apgavikiškus monus, žmonėms rodydavo baisias\ngyvates, slibinus, pabaisas, baidykles ir panašias baisybes. Iš­\ngirdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal­\nbasi su vyriausiuoju žyniu“5.\nBuvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­\nmui ir atskleisti slaptam."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -123,17 +117,22 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
 - id: c-172390
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 357"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 357."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Visa tai trukdavo iki vėlyvos nakties.
-    Prieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­
-    vos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­
-    kišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-
-    globtė (Abglojte), kas reiškia nuometą.
+    Ypač slavai, mėgs­
+    tantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa­
+    pročiuose nuslysta į kraštutinumą; net pagyvenusios moterys
+    pirmos rodo pavyzdį: jų dainos girtą vestuvių pavakarę nu­
+    rungia bet kokį senovės cinizmo įsivaizdavimą. Priešingai, lie­
+    tuvių genties tautose šito negalima susekti - nei jų kalboje,
+    nei tautinėse dainose nėra nieko panašaus; joms net trūksta
+    tokių žodžių. Kiek stengėmės aptikti tokių dalykų šių dienų
+    lietuviuose, šitaip suslavėjusiuose, niekad ir niekur negalėjo­
+    me to pastebėti.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189502
+    - t-197220

@@ -47,29 +47,6 @@ Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje (AkMD, t. Tautavičius, A. J
 - susijęs iš [[objektai/autoriai/Archeologai ir priešistorės tyrėjai.md#claim-t-179501|Archeologai ir priešistorės tyrėjai]]: P. Kulikauskas, R. Kulikauskienė ir A. Tautavičius 1961 m. išleido knygą „Lietuvos archeologijos bruožai“.
 - susijęs iš [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas.md#claim-t-31259|LTSR Mokslų Akademijos Istorijos Institutas]]: LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.
 - susijęs iš Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje: „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“ buvo kas dvejus metus leidžiamas LTSR MA Istorijos instituto leidinys.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Tautavičius tyrinėjo Rytų Lietuvos ir Kapitoniškių pilkapius bei Vilniaus žemutinės pilies teritoriją.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^76) ĮVADAS
-    pins^95. R. Volkaitė - Kulikauskienė, parašiusi _Lietuviai
-    IX-XII amžiais_ (VoKL), _Klasinės visuomenės susidarymas Lietuvoje
-    {Remiantis archeologinių kasinėjimų duomenimis_ ) (VUMD, t. 5,
-    1955)^96. A. Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje
-    (AkMD, t. 1, 1955, 87-97 p.), Kapitoniškiuose (AkMD, t. 2, 1957,
-    95-108 p.), Vilniaus žemutinės pilies teritoriją 1955-1960 m. (AkMD,
-    t. 4, 1958, 91-110 p. ; t. 6, 1959, 115-133 p. ; t. 11, 1961, 103-123 p.),
-    rašęs _Lietuvių ir jotvingių genčių gyventų plotų ribų klausimu_ 97.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32891

@@ -34,24 +34,6 @@ media_all_json: |-
   teiginys: "Slaptajame archyve buvo saugomi 65 Dinaburgo komtūro laiškai."
   pagrindžia:
     - c-84281
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Slaptajame archyve buvo saugomi 65 Dinaburgo komtūro laiškai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    65
-    Dinaburgo komtūro laiškus, Slapt. Ar­
-    chyve. Žr. Il pried. Lenkijos ir Lie­
-    tuvos istorikams taip pat nieko apie
-    tą gaisrą mieste nėra žinoma.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

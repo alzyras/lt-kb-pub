@@ -44,39 +44,6 @@ Lietuvos Tarybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami
   pagrindžia:
     - c-26688
 - susijęs iš [[objektai/asmenys/Matijas Ercbergeris.md#claim-t-26455|Matijas Ercbergeris]]: Matijas Ercbergeris rėmė Lietuvos Tarybos monarchistus, kai 1918 m. liepos 13 d. Vilhelmas fon Urachas buvo pakviestas į Lietuvos sostą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kovo 23 dieną Berlyne A. Smetonos vadovau-
-    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
-    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
-    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
-    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
-    gruodžio 11-osios rezoliucijos pagrindu.
-    Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
-    vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
-    jungti Lietuvą personaline unija su Saksonija arba Prūsija. Lietuvos Ta-
-    rybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami
-    tokias idėjas, remiami katalikų centro Reichstage vadovo Matijo Ercber-
-    gerio (Matthias Erzberger), pakvietė Viurtembergo kunigaikštį Vilhelmą
-    fon Urachą (Wilhelm von Urach) užimti Lietuvos sostą ir paskelbė jį ka-
-    Lietuvos Taryba 1918 m., penktas iš kairės pirmoje eilėje
-    dr. J. Basanavičius, šeštas – A. Smetona
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    137
-    raliumi Mindaugu II.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-26688

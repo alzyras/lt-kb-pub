@@ -22,17 +22,17 @@ media_all_json: |-
 
 ## Santrauka
 
-Basanavičius Paulių Straszynskį aprašė kaip lenkišką Seinų vyskupą, kuris XIX a. 4–5 dešimtmečiais draudė lietuvių kalbą bažnyčiose ir žemino lietuvius.
+Basanavičius Paulių Straszynskį vaizdavo kaip Seinų vyskupą, draudusį lietuvių kalbą bažnyčiose ir menkinusį lietuviškumą.
 
 ## Teiginiai
 
 <a id="claim-t-200884"></a>
 - t-001
   global_id: t-200884
-  teiginys: "Basanavičius Paulių Straszynskį aprašė kaip lenkišką Seinų vyskupą, kuris XIX a. 4–5 dešimtmečiais draudė lietuvių kalbą bažnyčiose ir žemino lietuvius."
+  teiginys: "Basanavičius Paulių Straszynskį vaizdavo kaip Seinų vyskupą, draudusį lietuvių kalbą bažnyčiose ir menkinusį lietuviškumą."
   pagrindžia:
     - c-184229
-
+- susijęs iš Lietuva: Basanavičius Seinų vyskupą Paulių Straszynskį vaizdavo kaip XIX a. 4-ajame ir 5-ajame dešimtmečiais Lietuvoje priešišką lietuvių kalbai.
 ## Citatos
 
 - id: c-184229

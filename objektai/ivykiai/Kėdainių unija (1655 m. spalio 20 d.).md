@@ -71,50 +71,6 @@ Nenurodyta
   teiginys: "Jonušas Radvila siekė nutraukti LDK uniją su Lenkija ir sudaryti naują uniją su Švedija."
   pagrindžia:
     - c-43064
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    J. Radvila ir lauko etmonas
-    V. Gosievskis 1655 m. pasirašė LDK pasidavimo Švedijai
-    aktą (didesnė dalis Lenkijos jau buvo pasidavusi
-    švedams prieš tai). J. Radvila buvo unijos su Lenkija
-    nutraukimo ir sudarymo jos su Švedija šalininkas.
-    Jo pastangomis unija buvo sudaryta Kėdainiuose
-    1655 m. spalio 20 d. Švedai visgi nevertino šios uni-
-    jos ir jo lūkesčių nepateisino, J. Radvila negavo jokių
-    reikšmingų pareigų, karinė pagalba suteikta nebuvo,
-    užimtoje teritorijoje švedai elgėsi kaip okupantai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-
-- c-002
-  santrauka: 'Po Kėdainių unijos švedai nepateisino Jonušo Radvilos lūkesčių: jis negavo reikšmingų pareigų, o karinė pagalba nebuvo suteikta.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Švedai visgi nevertino šios uni-
-    jos ir jo lūkesčių nepateisino, J. Radvila negavo jokių
-    reikšmingų pareigų, karinė pagalba suteikta nebuvo,
-    užimtoje teritorijoje švedai elgėsi kaip okupantai.
-    Nuo J. Radvilos nusisuko didesnė dalis Lietuvos ba-
-    jorijos ir pradėjo kovą prieš švedus. Netrukus Jonušas
-    Radvila mirė. Lenkijos istoriografijoje jis už šį „šve-
-    diškos alternatyvos“ Lietuvai pabandymą paprastai
-    vadinamas išdaviku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -139,8 +95,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80675
     - t-80673
+    - t-80675
 
 - id: c-43066
   sudarytojas: "Karolis Zikaras"

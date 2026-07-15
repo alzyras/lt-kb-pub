@@ -41,25 +41,6 @@ Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į A
   teiginys: "1783 m. JAV konstitucija citatoje įvardijama kaip pirmoji pasaulyje rašytinė konstitucija."
   pagrindžia:
     - c-75436
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1783 m. JAV konstitucija citatoje įvardijama kaip pirmoji pasaulyje rašytinė konstitucija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lenkijos ir Lietuvos
-    konstitucijos konstruojama santvarka turėjo lygiuotis į Anglijoje prieš
-    100 metų įvestą santvarką, tiesa, taip ir nesulaukusią rašytinės konstitu-
-    cijos. Tokia pirmoji pasaulyje buvo priimta JAV – 1783 m. konstitucija.
-    Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
-    mėnesiais aplenkusi Prancūzijos konstituciją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

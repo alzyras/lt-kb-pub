@@ -43,21 +43,6 @@ Lopata R.
   teiginys: "R. Lopata parašė veikalą „Lietuvos valstybingumo raida 1914–1918 metais“, išleistą Vilniuje 1996 m."
   pagrindžia:
     - c-20769
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ams-
-    terdam–New York, 2010.
-    Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

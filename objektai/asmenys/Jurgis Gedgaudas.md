@@ -43,22 +43,6 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
   teiginys: "1415 m. į Konstancą atsiųstiems pakrikštytiems žemaičių bajorams vadovavo Vytauto didikas Jurgis Gedgaudas."
   pagrindžia:
     - c-28930
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vytautas (1415.
-    XI.) atsiuntė į Konstancą 60 jau pakrikštytų Žemaičių bajorų.
-    Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis
-    Galminas) ir jo sekretorius lenkas Mikalojus Sepienskis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

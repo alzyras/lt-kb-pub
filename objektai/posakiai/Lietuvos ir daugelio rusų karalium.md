@@ -43,23 +43,6 @@ media_all_json: |-
   teiginys: "Gediminas raštuose save titulavo Lietuvos ir daugelio rusų karaliumi."
   pagrindžia:
     - c-00253
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Gediminas jau aiškiai buvo nusistatęs prie savo valstybės pri-
-    jungti visą Rusiją. O kadangi tuo tarpu dar jos visõs nebuvo
-    užėmęs, tai raštuose save tituluodavo „Lietuvos ir dau-
-    gelio rusų karalium" _(Rex lithuanorum et multorum
-    ruthenorum)._
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -40,31 +40,6 @@ Jau veikiau tai netvirtas ir varganas būvis, a) Ši nuomonė, įžvalgiausių i
   teiginys: "Hallamas veikale „View of the state of Europe etc“ miestų kūrimosi prielaidas siejo su kiekvienos šalies vietinėmis sąlygomis."
   pagrindžia:
     - c-84326
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Hallamas veikale „View of the state of Europe etc“ miestų kūrimosi prielaidas siejo su kiekvienos šalies vietinėmis sąlygomis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nebuvo jie, galima sakyti, nei tikrai laisvi, nei vi­
-    sai priklausomi. Jau veikiau tai netvirtas ir varganas būvis,
-    a)
-    Ši nuomonė, įžvalgiausių istorikų vi­
-    suotinai pripažįstama, pirmą kartą
-    sutiko pasipriešinimą anglų auto­
-    riaus H a 1 1  a m o asmenyje, kuris
-    savo kūrinyje View of the state of Eu­
-    rope etc. London, 1813 in 4-to, t. 1,
-    prielaidas miestams kurtis nori
-    įžiūrėti tiesiog kiekvienos šalies vie­
-    tinėse sąlygose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

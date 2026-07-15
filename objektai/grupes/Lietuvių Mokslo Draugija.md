@@ -18,6 +18,8 @@ amziai:
   - 'XX'
 sukurta: ''
 atnaujinta: ''
+aliases:
+  - 'objektai/grupes/Lietuvių mokslo draugija'
 tags:
   - grupe
   - tauta

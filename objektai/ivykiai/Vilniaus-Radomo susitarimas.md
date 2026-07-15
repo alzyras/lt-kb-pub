@@ -68,44 +68,8 @@ Nenurodyta
   teiginys: "Po Vorsklos pralaimėjimo 1401 m. Vilniaus ir Radomo suvažiavimuose buvo aiškiau nustatyti Vytauto ir Karūnos santykiai."
   pagrindžia:
     - c-67050
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vis dėlto norėtųsi manyti, kad toks dokumentas
-    Jogailos buvo išduotas.
-    Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
-    teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
-    Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1401 m. po ilgų derybų pasiektą Vilniaus-Radomo susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkijos bajorai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po ilgų derybų, 1401 m. buvo pa-
-    siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
-    kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
-    gaila, Lietuvos ir Lenkų bajorai. Vytauto ir Lietuvos bajorų
-    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
-    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
-    rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
-    Radomo susitarimu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

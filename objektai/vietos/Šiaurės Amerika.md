@@ -37,39 +37,12 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
 
 ## Teiginiai
 
-<a id="claim-t-44043"></a>
+<a id="claim-t-44042"></a>
 - t-001
-  global_id: t-44043
+  global_id: t-44042
   teiginys: "Lietuvių kolonija Šiaurės Amerikoje nuo karo pradžios šelpė nukentėjusią Lietuvą ir iš pradžių reikalavo autonomijos, vėliau nepriklausomybės."
   pagrindžia:
     - c-47210
-
-<a id="claim-t-44043"></a>
-- t-002
-  global_id: t-44043
-  teiginys: "Lietuvių kolonija Šiaurės Amerikoje nuo karo pradžios šelpė nukentėjusią Lietuvą ir iš pradžių reikalavo autonomijos, vėliau nepriklausomybės."
-  pagrindžia:
-    - c-47210
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **4. Lietuvių veikla Amerikoj, Šveicarijoj ir kitur**
-
-    Didžioji lietuvių kolonija Šiaurės Amerikoj nuo
-    pat karo pradžios griebėsi šelpti nukentėjusią tėvynę ir reika-
-    lavo iš pradžių autonomijos, o vėliau ir nepriklausomybės. Tą
-    darbą įvairios srovės organizavo skyrium, o 1918 metų pradžioj
-    sukūrė bendrą Vykdomąjį Komitetą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -91,5 +64,4 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-44043
     - t-44042

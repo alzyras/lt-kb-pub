@@ -42,26 +42,8 @@ Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J
   teiginys: "Dundulienės P. darbas „Medžiai“ minimas bibliografijoje apie Romovę arba Romuvą."
   pagrindžia:
     - c-65266
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dundulienės P. darbas „Medžiai“ minimas bibliografijoje apie Romovę arba Romuvą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
-    Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32,
-    d. 2, p. 321; t. 33, p. 264; t. 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J.,
-    Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89;
-    Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės
-    baltų..., p. 221—223, 234.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: 'Dundulienės darbas cituojamas teiginiui, kad balti ir juodi Perkūno žirgai buvo žinomi, o tokio plauko žirgai ypatingai gerbti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -84,8 +66,7 @@ Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J
 - id: c-65266
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
     Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32,
@@ -103,14 +84,14 @@ Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J
 - id: c-65267
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 71"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 71."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tarp šių pilių, netoli ežero, pavadinto Pipino ežeru,
-
-      215  Tautosakoje baltas arklys ar balta kumelė — stebuklingi. Žinomi balti ir juodi
-    Perkūno žirgai, šio plauko žirgai buvę ypatingai gerbiami (Dundulienė P., Arklys..., p.
-    83—101).
+    Žioka (Būga K., 3,
+    p. 135; MPKP, 1, p. 25) ar Skokiai (Salys A.), kartais buvo rašoma ir Šakiai. Vietovė ir
+    tuo pat vardu vienas didžiausių Sembos valsčių buvęs šiaurės Semboje, pietinėje Kuršių
+    marių pakrantėje, apie didelį kyšulį — Pustų ragą (Łowmiański H., Studja..., 2, p. 36,
+    139 ir kt.).
+  citata_rodoma: "Tarp šių pilių, netoli ežero, pavadinto Pipino ežeru,\n\n  215  Tautosakoje baltas arklys ar balta kumelė — stebuklingi. Žinomi balti ir juodi\nPerkūno žirgai, šio plauko žirgai buvę ypatingai gerbiami (Dundulienė P., Arklys..., p.\n83—101)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

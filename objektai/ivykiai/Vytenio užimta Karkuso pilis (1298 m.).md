@@ -7,14 +7,14 @@ datos:
   - '1298 m.'
 date_start: '1298'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - mūšis
   - ivykis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,8 +58,8 @@ Nenurodyta
   teiginys: "1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes."
   pagrindžia:
     - c-63838
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -88,10 +88,10 @@ Nenurodyta
 - id: c-63838
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 191"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1297 viešpaties metais  kilo begaliniai Rygos miestiečių  ir Teutonų ordino brolių
+    Apie Rygos miestiečių kivirčus su Teutonų ordino broliais Livonijoje
+    1297 viešpaties metais kilo begaliniai Rygos miestiečių ir Teutonų ordino brolių
     kivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos
     būtinybės verčiami, devynis kartus su jais stojo į kovą. Nors viename susirėmime broliai
     neatsilaikė, vis dėlto kituose, dievo galybės padedami, susilaukė sėkmės. 1298 viešpaties

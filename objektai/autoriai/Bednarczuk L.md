@@ -35,31 +35,13 @@ Dusburgietis teigia, kad antikinių šaltinių tyrimas rodo, kad lotyniškoji fo
   teiginys: "L. Bednarczukas tyrė antikinių šaltinių onomastiką, susijusią su Vyslos vardo baltiška kilme."
   pagrindžia:
     - c-61308
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'L. Bednarczukas tyrė antikinių šaltinių onomastiką, susijusią su Vyslos vardo baltiška kilme.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Antikinių šaltinių tyrimas rodo, kad lotyniškoji
-    forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros
-    pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54,
-    66); žr. ir GAO, p. 204; Gimbutienė M. Baltai, p. 17—19, 48—51, 66, 106, 114.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61308
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Antikinių šaltinių tyrimas rodo, kad lotyniškoji
     forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros

@@ -54,22 +54,6 @@ Nenurodyta
   pagrindžia:
     - c-02008
 - susijęs iš [[objektai/grupes/Pasaulio Lietuvių Sąjunga.md#claim-t-01439|Pasaulio Lietuvių Sąjunga]]: 1935 m. rugpjūčio 11–17 d. Kaune vykęs Pirmasis pasaulio lietuvių kongresas nutarė įkurti Pasaulio Lietuvių Sąjungą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmojo pasaulio lietuvių kongreso prezidiumas.
-    (Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune. Tarp kitko jis
-    nutarė įkurti Pasaulio Lietuvių Sąjungą).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-02008

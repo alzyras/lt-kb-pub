@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 28
+tema_objektu_skaicius: 27
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 28.
+Objektų skaičius: 27.
 
 ## Kaip naudoti
 
@@ -50,7 +50,6 @@ Objektų skaičius: 28.
 - [[objektai/ivykiai/Roksolanų įsiveržimas į Meziją]]
 - [[objektai/ivykiai/Skitų įsiveržimas į Lenkiją ir Kazimiero įsitraukimas į karą dėl Podolės (1488 m.)]]
 - [[objektai/ivykiai/Slavų įsiveržimas į Daniją ir Jarmeriko antroji pergalė prieš slavus]]
-- [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]
-- [Totorių invazija į Vengriją ir Lenkiją (1241 m.)](../objektai/ivykiai/Totori%C5%B3%20invazija%20%C4%AF%20Vengrij%C4%85%20ir%20Lenkij%C4%85%20%281241%20m.%29)
+- [[objektai/ivykiai/Totorių invazija į Vengriją ir Lenkiją (1241 m.)]]
 - [Tvanas](../objektai/ivykiai/Tvanas)
 - [Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.)](../objektai/ivykiai/Vakar%C5%B3%20Romos%20imperatoriaus%20nuvertimas%20ir%20Otokaro%20%C4%AFsigal%C4%97jimas%20Romoje%20%28475%20m.%29)

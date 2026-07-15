@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Dieveriai
 sukurta: '2026-07-12'
 variantai:
-  - dieveriams
+  - 'dieveriams'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -58,6 +58,7 @@ Terminas vartojamas vestuvių dovanų paskirstymo kontekste.
   teiginys: "Dieveriai šiame šaltinyje yra vyro broliai."
   pagrindžia:
     - c-178035
+
 ## Citatos
 
 - id: c-178035

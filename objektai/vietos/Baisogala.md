@@ -10,14 +10,14 @@ datos:
   - '2026 m.'
 date_start: '1948'
 date_end: '2026'
+amziai:
+  - 'XX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - kaimas
-amziai:
-  - 'XX'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -45,16 +45,10 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   teiginys: "1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas."
   pagrindžia:
     - c-114631
-
-<a id="claim-t-125425"></a>
-- t-002
-  global_id: t-125425
-  teiginys: "1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas."
-  pagrindžia:
     - c-114632
 
 <a id="claim-t-125426"></a>
-- t-003
+- t-002
   global_id: t-125426
   teiginys: "Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai."
   pagrindžia:
@@ -94,8 +88,8 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-125426
     - t-125424
+    - t-125426
 
 - id: c-114632
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -121,5 +115,3 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-125425

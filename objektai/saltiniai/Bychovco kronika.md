@@ -34,23 +34,6 @@ media_all_json: |-
   teiginys: "Bychovco kronika nurodyta PSRL 17 tome, 525 puslapyje."
   pagrindžia:
     - c-94042
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bychovco kronika nurodyta PSRL 17 tome, 525 puslapyje.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Witold und Polen in den Jahren 1427-1430_** **, AM, t. 30,
-    1893.**
-    (^11) **PSRL, 17, 525 p. (Bychovco kronika).**
-    (^12) **CEV, 814-815, 823-824, 836-838 p.**
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

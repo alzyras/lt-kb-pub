@@ -46,27 +46,6 @@ buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis a
 - susijęs iš Paulava: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma Apšvietos epochos pradžios ženklu.
 - susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23214|Povilas Ksaveras Bžostovskis]]: Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80776|Abiejų Tautų Respublika]]: Oficialus Liublino unijos sukurtos jungtinės valstybės pavadinimas buvo Abiejų Tautų Respublika.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jame randame šiuolaikinės artilerijos
-    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
-    orija.
-    XVII–XVIII a. barokinį kraštovaizdį architektūroje ir dailėje taip pat
-    nulėmė jėzuitai. Tik XVII a. vyravo „importinis“, ypač itališkas, barokas,
-    o XVIII a. buvo sukurta originali, vadinamoji Vilniaus baroko mokykla,
-    kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Chris-
-    toph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24660

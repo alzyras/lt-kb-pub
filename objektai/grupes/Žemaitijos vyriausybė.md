@@ -35,26 +35,6 @@ Bendros sukilimo vadovybės Lietuvoje nebuvo, daug „vyriausybių“ veikė kon
   teiginys: "Bendros sukilimo vadovybės Lietuvoje nebuvo, daug „vyriausybių“ veikė konkrečios apskrities teritorijoje, o viena tokių „vyriausybių“ pasiskelbė Žemaitijos vyriausybe."
   pagrindžia:
     - c-75152
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl sukilėlių būriuose, kuriems vadovavo vieti-
-    niai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net
-    dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas
-    ir reikalavimas paleisti valstiečius iš baudžiavos. Bendros sukilimo vado-
-    vybės Lietuvoje nebuvo, daug „vyriausybių“ veikė konkrečios apskrities
-    teritorijoje, o viena tokių „vyriausybių“ pasiskelbė Žemaitijos vyriausybe.
-    Iki gegužės sukilėliai perėmė valdžią bemaž visoje teritorijoje į vakarus ir
-    šiaurę nuo Vilniaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

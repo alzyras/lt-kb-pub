@@ -55,25 +55,6 @@ Nenurodyta
   teiginys: "Žmogus su automobiliu „Žiguliais“ pavežė ginkluotus pasakotojo bendražygius į Žvėryno pusę."
   pagrindžia:
     - c-41115
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    | Kaip su šautuvais nepastebėtiems atsidurti kitoje
-    | Neries pusėje? Vienas iš mūsiškių pasiūlė papra-
-    šyti netoli stovinčio žmogaus su [automobiliu]
-    „Žiguliais“ kad pavežtų į Žvėryno pusę. Greit
-    visi vienu metu pribėgome - žmogus net išsi-
-    gando. Nuraminome, jis suprato, kas mes tokie.
-    Pavežė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

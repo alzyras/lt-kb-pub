@@ -35,23 +35,6 @@ Lenkijos (Tynieco). 80 Tyniecas 376 Tyszkiewicz J.
   teiginys: "Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco."
   pagrindžia:
     - c-34064
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Camblakas.
-    Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­
-    jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
-    vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
-    juos iš Maž. Lenkijos (Tynieco).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

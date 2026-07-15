@@ -40,24 +40,6 @@ media_all_json: |-
   teiginys: "W. Wielhorskio „Litwini, Biatorusini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego“ išėjo Londone 1951 m."
   pagrindžia:
     - c-33653
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pirmųjų Gediminaičių
-    laikų Lietuvos prekybiniai ryšiai su Vakarais_ , Tautos Praeitis, I, 4, 1962,
-    521-564 p. — Stang, Chr. : _Die westrussische Kanzleisprache des Gross-
-    furstentums Litauen,_ Oslo 1935. — Wielhorski, W. : _Litwini, Biatoru-
-    sini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego_ , Prace
-    Alma Mater Vilnensis, London 1951, 21-157 p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

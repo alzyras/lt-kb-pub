@@ -64,26 +64,6 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   teiginys: "Adomas Honorijus Kirkoras Vilnių vadino gyva senosios Lietuvos kronika."
   pagrindžia:
     - c-55392
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1859 m. išleistame vadove po Vilnių autorius Adomas Ho­
-    norijus Kirkoras su pasitenkinimu pastebėjo, kad jo mylimas
-    miestas jau turi savo istorikus. „Vilniuje sulig kiekvienu žings­
-    niu užtiksite ką nors įdomaus, pamokomo, kas primins jums
-    šlovingus lietuvių žygius, atvers dorybių ir nuopelnų, ydų ir
-    aistrų kupiną jų gyvenimo knygą. Vilnius - tai gyva senosios
-    Lietuvos kronika, jos buvusios šlovės ir nuosmukių liudytojas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -105,5 +85,5 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54489
     - t-54488
+    - t-54489

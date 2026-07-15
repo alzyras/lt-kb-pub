@@ -7,13 +7,13 @@ datos:
   - '1785 m.'
 date_start: '1785'
 date_end: ''
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestelis
   - vieta
-amziai:
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -62,17 +62,24 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   teiginys: "Prie upelio, dešinėje vieš kelio pusėje, ant nedidelės žemės sankasos, kurią sakė buvus deivės Upinės, kadaise to upelio globėjos, altoriumi, stovi me dinė koplytėlė su Nukryžiuotoju."
   pagrindžia:
     - c-177153
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197480"></a>
+- t-005
+  global_id: t-197480
+  teiginys: "Senė, vadinama Upine, tomis apei gomis pašventindavo upelį, ir jis visiems metams įgydavo gy domosios galios."
+  pagrindžia:
+    - c-171799
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante prie Zapyškio, tarp Kauno ir Vilkijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
-    tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
-    žiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise
-    vadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­
-    vieną šventę, ypač per šv.
+    Senė, vadinama Upine, tomis apei­
+    gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
+    domosios galios. Kai Vilkijos seniūnas Zabiela uždraudė tuos
+    kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
+    šv.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -80,23 +87,7 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Narbutas pasakojo, kad senė, vadinama Upine, apeigomis pašventindavo Upinės upelį ir suteikdavo jam metų gydomąją galią.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Išaušus dienai, senė pranykdavo,
-    ir sugrįždavo įprasta tvarka. Senė, vadinama Upine, tomis apei­
-    gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
-    domosios galios. Kai Vilkijos seniūnas Zabiela uždraudė tuos
-    kerus, ant Upinės kaupo buvo pastatyta koplyčia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - t-005
 
 - c-003
   santrauka: 'Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės kerus ant Upinės kaupo buvo pastatyta koplyčia.'
@@ -114,51 +105,32 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   pagrindžia:
     - t-003
 
-- c-004
-  santrauka: 'Prie upelio, dešinėje vieš kelio pusėje, ant nedidelės žemės sankasos, kurią sakė buvus deivės Upinės, kadaise to upelio globėjos, altoriumi, stovi me dinė koplytėlė su Nukryžiuotoju.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tenai pūva tokia daugybė drobės gabalė­
-    lių, kad mažiau prietaringame krašte drąsiai būtų galima ap­
-    rūpinti popieriaus dirbtuvę žaliava. Prie upelio, dešinėje vieš­
-    kelio pusėje, ant nedidelės žemės sankasos, kurią sakė buvus
-    deivės Upinės, kadaise to upelio globėjos, altoriumi, stovi me­
-    dinė koplytėlė su Nukryžiuotoju. Dar gyvas nesenas atmini­
-    mas apie buvusią kažkokią moterų broliją, atlikinėjusią apei­
-    gas tai Upinei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-171799
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 143"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 143."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
-    tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
-    žiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise
-    vadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­
-    vieną šventę, ypač per šv.
+    Senė, vadinama Upine, tomis apei­
+    gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
+    domosios galios. Kai Vilkijos seniūnas Zabiela uždraudė tuos
+    kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
+    šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
+    ris dėl to iki šiol neprarado gydomojo poveikio.
+  citata_rodoma: "Senė, vadinama Upine, tomis apei­\ngomis pašventindavo upelį, ir jis visiems metams įgydavo gy­\ndomosios galios. Kai Vilkijos seniūnas Zabiela uždraudė tuos \nkerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais, \nšv."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188910
+    - t-197480
 
 - id: c-171801
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Išaušus dienai, senė pranykdavo,
     ir sugrįždavo įprasta tvarka. Senė, vadinama Upine, tomis apei­
@@ -175,13 +147,14 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
 - id: c-171802
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kai Vilkijos seniūnas Zabiela uždraudė tuos
-    kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
-    šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
-    ris dėl to iki šiol neprarado gydomojo poveikio.
+    vės dėka. Pagaliau reikia prisiminti, kad graikų antika teigė,
+    jog gilės buvusios pirmasis žmonių maistas.
+    Visos šios trys pastabos aiškiai įtikina, kad lietuvių mitolo­
+    gija rėmėsi graikų mitologija, kadangi net menkose smulkme­
+    nose randamos apčiuopiamos panašybės.
+  citata_rodoma: "Kai Vilkijos seniūnas Zabiela uždraudė tuos\nkerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,\nšv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­\nris dėl to iki šiol neprarado gydomojo poveikio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -192,8 +165,7 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
 - id: c-177153
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tenai pūva tokia daugybė drobės gabalė­
     lių, kad mažiau prietaringame krašte drąsiai būtų galima ap­

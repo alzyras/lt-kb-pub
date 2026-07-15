@@ -34,8 +34,8 @@ Snorro.
   teiginys: "Snorro."
   pagrindžia:
     - c-177297
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Snorro.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -55,11 +55,31 @@ Snorro.
 - id: c-177297
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 248."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    3 Snorro. Ygiinga Saga, Hervar Saga. Harfag Saga. Heimkringla
-    Saga.
+    Apskritai, atsižvelgiant į krašto padavimus, tiek se­
+    niausių prūsų kronikininkų užrašytus, tiek ir senovės ty­
+    rinėtojų įvairiose vietose pastebėtus, galima pasakyti, kad
+    lietuvių ¡genties tautoms dar gerokai* prieš VI amžių
+    pritklausė tos žemės, kurios ir šiandien ¡priklauso jų val­
+    doms. Sį teiginį patvirtins tolesni mūsų pasakojimai, o
+    tuo tarpu aprašysime įvairių kartų užimamų žemių geo­
+    grafinę padėtį, pradėdami nuo bendro žymėjimo krašto,
+    turėjusio tokias ribas: Baltijos jūra nuo Vyslos žiočių net
+    iki Vakarų Dauguvos dešiniosios ¡pakrantės, kur jūrą pa­
+    siekia Salacos apskritis, šios apskrities ribomis su Estija
+    ir Pskovo gubernija, paskui skersai Dauguvą iki Kuršo
+    sienos su Livonija, toliau Ukmergės apskrities riba net
+    ligi ten, kur susisiekia Vilniaus ir Ašmenos apskričių sie­
+    nos, Vilniaus apskrities riba ligi trijų: Vilniaus, Ašmenos
+    ir Lydos apskričių ribų susikirtimo vietos, šį ¡paskutinį
+    kartą sena Lietuvos siena, tad Lietuvai lieka tik kelios
+    senovėje priklausiusios Trakų apskričiai gretimos parapi­
+    jos, taip pat ir Gardino apskrities. Toliau Užgirio krašto
+    riba ligi sienos su Prūsija ir pagal šią sieną, išskiriant
+    Dobrynės ir Michalovo žemes, net iki Vyslos, kur yra se­
+    nasis Kulmas.
+  citata_rodoma: "3 Snorro. Ygiinga Saga, Hervar Saga. Harfag Saga. Heimkringla\nSaga."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

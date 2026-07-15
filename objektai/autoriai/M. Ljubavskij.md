@@ -45,28 +45,6 @@ Ljubavskij : Litovsko-Russkij sejm, Maskva 1900, 355-360 p. Plg.
   teiginys: "M. Ljubavskij parašė veikalą „Litovsko-Russkij sejm“, išleistą Maskvoje 1900 m."
   pagrindžia:
     - c-33058
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tačiau sąjungininkai nugalėjo kliūtis, ir Vy­
-    tautui pasisekė jau liepos 1 d. ateiti iki Červinsko. Atskirų dalinių
-    (^8) **M. Ljubavskij :** **_Litovsko-Russkij sejm,_** **Maskva 1900, 355-360 p. Plg.
-    J. Jakubovskis :** **_Tautybių santykiai Lietuvoje prieš Liublino uniją_** **, Kaunas
-    1921, 11 p.**
-    (^9) **SRP, III, 411, 455 p.**
-    (^10) **DlugO, XIII, 42-46, 71 p.**
-    (^11) **Plg. O. Stavenhagen :** **_Livland und die Schlacht bei Tannenberg_** **, Bal­
-    tische Monatschrift, t. 54, 1902, 235-265, 310-336, 365-381 p.**
-    (^12) **St.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

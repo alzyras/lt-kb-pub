@@ -13,14 +13,14 @@ datos:
   - '2026 m.'
 date_start: '1918'
 date_end: '2026'
+amziai:
+  - 'XX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XX'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

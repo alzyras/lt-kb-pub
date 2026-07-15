@@ -46,29 +46,6 @@ Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­ skirti vyskupais Vyt
     - c-38093
 - susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176557|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Motiejus buvo pirmasis Žemaičių ir vėliau Vilniaus vyskupas, paskirtas Vytautui jį rekomendavus.
 - susijęs iš [[objektai/asmenys/Petras iš Kustynės.md#claim-t-35264|Petras iš Kustynės]]: Petras iš Kustynės 1414-1421 m. buvo ketvirtasis Vilniaus vyskupas, delegatas Konstancijoje ir pasiuntinys Žemaitijoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Per visą savo valdymo laiką Vytautas palaikė su jais gerus
-    santykius, bet kartu ir rūpinosi, kad Lietuvos vyskupais būtų
-    jam pritariantieji asmens. Taip antai, ketvirtas iš eilės Vilniaus
-    vyskupas Petras iš Kustynės (1414—1421), kuris buvo delega­
-    tu Konstancijoje ir pasiuntiniu Žemaitijoje, jau minėtas pirmasis
-    Žemaičių ir vėliau Vilniaus vysk. Motiejus ir antrasis Žemaičių
-    vysk. Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­
-    skirti vyskupais Vytautui juos rekomenduojant. Du paskutiniai
-    prieš įšventinant juos į vyskupus buvo Trakų klebonai, taigi gy­
-    veno Vytauto rezidencijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38093

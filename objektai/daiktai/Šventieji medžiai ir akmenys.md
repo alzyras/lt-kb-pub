@@ -61,33 +61,6 @@ Nenurodyta
   pagrindžia:
     - c-166694
 
-<a id="claim-t-19618"></a>
-- t-002
-  global_id: t-19618
-  teiginys: "Lietuvoje daug vietovių, kalnų, miškų, medžių ir akmenų turi Perkūno vardą."
-  pagrindžia:
-    - c-166694
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Antai Lietuvoje daug objektų: vietovių, kalnų, miškų, medžių, akmenų, kurie turi Perkūno vardą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Haličo-Voluinės (Ipatijaus) metraštyje prie
-    1252 m. minimi keturi dievai. Šią lietuvių pagonybės, kaip „pirminio gry-
-    nuolio“, idėją ir aukštąjį panteoną, kuriame keturi dievai, patvirtina lietu-
-    vių mitologinė geografija. Antai Lietuvoje daug objektų: vietovių, kalnų,
-    miškų, medžių, akmenų, kurie turi Perkūno vardą. Pasitaiko objektų su
-    Dievo vardu, pavyzdžiui, Dievo Stalo akmuo ar Dievo Krėslo kalnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-166694
@@ -106,5 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183304
     - t-19618

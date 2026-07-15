@@ -100,45 +100,6 @@ Nenurodyta
   teiginys: "Lietuvos Valstybės Konstitucija suteikė plačią autonomiją Lietuvoje gyvenusioms tautinėms mažumoms ir įteisino privalomą pradžios mokslą."
   pagrindžia:
     - c-23021
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė
-    vadinamieji tautos atstovai. Seimas ir prezidentas (renkamas Seimo) ren-
-    kami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje
-    gyvenusioms tautinėms mažumoms, įteisino privalomą pradžios mokslą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-004
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-
-    tucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos
-    principus. Lietuvos valstybė – nepriklausoma demokratinė respublika,
-    aukščiausioji valdžia priklauso tautai (LDK laikais tik bajorai turėjo aukš-
-    čiausiąją valdžią ir užėmė išskirtinę padėtį šalyje). Lietuvių kalba pirmą
-    kartą įteisinta kaip valstybinė. Nežiūrint lyties, kilmės, tikėjimo ir tau-
-    tybės, visiems Lietuvos piliečiams garantuota lygybė prieš įstatymus ir
-    kitos demokratinės teisės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-005
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -157,8 +118,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45394
     - t-45392
+    - t-45394
 
 - id: c-48235
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -178,7 +139,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-45389
+    - t-45390
     - t-45391
     - t-45393
-    - t-45390
-    - t-45389

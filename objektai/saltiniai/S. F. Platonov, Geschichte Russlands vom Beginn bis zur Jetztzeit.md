@@ -40,28 +40,6 @@ Platonov, S.
   teiginys: "S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m."
   pagrindžia:
     - c-33709
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Ekdahl, S. : _Der Krieg zwischen
-    dem Deutschen Orden und Polen-Litauen im Jahre 1422_ , ZfO, t. 13, 1964,
-    614-651 p. — Gidžiūnas, V. : _Vytauto kovos del valdžios ir pastangos tapti
-    Lietuvos karalium_ , Karys, 1973, 221-228, 266-273 p. — Ivinskis, Z. :
-    _Vytauto karūnacija ir jos reikšmė lietuvių tautai_ , Mūsų Žinynas, m. 9,
-    1938, 323-340 p. — Končius, J. : _Vytautas the Great, Grand Duke of
-    Lithuania_ , Miami, Florida 1964, 171-184 p. — Łowmiański, H. : _Witold
-    wielki książę Litwy_ , Vilnius 1930. — PfiW. — Platonov, S. F. : _Geschich­
-    te Russlands vom Beginn bis zur Jetztzeit_ , Leipzig 1927, 112-135 p.—
-    Prochaska, A. : _Dzieje Witolda w. księcia Litwy_ , Vilnius 1914.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

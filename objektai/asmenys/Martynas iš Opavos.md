@@ -7,15 +7,15 @@ datos:
   - '1278 m.'
 date_start: '1278'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - popiežius
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,7 +47,6 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 - susijęs iš Prūsija: Petro iš Dusburgo kronikos IV dalies paaiškinimai Prūsijos įvykius gretino su visuotinės istorijos faktais.
 - susijęs iš Prūsija: 1629 m. Altmarko paliaubomis švedams šešeriems metams buvo palikti kai kurie Prūsijos uostai, tarp jų Klaipėda.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Martynas iš Opavos, čekų vienuolis, 1278 m. buvo paskirtas Gnezno arkivyskupu, bet mirė ten nenuvykęs.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -69,13 +68,18 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 - id: c-61017
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 25"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje,
-    po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl
-    „Polonus“), bet mirė ten nenuvykęs. Jis parašė Romos popiežių ir imperatorių istoriją
-    (faktus pateikdamas paraleliškai), kuri baigiama XIII a. VlII-ojo dešimtmečio įvykiais.
+    Kitų
+    pratęstas iki 1315 m. (imperatorių istorija) ir 1320 m. (popiežių istorija), veikalas buvo
+    išleistas XVI a.128 Dusburgiečio laikais šiuo veikalu plačiai naudojosi teologai ir kanonistai,
+    nors XIX a. teksto tyrinėjimai parodė, jog tai buvusi paviršutiniška kompiliacija.
+    Tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus
+    bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.
+    pradžios įvykiais129.
+    Dusburgietis marginaliniuose paaiškinimuose (51-ame paragrafe iš 126) rėmėsi abiem
+    minėtais autoriais.
+  citata_rodoma: "Čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje,\npo to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl\n„Polonus“), bet mirė ten nenuvykęs. Jis parašė Romos popiežių ir imperatorių istoriją\n(faktus pateikdamas paraleliškai), kuri baigiama XIII a. VlII-ojo dešimtmečio įvykiais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

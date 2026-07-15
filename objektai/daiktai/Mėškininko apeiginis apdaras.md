@@ -55,6 +55,7 @@ Nenurodyta
   teiginys: "Vestuvinės meškos kostiumo pagrindas."
   pagrindžia:
     - c-177745
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

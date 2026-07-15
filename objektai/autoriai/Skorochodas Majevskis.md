@@ -34,8 +34,8 @@ media_all_json: |-
   teiginys: "2 Skorochodo Majevskio tyrinėjimai."
   pagrindžia:
     - c-177285
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '2 Skorochodo Majevskio tyrinėjimai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -57,13 +57,23 @@ media_all_json: |-
 - id: c-177285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 69"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 69."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kor ypač didelė
-    1 Vorhalle europäischer Völkergesch.
-    2 Skorochodo Majevskio tyrinėjimai.
-    3 Allgem.
+    Iš pono Hamerio tyrimų ir ištraukų apie
+    Rytus2 matome, jog arabai Rass, arba Ross3, vadino Arak-
+    so upę, ištekančią iš Kiliklo kalnų, esančių prie 67 laips­
+    nių ilgumos ir 41 laipsnio šiaurės platumos, sruvenančią
+    per Varnamo žemę ir susiliejančią su Kūra4. Anot Korano
+    aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie
+    Ross upės; Korane ji vadinama Ashabir-Ross; ji išsisklai­
+    dė žiloje senovėje. Tas pats orientalistas mano, kad
+    Ross Biblijoje ir Korane reiškia tą patį, arba tiesiog tai
+    Arakso upė, be to, ir prie jos plytinčio krašto pavadinimą
+    bei tam tikrą ten gyvenusią tautą, kurią dievas išskaidė,
+    pavertė laukiniais nomadais, panašiais į girių žvėris už
+    tai, kad nepriėmė mokslo, siunčiamo jiems per pranašą
+    Khaintają, Šafrano sūnų, kurį jie nukankino5.
+  citata_rodoma: "Kor ypač didelė\n1 Vorhalle europäischer Völkergesch.\n2 Skorochodo Majevskio tyrinėjimai.\n3 Allgem."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

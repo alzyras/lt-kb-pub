@@ -34,8 +34,8 @@ media_all_json: |-
   teiginys: "Į Vakarus nuo dešiniojo 1 Thunmann."
   pagrindžia:
     - c-177287
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Į Vakarus nuo dešiniojo 1 Thunmann.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -57,13 +57,20 @@ media_all_json: |-
 - id: c-177287
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 90"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 90."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Į Vakarus nuo dešiniojo
-    1 Thunmann. Untersuchungen über die Geschichte einiger nor­
-    discher Völker.
-    S. 66*.
+    Apie estus nėra žinių nuo Tacito
+    laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
+    tijos jūros pakrančių gyventojais, kurie prekiavo gintaru
+    ir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,
+    daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­
+    jęs, mini estus, kurie taip pat gyveną jūros pakrantėje3.
+    Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
+    riko įtaką Europos vakaruose gyvenančioms tautoms ir
+    gentims, sako: „Turbūt tas pats karalius Germanarikas
+    savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
+    kraštą ir pavergė estų tautą“4.
+  citata_rodoma: "Į Vakarus nuo dešiniojo\n1 Thunmann. Untersuchungen über die Geschichte einiger nor­\ndischer Völker.\nS. 66*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

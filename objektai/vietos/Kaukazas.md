@@ -64,7 +64,6 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 - susijęs iš [[objektai/daiktai/Rykštės.md#claim-t-187814|Rykštės]]: 1850 m. pasakojime rykštės minimos kaip priemonė, kuria viešai išplaktas Teodoro Narbuto sūnus Liudvikas.
 - susijęs iš [[objektai/grupes/Alanai.md#claim-t-192363|Alanai]]: Narbuto pasakojime alanai pasitraukė į Dono aukštupį ir pavergė arba išstūmė galonus, antropofagus, melanchlenus bei neurus.
 - susijęs iš [[objektai/grupes/Kolchai.md#claim-t-192953|Kolchai]]: Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijos gilumos atsikėlė į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų.
-- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187710|Krymo chanatas]]: Perekopas buvo slaviškas sąsmaukos, jungiančios Krymo pusiasalį su žemynu, pavadinimas.
 - susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187967|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: 1850 m. Vilniaus gimnazijoje buvo suimtas Teodoro Narbuto sūnus Liudvikas Narbutas.
 - susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187968|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: Liudvikas Narbutas buvo kaltinamas priešvalstybine agitacija ir siekiu sukurti slaptą organizaciją.
 - susijęs iš [[objektai/ivykiai/Čingischano vadų karas su alanais.md#claim-t-191078|Čingischano vadų karas su alanais]]: Narbutas rašo, kad 1223 m. Čingischano vadai kariavo toje pačioje pusėje su alanais, kuriems su poloviečiais priklausė Dagestanas.
@@ -87,46 +86,6 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 - susijęs iš Vilnius: Prancūzijos nacionalinis geografijos institutas Europos centro statmenį nustatė 25 km į šiaurę nuo Vilniaus.
 - susijęs iš Vilnius: Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad geografinis Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.
 - susijęs iš [[objektai/daiktai/Rykštės.md#claim-t-187814|Rykštės]]: 1850 m. pasakojime rykštės minimos kaip priemonė, kuria viešai išplaktas Teodoro Narbuto sūnus Liudvikas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Su tam tikru pagrindu virvelinės kera­
-    mikos kultūros šaknų yra ieškoma pietų Rusijoje. Jos nešėjai
-    indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­
-    liavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.
-    Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie
-    pasirodė apie trečio tūkstantmečio pr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas rašo, kad kolchų kolonijos driekėsi beveik nuo Kaukazo per Volgą ir į vakarus iki Dono.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šioms tolimos senovės epo­
-    choms priskirtina ir kolchų tauta, nors ji gerokai vėliau
-    už pelazgus atsikėlė iš Azijos gilumos į kraštus, esan­
-    čius į šiaurę nuo Kaspijos ir Juodosios jūrų. Tai buvo
-    didelė, plačiai pasklidusi tauta, nes jos kolonijos driekė­
-    si beveik nuo Kaukazo per Volgą ir į vakarus net iki
-    Dono, o į šiaurę tų kolonijų žemių ir genčių priklauso­
-    mybės ribų pažymėti nėra galimybių. Tikėtina, kad jie
-    galėjo turėti įtakos iki Uralo kalnų ir turtingų rūdynų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-33872
@@ -151,8 +110,7 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 - id: c-175439
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šioms tolimos senovės epo­
     choms priskirtina ir kolchų tauta, nors ji gerokai vėliau

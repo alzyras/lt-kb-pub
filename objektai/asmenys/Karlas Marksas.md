@@ -34,25 +34,6 @@ Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją
   teiginys: "Sovietinėje švietimo sistemoje mokytojai buvo verčiami studijuoti Karlo Markso veikalus."
   pagrindžia:
     - c-21805
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sovietinėje švietimo sistemoje mokytojai buvo verčiami studijuoti Karlo Markso veikalus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos teritorijos), gynybinis karinis kompleksas
-    reikalavo kvalifikuotos darbo jėgos. Ją ruošė totaliai kontroliuojama švieti-
-    mo sistema, o nepaklusnieji buvo baudžiami. Mokytojai verčiami studijuoti
-    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
-    partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
-    gą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

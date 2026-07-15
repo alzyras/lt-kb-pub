@@ -42,26 +42,6 @@ Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.
   teiginys: "Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pateikė Mikalojaus Radvilos Juodojo atvaizdą."
   pagrindžia:
     - c-75387
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pateikė Mikalojaus Radvilos Juodojo atvaizdą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje
-    struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje
-    struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – ce-
-    chai, edukacijoje – europinė švietimo sistema (katedrinės mokyklos ir jų
-    triviumas, kolegijos ir universitetas).
-    Mikalojus Radvila Juodasis iš Jacobo Schrencko
-    „Armamentarium Heroicum“. Insbrukas, 1603 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

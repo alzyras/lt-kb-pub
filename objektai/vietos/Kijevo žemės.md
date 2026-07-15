@@ -45,7 +45,6 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
 - susijęs iš [[objektai/autoriai/V. Zaikin.md#claim-t-31054|V. Zaikin]]: V. Zaikinas rašė teisės filosofijos ir religijos istorijos temomis, liesdamas Didžiąją Lietuvos Kunigaikštystę.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187444|Aukso orda]]: Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -76,22 +75,27 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
 - id: c-168648
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 683"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 683."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Rugsėjo pabaigoje luomai susirinko Vilniuje į
-    seimą, kuriame karalius pareikalavo, kad liautųsi pa­
-    vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila
-    ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad
-    niekas taip nekenkia visuomenės reikalams, kaip as­
-    meniniai atskirų didikų nesutarimai. Į seimą atvyko ir
-    lenkų atstovai, kurie senato bei bajorų akivaizdoje rim­
-    čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­
-    ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­
-    tų vieną kartą sudaryta galutinė lenkų ir lietuvių są­
-    junga, vadinamoji unija. Jie vis dėlto nieko nepešė,
-    nes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių
-    teisių į tas žemes.
+    Štai todėl daugelis išsigandusių didikų, nenorėda­
+    mi daugiau karaliaus erzinti, ne tik paliovė reikalavę,
+    kad Augustas nutrauktų santuoką, bet sutiko, kad Bar­
+    bora kaip ir kitos karalienės būtų Krokuvoje vaini­
+    kuota. Augustas, pasiekęs to, ko norėjo, nebesispyrė
+    dėl įstatymo, kuris dabar jam rodėsi visai nereikalin­
+    gas. Neilgai trukus Barbora iškilmingai ir šventiškai
+    buvo apvainikuota Krokuvoje karalienės vainiku. Jos
+    broliams Piotrkovo seimas leido naudotis Lenkijoje bei
+    Lietuvoje tomis lengvatomis, kurių neseniai buvo ga­
+    vę iš imperatoriaus Karolio V. Vėliau, įsiteikdamas
+    žmonai, Augustas labiau juos iškėlė. Mikalojų, Barbo­
+    ros brolį, paskyrė Trakų vai-
+    1551 m e ta i
+    vada ir atidavė jam Kėdai­
+    nius, o jo pusbrolį Mikalojų
+    Juodąjį paskyrė Lietuvos maršalu bei didžiuoju kanc­
+    leriu.
+  citata_rodoma: "Rugsėjo pabaigoje luomai susirinko Vilniuje į\nseimą, kuriame karalius pareikalavo, kad liautųsi pa­\nvojingai kivirčijęsi Trakų vaivada Mikalojus Radvila\nir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad\nniekas taip nekenkia visuomenės reikalams, kaip as­\nmeniniai atskirų didikų nesutarimai. Į seimą atvyko ir\nlenkų atstovai, kurie senato bei bajorų akivaizdoje rim­\nčių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­\nralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­\ntų vieną kartą sudaryta galutinė lenkų ir lietuvių są­\njunga, vadinamoji unija. Jie vis dėlto nieko nepešė,\nnes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių\nteisių į tas žemes."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

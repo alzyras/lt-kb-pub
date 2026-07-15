@@ -45,69 +45,30 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
   pagrindžia:
     - c-167456
 
-<a id="claim-t-60293"></a>
-- t-002
-  global_id: t-60293
-  teiginys: "Giunteris iš Regenšteino su broliu Ditrichu ir pasitelktais kariais sugriovė pilaitę prie įeigos į Notangos žemę."
-  pagrindžia:
-    - c-167456
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių, sugriovė šią pilaitę, o visą įgulą išžudė arba paėmė į nelaisvę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
-
-      Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos
-    žemėje,  ir panoro, atėjus tinkamam laikui, pasigailėti savo žmonių, atvyko  į Prūsiją
-    su daugybe karių Meiseno markos valdovas Ditrichas406, šviesiojo kunigaikščio valdovo
-    Henriko sūnus, kurį esame minėję, kalbėdami apie karą su pamedėnais; kai, pasitelkęs
-    magistrą ir brolius, ketino užgriūti priešus, prie įeigos  į Notangos žemę rado pilaitę407,
-    ginamą daugybės ginklanešių, kliudžiusių šiam kunigaikščiui žygiuoti į priekį. Vis dėlto
-    broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių,
-    sugriovė šią pilaitę, o visą įgulą išžudė arba paėmė į nelaisvę. Kai šitai buvo padaryta,
-    minėtasis kunigaikštis, eidamas garbingomis savo tėvo pėdomis, nelyginant bebaimis
-    liūtas, kurio nebaugina jokios kovos, patraukė su savo kariuomene į priekį, nužygiuodamas
-    Notangos žeme ligi Gerkynės prekyvietės408, kur išbuvo tris dienas ir naktis, kiekvieną
-    dieną valydamas Notangą gaisrais bei plėšimais Jis taip nusiaubė šią [žemę], kad kitais
-    metais ji vėl pasidavė tikėjimui bei broliams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-167456
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
-
-      Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos
-    žemėje,  ir panoro, atėjus tinkamam laikui, pasigailėti savo žmonių, atvyko  į Prūsiją
+    Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos
+    žemėje, ir panoro, atėjus tinkamam laikui, pasigailėti savo žmonių, atvyko į Prūsiją
     su daugybe karių Meiseno markos valdovas Ditrichas406, šviesiojo kunigaikščio valdovo
     Henriko sūnus, kurį esame minėję, kalbėdami apie karą su pamedėnais; kai, pasitelkęs
-    magistrą ir brolius, ketino užgriūti priešus, prie įeigos  į Notangos žemę rado pilaitę407,
+    magistrą ir brolius, ketino užgriūti priešus, prie įeigos į Notangos žemę rado pilaitę407,
     ginamą daugybės ginklanešių, kliudžiusių šiam kunigaikščiui žygiuoti į priekį. Vis dėlto
     broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių,
     sugriovė šią pilaitę, o visą įgulą išžudė arba paėmė į nelaisvę. Kai šitai buvo padaryta,
     minėtasis kunigaikštis, eidamas garbingomis savo tėvo pėdomis, nelyginant bebaimis
     liūtas, kurio nebaugina jokios kovos, patraukė su savo kariuomene į priekį, nužygiuodamas
     Notangos žeme ligi Gerkynės prekyvietės408, kur išbuvo tris dienas ir naktis, kiekvieną
-    dieną valydamas Notangą gaisrais bei plėšimais Jis taip nusiaubė šią [žemę], kad kitais
+    dieną valydamas Notangą gaisrais bei plėšimais Jis  taip nusiaubė šią [žemę], kad kitais
     metais ji vėl pasidavė tikėjimui bei broliams.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184071
     - t-60293

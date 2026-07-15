@@ -70,8 +70,6 @@ media_all_json: |-
 - susijęs iš Ukmergė: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
 - susijęs iš Veliuona: Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
 - susijęs iš Veliuona: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies, per mylią nuo Veliuonos.
-- susijęs iš Vilnius: Gedimino rūpesčiu Vilnius iškilo iš mažareikšmės gyvenvietės į galingos valstybės sostinę.
-- susijęs iš Vilnius: Gedimino rūpesčiu iškilusiame Vilniuje buvo prigiję feodalinio valdymo principai.
 - susijęs iš Vysla: Lietuvių tauta, pasak Balińskio, buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Vysla: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Vysla: Lietuvių tautos atšakos užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
@@ -87,30 +85,6 @@ media_all_json: |-
 - susijęs iš Bajerburgo pilis: Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.
 - susijęs iš Bajerburgo pilis: Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų.
 - susijęs iš Daugava: Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Švitrigaila įsakė Vitebske nuo aukšto skardžio įmesti Alšėnų kunigaikštį į Dviną.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Abu jie niokojo
-    kraštą ir liejo jiems nepalankių gyventojų kraują. Švitrigai­
-    la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,
-    įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą
-    kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­
-    no. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
-    rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­
-    ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
-    atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
-    skandinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82161

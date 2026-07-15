@@ -65,26 +65,6 @@ Nenurodyta
   teiginys: "Sovietų valdžia sekė kunigus, aprašinėjo pamokslus ir registravo, kas pas kunigus užeina."
   pagrindžia:
     - c-166620
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Visi kunigai sekami, registruojama, kas pas kunigą užeina, pamokslai aprašomi.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visi kunigai sekami, registruojama, kas pas kunigą
-    užeina, pamokslai aprašomi. Sovietų valdžia siekė pakirsti katalikų dva-
-    sininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje.
-    1946 m. uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviš-
-    kyje. Leista veikti tik vienai kunigų seminarijai Kaune, klierikų skaičių
-    mažinant. 1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -104,5 +84,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183232
     - t-20241
+    - t-183232

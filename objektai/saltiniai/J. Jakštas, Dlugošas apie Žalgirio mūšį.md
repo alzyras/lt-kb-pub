@@ -41,28 +41,6 @@ media_all_json: |-
   teiginys: "J. Jakšto „Dlugošas apie Žalgirio mūšį“ 1960 m. išspausdintas TaPr I tomo 2 numeryje, p. 165–181."
   pagrindžia:
     - c-33585
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^37) **DlugO, XIII, 119 p.**
-    (^38) **DlugO, XIII, 29, 119 p.**
-
-
-    (^344) III skyrius: valstybės suklestėjimas
-    _bibliografija,_ Athenaeum, nr. 1, 1931, 89-138 p. (nurodyta apie 200
-    darbų apie Žalgirio kautynes). — Jakštas, J. : _Dlugošas apie Žalgirio
-    mūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,
-    158-163 p. — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
-    mūšis,_ rinkiny : LKaKr, 1964.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

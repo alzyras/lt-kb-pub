@@ -40,29 +40,13 @@ Dusburgietis teigia, kad schall H.
   teiginys: "H. Schallo straipsnis apie baltiškus vandenvardžius Obere Havel upių sistemoje paskelbtas „Baltistica“ 1966 m. numeryje 2(1)."
   pagrindžia:
     - c-61916
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'H. Schallo straipsnis apie baltiškus vandenvardžius Obere Havel upių sistemoje paskelbtas „Baltistica“ 1966 m. numeryje 2(1).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Schall  H.  Baltische  Gewässernamen  im  Flußsystem  „Obere  Havel“  (Südost-
-    Mecklenburg).—Baltistica, 1966, 2(1), p. 7—42.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61916
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Schall  H.  Baltische  Gewässernamen  im  Flußsystem  „Obere  Havel“  (Südost-
     Mecklenburg).—Baltistica, 1966, 2(1), p. 7—42.

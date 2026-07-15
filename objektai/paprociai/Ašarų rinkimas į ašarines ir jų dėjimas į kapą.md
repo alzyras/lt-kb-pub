@@ -5,15 +5,17 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1789 m.'
+  - '1820 m.'
 date_start: '1789'
-date_end: ''
+date_end: '1820'
+amziai:
+  - 'XVIII'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - laidotuvės
   - paprotys
-amziai:
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -70,8 +72,15 @@ Nenurodyta
   teiginys: "Narbutas rašo, kad toje vietoje buvo randama daug ašarinėms priskiriamų nuolaužų."
   pagrindžia:
     - c-172705
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197250"></a>
+- t-004
+  global_id: t-197250
+  teiginys: "Turėjau tis tokias ašarines, visas beveik vienodo dydžio, kuriose skys čio telpa tryliktoji lietuviškos kvortos dalis."
+  pagrindžia:
+    - c-179086
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad per laidotuves išverktas ašaras rinkdavo į molinius ar stiklinius indelius ir statydavo kape prie mirusiojo kojų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -91,27 +100,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Narbutas pastebėjo sudaužytų ašarinių liekanų, o kelių šukių vidus buvo dengtas tamsiai rudos spalvos glazūra.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Radau keletą geležėlių, kurios man
-    atrodė esančios mažų sagtelių liekanos. Dar pastebėjau su­
-    daužytų ašarinių liekanų; keleto šukių vidus buvo dengtas tam­
-    siai rudos spalvos glazūra. Vienas kaimietis man pasakojo, kad
-    valdant karaliui Stanislovui Augustui, maždaug prieš 38 me­
-    tus, tai yra apie 1789 metus, kažkokie ponai, atvažiavę iš Gar­
-    dino apžiūrėti mineralinių šaltinių, pasiėmė su savim visus mo­
-    linius dubenėlius, kurių seniau niekas nedrįsdavo judinti; vė­
-    liau smalsūs svečiai surinko ir šukes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 - c-003
   santrauka: 'Narbutas rašo, kad toje vietoje buvo randama daug ašarinėms priskiriamų nuolaužų.'
@@ -138,17 +126,20 @@ Nenurodyta
 - id: c-172703
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 367"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ne­
-    turtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net
-    jei ir nebūtų jokios giminaitės, kuri nors moteris iš dievobai­
-    mingumo turi paklykauti .
-    Seniau ašaras, išverktas per laidotuves, labai rūpestingai
-    surinkdavo į molinius dubenėlius; kai kada turėdavo stiklinių
-    indelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­
-    rusiojo kojų. Apie tai bus straipsnyje „Kapai“.
+    Aplink
+    buvo girdimas įvairių žvėrių riaumojimas. Tačiau jėzuitai neišsi­
+    gando, elgėsi drąsiai ir nebaudžiami naikino senojo tikėjimo lie­
+    kanas ir vaizdinius. O šių reiškinių pasireiškimus aiškino kaip
+    krikščioniško Dievo įrodymą ir piktosios dvasios, įsikūnijusios į
+    stabus, menkumo demonstravimą. Taip jų mokslas rado mora­
+    linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras
+    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
+    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
+    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
+    kai.
+  citata_rodoma: "Ne­\nturtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net\njei ir nebūtų jokios giminaitės, kuri nors moteris iš dievobai­\nmingumo turi paklykauti .\nSeniau ašaras, išverktas per laidotuves, labai rūpestingai\nsurinkdavo į molinius dubenėlius; kai kada turėdavo stiklinių\nindelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­\nrusiojo kojų. Apie tai bus straipsnyje „Kapai“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -159,8 +150,7 @@ Nenurodyta
 - id: c-172704
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 375"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Radau keletą geležėlių, kurios man
     atrodė esančios mažų sagtelių liekanos. Dar pastebėjau su­
@@ -181,20 +171,43 @@ Nenurodyta
 - id: c-172705
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 375"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ir
-    šiandien ten randama daugybė nuolaužų, priklausančių ašari­
-    nėms*. Vienoda jų sandara ir tokia pat radimo vieta įtikina,
-    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
-    kad į jas tekėtų ašaros.
-    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
-    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
-    rias dėdavo sudegintų žmonių pelenus.
+    įvairiose Prūsijos vietose tiek atsitiktinai, tiek sąmoningai ka­
+    sinėjant senovinius pilkapius, ypač Velnio saloje (Czartowy-
+    Osirow), esančioje Sniardvų ežere, ir ties Pleviškių kaimu, as­
+    tuonios mylios nuo Karaliaučiaus, prie Priegliaus upės. Tai bu­
+    vo puodeliai arba kažkokios urnos su pelenais ir sudegusių
+    žmonių kaulų gabaliukais viduje. Toje vietovėje pats autorius
+    liepė atkasti vieną pilkapį ir surado naujo pavidalo pelenų ur­
+    ną. Tai buvo du akmenys, gulintys vienas ant kito ir taip apdo­
+    roti, kad tarp jų susidariusioje tuštumoje galėjo būti pilami
+    pelenai.
+  citata_rodoma: "Ir\nšiandien ten randama daugybė nuolaužų, priklausančių ašari­\nnėms*. Vienoda jų sandara ir tokia pat radimo vieta įtikina,\njog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,\nkad į jas tekėtų ašaros.\nTikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­\ndos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­\nrias dėdavo sudegintų žmonių pelenus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189822
+
+- id: c-179086
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    1820
+    metais mano kaimynas kaimietis, kasdamas duobę bulvėms,
+    aptiko seną kapą, kuriame šalia kelių sutrūnijusių žmonių kau­
+    lų rado keletą ypatingo pavidalo stiklinių buteliukų (žiūrėk V
+    lentelės 36-ąjį piešinį). Ant apskritimo, nulipdyto iš stiklo, storo
+    ir gana nedailaus, stovi ropelė iš šviesiai žalio, gana permato­
+    mo stiklo, jos kaklelis yra ovalaus piltuvėlio pavidalo. Turėjau
+    tis tokias ašarines, visas beveik vienodo dydžio, kuriose skys­
+    čio telpa tryliktoji lietuviškos kvortos dalis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197250

@@ -34,8 +34,8 @@ Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado prot�
   teiginys: "Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado protą ir netrukus mirė."
   pagrindžia:
     - c-169502
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado protą ir netrukus mirė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -69,10 +69,13 @@ Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado prot�
 - id: c-169502
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 230"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 230."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Skubiai sutelkę būrius,
+    Pasinaudoję ta proga, surengė žygį lietuviai ir
+    žemaičiai, gal patys šitai sugalvoję ar prisiminę senas
+    skriaudas, o gal lenkų paska-
+    P rū sija sia u b ia m a lie-
+    tinti. Skubiai sutelkę būrius,
     tu v ių
     sudarytus veikiau iš plėšikų
     nei karių, jie įsiveržė keliose
@@ -86,8 +89,9 @@ Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado prot�
     siaubo ir sielvarto; prarado ir protą, o netrukus ir nu­
     mirė. Jo įpėdinis Henrikas Duzemeris turėjo raginti į
     karą prieš lietuvius beveik
-    K rik šč io n išk ų jų  ša lių
+    K rik šč io n išk ų jų ša lių
     visą Europą.
+  citata_rodoma: "Skubiai sutelkę būrius,\ntu v ių\nsudarytus veikiau iš plėšikų\nnei karių, jie įsiveržė keliose\nvietose į Prūsiją, likusią be jokios apsaugos, Šitaip es­\nti, kai ginamasi nuo dviejų priešų, visą dėmesį sutel­\nkus į vieną ir visai užmiršus, kokių bėdų galima susi­\nlaukti iš kito! Beveik visa Prūsija buvo nusiaubta ir\npelenais paversta, bemaž visi žemdirbiai išžudyti, ša­\nlis buvo taip žiauriai nuniokota, kad Liudolfas, sugrį­\nžęs iš žygio ir išvydęs nepaprastą nelaimę, apstulbo iš\nsiaubo ir sielvarto; prarado ir protą, o netrukus ir nu­\nmirė. Jo įpėdinis Henrikas Duzemeris turėjo raginti į\nkarą prieš lietuvius beveik\nK rik šč io n išk ų jų  ša lių\nvisą Europą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

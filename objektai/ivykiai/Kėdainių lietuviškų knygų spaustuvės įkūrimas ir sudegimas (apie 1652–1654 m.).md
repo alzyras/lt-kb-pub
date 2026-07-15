@@ -54,25 +54,6 @@ Nenurodyta
   teiginys: "Kėdainių lietuviškų knygų spaustuvė veikė vos porą metų ir greičiausiai sudegė 1654 m."
   pagrindžia:
     - c-01929
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik kai apie 1652 m. hetmonas
-    Jonušas Radvila Kėdainiuose įkūrė specialią lietuviškoms
-    knygoms spaustuvę, čia buvo išspausdinta maldaknygių,
-    giesmių rinkinys, katekizmas ir nauja postilė. Spaustuvė te-
-    veikė vos porą metų: greičiausiai, ji sudegė (1654 m.). Netrukus
-    Maskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų
-    galybę, ir nebebuvo kas įtaisytų spaustuvę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

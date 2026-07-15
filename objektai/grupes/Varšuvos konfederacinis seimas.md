@@ -34,28 +34,6 @@ Seimas buvo priverstas įvykdyti visus jo reikalavimus.
   teiginys: "Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės."
   pagrindžia:
     - c-01754
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Seimas buvo
-    priverstas įvykdyti visus jo reikalavimus. Tuo būdu Rusijai
-    buvo pripažinta teisė žiūrėti, kad nebūtų pakeistos kardinalinės
-    teisės, arba, kaip tada buvo sakoma, jai buvo pripažinta ga-
-    rantija. Tos kardinalinės teisės buvo surašytos atskirame
-    įstatyme. Tuo būdu buvo paliktas nepaliestas _liberum veto,_ ga-
-    rantuota, kad karaliai bus tik renkami, kad kitatikiai turės lygias
-    teises su katalikais, ir t.t. Čartoriskių pradėtos reformos nuėjo
-    vėjais, o blogiausia buvo tai, kad Rusijai buvo pripažinta
-    teisė prižiūrėti Respublikos vidaus gyvenimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

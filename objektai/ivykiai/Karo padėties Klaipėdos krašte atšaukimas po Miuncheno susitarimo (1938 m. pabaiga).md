@@ -64,45 +64,6 @@ Nenurodyta
   teiginys: "Lietuviško mokymo ir lietuvių kalbos vartojimo skatinimas Klaipėdos krašte davė priešingą rezultatą, nes oponentai kliudė krašto integracijai."
   pagrindžia:
     - c-154512
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vokiškose įstaigose dominavo nacių ša-
-    lininkai, beveik visose mokyklose dėstyta vokiečių kalba, nors dauguma
-    mokinių buvo lietuviai. Įvesti mokymą lietuviškai pagal mokinių kilmę
-    nepavyko, o nurodymai tarnautojams darbe kalbėti lietuviškai, dalyvauti
-    lietuviškose šventėse davė atvirkščią rezultatą – oponentai efektyviai kliu-
-    dė integruoti Klaipėdos kraštą.
-    Lietuvos vyriausybė nerado atramos Klaipėdos krašto viduje: krašto
-    vokiečiams nepatiko būti „tautine mažuma“, jie apskritai Lietuvos valdy-
-    mą laike sezoniniu dalyku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1938 m. pabaigoje, po Miuncheno susitarimo, karo padėtis Klaipėdos
-    krašte buvo atšaukta ir Lietuva jau nebevaldė situacijos. Nors Lietuvos
-    vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuo-
-    ta 42 mln. litų, o pajamų tegauta 11 mln., ištekliai pasirodė esą riboti,
-    Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų
-    lygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lie-
-    tuviškose įstaigose ir bendrovėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

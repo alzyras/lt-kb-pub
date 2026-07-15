@@ -42,50 +42,6 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
   teiginys: "Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl to susitarimo."
   pagrindžia:
     - c-175854
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96110|Gediminaičių dinastija]]: Iš lietuvių tautos buvo kilusi ir valdančioji Gediminaičių šeima.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Gedimino šeimos valdančioji šaka pasibaigė, nors dar buvo gyvų nuo sosto nutolusių Gedimino giminės kunigaikščių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    (Gersono paveikslas).
-    Gedimino šeimos šaka pasibaigė. Tiesa, dar buvo gyvų daug
-    Gedimino giminės kunigaikščių, bet jie jau seniai buvo nutolę
-    nuo sosto, nusigyvenę, ir todėl nebetiko kandidatais į valdovus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl to susitarimo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mat, visa Lietu-
-    va pasirodė jam priešinga,— juo labiau, kad nelaimingai pasibai-
-    gęs karas su Maskva įrodė, jog iš Lenkų vis tiek negalima gauti
-
-
-    pagalbos; tad nebuvo jokios naudos dėtis į uniją su Lenkija.
-    Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių
-    šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir
-    jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl
-    to susitarimo. Nors lietuviai jau nuo Švitrigailos laikų rinkosi
-    sau kunigaikščius, tačiau Jogailos palikuonys manė, kad bent
-    Lietuva jiems turinti tekti paveldėtinai; o tuo susitarimu buvo
-    norima įvesti elekciją, taigi visai nebuvo atsižvelgiama į jų tei-
-    ses.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

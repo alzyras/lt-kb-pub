@@ -45,24 +45,6 @@ media_all_json: |-
     - c-33828
 - susijęs iš [[objektai/grupes/Dobryniaus riterių brolija.md#claim-t-99990|Dobryniaus riterių brolija]]: Kristijono įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
 - susijęs iš Kujavija: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1296 lietuviai įsiveržė į
-    Sandomieriaus ir Kujavijos žemes. 1300 jie vėl pasirodė Dobry­
-    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
-    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
-    o 1307 buvo įsiveržę į Kališo sritį^5.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33828

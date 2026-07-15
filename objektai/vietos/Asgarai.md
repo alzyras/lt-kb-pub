@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asgardu. Narbutas rašo, kad pats Asgarų kaimo neaplankė, bet girdėjo apie piliavietės liekanas ir kapus su skandinavų senovės iškasenomis.
+Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asgardu. Narbutas rašo, kad pats Asgarų kaimo neaplankė, bet girdėjo apie piliavietės liekanas ir kapus su skandinavų senovės iškasenomis. Ji savo ruožtu įteka į Minijos upę, o prie jos žiočių yra kaimas, šiandien vadinamas Asgarais; čia neabejotinai buvo senovės Asgardas.
 
 ## Teiginiai
 
@@ -43,55 +43,27 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
   teiginys: "Narbutas rašo, kad pats Asgarų kaimo neaplankė, bet girdėjo apie piliavietės liekanas ir kapus su skandinavų senovės iškasenomis."
   pagrindžia:
     - c-175579
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asgardu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Antroji šiandien vadinama Ašva; ji prasideda taip
-    pat Raseinių apskrityje, plaukia pietų link, įteka į Veivir­
-    žą ties Loišės pasienio smukle. Šios upės pavadinimas
-    reiškia viršutinę, bet jos žemupį žemiau Aisės ir Ašvos
-    intakų tenykščiai gyventojai vadina Asse. Ji savo ruožtu
-    įteka į Minijos upę, o prie jos žiočių yra kaimas, šiandien
-    vadinamas Asgarais; čia neabejotinai buvo senovės As-
-    gardas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197849"></a>
+- t-003
+  global_id: t-197849
+  teiginys: "Ji savo ruožtu įteka į Minijos upę, o prie jos žiočių yra kaimas, šiandien vadinamas Asgarais; čia neabejotinai buvo senovės Asgardas."
   pagrindžia:
-    - t-001
+    - c-179361
 
-- c-002
-  santrauka: 'Narbutas rašo, kad pats Asgarų kaimo neaplankė, bet girdėjo apie piliavietės liekanas ir kapus su skandinavų senovės iškasenomis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Galbūt Minijos upė senovėje, kai ji įplaukdavo į
-    Memelį (§182), labiau tiko laivybai. Dėl netikėtų kliūčių
-    neturėjau galimybės aplankyti Asgarų kaimo, bet man
-    pasakojo, kad ten esama kažkokių piliavietės liekanų, ku­
-    rios patvirtina šią prielaidą, net randama kapų su skan­
-    dinavų senovės iškasenomis. Beje, skandinavams priklau­
-    sančių ir jų pastatytų Asgardų ¡galėjo būti ir-daugiau, —
-    mes neketiname tam prieštarauti1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197850"></a>
+- t-004
+  global_id: t-197850
+  teiginys: "Beje, skandinavams priklau sančių ir jų pastatytų Asgardų ¡galėjo būti ir-daugiau, — mes neketiname tam prieštarauti1."
   pagrindžia:
-    - t-002
+    - c-175579
 
 ## Citatos
 
 - id: c-175578
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 221"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 221."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Antroji šiandien vadinama Ašva; ji prasideda taip
     pat Raseinių apskrityje, plaukia pietų link, įteka į Veivir­
@@ -111,20 +83,40 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
 - id: c-175579
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 221"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 221."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Galbūt Minijos upė senovėje, kai ji įplaukdavo į
-    Memelį (§182), labiau tiko laivybai. Dėl netikėtų kliūčių
-    neturėjau galimybės aplankyti Asgarų kaimo, bet man
-    pasakojo, kad ten esama kažkokių piliavietės liekanų, ku­
-    rios patvirtina šią prielaidą, net randama kapų su skan­
-    dinavų senovės iškasenomis. Beje, skandinavams priklau­
+    Beje, skandinavams priklau­
     sančių ir jų pastatytų Asgardų ¡galėjo būti ir-daugiau, —
-    mes neketiname tam prieštarauti1.
+    mes neketiname tam prieštarauti1. Net žinome, kad Livo­
+    nijoje būta panašiai vadinto miesto2. Antras taip pat labai
+    senas skandinavų miestas Rusioje vadinosi Rotala; čia
+    gyvenęs karaliukas Tranonas, apie kurį netrukus papa­
+    sakosime.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192809
+    - t-197850
+
+- id: c-179361
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Antroji šiandien vadinama Ašva; ji prasideda taip
+    pat Raseinių apskrityje, plaukia pietų link, įteka į Veivir­
+    žą ties Loišės pasienio smukle. Šios upės pavadinimas
+    reiškia viršutinę, bet jos žemupį žemiau Aisės ir Ašvos
+    intakų tenykščiai gyventojai vadina Asse. Ji savo ruožtu
+    įteka į Minijos upę, o prie jos žiočių yra kaimas, šiandien
+    vadinamas Asgarais; čia neabejotinai buvo senovės As-
+    gardas. Galbūt Minijos upė senovėje, kai ji įplaukdavo į
+    Memelį (§182), labiau tiko laivybai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197849

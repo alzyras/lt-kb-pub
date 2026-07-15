@@ -41,20 +41,6 @@ Sokolovski, Dr.
   teiginys: "Dr. Pr. Aug. Sokolovskio „Dzieje Polski“ antrasis tomas buvo išleistas Varšuvoje 1900 m."
   pagrindžia:
     - c-38436
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    I.
-    Sokolovski, Dr. Pr. Aug„ Dzieje Polski, tom. II, Warszawa, 1900.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

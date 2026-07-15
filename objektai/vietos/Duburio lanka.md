@@ -46,8 +46,8 @@ Duburio lanka šiame šaltinyje yra lankos vietovė.
   global_id: t-195488
   teiginys: "Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė."
   pagrindžia:
-    - c-177910
     - c-177909
+    - c-177910
 
 ## Citatos
 

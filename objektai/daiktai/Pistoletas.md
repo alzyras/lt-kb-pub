@@ -69,25 +69,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113885|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113886|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.
 - susijęs iš [[objektai/daiktai/Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26.md#claim-t-40801|Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26]]: Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26 šaltinyje nurodomas ir santrumpa LK vz. 26.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Iš naujo pradėjęs švaistytis kardu, lenkas, matyt,
-    atsipeikėjo ir atsiminė, kad jis dar turįs pistoletą. Tiesa, jo iki šiol ir
-    panaudoti negalėjo, nes vienoje rankoje laikė pavadzius, o antroje
-    kardą. Lenkas vis tiek atsisegė makštį ir taikstėsi išsitraukti pistoletą,
-    bet tuo metu taiklus žvalgybos viršininko šūvis pataikė lenkui į smil-
-    kinį ir išgelbėjo mūsų žvalgo gyvybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-42537

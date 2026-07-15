@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Per kryžiuočių antpuolį Žemaitijoje gyventojai paliko namus ir su brangesniais daiktais pasislėpė miškų tankmėse.
+Per kryžiuočių antpuolį Žemaitijoje gyventojai paliko namus ir su brangesniais daiktais pasislėpė miškų tankmėse. Kojelavičiaus pasakojime per antpuolį nedaug žmonių žuvo, nes gyventojai paliko namus priešams ir su brangesniais daiktais pasislėpė miškų tankmėse.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -50,51 +50,34 @@ Nenurodyta
   teiginys: "Per kryžiuočių antpuolį Žemaitijoje gyventojai paliko namus ir su brangesniais daiktais pasislėpė miškų tankmėse."
   pagrindžia:
     - c-169286
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Per kryžiuočių antpuolį Žemaitijoje gyventojai paliko namus ir su brangesniais daiktais pasislėpė miškų tankmėse.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kai lietuviai niokojo kryžiuočių kraštą,
-    šie irgi neliko ramūs. Magistras Konradas, su didžiule
-    kariuomene užpuolęs Žemai-
-    S a v o  ru o žtu  k ry žiu o -
-    tiją, nusiaubė Karšuvos že-
-    č ia i sia u b ia  L ie tu vą
-    mę. Vis dėlto žmonių ne­
-    daug žuvo, nes gyventojai,
-    palikę namus priešų valiai, patys su visais brangesniais
-    daiktais išsislapstė miškų tankmėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196317"></a>
+- t-002
+  global_id: t-196317
+  teiginys: "Kojelavičiaus pasakojime per antpuolį nedaug žmonių žuvo, nes gyventojai paliko namus priešams ir su brangesniais daiktais pasislėpė miškų tankmėse."
   pagrindžia:
-    - t-001
+    - c-169286
 
 ## Citatos
 
 - id: c-169286
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 179."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kai lietuviai niokojo kryžiuočių kraštą,
-    šie irgi neliko ramūs. Magistras Konradas, su didžiule
-    kariuomene užpuolęs Žemai-
-    S a v o  ru o žtu  k ry žiu o -
-    tiją, nusiaubė Karšuvos že-
-    č ia i sia u b ia  L ie tu vą
-    mę. Vis dėlto žmonių ne­
+    Vis dėlto žmonių ne­
     daug žuvo, nes gyventojai,
     palikę namus priešų valiai, patys su visais brangesniais
-    daiktais išsislapstė miškų tankmėse.
+    daiktais išsislapstė miškų tankmėse. Tais pačiais me­
+    tais per išdavystę buvo prarasta Aukaimio pilis. Pilies
+    viršininkas Draika pradėjo linkti į krikščionių tikėji­
+    mą. Negalėdamas tarp saviškių garbinti dievo pagal
+    šias apeigas, jis ryžosi pereiti priešo pusėn, o prieš
+    tai pelnyti jo palankumą nepaprasta išdavyste.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185925
+    - t-196317

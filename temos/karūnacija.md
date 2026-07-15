@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 16
+tema_objektu_skaicius: 15
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 16.
+Objektų skaičius: 15.
 
 ## Kaip naudoti
 
@@ -37,7 +37,6 @@ Objektų skaičius: 16.
 - [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
 - [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas]]
 - [[objektai/ivykiai/Sandomiro pasitarimas dėl Vytauto karūnacijos (1429 m. rugsėjo 8 d.)]]
-- [[objektai/ivykiai/Sofijos vainikavimas Lenkijos karaliene]]
 - [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
 - [[objektai/ivykiai/Vytauto karūnacijos sumanymo žlugimas po Olesnickio atsakymo]]
 - [[objektai/ivykiai/Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)]]

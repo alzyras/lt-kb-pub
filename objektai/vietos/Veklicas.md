@@ -41,48 +41,19 @@ Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patrauk
 - susijęs iš [[objektai/ivykiai/Veklico pilies ir vienos pilaitės sugriovimas.md#claim-t-66945|Veklico pilies ir vienos pilaitės sugriovimas]]: Pagudėnai su sūduviais ir kitomis Prūsijos gentimis sudegino pilaitę tarp Ragavos ir Veisikos upių.
 - susijęs iš Pamedė: Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis išnaršė Pagudę bei Pamedę.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Veklico pilis stovėjo prie Ragavos upės ir po ilgo puolimo buvo sudeginta, o jos gynėjai paimti į nelaisvę arba nukauti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    kur Veisika įteka į Drūsinės ežerą452, ir po neilgo antpuolio ją sudegino, žmones paėmė
-    į nelaisvę ar nužudė, išskyrus tuos, kurie valtimis paspruko per Drūsinės ežerą. Po to,
-    matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie
-    Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą,
-    pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.
-
-
-
-
-        170 (165).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59378
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     kur Veisika įteka į Drūsinės ežerą452, ir po neilgo antpuolio ją sudegino, žmones paėmė
     į nelaisvę ar nužudė, išskyrus tuos, kurie valtimis paspruko per Drūsinės ežerą. Po to,
     matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie
     Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą,
     pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.
-
-
-
-
-        170 (165).
+    170 (165).
   citata_rodoma: "Po to,\nmatydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie\nRagavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą,\npilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.\n\n\n\n\n    170 (165)."
   statusas: verified
   teiginio_tipas: faktas

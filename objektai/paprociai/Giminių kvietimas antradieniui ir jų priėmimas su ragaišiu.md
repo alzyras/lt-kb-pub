@@ -80,6 +80,7 @@ Nenurodyta
   teiginys: "Giminės būdavo kviečiamos antradieniui."
   pagrindžia:
     - c-177795
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

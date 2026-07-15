@@ -76,12 +76,6 @@ Nenurodyta
   teiginys: "Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė."
   pagrindžia:
     - c-43045
-
-<a id="claim-t-183674"></a>
-- t-004
-  global_id: t-183674
-  teiginys: "Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė."
-  pagrindžia:
     - c-167066
 - susijęs iš Viešpaties dešinės galybė (1674 m.): 1674 m. išleistoje Jokūbo Beneto poemoje „Viešpaties dešinės galybė“ buvo Chotino mūšio iliustracija.
 - susijęs iš Chotinas: 1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.
@@ -98,71 +92,6 @@ Nenurodyta
 - susijęs iš Podolė: Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
 - susijęs iš Podolė: Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, kurie per Dniestrą drįsdavo keltis tik sutelkę dideles pajėgas.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79043|Jonas Karolis Katkevičius]]: Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    apsaugota nuo Turkijos kariuomenės įsi-
-    veržimo. Po nepasisekusių kovų Turkija
-    netrukus pasirašė paliaubas, o pagal
-
-    1623 m. sudarytą taiką buvo atkurta siena
-    tarp Abiejų Tautų Respublikos ir Turkijos,
-    ėjusi palei Dniestro upę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šis laimėjimas - puikus gy-
-    nybinio mūšio pavyzdys. Chotino mūšis
-    tapo paskutine legendinio Lietuvos karve-
-    džio Jono Karolio Chodkevičiaus pasiekta
-    pergale. Šios pergalės dėka Lenkija buvo
-
-    sukurti galingiausią savo laiko karinę jėgą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Chotino mūšis tapo paskutine legendinio Lietuvos karvedžio Jono Karolio Chodkevičiaus pasiekta pergale.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Darnios pėstininkų muškietų salvės
-    sulaikydavo puolančius turkų karius, o ga-
-    lingos ir veržlios kavalerijos kontratakos
-
-    Antrosios linijos brigados atsistodavo už tarpų
-    pirmoje linijoje, todėl reikalui esant pirmoji linija
-
-    priversdavo juos bėgti nuo gynybinių
-    įtvirtinimų. Šis laimėjimas - puikus gy-
-    nybinio mūšio pavyzdys. Chotino mūšis
-    tapo paskutine legendinio Lietuvos karve-
-    džio Jono Karolio Chodkevičiaus pasiekta
-    pergale.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
-
 ## Citatos
 
 - id: c-11841
@@ -226,5 +155,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183674
     - t-41269

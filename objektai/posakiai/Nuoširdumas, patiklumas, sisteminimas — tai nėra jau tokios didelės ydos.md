@@ -27,10 +27,12 @@ media_all_json: |-
 
 „Tygodnik Petersburski“ redakcijos prierašas gina „Lietuvių mitologijos“ autorių ir aiškina, kad tam tikras nuoširdumas, patiklumas ir sisteminimas nėra didelės ydos.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+- id: c-175014
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Bet, prieš baigiant trumpą J. I. Kraševskio recenzijos
     pristatymą, norėtųsi atkreipti dėmesį į vieną detalę. Po
@@ -43,8 +45,8 @@ media_all_json: |-
     dėjęs, ir neslepia nieko, kas galėtų būti naudinga vėles­
     niems tyrinėtojams, kai šie imsis nustatinėti čia girdėtų
     padavimų patikimumą“1 2.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  citata_rodoma: "Ten buvo rašoma: „Nuoširdumas,\n  patiklumas, sisteminimas — tai nėra jau tokios didelės\n  ydos, jeigu istorikas tiksliai atpasakoja tai, ką buvo gir­\n  dėjęs, ir neslepia nieko, kas galėtų būti naudinga vėles­\n  niems tyrinėtojams, kai šie imsis nustatinėti čia girdėtų\n  padavimų patikimumą“."
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

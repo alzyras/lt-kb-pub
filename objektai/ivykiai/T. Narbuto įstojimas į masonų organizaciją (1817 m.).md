@@ -63,25 +63,6 @@ Nenurodyta
   teiginys: "R. Klimavičiaus nuomone, 1817 m. T. Narbutas įstojo į masonų organizaciją."
   pagrindžia:
     - c-170765
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Masonų organizacijose kampainis simboli­
-    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
-    čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
-    mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
-    organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
-    mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
-    Wilenski“ pasisakė prieš baudžiavinį išnaudojimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Data ir vieta
 
@@ -92,12 +73,11 @@ Data: 1817 m.
 - id: c-170765
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Masonų organizacijose kampainis simboli­
-    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
-    čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
+    zavo sąžine, akacijos šakelė - nemirtingumą, skriestuvas - aukš­
+    čiausiąjį protą. Ant taurės išgraviruota data - „1817 m.“ R. Kli­
     mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
     organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
     mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik

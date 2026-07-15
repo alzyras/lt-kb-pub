@@ -7,13 +7,13 @@ datos:
   - '1609 m.'
 date_start: '1609'
 date_end: ''
+amziai:
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dvaras
   - vieta
-amziai:
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,8 @@ Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.
   teiginys: "Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno."
   pagrindžia:
     - c-168638
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -63,12 +63,13 @@ Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.
 - id: c-168638
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 5"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 5."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
-    tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­
-    no.
+    1644 m. A. Kojelavičius siunčiamas į Braunsbergą
+    dėstyti teologijos. Šiame Varmijos mieste kardinolas
+    Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne­
+    trukus pasidariusią svarbia jėzuitų atrama.
+  citata_rodoma: "Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­\ntinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­\nno."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

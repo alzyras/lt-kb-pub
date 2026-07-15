@@ -35,8 +35,8 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
   teiginys: "Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų."
   pagrindžia:
     - c-169517
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -86,10 +86,9 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
     Vasilijaus ir karaliaus Kazimiero, arba tomis, kurias
     6 4 9
 
-    ## Puslapis 648
-
     buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
     Vasiljevičius.
+  citata_rodoma: "Vasilijus pri­\nmygtinai reikalavo, kad ka­\nraliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­\nviau galėsiąs tramdyti saviškius, jei šie susimanys be\nsaiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­\nkai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-\niždininkiui, ir Jonui Gornostajui, raštininkui. Šie ilgai\naiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­\ndžiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­\nriomis kitados buvusi sudaryta sutartis tarp jo senelio\nVasilijaus ir karaliaus Kazimiero, arba tomis, kurias\n6 4 9\n\n## Puslapis 648\n\nbuvo sutarę karalius Aleksandras ir jo tėvas Ivanas\nVasiljevičius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -60,31 +60,6 @@ Nenurodyta
   teiginys: "1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas."
   pagrindžia:
     - c-83241
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
-    lenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
-    metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika
-    155
-
-    ## Puslapis 172
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    pačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos
-    lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
-    mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
-    Stanislovas82.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

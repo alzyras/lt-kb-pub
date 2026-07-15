@@ -31,73 +31,16 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
 <a id="claim-t-189572"></a>
 - t-001
   global_id: t-189572
-  teiginys: "Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis kolonomis, auksu ir sidabrine dvivėrių durų šviesa."
+  teiginys: 'Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis kolonomis, auksu ir sidabrine dvivėrių durų šviesa.'
   pagrindžia:
     - c-172460
 
 <a id="claim-t-194694"></a>
 - t-002
   global_id: t-194694
-  teiginys: "Giwenimas Saulis buwa, auksztejspakieha stabejmis, Swiesu iybunti auksu, grazej lipsnoju ligu pyropu: Kieno Elefanto kauleis, auksztus wirszunis dengioja; Sidobranej dwejapi swiesi blizgojosi dunes."
+  teiginys: 'Giwenimas Saulis buwa, auksztejspakieha stabejmis, Swiesu iybunti auksu, grazej lipsnoju ligu pyropu: Kieno Elefanto kauleis, auksztus wirszunis dengioja; Sidobranej dwejapi swiesi blizgojosi dunes.'
   pagrindžia:
     - c-177091
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis kolonomis, auksu ir sidabrine dvivėrių durų šviesa.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    (1. Sauliaus riimai aukšti su remiančiom dangų kolonom
-    Žalvario degė liepsnom ir auksu žėrėjo iš tolo.
-    Jų iškilius skliautus drambliakaulis baltas dabino,
-    O sidabrinė šviesa tviskėjo iš dvivėrių durų.
-    451
-
-    ## Puslapis 451
-
-    VII priedas
-    A pie pagonių atvertimą į Kristaus tikėjimą
-    (pagal Jeronimą Prahiškį, kamaldulį)
-    Lietuva -  tai didelis, bet nedaug dirbamos žemės turintis kraš­
-    tas, ry’tuose prisišliejęs prie Lenkijos; kraštas pelkėtas ir miškin­
-    gas; jo sostinė yra Vilnius -  Vyskupų miestas, toks pat didelis
-    5.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Giwenimas Saulis buwa, auksztejspakieha stabejmis, Swiesu iybunti auksu, grazej lipsnoju ligu pyropu: Kieno Elefanto kauleis, auksztus wirszunis dengioja; Sidobranej dwejapi swiesi blizgojosi dunes.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    —
-     u  u
-    ---------------u  u -  u  u -  u
-    —
-    450
-
-    ## Puslapis 450
-
-    1.
-    Giwenimas Saulis buwa, auksztejspakieha stabejmis,
-    Swiesu iybunti auksu, grazej lipsnoju ligu pyropu:
-    Kieno Elefanto kauleis, auksztus wirszunis dengioja;
-    Sidobranej dwejapi swiesi blizgojosi dunes.
-    5.
-    Dubinimas preeja darbu: bet Mulciber tinaj.
-    Marios paslėpė, widutinos abjostitas žiemes,
-    Ir žiemini swietu, ir Dangas, nie abdeja pa sauli.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -126,7 +69,7 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189572
+    - t-001
 
 - id: c-177091
   autorius: "Teodoras Narbutas"
@@ -155,4 +98,4 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194694
+    - t-002

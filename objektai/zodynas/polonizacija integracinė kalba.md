@@ -50,55 +50,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   teiginys: "Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių."
   pagrindžia:
     - c-24939
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta. Gyveni-
-    mas reikalavo vis daugiau lietuviškų žodžių, bet, užuot juos kūrus, buvo
-    pasisavinami lenkiški. Taigi lietuvių kalbą, nesuspėjant kurti naujadarų
-    pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų,
-    tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
-    žemėse priemone.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lenkų kalba Lietuvos bajorų reikalavimu Seime įteisinta kaip oficiali raštinių kalba vietoje rusėnų raštų kalbos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Seime jai suteikiamas oficialios raštinių kalbos
-    statusas vietoje anksčiau vartotos rusėnų raštų kalbos. Taigi lenkų kalba
-    buvo įteisinta pačių Lietuvos bajorų reikalavimu, tai buvo Lietuvos visuo-
-    menės pasirinkimas, o ne polonizacija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Bolševizaciją“ papildė kaltinimai polonizaci-
-    ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
-    70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santy-
-    kiams, įvertinta kaip pavojus visai tautai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 

@@ -35,34 +35,6 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
   teiginys: "Lietuvoje pilininkai valdė miestą ir vykdė teisminę priežiūrą kartu su bendruomenės parinktu seniūnu."
   pagrindžia:
     - c-82617
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvoje pilininkai valdė miestą ir vykdė teisminę priežiūrą kartu su bendruomenės parinktu seniūnu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vilnius, Gedimino dėka nuo mažos gyvenvie­
-    tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos
-    karalystės sostine. Valstybėje nusistovėjus leninio valdymo
-    principams, Gedimino veiklumo ir didžių jo politinių sie­
-    kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;
-    Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
-    tvarkos, kokia buvo ir kitur. Kaip Lenkijoje kaštelionai, taip
-    Lietuvoje anuomet pilininkai valdė miestą, vykdydami teis­
-    -- • -
-    24
-
-    ## Puslapis 41
-
-    I  KNYGA
-    minę priežiūrą kartu su bendruomenės parinktu seniūnu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

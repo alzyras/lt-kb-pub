@@ -42,24 +42,6 @@ Przyczyny wojny , Roczn.
   teiginys: "A. Prochaskos „Rok 1410. Przyczyny wojny“ išspausdintas 1910 m. Torunės mokslo draugijos metraštyje."
   pagrindžia:
     - c-33517
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Prochaskos „Rok 1410. Przyczyny wojny“ išspausdintas 1910 m. Torunės mokslo draugijos metraštyje.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Prochaska, A. :
-    _Długosz a Cronica conflictus o gruuwaldskiej bitwie_ , KH, t. 24, 1910, 407-
-    421 p. — (”) _Rok 1410. Przyczyny wojny_ , Roczn. Tow. Nauk w Toruniu,
-    t. 17, 1910, 1-378 p. — Rhode, G. : _Polemiken um die Schlacht von
-    Tanneuberg 1410.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

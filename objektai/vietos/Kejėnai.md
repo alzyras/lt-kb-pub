@@ -34,20 +34,6 @@ media_all_json: |-
   teiginys: "Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr."
   pagrindžia:
     - c-176442
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 26-27, Kalavijai. xm a. Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

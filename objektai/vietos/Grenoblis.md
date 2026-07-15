@@ -43,24 +43,6 @@ Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istori
   pagrindžia:
     - c-33855
 - susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30981|Simono Grunau]]: Simonas Grunau rodyklėje nurodytas kaip kronikininkas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1919-ais
-    jis dar spėjo Karaliaučiaus universitete parašyti disertaciją apie
-    kronistą Simoną Grunau^71. Trečiasis buvo nuo Simno kilęs Ignas
-    Jonynas, kuris 1905 m. porai metų istorijos studijuoti išvyko
-    į Prancūzijos Grenoblį. Istorijos studijas jis užbaigė 1911 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33855

@@ -48,41 +48,6 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   teiginys: "Vladimiro Lenino pasirašytu dekretu Sovietų Rusija pripažino Sovietų Lietuvą."
   pagrindžia:
     - c-23967
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1918 m. lapkričio 13 d. jie anulia­vo Bresto taikos sąlygas su
-    Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lie-
-    tuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“. Rem-
-    damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
-    16 dienos manifestu deklaravo Sovietų Lietuvą. Po savaitės ją Vladimiro
-    Lenino pasirašytu dekretu pripažino Sovietų Rusija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Po 1918 m. gruodžio 16 d. manifesto Sovietų Rusija Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Lietuvą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rem-
-    damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
-    16 dienos manifestu deklaravo Sovietų Lietuvą. Po savaitės ją Vladimiro
-    Lenino pasirašytu dekretu pripažino Sovietų Rusija. Tačiau lietuviams
-    sovietai nesiasocijavo su tautine valstybe, todėl bolševikų jie neparėmė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -46,23 +46,6 @@ Tai Vilniaus puolimo pradžią ženklinantis ir miestiečius mobilizuojantis ša
   teiginys: "Šūksnis „Prie ginklų!“ nuskambėjo Vilniuje kaip vilniečių raginimas pradėti puolimą."
   pagrindžia:
     - c-12487
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šūksnis „Prie ginklų!“ nuskambėjo Vilniuje kaip vilniečių raginimas pradėti puolimą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tai buvo
-    signalas puolimui pradėti. Tuoj pat sus-
-    kambo visų miesto bažnyčių varpai, pasi-
-    girdo vilniečių šauksmai: „Prie ginklų!“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

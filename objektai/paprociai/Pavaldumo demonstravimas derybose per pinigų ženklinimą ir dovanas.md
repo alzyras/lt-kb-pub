@@ -62,54 +62,6 @@ Nenurodyta
   teiginys: "Prieš mūšį Vytautas iš Timūr-Kutluko tarsi reikalavo pavaldumo, prašydamas visus Ordos pinigus žymėti Vytauto ženklu."
   pagrindžia:
     - c-167084
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšis
-
-    Pokalbyje su chanu prieš mūšį Vytautas
-    tarsi reikalavęs pavaldumo - visos Ordos
-    pinigus žymėti Vytauto ženklu. Timūr-
-    Kutlukas, paprašęs trijų dienų pagalvoti,
-    siuntė Vytautui daug galvijų, jaučių, avių,
-    sveikino jį. Taip buvo delsiama, kol atvyko
-    visoje Ordoje garsus kunigaikštis - emyras
-
-    Žasto, dilbio, kelio ir blauz-
-    dos apsaugos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Prieš mūšį Vytautas iš Timūr-Kutluko tarsi reikalavo pavaldumo, prašydamas visus Ordos pinigus žymėti Vytauto ženklu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Totorių pajėgos
-    Aukso ordos chano Timūr-Kutluko,
-    Krymo emyro Edygos kariai.
-
-    Mūšis
-
-    Pokalbyje su chanu prieš mūšį Vytautas
-    tarsi reikalavęs pavaldumo - visos Ordos
-    pinigus žymėti Vytauto ženklu. Timūr-
-    Kutlukas, paprašęs trijų dienų pagalvoti,
-    siuntė Vytautui daug galvijų, jaučių, avių,
-    sveikino jį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

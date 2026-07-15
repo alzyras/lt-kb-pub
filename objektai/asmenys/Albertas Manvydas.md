@@ -35,62 +35,7 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
   teiginys: "Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis."
   pagrindžia:
     - c-44258
-
-<a id="claim-t-183723"></a>
-- t-002
-  global_id: t-183723
-  teiginys: "Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis."
-  pagrindžia:
     - c-167111
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vytauto pavaduotojais Lietuvos ka-
-    riuomenėje buvo Vilniaus seniūnas
-    Albertas Manvydas, kunigaikščiai Simo-
-    nas Lengvenis ir Žygimantas Kaributaitis.
-
-    Lenkijos kariuomenė
-
-    Lenkijos kariuomenė organizavimu
-
-    ir ginkluote buvo panaši į kryžiuočių.
-    Lenkai turėjo nemažai sunkiosios kavale-
-    rijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Anot metraštininko, ji buvo drausminga ir
-    gerai ginkluota.
-
-    Vytauto pavaduotojais Lietuvos ka-
-    riuomenėje buvo Vilniaus seniūnas
-    Albertas Manvydas, kunigaikščiai Simo-
-    nas Lengvenis ir Žygimantas Kaributaitis.
-
-    Lenkijos kariuomenė
-
-    Lenkijos kariuomenė organizavimu
-
-    ir ginkluote buvo panaši į kryžiuočių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -141,5 +86,3 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183723

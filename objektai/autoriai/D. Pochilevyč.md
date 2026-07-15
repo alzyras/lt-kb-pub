@@ -35,22 +35,6 @@ Pochilevyč, Lvovo univ.
   teiginys: "D. Pochilevyč buvo Lvovo universiteto profesorius ir tyrinėjo Lietuvos, Gudijos bei Ukrainos kaimo ūkinius santykius."
   pagrindžia:
     - c-29362
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pačioje Ukrainoje šiuo
-    metu reiškiasi D. Pochilevyč, Lvovo univ. prof. Jis davė
-    naujų tyrinėjimų apie Lietuvos, Gudijos ir Ukrainos (t. y. D. Liet.
-    Kunigaikštystės ploto) kaimo ūkinius santykius^148.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

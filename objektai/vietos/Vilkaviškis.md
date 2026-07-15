@@ -55,28 +55,6 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
 - susijęs iš Pilviškiai: 1950 m. birželio 22–23 d. Vilkaviškio apskrities Pilviškių valsčiaus Žiūrų-Gudelių apylinkėse MGB pajėgos puolė Tauro apygardos partizanus.
 - susijęs iš Pilviškiai: 1948 m. vasario 1 d. Vilkaviškio apskrities Pilviškių valsčiaus Gulbiniškių kaime MGB grupė apsupo sodyboje besislėpusius partizanus.
 - susijęs iš Prienai: 7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti miestą iš pietų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl Lietu-
-    vos atgaivinimo klausimas nebuvo paliestas nė 1812 m. carui at-
-    silankius Vilniuje. Po triukšmingų puotų jis išvyko iš Vilniaus,
-    tik kai kuriuos ponus apdovanojęs Rusijos ordinais, o atsisvei-
-    kindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi
-    sutvarkyti laiko stoka. Bet tai tebuvo tik diplomatiškas atsi-
-    kalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,
-    kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-
-    mene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-68870

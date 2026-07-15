@@ -35,26 +35,6 @@ Nors Stryjkovskio istorija « neatitiko visiems moks­ liniams bei literatūrini
   teiginys: "Stryjkovskio istorija neatitiko visų humanistinės istoriografijos mokslinių ir literatūrinių kriterijų."
   pagrindžia:
     - c-34154
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    mas jo darbą pagrindan M. J. Tichomirovo mokinys A. Rogovas
-    parašė plačią studiją apie rusų ir lenkų kultūrinius ryšius renesanso
-    laikotarpyje^16. Nors Stryjkovskio istorija « neatitiko visiems moks­
-    liniams bei literatūriniams humanistinės istoriografijos kriteri­
-    jams »^17 , ir Lietuvoje dabar jo veikale randama renesanso kultūros
-    apraiškų.
-    Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis
-    nebuvo tikslus šaltinių atžvilgiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

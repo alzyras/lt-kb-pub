@@ -60,20 +60,7 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės.md#claim-t-87090|Pilaitės pilkapis prie Sudervėlės]]: Pilaitės dvaro lankose prie Sudervėlės upelio dunksojo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.
 - susijęs iš Sudervėlė: Prie Sudervėlės upelio buvo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kalvėje kalnėnai ir žemaičiai patys sau kalė padargus ir ginklus.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Devintasis trobesys buvo kalvė, būtinai ketvirtainis, kurioje patys sau padarynę ir ginklą kalė,
-        nesgi kalnėnai ir žemaičiai gėdėjos ko norint nuo svetimo reikalauti, todėl visa patys sau dirbo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Citatos
 

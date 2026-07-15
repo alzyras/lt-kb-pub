@@ -62,22 +62,6 @@ Nenurodyta
   teiginys: "1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai nusifotografavo prie LVG C.VI lėktuvo."
   pagrindžia:
     - c-44663
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai nusifotografavo prie LVG C.VI lėktuvo.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 180, 1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai prie
-
-    lėktuvo LVG C. VI, VDKM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

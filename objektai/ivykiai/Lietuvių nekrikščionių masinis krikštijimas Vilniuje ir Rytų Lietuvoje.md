@@ -64,30 +64,9 @@ Nenurodyta
 <a id="claim-t-186717"></a>
 - t-001
   global_id: t-186717
-  teiginys: "Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje."
+  teiginys: 'Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.'
   pagrindžia:
     - c-169945
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Čia, veikiausiai, turima galvoje, kad Jogaila ra  Vytautu 1425—
-    1428 m. perkėlė tos vyskupijos vyskupo būstinę iš Volynės Vladi­
-    miro ) Lucko domininkonų vienuolyną, kuris buvo Jogailos ir V y­
-    tauto ¡steigtas 1393 m.
-    Kijevo katalikų vyskupija buvo ¡steigta po 1410 m.
-    "  Kalbama apie lietuvių nekrikščionių masin) krikštijim ą ka­
-    talikais Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirm ojoje pusėje
-    (jį smulkiai aprašė J . Dlugošas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -105,9 +84,9 @@ Nenurodyta
     talikais Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirm ojoje pusėje
     (jį smulkiai aprašė J . Dlugošas).
   citata_rodoma: "Kalbama apie lietuvių nekrikščionių masin) krikštijim ą ka­\ntalikais Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirm ojoje pusėje \n(jį smulkiai aprašė J . Dlugošas)."
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186717
+    - t-001

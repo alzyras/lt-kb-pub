@@ -54,36 +54,13 @@ Nenurodyta
   teiginys: "Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys."
   pagrindžia:
     - c-60350
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    atitraukusi čia 9 metais anksčiau, nei Teutonų ordinas atvyko į Prūsijos žemę467. Galop
-    rutėnai, pavargę nuo įstangų  ir patyrę didelių išlaidų, paklausė apsiaustųjų, kuo jie
-    bemintą. Šie atsakė: „Žuvimis“. Mat  jie turėję  viduryje pilies 20 žingsnių  ilgio  ir
-    beveik tokio pat pločio žuvų tvenkinį, jame buvę tiek žuvies, kad jos pakako visiems
-    apsiaustiesiems maitintis. Šitai išgirdę, rutėnai nutraukė apgulą. Štai koks nuostabus
-    dalykas! Kol skalviai buvo netikėliai, jie turėjo žuvies, o dabar laiko varles, kai yra
-    krikščionys, nes tame tvenkinyje jau nebėra tiek vandens, kad jo pakaktų žuvims.
-    Kodėl šitaip yra, nežinau, težino vienas dievas, kurio sprendimai nesuprantami, o keliai
-    nesuvokiami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60350
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     atitraukusi čia 9 metais anksčiau, nei Teutonų ordinas atvyko į Prūsijos žemę467. Galop
     rutėnai, pavargę nuo įstangų  ir patyrę didelių išlaidų, paklausė apsiaustųjų, kuo jie

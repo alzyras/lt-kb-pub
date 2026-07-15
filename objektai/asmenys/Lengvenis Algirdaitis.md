@@ -42,26 +42,6 @@ Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
   teiginys: "Po Raciąžo taikos Lengvenis Algirdaitis buvo tarp pusbrolių, kuriuos Vytautas pasitelkė žygiui prieš Smolenską."
   pagrindžia:
     - c-30248
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Paaukojęs valstybės
-    interesus vakarinių sienų pusėje (Žemaičių užrašymas), didžiojo
-    Žemaičių gynėjo sūnus puolėsi tvarkyti Rusios.
-    Pasitelkęs pusbrolius Lengvenį, Švitrigailą ir Kaributą, po
-    Raciąžo taikos Vytautas pirmiausia su didele jėga vasarop traukė
-    prieš Smolenską. Būdamas silpnas atsispirti, Jurgis pabėgo pas
-    Maskvos Vosylių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -83,5 +63,5 @@ Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47960
     - t-47959
+    - t-47960

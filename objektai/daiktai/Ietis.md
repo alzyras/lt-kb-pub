@@ -10,13 +10,13 @@ datos:
   - '1372 m.'
 date_start: '1329'
 date_end: '1372'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - ginklas
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -119,53 +119,13 @@ Nenurodyta
 - susijęs iš [[objektai/posakiai/Už pagarbą, kurią per mano paveikslą esi man parodęs.md#claim-t-59164|Už pagarbą, kurią per mano paveikslą esi man parodęs]]: Švenčiausioji mergelė sapne pažadėjo atlygį už pagarbą, parodytą per jos paveikslą.
 - susijęs iš Algirdo ir Dimitrijaus taikos sutartis: Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
 - susijęs iš Možaiskas: Pagal taikos sąlygas Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
-- susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
 - susijęs iš Trakų pavietas arba vaivadija: Jonas Lenartaitis Kęsgaila prispaudė antspaudą prie 1490 m. sutarties, kurią sudarė Trakų pavieto, arba vaivadijos, bajorai.
 - susijęs iš Ugros upė: Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upės.
 - susijęs iš [[objektai/zodynas/margutis.md#claim-t-185407|margutis]]: Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą.
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-184630|metropolitas]]: Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė.
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-185415|viečė]]: Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis taikos sąlygų su Algirdu.
+- susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuviai labai greitai įsisavindavo karybos naujoves. XIV a.
-    lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai
-    iliustruoja užfiksuota 1329 m. Čekijos karaliaus Jono Liuksem-
-    burgiečio dvikova su lietuviu didiku Margaliu (Margiriu?). Kai jie
-    raiti susirėmė ir sulaužę ietis ėmė kirstis kalavijais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Nors mes su tavimi susitaikėme, bet man nedera kitaip pasielgti - turiu atremti į tavo
-    Maskvos miesto sieną savi ietį ir vardan savo šlovės palikti ženklą, kad lietuvių, ir rusų,
-    ir žemaičių kunigaikštis Algirdas buvo atrėmęs savo ietį į Maskvos sieną.“
-
-    Ir, užšokęs ant žirgo, paėmė ietį rankon, prijojo prie miesto ir atrėmė savo ietį įsieną, 0
-    nujodamas didžiu balsu sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis
-    stovėjo prie Maskvos!“
-
-    Kovos
-    kirviai
-
-    1368, 1370, 1372 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-003
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -258,7 +218,7 @@ Nenurodyta
     O vėliau didysis kunigaikštis Algirdas su visa savo
     kariuomene ir su didžia šlove, su daugybe belaisvių ir
     neapsakomu grobiu, nukariavęs ir paėmęs daug miestų
-    ir nukėlęs sieną ligi Možaisko8  ir Kolomnos7 , daugelį
+    ir nukėlęs sieną ligi Možaisko8 ir Kolomnos7, daugelį
     žmonių paėmęs nelaisvėn, o visus savo žmones išsau­
     gojęs, išžygiavo namo.
   citata_rodoma: "Ir tada didysis kuni­\ngaikštis Algirdas tarė Maskvos didžiajam kunigaikš­\nčiui: „Nors mes su tavimi susitaikėme, bet man nede­\nra kitaip pasielgti — turiu atremti į tavo Maskvosmies- \nto sieną savo ietį ir vardan savo šlovės palikti ženklą, \nkad lietuvių, ir rusų, ir žemaičių kunigaikštis Algirdas \nbuvo atrėmęs savo ietį į Maskvos sieną.\"\nIr, užšokęs ant žirgo, paėmęs ietį rankon, prijojo \nprie miesto ir atrėmė savo ietį į sieną, o nujodamas \ndidžiu balsu sušuko: „Maskvos didysis kunigaikšti, at­\nmink, kad lietuvių ietis stovėjo prie Maskvos!\"\nO vėliau didysis kunigaikštis Algirdas su visa savo \nkariuomene ir su didžia šlove, su daugybe belaisvių ir \nneapsakomu grobiu, nukariavęs ir paėmęs daug miestų \nir nukėlęs sieną ligi Možaisko8  ir Kolomnos7 , daugelį \nžmonių paėmęs nelaisvėn, o visus savo žmones išsau­\ngojęs, išžygiavo namo."

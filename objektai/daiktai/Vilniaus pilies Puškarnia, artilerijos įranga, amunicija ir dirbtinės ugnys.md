@@ -61,49 +61,6 @@ Nenurodyta
   teiginys: "Prie Vilniaus pilies buvo įkurta Puškarnia, kurioje gaminta artilerijos įranga, amunicija ir dirbtinės ugnys."
   pagrindžia:
     - c-83080
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prie Vilniaus pilies buvo įkurta Puškarnia, kurioje gaminta artilerijos įranga, amunicija ir dirbtinės ugnys.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Il
-    Prie jo buvo įkurta Puškarnia, tai
-    yra, anuometinės artilerijos įrangos
-    bei amunicijos dirbtuvė. Joje ir bu­
-    vo pagamintos anos dirbtinės ugnys,
-    degintos Vilniuje, kurias Gurnickis
-    šitaip pamini: „Neilgai trukus po to
-    karalius važiavo į Lietuvą, o jam
-    esant Vilniuje, 1540 metais, atėjo ži­
-    nia, kad karaliui Jonui (vengrų ka­
-    raliui, Žygimanto Senojo dukters
-    Izabelės vyrui) gimęs sūnus. Po šios
-    džiugios naujienos buvo įvairiausiai
-    reiškiamas džiaugsmas ne tik gatvė­
-    se, ypač priešais kunigo Samuelio
-    Maciejovskio, tuo laiku Karalystės
-    pakanclerio ir Kulmo, o netrukus
-    po to - Plocko vyskupo, rūmus, bet
-    ir kalneliuose ties Vilniumi buvo
-
-    ## Puslapis 281
-
-    265
-    2irmek/ ^3) of nti®^ L,™ k; x
-
-    ## Puslapis 282
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    rūpinosi iš Lietuvos kunigaikščių kilęs Vilniaus vyskupas Jo­
-    nas su kapitula12, pinigais remiamas visos dvasininkijos13.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

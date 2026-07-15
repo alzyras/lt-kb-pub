@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius. Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai. Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
+Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius. Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai. Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-185494"></a>
 - t-002
   global_id: t-185494
-  teiginys: "Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai."
+  teiginys: "Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai."
   pagrindžia:
     - c-168855
 
@@ -68,103 +68,41 @@ Nenurodyta
   teiginys: "Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija."
   pagrindžia:
     - c-168856
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Iškilęs pavojus paskatino
-    daugelį kunigaikščių, o ypač Seversko, griebtis ginklo:
-    į kovą pakilo Perejeslavlio
-    B endras
-    rusų
-    ž y g is
-    kunigaikštis Romanas ir iš-
-    p rieš G ed im in ą
-    tremtas Lucko kunigaikštis
-    jie turėjo pagalbininkų skitų. Kadangi sklido gandai,
-    jog priešas skubiai traukiąs į Kijevą, jie už šešių my­
-    lių nuo šio miesto, prie Irpenio upės, įsirengė karo
-    stovyklas, ketindami, jeigu tik bus įmanoma, užgriū­
-    ti visa jėga lietuvius, kai šie bus ar iš kelionės nuvar­
-    gę, ar pernelyg įnikę į grobikiškus išpuolius. Tačiau
-    Gediminas, iš žvalgų sužinojęs, kokios rusų jėgos, ką
-    jie keta daryti ir kur jų stovykla, bemat susigrąžino
-    visus būrius, išvykusius plėšikauti, ir patraukė į priekį
-    tvarkingomis voromis, nenorėdamas priešo žemėje be
-    tinkamo pasirengimo stoti į kovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196148"></a>
+- t-004
+  global_id: t-196148
+  teiginys: "Kojelavičius rašo, kad rusų kunigaikščiai prie Irpenio įsirengė stovyklas, ketindami pulti lietuvius, kai šie bus nuvargę ar įnikę į grobį."
   pagrindžia:
-    - t-001
+    - c-168854
 
-- c-002
-  santrauka: 'Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    K ije v a s  a p su p a m a s ir
-    p a im a m a s
-    susirinkę atitekusį jiems gro­
-    bį, pulkai negaišdami pa­
-    traukė į priekį ir apsupo Ki­
-    jevą. Nors rusai dar nebuvo
-    2 03
-
-    ## Puslapis 202
-
-    Verčiau pasiduodant išsaugoti šiokią tokią valstybę,
-    kad ir nugalėtojo valdomą, nei viską atkakliu prie­
-    šinimusi prarasti. Todėl pa­
-    sitarę nusprendė patys ati­
-    duoti pilį ir miestą. Visi luo­
-    mai, išėję iš miesto, sveikino
-    nugalėtoją
-    Gediminą
-    kaip
-    Kijevo ir Rusios didįjį kuni­
-    gaikštį, prisiekdami su visomis žemėmis paklusti jo
-    valdžiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196149"></a>
+- t-005
+  global_id: t-196149
+  teiginys: "Visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai."
   pagrindžia:
-    - t-002
+    - c-168855
 
-- c-003
-  santrauka: 'Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Gediminas, pasilsėjęs čia, kol artimiausios pi­
-    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
-    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
-    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
-    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
-    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
-    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
-    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
-    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
-    džioje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196150"></a>
+- t-006
+  global_id: t-196150
+  teiginys: "Šitaip ilgai niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija, patyrusi visokių sėkmių ir nesėk mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val džioje."
   pagrindžia:
-    - t-003
+    - c-168856
+
+<a id="claim-t-196151"></a>
+- t-007
+  global_id: t-196151
+  teiginys: "Kojelavičiaus vertinimu, Gediminas tapo pirmuoju svetimšaliu, valdžiusiu Kijevą, savo vietininku paskyręs Alšėnų kunigaikštį Mintautą."
+  pagrindžia:
+    - c-178557
 
 ## Citatos
 
 - id: c-168854
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 199"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 199."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Iškilęs pavojus paskatino
     daugelį kunigaikščių, o ypač Seversko, griebtis ginklo:
@@ -185,28 +123,26 @@ Nenurodyta
     jie keta daryti ir kur jų stovykla, bemat susigrąžino
     visus būrius, išvykusius plėšikauti, ir patraukė į priekį
     tvarkingomis voromis, nenorėdamas priešo žemėje be
-    tinkamo pasirengimo stoti į kovą.
+    tinkamo pasirengimo stoti į kovą. Abi kariuomenės
+    viena kitą išvydo vienu metu; ir vieni, ir kiti, vos
+    pamatę priešą, beregint stojo į mūšį. Rusai puolė drą-
+    Levas; be savo žemių karių,
+  citata_rodoma: "Iškilęs pavojus paskatino \ndaugelį kunigaikščių, o ypač Seversko, griebtis ginklo:\nį kovą pakilo Perejeslavlio \nB endras \nrusų \nž y g is \nkunigaikštis Romanas ir iš-\np rieš G ed im in ą \ntremtas Lucko kunigaikštis\njie turėjo pagalbininkų skitų. Kadangi sklido gandai, \njog priešas skubiai traukiąs į Kijevą, jie už šešių my­\nlių nuo šio miesto, prie Irpenio upės, įsirengė karo \nstovyklas, ketindami, jeigu tik bus įmanoma, užgriū­\nti visa jėga lietuvius, kai šie bus ar iš kelionės nuvar­\ngę, ar pernelyg įnikę į grobikiškus išpuolius. Tačiau \nGediminas, iš žvalgų sužinojęs, kokios rusų jėgos, ką \njie keta daryti ir kur jų stovykla, bemat susigrąžino \nvisus būrius, išvykusius plėšikauti, ir patraukė į priekį \ntvarkingomis voromis, nenorėdamas priešo žemėje be \ntinkamo pasirengimo stoti į kovą. Abi kariuomenės \nviena kitą išvydo vienu metu; ir vieni, ir kiti, vos \npamatę priešą, beregint stojo į mūšį. Rusai puolė drą-\nLevas; be savo žemių karių,\n\nR usios \nku n ig a ik ščia i \nk a u ja si su lietu via is, \njie n u galim i\nšiai, pasipiktinę, kad štai tu­\nri grumtis dėl valdžios su \ntauta, kitados jiems mokėju­\nsia duoklę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185493
+    - t-196148
 
 - id: c-168855
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    K ije v a s  a p su p a m a s ir
-    p a im a m a s
-    susirinkę atitekusį jiems gro­
-    bį, pulkai negaišdami pa­
-    traukė į priekį ir apsupo Ki­
-    jevą. Nors rusai dar nebuvo
+    Nors rusai dar nebuvo
     2 03
-
-    ## Puslapis 202
 
     Verčiau pasiduodant išsaugoti šiokią tokią valstybę,
     kad ir nugalėtojo valdomą, nei viską atkakliu prie­
@@ -219,33 +155,69 @@ Nenurodyta
     kaip
     Kijevo ir Rusios didįjį kuni­
     gaikštį, prisiekdami su visomis žemėmis paklusti jo
-    valdžiai.
+    valdžiai. Gediminas, pasilsėjęs čia, kol artimiausios pi­
+    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
+    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185494
+    - t-196149
 
 - id: c-168856
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Gediminas, pasilsėjęs čia, kol artimiausios pi­
-    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
-    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
+    Užėmęs Brianską
     ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
     kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
     išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
     niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
     Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
     mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
-    džioje.
+    džioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių
+    kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
+    senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
+    minystės ryšiais.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185495
+    - t-196150
+
+- id: c-178557
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Nors kitados Boleslovas, nugalėjęs
+    rusus, ir buvo užėmęs Kijevą bei privertęs kijeviečius
+    duoklę duoti, tačiau nė vienam lenkų karaliui dar ne­
+    buvo pavykę nei gauti Kijevo kunigaikščio vardo, nei
+    išvyti iš šių valdų teisėtų valdovų, nei nugalėtų tautų
+    paversti savo -valdiniais; mat rusai vėliau kovose įro­
+    dė, jog atsisakė paklusti lenkams. Pirmuoju svetimša­
+    liu, valdžiusiu Kijevą, ir tapo Gediminas, savo vieti­
+    ninku čia paskyręs Mintautą, Alšėnų kunigaikštį, mat
+    šis neseniai buvo priėmęs
+    M in ta u ta s, G ed im in o
+    krikščionybę pagal rusų ap-
+    v ie tin in k a s K i j e v e
+    eigas. Gediminas nenorėjo,
+    kad, nugalėtam priešui pas­
+    kyrus naują valdytoją, šio ir taip kartoka valdžia ne­
+    taptų dar kartesnė dėl jo skirtingo tikėjimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196151

@@ -87,12 +87,26 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   pagrindžia:
     - c-175185
 
-<a id="claim-t-194860"></a>
-- t-009
-  global_id: t-194860
-  teiginys: "Jis nuėjo net iki gelonų ir budinu krašto, kur tik pirmąsyk patyrė didelį džiaugs mą, išgriaudamas keletą tvirtų pilių."
+<a id="claim-t-197497"></a>
+- t-010
+  global_id: t-197497
+  teiginys: "Į šiaurę nuo skitų, net ligi Dono, gy veno gelonai ir budinai, kitapus Dono, iki jūros, j rytus nuo skitų, — sarmatai."
   pagrindžia:
-    - c-177256
+    - c-175179
+
+<a id="claim-t-197498"></a>
+- t-009
+  global_id: t-197498
+  teiginys: "Ta čiau helenai tuos gelonus vadina, nors ir neteisingai, budinais."
+  pagrindžia:
+    - c-179220
+
+<a id="claim-t-197499"></a>
+- t-011
+  global_id: t-197499
+  teiginys: "Ver gilijus apie tokį kumelės pieno vartojimą rašė: „Karin gasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4."
+  pagrindžia:
+    - c-175182
 - susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191112|Adomas Stanislovas Naruševičius]]: Narbutas nurodo, kad Naruševičius daugelyje darbų patvirtino teiginį apie gelonų tautą Nemuno aukštupyje.
 - susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191126|Darijus]]: Iki Darijaus žygio prieš Skitiją gelonai, Narbuto teigimu, jau seniai gyveno tarp budinų, buvo su jais susilieję ir sudarė vieną tautą.
 - susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191945|Darijus]]: Narbutas rašė, kad Darijaus amžiuje gelonų-budinų krašte žemdirbystė buvo aukšto lygio ir skatino graikų prekybą grūdais Juodojoje jūroje.
@@ -161,63 +175,16 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192239|revoliucija]]: Teodoro Narbuto pasakojime ta pati revoliucija turėjo priversti agatirus išsikelti iš Uždneprės.
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190710|Herodotas]]: Herodotas teigė, kad gelonai ir budinai turėjo tvirtovių bei nekilnojamojo turto, kurį sunaikino persų antpuolis.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
-    Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­
-    kui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­
-    nusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­
-    čią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­
-    sivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo
-    tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo
-    kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
-    kančią per jų sodybų vidurį, jie pavadino Rose (Ross).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutui priskiriamame kilmės aiškinime lietuviai kildinami iš gelonų ir budinų, o vėlesnė jų karta siejama su Prūsija, Lietuva ir Latvija.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Antras tomas be­
-    veik visas yra skirtas lietuvių kilmei, lengva pasakyti —
-    576 puslapiai. Tamsta kildini juos iš gelonų (pelazgų-
-    helenų tautos) ir iš budinu (indų-skitų tautos); vėliau
-    išaugusi gelonų-budinų karta susiskirstė į tris pagrin­
-    dines dalis: Prūsiją, tikrąją Lietuvą ir Latviją. Kaip ma­
-    tyti, tai teigdamas, vadovavotės ir Herodoto autoritetu,
-    ir kai kurių vokiečių rašytojų tyrinėjimais, be to, neuž-1
-    miršote ir Šlėcerio, kuris pripažįsta, jog lietuviai yra ypa­
-    tinga gentis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Narbutas gelonus apibūdina kaip su graikų persikėlėliais siejamą tautą, kurios kolonija buvo kairiajame Dnepro krante tarp budinų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Be to, Tanajis yra šiandienis Do­
-    nas, o Higris — Donecas.
-    36
-    Dideliame skitų krašte taip pat gyveno svetimos, ski­
-    tų pakenčiamos, ypač graikų persikėlėlių ir su jais turė­
-    jusios ryšių arba susigiminiavusios tautos, pavyzdžiui,
-    gelonų, kurių kolonija plytėjo į šiaurę nuo skitų krašto,
-    kairiojoje Dnepro pakrantėje tarp budinu. Šie, susiję su
-    anais, visuomet kaimyniškai, taikiai ir sutartinai gyveno
-    su skitais.
+    Į šiaurę nuo skitų, net ligi Dono, gy­
+    veno gelonai ir budinai, kitapus Dono, iki jūros, j rytus
+    nuo skitų, — sarmatai. Skitų valstybė buvo galinga,
+    tirštai gyvenama ir taiki. Bet galų gale tokia palanki
+    genties padėtis baigėsi dėl menkų, kaip ir jie patys, žmo­
+    giškų dalykų.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -225,168 +192,29 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Herodoto pasakojime į šiaurę nuo gelonų ir budinų krašto driekėsi septynių dienų kelio dykra, o už jos gyveno tisagetai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vis dėlto Herodotas turėjo daugiau žinių apie
-    romėnus*, nes teigia, kad dienovidžio kryptimi į šiaurę
-    nuo gelonų ir budinu krašto plyti septynių dienų kelio
-    dykra, o už jos gyvena tisagetai. Naujausių ir tiksliau­
-    sių šios graikų istoriko geografijos paaiškinimų pateikė
-    generolas Baturlinas, aprašydamas Darijaus žygį prieš
-    Skitiją2. Pasak jo, gelonų gyventa dabartinėje Staro-
-    belsko apskrityje, o budinai gyveno visai greta, rytų link
-    buvo užėmę šiandienių Voluikos ir Bogončavo miestų
-    apylinkes, vadinasi, šių abiejų genčių gyvenamas kraš­
-    tas plytėjo Dono ir Doneco tarpupyje, jo plotas iš pietų
-    į šiaurę galėjo būti nuo 48 iki 51 laipsnio platumos, o
-    tisagetai buvo įsikūrę šiandienėse Oriolo, Tūlos, Riaza-
-    nės, Tambovo ir Penzos gubernijose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Narbutas rašo, kad senovėje gelonai buvo laikomi geriausiais lankininkais ir turėjo paprotį dažyti kūną.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    81
-
-    ## Puslapis 79
-
-    63
-    Senovėje gelonai buvo laikomi geriausiais lankinin­
-    kais1. Jie turėjo paprotį išsidažyti kūną2; apie tai pasa­
-    koja Sidonijus Apolinaras*. Jis rašo, kad gelonai, kaip
-    ir skitai, t. y. budinai, turėjo paprotį kartais išsidažyti
-    veidą, plaukus, kūną raudona arba ruda spalva, o tam
-    jie naudojo kažkokį bulvinį augalą, kurio savybes jie ge­
-    rai žinojo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Narbutas spėja, kad pirmosios gelonų gyvenvietės turėjo būti Očekovo apylinkėse, nes ten esą buvęs Gelono miestas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pirmosios jų gyvenvietės turėjo būti Očekovo miesto apy­
-    linkėse, nes kažkur ten buvo Gelono miestas. Herodotas
-    prisimena buvus tokį miestą prie Juodosios jūros, kur
-    netoliese buvo ir Dioskūrija; būtent šios vietos garsėjo
-    didžiulėmis prekyvietėmis, į kurias susirinkdavo nesu­
-    skaičiuojamos minios žmonių iš maždaug trijų šimtų
-    genčių, įvairių savo kalba ir gyvenamąja vieta1. Kada
-    įvyko ta revoliucija, privertusi gelonus išvykti iš empo­
-    riumų, nėra jokių žinių; tikra tik tai, kad iki Darijaus
-    žygio prieš Skitiją gelonai jau seniai gyveno tarp budi­
-    nu, susiliejo su jais ir sudarė vieną tautą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Narbutas gelonus sieja su heleniška kilme ir rašo, kad jie kasmet siųsdavo į Delą dovanų bei aukų Apolonui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Todėl mano­
-    ma, kad tai turėjo įvykti ne vėliau kaip VI amžiaus prieš
-    Kristaus gimimą antrojoje pusėje. Gelonai, prisimindami
-    savo helenišką kilmę ir nepaisydami religinio susijungi­
-    mo su indais-skitais, kasmet siųsdavo į Delą dovanų ir
-    aukų Apolonui2.
-    65
-    Gelonai-budinai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Narbutas lietuvių tautos pradžią aiškina kaip dviejų senovės tautų, gelonų ir budinų, susiliejimo rezultatą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Nors gal nėra Europoje nė
-    vienos tautos, kuri; nebūtų 'dviejų arba trijų skirtingų tau­
-    tų lydinys5 , Toks susiliejimas niekada nebuvo trumpo lai­
-    ko ar politinės santvarkos vaisius, bet istorinis faktas,
-    kurį nulemdavo atsitiktinumas ir netikėtos aplinkybės, su­
-    formavusios naujas tautas ir skatinusios žmonių plitimą
-    tuo metu, kai pirmykštės žmonių giminės dar buvo ne­
-    gausios, išskaidytos po tolimas vietoves ir kolonijas, kur
-    jas nubloškė apvaizda.
-    196
-    Būtent šitaip ir su panašiomis aplinkybėmis susijusi,
-    atrodo, lietuvių tautos, kaip lydinio dviejų senovės tautų,
-    gelonų ir budinu, pradžia. Pirmieji buvo pelazgų-helenų,
-    antrieji — indų-skitų kiimės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Jis nuėjo net iki gelonų ir budinu krašto, kur tik pirmąsyk patyrė didelį džiaugs mą, išgriaudamas keletą tvirtų pilių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    59
-
-    ## Puslapis 57
-
-    Veltui šis uolus karvedys, nors į jo patarimus ir nebuvo
-    atkreipta dėmesio, iš paskutiniųjų stengėsi išgelbėti ka­
-    riuomenę, rodydamas kovingumo, pavyzdingos tvarkos ir
-    ištvermės įveikiant didžiausius sunkumus pavyzdį; mil­
-    žiniškos Darijaus kariuomenės buvo neįmanoma apsau­
-    goti nuo milžiniškų nuostolių. Sis karalius troško žūtbūt
-    pasiekti paskutines Skituos sritis. Jis nuėjo net iki gelonų
-    ir budinu krašto, kur tik pirmąsyk patyrė didelį džiaugs­
-    mą, išgriaudamas keletą tvirtų pilių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
+    - t-010
 
 ## Citatos
 
 - id: c-175157
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
-    Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­
-    kui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­
-    nusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­
-    čią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­
-    sivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo
-    tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo
-    kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
-    kančią per jų sodybų vidurį, jie pavadino Rose (Ross).
+    Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
+    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
+    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
+    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
+    arba šiek tiek vėliau.
+    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
+    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
+    liaudies padavimų.
   citata_rodoma: "Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir\nRoksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­\nkui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­\nnusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­\nčią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­\nsivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo\ntos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo\nkairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­\nkančią per jų sodybų vidurį, jie pavadino Rose (Ross)."
   statusas: verified
   teiginio_tipas: faktas
@@ -398,8 +226,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - id: c-175178
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 12"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 12."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Antras tomas be­
     veik visas yra skirtas lietuvių kilmei, lengva pasakyti —
@@ -421,31 +248,30 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - id: c-175179
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 54"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Be to, Tanajis yra šiandienis Do­
-    nas, o Higris — Donecas.
-    36
-    Dideliame skitų krašte taip pat gyveno svetimos, ski­
-    tų pakenčiamos, ypač graikų persikėlėlių ir su jais turė­
-    jusios ryšių arba susigiminiavusios tautos, pavyzdžiui,
-    gelonų, kurių kolonija plytėjo į šiaurę nuo skitų krašto,
-    kairiojoje Dnepro pakrantėje tarp budinu. Šie, susiję su
-    anais, visuomet kaimyniškai, taikiai ir sutartinai gyveno
-    su skitais.
+    Galbūt šis keistas požiū­
+    ris atsirado dėl to, kad tam tikrais metų laikais bado
+    spaudžiami neurai išeidavo iš savo miškų ir grobdavo
+    gyvulius iš skitų. Į šiaurę nuo skitų, net ligi Dono, gy­
+    veno gelonai ir budinai, kitapus Dono, iki jūros, j rytus
+    nuo skitų, — sarmatai. Skitų valstybė buvo galinga,
+    tirštai gyvenama ir taiki. Bet galų gale tokia palanki
+    genties padėtis baigėsi dėl menkų, kaip ir jie patys, žmo­
+    giškų dalykų.
+  citata_rodoma: "Į šiaurę nuo skitų, net ligi Dono, gy­\nveno gelonai ir budinai, kitapus Dono, iki jūros, j rytus \nnuo skitų, — sarmatai. Skitų valstybė buvo galinga, \ntirštai gyvenama ir taiki. Bet galų gale tokia palanki \ngenties padėtis baigėsi dėl menkų, kaip ir jie patys, žmo­\ngiškų dalykų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192385
+    - t-197497
 
 - id: c-175181
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 73"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vis dėlto Herodotas turėjo daugiau žinių apie
     romėnus*, nes teigia, kad dienovidžio kryptimi į šiaurę
@@ -473,30 +299,27 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    81
-
-    ## Puslapis 79
-
-    63
-    Senovėje gelonai buvo laikomi geriausiais lankinin­
-    kais1. Jie turėjo paprotį išsidažyti kūną2; apie tai pasa­
-    koja Sidonijus Apolinaras*. Jis rašo, kad gelonai, kaip
-    ir skitai, t. y. budinai, turėjo paprotį kartais išsidažyti
-    veidą, plaukus, kūną raudona arba ruda spalva, o tam
-    jie naudojo kažkokį bulvinį augalą, kurio savybes jie ge­
-    rai žinojo.
+    Tą sveiką gyvulinės kilmės
+    produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
+    suomet labai vertino ir dabar tebevertina šiaurės rytų
+    gyventojai. Tokiame piene, sumaišius jį su dar šiltu ir
+    šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl
+    destiliuojant galima pagaminti svaiginantį gėrimą. Ver­
+    gilijus apie tokį kumelės pieno vartojimą rašė: „Karin­
+    gasis gelonas bėga į Rodopų kalnus arba getų dykumas
+    ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192388
+    - t-197499
 
 - id: c-175183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 80."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pirmosios jų gyvenvietės turėjo būti Očekovo miesto apy­
     linkėse, nes kažkur ten buvo Gelono miestas. Herodotas
@@ -519,8 +342,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - id: c-175184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 80."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Todėl mano­
     ma, kad tai turėjo įvykti ne vėliau kaip VI amžiaus prieš
@@ -540,8 +362,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - id: c-175185
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 192"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 192."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nors gal nėra Europoje nė
     vienos tautos, kuri; nebūtų 'dviejų arba trijų skirtingų tau­
@@ -564,30 +385,30 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   pagrindzia:
     - t-192391
 
-- id: c-177256
+- id: c-179220
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    59
-
-    ## Puslapis 57
-
-    Veltui šis uolus karvedys, nors į jo patarimus ir nebuvo
-    atkreipta dėmesio, iš paskutiniųjų stengėsi išgelbėti ka­
-    riuomenę, rodydamas kovingumo, pavyzdingos tvarkos ir
-    ištvermės įveikiant didžiausius sunkumus pavyzdį; mil­
-    žiniškos Darijaus kariuomenės buvo neįmanoma apsau­
-    goti nuo milžiniškų nuostolių. Sis karalius troško žūtbūt
-    pasiekti paskutines Skituos sritis. Jis nuėjo net iki gelonų
-    ir budinu krašto, kur tik pirmąsyk patyrė didelį džiaugs­
-    mą, išgriaudamas keletą tvirtų pilių.
+    Ta­
+    čiau helenai tuos gelonus vadina, nors ir neteisingai, bu-
+    dinais. Jų kraštas derlingas, turtingas tankių miškų, o
+    didžiausiame miške yra pelkėtas, nendrėmis apaugęs
+    ežeras; šiame ežere jie gaudo ūdras ir bebrus. Senovės
+    geografai nurodo tris gelonų kolonijas: viena prie Meo-
+    tidės, kolchų kaimynystėje, antra tarp budinu, o trečia
+    prie Kaspijos3. Bet ne visos jos buvo vienu metu, nes
+    gerai matyti, jog pirmiausia, išvyti iš emporiumų, jie gy­
+    veno dešiniojoje Dnepro ir Bugo pakrantėje, kur stovėjo
+    ir Gelono miestas (apie tai kalbėsime vėliau), persikėlė
+    prie Meotidės arba į Dono žemupio apylinkes, o vėliau —
+    pas budinus.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194860
+    - t-197498
 
 ## Ryšiai
 - Gelonai gyveno [[objektai/vietos/Starobelsko apskritis]], [[objektai/vietos/Volkovysko apskritis]]

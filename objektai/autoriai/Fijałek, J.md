@@ -50,22 +50,6 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
   teiginys: "J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, publikuotą 1914 m. „KH“ 28 tome."
   pagrindžia:
     - c-55066
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Fijałek, J. : _Wnuk Kiejstuta, Jan książę drohiczyński_ , KH, t. 28,
-    1914, 181-197 p. — Gersdorf, H. : _Der Deutsche Orden im Zeitalter der
-    polnisch-litauischen Union. Die Regierung des Hochmeisters Konrad Zöll­
-    ner_ (1382-90), Marburg a. L. 1956.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -85,3 +69,4 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54116
+    - t-54117

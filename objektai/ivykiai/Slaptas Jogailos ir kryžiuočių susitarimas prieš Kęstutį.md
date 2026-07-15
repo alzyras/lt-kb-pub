@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Slaptoje sąmokslo sutartyje buvo numatyta nužudyti Kęstutį ir jo palikuonis, o Vaidilai atlyginti nugalėtų priešų valdomis. Vaidilos patvarkymu Jogaila ir kryžiuočiai slaptai pasirašė susitarimą prieš stojimą į atvirą kovą.
+Kojelavičius slaptą susitarimą vaizduoja kaip planą nužudyti Kęstutį bei jo palikuonis ir Vaidilai atlyginti nugalėtų priešų valdomis. Vaidilos patvarkymu Jogaila ir kryžiuočiai slaptai pasirašė susitarimą prieš stojimą į atvirą kovą. Kojelavičius slaptą susitarimą vaizduoja kaip planą nužudyti Kęstutį bei jo palikuonis ir Vaidilai atlyginti nugalėtų priešų valdomis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-185772"></a>
 - t-001
   global_id: t-185772
-  teiginys: "Slaptoje sąmokslo sutartyje buvo numatyta nužudyti Kęstutį ir jo palikuonis, o Vaidilai atlyginti nugalėtų priešų valdomis."
+  teiginys: "Kojelavičius slaptą susitarimą vaizduoja kaip planą nužudyti Kęstutį bei jo palikuonis ir Vaidilai atlyginti nugalėtų priešų valdomis."
   pagrindžia:
     - c-169133
 
@@ -54,63 +54,6 @@ Nenurodyta
   teiginys: "Vaidilos patvarkymu Jogaila ir kryžiuočiai slaptai pasirašė susitarimą prieš stojimą į atvirą kovą."
   pagrindžia:
     - c-169134
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Slaptoje sąmokslo sutartyje buvo numatyta nužudyti Kęstutį ir jo palikuonis, o Vaidilai atlyginti nugalėtų priešų valdomis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kai valdovas, įta­
-    rimo kamuojamas, ėmė dvejoti, Vaidila be vargo su-
-    26 4
-
-    ## Puslapis 263
-
-    J o g a ilo s
-    są m o k sla s
-    p rieš
-    K ę s tu tį
-    ir
-    jo
-    še im ą
-    kurstė neapykantą bei mintį
-    griebtis prievartos. Slaptai
-    susitariama nužudyti Kęstutį
-    bei jo palikuonis; Vaidilai,
-    ištikimam tariamos klastos
-    atskleidėjui, žadama atlyginti nugalėtų priešų valdo­
-    mis. Vis dėlto nutariama tol nestoti į atvirą kovą, kol
-    nebus sudaryta karinė sąjunga su Prūsijos bei Livoni­
-    jos kryžiuočiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vaidilos patvarkymu Jogaila ir kryžiuočiai slaptai pasirašė susitarimą prieš stojimą į atvirą kovą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėlto nutariama tol nestoti į atvirą kovą, kol
-    nebus sudaryta karinė sąjunga su Prūsijos bei Livoni­
-    jos kryžiuočiais. Vaidilos patvarkymu, visai slaptai
-    buvo pasirašytas Jogailos bei kryžiuočių susitarimas,
-    tačiau reikalas iškilo aikštėn, kai Kunonas fon Libš-
-    teinas, Osterodės komtūras, apie viską pranešė Kęstu­
-    čiui. Mat jis neseniai švęstuoju vandeniu pakrikštijo
-    Kęstučio dukterį Danutę, ketinančią tekėti už Mazo­
-    vijos kunigaikščio Jonušo, ir, kūmystės ryšių paakin­
-    tas, įspėjo draugą apie gresiantį pavojų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -119,11 +62,13 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kai valdovas, įta­
+    Nesunku buvo piktomis kalbomis jei­
+    gu ir neįtikinti valdžios trokštančio jaunikaičio širdį,
+    tai bent pasėti joje įtarimo sėklą. Mat valdovai grei­
+    ti įtarinėti tolygios kilmės žmones, manydami, jog kas
+    gali valdyti, tas ir trokšta karaliauti. Kai valdovas, įta­
     rimo kamuojamas, ėmė dvejoti, Vaidila be vargo su-
     26 4
-
-    ## Puslapis 263
 
     J o g a ilo s
     są m o k sla s
@@ -138,9 +83,8 @@ Nenurodyta
     bei jo palikuonis; Vaidilai,
     ištikimam tariamos klastos
     atskleidėjui, žadama atlyginti nugalėtų priešų valdo­
-    mis. Vis dėlto nutariama tol nestoti į atvirą kovą, kol
-    nebus sudaryta karinė sąjunga su Prūsijos bei Livoni­
-    jos kryžiuočiais.
+    mis.
+  citata_rodoma: "Mat valdovai grei­\nti įtarinėti tolygios kilmės žmones, manydami, jog kas \ngali valdyti, tas ir trokšta karaliauti. Kai valdovas, įta­\nrimo kamuojamas, ėmė dvejoti, Vaidila be vargo su-\n26 4\n\nJ o g a ilo s \nsą m o k sla s \np rieš \nK ę s tu tį \nir \njo \nše im ą\nkurstė neapykantą bei mintį \ngriebtis prievartos. Slaptai \nsusitariama nužudyti Kęstutį \nbei jo palikuonis; Vaidilai, \ništikimam tariamos klastos\natskleidėjui, žadama atlyginti nugalėtų priešų valdo­\nmis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -151,10 +95,22 @@ Nenurodyta
 - id: c-169134
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 263."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vis dėlto nutariama tol nestoti į atvirą kovą, kol
+    J o g a ilo s
+    są m o k sla s
+    p rieš
+    K ę s tu tį
+    ir
+    jo
+    še im ą
+    kurstė neapykantą bei mintį
+    griebtis prievartos. Slaptai
+    susitariama nužudyti Kęstutį
+    bei jo palikuonis; Vaidilai,
+    ištikimam tariamos klastos
+    atskleidėjui, žadama atlyginti nugalėtų priešų valdo­
+    mis. Vis dėlto nutariama tol nestoti į atvirą kovą, kol
     nebus sudaryta karinė sąjunga su Prūsijos bei Livoni­
     jos kryžiuočiais. Vaidilos patvarkymu, visai slaptai
     buvo pasirašytas Jogailos bei kryžiuočių susitarimas,
@@ -164,6 +120,7 @@ Nenurodyta
     Kęstučio dukterį Danutę, ketinančią tekėti už Mazo­
     vijos kunigaikščio Jonušo, ir, kūmystės ryšių paakin­
     tas, įspėjo draugą apie gresiantį pavojų.
+  citata_rodoma: "Vis dėlto nutariama tol nestoti į atvirą kovą, kol\nnebus sudaryta karinė sąjunga su Prūsijos bei Livoni­\njos kryžiuočiais. Vaidilos patvarkymu, visai slaptai\nbuvo pasirašytas Jogailos bei kryžiuočių susitarimas,\ntačiau reikalas iškilo aikštėn, kai Kunonas fon Libš-\nteinas, Osterodės komtūras, apie viską pranešė Kęstu­\nčiui. Mat jis neseniai švęstuoju vandeniu pakrikštijo\nKęstučio dukterį Danutę, ketinančią tekėti už Mazo­\nvijos kunigaikščio Jonušo, ir, kūmystės ryšių paakin­\ntas, įspėjo draugą apie gresiantį pavojų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

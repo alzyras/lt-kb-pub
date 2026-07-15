@@ -42,24 +42,6 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
   teiginys: "Vasario 16 Aktas skelbė nepriklausomą Lietuvą su „etnologinėmis sienomis“, tikintis teritorijos padidėjimo."
   pagrindžia:
     - c-25048
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius. Vien-
-    balsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo
-    dokumentas, kuris dar kartą, kaip ir 1918 m. Vasario 16 Aktas, skelbė,
-    kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
-    tikriausiai turėjo reikšti, kad kiek atsitraukta vien nuo etnografinių sienų
-    planų, turint viltį, kad teritorija padidės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

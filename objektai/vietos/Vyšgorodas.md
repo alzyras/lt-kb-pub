@@ -45,28 +45,6 @@ Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvyk
 - susijęs iš Kijevas: Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.
 - susijęs iš Kijevas: Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.
 - susijęs iš Kijevas: Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    vijo totorius ir Kijevą paėmė į savo valdžią.
-    Gedimino valdžią tuo metu pripa-
-
-    žino ir Kijevo priemiesčiai Vyšgorodas
-
-    įvykių į vakarus nuo Lietuvos analizė rodo,
-    kad Lietuvai palankiausia situacija buvo
-    1325-1326 m., ypač 1325 m., kai buvo apsi-
-    drausta nuo Kryžiuočių ordino puolimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45444

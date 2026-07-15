@@ -3,20 +3,11 @@ tipas: asmuo
 pavadinimas: 'Vasilijus Dimitrijevičius'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-datos:
-  - '1387 m.'
-  - '1388 m.'
-date_start: '1387'
-date_end: '1388'
 sukurta: ''
 atnaujinta: ''
 tags:
   - valdovas
   - asmuo
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Štai kas nutiko po šito dangaus ženklo didžiajam kunigaikščiui Vytautui, draugiškai sugyvenusiam su savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi Dimitrijevičiumi. Vasilijus Dimitrijevičius ja u buvo Maskvoje.
+Štai kas nutiko po šito dangaus ženklo didžiajam kunigaikščiui Vytautui, draugiškai sugyvenusiam su savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi Dimitrijevičiumi. Vasilijus Dimitrijevičius savo valdovu, kaip ir pskoviečiai.
 
 ## Teiginiai
 
@@ -45,57 +36,16 @@ media_all_json: |-
   pagrindžia:
     - c-176701
 
-<a id="claim-t-194089"></a>
+<a id="claim-t-196875"></a>
 - t-002
-  global_id: t-194089
-  teiginys: "Vasilijus Dimitrijevičius ja u buvo Maskvoje."
+  global_id: t-196875
+  teiginys: "Vasilijus Dimitrijevičius savo valdovu, kaip ir pskoviečiai."
   pagrindžia:
-    - c-176702
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Štai kas nutiko po šito dangaus ženklo didžiajam kunigaikščiui Vytautui, draugiškai sugyvenusiam su savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi Dimitrijevičiumi.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Štai kas nutiko po šito dangaus ženklo didžiajam
-    kunigaikščiui Vytautui, draugiškai sugyvenusiam su
-    savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
-    Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
-    prie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se-
-    verskiečius, atėmė iš jų du bebrus ir tris statines me-
-    105
-
-    ## Puslapis 101
-
-    dausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­
-    nius, kad suieškojęs nubaustų kaltininkus bei atlygintų
-    nuostolius severskiečiams. Maskvos didysis kunigaikš­
-    tis neatkreipė į tai dėmesio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vasilijus Dimitrijevičius ja u buvo Maskvoje.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    ## Puslapis 237
-
-    Pateko į Lucku, bėgdamas per M oldavija ir Podolę iš totorių ne­
-    laisvės, Jo  sužadėtuvės su Sofija Vytautaite turėjo įvykti 1387 m
-    pabaigoje, nes 1388.1.19 jis ja u  buvo Maskvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
+    - c-178955
+- susijęs iš [[objektai/daiktai/Bachmatai.md#claim-t-198529|Bachmatai]]: Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą brangiomis dovanomis, tarp jų bachmatais.
+- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199224|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraščio pasakojime Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, sabalais, brangakmeniais, indais ir bachmatais.
+- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199226|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pavasariop atvyko į Smolenską pas Vytautą ir pagerbė jį brangiomis dovanomis.
+- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199225|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vytautas apdovanojo Vasilijų, išlydėjo jį į Maskvą ir pats išvyko į Lietuvą.
 ## Citatos
 
 - id: c-176701
@@ -103,20 +53,24 @@ media_all_json: |-
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Štai kas nutiko po šito dangaus ženklo didžiajam
-    kunigaikščiui Vytautui, draugiškai sugyvenusiam su
-    savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
-    Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
-    prie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se-
-    verskiečius, atėmė iš jų du bebrus ir tris statines me-
-    105
+    Didysis kunigaikštis Vytautas, sutelkęs visas savo
+    pajėgas, ištraukė į Naugardo žemę2, prastovėjo šešis
+    mėnesius prie Porchovo miesto3 ir, nepaėmęs miesto,
+    nuėjo per Naugardo ir Pskovo žemę niokodamas, de­
+    gindamas ir imdamas nelaisvėn *.
+    Sekančiais metais didysis kunigaikštis Vytautas išsi­
+    rengė prieš Pskovo miestą5 ir paėmė Pskovo miestus
+    Veližą6 ir Krasnyj Gorod7. Pskoviečiai, nebenorėdami,
+    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
+    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
+    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
+    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
+    (07
 
-    ## Puslapis 101
-
-    dausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­
-    nius, kad suieškojęs nubaustų kaltininkus bei atlygintų
-    nuostolius severskiečiams. Maskvos didysis kunigaikš­
-    tis neatkreipė į tai dėmesio.
+    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
+    jų, pramintą Nosimi8, o pats su visomis pajėgomis nu­
+    žygiavo prieš Naugardą.
+  citata_rodoma: "Štai kas nutiko po šito dangaus ženklo didžiajam \nkunigaikščiui Vytautui, draugiškai sugyvenusiam su \nsavo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi \nDimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio, \nprie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se- \nverskiečius, atėmė iš jų du bebrus ir tris statines me-\n105\n\n## Puslapis 101\n\ndausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­\nnius, kad suieškojęs nubaustų kaltininkus bei atlygintų \nnuostolius severskiečiams. Maskvos didysis kunigaikš­\ntis neatkreipė į tai dėmesio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -124,19 +78,28 @@ media_all_json: |-
   pagrindzia:
     - t-194088
 
-- id: c-176702
+- id: c-178955
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    ## Puslapis 237
-
-    Pateko į Lucku, bėgdamas per M oldavija ir Podolę iš totorių ne­
-    laisvės, Jo  sužadėtuvės su Sofija Vytautaite turėjo įvykti 1387 m
-    pabaigoje, nes 1388.1.19 jis ja u  buvo Maskvoje.
+    Naugardiečiai, matydami pskoviečius jam pasidavus
+    ir priėmus jo vietininką, nebenorėdami, kad jų žemė
+    nuo didžiojo kunigaikščio Vytauto dar labiau nukentė­
+    tų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam
+    tarnauti, ir duoklę duoti, ir laikyti ji savo valdovu,
+    kaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas
+    paskyrė jiems vietininku savo svainį, kunigaikštį Si­
+    moną Alšėniškį, vadinamą Rūsčiuoju 9.
+    Ir davė naugardiečiai didžiajam kunigaikščiui Vy­
+    tautui kiekvienais metais duoklės po dešimt tūkstančių
+    auksinų 10 ir keturias dešimtis sunkiųjų žirgų, kuriuos
+    dabar vadina fryzais, ir keturias dešimtis kailinių, ir
+    devynias galybes sabalų, ir lūšių, ir kiaunių, ir lapių,
+    ir šermuonėlių, ir voverių kailių.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194089
+    - t-196875

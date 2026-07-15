@@ -126,92 +126,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - susijęs iš [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose.md#claim-t-55168|Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]: Filantropinių organizacijų ir susivienijimų nariai aptardavo visuomenės būklę ir tardavosi dėl konkrečių bei numatomų tikslų.
 - susijęs iš [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose.md#claim-t-81871|Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]: Vilniuje legalios filantropinės organizacijos ir susivienijimai aptardavo visuomenės būklę ir reformų tikslus.
 - susijęs iš Spectator: Anglijoje leidžiamo žurnalo Spectator tradicijas.
-- susijęs iš Vilnius: Su Vilniaus universitetu buvo susiję dauguma leidinio „Wizerunki i Roztrząsania Naukowe“ literatų autorių.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Legaliai veikė įvai­
-    rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­
-    tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­
-    spektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo
-    Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
-    universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
-    ventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­
-    matą bei netikrų krikščionių dievus, draugijos nariai pasivadino
-    senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­
-    kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
-    gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
-    viu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-005
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šubravcų draugijos kodekse suformuluotos narių elgesio
-    ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­
-    mų. Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­
-    nines bei visuomenines ydas rodė ryškų šios organizacijos švie­
-    tėjiškos veiklos pobūdį. Pavyzdžiui, XII šubravcų kodekso
-    straipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­
-    lioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­
-    jos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­
-    suotinumą ir universalumą3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Draugijos narių leidžiamas
-    humoristinis laikraštis Wiadomości brukowe (Grindinio žinios),
-    kuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a.
-    Anglijoje leidžiamo žurnalo Spectator tradicijas. Satyriniai kil­
-    mingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­
-    vos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­
-    lizmo išgarsino draugiją net už Lietuvos ribų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Šubravcų tradicijų tęsėju sumanytame leidinyje „Wizerunki i Roztrząsania Naukowe“ rašė buvę Vilniaus universiteto profesoriai, mokslininkai ir literatai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    „Wizerunki i Roz­
-    trząsania Naukowe“ puslapiuose anonimiškumas buvo įpras­
-    tas reiškinys. Šio leidinio, kuris buvo sumanytas kaip šubravcų
-    tradicijų tęsėjas, autoriai buvo aštuoniolika buvusių Vilniaus
-    universiteto profesorių, aštuoni su šia įstaiga nesusiję moksli­
-    ninkai ir devyniolika literatų, kurių dauguma buvo to univer­
-    siteto absolventai. Sunku tarp jų būtų pažinti recenzijos auto­
-    rių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 - c-005
   santrauka: '„Wizerunki i Roztrząsania Naukowe“ buvo sumanytas kaip šubravcų tradicijų tęsėjas, o leidinyje rašė 18 buvusių Vilniaus universiteto profesorių, 8 kiti mokslininkai ir 19 literatų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -305,8 +220,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - id: c-171253
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 58."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     „Wizerunki i Roz­
     trząsania Naukowe“ puslapiuose anonimiškumas buvo įpras­
@@ -326,16 +240,18 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - id: c-175279
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 449"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 449."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i
-    Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo
-    įprastas reiškinys. Šio leidinio, kuris buvo sumanytas kaip
-    šubravcų tradicijų tęsėjas, autoriai buvo aštuoniolika
-    buvusių Vilniaus universiteto profesorių, astuoni su šia
-    įstaiga nesusiję mokslininkai ir devyniolika literatų, kurių
-    dauguma buvo to universiteto absolventai.
+    T. Narbuto korespondencijoje ne kartą teko rasti užuomi­
+    nų, jog Juozapas Zavadskis buvo nepatenkintas ir įžeistas
+    dėl to, kad autorius savo „Istoriją“ atidavė ne jam, bet
+    A. Marcinovskiui. O juk „Wizerunki i Roztrząsania Nau-
+    kowe“ leido ir finansavo būtent Zavadskiai. Vis dėlto sun­
+    ku tai tvirtinti, juolab kad istoriografijoje vyrauja nuo­
+    monė (taip pat labiau hipotetinė), jog A. Marcinovskis
+    buvo J. Zavadskio proteguojamas ir, būtent jo padedamas,
+    tapo garsiu Vilniaus leidėju.
+  citata_rodoma: "Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i\nRoztrząsania Naukowe“ puslapiuose anonimiškumas buvo\nįprastas reiškinys. Šio leidinio, kuris buvo sumanytas kaip\nšubravcų tradicijų tęsėjas, autoriai buvo aštuoniolika\nbuvusių Vilniaus universiteto profesorių, astuoni su šia\nįstaiga nesusiję mokslininkai ir devyniolika literatų, kurių\ndauguma buvo to universiteto absolventai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

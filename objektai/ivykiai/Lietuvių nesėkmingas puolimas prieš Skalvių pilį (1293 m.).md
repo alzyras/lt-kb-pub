@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvių puolėjai pirmąjį staigų smūgį ketino nukreipti į Skalvių miestą ir pilį.
+1293 m. lietuviai pirmąjį puolimo smūgį nukreipė į Skalvių miestą ir pilį, tačiau nuo vartų buvo atstumti. 1293 m. lietuviai pirmąjį puolimo smūgį nukreipė į Skalvių miestą ir pilį, tačiau nuo vartų buvo atstumti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -51,49 +51,29 @@ Nenurodyta
 <a id="claim-t-185743"></a>
 - t-001
   global_id: t-185743
-  teiginys: "Lietuvių puolėjai pirmąjį staigų smūgį ketino nukreipti į Skalvių miestą ir pilį."
+  teiginys: "1293 m. lietuviai pirmąjį puolimo smūgį nukreipė į Skalvių miestą ir pilį, tačiau nuo vartų buvo atstumti."
   pagrindžia:
     - c-169104
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvių puolėjai pirmąjį staigų smūgį ketino nukreipti į Skalvių miestą ir pilį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėlto vis­
-    kas baigėsi visai kitaip, nei buvo norėta. Pirmąjį stai­
-    gų smūgį ketino nukreipti į Skalvių miestą ir pilį. Ir
-    tikrai per pirmąjį antpuolį lengvai pavyko išžudyti
-    tuos, kurie, nieko nežinodami, pakliuvo puolantiesiems
-    po ranka, žuvo ten ir Liudvikas Oksė, kilmingiausias
-    ordino žmogus, vis dėlto nepavyko greitai užbaigti ko­
-    vos, nes smarkiai į priekį veržęsi kariai buvo atstumti
-    nuo vartų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169104
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 167."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vis dėlto vis­
-    kas baigėsi visai kitaip, nei buvo norėta. Pirmąjį stai­
+    Pirmąjį stai­
     gų smūgį ketino nukreipti į Skalvių miestą ir pilį. Ir
     tikrai per pirmąjį antpuolį lengvai pavyko išžudyti
     tuos, kurie, nieko nežinodami, pakliuvo puolantiesiems
     po ranka, žuvo ten ir Liudvikas Oksė, kilmingiausias
     ordino žmogus, vis dėlto nepavyko greitai užbaigti ko­
     vos, nes smarkiai į priekį veržęsi kariai buvo atstumti
-    nuo vartų.
+    nuo vartų. Tačiau lietuviai vėl ėmė pulti taip audrin­
+    gai, kaip ką tik puolė, stengdamiesi pamažėle pasiekti
+    sienas; jie jau buvo bemaž užimą įtvirtinimus, nes, iš­
+    vydę pavojų, išsigando gynėjai, nebežinodami, ką da­
+    ryti (paprastai šitaip esti, kai užgriūva staigi bėda).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -58,26 +58,6 @@ Nenurodyta
   teiginys: "1402 m. žemaičiai išsiuntinėjo savo skundą imperijos kunigaikščiams ir popiežiui."
   pagrindžia:
     - c-35794
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Viena įdomesniųjų tam tikslui pamatuotų priemo­
-    nių buvo suorganizavimas pačių vargstančių žemaičių skundo,
-    kurį jie išsiuntinėjo imperijos kunigaikščiams ir popiežiui 1402 m
-    Tas graudus visų kryžiuočių dangaus keršto šaukiančių nusi­
-    dėjimų dorovei ir savo pašaukimui išskaičiavimas ir dabar
-    skaitant šiurpulį sukelia. Ir Vytautui dalinai pasisekė. Tos
-    akcijos vaisius—1403 mt. vasarą buvo išleista popiežiaus Boni­
-    faco IX bula draudžianti kryžiuočiams Lietuvą pulti1 2).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

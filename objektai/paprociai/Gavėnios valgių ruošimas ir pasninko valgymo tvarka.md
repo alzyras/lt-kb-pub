@@ -66,8 +66,8 @@ Nenurodyta
   global_id: t-195406
   teiginys: "Per gavėnią garstyčninkas, pupos ir žirniai buvo valgomi savitais būdais, o mažiukai slapta nešiodavosi kruopas iš sietuvės."
   pagrindžia:
-    - c-177828
     - c-177825
+    - c-177828
     - c-177829
 
 <a id="claim-t-195407"></a>
@@ -92,6 +92,7 @@ Nenurodyta
   pagrindžia:
     - c-177823
     - c-177826
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

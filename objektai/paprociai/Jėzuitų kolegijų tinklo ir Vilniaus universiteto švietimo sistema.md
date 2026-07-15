@@ -64,30 +64,6 @@ Nenurodyta
   teiginys: "1569 m. jėzuitų ordino pasirodymas Lietuvoje laikomas simboline Baroko epochos pradžia."
   pagrindžia:
     - c-75267
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1569 m. jėzuitų ordino pasirodymas Lietuvoje laikomas simboline Baroko epochos pradžia.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Epochos simboline
-    pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.
-    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
-    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
-    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
-    tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
-    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
-    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
-    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
-    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
-    orija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

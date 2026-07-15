@@ -34,8 +34,8 @@ Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė
   teiginys: "Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė lietuvių vardo žinomumo Julijaus Cezario laikais liudijimu."
   pagrindžia:
     - c-174743
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė lietuvių vardo žinomumo Julijaus Cezario laikais liudijimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -56,12 +56,16 @@ Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė
 - id: c-174743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Julijaus Cezario laikais lietuvių var­
-    das buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza
-    Wolanskiego listy o staroiytnoščiach slawiahskich. S, 21—22)*.
+    Šioje srityje nuo seniausių laikų gyveno gentys, ku­
+    rias minėjo senovės geografai: stavanai, skiriat, hiriai,
+    vinidai, arba žemaičiai, neromai, naskiai, igelonai. Kiek­
+    viena jų gyveno atskiroje žemėje, nors negalime apra­
+    šyti šių žemių ribų, tačiau, apskritai pažymėję jas žemė­
+    lapyje, pereisime prie detalaus kiekvienos genties apra­
+    šymo.
+  citata_rodoma: "Julijaus Cezario laikais lietuvių var­\ndas buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza\nWolanskiego listy o staroiytnoščiach slawiahskich. S, 21—22)*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -84,107 +84,15 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   teiginys: "Teodoras Narbutas nurodo, kad Tacitas jazigus laikė karinga gentimi, turėjusia rinktinę raitąją kariuomenę."
   pagrindžia:
     - c-173682
+
+<a id="claim-t-197644"></a>
+- t-008
+  global_id: t-197644
+  teiginys: "Tacitas niekam nerūpimas gulėjo kartu su kitomis jūros išmetamomis šiukšlėmis, kol mūsų supratimas nepakėlė jo reikšmės."
+  pagrindžia:
+    - c-179277
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus
-    galo romėnų rašytojas Tacitas savo veikale „Germania".
-    Jis juos vadina aisčiais _(aestii, aestiorum gentes)._ Kadan-
-    gi Pabaltijy archeologinės iškasenos nerodo jokio kultūros
-    pasikeitimo, tai reikia manyti, kad jau nuo naujojo akmens am-
-    žiaus čia bus gyvenę tie patys aisčiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmas, kurs duoda plates-
-    nių žinių apie aisčius, yra I amž. gale gyvenęs romėnų istorikas
-    Tacitas. Savo veikale _„Germania",_ kalbėdamas apie tautas,
-    kurios yra anapus germanų, jis paskiria vieną skyrelį ir aisčiams.
-    Ten jis trumpai aprašo aisčių gyvenimą, tikybą, būtinai pami-
-    nėdamas ir jų gintarą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Teodoras Narbutas rašo, kad Tacitas gotus apibūdino kaip nuo senų laikų kairiojoje Vyslos žemupio pakrantėje gyvenusią tautą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Skandinavijos gotai
-    nuo neatmenamų laikų buvo jūrų keliautojai, kartais pre­
-    kiaudavo, bet dažniausiai plėšikaudavo; jų pirmoji veik­
-    los vieta buvo Baltijos jūros pakrantės. Tacitas, vardy­
-    damas savo veikalo apie germanų papročius medžiagą,
-    kurią paėmė iš senovės rašytojų memuarų, kalba apie
-    gotus kaip tautą, nuo senų laikų gyvenančią kairiojoje
-    Vyslos žemupio pakrantėje. Atrodo, kad jie vien prekiavo
-    Baltijos jūros rytinės pakrantės produktais, ypač gintaru,
-    kurį galėjo nugabenti net į Britaniją ir tiesiog pardavinėti
-    jį kartaginiečiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Teodoras Narbutas nurodo, kad I a. pabaigoje rašęs Tacitas po germanų aprašymo perėjo prie Prūsijos pakrančių ir estų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Matyt, priežastis yra ta, kad
-    tuomet nebuvo jokios tautos, su kuria tiesiogiai galima
-    būtų sieti šį pavadinimą. Tik Tacitas, rašęs I mūsų eros
-    amžiaus pabaigoje, paminėjęs germanų gyvenamąsias vie­
-    tas, jų kartas ir papročius ir baigdamas savo aprašymus
-    galinga svebų tautos karta, kuri gyveno šiauriausiuose
-    germanų kraštuose, galop pereina prie Prūsijos pakran­
-    čių ir prisimena estus. 2inių apie šį pavadinimą jis tur­
-    būt turėjo iš germanų, kurie visuomet taip gotiškai vadi­
-    no šiuos kraštus ir žmones.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Teodoras Narbutas Tacito estų aprašyme matė istorinę tiesą, kad Tacitas turėjęs žinių apie lietuvių tautą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kai gintaras prikišamas prie ugnies, jis dega
-    kaip dervingas medis dūmijančia, kvapnia liepsna ir kar­
-    tu tampa minkštas lyg derva ar sakai“. Siame gana aiš­
-    kiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad
-    jis turėjo žinių apie lietuvių tautą1, kurią stengėsi apra­
-    šyti vadindamas estais. Išnagrinėjęs Tacito geografiją,
-    naujųjų laikų prūsų istorikas nustatė šią Estijos padėtį
-    kaimyninių kraštų atžvilgiu2 3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-006
   santrauka: 'Teodoras Narbutas rašo, kad Tacitas 46 skyriuje venedus skyrė nuo sarmatų ir germanų bei aprašė jų kaimynus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -269,8 +177,7 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 - id: c-173678
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 83"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 83."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Skandinavijos gotai
     nuo neatmenamų laikų buvo jūrų keliautojai, kartais pre­
@@ -293,8 +200,7 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 - id: c-173679
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 89"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Matyt, priežastis yra ta, kad
     tuomet nebuvo jokios tautos, su kuria tiesiogiai galima
@@ -316,8 +222,7 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 - id: c-173680
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 90"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 90."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kai gintaras prikišamas prie ugnies, jis dega
     kaip dervingas medis dūmijančia, kvapnia liepsna ir kar­
@@ -337,19 +242,24 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 - id: c-173681
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 98."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tad atleiskime
-    senovės autoriams, kurių geografinių žinių gavimo gali­
-    mybės buvo labiau ribotos negu mūsų; jos pražuvo, mums
-    liko vien spausdintos Plinijaus ištraukos arba kitų geog­
-    rafų traktatų fragmentai. Siek tiek labiau venedų reika­
-    lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
-    klauso nei sarmatams, nei germanams, turi daug žemių,
-    vakaruose teka Vysla; jų kaimynai — estai bei gitonai
-    (§§ 66—80), šiaurėje — finai, pietuose — peucinai, o
-    rytuose yra nežinomos sritys.
+    Sis aprašymas ap­
+    ima plačius ir labai didžiulius kraštus. Žymusis mūsų
+    senovės tyrinėtojas ponas Suroveckis2 labai gerai aiškina,
+    kad šiose venedų srityse lokalizuoja senų senovės slavų
+    gyvenamąsias vielas, aprašinėdamas ribas kraštų, kur
+    šen bei ten esti slavų valstiečių, kolonijų. Pasak jo, šio
+    venedų krašto ribos buvusios tokios: „Pradedant nuo Vys­
+    los, išilgai estų kraštų, per šiandienį Nemuną (viduryje,
+    kiek žemiau Gardino), Žemaitiją, Livoniją, Estiją (Gu­
+    diją) net iki rytinio Baltijos pakraščio (Suomių įlanką);
+    iš ten pro Volgos ir Dnepro versmes iki Pripetės žiočių,
+    toliau išilgai šios upės iki jos versmių, per dalį Polesės ir
+    Voluinės, per Dnestro aukštupį net ligi Tatrų ir Vyslos,
+    kuri nuo tada buvo vakarų siena, skirianti juos nuo ger­
+    1 De Mor.
+  citata_rodoma: "Tad atleiskime\nsenovės autoriams, kurių geografinių žinių gavimo gali­\nmybės buvo labiau ribotos negu mūsų; jos pražuvo, mums\nliko vien spausdintos Plinijaus ištraukos arba kitų geog­\nrafų traktatų fragmentai. Siek tiek labiau venedų reika­\nlus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­\nklauso nei sarmatams, nei germanams, turi daug žemių,\nvakaruose teka Vysla; jų kaimynai — estai bei gitonai\n(§§ 66—80), šiaurėje — finai, pietuose — peucinai, o\nrytuose yra nežinomos sritys."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -360,19 +270,45 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 - id: c-173682
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 111"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 111."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Plinijus teigia, kad jazigai gyveno prie Tisos
-    upės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria
-    jų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­
-    ringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­
-    do, kad jie kariavo su svevų karaliaus Vanijaus Vanino
-    vėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus
-    metu kovėsi romėnų gretose.
+    Ptolemėjas,
+    vardydamas mūsų šiaurinėse šalyse gyvenusias gentis ir
+    tautas, šalia igilionų, kostobokų, kurių valdos turėtų būti
+    Polesėje prie Bugo, būtent ten, kur mūsų istorijos pra­
+    džioje buvęs jotvingių kraštas. Jei senovės geografas sė­
+    mėsi žinių, kaip dera manyti, iš tyro šaltinio, iš jam sla­
+    vų pateiktų padavimų, be to, slaviškų pavadinimų, kurie
+    slavų kalba reiškia daugiadievius, Czestobohi. Gal todėl,
+    kad jotvingiai laikėsi lietuvių, kurie garbino nesuskai­
+    čiuojamą daugybę dievų, religinių tradicijų; slavai šia
+    prasme taip nedarė, nes, nors slavų mitologijoje buvo
+    nemažai dievų, jiems lenkėsi ne visos gentys.
+  citata_rodoma: "Plinijus teigia, kad jazigai gyveno prie Tisos\nupės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria\njų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­\nringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­\ndo, kad jie kariavo su svevų karaliaus Vanijaus Vanino\nvėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus\nmetu kovėsi romėnų gretose."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190800
+
+- id: c-179277
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Atvirkščiai, jis niekam ne­
+    rūpimas gulėjo kartu su kitomis jūros išmetamomis šiukš­
+    lėmis, kol mūsų supratimas nepakėlė jo reikšmės. Sau
+    beveik be jokios naudos renka natūralaus pavidalo, par­
+    duoda neapdorotą, net stebisi imdami už jį užmokestį. O
+    kad tai yra medžių sakai, galima pažinti iš to, kad jame
+    dažnai randama kai kurių žemės ir net skraidančių gyvū­
+    nų, kurie, pirmiausia apipilti skysčiu ir jam sukietėjus,
+    užsidarė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197644

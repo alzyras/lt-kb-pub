@@ -34,28 +34,13 @@ Dusburgietis teigia, kad [Powierski J.] Pomezania.— SSS, t.
   teiginys: "J. Powierskio „Pomezania“ nurodyta SSS 4 tomo 1 dalies 220 puslapyje."
   pagrindžia:
     - c-61884
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Powierskio „Pomezania“ nurodyta SSS 4 tomo 1 dalies 220 puslapyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    [Powierski J.] Pomezania.— SSS, t. 4, cz. 1, s. 220.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61884
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     [Powierski J.] Pomezania.— SSS, t. 4, cz. 1, s. 220.
   statusas: verified

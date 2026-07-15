@@ -51,240 +51,43 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   pagrindžia:
     - c-168262
 
-<a id="claim-t-184902"></a>
-- t-003
-  global_id: t-184902
-  teiginys: "Po Kerniaus mirties valdovu paskelbtas Živinbudas valstybės sostinę iš Deltuvos perkėlė į Kernavę."
-  pagrindžia:
-    - c-168263
-
 <a id="claim-t-184904"></a>
-- t-004
+- t-003
   global_id: t-184904
   teiginys: "Ligos kamuojamas Živinbudas, išgirdęs apie pergalę ir pamatęs sūnų Kukovaitį, perdavė jam valdžią."
   pagrindžia:
     - c-168265
 
 <a id="claim-t-193415"></a>
-- t-005
+- t-004
   global_id: t-193415
   teiginys: "Živinbudas susirgo ir pasimirė, vyras, kuris pelnytai priskirtinas prie žymiausių Lietuvos didvyrių."
   pagrindžia:
     - c-176137
 
 <a id="claim-t-194022"></a>
-- t-006
+- t-005
   global_id: t-194022
-  teiginys: "Živinbudas atsiuntė savo pasiuntinius pas didįjį kunigaikštį Skirmantą, kad duotų jam duoklę ir laikytų jo baskakus tuose miestuose, kaip kad iš tų miestų buvo duodama duoklė, valdant jo pirmtakams, rusų kunigaikščiams."
+  teiginys: "Lietuvos metraštyje Živinbudas vadinamas Lietuvos ir Žemaičių didžiuoju kunigaikščiu, po kurio mirties sostą perėmė jo sūnus Kukovaitis."
   pagrindžia:
     - c-176647
 - susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-186244|Pajauta]]: Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė.
 - susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-186244|Pajauta]]: Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė.
 - susijęs iš Lietuva: 1219 m. priešmindauginė Lietuva, greičiausiai valdoma Živinbudo ir susijungusi su Žemaitija, sudarė sutartį su Volyne.
 - susijęs iš [[objektai/asmenys/Kukovaitis.md#claim-t-186133|Kukovaitis]]: Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.
-- susijęs iš [[objektai/asmenys/Libonas.md#claim-t-186140|Libonas]]: Kojelavičius Liboną vadina laivyno legatu ir Pompėjaus partijos šalininku.
-- susijęs iš [[objektai/daiktai/Kentauro herbas.md#claim-t-186855|Kentauro herbas]]: M. Strijkovskio kronikos citatoje Kukovaitis vadinamas Živinbudo sūnumi iš Kentauro herbo giminės.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184591|Žemaičiai]]: Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.
 - susijęs iš [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.).md#claim-t-62862|Lietuvos sutartis su Volyne (1219 m.)]]: 1219 m. Živinbudo valdoma priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir siekiant ginti prūsų kraštą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Živinbudo, kaip manoma, valdoma priešmindauginė Lietuva 1219 m. sudarė sutartį su Volyne.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
-    ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
-    yra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.
-      „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
-    (t. y. 1209— 1210 m.)22. Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
-    žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,
-    Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
-    1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
-    ir prūsų kraštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Galbūt šitaip ir bū­
-    tų atsitikę, jeigu, jam mirus,
-    1089 m eta i
-    būtų prasidėjęs tarpuvaldis:
-    mat neturėjo jis sūnaus —
-    savo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs
-    jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš
-    Julijono Dausprungo palikuonių, pajėgų valdyti jauni­
-    kaitį, netrukus jam į žmonas atidavė vienturtę dukterį
-    Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai
-    pasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­
-    tas (kaip tais laikais derėjo) ir ant aukštos kalvos prie
-    Deltuvos palaidotas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Po Kerniaus mirties valdovu paskelbtas Živinbudas valstybės sostinę iš Deltuvos perkėlė į Kernavę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kadangi mano pagrindinis ketinimas — glaustai
-    atpasakoti lotyniškai tai, ką radau kitų sužymėta, ma­
-    nyčiau, kad negalėsiu būti kaltinamas, jeigu paliksiu,
-    nieko nekeisdamas, tokį metų ir įvykių išdėstymą,
-    kokį esu gavęs iš tų rašytojų.
-
-    ## Puslapis 69
-
-    T r e č i a  k n y g a
-    APIE LIETUVIŲ PRAEITĮ,
-    KAI VALDĖ JULIJONO DAUSPRUNGO SEIMĄ
-    Z iv in b u d a s — L ietu ­
-    v o s ,
-    o
-    M o n tv ila —
-    Ž e m a itijo s k u n ig a ik š
-    tis
-    Živinbudas, po Kerniaus
-    mirties paskelbtas valdovu,
-    Stulpus, kuriuos Palemonai-
-    čiai įrėždavo antspaude, su­
-    jungė su savo genties her­
-    bu Kentauru. Palikęs Deltuvą, valstybės sostinę jis
-    perkėlė į Kernavę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Ligos kamuojamas Živinbudas, išgirdęs apie pergalę ir pamatęs sūnų Kukovaitį, perdavė jam valdžią.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo tarpu Skirmantas
-    po
-    šios
-    pergalės ta pačia proga iš rusų atėmė
-    Pin­
-    ską ir Turovą;
-    džiūgaudamas dėl pergalės ir dėl
-    atimtų iš priešų žemių, pa-
-    L ie tu v ia i iš rusų a ti-
-    siuntė atgal Zivinbudui Kū­
-    ma P in ską
-    kovaitį ir jo karius apdova­
-    nojo puikiomis dovanomis.
-    Šis buvo ne tik visiškai nukaršęs bei pasilpęs, jis nyk­
-    te nyko ligos kamuojamas, tačiau kai išgirdo, jog prie­
-    šas įveiktas, ir kai išvydo nugalėtoją sūnų, gerokai at­
-    sigavo jo dvasia, bepaliekanti kūną; baigdamas gy­
-    venimą, jis deramu laiku perdavė valdžią sūnui, kurį
-    po pergalės triumfuojantį matė savo akimis.
-    Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-
-    93
-
-    ## Puslapis 84
-
-    1221 m e ta i
-    K u k o v a itis — L ietu ­
-    v o s  ir Ž e m a itijo s k u ­
-    n ig a ik štis
-    gojo taiką, būdamas beveik
-    iš visų pusių apsuptas bičiu­
-    lių; vakaruose—prūsų- rytuo­
-    se — brolio Ginvilos, Poloc­
-    ko kunigaikščio, pietuose
-    jotvingių ir Skirmanto, Nau­
-    garduko kunigaikščio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Živinbudas susirgo ir pasimirė, vyras, kuris pelnytai priskirtinas prie žymiausių Lietuvos didvyrių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Atleidęs
-    pasiuntinius, įsakė juos klyst-
-    82
-
-    ## Puslapis 81
-
-    itin reikšminga, nes rusai vėliau ėmė rodyti lietuvių
-    valdovui ne tik didesnę pagarbą bei palankumą, bet
-    ir pastovesnę ištikimybę. Tuo pat metu miręs Vykin­
-    tas, Žemaitijos kunigaikštis, paliko savo įpėdiniu bro­
-    lį Erdvilą, tačiau šis, manydamas, jog vieno valdovo
-    per maža skirtingoms valstybėms, kaip per maža vie­
-    nos sielos į dvi dalis padalytam kūnui, be to, norėda­
-    mas atsiteisti už pagalbą, kurios neseniai sulaukė, per­
-    leido Živinbudui visas teises į Žemaitiją. Tačiau neilgai
-    trukus jis susirgo ir pasimirė, vyras, kuris pelnytai
-    priskirtinas prie žymiausių Lietuvos didvyrių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Živinbudas atsiuntė savo pasiuntinius pas didįjį kunigaikštį Skirmantą, kad duotų jam duoklę ir laikytų jo baskakus tuose miestuose, kaip kad iš tų miestų buvo duodama duoklė, valdant jo pirmtakams, rusų kunigaikščiams.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didysis kunigaikštis Skirmantas iškilmingai pasitiko
-    Kukovaitį, Lietuvos didžiojo kunigaikščio Zivinbudo
-    sūnų, ir, apdovanojęs nesuskaičiuojama aukso ir sidab­
-    ro daugybe bei eikliais žirgais, garbingai išleido pas
-    jo tėvą, Lietuvos ir 2emaičių kunigaikštį. Parvykęs
-    pas savo tėvą, nebeilgai prie jo tegyveno, ir tėvas,
-    Lietuvos ir 2emaičių didysis kunigaikštis 2ivinbudas,
-    pasimirė, o jo sūnus Kukovaitis sėdo Lietuvos ir Že­
-    maičių Didžiosios Kunigaikštystės sostan.
-    Tuo metu Užvolgio chanu buvo chanas, vardu Ba-
-    laklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį
-    kunigaikštį Skirmantą, kad duotų jam duoklę ir laiky­
-    tų jo baskakus tuose miestuose, kaip kad iš tų miestų
-    buvo duodama duoklė, valdant jo pirmtakams, rusų
-    kunigaikščiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 ## Citatos
 
 - id: c-61109
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 10"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
     ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
     yra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.
-      „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
+    „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
     (t. y. 1209— 1210 m.)22. Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
     žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,
     Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
@@ -301,22 +104,25 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - id: c-168262
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 66."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Galbūt šitaip ir bū­
-    tų atsitikę, jeigu, jam mirus,
-    1089 m eta i
-    būtų prasidėjęs tarpuvaldis:
-    mat neturėjo jis sūnaus —
-    savo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs
-    jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš
-    Julijono Dausprungo palikuonių, pajėgų valdyti jauni­
-    kaitį, netrukus jam į žmonas atidavė vienturtę dukterį
-    Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai
-    pasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­
-    tas (kaip tais laikais derėjo) ir ant aukštos kalvos prie
-    Deltuvos palaidotas.
+    Be to, buvo paskirti žyniai, kū­
+    renę amžinąją ugnį ąžuolinėmis malkomis; šias prie­
+    taringas apeigas jie išsaugojo ligi krikščionybės laikų.
+    Pasakoti apie tolesnę isto-
+    A p ie m e tų ir laikų
+    rijos eigą man neleidžia aki-
+    sk a ič ia v im u s
+    vaizdi klaida, kurią šiuo at­
+    veju primetė pirmieji lietu­
+    vių istorijos rašytojai ir kurios aš negaliu nutylėti. Mat
+    ši klaida ne tokia maža, kad jos visai nepastebėtų dė­
+    mesingo skaitytojo akis. Gilios tylos gaubiamas išti­
+    sas šimtmetis padaro istorinių įvykių grandinėje di­
+    džiulę spragą. Ją vis dėlto anie rašytojai nejučiomis
+    apėjo, nepaisydami nė to, kad šis tarpsnis atskyrė tėvą
+    nuo sūnų, o tiesioginį įpėdinį nuo jo protėvių.
+  citata_rodoma: "Galbūt šitaip ir bū­\ntų atsitikę, jeigu, jam mirus,\n1089 m eta i\nbūtų prasidėjęs tarpuvaldis:\nmat neturėjo jis sūnaus —\nsavo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs\njiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš\nJulijono Dausprungo palikuonių, pajėgų valdyti jauni­\nkaitį, netrukus jam į žmonas atidavė vienturtę dukterį\nPajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai\npasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­\ntas (kaip tais laikais derėjo) ir ant aukštos kalvos prie\nDeltuvos palaidotas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -324,74 +130,14 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   pagrindzia:
     - t-184901
 
-- id: c-168263
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Kadangi mano pagrindinis ketinimas — glaustai
-    atpasakoti lotyniškai tai, ką radau kitų sužymėta, ma­
-    nyčiau, kad negalėsiu būti kaltinamas, jeigu paliksiu,
-    nieko nekeisdamas, tokį metų ir įvykių išdėstymą,
-    kokį esu gavęs iš tų rašytojų.
-
-    ## Puslapis 69
-
-    T r e č i a  k n y g a
-    APIE LIETUVIŲ PRAEITĮ,
-    KAI VALDĖ JULIJONO DAUSPRUNGO SEIMĄ
-    Z iv in b u d a s — L ietu ­
-    v o s ,
-    o
-    M o n tv ila —
-    Ž e m a itijo s k u n ig a ik š
-    tis
-    Živinbudas, po Kerniaus
-    mirties paskelbtas valdovu,
-    Stulpus, kuriuos Palemonai-
-    čiai įrėždavo antspaude, su­
-    jungė su savo genties her­
-    bu Kentauru. Palikęs Deltuvą, valstybės sostinę jis
-    perkėlė į Kernavę.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184902
-
 - id: c-168265
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo tarpu Skirmantas
-    po
-    šios
-    pergalės ta pačia proga iš rusų atėmė
-    Pin­
-    ską ir Turovą;
-    džiūgaudamas dėl pergalės ir dėl
-    atimtų iš priešų žemių, pa-
-    L ie tu v ia i iš rusų a ti-
-    siuntė atgal Zivinbudui Kū­
-    ma P in ską
-    kovaitį ir jo karius apdova­
-    nojo puikiomis dovanomis.
-    Šis buvo ne tik visiškai nukaršęs bei pasilpęs, jis nyk­
-    te nyko ligos kamuojamas, tačiau kai išgirdo, jog prie­
-    šas įveiktas, ir kai išvydo nugalėtoją sūnų, gerokai at­
-    sigavo jo dvasia, bepaliekanti kūną; baigdamas gy­
-    venimą, jis deramu laiku perdavė valdžią sūnui, kurį
-    po pergalės triumfuojantį matė savo akimis.
-    Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-
-    93
-
-    ## Puslapis 84
-
     1221 m e ta i
     K u k o v a itis — L ietu ­
-    v o s  ir Ž e m a itijo s k u ­
+    v o s ir Ž e m a itijo s k u ­
     n ig a ik štis
     gojo taiką, būdamas beveik
     iš visų pusių apsuptas bičiu­
@@ -399,7 +145,29 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     se — brolio Ginvilos, Poloc­
     ko kunigaikščio, pietuose
     jotvingių ir Skirmanto, Nau­
-    garduko kunigaikščio.
+    garduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau
+    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
+    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
+    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
+    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
+    Rusią. Karą prieš Skirmantą susimanė rengti Balakla-
+    jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
+    tas, norėdamas išdildyti pri-
+    S k irm a n ta s su m u ša
+    siminimus apie pralaimėjimą,
+    sk itu s
+    patirtą prieš keletą metų;
+    teisėtos priežasties, jis išleido pasiuntinius, turėjusius
+    pareikalauti iš Rusios duoklės. Skirmantas, kuo grei­
+    čiausiai sutraukęs didžiulę kariuomenę, kurią sudarė
+    rusai, šioje Neries pusėje gyvenantys lietuviai, be to,
+    Kukovaičio atsiųsti Užnerio lietuviai, pasiuntiniams
+    surengė kuo šauniausią puotą; po ilgų vaišių, kai šie
+    jau ketino keliauti atgal, Skirmantas įsakė visiems nu­
+    pjaustyti nosis bei ausis; šitaip sudarkyti, jie turėję
+    pranešti kunigaikščiui: „Tegu galop liaujasi skitai lie­
+    tuviams kalbėję apie duoklę.
+  citata_rodoma: "Grėsminga tebuvo šiaurė, tačiau \ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai, \nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti \nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų, \nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į \nRusią. Karą prieš Skirmantą susimanė rengti Balakla- \njus, naujas Užvolgio skitų kunigaikštis, galimas daib-\ntas, norėdamas išdildyti pri- \nS k irm a n ta s su m u ša \nsiminimus apie pralaimėjimą,\nsk itu s \npatirtą prieš keletą metų;\nteisėtos priežasties, jis išleido pasiuntinius, turėjusius \npareikalauti iš Rusios duoklės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -412,23 +180,38 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Atleidęs
-    pasiuntinius, įsakė juos klyst-
-    82
-
-    ## Puslapis 81
-
-    itin reikšminga, nes rusai vėliau ėmė rodyti lietuvių
-    valdovui ne tik didesnę pagarbą bei palankumą, bet
-    ir pastovesnę ištikimybę. Tuo pat metu miręs Vykin­
-    tas, Žemaitijos kunigaikštis, paliko savo įpėdiniu bro­
-    lį Erdvilą, tačiau šis, manydamas, jog vieno valdovo
-    per maža skirtingoms valstybėms, kaip per maža vie­
-    nos sielos į dvi dalis padalytam kūnui, be to, norėda­
-    mas atsiteisti už pagalbą, kurios neseniai sulaukė, per­
-    leido Živinbudui visas teises į Žemaitiją. Tačiau neilgai
-    trukus jis susirgo ir pasimirė, vyras, kuris pelnytai
-    priskirtinas prie žymiausių Lietuvos didvyrių.
+    Polocko rusai savo valstybės valdymą buvo
+    perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
+    permainų priežastis buvo ta, kad per skitų karą buvo
+    netekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,
+    tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
+    rėkite, kad, susiradę kokį valdovą, neprarastumėte per
+    savo ištižimą laisvės, kurią iš priešų malonės gavote.
+    Taigi verčiau sekite savo mokytojais graikais — ir jų
+    čių, kurie teistų kitus". Tad trisdešimčiai senelių liau­
+    dis ir atidavė valdžią valstybėje; žmonės buvo kvie­
+    čiami varinio varpo dūžiais j sueigas aikštėje, kur vie­
+    šai svarstė bendrame pasitarime svarbiausius reikalus.
+    Savo valdžią jie jau buvo primetę trisdešimčiai tūks­
+    tančių paprastų piliečių ir (žinia, žmogui niekada nėra
+    gana) net kaimynams mėgino kalaviju primesti savo
+    1219 m e ta i
+    M in gaila, N a u g a rd u ­
+    ko k u n ig a ik štis
+    gavo Michailas, arba Min­
+    gaila; jis, paskatintas pirm­
+    taką lydėjusios sėkmės, ge­
+    rokai išplėtė
+    lietuvių val­
+    das,
+    prijungdamas nemaža
+    P o lo ck o v a ls ty b ė s
+    sa n tv a rk a
+    tikybinėmis
+    apeigomis,
+    ir
+    valstybine santvarka.
+  citata_rodoma: "Atleidęs\npasiuntinius, įsakė juos klyst-\n82\n\n## Puslapis 81\n\nitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių\nvaldovui ne tik didesnę pagarbą bei palankumą, bet\nir pastovesnę ištikimybę. Tuo pat metu miręs Vykin­\ntas, Žemaitijos kunigaikštis, paliko savo įpėdiniu bro­\nlį Erdvilą, tačiau šis, manydamas, jog vieno valdovo\nper maža skirtingoms valstybėms, kaip per maža vie­\nnos sielos į dvi dalis padalytam kūnui, be to, norėda­\nmas atsiteisti už pagalbą, kurios neseniai sulaukė, per­\nleido Živinbudui visas teises į Žemaitiją. Tačiau neilgai\ntrukus jis susirgo ir pasimirė, vyras, kuris pelnytai\npriskirtinas prie žymiausių Lietuvos didvyrių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -439,8 +222,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - id: c-176647
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 47"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 47."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didysis kunigaikštis Skirmantas iškilmingai pasitiko
     Kukovaitį, Lietuvos didžiojo kunigaikščio Zivinbudo

@@ -70,59 +70,20 @@ Nenurodyta
   teiginys: "G. Liabuda atmetė nuomonę, kad 1323 m. lietuvių žygių ir Gedimino krikšto bei taikos pasakojimai paremti dokumentais."
   pagrindžia:
     - c-60187
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'M. Tepenas manė, kad Dusburgietis 1323 m. lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę aprašė remdamasis Varmės dokumentu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Rašydamas kroniką, Dusburgietis naudojosi dokumentais, tačiau kokiais  ir kaip —
-    neaišku. M. Tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis
-    1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m. sausio
-    18 d. bule (II, 6), žuvusia Sventopelko ir Ordino 1243 m. sutartimi (III, 39), kad galėjęs
-    žinoti 1282 m. Pamario kunigaikščio Mstivojaus ir Ordino taikos dokumentą (III, 213);
-    kad pasirėmęs Varmės vyskupo  ir kapitulos 1323 m. spalio 16 d. dokumentu apie
-    lietuvių žygius į Danijos karaliaus valdas — Revelio žemę (III, 343), į Klaipėdos miestą ir
-    apylinkes (III, 344), Vėluvą (III, 345) bei Dobrynę (III, 346), be to, 1324 m. popiežiaus
-    legatų dokumentu dėl taikos su Gediminu (III, 356)122.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'G. Liabuda atmetė nuomonę, kad 1323 m. lietuvių žygių ir Gedimino krikšto bei taikos pasakojimai paremti dokumentais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tačiau G. Liabuda atmetė nuomonę, kad pasakojimai apie lietuvių niokojamus žygius
-    1323 m. ir Gedimino krikštą bei taiką esą paremti dokumentais. Jis mano, kad Dusburgietis
-    čia rašęs kaip įvykių amžininkas (vis dėlto pabrėžtinas įvykių sekos atitikimas 1323 m.
-    spalio 16 d. dokumente ir Dusburgiečio kronikoje125).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-60186
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 24"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 24."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Rašydamas kroniką, Dusburgietis naudojosi dokumentais, tačiau kokiais  ir kaip —
+    Rašydamas kroniką, Dusburgietis naudojosi dokumentais, tačiau kokiais ir kaip —
     neaišku. M. Tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis
     1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m. sausio
     18 d. bule (II, 6), žuvusia Sventopelko ir Ordino 1243 m. sutartimi (III, 39), kad galėjęs
     žinoti 1282 m. Pamario kunigaikščio Mstivojaus ir Ordino taikos dokumentą (III, 213);
-    kad pasirėmęs Varmės vyskupo  ir kapitulos 1323 m. spalio 16 d. dokumentu apie
+    kad pasirėmęs Varmės vyskupo ir kapitulos 1323 m. spalio 16 d. dokumentu apie
     lietuvių žygius į Danijos karaliaus valdas — Revelio žemę (III, 343), į Klaipėdos miestą ir
     apylinkes (III, 344), Vėluvą (III, 345) bei Dobrynę (III, 346), be to, 1324 m. popiežiaus
     legatų dokumentu dėl taikos su Gediminu (III, 356)122.
@@ -136,8 +97,7 @@ Nenurodyta
 - id: c-60187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 24"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 24."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tačiau G. Liabuda atmetė nuomonę, kad pasakojimai apie lietuvių niokojamus žygius
     1323 m. ir Gedimino krikštą bei taiką esą paremti dokumentais. Jis mano, kad Dusburgietis

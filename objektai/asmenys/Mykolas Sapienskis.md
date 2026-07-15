@@ -43,29 +43,6 @@ media_all_json: |-
   teiginys: "Vytauto sekretorius Mykolas Sapienskis vadovavo žemaičių delegacijai, kuri 1415 m. gale atvyko į Konstanciją."
   pagrindžia:
     - c-38107
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet Vytautas atėjo dar į pagalbą, pasiųsdamas susirinkimui
-    gyvą Lietuvos apsikrikštijimo įrodymą — 60 žemaičių, bajorų
-    katalikų delegaciją. Ši žemaičių delegacija, kuriai vadovavo
-    paties Vytauto sekretorius Mykolas Sapienskis, vaivada
-    Jurgis Geldgaudas ir žemaičių didikas Jurgis Boliminas, atvy­
-    kusi į Konstanciją 1415 m. gale, susirinkimui padarė didžiau­
-    sią įspūdį ir buvo tai geriausias žemaičių katalikiškumo įrody­
-    mas. Pasiuntiniai įteikė susirinkimui raštą (Proposicio Samay­
-    tarum), kuriame skundėsi, kad seniai norėjo priimti kataliky­
-    bę, bet tam trukdė Ordinas, troškęs tik jų žemių ir laisvės, o
-    krikštyti nekrikštijęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -45,27 +45,6 @@ Kai ant Dniepro saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą 
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195036|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195037|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje.
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195038|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas tuo at­
-    žvilgiu buvo tikras kryžiuočių mokinys, realistas ir praktikas.
-    Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
-    dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
-    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
-    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
-    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
-    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38369

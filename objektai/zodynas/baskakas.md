@@ -91,101 +91,6 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   pagrindžia:
     - c-170469
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187444|Aukso orda]]: Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Podolėje atamanai duoklę atiduodavo atvykstantiems Ordos baskakams.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    į vakarus nuo minėtos mūšio
-    vietos), kurioje nebuvo nė vie-
-    nos pilies. Jie susidraugavę su
-    vietiniais atamanais, ėmė ginti
-    Podolės žemę, neduoti duok-
-
-    lės jų baskakams. Karijotaičiai
-    Podolėje pastatė Smotričo,
-    Bakotos, Kameneco pilis, už-
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kryžiuočių ordinui, remiamam kryži-
-    ninkų, nuo 1328 m. atnaujinus Lietuvos
-    puolimus, Lietuva, atrodo, bus užmezgusi
-    kompromisinius santykius su Aukso orda,
-    kurios įtakoje, matyt, liko pietinė Kijevo
-    žemės dalis. 1331 m. šalia Kijevo kunigaikš-
-    čio, Lietuvos vietininko, minimas ir totorių
-    baskakas.
-
-    Kijevo atėmimas iš tiesioginės Aukso
-    ordos valdžios buvo reikšmingas Lietuvai,
-    jos tarptautinei situacijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Podolės žemės tėvonys bei paveldėtojai“.
-    Podolėje veikė jų paskirti atamanai, kurie
-    nuo Podolės žemės duodavo duoklę at-
-    vykstantiems Ordos baskakams.
-
-    Mėlynųjų Vandenų įvykių pagrindi-
-    niai šaltiniai: žinios xv a. pirmosios pusės
-    rusų Tverės sąvade - Rogožos metraštyje
-    prieš 6871 (1363) m. sakoma, kad rudenį
-    Algirdas „Mėlynuosius Vandenis ir Baltąją
-    pakrantę nukariavo“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-004
-
-- c-004
-  santrauka: 'Lietuvos metraštis Užvolgio valdovą Balaklajų vadina chanu ir nurodo, kad jis reikalavo iš Skirmanto duoklės bei baskakų laikymo miestuose.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Parvykęs
-    pas savo tėvą, nebeilgai prie jo tegyveno, ir tėvas,
-    Lietuvos ir 2emaičių didysis kunigaikštis 2ivinbudas,
-    pasimirė, o jo sūnus Kukovaitis sėdo Lietuvos ir Že­
-    maičių Didžiosios Kunigaikštystės sostan.
-    Tuo metu Užvolgio chanu buvo chanas, vardu Ba-
-    laklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį
-    kunigaikštį Skirmantą, kad duotų jam duoklę ir laiky­
-    tų jo baskakus tuose miestuose, kaip kad iš tų miestų
-    buvo duodama duoklė, valdant jo pirmtakams, rusų
-    kunigaikščiams. Didysis kunigaikštis Skirmantas nepa­
-    noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
-    tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-44150
@@ -232,8 +137,8 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78879
     - t-78878
+    - t-78879
 
 - id: c-75996
   sudarytojas: "Karolis Zikaras"
@@ -263,8 +168,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 - id: c-170469
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 47"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 47."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Parvykęs
     pas savo tėvą, nebeilgai prie jo tegyveno, ir tėvas,

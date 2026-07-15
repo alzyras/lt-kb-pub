@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Teodorikas ir Odoakras sudarė taiką, kurios sąlygos Narbuto pasakojime lieka nežinomos, išskyrus pažadą išsaugoti Odoakro gyvybę ir turtus. Narbutas rašo, kad 493 m. kovo 5 d. gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
+Teodorikas ir Odoakras sudarė taiką, kurios sąlygos Narbuto pasakojime lieka nežinomos, išskyrus pažadą išsaugoti Odoakro gyvybę ir turtus. Narbutas rašo, kad 493 m. kovo 5 d. gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė. Tik žinoma tai, kad Teodorikas paža dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam net tam tikrą valdžios dalį Italijoje arba patikėjo jam tam tikras valdas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -55,73 +55,48 @@ Nenurodyta
   teiginys: "Narbutas rašo, kad 493 m. kovo 5 d. gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė."
   pagrindžia:
     - c-173919
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Teodorikas ir Odoakras sudarė taiką, kurios sąlygos Narbuto pasakojime lieka nežinomos, išskyrus pažadą išsaugoti Odoakro gyvybę ir turtus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    329
-    Iš tiesų buvo pasirašyta taika, bet jos sąlygos mums
-    visiškai nežinomos. Tik žinoma tai, kad Teodorikas paža­
-    dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam
-    net tam tikrą valdžios dalį Italijoje arba patikėjo jam
-    tam tikras valdas. Odoakras patikėjo gotų karaliui savo
-    sūnų Telaną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197558"></a>
+- t-003
+  global_id: t-197558
+  teiginys: "Tik žinoma tai, kad Teodorikas paža dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam net tam tikrą valdžios dalį Italijoje arba patikėjo jam tam tikras valdas."
   pagrindžia:
-    - t-001
+    - c-173918
 
-- c-002
-  santrauka: 'Narbutas rašo, kad 493 m. kovo 5 d. gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Bet jis, trokšdamas vienvaldystės ir kupi­
-    nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
-    sudarymo pažeisti svetingumo taisykles: jis savo ranko­
-    mis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai
-    gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
-    na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
-    dieną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197559"></a>
+- t-004
+  global_id: t-197559
+  teiginys: "Netikėtai gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga na daug išžudė."
   pagrindžia:
-    - t-002
+    - c-173919
 
 ## Citatos
 
 - id: c-173918
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 323"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    329
-    Iš tiesų buvo pasirašyta taika, bet jos sąlygos mums
-    visiškai nežinomos. Tik žinoma tai, kad Teodorikas paža­
+    Tik žinoma tai, kad Teodorikas paža­
     dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam
     net tam tikrą valdžios dalį Italijoje arba patikėjo jam
     tam tikras valdas. Odoakras patikėjo gotų karaliui savo
-    sūnų Telaną.
+    sūnų Telaną. Bet jis, trokšdamas vienvaldystės ir kupi­
+    nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
+    sudarymo pažeisti svetingumo taisykles: jis savo ranko­
+    mis nužudė jo rūmuose puotavusį Odoakrą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191036
+    - t-197558
 
 - id: c-173919
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 323"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Bet jis, trokšdamas vienvaldystės ir kupi­
     nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
@@ -129,10 +104,13 @@ Nenurodyta
     mis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai
     gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
     na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
-    dieną.
+    dieną. Kai kurie istorikai, norėdami bent iš dalies suma­
+    žinti Teodoriko nusikaltimo dydį, stengiasi įterpti spė­
+    jimą, jog Odoakras kėsinęsis į jo gyvybę'.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191037
+    - t-197559

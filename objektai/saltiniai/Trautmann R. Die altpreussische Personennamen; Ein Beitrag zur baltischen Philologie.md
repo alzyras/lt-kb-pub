@@ -7,12 +7,12 @@ datos:
   - '1925 m.'
 date_start: '1925'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad trautmann R.
   teiginys: "R. Trautmanno „Die altpreussische Personennamen; Ein Beitrag zur baltischen Philologie“ išleista Göttingene 1925 m."
   pagrindžia:
     - c-61957
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Trautmanno „Die altpreussische Personennamen; Ein Beitrag zur baltischen Philologie“ išleista Göttingene 1925 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,12 @@ Dusburgietis teigia, kad trautmann R.
 - id: c-61957
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Trautmann  R.  Die  altpreussische Personennamen;  Ein  Beitrag  zur  baltischen
-    Philologie.— Göttingen, 1925.
+    История Эстонской ССР. — Т. I (с древнейших времен до середины XIX века)/Под
+    редакцией А. Вассара и Г. Наана.— Таллин, 1961.
+    Кириллова Ю. М. Прибалтика, Белоруссия.
+  citata_rodoma: "Trautmann  R.  Die  altpreussische Personennamen;  Ein  Beitrag  zur  baltischen\nPhilologie.— Göttingen, 1925."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

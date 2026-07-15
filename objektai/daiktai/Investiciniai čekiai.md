@@ -113,109 +113,6 @@ Nenurodyta
   teiginys: "Privatizuojamam turtui įsigyti kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo, nepalikta garantijų investicinius čekius patikėjusiems asmenims."
   pagrindžia:
     - c-176254
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Daugelis žmonių nebuvo pasirengę sava-
-    rankiškai gyventi. Planinės ekonomikos laivas plūduriavo kapitalizmo
-    jūroje, lėtai steigiant privačias žemės ūkio ir pramonės įmones, kurių
-    dauguma orientuotos į kapitalistinę Vakarų pasaulio rinką. Tam reikėjo
-    pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
-    tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
-    šos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tam reikėjo
-    pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
-    tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
-    šos. Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių
-    tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
-    pasaulio ekonomikos standartus.
-    Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
-    gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
-    pasinaudojo ne visi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kadangi
-    esminiai pertvarkymai žemės ūkyje vyko valdžioje esant Sąjūdžiui, dau-
-    guma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometi-
-    nį Lietuvos AS pirmininką V. Landsbergį, nors sunkumai buvo senosios
-    ekonomikos pasekmės.
-    Lietuvos privatizavimo įstatymuose liko galybė spragų, kurios leido
-    privatizavimą vykdyti nesilaikant viešojo konkurso procedūrų, pusvelčiui
-    į privačias rankas perleisti valstybės turtą. Privatizuojamam turtui įsigyti
-    kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta
-    savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,
-    nepalikta garantijų investicinius čekius patikėjusiems asmenims.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
-    gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
-    pasinaudojo ne visi. Nemažai čekių supirkėjų, nusipirkę anksčiau buvu-
-    sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis
-    gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
-    būsto. Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės.
-    Tad iki šiol lieka daug abejonių, ar tai buvo pats efektyviausias ekonomi-
-    kos „išvalstybinimo“ būdas; šiaip ar taip, jis lėmė pirmojo dešimtmečio
-    šalies ūkio raidą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-003
-
-- c-005
-  santrauka: 'Privatizuojamam turtui įsigyti kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo, nepalikta garantijų investicinius čekius patikėjusiems asmenims.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos privatizavimo įstatymuose liko galybė spragų, kurios leido
-    privatizavimą vykdyti nesilaikant viešojo konkurso procedūrų, pusvelčiui
-    į privačias rankas perleisti valstybės turtą. Privatizuojamam turtui įsigyti
-    kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta
-    savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,
-    nepalikta garantijų investicinius čekius patikėjusiems asmenims. Tuo pa-
-    sinaudojo buvę kolūkių pirmininkai ar tarybinių ūkių direktoriai, suge-
-    bėję per trumpą laiką savo rankose sukaupti didžiulius turtus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
 
 ## Šaltiniai ir įrodymai
 
@@ -287,8 +184,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75330
     - t-75328
+    - t-75330
 
 - id: c-73138
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -309,8 +206,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75333
     - t-75329
+    - t-75333
 
 - id: c-176254
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

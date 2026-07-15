@@ -35,39 +35,18 @@ Narbutas Laibegeldą apibūdino kaip deivę Žinią, skleidžiančią žinias, �
   teiginys: "Narbutas Laibegeldą apibūdino kaip deivę Žinią, skleidžiančią žinias, šlovę ir gandus."
   pagrindžia:
     - c-172194
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Laibegeldą apibūdino kaip deivę Žinią, skleidžiančią žinias, šlovę ir gandus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Laibegelda (Lajbegelda)
-    Deivė Žinia, arba skleidžianti žinias, šlovę, gandus.
-    Šitas vardas rodo deivės paskirtį ir pareigas: Lajbe -  šlovė
-    arba žinia, Gelda -  plepėjimas.
-    Lasickis sako, kad, meldžiantis Laibegeldai, būdavo pri­
-    duriami šie paslaptingi žodžiai: „Jūs, deivės, atsiuntėte mums
-    visų javų sėklos gilės kiaute“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172194
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 145."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Laibegelda (Lajbegelda)
     Deivė Žinia, arba skleidžianti žinias, šlovę, gandus.
-    Šitas vardas rodo deivės paskirtį ir pareigas: Lajbe -  šlovė
-    arba žinia, Gelda -  plepėjimas.
+    Šitas vardas rodo deivės paskirtį ir pareigas: Lajbe - šlovė
+    arba žinia, Gelda - plepėjimas.
     Lasickis sako, kad, meldžiantis Laibegeldai, būdavo pri­
     duriami šie paslaptingi žodžiai: „Jūs, deivės, atsiuntėte mums
     visų javų sėklos gilės kiaute“.

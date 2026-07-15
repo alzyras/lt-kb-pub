@@ -43,22 +43,6 @@ media_all_json: |-
   teiginys: "L. Kolankowskio „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ pirmas tomas apima 1377-1499 m. ir išleistas Varšuvoje 1930 m."
   pagrindžia:
     - c-37193
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'L. Kolankowskio „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ pirmas tomas apima 1377-1499 m. ir išleistas Varšuvoje 1930 m.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kol. = Kolankowski, L., Dzieje Wielkiego Księstwa Litewskiego
-    za Jagiełłonów. Tom I. 1377—1499. Skład główny-.
-    Kasa Im. Mianowskiego. Warszawa, 1930.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

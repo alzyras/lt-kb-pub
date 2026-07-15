@@ -40,30 +40,13 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
   teiginys: "Sakso Gramatiko Danijos istorijoje minimi Rutheni greičiausiai buvo venedai, apie kuriuos rašė Dusburgietis."
   pagrindžia:
     - c-61910
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sakso Gramatiko Danijos istorijoje minimi Rutheni greičiausiai buvo venedai, apie kuriuos rašė Dusburgietis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Manoma, kad Sakso
-    Gramatiko (mir. 1216 m.) Danijos istorijoje minimi Rutheni — tai greičiausiai venedai,
-    kad apie juos ir rašo Dusburgietis (Кудрякова E. Б., Известия o Руси...).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61910
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Manoma, kad Sakso
     Gramatiko (mir. 1216 m.) Danijos istorijoje minimi Rutheni — tai greičiausiai venedai,

@@ -41,21 +41,6 @@ PRADZIOS KARO LAIVAI IR BRANDERIAI“, Andžej Geglis, dail.
   teiginys: "Andžejus Geglis sukūrė iliustraciją „XVII a. pradžios karo laivai ir branderiai“."
   pagrindžia:
     - c-41774
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 11, „XVII A. PRADZIOS KARO LAIVAI IR BRANDERIAI“, Andžej Geglis,
-
-    dail. Andžej Geglis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

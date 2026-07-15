@@ -5,7 +5,6 @@ sukurta: '2026-07-12'
 atnaujinta: '2026-07-12'
 variantai:
   - 'Tautosakos Komisijos'
-  - 'Tautosakos komisijos'
 aliases: []
 saltiniai:
   - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
@@ -62,6 +61,7 @@ Tautosakos rinkimo ir dainų tvarkymo komisija.
   teiginys: "Iki tų pačių metų gruodžio 1 d. Tautosakos komisija perrašinėjo ir tvarkė dainas."
   pagrindžia:
     - c-177938
+
 ## Citatos
 
 - id: c-177938

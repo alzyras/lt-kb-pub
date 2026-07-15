@@ -57,111 +57,37 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
   teiginys: "Pasak Pretorijaus, Poiein ziemme senovės prūsams reiškė galingos genties žemę."
   pagrindžia:
     - c-173668
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, nes Pretorijus mokėjo prūsų ir žemaičių kalbas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vadinasi, šito pavadinimo etimolo­
-    gija dar neištirta.
-    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
-    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
-    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
-    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
-    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
-    rijos teisėjais arba žyniais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197637"></a>
+- t-005
+  global_id: t-197637
+  teiginys: "Si provincija plytėjo prie Vyslos, arčiausiai ribojosi su slavų gentimis, o pavadinimą gavo iš senovinio miesto Vlm, kurį vokiš kai pradėta vadinti Culm, lenkiškai — Chefmno', anot Pretorijaus tyrimų2, šis pavadinimas turėjo reikšti kalvą, 1 S ajar zykąs."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Pretorijus, perpasakodamas Dusburgiečio kronikos vietą apie žynio lazdą, vadino ją krivūle.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tą
-    lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy­
-    nui, tas tučtuojau siunčia tolyn, kol paskutinis iš eilės atneša
-    atgal vaitui; kiekvienas, gavęs tokį ženklą, yra įpareigotas ne­
-    delsiant atvykti į valsčiaus susirinkimo vietą. Pretorijus, atpa­
-    sakodamas šią Dusburgiečio kronikos vietą, kur kalbama apie
-    žynio lazdą, vadina ją krivūle. Čia anksčiau nupieštą kreivą
-    lazdą Prūsijos lietuviai šitaip tebevadina, taigi krivis turėjo pa­
-    našią lazdą ir ji turėjo būti jo įsakomasis ženklas9 10.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas teigė, kad Pretorijus, Johanas Leo ir Flenenbergeris rėmėsi vyskupo Kristijono kronika ir ankstyvesniais už Dusburgietį šaltiniais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
-    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
-    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
-    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
-    Davido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi
-    Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
-    bergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­
-    mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo
-    Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­
-    ba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­
-    ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
-    rokai išsamesniais paaiškinimais negu Simonas Grunau17.
-    2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Pasak Pretorijaus, Poiein ziemme senovės prūsams reiškė galingos genties žemę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pavadinimą gavo nuo Jesse, ar­
-    ba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­
-    ties sudėtinė dalis buvo Hokerlandija, arba hokrų kraš­
-    tas, turėjęs taip vadintą gentį, o anot kitų, šis pavadini­
-    mas turėtų būti atsiradęs dėl vietovės kalvotumo. Pasak
-    Pretorijaus, Poiein ziemme senovės prūsams turėjo reikš­
-    ti galingos genties žemę1. Šioje provincijoje, prie to pa­
-    ties pavadinimo ežero, buvęs Truso prekybos miestas, da­
-    bar netoli šiandienio Elbliongo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
+    - c-179272
 
 ## Citatos
 
 - id: c-173214
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 282"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 282."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vadinasi, šito pavadinimo etimolo­
-    gija dar neištirta.
-    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
-    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
-    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
-    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
-    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
-    rijos teisėjais arba žyniais.
+    Mirus senajam vyriausiajam žyniui, vaidilos labai slaptai
+    išrinkdavo naują; kitą dieną po išrinkimo pristatydavo jį žmo­
+    nėms, aiškindami, kad patys dievai pasirinkę šį šventą žmogų
+    iš labiausiai nusipelniusių: privalu gerbti jį ir klausyti jo. Nors
+    Hartknochas abejoja tokią konklavą buvus, kadangi ankstes­
+    nieji istorikai apie ją neužsimena, tačiau užginčyti tai - neįma­
+    nomas dalykas, nes vietos padavimai ir dainos galėjo išsaugoti
+    ir perteikti vėlesniems amžiams tą detalę, kurią pamaldieji ra­
+    šytojai savo raštuose praleido nenorėdami lyginti su švento­
+    mis dabartinės Romos apeigomis.
+    Henenbergeris išsaugojo mums vyriausiųjų žynių sąrašą,
+    pradedamą Vaidevučiu, kuris VI amžiaus pradžioje, iki kry­
+    žiuočiams užkariaujant Prūsiją, neabejotinai įvedė religinę san­
+    tvarką (pas Hartknochą, p. 149):
+    1.
+  citata_rodoma: "Vadinasi, šito pavadinimo etimolo­\ngija dar neištirta.\nPretorijus Hartknocho studijų prierašuose aiškina teisin­\ngai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­\nive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos\nteisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­\ndinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­\nrijos teisėjais arba žyniais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -172,8 +98,7 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
 - id: c-173215
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 430"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 430."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tą
     lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy­
@@ -194,22 +119,23 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
 - id: c-173216
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 432"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
-    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
-    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
-    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
-    Davido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi
-    Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
-    bergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­
-    mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo
-    Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­
-    ba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­
-    ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
-    rokai išsamesniais paaiškinimais negu Simonas Grunau17.
-    2.
+    lietuviai naudojosi tomis raidėmis. Gali būti, kad kam nors
+    pasitaikys rasti pinigą arba metalo gabaliuką su užrašu to rai­
+    dyno raidėmis; man net pasakojo, kad Lietuvoje kai kur yra
+    akmenų su iškaltomis nežinomo pavidalo raidėmis, o tos galė­
+    tų pasirodyti esančios biarmiškos. Vieną iš tokių užrašų, per­
+    pieštą Žemaitijoje nuo akmens, turėjau rankose; jame buvo
+    deramai išbrėžtos kelios biarmiškos raidės, tačiau, matyt, ne­
+    mokšiškai kopijuojant, kiti ženklai buvo sugadinti, neįmano­
+    ma buvo padaryti kokią nors išvadą, nebent įrodymą, kad gali
+    pasitaikyti atradimų, liudijančių, jog pas mus Biarmijos raidy­
+    nas buvo plačiau pažįstamas. Tiesa, ši nuomonė gali atrodyti
+    nauja, kadangi Rusijos rašytojai tą raidyną laiko XI amžiaus
+    kūriniu, tačiau mums reikėtų turėti daugiau tyrimų, o tuomet
+    galbūt įtikintume savo naudai.
+  citata_rodoma: "Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­\nkupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad\nKaraliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­\nninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko\nDavido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi\nPretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-\nbergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­\nmus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo\nKristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­\nba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­\nba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­\nrokai išsamesniais paaiškinimais negu Simonas Grunau17.\n2."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -220,8 +146,7 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
 - id: c-173668
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pavadinimą gavo nuo Jesse, ar­
     ba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­
@@ -238,3 +163,27 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190786
+
+- id: c-179272
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Si provincija
+    plytėjo prie Vyslos, arčiausiai ribojosi su slavų gentimis,
+    o pavadinimą gavo iš senovinio miesto Vlm, kurį vokiš­
+    kai pradėta vadinti Culm, lenkiškai — Chefmno', anot
+    Pretorijaus tyrimų2, šis pavadinimas turėjo reikšti kalvą,
+    1 S ajar zykąs, atmetęs tą išvadą (Starožyin. slaw. § 19. Nr. 5),
+    teigia, jog prūsų protėviai buvo Ptolemėjo aprašyti frugundionai —
+    tauta (o gal gentis), kurios mes nė nedrįstume priskirti prie lietuvių
+    genties. Šio nepaprastai mokslingo tyrinėtojo (nelaimei, pernelyg
+    dainai besiremiančio nuojauta, — dėl to jo išvados dažnai klaidin­
+    gos) įrodinėjimus verta čia išdėstyti bent jau tam, kad išsakytume ir
+    savo nuomonę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197637

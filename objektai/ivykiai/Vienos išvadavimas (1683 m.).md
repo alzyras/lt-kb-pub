@@ -52,24 +52,6 @@ Nenurodyta
   teiginys: "Sudarius sąjungą su Austrija, turkai pasiekė Vieną, o Sobieskiui atskubėjus į pagalbą miestas 1683 m. buvo išgelbėtas."
   pagrindžia:
     - c-67037
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sudarius sąjungą su Austrija, turkai pasiekė Vieną, o Sobieskiui atskubėjus į pagalbą miestas 1683 m. buvo išgelbėtas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet nepasisekė nė čia. Padarius sąjungą su
-    Austrija, turkai užpuolė šią ir pasiekė net Vieną. Kritiškuoju
-    momentu Sobieskis atskubėjo imperatoriui į pagalbą; Viena
-    buvo išgelbėta (1683 m.), ir turkai buvo išvaryti net iš dalies
-    Vengrijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

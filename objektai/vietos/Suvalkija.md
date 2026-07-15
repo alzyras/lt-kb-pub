@@ -53,26 +53,6 @@ media_all_json: |-
 - susijęs iš Lietuvos Užnemunė: Svarstant Lenkijos autonomiją Valstybės Dūmoje, lietuvių veikėjai siūlė nuo karalystės atskirti Lietuvos Užnemunę.
 - susijęs iš Šunkarių miškas: 1949 m. rugsėjo 28 d. Šunkarių miške į pasalą pateko ir žuvo Tauro apygardos vadas.
 - susijęs iš [[objektai/zodynas/zemstvos.md#claim-t-77810|zemstvos]]: Lietuvoje nebuvo įsteigtos zemstvos, Rusijoje nuo 1864 m. veikusios vietos savivaldos institucijos.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tauro apygarda vienijo Suvalkijos regiono antisovietinio pasipriešinimo dalyvius.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Partizanas nuo 1945 m.
-    Dalyvavo kuriant Tauro apygardos Žalgirio
-    rinktinę. 1948 m. spalio 8 d. tapo Tauro
-    apygardos, vienijusios Suvalkijos re-
-    giono antisovietino pasipriešinimo
-    dalyvius, vadu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-77314

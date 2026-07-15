@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - žygis
   - ivykis
+  - pilis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,75 +60,30 @@ Nenurodyta
   pagrindžia:
     - c-167352
 
-<a id="claim-t-59430"></a>
+<a id="claim-t-196973"></a>
 - t-003
-  global_id: t-59430
-  teiginys: "Per sūduvių žygį į pelkes sprukusi krikščionė pasipriešino ją ketinusiam nužudyti sūduvių kariui ir jį mirtinai užtroškino dumblu."
+  global_id: t-196973
+  teiginys: "Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu jie bematant."
   pagrindžia:
     - c-167352
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
-                                       pilies bei miesto sugriovimą
-
-      Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo
-    matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei miestą440. Paskui
-    prie Štraisbergo pilies441 įėjo į Kulmo žemę padaliję savo kariuomenę, paėmė daug pilių,
-    o  į jas bėgančius žmones išžudė ar išsivarė  į nelaisvę. Po to priėjo Torunę ir sudegino
-    ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę
-    prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai
-    atkakliai gynėsi. Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
-    neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Dusburgietis teigia, kad vienas sūduvių karys, stiprus vyras, leidosi paskui vieną krikščionę, kuri tuo metu spruko į pelkes; kai jau ketino ją nužudyti, ši, užmiršusi savo lyties trapumą, drąsiai pasipriešino.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
-    neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais. Vienas sūduvių
-    karys, stiprus vyras, leidosi paskui vieną krikščionę, kuri tuo metu spruko į pelkes; kai
-    jau ketino ją nužudyti, ši, užmiršusi savo lyties trapumą, drąsiai pasipriešino. [Karys],
-    įniršęs dėl tokio jos elgesio, dantimis jai nukando didįjį pirštą, o ji, savo ruožtu įtūžusi,
-    prigrūdo jam į burną bei ausis dumblo ir jį mirtinai užtroškino.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
 
 ## Citatos
 
 - id: c-60061
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
-                                       pilies bei miesto sugriovimą
-
-      Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo
+    pilies bei miesto sugriovimą
+    Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo
     matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei miestą440. Paskui
     prie Štraisbergo pilies441 įėjo į Kulmo žemę padaliję savo kariuomenę, paėmė daug pilių,
-    o  į jas bėgančius žmones išžudė ar išsivarė  į nelaisvę. Po to priėjo Torunę ir sudegino
+    o į jas bėgančius žmones išžudė ar išsivarė į nelaisvę. Po to priėjo Torunę ir sudegino
     ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę
     prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai
     atkakliai gynėsi. Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
-    neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais.
+    neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais ir kitais daiktais.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -138,19 +94,21 @@ Nenurodyta
 - id: c-167352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
-    neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais. Vienas sūduvių
-    karys, stiprus vyras, leidosi paskui vieną krikščionę, kuri tuo metu spruko į pelkes; kai
-    jau ketino ją nužudyti, ši, užmiršusi savo lyties trapumą, drąsiai pasipriešino. [Karys],
-    įniršęs dėl tokio jos elgesio, dantimis jai nukando didįjį pirštą, o ji, savo ruožtu įtūžusi,
-    prigrūdo jam į burną bei ausis dumblo ir jį mirtinai užtroškino.
+    Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
+    Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
+    prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
+    jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
+    pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
+    tikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių. Kai šitai
+    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
+    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
+    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183967
     - t-59430
+    - t-196973

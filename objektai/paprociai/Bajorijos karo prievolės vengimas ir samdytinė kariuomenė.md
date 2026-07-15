@@ -63,39 +63,6 @@ Nenurodyta
   teiginys: "Bajorijai nenorint eiti į karą, jos vietoje buvo įvesta samdytinė kariuomenė."
   pagrindžia:
     - c-02153
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Trečiasis karas su Maskva (1534—1537 m.).** Ankstyves-
-    nieji karai pasibaigdavo Lietuvai nelaimingai ypač dėl to, kad
-    bajorija nenorėjo kariauti ir nenorėjo mokėti karui reikalingų
-    mokesčių. Tad kol būdavo surenkama kariuomenė, Maskva
-    suspėdavo užimti nemaža Lietuvos pilių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į ūkį jam teko kreipti daugiau dėmesio,
-    nes ilgų karų metu ypač daug reikėjo pinigų kariuomenei.
-    Kadangi bajorija nenorėjo eiti į karą, tai jos vietoje buvo įves-
-    ta samdytinė kariuomenė. Tačiau bajorija nenorėjo
-    mokėti net tos kariuomenės išlaikymui reikalingų mokesčių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

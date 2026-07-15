@@ -34,27 +34,6 @@ media_all_json: |-
   teiginys: "Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų į Gdanską prekybos reikalais vykstančiam Vilniaus gyventojui Bomannui."
   pagrindžia:
     - c-84493
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų į Gdanską prekybos reikalais vykstančiam Vilniaus gyventojui Bomannui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    8
-    Iki mūsų laikų Slaptajame Karaliau­
-    čiaus archyve išliko didžiojo kuni­
-    gaikščio Švitrigailos laiškas, kuriame
-    didžiojo magistro prašo saugumo ga­
-    rantijų Bomannui, Vilniaus gyvento­
-    jui, vykstančiam į Gdanską su pre­
-    kybiniais reikalais. Id. Ibid.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

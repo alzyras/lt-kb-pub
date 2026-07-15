@@ -81,6 +81,7 @@ Nenurodyta
   teiginys: "Kūlimo rytą šeimininkas pirmasis pakyla, visi eina šerti gyvulių, o po pusryčių šeimininkas kūrena jaują ir vėto krūvą."
   pagrindžia:
     - c-177783
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

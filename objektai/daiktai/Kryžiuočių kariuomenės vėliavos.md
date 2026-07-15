@@ -56,25 +56,6 @@ Nenurodyta
   teiginys: "Po Žalgirio mūšio lenkai ir lietuviai pasidalijo Ordino vėliavas kaip karo grobio dalį."
   pagrindžia:
     - c-22255
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį. Nors
-    reikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai,
-    būtent Žalgirio mūšyje buvo pakirsta Ordino hegemonija, jis nebekėlė
-    egzistencinės grėsmės nei Lenkijai, nei Lietuvai. Žalgirio mūšis įėjo į isto-
-    riją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-
-    lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
-    teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

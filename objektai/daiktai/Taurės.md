@@ -1,16 +1,20 @@
 ---
 tipas: daiktas
 pavadinimas: 'Taurės'
-sukurta: '2026-07-12'
+saltiniai:
+  - 'Mūsų tautosaka, t.4 (1931)'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 variantai:
   - 'Taurė'
   - 'taurelė'
   - 'taurelę'
-  - 'taurė'
   - 'taurę'
-saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
-atnaujinta: '2026-07-12'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - buities-daiktas
+  - daiktas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -23,9 +27,6 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
-tags:
-  - buities-daiktas
-  - daiktas
 ---
 # Taurės
 
@@ -70,6 +71,20 @@ Nenurodyta
   pagrindžia:
     - c-177730
     - c-177731
+- susijęs iš [[objektai/autoriai/Hubertas Vautrinas.md#claim-t-200743|Hubertas Vautrinas]]: Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respubliką, aprašė vengriško vyno gėrimą iš vienos taurės.
+- susijęs iš [[objektai/autoriai/Jędrzej Kitowicz.md#claim-t-200745|Jędrzej Kitowicz]]: Jędrzejus Kitowiczius aprašė gėrimą iš vienos taurės ar stiklinėlės, kai geriama vienas po kito ir nesibjaurima į taurę krintančiais lašais.
+- susijęs iš [[objektai/paprociai/Gėrimas iš vienos taurės.md#claim-t-200734|Gėrimas iš vienos taurės]]: Rimvydas Laužikas europinio gėrimo iš vienos taurės papročio formavimą sieja su antikos kultūra, krikščionybe ir Šiaurės barbarikumu.
+- susijęs iš [[objektai/paprociai/Gėrimas iš vienos taurės.md#claim-t-200735|Gėrimas iš vienos taurės]]: Rimvydas Laužikas mano, kad XVI–XVII a. Lietuvoje gėrimas iš vienos taurės galėjo plisti kopijuojant lenkų bajorus kaip sarmatizmo madą.
+- susijęs iš [[objektai/paprociai/Gėrimo iš vienos taurės paprotys.md#claim-t-200730|Gėrimo iš vienos taurės paprotys]]: Viduriniais amžiais ir naujaisiais laikais Vakarų Europoje gėrimas iš vienos taurės buvo ne vien krikščioniškųjų apeigų, bet ir pasaulietinių ceremonijų, pavyzdžiui, vestuvių dalyvių ar universiteto profesorių bendrystę pabrėžiančio ceremonialo, dalis.
+- susijęs iš [[objektai/paprociai/Gėrimo iš vienos taurės paprotys.md#claim-t-200731|Gėrimo iš vienos taurės paprotys]]: Gėrimo iš vienos taurės paprotys bajoriškojoje Lietuvos kultūroje išnyko XVIII–XIX a. sandūroje, veikiamas Apšvietos pasaulėžiūros.
+- susijęs iš [[objektai/paprociai/Gėrimo iš vienos taurės paprotys.md#claim-t-200732|Gėrimo iš vienos taurės paprotys]]: Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825).
+- susijęs iš [[objektai/paprociai/Gėrimo iš vienos taurės paprotys.md#claim-t-200733|Gėrimo iš vienos taurės paprotys]]: Rimvydas Laužikas gėrimą iš vienos taurės laiko labai tolimu senųjų papročių atgarsiu, valstietiškoje kultūroje dar žinotu XX a. pabaigoje–XXI a. pradžioje.
+- susijęs iš Abiejų Tautų Respublika: XVIII a. Abiejų Tautų Respublikoje bendras gėrimas iš vienos taurės užsieniečių buvo aiškinamas kaip svetingumo ženklas, senas paprotys ar indų stygiaus pasekmė.
+- susijęs iš Lietuvos Didžioji Kunigaikštystė: Laužikas pabrėžia korporatyvumo skirtumus tarp Vakarų Europos šalių ir Lietuvos aiškindamas gėrimo iš vienos taurės reikšmes.
+- susijęs iš [[objektai/autoriai/Janas Józefas Kauschas.md#claim-t-200744|Janas Józefas Kauschas]]: Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825).
+- susijęs iš [[objektai/grupes/Lietuvos Didžiosios Kunigaikštystės bajorija.md#claim-t-200727|Lietuvos Didžiosios Kunigaikštystės bajorija]]: Kaip ir Vakarų Europoje, gėrimas iš vienos taurės buvo korporatyvinės bendrystės aktas, tarp LDK bajorijos ne tik turėjęs pakartoti vakarietiškas prasmes, bet ir dėl vietos specifikos įgyjęs savitų reikšmių.
+- susijęs iš Vakarų Europa: Laužiko aiškinimu, gėrimas iš vienos taurės Vakarų Europoje buvo korporatyvinės bendrystės aktas, o LDK bajorijoje įgijo savitų reikšmių.
+- susijęs iš [[objektai/zodynas/Korporatyvinė bendrystė.md#claim-t-200725|Korporatyvinė bendrystė]]: Laužiko aiškinimu, gėrimas iš vienos taurės LDK bajorijoje buvo korporatyvinės bendrystės aktas, įgijęs vietos specifikos reikšmių.
 - susijęs iš [[objektai/asmenys/Lileika (samdos tarpininkas).md#claim-t-195542|Lileika (samdos tarpininkas)]]: Derybų pabaigoje Lileika ragino Grigorą laikytis pažado ir negadinti savo žodžio.
 - susijęs iš [[objektai/paprociai/Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas.md#claim-t-195372|Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas]]: Po pamokslo dalis atėjusiųjų į bažnyčią eidavo į gertuvę ir užkandžiaudavo ar gerdavo.
 ## Reikšmingi paminėjimai
@@ -89,9 +104,7 @@ Nenurodyta
     terims, karčioji — vyrams.
     Prie to raguolis ragaišio, gabalas mėsos
     ir varinė taurelė.
-  citata_rodoma: "Prie to raguolis ragaišio,
-gabalas mėsos
-ir varinė taurelė."
+  citata_rodoma: "Prie to raguolis ragaišio,\ngabalas mėsos\nir varinė taurelė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -150,8 +163,7 @@ ir varinė taurelė."
     Atėjus elgetai padėkoti už ragaišį, ji gaudavo iš­
     gerti po taurelę „ant abiejų kojų.“
     Taip užkandžiavo šventoriuje.
-  citata_rodoma: "Atėjus elgetai padėkoti už ragaišį, ji gaudavo iš­
-gerti po taurelę „ant abiejų kojų.“"
+  citata_rodoma: "Atėjus elgetai padėkoti už ragaišį, ji gaudavo iš­\ngerti po taurelę „ant abiejų kojų.“"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

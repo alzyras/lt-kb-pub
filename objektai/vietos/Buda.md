@@ -53,42 +53,6 @@ Nuo tada Jogaila veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko
   pagrindžia:
     - c-67544
 - susijęs iš [[objektai/asmenys/Šakjamunis.md#claim-t-190224|Šakjamunis]]: Narbutas Šakjamunį apibūdino kaip tautos mokytoją, išminčių ir įstatymų leidėją, kuriame įsikūnijo indų Buda.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nuo tada Jogaila
-    veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko ofi­
-    ciali, Skirgailos vadovaujama, delegacija. Krokuvoje ir Budoje ji
-    galutinai sutarė, kas vėliau Kriavo akte (1385.VIII.14) buvo pa­
-    žadėta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1307 m. mirus Čekijos karaliui Vaclovui, jo sūnus buvo vainikuotas karaliumi Budoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    102. Apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems
-
-      1307 viešpaties metais mirė Vaclovas, Čekijos karalius, o jo sūnus buvo vainikuotas
-    karaliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol. p. 1227),
-    šitaip Čekijos sostas, kuris neturėjo įpėdinių, atiteko svetimiesiems, nes Romos karalius
-    Albrechtas į minėtąjį sostą pakėlė savo sūnų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-31982
@@ -111,8 +75,7 @@ Nuo tada Jogaila veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko
 - id: c-67544
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     102. Apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems
 

@@ -99,113 +99,15 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   teiginys: "Teodoro Narbuto vertinimu, tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno klydo prielaidose apie skirių ir hirių gentis."
   pagrindžia:
     - c-174785
+
+<a id="claim-t-197636"></a>
+- t-011
+  global_id: t-197636
+  teiginys: "Senovės tyrinėtojai, pradedant Plinijaus kom piliacijomis ir baigiant nuodugniai mąstančiu Uphagenu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, net mokytasis ponas Foigtas patenka į keblią padėtį šia prasme ir daro visiškai netaiklias išvadas2."
+  pagrindžia:
+    - c-174785
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie Baltijos jūros.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    100
-
-    ## Puslapis 100
-
-    (Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­
-    sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
-    ru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­
-    tą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­
-    binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
-    ponas Riteris savo Siaurės senovės tyrimuose15.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas Plinijumi grindė teiginį, kad romėnų laivai prieš Kristaus gimimą plaukiojo Baltijos jūroje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Reikėtų surasti vidurį tarp tų dviejų
-    kraštutinumų.
-    Kad romėnų laivai prieš Kristaus gimimą plaukiojo po Bal­
-    tijos jūrą, nėra abejonės, nes tai aiškiai liudija Plinijus. Kad
-    Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry­
-    šius su Prūsijos gyventojais, renkančiais gintarą, taip pat tie­
-    sa7.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Teodoro Narbuto pasakojime Plinijus spalius lokalizavo kairiojoje Dono pakrantėje, prie Kimerijos Bosporo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Apie šią tautą senovės ty­
-    rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
-    buvę kairiojoje Dono pakrantėje, prie Kimerijos Bospo­
-    ro2; šis teiginys, paimtas iš senovės geografų ir esantis
-    Plinijaus kompiliacijose, rodo, kad ši tauta buvusi labai
-    sena, be to, Jordanas teigia, kad spaliai gyveno dabarti­
-    nėje Mazovijoje. Norint sužinoti Filimero žygio kryptį,
-    reikia prisiminti, kad pirmiausia spaliai atvyko į tas Va­
-    karų šalis nuo Azovo jūros, o vėliau visi ar galbūt veik­
-    lesnė jų dalis keliavo su gotais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Teodoras Narbutas pažymi, kad Diodoras Sicilietis, Mela ir Plinijus, rėmęsi Šiaurės jūrų kelionių aprašymais, estų neminėjo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vėliau kalbėsime apie šio astronomo
-    keliones, o dabar pasakysime tik tiek, jog visas jo apra­
-    šymas yra toks aiškus ir raiškus, kad nedera abejoti: tuo­
-    metiniai Prūsijos gyventojai nesivadino estais. Jie rinko
-    gintarą Abalo saloje; jį pardavinėjo gotonai. Ši kelionė
-    įvyko 340 metais prieš Kristaus gimimą; nuo tų laikų
-    net iki Tacito senovės autoriai niekur nemini Estijos, nors
-    kai kurie, kaip Diodoras Sicilietis, Melą ir net pats Pli-
-    nijus, rėmęsis Pitėjo ir kitais kelionių Šiaurės jūromis
-    aprašymais, estų nemini.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Teodoro Narbuto pasakojime Plinijus Hilleviones vadino labai gausia Skandinavijoje gyvenusia žmonių grupe.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ta­
-    citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
-    tojai, gyvenę Pomeranijoje prie Helio5. Plinijus rašo, jog
-    Hilleviones6, labai gausūs žmonės, gyveno Skandinavijo­
-    je. Pasvarsčius nepernelyg didelį Plinijaus geografinių
-    aprašymų tikslumą, šiuose trijuose pavadinimuose gali­
-    ma lengvai įžvelgti lyvių protėvius, priklausiusius keltų-
-    gerrnanų tautoms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-006
   santrauka: 'Teodoras Narbutas cituoja Plinijų, kad sarmatai, venedai, skirtai ir tūriai gyveno iki Vyslos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -223,26 +125,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
-
-- c-007
-  santrauka: 'Teodoro Narbuto pasakojime Plinijus užrašė Archelajo pasakojimą apie gintaro žaliavą, dar neatskirtą nuo medžių žievės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tie medžiai,
-    neteisingai laikomi medį mėgdžiojančiomis iškasenomis,
-    yra gintaro sandėliai. Jūroje išilgai prūsų pakrančių slypi
-    ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie
-    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
-    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
-    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
-    skirtos nuo medžių žievės1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
 
 - c-008
   santrauka: 'Teodoro Narbuto teigimu, Plinijaus Baltija pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.'
@@ -291,17 +173,17 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   santrauka: 'Teodoro Narbuto vertinimu, tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno klydo prielaidose apie skirių ir hirių gentis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Galbūt ir
-    lietuvių kalba jie vadinosi skiriais, nes esama panašiai
-    skambančių senovės vietovardžių: Skirvytė, Skirai, Skir-
-    nreliškės1. Senovės tyrinėtojai, pradedant Plinijaus kom­
+    Senovės tyrinėtojai, pradedant Plinijaus kom­
     piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
     nu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis,
     net mokytasis ponas Foigtas patenka į keblią padėtį šia
     prasme ir daro visiškai netaiklias išvadas2. Pernelyg daug
     laiko reikėtų tam, kad paneigtume visas hipotezes, o ant­
     ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
-    vėliau parašyti.
+    vėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­
+    rės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,
+    j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
+    įsikūrusi Bartėnų seniūnijoje.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -309,6 +191,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+    - t-011
 
 ## Citatos
 
@@ -317,16 +200,15 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    100
-
-    ## Puslapis 100
-
-    (Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­
-    sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
-    ru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­
-    tą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­
-    binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
-    ponas Riteris savo Siaurės senovės tyrimuose15.
+    16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
+    mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum
+    cl hnicismo affinitate. Anno 1418, codex in folio manu scriptus, pagi­
+    narum 185. Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
+    d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki
+    1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį
+    buvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,
+    ypač mitologiją liečiančius dalykus**.
+  citata_rodoma: "100\n\n## Puslapis 100\n\n(Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­\nsakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­\nru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­\ntą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­\nbinamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba\nponas Riteris savo Siaurės senovės tyrimuose15."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -337,8 +219,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Reikėtų surasti vidurį tarp tų dviejų
     kraštutinumų.
@@ -357,8 +238,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173660
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 85"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Apie šią tautą senovės ty­
     rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
@@ -380,8 +260,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173661
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 89"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vėliau kalbėsime apie šio astronomo
     keliones, o dabar pasakysime tik tiek, jog visas jo apra­
@@ -403,8 +282,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173662
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 93"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ta­
     citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
@@ -424,15 +302,21 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173663
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pagaliau, papildydamas aprašymą, cituoju tą
-    patį autorių: Welti, Hossii ir Karbony, — tai toliau į
-    šiaurę prie Baltijos jūros gyvenusios gentys. Plinijus
-    netrukus rašė: „Sako, kad sarmatai, venedai, skirtai ir tū­
-    riai gyvena net ligi Vyslos“1. Taip išdėsčius dalyką, ar
-    sugebės kas nors nubraižyti šių tautų žemėlapį?
+    Toliausiai į pietryčius gyveno
+    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
+    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
+    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
+    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
+    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
+    apie tai Karamzinas rašo savo tyrimuose3. Neįmanoma
+    nustatyti, kuriai giminei priklausė šios tautos; jos pasi­
+    meta sarmatų genčių sūkuryje. Tarp šių dviejų tautų bas­
+    tėsi klajoklių amaksolių, arba sarmatų, ordos, neturėju­
+    sios kitokių būstų, o tik klajokliškas palapines, ištiestas
+    ant vežimų.
+  citata_rodoma: "Pagaliau, papildydamas aprašymą, cituoju tą\npatį autorių: Welti, Hossii ir Karbony, — tai toliau į\nšiaurę prie Baltijos jūros gyvenusios gentys. Plinijus\nnetrukus rašė: „Sako, kad sarmatai, venedai, skirtai ir tū­\nriai gyvena net ligi Vyslos“1. Taip išdėsčius dalyką, ar\nsugebės kas nors nubraižyti šių tautų žemėlapį?"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -443,8 +327,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173664
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tie medžiai,
     neteisingai laikomi medį mėgdžiojančiomis iškasenomis,
@@ -464,8 +347,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173666
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
@@ -473,7 +355,10 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     kelionės nuo sausumos atstumu. Kiek čia nepatikimumo!2
     Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­
     roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
-    Amelandu.
+    Amelandu. Jam rūpėjo įrodyti, jog romėnų kariai rinkę
+    gintarą, todėl jis teigė, jog jo buvo turtinga visa vaka­
+    rinė Europos pakrantė.
+  citata_rodoma: "Sala, kurią Plinijus vadina Baltija, remdamasis visais\nHardua rankraščiais ir stebėjimais, turėtų vadintis Basi-\nlia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų\nkelionės nuo sausumos atstumu. Kiek čia nepatikimumo!2\nFosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­\nroje, Austraviją, arba Glesariją, nurodo esant fryzų sala\nAmelandu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -484,9 +369,14 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173667
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 376"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 376."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Herodotas1 savo geografiniuose aprašymuose, kurie,
+    nelaimei, mus pasiekė daug trumpesni, pasakodamas apie
+    Gerų kraštą ir upę, kur gyveno skitai kapų kasėjai, sako,
+    jog ši upė, susiliejusi su kita, t. y. Hippakaris, įtekėjo į
+    didelės Boristenio upės šaką, įlanką, vagą ar išsišakoji­
+    mą, vadinamą Karkinitu; čia ir buvęs Karkinęs miestas.
     Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­
     ga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine
     ir to p.aties pavadinimo miestelis, esantis prie žiočių Bo­
@@ -499,6 +389,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     įvairių šaltinių, nes senovės Skitijos žemėlapių leidėjai
     nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
     pavadinimo miestui.
+  citata_rodoma: "Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­\nga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine\nir to p.aties pavadinimo miestelis, esantis prie žiočių Bo­\nristenio ir Bugo, šio autoriaus vadinto Btigus2. Bet, kal­\nbant apie Gero upę, o ypač apie kraštą, kur yra skitų ka­\npinynas, negalima atmesti prielaidos, kad buvę ir kitų\nvietų su panašiais, anksčiau ar vėliau Plinijaus užrašy­\ntais pavadinimais; tuo atveju, jei šis žymus geografas\nnesuklydo remdamasis žiniomis, surinktomis iš pernelyg\nįvairių šaltinių, nes senovės Skitijos žemėlapių leidėjai\nnemokėjo rasti vietos jo Carcinites** įlankai ir to paties\npavadinimo miestui."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -509,23 +400,26 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-174785
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 275"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 275."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Galbūt ir
-    lietuvių kalba jie vadinosi skiriais, nes esama panašiai
-    skambančių senovės vietovardžių: Skirvytė, Skirai, Skir-
-    nreliškės1. Senovės tyrinėtojai, pradedant Plinijaus kom­
+    Senovės tyrinėtojai, pradedant Plinijaus kom­
     piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
     nu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis,
     net mokytasis ponas Foigtas patenka į keblią padėtį šia
     prasme ir daro visiškai netaiklias išvadas2. Pernelyg daug
     laiko reikėtų tam, kad paneigtume visas hipotezes, o ant­
     ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
-    vėliau parašyti.
+    vėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­
+    rės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,
+    j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
+    įsikūrusi Bartėnų seniūnijoje. Vėliau sužinosime, kad ją įkūrė dar
+    XIII amžiuje arba XIV amžiaus pradžioje ateiviai iš kitų Lietuvos
+    žemės kraštų.
+  citata_rodoma: "Senovės tyrinėtojai, pradedant Plinijaus kom­\npiliacijomis ir baigiant nuodugniai mąstančiu Uphage- \nnu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, \nnet mokytasis ponas Foigtas patenka į keblią padėtį šia \nprasme ir daro visiškai netaiklias išvadas2. Pernelyg daug \nlaiko reikėtų tam, kad paneigtume visas hipotezes, o ant­\nra vertus, tektų kartoti tai, ką jau rašėme arba ketiname \nvėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­\nrės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,\nj Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė, \nįsikūrusi Bartėnų seniūnijoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191903
+    - t-197636

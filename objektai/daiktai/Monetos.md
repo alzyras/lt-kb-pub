@@ -10,14 +10,14 @@ datos:
   - '1841 m.'
 date_start: '1422'
 date_end: '1841'
+amziai:
+  - 'XV'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - moneta
-amziai:
-  - 'XV'
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -101,7 +101,6 @@ Nenurodyta
 - susijęs iš Rumšiškėnai XIV-XVI amžiais: „Rumšiškėnai XIV-XVI amžiais“ buvo išleista Vilniuje 1970 m.
 - susijęs iš Žymesnieji popiežių liudijimai apie Vytauto Didžiojo nuopelnus Katalikų Bažnyčiai: „Žymesnieji popiežių liudijimai apie Vytauto Didžiojo nuopelnus Katalikų Bažnyčiai“ 1929 m. paskelbti TK 7–8 numeryje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1841 m. prie Druskininkų kapavietėje rasta labai plona ir apgadinta moneta, kurios vienoje pusėje pavaizduoti Gedimino šeimos Stulpai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -124,46 +123,26 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos
-    ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo
-    laikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu. Į kai­
-    myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­
-    binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-
-    paliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­
-    kluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­
-    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
-    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
-    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
-    netos, liejami pabūklai, varpai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174950
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 489"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 489."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    pastraipos
-    tęsinys/
-    Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­
-    kininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­
-    bama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­
-    pai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai
-    pastatyto kalavijo ženklą. Pastarasis pavaizduotas ant kažkokios
-    skersinės figūros. Moneta labai plona, labai apgadinta ir išliko
-    lik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių (perpiešti
-    Krūminės medalį).
+    Informacija, kuria autorius papildė paragrafą, rengdamas ant­
+    rąjį LTI leidimą (PEĮ. L. 26). Tekste minimi faktai paimti iš mi­
+    nėto T. Volianskio laiško (P. 12).
+    94 /Ten
+    pat,
+    nenurodyta
+    vieta/
+    Prilvico statulėlių rinkinyje, remiantis Mašo (Mascho) ir Vogeno
+    (Wogen) informacija, dievukas, turintis užrašą Szwaixtiks, neati­
+    tinka tų savybių, kurias mes priskiriame Lietuvos Apolonui. Jo
+    vardas kilęs iš žodžio žvaigždė (Zwajgida), bet savo išvaizda jis
+    visiškai nepanašus į Apoloną, Tai barzdotas senis su žibintu ran­
+    koje.
   citata_rodoma: "Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­\nkininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­\nbama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­\npai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai\npastatyto kalavijo ženklą. Moneta labai plona, labai apgadinta ir išliko\nlik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių."
   statusas: verified
   teiginio_tipas: faktas

@@ -3,9 +3,11 @@ tipas: ivykis
 pavadinimas: 'Lietuvos krikštas (1387 m.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1387 m.'
+  - '2005 m.'
   - '2026 m.'
 date_start: '1387'
 date_end: '2026'
@@ -88,6 +90,13 @@ Nenurodyta
   teiginys: "Lietuvos krikšto metu Vytautas aktyviai aiškino žmonėms tikėjimą ir ragino juos krikštytis."
   pagrindžia:
     - c-169727
+
+<a id="claim-t-200707"></a>
+- t-006
+  global_id: t-200707
+  teiginys: "Viljamas Pochliobkinas 1387 m. Lietuvos krikštą siejo su Genujos pasiuntinių Jogailai ir Vytautui demonstruotu distiliuotu alkoholiu, bet Laužikas pažymi, kad to nepatvirtina nepriklausomi šaltiniai."
+  pagrindžia:
+    - c-184052
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182809|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija neleido Vilniaus miestiečiams įgyti daugiau laisvių.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173246|Vladislovas Jogaila]]: Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija nesuteikė Vilniaus miestiečiams palankaus meto įgyti daugiau laisvių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178873|Kryžiuočių ordinas]]: Kryžiuočiai Vakarų Europoje skleidė gandus, kad Lietuvos krikštas buvo tariamas ir paviršutiniškas.
@@ -98,68 +107,6 @@ Nenurodyta
 - susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): Algirdas laiškuose Bizantijos imperijai vadinosi bazileus, o Gediminas laiškuose Vakarams vartojo titulą rex.
 - susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): Algirdas laiškuose Bizantijos imperijai vadinosi bazileus, o Gediminas laiškuose Vakarams vartojo titulą rex.
 - susijęs iš Gedimino laiškai: Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Savaip transformuota artimo meilės idėja atsispindi
-    senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsa-
-    komybę už pavaldinio išganymą. Vadinasi, pavaldiniui nurodoma, kokį
-    tikėjimą jis turi išpažinti. Taigi feodaliniai santykiai įgijo idėjinį pagrindą,
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    43
-    Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių
-    žygyje prie kryžiaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Daugiau Jogaila Lie­
-    tuvoje bažnyčių ir nestatęs; tai atliko Vytautas ir Lietuvos
-    didikai.
-
-    Vytautas nuo pat pirmos krikšto dienos aktyviai daly­
-    vavo krikštijimo darbe, aiškindamas žmonėms tikėjimą, ragin­
-    damas juos krikštytis. Jo, kaipo Gardino kunigaikščio, ant­
-    spaudos pridėtos privilegijų raštuose; taigi jis prisidėjo ir prie
-    naujos visuomeninės tvarkos įvedimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vis dėlto tai liko istorinis epi-
-    zodas, nors pagoniška valstybė pamažu
-    tapo regionine didvalstybe arba imperija,
-    užvaldžiusia didžiules stačiatikiškų žemių
-    (buvusios Kijevo Rusios) erdves. 1387 m.
-    Lietuva krikštijosi katalikišku krikštu, o jos
-    dalis Žemaitija tapo paskutiniu Europoje
-    apsikrikštijimo regionu – šiais įvykiais bai-
-    gė formuotis krikščioniškoji Europa.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-169726
@@ -182,6 +129,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-186366
+    - t-186368
     - t-186369
 
 - id: c-169727
@@ -228,3 +177,20 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186367
+
+- id: c-184052
+  autorius: "Rimvydas Laužikas"
+  šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
+  puslapiai: "PDF 3"
+  indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
+  citata_originali: |
+    Pasak rusų degtinės tyrėjo Viljamo Pochliobkino, distiliuotą alkoholį
+    Jogailai ir Vytautui kaip vaistą demonstravo Genujos pasiuntiniai 1387 m. Lietuvos
+    krikšto proga ir 1429 m. Lucko suvažiavime (Похлебкин 2005: 134–136). Tačiau
+    šių teiginių nepriklausomais šaltiniais nepavyko patvirtinti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200707

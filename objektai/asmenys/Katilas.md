@@ -34,8 +34,8 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
   teiginys: "Antspaudas priklausė Katilui (Koczel) 1617 metais."
   pagrindžia:
     - c-173115
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Antspaudas priklausė Katilui (Koczel) 1617 metais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -56,12 +56,15 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
 - id: c-173115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 404"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    IV lentelė, 22-asis piešinys. Indas, panašus į taurę, virš ku­
-    rio trikampis; virš skydo šalmas apex, kaip virš karalių karūnų.
-    Antspaudas priklausė Katilui (Koczel) 1617 metais.
+    Ponas Tadas Vo­
+    lianskis skaito Y 'icpti'b> „Mattez (MATTEZ)“, taiyra „Mal-
+    jasz“, arba Matas**.
+    IV lentelė, 33-iasis piešinys. Apvalus antspaudėlis iš Kazi­
+    miero JogailaiČio laikų, priklausęs Stankui Stankaičiui Juršai
+    (Stank Stankiewicz Jursza).
+  citata_rodoma: "IV lentelė, 22-asis piešinys. Indas, panašus į taurę, virš ku­\nrio trikampis; virš skydo šalmas apex, kaip virš karalių karūnų.\nAntspaudas priklausė Katilui (Koczel) 1617 metais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

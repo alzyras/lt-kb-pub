@@ -40,89 +40,75 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-186350"></a>
-- t-001
-  global_id: t-186350
-  teiginys: "Vilniaus vaivada Mikalojus Radvila dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų."
-  pagrindžia:
-    - c-169721
-
 <a id="claim-t-186351"></a>
-- t-002
+- t-001
   global_id: t-186351
   teiginys: "Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdytojos bažnyčią pergalei prie Klecko atminti."
   pagrindžia:
     - c-169718
 
 <a id="claim-t-186353"></a>
-- t-003
+- t-002
   global_id: t-186353
   teiginys: "Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus vaivadai Mikalojui Radvilai."
   pagrindžia:
     - c-169712
 
 <a id="claim-t-186354"></a>
-- t-004
+- t-003
   global_id: t-186354
   teiginys: "Lietuvos maršalka Mikalojus Radvila užtarė Martyną Paleckį, gavusį iš karaliaus žemės sklypą ir leidimą steigti stiklo fabriką."
   pagrindžia:
     - c-169713
 
-<a id="claim-t-186355"></a>
-- t-005
-  global_id: t-186355
-  teiginys: "Vaitiekus Kločka skubiai iškvietė į Vilnių Vilniaus vaivadą Mikalojų Radvilą ir Trakų vaivadą Grigalių Astiką."
-  pagrindžia:
-    - c-169714
-
 <a id="claim-t-186356"></a>
-- t-006
+- t-004
   global_id: t-186356
   teiginys: "Aleksandras kreipėsi į Vilniaus vaivadą ir kanclerį Mikalojų Radvilą dėl pievos dovanojimo prie jo malūno už Vilnelės."
   pagrindžia:
     - c-169715
 
 <a id="claim-t-186357"></a>
-- t-007
+- t-005
   global_id: t-186357
   teiginys: "Mikalojus Radvila smogė priešams į sparną ir nulėmė mūšio sėkmę."
   pagrindžia:
     - c-169716
 
 <a id="claim-t-186358"></a>
-- t-008
+- t-006
   global_id: t-186358
   teiginys: "1560 m. vasario 12 d. Mikalojus Radvila iš Rotundo gavo jo Lietuvos istorijos rankraštį."
   pagrindžia:
     - c-169719
 
-<a id="claim-t-186359"></a>
-- t-009
-  global_id: t-186359
-  teiginys: "Karalius Mikalojui Radvilai, Lietuvos maršalui, atidavė Raigardą ir Goniondzą iš Glinskio turto."
-  pagrindžia:
-    - c-169717
-
-<a id="claim-t-186360"></a>
-- t-010
-  global_id: t-186360
-  teiginys: "Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną."
-  pagrindžia:
-    - c-169722
-
 <a id="claim-t-186361"></a>
-- t-011
+- t-007
   global_id: t-186361
   teiginys: "Lietuvos maršalas Mikalojus Radvila sutelkė kariuomenę ir palydėjo Jerim Berdį į skitų kraštą."
   pagrindžia:
-    - c-169720
+    - c-169716
 
-<a id="claim-t-193398"></a>
-- t-012
-  global_id: t-193398
-  teiginys: "Mikalojus Radvila n eu žp u o lė L ivonijos, žinodam as, k ad ten g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją, sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės, Š klovo apylinkes."
+<a id="claim-t-196561"></a>
+- t-008
+  global_id: t-196561
+  teiginys: "Mikalojus Radvila, vykdydamas įsakymą, sutelkė Lietuvos žemėse kariuomenę ir patraukė su Jerim Berdžiu į skitų kraštą."
   pagrindžia:
-    - c-176121
+    - c-169716
+
+<a id="claim-t-196562"></a>
+- t-009
+  global_id: t-196562
+  teiginys: "Mikalojus Radvila užpuolė priešą ir jį sumušė."
+  pagrindžia:
+    - c-178767
+
+<a id="claim-t-196563"></a>
+- t-010
+  global_id: t-196563
+  teiginys: "Mikalojus Radvila iš Maskvos valdovo irgi buvo gavęs nemaža pinigų."
+  pagrindžia:
+    - c-178768
 - susijęs iš [[objektai/asmenys/Kristupas Radvila Perkūnas.md#claim-t-79100|Kristupas Radvila Perkūnas]]: Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene.
 - susijęs iš [[objektai/asmenys/Martynas Liuteris.md#claim-t-82553|Martynas Liuteris]]: Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.
 - susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82569|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis, Lietuvos Didžiosios Kunigaikštystės rūmų maršalka, tapo Filipovo namų savininku.
@@ -148,7 +134,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113897|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis galėjo turėti nuo 4 iki 6 tūkstančių raitelių.
 - susijęs iš [[objektai/autoriai/Jacobas Schrenckas.md#claim-t-78083|Jacobas Schrenckas]]: Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pateikė Mikalojaus Radvilos Juodojo atvaizdą.
 - susijęs iš [[objektai/grupes/Karmelitų ordinas.md#claim-t-112561|Karmelitų ordinas]]: Mikalojus Radvila pakvietė karmelitus ir prie Šv. Jurgio bažnyčios Vilniuje pastatydino jiems vienuolyną.
-- susijęs iš [[objektai/grupes/Lietuvos luomai.md#claim-t-185433|Lietuvos luomai]]: Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila.
 - susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172762|Radvilų giminė]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo 20 kapų lietuviškų grašių.
 - susijęs iš [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.).md#claim-t-185574|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]: Mūšiui ilgai nesikreipiant nė į vieną pusę, Mikalojus Radvila smogė priešams į sparną ir nulėmė pergalę.
 - susijęs iš 1576 m. gruodžio 20 d. Stepono Batoro laiškas Mikalojui Radvilai dėl muitų, Czopowe ir Szosowe mokesčių: 1576 m. gruodžio 20 d. Steponas Batoras reikalavo, kad Mikalojus Radvila skatintų mokėti muitus ir iš Vilniaus miestiečių išreikalautų Czopowe bei Szosowe mokesčius.
@@ -156,7 +141,6 @@ media_all_json: |-
 - susijęs iš Brasta: Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.
 - susijęs iš Brasta: Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.
 - susijęs iš Kardinalija: Dabartinį Kardinalijos sparną nuo Didžiosios gatvės užėmė Filipovo namai, kurių savininku tapo Mikalojus Kristupas Radvila.
-- susijęs iš Vilnius: Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą.
 - susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82570|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Kapitulai nustojus gauti činšą už Filipovo namą, su kunigaikščiu Kristupu prasidėjo teismo procesas, o 1573 m. kovo 26 d. įsigaliojo sutartis.
 - susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
 - susijęs iš [[objektai/grupes/Bernardinų ordinas.md#claim-t-181539|Bernardinų ordinas]]: Vilniaus vaivada Mikalojus Radvila dosniai prisidėjo prie Bernardinų bažnyčios permūrijimo, kai jai dėl menkų pamatų grėsė griūtis.
@@ -181,283 +165,11 @@ media_all_json: |-
 - susijęs iš Palenkė: Vilniaus seime lenkų atstovai reikalavo Palenkę, Volynę, Kijevo ir Seversko žemes atiduoti Lenkijos karalystei.
 - susijęs iš Seversko žemės: Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes bei sudaryti uniją.
 - susijęs iš Skitija: Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.
-- susijęs iš Vilnius: Mikalojus Radvila Juodasis Lukiškėse pastatė kalvinų bažnyčią ir traukė į ją vilniečius.
 - susijęs iš Volynė: Vilniaus seime lenkų atstovai reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes prieš sudarant uniją.
 - susijęs iš [[objektai/zodynas/reformacija.md#claim-t-77786|reformacija]]: Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185338|skitai]]: Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.
 - susijęs iš [[objektai/zodynas/činšas.md#claim-t-183837|činšas]]: Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.
 - susijęs iš [[objektai/zodynas/činšas.md#claim-t-82136|činšas]]: Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Sklypas tas ir mūrinis namas, kuriame yra spaustu­
-    vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui.
-    1552. Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus
-    vaivadai Mikalojui Radvilai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taip pat, kad miesto
-    gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­
-    dienius darbininkus, visiems padienininkams nuo tol nu­
-    rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­
-    vyzdžiu.
-    Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
-    lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus
-    išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­
-    šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­
-    tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
-    32 33
-    Žr. III priedą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  santrauka: 'Vaitiekus Kločka skubiai iškvietė į Vilnių Vilniaus vaivadą Mikalojų Radvilą ir Trakų vaivadą Grigalių Astiką.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Viską darė slaptomis, kaip neseniai
-    buvo susitarusi su Vasilijaus pasiuntiniais, tačiau, ži­
-    noma, neįstengė taip slaptai susitvarkyti, kad šio bei
-    to nebūtų suuodęs Vaitiekus Kločka, karalienės rūmi­
-    ninkas. Jis kuo greičiausiai iškvietė į Vilnių Mikalojų
-    Radvilą, Vilniaus vaivadą, ir Grigalių Astiką, Trakų
-    vaivadą. Pasitarę jiedu visiems pranešė, ką sumaniusi
-    karalienė, paremdami savo žodžius tikrais įrodymais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Uždėtas mažasis antspaudas, vaiz­
-    duojantis Vytį su aplink neįskaitoma legenda.
-    PATS ALEKSANDRAS,
-    DIEVO MALONE DIDYSIS LIETUVOS,
-    RUSIOS, ŽEMAIČIŲ IR KITŲ
-    KUNIGAIKŠTIS
-    Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­
-    vilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi-
-    čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
-    čio iš miesto į Užupį, už Vilnelės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-005
-  santrauka: 'Mikalojus Radvila smogė priešams į sparną ir nulėmė mūšio sėkmę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Prasidėjo mūšis, ilgą laiką pergalė nekrypo nei
-    į vieną, nei į kitą pusę, nes abi šalys turėjo tiek pat
-    karių, abi buvo vienodai narsios. Vis dėlto Radvila ne­
-    galėjo sutikti, kad jo kariai visą laiką tik stebėtų kau­
-    tynes: smogęs priešams į sparną, jis nulėmė sėkmę.
-    Neilgai trukus priešai pasileido bėgti: žuvus karo kė­
-    lėjui, visi kaip vienas paspruko iš kovos lauko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-006
-  santrauka: 'Karalius Mikalojui Radvilai, Lietuvos maršalui, atidavė Raigardą ir Goniondzą iš Glinskio turto.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėlto neilgai trukus, patyrus jų nekaltumą,
-    abu broliai buvo karaliaus sprendimu paleisti. Glins­
-    kio turtai buvo perduoti karaliaus iždui, vėliau kara­
-    lius, remdamasis to paties seimo sprendimu, išdalijo
-    juos įvairiems asmenims, o Raigardą bei Goniondzą
-    atidavė Mikalojui Radvilai, Lietuvos maršalui. Kokia
-    netvirta buvo taika su Mask-
-    Maskvos pasiuntiniai
-    va, rodė ir tai, jog vienon
-    verčia abejoti suda-
-    bei kiton šalin dažnai turėjo
-    ryta talka
-    keliauti pasiuntinybės, nors
-    maskvėnai, siųsdami legatus,
-    niekad nieko nuoširdžiai nesiūlė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Be
-    to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­
-    čių fundacijos: Vilniaus vaivada ir LDK kancleris Mikalojus
-    Radvila, Aleksandro laikais, apie 1514 metus, ties Kłecku prieš
-    totorius pasiektai pergalei atminti savo žemėje už miesto ant
-    kalnelio prie Vilijos, pastatė bažnyčią Šv. Jurgio ir kartu Mer­
-    gelės Dievo Gimdytojos garbei. Po to pakvietė karmelitus ir
-    prie tos bažnyčios jiems pastatydino vienuolyną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-008
-  santrauka: '1560 m. vasario 12 d. Mikalojus Radvila iš Rotundo gavo jo Lietuvos istorijos rankraštį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
-    p. 128.
-    XVI
-
-    ## Puslapis 17
-
-    MYKOLAS B A L I N S K I S
-    niaus
-    MIESTO ISTORIJA
-    Haec omnia, quae credidi esse patriae necessaria,
-    quae scribere mihi fas erat, vobis exponere arbitror:
-    vestrum judicium, non de mea voluntate, sed de opere exoro.
-    „Visa, ką maniau būsiant reikalinga tėvynei ir
-    ką man derėjo parašyti, nutariau išdėstyti jums,
-    ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ —
-    Rotundas  (Augustinas Mieleckis), Vilniaus vaitas,
-    Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam
-    savąją Lietuvos istoriją, kurios rankraštis yra dingęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Lietuvos maršalas Mikalojus Radvila sutelkė kariuomenę ir palydėjo Jerim Berdį į skitų kraštą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Todėl ir Jerim Berdį iškilmingai paskelbė
-    teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
-    norėjęs tik pasityčioti, iškilmingai suteikdamas nieko
-    nereiškiantį titulą, pasiryžo visaip jį paremti ir sugrą­
-    žinti į valdžią. Jis įsakė Lietuvos maršalui Mikalojui
-    Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo­
-    menę ir su ja palydėti Jerim Berdį į Skitiją. Vykdyda­
-    mas šį įsakymą, Radvila ir patraukė į skitų kraštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-010
-  santrauka: 'Vilniaus vaivada Mikalojus Radvila dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Karalius
-    taip paskirstė senatorių
-    pareigas, kad vieni turėjo
-    pasiuntinius sutikti, priimti ir
-    T a ria m a si d ė l ta ik o s,
-    dosniai pavaišinti, o kiti —
-    b e t su sip y k sta m o
-    kalbėtis su jais apie valstybės
-    reikalus. Sutiko ir priėmė
-    maskvėnus pataurininkis Mikalojus Kiška, stalininkas
-    Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir
-    Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-
-    činskis ir Mikalojus Konča, o vedė derybas tokie orūs
-    vyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų
-    kaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis
-    Tiškevičius, maršalai Eustachijus Valavičius ir Jonas
-    Simkovičius, iždininkas Mikalojus Naruševičius, Lietu­
-    vos raštininkas Mykolas Garaburda. Kai prieita prie
-    pagrindinio derybų klausimo, maskvėnai atkakliausiai
-    pareikalavo amžinam Maskvos valdymui perduoti tai,
-    ką didysis kunigaikštis esąs užėmęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-011
-  santrauka: 'Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mirus Pranciškui Gonzagai, Mantujos kunigaikščiui, ši
-    našlavo tėvo Ferdinando rūmuose. Susitarus dėl šių
-    vestuvių, karalius išleido į Vieną pasiuntinybę, kurią
-    sudarė patys žymiausi lenkų bei lietuvių didikai, be
-    kitų, ir Vilniaus vaivada, Olykos bei Nesvyžiaus kuni­
-    gaikštis Mikalojus Radvila. Liepos mėnesį Krokuvoje
-    iškelta nepaprastai prabangios vestuvės, jose visi di­
-    dikai lyg susitarę stengėsi vienas kitą pralenkti apda­
-    rų puošnumu bei turtingumu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-012
-  santrauka: 'Mikalojus Radvila n eu žp u o lė L ivonijos, žinodam as, k ad ten g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją, sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės, Š klovo apylinkes.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tiesa, jis n eu žp u o lė L ivonijos, žinodam as, k ad  ten
-    g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti
-    tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją,
-    sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės,
-    Š klovo apylinkes. G avęs ap ie tai žinią, k araliu s A u g u s­
-    tas p ad alijo  sav o  jėg as į dv i dalis. K araly stės lau k o  e t­
-    m onui F lo rijo n u i Z ebžidovskiui įsak ė len k u s v esti į
-    Polocką, o M ik alo ju i R advilai tra u k ti su  lietu v iais link
-    Sm olensko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
 ## Citatos
 
 - id: c-169712
@@ -502,28 +214,6 @@ media_all_json: |-
   pagrindzia:
     - t-186354
 
-- id: c-169714
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 615"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 615."
-  citata_originali: |
-    Viską darė slaptomis, kaip neseniai
-    buvo susitarusi su Vasilijaus pasiuntiniais, tačiau, ži­
-    noma, neįstengė taip slaptai susitvarkyti, kad šio bei
-    to nebūtų suuodęs Vaitiekus Kločka, karalienės rūmi­
-    ninkas. Jis kuo greičiausiai iškvietė į Vilnių Mikalojų
-    Radvilą, Vilniaus vaivadą, ir Grigalių Astiką, Trakų
-    vaivadą. Pasitarę jiedu visiems pranešė, ką sumaniusi
-    karalienė, paremdami savo žodžius tikrais įrodymais.
-  citata_rodoma: "Viską darė slaptomis, kaip neseniai\nbuvo susitarusi su Vasilijaus pasiuntiniais, tačiau, ži­\nnoma, neįstengė taip slaptai susitvarkyti, kad šio bei\nto nebūtų suuodęs Vaitiekus Kločka, karalienės rūmi­\nninkas. Jis kuo greičiausiai iškvietė į Vilnių Mikalojų\nRadvilą, Vilniaus vaivadą, ir Grigalių Astiką, Trakų\nvaivadą. Pasitarę jiedu visiems pranešė, ką sumaniusi\nkaralienė, paremdami savo žodžius tikrais įrodymais."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186355
-
 - id: c-169715
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -550,16 +240,16 @@ media_all_json: |-
 - id: c-169716
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 397"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Prasidėjo mūšis, ilgą laiką pergalė nekrypo nei
-    į vieną, nei į kitą pusę, nes abi šalys turėjo tiek pat
-    karių, abi buvo vienodai narsios. Vis dėlto Radvila ne­
-    galėjo sutikti, kad jo kariai visą laiką tik stebėtų kau­
-    tynes: smogęs priešams į sparną, jis nulėmė sėkmę.
-    Neilgai trukus priešai pasileido bėgti: žuvus karo kė­
-    lėjui, visi kaip vienas paspruko iš kovos lauko.
+    Todėl ir Jerim Berdį iškilmingai paskelbė
+    teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
+    norėjęs tik pasityčioti, iškilmingai suteikdamas nieko
+    nereiškiantį titulą, pasiryžo visaip jį paremti ir sugrą­
+    žinti į valdžią. Jis įsakė Lietuvos maršalui Mikalojui
+    Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo­
+    menę ir su ja palydėti Jerim Berdį į Skitiją. Vykdyda­
+    mas šį įsakymą, Radvila ir patraukė į skitų kraštą.
   citata_rodoma: "Prasidėjo mūšis, ilgą laiką pergalė nekrypo nei\nį vieną, nei į kitą pusę, nes abi šalys turėjo tiek pat\nkarių, abi buvo vienodai narsios. Vis dėlto Radvila ne­\ngalėjo sutikti, kad jo kariai visą laiką tik stebėtų kau­\ntynes: smogęs priešams į sparną, jis nulėmė sėkmę.\nNeilgai trukus priešai pasileido bėgti: žuvus karo kė­\nlėjui, visi kaip vienas paspruko iš kovos lauko."
   statusas: verified
   teiginio_tipas: faktas
@@ -567,35 +257,8 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186357
-
-- id: c-169717
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 608"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 608."
-  citata_originali: |
-    Vis dėlto neilgai trukus, patyrus jų nekaltumą,
-    abu broliai buvo karaliaus sprendimu paleisti. Glins­
-    kio turtai buvo perduoti karaliaus iždui, vėliau kara­
-    lius, remdamasis to paties seimo sprendimu, išdalijo
-    juos įvairiems asmenims, o Raigardą bei Goniondzą
-    atidavė Mikalojui Radvilai, Lietuvos maršalui. Kokia
-    netvirta buvo taika su Mask-
-    Maskvos pasiuntiniai
-    va, rodė ir tai, jog vienon
-    verčia abejoti suda-
-    bei kiton šalin dažnai turėjo
-    ryta talka
-    keliauti pasiuntinybės, nors
-    maskvėnai, siųsdami legatus,
-    niekad nieko nuoširdžiai nesiūlė.
-  citata_rodoma: "Vis dėlto neilgai trukus, patyrus jų nekaltumą,\nabu broliai buvo karaliaus sprendimu paleisti. Glins­\nkio turtai buvo perduoti karaliaus iždui, vėliau kara­\nlius, remdamasis to paties seimo sprendimu, išdalijo\njuos įvairiems asmenims, o Raigardą bei Goniondzą\natidavė Mikalojui Radvilai, Lietuvos maršalui. Kokia\nnetvirta buvo taika su Mask-\nMaskvos pasiuntiniai\nva, rodė ir tai, jog vienon\nverčia abejoti suda-\nbei kiton šalin dažnai turėjo\nryta talka\nkeliauti pasiuntinybės, nors\nmaskvėnai, siųsdami legatus,\nniekad nieko nuoširdžiai nesiūlė."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186359
+    - t-186361
+    - t-196561
 
 - id: c-169718
   autorius: "Michał Baliński"
@@ -649,107 +312,53 @@ media_all_json: |-
   pagrindzia:
     - t-186358
 
-- id: c-169720
+- id: c-178767
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 397"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Todėl ir Jerim Berdį iškilmingai paskelbė
-    teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
-    norėjęs tik pasityčioti, iškilmingai suteikdamas nieko
-    nereiškiantį titulą, pasiryžo visaip jį paremti ir sugrą­
-    žinti į valdžią. Jis įsakė Lietuvos maršalui Mikalojui
-    Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo­
-    menę ir su ja palydėti Jerim Berdį į Skitiją. Vykdyda­
-    mas šį įsakymą, Radvila ir patraukė į skitų kraštą.
-  citata_rodoma: "Todėl ir Jerim Berdį iškilmingai paskelbė\nteisėtu valdovu; kad niekas nesakytų, jog jis iš draugo\nnorėjęs tik pasityčioti, iškilmingai suteikdamas nieko\nnereiškiantį titulą, pasiryžo visaip jį paremti ir sugrą­\nžinti į valdžią. Jis įsakė Lietuvos maršalui Mikalojui\nRadvilai skubiai sutelkti Lietuvos žemėse didelę kariuo­\nmenę ir su ja palydėti Jerim Berdį į Skitiją. Vykdyda­\nmas šį įsakymą, Radvila ir patraukė į skitų kraštą."
+    Nio­
+    kotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­
+    sos Volynės, vis dėlto dalis jų įsibrovė į Polesę, su­
+    keldami didelę baimę Slucko krašte ir smarkiai jį
+    nusiaubdami. Siaubėjus užtiko Lukošius Moravecas,
+    kuris su dviem šimtais pėstininkų visai atsitiktinai at­
+    sidūrė prie Slučės upės; nesitikėdamas galėsiąs atsi­
+    traukti, turėjo noromis nenoromis pasiryžti kovai; įsi­
+    rengęs pakrantėje stovyklą, jis užpuolė priešą ir jį
+    sumušė. Padėjo laimėti pergalę kunigaikštienės Anas­
+    tazijos pasiųsti į pagalbą raiteliai, kurie vijosi bėgan­
+    čiuosius ir juos žudė.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186361
+    - t-196562
 
-- id: c-169721
+- id: c-178768
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 735"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 735."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Karalius
-    taip paskirstė senatorių
-    pareigas, kad vieni turėjo
-    pasiuntinius sutikti, priimti ir
-    T a ria m a si d ė l ta ik o s,
-    dosniai pavaišinti, o kiti —
-    b e t su sip y k sta m o
-    kalbėtis su jais apie valstybės
-    reikalus. Sutiko ir priėmė
-    maskvėnus pataurininkis Mikalojus Kiška, stalininkas
-    Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir
-    Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-
-    činskis ir Mikalojus Konča, o vedė derybas tokie orūs
-    vyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų
-    kaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis
-    Tiškevičius, maršalai Eustachijus Valavičius ir Jonas
-    Simkovičius, iždininkas Mikalojus Naruševičius, Lietu­
-    vos raštininkas Mykolas Garaburda. Kai prieita prie
-    pagrindinio derybų klausimo, maskvėnai atkakliausiai
-    pareikalavo amžinam Maskvos valdymui perduoti tai,
-    ką didysis kunigaikštis esąs užėmęs.
-  citata_rodoma: "Karalius\ntaip paskirstė senatorių\npareigas, kad vieni turėjo\npasiuntinius sutikti, priimti ir\nT a ria m a si d ė l ta ik o s,\ndosniai pavaišinti, o kiti —\nb e t su sip y k sta m o\nkalbėtis su jais apie valstybės\nreikalus. Sutiko ir priėmė\nmaskvėnus pataurininkis Mikalojus Kiška, stalininkas\nMikalojus Dorogostaiskis, maršalai Jonas Valavičius ir\nJonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-\nčinskis ir Mikalojus Konča, o vedė derybas tokie orūs\nvyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų\nkaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis\nTiškevičius, maršalai Eustachijus Valavičius ir Jonas\nSimkovičius, iždininkas Mikalojus Naruševičius, Lietu­\nvos raštininkas Mykolas Garaburda. Kai prieita prie\npagrindinio derybų klausimo, maskvėnai atkakliausiai\npareikalavo amžinam Maskvos valdymui perduoti tai,\nką didysis kunigaikštis esąs užėmęs."
+    Skitas Mengli Girėjus, pakviestas už
+    mokamą atlyginimą į šį karo žygį, įsikūrė su kariais
+    netoli karaliaus stovyklos, tačiau nepradėjo kovoti
+    prieš maskvėnus, nors Ostrogiškis atkakliai reikalavo,
+    kad įsibrautų į Maskvos kunigaikštystę, mat jis iš
+    Maskvos valdovo irgi buvo gavęs nemaža pinigų. Ne­
+    trūko barbarui sumanumo deramai pateisinti savo ne­
+    veiklumą, nors, tiesą sakant, jis ketino užpulti tuos,
+    kurie pirmieji suklups mūšyje. Konstantinui laimėjus
+    kovą, pradėjo atvirai remti karalių ir netrukus patrau­
+    kė į Maskvos kunigaikštystę, nusiaubdamas didelius
+    plotus ir išsivesdamas šimtą tūkstančių belaisvių.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186350
-
-- id: c-169722
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 690"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 690."
-  citata_originali: |
-    Mirus Pranciškui Gonzagai, Mantujos kunigaikščiui, ši
-    našlavo tėvo Ferdinando rūmuose. Susitarus dėl šių
-    vestuvių, karalius išleido į Vieną pasiuntinybę, kurią
-    sudarė patys žymiausi lenkų bei lietuvių didikai, be
-    kitų, ir Vilniaus vaivada, Olykos bei Nesvyžiaus kuni­
-    gaikštis Mikalojus Radvila. Liepos mėnesį Krokuvoje
-    iškelta nepaprastai prabangios vestuvės, jose visi di­
-    dikai lyg susitarę stengėsi vienas kitą pralenkti apda­
-    rų puošnumu bei turtingumu.
-  citata_rodoma: "Mirus Pranciškui Gonzagai, Mantujos kunigaikščiui, ši\nnašlavo tėvo Ferdinando rūmuose. Susitarus dėl šių\nvestuvių, karalius išleido į Vieną pasiuntinybę, kurią\nsudarė patys žymiausi lenkų bei lietuvių didikai, be\nkitų, ir Vilniaus vaivada, Olykos bei Nesvyžiaus kuni­\ngaikštis Mikalojus Radvila. Liepos mėnesį Krokuvoje\niškelta nepaprastai prabangios vestuvės, jose visi di­\ndikai lyg susitarę stengėsi vienas kitą pralenkti apda­\nrų puošnumu bei turtingumu."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186360
-
-- id: c-176121
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 716"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 716."
-  citata_originali: |
-    Tiesa, jis n eu žp u o lė L ivonijos, žinodam as, k ad  ten
-    g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti
-    tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją,
-    sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės,
-    Š klovo apylinkes. G avęs ap ie tai žinią, k araliu s A u g u s­
-    tas p ad alijo  sav o  jėg as į dv i dalis. K araly stės lau k o  e t­
-    m onui F lo rijo n u i Z ebžidovskiui įsak ė len k u s v esti į
-    Polocką, o M ik alo ju i R advilai tra u k ti su  lietu v iais link
-    Sm olensko.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193398
+    - t-196563
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Malūnas]]

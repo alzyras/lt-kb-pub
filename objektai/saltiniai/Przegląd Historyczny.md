@@ -43,28 +43,6 @@ PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas žurn.
   teiginys: "„Przegląd Historyczny“ yra nuo 1910 m. Varšuvoje leidžiamas žurnalas."
   pagrindžia:
     - c-33699
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    PfiW = Pfltzner, J. : Großfürst Witold von Litauen als Staatsmann
-    (Schriften der Philosophischen Fakultät der Deutschen
-    Universität in Prag, t. 6), Brünnas-Praga-Leipcigas-Viena
-    1930 (liet. vertimas J. Talmanto, Didysis Lietuvos Kuni­
-    gaikštis Vytautas kaip politikas, Kaunas (Švietimo Ministe­
-    rijos Knygų Leidimo Komisijos leidinys), 1930 - Vytauto
-    Didžiojo metai).
-    PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas
-    žurn.
-    PHW = Przegląd Historyczno - Wojskowy.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

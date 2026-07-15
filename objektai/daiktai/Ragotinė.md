@@ -57,20 +57,7 @@ Nenurodyta
     - c-10271
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55086|Vilniaus miestiečių luomas]]: Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pačius ragus žvėrių vienus ant kesčių^159 galų maustė ir ragotines^160 dirbo sau ginklui, nesgi
-        geležies dar nežinojo, iš kitų gėrė, nuo ko iki šiolei geriamą stotkelį senu įpročiu taure, arba
-        taurage^161 , tebvadina.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Citatos
 

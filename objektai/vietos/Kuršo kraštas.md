@@ -35,8 +35,8 @@ Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska
   teiginys: "Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska ziemia ir vokišku Kuhrland."
   pagrindžia:
     - c-171843
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska ziemia ir vokišku Kuhrland.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -59,14 +59,16 @@ Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska
 - id: c-171843
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 109"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­
-    mę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-
-    ronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­
-    dina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­
-    nis pavadinimas.
+    Šneibratas (Sznejbrato)
+    Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo
+    aukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-
+    zwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų
+    Komovės šventykloje.
+    Prūsijos kronikininkai spėja, kad tai buvo sudievintas Pru-
+    lenis, taip pat sudievinto Vaidevučio brolis, vadintas Viršai­
+  citata_rodoma: "Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­\nmę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-\nronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­\ndina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­\nnis pavadinimas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

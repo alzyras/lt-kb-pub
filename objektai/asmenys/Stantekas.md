@@ -8,15 +8,15 @@ datos:
   - '1263 m.'
 date_start: '1262'
 date_end: '1263'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karys
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,8 +44,8 @@ Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, 
   teiginys: "Stantekas, sunkiai sužeistas susidūręs su sembų sargyba, pranešė maldininkams apie pasalą."
   pagrindžia:
     - c-61070
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Stantekas, sunkiai sužeistas susidūręs su sembų sargyba, pranešė maldininkams apie pasalą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -72,18 +72,21 @@ Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, 
 - id: c-61070
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 118"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šitai sužinojęs, Julicho
-    grafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai.
-    Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
-    vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,
-    atbėgo su kruvinu kalaviju rankose pranešti apie pasalą. Todėl maldininkai pasiruošė
-    kovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami,
-    jie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius,
-    subėgusius  į kaimą, kitados vadinamą Kalija, o dabar — Sklunija371, irgi įveikė, tiesa,
-      369 1262—1263 m. (Voigt.
+    Apie tai, kaip iš anksto buvo išpranašauta ši pergalė
+    Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas
+    Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą
+    už šiuos jo žodžius: švento Vincento dieną sembai būsią išžudyti. Kai tą dieną maldininkų
+    kariuomenė pradėjo trauktis, jis, apkaltintas melu, dar atkakliau laikėsi savo nuomonės
+    ir tarė: „Dar šiandien sembai bus išžudyti arba žemė pravers savo žiotis ir juos gyvus
+    praris nelyginant Dataną ir Abironą“. Šitaip ir įvyko, kaip buvo sakęs.
+    100 (95). Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių
+    Nė šis smarkus sukrėtimas neįvarė sembams proto ir nepaskatino jų sugrįžti į
+    šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš
+    viešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos
+    garsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su
+    šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.
   citata_rodoma: "Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;\nvienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,\natbėgo su kruvinu kalaviju rankose pranešti apie pasalą. Todėl maldininkai pasiruošė\nkovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami,\njie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius,\nsubėgusius  į kaimą, kitados vadinamą Kalija, o dabar — Sklunija371, irgi įveikė, tiesa,\n  369 1262—1263 m."
   statusas: verified
   teiginio_tipas: faktas

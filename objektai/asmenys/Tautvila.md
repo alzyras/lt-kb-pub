@@ -8,15 +8,15 @@ datos:
   - '1262 m.'
 date_start: '1262'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,7 +60,6 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
     - c-171510
 - susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
 - susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-188604|Prokopas]]: Narbutas Prokopą vaizduoja kaip Polocko kunigaikščio patikėtinį ir išdaviką, kurį Treniota pasiuntė į Polocką po Tautvilos nužudymo.
-- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121171|Tautvilas]]: Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.
 - susijęs iš [[objektai/grupes/Polockiečiai.md#claim-t-188291|Polockiečiai]]: Narbutas pasakoja, kad Treniota, bijodamas polockiečių ir Tautvilos sūnaus keršto, įkalino Polocko bajorus ir per Prokopą reikalavo nužudyti Joną.
 - susijęs iš [[objektai/asmenys/Patirgas.md#claim-t-96040|Patirgas]]: Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius.
 - susijęs iš [[objektai/grupes/Polocko bajorai ir ponai.md#claim-t-189528|Polocko bajorai ir ponai]]: Narbutas pasakoja, kad Treniota įkalino Polocko bajorus, o Jonas, gelbėdamas Polocko ponus, išjojo į Naugardą ir tapo vienuoliu.
@@ -69,56 +68,6 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 - susijęs iš Lietuva: Rygos vyskupas ir katedros klebonas manė, kad neišvarius Tautvilos iš Lietuvos lietuviai būtų priėmę krikštą.
 - susijęs iš Naugardas: Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    - • —
-    126
-
-    ## Puslapis 143
-
-    Il KNYGA
-    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
-    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
-    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­
-    toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie
-    Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­
-    čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­
-    fas Algardas34. Šitaip Kryžiuočių ordino kruvina politika
-    34
-    Strijkovskis prie nukautų tos
-    apsupties metu priskiria Nariman­
-    tą, įdėdamas šį D 1  u g o š o prasi­
-    manytą pasakojimą: „Narimantas,
-    Pinsko kunigaikštis, Jogailos tikras
-    brolis, tuo metu, kai narsiai abi pilis
-    su Lietuva ir Rusia gindamas ėjo į
-    pagalbą nuo vienų prie kitų, buvo
-    kažkokio vokiečio riterio, ne pras­
-    čioko, iš Vytauto pusės, iškviestas
-    stoti vienas prieš vieną, o kai abu iš
-    mūšio lauko atjoję į pievą narsiai su­
-    kryžiavo ietis, ir pats Narimantas,
-    nuo žirgo nublokštas, buvo sučiup­
-    tas ir atvestas pas Vytautą, pastara­
-    sis aną be gailesčio įsakė už kojų ant
-    vinkšnos šakos pakarti lankoje, tarp
-    vokiečių patrankų ir šaudyklių, o
-    patį mirtinai iš lanko paleista strėle
-    pervėrė, pamindamas deramas pus­
-    broliui, riteriui kunigaikščiui, prie­
-    dermes/7  Knyga XIII, p. 455, Varš.
-    leid.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas pasakoja, kad Kęstutis su žmona turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą, arba Žygimantą, ir dukterį Danutę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -139,28 +88,6 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Narbutas pasakoja, kad po Mindaugo žūties Polocko kunigaikštį Tautvilą per ginčą dėl grobio nužudė Treniota.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šiojo sūnus Liu­
-    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
-    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
-    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
-    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
-    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
-    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
-    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
-    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
-    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -217,18 +144,20 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 - id: c-171509
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
-    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
-    nė, būdama gyva, garsėjo savo kilniaširdiškumu.
+    Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30. Dabar, kai rašau,
+    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
+    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
+    minimo ir garbinimo apeigos.
+  citata_rodoma: "Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,\nSigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­\nnė, būdama gyva, garsėjo savo kilniaširdiškumu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -239,13 +168,12 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 - id: c-171510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 213"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šiojo sūnus Liu­
     tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
     Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
-    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
+    jo žudikai kunigaikščiai - Užgirio (Transilvaticus) Dauman­
     tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
     bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
     du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­

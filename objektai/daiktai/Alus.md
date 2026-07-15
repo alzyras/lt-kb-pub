@@ -71,7 +71,6 @@ Nenurodyta
 - susijęs iš Londonas: Narbutas Londono alų laikė ištobulinta senojo lietuviško alaus forma.
 - susijęs iš [[objektai/zodynas/Varianka.md#claim-t-195455|Varianka]]: Varianka šiame šaltinyje yra skysčiui perleisti vartojamo lovelio ar piltuvėlio pavadinimas.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas aiškina, kad alus senovės lietuviams buvo svarbiausias svaiginamasis gėrimas ir įėjo į slapiasias aukas arba vaišes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -96,65 +95,26 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas nurodo, kad duona ir alus buvo visų aukų pagrindas, naudojamas sutinkant ar išleidžiant svečius ir apeigose.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tačiau visų aukų pagrindas buvo
-    duona ir alus. Ar sutinkant ką nors, ar išleidžiant, duoną ir alų
-    aukodavo namų dievams ir vaišindavo jais svečią. Atnašau­
-    jant mažą auką namiškių susibūrime arba ant aukuro, kai bū­
-    davo atliekamos kokios nors apeigos, be duonos ir alaus ne­
-    būdavo galima apsieiti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Įvairiai ruošiant javus, lengva ap tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams, ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per ėjus fermentaciją, alus jau ir gatavas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Įvairiai ruošiant javus, lengva ap­
-    tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
-    ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per­
-    ėjus fermentaciją, alus jau ir gatavas. Iš tikrųjų turime įrody­
-    mų, kad mūsų šiaurės šalių gyventojai alaus darymo būdą ži­
-    nojo nuo seniausių laikų. Tuo klausimu išsamiai įtikina Cac-
-    kis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino
-    A e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -
-    Alus, latviai Alius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-172525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 306"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 306."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tą
-    patį dalyką plačiai dėstė mokslininkai Van-Dalė (Van-Dale)lr
-    taip pat grobiantis iš jo Fontenelis (Fontenete), kurio vertimą
-    turime gimtąja kalba.
-    IV
-    skyrius
-    APIE AUKAS
-    Šventieji gėrimai
-    Alus (Alus) senovės lietuviams visuomet buvo pirmutinis
-    ir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­
-    sias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę
-    kilme.
+    Bodajbym žyl dostatnie i przez moję czyny,
+    Zaslužyl bydž mieszkancem szczęšliwej krainy,
+    Gdzie Biaty napoj piją, ziotemi rogami,
+    Czerpiąc go z kadzi šwiętej, pospoiu z bogami.
+    Niešmiertelne dziewice špiewają w gaiku,
+    Sczęšcie, blogose, uciechy dziedziezą bez liku.
+    Tam rycerze polegli na wojnach straszliwych
+    I cienie wiecznie žyją przyjaciolprawdziwych.
+    (Kad aš gyvenčiau turtingas ir kad savo darbais
+    nusipelnyčiau gyventi laimingoje šalyje,
+    kur geria baltą gėrimą iš aukso ragų kartu su dievais,
+    semdami jį iš švento kubilo.
+  citata_rodoma: "Tą\npatį dalyką plačiai dėstė mokslininkai Van-Dalė (Van-Dale)lr\ntaip pat grobiantis iš jo Fontenelis (Fontenete), kurio vertimą\nturime gimtąja kalba.\nIV\nskyrius\nAPIE AUKAS\nŠventieji gėrimai\nAlus (Alus) senovės lietuviams visuomet buvo pirmutinis\nir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­\nsias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę\nkilme."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -165,8 +125,7 @@ Nenurodyta
 - id: c-172527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 310"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 310."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tačiau visų aukų pagrindas buvo
     duona ir alus. Ar sutinkant ką nors, ar išleidžiant, duoną ir alų
@@ -184,8 +143,7 @@ Nenurodyta
 - id: c-177007
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 307"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Įvairiai ruošiant javus, lengva ap­
     tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
@@ -194,7 +152,7 @@ Nenurodyta
     mų, kad mūsų šiaurės šalių gyventojai alaus darymo būdą ži­
     nojo nuo seniausių laikų. Tuo klausimu išsamiai įtikina Cac-
     kis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino
-    A e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -
+    A e l, Al, rusinai - Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -
     Alus, latviai Alius.
   statusas: verified
   teiginio_tipas: faktas

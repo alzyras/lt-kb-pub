@@ -56,31 +56,13 @@ Nenurodyta
   teiginys: "1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai."
   pagrindžia:
     - c-62895
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    42. Apie Konstantinopolio miesto atgavimą
-
-      1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį
-    buvo užėmę prancūzai ir Venecijos kariai [per Gallicos et Venetos] (Mart. p. 405).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-62895
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 233"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     42. Apie Konstantinopolio miesto atgavimą
 

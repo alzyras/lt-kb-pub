@@ -8,12 +8,12 @@ datos:
   - '1854 m.'
 date_start: '1854'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,48 +55,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   teiginys: "Narbutas teigia, kad yra žmogus Dievo siųstas iš dangaus, Jo lietuviškoje krūtinėje šventoji ugnis liepsnoja, - 8 Gazeta Warszawska."
   pagrindžia:
     - c-177074
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iki pat gyvenimo pabaigos M. Balinskis liko kritinio meto­
-    do, kurį jam dar jaunystėje įskiepijo istorikas J. Lelevelis, šali­
-    ninkas. Kituose Gazeta Warszawska spausdintuose straipsniuo­
-    se istorikas detaliai aprašė Vilniaus Archeologinės komisijos
-    veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė
-    istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­
-    šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis
-    supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
-    rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iki pat gyvenimo pabaigos M. Balinskis liko kritinio meto­
-    do, kurį jam dar jaunystėje įskiepijo istorikas J. Lelevelis, šali­
-    ninkas. Kituose Gazeta Warszawska spausdintuose straipsniuo­
-    se istorikas detaliai aprašė Vilniaus Archeologinės komisijos
-    veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė
-    istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­
-    šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis
-    supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
-    rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Narbutas teigia, kad yra žmogus Dievo siųstas iš dangaus, Jo lietuviškoje krūtinėje šventoji ugnis liepsnoja, - 8 Gazeta Warszawska.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -162,13 +122,16 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
 - id: c-177074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 9"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 9."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Yra žmogus Dievo siųstas iš dangaus,
-    Jo lietuviškoje krūtinėje šventoji ugnis
-    liepsnoja, -
-    8 Gazeta Warszawska. -  1854. -  Nr. 159.
+    LTI devynių tomų leidimas atėmė iš istori­
+    ko daug jėgų. Tuo pat metu jis baigė versti Migelio Servanteso
+    „Don Kichotą“ - mėgstamiausią savo romaną. „Servantesas
+    mane linksmino, linksmina ir domina, jaudina ir sustiprina;
+    pats nežinau, kaip mano protas - verčiant jį - juokiasi ir kaip
+    galėčiau sukaupti moralines jėgas apmąstyti ir suprasti praei­
+    tų amžių įvykius“* 10.
+  citata_rodoma: "Yra žmogus Dievo siųstas iš dangaus,\nJo lietuviškoje krūtinėje šventoji ugnis\nliepsnoja, -\n8 Gazeta Warszawska. -  1854. -  Nr. 159."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

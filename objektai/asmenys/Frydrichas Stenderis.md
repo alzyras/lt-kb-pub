@@ -28,15 +28,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
 
 ## Teiginiai
 
-<a id="claim-t-189992"></a>
-- t-001
-  global_id: t-189992
-  teiginys: "Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o paprastu girtuoklių globėjo epitetu."
-  pagrindžia:
-    - c-172875
-
 <a id="claim-t-189993"></a>
-- t-002
+- t-001
   global_id: t-189993
   teiginys: "Narbutas vertina, kad Stenderis savo latvių mitologijos straipsniuose pateikė klaidingas išvadas ir nutolo nuo esmės bei tiesos."
   pagrindžia:
@@ -64,67 +57,27 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     - c-172879
 
 <a id="claim-t-189998"></a>
-- t-006
+- t-002
   global_id: t-189998
   teiginys: "Narbutas, remdamasis Stenderiu, rašo, kad Latvijoje dar girdėti apie žynius, kurie buria, gydo ir patarinėja kerėjimo formulėmis."
   pagrindžia:
     - c-172881
 
-<a id="claim-t-194702"></a>
+<a id="claim-t-197396"></a>
+- t-006
+  global_id: t-197396
+  teiginys: "Frydrichas Stenderis išliejo, virto gryno aukso lašais."
+  pagrindžia:
+    - c-179165
+
+<a id="claim-t-197397"></a>
 - t-007
-  global_id: t-194702
-  teiginys: "Frydrichas Stenderis buvo paskutiniais savo smukimo metais, šito aiškiai nemini, kadangi šis seniausias religijos sluoksnis jau labai seniai virto Titanų giminės garbinimu, su kuriuo priviso įvairių dievų, kuriuos aprašyti buvo ankstesnių skyrių ir dar bus kitų šio 23 Stender."
+  global_id: t-197397
+  teiginys: "Frydrichas Stenderis verčia Angularis, taigi turėjo būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19."
   pagrindžia:
-    - c-177098
+    - c-179166
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o paprastu girtuoklių globėjo epitetu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
-    dangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­
-    eina Bubbulis -  paims, pagriebs“. Jį taip pat vadino Tiimpus,
-    lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai
-    buvo paprastas girtuoklių globėjo epitetas. Kadangi to dievo
-    L
-    99
-
-    ## Puslapis 99
-
-    stabas ar kažkoks keistas jo atvaizdas per jo šventę, švenčiamą
-    vasario mènes j, buvo vežiojamas rogėmis iš kaimo j kaimą, o
-    lietuvių kalba rogės vadinamos Ragutas, todėl tinkamiausia
-    būtų išvada, kad ir tas dievas Ragutis plačiausiai buvo vadina­
-    mas vardu, kilusiu iš to žodžio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas vertina, kad Stenderis savo latvių mitologijos straipsniuose pateikė klaidingas išvadas ir nutolo nuo esmės bei tiesos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Beje, labai gali būti,
-    kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
-    būdindama dievybių lytį, bet ne čia esmė; tai lengvai ištaiso­
-    ma, jeigu tik atsirastų kokių nors žinių apie šį dalyką.
-    Latviai žinojo šią dievybę kaip Pilviką (Pelwihkse), kitaip
-    Szkahde. Stenderis, tuose savo latvių mitologijos straipsniuo­
-    se saviškai pateikdamas klaidingas išvadas, nutolsta nuo es­
-    mės ir tiesos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Narbutas nurodo Stenderio pastabą, kad latviai turėjo deivę Dyžą arba Dyszą, kuri savybėmis atitikusi Pergrubę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -182,82 +135,12 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   pagrindžia:
     - t-005
 
-- c-006
-  santrauka: 'Narbutas, remdamasis Stenderiu, rašo, kad Latvijoje dar girdėti apie žynius, kurie buria, gydo ir patarinėja kerėjimo formulėmis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tai tam tikri žyniai; jie kerėjimo formulė­
-    mis ir kitomis apgavikiškomis išmonėmis patarinėja įvairiais
-    klausimais, buria, gydo žmones ir gyvulius. Tokie žyniai, mo­
-    kantys pagarsėti, pritraukia lengvatikius iš tolimesnių ir arti­
-    mesnių apylinkių ir patys, be abejo, savęs nenuskriaudžia. Lat­
-    vijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Frydrichas Stenderis buvo paskutiniais savo smukimo metais, šito aiškiai nemini, kadangi šis seniausias religijos sluoksnis jau labai seniai virto Titanų giminės garbinimu, su kuriuo priviso įvairių dievų, kuriuos aprašyti buvo ankstesnių skyrių ir dar bus kitų šio 23 Stender.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šito liekanas pastebime lietuvių mitologijoje. Tiesa,
-    kronikininkai, aprašinėjantys lietuvių genties tautų religiją, ko­
-    kia ji buvo paskutiniais savo smukimo metais, šito aiškiai ne­
-    mini, kadangi šis seniausias religijos sluoksnis jau labai seniai
-    virto Titanų giminės garbinimu, su kuriuo priviso įvairių die­
-    vų, kuriuos aprašyti buvo ankstesnių skyrių ir dar bus kitų šio
-    23 Stender. Lettische Grammatik,
-    184
-
-    ## Puslapis 184
-
-    „Lietuvių tautos istorijos“ pirmojo tomo skyrių uždavinys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 ## Citatos
-
-- id: c-172875
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
-    dangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­
-    eina Bubbulis -  paims, pagriebs“. Jį taip pat vadino Tiimpus,
-    lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai
-    buvo paprastas girtuoklių globėjo epitetas. Kadangi to dievo
-    L
-    99
-
-    ## Puslapis 99
-
-    stabas ar kažkoks keistas jo atvaizdas per jo šventę, švenčiamą
-    vasario mènes j, buvo vežiojamas rogėmis iš kaimo j kaimą, o
-    lietuvių kalba rogės vadinamos Ragutas, todėl tinkamiausia
-    būtų išvada, kad ir tas dievas Ragutis plačiausiai buvo vadina­
-    mas vardu, kilusiu iš to žodžio.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189992
 
 - id: c-172876
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 126"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Beje, labai gali būti,
     kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
@@ -277,14 +160,19 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
 - id: c-172877
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 131"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
-    gėlių ir vaismedžių sodas.
-    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
-    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
-    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
+    Švento Jono, Kalėdų, Švenčiau­
+    siosios mergelės į dangų ėmimo šventės, vadinamos Žolinės
+    atlaidais, proga neša pašventinti žoles, daržoves, vaisius ir juos
+    laiko, kad saugotų namus nuo piktų dvasių; jų dūmais nuveja­
+    mos šalin kai kurios ligos, atnešamos blogų vėjų, krušos ir žai­
+    bų debesys, tokių žolių ryšelis įnirusiems įdedamas į pagalvę
+    ir atliekami įvairūs kerėjimai, kurie yra senųjų Pergrubės gar­
+    binimo apeigų liekanos.
+    Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
+    pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.
+  citata_rodoma: "Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -\ngėlių ir vaismedžių sodas.\nStenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­\ndino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-\ngrubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -297,15 +185,14 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pušaitis (Puschajtis)
-    Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
-    vadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16
-    16 Stender, Lettische Grammatik.
-    179
-
-    ## Puslapis 179
-
-    po alyvų krūmais.
+    Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
+    pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­
+    teikia Upsalos arkivyskupo Olafo, Agripos ir kitų lengvatikių,
+    kaip ir jis pats, rašytojų liudijimus, nes sako: „Kurše, Livonijo­
+    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
+    R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
+    garbinamas Pušaitis ir barstukai18“.
+  citata_rodoma: "Pušaitis (Puschajtis)\nPožemio dievaitis, engiamų vargšų gynėjas, nykštukų,\nvadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16\n16 Stender, Lettische Grammatik.\n179\n\n## Puslapis 179\n\npo alyvų krūmais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -316,16 +203,17 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
 - id: c-172879
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jiems nusilenkdavo pats Pušaitis, prašydamas
-    kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
-    jus nuo nelaimingų žmonių engimo.
-    Barstukai (Barstuki)
-    Požemio dievaičiai, nykštukai. Tą vardą Stenderis išveda
-    iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
-    ke -  lėlė.
+    Rytojaus dieną ūkininkai žiūri, kurio valgio dau­
+    giau suvalgyta: jeigu duonos, vadinasi, dievaičiai pagausins
+    jiems javų; jeigu mėsos, - seksis su gyvulių prieaugliu ir 1.1.; o
+    to valgio, kuris jiems buvo gardžiausias, per kitas šventes de­
+    da daugiau, negu buvo per ankstesnes, prašydami, kad pagau­
+    sintų javų. Taip pat pasakoja, kad barstukai iš kitų ūkininkų,
+    kuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus
+    ir neša tiems, kurie jiems geresni.
+  citata_rodoma: "Jiems nusilenkdavo pats Pušaitis, prašydamas\nkaimiečių vardu, idant markopoliai sulaikytų savo garbinto­\njus nuo nelaimingų žmonių engimo.\nBarstukai (Barstuki)\nPožemio dievaičiai, nykštukai. Tą vardą Stenderis išveda\niš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-\nke -  lėlė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -336,8 +224,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
 - id: c-172881
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 299"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 299."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai tam tikri žyniai; jie kerėjimo formulė­
     mis ir kitomis apgavikiškomis išmonėmis patarinėja įvairiais
@@ -352,26 +239,43 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   pagrindzia:
     - t-189998
 
-- id: c-177098
+- id: c-179165
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šito liekanas pastebime lietuvių mitologijoje. Tiesa,
-    kronikininkai, aprašinėjantys lietuvių genties tautų religiją, ko­
-    kia ji buvo paskutiniais savo smukimo metais, šito aiškiai ne­
-    mini, kadangi šis seniausias religijos sluoksnis jau labai seniai
-    virto Titanų giminės garbinimu, su kuriuo priviso įvairių die­
-    vų, kuriuos aprašyti buvo ankstesnių skyrių ir dar bus kitų šio
-    23 Stender. Lettische Grammatik,
-    184
-
-    ## Puslapis 184
-
-    „Lietuvių tautos istorijos“ pirmojo tomo skyrių uždavinys.
+    Minėtasis vyras, išvykdamas į kelio­
+    nes po įvairias šalis, pametė ją visiems laikams. Labai sukrės­
+    ta šio nutikimo, deivė klaidžiojo visur, ieškodama neištikimo
+    vyro; gailios ašaros, kurias ji išliejo, virto gryno aukso lašais.
+    Skandinavai taip pat manė, kad dėl tos kelionės deivė Frėja
+    tapo žinoma įvairiuose kraštuose ir buvo garbinama įvairių
+    tautų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194702
+    - t-197396
+
+- id: c-179166
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Atikoje Krono šventė buvo švenčiama Krono garbei he-
+    katombajono (Hekatombeon) mėnesį, kurį anksčiau vadino
+    Krono mėnesiu (Kronius).
+    Užsparinė (Usparinia)
+    Tai buvo žemės ribų deivė, globojanti kampinius kaupus
+    arba sergėjanti sienų neliečiamumą; jų nepažeidžiamumas lie­
+    tuviams buvo šventenybė.
+    Lasickio, aišku, su klaida užrašyta Aspelenie (Užpelenė),
+    nes tą vardą į lotynų kalbą jis verčia Angularis, taigi turėjo
+    būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197397

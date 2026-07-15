@@ -7,6 +7,8 @@ datos:
   - '1279 m.'
 date_start: '1279'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,8 +16,6 @@ tags:
   - vieta
   - pilis
   - žemė
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -79,65 +79,6 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 - susijęs iš Pasarė: Brunsbergo pilis ir miestas buvo pastatyti Pasarės, vadintos Serijos upe, žemupyje esančioje saloje.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58805|pilėnas pilėnai]]: Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasak Dusburgiečio, kai kurių teigimu Varmėje ilgainiui buvo pastatytos Brunsbergo ir Heilsbergo pilys.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
-    nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė
-    tikėjimui ir broliams254. Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir
-    atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu
-    Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257
-    ir Rezlio258. Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
-    ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
-    daug brolių ir ginklanešių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: '1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur jie stovėjo Dusburgiečio laikais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Išgirdę, kad pilis ir miestas
-    sudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,
-    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar
-    tebestovi415. Vos atvykęs  po konsekracijos  į savo vyskupystę, šis vyskupas gavo per
-    metus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  santrauka: 'Anzelmas, Varmės vyskupas ir Teutonų ordino brolis, pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    140 (135). Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
-                                          lies bei miesto paėmimą
-
-      Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
-    pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo
-    tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele
-    kariuomene ją apsupo, visą dieną smarkiai puolė. Jiems narsiai pasipriešino miestiečiai
-    ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
-    tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-004
   santrauka: 'Brunsbergas, dabartinis Branevas, buvo Pasarės žemupyje, o pilis stovėjo žemiau dabartinio miesto, arčiau Aismarių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -158,8 +99,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 - id: c-59015
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
     nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė
@@ -180,13 +120,12 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 - id: c-59016
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Išgirdę, kad pilis ir miestas
     sudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,
-    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar
-    tebestovi415. Vos atvykęs  po konsekracijos  į savo vyskupystę, šis vyskupas gavo per
+    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur ji ir dabar
+    tebestovi415. Vos atvykęs  po konsekracijos į savo vyskupystę, šis vyskupas gavo per
     metus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas.
   citata_rodoma: "Valdovas Henrikas, Varmės vyskupas, vėliau,\n1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar\ntebestovi415. Vos atvykęs  po konsekracijos  į savo vyskupystę, šis vyskupas gavo per\nmetus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas."
   statusas: verified
@@ -199,13 +138,11 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 - id: c-59017
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     140 (135). Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
-                                          lies bei miesto paėmimą
-
-      Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
+    lies bei miesto paėmimą
+    Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
     pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo
     tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele
     kariuomene ją apsupo, visą dieną smarkiai puolė. Jiems narsiai pasipriešino miestiečiai
@@ -222,12 +159,16 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 - id: c-59018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    259 Brunsbergas (Braunsbergas, dab. Branevas) — Pasarės (dab. Paslenka) žemupyje.
-    Pilis (anksčiau — prūsų, vėliau — kryžiuočių) stovėjo kiek žemiau dab. miesto, arčiau
-    Aismarių.
+    į jo šventenybę popiežių. Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
+    Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo
+    žmonių krito kovoje262. Šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė
+    mūsų minėtus brolius Gerlachą ir Joną šventosios Marijos Teutonų namų ligoninės ordino
+    drabužiais, duodamas jiems baltą apsiaustą su juodu kryžiumi ir įsakydamas jiems bei
+    kitiems to paties Kristaus karių ordino broliams, esantiems Livonijoje, vilkėti Teutonų
+    namų ordino vienuoliškais drabužiais ir šitaip pelnytis visų nuodėmių atleidimą263 (1236).
+  citata_rodoma: "259 Brunsbergas (Braunsbergas, dab. Branevas) — Pasarės (dab. Paslenka) žemupyje.\nPilis (anksčiau — prūsų, vėliau — kryžiuočių) stovėjo kiek žemiau dab. miesto, arčiau\nAismarių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

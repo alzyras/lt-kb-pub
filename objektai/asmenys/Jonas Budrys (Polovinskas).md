@@ -40,25 +40,6 @@ Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polo
 - susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-26842|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
 - susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-183468|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
 - susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-77785|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvai liko sukilimo inscenizacijos
-    scenarijus. Abipusis psichologinis atotrūkis akivaizdus – E. Galvanauskas
-    ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovins-
-    kas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš
-    lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį,
-    nes... nelaikė to kova už tėvynę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-26672

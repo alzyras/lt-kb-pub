@@ -41,33 +41,12 @@ Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negę
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188255|Lietuviai]]: Narbutas rašė, kad lietuviai Perkūną garbino iškilmingomis apeigomis, jam skirdami miškelius ir puošnias šventyklas.
 - susijęs iš [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei.md#claim-t-62686|Kreipimasis į dievus per krivį ir pagarba krivūlei]]: Krivio pasiuntinys, keliaudamas su krivūle ar kitu žinomu ženklu, sulaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.
 - susijęs iš [[objektai/zodynas/krivis krivė krivaitis.md#claim-t-58815|krivis krivė krivaitis]]: Krivio pasiuntinys su krivūle ar kitu žinomu ženklu susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Toks didelis buvo jo autoritetas,
-    kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu
-    kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
-    iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
-    senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,
-    žinoma, [tikėjo] ne taip, kaip dera.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59769
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 68"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Toks didelis buvo jo autoritetas,
     kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu

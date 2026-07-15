@@ -53,6 +53,7 @@ Nenurodyta
   teiginys: "Rankų darbo daiktas, kurį kerdžius padirbdavo iš eglės šaknų."
   pagrindžia:
     - c-177701
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

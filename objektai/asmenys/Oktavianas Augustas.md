@@ -42,28 +42,8 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
   teiginys: "Narbuto pasakojime Dionyzas iš Charakso imperatoriaus Oktaviano Augusto laikais geografiškai aprašė pasaulį ir minėjo Pantikapo bei Aldeskos upes."
   pagrindžia:
     - c-174847
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto amžininku, tik kiek jaunesniu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip ir baigėsi tą sykį dvie­
-    jų tautų tarpusavio karai3. Iš tiesų chronologai nesutaria
-    tarpusavyje, kuriais metais pradėjo valdyti Protonas I;
-    tačiau iš chronologinių apskaičiavimų aišku, kad jis buvęs
-    beveik Romos imperatoriaus Oktaviano Augusto amžinin­
-    kas, tik kiek jaunesnis. Vadinasi, šis istorinis įvykis tu­
-    rėjęs būti I krikščioniškosios eros amžiaus pirmojoje pu­
-    sėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbuto pasakojime Dionyzas iš Charakso imperatoriaus Oktaviano Augusto laikais geografiškai aprašė pasaulį ir minėjo Pantikapo bei Aldeskos upes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -90,8 +70,7 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
 - id: c-174182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 239"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip ir baigėsi tą sykį dvie­
     jų tautų tarpusavio karai3. Iš tiesų chronologai nesutaria
@@ -111,18 +90,20 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
 - id: c-174847
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 211"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Be šių įrodymų, turime ir seno­
-    vės autorių paliktų, ir naujų laikų tyrimais patvirtintų
-    paminklų. Dionyzas iš Charakso, imperatoriaus Oktaviano
-    Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi
-    upes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,
-    jungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be
+    Tai, be
     abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
     tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
-    nės sutampa.
+    nės sutampa. Sis geografas pastarosios aukštupyje kuo
+    aiškiausiai apgyvendina gelonų tautą2. Naruševičius taip
+    pat patvirtina tai daugelyje savo darbų3. Pats Ptolemėjas,
+    kuris šį sykį mini toje žemėje gyvenančią igelonų tautą,
+    1 Zelva — lietuviškas pavadinimas — taip pat kartojasi ne
+    vienoje vietoje. Mes nesigilinsime į upių pavadinimų etimologinį ty­
+    rimą, nes tai mus nuvestų toli nuo pageidaujamo trumpumo; tai pa­
+    liekame lietuvių kalbos ir jos ištakų tyrinėtojams.
+  citata_rodoma: "Be šių įrodymų, turime ir seno­\nvės autorių paliktų, ir naujų laikų tyrimais patvirtintų\npaminklų. Dionyzas iš Charakso, imperatoriaus Oktaviano\nAugusto laikais aprašinėjęs pasaulį geografiškai, mini dvi\nupes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,\njungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be\nabejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­\ntojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­\nnės sutampa."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

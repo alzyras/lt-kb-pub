@@ -35,30 +35,13 @@ Tarp Palangos ir Liepojos minima Šventoji (Šwięta) yra upė, įtekanti į jū
   teiginys: "Tarp Palangos ir Liepojos minima Šventoji (Šwięta) yra upė, įtekanti į jūrą."
   pagrindžia:
     - c-171980
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tarp Palangos ir Liepojos minima Šventoji (Šwięta) yra upė, įtekanti į jūrą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    3. Tarp Palangos ir Liepojos yra Šventoji (Šwięta) upė, įte­
-    kanti į jūrą. Atrodo, Žemaitijoje šitaip vadinami dar keli ma­
-    žesni upeliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-171980
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 228"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     3. Tarp Palangos ir Liepojos yra Šventoji (Šwięta) upė, įte­
     kanti į jūrą. Atrodo, Žemaitijoje šitaip vadinami dar keli ma­

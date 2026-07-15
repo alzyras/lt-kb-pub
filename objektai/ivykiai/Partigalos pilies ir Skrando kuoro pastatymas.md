@@ -51,33 +51,13 @@ Nenurodyta
   teiginys: "Varmės galingieji Gubučiai sutelkė daug karių, pastatė Partigalos pilį ir Skrando kalne įrengė kuorą."
   pagrindžia:
     - c-87559
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Varmės galingieji Gubučiai sutelkė daug karių, pastatė Partigalos pilį ir Skrando kalne įrengė kuorą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    23. Apie Partigalos pilies ir Skrando kuoro pastatymą
-
-      Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams;
-    jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą
-    [propugnaculum[ Skrando kalne250, sustiprinę  jį visokiais  kariais. Šie kasdien taip
-    puldinėjo Baigos pilies brolius, kad niekas nedrįso rodytis už pilies sienų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-87559
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     23. Apie Partigalos pilies ir Skrando kuoro pastatymą
 

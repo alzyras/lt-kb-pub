@@ -35,22 +35,6 @@ Stiprėjo Lietuvos žaliųjų judėjimas.
   teiginys: "Stiprėjo Lietuvos žaliųjų judėjimas."
   pagrindžia:
     - c-22655
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Juozaitis, Vytautas Radžvilas ir kiti sąjūdininkai. Stiprėjo Lietuvos žaliųjų
-    judėjimas.
-    LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsi-
-    lankymas Lietuvoje rugpjūčio 11–12 dienomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

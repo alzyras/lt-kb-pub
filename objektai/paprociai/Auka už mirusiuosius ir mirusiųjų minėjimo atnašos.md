@@ -52,21 +52,21 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-187991"></a>
-- t-001
-  global_id: t-187991
-  teiginys: "Narbutas mini auką už mirusius bičiulius, kai smilkymas kartais užbaigdavo Vėlinių iškilmes."
-  pagrindžia:
-    - c-171000
-
 <a id="claim-t-194621"></a>
 - t-002
   global_id: t-194621
   teiginys: "Atnašaujant dideles aukas, būdavo ir laidotuvių lauže sudeginama daug dalykų, net ir gyvi žmonės."
   pagrindžia:
     - c-177020
-## Reikšmingi paminėjimai
 
+<a id="claim-t-187991"></a>
+- t-001
+  global_id: t-187991
+  teiginys: 'Narbutas mini auką už mirusius bičiulius, kai smilkymas kartais užbaigdavo Vėlinių iškilmes.'
+  pagrindžia:
+    - c-171000
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini auką už mirusius bičiulius, kai smilkymas kartais užbaigdavo Vėlinių iškilmes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -92,57 +92,12 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Atnašaujant dideles aukas, būdavo ir laidotuvių lauže sudeginama daug dalykų, net ir gyvi žmonės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ant žemės būda­
-    vo nuliejama dalis gėrimų ir viralų, po stalu numesdavo mė­
-    sos naminiams plėšrūnams, nunešdavo į kapus. Atnašaujant
-    dideles aukas, būdavo ir laidotuvių lauže sudeginama daug
-    dalykų, net ir gyvi žmonės. Minėdami žuvusiuosius kare, de­
-    gindavo belaisvius arba paimtus gyvulius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
-
-- id: c-171000
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Dar būdavo tokia
-    auka, kai smilkydavo už mirusius bičiulius; ja kartais baigda­
-    vosi Vėlinių iškilmės. Strijkovskis sako: „Kai jau reikia pradė­
-    15 istorikų pranešimai.
-    317
-
-    ## Puslapis 317
-
-    ti valgyti, vyresnysis šeimininkas pasemia šaukštu įvairių javų
-    miltų, draskos ir 1.1., taip pat paima smilkalų ir pasmilkęs ta­
-    ria: „Ažu visu mus prietelius mūsų“ (Ažii wissumos priatelos
-    musu). Tada valgo ir geria net per daug; puota baigiasi senovi­
-    nėmis dainomis“.
-  citata_rodoma: "Dar būdavo tokia\nauka, kai smilkydavo už mirusius bičiulius; ja kartais baigda­\nvosi Vėlinių iškilmės. Strijkovskis sako: „Kai jau reikia pradė­\n15 istorikų pranešimai.\n317\n\n## Puslapis 317\n\nti valgyti, vyresnysis šeimininkas pasemia šaukštu įvairių javų\nmiltų, draskos ir 1.1., taip pat paima smilkalų ir pasmilkęs ta­\nria: „Ažu visu mus prietelius mūsų“ (Ažii wissumos priatelos\nmusu). Tada valgo ir geria net per daug; puota baigiasi senovi­\nnėmis dainomis“."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187991
 
 - id: c-177020
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 316"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 316."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ant žemės būda­
     vo nuliejama dalis gėrimų ir viralų, po stalu numesdavo mė­

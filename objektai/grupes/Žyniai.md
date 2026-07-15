@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę. Tuomet žyniai nakčia kreipdavosi į ugnį, o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy venti, šešėlis stovėdavęs veidu.
+Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę. Tuomet žyniai nakčia kreipdavosi į ugnį, o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy venti, šešėlis stovėdavęs veidu. Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lygašonys per laidotuves sakydavo kalbas, garbstydami mirusiojo žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai tą ant.
 
 ## Teiginiai
 
@@ -42,6 +42,13 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   teiginys: "Tuomet žyniai nakčia kreipdavosi į ugnį, o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy venti, šešėlis stovėdavęs veidu."
   pagrindžia:
     - c-177005
+
+<a id="claim-t-197228"></a>
+- t-003
+  global_id: t-197228
+  teiginys: "Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lygašonys per laidotuves sakydavo kalbas, garbstydami mirusiojo žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai tą ant."
+  pagrindžia:
+    - c-179075
 - susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190039|Adomas Bremenietis]]: Narbutas cituoja Adomą Bremenietį apie Upsalos žynius, kurie esą buvo įpratę tarnauti piktosioms dvasioms.
 - susijęs iš [[objektai/asmenys/Alepas.md#claim-t-187912|Alepas]]: Narbutas vaizduoja Alepą kaip pasprukusį nuo žynių ir liaudies, kuriuos vadina užsispyrusiais savasties gynėjais, ir pabėgusį pas kryžiuočius.
 - susijęs iš [[objektai/asmenys/Bolloysos.md#claim-t-190138|Bolloysos]]: Narbutas polemikoje mini Bolloysos kaip vieną vyriausiųjų žynių vardų, kurie kritikui kėlė įtarimą ir skambėjo neprūsiškai.
@@ -85,6 +92,7 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 - susijęs iš [[objektai/asmenys/Alepas.md#claim-t-190647|Alepas]]: Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10677|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 m. Gediminas laiškais kvietė į Lietuvą amatininkus, pirklius, žemdirbius ir riterius.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176365|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino laiškai Liubekui, Bremenui, Kelnui, kitiems Europos miestams ir vienuolių ordinams turėjo platų tarptautinį atgarsį.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188530|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Lizdeika, gyvenęs Gedimino laikais, apie 1318 m. patarė įkurti Vilnių.
 - susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-187907|Gerimantas]]: Narbutas perteikia Mitrofano Pinskiečio metraščio pasakojimą, kad Gerimantas sumanė statyti šventyklą, o Šventaragis 1263 m. klausė orakulo dėl jos ateities.
 - susijęs iš [[objektai/asmenys/Gintautas.md#claim-t-190067|Gintautas]]: Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mirė 1414 m. liepos 28 d. ir buvęs 74-asis eilėje.
 - susijęs iš [[objektai/asmenys/Jargallo.md#claim-t-190229|Jargallo]]: Narbutas mini kritiko teiginį, kad Jargallo, Jaygello ir Pomoloys esą aiškiai lietuviški vardai.
@@ -152,8 +160,6 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 - susijęs iš Kukovaičio kalnas: Narbutas, remdamasis Strijkovskiu, rašo, kad ant Kukovaičio kalno buvusi dievams skirta giraitė ir Kukovaičio stabas.
 - susijęs iš Romovė prie Dviupio ežero: Narbutas spėja, kad Romovė prie Dviupio ežero kurį laiką galėjusi būti didelė šventykla.
 - susijęs iš Upsala: Narbutas Upsalos šventovę lygino su Romove, nes joje, remiantis Adomu Bremenietiu, stovėjo trijų vyriausiųjų dievų stabai.
-- susijęs iš Vilnius: Iki 1565 m. Žygimanto Augusto lėšomis pagamintų ginklų ir amunicijos dalis buvo palikta Vilniuje, o kita išsiųsta į pilis.
-- susijęs iš Vilnius: Miestuose, ypač Vilniuje, kur mišrai gyveno katalikai su protestantais, kildavo visokių nesusipratimų ir muštynių.
 - susijęs iš Vilnius: Narbutas rašė, kad žiniose apie Vilniaus Perkūno šventyklą minimas Nemuno žemupyje buvęs pranašas, klaustas apie jos likimą.
 - susijęs iš Šventamiestis Heiligenbeilis: Narbutas Šventamiestyje, vėliau Heiligenbeilyje, mini žiemą ir vasarą žaliavusį nepaprasto storumo ąžuolą.
 - susijęs iš [[objektai/zodynas/Daugiadievystė.md#claim-t-189220|Daugiadievystė]]: Narbutas daugiadievystę pristatė kaip senovės tautų tikybos klaidą ir nuo jos pradėjo svarstymą apie religinius vaizdinius.
@@ -163,7 +169,6 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 - susijęs iš [[objektai/zodynas/Užuotas ąžuolas.md#claim-t-189121|Užuotas ąžuolas]]: Narbutas spėjo, kad senovės žyniai galėjo dirbtinai apauginti šventąjį ąžuolą amalu, kad jo vainikas žaliuotų ir žiemą.
 - susijęs iš [[objektai/zodynas/Žvaigždininkas Zwajždinikas.md#claim-t-189352|Žvaigždininkas Zwajždinikas]]: Narbutas žvaigždininką (Zwajždinikas) sieja su pranašavimu iš žvaigždžių ir liaudies padavimuose prilygina juodaknygininkui.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -187,47 +192,27 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Tuomet žyniai nakčia kreipdavosi į ugnį, o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy venti, šešėlis stovėdavęs veidu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vėliau
-    jis aptikęs, kad žmonės garbinę ugnį ir vadinę ją Amžinąja.
-    Prie šventovių gyvenančių žynių darbas buvo rūpintis ku­
-    ru, kad ugnis niekad neužgestų. Bičiuliai teiraudavosi žynių,
-    ar ligoniai išliks gyvi. Tuomet žyniai nakčia kreipdavosi į ugnį,
-    o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę
-    ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba
-    mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy­
-    venti, šešėlis stovėdavęs veidu į ugnį; priešingai, jeigu pasiro­
-    dydavo nugara į ugnį, neabejotinai laukė mirtis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 453"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jeronimas įtikino, kad tai apgavystė, sugriovė
-    šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­
-    liaudamas toliau, atrado saulės garbintojus; jie ypač garbino
-    didžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­
-    mas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,
-    kadangi vienas galingas karalius pagrobęs ją laikė uždarytą
-    tvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo
-    didžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­
-    gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
-    tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
-    no paviete, kur lietuviai gyvena, ir Trakų.
+    akimirką, užsimojęs kirviu į medį milžiną, minios padedamas,
+    su didžiausiu trenksmu nuvertė jį ir iškirto visą giraitę. Tame
+    krašte buvo daug vienodai garbinamų giraičių; kai tik Jeroni­
+    mas susiruošdavo jas kirsti, nesuskaičiuojamos verkiančių ir
+    aimanuojančių moterų minios atbėgdavo skųstis Vytautui, kad
+    kertami šventi miškai ir iš dievų atimamas prieglobstis. Žmo­
+    nės melsdavę jų dieviškosios pagalbos, kai iškildavęs reikalas,
+    o dabar nežiną, kurioje vietoje ieškoti dievo. Tas pats Jeroni­
+    mas, svetimšalis, trokštąs išnaikinti šventyklas, orakulus ir dievų
+    stabus, per ką dievai paprastai bendraudavę su žmonėmis, įve­
+    dęs kažkokias naujas paslaptis, o protėvių papročius norįs iš­
+    guiti, todėl jie prašydavo ir maldaudavo, kad neleistų naikinti
+    protėvių tikėjimo.
+  citata_rodoma: "Jeronimas įtikino, kad tai apgavystė, sugriovė\nšventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­\nliaudamas toliau, atrado saulės garbintojus; jie ypač garbino\ndidžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­\nmas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,\nkadangi vienas galingas karalius pagrobęs ją laikė uždarytą\ntvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo\ndidžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­\ngaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­\ntystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­\nno paviete, kur lietuviai gyvena, ir Trakų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -238,8 +223,7 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 - id: c-177005
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 453"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vėliau
     jis aptikęs, kad žmonės garbinę ugnį ir vadinę ją Amžinąja.
@@ -257,6 +241,28 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194606
+
+- id: c-179075
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Neturime jokio pa­
+    tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka­
+    bindavo karalių kūnus, parištus ant aukso grandinių .
+    Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lyga-
+    šonys per laidotuves sakydavo kalbas, garbstydami mirusiojo
+    žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi­
+    naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai­
+    tą ant puikaus žirgo, ginkluotą, šuoliuojančią dangaus vidu­
+    riu, Paukščių taku, laikančią rankoje tris žvaigždes ir su didele
+    draugų palyda kylančią į amžinosios laimės buveinę .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197228
 
 ## Ryšiai
 - Žyniai gyveno [[objektai/vietos/Upsala]]

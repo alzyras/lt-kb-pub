@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkastas Kauno apskrityje prie Lukoinių dvaro greta skeleto.
+Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkastas Kauno apskrityje prie Lukoinių dvaro greta skeleto. Vilniaus akademijos mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens, šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę rasti Lydos apskrityje.
 
 ## Teiginiai
 
@@ -35,43 +35,34 @@ Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkast
   teiginys: "Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkastas Kauno apskrityje prie Lukoinių dvaro greta skeleto."
   pagrindžia:
     - c-171896
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkastas Kauno apskrityje prie Lukoinių dvaro greta skeleto.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Didesnę dalį jis atidavė
-    Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*.
-    10 Generolo grafo Kosakovskio senienų rinkinyje yra stiklinis tuš­
-    čiaviduris rutuliukas, kuris buvo atkastas netoli Lukoinių dvaro (Kau­
-    no apskrityje) greta skeleto, apjuosto sidabro grandine. Rutuliukas pa­
-    gamintas iš butelinio stiklo, maždaug 1,25 colio skersmens.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197465"></a>
+- t-002
+  global_id: t-197465
+  teiginys: "Vilniaus akademijos mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens, šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę rasti Lydos apskrityje."
   pagrindžia:
-    - t-001
+    - c-171896
 
 ## Citatos
 
 - id: c-171896
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 376"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 376."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Didesnę dalį jis atidavė
-    Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*.
-    10 Generolo grafo Kosakovskio senienų rinkinyje yra stiklinis tuš­
-    čiaviduris rutuliukas, kuris buvo atkastas netoli Lukoinių dvaro (Kau­
-    no apskrityje) greta skeleto, apjuosto sidabro grandine. Rutuliukas pa­
-    gamintas iš butelinio stiklo, maždaug 1,25 colio skersmens.
+    Vilniaus akademijos
+    mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens,
+    šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę
+    rasti Lydos apskrityje. Pasitaiko taip pat ir akmeninių kaitų,
+    labai gražiai padirbtų iš titnago.
+    Mano kaimo, vadinamo Bouslaviškėmis (Bouslawiszki), že­
+    mėje yra kvadratinis kapas, 20 pėdų ilgio, be aiškaus sampilo,
+    tik apmūrytas lauko akmenimis, lyg tai būtų kokio nors medi­
+    nio pastato pamūrijimas.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189007
+    - t-197465

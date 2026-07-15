@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Ta da kunigaikštis Skirgaila davė žodi mano tėvui kuni gaikščio Jogailos vardu ir davė jam savo ranką, ir savo vardu taip pat davė žodį ir savo ranką. Ir mūsų tėvas pati kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo gaila, pasitikėdami jų duotu žodžiu ir ranka.
+Ir mūsų tėvas pati kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo gaila, pasitikėdami jų duotu žodžiu ir ranka.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -45,92 +45,33 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-194066"></a>
-- t-001
-  global_id: t-194066
-  teiginys: "Ta da kunigaikštis Skirgaila davė žodi mano tėvui kuni gaikščio Jogailos vardu ir davė jam savo ranką, ir savo vardu taip pat davė žodį ir savo ranką."
-  pagrindžia:
-    - c-176679
-
 <a id="claim-t-194067"></a>
-- t-002
+- t-001
   global_id: t-194067
   teiginys: "Ir mūsų tėvas pati kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo gaila, pasitikėdami jų duotu žodžiu ir ranka."
   pagrindžia:
     - c-176680
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ta da kunigaikštis Skirgaila davė žodi mano tėvui kuni gaikščio Jogailos vardu ir davė jam savo ranką, ir savo vardu taip pat davė žodį ir savo ranką.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir mes su mūsų tėvu stovėjome ant vieno kalno,
-    o kunigaikštis Jogaila ant kito kalno, priešais mus. Ta­
-    da kunigaikštis Skirgaila davė žodi mano tėvui kuni­
-    gaikščio Jogailos vardu ir davė jam savo ranką, ir savo
-    vardu taip pat davė žodį ir savo ranką. Ir man pačiam
-    jis taip pat davė žodį kunigaikščio Jogailos vardu ir
-    savo vardu, ir [davėj savo ranką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Ir mūsų tėvas pati kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo gaila, pasitikėdami jų duotu žodžiu ir ranka.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir mūsų tėvas pati­
-    kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­
-    gaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­
-    to žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano
-    motiną taip pat nužudė, o ir mane patį jie paėmė į ne­
-    laisvę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
-
-- id: c-176679
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 174"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 174."
-  citata_originali: |
-    Ir mes su mūsų tėvu stovėjome ant vieno kalno,
-    o kunigaikštis Jogaila ant kito kalno, priešais mus. Ta­
-    da kunigaikštis Skirgaila davė žodi mano tėvui kuni­
-    gaikščio Jogailos vardu ir davė jam savo ranką, ir savo
-    vardu taip pat davė žodį ir savo ranką. Ir man pačiam
-    jis taip pat davė žodį kunigaikščio Jogailos vardu ir
-    savo vardu, ir [davėj savo ranką.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194066
 
 - id: c-176680
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 174"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 174."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir mūsų tėvas pati­
-    kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­
-    gaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­
-    to žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano
-    motiną taip pat nužudė, o ir mane patį jie paėmė į ne­
-    laisvę.
+    Esant šiam Vytautui didžiuoju kunigaikščiu ir val­
+    dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
+    kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­
+    mė, bet ir Vengrų žemės valdovas, vadinamas Romos
+    imperatoriumigyveno su juo didelėje meilėje.
+    Kartą šis šlovingasis valdovas, būdamas savo pilyje,
+    Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
+    rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
+    atvykti. Ir šis kuo klusniausiai, nedelsdamas atvyko pas
+    jį su savo karaliene, ir reiškė jam didžiausią pagarbą,
+    ir dovanojo brangių dovanų2, ir nuo tol tarpe jų įsiga­
+    lėjo didelė meilė.
+  citata_rodoma: "Ir mūsų tėvas pati­\nkėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­\ngaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­\nto žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano \nmotiną taip pat nužudė, o ir mane patį jie paėmė į ne­\nlaisvę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

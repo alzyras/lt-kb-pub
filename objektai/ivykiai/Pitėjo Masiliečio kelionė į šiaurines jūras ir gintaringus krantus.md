@@ -61,91 +61,13 @@ Nenurodyta
   teiginys: "Pasak Narbuto minimų autorių, gintaringos pakrantės buvo pažįstamos dėl IV a. pr. Kr. išsiplėtusios masiliečių prekybos alavu ir gintaru."
   pagrindžia:
     - c-173905
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '340 m. pr. Kr. Masilijos astronomas ir jūrų keliautojas Pitėjas išplaukė į Atlanto vandenyną ir pasiekė Britanijos salas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­
-    mus Masilijos astronomas ir jūrų keliautojas Pitėjas. Jis,
-    gerai nustatęs išvykimo vietos, t. y. Masilijos uosto, geo­
-    grafinę padėtį, išplaukė į Atlanto vandenyną. Tai įvyko
-    praėjus 90 metų po H imi Ikaro kelionės, arba 340 metais
-    ¡prieš Kristaus gimimą. Sis keliautojas atvyko prie Brita­
-    nijos salų ir išsilaipino ¡pietryčių pusėje, prie Kanono ky­
-    šulio, 100 stadijų nuo žemyno atstumu3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Teodoras Narbutas Abalo salą siejo su Semba, aiškindamas, kad senoviniai jos krantai galėjo suklaidinti jūros keliautoją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    O kalbėdami apie
-    Abalo salą, geriausi ¡senovės tyrinėtojai, ir tai labiausiai
-    įtikėtina, turi omeny šiandienę Sembą, kuri, būdama pu­
-    siasalis, dėl savo krantų, kurie aiškiai ¡skyrėsi nuo šian­
-    dienių, išties galėjo būti palaikyta sala: iš vienos pusės
-    žiotys Priegliaus, įtekančio į gerokai sausumon įsirėžusią
-    įlanką; iš kitos pusės Kuršių nerija, pertraukta ties Ra­
-    syte; pagaliau miškingos pakrantės galėjo lengvai suklai­
-    dinti jūros keliautoją, aprašinėjusį šią krašto dalį. Pitėjas
-    turbūt priplaukė prie kranto ties Nogato žiotimis, nes
-    vėliau ten dideliu laivu buvo atplaukęs Vulfstanas, — apie
-    jį kalbėsime vėliau, — pasiekė Druso miestą, be to, iš ten
-    išilgai krantų vieną ar porą dienų galėjo plaukti iki Sem­
-    bos. Čia ¡suprantame, kad tarp Nogato žiočių ir Sembos
-    vidurio senovėje buvo gana toli į jūrą išsikišusi sausumos
-    juosta, vadinta Vitlandija; ji iš dalies egzistavo XIII am­
-    žiaus pradžioje3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Pasak Narbuto minimų autorių, gintaringos pakrantės buvo pažįstamos dėl IV a. pr. Kr. išsiplėtusios masiliečių prekybos alavu ir gintaru.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pagaliau kurui kaip
-    malkas vartojamą gintarą, kurio senovės Sembos gyven­
-    tojams netrūko, galima suprasti kaip iškasamas palmes,
-    iš kurių kažkada sunkėsi gintaras, apie tai kalbėjome
-    anksčiau; jų gal nemažai buvo išgaunama iš pakrančių
-    smėlio sluoksnio arba jų išmesdavo jūra.
-    162
-    Pasak autorių, gintaringos pakrantės buvo pažįstamos
-    dėl masiliečių prekybos, ypač alavu ir gintaru, išsiplėtu­
-    sios ir suklestėjusios IV amžiuje prieš Kristaus gimimą1.
-    Senovės tyrinėtojai netgi padarė gana taiklių prielaidų,
-    jog finikiečių, o gal ir masiliečių pirkliai turėję savo pre­
-    kyvietes, arba emporiurnus, Prūsijoje; iš jų viena buvusi
-    Ilelados pusiasalyje, Scurgon2 ramovėje, o antra ■— Kul­
-    nie prie Vyslos3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
 - id: c-173903
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­
     mus Masilijos astronomas ir jūrų keliautojas Pitėjas. Jis,
@@ -165,8 +87,7 @@ Nenurodyta
 - id: c-173904
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 157"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 157."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     O kalbėdami apie
     Abalo salą, geriausi ¡senovės tyrinėtojai, ir tai labiausiai
@@ -195,8 +116,7 @@ Nenurodyta
 - id: c-173905
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 158."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pagaliau kurui kaip
     malkas vartojamą gintarą, kurio senovės Sembos gyven­

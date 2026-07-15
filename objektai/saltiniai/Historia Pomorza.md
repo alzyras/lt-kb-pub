@@ -8,13 +8,13 @@ datos:
   - '1969 m.'
 date_start: '1466'
 date_end: '1969'
+amziai:
+  - 'XV'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XV'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,8 @@ Dusburgietis teigia, kad historia Pomorza / Pod red. G.
   teiginys: "„Historia Pomorza“ pirmojo tomo pirmąją dalį iki 1466 m. redagavo G. Labuda, ji išleista Poznanėje 1969 m."
   pagrindžia:
     - c-61711
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Historia Pomorza“ pirmojo tomo pirmąją dalį iki 1466 m. redagavo G. Labuda, ji išleista Poznanėje 1969 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -62,10 +62,12 @@ Dusburgietis teigia, kad historia Pomorza / Pod red. G.
 - id: c-61711
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 264"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Historia Pomorza / Pod red. G. Labudy.— T. 1; do r. 1466, cz. 1.— Poznań, 1969.
+    Lietuvos TSR archeologijos atlasas.— T. 2: Piliakalniai / Redagavo A. Tautavičius. —
+    V., 1975; T. 3: I—XIII a. pilkapynai ir senkapiai / Parengė A. Tautavičius; Redagavo R.
+    Rimantienė.
+  citata_rodoma: "Historia Pomorza / Pod red. G. Labudy.— T. 1; do r. 1466, cz. 1.— Poznań, 1969."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

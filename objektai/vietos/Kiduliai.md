@@ -7,13 +7,13 @@ datos:
   - '1805 m.'
 date_start: '1805'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,7 +47,6 @@ Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, Narbutas mini labai se
 - susijęs iš Jurbarkas: Narbutas Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, minėjo labai seną mūro pilį.
 - susijęs iš Nemunas: Narbutas 1805 m. Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, matė labai seną mūro pilį.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, Narbutas mini labai seną mūro pilį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -75,14 +74,14 @@ Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, Narbutas mini labai se
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
-    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
-    125
-
-    ## Puslapis 125
-
-    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
-    nedailaus, bet labai patvaraus gipso.
+    Malone brangiu del žmonių:
+    Ture auxin kajb irplite,
+    Ture pilnu rugiu kloniu,
+    Garbe ture manip mundu9.
+    Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
+    rųjų reiškia storulį, perkeltine prasme - turčių. Iš čia Pilwitos,
+    kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę.
+  citata_rodoma: "Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­\nme, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­\n125\n\n## Puslapis 125\n\nko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš\nnedailaus, bet labai patvaraus gipso."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

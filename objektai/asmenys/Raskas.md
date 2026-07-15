@@ -44,37 +44,12 @@ Narbutas rašo, kad danų mokslininkas Raskas 1817 m. lietuvius kildino iš to p
   pagrindžia:
     - c-174392
 - susijęs iš [[objektai/asmenys/Rasmusas Raskas.md#claim-t-191354|Rasmusas Raskas]]: Narbutas rašo, kad danų mokslininkas Rasmusas Raskas 1817 m. lietuvius kildino iš to paties „lizdo“ kaip ir Narbutas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad danų mokslininkas Raskas 1817 m. lietuvius kildino iš to paties „lizdo“ kaip ir Narbutas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau senovės
-    tyrinėtojai, kurie teikėsi įsigilinti į mitologiją ir lietuvių
-    kalbą, visiškai sutinka su mūsų nuomone. Danų moksli­
-    ninkas ponas Raskas**, rašęs 1817 metais, lietuvius kildi­
-    na iš to paties kaip ir mes lizdo. Jis net mano, kad, kol
-    ši tauta atkeliavo prie Baltijos jūros, ji viešėjo kažkur
-    vidury slavų kraštų, iš kur pasisėmė slavų arba veikiau
-    slavų-sarmatų žodžių; nepaisant to, lietuvių kalba pagal
-    savo šaltinį yra kilusi iš kažkokios labai ¡senos, iš Trakijos
-    kilusios kalbos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174392
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 197"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 197."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau senovės
     tyrinėtojai, kurie teikėsi įsigilinti į mitologiją ir lietuvių

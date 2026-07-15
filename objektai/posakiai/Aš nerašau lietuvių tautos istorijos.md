@@ -34,42 +34,13 @@ Narbutas tiesiogiai sako, kad nerašo lietuvių tautos istorijos.
   teiginys: "Teodoras Narbutas rašė „Aš nerašau lietuvių tautos istorijos“, savo darbą vadindamas veikalais, o ne istorija."
   pagrindžia:
     - c-174989
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoras Narbutas rašė „Aš nerašau lietuvių tautos istorijos“, savo darbą vadindamas veikalais, o ne istorija.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taigi skaitome: „Aš
-    nerašau lietuvių tautos istorijos, nes neįstengčiau susi­
-    doroti su tokiu darbu; be kita ko, ir pats Livijus nesuge­
-    bėtų jos parašyti — tokia ji šiandien, kai nuosmukį pa­
-    tyrė dalykai, galėję palaikyti jos šaunumą, yra neapdo­
-    rota, tokius išbarstytus ir išblaškytus turi šaltinius. Ma­
-    no uždavinys, kaip galima spręsti iš „Mitologijos“, yra
-    atskleisti praeities įvykių esmę, pradedant tautos kilmės
-    ab ovo (pabr. T. N. — R. G.), iki pat tų laikų, kai ji 1569
-    metais, valdant Zygimįantui] Aug[ustui], susijungė su
-    Lenkija. Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pa­
-    grindimo, sumanymų, pastabų ir šaltiniuose išskaitytų
-    faktų rinkinys, kuris sudarys penkis arba šešis tomus,
-    negali būti vadinamas istorija (historia), o tik veikalais
-    (dzieje), t. y. turi turėti kuklesnį pavadinimą2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174989
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 439"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 439."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taigi skaitome: „Aš
     nerašau lietuvių tautos istorijos, nes neįstengčiau susi­

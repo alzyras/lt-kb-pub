@@ -6,7 +6,7 @@ tema_kategorija: "terminai"
 tema_kategorijos_pavadinimas: "Žodyno įrašai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 8
+tema_objektu_skaicius: 9
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 8.
+Objektų skaičius: 9.
 
 ## Kaip naudoti
 
@@ -27,6 +27,7 @@ Objektų skaičius: 8.
 
 ### Žodynas
 - [[objektai/zodynas/ab ovo]]
+- [[objektai/zodynas/konfitiūrai]]
 - [[objektai/zodynas/lietopisis]]
 - [[objektai/zodynas/lietopisis lietopisiai]]
 - [[objektai/zodynas/manu proprio M.P]]

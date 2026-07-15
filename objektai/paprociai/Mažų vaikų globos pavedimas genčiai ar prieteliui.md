@@ -51,20 +51,9 @@ Nenurodyta
   teiginys: "Mirštantis tėvas mažų vaikų globą pavedė artimiausiam genčiui arba didžiausiam prieteliui."
   pagrindžia:
     - c-09948
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Mirdamas tėvas jei paliko mažus vaikus, tad pavedė jų globą savo visų artimiausiam genčiai ar
-        visų didžiausiam prieteliui, ką darė tokiu būdu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

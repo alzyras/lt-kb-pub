@@ -47,27 +47,6 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
   pagrindžia:
     - c-32766
 - susijęs iš Smolenskas: 1401 m. Smolenske vėl įsigalėjo išvarytasis Jurgis Sviatoslavaitis.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
-    ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
-    vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
-    Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį
-    Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
-    (1389-1425), su kuriuo oficialiai laikėsi taikos. Maskvos valdovas
-    tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar
-    Tverės kunigaikštį Mykolą10 11.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32766

@@ -40,22 +40,6 @@ media_all_json: |-
   teiginys: "Władysławo Semkowicziaus darbas „Braterstwo szlachty polskiej z bojarstwem litewskiem w unii horodelskiej 1413 roku“ buvo išspausdintas leidinyje „Polska i Litwa w dziejowym stosunku“."
   pagrindžia:
     - c-36172
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Semk. = Semkowicz, Władysław, Dr., Prof., Braterstwo szlachty
-    polskiej z bojarstwem litewskiem w unii horodelskiej
-    1413 roku. Atspausta leidiny: „Polska i Litwa w
-    dziejowym stosunku“, 395—446 psi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

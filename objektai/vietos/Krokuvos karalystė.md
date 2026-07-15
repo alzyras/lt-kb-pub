@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Krokuvos karalystė priėmė Jogailą.
+Lietuvos metraštis Krokuvos karalyste vadina politinę erdvę, kuri, Jogailai atsisėdus Krokuvoje, jį paėmė.
 
 ## Teiginiai
 
@@ -35,56 +35,7 @@ Krokuvos karalystė priėmė Jogailą.
   teiginys: "Lietuvos metraštis Krokuvos karalyste vadina politinę erdvę, kuri, Jogailai atsisėdus Krokuvoje, jį paėmė."
   pagrindžia:
     - c-170306
-
-<a id="claim-t-187590"></a>
-- t-002
-  global_id: t-187590
-  teiginys: "Jogailai atsisėdus Krokuvoje ir Krokuvos karalystei jį paėmus, Lietuvos metraščio pasakotojas sako vėl pareiškęs savo tikėjimą."
-  pagrindžia:
-    - c-170537
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos metraštis Krokuvos karalyste vadina politinę erdvę, kuri, Jogailai atsisėdus Krokuvoje, jį paėmė.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Tačiau jie vertė ir
-    mane priimti rusų tikėjimų, kad pasidaryčiau visų žmo­
-    nių nekenčiamas4 . Ir aš prieš savo norą, jų valią vyk­
-    dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­
-    kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo
-    tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­
-    jimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
-    Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
-    savo tikėjimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Jogailai atsisėdus Krokuvoje ir Krokuvos karalystei jį paėmus, Lietuvos metraščio pasakotojas sako vėl pareiškęs savo tikėjimą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir aš prieš savo norą, jų valią vyk­
-    dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­
-    kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo
-    tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­
-    jimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
-    Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
-    savo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių
-    tikėjimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
+- susijęs iš Vytauto skundas prieš Jogailą ir Skirgailą: Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė jimo.
 ## Citatos
 
 - id: c-170306
@@ -94,12 +45,12 @@ Krokuvos karalystė priėmė Jogailą.
   citata_originali: |
     Tačiau jie vertė ir
     mane priimti rusų tikėjimų, kad pasidaryčiau visų žmo­
-    nių nekenčiamas4 . Ir aš prieš savo norą, jų valią vyk­
+    nių nekenčiamas4. Ir aš prieš savo norą, jų valią vyk­
     dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­
     kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo
     tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­
     jimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
-    Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
+    Krokuvos karalystė 5 jį paėmė, tada aš vėl pareiškiau
     savo tikėjimą.
   citata_rodoma: "Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir\nKrokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau\nsavo tikėjimą."
   statusas: verified
@@ -108,24 +59,3 @@ Krokuvos karalystė priėmė Jogailą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187245
-
-- id: c-170537
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 175"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 175."
-  citata_originali: |
-    Ir aš prieš savo norą, jų valią vyk­
-    dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­
-    kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo
-    tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­
-    jimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
-    Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
-    savo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių
-    tikėjimo.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187590

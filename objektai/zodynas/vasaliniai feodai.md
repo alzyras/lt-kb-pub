@@ -35,26 +35,6 @@ Jų žemes ordinas priiminėjo vasaliniais feodais, vis rūpestingai aktuose pa�
   teiginys: "Prūsų ordinas perbėgėlių žemes priimdavo kaip vasalinius feodus ir žadėjo jas grąžinti po Lietuvos nukariavimo."
   pagrindžia:
     - c-28516
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ir Prūsų
-    ordinas mielai priglausdavo tokius perbėgėlius, juos pakrikštydamas.
-    Jų žemes ordinas priiminėjo vasaliniais feodais, vis rūpestingai
-    aktuose pažymėdamas, jog buvę savininkai gaus savo žemes valdyti,
-    kai Lietuva bus nukariauta^91.
-    Apie tokį svarbų dalyką, kaip Mindaugo krikštas, smulkesnių
-    žinių nerandama, nes Eiliuotinės kronikos, Ipatijaus metraščio ir
-    popiežiaus Inocento IV bulių užuominos yra per bendros.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

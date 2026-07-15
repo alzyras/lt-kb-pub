@@ -42,21 +42,6 @@ SpHL = Spekke, A.
   teiginys: "A. Spekke 1951 m. Stokholme paskelbė veikalą „History of Latvia, an outline“."
   pagrindžia:
     - c-32890
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    SoIEn = Sovetskaja Istoričeskaja Enciklopedija, t. 1-14 (toliau lei­
-    džiama), Maskva 1961-1970.
-    SpHL = Spekke, A. : History of Latvia, an outline. Stockholm 1951.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

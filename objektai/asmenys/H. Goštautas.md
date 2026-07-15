@@ -35,23 +35,6 @@ Goštauto vadovaujamas husarų eskadrono būrys, kiek vėliau dvi vokiečių pė
   teiginys: "Karininkas H. Goštautas vadovavo husarų eskadrono būriui."
   pagrindžia:
     - c-41538
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    karin. H. Goštauto vadovaujamas hu-
-    sarų eskadrono būrys, kiek vėliau dvi
-    vokiečių pėstininkų kuopos su dviem
-    lengvosiomis patrankomis, sunkiaisiais
-    kulkosvaidžiais ir pionierių skyriumi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

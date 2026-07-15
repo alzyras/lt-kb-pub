@@ -43,24 +43,6 @@ media_all_json: |-
   teiginys: "R. Krumbholtzo „Samaiten und der Deutsche Orden bis zum Frieden am Melno See 1422“ išleistas Karaliaučiuje 1890 m."
   pagrindžia:
     - c-33712
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    KrpSA — Sobranie gosudarstvennych i častnych aktov kasajuščich-
-    sja istorii Litvy i soedinennych s neju vladenij, t. 1 (1387-
-    1710), išl. M. Krupovič, Vilnius 1858.
-    KrSO = Krumbholtz, R. : Samaiten und der Deutsche Orden bis
-    zum Frieden am Melno See 1422, Karaliaučius 1890 (atsp.
-    iš AM 1889-90).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

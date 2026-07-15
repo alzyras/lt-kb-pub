@@ -57,27 +57,6 @@ Nenurodyta
   teiginys: "1391 m. rudeniop surengtas didelis žygis į Lietuvą, o rugsėjo 1 d. prie Kauno Nemuno saloje iškelta didelė puota svečiams piligrimams."
   pagrindžia:
     - c-33407
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Naujasis ordino vyriausias magistras Konradas Wallenrodas,
-    kuris lenkų ir lietuvių tautose yra ypač išpopuliarėjęs per Adomo
-    Mickevičiaus kūrybą, padėjo toliau Vytautui tęsti kovą prieš kara­
-    lių. Jis 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugsėjo 1
-    d. prie Kauno Nemuno saloje, pagerbdamas gausiai atsilankiusius
-    svečius-pilgrimus, iškėlė tokią didelę puotą, kokios — pagal ordino
-    metraščius — iki tol dar nebuvo buvę. Trakus radęs paties Skir­
-    gailos sudegintus, Wallenrodas nebespėjo atlikti numatyto žygio į
-    Vilnių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

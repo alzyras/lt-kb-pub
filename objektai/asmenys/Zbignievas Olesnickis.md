@@ -9,6 +9,10 @@ datos:
   - '1423 m.'
 date_start: '1422'
 date_end: '1423'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,10 +20,6 @@ tags:
   - karalius
   - vyskupas
   - popiežius
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -150,204 +150,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 - susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179455|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: 1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę.
 - susijęs iš Daugai: Dauguose Vytautas ir Jogaila sužinojo imperatoriaus sprendimą, kuris juos suerzino, nes kryžiuočiams pripažino daugiau, nei šie prašė.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogailos siųstasis Zb. Olesnickis grįžo be pagalbos — taigi,
-    šiuo mūšio momentu jau buvo įtraukta ir paskutinė lenkų at­
-    sarga. Bet tuo tarpu kryžiuočių vėliava pastebėjo savo klaidą
-    ir pasisuko atgal. Vienas riteris iš jų tarpo išsiskyrė ir patrau­
-    kė tiesiog į Jogailą. Jis buvo bebandąs pulti, kai staiga Zbignie­
-    vas Olesnickis jam pataikė ietimi ir nuvertė jį nuo arklio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lenkai bijojo leisti vieną Jogailą į Lietuvą ir prisiprašė,
-    kad leistų kartu su juo vykti ir kai kuriems jų atstovams. Tais
-    atstovais ir pasisiūlė Zb. Olesnickis, pakancleris Oporovskis ir
-    kiti^5 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ant rytojaus įvyko didelis pasitarimas, ku­
-    riame Jogaila griežtai stojo už Vytauto karūnaciją ir nurodė
-    Zb. Olesnickio ir lenkų ponų užsispyrimą, kaip didžiausią kliū­
-    tį^2 ). Dabar Lietuvoj susidūrė dvi pažiūros: vieną atkakliai gy­
-    nė Zb.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas
-    jiems nė dovanų nesigailėjo. Ypač stengėsi patraukti į savo pu­
-    sę didžiausį savo priešininką Oleśnicki, nes žinojo, kad jį į savo
-    pusę patraukus, karūnacijos klausimas būtų kaip reikiant iš­
-    sprendžiamas. Olesnickiui ir nesigailėta dovanų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Karalius pamanęs, kad jį pastebėjo, liepė nuleisti žemyn
-    vėliavą. Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad
-    jis parūpintų jo apsaugai kelias vėliavas. Tasai kreipėsi į ar­
-    timiausios vėliavos vadą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas, tur būt, niekada
-    nuoširdžiai nemanė būti čekų karalium, nes tam reikėjo ilgų
-    kovų su vokiečiais ir popiežium, o Vytautui buvo reikalinga tai­
-    ka Vakaruose ir geri santykiai su Bažnyčia. Jis ilgai jau ne­
-    lankė rusų kraštų, kur mielai kreipdavo savo žirgą; pasibaigė
-    ir lenkų draugingumas, nes karaliaus dvare įgijo daug įtakos
-    Krokuvos vysk. Zbignievas Olesnickis — didelis nepriklauso­
-    mos Vytauto politikos priešas. Todėl gerus santykius su Va­
-    karais Vytautas ėmė labai branginti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-007
-  santrauka: 'Zbignievas Olesnickis buvo karūnos pasiuntinys, kartu su kuriuo Vytautas pasiuntė Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kai šį sprendimą sužinojo Vytautas ir
-    Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­
-    virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo
-    girdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas
-    suglaudė abi valstybes į bendrą kovą. Vytautas kartu su karū­
-    nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
-    sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
-    nepasitenkinimą^3 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-    - t-012
-
-- c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­
-    leisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos
-    karalius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­
-    ra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­
-    rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
-    Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
-    nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-010
-
-- c-009
-  santrauka: 'Zbignievas Olesnickis, tapęs Krokuvos vyskupu, buvo priskirtas žmonėms, priešiškiems Vytauto persvarai ir politikai bendroje valstybėje.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tada Ordinas kreipėsi tuo reikalu tie­
-    siog į Vytautą, kuris ir palaikė jų pusę. Lenkų užsispyrimas,
-    trukęs net ketverius metus, suerzino Vytautą dar labiau, kai
-    1422-23 m. skirstant į karūnos dignitorių vietas, nežiūrint tos
-    įtakos, kurią jis turėjo tame dalyke, aukščiausios vietos atiteko
-    žmonėms, kurie, kaip kad ir naujasis Krokuvos vyskupas Zb.
-    Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­
-    bėje ir jo politikai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-006
-
-- c-010
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    tauto šitoji įtaka ėmė galop silpnėti. Mat, tuo metu Lenki­
-    joj iškilo naujas, gabus ir energingas politikas, didelis Vy­
-    tauto užsimojimų priešas, Zb. Olesnickis, kuris, patekęs į
-    kanclerius be Vytauto žinios ir pritarimo, pastojo jo įtakai
-    kelią į Lenkiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-011
-  santrauka: 'Krokuvos vyskupas Zbignievas Olesnickis karaliaus dvare įgijo daug įtakos ir buvo laikomas nepriklausomos Vytauto politikos priešininku.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuo ir užsibaigė
-    šie lietuvių santykiai su husitais. Vytautas, tur būt, niekada
-    nuoširdžiai nemanė būti čekų karalium, nes tam reikėjo ilgų
-    kovų su vokiečiais ir popiežium, o Vytautui buvo reikalinga tai­
-    ka Vakaruose ir geri santykiai su Bažnyčia. Jis ilgai jau ne­
-    lankė rusų kraštų, kur mielai kreipdavo savo žirgą; pasibaigė
-    ir lenkų draugingumas, nes karaliaus dvare įgijo daug įtakos
-    Krokuvos vysk. Zbignievas Olesnickis — didelis nepriklauso­
-    mos Vytauto politikos priešas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-012
   santrauka: 'Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne atsižvelgiant | Lenkijos karalystes tarybaKrokuvos vyskupo Zbignievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą, siekdama patalini!'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -500,8 +302,8 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176864
     - t-176862
+    - t-176864
 
 - id: c-160810
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -592,16 +394,18 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 - id: c-176643
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 265"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 265."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Jogaila turėjo pritarti valiai
-    LDK feodalines visuomenės, pasirinkusios Švitrigaila Vytauto įpėdi­
-    niu. Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne­
-    atsižvelgiant | Lenkijos karalystes taryba- Krokuvos vyskupo Zbig-
-    nievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą,
-    siekdama patalini! Švitrigaila Ir užkirsti kelią bijomam LDK atsi­
-    skyrimui nuo Lenkijos.
+    * Jaroslavas tikrai buvo Tverės didžiojo kunigaikščio Boriso
+    Aleksandravičiaus brolis. Talkininkaudamas Svitrigai'ai, žuvo Pa­
+    baisko (Ukmergės) mūšyje 1435 m.
+    Tverė teikė karinę pagalbų Svitrigai'ai. kadangi jos didysis
+    kunigaikšl s (nuo 1425 m.) Boruos Aleksandravičius (1399— I4fil|
+    buvo Švitrigailos giminaitis (Švitrigaila buvo vedęs spėjamų Bonso
+    Aleksandrovičiaus pusseserę Onų); be to, Tverės didysis kunigaikš­
+    tis Borisas Aleksandravičius dar 1427 m. buvo sudaręs su LDK su­
+    tarti, kurios laikėsi ir Vytautui mirus.
+  citata_rodoma: "Jogaila turėjo pritarti valiai \nLDK feodalines visuomenės, pasirinkusios Švitrigaila Vytauto įpėdi­\nniu. Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne­\natsižvelgiant | Lenkijos karalystes taryba- Krokuvos vyskupo Zbig- \nnievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą, \nsiekdama patalini! Švitrigaila Ir užkirsti kelią bijomam LDK atsi­\nskyrimui nuo Lenkijos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

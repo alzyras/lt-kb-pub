@@ -55,22 +55,9 @@ Nenurodyta
   teiginys: "Antrasis stabas turėjo varpų vainiką ant galvos."
   pagrindžia:
     - c-10300
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Antrasis stabas antrajame uokse buvęs grakštus jaunikaitis, galva jo varpų vainiku apklėsta,
-        veido linksmo, vadinę Trimpa, arba Drimba, kaip patarlėj šiandien dar yra sakoma: „Eik sau po
-        Trimpų“, arba Jore, beje: pavasario dievu, laimės davėju, įkūrėju pakajaus, brandos ir gausumo,
-        globėju gyvulių, orės ir javų; kaip Perūnas buvęs šilimos dievu, taip šis vaisiaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

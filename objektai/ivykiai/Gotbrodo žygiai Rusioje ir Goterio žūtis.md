@@ -65,39 +65,13 @@ Nenurodyta
   teiginys: "Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, o Rusios riteriai virš Bojo kapo supylė didžiulį pilkapį."
   pagrindžia:
     - c-174909
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Maždaug to
-    paties amžiaus pabaigoje švedų karalius Got'brodas irgi
-    sėkmingai kariavo Rusioje2. Gotbrodo įpėdinis Goteris žu­
-    vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės
-    Rindos vyru. Vienas suomių burtininkas išpranašavo šį
-    liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­
-    nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­
-    laidojo jį itin pagarbiai. Supylė virš jo kapo didžiulį pil­
-    kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
-    nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
-    traukė baigiantis II krikščioniškosios eros amžiui4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-    - t-001
 
 ## Citatos
 
 - id: c-174909
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Maždaug to
     paties amžiaus pabaigoje švedų karalius Got'brodas irgi
@@ -116,6 +90,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-192033
     - t-192034
     - t-192035
-    - t-192033

@@ -61,32 +61,6 @@ Nenurodyta
   teiginys: "Draugija užsienio lietuviams remti buvo sukurta padėti emigrantams ir palaikyti jų ryšius su tėvyne."
   pagrindžia:
     - c-75278
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Draugija užsienio lietuviams remti buvo sukurta padėti emigrantams ir palaikyti jų ryšius su tėvyne.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-
-    venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
-    Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Per 20 metų iš
-    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
-    vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
-    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų). Jiems
-    padėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams
-    Gen. Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse
-    pagamintas lengvasis bombonešis ANBO VIII (1939 m.)
-
-    L I E T U V O S  I S T O R I J A
-    176
-    remti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

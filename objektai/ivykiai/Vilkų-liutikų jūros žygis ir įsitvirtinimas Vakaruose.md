@@ -54,58 +54,13 @@ Nenurodyta
   teiginys: "Narbutas rašo, kad pirmaisiais mūsų eros amžiais vilkai-liutikai išsirengė į jūros žygį, pasiuntė įgulas į vakarus ir buvo atstumti nuo Lietuvos sienos."
   pagrindžia:
     - c-173937
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas vilkų-liutikų tautą sieja su jau II a. po Kristaus gimimo rašytinėse istorijose minima vilkų tauta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Jau II po Kristaus gimimo šimtmetyje vilkų tauta mi­
-    nima rašytinėse istorijose. Ji vaizduojama tokia, kokią
-    mes ją matėme prie Oderio žiočių, Bretanės ir Anglijos
-    salose. Daugelis istorikų įvairiai ir taip, kaip tardavo skan­
-    dinavai, vokiečiai, anglai ar kiti užsieniečiai, vadino juos
-    Weltae, Wilki, Wiltai, Wulti, Vult, Vultae, Weltabi, We-
-    letabi, Wiltzl, Wilze, Wilsi, Vulsi, Walsi, Wulzi, Wilzi ir
-    t. td Ir čia niekur negalėtume įžvelgti žodžio Wolk, vil­
-    kas, kilmės, nes raidės ,,o“ niekur nėra.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas rašo, kad pirmaisiais mūsų eros amžiais vilkai-liutikai išsirengė į jūros žygį, pasiuntė įgulas į vakarus ir buvo atstumti nuo Lietuvos sienos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau tai įvyko ne iš
-    karto, bet pamažu, priešistoriniais laikais ir truko labai
-    ilgai. Vėliau, jau pirmaisiais mūsų eros amžiais, kai vil-
-    kai-liutikai išsirengė į jūros žygį ir pasiuntė savo įgulas
-    prie Oderio ir kitur į vakarus, jie gerokai nusilpo savo už­
-    grobtose žemėse ir buvo atstumti nuo sienos su Lietuva.
-    Viena jų dalis nuo Neries pasislinko į rytus ir susiliejo su
-    slavų gentimis, galbūt net sudarydama krivičių gentį, tu­
-    rinčią labai daug panašumų į lietuvius, ypač panašią re­
-    ligiją*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-173936
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 251"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 251."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jau II po Kristaus gimimo šimtmetyje vilkų tauta mi­
     nima rašytinėse istorijose. Ji vaizduojama tokia, kokią
@@ -126,8 +81,7 @@ Nenurodyta
 - id: c-173937
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 252"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 252."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau tai įvyko ne iš
     karto, bet pamažu, priešistoriniais laikais ir truko labai

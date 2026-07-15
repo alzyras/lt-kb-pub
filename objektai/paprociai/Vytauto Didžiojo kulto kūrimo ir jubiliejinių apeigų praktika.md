@@ -80,49 +80,6 @@ media_all_json: |-
   teiginys: "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną."
   pagrindžia:
     - c-23545
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vytauto tolerancija patiko tautinėms mažumoms –
-    juk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, ko-
-    kias Europoje jie gavo gerokai vėliau. Be to, Vytautas įkūnijo kiekvienam
-    lietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklau-
-    somybės nuo lenkų, jis ir palaidotas Vilniuje. Vytauto Didžiojo mirties
-    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
-    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
-    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
-    vos miestuose ir miesteliuose, jam pastatyti paminklai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vytauto Didžiojo mirties
-    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
-    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
-    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
-    vos miestuose ir miesteliuose, jam pastatyti paminklai.
-    Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
-    jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
-    A. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę. Svar-
-    biausia Vytauto jubiliejinių renginių mintis – tautos vienybė per sukeltą
-    platų patriotinį sąjūdį, esama atrama šlovingoje pagoniškosios LDK pra-
-    eityje, ir pasiųsta žinia, kad Lietuva yra sena istorinė valstybė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Šaltiniai ir įrodymai
 

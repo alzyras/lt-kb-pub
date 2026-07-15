@@ -35,38 +35,13 @@ Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų
   teiginys: "Dusburgiečio pasakojime šventas čekų kunigaikštis Vaclovas išpranašavo Danijos karaliaus Henriko nužudymą."
   pagrindžia:
     - c-61087
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dusburgiečio pasakojime šventas čekų kunigaikštis Vaclovas išpranašavo Danijos karaliaus Henriko nužudymą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs
-    už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų
-    naudos, todėl kitais metais  jį nužudė frizai (Mart. p. 404). Šitai karaliui išpranašavo
-    šventas Vaclovas, čekų kunigaikštis, kuris prieš 300 metų irgi taip buvo savo brolio
-    nugalabytas, ir pasiūlė minėtajam karaliui Henrikui, kad savo vardui pagerbti pasirūpintų
-    pastatydinti bažnyčią, o tas šitaip ir padarė, būtent: pastatė cistersų ordino vienuolyną
-    Revelyje, kuris yra Livonijos žemėje.
-
-
-
-      36.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61087
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 232"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs
     už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų

@@ -42,24 +42,6 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
   pagrindžia:
     - c-28609
 - susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66882|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: 1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vėl pasitelkę jungtinę vietinių tautų kariuomenę ir gavę
-    Vokietijos kryžininkų talkos, riteriai suruošė didelį žygį į šiaurinę
-    Lietuvą. Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
-    Šiaulių srityje, pelkėtoje vietoje, jie Žemaičių kunigaikščio Vykinto^75
-    vadovaujamų būrių buvo sumušti (šv. Mauricijaus dieną, 1236.IX.22).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-28609

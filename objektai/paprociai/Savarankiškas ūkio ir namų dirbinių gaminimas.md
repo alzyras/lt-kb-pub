@@ -52,23 +52,9 @@ Nenurodyta
   teiginys: "Senovės lietuviai patys kalė namų statybos ir dailidystės įrankius, nes manė, kad pamatytą daiktą žmogus turi gebėti pasidirbti."
   pagrindžia:
     - c-09961
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip pat įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien
-        dar taria į žmogų, rūpinantis įsteigimu^569 kokio daikto ir dejuojantį nesugebėjimu, sako: „Akių
-        pasiklausk“ arba: „Buklus ir su žąsia moka arti“ [19], kaipogi, pagal jų nuomonę, žmogus, ką
-        paregėjęs, tą turi padirbti. Ir taip jų grąžtai, kaltai, Strūnos^570 , skaptai, skrytulės^571 , kirviai, skliutai
-        yra pačių dirbti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

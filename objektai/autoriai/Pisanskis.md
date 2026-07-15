@@ -39,7 +39,6 @@ Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindama
 - susijęs iš [[objektai/asmenys/Radlofas.md#claim-t-191229|Radlofas]]: Teodoro Narbuto pasakojime Radlofas manė, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.
 - susijęs iš [[objektai/autoriai/Radlofas.md#claim-t-191619|Radlofas]]: Narbutas mini Radlofo nuomonę, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindamas senovės autorių teiginius apie vandens lygio kritimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -73,8 +72,7 @@ Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindama
 - id: c-174471
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
@@ -91,7 +89,9 @@ Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindama
     žemėlapiai
     šiai jūrai skiria gerokai didesnį plotą, negu ji užima
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
-    mėse, kurios tarsi įrodo jos mažėjimą.
+    mėse, kurios tarsi įrodo jos mažėjimą. Tačiau esama dar
+    1 Tacitas kildina iš lotyniško žodžio germanus, gimtas.
+  citata_rodoma: "Tačiau Kelsijus ir Dalinas per­\nnelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo\nKristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po\nketurių tūkstančių metų jos neliks nė pėdsako. Antra\nvertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,\nOvidijus kalba apie vandens lygio kritimą, pateikdami\nakivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis\napie\nBaltijos\njūrą“).\nSeni\nvenecijiečių\nžemėlapiai\nšiai jūrai skiria gerokai didesnį plotą, negu ji užima\nšiandien, be to, matoma daug pavyzdžių ir gretimose že­\nmėse, kurios tarsi įrodo jos mažėjimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

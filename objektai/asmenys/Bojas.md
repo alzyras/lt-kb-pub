@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kautynėse su Goteriu ir trečią dieną mirė nuo žaizdų.
+Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kautynėse su Goteriu ir trečią dieną mirė nuo žaizdų. Vienas suomių burtininkas išpranašavo šį liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa laidojo jį itin pagarbiai.
 
 ## Teiginiai
 
@@ -35,6 +35,13 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
   teiginys: "Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kautynėse su Goteriu ir trečią dieną mirė nuo žaizdų."
   pagrindžia:
     - c-174138
+
+<a id="claim-t-197718"></a>
+- t-002
+  global_id: t-197718
+  teiginys: "Vienas suomių burtininkas išpranašavo šį liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa laidojo jį itin pagarbiai."
+  pagrindžia:
+    - c-179304
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192035|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, o Rusios riteriai virš Bojo kapo supylė didžiulį pilkapį.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192035|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, o Rusios riteriai virš Bojo kapo supylė didžiulį pilkapį.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192035|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, o Rusios riteriai virš Bojo kapo supylė didžiulį pilkapį.
@@ -45,35 +52,12 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192033|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas nurodo, kad Goterio sūnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nutraukė baigiantis II krikščioniškosios eros amžiui.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192034|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje.
 - susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kautynėse su Goteriu ir trečią dieną mirė nuo žaizdų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Maždaug to
-    paties amžiaus pabaigoje švedų karalius Got'brodas irgi
-    sėkmingai kariavo Rusioje2. Gotbrodo įpėdinis Goteris žu­
-    vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės
-    Rindos vyru. Vienas suomių burtininkas išpranašavo šį
-    liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­
-    nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­
-    laidojo jį itin pagarbiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174138
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Maždaug to
     paties amžiaus pabaigoje švedų karalius Got'brodas irgi
@@ -89,6 +73,25 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191256
+
+- id: c-179304
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Vienas suomių burtininkas išpranašavo šį
+    liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­
+    nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­
+    laidojo jį itin pagarbiai. Supylė virš jo kapo didžiulį pil­
+    kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
+    nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
+    traukė baigiantis II krikščioniškosios eros amžiui4.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197718
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Rinda]]

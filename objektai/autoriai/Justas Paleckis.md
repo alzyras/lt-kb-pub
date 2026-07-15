@@ -57,46 +57,6 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
   teiginys: "1940 m. birželio 17 d. Justas Paleckis buvo paskirtas sovietų remtos „Liaudies vyriausybės“ ministru pirmininku."
   pagrindžia:
     - c-166736
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
-    mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
-    valstybės nuosavybe, o ūkininkai – žemės naudotojais. Buvo nacionalizuoti
-    bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
-    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
-    prašė neva savanoriškai įeiti į SSRS sudėtį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis liaudininkas žurnalistas Justas Paleckis, o jo pavaduotoju ir užsienio reikalų ministru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas Galvanauskas, krašto.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taip birželio 17-ąją at-
-    sirado gudriai sumanyta savotiška pereinamojo laikotarpio marionetinė
-    „Liaudies vyriausybė“, į kurią įėjo žinomi, kritikavę A. Smetonos valdymą
-    inteligentai: ministru pirmininku paskirtas komunistuojantis liaudinin-
-    kas žurnalistas Justas Paleckis, o jo pavaduotoju ir užsienio reikalų minis-
-    tru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas
-    Galvanauskas, krašto apsaugos – gen. Vincas Vitkauskas. Skelbta, kad
-    sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos saugumą
-    ir esminių permainų neįvyko. Toks ir buvo sovietų tikslas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
 
 ## Citatos
 
@@ -138,5 +98,5 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183345
     - t-19414
+    - t-183345

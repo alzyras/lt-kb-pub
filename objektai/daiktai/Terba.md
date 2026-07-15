@@ -68,8 +68,8 @@ Nenurodyta
   global_id: t-195300
   teiginys: "Piemens terboje laikomas maistas, kiaušiniai ir kitos įdėtos gėrybės."
   pagrindžia:
-    - c-177668
     - c-177667
+    - c-177668
 
 <a id="claim-t-195301"></a>
 - t-002
@@ -97,9 +97,9 @@ Nenurodyta
   global_id: t-195304
   teiginys: "Elgetavimo pasakojimuose terba ir terbelė yra nešulys maistui rinkti; vienu atveju išskiriama šikšninė terba su pasaitu."
   pagrindžia:
-    - c-177672
     - c-177666
     - c-177669
+    - c-177672
     - c-177674
 - susijęs iš [[objektai/paprociai/Moterų vėžiavimas.md#claim-t-195357|Moterų vėžiavimas]]: Vėžiavimas buvo moterų žvejybos būdas, kai į Šešupę eidavusios moterys parnešdavo terbą vėžių.
 - susijęs iš [[objektai/daiktai/Naginės.md#claim-t-195349|Naginės]]: Elgetos apavas.

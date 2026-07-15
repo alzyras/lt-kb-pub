@@ -41,29 +41,6 @@ Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą t
   teiginys: "Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione."
   pagrindžia:
     - c-26555
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O sava valstybė,
-    atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių,
-    ateities planų garantas, pati didžiausia vertybė.
-    Kauno sporto halėje 1939 m. Lietuvos vyrų
-    krepšinio rinktinė antrą kartą tapo Europos čempionais
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    177
-    Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias
-    tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
-    kokia yra.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

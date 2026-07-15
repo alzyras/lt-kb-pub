@@ -43,31 +43,6 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
   teiginys: "Jonas Albrechtas buvo sutriuškintas Vengrijoje, o žinia apie tai Vilniuje pasiekė jo tėvą karalių Kazimierą."
   pagrindžia:
     - c-83693
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jonas Albrechtas buvo sutriuškintas Vengrijoje, o žinia apie tai Vilniuje pasiekė jo tėvą karalių Kazimierą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vėliau jo pamaldumą pripažino
-    Romos Bažnyčios galva, suteikė jam Šventojo vardą ir šlo­
-    vę, o kartu ir visam kraštui Globėjo vardą39. Prabėgus
-    aštuoneriems metams, pats karalius Kazimieras, būdamas
-    Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­
-    nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­
-    niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia
-    šį pasaulį.
-    39
-    Šventasis Kazimieras, kurio mirtis,
-    tapytojo Dankerso pavaizduota
-    al fresco ant kairės Šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

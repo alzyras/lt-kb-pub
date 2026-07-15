@@ -69,71 +69,11 @@ media_all_json: |-
 <a id="claim-t-188698"></a>
 - t-005
   global_id: t-188698
-  teiginys: "Narbutas istorinę Lietuvą siejo su Vilniaus, Kauno, Gardino ir Minsko gubernijomis."
+  teiginys: 'Narbutas istorinę Lietuvą siejo su Vilniaus, Kauno, Gardino ir Minsko gubernijomis.'
   pagrindžia:
     - c-171587
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prieš baudžiavos
-    panaikinimą Vilniaus gyventojų skaičius priartėjo prie 60 tūkst.
-    Iš pradžių aneksuotoje teritorijoje pradėtos kurti dvi gubernijos, tačiau
-    tepraėjus tik metams sujungtos į vieną Lietuvos vardu (Litovskaja guber-
-    nija). 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
-    Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
-    dėjusiai veikti generalgubernatoriaus institucijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
-    Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
-    dėjusiai veikti generalgubernatoriaus institucijai. 1819 m. nuo Vilniaus
-    gubernijos atskirtas ir Kuršo (Kurliandijos) gubernijai perduotas siauras
-    Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.
-    Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių,
-    istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu-
-    bernijos šiaurinis pakraštys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mat baltarusių šnekta pragma-
-    tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
-    ponus bei kunigus, ir rusų valdžios atstovus. Didesnį pagreitį šis procesas
-    įgis XIX a. antrojoje pusėje, jį sustabdys atsiradę autoritetingi etninių lie-
-    tuvių tautinio sąjūdžio veikėjai, daugiausia kunigai.
-    1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies
-    apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri-
-    skirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni-
-    joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-
-    berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
-    Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
-
 - c-004
   santrauka: 'Narbutas istorinę Lietuvą siejo su Vilniaus, Kauno, Gardino ir Minsko gubernijomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -219,25 +159,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101725
     - t-101721
-
-- id: c-171587
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    9
-
-    ## Puslapis 9
-
-    savarankišką kultūrinio palikimo vertinimą. Istorinė Lietuva -
-    tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -
-    tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
-    visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188698
+    - t-101725

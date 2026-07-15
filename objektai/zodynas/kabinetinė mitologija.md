@@ -52,38 +52,13 @@ Mitologijos tyrimų kritinės metodologijos terminas.
   teiginys: "Kabinetinės mitologijos sąvoka čia taikoma faktams, kuriuos tyrinėtojams reikia atskirti nuo lietuvių, prūsų, latvių ar kitų baltų mitologijos medžiagos."
   pagrindžia:
     - c-171042
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kabinetinės mitologijos sąvoka čia taikoma faktams, kuriuos tyrinėtojams reikia atskirti nuo lietuvių, prūsų, latvių ar kitų baltų mitologijos medžiagos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Deja, T. Narbutas šito nepadarė ir dėl to užsitraukė sau falsi-
-    fikatoriaus nešlovę, o būsimiems lietuvių mitologijos tyrinė­
-    tojams sudarė daug papildomų sunkumų: norint dabar pasi­
-    naudoti jo tyrinėjimais, visų pirma reikia atskirti, kas sąžinin­
-    gai paimta iš pirminių šaltinių ir kas sukurta arba prikurta,
-    pagražinta. O kadangi pirminiais šaltiniais (ypač J. Lasickiu,
-    M. Strijkovskiu) buvo naudotasi nelabai kritiškai, dar reikia
-    tikrinti ir iš tų šaltinių paimtus faktus, nurodyti, ar jie iš tiesų
-    priklauso lietuvių mitologijai, ar yra kabinetinės mitologijos
-    produktas. Ir pagaliau dar reikia atskirti, kurie faktai priklau­
-    so lietuvių, o kurie -  prūsų, latvių ar kitų baltų mitologijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-171042
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 35"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 35."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Deja, T. Narbutas šito nepadarė ir dėl to užsitraukė sau falsi-
     fikatoriaus nešlovę, o būsimiems lietuvių mitologijos tyrinė­

@@ -35,8 +35,8 @@ Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskr
   teiginys: "Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskrityje, kairiajame Nemuno vidurupio krante."
   pagrindžia:
     - c-171970
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskrityje, kairiajame Nemuno vidurupio krante.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -63,18 +63,23 @@ Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskr
 - id: c-171970
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pas­
-    kui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­
-    nusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­
-    čią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­
-    sivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo
-    tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo
-    kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
-    kančią per jų sodybų vidurį, jie pavadino Rose (Ross). Si ket­
-    virta šventoji upė iki šiol išlaikė nepakitusį savo vardą.
+    Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
+    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
+    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
+    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
+    arba šiek tiek vėliau.
+    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
+    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
+    liaudies padavimų.
+  citata_rodoma: "Pas­\nkui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­\nnusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­\nčią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­\nsivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo\ntos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo\nkairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­\nkančią per jų sodybų vidurį, jie pavadino Rose (Ross). Si ket­\nvirta šventoji upė iki šiol išlaikė nepakitusį savo vardą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

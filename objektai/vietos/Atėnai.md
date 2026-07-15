@@ -4,17 +4,18 @@ pavadinimas: 'Atėnai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '2003 m.'
 date_start: '2003'
 date_end: ''
+amziai:
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,6 +50,13 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   teiginys: "Narbutas lietuvių gėrimą ratu lygina su Antikos Circumpotatio, kurią, jo teigimu, Solonas bandė išnaikinti Atėnuose."
   pagrindžia:
     - c-171557
+
+<a id="claim-t-197851"></a>
+- t-003
+  global_id: t-197851
+  teiginys: "Ta čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai kiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo toks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu sipirkti taiką, paaukojus kažkokį pajūrio kraštą."
+  pagrindžia:
+    - c-179362
 - susijęs iš [[objektai/asmenys/Antanas Valionis.md#claim-t-26432|Antanas Valionis]]: Antanas Valionis 2003 m. Atėnuose kartu su Algirdu Brazausku pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
 - susijęs iš [[objektai/asmenys/Solonas.md#claim-t-190242|Solonas]]: Narbutas lietuvių gėrimą ratu lygino su Antikos Circumpotatio ir rašė, kad Solonas ją bandė išnaikinti Atėnuose.
 - susijęs iš [[objektai/ivykiai/Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu.md#claim-t-191030|Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu]]: Narbuto pasakojimu, Malabatas po nesėkmės puldinėjo Graikiją, išgriovė Čižiką, pasiekė Atėnus ir privertė imperiją pirkti taiką.
@@ -57,30 +65,6 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
 - susijęs iš Stojimo į Europos Sąjungą sutartis: 2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė stojimo į Europos Sąjungą sutartį.
 - susijęs iš [[objektai/ivykiai/Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu.md#claim-t-191030|Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu]]: Narbuto pasakojimu, Malabatas po nesėkmės puldinėjo Graikiją, išgriovė Čižiką, pasiekė Atėnus ir privertė imperiją pirkti taiką.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Narystė ES siejama su stabilumu tų insti-
-    tucijų, kurios garantuoja demokratiją, įstatymų viršenybę, žmogaus teises
-    ir pagarbą mažumų apsaugai.
-    Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir
-    užsienio reikalų ministras Antanas Valionis pasirašo stojimo į
-    Europos Sąjungą sutartį
-
-    L I E T U V O S  I S T O R I J A
-    262
-    Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-
-    simais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-
-    mente – 12 europarlamentarų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas lietuvių gėrimą ratu lygina su Antikos Circumpotatio, kurią, jo teigimu, Solonas bandė išnaikinti Atėnuose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -137,21 +121,48 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Išmaldos dalytojui grįžus į namus, vaišinamasi ir geriama dvi-
-    386
-
-    ## Puslapis 386
-
-    gubai daugiau: vyrai ir moterys, drauge susėdę, geria ratu paei­
-    liui vienas į kito sveikatą. Tai visiškai primena Antikos žmonių
-    Circumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-
-    lonas bandė išnaikinti Atėnuose, o decemvirai -  Romoje. Be
-    šitų iškilmių, kiekviena šventė, išskyrus Rasos šventę, baigda­
-    vosi minėjimu mirusiųjų garbei: Lasickis iš savo žinių pateikia
-    apeigų mirusiųjų garbei, atliekamų po Ilgių šventės, aprašymą.
+    Įsitikinę, kad ateinantis gyvenimas bus atpildas ir bausmė,
+    jie nepaprastai rūpindavosi būsimu vėlės likimu, todėl prieš
+    mirtį reikalaudavo iš giminaičių, kad tie stropiai atliktų laido­
+    tuvių apeigas ir per žynius ieškotų priemonių laimingam am­
+    žinajam gyvenimui pasiekti. Mirštančiųjų reikalavimai būda­
+    vo šventi, nes priešingu atveju neišvengiamai grėsė dievų kerš­
+    tas, kurio Poklius tuomet nebūtų atsisakęs įvykdyti. Rankraš­
+    tinėje Lietuvos (Bychovco) kronikoje taip apie tai sakoma:
+    y
+    koli kotoroho kniazia Litovskoho abo pana sozženo tilo, tohdy
+    pry nich kladyvali, nohty rysij, abo medvežyi, dla toho iž viru
+    tuiu mili, iž sudny den mil byty, y tak snamenali sobi, ižby boh
+    milpryty y sedity nahory vysokoy, y sudyty žywych y mertvych, na
+    kotoruiuž horu tmdno budėt vzoyty, bez tych nohtey rysich, abo
+    medvežych, y dla toho tyle nohty podle nich kladyvali, na koto-
+    22 Lucas David.
+  citata_rodoma: "Išmaldos dalytojui grįžus į namus, vaišinamasi ir geriama dvi-\n386\n\n## Puslapis 386\n\ngubai daugiau: vyrai ir moterys, drauge susėdę, geria ratu paei­\nliui vienas į kito sveikatą. Tai visiškai primena Antikos žmonių\nCircumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-\nlonas bandė išnaikinti Atėnuose, o decemvirai -  Romoje. Be\nšitų iškilmių, kiekviena šventė, išskyrus Rasos šventę, baigda­\nvosi minėjimu mirusiųjų garbei: Lasickis iš savo žinių pateikia\napeigų mirusiųjų garbei, atliekamų po Ilgių šventės, aprašymą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188668
+
+- id: c-179362
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Iš pra­
+    džių jų ginklai įvarė gerokai baimės, bet imperatoriaus
+    sūnus Galėnas sulaikė puolimą ir sutriuškino herulus. Ta­
+    čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai­
+    kiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo
+    toks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu­
+    sipirkti taiką, paaukojus kažkokį pajūrio kraštą. Taip ta­
+    pęs imperijos piliečiu, Malabatas gavo teisę užimti joje
+    aukščiausias pareigas, nes netrukus imperatorius suteikė
+    jam Romos konsulo titulą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197851

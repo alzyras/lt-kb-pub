@@ -41,31 +41,6 @@ Dejevo, į Paupį.
   teiginys: "1794 m. liepos 19 d. dalis rusų pajėgų prasiveržė ir užėmė Paupį bei Užupį."
   pagrindžia:
     - c-40329
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gen. ltn. B. Knorringas, norėdamas ap-
-    eiti lietuvių įtvirtinimus, pasiuntė kelis
-
-    150 KOVOS DĖL VILNIAUS 1794 m. balandis-liep
-
-    iaus priemiesčiuose 1794 m. liepos 19 d.
-
-    batalionus, vadovaujamus plk. M. Dejevo,
-    į Paupį. Ties Rasomis lietuvių patrankos
-    atidengė ugnį kartečėmis. Keli rusų jėgerių
-    batalionai patyrė nuostolių ir išsibėgiojo,
-    tačiau daliai pavyko prasiveržti ir užimti
-    Paupį bei Užupį, pastarasis buvo padegtas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

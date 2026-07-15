@@ -55,29 +55,6 @@ Nenurodyta
   teiginys: "Prancūziškoji partija kandidatu į sostą iškėlė hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks."
   pagrindžia:
     - c-01872
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    monu Sobieskiu palaikė Prancūzų kandidatą. Kai pasirodė,
-    jog nebus galima išrinkti Kondės, prieš kurio kandidatūrą jau
-    keliolika metų kovojo bajorija (Jono Kazimiero ir Mykolo lai-
-    kais), tuomet prancūziškoji partija pastatė kandidatu savo vadą
-    hetmoną Sobieskį. Išgar-
-    sėjęs Lenkijos gynėjas
-    nuo turkų, atvykęs į elek-
-    cinį seimą tiesiog iš karo
-    lauko, buvo labai palan-
-    kiai lenkų bajorijos su-
-    tiktas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

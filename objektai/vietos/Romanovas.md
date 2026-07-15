@@ -37,33 +37,12 @@ Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame
     - c-171942
 - susijęs iš Šventežeris: Narbutas Šventežerį sieja su Nemuno kairiajame krante minimais šventais ežerais ir miestelio vardu.
 - susijęs iš [[objektai/zodynas/Šventieji ežerai.md#claim-t-189190|Šventieji ežerai]]: Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Duupe, vietos padavimuose laikytas šventu.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame galėjęs augti šventasis ąžuolas arba būti šventykla.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pasak vietos padavimų, jis buvo
-    laikomas šventu. Priėjo, vaizdingoje vietoje, yra kaimas, vadi­
-    namas Romanovu (Romanowo), kuris primena šventąjį Ro-
-    movės mišką; visiškai panašu į tiesą, kadangi jame augęs šven­
-    tasis ąžuolas ar buvusi kažkokia šventykla.
-    2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-171942
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 229"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasak vietos padavimų, jis buvo
     laikomas šventu. Priėjo, vaizdingoje vietoje, yra kaimas, vadi­

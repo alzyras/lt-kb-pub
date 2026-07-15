@@ -41,27 +41,6 @@ Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (e
   teiginys: "Penktame dešimtmetyje Lietuvos diplomatinė tarnyba stengėsi sudaryti Lietuvos tremties, arba egzilinę, vyriausybę."
   pagrindžia:
     - c-166812
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Penktame dešimtmetyje Lietuvos diplomatinė tarnyba stengėsi sudaryti Lietuvos tremties, arba egzilinę, vyriausybę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tad išbraukta iš pasaulio
-    politinio žemėlapio Lietuva diplomatų dėka
-    nebuvo išbraukta iš politinės sąmonės. Iš
-    pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties
-    (egzilinę) vyriausybę, tačiau, retėjant diplomatų gretoms, įgijo simbolinės
-    raiškos formą, nes valstybės laikėsi nuostatos pripažinti tik tuos Lietuvos
-    diplomatus, kurie diplomatinėje tarnyboje dirbo iki 1940 m. Lietuvos oku-
-    pacijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

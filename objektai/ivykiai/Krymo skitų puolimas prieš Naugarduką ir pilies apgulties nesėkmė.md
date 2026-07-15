@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Palikę Slucką, Krymo skitai patraukė į Naugarduką, kur tuo metu didikai tarėsi dėl santykių su karaliumi. Krymo skitai įžengė į tuščią Naugarduką, apgulė pilį, bet jos neužėmė ir pasitraukė į Skitiją apiplėšę apylinkę.
+Krymo skitai įžengė į tuščią Naugarduką, apgulė pilį, bet jos neužėmė ir pasitraukė į Skitiją apiplėšę apylinkę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -42,106 +42,34 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-185722"></a>
-- t-001
-  global_id: t-185722
-  teiginys: "Palikę Slucką, Krymo skitai patraukė į Naugarduką, kur tuo metu didikai tarėsi dėl santykių su karaliumi."
-  pagrindžia:
-    - c-169083
-
 <a id="claim-t-185723"></a>
-- t-002
+- t-001
   global_id: t-185723
   teiginys: "Krymo skitai įžengė į tuščią Naugarduką, apgulė pilį, bet jos neužėmė ir pasitraukė į Skitiją apiplėšę apylinkę."
   pagrindžia:
     - c-169084
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Palikę Slucką, Krymo skitai patraukė į Naugarduką, kur tuo metu didikai tarėsi dėl santykių su karaliumi.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Palikę
-    Slucką, barbarai patraukė į Naugarduką. Tuo metu ten
-    susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
-    kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
-    kėlėjus. Gavę žinią apie skitų antplūdį, vieni, vadovau­
-    jami Naugarduko vaivados Alberto Goštauto, subruz­
-    do ginti pilies, o kiti pasitraukė už Nemuno. Priešas,
-    įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
-    teliams vytis bėgančiuosius, o su kitais apgulė pilį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Krymo skitai įžengė į tuščią Naugarduką, apgulė pilį, bet jos neužėmė ir pasitraukė į Skitiją apiplėšę apylinkę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Priešas,
-    įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
-    teliams vytis bėgančiuosius, o su kitais apgulė pilį.
-    Netoliese, toje vietoje, kur Nemunas netrukdo rengti
-    išpuolių, įvyko smarkios kautynės, visa apylinkė liko
-    nusiaubta kalaviju ir ugnimi, tačiau, puldami pilį, ne­
-    susilaukė sėkmės. Vaivada Goštautas, pilies seniūnas
-    Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai
-    taip nukamavo priešą, šaudydami iš patrankų bei reng­
-    dami išpuolius, kad tas, nebesitikėdamas užkariauti pi­
-    lies, apiplėšė apylinkę ir patraukė į Skitiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
-
-- id: c-169083
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 583"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
-  citata_originali: |
-    Palikę
-    Slucką, barbarai patraukė į Naugarduką. Tuo metu ten
-    susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
-    kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
-    kėlėjus. Gavę žinią apie skitų antplūdį, vieni, vadovau­
-    jami Naugarduko vaivados Alberto Goštauto, subruz­
-    do ginti pilies, o kiti pasitraukė už Nemuno. Priešas,
-    įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
-    teliams vytis bėgančiuosius, o su kitais apgulė pilį.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185722
 
 - id: c-169084
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 583"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Priešas,
-    įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
-    teliams vytis bėgančiuosius, o su kitais apgulė pilį.
-    Netoliese, toje vietoje, kur Nemunas netrukdo rengti
-    išpuolių, įvyko smarkios kautynės, visa apylinkė liko
-    nusiaubta kalaviju ir ugnimi, tačiau, puldami pilį, ne­
-    susilaukė sėkmės. Vaivada Goštautas, pilies seniūnas
-    Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai
-    taip nukamavo priešą, šaudydami iš patrankų bei reng­
-    dami išpuolius, kad tas, nebesitikėdamas užkariauti pi­
-    lies, apiplėšė apylinkę ir patraukė į Skitiją.
+    Dėl karaliaus ligos seimas buvo pa­
+    leistas, kadangi vargu ar ką galima buvo benuveikti.
+    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
+    metas, valdovo valia turėjęs būti Trakuose vaišingai
+    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
+    Patariamas Nogajų ordos skitų, bandė iš ten pabėgti,
+    tačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur
+    dar stipriau saugojo, ypač
+    K ry m o sk ita i n io k o -
+    dėl to, kad Krymo chanas
+    ja L ie tu v ą
+    Mengli Girėjus per pasiunti­
+    nius žadėjo karaliui taiką ir
+    pagalbą, jeigu šis neleis Šich Achmetui pasprukti.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

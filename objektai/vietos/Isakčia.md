@@ -39,7 +39,6 @@ Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
 - susijęs iš [[objektai/grupes/Skitai.md#claim-t-192464|Skitai]]: 514 metais prieš Kristų Darijus patraukė prieš Indatirą, kai skitai, Narbuto žodžiais, neketino žemintis.
 - susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191007|Darijaus žygis prieš skitus]]: Narbuto pasakojimu, 514 m. pr. Kr. Darijus patraukė prieš Indatirą, kai skitai neketino žemintis.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam pastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai kams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -65,17 +64,19 @@ Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
 - id: c-177328
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 56"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    39
-    Po kurio laiko, 514 metais prieš Kristaus gimimą, kai
-    skitai nė neketino žemintis, pats Darijus patraukė prieš
-    Indatirą. Persų būriai įžengė į Europą ir, graikų sąjun­
-    gininkų remiami, brovėsi Dunojaus link. Kažkur prie
-    šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
-    pastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai­
-    kams.
+    Kadangi priešo būriai buvo narsūs ir puikiai gink­
+    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
+    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
+    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
+    jo nesuskaičiuojamų atsargų našta. Taip Darijus buvo
+    priverstas greitai pereiti visą Skitiją, persikelti per to­
+    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
+    cas. Antra vertus, persų karalius, pasak Herodoto, savo
+    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
+    čio tarytum padėjo skitams įgyvendinti jų ketinimus.
+  citata_rodoma: "39\nPo kurio laiko, 514 metais prieš Kristaus gimimą, kai\nskitai nė neketino žemintis, pats Darijus patraukė prieš\nIndatirą. Persų būriai įžengė į Europą ir, graikų sąjun­\ngininkų remiami, brovėsi Dunojaus link. Kažkur prie\nšiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam\npastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai­\nkams."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

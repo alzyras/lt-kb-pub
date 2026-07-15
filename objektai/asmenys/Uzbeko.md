@@ -50,26 +50,6 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184420|Kazimieras Didysis]]: Kazimieras Didysis vedė Gedimino dukterį Aldoną, per krikštą pavadintą Ona.
 - susijęs iš [[objektai/asmenys/Marija (Gedimino duktė).md#claim-t-82550|Marija (Gedimino duktė)]]: Gedimino duktė Marija buvo ištekinta už Rusios kunigaikščio Boleslovo.
 - susijęs iš Vilnius: 1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Visos Rusi­
-    jos metropolito, graiko Teognosto kanceliarijos užrašai parodo, jog
-    Kijevo kunigaikščiu tuo metu buvo Gedimino brolis Teodoras^6.
-    Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo
-    palaikyti glaudesnių ryšių su Gedimino Lietuva. Apskritai Teog­
-    nosto užrašai (1330-31) su savo charakteringa pinigine apyskaita
-    yra autentiškas šaltinis nustatyti Gedimino ekspansijai į rytus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32816

@@ -42,8 +42,8 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
   teiginys: "Pagudėnai grasino krikščionims, kad šie bus išžudyti ir sunaikinti, jei neatiduos pilies ir nepasiduos."
   pagrindžia:
     - c-59801
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pagudėnai grasino krikščionims, kad šie bus išžudyti ir sunaikinti, jei neatiduos pilies ir nepasiduos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -86,16 +86,21 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
 - id: c-59801
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti
-    krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.
-    Galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų
-    gyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi
-    miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni
-    gynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo
-    ant iškeltų prūsų iečių, o likusieji sudegė.
+    Apie nuolatinius priešų antpuolius  bei įvairiopus Prūsijos krikščionių vargus
+    antrosios atskalūnybės metais
+    Vienas dievas težino ir vargu ar koks dabar gyvenantis žmogus stengtų papasakoti,
+    kokį vargą, kokias negandas, kokį stygių vyriškai kentėjo broliai bei kiti tikintieji tame ar
+    kitame mieste, toje ar kitoje pilyje bei kitoje vietoje, daugiau nei 15 metų persekiojami
+    priešų455. Vargu ar buvo valandų, kada jie galėjo ramiai valgyti savo duoną, nes ne vieną
+    kartą, ne du ar tris kartus jie turėjo stoti į kovą ir gintis nuo priešo. Tiesą sakant, jų
+    gyvenime išsipildė tai, kas bylojama apie žydus, norėjusius atstatyti šventąjį Jeruzalės
+    miestą, bet trukdomus stabmeldžių: pusė jų dirbo darbą, o kita pusė laikė ietis nuo aušros
+    iki žvaigždėms pasirodant, viena ranka dirbo savo darbą, o kita laikė kalaviją. Šie dievo
+    tarnai, kaip moko apaštalas, gyveno nelyginant merdėdami didžiai kantrūs sielvartuose,
+    negandose, suspaudimuose, plakimuose, kalėjimuose, sąmyšiuose, sunkiuose darbuose,
+    budėjimuose, badavimuose; jie rodėsi nuliūdę, tačiau buvo visuomet linksmi.
   citata_rodoma: "Galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų\ngyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi\nmiestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni\ngynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo\nant iškeltų prūsų iečių, o likusieji sudegė."
   statusas: verified
   teiginio_tipas: faktas
@@ -107,15 +112,15 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
 - id: c-59802
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kadangi miestiečiai, dar nepailsę,
-    naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
-    laiką nieko nedarė. Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti
-    krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.
-    Galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų
-    gyvi.
+    172 (167). Apie nuolatinius priešų antpuolius  bei įvairiopus Prūsijos krikščionių vargus
+    antrosios atskalūnybės metais
+    Vienas dievas težino ir vargu ar koks dabar gyvenantis žmogus stengtų papasakoti,
+    kokį vargą, kokias negandas, kokį stygių vyriškai kentėjo broliai bei kiti tikintieji tame ar
+    kitame mieste, toje ar kitoje pilyje bei kitoje vietoje, daugiau nei 15 metų persekiojami
+    priešų455. Vargu ar buvo valandų, kada jie galėjo ramiai valgyti savo duoną, nes ne vieną
+    kartą, ne du ar tris kartus jie turėjo stoti į kovą ir gintis nuo priešo.
   citata_rodoma: "Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti\nkrikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.\nGalop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų\ngyvi."
   statusas: verified
   teiginio_tipas: faktas

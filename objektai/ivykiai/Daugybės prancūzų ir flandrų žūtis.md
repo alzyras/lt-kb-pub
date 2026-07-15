@@ -51,35 +51,13 @@ Nenurodyta
   teiginys: "Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų."
   pagrindžia:
     - c-63556
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    94. Apie daugybės prancūzų ir flandrų žūtį
-
-    Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
-    suėję  į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
-    1222).
-      1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
-    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
-    Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63556
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 244-245"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 244-245."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     94. Apie daugybės prancūzų ir flandrų žūtį
 

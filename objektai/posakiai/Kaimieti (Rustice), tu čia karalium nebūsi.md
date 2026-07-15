@@ -32,36 +32,12 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-09664"></a>
+<a id="claim-t-09663"></a>
 - t-001
-  global_id: t-09664
+  global_id: t-09663
   teiginys: "Karalius ištarė „Kaimieti (Rustice), tu čia karalium nebūsi“ ir liepė pilies kieme nukirsti pašnekovui galvą."
   pagrindžia:
     - c-12477
-
-<a id="claim-t-09664"></a>
-- t-002
-  global_id: t-09664
-  teiginys: "Karalius ištarė „Kaimieti (Rustice), tu čia karalium nebūsi“ ir liepė pilies kieme nukirsti pašnekovui galvą."
-  pagrindžia:
-    - c-12477
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tasai atsakė, kad jie apskritai
-    visus vokiečius (Almanis) išvarys. Bet karalius tarė: ,,Kaimieti (Rustice), tu čia karalium
-
-    nebūsi“ ir liepė pilies kieme nukirsti jam galvą.“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -80,5 +56,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09664
     - t-09663

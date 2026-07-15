@@ -36,24 +36,6 @@ Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų p
   teiginys: "Sviatoslavo sūnui Jurgiui užimti Smolenską padėjo Riazaniaus kunigaikštis Olegas ir rusiškoji bajorų partija."
   pagrindžia:
     - c-90728
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sviatoslavo sūnui Jurgiui užimti Smolenską padėjo Riazaniaus kunigaikštis Olegas ir rusiškoji bajorų partija.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Atėjus žiniai apie Vytauto smūgį prie Vorsklos, Sviatoslavo sū­
-    nus Jurgis sumanė užvaldyti Smolenską. Jam padėjo jo uošvis,
-    Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų partija. Vy­
-    tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo
-    išžudyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

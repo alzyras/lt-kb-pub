@@ -75,59 +75,6 @@ Nenurodyta
   teiginys: "Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“."
   pagrindžia:
     - c-16587
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
-    suformuota „Vidurinė Lietuva“. Remiantis tokia lenkiška Lietuvos sam-
-    prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
-    tarmė – lietuvių kalba. „Vidurinės Lietuvos“ prasmę galima suvokti tik
-    turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
-    dinamos „Minsko“, arba „rusėnų“, Lietuva.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tiesa,
-    nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
-    arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų
-    tautą, o Lietuvą laikė Lenkijos dalimi. Būtent ši samprata iškilo 1920 m.
-    Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
-    suformuota „Vidurinė Lietuva“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Būtent ši samprata iškilo 1920 m.
-    Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
-    suformuota „Vidurinė Lietuva“. Remiantis tokia lenkiška Lietuvos sam-
-    prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
-    tarmė – lietuvių kalba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

@@ -12,13 +12,15 @@ datos:
   - '1274 m.'
 date_start: '1237'
 date_end: '1274'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - gentis
   - grupe
-amziai:
-  - 'XIII'
+  - miestas
+  - pilis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -152,6 +154,20 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginys: "Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę."
   pagrindžia:
     - c-85134
+
+<a id="claim-t-196914"></a>
+- t-017
+  global_id: t-196914
+  teiginys: "Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš pasalos, atkirto jiems kelią į miestą."
+  pagrindžia:
+    - c-178976
+
+<a id="claim-t-196915"></a>
+- t-018
+  global_id: t-196915
+  teiginys: "Rengdamiesi antrą kartą pakilti į kovą, pagudėnai pradėjo įtikinėti krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti."
+  pagrindžia:
+    - c-178977
 - susijęs iš [[objektai/asmenys/Helvigas fon Goldbachas.md#claim-t-186208|Helvigas fon Goldbachas]]: Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.
 - susijęs iš Pagudė: Magistras ir broliai, keršydami už nužudytuosius, įsiveržė į Pagudės žemę ir ją nusiaubė plėšdami, degindami bei imdami belaisvius.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59833|Ditrichas (Sembos fogtas)]]: 1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius.
@@ -223,30 +239,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
 - susijęs iš [[objektai/grupes/Elbingo miestiečiai.md#claim-t-62995|Elbingo miestiečiai]]: 1273 m. Elbingo miestiečiai vijosi prie miesto pasirodžiusius pagudėnų raitelius ir vieną kitą nukovė.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vėliau krikštą priėmę pagudėnai pasakojo matę lauką pilną ginkluotų vyrų prieš prūsų kariuomenės pabėgimą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    nė tiksliai aprašyti, nė atpasakoti. Vis dėlto papasakosiu vieną pažymėtiną nuostabų
-    įvykį. Vieną gražią dieną Elbingo broliai su saujele ginklanešių traukė įkandin didelės
-    prūsų kariuomenės, prisiplėšusios grobio jų valdomose apygardose [in districtu]. Kai
-    jau rengėsi stoti  į kovą, visi prūsai išsibėgiojo, išskyrus vieną, kurį paėmė  į nelaisvę.
-    Šis, išvydęs tokį nedidelį brolių karių būrį, paklausė, kur kiti. Jam atsakė, kad kitų nė
-    nebuvę. Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
-    ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.
-    Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau
-    priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,
-    matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
-    davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
 - c-002
   santrauka: 'Pagudėnai užpuolė Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho bei jų padėjėjus ir išsivarė juos į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -277,9 +269,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
     bartai — Divaną361.
 
-
-
-
                    90 (85). Apie didelį krikščionių kraujo praliejimą
   citata_rodoma: ''
   statusas: verified
@@ -288,29 +277,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-
-- c-004
-  santrauka: 'Pagudėnai prie Kristburgo užpuolė tikinčiųjų pamedėnų pilaitę, į ją įsiveržė ir ją sugriovė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    142 (137). Apie vienos pilaitės užkariavimą
-
-      Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
-    užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
-    įsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į
-    Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
-
-
-
-
-     143 (138).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 - c-005
   santrauka: '1273 m. pagudėnai paslėpė kariuomenę miške prie Elbingo ir iš pasalos atkirto miestiečiams kelią į miestą.'
@@ -333,21 +299,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   pagrindžia:
     - t-005
 
-- c-006
-  santrauka: 'Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    193 D.— Pogesania, Jer.— Pogezênen. Lie. Pagudė įteisinta K. Būgos (3, p. 113—
-    114). Žemės vardas gretinamas su pr. gudde, ‘krūmai’. Prūsų žemė į šiaurės rytus nuo
-    Pamedės, vakaruose siekė dab. Elbingo apylinkes, o rytuose — Alnos upę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 - c-007
   santrauka: 'Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę, ją nusiaubė, daug žmonių paėmė į nelaisvę arba nukovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -359,10 +310,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     šeimyna patraukė link Lietuvos  į Gardino pilies apygardą [territorium], o visa ši žemė
     pavirto dykromis.
 
-
-
-
-
     192 (187).
   citata_rodoma: ''
   statusas: verified
@@ -371,75 +318,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-
-- c-008
-  santrauka: 'Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
-    subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,
-    plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami  į nelaisvę.
-    Be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones
-    išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo
-    taika.
-
-
-
-
-    172 (167).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-009
-  santrauka: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Įvyko šitaip todėl, kad pats Kristus,
-    kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
-    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
-    ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
-    karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
-    grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
-    nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
-    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
-    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
-    tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
-      307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-010
-  santrauka: '1274 m. pagudėnai kartu su varmiais, notangais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
-
-      1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
-    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
-    kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
-    paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
-    ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
-    Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui
-    bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
-    visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
-    tarnauti gyvajam dievui Jėzui Kristui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 - c-011
   santrauka: 'Trečia — Pagudė193, kurioje [gyveno] pagudėnai.'
@@ -473,27 +351,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
-
-- c-013
-  santrauka: '1273 m. pagudėnai paslėpė kariuomenę miške prie Elbingo ir iš pasalos atkirto miestiečiams kelią į miestą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    170 (165). Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
-
-      1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
-    broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami
-    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur
-    keli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie
-    savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
-    Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
-    pasalos, atkirto jiems kelią  į miestą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
 
 - c-014
   santrauka: 'Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.'
@@ -529,9 +386,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
     su broliais.
 
-
-
-
                 169 (164).
   citata_rodoma: ''
   statusas: verified
@@ -560,35 +414,12 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   pagrindžia:
     - t-015
 
-- c-017
-  santrauka: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie karą su pagudėnais ir Elbingo pilies pastatymą
-
-       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
-    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
-    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
-    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
-    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
-    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
-    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
-    išaugo miestas242.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-85121
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 78"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     nė tiksliai aprašyti, nė atpasakoti. Vis dėlto papasakosiu vieną pažymėtiną nuostabų
     įvykį. Vieną gražią dieną Elbingo broliai su saujele ginklanešių traukė įkandin didelės
@@ -611,16 +442,21 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85122
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Mat velnias, žmonių giminės
-    nedraugas ir tikėjimo priešas, apsigyvenęs jų širdyje, iš neapykantos taikai pakurstė
-    juos dar kartą sukelti maištą ir niekšingai pradėti karą. Jo patarti ir paskatinti, visi,
-    išskyrus ištikimuosius pamedėnus, susimokė dar kartą atsimesti nuo krikščionybės.
-    Tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti
-    užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus
-    ir juos išsivarė į nelaisvę.
+    Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių
+    apygardų nusiaubimą ir Klemento pilies sugriovimą
+    Tuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras,
+    kuris, šiaip jau apdairiai tvarkęs, ūkio reikalus, kur kas mažiau tiko karui (matyt, mažiau
+    buvo tam linkęs), todėl jis ir negebėjo duoti deramo atkirčio priešo išpuoliams. Dėl
+    to sūduviai vis dažniau įsibraudavo į Kulmo žemę ir, smarkiai nuniokoję dievo tautą,
+    viską šioje žemėje sudeginę bei išgrobstę, pasitraukdavo; pajutę, kad niekas jiems
+    nebesipriešina, jie išdrįsdavo net su maža kariuomene brautis į Kulmo žemę. Galop
+    magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį
+    karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele
+    kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems pastodavo
+    478  Istorijos šaltiniai rodo, kad prūsai ir lietuviai turėjo monogamines šeimas.
+  citata_rodoma: "Mat velnias, žmonių giminės\nnedraugas ir tikėjimo priešas, apsigyvenęs jų širdyje, iš neapykantos taikai pakurstė\njuos dar kartą sukelti maištą ir niekšingai pradėti karą. Jo patarti ir paskatinti, visi,\nišskyrus ištikimuosius pamedėnus, susimokė dar kartą atsimesti nuo krikščionybės.\nTačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti\nužpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus\nir juos išsivarė į nelaisvę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -631,8 +467,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85123
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 115"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
     netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
@@ -640,11 +475,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
     Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
     bartai — Divaną361.
-
-
-
-
-                   90 (85). Apie didelį krikščionių kraujo praliejimą
+    90 (85). Apie didelį krikščionių kraujo praliejimą
+    Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
+    išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
   citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361.\n\n\n\n\n               90 (85)."
   statusas: verified
   teiginio_tipas: faktas
@@ -656,20 +489,14 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85124
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     142 (137). Apie vienos pilaitės užkariavimą
-
-      Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
+    Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
     užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
-    įsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į
+    įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
-
-
-
-
-     143 (138).
+    143 (138).
   citata_rodoma: "Apie vienos pilaitės užkariavimą\n\n  Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai\nužpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją\nįsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į\nKristburgo pilį, iš pagrindų sugriovė šią pilaitę417.\n\n\n\n\n 143 (138)."
   statusas: verified
   teiginio_tipas: faktas
@@ -681,18 +508,19 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85125
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
     1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
     broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami
-    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur
+    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške, iš kur
     keli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie
     savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
     Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
-    pasalos, atkirto jiems kelią  į miestą. Persekiojami miestiečiai, nestengdami priešintis
+    pasalos, atkirto jiems kelią į miestą. Persekiojami miestiečiai, nestengdami priešintis
     tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum
     pilis.
+  citata_rodoma: "1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei\nbroliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami\nnusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur\nkeli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie\nsavęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.\nTačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš\npasalos, atkirto jiems kelią  į miestą. Persekiojami miestiečiai, nestengdami priešintis\ntokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum\npilis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -703,8 +531,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85126
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     193 D.— Pogesania, Jer.— Pogezênen. Lie. Pagudė įteisinta K. Būgos (3, p. 113—
     114). Žemės vardas gretinamas su pr. gudde, ‘krūmai’. Prūsų žemė į šiaurės rytus nuo
@@ -719,21 +546,17 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85127
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 159"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 159."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    191 (186). Dar apie tą patį
-
-      Tų pačių metų rudenį broliai vėl įsiveržė  į Pagudės žemę ir ją nusiaubė, degindami
-    bei piešdami, daugybę paėmė  į nelaisvę ar nukovė, išskyrus keletą tų, kurie su savo
-    šeimyna patraukė link Lietuvos  į Gardino pilies apygardą [territorium], o visa ši žemė
-    pavirto dykromis.
-
-
-
-
-
-    192 (187).
+    Įniršęs dėl tokio savo žmonių pralaimėjimo ir tokių didelių nuostolių,
+    patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir
+    stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių
+    dieną481, pasiryžęs visokeriopai atkeršyti už savųjų žūtį. Iš pradžių jie smarkiai užpuolė
+    vieno vasalo pilį, vardu Plovista482, buvusią Osos upės pakrantėje; būtų ją sugriovę,
+    jeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie
+    netikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties.
+    Po to jie patraukė prie Rudino, Lypos483 ir galop prie Velzaco484 pilių, pastarosios papilį iki
+    pamatų sudegino.
   citata_rodoma: "Dar apie tą patį\n\n  Tų pačių metų rudenį broliai vėl įsiveržė  į Pagudės žemę ir ją nusiaubė, degindami\nbei piešdami, daugybę paėmė  į nelaisvę ar nukovė, išskyrus keletą tų, kurie su savo\nšeimyna patraukė link Lietuvos  į Gardino pilies apygardą [territorium], o visa ši žemė\npavirto dykromis.\n\n\n\n\n\n192 (187)."
   statusas: verified
   teiginio_tipas: faktas
@@ -745,19 +568,14 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85128
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
     subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,
-    plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami  į nelaisvę.
+    plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami į nelaisvę.
     Be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones
     išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo
     taika.
-
-
-
-
     172 (167).
   statusas: verified
   teiginio_tipas: faktas
@@ -769,12 +587,11 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85129
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Įvyko šitaip todėl, kad pats Kristus,
     kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
-    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    širdis, tad į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
     ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
     karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
     grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
@@ -782,7 +599,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
     teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
     tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
-      307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
+    307  Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
   citata_rodoma: "Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską\npatvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir\nteisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl\ntos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų\n  307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m."
   statusas: verified
   teiginio_tipas: faktas
@@ -794,13 +611,11 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85130
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
-
-      1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
-    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
+    1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
+    varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus,
     kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
     paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
     ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
@@ -819,11 +634,13 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85131
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Antra — Pamedė192, kurioje [gyveno] pamedėnai. Trečia — Pagudė193,
-    kurioje [gyveno] pagudėnai. Ketvirta — Varmė194, kurioje [gyveno] varmiai.
+    Kulmo pilis, pastatyta Vyslos deš. krante, galėjo būti vadinta lenkų žemėse populiariu
+    vardu Chełm, Chełmno (lotyniškuose dokumentuose Colmen, Culmen. ir pan.) dėl to, kad
+    vardas buvęs fonetiškai panašus į baltiškąjį hidronimą su *Kulm-(Kul-ma?). Lenkiškasis
+    pilies vardas lygintinas ir su prūsų kelmis, kelmo užrašymo variantais: chelmo, Chelmo
+    ‘kepurė’ (MPKP, 2, p. 34, 53, 279; Топоров B. H. Прусский язык, A—D, с.
   citata_rodoma: "Trečia — Pagudė193,\nkurioje [gyveno] pagudėnai. Ketvirta — Varmė194, kurioje [gyveno] varmiai."
   statusas: verified
   teiginio_tipas: faktas
@@ -835,16 +652,22 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85132
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti
-    krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.
-    Galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų
-    gyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi
-    miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni
-    gynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo
-    ant iškeltų prūsų iečių, o likusieji sudegė.
+    Apie nuolatinius priešų antpuolius  bei įvairiopus Prūsijos krikščionių vargus
+    antrosios atskalūnybės metais
+    Vienas dievas težino ir vargu ar koks dabar gyvenantis žmogus stengtų papasakoti,
+    kokį vargą, kokias negandas, kokį stygių vyriškai kentėjo broliai bei kiti tikintieji tame ar
+    kitame mieste, toje ar kitoje pilyje bei kitoje vietoje, daugiau nei 15 metų persekiojami
+    priešų455. Vargu ar buvo valandų, kada jie galėjo ramiai valgyti savo duoną, nes ne vieną
+    kartą, ne du ar tris kartus jie turėjo stoti į kovą ir gintis nuo priešo. Tiesą sakant, jų
+    gyvenime išsipildė tai, kas bylojama apie žydus, norėjusius atstatyti šventąjį Jeruzalės
+    miestą, bet trukdomus stabmeldžių: pusė jų dirbo darbą, o kita pusė laikė ietis nuo aušros
+    iki žvaigždėms pasirodant, viena ranka dirbo savo darbą, o kita laikė kalaviją. Šie dievo
+    tarnai, kaip moko apaštalas, gyveno nelyginant merdėdami didžiai kantrūs sielvartuose,
+    negandose, suspaudimuose, plakimuose, kalėjimuose, sąmyšiuose, sunkiuose darbuose,
+    budėjimuose, badavimuose; jie rodėsi nuliūdę, tačiau buvo visuomet linksmi.
+  citata_rodoma: "Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti\nkrikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.\nGalop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų\ngyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi\nmiestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni\ngynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo\nant iškeltų prūsų iečių, o likusieji sudegė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -855,18 +678,16 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85133
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     170 (165). Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
-
-      1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
+    1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
     broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami
-    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur
+    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške, iš kur
     keli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie
     savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
     Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
-    pasalos, atkirto jiems kelią  į miestą.
+    pasalos, atkirto jiems kelią į miestą.
   citata_rodoma: "Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį\n\n  1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei\nbroliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami\nnusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur\nkeli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie\nsavęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė."
   statusas: verified
   teiginio_tipas: faktas
@@ -878,19 +699,22 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85134
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
-         medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
-
-      Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene
-    įsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti
-    susibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria
-    raitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios
-    tarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė
-    kažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar
-      416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m.
+    Sitai sužinoję, Pusilių ir Fišovijos pilių422
+    broliai su savo ginklanešiais atskubėjo į pagalbą Kristburgo broliams ir miestiečiams,
+    jau pasirengusiems gintis. Kai broliai, žygiuodami į priekį, priartėjo prie apsiaustos
+    pilies, prūsai nutraukė apgulą ir pradėjo bėgti. Per apgulą ir bėgant žuvo daug prūsų,
+    daug buvo mirtinai sužeista, jų vadas Kaltis taip pat krito nukautas kalaviju, nes
+    bėgdami pėstininkai susidūrė su raiteliais. Šito įvykio išgąsdinti, raiteliai bei pėstininkai
+    susijungė ir įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su savo kariuomene
+    apsistojo priešais. Prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką,
+    kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet
+    atvirkščiai, net ir arklius nusibalnojo, jie pusę savo kariuomenės slaptai perkėlė per upę
+    ir vėl žiauriai užpuolė krikščionis — vieni iš užpakalio, kiti iš priešakio; anksčiau, nei
+    krikščionys susiruošė gintis, prie Pagansčių kaimo423 žuvo dvylika brolių ir penki šimtai
+    vyrų.
+  citata_rodoma: "Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­\n     medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį\n\n  Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene\nįsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti\nsusibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria\nraitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios\ntarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė\nkažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar\n  416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -901,21 +725,20 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85136
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 146"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    168 (163). Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
-               apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
-
-      Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie
-    Pagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,
-    paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
-    su broliais.
-
-
-
-
-                169 (164).
+    Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
+    1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
+    broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami
+    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške, iš kur
+    keli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie
+    savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
+    Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
+    pasalos, atkirto jiems kelią į miestą. Persekiojami miestiečiai, nestengdami priešintis
+    tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum
+    pilis. Atskubėję pagudėnai smarkiai užpuolė malūną. Kadangi miestiečiai, dar nepailsę,
+    naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
+    laiką nieko nedarė.
   citata_rodoma: "Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir\n           apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių\n\n  Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie\nPagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,\npaliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo\nsu broliais.\n\n\n\n\n            169 (164)."
   statusas: verified
   teiginio_tipas: faktas
@@ -927,16 +750,17 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85137
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 146"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą
-
-      Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,
-    antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė
-    visus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui
-    patraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu
-    vienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado.
+    Kadangi miestiečiai, dar nepailsę,
+    naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
+    laiką nieko nedarė. Rengdamiesi antrą kartą pakilti į kovą, pagudėnai pradėjo įtikinėti
+    krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.
+    Galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų
+    gyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi
+    miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni
+    gynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo
+    ant iškeltų prūsų iečių, o likusieji sudegė.
   citata_rodoma: "Apie Veklico pilies ir vienos pilaitės sugriovimą\n\n  Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,\nantrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė\nvisus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui\npatraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu\nvienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado."
   statusas: verified
   teiginio_tipas: faktas
@@ -948,8 +772,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85139
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 77"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie karą su pagudėnais ir Elbingo pilies pastatymą
 
@@ -967,6 +790,42 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89155
+
+- id: c-178976
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
+    pasalos, atkirto jiems kelią į miestą. Persekiojami miestiečiai, nestengdami priešintis
+    tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum
+    pilis. Atskubėję pagudėnai smarkiai užpuolė malūną. Kadangi miestiečiai, dar nepailsę,
+    naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
+    laiką nieko nedarė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196914
+
+- id: c-178977
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Kadangi miestiečiai, dar nepailsę,
+    naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
+    laiką nieko nedarė. Rengdamiesi antrą kartą pakilti į kovą, pagudėnai pradėjo įtikinėti
+    krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.
+    Galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų
+    gyvi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196915
 
 ## Ryšiai
 - Gynė Pagudėnai: [[objektai/grupes/Žemaičiai]]

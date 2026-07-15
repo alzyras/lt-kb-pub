@@ -66,39 +66,8 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
 - susijęs iš [[objektai/paprociai/Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika.md#claim-t-67056|Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]: Lietuvos barokas architektūroje perėjo nuo importo etapo prie savitos Vilniaus baroko mokyklos ir medinio provincijos baroko.
 - susijęs iš [[objektai/paprociai/Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika.md#claim-t-67057|Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]: Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje.
 - susijęs iš [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas.md#claim-t-13508|duona, tolerancija, demokratija, konstitucija, barokas]]: Formulė susiejama su javais, religine tolerancija, bajoriškąja demokratija, teisine tradicija ir Vilniaus baroku.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ryčiausia ir šiauriausia Europoje
-    baroko architektūra
-    Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš ar-
-    chitektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco,
-    port. barroco, reiškiančiu netaisyklingos formos perlą. Lietuvoje barokas
-    geriausiai matomas architektūroje, ypač bažnyčių. Jis perėjo keletą raidos
-    tarpsnių – nuo kuklaus, dar Renesanso veikiamo baroko prie vėlyvojo, ra-
-    finuotai puošnaus baroko ir rokoko, nuo „importo“ etapo prie labai savitos
-    Vilniaus baroko mokyklos ir provincijos medinio baroko, nuo visuomenės
-    elitui kurto meno prie pačios liaudies barokinės kūrybos. Baroko interje-
-    rai įsiveržė į ankstesnių stilių mūro bažnyčias, barokas tapo reikšmingu
-    skulptūros ir tapybos stiliumi, atsirado nauja meno šaka – teatras, išplito
-    iki kasdienybės dalykų – baldų, indų, drabužių, knygų. Su baroku susiję
-    didieji liaudies meno reiškiniai – stogastulpiai su rūpintojėliais, pietomis ir
-    šventųjų skulptūrėlėmis. Susiformavo barokinis kraštovaizdis, kuriam bū-
-    dinga bažnyčios, vienuolynai, kalvarijos, koplyčios, koplytstulpiai, kryžiai –
-    „šventasis peizažas“, organiškai pritapęs prie natūralios aplinkos, o kryždir-
-    bystė išliko vienas svarbiausių lietuvių liaudies meno atpažinimo ženklų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-    - t-001
-
+- susijęs iš Italija: Vorobjovas perspėjo nemanyti, kad Italijoje susiformavęs barokas buvo tiesiog perkeltas į Vilnių kaip užsieninis pavyzdys.
+- susijęs iš [[objektai/zodynas/Italija (sąvoka).md#claim-t-200829|Italija (sąvoka)]]: Vorobjovas pabrėžė, kad Italijoje XVI–XVII a. susiformavęs barokas neturėtų būti laikomas tiesiog į Vilnių atvežtu užsieniniu pavyzdžiu.
 ## Citatos
 
 - id: c-48467
@@ -129,6 +98,6 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-45786
     - t-45787
     - t-45788
-    - t-45786

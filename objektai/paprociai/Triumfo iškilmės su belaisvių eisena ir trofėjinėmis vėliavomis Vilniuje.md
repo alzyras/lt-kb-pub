@@ -71,6 +71,7 @@ Nenurodyta
   teiginys: "Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje."
   pagrindžia:
     - c-43179
+    - c-167085
 
 <a id="claim-t-78729"></a>
 - t-003
@@ -78,57 +79,6 @@ Nenurodyta
   teiginys: "Vilniuje per triumfo iškilmes eisenoje buvo vedami Maskvos belaisviai karvedžiai ir kariai, o katedroje pakabintos trofėjinės vėliavos."
   pagrindžia:
     - c-43179
-
-<a id="claim-t-183695"></a>
-- t-004
-  global_id: t-183695
-  teiginys: "Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje."
-  pagrindžia:
-    - c-167085
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kilmingi žuvusieji buvo atvežti ir palai-
-    doti Vilniuje. Čia, valdovui grįžus, įvyko
-    triumfo iškilmės, eisenoje buvo vedami
-    belaisviai Maskvos karvedžiai ir kariai,
-    Vilniaus katedroje pakabintos trofėjinės
-    vėliavos. (Kaip liudija Mykolas Lietuvis,
-    jos su kitomis čia saugotomis sudegė per
-    1530 m. gaisrą).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
-- c-002
-  santrauka: 'Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po mūšio galutinai
-    įsigalėjo nuomonė, kad rusai atvirame
-    lauke negali atsispirti lietuviams.
-
-    Kilmingi žuvusieji buvo atvežti ir palai-
-    doti Vilniuje. Čia, valdovui grįžus, įvyko
-    triumfo iškilmės, eisenoje buvo vedami
-    belaisviai Maskvos karvedžiai ir kariai,
-    Vilniaus katedroje pakabintos trofėjinės
-    vėliavos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 ## Citatos
 
@@ -173,5 +123,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183695

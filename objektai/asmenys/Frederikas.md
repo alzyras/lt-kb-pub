@@ -44,34 +44,12 @@ Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiai
 - susijęs iš Pavija: Pavijoje Teodorikas buvo apsuptas mieste, kuris nuo Oresto pralaimėjimo buvo nepalankus Odoakrui ir vėliau buvo sustiprintas bei atstatytas.
 - susijęs iš Norikas: Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
 - susijęs iš [[objektai/asmenys/Onulfas.md#claim-t-191303|Onulfas]]: Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiais pasitraukė pas herulus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Teodoriko valdžia nepatenkintas
-    Tufą su visa jam patikėta kariuomene paliko jį ir vėl
-    perėjo pas Odoakrą. Taip pat ir rugių vadas Frederikas
-    paliko gotus ir su saviškiais pasitraukė pas herulus. Teo­
-    dorikas buvo apsuptas Pavijoje, Odoakrui nepalankiame
-    mieste nuo tų laikų, kai ten buvo nugalėtas Orestas; po
-    šio pralaimėjimo miestas sustiprėjo ir buvo atstatytas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174085
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 322"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Teodoriko valdžia nepatenkintas
     Tufą su visa jam patikėta kariuomene paliko jį ir vėl

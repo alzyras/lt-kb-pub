@@ -36,28 +36,6 @@ Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, 
   pagrindžia:
     - c-82791
 - susijęs iš Moldova: Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais kovojo Jogaila.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais tuo metu kovojo Jogaila.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šį karą kurstė neblėstantis
-    Prūsijos ir Livonijos kryžiuočių įniršis. Tuo pat metu Lenki­
-    joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, o Po­
-    dolėje - su Švitrigailos šalininkais, remiamais Moldovos ku­
-    nigaikščių. Kai paskelbus dvylikos metų paliaubas tarp
-    karaliaus ir didžiojo magistro karo veiksmai Karalystėje vis
-    dėlto aprimo, apsilpo ir energingojo Švitrigailos jėgos Lie­
-    tuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82791

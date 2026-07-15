@@ -59,33 +59,9 @@ Nenurodyta
 <a id="claim-t-186869"></a>
 - t-001
   global_id: t-186869
-  teiginys: "Komentare nurodoma, kad 1428 m. kovo mėn. D. Naugardo delegacija Vilniuje ir Trakuose dovanojo Vytautui šilko rietimų."
+  teiginys: 'Komentare nurodoma, kad 1428 m. kovo mėn. D. Naugardo delegacija Vilniuje ir Trakuose dovanojo Vytautui šilko rietimų.'
   pagrindžia:
     - c-170053
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Komentare nurodoma, kad 1428 m. kovo mėn. D. Naugardo delegacija Vilniuje ir Trakuose dovanojo Vytautui šilko rietimų.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    —  Pagal J . Dlugošą 10 tūks­
-    tančių buvo vienkartinė kontribucija, kurią iš pusės sudėjo D. Nau­
-    gardas ir Pskovas 1428 m., kad Vytautas nutrauktų karo veiksmus,
-    1 1  BK versija apie Pskovo Ir D. Naugardo mokamą Lietuvos
-    Didžiajai Kunigaikštystei duoklę gali būti paremta žinia apie do­
-    vanas, kurias Vytautas gavo bene 1427 m. vasarą, vizituodamas
-    rytines savo valstybės dalis. Kaip tik tos jo  kelionės metu į Smo­
-    lenską buvo atvykusi D. Naugardo delegacija su dovanomis; ta
-    pati delegacija, 1428 m. kovo mėn. lankiusis pas Vytautą Vilniuje
-    ir Trakuose, taip pat apdovanojo Vytautą sabalų kailiniais, gyvais
-    sabalais, šilko rietimais ir kt. dovanomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -111,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186869
+    - t-001

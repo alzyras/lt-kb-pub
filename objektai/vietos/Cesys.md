@@ -35,23 +35,6 @@ Padaręs sąjungą su Aleksandru Nevskiu (Didž. Naugarde)^183 , drauge su Treni
   teiginys: "Mindaugas su Treniota nesėkmingai puolė Cesio, arba Wendeno, pilį Livonijoje."
   pagrindžia:
     - c-31987
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Padaręs sąjungą su Aleksandru Nevskiu (Didž.
-    Naugarde)^183 , drauge su Treniota, Mindaugas išžygiavo Livonijon
-    ir nesėkmingai puolė Cesio (Wendeno) pilį. Prie žygio nepasisekimo
-    prisidėjo tai, kad iš Naugardo neatėjo laiku prieš kryžiuočius žadė­
-    toji kariuomenė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

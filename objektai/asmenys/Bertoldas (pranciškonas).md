@@ -35,24 +35,6 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
   teiginys: "Pranciškonas Bertoldas su Henriku į Gedimino laišką veikiausiai įrašė daugiau, negu Gediminas buvo ketinęs."
   pagrindžia:
     - c-32713
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Laiškų pagrindinė
-    mintis buvo ta, jog Gediminas, pripažindamas popiežiaus autori­
-    tetą, žadėjo krikštytis. Tur būt, Gediminas nebuvo tiek daug
-    ketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.
-    Gediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė
-    popiežiaus tarpininkavimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

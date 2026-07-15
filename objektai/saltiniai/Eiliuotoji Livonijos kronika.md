@@ -7,12 +7,12 @@ datos:
   - '1259 m.'
 date_start: '1259'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,8 +47,8 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
   teiginys: "Eiliuotojoje Livonijos kronikoje minimas žemaičių žynys dievams aukojo trečdalį karo grobio ir išbūrė žemaičių vadams pergalę 1259 m. Skuodo kautynėse."
   pagrindžia:
     - c-61608
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Eiliuotojoje Livonijos kronikoje rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius, o jų pavyzdžiu pasekė estai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -66,37 +66,21 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Eiliuotojoje Livonijos kronikoje minimas žemaičių žynys dievams aukojo trečdalį karo grobio ir išbūrė žemaičių vadams pergalę 1259 m. Skuodo kautynėse.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgiečio krivis
-    tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės
-    papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam
-    žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil. 4680), be to, Lietuvos
-    metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t. 17, стб.
-    261, 314 ir kt.; t. 32, c. 138; Lietuvos metraštis, p. 71).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-61607
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos
-    požiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais
-    pasekę ir estai (LRCh, eil. 5601—5643; LIS, 1, p. 49). Šiaip ar taip, kuršių veiksmai
-    vertinami kaip jų pagalba lietuviams (Ivinskis Z., Durbės.., p. 70—71; Lietuvių karas..,
-    p. 153).
+    Todėl brolis Hermanas išvykdamas
+    kai kuriems broliams pasakė: „Likite sveiki, nuo šiol manęs nebematysite, nes mergelė
+    dievo gimdytoja mane pasikvietė į amžinąją linksmybę“.
+    86 (82). Apie tą patį
+    Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado
+    iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai
+    pasirodęs viešpats apreiškė regėjime šį pralaimėjimą.
+  citata_rodoma: "348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos\npožiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais\npasekę ir estai (LRCh, eil. 5601—5643; LIS, 1, p. 49). Šiaip ar taip, kuršių veiksmai\nvertinami kaip jų pagalba lietuviams (Ivinskis Z., Durbės.., p. 70—71; Lietuvių karas..,\np. 153)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -107,8 +91,7 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
 - id: c-61608
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 67"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dusburgiečio krivis
     tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės

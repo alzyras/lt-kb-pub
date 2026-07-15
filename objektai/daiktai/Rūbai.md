@@ -73,39 +73,8 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Įkapių dėjimas pagal mirusiojo luomą ir gyvenimo užsiėmimą.md#claim-t-189901|Įkapių dėjimas pagal mirusiojo luomą ir gyvenimo užsiėmimą]]: Žymesni asmenys laidoti su luomui būdingais drabužiais ir gyvenimo užsiėmimą žymėjusiais daiktais, pavyzdžiui, karys su ginklu, o amatininkas su įrankiais.
 - susijęs iš Kijevo Rusia: Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.
 - susijęs iš Kijevo Rusia: Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.
-- susijęs iš Šventasis Kalnas: Dėl sąmyšio anuose kraštuose Vaišvilkas Šventojo Kalno nepasiekė.
-- susijęs iš Šventasis Kalnas: Vaišvilkas iškeliavo į Šventąjį Kalną, bet jo nepasiekė dėl didelio sąmyšio anuose kraštuose.
 - susijęs iš Šventasis Kalnas: Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo Grigorijaus palaimintas.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89545|dykra]]: Karalius nužygiavo į Bartos žemės dykras, į Vaplaukio lauką, ir ten gyrėsi supančiotiems krikščionių belaisviams.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rūbai į Vilnių patekdavo iš Lenkijos ir Livonijos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš Rusios,
-    Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę
-    23
-    Mažesnieji broliai (pranciškonų
-    atšaka).
-
-    ## Puslapis 40
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­
-    minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
-    Juk jei visas kraštas, didesne dalimi anuomet dar laukinis,
-    svetimšaliams pirkliams galėjo būti pelno šaltinis, tai jo sos­
-    tinei, ypač turinčiai rūmus tokio galingo valdovo, koks bu­
-    vo Gediminas, tie ryšiai, suprantama, buvo pravartus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Puslapis 40 VILNIAUS MIESTO ISTORIJA I TOMAS atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­ minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
 
 Nenurodyta

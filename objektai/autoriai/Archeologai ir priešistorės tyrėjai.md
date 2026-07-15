@@ -51,29 +51,6 @@ media_all_json: |-
   teiginys: "P. Kulikauskas, R. Kulikauskienė ir A. Tautavičius 1961 m. išleido knygą „Lietuvos archeologijos bruožai“."
   pagrindžia:
     - c-163195
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    R. Volkaitė - Kulikauskienė, parašiusi _Lietuviai
-    IX-XII amžiais_ (VoKL), _Klasinės visuomenės susidarymas Lietuvoje
-    {Remiantis archeologinių kasinėjimų duomenimis_ ) (VUMD, t. 5,
-    1955)^96. A. Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje
-    (AkMD, t. 1, 1955, 87-97 p.), Kapitoniškiuose (AkMD, t. 2, 1957,
-    95-108 p.), Vilniaus žemutinės pilies teritoriją 1955-1960 m. (AkMD,
-    t. 4, 1958, 91-110 p. ; t. 6, 1959, 115-133 p. ; t. 11, 1961, 103-123 p.),
-    rašęs _Lietuvių ir jotvingių genčių gyventų plotų ribų klausimu_ 97.
-    P. Kulikauskas, R. Kulikauskienė ir A. Tautavi­
-    čius išleido knygą _Lietuvos archeologijos bruožai_ (1961).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -97,5 +74,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179501
     - t-179498
+    - t-179501

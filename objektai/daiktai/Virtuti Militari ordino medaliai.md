@@ -55,27 +55,6 @@ Nenurodyta
   teiginys: "Karalius S. A. Poniatovskis keliolika šio mūšio karininkų ir kareivių apdovanojo Virtuti Militari ordino aukso ir sidabro medaliais."
   pagrindžia:
     - c-44687
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Karalius S. A. Poniatovskis keliolika šio mūšio karininkų ir kareivių apdovanojo Virtuti Militari ordino aukso ir sidabro medaliais.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    60 užmuštųjų. Iš tikrųjų jie turėjo būti bent
-    10 kartų didesni, nes nors lietuviai ir trau-
-    kėsi, tačiau kiekvienas priešininko žingsnis į
-    priekį buvo pasiektas tik didelių aukų kaina.
-    Ne veltui karalius S. A. Poniatovskis apdova-
-    nojo keliolika šio mūšio karininkų ir karei-
-    vių neseniai įsteigto karinio Virtuti Militari
-    ordino auksiniais ir sidabriniais medaliais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

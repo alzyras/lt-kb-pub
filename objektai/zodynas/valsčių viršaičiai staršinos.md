@@ -48,27 +48,6 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
   teiginys: "1861 m. įkurtų valsčių viršaičiai buvo vadinami staršinomis."
   pagrindžia:
     - c-166384
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstatymu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Krašto valdymo reformos panaikinus baudžiavą
-
-    **Savivaldybės.** Valsčių savivaldybės buvo įkurtos jau
-    1861 m. baudžiavos panaikinimo įstatymu. Muravjovas jas pa-
-    keitė ir naujai pertvarkė. 1861 m. įkurtų valsčių viršaičiai (star-
-    šinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti,
-    buvo atstatyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

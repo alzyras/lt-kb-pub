@@ -43,29 +43,6 @@ Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įt
     - c-82294
 - susijęs iš [[objektai/posakiai/Vendimus abscedimus, et resignamus.md#claim-t-86875|Vendimus abscedimus, et resignamus]]: Formulė „Vendimus abscedimus, et resignamus“ pavartota 1536 m. dominikonų sutartyje, kuria miestui parduotas Vingrių šaltinis.
 - susijęs iš Vilija: Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmiausia jų,
-    regis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi
-    namus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms
-    šeimoms. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­
-    nyje į Viliją įteka Vingrių šaltinis, pavadinimas.
-    Tačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m.)
-    temdė neramumai, grėsę ne tik iš kryžiuočių, bet ir per Vytau­
-    to vaidus su Jogaila, ir dar ne visai suderintus Lietuvos ir Len­
-    kijos interesus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82294

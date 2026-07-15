@@ -40,7 +40,6 @@ Imperatoriaus Klaudijaus valdymo metu, apie 50 m. po Kristaus, klajokliai užėm
 - susijęs iš Naisa: Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumušė gotų kariuomenę.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-192403|Gotai]]: Narbutas rašo, kad apie 269 metus gotai su maždaug 320 000 ginkluotų žmonių armija puolė imperiją, siekdami ją užkariauti.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Imperatoriaus Klaudijaus valdymo metu, apie 50 m. po Kristaus, klajokliai užėmė Tisos žemupius ir nugalėjo tenykščius slavus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -66,17 +65,18 @@ Imperatoriaus Klaudijaus valdymo metu, apie 50 m. po Kristaus, klajokliai užėm
 - id: c-174386
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Maždaug tuo metu, kai
-    Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir
-    Dunojaus prie Juodosios jūros. Paskui pamažu, valdant
-    imperatoriui Klaudijui, apie 50 metus po Kristaus gimimo,
-    užėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo
-    tenykščius gyventojus slavus, užimdami daug jų miestų.
-    Vėliau jie prašė padėti kaimynines germanų tautas —■ vik-
-    lofalus ir kvadus, kad šie padėtų nugalėti užkariautojus1.
+    Pirmiesiems priklausė jazigai, susimai­
+    šę su nukariautais slavais, o antriesiems — aukštesnioji
+    jazigų klasė, nesimaišiusi su užkariauta Jauta. Pats se­
+    niausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­
+    gai egzistavo dar prieš Kristų, yra istorinis paminklas, da­
+    bar saugomas Imperatoriškajame Senienų kabinete Vie­
+    noje; jį mini Safaržykas2. Tai auksinė taurė, kuri kartu
+    su kitomis brangenybėmis 1799 metais buvo rasta Toron-
+    talo komitate, netoli Šv.
+  citata_rodoma: "Maždaug tuo metu, kai\nOvidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir\nDunojaus prie Juodosios jūros. Paskui pamažu, valdant\nimperatoriui Klaudijui, apie 50 metus po Kristaus gimimo,\nužėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo\ntenykščius gyventojus slavus, užimdami daug jų miestų.\nVėliau jie prašė padėti kaimynines germanų tautas —■ vik-\nlofalus ir kvadus, kad šie padėtų nugalėti užkariautojus1."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

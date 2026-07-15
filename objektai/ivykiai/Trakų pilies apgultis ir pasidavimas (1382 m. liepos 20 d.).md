@@ -57,26 +57,6 @@ Nenurodyta
   teiginys: "1382 m. liepos 20 d. Skirgaila įtikino Trakų pilies įgulą pasiduoti Jogailos ir kryžiuočių apgulties metu."
   pagrindžia:
     - c-93974
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1382 m. liepos 20 d. Skirgaila įtikino Trakų pilies įgulą pasiduoti Jogailos ir kryžiuočių apgulties metu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį^16 ,
-    Skirgailai pasisekė įgulą įtikinti pasiduoti (VII.20). Visas savo
-    bombardas palikę Jogailai, kryžiuočiai «linksmi ir sveiki grįžo
-    namo »^17. Kai Kęstutis su Vytautu, pasitelkę seną Liubartą, su
-    savo kariuomene VIII.3 d. atvyko prie Trakų, Jogailos pusėje jau
-    buvo pasirodę Livonijos kryžiuočiai, atvykę čia po Žemaičių terio-
-    jimo^18.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

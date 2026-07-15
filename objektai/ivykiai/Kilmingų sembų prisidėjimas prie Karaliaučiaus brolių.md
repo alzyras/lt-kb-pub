@@ -8,6 +8,8 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
+  - pilis
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,62 +53,29 @@ Nenurodyta
   teiginys: "Kai kurie kilmingi sembai su šeimomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių."
   pagrindžia:
     - c-63643
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Kai kurie kilmingi sembai su šeimomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių
-
-      Nė  šis smarkus sukrėtimas neįvarė sembams proto  ir nepaskatino jų sugrįžti  į
-    šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš
-    viešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos
-    garsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su
-    šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.
-
-
-
-
-     101 (96). Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
-                            pirmiausia — prieš Kvedenavos valsčių
-
-      Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,
-    be to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai
-    paklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196948"></a>
+- t-002
+  global_id: t-196948
+  teiginys: "Šis pabėgo į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo namų šeimyna bei visi turtai buvo brolių išsklaidyti."
   pagrindžia:
-    - t-001
+    - c-63643
 
 ## Citatos
 
 - id: c-63643
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 119"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių
-
-      Nė  šis smarkus sukrėtimas neįvarė sembams proto  ir nepaskatino jų sugrįžti  į
-    šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš
-    viešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos
-    garsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su
-    šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.
-
-
-
-
-     101 (96). Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
-                            pirmiausia — prieš Kvedenavos valsčių
-
-      Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,
-    be to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai
-    paklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu.
+    Šis pabėgo į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo
+    namų šeimyna bei visi turtai buvo brolių išsklaidyti. Ilgainiui tas pats Noliubas, dažnų
+    antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl
+    savo įsitikinimų, ir dėl darbų.
+    102 (97). Apie tai, kaip buvo sunku atgabenti maisto į Karaliaučiaus pilį
+    Prūsai, užkietėję piktadariai, ilgai suko galvą, kaip sunaikinti Karaliaučiaus pilį.
+    Viešpats tą vietą buvo pasirinkęs savo vardui garbinti ir šlovinti373, todėl, bausdamas juos
+    už piktus sumanymus bei klastingas užmačias, niekais vertė viską, ko šie griebdavosi.
   citata_rodoma: "Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių\n\n  Nė  šis smarkus sukrėtimas neįvarė sembams proto  ir nepaskatino jų sugrįžti  į\nšventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš\nviešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos\ngarsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su\nšeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.\n\n\n\n\n 101 (96). Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o\n                        pirmiausia — prieš Kvedenavos valsčių\n\n  Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,\nbe to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai\npaklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu."
   statusas: verified
   teiginio_tipas: faktas
@@ -114,3 +83,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62825
+    - t-196948

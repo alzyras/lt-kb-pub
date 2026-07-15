@@ -54,42 +54,6 @@ media_all_json: |-
 - susijęs iš Zigmanto Kęstutaičio 1434 m. privilegija: Zigmanto Kęstutaičio 1434 m. privilegija sulygino civilines pravoslavų ir katalikų teises, bet pravoslavai valstybinių vietų negalėjo gauti.
 - susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188014|Bazilijonų ordinas]]: Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.
 - susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188017|Bazilijonų ordinas]]: Bazilijonų ordinas Lietuvoje turėjo kelias dešimtis vienuolynų ir daugiausia rūpinosi unitų mokymu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Apie pusę tų laikų didž. Lietuvos kunigaikštijos gyventojų
-    buvo rusų kilmės ir graikų tikybos arba, kaip paskutiniais am­
-    žiais pradėta vadinti, pravoslavai. Jie priklausė Konstantino­
-    polio patriarchatui ir kadaise buvo valdomi vieno Kijevo metro­
-    polito.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Visa tai sukėlė tarp pravoslavų nepasitenkinimą bei anta­
-    gonizmą. Vytautas tai matė ir negalėjo nedėti pastangų atitai­
-    syti. Jis nebandė to antagonizmo sušvelninti praplėsdamas pra­
-    voslavų teises, kaip tai darė jo brolis Zigmantas, bet suprasda­
-    mas tautos vieningumo religišku atžvilgiu svarbą, jis iškėlė rytų
-    ir vakarų bažnyčių unijos idėją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-14705
@@ -109,8 +73,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11777
     - t-11775
+    - t-11777
 
 - id: c-14706
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

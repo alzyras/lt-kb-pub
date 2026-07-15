@@ -35,8 +35,8 @@ Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui neb
   teiginys: "Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui nebeliko Polocko kunigaikščių, vadinama nepagrįsta."
   pagrindžia:
     - c-170711
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui nebeliko Polocko kunigaikščių, vadinama nepagrįsta.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -60,10 +60,17 @@ Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui neb
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­
-    locko kunigaikščių, nepagrįsta. Pagal rusų metraščius ir Henriko
-    Latvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko
-    patekimo Lietuvos valdžion XIII a. viduryje.
+    M. Strijkovskis savo kronikoje (1766 m. lei­
+    dimas, p. 2391 tęsia pasakojimą tokiu sakiniu: „Tuo pat metu mirė
+    Kukovaitis, 2ivinbudo iš Kentauro herbo giminės sūnus. Užnerto
+    Lietuvos valdovas". Lietuvos metraščių PS toje pačioje vietoje apie
+    Kukovaičio mirt) nekalbama, o vietoj spragos, buvusios BK rank­
+    raštyje, yra pasakojimas apie Kukovaičio motinos Pajautos mirti-
+    Užpildydami spragą, dedame tos vietos vertimą iš PS antrosios re­
+    dakcijos Račinskių nuorašo (PSRL, t. 17, p. 302—304), kadangi ligi
+    spragos BK tekstas beveik pažodžiui sutampa su PS antrosios re­
+    dakcijos nuorašų tekstais.
+  citata_rodoma: "1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­\nlocko kunigaikščių, nepagrįsta. Pagal rusų metraščius ir Henriko \nLatvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko \npatekimo Lietuvos valdžion XIII a. viduryje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -35,57 +35,6 @@ media_all_json: |-
   teiginys: "Posakis „Rėkė „baškon“ įsilipę“ pateiktas šalia eilutės „Lipdė laisvę ir lygybę iš sulūžusių tvorų“."
   pagrindžia:
     - c-77357
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Posakis „Rėkė „baškon“ įsilipę“ pateiktas šalia eilutės „Lipdė laisvę ir lygybę iš sulūžusių tvorų“.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sovietų gamybos pistoletas-kulko-
-    svaidis PPS (Pistolet-pulemiot Sudaeva).
-    Šovinys - 7,62x25 mm TT, dėtuvė -
-
-    35 šovinių, efektyvaus šūvio nuotolis —
-    200 m, šaudymo tempas - 600-900 šūvių
-    per minutę, svoris 3,04 kg
-
-    Liepsnos
-    slopintuvas
-
-    Vamzdis
-
-    Grąžinamoji Spyna Taikiklis Uoksas Kryptukas
-
-    spyruoklė
-
-    Šovinio lizdas
-
-    Lipdė laisvę ir lygybę
-    ft sulūžusių tvorų. ~-
-    Rėkė "baškon" įsilipę,
-
-    Nuleistuko
-    spyruoklė Spynos galinės
-
-    padėties fiksatorius
-
-    Nuleistukas Dėtuvės
-    fiksatorius
-
-    Pistoletinė
-    rankena
-
-    Spyna juda pirmyn-atgal, kol pirštas atleidžia nuleistuką ir šis
-    pakelia į viršų spynos galinės padėties fiksatorių, kuris sustabdo
-
-    spyną (arba kol baigiasi šoviniai dėtuvėje).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

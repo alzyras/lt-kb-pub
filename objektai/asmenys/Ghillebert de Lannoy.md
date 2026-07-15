@@ -43,27 +43,6 @@ media_all_json: |-
   pagrindžia:
     - c-36303
 - susijęs iš Galvės ežero salos pilis (pilis): 1414 m. Galvės ežero salos pilyje apsilankė Burgundijos riteris Ghillebert de Lannoy.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ghillebert de Lannoy užsiminė, kad iš Vytauto kanceliarijos buvo siuntinėjami raštai totorių kalba.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Mokėjo ne tik vokiečių, bet ir lotynų kalbą. Galėjo mokėt
-    ir rusų, nes su jų kunigaikščiais vedė daug reikalų ir giminia­
-    vosi. Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­
-    bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo
-    kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert
-    de Lannoy, buvo siuntinėjami totorių kalba raštai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-36303

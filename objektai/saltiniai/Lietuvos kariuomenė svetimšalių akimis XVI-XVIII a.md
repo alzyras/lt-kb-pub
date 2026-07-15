@@ -34,20 +34,6 @@ media_all_json: |-
   teiginys: "131, „HUSARAI“, Lietuvos kariuomenė svetimšalių akimis xvI-xVIII a., p. 104-107."
   pagrindžia:
     - c-176471
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '131, „HUSARAI“, Lietuvos kariuomenė svetimšalių akimis xvI-xVIII a., p. 104-107.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 131, „HUSARAI“, Lietuvos kariuomenė svetimšalių akimis xvI-xVIII a., p. 104-107.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

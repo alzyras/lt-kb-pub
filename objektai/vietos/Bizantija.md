@@ -84,7 +84,7 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
 - susijęs iš [[objektai/posakiai/„niekieno neatsiklausdamas“.md#claim-t-77851|„niekieno neatsiklausdamas“]]: Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas, kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu valdovu.
 - susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino lietuvių imperatoriumi ir kėlė save virš Maskvos bei Tverės kunigaikščių.
 - susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino lietuvių imperatoriumi ir kėlė save virš Maskvos bei Tverės kunigaikščių.
-- susijęs iš Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija: Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys rusai prisidėtų prie Rytų ir Vakarų bažnyčių santarvės.
+- susijęs iš Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija: Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėjimo ir raginęs Eleną pereiti į Romos tikėjimą.
 - susijęs iš Gedimino laiškai: Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex.
 - susijęs iš J. Fijałek Średniowieczne biskupstwa: J. Fijałeko „Średniowieczne biskupstwa“ minima kaip 1896 m. „Kwartalnik Historyczny“ publikacija.
 - susijęs iš K. Chodynicki Legenda o męczeństwie czternastu Franciszkanów w Wilnie: K. Chodynickio „Legenda o męczeństwie czternastu Franciszkanów w Wilnie“ 1927 m. paskelbta AW IV tome, 53–78 puslapiuose.
@@ -96,9 +96,6 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
 - susijęs iš Maskva: Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai.
 - susijęs iš Naugardas: Į Vytauto susitikimą atvyko Naugardo kunigaikščiai ir kitų kraštų valdovai bei pasiuntiniai.
 - susijęs iš Naugardas: Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Pskovo kunigaikščiai.
 - susijęs iš Silezija: Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.
 - susijęs iš Tverė: Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai.
 - susijęs iš Tverė: Tverio-Riazanės kunigaikščiai buvo tarp atvykusių dalyvių kartu su Naugardo ir Pskovo kunigaikščiais.
@@ -106,26 +103,6 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
 - susijęs iš [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai.md#claim-t-183398|aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]: Iki 1386 m. Lietuva, autorių vertinimu, gali būti vadinama savotiška arba nesistemine karalyste.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185335|žygūnas]]: Aleksandras pavedė Trakų vaivadai Zaberezinskiui atsakyti Ivano žygūnui dėl mėginimo numalšinti Ivano įsiūtį per pasiuntinius.
 - susijęs iš [[objektai/grupes/Bizantijos imperija.md#claim-t-01290|Bizantijos imperija]]: Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
-    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
-    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
-    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
-    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
-    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
-    džiai priimti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38458

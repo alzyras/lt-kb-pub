@@ -44,23 +44,6 @@ media_all_json: |-
   teiginys: "Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas."
   pagrindžia:
     - c-02395
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Paliaubų sutartis Lietuvai ir Lenkijai buvo naudinga: ja
-    Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sri-
-    tis, kuri Maskvos valdžioje buvo nuo 1514 m. (žiūr. 204 psl.),
-    o prie Lenkijos buvo priskirti Černigovas ir Naugardas Sie-
-    verskas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

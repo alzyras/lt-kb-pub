@@ -44,22 +44,6 @@ media_all_json: |-
   teiginys: "M. Hruševskio „Istorija Ukrajiny-Rusy“ 4 tomas antruoju leidimu išėjo 1907 m., o 5–6 tomai – Kijeve ir Lvove 1905–1907 m."
   pagrindžia:
     - c-33581
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    HPol = Historia Polski, t. 1 (iki 1764), 1-2 dalys, red. H. Low-
-    miański, Instytut Historii PAN, 2 1959.
-    HrIU = Hruševs’kyj, M. : Istorija Ukrajiny-Rusy, t. 4 (2-ras leid.),
-    1907 ; t. 5-6, Kijevas-Lvovas 1905-1907.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

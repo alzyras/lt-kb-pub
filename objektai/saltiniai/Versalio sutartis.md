@@ -41,65 +41,7 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   teiginys: "Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų."
   pagrindžia:
     - c-48459
-
-<a id="claim-t-183386"></a>
-- t-003
-  global_id: t-183386
-  teiginys: "Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų."
-  pagrindžia:
     - c-166779
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Versalio sutarties 28 straipsnis atribojo Klaipėdos kraštą nuo Vokietijos ir perdavė jį laikinai sąjungininkų kontrolei.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pralaimėjusi karą Vokietija tam ener-
-    gingai nesipriešino, manydama sumažinti sąjungininkų intrigas. Versalio
-    sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir
-    perdavė laikinai sąjungininkų kontrolei. Prancūzija Žoržo B. Klemanso
-    (Georges B. Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai
-    nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada
-    buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
-    jūrą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
-    nistracija, remiama bataliono prancūzų pėstininkų. Prancūzai skelbė, kad
-    Klaipėda gali tapti Lietuvos, bet tik susivienijusios su Lenkija, dalimi. Mat
-    ir Lenkija neslėpė savo planų įsitvirtinti Klaipėdoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuviams mainų principas netiko, nes Vilnius – senoji sostinė, tačiau
-    uostas labai rūpėjo. Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
-    nistracija, remiama bataliono prancūzų pėstininkų. Prancūzai skelbė, kad
-    Klaipėda gali tapti Lietuvos, bet tik susivienijusios su Lenkija, dalimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -153,5 +95,3 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183386

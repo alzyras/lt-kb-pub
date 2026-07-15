@@ -5,12 +5,14 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1315 m.'
+  - '1317 m.'
 date_start: '1315'
-date_end: ''
+date_end: '1317'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - pilis
   - mūšis
 amziai:
   - 'XIV'
@@ -57,44 +59,33 @@ Nenurodyta
   teiginys: "1315 m. spalio 12 d. Karolis su 6000 vyrų naktį puolė Junigedos papilį, paėmė 78 žmones į nelaisvę ir sudegino papilį iki pamatų."
   pagrindžia:
     - c-62839
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: '1315 m. spalio 12 d. Karolis su 6000 vyrų naktį puolė Junigedos papilį, paėmė 78 žmones į nelaisvę ir sudegino papilį iki pamatų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Junigedos papilio sudeginimą 1315 m. spalio 12
-
-      Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir
-    sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją
-    išvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus
-    šešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos
-    papilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie
-    nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196945"></a>
+- t-002
+  global_id: t-196945
+  teiginys: "Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis."
   pagrindžia:
-    - t-001
+    - c-62839
 
 ## Citatos
 
 - id: c-62839
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 211"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 211."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Junigedos papilio sudeginimą 1315 m. spalio 12
-
-      Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir
-    sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją
-    išvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus
-    šešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos
-    papilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie
-    nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.
+    Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
+    Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
+    broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę
+    į keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti
+    kai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra
+    kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
+    vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
+    apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
+    Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
+    ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais
+    kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
+    nelaisvę, o daugybę vyrų nukovė.
   citata_rodoma: "Apie Junigedos papilio sudeginimą 1315 m. spalio 12\n\n  Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir\nsielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją\nišvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus\nšešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos\npapilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie\nnuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę."
   statusas: verified
   teiginio_tipas: faktas
@@ -102,3 +93,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62300
+    - t-196945

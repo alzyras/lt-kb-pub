@@ -53,34 +53,6 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   pagrindžia:
     - c-09634
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82182|Aleksandras Jogailaitis]]: Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.
-- susijęs iš Vilnius: Žinia apie pergalę Aleksandrą pasiekė Vilniuje, kai valdovas jau merdėjo.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Nes jei vyresnieji sūnai buvo išrėdyti^1118 iš namų viršiau minavotu pragumu, tad mažasis sunūs paliko butoje tėvų karšinčium ir veldėjo tėviškę ir visą palikimą; jam reikėjo seseris išrėdyti^1119 su tokia pasoga^1120 , kokią tėvas mirdamas buvo joms padėjęs, jei nebuvo padėta, mažasis brolis turėjo iš trečiosios dalies savo tėviškės išrėdyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Jei tėvai bevaikiai buvo, tad priėmė sau karšinčių, kurs, įstojęs į sūnaus vietą, į karę turėjo traukti už tėvą, nuo ko ir karšinčium vadinos, priimti vardą savo geradėjų ir juos nukaršinti padoriai, kaip pridera sūnui savo tėvus, kuriems mirus, visa paveldėjo, it būt jų sūnus buvęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-09634
@@ -95,8 +67,8 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07706
     - t-07705
+    - t-07706
 
 - id: c-09635
   autorius: "Simonas Daukantas"

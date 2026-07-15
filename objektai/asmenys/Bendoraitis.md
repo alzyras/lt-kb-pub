@@ -35,26 +35,6 @@ Bendoraitis apsisuko kelis kartus ore ir nukrito.
   teiginys: "Po sviedinio sprogimo skyrininkas Bendoraitis buvo išmestas aukščiau telefono stulpų ir nukrito."
   pagrindžia:
     - c-44309
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vienas sviedinys sprogo po
-    skyrininku Bendoraičiu ir išmetė jį aukščiau telefono stulpų.
-    Bendoraitis apsisuko kelis kartus ore ir nukrito. Atrodė, kad
-
-    Bermontininkas —
-
-    AB 1 Aap ee iš vokiečių karys
-    pamatė už kokių penkiolikos metrų gulintį savo šautuvą. ai
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

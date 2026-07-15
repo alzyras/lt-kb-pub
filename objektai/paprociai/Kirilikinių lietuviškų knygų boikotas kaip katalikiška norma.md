@@ -69,47 +69,6 @@ Nenurodyta
   teiginys: "Lietuviškų kirilikinių knygų boikotą skatino valdžios draudimai lietuviškoms mokykloms ir diskriminacinės priemonės prieš Katalikų bažnyčią."
   pagrindžia:
     - c-166703
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kirilikinių lietuviškų knygų boikotas sužlugdė valdžios užmačią lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Beje, ekspertus apstulbino tai, kad Kauno guber-
-    nijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis
-    nei vyrų: atitinkamai 55 proc. ir 52 proc.
-    Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį
-    lotyniškąjį raidyną kirilika. Jei valdžia būtų leidusi lietuviškas pradžios
-    mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi dis-
-    kriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į
-    stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Lietuviškų kirilikinių knygų boikotą skatino valdžios draudimai lietuviškoms mokykloms ir diskriminacinės priemonės prieš Katalikų bažnyčią.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį
-    lotyniškąjį raidyną kirilika. Jei valdžia būtų leidusi lietuviškas pradžios
-    mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi dis-
-    kriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į
-    stačiatikybę, abėcėlė boikoto galėjo nesusilaukti. M. Valančius, perpratęs
-    valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios
-    brukamas knygas katalikui yra nuodėmė. Todėl jų bemaž niekas ir ne-
-    skaitė. O neturėdama skaitytojų valdžia jų išleido vos 60.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -132,6 +91,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-54249
     - t-54250
 
 - id: c-166703

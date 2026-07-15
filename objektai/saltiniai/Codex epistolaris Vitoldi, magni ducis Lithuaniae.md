@@ -48,8 +48,8 @@ media_all_json: |-
   teiginys: "Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m."
   pagrindžia:
     - c-37190
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -61,21 +61,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    C. ep. V. = Codex epistolaris Vitoldi Magni Ducis Lithvan.
-    1376—1430 Collec. opera A. Prochaska. Cracoviae,
-    1882 (VI tom. iš „Monumentą medii aevi historica res
-    gestas Poloniae illustrantia“).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

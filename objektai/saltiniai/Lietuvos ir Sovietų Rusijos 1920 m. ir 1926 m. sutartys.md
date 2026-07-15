@@ -42,27 +42,6 @@ Nors paktas minėjo Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kai
   teiginys: "SSRS ir Lietuvos savitarpio pagalbos sutartis rėmėsi 1920 m. ir 1926 m. Lietuvos bei Sovietų Rusijos sutartimis kaip baziniais dokumentais."
   pagrindžia:
     - c-23866
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'SSRS ir Lietuvos savitarpio pagalbos sutartis rėmėsi 1920 m. ir 1926 m. Lietuvos bei Sovietų Rusijos sutartimis kaip baziniais dokumentais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
-    iki 20 000. Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija
-    jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
-    V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
-    SSRS ir Lietuvos savitarpio pagalbos sutartis. Nors paktas minėjo Lietu-
-    vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių
-    santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
-    nepriklausomybei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

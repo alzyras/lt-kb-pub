@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti galvą.
+Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti galvą. Per pilies gaisrą ir puolimą žuvo kunigaikštis Konstantinas Karigaila, Jogailos brolis.
 
 ## Teiginiai
 
@@ -35,57 +35,34 @@ Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti ga
   teiginys: "Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti galvą."
   pagrindžia:
     - c-169492
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti galvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kas liks
-    pilyje, turės žūti nuo ugnies, kas veršis iš pilies, kris
-    nuo priešo rankos; metraštininkai rašo, jog žuvo ketu­
-    riolika tūkstančių žmonių, vieni — nuo liepsnos, kiti —
-    nuo kalavijų. Nelaimė tapo dar skaudesnė, kai žuvo
-    kunigaikštis Konstantinas Karigaila, Jogailos brolis.
-    Vargais negalais pasprukęs nuo gaisro, jis pateko į
-    rankas vokiečiams, kurie jį nuvedė pas Vytautą; čia,
-    pusbrolio akyse, ir prarado gyvybę, kurios iš jo neatė­
-    mė nei liepsna, nei priešas; Vytautas įsakė jam nukirsti
-    galvą, užmauti ant ieties ir nešioti po stovyklą: apgai­
-    lėtinas įrodymas, jog brolių nesantarvė visada esanti
-    nepaprastai žiauri.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196526"></a>
+- t-002
+  global_id: t-196526
+  teiginys: "Per pilies gaisrą ir puolimą žuvo kunigaikštis Konstantinas Karigaila, Jogailos brolis."
   pagrindžia:
-    - t-001
+    - c-169492
 
 ## Citatos
 
 - id: c-169492
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 317"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 317."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kas liks
+    Slapta padegtas medžio statinys netruko visų
+    akyse pavojingai įsiliepsnoti; apsėmusi įtvirtinimų kuo­
+    rus bei sienas, liepsna beveik akies mirksniu išvaikė gy­
+    nėjus, kurie atsidūrė nelyginant ties bedugne. Kas liks
     pilyje, turės žūti nuo ugnies, kas veršis iš pilies, kris
     nuo priešo rankos; metraštininkai rašo, jog žuvo ketu­
     riolika tūkstančių žmonių, vieni — nuo liepsnos, kiti —
     nuo kalavijų. Nelaimė tapo dar skaudesnė, kai žuvo
     kunigaikštis Konstantinas Karigaila, Jogailos brolis.
-    Vargais negalais pasprukęs nuo gaisro, jis pateko į
-    rankas vokiečiams, kurie jį nuvedė pas Vytautą; čia,
-    pusbrolio akyse, ir prarado gyvybę, kurios iš jo neatė­
-    mė nei liepsna, nei priešas; Vytautas įsakė jam nukirsti
-    galvą, užmauti ant ieties ir nešioti po stovyklą: apgai­
-    lėtinas įrodymas, jog brolių nesantarvė visada esanti
-    nepaprastai žiauri.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186131
+    - t-196526

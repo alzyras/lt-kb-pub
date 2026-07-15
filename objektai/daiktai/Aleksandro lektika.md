@@ -62,29 +62,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Kiška.md#claim-t-87755|Kiška]]: Krymo totoriams priartėjus prie Lydos, Aleksandras pavedė kariuomenei vadovauti etmonui Kiškai ir kunigaikščiui Glinskiui.
 - susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-87411|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Jonas Laskis.
 - susijęs iš [[objektai/grupes/Krymo orda.md#claim-t-86728|Krymo orda]]: Krymo chano sūnūs su 20 000 totorių, pakeliui plėšdami ir degindami, priartėjo prie Lydos.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau neilga buvo karaliaus vieš­
-    nagė šioje pilyje, kadangi, vos dienai praėjus, pakeliui
-    piešdami ir degindami, prie Lydos prisiartino Krymo cha­
-    no sūnūs su 20 000 totorių. Kilo didelis pavojus karaliaus
-    saugumui, tad Aleksandras, ponų patarimu, kariuomenei
-    vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­
-    kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­
-    nių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
-    Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
-    Laskis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-55371

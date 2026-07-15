@@ -51,24 +51,6 @@ Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, | | Aukštadvarį ir pa
 - susijęs iš Popiežiai lietuvių tautos priešai: Knyga „Popiežiai lietuvių tautos priešai“ citatoje apibūdinta kaip vienašališkai poleminė ir datuota 1948 m.
 - susijęs iš Popiežiai lietuvių tautos priešai: Knyga „Popiežiai lietuvių tautos priešai“ išleista 1948 m. ir Ivinskio apibūdinta kaip vienašališkai poleminė.
 - susijęs iš [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas.md#claim-t-40827|6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]: Batalionas ankstyvą popietę pasiekė Aukštadvario miestelį ir išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    |
-    | Kovo mėnesį vieną dieną pradėta organizuoti rinktinė iš Kauno ir Aukštosios Panemunės |
-    | įgulų puolančiam priešui atremti. Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, |
-    | Aukštadvarį ir pasiekė Jiezną. Į rinktinę buvo priimami tik tie savanoriai, kurie turėjo bent |
-    | šiek tiek pakenčiamus batus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45028

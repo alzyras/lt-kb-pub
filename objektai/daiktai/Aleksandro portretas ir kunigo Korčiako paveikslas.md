@@ -69,34 +69,6 @@ Nenurodyta
   pagrindžia:
     - c-78387
 - susijęs iš [[objektai/asmenys/Korčiakas.md#claim-t-87536|Korčiakas]]: Šv. Dvasios dominikonų bažnyčioje priešais karaliaus Aleksandro portretą buvo kunigo Korčiako paveikslas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šv. Dvasios dominikonų bažnyčioje buvo matomas karaliaus Aleksandro portretas visu ūgiu ir tokio pat dydžio kunigo Korčiako paveikslas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pa-
-    49
-    Daug sutarčių su tuo Onka yra Lie­
-    tuvos Metrikoje, V knygoje, prie
-    1505 metų.
-    50
-    Iki šiol Šv. Dvasios dominikonų baž­
-    nyčioje galima pamatyti karaliaus
-    Aleksandro portretą visu ūgiu ant
-    pirmosios kolonos nuo įėjimo deši­
-    nėje pusėje, o ant priešais stovinčios -
-    tokio pat didumo kunigo Korčiako
-    paveikslą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-78387
@@ -122,5 +94,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81840
     - t-55030
+    - t-81840

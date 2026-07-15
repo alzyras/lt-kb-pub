@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 379
+tema_objektu_skaicius: 382
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 379.
+Objektų skaičius: 382.
 
 ## Kaip naudoti
 
@@ -24,6 +24,27 @@ Objektų skaičius: 379.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Hugonas Butyras]]
+- [[objektai/asmenys/Konradas Štangė]]
+- [[objektai/asmenys/Petras (Hermano iš Lichtenburgo nuodėmklausys)]]
+- [[objektai/asmenys/Teodoras]]
+
+### Autoriai
+- [[objektai/autoriai/J. I. Kraševskis]]
+
+### Papročiai
+- [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
+
+### Posakiai
+- [[objektai/posakiai/daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium]]
+- [[objektai/posakiai/karų neras aprašytų tokia seka, kokia jie yra vykę]]
+
+### Vietos
+- [[objektai/vietos/Lvovas]]
+- [[objektai/vietos/Pagraudė]]
+- [[objektai/vietos/Veližas]]
 
 ### Įvykiai
 - [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]
@@ -40,17 +61,16 @@ Objektų skaičius: 379.
 - [[objektai/ivykiai/Antrasis karas su Maskva (1512–1522 m.)]]
 - [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
 - [[objektai/ivykiai/ATR karai su Švedija XVII a]]
-- [[objektai/ivykiai/Augustavo-Suvalkų operacija]]
-- [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
-- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
-- [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]
-- [[objektai/ivykiai/Baigos pilies apgula ir Pijopo žūtis|Baigos pilies apgula ir Pijopo žūtis (pilis)]]
-- [[objektai/ivykiai/Baigos pilies užėmimas (1239 m.)]]
-- [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]
-- [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
-- [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
-- [[objektai/ivykiai/Bisenės pilies puolimas (1313 m.)]]
-- [[objektai/ivykiai/Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas]]
+- [Augustavo-Suvalkų operacija](../objektai/ivykiai/Augustavo-Suvalk%C5%B3%20operacija)
+- [Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)](../objektai/ivykiai/Augustavo-Suvalk%C5%B3%20operacija%20%281920%20m.%20rugs%C4%97jo%2022%20d.%20%E2%80%93%20rugs%C4%97jo%20pabaiga%29)
+- [Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)](../objektai/ivykiai/Auk%C5%A1%C4%8Diausiosios%20Tarybos%20r%C5%ABm%C5%B3%20gynyba%20%281991%20m.%20sausis%E2%80%93rugpj%C5%ABtis%29)
+- [B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)](../objektai/ivykiai/B.%20Serebriano%20kariuomen%C4%97s%20sutriu%C5%A1kinimas%20po%20Ulos%20m%C5%AB%C5%A1io)
+- [Baigos pilies apgula ir Pijopo žūtis (pilis)](../objektai/ivykiai/Baigos%20pilies%20apgula%20ir%20Pijopo%20%C5%BE%C5%ABtis)
+- [Baigos pilies užėmimas (1239 m.)](../objektai/ivykiai/Baigos%20pilies%20u%C5%BE%C4%97mimas%20%281239%20m.%29)
+- [Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)](../objektai/ivykiai/Bajazito%20puolimas%20Valachijoje%20ir%20lenk%C5%B3%20pagalba%20Steponui%20%281485%20m.%29)
+- [Baro konfederacija (1768–1772 m.)](../objektai/ivykiai/Baro%20konfederacija%20%281768%E2%80%931772%20m.%29)
+- [Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)](../objektai/ivykiai/Bendras%20karas%20su%20Vokie%C4%8Di%C5%B3%20Ordinu%2C%20Melno%20taika%20ir%20%C5%BDemai%C4%8Di%C5%B3%20sutvarkymas%20%281422%20m.%29)
+- [Bisenės pilies puolimas (1313 m.)](../objektai/ivykiai/Bisen%C4%97s%20pilies%20puolimas%20%281313%20m.%29)
 - [Brastos pasipriešinimas 1792 m. kare](../objektai/ivykiai/Brastos%20pasiprie%C5%A1inimas%201792%20m.%20kare)
 - [Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.)](../objektai/ivykiai/Bresto%20pasitarimas%20ir%20sprendimas%20prad%C4%97ti%20bendr%C4%85%20kar%C4%85%20prie%C5%A1%20kry%C5%BEiuo%C4%8Dius%20%281410%20m.%29)
 - [Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)](../objektai/ivykiai/Brolio%20Ernek%C4%97s%20%C5%BE%C5%ABtis%20prie%20Kolaini%C5%B3%20pilies%20%281290%20m.%20gegu%C5%BE%C4%97s%2012%20d.%29)
@@ -83,7 +103,6 @@ Objektų skaičius: 379.
 - [Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas](../objektai/ivykiai/Henriko%20Stang%C4%97s%20%C5%BEygis%20%C4%AF%20Semb%C4%85%20ir%20Girmavos%20nuniokojimas)
 - [Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties](../objektai/ivykiai/Herul%C5%B3%20pasitraukimas%20prie%20Dunojaus%20ir%20Rudolfo%20karas%20su%20longobardais%20po%20Odoakro%20mirties)
 - [Informacijos perdavimas po Sausio 13-osios ir Lietuvos kreipimasis į JT (1991 m. sausio 13 d.)](../objektai/ivykiai/Informacijos%20perdavimas%20po%20Sausio%2013-osios%20ir%20Lietuvos%20kreipimasis%20%C4%AF%20JT%20%281991%20m.%20sausio%2013%20d.%29)
-- [Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas](../objektai/ivykiai/Ivano%20Vasiljevi%C4%8Diaus%20karo%20prie%C5%A1%20Aleksandr%C4%85%20planavimas)
 - [Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)](../objektai/ivykiai/Jogailos%20ir%20Vokie%C4%8Di%C5%B3%20ordino%20puolimo%20sutartis%20%281382%20m.%20liepos%206%20d.%29)
 - [Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)](../objektai/ivykiai/Jogailos%20ir%20Vytauto%20pergal%C4%97%20prie%C5%A1%20Pr%C5%ABsijos%20vokie%C4%8Dius%20m%C5%AB%C5%A1yje%20prie%20Dubrovnos)
 - [Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.)](../objektai/ivykiai/Jogailos%20ir%20Vytauto%20susitaikinimas%20Ostrove%20%281392%20m.%20rugpj%C5%AB%C4%8Dio%205%20d.%29)
@@ -106,7 +125,6 @@ Objektų skaičius: 379.
 - [Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)](../objektai/ivykiai/Kijevo%20Jaroslavo%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20ir%20Naugarduko%20%C4%AFk%C5%ABrimas%20%281044%20m.%29)
 - [Kilmingų sembų prisidėjimas prie Karaliaučiaus brolių](../objektai/ivykiai/Kilming%C5%B3%20semb%C5%B3%20prisid%C4%97jimas%20prie%20Karaliau%C4%8Diaus%20broli%C5%B3)
 - [Kimbrų pirmasis karas su romėnais prie Nortbėjos](../objektai/ivykiai/Kimbr%C5%B3%20pirmasis%20karas%20su%20rom%C4%97nais%20prie%20Nortb%C4%97jos)
-- [Kolainių pilies puolimas (1290 m. balandžio 23 d.)](../objektai/ivykiai/Kolaini%C5%B3%20pilies%20puolimas%20%281290%20m.%20baland%C5%BEio%2023%20d.%29)
 - [Kolainių pilies puolimas (1290 m.)](../objektai/ivykiai/Kolaini%C5%B3%20pilies%20puolimas%20%281290%20m.%29)
 - [Kolainių pilies sudeginimas ir Junigedos valsčiaus nusiaubimas (1291 m. vasario 2 d.)](../objektai/ivykiai/Kolaini%C5%B3%20pilies%20sudeginimas%20ir%20Junigedos%20vals%C4%8Diaus%20nusiaubimas%20%281291%20m.%20vasario%202%20d.%29)
 - [Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru](../objektai/ivykiai/Konrado%20i%C5%A1%20Foichtvangeno%20paskyrimas%20Pr%C5%ABsijos%20ir%20Livonijos%20magistru)
@@ -185,7 +203,6 @@ Objektų skaičius: 379.
 - [Livonijos raitelių žūtis Žemaitijoje (1466 m.)](../objektai/ivykiai/Livonijos%20raiteli%C5%B3%20%C5%BE%C5%ABtis%20%C5%BDemaitijoje%20%281466%20m.%29)
 - [Magdeburgo teisių suteikimas Lietuvos miestams](../objektai/ivykiai/Magdeburgo%20teisi%C5%B3%20suteikimas%20Lietuvos%20miestams)
 - [Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)](../objektai/ivykiai/Maskvos%20ir%20%C5%A0ved%C5%B3%20u%C5%BEpuolimas%20Lietuvai%20%281654%E2%80%931655%20m.%29)
-- [Maskvos valdovo apgaulė taikos kalbomis ir Polocko apgulties pradžia](../objektai/ivykiai/Maskvos%20valdovo%20apgaul%C4%97%20taikos%20kalbomis%20ir%20Polocko%20apgulties%20prad%C5%BEia)
 - [Maskvos valdovo karo paskelbimas Aleksandrui](../objektai/ivykiai/Maskvos%20valdovo%20karo%20paskelbimas%20Aleksandrui)
 - [Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas](../objektai/ivykiai/Maskvos%20valdovo%20%C4%AFsiver%C5%BEimas%20%C4%AF%20Livonij%C4%85%20ir%20Viljand%C5%BEio%20bei%20Dorpato%20u%C5%BE%C4%97mimas)
 - [Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)](../objektai/ivykiai/Medinink%C5%B3%20vals%C4%8Diaus%20apipl%C4%97%C5%A1imas%20ir%20kari%C5%B3%20%C4%AF%C5%A1ventinimas%20prie%20Medv%C4%97galio%20%281316%20m.%29)
@@ -193,7 +210,6 @@ Objektų skaičius: 379.
 - [Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas](../objektai/ivykiai/Meiseno%20markgrafo%20karo%20laiv%C5%B3%20%E2%80%9EPiligrimas%E2%80%9C%20ir%20%E2%80%9EFridlandas%E2%80%9C%20panaudojimas%20bei%20pasitraukimas)
 - [Melno taika ir Vokiečių ordino pretenzijų į Žemaitiją atsisakymas](../objektai/ivykiai/Melno%20taika%20ir%20Vokie%C4%8Di%C5%B3%20ordino%20pretenzij%C5%B3%20%C4%AF%20%C5%BDemaitij%C4%85%20atsisakymas)
 - [Merkinės puolimas (1945 m. gruodžio 15 d.)](../objektai/ivykiai/Merkin%C4%97s%20puolimas%20%281945%20m.%20gruod%C5%BEio%2015%20d.%29)
-- [Mikalojus Radvila žygyje Livonijoje ir Tarvastos pilies užėmimas (pilis)](../objektai/ivykiai/Mikalojus%20Radvila%20%C5%BEygyje%20Livonijoje%20ir%20Tarvastos%20pilies%20u%C5%BE%C4%97mimas)
 - [Mindaugo krikštas (krikštas)](../objektai/ivykiai/Mindaugo%20krik%C5%A1tas)
 - [Mindaugo krikštas ir karūnos išsirūpinimas](../objektai/ivykiai/Mindaugo%20krik%C5%A1tas%20ir%20kar%C5%ABnos%20i%C5%A1sir%C5%ABpinimas)
 - [Mėrūniškių valsčiaus nusiaubimas](../objektai/ivykiai/M%C4%97r%C5%ABni%C5%A1ki%C5%B3%20vals%C4%8Diaus%20nusiaubimas)
@@ -237,7 +253,6 @@ Objektų skaičius: 379.
 - [Pirmasis Aukaimio pilies sugriovimas (1301 m.)](../objektai/ivykiai/Pirmasis%20Aukaimio%20pilies%20sugriovimas%20%281301%20m.%29)
 - [Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)](../objektai/ivykiai/Pirmasis%20pr%C5%ABs%C5%B3%20atsimetimas%20ir%20Sventopelko%20sukeltas%20Pr%C5%ABsijos%20%C5%BEemi%C5%B3%20nusiaubimas%20%281242%20m.%29)
 - [Pirmasis savarankiškas lietuvių žygis į Rusios žemes (1183 m.)](../objektai/ivykiai/Pirmasis%20savaranki%C5%A1kas%20lietuvi%C5%B3%20%C5%BEygis%20%C4%AF%20Rusios%20%C5%BEemes%20%281183%20m.%29)
-- [Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas](../objektai/ivykiai/Pirmoji%20Smolensko%20apgultis%20ir%20maskv%C4%97n%C5%B3%20atsitraukimas)
 - [Pirmoji šalies dainų šventė Kaune (1924 m.)](../objektai/ivykiai/Pirmoji%20%C5%A1alies%20dain%C5%B3%20%C5%A1vent%C4%97%20Kaune%20%281924%20m.%29)
 - [Pirmojo kryžiaus žygio prieš lietuvius paskelbimas (1236.II.19)](../objektai/ivykiai/Pirmojo%20kry%C5%BEiaus%20%C5%BEygio%20prie%C5%A1%20lietuvius%20paskelbimas%20%281236.II.19%29)
 - [Polocko apsiaustis (1563 m. sausio 31 d.)](../objektai/ivykiai/Polocko%20apsiaustis%20%281563%20m.%20sausio%2031%20d.%29)
@@ -315,7 +330,6 @@ Objektų skaičius: 379.
 - [Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.)](../objektai/ivykiai/Trak%C5%B3%20pilies%20pasidavimas%20Jogailai%20%281382%20m.%20liepos%2020%20d.%29)
 - [Trakų sutriuškinimas galų 390 m. prieš Kristaus gimimą](../objektai/ivykiai/Trak%C5%B3%20sutriu%C5%A1kinimas%20gal%C5%B3%20390%20m.%20prie%C5%A1%20Kristaus%20gimim%C4%85)
 - [Trakų užėmimas ir apgultis](../objektai/ivykiai/Trak%C5%B3%20u%C5%BE%C4%97mimas%20ir%20apgultis)
-- [Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas](../objektai/ivykiai/Tre%C4%8Dioji%20Smolensko%20apgultis%20ir%20nes%C4%97kmingas%20Dimitrijaus%20bandymas)
 - [Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas](../objektai/ivykiai/Tre%C4%8Diojo%20Lenkijos%20ir%20Lietuvos%20valstyb%C4%97s%20padalijimo%20konvencijos%20pasira%C5%A1ymas)
 - [Trijų brolių ir 40 vyrų žūtis prie Balgos](../objektai/ivykiai/Trij%C5%B3%20broli%C5%B3%20ir%2040%20vyr%C5%B3%20%C5%BE%C5%ABtis%20prie%20Balgos)
 - [Tripolio miesto sugriovimas (1288 m.)](../objektai/ivykiai/Tripolio%20miesto%20sugriovimas%20%281288%20m.%29)
@@ -398,7 +412,6 @@ Objektų skaičius: 379.
 - [Švitrigailos užpuolimas Ašmenoje](../objektai/ivykiai/%C5%A0vitrigailos%20u%C5%BEpuolimas%20A%C5%A1menoje)
 - [Švitrigailos Vitebsko žemės užėmimas](../objektai/ivykiai/%C5%A0vitrigailos%20Vitebsko%20%C5%BEem%C4%97s%20u%C5%BE%C4%97mimas)
 - [Želigovskio smurtas (1920 m. spalio 8–9 d.)](../objektai/ivykiai/%C5%BDeligovskio%20smurtas%20%281920%20m.%20spalio%208%E2%80%939%20d.%29)
-- [Žemaitijos niokojimas po sugrįžimo į Prūsiją (1391 m.)](../objektai/ivykiai/%C5%BDemaitijos%20niokojimas%20po%20sugr%C4%AF%C5%BEimo%20%C4%AF%20Pr%C5%ABsij%C4%85%20%281391%20m.%29)
 - [Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną](../objektai/ivykiai/%C5%BDemai%C4%8Di%C5%B3%20ir%20lietuvi%C5%B3%20pergal%C4%97%20prie%20E%C5%BEelio%20prie%C5%A1%20Livonijos%20magistr%C4%85%20Oton%C4%85)
 - [Žemaičių sukilimas (1409 m. gegužė)](../objektai/ivykiai/%C5%BDemai%C4%8Di%C5%B3%20sukilimas%20%281409%20m.%20gegu%C5%BE%C4%97%29)
 - [Žemaičių sukilimas 1409 m](../objektai/ivykiai/%C5%BDemai%C4%8Di%C5%B3%20sukilimas%201409%20m)

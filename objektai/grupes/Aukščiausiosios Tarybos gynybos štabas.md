@@ -47,22 +47,6 @@ p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 - susijęs iš [[objektai/asmenys/Virginijus Česnulevičius.md#claim-t-79218|Virginijus Česnulevičius]]: Virginijus Česnulevičius 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.
 - susijęs iš [[objektai/asmenys/Česlovas Jezerskas.md#claim-t-79244|Česlovas Jezerskas]]: Česlovas Jezerskas 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.
 - susijęs iš [[objektai/asmenys/Česlovas Jezerskas.md#claim-t-79245|Česlovas Jezerskas]]: 1991 m. Česlovas Jezerskas buvo įvardytas Aukščiausiosios Tarybos gynybos štabe.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
-
-    Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-42645

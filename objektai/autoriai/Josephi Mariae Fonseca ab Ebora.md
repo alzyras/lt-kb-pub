@@ -44,28 +44,6 @@ opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc.
   teiginys: "Josephi Mariae Fonseca ab Ebora darbu ir rūpesčiu 1733 m. Romoje išleistas „Annales Minorum“ XIX tomas."
   pagrindžia:
     - c-84049
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Josephi Mariae Fonseca ab Ebora darbu ir rūpesčiu 1733 m. Romoje išleistas „Annales Minorum“ XIX tomas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Žr.
-    Annales Minorum seu trium ordinum
-    a S. Francisco institutorum auctore A. R.
-    P . Luca V a d d i n g o Hiberno S. T.
-    Lectore Jubilato, et ordinis Chronologo.
-    Editio secunda etc. opera et studio Rmi
-    Patris Josephi Mariae Fonseca ab Ebo-
-    ra etc. Romae MDCCXXXIII, in folio
-    Vol. XIX.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

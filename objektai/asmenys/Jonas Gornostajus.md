@@ -49,8 +49,8 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   teiginys: "Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką."
   pagrindžia:
     - c-169410
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -79,27 +79,6 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Lietuvos raštininkas Jonas Gornostajus karaliaus vardu atsakė į prašymus dėl valachų pasiuntinių ir Severino Norvedo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Be to, paprašė atsilyginti už skriaudas, pada­
-    rytas Severino Norvedo, ir leisti laisvai keliauti per
-    karaliaus valdas valachų pasiuntiniams, grįžtantiems
-    iš Maskvos. Karaliaus vardu atsakė Lietuvos raštinin­
-    kas Jonas Gornostajus. Esą valachams visi keliai at­
-    viri, Severinas plėšikaująs ir siaubiąs pasienį vienoje
-    ir kitoje pusėje,— tai svetimšalis, nepavaldus karaliui;
-    visa kita sutvarkysią legatai, kurie greitai atvyksią į
-    Maskvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 - c-003
   santrauka: 'Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką.'
@@ -141,10 +120,9 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
     Vasilijaus ir karaliaus Kazimiero, arba tomis, kurias
     6 4 9
 
-    ## Puslapis 648
-
     buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
     Vasiljevičius.
+  citata_rodoma: "Vasilijus pri­\nmygtinai reikalavo, kad ka­\nraliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­\nviau galėsiąs tramdyti saviškius, jei šie susimanys be\nsaiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­\nkai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-\niždininkiui, ir Jonui Gornostajui, raštininkui. Šie ilgai\naiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­\ndžiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­\nriomis kitados buvusi sudaryta sutartis tarp jo senelio\nVasilijaus ir karaliaus Kazimiero, arba tomis, kurias\n6 4 9\n\n## Puslapis 648\n\nbuvo sutarę karalius Aleksandras ir jo tėvas Ivanas\nVasiljevičius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -155,8 +133,7 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
 - id: c-169409
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 656"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 656."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Be to, paprašė atsilyginti už skriaudas, pada­
     rytas Severino Norvedo, ir leisti laisvai keliauti per
@@ -177,17 +154,30 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
 - id: c-169410
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 666"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 666."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Panašiai laiške Jurgiui Radvilai rašė Ivanas Ovčina,
-    be kita ko, maldaudamas, kad karalius įsakytų Gleba­
-    vičiui, staigios ir karingos prigimties vyrui, susilaikyti
-    kol kas nuo neleistinų veiksmų. Karaliaus bei senato
-    vardu atsakė Jonas Gornostajus, Lietuvos iždo vyriau­
-    siasis valdytojas. Esą galybė svarbių priežasčių ver­
-    čiančios karalių tęsti karą, be to, ne mažiau svarbios
-    neleidžiančios jam pirmam išsiųsti legatus.
+    Fiodoras
+    N e la is v ė je
+    a tsid ū rę
+    Ovčina, sužinojęs iš pokalbio
+    m a sk v ė n a i
+    ragin a
+    su Jurgiu Radvila, kad ir Lie-
+    ta rtis d ė l tp ik o s
+    tuvos žymiausi didikai trokšta
+    taikos, parašė savo broliui
+    Ivanui Ovčinai laišką, patardamas paskatinti jaunąjį
+    valdovą pasirūpinti, kad būtų paleisti belaisviai, o pir­
+    miausia sudaryta taika. Ivanas atsakė, jog valdovas
+    pritaręs taikos deryboms, tačiau pareiškęs norą, kad
+    karalius atsiųstų legatus į Maskvą. Karaliaus atsto­
+    vams tvirtinant, kad Žygimantas mielai sutiks taikytis,
+    jeigu, belaisviams prašant, atvyks pasiuntiniai derėtis
+    dėl taikos sąlygų, maskvėnai atsakė, kad būsiąs pa­
+    žeistas jų valdovo orumas, jeigu, belaisviams reika­
+    laujant taikos, Maskvos kunigaikštystės pasiuntiniai
+    pirmieji vyks į Lietuvą, nes to mat ligi šiol nėra buvę.
+  citata_rodoma: "Panašiai laiške Jurgiui Radvilai rašė Ivanas Ovčina,\nbe kita ko, maldaudamas, kad karalius įsakytų Gleba­\nvičiui, staigios ir karingos prigimties vyrui, susilaikyti\nkol kas nuo neleistinų veiksmų. Karaliaus bei senato\nvardu atsakė Jonas Gornostajus, Lietuvos iždo vyriau­\nsiasis valdytojas. Esą galybė svarbių priežasčių ver­\nčiančios karalių tęsti karą, be to, ne mažiau svarbios\nneleidžiančios jam pirmam išsiųsti legatus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

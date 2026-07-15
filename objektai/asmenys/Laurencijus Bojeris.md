@@ -47,27 +47,6 @@ Nenurodyta
   teiginys: "Laurencijus Bojeris 1606 m. poemoje „Karolomachija“ aprašė lietuvių pergalę Salaspilio, arba Kircholmo, mūšyje."
   pagrindžia:
     - c-41577
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ## Puslapis 109
-
-    SALASPILIO MŪŠIS KAROLOMACHIJOJE
-
-    1606 m. Laurencijaus Bojerio poemos „Karolomachija“ (,,Karoliy kova“) ištraukos apie lietuvių pergalę Salaspilio
-
-    (Kircholmo) mūšyje.
-
-    Šitiek mūšių laimėt likimas lėmė!
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -41,20 +41,6 @@ media_all_json: |-
   teiginys: "Joanio Długossio „Historiae Polonicae libri XII“ išleista Frankfurte ir Leipcige 1711–1712 m."
   pagrindžia:
     - c-36184
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Hist. Pol. = Historiae Polonicae libri XII, Joanis Długossii,
-    Francofurti — Lipsiae 1711 — 1712.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

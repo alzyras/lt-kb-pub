@@ -55,33 +55,6 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
 - susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78362|Lietuvos komunistų partija]]: 1940 m. V. Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija.
 - susijęs iš [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.).md#claim-t-20555|Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]: Vladimirui Dekanozovui talkino sovietų pasiuntinybė su Nikolajumi Pozdniakovu priešakyje ir pogrindyje veikusi Lietuvos komunistų partija.
 - susijęs iš [[objektai/zodynas/polpredas.md#claim-t-22253|polpredas]]: Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija (LKP).
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuo V. Molotovo rėksmingų kaltinimų
-    absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
-    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
-    į Maskvą ministrą J. Urbšį. Tačiau nei J. Urbšys, nei taikingas A. Smetonos
-    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
-    pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus
-    į Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų
-    ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-
-    timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
-    nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
-    10 val. ryto. Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
-    atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-166571
@@ -106,8 +79,8 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183184
     - t-19998
+    - t-183184
 
 ## Ryšiai
 - SSRS kariuomenė keliavo į [[objektai/vietos/Lietuva]]

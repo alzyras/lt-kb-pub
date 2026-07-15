@@ -35,8 +35,8 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
   teiginys: "Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeidė ar nukovė daug pilies gynėjų."
   pagrindžia:
     - c-168623
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeidė ar nukovė daug pilies gynėjų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -67,8 +67,7 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
 - id: c-168623
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 191"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 191."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kryžiuočių kariai, atskubėję iš
     iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau­
@@ -82,7 +81,13 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
     kuro, lengvai uždegamo ir gerai liepsnojančio, ketinda­
     mas padegti pilį. Tačiau pasklido gandas, jog ateina su
     didele kariuomene Prūsijos magistras, ir šitaip sužlu­
-    go viltys paimti pilį.
+    go viltys paimti pilį. Atsitraukiančių lietuvių magist­
+    ras nepersekiojo, tačiau nusiaubė artimiausius Lietuvos
+    kaimus. Vytenis taip pat nedrįso stoti į atvirą kovą;
+    kad priešas nebaudžiamas nesiautėtų krašte, jis, kitais
+    keliais pasukęs į Prūsij ą, pats iš keršto panašiai nu­
+    siaubė kryžiuočių žemes.
+  citata_rodoma: "Kryžiuočių kariai, atskubėję iš\niš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau­\njus pulkus ir nuvedė juos pulti Christmemelio pilies;\ntaranai daužė pilies sienas, galybė strėlių ir iečių\nnešė pilies gynėjams žaizdas ir mirtį, į pagalbą iš Sem­\nbos skubėjęs būrys tapo užpultas ir sunaikintas, ap­\ngultųjų padėtis darėsi visai beviltiška. Vytenis para­\ngino dar smarkiau spausti, o kadangi negalėjo privers­\nti pasiduoti, įsakė prikrauti į gynybinius griovius\nkuro, lengvai uždegamo ir gerai liepsnojančio, ketinda­\nmas padegti pilį. Tačiau pasklido gandas, jog ateina su\ndidele kariuomene Prūsijos magistras, ir šitaip sužlu­\ngo viltys paimti pilį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

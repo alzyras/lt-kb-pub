@@ -30,7 +30,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kryžiuočiai prie Nemuno, beveik priešais Kauną, per šešis mėnesius pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.
+Šindekopfas, atvykęs prie Gotesverderio pilies vietos, neberado jos ženklo, nes Algirdas ir Kęstutis ją užėmė ir sugriovė iki pamatų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -46,58 +46,40 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-185702"></a>
+<a id="claim-t-196156"></a>
 - t-001
-  global_id: t-185702
-  teiginys: "Kryžiuočiai prie Nemuno, beveik priešais Kauną, per šešis mėnesius pastatė didelę tvirtovę ir pavadino ją Gotesverderiu."
+  global_id: t-196156
+  teiginys: "Šindekopfas, atvykęs prie Gotesverderio pilies vietos, neberado jos ženklo, nes Algirdas ir Kęstutis ją užėmė ir sugriovė iki pamatų."
   pagrindžia:
-    - c-169063
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kryžiuočiai prie Nemuno, beveik priešais Kauną, per šešis mėnesius pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mat kryžiuočiai, nusiaubę arčiau Prūsijos esan­
-    čius kaimus bei laukus ir pavertę juos dykromis, sten­
-    gėsi perkelti karą į pačią Lietuvą. Prie Nemuno, be­
-    maž priešais Kauną, jie pasirinko vietą ir po šešių
-    250
-
-    ## Puslapis 249
-
-    mėnesių darbo pastatė čia didelę tvirtovę. Šią naują
-    pilį, esančią per vieną mylią nuo Kauno, pavadino
-    Gotesverderiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+    - c-178561
 
 ## Citatos
 
-- id: c-169063
+- id: c-178561
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat kryžiuočiai, nusiaubę arčiau Prūsijos esan­
-    čius kaimus bei laukus ir pavertę juos dykromis, sten­
-    gėsi perkelti karą į pačią Lietuvą. Prie Nemuno, be­
-    maž priešais Kauną, jie pasirinko vietą ir po šešių
-    250
-
-    ## Puslapis 249
-
-    mėnesių darbo pastatė čia didelę tvirtovę. Šią naują
-    pilį, esančią per vieną mylią nuo Kauno, pavadino
-    Gotesverderiu.
+    Su­
+    grįžęs po to į Prūsiją, paragino maršalą Šindekopfą, ne­
+    seniai sutelktos kariuomenės vadą, vėl žygiuoti į Lie­
+    tuvą— ir tam, kad nauja pilis būtų geriau ginama, ir
+    tam, kad priešas, nuniokojus jo valdas, būtų toliau
+    nustumtas. Tačiau Šindekopfas, atvykęs kur liepiamas,
+    nerado nė buvusios pilies ženklo. Mat Algirdas ir Kęs­
+    tutis, suprasdami, jog ši prie pat Kauno esanti pilis —
+    nelyginant žaboklės, uždėtos
+    A lg ird a s
+    su griau n a
+    Lietuvai, nutarė trūks plyš
+    k ry žiu o č ių p ilį
+    ją sunaikinti ir po ištisas
+    penkias savaites užtrukusių
+    atkaklių antpuolių galop ją užėmė ir sugriovė ligi pa­
+    matų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185702
+    - t-196156

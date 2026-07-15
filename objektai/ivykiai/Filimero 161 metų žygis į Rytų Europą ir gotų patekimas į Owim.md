@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas, remdamasis Jordanu, Filimero 161 m. žygį į Rytų Europą sieja su gotų persikėlimu į dešinįjį Vyslos krantą ir Owim kraštą.
+Narbutas, remdamasis Jordanu, Filimero 161 m. žygį į Rytų Europą sieja su gotų persikėlimu į dešinįjį Vyslos krantą ir Owim kraštą. Pirmiausia šią žinią randame Jordano darbuose1, kai šis autorius pasakoja apie karaliaus Fili mero žygį 161 metais j Rytų Europos kraštus; tuomet, persikėlę j dešiniąją Vyslos pakrantę, gotai pirmiausia pa teko j kraštą, vadinamą Owim. Vėlesni istorijos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,34 +47,13 @@ Nenurodyta
   teiginys: "Narbutas, remdamasis Jordanu, Filimero 161 m. žygį į Rytų Europą sieja su gotų persikėlimu į dešinįjį Vyslos krantą ir Owim kraštą."
   pagrindžia:
     - c-173942
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas, remdamasis Jordanu, Filimero 161 m. žygį į Rytų Europą sieja su gotų persikėlimu į dešinįjį Vyslos krantą ir Owim kraštą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kadangi Rusios tema mūsų
-    jau pakankamai išnagrinėta, nelaikydami jos atsikira pro­
-    vincija, žiūrėsime į Prūsiją, turinčią vėlesnes ribas, kurios
-    labai nedaug skyrėsi nuo senovinių.
-    242
-
-    ## Puslapis 253
-
-    246
-    Iš raštų žinoma, kad seniausias šios srities pavadini­
-    mas buvęs Owim. Pirmiausia šią žinią randame Jordano
-    darbuose1, kai šis autorius pasakoja apie karaliaus Fili­
-    mero žygį 161 metais j Rytų Europos kraštus; tuomet,
-    persikėlę j dešiniąją Vyslos pakrantę, gotai pirmiausia pa­
-    teko j kraštą, vadinamą Owim.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197534"></a>
+- t-002
+  global_id: t-197534
+  teiginys: "Pirmiausia šią žinią randame Jordano darbuose1, kai šis autorius pasakoja apie karaliaus Fili mero žygį 161 metais j Rytų Europos kraštus; tuomet, persikėlę j dešiniąją Vyslos pakrantę, gotai pirmiausia pa teko j kraštą, vadinamą Owim. Vėlesni istorijos."
   pagrindžia:
-    - t-001
+    - c-173942
 
 ## Citatos
 
@@ -83,24 +62,22 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kadangi Rusios tema mūsų
-    jau pakankamai išnagrinėta, nelaikydami jos atsikira pro­
-    vincija, žiūrėsime į Prūsiją, turinčią vėlesnes ribas, kurios
-    labai nedaug skyrėsi nuo senovinių.
-    242
-
-    ## Puslapis 253
-
-    246
-    Iš raštų žinoma, kad seniausias šios srities pavadini­
-    mas buvęs Owim. Pirmiausia šią žinią randame Jordano
+    Pirmiausia šią žinią randame Jordano
     darbuose1, kai šis autorius pasakoja apie karaliaus Fili­
     mero žygį 161 metais j Rytų Europos kraštus; tuomet,
     persikėlę j dešiniąją Vyslos pakrantę, gotai pirmiausia pa­
-    teko j kraštą, vadinamą Owim.
+    teko j kraštą, vadinamą Owim. Vėlesni istorijos tyrinė­
+    tojai įrodė, kad tas kraštas buvo šiandienė Prūsija. Tarp
+    mokslininkų ¡buvęs Hugo Grocijus2*, taip ¡pat Pilypas Kjiu-
+    veris3**, kuris rašo: „Žemė Owim, plytėjusi priešais go­
+    tus, yra ne kokia kita, o dabar vadinama Prūsija, pilna
+    pelkių ir ežerų, sunki armijai keliauti ir daugelyje vietų
+    visiškai neįžengiama; šią žemę net ir šiais laikais saksai
+    vadina Owimu.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191060
+    - t-197534

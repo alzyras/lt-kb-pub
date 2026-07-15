@@ -8,15 +8,15 @@ datos:
   - '1265 m.'
 date_start: '1262'
 date_end: '1265'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karvedys
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,6 +58,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   teiginys: "Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones."
   pagrindžia:
     - c-60546
+    - c-167441
 
 <a id="claim-t-59913"></a>
 - t-004
@@ -72,20 +73,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   teiginys: "Prūsams atkritus nuo tikėjimo, bartai savo kariuomenės vadu ir vyresniuoju išsirinko Divaną."
   pagrindžia:
     - c-60544
-
-<a id="claim-t-59911"></a>
-- t-006
-  global_id: t-59911
-  teiginys: "1263 m. Divanas, bartų vadas, vijosi iš pilies pasitraukusius brolius, bet buvo sunkiai sužeistas ir liovėsi kariavęs."
-  pagrindžia:
-    - c-167440
-
-<a id="claim-t-184056"></a>
-- t-007
-  global_id: t-184056
-  teiginys: "Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones."
-  pagrindžia:
-    - c-167441
 - susijęs iš [[objektai/asmenys/Arnoldas Krofas.md#claim-t-60240|Arnoldas Krofas]]: Brolis Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą, po to puolėjai pasitraukė nebaigę puolimo.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88530|Bartai]]: Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88535|Bartai]]: Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną.
@@ -111,7 +98,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - susijęs iš [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės.md#claim-t-91915|Kristburgo brolių smūgis Divanui prie Gubros upės]]: Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89171|Pagudėnai]]: Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Divanas, pravarde Klokinis, buvo bartų vadas ir su pagudėnu Linku bei didele kariuomene įsibrovė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -145,9 +131,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
     bartai — Divaną361.
 
-
-
-
                    90 (85). Apie didelį krikščionių kraujo praliejimą
   citata_rodoma: ''
   statusas: verified
@@ -156,65 +139,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-
-- c-003
-  santrauka: 'Divanas, bartų vadas, su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
-
-      Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
-    prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
-    jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
-    pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
-    tikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių. Kai šitai
-    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
-    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
-    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ten jie narsiai užpuolė Divaną ir nukovė vieną
-    jo giminaitį, vardu Dabaras, o visus jo žmones išžudė. Vis dėlto Divanas su nedideliu
-    būreliu savo karių gėdingai paspruko. Taigi broliai, susigrąžinę grobį, kurio šis buvo iš jų
-    žmonių prisiplėšęs, parvyko namo, dėkodami už sėkmę dievui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-005
-  santrauka: 'Dusburgietis teigia, kad kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Neilgai trukus broliai, pristigę
-    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
-    link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi
-    juos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,
-    pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,
-    bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
-    susidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris
-    tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-002
 
 - c-006
   santrauka: 'Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.'
@@ -236,19 +160,22 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-60542
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
-         medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
-
-      Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene
-    įsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti
-    susibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria
-    raitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios
-    tarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė
-    kažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar
-      416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m.
+    Sitai sužinoję, Pusilių ir Fišovijos pilių422
+    broliai su savo ginklanešiais atskubėjo į pagalbą Kristburgo broliams ir miestiečiams,
+    jau pasirengusiems gintis. Kai broliai, žygiuodami į priekį, priartėjo prie apsiaustos
+    pilies, prūsai nutraukė apgulą ir pradėjo bėgti. Per apgulą ir bėgant žuvo daug prūsų,
+    daug buvo mirtinai sužeista, jų vadas Kaltis taip pat krito nukautas kalaviju, nes
+    bėgdami pėstininkai susidūrė su raiteliais. Šito įvykio išgąsdinti, raiteliai bei pėstininkai
+    susijungė ir įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su savo kariuomene
+    apsistojo priešais. Prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką,
+    kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet
+    atvirkščiai, net ir arklius nusibalnojo, jie pusę savo kariuomenės slaptai perkėlė per upę
+    ir vėl žiauriai užpuolė krikščionis — vieni iš užpakalio, kiti iš priešakio; anksčiau, nei
+    krikščionys susiruošė gintis, prie Pagansčių kaimo423 žuvo dvylika brolių ir penki šimtai
+    vyrų.
+  citata_rodoma: "Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­\n     medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį\n\n  Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene\nįsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti\nsusibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria\nraitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios\ntarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė\nkažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar\n  416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -259,8 +186,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-60544
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 115"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
     netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
@@ -268,11 +194,9 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
     Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
     bartai — Divaną361.
-
-
-
-
-                   90 (85). Apie didelį krikščionių kraujo praliejimą
+    90 (85). Apie didelį krikščionių kraujo praliejimą
+    Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
+    išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
   citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361.\n\n\n\n\n               90 (85)."
   statusas: verified
   teiginio_tipas: faktas
@@ -284,12 +208,10 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-60545
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
-
-      Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
+    Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
     prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
     jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
     pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
@@ -307,8 +229,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-60546
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 138"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Ten jie narsiai užpuolė Divaną ir nukovė vieną
     jo giminaitį, vardu Dabaras, o visus jo žmones išžudė. Vis dėlto Divanas su nedideliu
@@ -324,8 +245,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-167440
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 126"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Neilgai trukus broliai, pristigę
     maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
@@ -340,24 +260,30 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184055
     - t-59911
 
 - id: c-167441
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 138"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    silpna kariuomene prie Gubros upės425. Ten jie narsiai užpuolė Divaną ir nukovė vieną
-    jo giminaitį, vardu Dabaras, o visus jo žmones išžudė. Vis dėlto Divanas su nedideliu
-    būreliu savo karių gėdingai paspruko.
+    Kokia nuostabi, kokia dosni dievo malonė, mielaširdingai
+    suteikta broliams bei kitiems krikščionims ne tik šioje pilyje, bet ir visoje Prūsijos žemėje
+    ir leidusi jiems vargti šį beveik nepakeliamą vargą, be galo priešingą žmogaus gyvenimo
+    reikmėms, taip kantriai ir nuolankiai, kad jie ne tik neliūdėjo, bet visada džiūgavo,
+    tikėdamiesi galop pelnysią rojaus linksmybes.
+    146 (141). Apie pagirtiną brolio Engelkės gyvenimą Kristburgo pilyje
+    Tuo metu mūsų minėtoje Kristburgo pilyje gyveno brolis Engelkė, gimęs Vestfalijoje,
+    nuostabaus pamaldumo ir begalinės savitvardos vyras, visa širdimi pasišventęs dievui, be
+    kitų dorovingų darbų garsėjęs dar ir tuo, kad ant savo nuogo kūno nedėvėjo marškinių,
+    o geležinius grandininius šarvus; iki savo mirties jis sudėvėjo ketverius tokius šarvus,
+    visiškai suėstus metų ir rūdžių.
+  citata_rodoma: "silpna kariuomene prie Gubros upės425. Ten jie narsiai užpuolė Divaną ir nukovė vieną\njo giminaitį, vardu Dabaras, o visus jo žmones išžudė. Vis dėlto Divanas su nedideliu\nbūreliu savo karių gėdingai paspruko."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184056
 
 ## Ryšiai
 - Puolė Divaną: [[objektai/asmenys/Arnoldas Krofas]]

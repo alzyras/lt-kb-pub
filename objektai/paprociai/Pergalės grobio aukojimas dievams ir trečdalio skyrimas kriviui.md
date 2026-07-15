@@ -77,74 +77,13 @@ Nenurodyta
   teiginys: "Po pergalės prūsai aukodavo dievams padėkos auką iš karo grobio, o trečdalį grobio atiduodavo kriviui sudeginti."
   pagrindžia:
     - c-63467
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po pergalės trečdalis kovoje laimėto grobio buvo atiduodamas kriviui, kuris tą dalį sudegindavo kaip padėkos auką dievams.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Po pergalės jie
-    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
-    atiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse
-    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
-    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
-    pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
-    papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Eiliuotosios Livonijos kronikos žemaičių žynys dievams aukodavo trečdalį karo grobio ir išbūrė pergalę 1259 m. Skuodo kautynėse.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgiečio krivis
-    tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės
-    papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam
-    žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil. 4680), be to, Lietuvos
-    metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t. 17, стб.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dėl šitų mirusiųjų nutikdavo tokių velniškų
-    patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
-    ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas
-    nedvejodamas pasakydavo, kokie buvo mirusiojo drabužiai, ginklai210, žirgai bei šeimyna,
-    be to, siekdamas didesnio įtikinamumo, pridurdavo, jog, girdi, jo namų durų staktoje
-    numirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu. Po pergalės jie
-    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
-    atiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse
-    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
-    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
-    pastovėti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
 
 ## Citatos
 
 - id: c-63465
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 69"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Po pergalės jie
     aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
@@ -164,8 +103,7 @@ Nenurodyta
 - id: c-63466
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 67"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dusburgiečio krivis
     tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės
@@ -183,8 +121,7 @@ Nenurodyta
 - id: c-63467
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 69"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dėl šitų mirusiųjų nutikdavo tokių velniškų
     patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
@@ -203,5 +140,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62710
     - t-62709
+    - t-62710

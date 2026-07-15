@@ -34,30 +34,13 @@ Narbutas Voigto „Geschichte Preussens“ I tomo 113 puslapį cituoja prie Ange
   teiginys: "Narbutas Voigto „Geschichte Preussens“ I tomo 113 puslapį cituoja prie Anger miestelio ties pietiniu ežero sąsiauriu aprašymo."
   pagrindžia:
     - c-174632
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Voigto „Geschichte Preussens“ I tomo 113 puslapį cituoja prie Anger miestelio ties pietiniu ežero sąsiauriu aprašymo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat ties pie­
-    tiniu šio ežero sąsiauriu yra miestelis Anger, nusidrie-
-    1 Voigt. Gesch. Preuss. B. I. S. 113.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174632
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 288"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat ties pie­
     tiniu šio ežero sąsiauriu yra miestelis Anger, nusidrie-

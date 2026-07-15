@@ -35,22 +35,6 @@ Tokiomis patrimonia S.
   teiginys: "Patrimonia S. Petri tuo metu buvo tapusi ne viena Europos šalis."
   pagrindžia:
     - c-28502
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Buvo statoma tik viena sąlyga, kad ypatingasis Bažnyčios
-    sūnus, kaip ir jo įpėdiniai, Lietuvos valstybę skaitytų šv. Petro nuo­
-    savybe^105. Tokiomis _patrimonia S. Petri_ buvo tapę tada eilė
-    Europos kraštų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -99,88 +99,6 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - susijęs iš [[objektai/zodynas/pikinierius pikinieriai.md#claim-t-42496|pikinierius pikinieriai]]: Pikinierius buvo svetimšalių autoramento vokiškojo tipo pėstininkas-ietininkas.
 - susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: A. Vijūkas-Kojalavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį.
 - susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: A. Vijūko-Kojalavičiaus 1651 m. veikalo „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištrauka yra apie Lojevo mūšį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Amžininko Alberto Vijūko-Kojelavi-
-    čiaus teigimu, Lenkijos kariuomenė dažnai
-    stodavo į mūšį nepasvėrusi savo jėgų, ve-
-    dina paniekos priešui.
-
-    1648 m. vasarą kazokai ėmė veržtis į
-    LDK pietrytinės sritis. Jie siautėjo Pinsko,
-    Starodubo ir Mozyriaus apylinkėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-007
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Svetimšalių autoramento „vokiškojo“ tipo pėstinin-
-    kas-ietininkas (pikinierius). Svetimšalių autoramento
-    pėstininkai būdavo ginkluoti ietimis arba muškietomis =
-
-    LOJEVO MUSIS
-
-    Ištrauka iš A. Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius
-    prieš Zaporožės kazokus“ apie Lojevo mūšį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-003
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Buvo nuveikta
-    3
-    Stryjkowski, Ks. XVI, Roz. I, k.
-    538, ed. warsz. K o j a ł o w i c z, Pars
-    II, lib. 3, p. 141.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    To­
-    liau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti
-    petit ä mane usque ad meridiem in monte ex opposito Castri Jede-
-    mine ubi dictus comes de Homberg et piures alii nobiles dignita­
-    tem militiae susceperunt [Bet brolių vėliava jam prisijungus
-    kovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino
-    e
-    Chroniam Prussiae.
-    f
-    Kojelavičius Pagraudenę vadi-
-    na apylinkę Žemaitijoje: pograudien-
-    b C S 7/7 Samogitia agri. Hist. Lithu. p. 436.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
-
 ## Citatos
 
 - id: c-170913
@@ -224,8 +142,8 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187928
     - t-187926
+    - t-187928
 
 - id: c-170915
   autorius: "Michał Baliński"
@@ -268,5 +186,5 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187927
     - t-187924
+    - t-187927

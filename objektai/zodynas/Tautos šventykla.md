@@ -42,27 +42,6 @@ Sumanyta pastatyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B
   teiginys: "Prisikėlimo bažnyčią Kaune sumanyta pastatyti kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią."
   pagrindžia:
     - c-73325
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau tai dar ne viskas – rūpintasi tautinių ir valstybinių tradicijų kūrimu,
-    tautos atminimo vietų steigimu, tradicijų puoselėjimu – nacija turėjo įgy-
-    ti atmintinų vietų ir savo didvyrių. Sumanyta pastatyti Kaune Prisikėlimo
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    173
-    bažnyčią – tautos šventyklą, lietuvišku stiliumi ir lietuviškai ornamentuo-
-    tą, atspindinčią lietuvių tautos religinę ir tautinę dvasią.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -84,5 +63,5 @@ Sumanyta pastatyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75593
     - t-75592
+    - t-75593

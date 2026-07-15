@@ -55,56 +55,6 @@ media_all_json: |-
   teiginys: "Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų."
   pagrindžia:
     - c-14708
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi,
-    puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
-    laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
-    suskilusi, atskiri „saarai“ vedė nuolatinius karus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nuolat remdamas juos per 30 me­
-    tų jis sulaukė totorių tarpe sau visiškai paklusnių „saarų“. Dėl
-    vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo
-    1411 met., kada įsiviešpatavo Dželad-Eddinas, nė vienas jų,
-    kaip sako „Vytauto panegirika”^4 ), „niekad nedrįso galingajam
-    gaspadoriui pasipriešinti“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Buvo laikai, kad jo būklė būdavo labai kritiška. Iš karto atsi­
-    rasdavo net keli „saarai“ (pav. 1427 mt. pradžioje jų buvo dar
-    5), bet 1427 met. gale Vytauto palaikomasis Machmetas įsiga­
-    lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
-    marių pakraščio ir Krymo totorius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -143,8 +93,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70318
     - t-70315
+    - t-70318
 
 - id: c-14709
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

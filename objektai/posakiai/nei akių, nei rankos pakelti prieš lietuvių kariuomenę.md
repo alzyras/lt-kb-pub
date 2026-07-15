@@ -42,53 +42,6 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
   teiginys: "Bychoveco kronikoje teigiama, kad LDK daliniai taip suspaudė totorius, jog šie nebegalėjo „nei akių, nei rankos pakelti prieš lietuvių kariuomenę“."
   pagrindžia:
     - c-76026
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Anot Bychoveco
-    kronikos, LDK daliniai taip suspaudė toto-
-    rius, kad jie nebegalėjo aktyviai priešintis
-    („totoriai ne tik negalėjo kautis, bet nei akių,
-    nei rankos pakelti prieš lietuvių kariuo-
-    menę“). Neatlaikiusi tokio spaudimo,
-    totorių rikiuotė suiro ir pradėjo
-    masiškai bėgti iš mūšio lauko. |
-    Sprunkančius totorius per-
-    sekiojo lietuvių lengvoji 4
-    kairiojo sparno kavalerija, /
-    kuri užėmusi perkėlas per (4;
-    Cepros upę, uždarė totorius
-    tartum maiše.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Bychoveco kronikoje teigiama, kad LDK daliniai taip suspaudė totorius, jog šie nebegalėjo „nei akių, nei rankos pakelti prieš lietuvių kariuomenę“.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gavusi erdvės įsibėgėjimui, dar kartą smogė
-    dešinioji lietuvių kolona. Anot Bychoveco
-    kronikos, LDK daliniai taip suspaudė toto-
-    rius, kad jie nebegalėjo aktyviai priešintis
-    („totoriai ne tik negalėjo kautis, bet nei akių,
-    nei rankos pakelti prieš lietuvių kariuo-
-    menę“). Neatlaikiusi tokio spaudimo,
-    totorių rikiuotė suiro ir pradėjo
-    masiškai bėgti iš mūšio lauko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

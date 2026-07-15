@@ -51,22 +51,9 @@ Nenurodyta
   teiginys: "Degindami mirusiuosius į ugnį mėtydavo meškos ir lūšies nagus, o kai kurie prieš mirtį augino nagus, kad galėtų įsikibti kopdami į dangų."
   pagrindžia:
     - c-09951
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pagal jų nuomonę į dangų eiti ir doriesiems reikią per didžiai aukštą ir žiaurų kalną ropoti į
-        aukštybes, todėl, idant lengviau tenai galėtų įlipti, numirėlius degindami, mėčioję į ugnį meškos
-        ir lūšies nagus, kiti prieš smertį patys nagų savo nepjaustę ir auginę, idant turėtų kuo įsikibti
-        lipdami ir pasiilsėti galėtų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

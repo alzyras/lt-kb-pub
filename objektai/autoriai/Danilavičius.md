@@ -42,7 +42,6 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 - susijęs iš [[objektai/autoriai/Ignas Danilavičius.md#claim-t-81910|Ignas Danilavičius]]: M. Balinskis dėkojo Ignui Danilavičiui už pagalbą istoriniais dokumentais.
 - susijęs iš [[objektai/autoriai/Koneczny.md#claim-t-35455|Koneczny]]: Koneczny kartu su Danilavičiumi tą dokumentą laikė falsifikatu, nors Prochaska jį priėmė kaip autentišką.
 - susijęs iš Ignaco Danilavičiaus užrašai apie Vilniaus miesto privilegijas: Ignacas Danilavičius perdavė Balińskiui svarbius užrašus apie mažiau žinomas Vilniaus miesto privilegijas.
-- susijęs iš Vilnius: Vilniaus universitete tuo metu dėstė Joachimas Lelevelis, Ignotas Danilavičius ir Ignotas Onacevičius.
 - susijęs iš [[objektai/asmenys/Ignas Onacevičius.md#claim-t-87514|Ignas Onacevičius]]: Michałas Balińskis veikalo pratarmėje dėkojo Ignui Onacevičiui už pagalbą istoriniais dokumentais.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105709|Simonas Daukantas]]: P. Malevskis buvo tiesioginis istoriko Simono Daukanto viršininkas Lietuvos Metrikos padalinyje prie Senato Trečiojo departamento.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105712|Simonas Daukantas]]: Simono Daukanto tiesioginis viršininkas buvo Lietuvos Metrikos padalinio vadovas Pranciškus Malevskis.
@@ -50,26 +49,6 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 - susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-81903|Ignacas Onacevičius]]: M. Balinskis dėkojo Ignui Onacevičiui už pagalbą istoriniais dokumentais.
 - susijęs iš [[objektai/autoriai/Prochaska.md#claim-t-35473|Prochaska]]: Prochaska, vadinamas dideliu Vytauto epochos žinovu, dokumentą priėmė kaip autentišką.
 - susijęs iš T. Narbuto „Spisanie Muzeum w Szawrach“: I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto Saurų dvaro bibliotekoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kiek vėliau padary­
-    tas jo nuorašas aprašo keturias antspaudas, tarp kurių pirmoje
-    vietoje yra Vytauto: Sigillum Vitowdi ducis in Tracken.
-    Dėl šitos sutarties autentiškumo keliama abejonių. Is­
-    torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;
-    tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip
-    autentišką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38186

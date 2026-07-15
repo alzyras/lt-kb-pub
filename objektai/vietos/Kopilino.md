@@ -40,34 +40,6 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
   teiginys: "Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, Dubrovnos apylinkes, o atsakydami į tai lietuviai nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje."
   pagrindžia:
     - c-176449
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, Dubrovnos apylinkes, o atsakydami į tai lietuviai nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kol tarp Maskvos ir Lietuvos
-    didžiųjų kunigaikštysčių galiojo
-    paliaubos, tarpusavio kovos vyko jo
-    tik Livonijos teritorijoje, tačiau
-    1562 metais paliauboms pasibaigus 4
-    karo frontas nusidriekė visu pasie- |
-    niu. Tais pačiais metais maskvė-
-    nai nusiaubė Oršos, Vitebsko,
-    Kopilino, Šklovo, Dubrovnos
-    apylinkes, o atsakydami į tai lie-
-    tuviai nuniokojo Maskvos žemes
-    Vitebsko vaivadijos pasienyje. Šiose
-    pasienio kovose nė viena pusė žymes-
-
-    nių rezultatų nepasiekė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

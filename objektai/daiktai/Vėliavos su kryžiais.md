@@ -55,37 +55,6 @@ Nenurodyta
   teiginys: "Pilies gynėjai iškėlė vėliavas su kryžiais kaip ženklą, kad kovoja su Vytauto gretose buvusiais nepakrikštytais lietuviais ir žemaičiais."
   pagrindžia:
     - c-83107
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pilies gynėjai iškėlė vėliavas su kryžiais kaip ženklą, kad kovoja su Vytauto gretose buvusiais nepakrikštytais lietuviais ir žemaičiais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tas šaunus karys, išvaręs iš tvir­
-    tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­
-    čia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias
-    savaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­
-    liams. Niekas nebuvo išleista iš akių Moskoževskiui ginant
-    jam patikėtą pilį: atakas atgieždavo sumaniais ir ūmiais
-    išpuoliais; priešo padarytą žalą ir išardas taip apsukriai ir
-    išmoningai užtaisydavo, jog atrodė, kad įgula tik stiprė­
-    janti, vis daugiau įgaudama drąsos, o tvirtovė atrodė vis
-    grėsmingesnė. Gynėjai iškėlė vėliavas su kryžiais, kaip
-    ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­
-    vių, dar nepakrikštytų, begalė buvo Vytauto gretose, nes prie
-    lio skundų ir ginčų tarp Jogailos ir
-    Ordino priežastis; pastarasis smar­
-    kiai gynėsi, atremdamas priekaištus,
-    esą skriaudos jam tuo daromos, va­
-    dindamas juos melagingais prasi­
-    manymais, žeidžiančiais Ordiną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

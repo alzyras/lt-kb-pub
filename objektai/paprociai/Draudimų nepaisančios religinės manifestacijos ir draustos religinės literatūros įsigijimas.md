@@ -69,24 +69,6 @@ Sovietmečiu religinės manifestacijos veikė kaip masinė draudimų nepaisymo p
   teiginys: "Nepaisydami valdžios draudimų, į religines manifestacijas suvažiuodavo dešimtys tūkstančių maldininkų, įsigydavusių draustų relikvijų ir nelegalios religinės literatūros."
   pagrindžia:
     - c-25116
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taip Kryžių kalnas (jį 1993 m.
-    aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
-    Golgota. Nepaisydami valdžios draudimų į religines manifestacijas suva-
-    žiuodavo dešimtys tūkstančių maldininkų. Jie ne tik meldėsi, bendrau-
-    davo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos
-    literatūros: maldaknygių, katekizmų ar Šventojo Rašto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Šaltiniai ir įrodymai
 

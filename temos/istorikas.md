@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 409
+tema_objektu_skaicius: 411
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 409.
+Objektų skaičius: 411.
 
 ## Kaip naudoti
 
@@ -171,6 +171,7 @@ Objektų skaičius: 409.
 - [Danilavičius](../objektai/autoriai/Danilavi%C4%8Dius)
 - [Davies N](../objektai/autoriai/Davies%20N)
 - [Dieckmann Ch](../objektai/autoriai/Dieckmann%20Ch)
+- [Domininkas Burba](../objektai/autoriai/Domininkas%20Burba)
 - [Dregeris](../objektai/autoriai/Dregeris)
 - [Dytmaras](../objektai/autoriai/Dytmaras)
 - [Dąbrowski J](../objektai/autoriai/D%C4%85browski%20J)
@@ -415,6 +416,7 @@ Objektų skaičius: 409.
 - [Vcl. Biržiška](../objektai/autoriai/Vcl.%20Bir%C5%BEi%C5%A1ka)
 - [Vileišis V](../objektai/autoriai/Vilei%C5%A1is%20V)
 - [Vilhelmas Robertsonas](../objektai/autoriai/Vilhelmas%20Robertsonas)
+- [Vincentas Juzumas](../objektai/autoriai/Vincentas%20Juzumas)
 - [Vincentas Kadlubekas](../objektai/autoriai/Vincentas%20Kadlubekas)
 - [Voigt J](../objektai/autoriai/Voigt%20J)
 - [Volfgangas Lazijus](../objektai/autoriai/Volfgangas%20Lazijus)

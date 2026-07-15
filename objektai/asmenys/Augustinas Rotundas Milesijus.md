@@ -45,27 +45,6 @@ Augustinas Rotundas Milesijus (Mieleskis), abiejų teisių daktaras, išrinktas 
   pagrindžia:
     - c-83885
 - susijęs iš [[objektai/asmenys/Stanislovas Sabina.md#claim-t-87458|Stanislovas Sabina]]: Stanislovas Sabina buvo medicinos daktaras ir 1584 m. ėjo Vilniaus vaito pareigas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Augustinas Rotundas Milesijus buvo bajoras ir abiejų teisių daktaras, 1542 m. išrinktas iš magistrato narių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mikalojus Prokopavičius - 1511 m.
-    4. Laimingasis Liangurga iš Krokuvos, Žygimanto
-    Senojo liepos 5 d. privilegijos galia - 1527 m.
-    5. Augustinas Rotundas Milesijus (Mieleskis),
-    abiejų teisių daktaras, išrinktas iš magistrato
-    narių, tačiau bajoras - 1542 m.
-    6.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83885

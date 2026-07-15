@@ -57,31 +57,13 @@ Nenurodyta
   teiginys: "1309 m. sausio 6 d. išrinktasis Henrikas buvo vainikuotas Achene."
   pagrindžia:
     - c-62819
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1309 m. sausio 6 d. išrinktasis Henrikas buvo vainikuotas Achene.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    106. Apie jo vainikavimą Achene
-
-      1309 viešpaties metais šį išrinktąjį vainikavo Achene per tris karalius sausio 6 dieną
-    (Mart. p. 444; Ptol. loc. cit.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-62819
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 247"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     106. Apie jo vainikavimą Achene
 

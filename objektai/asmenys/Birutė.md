@@ -41,7 +41,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo Žemaičių bajoro Vydimanto duktė; kitame šaltinyje ji siejama su nužudymu Brastoje.
+Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris. Birutė iš jų bus išmokęs skaityti ir rašyti. Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.
 
 ## Teiginiai
 
@@ -143,15 +143,27 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   pagrindžia:
     - c-171408
 
-<a id="claim-t-193898"></a>
+<a id="claim-t-196428"></a>
 - t-015
-  global_id: t-193898
-  teiginys: "Ir kunigaikštis Kęstutis paėmė ją prievarta iš tos vietos, su didžia pa garba palydėjo ją į savo sostinę Trakus ir, sukvietęs brolius, iškėlė su savaisiais broliais dideles vestuves ir paėmė tą mergelę Birutę sau žmona l3 ."
+  global_id: t-196428
+  teiginys: "Kojelavičiaus pasakojime Kęstutis, grįžęs į Lietuvą, paėmė į žmonas vaidilutę Birutę."
   pagrindžia:
-    - c-176523
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176692|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m.
+    - c-168036
+
+<a id="claim-t-197390"></a>
+- t-016
+  global_id: t-197390
+  teiginys: "Au kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu sę, turėjo palikti jai tas apeigas."
+  pagrindžia:
+    - c-179162
+
+<a id="claim-t-197391"></a>
+- t-017
+  global_id: t-197391
+  teiginys: "Birutė iškirpta arba išgraužta, dėl tų prietarų jie mano, kad tai pranašauja žmonių arba gyvulių marą; dėl šios priežasties dažnai visame kaime kyla didelis verksmas ir susijaudinimas; išplisdamas aplinkui, jis tampa didelio nerimo priežastimi."
+  pagrindžia:
+    - c-171408
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188542|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Žemaitijoje ilgiau išlikusį aukurą ir apeigas.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176692|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-188647|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas Vytautą įvardija kaip Kęstučio ir kunigaikštienės Birutės sūnų, kartu su Patriku, Tautvila, Sigaila ir Danute.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-188648|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas rašo, kad Vytautui viešpataujant Lietuvoje kunigaikštienė Birutė sugrįžo į Palangą ir ten mirė 1416 m.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-188649|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai aukurą ir apeigas, nes negalėjo palenkti jos į krikščionybę.
@@ -190,330 +202,9 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - susijęs iš Dubysa: Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu.
 - susijęs iš Maskva: Lietuvos metraščiuose Algirdo žygiai į Maskvą priskiriami epinius pasakojimus atitinkantiems siužetams.
 - susijęs iš Naujieji Trakai: Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip nežinoma.
-- susijęs iš Naujieji Trakai: Tiksli Naujųjų Trakų įkūrimo data nežinoma.
 - susijęs iš Nevėžio upė: Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilučių saugoma Amžinoji ugnis.
 - susijęs iš [[objektai/zodynas/Paliaubos induciae.md#claim-t-86504|Paliaubos induciae]]: 1382 metų lapkričio pradžioje Jogaila Dubysos saloje sudarė paliaubas su kryžiuočiais, paaukodamas jiems nemažą Žemaitijos dalį.
 - susijęs iš [[objektai/zodynas/vaidilutė.md#claim-t-34283|vaidilutė]]: Vytauto motinos Birutės vaidilutės statusas laikytas ginčytinu, nes ano meto šaltiniai apie tai nutyli.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kęstutis, matyt, buvo buvęs du kartu
-    vedęs. Pirmoji Kęstučio žmona mums nežinoma, ir turėjo būti
-    trijų vyresniųjų Kęstučio sūnų motina. Birutė bus pagimdžiusi
-    tris jaunesniuosius sūnus ir tris dukteris^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet iš ki­
-    tos pusės, Vytautui teko gyventi ne vien pagoniško tikėjimo pa­
-    sauliožiūros rate. Kaip Trakuose, taip ir dėdės Algirdo šeimoj
-    Vilniuj tekdavo jam susidurti ir su krikščionybės idėjomis,
-    nes čia dažnai atvykdavo iš Vakarų ir Rytų Europos įvairūs
-    pasiuntiniai, riteriai, vienuoliai, kurie lankydavos ne tik naujo
-    tikėjimo skelbimo reikalais, bet ir apsigyvendavo kunigaikščių
-    dvaruose raštininkais, patarėjais. Vienas Vytauto mokytojas
-    buvo kryžiuotis, nes tėvo dvare vokiečių belaisvių nestigdavo;
-    todėl jis iš jų bus išmokęs skaityti ir rašyti. Vadinas, Vytautas
-    augo ir pagoniško ir krikščioniško tikėjimų įtakoje. Jo pirmoji
-    žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė.
-    Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik
-    paskui pasidarė labai uoli katalikė. Istorikai nurodo, kad Vy­
-    tautas turėjo tris žmonas^1 ). Trečios žmonos vardas buvęs Ju­
-    lijona.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias
-    šios dinastijos atstovas, kaip galingas ir labai didelis ąžuolas,
-    išaugęs kitų miško medžių tarpe. Jo tėvas Kęstutis, nuolatinis
-    Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo
-    Žemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,
-    buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
-    giems valdovams buvę nepatogu susirišti giminystės ryšiais su
-    savo pavaldiniais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visų pirma atsirado
-    herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad
-    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
-    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
-    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
-    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
-    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
-    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti
-    pasakojimai užrašyti XV–XVI a., tačiau jie turėjo istorinį pagrindą – tai
-    patvirtina vienalaikiai rašytiniai šaltiniai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-005
-
-- c-005
-  santrauka: 'Lietuvos metraščiuose Birutė vaizduojama kaip Palangos mergelė, žmonių garbinta kaip dievaitė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,
-    kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.
-    72). Pagonybės laikų tradicija apie šventąją Birutę išliko iki XIX a. (Jucevičius L. A.,
-    Raštai, p. 441—442).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-006
-  santrauka: 'Kunigaikštienės Birutės paskandinimo aplinkybės, kaip ir Kęstučio mirtis, šaltinyje vadinamos neaiškiomis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
-    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
-    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
-    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
-    sudarė su jais paliaubas. Tačiau ir tai negalėjo pasotinti go­
-    duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
-    36
-    Klausimas, ar Kęstutis pats pasirin­
-    kęs mirtį, - juk Skirgaila, važiavęs
-    jo aplankyti, netikėtai rado negyvą,
-    ar nužudytas, o jo žmona kunigaikš­
-    tienė Birutė paskandinta, - nėra iki
-    šiol aiškus ir rašantiesiems Lietuvos
-    istoriją dera jo imtis.
-    37
-    Vygandas  savo kronikoje, p. 298,
-    apud V o i g t, V, 372, aprašinėda­
-    mas Kęstučio laidotuves Vilniuje,
-    kur kartu su palaikais buvo sudegin­
-    ti jo rūbai, ginklai, žirgai, medžiok­
-    liniai šunys ir paukščiai, prietarin­
-    gai priduria, kad to deginimo metu
-    stebuklingu būdu žemėje atsivėrusi
-    tokio gylio kiaurymė, jog vienas
-    žmogus galėjęs tilpti, ir įtraukė Kęs­
-    tučio pelenus, ką regėjusi daugybė
-    žmonių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-007
-  santrauka: 'Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo tarpu lietuviai, išsaugoję likusius
-    karius, ramiai patraukė namo, išsigabendami laimikį —
-    visą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į
-    žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­
-    nimu, nors labai norėjo užmiršti savo vargus. Mat Aust­
-    rijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją
-    didžiulę kariuomenę; šių jė­
-    gų remiami kryžiuočiai už­
-    puolė Žemaitiją ir, padaliję
-    pulkus keturiomis žygio vo­
-    romis, nusiaubė visą kraštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-008
-  santrauka: 'Vytautas, sužinojęs apie Jogailos žygį į Trakus, su pamote Birute pasitraukė į Gardiną.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo būdu
-    užėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni­
-    ją, prašydamas pagalbos; pats, palikęs mieste stiprią
-    savo įgulą, pailsėjusią ir papildytą kariuomenę nuve­
-    dė į Trakus prieš Vytautą. Vytautas, iš draugų apie
-    viską sužinojęs, spėjo su pamote Birute pasitraukti į
-    Gardiną.
-    Jogaila
-    atkakliai
-    U žkariauja T rakus
-    puolė Trakus, ir trakiškiai
-    ilgai neatsilaikė: nesitikėda­
-    mi iš niekur paramos, jie perėjo į Jogailos pusę, ati­
-    duodami miestą, pilis bei turtą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-009
-  santrauka: 'Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip Žemaičių didiko dukterį ir Praurimės aukuro ugnies saugotoją prie Palangos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Duomenų apie tai mums
-    paliko Strijkovskis.
-    Birutė (Biruta)
-    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
-    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
-    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-010
-  santrauka: 'Narbutas pasakoja, kad Kęstutis Birutę išsivežė prieš jos valią į Naujuosius Trakus ir ten vedė, nors ji buvo davusi skaistybės įžadą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
-    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
-    nė, būdama gyva, garsėjo savo kilniaširdiškumu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-011
-  santrauka: 'Narbutas rašo, kad Birutė, žuvus Kęstučiui ir valdant Vytautui, grįžo į Palangą ir 1416 metais ten mirė laikydamasi senojo tikėjimo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Si kunigaikštie­
-    nė, būdama gyva, garsėjo savo kilniaširdiškumu. Žuvus vyrui
-    ir jau Vytautui viešpataujant Lietuvoje, ji sugrįžo atgal į Pa­
-    langą ir ten, laikydamasi savo senojo tikėjimo, 1416 metais
-    užbaigė gyvenimą. Žmonės, menantys jos dorybes ir nuopel­
-    nus, laikė ją šventa.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-012
-  santrauka: 'Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Palangos aukuro apeigas, todėl jos Žemaitijoje išliko ilgiau.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
-    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
-    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
-    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
-    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
-    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
-    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
-    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
-    deivę, juk ir Strijkovskis tą patvirtina.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-013
-  santrauka: 'Narbutas chronologiškai skaičiuoja, kad Birutė gimė apie 1331 metus, ištekėjo 1348 metais ir mirė 1416 metais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dabar, kai rašau,
-    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
-    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
-    minimo ir garbinimo apeigos.
-    Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­
-    sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl
-    aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-
-    30
-    Patyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331
-    metus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­
-    le 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­
-    veik 18 metų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-014
-  santrauka: 'Ir kunigaikštis Kęstutis paėmė ją prievarta iš tos vietos, su didžia pa garba palydėjo ją į savo sostinę Trakus ir, sukvietęs brolius, iškėlė su savaisiais broliais dideles vestuves ir paėmė tą mergelę Birutę sau žmona l3 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir kunigaikštis
-    Kęstutis paėmė ją prievarta iš tos vietos, su didžia pa­
-    garba palydėjo ją į savo sostinę Trakus ir, sukvietęs
-    brolius, iškėlė su savaisiais broliais dideles vestuves
-    ir paėmė tą mergelę Birutę sau žmona l3 .
-    Bejodinėjant už mylios nuo Trakų, kunigaikščiui
-    Kęstučiui labai patiko vietovė tarp ežerų, ir jis ten ap­
-    sigyveno, ir įkūrė miestą, pramindamas jį Naujaisiais
-    Trakais N , o savo sostinę iš Senųjų Trakų perkėlė į
-    Naujuosius. O jo sūnus Vytautas gimė Senuosiuose Tra­
-    kuose l5 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
 ## Citatos
 
 - id: c-15262
@@ -611,13 +302,14 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - id: c-160333
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 63"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,
-    kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.
-    72). Pagonybės laikų tradicija apie šventąją Birutę išliko iki XIX a. (Jucevičius L. A.,
-    Raštai, p. 441—442).
+    kuo rimčiausiai užtarti dėl šio dalyko. Ši, užjausdama savąją lytį, sušaukė pas save visos
+    žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir
+    kitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos
+    paklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė į
+    kaimynų krikščionių žemes.
+  citata_rodoma: "Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,\nkuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.\n72). Pagonybės laikų tradicija apie šventąją Birutę išliko iki XIX a. (Jucevičius L. A.,\nRaštai, p. 441—442)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -668,10 +360,12 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - id: c-168036
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 251"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 251."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo tarpu lietuviai, išsaugoję likusius
+    Užėmęs kovos lau­
+    ką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­
+    sa, gana kruviną; jie čia ir sustojo, be vado nedrįsdami
+    toliau žygiuoti. Tuo tarpu lietuviai, išsaugoję likusius
     karius, ramiai patraukė namo, išsigabendami laimikį —
     visą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į
     žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­
@@ -682,33 +376,33 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
     puolė Žemaitiją ir, padaliję
     pulkus keturiomis žygio vo­
     romis, nusiaubė visą kraštą.
+  citata_rodoma: "Užėmęs kovos lau­\nką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­\nsa, gana kruviną; jie čia ir sustojo, be vado nedrįsdami \ntoliau žygiuoti. Tuo tarpu lietuviai, išsaugoję likusius \nkarius, ramiai patraukė namo, išsigabendami laimikį — \nvisą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į \nžmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­\nnimu, nors labai norėjo užmiršti savo vargus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184675
+    - t-196428
 
 - id: c-168037
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo būdu
+    Jogaila nudžiugo gavęs progą sutelkti
+    kariuomenę, šiek tiek pažygiavo link Seversko, po to
+    staiga pasuko kita linkme ir skubiai patraukė į Vilnių;
+    čia, pilies viršininkui Hanului bei miesto magistratui
+    išdavus, naktį buvo įleistas į miesto vidų, užėmė pilis,
+    ■dalį Kęstučio įgulos išžudė, o kitus suėmė. Tuo būdu
     užėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni­
     ją, prašydamas pagalbos; pats, palikęs mieste stiprią
     savo įgulą, pailsėjusią ir papildytą kariuomenę nuve­
     dė į Trakus prieš Vytautą. Vytautas, iš draugų apie
     viską sužinojęs, spėjo su pamote Birute pasitraukti į
     Gardiną.
-    Jogaila
-    atkakliai
-    U žkariauja T rakus
-    puolė Trakus, ir trakiškiai
-    ilgai neatsilaikė: nesitikėda­
-    mi iš niekur paramos, jie perėjo į Jogailos pusę, ati­
-    duodami miestą, pilis bei turtą.
+  citata_rodoma: "Tuo būdu\nužėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni­\nją, prašydamas pagalbos; pats, palikęs mieste stiprią\nsavo įgulą, pailsėjusią ir papildytą kariuomenę nuve­\ndė į Trakus prieš Vytautą. Vytautas, iš draugų apie\nviską sužinojęs, spėjo su pamote Birute pasitraukti į\nGardiną.\nJogaila\natkakliai\nU žkariauja T rakus\npuolė Trakus, ir trakiškiai\nilgai neatsilaikė: nesitikėda­\nmi iš niekur paramos, jie perėjo į Jogailos pusę, ati­\nduodami miestą, pilis bei turtą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -719,21 +413,19 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - id: c-171404
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Duomenų apie tai mums
-    paliko Strijkovskis.
-    Birutė (Biruta)
-    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
-    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
-    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną.
+    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30.
+  citata_rodoma: "Duomenų apie tai mums\npaliko Strijkovskis.\nBirutė (Biruta)\nŽemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­\nte būryje mergelių, saugojančių šventą Praurimės aukuro ug­\nnį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -744,18 +436,20 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - id: c-171405
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
-    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
-    nė, būdama gyva, garsėjo savo kilniaširdiškumu.
+    Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30. Dabar, kai rašau,
+    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
+    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
+    minimo ir garbinimo apeigos.
+  citata_rodoma: "Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,\nSigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­\nnė, būdama gyva, garsėjo savo kilniaširdiškumu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -766,15 +460,17 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - id: c-171406
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Si kunigaikštie­
-    nė, būdama gyva, garsėjo savo kilniaširdiškumu. Žuvus vyrui
-    ir jau Vytautui viešpataujant Lietuvoje, ji sugrįžo atgal į Pa­
-    langą ir ten, laikydamasi savo senojo tikėjimo, 1416 metais
-    užbaigė gyvenimą. Žmonės, menantys jos dorybes ir nuopel­
-    nus, laikė ją šventa.
+    Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30. Dabar, kai rašau,
+    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
+    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
+    minimo ir garbinimo apeigos.
+    Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­
+    sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl
+    aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-
+  citata_rodoma: "Si kunigaikštie­\nnė, būdama gyva, garsėjo savo kilniaširdiškumu. Žuvus vyrui\nir jau Vytautui viešpataujant Lietuvoje, ji sugrįžo atgal į Pa­\nlangą ir ten, laikydamasi savo senojo tikėjimo, 1416 metais\nužbaigė gyvenimą. Žmonės, menantys jos dorybes ir nuopel­\nnus, laikė ją šventa."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -785,8 +481,7 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - id: c-171407
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
     viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
@@ -807,52 +502,48 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - id: c-171408
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Dabar, kai rašau,
-    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
-    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
-    minimo ir garbinimo apeigos.
-    Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­
-    sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl
-    aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-
-    30
-    Patyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331
-    metus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­
-    le 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­
-    veik 18 metų.
+    Pastebėję po nakties avį
+    nuplikusia dėmėmis nugara, be vilnos, tarytum būtų ji iškirpta
+    arba išgraužta, dėl tų prietarų jie mano, kad tai pranašauja
+    žmonių arba gyvulių marą; dėl šios priežasties dažnai visame
+    kaime kyla didelis verksmas ir susijaudinimas; išplisdamas ap­
+    linkui, jis tampa didelio nerimo priežastimi. Stenderis savo lat­
+    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
+    sukeltų, neramumų liudytojas.
+    Garbinamas buvo žalčio pavidalu.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188518
+    - t-197391
 
-- id: c-176523
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- id: c-179162
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ir kunigaikštis
-    Kęstutis paėmė ją prievarta iš tos vietos, su didžia pa­
-    garba palydėjo ją į savo sostinę Trakus ir, sukvietęs
-    brolius, iškėlė su savaisiais broliais dideles vestuves
-    ir paėmė tą mergelę Birutę sau žmona l3 .
-    Bejodinėjant už mylios nuo Trakų, kunigaikščiui
-    Kęstučiui labai patiko vietovė tarp ežerų, ir jis ten ap­
-    sigyveno, ir įkūrė miestą, pramindamas jį Naujaisiais
-    Trakais N , o savo sostinę iš Senųjų Trakų perkėlė į
-    Naujuosius. O jo sūnus Vytautas gimė Senuosiuose Tra­
-    kuose l5 .
+    Lietuvos ir Prūsijos archeologų surinkti duomenys patiks­
+    lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Prauri-
+    mės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi­
+    lučių. Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193898
+    - t-197390
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Tėvai: [[objektai/asmenys/Vydimantas]]
-- Birutė keliavo į [[objektai/vietos/Gardinas]], [[objektai/vietos/Palanga]]
+- Birutė keliavo į [[objektai/vietos/Palanga]]

@@ -59,26 +59,6 @@ Nenurodyta
   teiginys: "Lietuvių santykiai su husitais baigėsi, kai Kaributas po derybų su popiežiumi buvo išvytas iš Čekijos."
   pagrindžia:
     - c-37017
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kaributas savo valia buvo dar
-    kartą išvykęs į Čekiją ir, susidėjęs su čekų vadu Prokopu, ka­
-    riavo su Zigmantu, bet husitų eilėms retėjant, pradėjo derybas
-    su popiežium ir už tą buvo išvytas iš Čekijos. Tuo ir užsibaigė
-    šie lietuvių santykiai su husitais. Vytautas, tur būt, niekada
-    nuoširdžiai nemanė būti čekų karalium, nes tam reikėjo ilgų
-    kovų su vokiečiais ir popiežium, o Vytautui buvo reikalinga tai­
-    ka Vakaruose ir geri santykiai su Bažnyčia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

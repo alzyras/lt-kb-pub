@@ -2,19 +2,12 @@
 tipas: vieta
 pavadinimas: 'Antverpenas'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
-datos:
-  - '1650 m.'
-  - '1669 m.'
-date_start: '1650'
-date_end: '1669'
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,50 +25,37 @@ media_all_json: |-
 
 ## Santrauka
 
-Antrasis Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ tomas išėjo 1669 m. Antverpene.
+Kristupas Pacas lankydavo Rubenso dirbtuvę Antverpene, keliaudamas po Italiją ir Nyderlandus bei studijuodamas meno paminklus.
 
 ## Teiginiai
 
-<a id="claim-t-185241"></a>
+<a id="claim-t-200772"></a>
 - t-001
-  global_id: t-185241
-  teiginys: "Antrasis Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ tomas išėjo 1669 m. Antverpene."
+  global_id: t-200772
+  teiginys: "Kristupas Pacas lankydavo Rubenso dirbtuvę Antverpene, keliaudamas po Italiją ir Nyderlandus bei studijuodamas meno paminklus."
   pagrindžia:
-    - c-168602
-- susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Kojelavičiaus „Lietuvos istorijos“ pirmasis tomas išėjo 1650 m. Gdanske, o antrasis - 1669 m. Antverpene.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Antrasis Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ tomas išėjo 1669 m. Antverpene.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    A. Kojelavičius nebegalėjo tikėtis tokio pasiseki­
-    mo, kokio susilaukė A. Gvagninis, nors jo istorija para­
-    šyta lotyniškai ir išspausdinta užsienyje: pirmas tomas
-    išėjo 1650 m. Gdanske, o antras — 1669 m. Antverpene.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
+    - c-184117
+- susijęs iš [[objektai/asmenys/Steponas Kristupas Pacas.md#claim-t-200863|Steponas Kristupas Pacas]]: Kristupas Pacas keliaudamas po Italiją ir Nyderlandus studijavo meno paminklus, pažinojo Rubensą ir lankydavosi jo dirbtuvėje Antverpene.
+- susijęs iš Historia De Gentibus Septentrionalis, Auctore Olao Magno, Gotho, Archiepiscopo Upsalensi, Suetiae et Gothiae Primate: Olauso Magnuso veikalas „Historia De Gentibus Septentrionalis“ bibliografijoje nurodomas kaip 1555 m. Plantino leidinys Antverpene.
 ## Citatos
 
-- id: c-168602
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 5"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 5."
+- id: c-184117
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 35"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 35."
   citata_originali: |
-    A. Kojelavičius nebegalėjo tikėtis tokio pasiseki­
-    mo, kokio susilaukė A. Gvagninis, nors jo istorija para­
-    šyta lotyniškai ir išspausdinta užsienyje: pirmas tomas
-    išėjo 1650 m. Gdanske, o antras — 1669 m. Antverpene.
+    Jeigu visa tai liudija apie tikrai
+    magnatišką dosnumą ir užsimojimą, tai pati bažnyčios architektūra rodo
+    aukštą meninę kultūrą — ne tiktai statytojo, bet ir statydintojo. Mes žinome
+    apie Kristupą Pacą, kad jis išlavino savo meninį skonį keliaudamas po Ita­
+    liją ir Niderlandus, kur uoliai studijavo meno paminklus; tarp kita ko, jis
+    buvo asmeniškai pažįstamas su didžiuoju Rubensu ir lankydavo jo dirbtuvę
+    Antverpene. Grįžęs į Lietuvą, Pacas tampa sąmoningu didžiojo meno ugdy­
+    toju savo tėvynėje.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185241
+    - t-200772

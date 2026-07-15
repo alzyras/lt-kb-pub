@@ -50,48 +50,6 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
   teiginys: "1991 m. Audrius Butkevičius buvo nurodytas tarp Aukščiausiosios Tarybos gynybos štabo narių."
   pagrindžia:
     - c-41850
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
-
-    Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Iki Laikinosios gynybos vadovybės sudarymo KAD direktorius Audrius Butkevičius vykdė pagrindinį organizacinį ir vadovavimo darbą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sausio 13 d. AT priėmė nutarimą su-
-    daryti Laikinąją gynybos vadovybę:
-    V. Landsbergis, A. Šimėnas, Z. Vaišvila,
-    A. Butkevičius, V. Zabarauskas, M. Lau-
-    rinkus, R. Ozolas, A. Abišala. Iki šio
-    nutarimo pagrindinį organizacinį ir va-
-    dovavimo darbą vykdė KAD direktorius
-    Audrius Butkevičius, A. Skučas su savo vy-
-    rais ir AT gynybos štabo viršininku paskir-
-    tas Jonas Gečas su padalinių vadais.
-
-    Apie 120 A. Skučo vadovaujamų
-    AT Apsaugos skyriaus (ATAS) dar-
-    buotojų, ginkluotų maždaug 20 PM
-    (Makarov) ir 4 TT pistoletais,
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

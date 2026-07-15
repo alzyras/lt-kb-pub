@@ -35,33 +35,13 @@ Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runo
   teiginys: "Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau gyveno herulai."
   pagrindžia:
     - c-177165
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau gyveno herulai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Si
-    maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­
-    šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode­
-    rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
-    gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
-    ne. muskis. und man'.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177165
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 345"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Si
     maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­

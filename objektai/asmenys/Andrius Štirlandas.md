@@ -58,59 +58,6 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
   teiginys: "Mindaugas papirko Livonijos ordino magistrą Andrių Štirlandą ir per pasiuntinį popiežiui išdėstė Lietuvai palankesnes sąlygas."
   pagrindžia:
     - c-166916
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1248 m. padėtis jam
-    tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
-    čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
-    ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
-    tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
-    Livonijos ordino magistrą Andrių Štirlandą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visa tai – Mindaugo politikos rezulta-
-    tas. Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
-    lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
-    organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
-    toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-
-    žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Mindaugas papirko Livonijos ordino magistrą Andrių Štirlandą ir per pasiuntinį popiežiui išdėstė Lietuvai palankesnes sąlygas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
-    lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
-    organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
-    toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-
-    žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
-    Livonijos delegatų nuostabai popiežius patenkino Mindaugo prašymą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 

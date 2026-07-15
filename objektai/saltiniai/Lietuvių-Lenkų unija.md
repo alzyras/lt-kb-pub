@@ -43,20 +43,6 @@ media_all_json: |-
   teiginys: "J. Gabrio „Lietuvių-Lenkų unija“ buvo išleista Filadelfijoje 1915 m."
   pagrindžia:
     - c-36193
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Gab. u. = Gabrys, J., Lietuvių - Lenkų unija. Philadelphia
-    Pa., 1915.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

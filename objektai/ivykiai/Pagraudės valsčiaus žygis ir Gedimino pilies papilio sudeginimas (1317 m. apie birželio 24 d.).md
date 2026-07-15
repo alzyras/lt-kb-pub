@@ -87,63 +87,16 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
   teiginys: "Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis."
   pagrindžia:
     - c-57400
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
-
-      Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
-    broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę
-    į keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti
-    kai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra
-    kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
-    vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
-    apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
-    Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
-    ir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais
-    kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
-    nelaisvę, o daugybę vyrų nukovė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-    - t-004
-    - t-005
-
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
-    ir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais
-    kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
-    nelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
-    bet taip pat nieko nepešė, nes jos vedliai pasiklydo. Galop visa kariuomenė susirinko į
-    vieną daiktą ir patraukė namo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-57400
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 213"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
-
-      Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
+    Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
     broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę
     į keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti
     kai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra
@@ -151,7 +104,7 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
     vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
     apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
     Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
-    ir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais
+    ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais
     kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
     nelaisvę, o daugybę vyrų nukovė.
   statusas: verified
@@ -159,19 +112,18 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-56683
     - t-56681
+    - t-56683
     - t-183951
     - t-194413
 
 - id: c-57401
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 213"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
-    ir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais
+    ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais
     kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
     nelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
     bet taip pat nieko nepešė, nes jos vedliai pasiklydo. Galop visa kariuomenė susirinko į

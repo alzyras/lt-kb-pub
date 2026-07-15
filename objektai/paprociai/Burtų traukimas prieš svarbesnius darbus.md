@@ -64,75 +64,16 @@ Nenurodyta
     - c-63406
     - c-63407
     - c-63408
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
-
-      Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
-    dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
-    plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
-    jų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  santrauka: 'Prūsai prieš svarbesnius darbus traukdavo burtus, klausdami savo dievų, ar darbas pavyks gerai, ar blogai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šiuo metu lietuviai ir kiti tose žemėse
-    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
-    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
-    pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
-    papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
-    Jie nei anksčiau nesirūpino nebūtinais ir prabangiais drabužiais, nei dabar nesirūpina:
-    kaip šiandien nusivelka, taip rytoj apsivelka, nė nepastebėdami, kad jie štai išvirkšti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Prūsai prieš svarbesnius darbus traukdavo burtus, klausdami savo dievų, ar darbas pavyks gerai, ar blogai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Po pergalės jie
-    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
-    atiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse
-    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
-    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
-    pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
-    papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-63406
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
-
-      Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
+    Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
     dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
     plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
     jų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal.
@@ -148,8 +89,7 @@ Nenurodyta
 - id: c-63407
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 69"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šiuo metu lietuviai ir kiti tose žemėse
     gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
@@ -169,8 +109,7 @@ Nenurodyta
 - id: c-63408
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 69"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Po pergalės jie
     aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį

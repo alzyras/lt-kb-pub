@@ -36,26 +36,6 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
   pagrindžia:
     - c-24497
 - susijęs iš T. Czackio laiškas Malachovskiui (1787-07-31): 1787 m. liepos 31 d. T. Cackio laiške Malachovskiui rašyta, kad Jasuose lankėsi kunigas Sevaljė, L’Abbé Chevalier.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau kartu litvakais imta vadinti žydus, kuriems
-    būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo.
-    Taip Vilnius XVIII a. tapo žydų gyvenimo pastovumo ir kultūros kles-
-    tėjimo simboliu ir buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de
-    Lite). Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam
-    žydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londo-
-    no, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24497

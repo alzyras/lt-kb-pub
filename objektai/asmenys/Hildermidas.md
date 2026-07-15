@@ -25,53 +25,31 @@ media_all_json: |-
 
 ## Santrauka
 
-Grafas Hildermidas buvo škotas, kurio tėvas paaukojo gyvybę gelbėdamas karalių.
-
-## Teiginiai
-
-<a id="claim-t-186211"></a>
-- t-001
-  global_id: t-186211
-  teiginys: "Grafas Hildermidas buvo škotas, kurio tėvas paaukojo gyvybę gelbėdamas karalių."
-  pagrindžia:
-    - c-169572
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Grafas Hildermidas buvo škotas, kurio tėvas paaukojo gyvybę gelbėdamas karalių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Greta jo įsitai­
-    sė Fridrichas, Meiseno markgrafas, nė vienas jo šeimos
-    vyras nebuvo palikęs kovos rikiuotės. Toliau ■— grafas
-    Hildermidas, škotas, sūnus tėvo, kuris, gelbėdamas ka­
-    ralių, paaukojo gyvybę. Po jo — grafas Rupertas, atsi­
-    sakęs Romos imperijos sosto, į kurį buvo kviečiamas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Citatos
 
 - id: c-169572
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 334"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Greta jo įsitai­
-    sė Fridrichas, Meiseno markgrafas, nė vienas jo šeimos
-    vyras nebuvo palikęs kovos rikiuotės. Toliau ■— grafas
-    Hildermidas, škotas, sūnus tėvo, kuris, gelbėdamas ka­
-    ralių, paaukojo gyvybę. Po jo — grafas Rupertas, atsi­
-    sakęs Romos imperijos sosto, į kurį buvo kviečiamas.
+    Sutraukęs kraštą nio­
+    kojusius pulkus prie Marienverderio salos, pasak kry­
+    žiuočių metraštininkų, prieš vesdamasis karius į krašto
+    gilumą, iškėlė toje saloje prabangią puotą. Prie stalo
+    visi karvedžiai bei riteriai susėdo tokion vieton, kokia
+    kiekvienam priklausė pagal
+    Prieš
+    m ū šį
+    iškelia
+    jo žygių šlovę. Galustalėje
+    šau n ią p u o tą
+    sėdėjo austrų riteris Kinodi-
+    jus, kitados vienui vienas iš­
+    žudęs šešiasdešimt turkų, kurie jį vijosi.
+  citata_rodoma: "Nusiaubęs dideliuose \nplotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš \nlietuvių bei žemaičių keletą pilių. Sutraukęs kraštą nio­\nkojusius pulkus prie Marienverderio salos, pasak kry­\nžiuočių metraštininkų, prieš vesdamasis karius į krašto \ngilumą, iškėlė toje saloje prabangią puotą. Prie stalo \nvisi karvedžiai bei riteriai susėdo tokion vieton, kokia\nkiekvienam priklausė pagal \nPrieš \nm ū šį \niškelia \njo žygių šlovę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186211

@@ -45,25 +45,6 @@ Iki mūsų eros pradžios teturime labai maža senosios kultūros liudininkų; t
 - susijęs iš Pripetės pelkės: Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip sunkiai pereinama gamtinė kliūtis.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96077|Baltai]]: Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.
 - susijęs iš Nemuno-Dauguvos-Dniepro plotas: Viduriniame geležies amžiuje baltai ir toliau gyveno Nemuno, Dauguvos ir Dniepro plote, nedaug tepajudėdami.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Geležis Lietuvoje pradėta vartoti ne anksčiau kaip apie 500 m. pr. Kr., o turtinga geležies amžiaus kultūra išryškėjo pirmaisiais amžiais po Kr.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Geležis Lietuvoje pradedama vartoti ne anksčiau, kaip apie
-    500 m. pr. Kr. Iki mūsų eros pradžios teturime labai maža seno-
-    sios kultūros liudininkų; tiktai pirmaisiais amžiais po Kr. Lietu-
-    voje susiduriame su turtinga, gražia ir savita geležies am-
-    žiaus kultūra.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-03235

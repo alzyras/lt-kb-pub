@@ -93,75 +93,6 @@ Nenurodyta
 - susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
 - susijęs iš Vilnius: Prancūzijos nacionalinis geografijos institutas Europos centro statmenį nustatė 25 km į šiaurę nuo Vilniaus.
 - susijęs iš Vilnius: Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad geografinis Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pagal citatoje aprašytą Europos žemėlapio linijų sankirtą geografinis Europos centras yra Lietuvoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
-    tarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines
-    Graikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta
-    Lietuvoje, kurioje ir yra geografinis Europos centras. Visai neseniai Pran-
-    cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
-    gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
-    25 km į šiaurę nuo Lietuvos sostinės Vilniaus. Europos centro koordina-
-    tės 54o55’ šiaurės platumos, 25o19’ rytų ilgumos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Į v a d a s
-    LIETUVA –
-    VIDURIO EUROPOS DALIS
-    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
-    didesnis, negu su bet kuria kita kalba šioje žemėje“
-    Iš britų mokslininko Robert Gordon Latham
-    „Descriptive Ethnology“ („Aprašomoji etnologija“)
-    Geografinis Europos centras?
-    Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
-    tarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines
-    Graikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta
-    Lietuvoje, kurioje ir yra geografinis Europos centras. Visai neseniai Pran-
-    cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
-    gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
-    25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
-- c-003
-  santrauka: 'Europos geografinio centro koordinatės nurodytos kaip 54°55’ šiaurės platumos ir 25°19’ rytų ilgumos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visai neseniai Pran-
-    cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
-    gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
-    25 km į šiaurę nuo Lietuvos sostinės Vilniaus. Europos centro koordina-
-    tės 54o55’ šiaurės platumos, 25o19’ rytų ilgumos. Lietuva yra toje pačioje
-    geografinėje platumoje kaip į vakarus nuo Lietuvos esančios Pietų Švedi-
-    ja, Danija, Škotija; toje pačioje geografinėje ilgumoje kaip į šiaurę – Suo-
-    mija, į pietus – Rumunija, Bulgarija, Graikija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-16568
@@ -210,8 +141,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76263
     - t-76262
+    - t-76263
 
 - id: c-73884
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

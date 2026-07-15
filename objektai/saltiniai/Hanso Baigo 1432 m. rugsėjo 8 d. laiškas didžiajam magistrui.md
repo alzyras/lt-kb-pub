@@ -40,35 +40,6 @@ media_all_json: |-
   teiginys: "Hansas Baigas 1432 m. rugsėjo 8 d. iš Trakų rašė didžiajam magistrui apie Žygimanto teikiamas garantijas pagal Magdeburgo teises."
   pagrindžia:
     - c-84403
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Hansas Baigas 1432 m. rugsėjo 8 d. iš Trakų rašė didžiajam magistrui apie Žygimanto teikiamas garantijas pagal Magdeburgo teises.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    18
-    Kryžiuočių knechtas Hansas Baigas
-    1432 metų rugsėjo 8 dieną iš Trakų
-    rašo didžiajam magistrui, kad: „Žy­
-    gimantas, naujas Lietuvos didysis
-    kunigaikštis, visiems, turintiems iš
-    tėvų paveldėto turto, suteikia garan­
-    tijų pagal Magdeburgo teises, kaip
-    ir tiems, kuriems seniau jo brolis Vy­
-    tautas paskyrė dovanojimus, ir taip
-    pelno miestiečių palankumą. Visi
-    kalba: „O, koks mums maloningas
-    yra mūsų valdovas, Švitrigaila to ne­
-    darė. Už mūsų Žygimantą esame
-    pasirengę numirti/' Kotzebue
-    Switrig., p . 8 6 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

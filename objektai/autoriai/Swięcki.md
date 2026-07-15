@@ -34,8 +34,8 @@ Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš 
   teiginys: "Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš Seversko žemės."
   pagrindžia:
     - c-173340
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš Seversko žemės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -56,12 +56,15 @@ Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš 
 - id: c-173340
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 368"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Net buvo ap­
-    23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-
-    rožytnej Polski. -  T. II).
+    Lasickis palaikė dievaičio pavadinimu žodį Ežagtdis
+    (ežiagulis -R . J.), lietuvių kalba reiškiantį antkapį arba pilka­
+    pį, kauburį; matyt, dievobaimingas šio žodžio minėjimas, gir­
+    dėtas su tam tikromis maldomis, davė pagrindą susidaryti to­
+    kiai tyrėjo nuomonei. Vis dėlto iki šiol ypač garbinami pilka­
+    piai, supilti ant žymių žmonių pelenų.
+  citata_rodoma: "Net buvo ap­\n23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-\nrožytnej Polski. -  T. II)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

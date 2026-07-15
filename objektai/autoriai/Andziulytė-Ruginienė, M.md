@@ -44,24 +44,6 @@ Andziulytė-Ruginienė, M.
   teiginys: "M. Andziulytė-Ruginienė 1937 m. Kaune paskelbė darbą „Žemaičių christianizacijos pradžia“."
   pagrindžia:
     - c-29205
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Andziulytė-Ruginienė, M. : _Žemaičių christianizacijos pradžia,_
-    atsp. iš Athenaeum, VII, Kaunas 1937. — BeGeDO, t. 2. — Bełch,
-    St. J. : _Falkenberg_ , SaPoM, t. 2, 1956, 165-192 p. — (”) _Paulus Vladimiri
-    and his Doctrine concerning International Law and Politics_ , I-II, London
-
-    1965.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

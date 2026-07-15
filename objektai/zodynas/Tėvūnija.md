@@ -44,19 +44,6 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
   teiginys: "Tėvūnija, arba pavietė, buvo maža Lietuvos ūkės apygarda."
   pagrindžia:
     - c-09630
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Visa Lietuvos ūkė buvo paskaidyta į mažas apygardas, tėvūnijomis, arba pavietėmis^1057 , vadinamas, nuo vardo vyresniojo, tėvūnu vadinamo, gudiškai Storasta^1058 , ar rasi nuo žodžio vieta, į kurią liuobėjo vyresnieji tos apygardos susirinkę sūdyti^1059 arba kitus ūkės reikalus atlikti: todėl vadinos paviete, gudiškai pavietu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

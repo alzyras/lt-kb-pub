@@ -32,31 +32,16 @@ media_all_json: |-
 
 ## Santrauka
 
-Dlugošas Lucko pasidavim ą klaidingai datuoja 1440 m. Apie 1447 m. Švitrigaila gavo Iš Kazimiero dar Homelj ir bene Turovą.
+Apie 1447 m. Švitrigaila iš Kazimiero gavo Homelį ir, tikėtina, Turovą.
 
 ## Teiginiai
 
 <a id="claim-t-194047"></a>
 - t-001
   global_id: t-194047
-  teiginys: "Dlugošas Lucko pasidavim ą klaidingai datuoja 1440 m. Apie 1447 m. Švitrigaila gavo Iš Kazimiero dar Homelj ir bene Turovą."
+  teiginys: 'Apie 1447 m. Švitrigaila iš Kazimiero gavo Homelį ir, tikėtina, Turovą.'
   pagrindžia:
     - c-176660
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dlugošas Lucko pasidavim ą klaidingai datuoja 1440 m. Apie 1447 m. Švitrigaila gavo Iš Kazimiero dar Homelj ir bene Turovą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Dlugošas Lucko pasidavim ą klaidingai datuoja 1440 m. Apie
-    1447 m. Švitrigaila gavo Iš Kazimiero dar Homelj ir bene Turovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -67,9 +52,9 @@ Dlugošas Lucko pasidavim ą klaidingai datuoja 1440 m. Apie 1447 m. Švitrigail
   citata_originali: |
     Dlugošas Lucko pasidavim ą klaidingai datuoja 1440 m. Apie
     1447 m. Švitrigaila gavo Iš Kazimiero dar Homelj ir bene Turovą.
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194047
+    - t-001

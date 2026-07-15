@@ -25,67 +25,41 @@ media_all_json: |-
 
 ## Santrauka
 
-Jonas Čarnkovskis vadovavo Lenkijos pasienio kelių apsaugai ir suėmė Cigalą iš Vienos bei Zigmantą Rotą.
+Jonas Čarnkovskis nepatvirtintas jokia priesaika.
 
 ## Teiginiai
 
-<a id="claim-t-186218"></a>
+<a id="claim-t-196500"></a>
 - t-001
-  global_id: t-186218
-  teiginys: "Jonas Čarnkovskis vadovavo Lenkijos pasienio kelių apsaugai ir suėmė Cigalą iš Vienos bei Zigmantą Rotą."
+  global_id: t-196500
+  teiginys: "Jonas Čarnkovskis nepatvirtintas jokia priesaika."
   pagrindžia:
     - c-169579
 - susijęs iš [[objektai/asmenys/Cigala iš Vienos.md#claim-t-186191|Cigala iš Vienos]]: Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą.
 - susijęs iš [[objektai/asmenys/Zigmantas Rotas.md#claim-t-186270|Zigmantas Rotas]]: Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėmė imperatoriaus laišką ir paleido juos laisvėn.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jonas Čarnkovskis vadovavo Lenkijos pasienio kelių apsaugai ir suėmė Cigalą iš Vienos bei Zigmantą Rotą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Jedlnioje sukvietė lenkų seimą, kuris nu­
-    tarė, jog reikia pastatyti ginkluotas saugas visuose ke­
-    liuose Lenkijos pasienyje ir
-    uoliai žiūrėti, kad ir impera­
-    toriaus, ir Vytauto žygūnai
-    negalėtų prasmukti nei į vie­
-    ną, nei į kitą pusę. Viskam
-    vadovauti paskyrė Joną Čar-
-    nkovskį. Šis ryžtingai įvykdė, kas jam buvo patikėta,
-    suėmė Cigalą iš Vienos bei vokietį Zigmantą Rotą;
-    iškratė jų nešulius ir atėmė imperatoriaus laišką, pa­
-    leido juos laisvėn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-169579
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 422"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 422."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Jedlnioje sukvietė lenkų seimą, kuris nu­
-    tarė, jog reikia pastatyti ginkluotas saugas visuose ke­
-    liuose Lenkijos pasienyje ir
-    uoliai žiūrėti, kad ir impera­
-    toriaus, ir Vytauto žygūnai
-    negalėtų prasmukti nei į vie­
-    ną, nei į kitą pusę. Viskam
-    vadovauti paskyrė Joną Čar-
-    nkovskį. Šis ryžtingai įvykdė, kas jam buvo patikėta,
-    suėmė Cigalą iš Vienos bei vokietį Zigmantą Rotą;
-    iškratė jų nešulius ir atėmė imperatoriaus laišką, pa­
-    leido juos laisvėn.
+    Į tai Vytautas
+    tarė: ,,Su dėkingumu priimu
+    V y ta u to a tsa k y m a s
+    savo didelio draugo dovaną,
+    rodančią valdovo palankumą,
+    nors pats manau, kad nereikia naujų draugystės įro­
+    dymų. Senosios draugystės pastovumui laiduoti visiškai
+    užtenka ankstesnio susitarimo, nepaisant to, kad jis
+    nepatvirtintas jokia priesaika. Negalima abejoti tuo, ką
+    sykį tarė valdovo lūpos". Šitaip jis kalbėjo viešai, tuo
+    tarpu slaptomis susitarė pagreitinti pakėlimą į sostą
+    ir nustatė, jog tai įvyks kitų metų rugsėjo 16.
+  citata_rodoma: "Senosios draugystės pastovumui laiduoti visiškai \nužtenka ankstesnio susitarimo, nepaisant to, kad jis \nnepatvirtintas jokia priesaika. Negalima abejoti tuo, ką \nsykį tarė valdovo lūpos\". Šitaip jis kalbėjo viešai, tuo \ntarpu slaptomis susitarė pagreitinti pakėlimą į sostą \nir nustatė, jog tai įvyks kitų metų rugsėjo 16."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186218
+    - t-196500

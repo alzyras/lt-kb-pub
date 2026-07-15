@@ -131,6 +131,7 @@ Nenurodyta
   teiginys: "Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas."
   pagrindžia:
     - c-88446
+    - c-167622
 
 <a id="claim-t-93043"></a>
 - t-011
@@ -139,72 +140,7 @@ Nenurodyta
   pagrindžia:
     - c-88459
 
-<a id="claim-t-184238"></a>
-- t-012
-  global_id: t-184238
-  teiginys: "Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas."
-  pagrindžia:
-    - c-167622
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jono
-    bažnyčia statyta toje pat vietoje, kur ir dabar yra. Taip pat
-    tuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­
-    mergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek
-    vėliau ir kitose rytinės Lietuvos vietose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-006
-
-- c-002
-  santrauka: 'Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    „Tėve mū­
-    sų“ ir „Tikiu Dievą“^2 ).
-    Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
-    moterys, kiekvienam būriui suteikiant vardą. Jogaila besi­
-    krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
-    dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
-    prie krikšto turėti baltą rūbą, nekaltybės simbolį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių. Kilmingieji bajorai
-    krikštytis kviesti į Vilnių su šeimomis ir kiekvienas atskirai pašlakstytas
-    vandeniu. Nekilmingiems žmonėms karalius, kaip krikštatėvis, dalijo
-    marškinius ir vilnonius drabužius, todėl atsirado norinčių krikštytis ne
-    kartą. Panašiai krikštytos ir keltų bei germanų gentys. Dėl norinčių tapti
-    krikščionimis gausumo teko juos krikštyti būriais įbridusius į upės van-
-    denį. Įvesdamas naująjį tikėjimą, Jogaila naikino pagonybės apraiškas:
-    šventąsias girias, žalčius, šventąją ugnį. Pastatyta katedra, iškilmingai pa-
-    švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos
-    turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje,
-    kur anksčiau degė pagonių amžinoji ugnis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -221,85 +157,6 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-005
-  santrauka: 'Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pakeliui iš Lietuvos kunigaikščių paėmęs paklusnumo
-    raštus sau, Lenkijos karalienei ir Karūnai, Jogaila 1387 m. pra­
-    džioje atvyko Vilniun. Kaip prieš metus Krokuvoje buvo įvykdy­
-    tas Lietuvos kunigaikščių krikštas, taip Gedimino sostinėje pir­
-    miausia turėjo būti krikštijami bajorai. Tas krikštas simbolizavo
-    visos Lietuvos prisijungimą prie Romos tikėjimo, kurio liepsnelė
-    jau vienur kitur ruseno nuo Mindaugo bandytos įvesti krikščiony­
-    bės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-006
-  santrauka: 'Per Lietuvos krikšto apeigas Jogailos įsakymu naikinti aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Paties Jogailos įsakymu Vilniaus pilies papėdėje esančioje
-    alkvietėje ir kitur aplink buvo sunaikinti aukų židiniai. Buvo
-    liepta iškirsti šventais laikomus medžius ir giraites, išmušti namuose
-    gerbiamus žalčius. Nesant užtenkamai kunigų, mokančių lietuviš­
-    kai, esą pats Jogaila išvertęs lietuvių kalbon «Tėve mūsų» ir
-    « Tikiu į Dievą Tėvą ».
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-007
-  santrauka: 'Per Lietuvos krikšto apeigas žmonės buvo krikštijami būriais, atskirai vyrai ir moterys, kiekvienam būriui suteikiant vardą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl ir Vy­
-    tautui D. su Jogaila teko mokyti žmones pagrindinių kataliky­
-    bės tiesų ne vien todėl, kad karališko žodžio žmonės labiau
-    klausė, bet nebuvo kam lietuviškai aiškinti naujo tikėjimo. Jo­
-    gaila šituo ar kuriuo kitu laiku išvertęs lietuvių k. „Tėve mū­
-    sų“ ir „Tikiu Dievą“^2 ).
-    Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
-    moterys, kiekvienam būriui suteikiant vardą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-008
-  santrauka: '1387 m. vasario 17 d. Jogailos privilegija Vilniaus vyskupui laikoma svarbiausiu krikščionybės įvedimo Lietuvoje aktu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, ku-
-    ria buvo įsteigiama ir aprūpinama vyskupo institucija. Ši privilegija yra
-    svarbiausias krikščionybės įvedimo Lietuvoje aktas. Vasario 22-ąją Jogai-
-    la išleido raštą, kuriuo visus lietuvius prisiekė patraukti į savo pusę ar net
-    jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
-    šalimi, panaikino pagrindinę politinės izoliacijos priežastį. Politinė nau-
-    da atėjo netrukus: 1403 m. popiežius uždraudė Vokiečių ordinui kariauti
-    su Lietuva. Krikštas tapo svarbiu Jogailos ir Vytauto diplomatinės kovos
-    ideologiniu pamatu karinio konflikto su Ordinu išvakarėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -314,63 +171,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
-- c-010
-  santrauka: 'Lietuvos krikšto metu žmonės klausė kunigų, aiškinusių katalikybės kilnumą ir jos būsimą vietą vietoj senojo lietuvių tikėjimo.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taip pat žmonės klausė kuni­
-    gų, aiškinančių katalikybės kilnumą, ir tai dėl to, kad anksčiau
-    ar vėliau ji turės pakeisti seną lietuvių tikėjimą; tą jautė ir pa­
-    tys lietuviai, veržiantis krikščionybei iš Rytų ir Vakarų.
-    Katalikybei sustiprinti kartu su žmonių krikštijimu buvo
-    statomos ir bažnyčios. Be esančių jau Vilniuje nuo seniau šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-011
-  santrauka: 'Per Lietuvos krikšto apeigas kiekvienas pakrikštytasis gaudavo baltą rūbą kaip atgautos nekaltybės ženklą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vyrai ir moterys buvo
-    suskirstomi į atskirus būrius. Kiekvienam jų buvo duodamas atski­
-    ras vardas, užtenkamai (« sufficienter ») žmones pašlaksčius vande­
-    niu^13. Atgautos nekaltybės ženklan kiekvienas pakrikštytasis gau­
-    davo baltą rūbą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-012
-  santrauka: 'Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
-    moterys, kiekvienam būriui suteikiant vardą. Jogaila besi­
-    krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
-    dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
-    prie krikšto turėti baltą rūbą, nekaltybės simbolį. Tačiau dėl
-    šių nežymių dovanų vargu kas iš lietuvių būtų išsižadėjęs savo
-    seno tikėjimo, arba krikštijęsis keliskart, kad daugiau jų gautų,
-
-    (^1) ) Valachijoje (dabartinėje Rumunijoje).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
     - t-007
 
 ## Citatos
@@ -392,8 +192,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93040
     - t-93037
+    - t-93040
 
 - id: c-88446
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -577,5 +377,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184238
     - t-93038

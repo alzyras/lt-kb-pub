@@ -61,25 +61,6 @@ Nenurodyta
   teiginys: "Vytauto laikų gotikinę gynybinę architektūrą liudijo mūrinės pilys Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke."
   pagrindžia:
     - c-65495
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Bene geriausiai išlikusi yra Vytauto bažny-
-    čia Kaune. Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
-    net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-
-    gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas
-    perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
-    Naugarduke ir Lucke.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -100,5 +81,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64923
     - t-64922
+    - t-64923

@@ -43,22 +43,6 @@ TuDO = Tumler, M.
   teiginys: "M. Tumleris 1955 m. Vienoje išleido veikalą „Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400“."
   pagrindžia:
     - c-33065
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Rekonstrukcija M. D. Priselkova, Maskva
-    1950.
-    TuDO = Tumler, M. : Der Deutsche Orden im Werden, Wachsen und
-    Wirken bis 1400. Wien 1955.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

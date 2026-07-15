@@ -45,20 +45,6 @@ Vartojamos formos: `rykius`.
   teiginys: "Decebalas citatoje vadinamas getų rykiu ir vaizduojamas kaip prieš romėnus kovojęs vadas."
   pagrindžia:
     - c-09732
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Decebalas citatoje vadinamas getų rykiu ir vaizduojamas kaip prieš romėnus kovojęs vadas.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Decebalus, getų rykys, niekaip nenorėjo jiems pasiduoti ir lig paskuojo prieš rymionis stengė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

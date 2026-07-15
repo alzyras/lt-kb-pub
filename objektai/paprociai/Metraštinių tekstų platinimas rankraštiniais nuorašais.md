@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-RIMANTAS JASAS ВУСНОѴСО KRONIKA IR JOS KILMĖ Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje Kunigaikštystėje kilusios metraštinės literatūros pa minklai: Trumpasis sąvadas, Platesnysis sąvadas ir Bychovco kronika Šie sąvadai, taip pat įtrauktieji į.
+Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai sąvadai savo laiku nebuvo išspausdinti ir plito rankraštiniais nuorašais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -46,39 +46,9 @@ Nenurodyta
 <a id="claim-t-194070"></a>
 - t-001
   global_id: t-194070
-  teiginys: "RIMANTAS JASAS ВУСНОѴСО KRONIKA IR JOS KILMĖ Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje Kunigaikštystėje kilusios metraštinės literatūros pa minklai: Trumpasis sąvadas, Platesnysis sąvadas ir Bychovco kronika Šie sąvadai, taip pat įtrauktieji į."
+  teiginys: 'Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai sąvadai savo laiku nebuvo išspausdinti ir plito rankraštiniais nuorašais.'
   pagrindžia:
     - c-176683
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'RIMANTAS JASAS ВУСНОѴСО KRONIKA IR JOS KILMĖ Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje Kunigaikštystėje kilusios metraštinės literatūros pa minklai: Trumpasis sąvadas, Platesnysis sąvadas ir Bychovco kronika Šie sąvadai, taip pat įtrauktieji į.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    RIMANTAS JASAS
-
-    ## Puslapis 6
-
-    ВУСНОѴСО KRONIKA IR JOS KILMĖ
-    Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje
-    Kunigaikštystėje kilusios metraštinės literatūros pa­
-    minklai: Trumpasis sąvadas, Platesnysis sąvadas ir
-    Bychovco kronika
-    Šie sąvadai, taip pat įtrauktieji į juos kūriniai yra
-    anoniminiai: mažai žinomi ar visai nežinomi jų auto­
-    riai, tikslus parašymo laikas ir vieta. Nė vienas iš jų
-    nebuvo savo laiku išspausdintas, o plito rankraštiniais
-    nuorašais, kurių plačiau žinoma bent 222 . Daugumas
-    tų nuorašų ir susijusių su jais atskirų fragmentų yra
-    paskelbti Rusijos Archeografinės Komisijos leidinyje,
-    pavadintame „Pilnuoju rusų metraščių rinkiniu" 3 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -109,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194070
+    - t-001

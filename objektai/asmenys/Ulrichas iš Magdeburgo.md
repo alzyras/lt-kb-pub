@@ -8,15 +8,15 @@ datos:
   - '1280 m.'
 date_start: '1263'
 date_end: '1280'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,8 +58,8 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   teiginys: "Apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio stipraus kūno sudėjimo, kad lenkė visus kitus vyrus."
   pagrindžia:
     - c-60846
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -85,16 +85,17 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
 - id: c-60846
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 129"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 129."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie brolį Ulrichą ir 50 prūsų žūtį
-
-      Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio
-    stipraus kūno sudėjimo, kad lenkė visus kitus vyrus. Jis vienu pirštu paimdavęs už diržo
-    per nugarą du ginklanešius  ir, nors jie  ir priešindavosi, lyg niekur nieko pakeldavęs
-    aukštyn. Jam buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus,
-    kurie jūra atplaukdavo į Prūsijos žemę, nes prūsai anksčiau labai dažnai juos skandindavo.
+    Apie Pomeranijos kunigaikščio Sventopelko mirtį ir jo sūnaus Mstivojaus
+    sukilimą prieš brolius
+    Tais pačiais metais Sventopelkas, Pomeranijos kunigaikštis, atgulė į patalą, o
+    nujausdamas artėjant mirtį, sušaukė savo sūnus ir, sakydamas paskutinę savo valią, kurią
+    patvirtino mirtimi, šitaip juos pamokė: „Kai tarp manęs ir brolių kildavo karas, visados
+    nukentėdavau; juos puldavau ir su pagrindu, ir be pagrindo, bet nieko nelaimėdavau,
+    nes dievas su jais ir už juos kovoja. Dėl to jums patariu niekad jiems nesipriešinti, bet
+    nuolankiai juos gerbti“. Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.
+  citata_rodoma: "Apie brolį Ulrichą ir 50 prūsų žūtį\n\n  Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio\nstipraus kūno sudėjimo, kad lenkė visus kitus vyrus. Jis vienu pirštu paimdavęs už diržo\nper nugarą du ginklanešius  ir, nors jie  ir priešindavosi, lyg niekur nieko pakeldavęs\naukštyn. Jam buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus,\nkurie jūra atplaukdavo į Prūsijos žemę, nes prūsai anksčiau labai dažnai juos skandindavo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

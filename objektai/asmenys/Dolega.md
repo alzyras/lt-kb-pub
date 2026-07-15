@@ -39,23 +39,6 @@ Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pe�
 - susijęs iš [[objektai/daiktai/Konfederatka.md#claim-t-39258|Konfederatka]]: Dolegos vedamo pulko kareiviai buvo apsitaisę, ginkluoti šobliomis ir muškietomis, o ant galvų dėvėjo konfederatkas.
 - susijęs iš [[objektai/daiktai/Šobliai.md#claim-t-39309|Šobliai]]: Dolegos vedamo pirmojo pulko kareiviai prie šonų turėjo šoblias, ant pečių - muškietus, ant galvų - konfederatkes.
 - susijęs iš Liudvikos Gedgaudienės-Didžiulienės užrašai: Liudvikos Gedgaudienės-Didžiulienės užrašuose minima į Salas atėjusi Lietuvos kariuomenė, sudaryta iš trijų didelių pulkų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Buvusi ten atėjusi Lietuvos kariuomenė, trys didžiausi pulkai. Vienas pulkas, Dolegos
-    vedamas, antras kunigo Mackevičiaus, trečias kunigo Pežos-Palionio. Pirmajame visi
-    | kareiviai gražiai apsitaisę, prie šonų šoblios, ant pečių muškietai, ant galvų konfederat-
-    kos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41524

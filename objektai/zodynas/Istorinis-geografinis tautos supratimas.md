@@ -68,29 +68,6 @@ Vartojama aptariant XIX a. Vilniaus istorijų reikšmę Lietuvos istoriografijai
   teiginys: "J. I. Kraševskio ir M. Balinskio Vilniaus istorijose reiškėsi istorinis-geografinis, o ne nacionalinis tautos supratimas."
   pagrindžia:
     - c-55810
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1968 m. išleistos Vilniaus miesto istorijos autoriai pažymėjo
-    J. I. Kraševskio ir M. Balinskio nuopelnus tiriant Vilniaus pra­
-    eitį: „Jų darbai sudaro senosios Vilniaus istoriografijos pagrin­
-    dą. Abu jie rašė lenkų kalba, būdami feodalinės Lietuvos vals­
-    tybės patriotai ir tęsdami renesanso epochoje susiklosčiusią
-    tradiciją"8. Ir toliau: „M. Balinskio ir J. I. Kraševskio Vilniaus
-    istorijos pasitarnavo Lietuvos istoriografijai ne tik gausia fakti­
-    ne medžiaga, bet ir palankumu lietuvių tautai, nepaisant jų is-
-    torinio-geografinio, o ne nacionalinio, tautos supratimo".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 

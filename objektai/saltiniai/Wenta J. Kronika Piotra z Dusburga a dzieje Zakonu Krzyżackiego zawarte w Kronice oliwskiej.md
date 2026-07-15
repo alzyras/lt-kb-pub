@@ -7,12 +7,12 @@ datos:
   - '1980 m.'
 date_start: '1980'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad wenta J.
   teiginys: "J. Wentos straipsnis apie Petro Dusburgiečio kroniką ir Kryžiuočių ordino istoriją Oliwos kronikoje paskelbtas 1980 m. leidinyje „Studia źródłoznawcze“."
   pagrindžia:
     - c-61997
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Wentos straipsnis apie Petro Dusburgiečio kroniką ir Kryžiuočių ordino istoriją Oliwos kronikoje paskelbtas 1980 m. leidinyje „Studia źródłoznawcze“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,13 @@ Dusburgietis teigia, kad wenta J.
 - id: c-61997
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice
-    oliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132.
+    — Киев, 1976.
+    Непокупный А. П. К исследованию ареала ятвяжских реликтов. — Проблемы
+    этнической истории балтов/Тезисы докладов — Рига, 1977, с. 143—146.
+    Непокупный А. П. К поискам языковых следов ятвягов к востоку от Немана.
+  citata_rodoma: "Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice\noliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

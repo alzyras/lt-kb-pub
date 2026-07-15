@@ -56,39 +56,16 @@ Nenurodyta
   teiginys: "1303 m. penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę arba nukovė daugybę krikščionių."
   pagrindžia:
     - c-62980
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1303 m. penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę arba nukovė daugybę krikščionių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais
-
-       Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į
-    priekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas
-    ten dedasi; kai jis sugrįžęs pasakė, kad niekas ten nieko nežino apie jų žygį, jie apiplėšė
-    daug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių. Traukdami atgal, jie
-    pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė
-    iš jų 50 krikščionių. Kitas netikėlių būrys paspruko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-62980
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 197"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais
-
-       Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į
+    Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į
     priekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas
     ten dedasi; kai jis sugrįžęs pasakė, kad niekas ten nieko nežino apie jų žygį, jie apiplėšė
     daug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių. Traukdami atgal, jie

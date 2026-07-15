@@ -64,51 +64,6 @@ Nenurodyta
   teiginys: "1398 m. spalio 12 d. Gardino sutartis buvo iškilmingai ratifikuota Salyno saloje Nemune."
   pagrindžia:
     - c-37002
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1398 m. Gardine Vytautas sudarė preliminarinę sutartį su Ordinu, siekdamas laisvų rankų Rytuose ir santykiuose su lenkais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tų visų faktų akivaiz­
-    doje, Vytautas visų pirma pasistengė susitaikinti su Ordinu, kad
-    turėtų laisvas rankas Rytuose ir su lenkais. 1398 m. Gardine
-    padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas:
-
-    1. Atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo jam pa­
-    dėti pastatyti dvi ar tris pilis. 2. Abi pusės prižadėjo paleisti
-    belaisvius, jų skaičiuj ir Vytauto brolį Zigmantą. 3. Vytautas
-    padės užkariauti Ordinui Pskovą, o šis Vytautui — Naugardą
-    D. 4. Nepraleis jokios kariuomenės per savo žemes, einančios
-    prieš kryžiuočius. 5. Jei Ordinas pageidautų, Vytautas turi,
-    jei tokia jo būtų valia, pasistengti, kad ta sutartis būtų patvir­
-    tinta Jogailos^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1398 m. spalio 12 d. Gardino sutartis buvo iškilmingai ratifikuota Salyno saloje Nemune.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Iškilmingas tos sutarties ratifikavimas (patvir­
-    tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
-    mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
-    mijos ir Sambijos vyskupai ir daug komtūrų. Iš lietuvių pusės
-    dalyvavo Vytautas su žmona Ona, daugybė kunigaikščių, bajo­
-    rų ir palydovų. Sutartį ratifikavus, Ordinas pakvietė Vytautą
-    ir jo visus didikus į puotą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

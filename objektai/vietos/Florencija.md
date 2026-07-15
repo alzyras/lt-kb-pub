@@ -12,13 +12,13 @@ datos:
   - '1453 m.'
 date_start: '1432'
 date_end: '1453'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -67,6 +67,13 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   teiginys: "Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams."
   pagrindžia:
     - c-175430
+
+<a id="claim-t-197877"></a>
+- t-005
+  global_id: t-197877
+  teiginys: "Vėliau ši nesuskaičiuojama kariuo menė pasidalijo į dvi dalis: viena, kurioje buvo 200 000 karių, atėjo prie Florencijos mūrų, bet beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams."
+  pagrindžia:
+    - c-175430
 - susijęs iš [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas).md#claim-t-186221|Juozapas (Konstantinopolio patriarchas)]]: Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės.
 - susijęs iš [[objektai/ivykiai/Florencijos bažnytinė unija.md#claim-t-26394|Florencijos bažnytinė unija (unija)]]: 1439 m. Florencijos bažnytinė unija neįstengė sujungti Rytų ir Vakarų bažnyčių.
 - susijęs iš Nifono laiškas rusams dėl Florencijos tikėjimo santarvės: Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai.
@@ -83,8 +90,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 - susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45611|Grigorijus Camblakas]]: 1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu.
 - susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45612|Grigorijus Camblakas]]: Grigorijus Camblakas buvo vienas žymiausių to meto stačiatikybės teologų.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116731|Katalikų Bažnyčia]]: Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją.
-- susijęs iš [[objektai/grupes/Seversko kunigaikščiai.md#claim-t-185437|Seversko kunigaikščiai]]: Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos.
-- susijęs iš Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija: Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys rusai prisidėtų prie Rytų ir Vakarų bažnyčių santarvės.
+- susijęs iš [[objektai/grupes/Seversko kunigaikščiai.md#claim-t-185437|Seversko kunigaikščiai]]: Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos apibūdino kaip valstybės išdavimą ir valdų prijungimą prie Maskvos.
+- susijęs iš Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija: Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėjimo ir raginęs Eleną pereiti į Romos tikėjimą.
 - susijęs iš Popiežiaus Eugenijaus IV 1434 m. spalio 20 d. laiškas Žygimantui Kęstutaičiui: Popiežius Eugenijus IV 1434 m. spalio 20 d. laiške Žygimantui Kęstutaičiui užtarė Švitrigailos žmoną Sofiją.
 - susijęs iš Švitrigailos 1432 m. lapkričio 30 d. laiškas Livonijos magistrui: 1432 m. lapkričio 30 d. laiške Livonijos magistrui Švitrigaila užsiminė, kad žmona Sofija jam pagimdė sūnų.
 - susijęs iš Polockas: Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas.
@@ -93,63 +100,6 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 - susijęs iš Vilnius: Seversko didikai Vilniuje vykusius santykius su Lietuvos didikais suprato kaip savęs niekinimą.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185335|žygūnas]]: Aleksandras pavedė Trakų vaivadai Zaberezinskiui atsakyti Ivano žygūnui dėl mėginimo numalšinti Ivano įsiūtį per pasiuntinius.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tai, ką mūsų kronikininkai kal­
-    ba apie Švitrigailos žmonos sugavi­
-    mą Ašmenoje, esą jis neįstengęs iš­
-    sivežti kartu - tai nėra tikslu, nes tais
-    pat 1432 metais lapkričio 30 dieną
-    Švitrigaila, rašydamas Livonijos ma­
-    gistrui, užsimena, kad žmona jam
-    pagimdžiusi sūnų. Tačiau ši jo žmo­
-    na Sofija, Tverės kunigaikščio Bori­
-    so duktė, vėliau pateko Žygimanto
-    galion; nes popiežius Eugenijus IV
-    užtarė ją laiške Žygimantui Kęstu-
-    taičiui, rašytame iš Florencijos 1434
-    metų spalio 20 dieną.
-    216
-
-    ## Puslapis 233
-
-    I I I  KNYGA
-    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
-    miestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
-    vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
-    sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
-    nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
-    kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
-    ir barbariškumo, nuo to laiko pradėjo smukti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Imperatorius, norėdamas gauti Vakarų para-
-    mos prieš turkus, taip pat pasiūlė Bazelio suvažiavimui sujungti
-    Bažnyčias. Tačiau galutinai dėl unijos buvo susitarta kiek vė-
-    liau Florencijoje. Tas susitarimas buvo paskelbtas Konstantino-
-    poly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės
-    metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o
-    su ja žlugo ir unija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-003
   santrauka: 'Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -212,8 +162,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83347
     - t-83346
+    - t-83347
 
 - id: c-79695
   redaktorius: "A. Šapoka"
@@ -237,8 +187,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 - id: c-175430
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 309"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 309."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vėliau, kai im­
     perijos rytuose po Alariko maišto prasidėjo kruvini su­
@@ -250,10 +199,16 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     karių, atėjo prie Florencijos mūrų, bet beveik visiškai
     pralaimėjo Stilichono vadovaujamiems romėnams. Antra
     dalis liko vietoje, laukdama progos, kuri atvertų kelią į
-    Italiją.
+    Italiją. Tačiau, pirmai kariuomenės daliai pralaimėjus, ji
+    nėjo pirmyn, o pasuko Galijos link ir 406 metų pabaigoje
+    nekliudoma persikėlė per Reiną. Atrodo, kad herulų būta
+    lik pirmame dalinyje, nes Galijoje apie juos nieko nekal­
+    bama.
+  citata_rodoma: "Vėliau ši nesuskaičiuojama kariuo­\nmenė pasidalijo į dvi dalis: viena, kurioje buvo 200 000 \nkarių, atėjo prie Florencijos mūrų, bet beveik visiškai \npralaimėjo Stilichono vadovaujamiems romėnams. Antra \ndalis liko vietoje, laukdama progos, kuri atvertų kelią į \nItaliją. Tačiau, pirmai kariuomenės daliai pralaimėjus, ji \nnėjo pirmyn, o pasuko Galijos link ir 406 metų pabaigoje \nnekliudoma persikėlė per Reiną."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192660
+    - t-197877

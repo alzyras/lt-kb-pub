@@ -41,23 +41,6 @@ Bet jam nesisekė, ir jo įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
   teiginys: "Kristijono įkurtoji Dobryniaus riterių brolija neturėjo jėgos."
   pagrindžia:
     - c-93932
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kristijono įkurtoji Dobryniaus riterių brolija neturėjo jėgos.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ten nuo 1216 metų, gavęs «Prūsų
-    vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
-    tijonas^73. Jis paskutinis taikiu būdu bandė krikštyti prūsus. Bet
-    jam nesisekė, ir jo įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -7,13 +7,13 @@ datos:
   - '1380 m.'
 date_start: '1380'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - grupe
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,15 +42,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   pagrindžia:
     - c-172268
 
-<a id="claim-t-189382"></a>
-- t-002
-  global_id: t-189382
-  teiginys: "Narbutas graikų nepastovumą vertino kaip ydą, lėmusią pasaulietinių ir religinių piktnaudžiavimų."
-  pagrindžia:
-    - c-172269
-
 <a id="claim-t-189383"></a>
-- t-003
+- t-002
   global_id: t-189383
   teiginys: "Narbutas rašė, kad graikai iš egiptiečių perėmė dalį dangaus kūnų ir Titanų giminės garbinimo ir išplėtojo savo daugiadievystę."
   pagrindžia:
@@ -64,25 +57,18 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172272
 
 <a id="claim-t-189386"></a>
-- t-005
+- t-003
   global_id: t-189386
   teiginys: "Narbutas, remdamasis graikų dievų padavimais, rašė, kad Melampas apie 1380 m. pr. Kr. Graikijoje įvedė Bakcho garbinimą."
   pagrindžia:
     - c-172273
 
 <a id="claim-t-189387"></a>
-- t-006
+- t-005
   global_id: t-189387
   teiginys: "Narbutas rašė, kad graikai Šiaurės tautų Apolono garbinimą laikė pagarsėjusiu ir todėl Apoloną vadino Šiauriniu."
   pagrindžia:
     - c-172274
-
-<a id="claim-t-189388"></a>
-- t-007
-  global_id: t-189388
-  teiginys: "Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su į pragarą pagrobtos deivės dukterimi."
-  pagrindžia:
-    - c-172275
 
 <a id="claim-t-189389"></a>
 - t-008
@@ -92,35 +78,28 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172276
 
 <a id="claim-t-189390"></a>
-- t-009
+- t-007
   global_id: t-189390
   teiginys: "Narbutas rašė, kad senovės graikai iki Periklio laikų Venerą laikė dviem atskiromis žvaigždėmis."
   pagrindžia:
     - c-172277
 
-<a id="claim-t-189391"></a>
-- t-010
-  global_id: t-189391
-  teiginys: "Narbutas rašė, kad egiptiečių religinės paslaptys pranoko kitas antikines tautas, o graikai ir romėnai šiuo požiūriu juos mėgdžiojo."
-  pagrindžia:
-    - c-172278
-
 <a id="claim-t-189392"></a>
-- t-011
+- t-006
   global_id: t-189392
   teiginys: "Narbutas teigė, kad senovėje žalčius garbino indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir kitos tautos."
   pagrindžia:
     - c-172279
 
 <a id="claim-t-189393"></a>
-- t-012
+- t-009
   global_id: t-189393
   teiginys: "Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, Minervą Alkida ir turėjo dievybes Alkides."
   pagrindžia:
     - c-172280
 
 <a id="claim-t-189394"></a>
-- t-013
+- t-010
   global_id: t-189394
   teiginys: "Narbutas rašė, kad chaldėjai, persai, egiptiečiai, graikai, romėnai ir kitos tautos garbino ugnį kaip dievybę."
   pagrindžia:
@@ -141,14 +120,20 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172283
 
 <a id="claim-t-194587"></a>
-- t-016
+- t-013
   global_id: t-194587
   teiginys: "Mat jie ne tik kad buvo su helenais tos pačios kilmės - kaip tatai paaiškės pažinus jų senovės istoriją, - bet ir turėjo vieną ir tais pačiais principais besiremiančią religiją, pamėgdžiojančią beveik visas menkiausias smulkmenas."
   pagrindžia:
     - c-176986
+
+<a id="claim-t-197219"></a>
+- t-011
+  global_id: t-197219
+  teiginys: "Kadangi ir šioje yra nemažai pasi savinta iš graikų, todėl mūsų ir skandinavų mitologijos panašybė pasirodo esanti dar ryškesnė."
+  pagrindžia:
+    - c-176986
 - susijęs iš [[objektai/zodynas/Ratainyčia.md#claim-t-189324|Ratainyčia]]: Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie jojamuosius arklius globojančių deivių.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima rasti tai, ką sukūrė Indija, Iranas, Graikija ir Roma.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -171,53 +156,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas graikų nepastovumą vertino kaip ydą, lėmusią pasaulietinių ir religinių piktnaudžiavimų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Mat vos Europos tautos pasiekė tam tikrą civili­
-    zacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­
-    zuotų Azijos ir Afrikos gyventojų -  jis milžiniškais žingsniais
-    80
-
-    ## Puslapis 80
-
-    pakilo siekti šviesos. Atviras, gyvas, aistringas, trokštantis lais­
-    vės protas; paprastumas, vaišingumas, noras išgarsėti savo iš­
-    radimais, pomėgis perimti svetimus dalykus ir iš to nenumal­
-    šinamas siekimas tobulėti -  tokie buvo amžini Europos tautų
-    bruožai, ypač pelazgų-helenų genčių, kurių priekin išėjo grai­
-    kai. Tačiau pernelyg didelis graikų nepastovumas -  didelė yda
-    šalia tų gražių privalumų -  lėmė daug pasaulietinių ir religi­
-    nių piktnaudžiavimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas rašė, kad graikai iš egiptiečių perėmė dalį dangaus kūnų ir Titanų giminės garbinimo ir išplėtojo savo daugiadievystę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Graikai, kitokio dangaus ir sąmonės tauta, perėmę iš egip­
-    tiečių dalį dangaus kūnų ir Titanų giminės garbinimą, išvystė
-    malonesnio pavidalo savo daugiadievystę.
-    Reto sumanumo tos tautos protas sugebėjo gražiau suri­
-    kiuoti dievų hierarchiją, į kurią vis labiau kišosi žyniai -  ne be
-    naudos savo profesijai. Gražmenų tam nemirtingajam dievų
-    būriui pridėjo poetai, be kurių jis greitai būtų netekęs reikš­
-    mės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Narbutas rašė, kad graikai ir romėnai turėjo lemties dievybes Sors ir Fatum, siejamas su pasaulio, dievų ir visko valdymu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -237,67 +175,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   pagrindžia:
     - t-004
 
-- c-005
-  santrauka: 'Narbutas, remdamasis graikų dievų padavimais, rašė, kad Melampas apie 1380 m. pr. Kr. Graikijoje įvedė Bakcho garbinimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Priklausomai nuo gėrimo pagaminimo būdo
-    dievas įgydavo Bubilo arba Ragučio vardą, kaip tai pastebima
-    ¡r kitose mitologijose.
-    Iš padavimų apie graikų dievus žinome, kad garsus prana­
-    šautojas Melampas, kuris gyveno Proito laikais, dar iki Trojos
-    karo, apie 1380 metus prieš Kristaus gimimą, pirmasis Graiki­
-    joje įvedė Bakcho garbinimą. Todėl tais laikais, kai lietuvių
-    tauta brandino savo stabmeldystę, to dievo garbinimas kitur
-    buvo labai senas ir visuotinai paplitęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Narbutas rašė, kad graikai Šiaurės tautų Apolono garbinimą laikė pagarsėjusiu ir todėl Apoloną vadino Šiauriniu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Visose tautose ugnies ir saulės, arba Apolo­
-    no, garbinimas sutampa. Ugniai ir saulei buvo nusilenkiama
-    visur, kur tik stabmeldiškoji religija turėjo išorinę išraišką ir
-    žynius. Graikai sakydavo, kad Šiaurės tautų Apolono garbini­
-    mas buvo labai pagarsėjęs, todėl Apoloną vadino Šiauriniu 12 13
-    12 In Verrem Act. -  IV
-    13 Aukščiau minėtas veikalas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su į pragarą pagrobtos deivės dukterimi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    107
-
-    ## Puslapis 107
-
-    Taip pat straipsnyje „Krūminė“ papasakosime padavimą
-    apie Pokliaus ir tos deivės Krūminės dukters Nijolės vedybas.
-    Čia tik pažymėsime, kad visose tautose, kuriose žinomas Plu­
-    tonas, jis apvesdinamas su pagrobtos į pragarą deivės dukteri­
-    mi. Egiptiečiai, finikiečiai, graikai, romėnai pasakojo tą patį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 - c-008
   santrauka: 'Narbutas rašė, kad graikai, egiptiečiai, romėnai, indai, japonai, slavai, lietuviai ir kitos tautos turėjo dievų Kabirų ritualą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -316,107 +193,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-
-- c-009
-  santrauka: 'Narbutas rašė, kad senovės graikai iki Periklio laikų Venerą laikė dviem atskiromis žvaigždėmis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šį vardą visi
-    siejo su planeta Venera, šviečiančia vakarų pusėje saulei nusi­
-    leidus, ir su žvaigžde Aurora, švytinčia saulės tekėjimo pusėje
-    prieš patekėjimą. Mūsų kaimiečiai visiškai taip pat kalba apie
-    savo Vakarinę ir Aušrą, kurios lietuvių mitologijoje -  dvi at­
-    skiros žvaigždės. Senovės graikai, kaip žinome iš jų astrono­
-    mijos istorijos, iki Periklio laikų manė tą patį, tik, geriau paži­
-    ne dangaus kūnų judėjimą, sukimąsi, suprato, kaip juda pla­
-    neta Venera.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-010
-  santrauka: 'Narbutas rašė, kad egiptiečių religinės paslaptys pranoko kitas antikines tautas, o graikai ir romėnai šiuo požiūriu juos mėgdžiojo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Antikoje beveik kiekviena tauta turėjo
-    savo slaptas religines šventes, maldas, aukas; kuo labiau iš­
-    prususi kuri nors tauta buvo, tuo painesnis, tamsesnis, deta­
-    lesnis darydavosi tas stabmeldiškasis religinis kultas. Egiptie­
-    čiai savo paslaptimis pranoksta visas antikines tautas; atrodo,
-    šiuo požiūriu graikai ir romėnai tik pamėgdžioja tą nuostabią
-    tautą. Vis dėlto Eleusino, Cereros, Bakcho, Gerosios deivės,
-    Hekatės, dievų Kabirų paslaptys turėjo išganingą ir išmintin­
-    196
-
-    ## Puslapis 196
-
-    gą tikslą: taisyti papročius, rodyti kelią j tikrąją dorovę, į skaistų
-    dievybės garbinimą, į neišvengiamą bausmę arba atlyginimą
-    busimajame gyvenime.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-011
-  santrauka: 'Narbutas teigė, kad senovėje žalčius garbino indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir kitos tautos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šiuos prietarus žinojo ir Lietuvos rusinai.
-    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
-    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
-    gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
-    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-012
-  santrauka: 'Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, Minervą Alkida ir turėjo dievybes Alkides.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Senovės germanai nehervalai turėjo du dievaičius Alcius,
-    amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
-    laikų graikai ir romėnai Heraklį vadino Alkidu, Minervą -  Al­
-    kidą. Jie taip pat turėjo atskiras dievybes, vadintas Alkidėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-013
-  santrauka: 'Narbutas rašė, kad chaldėjai, persai, egiptiečiai, graikai, romėnai ir kitos tautos garbino ugnį kaip dievybę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
-    pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
-    dingos mūsų tėvynės istorijai.
-    Šventoji ugnis
-    Chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti kaip
-    dievybę garbino ugnį. Gvebrai, ligi šiol išpažįstantys Zoroast-
-    ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą,
-    bet nemoka tos esybės pavadinti vardu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
 
 - c-014
   santrauka: 'Narbutas rašė, kad graikai nuo didvyrių laikų šventu laikė tam tikros ąžuolo rūšies medį, paskirtą Jupiteriui.'
@@ -456,45 +232,32 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   pagrindžia:
     - t-015
 
-- c-016
-  santrauka: 'Mat jie ne tik kad buvo su helenais tos pačios kilmės - kaip tatai paaiškės pažinus jų senovės istoriją, - bet ir turėjo vieną ir tais pačiais principais besiremiančią religiją, pamėgdžiojančią beveik visas menkiausias smulkmenas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Štai kokia yra tikra
-    ir per amžių amžius patikrinta tiesa, kad tikybinis sugedimas
-    kyla iš pačių religijos sargų arba kunigų.
-    Lietuviai turėjo eiti į daugiadievystę tuo pačiu keliu, nes
-    dėl vienodų padarinių galima spėti buvus vienodą priežastį.
-    Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
-    tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
-    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
-    čią beveik visas menkiausias smulkmenas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-
 ## Citatos
 
 - id: c-172268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 40"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 40."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    A. Briukneris sarkastiškai ironizuoja, kad mitologai („nuo Nar­
-    buto iki Karo“) sukūrę „stebėtinai gausų ir įvairų“ lietuvių
-    Olimpą. „Ko tik tenai nėra! Etinės ir gamtinės dievybės, trejy-
-    bė, gerieji ir piktieji gaivalai, fatumas, pomirtinis teismas, spal­
-    vingi mitai, išvystyti kultai ir hierarchija, turtingos šventyklos
-    ir dievaičių štabai, -  visa, ką tik sukūrė Indija, Iranas, Graikija
-    ir Roma, galima rasti ištisai ar dalimis lietuvių ir prūsų mito­
-    logijoje.“ O iš tiesų „gryniausia romantiko išmonė, svetima
-    senovės lietuviams, priešinga jų dvasiai, jiems varu primesta“,
-    T5 MierzyhskiA.
+    „Nesusipratimais ir riktais“ laiko­
+    mi T. Narbuto teiginiai, kad žemaičiai „vandens mergeles“ va­
+    dino gudelkomis, vaivorykštę - Linksminę, žinios „apie kaž­
+    kokį lietuvių Bakchą, jo garbintojus ir jo šventyklą, buvusią
+    Vilniuje“, Piatnicos cerkvės vietoje34, ir 1.1., ir 1.1. O 1910 m.
+    lenkų enciklopedijoje paskelbtame straipsnyje apie lietuvių mi­
+    tologiją T. Narbutas tiesiog vadinamas „įžymiuoju falsifikato-
+    riumi“35.
+    A. Miežynskio, A. Briuknerio ir kitų pozityvistų kritika bu­
+    vo nukreipta ne tiek prieš patį T. Narbutą, kiek prieš jo sufor­
+    muluotą ir įtvirtintą klasikinį lietuvių religijos ir mitologijos
+    supratimą, būtent kad lietuviai, kaip ir senovės romėnai, grai­
+    kai, turėję savo Olimpą, šventyklas, žynius, kurie atlikinėjo įvai­
+    rias kulto apeigas ir pan. Jų gi manymu, lietuvių mitologija
+    buvusi primityvi, gamtinė, lietuviai dar nebuvo sukūrę arba
+    jau užmiršę savo aukščiausius dievus, išskyrus nebent Perkū­
+    ną, neturėję šventyklų, žynių, sudėtingesnės religinės organi­
+    zacijos.
+  citata_rodoma: "A. Briukneris sarkastiškai ironizuoja, kad mitologai („nuo Nar­\nbuto iki Karo“) sukūrę „stebėtinai gausų ir įvairų“ lietuvių\nOlimpą. „Ko tik tenai nėra! Etinės ir gamtinės dievybės, trejy-\nbė, gerieji ir piktieji gaivalai, fatumas, pomirtinis teismas, spal­\nvingi mitai, išvystyti kultai ir hierarchija, turtingos šventyklos\nir dievaičių štabai, -  visa, ką tik sukūrė Indija, Iranas, Graikija\nir Roma, galima rasti ištisai ar dalimis lietuvių ir prūsų mito­\nlogijoje.“ O iš tiesų „gryniausia romantiko išmonė, svetima\nsenovės lietuviams, priešinga jų dvasiai, jiems varu primesta“,\nT5 MierzyhskiA."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -502,44 +265,16 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   pagrindzia:
     - t-189381
 
-- id: c-172269
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Mat vos Europos tautos pasiekė tam tikrą civili­
-    zacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­
-    zuotų Azijos ir Afrikos gyventojų -  jis milžiniškais žingsniais
-    80
-
-    ## Puslapis 80
-
-    pakilo siekti šviesos. Atviras, gyvas, aistringas, trokštantis lais­
-    vės protas; paprastumas, vaišingumas, noras išgarsėti savo iš­
-    radimais, pomėgis perimti svetimus dalykus ir iš to nenumal­
-    šinamas siekimas tobulėti -  tokie buvo amžini Europos tautų
-    bruožai, ypač pelazgų-helenų genčių, kurių priekin išėjo grai­
-    kai. Tačiau pernelyg didelis graikų nepastovumas -  didelė yda
-    šalia tų gražių privalumų -  lėmė daug pasaulietinių ir religi­
-    nių piktnaudžiavimų.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189382
-
 - id: c-172270
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 83"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Graikai, kitokio dangaus ir sąmonės tauta, perėmę iš egip­
     tiečių dalį dangaus kūnų ir Titanų giminės garbinimą, išvystė
     malonesnio pavidalo savo daugiadievystę.
     Reto sumanumo tos tautos protas sugebėjo gražiau suri­
-    kiuoti dievų hierarchiją, į kurią vis labiau kišosi žyniai -  ne be
+    kiuoti dievų hierarchiją, į kurią vis labiau kišosi žyniai - ne be
     naudos savo profesijai. Gražmenų tam nemirtingajam dievų
     būriui pridėjo poetai, be kurių jis greitai būtų netekęs reikš­
     mės.
@@ -553,16 +288,18 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 90"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 90."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iš jų dažnai galima išgirsti: tas jau
-    biją winnam Likis („taip jam jau buvo lemta“)1 2.
-    Graikai bei romėnai, kuriuos šiame veikale minėsime va­
-    dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas
-    dievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti
-    pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
-    viskam.
+    Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
+    šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
+    mės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo
+    suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
+    aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
+    tingais mitais.
+    Viršaitis (Wirszajtos)
+    Šio dievo stabas buvo senojoje Romovės šventykloje, jis
+    buvo labai gerbiamas.
+  citata_rodoma: "Iš jų dažnai galima išgirsti: tas jau\nbiją winnam Likis („taip jam jau buvo lemta“)1 2.\nGraikai bei romėnai, kuriuos šiame veikale minėsime va­\ndindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas\ndievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti\npasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia\nviskam."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -573,8 +310,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Priklausomai nuo gėrimo pagaminimo būdo
     dievas įgydavo Bubilo arba Ragučio vardą, kaip tai pastebima
@@ -595,15 +331,14 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 99"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 99."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Visose tautose ugnies ir saulės, arba Apolo­
     no, garbinimas sutampa. Ugniai ir saulei buvo nusilenkiama
     visur, kur tik stabmeldiškoji religija turėjo išorinę išraišką ir
     žynius. Graikai sakydavo, kad Šiaurės tautų Apolono garbini­
     mas buvo labai pagarsėjęs, todėl Apoloną vadino Šiauriniu 12 13
-    12 In Verrem Act. -  IV
+    12 In Verrem Act. - IV
     13 Aukščiau minėtas veikalas.
   statusas: verified
   teiginio_tipas: faktas
@@ -612,40 +347,27 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   pagrindzia:
     - t-189387
 
-- id: c-172275
+- id: c-172276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    107
-
-    ## Puslapis 107
-
-    Taip pat straipsnyje „Krūminė“ papasakosime padavimą
-    apie Pokliaus ir tos deivės Krūminės dukters Nijolės vedybas.
-    Čia tik pažymėsime, kad visose tautose, kuriose žinomas Plu­
-    tonas, jis apvesdinamas su pagrobtos į pragarą deivės dukteri­
-    mi. Egiptiečiai, finikiečiai, graikai, romėnai pasakojo tą patį.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189388
-
-- id: c-172276
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 111"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
-  citata_originali: |
-    Kabirai (Kabiiy)
-    Tai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­
-    džių trejybė.
-    Seniausiems ir drauge labiausiai paplitusiems mitams pri­
-    klauso mitas apie Kabirus. Egiptiečiai ir graikai, romėnai, in­
-    dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­
-    giau ar mažiau paslaptingą dievų Kabirų ritualą.
+    laimei, jūreiviai - per audras, bičiuliai - per bičiulių laidotuves.
+    Dabar sunku tinkamai atskleisti to mito prasmę: pirma,
+    apeigos buvo slaptos, antra, painiava net senovės mitologų vei­
+    kaluose, nes vieni Kabirus prilygina Dioskūrams, tai yra Kas­
+    torui ir Polideukui, kiti laiko juos kažkokių dievų vaikais, tre­
+    ti - kerėtojais arba kažkokiais šventikais, panašiais į daktilus,
+    koribantus, kuretus. Tačiau lygindami tuos padavimus vieną
+    su kitu ir aiškindamiesi tų dievybių prigimtį, Mnelea, o vėliau
+    Rolandas, labiausiai priartėdami prie tiesos, sutaria, kad Ka­
+    tarai - trys pragaro, arba mirusiųjų, dievai, kadangi Prozerpi­
+    na simbolizuoja žemę, priimančią į savo įsčias visa, kas mirė,
+    ir atiduodančią, arba gimdančią, iš tų pačių įsčių, dėl to ji yra
+    pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito
+    gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Pluto­
+    nas - požemį, arba egzistavimą po mirties.
+  citata_rodoma: "Kabirai (Kabiiy)\nTai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­\ndžių trejybė.\nSeniausiems ir drauge labiausiai paplitusiems mitams pri­\nklauso mitas apie Kabirus. Egiptiečiai ir graikai, romėnai, in­\ndai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­\ngiau ar mažiau paslaptingą dievų Kabirų ritualą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -656,14 +378,13 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 190"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 190."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šį vardą visi
     siejo su planeta Venera, šviečiančia vakarų pusėje saulei nusi­
     leidus, ir su žvaigžde Aurora, švytinčia saulės tekėjimo pusėje
     prieš patekėjimą. Mūsų kaimiečiai visiškai taip pat kalba apie
-    savo Vakarinę ir Aušrą, kurios lietuvių mitologijoje -  dvi at­
+    savo Vakarinę ir Aušrą, kurios lietuvių mitologijoje - dvi at­
     skiros žvaigždės. Senovės graikai, kaip žinome iš jų astrono­
     mijos istorijos, iki Periklio laikų manė tą patį, tik, geriau paži­
     ne dangaus kūnų judėjimą, sukimąsi, suprato, kaip juda pla­
@@ -675,38 +396,10 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   pagrindzia:
     - t-189390
 
-- id: c-172278
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Antikoje beveik kiekviena tauta turėjo
-    savo slaptas religines šventes, maldas, aukas; kuo labiau iš­
-    prususi kuri nors tauta buvo, tuo painesnis, tamsesnis, deta­
-    lesnis darydavosi tas stabmeldiškasis religinis kultas. Egiptie­
-    čiai savo paslaptimis pranoksta visas antikines tautas; atrodo,
-    šiuo požiūriu graikai ir romėnai tik pamėgdžioja tą nuostabią
-    tautą. Vis dėlto Eleusino, Cereros, Bakcho, Gerosios deivės,
-    Hekatės, dievų Kabirų paslaptys turėjo išganingą ir išmintin­
-    196
-
-    ## Puslapis 196
-
-    gą tikslą: taisyti papročius, rodyti kelią j tikrąją dorovę, į skaistų
-    dievybės garbinimą, į neišvengiamą bausmę arba atlyginimą
-    busimajame gyvenime.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189391
-
 - id: c-172279
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -723,12 +416,11 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172280
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 216"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 216."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Senovės germanai nehervalai turėjo du dievaičius Alcius,
     amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
-    laikų graikai ir romėnai Heraklį vadino Alkidu, Minervą -  Al­
+    laikų graikai ir romėnai Heraklį vadino Alkidu, Minervą - Al­
     kidą. Jie taip pat turėjo atskiras dievybes, vadintas Alkidėmis.
   statusas: verified
   teiginio_tipas: faktas
@@ -740,8 +432,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172281
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 223"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
@@ -763,14 +454,15 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    234**.
-    239
-
-    ## Puslapis 239
-
-    Graikai dar nuo didvyrių laikų laikė šventu tam tikros ąžuo­
-    lo rūšies medį, kurio gilėmis maitinosi tautos. Jis buvo paskir­
-    tas Jupiteriui.
+    Dešiniajame Nemuno krante, žemiau
+    Jurbarko, Kalnėnų (Kaliniany) kaime, 1805 metų vieną sek­
+    madienį pastebėjau blindę, papuoštą gėlių vainikais; prie jos
+    buvo keliolika ištekėjusių moterų: vienos meldėsi, kitos, sėdė­
+    damos ant dirvono, šnekėjosi. Paklausiau, ką reiškianti ši apei­
+    ga. Jos atsakė, kad senoviniu papročiu vasarą, šventomis die­
+    nomis, ištekėjusios moterys pratusios susirinkti prie šios blin­
+    dés pasimelsti.
+  citata_rodoma: "234**.\n239\n\n## Puslapis 239\n\nGraikai dar nuo didvyrių laikų laikė šventu tam tikros ąžuo­\nlo rūšies medį, kurio gilėmis maitinosi tautos. Jis buvo paskir­\ntas Jupiteriui."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -781,15 +473,18 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 241"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 241."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kunigai, stovėdami ant pa­
-    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
-    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
-    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
-    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
-    kai kuriuos, buvusius Perkūno šventyklose.
+    Vėlgi buvo dievybių, kurioms nekūrė nei stabų, nei atvaiz­
+    dų; dažnai dievo vardas, parašytas ant lentos arba iškaltas ak­
+    menyje, atstodavo jų atvaizdą. Kartais adoracijos objektas bū­
+    davo austinė uždanga, pakabinta šventykloje priešais kokį nors
+    sienos įdubimą; dažniausiai tai būdavo slaptosiose šventyklo­
+    se. Iš antikinės istorijos taip pat žinome, kad Gadžio mieste,
+    dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
+    šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
+    jokios statulos, net paties Heraklio.
+  citata_rodoma: "Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -800,21 +495,23 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-176986
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 83"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Štai kokia yra tikra
-    ir per amžių amžius patikrinta tiesa, kad tikybinis sugedimas
-    kyla iš pačių religijos sargų arba kunigų.
-    Lietuviai turėjo eiti į daugiadievystę tuo pačiu keliu, nes
-    dėl vienodų padarinių galima spėti buvus vienodą priežastį.
-    Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
-    tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
-    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
-    čią beveik visas menkiausias smulkmenas.
+    Kadangi lietuvių gentys nuolatos pa­
+    laikė artimus ryšius su gotais, tad ir iš jų perėmė daug religi­
+    nių mitų ir apeigų, kurių pėdsakai mūsų mitologijoje yra pa­
+    kankamai ryškūs - tiek, kad senesnieji istorikai visą tą mitolo­
+    giją kildina iš skandinavų. Kadangi ir šioje yra nemažai pasi­
+    savinta iš graikų, todėl mūsų ir skandinavų mitologijos pana-
+    šybė pasirodo esanti dar ryškesnė. Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194587
+    - t-197219

@@ -65,29 +65,6 @@ Terminas vartojamas kaip pradžia, nuo kurios Vilniaus universitete kilo lietuvi
   pagrindžia:
     - c-56474
 - susijęs iš Lituanistinis sąjūdis XIX a. pradžioje: XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus universiteto studentų ir profesorių.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Taip pat ir lietuviams prisikelti ir savam
-    atskiram tautiniam pašaukimui įsisąmoninti daug yra prisidėjęs
-    pastovus veido nukreipimas į savą praeitį.
-    Pradedant ankstybu lituanistiniu sąjūdžiu dar Vilniaus uni­
-    versitete lietuvių tautos atgimimo veikėjai XIX amžiuje iš širdies
-    pamilo Lietuvos istoriją. Norėdami savo tautai parodyti XIII-
-    XIV amžių lietuvių didybę anie istorijos mėgėjai patriotai patys
-    tyrinėjo, rašė ir garbino Lietuvos žymiųjų valdovų, jos didžiųjų
-    kunigaikščių laikus bei jų žygius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-56474

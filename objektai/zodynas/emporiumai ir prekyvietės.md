@@ -59,35 +59,13 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
   teiginys: "Narbutas graikų emporiumus, arba prekyvietes, kildina iš pastovių graikų gyvenviečių prie Dnestro ir Dnepro žiočių."
   pagrindžia:
     - c-175031
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Jau labai senais laikais graikai užmezgė santykius su
-    Juodosios jūros pakrančių skitais. Sakoma, kad Neopto-
-    lemas pirmasis pradėjo steigti pirmas pastovias graikų
-    gyvenvietes, pirmiausia prie Dnestro, paskui ir prie Dnep-
-    ro žiočių. Tai davė pradžią graikų emporiumams, arba
-    prekyvietėms; jie jau VII amžiuje prieš Kristaus gimimą
-    pradėjo klestėti ir vėliau virto tokiais turtingais kaip
-    Olbija, Heraklėja, Chersonas ir kiti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
 - id: c-175031
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 52"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jau labai senais laikais graikai užmezgė santykius su
     Juodosios jūros pakrančių skitais. Sakoma, kad Neopto-
@@ -103,5 +81,5 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192146
     - t-192145
+    - t-192146

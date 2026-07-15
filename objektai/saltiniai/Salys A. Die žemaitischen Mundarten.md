@@ -40,31 +40,15 @@ Dusburgietis teigia, kad die žemaitischen Mundarten.— Teil 1: Geschichte des 
   teiginys: "A. Salio „Die žemaitischen Mundarten“ 1 dalis paskelbta „Tauta ir žodis“ 6 knygoje 1930 m., p. 173–314."
   pagrindžia:
     - c-61911
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Salio „Die žemaitischen Mundarten“ 1 dalis paskelbta „Tauta ir žodis“ 6 knygoje 1930 m., p. 173–314.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Salys  A.  Die  žemaitischen Mundarten.—  Teil  1:  Geschichte des  žemaitischen
-    Sprachgebiets.—Tauta ir žodis, K., 1930, kn. 6, p. 173—314.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61911
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Salys  A.  Die  žemaitischen Mundarten.—  Teil  1:  Geschichte des  žemaitischen
+    Salys A. Die žemaitischen Mundarten.— Teil 1: Geschichte des žemaitischen
     Sprachgebiets.—Tauta ir žodis, K., 1930, kn. 6, p. 173—314.
   statusas: verified
   teiginio_tipas: faktas

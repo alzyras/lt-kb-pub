@@ -51,29 +51,6 @@ pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suva
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70368|tėvonija tėvų palikimas]]: Voluinėje tėvonijas sukūrė Sanguškos, Čartoriskiai, Vyšnioveckiai ir kitos Gediminaičių šakos.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22336|tėvonija]]: Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Iš Voluinės Ostroho kilo riurikaitiškos, „ukrainietiškos“ kilmės kunigaikščiai Ostrogiškiai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
-    naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
-    guškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai
-    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
-    ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
-    prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
-    kos“ kilmės kunigaikščiai Ostrogiškiai.
-    Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
-    atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24348

@@ -57,50 +57,19 @@ Nenurodyta
   pagrindžia:
     - c-62735
 
-<a id="claim-t-62236"></a>
-- t-002
-  global_id: t-62236
-  teiginys: "1304 m. apie Kalėdas didelis potvynis sugriovė abu Paryžiaus tiltus, o kitos provincijos patyrė didelių nuostolių."
-  pagrindžia:
-    - c-62735
-
 <a id="claim-t-194381"></a>
-- t-003
+- t-002
   global_id: t-194381
   teiginys: "Apie potvynį 1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią nuo tvano."
   pagrindžia:
     - c-62735
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie potvynį
-
-      1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią
-    nuo tvano. Paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi
-    patyrė baisybę nuostolių.
-
-
-
-                     98.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 
 - id: c-62735
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie potvynį
 
@@ -118,5 +87,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62236
-    - t-183916
     - t-194381

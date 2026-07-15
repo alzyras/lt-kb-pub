@@ -64,64 +64,17 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   pagrindžia:
     - c-70108
 
-<a id="claim-t-23259"></a>
-- t-004
-  global_id: t-23259
-  teiginys: "Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą."
-  pagrindžia:
-    - c-70108
-
 <a id="claim-t-26732"></a>
-- t-005
+- t-004
   global_id: t-26732
   teiginys: "Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado, kurį Ketverių metų seimui pristatė Kazimieras Nestoras Sapiega, autorius."
   pagrindžia:
     - c-166739
 - susijęs iš [[objektai/asmenys/Kazimieras Nestoras Sapiega.md#claim-t-63826|Kazimieras Nestoras Sapiega]]: Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vasarą rusų ir prūsų kariuomenės per-
-    ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
-    Rusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią
-    gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
-    lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
-    T. Korsakas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
-    - t-003
-
-- c-002
-  santrauka: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
-    kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
-    įžadu. Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius
-    veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas. Remiantis šiuo
-    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
-    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
-    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
-    turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
-    Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
-    Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-001
-
+- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200592|Tadas Korsakas (kanauninkas, XVIII a.)]]: Tadas Korsakas buvo kanauninkas.
+- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200593|Tadas Korsakas (kanauninkas, XVIII a.)]]: Kanauninkas Tadas Korsakas Šv. Mykolo bažnyčioje suteikė Salomėjos Franckevičovos ir Jono Tado Božimovskio santuoką.
+- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200592|Tadas Korsakas (kanauninkas, XVIII a.)]]: Tadas Korsakas buvo kanauninkas.
+- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200593|Tadas Korsakas (kanauninkas, XVIII a.)]]: Kanauninkas Tadas Korsakas Šv. Mykolo bažnyčioje suteikė Salomėjos Franckevičovos ir Jono Tado Božimovskio santuoką.
 ## Citatos
 
 - id: c-70108
@@ -141,7 +94,6 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23262
     - t-23259
     - t-23260
 
@@ -165,5 +117,5 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26732
     - t-23258
+    - t-26732

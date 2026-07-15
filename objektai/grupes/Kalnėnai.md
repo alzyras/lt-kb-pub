@@ -8,14 +8,14 @@ datos:
   - '2026 m.'
 date_start: '1323'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - etninė-grupė
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -109,56 +109,6 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 - susijęs iš [[objektai/daiktai/Ratai ant dviejų tekinių.md#claim-t-08319|Ratai ant dviejų tekinių]]: Pirmieji kalnėnų ir žemaičių ratai buvo ant dviejų tekinių, vadinamų šliuižiu.
 - susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-07840|Krikščionys]]: Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti.
 - susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-07840|Krikščionys]]: Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Senovės kalnėnai ir žemaičiai, traukdami į karę, du tarnu lygiai turėjo, beje, šunį ir žirgą, nesgi, ko
-        kareivis jodamas negalėjo ant žirgo pakelti, tą jo šuo, įkinkytas į mažas rogeles, po jo vilko, beje,
-        įkaištį^1183 ir karės padargą, grįžtant iš karės, pydė^1184 grobį, nuo neprietelių sugrietą^1185.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Kaip kalnėnai, taip ir žemaičiai, noris visados joti tekariavo, tačiau turėjo lygiai ir pėsčiuosius
-        paslėptus, kuriuos dvisėdais jodino: susigrūmus pačiai jočiai su neprieteliais, pėstieji anai
-        pripadėjo^1244.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-
-- c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Senų senovėj kalnėnai ir žemaičiai pilių neturėjo, kaipogi neišžengiamos girios jų pilimis, o pačių
-        narsybė ir kantrybė jų mūrais buvo, į kurias ir visų narsusis neprietelius nedrįso lįsti, bet ilgainiui,
-        praretėjus toms girioms, pradėjo tarpgiriuose neprieteliai, užvis žuvėdai, šmaižytis ir grobį grieti bei
-        pačius vergti; tą pritirdami^1251 , lietuviai ėmė tuos tarpgirius pilimis kamšyti, kuriomis ne vien kelią
-        neprieteliams užtaškavo^1252 , bet, kėlusis pavojui, ir patys tenai uždangą^1253 rado, kurių pilių palaikus
-        šiandien dar Žemaičiuose pilies kalnais, arba nuo žuvėdų pilimis, tebvadina.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-10114
@@ -209,5 +159,5 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65270
     - t-65268
+    - t-65270

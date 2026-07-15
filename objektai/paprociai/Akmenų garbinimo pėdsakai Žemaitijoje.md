@@ -46,8 +46,10 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
+Nenurodyta
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -60,7 +62,36 @@ Nenurodyta
     laudami Žemaitijoje, aptiko tam tikrų didelių akmenų garbinimo
     pėdsakus2.
   citata_rodoma: ''
+  statusas: verified
+
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+## Citatos
+
+- id: c-174979
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Lietuviai tam tikriems burtams naudodavo žvakes, paga­
+    mintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal­
+    čių karalius su visa didžiule roplių svita. Burtininkui visuomet į
+    naudą
+    išeidavo
+    šios
+    rūšies
+    fetišų
+    vartojimas.
+    Kaip buvo įsišaknijęs tikėjimas žalčiais, kaip dievais-globė-
+    jais, užtenka pateikti pavyzdį iš jėzuitų pastebėjimų XVII am­
+    žiaus pradžioje. Šie kunigai vienoje greta Vilniaus esančio kaimo
+    mokykloje, mokydami vaikus katekizmo, ant vieno mokinio kaklo
+    pastebėjo kabantį maišelį. Vaikas, paklaustas, kas ten yra, at­
+    sakė: „Mano dievas, kurį man davė motina“.
+  citata_rodoma: "Amerikos indėnai išsaugojo atmintį apie akmenų garbinimą, nes\njie, kaip sako vienas keliauninkas, savo lopšiu yra, artimesni žmo­\nnių padermei, tuo labiau — daugiau prisirišę prie žemės ir prie\nbūtybių, esančių jos įsčiose. Net pasikeitus apšvietai ir religijai,\nindėnai akmenis laikė talismanais1. 1583 metais jėzuitai, apašta­\nlaudami Žemaitijoje, aptiko tam tikrų didelių akmenų garbinimo\npėdsakus2."
   statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

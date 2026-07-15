@@ -27,14 +27,15 @@ media_all_json: |-
 
 Dusburgietis teigia, kad vis dėlto dievas, būdamas ir geras, ir pakantus, ir gailestingas, galėdamas kantriai laukti ir daug atleisti, pasak pranašo Nahumo, esąs taip pat „dievas pavydus ir keršijąs, viešpats yra keršytojas savo nedraugams, ir jis rūstinasi ant savo priešų” (Nah 1.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Pranašo Nahumo žodžiais Dievas apibūdinamas kaip pavydus ir keršijantis viešpats, rūstantis ant savo priešų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+- id: c-59721
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Todėl, kai vengrai
-    grįždami įėjo  į šį mišką, mūsų jau minėti kaimiečiai pajudino medžius, o tie, griūdami
+    grįždami įėjo į šį mišką, mūsų jau minėti kaimiečiai pajudino medžius, o tie, griūdami
     vienas ant kito iš vienos ir kitos pusės, nuslėgė galybę vengrų. Vis dėlto dievas, būdamas
     ir geras, ir pakantus, ir gailestingas, galėdamas kantriai laukti ir daug atleisti, pasak
     pranašo Nahumo, esąs taip pat „dievas pavydus ir keršijąs, viešpats yra keršytojas savo
@@ -42,8 +43,8 @@ Dusburgietis teigia, kad vis dėlto dievas, būdamas ir geras, ir pakantus, ir g
     ir gailestingai kęsti, kai šisai Vengrijos karalius siuntė savo tautą siaubti Kristaus bei
     jo motinos žemės ir joje įsikūrusių brolių, pasiryžusių bet kurią dieną paaukoti ir savo
     turtus, ir save ir atkeršyti už nukryžiuotojo viešpaties kančias.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  citata_rodoma: "Vis dėlto dievas, būdamas\nir geras, ir pakantus, ir gailestingas, galėdamas kantriai laukti ir daug atleisti, pasak\npranašo Nahumo, esąs taip pat „dievas pavydus ir keršijąs, viešpats yra keršytojas savo\nnedraugams, ir jis rūstinasi ant savo priešų” (Nah 1, 2). Argi tad galėjo viešpats kantriai\nir gailestingai kęsti, kai šisai Vengrijos karalius siuntė savo tautą siaubti Kristaus bei\njo motinos žemės ir joje įsikūrusių brolių, pasiryžusių bet kurią dieną paaukoti ir savo\nturtus, ir save ir atkeršyti už nukryžiuotojo viešpaties kančias."
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

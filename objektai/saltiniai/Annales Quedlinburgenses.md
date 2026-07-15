@@ -40,25 +40,6 @@ Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo Annales Quedlinbur
   teiginys: "„Annales Quedlinburgenses“ pirmieji paminėjo Lietuvos vardą, pažymėdami, kad 1009 m. prie Lietuvos ir Rusijos sienos nužudytas šv. Brunonas su 18 palydovų."
   pagrindžia:
     - c-33525
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ne mažesnis yra klausimas, ar jau Karolio Didžiojo žvalgas,
-    kaip kartais yra teigiama, yra užrašęs lietuvių vardą, nes lieka
-    paslaptis, ar iš viso VIII-IX amžiuje buvo išskirtas lietuvių vardas.
-    Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo
-    Annales Quedlinburgenses, pažymėdami, kad 1009 m. prie Lietuvos
-    ir Rusijos sienos («in confinio Rusciae et Lituae ») buvo nužudytas
-    misininkas šv. Bruno su savo aštuoniolika palydovų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

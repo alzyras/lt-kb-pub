@@ -35,27 +35,6 @@ Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje v
   teiginys: "Sudegus medinei Šv. Kryžiaus bažnytėlei, Vilniaus vyskupas Povilas Alšėniškis savo sode pastatydino nedidelę koplyčią."
   pagrindžia:
     - c-82263
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sudegus medinei Šv. Kryžiaus bažnytėlei, Vilniaus vyskupas Povilas Alšėniškis savo sode pastatydino nedidelę koplyčią.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mikalojaus bažnyčią. O po dvi­
-    dešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė,
-    Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­
-    vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­
-    tydino nedidukę oratoriją, arba koplyčią14.
-    leidžiamos raketos, vyko įvairūs
-    šaudymai bei deginamos kitos ar­
-    tilerijos užtaisų ugnys".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

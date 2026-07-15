@@ -9,12 +9,12 @@ datos:
   - '1900 m.'
 date_start: '1801'
 date_end: '1900'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,8 @@ Dusburgietis teigia, kad nuorašus parengė ir 1861 m. „Scriptores rerum Pruss
   teiginys: "M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba."
   pagrindžia:
     - c-61922
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -70,18 +70,20 @@ Dusburgietis teigia, kad nuorašus parengė ir 1861 m. „Scriptores rerum Pruss
 - id: c-61922
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 5"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius
-    Torunės, Karaliaučiaus, Berlyno  ir kt. nuorašus parengė  ir 1861 m. „Scriptores
-    rerum Prussicarum“ serijoje paskelbė M. Tepenas. Kronikos lietuviškas vertimas
-    publikuojamas pirmą kartą.
-       „Lituanistinės bibliotekos“ serijoje pateikiamu Petro iš Dusburgo kronikos teksto
+    „Lituanistinės bibliotekos“ serijoje pateikiamu Petro iš Dusburgo kronikos teksto
     vertimu, jo aptarimu įžanginiame straipsnyje bei paaiškinimuose norima platesnei
     visuomenei atskleisti šio svarbaus šaltinio turinį ir reikšmę, padaryti plačiau prieinamą
     kronikos tekstą, panagrinėti kai kurias istoriografines, kultūrines, filologines ir kt.
     problemas.
+    Įvade bandoma apibūdinti kronikos sukūrimo epochą, prūsų ir Lietuvos ryšius,
+    kronikos rankraščius, jų tyrinėjimus, autoriaus politinius ir ideologinius tikslus,
+    kronikos šaltinius, tendenciją, idėjinę teksto reikšmę ir mokslinę svarbą. Kiti
+    klausimai analizuojami paaiškinimuose, kur mėginama lokalizuoti kronikoje minimas
+    vietoves (žr. ir schemą). Remiantis naujausiais istorijos, archeologijos, lingvistikos
+    duomenimis bei savarankiškais tyrinėjimais, visų pirma norima atskleisti kronikos
+    baltistinę, lituanistinę medžiagą.
   citata_rodoma: "Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius\nTorunės, Karaliaučiaus, Berlyno  ir kt. nuorašus parengė  ir 1861 m. „Scriptores\nrerum Prussicarum“ serijoje paskelbė M. Tepenas."
   statusas: verified
   teiginio_tipas: faktas

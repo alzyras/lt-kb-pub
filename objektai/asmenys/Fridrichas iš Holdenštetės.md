@@ -51,69 +51,17 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
   pagrindžia:
     - c-60752
 
-<a id="claim-t-60119"></a>
-- t-003
-  global_id: t-60119
-  teiginys: "Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397."
-  pagrindžia:
-    - c-167449
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    130 (125). Apie Brandenburgo pilies sunaikinimą
-
-       Brolis Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais bei ginklanešiais
-    atvyko į Notangos valsčių, vardu Saldava403, buvusį netoli Kroicburgo pilies, ir jį nusiaubė,
-    degindamas bei plėšdamas, daug žmonių išžudydamas ar paimdamas  į nelaisvę. Kai
-    traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta
-    Štai šiuo būdu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolį Liudviką, septintą Prūsijos žemės magistrą
-
-       Brolis  Liudvikas  iš Baldensheimo,  septintas  Prūsijos  magistras, vadovavo nuo
-    1265 viešpaties metų šešerius metus396. Tuo metu maršalu buvo brolis Fridrichas iš
-    Holdenštetės397.
-
-
-
-
-                    125 (120).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-
 ## Citatos
 
 - id: c-60752
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 131"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     130 (125). Apie Brandenburgo pilies sunaikinimą
-
-       Brolis Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais bei ginklanešiais
+    Brolis Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais bei ginklanešiais
     atvyko į Notangos valsčių, vardu Saldava403, buvusį netoli Kroicburgo pilies, ir jį nusiaubė,
-    degindamas bei plėšdamas, daug žmonių išžudydamas ar paimdamas  į nelaisvę. Kai
+    degindamas bei plėšdamas, daug žmonių išžudydamas ar paimdamas į nelaisvę. Kai
     traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta
     Štai šiuo būdu.
   citata_rodoma: "Apie Brandenburgo pilies sunaikinimą\n\n   Brolis Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais bei ginklanešiais\natvyko į Notangos valsčių, vardu Saldava403, buvusį netoli Kroicburgo pilies, ir jį nusiaubė,\ndegindamas bei plėšdamas, daug žmonių išžudydamas ar paimdamas  į nelaisvę. Kai\ntraukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta\nŠtai šiuo būdu."
@@ -127,23 +75,16 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
 - id: c-167449
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 129"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 129."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolį Liudviką, septintą Prūsijos žemės magistrą
-
-       Brolis  Liudvikas  iš Baldensheimo,  septintas  Prūsijos  magistras, vadovavo nuo
+    Brolis Liudvikas iš Baldensheimo, septintas Prūsijos magistras, vadovavo nuo
     1265 viešpaties metų šešerius metus396. Tuo metu maršalu buvo brolis Fridrichas iš
     Holdenštetės397.
-
-
-
-
-                    125 (120).
+    125 (120).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184064
     - t-60119

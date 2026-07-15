@@ -40,22 +40,6 @@ Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t.
   teiginys: "Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t."
   pagrindžia:
     - c-94043
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Žinoma, būdami užsitvėrę pagonybėje, lie­
-    (^1) **Žr. Ig. Jonynas:** **_Christburgo taika_** **, Lietuviškoji Enciklopedija, t. 5,
-    Kaunas 1937, 459-464 sk. —** **_Christburgo taika_** **, LE, t. 3, 541 p.**
-    (^2) **Plg. Vcl.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

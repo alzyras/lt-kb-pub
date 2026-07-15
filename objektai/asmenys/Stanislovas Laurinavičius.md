@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir prefektas, pateikė vietinių tyrinėjimų faktus apie jėzuitų perstatytą mūrą. Stanislovas Laurinavičius, Narbuto rankraščio liudijimu, mirė beveik devyniasdešimties metų amžiaus beveik prieš devynerius metus.
+Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir prefektas, pateikė vietinių tyrinėjimų faktus apie jėzuitų perstatytą mūrą. Stanislovas Laurinavičius, Narbuto rankraščio liudijimu, mirė beveik devyniasdešimties metų amžiaus beveik prieš devynerius metus. Stanislovas Laurinavičius visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį.
 
 ## Teiginiai
 
@@ -43,69 +43,44 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   teiginys: "Stanislovas Laurinavičius, Narbuto rankraščio liudijimu, mirė beveik devyniasdešimties metų amžiaus beveik prieš devynerius metus."
   pagrindžia:
     - c-175373
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir prefektas, pateikė vietinių tyrinėjimų faktus apie jėzuitų perstatytą mūrą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tai ir buvo toji šventykla, vėliau paversta svirnu,
-    tai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­
-    nyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į
-    mokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars
-    Romana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė
-    ponas Laurinavičius -  garbingasis Kauno mokyklos profesorius
-    ir prefektas)*.
-    Kur ir kokios šventyklos buvo tikrojoje Lietuvoje, Žemai­
-    tijoje ir latvių žemėse iki XIII amžiaus -  apie tai istorijos liu­
-    dijimų neturime; nieko reikšmingo ir negalėjo būti, nes religi­
-    nė sostinė Romovė ir vyriausiojo žynio rezidencija buvo Prū­
-    suose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197443"></a>
+- t-003
+  global_id: t-197443
+  teiginys: "Stanislovas Laurinavičius visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   pagrindžia:
-    - t-001
+    - c-179190
 
-- c-002
-  santrauka: 'Stanislovas Laurinavičius, Narbuto rankraščio liudijimu, mirė beveik devyniasdešimties metų amžiaus beveik prieš devynerius metus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kalba ir apie S. Laurinavičių,
-    „kuris mirė sulaukęs beveik devyniasdešimties metų, beveik prieš
-    devynerius metus“ (Ten pat. L. 2). Rankraštyje istorikas aprašo
-    ir kitą deivės Mildos statulėlę, kuri buvo rasta Vilniuje ir kuri
-    buvo Adomo Honorijaus Kirkoro nuosavybė (Ten pat. L. 2—3).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197814"></a>
+- t-004
+  global_id: t-197814
+  teiginys: "Simonas Laurinavičius atsiradęs iš skiedrų, kurios buvo naudojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pastatas negali būti pavadintas vardu daikto, naudoto statyboje) daro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai būdavo kuriami vadinamuosiuose arklių suvažiavimuose, t."
   pagrindžia:
-    - t-002
+    - c-179351
 
 ## Citatos
 
 - id: c-172960
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 268."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tai ir buvo toji šventykla, vėliau paversta svirnu,
-    tai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­
-    nyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į
-    mokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars
-    Romana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė
-    ponas Laurinavičius -  garbingasis Kauno mokyklos profesorius
-    ir prefektas)*.
-    Kur ir kokios šventyklos buvo tikrojoje Lietuvoje, Žemai­
-    tijoje ir latvių žemėse iki XIII amžiaus -  apie tai istorijos liu­
-    dijimų neturime; nieko reikšmingo ir negalėjo būti, nes religi­
-    nė sostinė Romovė ir vyriausiojo žynio rezidencija buvo Prū­
-    suose.
+    Pačiuose Prūsuose yra panašių
+    vietų, kurių suskaičiuojama iki šešeto, o Hartknochas veltui
+    kamuojasi su jomis nežinodamas, kurią laikyti tikrąja Romo-
+    ve; mat tie pavadinimai galėjo atsirasti dėl įvairių krašto nuti­
+    kimų, kurie galėjo paskatinti vyriausiuosius žynius apleisti vieną
+    vietą ir perkelti savo buveinę į kitą ir kartu įkurti naują šven­
+    tyklą. Kadangi lietuvių genties tautos turėjo krivių įvairiose
+    vietose, todėl buvo gausu ir aukų atnašavimo vietų, kurios ne­
+    buvo šventyklos to žodžio prasme. Taip pat ir žemesnės kate­
+    gorijos žyniai įsirengdavo laikinus arba pastovius aukurus miš­
+    kuose, po šventaisiais medžiais, upių, ežerų pakrantėse, vidu­
+    ry miestų turgaviečių ir ten prireikus atnašaudavo aukas.
+    Kol buvo įkurtas Vilnius, XIII amžiuje valstybės sostinė ir
+    vyriausiojo žynio buveinė buvo Kernavėje, todėl ten turėjo būti
+    ir vyriausioji šventykla.
+  citata_rodoma: "Tai ir buvo toji šventykla, vėliau paversta svirnu,\ntai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­\nnyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į\nmokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars\nRomana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė\nponas Laurinavičius -  garbingasis Kauno mokyklos profesorius\nir prefektas)*.\nKur ir kokios šventyklos buvo tikrojoje Lietuvoje, Žemai­\ntijoje ir latvių žemėse iki XIII amžiaus -  apie tai istorijos liu­\ndijimų neturime; nieko reikšmingo ir negalėjo būti, nes religi­\nnė sostinė Romovė ir vyriausiojo žynio rezidencija buvo Prū­\nsuose."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -116,8 +91,7 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
 - id: c-175373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 472"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 472."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kalba ir apie S. Laurinavičių,
     „kuris mirė sulaukęs beveik devyniasdešimties metų, beveik prieš
@@ -130,3 +104,49 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192602
+
+- id: c-179190
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Perrašau jį ištisai, ka­
+    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
+    nepaprasto grožio vienatinę dukterį. Kartą pavasarį ji norėjo
+    pradžiuginti motiną ką tik pražydusiomis gėlėmis, kurias pro
+    karalienės rūmų langą pamatė žydinčias Rasos (Ross) upės
+    pakrantėje; tuo tikslu ji nepastebėta išbėgo iš rūmų. Vienas
+    gražiausių pavasario žiedų, tarytum augantis prie pat kranto,
+    pasirodė esąs vidury upės; jį lengvai supo tekantis vanduo, pa­
+    dvigubindamas žiedo grožį nuostabių spalvų švytėjimu, lyg tai
+    būtų buvę brangakmeniai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197443
+
+- id: c-179351
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Vieni sako, jog jis atsiradęs iš skiedrų, kurios buvo nau­
+    dojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pas­
+    tatas negali būti pavadintas vardu daikto, naudoto statyboje) da­
+    ro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie
+    šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai bū­
+    davo kuriami vadinamuosiuose arklių suvažiavimuose, t. y. sėdint
+    ant arklių. Iš čia atsiradęs žodis Za-kon, įstatymas. Bet manęs
+    toks aiškinimas netenkina, todėl slavų senienų tyrinėtojų dėmesį
+    atkreipiau į žodį Kontyna. Aš pats piliečių sutartyse, parašytose
+    Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон-
+    тьма — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo
+    sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197814

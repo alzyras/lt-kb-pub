@@ -35,24 +35,6 @@ Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvauj
   teiginys: "Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių bajorams."
   pagrindžia:
     - c-176012
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių bajorams.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tiek Lietuvoj, tiek Lenkijoj vykdomoji valdžia priklausė
-    karaliui. Jis turėjo būti bendrai renkamas Volos kaimo
-    lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių
-    bajorams. Bet į elekciją, žinoma, susirinkdavo ne visi, o tik arti-
-    mųjų sričių ir, be to, tik turtingesnieji bajorai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

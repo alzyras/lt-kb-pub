@@ -45,25 +45,6 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
   teiginys: "„Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras."
   pagrindžia:
     - c-26708
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau antros šio sąjūdžio kartos atstovas, aukš-
-    taitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatū-
-    ros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas
-    (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu;
-    / Viso svieto raštus, knygas lietuviškan versiu. / Lietuvnykai žmonės bus
-    visi galvočiais, / Visam svietui visuos moksluos eis kelio vedžiotų.“ Tai
-    civilizuotos, savo aukštąją kultūrą turinčios tautos vizija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

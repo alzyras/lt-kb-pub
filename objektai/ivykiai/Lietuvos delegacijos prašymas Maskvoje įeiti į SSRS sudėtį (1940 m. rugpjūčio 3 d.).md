@@ -86,43 +86,6 @@ Nenurodyta
   teiginys: "Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti."
   pagrindžia:
     - c-23026
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Buvo nacionalizuoti
-    bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
-    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
-    prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
-    Rinkimų į Liaudies seimą agitacinis plakatas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    patenkinti ir imperialistiniai sovietų siekiai. Kadangi okupantų paskirtas
-    Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų
-    panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo ne-
-    teisėti. Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
-    prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
-    jų turtas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-    - t-005
 
 ## Citatos
 
@@ -162,6 +125,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75138
     - t-75137
+    - t-75138
     - t-193571

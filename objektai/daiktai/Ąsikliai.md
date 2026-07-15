@@ -53,6 +53,7 @@ Nenurodyta
   teiginys: "Pagalbinė detalė vyžoms adyti."
   pagrindžia:
     - c-177711
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

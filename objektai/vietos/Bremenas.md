@@ -7,13 +7,13 @@ datos:
   - '1190 m.'
 date_start: '1190'
 date_end: ''
+amziai:
+  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -75,14 +75,11 @@ Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikš
 - susijęs iš Ukmergė: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
 - susijęs iš Veliuona: Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
 - susijęs iš Veliuona: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies, per mylią nuo Veliuonos.
-- susijęs iš Vilnius: Gedimino rūpesčiu Vilnius iškilo iš mažareikšmės gyvenvietės į galingos valstybės sostinę.
-- susijęs iš Vilnius: Gedimino rūpesčiu iškilusiame Vilniuje buvo prigiję feodalinio valdymo principai.
 - susijęs iš [[objektai/zodynas/Feodalinis ir leninis valdymas.md#claim-t-86458|Feodalinis ir leninis valdymas]]: Gedimino iškeltame Vilniuje, kaip ir visame krašte, buvo prigiję feodalinio valdymo principai.
 - susijęs iš [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės.md#claim-t-86570|Rygos miesto civilinė teisė vokiečių teisės]]: Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.
 - susijęs iš Bajerburgo pilis: Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.
 - susijęs iš Bajerburgo pilis: Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Bremeno ir Liubeko miestiečiai, laikomi pirmaisiais ordino steigėjais, padovanojo Henrikui Valpotui ligoninę Akone.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -110,19 +107,23 @@ Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikš
 - id: c-59166
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 39"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
-    Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
-    dieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
+    Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
     kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti
     į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos
     kilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis
-    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
+    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams jis drauge su
     broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga. Paėmus Akoną, tas pats brolis
     Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,
     kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais
+    154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų
+    — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a. 2-oje
+    pusėje, o prancūziškasis Tamplierių ordinas — XII a. 2-ame dešimtmetyje). Sekant
+    statutų prologu, Ordino įkūrimas datuojamas 1190 m. Skyrelyje minimi ir vėlesni (1198
+    m.) įvykiai, be to, 1198 m. jau miręs, bet turėjęs Ordino įkūrimui nuopelnų Švabijos
+    kunigaikštis Fridrichas (Vokietijos karaliaus, o nuo 1191 m. imperatoriaus Henriko VI
+    brolis).
   citata_rodoma: "Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,\nkurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti\nį namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos\nkilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis\ngausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su\nbroliais nuolankiai tarnavo ir rūpino visa, kas reikalinga."
   statusas: verified
   teiginio_tipas: faktas

@@ -35,31 +35,13 @@ Dusburgietis teigia, kad savukyno nuomone, prūsų vardas kilęs iš vandenvard�
   teiginys: "K. Kuzavinis siejo prūsų vardo kilmės aiškinimą su Prūsos vandenvardžiu."
   pagrindžia:
     - c-61369
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'K. Kuzavinis siejo prūsų vardo kilmės aiškinimą su Prūsos vandenvardžiu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    B. Savukyno nuomone, prūsų vardas kilęs iš vandenvardžio; Prūsa galėjo būti senovėje
-    vadinamos Aismarės, o nuo jų gavęs vardą kraštas, esantis prie tų marių (Kuzavinis K.
-    Prūsų..., p. 5) ir prie upės (vėlesnio Frišingo, dab. Prochladnaja), kaip ir marios vadintos
-    Prūsa.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61369
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 55"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 55."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     B. Savukyno nuomone, prūsų vardas kilęs iš vandenvardžio; Prūsa galėjo būti senovėje
     vadinamos Aismarės, o nuo jų gavęs vardą kraštas, esantis prie tų marių (Kuzavinis K.

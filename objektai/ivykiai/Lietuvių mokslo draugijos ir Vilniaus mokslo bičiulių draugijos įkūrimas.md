@@ -64,28 +64,6 @@ Nenurodyta
   teiginys: "Nepavykus atkurti Vilniaus universiteto, įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija."
   pagrindžia:
     - c-23004
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be to, etnografi-
-    nės Lietuvos miestuose didžiausia tautinė grupė buvo žydai, o gatvėse po
-    1905 m. lenkų kalba nustūmė rusų kalbą į antrąją vietą.
-    Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-
-    jos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
-    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
-    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
-    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
-    telkusi lenkiškai kalbančiuosius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -109,5 +87,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75131
     - t-75130
+    - t-75131

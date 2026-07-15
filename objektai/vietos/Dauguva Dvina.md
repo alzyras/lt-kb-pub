@@ -38,66 +38,16 @@ Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir for
 <a id="claim-t-188983"></a>
 - t-001
   global_id: t-188983
-  teiginys: "Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“."
+  teiginys: 'Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“.'
   pagrindžia:
     - c-171872
 
 <a id="claim-t-188984"></a>
 - t-002
   global_id: t-188984
-  teiginys: "Narbutas dainelės žodį „dewine“ aiškino kaip „Dwine upe“ ir siejo jį su devintąja upe, Dvina arba Dauguva."
+  teiginys: 'Narbutas dainelės žodį „dewine“ aiškino kaip „Dwine upe“ ir siejo jį su devintąja upe, Dvina arba Dauguva.'
   pagrindžia:
     - c-171873
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    1663)*.
-    456
-
-    ## Puslapis 456
-
-    VIII priedas
-    Daug buvo ištyrinėta šaltinių, norint išsiaiškinti Dauguvos
-    upės pavadinimo kilmę. Mums iš Ukmergės apskrities pavyko
-    gauti dainelę, kuri rodo, kad šis pavadinimas atsirado nuo „ De­
-    wine Upes“: dainininkas sako, jog pasikinkys į roges žirgelius ir
-    važiuos grobio:
-    Založym do san koniki,
-    Osiadlamy wrone žrebie,
-    Pojedziem wojowac,
-    Wojnę toczyč w Ryški kraj,
-    O žeby tylko wody zamarzly.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas dainelės žodį „dewine“ aiškino kaip „Dwine upe“ ir siejo jį su devintąja upe, Dvina arba Dauguva.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    457
-
-    ## Puslapis 457
-
-    Iš Lietuvos važiuojant į Livoniją, reikia pervažiuoti nemažai
-    upių. Dainininkas suskaičiuoja net astuonias, o „dewine“, tai
-    yra „Dwine upe“, devintoji upė, tai, be abejo, Dvina (Dauguva).
-    Bet kodėl taip vadinama ir antroji Dvina, šiaurinė, įtekanti į Bal­
-    tąją jūrą?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -127,7 +77,7 @@ Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir for
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188983
+    - t-001
 
 - id: c-171873
   autorius: "Teodoras Narbutas"
@@ -148,4 +98,4 @@ Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir for
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188984
+    - t-002

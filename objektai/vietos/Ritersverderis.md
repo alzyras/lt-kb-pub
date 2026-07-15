@@ -25,73 +25,44 @@ media_all_json: |-
 
 ## Santrauka
 
-Ritersverderis buvo netikėtai užpultas iš gretimos Marienburgo pilies ir užimtas palaužus gynėjų pasipriešinimą.
+Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Marienburge Vytautas įkurdino savo karius.
 
 ## Teiginiai
 
-<a id="claim-t-185272"></a>
+<a id="claim-t-196737"></a>
 - t-001
-  global_id: t-185272
-  teiginys: "Ritersverderis buvo netikėtai užpultas iš gretimos Marienburgo pilies ir užimtas palaužus gynėjų pasipriešinimą."
+  global_id: t-196737
+  teiginys: "Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Marienburge Vytautas įkurdino savo karius."
   pagrindžia:
-    - c-168633
+    - c-178879
 - susijęs iš Kernavė: Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio.
 - susijęs iš [[objektai/paprociai/Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą.md#claim-t-185887|Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą (kraštas)]]: Kryžiuočiai Nojerverderyje ir Ritersverderyje paliko savo įgulą, o Vytautas Marienburge įkurdino savo karius.
 - susijęs iš Astravas: 1392 m. rugpjūčio 4 d. Astrave, netoli Lydos, buvo rašyti du aktai dėl Vytauto padėties.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ritersverderis buvo netikėtai užpultas iš gretimos Marienburgo pilies ir užimtas palaužus gynėjų pasipriešinimą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Visiems narsiau­
-    siems vyrams įsakė pasilikti su juo ir būti pasirengu­
-    siems žygiui. Nutaikęs progą, nuskubėjo į Marienbur­
-    gą, jam priklausomą pilį, ir netikėtai užpuolė gretimąjį
-    Ritersverderį. Palaužęs menką nepasirengusių kovai
-    gynėjų pasipriešinimą, užėmė tvirtovę, visus nelaisvėn
-    328
-
-    ## Puslapis 327
-
-    pakliuvusius vokiečių pirklius bei karius įsakė išžudyti,
-    o kūnus sumesti į čia pat tekantį Nemuną; žymiuosius
-    kryžiuočius išsivedė su savi-
-    U žp u o la ir sugriauna
-    mi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
-- id: c-168633
+- id: c-178879
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Visiems narsiau­
-    siems vyrams įsakė pasilikti su juo ir būti pasirengu­
-    siems žygiui. Nutaikęs progą, nuskubėjo į Marienbur­
-    gą, jam priklausomą pilį, ir netikėtai užpuolė gretimąjį
-    Ritersverderį. Palaužęs menką nepasirengusių kovai
-    gynėjų pasipriešinimą, užėmė tvirtovę, visus nelaisvėn
-    328
-
-    ## Puslapis 327
-
-    pakliuvusius vokiečių pirklius bei karius įsakė išžudyti,
-    o kūnus sumesti į čia pat tekantį Nemuną; žymiuosius
-    kryžiuočius išsivedė su savi-
-    U žp u o la ir sugriauna
-    mi.
+    Netekęs vilties, kad užkariaus pilį, be to, nenorė­
+    damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie­
+    ko nenuveikė, jis pasitraukė į Nemuno salas, esančias
+    už vienos mylios, ir pastatė čia naujas pilis. Dviejose
+    salose, Naujojoje ir Riterių, pavadintose Nojerverde-
+    riu ir Ritersverderiu, kryžiuo-
+    Stato L ie tu v o je паи-
+    čiai paliko savo įgulą, o tre­
+    jas pilis
+    čiojoje, vadinamoje Marien­
+    burgu, įkurdino savo karius
+    Vytautas. Šios įgulos nepaprastai kenkė aplinkiniam
+    kraštui: nesutikdamos pasipriešinimo, jos pridarydavo
+    daug žalos menkais, bet dažnais išpuoliais, rengiamais
+    nedidelių būrių.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185272
+    - t-196737

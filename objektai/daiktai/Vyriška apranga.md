@@ -55,23 +55,6 @@ Nenurodyta
   teiginys: "Emilija Pliaterytė sukilėlių daliniuose kovėsi vilkėdama vyrišką aprangą ir jodama ant žirgo."
   pagrindžia:
     - c-22314
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Emilija Pliaterytė sukilėlių daliniuose kovėsi vilkėdama vyrišką aprangą ir jodama ant žirgo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rudenį Rusija susigrąžino ir Lenkijos karalystę.
-    Be lenkų kariuomenės, Lietuvoje sukilėlių daliniuose buvo apie
-    30  tūkst. kovotojų. Sukilimo legenda tapo jauna dvarininkaitė Emilija
-    Pliaterytė (Emilia Plater-Broel), kovojusi su vyriška apranga ir ant žirgo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,8 +35,8 @@ Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių bū
   teiginys: "Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių būta pajūrio srityse."
   pagrindžia:
     - c-172218
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių būta pajūrio srityse.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -63,18 +63,25 @@ Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių bū
 - id: c-172218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 294"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 294."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Signotai (Sigonottaį
-    Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos
-    senovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką
-    arba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba
-    Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo
-    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
-    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
-    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
-    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas.
+    sose antikinėse tautose jų pašaukimas buvo labai kilnus ir ger­
+    biamas; mat jie, pranašesni savo protu ir turintys nuostabią
+    dovaną kurti eiles, pranokdavo kitus žmones, pateikdavo įsta­
+    tymus, kūrė mokslą ir skatindavo karo žygius arba puoselėda­
+    vo pilietines dorybes, tramdydavo nusikaltimus ir diegdavo ap-
+    švietą kerinčia poezijos ir muzikos meno galia. Lietuvių bar­
+    dai grojo styginiu instrumentu, vadintu Citera , kurio garsai
+    būdavo išgaunami sukant rankeną, panašią į veleną; kaip liu­
+    dija liaudies pasakojimai, dar esama senų žmonių, kurie yra
+    mate tokį instrumentą arba girdėję pasakojant apie jį. Padavi­
+    muose dar prisimenami lietuvių liaudies dainų dainuotojai,
+    vaikščioję po kaimus su tokiais instrumentais, panašūs į elge­
+    tas, tačiau, pasak tų pasakojimų, tai buvę seniai. Nykstant ir
+    išsigimstant lietuvių mitologijai, burtininkų profesija nusmu­
+    ko iki paprastų dainių lygio; jų klausydavosi pasilinksminimui
+    ir pramogai.
+  citata_rodoma: "Signotai (Sigonottaį\nTai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos\nsenovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką\narba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba\nGardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo\nAdalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­\nja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­\ntėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­\nmeldžių žynys Siggo, kuris buvo pats pirmasis žudikas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

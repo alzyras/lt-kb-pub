@@ -43,36 +43,13 @@ Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastat�
   teiginys: "Boetticherio darbas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir didelį papilį."
   pagrindžia:
     - c-65265
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Boetticherio darbas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir didelį papilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip buvo pastatytas ir išgriautas malūnas
-
-      Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti
-    broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246
-    persikėlė pas Baigos brolius, o šie, jiems atvykus, sustiprėjo ir pastatė prie upės malūną
-      245 Prūsiškoji Baigos pilis buvusi Aismarių kranto kyšulyje, per 25 m virš jūros lygio,
-    sausumos prieigas dengusios pelkės. Paėmę pilį, kryžiuočiai čia įsitvirtino, pastatė mūrinę
-    pilį, o šalia jos rytų pusėje — didelį papilį (Тоерреn M., HCCP, p. 203; Boetticher A., Die
-    Bau.., 2, p. 17—18).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-65265
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 79"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
 

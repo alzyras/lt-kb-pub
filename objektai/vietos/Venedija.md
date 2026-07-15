@@ -32,33 +32,10 @@ Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą,
 <a id="claim-t-192909"></a>
 - t-001
   global_id: t-192909
-  teiginys: "Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą, nuo kurio slavai esą vadinti venedų tauta."
+  teiginys: 'Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą, nuo kurio slavai esą vadinti venedų tauta.'
   pagrindžia:
     - c-175679
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-192479|Venedai]]: Narbutas sieja Venedijos vardą su lygumų ir pelkynų kraštu, nuo kurio, jo aiškinimu, slavai vadinti venedų tauta.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą, nuo kurio slavai esą vadinti venedų tauta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    101
-
-    ## Puslapis 99
-
-    manų genčių“. Sis lygumų, lėkštų plotų ir klampių pel­
-    kynų kupinas kraštas tikrai galėjo vadintis Venedija, o
-    nuo jo ir slavai buvo vadinami venedų tauta1.
-    88
-    Slavai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175679
@@ -75,9 +52,9 @@ Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą,
     nuo jo ir slavai buvo vadinami venedų tauta1.
     88
     Slavai.
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192909
+    - t-001

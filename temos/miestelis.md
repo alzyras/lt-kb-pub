@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 104
+tema_objektu_skaicius: 103
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 104.
+Objektų skaičius: 103.
 
 ## Kaip naudoti
 
@@ -55,7 +55,6 @@ Objektų skaičius: 104.
 - [Kretinga](../objektai/vietos/Kretinga)
 - [Kėzmarkas](../objektai/vietos/K%C4%97zmarkas)
 - [Lazdijai](../objektai/vietos/Lazdijai)
-- [Linkmenys](../objektai/vietos/Linkmenys)
 - [Mažoji Rosė (Roska)](../objektai/vietos/Ma%C5%BEoji%20Ros%C4%97%20%28Roska%29)
 - [Merkinė](../objektai/vietos/Merkin%C4%97)
 - [Naantalis](../objektai/vietos/Naantalis)

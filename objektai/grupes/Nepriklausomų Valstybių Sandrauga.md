@@ -42,26 +42,6 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
   teiginys: "Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą, pirmiausia į Rusiją."
   pagrindžia:
     - c-22688
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą, pirmiausia į Rusiją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-
-    giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
-    laikotarpį.
-    Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusi-
-    jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo
-    į Nepriklausomų Valstybių Sandraugą (NVS), pirmiausia Rusiją, krizės
-    metais Lietuva susidūrė su biudžeto sunkumais: 1998 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

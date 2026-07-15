@@ -57,25 +57,6 @@ Nenurodyta
   teiginys: "1831 m. gegužę Mykolas Balinskis buvo areštuotas, bet netrukus paleistas."
   pagrindžia:
     - c-82934
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1831 m. gegužę Mykolas Balinskis buvo areštuotas, bet netrukus paleistas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Rusų valdžia kontroliavo tik Vilniaus miestą, iš
-    kurio pasitraukė keli šimtai universiteto studentų ir įsiliejo į su­
-    kilėlių gretas. Gegužės mėnesį buvo areštuotas M. Balinskis, bet
-    netrukus paleistas. Kaip rašo istorikas Romualdas Naruniecas,
-    „Mykolo Balinskio išlaisvinimo iš kalėjimo problema lieka pa­
-    slaptinga".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

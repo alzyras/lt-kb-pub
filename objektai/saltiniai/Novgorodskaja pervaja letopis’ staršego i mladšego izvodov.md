@@ -40,21 +40,6 @@ NoPL = Novgorodskaja pervaja letopis’ staršego i mladšego izvodov, išl.
   teiginys: "„Novgorodskaja pervaja letopis’ staršego i mladšego izvodov“ A. Nasonovas išleido Maskvoje-Leningrade 1950 m."
   pagrindžia:
     - c-31756
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Novgorodskaja pervaja letopis’ staršego i mladšego izvodov“ A. Nasonovas išleido Maskvoje-Leningrade 1950 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    NoPL = Novgorodskaja pervaja letopis’ staršego i mladšego izvodov,
-    išl. A. Nasonov, Maskva-Leningradas 1950.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

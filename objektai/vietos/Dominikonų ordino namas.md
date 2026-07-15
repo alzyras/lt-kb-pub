@@ -35,20 +35,6 @@ Dominikonų ordino namas.
   teiginys: "Dominikonų ordino namas."
   pagrindžia:
     - c-82157
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    10. Dominikonų ordino namas.
-    11. Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

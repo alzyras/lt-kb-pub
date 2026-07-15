@@ -14,6 +14,7 @@ datos:
   - '1399 m.'
   - '1505 m.'
   - '1544 m.'
+  - '1553 m.'
   - '2026 m.'
 date_start: '1237'
 date_end: '2026'
@@ -42,7 +43,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė Vytautą laikinai pasitenkinti pietinėmis Kęstučio srities žemėmis — Gardino ir Brastos sritimis. Radvila Juodasis įkūrė Brastoje spaustuvę, kur buvo spausdinamos lenkiškos protestantų knygos ir buvo lenkiškai išspausdinta Biblija. Ateinančiais 1596 m. Brastoje buvo sušauktas pravoslavų sinodas, kur unija turėjo būti viešai paskelbta.
+Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta. 1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o vėliau pasiųstas gyventi į Trakus.
 
 ## Teiginiai
 
@@ -115,6 +116,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginys: "Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis."
   pagrindžia:
     - c-160912
+    - c-24084
 
 <a id="claim-t-176969"></a>
 - t-011
@@ -158,9 +160,9 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   pagrindžia:
     - c-160899
 
-<a id="claim-t-176984"></a>
+<a id="claim-t-176975"></a>
 - t-017
-  global_id: t-176984
+  global_id: t-176975
   teiginys: "Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita."
   pagrindžia:
     - c-160903
@@ -207,57 +209,36 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   pagrindžia:
     - c-160895
 
-<a id="claim-t-176984"></a>
-- t-024
-  global_id: t-176984
-  teiginys: "Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita."
-  pagrindžia:
-    - c-160903
-
 <a id="claim-t-176985"></a>
-- t-025
+- t-024
   global_id: t-176985
   teiginys: "LDK kariuomenė pasipriešino prie Myro ir Brastoje, o paskui be didesnių nuostolių atsitraukė prie Varšuvos."
   pagrindžia:
     - c-160914
 
 <a id="claim-t-176986"></a>
-- t-026
+- t-025
   global_id: t-176986
   teiginys: "Brastos paviete buvę dideli valsčiai minimi tarp valdų, kuriomis buvo aprūpinta Vilniaus katedra."
   pagrindžia:
     - c-160899
 
-<a id="claim-t-183588"></a>
-- t-027
-  global_id: t-183588
-  teiginys: "Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis."
-  pagrindžia:
-    - c-24084
-
-<a id="claim-t-187567"></a>
-- t-028
-  global_id: t-187567
-  teiginys: "Lietuvos metraštyje Brasta, Drohičinas ir Melnikas vaizduojami kaip Batu nusiaubti ir sunaikinti miestai, kuriuos Erdvilas atstatė."
-  pagrindžia:
-    - c-170516
-
 <a id="claim-t-187568"></a>
-- t-029
+- t-026
   global_id: t-187568
   teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis atvyko į Gardiną pas sūnų, o žmoną pasiuntė į Brastą, pasikliaudamas žentu Jonušu."
   pagrindžia:
     - c-170517
 
 <a id="claim-t-192625"></a>
-- t-030
+- t-027
   global_id: t-192625
   teiginys: "Teodoras Narbutas Brastos apylinkėse mini svarbias jotvingių gyvenvietes, kurias 1237 m. ketino užpulti Danieliaus vadovauti Pietų Rusios kunigaikščiai."
   pagrindžia:
     - c-175395
 
 <a id="claim-t-193175"></a>
-- t-031
+- t-028
   global_id: t-193175
   teiginys: "Ateinančiais 1596 m. Brastoje buvo sušauktas pravoslavų sinodas, kur unija turėjo būti viešai paskelbta."
   pagrindžia:
@@ -266,12 +247,10 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš Trakai: 1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o paskui pasiųstas gyventi į Trakus.
 - susijęs iš [[objektai/asmenys/Danielius.md#claim-t-191161|Danielius]]: Narbutas Danielių apibūdina kaip klastingą, godų ir neramų Pietų Rusios kunigaikščių vadą, 1237 m. vedusį būrius prieš jotvingius prie Brastos.
 - susijęs iš [[objektai/asmenys/Karolis Moravskis.md#claim-t-40272|Karolis Moravskis]]: Karolis Moravskis vadovavo 2-ajam regimentui, stovėjusiam prieš priemiesčius prie Lietuvos Brastos.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82511|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises.
 - susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82568|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Grįžęs į katalikybę Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
 - susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82573|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113884|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.
 - susijęs iš [[objektai/asmenys/Mykolas Sulistrovskis.md#claim-t-40362|Mykolas Sulistrovskis]]: Mykolas Sulistrovskis vadovavo 1-ajai tautinės kavalerijos brigadai prie Lietuvos Brastos.
-- susijęs iš [[objektai/asmenys/Petras Pšonka.md#claim-t-186157|Petras Pšonka]]: Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.
 - susijęs iš [[objektai/asmenys/Slupskis.md#claim-t-87853|Slupskis]]: Slupskis Brastoje davė 38 lietuviškus grašius palūkanų nuo filipkų.
 - susijęs iš [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“.md#claim-t-40709|Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]: Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“ vaizduoja 1657 m. švedų apsiaustą Lietuvos Brastą.
 - susijęs iš [[objektai/grupes/Abiejų Tautų konfederacija.md#claim-t-19623|Abiejų Tautų konfederacija]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją.
@@ -284,7 +263,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš [[objektai/ivykiai/Brastos bažnytinė unija.md#claim-t-183219|Brastos bažnytinė unija (unija)]]: Brastos bažnytinę uniją 1596 m. nulėmė gausūs XV–XVI a. LDK telkęsi bažnytinės unijos bandymai.
 - susijęs iš [[objektai/ivykiai/Brastos bažnytinė unija.md#claim-t-20172|Brastos bažnytinė unija (unija)]]: Po Brastos bažnytinės unijos stačiatikiai ir graikai katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
 - susijęs iš [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare.md#claim-t-20174|Brastos pasipriešinimas 1792 m. kare]]: LDK kariuomenė, stokodama pasirengimo ir patirdama vadovavimo sunkumų, pasipriešino prie Myro ir Brastoje, o paskui atsitraukė prie Varšuvos.
-- susijęs iš [[objektai/ivykiai/Brastos seimas 1505 m..md#claim-t-186806|Brastos seimas 1505 m. (seimas, XVI a.)]]: 1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo.
+- susijęs iš [[objektai/ivykiai/Brastos seimas 1505 m..md#claim-t-186806|Brastos seimas 1505 m. (seimas, XVI a.)]]: 1971 m. leidinio pastaboje nurodoma, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą kompozicija ir dalimi turinio skiriasi nuo platesnio M. Miechovitos pasakojimo.
 - susijęs iš [[objektai/ivykiai/Brastos taikos derybos ir pasirašymas.md#claim-t-01599|Brastos taikos derybos ir pasirašymas]]: 1917 m. pabaigoje Brastoje prasidėjus bolševikų ir Vokietijos taikos deryboms, lietuviai siekė kuo greičiau grįžti į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Lietuvos Brastos apsiaustis (1657 m.).md#claim-t-80678|Lietuvos Brastos apsiaustis (1657 m.)]]: 1657 m. Lietuvos Brastos apsiaustis baigėsi miesto pasidavimu priešui, po kurio miestas buvo gerokai suniokotas.
 - susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66681|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: 1792 m. liepos 23 d. Lietuvos Brastos mūšis prasidėjo rusų kavalerijos ataka, kurią lietuvių kavalerija iš pradžių atmušė.
@@ -309,12 +288,12 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš Luckas: Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
 - susijęs iš Muchavecas: Jokūbui Jasinskui vadovaujant Senajame Muchavece buvo užverstos dvi brastos, o prie tilto per Muchaveco upę supiltas pylimas.
 - susijęs iš Palenkė: Vytauto laikais pilys buvo statomos ir Palenkėje, tarp jų Melnike ir galbūt Brastoje.
-- susijęs iš Suražas: Jonušas, atvykęs su kariuomene į Drohičiną, puolė Suražą, Kamenecą ir apgulė Brastą.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113649|Magdeburgo teisės]]: Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113656|Magdeburgo teisės]]: Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.
 - susijęs iš [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas.md#claim-t-86492|raudonasis auksinas, taleris ir dukatas]]: Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-188512|Algirdas (Lietuvos valdovas)]]: Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78953|Augustas II]]: 1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.
 - susijęs iš [[objektai/asmenys/Boleslovas Maldingasis.md#claim-t-35039|Boleslovas Maldingasis]]: Boleslovo Maldingojo 1264 m. privilegijos buvo vienas iš pavyzdžių privilegijoms, pagal kurias žydai Lietuvoje gyveno ilgus šimtmečius.
 - susijęs iš [[objektai/asmenys/Danielius.md#claim-t-191160|Danielius]]: Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.
@@ -419,25 +398,22 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš Liubešavas: Brastos apygardoje Liubešave veikė viena iš minimų mokyklų.
 - susijęs iš Liublinas: Karalius Olbrachtas su broliu karalaičiu Zigmantu išvyko į Liubliną prieš abiejų šalių ponų suvažiavimą Parčeve.
 - susijęs iš Luckas: Vytautas Volinijoje užvaldė dvi svarbiausias pilis - Lucką ir Vladimirą.
-- susijęs iš Melnikas: Lietuvos metraštyje Erdvilas su kariais, išžygiavęs iš Naugarduko, rado Melniką Batu nusiaubtą ir sunaikintą.
-- susijęs iš Melnikas: Lietuvos metraštyje Jonušas, neįveikęs Brastos, pasitraukė ir paliko įgulas Drohičine bei Melnike.
 - susijęs iš Mielnikas: 1384 m. vasarą Vytautas gavo dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.
 - susijęs iš Minskas: Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.
 - susijęs iš Molėtai: Molėtų kaimas prie Vilniaus buvo vienas iš valdų, iškilmingu aktu dovanotų Vilniaus vyskupui.
 - susijęs iš Narevas: Teodoras Narbutas sprendė, kad po 1237 m. jotvingiai traukėsi nuo Bugo ir Narevo Prūsijos bei Lietuvos sienų link.
 - susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
+- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
 - susijęs iš Naugardėlis: Vytautas pastatė bažnyčią Naugardėlyje.
 - susijęs iš Nemunas: Narbuto aprašytame kelyje Pripetės vandens baseinas jungėsi su Nemuno sistema.
 - susijęs iš Nesvyžius: Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje.
 - susijęs iš Nesvyžius: Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje.
 - susijęs iš Pašiaušė: Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.
 - susijęs iš Pinskas: Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias.
+- susijęs iš Pinskas: Pinske atsirado jėzuitų kolegija, funduota kanclerio Alberto Stanislovo Radvilos.
 - susijęs iš Raigardo ežeras: Raigardo ežeras buvo perpus dalijamas aprašytos sienos linijos.
 - susijęs iš Rusia Rusios žemės: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
 - susijęs iš Rusia: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
-- susijęs iš Rusų žemė: Pasak Lietuvos metraščio, Aleksandras su Elena ir didikais tą žiemą važiavo apžiūrėti Rusų žemės ir lankėsi Smolenske, Vitebske bei Polocke.
-- susijęs iš Rusų žemė: Rusų žemė minima kaip Aleksandro, Elenos ir didikų lankytas regionas su Smolensku, Vitebsku ir Polocku.
-- susijęs iš Rusų žemė: Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke, o pavasariop grįžo į Vilnių.
 - susijęs iš Senvarniai: Vytautas Žemaitijoje pastatė bažnyčias, tarp jų ir Senvarniuose.
 - susijęs iš Smolenskas: Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų.
 - susijęs iš Solcas: Karališkoji didenybė vyko į Solcą, į Lietuvos pataurininkio vestuves.
@@ -451,9 +427,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš Ukmergė: Prie Šventosios brastos ties Ukmerge nugalėtojai persekiojo priešininką ir nuskandino daug jo kareivių.
 - susijęs iš Varniai: Jėzuitai Varniuose turėjo įsikūrę mažesnę mokyklą.
 - susijęs iš Verkiai: Verkių kaimai prie Vilniaus buvo įtraukti į valdas, kuriomis iškilmingu dovanojimo aktu aprūpinta Vilniaus katedra.
-- susijęs iš Vilnius: Algirdo laikais Lietuvos sostinė kelis kartus buvo žiauriai nuniokota, bet valdovas išgelbėdavo Vilnių nuo visiškos pražūties.
-- susijęs iš Vilnius: 1544 m. Žygimantui perdavus Lietuvos valdžią sūnui, Vilnius vėl tapo pagrindiniu valdžios židiniu.
 - susijęs iš Vitebskas: Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija.
+- susijęs iš Vitebskas: Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui.
 - susijęs iš Vladimiras: Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą.
 - susijęs iš Volkoviskas: Vytautas Didysis Volkoviske pastatė bažnyčią.
 - susijęs iš Žemaitija: Žemaitijoje Vytautas pastatė Varnių katedrą ir bažnyčias Ariogaloje, Betygaloje, Kelmėje, Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Senvarniuose ir Veliuonoje.
@@ -468,502 +443,15 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš [[objektai/zodynas/metropolija bažnytinė unija.md#claim-t-22231|metropolija bažnytinė unija (unija)]]: Po Brastos bažnytinės unijos Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113662|pavietas]]: Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.
 - susijęs iš [[objektai/zodynas/prekymečiai ir turgūs.md#claim-t-86610|prekymečiai ir turgūs]]: Kazimiero 1441 m. Brastoje išleista privilegija nustatė Vilniui du didžiuosius prekymečius ir savaitinius turgus.
-- susijęs iš [[objektai/zodynas/seimas.md#claim-t-187527|seimas]]: Bychovco kronikos pasakojime karalius Aleksandras Brastos seime nepagrįstai pyko ant didikų dėl Droždžai atiduotos Lydos.
 - susijęs iš [[objektai/zodynas/vietovardžių priešdėlis `pa.md#claim-t-86625|vietovardžių priešdėlis `pa]]: Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.
 - susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1227 m. jotvingių antpuoliai pasiekė Voluinės Vladimirą, kur buvo suimti Sutras Monoduničius ir Stegutas Zebrovičius.
 - susijęs iš [[objektai/asmenys/Danielius.md#claim-t-191161|Danielius]]: Narbutas Danielių apibūdina kaip klastingą, godų ir neramų Pietų Rusios kunigaikščių vadą, 1237 m. vedusį būrius prieš jotvingius prie Brastos.
 - susijęs iš Liubešavas: Brastos apygardoje Liubešave veikė viena iš minimų mokyklų.
 - susijęs iš [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare.md#claim-t-20174|Brastos pasipriešinimas 1792 m. kare]]: LDK kariuomenė, stokodama pasirengimo ir patirdama vadovavimo sunkumų, pasipriešino prie Myro ir Brastoje, o paskui atsitraukė prie Varšuvos.
-- susijęs iš [[objektai/ivykiai/Brastos seimas 1505 m..md#claim-t-186806|Brastos seimas 1505 m. (seimas, XVI a.)]]: 1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo.
+- susijęs iš [[objektai/ivykiai/Brastos seimas 1505 m..md#claim-t-186806|Brastos seimas 1505 m. (seimas, XVI a.)]]: 1971 m. leidinio pastaboje nurodoma, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą kompozicija ir dalimi turinio skiriasi nuo platesnio M. Miechovitos pasakojimo.
 - susijęs iš Lietuva: Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.
 - susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190906|Konradas]]: Narbuto pasakojime Konrado valdymo Mazovijoje metu Gotardas kautynėse suėmė septynis jotvingių kunigaikštukus, išsipirkusius sidabru.
-- susijęs iš [[objektai/asmenys/Petras Pšonka.md#claim-t-186157|Petras Pšonka]]: Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.
 - susijęs iš Petro Korkono 1621 m. raštas apie Goštauto liepą: Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Ra-
-    dvila Juodasis. Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
-    sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-027
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dabar Kęstučio padėtis žymiai pablogėjo. Netekęs Vilniaus
-    ir Trakų ir neturėdamas saugios vietos, jis norėjo kreiptis į sa­
-    vo žentą Mozūrijos kunigaikštį Jonušą, bet ir šis, pasinaudoda­
-    mas Lietuvoje kilusiais sūmaisčiais, paėmė pasienio sritis, Dro­
-    hičiną ir Melniką. Negavęs pagalbos Mozūrijoje ir palikęs sa­
-    vo žmoną Brastoje, Kęstutis slaptai išvyko į Žemaičius, iš ku­
-    rių ir begalėjo laukti paramos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-    - t-022
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Su pagoniškąja Lietuva pirmąsias nuolatinio karo paliau­
-    bas Ordinas padarė 1379 m. Labai įdomios ir viduramžiui
-    charakteringos jų sąlygos: paliaubos daromos 10 metų. Abu
-    magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­
-    jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,
-    Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su
-    Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
-    Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
-    Varmijos)^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-004
-    - t-005
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jau anksčiau visi jie buvo gavę po sritį. Vyriausias sūnus, Man-
-    v y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
-    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
-    das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
-    pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą. Jo žinioje
-    buvo ir (tada dar pusiau savarankiški) Žemaičiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-012
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo
-    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
-    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
-    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
-    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
-    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
-    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
-    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
-    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
-    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
-    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
-    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
-    piegos f-ja).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-006
-  santrauka: '1544 m. Brastos seime Žygimantas dar prieš mirtį atidavė sūnui Lietuvos valdžią.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau šis Statutas tarnavo išim­
-    tinai tik šlėktų luomui, nes miestui kuo iškilmingiausiai bu­
-    vo garantuojamos Magdeburgo teisės. Tame pačiame seime
-    Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­
-    raliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­
-    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
-    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
-    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
-    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
-    tėjimo viršūnės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-023
-
-- c-007
-  santrauka: 'Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Man buvo ati­
-    duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už
-    užstatą sidabrui Jo Karališkosios Didenybės reikalams nuo
-    žydo Brastoje ėmė po 56 lenkiškus grašius. Jiems Lukove
-    L. Mogilnickis išleido 5 flor. 7 gr.
-    Be to, ten pat, Lukove, ponas Mogilnickis, supirkdamas
-    Karališkosios Didenybės reikalams, lietuviškoms mone­
-    toms išleido 2 flor. Žydui Brastoje palūkanų nuo aštuonių
-    šimtų zlotų, paskolintų ponui Pekarskiui sidabrui, užsta­
-    tytam Karališkosios Didenybės reikalams už dvi savaites,
-    tai yra, a die 23 Augusti ad diem 6 7bris [nuo rugpjūčio 23
-    dienos iki rugsėjo 6 dienos] nuo šimto ir aštuoniasdešimt
-    kapų, už kiekvieną kapą po 5 grašius, išleido 7 zlotus, 15
-    2 ą1g.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-021
-
-- c-008
-  santrauka: 'Brastos paviete buvę dideli valsčiai minimi tarp valdų, kuriomis buvo aprūpinta Vilniaus katedra.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    X, p. 112.
-    I1l
-
-    ## Puslapis 128
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
-    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
-    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
-    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
-    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
-    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
-    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-026
-    - t-016
-
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kai visa tai vyko, karalius, matydamas
-    pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
-    mas pasikliauti ir Skirgailos pasiruošimu apsiginti, mat jis,
-    vos tik gavęs valdžią, aplaidumu ir žiauriu elgesiu didesnę
-    pusę Lietuvos prieš save nuteikė, išsiuntė į Vilnių Karūnos
-    pakanclerį Mikalojų Moskoževskį, naujais Lenkijos pulkais
-    vediną, ir liepė įsikurti Vilniaus pilyse. Pats tuo metu už­
-    ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­
-    ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­
-    mu užėmė ano valdos sostinę Gardiną ir šiaip taip
-    patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
-    Vilniaus diecezijos senųjų turto do- Vilnensis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-    - t-001
-
-- c-010
-  santrauka: 'Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Bet Žygimantas, metų naštos prislėg­
-    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
-    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
-    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
-    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
-    tėjimo viršūnės.
-    Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos
-    seimo kartu su karaliene Elžbieta ir didele dvariškių svita,
-    tais pačiais metais ir su geriausiomis pranašystėmis perėmė
-    valdžios vadžias. Tiktai jaunos ir dorovingos karalienės
-    mirtis 1545 metų liepos 17 dieną paskandino liūdesyje rū­
-    mus ir miesto gyventojus29.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-    - t-024
-
-- c-011
-  santrauka: 'Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vėliau Radvila Juo-
-    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
-    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
-    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
-    jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
-    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
-    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
-    Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
-    mas Lietuvoje virto nenutrūkstamu procesu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-
-- c-012
-  santrauka: '1544 m. Brastos seime Žygimantas dar prieš mirtį perdavė sūnui Žygimantui Augustui Lietuvos valdžią.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tame pačiame seime
-    Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­
-    raliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­
-    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
-    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
-    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
-    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
-    tėjimo viršūnės.
-    Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos
-    seimo kartu su karaliene Elžbieta ir didele dvariškių svita,
-    tais pačiais metais ir su geriausiomis pranašystėmis perėmė
-    valdžios vadžias.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-013
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XVI a. viduryje naujas madas atneš Vilniaus Žemuti-
-    nės pilies renesansas, tačiau gotikos tradicija, perimta vietos meistrų, dar
-    reikšis iki pat XVII a. pradžios.
-    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
-    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
-    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
-    (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
-    stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-    - t-011
-
-- c-014
-  santrauka: 'Brastoje buvo įkurta protestantų mokykla, o pradžios mokyklų protestantai turėjo beveik kiekvienoje savo parapijoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
-    žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
-    džios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų
-    šių mokyklų iš pradžių žymiausioji buvo vilniškė. Po protes-
-    tantų susidūrimų su katalikais, 1640 m. ji buvo panaikinta kartu su
-    kalvinų bažnyčia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-015
-  santrauka: '1792 m. liepos pabaigoje gynybai telkiantis prie Brastos, atėjo žinia apie Stanislovo Augusto prisijungimą prie Targovicos konfederacijos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rimtesnės kautynės vyko birželio 11 dieną prie Myro,
-    tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos. Liepos pabaigoje
-    gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
-    ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
-    prie Targovicos konfederacijos.
-    1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
-    Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
-    kijos ir Lietuvos) dignitorių – ministrų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-
-- c-016
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po dešimtmečio čia pa-
-    sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
-    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
-    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
-    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
-    jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
-    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
-    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
-    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-017
-  santrauka: 'Brastoje Slupskis sumokėjo 38 lietuviškus grašius palūkanų nuo filipkų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Slups-
-    kis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­
-    šius. Per poną Turčiną pasiunčiau į Vilnių 80 filipkų, kuriuos
-    priėmė į iždą karališk. did. paliepimu po 1 floriną. Išdavė
-    juos karai. did. reikmėms po 16 liet. grašių. Jiems išleista 26
-    flor., 20 grašių.
-    Šių, 1570 metų išlaidų lietuviškoms monetoms su palū­
-    kanomis suma 84 lenkiški flor., 21 gr., 6 liet. grašiai.
-    In Anno  1571 [1571 metais]
-    Pirmiausia priėmiau į iždą, karališk. did. paliepimu, 66
-    filipkas auksu, išleistus po 20 lenkiškų grašių, jiems išleista
-    22 flor.
-    Brastoje nuo 17 paskolintų liet. grašių palūkanos už dvi
-    savaites - 16 liet. grašių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
-- c-018
-  santrauka: 'LDK kariuomenė pasipriešino prie Myro ir Brastoje, o paskui be didesnių nuostolių atsitraukė prie Varšuvos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    dar per 40 tūkst. karių. LDK kariuomenė turėjo daug sunkumų su karo
-    vadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juze-
-    fas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino
-    prie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos. Iš
-    72 pabūklų ji prarado tik septynis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-025
-
-- c-019
-  santrauka: '1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o vėliau pasiųstas gyventi į Trakus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Su­
-    gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­
-    darė nemažai rūpesčių karaliui ir seimui. Jis buvo atgaben­
-    tas iš Vilniaus į seimą Brastoje 1505 metais, po to pasiųstas
-    gyventi į Trakus. Jo reikalu ne kartą į Vilnių buvo atvažia­
-    vę Nogajaus ordos pasiuntiniai ir Maskvos bojarinai, ir Vil­
-    niaus pilyje tuomet kildavęs didelis sujudimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-020
-  santrauka: 'Lietuvos metraštyje Brasta, Drohičinas ir Melnikas vaizduojami kaip Batu nusiaubti ir sunaikinti miestai, kuriuos Erdvilas atstatė.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didysis kunigaikštis Erdvilą įsi­
-    rengė čionai sostinę ir ėmė vadintis Naugarduko di­
-    džiuoju kunigaikščiu I S .
-    Išžygiavę iš Naugarduko, įkūrė Gardino miestą l6 , ir
-    paskui nužygiavo Į Brastą l7 , ir rado Brastą, ir Drohiči-
-    ną 1 8 , ir Melniką 1 9  Batu nusiaubtus ir sunaikintus2 0 . Jis
-    tuos miestus atstatė ir ėmė juose kunigaikščiauti 2I.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-028
-
-- c-021
-  santrauka: 'Lietuvos metraštis pasakoja, kad Kęstutis atvyko į Gardiną pas sūnų, o žmoną pasiuntė į Brastą, pasikliaudamas žentu Jonušu.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O kai prisiartina
-    didysis kunigaikštis Jogaila prie Trakų, Trakai jam pa­
-    siduoda l2 . Ir didysis kunigaikštis Kęstutis atvyksta
-    į Gardiną pas savo sūnų l3 , o savo žmoną pasiunčia
-    į Brastą, pasikliaudamas savo žentu Jonušu u. Mazovi­
-    jos kunigaikščiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-029
-
-- c-022
-  santrauka: 'Teodoras Narbutas Brastos apylinkėse mini svarbias jotvingių gyvenvietes, kurias 1237 m. ketino užpulti Danieliaus vadovauti Pietų Rusios kunigaikščiai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Būgas jau tuomet buvo Mazovijos ir rusų
-    žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­
-    bių jotvingių gyvenviečių, nes jas tikėjosi užpulti Pietų
-    Rusios kunigaikščiai, kuriems
-    vadovavo Danielius —
-    klastingas, godus ir neramus žmogus. 1237 metais jis ve­
-    dė savo būrius prieš jotvingius į Brastos apylinkes, bet
-    itin dideli pavasario potvyniai ;užtvindė upių krantus, ir
-    jo sumanymas nebuvo įgyvendintas3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-030
-
-- c-023
-  santrauka: 'Ateinančiais 1596 m. Brastoje buvo sušauktas pravoslavų sinodas, kur unija turėjo būti viešai paskelbta.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ateinančiais 1596 m. Brastoje
-    buvo sušauktas pravoslavų sinodas, kur unija turėjo būti viešai
-
-    paskelbta. Bet čia įvyko skilimas: didžiausias pravoslavų ponas
-    Ostrogo kunigaikštis Konstantinas II stojo prieš uniją ir, pasi-
-    kvietęs iš užsienio pravoslavų teologų, sudarė ten pat, Brastoje,
-    kitą — atskirą sinodą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-031
-
 ## Citatos
 
 - id: c-24084
@@ -975,12 +463,10 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     dvila Juodasis. Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
     sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183588
-
 - id: c-37306
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1024,9 +510,9 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176967
     - t-176962
     - t-176963
+    - t-176967
 
 - id: c-46460
   redaktorius: "A. Šapoka"
@@ -1146,8 +632,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176986
     - t-176974
+    - t-176986
 
 - id: c-160902
   autorius: "Michał Baliński"
@@ -1172,8 +658,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176978
     - t-176955
+    - t-176978
 
 - id: c-160903
   autorius: "Michał Baliński"
@@ -1199,7 +685,6 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176975
-    - t-176984
 
 - id: c-160904
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1267,8 +752,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176972
     - t-176969
+    - t-176972
 
 - id: c-160908
   redaktorius: "A. Šapoka"
@@ -1395,36 +880,24 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   pagrindzia:
     - t-176960
 
-- id: c-170516
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Didysis kunigaikštis Erdvilą įsi­
-    rengė čionai sostinę ir ėmė vadintis Naugarduko di­
-    džiuoju kunigaikščiu I S .
-    Išžygiavę iš Naugarduko, įkūrė Gardino miestą l6 , ir
-    paskui nužygiavo Į Brastą l7 , ir rado Brastą, ir Drohiči-
-    ną 1 8 , ir Melniką 1 9  Batu nusiaubtus ir sunaikintus2 0 . Jis
-    tuos miestus atstatė ir ėmė juose kunigaikščiauti 2I.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187567
-
 - id: c-170517
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    O kai prisiartina
-    didysis kunigaikštis Jogaila prie Trakų, Trakai jam pa­
-    siduoda l2 . Ir didysis kunigaikštis Kęstutis atvyksta
-    į Gardiną pas savo sūnų l3 , o savo žmoną pasiunčia
-    į Brastą, pasikliaudamas savo žentu Jonušu u. Mazovi­
-    jos kunigaikščiu.
+    Kunigaikštis Skirgai­
+    la taip pat davė priesaiką didžiajam kunigaikščiui
+    Vytautui, kaip jie buvo davę, ir didysis kunigaikštis
+    Vytautas nuvyko pas didįjį kunigaikštį Jogailą ir jo
+    kariuomenę. O abiejų šalių pulkai stovi, nieko nepra­
+    dedami.
+    Ir didysis kunigaikštis Jogaila ima prašyti Vytautą,
+    kad juos sutaikintų ir nebūtų kraujo praliejimo. Didy­
+    sis kunigaikštis Vytautas priėmė priesaiką iš didžiojo
+    kunigaikščio Jogailos savo tėvui, kad jo tėvas, didysis
+    kunigaikštis Kęstutis, po susitikimo vėl galės saugiai
+    grįžti.
+  citata_rodoma: "O kai prisiartina \ndidysis kunigaikštis Jogaila prie Trakų, Trakai jam pa­\nsiduoda l2 . Ir didysis kunigaikštis Kęstutis atvyksta \nį Gardiną pas savo sūnų l3 , o savo žmoną pasiunčia \nį Brastą, pasikliaudamas savo žentu Jonušu u. Mazovi­\njos kunigaikščiu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1435,8 +908,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - id: c-175395
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Būgas jau tuomet buvo Mazovijos ir rusų
     žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­

@@ -37,7 +37,7 @@ media_all_json: |-
     - c-166417
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186643|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimiero kariuomenė nusiaubė Kozelską, Vereją, Možaiską ir Kalugą per žygį į Maskvos žemę.
 - susijęs iš Mosalskas: Mosalskas lokalizuojamas apie 100 km į vakarus nuo Kalugos.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-183155|Lietuvos Didžioji Kunigaikštystė]]: Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187721|Lietuvos Didžioji Kunigaikštystė]]: LDK ir Maskvos Didžiosios Kunigaikštystės 1406-1408 m. karo veiksmai vyko LDK rytų pasienyje, Ugros ir Okos upių ruože.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187725|Lietuvos kariuomenė]]: Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.
 - susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186731|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: Bychovco kronikos epizodas 1971 m. komentare aiškinamas kaip glaustas pasakojimas apie 1406–1408 m. LDK ir Maskvos Didžiosios Kunigaikštystės karus.
 - susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186732|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: Komentaro autoriaus manymu, Bychovco kronikoje turimas galvoje Vytauto vadovaujamos LDK kariuomenės žygis 1408 m. rudenį.
@@ -47,25 +47,6 @@ media_all_json: |-
 - susijęs iš Riazanė: Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė.
 - susijęs iš Rohačevas: Rohačevas lokalizuojamas prie Chlepenio į pietus nuo Rževo.
 - susijęs iš Rohačevas: Rohačevas nurodytas Aleksandro 1492 m. rugsėjo 27 d. instrukcijoje kaip maskvėnų užimtas LDK rytų pasienio miestas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytauto žygio į Maskvą metu buvo pasiektos Tula, Kaluga ir Riazanė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, jis pats pasidarė
-    savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu
-    buvo pasiekta net Tula, Kaluga ir Riazanė. Iš tikro tai buvo
-    ne karas, o vien kelionės žygis, nes rusų kunigaikštėliai net ne-
-    išdrįso kariauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-166417

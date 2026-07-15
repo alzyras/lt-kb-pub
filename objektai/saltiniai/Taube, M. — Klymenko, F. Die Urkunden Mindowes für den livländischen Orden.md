@@ -40,22 +40,6 @@ Taube, M.
   teiginys: "M. Taube ir F. Klymenko darbas „Die Urkunden Mindowes für den livländischen Orden“ paskelbtas AF VI tome 1929 m., p. 201-255."
   pagrindžia:
     - c-33725
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jhs.,_
-    MiLG, t. 15, 1892. Plg. Taube, M. — Klymenko, F. : _Die Urkunden
-    Mindowes für den livländischen Orden_ , AF, VI, 1929, 201-255 p.
-    — Kosman, M. : _Forma umów międzynarodowych Litwy w pierwszej_
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

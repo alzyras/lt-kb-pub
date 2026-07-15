@@ -44,7 +44,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes. Livonijos Ordinas padarė prieš Vytautą nukreiptą taiką su Pskovu (1417) ir Naugardu (1421), kas Bažnyčių unijai dar labiau pakenkė.
+Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai. 1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją. Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje.
 
 ## Teiginiai
 
@@ -69,9 +69,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   pagrindžia:
     - c-89836
 
-<a id="claim-t-94771"></a>
+<a id="claim-t-94764"></a>
 - t-004
-  global_id: t-94771
+  global_id: t-94764
   teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
   pagrindžia:
     - c-89834
@@ -111,132 +111,96 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   pagrindžia:
     - c-89833
 
-<a id="claim-t-94771"></a>
-- t-010
-  global_id: t-94771
-  teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
-  pagrindžia:
-    - c-89834
-
 <a id="claim-t-94772"></a>
-- t-011
+- t-010
   global_id: t-94772
   teiginys: "Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai."
   pagrindžia:
     - c-37565
 
-<a id="claim-t-94761"></a>
-- t-012
-  global_id: t-94761
-  teiginys: "Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai."
-  pagrindžia:
-    - c-89828
-
 <a id="claim-t-94774"></a>
-- t-013
+- t-011
   global_id: t-94774
   teiginys: "Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes."
   pagrindžia:
     - c-89829
 
 <a id="claim-t-94775"></a>
-- t-014
+- t-012
   global_id: t-94775
   teiginys: "Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva."
   pagrindžia:
     - c-37564
 
 <a id="claim-t-94776"></a>
-- t-015
+- t-013
   global_id: t-94776
   teiginys: "Vytauto remiama Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais."
   pagrindžia:
     - c-89826
 
 <a id="claim-t-94777"></a>
-- t-016
+- t-014
   global_id: t-94777
   teiginys: "Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi."
   pagrindžia:
     - c-89839
 
 <a id="claim-t-94778"></a>
-- t-017
+- t-015
   global_id: t-94778
   teiginys: "1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai."
   pagrindžia:
     - c-89824
 
 <a id="claim-t-94779"></a>
-- t-018
+- t-016
   global_id: t-94779
   teiginys: "Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428)."
   pagrindžia:
     - c-37567
+    - c-167684
 
 <a id="claim-t-94780"></a>
-- t-019
+- t-017
   global_id: t-94780
   teiginys: "Naugardas ir Porchovas, nebenorėdami kariauti, 1428 m. sumokėjo Vytautui 10 000 rublių kontribuciją."
   pagrindžia:
     - c-37566
 
-<a id="claim-t-184311"></a>
-- t-020
-  global_id: t-184311
-  teiginys: "Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428)."
-  pagrindžia:
-    - c-167684
-
-<a id="claim-t-185060"></a>
-- t-021
-  global_id: t-185060
-  teiginys: "Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską."
-  pagrindžia:
-    - c-168421
-
-<a id="claim-t-185061"></a>
-- t-022
-  global_id: t-185061
-  teiginys: "Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu pavedė jį valdyti Chaleckiui."
-  pagrindžia:
-    - c-168422
-
 <a id="claim-t-188773"></a>
-- t-023
+- t-018
   global_id: t-188773
   teiginys: "Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu."
   pagrindžia:
     - c-171662
 
 <a id="claim-t-188774"></a>
-- t-024
+- t-019
   global_id: t-188774
   teiginys: "Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti variagų atgabenta lietuvių kolonija."
   pagrindžia:
     - c-171663
 
 <a id="claim-t-188775"></a>
-- t-025
+- t-020
   global_id: t-188775
   teiginys: "Narbutas teigė, kad Vladimiras X a. Kijeve ir Naugarde pastatė Perkūno stabus, panašius į lietuvių Perkūno stabą."
   pagrindžia:
     - c-171664
 
 <a id="claim-t-188776"></a>
-- t-026
+- t-021
   global_id: t-188776
   teiginys: "Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, bendravusią su Naugardo slavais."
   pagrindžia:
     - c-171665
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara).md#claim-t-34519|Vytauto žygis į Naugardą (1428 m. vasara)]]: 1428 m. vasarą Vytautas surengė didelį žygį į Naugardą, sutelkęs daug kunigaikščių ir kariuomenės iš Lenkijos bei Rusijos.
-- susijęs iš Pskovas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
 - susijęs iš [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską.md#claim-t-185592|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]: Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
 - susijęs iš [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje.md#claim-t-87237|Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]: Vytautas globojo pirklius, o Vilniaus prekyba išsiplėtė su Prūsijos, Livonijos, Pskovo, Naugardo ir Maskvos miestais.
 - susijęs iš [[objektai/asmenys/Dmitrijus Kaributas.md#claim-t-87491|Dmitrijus Kaributas]]: Vytautas sumušė Dmitrijų Kaributą prie Nedokudovo, užėmė Seversko Naugardą ir suėmęs kunigaikštį uždarė Vilniaus Aukštutinėje pilyje.
 - susijęs iš [[objektai/asmenys/Patrikas, arba Patricijus.md#claim-t-87816|Patrikas, arba Patricijus]]: Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176751|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Zenonas Ivinskis Vytautui priskyrė taupumą ir didelį švaistymąsi materialinėmis gėrybėmis, ypač siekiant pasirodyti užsieniečiams.
-- susijęs iš Pskovas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
 - susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189431|Biarmiai]]: Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę.
 - susijęs iš [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje.md#claim-t-86944|Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]: Vytautas suėmė Seversko kunigaikštį Dmitrijų Kaributą ir su žmona bei vaikais uždarė jį Vilniaus Aukštutinėje pilyje.
 - susijęs iš [[objektai/asmenys/Dmitrijus Kaributas.md#claim-t-87491|Dmitrijus Kaributas]]: Vytautas sumušė Dmitrijų Kaributą prie Nedokudovo, užėmė Seversko Naugardą ir suėmęs kunigaikštį uždarė Vilniaus Aukštutinėje pilyje.
@@ -257,16 +221,11 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179718|Švitrigaila]]: Švitrigaila su iš Didžiojo Naugardo atsiųstais bojarinais sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190765|Motiejus Strijkovskis (kronikininkas)]]: Teodoro Narbuto teigimu, Motiejus Strijkovskis dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo, Insterburgo, Kuršo ir Livonijos.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo bojarinai.md#claim-t-86789|Didžiojo Naugardo bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-05243|Didžiojo Naugardo respublika]]: Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-05245|Didžiojo Naugardo respublika]]: Prieš Algirdo mirtį Didžiajame Naugarde įsigalėjo Maskvos įtaka, todėl 1375 m. Naugardas sudarė sutartį su Dimitru.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-103736|Didžiojo Naugardo respublika]]: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-103737|Didžiojo Naugardo respublika]]: Algirdas siekė priversti Naugardo respubliką paklusti, nors ji ilgą laiką priešinosi Lietuvos ir Maskvos įtakai.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-12357|Didžiojo Naugardo respublika]]: Didysis Naugardas atsisakė pradėti karą su vokiečiais, nes turėjo atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-12358|Didžiojo Naugardo respublika]]: Vytautui gyvenimo pabaigoje pasisekė paimti savo įtakon Pskovą ir Didįjį Naugardą.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-187732|Didžiojo Naugardo respublika]]: Didžiojo Naugardo gyventojai, bijodami Vytauto kariuomenės, pažadėjo jam tarnauti, mokėti duoklę ir laikyti jį valdovu.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-187733|Didžiojo Naugardo respublika]]: Didžiojo Naugardo gyventojai kasmet mokėjo Vytautui 10 000 auksinų, 40 sunkiųjų žirgų ir kailių duoklę.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116684|Hanza]]: 1416 m. Hanzos vadovybė įsikišo, kai Dorpatas uždraudė prekybą su Naugardu, bet turėjo sutikti su Dorpato draudimu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179092|Kryžiuočių ordinas]]: Kryžiuočiai blokavo patekimą į Lietuvą, sudarė sutartį su Didžiuoju Naugardu prieš Gediminą ir juodino jį krikščionių valdovams.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190579|Lietuviai]]: Narbutas teigė, kad lietuvių Perkūno stabas X a. buvo garsus Šiaurėje, o panašūs stabai pastatyti Kijeve ir Naugarde.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187720|Lietuvos Didžioji Kunigaikštystė]]: Vytautui galutinai prijungus Smolenską prie Lietuvos Didžiosios Kunigaikštystės, Jurijus Svetoslavovičius persikėlė į Didįjį Naugardą.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179378|Livonijos ordinas]]: Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes.
@@ -275,14 +234,12 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113193|Pskovo respublika]]: Pskovo ir Naugardo respublikose Vytauto įtaka buvo susilpnėjusi, nes jos labiau šliejosi prie Livonijos ordino ir Maskvos.
 - susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113197|Pskovo respublika]]: Vytauto įtaka Pskovo ir Naugardo respublikose buvo susilpnėjusi, nes jos labiau šliejosi prie Livonijos ordino ir Maskvos.
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186785|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Seversko Naugardą ir Starodubą Aukso ordos totoriai puolė 1501 m. rugsėjį, iki spalio 7 d.
-- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186636|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą.
 - susijęs iš [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską.md#claim-t-185592|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]: Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
 - susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186733|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: Komentaras karo priežastimi laiko Vytauto siekį plėsti įtaką Pskove ir Didžiajame Naugarde bei ten pasodinti savo vietininkus.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.).md#claim-t-35858|Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)]]: 1421 m. Livonijos ordinas sudarė amžiną taiką su Didžiuoju Naugardu.
 - susijęs iš [[objektai/ivykiai/Naugardo pasidavimas Vytautui ir duoklės nustatymas.md#claim-t-186601|Naugardo pasidavimas Vytautui ir duoklės nustatymas]]: Lietuvos metraštis pasakoja, kad Vytautas Naugardo vietininku paskyrė savo svainį Simoną Alšėniškį, vadinamą Rūsčiuoju.
 - susijęs iš [[objektai/ivykiai/Naugardo pasidavimas Vytautui ir duoklės nustatymas.md#claim-t-186603|Naugardo pasidavimas Vytautui ir duoklės nustatymas]]: Lietuvos metraštis nurodo, kad Naugardas Vytauto iždui kasmet mokėjo dešimt tūkstančių auksinų, žirgus ir kailius, o Pskovas davė pusę tiek.
 - susijęs iš [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.).md#claim-t-31477|Tautvilo nužudymas (apie 1263-1264 m.)]]: Apie 1263-1264 m. Treniota nužudė sosto varžovą Tautvilą, o Tautvilo sūnus pabėgo į Didįjį Naugardą.
-- susijęs iš [[objektai/ivykiai/Vytauto karas su Pskovu (1426 m. rugpjūtis).md#claim-t-186735|Vytauto karas su Pskovu (1426 m. rugpjūtis)]]: Per abu Vytauto karus su Pskovu Didysis Naugardas laikėsi neutraliteto.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardo žemę ir Porchovo apgultis.md#claim-t-186595|Vytauto žygis į Naugardo žemę ir Porchovo apgultis]]: Lietuvos metraštis pasakoja, kad Vytautas, šešis mėnesius nepaėmęs Porchovo, niokojo, degino ir ėmė nelaisvėn Naugardo bei Pskovo žemėje.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardo žemę ir Porchovo apgultis.md#claim-t-186596|Vytauto žygis į Naugardo žemę ir Porchovo apgultis]]: Lietuvos metraštis vaizduoja Vytautą siuntus pasiuntinius į Didįjį Naugardą ir Pskovą, kad miestai pripažintų jį valdovu ir mokėtų duoklę.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardo žemę ir Porchovo apgultis.md#claim-t-186597|Vytauto žygis į Naugardo žemę ir Porchovo apgultis]]: Lietuvos metraštis pasakoja, kad naugardiečiams ir pskoviečiams atsisakius duoklės Vytautas ištraukė į Naugardo žemę ir šešis mėnesius stovėjo prie Porchovo.
@@ -336,25 +293,18 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - susijęs iš Pskovas: Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.
 - susijęs iš Pskovas: Vėlesniais Vytauto valdymo metais Vilniaus prekyba išsišakojo su Pskovu, Naugardu, Maskva ir kitais kraštais.
 - susijęs iš Pskovas: Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi.
-- susijęs iš Pskovas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
-- susijęs iš Pskovas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
 - susijęs iš Rusa (Russ) upė Naugardo gubernijoje: Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė variagų atgabenta lietuvių tautos kolonija.
 - susijęs iš Severskas: Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lietuvos.
-- susijęs iš Seversko Naugardas: Seversko Naugardas buvo Seversko krašto sostinė, garsėjusi valdovo ir kitų žmonių turtais.
 - susijęs iš Seversko Naugardas: Seversko Naugarde nuo seno gyveno Seversko kunigaikščiai.
 - susijęs iš Seversko Naugardas: Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Kaributą.
-- susijęs iš Seversko žemė: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė: Černigovas, Starodubas, Naugardas ir Rylskas.
-- susijęs iš Starodubas: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
 - susijęs iš Tverė: Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai.
 - susijęs iš Tverė: Tverio-Riazanės kunigaikščiai buvo tarp atvykusių dalyvių kartu su Naugardo ir Pskovo kunigaikščiais.
-- susijęs iš Černigovas: Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.
-- susijęs iš Žemutinis Naugardas: Vasilijus Žemutinio Naugardo kunigaikštystėje įsirengė vadavietę ir asmeniškai prižiūrėjo žygį prieš Kazanės skitus.
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-187534|viečė]]: Polocko vyrai reikalus sprendė viečėje, kaip Didysis Naugardas ir Pskovas.
 - susijęs iš [[objektai/zodynas/vikariatas.md#claim-t-36853|vikariatas]]: Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose.
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97459|Kaributas]]: Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176709|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo.
+- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-199217|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara).md#claim-t-34520|Vytauto žygis į Naugardą (1428 m. vasara)]]: Naugardas pripažino Vytauto suverenitetą ir mokėjo jam duoklę.
-- susijęs iš Vilnius: Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176282|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.
 - susijęs iš [[objektai/asmenys/Baltramiejus (vyskupas).md#claim-t-30210|Baltramiejus (vyskupas)]]: Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.
 - susijęs iš [[objektai/asmenys/Bernardas (abatas).md#claim-t-30211|Bernardas (abatas)]]: Abatas Bernardas 1324 m. vasarop su vyskupu Baltramiejumi atvyko iš Avinjono į Rygą kaip popiežiaus legatas.
@@ -378,7 +328,6 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - susijęs iš [[objektai/asmenys/Spytkas iš Melštino.md#claim-t-96042|Spytkas iš Melštino]]: Spytkas iš Melštino buvo vienas iš lenkų didikų, rėmusių Vytauto reikalus.
 - susijęs iš [[objektai/asmenys/Stanislovas Strumila Petravičius.md#claim-t-186166|Stanislovas Strumila Petravičius]]: Stanislovas Strumila Petravičius, Smolensko vietininkas, derėjosi su Ivanu ir reikalavo atlyginti skriaudas.
 - susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64173|Teodoras (Liubarto sūnus)]]: Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176652|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176709|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176751|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Zenonas Ivinskis Vytautui priskyrė taupumą ir didelį švaistymąsi materialinėmis gėrybėmis, ypač siekiant pasirodyti užsieniečiams.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179707|Švitrigaila]]: Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi.
@@ -400,10 +349,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-188193|Herulai]]: Narbutas rašė, kad Vokietijoje, kur po Odoakro žūties įsikūrė herulai, buvo upė Ross arba Russ, vėliau vadinta Wessel.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116735|Katalikų Bažnyčia]]: 1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178916|Kryžiuočių ordinas]]: Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą Vytautą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178952|Kryžiuočių ordinas]]: Matomai Rygoje buvo įsitikinimas, kad kryžiuočiai Lietuvą greitai įveiks.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179225|Lietuviai]]: 1897 m. surašymo duomenimis, dabartinės Lietuvos ribose be Klaipėdos krašto gyveno apie 2,7 mln. žmonių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188279|Lietuviai]]: Narbutas spėjo, kad Rusos upės vardą Naugardo gubernijoje galėjo duoti variagų atgabenta lietuvių tautos kolonija.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-183155|Lietuvos Didžioji Kunigaikštystė]]: Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187721|Lietuvos Didžioji Kunigaikštystė]]: LDK ir Maskvos Didžiosios Kunigaikštystės 1406-1408 m. karo veiksmai vyko LDK rytų pasienyje, Ugros ir Okos upių ruože.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187725|Lietuvos kariuomenė]]: Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179379|Livonijos ordinas]]: Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179414|Livonijos ordinas]]: Livonijos ordinas sudarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą.
@@ -420,13 +368,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55084|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117311|Vokiečiai]]: Naugardiečiai teigė su vokiečiais sudarę atskirą taikos sutartį.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117314|Vokiečiai]]: Naugardiečiai teigė turėję atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176143|Žemaičiai]]: 1404 m. taikos politika laikinai apribojo Žemaičių prekybą, bet vėliau jie atgavo teises prekiauti su Aukštaičiais ir pardavinėjo prekes Dancigui.
-- susijęs iš [[objektai/ivykiai/Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę.md#claim-t-185699|Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę]]: Brianskas dėl rusų išdavystės buvo be vargo užimtas, o netrukus prie išdavikų prisidėjo visa Seversko žemė.
 - susijęs iš [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje.md#claim-t-86944|Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]: Vytautas suėmė Seversko kunigaikštį Dmitrijų Kaributą ir su žmona bei vaikais uždarė jį Vilniaus Aukštutinėje pilyje.
 - susijęs iš [[objektai/ivykiai/Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.).md#claim-t-95956|Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)]]: 1398 m. Gardine Vytautas sudarė preliminarinę sutartį su Ordinu, siekdamas laisvų rankų Rytuose ir santykiuose su lenkais.
-- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186633|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras, pats vadovaudamas Lietuvos pajėgoms, atsiėmė Smolenską.
-- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186637|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras vėl perdavė Smolensko valdymą Andriui Sakavičiui ir išvyko į Vilnių.
-- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186638|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį sutelkė Lietuvos pajėgas, pats vadovavo žygiui prie Smolensko ir miestą atsiėmė.
 - susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186731|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: Bychovco kronikos epizodas 1971 m. komentare aiškinamas kaip glaustas pasakojimas apie 1406–1408 m. LDK ir Maskvos Didžiosios Kunigaikštystės karus.
 - susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186732|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: Komentaro autoriaus manymu, Bychovco kronikoje turimas galvoje Vytauto vadovaujamos LDK kariuomenės žygis 1408 m. rudenį.
 - susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186734|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: 1406–1408 m. LDK ir Maskvos karų veiksmai vyko LDK rytų pasienyje, Ugros ir Okos upių ruože.
@@ -479,30 +422,16 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - susijęs iš Porchovas: Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 1000 rublių už belaisvius.
 - susijęs iš Prūsija: Salyno taikoje nutarta, kad lietuvių pirkliai Prūsijoje ir Livonijoje galės laisvai prekiauti be naujų muitų.
 - susijęs iš Prūsija: Lietuvių pirkliai Prūsijoje ir Livonijoje galėjo laisvai prekiauti be naujų muitų, išskyrus senuosius.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.
-- susijęs iš Pskovas: Kariaudamas su Pskovu, Vytautas pasitraukė tik miestui sutikus sumokėti 1000 rublių kontribucijos ir 450 rublių už belaisvius.
 - susijęs iš Pskovas: Vytauto pastangos Pskove pastatyti savo vietininką sukėlė naują konfliktą su Maskva.
-- susijęs iš Pskovas: 1411 metų pavasarį Polocke Pskovo pasiuntiniai atvyko pas Vytautą ir užmezgė taikingus santykius.
 - susijęs iš Pskovas: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
-- susijęs iš Pskovas: Polocke pas Vytautą atvykę Pskovo pasiuntiniai užmezgė su juo taikingus santykius.
-- susijęs iš Pskovas: Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
-- susijęs iš Pskovas: Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
-- susijęs iš Pskovas: Kariaudamas su Pskovu, Vytautas pasitraukė tik miestui sutikus sumokėti 1000 rublių kontribucijos ir 450 rublių už belaisvius.
-- susijęs iš Pskovas: Kariaudamas su Pskovu Vytautas pasitraukė tik tada, kai šis sutiko sumokėti 1000 rublių kontribuciją ir 450 rublių už belaisvius.
 - susijęs iš Pskovas: Į prieš Lietuvą nukreiptą koaliciją įsijungė Naugardo ir Pskovo žemės.
 - susijęs iš Rosė (Ross) upė Kijevo gubernijoje: Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą iš ten kadaise gyvenusių lietuvių genties tautų.
 - susijęs iš Rosė: Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė vardą gavusia iš lietuvių genties tautų.
-- susijęs iš Rylskas: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
 - susijęs iš Severskas: Vytautas, pasiuntęs lengvuosius raitelius persekioti bėgančiųjų, su pagrindinėmis jėgomis patraukė į Severską.
 - susijęs iš Silezija: Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
 - susijęs iš Smolenskas: Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.
 - susijęs iš Smolenskas: Po nesėkmingo sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Smolensko bei kelias kitas sritis.
 - susijęs iš Veliuona: Rugpjūtį prie Nemuno veikę kryžiuočiai, Ordinui sulaukus naujos pagalbos, sunaikino svarbią lietuvių Veliuonos pilį.
-- susijęs iš Vilnius: Gedimino valdymo metu Vilnius ėmė tapti gana svarbiu prekybos centru.
-- susijęs iš Vilnius: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė sutartį su Švitrigaila.
-- susijęs iš Vilnius: Gedimino valdymo laikais Vilnius ėmė darytis svarbiu prekybos centru.
-- susijęs iš Vilnius: Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.
-- susijęs iš Vitebskas: Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
 - susijęs iš Vitebskas: Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis.
 - susijęs iš Vitebskas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį.
 - susijęs iš Černigovas: Švitrigaila paėmė į savo valdžią Černigovo sritį.
@@ -511,11 +440,13 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - susijęs iš [[objektai/zodynas/bojarinai.md#claim-t-86459|bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje su Švitrigaila sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184649|vietininkas]]: Aleksandro pasiuntinys Stanislovas Strumila Petravičius buvo Smolensko vietininkas ir derėjosi su Ivanu dėl skriaudų atlyginimo.
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-187535|viečė]]: Lietuvos metraštis pasakoja, kad po Polocko kunigaikščio Glėbo mirties polockiečiai ėmė reikalus spręsti viečėje ir nebeturėjo valdovo.
-- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186636|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą.
 - susijęs iš [[objektai/asmenys/Filimeras.md#claim-t-190149|Filimeras]]: Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, išėjusiomis į rytus valdant Filimerui arba kiek vėliau.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188298|Prūsai]]: Narbutas spėja, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti lietuvių tautos kolonija, siejama su prūsų kolonistais Naugarde.
 - susijęs iš Livonija: Vytauto laikais Vilniaus prekyba plėtėsi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.
 - susijęs iš Livonija: Vytauto laikais Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais.
+- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-199216|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras vėl perdavė Smolensko valdymą Andriui Sakavičiui ir išvyko į Vilnių.
+- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-199218|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras, pats vadovaudamas Lietuvos pajėgoms, atsiėmė Smolenską.
+- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-199219|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį sutelkė Lietuvos pajėgas, pats vadovavo žygiui prie Smolensko ir miestą atsiėmė.
 - susijęs iš Vilniaus Aukštutinė pilis: Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.
 - susijęs iš Rosė (Ross) upė Kijevo gubernijoje: Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą iš ten kadaise gyvenusių lietuvių genties tautų.
 - susijęs iš Rosė: Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė vardą gavusia iš lietuvių genties tautų.
@@ -523,445 +454,6 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-190927|Motiejus Strijkovskis]]: Narbutas rašo, kad Strijkovskis savo laikais dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo ir kitur.
 - susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186598|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.
 - susijęs iš Švitrigailos sutartis su Didžiuoju Naugardu: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Sutvarkė reikalus su Smo­
-    lensku, kuriame irgi paliko savo vietininkus. Tą padarė ir su
-    Didž. Naugardu ir Maskva. Teko dabar jam ir naujų Rusijos
-    žemių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
-    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
-    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
-    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
-    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
-    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
-    džiai priimti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-    - t-008
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
-    sitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,
-    o už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­
-    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
-    10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­
-    vo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,
-    kurių žemės vėl būdavo užkariaujamos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-019
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas turėjo patrankų ir savo žygiuose į Pskovą
-    (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
-    veždavo 20 porų arklių prieš piet ir tiek pat po piet.
-    Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­
-    mis, mano, kad Vytauto amžiaus gale lietuvių artilerija buvo jau
-    nemenka ir kad to amato lietuviai išmokę iš kryžiuočiu; iš jų
-    retais atsitikimais gaudavę ir patranką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-
-- c-005
-  santrauka: '1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
-    taip gana ilgam sudrumstęs namų ramybę, privertė lenkus
-    gaišti dėl nesvarbių reikalų.
-    Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
-    vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­
-    keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų
-    miestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­
-    syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­
-    mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių
-    Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną
-    Sidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­
-    leisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar
-    250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
-    sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-    - t-006
-
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vis dėlto nereikėtų manyti, kad Vilnius
-    ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
-    patirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo. Juk
-    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
-    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
-    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
-    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
-    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
-    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
-    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
-    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
-    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
-    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
-    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
-    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
-    klestėti!
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-    - t-007
-
-- c-007
-  santrauka: '1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribucijos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Be mokesčių Vytautas didindavo dar savo pajamas ir kon­
-    tribucijomis. Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
-    sitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,
-    o už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­
-    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
-    10.000 rublių kontribucijos (1428).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-008
-  santrauka: 'Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
-    tai, net slaviškieji, ėmė prie jų šlietis. Prie karinės sąjungos, 1241 m.
-    Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė
-    D
-
-    ## Puslapis 22
-
-    ĮVADAS
-    Krokuva, Kališas ir Naugardas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-    - t-001
-
-- c-009
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vy­
-    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
-    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
-    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
-    nas padarė amžiną taiką ir su Naugardu D. (1421). Livonijos
-    Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai
-    jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
-    žemes.
-    Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
-
-    karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-010
-  santrauka: 'Livonijos Ordinas sudarė prieš Vytautą nukreiptą taiką su Pskovu 1417 m. ir Naugardu 1421 m., o tai pakenkė Bažnyčių unijai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kijeve ir apleisti tikinčiuosius. Livonijos Ordinas padarė
-    prieš Vytautą nukreiptą taiką su Pskovu (1417) ir Naugardu
-    (1421), kas Bažnyčių unijai dar labiau pakenkė. 1418 m. suo­
-    kalbininkai paleido iš Kremenco kalėjimo Jogailos brolį Švi­
-    trigailą, kuris mėgino sukelti didelę audrą Lietuvos Rytuose,
-    bet tas jam nepavyko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-011
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
-    plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
-    rė gyvą. Jo laikais jau būdavo saugu visuose kraštuose, ku­
-    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
-    Naugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus
-    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
-    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
-    jo lankytis tolimose provincijose, kur artimiau susipažino su
-    krikščioniškąja kultūra26.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-    - t-004
-
-- c-012
-  santrauka: 'Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
-    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
-    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
-    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
-    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
-    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
-    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
-    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
-    savo atvykimą iškart pranešti pilininkui4 3  44.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-013
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Išsi­
-    laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­
-    tai, sykiu su teutonų teise suvieniję atleidimą nuo įvairių duok­
-    lių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą
-    miesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­
-    zacijos požiūriu.
-    Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji
-    rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi
-    savo pačių valdžia galingi. Maskva tuomet dar tebuvo menka
-    gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
-    tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-
-- c-014
-  santrauka: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tačiau
-    šie, palyginti, dar nauji karo technikos pabūklai buvo tokie ne­
-    tobuli, kad Žalgirio mūšyje jie neturėjo jokios lemiančios reikš­
-    mės. Vytautas turėjo patrankų ir savo žygiuose į Pskovą
-    (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
-    veždavo 20 porų arklių prieš piet ir tiek pat po piet.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-
-- c-015
-  santrauka: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kaip
-    atlyginimą už išdavystę, prisiekdamas visomis švente­
-    nybėmis, pažadėjo, kad jie paveldėsią miestus ir kraš­
-    tus, kurie bus nuo Lietuvos atplėšti. Žmonės, didžiai
-    nepalankūs Aleksandrui bei Lietuvai dėl skirtingo ti-
-    558
-
-    ## Puslapis 557
-
-    kėjimo, netruko pasiduoti įkalbami ir užmiršti ankš­
-    čiau duotą žodį. Sutelkę jėgas, visi kartu užpuolė
-    Brianską ir dėl rusų klastingos išdavystės be vargo
-    užėmė miestą, o netrukus prie išdavikų prisidėjo visa
-    Seversko žemė — Černigovas, Starodubas, Naugardas ir
-    Rylskas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-021
-
-- c-016
-  santrauka: 'Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu pavedė jį valdyti Chaleckiui.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Sako, jog skitai,
-    laikydamiesi barbariškųjų papročių, šitaip sudarydavę
-    sutartis: ištraukę iš makštų kardus, pylė ant jų šaltą
-    vandenį ir jį, varvantį nuo aštrių ašmenų, vienas po
-    kito siurbė, pridurdami užkeikimo žodžius, kad, girdi,
-    tas, kas pirmas sulaužysiąs šią sutartį, žūsiąs nelygi­
-    nant šis vanduo. Laikydamasis šio susitarimo, Šich
-    Achmetas su šimtu tūkstančių raitelių užpuolė Severs-
-    ko žemę, baisiai siaubdamas valdas didikų, kurie atsi­
-    metė nuo Lietuvos ir prisijungė prie Maskvos. Staigiu
-    antpuoliu užėmęs Seversko Naugardą, Aleksandro var­
-    du jį bei kitas vietoves, pasidavusias geruoju, atidavė
-    valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru­
-    vinose kautynėse sumušė Mechmet
-    Girėjų, Krymo
-    kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
-    būriais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-022
-
-- c-017
-  santrauka: 'Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šį nu­
-    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
-    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
-    imtus bajorus. Todėl Jonas, išvaduodamas nuo nelaimės Po­
-    locko ponus, išjojo į Naugardą ir ten tapo vienuoliu. O Lietu­
-    vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
-    niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val­
-    dytų jį kaip vietininkas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-023
-
-- c-018
-  santrauka: 'Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti variagų atgabenta lietuvių kolonija.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Net Vokietijoje,
-    kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
-    Russ, vėliau imtą vadinti Wessel. Galbūt neįsižeis slavų seno­
-    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
-    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
-    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
-    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
-    sų gatve.
-    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
-    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
-    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
-    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
-    arba šiek tiek vėliau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-024
-
-- c-019
-  santrauka: 'Narbutas teigė, kad Vladimiras X a. Kijeve ir Naugarde pastatė Perkūno stabus, panašius į lietuvių Perkūno stabą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    O šios šventyklos aprašyme
-    istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
-    buvęs puošnesnis už kitus.
-    Lietuvių Perkūno stabas X amžiuje Šiaurėje buvo garsus,
-    kadangi Vladimiras, tapęs visos Šiaurės Rusios didžiuoju ku­
-    nigaikščiu, tokius pačius pastatė Kijeve ir Naugarde; tuo pa­
-    čiu metu tam dievui buvo pastatyta šventykla toje vietoje, kur
-    yra vadinamasis Perimo vienuolynas. Tai buvusi didžiulė sta­
-    tula, liemuo iš ąžuolo, galva sidabrinė, ūsai ir ausys auksinės,
-    kojos geležinės, kumštyje laikė kažką panašaus į žaibus23.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-025
-
-- c-020
-  santrauka: 'Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, bendravusią su Naugardo slavais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie juos senovės Graikijos
-    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
-    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
-    ir paties Herodoto išvardytų.
-    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
-    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
-    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
-    atskirą valstybę. Vėliau iš skandinavų legendų arba iš gana
-    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
-    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
-    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
-    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
-    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
-    mokėjo gana neblogai gintis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-026
-
 ## Citatos
 
 - id: c-37564
@@ -1000,8 +492,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94772
     - t-94769
+    - t-94772
 
 - id: c-37566
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1070,8 +562,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94778
     - t-94766
+    - t-94778
 
 - id: c-89826
   autorius: "Michał Baliński"
@@ -1100,8 +592,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94776
     - t-94767
+    - t-94776
 
 - id: c-89827
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1142,7 +634,6 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94773
     - t-94761
 
 - id: c-89829
@@ -1208,7 +699,6 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94771
     - t-94764
 
 - id: c-89836
@@ -1270,74 +760,14 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
     veždavo 20 porų arklių prieš piet ir tiek pat po piet.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184311
-
-- id: c-168421
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Kaip
-    atlyginimą už išdavystę, prisiekdamas visomis švente­
-    nybėmis, pažadėjo, kad jie paveldėsią miestus ir kraš­
-    tus, kurie bus nuo Lietuvos atplėšti. Žmonės, didžiai
-    nepalankūs Aleksandrui bei Lietuvai dėl skirtingo ti-
-    558
-
-    ## Puslapis 557
-
-    kėjimo, netruko pasiduoti įkalbami ir užmiršti ankš­
-    čiau duotą žodį. Sutelkę jėgas, visi kartu užpuolė
-    Brianską ir dėl rusų klastingos išdavystės be vargo
-    užėmė miestą, o netrukus prie išdavikų prisidėjo visa
-    Seversko žemė — Černigovas, Starodubas, Naugardas ir
-    Rylskas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185060
-
-- id: c-168422
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 566"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 566."
-  citata_originali: |
-    Sako, jog skitai,
-    laikydamiesi barbariškųjų papročių, šitaip sudarydavę
-    sutartis: ištraukę iš makštų kardus, pylė ant jų šaltą
-    vandenį ir jį, varvantį nuo aštrių ašmenų, vienas po
-    kito siurbė, pridurdami užkeikimo žodžius, kad, girdi,
-    tas, kas pirmas sulaužysiąs šią sutartį, žūsiąs nelygi­
-    nant šis vanduo. Laikydamasis šio susitarimo, Šich
-    Achmetas su šimtu tūkstančių raitelių užpuolė Severs-
-    ko žemę, baisiai siaubdamas valdas didikų, kurie atsi­
-    metė nuo Lietuvos ir prisijungė prie Maskvos. Staigiu
-    antpuoliu užėmęs Seversko Naugardą, Aleksandro var­
-    du jį bei kitas vietoves, pasidavusias geruoju, atidavė
-    valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru­
-    vinose kautynėse sumušė Mechmet
-    Girėjų, Krymo
-    kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
-    būriais.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185061
-
 - id: c-171662
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 213"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šį nu­
     siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
@@ -1357,8 +787,7 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - id: c-171663
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 227"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Net Vokietijoje,
     kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
@@ -1383,8 +812,7 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - id: c-171664
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 243"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 243."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O šios šventyklos aprašyme
     istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
@@ -1406,23 +834,23 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - id: c-171665
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 434"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie juos senovės Graikijos
-    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
-    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
-    ir paties Herodoto išvardytų.
-    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
-    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
-    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
-    atskirą valstybę. Vėliau iš skandinavų legendų arba iš gana
-    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
-    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
-    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
-    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
-    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
-    mokėjo gana neblogai gintis.
+    Ne be pagrindo tyrėjai sugalvojo susekti seniausią
+    tautų istoriją iš jų gimtosios kalbos, nes rezultatas dažniausiai
+    apvainikuodavo jų pastangas visiškai naujais, iki šiol visiškai
+    nežinomais ir visiškai tikrais atradimais. Nesigilinsime į tų at­
+    radimų smulkmenas, kaip teko su jais padirbėti; neturime nė
+    tikslo mėgdžioti etimologinius išvedžiojimus, kaip tik gana pa­
+    plitusius, kadangi visam laikui pasirinkome savo pačių atrastą
+    kelią, kuriame neturi būti vietos etimologinėms išmonėms, pri­
+    temptoms daiktų ir žodžių panašybėmis, išskyrus tik tas, ku­
+    rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
+    daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
+    tymo. Mechovita sako: „... linguagium Lithuanicum est quadri­
+    partitum: primum linguagium est Iaczuingomm, ut horum qui
+    circa castrum Drochicin inhabitarunt, et pauci supemint.
+  citata_rodoma: "Apie juos senovės Graikijos\ngeografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­\nnius pavadinimus iš daugelio Siaurės Europos gyventojų, kad\nir paties Herodoto išvardytų.\nIš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža\nką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-\ndo slavais ir palaikydama su jais santykius, vis dėlto sudarė\natskirą valstybę. Vėliau iš skandinavų legendų arba iš gana\nfragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­\nvusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,\nkad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­\njo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius\ndėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai\nmokėjo gana neblogai gintis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

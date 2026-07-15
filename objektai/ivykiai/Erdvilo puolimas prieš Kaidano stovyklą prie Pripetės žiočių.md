@@ -62,62 +62,29 @@ Nenurodyta
   teiginys: "Lietuviai išvijo Kaidano karius iš stovyklos, daug jų nukovė mūšyje ir persekiojo bėgančius prie Dnepro bei Pripetės."
   pagrindžia:
     - c-168927
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Kaidanas įrengė karo stovyklą prie Pripetės žiočių ir išsiuntė daug būrių krašto niokoti.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kaidanas, pasiuntiniams per
-    ilgai užsibuvus, įtarė, jog nesumani pasiuntinybė ap­
-    gaudinėjama atidėliojant reikalą ir persikėlė per Dnep-
-    rą, norėdamas savo siekius paremti ginklu ir jėga pri­
-    versti paklusti jo valdžiai. Pripetės žiotyse įrengęs ka­
-    ro stovyklą, jis išsiuntė galybę būrių krašto niokoti.
-    Tuo tarpu Erdvilas, vesdamas lietuvių ir žemaičių ka­
-    riaunas, be to, pasitelkęs iš Naugarduko ir Slonimo
-    mikliausių karių, patraukė slaptais girių takais į prie­
-    šą, kuris nė manyte nemanė, jog lietuviai taip arti, ir
-    užtiko barbarus, grasinančius ir tūžtančius dėl panie­
-    kintos pasiuntinybės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196142"></a>
+- t-004
+  global_id: t-196142
+  teiginys: "Erdvilas prieš aušrą išrikiavo po kelionės pailsėjusius karius ir įsiveržė į Kaidano stovyklą prie Pripetės žiočių."
   pagrindžia:
-    - t-001
+    - c-168925
 
-- c-002
-  santrauka: 'Erdvilas leido kariams pailsėti giriose, prieš aušrą juos išrikiavo kautynėms ir įsiveržė į Kaidano stovyklą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-168925
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo tarpu Erdvilas, vesdamas lietuvių ir žemaičių ka­
-    riaunas, be to, pasitelkęs iš Naugarduko ir Slonimo
-    mikliausių karių, patraukė slaptais girių takais į prie­
-    šą, kuris nė manyte nemanė, jog lietuviai taip arti, ir
-    užtiko barbarus, grasinančius ir tūžtančius dėl panie­
-    kintos pasiuntinybės. Pirmiausia Erdvilas leido savie­
+    Pirmiausia Erdvilas leido savie­
     siems, pavargusiems iš kelionės, šiek tiek giriose pa­
     silsėti, po to, kiek leido tamsa ir ankščia, išrikiavo ka­
     rius kautynėms, galop prieš pat aušrą, baisiai šaukda­
     mi ir smarkiai puldami, jie įsiveržė į stovyklą. Prie
     stovyklos prieigų ne kautynės vyko, o skerdynės: už­
     pultieji, vos pabudę, apkurtinti nepaprasto triukšmo,
-    krito nespėję nė ginklo pakelti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Lietuviai išvijo Kaidano karius iš stovyklos, daug jų nukovė mūšyje ir persekiojo bėgančius prie Dnepro bei Pripetės.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tiesa, kai buvę toliau
+    krito nespėję nė ginklo pakelti. Tiesa, kai buvę toliau
     nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
     vina kova. Galop nugalėję lietuviai išvijo barbarus iš
     stovyklos: galybė priešų krito mūšyje, kur kas dau­
@@ -125,59 +92,24 @@ Nenurodyta
     gėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo
     D u o k lės p ra ša n tiem s
     sk ita m s E rd vila s siu n ­
-    čia  d v i strė le s
+    čia d v i strė le s
     šaukęs pasiuntinius, jis atsi­
     sakė duoklės, paskelbė karą
     ir įteikė jų kunigaikščiui do­
-    vaną— dvi strėles. Atleidęs
-    pasiuntinius, įsakė juos klyst-
-    82
-
-    ## Puslapis 81
-
-    itin reikšminga, nes rusai vėliau ėmė rodyti lietuvių
-    valdovui ne tik didesnę pagarbą bei palankumą, bet
-    ir pastovesnę ištikimybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-## Citatos
-
-- id: c-168925
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 80."
-  citata_originali: |
-    Kaidanas, pasiuntiniams per
-    ilgai užsibuvus, įtarė, jog nesumani pasiuntinybė ap­
-    gaudinėjama atidėliojant reikalą ir persikėlė per Dnep-
-    rą, norėdamas savo siekius paremti ginklu ir jėga pri­
-    versti paklusti jo valdžiai. Pripetės žiotyse įrengęs ka­
-    ro stovyklą, jis išsiuntė galybę būrių krašto niokoti.
-    Tuo tarpu Erdvilas, vesdamas lietuvių ir žemaičių ka­
-    riaunas, be to, pasitelkęs iš Naugarduko ir Slonimo
-    mikliausių karių, patraukė slaptais girių takais į prie­
-    šą, kuris nė manyte nemanė, jog lietuviai taip arti, ir
-    užtiko barbarus, grasinančius ir tūžtančius dėl panie­
-    kintos pasiuntinybės.
+    vaną— dvi strėles.
+  citata_rodoma: "Pirmiausia Erdvilas leido savie­\nsiems, pavargusiems iš kelionės, šiek tiek giriose pa­\nsilsėti, po to, kiek leido tamsa ir ankščia, išrikiavo ka­\nrius kautynėms, galop prieš pat aušrą, baisiai šaukda­\nmi ir smarkiai puldami, jie įsiveržė į stovyklą. Prie \nstovyklos prieigų ne kautynės vyko, o skerdynės: už­\npultieji, vos pabudę, apkurtinti nepaprasto triukšmo, \nkrito nespėję nė ginklo pakelti. Tiesa, kai buvę toliau \nnuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­\nvina kova. Galop nugalėję lietuviai išvijo barbarus iš \nstovyklos: galybė priešų krito mūšyje, kur kas dau­\ngiau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­\ngėrusių Dnepro ir Pripetės duburiuose."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185564
+    - t-196142
 
 - id: c-168926
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 80."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tuo tarpu Erdvilas, vesdamas lietuvių ir žemaičių ka­
     riaunas, be to, pasitelkęs iš Naugarduko ir Slonimo
@@ -204,27 +136,24 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tiesa, kai buvę toliau
-    nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
-    vina kova. Galop nugalėję lietuviai išvijo barbarus iš
-    stovyklos: galybė priešų krito mūšyje, kur kas dau­
-    giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­
-    gėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo
-    D u o k lės p ra ša n tiem s
-    sk ita m s E rd vila s siu n ­
-    čia  d v i strė le s
-    šaukęs pasiuntinius, jis atsi­
-    sakė duoklės, paskelbė karą
-    ir įteikė jų kunigaikščiui do­
-    vaną— dvi strėles. Atleidęs
-    pasiuntinius, įsakė juos klyst-
-    82
-
-    ## Puslapis 81
-
-    itin reikšminga, nes rusai vėliau ėmė rodyti lietuvių
-    valdovui ne tik didesnę pagarbą bei palankumą, bet
-    ir pastovesnę ištikimybę.
+    Tuo pat metu miręs Vykin­
+    tas, Žemaitijos kunigaikštis, paliko savo įpėdiniu bro­
+    lį Erdvilą, tačiau šis, manydamas, jog vieno valdovo
+    per maža skirtingoms valstybėms, kaip per maža vie­
+    nos sielos į dvi dalis padalytam kūnui, be to, norėda­
+    mas atsiteisti už pagalbą, kurios neseniai sulaukė, per­
+    leido Živinbudui visas teises į Žemaitiją. Tačiau neilgai
+    trukus jis susirgo ir pasimirė, vyras, kuris pelnytai
+    priskirtinas prie žymiausių Lietuvos didvyrių.
+    Erdvilui mirus, Naugarduko kunigaikštystę valdyti
+    žemių. Polocko rusai savo valstybės valdymą buvo
+    perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
+    permainų priežastis buvo ta, kad per skitų karą buvo
+    netekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,
+    tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
+    rėkite, kad, susiradę kokį valdovą, neprarastumėte per
+    savo ištižimą laisvės, kurią iš priešų malonės gavote.
+  citata_rodoma: "Tiesa, kai buvę toliau\nnuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­\nvina kova. Galop nugalėję lietuviai išvijo barbarus iš\nstovyklos: galybė priešų krito mūšyje, kur kas dau­\ngiau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­\ngėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo\nD u o k lės p ra ša n tiem s\nsk ita m s E rd vila s siu n ­\nčia  d v i strė le s\nšaukęs pasiuntinius, jis atsi­\nsakė duoklės, paskelbė karą\nir įteikė jų kunigaikščiui do­\nvaną— dvi strėles. Atleidęs\npasiuntinius, įsakė juos klyst-\n82\n\n## Puslapis 81\n\nitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių\nvaldovui ne tik didesnę pagarbą bei palankumą, bet\nir pastovesnę ištikimybę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

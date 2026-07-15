@@ -35,25 +35,6 @@ LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi
   teiginys: "LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavimo ar juridinio įforminimo sparta."
   pagrindžia:
     - c-18361
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-
-    kė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui,
-    turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo). LDK, tu-
-    rinti dešimt skirtingų konfesijų, XVI a. šiuo požiūriu yra lyderė, palyginti
-    su margiausiomis Europos šalimis – Lenkija ir Transilvanija. LDK išsi-
-    skiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-
-    mo ar juridinio įforminimo sparta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

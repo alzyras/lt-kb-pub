@@ -42,39 +42,12 @@ Dusburgietis teigia, kad slupas) Šternbergas Štraisbergas (Straisbergk; vėlia
 - susijęs iš [[objektai/ivykiai/Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas.md#claim-t-59429|Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas]]: Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą.
 - susijęs iš Lubava: Sūduviai įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.
 - susijęs iš Torunė: Prie Torunės priėjusi kariuomenė sudegino ligoninę ir kitus už miesto sienų buvusius degius objektus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Štraisbergas buvo vadintas Straisbergku, vėliau Strasburgu, o dabar yra Brodnica.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šilinė
-    Šipenas
-    Škeršpyliai (Skeršpilė)
-    Šnikenbergas
-    Španheimas
-    Štarkenbergas
-    Štarkenbergas I-sis (netoli Ščepankų)
-    Štarkenbergas II-sis (dab. Slupas)
-    Šternbergas
-    Štraisbergas (Straisbergk; vėliau Strasburg, dab. Brodnica)
-    Štumas (žr. Stuma)
-    Šuršynai (Schorschienen, dab.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59386
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 319"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 319."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šilinė
     Šipenas

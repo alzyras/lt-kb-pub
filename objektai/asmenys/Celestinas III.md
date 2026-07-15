@@ -7,6 +7,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - kraštas
+  - ordinas
   - popiežius
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -42,6 +44,13 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   teiginys: "Celestinas III Jeruzalėje įkūrė ir pašventino Šv. Marijos Teutonų ordino vienuolių ligoninę."
   pagrindžia:
     - c-60857
+
+<a id="claim-t-197063"></a>
+- t-003
+  global_id: t-197063
+  teiginys: "Štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
+  pagrindžia:
+    - c-60857
 - susijęs iš [[objektai/asmenys/Popiežius Celestinas III.md#claim-t-60480|Popiežius Celestinas III]]: Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178851|Kryžiuočių ordinas]]: Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183885|Kryžiuočių ordinas]]: Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.
@@ -55,55 +64,12 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - susijęs iš Jeruzalė: Popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę ir paskyrė septynis brolius kraštų valdytojais.
 - susijęs iš Jeruzalė: Popiežius Celestinas III Jeruzalėje įkūrė ir pašventino Švč. Marijos Teutonų ordino vienuolių ligoninę.
 - susijęs iš [[objektai/zodynas/landkomtūras.md#claim-t-58912|landkomtūras]]: Popiežius Celestinas III paskyrė septynis Teutonų ordino brolius landkomtūrais, arba provincijų valdytojais.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Popiežius Celestinas III Jeruzalėje įkūrė Šv. Marijos Teutonų ordino ligoninę ir paskyrė septynis kraštų valdytojus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
-    žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies
-    įvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t. y.
-    septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje
-    įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis
-    šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,
-    Vokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų
-    niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Celestinas III Jeruzalėje įkūrė ir pašventino Šv. Marijos Teutonų ordino vienuolių ligoninę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Štai šis popiežius Celestinas
-    III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
-    naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151  ir „išsikirto
-    septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus,
-    būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos  ir Armėnijos152,
-    kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo
-    pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
-    šulai, o kiti broliai—sienos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-60856
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 17"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
     žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies
@@ -124,20 +90,26 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - id: c-60857
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 36"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Štai šis popiežius Celestinas
     III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
-    naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151  ir „išsikirto
+    naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto
     septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus,
-    būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos  ir Armėnijos152,
+    būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos ir Armėnijos152,
     kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo
     pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
-    šulai, o kiti broliai—sienos.
+    šulai, o kiti broliai—sienos. Šitaip jo šventenybė popiežius pasekė tuo išmintingu vyru,
+    pasistačiusiu savo namą ant uolos ir pasakiusiu (Jn 6, 63): „Aš sutvirtinau jo šulus“.
+    Kadangi parašyta: „Dvasia teikia gyvybę, o kūnas nieko neduoda“, todėl buvo reikalingi
+    šiam namui septyni kitoniški šulai — dvasiniai, kurių trimis, būtent: klusnumu, neturtu ir
+    skaistybe, rėmėsi visiems privaloma drausmė, o keturi kiti, būtent: gailestis nusidėjus,
+    nuodėmių išpažinimas, atgaila ir gausius nusidėjimus atperkanti artimo meilė, tramdė
+    šventuoju pagarbumu tuos, kurie atbuko karštam teisybės ieškojimui.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60225
+    - t-197063

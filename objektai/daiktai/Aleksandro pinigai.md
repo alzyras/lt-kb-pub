@@ -50,22 +50,6 @@ Nenurodyta
   teiginys: "Aleksandro pinigai sąraše nurodomi pinigėlis, pusskatikis ir skatikas."
   pagrindžia:
     - c-01416
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo
-    kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
-    **Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_
-    (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

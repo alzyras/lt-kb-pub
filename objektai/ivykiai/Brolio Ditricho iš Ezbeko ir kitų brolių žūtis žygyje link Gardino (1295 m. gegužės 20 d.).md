@@ -7,13 +7,14 @@ datos:
   - '1295 m.'
 date_start: '1295'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - mūšis
-amziai:
-  - 'XIII'
+  - pilis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -64,22 +65,35 @@ Nenurodyta
   teiginys: "Po to broliai nuplaukė beveik iki Junigedos pilies."
   pagrindžia:
     - c-66717
-## Reikšmingi paminėjimai
 
+<a id="claim-t-196933"></a>
+- t-003
+  global_id: t-196933
+  teiginys: "Kai apie tai išgirdo Sklunijos valsčiaus vyrai, sugrąžino, gailėdamiesi nusikaltę, Karaliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo."
+  pagrindžia:
+    - c-66716
+
+<a id="claim-t-196934"></a>
+- t-004
+  global_id: t-196934
+  teiginys: "Vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai, ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas."
+  pagrindžia:
+    - c-66717
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1295 m. gegužės 20 d. laivų mūšyje prie Gardino žuvo brolis Ditrichas iš Ezbeko ir dar vienas Ordino brolis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei
-                                            netikėlių žūtį
-
-      1295 viešpaties metais, penktadienį prieš sekmines (gegužės 20), 5 broliai ir šimtas
-    penkiasdešimt vyrų iš Sembos ir Notangos išjojo link Gardino pilies; kai priartėjo prie
-    pilies, jie nutarė, palikę arklius, plaukti Nemunu žemyn; apiplėšę Nemuno pakrantėje
-    vieną lietuvių kaimą, nukovę ir paėmę į nelaisvę daug žmonių, vėl nuplaukė tolyn. Šitai
-    matydami, netikėliai pastojo jiems kelią, o šiame laivų mūšyje krito brolis Ditrichas iš
-    Ezbeko ir dar vienas brolis, vardu [..?] iš Feringės. Vis dėlto lietuviai neteko 70 prityrusių
-    karių, žuvusių kovoje.
+    Po to Karaliaučiaus komtūras negaišdamas sugrįžo
+    su kariuomene iš Vonsdorfo [Unzatrapio] valsčiaus, norėdamas sutramdyti Notangos
+    maištą. Kai apie tai išgirdo Sklunijos valsčiaus vyrai, sugrąžino, gailėdamiesi nusikaltę,
+    Karaliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo. Kiti
+    sugrąžino belaisvius, ir šitaip Notangos žemėje įsiviešpatavo ramybė. Vis dėlto, kai
+    Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
+    ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
+    bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
+    kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: saltinio_teiginys
@@ -87,61 +101,55 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Po to broliai nuplaukė beveik iki Junigedos pilies.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
-    įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai
-    nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus. Viešpaties
-    padedami, kiti paspruko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - t-003
 
 ## Citatos
 
 - id: c-66716
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 188"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei
-                                            netikėlių žūtį
-
-      1295 viešpaties metais, penktadienį prieš sekmines (gegužės 20), 5 broliai ir šimtas
-    penkiasdešimt vyrų iš Sembos ir Notangos išjojo link Gardino pilies; kai priartėjo prie
-    pilies, jie nutarė, palikę arklius, plaukti Nemunu žemyn; apiplėšę Nemuno pakrantėje
-    vieną lietuvių kaimą, nukovę ir paėmę į nelaisvę daug žmonių, vėl nuplaukė tolyn. Šitai
-    matydami, netikėliai pastojo jiems kelią, o šiame laivų mūšyje krito brolis Ditrichas iš
-    Ezbeko ir dar vienas brolis, vardu [..?] iš Feringės. Vis dėlto lietuviai neteko 70 prityrusių
-    karių, žuvusių kovoje.
+    Tačiau dievas, kuris neleidžia, kad juo įtikėjusios
+    tautos drebėtų iš baimės ir, gailestingai teikdamas taiką, saugo krikščionių žemes nuo
+    visokiausių priešų, dieviška šviesa palaužė širdį kai kuriems atskalūnams, kurie atskleidė
+    visas šios piktadarystės paslaptis. Po to Karaliaučiaus komtūras negaišdamas sugrįžo
+    su kariuomene iš Vonsdorfo [Unzatrapio] valsčiaus, norėdamas sutramdyti Notangos
+    maištą. Kai apie tai išgirdo Sklunijos valsčiaus vyrai, sugrąžino, gailėdamiesi nusikaltę,
+    Karaliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo. Kiti
+    sugrąžino belaisvius, ir šitaip Notangos žemėje įsiviešpatavo ramybė. Vis dėlto, kai
+    Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
+    ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
+    bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
+    kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti.
+  citata_rodoma: "Po to Karaliaučiaus komtūras negaišdamas sugrįžo \nsu kariuomene iš Vonsdorfo [Unzatrapio] valsčiaus, norėdamas sutramdyti Notangos \nmaištą. Kai apie tai išgirdo Sklunijos valsčiaus vyrai, sugrąžino, gailėdamiesi nusikaltę, \nKaraliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo. Kiti \nsugrąžino belaisvius, ir šitaip Notangos žemėje įsiviešpatavo ramybė. Vis dėlto, kai \nKaraliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai, \nypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius \nbei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų, \nkuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66504
+    - t-196933
 
 - id: c-66717
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 188"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
-    įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai
-    nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus. Viešpaties
-    padedami, kiti paspruko.
+    Vis dėlto, kai
+    Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
+    ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
+    bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
+    kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti. Vis dėlto
+    po 14 dienų Karaliaučiaus pilyje magistro bei brolių akivaizdoje jis atskleidė visas šios
+    atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus. Todėl magistras ir
+    kiti, turėdami omenyje, kad nebaudžiamas nusikaltimas skatina daugiau nusikalsti,
+    įsakė visus, kurie turėjo šiokio tokio ryšio su tuo šlykščių nusižengimu, teisingojo dievo
+    nuosprendžiu visaip iškankintus nužudyti, ir šitaip krikščionims buvo sugrąžinta taika.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66505
+    - t-196934

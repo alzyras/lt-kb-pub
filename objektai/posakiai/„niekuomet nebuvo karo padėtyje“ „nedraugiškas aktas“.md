@@ -50,49 +50,6 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
   teiginys: "Prie 1920 m. liepos 12 d. taikos sutarties 2 straipsnio sovietai įbruko slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu."
   pagrindžia:
     - c-23654
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvai pripažinta teritorija buvo gana
-    artima 1795 m. teritorijai. Tačiau už tai A. Jofė paprašė karinės sąjungos
-    su Sovietų Rusija (lietuviai apie tai pranešė britams, manydami su jų pa-
-    rama sumažinti lenkų apetitus Vilniui, tačiau prancūzai tokius ketinimus
-    neutralizavo). Toliau kaudamiesi dėl didesnės teritorijos Rytuose, moty-
-    vuodami jos dydį katalikų tikėjimo paplitimu, etnografiniais ir istoriniais
-    duomenimis, pasitelkę savo delegacijos narių žydų (S. Rozenbaumo) ir
-    baltarusių (D. Semaško) argumentus, lietuviai patenkino dar vieną A.
-    Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo
-    karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
-    sutartimi“).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Prie 1920 m. liepos 12 d. taikos sutarties 2 straipsnio sovietai įbruko slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Apskritai 1920 m. liepos 12 d.
-    pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-
-    matijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su
-    Lenkija. Negalėjo šios sutarties ignoruoti ir Vakarų valstybės.
-    Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko
-    slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su
-    Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedrau-
-    giškas aktas“ prieš Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

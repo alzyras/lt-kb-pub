@@ -35,8 +35,8 @@ Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas nepriei
   teiginys: "Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas neprieinamas kalnas, į kurį turėjo kopti vėlės."
   pagrindžia:
     - c-172162
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas neprieinamas kalnas, į kurį turėjo kopti vėlės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -59,14 +59,24 @@ Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas nepriei
 - id: c-172162
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 388"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 388."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Padavimų apie pobūvio vietą po mirties būta tokių . Yra
-    labai aukštas kalnas, stati neprieinama uola, vadinama Ana­
-    piliu (Anafielas), į kurią vėlės turėjo kopti. Todėl reikėjo ilgų
-    žmonių, žvėrių nagų, ginklų, žirgų ir 1.1., kad būtų galima grei­
-    čiau į ją įkopti.
+    Autorius pradeda nuo Rytų krikščionių, žinomų manichė-
+    jų vardu, Agapijo mokymo sekėjų, nušviesdamas ereziją pa­
+    gal Fotijaus aprašymą, plačiai svarsto apie tą sektą. Apie tai,
+    kaip apie šiaip jau žinomą ir svetimą mūsų objektui dalyką,
+    nekalbėsime.
+    Toliau rankraštyje rašoma taip: „Niekas negali įvykti be
+    Aukščiausiojo valios, ir labai dažnai didžiausi žmonių proto
+    pamišimai yra pamokymas ir perspėjimas ištikimiesiems Kris­
+    tuje, idant žmonių ganytojai budriai užkirstų kelią blogybei,
+    idant altoriaus tarnų akylas uolumas šventai laikytųsi tiesos
+    kelių; idant geriau nušviestų daugelį naudingų Dievo bažny­
+    čios tiesų ir aiškiau išguldytų kovoje su eretikais; pagaliau idant
+    išplatintų šventąjį tikėjimą per krikščionis, persekiojamus trė­
+    mimo bausmės ir savo noru bėgančius į tolimas ir nežinomas
+    šalis, kad išvengtų persekiojimo“.
+  citata_rodoma: "Padavimų apie pobūvio vietą po mirties būta tokių . Yra\nlabai aukštas kalnas, stati neprieinama uola, vadinama Ana­\npiliu (Anafielas), į kurią vėlės turėjo kopti. Todėl reikėjo ilgų\nžmonių, žvėrių nagų, ginklų, žirgų ir 1.1., kad būtų galima grei­\nčiau į ją įkopti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

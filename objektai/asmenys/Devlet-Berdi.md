@@ -25,43 +25,16 @@ media_all_json: |-
 
 ## Santrauka
 
-Ir jis davė jiems kitą chaną, vardu Devlet-Berdi 9 .
+Lietuvos metraštis pasakoja, kad Vytautas Ordai paskyrė kitą chaną, vardu Devlet-Berdi.
 
 ## Teiginiai
 
 <a id="claim-t-194130"></a>
 - t-001
   global_id: t-194130
-  teiginys: "Ir jis davė jiems kitą chaną, vardu Devlet-Berdi 9 ."
+  teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas Ordai paskyrė kitą chaną, vardu Devlet-Berdi.'
   pagrindžia:
     - c-176743
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ir jis davė jiems kitą chaną, vardu Devlet-Berdi 9 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    186
-
-    ## Puslapis 180
-
-    Nedaug laiko praėjus [ir jam pasitraukus], Ordos
-    didieji kunigaikščiai, niekaip nedrįsę supykdyti šlo­
-    vingąjį valdovą, didįjį kunigaikštį Vytautą, ir be jo
-    rankos išsirinkti sau chaną, nusiuntė pasiuntinius, pa­
-    garbą reikšdami ir prašydami iš jo chano. Ir jis davė
-    jiems kitą chaną, vardu Devlet-Berdi 9 .
-    Kaip upė, tekėdama per visą šalį, pagirdo žmones
-    ir gyvulius, bet pati neišsenka, taip ir šlovingasis val­
-    dovas skiria Ordai daugybę chanų, o pas jį dar dau­
-    giau lieka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -89,4 +62,4 @@ Ir jis davė jiems kitą chaną, vardu Devlet-Berdi 9 .
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194130
+    - t-001

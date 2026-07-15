@@ -100,111 +100,8 @@ Nenurodyta
   teiginys: "Narbutas, remdamasis Nestoro išsaugotu gyvenimo paveikslu, rašo, kad krivičiai degindavo mirusiuosius ir laidotuvėse rengdavo turnyrus."
   pagrindžia:
     - c-175298
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Aisčiai manė, kad mirusiam žmogui būsią
-    reikalinga turėti tų pačių reikmenių ir įrankių, kuriuos turėjęs
-    šiame pasauly. Todėl, laidodami lavonus, jie įdėdavo į kapą įvai-
-    rių daiktų: pabalnotų arklių, ginklų, papuošalų ir kitko. Tik pat-
-    sai laidojimo būdas buvo nevienodas. Vieni žmonės, ypač žy-
-    mesnieji, pirma buvo sudeginami ant laužo, o paskui buvo lai-
-    dojami jų ir kartu sudeginto turto pelenai; kiti buvo laidojami
-    su daiktais nesudeginti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau aisčiai tikėjo, kad mirusiųjų vėlės nesiskiriančios nuo
-    šeimų ir gyventos aplinkos: jos apsigyvenančios gyvuliuose ar
-    medžiuose, augančiuose ant jų kapų, ir būnančios savo šeimų
-    globėjos. Todėl būdavo ruošiamos specialios vėlių garbinamo-
-    sios šventės, vadinamosios vėlinės; tuomet joms būdavo
-    aukojamos įvairios aukos. Vėlėms kiekvienos puotos metu že-
-    mėn būdavo nuliejama gėrimų ir numetama maisto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Įdomiai Wulfstanas pasakojo apie prūsų laidojimo papročius.
-    «Aisčiai» moką išlaikyti užšaldytus lavonus net vasaros karščių
-    metu. Nesudegintą lavoną laikydami du mėnesius ir daugiau (o
-    turtingųjų ir « kunigų » net iki pusės metų), per tą laiką iš įniru­
-    siojo turto keldavę puotas. Jeigu kas likdavo, buvo išbaigiama
-    dalybomis per arklių lenktynes (SRP, I, 735-5).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dėl to buvo paprotys, kad mirus kilmingam žmo­
-    gui (edelin) ginklus ir arklį, tarnus (knechte), moteris (meide),
-    brangius apdarus, kurtus ir sakalus ir daug kitų padargų, rei­
-    kalingų karo žygyje buvo sudeginama kartu su lavonu. Taip
-    pat su paprasto žmogaus lavonu buvo deginama visa, kas
-    priklausė jo užsiėmimui. Mat, visi tokie daiktai kartu su jais,
-    pagal jų tikėjimą, turėjo prisikelti iš numirusių ir tarnauti
-    toliau, kaip anksčiau tarnavo”1 2).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kur ir kaip vėlės aname pasauly laikėsi ir patiems tikin­
-    tiesiems nebuvo aišku. Būta kažkokios dausų sąvokos. Gy­
-    vieji, rūpindamiesi vėlių likimu, šaukdavosi į Žeminę, nuliedami
-    jai gėrimo ar numesdami valgio, ypač vėlinių dienomis. Ti­
-    kėta vėles pereinant į gyvulius, medžius ir kitus gamtos kūnus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Patobulėjo ginklų, įrankių ir papuošalų formos.
-    Mirusiųjų kapai ėmė darytis žymiai turtingesni. Išpuošiami net
-    drauge pakasami žirgai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-007
   santrauka: 'Narbutas, remdamasis Nestoro išsaugotu gyvenimo paveikslu, rašo, kad krivičiai degindavo mirusiuosius ir laidotuvėse rengdavo turnyrus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -348,8 +245,7 @@ Nenurodyta
 - id: c-175298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 341"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo
     su krivičiais, o ne krivičių Smolenską, nes iš daugelio
@@ -359,7 +255,12 @@ Nenurodyta
     Be to, reikia pridurti nors ir nepilną, tačiau Nestoro
     išsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­
     jų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių
-    metu rengdavo turnyrus.
+    metu rengdavo turnyrus. Visa tai išliko Prūsijoje. Jie
+    nekalbėjo slaviškai, nes Nestoras nemini jų tarp slaviškų
+    genčių; jų kalba buvo labiau gimininga slavų kalbai:
+    Slėceris šias dvi kalbas skelbia esant antro giminystės
+    laipsnio.
+  citata_rodoma: "Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo\nsu krivičiais, o ne krivičių Smolenską, nes iš daugelio\ntos genties šakų lengvai galėjo atsirasti viena, kuri, kaip\nir Polocko, galėjo būti palankesnė rusams ir prisidėti\nprie Olego.\nBe to, reikia pridurti nors ir nepilną, tačiau Nestoro\nišsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­\njų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių\nmetu rengdavo turnyrus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

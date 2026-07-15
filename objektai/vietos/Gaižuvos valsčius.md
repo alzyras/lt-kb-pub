@@ -7,13 +7,13 @@ datos:
   - '1294 m.'
 date_start: '1294'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,33 +57,8 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
     - c-86227
 - susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-62737|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurios įsiveržė į Paštuvos ir Gaižuvos valsčius ir juos nusiaubė gaisrais.
 - susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-62738|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: Per 1294 m. žiemos žygį Paštuvos ir Gaižuvos valsčius puolusi kariuomenė vidurnaktį ginkluota perėjo Nemuną ledu.
-- susijęs iš [[objektai/ivykiai/Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis.md#claim-t-185754|Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis]]: Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir ugnimi nusiaubė Paštuvos bei Gaižuvos valsčius.
+- susijęs iš [[objektai/ivykiai/Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis.md#claim-t-185754|Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis]]: Kojelavičiaus pasakojime magistras Meinhardas su didele kariauna įsiveržė į Lietuvą ir žiauriai nusiaubė Paštuvos bei Gaižuvos valsčius.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Paštuvos ir Gaižuvos valsčių nuniokojimą
-
-      1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
-    savo kariuomene įsiveržti  į Ariogalos valsčių, bet leidosi atkalbamas. Tada jis padalijo
-    savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o
-    kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei
-    paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.
-
-
-
-
-                    256 (249).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-
 - c-002
   santrauka: 'Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir juos niokojo gaisrais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -109,43 +84,38 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 - id: c-86227
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 185"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Paštuvos ir Gaižuvos valsčių nuniokojimą
-
-      1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
-    savo kariuomene įsiveržti  į Ariogalos valsčių, bet leidosi atkalbamas. Tada jis padalijo
+    1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
+    savo kariuomene įsiveržti į Ariogalos valsčių, bet leidosi atkalbamas. Tada jis padalijo
     savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o
     kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei
     paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.
-
-
-
-
-                    256 (249).
+    256 (249).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90368
     - t-90366
+    - t-90368
 
 - id: c-86228
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 181"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 181."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    246 (239). Apie Paštuvos ir Gaižuvos valsčių apiplėšimą
-
-      Tuo metu  brolis Meinhardas, magistras, nesitenkindamas lietuviams  pridarytais
-    nuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius,
-    viską čia didžiausiais gaisrais niokodamas, tiesa,  į nelaisvę paėmė ir nužudė nedaug
-    žmonių, o grobio irgi mažai išsigabeno. Begrįžtantį jį persekiojo lietuviai ir kelis kartus
-    kapo esantis Pilies (Ramybės) kalnas (atrodo, XV a. pradžioje jame buvusi atstatyta
-    Veliuonos pilis — LAA, 2, p. 179, Nr. 805).
+    Apie Lenkijos žemės apiplėšimą
+    Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele
+    kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių
+    nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę, Kazimieras bei Lokietka, Lenkijos
+    kunigaikščiai, nerimaudami dėl savo žmonių likimo, paprašė brolį Meinhardą, Prūsijos
+    magistrą, pagalbos. Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji
+    kunigaikščiai pasileido bėgti su visais savo lenkais. Sitai matydami, broliai nusigando ir,
+    neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
+    nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
+    pavyko garbingai išvengti kovos.
   citata_rodoma: "Apie Paštuvos ir Gaižuvos valsčių apiplėšimą\n\n  Tuo metu  brolis Meinhardas, magistras, nesitenkindamas lietuviams  pridarytais\nnuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius,\nviską čia didžiausiais gaisrais niokodamas, tiesa,  į nelaisvę paėmė ir nužudė nedaug\nžmonių, o grobio irgi mažai išsigabeno. Begrįžtantį jį persekiojo lietuviai ir kelis kartus\nkapo esantis Pilies (Ramybės) kalnas (atrodo, XV a."
   statusas: verified
   teiginio_tipas: faktas

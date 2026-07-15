@@ -43,25 +43,6 @@ Bet iki Vy­ tauto laikų nebuvo kreipta dėmesio į titulus: tas klausimas visu
   teiginys: "„Pamiętniki Albrychta Stanisława Radziwiłła“ buvo 1839 m. Poznanėje išleistas rankraščio leidimas."
   pagrindžia:
     - c-90793
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Pamiętniki Albrychta Stanisława Radziwiłła“ buvo 1839 m. Poznanėje išleistas rankraščio leidimas.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet iki Vy­
-    tauto laikų nebuvo kreipta dėmesio į titulus: tas klausimas visu
-
-    (^1) ) Pamiętniki Albrychta Stanisława Radziwiłła, kancl. w Litwy, wy­
-    dany z rękopiśmu przez Ed. Raczyńskiego, w Poznaniu 1839, t. I — 326,
-    327 p. (1636 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

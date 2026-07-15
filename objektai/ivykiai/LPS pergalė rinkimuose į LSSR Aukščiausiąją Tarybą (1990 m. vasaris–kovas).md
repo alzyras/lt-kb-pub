@@ -57,25 +57,6 @@ Nenurodyta
   teiginys: "Per 1990 m. vasario–kovo rinkimus į LSSR Aukščiausiąją Tarybą LPS iškelti ir paremti atstovai gavo 96 iš 133 vietų."
   pagrindžia:
     - c-22986
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors M. Gorbačiovas aiškino, kad vienintelė Lietuva iš socializmo išsun-
-    kė viską, kas geriausia, Lietuvai stigo esminio tikslo – nepriklausomybės.
-    Sąjūdis jautė savo jėgą – per 1990 m. vasario–kovo rinkimus į LSSR
-    Aukščiausiąją Tarybą iš išrinktų 133 deputatų LPS iškelti ir paremti at-
-    stovai gavo net 96 vietas. Tapo aišku, kad Lietuva pasuko nauju keliu,
-    komunistų partija neteko vienvaldystės, o dauguma žmonių yra aiškiai
-    apsisprendę dėl Lietuvos nepriklausomybės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

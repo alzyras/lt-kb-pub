@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl lietuvių senovės nagrinėjimą baigia kalbos tema.
+Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl lietuvių senovės nagrinėjimą baigia kalbos tema. Skaitytojui gali pasirodyti keista, kad lietuvių tautos seno vės nagrinėjimą šiame tome baigiame tuo, nuo ko reikėjo pra dėti, nes kalba yra pirmutinis tautų istorijos paminklas.
 
 ## Teiginiai
 
@@ -35,38 +35,20 @@ Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl 
   teiginys: "Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl lietuvių senovės nagrinėjimą baigia kalbos tema."
   pagrindžia:
     - c-172470
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl lietuvių senovės nagrinėjimą baigia kalbos tema.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vilniuje lietuviškus pamokslus kunigai iš ambonų
-    sakydavo iki XVII amžiaus pirmojo ketvirčio .
-    Skaitytojui gali pasirodyti keista, kad lietuvių tautos seno­
-    vės nagrinėjimą šiame tome baigiame tuo, nuo ko reikėjo pra­
-    dėti, nes kalba yra pirmutinis tautų istorijos paminklas. Ta­
-    čiau mūsų buvo sumanyta pirma supažindinti su tautos vai­
-    kyste, arba su visu tuo, ką tauta sukūrė savo gyvenimo pra­
-    džioje, kol dar nebuvo suformavusi kalbos, tai yra tauta pirma
-    turėjo savo visuomenę sunorminti ir įvesti joje tam tikrą tvar­
-    ką, išplėtoti fizinius ir dvasinius poreikius, išmėginti likimą,
-    19 Dziennik Warszawski.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197383"></a>
+- t-002
+  global_id: t-197383
+  teiginys: "Skaitytojui gali pasirodyti keista, kad lietuvių tautos seno vės nagrinėjimą šiame tome baigiame tuo, nuo ko reikėjo pra dėti, nes kalba yra pirmutinis tautų istorijos paminklas."
   pagrindžia:
-    - t-001
+    - c-179160
 
 ## Citatos
 
 - id: c-172470
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 437"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 437."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vilniuje lietuviškus pamokslus kunigai iš ambonų
     sakydavo iki XVII amžiaus pirmojo ketvirčio .
@@ -85,3 +67,29 @@ Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189584
+
+- id: c-179160
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Yra dokumen­
+    tinių įrodymų, jog teismuose XVI amžiuje nuosprendžius saky­
+    davo lietuviškai, o į knygas įrašydavo rusiškai, lotyniškai arba
+    lenkiškai . Vilniuje lietuviškus pamokslus kunigai iš ambonų
+    sakydavo iki XVII amžiaus pirmojo ketvirčio .
+    Skaitytojui gali pasirodyti keista, kad lietuvių tautos seno­
+    vės nagrinėjimą šiame tome baigiame tuo, nuo ko reikėjo pra­
+    dėti, nes kalba yra pirmutinis tautų istorijos paminklas. Ta­
+    čiau mūsų buvo sumanyta pirma supažindinti su tautos vai­
+    kyste, arba su visu tuo, ką tauta sukūrė savo gyvenimo pra­
+    džioje, kol dar nebuvo suformavusi kalbos, tai yra tauta pirma
+    turėjo savo visuomenę sunorminti ir įvesti joje tam tikrą tvar­
+    ką, išplėtoti fizinius ir dvasinius poreikius, išmėginti likimą,
+    19 Dziennik Warszawski.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197383

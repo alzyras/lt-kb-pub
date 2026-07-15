@@ -9,12 +9,12 @@ datos:
   - '1900 m.'
 date_start: '1801'
 date_end: '1900'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,8 @@ Dusburgietis teigia, kad kurschat A.
   teiginys: "A. Kurschato „Zur Geschichte der Litauer in Ostpreussen“ paskelbta 1893 m. Heidelberge, „Mitteilungen der Litauischen litterarischen Gesellschaft“ 18 sąsiuvinyje."
   pagrindžia:
     - c-61744
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Kurschato „Zur Geschichte der Litauer in Ostpreussen“ paskelbta 1893 m. Heidelberge, „Mitteilungen der Litauischen litterarischen Gesellschaft“ 18 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -64,12 +64,12 @@ Dusburgietis teigia, kad kurschat A.
 - id: c-61744
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen
-    litterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505.
-      Kuzavinis К. Prūsų kalba.—V., 1964.
+    Otrębski J. Udział Jaćwingów w ukształtowaniu języka polskiego.— ABS, Białystok,
+    1964, 1, s. 207—216.
+    Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų
+    žinynas, 1933, t. 25, Nr. 101, p. 171—185.
   citata_rodoma: "Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen\nlitterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505."
   statusas: verified
   teiginio_tipas: faktas

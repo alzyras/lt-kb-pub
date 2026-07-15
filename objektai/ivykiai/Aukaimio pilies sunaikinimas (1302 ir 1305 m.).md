@@ -65,69 +65,7 @@ Nenurodyta
   teiginys: "Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį."
   pagrindžia:
     - c-31312
-
-<a id="claim-t-184337"></a>
-- t-003
-  global_id: t-184337
-  teiginys: "Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį."
-  pagrindžia:
     - c-167707
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tokiu būdu riteriai du kartu (1302
-    ir 1305) paėmė ir sunaikino Aukaimio pilį. Per savo sūnų užmez­
-    gęs santykius su Ragainės komtūru, lietuvis Draika slapta atidarė
-    jo paties saugojamo Aukaimio vartus kryžiuočiams, kurie «visus
-    iki vieno išžudė», o moteris ir vaikus išsivedė nelaisvėn. Pats
-    Draika su visa šeima Ragainėje buvo pakrikštytas^10.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Aukaimį vėl atstačius, už trejų metų įvyko naujas išdavimas.
-    Su didele kariuomene Karaliaučiaus komtūrui pilį apgulus (1305),
-    « pilies žmogus, vardu Svirtila, tikėjimo ir tikinčiųjų draugas, išdavė
-    pilį broliams, kurie ten įsibrovė ir išžudė visus, kuriuos rado, vyriš­
-    kos lyties, o moteris ir vaikus paėmė į nelaisvę, ir dar kartą iš
-    pagrindų sunaikino pilį ». Kita kariuomenės dalis Aukaimio apy­
-    linkėje « daug žmonių išžudė, ar paėmė į nelaisvę, grobė visa, kas
-    tik ten buvo rasta, o (kitką) degino »^11.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Žemaičiai užsispyrę
-    gynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks
-    lietuvių pilių gynėjų išdavimas. Tokiu būdu riteriai du kartu (1302
-    ir 1305) paėmė ir sunaikino Aukaimio pilį. Per savo sūnų užmez­
-    gęs santykius su Ragainės komtūru, lietuvis Draika slapta atidarė
-    jo paties saugojamo Aukaimio vartus kryžiuočiams, kurie «visus
-    iki vieno išžudė», o moteris ir vaikus išsivedė nelaisvėn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -186,5 +124,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184337

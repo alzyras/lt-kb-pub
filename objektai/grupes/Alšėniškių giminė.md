@@ -35,43 +35,26 @@ Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Ole
   teiginys: "Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Olelkaičiais ir Alšėniškiais."
   pagrindžia:
     - c-170709
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Olelkaičiais ir Alšėniškiais.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
-    puchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­
-    miniavęs su LDK didikais Goštautais ir vasaliniais buv. Kijevo ir
-    Slucko kunigaikščiais Olelkaičiais ir Alšėniškiais. Lietuvos Di­
-    džiojoje Kunigaikštystėje Fedoras Jaroslavičius valdė Klecką, Da-
-    vidgorodoką ir Rogačiovą, o  taip pat Pinską, kurj gavo, vesdamas
-    Kijevo kunigaikščio Simono Olelkaičio ir jo  žmonos Jonaitės Goš-
-    tautaitės dukterį Oleną Aleksandrą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-170709
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 323"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 323."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
-    puchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­
+    puchovo
+    kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­
     miniavęs su LDK didikais Goštautais ir vasaliniais buv. Kijevo ir
-    Slucko kunigaikščiais Olelkaičiais ir Alšėniškiais. Lietuvos Di­
+    Slucko
+    kunigaikščiais
+    Olelkaičiais
+    ir
+    Alšėniškiais. Lietuvos Di­
     džiojoje Kunigaikštystėje Fedoras Jaroslavičius valdė Klecką, Da-
-    vidgorodoką ir Rogačiovą, o  taip pat Pinską, kurj gavo, vesdamas
-    Kijevo kunigaikščio Simono Olelkaičio ir jo  žmonos Jonaitės Goš-
+    vidgorodoką ir Rogačiovą, o taip pat Pinską, kurj gavo, vesdamas
+    Kijevo kunigaikščio Simono Olelkaičio ir jo žmonos Jonaitės Goš-
     tautaitės dukterį Oleną Aleksandrą.
   statusas: verified
   teiginio_tipas: faktas

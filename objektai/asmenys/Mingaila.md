@@ -37,7 +37,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].
+1396 m. Vilniuje duotame akte Mingaila dalyvavo tarp garbingų ir patikimų vyrų. Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos. Po pergalės prie Polocko Mingaila netrukus mirė, įpėdiniais palikdamas Skirmantą ir Ginvilą.
 
 ## Teiginiai
 
@@ -69,124 +69,30 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   pagrindžia:
     - c-171474
 
+<a id="claim-t-197426"></a>
+- t-006
+  global_id: t-197426
+  teiginys: "Mingaila pasilenkė skinti tariamojo laimikio, upės dugnas prasivėrė ir įtraukė ją į požemio gelmę - pragarą (Pragaras)."
+  pagrindžia:
+    - c-179180
+
+<a id="claim-t-197427"></a>
+- t-007
+  global_id: t-197427
+  teiginys: "Mingaila leidosi į kelionę po visą pasaulį, ieškodama savo brangios netekties."
+  pagrindžia:
+    - c-179181
+
 <a id="claim-t-190922"></a>
 - t-005
   global_id: t-190922
-  teiginys: "Kunigui vikarui Mingailai buvo nunešta Kauno klebonijoje sienoje rasta įmūryta cinkinė Veneros statulėlė."
+  teiginys: 'Kunigui vikarui Mingailai buvo nunešta Kauno klebonijoje sienoje rasta įmūryta cinkinė Veneros statulėlė.'
   pagrindžia:
     - c-173804
-
-<a id="claim-t-193959"></a>
-- t-006
-  global_id: t-193959
-  teiginys: "Ir dievas padėjo didžiajam kunigaikš čiui Mingailai, jis visus Polocko vyrus sumušė, sudegi no jų miestą Gorodcą 5 , paėmė miestą ir tapo Polocko didžiuoju kunigaikščiu6 ."
-  pagrindžia:
-    - c-176584
-
-<a id="claim-t-193960"></a>
-- t-007
-  global_id: t-193960
-  teiginys: "0 Apie lietuvį Mingailą, buvusį Polocko kunigaikščiu, kituose šaltiniuose žinių nėra."
-  pagrindžia:
-    - c-176585
-- susijęs iš [[objektai/grupes/Polockiečiai.md#claim-t-185443|Polockiečiai]]: Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes.
-- susijęs iš [[objektai/ivykiai/Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.).md#claim-t-185624|Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.)]]: Mingaila prie Gorodeco užpuolė polockiečių kariuomenę ir privertė ją bėgti iš kovos lauko bei stovyklos.
-- susijęs iš Gorodecas: Polockiečiai su kariuomene patraukė iki Gorodeco miesto, bet Mingaila juos užpuolė ir privertė sprukti.
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1396 m. Vilniuje duotame akte Mingaila dalyvavo tarp garbingų ir patikimų vyrų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Aktuota
-    ir duota Vilniuje, Švč. Mergelės Ma­
-    rijos Apsivalymo dienoje, Viešp. me­
-    tais 1396. Dalyvaujant garbingiems
-    ir narsiems vyrams Mingailai, Goš­
-    tautui; Vilniaus vaivadai Manvydui
-    bei mūsų dvaro maršalkoms Čupur-
-    vai ir Milonui bei daugeliui kitų, ver­
-    tų pasitikėjimo].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Arčiausiai puolančiųjų plytėjo Min-
-    gailos valdinių žemės: norėdamas atkeršyta už jų nu­
-    siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai
-    jas užėmė, šiek tiek anksčiau su kariuomene patraukę
-    ligi Gorodeco miesto. Juos pasitiko Mingaila ir, drą­
-    siai užpuolęs palaidą minią, narsią vien dėl gausumo,
-    o visai nemokančią kariauti, vienu smūgiu privertė
-    sprukti ir iš kovos lauko, ir iš stovyklos. Po to, lipte
-    lipdamas bėgantiems ant kulnų, mikliai išnaudojo per-
-    pergalingą kariuomenę atvedė prie Polocko sienų, kur
-    pabėgę priešai buvo perkėlę karo veiksmus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Po pergalės prie Polocko Mingaila netrukus mirė, įpėdiniais palikdamas Skirmantą ir Ginvilą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po to, lipte
-    lipdamas bėgantiems ant kulnų, mikliai išnaudojo per-
-    pergalingą kariuomenę atvedė prie Polocko sienų, kur
-    pabėgę priešai buvo perkėlę karo veiksmus. Miestas
-    turėjo pasiduoti, priimti vienu metu ir taiką, ir vergo­
-    vę: neteko laisvės tie, kurie ją piktam naudojo, skriaus­
-    dami kaimynus. Neilgai šia pergale džiaugėsi Mingai­
-    la tais pačiais metais jis mirė, įpėdiniais palikdamas
-    Skirmantą ir Ginvilą, kurių pirmasis, amžiumi vyres­
-    nis, paveldėjo senelio valdžią Naugarduke, o antra­
-    sis — tėvo Polocke.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Kunigui vikarui Mingailai buvo nunešta Kauno klebonijos sienoje rasta cinkinė deivės Veneros statulėlė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    „Reikėtų priminti ir tai, -  rašoma jo laiške, -  jog amžiną
-    atilsį kunigas Pranckevičius, buvęs Kauno klebonas (klebona­
-    vęs maždaug prieš amžiną atilsį kunigą Pucilovskį) savo dieno­
-    raštyje (jis ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš,
-    norėdamas savo bute, klebonijoje, pasidaryti sandėliuką, prieš
-    išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­
-    kirsti angą ir ją sutvirtinti. Ten dirbęs žmogus, išmušęs keletą
-    sluoksnių plytų, aptiko kadaise įmūrytą cinkinę deivės Veneros
-    statulėlę, kurią nunešė kunigui vikanu Mingailai. Kunigas vika­
-    ras, skrupulas, nelaukdamas mano sugrįžimo, įsakė tą antiką
-    sudaužyti ir nucinkuoti prikaistuvus bei puodus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-005
   santrauka: 'Kunigui vikarui Mingailai buvo nunešta Kauno klebonijoje sienoje rasta įmūryta cinkinė Veneros statulėlė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -216,42 +122,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   pagrindžia:
     - t-005
 
-- c-006
-  santrauka: 'Ir dievas padėjo didžiajam kunigaikš čiui Mingailai, jis visus Polocko vyrus sumušė, sudegi no jų miestą Gorodcą 5 , paėmė miestą ir tapo Polocko didžiuoju kunigaikščiu6 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir visų pirma atžygiavo prie jų miesto, vadinamo
-    Gorodcu4 . Polocko vyrai, stoję savo pulkais, pasitiko
-    juos prie Gorodco, ir pradėjo vieni su kitais smarkiai
-    kautis ir kapotis. Ir dievas padėjo didžiajam kunigaikš­
-    čiui Mingailai, jis visus Polocko vyrus sumušė, sudegi­
-    no jų miestą Gorodcą 5 , paėmė miestą ir tapo Polocko
-    didžiuoju kunigaikščiu6 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: '0 Apie lietuvį Mingailą, buvusį Polocko kunigaikščiu, kituose šaltiniuose žinių nėra.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    IM mini tam e mūšy­
-    je  dalyvavus lietuvius.
-    0 Apie lietuvį Mingailą, buvusį Polocko kunigaikščiu, kituose
-    šaltiniuose žinių nėra. Pirmuoju neabejotinu lietuvių kunigaikščiu
-    Polocke buvo Tautvilą, Mindaugo giminaitis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 ## Citatos
 
 - id: c-83771
@@ -278,20 +148,41 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - id: c-168151
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 82."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Arčiausiai puolančiųjų plytėjo Min-
-    gailos valdinių žemės: norėdamas atkeršyta už jų nu­
-    siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai
-    jas užėmė, šiek tiek anksčiau su kariuomene patraukę
-    ligi Gorodeco miesto. Juos pasitiko Mingaila ir, drą­
-    siai užpuolęs palaidą minią, narsią vien dėl gausumo,
-    o visai nemokančią kariauti, vienu smūgiu privertė
-    sprukti ir iš kovos lauko, ir iš stovyklos. Po to, lipte
-    lipdamas bėgantiems ant kulnų, mikliai išnaudojo per-
-    pergalingą kariuomenę atvedė prie Polocko sienų, kur
-    pabėgę priešai buvo perkėlę karo veiksmus.
+    Neilgai šia pergale džiaugėsi Mingai­
+    la tais pačiais metais jis mirė, įpėdiniais palikdamas
+    Skirmantą ir Ginvilą, kurių pirmasis, amžiumi vyres­
+    nis, paveldėjo senelio valdžią Naugarduke, o antra­
+    sis — tėvo Polocke. Sėkmingų lietuvių žygių Rusioje
+    nevaliojo pakęsti rusų kunigaikščiai. Jie niršo, kad dar
+    viešpatauti visoje Rusioje; todėl visas reikalas neabe­
+    jotinai krypo į karą. Seniai jų pasipiktinimas būtų
+    prasiveržęs atviru karu, jeigu stipresnis priešas — len­
+    kai — tuo metu nebūtų nukreipęs rusų dėmesio ir jėgų
+    nuo minčių apie žygį į Lietuvą. Vis dėlto, sugrįžęs iš
+    P o lo ck a s u žim am as
+    lie tu v ių
+    galę:
+    nenorėdamas
+    jiems
+    duoti laiko atsigauti ar su­
+    telkti jėgų, reikalingų mies­
+    tui ginti, jis tą pačią dieną
+    S k irm a n ta s
+    N au gar-
+    d u k ie tis — L ietu vo s,
+    o G in vila — P olocko
+    k u n ig a ik štis
+    visai
+    neseniai
+    mokėjusi
+    duoklę tauta, kuri dėl skur­
+    do vargais negalais rasdavo
+    savo krašte ką rusams duoti,
+    kuri versdavosi tik žemės
+    darbu, dabar štai ketino įsi-
+  citata_rodoma: "Arčiausiai puolančiųjų plytėjo Min-\ngailos valdinių žemės: norėdamas atkeršyta už jų nu­\nsiaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai\njas užėmė, šiek tiek anksčiau su kariuomene patraukę\nligi Gorodeco miesto. Juos pasitiko Mingaila ir, drą­\nsiai užpuolęs palaidą minią, narsią vien dėl gausumo,\no visai nemokančią kariauti, vienu smūgiu privertė\nsprukti ir iš kovos lauko, ir iš stovyklos. Po to, lipte\nlipdamas bėgantiems ant kulnų, mikliai išnaudojo per-\npergalingą kariuomenę atvedė prie Polocko sienų, kur\npabėgę priešai buvo perkėlę karo veiksmus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -302,8 +193,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - id: c-168152
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 82."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Po to, lipte
     lipdamas bėgantiems ant kulnų, mikliai išnaudojo per-
@@ -326,10 +216,9 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - id: c-171474
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    „Reikėtų priminti ir tai, -  rašoma jo laiške, -  jog amžiną
+    „Reikėtų priminti ir tai, - rašoma jo laiške, - jog amžiną
     atilsį kunigas Pranckevičius, buvęs Kauno klebonas (klebona­
     vęs maždaug prieš amžiną atilsį kunigą Pucilovskį) savo dieno­
     raštyje (jis ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš,
@@ -347,70 +236,44 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   pagrindzia:
     - t-188585
 
-- id: c-173804
+- id: c-179180
   autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šio atradimo smulkmenas
-    man papasakojo gerbiamas profesorius ponas Laurinavičius „Rei­
-    kėtų priminti ir tai, — rašoma jo laiške, —- jog amžiną atilsį ku­
-    nigas Franckevičius, buvęs Kauno klebonas (klebonavęs maždaug
-    prieš amžiną atilsį kunjigą] Pucilovskį) savo dienoraštyje (jis
-    ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš, norėdamas
-    462
-
-    ## Puslapis 472
-
-    savo bute, klebonijoje, pasidaryti sandėliuką, prieš išvykdamas į
-    Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iškirsti angą ir
-    ją sutvirtinti. Ten dirbęs žmogus, išmušęs keletą sluoksnių plytų,
-    aptiko kadaise įmūrytą cinkinę deivės Veneros statulėlę, kurią nu­
-    nešė kunigui vikarui Mingailai. Kunigas vikaras, skrupulas, ne­
-    laukdamas mano sugrįžimo, įsakė tą antiką sudaužyti ir nucin-
-    kuoti prikaistuvus bei puodus.
+    Vos ji
+    pasilenkė skinti tariamojo laimikio, upės dugnas prasivėrė ir
+    įtraukė ją į požemio gelmę - pragarą (Pragaras). Šioje pože­
+    mio karalystėje viešpatavo karalius, vadintas Pokliumi, kurį
+    sužavėjo jaunosios karalaitės grožis. Nelaimingoji motina, ku­
+    riai atnešė tik dukrelės kurpaites, įsitikinusi, kad ją prarijo Ra­
+    sos upė, spėjo, jog šį darbą bus padaręs kuris nors iš vandenų
+    arba povandeninių valdovų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190922
+    - t-197426
 
-- id: c-176584
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- id: c-179181
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ir visų pirma atžygiavo prie jų miesto, vadinamo
-    Gorodcu4 . Polocko vyrai, stoję savo pulkais, pasitiko
-    juos prie Gorodco, ir pradėjo vieni su kitais smarkiai
-    kautis ir kapotis. Ir dievas padėjo didžiajam kunigaikš­
-    čiui Mingailai, jis visus Polocko vyrus sumušė, sudegi­
-    no jų miestą Gorodcą 5 , paėmė miestą ir tapo Polocko
-    didžiuoju kunigaikščiu6 .
+    Šioje pože­
+    mio karalystėje viešpatavo karalius, vadintas Pokliumi, kurį
+    sužavėjo jaunosios karalaitės grožis. Nelaimingoji motina, ku­
+    riai atnešė tik dukrelės kurpaites, įsitikinusi, kad ją prarijo Ra­
+    sos upė, spėjo, jog šį darbą bus padaręs kuris nors iš vandenų
+    arba povandeninių valdovų. Taigi ji leidosi į kelionę po visą
+    pasaulį, ieškodama savo brangios netekties.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193959
-
-- id: c-176585
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    IM mini tam e mūšy­
-    je  dalyvavus lietuvius.
-    0 Apie lietuvį Mingailą, buvusį Polocko kunigaikščiu, kituose
-    šaltiniuose žinių nėra. Pirmuoju neabejotinu lietuvių kunigaikščiu
-    Polocke buvo Tautvilą, Mindaugo giminaitis.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193960
+    - t-197427
 
 ## Ryšiai
 - Mingaila puolė [[objektai/grupes/Polockiečiai]]

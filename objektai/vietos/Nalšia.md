@@ -57,33 +57,6 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
 - susijęs iš Z. Ivinskis, Suksė: Z. Ivinskio „Suksė“ 1963 m. nurodyta „Lietuvių enciklopedijos“ XXIX tome, 179 puslapyje.
 - susijęs iš Durbė: 1260 m. liepos 13 d. prie Durbės žemaičiai sutriuškino jungtinę Vokiečių ir Livonijos ordinų kariuomenę.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, žmona, kuri buvo karalienės sesuo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vargu ar prislėgti
-    krikščionys būtų kada lengviau atsikvėpę, jeigu be­
-    kylančios stabmeldžių galios nebūtų palaužusi vidaus
-    nesantarvė. Tuo laiku mirė Mindaugui žmona; šeimy­
-    nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū­
-    mus atvyko pakviesta Daumanto, Nalšios kunigaikš­
-    čio, žmona, karalienės sesuo.
-    Karalius,
-    turėdamas
-    begė­
-    diškų ketinimų, sulaužė įsta­
-    tymą jėga pamynęs moters
-    dorą, jis pasilaikė ją už
-    žmoną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Daumantas buvo Nalšios kunigaikštis ir Mindaugo svainės vyras.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -107,8 +80,7 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
 - id: c-168690
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 107"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 107."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vargu ar prislėgti
     krikščionys būtų kada lengviau atsikvėpę, jeigu be­
@@ -137,11 +109,12 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O jos sesuo buvo ištekėjusi už
-    Daumanto, už Nalšios kunigaikščiol0 . Ir Mindaugas
+    Daumanto, už Nalšios kunigaikščiol0. Ir Mindaugas
     pasiuntė kvieslius į Nalšią pas savo svainę, tarydamas:
     „Numirė tavo sesuo; atvažiuok savo sesers apraudoti."
     O kai ji atvažiavo gedėti, Mindaugas užsimanė ves­
     ti savo svainę.
+  citata_rodoma: "O jos sesuo buvo ištekėjusi už \nDaumanto, už Nalšios kunigaikščiol0 . Ir Mindaugas \npasiuntė kvieslius į Nalšią pas savo svainę, tarydamas: \n„Numirė tavo sesuo; atvažiuok savo sesers apraudoti.\"\nO kai ji atvažiavo gedėti, Mindaugas užsimanė ves­\nti savo svainę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

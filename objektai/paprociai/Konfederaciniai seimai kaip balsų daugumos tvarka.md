@@ -62,26 +62,6 @@ Nenurodyta
   teiginys: "Konfederaciniuose seimuose numatyti klausimai buvo sprendžiami balsų dauguma, todėl juose nebeveikė veto teisė."
   pagrindžia:
     - c-67150
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kadangi seimo iširimas dažnai grėsdavo vals-
-    tybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti
-    vadinamieji konfederaciniai seimai. Atstovai į juos
-    būdavo renkami paprasta tvarka, tik suvažiavę, pasiūlius kara-
-    liui ar kam nors kitam, jie pasirašydavo tam tikrą pasižadėjimo
-    aktą, kad numatomus klausimus spręsią balsų dauguma. Tuo
-    būdu šitokiam seime _veto_ teisė jau nebeveikė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -103,5 +83,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67124
     - t-67123
+    - t-67124

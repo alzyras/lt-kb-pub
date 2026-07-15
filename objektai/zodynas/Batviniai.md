@@ -44,19 +44,6 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
   teiginys: "`Batviniai` šiame tekste yra mėgstamas senovės lietuvių valgis."
   pagrindžia:
     - c-09672
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    šiandien dar lenkai tyčiodamies sako: „Licwiaki bocwiaki“ – lietuvėliai batvinėliai – iš apmaudo, jog niekados negalėjo jų nuveikti; kartais, ir užmušę lietuvį, nieko pas jį nerado, kaip batvinių maišelį, bet, ir tą patį lig jam atimant, reikėjo pirma dvi tris žmogaus galvas padėti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

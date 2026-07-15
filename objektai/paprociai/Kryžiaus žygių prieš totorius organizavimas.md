@@ -94,76 +94,6 @@ Nenurodyta
   teiginys: "Vytautas organizavo Nikopoliui analogišką kryžiaus žygį, kuris 1399 m. baigėsi pralaimėjimu prie Vorsklos."
   pagrindžia:
     - c-43166
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jau pirmieji krikščioniški
-    Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-
-    tiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius,
-    formuodami „antemurale Christianitatis“ ideologiją. Garsiajame
-    Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
-    Europos valdovai svarstyti jau nebe Kryžiuočių ordino, o Osmanų
-    imperijos keliamo pavojaus. Vytautas ir pats buvo reagavęs į Ser-
-    bijos sunaikinimą prie Kosovo (1389) - organizavo analogišką
-    Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu
-    1399 m. prie Vorsklos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-002
-  santrauka: 'Reaguodamas į Serbijos sunaikinimą prie Kosovo, Vytautas organizavo Nikopoliui analogišką kryžiaus žygį, 1399 m. pralaimėtą prie Vorsklos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Garsiajame
-    Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
-    Europos valdovai svarstyti jau nebe Kryžiuočių ordino, o Osmanų
-    imperijos keliamo pavojaus. Vytautas ir pats buvo reagavęs į Ser-
-    bijos sunaikinimą prie Kosovo (1389) - organizavo analogišką
-    Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu
-    1399 m. prie Vorsklos.
-
-    Švitrigaila popiežiui net rašys, kad Lietuva yra „ant viso krikš-
-    čionių pasaulio sienos“ (in finibus totius Christianitatis).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Pirmieji krikščioniški Lietuvos valdovai patys pradėjo organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti
-    žūtbūtinėje kovoje prieš kryžiuočių ekspansiją ir įsigyti vietą
-
-    Europoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civili-
-    zaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai palikę tik
-    barjero tarp Rytų ir Vakarų vaidmenį. Jau pirmieji krikščioniški
-    Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-
-    tiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius,
-    formuodami „antemurale Christianitatis“ ideologiją. Garsiajame
-    Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
-    Europos valdovai svarstyti jau nebe Kryžiuočių ordino, o Osmanų
-    imperijos keliamo pavojaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
-    - t-002
 
 ## Citatos
 
@@ -235,6 +165,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78703
     - t-78700
     - t-78701
+    - t-78703

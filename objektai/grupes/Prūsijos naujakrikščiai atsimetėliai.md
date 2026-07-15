@@ -7,13 +7,13 @@ datos:
   - '1251 m.'
 date_start: '1251'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - religinė-bendruomenė
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -69,32 +69,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   teiginys: "Apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis."
   pagrindžia:
     - c-85146
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie maldininkus ir Prūsijos žemei sugrąžintą taiką
-
-      Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos
-    kunigaikščiai, kurie pajuto jiems begalinį palankumą. Įvyko šitaip todėl, kad pats Kristus,
-    kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
-    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
-    ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
-    karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
-    grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
-    nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
-    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
-    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-
 - c-002
   santrauka: 'Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dalis pulti pilį iš priekio ir iš kitos pusės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -142,15 +118,13 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - id: c-85144
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie maldininkus ir Prūsijos žemei sugrąžintą taiką
-
-      Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos
+    Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos
     kunigaikščiai, kurie pajuto jiems begalinį palankumą. Įvyko šitaip todėl, kad pats Kristus,
     kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
-    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    širdis, tad į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
     ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
     karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
     grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
@@ -168,16 +142,19 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - id: c-85145
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 100"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 100."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Taigi
-    sutelkė visą galybę savo kariuomenės ir Prūsijos naujakrikščių, elgdamasis klastingai kaip
-    ir anksčiau, nes buvo be galo suktas; Padalijo kariuomenę į dvi dalis, viena turėjo pulti
-    pilį iš priekio, kita — iš kitos pusės. Su pirmąja šios kariuomenės dalimi priėjo priekinį
-    ir silpnesnįjį pilies šoną ir taip smarkiai jį užpuolė, kad broliai vargais negalais testengė
-    apsiginti. Antroji kariuomenės dalis, nesutikdama gynėjų pasipriešinimo, pro užpakalinę
-    sieną įsiveržė  į vidų ir užėmė pilį.
+    Todėl, sukvietę daugybę maldininkų, kurie, pastoviai raginami į kryžiaus karą,
+    nuolat čia traukė iš įvairių Vokietijos kraštų, broliai pasuko į Pamedės žemę pasiėmę
+    visa, kas reikalinga pilims statyti. Pakeitę vietą, bet ne vardą, Jėzaus Kristaus garbei ir
+    šlovei jie pastatė Kristburgo pilį toje vietoje, kur ji ir dabar tebėra304, sutvirtinę ją viskuo,
+    kas reikalinga pilims ginti, ir palikę joje daug karių. Šiek tiek vėliau, bėgant dienoms ir
+    mėnesiams, apie pilį pradėjo kurti miestą305, į kurį suplaukė gyventi daugybė tikinčiųjų,
+    pasiryžusių už krikščionių tikėjimą kasdien aukoti be baimės savo gyvybę ir savo turtą.
+    64 (63). Apie Kristburgo brolių pamaldų gyvenimą
+    303  61 ir 62 skyreliuose atpasakoti įvykiai galėtų būti priskiriami 1247 m.
+    304 Dab.
+  citata_rodoma: "Taigi\nsutelkė visą galybę savo kariuomenės ir Prūsijos naujakrikščių, elgdamasis klastingai kaip\nir anksčiau, nes buvo be galo suktas; Padalijo kariuomenę į dvi dalis, viena turėjo pulti\npilį iš priekio, kita — iš kitos pusės. Su pirmąja šios kariuomenės dalimi priėjo priekinį\nir silpnesnįjį pilies šoną ir taip smarkiai jį užpuolė, kad broliai vargais negalais testengė\napsiginti. Antroji kariuomenės dalis, nesutikdama gynėjų pasipriešinimo, pro užpakalinę\nsieną įsiveržė  į vidų ir užėmė pilį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -188,19 +165,20 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - id: c-85146
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie vienos pilies užkariavimą ir apie Kristburgo pilį
     Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
     yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko
     rūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius
-    ir maldininkus, patraukė  į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
-    ilsintis,  priartėjo  prie pamedėnų  pilies,  stovėjusios tada  toje  vietoje,  kuri dabar
-    vadinama Senuoju Kristburgu, slapta įsibrovė  į  pilį, pristatęs prie sienų kopėčias,  ir
-    ją užėmė nukovęs ar išsivaręs  į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
+    ir maldininkus, patraukė į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
+    ilsintis, priartėjo prie pamedėnų pilies, stovėjusios tada toje vietoje, kuri dabar
+    vadinama Senuoju Kristburgu, slapta įsibrovė į pilį, pristatęs prie sienų kopėčias, ir
+    ją užėmė nukovęs ar išsivaręs į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
     daug ginklanešių. Kadangi Kristaus gimimo naktį buvo tikinčiųjų užkariauta ta pilis, ji
     pavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties
     pranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse.
+  citata_rodoma: "Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems\nyra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko\nrūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius\nir maldininkus, patraukė  į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms\nilsintis,  priartėjo  prie pamedėnų  pilies,  stovėjusios tada  toje  vietoje,  kuri dabar\nvadinama Senuoju Kristburgu, slapta įsibrovė  į  pilį, pristatęs prie sienų kopėčias,  ir\nją užėmė nukovęs ar išsivaręs  į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir\ndaug ginklanešių. Kadangi Kristaus gimimo naktį buvo tikinčiųjų užkariauta ta pilis, ji\npavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties\npranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

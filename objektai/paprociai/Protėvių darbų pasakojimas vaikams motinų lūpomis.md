@@ -51,8 +51,8 @@ Nenurodyta
   teiginys: "S. Daukantas „Darbų“ pratarmėje rašė motinoms, kurios vaikams pasakodavo bočių ir prabočių darbus, bet be raštų dažnai apsirikdavo."
   pagrindžia:
     - c-172818
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'S. Daukantas „Darbų“ pratarmėje rašė motinoms, kurios vaikams pasakodavo bočių ir prabočių darbus, bet be raštų dažnai apsirikdavo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -75,14 +75,19 @@ Nenurodyta
 - id: c-172818
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 50."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Galbūt geriausiai šį faktą paaiškintų paties
-    S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
-    kytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba
-    savo vaikams darbus jų bočių prabočių papasakoti, o be raštų
-    daug kartų apsirinka“12.
+    Kaip rodo antro LTI tomo parankinis egzem­
+    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
+    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
+    ma nemažai šio žemaičių literato rankraščių. Antra vertus, var­
+    gu ar būtume teisūs kalbėdami apie šį D. Poškos testamentą,
+    kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
+    poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
+    timi. Ir vis dėlto šis straipsnis rodo bendrą lygį, bendrą nuotai­
+    ką, gimstantį norą rašyti patiems, t. y. tokiu būdu išvengti klai­
+    dų, kurias sąmoningai ar nesąmoningai darė kiti.
+  citata_rodoma: "Galbūt geriausiai šį faktą paaiškintų paties\nS. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­\nkytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba\nsavo vaikams darbus jų bočių prabočių papasakoti, o be raštų\ndaug kartų apsirinka“12."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

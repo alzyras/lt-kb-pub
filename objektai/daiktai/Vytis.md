@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Sovietinį Lietuvos SSR herbą keičia Vytis 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 243 Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.
+1971 m. leidimo komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas. Atkuriant Lietuvos valstybę sovietinį Lietuvos SSR herbą pakeitė Vytis. Vytis buvo Vilniaus žemės arba ku nigaikštystės herbas, t.
 
 ## Pavadinimai šaltiniuose
 
@@ -59,7 +59,7 @@ Nenurodyta
 <a id="claim-t-186858"></a>
 - t-001
   global_id: t-186858
-  teiginys: "Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas."
+  teiginys: "1971 m. leidimo komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas."
   pagrindžia:
     - c-170042
 
@@ -88,7 +88,6 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Lietuvos herbas Vytis.md#claim-t-77927|Lietuvos herbas Vytis]]: 1922 m. Lietuvos Valstybės Konstitucijoje herbu liko baltas Vytis raudoname fone.
 - susijęs iš [[objektai/daiktai/Lietuvos trispalvė.md#claim-t-75337|Lietuvos trispalvė]]: Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę, „Tautišką giesmę“, Vytį ir Gediminaičių stulpus.
 - susijęs iš [[objektai/daiktai/Ringrafas.md#claim-t-40756|Ringrafas]]: XVIII a. Lietuvos kariuomenės gvardijos pėstininkų karininkų ringrafas buvo nešiojamas ant krūtinės ir turėjo Vytį.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184502|Kryžiuočių ordinas]]: Vytautas užėmė Ritersverderį, įsakė išžudyti nelaisvėn patekusius vokiečių pirklius bei karius, o žymesnius kryžiuočius išsivedė su savimi.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-183249|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: 1990 m. kovo 11 d. Sąjūdžio kandidatai grąžino Lietuvos Respublikos pavadinimą ir Vytį paskelbė oficialiu valstybės herbu bei ženklu.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-75166|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: 1990 m. kovo 11 d. Sąjūdžio kandidatai Vytautą Landsbergį išrinko LSSR Aukščiausiosios Tarybos pirmininku.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.).md#claim-t-183250|Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]: 1990 m. kovo 11 d. Sąjūdžio kandidatai grąžino Lietuvos Respublikos pavadinimą ir Vytį paskelbė oficialiu valstybės herbu bei ženklu.
@@ -135,7 +134,6 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186643|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimiero kariuomenė nusiaubė Kozelską, Vereją, Možaiską ir Kalugą per žygį į Maskvos žemę.
 - susijęs iš [[objektai/ivykiai/Kroicburgo pilies sugriovimas (1263 m.).md#claim-t-183936|Kroicburgo pilies sugriovimas (1263 m.)]]: Maisto pristigę Kroicburgo broliai ir jų šeimyna naktį slapta pasitraukė iš pilies, o prūsai juos pasivijo ir išžudė beveik visus.
 - susijęs iš [[objektai/ivykiai/Kroicburgo pilies sugriovimas (1263 m.).md#claim-t-62344|Kroicburgo pilies sugriovimas (1263 m.)]]: 1263 m. notangai trejus metus puolė apsuptą Kroicburgo pilį, naudodami tris apgulos mašinas ir tris kuorus.
-- susijęs iš [[objektai/ivykiai/Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė.md#claim-t-185722|Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė (pilis)]]: Palikę Slucką, Krymo skitai patraukė į Naugarduką, kur tuo metu didikai tarėsi dėl santykių su karaliumi.
 - susijęs iš [[objektai/ivykiai/Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė.md#claim-t-185723|Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė (pilis)]]: Krymo skitai įžengė į tuščią Naugarduką, apgulė pilį, bet jos neužėmė ir pasitraukė į Skitiją apiplėšę apylinkę.
 - susijęs iš [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.).md#claim-t-20264|Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]: 1988 m. spalio 6 d. Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinį statusą ir legalizavo Lietuvos simbolius.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-75162|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta.
@@ -153,60 +151,11 @@ Nenurodyta
 - susijęs iš Maskva: XV a. pabaigoje sustiprėjusi Maskvos valstybė ėmė kelti grėsmę Lietuvos teritorijos vientisumui.
 - susijęs iš Maskva: XV a. pabaigoje stiprėjanti Maskvos valstybė ėmė kelti grėsmę Lietuvos teritorijos vientisumui.
 - susijęs iš Naugardukas: Per skitų antplūdį dalis Naugarduke susirinkusių didikų, vadovaujama Alberto Goštauto, subruzdo ginti pilies.
-- susijęs iš Nemunas: Gavę žinią apie skitų antplūdį, dalis Naugarduko didikų pasitraukė už Nemuno.
 - susijęs iš Prūsija: Vytenio pulkai beveik tris mėnesius niokojo Prūsiją, kurią siaubė žudynės ir gaisrai.
 - susijęs iš Prūsų kunigaikštija: 1545 m. Lietuvos, Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje pastatytas pasienio stulpas su Vyčiu ir Lenkijos ereliu.
 - susijęs iš Severskas: Vytautas, pasiuntęs lengvuosius raitelius persekioti bėgančiųjų, su pagrindinėmis jėgomis patraukė į Severską.
-- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-184613|gurguolė]]: Prie Liubavos Sūduvos prūsai ir žemaičiai, pabėgę nuo kryžiuočių puolimo, paliko stovyklą ir gurguoles.
+- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-184613|gurguolė]]: Prie Liubavos Sūduvos prūsai ir jiems į pagalbą atėję žemaičiai, kryžiuočių puolami, pabėgo ir paliko stovyklą bei gurguoles.
 - susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75552|istorinė Lietuva]]: Lietuvos vardas kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito toli į rytus ir apėmė plačias rytų slavų žemes.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau šios konstitucijos veikimas visa apim-
-    timi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-
-    kinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs
-    susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
-    bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
-    teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai. Taip
-    įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos vals-
-    tybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų
-    jurisdikcijos.
-    Sovietinį Lietuvos SSR herbą keičia Vytis
-
-    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
-    243
-    Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šalti-
-    nis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Kalbama apie LDK herbą — Vyt). Manoma, kad anksčiausiai,
-    bent XIV a. antrojoje pusėje. Vytis buvo Vilniaus žemės arba ku­
-    nigaikštystės herbas, t. y. tos LDK dalies, su kurios valdymu buvo
-    susijusi Lietuvos didžiojo kunigaikščio valdžia. Pirmas Vyt| savo
-    antspaude pradėjo vartoti bene Algirdas. Jo  sūnus Jogaila nuo
-    1384 m. suteikė teis«; antspauduoti Vyčiu visiems Gedimino giminės
-    kunigaikščiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-170041
@@ -240,14 +189,13 @@ Nenurodyta
 - id: c-170042
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 209."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Kalbama apie LDK herbą — Vyt). Manoma, kad anksčiausiai,
     bent XIV a. antrojoje pusėje. Vytis buvo Vilniaus žemės arba ku­
     nigaikštystės herbas, t. y. tos LDK dalies, su kurios valdymu buvo
     susijusi Lietuvos didžiojo kunigaikščio valdžia. Pirmas Vyt| savo
-    antspaude pradėjo vartoti bene Algirdas. Jo  sūnus Jogaila nuo
+    antspaude pradėjo vartoti bene Algirdas. Jo sūnus Jogaila nuo
     1384 m. suteikė teis«; antspauduoti Vyčiu visiems Gedimino giminės
     kunigaikščiams.
   citata_rodoma: "Kalbama apie LDK herbą — Vyt). Manoma, kad anksčiausiai, \nbent XIV a. antrojoje pusėje. Vytis buvo Vilniaus žemės arba ku­\nnigaikštystės herbas, t. y. tos LDK dalies, su kurios valdymu buvo \nsusijusi Lietuvos didžiojo kunigaikščio valdžia. Pirmas Vyt| savo \nantspaude pradėjo vartoti bene Algirdas. Jo  sūnus Jogaila nuo \n1384 m. suteikė teis«; antspauduoti Vyčiu visiems Gedimino giminės \nkunigaikščiams."

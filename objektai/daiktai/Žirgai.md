@@ -125,6 +125,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179255|Lietuviai]]: 1300 m. šeši tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami, imdami belaisvius ir degindami turtą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190599|Lietuviai]]: Narbutas rašė, kad lietuvių laidotuvių giesmės vadinamos raudomis ir skambėjo visose lietuvių genties tautose.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169700|Lietuvos Didžioji Kunigaikštystė]]: 1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187718|Lietuvos Didžioji Kunigaikštystė]]: Lietuvos metraštis Klecko pergalę sieja su Dievo gailestingumu ir aprašo Lietuvos kariuomenę grįžus su totorių belaisviais bei grobiu.
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89173|Pomeranai]]: Sventopelkas drąsino saviškius, teigdamas, kad pomeranai ir prūsai galės visiems laikams nusikratyti teutonų jungo.
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89174|Pomeranai]]: Magistras, broliai ir kunigaikštis Kazimieras devynias dienas bei naktis niokojo Pomeranijos žemę plėšimais ir gaisrais.
 - susijęs iš [[objektai/grupes/Rusai.md#claim-t-117248|Rusai]]: Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko.
@@ -142,9 +143,6 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis).md#claim-t-86919|Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis)]]: Jogaila be Kęstučio žinios sudarė slaptą sutartį su Livonijos magistru, kad šis padėtų vykdyti jo užmačias.
 - susijęs iš [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.).md#claim-t-183959|Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]: 1295 m. rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.
 - susijęs iš [[objektai/ivykiai/Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.).md#claim-t-86925|Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.)]]: 1381 m. Skirgaila su Livonijos magistru 12 savaičių laikė apsupę Polocką, bet apgultį nutraukė dėl pokyčių Lietuvoje.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-186580|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pavasariop atvyko į Smolenską pas Vytautą ir pagerbė jį brangiomis dovanomis.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-186581|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vytautas apdovanojo Vasilijų, išlydėjo jį į Maskvą ir pats išvyko į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-186582|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraščio pasakojime Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, sabalais, brangakmeniais, indais ir bachmatais.
 - susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71802|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.
 - susijęs iš [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui.md#claim-t-62710|Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]: Po pergalės prūsai aukodavo dievams padėkos auką iš karo grobio, o trečdalį grobio atiduodavo kriviui sudeginti.
 - susijęs iš [[objektai/posakiai/Kai aš atvykau pas didįjį kunigaikštį.md#claim-t-95941|Kai aš atvykau pas didįjį kunigaikštį]]: Henne, keliavęs su Vytautu, atvykęs pas didįjį kunigaikštį rado Vytautą ketvirtą kartą ilsintis kelionėje iš Trakų į Smolenską.
@@ -156,7 +154,7 @@ Nenurodyta
 - susijęs iš M. Strijkovskio kronika: Strijkovskis ir Kojelavičius supainiojo Andrių, Algirdo sūnų, su Vaidotu, Kęstučio sūnumi.
 - susijęs iš Bajerburgas Raudonė: Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
 - susijęs iš Drohičinas: Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą.
-- susijęs iš Dubrovna: Jogaila ir Vytautas su savo kariuomenėmis, perėję miškus, priėjo Dubrovnos laukus.
+- susijęs iš Dubrovna: Bychovco kronikoje pasakojama, kad Jogaila ir Vytautas su savo kariuomenėmis, perėję miškus, priėjo Dubrovnos laukus.
 - susijęs iš Gardinas: Švitrigaila su didžiuoju magistru Konradu Jungingenu nusiaubė prie Gardino buvusius panemunės pavietus.
 - susijęs iš Gardinas: 1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.
 - susijęs iš Lietuva: Švitrigaila, nepatenkintas Vytauto iškėlimu, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.
@@ -167,55 +165,27 @@ Nenurodyta
 - susijęs iš Ragainė: Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.
 - susijęs iš Skalvių pilis (pilis, XIII a.): Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.
 - susijęs iš Skalvių pilis (pilis, XIII a.): Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.
-- susijęs iš Soroka: Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.
-- susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
 - susijęs iš Strėvos upė: Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos.
 - susijęs iš Tikocinas: Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.
-- susijęs iš Vilnius: Laiško kopijoje pranešama, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.
 - susijęs iš [[objektai/zodynas/Anapilis Anafielas.md#claim-t-189274|Anapilis Anafielas]]: Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas neprieinamas kalnas, į kurį turėjo kopti vėlės.
 - susijęs iš [[objektai/zodynas/Trizna.md#claim-t-189183|Trizna]]: Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė.
 - susijęs iš [[objektai/zodynas/bombarda.md#claim-t-86584|bombarda]]: Bombarda buvo Vokietijoje neseniai išrastas ir Lietuvoje dar nežinomas šaunamasis ginklas.
 - susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-113626|gurguolė]]: Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išdrykusi per dvi mylias.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70313|rotmistras]]: Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.
-- susijęs iš [[objektai/zodynas/skitai.md#claim-t-185340|skitai]]: Kovos pradžioje skitai iš tolo apšaudė priešininkus strėlėmis dar neprasidėjus tikroms kautynėms.
 - susijęs iš [[objektai/zodynas/vyskupo teisėjas.md#claim-t-42524|vyskupo teisėjas]]: Sembos vyskupo teisėjui Jonui Lonei buvo atimta gyvybė kartu su Gdansko komtūru ir penkiomis dešimtimis prie vėliavos nukautųjų.
 - susijęs iš [[objektai/asmenys/Mengli Girėjus.md#claim-t-195003|Mengli Girėjus]]: Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-10226|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Po mūšio lietuviai paėmė arba nukovė daugybę totorių ir paėmė daug belaisvių bei grobio.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Henriko arklys naktį sustojo prie skardžio, nes matė pavojų, kurio raitelis tamsoje negalėjo išvysti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kartą
-    vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė:
-    „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave  į tokią vietą, kur tu pelnysi
-    didelį grobį“. Henrikas nudžiugo ir, užsėdęs savo žirgą, nusekė iš paskos visokiausiais
-    keliais ir šunkeliais. Galop jis prijojo vietą, kur jo arklys nebenorėjo toliau nė žingsnio
-    žengti, nors jį ir smarkiai ragino pentinais. Mat arklys matė pavojų, kurio raitelis nakties
-    tamsoje negalėjo išvysti. Galop Henrikas tarė savo arkliui, stipriai  jį paspausdamas
-    pentinais: „Vardan viešpaties— į priekį“. Tada jo bendras, tai yra velnias, atsistojo prieš
-    jį ir pasakė: „Tavo laimė, kad paminėjai savo dievo vardą, jeigu to nebūtum padaręs,
-    jau būtum negyvas nutrenktas  į šią pragarmę“. Pagautas siaubo, Henrikas liko stovėti
-    toje vietoje, iki aušros nedrįsdamas nei į priekį žengti, nei atgal trauktis; kai jis išvydo
-    neapsakomai aukštą skardį, nuo kurio galėjo nukristi į giliausią prarają, jeigu arklys būtų
-    bent žingsnį žengęs į priekį, jis paženklino save šventuoju kryžiaus ženklu ir pašlovino
-    vardą viešpaties, per kurį išvengė šitokio siaubingo pavojaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
+- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199224|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraščio pasakojime Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, sabalais, brangakmeniais, indais ir bachmatais.
+- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199225|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vytautas apdovanojo Vasilijų, išlydėjo jį į Maskvą ir pats išvyko į Lietuvą.
+- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199226|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pavasariop atvyko į Smolenską pas Vytautą ir pagerbė jį brangiomis dovanomis.
+- susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
+- susijęs iš Soroka: Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.
 ## Citatos
 
 - id: c-60349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 196"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kartą
     vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė:

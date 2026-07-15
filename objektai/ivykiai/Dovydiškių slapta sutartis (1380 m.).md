@@ -64,41 +64,6 @@ Nenurodyta
   teiginys: "Dovydiškių slaptos sutarties sudarymo Vytautas nepastebėjo, nors dalyvavo medžioklėje."
   pagrindžia:
     - c-167615
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nors Vytau­
-    tas ir dalyvavo medžioklėje, bet šitos slaptos sutarties suda­
-    rymo nepajuto. Jo dalyvavimu, be abejo, Jogaila norėjo prisi­
-    dengti nuo visų Kęstučio įtarimų.
-    Dabar kryžiuočiams bereikėjo toliau veikti: jie turėjo pra­
-    dėti pulti Kęstučio žemes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Dovydiškių slaptos sutarties sudarymo Vytautas nepastebėjo, nors dalyvavo medžioklėje.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kad susitarimas neišeitų aikštėn, reikia taip da­
-    ryti, tartum belaisviai būtų išperkami už pinigus. Nors Vytau­
-    tas ir dalyvavo medžioklėje, bet šitos slaptos sutarties suda­
-    rymo nepajuto. Jo dalyvavimu, be abejo, Jogaila norėjo prisi­
-    dengti nuo visų Kęstučio įtarimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

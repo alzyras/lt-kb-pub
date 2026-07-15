@@ -41,25 +41,6 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45453|Vilniaus universiteto įkūrimas (1579 m.)]]: Naujoji mokykla vadinosi Academia et Universitas Vilnensis Societatis Iesu, arba Vilniaus Jėzaus draugijos akademija ir universitetas.
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45454|Vilniaus universiteto įkūrimas (1579 m.)]]: 1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.
 - susijęs iš Grigaliaus XIII bulė dėl Vilniaus kolegijos patvirtinimo universitetu: 1579 m. spalio 29 d. popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Už-
-    darytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pri-
-    taikytos uždarytos bažnyčios: Šv. Kazimiero bažnyčioje atidarytas Ateiz-
-    mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
-    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
-    M. K. Čiurlionio muziejaus senojo meno ekspozicija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24636

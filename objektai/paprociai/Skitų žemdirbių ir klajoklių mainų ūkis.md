@@ -50,21 +50,28 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-193027"></a>
-- t-001
-  global_id: t-193027
-  teiginys: "Skitų klajokliai maistą gaudavo augindami gyvulius, medžiodami ir žvejodami, o grūdus mainydavo iš žemdirbių."
-  pagrindžia:
-    - c-175797
-
 <a id="claim-t-194875"></a>
 - t-002
   global_id: t-194875
   teiginys: "Skitų gentys dalijosi į įvairias kartas arba klases, bet dvi svarbiausios buvo šios: žemdirbių ir klajoklių."
   pagrindžia:
     - c-177271
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197571"></a>
+- t-003
+  global_id: t-197571
+  teiginys: "Remiantis mūsų prielaida (ją įrodyti reikėtų pernelyg daug laiko), Herodoto minimi skitai buvo senovinės indų—kaukaziečių genties (taip ją va dino Kiuvjė ir Bliumenbachas) palikuonys."
+  pagrindžia:
+    - c-177271
+
+<a id="claim-t-193027"></a>
+- t-001
+  global_id: t-193027
+  teiginys: 'Skitų klajokliai maistą gaudavo augindami gyvulius, medžiodami ir žvejodami, o grūdus mainydavo iš žemdirbių.'
+  pagrindžia:
+    - c-175797
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Skitų klajokliai maistą gaudavo augindami gyvulius, medžiodami ir žvejodami, o grūdus mainydavo iš žemdirbių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -90,70 +97,25 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Skitų gentys dalijosi į įvairias kartas arba klases, bet dvi svarbiausios buvo šios: žemdirbių ir klajoklių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    32
-    Skitų gentys dalijosi į įvairias kartas arba klases, bet
-    dvi svarbiausios buvo šios: žemdirbių ir klajoklių. Pir­
-    mieji priklausė aukštesniam civilizacijos lygiui, statėsi
-    pastovius namus, buvo sąžiningumo ir gerų papročių pa­
-    vyzdys, labai darbštūs, dirbdami žemę išaugindavo daug
-    grūdų, kurių duodavo ir kitoms gentims. Jų žemės buvo
-    abipus Dnepro, netoli šios upės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
-
-- id: c-175797
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Iš skitų
-    kilo budina, o ką jau kalbėti apie kitas mūsų nagrinėjamam objektui
-    tolimas tautas*.
-    54
-
-    ## Puslapis 52
-
-    visą maistą gaudavo augindamos gyvulius laukinėse ga­
-    nyklose, taip pat medžiodamos ir žvejodamos; grūdų gau­
-    davo iš savo gentainių žemdirbių mainais už gyvulius.
-    Visi jie buvo gana svetingi ir pasižymėjo žmoniškumu,
-    bet dėl savo gyvenimo būdo buvo mažiau civilizuoti už
-    anuos.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193027
 
 - id: c-177271
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 51"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 51."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    32
-    Skitų gentys dalijosi į įvairias kartas arba klases, bet
-    dvi svarbiausios buvo šios: žemdirbių ir klajoklių. Pir­
-    mieji priklausė aukštesniam civilizacijos lygiui, statėsi
-    pastovius namus, buvo sąžiningumo ir gerų papročių pa­
-    vyzdys, labai darbštūs, dirbdami žemę išaugindavo daug
-    grūdų, kurių duodavo ir kitoms gentims. Jų žemės buvo
-    abipus Dnepro, netoli šios upės.
+    Remiantis
+    mūsų prielaida (ją įrodyti reikėtų pernelyg daug laiko), Herodoto
+    minimi skitai buvo senovinės indų—kaukaziečių genties (taip ją va­
+    dino Kiuvjė ir Bliumenbachas) palikuonys. Tai buvo pirmykštė, gau­
+    si ir galinga tauta, iš kurios žiloje senovėje Azijoje ir Europoje iš­
+    siskyrė kelios šakos. Si tauta buvo gimininga pelazgams. Iš skitų
+    kilo budina, o ką jau kalbėti apie kitas mūsų nagrinėjamam objektui
+    tolimas tautas*.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194875
+    - t-197571

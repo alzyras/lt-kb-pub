@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 216
+tema_objektu_skaicius: 220
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 216.
+Objektų skaičius: 220.
 
 ## Kaip naudoti
 
@@ -24,6 +24,13 @@ Objektų skaičius: 216.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Celestinas III]]
+
+### Grupės
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- [[objektai/grupes/Totoriai]]
 
 ### Vietos
 - [[objektai/vietos/Afrika]]
@@ -48,9 +55,9 @@ Objektų skaičius: 216.
 - [[objektai/vietos/Busavna]]
 - [[objektai/vietos/Ceklis]]
 - [[objektai/vietos/Chersonas]]
-- [[objektai/vietos/Dainava]]
-- [[objektai/vietos/Dakija]]
-- [[objektai/vietos/Desna]]
+- [Dainava](../objektai/vietos/Dainava)
+- [Dakija](../objektai/vietos/Dakija)
+- [Desna](../objektai/vietos/Desna)
 - [Didžioji Lietuva](../objektai/vietos/Did%C5%BEioji%20Lietuva)
 - [Dnepras](../objektai/vietos/Dnepras)
 - [Dniepro žiotys](../objektai/vietos/Dniepro%20%C5%BEiotys)
@@ -242,3 +249,6 @@ Objektų skaičius: 216.
 - [Žemaitija](../objektai/vietos/%C5%BDemaitija)
 - [Žemaičių jūra](../objektai/vietos/%C5%BDemai%C4%8Di%C5%B3%20j%C5%ABra)
 - [Žemaičių kraštas (kraštas)](../objektai/vietos/%C5%BDemai%C4%8Di%C5%B3%20kra%C5%A1tas)
+
+### Žodynas
+- [seniūnas](../objektai/zodynas/seni%C5%ABnas)

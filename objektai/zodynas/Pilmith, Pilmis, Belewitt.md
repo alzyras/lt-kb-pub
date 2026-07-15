@@ -48,8 +48,8 @@ Vartojama kaip trumpas senovės vokiečių dievaičių sąrašas.
   teiginys: "Žinia apie dievaites Pilmith, Pilmis ir Belewitt pateikta kaip sakinys, kuriuo Narbutas papildė tekstą rengdamas antrąjį leidimą."
   pagrindžia:
     - c-175122
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žinia apie dievaites Pilmith, Pilmis ir Belewitt pateikta kaip sakinys, kuriuo Narbutas papildė tekstą rengdamas antrąjį leidimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -75,17 +75,14 @@ Vartojama kaip trumpas senovės vokiečių dievaičių sąrašas.
 - id: c-175122
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 471"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 471."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    pastraipos
-    tęsinys/
-    Senovės vokiečiai garbino dievaites Pilmith, Pilmis, Belewitt.
-    Sakinys, kuriuo autorius papildė tekstą, rengdamas antrąjį leidi­
-    mą
-    (PEĮ.
-    L.
-    55).
+    Iš kitų rankų gavau tokį
+    pat piešinį, tik su tuo skirtumu, jog ant akmeninio pagrindo buvo
+    rastas runų užrašas, patvirtinantis pono Volianskio spėjimą. Jis
+    išskaitė, jog tai yra Lauma, AVFTAL (skaitoma iš dešinės į kairę).
+    Žinoma, jog 1096 metais prūsai buvo tuose kraštuose ir stojo į
+    mūšį su lenkais prie Goplo ežero1.
   citata_rodoma: "Senovės vokiečiai garbino dievaites Pilmith, Pilmis, Belewitt.\nSakinys, kuriuo autorius papildė tekstą, rengdamas antrąjį leidi­\nmą\n(PEĮ.\nL.\n55)."
   statusas: verified
   teiginio_tipas: faktas

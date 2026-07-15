@@ -7,12 +7,12 @@ datos:
   - '1549 m.'
 date_start: '1549'
 date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
   teiginys: "M. Mažvydas 1549 m. Ragainėje lietuviškai parašė „Giesmę šv. Ambraziejaus“."
   pagrindžia:
     - c-61706
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Mažvydas 1549 m. Ragainėje lietuviškai parašė „Giesmę šv. Ambraziejaus“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,14 @@ Dusburgietis teigia, kad mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
 - id: c-61706
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
-    Ambraziejaus”).
+    Galop
+    rutėnai, pavargę nuo įstangų ir patyrę didelių išlaidų, paklausė apsiaustųjų, kuo jie
+    bemintą. Šie atsakė: „Žuvimis“. Mat jie turėję  viduryje pilies 20 žingsnių ilgio ir
+    beveik tokio pat pločio žuvų tvenkinį, jame buvę tiek žuvies, kad jos pakako visiems
+    apsiaustiesiems maitintis.
+  citata_rodoma: "Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.\nAmbraziejaus”)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

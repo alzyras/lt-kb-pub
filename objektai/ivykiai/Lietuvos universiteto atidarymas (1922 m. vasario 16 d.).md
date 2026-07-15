@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "Aukštieji kursai Kaune peraugo į Lietuvos universitetą, kuris buvo atidarytas 1922 m. vasario 16 d."
   pagrindžia:
     - c-75230
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Aukštieji kursai Kaune peraugo į Lietuvos universitetą, kuris buvo atidarytas 1922 m. vasario 16 d.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Laisvės sąlygomis sparčiai kilo švietimas, atsidarė naujų mokyklų,
-    1919 m. Lietuvoje jau veikė 1 036 mokyklos, jose buvo 45 540 mokinių,
-    Aukštieji kursai Kaune netrukus peraugo į Lietuvos universitetą (atida-
-    rytas 1922 m. vasario 16 d.). Per nepilnus du dešimtmečius jis parengė
-    3 700 specialistų, mokslininkų, pedagogų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

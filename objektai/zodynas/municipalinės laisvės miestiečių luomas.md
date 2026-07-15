@@ -35,29 +35,6 @@ Sil­ pno charakterio karalius negalėjo veiksmingai pasipriešinti turčių vyr
   teiginys: "Valdant Aleksandrui, miestiečių luomui stigo tvirtos municipalinių laisvių apsaugos nuo valdininkų ir šlėktų piktnaudžiavimo."
   pagrindžia:
     - c-82578
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Valdant Aleksandrui, miestiečių luomui stigo tvirtos municipalinių laisvių apsaugos nuo valdininkų ir šlėktų piktnaudžiavimo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nors Lietuvos sostinė ir gavo naudos susijusios su preky­
-    ba bei saugumu, bet akivaizdaus pagerėjimo valdant miestą
-    nebuvo matyti. Stigo tvirtos municipalinių laisvių ir nuosta­
-    tų apsaugos nuo valdininkų ir šlėktų piktnaudžiavimo. Sil­
-    pno charakterio karalius negalėjo veiksmingai pasipriešinti
-    turčių vyravimui ir duoti daugiau laisvės miestiečių luomui.
-    Po Aleksandro atėjusiems Lietuvos valdovams teko kuo rim­
-    čiausiai pasistengti, kad Lietuvos miestiečių luomui būtų
-    garantuotas geresnis gyvenimas ir kad suklestėtų šios šalies
-    miestai, išaugtų prekyba ir visos tautos gerovė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -33,45 +33,4 @@ media_all_json: |-
 
 ## Santrauka
 
-Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mūšyje, o Tautvilas su Erdvilu pabėgo. Greičiausiai tai buvo artimas Mindaugo bendradarbis, žemaičių kunigaikštis Vykintas.
-
-## Teiginiai
-
-<a id="claim-t-194092"></a>
-- t-001
-  global_id: t-194092
-  teiginys: "Vykintas — XIII a."
-  pagrindžia:
-    - c-176705
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vykintas — XIII a.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    *  Vykintas — XIII a. pirmosios pusės žemaičių kunigaikštis,
-    spėjamas lietuvių vadas I236.IX.22 Saulės (Šiaulių) mūšyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Citatos
-
-- id: c-176705
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 200"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 200."
-  citata_originali: |
-    *  Vykintas — XIII a. pirmosios pusės žemaičių kunigaikštis,
-    spėjamas lietuvių vadas I236.IX.22 Saulės (Šiaulių) mūšyje.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194092
+Nenurodyta

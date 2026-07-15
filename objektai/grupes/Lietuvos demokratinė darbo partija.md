@@ -50,53 +50,6 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
   teiginys: "Lietuvos politiniame gyvenime dominavo LDDP, vėliau susivienijusi su Lietuvos socialdemokratais ir tapusi LSDP."
   pagrindžia:
     - c-154380
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos politiniame gyvenime dominavo LDDP, vėliau susivienijusi su Lietuvos socialdemokratais ir tapusi LSDP.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagrindinis šalies įstatymas garantuo-
-    ja prigimtines žmogaus ir piliečio teises ir laisves, piliečiai, priklausantys
-    tautinėms bendrijoms, turi teisę puoselėti savo kalbą, kultūrą ir papro-
-    čius; tautinėms bendrijoms valstybė teikia paramą.
-    Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad
-    Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos
-    kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes pre-
-    zidentinei valdymo formai nepritarta. Visuomenė darėsi pliuralistinė, įre-
-    gistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo
-    du pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi
-
-    L I E T U V O S  I S T O R I J A
-    250
-    socialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-
-    tais ir taps LSDP) ir iš Sąjūdžio daugumos 1993 m. susidariusi Tėvynės
-    Sąjunga–Lietuvos konservatoriai (TS–LK).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Savarankiška LKP, vėliau pasivadinusi Lietuvos demokratine darbo partija, pasirinko socialdemokratinę orientaciją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Suvažiavimo metu „už savarankišką LKP, tu-
-    rinčią savo programą ir statutą“, iš 1 033 delegatų balsavo 855 ir LKP atsi-
-    skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
-    turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
-    pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
-    cialdemokratinę orientaciją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -12,14 +12,14 @@ datos:
   - '1245 m.'
 date_start: '1050'
 date_end: '1245'
+amziai:
+  - 'XI'
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - dokumentas
-amziai:
-  - 'XI'
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -89,8 +89,8 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   teiginys: "Vidurio Henriko iš Hohenlohės pranešimas — tik 500 vyrų (SRP, 5, p. 166)."
   pagrindžia:
     - c-159309
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vidurio Henriko iš Hohenlohės pranešimas — tik 500 vyrų (SRP, 5, p. 166).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -104,61 +104,6 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-
-- c-002
-  santrauka: 'Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    166 Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu,
-    įkūrimą paremtas Hohenlohės pranešimu. Pirmosios žinios apie Dobrynės ordiną išliko
-    1228 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Henriko iš Hohenlohės pranešime prūsų pasiuntinių vardai pateikti kaip Petraten, Preroch ir Thorandt.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
-    suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
-    ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi
-    Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo
-    metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;
-    minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge
-    su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
-      165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
-    įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten. Preroch, Thorandt (SRP,
-    5, p. 159).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-004
-  santrauka: 'Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino pajėgų sutriuškinimas siejamas su lietuviais ir prūsais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
-    jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė  ir
-    Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų  ir
-    sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
-    — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
-    prūsų kovą nuo Lietuvos, jos karinių pastangų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - c-005
   santrauka: 'Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.'
@@ -214,11 +159,16 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 - id: c-159309
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 95"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas
-    — tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje.
+    55 (54). Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
+    jos [vyrų]
+    Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą ir kai įsakė kitiems
+    jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės
+    kančios sujaudino Vokietijos kunigaikščius bei kilminguosius, o Austrijos kunigaikštis294
+    pasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais
+    kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
+  citata_rodoma: "292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas\n— tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -229,8 +179,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 - id: c-159310
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 44"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     166 Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu,
     įkūrimą paremtas Hohenlohės pranešimu. Pirmosios žinios apie Dobrynės ordiną išliko
@@ -245,8 +194,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 - id: c-159311
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 44"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
     suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
@@ -269,13 +217,12 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 - id: c-159312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 29"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
-    jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė  ir
-    Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų  ir
-    sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
+    jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir
+    Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų ir
+    sūduvių kariuomenę  (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
     — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
     prūsų kovą nuo Lietuvos, jos karinių pastangų.
   citata_rodoma: "Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną\njau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė  ir\nOrdino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų  ir\nsūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas\n— nurodo „lietuvius ir prūsus“144."
@@ -289,13 +236,16 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 - id: c-159313
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 46"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 46."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    172  Dusburgietis kaip ir Hohenlohės reliacija (SRP, 5, p. 160) teigia, kad Konradas
-    dovanojęs Ordinui Kulmo bei Lubavos žemes, suteikdamas visas teises, taip pat žemes,
-    kurias ateityje Ordinas atkovosiąs iš pagonių. Tačiau pirmasis Konrado užrašymas Ordinui
-    1228 m.
+    Apie pirmąsias derybas tarp Konrado ir kryžiuočių dėl šių įsikūrimo prie Vyslos kalba
+    imperatoriaus Fridricho II 1226 m. kovo mėn. privilegija („Aukso bulė“), kurioje minima
+    Kulmo bei gretima žemė (Nešavos?), taip pat žemės, kurios būsiančios užkariautos
+    Prūsijoje (PUB, 1, 1, Nr. 56). Panašiai teigia Krušvicos falsifikatas (1230 m. Konrado
+    dokumentas, kurio aprašas išlikęs 1234 m. popiežiaus kanceliarijos registre; manoma,
+    kad jis kryžiuočių sufalsifikuotas 1234 m.,— PUB, 1, 1, Nr. 78) bei juo paremta 1234 m.
+    popiežiaus bulė (PUB, 1, 1, Nr. 108).
+  citata_rodoma: "172  Dusburgietis kaip ir Hohenlohės reliacija (SRP, 5, p. 160) teigia, kad Konradas\ndovanojęs Ordinui Kulmo bei Lubavos žemes, suteikdamas visas teises, taip pat žemes,\nkurias ateityje Ordinas atkovosiąs iš pagonių. Tačiau pirmasis Konrado užrašymas Ordinui\n1228 m."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -306,13 +256,21 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 - id: c-159314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dusburgiečio šaltinis
-    — Henriko iš Hohenlohės pranešimas — pateikia kiek kitokią kryžiuočių pilių statybos
-    seką: po Marienverderio buvęs statytas Cristhborgk, o tik po to — Elbingas, Honeda —
-    Baiga (SRP, 5, p. 160; PKD, p. 37).
+    60 (59). Apie įvairias Sventopelko derybas ir sutartis
+    Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš
+    Lichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė:
+    „Esu pasirengęs paisyti teisingumo ir vykdyti visa, ką įsakys broliai, jeigu jie man
+    sugrąžins sūnų, kurį esu jiems davęs kaip įkaitą“. Valdovas Henrikas, turėdamas galvoje,
+    kad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu
+    negali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei
+    broliams savo sūnų kaip įkaitą, o daug kartų, susidedamas su atsimetėliais ir netikėliais,
+    su kurių kariuomene niokojai krikščionių bei brolių žemę, grobdamas ir degindamas, o
+    tikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,
+    vienus krikščionis negailestingai išžudydamas, kitus išsivarydamas į amžiną vergovę,
+    todėl ne teisingumo ieškoki, bet pasigailėjimo“.
+  citata_rodoma: "Dusburgiečio šaltinis\n— Henriko iš Hohenlohės pranešimas — pateikia kiek kitokią kryžiuočių pilių statybos\nseką: po Marienverderio buvęs statytas Cristhborgk, o tik po to — Elbingas, Honeda —\nBaiga (SRP, 5, p. 160; PKD, p. 37)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -323,14 +281,17 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 - id: c-159316
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 94"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    52 (51). Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną
-
-      288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
-    5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
-    pilis — Elbingą ir Baigą. Visą operaciją jis priskiria išimtinai Ordino broliams.
+    Todėl jis paragino vieną kilmingą Krokuvos vyrą290 stoti į vienuolyną, ir šis pasiuntė į
+    Torunės pilį tris didelius laivus, pakrautus vyno, midaus, arba medaus vyno, bei kitko,
+    kas reikalinga gyvenimui, be to, 300 jaučių bei karvių ir daug kinkomų gyvulių; neilgai
+    trukus pats atvykęs, buvo priimtas su didele pagarba, apsivilko Teutonų namų ordino
+    vienuolio apsiaustą, o brolius išgelbėjo nuo didelio vargo.
+    53 (52). Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
+    Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
+    Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
+    Višogrudo pilies291 ir ten įsikūrė stovyklą.
   citata_rodoma: "Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną\n\n  288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,\n5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino\npilis — Elbingą ir Baigą. Visą operaciją jis priskiria išimtinai Ordino broliams."
   statusas: verified
   teiginio_tipas: faktas

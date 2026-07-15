@@ -69,63 +69,7 @@ media_all_json: |-
   teiginys: "Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“."
   pagrindžia:
     - c-55404
-
-<a id="claim-t-71821"></a>
-- t-004
-  global_id: t-71821
-  teiginys: "Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“."
-  pagrindžia:
-    - c-55404
 - susijęs iš Vroclavas: Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tai reiškia:
-    „Žemaitijos žemė yra ir visada bu­
-    vo vienas ir tas pats, kaip ir Lietu­
-    vos žemė: juk ta pati kalba ir tie pa­
-    tys žmonės; tik dėl to, kad žemaičių
-    žemė yra žemesnė už Lietuvos že­
-    mę, todėl ir vadinama Szomoyth, kas
-    lietuviškai reiškia - žemesnė žemė.
-    O žemaičiai Lietuvą vadina Auxto-
-    te, tai yra aukštesnė žemė palyginus
-    su Žemaitija. Visi žemaičiai nuo se­
-    nų laikų lietuviais save vadino, bet
-    niekados - žemaičiais, ir dėl tokio ta­
-    patumo mes mūsų titule nerašome
-    Žemaitijos vardo, nes viskas yra vie­
-    na - ir žemė, ir žmonės/'
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pus­
-    broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­
-    beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
-    Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati
-    lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys
-    žmonės »^14. Jis pabrėžė, jog Žemaičiai nuo senovės didžiųjų kuni­
-    gaikščių esą valdomi paveldėjimo teise.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
 ## Citatos
 
 - id: c-55403
@@ -174,5 +118,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71822
     - t-71821

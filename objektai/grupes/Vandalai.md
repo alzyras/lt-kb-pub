@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio ir šiauresnių kraštų į pietus.
+Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio ir šiauresnių kraštų į pietus. Kaip tik tuo metu vyko didelis germanų genčių kraustymasis: vandalai, tiuringiai, gepidai, longobarda!
 
 ## Teiginiai
 
@@ -36,6 +36,13 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
   teiginys: "Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio ir šiauresnių kraštų į pietus."
   pagrindžia:
     - c-175734
+
+<a id="claim-t-197525"></a>
+- t-002
+  global_id: t-197525
+  teiginys: "Kaip tik tuo metu vyko didelis germanų genčių kraustymasis: vandalai, tiuringiai, gepidai, longobarda!"
+  pagrindžia:
+    - c-179231
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-192397|Gotai]]: Narbutas rašo, kad II amžiaus pradžioje gotai, nusiaubę ulmerugių kraštą tarp Oderio ir Viparos, atsigręžė prieš vandalus prie Vyslos vidurupio.
 - susijęs iš [[objektai/asmenys/Genserikas.md#claim-t-191270|Genserikas]]: Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją.
 - susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190736|Jordanas]]: Pasak Jordano, į vakarus keliavę Panonijoje gyvenę alanai kartu su vandalais bėgo nuo gotų, kuriuos vijo hunai.
@@ -53,36 +60,12 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
 - susijęs iš [[objektai/ivykiai/Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas.md#claim-t-191035|Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas]]: Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje po tenykščio imperatoriaus mirties.
 - susijęs iš Florencija: Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams.
 - susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190943|Odoakras]]: Teodoro Narbuto pasakojime Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio ir šiauresnių kraštų į pietus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Jų net pa­
-    daugėjo atvykus tautiečiams tiesiai iš gimtų lietuvių že­
-    mių. Kaip tik tuo metu vyko didelis germanų genčių
-    kraustymasis: vandalai, tiuringiai, gepidai, longobarda!
-    ir kai kurios sikandinavų-gotų gentys iš Vyslos žemupio
-    ir iš toliau Į šiaurę esančių kraštų siūbtelėjo į pietus; tai
-    jie išsivedė su savimi ir lietuvių kartas1, kurios galbūt
-    nenuėjo toliau kaip iki Dunojaus ir Noriko, o ten įsiliejo
-    į herulų kolonijas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175734
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 312"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jų net pa­
     daugėjo atvykus tautiečiams tiesiai iš gimtų lietuvių že­
@@ -99,6 +82,26 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192964
+
+- id: c-179231
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Kaip tik tuo metu vyko didelis germanų genčių
+    kraustymasis: vandalai, tiuringiai, gepidai, longobarda!
+    ir kai kurios sikandinavų-gotų gentys iš Vyslos žemupio
+    ir iš toliau Į šiaurę esančių kraštų siūbtelėjo į pietus; tai
+    jie išsivedė su savimi ir lietuvių kartas1, kurios galbūt
+    nenuėjo toliau kaip iki Dunojaus ir Noriko, o ten įsiliejo
+    į herulų kolonijas. Tačiau lietuvių Europos pietuose laukė
+    kitas likimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197525
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Gotai]]

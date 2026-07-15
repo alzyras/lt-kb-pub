@@ -57,7 +57,6 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
 - susijęs iš [[objektai/zodynas/Vizinas.md#claim-t-192580|Vizinas]]: Teodoro Narbuto aiškinimu, Wizin arba Vizinas Lydos apskrities lietuvių dialekte reiškė šliužą, bjaurų šliaužiojantį padarą.
 - susijęs iš [[objektai/zodynas/Vizinas.md#claim-t-192198|Vizinas]]: Teodoro Narbuto aiškinimu, Wizin arba Vizinas Lydos apskrities lietuvių dialekte reiškė šliužą, bjaurų šliaužiojantį padarą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiveržė į slavų kraštą ir sumušė venedų karalių Skalką.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -76,9 +75,12 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbuto pasakojime Jarmerikas pavergė slavų kraštą, įsiveržė į Prūsiją, užgrobė Sembą ir Kuršą žiauriai engdamas žmones.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174066
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
     40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
@@ -87,28 +89,7 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
     į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
     plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
     galo juos engdamas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Citatos
-
-- id: c-174066
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
-  citata_originali: |
-    Tuomet ir danų karalius Helgė kariavo su sla­
-    vais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­
-    bą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti
-    už savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė
-    į slavų kraštą; venedų karalius Skalka buvo sumuštas ir
-    krito mūšio lauke, o jo kraštas pateko į priešų rankas.
+  citata_rodoma: "Tuomet ir danų karalius Helgė kariavo su sla­\nvais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­\nbą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti\nuž savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė\nį slavų kraštą; venedų karalius Skalka buvo sumuštas ir\nkrito mūšio lauke, o jo kraštas pateko į priešų rankas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -119,16 +100,22 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
 - id: c-174067
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
-    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
-    ką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog
+    Pavergęs slavų kraštą ir pamanęs, jog
     įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
     į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
     plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
-    galo juos engdamas.
+    galo juos engdamas. Tuomet slavai, pasinaudodami Jar­
+    meriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir
+    plėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas
+    skubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­
+    galėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­
+    viais, jog visiškai įbauginta liaudis vėl nusižemino. Kiek
+    vėliau, kai Jarmerikas sunkiais karais vargino Pabaltijo
+    rusus, juos sėkmingai rėmė pašauktas pagalbon Danijos
+    karalius Halfanask
+  citata_rodoma: "Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti\n40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­\nką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog\nįtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė\nį Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus\nplytinčius kraštus, žiauriai liedamas žmonių kraują ir be\ngalo juos engdamas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

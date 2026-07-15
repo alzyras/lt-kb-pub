@@ -53,26 +53,6 @@ Nenurodyta
   teiginys: "Vladislovo Vazos elekcija užtruko vos pusę valandos, nes jis neturėjo priešininkų."
   pagrindžia:
     - c-02095
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl
-    tėvui mirus jokio kito
-    kandidato nebuvo. Visas
-    tarpuvaldis buvo labai
-    trumpas ir ramus. Pati
-    elekcija užtruko vos^1 /2
-    valandos, nes Vladislovo
-    priešų nebuvo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

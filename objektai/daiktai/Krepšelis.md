@@ -53,6 +53,7 @@ Nenurodyta
   teiginys: "Vienas iš kerdžiaus ūkininkėms padirbamų daikčiukų."
   pagrindžia:
     - c-177700
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

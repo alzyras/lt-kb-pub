@@ -40,29 +40,13 @@ Dusburgietis teigia, kad mortensen G.
   teiginys: "G. Mortenseno „Beiträge zu den Nationalitäten und Siedlungsverhältnissen von Pr. Litauen“ išleista Berlyne 1927 m."
   pagrindžia:
     - c-61817
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'G. Mortenseno „Beiträge zu den Nationalitäten und Siedlungsverhältnissen von Pr. Litauen“ išleista Berlyne 1927 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mortensen G. Beiträge zu den Nationalitäten und Siedlungsverhältnissen von Pr.
-    Litauen.— Berlin, 1927.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61817
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mortensen G. Beiträge zu den Nationalitäten und Siedlungsverhältnissen von Pr.
     Litauen.— Berlin, 1927.

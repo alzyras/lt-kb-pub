@@ -3,6 +3,7 @@ tipas: saltinis
 pavadinimas: 'Hartknoch, Alt- und Neues Preussen'
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas tvirtino, kad vyriausiųjų žynių sąrašo pasmerkimas buvo paimtas iš Hartknocho abejonės, pateiktos be argumentų.
+Narbutas tvirtino, kad vyriausiųjų žynių sąrašo pasmerkimas buvo paimtas iš Hartknocho abejonės, pateiktos be argumentų. Anot Hartknocho, sudargų iš ties būta, jų atminimas gyvas šios žemės padavimuose ir kai kuriuose vietovardžiuose2.
 
 ## Teiginiai
 
@@ -34,43 +35,56 @@ Narbutas tvirtino, kad vyriausiųjų žynių sąrašo pasmerkimas buvo paimtas i
   teiginys: "Narbutas tvirtino, kad vyriausiųjų žynių sąrašo pasmerkimas buvo paimtas iš Hartknocho abejonės, pateiktos be argumentų."
   pagrindžia:
     - c-173381
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas tvirtino, kad vyriausiųjų žynių sąrašo pasmerkimas buvo paimtas iš Hartknocho abejonės, pateiktos be argumentų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
-    da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
-    nuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra
-    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
-    argumentų, vien kaip savo paties abejonę. Dabar peržvelkime
-    mūsų amžiaus kritiko argumentus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197672"></a>
+- t-002
+  global_id: t-197672
+  teiginys: "Anot Hartknocho, sudargų iš ties būta, jų atminimas gyvas šios žemės padavimuose ir kai kuriuose vietovardžiuose2."
   pagrindžia:
-    - t-001
+    - c-179290
 
 ## Citatos
 
 - id: c-173381
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 431"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
-    da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
-    nuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra
-    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
-    argumentų, vien kaip savo paties abejonę. Dabar peržvelkime
-    mūsų amžiaus kritiko argumentus.
+    būti tariama Mergo; Henenbergerio Ronis yra Romais - visiš­
+    kai lietuviškas vardas; Bollojsus atsispindi pas mus pačius Lie­
+    tuvoje daugelyje vietovardžių - Balčiai (Bolcie), Baltininkai
+    (Bolcieniki), Balaičiai (Bolojcie). Pagaliau kritikas, norėdamas
+    visiškai sugriauti vyriausiųjų žynių sąrašą, sako, kad Jaygello,
+    Jargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo
+    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
+    tuva kilties ir vienos genties broliai?
+  citata_rodoma: "Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­\nda apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­\nnuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra\npaimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas\nargumentų, vien kaip savo paties abejonę. Dabar peržvelkime\nmūsų amžiaus kritiko argumentus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190498
+
+- id: c-179290
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Anot Hartknocho, sudargų iš­
+    ties būta, jų atminimas gyvas šios žemės padavimuose ir
+    kai kuriuose vietovardžiuose2. Dar ir šiandien čia yra du
+    piliavietėmis garsėjantys miesteliai, vadinami Sudargais:
+    vienas Prūsijoje, prie Rausvės upės, antras — kairiojoje
+    Nemuno pakrantėje, šiek tiek žemiau Jurbarko. Siame
+    senoviniame krašte taip pat yra Rosės upė, iki mūsų die­
+    nų išsaugojusi šį pavadinimą: ji prasideda į šiaurę nuo
+    Liubavo miestelio, teka iš pietų šiaurės link ir įteka į
+    Šešupę jos kairiojoje pakrantėje, kiek aukščiau Naumies­
+    čio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197672

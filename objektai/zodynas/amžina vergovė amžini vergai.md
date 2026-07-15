@@ -43,63 +43,12 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
   pagrindžia:
     - c-167384
 
-<a id="claim-t-58891"></a>
-- t-003
-  global_id: t-58891
-  teiginys: "Nusiaubę Kulmo žemę, prūsai dalį krikščionių išsivarė į nelaisvę ir pavertė amžinais vergais."
-  pagrindžia:
-    - c-167384
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Per Lenkijos žemės antpuolius moterys ir vaikai buvo išvaryti į amžiną vergovę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    2. Apie Lenkijos žemės nuniokojimą
-
-      Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir
-    nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis
-    įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis jėgomis ir pridarė jai štai tokių
-    nuostolių: sudeginę namus, iškapojo suaugusius žmones kalaviju, o moteris bei vaikus
-    išsivarė į amžiną vergovę; jei kartkartėmis kuri nėščia moteris, turėdama gimdyti, negalėjo
-    paskui juos toliau eiti, ją čia pat žudė; jie plėšė iš motinų rankų mažus vaikus ir juos
-    dobė, maustydami ant tvorų baslių. Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,
-    netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis,
-    Plocku vadinama163.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    kaimynais, išpažįstančiais krikščionybę, netrukdė jiems garbinti gyvojo dievo ir apskritai
-    jų nekliudė. Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui
-    prisėjo raugių. Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir
-    po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
-    arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
-    išsigelbėjo pabėgdamas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
 ## Citatos
 
 - id: c-59523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 43"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     2. Apie Lenkijos žemės nuniokojimą
 
@@ -123,8 +72,7 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
 - id: c-167384
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 43"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     kaimynais, išpažįstančiais krikščionybę, netrukdė jiems garbinti gyvojo dievo ir apskritai
     jų nekliudė. Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui
@@ -137,5 +85,4 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183999
     - t-58891

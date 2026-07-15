@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 133
+tema_objektu_skaicius: 129
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 133.
+Objektų skaičius: 129.
 
 ## Kaip naudoti
 
@@ -32,7 +32,6 @@ Objektų skaičius: 133.
 - [[objektai/ivykiai/Aleksandro Jakovlevo apsilankymas Lietuvoje ir valdžios nuolaidos LPS (1988 m. rugpjūčio 11–12 d.)]]
 - [[objektai/ivykiai/Aleksandro patvirtinimas Lietuvos didžiuoju kunigaikščiu]]
 - [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
-- [[objektai/ivykiai/Algirdo mirtis ir Jogailos paskelbimas didžiuoju kunigaikščiu]]
 - [[objektai/ivykiai/Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės]]
 - [[objektai/ivykiai/Antano Merkio vyriausybės sudarymas (1939 m. lapkritis)]]
 - [[objektai/ivykiai/Antrasis LLV padalijimas]]
@@ -51,7 +50,7 @@ Objektų skaičius: 133.
 - [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]
 - [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui]]
 - [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]
-- [III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)](../objektai/ivykiai/III%20Seimo%20daugumos%20demokratin%C4%97s%20reformos%20%281926%20m.%20bir%C5%BEelio%2017%20d.%29)
+- [[objektai/ivykiai/III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)]]
 - [III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.)](../objektai/ivykiai/III%20Seimo%20rinkimai%20ir%20kairiosios%20valdan%C4%8Diosios%20koalicijos%20sudarymas%20%281926%20m.%29)
 - [J. Tūbelio kabineto atsistatydinimas po Lenkijos ultimatumo (1938 m.)](../objektai/ivykiai/J.%20T%C5%ABbelio%20kabineto%20atsistatydinimas%20po%20Lenkijos%20ultimatumo%20%281938%20m.%29)
 - [JAV Kongreso Perkeltųjų asmenų įstatymo priėmimas (1948 m. vidurys)](../objektai/ivykiai/JAV%20Kongreso%20Perkelt%C5%B3j%C5%B3%20asmen%C5%B3%20%C4%AFstatymo%20pri%C4%97mimas%20%281948%20m.%20vidurys%29)
@@ -75,7 +74,6 @@ Objektų skaičius: 133.
 - [Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20ir%20Vytauto%20su%C4%97mimas%20bei%20K%C4%99stu%C4%8Dio%20mirtis%20Kriave%20%281382%20m.%20rugpj%C5%AB%C4%8Dio%2015%20d.%29)
 - [Kęstučio pasmaugimas Krėvos kalėjime ir represijos jo aplinkai](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20pasmaugimas%20Kr%C4%97vos%20kal%C4%97jime%20ir%20represijos%20jo%20aplinkai)
 - [Kęstučio perversmas ir Vilniaus užėmimas (1344-1345 m. žiemą)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20perversmas%20ir%20Vilniaus%20u%C5%BE%C4%97mimas%20%281344-1345%20m.%20%C5%BEiem%C4%85%29)
-- [Kęstučio suėmimas ir nužudymas po susitikimo su Jogaila](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20su%C4%97mimas%20ir%20nu%C5%BEudymas%20po%20susitikimo%20su%20Jogaila)
 - [Kęstučio Vilniaus užėmimas ir Jogailos suėmimas (1381 m.)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20Vilniaus%20u%C5%BE%C4%97mimas%20ir%20Jogailos%20su%C4%97mimas%20%281381%20m.%29)
 - [Kęstučio Vilniaus užėmimas, Jogailos suėmimas ir Vaidilos nubaudimas](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20Vilniaus%20u%C5%BE%C4%97mimas%2C%20Jogailos%20su%C4%97mimas%20ir%20Vaidilos%20nubaudimas)
 - [Laikinosios vyriausybės sudarymas (1941 m. birželio 23 d.)](../objektai/ivykiai/Laikinosios%20vyriausyb%C4%97s%20sudarymas%20%281941%20m.%20bir%C5%BEelio%2023%20d.%29)
@@ -121,7 +119,6 @@ Objektų skaičius: 133.
 - [Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)](../objektai/ivykiai/Stasio%20Ra%C5%A1tikio%20atleidimas%20i%C5%A1%20pareig%C5%B3%20%281940%20m.%20balandis%29)
 - [Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)](../objektai/ivykiai/Stepono%20Batoro%20privilegijos%20d%C4%97l%20Alantos%20dvaro%20dovanojimo%20Gabrieliui%20Beke%C5%A1ui%20suteikimas%20%281581%20m.%20vasario%2013%20d.%29)
 - [Susitarimas dėl Podolės valdymo ir Teodoro Sanguškos paskyrimas Severesko kunigaikščiu](../objektai/ivykiai/Susitarimas%20d%C4%97l%20Podol%C4%97s%20valdymo%20ir%20Teodoro%20Sangu%C5%A1kos%20paskyrimas%20Severesko%20kunigaik%C5%A1%C4%8Diu)
-- [Taikos susitarimas su Prūsijos magistru Albrechtu ir jo paskelbimas Prūsijos kunigaikščiu](../objektai/ivykiai/Taikos%20susitarimas%20su%20Pr%C5%ABsijos%20magistru%20Albrechtu%20ir%20jo%20paskelbimas%20Pr%C5%ABsijos%20kunigaik%C5%A1%C4%8Diu)
 - [Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.)](../objektai/ivykiai/Tamplieri%C5%B3%20ordino%20panaikinimo%20parengiamasis%20veiksmas%20Vieno%20suva%C5%BEiavime%20%281312%20m.%20kovo%2023%20d.%29)
 - [Targovicos ir Vilniaus konfederacijų susijungimas Brastoje](../objektai/ivykiai/Targovicos%20ir%20Vilniaus%20konfederacij%C5%B3%20susijungimas%20Brastoje)
 - [Tautai ir valstybei saugoti įstatymo priėmimas ir nacių organizacijų uždraudimas (1934 m.)](../objektai/ivykiai/Tautai%20ir%20valstybei%20saugoti%20%C4%AFstatymo%20pri%C4%97mimas%20ir%20naci%C5%B3%20organizacij%C5%B3%20u%C5%BEdraudimas%20%281934%20m.%29)
@@ -143,7 +140,6 @@ Objektų skaičius: 133.
 - [Vytauto Reivyčio įsakymas sulaikyti visus žydus ir getų sudarymas (1941 m. rugpjūčio 16 d.)](../objektai/ivykiai/Vytauto%20Reivy%C4%8Dio%20%C4%AFsakymas%20sulaikyti%20visus%20%C5%BEydus%20ir%20get%C5%B3%20sudarymas%20%281941%20m.%20rugpj%C5%AB%C4%8Dio%2016%20d.%29)
 - [Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)](../objektai/ivykiai/Vytauto%20skundas%20Ordinui%20imperijos%20kunigaik%C5%A1%C4%8Diams%20%281401%20m.%29)
 - [Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas](../objektai/ivykiai/Vytauto%20sri%C4%8Di%C5%B3%20kunigaik%C5%A1%C4%8Di%C5%B3%20suvaldymas%20ir%20valstyb%C4%97s%20sutelkimas)
-- [Vytauto tėviškės užrašymas Skirgailai Liubline](../objektai/ivykiai/Vytauto%20t%C4%97vi%C5%A1k%C4%97s%20u%C5%BEra%C5%A1ymas%20Skirgailai%20Liubline)
 - [Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)](../objektai/ivykiai/%C4%8Cek%C5%B3%20pasi%C5%ABlymas%20Jogailai%20ir%20Vytautui%20priimti%20%C4%8Cekijos%20karaliaus%20vainik%C4%85%20ir%20abiej%C5%B3%20atsisakymas%20%281420%20m.%29)
 - [Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)](../objektai/ivykiai/%C5%A0v.%20Vaclovo%20kar%C5%ABnos%20pasi%C5%ABlymas%20Jogailai%20ir%20Vytauto%20sutikimas%20priimti%20%C4%8Dek%C5%B3%20kar%C5%ABn%C4%85%20%281420%E2%80%931421%20m.%29)
 - [Švitrigailos 1451 m. privilegija ir ankstesnių Vytauto bei Algirdo privilegijų patvirtinimas dėl Ostapo Kropotkovo herbo (privilegija, XIV–XV a.)](../objektai/ivykiai/%C5%A0vitrigailos%201451%20m.%20privilegija%20ir%20ankstesni%C5%B3%20Vytauto%20bei%20Algirdo%20privilegij%C5%B3%20patvirtinimas%20d%C4%97l%20Ostapo%20Kropotkovo%20herbo)

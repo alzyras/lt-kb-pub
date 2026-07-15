@@ -35,8 +35,8 @@ Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
   teiginys: "Vytautas davė Roslavlio miestą kunigaikščiui Jurgiui Svetoslavovičiui."
   pagrindžia:
     - c-170346
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas davė Roslavlio miestą kunigaikščiui Jurgiui Svetoslavovičiui.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -62,17 +62,19 @@ Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
 - id: c-170346
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 96."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    33. APIE SMOLENSKO KUNIGAIKŠČIO GLEBO SVETOSLAVOVI-
-    ClAUS MAISTĄ PRIEŠ VYTAUTĄ IR VYTAUTO MOS! SU
-    TOTORIAIS PRIE VORKSLOS UPES
-    Didysis kunigaikštis Vytautas, sugrįžęs iš Vokieti­
-    jos į didžiojo kunigaikščio sostą, paleido savo uošvį
-    kunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­
-    ju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo-
-    vičiui davė Roslavlio2  miestą.
+    Ir su vi­
+    somis šiomis ginkluotomis pajėgomis ištraukė 19 prieš
+    chaną Temir-Kutlujų, ketindamas atimti iš jo karalystę
+    ir sakė, girdamasis bei grasindamas Ordai: „Eime, už­
+    kariausime totorių žemę, sumušime Temir-Kutlujų, pa­
+    sodinsime sostan chaną Tochtamyšą, o jis mus pasodins
+    valdyti visos Rusų žemės."
+    Ir, šitaip prakalbėjęs, leidosi kariauti su totoriais.
+    Tuo metu chanas Temir-Kutlujus suskubo atvykti su
+    daugeliu pulkų, su visomis savo ordos pajėgomis, susi­
+    tiko20 su Vytautu lauke prie Vorkslos upės51 ir antra-
   citata_rodoma: "paleido savo uošvį \nkunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­\nju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo- \nvičiui davė Roslavlio2  miestą."
   statusas: verified
   teiginio_tipas: faktas

@@ -42,20 +42,6 @@ Gudynas.
   teiginys: "P. Gudynas buvo 1976 m. Vilniuje išleisto leidinio „Lietuvos tapyba“ sudarytojas."
   pagrindžia:
     - c-22184
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius, 2009; Lietuvos tapyba. Sud. P. Gudynas. Vilnius, 1976; Millennium of Lithuania:
-    Millennium Lithuaniae.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -34,134 +34,55 @@ media_all_json: |-
 
 ## Santrauka
 
-Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą. Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.
+Konradas, Kojelavičiaus vadinamas magistru, įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą. Konradas, Kojelavičiaus vadinamas magistru, po žinios apie lenkų pralaimėjimą įsakė Albertui Hagenui užpulti Gardino pilį ir miestą.
 
 ## Teiginiai
 
-<a id="claim-t-186126"></a>
-- t-001
-  global_id: t-186126
-  teiginys: "Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą."
-  pagrindžia:
-    - c-169487
-
 <a id="claim-t-186127"></a>
-- t-002
+- t-001
   global_id: t-186127
-  teiginys: "Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą."
+  teiginys: "Konradas, Kojelavičiaus vadinamas magistru, įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą."
   pagrindžia:
     - c-169488
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Grafas Verneris fon Hoinbergas ir
-    Adolfas fon Vintimelis bei
-    kiti Reino krašto didikai kaip
-    tik buvo atvykę į Prūsiją.
-    Atvykus šiems pagalbinin­
-    kams,
-    magistras Konradas,
-    atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą
-    ir žiauriai nuniokojo visą Gardino kraštą. Taip pat Ka­
-    raliaučiaus komtūras Eberhardas fon Firneburgas, po
-    1304 m e ta i
-    P rū sijos
-    k ry žiu o čių
-    karas p rie š lie tu v iu s
-    182
-
-    ## Puslapis 181
-
-    Svirtilo išdavystės vėl užėmęs Aukaimio pilį, kurią,
-    kryžiuočių sugriautą, lietuviai buvo atstatę, išžudė gy­
-    nėjus ir sulygino su žeme įtvirtinimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196524"></a>
+- t-002
+  global_id: t-196524
+  teiginys: "Konradas, Kojelavičiaus vadinamas magistru, po žinios apie lenkų pralaimėjimą įsakė Albertui Hagenui užpulti Gardino pilį ir miestą."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kol lietuviai šitaip siautėjo Lenkijoje,
-    niekas jiems nepastojo kelio ir niekas nedrįso perse­
-    kioti traukiančių namo. Magistras Konradas, gavęs ži­
-    nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy­
-    nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė
-    Albertui Hagenui staiga užpulti Gardino pilį ir miestą,
-    likusius be gynėjų, ir užimti. Linksmai nusiteikę, prie­
-    šai iš arti grasino piliai, vildamiesi, jog klastingas su­
-    manymas pasiseks, tačiau jų kėslus suardė kilusi ne­
-    regėta audra.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-169488
 
 ## Citatos
-
-- id: c-169487
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Grafas Verneris fon Hoinbergas ir
-    Adolfas fon Vintimelis bei
-    kiti Reino krašto didikai kaip
-    tik buvo atvykę į Prūsiją.
-    Atvykus šiems pagalbinin­
-    kams,
-    magistras Konradas,
-    atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą
-    ir žiauriai nuniokojo visą Gardino kraštą. Taip pat Ka­
-    raliaučiaus komtūras Eberhardas fon Firneburgas, po
-    1304 m e ta i
-    P rū sijos
-    k ry žiu o čių
-    karas p rie š lie tu v iu s
-    182
-
-    ## Puslapis 181
-
-    Svirtilo išdavystės vėl užėmęs Aukaimio pilį, kurią,
-    kryžiuočių sugriautą, lietuviai buvo atstatę, išžudė gy­
-    nėjus ir sulygino su žeme įtvirtinimus.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186126
 
 - id: c-169488
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 182"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 182."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kol lietuviai šitaip siautėjo Lenkijoje,
-    niekas jiems nepastojo kelio ir niekas nedrįso perse­
-    kioti traukiančių namo. Magistras Konradas, gavęs ži­
+    Magistras Konradas, gavęs ži­
     nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy­
     nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė
     Albertui Hagenui staiga užpulti Gardino pilį ir miestą,
     likusius be gynėjų, ir užimti. Linksmai nusiteikę, prie­
     šai iš arti grasino piliai, vildamiesi, jog klastingas su­
     manymas pasiseks, tačiau jų kėslus suardė kilusi ne­
-    regėta audra.
+    regėta audra. Smarkios liū-
+    I š v y k u s
+    V y te n iu i,
+    tys, juodi debesys ir baisios
+    P rū sijo s
+    k ry žiu o č ia i
+    ūkanos, dieną mažne paver-
+    u žp u o la G ardin ą
+    tusios naktimi, neleido ne tik
+    imtis ginklo, bet ir vienam
+    kitą matyti, be to, nesiliaujantis griaustinio dundėji­
+    mas, vėjo šėlsmas, lietaus šniokštimas trukdė vadams
+    įsakinėti, o kariams išgirsti įsakymą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186127
+    - t-196524

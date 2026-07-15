@@ -58,27 +58,6 @@ Nenurodyta
   teiginys: "1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio."
   pagrindžia:
     - c-75219
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi,
-    šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
-    jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente. Jo-
-    gailaičių Europa pradėjo vaidinti „krikščionybės forposto“ vaidmenį, tie-
-    sa, nevienodai sėkmingai. Lietuva, Lenkijos padedama, atsilaikė prieš sta-
-    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
-    patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
-    lapio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

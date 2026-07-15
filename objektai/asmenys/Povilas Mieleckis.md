@@ -43,29 +43,6 @@ Po Rotundo Vilniaus vaitu tapo ir 1561 metais valdė Po­ vilas Mieleckis, kaip 
   teiginys: "Povilo Mieleckio valdymas Vilniaus vaitu 1561 m. šaltinyje laikomas labai abejotinu."
   pagrindžia:
     - c-83579
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Povilo Mieleckio valdymas Vilniaus vaitu 1561 m. šaltinyje laikomas labai abejotinu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Po Rotundo Vilniaus
-    vaitu tapo ir 1561 metais valdė Po­
-    vilas Mieleckis, kaip patvirtina tų
-    pačių vaitų sąrašas, išlikęs miesto ar­
-    chyve. Čia apsirikta dėl vardo, nes
-    pavardės Mieleskis ir Mieleckis be­
-    veik sutampa, o buvęs kitas vaitas
-    gal Rotundo sūnus, - to nežinau. Tik
-    to Povilo Mieleckio valdymas labai
-    abejotinas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -60,20 +60,6 @@ Nenurodyta
   teiginys: "Armatūros nuopjova, įstatyta į guminę žarną, datuojama 1991 m."
   pagrindžia:
     - c-44638
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 252, Armatūros nuopjova, įstatyta į guminę žarną. 1991 m., VDKM, Artūro Užgalio nuotr.
-    p. 252, Armatūros nuopjovos. 1991 m., VDKM, Artūro Užgalio nuotr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

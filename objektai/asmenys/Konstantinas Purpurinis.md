@@ -42,8 +42,8 @@ Narbutas Konstantiną Purpurinį vadina istoriku ir juo remiasi aiškindamas apt
   teiginys: "Pasak Narbuto cituojamo Purpurinio, Charoboe pečenegų ordos sostinė buvo Belotzebo, slaviškai vadinta Belaja Cerkove."
   pagrindžia:
     - c-174317
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Konstantiną Purpurinį vadina istoriku ir juo remiasi aiškindamas aptariamos tautos padalijimą į dvi puses.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -62,39 +62,24 @@ Narbutas Konstantiną Purpurinį vadina istoriku ir juo remiasi aiškindamas apt
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Pasak Narbuto cituojamo Purpurinio, Charoboe pečenegų ordos sostinė buvo Belotzebo, slaviškai vadinta Belaja Cerkove.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    100
-    Geografija. Viena dešiniojoje Dnepro pakrantėje gy­
-    venusi pečenegų orda Charoboe turėjo dalį Padneprės
-    žemių tarp Dnepro ir Bugo aukštupio; jos sostinė, pasak
-    Purpurinio, buvo Belotzebo miestas, o slaviškai Belaja
-    Cerkovė1. Tad nuo X iki XII amžiaus antrojo dešimtme­
-    čio šiai ordai priklausė kraštas prie Rosés upės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-174316
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 105"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 105."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pažiūrėkime į šio pavadinimo ištakas, rem­
-    damiesi savo žiniomis. Anot anuometinio istoriko Kons­
-    tantino Purpurinio*, jie buvo pasidaliję į dvi puses (po-
-    towy), kurių kiekvieną sudarė keturios ordos; orda dali­
-    josi į penkias apskritis, arba pavietus. Dešiniojoje Dnep-
-    1 Poloviečiai patys save vadino Kipczak.
+    Viena žlugo, kaip jau rašėme, nuo graikų ir jų sąjungi­
+    ninkų ginklą, kita išsilaikė ir visuomet buvo bloga rusų
+    kaimynė. Pečenegų pavadinimas buvo bendrinis arba tai­
+    komas visai tautai, t. y. abiem jos pusėms, gyvenančioms
+    abipus Dnepro žemupio. Bet ta pusė, kuri gyveno kairio­
+    joje šios upės pakrantėje, buvo pavadinta poloviečiais
+    nuo pusės (polouiy, arba potovuicy). Neabejotinai slaviš­
+    ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
+    kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
+    vengrai vadino šias gentis kumanais.
+  citata_rodoma: "Pažiūrėkime į šio pavadinimo ištakas, rem­\ndamiesi savo žiniomis. Anot anuometinio istoriko Kons­\ntantino Purpurinio*, jie buvo pasidaliję į dvi puses (po-\ntowy), kurių kiekvieną sudarė keturios ordos; orda dali­\njosi į penkias apskritis, arba pavietus. Dešiniojoje Dnep-\n1 Poloviečiai patys save vadino Kipczak."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -105,8 +90,7 @@ Narbutas Konstantiną Purpurinį vadina istoriku ir juo remiasi aiškindamas apt
 - id: c-174317
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 107"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 107."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     100
     Geografija. Viena dešiniojoje Dnepro pakrantėje gy­

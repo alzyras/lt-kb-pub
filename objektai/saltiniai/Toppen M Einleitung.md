@@ -34,8 +34,8 @@ Dusburgietis teigia, kad toppen M Einleitung.—SRP, 1, S.
   teiginys: "M. Toppeno „Einleitung“ paskelbta SRP pirmojo tomo 3–20 puslapiuose."
   pagrindžia:
     - c-61951
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Toppeno „Einleitung“ paskelbta SRP pirmojo tomo 3–20 puslapiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -55,11 +55,13 @@ Dusburgietis teigia, kad toppen M Einleitung.—SRP, 1, S.
 - id: c-61951
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Toppen M Einleitung.—SRP, 1, S. 3—20.
-      Toeppen M. Historisch-comparative Geographie von Preussen.
+    — М., 1974.
+    Иванов В. В., Топоров В. Н. Мифологические географические названия как
+    источник для реконструкции этногенеза и древнейшей истории славян. — Вопросы
+    этногенеза н этнической истории славян и восточных романцев: Методология и
+    историография, М., 1976, с.
   citata_rodoma: "Toppen M Einleitung.—SRP, 1, S. 3—20."
   statusas: verified
   teiginio_tipas: faktas

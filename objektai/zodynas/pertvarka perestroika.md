@@ -43,6 +43,7 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
   teiginys: "Pradiniame etape Sąjūdis rėmė Maskvoje pradėtas perestroikos reformas ir siekė jas įgyvendinti Lietuvoje."
   pagrindžia:
     - c-24932
+    - c-166846
 
 <a id="claim-t-22243"></a>
 - t-002
@@ -50,86 +51,6 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
   teiginys: "SSRS pradėjus Michailo Gorbačiovo pertvarką, LKP vadovai Petras Griškevičius ir Rimgaudas Songaila Lietuvoje laikėsi pasyviai."
   pagrindžia:
     - c-24931
-
-<a id="claim-t-183451"></a>
-- t-003
-  global_id: t-183451
-  teiginys: "Pradiniame etape Sąjūdis rėmė Maskvoje pradėtas perestroikos reformas ir siekė jas įgyvendinti Lietuvoje."
-  pagrindžia:
-    - c-166846
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    VI s k y r i u s
-    DAINUOJANTI
-    REVOLIUCIJA
-    SU SĄJŪDŽIU UŽ LIETUVĄ
-    S
-    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
-    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
-    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
-    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
-    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
-    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP
-    miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
-    vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
-    liausiai ji pati ėmėsi iniciatyvos.
-    Lietuvos Persitvarkymo Sąjūdis
-    1988–1990 metais
-    Valdžios nedraudžiamų klubų veikla kultūros, gamtos apsau-
-    gos, ekologijos ir kitais klausimais išjudino rašytojus, jie reikalavo, kad stu-
-    miama iš visuomenės apyvartos lietuvių kalba taptų oficiali kalba, kad Lietu-
-    vos istorija mokyklose būtų dėstoma kaip pagrindinė istorijos pamokų tema,
-    prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Pradiniame etape Sąjūdis rėmė Maskvoje pradėtas perestroikos reformas ir siekė jas įgyvendinti Lietuvoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Giedrius Reimeris, Algimantas
-    Nasvytis)
-    Laisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač
-    1939–1940 m. įvykiais Lietuvoje, pagyvėjo gamtos ir paminklų apsaugos są-
-    jūdžiai, didžiulę įtaką darė Rusijos spauda. Pradiniame etape Sąjūdis iš es-
-    mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
-    pais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja
-    SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
-    o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
-    Lietuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Pradiniame etape Sąjūdis rėmė Maskvoje pradėtas perestroikos reformas ir siekė jas įgyvendinti Lietuvoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pradiniame etape Sąjūdis iš es-
-    mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
-    pais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja
-    SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
-    o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
-    Lietuvoje. Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -205,5 +126,3 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183451

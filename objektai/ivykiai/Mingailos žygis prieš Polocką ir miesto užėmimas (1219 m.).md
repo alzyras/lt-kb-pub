@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Mingaila prie Gorodeco užpuolė polockiečių kariuomenę ir privertė ją bėgti iš kovos lauko bei stovyklos.
+Polockiečiams pasiekus Gorodecą, Mingaila juos užpuolė, privertė bėgti iš kovos lauko ir stovyklos, o paskui patraukė prie Polocko sienų. Kojelavičiaus pasakojime Mingaila tais pačiais metais po pergalės mirė, palikęs įpėdiniais Skirmantą ir Ginvilą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,68 +47,64 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-185624"></a>
+<a id="claim-t-196226"></a>
 - t-001
-  global_id: t-185624
-  teiginys: "Mingaila prie Gorodeco užpuolė polockiečių kariuomenę ir privertė ją bėgti iš kovos lauko bei stovyklos."
+  global_id: t-196226
+  teiginys: "Polockiečiams pasiekus Gorodecą, Mingaila juos užpuolė, privertė bėgti iš kovos lauko ir stovyklos, o paskui patraukė prie Polocko sienų."
   pagrindžia:
-    - c-168985
-## Reikšmingi paminėjimai
+    - c-178587
 
-- c-001
-  santrauka: 'Mingaila prie Gorodeco užpuolė polockiečių kariuomenę ir privertė ją bėgti iš kovos lauko bei stovyklos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Patys
-    tvarkykite savo valstybę, iš
-    savųjų parinkę tokių pilie-
-    83
-
-    ## Puslapis 82
-
-    galią; skriausdami sąjungininkus, jie kurstė priešus ir
-    karą prieš save. Arčiausiai puolančiųjų plytėjo Min-
-    gailos valdinių žemės: norėdamas atkeršyta už jų nu­
-    siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai
-    jas užėmė, šiek tiek anksčiau su kariuomene patraukę
-    ligi Gorodeco miesto. Juos pasitiko Mingaila ir, drą­
-    siai užpuolęs palaidą minią, narsią vien dėl gausumo,
-    o visai nemokančią kariauti, vienu smūgiu privertė
-    sprukti ir iš kovos lauko, ir iš stovyklos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196227"></a>
+- t-002
+  global_id: t-196227
+  teiginys: "Kojelavičiaus pasakojime Mingaila tais pačiais metais po pergalės mirė, palikęs įpėdiniais Skirmantą ir Ginvilą."
   pagrindžia:
-    - t-001
+    - c-178588
 
 ## Citatos
 
-- id: c-168985
+- id: c-178587
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Patys
-    tvarkykite savo valstybę, iš
-    savųjų parinkę tokių pilie-
-    83
-
-    ## Puslapis 82
-
-    galią; skriausdami sąjungininkus, jie kurstė priešus ir
-    karą prieš save. Arčiausiai puolančiųjų plytėjo Min-
+    Arčiausiai puolančiųjų plytėjo Min-
     gailos valdinių žemės: norėdamas atkeršyta už jų nu­
     siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai
     jas užėmė, šiek tiek anksčiau su kariuomene patraukę
     ligi Gorodeco miesto. Juos pasitiko Mingaila ir, drą­
     siai užpuolęs palaidą minią, narsią vien dėl gausumo,
     o visai nemokančią kariauti, vienu smūgiu privertė
-    sprukti ir iš kovos lauko, ir iš stovyklos.
+    sprukti ir iš kovos lauko, ir iš stovyklos. Po to, lipte
+    lipdamas bėgantiems ant kulnų, mikliai išnaudojo per-
+    pergalingą kariuomenę atvedė prie Polocko sienų, kur
+    pabėgę priešai buvo perkėlę karo veiksmus.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185624
+    - t-196226
+
+- id: c-178588
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Neilgai šia pergale džiaugėsi Mingai­
+    la tais pačiais metais jis mirė, įpėdiniais palikdamas
+    Skirmantą ir Ginvilą, kurių pirmasis, amžiumi vyres­
+    nis, paveldėjo senelio valdžią Naugarduke, o antra­
+    sis — tėvo Polocke. Sėkmingų lietuvių žygių Rusioje
+    nevaliojo pakęsti rusų kunigaikščiai. Jie niršo, kad dar
+    viešpatauti visoje Rusioje; todėl visas reikalas neabe­
+    jotinai krypo į karą. Seniai jų pasipiktinimas būtų
+    prasiveržęs atviru karu, jeigu stipresnis priešas — len­
+    kai — tuo metu nebūtų nukreipęs rusų dėmesio ir jėgų
+    nuo minčių apie žygį į Lietuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196227

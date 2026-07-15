@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su slavų Gurovidu, bet Narbutas šį aiškinimą atmetė.
+Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su slavų Gurovidu, bet Narbutas šį aiškinimą atmetė. Bandkė turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.
 
 ## Teiginiai
 
@@ -35,47 +35,29 @@ Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su sl
   teiginys: "Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su slavų Gurovidu, bet Narbutas šį aiškinimą atmetė."
   pagrindžia:
     - c-173296
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su slavų Gurovidu, bet Narbutas šį aiškinimą atmetė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ypač
-    jis buvo gerbtinas kaip žemdirbių dievas.
-    Bandkė savo Lenkijos istorijoje, išvardydamas slavų die­
-    vus, aiškiai sako, kad lietuvių Gurko atitinka slavų Gurovidą
-    (Gorowicl). Nežinia, dėl kurios priežasties, nes jei dėl žodžių
-    panašumo, tai jis apsiriko: lietuviai jo nevadino kitaip, kaip
-    tik Žemininku, o prūsai -  Kurku, o jei iš lotynų kalbos Cur-
-    chus, tai visai ne nuo žodžio gora, nes gora yra Kalnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197276"></a>
+- t-002
+  global_id: t-197276
+  teiginys: "Bandkė turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje."
   pagrindžia:
-    - t-001
+    - c-173296
 
 ## Citatos
 
 - id: c-173296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 109"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ypač
-    jis buvo gerbtinas kaip žemdirbių dievas.
-    Bandkė savo Lenkijos istorijoje, išvardydamas slavų die­
-    vus, aiškiai sako, kad lietuvių Gurko atitinka slavų Gurovidą
-    (Gorowicl). Nežinia, dėl kurios priežasties, nes jei dėl žodžių
-    panašumo, tai jis apsiriko: lietuviai jo nevadino kitaip, kaip
-    tik Žemininku, o prūsai -  Kurku, o jei iš lotynų kalbos Cur-
-    chus, tai visai ne nuo žodžio gora, nes gora yra Kalnas.
+    Patelas (Patelo)
+    Skraidančių oro dvasių dievas, savitas aukščiausiosios ka­
+    tegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą
+    jis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190413
+    - t-197276

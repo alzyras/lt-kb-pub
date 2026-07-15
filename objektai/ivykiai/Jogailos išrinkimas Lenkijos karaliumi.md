@@ -57,23 +57,6 @@ Nenurodyta
   teiginys: "1386 m. vasario 2 d. Liubline kilmingųjų seimas Jogailą išrinko Lenkijos karaliumi."
   pagrindžia:
     - c-28719
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Valkaviske Lenkijos pasiuntinių sutiktas (1386.I.12), Jogaila
-    nuvyko į kilmingųjų seimą Liubline, kur buvo išrinktas Lenkijos
-    karaliumi (II.2). Prie Sandomiro jį pasitiko nelaimingosios
-    Jadvygos pasiuntinys, Zaviša iš Olesnicos. Jis karalienei paliudijo,
-    kad Jogaila esąs gražus vyras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,26 +35,6 @@ iš Dniepro žemupio išjudėjo slavai, siekdami įsikurti pratuštėjusiuose ge
   teiginys: "Apie VI a. po Kr. iš Dniepro žemupio pajudėję slavai užėmė ir pamažu asimiliavo dalį rytinių baltų žemių."
   pagrindžia:
     - c-33827
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Begyvendamos kaimynystėje, abi protautės įgijo bendrų
-    žodžių ir kalbos ypatybių, kurios jas atskyrė nuo kitų indoeuropie­
-    čių kalbų. Abi prokalbės vėliau nutolo, ir tik istorinių laikų angoje
-    teprasidėjo kaimyniniai ryšiai.
-    Kai apie VI amž. po Kr. iš Dniepro žemupio išjudėjo slavai,
-    siekdami įsikurti pratuštėjusiuose germanų plotuose (buvusioje
-    « Hermanariko valstybėje »), jie užėmė ir pamažu asimiliavo, nors
-    ir būdami žemesnio kultūros laipsnio, dalį rytinių baltų žemių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -45,31 +45,6 @@ Mikalojus (Trakų klebonas) buvo nepa­ geidaujamas Vytauto, Apaštališkajam So
   teiginys: "Vytautas Apaštališkajam Sostui siūlė Trakų koleginės bažnyčios kleboną Mikalojų į Vilniaus vyskupus."
   pagrindžia:
     - c-83896
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautas Apaštališkajam Sostui siūlė Trakų koleginės bažnyčios kleboną Mikalojų į Vilniaus vyskupus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mikalojus Gožkovskis, lenkas, šv. teologijos daktaras, kry­
-    žiaus ženklo antspaudą dėdavęs, buvo vyskupu nuo 1408 m.
-    iki 1414 m.5
-    5. Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­
-    dę „S" turėjęs, šv. teologijos daktaras, vyskupu tapo 1415 m.,
-    mirė 1421 m.
-    6. Motiejus, šv. teologijos magistras, lietuvis, iš pradžių,
-    nuo 1417 metų, Medininkų arba Žemaičių vyskupas, paskui,
-    1421 m., popiežiaus iškeltas į Vilniaus vyskupus, tačiau ne­
-    greit perėmė valdžią kitos diecezijos, kadangi jis buvo nepa­
-    geidaujamas Vytauto, Apaštališkajam Sostui į Vilniaus vys­
-    kupus siūlančio Trakų koleginės bažnyčios kleboną Mikalojų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

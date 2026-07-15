@@ -57,22 +57,6 @@ Nenurodyta
   teiginys: "Po Melno taikos Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai."
   pagrindžia:
     - c-23142
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos priori-
-    tetą – 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją
-    ir grėsmės Lietuvai nebekėlė. Atėjo metas Lietuvos ir Lenkijos santykių
-    problemai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

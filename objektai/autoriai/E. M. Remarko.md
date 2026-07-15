@@ -44,22 +44,6 @@ Remarko „VAKARŲ FRONTE NIEKO NAUJO“.
   pagrindžia:
     - c-36651
 - susijęs iš Vakarų fronte nieko naujo: E. M. Remarko „Vakarų fronte nieko naujo“ iš originalo vertė J. Kalnėnas, o viršelį piešė J. Burba.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1929 m. išleistas E. M. Remarko „Vakarų fronte nieko naujo“ vertimas iš originalo, kurį vertė J. Kalnėnas.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1. E. M. Remarko „VAKARŲ FRONTE NIEKO NAUJO“. Iš originalo
-    vertė J. Kalnėnas. Viršelį piešė J. Burba. 1929 m. 256 psl. Kaina Lt. 4,—.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-36651

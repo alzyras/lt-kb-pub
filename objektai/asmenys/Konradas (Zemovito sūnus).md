@@ -35,44 +35,13 @@ Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelais
   teiginys: "Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelaisvę ir vėliau grąžino į tėvo valdas."
   pagrindžia:
     - c-169489
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelaisvę ir vėliau grąžino į tėvo valdas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
-    latos siaubė Mindaugo karvedžiai, ten vyko kovos prie
-    Lielvardės pilies Dauguvos pakrantėse, tačiau kokia
-    norėdamas turėti laisvesnes
-    rankas, atnaujino santarvę su rusais, ir tuo būdu tapo
-    užmegzta rusų ir lietuvių
-    vo kunigaikščio vaikaitis, palydėjo Mindaugą į žygį
-    Mazovijos žemėn. Mindaugas, susilaukęs paramos iš
-    rusų, slaptai ir netikėtai didžiulių miškų takais įsibro­
-    vė Mazovijon: jis užklupo kunigaikštį Zemovitą bei
-    jo sūnų Konradą, Jazdovo dvare nerūpestingai vasa­
-    ros karštymetyje gyvenančius su visa palyda. Metus
-    burtus, Zemovitas pakliuvo Švarnui į nelaisvę, o Kon­
-    radas — Mindaugui; pastarasis buvo draugiškai lietu­
-    vio priimtas, o jo žmonėms sumokėjus išpirką, sugrą­
-    žintas į tėvo valdas, vargšas Zemovitas tuo tarpu žu­
-    vo ruso netrukus žiauriai nukankintas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169489
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 106"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 106."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
     latos siaubė Mindaugo karvedžiai, ten vyko kovos prie

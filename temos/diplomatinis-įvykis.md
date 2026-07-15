@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 61
+tema_objektu_skaicius: 58
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 61.
+Objektų skaičius: 58.
 
 ## Kaip naudoti
 
@@ -35,7 +35,6 @@ Objektų skaičius: 61.
 - [[objektai/ivykiai/Brolio Popono atvykimas, Mstivojaus įkaitavimas ir senosios taikos atnaujinimas (1244 m.)]]
 - [[objektai/ivykiai/Dubysos salos derybos su Ordinu (1396 m.)]]
 - [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]
-- [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
 - [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]
 - [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
 - [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
@@ -51,7 +50,7 @@ Objektų skaičius: 61.
 - [[objektai/ivykiai/Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.)]]
 - [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės pripažinimo aktas (1918 m. kovo 23 d.)]]
-- [Lietuvos pasiūlymas vadovauti Goro provincijos atkūrimo grupei Afganistane (2004 m. pabaiga)](../objektai/ivykiai/Lietuvos%20pasi%C5%ABlymas%20vadovauti%20Goro%20provincijos%20atk%C5%ABrimo%20grupei%20Afganistane%20%282004%20m.%20pabaiga%29)
+- [[objektai/ivykiai/Lietuvos pasiūlymas vadovauti Goro provincijos atkūrimo grupei Afganistane (2004 m. pabaiga)]]
 - [Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)](../objektai/ivykiai/Lietuvos%20pirmininkavimas%20Europos%20S%C4%85jungai%20%282013%20m.%29)
 - [Lietuvos prisidėjimas prie Bolonijos deklaracijos (1999 m.)](../objektai/ivykiai/Lietuvos%20prisid%C4%97jimas%20prie%20Bolonijos%20deklaracijos%20%281999%20m.%29)
 - [Lietuvos priėmimas į Jungtines Tautas ir Europos Tarybą (1991–1993 m.)](../objektai/ivykiai/Lietuvos%20pri%C4%97mimas%20%C4%AF%20Jungtines%20Tautas%20ir%20Europos%20Taryb%C4%85%20%281991%E2%80%931993%20m.%29)
@@ -60,7 +59,6 @@ Objektų skaičius: 61.
 - [Lietuvos įstojimas į ES ir NATO (2004 m.)](../objektai/ivykiai/Lietuvos%20%C4%AFstojimas%20%C4%AF%20ES%20ir%20NATO%20%282004%20m.%29)
 - [Livonijos kalavijuočių derybos dėl prisijungimo prie Vokiečių ordino (1230–1235 m.)](../objektai/ivykiai/Livonijos%20kalavijuo%C4%8Di%C5%B3%20derybos%20d%C4%97l%20prisijungimo%20prie%20Vokie%C4%8Di%C5%B3%20ordino%20%281230%E2%80%931235%20m.%29)
 - [LLL kreipimasis į JT ir 45 pabaltijiečių memorandumas (1979 m. rugpjūčio 23 d.)](../objektai/ivykiai/LLL%20kreipimasis%20%C4%AF%20JT%20ir%2045%20pabaltijie%C4%8Di%C5%B3%20memorandumas%20%281979%20m.%20rugpj%C5%AB%C4%8Dio%2023%20d.%29)
-- [Maskvos valdovo apgaulė taikos kalbomis ir Polocko apgulties pradžia](../objektai/ivykiai/Maskvos%20valdovo%20apgaul%C4%97%20taikos%20kalbomis%20ir%20Polocko%20apgulties%20prad%C5%BEia)
 - [Mindaugo pasiuntinių siuntimas pas popiežių (1251 m.)](../objektai/ivykiai/Mindaugo%20pasiuntini%C5%B3%20siuntimas%20pas%20popie%C5%BEi%C5%B3%20%281251%20m.%29)
 - [Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje](../objektai/ivykiai/Moldavijos%20vaivados%20Stepono%20vasalin%C4%97%20priesaika%20Kolomyjoje)
 - [Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas](../objektai/ivykiai/Pasiuntinyb%C4%97%20%C4%AF%20Maskv%C4%85%2C%20sulaikymas%20Mo%C5%BEaiske%20ir%20legat%C5%B3%20paleidimas)
@@ -79,7 +77,6 @@ Objektų skaičius: 61.
 - [Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)](../objektai/ivykiai/Vilhelmo%20i%C5%A1%20Modenos%20pasiuntinyb%C4%97%20ir%20kry%C5%BEiaus%20karo%20skelbimas%20prie%C5%A1%20Sventopelko%20persekiojim%C4%85%20%281243%20m.%29)
 - [Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)](../objektai/ivykiai/Vroclavo%20sprendimas%20d%C4%97l%20%C5%BDemai%C4%8Di%C5%B3%20ir%20S%C5%ABduvos%20%281420%20m.%29)
 - [Vytauto derybos su kryžiuočiais](../objektai/ivykiai/Vytauto%20derybos%20su%20kry%C5%BEiuo%C4%8Diais)
-- [Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske](../objektai/ivykiai/Vytauto%20ir%20Maskvos%20did%C5%BEiojo%20kunigaik%C5%A1%C4%8Dio%20Vasilijaus%20susitikimas%20Smolenske)
 - [Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.)](../objektai/ivykiai/Vytauto%20misija%20pas%20Zigmant%C4%85%20ir%20nes%C4%97kmingos%20derybos%20su%20Vaclovu%20%281410%20m.%29)
 - [Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)](../objektai/ivykiai/Vytauto%20skundas%20Ordinui%20imperijos%20kunigaik%C5%A1%C4%8Diams%20%281401%20m.%29)
 - [Vytauto susitaikymas su Jogaila ir pabėgimas iš Prūsijos (1388 m.)](../objektai/ivykiai/Vytauto%20susitaikymas%20su%20Jogaila%20ir%20pab%C4%97gimas%20i%C5%A1%20Pr%C5%ABsijos%20%281388%20m.%29)

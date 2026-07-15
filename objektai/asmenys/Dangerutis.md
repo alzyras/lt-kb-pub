@@ -35,35 +35,13 @@ Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną liet
   teiginys: "Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną lietuvių vadą ar kunigaikštį, vardu Dangerutis; ten sako ma, kad tas garsus karžygys buvo karo dievo, vadinto Kanas, žynys."
   pagrindžia:
     - c-177222
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną lietuvių vadą ar kunigaikštį, vardu Dangerutis; ten sako ma, kad tas garsus karžygys buvo karo dievo, vadinto Kanas, žynys.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Anot
-    autoriaus, tai buvęs šios tautos karo šūkis, arba kreipinys į jų
-    karo dievą. Tose pačiose pastabose dar yra užuomina apie vie­
-    ną lietuvių vadą ar kunigaikštį, vardu Dangerutis; ten sako­
-    ma, kad tas garsus karžygys buvo karo dievo, vadinto Kanas,
-    žynys. Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
-    sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
-    kalaviju, kurio iš jo neatėmė pagerbdami jo luomą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 97"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Anot
     autoriaus, tai buvęs šios tautos karo šūkis, arba kreipinys į jų

@@ -50,6 +50,7 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
 - susijęs iš [[objektai/asmenys/Goteris.md#claim-t-191274|Goteris]]: Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi ir rusų karalienės Rindos vyru.
 - susijęs iš [[objektai/asmenys/Homeras.md#claim-t-191278|Homeras]]: Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujančia upe.
 - susijęs iš [[objektai/asmenys/Rinda.md#claim-t-191459|Rinda]]: Narbutas pasakoja, kad rusų karalienės Rindos vyras Bojus kovėsi su Goteriu, buvo sužeistas ir trečią dieną mirė nuo žaizdų.
+- susijęs iš [[objektai/asmenys/Steponas Kristupas Pacas.md#claim-t-200863|Steponas Kristupas Pacas]]: Kristupas Pacas keliaudamas po Italiją ir Nyderlandus studijavo meno paminklus, pažinojo Rubensą ir lankydavosi jo dirbtuvėje Antverpene.
 - susijęs iš [[objektai/asmenys/Valdemaras IV.md#claim-t-30406|Valdemaras IV]]: Iš Danijos karaliaus Valdemaro IV Ordinas nupirko Estiją.
 - susijęs iš [[objektai/autoriai/Homeras.md#claim-t-190724|Homeras]]: Homero kūriniuose Okeanas vadinamas upe, skalaujančia pasaulį.
 - susijęs iš [[objektai/grupes/Lietuvių Draugija Estijoje.md#claim-t-72513|Lietuvių Draugija Estijoje]]: Estijoje buvo keletas šimtų lietuvių, todėl jų veikla negalėjo išsiplėsti ir apsiribojo ryšio su Lietuva palaikymu.
@@ -96,26 +97,6 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
 - susijęs iš [[objektai/zodynas/ekstraordinarinis profesorius.md#claim-t-195643|ekstraordinarinis profesorius]]: A. R. Niemi 1913 m. buvo pakviestas ekstraordinariniu profesoriumi, bet nominacija užsitęsė iki 1918 m.
 - susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192291|judančios žemės sluoksniai]]: Narbutas aiškina, kad judančios žemės sluoksniai turėjo būti sujudinti arba išplauti iš Baltijos jūros.
 - susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192292|judančios žemės sluoksniai]]: Narbutas akmenų radimą aiškina tuo, kad kai kurie jų buvo užpustyti judančios žemės sluoksnių.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik didieji mūsų kalbininkai Jaunius su
-    Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
-    taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
-    yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
-    Mums nėra reikalo vartoti _baltų_ termino dar ir dėl to, kad juo dažnai
-    pažymimos ir kitos, mums visiškai negiminiškos tautos: lybiai, estai
-    ir suomiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-01723

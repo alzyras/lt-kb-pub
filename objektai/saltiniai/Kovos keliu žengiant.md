@@ -41,21 +41,6 @@ p. 234, Dainų ir eilėraščių rinkinys „Kovos keliu žengiant“ 1949 m. Le
   teiginys: "Dainų ir eilėraščių rinkinį „Kovos keliu žengiant“ 1949 m. leido Prisikėlimo apygardos Maironio rinktinės štabas."
   pagrindžia:
     - c-45000
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 234, „Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) Prisikėlimo apygardos partizanų leidinys, GAM.
-    p. 234, Dainų ir eilėraščių rinkinys „Kovos keliu žengiant“ 1949 m. Leidinį leido Prisikėlimo
-    apygardos Maironio rinktinės štabas, GAM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

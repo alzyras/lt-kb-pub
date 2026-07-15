@@ -41,41 +41,15 @@ Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovė
 - susijęs iš [[objektai/asmenys/Odinas.md#claim-t-191166|Odinas]]: Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovės skitų dalies kelionę į Skandinaviją su Odinu priešakyje.
 - susijęs iš [[objektai/asmenys/Odinas.md#claim-t-191167|Odinas]]: Teodoras Narbutas spėja, kad šiaurės didvyriai iš pradžių vadinosi Wod, tai yra Vodino arba Odino bičiuliais.
 - susijęs iš [[objektai/autoriai/Erazmas Stela.md#claim-t-190696|Erazmas Stela]]: Narbuto aiškinimu, Erazmas Stela lietuvių kilmę iš alanų siejo su į šias šalis atėjusių hunų antplūdžiu.
+- susijęs iš Abiejų Tautų Respublika: XVIII a. Abiejų Tautų Respublikoje bendras gėrimas iš vienos taurės užsieniečių buvo aiškinamas kaip svetingumo ženklas, senas paprotys ar indų stygiaus pasekmė.
 - susijęs iš Dnepras: Narbutas teigė, kad 1540 m. pr. Kr. skitams priklausė Dnepro žiotys ir Tauridė.
 - susijęs iš Tauridė: Tauridė, Teodoro Narbuto pasakojimu, 1540 m. pr. Kr. priklausė gausiems ir galingiems skitams kartu su Dnepro žiotimis.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovės Šiaurės Europos tautoms.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Padavimai, išlikę Šiaurės tautų
-    sagose, visada pasakoja apie skandinavų protėvių atvy­
-    kimą iš Skitijos pusės Odinui vadovaujant; tai patvirtina
-    skandinavų giminės bruožai, panašūs į skitų. Iš tiesų
-    tik taip galima įspėti mįslę didžios senovinės Šiaurės
-    Europos tautos, kuri tolimiausioje senovėje vadinama hi­
-    perborėjų, o vėliau skandinavų, giminingų keltams, var­
-    du, nes ir šie kilę iš skitų lizdo. Kad ir kaip ten būtų,
-    pamažu šiek tiek kintant Šiaurės pusrutulio temperatū­
-    rai, kuri, be abejonės, anksčiau gerokai žemėjo, skandi­
-    navai, traukdamiesi iš rytų į vakarus, susitelkė Skandi­
-    navijos pusiasalyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175755
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 38"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Padavimai, išlikę Šiaurės tautų
     sagose, visada pasakoja apie skandinavų protėvių atvy­

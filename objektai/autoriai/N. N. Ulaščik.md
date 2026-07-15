@@ -42,20 +42,6 @@ Ulaščik, Maskva 1966.
   teiginys: "N. N. Ulaščik 1966 m. Maskvoje išleido Bychovco kroniką."
   pagrindžia:
     - c-33072
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Wien 1955.
-    UChB = Chronika Bychovca, išl. N. N. Ulaščik, Maskva 1966.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

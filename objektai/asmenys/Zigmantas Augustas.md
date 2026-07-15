@@ -51,48 +51,6 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
 - susijęs iš Pasvalys: Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje.
 - susijęs iš Pasvalys: Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje.
 - susijęs iš Vilnius: 1544 m. Žygimantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir perėmė valdžią Lietuvoje.
-- susijęs iš Vilnius: 1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.
-- susijęs iš Vilnius: Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, kurioje dažnai būdavo ir pats karalius.
-- susijęs iš Vilnius: Narbutas rašė, kad Vilniuje ir kitose vietose būta aukurų, kuriuose degė vaidilučių saugoma Amžinoji ugnis.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kai kurių nuomone, naujų žemių suskirstymas ir žmonių įkurdinimas sodžiais padėjo susidaryti vėlesnei Zigmanto Augusto valakų sistemai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taip buvo kolonizuojama ir Žemaitija ir ki­
-    ti kraštai. Kai kas mano, kad naujose žemėse žmonės buvo
-    įkurdinami sodžiais, tiksliai suskirsčius jų žemes, kas padėjo su­
-    sidaryti vėlesnei Zigmanto Augusto valakų sistemai^3 ).
-    Kita reali nauda, kuri tekdavo Vytautui — tai mokesčiai,
-    renkami iš žmonių už valdomas žemes, miškus, vandenis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Z. Augusto laikai Lietuvoje** buvo labai reikšmingi. Jo laikais
-    įvyko ne tik persivertimas iš užplūdusio protestantizmo atgal į ka-
-    talikybę, ne tik pradėjo kilti švietimas (jėzuitai ėmė kurti mokyklas),
-    bet įvyko daug pakitimų tiek valstybės santvarkoje, tiek visuomenėje,
-    tiek ūkyje: buvo įvykdyta valakų reforma, bajorija gavo lenkiškus
-    savivaldybės organus ir teismus, pagaliau buvo sudaryta unija su
-    Lenkija. Vis tai buvo svarbūs faktai, kurie vėlesniajai Lietuvos
-    istorijai turėjo labai didelę reikšmę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-89066
@@ -133,7 +91,3 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93754
-
-## Ryšiai
-- Zigmantas Augustas valdė [[objektai/vietos/Lietuva]]
-- Zigmantas Augustas gyveno [[objektai/vietos/Vilnius]]

@@ -11,16 +11,16 @@ datos:
   - '1418 m.'
 date_start: '1383'
 date_end: '1418'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-amziai:
-  - 'XIV'
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -135,12 +135,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87438|Kazimieras IV]]: Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.
 - susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47953|Lengvenis]]: Lengvenis buvo vienas iš penkių Jogailos brolių, minimų liudininkais trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.
 - susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87454|Paulius Rusdorfas]]: Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už jai atsiųstus gėrimus.
-- susijęs iš [[objektai/asmenys/Petras (Vilniaus vyskupas).md#claim-t-184819|Petras (Vilniaus vyskupas)]]: Kojelavičius vaizduoja Vilniaus vyskupą Petrą kaip atkakliai prieštaravusį Vytauto santuokai, nes ji esą pažeidė Dievo ir žmonių įstatymus.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179700|Švitrigaila]]: 1382 m. Dubysos sutarčių aktams pritarė Jogailos motina Julijona ir broliai, tarp jų Švitrigaila.
 - susijęs iš [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai.md#claim-t-87048|Karališkosios vaistinės vaistai ir gydomieji gėrimai]]: Didžioji kunigaikštienė Julijona iš didžiojo magistro Pauliaus Rusdorfo gavo dovanų gydomųjų gėrimų.
 - susijęs iš [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai.md#claim-t-172863|Vaistinės prekės, vaistai ir gydomieji gėrimai]]: Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178791|Kryžiuočių ordinas]]: Kryžiuočiai laikė Vytautą priemone priversti Jogailą laikytis didelių pažadų Ordinui.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179082|Kryžiuočių ordinas]]: Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis Jogailą priversti nesitraukti nuo didelių pažadų.
 - susijęs iš [[objektai/paprociai/Graikų apeigų koplyčios laikymas Trakų pilyje.md#claim-t-87267|Graikų apeigų koplyčios laikymas Trakų pilyje]]: Vytauto žmonos Ona ir Julijona išpažino graikų apeigų tikėjimą ir dar prieš Lietuvos krikštą turėjo savo koplyčią Trakų pilyje.
 - susijęs iš [[objektai/posakiai/nei žemės, nei žmonių.md#claim-t-31564|nei žemės, nei žmonių]]: Kryžiuočiai bėglį Vytautą, jų žodžiais nebeturėjusį „nei žemės, nei žmonių“, laikė įrankiu spausti Jogailą.
 - susijęs iš Paneriai: Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai.
@@ -149,118 +146,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - susijęs iš [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje.md#claim-t-86607|piniginiai vienetai ir apskaitos matai monetų kalykloje]]: Liutauras Chreptavičius didžiajam kunigaikščiui pateikė ketverių metų monetų kalyklos apskaitą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179700|Švitrigaila]]: 1382 m. Dubysos sutarčių aktams pritarė Jogailos motina Julijona ir broliai, tarp jų Švitrigaila.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kaip kita­
-    dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
-    donacinius dokumentus, taip Jogaila Prūsų kryžiuočiams už ordino
-    « draugiškumą, patarimus, pagalbą, darbą ir įvairų triūsą » turėjo
-    užleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.
-    Livonijos ir Prūsų—-ligi Dubysos upės. Visose trijose Jogailos ir
-    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
-    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
-    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
-    bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
-    taryba tėra paminėta Žemaičių dovanojimo dokumente.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-005
-
-- c-002
-  santrauka: 'Po Onos mirties Vilniuje 1418 m. Vytautas nusprendė vesti jos dukterėčią Julijoną, Jono Algimantaičio dukterį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    T. I, Nr. 698.
-    149
-
-    ## Puslapis 166
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Vytautas savo sostinėje su visa ištaiga priėmė Vladislovą Jo­
-    gailą, vėl apsilankiusį Lietuvoje, kad numaldytų nuolatos at­
-    sinaujinančius kivirčus su kryžiuočiais, ir dosniai ją apdalijo
-    dovanomis; bet vėliau Vilniaus reikalai darėsi liūdnesni. Kai
-    Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­
-    džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­
-    lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­
-    dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono
-    Algimantaičio dukterį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet jiedu nepasiekė tikslo, nes
-    buvo perduoti didžiajam Maskvos kunigaikščini, šiam reikalaujant.
-    Gelbėdamas savo pasiuntinius-sūnėnus, Algirdas taikėsi su Maskva.
-    Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir
-    metropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės
-    kunigaikščio Aleksandro dukterį Julijoną^15.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jogailos politikos nauja kryptis, t. y. jo savarankiška laikysena
-    ir užsispyrimas nevykti į Skirsnemunę, gali būti tuo paaiškintas,
-    kad jis jau 1383 m. pavasarį bus žinojęs apie projektus kviesti jį
-    Lenkijos karaliumi ir sutuokti su Jadvyga. Remiantis Torno analų
-    žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis
-    pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva
-    butų pakrikštyta lotynų apeigomis.
-    Į karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas
-    turėjo labiau susidomėti Vytautu ir jį palaikyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-003
-
-- c-005
-  santrauka: 'Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu Jo-
-    gaila pasidarė ordino sąjungininkas prieš dėdę. Sutarty net nu-
-    matyta, ką reikėsią daryti, kad Kęstutis apie ją nieko nesužinotų:
-    joje net numatomas atvejis, kad Jogaila galįs būti priverstas
-    žygiuoti tarsi į pagalbą Kęstučiui, bet dėl to sutartis dar ne-
-    būsianti nutraukta; Jogaila neturįs tiktai kautis su kryžiuočiais,
-    tačiau karo veiksmų srityse jam galima būti.
-    Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta
-    ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
-    pastangomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-006
   santrauka: 'Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -376,8 +261,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176503
     - t-05186
+    - t-176503
 
 - id: c-160505
   redaktorius: "A. Šapoka"
@@ -405,8 +290,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - id: c-168104
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
     vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
@@ -416,7 +300,17 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     atmetė rusų apeigų ir rusams Vitebske pastatė porą
     šventovių. Palankumą krikščionybei jis, be to, parodė,
     žiauriai tuo metu atkeršydamas už krikščionių šventi­
-    kų nužudymą.
+    kų nužudymą. Vilniaus vaivada Petras Goštautas, ve-
+    A lg iid a s
+    įžen g ia
+    į
+    M a s k v o s m ie stą ir įs­
+    m e ig ia
+    ie tį
+    į
+    p ilies
+    v a r tu s
+  citata_rodoma: "Mat rusai nuo senų senovės įpratę Velykų dieną do­\nvanoti vienas kitam margutį kaip bičiuliškumo ženklą.\nAlgirdas, nors viešai laikėsi stabmeldžių apeigų, ta­\nčiau, neseniai savo žmonos Julijonos, Vitebsko kuni­\ngaikščio dukters, noru sutikęs priimti krikščionybę, ne­\natmetė rusų apeigų ir rusams Vitebske pastatė porą\nšventovių. Palankumą krikščionybei jis, be to, parodė,\nžiauriai tuo metu atkeršydamas už krikščionių šventi­\nkų nužudymą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

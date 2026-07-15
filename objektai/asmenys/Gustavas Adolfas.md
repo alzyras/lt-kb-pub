@@ -52,40 +52,6 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
   teiginys: "Po Kristinos atsisakymo nuo sosto Švedijos sostas atiteko Karoliui X Gustavui, Gustavo Adolfo sesers sūnui."
   pagrindžia:
     - c-76124
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po Kristinos atsisakymo nuo sosto Švedijos sostas atiteko Karoliui X Gustavui, Gustavo Adolfo sesers sūnui.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipy-
-    kusi su savo ponais, atsisakė nuo sosto. Sostas atiteko Karo-
-    liui X Gustavui, Gustavo Adolfo sesers ir Vokietijos
-    Cveibriukeno kunigaikščio sūnui. Jis buvo auklėjamas Švedi-
-    joje ir sostą turėjo gauti kartu su Kristinos ranka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo prieš katalikų kariuomenes.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo
-    vadovaujama švedų kariuomenė ėmė skinti pergales prieš kata-
-    likų kariuomenes Trisdešimtmečio karo mūšių laukuose (1618-
-    1648 m.), Vokietijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

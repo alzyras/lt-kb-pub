@@ -47,18 +47,15 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
   teiginys: "Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir pasakojamuosius, arba naratyvinius, šaltinius."
   pagrindžia:
     - c-57641
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir pasakojamuosius, arba naratyvinius, šaltinius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petro Dusburgiečio kronika
 
-
-
                           Epocha, šaltiniai, tendencija, reikšmė
-
 
       Viduramžių  rašytiniai  istoriniai  šaltiniai  skirstomi   į  dokumentus,  juridinius   ir
     pasakojamuosius, arba naratyvinius (iš lot. narratio), šaltinius. Pasakojamojo pobūdžio
@@ -84,27 +81,29 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
 - id: c-57641
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Petro Dusburgiečio kronika
-
-
-
-                          Epocha, šaltiniai, tendencija, reikšmė
-
-
-      Viduramžių  rašytiniai  istoriniai  šaltiniai  skirstomi   į  dokumentus,  juridinius   ir
-    pasakojamuosius, arba naratyvinius (iš lot. narratio), šaltinius. Pasakojamojo pobūdžio
-    šaltinius sudaro analai, kronikos, memuarai bei dienoraščiai, šventųjų gyvenimai ir kt.
-       Tarybinis mokslas kreipia didelį dėmesį  į teisingą istorinių šaltinių teksto suvokimą
+    Pasakojamojo pobūdžio
+    šaltinius sudaro analai, kronikos,  memuarai bei dienoraščiai, šventųjų gyvenimai ir kt.
+    Tarybinis mokslas kreipia didelį dėmesį į teisingą istorinių šaltinių teksto suvokimą
     atskleidžiant jo socialinę, klasinę esmę, traktuojant šaltinį kaip to meto visuomenės
     gyvenimo objektyvų atspindį, tiriant jį kaip paminklą mūsų šalies tautų išsivaduojamajai
     kovai atskleisti1.
-      Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
+    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
     nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
     Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
+    Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
+    daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
+    jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
+    Kad geriau suvoktume kronikoje vaizduojamus Prūsijos ir Lietuvos istorijos faktus
+    bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
+    lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
+    klausimai.
+    Prūsai ir Lietuva
+    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
+    vientisumas.
   citata_rodoma: "Petro Dusburgiečio kronika\n\n\n\n                      Epocha, šaltiniai, tendencija, reikšmė\n\n\n  Viduramžių  rašytiniai  istoriniai  šaltiniai  skirstomi   į  dokumentus,  juridinius   ir\npasakojamuosius, arba naratyvinius (iš lot. narratio), šaltinius. Pasakojamojo pobūdžio\nšaltinius sudaro analai, kronikos, memuarai bei dienoraščiai, šventųjų gyvenimai ir kt."
   statusas: verified
   teiginio_tipas: faktas

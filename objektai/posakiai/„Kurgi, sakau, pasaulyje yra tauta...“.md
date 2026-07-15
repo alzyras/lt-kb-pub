@@ -56,30 +56,6 @@ Mikalojaus Daukšos „Postilės“ pratarmėje ši formulė tėvų žemę, papr
   teiginys: "Posakiu „Kurgi, sakau, pasaulyje yra tauta...“ Mikalojus Daukša pabrėžė tėvų žemę, papročius ir kalbą kaip savus tautos dalykus."
   pagrindžia:
     - c-26738
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišką knygą LDK –
-    „Katekizmą“, o 1599 m. kitą lietuvišką leidinį – „Postilė“, kurios pratarmė-
-    je kreipėsi į Lietuvos visuomenę, ragindamas kurti raštiją lietuvių kalba:
-    „Kurgi, sakau, pasaulyje yra tauta, tokia prasta ir niekinga, kad neturėtų
-    šių trijų savų ir tarsi įgimtų dalykų: tėvų žemės, papročių ir kalbos?“ Juk
-    „tąja kalba paprastai visi rašo įstatymus, jąja leidžia savosios ir svetimų
-    tautų istorijas, senas ir naujas, ja aptaria visus valstybės reikalus, ją gra-
-    žiai ir padoriai vartoja visokiais atvejais Bažnyčioje, tarnyboje, namie.“
-    M. Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia
-    kalba sukurti oficialųjį kultūros modelį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 

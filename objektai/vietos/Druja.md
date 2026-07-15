@@ -4,6 +4,7 @@ pavadinimas: 'Druja'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lenkai Lietuvoje Dr. J. Basanavičius'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1534 m.'
@@ -67,6 +68,13 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   teiginys: "Sapiegos paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą."
   pagrindžia:
     - c-79675
+
+<a id="claim-t-200894"></a>
+- t-005
+  global_id: t-200894
+  teiginys: "Cituojamas kunigas rašė, kad anksčiau buvo Drujos vikarijus, vėliau Graužiškių klebonas ir galiausiai tapo vadinamas „litvomanu“."
+  pagrindžia:
+    - c-184237
 - susijęs iš [[objektai/asmenys/Eustachijus (raštininkas).md#claim-t-87662|Eustachijus (raštininkas)]]: Raštininkas Eustachijus pasirašė 1538 m. rugsėjo 1 d. Žygimanto Augusto laišką dėl Drujos vandens tiekimo į Vilnių.
 - susijęs iš [[objektai/asmenys/Kiščina (Vitebsko vaivadienė).md#claim-t-87756|Kiščina (Vitebsko vaivadienė)]]: Kiščina, Vitebsko vaivadienė, buvo įspėta nestabdyti į Vilnių vamzdžiais vedamo vandens iš Drujos upės.
 - susijęs iš [[objektai/daiktai/Drujos žalvarinės statulėlės su užrašu Triopa.md#claim-t-187979|Drujos žalvarinės statulėlės su užrašu Triopa]]: Vėlius nurodė, kad Narbutas lietuvių Kabirus grindė prie Drujos rastomis trimis sujungtomis žalvarinėmis statulėlėmis ir užrašu „Triopa“.
@@ -78,16 +86,12 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
 - susijęs iš Drujos apylinkės ir Druja: Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.
 - susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78446|Sapiegų kariuomenė]]: M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su visa likusia kariuomene.
 - susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78448|Sapiegų kariuomenė]]: Sapiegų kariuomenės dalies gynyba sutrukdė respublikonams persekioti besitraukiančius Sapiegų giminės senjorus.
-- susijęs iš [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika.md#claim-t-185748|Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]: Ordino magistras Ketleris ir Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
-- susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Lietuvos didžiojo kunigaikščio Žygimanto Augusto globą.
 - susijęs iš Bauskė: Livonijos riterių ordinas sąjungos sąlygomis turėjo atiduoti Lietuvai Bauskės pilį su apylinkėmis.
 - susijęs iš Bauskė: Etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą apie kelionę į Drują ir Bychovo tvirtovę, traukėsi į Bauskę ir Mintaują.
 - susijęs iš Bychovo tvirtovė: Sapiegų etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują bei Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą.
 - susijęs iš Bychovo tvirtovė: Etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, tačiau iš tikrųjų traukėsi į Kuršą.
 - susijęs iš Kuršas: Sapiegų etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą, iš Vilniaus pasitraukė į Kuršą, Bauskę ir Mintaują.
-- susijęs iš Lietuva: Livonijos atstovai seime nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Lietuva: Narbutas nurodė, kad rankraštis baigiasi pagyrimu lietuvių tautos svetingumui, darbštumui ir namų gyvenimo dorybėms.
-- susijęs iš Livonija: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Ludza: Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmis.
 - susijęs iš Mintauja: Etmonas, iždininkas ir maršalas, paskleidę gandą apie kelionę į Drują bei Bychovo tvirtovę, iš tikrųjų traukėsi į Bauskę ir Mintaują.
 - susijęs iš Rezeknė: Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylinkėmis.
@@ -97,72 +101,6 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
 - susijęs iš Vilnius: Sapiegų etmonas, iždininkas ir maršalas po nakvynės Vilniuje iš tikrųjų pasitraukė į Kuršą, Bauskę ir Mintaują.
 - susijęs iš Želvos ežerai: Rytinė Lietuvos teritorijos linija buvo vedama per Drivietų, Želvos ir Oziraičių ežerus.
 - susijęs iš Želvos ežerai: Lietuvos rytinė teritorijos linija buvo vedama per Želvos ežerus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Iš versmės Paplaujoje ištekantis upelis vadinosi Druja.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Žr. Miesto archyve: Žygimanto Seno­
-    jo privilegija, datuota Rūdninkuose,
-    1534 metų liepos 4 dieną, ir kita, iš­
-    samesnė, išleista Vilniuje, 1535 metų
-    liepos 17 dieną, su karaliaus parašu.
-    Iš tos versmės ištekantis upelis vadi­
-    nosi Druja, nes yra miesto archyve ka­
-    raliaus Žygimanto Augusto laiškas,
-    rašytas rusų kalba iš Liublino, datuo­
-    tas 1538 metų rugsėjo 1 dieną, su
-    Lietuvos antspaudu ir raštininko Os-
-    tafiejaus [Eustachijaus] parašu, įspė­
-    jantis ponią Kiščiną, Vitebsko vaiva-
-    dienę, kad nestabdytų vandens,
-    vamzdžiais nuvesto į miestą, iš Dru­
-    jos upės Paplaujoje, tekančios netoli
-    Ziupronių kelio, nes tam yra kara­
-    liaus leidimas, kurį ji privalanti gerb­
-    ti. Toji Kiščina valdė Markučius ir ant
-    kalno prie Vilnelės turėjo didelius
-    kaimo stiliaus namus, - prie kelio, iš­
-    einančio iš daubos ir vedančio iš da­
-    bartinio Markučių dvaro į namelį, va­
-    dintą Jeruzalimu, Paplaujoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šios Sapiegų kariuomenės
-    dalies gynyba neleido respubliko-
-    nams organizuoti besitraukiančių
-    Sapiegų giminės senjorų persekio-
-    jimą. Etmonas, iždininkas ir marša-
-    las vakare pasiekė Vilnių, iš visų savo
-    rūmų suvežė svarbiausias vertybes į
-    dominikonų vienuolyną, kuriame ir
-    pernakvojo, o ryte, paskleidę gandą,
-    kad vyksta į Drują bei Bychovo tvir-
-    tovę, iš tikrųjų suskubo trauktis į
-    Kuršą - į Bauskę ir Mintaują. Juos
-    persekiojęs respublikonų kariuome-
-    nės dalinys įžengė į Vilnių Sapiegoms
-    jau išvykus iš miesto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-
 ## Citatos
 
 - id: c-79673
@@ -230,3 +168,38 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   pagrindzia:
     - t-83320
     - t-83321
+
+- id: c-184237
+  autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
+  šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
+  puslapiai: "PDF 14-15"
+  indeksas: "Jonas Basanavičius; V. Gintautas (vertė), Lenkai Lietuvoje Dr. J. Basanavičius, PDF 14-15."
+  citata_originali: |
+    „T oks A dm inistratoriaus — tuom et kandidato
+    į vyskupus — pasielgim as ir atsakym as didżiai pa­
+    żeidē mus, kaip stabu ištiko, o man, tada dar jau­
+    nam kunigui, visai nepratusiam ir niekuo neprasi-
+    kaltusiam , ypač į galvą giliai įsidējo.
+    Tas atsiti­
+    kimas buvo didżiausia prieżastis, todēl paskutiniu
+    laiku aš, b a l t r u s i š k ų j ų p a r a p i j ų ku­
+    nigas, pirm a Drujos vikarijus, paskui Graużiškių
+
+    klebonas, patapau nebetikusiu silpnu żmogum,
+    kaip jus sakytum ēte, tai yra l i t v o m a n u , nors
+    aš nustojau buvęs l i e t u v i š k ų j ų p a r a p i -
+    j ų kunigu.
+
+    „T oliaus, nēr ko stebētis, juog kartais jaunie-
+    j ie vikarijai ne visai gerai elgiasi: juos dażnai iš­
+    tvirkina ir sugadina, matytis, seniai klebonai, ku­
+    rie yra visoko pertekę, turtingi, gudrųs, veidm ai­
+    niai, kai-kurie turi šeimyną [pačią, vaikus*] ir k u ­
+    nigų dekanų rupesčiu apdovanoti medaliais ir or­
+    deriais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200894

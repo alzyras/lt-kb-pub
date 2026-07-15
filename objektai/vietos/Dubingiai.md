@@ -94,82 +94,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 - susijęs iš Ukmergės apylinkė: 1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę.
 - susijęs iš Šešuoliai: 1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per 4 mylias prie Vilniaus.
 - susijęs iš Švenčionėliai: Frontas nusistovėjo Kernavės, Musninkų, Širvintų, Giedraičių, Dubingių ir Švenčionėlių linijoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o
-    1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­
-    niaus. Tada abiejų lyčių lietuvių buvę nužudyta 1200^4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvių pajėgos negalėjo
-    atsilaikyti prieš gausių lenkų pajėgų puo-
-    lima. Spalio 26-27 d. lenkai apėjo kai-
-
-    rįjį lietuvių sparną ir užėmė Giedraičius,
-    Želvą, Dubingius, Vidiškį. Susidarė pavo-
-    jinga padėtis, lenkams pasiekus savo puo-
-    limo tikslą, Lietuvai būtų iškilęs pavojus
-    prarasti nepriklausomybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Liucjanas Želigovskis lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prieš kautynes
-
-    Sutelkęs stambias pajėgas, gen. L. Želi-
-    govskis lapkričio 17 d. auštant pradėjo
-    savo didžiąją ofenzyvą, puldamas lie-
-    tuvių 1-osios pėstininkų divizijos uži-
-    mamą barą nuo Nėries iki Dubingių.
-    Puolimas buvo staigus ir stiprus. Lenkų
-    pajėgos priartėjo prie Videniškio,
-    Gelogalių ir judėjo Balnininkų link.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Grįždamas į Vilnių, jis ne-
-    pasakė tėvams tiesos, ir tėvas, netrukus miręs, nebesužinojo apie sū-
-    naus vedybas. Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
-    Gavęs žinią apie tėvo mirtį, Zigmantas tuojau įsakė tarybos ponams
-    atlydėti žmoną į Vilnių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-32023
@@ -185,8 +109,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71851
     - t-71849
+    - t-71851
 
 - id: c-43416
   sudarytojas: "Karolis Zikaras"

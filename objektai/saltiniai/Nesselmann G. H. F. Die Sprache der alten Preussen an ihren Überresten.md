@@ -42,29 +42,13 @@ Dusburgietis teigia, kad nesselmann G.
   teiginys: "G. H. F. Nesselmanno veikalas „Die Sprache der alten Preussen an ihren Überresten“ išleistas Berlyne 1845 m."
   pagrindžia:
     - c-61829
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'G. H. F. Nesselmanno veikalas „Die Sprache der alten Preussen an ihren Überresten“ išleistas Berlyne 1845 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nesselmann G. H. F. Die Sprache der alten Preussen an ihren Überresten.—Berlin,
-    1845.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61829
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nesselmann G. H. F. Die Sprache der alten Preussen an ihren Überresten.—Berlin,
     1845.

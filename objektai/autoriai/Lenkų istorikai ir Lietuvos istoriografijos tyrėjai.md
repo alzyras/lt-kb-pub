@@ -169,270 +169,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   pagrindžia:
     - c-163207
 
-<a id="claim-t-179529"></a>
-- t-020
-  global_id: t-179529
-  teiginys: "K. Chodynickis ir J. Jakubowskis daug dėmesio skyrė Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams."
-  pagrindžia:
-    - c-163207
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'St. Zajączkowskis skyrė dėmesio Lietuvos istorijai, rašė apie žemaičius, jotvingius ir kitus XIII-XV a. Lietuvos klausimus.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos istorijai daug palankaus dėmesio skyrė lenkų Vilniaus
-    universiteto Lietuvos istorijos katedros prof. St. Zajączkows­
-    kis, kuris žemaičių, jotvingių ir kitais Lietuvos XIII-XV amžių
-    klausimais parašė reikšmingų studijų ir lenkų istorijos kongresuose
-    ir periodikoje akylai sekė Lietuvos istorikų darbus 128 129.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Prie žymėtinų Lietuvos istorijos tyrinėtojų priklauso svarbių
-    jos istorijos šaltinių leidėjas Wł. Semkowiczius, kuris su
-    lenkų Bažnyčios istoriku J. Fijałeku išleido Vilniaus vysku­
-    pijos šaltinių 1 tomą (CDV) ir su jų teisės istoriku St. Kutrze­
-    ba— Lenkijos ir Lietuvos unijos aktus (AUPL).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šio objektyvi studija «Tautybių santykiai
-    Lietuvoje prieš Liublino uniją » Kaune Švietimo Ministerijos buvo
-    išleista lietuviškai (1921). Vertingas yra taip pat jo XVI amž.
-    pirmos pusės Lietuvos žemėlapis (1928). Čia reikia paminėti ir
-    W. Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž.
-    visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra
-    iš 1947 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-    - t-015
-
-- c-004
-  santrauka: 'O. Balzeris tyrinėjo Lenkijos ir Lietuvos unijos aktus ir leido svarbius teisės istorijos šaltinius.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Semkowiczius, kuris su
-    lenkų Bažnyčios istoriku J. Fijałeku išleido Vilniaus vysku­
-    pijos šaltinių 1 tomą (CDV) ir su jų teisės istoriku St. Kutrze­
-    ba— Lenkijos ir Lietuvos unijos aktus (AUPL). Juos tyrinėjo
-    teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici
-    ir kt.) leidėjas O. Balzeris.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-007
-
-- c-005
-  santrauka: 'W. Ziesemeris buvo pokarinių laikų vokiečių istorikas, pažinojęs Karaliaučiaus ir Dancigo archyvus.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kiti svarbus mūsų istorijai vokiečių anksčiau leisti žur­
-    nalai : AF, AM, HGbll, MiLG, kartu su lietuviais leistas MLLG.
-    Pokarinių laikų vokiečių istorikai yra : W. Ziesemer, Karaliau­
-    čiaus ir Dancigo archyvų žinovas, ypač atsidėjęs vokiečių ordino
-    istorijos šaltiniams tirti^152. Buvęs Karaliaučiaus archyvo (dabar
-
-    (^149) **Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­
-    niai padalinami dar į tokias serijas :** **_Documenta Pontificum Romanorum;
-    Acta S. Gongr. de Propaganda Fide ; Litterae S. Gongr. de Prop.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Zajączkows­
-    kis, kuris žemaičių, jotvingių ir kitais Lietuvos XIII-XV amžių
-    klausimais parašė reikšmingų studijų ir lenkų istorijos kongresuose
-    ir periodikoje akylai sekė Lietuvos istorikų darbus 128 129.
-    Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais
-    raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug
-    dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­
-    žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-007
-  santrauka: 'K. Chodynickis ir J. Jakubowskis daug dėmesio skyrė Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kutrze­
-    ba— Lenkijos ir Lietuvos unijos aktus (AUPL). Juos tyrinėjo
-    teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici
-    ir kt.) leidėjas O. Balzeris.
-    Daug dėmesio atskiriems Gediminaičių laikų klausimams ir
-    Lietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.
-    Jakubowskis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-    - t-019
-
-- c-008
-  santrauka: 'M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo labai vertinama.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Prūsų Kuni­
-    gaikštystės santykiai su ja. Jie išleido žinomąsias ordino kronikas
-    ir visą eilę senų dokumentų rinkinių (Dusb, HChL, LUB, MT,
-    Posilge, PUB, RegJH, SRP, Wart, Wegln Wig) ;K. Forstreu­
-    teris ir H. Koeppenas leidžia svarbius vokiečių ordino
-    generalinių prokuratorių pranešimus (BeGeDO). Iš senesniųjų isto­
-    rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
-    gaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija
-    anuomet buvo labai vertinama ir susilaukė keletos laidų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-    - t-005
-
-- c-009
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš senesniųjų isto­
-    rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
-    gaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija
-    anuomet buvo labai vertinama ir susilaukė keletos laidų. Buvęs
-    Karaliaučiaus univ. prof. J. Voigt 9 tomų veikale _Geschichte
-    Preusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva
-    iki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte
-    des deutschen Ritterordens_ (1857-1859) ir CDPr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-    - t-011
-
-- c-010
-  santrauka: 'Lenkų bibliografija Lietuvos istorijos klausimais buvo tokia gausi, kad aptarti pasirinkti svarbiausi Gediminaičių epochos tyrinėtojai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet ir kiti
-    pirmaujantieji lenkų istorijos žurnalai (KH, PH) nuolat duodavo
-    — ir dar kartais dabar spausdina — studijų iš Lietuvos istorijos.
-    Lenkų bibliografija įvairiais Lietuvos istorijos klausimais yra tokia
-    gausi, jog čia reikia pasitenkinti tik pačiais svarbiausiais tyrinė­
-    tojais, ir tai labiausiai iš Gediminaičių epochos.
-    J. Latkowskis buvo pirmasis, kuris bandė nustatyti
-    Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus
-    Mindaugo laikus^126.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-011
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Essai de synthese
-    historique,_** **Paris 1933 ;** **_Histoire de Pologne_** **, New York 1945 ;** **_From the Union
-    with Hungary to the Union with Lithuania (Jadwiga)_** **, The Cambridge History
-    of Poland, 1950;** **_From Florence to Brest_** **(1439-1596), žr. Sacrum Poloniae
-    Millennium, V, Roma 1958.**
-
-
-    84 ĮVADAS
-
-    Savo raštų gausumu apie XIV-XV amžiaus Lietuvą visus
-    lenkų istorikus yra pralenkęs A. Prochaska. Jis išleido ne tik
-    taip svarbų Vytauto D. aktų kodeksą (CeV), naujai perspausdintą
-    1965, ne tik parašė plačias Jogailos ir Vytauto monografijas (ProJa,
-    ProW), bet dar davė daug atskirų tyrinėjimų^131.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-    - t-010
-
-- c-012
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lenkų bibliografija įvairiais Lietuvos istorijos klausimais yra tokia
-    gausi, jog čia reikia pasitenkinti tik pačiais svarbiausiais tyrinė­
-    tojais, ir tai labiausiai iš Gediminaičių epochos.
-    J. Latkowskis buvo pirmasis, kuris bandė nustatyti
-    Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus
-    Mindaugo laikus^126. W. Kętrzyńskis atsidėjo Mindaugo
-    donacinių dokumentų klausimui^127.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-013
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Beveik
-    tą patį galima pasakyti ir apie reformacijos tyrinėtoją St. Kotą.
-    Po II pasaulinio karo dar labiau jaunoji lenkų istorikų generacija
-    ėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip
-    rodo gausus J. Ochmańskio raštai, P. Lossowskio ir
-    kitų darbai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-30678
@@ -487,8 +223,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179527
     - t-179525
+    - t-179527
 
 - id: c-163203
   autorius: "Zenonas Ivinskis"
@@ -570,7 +306,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179530
     - t-179529
 
 - id: c-163209
@@ -593,8 +328,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179528
     - t-179515
+    - t-179528
 
 - id: c-163210
   autorius: "Zenonas Ivinskis"
@@ -615,8 +350,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179523
     - t-179521
+    - t-179523
 
 - id: c-163211
   autorius: "Zenonas Ivinskis"
@@ -665,8 +400,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179524
     - t-179520
+    - t-179524
 
 - id: c-163215
   autorius: "Zenonas Ivinskis"

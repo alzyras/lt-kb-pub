@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - religinė-praktika
+  - ordinas
   - paprotys
   - teisinė-praktika
 amziai:
@@ -72,55 +73,20 @@ Nenurodyta
   pagrindžia:
     - c-159295
     - c-159296
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Didysis magistras Verneris papildė Ordino statutą prierašais apie pamaldumą, maldas, brolių poreikių ribojimą ir bendruomenės drausmę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apkaltintas erezija Tamplierių
-    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
-    Paryžiuje 1314 m.69
-      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
-    argumentacijos. Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta
-    atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,
-    apribojama pasaulietiniai brolių poreikiai, aprangos  ir ginklų puošnumas, finansiniai
-    ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
-    vienuolių bendruomenės gyvenimo dėsniai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196993"></a>
+- t-003
+  global_id: t-196993
+  teiginys: "Vernerio prierašuose pabrėžiama, jog jie skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70."
   pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  santrauka: 'Vernerio prierašai turėjo būti skaitomi visuose Ordino namuose keturis kartus per metus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta
-    atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,
-    apribojama pasaulietiniai brolių poreikiai, aprangos  ir ginklų puošnumas, finansiniai
-    ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
-    vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
-    skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-159296
 
 ## Citatos
 
 - id: c-159295
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apkaltintas erezija Tamplierių
     ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
@@ -142,18 +108,21 @@ Nenurodyta
 - id: c-159296
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta
-    atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,
-    apribojama pasaulietiniai brolių poreikiai, aprangos  ir ginklų puošnumas, finansiniai
-    ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
-    vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
+    Vernerio prierašuose pabrėžiama, jog jie
     skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
+    Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6
+    metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius).
+    Norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą,
+    didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
+    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
+    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
+    prieš Lietuvą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175143
+    - t-196993

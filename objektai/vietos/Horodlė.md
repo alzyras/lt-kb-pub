@@ -64,8 +64,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51027|Jadvyga (Jogailos duktė)]]: Horodlės unijos kontekste Jogailos duktė Jadvyga buvo pripažinta Lenkijos karalaite ir jai duota ištikimybės priesaika.
 - susijęs iš [[objektai/asmenys/Mikalojus (Medininkų vyskupas nominatas).md#claim-t-87780|Mikalojus (Medininkų vyskupas nominatas)]]: Mikalojus sutartyje buvo nurodytas kaip Medininkų, arba Žemaitijos, vyskupas nominatas tarp kunigaikščių ir prelatų.
 - susijęs iš [[objektai/asmenys/Motiejus (Vilniaus vyskupas).md#claim-t-87448|Motiejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176656|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kochanovskio nuomone, Horodlės unija Vytautas Didysis siekė ne lenkinti Lietuvą, o ją civilizuoti.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176732|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po suvažiavimo Vytautas įsitikino, kad su Lenkija geruoju nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo.
 - susijęs iš [[objektai/autoriai/Neseckis.md#claim-t-190374|Neseckis]]: Narbutas kritikuoja Neseckio „Herbyne“ pateiktą aiškinimą, kad „Paparona“ arba „Kiniglis“ reiškia kiškį, o ne triušį.
 - susijęs iš [[objektai/daiktai/Antspaudai ir pergamentiniai privilegijų originalai.md#claim-t-87045|Antspaudai ir pergamentiniai privilegijų originalai]]: Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais.
 - susijęs iš [[objektai/daiktai/Antspaudai.md#claim-t-86979|Antspaudai]]: Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais.
@@ -88,7 +86,6 @@ media_all_json: |-
 - susijęs iš Lenkija: Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.
 - susijęs iš Lenkija: Narbutas spėjo, kad kai kurie lietuviški herbai į Lenkijos herbynus pateko atsikėlus jais besinaudojusioms šeimoms.
 - susijęs iš Vakarų Bugas: Horodlė šaltinio pastaboje lokalizuojama Volynėje, dabartinėje Lenkijoje, prie Vakarų Bugo, į pietus nuo Bresto.
-- susijęs iš Vilnius: Pagal šaltinyje pateiktą sąrašą Vilnius 1387 m. iš Vladislovo Jogailos gavo Magdeburgo teisę.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės vokiečių teisė.md#claim-t-86535|Magdeburgo teisės vokiečių teisė]]: Vilnius 1321 m. turėjo Gedimino Rygos pavyzdžiu suteiktą vokiečių teisę, o 1387 m. iš Jogailos gavo Magdeburgo teisę.
 - susijęs iš [[objektai/zodynas/imunitetai.md#claim-t-70157|imunitetai]]: Horodlės unijos aktu 1413 m. dvasinėms įstaigoms buvo patvirtintos anksčiau suteiktos laisvės, privilegijos ir imunitetai.
 - susijęs iš [[objektai/zodynas/lenkinti.md#claim-t-36804|lenkinti]]: Kochanovskio nuomone, Horodlės unija Vytautas siekė ne lenkinti Lietuvą, bet ją civilizuoti.
@@ -97,43 +94,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/sidabrinė duoklė.md#claim-t-12589|sidabrinė duoklė]]: Piniginis paklusnybės mokestis, lotyniškai vadintas tributum, dažniausiai buvo žinomas sidabrinės, arba serebsčinos, vardu.
 - susijęs iš [[objektai/zodynas/vaivada kaštelionas.md#claim-t-86623|vaivada kaštelionas]]: Po Horodlės unijos akto Lietuvoje pagal Lenkijos pavyzdį buvo įvestos vaivados ir kašteliono tarnybos, apibrėžus jų pareigas.
 - susijęs iš Šaurų dvaras: Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos paviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tokį suvažiavimą, kuriame abi pusės rengėsi laimėti, Jo­
-    gaila sušaukė 1413 m. spalių mėn. 2 d. Horodlės miestelyje (prie
-    Būgo upės). Suvažiavimo nutarimai palietė politinius Lietuvos
-    ir Lenkijos santykius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1413 m. Horodlės seime lenkų bajorai suteikė savo herbus lietuvių bajorams kaip abiejų tautų susijungimo ženklą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vienas kitas aiškiai lietuviškas her­
-    bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
-    rios tais herbais naudojosi. Tik 1413 metais, po Lietuvos uni­
-    jos su Lenkija Horodlės seime, abiejų tautų susijungimo žen-
-    klan Lenkijos bajorai suteikė savo herbus lietuvių bajorams ir
-    įvesta herbų vienovė.
-    Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
-    herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-35411
@@ -156,8 +116,7 @@ media_all_json: |-
 - id: c-171588
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 402"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vienas kitas aiškiai lietuviškas her­
     bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­

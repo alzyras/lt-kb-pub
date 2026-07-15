@@ -9,15 +9,15 @@ datos:
   - '1422 m.'
 date_start: '1414'
 date_end: '1422'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - popiežius
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,6 +52,13 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
   teiginys: "Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas."
   pagrindžia:
     - c-173883
+
+<a id="claim-t-197845"></a>
+- t-003
+  global_id: t-197845
+  teiginys: "Nors Teodorikas gerai perprato ketinimus visuomet klastingo Zenono, kuris jau seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti ninko; tačiau tuomet Teodorikas nesileido sukurstomas."
+  pagrindžia:
+    - c-173883
 - susijęs iš [[objektai/asmenys/Zenonas iš Rodo.md#claim-t-191335|Zenonas iš Rodo]]: Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas.
 - susijęs iš [[objektai/ivykiai/Romėnų ir Frederiko kreipimaisi į Zenoną bei Teodoriką prieš Odoakrą.md#claim-t-191073|Romėnų ir Frederiko kreipimaisi į Zenoną bei Teodoriką prieš Odoakrą]]: Narbuto pasakojime romėnai slapta kreipėsi į Zenoną, prašydami išvaduoti juos iš barbarų, o Frederikas Teodoriko rūmuose prašė pagalbos prieš berilius.
 - susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191056|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses.
@@ -59,30 +66,9 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
 - susijęs iš [[objektai/asmenys/Povilas Russdortas.md#claim-t-35267|Povilas Russdortas]]: Povilas Russdortas buvo išrinktas Vokiečių ordino magistru vietoje atstatyto Küchmeisterio.
 - susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191156|Teodorikas Didysis]]: Narbutas rašo, kad Zenonas slapta susitarė su Teodoriku ir, vildamasis barbarų valdovų tarpusavio karo, leido ostrogotams grobti Romą ir Italiją.
 - susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191231|Teodorikas]]: Narbutas pasakoja, kad Zenonas slapta susitarė su Teodoriku ir leido ostrogotams grobti Romą bei Italiją.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176667|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. liepos pabaigoje Vytautas Didysis ir Jogaila, nelaukdami Ordino užpuolimo, išžygiavo prieš Ordiną.
 - susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50799|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: 1422 m. liepos pabaigoje Vytautas ir Jogaila išžygiavo prieš Ordiną, bet Vytautui neteko kautis atvirame mūšyje, nes vokiečiai užsidarė pilyse.
 - susijęs iš Ravena: Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, turėjusią gerą susisiekimą su jūra apsiaustiesiems.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­
-    diną, kurio magistru buvo išrinktas jam palankus Povilas
-    Russdortas, vietoje atstatyto Küchmeisterio, nes Ordinas su
-    Vytautu nuo 1414 m. buvo tik per plauką nuo karo. Popiežiaus
-    pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti,
-    bet neįstengė. Vytautas ir Jogaila, nelaukdami Ordino užpuo­
-    limo, 1422 m. liepos mėn. gale išžygiavo prieš Ordiną tuo pat
-    keliu, kaip ir į Žalgirio mūšį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -135,10 +121,8 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
 - id: c-173883
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 320"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    325
     Rytų imperatorius, silpstant jo galiai, blaškėsi pavy­
     dėdamas, sudarinėjo su Odoakru sutartis ir vėl pažeidi­
     nėjo paliaubas, ieškojo priežasčių susidūrimams ir vėl
@@ -151,9 +135,15 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
     seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po
     Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
     ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
+    Bet dabartinėmis aplinkybėmis surengti Italijos žygį pa­
+    skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
+    ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
+    klausė Mezijoje.
+  citata_rodoma: "Galop jis slapta susitarė su Teodo- \nriku, pasikliaudamas pažadais, o gal vildamasis sukelti \nbarbarų valdovų tarpusavio karą; abiem šalims nusilpus, \natsirastų proga pašalinti juos abu, be to, jis leido ostro- \ngotams grobti ir Romą, ir Italiją. Nors Teodorikas gerai \nperprato ketinimus visuomet klastingo Zenono, kuris jau \nseniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po \nNepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­\nninko; tačiau tuomet Teodorikas nesileido sukurstomas. \nBet dabartinėmis aplinkybėmis surengti Italijos žygį pa­\nskatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas \nir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­\nklausė Mezijoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191001
+    - t-197845

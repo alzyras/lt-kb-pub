@@ -6,7 +6,7 @@ tema_kategorija: "terminai"
 tema_kategorijos_pavadinimas: "Žodyno įrašai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 27
+tema_objektu_skaicius: 28
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 27.
+Objektų skaičius: 28.
 
 ## Kaip naudoti
 
@@ -36,6 +36,7 @@ Objektų skaičius: 27.
 - [[objektai/zodynas/Grucė]]
 - [[objektai/zodynas/kiemai habitaciones curia]]
 - [[objektai/zodynas/Kilimas|kilimas]]
+- [[objektai/zodynas/konfitiūrai]]
 - [[objektai/zodynas/Konlyna]]
 - [[objektai/zodynas/Krūva]]
 - [[objektai/zodynas/Likeris]]
@@ -50,6 +51,6 @@ Objektų skaičius: 27.
 - [[objektai/zodynas/Watmal Vatmalis]]
 - [[objektai/zodynas/šikšnogalis diržas]]
 - [[objektai/zodynas/Šliuižiai|šliuižiai]]
-- [[objektai/zodynas/Šližikai]]
+- [Šližikai](../objektai/zodynas/%C5%A0li%C5%BEikai)
 - [Šulmilčiai](../objektai/zodynas/%C5%A0ulmil%C4%8Diai)
 - [žiemos kinkinys](../objektai/zodynas/%C5%BEiemos%20kinkinys)

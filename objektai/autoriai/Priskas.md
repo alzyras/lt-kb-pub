@@ -34,8 +34,8 @@ Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hu
   teiginys: "Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hunus kildino iš skitų."
   pagrindžia:
     - c-174513
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hunus kildino iš skitų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -62,18 +62,18 @@ Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hu
 - id: c-174513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 306"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 306."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Turbūt hu­
-    nai buvo kilę iš plokščiaveidžių žmonių giminės, Hero­
-    doto vadintos agripėjais; jų lopšys buvo Uralo kalnai.
     Klysta senovės tyrinėtojai, kurie, remdamiesi Priskumi,
     kildina juos iš skitų1. Neva Atilos rūmuose girdėtos gies­
     mės buvusios skitiškos; tai neįrodo, kad hunai buvo
     skitų palikuonys, nes tie Siaurės Azijos vaikai galėjo
     linksmintis ir dainuodami svetimšalių giesmes taip pat,
-    kaip tai daro ir kiti.
+    kaip tai daro ir kiti. Antra vertus, Bizantijos rašytojai
+    dažnai prie skitiškų genčių priskirdavo ir tokias, kurių
+    kilmės bruožai nuo skitiškų skyrėsi kaip dangus ir že­
+    mė; o prie tokių, žinoma, priklauso hunai.
+  citata_rodoma: "Turbūt hu­\nnai buvo kilę iš plokščiaveidžių žmonių giminės, Hero­\ndoto vadintos agripėjais; jų lopšys buvo Uralo kalnai.\nKlysta senovės tyrinėtojai, kurie, remdamiesi Priskumi,\nkildina juos iš skitų1. Neva Atilos rūmuose girdėtos gies­\nmės buvusios skitiškos; tai neįrodo, kad hunai buvo\nskitų palikuonys, nes tie Siaurės Azijos vaikai galėjo\nlinksmintis ir dainuodami svetimšalių giesmes taip pat,\nkaip tai daro ir kiti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

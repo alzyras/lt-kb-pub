@@ -66,8 +66,8 @@ formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti
   teiginys: "Narbutas Bortiką sieja su Bartoje gyvenusia gentimi ir aiškina kaip šoviniais apsiginklavusį šaulį."
   pagrindžia:
     - c-175070
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -91,20 +91,20 @@ formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti
 - id: c-175070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 266."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Barta (Bartnia). Pavadinimą davė čia gyvenusi gen­
-    tis, vadinama Bortikas, tai reiškia vyrą, apsiginklavusį
-    šoviniais šaulį. Vėlesniais laikais Lietuvoje taip vadino
-    artileristus3.
+    Tai kažkada buvo turtinga ir tankiai gyve­
+    nama provincija, turėjusi kelias labai galingas tvirtoves.
+    Rytuose ji ribojosi su Sūduva, pietuose — su Galinda,
+    vakaruose — su Varmija, o šiaurėje — su Natangija ir
+    Nadruva.
+    1 Sledzenie początkow Narodow Slawianskich.
   citata_rodoma: "Barta (Bartnia). Pavadinimą davė čia gyvenusi gen­\ntis, vadinama Bortikas, tai reiškia vyrą, apsiginklavusį\nšoviniais šaulį. Vėlesniais laikais Lietuvoje taip vadino\nartileristus3."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192215
     - t-192214
+    - t-192215
     - t-192555
-    - t-004

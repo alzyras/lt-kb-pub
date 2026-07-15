@@ -7,13 +7,13 @@ datos:
   - '1338 m.'
 date_start: '1338'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rankraštis
   - saltinis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,8 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
   teiginys: "M. Prätoriaus „Proetorius M. Deliciae Prussiae oder Preussische Schaubühne“ mašinraštis su E. Kraštinaičio šifruotu tekstu nurodytas MAB RS fonde F 129-1338/5."
   pagrindžia:
     - c-61893
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Prätoriaus „Proetorius M. Deliciae Prussiae oder Preussische Schaubühne“ mašinraštis su E. Kraštinaičio šifruotu tekstu nurodytas MAB RS fonde F 129-1338/5.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -62,11 +62,15 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
 - id: c-61893
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    [Prätorius  M.]  Proetorius M.  Deliciae  Prussiae  oder  Preussische Schaubühne.
-    [Mašinraštis. E. Kraštinaičio šifruotas tekstas].—MAB RS, F 129—1338/5.
+    Varakauskas R. Kautynės ties Ašerade (1279 m.): Iš lietuvių kovų prieš Livonijos
+    ordiną XIII a.— Lietuvos TSR aukštųjų mokyklų mokslo darbai. Istorija, V., 1963, 4, p.
+    123—134.
+    Varakauskas R. Lietuvos ir Livonijos santykiai XIII—XVI а.—V., 1982.
+    Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des
+    dreizehnten Jahrhunderts, Bd.
+  citata_rodoma: "[Prätorius  M.]  Proetorius M.  Deliciae  Prussiae  oder  Preussische Schaubühne.\n[Mašinraštis. E. Kraštinaičio šifruotas tekstas].—MAB RS, F 129—1338/5."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

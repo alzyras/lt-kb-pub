@@ -7,15 +7,15 @@ datos:
   - '1971 m.'
 date_start: '1971'
 date_end: ''
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - istorikas
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -66,7 +66,6 @@ Rimantas Jasas parengė 1971 m. lietuvišką Bychovco kronikos leidimą: išvert
 - susijęs iš [[objektai/autoriai/V. Visockas.md#claim-t-187944|V. Visockas]]: V. Visockas buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
 - susijęs iš [[objektai/autoriai/Z. Kiaupa.md#claim-t-187794|Z. Kiaupa]]: Z. Kiaupa buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Rimantas Jasas išvertė Bychovco kroniką ir parašė 1971 m. leidinio įvadą bei paaiškinimus.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -91,11 +90,14 @@ Rimantas Jasas parengė 1971 m. lietuvišką Bychovco kronikos leidimą: išvert
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    REDAKCINE KOMISIJA
-    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
-    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
-    *
-    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
+    Rankraštis neturėjo jokio pavadini­
+    mo. „Bychovco kronika" jis buvo pramintas XIX a.
+    pagal rankraščio savininką, Gardino gubernijos Volko-
+    vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
+    vos metraščio" antraštė duota dėl nusistojusios jau lie­
+    tuvių tarybinėje istoriografijoje tradicijos vadinti
+    metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
+    Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
   citata_rodoma: "Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S"
   statusas: verified
   teiginio_tipas: faktas

@@ -50,8 +50,8 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
   teiginys: "Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maximo“, siedamas jį su Kohmos vardu."
   pagrindžia:
     - c-174995
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas užrašą „optimo maximo“ lygino su romėniška formule IOVI OPTIMO MAXIMO ir Jaruvito skydo užrašu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -70,57 +70,21 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    O
-    tai yra toks pat užrašas kaip ir ant kai kurių romėniškų medalių;
-    jis reiškia IOVI OPTIMO MAXIMO. Taip pat kaip ir ant Vol-
-    gasto miesto globėjo Jurovito skydo, ant kurio radau tokį užra­
-    šą: „Tutori Volgastiensi, optimo maximo Jurowito“. Lotynų kal­
-    bą slavai venedai ir lietuviai vartojo kaip diplomatinę kalbą. (Tą
-    pakabučio piešinį paėmiau iš Tomseno III lentelės 34 piešinio) “
-    (žiūrėk ten pat, piešinį 50).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Antrasis numizmatinis radinys tos
-    pačios kilmės su tokiu aprašymu: „Medalionas su kiek dailesniu
-    raiteliu, be paukščio. Užrašas tik trimis runomis: „MO.K. Turėtų
-    būti skaitoma iš dešinės į kairę, tuomet atsirastų žodis KOM,
-    tai yra Kohma -  puotų ir apsivalgymo dievaičio vardas. Taškas,
-    esantis prieš raidę „K“, rodo, kad žodis yra sutrumpintas. Todėl,
-    mano nuomone, reikėtų skaityti: „Kurcho, optimo maximo“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-174993
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 488"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    O tai yra toks pat užrašas kaip
-    ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO
-    MAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito
-    skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo
-    maximo Jurowito". Lotynų kalbą slavai venedai ir lietuviai var­
-    tojo kaip diplomatinę kalbą.
+    Ponas Tadas Vo­
+    lianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­
+    rašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1
+    lenkiška linija — 1/12 colio, 1 rusiška linija — 1/10 colio —
+    R. G.) ¡skersmens]. Jis skirtas Samborui, Pabaltijo slavų karaliu­
+    kui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo
+    Kurchas. Nedailus, vos galima suprasti, jog tai raitelis su sa­
+    kalu.
   citata_rodoma: "O tai yra toks pat užrašas kaip\n  ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO\n  MAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito\n  skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo\n  maximo Jurowito\". Lotynų kalbą slavai venedai ir lietuviai var­\n  tojo kaip diplomatinę kalbą."
   statusas: verified
   teiginio_tipas: faktas
@@ -132,8 +96,7 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
 - id: c-174994
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 257"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 257."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O
     tai yra toks pat užrašas kaip ir ant kai kurių romėniškų medalių;
@@ -154,14 +117,13 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
 - id: c-174995
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 257"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 257."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Antrasis numizmatinis radinys tos
     pačios kilmės su tokiu aprašymu: „Medalionas su kiek dailesniu
     raiteliu, be paukščio. Užrašas tik trimis runomis: „MO.K. Turėtų
     būti skaitoma iš dešinės į kairę, tuomet atsirastų žodis KOM,
-    tai yra Kohma -  puotų ir apsivalgymo dievaičio vardas. Taškas,
+    tai yra Kohma - puotų ir apsivalgymo dievaičio vardas. Taškas,
     esantis prieš raidę „K“, rodo, kad žodis yra sutrumpintas. Todėl,
     mano nuomone, reikėtų skaityti: „Kurcho, optimo maximo“.
   citata_rodoma: "Antrasis numizmatinis radinys tos\npačios kilmės su tokiu aprašymu: „Medalionas su kiek dailesniu\nraiteliu, be paukščio. Užrašas tik trimis runomis: „MO.K. Turėtų\nbūti skaitoma iš dešinės į kairę, tuomet atsirastų žodis KOM,\ntai yra Kohma -  puotų ir apsivalgymo dievaičio vardas. Taškas,\nesantis prieš raidę „K“, rodo, kad žodis yra sutrumpintas. Todėl,\nmano nuomone, reikėtų skaityti: „Kurcho, optimo maximo“."

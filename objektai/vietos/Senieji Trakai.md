@@ -10,14 +10,14 @@ datos:
   - '2026 m.'
 date_start: '1978'
 date_end: '2026'
+amziai:
+  - 'XX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XX'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -90,23 +90,8 @@ Nenurodyta
   teiginys: "Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco."
   pagrindžia:
     - c-05670
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
-    juos iš Maž. Lenkijos (Tynieco).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-    - t-003
-
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -142,25 +127,43 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193067
     - t-193065
-    - t-003
+    - t-193067
 
 - id: c-175832
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 407"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Antrame
-    skyde -  bėgantis lokys, nugręžtas į dešiniąją skydo pusę; tai
-    tėvoninės Žemaičių kunigaikštystės herbas. Trečiame skyde, į
-    dešinę nuo kunigaikščio, yra kryžius, einantis beveik per visą
-    skydą; šis skydas priklauso Senųjų Trakų miestui . Ketvirta­
-    me skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu
-    šalmu ant galvos; dešine ranka jis remiasi į nulaužtą medžio
-    kamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, lai­
-    ko kažką panašaus į pasagą.
+    retur (Šios klastingos tautos [gyvenamų žemių] viduryje, Nad-
+    ruvoje, buvo vieta, kurią vadino Romove, gavusi savo vardą
+    nuo Romos, o ten gyveno žmogus, vadinamas kriviu, kurį ger­
+    bė kaip popiežių, nes kaip valdovas popiežius valdo visuotinę
+    tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne
+    tik minėtosios gentys, bet ir lietuviai, ir kitos tautos, gyvenu­
+    sios Livonijos žemėje. Toks didelis buvo jo autoritetas, kad ne
+    tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo kri­
+    vūle ar kokiu kitu žinomu ženklu keliaudamas per šių netikė­
+    lių žemes, sulaukdavo didžios kunigaikščių, kilmingųjų bei pra­
+    stuomenės pagarbos). Nepradedami aiškinti šios Dusburgie-
+    čio kronikos vietos, pateiksime tą patį iš vėlesniojo jos perdir­
+    binio (rankraštis iš Slaptojo Karaliaučiaus archyvo), kur pasa­
+    kyta šitaip: In medio eorum fiât sita civitas Romowe, dicta a
+    Roma, in qua habitabat eorum nobilior, dictus Crive, quem pa­
+    gani pro Papa habebant, cui omnes non solum Pruteni, sed ei
+    Lithvani et Livonienses, veluti christiani Papae obediebant et
+    tantum venerabantur, quod etiam suos nuntios, qui ejus bacu­
+    lum aut signum aliquod portabant ab eo missum, principes etiam
+    et communis populus multo honore colebant et omnia praecep­
+    ta ejus firmiter servabant (Jų [žemės] viduryje buvo Romovės
+    miestas, gavęs vardą nuo Romos, kuriame gyveno kilminges-
+    nis iš jų, vadinamas kriviu, kurį stabmeldžiai laikė popiežiu­
+    mi, kurie visi - ne tik prūsai, bet ir lietuviai, ir livoniečiai -
+    klausė jo kaip krikščionys popiežiaus ir taip jį gerbė, kad netgi
+    jo pasiuntinius, nešinus jo lazda arba kokiu nors ženklu, jo
+    siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
+    sia pagarba ir griežtai vykdydavo visus jo nurodymus).
+  citata_rodoma: "Antrame\nskyde -  bėgantis lokys, nugręžtas į dešiniąją skydo pusę; tai\ntėvoninės Žemaičių kunigaikštystės herbas. Trečiame skyde, į\ndešinę nuo kunigaikščio, yra kryžius, einantis beveik per visą\nskydą; šis skydas priklauso Senųjų Trakų miestui . Ketvirta­\nme skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu\nšalmu ant galvos; dešine ranka jis remiasi į nulaužtą medžio\nkamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, lai­\nko kažką panašaus į pasagą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

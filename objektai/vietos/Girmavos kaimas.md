@@ -42,28 +42,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   teiginys: "Henriko Stangės kariuomenė žiemos metu įsibrovė į Sembą ir degindama bei grobdama pasiekė Girmavos kaimą."
   pagrindžia:
     - c-86291
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Henriko Stangės kariuomenė žiemos metu įsibrovė į Sembą ir degindama bei grobdama pasiekė Girmavos kaimą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolių karą su sembais. Apie Girmavos valsčiaus nuniokojimą
-
-      Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
-    aprašinėdami skyrium, nors šį bei tą reikia pasakyti. Kristburgo komtūras, brolis Henrikas,
-    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
-    prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
-    pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
-    žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: 'Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -89,14 +69,12 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - id: c-86291
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 103"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 103."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolių karą su sembais. Apie Girmavos valsčiaus nuniokojimą
-
-      Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
+    Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
     aprašinėdami skyrium, nors šį bei tą reikia pasakyti. Kristburgo komtūras, brolis Henrikas,
-    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
+    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą
     prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
     pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
     žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai.
@@ -111,12 +89,12 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - id: c-86292
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 103"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 103."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie Girmavos valsčiaus nuniokojimą
     Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
     aprašinėdami skyrium, nors šį bei tą reikia pasakyti. Kristburgo komtūras, brolis Henrikas,
-    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
+    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą
     prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
     pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
     žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai. Mūsų minėtasis

@@ -41,41 +41,6 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
   teiginys: "Konstitucija rėmėsi Šarlio Monteskjė valdžių padalijimo principu, aptardama valstybės politinę santvarką."
   pagrindžia:
     - c-166970
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Joje pirmąkart
-    užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
-    su dvarininkais. Taigi konstitucijoje vartojamas terminas „tauta“ jau ne-
-    reiškė tik „bajorų tautos“, o apėmė lygiai bajorus, miestiečius ir valstie-
-    čius. Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio
-    Monteskjė (Charles de Montesquieu) valdžių padalijimo principu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Konstitucija rėmėsi Šarlio Monteskjė valdžių padalijimo principu, aptardama valstybės politinę santvarką.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi konstitucijoje vartojamas terminas „tauta“ jau ne-
-    reiškė tik „bajorų tautos“, o apėmė lygiai bajorus, miestiečius ir valstie-
-    čius. Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio
-    Monteskjė (Charles de Montesquieu) valdžių padalijimo principu. Įstaty-
-    mus turi leisti Seimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

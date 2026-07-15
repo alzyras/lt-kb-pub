@@ -39,22 +39,6 @@ media_all_json: |-
   teiginys: "Jogaila atsakė, kad jo brolis yra laisvas, o Lietuvos kunigaikščiai ir bajorai laisvi bei lygūs Lenkijos ponams."
   pagrindžia:
     - c-00254
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jogaila atsakė labai nuolaidžiai: „Mūsų brolis yra lais-
-    vas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų
-    broliu. Taip pat ir Lietuvos kunigaikščius bei bajorus laikome
-    laisvais, kaip ir mūsų (t. y. Lenkijos) ponus, ir lygiais su jais" ...
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

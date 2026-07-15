@@ -52,49 +52,7 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
   teiginys: "Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti."
   pagrindžia:
     - c-24736
-
-<a id="claim-t-26959"></a>
-- t-002
-  global_id: t-26959
-  teiginys: "Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti."
-  pagrindžia:
     - c-166787
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šio proceso ankstyvąja apraiška reikėtų laikyti
-    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
-    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
-    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
-    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
-    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
-    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
-    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
-    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
-    muvoje pagrindinis kulto objektas buvo ugnis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -131,5 +89,3 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-26959

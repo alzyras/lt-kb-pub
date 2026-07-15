@@ -43,23 +43,6 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
   teiginys: "1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams."
   pagrindžia:
     - c-83740
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Po Cimermano namas atiteko ma­
-    loningiesiems ponams Savickiams.
-    1583. Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių
-    atiteko Neliubovičiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

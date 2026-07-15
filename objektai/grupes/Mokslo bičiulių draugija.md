@@ -38,22 +38,15 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
 
 ## Teiginiai
 
-<a id="claim-t-45132"></a>
+<a id="claim-t-45131"></a>
 - t-001
-  global_id: t-45132
-  teiginys: "1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“."
-  pagrindžia:
-    - c-48034
-
-<a id="claim-t-45132"></a>
-- t-002
-  global_id: t-45132
+  global_id: t-45131
   teiginys: "1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“."
   pagrindžia:
     - c-48034
 
 <a id="claim-t-45133"></a>
-- t-003
+- t-002
   global_id: t-45133
   teiginys: "Mokslo bičiulių draugijos išleistoje Ksavero Bogušo knygelėje teigta, kad lietuvių kalba tinkama aukštajai kultūrai."
   pagrindžia:
@@ -67,31 +60,6 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
 - susijęs iš [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos.md#claim-t-54283|Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]: Nepavykus atkurti Vilniaus universiteto, Lietuvoje įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.
 - susijęs iš Vilnius: Nepavykus atkurti universiteto Vilniuje, buvo įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.
 - susijęs iš [[objektai/autoriai/Ksaveras Bogušas.md#claim-t-26607|Ksaveras Bogušas (kunigas, XIX a.)]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1808 m. Varšuvoje Mokslo bičiulių drau-
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    111
-    gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę
-    „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo
-    mintis, kad lietuvių kalba yra visiškai tinkama būti atskiros aukštosios
-    kultūros kalba. Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
-    Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
-    Poška, Silvestras Valiūnas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-48034
@@ -115,5 +83,4 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45131
-    - t-45132
     - t-45133

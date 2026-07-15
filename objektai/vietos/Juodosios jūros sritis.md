@@ -42,43 +42,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginys: "Prieš Algirdo mirtį plati rytų Europos valstybė pietuose apėmė Podoliją, nusitęsusią link Juodosios jūros srities stepių."
   pagrindžia:
     - c-167756
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pietuose valstybė apėmė plačią Podoliją, nusitęsusią link Juodosios jūros srities stepių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nuo Lenkijos pakraščio, nuo
-    Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos
-    aukštupių (Rževo). Pietuose ji apėmė plačią Podoliją, nusitęsusią
-    link stepių Juodosios jūros srityje.
-    Tokia plati valstybė negalėjo būti vienalytiška nei tautiniu,
-    nei religiniu atžvilgiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Prieš Algirdo mirtį plati rytų Europos valstybė pietuose apėmė Podoliją, nusitęsusią link Juodosios jūros srities stepių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Per vieną šimtą metų, prieš Algirdui užmerkiant
-    akis, iš, palyginti, dar nedidelės Mindaugo valstybės buvo pasida­
-    riusi plati rytų Europos «imperija ». Nuo Lenkijos pakraščio, nuo
-    Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos
-    aukštupių (Rževo). Pietuose ji apėmė plačią Podoliją, nusitęsusią
-    link stepių Juodosios jūros srityje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

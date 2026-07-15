@@ -53,6 +53,7 @@ Nenurodyta
   teiginys: "Vienas iš kerdžiaus dirbamų buitinių daiktų."
   pagrindžia:
     - c-177706
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

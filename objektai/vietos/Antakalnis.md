@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -101,6 +102,13 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   teiginys: "Pasak Narbuto minimo padavimo, Vilniaus Antakalnyje, Gedimino sode, dabartinio Šv. Petro vienuolyno vietoje stovėjusi Mildos šventykla arba koplyčia."
   pagrindžia:
     - c-171552
+
+<a id="claim-t-200771"></a>
+- t-011
+  global_id: t-200771
+  teiginys: "Mikalojus Vorobjovas XIX ir XX a. vilas bei kareivines vertino kaip Antakalnio topografiją darkančius statinius."
+  pagrindžia:
+    - c-184116
 - susijęs iš [[objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md#claim-t-200687|Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)]]: 1749 m. laiške Aleksandrui Mykolui Sapiegai aprašytas Sapiegų rūmų remontas Antakalnyje.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172922|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
@@ -122,7 +130,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
 - susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200555|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius.
 - susijęs iš [[objektai/paprociai/Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje.md#claim-t-55160|Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje]]: Antakalnio šventovėje ketvirtadienio vakarais dvasininkai visada statydavo ir degindavo vaško žvakes.
 - susijęs iš [[objektai/paprociai/Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje.md#claim-t-81869|Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje]]: Antakalnio šventovėje, skirtoje lietuvių dievams, dvasininkai ketvirtadienio vakarais statydavo ir degindavo vaško žvakes.
-- susijęs iš Vilnius: Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
 - susijęs iš Šv. Petro bažnyčia Antakalnyje: Pagal padavimus Goštautas pastatydino Šv. Petro bažnyčią Antakalnyje pagonių šventyklos vietoje.
 - susijęs iš Šv. Petro bažnyčia Antakalnyje: Šv. Petro bažnyčia Antakalnyje tikriausiai pastatyta Vladislovo Jogailos laikais pagonių šventovės vietoje.
 - susijęs iš [[objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md#claim-t-200687|Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)]]: 1749 m. laiške Aleksandrui Mykolui Sapiegai aprašytas Sapiegų rūmų remontas Antakalnyje.
@@ -146,7 +153,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
 - susijęs iš Rūdninkai: Rūdninkuose bažnyčia galėjo būti nuo seno, bet klebonijos fundacija datuojama Zigmanto III laikais.
 - susijęs iš Tauro kalnas: Narbutas pasakoja, kad Gediminas nukovė taurą ant kalno, vėliau vadinto Tauro kalnu, o Lizdeika po nakvynės Šventaragio miške išaiškino jo sapną.
 - susijęs iš Vilija: Dabartinių Lukiškių ir Antakalnio užuomazgos buvo išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.
-- susijęs iš Vilnius: 1655 m. rusams užėmus Vilnių, mieste kilęs gaisras siautė 17 dienų.
 - susijęs iš Vilnius: Narbutas Gedimino sapno pasakojime rašė, kad Gediminas nakvojo Šventaragiu vadintame miške prie Vilnios ir Neries santakos.
 - susijęs iš Virogorų ežeras: Tėvai jėzuitai pasisavino Virogorų ežerą su žeme, miškais ir lankomis.
 - susijęs iš Viršupis: Didieji Lietuvos kunigaikščiai prie Vilniaus, už Antakalnio priemiesčio, turėjo miesto dvarą, vadinamą Viršupiu.
@@ -169,33 +175,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
-
-- c-009
-  santrauka: 'Narbuto perpasakotoje Gedimino sapno legendoje Lizdeika aiškino sapną po medžioklės prie Antakalnio link stūksojusio Tauro kalno.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    304
-
-    ## Puslapis 304
-
-    tinai turi išaugti į didelį miestą, kadangi tą nuostabiai skati­
-    no ir vietos padėtis.
-    Lizdeika išaiškino sapną Gediminui po to, kai jis, nukovęs
-    didžiulį taurą ant aukščiausio kalno, stūksančio Antakalnio
-    link, -  išmanantys tėvynės istoriją dabar jį vadina Tauro kal­
-    nu -  nakvojo šventajame miške prie Vilnios ir Neries santa­
-    kos, vadintame Šventaragiu; jam prisisapnavo, kad matęs mil­
-    žinišką vilką, visą šarvuotą geležiniais šarvais, o jo viduje stau­
-    gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
-    kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
-    čiui -  kas nors panašaus prisisapnuotų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
 
 ## Citatos
 
@@ -367,3 +346,21 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188663
+
+- id: c-184116
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 14"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 14."
+  citata_originali: |
+    Šalia puošniausių pastatų riogso menkutės
+    lūšnelės, šalia apstatytų gatvių ir aikščių boluoja tušti plotai. Šalia senosios
+    architektūros stilistinės puikybės regime neskoningus XIX ir XX šimtmečių
+    gamybos griozdus — pav., vilos ir kareivinės, kurios biauroja tiesiog nuosta­
+    bų topografiniu atžvilgiu Antakalnį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200771

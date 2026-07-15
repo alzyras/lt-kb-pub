@@ -10,14 +10,14 @@ datos:
   - '1501 m.'
 date_start: '1237'
 date_end: '1501'
+amziai:
+  - 'XIII'
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - upė
   - vieta
-amziai:
-  - 'XIII'
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -89,7 +89,6 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
 - susijęs iš Daugava: Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
 - susijęs iš Daugava: Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Būgas žymėjo ribą, už kurios Tarybos ponai ir kariuomenė atsisakė žygiuoti be Aleksandro sumanymo paaiškinimo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -141,30 +140,6 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Būgas jau tuomet buvo Mazovijos ir rusų žemių riba.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    121
-    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
-    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
-    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
-    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
-    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
-    pateiksime. Būgas jau tuomet buvo Mazovijos ir rusų
-    žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­
-    bių jotvingių gyvenviečių, nes jas tikėjosi užpulti Pietų
-    Rusios kunigaikščiai, kuriems
-    vadovavo Danielius —
-    klastingas, godus ir neramus žmogus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-170266
@@ -172,19 +147,21 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    dove, jeigu tu neatskleisi mums savo minties ir tikslo,
-    mes neisime už Bugo."
-    Didysis kunigaikštis Aleksandras pamatė, kad taip
-    padaryti, kaip jo brolis karalius buvo įkalbėjęs — at­
-    vykti ten su visa kariuomene — negalės, nes Tarybos
-    ponai ir visa kariuomenė nenori ten žygiuoti u, nebent
-    išduotų jiems savo sumanymą. Ir kunigaikštis Alek­
-    sandras siunčia broliui į pagalbą savo maršalą, Lydos
-    vietininką poną Stanislovą Petravičių ls, ir Možaisko
-    kunigaikštį Simoną Ivanovičių ir kunigaikštį Vasili­
-    jų Ivanovičių Semiačičiųl7, su jais keletą tūkstančių
-    kunigaikščių, didikų ir rinktinių dvarionių į Moldavi­
-    jos žemę I S , į pagalbą savo broliui, karaliui Olbrachtui.
+    Lietuvos didžiojo kunigaikščio Aleksandro maršalas
+    ponas Stanislovas Petravičius su visais žmonėmis, ku­
+    rie su juo buvo siųsti Į pagalbą karaliui Olbrachtui,
+    nesuspėjo laiku atvykti, nes bežygiuojančius keliu ir
+    persikėlusius per Dnestro upę pasitiko moldavai ir sto­
+    jo į mūšį su jais. Dievas gailestingas pakirto moldavus,
+    bet užtat nebespėjo ateiti į pagalbą karaliui, atėjo jau
+    po mūšio.
+    Moldavijos vaivada leidosi atgalios, o karalius Olb­
+    rachtas tuo metu sirgo, jo kariuomenė, apimta gilaus
+    liūdesio ir sielvarto, vis dar bijojo vijimosi. Kai kara­
+    lius išvydo savo brolio kariuomenę ateinant jam į pa­
+    galbą, labai apsidžiaugė, pralinksmėjo ir nudžiugo jo
+    širdis37. Ir paskui žengė keliu be baimės, priėjo Ka-
+    menecą3*. o paskui Lvovą, ir vėl išsiskirstė kas sau.
   citata_rodoma: "dove, jeigu tu neatskleisi mums savo minties ir tikslo, \nmes neisime už Bugo.\""
   statusas: verified
   teiginio_tipas: faktas
@@ -196,23 +173,21 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
 - id: c-175396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vadina­
-    si, būta skitų gerų—kapakasių genties, kažkokios skitų
-    kastos, kuri gyveno šiame miškingame krašte — visos
-    genties kapinėse.
-    35
-    Kitas skitų upes, nepaisant jų pavadinimų sugraikini-
-    mo, atpažinti lengviau: Istras, šiandien Dunojus, Tyras,
-    šiandien Dnestras, Hipanis, šiandien Būgas (pastaro­
-    sios dvi tekėjo iš klajoklių mizonų gyvenamo krašto),
-    Boristenis, šiandien Dnepras. Veltui kai kurie senovės
-    tyrinėtojai daug vargo stengdamiesi surasti šios garsios
-    upės pavadinimo ištakas, kurių dabar nepavyks paaiškin­
-    ti, nes jis yra mitinės kilmės ir paimtas iš skitų mitologi­
-    1 Ibid.
+    Pantikapas, o
+    tai panašiausia į tikrovę, yra šiandienė Pripetė, jungianti
+    Baltijos ir Juodosios jūros vandens baseinus. Šiuo vardu
+    Skitijos geografijoje galėjo būti vadinama ne viena upė
+    ir vietovė, nes žinoma, kad šiandien Kerčės tvirtovė sto­
+    vi ant Pantikapėjos miesto griuvėsių1. Taip pat nėra
+    pagrindo neigti, kad šiandien Arklių Vandenimis vadina­
+    ma upė buvo kitados graikų vadinta Pantikapu. Bet tarp
+    Hipakyrio ir Pantikapo, Pripetės, arba ant abiejų Dnep-
+    ro krantų, t. y. tarp Baturino ir Mozyrio, gyveno skitai
+    žemdirbiai, o už kito Pantikapo, Arklių Vandenų, į šiau­
+    rę — piemenys, pecuarii, arba nomadai.
+  citata_rodoma: "Vadina­\nsi, būta skitų gerų—kapakasių genties, kažkokios skitų\nkastos, kuri gyveno šiame miškingame krašte — visos\ngenties kapinėse.\n35\nKitas skitų upes, nepaisant jų pavadinimų sugraikini-\nmo, atpažinti lengviau: Istras, šiandien Dunojus, Tyras,\nšiandien Dnestras, Hipanis, šiandien Būgas (pastaro­\nsios dvi tekėjo iš klajoklių mizonų gyvenamo krašto),\nBoristenis, šiandien Dnepras. Veltui kai kurie senovės\ntyrinėtojai daug vargo stengdamiesi surasti šios garsios\nupės pavadinimo ištakas, kurių dabar nepavyks paaiškin­\nti, nes jis yra mitinės kilmės ir paimtas iš skitų mitologi­\n1 Ibid."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -223,8 +198,7 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
 - id: c-175397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     121
     Mazovijos kunigaikštis Konradas XIII amžiaus pra­

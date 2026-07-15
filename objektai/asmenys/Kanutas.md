@@ -44,38 +44,6 @@ Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijo
   pagrindžia:
     - c-83726
 - susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192076|Valtys]]: Apie 880 m. iš Danijos išvaryti tremtiniai sutelkė valtis, persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Apie 880 m. Danijoje viešpatavęs karalius Kanutas įsakė dėl nederliaus kas trečią žmogų išvaryti iš valsčiaus visiems laikams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Man vis dėlto atrodo,
-    kad įvykis, aprašytas Petro Olai
-    „Danų kronikoje", yra kaip tik tas,
-    kuris, viena vertus, atbloškė Riuri-
-    ką ir jo variagus į Rusiją, kita ver­
-    tus, galbūt tariamąjį Palemoną su
-    draugais - į Lietuvą. Juk šis kroniki­
-    ninkas pasakoja, kad apie 880 me­
-    tus, viešpataujant Danijoje karaliui
-    Kanutui (Cnud), kai dėl pragaištingo
-    nederliaus visiems gyventojams trū­
-    ko grūdų, buvo įsakyta kas trečią
-    žmogų išvaryti iš valsčiaus visiems
-    laikams. Likimo lemties tremtiniai,
-    sutelkę į draugę valtis, vadovauja­
-    mi išsirinkto vado, persikėlė per jū­
-    rą ir įsikūrė Prūsijoje, Žemaitijoje bei
-    Karelijoje, tarp vietinių gyventojų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83726

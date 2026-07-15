@@ -52,24 +52,6 @@ media_all_json: |-
   teiginys: "1672 m. Turkija pradėjo karo veiksmus prieš Lenkiją ir privertė ją pasirašyti Bučačo taikos sutartį."
   pagrindžia:
     - c-39217
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1672 m. Turkija pradėjo karo veiks- pasirašyti Bučačo taikos sutartį, pasiek- Turkų pajėgos
-
-    mus prieš Lenkiją dama teritorinių laimėjimų. Turkai, nujausdami lenkų ir lietuvių
-
-    ir privertė ją Atėjo žinia, kad Turkija ketina siekti puolimo kryptį, stiprino įtvirtinimus
-    daugiau ir surinkusi didžiulę kariuomenę prie Podolės Kameneco tvirtovės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

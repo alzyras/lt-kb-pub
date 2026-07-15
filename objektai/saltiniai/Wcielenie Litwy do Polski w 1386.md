@@ -43,26 +43,6 @@ media_all_json: |-
   teiginys: "H. Łowmiańskio „Wcielenie Litwy do Polski w 1386“ išspausdintas AW 12 tome 1937 m., p. 36-145."
   pagrindžia:
     - c-33755
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'H. Łowmiańskio „Wcielenie Litwy do Polski w 1386“ išspausdintas AW 12 tome 1937 m., p. 36-145.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    : _Unja Litwy z Polską,_
-    PiL, 1914, 452-658 p. — Lewicki, A. : _Über das staatsrechtliche
-    Verhältnis Lithauens zu Polen unter Jagello und Witold_ , AM, t. 31,
-    1894, 12-94 p. — Łowmiański, H. : _Wcielenie Litwy do Polski w 1386,_
-    AW, t. 12, 1937, 36-145 p. — Maciejewska, W. : _Jadwiga, Królowa
-    Polska_ , Kraków 1934 (plati bibliogr.). — Ochmański, J. : _Biskupstwo
-    wileńskie w średniowieczu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

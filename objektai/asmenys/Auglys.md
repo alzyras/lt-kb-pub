@@ -43,29 +43,6 @@ Jai vadovavo lietuvis karininkas Auglys.
   teiginys: "Lietuvis karininkas Auglys vadovavo Jiezno miestelio pakraštyje išdėstytai bolševikų kuopai."
   pagrindžia:
     - c-44295
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvis karininkas Auglys vadovavo Jiezno miestelio pakraštyje išdėstytai bolševikų kuopai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo metu
-    Jiezno miestelio pakraštyje buvo išdėstyta
-    viena bolševikų kuopa (apie 100 karių). Jai
-    vadovavo lietuvis karininkas Auglys.
-    Nenorėdamas kautis su tautie-
-    čiais, jis pačioje susirėmimo
-    pradžioje perbėgo pas lietu-
-    vius. Tačiau tuo pat metu
-
-    1919 m. vasario 10-13 d. JIEZNO KAUTYNĖS
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

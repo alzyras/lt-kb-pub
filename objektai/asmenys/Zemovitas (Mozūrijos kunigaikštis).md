@@ -43,25 +43,6 @@ media_all_json: |-
   teiginys: "1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį."
   pagrindžia:
     - c-44580
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Puolimo prieš Lietuvą išvakarėse Ordi-
-    nas stiprino ryšius su lenkų kunigaikščiais.
-    1260 m. birželio 5 d. jis ir Mozūrijos kuni-
-    gaikštis Zemovitas sudarė eilinę dar ne-
-    užgrobtos Sūduvos pasidalijimo sutartį,
-    sustiprindami tarpusavio sąjungą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

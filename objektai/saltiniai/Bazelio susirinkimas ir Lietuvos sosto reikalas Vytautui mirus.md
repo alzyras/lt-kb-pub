@@ -42,29 +42,6 @@ Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos s
   teiginys: "„Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus“ buvo šaltiniais paremta studijėlė, atspausta iš TK 1926 m."
   pagrindžia:
     - c-33538
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bažnyčios istorijos, kurią jis skaitė Teologijos-Filosofijos fakulteto
-    Teologijos skyriuje po Aleknos mirties (1930), visą laiką iki to
-    fakulteto uždarymo (1940 m. liepos 17 d.) dėstė jis Filosofijos sky­
-    riuje vidurinių amžių istoriją. Nors perkrautas įvairiomis parei­
-    gomis dar Kurijoje ir ypač Kunigų Seminarijoje (nuo 1926 m. jos
-    viee-rektorius, nuo 1932 **m.** rektorius), Penkauskas dar surado laiko
-    (iki 1930 m.) duoti porą studijų iš lietuvių iki tol netyrinėtos
-    Lietuvos istorijos srities^84. Tai buvo, šaltiniais paremta studijėlė,
-    « Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus »
-    (atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo
-    Čekijos politika Venceliui mirus » (atsp. iš Židinio 1930).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

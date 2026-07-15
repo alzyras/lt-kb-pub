@@ -44,24 +44,6 @@ Iš Pskovo buvo atvykę Livonijon 200 karių kaip kalavijuočių ordino sąjungi
   teiginys: "Iš Pskovo į Livoniją atvyko 200 karių kaip Kalavijuočių ordino sąjungininkai kariauti prieš „bedieviškąją Lietuvą“."
   pagrindžia:
     - c-28634
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Didž. Naugardo ir Tverės metraščiai pa­
-    mini, kad** **_užjūrio_** **vokiečiai su didele jėga buvo atvykę Rygon (« priidoša Nemce
-    v sile velice iz zamorija v Rigu »). Tie šaltiniai taip pat patvirtina Eiliuotinės
-    kronikos žinią, kad Saulės kautynėse dalyvavo ir** **_Ruzen_** **(LReim 1889-1890).
-    Iš Pskovo buvo atvykę Livonijon 200 karių kaip kalavijuočių ordino sąjungi­
-    ninkai kariauti prieš «bedieviškąją Lietuvą ».
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

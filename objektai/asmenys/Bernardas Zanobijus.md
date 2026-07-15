@@ -42,27 +42,6 @@ media_all_json: |-
   teiginys: "Bernardas Zanobijus buvo romietis mūrijimo meistras, sudaręs sutartį dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m."
   pagrindžia:
     - c-83613
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bernardas Zanobijus buvo romietis mūrijimo meistras, sudaręs sutartį dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    287.
-    12
-    Vilniaus kapitulos archyve yra vysku­
-    po sutartis su Bernardu Zanobijumi,
-    romiečiu, mūrijimo meistru, dėl Šv.
-    Stanislovo katedros bažnyčios per-
-    mūrijimo per penkerius metus, pra­
-    dėjus nuo 1536 metų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,7 +35,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jogailos įbrolis ir Polocko kunigaikštis. Jis siejamas su Kęstučio šalininkų kryptimi, Dmitrijaus Doniškio karo žygiais, Kulikovo mūšiu ir žūtimi prie Vorsklos 1399 m.
+Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis. Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona. Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir prisidėjo prie 1380 m. rugsėjo 8 d. pergalės Kulikovo lauke.
 
 ## Variantai
 
@@ -104,7 +104,7 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 <a id="claim-t-193894"></a>
 - t-007
   global_id: t-193894
-  teiginys: "4 4 Iki 1377 m. Imtinai Polockas buvo valdomas ne Kęstučio sūnaus, o Algirdo sūnaus Andriaus, kuris po tėvo mirties 1378 m. Iš Polocko persikėlė | Pskovą, Didįjį Naugardą Ir Maskvą, stengda masis suorganizuoti nedraugiškų Lietuvai valstybių koaliciją ir su."
+  teiginys: 'Iki 1377 m. imtinai Polocką valdė Algirdo sūnus Andrius, kuris po tėvo mirties 1378 m. persikėlė į Pskovą, Didįjį Naugardą ir Maskvą.'
   pagrindžia:
     - c-176519
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
@@ -123,129 +123,8 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182788|Michał Baliński Mykolas Balinskis]]: Rodyklė apima įvadą ir M. Balinskio veikalo vertimą.
 - susijęs iš [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.).md#claim-t-86954|Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]: Andrius Algirdaitis 1380 m. rugsėjo 8 d. Kulikovo lauke kovėsi prieš totorius ir daug prisidėjo prie pergalės.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
-    dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
-    dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
-    žiuočių ir palengvinti jiems Kęstučio valdų puolimą28. Taip
-    pat buvo sudarytos paliaubos su Livonijos magistru Rygo­
-    je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29. Kitais
-    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
-    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
-    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau miestiečių išvytas, nu­
-    vykęs pas magistrą sulaukė para­
-    mos, su pastaruoju 1381 metais iš­
-    laikė apsupęs Polocką 12 savaičių,
-    bet ir sunki pilies apgultis, ir netikė­
-    ti pokyčiai Lietuvoje, per kuriuos
-    Kęstučiui atiteko kunigaikščio sos­
-    tas, privertė Livonijos magistrą nu­
-    traukti apgultį, o Skirgailą grįžti į
-    Vilnių. Strijkovskis ir Koje-
-    1  a v i č i u s supainiojo Andrių, Al­
-    girdo sūnų, su Vaidotu, Kęstučio sū­
-    numi, todėl radosi jų minimas
-    Andrius Vaidotas, Kęstučio sūnus,
-    Polocko kunigaikštis - visai išgalvo­
-    tas. Andrius žuvo prie Vorsklos 1399
-    metais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  santrauka: 'Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir kovėsi su juo prieš totorius Kulikovo mūšyje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tasai Andrius, Jogailai pavaldaus
-    Polocko kunigaikštis, Algirdo sū­
-    nus, gimęs iš antros jo santuokos su
-    Julijona, Vitebsko kunigaikštyte, ta­
-    čiau nebuvo palankus Jogailai, vei­
-    kiau linkęs į Kęstučio pusę; tad Jo­
-    gaila nusprendė jį išvyti iš jo dalinės
-    valdos. Dėl to sudarė slaptą, be
-    Kęstučio žinios, sutartį su Livoni­
-    jos magistru, kad anas padėtų jam
-    vykdyti tuos kėslus. Tuo metu, kai
-    Andrius, nuolatinis Dmitrijaus Do­
-    niškio bendražygis, karo rūpesčiais
-    dalinęsis, kovojęs su juo dar kartu
-    prieš totorius, kur Kulikovo lauke
-    (1380 metų rugsėjo 8-ą) prie perga­
-    lės daugiausia prisidėjęs, dalyvavo
-    mūšiuose, - Skirgaila užsibuvo Po-
-    34
-
-    ## Puslapis 51
-
-    I  KNYGA
-    Galiausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­
-    siryžo užbėgti jam už akių ir žinodamas, jog šis visas savo
-    ginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad
-    ten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų
-    rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
-    Vilnių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-001
-    - t-002
-    - t-003
-
-- c-004
-  santrauka: 'Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Duota Viešpaties
-    metais 1380 artimiausią šiokiadienį,
-    kurį giedama „oculi post domini­
-    cam"], tai yra kovo 26-ą.
-    30
-    Tasai Andrius, Jogailai pavaldaus
-    Polocko kunigaikštis, Algirdo sū­
-    nus, gimęs iš antros jo santuokos su
-    Julijona, Vitebsko kunigaikštyte, ta­
-    čiau nebuvo palankus Jogailai, vei­
-    kiau linkęs į Kęstučio pusę; tad Jo­
-    gaila nusprendė jį išvyti iš jo dalinės
-    valdos. Dėl to sudarė slaptą, be
-    Kęstučio žinios, sutartį su Livoni­
-    jos magistru, kad anas padėtų jam
-    vykdyti tuos kėslus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 - c-005
-  santrauka: '4 4 Iki 1377 m. Imtinai Polockas buvo valdomas ne Kęstučio sūnaus, o Algirdo sūnaus Andriaus, kuris po tėvo mirties 1378 m. Iš Polocko persikėlė | Pskovą, Didįjį Naugardą Ir Maskvą, stengda masis suorganizuoti nedraugiškų Lietuvai valstybių koaliciją ir su.'
+  santrauka: 'Iki 1377 m. imtinai Polocką valdė Algirdo sūnus Andrius, kuris po tėvo mirties 1378 m. persikėlė į Pskovą, Didįjį Naugardą ir Maskvą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     4 4  Iki 1377 m. Imtinai Polockas buvo valdomas ne Kęstučio
@@ -353,10 +232,10 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82220
     - t-54943
     - t-54944
     - t-54945
+    - t-82220
 
 - id: c-78715
   autorius: "Michał Baliński"
@@ -385,23 +264,6 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82221
-
-- id: c-176519
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    4 4  Iki 1377 m. Imtinai Polockas buvo valdomas ne Kęstučio
-    sūnaus, o  Algirdo sūnaus Andriaus, kuris po tėvo mirties 1378 m.
-    Iš Polocko persikėlė | Pskovą, Didįjį Naugardą Ir Maskvą, stengda­
-    masis suorganizuoti nedraugiškų Lietuvai valstybių koaliciją ir su
-    jos pagalba užimti Lietuvos sostą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193894
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

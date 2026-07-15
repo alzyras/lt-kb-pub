@@ -56,29 +56,6 @@ Nenurodyta
   teiginys: "Aleksandras Vygantas buvo iškilmingai palaidotas katedroje šalia Karigailos, o jo mirtį lydėjo visuotinis gedulas."
   pagrindžia:
     - c-83255
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Aleksandras Vygantas buvo iškilmingai palaidotas katedroje šalia Karigailos, o jo mirtį lydėjo visuotinis gedulas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir
-    Krėvos kunigaikštis Aleksandras Vygantas, vienas energin­
-    giausių Lietuvos kunigaikščių, o iš visų tikrųjų Jogailos bro­
-    lių dėl sumanaus proto ir romaus būdo labiausiai tinkamas į
-    Lietuvos didžiuosius kunigaikščius. Tačiau netrukus nuo
-    įduotų nuodų, kaip buvo suprasta, jį ištiko ankstyva mirtis,
-    ir šalis neteko tiek gražių vilčių teikusio žmogaus47. Palaido­
-    jo jį iškilmingai, katedroje, šalimais Karigailos, o visuotinis
-    gedulas liudijo mirusįjį buvus didžiu žmogumi; tačiau toks
-    liūdnas įvykis suartino Jogailą su Vytautu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

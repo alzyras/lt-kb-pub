@@ -8,6 +8,8 @@ saltiniai:
 datos:
   - '1386 m.'
   - '1569 m.'
+  - '1576 m.'
+  - '1586 m.'
   - '1795 m.'
 date_start: '1386'
 date_end: '1795'
@@ -16,6 +18,7 @@ atnaujinta: ''
 tags:
   - unija
   - ivykis
+  - valdovas
   - seimas
 amziai:
   - 'XIV'
@@ -37,7 +40,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1569 Liublino unija. „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką. Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos, kartu unijos.
+1569 m. sudaryta Liublino unija sukūrė Abiejų Tautų Respubliką kaip Lietuvos ir Lenkijos suartėjimo nuo Jogailos ir Jadvygos vedybų padarinį. Liublino unijos rezultatas buvo LDK atstovų priimtas kompromisas, kurio pagrįstumu rimčiau nesuabejota dar du šimtmečius. Po Liublino unijos Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.
 
 ## Laikotarpis ir datos
 
@@ -127,33 +130,26 @@ Nenurodyta
   pagrindžia:
     - c-166648
 
-<a id="claim-t-169851"></a>
-- t-011
-  global_id: t-169851
-  teiginys: "1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką."
-  pagrindžia:
-    - c-166648
-
-<a id="claim-t-184598"></a>
-- t-012
-  global_id: t-184598
-  teiginys: "1569 m. Liublino seime ginčytasi ne dėl pačios unijos, o dėl jos sąlygų."
-  pagrindžia:
-    - c-167959
-
 <a id="claim-t-184599"></a>
-- t-013
+- t-011
   global_id: t-184599
-  teiginys: "Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu."
+  teiginys: "Cituojamoje istoriografinėje interpretacijoje unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos."
   pagrindžia:
     - c-167960
 
 <a id="claim-t-188373"></a>
-- t-014
+- t-012
   global_id: t-188373
   teiginys: "Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos."
   pagrindžia:
     - c-171267
+
+<a id="claim-t-196215"></a>
+- t-013
+  global_id: t-196215
+  teiginys: "Cituojamoje interpretacijoje Lietuvos Statuto, valstybės praeities ir valdovų aukštinimas laikytas kliūtimi Liublino unijai įgyvendinti."
+  pagrindžia:
+    - c-167959
 - susijęs iš [[objektai/grupes/Abiejų tautų seimas.md#claim-t-189511|Abiejų tautų seimas (seimas, XVI a.)]]: Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų metų pabaiga.
 - susijęs iš [[objektai/posakiai/„Šventos santuokos“.md#claim-t-183516|„Šventos santuokos“]]: „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.
 - susijęs iš [[objektai/posakiai/„Šventos santuokos“.md#claim-t-67328|„Šventos santuokos“]]: „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.
@@ -165,237 +161,6 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80779|Abiejų Tautų Respublika]]: 1569 m. Liublino unija sukūrė Abiejų Tautų Respubliką, vadinamą originaliu valstybių junginiu ir kartais laikomą Europos Sąjungos pirmtaku.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178841|Kryžiuočių ordinas]]: 1410 m. Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną.
 - susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Liublino unijos metu lenkai ir Žygimantas Augustas spaudė LDK atstovus, siekdami panaikinti valstybingumą ir atplėšti teritorijų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi J. J. Chodkevičius surado išeities
-    kelius ten, kur, atrodė, jų nėra.
-    Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni-
-    jos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net
-    ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per
-    ašaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau
-    nesuabejota dar du šimtmečius. Liublino unijos nauda pasireiškė jau ne-
-    trukus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    J. J. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Len-
-    kija, arba Lietuvą užkariauja Rusija. Jis pasirinko pirmąjį kelią, tačiau sten-
-    gėsi išsiderėti kuo palankesnes sąlygas. J. J. Chodkevičius Liublino seime
-    1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos
-    prijungimo prie Lenkijos – idėją. Tai buvo žiaurus kompromisas. Kreipda-
-    masis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu
-    skausmu ir širdgėla buvome priversti nusileisti. Bet kaip mums skaudu, to
-    negalime išreikšti žodžiu. Nes mes, kaip ištikimi savo tėvynės sūnūs, esame
-    įpareigoti rūpintis jos labu, kiek pajėgdami. Jei dabar mes negalime jos ap-
-    ginti, tai todėl, kad esame priversti nusileisti prieš kliūtis, likimą ir laiką.“
-    Po šių žodžių lietuviai su ašaromis puolė ant kelių prieš karalių, tai
-    pravirkdė netgi lenkus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-004
-
-- c-003
-  santrauka: 'Po Liublino unijos Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni-
-    jos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net
-    ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per
-    ašaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau
-    nesuabejota dar du šimtmečius. Liublino unijos nauda pasireiškė jau ne-
-    trukus. Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui
-
-    L I E T U V O S  I S T O R I J A
-    66
-    Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
-    Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
-    žiui (1609–1611 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Gindamas LDK antspaudus J. J. Chodkevičius paliko galimybę išsaugoti Lietuvos valstybingumą po Liublino unijos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Apgindamas LDK
-    antspaudus, J. J. Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietu-
-    vos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami
-    ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-
-    tybingumą. Taip ir padaryta, pareikalavus iš vėlesnių Respublikos valdo-
-    vų pripažinti Lietuvos antspaudus. Taigi J. J. Chodkevičius surado išeities
-    kelius ten, kur, atrodė, jų nėra.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
-    Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
-    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
-    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
-    nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
-    prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime. Iš neprisiekusiųjų
-    buvo atimtos žemės – Lietuvai grėsė suvereniteto praradimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-005
-
-- c-006
-  santrauka: '1569 m. sudaryta Liublino unija sukūrė Abiejų Tautų Respubliką kaip Lietuvos ir Lenkijos suartėjimo nuo Jogailos ir Jadvygos vedybų padarinį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    ABIEJŲ TAUTŲ RESPUBLIKA
-    Liublino unija
-    1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
-    ir Lenkijos suartėjimas. „Šventos santuokos“ metafora dažnai taikoma
-    visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino uni-
-    ja, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką. Tai buvo ori-
-    ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
-    Sąjungos pirmtaku. Be Lenkijos ir Lietuvos suartėjimo ir kariuomenių
-    sąjungos nebūtų buvo Žalgirio pergalės, o sėkmingos Livonijos karo baig-
-    ties XVI a. – būtent be Liublino unijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taip ir padaryta, pareikalavus iš vėlesnių Respublikos valdo-
-    vų pripažinti Lietuvos antspaudus. Taigi J. J. Chodkevičius surado išeities
-    kelius ten, kur, atrodė, jų nėra.
-    Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni-
-    jos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net
-    ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per
-    ašaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau
-    nesuabejota dar du šimtmečius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-008
-  santrauka: '1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lenkijos ir Lietuvos jungtinė kariuomenė
-    sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
-    tencijai.
-    1569 
-    Liublino unija. Susikuria jungtinė Lenkijos ir Lietuvos Valstybė –
-    Abiejų Tautų Respublika.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-    - t-010
-
-- c-009
-  santrauka: '1569 m. Liublino seime ginčytasi ne dėl pačios unijos, o dėl jos sąlygų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Iš dedikacijų teksto, kupino įprastinio gražbyliavimo,
-    matyti A. Kojelavičiaus pažiūros į Lietuvos ir Lenkijos
-    santykius. Liublino seime 1569 m. ginčytasi ne dėl pa­
-    čios unijos, o dėl jos sąlygų. Lietuvos atstovai stojo
-    už dviejų valstybių federaciją, o Lenkijos — už vals­
-    tybių ir tautų integraciją Lenkijos karaliaus valdžioje
-    ir jungtinę valstybę vadino Žečpospolita.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-010
-  santrauka: 'Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Žymesnieji buržuazinės istoriografijos atstovai, lai­
-    kydamiesi tokios didžiavalstybinės pažiūros, vadino
-    Lietuvą valstybe, o uolų feodalinio imuniteto saugoji­
-    mą vaizdavo kaip valstybės ar net tautos reikalų gy­
-    nimą.
-    Iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio­
-    navo Ukrainos prijungimą prie Lenkijos, pripažino ka­
-    ralių ir bendrą seimą jungtinės valstybės suverenu,
-    užtikrino žemės nuosavybės ir žemėvaldos teisę tik
-    šlėktų luomo nariams, o politines teises — tik federa­
-    ciją sudarantiems indigenams, o šitai konservavo bau­
-    džiavą, kliudė prekiniams ir piniginiams santykiams
-    plėstis, miestams stiprėti ir tuo pačiu lietuvių, baltaru­
-    sių ir ukrainiečių tautybėms tapti tautomis (nacijomis).
-    Kai 1648 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-011
-  santrauka: 'Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
-    dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai
-    savarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­
-    mas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­
-    litiniams įvykiams ir pagal juos suskirstė veikalo turinį6.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
 ## Citatos
 
 - id: c-154525
@@ -441,8 +206,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169850
     - t-169845
+    - t-169850
 
 - id: c-154527
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -506,8 +271,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169849
     - t-169846
+    - t-169849
 
 - id: c-154533
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -568,34 +333,39 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183260
     - t-169851
 
 - id: c-167959
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 8"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 8."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Iš dedikacijų teksto, kupino įprastinio gražbyliavimo,
-    matyti A. Kojelavičiaus pažiūros į Lietuvos ir Lenkijos
-    santykius. Liublino seime 1569 m. ginčytasi ne dėl pa­
-    čios unijos, o dėl jos sąlygų. Lietuvos atstovai stojo
-    už dviejų valstybių federaciją, o Lenkijos — už vals­
-    tybių ir tautų integraciją Lenkijos karaliaus valdžioje
-    ir jungtinę valstybę vadino Žečpospolita.
+    Prie kliuvinių unijai įgyvendinti priskiriama
+    Lietuvos Statuto ir valstybės praeities bei jos valdovų
+    aukštinimas.
+    Šitokį aukštinimą matome A. Kojelavičius dedika­
+    cijose, kur teigiama:
+    .neabejotinai Lietuvos istorijos
+    globėju turi būti tas pats žmogus, kuris yra žymus Lie­
+    tuvos valstybės gynėjas". Pirmo tomo dedikacijoje Sa­
+    piegų giminė aukštinama už ukrainiečių sukilimo nu­
+    slopinimą,
+    antrame
+    tome — už
+    palyginti
+    laimingą
+    1654—1667 metų karo baigtį.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184598
+    - t-196215
 
 - id: c-167960
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 30"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 30."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Žymesnieji buržuazinės istoriografijos atstovai, lai­
     kydamiesi tokios didžiavalstybinės pažiūros, vadino
@@ -622,14 +392,19 @@ Nenurodyta
 - id: c-171267
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 8"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
-    dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai
-    savarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­
-    mas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­
-    litiniams įvykiams ir pagal juos suskirstė veikalo turinį6.
+    Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai
+    vertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo
+    klaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI
+    nuvertinimo priežastis - istoriko politinės simpatijos LDK ir
+    lietuvių tautai. T. Narbutas - tipiškas gente lituanus, natione
+    polonus lietuvis bajoras. Ksavero Bogušo, Ignoto Onacevičiaus,
+    Adomo Honorijaus Kirkoro ir jo kultūrinio būrelio kūryba ir
+    veikla bandė parodyti LDK žemių istoriją, joje gyvenančių tau­
+    tybių kultūrinę įvairovę ir paliudyti neginčijamą teisę bent į
+    6 Jonynas I. Istorijos baruose.
+  citata_rodoma: "LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­\ndą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai\nsavarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­\nmas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­\nlitiniams įvykiams ir pagal juos suskirstė veikalo turinį6."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

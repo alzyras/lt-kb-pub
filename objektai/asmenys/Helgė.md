@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, o į pagalbą jam buvo pakviestas Jarmerikas.
+Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, o į pagalbą jam buvo pakviestas Jarmerikas. Helgė įsakė pririšti 40 slavų belaisvių prie laukinių vilkų ir išvyti juos į mišką baisiai mirčiai.
 
 ## Teiginiai
 
@@ -35,12 +35,18 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
   teiginys: "Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, o į pagalbą jam buvo pakviestas Jarmerikas."
   pagrindžia:
     - c-174294
+
+<a id="claim-t-197742"></a>
+- t-002
+  global_id: t-197742
+  teiginys: "Helgė įsakė pririšti 40 slavų belaisvių prie laukinių vilkų ir išvyti juos į mišką baisiai mirčiai."
+  pagrindžia:
+    - c-179321
 - susijęs iš [[objektai/asmenys/Jarmerikas.md#claim-t-191184|Jarmerikas]]: Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiveržė į slavų kraštą ir sumušė venedų karalių Skalką.
 - susijęs iš [[objektai/asmenys/Jarmerikas.md#claim-t-191184|Jarmerikas]]: Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiveržė į slavų kraštą ir sumušė venedų karalių Skalką.
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-192473|Slavai]]: Narbutas rašė, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką ir perėmė jo kraštą.
 - susijęs iš [[objektai/ivykiai/Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis.md#claim-t-191064|Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis]]: Narbutas pasakoja, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalka krito mūšio lauke.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, o į pagalbą jam buvo pakviestas Jarmerikas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -70,22 +76,44 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    234
-
-    ## Puslapis 245
-
-    su slavais, buvo paimtas nelaisvėn, iš kur pabėgęs užpuo­
-    lė švedų karalių Otarą ar Gotarą, kurį nugalėjo ir paėmė
-    jo sostą. Tuomet ir danų karalius Helgė kariavo su sla­
-    vais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­
+    Pakviestas į pagal­
     bą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti
-    už savo nelaisvę ar norėdamas turėti naudos.
+    už savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė
+    į slavų kraštą; venedų karalius Skalka buvo sumuštas ir
+    krito mūšio lauke, o jo kraštas pateko į priešų rankas.
+    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
+    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
+    ką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog
+    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
+    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
+    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
+    galo juos engdamas.
+  citata_rodoma: "234\n\n## Puslapis 245\n\nsu slavais, buvo paimtas nelaisvėn, iš kur pabėgęs užpuo­\nlė švedų karalių Otarą ar Gotarą, kurį nugalėjo ir paėmė\njo sostą. Tuomet ir danų karalius Helgė kariavo su sla­\nvais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­\nbą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti\nuž savo nelaisvę ar norėdamas turėti naudos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191412
+
+- id: c-179321
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
+    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
+    ką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog
+    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
+    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
+    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
+    galo juos engdamas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197742
 
 ## Ryšiai
 - Rėmė Helgę: [[objektai/asmenys/Jarmerikas]]

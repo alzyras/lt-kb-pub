@@ -64,48 +64,13 @@ Nenurodyta
   teiginys: "Prūsų prigimtinėje teisėje buvęs taliono principas davė pagrindo kalbėti apie kraujo kerštą nusikaltėliui ir jo giminėms."
   pagrindžia:
     - c-67156
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Žmogžudystės nesantarvė jų žemėje baigdavosi tik tada, kai nužudytojo tėvai nužudydavo patį žudiką arba jo giminaitį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Jų krašte niekam neleidžiama
-    elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
-    tinkami. Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
-    tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213. Žmonės, netikėtai
-    atsidūrę itin varganoje padėtyje, pratę patys nusižudyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Prūsų prigimtinėje teisėje buvęs taliono principas davė pagrindo kalbėti apie kraujo kerštą nusikaltėliui ir jo giminėms.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    213 Apie kraujo kerštą D. užrašė, matyt, iš nuogirdų, be to, perdėdamas. Taliono
-    principo (kaklas už kaklą, ranka už ranką) buvimas prūsų prigimtinėje teisėje davė
-    pagrindo D. kalbėti apie kraujo kerštą ne tik nusikaltėliui, bet ir jo giminėms. XIII a.
-    2-oje pusėje talionas buvęs pakeičiamas išpirka (Jurginis J., Baudžiavos..., p. 98—100).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-67155
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 70"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Jų krašte niekam neleidžiama
     elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
@@ -123,8 +88,7 @@ Nenurodyta
 - id: c-67156
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 70"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     213 Apie kraujo kerštą D. užrašė, matyt, iš nuogirdų, be to, perdėdamas. Taliono
     principo (kaklas už kaklą, ranka už ranką) buvimas prūsų prigimtinėje teisėje davė

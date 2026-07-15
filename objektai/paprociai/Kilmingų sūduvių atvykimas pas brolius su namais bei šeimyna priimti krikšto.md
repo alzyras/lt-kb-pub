@@ -3,6 +3,12 @@ tipas: paprotys
 pavadinimas: 'Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1283 m.'
+date_start: '1283'
+date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -83,22 +89,29 @@ Nenurodyta
   teiginys: "Apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido."
   pagrindžia:
     - c-60370
-## Reikšmingi paminėjimai
 
+<a id="claim-t-196984"></a>
+- t-006
+  global_id: t-196984
+  teiginys: "Dėl to Prūsijoje daug naujakrikščių, kurių protėviai gimę iš kilmingų šeimų, tačiau jie patys dėl nusikaltimų, padarytų tikėjimui bei tikintiesiems, buvo palaikyti prastos kilmės žmonėmis, tuo tarpu kiti, kurių tėvai buvę nekilmingi, pelnė laisvę už ištikimą."
+  pagrindžia:
+    - c-60368
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kimenavos sūduvių vadas Gedetas su savo namais, šeimyna ir 1500 vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­
-                   mą ir apie tai, kaip buvo apleista ši žemė
-
-      Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti,
-    nerašysime apie tuos karus. Kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę
-    galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei
-    smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais
-    šimtais vyrų bei moterų jis pasitraukė pas brolius ir priėmė krikštą. Tačiau Skurdą516,
-    kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į
-    Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
+    Dėl to Prūsijoje daug naujakrikščių,
+    kurių protėviai gimę iš kilmingų šeimų, tačiau jie patys dėl nusikaltimų, padarytų tikėjimui
+    bei tikintiesiems, buvo palaikyti prastos kilmės žmonėmis, tuo tarpu kiti, kurių tėvai
+    buvę nekilmingi, pelnė laisvę už ištikimą tarnybą tikėjimui ir broliams518.
+    221 (216). Baigiamas karas Prūsijoje. Prasideda karas su lietuviais
+    1283 viešpaties metais, kai nuo karų su prūsų gentimis pradžios prabėgo jau 53 metai
+    ir visos šios žemės giminės [nationes] jau buvo nukariautos ir išvaikytos, žodžiu, kai čia
+    nebeliko nė vieno, kuris nebūtų nuolankiai paklusęs šventajai Romos bažnyčiai, Teutonų
+    ordino broliai šitaip pradėjo karą su ta galinga, kietasprande ir kariauti pratusia tauta,
+    kuri gyveno Prūsijos žemės kaimynystėje, anapus Nemuno, Lietuvos žemėje.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: saltinio_teiginys
@@ -106,6 +119,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+    - t-006
 
 - c-002
   santrauka: 'Skomantas su visais savo namais bei šeimyna pasidavė krikščionių tikėjimui ir broliams.'
@@ -127,67 +141,48 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie vieno sūduvio atsivertimą ir nuostabų įvykį
-
-      Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
-    šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Sužinojęs,
-    dėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo
-    šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį
-    pakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo. Kunigas uoliai padarė,
-    ko prašomas, ir apsidairęs išvydo kojūgalyje medinį kryžių, kurį šis sūduvis buvo liepęs
-    padirbdinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-    - t-005
-
 ## Citatos
 
 - id: c-60368
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 171"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­
-                   mą ir apie tai, kaip buvo apleista ši žemė
-
-      Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti,
-    nerašysime apie tuos karus. Kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę
-    galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei
-    smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais
-    šimtais vyrų bei moterų jis pasitraukė pas brolius ir priėmė krikštą. Tačiau Skurdą516,
-    kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į
-    Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
+    Priešingais atvejais broliai irgi tinkamai elgėsi. Dėl to Prūsijoje daug naujakrikščių,
+    kurių protėviai gimę iš kilmingų šeimų, tačiau jie patys dėl nusikaltimų, padarytų tikėjimui
+    bei tikintiesiems, buvo palaikyti prastos kilmės žmonėmis, tuo tarpu kiti, kurių tėvai
+    buvę nekilmingi, pelnė laisvę už ištikimą tarnybą tikėjimui ir broliams518.
+    221 (216). Baigiamas karas Prūsijoje. Prasideda karas su lietuviais
+    1283 viešpaties metais, kai nuo karų su prūsų gentimis pradžios prabėgo jau 53 metai
+    ir visos šios žemės giminės [nationes] jau buvo nukariautos ir išvaikytos, žodžiu, kai čia
+    nebeliko nė vieno, kuris nebūtų nuolankiai paklusęs šventajai Romos bažnyčiai, Teutonų
+    ordino broliai šitaip pradėjo karą su ta galinga, kietasprande ir kariauti pratusia tauta,
+    kuri gyveno Prūsijos žemės kaimynystėje, anapus Nemuno, Lietuvos žemėje.
+  citata_rodoma: "Dėl to Prūsijoje daug naujakrikščių, \nkurių protėviai gimę iš kilmingų šeimų, tačiau jie patys dėl nusikaltimų, padarytų tikėjimui \nbei tikintiesiems, buvo palaikyti prastos kilmės žmonėmis, tuo tarpu kiti, kurių tėvai \nbuvę nekilmingi, pelnė laisvę už ištikimą tarnybą tikėjimui ir broliams518.\n221 (216). Baigiamas karas Prūsijoje. Prasideda karas su lietuviais\n1283 viešpaties metais, kai nuo karų su prūsų gentimis pradžios prabėgo jau 53 metai \nir visos šios žemės giminės [nationes] jau buvo nukariautos ir išvaikytos, žodžiu, kai čia \nnebeliko nė vieno, kuris nebūtų nuolankiai paklusęs šventajai Romos bažnyčiai, Teutonų \nordino broliai šitaip pradėjo karą su ta galinga, kietasprande ir kariauti pratusia tauta, \nkuri gyveno Prūsijos žemės kaimynystėje, anapus Nemuno, Lietuvos žemėje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59738
+    - t-196984
 
 - id: c-60369
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Skomanto, sūduvių vado, atsivertimą
-
-      Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia  ir turtais, vis dėlto,
-    negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
-    žemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas
-    tremties,  į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti  ir taip
-    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
-    tikėjimui ir broliams.
+    Tą patį padarė ir ketvirtas brolis, o kad šis dovanojimas butų teisėtas
+    ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių
+    veiksmų, kuriems galėtų pagal įstatymus ryžtis šioje kunigaikštystėje jie patys ar jų
+    palikuonys, ir išdavė tuo reikalu broliams raštus, kuriuos patvirtino savo antspaudais.
+    Sitai sužinojęs, Mstivojus užgrobė šias tris Pomeranijos kunigaikštystės dalis ir jas ilgus
+    metus išlaikė savo valdžioje prieš brolių valią. Galop atvyko jo šventenybė Pilypas, Fermo
+    vyskupas, apaštališkojo sosto legatas, atsiųstas į Lenkijos žemę, ir brolis Konradas iš
+    Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams
+    skriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,
+    (SRP, 1, p. 737); Volynės metraštis — Злиньци, Злина (ПСРЛ, 2, стб.
+  citata_rodoma: "Apie Skomanto, sūduvių vado, atsivertimą\n\n  Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia  ir turtais, vis dėlto,\nnegalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios\nžemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas\ntremties,  į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti  ir taip\ndažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė\ntikėjimui ir broliams."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -198,12 +193,10 @@ Nenurodyta
 - id: c-60370
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 165"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie vieno sūduvio atsivertimą ir nuostabų įvykį
-
-      Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
+    Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
     šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Sužinojęs,
     dėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo
     šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį

@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
+Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės. Kojelavičiaus pasakojime Algirdas ir Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos siena turėjo siekti Možaiską ir Ugros upę.
 
 ## Teiginiai
 
@@ -34,59 +34,52 @@ Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Liet
   teiginys: "Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės."
   pagrindžia:
     - c-169669
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­
-    jojo visokių netikėtumų, ir lietuvis norėjo laiku iš­
-    vengti visokių atsitiktinumų, jie be didelio vargo su­
-    tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi­
-    mas žymiausiųjų palydovų ir
-    T a ik o s ta ip  m a s k v ė -
-    bajorų, įžengsiąs į miestą ne­
-    rių ir A lg ir d o  s ą ly g o s
-    lyginant draugas; tarsi nuga­
-    lėtojas jis įsmeigsiąs ietį į
-    pilies vartus. Lietuvos sienos būsiančios praplėstos li­
-    gi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­
-    reiviams algą, o vadui — karo išlaidas. Abiejų tautų
-    priesaika turinti sustiprinti amžinąją taiką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196345"></a>
+- t-002
+  global_id: t-196345
+  teiginys: "Kojelavičiaus pasakojime Algirdas ir Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos siena turėjo siekti Možaiską ir Ugros upę."
   pagrindžia:
-    - t-001
+    - c-169669
 
 ## Citatos
 
 - id: c-169669
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­
     jojo visokių netikėtumų, ir lietuvis norėjo laiku iš­
     vengti visokių atsitiktinumų, jie be didelio vargo su­
     tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi­
     mas žymiausiųjų palydovų ir
-    T a ik o s ta ip  m a s k v ė -
+    T a ik o s ta ip m a s k v ė -
     bajorų, įžengsiąs į miestą ne­
-    rių ir A lg ir d o  s ą ly g o s
+    rių ir A lg ir d o s ą ly g o s
     lyginant draugas; tarsi nuga­
     lėtojas jis įsmeigsiąs ietį į
     pilies vartus. Lietuvos sienos būsiančios praplėstos li­
     gi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­
     reiviams algą, o vadui — karo išlaidas. Abiejų tautų
-    priesaika turinti sustiprinti amžinąją taiką.
+    priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­
+    dami su šitokiomis sąlygomis;
+    prisiekė valdovas Dimitrijus,
+    vyriausiasis šventikas, žmo­
+    nių vadinamas metropolitu,
+    viečė ir žymiausieji bajorai,
+    Algirdas,
+    tą
+    pačią
+    dieną
+    įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­
+    vanojo kunigaikštį, kariškai jį pasveikinęs prie pačių
+    altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­
+    dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186308
+    - t-196345

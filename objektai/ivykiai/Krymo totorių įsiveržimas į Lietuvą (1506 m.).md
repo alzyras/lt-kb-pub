@@ -66,53 +66,6 @@ Nenurodyta
   teiginys: "1506 m. vasarą totoriai įsiveržė į LDK valdas ir gegužės pabaigoje pradėjo žygį į valstybės gilumą."
   pagrindžia:
     - c-43058
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Totorių įsiveržimas
-
-    1506 m. vasarą totoriai įsiveržė į LDK valdas
-    gerai nusiteikę. Prieš metus įvykęs jų žygis
-    leido jiems „smagintis“ Vilniaus ir Polocko,
-    Vitebsko ir Drucko, Naugarduko ir Slucko
-    apylinkėse - tikrajame LDK branduolyje,
-    tankiausiai apgyventame ir turtingiausiame
-    krašte. Totoriai neturėjo pagrindo įtarti, kad
-    sėkmė nuo jų šį kartą nusisuks. Pats žygis
-
-    į LDK gilumą prasidėjo gegužės pabaigoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ties Lojevu jie
-    persikėlė į dešinįjį Dniepro krantą ir pa-
-    spartinę žygio tempą pasileido tiesiai va-
-    karų kryptimi Mozyriaus ir Slucko link.
-    Galiausiai apie liepos 20-22 d. jie sustojo.
-    Vietą savo stovyklavietei jie pasirinko prie
-    Klecko miesto, kuris dar 1503 m. buvo jų
-    sunaikintas ir nekėlė pavojaus, o stovėda-
-    mas ant kelių, vedančių į Pinską, Vilnių,
-    Nesvyžių ir Slucką, buvo itin geras punktas
-    išpuoliams, kuriuos totoriai vykdė pasi-
-    skirstę mažesniais būriais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

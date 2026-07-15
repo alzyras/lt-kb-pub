@@ -54,8 +54,8 @@ Nenurodyta
   global_id: t-195346
   teiginys: "Elgetai dovanotas ir vėliau broliui atiduotas drabužis."
   pagrindžia:
-    - c-177751
     - c-177750
+    - c-177751
 - susijęs iš [[objektai/paprociai/„Prikeltuvių“ ir jaunamarčios apdovanojimo paprotys.md#claim-t-195385|„Prikeltuvių“ ir jaunamarčios apdovanojimo paprotys]]: Per prikeltuves jaunamarčia turėdavo apdovanoti vyro šeimą, brolius, griežikus ir kitus dalyvius savo rankų gaminiais.
 - susijęs iš [[objektai/zodynas/Dieveriai.md#claim-t-195633|Dieveriai]]: Dieveriai šiame šaltinyje yra vyro broliai.
 - susijęs iš [[objektai/zodynas/Mošės.md#claim-t-195632|Mošės]]: Mošės šiame šaltinyje yra vyro seserys.

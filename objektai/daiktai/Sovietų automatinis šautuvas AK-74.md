@@ -62,25 +62,6 @@ Nenurodyta
   teiginys: "1974 m. sukurtas sovietų automatinis šautuvas AK-74 buvo naujas Kalašnikovo automato variantas, naudojęs mažesnį šovinį."
   pagrindžia:
     - c-44681
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1974 m. sukurtas sovietų automatinis šautuvas AK-74 buvo naujas Kalašnikovo automato variantas, naudojęs mažesnį šovinį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1959 m. sovietų ginkluotosios pajėgos pradėjo naudoti moder-
-    nizuotą (palengvintą ir supaprastintos konstrukcijos) AK-47 ver-
-    siją - AKM. 1974 m. buvo sukurtas naujas Kalašnikovo automato
-    variantas — AK-74, kuris naudojo dar mažesnį šovinį.
-
-    Sovietų automatinis šautuvas AKM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

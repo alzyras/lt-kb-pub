@@ -41,25 +41,6 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   teiginys: "Lohajskas buvo viena iš paskutinių rytinių slavų pilių į šiaurę nuo Nemuno."
   pagrindžia:
     - c-28300
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lohajskas buvo viena iš paskutinių rytinių slavų pilių į šiaurę nuo Nemuno.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Etnografinė lietuvių siena rytuose šiauriau Nemuno yra dar
-    sunkiau nustatoma, nes šis pakraštys nėra tiksliai ištyrinėtas.
-    Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas,
-    Minskas, Zaslavlis. 1387 metų Jogailos rašte Skirgailai minimi prie
-    Molodečnos Lebedžiai (Lebedev) «na russkoj storone », rodo, jog
-    ten baigėsi lietuvių plotai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

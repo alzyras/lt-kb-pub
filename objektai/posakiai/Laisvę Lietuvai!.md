@@ -49,25 +49,6 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
   teiginys: "Šūksnis „Laisvę Lietuvai!“ siejamas su Romo Kalantos pasidegimu Kauno miesto sode 1972 m. gegužės 14 d."
   pagrindžia:
     - c-23552
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1971 m. viename iš Vilniaus
-    restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
-    net 300 SSRS hipių suvažiavimu. 1972 m. gegužės 14 d. devyniolikme-
-    tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
-    pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
-    lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Neris Vilija'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -50,87 +51,13 @@ media_all_json: |-
   teiginys: "Artėjanti žiema grėsė Vilijos upėje stovėjusiems kryžiuočių laivams užkirsti kelią grįžti į Prūsiją."
   pagrindžia:
     - c-82073
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo Skirgailos stovykla.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tai buvo ne garsusis prancūzų mar­
-    šalas Boucicaut, bet jo sūnus: juk D e
-    W a 1 (Histoire de Vordre Teutonique
-    T. IV, p. 51) ap. V o i g t, V, 542, apie
-    jį pasakoja: Entre les Francois on doit
-    remarquer Jean le Maingre dit Bouci-
-    —  • —
-    120
-
-    ## Puslapis 137
-
-    Il KNYGA
-    ciu pulkų, vedamų Vytauto, dar ir Livonijos magistras su
-    savo pajėgomis; o kitoje Vilijos pusėje driekėsi Skirgailos sto­
-    vykla, prie Visevaldės pilies, netoli nuo senojo Kauno, jis,
-    kartu su broliu Vygantu gausiai kariaunai vadovaudami, bu­
-    vo sumanę ginti perėjas25. Kad neįsiveltų į neaiškios lemties
-    mūšį atvirame lauke, Ordino didysis maršalas su rinktinių
-    riterių daliniu prasigavę per besitęsiančias į šiaurę nuo mies­
-    to girias ir brastas, staiga iš už nugaros puolė nenuovokų
-    Skirgailą ir sudavė jam smarkų smūgį26.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197473"></a>
+- t-004
+  global_id: t-197473
+  teiginys: "Šiuo atveju to nelaimingo priešo - Vylingosios (Zdradliwa) vardo veikiau buvo nusipelniusi Vilnia, kadaise tikusi laivy bai, tokia srauni, vingiuota, akmenuotu dugnu, palyginti su Vilija, tekančia didinga vaga, dar visur gilia ir visur saugia lai vybai."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Latopisiec Litewski nurodo, kad mūšis vyko prie Vilijos upės, ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    25
-    Latopisiec Litewski, leidžiamas p. D a-
-    n i 1  o v i č i a u s, 1.45 pasakoja, kad
-    tas mūšis vykęs prie Vilijos upės: ties
-    Horodoku, vietovėje, vadinamoje
-    Weyiszczuszki. Tai tikriausiai dabar­
-    tiniai Vižūnai, seniau ten stovėjusi
-    pilis, prūsų vadinta Wissewalde, ties
-    Nerimi, arba Vilija, buvusi...
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Artėjanti žiema grėsė Vilijos upėje stovėjusiems kryžiuočių laivams užkirsti kelią grįžti į Prūsiją.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tokios atkaklios Moskoževskio gynybos aplin­
-    kybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­
-    riaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi
-    ir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­
-    imtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema
-    grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti
-    atgal į Prūsiją. Be to, dar Skirgaila sutelkė likučius ir ėmė pul­
-    dinėti priešą iš užnugario, pasalūniškai; tad visai nusigalavę,
-    32
-    Ta dvikova neįvyko: abi pusės, nors
-    ir buvo atvykusios sutartu laiku į
-    Prahą, bet imperatoriaus Vaclovo di­
-    delių pastangų dėka buvo susitarta
-    taikytis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+    - c-179210
 
 ## Citatos
 
@@ -214,3 +141,24 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86094
+
+- id: c-179210
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Be anksčiau pateiktų įrody­
+    mų, tą patvirtina vietovės Paneriai, Neriškiai ir 1.1. Darant to­
+    pografinę apžvalgą, nesunku pastebėti, kad tų upių vandens
+    lygis kadaise buvo daug aukštesnis ir, atrodo, tolydžio žemėja.
+    Šiuo atveju to nelaimingo priešo - Vylingosios (Zdradliwa)
+    vardo veikiau buvo nusipelniusi Vilnia, kadaise tikusi laivy­
+    bai, tokia srauni, vingiuota, akmenuotu dugnu, palyginti su
+    Vilija, tekančia didinga vaga, dar visur gilia ir visur saugia lai­
+    vybai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197473

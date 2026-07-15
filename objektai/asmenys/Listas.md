@@ -35,16 +35,27 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
   teiginys: "Prie Junigedos pilies laivams įstrigus seklumoje, netikėliai nukovė brolį Listą, brolį Heinmaną Kindą ir 25 vyrus."
   pagrindžia:
     - c-61008
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197126"></a>
+- t-002
+  global_id: t-197126
+  teiginys: "Listas atskleidė visas šios atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus."
+  pagrindžia:
+    - c-61008
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prie Junigedos pilies laivams įstrigus seklumoje, netikėliai nukovė brolį Listą, brolį Heinmaną Kindą ir 25 vyrus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
-    įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai
-    nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus. Viešpaties
-    padedami, kiti paspruko.
+    Kiti
+    sugrąžino belaisvius, ir šitaip Notangos žemėje įsiviešpatavo ramybė. Vis dėlto, kai
+    Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
+    ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
+    bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
+    kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti. Vis dėlto
+    po 14 dienų Karaliaučiaus pilyje magistro bei brolių akivaizdoje jis atskleidė visas šios
+    atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: saltinio_teiginys
@@ -52,19 +63,25 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-61008
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 188"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
-    įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai
-    nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus. Viešpaties
-    padedami, kiti paspruko.
+    Vis dėlto, kai
+    Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
+    ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
+    bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
+    kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti. Vis dėlto
+    po 14 dienų Karaliaučiaus pilyje magistro bei brolių akivaizdoje jis atskleidė visas šios
+    atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus. Todėl magistras ir
+    kiti, turėdami omenyje, kad nebaudžiamas nusikaltimas skatina daugiau nusikalsti,
+    įsakė visus, kurie turėjo šiokio tokio ryšio su tuo šlykščių nusižengimu, teisingojo dievo
+    nuosprendžiu visaip iškankintus nužudyti, ir šitaip krikščionims buvo sugrąžinta taika.
   citata_rodoma: "Kai čia laivai\nįstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai\nnukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus. Viešpaties\npadedami, kiti paspruko."
   statusas: verified
   teiginio_tipas: faktas
@@ -72,3 +89,4 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60376
+    - t-197126

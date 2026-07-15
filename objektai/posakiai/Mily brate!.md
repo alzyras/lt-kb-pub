@@ -54,32 +54,13 @@ Broliškas ar familiariai mandagus kreipinys į pašnekovą.
   teiginys: "XVI a. teismų dekretų kalboje ir Bychovco kronikos tiesioginėje kalboje vartota kreipinio formulė „Mily brate!“."
   pagrindžia:
     - c-170069
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Pasakojimui pagyvinti jis vartoja tiesioginę kalbą
-    Tai, beje, nebuvo išimtis ir tuometinių Lietuvos vals­
-    tybės raštinių praktikoje. Yra išlikę XVI a. teismų dek­
-    retų, kur šalių replikos perteikiamos tiesiogine kalba,
-    ir ieškovas kreipiasi į atsakovą: „Mily brate!" — taip,
-    kaip Jogaila į Švitrigailą Bychovco kronikoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-170069
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 19"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 19."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Pasakojimui pagyvinti jis vartoja tiesioginę kalbą
     Tai, beje, nebuvo išimtis ir tuometinių Lietuvos vals­

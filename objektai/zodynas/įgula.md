@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir sugriovė arba sudegino įtvirtinimus. Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus.
+Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir sugriovė arba sudegino įtvirtinimus. Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus. Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir sugriovė arba sudegino įtvirtinimus.
 
 ## Teiginiai
 
@@ -42,6 +42,13 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
   teiginys: "Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus."
   pagrindžia:
     - c-168733
+
+<a id="claim-t-196393"></a>
+- t-003
+  global_id: t-196393
+  teiginys: "Kojelavičius Surmino vadovaujamą pilies įgulą vaizduoja kaip ilgai ir narsiai atmušinėjusią priešų antpuolius."
+  pagrindžia:
+    - c-178660
 - susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82432|Jonas Olesnickis]]: Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį.
 - susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82436|Jonas Olesnickis]]: Jonas Olesnickis su įgula surengė netikėtą išpuolį prieš vokiečius ir sudavė jiems skaudų smūgį.
 - susijęs iš [[objektai/asmenys/Kazimieras Sapiega.md#claim-t-49420|Kazimieras Sapiega]]: Vakare Kazimiero Sapiegos vadovaujamos artilerijos baterijos dengiama Vilniaus įgula atsitraukė per Žaliąjį tiltą.
@@ -67,9 +74,7 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
 - susijęs iš Pilėnai: Kunigaikščio Margirio vadovaujama apgultos Pilėnų pilies įgula narsiai gynėsi.
 - susijęs iš Staraja Rusa: Starajos Rusos miestas buvo sudegintas, o jo įgula sunaikinta.
 - susijęs iš Toropecas: Rugsėjo 9 d. lietuviai susirėmė su Toropeco įgula ir nukovė 200 rusų šaulių.
-- susijęs iš Trakai: Trakai greitai buvo prarasti, kai Vytauto ir kryžiuočių įgula po 40 dienų apgulties pasidavė Jogailai ir Skirgailai.
 - susijęs iš Vilniaus pilys: Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.
-- susijęs iš [[objektai/asmenys/Daugirdas.md#claim-t-186102|Daugirdas]]: Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vilnių.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184691|Dimitras Kaributas]]: Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
 - susijęs iš [[objektai/asmenys/J. Šarauskas.md#claim-t-40173|J. Šarauskas]]: Kėdainių srities apsaugos viršininkas J. Šarauskas mieste buvo suorganizavęs savanorių būrį.
@@ -77,9 +82,8 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
 - susijęs iš [[objektai/asmenys/Konradas Valenrodas.md#claim-t-87398|Konradas Valenrodas]]: Konrado Valenrodo vadovaujama kryžiuočių kariauna kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį.
 - susijęs iš [[objektai/asmenys/Mikalojus Moskoževskis.md#claim-t-87409|Mikalojus Moskoževskis]]: Mikalojus Moskoževskis gindamas pilį atakas atremdavo staigiais išpuoliais ir apsukriai taisydavo priešo padarytą žalą.
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-184825|Simonas Lengvenis (valdovas, XIV a.)]]: Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį.
-- susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-184834|Sudargas]]: Sudargo šeimyna nukentėjo, kai priešas paėmė į nelaisvę jo žmoną, sūnus ir visus šeimynykščius.
+- susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-184834|Sudargas]]: Kojelavičius rašo, kad po pralaimėjimo priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius.
 - susijęs iš [[objektai/asmenys/Tilemannas Zunpachas.md#claim-t-87868|Tilemannas Zunpachas]]: Kryžiuotis Tilemannas Zunpachas, šaulių vadas, ugniniu šūviu mirtinai sužeidė Gediminą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176736|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1383 m. Tapiau Vytautas buvo pakrikštytas ir gavo Vigando vardą.
 - susijęs iš [[objektai/daiktai/Armotos.md#claim-t-95978|Armotos]]: Skirgaila Trakų piliai ginti iš vokiečių kariuomenės maršalkos dovanų gavo keletą didelių armotų.
 - susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86984|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Bisenės pilies įgula atrėmė vokiečius nepaisydama jų sunkiųjų ginklų.
 - susijęs iš [[objektai/daiktai/Karinės vėliavos ir ženklai.md#claim-t-87052|Karinės vėliavos ir ženklai]]: Pilies gynėjai iškėlė vėliavas su kryžiais, rodydami, kad kovoja su pagonimis Vytauto gretose.
@@ -100,7 +104,7 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
 - susijęs iš [[objektai/grupes/Vytauto šalininkai.md#claim-t-86741|Vytauto šalininkai]]: 1383 m. Vytautas ir jo šalininkai su kryžiuočių kariauna rugsėjo 11 d. apsupo Trakų pilį.
 - susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97015|Bisenos sunaikinimas (1316 m.)]]: 1316 m. kryžiuočiams pavyko sunaikinti žemaičių Biseną.
 - susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97016|Bisenos sunaikinimas (1316 m.)]]: 1316 m. kryžiuočiams pavyko sunaikinti žemaičių Biseną.
-- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
+- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Kojelavičius rašo, kad Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185490|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: 1316 m. pradžioje kryžiuočiai pasiuntė skirtingas kariaunas krašto niokoti ir nusiaubė Paštuvos, Medininkų bei Pagraudės valsčius.
 - susijęs iš [[objektai/ivykiai/Kolainių apgultis ir pilies sunaikinimas (1290 m.).md#claim-t-185714|Kolainių apgultis ir pilies sunaikinimas (1290 m.)]]: Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49167|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį.
@@ -116,7 +120,7 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
 - susijęs iš Klaipėda: Klaipėda atlaikė žemaičių puolimus.
 - susijęs iš Kuoknesė: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
 - susijęs iš Livonija: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
-- susijęs iš Mazovija: 1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją pasiplėšti grobio.
+- susijęs iš Mazovija: Kojelavičiaus pasakojime 1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją dėl grobio ir užėmė Pultuską.
 - susijęs iš Medininkų valsčius: 1316 m. kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.
 - susijęs iš Pagraudė: Sunaikinus Christmemelio įgulą, kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.
 - susijęs iš Salacgryva: Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos.
@@ -125,74 +129,24 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
 - susijęs iš Vilnius: Liepos 19-20 d. Vilnių ir jo apylinkes gynė apie 4 tūkst. kovotojų su 13 artilerijos pabūklų.
 - susijęs iš [[objektai/zodynas/autonominis vienetas.md#claim-t-02958|autonominis vienetas]]: Klaipėdos kraštas prie Lietuvos valstybės buvo priskirtas suteikiant jam autonominį režimą.
 - susijęs iš [[objektai/zodynas/komtūras.md#claim-t-182848|komtūras]]: Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir sugriovė arba sudegino įtvirtinimus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ramiai
-    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
-    ji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,
-    netikėtai patraukė su prūsų kariais Gardino kryptimi.
-    Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
-    įgulą, sugriovė arba sudegino visus įtvirtinimus; du
-    tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
-    didžiulį grobį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    J 63
-
-    ## Puslapis 162
-
-    kariuomene skuba lietuviai, norėdami pralaužti apsup­
-    tį, jie ėmė šaukti, kad štai čia pat priešas, metė supę
-    pilį ir galvotrūkčiais leidosi bėgti prie laivų. Vėliau,
-    sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-
-    nas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies
-    įgulą ir išgabeno vertingiausius daiktus; priešas, už­
-    ėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­
-    drįso toliau veržtis. Šiek tiek vėliau Ernekė, Ragainės
-    komtūras, ieškodamas progos karui ar pataikaudamas,
-    kaip priduria senieji rašytojai, kažkokiam iš Vienos
-    kilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­
-    tą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­
-    munu prieš srovę į Lietuvą, ir jau buvo bepraplaukią
-    Kolainių pilį, Surmino iš naujo atstatytą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-168732
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 156"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ramiai
-    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
-    ji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,
-    netikėtai patraukė su prūsų kariais Gardino kryptimi.
     Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
     įgulą, sugriovė arba sudegino visus įtvirtinimus; du
     tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
-    didžiulį grobį.
+    didžiulį grobį. Tuo tarpu keletas kitų lietuvių būrių
+    niokojo Lenkijos pasienius, grįždami jie pateko į prie­
+    šų pasalas, ir tuo metu, kai namai, regis, buvo ranka
+    pasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­
+    tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,
+    kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,
+    vildamiesi, jog už naują išdavystę kryžiuočiai jiems
+    atleis jų ankstesnį nusikaltimą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -205,13 +159,7 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    J 63
-
-    ## Puslapis 162
-
-    kariuomene skuba lietuviai, norėdami pralaužti apsup­
-    tį, jie ėmė šaukti, kad štai čia pat priešas, metė supę
-    pilį ir galvotrūkčiais leidosi bėgti prie laivų. Vėliau,
+    Vėliau,
     sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-
     nas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies
     įgulą ir išgabeno vertingiausius daiktus; priešas, už­
@@ -222,10 +170,58 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
     kilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­
     tą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­
     munu prieš srovę į Lietuvą, ir jau buvo bepraplaukią
-    Kolainių pilį, Surmino iš naujo atstatytą.
+    Kolainių pilį, Surmino iš naujo atstatytą. Surminas,
+    degdamas visuotine neapykanta ir kęsdamas skausmą
+    dėl neseniai patirtų nuostolių, baisiai širdo, kad prie­
+    šas kuo ramiausiai jo akyse plaukioja, tačiau atvirai
+    nieko negalėjo padaryti, nes
+    K a rin iu v y liu m i pa-
+    šie, atokiau nuo kranto plau-
+    im a m a s
+    k ry žiu o č ių
+    kdami,
+    buvo
+    nepasiekiami
+    la iv a s
+    nei ietimis, nei strėlėmis, o
+    jis pats neturėjo nė vieno di­
+    desnio laivo.
+  citata_rodoma: "J 63\n\n## Puslapis 162\n\nkariuomene skuba lietuviai, norėdami pralaužti apsup­\ntį, jie ėmė šaukti, kad štai čia pat priešas, metė supę\npilį ir galvotrūkčiais leidosi bėgti prie laivų. Vėliau,\nsužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-\nnas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies\nįgulą ir išgabeno vertingiausius daiktus; priešas, už­\nėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­\ndrįso toliau veržtis. Šiek tiek vėliau Ernekė, Ragainės\nkomtūras, ieškodamas progos karui ar pataikaudamas,\nkaip priduria senieji rašytojai, kažkokiam iš Vienos\nkilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­\ntą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­\nmunu prieš srovę į Lietuvą, ir jau buvo bepraplaukią\nKolainių pilį, Surmino iš naujo atstatytą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185372
+
+- id: c-178660
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Penki šim­
+    tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
+    niokoti, o du tūkstančiai pėstininkų atkakliai puolė
+    apsuptą pilį. Gynė ją šimtas dvidešimt raitelių, vado­
+    vaujamų Surmino, ryžtingo ir prityrusio vyro; narsiai
+    ir ilgai pilies įgula atmušinėjo priešų antpuolius, ne­
+    leisdama jiems be nuostolių supti tvirtovės, mat atvi­
+    rame lauke šie buvo nesunkiai sužeidžiami ietimis ir
+    strėlėmis; kadangi įgula buvo nedidelė, o priešas, pul­
+    damas iš visų pusių, nepaliauj amai sekino menkas jė­
+    gas, vos ne vos įstengiančias vienu metu užstoti visą
+    gynybinę sieną, lietuviai patyrė didelių nuostolių; kai
+    vos dvylika jų liko nesužeistų, pilėnams iškilo baisus
+    pavojus, tačiau netikėta priešų klaida pakeitė padėtį,
+    tokią, rodos, beviltišką. Kartą prietemoje su dideliu
+    triukšmu grįžo iš aplinkinių kaimų priešų raiteliai,
+    džiūgaudami dėl sėkmingo žygio ir prisiplėšto grobio:
+    iš tolo pramaišiui aidėjo žmonių šauksmai ir žirgų žven­
+    gimas, pėsčiųjų žingsniai, atrodė, jog artėja kariuome­
+    nė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196393

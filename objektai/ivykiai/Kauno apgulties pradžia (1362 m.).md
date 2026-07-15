@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1362 m. pavasario pradžioje kryžiuočių magistras išvedė nuolatinę ir pagalbinę kariuomenę į Lietuvą.
+Pavasario pradžioje jis ir išvedė abi kariuo menes į Lietuvą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -48,72 +48,35 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-185804"></a>
+<a id="claim-t-196176"></a>
 - t-001
-  global_id: t-185804
-  teiginys: "1362 m. pavasario pradžioje kryžiuočių magistras išvedė nuolatinę ir pagalbinę kariuomenę į Lietuvą."
+  global_id: t-196176
+  teiginys: "Pavasario pradžioje jis ir išvedė abi kariuo menes į Lietuvą."
   pagrindžia:
-    - c-169165
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1362 m. pavasario pradžioje kryžiuočių magistras išvedė nuolatinę ir pagalbinę kariuomenę į Lietuvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pasklidus dėl to viso­
-    kiausioms kalboms, atsirado ir nesantarvė. Magistras,
-    nenorėdamas, kad įsiplieskusi nesantaika pavirstų at­
-    virais vaidais, įsakė visiems traukti į karo žygį. Be
-    nuolatinės kariuomenės, savo rankose turėjo į pagal­
-    bą atvykusius Čekijos, Anglijos, Danijos ir Vokietijos
-    karius. Pavasario pradžioje jis ir išvedė abi kariuo­
-    menes į Lietuvą. Pirmiausia jie užgriuvo Kauną; pilį
-    puolė pasitelkę visokiausių
-    1362 m e ta i
-    prietaisų, pasiryžę nugalėti,
-    ypač po to, kai Algirdas, at-
-    246
-
-    ## Puslapis 245
-
-    vykęs su kariuomene pralaužti apsupimo žiedo, nieko
-    nelaimėjo ir buvo atstumtas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+    - c-178569
 
 ## Citatos
 
-- id: c-169165
+- id: c-178569
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pasklidus dėl to viso­
+    Neilgai trukus,
+    sumanumu išsivadavęs, jis pabėgo į Lietuvą; priešams
+    beliko vienam kitą įtarinėti ir kaltinti, kad jis, girdi,
+    galėjęs pabėgti ne tiek dėl kieno nerūpestingumo, kiek
+    dėl kurių ne kurių palankumo. Pasklidus dėl to viso­
     kiausioms kalboms, atsirado ir nesantarvė. Magistras,
     nenorėdamas, kad įsiplieskusi nesantaika pavirstų at­
     virais vaidais, įsakė visiems traukti į karo žygį. Be
     nuolatinės kariuomenės, savo rankose turėjo į pagal­
     bą atvykusius Čekijos, Anglijos, Danijos ir Vokietijos
     karius. Pavasario pradžioje jis ir išvedė abi kariuo­
-    menes į Lietuvą. Pirmiausia jie užgriuvo Kauną; pilį
-    puolė pasitelkę visokiausių
-    1362 m e ta i
-    prietaisų, pasiryžę nugalėti,
-    ypač po to, kai Algirdas, at-
-    246
-
-    ## Puslapis 245
-
-    vykęs su kariuomene pralaužti apsupimo žiedo, nieko
-    nelaimėjo ir buvo atstumtas.
+    menes į Lietuvą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185804
+    - t-196176

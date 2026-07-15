@@ -54,28 +54,6 @@ Nenurodyta
   teiginys: "Buzdyganas XVII a. pabaigoje - XVIII a. buvo ATR tautinės kavalerijos karininkų valdžios ženklas."
   pagrindžia:
     - c-44644
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Buzdyganas XVII a. pab. - XVIII a. Aštuonių
-    sparnelių auksuoto plieno galva, medinis kotas
-    su kalinėto sidabro ar žalvario plokštelėmis.
-    ATR meistrų darbo. Buzdyganas buvo ATR
-    tautinės kavalerijos karininkų valdžios ženklas
-
-    ## Puslapis 141
-
-    XVII a. antroji pusė bei visas xviii a. tai linijinės taktikos epocha
-    karyboje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

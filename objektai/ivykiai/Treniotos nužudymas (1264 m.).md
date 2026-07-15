@@ -58,22 +58,6 @@ Nenurodyta
   teiginys: "1264 m. buvę Mindaugo dvariškiai arklininkai nužudė Treniotą, veikiausiai su Vaišvilko žinia ir pritarimu."
   pagrindžia:
     - c-28774
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet ir _Treniotos_ valdymas tebuvo trumpas (1263-1264 m.). Jo
-    elgesys su krikščionimis buvo iššaukęs šių nepasitenkinimą. Tur būt,
-    su Vaišvilko žinia ir pritarimu, buvę Mindaugo dvariškiai-arklininkai
-    _(koniuši)_ Treniotą 1264 m. nužudė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

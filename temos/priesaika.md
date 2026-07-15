@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 28
+tema_objektu_skaicius: 27
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 28.
+Objektų skaičius: 27.
 
 ## Kaip naudoti
 
@@ -43,7 +43,6 @@ Objektų skaičius: 28.
 - [[objektai/paprociai/Seimo darbų statutas ir instrukcijų saikdinimo draudimas|Seimo darbų statutas ir instrukcijų saikdinimo draudimas (seimas)]]
 - [[objektai/paprociai/Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje]]
 - [[objektai/paprociai/Taikos sudarymas duodant vasalo priesaiką ir surašant raštus]]
-- [[objektai/paprociai/Taikos susitarimo tvirtinimas priesaika ir parašais]]
 - [[objektai/paprociai/Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui]]
 - [[objektai/paprociai/Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka]]
 
@@ -53,6 +52,6 @@ Objektų skaičius: 28.
 - [[objektai/posakiai/dėl Dievo]]
 - [[objektai/posakiai/Kad man Periamas sumusztu]]
 - [[objektai/posakiai/Kaip aš tą kepurę atiduodu į tavo rankas]]
-- [prisiekdamas visomis šventenybėmis](../objektai/posakiai/prisiekdamas%20visomis%20%C5%A1ventenyb%C4%97mis)
+- [[objektai/posakiai/prisiekdamas visomis šventenybėmis]]
 - [prisiekęs dievų galybe](../objektai/posakiai/prisiek%C4%99s%20diev%C5%B3%20galybe)
 - [„duotu žodžiu ir ranka“](../objektai/posakiai/%E2%80%9Eduotu%20%C5%BEod%C5%BEiu%20ir%20ranka%E2%80%9C)

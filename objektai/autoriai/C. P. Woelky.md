@@ -46,29 +46,12 @@ Dusburgietis teigia, kad woelky.
 - susijęs iš Urban W. The Baltic Crusade: W. Urbano „The Baltic Crusade“ išleista Northern Illinois University Press leidykloje De Kalbe 1975 m.
 - susijęs iš Urkundenbuch des Bisthums Culm Bearbeitet von C. P. Woelky. Bd. 1. Theil 1: C. P. Woelky parengto „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmoji dalis išleista Dancige 1887 m.
 - susijęs iš Urkundenbuch des Bisthums Samland Herausgegeben von C. P. Woelky und H. Mendthai: „Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'C. P. Woelky parengė leidinio „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmąją dalį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Urkundenbuch des Bisthums Culm / Bearbeitet von C. P. Woelky. Bd. 1. Theil 1.—
-    Danzig, 1887.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-61314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Urkundenbuch des Bisthums Culm / Bearbeitet von C. P. Woelky. Bd. 1. Theil 1.—
     Danzig, 1887.

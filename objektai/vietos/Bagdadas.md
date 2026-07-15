@@ -41,26 +41,6 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 - susijęs iš Stambulas: XVIII–XIX a. sandūros Stambulas minimas tarp svarbiausių žydų pasaulinių kultūros centrų.
 - susijęs iš Tunisas: Tunisas minimas tarp miestų, su kuriais lyginamas XVIII–XIX a. sandūros Vilnius kaip vienas svarbiausių žydų kultūros centrų.
 - susijęs iš Vilnius: XVIII a. Vilnius tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu ir buvo pavadintas Lietuvos Jeruzale.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau kartu litvakais imta vadinti žydus, kuriems
-    būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo.
-    Taip Vilnius XVIII a. tapo žydų gyvenimo pastovumo ir kultūros kles-
-    tėjimo simboliu ir buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de
-    Lite). Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam
-    žydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londo-
-    no, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24055

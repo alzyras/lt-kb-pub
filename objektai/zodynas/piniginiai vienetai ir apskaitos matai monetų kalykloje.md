@@ -35,47 +35,6 @@ Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos
   teiginys: "Liutauras Chreptavičius didžiajam kunigaikščiui pateikė ketverių metų monetų kalyklos apskaitą."
   pagrindžia:
     - c-82586
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Liutauras Chreptavičius didžiajam kunigaikščiui pateikė ketverių metų monetų kalyklos apskaitą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Prūsi­
-    jos istorija mums išsaugojo įdomią žinią apie tai, kad
-    Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos
-    liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­
-    ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro
-    Pauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.
-    serebra do mina/ pryszlo 20 tysiacz hry-
-    wien i 6 sot hrywien i 50 i osm hryzvien
-    i dwa skotcy [Vilniuje, birželio 9-ta
-    diena, 2 indiktas. Ponas Liutauras
-    Chreptavičius, maršalka, Naugar­
-    duko ir Slonimo vietininkas. Jo Ma­
-    lonybei Valdovui Didžiajam kuni­
-    gaikščiui pateikė monetų kalyklos
-    išleistų monetų ketverių metų ap­
-    skaitą: šešiasdešimt tūkstančių auk­
-    sinų ir tūkstantis auksinų ir devyni
-    šimtai auksinų ir dvidešimt auksi­
-    nų, o auksinai po dvidešimt grašių
-    ir po du grašius. O už sidabrą ir už
-    darbą, ir už varį bei už visus reika­
-    lus, kurie kalyklai priklauso, išėjo 50
-    tūkstančių kapų ir šeši tūkstančiai
-    kapų, ir 40 kapų, ir kapa, ir 26 gra­
-    šiai. O sidabro lydinių kalyklai teko
-    už 20 tūkstančių grivenų ir 6 šimtus
-    grivenų ir 50 ir aštuonias grivenas
-    ir du skatikus].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

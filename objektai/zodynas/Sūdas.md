@@ -53,32 +53,6 @@ Vartojamos formos: `sūdąs`, `sūdą`.
   teiginys: "Sūdas citatoje pripažindavo vergais skolininkus, kurie negalėjo laiku grąžinti skolos."
   pagrindžia:
     - c-09639
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Jei katrai Šaliai toksai sūdąs tėvūno su vyrais netiko, tad atjojęs didysis kunigaikštis į girias medžioti persūdijo^1103 , ir, kaip jis nusprendė, taip ir paliko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tapo dar vergais vėl per sūdą tie, kurie negalėjo ant rako^1052 skolos atduoti savo skolininkui, tokius sūdąs pripažino vergais tų, nuo kurių pinigus buvo paskoli. je, ir jiems turėjo vergauti lig atduodantys ar lig atdirbantys, nes, atdavus ar atvergavus skolą, vėl paliko liuosais, kaip pirma kad buvo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -108,5 +82,5 @@ Vartojamos formos: `sūdąs`, `sūdą`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07710
     - t-07709
+    - t-07710

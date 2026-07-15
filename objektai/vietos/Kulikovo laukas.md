@@ -41,48 +41,6 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
   teiginys: "Andrius, Polocko kunigaikštis ir Dmitrijaus Doniškio bendražygis, 1380 m. rugsėjo 8 d. Kulikovo lauke prisidėjo prie pergalės prieš totorius."
   pagrindžia:
     - c-82180
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Andrius, Polocko kunigaikštis ir Dmitrijaus Doniškio bendražygis, 1380 m. rugsėjo 8 d. Kulikovo lauke prisidėjo prie pergalės prieš totorius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tasai Andrius, Jogailai pavaldaus
-    Polocko kunigaikštis, Algirdo sū­
-    nus, gimęs iš antros jo santuokos su
-    Julijona, Vitebsko kunigaikštyte, ta­
-    čiau nebuvo palankus Jogailai, vei­
-    kiau linkęs į Kęstučio pusę; tad Jo­
-    gaila nusprendė jį išvyti iš jo dalinės
-    valdos. Dėl to sudarė slaptą, be
-    Kęstučio žinios, sutartį su Livoni­
-    jos magistru, kad anas padėtų jam
-    vykdyti tuos kėslus. Tuo metu, kai
-    Andrius, nuolatinis Dmitrijaus Do­
-    niškio bendražygis, karo rūpesčiais
-    dalinęsis, kovojęs su juo dar kartu
-    prieš totorius, kur Kulikovo lauke
-    (1380 metų rugsėjo 8-ą) prie perga­
-    lės daugiausia prisidėjęs, dalyvavo
-    mūšiuose, - Skirgaila užsibuvo Po-
-    34
-
-    ## Puslapis 51
-
-    I  KNYGA
-    Galiausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­
-    siryžo užbėgti jam už akių ir žinodamas, jog šis visas savo
-    ginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad
-    ten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų
-    rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
-    Vilnių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

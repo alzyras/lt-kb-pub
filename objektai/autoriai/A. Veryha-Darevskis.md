@@ -49,24 +49,6 @@ A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčia
   teiginys: "A. Veryha-Darevskis nurodomas kaip veikalo „Lietuvos mokesčiai“ autorius."
   pagrindžia:
     - c-38774
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    (^1) ) Dūmas — atskiras ūkis, turįs vieną kaminą ar aukštini, pro kur
-    išeidavo dūmai. Red.
-    (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
-    Oblastnoe delenie L.R.Q. Moskva 1892, p. 321). 3
-    ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

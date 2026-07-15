@@ -55,23 +55,6 @@ Nenurodyta
   teiginys: "Vokiškas pistoletas Walther PP citatoje įvardytas kaip Walther Polizeipistole ir nurodytas kaip VDKM iliustracija."
   pagrindžia:
     - c-77377
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vokiškas pistoletas Walther PP citatoje įvardytas kaip Walther Polizeipistole ir nurodytas kaip VDKM iliustracija.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 220, Sovietų pistoletas TT (TT 33), VDKM, Artūro Užgalio nuotr.
-
-    p. 220, Vokiškas pistoletas Walther pp (Walther Polizeipistole), vDKM, Artūro Užgalio nuotr.
-    p. 221, Panevėžio apylinkių partizanai, (Privati kolekcija).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

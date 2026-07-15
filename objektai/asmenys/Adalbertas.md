@@ -63,27 +63,6 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 - susijęs iš [[objektai/zodynas/christianizacija.md#claim-t-22093|christianizacija]]: 997 m. Norvegijos valdovas Olafas pradėjo šalies christianizaciją, o 1009 m. buvo pakrikštytas Lietuvos „karalius“ Netimeras.
 - susijęs iš [[objektai/zodynas/konversija christianizacija europeizacija.md#claim-t-22197|konversija christianizacija europeizacija]]: Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos christianizacijos įvykių.
 - susijęs iš [[objektai/asmenys/Šventasis Adalbertas.md#claim-t-190225|Šventasis Adalbertas]]: Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalbertą prie Fišhauzeno užpuolusių prūsų miniai vadovavo žynys Siggo.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Paminėkime tokią grandinę: Lenkijos valdovo
-    Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988),
-    kankinyste pasibaigusi šv. Adalberto misija Prūsijoje (997), Norvegijos
-    valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-
-    imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
-    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
-    krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-21539

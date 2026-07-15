@@ -50,26 +50,6 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
 - susijęs iš [[objektai/asmenys/Boucicaut.md#claim-t-87490|Boucicaut]]: Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.
 - susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81588|Prancūzai]]: 1390 m. žygyje prancūzams ir kitiems kariams vadovavo riteris Boucicaut.
 - susijęs iš Anglija: Derbio grafas Henrikas vadovavo Gdansko uoste išsilaipinusiems lankininkams ir vėliau, kaip Henrikas IV, paveldėjo Anglijos sostą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vaka­
-    ruose atlikus didelio masto propagandą, sugužėjo riterių ir piligrimų
-    iš Vokietijos, Prancūzijos ir Anglijos. Dalyvavo ir Lancasterio
-    grafas Derby, būsimasis Anglijos karalius Henrikas IV (1399-1413),
-    kuris paliko smulkias savo žygio sąskaitas^18.
-    Didžioji kariuomenė su tituluotais užsienio svečiais apgulė
-    pačią Lietuvos sostinę, kur reikėjo paimti tris pilis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32736

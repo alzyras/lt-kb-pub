@@ -36,40 +36,13 @@ Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prie
   pagrindžia:
     - c-169533
 - susijęs iš [[objektai/asmenys/Verneris fon Hoinbergas.md#claim-t-186264|Verneris fon Hoinbergas (didikas)]]: Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto didikai atvyko į Prūsiją.
-- susijęs iš [[objektai/asmenys/Konradas (Prūsijos magistras).md#claim-t-186126|Konradas (Prūsijos magistras)]]: Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185716|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Į Prūsiją atvykus Reino krašto didikams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
-- susijęs iš Gardinas: Magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Trumpą atokvėpį vis dėlto nutraukė nauji ant­
-    puoliai iš Prūsijos. Grafas Verneris fon Hoinbergas ir
-    Adolfas fon Vintimelis bei
-    kiti Reino krašto didikai kaip
-    tik buvo atvykę į Prūsiją.
-    Atvykus šiems pagalbinin­
-    kams,
-    magistras Konradas,
-    atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą
-    ir žiauriai nuniokojo visą Gardino kraštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-169533
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 180"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 180."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Trumpą atokvėpį vis dėlto nutraukė nauji ant­
     puoliai iš Prūsijos. Grafas Verneris fon Hoinbergas ir

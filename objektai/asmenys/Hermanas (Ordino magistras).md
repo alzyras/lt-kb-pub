@@ -52,58 +52,13 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
   teiginys: "Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą."
   pagrindžia:
     - c-60661
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
-    pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
-    senoji pilis223.
-
-      220 D.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    9. Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae
-                                    Mariae] pastatymą
-
-      Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo
-    įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir broliai, norėdami, kad
-    mūsų išganymo dievas palaimintų mums kelią į kaimynines netikėlių žemes (pasak kai
-    kurių, šitai tikriausia tiesa), paruošę visa, kas reikalinga pilims statyti, slapta nuplaukė
-    į Kvedino salą, buvusią prieš šiandieninę šventos Marijos salą, ir ten viešpaties dievo
-    1233 metais ant vienos kalvos pastatė pilį, pavadinę ją Marienverderiu. Tačiau kąi  į
-    Kulmo pilį atvyko nemažos kariuomenės ir ginklanešių lydimas kilnusis vyras ir kariauti
-    įgudęs Saksonijos karys Magdeburgo burggrafas224, pravarde Trumparankis,  jis per
-    vienus metus, kuriuos ten praleido, atplaukė čia  ir perkėlė su magistru bei broliais
-    Marienverderio salos pilį iš Kvedino salos  į tą vietą, kur ji dabar tebestovi225, būtent  į
-    Pamedės valsčių, vardu Reisiai226, pakeisdamas pilies vietą, bet ne pavadinimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60661
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 72"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
     pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
@@ -120,8 +75,7 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
 - id: c-60662
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 73"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 73."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     9. Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae
                                     Mariae] pastatymą

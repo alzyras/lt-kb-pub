@@ -69,28 +69,6 @@ Nenurodyta
   teiginys: "Sovietmečio Lietuvoje baldai, indai ir televizoriai buvo deficitinės vartojimo prekės, kurioms įsigyti reikėjo talonų."
   pagrindžia:
     - c-22228
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tokia
-    politika pasiteisino ir pagal to meto sąlygas davė palyginti gerų rezultatų.
-    Neatsitiktinai Lietuva vadinta Sovietų Sąjungos ferma, nes daug investicijų
-    nukreipta į žemės ūkio ir maisto pramonės sektorius. Tačiau tai nereiškė
-    gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trū-
-    ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,
-    ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, tele-
-    vizorius, be to, katastrofiškai trūko butų, medicinos reikmenų, vaistų – fak-
-    tiškai viskas buvo deficitas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Šaltiniai ir įrodymai
 
@@ -118,5 +96,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19513
     - t-19512
+    - t-19513

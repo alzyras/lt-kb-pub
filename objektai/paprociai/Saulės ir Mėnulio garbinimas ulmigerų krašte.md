@@ -56,34 +56,13 @@ Nenurodyta
   teiginys: "Pasak Narbuto, ulmigerų krašto gyventojai garbino Saulę ir Mėnulį, o laiką skaičiavo pagaliukais arba mazgais."
   pagrindžia:
     - c-175803
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasak Narbuto, ulmigerų krašto gyventojai garbino Saulę ir Mėnulį, o laiką skaičiavo pagaliukais arba mazgais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Žemė turtinga vandens telkinių,
-    ežerų ir upių, be to, labai miškinga. Jie garbino Saulę ir
-    Mėnulį. Raštas jiems nežinomas dalykas, be to, jie nesu­
-    prato, kaip parašytomis raidėmis galima persiųsti savo
-    mintis net į tolimiausius kraštus, o dienas ir mėnulio ap­
-    sisukimus skaičiavo ¿pindami į krepšį pagaliukus arba už­
-    megzdami mazgus ant virvelės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-175803
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 168"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Žemė turtinga vandens telkinių,
     ežerų ir upių, be to, labai miškinga. Jie garbino Saulę ir

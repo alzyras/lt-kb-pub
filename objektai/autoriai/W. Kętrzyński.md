@@ -44,26 +44,6 @@ Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127. Kętrzyńs
   teiginys: "W. Kętrzyńskis nagrinėjo Mindaugo donacinių dokumentų klausimą."
   pagrindžia:
     - c-33196
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'W. Kętrzyńskis nagrinėjo Mindaugo donacinių dokumentų klausimą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    J. Latkowskis buvo pirmasis, kuris bandė nustatyti
-    Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus
-    Mindaugo laikus^126. W. Kętrzyńskis atsidėjo Mindaugo
-    donacinių dokumentų klausimui^127. H. Lovmianskis, kuris
-    iki šiol nepaliauja rašęs ir iš Lietuvos istorijos srities, prieš 4 dešimt­
-    mečius išgarsėjo savo 2-jų tomų veikalu apie Lietuvos visuo­
-    menės ir valstybės pradžią (LowStud).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

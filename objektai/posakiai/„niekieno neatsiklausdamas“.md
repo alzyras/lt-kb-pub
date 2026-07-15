@@ -41,32 +41,6 @@ Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
   teiginys: "Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas, kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu valdovu."
   pagrindžia:
     - c-75169
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
-    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
-    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
-    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime
-    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
-    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
-    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
-    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-
-    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
-    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
-    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-
-    to apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
-    kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu
-    valdovu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

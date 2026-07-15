@@ -35,24 +35,6 @@ Vaclovas tačiau gąsdino, jog ordino pusėje stosiąs jis pats ir jo brolis Ven
   teiginys: "Vengrijos Zigmantas siūlėsi tarpininkauti ir galėjo tapti rimtu kryžiuočių sąjungininku."
   pagrindžia:
     - c-32820
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir
-    Vytauto sekretorius Cibulka. Vaclovas tačiau gąsdino, jog ordino
-    pusėje stosiąs jis pats ir jo brolis Vengrijos Zigmantas, kuris siūlėsi
-    tarpininkauti.
-    Zigmantas galėjo tapti rimtu kryžiuočių sąjungininku ir pavo­
-    jingu pusbrolių priešų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -53,6 +53,7 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   teiginys: "Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais."
   pagrindžia:
     - c-51592
+    - c-167162
 
 <a id="claim-t-49630"></a>
 - t-003
@@ -61,26 +62,12 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   pagrindžia:
     - c-51590
 
-<a id="claim-t-49629"></a>
-- t-004
-  global_id: t-49629
-  teiginys: "Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais."
-  pagrindžia:
-    - c-51592
-
 <a id="claim-t-49632"></a>
-- t-005
+- t-004
   global_id: t-49632
   teiginys: "1991 m. sausio 11-12 d. rūmų vidus buvo įtvirtinamas spygliuota viela, smėlio maišais, armatūros tinklais, užminuotais laiptais ir baldų barikadomis."
   pagrindžia:
     - c-51591
-
-<a id="claim-t-49629"></a>
-- t-006
-  global_id: t-49629
-  teiginys: "Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais."
-  pagrindžia:
-    - c-51592
 - susijęs iš [[objektai/asmenys/Vytautas Žukas.md#claim-t-40530|Vytautas Žukas]]: AT gynėjas ir vėlesnis Lietuvos kariuomenės generolas majoras Vytautas Žukas pasakojo apie Aukščiausiosios Tarybos gynybos principus.
 - susijęs iš [[objektai/grupes/ATAS.md#claim-t-40833|ATAS]]: Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose saugojo objektą ginkluotas TT pistoletu.
 - susijęs iš [[objektai/asmenys/Aloyzas Sakalas.md#claim-t-18803|Aloyzas Sakalas]]: 1990 m. kovo 11 d. Aloyzas Sakalas buvo Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo narys.
@@ -160,99 +147,6 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - susijęs iš [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d.md#claim-t-45535|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]: 1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė plakatu reikalavo ne LSSR, o Lietuvos Respublikos.
 - susijęs iš [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d.md#claim-t-45536|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]: 1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį ne LSSR, o LR – Lietuvos Respublikos.
 - susijęs iš [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d.md#claim-t-45537|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]: 1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį ne LSSR, o LR – Lietuvos Respublikos.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Visus ginkluotus vyrus surinko AT rūmų fojė, suskirstė penketu-
-    kais. Man priskyrė penkis KAD būrio vyrus. Mūsų vieta ir užduotis
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Inžineriniai įtvirtinimai buvo įrenginė-
-    jami trimis etapais. Pirmiausia, dar sausio
-    11-12 d., rūmų viduje spygliuota viela buvo
-    apraizgyta dalis praėjimų ir ventiliacinių
-
-    ## Puslapis 261
-
-    angų, smėlio maišais ir armatūros tinklais
-    įtvirtintas pagrindinių AT rūmų pirmasis
-    aukštas, užminuoti laiptai į antrą aukštą,
-    pradėtos įrenginėti baldų barikados rūmų
-    viduje. Išoriniame perimetre smėlio bars-
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-003
-  santrauka: 'Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    medžiokliniu šautuvu. Ant Aukščiausiosios Tarybos
-    stogo pritvirtinti metaliniai strypai turėjo apsunkinti
-    šturmo grupių desantavimą sraigtasparniais
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rengiantis gynybai AT rūsyje buvo įreng-
-    tos ginklų remonto ir šovinių, sprogmenų
-    gamybos dirbtuvės bei šaudykla. Ginklai
-    ir sprogmenys - gyventojų sunešti, gauti
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-005
-  santrauka: 'Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais UŽDUOTIS AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu, Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ant Aukščiausiosios Tarybos
-    stogo pritvirtinti metaliniai strypai turėjo apsunkinti
-    šturmo grupių desantavimą sraigtasparniais
-
-    UŽDUOTIS
-
-    AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu,
-    Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.
-    |
-
-    „Visus ginkluotus vyrus surinko AT rūmų fojė, suskirstė penketu-
-    kais. Man priskyrė penkis KAD būrio vyrus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-004
-
 ## Citatos
 
 - id: c-51590
@@ -345,6 +239,3 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183774
-    - t-49631

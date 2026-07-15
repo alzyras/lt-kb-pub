@@ -34,8 +34,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   teiginys: "Henrikas iš Berkos iš Tiuringijos buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų."
   pagrindžia:
     - c-60943
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Henrikas iš Berkos iš Tiuringijos buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -64,18 +64,19 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - id: c-60943
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 50."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­
+    ta Nesavos pilis
     Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą
-    vyrą  ir pamaldų  brolį Hermaną  iš  Zalcos, Teutonų namų ordino  didįjį magistrą,
-    pranešdamas, kaip  čia tvarkomas jam  patikėtas  reikalas,  nuolankiai prašydamas
+    vyrą ir pamaldų brolį Hermaną iš Zalcos, Teutonų namų ordino didįjį magistrą,
+    pranešdamas, kaip čia tvarkomas jam patikėtas reikalas, nuolankiai prašydamas
     ir maldaudamas, kad jam atsiųstų daugiau brolių bei ginklanešių (1230). Magistras,
     patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro
     pareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1,
     6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra savo brolius,
     į žemę, kurią viešpats yra jiems pažadėjęs, ir „su tavimi bus dievas“. Be to, maršalu
-    pasiuntė brolį Ditrichą iš Bernheimo, o  į pagalbininkus jam paskyrė brolį Konradą iš
+    pasiuntė brolį Ditrichą iš Bernheimo, o į pagalbininkus jam paskyrė brolį Konradą iš
     Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos
     ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų.
   citata_rodoma: "Be to, maršalu\npasiuntė brolį Ditrichą iš Bernheimo, o  į pagalbininkus jam paskyrė brolį Konradą iš\nTuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos\nir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų."

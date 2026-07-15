@@ -41,22 +41,6 @@ media_all_json: |-
   teiginys: "Stasio Ylos „Krikščionybės įvedimas Lietuvoje“ išleistas Kaune 1938 m."
   pagrindžia:
     - c-33611
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — _(”)Jadwyga d’Anjou,_
-    LE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,
-    297 p. — M. Jučas : _Nuo Krėvos sutarties iki Liublino unijos,_ Vilnius
-    1970. — Yla, St. : _Krikščionybės įvedimas Lietuvoje,_ Kaunas 1938.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

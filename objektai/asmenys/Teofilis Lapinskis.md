@@ -42,29 +42,6 @@ Lapinskio jūrų ekspedicija dėl audros ties Juodkrante sužlugo.
   teiginys: "Teofilio Lapinskio jūrų ekspedicija dėl audros ties Juodkrante sužlugo."
   pagrindžia:
     - c-44535
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    žurnalas nurodo, kad rusų pusėje žuvo
-    5 ir 32 kariai buvo sužeisti, vertinant
-    kovos veiksmų eigą rusų nuostoliai tu-
-    rėjo būti didesni, nei nurodyta ir siekti
-    ne mažiau kaip 300 žuvusių rusų karių.
-    Likę sukilėliai patraukė į Žemaitiją,
-    kur laukė paramos iš užsienio, ta-
-    čiau T. Lapinskio jūrų ekspedicija dėl
-    audros ties Juodkrante sužlugo.
-    1863 m. pabaigoje sukilėlių kovos ėmė
-    silpti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

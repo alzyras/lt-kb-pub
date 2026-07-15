@@ -2,11 +2,13 @@
 tipas: asmuo
 pavadinimas: 'Ernekė'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - pilis
   - pareigūnas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -25,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras, išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Dusburgietis teigia, kad kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė prie kranto, šis staiga nutvėrė laivą, stipriai į jį įsikibo ir, susišaukęs savo bendrus, užpuolė plaukusius laivu ir visus išžudė.
+Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su bendrais užpuolė laivą ir išžudė jo įgulą. Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link. Ernekė, Ragainės komtūras, Kojelavičiaus pasakojime su rinktiniais kryžiuočių ordino vyrais plaukė Nemunu prieš srovę į Lietuvą.
 
 ## Teiginiai
 
@@ -42,68 +44,26 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
   teiginys: "Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link."
   pagrindžia:
     - c-60743
+
+<a id="claim-t-196449"></a>
+- t-003
+  global_id: t-196449
+  teiginys: "Ernekė, Ragainės komtūras, Kojelavičiaus pasakojime su rinktiniais kryžiuočių ordino vyrais plaukė Nemunu prieš srovę į Lietuvą."
+  pagrindžia:
+    - c-178695
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66507|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Dusburgietis pasakoja, kad Surmino surengtoje pasaloje Nodamas, persirengęs moteriškais drabužiais, priviliojo Ernekės laivą prie kranto, po ko visi laivu plaukę buvo išžudyti.
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66507|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Dusburgietis pasakoja, kad Surmino surengtoje pasaloje Nodamas, persirengęs moteriškais drabužiais, priviliojo Ernekės laivą prie kranto, po ko visi laivu plaukę buvo išžudyti.
 - susijęs iš [[objektai/posakiai/išvaduotų iš velnio vergovės.md#claim-t-184029|išvaduotų iš velnio vergovės]]: Nodamas, apsimetęs moterimi, prašė brolį Ernekę priimti jį į laivą ir išvaduoti jo sielą iš velnio vergovės.
 - susijęs iš [[objektai/posakiai/išvaduotų iš velnio vergovės.md#claim-t-59098|išvaduotų iš velnio vergovės]]: Nodamas, apsimetęs moterimi, prašė brolį Ernekę priimti jį į laivą ir išvaduoti jo sielą iš velnio vergovės.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
-    išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
-    naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau
-    minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
-    kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,
-    galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,
-    atsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir
-    šitaip išvaduojamas iš netikėlių nelaisvės. Todėl vienas lietuvis, vardu Nodamas, prityręs
-    karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė
-    šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
-    apsirengęs moteriškais rūbais, atsisėdo ant upės kranto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su bendrais užpuolė laivą ir išžudė jo įgulą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Neilgai trukus, kai komtūras,
-    sutvarkęs visus savo reikalus, plaukė pro šalį, šis niekingas išdavikas graudžiu balsu
-    pradėjo šaukti ir prašyti, kad  jį priimtų  į laivą, kad jo sielą, Kristaus krauju atpirktą,
-    išvaduotų iš velnio vergovės. Kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė
-    prie kranto, šis staiga nutvėrė laivą, stipriai  į  jį įsikibo  ir, susišaukęs savo bendrus,
-    užpuolė plaukusius laivu ir visus išžudė.
-
-
-
-
-              240 (233).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60743
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
-    išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
+    išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias
     naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau
     minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
     kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,
@@ -124,20 +84,16 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 - id: c-60744
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Neilgai trukus, kai komtūras,
-    sutvarkęs visus savo reikalus, plaukė pro šalį, šis niekingas išdavikas graudžiu balsu
-    pradėjo šaukti ir prašyti, kad  jį priimtų  į laivą, kad jo sielą, Kristaus krauju atpirktą,
-    išvaduotų iš velnio vergovės. Kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė
-    prie kranto, šis staiga nutvėrė laivą, stipriai  į  jį įsikibo  ir, susišaukęs savo bendrus,
-    užpuolė plaukusius laivu ir visus išžudė.
-
-
-
-
-              240 (233).
+    Todėl magistras bei broliai
+    didžiai nudžiugo ir padėkojo už galybę suteiktų malonių dievui, guodžiančiam savo
+    žmones kiekvienoje nelaimėje. Štai šitaip pragaras, visai neseniai džiūgavęs teisingojo
+    dievo lėmimu, patyrė skausmą, o brolių liūdesys pavirto džiaugsmu.
+    243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
+    1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
+    Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
+    pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino.
   citata_rodoma: "Kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė\nprie kranto, šis staiga nutvėrė laivą, stipriai  į  jį įsikibo  ir, susišaukęs savo bendrus,\nužpuolė plaukusius laivu ir visus išžudė.\n\n\n\n\n          240 (233)."
   statusas: verified
   teiginio_tipas: faktas
@@ -145,6 +101,45 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60111
+
+- id: c-178695
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Vėliau,
+    sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-
+    nas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies
+    įgulą ir išgabeno vertingiausius daiktus; priešas, už­
+    ėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­
+    drįso toliau veržtis. Šiek tiek vėliau Ernekė, Ragainės
+    komtūras, ieškodamas progos karui ar pataikaudamas,
+    kaip priduria senieji rašytojai, kažkokiam iš Vienos
+    kilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­
+    tą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­
+    munu prieš srovę į Lietuvą, ir jau buvo bepraplaukią
+    Kolainių pilį, Surmino iš naujo atstatytą. Surminas,
+    degdamas visuotine neapykanta ir kęsdamas skausmą
+    dėl neseniai patirtų nuostolių, baisiai širdo, kad prie­
+    šas kuo ramiausiai jo akyse plaukioja, tačiau atvirai
+    nieko negalėjo padaryti, nes
+    K a rin iu v y liu m i pa-
+    šie, atokiau nuo kranto plau-
+    im a m a s
+    k ry žiu o č ių
+    kdami,
+    buvo
+    nepasiekiami
+    la iv a s
+    nei ietimis, nei strėlėmis, o
+    jis pats neturėjo nė vieno di­
+    desnio laivo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196449
 
 ## Ryšiai
 - Ernekė keliavo į [[objektai/vietos/Lietuva]]

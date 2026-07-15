@@ -51,39 +51,6 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
   teiginys: "Stanislovas Rapagelionis buvo tarp lietuvių, rašiusių tikybines knygas Mažojoje Lietuvoje."
   pagrindžia:
     - c-06624
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir
-    kai kurias giesmes, kurių dalis buvo versta Rapagelionio ir Kul-
-    viečio. Be to, jis dar išleido keletą kitų reikalingų tikybinių
-    knygučių. Kiti jo darbą tęsė toliau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo pat metu protestantizmas labai uoliai buvo platinamas
-    ir Mažojoje Lietuvoje. Ten buvo pradėta rūpintis liaudim, ku-
-    riai buvo spausdinamos lietuviškos protestantiškos knygos. Jas
-    rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
-    lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
-    buvo skleidę protestantizmą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

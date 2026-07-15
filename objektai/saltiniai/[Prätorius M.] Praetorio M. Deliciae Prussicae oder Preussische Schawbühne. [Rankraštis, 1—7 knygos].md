@@ -7,13 +7,13 @@ datos:
   - '1365 m.'
 date_start: '1365'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rankraštis
   - saltinis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,8 @@ Dusburgietis teigia, kad [Prätorius M.] Praetorio M.
   teiginys: "M. Prätoriaus „Praetorio M. Deliciae Prussicae oder Preussische Schawbühne“ 1-7 knygų rankraštis nurodytas WU Mokslo muziejaus fonduose Nr. 1365."
   pagrindžia:
     - c-61891
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Prätoriaus „Praetorio M. Deliciae Prussicae oder Preussische Schawbühne“ 1-7 knygų rankraštis nurodytas WU Mokslo muziejaus fonduose Nr. 1365.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -62,11 +62,14 @@ Dusburgietis teigia, kad [Prätorius M.] Praetorio M.
 - id: c-61891
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    [Prätorius  M.]  Praetorio M.  Deliciae  Prussicae  oder  Preussische Schawbühne.
-    [Rankraštis, 1—7 knygos].—WU Mokslo muziejaus fondai, Nr. 1365.
+    Varakauskas R. Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu
+    (1236—1263).— Vilniaus valstybinio pedagoginio instituto mokslo darbai. Visuomeniniai
+    mokslai.—V., 1958, t. 4, p. 111—143.
+    Varakauskas R. Kautynės ties Ašerade (1279 m.): Iš lietuvių kovų prieš Livonijos
+    ordiną XIII a.— Lietuvos TSR aukštųjų mokyklų mokslo darbai.
+  citata_rodoma: "[Prätorius  M.]  Praetorio M.  Deliciae  Prussicae  oder  Preussische Schawbühne.\n[Rankraštis, 1—7 knygos].—WU Mokslo muziejaus fondai, Nr. 1365."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

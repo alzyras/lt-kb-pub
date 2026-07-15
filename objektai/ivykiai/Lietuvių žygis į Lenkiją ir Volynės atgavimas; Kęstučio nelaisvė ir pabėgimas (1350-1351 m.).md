@@ -8,13 +8,13 @@ datos:
   - '1351 m.'
 date_start: '1350'
 date_end: '1351'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,8 +61,8 @@ Nenurodyta
   teiginys: "Kazimierui kovusis su karaliaus stovyklą užpuolusiu lietuvių pulku, lietuviai buvo išsklaidyti, o Kęstutis pateko į nelaisvę."
   pagrindžia:
     - c-168972
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvių kariuomenė įsiveržė į Sandomiro vaivadiją, sumušė ją gynusius lenkus ir nuniokojo kraštą kalaviju bei ugnimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -127,10 +127,15 @@ Nenurodyta
 - id: c-168971
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 236"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 236."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kai ėmė silpti maras, beveik
+    1350 m e ta i
+    L ie tu v ia i
+    n u siau bia
+    L en k iją , atg a u n a V o -
+    iy n ę
+    labiau krimtosi dėl lenkų atimtos Rusios nei dėl kry­
+    žiuočių daromų skriaudų. Kai ėmė silpti maras, beveik
     porą metų baisiai siaubęs
     Lenkiją, lietuvių kariuomenė
     įsiveržė į Sandomiro vaiva­
@@ -147,6 +152,7 @@ Nenurodyta
     naujomis sienomis ir ginamą stiprios įgulos, vargu ar
     įmanoma būtų užimti, užtat visas Lvovo apylinkes nu­
     niokojo kalaviju bei ugnimi.
+  citata_rodoma: "Kai ėmė silpti maras, beveik\nporą metų baisiai siaubęs\nLenkiją, lietuvių kariuomenė\nįsiveržė į Sandomiro vaiva­\ndiją\nir,\nsumušusi\nlenkus,\nbandžiusius ginkluota kova\nužkirsti kelią grobikams, ją\nvisą nuniokojo kalaviju bei ugnimi. Po to pasukę į\nRusią, netruko atgauti neseniai iš jų atimtas pilis bei\nmiestus, vienus — užgrobdami jėga, kitus — prikalbin­\ndami pasiduoti. Nepuolė tik Lvovo, nes jį, sutvirtintą\nnaujomis sienomis ir ginamą stiprios įgulos, vargu ar\nįmanoma būtų užimti, užtat visas Lvovo apylinkes nu­\nniokojo kalaviju bei ugnimi."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -159,7 +165,14 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat nuo to laiko, kai Vengrijos kunigaikštis
+    Kaip karo sąjun­
+    gininkas, atskubėjo į pagalbą Vengrijos karalius Liud­
+    vikas, Kazimiero seserėnas,
+    neseniai paskelbtas Lenkijos
+    sosto įpėdiniu; ta dingstimi
+    jis visas savo teises į Rusią
+    buvo perleidęs Kazimierui ir
+    lenkams. Mat nuo to laiko, kai Vengrijos kunigaikštis
     Kolomanas valdė Galičą ir Vladimirą, vengrai skel­
     bėsi esą gretimų Rusios žemių valdovai, nors, po tei­
     sybei, ne tik jų niekad nevaldė, bet nė vilčių neturėjo
@@ -170,13 +183,9 @@ Nenurodyta
     L en kai,
     su m u šę
     lie ­
-    tu v iu s, atg a u n a  d a lį
+    tu v iu s, atg a u n a d a lį
     V o ly n ė s
-    238
-
-    ## Puslapis 237
-
-    Kęstutis gyvas pakliuvo į priešų rankas.
+  citata_rodoma: "Mat nuo to laiko, kai Vengrijos kunigaikštis\nKolomanas valdė Galičą ir Vladimirą, vengrai skel­\nbėsi esą gretimų Rusios žemių valdovai, nors, po tei­\nsybei, ne tik jų niekad nevaldė, bet nė vilčių neturėjo\nvaldyti. Išsiruošęs į žygį, Kazimieras nuniokojo Vla­\ndimiro apygardą ir užėmė krašto sostinę. Kovėsi jis\nir su vienu lietuvių pulku, užpuolusiu karaliaus sto­\nvyklą: lietuviai tapo išsklaidyti, o pats kunigaikštis\nL en kai,\nsu m u šę\nlie ­\ntu v iu s, atg a u n a  d a lį\nV o ly n ė s\n238\n\n## Puslapis 237\n\nKęstutis gyvas pakliuvo į priešų rankas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

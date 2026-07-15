@@ -35,25 +35,6 @@ Kariai, laukiantys komandos „ugnis“.
   teiginys: "Kariai laukė komandos „ugnis“ ir turėjo iššauti, kai tai padarys kairėje esantis padalinys."
   pagrindžia:
     - c-40876
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kariai, laukiantys komandos
-    „ugnis“. Jiems bus įsakyta
-    iššauti, kai tai padarys kairėje
-    esantis padalinys.
-
-    Sunkiosios kavalerijos eskadronas
-    išrikiuotas dvieile.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

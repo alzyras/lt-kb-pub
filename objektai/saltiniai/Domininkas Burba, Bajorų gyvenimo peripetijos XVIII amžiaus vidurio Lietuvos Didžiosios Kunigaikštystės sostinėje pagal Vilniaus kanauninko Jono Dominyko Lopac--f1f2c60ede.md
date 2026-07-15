@@ -7,6 +7,11 @@ datos:
   - '2015 m.'
 date_start: '2015'
 date_end: ''
+aliases:
+  - 'objektai/saltiniai/Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)-01-b--8c9c5fb37c'
+  - 'objektai/saltiniai/Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)-01-bajor-gyvenimo-peripetijos-xviii-am-iaus-vidurio'
+variantai:
+  - 'Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją'
 sukurta: ''
 atnaujinta: ''
 tags:

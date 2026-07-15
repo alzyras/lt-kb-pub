@@ -63,29 +63,6 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184009|papilys]]: Prūsai prie Pagansčių kaimo sumušė krikščionis, o po to sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį.
 - susijęs iš Pagansčiai: Pagansčiai buvo kaimas prie Zirgūnos upės, vėliau vadintas Menthen.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prūsų raiteliai ir pėstininkai įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su kariuomene apsistojo priešais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Per apgulą ir bėgant žuvo daug prūsų,
-    daug buvo mirtinai sužeista, jų vadas Kaltis taip pat krito nukautas kalaviju, nes
-    bėgdami pėstininkai susidūrė su raiteliais. Šito įvykio išgąsdinti, raiteliai bei pėstininkai
-    susijungė ir įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su savo kariuomene
-    apsistojo priešais. Prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką,
-    kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet
-    atvirkščiai, net ir arklius nusibalnojo, jie pusę savo kariuomenės slaptai perkėlė per upę
-    ir vėl žiauriai užpuolė krikščionis — vieni iš užpakalio, kiti iš priešakio; anksčiau, nei
-    krikščionys susiruošė gintis, prie Pagansčių kaimo423 žuvo dvylika brolių ir penki šimtai
-    vyrų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Zirgūnos upe plukdydami atsargas Kristburgo broliams, broliai ir jų tarnai dažnai prarasdavo krovinius ir gyvybes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -112,8 +89,7 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
 - id: c-59292
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 137"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Per apgulą ir bėgant žuvo daug prūsų,
     daug buvo mirtinai sužeista, jų vadas Kaltis taip pat krito nukautas kalaviju, nes
@@ -136,9 +112,9 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
 - id: c-59293
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 138"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
     Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
     didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų. Visa tai plukdydami
     Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris

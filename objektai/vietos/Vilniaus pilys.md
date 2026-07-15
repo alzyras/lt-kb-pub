@@ -56,9 +56,9 @@ media_all_json: |-
   global_id: t-195168
   teiginys: "Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai."
   pagrindžia:
-    - c-177535
     - c-177532
     - c-177534
+    - c-177535
     - c-177539
 
 <a id="claim-t-195169"></a>
@@ -66,9 +66,9 @@ media_all_json: |-
   global_id: t-195169
   teiginys: "1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę."
   pagrindžia:
+    - c-177533
     - c-177535
     - c-177536
-    - c-177533
 
 <a id="claim-t-195170"></a>
 - t-004
@@ -117,11 +117,11 @@ media_all_json: |-
   global_id: t-195176
   teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
   pagrindžia:
+    - c-177538
     - c-177540
     - c-177544
-    - c-177538
-    - c-177546
     - c-177545
+    - c-177546
 
 <a id="claim-t-195177"></a>
 - t-011
@@ -177,436 +177,14 @@ media_all_json: |-
   global_id: t-195184
   teiginys: "1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas."
   pagrindžia:
+    - c-177541
     - c-177543
     - c-177548
-    - c-177541
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176072|Vilniaus kapitula]]: Vilniaus kapitula gavo teisę imti kas dešimtą sugautą žuvį karaliaus tvenkiniuose Vilijos upėje.
 - susijęs iš 1390 m. Vladislovo Jogailos privilegija Vilniaus kapitulai dėl Panerių: 1390 m. privilegija Vilniaus kapitulai leido imti kas dešimtą žuvį, sugautą karaliaus tvenkiniuose Vilijos upėje.
 - susijęs iš [[objektai/grupes/Europos kryžininkai.md#claim-t-86725|Europos kryžininkai]]: 1392 m. Europos kryžininkai rengė didesnį žygį į Lietuvą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178962|Kryžiuočių ordinas]]: Konrado Valenrodo šlovė ir Ordino iškėlimas į didžiuosius magistrus subūrė gausius kryžininkų pulkus žygiui į Lietuvą.
 - susijęs iš [[objektai/zodynas/kryžininkai.md#claim-t-113642|kryžininkai]]: Konrado Valenrodo šlovė ir potraukis riterystei subūrė iš Europos šalių gausius kryžininkų pulkus žygiui į Lietuvą.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    T. VII, p. 370-374. Re­
-    gis, iš jo kilusi Hanulu giminė, kurių
-    36
-
-    ## Puslapis 53
-
-    I  KNYGA
-    Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­
-    gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi
-    pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. Tas
-    Vilniaus gyventojų palankumas didžia dalimi nulėmė eigą
-    kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat
-    pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
-    nių, turėjo slėptis Trakų pilyje34.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-- c-002
-  santrauka: '1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Trakuose jo sušauktas seimas, turėjęs parengti pasku­
-    tinį smūgį Rusios ir Lietuvos bajorijai, paspartino tą kruviną
-    susidorojimą. 1440 metų balandį Žygimantas sąmokslininkų
-    buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą
-    pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­
-    niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­
-    butas užgrobė naktį26. Vis dėlto Žygimanto palaikai, iš Trakų
-    atvežti į Vilnių, buvo palaidoti didžiųjų Lietuvos kunigaikš­
-    čių kape, katedroje, atlikus įprastas laidojimo apeigas27.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-- c-003
-  santrauka: 'Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Karalius Žygimantas mylėjo mokslus, pats gavęs gerą iš­
-    silavinimą, rėmė visa tai, kas tik galėjo prisidėti prie jų au­
-    gimo. Savo sukauptas knygas lotynų, lenkų, rusų ir čekų
-    kalbomis saugojo Vilniaus pilyje25. Viešųjų mokyklų, ano lai-
-    garbingam Vilniaus magistratui už
-    šimtą kapų grašių, - yra miesto ar­
-    chyve.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-- c-004
-  santrauka: 'Po gaisrų karalius atstatė Vilniaus pilį iš griuvėsių ir pavertė ją patogiais savo apartamentais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    263
-
-    ## Puslapis 280
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    gesinti pristigo vandens10. Tačiau šios gaisrų padarytos ne­
-    laimės privertė susirūpinti tvarkingesnių miesto statymu,
-    taip pat jau senų Pilies ir Katedros pastatų remontavimu
-    bei atnaujinimu. Pirmąją iš griuvėsių prikėlė karalius ir pa­
-    vertė patogiais savo apartamentais11, antrosios atstatymu
-    10
-    Po didelių ginčų Vingrių Šaltiniai,
-    šiandien vadinami Vingriais arba
-    Vengriais, pagaliau sugrįžo miesto
-    nuosavybėn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-005
-  santrauka: '1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    12 000 žmonių vedini, pakeliui sudeginę Trakų mies­
-    tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti,
-    1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­
-    mis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo
-    senasis Algirdas. Užvirė kova: abiejose tvirtovėse nuo gau­
-    sesnių pajėgų narsiai gynėsi įgudęs mūšiuose Lietuvos val­
-    dovas, bet miestas, priešo padegtas, prarado du trečdalius
-    namų, kitą trečdalį miestiečiai vos pajėgė išgelbėti24.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-- c-006
-  santrauka: 'Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau netrukus į Vilnių at­
-    vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio
-    karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai
-    grėsusio pilietinio karo.
-    Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
-    tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
-    jos sostinei tam tikru atžvilgiu buvo naudingas. Beveik visą
-    amžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­
-    nėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­
-    puolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai,
-    ežerų apsuptai Trakų piliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-- c-007
-  santrauka: 'Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
-    čios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus
-    pilyje pėdsakų vis dėlto nėra. O kadangi dabartinė to paties
-    vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo
-    užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581
-    metais, tad gal būtų galima manyti, jog Žemutinės pilies te­
-    ritorija tęsėsi iki bernardinų sienų, arba kad pirmutiniai Šv.
-    Onos bažnyčios pamatai, šio karaliaus pilyje pastatyti, buvę
-    35 36
-    G w a g n i n i Kronika Sarmacyi Em- Žr. VIII priedą.
-    ropejskiej, vert.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-- c-008
-  santrauka: 'Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Apie tai sužinojęs Vilniaus vysku­
-    pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­
-    tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­
-    lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių,
-    tarė: „Tai ne tas kelias, Maloningasis Pone, kuriuo Tavo pro­
-    tėviai ėjo Dievui garbės atiduoti, bet šitas! - ir parodė į ka­
-    tedros bažnyčią pilyje. - Apleidi, Karaliau, motiną, kuri ta­
-    ve pagimdė ir į šias garbingas pareigas iškėlė, o išeini pas
-    pamotę!" Šis drąsus vyskupo poelgis taip nustebino kara­
-    lių, kad, atsisakęs ketinimo, pasuko į katalikų katedrą46.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-- c-009
-  santrauka: 'Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    276
-
-    ## Puslapis 293
-
-    277
-    c&*c*f3 OUT 'Xcu-ivku/ Gį< >
-
-    ## Puslapis 294
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    apleisti ir, vykdant karaliaus valią, vietoje jų, pastatyta nau­
-    ja, šiandien egzistuojanti bažnyčia?
-    Tačiau daugiausia įtakos amatininkų gerovei ir tobulėji­
-    mui turėjo didžiosios ginklų liejyklos įkūrimas prie Vilniaus
-    pilies. Ten jų reikėjo daugybės ir visokių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-- c-010
-  santrauka: 'Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Man atrodo, kad jei Lietuvo­
-    je buvo keletas tokių šventų vieto­
-    vių, tai Vilnius būtinai turėjo būti
-    viena iš jų, o jeigu buvo tik ta vie­
-    nintelė, tad tikriausiai po to smūgio
-    Perkūno tikėjimo relikvijos ir Krivių
-    Krivaitis su aukotojais iš Romainių
-    buvo perkelti į Vilnių, taigi Vilnius
-    XIII amžiaus gale jau galėjo būti tan­
-    kiai gvvenama ir svarbi gyvenvietė.
-    -  •  -
-    19
-
-    ## Puslapis 36
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir
-    savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti
-    mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­
-    tinto, Vilnelės bei Vilijos9 upių santakoje, ir į ten iš Trakų
-    perkėlė savo buveinę. Jis, pirmasis iš visų Lietuvos kuni­
-    gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
-    šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-- c-011
-  santrauka: 'Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tad šių, mūsų valdų, ir dvarų, taip pat
-    ir kito judamo ir nejudamo turto, kurį turime ir valdome,
-    bet kokia teise mums priklausančio ir bet kokiu besivadi­
-    nančio, darome, skelbiame paveldėtojomis karalaites: jos di­
-    denybę Kotryną, Švedijos karalienę, jos didenybę karalaitę
-    Sofiją, Braunsbergo kunigaikštienę, jos didenybę Oną, dar
-    iki šiol tebemergaujančią, šiuos visus dvarus lygiomis dali­
-    mis jų didenybėms duodame, dovanojame ir paskiriame bet
-    kurioje valstybėje arba paviete esančius ir bet kur saugoja­
-    mus su visa valstybinės nuosavybės teise, kaip juos patys
-    turėjome ir valdėme, turime ir valdome. O už tai jų dideny­
-    bes įpareigojame, kad mylimo Dievo garbei ir šlovei fun-
-    duotų ir aprūpintų Šv. Onos bažnyčios kleboniją ir didžio­
-    joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip
-    reikiant, pagal savo nuomonę, priderančiomis pajamomis
-    bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo
-    Dievo tarnystei prie anos bažnyčios pasiliktų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-- c-012
-  santrauka: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nepagelbėjo jam ir iš Kroku­
-    vos pakviestas tuose kraštuose pagarsėjęs ano meto alche­
-    mikas Balinskis, vėliau už gydymo nesėkmę ar už savo
-    aiškiaregystes sumokėjęs laisvė46. Bet, kai totoriai didele
-    *
-    Karalienė Elena pati savo lėšomis
-    pastatydino atskirą namą Vilniaus
-    pilyje, skirtą apsistoti pas ją iš Mask­
-    vos atvykstantiems bojarinams ir pa­
-    siuntiniams. Knygoje, apimančioje
-    Lietuvos Metrikos archyvo sąrašą,
-    apie jį yra tokia žinia: „Namui Vil­
-    niaus pilyje, kur Maskvą laiko, ger­
-    biamas Janas Filipovičius, daktaras,
-    kustodas ir Vilniaus kanauninkas
-    (Jan Philipowicz Doctor Custos i Cano-
-    nik Wileński), pardavė savo paveldė­
-    tą sklypą Vilniaus pilyje su mūriniu
-    rūsiu karalienei Elenai už devynias­
-    dešimt kapų amžina teise", Vilniu­
-    je, vasario 12-tą dieną, 12 indikte, su
-    antspaudu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-- c-013
-  santrauka: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Be to, dar nerimą kėlė Gedimino valia ra­
-    dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
-    ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
-    riteriai, gviešęsi grobio ir valdžios. Kivirčai tarp brolių da­
-    vė pradžią slaptoms, bet sumaniai parengtoms sutartims
-    siekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo
-    valdos sostinės, turėjęs geriausių galimybių stebėti visus
-    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
-    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
-    nigaikščio buveinę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-- c-014
-  santrauka: 'Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    681-687, plačiai ir ganėtinai žais-
-    karaliaus mirties sėdėjo kalėjime Vii- mingai eilėmis aprašo šią svarbią
-    niuje iki pat Žygimanto atvykimo, o pergalę.
-    paskui, sugrįžęs į Krokuvą, vėl bu-
-    234
-
-    ## Puslapis 251
-
-    III KNYGA
-    lėtoju ir į kapą nužengė triumfuodamas. Mirė karalius Žemu­
-    tinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o
-    jo palaikai iškart buvo palaidoti koplyčioje, prie katedros,
-    greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
-    dėl pavojingos Glinskio puikybės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-- c-015
-  santrauka: '1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau šis karaliaus nurodymas gal taip greitai ne­
-    būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
-    bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į
-    Vilnių. Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
-    vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
-    limu, išmetę medinius statinius. Atrodo, kad tais metais bu­
-    vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­
-    krypusios ir suskilusios, be to, išaugo panašūs ir erdvūs
-    232
-
-    ## Puslapis 249
-
-    III KNYGA
-    mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
-    veinei*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-- c-016
-  santrauka: 'Dalis vietos gyventojų, siekdami apsisaugoti nuo kryžiuočių, ieškojo prieglobsčio prie Vilniaus pilies.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Savo
-    ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
-    dimino dvare, statydinosi ties pilimi medinius savo rūmus,
-    o aplink kurdino savo valdinius. Netgi minoritai*, gausėjant
-    prozelitams įgydami vis didesnę įtaką ir reikšmę, irgi plėtė
-    savo gyvenvietes prie pilies. Pagaliau nemažai įvairių tenykš­
-    čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­
-    globsčio prie Vilniaus pilies.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-- c-017
-  santrauka: '[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    [Rūstusai Žygimante, kaip senasis karalius mėtau
-    žaibus,
-    Nejaugi manai, kad tik karaliams paklūsta žaibai?]
-    Vietovių pavadinimai yra tokie:
-    Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­
-    me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­
-    kas, Vitebskas, Orša, Mogiliovas, Propoiskiai, Čečerskiai,
-    Mstislavlis, Radomie, Liubičius, Gomelis, Rečica, Kšičovai,
-    Ovručas, Ostras, Vladimiras, Luckas, Mozyrius, Kijevas,
-    Čerkasai, Medilas, Kaniuvas, Podolės Brasta, Bialocerkievas,
-    Minskas, Radoškovičiai, Lietuvos Brasta, Chastiča, Rožekas,
-    Novy Zamekas, Svisločėje vadinamas Kasperu, Kremene-
-    cas, Černobilis, Suražas, Cieriščiai, Borisovas, Drisa, Trakai,
-    Upytė, Druja, Lepelis, Kopečius arba Ušcas, Tikocinas. Li­
-    vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas,
-    Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel-
-    314
-
-    ## Puslapis 331
-
-    IV  KNYGA
-    menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas,
-    Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
-    mundė, Ryga, Šmetenė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-
 ## Citatos
 
 - id: c-177532
@@ -653,6 +231,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195169
+    - t-195171
 
 - id: c-177534
   autorius: "Michał Baliński"
@@ -702,6 +281,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-195168
     - t-195169
 
 - id: c-177536
@@ -765,6 +345,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195174
+    - t-195178
 
 - id: c-177538
   autorius: "Michał Baliński"
@@ -822,6 +403,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195168
+    - t-195179
 
 - id: c-177540
   autorius: "Michał Baliński"
@@ -868,6 +450,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-195172
     - t-195184
 
 - id: c-177542
@@ -888,7 +471,10 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-195167
     - t-195170
+    - t-195180
+    - t-195181
 
 - id: c-177543
   autorius: "Michał Baliński"
@@ -909,6 +495,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-195175
+    - t-195182
+    - t-195183
     - t-195184
 
 - id: c-177544
@@ -1011,6 +600,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195176
+    - t-195177
 
 - id: c-177547
   autorius: "Michał Baliński"

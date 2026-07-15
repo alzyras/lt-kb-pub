@@ -11,12 +11,12 @@ datos:
   - '1900 m.'
 date_start: '1801'
 date_end: '1900'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,8 +44,8 @@ Dusburgietis teigia, kad voigt J.
   teiginys: "J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m."
   pagrindžia:
     - c-61985
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -65,11 +65,13 @@ Dusburgietis teigia, kad voigt J.
 - id: c-61985
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Voigt J. Geschichte Preussens: 9 Bd., 1827—1838.— Königsberg.— Bd. 1, 1827; Bd.
-    2, 1827; Bd. 3, 1828.
+    Охманьский Е. Иноземные поселения в Литве XIII—XIV вв. в свете этнонимических
+    местных названий. — Балто-славянские исследования 1980, М., 1981, с. 112—131.
+    Палмайтис Л. Прусское deiwas, санскритское devásya, литовское diẽvojis и
+    русское евоный: Мифический формант генитива *-sio и отгенитивное склонение.
+  citata_rodoma: "Voigt J. Geschichte Preussens: 9 Bd., 1827—1838.— Königsberg.— Bd. 1, 1827; Bd.\n2, 1827; Bd. 3, 1828."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

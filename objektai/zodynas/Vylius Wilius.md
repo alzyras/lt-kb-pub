@@ -42,8 +42,8 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
   teiginys: "Narbutas Vylingosios vardą veikiau sieja su Vilnia, kurią apibūdina kaip kadaise laivybai tikusią, sraunią ir vingiuotą upę."
   pagrindžia:
     - c-172147
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia ir perfidia lietuviškai atitinka Vylius (Wilius).'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -62,43 +62,23 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas Vylingosios vardą veikiau sieja su Vilnia, kurią apibūdina kaip kadaise laivybai tikusią, sraunią ir vingiuotą upę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Darant to­
-    pografinę apžvalgą, nesunku pastebėti, kad tų upių vandens
-    lygis kadaise buvo daug aukštesnis ir, atrodo, tolydžio žemėja.
-    Šiuo atveju to nelaimingo priešo -  Vylingosios (Zdradliwa)
-    vardo veikiau buvo nusipelniusi Vilnia, kadaise tikusi laivy­
-    bai, tokia srauni, vingiuota, akmenuotu dugnu, palyginti su
-    Vilija, tekančia didinga vaga, dar visur gilia ir visur saugia lai­
-    vybai. Krovininiai laivai, plaukiojantys Vilija nuo lietuviško
-    Strungas -  bukas vadinami strungais, yra tikri upinių laivų gi­
-    minės milžinai; jiems trūksta tik stiebų ir kylio, kad galėtų bū­
-    ti palyginti su jūrų laivais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172146
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 151"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Čia negalime praleisti dar vieno Vilijos upės vardo aiški­
-    nimo, dominančio Lietuvos praeities požiūriu. Kunigas Sirvy­
-    das savo žodyne (p. 446) rašo: Zdrada, Dolus, fraus, falacia,
-    perfidia -  lietuviškai Vylius (Wilius). Iš to žodžio paimtas pa­
-    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
-    niaus arsenalo įtekančiai į Viliją.
+    Nebent pripažintume,
+    jog ta išimtis glūdi pačioje lietuvių mitologijoje, pagal kurią
+    nimfoms priklausė globoti įmaišytą tešlą gal dėl to, kad į ją
+    įeina vanduo.
+    Yra vietų šlapiose pievose, kadaise užlietose vandeniu, pa­
+    našiai kaip Dugnai (Dugny) mano kaimelyje. Kaimiečiai iki
+    šiol tebepasakoja, kad ten, meldynuose, pasirodančios skais­
+    čios, nuogos mergos. Jos šokančios, linksmai išdykaujančios;
+    vargas tam, kurį suvilios jų klastingas gundymas.
+  citata_rodoma: "Čia negalime praleisti dar vieno Vilijos upės vardo aiški­\nnimo, dominančio Lietuvos praeities požiūriu. Kunigas Sirvy­\ndas savo žodyne (p. 446) rašo: Zdrada, Dolus, fraus, falacia,\nperfidia -  lietuviškai Vylius (Wilius). Iš to žodžio paimtas pa­\nvadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­\nniaus arsenalo įtekančiai į Viliją."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -109,18 +89,17 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
 - id: c-172147
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 151"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Darant to­
     pografinę apžvalgą, nesunku pastebėti, kad tų upių vandens
     lygis kadaise buvo daug aukštesnis ir, atrodo, tolydžio žemėja.
-    Šiuo atveju to nelaimingo priešo -  Vylingosios (Zdradliwa)
+    Šiuo atveju to nelaimingo priešo - Vylingosios (Zdradliwa)
     vardo veikiau buvo nusipelniusi Vilnia, kadaise tikusi laivy­
     bai, tokia srauni, vingiuota, akmenuotu dugnu, palyginti su
     Vilija, tekančia didinga vaga, dar visur gilia ir visur saugia lai­
     vybai. Krovininiai laivai, plaukiojantys Vilija nuo lietuviško
-    Strungas -  bukas vadinami strungais, yra tikri upinių laivų gi­
+    Strungas - bukas vadinami strungais, yra tikri upinių laivų gi­
     minės milžinai; jiems trūksta tik stiebų ir kylio, kad galėtų bū­
     ti palyginti su jūrų laivais.
   statusas: verified

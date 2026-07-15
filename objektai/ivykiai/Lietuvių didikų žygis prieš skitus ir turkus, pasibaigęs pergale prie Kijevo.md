@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų. Ostrogiškis su sąjungininkais už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.
+Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -48,71 +48,6 @@ Nenurodyta
   pagrindžia:
     - c-168965
 
-<a id="claim-t-185605"></a>
-- t-002
-  global_id: t-185605
-  teiginys: "Ostrogiškis su sąjungininkais už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė."
-  pagrindžia:
-    - c-168966
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ostrogiškis,
-    gavęs žinią, kad skitai bei turkai patraukė į žygį Po-
-    dolėn ir Pogorėn su trisdešimt keturiais tūkstančiais
-    karių, skubiai įspėjo susitarimo dalyvius apie pavojų.
-    Šie negaišo ir labai greitai atvedė tam reikalui pasam­
-    dytus savo lėšomis algininkus. Pas Ostrogiškį atžygia­
-    vo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras
-    Sanguška, Jurgis Radvila, Jonas bei Aleksandras Ka-
-    ributaičiai, Višnioveco kunigaikščiai, Čartorysko ku­
-    nigaikštis Aleksandras, Kijevo vaivada Andrius Nemi-
-    ravičius, Čerkasų seniūnas Eustachijus Daškevičius ir
-    655
-
-    ## Puslapis 654
-
-    daug kitų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Ostrogiškis su sąjungininkais už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pas Ostrogiškį atžygia­
-    vo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras
-    Sanguška, Jurgis Radvila, Jonas bei Aleksandras Ka-
-    ributaičiai, Višnioveco kunigaikščiai, Čartorysko ku­
-    nigaikštis Aleksandras, Kijevo vaivada Andrius Nemi-
-    ravičius, Čerkasų seniūnas Eustachijus Daškevičius ir
-    655
-
-    ## Puslapis 654
-
-    daug kitų. Ostrogiškis, kuo skubiausiai su jais leidę­
-    sis į žygį, už keturių dešimčių mylių nuo Kijevo pasi­
-    vijo priešą, begrįžtantį su grobiu, ir, stojęs į kovą,
-    jį sumušė. Ši pergalė itin išgarsėjo, nes kovoje pa­
-    dėjo galvas dvidešimt keturi tūkstančiai priešų bei
-    turkų kunigaikštis Ibrahimas, paimta į nelaisvę aštuo­
-    niasdešimt tūkstančių belaisvių ir atimtas visas grobis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-168965
@@ -120,54 +55,34 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ostrogiškis,
-    gavęs žinią, kad skitai bei turkai patraukė į žygį Po-
-    dolėn ir Pogorėn su trisdešimt keturiais tūkstančiais
-    karių, skubiai įspėjo susitarimo dalyvius apie pavojų.
-    Šie negaišo ir labai greitai atvedė tam reikalui pasam­
-    dytus savo lėšomis algininkus. Pas Ostrogiškį atžygia­
-    vo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras
-    Sanguška, Jurgis Radvila, Jonas bei Aleksandras Ka-
-    ributaičiai, Višnioveco kunigaikščiai, Čartorysko ku­
-    nigaikštis Aleksandras, Kijevo vaivada Andrius Nemi-
-    ravičius, Čerkasų seniūnas Eustachijus Daškevičius ir
-    655
-
-    ## Puslapis 654
-
-    daug kitų.
+    Kai Vasilijaus legatai patvirtino šį susi­
+    tarimą karaliaus bei senato
+    M a sk v o s v a ld o v a s ti-
+    akivaizdoje, susiderėjo, kad
+    tu lu o ja m a s d id žiu o ju
+    pasieniuose kylantiems gin-
+    v is o s R u sios v a ld o v u
+    čams spręsti abi šalys pas-
+    kirsiančios nepaprastus tei­
+    sėjus, kurie ir teis kaimynystėje gyvenančius žmones.
+    Ta pati pasiuntinybė pareikalavo, kad po visą Lietu­
+    vą išmėtyti maskvėnų belaisviai būtų suvaryti į Vilnių
+    ir geriau užlaikomi. Šios paliaubos iš tiesų laiku suda­
+    rytos, nes tuo metu karalius
+    Ž ū sta
+    L iu d vik a s,
+    didžiai liūdėjo dėl jo šeimą
+    V e n g rijo s ka ra liu s
+    ištikusios nelaimės. Mat žu­
+    vo brolėnas Liudvikas, Veng­
+    rijos ir Čekijos karalius, kai prie Mohačo, nugalėtas
+    turkų valdovo Suleimano ir praradęs kariuomenę,
+    stengėsi pabėgti iš pavojaus: jį pelkėje nuslėgė par­
+    griuvęs žirgas, ir šitaip jis rugpjūčio 27 d. atsisveikino
+  citata_rodoma: "Ostrogiškis,\ngavęs žinią, kad skitai bei turkai patraukė į žygį Po-\ndolėn ir Pogorėn su trisdešimt keturiais tūkstančiais\nkarių, skubiai įspėjo susitarimo dalyvius apie pavojų.\nŠie negaišo ir labai greitai atvedė tam reikalui pasam­\ndytus savo lėšomis algininkus. Pas Ostrogiškį atžygia­\nvo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras\nSanguška, Jurgis Radvila, Jonas bei Aleksandras Ka-\nributaičiai, Višnioveco kunigaikščiai, Čartorysko ku­\nnigaikštis Aleksandras, Kijevo vaivada Andrius Nemi-\nravičius, Čerkasų seniūnas Eustachijus Daškevičius ir\n655\n\n## Puslapis 654\n\ndaug kitų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185604
-
-- id: c-168966
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Pas Ostrogiškį atžygia­
-    vo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras
-    Sanguška, Jurgis Radvila, Jonas bei Aleksandras Ka-
-    ributaičiai, Višnioveco kunigaikščiai, Čartorysko ku­
-    nigaikštis Aleksandras, Kijevo vaivada Andrius Nemi-
-    ravičius, Čerkasų seniūnas Eustachijus Daškevičius ir
-    655
-
-    ## Puslapis 654
-
-    daug kitų. Ostrogiškis, kuo skubiausiai su jais leidę­
-    sis į žygį, už keturių dešimčių mylių nuo Kijevo pasi­
-    vijo priešą, begrįžtantį su grobiu, ir, stojęs į kovą,
-    jį sumušė. Ši pergalė itin išgarsėjo, nes kovoje pa­
-    dėjo galvas dvidešimt keturi tūkstančiai priešų bei
-    turkų kunigaikštis Ibrahimas, paimta į nelaisvę aštuo­
-    niasdešimt tūkstančių belaisvių ir atimtas visas grobis.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185605

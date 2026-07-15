@@ -65,41 +65,6 @@ Nenurodyta
   teiginys: "1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. sutartį ir įkūrė Baltijos Valstybių Tarybą."
   pagrindžia:
     - c-166647
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gerai klostėsi ekonominiai san-
-    tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
-    kašenkos diktatūrinis valdymas. 1990 m. gegužės 12 d. Lietuva, Latvija ir
-    Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo
-    sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
-    užsienio politikos pozicija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. sutartį ir įkūrė Baltijos Valstybių Tarybą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1990 m. gegužės 12 d. Lietuva, Latvija ir
-    Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo
-    sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
-    užsienio politikos pozicija. Glaudus trijų Baltijos valstybių bendradarbia-
-    vimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

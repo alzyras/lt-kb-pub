@@ -34,25 +34,6 @@ Ją Dlugošas vėl kritikavo, kad « visai klaidingu būdu ir beveik pajuokai bu
   teiginys: "Dlugošas kritikavo Grünwaldo pergalės atsisakymą, teigdamas, kad jis nedavė naudos Lenkijai, bet buvo labai naudingas Lietuvai."
   pagrindžia:
     - c-28603
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ją Dlugošas
-    vėl kritikavo, kad « visai klaidingu būdu ir beveik pajuokai buvo
-    atsisakyta tosios garbingos ir atmintinos Grünwaldo (Grinfeldensis)
-    pergalės. Ji nedavė jokios naudos Lenkijos karalystei, tačiau —
-    labai didelę Lietuvos kunigaikštijai »^37.
-    Bet Torno taika abiem valstybėm nedavė to, ko jos po Žalgirio
-    galėjo tikėtis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -53,44 +53,13 @@ Nenurodyta
   teiginys: "1487 m. Vasiljevičius iš Krošino kunigaikščių atėmė geroką krašto dalį ir stengėsi nuslėpti brolio Andrejaus įsibrovimą į Viazmos žemę."
   pagrindžia:
     - c-169013
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1487 m. Vasiljevičius iš Krošino kunigaikščių atėmė geroką krašto dalį ir stengėsi nuslėpti brolio Andrejaus įsibrovimą į Viazmos žemę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    To­
-    dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­
-    bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai
-    jį pagerbęs, bet nieko doro nepažadėjęs. Tuo tarpu Va­
-    siljevičius, nors, paisydamas paliaubų, atvirai ir ne­
-    pradėjo karo, bet žalos daryti nevengė. Jis ir pats atė­
-    mė iš Krošino kunigaikščių, Kęstučio sūnaus Vygando
-    palikuonių, geroką krašto dalį, ir stengėsi nuslėpti savo
-    brolio Andrejaus, Možaisko
-    1487 metai
-    kunigaikščio,
-    įsibrovimą
-    į
-    Siaubia L ie tu v o s v a i-
-    Viazmos žemę, nekalbant jau
-    d a s
-    apie smulkesnius išpuolius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169013
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 532"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 532."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     To­
     dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­

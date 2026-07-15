@@ -43,31 +43,6 @@ Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynai
   teiginys: "Rogožos metraštyje prie 1363 m. nurodoma, kad Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę."
   pagrindžia:
     - c-156316
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mėlynųjų Vandenų įvykių pagrindi-
-    niai šaltiniai: žinios xv a. pirmosios pusės
-    rusų Tverės sąvade - Rogožos metraštyje
-    prieš 6871 (1363) m. sakoma, kad rudenį
-    Algirdas „Mėlynuosius Vandenis ir Baltąją
-    pakrantę nukariavo“. Tas pats aprašyta vė-
-    lesniame Maskvos- Tverės kilmės Nikono
-    metraštyje (susijusiame su Algirdo pali-
-    kuonimis Belskiais). Trumpojoje Lietuvos
-    metraščių redakcijoje (xv a. 4-5 de-
-    šimtmečiai) įrašytas „Pasakojimas apie
-    Podolę“ - plačiausiai kalbantis šaltinis
-    šia tema.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

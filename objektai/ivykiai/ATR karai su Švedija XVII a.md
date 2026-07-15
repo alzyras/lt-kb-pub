@@ -58,23 +58,6 @@ Nenurodyta
   teiginys: "Per XVII a. karus su Švedija Lietuvos kariuomenė laimėjo Salaspilio mūšį, bet Švedija atėmė Rygą ir užvaldė Baltijos pakrantes."
   pagrindžia:
     - c-22900
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kova dėl Livonijos daugiausia buvo suin-
-    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
-    uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
-    Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
-    Rygą ir užvaldė Baltijos pakrantes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

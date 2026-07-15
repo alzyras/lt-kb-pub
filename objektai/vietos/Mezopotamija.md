@@ -35,27 +35,6 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   teiginys: "Labai vaizdžiai ir gyvai ap rašyta vieno keliautojo kelionės su įvairiausiais nuotykiais ir pavojais po Arabiją, Afriką, Mezopotamiją."
   pagrindžia:
     - c-177346
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Labai vaizdžiai ir gyvai ap rašyta vieno keliautojo kelionės su įvairiausiais nuotykiais ir pavojais po Arabiją, Afriką, Mezopotamiją.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Labai vaizdžiai ir gyvai ap­
-    rašyta vieno keliautojo kelionės su įvairiausiais nuotykiais ir pavojais
-    po Arabiją, Afriką, Mezopotamiją. Norintieji pažinti tu kraštu gam­
-    tą, žmones, jų gyvenimo būdą ir papročius, būtinai turi šias knygas
-    perskaityti. Čia skaitytojas pamatys tų tautų tarpusavines aštrias
-    kovas. Arabijos moterų pasiaukojimą, meilę, pagaliau jų žiaurų
-    kerštą. Mokiniui šios knygos palengvins išmokti istorijos pamokas
-    apie tas tauteles ir geografiją apie minėtus kraštus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

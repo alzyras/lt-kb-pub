@@ -46,34 +46,6 @@ Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos 
   pagrindžia:
     - c-26664
 - susijęs iš [[objektai/asmenys/Valdas Adamkus.md#claim-t-64205|Valdas Adamkus]]: Valdas Adamkus 2000 m. gegužės 19 d. dalyvavo Vilniaus konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Bušas taip pat
-    priminė, kad JAV niekada nepripažino Lietuvos okupacijos ir visada
-    tikėjo, jog mūsų „žemynas nebus padalytas per amžius“. 2003 m. kovą
-    pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties
-    protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį,
-    2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.
-    Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje
-    Europos saugumo aplinkoje“ metu Lietuvos Respublikos prezidentas
-    Valdas Adamkus ir NATO Generalinis sekretorius Džordžas
-    Robertsonas 2000 m. gegužės 19 d.
-
-    L I E T U V O S  I S T O R I J A
-    260
-    Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono su-
-    tarties 5-ajame straipsnyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-26664

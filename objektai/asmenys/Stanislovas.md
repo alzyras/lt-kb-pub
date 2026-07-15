@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo pirmosiose rikiuotės eilėse. Stanislovas pabėgo į Riazanę, kur neturėjo nei kariuomenės, nei valdžios ir atsisakė vilčių.
+Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo pirmosiose rikiuotės eilėse. Stanislovas pabėgo į Riazanę, kur neturėjo nei kariuomenės, nei valdžios ir atsisakė vilčių. Stanislovas, paskelbęs kautynes lemiančiomis jo padėtį, paliko kitus rezerve ir su savo kariais stojo pirmosiose rikiuotės eilėse.
 
 ## Teiginiai
 
@@ -42,69 +42,30 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
   teiginys: "Stanislovas pabėgo į Riazanę, kur neturėjo nei kariuomenės, nei valdžios ir atsisakė vilčių."
   pagrindžia:
     - c-169379
+
+<a id="claim-t-196593"></a>
+- t-003
+  global_id: t-196593
+  teiginys: "Stanislovas, paskelbęs kautynes lemiančiomis jo padėtį, paliko kitus rezerve ir su savo kariais stojo pirmosiose rikiuotės eilėse."
+  pagrindžia:
+    - c-169378
+
+<a id="claim-t-196594"></a>
+- t-004
+  global_id: t-196594
+  teiginys: "Kojelavičiaus pasakojime Stanislovas, kijeviečiams atstūmus lietuvius nuo sienų, gėdingai pabėgo į Riazanę ir neteko vilčių."
+  pagrindžia:
+    - c-169379
 - susijęs iš [[objektai/asmenys/Stanislovas (Plocko vyskupas).md#claim-t-87929|Stanislovas (Plocko vyskupas)]]: 1386 metais Plocko vyskupas Stanislovas su Kijevo vyskupu Mykolu pašventino Šv. Jono bažnyčią.
+- susijęs iš [[objektai/asmenys/Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.).md#claim-t-200486|Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.)]]: Stanislovas Pšezdeckis buvo Smolensko pilies teisėjas.
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-187943|Adomas Stanislovas Naruševičius]]: Adomas Stanislovas Naruševičius šešių tomų veikalu „Lenkų tautos istorija“ pradėjo kritiškas praeities studijas.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195011|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį etmonas Stanislovas Petravičius Kiška sunkiai susirgo ir nebegalėjo laikytis balne.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: 1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
 - susijęs iš Riazanė: Stanislovas, kijeviečiams ginantis nuo Gedimino, pabėgo į Riazanę ir ten išsižadėjo bet kokių vilčių.
 - susijęs iš Vilniaus katedra: Vilniaus katedra sudegė 1399 metais.
 - susijęs iš Vilniaus katedra: Jogaila Vladislovas buvo Vilniaus katedros fundatorius.
+- susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200502|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: Tomas Ignotas Zenkovičius buvo Baltarusijos sufraganas.
+- susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200503|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: 1755 m. į Tomo Ignoto Zenkovičiaus konsekraciją atvyko Mikalojus Lopacinskis, Tadas Oginskis, Stanislovas Bužinskis ir Antanas Dominykas Tiškevičius.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195015|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo pirmosiose rikiuotės eilėse.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Rusai puolė drą-
-    Levas; be savo žemių karių,
-
-    ## Puslapis 200
-
-    R usios
-    ku n ig a ik ščia i
-    k a u ja si su lietu via is,
-    jie  n u galim i
-    šiai, pasipiktinę, kad štai tu­
-    ri grumtis dėl valdžios su
-    tauta, kitados jiems mokėju­
-    sia duoklę. Įgavo drąsos ir
-    Stanislovas, iš anksto paskel­
-    bęs, jog šios kautynės lemiančios jo padėtį, todėl vi­
-    sus kitus paliko rezerve, o pats su savo kariais atsi­
-    stojo pirmosiose rikiuotės eilėse. Gediminas, priešų dar
-    neregėdamas, skatino savo vyrus į kovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Stanislovas pabėgo į Riazanę, kur neturėjo nei kariuomenės, nei valdžios ir atsisakė vilčių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Be abejo, miestas ilgai būtų valiojęs stabdyti per­
-    galingą lietuvių veržimąsi, jeigu Stanislovas būtų čia
-    iš visur sutraukęs savo karių ir sąjungininkų būrius
-    ir sudaręs galimybę neįstengiant atnaujinti karo su­
-    laukti kokios paramos. Kai kijeviečiai, įveikę'baimę ir
-    mintis apie pasidavimą, atgavo drąsą ir atstūmė lie­
-    tuvius ginklais bei narsa nuo sienų, iš paskutiniųjų
-    trukdydami Gediminui laimėti pergalę, Stanislovas gė­
-    dingai pabėgo net į Riazanę, kur, neturėdamas nei ka­
-    riuomenės, nei valdžios, išsižadėjo bet kokių vilčių.
-    Valdovo nusivylimas palaužė apgultųjų drąsą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-169378
@@ -112,15 +73,10 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Rusai puolė drą-
-    Levas; be savo žemių karių,
-
-    ## Puslapis 200
-
     R usios
     ku n ig a ik ščia i
     k a u ja si su lietu via is,
-    jie  n u galim i
+    jie n u galim i
     šiai, pasipiktinę, kad štai tu­
     ri grumtis dėl valdžios su
     tauta, kitados jiems mokėju­
@@ -129,34 +85,39 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
     bęs, jog šios kautynės lemiančios jo padėtį, todėl vi­
     sus kitus paliko rezerve, o pats su savo kariais atsi­
     stojo pirmosiose rikiuotės eilėse. Gediminas, priešų dar
-    neregėdamas, skatino savo vyrus į kovą.
+    neregėdamas, skatino savo vyrus į kovą. Tegu jie ne­
+    užmirštą jo paskatų ir savo narsumo, kurį rodę dau­
+    gelyje pergalingų kovų. Tegu jie užmetą žvilgsnį į
+    ginklus ir rankas, kurios, jo vedamos, sėkmingai lie­
+    jo galybės priešų kraują, šito užteksią jiems įtikėti
+    būsima pergale.
+  citata_rodoma: "Įgavo drąsos ir \nStanislovas, iš anksto paskel­\nbęs, jog šios kautynės lemiančios jo padėtį, todėl vi­\nsus kitus paliko rezerve, o pats su savo kariais atsi­\nstojo pirmosiose rikiuotės eilėse. Gediminas, priešų dar \nneregėdamas, skatino savo vyrus į kovą. Tegu jie ne­\nužmirštą jo paskatų ir savo narsumo, kurį rodę dau­\ngelyje pergalingų kovų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186017
+    - t-196593
 
 - id: c-169379
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 201"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 201."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Be abejo, miestas ilgai būtų valiojęs stabdyti per­
-    galingą lietuvių veržimąsi, jeigu Stanislovas būtų čia
-    iš visur sutraukęs savo karių ir sąjungininkų būrius
-    ir sudaręs galimybę neįstengiant atnaujinti karo su­
-    laukti kokios paramos. Kai kijeviečiai, įveikę'baimę ir
+    Kai kijeviečiai, įveikę'baimę ir
     mintis apie pasidavimą, atgavo drąsą ir atstūmė lie­
     tuvius ginklais bei narsa nuo sienų, iš paskutiniųjų
     trukdydami Gediminui laimėti pergalę, Stanislovas gė­
     dingai pabėgo net į Riazanę, kur, neturėdamas nei ka­
     riuomenės, nei valdžios, išsižadėjo bet kokių vilčių.
-    Valdovo nusivylimas palaužė apgultųjų drąsą.
+    Valdovo nusivylimas palaužė apgultųjų drąsą. Už ką
+    jie kovoja? Ar už valdovą, kuris pabėgęs? Ar už vals­
+    tybę, kuri atsidūrusi ties bedugne?
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186018
+    - t-196594

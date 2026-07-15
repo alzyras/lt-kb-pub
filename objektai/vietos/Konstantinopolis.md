@@ -70,43 +70,29 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   pagrindžia:
     - c-161144
 
-<a id="claim-t-177255"></a>
+<a id="claim-t-177253"></a>
 - t-005
-  global_id: t-177255
-  teiginys: "Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė."
-  pagrindžia:
-    - c-161142
-
-<a id="claim-t-177250"></a>
-- t-006
-  global_id: t-177250
-  teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
-  pagrindžia:
-    - c-161148
-
-<a id="claim-t-177255"></a>
-- t-007
-  global_id: t-177255
+  global_id: t-177253
   teiginys: "Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė."
   pagrindžia:
     - c-161142
 
 <a id="claim-t-177256"></a>
-- t-008
+- t-006
   global_id: t-177256
   teiginys: "Po Ciprijono mirties Vytautas Konstantinopolio patriarchui Eufimėjui pristatė Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus."
   pagrindžia:
     - c-161140
 
 <a id="claim-t-184164"></a>
-- t-009
+- t-007
   global_id: t-184164
   teiginys: "1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas."
   pagrindžia:
     - c-167549
 
 <a id="claim-t-194533"></a>
-- t-010
+- t-008
   global_id: t-194533
   teiginys: "Apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol."
   pagrindžia:
@@ -158,13 +144,12 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - susijęs iš [[objektai/asmenys/Ricimeras.md#claim-t-191975|Ricimeras]]: Narbutas pasakoja, kad Ricimeras, atsikratęs Majorijano, neteko vieningos imperijos valdžios ir imperijos vadovu iškėlė Severą.
 - susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-183762|Timūr-Kutlukas]]: Aukso ordos chanas Timūr-Kutlukas, rengdamasis žygiui į Sarajų, reikalavo, kad Vytautas išduotų jo priešą Tochtamišą.
 - susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111433|Tochtamišas]]: Timūr-Kutlukas reikalavo, kad Vytautas išduotų pabėgusį jo priešą Tochtamišą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176658|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis palaikė neblogus santykius su turkais, kurie jo valdymo metu vis labiau skverbėsi į Balkanų pusiasalį.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05240|Auksinė Orda]]: Lemiamasis Vytauto žygis, siekęs pasodinti Tochtamišą Aukso ordoje, baigėsi nesėkme.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187441|Aukso orda]]: Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187442|Aukso orda]]: Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme.
 - susijęs iš [[objektai/grupes/Lietuvos stačiatikiai.md#claim-t-31302|Lietuvos stačiatikiai]]: Po Romano mirties 1361 m. Lietuvos stačiatikių metropolija nebuvo atnaujinta ir vėl pajungta Maskvos metropolitui.
 - susijęs iš [[objektai/grupes/Lotynai.md#claim-t-63146|Lotynai]]: Po Konstantinopolio užėmimo imperatoriumi tapo Flandrijos grafas Balduinas, o lotynai ten valdė 57 metus.
-- susijęs iš [[objektai/grupes/Seversko kunigaikščiai.md#claim-t-185437|Seversko kunigaikščiai]]: Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos.
+- susijęs iš [[objektai/grupes/Seversko kunigaikščiai.md#claim-t-185437|Seversko kunigaikščiai]]: Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos apibūdino kaip valstybės išdavimą ir valdų prijungimą prie Maskvos.
 - susijęs iš [[objektai/grupes/Čekų karalystė.md#claim-t-187785|Čekų karalystė]]: Lietuvos metraštis Čekų karalystę vaizduoja teikusią didžią garbę šlovingajam valdovui.
 - susijęs iš [[objektai/ivykiai/Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas.md#claim-t-34469|Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas]]: 1422 m. Devletas pabandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.
 - susijęs iš [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.).md#claim-t-34490|Naugarduko susirinkimas (1415 m.)]]: Naugarduko susirinkimas pasiuntė delegaciją dėl kito Kijevo metropolito, tačiau ji nieko nelaimėjo.
@@ -175,7 +160,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - susijęs iš [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon`.md#claim-t-186395|„lietuvių imperatoriumi“ `vasilea Letvon`]]: 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ („vasilea Letvon“).
 - susijęs iš [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon`.md#claim-t-186396|„lietuvių imperatoriumi“ `vasilea Letvon`]]: 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ ir taip prilygino save Bizantijos imperatoriui.
 - susijęs iš [[objektai/posakiai/„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“.md#claim-t-39068|„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“]]: Algirdas priekaištavo Konstantinopolio patriarchui, kad promaskvietiškas metropolitas maskvėnus laimina kraujo praliejimui.
-- susijęs iš Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija: Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys rusai prisidėtų prie Rytų ir Vakarų bažnyčių santarvės.
+- susijęs iš Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija: Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėjimo ir raginęs Eleną pereiti į Romos tikėjimą.
 - susijęs iš Nifono laiškas rusams dėl Florencijos tikėjimo santarvės: Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai.
 - susijęs iš Cholmas: Cholmo stačiatikių vyskupas kartu su kitais vyskupais išleido aplinkraštį dėl savo teisių gynimo nuo Rusijos metropolitų.
 - susijęs iš Florencija: Popiežius Eugenijus IV 1434 m. spalio 20 d. iš Florencijos rašytame laiške užtarė Sofiją Žygimantui Kęstutaičiui.
@@ -186,154 +171,13 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192165|diecezija]]: Narbutas žodį „diecezija“ vartoja kalbėdamas apie Odoakrui patikėtą valdžią Italijoje.
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192166|diecezija]]: Narbutas rašo, kad Romos senatas Odoakrą pristatė kaip patricijų, kuriam patikima valdžia italų diecezijoje.
 - susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192562|karaliukas]]: Teodoras Narbutas rašo, kad įvairiose šalyse atsirado skirtingų imperatorių ir barbarų karaliukų.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-05454|metropolitas]]: 1354 m. Konstantinopolio patriarchas paskyrė Lietuvos žemių metropolitą Romaną.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-05455|metropolitas]]: Lietuvos stačiatikių žemės vėl buvo pajungtos visos Rusijos metropolitui.
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-187523|metropolitas]]: Lietuvos metraščio pastaboje Gerasimas 1432 m. Švitrigailos pasiūlymu Konstantinopolyje įšventintas LDK, Maskvos ir kitų rusų žemių metropolitu.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-97284|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
 - susijęs iš [[objektai/grupes/Lotynai.md#claim-t-63146|Lotynai]]: Po Konstantinopolio užėmimo imperatoriumi tapo Flandrijos grafas Balduinas, o lotynai ten valdė 57 metus.
 - susijęs iš [[objektai/ivykiai/Konstantinopolio miesto užėmimas (1200 m.).md#claim-t-62333|Konstantinopolio miesto užėmimas (1200 m.)]]: 1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi.
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192165|diecezija]]: Narbutas žodį „diecezija“ vartoja kalbėdamas apie Odoakrui patikėtą valdžią Italijoje.
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192166|diecezija]]: Narbutas rašo, kad Romos senatas Odoakrą pristatė kaip patricijų, kuriam patikima valdžia italų diecezijoje.
 - susijęs iš [[objektai/ivykiai/Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas.md#claim-t-34469|Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas]]: 1422 m. Devletas pabandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.
 - susijęs iš [[objektai/asmenys/Devletas.md#claim-t-34716|Devletas]]: 1422 m. Devletas bandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet kai Ciprijonas mirė (1406), tai Vytautas,
-    kovojęs tuo laiku su Maskva dėl Okos ir Ugros aukštupių, pa­
-    siryžo turėti vėl atskirą metropolitą Lietuvos stačiatikiams ir
-    jų reikalus tvarkyti nepriklausomai nuo Rusijos.
-    Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­
-    triarchui Eufimėjui pristatė Polocko vysk. Teodozijų, kaipo kan­
-    didatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo
-    painformavę apie Vytauto sumanymus atitraukti Lietuvos sta­
-    čiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­
-    tuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­
-    se kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-008
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    patriarchą, o Focijui nurašė raštą, atsisakydami klausyti. Bet
-    Konstantinopolio stačiatikių sinodas ne tik kad nepaskyrė Cem­
-    blako metropolitu, bet atėmė iš įo žemutinius šventimus ir ji iš­
-    keikė. Naugarduko susirinkimas pasiuntė delegaciją, kad išsi­
-    rūpintų vietoj Cemblako kitą žmogų, patriarchui patinkamą, bet
-    ir ji nieko nelaimėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-005
-
-- c-003
-  santrauka: 'Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lietuva tuo laiku duoklę
-    mokėjo Polocko kunigaikščiams, o
-    valdoma savo etmonų, o Lietuvos
-    miestai jau buvo valdomi Kijevo ku­
-    nigaikščių: vieni - Černigovo, kiti -
-    Smolensko, kiti - Polocko. Ir Vilnia
-    [Vilnius] buvo priverstas duoti
-    duoklę Ugrų karaliui (tikriausiai Ha­
-    ličo) už saugojimą nuo didžiojo ku­
-    nigaikščio Mstislavo Rogvoldovi-
-    čiaus. Ir vilniečiai paėmę sau iš
-    Cargrado [Konstantinopolio] Poloc­
-    ko kunigaikščio Rostislavo Rogvol-
-    dovičiaus vaikus - kunigaikštį Do-
-    vilą ir jo brolį kunigaikštį Maukoldą
-    ir tai pirmasis Vilniuje kunigaikštis
-    Dovilas, didysis Maukoldo brolis, o
-    jo vaikai: Vidas, kurį žmonės Vilku
-    vadino, ir Erdenas kunigaikštis, o Er-
-    denas sūnus pasikrikštijo, buvo val­
-    dovas Tvėrėje, kuris prieš Petrą, prieš
-    stebukladarį, neramumą sukėlė, va­
-    dino jį Andriejumi, rašė prieš stebuk­
-    ladarį melagingus žodžius, o Mau­
-    koldo sūnus Mindaugas, o Mindaugo
-    kunigaikščio vaikai: Višlegas (ar tik
-    ne vienuolis Vaišelga) ir Daumantas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: '1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    42. Apie Konstantinopolio miesto atgavimą
-
-      1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį
-    buvo užėmę prancūzai ir Venecijos kariai [per Gallicos et Venetos] (Mart. p. 405).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie viešpaties erškėčių vainiko perkėlimą
-
-      1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio  į
-    Paryžių viešpaties erškėčių vainiką (Ptol. 21,36).
-
-
-
-    27.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-006
-    - t-010
-
-- c-006
-  santrauka: '1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Konstantinopolio miesto užėmimą
-
-      1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog
-    niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai,
-    įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir
-    apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
-    lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
 ## Citatos
 
 - id: c-161140
@@ -380,7 +224,6 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177255
     - t-177253
 
 - id: c-161143
@@ -426,8 +269,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - id: c-161144
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 233"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     42. Apie Konstantinopolio miesto atgavimą
 
@@ -444,8 +286,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - id: c-161148
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 229"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie viešpaties erškėčių vainiko perkėlimą
 
@@ -461,14 +302,12 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177250
-    - t-177254
     - t-194533
 
 - id: c-167549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 225"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Konstantinopolio miesto užėmimą
 

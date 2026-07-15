@@ -78,49 +78,6 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
     - c-166732
 - susijęs iš Kinija: Andrius Rudamina Kinijoje misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.
 - susijęs iš Kinija: Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be to, reikia neužmirš-
-    ti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios
-    naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Ruda-
-    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
-    1626–1634 m. ir rašė asketikos veikalus kinų kalba. Šiauriausias katali-
-    kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų
-    universiteto reikšmė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
-- c-002
-  santrauka: 'Andrius Rudamina nunešė Jėzaus draugijos idėjas iki Kinijos, kur 1626–1634 m. misionieriavo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kad toks universiteto vaidmuo nėra vien formalus, buvo
-    aišku jau akademiją steigusiems jėzuitams. Vienas jų tada rašė: „Reikia
-    taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,
-    o iš jos per totorius galėsime pasiekti ir Kiniją. Be to, reikia neužmirš-
-    ti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios
-    naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Ruda-
-    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
-    1626–1634 m. ir rašė asketikos veikalus kinų kalba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-004
-
 ## Citatos
 
 - id: c-65256
@@ -163,5 +120,5 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26708
     - t-23224
+    - t-26708

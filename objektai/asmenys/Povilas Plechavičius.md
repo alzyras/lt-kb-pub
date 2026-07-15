@@ -43,28 +43,6 @@ Povilas Plechavičius pasiskelbė vyriausiuoju perversmo vadu ir laikinu L I E T
 - susijęs iš SS dalinio organizavimo planas: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.
 - susijęs iš [[objektai/zodynas/generaliniai tarėjai.md#claim-t-75547|generaliniai tarėjai]]: 1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.
 - susijęs iš [[objektai/zodynas/generaliniai tarėjai.md#claim-t-75548|generaliniai tarėjai]]: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio planą ir pasisakė už tautinę Lietuvos kariuomenę.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    43 min. į Seimo salę įsiveržę ginkluoti kariškiai
-    nutraukė posėdį dėl kitų metų biudžeto, išvaikė Seimą, suėmė preziden-
-    tą, visus ministrus ir keletą Seimo narių. Nesutikus pasipriešinimo mjr.
-    Povilas Plechavičius pasiskelbė vyriausiuoju perversmo vadu ir laikinu
-
-    L I E T U V O S  I S T O R I J A
-    156
-    diktatoriumi, tačiau netrukus pasiūlė šį savo postą pirmajam Lietuvos
-    valstybės prezidentui A. Smetonai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-26684

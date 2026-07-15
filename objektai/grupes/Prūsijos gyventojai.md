@@ -35,34 +35,13 @@ Kad Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry šius su P
   teiginys: "Kad Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry šius su Prūsijos gyventojais, renkančiais gintarą, taip pat tie sa7."
   pagrindžia:
     - c-177189
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kad Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry šius su Prūsijos gyventojais, renkančiais gintarą, taip pat tie sa7.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Reikėtų surasti vidurį tarp tų dviejų
-    kraštutinumų.
-    Kad romėnų laivai prieš Kristaus gimimą plaukiojo po Bal­
-    tijos jūrą, nėra abejonės, nes tai aiškiai liudija Plinijus. Kad
-    Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry­
-    šius su Prūsijos gyventojais, renkančiais gintarą, taip pat tie­
-    sa7.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177189
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Reikėtų surasti vidurį tarp tų dviejų
     kraštutinumų.

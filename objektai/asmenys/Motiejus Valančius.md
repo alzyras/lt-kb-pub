@@ -1,13 +1,18 @@
 ---
 tipas: asmuo
-pavadinimas: 'Motiejus Valančius'
+pavadinimas: 'Motiejus Valančius (vyskupas, XIX a.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lenkai Lietuvoje Dr. J. Basanavičius'
 datos:
-  - '1863 m.'
-  - '1864 m.'
-date_start: '1863'
-date_end: '1864'
+  - '1849 m.'
+  - '1865 m.'
+date_start: '1849'
+date_end: '1865'
+variantai:
+  - 'Motiejus Valančius'
+aliases:
+  - 'Motiejus Valančius'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,7 +35,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Motiejus Valančius
+# Motiejus Valančius (vyskupas, XIX a.)
 
 ## Santrauka
 
@@ -65,85 +70,13 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginys: "Valančius, perpratęs valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios brukamas knygas katalikui yra nuodėmė."
   pagrindžia:
     - c-176360
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo europietiškos katalikiškos civilizacijos šalininkas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Romantikas S. Daukantas savo
-    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
-    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
-    europietiškos katalikiškos civilizacijos šalininkas. Savo pirmąjį inaugura-
-    cinį pamokslą vyskupas M. Valančius sakė ir lietuviškai, ir lenkiškai. Lie-
-    tuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo
-    bene pirmą kartą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-200891"></a>
+- t-005
+  global_id: t-200891
+  teiginys: "1849 m. Žemaičių vyskupu paskirtas Motiejus Valančius Kauno vyskupystėje rado lenkų kalbą vyraujant bažnyčių pamoksluose ir giesmėse."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Valančius niekur nepasisakė prieš caro valdžią, pagarbiai bendravo su jos atstovais, tačiau kietai ir atkakliai gynė Katalikų bažnyčios interesus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gyventojų bendrumo mobilizacijos sėkmė ėmė gąsdinti caro admi-
-    nistraciją, vyskupas jau buvo pravardžiuojamas Žemaitijos kunigaikš-
-    čiu. M. Valančius niekur nepasisakė prieš caro valdžią, pagarbiai ben-
-    dravo su jos atstovais, tačiau kietai ir atkakliai gynė Katalikų bažnyčios
-    interesus. Jis matė, kad caro valdžia ne tik atvirai proteguoja Rusų sta-
-    čiatikių bažnyčią, bet ir siekia sustiprinti jos pozicijas katalikų erdvė-
-    je, o paprasta liaudis šioje kovoje tampa svarbiausia jėga. Tai išryškės
-    po 1863 m., kai vyskupo slapta paraginta liaudis nepasiduos caro val-
-    džios vilionėms ir iš esmės sužlugdys rusinimo politikos užmačias. O
-    vyskupo raginimų laikytasi, nes jis savo ankstesne veikla tapo liaudžiai
-    visomis prasmėmis artimu ir neginčijamu autoritetu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valdžiai nepavyko į savo pusę patraukti valstiečių – mat didelės dalies
-    etninės Lietuvos kaimo gyventojams vyskupo M. Valančiaus pastangomis
-    buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba. Po 1863–
-    1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų
-    rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias
-    mokyklas neleisti. O kad neliktų beraščiai, patiems kaimuose organizuoti
-    slaptas mokyklėles, kur rašto pamokytų koks nors jo mokantis kaimietis.
-    Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Valančius, perpratęs valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios brukamas knygas katalikui yra nuodėmė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    M. Valančius, perpratęs
-    valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios
-    brukamas knygas katalikui yra nuodėmė. Todėl jų bemaž niekas ir ne-
-    skaitė. O neturėdama skaitytojų valdžia jų išleido vos 60.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
+    - c-184234
 
 ## Citatos
 
@@ -224,3 +157,30 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193691
+
+- id: c-184234
+  autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
+  šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
+  puslapiai: "PDF 27"
+  indeksas: "Jonas Basanavičius; V. Gintautas (vertė), Lenkai Lietuvoje Dr. J. Basanavičius, PDF 27."
+  citata_originali: |
+    Kauno vyskupystēje, paskirtasis 1849 m. Ż e­
+    maičių vyskupu M. Valančius atrado pilną viešpa­
+    tavim ą lenkiškosios kalbos visose bażnyčiose: pa­
+    mokslai buvo lenkiškai sakomi, giesmēs giedamos
+    lenkiškos, nors tik koks 2-3% gyventojų suprato
+    tą kalbą.
+    Valančiui reikējo sunkiai trustis, iki jis
+    galējo įvesdint lietuviškąją kalbą pridėtinėje diev-
+    m aldystēje, o tulose bażnyčiose lenkiškoji kalba
+    użsilaikė net iki 1865 m. Valančiui m irus, valdant
+    Kauno vyskupystę apsilenkinusiam iki kaulų sm e­
+    genų suffraganui Beresnevičiui, tulose lietuviškose
+    bażnyčiose [Kaune, Vendżiogaloje, L abunave ir
+    k.] vēl įvesta tapo lenkiška kalba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200891

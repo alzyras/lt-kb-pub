@@ -52,6 +52,7 @@ Norvegija šiame šaltinyje yra valstybė.
   teiginys: "1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose."
   pagrindžia:
     - c-178056
+- susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-198563|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
 ## Citatos
 
 - id: c-178056
@@ -81,12 +82,7 @@ Norvegija šiame šaltinyje yra valstybė.
     vasarą pradėjęs lietuvių kalbos studijas
     kažkur Lietuvos šiaurėje;
     1901 m. vasarą keliavo po Archangelsko guberniją, rinkdamas dainas
-  citata_rodoma: "1899 m. vasarą padarė
-kelionę į Estų salas (Eželį), kur rinko estų liaudies dainas; tais pa­
-čiais metais dirbo Švedijos
-ir
-Norvegijos
-knygynuose;"
+  citata_rodoma: "1899 m. vasarą padarė \nkelionę į Estų salas (Eželį), kur rinko estų liaudies dainas; tais pa­\nčiais metais dirbo Švedijos \nir \nNorvegijos \nknygynuose;"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

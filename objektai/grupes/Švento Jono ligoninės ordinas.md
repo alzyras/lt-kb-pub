@@ -51,41 +51,19 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
 - susijęs iš [[objektai/ivykiai/Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.).md#claim-t-183968|Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.)]]: 1312 m. kovo 23 d. Vieno suvažiavime popiežius Klemensas V paskelbė Tamplierių ordino panaikinimo parengiamąjį veiksmą.
 - susijęs iš [[objektai/ivykiai/Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.).md#claim-t-62932|Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.)]]: 1312 m. kovo 23 d. Vieno suvažiavime popiežius Klemensas V paskelbė Tamplierių ordino panaikinimo parengiamąjį veiksmą.
 - susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72082|Joanitų ordinas]]: Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Švento Jono ligoninės ordinas siejamas su 1104 m. popiežiaus Urbono II laikais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
-      Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
-    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
-    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
-    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
-      Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
-    Henriko VI laikais (Dusb.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59680
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 227"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
-      Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
+    Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
     popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
     pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
     sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
-      Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
+    Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
     Henriko VI laikais (Dusb.
   citata_rodoma: "Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.\n  Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino\npopiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo\npontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis\nsprendimas, bet apaštališkojo sosto parengiamasis veiksmas."
   statusas: verified

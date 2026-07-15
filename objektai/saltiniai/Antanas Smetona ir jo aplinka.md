@@ -51,24 +51,6 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
   teiginys: "A. Eidinto knyga „Antanas Smetona ir jo aplinka“ išleista Vilniuje 2012 metais."
   pagrindžia:
     - c-23730
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio
-    „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsienio reikalų
-    ministerija), 2001; Lietuva, 1991 sausio 13. Dokumentinė medžiaga. Vilnius: Spaudos
-    departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
-    ir A. Eidinto, A. Bumblausko asmeninių archyvų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

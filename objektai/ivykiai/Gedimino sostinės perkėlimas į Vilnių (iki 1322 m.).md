@@ -71,57 +71,6 @@ Nenurodyta
   teiginys: "Gediminas perkėlė savo sostinę į Vilnių."
   pagrindžia:
     - c-167708
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Zenonas Ivinskis rašė, kad nuo XIX a. Vilniaus įkūrimo legenda siejama su Pilies kalno medžiokle ir Gedimino Geležinio vilko sapnu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo
-    į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
-    «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio
-    vilko » sapno yra nebeįsivaizduojama.
-    Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
-    jau buvo perkėlęs savo sostinę^15.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
-    jau buvo perkėlęs savo sostinę^15. Kai rytiniame savo šone Lietuva
-    vis daugiau įgijo žemių, reikėjo ir sostinei parinkti vietą labiau
-    etnografinių lietuvių žemių rytuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Gediminas perkėlė savo sostinę į Vilnių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gediminas Vilniun
-    jau buvo perkėlęs savo sostinę^15. Kai rytiniame savo šone Lietuva
-    vis daugiau įgijo žemių, reikėjo ir sostinei parinkti vietą labiau
-    etnografinių lietuvių žemių rytuose.
-    Gedimino mirties aplinkybės nėra žinomos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 

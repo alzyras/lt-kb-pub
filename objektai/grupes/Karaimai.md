@@ -74,6 +74,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   teiginys: "Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis."
   pagrindžia:
     - c-22441
+    - c-166524
 
 <a id="claim-t-120189"></a>
 - t-006
@@ -88,13 +89,6 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   teiginys: "Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
   pagrindžia:
     - c-31094
-
-<a id="claim-t-183139"></a>
-- t-008
-  global_id: t-183139
-  teiginys: "Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis."
-  pagrindžia:
-    - c-166524
 - susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23196|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės.
 - susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23197|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės ir gyveno 1525–1586 m.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176715|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.
@@ -118,164 +112,9 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 - susijęs iš Luckas: Per žygį paimti karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
 - susijęs iš Luckas: Ivinskio teigimu, 1398 m. žygyje paimti karaimai veikiausiai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
 - susijęs iš Luckas: To žygio metu paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
-- susijęs iš Trakai: To žygio metu paimti karaimai, tikėtina, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
-- susijęs iš Trakai: To žygio metu paimti karaimai, kaip spėjama, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
 - susijęs iš Vakarų Europa: Vakarų Europos XVI a. religinį nepakantumą simbolizavo 1572 m. Baltramiejaus naktis Paryžiuje.
 - susijęs iš [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas.md#claim-t-22099|daugiakonfesiškumas daugiakultūriškumas]]: Lenkijoje ir Lietuvoje tolerancijos ribos siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
 - susijęs iš [[objektai/zodynas/daugiakonfesiškumas.md#claim-t-22100|daugiakonfesiškumas]]: Lenkijoje ir Lietuvoje tolerancijos ribos siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė be-
-    raštės visuomenės savimonė. Didieji kunigaikščiai, reikšdami teritorines
-    pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
-    mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
-    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
-    kurie tapo artimosios sargybos tautomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Aišku,
-    šios mažumos į LDK persikėlė iš Lenkijos ir galbūt iš Vengrijos, todėl
-    natūralu, kad čia jų būta mažiau. Tačiau XVII–XVIII a. bent jau Vilnius
-    prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
-    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net
-    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
-    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
-    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žygimanto Augusto privilegija, sulyginusi visų
-    krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos
-    Statutų teisine norma. Jau Pirmasis Lietuvos Statutas (1529), dar neži-
-    nant reformacijos, skiriamas ne tiktai katalikų, bet ir ortodoksų bajorijai.
-    Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-
-    čioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės
-    bendruomenės ir religija toleruojamos nuo XIV a. pabaigos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
-    tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
-    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-005
-  santrauka: 'Karaimai į Lietuvą atkeliavo iš rytų, o jų atvykimas šaltinyje siejamas su Vytauto valdymo laikais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jakob Levi, iš Vilniaus, 1427
-    m. rašė hebrajiškas knygas ir turėjo
-    Moreno, t. y. teologijos daktaro, var­
-    dą. Bet Vytauto privilegija negalio­
-    jo žydų kitai sektai, vadinamai ka­
-    raimais, Lietuvoje, Trakų mieste, ir
-    labai menkoje Vilniaus dalyje įsikū-
-    rusiems. Tie karaimai, kurie išties
-    galėtų būti vadinami žvdų disiden­
-    tais, atkeliavo į Lietuvą iš rytų, o
-    įvairias aplinkybes įvertinęs, numa­
-    nau, kad jų atvykimą reikėtų Vytau­
-    to viešpatavimo laikams priskirti,
-    juk šis kunigaikštis, kurio valdžia
-    siekė tolimus rytų kraštus, noriai
-    priimdavo ateivius iš tų šalių ir juos
-    priglobdavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Bet Vytauto privilegija negalio­
-    jo žydų kitai sektai, vadinamai ka­
-    raimais, Lietuvoje, Trakų mieste, ir
-    labai menkoje Vilniaus dalyje įsikū-
-    rusiems. Tie karaimai, kurie išties
-    galėtų būti vadinami žvdų disiden­
-    tais, atkeliavo į Lietuvą iš rytų, o
-    įvairias aplinkybes įvertinęs, numa­
-    nau, kad jų atvykimą reikėtų Vytau­
-    to viešpatavimo laikams priskirti,
-    juk šis kunigaikštis, kurio valdžia
-    siekė tolimus rytų kraštus, noriai
-    priimdavo ateivius iš tų šalių ir juos
-    priglobdavo. Karaimai, gyvenantys
-    Trakuose, nors skurdžiai būdami ir
-    ne taip pašėlusiai besigriebiantys ri­
-    zikingiausių prekybinių sumany­
-    mų, kaip žydai, yra betgi garbingi,
-    ramūs ir darbštūs; gyvena Trakuo­
-    se, manydamiesi iš daržų, kur gau­
-    siai dera agurkai, kuriuos vežimais
-    į Vilniaus turgus gabena.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-007
-  santrauka: 'Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Didieji kunigaikščiai, reikšdami teritorines
-    pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
-    mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
-    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
-    kurie tapo artimosios sargybos tautomis. Nepasitikėta ir savųjų įgūdžiais,
-    todėl valdovai kvietė pirklius ir amatininkus iš svetur.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
 ## Citatos
 
 - id: c-22441
@@ -415,8 +254,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-120186
     - t-120185
+    - t-120186
 
 - id: c-166524
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -433,9 +272,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183139
 
 ## Ryšiai
 - Karaimai keliavo į [[objektai/vietos/Lietuva]]
-- Karaimai gyveno [[objektai/vietos/Luckas]], [[objektai/vietos/Trakai]]
+- Karaimai gyveno [[objektai/vietos/Trakai]]

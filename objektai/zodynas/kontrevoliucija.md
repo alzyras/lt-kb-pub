@@ -40,9 +40,9 @@ Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisek
 
 ## Teiginiai
 
-<a id="claim-t-36797"></a>
+<a id="claim-t-36795"></a>
 - t-001
-  global_id: t-36797
+  global_id: t-36795
   teiginys: "Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui."
   pagrindžia:
     - c-38743
@@ -53,53 +53,6 @@ Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisek
   teiginys: "Jogailos kontrevoliucijos sėkmei daug įtakos turėjo vokiečių Rygos pirkliai, prekiavę su Vilniumi."
   pagrindžia:
     - c-38742
-
-<a id="claim-t-36797"></a>
-- t-003
-  global_id: t-36797
-  teiginys: "Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui."
-  pagrindžia:
-    - c-38743
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuo tarpu Vilniuje, dar sti­
-    pri Jogailos partija ir visi Kęstučio priešai apie ją susispietę,
-    pasinaudodami Vytauto iš miesto išvykimu, Jogailos vardu
-    užėmė pilį. Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
-    sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
-    varė gyvą ir didelę prekybą su Vilniaus miestu. Nepatenkinti
-    lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos
-    reikalams, jie laukė tik progos padėti Jogailai atgauti valdžią,
-    kurio jie anksčiau buvo stipriai palaikomi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Iš Jogailos pažadėtos pagalbos negavęs, jis ne tik Dimitro ne­
-    nuveikė, bet dar turėjo nuostolių. Tuo tarpu Vilniuje, dar sti­
-    pri Jogailos partija ir visi Kęstučio priešai apie ją susispietę,
-    pasinaudodami Vytauto iš miesto išvykimu, Jogailos vardu
-    užėmė pilį. Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
-    sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
-    varė gyvą ir didelę prekybą su Vilniaus miestu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
 
 ## Citatos
 
@@ -145,5 +98,4 @@ Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36797
     - t-36795

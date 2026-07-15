@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Po chano Saladino mirties Užvolgio skitai suskilo į grupes, palaikiusias skirtingus mirusio valdovo sūnus. Vytautas Vilniuje priėmė Tochtamyšą, pažadėjo jam paramą ir paskelbė Užvolgio skitų chanu.
+Po chano Saladino mirties Užvolgio skitai suskilo į grupes, palaikiusias skirtingus mirusio valdovo sūnus. Vytautas Vilniuje priėmė Tochtamyšą, pažadėjo jam paramą ir paskelbė Užvolgio skitų chanu. Po chano Saladino mirties Užvolgio skitai suskilo grupėmis, kurios skirtingus mirusio valdovo sūnus siūlė sosto įpėdiniais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -61,72 +61,28 @@ Nenurodyta
   teiginys: "Vytautas Vilniuje priėmė Tochtamyšą, pažadėjo jam paramą ir paskelbė Užvolgio skitų chanu."
   pagrindžia:
     - c-169007
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Po chano Saladino mirties Užvolgio skitai suskilo į grupes, palaikiusias skirtingus mirusio valdovo sūnus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Užvolgio skitai,
-    netekę mirusio chano Saladi-
-    1419 m eta i
-    no, suskilo atskiromis grupė-
-    S k itų  ta u to m s V y ta u -
-    mis: vieni vieną, kiti kitą
-    tas p a s k y r ė  v a ld o v u s
-    mirusio valdovo sūnų siūlė
-    sosto įpėdiniu. Kerim Berdis,
-    galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
-    pasiekti geruoju. Jo brolis Tochtamyšas, nesitikėdamas
-    savo jėgomis nieko laimėti ir nepajėgdamas susitaikyti
-    su likimu ar pašalinti varžovą, pabėgo pas Vytautą kar­
-    tu su svarbiausiais savo šalininkais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196259"></a>
+- t-003
+  global_id: t-196259
+  teiginys: "Po chano Saladino mirties Užvolgio skitai suskilo grupėmis, kurios skirtingus mirusio valdovo sūnus siūlė sosto įpėdiniais."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vytautas Vilniuje priėmė Tochtamyšą, pažadėjo jam paramą ir paskelbė Užvolgio skitų chanu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vytautas, ne vieną
-    kartą ligi tol patyręs šios tautos tvirtą palankumą ir
-    sulaukęs karo metais pagalbos, suprato, jog valstybei
-    būsianti didelė nauda, jeigu palenks į save šios tautos
-    vadą, jį užstodamas. Štai todėl maloniai ir noriai priėmė
-    Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu­
-    les iškilmes, uždėjo jam perlais bei brangakmeniais nu­
-    sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap­
-    rastai vadinamu caru) ir pakėlė į valdovus. Tochtamy­
-    šas sugrįžo į tėvynę, svajodamas apie valdžią, tačiau be
-    savo krašto kariuomenės, o lydimas Vytauto pulkų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-169007
 
 ## Citatos
 
 - id: c-169006
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 396"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Užvolgio skitai,
     netekę mirusio chano Saladi-
     1419 m eta i
     no, suskilo atskiromis grupė-
-    S k itų  ta u to m s V y ta u -
+    S k itų ta u to m s V y ta u -
     mis: vieni vieną, kiti kitą
-    tas p a s k y r ė  v a ld o v u s
+    tas p a s k y r ė v a ld o v u s
     mirusio valdovo sūnų siūlė
     sosto įpėdiniu. Kerim Berdis,
     galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
@@ -144,23 +100,30 @@ Nenurodyta
 - id: c-169007
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 396"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vytautas, ne vieną
-    kartą ligi tol patyręs šios tautos tvirtą palankumą ir
-    sulaukęs karo metais pagalbos, suprato, jog valstybei
-    būsianti didelė nauda, jeigu palenks į save šios tautos
-    vadą, jį užstodamas. Štai todėl maloniai ir noriai priėmė
-    Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu­
-    les iškilmes, uždėjo jam perlais bei brangakmeniais nu­
-    sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap­
-    rastai vadinamu caru) ir pakėlė į valdovus. Tochtamy­
-    šas sugrįžo į tėvynę, svajodamas apie valdžią, tačiau be
-    savo krašto kariuomenės, o lydimas Vytauto pulkų.
+    Mat juodi debesys ap­
+    traukė dangų, pakilo nepaprasta audra, sugriaudėjo
+    perkūnas, ir žaibas nutrenkė du karaliaus kinkinio pa­
+    lydovus, keturis arklius iš šešių ir penktą ginklanešio
+    žirgą.
+    Sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek
+    pailsėjo ir patraukė iš vakarų į rytus. Užvolgio skitai,
+    netekę mirusio chano Saladi-
+    1419 m eta i
+    no, suskilo atskiromis grupė-
+    S k itų ta u to m s V y ta u -
+    mis: vieni vieną, kiti kitą
+    tas p a s k y r ė v a ld o v u s
+    mirusio valdovo sūnų siūlė
+    sosto įpėdiniu. Kerim Berdis,
+    galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
+    pasiekti geruoju.
+  citata_rodoma: "Sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek \npailsėjo ir patraukė iš vakarų į rytus. Užvolgio skitai,\nnetekę mirusio chano Saladi- \n1419 m eta i \nno, suskilo atskiromis grupė-\nS k itų ta u to m s V y ta u - \nmis: vieni vieną, kiti kitą \ntas p a s k y r ė v a ld o v u s \nmirusio valdovo sūnų siūlė\nsosto įpėdiniu. Kerim Berdis, \ngalingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo \npasiekti geruoju."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185646
+    - t-196259

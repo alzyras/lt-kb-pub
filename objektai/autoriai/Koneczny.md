@@ -39,26 +39,6 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 - susijęs iš [[objektai/autoriai/Danilavičius.md#claim-t-35432|Danilavičius]]: Danilavičius ir Koneczny šią sutartį laikė falsifikatu, nors Prochaska ją priėmė kaip autentišką.
 - susijęs iš F. Koneczny, Jagiełło i Witołd: F. Koneczny veikalas „Jagiełło i Witołd“ buvo išleistas Lvove 1893 m.
 - susijęs iš [[objektai/autoriai/Prochaska.md#claim-t-35473|Prochaska]]: Prochaska, vadinamas dideliu Vytauto epochos žinovu, dokumentą priėmė kaip autentišką.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kiek vėliau padary­
-    tas jo nuorašas aprašo keturias antspaudas, tarp kurių pirmoje
-    vietoje yra Vytauto: Sigillum Vitowdi ducis in Tracken.
-    Dėl šitos sutarties autentiškumo keliama abejonių. Is­
-    torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;
-    tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip
-    autentišką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38192

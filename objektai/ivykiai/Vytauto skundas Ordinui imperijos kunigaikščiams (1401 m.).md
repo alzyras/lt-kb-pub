@@ -58,27 +58,6 @@ Nenurodyta
   teiginys: "1401 m. Vytautas apskundė Ordiną imperijos kunigaikščiams, kad šis Žemaitijos suvereno padėtį išnaudoja Lietuvos ir krikščionybės nenaudai."
   pagrindžia:
     - c-35789
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kaip tik po Vorsklos ka­
-    tastrofos jo būklė kiek pagerėjo, jis tuojau atsigręžė prie tų
-    pačių žemaičių ir pradėjo ilgą diplomatišką kovą, apskųsda­
-    mas 1401 m. Ordiną imperijos kunigaikščiams, kad jis Žemaitijos
-    suvereno padėtį išnaudojąs Lietuvos ir krikščionybės nelabui.^1 )
-    Tos ilgos ir labai įdomios diplomatiškos kovos metu (jos metu
-    buvo ne vienas ir ginkluotas susirėmimas) Vytautas
-    pasistatė kadaise Gedimino turėtą tikslą — diskredituoti Ordiną
-    vakaruose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

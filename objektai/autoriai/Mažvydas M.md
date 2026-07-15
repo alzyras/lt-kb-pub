@@ -6,13 +6,13 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+amziai:
+  - 'M'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - rašytojas
-amziai:
-  - 'M'
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -48,25 +48,8 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
   teiginys: "M. Mažvydo 1549 m. lotyniškuose laiškuose Ragainė vadinta formomis „Ragneta“ ir „in Ragnet“."
   pagrindžia:
     - c-61246
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'M. Mažvydo 1549 m. lotyniškuose laiškuose Ragainė vadinta formomis „Ragneta“ ir „in Ragnet“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
-    Pirmoji.., p. 251, 257). Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
-    Ambraziejaus”). Manoma, kad vardas atėjęs iš Lietuvos (Salys A., Skalva, p. 537), bet
-    Semboje buvusi Ragayne (GAO, p. 137, plg. taip pat Ragow — ten pat), Rogayne (1312
-    m.—SU, 1, Nr. 215, p. 128), Rogayn, Rogow (ten pat, p. 143), Reginge (GAO, p. 140).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: 'M. Mažvydas 1547 m. burtininkę vadino šventąja.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -86,8 +69,7 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
 - id: c-61246
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
     Pirmoji.., p. 251, 257). Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
@@ -104,11 +86,14 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
 - id: c-61247
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 63"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    M. Mažvydas
-    (1547) burtininkę vadina šventąja (Mažvydas M., Pirmoji lietuviška knyga, p. 104—105).
+    kuo rimčiausiai užtarti dėl šio dalyko. Ši, užjausdama savąją lytį, sušaukė pas save visos
+    žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir
+    kitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos
+    paklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė į
+    kaimynų krikščionių žemes.
+  citata_rodoma: "M. Mažvydas\n(1547) burtininkę vadina šventąja (Mažvydas M., Pirmoji lietuviška knyga, p. 104—105)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -45,23 +45,6 @@ media_all_json: |-
   teiginys: "O. Laskowskio „Grunwald“ išleistas Varšuvoje 1929 m. ir apibūdintas kaip išsamus strateginis tyrinėjimas."
   pagrindžia:
     - c-33676
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    : _Wojna 1410,_
-    Rocznik Towarz. Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,
-    O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —
-    Majewski, W. : _Kilka uwag o bitwie pod Grunwaldem,_ Zapiski Historycz­
-    ne, t. 25, zesz.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

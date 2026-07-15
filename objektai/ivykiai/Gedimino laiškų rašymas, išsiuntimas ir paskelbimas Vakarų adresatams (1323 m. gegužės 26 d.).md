@@ -57,43 +57,6 @@ Nenurodyta
   teiginys: "Gedimino laiškai dominikonams, pranciškonams ir Hanzos miestams buvo užfiksuoti 1323 m. notaro parengtame dokumente."
   pagrindžia:
     - c-82954
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Gedimino laiškai dominikonams, pranciškonams ir Hanzos miestams buvo užfiksuoti 1323 m. notaro parengtame dokumente.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Strijkovskis, 1. 406, pri­
-    simena dar vieną Gedimino dukrą,
-    kuri esą buvusi anuomet garbingo
-    riterio Dovydo, Gardino kašteliono,
-    arba tiksliau kunigaikščio, viešpata­
-    vusio Gardino valdoje, žmona.
-    Il
-    Gedimino laiškuose, rašytuose do­
-    minikonų ir Mažesniųjų brolių, ar­
-    ba pranciškonų, ordinams bei Han­
-    zos miestams, kurių autentiškas
-    1323 metais notaro parengtas doku­
-    mentas yra Karaliaučiaus Slaptaja-
-    -  •  -
-    20
-
-    ## Puslapis 37
-
-    I  KNYGA
-    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
-    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
-    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
-    me archyve ir kuriuos Kotzebue
-    išspausdino savo Prūsijos istorijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -42,22 +42,6 @@ Du mediniai ir trys geležiniai kryžiai/ Atsiminimai iš Lietuvos nepriklausomy
   teiginys: "Antano Šukio „Du mediniai ir trys geležiniai kryžiai“ yra atsiminimai apie Lietuvos nepriklausomybės kovas 1919-1921 metais."
   pagrindžia:
     - c-41683
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    NEPRIKLAUSOMYBĖS KOVOS
-
-    P. 175, „SAVANORIAI VERŽIASI Į KOVĄ“, Šukys A. Du mediniai ir trys geležiniai kryžiai/
-    Atsiminimai iš Lietuvos nepriklausomybės kovų 1919-1921 metais. London. 1964, p. 28.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

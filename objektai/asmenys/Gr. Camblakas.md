@@ -36,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Camblakas.
+Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kėlė aptariamą klausimą. 1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką. Camblako stačiatikių delegaciją, turėjusią pagrįsti siekį gyventi unijoje su Katalikų bažnyčia.
 
 ## Teiginiai
 
@@ -47,114 +47,45 @@ Camblakas.
   pagrindžia:
     - c-32732
 
-<a id="claim-t-193390"></a>
-- t-002
-  global_id: t-193390
-  teiginys: "Suvažiavime d ū k o s u v a ž ia v im e suėmė Grigorijų Fotijų, Ki jevo metropolitą, Rusioje 3 9 2 kursčiusį ir plėtusį religinį bruzdėjimą, ir, baudžiant už šį nusikaltimą, pašalino visuotiniu pritarimu iš pareigų."
-  pagrindžia:
-    - c-176114
-
 <a id="claim-t-193621"></a>
-- t-003
+- t-002
   global_id: t-193621
   teiginys: "1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką."
   pagrindžia:
     - c-176292
 
 <a id="claim-t-193622"></a>
-- t-004
+- t-003
   global_id: t-193622
   teiginys: "Camblako stačiatikių delegaciją, turėjusią pagrįsti siekį gyventi unijoje su Katalikų bažnyčia."
   pagrindžia:
     - c-176293
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dar Konstancos susirinkime Vytauto vardu
-    tą klausimą rūpestingai kėlė metropolitas Gr. Camblakas.
-    Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­
-    jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
-    vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
-    juos iš Maž.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Suvažiavime d ū k o s u v a ž ia v im e suėmė Grigorijų Fotijų, Ki jevo metropolitą, Rusioje 3 9 2 kursčiusį ir plėtusį religinį bruzdėjimą, ir, baudžiant už šį nusikaltimą, pašalino visuotiniu pritarimu iš pareigų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Suvažiavime
-    d ū k o  s u v a ž ia v im e
-    suėmė Grigorijų Fotijų, Ki­
-    jevo
-    metropolitą,
-    Rusioje
-    3 9 2
-
-    ## Puslapis 391
-
-    kursčiusį ir plėtusį religinį bruzdėjimą, ir, baudžiant už
-    šį nusikaltimą, pašalino visuotiniu pritarimu iš pareigų.
-    Jo įpėdiniu tapo bulgaras Grigorijus Camblakas, žmogus,
-    išgarsėjęs kaip didelis šventųjų mokslų žinovas. Jis ne­
-    trukus ir Romoje, ir generaliniame bažnytiniame suva­
-    žiavime smarkiai pasidarbavo Rytų bei Vakarų bažny­
-    čių suartėjimo reikalu pasiųstas ten savo tautos suva­
-    žiavimo ir kunigaikščio Vytauto.
+    Nuo seno įpratę
+    teikti šventuosius sakramentus pagal graikų papročius,
+    rusų šventikai bei vienuolynų viršininkai priėmė ir vi­
+    sus kitus graikų paklydimus, kaip ir šie, atsisakė Vytau­
+    to valdose klausyti popiežiaus ir bendrauti su Romos
+    bažnyčia. Didžiai dėl to susikrimto Vytautas, žinodamas,
+    jog šitoks įžūlumas ardo tą statinį, kurį jis bei karalius
+    Jogaila, siekdami valdinių santarvės, surentė po visa­
+    pusiško apmąstymo tikrojo tikėjimo naudai. Kadangi
+    šias negeras naujoves vykdė ne paprasti žmonės, o žy­
+    mieji vyskupai, ypač tie, kurie kilę iš graikų, užkirsti
+    kelią plintančiai blogybei buvo galima ne kitaip, kaip
+    sukvietus viešą pačių ganytojų suvažiavimą.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: '1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1415 m. Naugarduke sušaukęs LDK stačiatikių
-    vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
-    paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-
-    blaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
-    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
-    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o
-    G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
-    bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
-    idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Camblako stačiatikių delegaciją, turėjusią pagrįsti siekį gyventi unijoje su Katalikų bažnyčia.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1418 m. Vytautas siunčia į
-    Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
-    grįsti siekį gyventi unijoje su Katalikų bažnyčia. G. Camblako ekume-
-    ninės mišios Konstanco katedroje amžininkams paliko tokį įspūdį, kad
-    imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis
-    prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
-    lių bendriją vaizduojančią Strasbūro freską.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
+    - t-006
 
 ## Citatos
 
@@ -176,36 +107,6 @@ Camblakas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30257
-
-- id: c-176114
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Suvažiavime
-    d ū k o  s u v a ž ia v im e
-    suėmė Grigorijų Fotijų, Ki­
-    jevo
-    metropolitą,
-    Rusioje
-    3 9 2
-
-    ## Puslapis 391
-
-    kursčiusį ir plėtusį religinį bruzdėjimą, ir, baudžiant už
-    šį nusikaltimą, pašalino visuotiniu pritarimu iš pareigų.
-    Jo įpėdiniu tapo bulgaras Grigorijus Camblakas, žmogus,
-    išgarsėjęs kaip didelis šventųjų mokslų žinovas. Jis ne­
-    trukus ir Romoje, ir generaliniame bažnytiniame suva­
-    žiavime smarkiai pasidarbavo Rytų bei Vakarų bažny­
-    čių suartėjimo reikalu pasiųstas ten savo tautos suva­
-    žiavimo ir kunigaikščio Vytauto.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193390
 
 - id: c-176292
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

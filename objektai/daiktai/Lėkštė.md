@@ -54,8 +54,9 @@ Nenurodyta
   global_id: t-195341
   teiginys: "Vestuvių vakarienės indas ir gervės vaidinimo taikinys ant stalo."
   pagrindžia:
-    - c-177743
     - c-177742
+    - c-177743
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

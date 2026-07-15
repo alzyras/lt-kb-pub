@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Aleksandras nemaža laiko išstovėjo Braclave ir atstatė Braclavo miestą. Iš Braclavo į Moldaviją išvaryti žmonės sugrįžo į miestą.
+Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir pasakoja, kad jis nemažai laiko praleido Braclave bei atstatė miestą. Didysis kunigaikštis Aleksandras išstovėjo Braclave nemaža laiko ir atstatė Braclavo miestą; visi žmonės, kurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo į Braciavą.
 
 ## Laikotarpis ir datos
 
@@ -57,55 +57,19 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-186661"></a>
-- t-001
-  global_id: t-186661
-  teiginys: "Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių."
-  pagrindžia:
-    - c-169917
-
-<a id="claim-t-186662"></a>
-- t-002
-  global_id: t-186662
-  teiginys: "Lietuvos metraščio pasakojime visi iš Braclavo į Moldaviją išvaryti žmonės sugrįžo į Braclavą po miesto atstatymo."
-  pagrindžia:
-    - c-169917
-
 <a id="claim-t-186663"></a>
-- t-003
+- t-001
   global_id: t-186663
   teiginys: "Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir pasakoja, kad jis nemažai laiko praleido Braclave bei atstatė miestą."
   pagrindžia:
     - c-169917
 
 <a id="claim-t-193849"></a>
-- t-004
+- t-002
   global_id: t-193849
   teiginys: "Didysis kunigaikštis Aleksandras išstovėjo Braclave nemaža laiko ir atstatė Braclavo miestą; visi žmonės, kurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo į Braciavą."
   pagrindžia:
     - c-169917
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didysis kunigaikštis Aleksandras išstovėjo Braclave
-    nemaža laiko ir atstatė Braclavo miestą; visi žmonės,
-    kurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo
-    į Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo
-    Braclavo, lietuviai sumušė kelis šimtus totorių. O pas­
-    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
-    vą 3 9 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-    - t-001
-    - t-004
 
 ## Citatos
 
@@ -114,13 +78,18 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Didysis kunigaikštis Aleksandras išstovėjo Braclave
-    nemaža laiko ir atstatė Braclavo miestą; visi žmonės,
-    kurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo
-    į Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo
-    Braclavo, lietuviai sumušė kelis šimtus totorių. O pas­
-    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
-    vą 3 9 .
+    Ir tuo metu
+    sučiupo vieną liežuvį iš Maskvos kariuomenės, vardu
+    Hermaną, buvusį Bagdono Sapiegos24 raštininką, pabė­
+    gusį į Maskvą. Štai ką tas liežuvis papasakojo jiems
+    apie Maskvos kariuomenę:
+    „Maskvos didžiojo kunigaikščio vaivada Jurijus Za­
+    chariničius ilgokai stovėjo prie Dorohobužo su maža
+    žmonių. O užvakar jam į pagalbą atvyko kiti žymūs
+    vaivados — kunigaikštis Danielius Vasiljevičius Sče-
+    nia 25 ir Peremišlio kunigaikštis Ivanas Michailovičius26
+    su daugeliu kitų vaivadų ir žmonių, ir jie visi jau stovi
+    vienoje vietoje prie Dorohobužo.
   citata_rodoma: "Didysis kunigaikštis Aleksandras išstovėjo Braclave \nnemaža laiko ir atstatė Braclavo miestą; visi žmonės, \nkurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo \nį Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo \nBraclavo, lietuviai sumušė kelis šimtus totorių. O pas­\nkui didysis kunigaikštis Aleksandras sugrįžo į Lietu­\nvą 3 9 ."
   statusas: verified
   teiginio_tipas: faktas
@@ -128,6 +97,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186663
-    - t-186662
-    - t-186661
     - t-193849

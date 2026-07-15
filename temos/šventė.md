@@ -6,8 +6,8 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 57
-graph_hub: true
+tema_objektu_skaicius: 70
+graph_hub: false
 sukurta: '2026-04-26'
 tags: []
 ---
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 57.
+Objektų skaičius: 70.
 
 ## Kaip naudoti
 
@@ -24,6 +24,16 @@ Objektų skaičius: 57.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Augustinas]]
+- [[objektai/asmenys/Bernardas]]
+- [[objektai/asmenys/Domininkas]]
+- [[objektai/asmenys/Gotfridas Hohenlohė]]
+- [[objektai/asmenys/Jeronimas]]
+- [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
+- [[objektai/asmenys/Pranciškus]]
+- [[objektai/asmenys/Šv. Kazimieras]]
 
 ### Papročiai
 - [[objektai/paprociai/Altambo šventės vaidinimai, mugė ir procesija tarp Trakų ir Vilniaus]]
@@ -38,19 +48,20 @@ Objektų skaičius: 57.
 - [[objektai/paprociai/Gedulinga žemaičių skerstuvių šventė ruošiant vaišių stalą]]
 - [[objektai/paprociai/Gelonų ir budinų helenų dievų šventovės bei Dioniso šventė]]
 - [[objektai/paprociai/Gelonų medinės helenų dievų šventovės ir kas trejus metus švenčiama Dioniso šventė]]
+- [[objektai/paprociai/Iškilmingi festynai su spektakliais, dialogais ir fejerverkais]]
 - [[objektai/paprociai/Jėzuitų pamokslininko siuntimas į Šv. Onos bažnyčią sekmadieniais ir per šventes]]
 - [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
 - [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
 - [[objektai/paprociai/Kapinių šventinimas ir kapų šlakstymas švęstu vandeniu]]
-- [[objektai/paprociai/Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas]]
-- [[objektai/paprociai/Kasmet minimos Dioniso (Bacho) šventės ir bakchanalijos budinų tvirtovėse]]
-- [[objektai/paprociai/Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis|Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis (pilis)]]
-- [[objektai/paprociai/Klaipėdos krašto lietuvinimas per kalbos ir švenčių dalyvavimo nurodymus tarnautojams]]
-- [[objektai/paprociai/Kristaus kūno šventės šventimas]]
-- [[objektai/paprociai/Kūčių dienos ir vakarienės apeigos]]
-- [[objektai/paprociai/Lados laikotarpio baltų gaidžių aukos, viešos puotos, šokiai ir dainos]]
-- [[objektai/paprociai/Lalavimas per Velykas kaip burtininkų procesijų pamėgdžiojimas]]
-- [[objektai/paprociai/Maldininko įžadų vykdymas Prūsijoje]]
+- [Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas](../objektai/paprociai/Karaliaus%20prie%C5%A1m%C5%AB%C5%A1inis%20ceremonialas%20riteri%C5%B3%20%C5%A1ventinimas%20ir%20pasiuntini%C5%B3%20pri%C4%97mimas)
+- [Kasmet minimos Dioniso (Bacho) šventės ir bakchanalijos budinų tvirtovėse](../objektai/paprociai/Kasmet%20minimos%20Dioniso%20%28Bacho%29%20%C5%A1vent%C4%97s%20ir%20bakchanalijos%20budin%C5%B3%20tvirtov%C4%97se)
+- [Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis (pilis)](../objektai/paprociai/Kilming%C5%B3%20semb%C5%B3%20per%C4%97jimas%20%C4%AF%20Karaliau%C4%8Diaus%20pil%C4%AF%20su%20%C5%A1eimynomis)
+- [Klaipėdos krašto lietuvinimas per kalbos ir švenčių dalyvavimo nurodymus tarnautojams](../objektai/paprociai/Klaip%C4%97dos%20kra%C5%A1to%20lietuvinimas%20per%20kalbos%20ir%20%C5%A1ven%C4%8Di%C5%B3%20dalyvavimo%20nurodymus%20tarnautojams)
+- [Kristaus kūno šventės šventimas](../objektai/paprociai/Kristaus%20k%C5%ABno%20%C5%A1vent%C4%97s%20%C5%A1ventimas)
+- [Kūčių dienos ir vakarienės apeigos](../objektai/paprociai/K%C5%AB%C4%8Di%C5%B3%20dienos%20ir%20vakarien%C4%97s%20apeigos)
+- [Lados laikotarpio baltų gaidžių aukos, viešos puotos, šokiai ir dainos](../objektai/paprociai/Lados%20laikotarpio%20balt%C5%B3%20gaid%C5%BEi%C5%B3%20aukos%2C%20vie%C5%A1os%20puotos%2C%20%C5%A1okiai%20ir%20dainos)
+- [Lalavimas per Velykas kaip burtininkų procesijų pamėgdžiojimas](../objektai/paprociai/Lalavimas%20per%20Velykas%20kaip%20burtinink%C5%B3%20procesij%C5%B3%20pam%C4%97gd%C5%BEiojimas)
+- [Maldininko įžadų vykdymas Prūsijoje](../objektai/paprociai/Maldininko%20%C4%AF%C5%BEad%C5%B3%20vykdymas%20Pr%C5%ABsijoje)
 - [Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą](../objektai/paprociai/Masin%C4%97s%20d%C5%BEiaugsmo%20manifestacijos%20gavus%20tarptautin%C4%AF%20pripa%C5%BEinim%C4%85)
 - [Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose (krikštas)](../objektai/paprociai/Mindaugo%20krik%C5%A1to%20sukakties%20min%C4%97jimas%20J.%20A.%20V.%20lietuvi%C5%B3%20kolonijose)
 - [Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis](../objektai/paprociai/Pabaisko%20parapin%C4%97s%20ba%C5%BEny%C4%8Dios%20i%C5%A1imtinumas%20ir%20savavali%C5%A1k%C5%B3%20ba%C5%BEny%C4%8Di%C5%B3%20pavertimas%20filijomis)
@@ -75,6 +86,7 @@ Objektų skaičius: 57.
 - [Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje](../objektai/paprociai/Triumfo%20i%C5%A1kilm%C4%97s%20su%20belaisvi%C5%B3%20eisena%20ir%20trof%C4%97jin%C4%97mis%20v%C4%97liavomis%20Vilniuje)
 - [Vaišių liekanų atidavimas pavargėliams arba palikimas ant kapų po švenčių](../objektai/paprociai/Vai%C5%A1i%C5%B3%20liekan%C5%B3%20atidavimas%20pavarg%C4%97liams%20arba%20palikimas%20ant%20kap%C5%B3%20po%20%C5%A1ven%C4%8Di%C5%B3)
 - [Valdovų suvažiavimo svečių vaišinimas](../objektai/paprociai/Valdov%C5%B3%20suva%C5%BEiavimo%20sve%C4%8Di%C5%B3%20vai%C5%A1inimas)
+- [Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai](../objektai/paprociai/Vilniaus%20karnavalai%2C%20seimelio%20kauk%C4%97s%20ir%20U%C5%BEgav%C4%97ni%C5%B3%20skaramu%C5%A1ai)
 - [Vytauto bažnytinių valdų dovanojimas Vilniaus vyskupui ir kapitulai](../objektai/paprociai/Vytauto%20ba%C5%BEnytini%C5%B3%20vald%C5%B3%20dovanojimas%20Vilniaus%20vyskupui%20ir%20kapitulai)
 - [Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika](../objektai/paprociai/Vytauto%20Did%C5%BEiojo%20kulto%20k%C5%ABrimo%20ir%20jubiliejini%C5%B3%20apeig%C5%B3%20praktika)
 - [Vėlinės po Ilgių šventės ir kaimo mirusiųjų pagerbimas](../objektai/paprociai/V%C4%97lin%C4%97s%20po%20Ilgi%C5%B3%20%C5%A1vent%C4%97s%20ir%20kaimo%20mirusi%C5%B3j%C5%B3%20pagerbimas)
@@ -83,3 +95,10 @@ Objektų skaičius: 57.
 - [Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas](../objektai/paprociai/%C5%A0ven%C4%8Diausiosios%20Mergel%C4%97s%20Marijos%20gimimo%20oktav%C5%B3%20%C5%A1ventimas)
 - [Žemininkui arba Kurkui skirtos žalčių laikymo, pirmienų ir Rudens šventės aukos](../objektai/paprociai/%C5%BDemininkui%20arba%20Kurkui%20skirtos%20%C5%BEal%C4%8Di%C5%B3%20laikymo%2C%20pirmien%C5%B3%20ir%20Rudens%20%C5%A1vent%C4%97s%20aukos)
 - [Žiemos švenčių pantomimos žaidimai](../objektai/paprociai/%C5%BDiemos%20%C5%A1ven%C4%8Di%C5%B3%20pantomimos%20%C5%BEaidimai)
+
+### Vietos
+- [Pieštvė](../objektai/vietos/Pie%C5%A1tv%C4%97)
+- [Šv. Kazimiero bažnyčia](../objektai/vietos/%C5%A0v.%20Kazimiero%20ba%C5%BEny%C4%8Dia)
+
+### Įvykiai
+- [Kolainių pilies puolimas (1290 m. balandžio 23 d.)](../objektai/ivykiai/Kolaini%C5%B3%20pilies%20puolimas%20%281290%20m.%20baland%C5%BEio%2023%20d.%29)

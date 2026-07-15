@@ -276,11 +276,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - susijęs iš Nemunas: Remdamasis Dusburgu, Baliński darė išvadą, kad Gedimino pilis galėjo stovėti prie Nemuno, Lietuvos ar Žemaitijos pasienyje.
 - susijęs iš Terespolis: Michałas Balińskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.
 - susijęs iš Varšuva: M. Balinskis persikėlė gyventi į Varšuvą, nes neturėjo pakankamai pragyvenimo lėšų.
-- susijęs iš Vilnius: Mykolas Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei Vilniaus kultūrinio gyvenimo dalyvis.
-- susijęs iš Vilnius: 1838 m. Mykolas Balinskis aiškino, kad rašydamas Vilniaus miesto istoriją siekė aprašyti Lietuvą ir jos senąją sostinę, o ne Lenkiją.
-- susijęs iš Vilnius: Michałas Balińskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis.
-- susijęs iš Vilnius: 1864 m. sausio 1 d. Michałas Balińskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
-- susijęs iš Vilnius: XIX a. pradžioje Vilniuje veikė kelios masonų ložės.
 - susijęs iš Vitebskas: Mykolas Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.
 - susijęs iš [[objektai/zodynas/Istorinis-geografinis tautos supratimas.md#claim-t-55259|Istorinis-geografinis tautos supratimas]]: Balinskio ir Kraševskio Vilniaus istorijos apibūdinamos kaip naudingos Lietuvos istoriografijai dėl faktinės medžiagos ir palankumo lietuvių tautai.
 - susijęs iš [[objektai/zodynas/Istorinis-geografinis tautos supratimas.md#claim-t-55260|Istorinis-geografinis tautos supratimas]]: M. Balinskio ir J. I. Kraševskio tautos supratimas apibūdinamas kaip istorinis-geografinis, o ne nacionalinis.
@@ -290,203 +285,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - susijęs iš [[objektai/zodynas/locus geni.md#claim-t-54813|locus geni]]: Vilniaus miesto istorijos rašymo tradicijos atsiradimas siejamas su locus geni akcentavimu romantinėje pasaulėžiūroje.
 - susijęs iš Gazeta Warszawska: „Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šie vie­
-    nuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­
-    linės veiklos laikotarpis. 1841 m. jis tapo vienu iš enciklopedinio
-    pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir
-    J. Sniadeckių biografijas, parengė jų darbų rinktines, parašė
-    apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
-    dinį leidinį Senovės Lenkija. Be to, rengė astronomo Mikalojaus Ko­
-    perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­
-    mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
-    rinkti su miesto istorija susijusius dokumentus. M. Balinskis pa­
-    liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­
-    čiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos
-    istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys
-    tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­
-    rašymui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šiame darbe suregistruoti LDK miestai ir miesteliai,
-    jų geografinė padėtis, trumpa istorinė apžvalga. Laiške Joachi­
-    mui Leleveliui M. Balinskis prisipažįsta, kad Vilniaus miesto is­
-    torijos pirmąjį tomą baigė rašyti 1825 metų pradžioje. Į J. Lele­
-    velio skatinimą parašyti daugiatomę miesto istoriją atsakė manąs
-    parašyti „tris, o gal keturis tomus"4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Vytautas Berenis apibūdino Mykolą Balinskį kaip kruopštų, pedantišką istoriką, vengusį rašyti be faktografinės bazės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gimęs Lenkijos-Lie­
-    tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
-    tiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­
-    lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
-    bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
-    gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
-    Lenkų ir lietuvių istoriografijoje M. Balinskio asmenybė yra
-    neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga,
-    padėjusia ateinančioms kartoms formuoti istorinės savimonės
-    pagrindus. M. Balinskis buvo kruopštus, pedantiškas istorikas,
-    kitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­
-    zės vengdavęs rašyti apie vieną ar kitą istorinį įvykį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
-    čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
-    tautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­
-    ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
-    formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
-    mą. 1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais
-    metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmoji knygos dalis užbaigia­
-    ma 1430 m. - Vytauto Didžiojo mirtimi. Kita vertus, pirmoje
-    dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
-    dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
-    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
-    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
-    Malevskiui už gausius išrašus iš Lietuvos Metrikos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-007
-  santrauka: 'Mykolo Balinskio „Vilniaus miesto istorijos“ lietuviškas leidimas verstas iš 1836-1837 m. Vilniuje spausdinto leidinio.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    UDK 947.45
-    Ba237
-    Versta iš
-    Michała Balińskiego
-    History a Miasta Wilna
-    Wilno. Drukiem
-    Antoniego Marcinowskiego,
-    1836-1837
-    Knygos leidimą parėmė
-    Lietuvos Respublikos
-    kultūros ministerija
-    Knyga išleista
-    Lietuvos tūkstantmečio
-    minėjimo direkcijai
-    parėmus
-    Redaktorė
-    Skirmantė Ramanauskaitė
-    Knygos dailininkas
-    Romas Dubonis
-    ISBN 978-5-417-00907-5 © Vertimas į lietuvių kalbą,
-    Ona Slavėnaitė, 2007
-    © Vertimas į lietuvių kalbą,
-    Irena Katilienė, 2007
-    © Vertimas į lietuvių kalbą,
-    Jūratė Dalia Baronienė, 2007
-    © Romas Dubonis, apipavidalinimas,
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-008
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­
-    džiausiai dėkojame"12.
-    Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta
-    Warszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti
-    straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­
-    tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū-
-    rinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.
-    dešimtmetyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Sūnėnų tvirtas laidavimo žo­
-    dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­
-    sį Kęstutį taip suklaidino, jog pats su Vytautu atvyko į priešo
-    vienas vėliau buvo Trakų vaivada,
-    o jo sūnus - Jonas Hanulaitis - Lie­
-    tuvos vėliavininkas; pastarasis Žy­
-    gimanto Kęstutaičio laikais pasižy­
-    mėjo mūšyje prie Pabaisko, iš jo
-    paėjo vadinami Daugėlos (nes jis po
-    šios pergalės buvo lietuviškai pra­
-    mintas Dauggalis - galingas, didis.
-    Žr. B a 1  i n s k i o Opisanie Statyst.
-    Wilna, 1. 177.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
 - c-010
   santrauka: 'Mykolui Balinskiui priskiriama dalies anonimiškų straipsnių, kritikavusių Narbuto „Mažesniuosius istorijos raštus“, autorystė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -753,15 +551,17 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-171346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 58."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šių „laiškų“ dauguma buvo skirta 1856 metais pa­
-    sirodžiusių T. Narbuto „Mažesniųjų istorijos raštų“ kritikai26.
-    Straipsnių, beje, ir anonimiškų, autorystė buvo išaiškinta-jie
-    priskiriami istoriko, publicisto Mykolo Balinskio plunksnai.
-    Vadinasi, jis galėjo būti ir anoniminės „Lietuvių mitologijos“
-    recenzijos autorius.
+    Jau pirmose rašinio eilutėse „Lietuvių mitologija“ buvo api­
+    būdinta kaip „kruopšti kompiliacija“, kurios autorius dėl per­
+    nelyg nekritiško požiūrio į šaltinius „negali vadintis istoriku“28.
+    Toliau J. I. Kraševskis rašė: „Antra, dauguma šiame veikale
+    aprašomų dalykų istorijai nepriklauso. Trečia (o tai yra įdo­
+    miausia ir naujoviškiausia), čia yra tiek mažai autentiškumo,
+    kad vėlesnis istorikas, norėdamas pasinaudoti pono Narbuto
+    darbu, ilgai dvejos, kol išdrįs iš ten ką nors paimti“29 30.
+  citata_rodoma: "Šių „laiškų“ dauguma buvo skirta 1856 metais pa­\nsirodžiusių T. Narbuto „Mažesniųjų istorijos raštų“ kritikai26.\nStraipsnių, beje, ir anonimiškų, autorystė buvo išaiškinta-jie\npriskiriami istoriko, publicisto Mykolo Balinskio plunksnai.\nVadinasi, jis galėjo būti ir anoniminės „Lietuvių mitologijos“\nrecenzijos autorius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -774,16 +574,17 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    4 4 0
-
-    ## Puslapis 450
-
-    metus buvo spausdinamas „Gazeta Warszawska“ pusla­
-    piuose1. Šių „laiškų“ dauguma buvo skirta 1856 metais
-    pasirodžiusių T. Narbuto „Mažesniųjų istorinių raštų“
-    kritikai2. Straipsnių, beje, ir anonimiškų, autorystė buvo
-    išaiškinta — jie priskiriami istoriko, publicisto Mykolo
-    Balinskio plunksnai.
+    Šio leidinio, kuris buvo sumanytas kaip
+    šubravcų tradicijų tęsėjas, autoriai buvo aštuoniolika
+    buvusių Vilniaus universiteto profesorių, astuoni su šia
+    įstaiga nesusiję mokslininkai ir devyniolika literatų, kurių
+    dauguma buvo to universiteto absolventai. Sunku tarp
+    jų būtų pažinti recenzijos autorių. Vis dėlto straipsnio
+    stilius, maniera, kandumas, dalyko išmanymas, profesio­
+    nalumas labai primena kitą rašinį, tiksliau sakant, straips­
+    nių ciklą „Laiškai nuo Kražantės krantų“, kuris trejus
+    1 Ten pat.
+  citata_rodoma: "4 4 0\n\n## Puslapis 450\n\nmetus buvo spausdinamas „Gazeta Warszawska“ pusla­\npiuose1. Šių „laiškų“ dauguma buvo skirta 1856 metais\npasirodžiusių T. Narbuto „Mažesniųjų istorinių raštų“\nkritikai2. Straipsnių, beje, ir anonimiškų, autorystė buvo\nišaiškinta — jie priskiriami istoriko, publicisto Mykolo\nBalinskio plunksnai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -794,15 +595,20 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-173651
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 450"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 450."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vadinasi, jis galėjo būti ir anoni­
-    minės „Lietuvių mitologijos“ recenzijos autorius. Bet tai
-    tik hipotezė, rašinys galėjo būti ir kolektyvinio darbo
-    vaisius. Vis dėlto reikėtų manyti, kad „Lietuvių mitolo­
-    gijos“ recenzentas nebuvo vienas iš artimiausių T. Nar­
-    buto bičiulių.
+    Vis dėlto straipsnio
+    stilius, maniera, kandumas, dalyko išmanymas, profesio­
+    nalumas labai primena kitą rašinį, tiksliau sakant, straips­
+    nių ciklą „Laiškai nuo Kražantės krantų“, kuris trejus
+    1 Ten pat.
+    4 4 0
+
+    metus buvo spausdinamas „Gazeta Warszawska“ pusla­
+    piuose1. Šių „laiškų“ dauguma buvo skirta 1856 metais
+    pasirodžiusių T. Narbuto „Mažesniųjų istorinių raštų“
+    kritikai2.
+  citata_rodoma: "Vadinasi, jis galėjo būti ir anoni­\nminės „Lietuvių mitologijos“ recenzijos autorius. Bet tai\ntik hipotezė, rašinys galėjo būti ir kolektyvinio darbo\nvaisius. Vis dėlto reikėtų manyti, kad „Lietuvių mitolo­\ngijos“ recenzentas nebuvo vienas iš artimiausių T. Nar­\nbuto bičiulių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

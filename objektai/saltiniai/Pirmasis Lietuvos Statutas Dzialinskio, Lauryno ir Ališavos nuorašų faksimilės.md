@@ -43,28 +43,6 @@ Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos nuorašų faksimil
   pagrindžia:
     - c-23931
 
-<a id="claim-t-101561"></a>
-- t-002
-  global_id: t-101561
-  teiginys: "„Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos nuorašų faksimilės“ išleistas Vilniuje 1985 m."
-  pagrindžia:
-    - c-23931
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kraków, 1989; Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos
-    nuorašų faksimilės. Parengė S. Lazutka, E. Gudavičius. T. 1, d. 2. Vilnius, 1985; E. Rimša.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-23931
@@ -81,4 +59,3 @@ Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos nuorašų faksimil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101561
-    - t-101562

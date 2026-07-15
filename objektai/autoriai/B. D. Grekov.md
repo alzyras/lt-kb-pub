@@ -44,22 +44,6 @@ Grekov, B.
   teiginys: "B. D. Grekovas su A. J. Jakubovskiu 1950 m. Maskvoje-Leningrade išleido veikalą „Zolotaja Orda i ee padenije“."
   pagrindžia:
     - c-32902
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    —Filevič, I. L. : _Bor’ba Pol’ši i Litvy-Rusi za Galicko-
-    Vladimirskoje nasledije,_ Peterburg 1890. — Grekov, B. D. i Jakubov _­_
-    skij, A. J. : _Zolotaja Orda i ee padenije,_ Moskva-Leningrad 1950 (plati
-    bibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

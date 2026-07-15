@@ -49,20 +49,6 @@ media_all_json: |-
   teiginys: "„Akta unii Polski z Litwą 1385-1791“ yra St. Kutrzebos ir Wl. Semkowicziaus parengtas 1385-1791 m. Lenkijos ir Lietuvos unijų aktų rinkinys, išleistas Krokuvoje 1932 m."
   pagrindžia:
     - c-03517
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    AUPL = Akta unii Polski z Litwą 1385-1791, išl. St. Kutrzeba ir
-    Wl. Semkowicz, Krokuva 1932.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

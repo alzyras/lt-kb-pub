@@ -50,47 +50,6 @@ Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir L
   teiginys: "1939 m. spalio 10 d., spaudžiant J. Stalinui ir V. Molotovui, buvo pasirašytos Vilniaus perdavimo bei SSRS ir Lietuvos savitarpio pagalbos sutartys."
   pagrindžia:
     - c-166780
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
-    iki 20 000. Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija
-    jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
-    V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
-    SSRS ir Lietuvos savitarpio pagalbos sutartis. Nors paktas minėjo Lietu-
-    vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių
-    santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
-    nepriklausomybei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1939 m. spalio 10 d., spaudžiant J. Stalinui ir V. Molotovui, buvo pasirašytos Vilniaus perdavimo bei SSRS ir Lietuvos savitarpio pagalbos sutartys.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija
-    jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
-    V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
-    SSRS ir Lietuvos savitarpio pagalbos sutartis. Nors paktas minėjo Lietu-
-    vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių
-    santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
-    nepriklausomybei. Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi
-    ir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje
-    teritorijos, o už tai turėjo įsileisti karines sovietų bazes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

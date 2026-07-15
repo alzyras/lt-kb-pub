@@ -35,24 +35,6 @@ Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
   teiginys: "Prireikus agentai-smogikai būdavo sujungiami į kovines-agentūrines grupes."
   pagrindžia:
     - c-45529
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prireikus agentai-smogikai būdavo sujungiami į kovines-agentūrines grupes.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
-
-    Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja
-    kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
-    jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -57,30 +57,6 @@ Nenurodyta
   teiginys: "Po Sausio 13-osios įvykių sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo Lietuvos radiją, televiziją ir kitus strateginius objektus."
   pagrindžia:
     - c-75227
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po Sausio 13-osios įvykių sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo Lietuvos radiją, televiziją ir kitus strateginius objektus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau, nors karo veiksmai prieš Lietuvą ir buvo
-    pristabdyti, sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo
-    Lietuvos radiją ir televiziją, valdė kitus strateginius šalies objektus.
-    Sausio 13-osios aukų laidotuvės tapo nepriklausomybės siekio bei
-    tautos ir valdžios vienybės viršūne. Po Sausio 13-osios įvykių Lietuvoje
-    5 dienas nebuvo įregistruota nė vieno kriminalinio nusikaltimo, o vasario
-
-    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
-    247
-    visuotinėje apklausoje dėl Lietuvos nepriklausomybės dalyvavo 84 proc.
-    turinčiųjų teisę balsuoti, iš kurių net 90 proc. balsavo „Taip“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

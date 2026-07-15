@@ -32,28 +32,9 @@ Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių va
 <a id="claim-t-187562"></a>
 - t-001
   global_id: t-187562
-  teiginys: "Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių vadina tėvonies kunigaikščiu, kurio norėjo dalis miestiečių."
+  teiginys: 'Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių vadina tėvonies kunigaikščiu, kurio norėjo dalis miestiečių.'
   pagrindžia:
     - c-170512
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių vadina tėvonies kunigaikščiu, kurio norėjo dalis miestiečių.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Šeši tūkstančiai devyni šimtai devintaisiais metais
-    kunigaikštis Jurijus Svetoslavovičius bei Riazanės ku­
-    nigaikštis Olegas su kariuomenėmis atėjo prie Smo­
-    lensko3 7 . Tuo metu buvo kilęs maištas ir nesantaika.
-    Vieni norėjo Vytauto, o kiti — tėvonies kunigaikščio
-    Jurijaus3 8 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -68,9 +49,9 @@ Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių va
     lensko3 7 . Tuo metu buvo kilęs maištas ir nesantaika.
     Vieni norėjo Vytauto, o kiti — tėvonies kunigaikščio
     Jurijaus3 8 .
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187562
+    - t-001

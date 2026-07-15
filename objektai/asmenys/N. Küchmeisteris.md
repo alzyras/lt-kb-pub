@@ -35,23 +35,6 @@ Küchmeisteris.
   teiginys: "Žemaičių seniūnas N. Küchmeisteris buvo tarp žymiųjų belaisvių."
   pagrindžia:
     - c-32795
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Belaisviai
-    buvo rakinami tomis pat grandinėmis, kurios buvo rastos ordino
-    stovykloje^29. Tarp žymiųjų belaisvių buvo ir Žemaičių seniūnas
-    N. Küchmeisteris. Nelaisvėn pateko ir M. Salzbachas, kurio įžei­
-    dimą per derybas Vytautas buvo paėmęs širdin.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

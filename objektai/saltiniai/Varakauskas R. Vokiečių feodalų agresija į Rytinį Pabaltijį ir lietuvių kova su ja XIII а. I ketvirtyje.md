@@ -7,12 +7,12 @@ datos:
   - '1957 m.'
 date_start: '1957'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad varakauskas R.
   teiginys: "R. Varakausko straipsnis apie vokiečių feodalų agresiją į Rytinį Pabaltijį XIII a. I ketvirtyje paskelbtas 1957 m."
   pagrindžia:
     - c-61980
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Varakausko straipsnis apie vokiečių feodalų agresiją į Rytinį Pabaltijį XIII a. I ketvirtyje paskelbtas 1957 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,13 +63,14 @@ Dusburgietis teigia, kad varakauskas R.
 - id: c-61980
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272-273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272-273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Varakauskas R. Vokiečių feodalų agresija į Rytinį Pabaltijį ir lietuvių kova su ja XIII а. I
-
-    ketvirtyje —Vilniaus valstybinio pedagoginio instituto mokslo darbai. Istorija ir filologija.
-    V., 1957, t. 3, p. 5—33.
+    — Материалы межреспубликанской научной конференции по
+    источниковедению и историографии народов прибалтийских республик Союза ССР:
+    Источниковедение, В., 1978, с. 19—21.
+    Матузова В. И. Английские средневековые источники IX— XIII вв.: Тексты,
+    перевод, комментарий.
+  citata_rodoma: "Varakauskas R. Vokiečių feodalų agresija į Rytinį Pabaltijį ir lietuvių kova su ja XIII а. I\n\nketvirtyje —Vilniaus valstybinio pedagoginio instituto mokslo darbai. Istorija ir filologija.\nV., 1957, t. 3, p. 5—33."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -6,7 +6,7 @@ tema_kategorija: "posakiai"
 tema_kategorijos_pavadinimas: "Posakiai"
 tema_aprasymas: ""
 tema_graph_role: "supporting"
-tema_objektu_skaicius: 120
+tema_objektu_skaicius: 118
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 120.
+Objektų skaičius: 118.
 
 ## Kaip naudoti
 
@@ -95,7 +95,6 @@ Objektų skaičius: 120.
 - [nu Spasov den](../objektai/posakiai/nu%20Spasov%20den)
 - [Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo](../objektai/posakiai/Nustatysime%20toki%C4%85%20tarpusavio%20taik%C4%85%2C%20apie%20koki%C4%85%20krik%C5%A1%C4%8Dionys%20niekados%20n%C4%97%20negalvojo)
 - [O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs](../objektai/posakiai/O%20i%C5%A1kiliausioji%20meile%2C%20padaryk%2C%20kad%20tvirtai%20ir%20nuo%C5%A1ird%C5%BEiai%20trok%C5%A1%C4%8Diau%20tav%C4%99s)
-- [O trečių vasarų](../objektai/posakiai/O%20tre%C4%8Di%C5%B3%20vasar%C5%B3)
 - [oculi post dominicam](../objektai/posakiai/oculi%20post%20dominicam)
 - [Omnia regna subiacent celesti regi Jesu Christo](../objektai/posakiai/Omnia%20regna%20subiacent%20celesti%20regi%20Jesu%20Christo)
 - [Palaiminimas tiems namams nuo saulės tekėjimo iki nusileidimo](../objektai/posakiai/Palaiminimas%20tiems%20namams%20nuo%20saul%C4%97s%20tek%C4%97jimo%20iki%20nusileidimo)
@@ -137,7 +136,6 @@ Objektų skaičius: 120.
 - [vyrui, kaip skriauda, taip skriauda, o moterims vis geriau išeina](../objektai/posakiai/vyrui%2C%20kaip%20skriauda%2C%20taip%20skriauda%2C%20o%20moterims%20vis%20geriau%20i%C5%A1eina)
 - [šiandien susitrauksi, kitą dieną atsigausi](../objektai/posakiai/%C5%A1iandien%20susitrauksi%2C%20kit%C4%85%20dien%C4%85%20atsigausi)
 - [Širvintų stebuklas](../objektai/posakiai/%C5%A0irvint%C5%B3%20stebuklas)
-- [Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę](../objektai/posakiai/%C5%A0itaip%20a%C5%A1%2C%20nors%20jaunas%2C%20vienas%20pats%20apgyniau%20nuo%20prie%C5%A1o%20t%C4%97vyn%C4%99)
 - [Šventas žmogus ir gana](../objektai/posakiai/%C5%A0ventas%20%C5%BEmogus%20ir%20gana)
 - [„duona, tolerancija, demokratija, konstitucija, barokas“](../objektai/posakiai/%E2%80%9Eduona%2C%20tolerancija%2C%20demokratija%2C%20konstitucija%2C%20barokas%E2%80%9C)
 - [„Kurgi, sakau, pasaulyje yra tauta...“](../objektai/posakiai/%E2%80%9EKurgi%2C%20sakau%2C%20pasaulyje%20yra%20tauta...%E2%80%9C)

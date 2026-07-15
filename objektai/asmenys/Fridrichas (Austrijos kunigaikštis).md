@@ -45,33 +45,15 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
   teiginys: "Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti."
   pagrindžia:
     - c-60749
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Fridrichas, Austrijos kunigaikštis, ir Liudvikas iš Bavarijos spalio 21 dieną dėl nesantarvės vienu metu buvo išrinkti Romos karaliais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
-                               gaikštis, buvo išrinkti Romos karaliais
-
-      Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis,
-    dėl nesantarvės vienu metu buvo išrinkti Romos karaliais tada, kai apaštališkasis sostas
-    28 mėnesius buvo neužimtas, o ši juodviejų nesantarvė truko ligi 1322 viešpaties metų,
-    kol Liudvikas, Bavarijos kunigaikštis, po daugybės karų, vykusių tarp juodviejų, švento
-    Mykolo išvakarėse (rugsėjo 28) paėmė mūšyje į nelaisvę Fridrichą, Austrijos kunigaikštį,
-    ir išlaikė suimtą dvejus metus. Po to jiedu susitaikė.
-
-
-
-                    118.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197078"></a>
+- t-002
+  global_id: t-197078
+  teiginys: "Sis karalius neseniai buvo kunigaikštis, visai neseniai apaštališkasis sostas jį pakėlė į karalius, vildamasis, kad dėl to jis uoliau, ištikimiau ir ryžtingiau kovosiąs už šventąją bažnyčią, tikėjimą ir tikinčiuosius."
   pagrindžia:
-    - t-001
+    - c-60749
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Austrijos kunigaikštis Fridrichas buvo tarp Vokietijos didikų, dalyvavusių svarstant ką tik įsteigtos ligoninės ateitį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -112,25 +94,19 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
 - id: c-60749
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 249"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
-                               gaikštis, buvo išrinkti Romos karaliais
-
-      Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis,
-    dėl nesantarvės vienu metu buvo išrinkti Romos karaliais tada, kai apaštališkasis sostas
-    28 mėnesius buvo neužimtas, o ši juodviejų nesantarvė truko ligi 1322 viešpaties metų,
-    kol Liudvikas, Bavarijos kunigaikštis, po daugybės karų, vykusių tarp juodviejų, švento
-    Mykolo išvakarėse (rugsėjo 28) paėmė mūšyje į nelaisvę Fridrichą, Austrijos kunigaikštį,
-    ir išlaikė suimtą dvejus metus. Po to jiedu susitaikė.
-
-
-
-                    118.
+    Sis karalius neseniai buvo kunigaikštis,
+    visai neseniai apaštališkasis sostas jį pakėlė į karalius, vildamasis, kad dėl to jis uoliau,
+    ištikimiau ir ryžtingiau kovosiąs už šventąją bažnyčią, tikėjimą ir tikinčiuosius. Tačiau jis
+    dabar ne tik negynė tikinčiųjų bendruomenės, bet anaiptol — žiauriai puolė tuos, kurie
+    ją gynė. Dar blogiau buvo tai, kad jis ryžosi piktadarybei, apie kurią jau esame kalbėję,
+    tada, kai Čekijos karalius, magistras bei jų kariuomenė kovojo prieš netikėlius ir keršijo
+    už nukryžiuotojo viešpaties kančias.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194481
+    - t-197078

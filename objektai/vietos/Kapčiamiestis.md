@@ -35,21 +35,6 @@ Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapč
   teiginys: "Lenkų raiteliai vakare užėmė Kapčiamiestį."
   pagrindžia:
     - c-77310
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lenkų raiteliai vakare užėmė Kapčiamiestį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ir aple 14 val. 20 min. užima Kuodžius.
-    my „Pilypavas ĮbinijųgF -Ovidūgiriai BE A ojo pėst. Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapčiamiestį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

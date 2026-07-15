@@ -53,28 +53,6 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
 - susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-183492|„idealiąją Lietuvą“]]: „Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
 - susijęs iš Turkija: Davido Sucheto protėviai Suchedowitzai emigravo per Turkiją į Pietų Afrikos Respubliką.
 - susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
-    ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-
-    tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
-    o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
-    (Karolis Bučinskis). Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
-    tuvos emigrantai arba kilusios iš jų šeimų. O kai pamatai po provincijos
-    miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir
-    ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-
-    galvoji, kiek dar tokių vardų slepia Lietuva?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24509

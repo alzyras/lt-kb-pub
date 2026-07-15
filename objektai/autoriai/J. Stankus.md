@@ -49,26 +49,6 @@ Stankus, J. — Stankus, J.
 - susijęs iš [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas.md#claim-t-31259|LTSR Mokslų Akademijos Istorijos Institutas]]: LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.
 - susijęs iš Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje: „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“ buvo kas dvejus metus leidžiamas LTSR MA Istorijos instituto leidinys.
 - susijęs iš [[objektai/daiktai/Skydai.md#claim-t-192053|Skydai]]: E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Pašuto, V. : _Cho-
-    ziajstvo i technika srednevekovoj Litvy_ , VIst, nr. 8, 1947, 74 sqq. —
-    Radzvilovaitė, E. : _Lietuvių genčių skydai II- VIII amžiais_ , AkMD,
-    t. 21, 1966, 127-142 p. — Stankus, J. : _Geležinių įrankių gamybos
-    technologija Lietuvoje IX-XIII amžiais_ , AkMD, t. 32, sąs. 1, 1970,
-    113-133 p. — (”) _Kalavijų ir ietigalių gamybos technologija Lietuvoje
-    IX-XIII amžiais_ , AkMD, t. 33, sąs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32979

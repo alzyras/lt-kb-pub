@@ -35,8 +35,8 @@ Dusburgietis teigia, kad vaitkunskienė L., Sidabras..., p. 10 ir kt.
   teiginys: "Vaitkunskienė L., Sidabras..., p. 10 ir kt."
   pagrindžia:
     - c-61438
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vaitkunskienė L., Sidabras..., p. 10 ir kt.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -56,11 +56,19 @@ Dusburgietis teigia, kad vaitkunskienė L., Sidabras..., p. 10 ir kt.
 - id: c-61438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 175"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    525  Apie auksą ir sidabrą senovės Lietuvoje bei sidabro dirbinius žr. Vaitkunskienė
-    L., Sidabras..., p. 10 ir kt.
+    Dėl to jis kėlė siaubą visiems priešams, nes jų
+    negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.
+    235 (228). Apie Ragainės ir Skalvių pilių pastatymą
+    1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
+    krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio
+    kankinio dieną (balandžio 23) su galybe karių į skalvių žemę ir dievo garbei bei šlovei
+    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
+    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
+    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
+    su 40 brolių ir šimtu rinktinių ginklanešių.
+  citata_rodoma: "525  Apie auksą ir sidabrą senovės Lietuvoje bei sidabro dirbinius žr. Vaitkunskienė\nL., Sidabras..., p. 10 ir kt."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

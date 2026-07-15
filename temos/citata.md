@@ -6,7 +6,7 @@ tema_kategorija: "posakiai"
 tema_kategorijos_pavadinimas: "Posakiai"
 tema_aprasymas: ""
 tema_graph_role: "supporting"
-tema_objektu_skaicius: 210
+tema_objektu_skaicius: 208
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 210.
+Objektų skaičius: 208.
 
 ## Kaip naudoti
 
@@ -63,7 +63,6 @@ Objektų skaičius: 210.
 - [jeigu jis taps krikščionimi, jam nepasiduosime](../objektai/posakiai/jeigu%20jis%20taps%20krik%C5%A1%C4%8Dionimi%2C%20jam%20nepasiduosime)
 - [juk čia ne jūsų, bet dievo kova](../objektai/posakiai/juk%20%C4%8Dia%20ne%20j%C5%ABs%C5%B3%2C%20bet%20dievo%20kova)
 - [jį mylėjo ir dievas, ir žmonės](../objektai/posakiai/j%C4%AF%20myl%C4%97jo%20ir%20dievas%2C%20ir%20%C5%BEmon%C4%97s)
-- [kaip ištroškęs vandens lašelio](../objektai/posakiai/kaip%20i%C5%A1tro%C5%A1k%C4%99s%20vandens%20la%C5%A1elio)
 - [Karingasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju](../objektai/posakiai/Karingasis%20gelonas%20b%C4%97ga%20%C4%AF%20Rodop%C5%B3%20kalnus%20arba%20get%C5%B3%20dykumas%20ir%20ten%20minta%20r%C5%ABgusiu%20pienu%2C%20sumai%C5%A1ytu%20su%20arkli%C5%B3%20krauju)
 - [Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti](../objektai/posakiai/Kas%20nori%20%C5%BEinoti%2C%20kas%20buvo%20Did.%20karas%2C%20turi%20b%C5%ABtinai%20%C5%A1i%C4%85%20knyg%C4%85%20perskaityti)
 - [Kiedy tak, užyję ja innych środków do dopięcia celu](../objektai/posakiai/Kiedy%20tak%2C%20u%C5%BEyj%C4%99%20ja%20innych%20%C5%9Brodk%C3%B3w%20do%20dopi%C4%99cia%20celu)
@@ -178,7 +177,6 @@ Objektų skaičius: 210.
 - [„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“](../objektai/posakiai/%E2%80%9EJ%C5%ABs%C5%B3%20Didyb%C4%97s%20%C4%AFsakyti%20mes%20%C4%8Dia%20su%20did%C5%BEiu%20skausmu...%E2%80%9C)
 - [„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“](../objektai/posakiai/%E2%80%9Ekad%20abi%20lygiateis%C4%97s%20tautos%20tur%C4%97t%C5%B3%20vien%C4%85%20glob%C4%97j%C4%85%20ir%20u%C5%BEtar%C4%97j%C4%85%E2%80%9C)
 - [„kad yra atstatomas 1940 metais svetimos jėgos panaikintas Lietuvos Valstybės suverenių galių vykdymas...“](../objektai/posakiai/%E2%80%9Ekad%20yra%20atstatomas%201940%20metais%20svetimos%20j%C4%97gos%20panaikintas%20Lietuvos%20Valstyb%C4%97s%20suvereni%C5%B3%20gali%C5%B3%20vykdymas...%E2%80%9C)
-- [„Kaip aš jums Žemaitiją užstačiau, taip ir dabar iš jūsų neatimu“](../objektai/posakiai/%E2%80%9EKaip%20a%C5%A1%20jums%20%C5%BDemaitij%C4%85%20u%C5%BEsta%C4%8Diau%2C%20taip%20ir%20dabar%20i%C5%A1%20j%C5%ABs%C5%B3%20neatimu%E2%80%9C)
 - [„Karas ar taika “](../objektai/posakiai/%E2%80%9EKaras%20ar%20taika%20%E2%80%9C)
 - [„karas po karo“](../objektai/posakiai/%E2%80%9Ekaras%20po%20karo%E2%80%9C)
 - [„kas buvo pavogta, turi būti grąžinta“](../objektai/posakiai/%E2%80%9Ekas%20buvo%20pavogta%2C%20turi%20b%C5%ABti%20gr%C4%85%C5%BEinta%E2%80%9C)

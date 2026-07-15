@@ -46,26 +46,6 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
 - susijęs iš Mažeikių naftos perdirbimo įmonė: Septintąjį–aštuntąjį dešimtmetį per sovietinę industrializaciją Lietuvoje pastatyta Mažeikių naftos perdirbimo įmonė.
 - susijęs iš Paneriai: Paneriuose veikęs Ypatingasis SD būrys buvo viena iš dviejų lietuvių zonderkomandų, daugiausia vykdžiusių šaudymus.
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-70414|zonderkomanda]]: Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau puo-
-    limas nepasisekė. Netekęs
-    2.000 žmonių, Gelgaudas
-    pasitraukė į Raseinius.
-    Tuo tarpu rusai atsiėmė
-    Ukmergę, Jonavą ir Šiau-
-    lius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-02715

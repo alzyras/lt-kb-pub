@@ -43,24 +43,6 @@ Varakauskas, R. Varakauskas, R.: Lietuvos vals­ tybės susidarymo klausimu, Ist
   teiginys: "R. Varakauskas 1969 m. paskelbė darbą „Lietuvos valstybės susidarymo klausimu“."
   pagrindžia:
     - c-33117
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Sideravičius, K. : _Marksistinė Lietuvos TSR isto­
-    rija,_ Tiesa, 1959, m. 137 (VI.12).—Šarmaitis, R.: _Iš marksistinių-
-    lenininių pozicijų,_ Komunistas, 1963, nr. 10, 42-47 p. — Trumpa, V. :
-    _Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p. — Trum­
-    pa, V. : _Istoriniai laikai,_ LE, t. 9, 124-125 p. — Varakauskas, R. :
-    _Lietuvos valstybės susidarymo klausimu_ (IstV, t. 10, 1969, 169-180 p.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

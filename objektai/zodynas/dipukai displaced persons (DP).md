@@ -49,40 +49,6 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
   teiginys: "Vokietijai pralaimėjus karą, kai kurie pabėgėliai pateko į dipukų, arba perkeltųjų asmenų, stovyklas."
   pagrindžia:
     - c-24807
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų
-    (angl. displaced persons (DP) – perkeltieji asmenys) – karo pabėgėlių, dėl
-    įvairių priežasčių atsidūrusių už tėvynės ribų, stovyklas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1948 m. viduryje priėmė Perkeltųjų asmenų įstatymą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
-    225
-    Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti
-    savo požiūrį į dipukus. 1948 m. viduryje JAV Kongresas priėmė vadi-
-    namąjį Perkeltųjų asmenų įstatymą, kuriame buvo numatoma įsileisti
-    205 tūkst. dipukų (tarp jų – 40 proc. Baltijos valstybių ir Lenkijos pa-
-    bėgėlių bei tremtinių).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

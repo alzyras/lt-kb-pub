@@ -34,8 +34,8 @@ Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasida
   teiginys: "Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui."
   pagrindžia:
     - c-168666
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -66,8 +66,7 @@ Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasida
 - id: c-168666
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Visi luo­
     mai, išėję iš miesto, sveikino
@@ -81,7 +80,12 @@ Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasida
     vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
     ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
     kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
-    išplėtė lietuvių valdų ribas ligi Putivlio.
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje.
+  citata_rodoma: "Visi luo­\nmai, išėję iš miesto, sveikino\nnugalėtoją\nGediminą\nkaip\nKijevo ir Rusios didįjį kuni­\ngaikštį, prisiekdami su visomis žemėmis paklusti jo\nvaldžiai. Gediminas, pasilsėjęs čia, kol artimiausios pi­\nlys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­\nvė nugalėtojui, patraukė į Severską. Užėmęs Brianską\nir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­\nkariavęs Kijevą, Volynę ir didelę Seversko dalį, jis\nišplėtė lietuvių valdų ribas ligi Putivlio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

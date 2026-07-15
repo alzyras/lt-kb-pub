@@ -84,61 +84,6 @@ Nenurodyta
   pagrindžia:
     - c-166712
 - susijęs iš Krokuva: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mykolas Lietuvis siūlo ir kalbos permainas – at-
-    sisakyti rusėnų kalbos ir pereiti prie romėnų, t. y. lotynų. Tačiau viską nulė-
-    mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji
-    civilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
-    organizavimu, studijomis Krokuvos universitete, administracinės sistemos
-    perėmimu, ūkio reforma.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvai tai
-    pavyko padaryti per šimtmetį. Svarbų vaidmenį šiame procese suvaidino
-    Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
-    versitetuose. Šios studijos, o ir apskritai europinės kultūros įsisavinimas
-    davė konkrečių rezultatų XV a. pabaigoje–XVI a. pirmoje pusėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Lenkiškoji civilizacija darė didžiausią įtaką Lietuvos kultūrai per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau viską nulė-
-    mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji
-    civilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
-    organizavimu, studijomis Krokuvos universitete, administracinės sistemos
-    perėmimu, ūkio reforma. Lenkija buvo LDK mokytoja. Lietuvos bėda, kad
-    ji dažnu atveju nesuspėjo ar neturėjo galimybių pasiekti „gilesnę“ Europą
-    ir europeizacija baigdavosi lenkėjimu. Ši aplinkybė išryškėjo reformacijos
-    metu, kai buvo pradėta kelti gyvųjų kalbų reikšmė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-55175
@@ -159,6 +104,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54298
+    - t-54300
 
 - id: c-55176
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -176,6 +122,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-54297
     - t-54299
 
 - id: c-166712

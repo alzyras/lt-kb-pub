@@ -34,29 +34,6 @@ Vienas iš jų pasakė: „Jūsų Karališkoji Didenybe, greičiau išvysite Dau
   teiginys: "Posakiu teigta, kad karalius greičiau išvys Dauguvą aukštyn tekančią, negu lietuvius ir jų etmoną bėgančius iš kovos lauko."
   pagrindžia:
     - c-44955
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Karalius
-    pasiūlė dalį kariuomenės palikti Rygos ap-
-    gulčiai, o su kita dalimi kautis prieš Lie-
-    tuvos kariuomenę. Tačiau generolai tam
-    pasipriešino. Vienas iš jų pasakė: „Jūsų
-    Karališkoji Didenybe, greičiau išvysite
-    Dauguvą aukštyn tekančią, negu lietuvius
-    ir jų etmoną iš kovos lauko bėgančius“
-
-    Švedų kariuomenės pės-
-    tininkų batalionas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

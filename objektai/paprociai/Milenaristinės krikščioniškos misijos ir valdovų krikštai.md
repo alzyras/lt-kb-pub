@@ -69,23 +69,6 @@ Nenurodyta
   teiginys: "1009 m. šv. Brunonas Bonifacijus Lietuvoje rado „karalių“ Netimerą, kuris įtikėjo ir krikštijosi."
   pagrindžia:
     - c-55185
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1009-ieji Lietuvai praneša ne tik apie kriminalą, bet ir kur kas dau-
-    giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
-    kuris įtikėjo ir krikštijosi. Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs
-    su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri
-    kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -106,3 +89,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54312
+    - t-54313

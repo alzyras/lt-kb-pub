@@ -43,42 +43,6 @@ Kosakovskis.
   teiginys: "S. Kosakovskis buvo paskutinysis LDK didysis etmonas ir generolas, suimtas Milerio name Vilniuje."
   pagrindžia:
     - c-44499
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1794 m. balandis-liepa KOVOS DĖL VILNIAUS 149
-
-    wn
-    -
-    >
-    2
-    ss
-    KT)
-    T
-    ©
-    >
-    o
-    x
-
-    ## Puslapis 152
-
-    gatvėje Milerio name buvo su-
-    imtas paskutinysis LDK didysis
-    etmonas, ištikimas Rusijai, gene-
-    rolas S. Kosakovskis. Jį saugoję
-    Lietuvos kariuomenės artileris-
-    tai patys įleido sukilėlius į vidų.
-    Atsitraukti su įgulos likučiais
-    pavyko kpt.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
+Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva. Sutarties sąlygose numatyta, kad iš priešo atsiimtas grobis grąžinamas ankstesniems savininkams, o maskvėnų manta dalijama Lietuvai ir Livonijai.
 
 ## Teiginiai
 
@@ -34,63 +34,50 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
   teiginys: "Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva."
   pagrindžia:
     - c-169702
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Štai dėl to jis ir prašąs, kad, paisydamas
-    paliaubų, kurios ligi šiol išsaugojo tarp jų šalių san­
-    tarvę, Ivanas nepradėtų Livonijoje karo, nes Žygiman­
-    tas Augustas nutarė, ėmęsis visų reikalingų priemonių,
-    ginti Livoniją taip pat kaip ir Lietuvą. Lietuvių senato va­
-    dovai Mikalojus Radvila ir Eustachijus Valavičius iš­
-    siuntė Maskvos didikams savo laišką, kuriame štai ką
-    pareiškė. Esą jų karalius, ligi šiol Maskvai nieko neda­
-    ręs, ir dabar atkakliai vengiąs karo, Tačiau Lietuvos
-    luomai nė neketiną palaikyti karaliaus, manydami, kad,
-    K a ra liu s m ė g in a
-    a t­
-    k a lb ė ti M a sk v o s v a l­
-    d o v ą  nuo k a ro  su Li-
-    v o n i ja
-    23.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196360"></a>
+- t-002
+  global_id: t-196360
+  teiginys: "Sutarties sąlygose numatyta, kad iš priešo atsiimtas grobis grąžinamas ankstesniems savininkams, o maskvėnų manta dalijama Lietuvai ir Livonijai."
   pagrindžia:
-    - t-001
+    - c-169702
 
 ## Citatos
 
 - id: c-169702
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 703"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 703."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Štai dėl to jis ir prašąs, kad, paisydamas
-    paliaubų, kurios ligi šiol išsaugojo tarp jų šalių san­
-    tarvę, Ivanas nepradėtų Livonijoje karo, nes Žygiman­
-    tas Augustas nutarė, ėmęsis visų reikalingų priemonių,
-    ginti Livoniją taip pat kaip ir Lietuvą. Lietuvių senato va­
-    dovai Mikalojus Radvila ir Eustachijus Valavičius iš­
-    siuntė Maskvos didikams savo laišką, kuriame štai ką
-    pareiškė. Esą jų karalius, ligi šiol Maskvai nieko neda­
-    ręs, ir dabar atkakliai vengiąs karo, Tačiau Lietuvos
-    luomai nė neketiną palaikyti karaliaus, manydami, kad,
-    K a ra liu s m ė g in a
-    a t­
-    k a lb ė ti M a sk v o s v a l­
-    d o v ą  nuo k a ro  su Li-
-    v o n i ja
-    23.
+    Tuo tar­
+    pu visų šių žemių gyventojai būsią teisiami ir valdomi
+    Lietuvos didžiojo kunigaikščio paskirtų pareigūnų, bet
+    remiantis senaisiais, iš protėvių paveldėtais Livonijos
+    įstatymais, nepažeidžiant niekieno — nei atskiro žmo­
+    gaus, nei jokios bendruomenės — teisių bei jiems su­
+    teiktų lengvatų, gerbiant visas krašto šventenybes ir
+    nieko neapkraunant neteisingais mokesčiais. Didysis
+    Lietuvos kunigaikštis bei visi Lietuvos luomai privalą
+    ginti visą Livoniją ir teutonų riterius, skirdami tam ir
+    lėšų, ir karių. Lietuvių etmonai, atžygiavę su kariuo­
+    mene į Livoniją ir suderinę karo planus, privalą steng­
+    tis, kad kariai, ar įsikurdinę nuolatinėse ar žiemos sto­
+    vyklose, ar žygiuodami per kraštą, nedarytų jokios
+    žalos. Iš priešo atsiimtas grobis atiteksiąs tam, kam
+    anksčiau priklausė: ar lietuviams, ar Livonijos žmo­
+    nėms, o maskvėnams priklausiusi manta būsianti dalo­
+    ma po lygiai tarp Lietuvos ir Livonijos. Karalius Augus­
+    tas privaląs dar šiais metais per savo legatus pareika­
+    lauti iš Maskvos valdovo sugrąžinti užimtas apygardas
+    ir paleisti belaisvius, be to, priversti jį atsilyginti nuos­
+    tolius ir pasižadėti, jog nebeniokosiąs Livonijos; jeigu
+    su tuo jis nesutiksiąs, karalius turėsiąs paskelbti jam
+    karą.
+  citata_rodoma: "Didysis \nLietuvos kunigaikštis bei visi Lietuvos luomai privalą \nginti visą Livoniją ir teutonų riterius, skirdami tam ir \nlėšų, ir karių. Lietuvių etmonai, atžygiavę su kariuo­\nmene į Livoniją ir suderinę karo planus, privalą steng­\ntis, kad kariai, ar įsikurdinę nuolatinėse ar žiemos sto­\nvyklose, ar žygiuodami per kraštą, nedarytų jokios \nžalos. Iš priešo atsiimtas grobis atiteksiąs tam, kam \nanksčiau priklausė: ar lietuviams, ar Livonijos žmo­\nnėms, o maskvėnams priklausiusi manta būsianti dalo­\nma po lygiai tarp Lietuvos ir Livonijos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186341
+    - t-196360

@@ -45,31 +45,6 @@ Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­ re Trakuose, todėl
   pagrindžia:
     - c-38561
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186640|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimieras tą pačią žiemą pasiuntė savo vaivadas, kunigaikščius ir ponus su kariuomene pulti Maskvos žemės.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kiek tos kovos Kęstučio valdymo laiku padidėjo,
-    rodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad
-    1362 m. išgriovė Kauno pilį ir pradėjo brautis vis gilyn į Lietu­
-    vą, pasiekdami net Vilniaus ir Neries sritis, kurių dar niekad
-    priešai nebuvo pasiekę.
-    Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­
-    re Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,
-    ir užtat nenuostabu, kad jis labai anksti (1368 m.) pradeda
-    dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­
-    vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
-    lyvauja kartu žygyje prieš lenkus. Pirmąją gi didelę karinę
-    pamoką Vytautas gavo viename mūšyje su kryžiuočiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38561

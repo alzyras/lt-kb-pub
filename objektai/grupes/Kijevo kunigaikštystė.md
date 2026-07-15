@@ -42,10 +42,6 @@ Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, k
   teiginys: "Kijevo kunigaikštystė nuo Gedimino laikų buvo didžiojo Lietuvos kunigaikščio priklausomybėje."
   pagrindžia:
     - c-28559
-- susijęs iš Kijevas: Kijevo kunigaikštystė buvo įjungta į Lietuvos valstybę drauge su Podole.
-- susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę.
-- susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.
-- susijęs iš Kijevas: Skirgailai buvo paliktas Polockas ir pažadėta Kijevo kunigaikštystė.
 - susijęs iš Kijevas: Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.
 - susijęs iš Kijevas: Per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.
 - susijęs iš Podolė: Drauge su Podole į Lietuvos valstybę buvo įjungta ir Kijevo kunigaikštystė.
@@ -56,25 +52,6 @@ Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, k
 - susijęs iš Lietuva: Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros.
 - susijęs iš Podolė: Kijevo kunigaikštystė ir Podolė, tuomet nusidriekusi iki Dniepro ir Dniestro žiočių, priklausė Lietuvai.
 - susijęs iš Tavano pilis: Vytautas lietuvių Tavano pilyje prie Dniepro įsteigė muitinę, vadintą Vytauto pirtimi.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo
-    kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos
-    kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
-    brolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių
-    įtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398).
-    Dar būdamas daliniu kunigaikščiu, 1342 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-28559

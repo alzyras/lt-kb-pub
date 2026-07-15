@@ -34,31 +34,6 @@ Trumpojoje Lietuvos metraščių redakcijoje (xv a.
   teiginys: "Trumpojoje Lietuvos metraščių redakcijoje įrašytas „Pasakojimas apie Podolę“ yra plačiausias šaltinis apie Mėlynųjų Vandenų temą."
   pagrindžia:
     - c-45016
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Trumpojoje Lietuvos metraščių redakcijoje įrašytas „Pasakojimas apie Podolę“ yra plačiausias šaltinis apie Mėlynųjų Vandenų temą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tas pats aprašyta vė-
-    lesniame Maskvos- Tverės kilmės Nikono
-    metraštyje (susijusiame su Algirdo pali-
-    kuonimis Belskiais). Trumpojoje Lietuvos
-    metraščių redakcijoje (xv a. 4-5 de-
-    šimtmečiai) įrašytas „Pasakojimas apie
-    Podolę“ - plačiausiai kalbantis šaltinis
-    šia tema. Istorinė tradicija (jai atstovauja
-    M. Strijkovskis) teigia, kad Algirdas, su-
-    telkęs savo lietuvių pajėgas, žygiuoda-
-    mas Padniepre pro Kanevą, Čerkasus, ties
-    Mėlynaisiais Vandenimis sumušęs totorius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

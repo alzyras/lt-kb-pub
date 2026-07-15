@@ -9,13 +9,13 @@ datos:
   - '1333 m.'
 date_start: '1320'
 date_end: '1333'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,29 +61,6 @@ media_all_json: |-
 - susijęs iš Severskas: Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.
 - susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10254|Mėlynųjų Vandenų mūšis (1362 m.)]]: Istorinė tradicija teigia, kad Algirdas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    (į šiaurę nuo Kijevo), Kanevas, Cerkasai
-    (prie Dniepro žemiau Kijevo; xvi a. vidu-
-    rio Kanevo pilies aprašo išlikusiame pa-
-    davime sakoma, kad Kanevą su Čerkasais
-    įkūrė Gediminas).
-
-    Gedimino žygis, mūšis prie Irpenės ir
-    Kijevo užėmimas istoriografijoje datuotas
-    įvairiai, 1320-1321, 1322, 1323, 1324, 1333 m.,
-    pastaraisiais dešimtmečiais akcentuotos
-    dvi priešpaskutinės datos. Tarptautinių
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Gediminui užėmus Kijevą, Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pilys pasidavė nugalėtojui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -138,8 +115,7 @@ media_all_json: |-
 - id: c-168329
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Visi luo­
     mai, išėję iš miesto, sveikino
@@ -153,7 +129,12 @@ media_all_json: |-
     vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
     ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
     kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
-    išplėtė lietuvių valdų ribas ligi Putivlio.
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje.
+  citata_rodoma: "Visi luo­\nmai, išėję iš miesto, sveikino\nnugalėtoją\nGediminą\nkaip\nKijevo ir Rusios didįjį kuni­\ngaikštį, prisiekdami su visomis žemėmis paklusti jo\nvaldžiai. Gediminas, pasilsėjęs čia, kol artimiausios pi­\nlys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­\nvė nugalėtojui, patraukė į Severską. Užėmęs Brianską\nir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­\nkariavęs Kijevą, Volynę ir didelę Seversko dalį, jis\nišplėtė lietuvių valdų ribas ligi Putivlio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

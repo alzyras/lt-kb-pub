@@ -56,26 +56,6 @@ Nenurodyta
   teiginys: "1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatydinti."
   pagrindžia:
     - c-02282
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatydinti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1861 m. įkurtų valsčių viršaičiai (star-
-    šinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti,
-    buvo atstatyti. Nauji viršaičių rinkimai buvo apsaugoti nuo
-    dvarininkų įtakos. Centro valdžios skirtiems valdininkams bu-
-    vo įsakyta stropiai žiūrėti, kad dvarininkai ir dvarų administra-
-    cijos tarnautojai nedalyvautų valsčių sueigose ir nesikištų į jų
-    nutarimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

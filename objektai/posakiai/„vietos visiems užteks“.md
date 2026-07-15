@@ -37,28 +37,6 @@ Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks
     - c-23686
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77976|A. Smetona]]: A. Smetona agresyvesniems jaunalietuviams pareiškė, kad žydų apribojimų nereikia ir „vietos visiems užteks“.
 - susijęs iš [[objektai/zodynas/Filosemitas.md#claim-t-77795|Filosemitas]]: Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas
-    A. Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems
-    užteks“.
-    Tautininkams patiko ir žydų parama sprendžiant Klaipėdos ir Vil-
-    niaus problemas, o žydų dalyvavimas savivaldos rinkimuose laikytas
-    „nepagrįstu“ žydų noru toliau plėsti savo įtaką. Tačiau lietuvėjant mies-
-    tams, lietuvių ir jų ūkinių kooperatyvų veikla neišvengiamai silpnino
-    žydų verslo pozicijas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-23686

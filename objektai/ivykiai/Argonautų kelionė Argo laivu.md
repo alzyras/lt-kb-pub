@@ -52,37 +52,13 @@ Nenurodyta
   teiginys: "Narbutas Argonautų kelionę sieja su Jasono vadovaujamu plaukimu Argo laivu ir nurodo, kad kartu plaukę jūreiviai buvo vadinami argonautais."
   pagrindžia:
     - c-173921
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Argonautų kelionę sieja su Jasono vadovaujamu plaukimu Argo laivu ir nurodo, kad kartu plaukę jūreiviai buvo vadinami argonautais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Prikso sūnus Argas pirmasis susiruošė į ke­
-    lionę minėta jūra, kurią tuomet vadino Pontos-Axenos,
-    t. y. nesvetinga jūra; šis pavadinimas buvo taikomas
-    Juodajai jūrai nuo Dunojaus žiočių net iki Dono žiočių.
-    Juodąja jūrą pavadino vėliau dėl dažnai virš jos tvy­
-    rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė
-    vyko Argo laivu, taip vadinamu gal dėl jo statytojo, o
-    plaukę kartu jūreiviai buvo vadinami argonautais. Tai
-    buvo 1350 metais iki Kristaus gimimo, 70 metų prieš
-    1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173921
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 42"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Prikso sūnus Argas pirmasis susiruošė į ke­
     lionę minėta jūra, kurią tuomet vadino Pontos-Axenos,

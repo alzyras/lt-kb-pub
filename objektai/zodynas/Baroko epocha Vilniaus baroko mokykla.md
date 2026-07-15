@@ -35,26 +35,6 @@ buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis a
   teiginys: "XVIII a. susiformavo originali Vilniaus baroko mokykla, kurios pagrindiniu architektu laikomas Jonas Kristupas Glaubicas."
   pagrindžia:
     - c-24659
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jame randame šiuolaikinės artilerijos
-    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
-    orija.
-    XVII–XVIII a. barokinį kraštovaizdį architektūroje ir dailėje taip pat
-    nulėmė jėzuitai. Tik XVII a. vyravo „importinis“, ypač itališkas, barokas,
-    o XVIII a. buvo sukurta originali, vadinamoji Vilniaus baroko mokykla,
-    kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Chris-
-    toph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

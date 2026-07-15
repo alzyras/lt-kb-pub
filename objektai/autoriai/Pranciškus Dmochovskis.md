@@ -42,38 +42,19 @@ Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dm
   teiginys: "Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dmochovskio „Iliados“ varian tas (Dziela Homerą."
   pagrindžia:
     - c-173332
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dmochovskio „Iliados“ varian tas (Dziela Homerą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tai galėtų būti ir paties T. Nar­
-    buto vertimas į lenkų kalbą, nes tuo metu buvo pa­
-    plitęs Pranciškaus Dmochovskio „Iliados“ varian­
-    tas (Dziela Homerą. -  Tom drugi: Iliada. Przez
-    Franciszka Dmochowskiego. -  Warszawa, 1805).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173332
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 470"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 470."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai galėtų būti ir paties T. Nar­
     buto vertimas į lenkų kalbą, nes tuo metu buvo pa­
     plitęs Pranciškaus Dmochovskio „Iliados“ varian­
-    tas (Dziela Homerą. -  Tom drugi: Iliada. Przez
-    Franciszka Dmochowskiego. -  Warszawa, 1805).
+    tas (Dziela Homerą. - Tom drugi: Iliada. Przez
+    Franciszka Dmochowskiego. - Warszawa, 1805).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

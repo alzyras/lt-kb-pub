@@ -34,31 +34,13 @@ Dusburgietis teigia, kad netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs vis
   teiginys: "Petras Dusburgietis Tarkvinijų mini kaip žiaurų daugelio kankinimo būdų sumanytoją."
   pagrindžia:
     - c-61077
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Petras Dusburgietis Tarkvinijų mini kaip žiaurų daugelio kankinimo būdų sumanytoją.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vartyk
-    nevartęs visus šventųjų kankinių gyvenimo aprašus, niekur neužtiksi, kad kas būtų
-    šitaip nukankintas. Netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs visokių kankinimo
-    būdų, šitokio nesugalvojo. Iš tiesų šitai būta nepaprasto ir pasaulyje negirdėto būdo309.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61077
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vartyk
     nevartęs visus šventųjų kankinių gyvenimo aprašus, niekur neužtiksi, kad kas būtų

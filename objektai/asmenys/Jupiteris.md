@@ -40,34 +40,12 @@ Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito i�
 - susijęs iš [[objektai/asmenys/Borėjas.md#claim-t-191258|Borėjas]]: Graikų padavimuose Borėjas buvo karalius ir įžymus krašto į šiaurę nuo Graikijos valdovas, kurio dukra Boristenė pagimdė Targitą.
 - susijęs iš [[objektai/asmenys/Fajetonas.md#claim-t-191267|Fajetonas]]: Graikų poetų sakmėje Fajetonas, saulės sūnus, nesuvaldė tėvo žirgų danguje ir sukėlė žemėje baisius padarinius.
 - susijęs iš Kerčės tvirtovė: Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito iš dangaus ir nuskendo Eridane.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    156
-    Iš tikrųjų graikų poetai pateikia mitinę ¡sakmę apie
-    gintarą. Anot jos, kartą saulės sūnus Fajetonas įsigeidė
-    pasivažinėti po dangų tėvo arkliais, ¡bet, nesuvaldęs dan­
-    gaus kinkinio, sutrikdė dienos žvaigždės judėjimą, tai ir
-    sukėlė žemėje ¡baisius padarinius. Jį nukovė Jupiterio strė­
-    lė; jis nukrito iš dangaus ir nuskendo Vakaruose, Eridane.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174306
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 151"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     156
     Iš tikrųjų graikų poetai pateikia mitinę ¡sakmę apie

@@ -41,6 +41,7 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   teiginys: "Kariuomenės ir Iždo komisijose Lenkija ir LDK turėjo turėti po lygiai narių, o jų pirmininkai turėjo būti paeiliui lenkai ir lietuviai."
   pagrindžia:
     - c-22445
+    - c-166526
 
 <a id="claim-t-19739"></a>
 - t-002
@@ -55,90 +56,6 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   teiginys: "Teisių sargybai priklausė bendrų Lenkijos ir Lietuvos iždo, karo ir policijos komisijų pirmininkai."
   pagrindžia:
     - c-166525
-
-<a id="claim-t-183141"></a>
-- t-004
-  global_id: t-183141
-  teiginys: "Kariuomenės ir Iždo komisijose Lenkija ir LDK turėjo turėti po lygiai narių, o jų pirmininkai turėjo būti paeiliui lenkai ir lietuviai."
-  pagrindžia:
-    - c-166526
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors Seimui pirmininkauti
-    turi karalius, jo įstatymų leidybos galios yra ribotos, o karaliaus vaidmuo
-    didėja vykdomojoje valdžioje. Atšaukiama karalių renkamumo tvarka,
-    dėl kurios Lenkija ir Lietuva nusirito į anarchijos liūną, valstybė skelbia-
-    ma paveldima monarchija. Tvarkyti valstybės reikalus valdovui turi pa-
-    dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
-    kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
-    karo, policijos komisijų – pirmininkai (ministrai).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
-    kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
-    įžadu. Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius
-    veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas. Remiantis šiuo
-    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
-    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
-    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
-    turėjo būti paeiliui lenkai ir lietuviai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Teisių sargybai priklausė bendrų Lenkijos ir Lietuvos iždo, karo ir policijos komisijų pirmininkai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atšaukiama karalių renkamumo tvarka,
-    dėl kurios Lenkija ir Lietuva nusirito į anarchijos liūną, valstybė skelbia-
-    ma paveldima monarchija. Tvarkyti valstybės reikalus valdovui turi pa-
-    dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
-    kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
-    karo, policijos komisijų – pirmininkai (ministrai). Konstitucija baigiama
-    tautos kaip valstybės vientisumo ir suverenumo idėja.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Kariuomenės ir Iždo komisijose Lenkija ir LDK turėjo turėti po lygiai narių, o jų pirmininkai turėjo būti paeiliui lenkai ir lietuviai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius
-    veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas. Remiantis šiuo
-    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
-    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
-    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
-    turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
-    Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 ## Citatos
 
@@ -219,5 +136,3 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183141

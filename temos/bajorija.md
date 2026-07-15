@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 59
+tema_objektu_skaicius: 64
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 59.
+Objektų skaičius: 64.
 
 ## Kaip naudoti
 
@@ -74,10 +74,13 @@ Objektų skaičius: 59.
 - [Rusėnai](../objektai/grupes/Rus%C4%97nai)
 - [Sapiegos](../objektai/grupes/Sapiegos)
 - [Senalietuviai](../objektai/grupes/Senalietuviai)
+- [Smolensko pavieto seimelis](../objektai/grupes/Smolensko%20pavieto%20seimelis)
+- [Starodubo seimelis](../objektai/grupes/Starodubo%20seimelis)
 - [Tiškevičiai](../objektai/grupes/Ti%C5%A1kevi%C4%8Diai)
 - [Valavičiai](../objektai/grupes/Valavi%C4%8Diai)
 - [Valkininkų konfederacija](../objektai/grupes/Valkinink%C5%B3%20konfederacija)
 - [Vengrai](../objektai/grupes/Vengrai)
+- [Vilniaus seimelis](../objektai/grupes/Vilniaus%20seimelis)
 - [Vokiečių ir rusų pirkliai](../objektai/grupes/Vokie%C4%8Di%C5%B3%20ir%20rus%C5%B3%20pirkliai)
 - [Vyriausiasis Lietuvos tribunolas](../objektai/grupes/Vyriausiasis%20Lietuvos%20tribunolas)
 - [Čartoriskiai](../objektai/grupes/%C4%8Cartoriskiai)
@@ -85,3 +88,9 @@ Objektų skaičius: 59.
 - [Žemaitijos vyriausybė](../objektai/grupes/%C5%BDemaitijos%20vyriausyb%C4%97)
 - [Žydai](../objektai/grupes/%C5%BDydai)
 - [Žygimanto šalininkai](../objektai/grupes/%C5%BDygimanto%20%C5%A1alininkai)
+
+### Vietos
+- [Pinskas](../objektai/vietos/Pinskas)
+
+### Žodynas
+- [luomas](../objektai/zodynas/luomas)

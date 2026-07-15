@@ -43,28 +43,6 @@ gruodžio 15 d. į visuotinį Bažnyčios sinodą Konstancijoje nusiuntė net 60
   teiginys: "Prof. kunigas dr. J. Fijalek teigė, kad „Propositio Samaytarum“ dėl graudumo ir šiandien sunku skaityti sausomis akimis."
   pagrindžia:
     - c-38199
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Prieš Ordiną toliau Vytautas kartu su Lenkija
-    vedė tai ginklu, tai diplomatišką kovą siekdamas išgauti amžiną
-    atsisakymą nuo Žemaitijos. Tos kovos metu jis vėl pagarsino
-    savo darbus ir sukompromitavo katalikiško pasaulio akyse
-    Ordiną. Jis 1415 mt. gruodžio 15 d. į visuotinį Bažnyčios
-    sinodą Konstancijoje nusiuntė net 60 apkrikštytu žemaičių ba­
-    joru, kurie įteikė sinodui ilgą memorialą — skundą „Propo­
-    sitio Samaytarum” kurio dėl graudingumo, kaip sako prof.
-    kunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis
-    skaityti^3 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

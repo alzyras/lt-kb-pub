@@ -63,49 +63,13 @@ Nenurodyta
   teiginys: "Ukmergės pilkapį, ilgai užlietą greta esančio ežero, 1838 m. atkasė Karolis Kozakovskis."
   pagrindžia:
     - c-175280
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Į ją ir buvo me­
-    tami laužaviečių likučiai. Per daugelį metų taip išaugdavo pilka­
-    piai. Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-
-    kovskis, duoda pagrindo tuo tikėti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Ukmergės pilkapį, ilgai užlietą greta esančio ežero, 1838 m. atkasė Karolis Kozakovskis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Per daugelį metų taip išaugdavo pilka­
-    piai. Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-
-    kovskis, duoda pagrindo tuo tikėti. Tas pilkapis ilgus metus buvo
-    užlietas greta esančio ežero, bet, kai neseniai ta vieta buvo nu­
-    sausinta ir buvo atlikti kasinėjimai, paaiškėjo, jog pilkapis plytėjo
-    ant didžiulės duobės, kuri beveik visa buvo pilna pelenų ir ap­
-    degusių daiktų liekanų2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-174913
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 504"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 504."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Į ją ir buvo me­
     tami laužaviečių likučiai. Per daugelį metų taip išaugdavo pilka­
@@ -122,8 +86,7 @@ Nenurodyta
 - id: c-175280
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 504"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 504."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Per daugelį metų taip išaugdavo pilka­
     piai. Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-

@@ -51,6 +51,7 @@ Lemu parapija šiame šaltinyje yra parapija.
   teiginys: "Augustas Robertas Niemi gimė Lemu parapijoje."
   pagrindžia:
     - c-178050
+
 ## Citatos
 
 - id: c-178050
@@ -67,11 +68,7 @@ Lemu parapija šiame šaltinyje yra parapija.
     męs vakarų Suomijoj, arti Turku miesto, netoli Naantalio, Lemu pa­
     rapijoj, iš pasiturinčių ūkininkų tėvų, 1869 m. liepos m. 25 d., o nuo 5
     metų gyvenęs Luononmaa saloje šalia to paties Naantalio.
-  citata_rodoma: "Augustas Robertas Niemi,
-suomis, yra gi­
-męs vakarų Suomijoj, arti Turku miesto, netoli Naantalio, Lemu pa­
-rapijoj, iš pasiturinčių ūkininkų tėvų, 1869 m. liepos m. 25 d., o nuo 5
-metų gyvenęs Luononmaa saloje šalia to paties Naantalio."
+  citata_rodoma: "Augustas Robertas Niemi, \nsuomis, yra gi­\nmęs vakarų Suomijoj, arti Turku miesto, netoli Naantalio, Lemu pa­\nrapijoj, iš pasiturinčių ūkininkų tėvų, 1869 m. liepos m. 25 d., o nuo 5 \nmetų gyvenęs Luononmaa saloje šalia to paties Naantalio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

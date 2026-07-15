@@ -75,52 +75,6 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 - susijęs iš [[objektai/zodynas/apostazija.md#claim-t-05590|apostazija]]: Apostazija šiame tekste reiškia Mindaugo atkritimą nuo krikščionybės.
 - susijęs iš [[objektai/zodynas/ekskomunikuoti.md#claim-t-58899|ekskomunikuoti]]: 1324 m. popiežius Jonas XXII pagrasino ekskomunikuoti Ordiną.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Popiežius Jonas XXII kėlė bažnytinės unijos idėją, o Gediminas jam siuntė laiškus dėl krikšto.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gediminas kūrė stačiatikių metro-
-    poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
-    politika jis sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais
-    kėlė bažnytinės unijos idėją. Jam Gediminas ir siuntė laiškus, kuriuose
-    pareiškė pageidavimą krikštytis: Lietuvos valdovai norį priimti katalikų
-    tikėjimą, bet priversti gintis nuo kryžiuočių, kuriems rūpįs ne krikštas,
-    o valstybės užkariavimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Popiežius Jonas XXII po pasitarimo su kardinolais paskelbė sprendimą dėl Kryžiuočių ordino ir Rygos Bažnyčios ginčo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Įrodė, jog daugiausia kaltinimų anaiptol ne Ordinui ten­
-    ka, jis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali
-    būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.
-    Popiežius po atskiro pasitarimo su kardinolais visuoti­
-    niame susirinkime pareiškė tokį sprendimą: „Kryžiuočių or­
-    dino riteriai turi Rygos Bažnyčiai, vyskupams bei kapitulai
-    atiduoti viską, ką paėmę, ir daugiau jų nepuldinėti; prakeiks­
-    mas kris ant to, kuris mūšyje sužeistą Ordino brolį pribaig­
-    tų arba skatintų tokį nusikaltimą daryti; niekas daugiau ne­
-    gali trukdyti arba kelti sunkumų tiems, kurie norėtų vykti
-    pas popiežių; visos sąjungos ir susimokiusiųjų sambūriai,
-    gresiantys Bažnyčios garbei, turi būti išsklaidyti ir ateityje
-    nekuriami. Kryžiuočiai turi gerbti dvasininkiją ir jokių nuos­
-    kaudų jiems, jokių skriaudų Bažnyčiai nedaryti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Popiežius Jonas XXII 1324 m. pasiuntė į Livoniją du legatus pakrikštyti lietuvių ir rusų karaliaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -147,26 +101,6 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-004
-  santrauka: '1316 m. valdė popiežius Jonas XXII, o du karaliai buvo išrinkti per nesantarvę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    118. Apie popiežių Joną XXII ir išrinktus [karalius]
-
-      1316 viešpaties metais valdė Jonas XXII, popiežius, ir šie du per nesantarvę išrinkti
-    karaliai.
-
-
-
-          119.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-166938
@@ -217,8 +151,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 - id: c-167480
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 249"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     118. Apie popiežių Joną XXII ir išrinktus [karalius]
 

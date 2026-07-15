@@ -41,40 +41,6 @@ media_all_json: |-
   teiginys: "Pirmasis krikštas Lietuvoje siejamas su krikščioniškosios Europos Millenniumo idėja, kildinama iš Apreiškimo Jonui."
   pagrindžia:
     - c-166748
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
-    kuris įtikėjo ir krikštijosi. Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs
-    su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri
-    kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės. Iš čia
-    motyvų pasitelkė misionieriai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Pirmasis krikštas Lietuvoje siejamas su krikščioniškosios Europos Millenniumo idėja, kildinama iš Apreiškimo Jonui.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs
-    su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri
-    kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės. Iš čia
-    motyvų pasitelkė misionieriai. Millenniumas – tai slenkstis, ant kurio
-    laukiama Paskutinio teismo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

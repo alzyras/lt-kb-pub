@@ -8,13 +8,13 @@ datos:
   - '1955 m.'
 date_start: '1324'
 date_end: '1955'
+amziai:
+  - 'XIV'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIV'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,8 +56,8 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   teiginys: "Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95."
   pagrindžia:
     - c-85474
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai kurios Dusburgiečio kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -77,33 +77,21 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
     - t-002
     - t-003
 
-- c-002
-  santrauka: 'Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvos TSR istorijos šaltiniai.— T. 1.— V., 1955.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-85474
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 21"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Lotyniškojo
-    originalo ir lietuviškojo vertimo paragrafai, atskleidžiantys įvairius prūsų (32 paragrafai)
-    ir lietuvių (14 paragrafų) kovų su Ordinu momentus (iki 1324 m.), tarpais sutrumpinti,
-    paskelbti J. Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95. Kai kurios
-    kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96. Pilnas
-    kronikos vertimas čia publikuojamas pirmą kartą.
+    Kronikos šaltiniai
+    Jau XIX a. pabaigoje tyrinėjimai parodė, kad Dusburgietis naudojosi ankstesniais
+    analais, kurių išliko keletas kopijų.
+    Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97. Pirmoje žinutėje kalbama
+    apie Ordino įsikūrimą Jeruzalėje 1190 m., po to — apie Ordino pilių statybą Prūsijoje,
+    pradedant Torune (1231 m.), lakoniškai pasakojama apie mūšius „zu Kuwerlant“
+    1260 m. (t. y. Kurše— Durbė), „zu Pocarwen“ ir kt., apie Vokietijos, Čekijos hercogų,
+    markgrafų, karalių atvykimą į Prūsiją.
   citata_rodoma: "Kai kurios\nkronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96. Pilnas\nkronikos vertimas čia publikuojamas pirmą kartą."
   statusas: verified
   teiginio_tipas: faktas
@@ -116,8 +104,7 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
 - id: c-85476
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lietuvos TSR istorijos šaltiniai.— T. 1.— V., 1955.
   statusas: verified

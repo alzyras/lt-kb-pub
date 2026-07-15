@@ -32,32 +32,9 @@ Rausvės (Ross) upė, kuri ir dabar vadinama tuo pačiu vardu, tekėjo sudinų (
 <a id="claim-t-194771"></a>
 - t-001
   global_id: t-194771
-  teiginys: "Rausvės (Ross) upė, kuri ir dabar vadinama tuo pačiu vardu, tekėjo sudinų (sūduvių) šalyje."
+  teiginys: 'Rausvės (Ross) upė, kuri ir dabar vadinama tuo pačiu vardu, tekėjo sudinų (sūduvių) šalyje.'
   pagrindžia:
     - c-177167
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rausvės (Ross) upė, kuri ir dabar vadinama tuo pačiu vardu, tekėjo sudinų (sūduvių) šalyje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    H*
-    227
-
-    ## Puslapis 227
-
-    (Ross) upę, kuri ir šiandien taip tebesivadina ir įteka į Narevą
-    jo dešiniajame krante, žemiau Ostrolenkos. Rausvės (Ross)
-    upė, kuri ir dabar vadinama tuo pačiu vardu, tekėjo sudinų
-    (sūduvių) šalyje. Ji įteka į Šešupę jos kairiajame krante netoli
-    Naumiesčio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -81,4 +58,4 @@ Rausvės (Ross) upė, kuri ir dabar vadinama tuo pačiu vardu, tekėjo sudinų (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194771
+    - t-001

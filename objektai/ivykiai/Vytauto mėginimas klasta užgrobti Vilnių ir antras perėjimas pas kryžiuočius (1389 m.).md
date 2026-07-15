@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vytautas pirmiausia nutarė klasta užgrobti Vilnių, pasinaudodamas gandais apie Henriko ir Ringailės santuoką.
+Vytautas pirmiausia nutarė klasta užgrobti Vilnių, pasinaudodamas gandais apie Henriko ir Ringailės santuoką. Vytautas pasinaudojo gandais apie Henriko Mazoviečio ir Ringailės santuoką, paskleisdamas žinią, kad vestuvės vyks Vilniuje.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -54,51 +54,59 @@ Nenurodyta
   teiginys: "Vytautas pirmiausia nutarė klasta užgrobti Vilnių, pasinaudodamas gandais apie Henriko ir Ringailės santuoką."
   pagrindžia:
     - c-169020
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Vytautas pirmiausia nutarė klasta užgrobti Vilnių, pasinaudodamas gandais apie Henriko ir Ringailės santuoką.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pirmiausia Vytautas nutarė klasta užgrobti Vilnių. Tuo
-    metu kaip tik pasitaikė tin-
-    V iln ių  b an do u žgrob-
-    karna proga, nes sklido gan-
-    ti k lasta
-    dai, esą tariamasi dėl Henri­
-    ko, Mazovijos kunigaikščio,
-    bei Ringailės, Vytauto sesers, santuokos. Pasinaudojęs
-    šia dingstimi, jis paleido gandą, kad vestuvės būsian­
-    čios Vilniuje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196272"></a>
+- t-002
+  global_id: t-196272
+  teiginys: "Vytautas pasinaudojo gandais apie Henriko Mazoviečio ir Ringailės santuoką, paskleisdamas žinią, kad vestuvės vyks Vilniuje."
   pagrindžia:
-    - t-001
+    - c-178607
 
 ## Citatos
 
 - id: c-169020
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 309"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 309."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pirmiausia Vytautas nutarė klasta užgrobti Vilnių. Tuo
-    metu kaip tik pasitaikė tin-
-    V iln ių  b an do u žgrob-
-    karna proga, nes sklido gan-
-    ti k lasta
-    dai, esą tariamasi dėl Henri­
-    ko, Mazovijos kunigaikščio,
-    bei Ringailės, Vytauto sesers, santuokos. Pasinaudojęs
-    šia dingstimi, jis paleido gandą, kad vestuvės būsian­
-    čios Vilniuje.
+    Vytautas
+    nutarė valdžią Lietuvoje užgrobti klasta, o jei šitai ne­
+    pasisektų, pulti atvirai. Garbėtroškos jausmo laikas ne­
+    gydo, anaiptol, brandina: kaip upė, patvinus vande­
+    nims, pasiekia užtvaros lygį ir pralaužia pylimą, taip ir
+    garbės troškimo jausmas, laiko šiek tiek aptramdytas,
+    stiprėja, o jeigu jo kokia galia nesulaiko, viską pra­
+    noksta ir.pasidaro toks įžūlus, kad laužo kas pakliūva.
+    Pirmiausia Vytautas nutarė klasta užgrobti Vilnių.
+  citata_rodoma: "Pirmiausia Vytautas nutarė klasta užgrobti Vilnių. Tuo\nmetu kaip tik pasitaikė tin-\nV iln ių  b an do u žgrob-\nkarna proga, nes sklido gan-\nti k lasta\ndai, esą tariamasi dėl Henri­\nko, Mazovijos kunigaikščio,\nbei Ringailės, Vytauto sesers, santuokos. Pasinaudojęs\nšia dingstimi, jis paleido gandą, kad vestuvės būsian­\nčios Vilniuje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185659
+
+- id: c-178607
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Tuo
+    metu kaip tik pasitaikė tin-
+    V iln ių b an do u žgrob-
+    karna proga, nes sklido gan-
+    ti k lasta
+    dai, esą tariamasi dėl Henri­
+    ko, Mazovijos kunigaikščio,
+    bei Ringailės, Vytauto sesers, santuokos. Pasinaudojęs
+    šia dingstimi, jis paleido gandą, kad vestuvės būsian­
+    čios Vilniuje. Kai šios paskalos pasklido visur kuo pla­
+    čiausiai ir kai jomis patikėjo labai daug žmonių, jis
+    parinko būrį bajorų, pasirengusių tokiam žygiui, ir jį
+    išsiuntė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196272

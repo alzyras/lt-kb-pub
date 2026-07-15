@@ -52,8 +52,8 @@ Dusetos šiame šaltinyje yra vietovė.
   global_id: t-195489
   teiginys: "1931 m. Tautosakos komisijos suvestinėje A. Mažiulis ir A. Barzda nurodyti kaip iš Dusetų."
   pagrindžia:
-    - c-177912
     - c-177911
+    - c-177912
 
 ## Citatos
 

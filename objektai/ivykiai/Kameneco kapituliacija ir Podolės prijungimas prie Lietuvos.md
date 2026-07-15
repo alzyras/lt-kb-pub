@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kameneco gynėjų Podolės ir Valachijos kariai susipyko, todėl buvo pasiųsti žygūnai tartis dėl pilies perdavimo sąlygų. Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus.
+Kameneco gynėjų Podolės ir Valachijos kariai susipyko, todėl buvo pasiųsti žygūnai tartis dėl pilies perdavimo sąlygų. Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus. Kojelavičiaus pasakojime Kameneco kapituliacijai kelią atvėrė Podolės ir Valachijos karių nesutarimai, galėję kilti dėl Vytauto klastingumo ar kitos priežasties.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -54,58 +54,20 @@ Nenurodyta
   teiginys: "Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus."
   pagrindžia:
     - c-168942
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Kameneco gynėjų Podolės ir Valachijos kariai susipyko, todėl buvo pasiųsti žygūnai tartis dėl pilies perdavimo sąlygų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Negi kur esti tokia kalno viršūnė, kurios
-    nepasiektų nesantarvė? Gal dėl Vytauto klastingumo,
-    gal dėl kokios kitos priežasties tarp Podolės ir Valachi-
-    jos karių kilo nesutarimai,
-    Sulaukia
-    K a m e n e c o
-    kurie tarytum išgriovė gyny-
-    k a p itu lia c ijo s
-    bines sienas ir atvėrė priešui
-    kelią: dėl asmeniškos neapy­
-    kantos įtūžusios širdys visiškai užmiršo rūpintis ben­
-    drais reikalais. Išsiuntė žygūnus, turėjusius tartis dėl
-    pilies perdavimo sąlygų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196172"></a>
+- t-003
+  global_id: t-196172
+  teiginys: "Kojelavičiaus pasakojime Kameneco kapituliacijai kelią atvėrė Podolės ir Valachijos karių nesutarimai, galėję kilti dėl Vytauto klastingumo ar kitos priežasties."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kadangi Vytautas jiems paro­
-    dė palankumą, apsuptieji visiškai pasidavė jo malonei.
-    Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
-    pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
-    vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
-    na išgabeno į Vilnių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-168942
 
 ## Citatos
 
 - id: c-168941
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 344"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 344."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Negi kur esti tokia kalno viršūnė, kurios
     nepasiektų nesantarvė? Gal dėl Vytauto klastingumo,
@@ -130,18 +92,28 @@ Nenurodyta
 - id: c-168942
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 344"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 344."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kadangi Vytautas jiems paro­
-    dė palankumą, apsuptieji visiškai pasidavė jo malonei.
-    Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
-    pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
-    vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
-    na išgabeno į Vilnių.
+    Vargu ar būtų sėkmingai įveikęs pilį, kuri, pačios gam­
+    tos, rodos, sukurta tvirtovei, ligi tol atrėmė bet kokias
+    žmonių pajėgas ir pastangas, tačiau negi esti tokių
+    gynybinių įtaisų ir tokių įtvirtinimų, kurių nepalaužtų
+    nesantaika? Negi kur esti tokia kalno viršūnė, kurios
+    nepasiektų nesantarvė? Gal dėl Vytauto klastingumo,
+    gal dėl kokios kitos priežasties tarp Podolės ir Valachi-
+    jos karių kilo nesutarimai,
+    Sulaukia
+    K a m e n e c o
+    kurie tarytum išgriovė gyny-
+    k a p itu lia c ijo s
+    bines sienas ir atvėrė priešui
+    kelią: dėl asmeniškos neapy­
+    kantos įtūžusios širdys visiškai užmiršo rūpintis ben­
+    drais reikalais.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185581
+    - t-196172

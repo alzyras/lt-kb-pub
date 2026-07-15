@@ -43,22 +43,8 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   pagrindžia:
     - c-172318
 
-<a id="claim-t-189432"></a>
-- t-003
-  global_id: t-189432
-  teiginys: "Narbutas iš skandinavų legendų ir fragmentiškų paminėjimų sprendė, kad Biarmija buvo turtinga ir turėjo daug brangiųjų metalų."
-  pagrindžia:
-    - c-172319
-
-<a id="claim-t-189433"></a>
-- t-004
-  global_id: t-189433
-  teiginys: "Narbutas teigė, kad stiprėjant rusų valstybei Biarmija turėjo tapti jos provincija, nors biarmiai atkakliai laikėsi senosios stabmeldystės."
-  pagrindžia:
-    - c-172320
-
 <a id="claim-t-189434"></a>
-- t-005
+- t-003
   global_id: t-189434
   teiginys: "Narbutas šventąjį Steponą, Permės vyskupą, vadino tikruoju Biarmijos apaštalu ir siejo su Biarmijos krikščionėjimu."
   pagrindžia:
@@ -70,8 +56,8 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   teiginys: "Narbutas teigė, kad biarmiai nuo senų laikų turėjo savo raidyną, gerokai ankstesnį už XI amžių."
   pagrindžia:
     - c-172322
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos šaka, besiskiriančia tarme, papročiais ir fizionomija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -119,85 +105,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Narbutas iš skandinavų legendų ir fragmentiškų paminėjimų sprendė, kad Biarmija buvo turtinga ir turėjo daug brangiųjų metalų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vėliau iš skandinavų legendų arba iš gana
-    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
-    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
-    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
-    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
-    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
-    mokėjo gana neblogai gintis.
-    435
-
-    ## Puslapis 435
-
-    Išaugus rusų valstybės galiai, Biarmija savaime turėjo tap­
-    ti jos provincija, tačiau ši tauta atkakliai laikėsi savo senosios
-    stabmeldystės; smulkesnės žinios apie ją yra dingusios. Atver­
-    timas j krikščionybę, prasidėjęs tenai apie X amžiaus pabaigą,
-    vyko gana nesėkmingai: biarmiečiai tai priimdavo krikščiony­
-    bę, tai vėl atmesdavo, o dėl to neapsieidavo ir be kankinių:
-    vienam vyskupui, apsakančiam šventąją evangeliją, jie gyvam
-    nulupo odą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Narbutas teigė, kad stiprėjant rusų valstybei Biarmija turėjo tapti jos provincija, nors biarmiai atkakliai laikėsi senosios stabmeldystės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    435
-
-    ## Puslapis 435
-
-    Išaugus rusų valstybės galiai, Biarmija savaime turėjo tap­
-    ti jos provincija, tačiau ši tauta atkakliai laikėsi savo senosios
-    stabmeldystės; smulkesnės žinios apie ją yra dingusios. Atver­
-    timas j krikščionybę, prasidėjęs tenai apie X amžiaus pabaigą,
-    vyko gana nesėkmingai: biarmiečiai tai priimdavo krikščiony­
-    bę, tai vėl atmesdavo, o dėl to neapsieidavo ir be kankinių:
-    vienam vyskupui, apsakančiam šventąją evangeliją, jie gyvam
-    nulupo odą. Pagaliau atsirado tikrasis Biarmijos apaštalas -
-    šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
-    kupinas žmoniškumo ir žmogaus širdies supratimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Narbutas šventąjį Steponą, Permės vyskupą, vadino tikruoju Biarmijos apaštalu ir siejo su Biarmijos krikščionėjimu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pagaliau atsirado tikrasis Biarmijos apaštalas -
-    šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
-    kupinas žmoniškumo ir žmogaus širdies supratimo. Davęs
-    žmonėms pažinti savo dorybes ir užsitarnavęs jų meile, nie­
-    kuo neįžeisdamas čiabuvių tautos, nors pats buvo rusas, jis
-    taip sėkmingai pakreipė dalykų eigą, kad visa senovinė Biar­
-    mija priėmė Kristaus tikėjimo šviesą be pasipriešinimo ir no­
-    riai. Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
-    biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų
-    sušvelninti rūsčią tautą, aistringai mylinčią savo tėvynę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-006
   santrauka: 'Narbutas teigė, kad biarmiai nuo senų laikų turėjo savo raidyną, gerokai ankstesnį už XI amžių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -221,18 +128,30 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
 - id: c-172317
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 434"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tuo tarpu apsiribosime pasa­
-    kydami štai ką.
-    Biarmiai, arba permiai, kalba slavų rusų arba rusų kalba,
-    bet turi savitą tos kalbos tarme; yra papročių ir fizionomijos
-    skirtumų, kurie šiuose žmonėse leidžia įžiūrėti atskirą didelės
-    šiaurės slavų šeimos šaką. Matoma, kad jie apsigyveno toli­
-    muose Siaurės Europos rytuose seniausiai, kai tik slavų gen­
-    ties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­
-    kios varginančios ir ilgos žiemos.
+    VI priedas
+    Apie lietuvių kalbą
+    Aprašius religiją, papročius, prietarus ir daugelį kitų smul­
+    kesnių dalykų, susijusių su lietuvių tautos gyvenimu senovėje,
+    baigiant šį senovės istorijos tomą, dera pakalbėti apie lietuvių
+    kalbą tam, kad labiau priartėtume prie tų tyrimo objektų, iš
+    kurių būtų galima išvesti tautos istorijos pradžią: jos kilmę,
+    protėvių klajones iš vienos stovyklos į kitą, pastovų apsigyve­
+    nimą, giminystę su kitomis tautomis ir pagausėjimą slenkant
+    amžiams. Ne be pagrindo tyrėjai sugalvojo susekti seniausią
+    tautų istoriją iš jų gimtosios kalbos, nes rezultatas dažniausiai
+    apvainikuodavo jų pastangas visiškai naujais, iki šiol visiškai
+    nežinomais ir visiškai tikrais atradimais. Nesigilinsime į tų at­
+    radimų smulkmenas, kaip teko su jais padirbėti; neturime nė
+    tikslo mėgdžioti etimologinius išvedžiojimus, kaip tik gana pa­
+    plitusius, kadangi visam laikui pasirinkome savo pačių atrastą
+    kelią, kuriame neturi būti vietos etimologinėms išmonėms, pri­
+    temptoms daiktų ir žodžių panašybėmis, išskyrus tik tas, ku­
+    rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
+    daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
+    tymo.
+  citata_rodoma: "Tuo tarpu apsiribosime pasa­\nkydami štai ką.\nBiarmiai, arba permiai, kalba slavų rusų arba rusų kalba,\nbet turi savitą tos kalbos tarme; yra papročių ir fizionomijos\nskirtumų, kurie šiuose žmonėse leidžia įžiūrėti atskirą didelės\nšiaurės slavų šeimos šaką. Matoma, kad jie apsigyveno toli­\nmuose Siaurės Europos rytuose seniausiai, kai tik slavų gen­\nties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­\nkios varginančios ir ilgos žiemos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -243,23 +162,23 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
 - id: c-172318
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 434"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie juos senovės Graikijos
-    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
-    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
-    ir paties Herodoto išvardytų.
-    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
-    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
-    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
-    atskirą valstybę. Vėliau iš skandinavų legendų arba iš gana
-    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
-    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
-    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
-    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
-    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
-    mokėjo gana neblogai gintis.
+    Ne be pagrindo tyrėjai sugalvojo susekti seniausią
+    tautų istoriją iš jų gimtosios kalbos, nes rezultatas dažniausiai
+    apvainikuodavo jų pastangas visiškai naujais, iki šiol visiškai
+    nežinomais ir visiškai tikrais atradimais. Nesigilinsime į tų at­
+    radimų smulkmenas, kaip teko su jais padirbėti; neturime nė
+    tikslo mėgdžioti etimologinius išvedžiojimus, kaip tik gana pa­
+    plitusius, kadangi visam laikui pasirinkome savo pačių atrastą
+    kelią, kuriame neturi būti vietos etimologinėms išmonėms, pri­
+    temptoms daiktų ir žodžių panašybėmis, išskyrus tik tas, ku­
+    rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
+    daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
+    tymo. Mechovita sako: „... linguagium Lithuanicum est quadri­
+    partitum: primum linguagium est Iaczuingomm, ut horum qui
+    circa castrum Drochicin inhabitarunt, et pauci supemint.
+  citata_rodoma: "Apie juos senovės Graikijos\ngeografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­\nnius pavadinimus iš daugelio Siaurės Europos gyventojų, kad\nir paties Herodoto išvardytų.\nIš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža\nką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-\ndo slavais ir palaikydama su jais santykius, vis dėlto sudarė\natskirą valstybę. Vėliau iš skandinavų legendų arba iš gana\nfragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­\nvusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,\nkad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­\njo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius\ndėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai\nmokėjo gana neblogai gintis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -267,68 +186,10 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   pagrindzia:
     - t-189431
 
-- id: c-172319
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Vėliau iš skandinavų legendų arba iš gana
-    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
-    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
-    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
-    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
-    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
-    mokėjo gana neblogai gintis.
-    435
-
-    ## Puslapis 435
-
-    Išaugus rusų valstybės galiai, Biarmija savaime turėjo tap­
-    ti jos provincija, tačiau ši tauta atkakliai laikėsi savo senosios
-    stabmeldystės; smulkesnės žinios apie ją yra dingusios. Atver­
-    timas j krikščionybę, prasidėjęs tenai apie X amžiaus pabaigą,
-    vyko gana nesėkmingai: biarmiečiai tai priimdavo krikščiony­
-    bę, tai vėl atmesdavo, o dėl to neapsieidavo ir be kankinių:
-    vienam vyskupui, apsakančiam šventąją evangeliją, jie gyvam
-    nulupo odą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189432
-
-- id: c-172320
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    435
-
-    ## Puslapis 435
-
-    Išaugus rusų valstybės galiai, Biarmija savaime turėjo tap­
-    ti jos provincija, tačiau ši tauta atkakliai laikėsi savo senosios
-    stabmeldystės; smulkesnės žinios apie ją yra dingusios. Atver­
-    timas j krikščionybę, prasidėjęs tenai apie X amžiaus pabaigą,
-    vyko gana nesėkmingai: biarmiečiai tai priimdavo krikščiony­
-    bę, tai vėl atmesdavo, o dėl to neapsieidavo ir be kankinių:
-    vienam vyskupui, apsakančiam šventąją evangeliją, jie gyvam
-    nulupo odą. Pagaliau atsirado tikrasis Biarmijos apaštalas -
-    šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
-    kupinas žmoniškumo ir žmogaus širdies supratimo.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189433
-
 - id: c-172321
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 435"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pagaliau atsirado tikrasis Biarmijos apaštalas -
     šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
@@ -350,15 +211,17 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
 - id: c-172322
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 435"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mat jeigu biarmiečiai nebūtų turėję savo rai­
-    dyno, nebūtų buvę reikalo išradinėti naujo, turint rankose ir
-    slavišką raštą, ir knygas, kurių kalba ir ten buvo vietinė. Ta­
-    čiau akivaizdžiausias yra dalykas, kad biarmiečiai turėjo savo
-    raidyną nuo senų laikų, gerokai ankstesnių už XI amžių. Pati
-    to raidyno sudėtis įrodo jį esant labai seną.
+    Ir taip pat Prūsijoje jau
+    nedaugelis (1517 metais. - T. N.) kalba prūsiškai, kadangi jau
+    įpratę kalbėti lenkiškai ir alemaniškai, ir Latvijoje nedaug so­
+    diečių bešneka savo kalba, nes kalba alemaniškai. Tito tarpu
+    Žemaitijoje, kuri yra penkiasdešimt romėniškų mylių ilgio, ir Lie­
+    tuvoje, kuri yra trisdešimt romėniškų mylių ilgio, sodžiuose šne­
+    ka lietuviškai, o didžiojoje dalyje lenkti kalbą pripažįsta, ir kuni­
+    gai jų bažnyčiose lenkiškai pamokslauja).
+  citata_rodoma: "Mat jeigu biarmiečiai nebūtų turėję savo rai­\ndyno, nebūtų buvę reikalo išradinėti naujo, turint rankose ir\nslavišką raštą, ir knygas, kurių kalba ir ten buvo vietinė. Ta­\nčiau akivaizdžiausias yra dalykas, kad biarmiečiai turėjo savo\nraidyną nuo senų laikų, gerokai ankstesnių už XI amžių. Pati\nto raidyno sudėtis įrodo jį esant labai seną."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

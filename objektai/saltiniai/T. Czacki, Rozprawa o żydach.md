@@ -40,33 +40,6 @@ C z a c k i Rozpra­ wa o żydach, p. 107, Vilniuje, Zavadzkio sp., 1807.
   teiginys: "T. Czackio veikalas „Rozprawa o żydach“ 1807 m. buvo išspausdintas Vilniuje, Zavadzkio spaustuvėje."
   pagrindžia:
     - c-84459
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'T. Czackio veikalas „Rozprawa o żydach“ 1807 m. buvo išspausdintas Vilniuje, Zavadzkio spaustuvėje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Reikšminga pergalė prie Griunvaldo pirmą kar­
-    tą pajudino jo tvirtus pamatus. Tačiau nėra likę ženklų, kad
-    Lietuvos sostinė tuo metu būtų turėjusi kokios naudos ar iš
-    prekybos, ar iš praplėstų gyventojų teisių; numanu, be abejo,
-    kad po Žemaičių perleidimo kryžiuočiams visus buvo apėmusi
-    apatija, ir miestiečių gyvenimas, pirma buvęs judresnis, ėmė
-    68
-    Ta privilegija, vėliau paskelbta Pir­
-    mojo Lietuvos Statuto pradžioje,
-    taip pat veikale C z a c k i O Litew­
-    skich i Polskich prawach, T. I, p. 93; o
-    jos tyrinėjimai žr. C z a c k i Rozpra­
-    wa o żydach, p. 107, Vilniuje, Zavadz-
-    kio sp., 1807.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

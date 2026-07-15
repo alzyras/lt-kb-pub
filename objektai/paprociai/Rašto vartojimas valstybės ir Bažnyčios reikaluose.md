@@ -55,26 +55,6 @@ Nenurodyta
   teiginys: "Nuo XIV a. pabaigos gudų rašto kalba Lietuvoje tapo valstybine rašto kalba ir vartota valstybės bei Bažnyčios reikalams."
   pagrindžia:
     - c-67208
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Nuo XIV a. pabaigos gudų rašto kalba Lietuvoje tapo valstybine rašto kalba ir vartota valstybės bei Bažnyčios reikalams.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ypač
-    skirtingai ji ėmė plėtotis Lietuvoj, kai nuo XIV amžiaus pa-
-    baigos ji pasidarė valstybine rašto kalba, kai ja buvo rašoma
-    daugumas raštų ne tik valstybės, bet ir Bažnyčios reikalams.
-    Net Lietuvos katalikų dvasininkai ją vartojo greta lotynų kal-
-    bos. Lietuvoje ji plėtojosi labiausiai ukrainiečių, o ypač gudų
-    kalbų įtakoje, tad dažnai ji yra vadinama gudų rašto kalba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

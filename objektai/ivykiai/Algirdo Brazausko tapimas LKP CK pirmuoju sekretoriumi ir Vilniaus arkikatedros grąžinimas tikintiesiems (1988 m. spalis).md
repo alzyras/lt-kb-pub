@@ -57,53 +57,7 @@ Nenurodyta
   teiginys: "1988 m. spalio 21 d. Algirdas Brazauskas tapo LKP CK pirmuoju sekretoriumi ir po LPS steigiamojo suvažiavimo grąžino tikintiesiems Vilniaus arkikatedrą."
   pagrindžia:
     - c-26615
-
-<a id="claim-t-183216"></a>
-- t-002
-  global_id: t-183216
-  teiginys: "1988 m. spalio 21 d. Algirdas Brazauskas tapo LKP CK pirmuoju sekretoriumi ir po LPS steigiamojo suvažiavimo grąžino tikintiesiems Vilniaus arkikatedrą."
-  pagrindžia:
     - c-166603
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1988 m. spalio 21 d. Algirdas Brazauskas tapo LKP CK pirmuoju sekretoriumi ir po LPS steigiamojo suvažiavimo grąžino tikintiesiems Vilniaus arkikatedrą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Per keletą mėnesių LPS pa-
-    siekė akivaizdžių laimėjimų. Spalio 21 dieną LKP CK pirmuoju sekre-
-    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
-    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
-    arkikatedrą. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė
-    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
-    V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
-    ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
-    demonstracijas įsakus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1988 m. spalio 21 d. Algirdas Brazauskas tapo LKP CK pirmuoju sekretoriumi ir po LPS steigiamojo suvažiavimo grąžino tikintiesiems Vilniaus arkikatedrą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kiekvienas žmogus, dalyvaujantis tokioje akcijoje,
-    jautė, kad nuo jo priklauso Lietuvos ateitis. Per keletą mėnesių LPS pa-
-    siekė akivaizdžių laimėjimų. Spalio 21 dieną LKP CK pirmuoju sekre-
-    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
-    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
-    arkikatedrą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -144,5 +98,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183216

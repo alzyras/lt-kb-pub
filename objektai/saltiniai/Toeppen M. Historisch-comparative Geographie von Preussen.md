@@ -9,12 +9,12 @@ datos:
   - '1900 m.'
 date_start: '1801'
 date_end: '1900'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,8 @@ Dusburgietis teigia, kad toeppen M.
   teiginys: "M. Toeppeno „Historisch-comparative Geographie von Preussen“ išleista Gotha mieste 1858 m."
   pagrindžia:
     - c-61949
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Toeppeno „Historisch-comparative Geographie von Preussen“ išleista Gotha mieste 1858 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -62,10 +62,14 @@ Dusburgietis teigia, kad toeppen M.
 - id: c-61949
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858.
+    — М., 1974.
+    Иванов В. В., Топоров В. Н. Мифологические географические названия как
+    источник для реконструкции этногенеза и древнейшей истории славян. — Вопросы
+    этногенеза н этнической истории славян и восточных романцев: Методология и
+    историография, М., 1976, с.
+  citata_rodoma: "Toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

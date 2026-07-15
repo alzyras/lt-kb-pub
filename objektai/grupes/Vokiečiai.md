@@ -40,7 +40,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, ir kaip prekybą bei pilis Baltijos pakrantėje valdanti jėga. Jiems šiame šaltinyje siejama Mindaugo 1253 m. prekybos privilegija, žemaičių spaudimas per jūros užrakinimą ir 1300 m. draudimai lietuviams, kalnėnams bei žemaičiams gyventi ir dirbti pilyse.
+Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių. Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrrevoliucijos sėkmei. Nutraukęs gerus santykius su vokiečiais, Vytautas turėjo gintis nuo vis smarkesnių jų puldinėjimų.
 
 ## Teiginiai
 
@@ -65,9 +65,9 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   pagrindžia:
     - c-108019
 
-<a id="claim-t-117313"></a>
+<a id="claim-t-117309"></a>
 - t-004
-  global_id: t-117313
+  global_id: t-117309
   teiginys: "Vytautui tarnavo daug nelietuvių, tarp jų lenkų ir vokiečių."
   pagrindžia:
     - c-36962
@@ -78,6 +78,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   teiginys: "Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų."
   pagrindžia:
     - c-36958
+    - c-167611
 
 <a id="claim-t-117311"></a>
 - t-006
@@ -86,92 +87,72 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   pagrindžia:
     - c-36960
 
-<a id="claim-t-117313"></a>
-- t-007
-  global_id: t-117313
-  teiginys: "Vytautui tarnavo daug nelietuvių, tarp jų lenkų ir vokiečių."
-  pagrindžia:
-    - c-36962
-
 <a id="claim-t-117314"></a>
-- t-008
+- t-007
   global_id: t-117314
   teiginys: "Naugardiečiai teigė turėję atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais."
   pagrindžia:
     - c-36960
 
 <a id="claim-t-117315"></a>
-- t-009
+- t-008
   global_id: t-117315
   teiginys: "Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus."
   pagrindžia:
     - c-36963
-
-<a id="claim-t-117316"></a>
-- t-010
-  global_id: t-117316
-  teiginys: "Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus."
-  pagrindžia:
     - c-108024
 
 <a id="claim-t-117317"></a>
-- t-011
+- t-009
   global_id: t-117317
   teiginys: "Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų bendruomenės."
   pagrindžia:
     - c-108020
 
 <a id="claim-t-117318"></a>
-- t-012
+- t-010
   global_id: t-117318
   teiginys: "Vytauto tarnyboje buvo įvairių svetimšalių, ypač lenkų ir vokiečių."
   pagrindžia:
     - c-36964
 
 <a id="claim-t-117319"></a>
-- t-013
+- t-011
   global_id: t-117319
   teiginys: "Gediminas kvietė vokiečių riterius, pirklius, amatininkus ir valstiečius atvykti į Lietuvą bei čia įsikurti."
   pagrindžia:
     - c-108018
 
 <a id="claim-t-183197"></a>
-- t-014
+- t-012
   global_id: t-183197
   teiginys: "Valdovams kviečiant pirklius ir amatininkus iš svetur, Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų."
   pagrindžia:
     - c-166584
 
-<a id="claim-t-184227"></a>
-- t-015
-  global_id: t-184227
-  teiginys: "Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų."
-  pagrindžia:
-    - c-167611
-
 <a id="claim-t-184587"></a>
-- t-016
+- t-013
   global_id: t-184587
   teiginys: "Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos iš šiaurės."
   pagrindžia:
     - c-167948
 
 <a id="claim-t-184588"></a>
-- t-017
+- t-014
   global_id: t-184588
-  teiginys: "Livonijos vokiečiai 1225 m. pirmą kartą patyrė stambų pralaimėjimą nuo lietuvių ir žemaičių."
+  teiginys: "Kojelavičius 1225 m. mini kaip metus, kai Livonijos vokiečiai pirmą kartą patyrė stambų pralaimėjimą nuo lietuvių ir žemaičių."
   pagrindžia:
     - c-167949
 
 <a id="claim-t-188358"></a>
-- t-018
+- t-015
   global_id: t-188358
   teiginys: "Narbutas rašė, kad senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“ ir „Belewitt“."
   pagrindžia:
     - c-171251
 
 <a id="claim-t-188359"></a>
-- t-019
+- t-016
   global_id: t-188359
   teiginys: "Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai rašiusį apie kryžiuočius ir vokiečių tautą."
   pagrindžia:
@@ -193,7 +174,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/asmenys/Aleksandras Kolčiakas.md#claim-t-18777|Aleksandras Kolčiakas]]: Aleksandrui Kolčiakui formaliai buvo pavaldi Pavelo Bermonto-Avalovo vadovaujama rusų ir vokiečių kariuomenė.
 - susijęs iš [[objektai/asmenys/Bonifacas IX.md#claim-t-184254|Bonifacas IX]]: 1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII bulėmis draudė Vokiečių ordinui pulti lietuvius kaip neofitus.
 - susijęs iš [[objektai/asmenys/Bonifacas IX.md#claim-t-35040|Bonifacas IX]]: Bonifacas IX 1388–1404 m. kartu su kitais popiežiais siuntė į Malburgą bules, draudusias Vokiečių ordinui pulti lietuvius neofitus.
-- susijęs iš [[objektai/asmenys/Ditrichas fon Altenburgas.md#claim-t-186107|Ditrichas fon Altenburgas]]: 1339 m. Prūsijos magistras Ditrichas fon Altenburgas su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.
+- susijęs iš [[objektai/asmenys/Ditrichas fon Altenburgas.md#claim-t-186107|Ditrichas fon Altenburgas]]: Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.
 - susijęs iš [[objektai/asmenys/Falkenbergas.md#claim-t-34787|Falkenbergas]]: Kryžiuotis Falkenbergas mėgino padėti Vokiečių ordinui, išleisdamas Jogailą šmeižiančią knygą.
 - susijęs iš [[objektai/asmenys/Germanarikas.md#claim-t-191149|Germanarikas]]: Narbutas, remdamasis Jordanu, rašo, kad Rytų gotų valdovas Germanarikas užėmė ilgą Vokiečių okeano pakrantę ir pavergė estų tautą.
 - susijęs iš [[objektai/asmenys/Hartmanas iš Heldrungeno.md#claim-t-59968|Hartmanas iš Heldrungeno]]: Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą pastarajam.
@@ -233,10 +214,8 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/asmenys/V. Zechau.md#claim-t-40494|V. Zechau]]: Majoras V. Zechau buvo 18-ojo vokiečių saksų pėstininkų pulko vadas.
 - susijęs iš [[objektai/asmenys/Valdemaras II.md#claim-t-60457|Valdemaras II]]: Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje.
 - susijęs iš [[objektai/asmenys/Vinrichas von Kniprodė.md#claim-t-117889|Vinrichas von Kniprodė]]: Vinrichas von Kniprodė 1351–1382 m. buvo Vokiečių ordino magistras.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176654|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas mokėjo vokiečių ir lotynų kalbas, o šaltinyje svarstoma, kad galėjo mokėti ir rusų bei totorių kalbas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176675|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu būtinas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176677|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas dažnai paremdavo prieš Vokiečių ordino valdžią sukilusius žemaičius.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176699|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. liepos 15 d. Žalgirio mūšyje Vytautas Didysis vadovavo kovai su Vokiečių Ordinu ir jo sąjungininkais.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176738|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Lucko suvažiavimas Lietuvos istorijoje siejamas su Vytauto vainikavimo planu, kurį rėmė Zigmantas I ir Vokiečių ordinas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176760|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu būtinas.
 - susijęs iš [[objektai/asmenys/Žoržas B. Klemansas.md#claim-t-78077|Žoržas B. Klemansas]]: Žoržo B. Klemanso rašte vokiečiams Prancūzija aiškino sąjungininkų sprendimą dėl Klaipėdos krašto.
@@ -275,7 +254,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65108|Dobrynės broliai]]: „Pranešime...“ Dobrynės broliai minimi greta pagonių brovimosi į Konrado valdas, Vokiečių ordino pakvietimo ir Sventopelko, Lietuvos bei prūsų bendros kovos.
 - susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110661|Jogailaičiai]]: 1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178768|Jotvingiai]]: II tūkstantmečio pradžioje pradėję formuotis jotvingiai buvo nukariauti ir asimiliuoti Vokiečių ordino.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184502|Kryžiuočių ordinas]]: Vytautas užėmė Ritersverderį, įsakė išžudyti nelaisvėn patekusius vokiečių pirklius bei karius, o žymesnius kryžiuočius išsivedė su savimi.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-188243|Latviai]]: Narbutas teigė, kad Latvija, žlugus politinei nepriklausomybei, virto vokiečių kolonija.
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72360|Latvių Tautos Taryba (institucija)]]: Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje.
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72362|Latvių Tautos Taryba (institucija)]]: Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu.
@@ -334,7 +312,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45351|Krėvos sutartis (1385 m.)]]: Krėvos sutartį skatino ypač įnirtingi vokiečių puolimai ir silpstančios Lietuvos poreikis turėti lenkus sąjungininkais.
 - susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09849|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Lietuviai, remiami maždaug 50 vokiečių kareivių, apėjo bolševikų dešinįjį sparną, paėmė 18 raudonarmiečių į nelaisvę, o bolševikai vakare paliko Kėdainių apylinkes ir traukėsi į Šėtą.
 - susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09852|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Kėdainių-Šėtos kautynėse vokiečių kulkosvaidininkas perėmė kulkosvaidį ir sustabdė bolševikų mėginimą apsupti žvalgus.
-- susijęs iš [[objektai/ivykiai/Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.).md#claim-t-185603|Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.)]]: Algirdo, Kęstučio ir Patriko vedami lietuviai netikėtai užpuolė vokiečių stovyklą, bet po kovos Kęstutis pateko į priešų rankas.
 - susijęs iš [[objektai/ivykiai/Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.).md#claim-t-41310|Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.)]]: Lietuvos konfliktas su bermontininkais labai pablogino santykius su Vokietija, nes didelę dalį Bermonto pajėgų sudarė vokiečių savanoriai.
 - susijęs iš [[objektai/ivykiai/Lietuvos valstybės susikūrimas apie 1240 m.md#claim-t-75205|Lietuvos valstybės susikūrimas apie 1240 m]]: 1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi, todėl daroma išvada, kad Lietuva jau buvo suvienyta.
 - susijęs iš [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams.md#claim-t-66766|Magdeburgo teisių suteikimas Lietuvos miestams]]: Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams.
@@ -421,7 +398,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš Liegnitzas: Prie Liegnitzo Silezijoje 1241 m. vokiečių ir Silezijos kunigaikščiai sulaikė tolesnį totorių veržimąsi į Europą.
 - susijęs iš Lietuva: 1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui, Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos politinius kalinius paskubomis išgabeno iš Lietuvos.
 - susijęs iš Lietuvos Brasta: 1435 m. gruodžio 31 d. sudaryta Bresto taika tarp Lenkijos, Lietuvos Didžiosios Kunigaikštystės ir Vokiečių ordino atstovų.
-- susijęs iš Liublinas: Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises.
 - susijęs iš Livonija: Livonijos vokiečių žemėse, kaip ir Lietuvoje bei jai priklausiusioje Rusioje, nuo seno buvo įsitvirtinęs feodalinis valdymas.
 - susijęs iš Marienburgas: Vaidyla, turimomis žiniomis, kelis kartus slaptai keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį.
 - susijęs iš Marienburgas: Vaidyla kelis kartus slapta keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį.
@@ -434,8 +410,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš Rytų Prūsija: Erazmas Stela veikale „Apie Prūsijos senienas“ įrodinėjo, kad vokiečiai buvo seniausi Rytų Prūsijos gyventojai.
 - susijęs iš Semba: Narbutas vaizdavo turtingą Sembą kaip vokiečių godumą skatinusią provinciją, kurios užkariavimo bandymai nepavyko.
 - susijęs iš Vakarų Europa: Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus.
-- susijęs iš Vilnius: Popiežiui buvo įteiktas 1323 m. Vilniuje sudarytos sutarties nuorašas, išverstas iš vokiečių į lotynų kalbą.
-- susijęs iš Vilnius: Kariuomenė slapta išvesta nuolaidžiais Vilnios krantais užpuolė vokiečių stovyklą.
 - susijęs iš Vokiečių gatvė: Jonui Hozijui buvo leista atvesti ir nuolat turėti vandenį jo namuose Vokiečių gatvėje.
 - susijęs iš Vokiečių gatvė: Iš turgaus centro pašalintos mėsinės buvo perkeltos prie Vokiečių gatvės.
 - susijęs iš Vokiečių ordino teritorija: Į Vokiečių ordino teritoriją įsiveržta žygiuojant tiesiai link sostinės ir siekiant susidurti su visomis Ordino pajėgomis.
@@ -458,7 +432,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/zodynas/savismauga.md#claim-t-183463|savismauga]]: Lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“, nes jos pareigūnai tarnavo vokiečiams ir padėjo išnaudoti kraštą.
 - susijęs iš [[objektai/zodynas/savismauga.md#claim-t-22297|savismauga]]: Lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“, nes jos pareigūnai tarnavo vokiečiams ir padėjo išnaudoti kraštą.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96087|Baltai]]: Lietuvos pastangomis bendrai kovai prieš vokiečių feodalinę agresiją buvo mobilizuojami beveik visi baltai.
-- susijęs iš [[objektai/posakiai/„Kaip aš jums Žemaitiją užstačiau, taip ir dabar iš jūsų neatimu“.md#claim-t-195039|„Kaip aš jums Žemaitiją užstačiau, taip ir dabar iš jūsų neatimu“]]: O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntinius, primindami jam, kad jis tu rįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo užstatyta Žemaitija7 .
+- susijęs iš [[objektai/posakiai/„Kaip aš jums Žemaitiją užstačiau, taip ir dabar iš jūsų neatimu“.md#claim-t-199235|„Kaip aš jums Žemaitiją užstačiau, taip ir dabar iš jūsų neatimu“]]: O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntinius, primindami jam, kad jis tu rįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo užstatyta Žemaitija7 .
 - susijęs iš Durbė: 1260 m. liepos 13 d. prie Durbės žemaičiai sutriuškino jungtinę Vokiečių ir Livonijos ordinų kariuomenę.
 - susijęs iš Malburgas: 1388-1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII pasiuntė į Malburgą kelias bules, drausdami Vokiečių Ordinui pulti lietuvius neofitus.
 - susijęs iš [[objektai/zodynas/romėnų miliarijus.md#claim-t-192178|romėnų miliarijus]]: Teodoras Narbutas 600 romėnų miliarijų prilygina 120—125 vokiečių mylioms ir sieja su Ptolemėjo nurodytu nuotoliu.
@@ -610,8 +584,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10108|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio pergalės 1410 m. ir 1411 m. Torunės taikos Žemaitija Vytautui ir Jogailai atiteko iki gyvos galvos, o Vytautas siekė ją susigrąžinti visam laikui kartu su Klaipėda ir visa Užnemune.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176632|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio mūšio atsirado Vytauto funduotų bažnyčių ir vienuolynų, o 1413 m. buvo apkrikštyta Žemaitija.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176636|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio mūšio Vytautas fundavo bažnyčias ir vienuolynus, o 1413 m. buvo apkrikštyta Žemaitija.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176667|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. liepos pabaigoje Vytautas Didysis ir Jogaila, nelaukdami Ordino užpuolimo, išžygiavo prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176687|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis Trakuose ir Algirdo šeimoje Vilniuje susidurdavo su krikščionybės idėjomis.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176703|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Pasiligojusi Vytauto žmona Julijona buvo apsistojusi prie Vilniaus buvusiame kunigaikščių kaime Memitz.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176729|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Palikdamas Vilnių, Kęstutis Trakų pilies gynybą ir valdžią pavedė savo sūnui Vytautui.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176731|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Lucko suvažiavime priėmė imperatoriaus siūlomą vainiką ir pareiškė tai darantis niekieno neatsiklausdamas.
@@ -718,13 +690,10 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-168143|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Dėl partijų kovų Centraliniame Komitete kilo ginčų, ir trys kairiųjų pažiūrų nariai iš jo išstojo.
 - susijęs iš [[objektai/grupes/Estai.md#claim-t-192379|Estai]]: Narbutas rašė, kad nuo Tacito iki Teodoriko Didžiojo apie estus nėra žinių.
 - susijęs iš [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis.md#claim-t-65147|Etninių lietuvių tautinis kultūrinis sąjūdis]]: Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo aukštąją kultūrą lietuvių ir žemaičių kalba.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96099|Gediminaičių dinastija]]: Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto, kai sprendėsi Lietuvos krikšto kryptis.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96114|Gediminaičių dinastija]]: Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto, kai sprendėsi Lietuvos krikšto kryptis.
 - susijęs iš [[objektai/grupes/Gelonai.md#claim-t-192384|Gelonai]]: Narbutui priskiriamame kilmės aiškinime lietuviai kildinami iš gelonų ir budinų, o vėlesnė jų karta siejama su Prūsija, Lietuva ir Latvija.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116687|Hanza]]: XIII amžiuje vokiečių miestai sudarė prisiekusiųjų sąjungas, žinomas Hanzos vardu.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116690|Hanza]]: Veliuonos derybose dalyvavo Liubeko ir Stralsundo atstovai, nes Vytauto ir Ordino nesantaika trukdė Hanzai susisiekti su Lietuva.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-188196|Herulai]]: Narbutas gotiškus lietuvių tautų elementus siejo ir su herulais, kurie, jo teigimu, ilgai lydėjo gotus Pietryčių Europoje.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178767|Jotvingiai]]: Ivinskis jotvingių sunykimą siejo su badmečių, marų ir žiaurių to meto karų poveikiu.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-187709|Jotvingiai]]: Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-192411|Jotvingiai]]: Narbutas rašo, kad galindai ir jotvingiai perėjo Krokuvos Boleslovo ir Kujavijos Kazimiero globon, o kunigaikščiai apie tai pranešė popiežiui.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175530|Kalavijuočių ordinas]]: 1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.
@@ -737,7 +706,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116727|Katalikų Bažnyčia]]: Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.
 - susijęs iš [[objektai/grupes/Klaipėdos krašto lietuviai.md#claim-t-74189|Klaipėdos krašto lietuviai (kraštas)]]: Klaipėdos krašto lietuviai politiškai liko ištikimi Vokietijai ir patys sukilti nesiruošė.
-- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-184481|Krikščionys]]: Po ilgai trukusio atkaklaus mūšio krikščionys buvo sumušti, o jų kilmingieji pateko į nelaisvę arba žuvo.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178788|Kryžiuočių ordinas]]: Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178812|Kryžiuočių ordinas]]: 1410 m. liepos 15 d. Žalgirio mūšyje Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178815|Kryžiuočių ordinas]]: Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a.
@@ -747,14 +715,12 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178838|Kryžiuočių ordinas]]: Grabovo suvažiavime Vytautas pareikalavo, kad Ordinas atlygintų už paimtas prekes ir nužudytų pirklių šeimoms.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178841|Kryžiuočių ordinas]]: 1410 m. Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178842|Kryžiuočių ordinas]]: XIII-XIV a. Vakarų Europoje pasigirsdavo kritikos Kryžiuočių ordinui, įskaitant raginimus jį likviduoti.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178856|Kryžiuočių ordinas]]: XIV a. Vokiečių ordino pavojus skatino Lietuvą derėtis ir ieškoti būdo priimti priešo išpažįstamą tikėjimą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178866|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178877|Kryžiuočių ordinas]]: Jogaila sutartimis pasižadėjo laikytis taikos su Ordinais, krikštytis ir užrašė kryžiuočiams beveik visą Žemaitiją iki Dubysos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178883|Kryžiuočių ordinas]]: Gedimino laiške popiežiui ir kardinolams teigta, kad Mindaugą nuo krikščionybės atstūmė kryžiuočių magistro smurtas ir išdavystės.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178886|Kryžiuočių ordinas]]: Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178890|Kryžiuočių ordinas]]: 1337 m. birželio 15 d. Gediminas su kariuomene sustojo ties Bajerburgu ir puolė kryžiuočių tvirtovę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178918|Kryžiuočių ordinas]]: Kryžiuočiai galėjo laikyti Vytautą itin pasiryžusiu, supratingu ir gabiu mokiniu Prūsuose.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178922|Kryžiuočių ordinas]]: Nuo Traidenio laikų karai su abiem Vokiečių ordino šakomis neigiamai veikė Lietuvos gyventojų prieaugį ir apgyvendinimą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178934|Kryžiuočių ordinas]]: Kryžiuočių ordino dvasininkai taikos metu laikė pamaldas, teikė sakramentus ir skatino brolius pasauliečius laikytis regulos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178935|Kryžiuočių ordinas]]: Vytautas ginklus ir arklius gaudavo iš Rygos ir Krokuvos, nors Ordinas draudė juos įvežti į Lietuvą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178940|Kryžiuočių ordinas]]: Trečiąja sutartimi Jogaila užrašė kryžiuočiams beveik visą vakarinę Žemaitijos dalį iki Dubysos.
@@ -765,14 +731,12 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178988|Kryžiuočių ordinas]]: Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179008|Kryžiuočių ordinas]]: 1429 m. Lucko suvažiavime dalyvavo ir Vokiečių ordino pasiuntiniai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179010|Kryžiuočių ordinas]]: 1325 m. Vilniuje sudaryta Gedimino sutartis su Lokietka numatė bendrą kovą su Prūsijos ordinu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179011|Kryžiuočių ordinas]]: Per visą XIV a. Vokiečių ordino pavojus skatino Lietuvą derėtis ir svarstyti priešo išpažįstamo tikėjimo priėmimą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179012|Kryžiuočių ordinas]]: Ordinas, sužinojęs apie Vytenio minoritams skirtą bažnyčią, pasiuntė ginkluotą būrį jos sudeginti.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179015|Kryžiuočių ordinas]]: Vokiečių ordinas nenorėjo nusileisti Vytautui ir Vakarų Europoje skelbė jį pavojingu katalikams valdovu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179020|Kryžiuočių ordinas]]: Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179021|Kryžiuočių ordinas]]: Mindaugo laikų krikšto bandymui sutrukdė Vokiečių ordino siekis užgrobti Žemaičius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179023|Kryžiuočių ordinas]]: 1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179025|Kryžiuočių ordinas]]: Hermanas Salza 1226 m. kovo mėnesį Riminyje išsirūpino imperatoriaus Fridricho II privilegiją Vokiečių ordino ateičiai rytuose.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179027|Kryžiuočių ordinas]]: Didžiajam magistrui Verneriui kronika buvo reikalinga Ordinui keliamiems priekaištams atremti ir vidaus reformai įgyvendinti.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179029|Kryžiuočių ordinas]]: 1226 m. Riminyje Fridrichas II suteikė Vokiečių ordinui teisę tapti užkariausimos prūsų žemės savininku.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179044|Kryžiuočių ordinas]]: XIII a. į prūsų žemes atsikraustęs vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179048|Kryžiuočių ordinas]]: Gediminas laiške popiežiui ir kardinolams kryžiuočių magistro smurtą siejo su Mindaugo atsitraukimu nuo krikščionybės.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179052|Kryžiuočių ordinas]]: Po Lietuvos krikšto popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva.
@@ -782,7 +746,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179075|Kryžiuočių ordinas]]: Vokiečių ordino magistrui uždraudus į Lietuvą įvežti druską, Vytautas liepė vokiečių pirkliams iki Sekminių išvykti iš Lietuvos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179079|Kryžiuočių ordinas]]: Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179086|Kryžiuočių ordinas]]: XIII a. į Prūsiją atsikėlęs Vokiečių ordinas pirmiausia pavergė prūsus.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179094|Kryžiuočių ordinas]]: Ivinskio vertinimu, jei Mindaugo dokumentai būtų autentiški, Vokiečių ordinas būtų be saiko išnaudojęs draugystę su Mindaugu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179099|Kryžiuočių ordinas]]: Vytautas Kaune be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179103|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179109|Kryžiuočių ordinas]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
@@ -790,8 +753,8 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179124|Kryžiuočių ordinas]]: Prūsuose Vytautas išmoko vokiečių kalbos, kryžiuočių disciplinos, administracijos ir karo mokslų.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179125|Kryžiuočių ordinas]]: 1431 m. Švitrigaila užmezgė ryšius su abiem Vokiečių ordino šakomis, kai Lenkija negrąžino Podolės.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183144|Kryžiuočių ordinas]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184489|Kryžiuočių ordinas]]: Gedimino laikais kryžiuočiai iš pamatų sugriovė Romove vadintą sodybą, vėliau tapusią Krivės Krivaičio būstine.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188218|Kryžiuočių ordinas]]: Narbutas pabrėžia, kad Dusburgietis 1326 m. įteikė kroniką didžiajam magistrui praėjus maždaug šimtmečiui nuo kryžiuočių atsikraustymo.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-190569|Kryžiuočių ordinas]]: Narbutas Simoną Grunau vadina seniausiu žinomu šaltiniu ir pabrėžia, kad jis ne visuomet pagarbiai rašė apie kryžiuočius.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65561|Kuršiai]]: Kronikininkai mini spindinčius metalo ginklus pas kuršius ir žiemgalius.
 - susijęs iš [[objektai/grupes/Laikinoji vyriausybė.md#claim-t-19773|Laikinoji vyriausybė]]: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per užimtą radiją paskelbė apie Laikinąją vyriausybę.
 - susijęs iš [[objektai/grupes/Laikinoji vyriausybė.md#claim-t-19776|Laikinoji vyriausybė]]: Laikinoji vyriausybė realiai nevaldė padėties, nes negalėjo palaikyti ryšių su visu kraštu.
@@ -821,7 +784,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga.md#claim-t-74749|Lietuvos laisvės kovotojų sąjunga]]: Liberaliai nusistatę tautininkai susibūrė į Lietuvos laisvės kovotojų sąjungą, kuri leido pogrindinius leidinius.
 - susijęs iš [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga.md#claim-t-74750|Lietuvos laisvės kovotojų sąjunga]]: 1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės kovotojų sąjungos ir LLA grupes.
 - susijęs iš [[objektai/grupes/Lietuvos rusinai.md#claim-t-189473|Lietuvos rusinai]]: Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į permainingą romėnų Fortūną.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179368|Livonijos ordinas]]: Livonijos ordinas nebenorėjo paklusti Rygos arkivyskupui, pas kurį krikštijosi Tautvilas.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179393|Livonijos ordinas]]: Mūšyje žuvo daug livoniečių, tarp jų Kalavijuočių riterių ordino magistras Frankas Kirskorffas.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179394|Livonijos ordinas]]: 1424 m. Niešavos sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Vokiečių ir Livonijos ordinų žemėse.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179398|Livonijos ordinas]]: Taikos sutartyje Livonijos ordino pusėje buvo minimi tarpininkai, tarp jų Rygos arkivyskupas, kapitula ir miesto atstovai.
@@ -839,7 +801,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/grupes/Pamarėnai.md#claim-t-63189|Pamarėnai]]: 1218 m. popiežiaus Honorijaus II organizuotame kryžiaus žygyje į Prūsiją dalyvavo ir pamarėnai.
 - susijęs iš [[objektai/grupes/Parusėnai.md#claim-t-07847|Parusėnai]]: 1250 m. kariaudami su vokiečių meldžionimis, parusėnai galėjo į kovą pastatyti 4000 raitelių ir 40000 pėsčiųjų.
 - susijęs iš [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas.md#claim-t-72599|Petrapilio latvių pabėgėlių komitetas (institucija)]]: Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.
-- susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187774|Poloviečiai]]: Prieš vokiečius rusai ir poloviečiai jodinėjo su strėlėmis, o jotvingiai buvo ginkluoti trumpomis ietimis.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108310|Pranciškonų ordinas]]: Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti pranciškonų minoritų.
 - susijęs iš [[objektai/grupes/Prūsijos valstybė.md#claim-t-19968|Prūsijos valstybė]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
 - susijęs iš [[objektai/grupes/Prūsijos valstybė.md#claim-t-19969|Prūsijos valstybė]]: Vokiečių ordino valstybė vėliau pasivadino Prūsijos hercogija, o dar vėliau – Prūsijos karalija.
@@ -856,11 +817,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/grupes/Tautos taryba.md#claim-t-101478|Tautos taryba (institucija)]]: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą ir pasisakė už tautinę Lietuvos kariuomenę.
 - susijęs iš [[objektai/grupes/Templininkų ordinas.md#claim-t-72653|Templininkų ordinas]]: Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171396|Totoriai]]: Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai ir Livonijos ordinas.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171409|Totoriai]]: Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171412|Totoriai]]: Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai, Livonijos ordinas ir kiti priešininkai.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171426|Totoriai]]: Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171436|Totoriai]]: Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-183669|Totoriai]]: Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187748|Totoriai]]: Vytautas į karą su Prūsijos vokiečiais sutelkė Lietuvos ir Rusios pajėgas bei daug Ordos totorių.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-192476|Totoriai]]: Narbutas rašo, kad totorių puldinėjimai tuo metu palietė Lenkiją ir Polesę nuo Bugo.
 - susijęs iš [[objektai/grupes/Vietinė rinktinė.md#claim-t-183193|Vietinė rinktinė]]: Vokiečiai pareikalavo, kad Vietinė rinktinė taptų jiems pavaldi.
@@ -886,6 +843,8 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176126|Žemaičiai]]: 1236 m. žemaičiai Saulės mūšyje atlaikė žygį, bet 1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176134|Žemaičiai]]: Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176152|Žemaičiai]]: Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-182931|Žemaičiai]]: Žemaičiai turėjo keletą savo kunigaikščių.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187753|Žemaičiai]]: Lietuvos metraštyje Tautvilas Žemaitijoje pas Vykintą pasiėmė jotvingius, žemaičius ir Danieliaus pagalbą ir išžygiavo prieš Mindaugą.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188370|Žemaičiai]]: Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daug kaimiečių nepažino krikščioniško tikėjimo tiesų.
 - susijęs iš [[objektai/grupes/Žemaičių medininkai.md#claim-t-66382|Žemaičių medininkai]]: Žemaičių medininkai šiame šaltinyje pateikiami kaip atspari ir pajūrį ginanti žemaičių grupė.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89347|Žiemgaliai]]: Kronikininkai mini, kad kuršiai ir žiemgaliai turėjo spindinčių metalo ginklų.
@@ -957,7 +916,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.).md#claim-t-66905|Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą ir, prievarta įvedusi tariamai demokratinį valdymą, per kelias savaites įjungė ją į SSRS sudėtį.
 - susijęs iš [[objektai/ivykiai/Tautai ir valstybei saugoti įstatymo priėmimas ir nacių organizacijų uždraudimas (1934 m.).md#claim-t-75291|Tautai ir valstybei saugoti įstatymo priėmimas ir nacių organizacijų uždraudimas (1934 m.)]]: 1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas numatė bausmes už veikimą užsienio naudai prieš Lietuvą.
 - susijęs iš [[objektai/ivykiai/Tautai ir valstybei saugoti įstatymo priėmimas ir nacių organizacijų uždraudimas (1934 m.).md#claim-t-75292|Tautai ir valstybei saugoti įstatymo priėmimas ir nacių organizacijų uždraudimas (1934 m.)]]: 1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas priimtas siekiant sutramdyti antivalstybinę veiklą.
-- susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187498|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Pasak šaltinio, po susirėmimo Tautvilas sugrįžo namo į Žemaitiją.
 - susijęs iš [[objektai/ivykiai/Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.).md#claim-t-35886|Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.)]]: 1382 m. liepos 20 d. Trakų pilies įgula pasidavė Jogailai, o pilyje buvo pastatyti jo kareiviai.
 - susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89411|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: Po Urbono II susirinkimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.
 - susijęs iš [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.).md#claim-t-31483|Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]: Fridrichas II 1245 m. Veronoje duota auksine bule kryžiuočiams amžinai padovanojo Kuršą, Lietuvą ir Žiemgalius.
@@ -1249,7 +1207,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš Lietuva: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamai demokratinį valdymą ir įjungė jas į SSRS.
 - susijęs iš Lietuva: Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose.
 - susijęs iš Lietuva: 1219 m. priešmindauginė Lietuva, greičiausiai valdoma Živinbudo ir susijungusi su Žemaitija, sudarė sutartį su Volyne.
-- susijęs iš Lietuva: Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą ir pasiekė Trakus.
+- susijęs iš Lietuva: Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą, niokojo kraštą ir pasiekė Trakus.
 - susijęs iš Lietuva: Narbutas rašė, kad lietuvių genties ikijungtuviniai papročiai skyrėsi pagal tautą, vietos aplinkybes ir laiką.
 - susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš Livonija: Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas.
@@ -1273,7 +1231,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš Mažoji Lietuva: Vokiečių ordino valstybėje lietuviai ilgainiui pradėti vadinti lietuvininkais, o jų žemės – Prūsų Lietuva arba Mažąja Lietuva.
 - susijęs iš Mažoji Lietuva: Georgas Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną.
 - susijęs iš Medininkų žemė: 1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę.
-- susijęs iš Melnikas: Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų ir Melniku.
 - susijęs iš Merkinė: 1945 m. Merkinės puolimas buvo pasiūlytas kaip keršto priešui veiksmas.
 - susijęs iš Minskas: Maskvėnams apsupus Smolenską, Aleksandras įsikūrė Minske, kad iš arti vadovautų kariuomenei kilus karui.
 - susijęs iš Narevas: Lietuviai puolė kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo, kai Livonijos magistras buvo prie Vilniaus.
@@ -1291,10 +1248,8 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš Osterodė: Osterodės apskritis priklausė pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.
 - susijęs iš Paneriai: Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai.
 - susijęs iš Panonija: Pasak Narbuto, Ptolemėjas nuo Vyslos žiočių iki Panonijos skaičiavo tokį pat 600 romėnų miliarijų nuotolį kaip Plinijus.
-- susijęs iš Pernu: Kunigaikštytė Sofija su palyda iš Gdansko laivais per jūrą pasiekė Pernu ir Pskovą.
 - susijęs iš Pernu: Vytautas išleido kunigaikštytę Sofiją iš Marienburgo, o jos palyda iš Gdansko laivais pasiekė Pernu ir Pskovą.
 - susijęs iš Pirčiupiai: Nacių valdžios laikotarpiu kartais buvo sudeginami ištisi kaimai, tarp jų Pirčiupiai.
-- susijęs iš Polockas: Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.
 - susijęs iš Polockas: Vytauto valdymo metu Polockas buvo vienas iš dviejų didelių prekybos centrų Lietuvoje kartu su Kaunu.
 - susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželį Pravieniškių įkalinimo kolonijoje per masines kalinių žudynes nužudyta apie 230 asmenų.
 - susijęs iš Prienai: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.
@@ -1316,12 +1271,12 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš Pskovas: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.
 - susijęs iš Pskovas: Kazimierui pasidalijus įtakos sritimis su Maskva, Pskovas ir Didysis Naugardas buvo palikti Maskvos įtakoje.
 - susijęs iš Pskovas: 1449 m. Kazimiero ir Maskvos taikoje Pskovas buvo paliktas Maskvos įtakos sričiai.
+- susijęs iš Pskovas: Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovą.
 - susijęs iš Ragainė: 1409 m. Vokiečių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus.
 - susijęs iš Ragordo ežerai: Siena buvo pravesta nuo Mozūrijos sienos į Grajevo ir Ragordo ežerus, toliau per Vištyčio ežerą ir upes iki Nemuno.
 - susijęs iš Rainiai: Prie Rainių buvo surengtos masinės kalinių žudynės, per kurias nužudyti 76 prieš tai ypač žiauriai nukankinti asmenys.
 - susijęs iš Ramygala: Gegužės 13 d. rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose.
 - susijęs iš Retra: Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie Prilvico kaimo netoli Penclino Meklenburge.
-- susijęs iš Ritersverderis: Ritersverderis buvo netikėtai užpultas iš gretimos Marienburgo pilies ir užimtas palaužus gynėjų pasipriešinimą.
 - susijęs iš Rittersverderio pilis: Didysis magistras vasarą per Šv. Jokūbą išsiruošė anapus Nemuno ir pradėjo statydinti bei stiprinti Rittersverderio pilį.
 - susijęs iš Rittersverderis: 1391 metų pabaigoje Vytautas ėmė telkti savo šalininkus į Rittersverderį iš kitų Ordino pilių.
 - susijęs iš Rittersverderis: Jogailos pasiuntinys Henrikas buvo nusiųstas į Rittersverderį pas Vytautą.
@@ -1339,7 +1294,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš Rūdninkų vartai ir Rūdninkų gatvė Vilniuje: Žygimantų laikais Vilniuje atsiradę nauji vartai ir nuo jų vingiuojanti gatvė gavo Rūdninkų vardą.
 - susijęs iš SSRS: Baltijos valstybėse galimybė atsidurti SSRS valdžioje buvo klaidingai suvokta kaip laikinas grįžimas į Nikolajaus II Rusiją.
 - susijęs iš Saremas: Eželis, dabartinis Saremas, minimas tarp taikos sutarties tarpininkų atstovautų vyskupijų.
-- susijęs iš Semba: Grafo Barbio vedama vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet buvo prūsų sutriuškinta.
 - susijęs iš Sipapilis: Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
 - susijęs iš Smalininkai: Sienos linija nuo Šešupės buvo nuvesta tiesiai į Nemuną prie Smalininkų, o iš ten į Palangą.
 - susijęs iš Smolenskas: Vytautas buvo įsirengęs stovyklą prie Smolensko ir vėliau užėmė šį miestą.
@@ -1351,7 +1305,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš Tikocinas: Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.
 - susijęs iš Trakai: Ežerų apsupta Trakų pilis buvo minima kaip vienintelė didžiojo kunigaikščio buveinė ir sostinė.
 - susijęs iš Trakai: Trakų pilis, apsupta ežerų, buvo didžiojo kunigaikščio buveinė ir sostinė.
-- susijęs iš Trakai: Vytautas su žemaičiais ir Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė.
+- susijęs iš Trakai: Vytautas su žemaičiais ir Kojelavičiaus vadinamas Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė.
 - susijęs iš Trakų apskritis: J. Misiūnas su maždaug 200 partizanų daliniu nuolat keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.
 - susijęs iš Trakų pilis (pilis): Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio.
 - susijęs iš Trakų pilis (pilis): Jogaila gavo iš Ordino maršalkos Kuno von Hattenšteino patrankų, anksčiau vokiečių išmėgintų imant Trakų pilį.
@@ -1364,33 +1318,19 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš Veliuona: Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausęs jiems.
 - susijęs iš Viena: „Pranešimas...“ aptiktas Vokiečių ordino archyve Vienoje, XVI a. pradžios kodekse.
 - susijęs iš Vilija: Vilniaus pirklių laivams, vadintiems vytinėmis, buvo leista laisvai plaukioti Vilijos upe.
-- susijęs iš Vilnius: 1325 m. Vilniuje pasirašyta Gedimino sutartis su Łokietka dėl bendros kovos su Prūsijos ordinu.
-- susijęs iš Vilnius: Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą per Šv. Jokūbą vėl išsiruošė anapus Nemuno.
 - susijęs iš Vilnius: Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir iki pat Vilniaus degino kaimus, plėšė turtą bei ėmė žmones į nelaisvę.
 - susijęs iš Vilnius: Vokiečių pirkliai lankė Vilnių, Krėvę, Trakus, Gardiną ir kitus Lietuvos miestus.
 - susijęs iš Vilnius: Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir žygiuodamas iki Vilniaus degino kaimus bei plėšė žmonių turtą.
-- susijęs iš Vilnius: Pagal šaltinyje pateiktą sąrašą Vilnius 1387 m. iš Vladislovo Jogailos gavo Magdeburgo teisę.
 - susijęs iš Vilnius: 1919 m. balandžio 19-21 d. po sunkių kovų lenkai užėmė Vilnių ir išstūmė bolševikus iš miesto.
-- susijęs iš Vilnius: Didysis magistras tris savaites ir dvi dienas apgulė Vilniaus pilis, bet jų neužėmė.
-- susijęs iš Vilnius: Apie 1555 m. Vilniuje pasirodė kunigas, slapta persiėmęs viklifininkų sektos nuostatomis.
-- susijęs iš Vilnius: 7-ojo dešimtmečio), vertimas dabar saugomas Vilniuje78.
-- susijęs iš Vilnius: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo miestas ir Gedimino sostinė.
-- susijęs iš Vilnius: 1325 m. Vilniuje buvo pasirašyta Gedimino sutartis su Lokietka dėl bendros kovos su Prūsijos ordinu.
 - susijęs iš Vilnius: 1915 m. vokiečiai Vilniuje išplatino atsišaukimą, kuriame miestas pavadintas „gražiausiu Lenkijos karalystės perlu“.
 - susijęs iš Vilnius: 1915 m. rugsėjo 15 d. vokiečiai įžengė į Vilnių, o senoji Lenkijos ir Lietuvos valstybės teritorija atsidūrė Vokietijos ir Austrijos kariuomenių kontrolėje.
 - susijęs iš Vilnius: 1382 m. birželio 12 d. Vilniuje miesčionys užėmė pilį ir išmušė Kęstučio sargybas.
 - susijęs iš Vilnius: 1382 m. birželio 12 d. Vilniaus miesčionys užėmė pilį ir išmušė Kęstučio sargybas.
 - susijęs iš Vilnius: Jogailos šalininkai užėmė Vytauto saugotą Vilniaus pilį, išžudę Kęstučio sargybas.
-- susijęs iš Vilnius: Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didelį gaisrą, sunaikinusį didelę miesto dalį.
-- susijęs iš Vilnius: Pirmasis autentiškas Vilniaus kaip miesto ir Gedimino sostinės paliudijimas siejamas su 1323 m. spalio 2 d. Vilniuje pasirašyta sutartimi.
-- susijęs iš Vilnius: Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didelį gaisrą, sunaikinusį didelę miesto dalį.
-- susijęs iš Vilnius: Vilniuje Viklifo pasekėjas gavo vyskupo leidimą kalbėti apie tikėjimą šv. Onos bažnyčioje ir ten laikyti pamaldas.
-- susijęs iš Vilnius: Lietuvos metraščio pasakojime Gediminas prieš žūtį perdavė aukščiausią valdžią Vilniuje Jaunučiui.
 - susijęs iš Visla: Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.
 - susijęs iš Vitchendorfas: Vitchendorfas buvo kaimas Saksonijoje.
 - susijęs iš Vitebskas: 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių ir, šalininkų remiamas, jį paėmė.
 - susijęs iš Vitebskas: 1382 m. birželio 12 d. Jogaila nuo Vitebsko atėjo į Vilnių ir, šalininkų remiamas, jį paėmė.
-- susijęs iš Vitebskas: Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.
 - susijęs iš Viznos apylinkės: Kai Livonijos magistras buvo prie Vilniaus, lietuviai pietvakariuose atakavo kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo.
 - susijęs iš Vištyčio ežeras: Nubrėžtos sienos ėjo pro Vištyčio ežerą į Leipūnos upę.
 - susijęs iš Vokietija: Kryžiuočių ordino veikloje išliko paprotys kviesti svečius iš Vokietijos.
@@ -1420,7 +1360,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš Žemaitija: Trijuose suvažiavimuose dėl sienų Vytautas reikalavo plačių Žemaitijos ribų, bet Ordinas su tuo nesutiko.
 - susijęs iš Žemaitija: Žalgirio mūšyje buvo pakirsta Vokiečių ordino hegemonija, nors Žemaitijai pripažinti Lietuvai dar reikėjo dviejų karų.
 - susijęs iš Žemaitija: 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai.
-- susijęs iš Žemaitija: Grafo Barbio vadovauta vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet buvo prūsų sutriuškinta.
 - susijęs iš Žemaičių žemė: Lietuvos metraštyje Vytautas, būdamas pas magistrą Marienburge, už tris šimtus tūkstančių auksinų užstato vokiečiams Žemaičių žemę.
 - susijęs iš [[objektai/zodynas/Barstukai piktukai pursčiai pirštukai.md#claim-t-189115|Barstukai piktukai pursčiai pirštukai]]: Narbutas nurodė nuomonę, kad pirštukai (Pirsztuki) taip vadinti nuo žodžio „pirštas“, nes tos mitinės būtybės laikytos mažomis kaip pirštai.
 - susijęs iš [[objektai/zodynas/Klaipėdiškiai.md#claim-t-21995|Klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas.
@@ -1527,14 +1466,11 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/zodynas/romėnų miliarijus.md#claim-t-192177|romėnų miliarijus]]: Teodoras Narbutas kelio ilgį pagal Plinijų nusako kaip 600 romėnų miliarijų.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176152|Žemaičiai]]: Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.
 - susijęs iš Niešava: 1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.
-- susijęs iš [[objektai/ivykiai/Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.).md#claim-t-185603|Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.)]]: Algirdo, Kęstučio ir Patriko vedami lietuviai netikėtai užpuolė vokiečių stovyklą, bet po kovos Kęstutis pateko į priešų rankas.
 - susijęs iš [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18.md#claim-t-40750|Pistoletas-kulkosvaidis MP 18]]: MP 18 pasirodė Pirmojo pasaulinio karo pabaigoje ir buvo pirmasis masiškai gamintas vokiečių pistoletas-kulkosvaidis.
 - susijęs iš [[objektai/daiktai/Trumpos ietys.md#claim-t-186832|Trumpos ietys]]: Lietuvos metraščio pasakojime jotvingiai susirėmime prieš vokiečius jodinėjo su trumpomis ietimis.
 - susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
 - susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45327|1941 m. Birželio sukilimas (sukilimas)]]: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė atkuriamą laisvą ir nepriklausomą Lietuvos valstybę.
 - susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45329|1941 m. Birželio sukilimas (sukilimas)]]: Per 1941 m. Birželio sukilimą provincijos sukilėliai užimdavo vietos valdžios įstaigas ir suimdavo sovietų valdžios aktyvistus.
-- susijęs iš [[objektai/ivykiai/Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.).md#claim-t-185603|Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.)]]: Algirdo, Kęstučio ir Patriko vedami lietuviai netikėtai užpuolė vokiečių stovyklą, bet po kovos Kęstutis pateko į priešų rankas.
-- susijęs iš Vilnius: Kariuomenė slapta išvesta nuolaidžiais Vilnios krantais užpuolė vokiečių stovyklą.
 - susijęs iš [[objektai/asmenys/Henne.md#claim-t-184259|Henne]]: Henne buvo laikomas žymiausiu Vytauto juokdariu ir kartu vokiečių agentu.
 - susijęs iš [[objektai/asmenys/Henne.md#claim-t-35087|Henne]]: Henne buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas.
 - susijęs iš [[objektai/asmenys/Hennė (Ordino agentas).md#claim-t-184260|Hennė (Ordino agentas)]]: Hennė buvo laikomas žymiausiu Vytauto juokdariu ir kartu vokiečių agentu.
@@ -1543,343 +1479,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/paprociai/Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus.md#claim-t-07778|Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus]]: Kare paimtus priešus, ypač vokiečius krikščionis, lietuviai versdavo sunkiai dirbti, prirakindavo prie girnų arba laikydavo iki mirties.
 - susijęs iš Kaunas: 1362 metais vokiečiai išgriovė Kauno pilį ir pradėjo brautis giliau į Lietuvą.
 - susijęs iš [[objektai/asmenys/Pavelas Bermontas-Avalovas.md#claim-t-19188|Pavelas Bermontas-Avalovas]]: Pavelas Bermontas-Avalovas vadovavo rusų ir vokiečių kariuomenei, vadintai bermontininkais.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Sužinoję apie didelį lietuvių
-    įsiveržimą, vokiečiai iš savo pusės irgi rengėsi. Kai jų žval­
-    gai pranešė lietuvių planus, antpuoliui atremti buvo sumobili­
-    zuota daug Prūsų krašto gyventojų. Pasidalinę mažais būre­
-    liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
-    tų vasario mėn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
-    sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
-    varė gyvą ir didelę prekybą su Vilniaus miestu. Nepatenkinti
-    lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos
-    reikalams, jie laukė tik progos padėti Jogailai atgauti valdžią,
-    kurio jie anksčiau buvo stipriai palaikomi. Vokiečių Ordinas,
-    gerai žinodamas, kas dedasi Lietuvoje, irgi nemiegojo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Naugardiečiai teigė turėję atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Mes žinom, kad abu kunigaikščiai
-    iš Kolomnos pasiuntė į Didįjį Naugardą savo pasiuntinį, kad šis
-    įsakytų jam pradėti karą su vokiečiais. Naugardiečiai atsakė,
-    kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais
-    yra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­
-    tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą
-    koaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­
-    dininkus ir kryžiuočius. Šitą koaliciją rėmė ir Jogaila su Pa­
-    mario kunigaikščių sąjunga.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-006
-
-- c-004
-  santrauka: 'Vytautui tarnavo daug nelietuvių, tarp jų lenkų ir vokiečių.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tačiau jis nedavė jiems įsigalėti, jie
-    tik paklusnūs įrankiai jo rankose. Nors vyriausieji jo padėjė­
-    jai ir buvo lietuviai, bet jam tarnavo daug ir nelietuvių: lenkų,
-    vokiečių. Visi jie, kaip ir pats kunigaikštis, buvo praktiškai nu­
-    siteikę žmonės: juristai, diplomatai, technikai, vertėjai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-007
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Apskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo
-    tempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur.
-    Valstybiškai-ūkiškais sumetimais jis leido plaukti į Volyniją len­
-    kams, į pietų Rusiją totoriams, į miestus vokiečiams. Kaip kiek­
-    vienas kolonizatorius jis nežiūrėjo ateinančio žmogaus tauty­
-    bės ar konfesijos, o pajėgumo dirbti, gabumų, turto ir dvasinių
-    privalumų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-006
-  santrauka: 'Vytauto tarnyboje buvo įvairių svetimšalių, ypač lenkų ir vokiečių.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Totorius su vokiečiais jis kolonizavo ne iš meilės,
-    o tik dėl to, kad matė iš to kraštui naudos. Jo tarnyboje mes ga­
-    lime užtikti įvairių svetimšalių, o labiausiai lenkų ir vokiečių.
-    Aiškus dalykas, kad nemažą įtaką Vytautas bus padaręs že­
-    mės eksploatacijai per savo dvarus, o jų jo laikais didysis kuni­
-    gaikštis įsigijo labai daug, nes jo tiesioginėn žinion perėjo buvu­
-    siųjų sričių kunigaikščių dvarai, bet apie tą tiesioginių žinių mes
-    veik neturime.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-    - t-001
-
-- c-007
-  santrauka: 'Gediminas kvietė vokiečių riterius, pirklius, amatininkus ir valstiečius atvykti į Lietuvą bei čia įsikurti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gediminas taip pat išsiuntė laiškus Vokietijos
-    miestams bei vienuolijoms, pranešdamas, kad laukia popiežiaus pasiun-
-    tinių tartis dėl krikšto. Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių
-    riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias vei-
-    klos sąlygas kaip Europoje. Tačiau 1323–1324 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-008
-  santrauka: 'Nutraukęs gerus santykius su vokiečiais, Vytautas turėjo gintis nuo vis smarkesnių jų puldinėjimų.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    O
-    kliūčių buvo daug. Jis paėmė valdžią gana sunkiose aplinky­
-    bėse. Nutraukęs gerus santykius su vokiečiais, turėjo gintis
-    nuo jų puldinėjimų, kurie buvo daromi vis didesniu smarkumu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-009
-  santrauka: 'Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų bendruomenės.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK įsikūrė vokie-
-    čių, žydų ir armėnų. Beveik visos šios bendruomenės (išskyrus vokiečius)
-    tapo kunigaikščių kolektyviniais vasalais, turinčiais savo konfesiją ir raštą.
-    Lietuvos krikštas – Europos
-    formavimosi pabaiga?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-010
-  santrauka: 'Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    O Vytautas Magdeburgo teises suteikė Brastai ir
-    Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
-    metais^4 ).
-    Apskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo
-    tempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur.
-    Valstybiškai-ūkiškais sumetimais jis leido plaukti į Volyniją len­
-    kams, į pietų Rusiją totoriams, į miestus vokiečiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-011
-  santrauka: 'Valdovams kviečiant pirklius ir amatininkus iš svetur, Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nepasitikėta ir savųjų įgūdžiais,
-    todėl valdovai kvietė pirklius ir amatininkus iš svetur. LDK įsikūrė vokie-
-    čių, žydų ir armėnų. Beveik visos šios bendruomenės (išskyrus vokiečius)
-    tapo kunigaikščių kolektyviniais vasalais, turinčiais savo konfesiją ir raštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-012
-  santrauka: 'Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Šitam karo žygiui buvo surinkta kariuomenė ne vien tik iš Že­
-    maičių^1 ), kaip paprastai Kęstutis darydavo, bet ir iš antros Lie­
-    tuvos dalies, kurią valdė Algirdas. Sužinoję apie didelį lietuvių
-    įsiveržimą, vokiečiai iš savo pusės irgi rengėsi. Kai jų žval­
-    gai pranešė lietuvių planus, antpuoliui atremti buvo sumobili­
-    zuota daug Prūsų krašto gyventojų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
-- c-013
-  santrauka: 'Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos iš šiaurės.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-
-    93
-
-    ## Puslapis 84
-
-    1221 m e ta i
-    K u k o v a itis — L ietu ­
-    v o s  ir Ž e m a itijo s k u ­
-    n ig a ik štis
-    gojo taiką, būdamas beveik
-    iš visų pusių apsuptas bičiu­
-    lių; vakaruose—prūsų- rytuo­
-    se — brolio Ginvilos, Poloc­
-    ko kunigaikščio, pietuose
-    jotvingių ir Skirmanto, Nau­
-    garduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau
-    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
-    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
-    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
-    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
-    Rusią.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-
-- c-014
-  santrauka: 'Livonijos vokiečiai 1225 m. pirmą kartą patyrė stambų pralaimėjimą nuo lietuvių ir žemaičių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šitokios mintys teikė
-    nepatyrusiems žmogeliams tokio ryžto ir tokios drą­
-    sos, kad, greitosiomis sutelktai miniai užpuolus, pirma­
-    me susidūrime buvo sutriuškinti prityrę krikščionių
-    kariai, o pats arkivyskupas žuvo. Mirus apie tuos mė­
-    tos kalvos prie Šventosios upės statulą, Šiuo metu ten
-    giraitė, tebeturinti senąjį vardą: palaidoto kunigaikš-
-    1225 m eta i
-    L iv o n ijo s v o k ie č ia i
-    su m u ša m i že m a ičių  ir
-    lie tu v ių
-    jos vokiečiai pirmą kartą pa­
-    tyrė
-    stambų
-    pralaimėjimą
-    nuo
-    lietuvių
-    ir
-    žemaičių.
-    Pavergę Livoniją, jie užpuo­
-    lė kuršius, kurie anuo me­
-    tu priklausė Lietuvai; dang-
-    U ten is — L ie tu vo s
-    b e i Ž e m a itijo s k u n i­
-    g a ik štis
-    tus Kukovaičiui, valdžią se­
-    nojoje Lietuvoje (Užneryje)
-    ir Žemaitijoje perėmė jo sū­
-    nus Utenis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
-- c-015
-  santrauka: 'Narbutas rašė, kad senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“ ir „Belewitt“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuvos rusinai savo pasakojimuose taip pat mini
-    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
-    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
-    bloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,
-    „Belewitt“**.
-    9
-    Gera lietuvių kalba mundus reiškia pasaulį apskritai, todėl Na-
-    rvmund -  pasaulio pakraštys, Giarymund -  gerasis pasaulis, Zyg-
-    mund -  kitoniškas (skirtingas) pasaulis*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-
-- c-016
-  santrauka: 'Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai rašiusį apie kryžiuočius ir vokiečių tautą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    1.
-    Seniausias žinomas šito šaltinis yra Simonas Grunau,
-    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
-    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
-    šantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug
-    užsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais
-    nekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­
-    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
-    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
-    11 Sirvydo žodynas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-
 ## Citatos
 
 - id: c-36958
@@ -1942,8 +1541,8 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117314
     - t-117311
+    - t-117314
 
 - id: c-36962
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1963,7 +1562,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117309
-    - t-117313
 
 - id: c-36963
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2005,8 +1603,8 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117318
     - t-117306
+    - t-117318
 
 - id: c-108018
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2074,12 +1672,10 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
     Valstybiškai-ūkiškais sumetimais jis leido plaukti į Volyniją len­
     kams, į pietų Rusiją totoriams, į miestus vokiečiams.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-117316
-
 - id: c-166584
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2109,38 +1705,35 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
     gai pranešė lietuvių planus, antpuoliui atremti buvo sumobili­
     zuota daug Prūsų krašto gyventojų.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184227
-
 - id: c-167948
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-
-    93
-
-    ## Puslapis 84
-
-    1221 m e ta i
-    K u k o v a itis — L ietu ­
-    v o s  ir Ž e m a itijo s k u ­
-    n ig a ik štis
-    gojo taiką, būdamas beveik
-    iš visų pusių apsuptas bičiu­
-    lių; vakaruose—prūsų- rytuo­
-    se — brolio Ginvilos, Poloc­
-    ko kunigaikščio, pietuose
-    jotvingių ir Skirmanto, Nau­
-    garduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau
-    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
-    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
-    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
+    Todėl, būdamas ramus dėl vidaus reikalų,
     Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
-    Rusią.
+    Rusią. Karą prieš Skirmantą susimanė rengti Balakla-
+    jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
+    tas, norėdamas išdildyti pri-
+    S k irm a n ta s su m u ša
+    siminimus apie pralaimėjimą,
+    sk itu s
+    patirtą prieš keletą metų;
+    teisėtos priežasties, jis išleido pasiuntinius, turėjusius
+    pareikalauti iš Rusios duoklės. Skirmantas, kuo grei­
+    čiausiai sutraukęs didžiulę kariuomenę, kurią sudarė
+    rusai, šioje Neries pusėje gyvenantys lietuviai, be to,
+    Kukovaičio atsiųsti Užnerio lietuviai, pasiuntiniams
+    surengė kuo šauniausią puotą; po ilgų vaišių, kai šie
+    jau ketino keliauti atgal, Skirmantas įsakė visiems nu­
+    pjaustyti nosis bei ausis; šitaip sudarkyti, jie turėję
+    pranešti kunigaikščiui: „Tegu galop liaujasi skitai lie­
+    tuviams kalbėję apie duoklę.
+  citata_rodoma: "Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-\n93\n\n## Puslapis 84\n\n1221 m e ta i\nK u k o v a itis — L ietu ­\nv o s  ir Ž e m a itijo s k u ­\nn ig a ik štis\ngojo taiką, būdamas beveik\niš visų pusių apsuptas bičiu­\nlių; vakaruose—prūsų- rytuo­\nse — brolio Ginvilos, Poloc­\nko kunigaikščio, pietuose\njotvingių ir Skirmanto, Nau­\ngarduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau\ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai,\nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti\nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų,\nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į\nRusią."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2151,8 +1744,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - id: c-167949
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 86"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 86."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šitokios mintys teikė
     nepatyrusiems žmogeliams tokio ryžto ir tokios drą­
@@ -2163,7 +1755,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
     giraitė, tebeturinti senąjį vardą: palaidoto kunigaikš-
     1225 m eta i
     L iv o n ijo s v o k ie č ia i
-    su m u ša m i že m a ičių  ir
+    su m u ša m i že m a ičių ir
     lie tu v ių
     jos vokiečiai pirmą kartą pa­
     tyrė
@@ -2193,18 +1785,18 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - id: c-171251
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 126"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuvos rusinai savo pasakojimuose taip pat mini
-    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
-    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
-    bloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,
-    „Belewitt“**.
-    9
-    Gera lietuvių kalba mundus reiškia pasaulį apskritai, todėl Na-
-    rvmund -  pasaulio pakraštys, Giarymund -  gerasis pasaulis, Zyg-
-    mund -  kitoniškas (skirtingas) pasaulis*.
+    Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
+    tinkame mūsų kaimiečių padavimuose. Turiu jį savajame se­
+    nų liaudies padavimų rinkinyje; kitą, menkai tesiskiriantį, ga­
+    vau iš Žemaitijos, iš vieno senovės tyrėjo. Pasak šių lietuvių
+    padavimų, pasakojimo veikėjų vardai yra arba visiškai iškrai­
+    pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė
+    buvo deivė, kaip vadinosi vyriausiasis dievas. Deivės vardas
+    buvo IJetuva, jos vyro - Trinetas (Trinytis? - R.J.), dukters -
+    Dalia (Dala) arba Dahla.
+  citata_rodoma: "Lietuvos rusinai savo pasakojimuose taip pat mini\nDolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­\ntūna, būdama permaininga, vieniems būdavo gera, o kitiems -\nbloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,\n„Belewitt“**.\n9\nGera lietuvių kalba mundus reiškia pasaulį apskritai, todėl Na-\nrvmund -  pasaulio pakraštys, Giarymund -  gerasis pasaulis, Zyg-\nmund -  kitoniškas (skirtingas) pasaulis*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2215,19 +1807,30 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - id: c-171252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 431"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    1.
-    Seniausias žinomas šito šaltinis yra Simonas Grunau,
-    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
-    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
-    šantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug
-    užsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais
-    nekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­
-    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
-    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
-    11 Sirvydo žodynas.
+    O kas gi buvo
+    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
+    tuva kilties ir vienos genties broliai? Labiausiai kritikui nepa­
+    tiko, kad didžioji vardų dalis baigiasi raide o; tokių prūsiškų,
+    šiaip jau žinomų vardų esą maža. Atsakant į tai, reikia atkreipti
+    kritiko dėmesį, kad tie vardai kronikose iš dalies rašomi ne­
+    tiksliai, kadangi šiaip jau žinomiBrutenes (Brutenis) ir Wejda-
+    wutis (Vaidevutis) tame būryje turi tokias pat vardų galūnes.
+    Tačiau pats kritikas negali užginčyti, kad buvo vardų ir su to­
+    kia galūne; tegu pamąsto apie tokį atvejį, jog tų žmonių būry­
+    je daugiausia buvo turinčių tas nelaimingas galūnes, kurios
+    padarė, kad autorius pats susilpnina ir vienu plunksnos brūkš­
+    niu padaro abejotinus savo principinius teiginius, taip stropiai
+    pateiktus anksčiau toje pačioje istorijoje, ir vyriausiojo žynio
+    buvimo įrodymus, nukreiptus prieš priešingų hipotezių kėlė­
+    jus, - įrodymus, tokius tvirtus, aiškius ir akivaizdžius, kiek tik
+    leidžia pagalbinės istorijos mokslo priemonės, - pasitelkda­
+    mas hipotezes jiems visiškai sugriauti ir dar hipotezes, pasi­
+    skolintas iš Hartknocho, kuris nerūpestingai prikaišiojo jų į
+    savo Prūsijos istorijos aprašymus ' ir šiandien tikrai atšauktų,
+    jeigu perskaitytų, ką mes čia tuo klausimu išdėstėme.
+  citata_rodoma: "1.\nSeniausias žinomas šito šaltinis yra Simonas Grunau,\nnaujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš\ntikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­\nšantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug\nužsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais\nnekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­\nma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų\narba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­\n11 Sirvydo žodynas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

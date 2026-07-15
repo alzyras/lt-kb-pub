@@ -40,7 +40,6 @@ Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame pl
 - susijęs iš Dnepras: Narbutas rašė, kad daugiausia Baltarusijos pilkapių buvo Dnepro vidurupyje nuo Sklovo apylinkių iki Pripetės žiočių.
 - susijęs iš Pripetė: Narbutas nurodo, kad Dnepro vidurupyje pilkapių ypač daug nuo Sklovo aukštupio iki Pripetės žiočių.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame plote, o kairiojoje Dnepro pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio čių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -69,9 +68,15 @@ Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame pl
 - id: c-177323
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 381"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Tokių kalvų kartais randama išsibarsčiusių laukuose,
+    netgi sausose pievose po dvi, kelias, o kai kur jų esti la­
+    bai daug netvarkingai išmėtytų įvairiomis kryptimis ir
+    įvairaus dydžio: daugiausia vidutinių, mažiau mažų, o
+    didelių nedaug, daugiausia stūkso atskirai, nuošaliau nuo
+    kitų ar poromis. Paprastai jos būva netoli gyvenviečių
+    arba joms tinkamose vietose.
     Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
     daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
     Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
@@ -83,6 +88,7 @@ Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame pl
     čių. Šio ploto centras yra Rogačiovo miestas, kurio apy­
     linkėse plyti nesuskaičiuojama gausybė šių senojo am­
     žiaus paminklų.
+  citata_rodoma: "Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau\ndaugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau\nSklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti\npalei senas Rusijos sienas su Lietuvos valstybe, de­\nšiniojoje driekiasi už Borisovo apskrities net iki tikrosios\nLietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-\nžūnos upių žemupio uždarame plote, o kairiojoje Dnepro\npakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­\nčių. Šio ploto centras yra Rogačiovo miestas, kurio apy­\nlinkėse plyti nesuskaičiuojama gausybė šių senojo am­\nžiaus paminklų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

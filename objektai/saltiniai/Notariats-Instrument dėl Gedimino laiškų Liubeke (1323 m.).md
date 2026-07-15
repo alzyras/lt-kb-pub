@@ -41,28 +41,6 @@ Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­ biniame
   teiginys: "Notariats-Instrument dokumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams."
   pagrindžia:
     - c-84247
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Notariats-Instrument dokumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­
-    biniame pranešime (Notariats instrument), į kurį taip pat buvo
-    įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­
-    rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­
-    ve, ir tik iš jo su tais laiškais galima susipažinti. Be abejonės,
-    anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­
-    dino piktadarystę" atsidūrė kryžiuočių archyve. Šitai vėlei liu­
-    dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės,
-    klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

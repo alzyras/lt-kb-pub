@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeigose Bakcho garbei.
+Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeigose Bakcho garbei. Plutarchas aprėkdavusi kiekvieną įeinantį, kad nesumindytų pieno karalienės.
 
 ## Teiginiai
 
@@ -34,43 +34,31 @@ Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeig
   teiginys: "Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeigose Bakcho garbei."
   pagrindžia:
     - c-173285
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeigose Bakcho garbei.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Panašų į lietu­
-    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
-    Herodotas liudija, kad egiptiečiai tam tikrą žalčių rūšį lai­
-    kė dievaičiais. Pasak Plutarcho, pas atėniečius prijaukinti žal­
-    čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
-    vo Bakcho garbei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197334"></a>
+- t-002
+  global_id: t-197334
+  teiginys: "Plutarchas aprėkdavusi kiekvieną įeinantį, kad nesumindytų pieno karalienės."
   pagrindžia:
-    - t-001
+    - c-173285
 
 ## Citatos
 
 - id: c-173285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Panašų į lietu­
-    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
-    Herodotas liudija, kad egiptiečiai tam tikrą žalčių rūšį lai­
-    kė dievaičiais. Pasak Plutarcho, pas atėniečius prijaukinti žal­
-    čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
-    vo Bakcho garbei.
+    Latviai tas rupūžes vadino Pieno motinomis
+    (Peenu mahtes), pieno deivėmis. Jų mitologijoje buvo kažko­
+    kia mitinė būtybė, vadintaBrehkina, tai yra rėksne. Pasak Sten-
+    derio, atseit tai buvusi namų senė, sergėjanti naminius žalčius
+    ir rupūžes; ji aprėkdavusi kiekvieną įeinantį, kad nesumindy-
+    tų pieno karalienės.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190402
+    - t-197334

@@ -90,28 +90,6 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 - susijęs iš Turmantas: Kariuomenės dalinys, laikęs liniją Aukštakalnis-Salakas-Kiemionys, turėjo pulti Turmanto kryptimi.
 - susijęs iš [[objektai/zodynas/demobilizacija.md#claim-t-42443|demobilizacija]]: Kazys Ladyga po demobilizacijos grįžo į Lietuvą ir prisidėjo prie pirmųjų Lietuvos kariuomenės dalinių organizavimo.
 - susijęs iš [[objektai/grupes/Marijampolės batalionas.md#claim-t-78387|Marijampolės batalionas]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Karin. S. Nastopkos vadovaujamos 11 bri-
-
-    gados dalys veikė šiaurinėje Lietuvos te-
-
-    ritorijos dalyje. Jos uždavinys buvo pulti
-
-    ir užimti Subatės-Borovkos-Suvieko li-
-
-    niją ir veržtis toliau Daugpilio kryptimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-77336

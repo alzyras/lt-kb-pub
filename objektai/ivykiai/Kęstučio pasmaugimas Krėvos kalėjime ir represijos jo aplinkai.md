@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Po Kęstučio suėmimo Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime. Jis įsakė ratu nukankinti Vidimantą, vieną iš seniausių ir turtingiausių Žemaitijos bajorų, Kęstučio žmonos Bi rutės tėvą; jo turtus, atėmęs iš žmonos bei giminaičių, atidavė Mantvydui.
+Kojelavičius rašo, kad penktą naktį Jogailos pasiųsti budeliai pasmaugė Kęstutį Krėvos kalėjime. Kojelavičiaus pasakojime Jogaila tą pačią naktį, sulaužęs priesaiką ir svetingumą, įsakė suimti Kęstutį bei Vytautą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -44,81 +44,30 @@ Nenurodyta
 <a id="claim-t-185731"></a>
 - t-001
   global_id: t-185731
-  teiginys: "Po Kęstučio suėmimo Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime."
+  teiginys: "Kojelavičius rašo, kad penktą naktį Jogailos pasiųsti budeliai pasmaugė Kęstutį Krėvos kalėjime."
   pagrindžia:
     - c-169092
 
-<a id="claim-t-193359"></a>
+<a id="claim-t-196195"></a>
 - t-002
-  global_id: t-193359
-  teiginys: "Jis įsakė ratu nukankinti Vidimantą, vieną iš seniausių ir turtingiausių Žemaitijos bajorų, Kęstučio žmonos Bi rutės tėvą; jo turtus, atėmęs iš žmonos bei giminaičių, atidavė Mantvydui."
+  global_id: t-196195
+  teiginys: "Kojelavičiaus pasakojime Jogaila tą pačią naktį, sulaužęs priesaiką ir svetingumą, įsakė suimti Kęstutį bei Vytautą."
   pagrindžia:
-    - c-176086
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po Kęstučio suėmimo Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tą pačią naktį Jogaila, pamynęs draugystės bei
-    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
-    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
-    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
-    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
-    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
-    dėl narsumo — Achilas, žuvo gimtajame krašte per
-    brolėno kaltę: penktą naktį
-    Jogailos
-    pasiųsti
-    budeliai
-    (žymiausi
-    iš
-    jų — valdovo
-    miegamojo prižiūrėtojai Pro-
-    kša, Bilgenis, Lisica ir kiti)
-    Krėvos kalėjime jį pasmaugė. Skirgaila Šventaragio
-    slėnyje surengė dėdei karališkas šermenis ir laidotu­
-    ves.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Jis įsakė ratu nukankinti Vidimantą, vieną iš seniausių ir turtingiausių Žemaitijos bajorų, Kęstučio žmonos Bi rutės tėvą; jo turtus, atėmęs iš žmonos bei giminaičių, atidavė Mantvydui.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Deja, Jogailos širdis, vis labiau tūžtanti ir keršto
-    trokštanti, nenurimo. Jis įsakė ratu nukankinti Vidi-
-    mantą, vieną iš seniausių ir turtingiausių Žemaitijos
-    bajorų, Kęstučio žmonos Bi­
-    rutės tėvą; jo turtus, atėmęs
-    iš žmonos bei giminaičių,
-    atidavė Mantvydui. Keršto
-    banga nepalietė vieno Vy­
-    tauto; atsimušusi nuo jo ne­
-    lyginant nuo kokio pylimo,
-    ji šiek tiek aprimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-169092
 
 ## Citatos
 
 - id: c-169092
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 271."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tą pačią naktį Jogaila, pamynęs draugystės bei
+    Šiaip ar taip, visada pavojinga karo
+    vadui, patikėjus jam duotu garbės žodžiu, atsidurti
+    ginkluoto priešo rankose. Mat nei geros savijautos,
+    nei pasitikėjimo duotu žodžiu negali būti tada, kai,
+    susitarus dėl ko su priešu, šis nepaliauja galvojęs apie
+    naudą. Tą pačią naktį Jogaila, pamynęs draugystės bei
     giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
     tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
     liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
@@ -134,36 +83,12 @@ Nenurodyta
     jų — valdovo
     miegamojo prižiūrėtojai Pro-
     kša, Bilgenis, Lisica ir kiti)
-    Krėvos kalėjime jį pasmaugė. Skirgaila Šventaragio
-    slėnyje surengė dėdei karališkas šermenis ir laidotu­
-    ves.
+    Krėvos kalėjime jį pasmaugė.
+  citata_rodoma: "Mat nei geros savijautos, \nnei pasitikėjimo duotu žodžiu negali būti tada, kai, \nsusitarus dėl ko su priešu, šis nepaliauja galvojęs apie \nnaudą. Tą pačią naktį Jogaila, pamynęs draugystės bei \ngiminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­\ntingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį \nliepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­\ntaip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­\ngų, dėl savo sumanumo tikras Lietuvos Odisėjas, o \ndėl narsumo — Achilas, žuvo gimtajame krašte per\nbrolėno kaltę: penktą naktį \nJogailos \npasiųsti \nbudeliai \n(žymiausi \niš \njų — valdovo \nmiegamojo prižiūrėtojai Pro- \nkša, Bilgenis, Lisica ir kiti) \nKrėvos kalėjime jį pasmaugė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185731
-
-- id: c-176086
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 271."
-  citata_originali: |
-    Deja, Jogailos širdis, vis labiau tūžtanti ir keršto
-    trokštanti, nenurimo. Jis įsakė ratu nukankinti Vidi-
-    mantą, vieną iš seniausių ir turtingiausių Žemaitijos
-    bajorų, Kęstučio žmonos Bi­
-    rutės tėvą; jo turtus, atėmęs
-    iš žmonos bei giminaičių,
-    atidavė Mantvydui. Keršto
-    banga nepalietė vieno Vy­
-    tauto; atsimušusi nuo jo ne­
-    lyginant nuo kokio pylimo,
-    ji šiek tiek aprimo.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193359
+    - t-196195

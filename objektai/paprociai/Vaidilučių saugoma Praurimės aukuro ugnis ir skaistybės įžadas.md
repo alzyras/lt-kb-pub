@@ -33,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip vaidilutę, saugojusią šventą Praurimės aukuro ugnį netoli Palangos. Narbutas nurodo, kad Birutė Praurimės aukurą prižiūrėjo beveik 18 metų.
+Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip vaidilutę, saugojusią šventą Praurimės aukuro ugnį netoli Palangos. Narbutas nurodo, kad Birutė Praurimės aukurą prižiūrėjo beveik 18 metų. Mirusi buvo palaidota po Amžinosios ugnies aukuro griuvėsiais30.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -65,88 +65,43 @@ Nenurodyta
   teiginys: "Narbutas nurodo, kad Birutė Praurimės aukurą prižiūrėjo beveik 18 metų."
   pagrindžia:
     - c-172827
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip vaidilutę, saugojusią šventą Praurimės aukuro ugnį netoli Palangos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Duomenų apie tai mums
-    paliko Strijkovskis.
-    Birutė (Biruta)
-    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
-    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
-    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197268"></a>
+- t-003
+  global_id: t-197268
+  teiginys: "Mirusi buvo palaidota po Amžinosios ugnies aukuro griuvėsiais30."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas nurodo, kad Birutė Praurimės aukurą prižiūrėjo beveik 18 metų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dabar, kai rašau,
-    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
-    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
-    minimo ir garbinimo apeigos.
-    Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­
-    sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl
-    aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-
-    30
-    Patyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331
-    metus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­
-    le 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­
-    veik 18 metų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-172826
 
 ## Citatos
 
 - id: c-172826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Duomenų apie tai mums
-    paliko Strijkovskis.
-    Birutė (Biruta)
-    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
-    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
-    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną.
+    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189943
+    - t-197268
 
 - id: c-172827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dabar, kai rašau,
     beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­

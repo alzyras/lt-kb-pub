@@ -30,7 +30,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Zellerio 1663 m. veikalas „Neue Beschreibung des Königreichs Polen und Herzogtums Lithauen“ minimas kaip šaltinis apie senovės Kijevą.
+Zellerio 1663 m. veikalas „Neue Beschreibung des Königreichs Polen und Herzogtums Lithauen“ minimas kaip šaltinis apie senovės Kijevą. 2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai (Zeller.
 
 ## Teiginiai
 
@@ -40,39 +40,32 @@ Zellerio 1663 m. veikalas „Neue Beschreibung des Königreichs Polen und Herzog
   teiginys: "Zellerio 1663 m. veikalas „Neue Beschreibung des Königreichs Polen und Herzogtums Lithauen“ minimas kaip šaltinis apie senovės Kijevą."
   pagrindžia:
     - c-174746
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Zellerio 1663 m. veikalas „Neue Beschreibung des Königreichs Polen und Herzogtums Lithauen“ minimas kaip šaltinis apie senovės Kijevą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my­
-    lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai
-    (Zeller. Neue Beschreibung des Königreichs Polen und Herzogtums
-    Lithauen. 1663).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197691"></a>
+- t-002
+  global_id: t-197691
+  teiginys: "2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai (Zeller."
   pagrindžia:
-    - t-001
+    - c-174746
 
 ## Citatos
 
 - id: c-174746
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 375"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Vadi­
+    nasi, čia gyventa jau iki IV amžiaus.
+    1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus
+    mano buvus slavus, kuriuos kadaise nukariavo skitai*.
     2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my­
     lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai
-    (Zeller. Neue Beschreibung des Königreichs Polen und Herzogtums
-    Lithauen. 1663).
+    (Zeller.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191864
+    - t-197691

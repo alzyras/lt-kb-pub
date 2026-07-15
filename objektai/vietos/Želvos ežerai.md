@@ -50,31 +50,6 @@ toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe i
   teiginys: "Lietuvos rytinė teritorijos linija buvo vedama per Želvos ežerus."
   pagrindžia:
     - c-46874
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    12 d. Maskvoje. Rusija pripažino Lietuvos atsiskyrimą
-    ir visišką jos nepriklausomybę lietuvių gyvenamoje teritorijoje
-    su Vilniaus sostine ir Gardinu.
-    Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant
-    Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per
-    Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo
-    ežerą, per Miastros ežerą, Bliados ežero rytų šonu, Naračios upe,
-    toliau Ušos ir Buchovkos upėmis, per Modolečną, pro Voložino
-    miestą, Voložinkos, Isločės ir Beržūnės upėmis, paskum Nemunu,
-    Svisločės intaku, Lašos upe, pro Induros miestelį, Induros upe, toliau
-    pro Sidros miestelį, Kamenos upe ir pagaliau Gorodniankos upe ligi
-    Bobro upės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

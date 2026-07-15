@@ -55,28 +55,6 @@ Nenurodyta
   teiginys: "JAV buvo gaminamas kulkosvaidžio prototipas - daugiavamzdė Gatlingo sistema."
   pagrindžia:
     - c-44648
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pavyzdžiui, tuo metu Prūsijos ka-
-    riuomenė jau buvo ginkluota 1841 metų konstrukcijos šautuvais,
-    užtaisomais popieriniais šoviniais pro drūtgalį. Šiuo laikotarpiu
-    jau buvo plačiai žinomas ir vientisas šovinys, į kurį buvo apjungta
-    metalinė tūta su parako užtaisu, kapsulė bei kulka. jAv jau buvo
-    gaminami pirmi dėtuvinių šautuvų modeliai, taip pat ir kulkos-
-    vaidžio prototipas - daugiavamzdė Gatlingo sistema.
-
-    Progresas pakeitė ne tik šautuvus, bet ir mažuosius ginklus -
-    plačiai pradėti naudoti revolveriai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

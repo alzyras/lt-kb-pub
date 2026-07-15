@@ -35,26 +35,6 @@ Kiek­ vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių 
   teiginys: "Kiek vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių narių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir konsulinių kiekvienos šalies."
   pagrindžia:
     - c-176334
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kiek vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių narių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir konsulinių kiekvienos šalies.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-
-    ventojų atžvilgiu. Visų šalių narių piliečiai kartu yra ir ES piliečiai. Kiek­
-    vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių na-
-    rių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos
-    rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir
-    konsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-
-    mo) Europos parlamentui teisę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

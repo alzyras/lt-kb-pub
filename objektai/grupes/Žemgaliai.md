@@ -43,34 +43,12 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Šeloniečiai.md#claim-t-192993|Šeloniečiai]]: Narbutas rašo, kad Selonės apskrityje gyveno šeloniečių, arba Selonczycy, tauta, kurią jis siejo su žemgaliais.
 - susijęs iš Kuršas: Narbutas pritarė Ksaverui Bogušui, kad islandų sagų chorai arba churai suprastini kaip kuršiai.
 - susijęs iš [[objektai/grupes/Doblėnai.md#claim-t-192979|Doblėnai]]: Narbutas spėjo, kad doblėnai gyveno šiaurinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas doblėnus, mechotėnus, kuršius ir tervitėnus laikė žemgalių gentimis, o Selonės apskrities šeloniečius taip pat priskyrė žemgaliams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Iš akivaizdžių Mituvos apskrities skirtumų nuo kitų ša­
-    lies dalių reikėtų manyti, jog šiaurinėje dalyje gyveno
-    doblėnai, Dobleny, rytinėje — mechotėnai, Mechoteny, vi­
-    durinėje — kuršiai, Kurszovoy, o pietinėje — tervitėnai,
-    Tenvitenny. Iš tikrųjų lai buvo žemgalių gentys. Selonės
-    apskrity gyveno šeloniečių, Selonczycy, tauta — taip pat
-    žemgaliai'2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175737
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 287"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš akivaizdžių Mituvos apskrities skirtumų nuo kitų ša­
     lies dalių reikėtų manyti, jog šiaurinėje dalyje gyveno

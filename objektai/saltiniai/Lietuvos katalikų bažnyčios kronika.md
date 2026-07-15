@@ -40,22 +40,6 @@ Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdži
   teiginys: "Pirmasis „Lietuvos katalikų bažnyčios kronikos“ redaktorius buvo Simne dirbęs kunigas Sigitas Tamkevičius."
   pagrindžia:
     - c-23881
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Grupė dvasininkų 1972 m. kovo 19 d. pradėjo leisti katalikišką leidinį „Lie-
-    tuvos katalikų bažnyčios kronika“. Pirmasis jos redaktorius buvo tuomet
-    Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę
-    veiklą ir propagandą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

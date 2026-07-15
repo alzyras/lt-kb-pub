@@ -35,30 +35,6 @@ Toks jo žygis lenką tarpe sukėlė didelį pasipriešinimą, nes jie Krėvės 
   teiginys: "Vytautas ėmėsi diplomatijos ir stengėsi lenkų ponus „užglostyti“, kai jo veiksmai dėl Podolijos ir Volynijos sukėlė jų pasipriešinimą."
   pagrindžia:
     - c-35625
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautas ėmėsi diplomatijos ir stengėsi lenkų ponus „užglostyti“, kai jo veiksmai dėl Podolijos ir Volynijos sukėlė jų pasipriešinimą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Toks jo žygis lenką tarpe
-    sukėlė didelį pasipriešinimą, nes jie Krėvės unija kaip tik ir no­
-    rėjo Podoliją ir Volyniją prijungti prie Lenkijos. Dabar gi Vytau­
-    tas aiškiai atsistojo skersai kelio ją siekimams. Kad nuramintą
-    įsikarščiavusius lenkus, Vytautas ėmėsi diplomatijos, stengda­
-    masis lenką ponus „užglostyti”. Tas klausimas laikinai—vėliau
-    jis vėl buvo iškilęs, — tarpininkaujant Jogailai, buvo taip iš­
-    spręstas: didesnė, t. y. rytinė Podolijos dalis teko Vytautui, o
-    mažesnė, vakarinė — buvo atiduota Krokuvos vaivadai, Vy­
-    tauto lėnininkui Spytekui iš Melštino, kuris greit pasidavė
-    Vytauto įtakai ir pasidarė jo šalininkas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

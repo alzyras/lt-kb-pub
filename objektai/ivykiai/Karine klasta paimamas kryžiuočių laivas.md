@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą.
+Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą. Nodamas prie kranto apgaule prisiviliojo kryžiuočių laivą, sukvietė iš pasalų karius ir užėmė laivą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,46 +47,22 @@ Nenurodyta
   teiginys: "Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą."
   pagrindžia:
     - c-169163
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kryžiuočiai
-    neįtarė nei klastos, nei pavojaus: krantai, medžiais ap­
-    augę, rodė, kad kraštas, ko gero, negyvenamas, moteris
-    tikrai nešauktų taip garsiai, jeigu arti kur būtų buvę
-    priešų. Todėl jie priplaukė prie kranto, ketindami tą
-    tariamą moterį paimti į laivą, tačiau Nodamas, staiga
-    prišokęs prie vandens, suriko, kviesdamasis bendrinin­
-    kus, ir taip tvirtai nutvėrė už laivo, kad irkluotojai ne­
-    įstengė jo pajudinti, kol nesubėgo iš pasalų kariai ir,
-    užėmę laivą, visų lig vieno neišžudė. Nuo Liudviko
-    Libencelės karių rankos tais pačiais metais krito dvi­
-    dešimt penki Aukaimio įgulos vyrai, neatsargiai nusi­
-    gavę į priešo žemę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196173"></a>
+- t-002
+  global_id: t-196173
+  teiginys: "Nodamas prie kranto apgaule prisiviliojo kryžiuočių laivą, sukvietė iš pasalų karius ir užėmė laivą."
   pagrindžia:
-    - t-001
+    - c-169163
 
 ## Citatos
 
 - id: c-169163
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 163"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 163."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kryžiuočiai
-    neįtarė nei klastos, nei pavojaus: krantai, medžiais ap­
-    augę, rodė, kad kraštas, ko gero, negyvenamas, moteris
-    tikrai nešauktų taip garsiai, jeigu arti kur būtų buvę
-    priešų. Todėl jie priplaukė prie kranto, ketindami tą
+    Todėl jie priplaukė prie kranto, ketindami tą
     tariamą moterį paimti į laivą, tačiau Nodamas, staiga
     prišokęs prie vandens, suriko, kviesdamasis bendrinin­
     kus, ir taip tvirtai nutvėrė už laivo, kad irkluotojai ne­
@@ -94,10 +70,17 @@ Nenurodyta
     užėmę laivą, visų lig vieno neišžudė. Nuo Liudviko
     Libencelės karių rankos tais pačiais metais krito dvi­
     dešimt penki Aukaimio įgulos vyrai, neatsargiai nusi­
-    gavę į priešo žemę.
+    gavę į priešo žemę. Kitame pakraštyje Jazbutas, ypa­
+    tingai aukštos kilmės lietuvis, nuniokojęs kurias ne
+    kurias Lenkijos pasienio žemes, buvo sumuštas Henriko
+    Cutsverto, Baigos komtūro, su tūkstančiu dviem šim­
+    tais riterių užėmusio kelius tarp Alnos ir Narevo upių:
+    Jazbutas neteko viso grobio ir didelės dalies raitelių,
+    kurių turėjo penkis šimtus.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185802
+    - t-196173

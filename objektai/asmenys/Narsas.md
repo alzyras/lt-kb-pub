@@ -36,32 +36,12 @@ Narso gretose, Narbuto pasakojimu, kariai ne sykį triuškino priešus ir prisid
   pagrindžia:
     - c-174180
 - susijęs iš [[objektai/ivykiai/Narso kariuomenės sutelkimas Pado žemupyje ir Taginos mūšis.md#claim-t-191068|Narso kariuomenės sutelkimas Pado žemupyje ir Taginos mūšis]]: Narso vadovaujama Justiniano kariuomenė 552 m. buvo sutelkta Pado žemupyje ir dalyvavo Taginos mūšyje, kuriame žuvo Totila.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narso gretose, Narbuto pasakojimu, kariai ne sykį triuškino priešus ir prisidėjo prie jų išvarymo iš Italijos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Netrukus pasitaikė tokia galimybė, kai jie, Belizari-
-    jaus vadovaujami, pradėjo kariauti. Vėliau, kariaudami
-    Narso gretose, ne sykį įnirtingai triuškino savo priešus,
-    labai prisidėjo išvejant juos iš Italijos. Tai jau buvo ka­
-    ringų Vakarų imperijos užkariautojų vaikai ir anūkai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174180
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 324"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Netrukus pasitaikė tokia galimybė, kai jie, Belizari-
     jaus vadovaujami, pradėjo kariauti. Vėliau, kariaudami

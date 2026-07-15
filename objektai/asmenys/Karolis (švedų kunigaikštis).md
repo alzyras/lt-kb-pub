@@ -43,33 +43,6 @@ media_all_json: |-
   teiginys: "Švedų kunigaikštis Karolis vadovavo Revelio danų kariuomenei ir turėjo savo būrį."
   pagrindžia:
     - c-44408
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ordino pajėgos
-    1260 m. Klaipėdoje prieš Lietuvą buvo
-    sutelktos Livonijos ir Prūsijos kryžiuočių
-    ordinų pajėgos, broliai riteriai ir
-    i 4 jiems pavaldžių užgrobtų žemių
-    “prievarta buriami kariai (prūsai -
-    pamedėnai, notangai, varmiai, sem-
-    bai, o taip pat kuršiai, estai ir kt.), iš
-    Vokietijos žemių 30 naujai įstojusių Ordino
-    brolių būrys, Revelio (Talino) danų kariuo-
-    menė, vadovaujama švedų kunigaikščio
-    Karolio, turėjusio dar savo būrį. Į šią kry-
-    žiaus karo akciją buvo įtraukti ir prieš tuo
-    metu Rytų Europą užplūdusius totorius
-    gausiai suverbuoti kryžininkai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

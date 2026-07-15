@@ -42,35 +42,17 @@ Dusburgietis teigia, kad pierson W.
   teiginys: "W. Piersono straipsnis „Über die Nationalität und Sprache der alten Preussen“ paskelbtas Berlyne 1873 m., p. 1–20."
   pagrindžia:
     - c-61856
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'W. Piersono straipsnis „Über die Nationalität und Sprache der alten Preussen“ paskelbtas Berlyne 1873 m., p. 1–20.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pierson W. über die Nationalität und Sprache der alten Preussen —Jahresbericht über
-    die Dorotheenstädtische Realschule, Berlin, 1873, S. 1—20.
-      Piętka  J. Geneza mazowieckiej  elity feudalnej   i  jej stan w pierwszym okresie
-    niezależności księstwa (1138—1371).— Rocznik mazowiecki, Warszawa, 1979, t. 7, s.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61856
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pierson W. über die Nationalität und Sprache der alten Preussen —Jahresbericht über
     die Dorotheenstädtische Realschule, Berlin, 1873, S. 1—20.
-      Piętka  J. Geneza mazowieckiej  elity feudalnej   i  jej stan w pierwszym okresie
+    Piętka J. Geneza mazowieckiej elity feudalnej i jej stan w pierwszym okresie
     niezależności księstwa (1138—1371).— Rocznik mazowiecki, Warszawa, 1979, t. 7, s.
   citata_rodoma: "Pierson W. über die Nationalität und Sprache der alten Preussen —Jahresbericht über\ndie Dorotheenstädtische Realschule, Berlin, 1873, S. 1—20."
   statusas: verified

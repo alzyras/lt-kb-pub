@@ -8,14 +8,14 @@ datos:
   - '1315 m.'
 date_start: '1315'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - karas
   - mūšis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,8 +59,8 @@ Ragainė ir Christmemelis išliko nepaimti.
   teiginys: "1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos užpuolė Ragainės pilį, nukovė brolį Joną Pope ir pasitraukdami sunaikino Ragainės bei Skalvių laukų pasėlius."
   pagrindžia:
     - c-69736
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -79,37 +79,28 @@ Ragainė ir Christmemelis išliko nepaimti.
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1315 m. rugpiū­
-    čio mėn. «lietuviai iš Žemaičių » (« Lethowini de Samethia ») puolė
-    Ragainės pilį, o pats Vytenis rugsėjo mėn. per 17-ką dienų apgulė
-    ką tik ordino magistro Karolio iš Triero pastatytą Christmemelį
-    (Skirsnemunę). Kaip kitados Traideniui Daugpilį, ir Vyteniui nepa­
-    sisekė naujos pilies paimti, nors ir jis panaudojo porą akmenų
-    svaidyklių ir daug lankininkų^22.
-  citata_rodoma: ''
-  statusas: verified
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 ## Citatos
 
 - id: c-69736
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 210"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir
-    netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė. Broliai
-    jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė
-    atsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį
-    Joną, vadinamą Pope, o daug kitų sužeidė. Galop lietuviai, nieko nepešę iš šio antpuolio,
-    pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
-    pasėlius.
+    Ši pilis
+    — vienas svarbiausių Žemaitijos gynybos centrų (žr. paaiškinimus D. III, 320, 1; D.
+    papildymai, 9; be to, SZM, p. 225; LAA, 2, p. 106).
+
+    328 (321). Apie 80 lietuvių žūtį 1316 metais
+    Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
+    60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,
+    turėjo iš čia pasitraukti, o į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
+    išskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.
+    329 (322). Apie Bisenės pilies sudeginimą 1316 metais
+    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
+    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
+    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
+    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus.
+  citata_rodoma: "1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir\nnetikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė. Broliai\njiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė\natsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį\nJoną, vadinamą Pope, o daug kitų sužeidė. Galop lietuviai, nieko nepešę iš šio antpuolio,\npasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus\npasėlius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

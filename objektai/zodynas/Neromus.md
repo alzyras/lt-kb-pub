@@ -52,42 +52,30 @@ reikšmė čia pateikiama tik kaip Narbuto išvada, todėl viešame įraše ją 
   teiginys: "Narbuto aiškinimu, Neromus reiškia „neramus“ ir yra priešingas žodžiui Romus, siejamam su reikšme „ramus“."
   pagrindžia:
     - c-175076
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbuto aiškinimu, Neromus reiškia „neramus“ ir yra priešingas žodžiui Romus, siejamam su reikšme „ramus“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Neroma — atskirai pažymėtas tikrosios Lietuvos kraš­
-    tas. Jo pavadinimas, be abejonės, kilęs iš Neries upės,
-    nes ir kronikos kairiojoje šios upės pakrantėje esančią
-    Lietuvą, vadinamą Užneriu, laiko atskira ir vėliau apgy­
-    vendinta provincija1 2. Taip pat yra antra išvada apie šio
-    pavadinimo kilmę iš lietuviško žodžio Neromus, nera­
-    mus, ir priešingo būdvardžiui Romus, ramus3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197697"></a>
+- t-002
+  global_id: t-197697
+  teiginys: "Taip pat yra antra išvada apie šio pavadinimo kilmę iš lietuviško žodžio Neromus, nera mus, ir priešingo būdvardžiui Romus, ramus3."
   pagrindžia:
-    - t-001
+    - c-175076
 
 ## Citatos
 
 - id: c-175076
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 278"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 278."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Neroma — atskirai pažymėtas tikrosios Lietuvos kraš­
-    tas. Jo pavadinimas, be abejonės, kilęs iš Neries upės,
-    nes ir kronikos kairiojoje šios upės pakrantėje esančią
-    Lietuvą, vadinamą Užneriu, laiko atskira ir vėliau apgy­
-    vendinta provincija1 2. Taip pat yra antra išvada apie šio
+    Taip pat yra antra išvada apie šio
     pavadinimo kilmę iš lietuviško žodžio Neromus, nera­
-    mus, ir priešingo būdvardžiui Romus, ramus3.
+    mus, ir priešingo būdvardžiui Romus, ramus3. Senovės
+    geografai nemini šio, šiek tiek vėlesnio negu kitos provin­
+    cijos pavadinimo, be to, ir lietuvių kronika teigia, kad
+    lietuvių kolonijos kairiojoje Neries pakrantėje paplito tik
+    X amžiuje. Tačiau Nestoras IX amžiuje žinojo šį taip
+    vadintą kraštą, jo gyventojus, kuriuos jis priskirdavo prie
+    rusų variagų4.
   citata_rodoma: "Taip pat yra antra išvada apie šio pavadinimo kilmę iš lietuviško žodžio Neromus, nera­\nmus, ir priešingo būdvardžiui Romus, ramus3."
   statusas: verified
   teiginio_tipas: faktas
@@ -95,3 +83,4 @@ reikšmė čia pateikiama tik kaip Narbuto išvada, todėl viešame įraše ją 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192227
+    - t-197697

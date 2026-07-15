@@ -48,10 +48,15 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
+Nenurodyta
 
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174977
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     pastraipos
     tęsinys/
@@ -60,14 +65,16 @@ Nenurodyta
     XVII amžiuje prie Baltosios jūros, t. y. prie Šiaurės vandenyno,
     gyveno ši taHta, garbinusi dangaus kūnus19.
     19 Biblioteka dla čtenija, 1836. IV.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+  citata_rodoma: "Be jokios abejonės, ne tik patys seniausi, bet ir paskutiniai stab­\nmeldžiai Siaurės Europoje buvo samojedai: juk žinome, kad dar\nXVII amžiuje prie Baltosios jūros, t. y. prie Šiaurės vandenyno,\ngyveno ši taHta, garbinusi dangaus kūnus19."
   statusas: verified
 
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-174978
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Visa tai, kartu ir
     įgimtas sąmojus darė jį tikrai nepaprastu žmogumi. Galų gale
@@ -80,8 +87,8 @@ Nenurodyta
     mų, tarp kurių dar ir dabar galima rasti tokių, kurie mena tik
     padavimuose ir dainose užfiksuotą praeitį — tik juose lietuviška
     dvasia dar tebegyvena.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  citata_rodoma: "„Senovės lietuviai, būdami pagonys, garbino dangaus kūnus, kaip\nir kitas žemės dievybes, iš kitokios minties atsiradusias, ir kurias\nvargu ar būtų įmanoma suskaičiuoti, nes šis senovės tikėjimas\nbuvo užmirštas. Bet apie dangaus kūnus išliko' daugiau žinių, to­\ndėl apsakysiu, ką žinau iš senų ir protingų valstiečių pasakoji­\nmų, tarp kurių dar ir dabar galima rasti tokių, kurie mena tik\npadavimuose ir dainose užfiksuotą praeitį — tik juose lietuviška\ndvasia dar tebegyvena“."
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

@@ -57,49 +57,7 @@ Nenurodyta
   teiginys: "1940 m. liepos 21 d. trijų Baltijos šalių „parlamentai“ paskelbė savo šalis sovietų socialistinėmis respublikomis."
   pagrindžia:
     - c-22910
-
-<a id="claim-t-183218"></a>
-- t-002
-  global_id: t-183218
-  teiginys: "1940 m. liepos 21 d. trijų Baltijos šalių „parlamentai“ paskelbė savo šalis sovietų socialistinėmis respublikomis."
-  pagrindžia:
     - c-166605
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1940 m. liepos 21 d. trijų Baltijos šalių „parlamentai“ paskelbė savo šalis sovietų socialistinėmis respublikomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O režimas paskelbė, jog išrinkti visi kandidatai – tad rinkimų rezulta-
-    tai suklastoti. Analogiškas farsas vyko ir Latvijoje bei Estijoje.
-    Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamen-
-    tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis
-    respublikomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1940 m. liepos 21 d. trijų Baltijos šalių „parlamentai“ paskelbė savo šalis sovietų socialistinėmis respublikomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Analogiškas farsas vyko ir Latvijoje bei Estijoje.
-    Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamen-
-    tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis
-    respublikomis. Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
-    mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
-    valstybės nuosavybe, o ūkininkai – žemės naudotojais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -136,5 +94,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183218

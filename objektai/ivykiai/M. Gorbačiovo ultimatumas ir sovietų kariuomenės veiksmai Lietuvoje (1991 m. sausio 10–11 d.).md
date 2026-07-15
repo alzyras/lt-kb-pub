@@ -65,32 +65,6 @@ Nenurodyta
   teiginys: "1991 m. sausio 10 d. M. Gorbačiovas ultimatyviai pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą."
   pagrindžia:
     - c-166651
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1991 m. sausio 10 d. M. Gorbačiovas ultimatyviai pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau 1991 m.
-    sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
-    pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
-    mą. Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
-    vuočiai. Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus
-    ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vė-
-    liau – Vilniaus geležinkelio mazgą. Promaskviniai būriai turėjo įsiveržti
-    į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskir-
-    ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės
-    Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas)
-    ir nuversti teisėtą Lietuvos valdžią. Įgyvendinti šį scenarijų sovietams
-    nepavyko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -116,5 +90,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183263
     - t-20409
+    - t-183263

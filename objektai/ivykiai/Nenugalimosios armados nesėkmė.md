@@ -58,26 +58,6 @@ Nenurodyta
   pagrindžia:
     - c-75221
 - susijęs iš Ispanija: 1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį; po audros sutrukdyto išsilaipinimo Anglijoje Ispanija žygio nekartojo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Viena priežasčių, dėl kurių Ispanija
-    ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų
-    Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekono-
-    mikos. Ispanijos galybės saulėlydį ženklino Nenugalimosios armados ne-
-    sėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,
-    žygio Ispanija nekartojo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-75221

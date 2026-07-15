@@ -7,12 +7,12 @@ datos:
   - '1769 m.'
 date_start: '1769'
 date_end: ''
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gd
   teiginys: "Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gdanske."
   pagrindžia:
     - c-173404
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gdanske.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -61,11 +61,14 @@ Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gd
 - id: c-173404
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 484"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 484."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    P. 178** -  Cituojamas veikalas: Schütz Caspar. Rerum Prus-
-    sicarum historia. -  Gedani, 1769.
+    - L. 104-105). Ga­
+    lima spėti, kad šio laiško autorius, tai yra Raseinių
+    korespondentas, galėjo būti ir Simonas Stanevičius
+    (1799-1848).
+    Turimas omenyje veikalas: Helmoldus et Arnoldus.
+  citata_rodoma: "P. 178** -  Cituojamas veikalas: Schütz Caspar. Rerum Prus-\nsicarum historia. -  Gedani, 1769."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

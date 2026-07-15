@@ -61,27 +61,6 @@ Nenurodyta
   teiginys: "1578 m. Steponas Batoras suteikė funduotoms mokykloms Akademijos vardą ir prilygino jas kitoms akademijoms, ypač Krokuvos akademijai."
   pagrindžia:
     - c-83236
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1578 m. Steponas Batoras suteikė funduotoms mokykloms Akademijos vardą ir prilygino jas kitoms akademijoms, ypač Krokuvos akademijai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1578 metais Karalius Steponas Batoras, šias funduotas mo­
-    kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­
-    mijoms, o išskirtinai Krokuvos, prilygino. Profesorius ir stu­
-    dentus nuo priklausomybės bet kokiai dvasinei ar pasaulietinei
-    jurisdikcijai ir nuo bet kokių mokesčių atleido, Rektoriui pave­
-    dė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­
-    demijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­
-    skyrė. Tokią privilegiją Grigalius XIII bule aprobavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

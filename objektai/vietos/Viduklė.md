@@ -51,45 +51,6 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   teiginys: "1416 m. Vytautas Viduklėje pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių."
   pagrindžia:
     - c-37799
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1416 m. Vytautas Viduklėje pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ordinu, jis pats darbavosi Žemaitijoje, stiprindamas ten
-    katalikų tikėjimą. Kaip jau matėme, 1416 metais Vytautas
-    Varniuose pastatė katedrą ir aštuonias parapijines bažnyčias:
-    Viduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­
-    žiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­
-    kimo pasiuntiniai—Lvovo vysk. Jonas ir Vilniaus vysk. Petras
-    — buvo Vytauto sutikti ir su dideliu didikų būriu nulydėti į Že-
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Viso Žemaičių krašto vardu pavardėmis surašyti
-    31 atstovas iš septynių Žemaičių aukštumos sričių (Ariogalos, Kal­
-    tinėnų, Knituvos, Kražių, Medingėnų, Raseinių ir Viduklės) darė
-    taiką su Vytautu ir ordinu. Jie žadėjo « padėti prieš visus jų prie­
-    šus ». O tarp Žemaičių ir Prūsų buvo sutarta laisva prekyba. Šita
-    sutartimi su Žemaičių kilmingaisiais Vytautas kilo ordino akyse,
-    nes parodė savo įtaką Žemaičiuose, kuriuos jis — be pačių Žemaičių
-    žinios — jau buvo antrukart ordinui pažadėjęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

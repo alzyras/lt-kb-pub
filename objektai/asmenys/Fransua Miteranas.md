@@ -44,58 +44,12 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
   pagrindžia:
     - c-25067
 
-<a id="claim-t-46038"></a>
-- t-002
-  global_id: t-46038
-  teiginys: "Prancūzijos prezidentas Fransua Miteranas surengė pirmąjį vizitą į Lietuvą."
-  pagrindžia:
-    - c-25067
-
 <a id="claim-t-193619"></a>
-- t-003
+- t-002
   global_id: t-193619
   teiginys: "Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą."
   pagrindžia:
     - c-176290
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Seimo rinkimų, kuriuose nė vienai partijai nepavyko pasiekti
-    įtikinamos pergalės, todėl atėjo nauja koalicinių vyriausybių era.
-    Vyriausybės keitė viena kitą, tačiau būtinos reformos vyko. Planinės
-    ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus
-    į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius
-    Pirmasis Prancūzijos prezidento Fransua Miterano
-    vizitas į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  santrauka: 'Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Planinės
-    ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus
-    į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius
-    Pirmasis Prancūzijos prezidento Fransua Miterano
-    vizitas į Lietuvą. Seimo pirmininkas  Vytautas Landsbergis
-    su svečiu Vilniaus senamiestyje  prie Aušros vartų.
-    Vilnius, 1992 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -118,7 +72,6 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46038
-    - t-46039
 
 - id: c-176290
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

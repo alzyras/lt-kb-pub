@@ -74,76 +74,7 @@ Nenurodyta
   teiginys: "Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas."
   pagrindžia:
     - c-44948
-
-<a id="claim-t-41431"></a>
-- t-003
-  global_id: t-41431
-  teiginys: "Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas."
-  pagrindžia:
     - c-43169
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šiems tikslams įgyvendinti už Anykščių
-    esančio Andrioniškio miške prie Teresboro
-    palivarko (dabar Knebių kaimas) sukilėliai
-    įrengė stovyklą, į kurią sutraukė didesnę
-    dalį savo pajėgų. Joje vykdė naujokų ap-
-    mokymus, formavo naujus ir reorganizavo
-    esamus dalinius. Kunigas A. Mackevičius
-    stovykloje laikė mišias, atlikinėjo naujokų
-    įšventinimo apeigas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Joje vykdė naujokų ap-
-    mokymus, formavo naujus ir reorganizavo
-    esamus dalinius. Kunigas A. Mackevičius
-    stovykloje laikė mišias, atlikinėjo naujokų
-    įšventinimo apeigas. Stovykloje veikė karo
-    lauko ligoninė, mokymai vyko lietuviškai,
-    komandos buvo duodamos lietuvių kalba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo metu visoje Europoje sklido pa-
-    vergtų tautų laisvės idėjos. Išsivadavimo
-    iš Rusijos imperijos siekis stipriausiai
-    reiškėsi Lenkijoje ir Lietuvoje. Caro vy-
-    riausybei pradėjus daryti pirmąsias re-
-    formas, stiprėjo viltis atgauti laisvę ar
-
-    Kunigas A. Mackevičius laimina
-    sukilėlius ir šventina jų vėliavas
-
-    bent įgyti autonominę nepriklausomybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -162,12 +93,10 @@ Nenurodyta
     stovykloje laikė mišias, atlikinėjo naujokų
     įšventinimo apeigas.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-41431
-
 - id: c-44948
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

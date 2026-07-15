@@ -45,28 +45,6 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
   teiginys: "Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų."
   pagrindžia:
     - c-32711
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Naugardu
-    sudarė sutartį prieš Gediminą, kurį juodino, rašydami krikščionių
-    valdovams ir popiežiui.
-    Visoje toje per ištisus metus po Gedimino laiškų parašymo
-    susidariusioje politinėje būklėje, kada 1324 vasarop iš Avignono
-    atvyko Rygon du legatai (vysk. Baltramiejus ir abatas Bernardas),
-    Gediminas diplomatiškai išsisukinėjo, vengdamas savo laiškuose
-    popiežiui surašytų krikšto pažadų. Politinė padėtis buvo susida­
-    riusi kitokia, negu prieš 75 metus valdant Mindaugui, nes Gedi­
-    mino nespaudė jokia koalicija, nei baimino koks sosto pretendentas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

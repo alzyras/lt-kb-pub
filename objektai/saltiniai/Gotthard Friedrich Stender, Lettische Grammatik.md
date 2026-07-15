@@ -7,12 +7,12 @@ datos:
   - '1761 m.'
 date_start: '1761'
 date_end: ''
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,8 +47,8 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
   teiginys: "Mongolų karvedžiai skubėjo užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau 1 Stender Gotthard Friedrich."
   pagrindžia:
     - c-177291
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nutolusi „taip, kaip dangus ir žemė“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -99,12 +99,9 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
 - id: c-174627
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 256"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 256."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Trumpiausiai į tai atsakome pateikdami Kuršo pa­
-    mokslininko ir latvių gramatikos autoriaus Stenderio žo­
-    džius. Stenderis, neketindamas atsakyti į Tuntnano prie­
+    Stenderis, neketindamas atsakyti į Tuntnano prie­
     laidą, bet tiesiog aprašydamas istorinius-topografinius šios
     tautos bruožus, rašo: „Latvių kalba yra nutolusi nuo šiau­
     rinių kaimynų estų kalbos taip, kaip dangus ir žemė. Ir
@@ -112,7 +109,15 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
     miečiai tarpusavy kalbasi estiškai, o su svetimšaliais —
     latviškai, bet tai niekados neturėjo jokios įtakos latvių
     kalbai, nes estai nesimaišė su latviais ir su jais nesituo-
-    kė“2.
+    kė“2. Minėtos dvi apskritys — senoji ir naujoji, Rahdiįa,
+    esančios Bauskės apylinkėse ir Angerapės pakrantėje. Bū­
+    tent ten 1 ¡¡gi šiol yra Kiligundų pavadinimas, minimas
+    cituotame veikale. Šį žodį estiškai galėjo pateikti šią su­
+    tartį rašęs žmogus, galėjo taip pavadinti net ir patys te­
+    nykščiai gyventojai, nes galbūt jie yra estų palikuonys;
+    tačiau šis noras įmaišyti juos į visos tautos šaknį yra
+    neteisingas ir labai klaidingas.
+  citata_rodoma: "Trumpiausiai į tai atsakome pateikdami Kuršo pa­\nmokslininko ir latvių gramatikos autoriaus Stenderio žo­\ndžius. Stenderis, neketindamas atsakyti į Tuntnano prie­\nlaidą, bet tiesiog aprašydamas istorinius-topografinius šios\ntautos bruožus, rašo: „Latvių kalba yra nutolusi nuo šiau­\nrinių kaimynų estų kalbos taip, kaip dangus ir žemė. Ir\nnors pačiame Kuršo viduryje yra dvi apskritys, kur kai­\nmiečiai tarpusavy kalbasi estiškai, o su svetimšaliais —\nlatviškai, bet tai niekados neturėjo jokios įtakos latvių\nkalbai, nes estai nesimaišė su latviais ir su jais nesituo-\nkė“2."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -123,19 +128,18 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
 - id: c-177291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 109"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 109."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Mongolų karvedžiai skubėjo
-    užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­
-    lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­
-    1 Stender Gotthard Friedrich. Lettische Grammatik etc. Braun­
-    schweig,
-    1761.
-    8-vo.
-    S.
-    1,
-    sequ.
+    Esant tokiai situacijai, apdairūs va­
+    dai susitarė su gimininga poloviečių tauta, kad šie pa­
+    liktų jiems svetimą alanų giminę1. Iš to įsitikiname, jog
+    poloviečiai buvo hunų arba mongolų palikuonys. Kartu ir
+    savo veido bruožais jie visiškai skyrėsi nuo lietuvių, su
+    kuriais ir Belgorodo totoriai, arba poloviečiai-lietuviai, ne­
+    buvo panašūs nei išvaizda, nei papročiais ir kalba, sky­
+    rėsi nuo tikrų poloviečių, kurie negalėjo kitaip užklysti į
+    tas šalis, o nebent tik taip, kaip mes jau minėjome.
+  citata_rodoma: "Mongolų karvedžiai skubėjo\nužimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­\nlydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­\n1 Stender Gotthard Friedrich. Lettische Grammatik etc. Braun­\nschweig,\n1761.\n8-vo.\nS.\n1,\nsequ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

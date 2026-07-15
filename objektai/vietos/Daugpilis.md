@@ -13,14 +13,14 @@ datos:
   - '2026 m.'
 date_start: '1396'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -101,7 +101,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - susijęs iš Latvija: 1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.
 - susijęs iš Latvija: ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.
 - susijęs iš Latvija: 1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.
-- susijęs iš Livonija: Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
+- susijęs iš Livonija: 1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
 - susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
 - susijęs iš Rezeknė: 1618 m. Rezeknės, Daugpilio ir kitose Livonijos apylinkėse buvo rasti 418 neapkrikštyti suaugę asmenys.
 - susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
@@ -140,120 +140,6 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - susijęs iš [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“.md#claim-t-186421|„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]: Po nesėkmingos Daugpilio apgulos 1278 m. Eiliuotinė kronika Traideniui priskyrė skundą dėl tvirtovės.
 - susijęs iš [[objektai/grupes/11 brigada.md#claim-t-38839|11 brigada]]: Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Zigmantas Sierakauskas planavo sukilėlių pajėgomis žygiuoti Daugpilio link ir bandyti užimti šią carinės kariuomenės tvirtovę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Plk. Z. Sierakauskas parengė sukilė-
-    lių kovos planą. Buvo numatyta apjungti
-    visas Kauno gubernijos sukilėlių pajė-
-    gas. Tuomet žygiuoti carinės kariuomenės
-    tvirtovės Daugpilio link ir padedant ten
-    tarnaujantiems iš Lietuvos kilusiems kariš-
-    kiams, bandyti užimti šį svarbų strateginį
-    punktą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ORiebiniai
-
-    1920 m. sausio pradžioje Latvijos ir Lenki-
-    Jos kariuomenės išstūmė Raudonąją armiją iš Daug-
-    pilio. Latvijos teritorija buvo išvalyta nuo bolševikų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Netrukus nenumatyti įvykiai pri-
-    vertė koreguoti planus. Po nepavykusio
-    grafo Liudviko Pliaterio antpuolio prieš
-    Rusijos kariuomenės karinio transporto
-    gurguolę, vykstančią į Daugpilį, teko at-
-    sisakyti šios tvirtovės puolimo, nes rusų
-    karinė vadovybė perprato sukilėlių planus.
-    Sukilėlių apmokymai ir reorgani-
-    zacija Teresboro karinėje stovykloje
-    užtruko 10 dienų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: '1919-1920 m. Pirmoji Lietuvos Respublika Nepriklausomybės kovose vijo bolševikus iki Daugpilio.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
-    kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
-    ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
-    pat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su
-    plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-
-    vanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-
-    jusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės
-    Lietuvos egzistavimo galimybę atmetusius, dar neseniai gin-
-    klo broliais buvusius lenkus prie Širvintų ir Giedraičių. Visos
-    Nepriklausomybės kovos buvo paremtos savanorių heroizmu —
-    net jei už jį Lietuva siūlė žemę, vis tiek pagalvokim, kokia auka
-    buvo siūloma atgimstančiai valstybei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Vytautas, įsiveržęs į Livoniją ir nusiaubęs kaimus, užėmė Daugpilį Dauguvos pakrantėje.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vytautas, ligi šiol laikęs savo kariuomenę
-    Rusioje žiemos stovykloje, negalėjo su keliais būriais,
-    jį palydėjusiais į Lietuvą, im-
-    1396 m e ta i
-    tis jokių veiksmingesnių žy­
-    gių: nei niokojančių atremti,
-    nei traukiančių namo vytis. Norėdamas vis dėlto atsi­
-    lyginti priešui už tą antpuolį, jis, kuo greičiausiai su­
-    telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus,
-    užėmė
-    Daugpilį
-    Dauguvos
-    V y ta u ta s  n io k o ja  Li-
-    pakrantėje. Esu tikras, jog
-    v o n iją
-    Vytautas turėjo tam tikrą
-    tikslą, siųsdamas Į Livoniją
-    savo kariuomenę, mat iš žvalgų jis sužinojo, kad Švitri­
-    gaila perėjęs iš Prūsijos į Livoniją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-006
   santrauka: 'Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -386,8 +272,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - id: c-168299
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 345"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 345."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vytautas, ligi šiol laikęs savo kariuomenę
     Rusioje žiemos stovykloje, negalėjo su keliais būriais,
@@ -401,7 +286,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     užėmė
     Daugpilį
     Dauguvos
-    V y ta u ta s  n io k o ja  Li-
+    V y ta u ta s n io k o ja Li-
     pakrantėje. Esu tikras, jog
     v o n iją
     Vytautas turėjo tam tikrą
@@ -418,20 +303,23 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - id: c-171567
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 97"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
-    sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
-    kalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­
-    ją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­
-    sų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo
-    Gercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis
-    Daugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;
-    kiek kartų jį turėję su savimi kovodami su livoniečiais, tiek
-    kartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės
-    keršydamas už nužudymą Dangeručio, kuris, kaip jie manė,
-    nelaisvėje buvo nužudytas tuo kalaviju.
+    Priklausomai nuo gėrimo pagaminimo būdo
+    dievas įgydavo Bubilo arba Ragučio vardą, kaip tai pastebima
+    ¡r kitose mitologijose.
+    Iš padavimų apie graikų dievus žinome, kad garsus prana­
+    šautojas Melampas, kuris gyveno Proito laikais, dar iki Trojos
+    karo, apie 1380 metus prieš Kristaus gimimą, pirmasis Graiki­
+    joje įvedė Bakcho garbinimą. Todėl tais laikais, kai lietuvių
+    tauta brandino savo stabmeldystę, to dievo garbinimas kitur
+    buvo labai senas ir visuotinai paplitęs. Lietuviai įvedė tą gar­
+    binimą savo šalyje, tačiau natūralu, kad, neturėdami vynuo­
+    gių, savo Bakchui turėjo priskirti kitas ypatybes ir atributus,
+    nes žmonių polinkiai visur panašūs, piktnaudžiaujančių svai­
+    ginamaisiais gėrimais ištvirkimas visur dangstomas dievobai­
+    mingumo skraiste.
+  citata_rodoma: "Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje\nsugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties\nkalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­\nją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­\nsų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo\nGercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis\nDaugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;\nkiek kartų jį turėję su savimi kovodami su livoniečiais, tiek\nkartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės\nkeršydamas už nužudymą Dangeručio, kuris, kaip jie manė,\nnelaisvėje buvo nužudytas tuo kalaviju."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -442,17 +330,20 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - id: c-171568
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 369"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
-    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
-    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
-    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
-    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
-    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
-    Jie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-
-    te“, tai yra, anot autoriaus vertimo, „loca adiectorum “.
+    Tokių kapų pasitaiko aukštose vietose
+    arba prie pilių ir kadaise žymių kaimų, dažniausiai prie kelių,
+    taip pat didesnių upių pakrantėse, kur būdavo šventyklos. Hart-
+    knochas (p. 184-185) tą patį sako apie gausius piliakalnius,
+    matomus Prūsijoje, ir apie pilkapius, supiltus virš žymių žmo­
+    nių kapų. Lietuvos didžiojo kunigaikščio Gedimino kapas yra
+    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
+    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
+    avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
+    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
+    pelenai ilsisi supiltame kalne).
+  citata_rodoma: "Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.\nJie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-\nte“, tai yra, anot autoriaus vertimo, „loca adiectorum “."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

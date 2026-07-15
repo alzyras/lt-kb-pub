@@ -14,6 +14,10 @@ datos:
   - '1259 m.'
 date_start: '1215'
 date_end: '1259'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,10 +25,6 @@ tags:
   - vyskupas
   - kunigaikštis
   - kunigas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -164,6 +164,13 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   teiginys: "Narbutas rašė, kad Kulmo vyskupas Kristijonas XIII amžiaus pirmojoje pusėje teigė prūsų kildinimą iš gotų."
   pagrindžia:
     - c-174841
+
+<a id="claim-t-197771"></a>
+- t-018
+  global_id: t-197771
+  teiginys: "Sis tvirtinimas labiau už kitus įrodymus parodo vys kupo Kristijono žiniose išlikusią tiesą."
+  pagrindžia:
+    - c-173794
 - susijęs iš Lubavos žemė: Dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59932|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59934|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.
@@ -214,145 +221,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - susijęs iš [[objektai/grupes/Dobrinės ordinas.md#claim-t-01302|Dobrinės ordinas]]: Dobrinės ordinas buvo 1228 m. įkurtas vyskupui priklausęs riterių ordinas.
 - susijęs iš Lubavos žemė: Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet tokio reikšmingo aniems laikams religiškai-politinio fakto,
-    kaip lietuvių tautos krikšto datos atkėlimas eilę generacijų anks­
-    čiau, į XIII amžiaus vidurį, suponuoja reikalą motyvuotai atsakyti
-    bent į tris klausimus. Pirmiausia reikia išaiškinti, kodėl taip ne­
-    patvari buvo mindauginė vyskupija, kurioje nebuvo spėta suorga­
-    nizuoti parapijų. « Lietuvos diecezijai » buvo lemta greitai žlugti,
-    ypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai
-    pasitraukti Vokietijon^7 , iš kurios ir jo įpėdiniai kojos lietuvių žemėn
-    nebeįkėlė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų
-    kraštas, būtent, Prūsų žemė, kuris Livonijos riterių ir kryžininkų
-    prieaugliui tapo rimtas varžovas. Ten nuo 1216 metų, gavęs «Prūsų
-    vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
-    tijonas^73. Jis paskutinis taikiu būdu bandė krikštyti prūsus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vaitiekaus ir šv. Bonifaco mirties. Kristijonui pasi-
-    sekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215
-    m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Antra knygos dalis
-
-
-                BAIGIASI PIRMA ŠIOS KNYGOS DALIS PRASIDEDA ANTRA
-
-               APIE TEUTONŲ ORDINO BROLIŲ ATVYKIMĄ Į PRŪSIJOS ŽEMĘ
-
-
-                          1. Apie tai, kaip prūsai niokojo Kulmo žemę
-
-      Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai
-    krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos
-    vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai
-    sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą
-    Jėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-005
-  santrauka: 'Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    4. Apie Kristaus karių ordino brolius
-
-      Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
-    suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
-    ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi
-    Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo
-    metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;
-    minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge
-    su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
-      165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
-    įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-006
-  santrauka: 'Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Maža to,
-    po keleto metų Mindaugas gavo karaliaus vainiką visai dinastijai – po-
-    piežius leido vainikuotis ir sūnui. Visa tai – Mindaugo politikos rezulta-
-    tas. Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
-    lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
-    organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
-    toriumi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-007
-  santrauka: '1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
-    1230 met. Mozūrų kunigaikštis Konradas ir pirmasis prū­
-    sų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo
-    prūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­
-    čių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­
-    jamų kryžių paprastai vadinamas kryžiuočių Ordinu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-008
   santrauka: 'Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -370,89 +238,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   pagrindžia:
     - t-008
 
-- c-009
-  santrauka: 'Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie popiežiaus santykius su Europos valdovais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visa tai – Mindaugo politikos rezulta-
-    tas. Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
-    lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
-    organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
-    toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-
-    žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-010
-  santrauka: 'Narbutas teigė, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūrimą bei krivį grindė pirmojo Prūsijos vyskupo Kristijono kronika.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Abu šie kronikinin­
-    kai -  Lukas Davidas (kn. I. -  P. 16,53-54) ir Simonas Grunau
-    (traktatas II. -  Skyrius 1. -  Skirsnis 4) -  aiškiai įtikina, kad jų
-    žinios apie Romovės įkūrimą ir krivio buvimą remiasi pirmo­
-    jo Prūsijos vyskupo Kristijono kronika.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-011
-  santrauka: 'Narbutas sprendė, kad vyskupas Kristijonas žinojo apie krivio buvimą ir galėjo jį pažinti būdamas prūsų nelaisvėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    O pats
-    krivis visoje jų istorijoje atlieka tokį svarbų vaidmenį ir yra
-    toks svarbus objektas, kad jeigu jis būtų buvęs pramanytas, tai
-    būtų sugriuvusi visa jos sandara. Todėl reiktų padaryti prie­
-    kaištą Lukui Davidui, kad arba jis išgalvojo pačią vyskupo Kris­
-    tijono kroniką, arba pripasakojo nebūtų joje dalykų; kai dėl
-    antrojo, tai negalima nieko sakyti, nes yra ir kitas liudytojas -
-    kronikininkas Grunau, kuris tą patį perskaitė minėtoje kroni­
-    koje, tad nėra abejonės, kad vyskupas Kristijonas žinojo krivį
-    esant, o gal ir pažino jį iš arti, būdamas prūsų nelaisvėje.
-    Prie šių svetimų įrodymų galima būtų pridurti dar kitus,
-    išplaukiančius iš paties dalyko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-012
-  santrauka: 'Narbutas laikė tikėtina, kad Grunau žinią apie vyriausiuosius žynius paėmė iš vyskupo Kristijono kronikos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
-    nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
-    taip pat turėdami omenyje kronikininkams būdingus trūku­
-    mus, negalime neginti Grunau15. Žinią apie vyriausiuosius žy­
-    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
-    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
-    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
-    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
-    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
-    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
-    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
-    Davido mirties rankraščių net rasti išrašų iš jos likučiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
 - c-013
   santrauka: 'Narbuto nuomone, senojoje prūsų vyskupo Kristijono kronikoje galėjo būti žinių apie sieros šaltinį prie Romovės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -468,54 +253,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
-
-- c-014
-  santrauka: 'Narbuto perteikiamas Hartknochas Kristijoną vadino pirmuoju Kulmo arba Prūsijos vyskupu ir dingusios kronikos autoriumi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    *  ¥  *
-    III skyrius
-    S E N O V Ė S  Ž I N I Ų  T Ę S I N Y S
-    171
-    Sausumos atradimai. Iš imperatoriaus Augusto valdy­
-    mo Romos valstybėje epochos išliko geografijos—istorijos
-    paminklas, susijęs su mūsų tema. ITartknochas savo prūsų
-    istorijos 20 puslapyje rašo« jog pirmasis Kulmo, arba Prū­
-    sijos, vyskupas Kristijonas, autorius kronikos, kuri buvo
-    laikoma pradingusia, apie senovės Prūsiją, — ją cituoja
-    ir mūsų kronikininkai Grunau, Henenbergeris, Vaiselijus
-    ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
-    neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
-    te, vėliau pavadintame Prūsija, stebėjimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-015
-  santrauka: 'Narbutas Kristijono pasakojimą laikė tikrovišku, nes manė, kad Kristijonas neturėjo naujųjų amžių kelionių aprašymų pavyzdžių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ten juos
-    pažino Divonis; juos valdė kažkoks Mazovijos slavų ka­
-    raliukas ar viršininkas, vadinamas Masosu, kuriam jie mo­
-    kėjo duoklę vaikais. Jaroslavas ir Kristijonas gyveno tais
-    laikais, kai naujųjų amžių atradimai tautų, gyvenusių to­
-    kiame kaip ulmigerai civilizacijos lygyje, dar nebuvo ži­
-    nomi, vadinasi, jei jie būtų ketinę aprašyti išgalvotus da­
-    lykus, jie nebūtų turėję pavyzdžio ir nebūtų galėję nupiešti
-    tokio tikroviško gamtos vaikų vaizdo. Iš to išplaukia, kad
-    jie rėmėsi tikrove, kuri visur ir visada yra vienoda.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
 
 - c-016
   santrauka: 'Narbutas vyskupo Kristijono žinias vertino kaip tiesos išlaikiusį liudijimą apie senąjį kraštą.'
@@ -620,8 +357,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - id: c-88792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 42"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Antra knygos dalis
 
@@ -648,8 +384,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - id: c-88793
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 44"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
 
@@ -711,14 +446,18 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - id: c-88796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 17"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką
-    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
-    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
-    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų
-    ordino broliai pradėję su jais naują karą (II, 7).
+    Dusburgietis, rašydamas apie lietuvių
+    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
+    prieš Lietuvą (III, 343—346, 357—358).
+    Senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo
+    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
+    Prūsijoje pagrindu (II, 5, 6). Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
+    Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
+    kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
+    Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
+    prieš Ordiną.
   citata_rodoma: "Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką\nkarų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus\nCezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei\nDobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“."
   statusas: verified
   teiginio_tipas: faktas
@@ -748,12 +487,11 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - id: c-171457
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 415"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Abu šie kronikinin­
-    kai -  Lukas Davidas (kn. I. -  P. 16,53-54) ir Simonas Grunau
-    (traktatas II. -  Skyrius 1. -  Skirsnis 4) -  aiškiai įtikina, kad jų
+    kai - Lukas Davidas (kn. I. - P. 16,53-54) ir Simonas Grunau
+    (traktatas II. - Skyrius 1. - Skirsnis 4) - aiškiai įtikina, kad jų
     žinios apie Romovės įkūrimą ir krivio buvimą remiasi pirmo­
     jo Prūsijos vyskupo Kristijono kronika.
   statusas: verified
@@ -766,8 +504,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - id: c-171458
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 415"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O pats
     krivis visoje jų istorijoje atlieka tokį svarbų vaidmenį ir yra
@@ -791,8 +528,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - id: c-171459
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 432"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
     nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
@@ -816,13 +552,17 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - id: c-173790
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
-    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
-    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
-    S. 261).
+    Gintaras lenkiškai vadinamas bursztyrv,
+    jo pavadinimas pasiskolintas iš vokiečių kalbos bdrnstein,
+    galbūt iš žodžio boernen, kuris reiškia „degti“, t. y. degus
+    akmuo. Visuose lietuvių kalbos dialektuose vadinamas
+    Gentoras; šio pavadinimo šaltinis, kaip spėja daugelis fi­
+    lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
+    ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės. Rusiškas
+    žodis Hentar pasiskolintas iš lietuvių.
+  citata_rodoma: "2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,\njog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­\nlima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L\nS. 261)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -833,8 +573,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - id: c-173791
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     *  ¥  *
     III skyrius
@@ -860,8 +599,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - id: c-173792
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 171"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 171."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ten juos
     pažino Divonis; juos valdė kažkoks Mazovijos slavų ka­
@@ -883,8 +621,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - id: c-173794
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 342"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 342."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Neabejotinai tokia gen­
     tis turėjo būti labai gausi.
@@ -892,31 +629,36 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     kupo Kristijono žiniose išlikusią tiesą. Nesuskaičiuojami
     nedidelio krašto gyventojai leidžia numanyti, jog vals­
     tybė buvo gerai tvarkoma.
+    Slėceris paskelbė prielaidą (Nestor. Dritter Band.
+  citata_rodoma: "Sis tvirtinimas labiau už kitus įrodymus parodo vys­\nkupo Kristijono žiniose išlikusią tiesą. Nesuskaičiuojami \nnedidelio krašto gyventojai leidžia numanyti, jog vals­\ntybė buvo gerai tvarkoma.\nSlėceris paskelbė prielaidą (Nestor. Dritter Band."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190912
+    - t-197771
 
 - id: c-174841
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 190"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 190."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Alanai buvo
-    skitų blondinų gentis, jie davė pradžią roksolanams; gotai
-    taip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima
-    pastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių
-    kilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus
-    pradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-
-    jną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,
-    gyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs
+    Gerai pažinojęs
     prūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko
     bendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­
     siedamas kildintiną iš alanų su į šias šalis atėjusių hunų
-    antplūdžiu.
+    antplūdžiu. Šiandien kai kas mano, jog lietuviai yra dau­
+    gelio tautų mišinys. Tačiau nė vienas nepaaiškina, kokių
+    tautų būtent. Negalima būtų prieštarauti tokiai tiesai, jog
+    į lietuvių tautos sudėtį nebūtų įsiliejusios kokios nors gre­
+    timos tautos, nes Europoje nėra nė vienos tautos, kuri
+    galėtų pasigirti esanti visiškai gryna, o to priežastis —
+    didžiuliai ir dažni maišymaist ir tautų kraustymasis. Taip
+    pat negalima paneigti ir didelio lietuvių genties išsibars­
+    tymo dar priešistoriniais laikais, nes ir prie Reino, ir ana­
+    pus jo yra ryškių litalanų pėdsakų.
+  citata_rodoma: "Alanai buvo\nskitų blondinų gentis, jie davė pradžią roksolanams; gotai\ntaip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima\npastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių\nkilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus\npradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-\njną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,\ngyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs\nprūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko\nbendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­\nsiedamas kildintiną iš alanų su į šias šalis atėjusių hunų\nantplūdžiu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

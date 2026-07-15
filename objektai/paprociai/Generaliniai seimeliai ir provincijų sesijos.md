@@ -49,26 +49,6 @@ Nenurodyta
   teiginys: "Generaliniai seimeliai neišnyko įvedus bendrą seimą su lietuviais, o Lietuvoje prieš bendruosius seimus pradėti rengti panašūs suvažiavimai."
   pagrindžia:
     - c-02185
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mat, anks-
-    čiau Lenkija buvo susi-
-    dėjusi iš dviejų valsty-
-    bių, ir šito dvilypio savarankiškumo žymės dar tebebuvo ne-
-    išnykusios. Tie generaliniai seimeliai neišnyko nė įvedus bend-
-    rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
-    seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
-    tančių atstovų ir senatorių suvažiavimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

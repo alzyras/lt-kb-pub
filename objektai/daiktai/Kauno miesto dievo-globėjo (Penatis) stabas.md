@@ -66,38 +66,13 @@ Statulėlė buvo rasta tvarkant griuvėsius prie vadinamųjų Perkūno namų, v�
   teiginys: "Narbutas Kaune 1818 m. rastą bronzinę statulėlę apibūdina kaip sukryžiuotomis kojomis būtybę su miesto vaizdu ant galvos ir trimis žuvimis rankoje."
   pagrindžia:
     - c-174929
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Kaune 1818 m. rastą bronzinę statulėlę apibūdina kaip sukryžiuotomis kojomis būtybę su miesto vaizdu ant galvos ir trimis žuvimis rankoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Iš grafo Mykolo
-    Kosakovskio, buvusio Lietuvos Didžiosios Kunigaikštystės lauko
-    raštininko, gavau informaciją apie tai, jog Kaune buvo rastas ne­
-    žinomo dievo stabas. Kai 1818 metais Kaune buvo statoma mui­
-    tinė, to pastato kampas pateko į vietą, kur buvo dalis apgriuvusio
-    muro, visų vadinamo Perkūno namais. Magistrato valdininkas Pu-
-    lokolovskis, valydamas tuos griuvėsius, rado ten kadaise įmūrytą
-    bronzinę apie šešių colių aukščio statulėlę, vaizduojančią sukry­
-    žiuotomis kojomis būtybę, kuri ant galvos laikė miesto vaizdą,
-    t. y. bokštus, namus ir bažnyčias, o vienoje rankoje — tris žu­
-    vis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174929
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 484"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 484."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš grafo Mykolo
     Kosakovskio, buvusio Lietuvos Didžiosios Kunigaikštystės lauko

@@ -44,21 +44,6 @@ Urbonas.
   pagrindžia:
     - c-22190
 - susijęs iš Čiurlionis Vilniuje: „Čiurlionis Vilniuje“ 2010 m. išleistas Vilniuje, o leidinį sudarė S. Urbonas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius,
-    2009; Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010; J. Galkus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22190

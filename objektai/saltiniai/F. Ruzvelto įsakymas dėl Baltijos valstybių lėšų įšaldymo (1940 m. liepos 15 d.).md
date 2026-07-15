@@ -43,34 +43,6 @@ LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuv
   teiginys: "1940 m. liepos 15 d. F. Ruzvelto įsakymas įšaldė JAV bankuose laikytas Baltijos valstybių lėšas."
   pagrindžia:
     - c-75433
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1940 m. liepos 15 d. F. Ruzvelto įsakymas įšaldė JAV bankuose laikytas Baltijos valstybių lėšas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento
-    Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde)
-    renkasi dalijamus drabužius, 1948 m.
-
-    L I E T U V O S  I S T O R I J A
-    226
-    F. Ruzvelto išleistas įsakymas, kuriuo įšaldy-
-    tos JAV bankuose laikytos Baltijos valstybių
-    lėšos. Šie pinigai suteikė galimybę LDT išlai-
-    kyti savo pasiuntinybes ir personalą iki pat
-    diplomatinio darbo pabaigos.
-    LDT aukščiausia valdžia priklausė di-
-    plomatijos šefui, tas pareigas ėjo diplomatai
-    Stasys Lozoraitis (1940–1983 m.) ir Stasys
-    Antanas Bačkis (1983–1991 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

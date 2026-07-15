@@ -34,23 +34,6 @@ Informacinių blokų apie karybą sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPER
   teiginys: "Karolis Zikaras parengė informacinį bloką „Lietuvos karyba XIII a.“."
   pagrindžia:
     - c-45004
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Informacinių blokų apie karybą sąrašas
-
-    NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS
-    p. 23, „LIETUVOS KARYBA XIII A.“, Karolis Zikaras.
-    p. 60, „RITERIAI IR PĖSTININKAI VAKARŲ EUROPOJE“, Andžej Geglis, dail. Andžej Geglis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

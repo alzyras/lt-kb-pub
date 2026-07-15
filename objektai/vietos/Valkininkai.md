@@ -8,14 +8,14 @@ datos:
   - '2026 m.'
 date_start: '1700'
 date_end: '2026'
+amziai:
+  - 'XVII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
-amziai:
-  - 'XVII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

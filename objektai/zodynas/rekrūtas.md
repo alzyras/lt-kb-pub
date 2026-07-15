@@ -35,25 +35,6 @@ Rekrūtus rinkti Lietuvoje buvo galima tik į Lietuvos, o Lenkijoje tik į Lenki
   teiginys: "Rekrūtus rinkti Lietuvoje buvo galima tik į Lietuvos, o Lenkijoje tik į Lenkijos kariuomenę."
   pagrindžia:
     - c-176025
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rekrūtus rinkti Lietuvoje buvo galima tik į Lietuvos, o Lenkijoje tik į Lenkijos kariuomenę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, buvo nustatyta, kad
-    visuose bendruose valdžios organuose pusė narių turi
-    būti lenkų, o kita pusė lietuvių. Kariuomenė buvo
-    palikta atskira kiekvienoje valstybėje. Rekrūtus rinkti Lietuvoje
-    buvo galima tik į Lietuvos, o Lenkijoje tik į Lenkijos kariuo-
-    menę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

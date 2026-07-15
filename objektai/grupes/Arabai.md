@@ -53,27 +53,6 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
 - susijęs iš Jeruzalė: Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.
 - susijęs iš Magus: Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais.
 - susijęs iš Šventoji žemė: Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Arabijos moterų pasiaukojimą, meilę, pagaliau jų žiaurų
-    kerštą. Mokiniui šios knygos palengvins išmokti istorijos pamokas
-    apie tas tauteles ir geografiją apie minėtus kraštus.
-    Prie romano pridėta: 1. trumpas geografiškas ir istoriškas pa­
-    aiškinimas apie arabus, turkus, kurdus ir kitas šiame romane pa­
-    liestas tauteles; 2. nesuprantamu žodžiu žodynėlis ir 3. žemėlapis su
-    pažymėjimu, kuriais kraštais autoriaus keliauta ir kuriuose miestuo­
-    se būta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38234

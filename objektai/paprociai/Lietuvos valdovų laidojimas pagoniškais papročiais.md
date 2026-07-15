@@ -65,27 +65,6 @@ Nenurodyta
   teiginys: "Iki 1385 m. pagonys Lietuvos valdovai, tarp jų Algirdas 1377 m. ir Kęstutis 1382 m., veikiausiai buvo laidojami pagoniškais papročiais."
   pagrindžia:
     - c-33456
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    « Lietuvos diecezijai » buvo lemta greitai žlugti,
-    ypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai
-    pasitraukti Vokietijon^7 , iš kurios ir jo įpėdiniai kojos lietuvių žemėn
-    nebeįkėlė.
-    Atsakymo reikalauja ir kitas faktas. Matomai Lietuvos valdo­
-    vai, kurie iki 1385 m. dar buvo pagonys, ar buvo pagoniškais pa­
-    pročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis
-    1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
-    niška.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

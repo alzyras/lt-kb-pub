@@ -74,64 +74,6 @@ Nenurodyta
   teiginys: "Antakalnio šventovėje, skirtoje lietuvių dievams, dvasininkai ketvirtadienio vakarais statydavo ir degindavo vaško žvakes."
   pagrindžia:
     - c-78411
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    „Buvo dar didžiulė menė, arba
-    šventovė, Antakalnyje, visų dievų,
-    kuriuos Lietuva, apgauta šėtoniš­
-    kų kerų, garbino; ten ketvirtadie­
-    nio vakarais dvasininkai visada
-    statydavo ir degindavo vaško žva­
-    kes/' Strijkovskis, Sk. IV, p. 400.
-    Antakalnio pavadinimas, jeigu mes
-    jį aiškintume taip, kaip to tūlas no­
-    rėtų, turėtų būti kilęs iš lotvniško žo­
-    džio ante - prieš ir collis - kalva, mat
-    jis tarp kalnų išsidėstęs, bet vietovė,
-    kur buvo lietuvių šventykla, turėjo
-    būti nuo seno lietuviškai vadinama,
-    ne lotyniškai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Antakalnio šventovėje, skirtoje lietuvių dievams, dvasininkai ketvirtadienio vakarais statydavo ir degindavo vaško žvakes.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gausu buvo pagonių šventyklų, nes, be tų, ku­
-    rias pilies teritorijoje buvus patyrėme, viena šventa vietovė
-    buvo ant tos kalvos, kur dabar stovi Šv. Jono bažnyčia, o Ant­
-    akalnyje, kaip tik ten, kur dabar Šv. Petro bažnyčia, buvo iš­
-    kilusi medinė šventovė, visiems lietuvių dievams pašvęsta6.
-    tovė Laukai-kišas-upys, vėliau išvir­
-    to į Lukiškes. Strijkovskis klysta tvir­
-    tindamas, esą miškas lietuviškai va­
-    dinamas laukas ir nuo to žodžio
-    paėjęs Lukiškių pavadinimas.
-    6
-    „Buvo dar didžiulė menė, arba
-    šventovė, Antakalnyje, visų dievų,
-    kuriuos Lietuva, apgauta šėtoniš­
-    kų kerų, garbino; ten ketvirtadie­
-    nio vakarais dvasininkai visada
-    statydavo ir degindavo vaško žva­
-    kes/' Strijkovskis, Sk. IV, p. 400.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
 
 ## Citatos
 
@@ -190,5 +132,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81869
     - t-55159
+    - t-81869

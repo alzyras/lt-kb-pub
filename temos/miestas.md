@@ -7,7 +7,7 @@ tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
 tema_objektu_skaicius: 523
-graph_hub: false
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---
@@ -24,6 +24,23 @@ Objektų skaičius: 523.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Ditrichas iš Altenburgo]]
+- [[objektai/asmenys/Hirtshalsas]]
+
+### Autoriai
+- [[objektai/autoriai/Hartknochas]]
+
+### Daiktai
+- [[objektai/daiktai/Brangenybės, auksas, sidabras ir papuošalai]]
+
+### Grupės
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Venedai]]
+
+### Posakiai
+- [[objektai/posakiai/Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti]]
 
 ### Vietos
 - [[objektai/vietos/Abo]]
@@ -44,13 +61,13 @@ Objektų skaičius: 523.
 - [[objektai/vietos/Astrachanas]]
 - [[objektai/vietos/Atėnai]]
 - [[objektai/vietos/Augsburgas]]
-- [[objektai/vietos/Augustavas]]
-- [[objektai/vietos/Aukštutinė pilis]]
-- [[objektai/vietos/Avinjonas]]
-- [[objektai/vietos/Azovas]]
-- [[objektai/vietos/Ašmena]]
-- [[objektai/vietos/Ašmenos pavietas]]
-- [[objektai/vietos/Ažagų kaimas]]
+- [Augustavas](../objektai/vietos/Augustavas)
+- [Aukštutinė pilis](../objektai/vietos/Auk%C5%A1tutin%C4%97%20pilis)
+- [Avinjonas](../objektai/vietos/Avinjonas)
+- [Azovas](../objektai/vietos/Azovas)
+- [Ašmena](../objektai/vietos/A%C5%A1mena)
+- [Ašmenos pavietas](../objektai/vietos/A%C5%A1menos%20pavietas)
+- [Ažagų kaimas](../objektai/vietos/A%C5%BEag%C5%B3%20kaimas)
 - [Ažagų-Eimuliškio miškas](../objektai/vietos/A%C5%BEag%C5%B3-Eimuli%C5%A1kio%20mi%C5%A1kas)
 - [Bagdadas](../objektai/vietos/Bagdadas)
 - [Bagrationovskas](../objektai/vietos/Bagrationovskas)
@@ -192,7 +209,6 @@ Objektų skaičius: 523.
 - [Klodovas](../objektai/vietos/Klodovas)
 - [Kolomna](../objektai/vietos/Kolomna)
 - [Kolomyja](../objektai/vietos/Kolomyja)
-- [Koloža](../objektai/vietos/Kolo%C5%BEa)
 - [Konstanca](../objektai/vietos/Konstanca)
 - [Konstancija](../objektai/vietos/Konstancija)
 - [Konstantinopolis](../objektai/vietos/Konstantinopolis)
@@ -232,7 +248,6 @@ Objektų skaičius: 523.
 - [Lisabona](../objektai/vietos/Lisabona)
 - [Lisske](../objektai/vietos/Lisske)
 - [Liubekas](../objektai/vietos/Liubekas)
-- [Liublinas](../objektai/vietos/Liublinas)
 - [Liubuckas](../objektai/vietos/Liubuckas)
 - [Livonija](../objektai/vietos/Livonija)
 - [Loebau](../objektai/vietos/Loebau)
@@ -243,7 +258,6 @@ Objektų skaičius: 523.
 - [Lozana](../objektai/vietos/Lozana)
 - [Lubava](../objektai/vietos/Lubava)
 - [Luganas](../objektai/vietos/Luganas)
-- [Lvovas](../objektai/vietos/Lvovas)
 - [Löbau](../objektai/vietos/L%C3%B6bau)
 - [Madridas](../objektai/vietos/Madridas)
 - [Malburgas](../objektai/vietos/Malburgas)
@@ -331,13 +345,11 @@ Objektų skaičius: 523.
 - [Pilies kalnas](../objektai/vietos/Pilies%20kalnas)
 - [Piltenė](../objektai/vietos/Pilten%C4%97)
 - [Pina](../objektai/vietos/Pina)
-- [Pinskas](../objektai/vietos/Pinskas)
 - [Piotrkovas](../objektai/vietos/Piotrkovas)
 - [Piza](../objektai/vietos/Piza)
 - [Plungė](../objektai/vietos/Plung%C4%97)
 - [Podolės Kamenecas](../objektai/vietos/Podol%C4%97s%20Kamenecas)
 - [Polianovkos upė](../objektai/vietos/Polianovkos%20up%C4%97)
-- [Polona](../objektai/vietos/Polona)
 - [Porchovas](../objektai/vietos/Porchovas)
 - [Poterbergas](../objektai/vietos/Poterbergas)
 - [Potsdamas](../objektai/vietos/Potsdamas)
@@ -402,7 +414,6 @@ Objektų skaičius: 523.
 - [Sniečkus](../objektai/vietos/Snie%C4%8Dkus)
 - [Sochačevas](../objektai/vietos/Socha%C4%8Devas)
 - [Soldau](../objektai/vietos/Soldau)
-- [Soroka](../objektai/vietos/Soroka)
 - [Sosnos upė](../objektai/vietos/Sosnos%20up%C4%97)
 - [Sožos upė](../objektai/vietos/So%C5%BEos%20up%C4%97)
 - [Sroda](../objektai/vietos/Sroda)
@@ -468,8 +479,6 @@ Objektų skaičius: 523.
 - [Varka](../objektai/vietos/Varka)
 - [Varėna](../objektai/vietos/Var%C4%97na)
 - [Varšuva](../objektai/vietos/Var%C5%A1uva)
-- [Velikije Lūki](../objektai/vietos/Velikije%20L%C5%ABki)
-- [Veližas](../objektai/vietos/Veli%C5%BEas)
 - [Venecija](../objektai/vietos/Venecija)
 - [Verona](../objektai/vietos/Verona)
 - [Viazma](../objektai/vietos/Viazma)
@@ -549,3 +558,6 @@ Objektų skaičius: 523.
 - [Žemutinė pilis](../objektai/vietos/%C5%BDemutin%C4%97%20pilis)
 - [Žgvižda](../objektai/vietos/%C5%BDgvi%C5%BEda)
 - [Žuvų turgus Vilniuje](../objektai/vietos/%C5%BDuv%C5%B3%20turgus%20Vilniuje)
+
+### Įvykiai
+- [Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos](../objektai/ivykiai/Sventopelko%20%C4%AFsiver%C5%BEimas%20%C4%AF%20Kulmo%20%C5%BEem%C4%99%20ir%20jo%20kariaunos%20%C5%BE%C5%ABtis%20prie%20Vyslos)

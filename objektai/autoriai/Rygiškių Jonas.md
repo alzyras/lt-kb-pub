@@ -44,22 +44,6 @@ Tai Rygiškiu Jono redaguotas mokyklinis rašto darbu rinkinėlis įvairiomis te
   teiginys: "Rygiškių Jonas redagavo „Pasakėčias“, skirtas kalbos ir literatūros mokslui."
   pagrindžia:
     - c-36694
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rygiškių Jonas redagavo „Pasakėčias“, skirtas kalbos ir literatūros mokslui.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    13. Rygiškių Jono redaguotos „PASAKĖČIOS”. Kalbos ir literatū­
-    ros mokslui. Trečias papildytas dvigubai padidintas ir pataisytas leidi­
-    mas, 1927 m. 64 psl. Kaina Lt. 1,20.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

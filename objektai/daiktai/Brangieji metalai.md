@@ -10,13 +10,13 @@ datos:
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -78,42 +78,8 @@ Nenurodyta
   teiginys: "Mat jiems patikėdavo saugoti brangiuosius metalus."
   pagrindžia:
     - c-177013
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautas, padedamas pirklių, sukaupė brangiųjų metalų - aukso ir sidabro - bei kitų brangenybių.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Palaikė gerus santykius ir su pirkliais. Jų padedamas įsigi­
-    jo didelius turtus: aukso, sidabro, brangių akmenų, audeklų, kai­
-    linių ir kitokių brangenybių, kurias paskui kitiems dalindamas
-    rodė didelį duosnumą. Valgydamas ir gerdamas susivaldė, per
-    visą savo gyvenimą nevartojo vyno ir jokio kito gėrimo, o tik
-    gryną vandenį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'XIII a. Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Plačiai ir nuosekliai išžvalgius šaltinius, yra prieita išvadų,
-    jog jau XIII amž. Lietuvoje buvo daug turto. Kunigaikščiai turėjo
-    sukaupę brangiųjų metalų nemažus kiekius^4. Karių apginklavi­
-    mas buvo turtingas^5.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-003
   santrauka: 'Mat jiems patikėdavo saugoti brangiuosius metalus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -171,12 +137,18 @@ Nenurodyta
 - id: c-177013
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 290"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pas tuos žynius (kaip aiškiai liudija 1. F. R. kronika) bu­
-    vusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat
-    jiems patikėdavo saugoti brangiuosius metalus.
+    Taigi čia aiškus
+    tiktai dviejų žodžių sutapimas dviejose viena kitai svetimose
+    kalbose. Lietuviai, artimesni prūsams,krzywy\adincLKreiwas -
+    iš slavų kalbos, o kiti, kaip antai mano užkampiečiai, turi tam
+    tikslui liaudišką žodį „nukrypęs“ (Nukripis) . Taigi neneigda­
+    mi, kad vaitų lazdas vadino krivūlėmis (Krywuli) ir kad galbūt
+    panašiomis lazdomis naudojosi ir žemesnieji kriviai, nekildin­
+    sime jų pavadinimo iš slaviško žodžio, pasiskolinto tik vienoje
+    provincijoje.
+  citata_rodoma: "Pas tuos žynius (kaip aiškiai liudija 1. F. R. kronika) bu­\nvusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat\njiems patikėdavo saugoti brangiuosius metalus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

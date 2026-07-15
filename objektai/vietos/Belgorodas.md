@@ -44,15 +44,14 @@ Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė
 - susijęs iš Aleksandras Gvaninis, Sarmacya Europejska: Narbutas, cituodamas Gvaninį, Kerkelio arba Belgorodo totorių vardą siejo su Klerkei, arba Bialohrod, pilimi ant uolos.
 - susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronika minima kaip XVI a. istorinės tradicijos šaltinis apie mūšį prie Irpenės upės netoli Belgorodo.
 - susijęs iš [[objektai/autoriai/Aleksandras Gvaninis.md#claim-t-190689|Aleksandras Gvaninis]]: Aleksandras Gvaninis Kerkelio, arba Bialohrodo, totorių vardą siejo su Klerkei, arba Bialohrodo, pilimi ant uolos.
-- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187440|Aukso orda]]: Aukso ordos chanas Sich-Achmetas po Mengli-Girėjaus pralaimėjimo ieškojo prieglobsčio Nogajų ordoje, bet vėliau grįžo į LDK.
-- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187445|Aukso orda]]: Aukso ordos chanas Sich-Achmetas po Mengli-Girėjaus pralaimėjimo ieškojo prieglobsčio Nogajų ordoje, bet vėliau grįžo į LDK.
+- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187440|Aukso orda]]: Manoma, kad Mengli-Girėjaus sumuštas Aukso ordos chanas Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje, o vėliau grįžo į LDK.
+- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187445|Aukso orda]]: Manoma, kad Mengli-Girėjaus sumuštas Aukso ordos chanas Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje, o vėliau grįžo į LDK.
 - susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186765|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad aptariamas žygis gali būti siejamas su Rumelijos vietininko Ali-pašos žygiu į Moldaviją 1485 m. vasarą.
-- susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186793|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po Mengli-Girėjaus laimėto mūšio Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje.
-- susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186794|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po pralaimėjimo Mengli-Girėjui Sich-Achmetas ieškojo prieglobsčio Nogajų ordoje, bet 1503 m. rudenį grįžo į LDK.
+- susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186793|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po pralaimėjimo Mengli-Girėjui Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje.
+- susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186794|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po pralaimėjimo Mengli-Girėjui Sich-Achmetas ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje, o 1503 m. rudenį grįžo į LDK.
 - susijęs iš [[objektai/ivykiai/Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas.md#claim-t-186797|Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas]]: Redakcinė pastaba nurodo, kad Sich-Achmetas į Kijevą grįžo 1503–1504 metų žiemą.
 - susijęs iš [[objektai/asmenys/Ksaveras Bogušas.md#claim-t-190916|Ksaveras Bogušas]]: Teodoro Narbuto teigimu, Ksaveras Bogušas lygino Belgorodo totorių herulišką dialektą su latviams artimu dialektu.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -83,8 +82,7 @@ Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė
 - id: c-168640
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Visi luo­
     mai, išėję iš miesto, sveikino
@@ -98,7 +96,12 @@ Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė
     vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
     ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
     kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
-    išplėtė lietuvių valdų ribas ligi Putivlio.
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje.
+  citata_rodoma: "Visi luo­\nmai, išėję iš miesto, sveikino\nnugalėtoją\nGediminą\nkaip\nKijevo ir Rusios didįjį kuni­\ngaikštį, prisiekdami su visomis žemėmis paklusti jo\nvaldžiai. Gediminas, pasilsėjęs čia, kol artimiausios pi­\nlys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­\nvė nugalėtojui, patraukė į Severską. Užėmęs Brianską\nir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­\nkariavęs Kijevą, Volynę ir didelę Seversko dalį, jis\nišplėtė lietuvių valdų ribas ligi Putivlio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

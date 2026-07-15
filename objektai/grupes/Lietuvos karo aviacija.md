@@ -42,25 +42,6 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   teiginys: "Nuo 1934 m. Lietuvos karo aviacijai vadovavęs Antanas Gustaitis sukonstravo ANBO lėktuvų seriją."
   pagrindžia:
     - c-22609
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1935 m. gegužės 21–22 d. kitas JAV lietuvis, Fe-
-    liksas Vaitkus, sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.
-    Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-
-    tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
-    buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-
-    tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
-    pirmųjų raidžių).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -71,63 +71,41 @@ Nenurodyta
   teiginys: "Narbutas svarbiausia gelonų ir budinų pasitraukimo nuo Dono priežastimi laiko sarmatų bei kitų Pavolgio tautų plitimą į Skitiją apie 80 m. pr. Kr."
   pagrindžia:
     - c-174911
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Maždaug apie 80 metus prieš Kristaus ¡gimimą ¡sarma­
-    tai kartu su kitomis Pavolgio tautomis taip pradėjo plūsti
-    j dešiniosios Dono pakrantės Skitiją, jog tuos kraštus
-    pradėta vadinti europine Sarmatija; tai ir turėjo būti svar­
-    biausia priežastis, kuri privertė gelonus ir ¡budinus palikti
-    savo prie Dono buvusias valdas1. Būtent šios sarmatų-
-    alanų .revoliucijos lėmė didelius šios epochos pokyčius
-    Europos rytuose. Vadinasi, gelonai negalėjo išsilaikyti
-    ¡savo senose vietose ilgiau ¡kaip iki paskutinio prieš Kris­
-    taus gimimą šimtmečio paskutinio ketvirčio; 21 metais
-    prieš mūsų eros pradžią matėme juos (§ 207) sudariusius
-    su romėnais taikos sutartį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197553"></a>
+- t-005
+  global_id: t-197553
+  teiginys: "Būtent šios sarmatųalanų .revoliucijos lėmė didelius šios epochos pokyčius Europos rytuose."
   pagrindžia:
-    - t-003
-    - t-002
-    - t-001
-    - t-004
-    - t-005
+    - c-174911
 
 ## Citatos
 
 - id: c-174911
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 207"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 207."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Maždaug apie 80 metus prieš Kristaus ¡gimimą ¡sarma­
-    tai kartu su kitomis Pavolgio tautomis taip pradėjo plūsti
-    j dešiniosios Dono pakrantės Skitiją, jog tuos kraštus
-    pradėta vadinti europine Sarmatija; tai ir turėjo būti svar­
-    biausia priežastis, kuri privertė gelonus ir ¡budinus palikti
-    savo prie Dono buvusias valdas1. Būtent šios sarmatų-
+    Būtent šios sarmatų-
     alanų .revoliucijos lėmė didelius šios epochos pokyčius
     Europos rytuose. Vadinasi, gelonai negalėjo išsilaikyti
     ¡savo senose vietose ilgiau ¡kaip iki paskutinio prieš Kris­
     taus gimimą šimtmečio paskutinio ketvirčio; 21 metais
     prieš mūsų eros pradžią matėme juos (§ 207) sudariusius
-    su romėnais taikos sutartį.
+    su romėnais taikos sutartį. Tai buvo paskutinė epocha,
+    kai aptinkame juos Rytuose. Lemtis pašaukė juos į to­
+    limus Siaurės Vakarų kraštus duoti pradžią lietuvių tau­
+    tai. Raginami sarmatų puolimų, kėlusių visiško išnaikini­
+    mo pavojų, kuriam pasipriešinti nepajėgė, jie paliko der­
+    lingus Ukrainos kraštus ir iškeliavo vakarų link.
   citata_rodoma: "Maždaug apie 80 metus prieš Kristaus ¡gimimą ¡sarma­\ntai kartu su kitomis Pavolgio tautomis taip pradėjo plūsti\nj dešiniosios Dono pakrantės Skitiją, jog tuos kraštus\npradėta vadinti europine Sarmatija; tai ir turėjo būti svar­\nbiausia priežastis, kuri privertė gelonus ir ¡budinus palikti\nsavo prie Dono buvusias valdas1. Būtent šios sarmatų-\nalanų .revoliucijos lėmė didelius šios epochos pokyčius\nEuropos rytuose."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192041
-    - t-192040
     - t-192039
+    - t-192040
+    - t-192041
     - t-192487
-    - t-005
+    - t-197553

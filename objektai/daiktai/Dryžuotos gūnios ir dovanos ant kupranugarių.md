@@ -61,30 +61,6 @@ Nenurodyta
   teiginys: "Totorių chanas Jedigėjus Vytautui siųsdavo kupranugarius, apdengtus dryžuotomis gūniomis ir apkrautus dovanomis."
   pagrindžia:
     - c-83088
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Totorių chanas Jedigėjus Vytautui siųsdavo kupranugarius, apdengtus dryžuotomis gūniomis ir apkrautus dovanomis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytauto
-    didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios
-    kloties laikai. Tada Lietuvos sostinėje regėdavo kupranuga­
-    rius, dryžuotom gūniom apdangstytus, turtingomis dovano­
-    mis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas
-    Vytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo
-    totorių chanas Jedigėjus76. Valakijos kunigaikščiai jo globos sie­
-    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
-    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
-    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
-    Žygimantą Kaributaitį, savo sūnėną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

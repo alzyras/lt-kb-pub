@@ -7,15 +7,15 @@ datos:
   - '1517 m.'
 date_start: '1517'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - asmuo
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,28 +50,8 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
   teiginys: "Narbuto cituojamas Mechovitos veikalas „Tractatus de duabus sarmatiis Asiana et Europiana, et de continentis in eis“ buvo išleistas Krokuvoje 1517 m."
   pagrindžia:
     - c-174842
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios nesuprato nei jis, nei lietuvis ar žemaitis, bet ją sieja su čigonais, priskirtais jotvingiams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Dėl to reikia daryti išva­
-    dą, kad senovės jotvingių kalba arba visiškai išnykusi,
-    arba buvo panaši j slavų kalbas. Tiesa, Mechovita, Zig­
-    manto I laikais gyvenęs istorikas, rašo girdėjęs jotvingių
-    kalbą Polesėje, šalia Drohičino; jos nei jis, nei lietuvis,
-    nei žemaitis negalėję suprasti. Mechovita taip kalba apie
-    čigonus, žmones, kuriuos kai kada priskirdavo prie jot­
-    vingių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbuto cituojamas Mechovitos veikalas „Tractatus de duabus sarmatiis Asiana et Europiana, et de continentis in eis“ buvo išleistas Krokuvoje 1517 m.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -92,8 +72,7 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
 - id: c-174046
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 119"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 119."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Dėl to reikia daryti išva­
     dą, kad senovės jotvingių kalba arba visiškai išnykusi,
@@ -113,12 +92,15 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
 - id: c-174842
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 513"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 513."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de
-    duabus sarmatiis Asiana et Europiana, et de continentis in eis.
-    Cracoviae, 1517. L. II (De sarmatia Europiana).
+    (Lie­
+    tuviškai kalbančių gyventojų žemė susideda iš keturių dalių: pir­
+    moji žemės juosta yra vietinių jotvingių, kurie apie Drohičino
+    Tvirtovę gyvena, ir nedaug jų belikę. Antroji yra lietuvių ir že­
+    maičių. Trečioji — prūsų. Ketvirtoji — Latvijoje arba Latgaloje —
+    Livonija, esanti prie Dauguvos upės ir Rygos miesto.
+  citata_rodoma: "Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de\nduabus sarmatiis Asiana et Europiana, et de continentis in eis.\nCracoviae, 1517. L. II (De sarmatia Europiana)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

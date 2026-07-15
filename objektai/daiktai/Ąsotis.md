@@ -61,9 +61,9 @@ Nenurodyta
   teiginys: "Šienapjūtėje ąsočiai vartojami maistui ir gėrimui vežti į pievas."
   pagrindžia:
     - c-177679
+    - c-177680
     - c-177681
     - c-177683
-    - c-177680
 
 <a id="claim-t-195308"></a>
 - t-002

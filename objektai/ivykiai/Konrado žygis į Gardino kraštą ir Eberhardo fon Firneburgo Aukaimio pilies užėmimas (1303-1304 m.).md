@@ -33,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Į Prūsiją atvykus Reino krašto didikams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą. Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
+Į Prūsiją atvykus Reino krašto didikams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -56,74 +56,12 @@ Nenurodyta
   pagrindžia:
     - c-169077
 
-<a id="claim-t-185717"></a>
-- t-002
-  global_id: t-185717
-  teiginys: "Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą."
-  pagrindžia:
-    - c-169078
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Į Prūsiją atvykus Reino krašto didikams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Trumpą atokvėpį vis dėlto nutraukė nauji ant­
-    puoliai iš Prūsijos. Grafas Verneris fon Hoinbergas ir
-    Adolfas fon Vintimelis bei
-    kiti Reino krašto didikai kaip
-    tik buvo atvykę į Prūsiją.
-    Atvykus šiems pagalbinin­
-    kams,
-    magistras Konradas,
-    atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą
-    ir žiauriai nuniokojo visą Gardino kraštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Atvykus šiems pagalbinin­
-    kams,
-    magistras Konradas,
-    atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą
-    ir žiauriai nuniokojo visą Gardino kraštą. Taip pat Ka­
-    raliaučiaus komtūras Eberhardas fon Firneburgas, po
-    1304 m e ta i
-    P rū sijos
-    k ry žiu o čių
-    karas p rie š lie tu v iu s
-    182
-
-    ## Puslapis 181
-
-    Svirtilo išdavystės vėl užėmęs Aukaimio pilį, kurią,
-    kryžiuočių sugriautą, lietuviai buvo atstatę, išžudė gy­
-    nėjus ir sulygino su žeme įtvirtinimus. Po to, nusiau­
-    bęs aplinkinius kaimus, išžudė daugybę žmonių, o sa­
-    viškių neteko vos trisdešimt.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-169077
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 180"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 180."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Trumpą atokvėpį vis dėlto nutraukė nauji ant­
     puoliai iš Prūsijos. Grafas Verneris fon Hoinbergas ir
@@ -141,34 +79,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185716
-
-- id: c-169078
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Atvykus šiems pagalbinin­
-    kams,
-    magistras Konradas,
-    atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą
-    ir žiauriai nuniokojo visą Gardino kraštą. Taip pat Ka­
-    raliaučiaus komtūras Eberhardas fon Firneburgas, po
-    1304 m e ta i
-    P rū sijos
-    k ry žiu o čių
-    karas p rie š lie tu v iu s
-    182
-
-    ## Puslapis 181
-
-    Svirtilo išdavystės vėl užėmęs Aukaimio pilį, kurią,
-    kryžiuočių sugriautą, lietuviai buvo atstatę, išžudė gy­
-    nėjus ir sulygino su žeme įtvirtinimus. Po to, nusiau­
-    bęs aplinkinius kaimus, išžudė daugybę žmonių, o sa­
-    viškių neteko vos trisdešimt.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185717

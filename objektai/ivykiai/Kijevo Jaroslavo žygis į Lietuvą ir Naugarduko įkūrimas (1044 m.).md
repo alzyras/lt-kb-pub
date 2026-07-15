@@ -70,44 +70,6 @@ Nenurodyta
   teiginys: "XI a. rusų metraščiai mini tik du lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija."
   pagrindžia:
     - c-33403
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1044 m. Jaroslavas vėl ėjęs « na Litvu » ir pavasarį įkūręs
-    Naugarduką. Lietuvos vardas vėl minimas po 87 metų, kai esą
-    dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į
-    Lietuvą («na Litvu»).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'XI a. rusų metraščiai mini tik du lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Artimiausieji rytų kaimynai dregovičiai (Beržūnės
-    baseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors
-    Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno dar gana
-    žemame kultūros laipsnyje. Tuo tarpu pagonys lietuviai, kaip
-    patvirtina rašytieji šaltiniai (XIII-XIV amž.) ir nepaliaujamų karų
-    eiga su Vakarų Europos civilizacijos atstovais — ordino riteriais,
-    buvo pasiekę, palyginti, aukštą kultūros laipsnį.
-    XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir
-    Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi
-    Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

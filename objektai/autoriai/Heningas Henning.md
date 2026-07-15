@@ -34,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau Teodoras Narbutas su tokia išvada nesutiko.
+Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau Teodoras Narbutas su tokia išvada nesutiko. Heningas Henning sako, kad dar jo laikais apie Drohiciną buvo kalbama jotvingių kalba ir lietuviai negalėdavo nė žodžio suprasti.
 
 ## Teiginiai
 
@@ -44,57 +44,31 @@ Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau
   teiginys: "Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau Teodoras Narbutas su tokia išvada nesutiko."
   pagrindžia:
     - c-174478
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau Teodoras Narbutas su tokia išvada nesutiko.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Galbūt jie ir buvo likučiai išvestų jot­
-    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
-    Raigardo ir Insterburgo Prūsijoje. Tačiau negalime su­
-    tikti su mokslininku Heningu, kuris daro prielaidą, kad
-    visi sūduviai yra buvę jotvingiai, nes kitur esama negin­
-    čijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri
-    vadinosi sudinais ir buvo visiškai ne jotvingių kilmės.
-    Tačiau ne tas Skomantas, kurį lenkų istorikai vadina Ko­
-    modų, vadovavęs 1264 metų birželio 23 dienos mūšyje ir,
-    anot jų, žuvęs, turėjo vadovauti prūsų sukilimui, o 1282
-    ar 1283 metais grįžęs iš Lietuvos, kur buvo pabėgęs, ap­
-    sikrikštijo ir pagaliau davė savo vardą vienam ežerui,
-    esančiam netoli Ario miesto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197592"></a>
+- t-002
+  global_id: t-197592
+  teiginys: "Heningas Henning sako, kad dar jo laikais apie Drohiciną buvo kalbama jotvingių kalba ir lietuviai negalėdavo nė žodžio suprasti."
   pagrindžia:
-    - t-001
+    - c-174478
 
 ## Citatos
 
 - id: c-174478
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Galbūt jie ir buvo likučiai išvestų jot­
-    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
-    Raigardo ir Insterburgo Prūsijoje. Tačiau negalime su­
-    tikti su mokslininku Heningu, kuris daro prielaidą, kad
-    visi sūduviai yra buvę jotvingiai, nes kitur esama negin­
-    čijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri
-    vadinosi sudinais ir buvo visiškai ne jotvingių kilmės.
-    Tačiau ne tas Skomantas, kurį lenkų istorikai vadina Ko­
-    modų, vadovavęs 1264 metų birželio 23 dienos mūšyje ir,
-    anot jų, žuvęs, turėjo vadovauti prūsų sukilimui, o 1282
-    ar 1283 metais grįžęs iš Lietuvos, kur buvo pabėgęs, ap­
-    sikrikštijo ir pagaliau davė savo vardą vienam ežerui,
-    esančiam netoli Ario miesto.
+    Me-
+    chovita maišo jotvingių ir lietuvių kilmę. Vis dėlto jis
+    sako, kad dar jo laikais apie Drohiciną buvo kalbama jot­
+    vingių kalba ir lietuviai negalėdavo nė žodžio suprasti.
+    Kromeriui2 buvo žinomi jotvingių likučiai (reliquiae),
+    savo kalba visiškai besiskiriantys nuo slavų ir lietuvių.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191596
+    - t-197592

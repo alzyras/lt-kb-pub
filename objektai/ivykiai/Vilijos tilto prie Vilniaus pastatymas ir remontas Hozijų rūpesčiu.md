@@ -51,38 +51,6 @@ Nenurodyta
   teiginys: "Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Viliją, o iš nustatyto tilto mokesčio susigrąžino statybos išlaidas."
   pagrindžia:
     - c-82906
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Viliją, o iš nustatyto tilto mokesčio susigrąžino statybos išlaidas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šis garbingasis Ulrikas Hozijus,
-    387
-
-    ## Puslapis 404
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą
-    Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir
-    išlaidomis labai greitai ir rūpestingai susiruošė, pastatė ilgam
-    amžiui, kiek buvo įmanoma, sutvirtino ir muitą arba tilto mo­
-    kestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas,
-    nuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­
-    gant laikui išskaičiavo ir susigrąžino. Pagaliau šį darbą pa­
-    baigęs ir ištobulinęs, mūsų valia ir nurodymu, ėmėsi kito ob­
-    jekto - minėtos prieglaudos prie brolių pamokslininkų
-    [dominikonų} vienuolyno. Jos statybą prieš tai buvo pradė­
-    jęs, norėjo užbaigti ir jau nemažą jos dalį išmūrijęs buvo, bet
-    pirmiau negu užbaigti įstengė, kaip paprastai atsitinka žmo­
-    nėms, atsisveikino su šiuo pasauliu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

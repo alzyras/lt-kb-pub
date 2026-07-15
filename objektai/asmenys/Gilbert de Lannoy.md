@@ -36,25 +36,6 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   pagrindžia:
     - c-38019
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63621|Henrikas VI]]: Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Gilbert de Lannoy kelionėje į Krymą per totorių žemes Vytauto kepurė atstojo lydimąjį raštą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    bet ir visi kiti totoriai^1 ). Ir tikrai, kada Gilbert de Lannoy, Ang­
-    lijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą),
-    tai jo kelionėje užteko Vytauto kepurės, kaip „lydimojo rašto“
-    per totorių žemes. Jau minėtas vokietis Henne rašė Ordino ma­
-    gistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38019

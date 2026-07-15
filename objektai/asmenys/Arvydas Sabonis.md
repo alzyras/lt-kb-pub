@@ -44,32 +44,6 @@ Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė k
   teiginys: "Arvydas Sabonis buvo Lietuvos ir NBA krepšinio žvaigždė."
   pagrindžia:
     - c-75354
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Arvydas Sabonis buvo Lietuvos ir NBA krepšinio žvaigždė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O beveik
-    kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar
-    Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas,
-    Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry
-    (Romanas Gari) ar Kaune gimęs ir gimnaziją baigęs filosofas Emmanuel
-    Levinas (Emanuelis Levinas).
-    Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA
-    žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-
-    tina Senda Berenson-Abbot (Senda Berenson-Abot, g. Vilniuje 1868 m.),
-    olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čem-
-    pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
-    boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
-    garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

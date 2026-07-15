@@ -52,52 +52,6 @@ media_all_json: |-
   pagrindžia:
     - c-42386
 
-<a id="claim-t-78739"></a>
-- t-003
-  global_id: t-78739
-  teiginys: "Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais."
-  pagrindžia:
-    - c-75921
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Aleksandro Gvanjinio knygoje neįvardytas iliustracijoje vaizduojamas mūšis, bet labiausiai tikėtina, kad tai 1512 m. Lopušnos mūšis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Paplitusi nuomonė, jog čia vaizduojamas lietuvių mūšis prieš Krymo totorius prie Klecko 1506 m. A. Gvanjinio
-    knygoje konkrečiai nenurodoma, koks mūšis vaizduojamas, tačiau labiausiai tikėtina, kad čia vaizduojamas
-    1512 m. Lopušnos mūšis, kuriame jungtinė lietuvių ir lenkų kariuomenė sumušė įsiveržusias Krymo totorių
-    pajėgas. Iliustracijos centre matoma vėliava su Lenkijos pajėgoms vadovavusio N. Kamenckio giminės herbu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1480 m. sąjunga tarp Maskvos ir Krymo
-    tapo politine realybe, o LDK žemės tapo
-    totorių plėšikiškų antpuolių taikiniu. Tarp
-    jų bene labiausiai pagarsėjo 1482 m. įvykęs
-    Kijevo nusiaubimas, kurio metu į toto-
-
-    rių nelaisvę pakliuvo aukščiausias vietinės
-
-    Iliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais.
-    Paplitusi nuomonė, jog čia vaizduojamas lietuvių mūšis prieš Krymo totorius prie Klecko 1506 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-
 ## Citatos
 
 - id: c-42386
@@ -137,5 +91,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78741
     - t-78739

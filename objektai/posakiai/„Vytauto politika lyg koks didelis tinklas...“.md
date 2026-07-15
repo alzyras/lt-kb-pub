@@ -35,25 +35,6 @@ Jo veiksmuose dažnai pasireikšdavo didelis atsargu­ mas, kuris tačiau nevirs
   teiginys: "Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda, tai paleidžia, tai naujai sumezga."
   pagrindžia:
     - c-177349
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda, tai paleidžia, tai naujai sumezga.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jei Vytautas
-    delsia, tai visada tas yra tikslinga: jis tuo arba priverčia prie­
-    šus nusileisti, arba stengiasi sudaryti kokią naują kombinaciją.
-    Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda,
-    tai paleidžia, tai naujai sumezga.
-    Jo politika buvo neįmanoma be tinkamų padėjėjų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

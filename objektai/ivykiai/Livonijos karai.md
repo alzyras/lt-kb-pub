@@ -61,63 +61,12 @@ Nenurodyta
   pagrindžia:
     - c-48252
 
-<a id="claim-t-45429"></a>
+<a id="claim-t-45428"></a>
 - t-002
-  global_id: t-45429
+  global_id: t-45428
   teiginys: "Bandymai įsitvirtinti Livonijoje ir išeiti į Baltijos jūrą kėlė konfliktus tarp ATR, Rusijos ir XVII a. kariškai sustiprėjusios Švedijos."
   pagrindžia:
     - c-23135
-
-<a id="claim-t-45429"></a>
-- t-003
-  global_id: t-45429
-  teiginys: "Bandymai įsitvirtinti Livonijoje ir išeiti į Baltijos jūrą kėlė konfliktus tarp ATR, Rusijos ir XVII a. kariškai sustiprėjusios Švedijos."
-  pagrindžia:
-    - c-23135
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
-    mėnesiais aplenkusi Prancūzijos konstituciją.
-    Pasauliui, net kai kuriems lietuviams ligi šiol ši konstitucija yra tik
-    Lenkijos konstitucija, nors Lietuvos atstovai 1791 m. rudenį padarė es-
-    minę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių
-    valstybės institucijose.
-    Apšvieta ateina į LDK
-    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
-    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
-    jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
-    kariškai sustiprėjusios Švedijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-002
-  santrauka: 'Livonijos karuose 1558–1583 m. Lietuva ir Lenkija gavo didžiąją Livonijos dalį kartu su Ryga.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Apšvieta ateina į LDK
-    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
-    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
-    jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
-    kariškai sustiprėjusios Švedijos. Livonijos karuose 1558–1583 m. Lietuva
-    ir Lenkija gavo didžiąją Livonijos dalį, kartu ir Rygą. Tačiau Švedija ėmė
-    siekti viešpatauti Baltijos jūroje (dominium maris Baltici). Dėl to įsilieps-
-    nojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -143,7 +92,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45429
     - t-45428
 
 - id: c-48252

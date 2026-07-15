@@ -46,24 +46,6 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 - susijęs iš [[objektai/zodynas/didžioji suirutė smuta.md#claim-t-02975|didžioji suirutė smuta]]: Maskvoje prasidėjęs perversmų periodas vadintas didžiąja suirute (smuta).
 - susijęs iš [[objektai/zodynas/didžioji suirutė smuta.md#claim-t-02976|didžioji suirutė smuta]]: Didžiosios suirutės metu Maskva nebebuvo puolanti pusė, o pati buvo puolama.
 - susijęs iš [[objektai/zodynas/didžioji suirutė smuta.md#claim-t-182941|didžioji suirutė smuta]]: Po Teodoro mirties Maskvoje prasidėjo perversmų periodas, vadinamas didžiąja suirute (smuta).
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    su Lietuva, tačiau jam jau nebeteko kariauti, nes netrukus
-    (1584 m.) jis mirė. Po jo, 15 metų buvo caru jokiems dideliems
-    žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
-    pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
-    versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-02325

@@ -35,23 +35,6 @@ Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove n
   teiginys: "Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove neįmanoma išlaikyti reikiamo lygiavimo."
   pagrindžia:
     - c-40580
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Linijinei taktikai netikdavo bet kokia vietovė, ji turėjo būti gan
-    lygi. Pėstininkams judant skleistinėse rikiuotėse miškinga arba rai-
-    žyta vietove neįmanoma išlaikyti reikiamo lygiavimo. Batalionams
-    praradus rikiuotę, vienose vietose atsirastų dideli tarpai tarp pada-
-    linių, kitur - kariai susigrūstų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

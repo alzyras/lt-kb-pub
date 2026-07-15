@@ -44,8 +44,8 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
   teiginys: "Pasak Purpurinio, pečenegų ordos Charoboe sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove."
   pagrindžia:
     - c-175581
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cerkovę Kijevo gubernijoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -65,40 +65,24 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Pasak Purpurinio, pečenegų ordos Charoboe sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    100
-    Geografija. Viena dešiniojoje Dnepro pakrantėje gy­
-    venusi pečenegų orda Charoboe turėjo dalį Padneprės
-    žemių tarp Dnepro ir Bugo aukštupio; jos sostinė, pasak
-    Purpurinio, buvo Belotzebo miestas, o slaviškai Belaja
-    Cerkovė1. Tad nuo X iki XII amžiaus antrojo dešimtme­
-    čio šiai ordai priklausė kraštas prie Rosés upės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-175580
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 74"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
-    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
-    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
-    toro žodžius priskiria poloviečių veiksmams dešiniojoje
-    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
-    statytas XII amžiaus pradžioje po to, kai jį sunaikino
-    poloviečiai.
+    Tatiščevas**, gal geriau žinojęs šiuos
+    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
+    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
+    Jurjevu, stovėjusią prie Osteros upės žiočių. Reikėtų nu­
+    keliauti toliau į rytus ir gal ten, Doneco ir Dono tarp­
+    upyje, rasime buvusios Giurgevo tvirtovės vietą ir seno­
+    vės upę Ros. Topografiniuose prisiminimuose, apie ku­
+    riuos anksčiau kalbėjome (§ 51), minimas kraštas, kurį
+    aprašome: nuo Oskolo miestelio, esančio prie to paties
+    1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida.
+  citata_rodoma: "Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -109,8 +93,7 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
 - id: c-175581
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 107"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 107."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     100
     Geografija. Viena dešiniojoje Dnepro pakrantėje gy­

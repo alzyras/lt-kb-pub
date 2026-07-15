@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Tiesa, daugelyje Platesniojo sąvado nuorašų esama papildy mų — pametimų užrašų ir ilgesnių pasakojimų apie kai kuriuos svarbesnius XV a.
+Daugelyje Platesniojo sąvado nuorašų buvo papildymų: paminėjimų užrašų ir ilgesnių pasakojimų apie XV a. pabaigos bei XVI a. pirmosios pusės įvykius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -46,39 +46,16 @@ Nenurodyta
 <a id="claim-t-194071"></a>
 - t-001
   global_id: t-194071
-  teiginys: "Tiesa, daugelyje Platesniojo sąvado nuorašų esama papildy mų — pametimų užrašų ir ilgesnių pasakojimų apie kai kuriuos svarbesnius XV a."
+  teiginys: "Daugelyje Platesniojo sąvado nuorašų buvo papildymų: paminėjimų užrašų ir ilgesnių pasakojimų apie XV a. pabaigos bei XVI a. pirmosios pusės įvykius."
   pagrindžia:
     - c-176684
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tiesa, daugelyje Platesniojo sąvado nuorašų esama papildy mų — pametimų užrašų ir ilgesnių pasakojimų apie kai kuriuos svarbesnius XV a.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Tiesa,
-    daugelyje Platesniojo sąvado nuorašų esama papildy­
-    mų — pametimų užrašų ir ilgesnių pasakojimų apie kai
-    kuriuos svarbesnius XV a. pabaigos ir XVI a. pirmo­
-    sios pusės įvykius. Tačiau tie pagrindinio teksto tęsiniai
-    nebepriklauso Platesniojo sąvado autoriui, o yra pri­
-    rašyti keliais etapais XVI a. viduryje. Jie vertintini
-    kaip savarankiškas LDK metraštinės literatūros vysty­
-    mosi etapas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-176684
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 8"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tiesa,
     daugelyje Platesniojo sąvado nuorašų esama papildy­

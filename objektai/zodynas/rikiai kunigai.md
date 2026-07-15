@@ -35,23 +35,6 @@ Tie vadai buvo vadinami rikiais ir kunigais.
   teiginys: "Tie vadai buvo vadinami rikiais ir kunigais."
   pagrindžia:
     - c-176026
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tie vadai buvo vadinami rikiais ir kunigais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu turtingesnių šeimų galvos
-    tapdavo visos giminės ir apylinkės vadais ir savotiškais valdo-
-    vais. Jų valdžioje būdavo ir pilys. Tie vadai buvo vadinami
-    rikiais ir kunigais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

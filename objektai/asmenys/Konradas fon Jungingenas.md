@@ -43,36 +43,6 @@ Munkaviškės Didysis Ordino magistras, vyriausiasis Ordino kariuomenės vadas U
   teiginys: "Konradas fon Jungingenas rekomendavo neišrinkti savo brolio Ulricho didžiuoju magistru, nes jo karštakošiškumas galėjo atnešti nelaimę Ordinui."
   pagrindžia:
     - c-41384
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Munkaviškės
-
-    Didysis Ordino magistras, vyriausiasis
-    Ordino kariuomenės vadas Ulrichas fon
-    Jungingenas asmeniškai vadovavo kry-
-    žiuočių pajėgoms. Amžininkai jį api-
-    būdino kaip stiprų ir karingą vyrą, kita
-    vertus, jis garsėjo kaip karštakošis ir
-    arogantiškas žmogus. Įstojęs į Teutonų
-    ordiną 1380 metais jis labai greitai kopė
-    karjeros laiptais. Likus trejiems metams
-    iki Žalgirio mūšio jis pakeitė savo brolį
-    Konradą fon Jungingeną didžiojo ma-
-    gistro poste. Pastarasis, beje, primygtinai
-    rekomendavo neišrinkti savo brolio į šias
-    pareigas, nes, pasak jo, Ulricho karštako-
-    šiškumas ir neapykanta lenkams gali at-
-    nešti nelaimę Ordinui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

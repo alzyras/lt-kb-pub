@@ -36,21 +36,6 @@ Siuchniński.
   pagrindžia:
     - c-22161
 - susijęs iš [[objektai/autoriai/J. S. Kopczewski.md#claim-t-19405|J. S. Kopczewski]]: J. S. Kopczewski kartu su M. Siuchnińskiu parengė leidinį „Grunwald: 550 lat chwały“.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius, 2009; Grunwald: 550 lat chwały. Oprac. J. S. Kopczewski,
-    M.  Siuchniński.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22161

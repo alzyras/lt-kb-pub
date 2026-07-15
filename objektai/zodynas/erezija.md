@@ -25,16 +25,10 @@ media_all_json: |-
 
 ## Santrauka
 
-Petras Skarga sakė, kad nuo krikščionybės atsimetę ar prie erezijų prisidėję žmonės silpnino monarcho valdžią ir griovė Žečpospolitą.
+Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-185402"></a>
-- t-001
-  global_id: t-185402
-  teiginys: "Petras Skarga sakė, kad nuo krikščionybės atsimetę ar prie erezijų prisidėję žmonės silpnino monarcho valdžią ir griovė Žečpospolitą."
-  pagrindžia:
-    - c-168763
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64222|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Vernerio iš Orzelno laikais Kryžiuočių ordino statute buvo pabrėžtas pamaldumas ir apriboti pasaulietiniai brolių poreikiai.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64232|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Didysis magistras Verneris iš Orzelno ėmėsi restauruoti Kryžiuočių ordiną.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178874|Kryžiuočių ordinas]]: XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.
@@ -45,47 +39,3 @@ Petras Skarga sakė, kad nuo krikščionybės atsimetę ar prie erezijų prisid�
 - susijęs iš [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis.md#claim-t-175142|Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]: Didysis magistras Verneris papildė Ordino statutą prierašais apie pamaldumą, maldas, brolių poreikių ribojimą ir bendruomenės drausmę.
 - susijęs iš [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis.md#claim-t-175143|Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]: Vernerio prierašai turėjo būti skaitomi visuose Ordino namuose keturis kartus per metus.
 - susijęs iš Paryžius: Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Petras Skarga sakė, kad nuo krikščionybės atsimetę ar prie erezijų prisidėję žmonės silpnino monarcho valdžią ir griovė Žečpospolitą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tie lietuviai
-    pagonys kilnūs, išmintingi ir narsūs, kurie buvo išti­
-    kimi protėvių religijai ir papročiams,— jie sukūrė Lie­
-    tuvos valstybę. Priėmę krikščionybę, jie liko jai ištiki­
-    mi. Tie, kurie, priėmę krikščionybę, nuo jos atsimetė
-    arba, prisidėję prie erezijų, sukėlė vidinius vaidus, silp­
-    nino monarcho valdžią ir griovė Žečpospolitą, kaip
-    daug kartų yra sakęs Petras Skarga.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Citatos
-
-- id: c-168763
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 27."
-  citata_originali: |
-    Tie lietuviai
-    pagonys kilnūs, išmintingi ir narsūs, kurie buvo išti­
-    kimi protėvių religijai ir papročiams,— jie sukūrė Lie­
-    tuvos valstybę. Priėmę krikščionybę, jie liko jai ištiki­
-    mi. Tie, kurie, priėmę krikščionybę, nuo jos atsimetė
-    arba, prisidėję prie erezijų, sukėlė vidinius vaidus, silp­
-    nino monarcho valdžią ir griovė Žečpospolitą, kaip
-    daug kartų yra sakęs Petras Skarga.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185402

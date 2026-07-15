@@ -35,38 +35,13 @@ Narbuto kritikuojamo autoriaus prielaidoje Saksas Gramatikas sąvoka Estiorum te
   teiginys: "Narbuto kritikuojamo autoriaus prielaidoje Saksas Gramatikas sąvoka Estiorum terrae apėmė kraštą, kuriame buvusi Rotala."
   pagrindžia:
     - c-174197
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbuto kritikuojamo autoriaus prielaidoje Saksas Gramatikas sąvoka Estiorum terrae apėmė kraštą, kuriame buvusi Rotala.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Įkarščio ir nuoširdaus noro,
-    kaip jam atrodė, pasitarnauti rusų tautai pagautas auto­
-    rius, kildindamas ją iš labai tolimos senovės, be to, ma­
-    nydamas, jog tik jis vienas išmano tolimą Siaurės istoriją,
-    iuo pat metu labai negražiai supainiojo dalykus. Anot jo,
-    senovės rusai yra šiandienos rusų protėviai; šią savo prie­
-    laidą pagrindžia tuo, kad Saksas Gramatikas** bendrine
-    sąvoka Estiorum terrae apėmęs kraštą, kur buvusi Rota-
-    la. Mūsų skaitytojams iš šio veikalo (§ 77—83) jau ži­
-    noma, ką reiškia šis pavadinimas ir kiek jis buvęs bend­
-    rinis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 235."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Įkarščio ir nuoširdaus noro,
     kaip jam atrodė, pasitarnauti rusų tautai pagautas auto­

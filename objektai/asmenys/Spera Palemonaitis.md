@@ -34,8 +34,8 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
   teiginys: "Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūnumi, buvo galingas žmogus ir kaldino auksinius medalius."
   pagrindžia:
     - c-173001
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūnumi, buvo galingas žmogus ir kaldino auksinius medalius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -64,15 +64,17 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    219
-
-    ## Puslapis 219
-
-    bai“. Šitas neįkainojamas mūsų senovės paminklas -  tai įrody­
-    mas, kad Spera Palemonaitis, arba Palemono sūnus, buvo ga­
-    lingas žmogus, nes kaldino auksinius medalius. Tiktai kyla klau­
-    simas: ar XI amžiuje, kuriame gyveno Spera, egzistavo biar-
-    miškasis raidynas?
+    Taip atsirado Čekiškės (Czekiszki) pa­
+    vadinimas; dabar taip vadinamas miestelis. Plaukdami tolyn,
+    jie pateko į neaprėpiamus miškus ir, susidūrę su daugybe kliū­
+    čių, trukdančių toliau keliauti, kalbėjo: E-ira galas, nėra ga­
+    lo; toji vieta buvo praminta Eiriogala (Ariogala), o miestelis
+    iki šiol tebesivadina tokiu vardu. Siek tiek pasistūmėję upe
+    aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
+    ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
+    nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
+    (Betygola) pavadinimas.
+  citata_rodoma: "219\n\n## Puslapis 219\n\nbai“. Šitas neįkainojamas mūsų senovės paminklas -  tai įrody­\nmas, kad Spera Palemonaitis, arba Palemono sūnus, buvo ga­\nlingas žmogus, nes kaldino auksinius medalius. Tiktai kyla klau­\nsimas: ar XI amžiuje, kuriame gyveno Spera, egzistavo biar-\nmiškasis raidynas?"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

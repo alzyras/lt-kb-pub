@@ -57,27 +57,6 @@ Nenurodyta
   teiginys: "Prezidentas 1940 m. balandį po ambicijų konflikto atleido populiarų kariuomenės vadą Stasį Raštikį iš pareigų."
   pagrindžia:
     - c-23230
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau krikščionių demokratų blokas, Katalikų veikimo
-    centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
-    monopolizuoti ideologinės ir organizacinės erdvės. Katalikų organizaci-
-    jos, jaunimo grupės buvo gausesnės nei tautininkų, jų spauda – įtakinges-
-    nė. Krikščionių demokratų pakraipos opozicija atvirai pretendavo daly-
-    vauti valstybės valdyme, jų remiamas ambicingas kariuomenės vadas gen.
-    Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje
-    įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konf-
-    likto 1940 m. balandį atleido jį iš pareigų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

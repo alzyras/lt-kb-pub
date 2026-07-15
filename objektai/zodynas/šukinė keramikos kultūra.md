@@ -35,23 +35,6 @@ media_all_json: |-
   teiginys: "Šukinė keramikos kultūra taip vadinama dėl šukinių keramikos ornamentų."
   pagrindžia:
     - c-34183
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    buvo puošiamas lyg šukomis pabrauktais trumpais brūkšniais.
-    Ši kultūra, dėl tų sukinių keramikos ornamentų, todėl dar vadinama
-    « šukinė » (« Kammkeramik »)^5. Jos palikimui priklauso taip pat
-    gana daug Lietuvos pajūryje rastų gintarinių žmonių ir gyvulių
-    figūrėlių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

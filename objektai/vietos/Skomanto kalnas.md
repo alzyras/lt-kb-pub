@@ -37,36 +37,12 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
     - c-59359
 - susijęs iš Skomanto ežeras: Zioka Skomackas Skomantai Skomanto ež.
 - susijęs iš Skomanto sodyba: Skomanto sodyba rodyklėje siejama su pavadinimu Skomantburg.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Skokiai žr. Zioka
-    Skomackas
-    Skomantai
-    Skomanto ež. (Skomentner-See, dab. j. Skomętno)
-    Skomanto kalnas (Skomentberg)
-    Skomanto sodyba, p. (Skomantburg)
-    Skorpiono žvaigždynas
-    Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas)
-    Skronaitė (Scroneyte, Scroneiten), p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59359
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 318"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Skokiai žr. Zioka
     Skomackas

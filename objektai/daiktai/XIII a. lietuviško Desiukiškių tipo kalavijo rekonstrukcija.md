@@ -62,21 +62,6 @@ Nenurodyta
   teiginys: "XIII a. lietuviško Desiukiškių tipo kalavijo rekonstrukciją atliko Lietuvos kariuomenės Garbės sargybos kuopa."
   pagrindžia:
     - c-42585
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XIII a. lietuviško Desiukiškių tipo kalavijo rekonstrukciją atliko Lietuvos kariuomenės Garbės sargybos kuopa.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 30, XIII a. lietuviško Desiukiškių tipo kalavijo rekonstrukcija, Lietuvos kariuomenės,
-    Garbės sargybos kuopos rekonstrukcija, Giedrės Maksimovicz nuotr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

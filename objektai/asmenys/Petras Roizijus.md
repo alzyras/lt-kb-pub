@@ -43,38 +43,6 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
   teiginys: "Petras Roizijus buvo iš Aragono kilęs teisininkas, LDK miesto reikalų referendorius ir Vilniaus katedros kustodas."
   pagrindžia:
     - c-83808
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Petras Roizijus buvo iš Aragono kilęs teisininkas, LDK miesto reikalų referendorius ir Vilniaus katedros kustodas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Trejybės prieglaudą ir ją geriau aprūpinti pave­
-    dė kelissyk testamente minimoms seserims ir respublikai, o
-    turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą,
-    atidavė Vilniaus jėzuitų kolegijai. Tačiau šio karaliaus val­
-    dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­
-    žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio mas-
-    50
-    Petrus Maureus Royzius, gimęs Al-
-    cagnizo [ Alkaniso] mieste Aragono-
-    je, kilęs iš ispanų Ruiz de Moros gi­
-    minės, įvairiomis bylomis išgarsėjęs
-    teisininkas, pagaliau buvęs LDK
-    miesto reikalų referendorius ir Vil­
-    niaus katedros kustodas. Garsiau­
-    sias jo veikalas yra „Lietuvos spren­
-    dimai", kur jis pasireiškė kaip
-    didelis Romos teisės garbintojas ir
-    kuo nepalankiausiai nusiteikęs Lie­
-    tuvos Statuto atžvilgiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

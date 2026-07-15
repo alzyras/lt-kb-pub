@@ -51,26 +51,6 @@ Nenurodyta
   teiginys: "Pirmaisiais Lietuvos kariuomenės mėnesiais buvo įvesti trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės."
   pagrindžia:
     - c-12333
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
-    jėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo
-    uniformų, reikalingos ekipuotės. Savanoriai buvo apsirengę rūbais, su kuriais atvyko iš
-    namų, dažniausiai buvo ginkluoti šautuvais, kuriuos patys atsinešė įsigiję už savo lėšas.
-    Vėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vo-
-    kiečių kariuomenės. Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į
-    kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiu-
-    vas ir geltonas lankelis ant kepurės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -46,36 +46,12 @@ Narbutas, remdamasis graikų dievų padavimais, Proito laikus sieja su pranašau
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179257|Lietuviai]]: Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188258|Lietuviai]]: Narbutas lietuvių Bakcho garbinimą siejo su jau labai senu ir plačiai paplitusiu šio dievo kultu kitose tautose.
 - susijęs iš [[objektai/grupes/Senovės graikai.md#claim-t-189386|Senovės graikai]]: Narbutas, remdamasis graikų dievų padavimais, rašė, kad Melampas apie 1380 m. pr. Kr. Graikijoje įvedė Bakcho garbinimą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas, remdamasis graikų dievų padavimais, Proito laikus sieja su pranašautoju Melampu, gyvenusiu dar iki Trojos karo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Priklausomai nuo gėrimo pagaminimo būdo
-    dievas įgydavo Bubilo arba Ragučio vardą, kaip tai pastebima
-    ¡r kitose mitologijose.
-    Iš padavimų apie graikų dievus žinome, kad garsus prana­
-    šautojas Melampas, kuris gyveno Proito laikais, dar iki Trojos
-    karo, apie 1380 metus prieš Kristaus gimimą, pirmasis Graiki­
-    joje įvedė Bakcho garbinimą. Todėl tais laikais, kai lietuvių
-    tauta brandino savo stabmeldystę, to dievo garbinimas kitur
-    buvo labai senas ir visuotinai paplitęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-173087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Priklausomai nuo gėrimo pagaminimo būdo
     dievas įgydavo Bubilo arba Ragučio vardą, kaip tai pastebima

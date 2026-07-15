@@ -101,64 +101,12 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
 - susijęs iš [[objektai/zodynas/Pusbernis.md#claim-t-192328|Pusbernis]]: Narbutas nurodė: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare netoli Kražių ardamas žemę iškasė figūrą.
 - susijęs iš [[objektai/zodynas/Pusbernis.md#claim-t-192569|Pusbernis]]: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare, už 10 varstų nuo Kražių, ardamas iškasė figūrą.
 - susijęs iš Kražiai: Pasak Narbuto cituoto aprašymo, 1836 m. Bonaventūras Milevskis Burokų dvare, už 10 varstų nuo Kražių, ardamas iškasė figūrą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Nedailus, vos galima suprasti, jog tai raitelis su sakalu. Rai- 32
-    32 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs Vil­
-    niaus Vyriausiojo teismo departamento regentas, su tokiu aprašy­
-    mu: “1840 metų rugsėjo mėnesį viešėdamas Platelių dvare, priklau­
-    sančiame grafienei Choueseul, tą dievuką gavau iš kunigo Kogno-
-    vickio, Platelių klebonijos vikaro, kuris, būdamas kilimo iš Raseinių
-    apskrities, 1836 metais gegužės mėnesį nuvyko aplankyti savo brolį.
-    Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­
-    cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­
-    ras Milevskis, ardamas žemę, iškasė tą figūrą*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-    - t-003
-    - t-005
-
-- c-002
-  santrauka: '1836 m. gegužę Burokų dvare pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė dievuko figūrą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
-    Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu
-    aprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dva­
-    re, priklausančiame grafienei Choueseul, tą dievuką gavau iš
-    kun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas
-    kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko
-    aplankyti savo brolį. Tuo metu Burokų dvare, priklausančiame
-    J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo
-    Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė
-    tą
-    figūrą.
-    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
-    leidimą (PEĮ.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-170888
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 255"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 255."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nedailus, vos galima suprasti, jog tai raitelis su sakalu. Rai- 32
     32 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs Vil­
@@ -176,16 +124,15 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187906
     - t-187905
+    - t-187906
     - t-188519
     - t-194698
 
 - id: c-173731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 491"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
     Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu

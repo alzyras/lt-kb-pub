@@ -61,66 +61,13 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
   teiginys: "Narbutas aiškina, kad Autorius „judančios žemės sluoksnius“ sieja su naujais, giliais, vietomis vandens užtvindytais sluoksniais."
   pagrindžia:
     - c-175109
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    paprastai iš sienito arba granito, didesnio dydžio — šias
-    uolienos pačios patvariausios ir labiausiai paplitusios kal­
-    nuose.
-    Vis dėlto ne vien tik uolieną kruša krito į žemę; turė­
-    jo būti sujudinti arba išplauti iš Baltijos jūros ir judan­
-    čios žemės sluoksniai, nes randama ir akmenų, užpustytų
-    judančios žemės sluoksnių.
-    Taigi, kai savo jaunystės epochoje gamta formavo Že­
-    mės lukštą, galėjo atsitikti ir taip, jog vandenyje arba
-    ore įvyko tam tikrų sukrėtimų, eksplozijų (visiškai ne\vul-
-    kaninio pobūdžio, nes tokio padavimo pėdsakų nėra), to­
-    kių stiprių ir tokių staigių, jog sustingę uolienų luitai
-    buvo suskaldyti į gabalus ir išmesti į nepaprastą aukštį,
-    iš šiaurės į pietus; be to, dviejose juostose — Suomių
-    įlankos ir Bornholmo salos lygiagretės kryptimi, t. y. ker­
-    tantys plačią Baltijos jūros dalį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Todėl apsiribosi­
-    me vien bendro pobūdžio pastabomis, t. y. tik hipotezė­
-    mis, dėl kokių priežasčių ir kaip tai galėjo įvykti. Vieni
-    mano, jog kažkokia žemės planeta, t. y. žemės palydovas,
-    trenkėsi į tą šiaurės vakarų okeano dalį, kur dabar yra
-    Norvegija, Švedija ir Suomija: šių šalių kalnai yra visiš­
-    kai tokios pat prigimties. Taip ir susidarė toji sausuma, o
-    toliau, į pietus nuo Baltijos krantų (vandenyno dalyje,
-    kuri dar buvo neužberta), pakilo tik tų nuolaužų purslai,
-    kurie buvo atnešti kartu su vandeniu; taip susidarė nauji,
-    gilūs, kai kur vandens užtvindyti judančios žemės sluoks­
-    niai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
 - id: c-175108
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 402"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 402."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     paprastai iš sienito arba granito, didesnio dydžio — šias
     uolienos pačios patvariausios ir labiausiai paplitusios kal­
@@ -150,8 +97,7 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
 - id: c-175109
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 400"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 400."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Todėl apsiribosi­
     me vien bendro pobūdžio pastabomis, t. y. tik hipotezė­

@@ -54,27 +54,6 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - susijęs iš [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais.md#claim-t-93034|Kreipimasis į Vytautą svarbiausiais reikalais]]: Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo arba paramos.
 - susijęs iš Mozūrija: Gediminas laiškuose į Lietuvą kviečiamiems vakarų svetimšaliams rekomendavo kelią per Mozūriją.
 - susijęs iš [[objektai/zodynas/pakancleris.md#claim-t-70260|pakancleris]]: Lenkų karūnos pakancleriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami jo patarimo ir paramos.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Gediminas išleido dukterį už Płocko Vankos ir į Lietuvą kviečiamiems vakariečiams rekomendavo kelią per Mozūriją.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su
-    Mozurija. Išleidęs savo dukterį už Płocko «Vankos », Gediminas
-    ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams
-    rekomendavo kelią per Mozūriją. Jo 1325 m. sutartis buvo pir­
-    masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­
-    čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
-    mečio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-34018

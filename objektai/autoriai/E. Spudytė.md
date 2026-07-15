@@ -44,21 +44,6 @@ Spudytė.
   teiginys: "E. Spudytė sudarė 2007 m. Vilniuje išleistą leidinį „Žemaičių muziejus Alka“."
   pagrindžia:
     - c-75386
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'E. Spudytė sudarė 2007 m. Vilniuje išleistą leidinį „Žemaičių muziejus Alka“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius, 2000; Žemaičių muziejus Alka. Sud.
-    E. Spudytė. Vilnius, 2007.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

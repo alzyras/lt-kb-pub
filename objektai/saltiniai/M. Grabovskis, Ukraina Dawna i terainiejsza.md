@@ -30,7 +30,7 @@ media_all_json: |-
 
 ## Santrauka
 
-M. Grabovskio „Ukraina Dawna i terainiejsza“ pirmasis tomas Teodoro Narbuto nuorodoje siejamas su 1850 m. leidimu.
+M. Grabovskio „Ukraina Dawna i terainiejsza“ pirmasis tomas Teodoro Narbuto nuorodoje siejamas su 1850 m. leidimu. Ponas Adomas Kirkoras kasinėjo Lydos apskri tyje, prie Ogrodnikų kaimo, greta iždui priklausančio Ka 1 Ukraina Dawna i terainiejsza.
 
 ## Teiginiai
 
@@ -40,37 +40,32 @@ M. Grabovskio „Ukraina Dawna i terainiejsza“ pirmasis tomas Teodoro Narbuto 
   teiginys: "M. Grabovskio „Ukraina Dawna i terainiejsza“ pirmasis tomas Teodoro Narbuto nuorodoje siejamas su 1850 m. leidimu."
   pagrindžia:
     - c-174675
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'M. Grabovskio „Ukraina Dawna i terainiejsza“ pirmasis tomas Teodoro Narbuto nuorodoje siejamas su 1850 m. leidimu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ponas Adomas Kirkoras kasinėjo Lydos apskri­
-    tyje, prie Ogrodnikų kaimo, greta iždui priklausančio Ka­
-    1 Ukraina Dawna i terainiejsza. 1850. T. 1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197681"></a>
+- t-002
+  global_id: t-197681
+  teiginys: "Ponas Adomas Kirkoras kasinėjo Lydos apskri tyje, prie Ogrodnikų kaimo, greta iždui priklausančio Ka 1 Ukraina Dawna i terainiejsza."
   pagrindžia:
-    - t-001
+    - c-174675
 
 ## Citatos
 
 - id: c-174675
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 385"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 385."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ponas Adomas Kirkoras kasinėjo Lydos apskri­
+    Kurše, Infliantuose ir
+    Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­
+    sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
+    čius3. Visiškai gali būti, jog tokie paminklai Lietuvoje yra
+    retenybė. Ponas Adomas Kirkoras kasinėjo Lydos apskri­
     tyje, prie Ogrodnikų kaimo, greta iždui priklausančio Ka­
-    1 Ukraina Dawna i terainiejsza. 1850. T. 1.
+    1 Ukraina Dawna i terainiejsza.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191793
+    - t-197681

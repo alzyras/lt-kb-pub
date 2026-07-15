@@ -35,25 +35,6 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
   teiginys: "Kunigaikštis Zubovas pradėjo tvarkyti Raudonę, norėdamas grąžinti jai senovinį gotikinį vaizdą, bet mirė darbų nebaigęs."
   pagrindžia:
     - c-82816
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kunigaikštis Zubovas pradėjo tvarkyti Raudonę, norėdamas grąžinti jai senovinį gotikinį vaizdą, bet mirė darbų nebaigęs.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Po to ji perėjo Olendzkių nuosavybėn, jie
-    čia gyveno apie 30 metų. Pagaliau kunigaikštis Zubovas, ku­
-    rio ainiai dabar yra Raudonės savininkai, pradėjo ją tvarky­
-    ti, norėdamas grąžinti senovinį gotikinį vaizdą, bet nebai­
-    gęs mirė. Dabar pilis stovi be stogo, be langų ir vis labiau
-    nyksta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

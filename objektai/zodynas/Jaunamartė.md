@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Jaunamartė
 sukurta: '2026-07-12'
 variantai:
-  - jaunamartė
-  - jaunamarčios
+  - 'jaunamartė'
+  - 'jaunamarčios'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -59,6 +59,7 @@ Terminas vartojamas rytmečio po vestuvių ir aprėdimo kontekste.
   teiginys: "Jaunamartė šiame šaltinyje žymima ištekėjusios moters apdaru."
   pagrindžia:
     - c-178033
+
 ## Citatos
 
 - id: c-178033

@@ -12,15 +12,15 @@ datos:
   - '2026 m.'
 date_start: '1259'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
   - miestelis
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -98,12 +98,11 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   pagrindžia:
     - c-171591
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97459|Kaributas]]: Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką.
-- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
-- susijęs iš [[objektai/asmenys/Barkus.md#claim-t-186097|Barkus]]: Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitijos dalį iki Kuršių įlankos.
+- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Kojelavičius rašo, kad Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97459|Kaributas]]: Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-12313|Laivai]]: 1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178928|Kryžiuočių ordinas]]: Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką.
-- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
+- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Kojelavičius rašo, kad Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko.
 - susijęs iš Georgenburgas: 1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą pilį Georgenburgą, tapatinamą su Jurbarku.
 - susijęs iš Kiduliai: Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, Narbutas mini labai seną mūro pilį.
@@ -137,60 +136,6 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-12313|Laivai]]: 1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.
 - susijęs iš [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis).md#claim-t-95965|Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]: Praėjus trims savaitėms po paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti atsiskyrimo nuo kryžiuočių planą.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Durbės mūšis (1260 m.) ir jo padariniai. Pasistatęs Klai-
-    pėdos pilį, Livonijos ordinas vėl ėmė pulti žemaičius. Po ilgų
-    kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259
-    m.), kurios žemaičiai taip pat neįstengė išgriauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet
-    dabar, po Durbės pralaimėjimo, jis buvo išvytas iš visos Žemai-
-    tijos. Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos
-    pilim jis jau nebeturėjo ryšio. Nustojęs vilties veikiai nuka-
-    riauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuo-
-    čiams (1328 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Seniau jos sudarė ketvirtainį, kampuose su­
-    tvirtintą bokštais, vienas jų, aukštesnis už kitus, stovi išlai­
-    kęs pirmapradį pavidalą. Dabar sienos ir trys kiti bokštai
-    gerokai apgriauti, ypač per pastaruosius dvidešimt metų, o
-    šiuo metu netgi nedraudžiama plytas rinkti ir pardavinėti į
-    Jurbarką krosnims ir dūmtraukiams mūryti. Viena siena iš
-    vakarų pusės jau seniai buvo nugriauta, kad atsivertų vaiz­
-    das į Nemuną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-003
-
 - c-004
   santrauka: 'Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -244,22 +189,6 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-
-- c-006
-  santrauka: 'Narbutas Veliuoną apibūdino kaip menką miestelį dešiniajame Nemuno krante, esantį penkios mylios nuo Jurbarko.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Skaityk žemiau atitinkamus straipsnius.
-    Ji turėjo savo šventyklą vietovėje, kuri iki šiol tebesivadina
-    Veliuona (Wellona). Dabar tai menkas miestelis dešiniajame
-    Nemuno krante, penkios mylios iki Jurbarko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
 
 ## Citatos
 
@@ -318,36 +247,33 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83428
     - t-83426
+    - t-83428
 
 - id: c-168326
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vis dėlto, kai, pilyje užkūrus laužą ir šitaip
-    7*
-    195
-
-    ## Puslapis 194
-
-    padavus pavojaus ženklą, kaimynai įspėti šoko gink­
-    luotis, magistras turėjo palikti pilį ramybėje. Nebetoli
+    Nebetoli
     su kariuomene buvo ir Gediminas, įrengęs stovyklą
     tarp Jurbarko ir Kauno. Tai šen, tai ten liepsnojo prie­
     šo padegti kaimai, kylantys
     G ed im in a s
     su m u ša
     dūmai žadino skausmą, o
-    k ry ž iu o č iu s  ir a tim a
+    k ry ž iu o č iu s ir a tim a
     skausmas — drąsą, tačiau ap-
-    iš jų  Ž e m a itiją
+    iš jų Ž e m a itiją
     dairiam
     kunigaikščiui
     tuo
     tarpu daugiau rūpėjo, kieno
-    pusėje jėgų persvara.
+    pusėje jėgų persvara. Jis kol kas turėjo nedidelę ka­
+    riuomenę, laukė pagrindinių dalinių, kurie su naugar-
+    dukiečiais ir polockiečiais, atėjusiais į pagalbą, turėjo
+    už dienos ar kitos pasirodyti.
+  citata_rodoma: "Vis dėlto, kai, pilyje užkūrus laužą ir šitaip\n7*\n195\n\n## Puslapis 194\n\npadavus pavojaus ženklą, kaimynai įspėti šoko gink­\nluotis, magistras turėjo palikti pilį ramybėje. Nebetoli\nsu kariuomene buvo ir Gediminas, įrengęs stovyklą\ntarp Jurbarko ir Kauno. Tai šen, tai ten liepsnojo prie­\nšo padegti kaimai, kylantys\nG ed im in a s\nsu m u ša\ndūmai žadino skausmą, o\nk ry ž iu o č iu s  ir a tim a\nskausmas — drąsą, tačiau ap-\niš jų  Ž e m a itiją\ndairiam\nkunigaikščiui\ntuo\ntarpu daugiau rūpėjo, kieno\npusėje jėgų persvara."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -360,14 +286,14 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
-    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
-    125
-
-    ## Puslapis 125
-
-    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
-    nedailaus, bet labai patvaraus gipso.
+    Malone brangiu del žmonių:
+    Ture auxin kajb irplite,
+    Ture pilnu rugiu kloniu,
+    Garbe ture manip mundu9.
+    Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
+    rųjų reiškia storulį, perkeltine prasme - turčių. Iš čia Pilwitos,
+    kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę.
+  citata_rodoma: "Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­\nme, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­\n125\n\n## Puslapis 125\n\nko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš\nnedailaus, bet labai patvaraus gipso."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -378,8 +304,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - id: c-171591
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Skaityk žemiau atitinkamus straipsnius.
     Ji turėjo savo šventyklą vietovėje, kuri iki šiol tebesivadina

@@ -61,75 +61,15 @@ Nenurodyta
   pagrindžia:
     - c-43110
 
-<a id="claim-t-66850"></a>
+<a id="claim-t-66849"></a>
 - t-002
-  global_id: t-66850
-  teiginys: "1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio."
-  pagrindžia:
-    - c-43111
-
-<a id="claim-t-66850"></a>
-- t-003
-  global_id: t-66850
+  global_id: t-66849
   teiginys: "1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio."
   pagrindžia:
     - c-43111
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
 - susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49402|K. Škirpa]]: K. Škirpa vadovavo Vilniaus batalionui, kuriam buvo įsakyta saugoti Paltynų-Žaiginio barą iki 1919 m.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1919 m. lapkričio 20 d. fronto vadas pulkininkas leitenantas Kazys Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšis
-    1919 m. lapkričio 20 d. fronto vadas
-    plk. ltn. K. Ladyga įsakė pradėti puolimą
-    Radviliškio-Šiaulių kryptimi. Pirmiausiai
-    numatyta užimti Radviliškį, kuriame buvo
-    įsitvirtinę apie 800 labai gerai ginkluotų
-    bermontininkų, jie Radviliškyje turėjo
-    apie 10-12 patrankų, daugybę kulkosvai-
-    džių, minosvaidžių ir bombosvaidžių. Pulti
-    Radviliškį turėjo 2-asis pėst. pulkas, ku-
-    riame tuo metu buvo 39 karininkai, 2 gydy-
-    tojai, 10 karo valdininkų ir 2192 kareiviai.
-    Pulkas puolė išsirikiavęs į tris batalionų
-    kolonas. Tikėtasi, kad bermontininkai bus
-    priversti greitai palikti pozicijas ir trauktis.
-    Tačiau šis puolimas nepavyko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Užvirė jami bermontininkai
-    ypač atkaklios kautynės,
-
-    Tą pačią lapkričio 22 dieną Panevė-
-
-    žio batalionas išmušė bermontininkus
-
-    iš Meškuičių, Vilniaus batalionas iš
-    Pašiaušės ir iš Padubysio. Lapkričio 27 d.
-    lietuviai atsiėmė Joniškį. Plk. Bermontas
-    buvo priverstas kapituliuoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-43110
@@ -182,4 +122,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66849
-    - t-66850

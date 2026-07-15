@@ -60,50 +60,6 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
   teiginys: "Atskiros Lietuvos karalijos projektas būtų panaikinęs inkorporacijos klausimą, nes karūna su karūna negalėjo būti sujungta."
   pagrindžia:
     - c-38386
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    O jei Vytautas pats vienas,
-    be Jogailos, būtų apsikarūnavęs ir paskyręs savo nuožiūra sau
-    įpėdinį, tad aišku, Jogaila ir jo vaikai nebūtų turėję jokių teisių
-    į Lietuvos sostą. Jogaila pastaruoju projektu, jei būtų jis įvy­
-    kęs, kaip tik būtų apsaugojęs savo dinastijai Lietuvos sostą. Tas
-    projektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­
-    tuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­
-    bės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų
-    nebegalėję būti, nes karūna su karūna negali bū­
-    ti sujungta — inkorporuota^3 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Atskiros Lietuvos karalijos projektas būtų panaikinęs inkorporacijos klausimą, nes karūna su karūna negalėjo būti sujungta.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogaila pastaruoju projektu, jei būtų jis įvy­
-    kęs, kaip tik būtų apsaugojęs savo dinastijai Lietuvos sostą. Tas
-    projektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­
-    tuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­
-    bės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų
-    nebegalėję būti, nes karūna su karūna negali bū­
-    ti sujungta — inkorporuota^3 ). Be to, Jogaila labai
-    gerai suprato, kad laisva ir paveldima Lietuvos karalija
-    būtų buvusi tikra garantija tvirtai laikytis Lenkijoj ir ją valdyt,
-    išlaikant dinastijos teises savo rankose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

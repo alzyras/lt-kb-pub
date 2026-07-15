@@ -39,21 +39,6 @@ Lazutka, E.
 - susijęs iš Šiaulių ekonomija: R. Marčėnas 1969 m. paskelbė darbą apie Šiaulių ekonomijos valstiečių sukilimą 1769 m.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179538|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Dundulienė, R. Marčėnas ir A. Makarevičius rašė apie žemdirbystės istoriją Lietuvoje ir ekonomikos klausimus.
 - susijęs iš [[objektai/autoriai/P. Dundulienė.md#claim-t-30896|P. Dundulienė]]: P. Dundulienė rašė Lietuvos žemdirbystės istorijos klausimais ir 1963 m. paskelbė veikalą „Žemdirbystė Lietuvoje“.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kraków, 1989; Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos
-    nuorašų faksimilės. Parengė S. Lazutka, E. Gudavičius. T. 1, d. 2. Vilnius, 1985; E. Rimša.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22189

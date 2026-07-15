@@ -35,33 +35,6 @@ Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyz
   teiginys: "Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyzdžiu kitiems?"
   pagrindžia:
     - c-83903
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    „Taip
-    pat žemaičių - lietuvių literatūrai nusipelnė savo paskutiniais
-    XIV
-
-    ## Puslapis 15
-
-    darbais kunigai Tatarė, Rajūnas, Kitkevičius, Žemaičių kated­
-    ros prelatas Kasakauskis; švento atminimo kunigas Čerskis, Ju-
-    zumavičius, Žemaitijos Deotimos brolis kunigas Praniauskas ir
-    1.1. Labai verta būtų paminėti paminėti taip rūpestingai besisu­
-    kinėjantį savo darbuose neseniai mirusį a. a. Mykolą Gadoną - ar
-    jis nevertas būti pavyzdžiu kitiems? Kiek man žinoma, prie jų
-    galima priskirti prelatą Smigielskį, poną Prekerį, buvusį mar­
-    šalką Bušinskį, Kontrimą, Rogalskį, Gorskį, Dimšą, Pšeciševskį,
-    M. Akelaitį ir 1.1. "13.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

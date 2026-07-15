@@ -45,9 +45,9 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   pagrindžia:
     - c-26782
 
-<a id="claim-t-101596"></a>
+<a id="claim-t-101593"></a>
 - t-002
-  global_id: t-101596
+  global_id: t-101593
   teiginys: "Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija."
   pagrindžia:
     - c-26890
@@ -56,20 +56,6 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - t-003
   global_id: t-101594
   teiginys: "Lietuvos pagonybės vertinimai buvo ginčytini dėl romantinio aukso amžiaus mito ir skurdžios istorijos šaltinių informacijos priešpriešos."
-  pagrindžia:
-    - c-26890
-
-<a id="claim-t-101596"></a>
-- t-004
-  global_id: t-101596
-  teiginys: "Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija."
-  pagrindžia:
-    - c-26890
-
-<a id="claim-t-101596"></a>
-- t-005
-  global_id: t-101596
-  teiginys: "Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija."
   pagrindžia:
     - c-26890
 - susijęs iš [[objektai/paprociai/Daugelio dievų garbinimas ir Perkūno šlovinimas amžinąja ugnimi.md#claim-t-185914|Daugelio dievų garbinimas ir Perkūno šlovinimas amžinąja ugnimi]]: Lietuvos krikšto aprašyme bajorų ir kunigaikščių pagonybė siejama su daugelio dievų garbinimu ir Perkūno šlovinimu amžinąja ugnimi.
@@ -88,49 +74,6 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - susijęs iš [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija.md#claim-t-65773|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]: Knygos antrasis leidimas 2013 m. išleistas Lietuvos Respublikos užsienio reikalų ministerijos užsakymu.
 - susijęs iš Romuva: Romuva šaltiniuose minima kaip Nadruvoje esanti šventykla su kriviu.
 - susijęs iš [[objektai/zodynas/žyniai vaidilos raganos.md#claim-t-183487|žyniai vaidilos raganos]]: „Pirmines“ šventvietes turėjo sergėti žyniai, vaidilos arba raganos.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kitų valstybių valdovai
-    šiam reikalui pasitelkė krikščionybę. Iš mūsų pagonių valdovų laikysenos
-    galima suprasti, kad pagonybė jiems buvo lygiavertė krikščionybei. Tai-
-    gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
-    institucine religija procesą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1 skyrius •  S E N O J I  L I E T U VA
-    23
-    Pagonybė ir Lietuvos vardo paminėjimas
-    1009 metais
-    Daugiausia ginčytinų teiginių ir vertinimų yra pasaky-
-    ta Lietuvos pagonybės tema. Taip atsitiko dėl prieštaros tarp pirmojoje
-    XIX a. pusėje sukurto pagoniškos epochos kaip lietuvių aukso amžiaus
-    mito ir istorijos šaltinių teikiamos informacijos skurdumo. Romantikai
-    ieškojo antropomorfinių dievų įvaizdžių, stabų, rašto, žynių, šventyklų,
-    taigi siekė rasti tai, kas būdinga ikikrikščioniškai Romai ar graikų ir ro-
-    mėnų religinėms sistemoms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
-    - t-003
-    - t-005
-
 ## Citatos
 
 - id: c-26782
@@ -172,7 +115,5 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101595
     - t-101593
     - t-101594
-    - t-101596

@@ -56,8 +56,8 @@ Nenurodyta
   teiginys: "Narbutas cituoja pasakojimą, kad oonai, vadinami kiaušinėdžiais, mito vandens paukščių kiaušiniais ir avižomis."
   pagrindžia:
     - c-175795
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas cituoja pasakojimą, kad oonai, vadinami kiaušinėdžiais, mito vandens paukščių kiaušiniais ir avižomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -80,14 +80,19 @@ Nenurodyta
 - id: c-175795
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 173"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 173."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Gal jis kalba apie Gdans­
-    ko Zulavas. Jis rašo: „Ten gyvena oonai (kiaušinėdžiai),
-    kurie minta vandens paukščių kiaušiniais ir avižomis“.
-    Tai tiesa, nes ir dabar Suomijos ir Lapijos jūros pakran­
-    čių gyventojai taip apsirūpina maistu.
+    „Yra dar hipopodų
+    su arklių kojomis ir satmalių su neapsakomai didelėmis
+    ausimis, kuriomis gali apsigobti visą savo kūną, ir jiems
+    nebereikia jokių drabužių; beje, tai gali būti pasakos, ¡bet
+    taip rašo autoriai, verti pasitikėjimo“5. Tai — pasakojimai
+    keliautojų, kurių vaizduotė, kaip pasitaikydavo ir mūsų
+    amžiais, tinkamai nepažintus dalykus nepaprastai padidin­
+    davo. Gal koks romėnų jūrų keliautojas iš laivo išvydo
+    pakrante vaikštinėjančius žmones aptemptomis šiaurinio
+    1 Pomponius Mela.
+  citata_rodoma: "Gal jis kalba apie Gdans­\nko Zulavas. Jis rašo: „Ten gyvena oonai (kiaušinėdžiai),\nkurie minta vandens paukščių kiaušiniais ir avižomis“.\nTai tiesa, nes ir dabar Suomijos ir Lapijos jūros pakran­\nčių gyventojai taip apsirūpina maistu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

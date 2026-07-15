@@ -40,26 +40,6 @@ media_all_json: |-
   teiginys: "Informacinio bloko „Lietuvos lengvoji ir vidutinė kavalerija“ autore nurodyta Lina Vidauskytė."
   pagrindžia:
     - c-77411
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Informacinio bloko „Lietuvos lengvoji ir vidutinė kavalerija“ autore nurodyta Lina Vidauskytė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    LIETUVOS ATSIKŪRIMAS
-    P. 239, AT rūmų gynybos ruožai 1991 m. sausio-rugpjūčio mėnesiais, Albertas Daugirdas,
-    Karolis Zikaras, Loreta Uzdraitė.
-
-    NUOPUOLIS IR KOVA DĖL LAISVĖS
-
-    P. 138, „LIETUVOS LENGVOJI IR VIDUTINE KAVALERIJA“, Lina Vidauskytė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

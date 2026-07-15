@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Pranciškonų bažnyčia ir vienuolynas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -35,21 +36,13 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
   teiginys: "Pranciškonų bažnyčios ir vienuolyno vietoje seniau buvo Goštauto dvaras."
   pagrindžia:
     - c-82207
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Pranciškonų bažnyčios ir vienuolyno vietoje seniau buvo Goštauto dvaras.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    11. Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
-    12. Šv. Mikalojaus bažnyčia ir kapinės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-200781"></a>
+- t-002
+  global_id: t-200781
+  teiginys: "Didžioji Pranciškonų bažnyčia prie Trakų gatvės minima tarp dviejų seniausių iki šiol išlikusių Vilniaus bažnyčių."
   pagrindžia:
-    - t-001
+    - c-184126
 
 ## Citatos
 
@@ -66,3 +59,21 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86228
+
+- id: c-184126
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 16."
+  citata_originali: |
+    Maždaug iš to pat laiko yra ir dviejų seniausių iki šiol išlikusių Vilniaus
+    bažnyčių architektūra — Didžiosios Pranciškonų (prie Trakų gatvės) ir
+    Mažosios Pranciškonų, kuri daugiau yra žinoma šv. Mikalojaus bažnyčios
+    vardu. Čia jau galima kalbėti apie meninę formą ir apie architektūrinį
+    stilių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200781

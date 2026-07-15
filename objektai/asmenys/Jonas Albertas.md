@@ -34,122 +34,35 @@ media_all_json: |-
 
 ## Santrauka
 
-Jonas Albertas užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvyko su visais savo žmonėmis, ir su turkais, ir su vengrais, ir su valachais, ir tuose miškuose bei bukynuose užpuolė karalių Olbrachtą bei jo kariuomenę , daugelį iš jo kariuomenės nukovė, o kitus paėmė gyvus; atėmė daug gurguolių su dideliu turtu ir kelias garsias patrankas, o pačiam karaliui Olbrachtui ir daugeliui jo ponų bei karių nieko nepakenkė. Kazimiero Jogallaičio trečiasis sūnus Jonas Albertas, vadin tas Olbrachtu.
+Jonas Albertas, vadintas Olbrachtu, buvo trečiasis Kazimiero Jogailaičio sūnus ir gimė 1459 m. gruodžio 27 d. Krokuvoje.
 
 ## Teiginiai
 
-<a id="claim-t-194090"></a>
-- t-001
-  global_id: t-194090
-  teiginys: "Jonas Albertas užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvyko su visais savo žmonėmis, ir su turkais, ir su vengrais, ir su valachais, ir tuose miškuose bei bukynuose užpuolė karalių Olbrachtą bei jo kariuomenę , daugelį iš jo kariuomenės nukovė, o kitus paėmė gyvus; atėmė daug gurguolių su dideliu turtu ir kelias garsias patrankas, o pačiam karaliui Olbrachtui ir daugeliui jo ponų bei karių nieko nepakenkė."
-  pagrindžia:
-    - c-176703
-
 <a id="claim-t-194091"></a>
-- t-002
+- t-001
   global_id: t-194091
-  teiginys: "Kazimiero Jogallaičio trečiasis sūnus Jonas Albertas, vadin tas Olbrachtu."
+  teiginys: "Jonas Albertas, vadintas Olbrachtu, buvo trečiasis Kazimiero Jogailaičio sūnus ir gimė 1459 m. gruodžio 27 d. Krokuvoje."
   pagrindžia:
     - c-176704
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jonas Albertas užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvyko su visais savo žmonėmis, ir su turkais, ir su vengrais, ir su valachais, ir tuose miškuose bei bukynuose užpuolė karalių Olbrachtą bei jo kariuomenę , daugelį iš jo kariuomenės nukovė, o kitus paėmė gyvus; atėmė daug gurguolių su dideliu turtu ir kelias garsias patrankas, o pačiam karaliui Olbrachtui ir daugeliui jo ponų bei karių nieko nepakenkė.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O šie tuoj pat atsiuntė jam kelis tūkstančius ka­
-    riuomenės, ir pats susitvarkė bei pasiruošė su visais
-    153
-
-    ## Puslapis 149
-
-    savo žmonėmis — raiteliais ir pėstininkais. Ir kai ka­
-    ralius Olbrachtas su visa kariuomene jau buvo Buko­
-    vinoje ir žygiavo be baimės dėl sudarytos amžinosios
-    taikos ir priesaikos, nesitikėdamas iš niekur smūgio,
-    tuo metu Moldavijos vaivadai Steponui labai skaudėjo
-    kojos, bet, norėdamas įvykdyti savo sumanymą, jis
-    užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvy­
-    ko su visais savo žmonėmis, ir su turkais, ir su veng­
-    rais, ir su valachais, ir tuose miškuose bei bukynuose
-    užpuolė karalių Olbrachtą bei jo kariuomenę* * , dau­
-    gelį iš jo kariuomenės nukovė, o kitus paėmė gyvus;
-    atėmė daug gurguolių su dideliu turtu ir kelias garsias
-    patrankas, o pačiam karaliui Olbrachtui ir daugeliui
-    jo ponų bei karių nieko nepakenkė.
-    Kai karalius perėjo miškus ir Bukoviną, Moldavijos
-    vaivada su visais savo žmonėmis pasuko atgalios.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kazimiero Jogallaičio trečiasis sūnus Jonas Albertas, vadin tas Olbrachtu.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    8 Kazimiero Jogallaičio trečiasis sūnus Jonas Albertas, vadin­
-    tas Olbrachtu. buvo vyresnis už brolį Aleksandra dviem  metais:
-    gimė I459.XI1.27 Krokuvoje. Tėvui mirštant, po nesėkmingos kovos
-    su broliu Vladislovu dėl Vengrijos sosto (1490—1492) buvo
-    Liubline.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
-
-- id: c-176703
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    O šie tuoj pat atsiuntė jam kelis tūkstančius ka­
-    riuomenės, ir pats susitvarkė bei pasiruošė su visais
-    153
-
-    ## Puslapis 149
-
-    savo žmonėmis — raiteliais ir pėstininkais. Ir kai ka­
-    ralius Olbrachtas su visa kariuomene jau buvo Buko­
-    vinoje ir žygiavo be baimės dėl sudarytos amžinosios
-    taikos ir priesaikos, nesitikėdamas iš niekur smūgio,
-    tuo metu Moldavijos vaivadai Steponui labai skaudėjo
-    kojos, bet, norėdamas įvykdyti savo sumanymą, jis
-    užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvy­
-    ko su visais savo žmonėmis, ir su turkais, ir su veng­
-    rais, ir su valachais, ir tuose miškuose bei bukynuose
-    užpuolė karalių Olbrachtą bei jo kariuomenę* * , dau­
-    gelį iš jo kariuomenės nukovė, o kitus paėmė gyvus;
-    atėmė daug gurguolių su dideliu turtu ir kelias garsias
-    patrankas, o pačiam karaliui Olbrachtui ir daugeliui
-    jo ponų bei karių nieko nepakenkė.
-    Kai karalius perėjo miškus ir Bukoviną, Moldavijos
-    vaivada su visais savo žmonėmis pasuko atgalios.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194090
 
 - id: c-176704
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 304"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 304."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     8 Kazimiero Jogallaičio trečiasis sūnus Jonas Albertas, vadin­
-    tas Olbrachtu. buvo vyresnis už brolį Aleksandra dviem  metais:
+    tas Olbrachtu. buvo vyresnis už brolį Aleksandra dviem metais:
     gimė I459.XI1.27 Krokuvoje. Tėvui mirštant, po nesėkmingos kovos
-    su broliu Vladislovu dėl Vengrijos sosto (1490—1492) buvo
+    su
+    broliu
+    Vladislovu
+    dėl
+    Vengrijos
+    sosto
+    (1490—1492)
+    buvo
     Liubline.
   statusas: verified
   teiginio_tipas: faktas

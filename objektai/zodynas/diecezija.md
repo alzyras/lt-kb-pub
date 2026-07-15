@@ -59,55 +59,6 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
     - c-175042
 - susijęs iš [[objektai/asmenys/Lizdeika.md#claim-t-187902|Lizdeika]]: Lizdeika padavimuose vaizduojamas kaip nuo katedros varpinės Vilniaus pagonims skelbęs geras ar blogas pranašystes.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iškilmingai,
-    dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
-    ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė
-    Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais
-    rykais ir visokia manta. Lenkų didžponiams patarus, pir­
-    muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­
-    rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš
-    Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­
-    nuolį, Cereto vyskupą, kadaise Vengrijos karalienės Elžbie­
-    tos nuodėmklausį, pavyzdingą vyrą ir garsų pamokslinin­
-    ką9. O keturi naujai įvesti prelatų ir aštuoni kanauninkų
-    titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­
-    tiems Lietuvoje Kristaus tikėjimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Karalius tuoj pat
-    aprūpino ją nemenkomis pajamomis: be turtingos Klodovo
-    klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam
-    bet ir kai kuriais padavimais ar
-    užuominomis, kurias aptikau Vil­
-    niaus kapitulos ar Karaliauč. slapt.
-    archyvo dokumentuose.
-    8
-    Katedra pastatyta Švč. Trejybės ir
-    Dievo Motinos Švč. Mergelės Mari­
-    jos garbei, tačiau pašvęsta ypačiai
-    šv. Stanislovui, kankiniui ir vysku­
-    pui bei šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -188,11 +139,9 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 - id: c-175043
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 315"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    atsiuntė pasiuntinius, kurie, linkėdami laimės, buvo slap­
-    ta įpareigoti susipažinti su padėtimi Italijoje. Odoakras,
+    Odoakras,
     kuriam buvo gerai žinoma Rytų imperatoriaus mintys ir
     ketinimai, nutarė, jog, atsižvelgiant į jo padėtį, dera pa­
     rodyti tam tikrą paklusnumą Zenonui. Dėl to Romos se­
@@ -201,12 +150,16 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
     čiausio rango pareigūnas yra Rytų imperijoje; imperato­
     rius gali drąsiai pasikliauti dora ir karingumu Odoakro
     kaip patricijaus, kuriam jis teikiasi patikėti valdžią italų
-    diecezijoje.
+    diecezijoje. Su šia delegacija Odoakras nusiuntė savo pa­
+    siuntinius, kurie, demonstruodami nuolankumą, turėjo
+    prašyti patvirtinti senato reikalavimus. Taip pat atvyko
+    ir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­
+    tas jų imperatoriaus titulas.
   citata_rodoma: "Dėl to Romos se-\nnatas nusiuntė į Konstantinopolį pasiuntinius, pranešda-\nmas, jog nereikia skelbti imperatorių Romoje, nes auk-\nščiausio rango pareigūnas yra Rytų imperijoje; imperato-\nrius gali drąsiai pasikliauti dora ir karingumu Odoakro\nkaip patricijaus, kuriam jis teikiasi patikėti valdžią italų\ndiecezijoje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192166
     - t-192165
+    - t-192166

@@ -57,29 +57,6 @@ Nenurodyta
   teiginys: "Rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“, kurį redagavo Romualdas Ozolas."
   pagrindžia:
     - c-26620
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LKP vadovybei Aleksan-
-    dras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, –
-    partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, ofici-
-    aliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio
-    parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
-    leisti laikraštį ir nuolatinę televizijos laidą. LPS tapo dar populiaresnis,
-    kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti
-    laikraštis „Atgimimas“ (red. Romualdas Ozolas).
-    LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi
-    iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-
-    ciatyvinės grupės nariai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -43,23 +43,6 @@ media_all_json: |-
   teiginys: "Vytautas maršalkai pareiškė, kad piktuoju iš jo dar niekas nieko nelaimėjo ir kad savo nusistatymo jis nekeičia."
   pagrindžia:
     - c-00372
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytautas supykęs atrėžė:
-    — Maršalka, tu labai gerai žinai, kad piktuoju iš ma-
-    nęs dar niekas nieko nelaimėjo. Kas manęs ne-
-    gerbia, to nevertinu nė aš. Savo nusistatymo aš nekei-
-    čiu, ir niekas negali manęs priversti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

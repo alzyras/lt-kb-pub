@@ -9,12 +9,12 @@ datos:
   - '1900 m.'
 date_start: '1801'
 date_end: '1900'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,8 @@ Dusburgietis teigia, kad wattenbach W.
   teiginys: "W. Wattenbacho „Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts“ antras tomas išleistas Berlyne 1886 m."
   pagrindžia:
     - c-61995
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'W. Wattenbacho „Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts“ antras tomas išleistas Berlyne 1886 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,11 +63,13 @@ Dusburgietis teigia, kad wattenbach W.
 - id: c-61995
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des
-    dreizehnten Jahrhunderts, Bd. 2,—Berlin, 1886.
+    — Труды IX археологического
+    съезда в Вильне 1893, М., 1895, r. 1, с. 246—259.
+    Мержинский А. Ф. Ромове: Археологическое исследование (из Трудов X
+    археологического съезда.
+  citata_rodoma: "Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des\ndreizehnten Jahrhunderts, Bd. 2,—Berlin, 1886."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

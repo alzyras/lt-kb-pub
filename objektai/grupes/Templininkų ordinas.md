@@ -48,27 +48,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginys: "Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams."
   pagrindžia:
     - c-71046
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš pradžių tokios brolijos
-    globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
-    kelyje. Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
-    turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
-    virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
-    ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
-    vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

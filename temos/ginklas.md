@@ -6,7 +6,7 @@ tema_kategorija: "daiktai"
 tema_kategorijos_pavadinimas: "Daiktai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 118
+tema_objektu_skaicius: 123
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 118.
+Objektų skaičius: 123.
 
 ## Kaip naudoti
 
@@ -24,6 +24,9 @@ Objektų skaičius: 118.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Konradas Žakas]]
 
 ### Daiktai
 - [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka]]
@@ -50,7 +53,7 @@ Objektų skaičius: 118.
 - [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai]]
 - [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
-- [[objektai/daiktai/Halka]]
+- [Halka](../objektai/daiktai/Halka)
 - [Ietis](../objektai/daiktai/Ietis)
 - [Ietys](../objektai/daiktai/Ietys)
 - [Iž-17 medžioklinis šautuvas](../objektai/daiktai/I%C5%BE-17%20med%C5%BEioklinis%20%C5%A1autuvas)
@@ -139,8 +142,16 @@ Objektų skaičius: 118.
 - [Šarvai](../objektai/daiktai/%C5%A0arvai)
 - [Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos](../objektai/daiktai/%C5%A0arvini%C5%B3%20pir%C5%A1tini%C5%B3%2C%20%C5%BEasto%2C%20dilbio%2C%20kelio%20ir%20blauzdos%20apsaugos)
 - [Šarvuotasis traukinys Gediminas](../objektai/daiktai/%C5%A0arvuotasis%20traukinys%20Gediminas)
-- [Šautuvai](../objektai/daiktai/%C5%A0autuvai)
 - [Šilko rietimai](../objektai/daiktai/%C5%A0ilko%20rietimai)
 - [Šobliai](../objektai/daiktai/%C5%A0obliai)
 - [Šv. Barboros relikvijos](../objektai/daiktai/%C5%A0v.%20Barboros%20relikvijos)
 - [Žasto, dilbio, kelio ir blauzdos apsaugos](../objektai/daiktai/%C5%BDasto%2C%20dilbio%2C%20kelio%20ir%20blauzdos%20apsaugos)
+
+### Posakiai
+- [Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis](../objektai/posakiai/J%C5%ABs%C5%B3%20dievai%20nori%2C%20kad%20be%20ginkl%C5%B3%2C%20be%20kalavij%C5%B3%20ir%20kit%C5%B3%20gynimosi%20priemoni%C5%B3%20kariautum%C4%97te%20su%20krik%C5%A1%C4%8Dionimis)
+- [Pergalės būdas tikriausias — kantrybė](../objektai/posakiai/Pergal%C4%97s%20b%C5%ABdas%20tikriausias%20%E2%80%94%20kantryb%C4%97)
+
+### Įvykiai
+- [Brolių išsigelbėjimas nuo planuotos išdavystės žygyje į Lietuvą (1292 m.)](../objektai/ivykiai/Broli%C5%B3%20i%C5%A1sigelb%C4%97jimas%20nuo%20planuotos%20i%C5%A1davyst%C4%97s%20%C5%BEygyje%20%C4%AF%20Lietuv%C4%85%20%281292%20m.%29)
+- [Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)](../objektai/ivykiai/Konrado%20%C5%A0tang%C4%97s%20prasiver%C5%BEimas%20pro%20Junigedos%20kariuomen%C4%99%20%281292%20m.%20liepos%2025%20d.%29)
+- [Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)](../objektai/ivykiai/Meiseno%20markos%20valdovo%20Ditricho%20%C5%BEygis%20%C4%AF%20Notang%C4%85%20%281272%20m.%29)

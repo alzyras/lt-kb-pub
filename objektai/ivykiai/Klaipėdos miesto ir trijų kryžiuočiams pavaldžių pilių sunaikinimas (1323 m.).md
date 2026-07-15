@@ -59,38 +59,13 @@ Nenurodyta
   teiginys: "1323 m. Žemaitijos lietuviai sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis."
   pagrindžia:
     - c-63649
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1323 m. Žemaitijos lietuviai sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
-    ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
-    žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu,
-    Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo
-    Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
-    priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
-    ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55. Tuo pat metu
-    „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias
-    pilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį
-    patraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo
-    pusėje56.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63649
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 14"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
     ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
@@ -101,7 +76,7 @@ Nenurodyta
     ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55. Tuo pat metu
     „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias
     pilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį
-    patraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo
+    patraukė į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta išlaikyti savo
     pusėje56.
   citata_rodoma: "XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama\nginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų\nžemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu,\nLietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo\nGardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje\npriklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos\nordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55. Tuo pat metu\n„Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias\npilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį\npatraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo\npusėje56."
   statusas: verified

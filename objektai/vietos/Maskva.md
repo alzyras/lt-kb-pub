@@ -22,6 +22,7 @@ datos:
   - '1428 m.'
   - '1430 m.'
   - '1494 m.'
+  - '1495 m.'
   - '1609 m.'
 date_start: '1349'
 date_end: '1609'
@@ -95,6 +96,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginys: "1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą."
   pagrindžia:
     - c-161575
+    - c-161563
 
 <a id="claim-t-177709"></a>
 - t-007
@@ -166,656 +168,592 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161629
 
-<a id="claim-t-177719"></a>
-- t-017
-  global_id: t-177719
-  teiginys: "1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą."
-  pagrindžia:
-    - c-161563
-
 <a id="claim-t-177720"></a>
-- t-018
+- t-017
   global_id: t-177720
   teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
   pagrindžia:
     - c-161622
 
 <a id="claim-t-177722"></a>
-- t-019
+- t-018
   global_id: t-177722
   teiginys: "Po caro Teodoro mirties Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta)."
   pagrindžia:
     - c-46614
 
 <a id="claim-t-177723"></a>
-- t-020
+- t-019
   global_id: t-177723
   teiginys: "Vytautas rytuose siekė valdyti arba stipriai paveikti Pskovą, Naugardą, Maskvą, Tverę, Riazanę ir totorius."
   pagrindžia:
     - c-37540
 
 <a id="claim-t-177724"></a>
-- t-021
+- t-020
   global_id: t-177724
   teiginys: "Tapęs savo duktėno globėju, Vytautas kartu tapo Maskvos kunigaikštijos protektoriumi."
   pagrindžia:
     - c-37537
 
 <a id="claim-t-177725"></a>
-- t-022
+- t-021
   global_id: t-177725
   teiginys: "Georgijaus Čičerino nota patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo."
   pagrindžia:
     - c-161567
 
 <a id="claim-t-177726"></a>
-- t-023
+- t-022
   global_id: t-177726
   teiginys: "1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos."
   pagrindžia:
     - c-161591
 
 <a id="claim-t-177727"></a>
-- t-024
+- t-023
   global_id: t-177727
   teiginys: "Maskva, siekdama sujungti visą Rusią, reiškė pretenzijas į Naugardo ir Pskovo respublikas."
   pagrindžia:
     - c-161636
 
 <a id="claim-t-177732"></a>
-- t-025
+- t-024
   global_id: t-177732
   teiginys: "1496 m. sausį iš Maskvos išvykusi kunigaikštytė Elena vasarį atvyko į Vilnių."
   pagrindžia:
     - c-161551
 
 <a id="claim-t-177733"></a>
-- t-026
+- t-025
   global_id: t-177733
   teiginys: "Stepono Batoro valdymo metais Livonijos kare pasiektos lemiamos pergalės prieš Maskvą."
   pagrindžia:
     - c-161633
 
-<a id="claim-t-177772"></a>
-- t-027
-  global_id: t-177772
+<a id="claim-t-177734"></a>
+- t-026
+  global_id: t-177734
   teiginys: "Maskva ir Leningradas buvo pagrindiniai iš Lietuvos išvežamų maisto produktų vartotojai."
   pagrindžia:
     - c-161594
 
 <a id="claim-t-177735"></a>
-- t-028
+- t-027
   global_id: t-177735
   teiginys: "Per Lenkijos ultimatumą Prancūzija, Britanija, Maskva ir Berlynas patarė Kaunui priimti lenkų reikalavimus."
   pagrindžia:
     - c-161557
 
-<a id="claim-t-177758"></a>
-- t-029
-  global_id: t-177758
+<a id="claim-t-177736"></a>
+- t-028
+  global_id: t-177736
   teiginys: "1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai pasirašė amžinos taikos sutartį su caru."
   pagrindžia:
     - c-161620
 
 <a id="claim-t-177737"></a>
-- t-030
+- t-029
   global_id: t-177737
   teiginys: "Tomo Naruševičiaus vadovaujama Lietuvos delegacija Maskvoje reikalavo pripažinti atkurtą Lietuvos valstybę."
   pagrindžia:
     - c-161592
 
 <a id="claim-t-177738"></a>
-- t-031
+- t-030
   global_id: t-177738
   teiginys: "Livonijos kare pasiektos pergalės prieš Maskvą jos pavojų atitolino daugiau nei pusamžiui."
   pagrindžia:
     - c-161574
 
 <a id="claim-t-177739"></a>
-- t-032
+- t-031
   global_id: t-177739
   teiginys: "Lietuvos metraščiuose užrašyti epiniai siužetai apie Gedimino sapną, Algirdo žygius į Maskvą ir Kęstučio bei Birutės meilę."
   pagrindžia:
     - c-24290
 
 <a id="claim-t-177740"></a>
-- t-033
+- t-032
   global_id: t-177740
   teiginys: "Dėl karo su Maskva patirtų nuostolių Vilniaus vyskupija sunkiai galėjo aprūpinti klierikų kolegiją lėšomis."
   pagrindžia:
     - c-161569
 
 <a id="claim-t-177741"></a>
-- t-034
+- t-033
   global_id: t-177741
   teiginys: "1617–1618 m. žygyje į Maskvą Jonas Karolis Chodkevičius pasiekė laimėjimų, tačiau Maskvos užimti nepavyko."
   pagrindžia:
     - c-161640
 
 <a id="claim-t-177742"></a>
-- t-035
+- t-034
   global_id: t-177742
   teiginys: "Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais."
   pagrindžia:
     - c-161571
 
 <a id="claim-t-177743"></a>
-- t-036
+- t-035
   global_id: t-177743
   teiginys: "1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė santykius su Maskvos disidentais ir teikė informaciją iš Lietuvos."
   pagrindžia:
     - c-161604
 
 <a id="claim-t-177744"></a>
-- t-037
+- t-036
   global_id: t-177744
   teiginys: "XV a. pabaigoje sustiprėjusi Maskvos valstybė ėmė kelti grėsmę Lietuvos teritorijos vientisumui."
   pagrindžia:
     - c-43627
 
 <a id="claim-t-177745"></a>
-- t-038
+- t-037
   global_id: t-177745
   teiginys: "Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją."
   pagrindžia:
     - c-161585
 
 <a id="claim-t-177746"></a>
-- t-039
+- t-038
   global_id: t-177746
   teiginys: "Algirdas prie Maskvos mūrų prastovėjo tris dienas ir tris naktis, nuniokojo apylinkę ir grįžo atgal."
   pagrindžia:
     - c-161632
 
 <a id="claim-t-177747"></a>
-- t-040
+- t-039
   global_id: t-177747
   teiginys: "Kaip neprivaloma disciplina lietuvių kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos universitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams, turintiems atestate lietuvių kalbos pažymį."
   pagrindžia:
     - c-161606
 
 <a id="claim-t-177748"></a>
-- t-041
+- t-040
   global_id: t-177748
   teiginys: "1611 m. Jonui Karoliui Chodkevičiui pavesta deblokuoti Maskvoje apsuptą lenkų ir lietuvių įgulą, bet ji kapituliavo."
   pagrindžia:
     - c-43628
 
 <a id="claim-t-177749"></a>
-- t-042
+- t-041
   global_id: t-177749
   teiginys: "Napoleonui teko trauktis iš Maskvos, o traukimosi metu jo kariuomenė sunyko."
   pagrindžia:
     - c-161570
 
 <a id="claim-t-177751"></a>
-- t-043
+- t-042
   global_id: t-177751
   teiginys: "XV a. pabaigoje stiprėjanti Maskvos valstybė ėmė kelti grėsmę Lietuvos teritorijos vientisumui."
   pagrindžia:
     - c-43627
 
 <a id="claim-t-177752"></a>
-- t-044
+- t-043
   global_id: t-177752
   teiginys: "Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į Kijevo ir Maskvos dalis, kurių istorija vėliau klostėsi savarankiškai."
   pagrindžia:
     - c-161634
 
 <a id="claim-t-177753"></a>
-- t-045
+- t-044
   global_id: t-177753
   teiginys: "1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas."
   pagrindžia:
     - c-161560
 
 <a id="claim-t-177754"></a>
-- t-046
+- t-045
   global_id: t-177754
   teiginys: "1926 m. rugsėjo 28 d. Maskvoje Lietuva pasirašė nepuolimo ir neutralumo sutartį su SSRS."
   pagrindžia:
     - c-161586
 
 <a id="claim-t-177755"></a>
-- t-047
+- t-046
   global_id: t-177755
   teiginys: "Maskvos kunigaikštis gavo mongolų leidimą rinkti Aukso ordai duoklę iš kitų senosios Rusios kunigaikštijų."
   pagrindžia:
     - c-161610
 
 <a id="claim-t-177756"></a>
-- t-048
+- t-047
   global_id: t-177756
   teiginys: "Lietuvos kariuomenė į Vilnių įžengė liepos 15 d., jau pasirašius sutartį Maskvoje."
   pagrindžia:
     - c-161623
 
 <a id="claim-t-177757"></a>
-- t-049
+- t-048
   global_id: t-177757
   teiginys: "Karai su Maskva rytuose reikalavo daug pinigų, todėl reikėjo rūpintis didesniu parduodamų prekių kiekiu."
   pagrindžia:
     - c-161600
 
-<a id="claim-t-177758"></a>
-- t-050
-  global_id: t-177758
-  teiginys: "1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai pasirašė amžinos taikos sutartį su caru."
-  pagrindžia:
-    - c-161620
-
 <a id="claim-t-177759"></a>
-- t-051
+- t-049
   global_id: t-177759
   teiginys: "Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio."
   pagrindžia:
     - c-161554
 
 <a id="claim-t-177760"></a>
-- t-052
+- t-050
   global_id: t-177760
   teiginys: "Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė."
   pagrindžia:
     - c-161616
 
 <a id="claim-t-177761"></a>
-- t-053
+- t-051
   global_id: t-177761
   teiginys: "1610 m. lenkų kariuomenė, sumušusi rusus prie Klušino, užėmė Maskvą."
   pagrindžia:
     - c-43629
 
 <a id="claim-t-177762"></a>
-- t-054
+- t-052
   global_id: t-177762
   teiginys: "Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet nieko nelaimėjęs išvyko į Maskvą."
   pagrindžia:
     - c-161631
 
 <a id="claim-t-177764"></a>
-- t-055
+- t-053
   global_id: t-177764
   teiginys: "Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai."
   pagrindžia:
     - c-161582
 
 <a id="claim-t-177765"></a>
-- t-056
+- t-054
   global_id: t-177765
   teiginys: "Kunigaikštis Mykolas tremtyje Maskvoje mirė nunuodytas kažkokiame vienuolyne."
   pagrindžia:
     - c-161562
 
 <a id="claim-t-177766"></a>
-- t-057
+- t-055
   global_id: t-177766
   teiginys: "Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas."
   pagrindžia:
     - c-46608
 
 <a id="claim-t-177767"></a>
-- t-058
+- t-056
   global_id: t-177767
   teiginys: "1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais."
   pagrindžia:
     - c-161604
 
 <a id="claim-t-177768"></a>
-- t-059
+- t-057
   global_id: t-177768
   teiginys: "Vytauto kariuomenės būrys palydėjo į Maskvą vykstantį kunigaikščio sūnų Vosylių."
   pagrindžia:
     - c-161644
 
 <a id="claim-t-177769"></a>
-- t-060
+- t-058
   global_id: t-177769
   teiginys: "Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes."
   pagrindžia:
     - c-161642
 
 <a id="claim-t-177771"></a>
-- t-061
+- t-059
   global_id: t-177771
   teiginys: "Leonidui Brežnevui įsitvirtinus valdžioje, Maskvoje sustiprėjusios stalininės jėgos prisidėjo prie valdymo sugriežtinimo."
   pagrindžia:
     - c-161602
 
-<a id="claim-t-177772"></a>
-- t-062
-  global_id: t-177772
-  teiginys: "Maskva ir Leningradas buvo pagrindiniai iš Lietuvos išvežamų maisto produktų vartotojai."
-  pagrindžia:
-    - c-161594
-
 <a id="claim-t-177773"></a>
-- t-063
+- t-060
   global_id: t-177773
   teiginys: "Rusijoje kilus dideliam sukilimui, Maskvoje įsitvirtinę lenkai ir lietuviai buvo apsupti ir priversti kapituliuoti."
   pagrindžia:
     - c-161549
 
 <a id="claim-t-177774"></a>
-- t-064
+- t-061
   global_id: t-177774
   teiginys: "Maskvoje buvo išlikęs priežodis: „Kas Vilniuje nebuvo, tas stebuklų neregėjo.“"
   pagrindžia:
     - c-161555
 
 <a id="claim-t-177775"></a>
-- t-065
+- t-062
   global_id: t-177775
   teiginys: "Tomo Naruševičiaus vadovaujama Lietuvos delegacija Maskvoje pareikalavo pripažinti atkurtą Lietuvos valstybę ir jos tęstinumą nuo LDK."
   pagrindžia:
     - c-161592
 
 <a id="claim-t-177776"></a>
-- t-066
+- t-063
   global_id: t-177776
   teiginys: "Vokietijai greitai užėmus Lietuvą, sovietai vos spėjo išgabenti LSSR vyriausybę į Maskvą."
   pagrindžia:
     - c-161550
 
-<a id="claim-t-177796"></a>
-- t-067
-  global_id: t-177796
+<a id="claim-t-177777"></a>
+- t-064
+  global_id: t-177777
   teiginys: "1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje."
   pagrindžia:
     - c-161580
 
 <a id="claim-t-177779"></a>
-- t-068
+- t-065
   global_id: t-177779
   teiginys: "J. Paleckio vadovaujama delegacija Maskvoje rugpjūčio 3 d. pasiprašė neva savanoriškai įeiti į SSRS sudėtį."
   pagrindžia:
     - c-161548
 
 <a id="claim-t-177782"></a>
-- t-069
+- t-066
   global_id: t-177782
   teiginys: "Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo."
   pagrindžia:
     - c-161631
 
 <a id="claim-t-177783"></a>
-- t-070
+- t-067
   global_id: t-177783
   teiginys: "Algirdas tris dienas ir tris naktis stovėjo prie Maskvos mūrų, nusiaubė apylinkę ir grįžo atgal."
   pagrindžia:
     - c-32224
 
 <a id="claim-t-177784"></a>
-- t-071
+- t-068
   global_id: t-177784
   teiginys: "Kazimiero Jogailaičio laikais Lietuvos valstybė Maskvai nebekėlė tikro pavojaus, nors politine jėga dar buvo už ją pranašesnė."
   pagrindžia:
     - c-05665
 
-<a id="claim-t-177754"></a>
-- t-072
-  global_id: t-177754
-  teiginys: "1926 m. rugsėjo 28 d. Maskvoje Lietuva pasirašė nepuolimo ir neutralumo sutartį su SSRS."
-  pagrindžia:
-    - c-161586
-
 <a id="claim-t-177786"></a>
-- t-073
+- t-069
   global_id: t-177786
   teiginys: "Balińskis teigė, kad Maskvoje buvo išlikęs priežodis: kas Vilniuje nebuvo, tas stebuklų neregėjo."
   pagrindžia:
     - c-161555
 
 <a id="claim-t-177787"></a>
-- t-074
+- t-070
   global_id: t-177787
   teiginys: "Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską."
   pagrindžia:
     - c-161640
 
 <a id="claim-t-177788"></a>
-- t-075
+- t-071
   global_id: t-177788
   teiginys: "Maskva tuomet dar tebuvo menka gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė."
   pagrindžia:
     - c-161565
 
 <a id="claim-t-177789"></a>
-- t-076
+- t-072
   global_id: t-177789
   teiginys: "Vytautas laikė Maskvos metropolitų religinę viršenybę viena opiausių kliūčių savo valdžiai Lietuvoje stiprinti."
   pagrindžia:
     - c-161553
 
 <a id="claim-t-177790"></a>
-- t-077
+- t-073
   global_id: t-177790
   teiginys: "1940 m. birželio 10 d. Kaune nutarta pasiųsti užsienio reikalų ministrą Juozą Urbšį į Maskvą."
   pagrindžia:
     - c-161629
 
 <a id="claim-t-177791"></a>
-- t-078
+- t-074
   global_id: t-177791
   teiginys: "Gavusi Maskvos palaiminimą Lietuvos valdžia, matydama, kad sąjunginio pavaldumo pramonės įmones sunku kontroliuoti, plėtojo sau pavaldžias pramonės šakas."
   pagrindžia:
     - c-161646
 
 <a id="claim-t-177792"></a>
-- t-079
+- t-075
   global_id: t-177792
   teiginys: "1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas."
   pagrindžia:
     - c-161560
 
-<a id="claim-t-177776"></a>
-- t-080
-  global_id: t-177776
-  teiginys: "Vokietijai greitai užėmus Lietuvą, sovietai vos spėjo išgabenti LSSR vyriausybę į Maskvą."
-  pagrindžia:
-    - c-161550
-
 <a id="claim-t-177794"></a>
-- t-081
+- t-076
   global_id: t-177794
   teiginys: "Jogailos vyriausiasis brolis Andrius, valdęs Polocką, pabėgo į Maskvą ir ėmė rengti koaliciją prieš Jogailą."
   pagrindžia:
     - c-161596
 
-<a id="claim-t-177796"></a>
-- t-082
-  global_id: t-177796
-  teiginys: "1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje."
-  pagrindžia:
-    - c-161580
-
 <a id="claim-t-177797"></a>
-- t-083
+- t-077
   global_id: t-177797
   teiginys: "1991 m. rugpjūtį žlugus Maskvos pučui, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas."
   pagrindžia:
     - c-161588
 
 <a id="claim-t-177798"></a>
-- t-084
+- t-078
   global_id: t-177798
   teiginys: "1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas diegė Maskvos sprendimus."
   pagrindžia:
     - c-161572
 
 <a id="claim-t-177800"></a>
-- t-085
+- t-079
   global_id: t-177800
   teiginys: "Viačeslavas Molotovas pakvietė ministrą Juozą Urbšį atvykti į Maskvą."
   pagrindžia:
     - c-161576
 
 <a id="claim-t-177802"></a>
-- t-086
+- t-080
   global_id: t-177802
   teiginys: "Lenkų kariuomenė 1610 m., sumušusi rusus prie Klušino, užėmė Maskvą."
   pagrindžia:
     - c-43629
 
 <a id="claim-t-177804"></a>
-- t-087
+- t-081
   global_id: t-177804
   teiginys: "Vytautas rašė su kariuomene pasiekęs vietą, nuo kurios iki Maskvos buvo trijų dienų kelias."
   pagrindžia:
     - c-37537
 
 <a id="claim-t-177807"></a>
-- t-088
+- t-082
   global_id: t-177807
   teiginys: "Polocką valdęs Andrius pabėgo į Maskvą ir ėmė rengti koaliciją prieš Jogailą."
   pagrindžia:
     - c-46605
 
 <a id="claim-t-177808"></a>
-- t-089
+- t-083
   global_id: t-177808
   teiginys: "Karai su Maskvos didžiąja kunigaikštyste dėl rytinių teritorijų kėlė konfliktus tarp Abiejų Tautų Respublikos ir Rusijos."
   pagrindžia:
     - c-161612
 
 <a id="claim-t-177809"></a>
-- t-090
+- t-084
   global_id: t-177809
   teiginys: "Maskva minima kaip imperines ambicijas užauginusi rytų grėsmė Lietuvos sukurtai didvalstybei."
   pagrindžia:
     - c-161568
 
 <a id="claim-t-177810"></a>
-- t-091
+- t-085
   global_id: t-177810
   teiginys: "Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir nurodė vyskupams išrinkti Lietuvai atskirą metropolitą."
   pagrindžia:
     - c-161579
 
 <a id="claim-t-177811"></a>
-- t-092
+- t-086
   global_id: t-177811
   teiginys: "Jonas Basanavičius, pirmasis „Aušros“ redaktorius, buvo baigęs medicinos studijas Maskvoje."
   pagrindžia:
     - c-161615
 
 <a id="claim-t-177813"></a>
-- t-093
+- t-087
   global_id: t-177813
   teiginys: "1611 m. Jonui Karoliui Chodkevičiui buvo pavesta deblokuoti Maskvoje apsuptą lenkų ir lietuvių įgulą, bet ji kapituliavo."
   pagrindžia:
     - c-43628
 
 <a id="claim-t-177814"></a>
-- t-094
+- t-088
   global_id: t-177814
   teiginys: "Viačeslavas Molotovas pakvietė Lietuvos užsienio reikalų ministrą Juozą Urbšį atvykti į Maskvą."
   pagrindžia:
     - c-161576
 
 <a id="claim-t-177815"></a>
-- t-095
+- t-089
   global_id: t-177815
   teiginys: "1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas perėmė realią aukščiausiąją valdžią."
   pagrindžia:
     - c-161593
 
-<a id="claim-t-177720"></a>
-- t-096
-  global_id: t-177720
-  teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
-  pagrindžia:
-    - c-161622
-
 <a id="claim-t-183050"></a>
-- t-097
+- t-090
   global_id: t-183050
   teiginys: "Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta)."
   pagrindžia:
     - c-166441
 
 <a id="claim-t-185039"></a>
-- t-098
+- t-091
   global_id: t-185039
   teiginys: "Iki Maskvos kariuomenei buvo likę aštuoniolika mylių, kai žygūnas ją pralenkė tik keliomis valandomis."
   pagrindžia:
     - c-168400
 
-<a id="claim-t-185040"></a>
-- t-099
-  global_id: t-185040
-  teiginys: "Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą, kur jam būtų lengviau tramdyti ginčytis linkusius saviškius."
-  pagrindžia:
-    - c-168401
-
 <a id="claim-t-185042"></a>
-- t-100
+- t-092
   global_id: t-185042
   teiginys: "Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo."
   pagrindžia:
     - c-168403
 
 <a id="claim-t-187607"></a>
-- t-101
+- t-093
   global_id: t-187607
   teiginys: "Lietuvos metraščio tyrime teigiama, kad LDK santykių su Rusų valstybe vaizdavime iškeliamas Vytauto pranašumas prieš Maskvos didįjį kunigaikštį Vasilijų."
   pagrindžia:
     - c-170554
 
-<a id="claim-t-187608"></a>
-- t-102
-  global_id: t-187608
-  teiginys: "Sofijos Vytautaitės sužadėtinis 1388 m. sausio 19 d. jau buvo Maskvoje."
-  pagrindžia:
-    - c-170555
-
 <a id="claim-t-188770"></a>
-- t-103
+- t-094
   global_id: t-188770
   teiginys: "Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris."
   pagrindžia:
     - c-171659
 
 <a id="claim-t-193213"></a>
-- t-104
+- t-095
   global_id: t-193213
   teiginys: "Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė susiartindamas su Maskva."
   pagrindžia:
     - c-175957
 
 <a id="claim-t-193214"></a>
-- t-105
+- t-096
   global_id: t-193214
   teiginys: "Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija."
   pagrindžia:
     - c-175958
 
 <a id="claim-t-193215"></a>
-- t-106
+- t-097
   global_id: t-193215
   teiginys: "Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere."
   pagrindžia:
     - c-175959
 
-<a id="claim-t-193424"></a>
-- t-107
-  global_id: t-193424
-  teiginys: "Kadangi Maskvos didikai atkirto, kad ne gali būti nė kalbos apie šitokias sąlygas, pradėta derė tis dėl kitokių taikos formulių."
-  pagrindžia:
-    - c-176146
-
 <a id="claim-t-194934"></a>
-- t-108
+- t-098
   global_id: t-194934
   teiginys: "Taip pat kalbama ir apie tautų protėvius Masochą ir Tovelą, arba Tobalą, minimus Šven tajame Rašte kaip slavų gyvenamųjų vietų Maskvos ir Tobolsko pirmtakus2."
   pagrindžia:
     - c-177330
+
+<a id="claim-t-196716"></a>
+- t-099
+  global_id: t-196716
+  teiginys: "Kojelavičiaus pasakojime švedų valdovas, būgštaudamas dėl Maskvos grėsmės, atsisakė Augusto siūlytos sąjungos."
+  pagrindžia:
+    - c-178862
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-10183|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: Algirdas surengė tris karo žygius į Maskvą 1368, 1370 ir 1372 m.
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-05286|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: 1368, 1370 ir 1372 m. Algirdas tris kartus žygiavo prieš Maskvą.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176311|Algirdas (Lietuvos valdovas)]]: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
 - susijęs iš Kremlius: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
 - susijęs iš [[objektai/asmenys/Fotijus.md#claim-t-82300|Fotijus]]: Maskvos metropolitas Fotijus siekė Kijevo metropolijos prijungimo prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjęs išvyko į Maskvą.
 - susijęs iš [[objektai/asmenys/Fotijus.md#claim-t-82303|Fotijus]]: Fotijus siekė Kijevo metropoliją prijungti prie Maskvos, bet Vytauto priimtas dėl jo ligos nieko nepasiekė ir išvyko į Maskvą.
-- susijęs iš [[objektai/asmenys/Vasilijus.md#claim-t-185977|Vasilijus]]: Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą.
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai į Maskvą.md#claim-t-20161|Algirdo žygiai į Maskvą]]: Algirdo pretenzijos, kad visa Rusia turėtų priklausyti lietuviams, liko neįgyvendintos, o Vilnius netapo „antruoju Kijevu“.
 - susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino lietuvių imperatoriumi ir kėlė save virš Maskvos bei Tverės kunigaikščių.
 - susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino lietuvių imperatoriumi ir kėlė save virš Maskvos bei Tverės kunigaikščių.
@@ -830,7 +768,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19029|Juozas Urbšys]]: Viačeslavui Molotovui pakvietus Juozą Urbšį atvykti į Maskvą, Juozas Urbšys išvyko spalio 2 dieną.
 - susijęs iš [[objektai/asmenys/Stanislovas Jendžejevskis.md#claim-t-186255|Stanislovas Jendžejevskis]]: Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.).md#claim-t-35919|Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]: Vytautas surengė žygį į Maskvos apylinkes, norėdamas suvaldyti jam nepaklusnius Okos ir Dono aukštupių kunigaikščius.
-- susijęs iš [[objektai/paprociai/Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius.md#claim-t-185854|Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius]]: Maskvos kunigaikštis Vasilijus per tarpininką siūlė taiką, žadėjo siųsti įgaliotus legatus, o didikai paragino karalių taikai pritarti.
 - susijęs iš [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje.md#claim-t-87237|Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]: Vytautas globojo pirklius, o Vilniaus prekyba išsiplėtė su Prūsijos, Livonijos, Pskovo, Naugardo ir Maskvos miestais.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78781|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Algirdo žygius į Maskvą ir Maskvos valstybės augimą.
 - susijęs iš [[objektai/asmenys/Jonas Kalita.md#claim-t-30308|Jonas Kalita]]: Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
@@ -851,9 +788,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/ivykiai/1444-1445 m. žiemos karas ir paliaubos tarp Lietuvos ir Maskvos.md#claim-t-187468|1444-1445 m. žiemos karas ir paliaubos tarp Lietuvos ir Maskvos]]: Pagrindinis Lietuvos metraščių tekstas baigiasi pasakojimu apie 1444-1445 m. žiemos karą ir paliaubas tarp Kazimiero Jogailaičio ir Vasilijaus II Vasiljevičiaus.
 - susijęs iš Naugardas: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
 - susijęs iš Prūsija: Vytauto laikais Vilniaus prekyba išsišakojo su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.
-- susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
 - susijęs iš [[objektai/asmenys/Bazilius (Vasilius) II.md#claim-t-18849|Bazilius (Vasilius) II]]: 1427 m. Baziliui II buvo žygiuojama į Maskvą padėti, ir tam pakako vien jėgos demonstravimo.
-- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.
+- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė temniką Mamajų ir, pasak autoriaus, atsikratė totorių jungo.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-183734|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-40085|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Tomas Naruševičius.md#claim-t-76026|Tomas Naruševičius]]: Tomas Naruševičius vadovavo Lietuvos delegacijai Maskvoje, kuri pareikalavo pripažinti atkurtą Lietuvos valstybę ir jos tęstinumą nuo LDK.
@@ -867,18 +803,15 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176279|Algirdas (Lietuvos valdovas)]]: Lietuvos metraščiuose užrašyti Ldk Algirdo žygiai į Maskvą laikomi epinius pasakojimus atitinkančiu siužetu.
 - susijęs iš [[objektai/asmenys/Andriejus Obolenskis.md#claim-t-40017|Andriejus Obolenskis]]: Andriejus Obolenskis buvo vienas iš vaivadų, vadovavusių Maskvos valdovo Vasilijaus III pasiųstoms pajėgoms.
 - susijęs iš [[objektai/asmenys/Andrius Mackevičius.md#claim-t-186094|Andrius Mackevičius]]: Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.
-- susijęs iš [[objektai/asmenys/Anisijus Gornostajus.md#claim-t-186181|Anisijus Gornostajus]]: Maršalas Anisijus Gornostajus Lietuvos senate atkakliai prieštaravo Ivano titulavimui Maskvos kunigaikštystės caru.
+- susijęs iš [[objektai/asmenys/Anisijus Gornostajus.md#claim-t-186181|Anisijus Gornostajus]]: Kojelavičiaus pasakojime maršalas Anisijus Gornostajus Lietuvos senate priešinosi Ivano titulavimui Maskvos kunigaikštystės caru.
 - susijęs iš [[objektai/asmenys/Arkidjakonas Povilas.md#claim-t-190131|Arkidjakonas Povilas]]: Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.
 - susijęs iš [[objektai/asmenys/Bazilius (Vasilius) II.md#claim-t-18849|Bazilius (Vasilius) II]]: 1427 m. Baziliui II buvo žygiuojama į Maskvą padėti, ir tam pakako vien jėgos demonstravimo.
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63520|Borisas Jelcinas]]: Borisas Jelcinas vadovavo kovai prieš komunistinius perversmininkus ir privertė kapituliuoti Maskvos pučistus.
 - susijęs iš [[objektai/asmenys/Ciprijonas.md#claim-t-35044|Ciprijonas]]: Ciprijonas buvo bulgaras ir atskiras Kijevo metropolitas Lietuvai, vėliau Maskvoje suvienijęs Rusijos ir Lietuvos stačiatikius.
 - susijęs iš [[objektai/asmenys/Eitanas Finkelšteinas.md#claim-t-18883|Eitanas Finkelšteinas]]: Fizikas Eitanas Finkelšteinas priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
-- susijęs iš [[objektai/asmenys/Elena.md#claim-t-184695|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena, didikams išvykus į seimą, pamėgino pabėgti į Maskvos kunigaikštystę.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54957|Elena (vyskupas, XV–XVI a.)]]: 1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54961|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82288|Elena (vyskupas, XV–XVI a.)]]: 1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių.
-- susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-184697|Eustachijus Valavičius]]: Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.
-- susijęs iš [[objektai/asmenys/Fiodoras Ovčina.md#claim-t-186039|Fiodoras Ovčina]]: Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivadinęs caro globėju, užgrobė valdžią.
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93198|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Lietuvos stačiatikių vyskupai apskundė Focijų Vytautui, kaltindami jį bažnytinių turtų išvežimu į Maskvą.
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93199|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Focijus savo rezidencija pasirinko Maskvą, nors Vytautas reikalavo, kad jis apsigyventų Kijeve.
 - susijęs iš [[objektai/asmenys/Fotijus.md#claim-t-82301|Fotijus]]: Fotijus buvo naujai išrinktas Maskvos metropolitas, su kuriuo Vytautas nutraukė ryšius siekdamas Lietuvai atskiro metropolito.
@@ -897,25 +830,20 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19027|Juozas Urbšys]]: Birželio 10 d. Kaune nutarta pasiųsti ministrą Juozą Urbšį į Maskvą.
 - susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19029|Juozas Urbšys]]: Viačeslavui Molotovui pakvietus Juozą Urbšį atvykti į Maskvą, Juozas Urbšys išvyko spalio 2 dieną.
 - susijęs iš [[objektai/asmenys/Juozas Zdebskis.md#claim-t-19031|Juozas Zdebskis (kunigas)]]: 1978 m. lapkričio 22 d. kunigas Juozas Zdebskis su Alfonsu Svarinsku ir Sigitu Tamkevičiumi Maskvoje pranešė apie TTGK įkūrimą.
-- susijęs iš [[objektai/asmenys/Jurgis Tiškevičius.md#claim-t-186051|Jurgis Tiškevičius]]: Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivaną pavadino jį Astrachanės caru.
+- susijęs iš [[objektai/asmenys/Jurgis Tiškevičius.md#claim-t-186051|Jurgis Tiškevičius]]: Kojelavičiaus pasakojime Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivaną pavadino jį Astrachanės caru.
 - susijęs iš [[objektai/asmenys/Jurijus Orlovas.md#claim-t-19034|Jurijus Orlovas]]: Jurijus Orlovas vadovavo 1976 m. gegužės 12 d. įkurtai pirmajai Maskvos Helsinkio grupei.
-- susijęs iš [[objektai/asmenys/Lada.md#claim-t-186231|Lada]]: Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusigauti į Maskvą, bet pasienyje buvo sugautas.
 - susijęs iš [[objektai/asmenys/Leonidas Brežnevas.md#claim-t-19107|Leonidas Brežnevas]]: Leonidui Brežnevui įsitvirtinus valdžioje, Maskvoje sustiprėjo stalininės jėgos ir valdymas vėl buvo sugriežtintas.
 - susijęs iš [[objektai/asmenys/Mahometas Aminas.md#claim-t-40324|Mahometas Aminas]]: Kazanės chanas Mahometas Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą.
 - susijęs iš [[objektai/asmenys/Maksimilijonas I.md#claim-t-40325|Maksimilijonas I]]: Imperatorius Maksimilijonas I buvo sudaręs sąjungą su Maskva prieš Žygimantą Senąjį.
 - susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
-- susijęs iš [[objektai/asmenys/Martynas Volodkovičius.md#claim-t-186066|Martynas Volodkovičius]]: Karalius pasiuntė Martyną Volodkovičių pas Maskvos valdovą, kai sužinojo, kad šis galvoja apie karą.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-183753|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79107|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79108|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79109|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
 - susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101684|Michailas Gorbačiovas]]: 1991 m. kovą Michailas Gorbačiovas Maskvos demonstracijoje sulaukė daugiau nei 200 tūkst. dalyvių raginimo atsistatydinti.
-- susijęs iš [[objektai/asmenys/Mikalojus Naruševičius.md#claim-t-186151|Mikalojus Naruševičius]]: Iždininkas Mikalojus Naruševičius dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186350|Mikalojus Radvila]]: Vilniaus vaivada Mikalojus Radvila dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.
 - susijęs iš [[objektai/asmenys/Motiejus Kločka.md#claim-t-186070|Motiejus Kločka]]: Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi.
 - susijęs iš [[objektai/asmenys/Mykolas (Švitrigailos sūnus).md#claim-t-87798|Mykolas (Švitrigailos sūnus)]]: Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184801|Mykolas Glinskis]]: Pagal sutarties sąlygas Mykolas Glinskis turėjo likti Maskvos kunigaikštystėje kaip tremtinys be vilties sugrįžti.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184802|Mykolas Glinskis]]: Vasilijus manė, kad Mykolas Glinskis galėtų padėti maskvėnams užimti pilį, kurios pats Vasilijus neįstengė paimti.
 - susijęs iš [[objektai/asmenys/Mykolas Rusalka.md#claim-t-87801|Mykolas Rusalka]]: Mykolas Rusalka lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. vasarį atvyko iš Maskvos į Vilnių.
 - susijęs iš [[objektai/asmenys/Petras Białas.md#claim-t-87825|Petras Białas]]: 1494 m. balandžio 18 d. Petras Białas Maskvoje kaip Lietuvos pasiuntinys pasirašė amžinos taikos sutartį su caru.
 - susijęs iš [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas.md#claim-t-186156|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]: Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.
@@ -928,11 +856,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Sofija Vytautaitė.md#claim-t-79159|Sofija Vytautaitė]]: Sofijos Vytautaitės lankymasis su vaikais pas Vytautą Smolenske garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.
 - susijęs iš [[objektai/asmenys/Sofija Vytautaitė.md#claim-t-79160|Sofija Vytautaitė]]: Sofijos Vytautaitės lankymasis su vaikais pas Vytautą Smolenske garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.
 - susijęs iš [[objektai/asmenys/Stanislavas Caplinas.md#claim-t-40427|Stanislavas Caplinas]]: Stanislavas Caplinas koordinavo čekistinę operacijos pusę kaip naujai Maskvos paskirtas SSRS KGB padalinio Lietuvoje pirmininko pavaduotojas.
-- susijęs iš [[objektai/asmenys/Stanislovas Daugirdas.md#claim-t-186253|Stanislovas Daugirdas (kunigaikštis, XVI a.)]]: Stanislovas Daugirdas stropiai surinko lietuvių belaisvių vardus iš visos Maskvos kunigaikštystės.
 - susijęs iš [[objektai/asmenys/Stanislovas Jendžejevskis.md#claim-t-186255|Stanislovas Jendžejevskis]]: Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais.
 - susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-184831|Stanislovas Kiška]]: Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius.
-- susijęs iš [[objektai/asmenys/Stanislovas Narbutas.md#claim-t-186256|Stanislovas Narbutas]]: Stanislovas Narbutas Aleksandro buvo pasiųstas į Maskvą parodyti, kad Aleksandras neprieštarauja taikai.
-- susijęs iš [[objektai/asmenys/Stanislovas Pacas.md#claim-t-186081|Stanislovas Pacas]]: Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių Ostrogiškių valdas.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-10099|Steponas Batoras]]: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113968|Steponas Batoras]]: Steponas Batoras plačiai naudojo Vilniaus patrankų liejykloje pagamintus pabūklus karuose su Maskva.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113974|Steponas Batoras]]: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.
@@ -943,7 +868,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Tomas Venclova.md#claim-t-19285|Tomas Venclova]]: Tomas Venclova priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
 - susijęs iš [[objektai/asmenys/Tomas Venclova.md#claim-t-19286|Tomas Venclova]]: 1960 m. Tomas Venclova su Aleksandru Štromu ir Pranu Morkumi užmezgė ryšius su Maskvos disidentais ir teikė jiems informaciją iš Lietuvos.
 - susijęs iš [[objektai/asmenys/Vaitiekus Kiočka.md#claim-t-186262|Vaitiekus Kiočka]]: Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos.
-- susijęs iš [[objektai/asmenys/Vasilijus.md#claim-t-185977|Vasilijus]]: Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą.
 - susijęs iš [[objektai/asmenys/Vasilijus.md#claim-t-185978|Vasilijus]]: Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64237|Viačeslavas Molotovas]]: Viačeslavas Molotovas pakvietė Lietuvos ministrą Juozą Urbšį atvykti į Maskvą.
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64239|Viačeslavas Molotovas]]: Viačeslavas Molotovas 1940 m. birželio 7 d. Maskvoje brutaliu elgesiu sukrėtė Antaną Merkį.
@@ -980,11 +904,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187435|Aukso orda]]: Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė galinti sudrebinti Maskvos valstybę.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187439|Aukso orda]]: XIV a. pabaigoje silpstanti Aukso Orda leido manyti, kad Vytauto sutelkta jėga sudrebins Maskvos valstybę.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187443|Aukso orda]]: 1501 m. Aukso orda sudarė sąjungą su LDK prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.
-- susijęs iš [[objektai/grupes/Belskių giminė.md#claim-t-185457|Belskių giminė]]: Kunigaikščiai Belskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę ir su savo kariaunomis pradėjo puldinėti karaliaus valdas.
+- susijęs iš [[objektai/grupes/Belskių giminė.md#claim-t-185457|Belskių giminė]]: Kunigaikščiai Belskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę ir su savo kariaunomis puldinėjo karaliaus valdas.
 - susijęs iš [[objektai/grupes/Boratinskių giminė.md#claim-t-185458|Boratinskių giminė]]: Kunigaikščiai Boratinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę ir su savo kariaunomis pradėjo puldinėti karaliaus valdas.
 - susijęs iš [[objektai/grupes/Chodkevičiai.md#claim-t-19665|Chodkevičiai]]: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-05245|Didžiojo Naugardo respublika]]: Prieš Algirdo mirtį Didžiajame Naugarde įsigalėjo Maskvos įtaka, todėl 1375 m. Naugardas sudarė sutartį su Dimitru.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-103737|Didžiojo Naugardo respublika]]: Algirdas siekė priversti Naugardo respubliką paklusti, nors ji ilgą laiką priešinosi Lietuvos ir Maskvos įtakai.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-12357|Didžiojo Naugardo respublika]]: Didysis Naugardas atsisakė pradėti karą su vokiečiais, nes turėjo atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.
 - susijęs iš [[objektai/grupes/Jedinstvo.md#claim-t-183135|Jedinstvo]]: Prosovietinė organizacija „Jedinstvo“ Maskvos nurodymu priešinosi Lietuvos nepriklausomybės atkūrimui, bet rimtesnės įtakos neturėjo.
 - susijęs iš [[objektai/grupes/Jedinstvo.md#claim-t-65206|Jedinstvo]]: Jedinstvo buvo prosovietinė organizacija, veikusi kaip sovietų penktoji kolona ir Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui.
@@ -1025,7 +947,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/grupes/Riurikaičių dinastija.md#claim-t-184334|Riurikaičių dinastija]]: Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.
 - susijęs iš [[objektai/grupes/Riurikaičių dinastija.md#claim-t-96867|Riurikaičių dinastija]]: Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74906|Rusėnai]]: LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.
-- susijęs iš [[objektai/grupes/Seversko kunigaikščiai.md#claim-t-185437|Seversko kunigaikščiai]]: Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos.
+- susijęs iš [[objektai/grupes/Seversko kunigaikščiai.md#claim-t-185437|Seversko kunigaikščiai]]: Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos apibūdino kaip valstybės išdavimą ir valdų prijungimą prie Maskvos.
 - susijęs iš [[objektai/grupes/Tverės kunigaikštystė.md#claim-t-31363|Tverės kunigaikštystė]]: Algirdas, gindamas Tverės kunigaikščio Mykolo teises, ginklu kliudė Maskvai įsitvirtinti Tverėje.
 - susijęs iš [[objektai/grupes/Vorotinskių giminė.md#claim-t-185462|Vorotinskių giminė]]: Vorotinskių kunigaikščiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę ir pradėjo puldinėti karaliaus valdas.
 - susijęs iš [[objektai/ivykiai/1449 m. amžinoji taika su Maskva.md#claim-t-100029|1449 m. amžinoji taika su Maskva]]: Vytauto ir Kazimiero laikais Lietuvos ekspansija į rytus pasiekė kulminaciją, kurią žymėjo 1449 m. amžinoji taika su Maskva.
@@ -1051,13 +973,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/ivykiai/Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą.md#claim-t-186781|Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą (sutartis, XV a.)]]: 1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186784|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: 1501 m. rugpjūtį Aukso orda įsiveržė į buvusias LDK teritorijas Desnos baseine, 1500 m. prijungtas prie Maskvos Didžiosios Kunigaikštystės.
 - susijęs iš [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.).md#claim-t-75097|Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais, padėjo leisti „Sintaksis“ ir teikė informaciją iš Lietuvos.
-- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186645|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Po Aleksandro ir Elenos vestuvių Vilniuje Maskvos pasiuntiniai buvo pagerbti, gausiai apdovanoti ir išleisti atgal.
 - susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186646|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Aleksandro pasiuntiniai parvežė Eleną į Lietuvą kartu su jos tėvo Ivano Vasiljevičiaus atsiųstais Maskvos pasiuntiniais.
-- susijęs iš [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas.md#claim-t-185700|Gardino taikos derybos su maskvėnais ir jų žlugimas]]: Gardino derybose su maskvėnais Lietuvos senatoriai buvo paskirti vieni pasiuntiniams priimti, kiti valstybės reikalams aptarti.
-- susijęs iš [[objektai/ivykiai/Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia.md#claim-t-186773|Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia]]: Maskvos didžiojo kunigaikščio deklaracija apie karo paskelbimą buvo gauta po 1493 m. sausio 4 d.
 - susijęs iš [[objektai/ivykiai/Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia.md#claim-t-186774|Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia]]: 1493 m. pavasarį Lietuvos Didžiosios Kunigaikštystės ir Maskvos karo veiksmai nutrūko.
-- susijęs iš [[objektai/ivykiai/Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia.md#claim-t-186775|Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia]]: Karas tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos prasidėjo 1492 m. rudenį, kai Maskvoje sužinota apie Kazimiero mirtį.
-- susijęs iš [[objektai/ivykiai/Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia.md#claim-t-186777|Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia]]: Karas tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos prasidėjo 1492 m. rudenį, Maskvoje sužinojus apie Kazimiero mirtį.
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186639|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime 6953 metais nutrūko Kazimiero taika su Maskvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186640|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimieras tą pačią žiemą pasiuntė savo vaivadas, kunigaikščius ir ponus su kariuomene pulti Maskvos žemės.
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186641|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraštis lietuvių pergalę prieš juos vijusius maskvėnus aiškina Dievo pagalba ir pasakoja apie belaisvių nuvarymą į Smolenską.
@@ -1081,17 +998,14 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66772|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. gegužės pabaigoje Maskva apkaltino Lietuvą sovietų bazių kareivių grobimu ir pakvietė į Maskvą premjerą Antaną Merkį.
 - susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66773|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. birželio 10 d. Kaune nutarta pasiųsti Juozą Urbšį į Maskvą, nes Antanui Merkiui nesisekė normalizuoti situacijos.
 - susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66774|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. gegužės pabaigoje Maskva viešai apkaltino Lietuvą grobiant kareivius iš sovietų bazių.
-- susijęs iš [[objektai/ivykiai/Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.).md#claim-t-185616|Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)]]: Tverėje kilus maištui, teisėtas kunigaikštis buvo išvytas, o Tverė susivienijo su maskvėnais.
 - susijęs iš [[objektai/ivykiai/Maskvos valdovo karo paskelbimas Aleksandrui.md#claim-t-185749|Maskvos valdovo karo paskelbimas Aleksandrui]]: Maskvos valdovas paskelbė Aleksandrui karą, kaltindamas jį sutarčių laužymu ir Elenos spaudimu pereiti į Romos tikėjimą.
 - susijęs iš [[objektai/ivykiai/Oršos mūšis (1514 m.).md#claim-t-54181|Oršos mūšis (1514 m.)]]: Po Oršos mūšio kilmingi žuvusieji buvo palaidoti Vilniuje, o per triumfo iškilmes eisenoje vesti belaisviai Maskvos karvedžiai ir kariai.
-- susijęs iš [[objektai/ivykiai/Ostrogiškio ir Kiškos niokojamasis žygis į Maskvos kunigaikštystę.md#claim-t-185822|Ostrogiškio ir Kiškos niokojamasis žygis į Maskvos kunigaikštystę]]: Karvedžiai nutarė, kad Firlėjus su lenkais ir Ostrogiškis su lietuviais įžengs į Maskvos kunigaikštystę.
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas.md#claim-t-185529|Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]: Kai karaliaus legatai keliavo namo, Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą ir nuvarymą į Vilnių.
 - susijęs iš [[objektai/ivykiai/Penkerių metų paliaubos tarp Lietuvos ir Maskvos.md#claim-t-185633|Penkerių metų paliaubos tarp Lietuvos ir Maskvos]]: Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.
 - susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20519|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
 - susijęs iš [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais.md#claim-t-185781|Vasilijaus taikos prašymas ir taika su maskvėnais]]: Paskelbus taikos su maskvėnais sąlygas, dalis žmonių reiškė nepasitenkinimą paskutiniuoju susitarimo straipsniu.
 - susijęs iš [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.).md#claim-t-75296|Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]: Prieš J. Urbšio kelionę į Maskvą pradėta dalinė Lietuvos kariuomenės demobilizacija.
 - susijęs iš [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.).md#claim-t-183285|Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]: 1940 m. birželio 15 d. į Lietuvą iš Maskvos atvykusiam Vladimirui Dekanozovui atiteko reali aukščiausioji valdžia.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-186581|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vytautas apdovanojo Vasilijų, išlydėjo jį į Maskvą ir pats išvyko į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.).md#claim-t-184237|Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]: 1421 m. po Cemblako mirties Vytautas Kijevo metropolitu pripažino Maskvos Focijų ir prie bažnytinės unijos nebegrįžo.
 - susijęs iš [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.).md#claim-t-35916|Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]: 1421 m. po Cemblako mirties Vytautas Kijevo metropolitu pripažino Maskvos Focijų ir prie bažnytinės unijos nebegrįžo.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.).md#claim-t-35919|Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]: Vytautas surengė žygį į Maskvos apylinkes, norėdamas suvaldyti jam nepaklusnius Okos ir Dono aukštupių kunigaikščius.
@@ -1102,7 +1016,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos.md#claim-t-185680|Šešerių metų paliaubos tarp Lietuvos ir Maskvos]]: Lietuva ir Maskva sutarė paliaubų metu derėtis dėl amžinos taikos.
 - susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87198|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: 1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.
 - susijęs iš [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu.md#claim-t-01910|Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]: Karalius ne kartą, nepaisydamas unijos akto nuostatų, sušaukdavo atskirus Lietuvos seimus, ypač karo su Maskva metu.
-- susijęs iš [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas.md#claim-t-185869|Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]: Karalius senatoriams atskyrė pareigas: vieni turėjo sutikti, priimti ir vaišinti maskvėnų pasiuntinius, o kiti derėtis dėl valstybės reikalų.
 - susijęs iš [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje.md#claim-t-78727|Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]: Valdovui grįžus į Vilnių, čia įvyko triumfo iškilmės su belaisviais Maskvos karvedžiais ir kariais.
 - susijęs iš [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje.md#claim-t-78729|Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]: Vilniuje per triumfo iškilmes eisenoje buvo vedami Maskvos belaisviai karvedžiai ir kariai, o katedroje pakabintos trofėjinės vėliavos.
 - susijęs iš [[objektai/paprociai/Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė.md#claim-t-87189|Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė]]: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
@@ -1140,7 +1053,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Načal’nye etapy naselenija vostočnoj Pribaltiki: V. P. Jakimovo „Načal’nye etapy naselenija vostočnoj Pribaltiki“ paskelbtas 1956 m. Maskvoje, „Baltijskij Etnografičeskij Sbornik“ leidinyje.
 - susijęs iš Oblastnoe delenie L.R.Q: Liubavskio „Oblastnoe delenie L.R.Q.“ buvo išleista Maskvoje 1892 m.
 - susijęs iš Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliučitel''no: „Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliučitel''no“ išleistas Maskvoje 1910 m., o antrasis leidimas pasirodė 1915 m.
-- susijęs iš Pasvalio ilgalaikis taikos susitarimas tarp Žygimanto Augusto ir Livonijos magistro: Pasvalio susitarime numatyta, kad Maskvai užpuolus Livoniją ar Lietuvą abi šalys kovos kartu ir atskirai nesudarys paliaubų ar taikos.
 - susijęs iš Pašuto, V. T. Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista 1950 m. Maskvoje.
 - susijęs iš Rogožos metraštis: Rogožos metraštis plačiausiai nušvietė pirmąjį Lietuvos kariuomenės žygį į Maskvą ir pabrėžė Algirdo kariavimą gudrumu.
 - susijęs iš Rusijos kariuomenė užgrobtoje Livonijoje: „Rusijos kariuomenė užgrobtoje Livonijoje“ yra vokiško informacinio leidinio fragmentas apie Maskvos kariuomenės sukeltas baisybes Livonijoje.
@@ -1148,7 +1060,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Rusų Maskvos sąvadas: Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjo vokiečiai, įvyko didelis mūšis ir nugalėjo Lietuva.
 - susijęs iš SSRS pasienio kariuomenė. 1945-1950: „SSRS pasienio kariuomenė. 1945-1950“ buvo išleista Maskvoje 1975 m.
 - susijęs iš Specimen Ecclesiae Ruthenicae: Specimen Ecclesiae Ruthenicae pateikė daugiau žinių apie Vytauto ryšių nutraukimą su Maskvos metropolitu Fotijumi.
-- susijęs iš Stepono laiškas Ivanui apie taiką su Aleksandru: Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai laikytis taikos su Aleksandru.
 - susijęs iš V. O. Ključevskij Kurs russkoj istorii: V. O. Ključevskio „Kurs russkoj istorii“ pirmasis tomas išleistas Maskvoje 1956 m.
 - susijęs iš V. T. Pašuto, Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista Maskvoje 1950 m.
 - susijęs iš Vytauto laiškai magistrui Rusdorfui dėl Lietuvos karūnos: 1430 m. rugpjūtį Vytautas laiške magistrui Rusdorfui pranešė apie Maskvos ir Tverės kunigaikščių atvykimą į Lietuvą.
@@ -1195,7 +1106,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Naugardas: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
 - susijęs iš Naugardas: Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva.
 - susijęs iš Orša: Po Smolensko paėmimo 1514 m. Konstantinas Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę.
-- susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
 - susijęs iš Prūsija: Vytauto laikais Vilniaus prekyba išsišakojo su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.
 - susijęs iš Prūsija: Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.
 - susijęs iš Pskovas: Vytauto pastangos Pskove pastatyti savo vietininką sukėlė naują konfliktą su Maskva.
@@ -1215,9 +1125,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Tverė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.
 - susijęs iš Tverė: 1328 m. Tverėje kilus sukilimui prieš Aukso ordą, Maskvos kunigaikštis gavo mongolų leidimą rinkti duoklę iš kitų Rusios kunigaikštijų.
 - susijęs iš Tverė: Tverės kunigaikštystė tuo metu buvo viena galingiausių greta Maskvos.
-- susijęs iš Tverė: Tverė, atsikračiusi teisėto kunigaikščio valdžios, susivienijo su maskvėnais.
-- susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
-- susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
+- susijęs iš Tverė: Kojelavičiaus pasakojime Tverė, atsikračiusi teisėto kunigaikščio valdžios, susivienijo su maskvėnais.
 - susijęs iš Ugra: Lietuvos metraštis Vytauto žygį prie Ugros ir Okos aiškina kaip kerštą Maskvos didžiajam kunigaikščiui už įžeidimą.
 - susijęs iš Uščižas: Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą, kai Maskvos vaivados Jakovo Zachariničiaus pajėgos priartėjo prie Briansko.
 - susijęs iš Uščižas: Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą, kai Maskvos vaivados pajėgos slapta priartėjo prie Briansko.
@@ -1225,8 +1133,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Vilniaus pilis: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
 - susijęs iš Vilnius: 1976 m. rudenį Vilniuje įsikūrė Helsinkio grupė, panaši į gegužės 12 d. įkurtą Maskvos Helsinkio grupę.
 - susijęs iš Vilnius: Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo.
-- susijęs iš Vilnius: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
-- susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
 - susijęs iš Vilnius: Į Vilnių buvo pasiųsta daug Maskvos bajorų ir pravoslavų dvasininkų, turėjusių šnipinėti ir teikti žinias Maskvai.
 - susijęs iš Vilnius: Su kunigaikštiene Elena į Vilnių buvo pasiųsta Maskvos bajorų ir pravoslavų dvasininkų šnipinėti Maskvai.
 - susijęs iš Vilnius: Nuo XIV amžiaus pirmos pusės Vilnius ir Kremlius pateikiami kaip Lietuvos ir Maskvos dinastinio antagonizmo ašys.
@@ -1249,8 +1155,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176279|Algirdas (Lietuvos valdovas)]]: Lietuvos metraščiuose užrašyti Ldk Algirdo žygiai į Maskvą laikomi epinius pasakojimus atitinkančiu siužetu.
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192078|Ietis]]: Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos.
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192079|Ietis]]: Pasak pasakojimo, Algirdas atrėmė ietį į Maskvos miesto sieną ir pareiškė, kad lietuvių ietis stovėjo prie Maskvos.
+- susijęs iš [[objektai/daiktai/Sabalų ir kitų brangių žvėrių kailiai.md#claim-t-198532|Sabalų ir kitų brangių žvėrių kailiai]]: Bychovco kronikoje pasakojama, kad po taikos su Algirdu Maskvos didysis kunigaikštis dovanojo jam sabalų ir kitų brangių bei retų žvėrių kailių.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176217|Vėliavos]]: Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
-- susijęs iš [[objektai/zodynas/legatai.md#claim-t-185419|legatai]]: Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti didesnių įgaliojimų turinčius legatus.
+- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199225|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vytautas apdovanojo Vasilijų, išlydėjo jį į Maskvą ir pats išvyko į Lietuvą.
+- susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75628|A. Hitleris]]: 1939 m. balandį Lietuvos kariuomenės vadas S. Raštikis dalyvavo A. Hitlerio 50-mečio šventime.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77967|A. Smetona]]: Grėsmės akivaizdoje A. Smetona leido A. Merkiui pasirašyti sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.
 - susijęs iš [[objektai/asmenys/Adolfas Jofė.md#claim-t-18755|Adolfas Jofė]]: Adolfo Jofės vadovaujami sovietai Lietuvą laikė nauju politiniu vienetu ir sutiko ją pripažinti remdamiesi nacijų apsisprendimo teise.
@@ -1264,7 +1172,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176291|Algirdas (Lietuvos valdovas)]]: Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176302|Algirdas (Lietuvos valdovas)]]: Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176311|Algirdas (Lietuvos valdovas)]]: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
-- susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186030|Andrejus Kurbskis]]: Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurbskį su visais palydovais.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-183839|Algirdas (Lietuvos valdovas)]]: Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.
 - susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75688|Andrejus Sacharovas]]: Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40018|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis su Kęstučiu ir Vytautu Kęstutaičiu puolė Perejeslavlį.
 - susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169958|Antanas Merkys]]: Sovietų spaudimo akivaizdoje Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį.
@@ -1284,7 +1192,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-34718|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras puolė totorių galybę, kuri Vytauto laikais jau buvo žlugusi.
 - susijęs iš [[objektai/asmenys/Dimitras (Tverės kunigaikštis).md#claim-t-97314|Dimitras (Tverės kunigaikštis)]]: Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus.
 - susijęs iš [[objektai/asmenys/Dimitras (Tverės kunigaikštis).md#claim-t-97315|Dimitras (Tverės kunigaikštis)]]: Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus.
-- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.
+- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė temniką Mamajų ir, pasak autoriaus, atsikratė totorių jungo.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-183734|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-40085|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Dovydas Gardiniškis.md#claim-t-30225|Dovydas Gardiniškis]]: Pagal M. Stryjkovskio kroniką, Dovydo Gardiniškio žmona buvo Gediminaitė.
@@ -1350,10 +1258,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Jurgis Sviatoslavaitis.md#claim-t-30320|Jurgis Sviatoslavaitis]]: Jurgį Sviatoslovaitį savo globon buvo paėmusi Riazanė, kurią iš Smolensko puolė Vytautas.
 - susijęs iš [[objektai/asmenys/Karolis Garuckas.md#claim-t-19048|Karolis Garuckas (kunigas)]]: 1976 m. Vilniuje įkurtai Helsinkio grupei priklausęs kunigas Karolis Garuckas palaikė ryšius su SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
 - susijęs iš [[objektai/asmenys/Kiprijonas.md#claim-t-63829|Kiprijonas]]: Kijevo metropolitas Kiprijonas buvo raginamas kviesti tikinčiuosius į karą prieš totorius.
-- susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184757|Konstantinas Ostrogiškis]]: Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.
+- susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184757|Konstantinas Ostrogiškis]]: Po karo su Maskva karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.
 - susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184759|Konstantinas Ostrogiškis]]: Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila.md#claim-t-87403|Kristupas Radvila]]: 1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui.
-- susijęs iš [[objektai/asmenys/Kristupas iš Viljandžio.md#claim-t-186229|Kristupas iš Viljandžio]]: Kristupas iš Viljandžio, krašto maršalas, buvo vienas iš dviejų riterių išrinktų vyrų, savo parašais patvirtinusių susitarimo raštus.
 - susijęs iš [[objektai/asmenys/Kulešinas.md#claim-t-87762|Kulešinas]]: Djakas Kulešinas per didžiojo kunigaikščio ir Elenos sutuoktuves laikė stiklinę vyno.
 - susijęs iš [[objektai/asmenys/Kuzma Mamoničius.md#claim-t-87763|Kuzma Mamoničius]]: 1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis išspausdino „Cztėry Ewangelje“.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184763|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Algirdas su broliu Kęstučiu skubiai aptarė žygūno atneštą reikalą ir slapta pasirengė karui.
@@ -1374,7 +1281,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82568|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Grįžęs į katalikybę Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
 - susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82573|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113884|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186359|Mikalojus Radvila]]: Karalius Mikalojui Radvilai, Lietuvos maršalui, atidavė Raigardą ir Goniondzą iš Glinskio turto.
 - susijęs iš [[objektai/asmenys/Muradas II.md#claim-t-35251|Muradas II]]: Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
 - susijęs iš [[objektai/asmenys/Musat-chanas.md#claim-t-183755|Musat-chanas]]: Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių caraičiui Musat-chanui.
 - susijęs iš [[objektai/asmenys/Musat-chanas.md#claim-t-39610|Musat-chanas]]: Į Lietuvos pusę perėjęs totorių caraitis Musat-chanas buvo paskirtas valdyti Kafos apylinkes.
@@ -1382,9 +1288,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184805|Mykolas Glinskis]]: Vasilijus grąžino Mykolui Glinskiui laisvę ir pagarbą, o vėliau paskyrė jį savo mažamečio sūnaus globėju.
 - susijęs iš [[objektai/asmenys/Nikonas.md#claim-t-190124|Nikonas]]: Narbutas Nikono pataisytą Bibliją ir liturgiją sieja su rusų sentikių atsiradimu Lietuvoje valdant Jonui Kazimierui.
 - susijęs iš [[objektai/asmenys/Ona Lukauskaitė-Poškienė.md#claim-t-19182|Ona Lukauskaitė-Poškienė]]: Ona Lukauskaitė-Poškienė buvo poetė, buvusi kalinė ir Vilniuje įsikūrusios Helsinkio grupės narė.
-- susijęs iš [[objektai/asmenys/Papakoda.md#claim-t-186245|Papakoda]]: Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė valia, o jos turtas buvo iššvaistytas.
 - susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184821|Petras Goštautas]]: Petras Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti juos aikštėje, kur jie skelbė Kristaus žodį.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184821|Petras Goštautas]]: Kojelavičiaus pasakojime Petras Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti aikštėje, kur jie skelbė Kristaus žodį.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184424|Petras I Didysis]]: Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184426|Petras I Didysis]]: Petro I Rusija buvo viena iš stiprėjančių centralizuotų valstybių, grasinusių Lenkijai ir Lietuvai.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184427|Petras I Didysis]]: 1721 m. Petras I Didysis paskelbė Rusiją imperija.
@@ -1402,7 +1307,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Sofija.md#claim-t-179681|Sofija]]: Sofija buvo vyriausioji Dimitro Doniečio dukteris, kurią pagal 1384 m. susitarimą turėjo vesti Jogaila.
 - susijęs iš [[objektai/asmenys/Spytkas iš Melsztyno.md#claim-t-30384|Spytkas iš Melsztyno]]: Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos.
 - susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87477|Stanislovas Goštautas]]: 1494 m. balandžio 18 d. Maskvoje Žemaičių seniūnas Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.
-- susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-184833|Stanislovas Kiška]]: Sužinojęs apie iš slėptuvių išviliotą priešo kariuomenę, Stanislovas Kiška paprašė karaliaus pagalbos.
 - susijęs iš [[objektai/asmenys/Stanislovas Strumila Petravičius.md#claim-t-186165|Stanislovas Strumila Petravičius]]: Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių protestuoti dėl paliaubų sulaužymo.
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101707|Stasys Raštikis]]: 1939 m. balandį Stasys Raštikis dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101712|Stasys Raštikis]]: Stasys Raštikis pareiškė, kad Lietuvos kariuomenė kovos, jei gaus tokį įsakymą.
@@ -1426,21 +1330,17 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-184854|Vasilijus Vasiljevičius]]: Maskvos didikai teigė, kad Maksimilijono ir Suleimano laiškai Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru.
 - susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-87932|Vasilijus Vasiljevičius]]: Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.
 - susijęs iš [[objektai/asmenys/Vasilijus.md#claim-t-185979|Vasilijus]]: Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.
-- susijęs iš [[objektai/asmenys/Vasiljevičius (Maskvos valdovas).md#claim-t-186019|Vasiljevičius (Maskvos valdovas)]]: Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti savo jėgas.
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64238|Viačeslavas Molotovas]]: 1940 m. birželio 14 d. Juozas Urbšys iš Viačeslavo Molotovo gavo ultimatumą, kuriuo reikalauta įsileisti papildomus sovietų karinius dalinius ir pakeisti vyriausybę.
 - susijęs iš [[objektai/asmenys/Viktoras Petkus.md#claim-t-19313|Viktoras Petkus]]: Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei.
 - susijęs iš [[objektai/asmenys/Vincentas Vėlavičius.md#claim-t-19318|Vincentas Vėlavičius (kunigas)]]: Kunigas Vincentas Vėlavičius priklausė 1978 m. lapkričio 13 d. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
-- susijęs iš [[objektai/asmenys/Višnioveckis.md#claim-t-186170|Višnioveckis]]: Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir išvežė juos į Skitiją.
 - susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-183768|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
 - susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-39674|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184860|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Karalius Vladislovas atkakliai ragino valdovą nusileisti.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40515|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
 - susijęs iš [[objektai/asmenys/Vladislovas Vaza.md#claim-t-79223|Vladislovas Vaza]]: Dalis Rusijos bojarinų naujuoju caru išrinko Zigmanto Vazos sūnų Vladislovą.
 - susijęs iš [[objektai/asmenys/Vosylius (Maskvos kunigaikštis).md#claim-t-35328|Vosylius (Maskvos kunigaikštis)]]: 1425 m. mirdamas Maskvos kunigaikštis Vosylius savo nepilnametį sūnų Vosylių paliko senelio Vytauto globai.
 - susijęs iš [[objektai/asmenys/Vosylius I.md#claim-t-64266|Vosylius I]]: Vosylius I buvo Vytauto žentas, su kuriuo Vytautas oficialiai laikėsi taikos.
 - susijęs iš [[objektai/asmenys/Vosylius I.md#claim-t-64267|Vosylius I]]: 1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.
 - susijęs iš [[objektai/asmenys/Vosylius I.md#claim-t-64268|Vosylius I]]: Vosyliaus I laikysena paskatino Vytautą pradėti karo veiksmus prieš Vosylių I; jie truko 1406–1408 m.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176658|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis palaikė neblogus santykius su turkais, kurie jo valdymo metu vis labiau skverbėsi į Balkanų pusiasalį.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176714|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.
 - susijęs iš [[objektai/asmenys/Zigmantas Herberšteinas.md#claim-t-40547|Zigmantas Herberšteinas]]: Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą.
 - susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114075|Zigmantas I]]: 1429 m. sausio 9–29 d. Lucko suvažiavime Zigmantas I susitiko su Vytautu ir Jogaila aptarti Vidurio ir Rytų Europos politikos.
@@ -1449,8 +1349,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87416|Šach Achmedas]]: Sugautas ir Vilniuje įkalintas Šach Achmedas kėlė rūpesčių karaliui ir seimui.
 - susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87418|Šach Achmedas]]: Šach Achmedas, Perekopo ordos chanas ir Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius.
 - susijęs iš [[objektai/asmenys/Šv. Kazimieras.md#claim-t-78017|Šv. Kazimieras]]: XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse.
-- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114106|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis Pabaisko mūšio lauke pastatė parapijos bažnyčią ir pavadino per jį tekantį upelį Viktorija.
-- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114107|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis Pabaisko pergalės atminimui mūšio lauką pavadino Pabaisku ir pastatė parapijos bažnyčią.
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184906|Žygimantas]]: Žygimantas, praradęs viltį sudaryti taiką, išsiuntė skitams sutartą atlygį, kad šie sulaikytų priešą jo žemėje.
 - susijęs iš [[objektai/autoriai/A. Spekke.md#claim-t-30542|A. Spekke]]: A. Spekke 1951 m. Stokholme paskelbė veikalą „History of Latvia, an outline“.
 - susijęs iš [[objektai/autoriai/Aleksandro Gvanjinio.md#claim-t-78739|Aleksandro Gvanjinio]]: Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais.
@@ -1473,7 +1371,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-12311|Kristaus Kančios relikvija]]: Vytauto dukra Zofija iš Smolensko į Maskvą parsivežė dovanų ir dalį Kristaus Kančios relikvijos.
 - susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-186860|Kristaus Kančios relikvija]]: Vytauto dukra Zofija, Maskvos kunigaikštienė, į Maskvą atsivežė ir dalį Kristaus Kančios relikvijos.
 - susijęs iš [[objektai/daiktai/Lagaminai rūkytų dešrų ir kumpių.md#claim-t-19546|Lagaminai rūkytų dešrų ir kumpių]]: Į Maskvą keliaudavo kyšiai, apibūdinti kaip lagaminai rūkytų dešrų ir kumpių.
-- susijęs iš [[objektai/daiktai/Sabalų ir kitų brangių žvėrių kailiai.md#claim-t-186840|Sabalų ir kitų brangių žvėrių kailiai]]: Bychovco kronikoje pasakojama, kad po taikos su Algirdu Maskvos didysis kunigaikštis dovanojo jam sabalų ir kitų brangių bei retų žvėrių kailių.
 - susijęs iš [[objektai/daiktai/Statinės medaus.md#claim-t-186846|Statinės medaus]]: Lietuvos metraščio pasakojime maskvėnai prie Tykiosios Sosnos iš Vytauto valdinių severskiečių atėmė tris statines medaus.
 - susijęs iš [[objektai/daiktai/Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės.md#claim-t-87007|Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės]]: Karaliaus raštu Vilniaus vaitui leista į užsienį parduoti tris vaško gabalus po 50 akmenų.
 - susijęs iš [[objektai/daiktai/Vytauto ir Julijonos karūnos.md#claim-t-19612|Vytauto ir Julijonos karūnos]]: Vytauto karūna laikyta būtina sąlyga Lietuvos karalystės siekiui įgyvendinti.
@@ -1492,8 +1389,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172081|Dominikonų ordinas]]: Aleksandras, įkurdinęs dominikonus, negrąžino Vingrių šaltinių Vilniaus miestui ir sutiko juos su klebonija perleisti dominikonams.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112513|Domininkonų ordinas]]: Vingrių šaltinių perleidimas dominikonams sukėlė nesiliaujančius vaidus tarp šio ordino ir Vilniaus miestiečių.
 - susijęs iš [[objektai/grupes/Estai.md#claim-t-65144|Estai]]: Rusijos imperijoje estai turėjo kultūrinių galimybių ir švietimo sąlygų, kurių siekė etniniai lietuviai.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96104|Gediminaičių dinastija]]: Po Gediminaičių dinastijos išmirimo 1572 m. abiejų tautų politinė istorija vystėsi bendroje respublikoje.
-- susijęs iš [[objektai/grupes/Goštautų giminė.md#claim-t-187760|Goštautų giminė]]: Fedoras Ivanovičius Jaroslavičius susigiminiavo su LDK didikais Goštautais ir vedęs Oleną Aleksandrą gavo Pinską.
+- susijęs iš [[objektai/grupes/Goštautų giminė.md#claim-t-187760|Goštautų giminė]]: Fedoras Ivanovičius Jaroslavičius susigiminiavo su Goštautų gimine ir, vedęs Oleną Aleksandrą, Lietuvos Didžiojoje Kunigaikštystėje gavo Pinską.
 - susijęs iš [[objektai/grupes/Habsburgai.md#claim-t-182891|Habsburgai]]: Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytų Vengrijos ir Čekijos.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172117|Jėzuitų ordinas]]: Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172118|Jėzuitų ordinas]]: 1575 m. Mikalojus Kristupas Radvila-Našlaitėlis perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
@@ -1506,14 +1402,14 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74194|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05262|Krymo chanatas]]: Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05263|Krymo chanatas]]: Nuo 1478 m. Krymo chanatas buvo Turkijos vasalas.
-- susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-184485|Krymo totoriai]]: Krymo skitų antpuoliai turėjo būti atremiami, tačiau turkų pusiasalis neturėjo būti liečiamas.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178986|Kryžiuočių ordinas]]: Kryžiuočių Slaptajame archyve Karaliaučiuje buvo Vytauto laiškų magistrui Rusdorfui dėl Lietuvos karūnos derybų.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179008|Kryžiuočių ordinas]]: 1429 m. Lucko suvažiavime dalyvavo ir Vokiečių ordino pasiuntiniai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179067|Kryžiuočių ordinas]]: Lucko suvažiavime Vokiečių ordinas rėmė Vytauto vainikavimo planą kaip atsvarą Lenkijai regione.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179279|Lietuviai]]: Įvairiakilmė LDK ponija formavo bendros savimonės „lietuvių nacijos“ ponų sluoksnį.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179344|Lietuviai]]: Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169699|Lietuvos Didžioji Kunigaikštystė]]: 1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-183155|Lietuvos Didžioji Kunigaikštystė]]: Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187719|Lietuvos Didžioji Kunigaikštystė]]: Lietuvos metraštis Vytautą vaizduoja valdžius Lietuvos ir Rusų Didžiąją Kunigaikštystę bei artimai bendravus su Vengrų valdovu.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187721|Lietuvos Didžioji Kunigaikštystė]]: LDK ir Maskvos Didžiosios Kunigaikštystės 1406-1408 m. karo veiksmai vyko LDK rytų pasienyje, Ugros ir Okos upių ruože.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74674|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74677|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą.
 - susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-13472|Lietuvos Persitvarkymo Sąjūdis]]: Pradiniame etape Sąjūdis buvo siejamas su gorbačiovine perestroika, jo pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
@@ -1531,10 +1427,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86735|Mazovijos kunigaikščiai]]: 1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme.
 - susijęs iš [[objektai/grupes/Mongolai.md#claim-t-113192|Mongolai]]: Prie Mėlynųjų vandenų Algirdo vadovaujama Lietuvos kariuomenė sutriuškino rusų žemėse su lietuviais konkuravusius mongolus.
 - susijęs iš [[objektai/grupes/NKVD.md#claim-t-71677|NKVD]]: Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.
+- susijęs iš [[objektai/grupes/Pacai.md#claim-t-200758|Pacai]]: Vorobjovo vertinimu, Pacai kartu su Sapiegomis ir Radvilomis buvo vietiniai lietuvių didikai, suvaidinę žymų vaidmenį Vilniaus baroko plėtotėje.
 - susijęs iš [[objektai/grupes/Pamario kunigaikščių sąjunga.md#claim-t-35744|Pamario kunigaikščių sąjunga]]: Jogaila su Pamario kunigaikščių sąjunga rėmė koaliciją, kuri priešinosi Vytautui dėl Smolensko.
 - susijęs iš [[objektai/grupes/Perekopo orda.md#claim-t-86767|Perekopo orda]]: Perekopo ordos chanas Šach Achmedas savo pajėgomis rėmė lietuvius prieš Mendli Girėjų.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187743|Pranciškonų ordinas]]: Lietuvos metraštis pasakoja, kad Algirdui žygiuojant prieš Maskvą Vilniaus pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
 - susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113195|Pskovo respublika]]: Naugardo ir Pskovo respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose Vytautas privertė nusilenkti savo galybei — mokėti jam duokles ir teikti dovanų.
+- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-200759|Radvilos]]: Vorobjovo vertinimu, Radvilos kartu su Pacais ir Sapiegomis buvo vietiniai lietuvių didikai, suvaidinę žymų vaidmenį Vilniaus baroko plėtotėje.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74889|Radvilos]]: Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.
 - susijęs iš [[objektai/grupes/Raudonoji armija.md#claim-t-183177|Raudonoji armija]]: Po liepos 3 d. Lietuvos kariuomenės pertvarkymo įstatymo Lietuvos kariuomenė tapo Liaudies kariuomene, vėliau – Raudonosios armijos 29-uoju šaulių korpusu.
 - susijęs iš [[objektai/grupes/Raudonoji armija.md#claim-t-78427|Raudonoji armija]]: Po liepos 3 d. Lietuvos kariuomenės pertvarkymo įstatymo Lietuvos kariuomenė tapo Liaudies kariuomene, vėliau – Raudonosios armijos 29-uoju šaulių korpusu.
@@ -1543,12 +1441,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/grupes/Rygos vyskupija.md#claim-t-41134|Rygos vyskupija]]: 1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.
 - susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-183184|SSRS kariuomenė]]: V. Molotovas J. Urbšiui pareiškė, kad SSRS kariuomenė įžygiuos į Lietuvą nepriklausomai nuo Lietuvos atsakymo.
 - susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-19998|SSRS kariuomenė]]: 1940 m. birželio 14 d. ultimatumu SSRS pareikalavo, kad Lietuva įsileistų papildomus sovietų karinius dalinius.
-- susijęs iš [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai.md#claim-t-187762|Slucko kunigaikščiai Olelkaičiai]]: Fedoras Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais ir, vedęs Oleną Aleksandrą, gavo Pinską.
+- susijęs iš [[objektai/grupes/Sapiegos.md#claim-t-200760|Sapiegos]]: Sapiegos kartu su Pacais ir Radvilomis minimi kaip vietiniai lietuvių didikai, suvaidinę žymų vaidmenį Vilniaus baroko plėtotėje.
+- susijęs iš [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai.md#claim-t-187762|Slucko kunigaikščiai Olelkaičiai]]: Fedoras Ivanovičius Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais ir, vedęs Oleną Aleksandrą, gavo Pinską.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74924|Sovietų Sąjunga]]: 1940 m. birželio 15 d. į Lietuvą atvykusiam sovietų emisarui Vladimirui Dekanozovui atiteko reali aukščiausioji valdžia.
 - susijęs iš [[objektai/grupes/Stepono Batoro vengrų kariuomenė.md#claim-t-86827|Stepono Batoro vengrų kariuomenė]]: Žygyje prieš Maskvos kunigaikštį ties Velikije Lūki Gabrielis Bekešas vadovavo Stepono Batoro vengrų kariuomenės riteriams.
 - susijęs iš [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas.md#claim-t-20047|Tikinčiųjų teisių gynimo komitetas (institucija)]]: Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.
 - susijęs iš [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas.md#claim-t-20048|Tikinčiųjų teisių gynimo komitetas (institucija)]]: 1978 m. lapkričio 13 d. Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas kėlė religinės diskriminacijos problemą.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171420|Totoriai]]: Totoriams strateginį privalumą teikė jų pagrindinės buveinės Krymo pusiasalyje nuošalumas nuo stiprių galios centrų.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171422|Totoriai]]: Vytauto laikais totorių valstybė išgyveno krizę: Orda buvo suskilusi, o atskiri saarai nuolat kariavo.
 - susijęs iš [[objektai/grupes/Tverės ir Riazanės kunigaikščiai.md#claim-t-86772|Tverės ir Riazanės kunigaikščiai]]: 1430 m. Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55080|Vilniaus miestiečių luomas]]: Algirdo laikais Vilniaus miestiečiai gavo privilegiją laisvai prekiauti visoje Lietuvos valstybėje nemokėdami muito.
@@ -1565,15 +1463,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187463|Algirdo žygis į Maskvą]]: Lietuvos metraštis teigia, kad Algirdas išsaugojo visus savo žmones.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187465|Algirdo žygis į Maskvą]]: Lietuvos metraštis teigia, kad po šio žygio siena buvo nukelta ligi Možaisko ir Kolomnos.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187466|Algirdo žygis į Maskvą]]: Lietuvos metraštis pasakoja, kad Algirdas iš žygio grįžo su daugybe belaisvių ir grobio.
-- susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186783|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Pagal 1501 m. Aukso ordos ir LDK sutartį Aukso orda apie 1501 m. birželį iš Volgos ir Dono žemupio stepių persimetė į Dono aukštupį.
 - susijęs iš [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis).md#claim-t-171461|Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]: Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o Aukščiausiosios Tarybos gynyba buvo geriau organizuota.
 - susijęs iš [[objektai/ivykiai/Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje.md#claim-t-86941|Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje]]: Algirdo valdymo pradžioje jo žmonos, Tverės kunigaikštytės, atkvieti Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.
-- susijęs iš [[objektai/ivykiai/Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas.md#claim-t-185798|Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas]]: Kol karalius buvo išvykęs, Bogdanas smarkiai nuniokojo Rusią, sudegino kelis miestus ir daugybę bažnyčių.
 - susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-66524|Dovydiškių sutarties sudarymas]]: 1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino.
-- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186644|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Vilniuje įvyko iškilmingos Aleksandro ir Elenos vestuvės, trukusios kelias savaites.
-- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186647|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Elena buvo atgabenta į Vilnių dvi savaitės prieš Užgavėnes.
 - susijęs iš [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki.md#claim-t-86945|Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]: Žygyje ties Velikije Lūki Gabrielis Bekešas buvo paskirtas vadovauti vengrų kariuomenės riteriams.
-- susijęs iš [[objektai/ivykiai/Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas.md#claim-t-186667|Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas]]: Lietuvos metraštis Ivano Vasiljevičiaus karo prieš Aleksandrą sumanymą sieja su sąmokslu su Mengli-Girėjumi ir taika su Steponu.
 - susijęs iš [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą.md#claim-t-31420|Jonas III pirmasis kardu užatakavo Lietuvą]]: 1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą.
 - susijęs iš [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją.md#claim-t-185801|Karalienės Bonos išvykimas į Italiją]]: Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.
 - susijęs iš [[objektai/ivykiai/Keturiolikos pranciškonų nužudymas Vilniuje.md#claim-t-187477|Keturiolikos pranciškonų nužudymas Vilniuje]]: Lietuvos metraščio pasakojime Algirdui žygiuojant prieš Maskvą Vilniaus miestiečiai pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
@@ -1601,8 +1494,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/ivykiai/Livonijos karai.md#claim-t-45429|Livonijos karai]]: Bandymai įsitvirtinti Livonijoje ir išeiti į Baltijos jūrą kėlė konfliktus tarp ATR, Rusijos ir XVII a. kariškai sustiprėjusios Švedijos.
 - susijęs iš [[objektai/ivykiai/Lucko suvažiavimas.md#claim-t-75250|Lucko suvažiavimas]]: Lucko suvažiavimas vyko 1429 m. sausio 9–29 d. ir buvo skirtas Vidurio bei Rytų Europos politikos problemoms aptarti.
 - susijęs iš [[objektai/ivykiai/Lucko suvažiavimas.md#claim-t-75251|Lucko suvažiavimas]]: Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione ir į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano.
-- susijęs iš [[objektai/ivykiai/Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.).md#claim-t-185615|Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)]]: Karalius Kazimieras Vilniuje priėmė Tverės didįjį kunigaikštį, pabėgusį pas jį po maišto Tverėje.
-- susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185750|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus.
+- susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185750|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Kojelavičiaus pasakojime Maskvos kunigaikštis Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią sakėsi telkęs karui prieš skitus ir švedus.
 - susijęs iš [[objektai/ivykiai/Mohačo mūšis.md#claim-t-77903|Mohačo mūšis]]: 1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.
 - susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35870|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: 1424 m. Niešavoje sudaryta prekybos sutartis „über transitus“ nustatė laisvą tranzitinę prekybą tarp kelių kraštų pirklių.
 - susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35871|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus.
@@ -1616,8 +1508,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės.md#claim-t-185768|Skitų sumušimas Volynėje ir prie Slučės]]: Krymo skitai trimis žygio voromis smarkiai nuniokojo Volynę, kai dėl karo su Maskva joje nebuvo likę karių ir karvedžių.
 - susijęs iš [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.).md#claim-t-86889|Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]: Steponas Batoras privilegijoje pabrėžė Gabrielio Bekešo nuopelnus tarnaujant valdovui, Karalystei ir Lietuvos Didžiajai Kunigaikštystei.
 - susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20520|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.
-- susijęs iš [[objektai/ivykiai/Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas.md#claim-t-185651|Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas]]: Po trečio nesėkmingo bandymo užimti Smolenską Dimitrijus nuniokojo miesto apylinkės kaimus.
-- susijęs iš [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais.md#claim-t-185780|Vasilijaus taikos prašymas ir taika su maskvėnais]]: Jonui Sapiegai, karaliaus vardu valdžiusiam Vitebską, buvo pavesta tartis su Vasilijaus pasiuntiniais dėl taikos sąlygų.
+- susijęs iš [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais.md#claim-t-185780|Vasilijaus taikos prašymas ir taika su maskvėnais]]: Po Kiškos žygio Vasilijus, Maskvos kunigaikštis, pasiūlė karaliui sudaryti taiką ir atsiųsti didesnių įgaliojimų legatus.
 - susijęs iš [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.).md#claim-t-75300|Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir dalies Lietuvos teritorijos perdavimo Vokietijai sutartis.
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45452|Vilniaus universiteto įkūrimas (1579 m.)]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
 - susijęs iš [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.).md#claim-t-20554|Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]: 1940 m. birželio 15 d. pavakare iš Maskvos į Lietuvą atvykusiam sovietų emisarui Vladimirui Dekanozovui atiteko reali aukščiausioji valdžia.
@@ -1642,7 +1533,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika.md#claim-t-54230|Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]: Lietuvos Metrikos dokumentai laikomi svarbiausiu LDK istorijos šaltiniu.
 - susijęs iš [[objektai/paprociai/Imperatoriaus dvaro ceremonialo perėmimas.md#claim-t-184347|Imperatoriaus dvaro ceremonialo perėmimas]]: Jonas III, laikydamas save Bizantijos imperijos paveldėtoju, perėmė dvigalvį erelį, imperatoriaus dvaro ceremonialą ir savinosi caro titulą.
 - susijęs iš [[objektai/paprociai/Imperatoriaus dvaro ceremonialo perėmimas.md#claim-t-28918|Imperatoriaus dvaro ceremonialo perėmimas]]: Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, perėmė jos dvigalvį erelį bei imperatoriaus dvaro ceremonialą ir savinosi caro titulą.
-- susijęs iš [[objektai/paprociai/Krikščionių tikėjimo skelbimas viešose ir uždarose vietose.md#claim-t-185876|Krikščionių tikėjimo skelbimas viešose ir uždarose vietose]]: Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomai skelbti tikėjimo tiesas viešose ir uždarose vietose.
 - susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75373|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Senrusių žemėse lietuviai atrado bažnytinę sistemą ir raštiją, kurių patys neturėjo.
 - susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75378|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Rusios žemėse lietuviai rado bažnytinę sistemą ir raštiją, kurių patys neturėjo.
 - susijęs iš [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui.md#claim-t-183327|Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]: 1883 m. Rytprūsiuose pradėta leisti „Aušra“ buvo pirmasis Didžiajai Lietuvai skirtas periodinis leidinys lietuvių kalba ir tradiciniu raidynu.
@@ -1654,7 +1544,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/paprociai/Pasiuntinių atsisakymas dalyvauti vaišėse dėl garbingesnės vietos užstalėje.md#claim-t-185881|Pasiuntinių atsisakymas dalyvauti vaišėse dėl garbingesnės vietos užstalėje]]: Maskvos pasiuntiniai Krokuvoje atsisakė dalyvauti karaliaus vaišėse, nenorėdami varžytis dėl garbingesnės vietos užstalėje su kitais pasiuntiniais.
 - susijęs iš [[objektai/paprociai/Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje.md#claim-t-77953|Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje]]: Pranciškus Skorina, pirmasis Lietuvos spaustuvininkas, 1517–1519 m. Prahoje išspausdino „Rusėnų Bibliją“, o 1522 m. įkūrė spaustuvę Vilniuje.
 - susijęs iš [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius.md#claim-t-87302|Svetimšalių pirklių prekyba per Vilniaus pirklius]]: Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metines muges, galėjo prekėmis mainytis tik su Vilniaus pirkliais.
-- susijęs iš [[objektai/paprociai/Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius.md#claim-t-185854|Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius]]: Maskvos kunigaikštis Vasilijus per tarpininką siūlė taiką, žadėjo siųsti įgaliotus legatus, o didikai paragino karalių taikai pritarti.
 - susijęs iš [[objektai/paprociai/Tarpvalstybinio ginčo tvarkymas per įgaliotus derybininkus, atstovus ir protesto pasiuntinius.md#claim-t-185896|Tarpvalstybinio ginčo tvarkymas per įgaliotus derybininkus, atstovus ir protesto pasiuntinius]]: Vasiljevičius pasiūlė ginčą dėl žemių patikėti spręsti abiejų šalių atstovams.
 - susijęs iš [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje.md#claim-t-183695|Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]: Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.
 - susijęs iš [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje.md#claim-t-78728|Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]: Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.
@@ -1665,7 +1554,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/posakiai/Kad tik be arklio nebūtų.md#claim-t-47948|Kad tik be arklio nebūtų]]: Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, kad tik neliktų be arklio.
 - susijęs iš [[objektai/posakiai/Kto w Wilnie nie bywał, tot czudes nie widał.md#claim-t-55180|Kto w Wilnie nie bywał, tot czudes nie widał]]: Maskvoje buvo išlikęs priežodis „Kto w Wilnie nie bywał, tot czudes nie widał“.
 - susijęs iš [[objektai/posakiai/Kto w Wilnie nie bywał, tot czudes nie widał.md#claim-t-55181|Kto w Wilnie nie bywał, tot czudes nie widał]]: „Kto w Wilnie nie bywał, tot czudes nie widał“ lietuviškai aiškinama kaip „Kas Vilniuje nebuvo, tas stebuklų neregėjo.“
-- susijęs iš [[objektai/posakiai/O trečių vasarų.md#claim-t-186892|O trečių vasarų]]: Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m.
 - susijęs iš [[objektai/posakiai/Papam vestrum nec novi, nec nosse cupio.md#claim-t-55187|Papam vestrum nec novi, nec nosse cupio]]: Krantzas Gediminui priskyrė lotynišką pareiškimą „Papam vestrum nec novi, nec nosse cupio“.
 - susijęs iš [[objektai/posakiai/Papam vestrum nec novi, nec nosse cupio.md#claim-t-55188|Papam vestrum nec novi, nec nosse cupio]]: Formulė „Papam vestrum nec novi, nec nosse cupio“ lietuviškai aiškinama kaip „Jūsų Tėvo nei pažinojau, nei trokštu pažinti“.
 - susijęs iš [[objektai/posakiai/Viešumas, demokratija, suverenumas.md#claim-t-13363|Viešumas, demokratija, suverenumas]]: „Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis.
@@ -1756,7 +1644,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Vasario 16 Aktas: 1918 m. Vasario 16 Aktas savo dvasia buvo artimas Kovo 11 Aktui, kuris nebesirėmė tautų apsisprendimo teise.
 - susijęs iš Wpływy zakonne na ustrój litewski: Wł. Kamienieckio straipsnis „Wpływy zakonne na ustrój litewski“ paskelbtas 1925 m. PH 25 tome, p. 160–186.
 - susijęs iš Wremiennik Sofijski: Sofijski Wremiennik pateikia 1430 m. Trakų-Vilniaus suvažiavimo pas Vytautą dalyvių sąrašą.
-- susijęs iš Įstatymas, leidžiantis krikščionims skelbti tikėjimo tiesas: Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomiems viešose ir uždarose vietose skelbti tikėjimo tiesas.
 - susijęs iš Alūksnė: 1560 m. rusai užėmė Alūksnę ir Viljandį.
 - susijęs iš Augustavas: Nepaisydamos Lietuvos neutraliteto, kariaujančios pusės puolė lietuvių įgulas Gardino ir Augustavo ruože.
 - susijęs iš Berlynas: Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konfliktą.
@@ -1775,7 +1662,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Didysis Naugardas: 1407 m. Vytautas susitaikė su Didžiuoju Naugardu ir grąžino ten sau ištikimą Lengvenį Algirdaitį.
 - susijęs iš Didysis Naugardas: Vytautas 1428 m. pajungė Didįjį Naugardą tikrindamas rytinius Lietuvos valstybės pakraščius.
 - susijęs iš Didysis Naugardukas: Įvade nurodoma, kad Bychovco kronikoje iškeliamas Vytauto pranašumas prieš Vasilijų, Pskovą ir Didįjį Naugarduką.
-- susijęs iš Didysis Naugardukas: Įvade Didysis Naugardukas minimas tarp feodalinių respublikų, aptariant LDK santykius su Rusų valstybe.
 - susijęs iš Dniepras: Po šešerių metų paliaubų Maskvai paliktos žemės nulėmė, kad jos sienos jau siekė Dnieprą.
 - susijęs iš Dniepras: Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link.
 - susijęs iš Dniepras: Maskvai palikus Černigovą, Naugardą Sieverską, Starodubą ir Okos paupius, jos sienos jau siekė Dnieprą.
@@ -1792,11 +1678,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Kauno Vilniaus pirklių prekių sandėlis: Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.
 - susijęs iš Kazanė: Į Vytauto suvažiavimą atvyko ir Kazanės pasiuntiniai.
 - susijęs iš Kijevas: Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.
-- susijęs iš Kijevas: 1300 m. visos Rusios metropolitas perkėlė sostinę iš totorių puolimų grėsmėje buvusio Kijevo į Vladimirą.
 - susijęs iš Kijevas: Maskvos metropolitas Fotijas siekė išprašyti Kijevo metropolijos prijungimą prie Maskvos, bet nieko nelaimėjęs išvyko.
-- susijęs iš Kijevas: 1300 m. visos Rusios metropolitas perkėlė sostinę iš nuolatinių totorių puolimų grėsmėje buvusio Kijevo į šiaurinės Rusios Vladimirą.
 - susijęs iš Kijevas: Gerokai prieš XIII amžių pietų Rusioje klestėjo senasis Kijevas, vadintas Rytų apeigų tikėjimo lopšiu ir buvęs garsios monarchijos sostine.
-- susijęs iš Kijevas: 1300 m. visos Rusios metropolitas perkėlė savo sostinę iš totorių puolimų grėsmėje buvusio Kijevo į Vladimirą.
+- susijęs iš Kijevas: Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo.
 - susijęs iš Kinija: Vilniaus akademiją steigę jėzuitai manė, kad per Maskoviją ir totorius galima pasiekti Kiniją.
 - susijęs iš Klaipėda: Maskva grasino prijungti lietuvišką Klaipėdos kraštą prie RSFSR Kaliningrado srities.
 - susijęs iš Koložas: Koložas buvo Gardino priemiestis.
@@ -1809,7 +1693,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Krokuva: Maskvos kunigaikštis pasiuntiniams į Krokuvą nurodydavo pareikšti užuojautą, jei karalius Zigmantas būtų miręs.
 - susijęs iš Krokuva: Maskvos kunigaikštis į Krokuvą siunčiamų pasiuntinių instrukcijose nurodydavo pareikšti užuojautą, jei karalius būtų miręs.
 - susijęs iš Krokuva: Prie Vorsklos žuvo Vytautui ištikimi Smolensko vietininkai Boreikaičiai ir Krokuvos vaivada Spytekas iš Melsztyno.
-- susijęs iš Krėva: Į Lietuvą įsiveržusi totorių kariuomenė užėmė Krėvą, Lydą, Vilnių, Trakus ir kitas vietoves bei priartėjo prie Kauno.
 - susijęs iš Leningradas: 1950 m. leidinys „Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych knjazej XIV-XVI vv.“ buvo išleistas Maskvoje ir Leningrade.
 - susijęs iš Leningradas: 1949 m. leidinys „Gramoty Velikogo Novgoroda i Pskova“ buvo išleistas Maskvoje ir Leningrade.
 - susijęs iš Lenkija: Lietuvos pietvakariuose buvusi Lenkija tapo ilgamečio konflikto su Lietuva dalyve.
@@ -1832,10 +1715,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Minskas: Mechmetas Girėjus nužygiavo iki Minsko, nuniokojo kraštą, sudegino miestą ir neapgulė pilies.
 - susijęs iš Mohačas: Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.
 - susijęs iš Mozyrius: Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.
-- susijęs iš Mozyrius: Ties Lojevu žygio dalyviai persikėlė į dešinįjį Dniepro krantą ir pasuko vakarų kryptimi Mozyriaus bei Slucko link.
+- susijęs iš Mozyrius: Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš Mozyrius: Maišto vadui pavyko užimti tik Mozyrių ir Turovą, o Sluckas ir Minskas jam nepasidavė.
 - susijęs iš Mozyrius: Maišto vadui pavyko užimti Mozyrių ir Turovą, bet Sluckas ir Minskas jam nepasidavė.
-- susijęs iš Možaiskas: Žygūnas per naktines pamaldas pranešė kunigaikščiui, kad priešą paliko Možaiske.
 - susijęs iš Možaiskas: Pagal taikos sąlygas Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
 - susijęs iš Možaiskas: Pirmoji pasiuntinybė patraukė į Možaiską tik gavusi žinią, kad karaliaus legatai yra Smolenske.
 - susijęs iš Narevas: Lietuviai puolė kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo, kai Livonijos magistras buvo prie Vilniaus.
@@ -1860,23 +1742,19 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Piltenė: Piltene vadintos buvusios Kuršo vyskupystės žemės.
 - susijęs iš Pinskas: Jaunutis pabėgo kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu.
 - susijęs iš Pinskas: Narimantas, Pinsko kunigaikštis, po Kęstučio 1345 m. puolimo ieškojo prieglobsčio pas totorių chaną.
+- susijęs iš Pinskas: Valdymo pabaigoje Pinskas buvo tarp vietų, kuriose dar liko atskiros kunigaikštystės.
 - susijęs iš Polockas: Maskvos caras pyko, kad Steponas Batoras nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų.
 - susijęs iš Polockas: Tikėta, kad šventuoju paskelbtas Kazimieras 1518 m. padėjo Lietuvos kariuomenei įveikti priešą prie Polocko.
 - susijęs iš Polockas: Maskvos caras pyko, kad Steponas Batoras nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų.
 - susijęs iš Praha: Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius.
 - susijęs iš Pronskas: Vytautas toliausiai nužygiavo iki Okos prieupio Znos už Pronsko, visai netoli dabartinės Penzos.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai.
 - susijęs iš Pskovas: Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.
 - susijęs iš Pskovas: Kazimierui pasidalijus įtakos sritimis su Maskva, Pskovas ir Didysis Naugardas buvo palikti Maskvos įtakoje.
-- susijęs iš Pskovas: 1411 metų pavasarį Polocke Pskovo pasiuntiniai atvyko pas Vytautą ir užmezgė taikingus santykius.
-- susijęs iš Pskovas: Polocke pas Vytautą atvykę Pskovo pasiuntiniai užmezgė su juo taikingus santykius.
 - susijęs iš Pskovas: 1409 m. vasarą Vytautas sudarė sau naudingą taiką su Pskovu, nors Salyno ir Raciąžo aktai Pskovą buvo garantavę Ordino įtakai.
 - susijęs iš Pskovas: 1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.
 - susijęs iš Pskovas: Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi.
 - susijęs iš Pskovas: 1581 m. Pskovo puolimui buvo sutelkta apie 47 tūkst. karių, iš jų apie 23 tūkst. buvo iš LDK.
 - susijęs iš Pskovas: 1449 m. Kazimiero ir Maskvos taikoje Pskovas buvo paliktas Maskvos įtakos sričiai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Pskovo kunigaikščiai.
 - susijęs iš Riazanė: Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė.
 - susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
 - susijęs iš Riazanė: Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos.
@@ -1897,9 +1775,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Saremos: Danams atiteko Saremos, arba Eželio, vyskupystė.
 - susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
 - susijęs iš Serpeiskas: Po 1494.II.5 sutarties Serpeiskas paliko LDK.
-- susijęs iš Seversko žemė: Į seimą susirinkę Seversko žemės didikai ketino raginti karalių pasirūpinti tos žemės gynyba.
 - susijęs iš Silezija: Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.
-- susijęs iš Sluckas: Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.
 - susijęs iš Sluckas: Valdymo pabaigoje Slucke liko atskira kunigaikštystė, bet jos pilį valdė didžiojo kunigaikščio vietininkai.
 - susijęs iš Sluckas: Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti.
 - susijęs iš Sluckas: Žygio maršrutas nuo Lojevo ėjo vakarų kryptimi Mozyriaus ir Slucko link.
@@ -1917,16 +1793,15 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Smolenskas: Vytautas dvi savaites Smolenske vaišino savo dukterį Zofiją su vaikais.
 - susijęs iš Smolenskas: Po Liublino unijos Lietuva kartu su Lenkija vėliau atsiėmė Smolenską.
 - susijęs iš Smolenskas: Karvedžių pasitarime nuspręsta, kad karalius su smulkesniais būriais apsistos Smolensko apylinkėse.
-- susijęs iš Smolenskas: Ivanas Vasiljevičius paleido į Smolenską smolenskiečius, kurie minėtuose miestuose buvo paimti į nelaisvę.
 - susijęs iš Sovietų Rusija: 1920 m. liepos 12 d. Taikos sutartis su Sovietų Rusija buvo laikoma dideliu Lietuvos diplomatijos laimėjimu.
 - susijęs iš Spa: Kai lenkų daliniai, spaudžiami bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.
 - susijęs iš Stabina: Lietuvos vyriausybė pasiūlė laikiną demarkacijos liniją, kuri turėjo eiti per Grabovą, Augustavą ir Stabiną.
-- susijęs iš Starodubas: 1379-1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Starodubą ir Trubčevską.
 - susijęs iš Tartai: Tuo metu Maskva buvo užgrobusi Tartų, dar vadintų Dorpatu, vyskupystę.
 - susijęs iš Tartu: 1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje.
 - susijęs iš Tartu: Po Stepono Batoro karų su Maskva jėzuitų kolegija buvo įkurta ir Tartu (Dorpate).
 - susijęs iš Tobolskas: Narbuto pasakojime Tovelas, arba Tobalas, minimas kaip Šventojo Rašto protėvis ir Tobolsko pavadinimo pirmtakas.
 - susijęs iš Trakai: 1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o paskui pasiųstas gyventi į Trakus.
+- susijęs iš Trakai: Mykolas žadėjo paklusti Kazimierui ir prašė, kad jam būtų palikti Trakai bei nubausti tėvo žudikai.
 - susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.
 - susijęs iš Trubčevskas: 1379–1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Trubčevską.
 - susijęs iš Tverė: Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai.
@@ -1936,13 +1811,11 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Tverė: Tverio-Riazanės kunigaikščiai buvo tarp atvykusių dalyvių kartu su Naugardo ir Pskovo kunigaikščiais.
 - susijęs iš Tverė: 1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.
 - susijęs iš Tverė: Maskva privertė Lietuvos sąjungininkę Tverę pasiduoti savo valdžiai.
-- susijęs iš Tverė: Tverėje kilus maištui, Tverės didysis kunigaikštis, valdinių išvytas iš senolių valdų, pabėgo pas karalių į Vilnių.
 - susijęs iš Ugros upė: Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upės.
 - susijęs iš Uščižas: Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą.
 - susijęs iš Užnemunė: Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą.
 - susijęs iš Varšuva: 1920 m. Spa konferencijoje didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai, ir Varšuva sutiko.
 - susijęs iš Vengrija: 1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.
-- susijęs iš Viazma: Po amžinos taikos sutarties Maskvos valdovas Ivanas Vasiljevičius pasiliko Viazmą ir kitus minėtus miestus bei valsčius sau.
 - susijęs iš Viazmos žemė: Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę.
 - susijęs iš Viktorijos upelis: Žygimantas per Pabaisko mūšio lauką tekėjusį mažą upelį pavadino Viktorija.
 - susijęs iš Vilija: Vilniaus pirklių laivams, vadintiems vytinėmis, buvo leista laisvai plaukioti Vilijos upe.
@@ -1950,14 +1823,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Vilniaus regionas: Grasinant Lietuvai siūlyta iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar mini Lietuvos SSR.
 - susijęs iš Vilniaus turgus: 1580 m. birželio 18 d. Vilniaus turguje už klastą ir tėvynės išdavystę buvo nukirsdintas Jurgis Astikas.
 - susijęs iš Vilnius: Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.
-- susijęs iš Vilnius: Pirmasis Stepono Batoro atvykimas į Vilnių 1579 metų pavasarį buvo įsimintinas miestui.
 - susijęs iš Vilnius: 1564 m. pradžioje į LDK įsiveržusios dvi Maskvos kariuomenės planavo pulti Minsko, Naugarduko ir Vilniaus kryptimi.
-- susijęs iš Vilnius: Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo apeigas.
 - susijęs iš Vilnius: Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.
-- susijęs iš Vilnius: Maskvos pasiuntinys grasino, kad per Velykas Maskvos valdovas kaip nugalėtojas įžengs į Vilnių.
 - susijęs iš Vilnius: Maskvos pasiuntinybė pareikalavo, kad po Lietuvą išmėtyti maskvėnų belaisviai būtų suvaryti į Vilnių ir geriau laikomi.
 - susijęs iš Vilnius: Sugrįžęs iš Maskvos Jesmanas Vilniuje rado karalių ir karalienę.
-- susijęs iš Vilnius: 1495 m. vasario 15 d. Maskvos kunigaikštytė Elena atvyko į Vilnių, kur tą pačią dieną Vilniaus katedroje įvyko jos jungtuvės su Aleksandru.
 - susijęs iš Vitebskas: 1562 m. maskvėnai nusiaubė Vitebsko apylinkes, o lietuviai atsakydami nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje.
 - susijęs iš Viznos apylinkės: Kai Livonijos magistras buvo prie Vilniaus, lietuviai pietvakariuose atakavo kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo.
 - susijęs iš Vladimiras (prie Kliazmos): 1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos.
@@ -1967,7 +1836,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš Vokietija: 1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis ir su ja pasiekė daugiausia užsienio politikos susitarimų.
 - susijęs iš Vorotinskas: Vorotinsko kunigaikščiai prisiekė Vytautui ištikimybę ir pažadėjo karo paramą.
 - susijęs iš Zaslavlis: Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno.
-- susijęs iš Zaslavlis: Zaslavlis buvo gyvenvietė apie 20 km į šiaurės vakarus nuo Minsko.
 - susijęs iš Zna: Vytautas toliausiai nuėjo iki Okos prieupio Zna už Pronsko, netoli dabartinės Penzos.
 - susijęs iš Černigovas: Valdymo pabaigoje Černigovo krašte dar buvo likusios kelios atskiros kunigaikštystės.
 - susijęs iš Švedija: 1581 m. Steponas Batoras iš Vilniaus išsiuntė pasiuntinybę į Švediją per Lauryną Goslickį.
@@ -1996,7 +1864,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/zodynas/kulto laisvė.md#claim-t-22201|kulto laisvė]]: Tikinčiųjų teisių gynimo komitetas teigė, kad kulto laisvė praktikoje varžoma, ir siekė katalikams lygių teisių su ateistais.
 - susijęs iš [[objektai/zodynas/kunigaikštija.md#claim-t-36801|kunigaikštija]]: Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savarankiškumą viduje.
 - susijęs iš [[objektai/zodynas/kustodas.md#claim-t-86532|kustodas]]: Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas, pardavęs karalienei Elenai paveldėtą sklypą Vilniaus pilyje.
-- susijęs iš [[objektai/zodynas/legatai.md#claim-t-185419|legatai]]: Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti didesnių įgaliojimų turinčius legatus.
 - susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika istorinio pirmumo teisė.md#claim-t-77811|lenkų pradų naikinimo politika istorinio pirmumo teisė]]: Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo „lenkų pradų naikinimo“ politiką, grįstą „istorinio pirmumo“ teise.
 - susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika.md#claim-t-75568|lenkų pradų naikinimo politika]]: Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.
 - susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika.md#claim-t-75569|lenkų pradų naikinimo politika]]: Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo politiką, vadintą „lenkų pradų naikinimo“ politika.
@@ -2006,12 +1873,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/zodynas/metropolija.md#claim-t-97282|metropolija]]: 1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos, didindamas pavojų Lietuvos stačiatikių plotams.
 - susijęs iš [[objektai/zodynas/metropolitas metropolija.md#claim-t-86539|metropolitas metropolija]]: Maskvos metropolitas Fotijas siekė Kijevo metropolijos prijungimo prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.
 - susijęs iš [[objektai/zodynas/metropolitas metropolija.md#claim-t-86540|metropolitas metropolija]]: Maskvos metropolitų religinė viršenybė Lietuvos rusiškojo tikėjimo vyskupams laikyta vienu didžiausių nepatogumų.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-05451|metropolitas]]: Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-05453|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-05455|metropolitas]]: Lietuvos stačiatikių žemės vėl buvo pajungtos visos Rusijos metropolitui.
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-187523|metropolitas]]: Lietuvos metraščio pastaboje Gerasimas 1432 m. Švitrigailos pasiūlymu Konstantinopolyje įšventintas LDK, Maskvos ir kitų rusų žemių metropolitu.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-97284|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-97285|metropolitas]]: Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.
 - susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.
 - susijęs iš [[objektai/zodynas/penktoji kolona.md#claim-t-22241|penktoji kolona]]: Prosovietinė organizacija „Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje ir priešinosi nepriklausomybės atkūrimui.
 - susijęs iš [[objektai/zodynas/pertvarka perestroika.md#claim-t-183451|pertvarka perestroika]]: Pradiniame etape Sąjūdis rėmė Maskvoje pradėtas perestroikos reformas ir siekė jas įgyvendinti Lietuvoje.
@@ -2020,8 +1882,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/zodynas/raštinių kultūra.md#claim-t-22262|raštinių kultūra]]: Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto poreikis ir vienuolijų trūkumas Lietuvoje.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169932|rusėnų kalba LDK raštų kalba]]: Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba.
 - susijęs iš [[objektai/zodynas/saar.md#claim-t-70316|saar]]: Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.
-- susijęs iš [[objektai/zodynas/seimas.md#claim-t-187528|seimas]]: Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome.
-- susijęs iš [[objektai/zodynas/skitai.md#claim-t-185341|skitai]]: Krymo skitų antpuoliai turėjo būti atremiami, o turkų pusiasalis neliečiamas.
 - susijęs iš [[objektai/zodynas/suverenitetas suverenumas.md#claim-t-104204|suverenitetas suverenumas]]: Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę bei suverenumą.
 - susijęs iš [[objektai/zodynas/suverenitetas suverenumas.md#claim-t-104205|suverenitetas suverenumas]]: Maskva patvirtino, kad Lietuva turi suverenias teises į Vilnių, kol neatsisakys suverenumo Lenkijos naudai.
 - susijęs iš [[objektai/zodynas/suverenitetas suverenumas.md#claim-t-183470|suverenitetas suverenumas]]: Pradiniame Sąjūdžio etape pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
@@ -2038,27 +1898,28 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Vosylius II.md#claim-t-35334|Vosylius II]]: Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius II valdė Didžiąją Maskvos kunigaikštiją.
 - susijęs iš [[objektai/asmenys/Vosylius.md#claim-t-51192|Vosylius]]: Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius valdė Didžiąją Maskvos kunigaikštiją.
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-05288|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: Pirmojo žygio metu lietuviai pasiekė Maskvos vartus, tačiau Algirdas nebuvo pasirengęs ilgam apgulimui.
-- susijęs iš Įstatymas, leidžiantis krikščionims skelbti tikėjimo tiesas: Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomiems viešose ir uždarose vietose skelbti tikėjimo tiesas.
 - susijęs iš Saremos: Danams atiteko Saremos, arba Eželio, vyskupystė.
 - susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
-- susijęs iš Zaslavlis: Zaslavlis buvo gyvenvietė apie 20 km į šiaurės vakarus nuo Minsko.
 - susijęs iš [[objektai/asmenys/Motiejus Kločka.md#claim-t-186070|Motiejus Kločka]]: Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi.
-- susijęs iš Vilnius: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
 - susijęs iš Livonija: Vytauto laikais Vilniaus prekyba plėtėsi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
 - susijęs iš [[objektai/asmenys/Mengli Girėjus.md#claim-t-195002|Mengli Girėjus]]: Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus.
 - susijęs iš [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas.md#claim-t-186156|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]: Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.
 - susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87477|Stanislovas Goštautas]]: 1494 m. balandžio 18 d. Maskvoje Žemaičių seniūnas Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.
 - susijęs iš [[objektai/asmenys/Stanislovas Jendžejevskis.md#claim-t-186255|Stanislovas Jendžejevskis]]: Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais.
-- susijęs iš [[objektai/asmenys/Stanislovas Pacas.md#claim-t-186081|Stanislovas Pacas]]: Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių Ostrogiškių valdas.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187460|Algirdo žygis į Maskvą]]: Algirdas, anot šaltinio, po pasiuntinio atleidimo sušaukė lietuvių bei rusų kariuomenę ir iš Vitebsko patraukė į Maskvą.
 - susijęs iš [[objektai/paprociai/Padėkos pamaldos už karinę pergalę.md#claim-t-185880|Padėkos pamaldos už karinę pergalę]]: Po pergalės karalius ir karalienė Vilniuje per iškilmingas mišias padėkojo Dievui.
+- susijęs iš [[objektai/posakiai/O trečių vasarų.md#claim-t-199232|O trečių vasarų]]: Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m.
 - susijęs iš [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“.md#claim-t-41484|„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]: Prijojęs prie Maskvos miesto sienos, Algirdas atrėmė į ją ietį ir priminė, kad lietuvių ietis stovėjo prie Maskvos.
 - susijęs iš Lietuvos metraštis (Bychovco kronika): „Lietuvos metraštis“ aprašė, kad 1368 m. Algirdui su kariuomene priartėjus prie Maskvos Dmitrijus išsigando.
+- susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
+- susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
 - susijęs iš Vilniaus pilys: 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
 - susijęs iš [[objektai/zodynas/Romos tikėjimas.md#claim-t-185409|Romos tikėjimas]]: Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200664|seimelis]]: Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.
+- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200666|seimelis]]: Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.
 - susijęs iš Naugardas: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176302|Algirdas (Lietuvos valdovas)]]: Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-183839|Algirdas (Lietuvos valdovas)]]: Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.
@@ -2068,1745 +1929,14 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Vasilijus.md#claim-t-185978|Vasilijus]]: Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.
 - susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35871|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.).md#claim-t-35920|Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]: Tapęs savo duktėno globėju ir Maskvos kunigaikštijos protektoriumi, Vytautas iškilo aukščiau kitų rusų kunigaikščių.
-- susijęs iš [[objektai/ivykiai/Ostrogiškio ir Kiškos niokojamasis žygis į Maskvos kunigaikštystę.md#claim-t-185822|Ostrogiškio ir Kiškos niokojamasis žygis į Maskvos kunigaikštystę]]: Karvedžiai nutarė, kad Firlėjus su lenkais ir Ostrogiškis su lietuviais įžengs į Maskvos kunigaikštystę.
 - susijęs iš [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj....md#claim-t-67257|Aš tave pasodinsiu Auksinėj Ordoj...]]: Rusų metraščiai teigė, kad Vytautas žadėjo Tochtamyšą pasodinti Aukso Ordoje, o pats siekė Maskvos sosto.
 - susijęs iš [[objektai/asmenys/Juozas Zdebskis.md#claim-t-19031|Juozas Zdebskis (kunigas)]]: 1978 m. lapkričio 22 d. kunigas Juozas Zdebskis su Alfonsu Svarinsku ir Sigitu Tamkevičiumi Maskvoje pranešė apie TTGK įkūrimą.
 - susijęs iš [[objektai/asmenys/Josifas Stalinas.md#claim-t-101653|Josifas Stalinas]]: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.
 - susijęs iš Vilnius: 1976 m. rudenį Vilniuje įsikūrė Helsinkio grupė, panaši į gegužės 12 d. įkurtą Maskvos Helsinkio grupę.
-- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186645|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Po Aleksandro ir Elenos vestuvių Vilniuje Maskvos pasiuntiniai buvo pagerbti, gausiai apdovanoti ir išleisti atgal.
 - susijęs iš [[objektai/grupes/Livonijos valstybė.md#claim-t-72598|Livonijos valstybė]]: Livonijos valstybės vadams reikėjo apsisaugoti nuo Maskvos ir spręsti bažnytinės valstybės panaikinimo klausimą.
 - susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20519|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
 - susijęs iš Helsinkio Baigiamasis aktas: Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.
 - susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87198|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: 1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kazimiero Jogailaičio laikais Lietuvos valstybė Maskvai nebekėlė tikro pavojaus, nors politine jėga dar buvo už ją pranašesnė.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai
-    didesnių nuostolių. Vytautinė imperija nuėjo praeitin lyg šviesus
-    meteoras. O laikais Kazimiero Jogailaičio, kuris vedė perdėm
-    _dinastinę_ politiką (Čekijoje ir Vengrijoje), Lietuvos valstybė Maskvai
-    jau nebesukėlė tikro pavojaus, nors ji vis dar buvo politinės jėgos
-    atžvilgiu pranašesnė už naują konkurentę rytų Europoje—Maskvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-071
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Galėtume ma-
-    nyti, kad ir lietuvių epas buvo pradėjęs formuotis. Visų pirma atsirado
-    herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad
-    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
-    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
-    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
-    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
-    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
-    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-032
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Todėl, prastovėjęs prie Maskvos mūrų «tris dienas ir tris naktis »
-    ir nuteriojęs apylinkę, jis grįžo atgal^17. Iki tol niekados lietuviai
-    nebuvo pasiekę Maskvos vartų. Lieka neaišku, ar tas paslaptimi
-    apgaubtas žygis teturėjo reikšti vien Tverės Mykolo teisių gynimą,
-    ar kai ką ir daugiau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-070
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tretįjį Maskvos žygį (1372.IV.) pradėjo Kęstutis ir Andrius
-    Algirdaitis (iš Polocko), netikėtai su didele kariuomene įsiveržę į
-    Dimitro Doniečio žemes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Šis daly­
-    kas neleido Vytautui eiti prieš Maskvą, kurios jis, be abejo, ne­
-    būtų aplenkęs, tačiau, iš kitos pusės Vytautas, tapdamas savo
-    duktėno globėju, tuo pačiu ir Maskvos kunigaikštijos protekto­
-    rium, iškilo aukščiau kitų rusų kunigaikščių, kas vertė juos dar
-    labiau lenktis Vytauto galybei. Savo laiške jis rašo, kad su vi­
-    sa kariuomene ir pulku dvariškių pasiekė net 100 mylių už Smo­
-    lensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­
-    nų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už
-    Pronsko (visai netoli dabartinės Penzos). Čia Vytautą sveiki­
-    no ir jam lenkėsi Riazaniaus, Perejaslavlio, Pronsko, Novosiels-
-
-    (^1) ) L. E. K. U., VII, 222 nr.
-    (^2) ) Vosylius I (1389—1425), Dimitro Donskoj sūnus, Vytauto žen­
-    tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo
-    sūnų (įpėdinį) Vosylių II, žmoną ir vaikus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-087
-    - t-021
-
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Palaikydamas labai gyvus politinius santykius
-    su lenkais ir Ordinu, Vytautas turėjo visą laiką kreipti daug
-    dėmesio ir į rytus. Per metų metus rytų reikalai jam vyrauja;
-    jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas
-    rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­
-    gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
-    čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
-    ar bent turėti jiems didelę įtaką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-    - t-001
-
-- c-007
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai
-
-    ## Puslapis 11
-
-    valdovai sugebėjo užkariavimais ir kitomis dominavimo formo-
-    mis plėsti valstybę toli į rytus ir sukurti didvalstybę, kurią kartais
-    šiandien pavadiname net imperija. Po to sekė kelių šimtmečių
-    kova ginant sukurtą didvalstybę nuo vis stiprėjančių grėsmių iš
-    rytų — plėšikaujančiais ir sąjungomis su Maskva bei Vilniumi
-    manipuliuojančiais Krymo totoriais, imperines ambicijas užaugi-
-    nusiomis Maskva ir Turkija, o taip pat kova su rytinę Baltijos pa-
-    krante siekusia užkariauti Švedija.
-
-    Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
-    kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
-    ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
-    pat Daugpilio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-012
-
-- c-008
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jau
-    krikščioniška valstybe tapusi Lietuva xv a. Žalgirio ir Pabaisko
-    mūšiuose pergalingai užbaigė savo Didįjį (beveik 250 m. trukusį)
-    pagoniškosios epochos karą dėl išlikimo prieš Vokiečių ordiną.
-    Po to Lietuva ilgesnį laiką gyveno sąlyginai ramiai, iki kol naujas
-    galios centras - Maskvos valstybė ėmė stiprėti ir xv a. pabaigoje
-    kelti grėsmę Lietuvos teritorijos vientisumui.
-
-    m“
-
-    k
-    NN
-    a
-
-    Vytis iš XV a.
-    pirmos pusės
-    Bergshamaro
-    herbyno
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-043
-    - t-037
-
-- c-009
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1611m. J. K. Chodkevičiui buvo pavesta vadovauti
-    Maskvoje apsuptos lenkų ir lietuvių įgulos debloka-
-    vimui, tačiau ši, nesulaukusi pagalbos, kapituliavo.
-    1615-1616 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-093
-    - t-041
-
-- c-010
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Dėl valdžios ėmė kovoti
-    Abiejų Tautų valdovo Zigmanto Vazos re-
-    miami išgyvenusiu Dmitrijumi apsimetę
-    pretendentai į Rusijos sostą ir kai kurių
-    rusų bojarinų giminių atstovai. Lenkų ka-
-    riuomenė šios sumaišties metu 1610 m. su-
-
-    mušusi rusus prie Klušino, užėmė Maskvą.
-
-    Dalis Rusijos bojarinų naujuoju caru iš-
-    rinko Zigmanto Vazos sūnų Vladislovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-053
-    - t-086
-
-- c-011
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Labai greit vyriausiasis brolis, Andrius, val-
-    dęs Polocką, atsisakė klausyti Jogailos ir, pabėgęs į Maskvą,
-    ėmė ruošti koaliciją prieš Jogailą. Jį uoliai rėmė Maskvos kuni-
-    gaikštis Dimitrijas, kuriam rūpėjo užimti Lietuvos valdomus Pa-
-    volgio miestus, ir Livonijos ordinas, kuris visada rėmė kiek-
-    vieną neramumą Lietuvoje. Prie Andriaus prisidėjo dar brolis
-    Dimitrijas, Briansko valdovas, ir pritarė Kijevo valdovas Vla-
-    dimiras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-088
-
-- c-012
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės,
-    Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų
-    rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigman-
-    tas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikš-
-    čių atstovų. Suvažiavimo šeimininkas, Vytautas, turėjo progos
-    parodyti savo vaišingumą.
-
-    Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
-    siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-057
-
-- c-013
-  santrauka: 'Po caro Teodoro mirties Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po jo, 15 metų buvo caru jokiems dideliems
-    žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
-    pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
-    versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-    Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
-    jokio pavojaus Lietuvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-
-- c-014
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Buvo nacionalizuoti
-    bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
-    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
-    prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
-    Rinkimų į Liaudies seimą agitacinis plakatas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-068
-
-- c-015
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Dalis Rusijos bojarinų naujuoju caru iš-
-    rinko Zigmanto Vazos sūnų Vladislovą.
-    Tačiau galiausiai Rusijoje kilo didelis suki-
-    limas, Maskvoje įsitvirtinę lenkai ir lietu-
-    viai buvo apsupti ir priversti kapituliuoti.
-    Jiems padėti nesugebėjo net Lenkijos-
-    Lietuvos valdovo apgultiesiems į pagalbą
-    atsiųstos Lietuvos didžiojo etmono Jono
-    Karolio Chodkevičiaus pajėgos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-063
-
-- c-016
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Antra vertus, birželio 22–28 dienos įvykiai – dar vienas tragiškas
-
-    L I E T U V O S  I S T O R I J A
-    198
-    lietuvių tautos puslapis: sovietų valdymą pakeitusi nacių okupacija ne tik
-    sužlugdė Lietuvos nepriklausomybės įgyvendinimą, bet ir pradėjo masinį
-    Lietuvos žydų naikinimą.
-    Lietuvos žydų sunaikinimas – Holokaustas
-    Vokietijai greitai užėmus Lietuvą labai mažai gyventojų pa-
-    sitraukė į Rytus, sovietai vos spėjo išgabenti į Maskvą LSSR vyriausybę.
-    Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus,
-    grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą
-    juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie
-    vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezerty-
-    rais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-
-    nėjo šnipinėjimu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-080
-    - t-066
-
-- c-017
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmiausia Maskvoje (1494 m.)
-    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
-    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
-    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
-    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
-    O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­
-    terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­
-    tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­
-    sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio,
-    Mykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei
-    daugybės kitų dvariškių, kambarinių, arklininkų ir boja­
-    rinų vaikų. Ją sutiko pats Aleksandras per pusę mylios nuo
-    miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos
-    ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­
-    tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
-    bėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-025
-
-- c-018
-  santrauka: 'Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams, atvykstantiems į Vilnių iš Maskvos, Naugardo, Pskovo ir Tverės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
-    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
-    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
-    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
-    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
-    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
-    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
-    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
-    savo atvykimą iškart pranešti pilininkui4 3  44.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-019
-  santrauka: 'Vytautas laikė Maskvos metropolitų religinę viršenybę viena opiausių kliūčių savo valdžiai Lietuvoje stiprinti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytautas
-    sugebėjo įvairiais būdais stiprinti sa­
-    vo aukščiausią valdžią Lietuvoje ir
-    kliūtis, kurios stojo skersai kelio, at­
-    kakliai šalindavo. Vienas didžiausių
-    ir opiausių nepatogumų buvo Mask­
-    vos metropolitų religinė viršenybė
-    rusiškojo tikėjimo vyskupų Lietuvo­
-    je atžvilgiu. Kenksmingą tos virše­
-    nybės įtaką graikų apeigų tikėjimo
-    dvasininkų ir gyventojų rusų mąs-
-    tvmo būdui ne kartą didysis kuni­
-    gaikštis buvo pajutęs, ypač karų su
-    Maskva laikais; o, be to, juk ir ne­
-    mažos pajamos kasmet iš Lietuvos
-    būdavo teikiamos Maskvos metro­
-    politams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-076
-    - t-005
-
-- c-020
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi,
-    šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
-    jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente. Jo-
-    gailaičių Europa pradėjo vaidinti „krikščionybės forposto“ vaidmenį, tie-
-    sa, nevienodai sėkmingai. Lietuva, Lenkijos padedama, atsilaikė prieš sta-
-    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
-    patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
-    lapio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-051
-
-- c-021
-  santrauka: 'Balińskis teigė, kad Maskvoje buvo išlikęs priežodis: kas Vilniuje nebuvo, tas stebuklų neregėjo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
-    Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -
-    Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas
-    Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
-    naudoti savo galios ir susidoroti su savo priešais. Šach Ach­
-    medas, apleistas sąjungininko, Mendli Girėjaus sumuštas,
-    43
-    Žinome, kad Maskvoje iki šiol dar
-    išlikęs priežodis: Kto w Wilnie nie by­
-    wał, tot czudes nie widał [Kas Vilniuje
-    nebuvo, tas stebuklų neregėjo]. At­
-    rodo, kad šią nuomonę išplatino tie,
-    kurie didžiąją kunigaikštytę Eleną
-    atlydėjo į Vilnių ir buvo sužavėti
-    nuostabaus priėmimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-073
-    - t-064
-
-- c-022
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
-    santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
-    Kaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen.
-    S. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau
-    Lietuvos kariuomenės paradinė rikiuotė 1937 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-028
-    - t-014
-
-- c-023
-  santrauka: '1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
-    leidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio
-    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
-    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
-    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
-    metais), kur didysis kunigaikštis paprastai gyvendavo di­
-    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
-    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
-    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
-    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
-    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
-    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-079
-    - t-045
-
-- c-024
-  santrauka: 'Kunigaikštis Mykolas tremtyje Maskvoje mirė nunuodytas kažkokiame vienuolyne.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1452
-    metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­
-    venimas buvo sudrumstęs pusę Europos, vienus papiktin­
-    damas, kitiems keldamas gailestį, užbaigė savo klajokliškas
-    dienas Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vil­
-    niaus katedroje. Greta jo, stebėtina lemties valia, tuo pat me­
-    tu buvo palaidoti nelaimėlio jo sūnaus ir bendrininko kuni­
-    gaikščio Mykolo palaikai. Jis, klajodamas po tremtį
-    Maskvoje, mirė nunuodytas kažkokiame vienuolyne.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-056
-
-- c-025
-  santrauka: '1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atėjo metas Lietuvos ir Lenkijos santykių
-    problemai. XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
-    kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
-    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
-- c-026
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji
-    rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi
-    savo pačių valdžia galingi. Maskva tuomet dar tebuvo menka
-    gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
-    tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė. Visi
-    kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų
-    kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­
-    vių, kad galėtų bent kiek paveikti kaimyninius kraštus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-075
-
-- c-027
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos intere-
-    sus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos
-    sienos pažeidimai nepakeitė Maskvos pozicijų dėl Lietuvos teritorinio
-    suverenumo. Taigi Maskva, nepaisydama Lenkijos nepasitenkinimo, pri-
-    pažino Lietuvos suverenitetą Vilniuje.
-    Lietuvos politines jėgas veikė bendrieji Europos procesai – parla-
-    mentarizmo krizės, diktatūrų įvedimai, perversmai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-022
-    - t-015
-
-- c-028
-  santrauka: 'Maskva minima kaip imperines ambicijas užauginusi rytų grėsmė Lietuvos sukurtai didvalstybei.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Klaipėdos sukilimas, kuriam vadovavo J. Budrys, tapo paskutine ofenzyvinio pobūdžio Lietuvos karinė operacija, kurios dėka xx a. pirmoje pusėje buvo susigrąžintas
-    Klaipėdos kraštas, vokiečių užgrobtas dar XII a. viduryje.
-
-    8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai
-
-    ## Puslapis 11
-
-    valdovai sugebėjo užkariavimais ir kitomis dominavimo formo-
-    mis plėsti valstybę toli į rytus ir sukurti didvalstybę, kurią kartais
-    šiandien pavadiname net imperija. Po to sekė kelių šimtmečių
-    kova ginant sukurtą didvalstybę nuo vis stiprėjančių grėsmių iš
-    rytų — plėšikaujančiais ir sąjungomis su Maskva bei Vilniumi
-    manipuliuojančiais Krymo totoriais, imperines ambicijas užaugi-
-    nusiomis Maskva ir Turkija, o taip pat kova su rytinę Baltijos pa-
-    krante siekusia užkariauti Švedija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-090
-
-- c-029
-  santrauka: 'Dėl karo su Maskva patirtų nuostolių Vilniaus vyskupija sunkiai galėjo aprūpinti klierikų kolegiją lėšomis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Suprantame, kad mūsų ganytojiškoms parei­
-    goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo
-    pajamų ir kapitulos, ir visokios rūšies vertybių, personatų,
-    pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­
-    sų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar
-    porcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau
-    minėtos kolegijos ir inkorporuota. Nors, esant dabartinėms
-    nelaimėms, nuolatiniams nuostoliams dėl karo su Maskva,
-    mes neprivalome savęs apsunkinti naujais vargais, atsižvelg­
-    dami į savo padėtį, sunkiai galime aprūpinti lėšomis, tačiau
-    tikėdamiesi, kad Viešpaties, kurismeapleidžia gerų darbų,
-    ranka nesutrumpėjusi, paties Viešpaties Dievo vardu nu­
-    sprendžiame ir funduojame mūsų klierikų kolegiją ir fun-
-    davimui bei jos aprūpinimui jai pridedame mūsų patrimo-
-    nialinį dvarelį Vilniaus paviete, vadinamą Vozgėliškėmis*.
-    —  • —
-    427
-    Vaisgėliškis (vert.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-033
-
-- c-030
-  santrauka: 'Napoleonui teko trauktis iš Maskvos, o traukimosi metu jo kariuomenė sunyko.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilniaus katedroje, dalyvaujant Varšuvos
-    kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Len-
-    kija, susigrąžinant LDK prarastas žemes. Tačiau Napoleonui teko trauktis
-    iš Maskvos, o besitraukiant neliko ir jo kariuomenės. 1812 m. pabaigoje
-    Lietuvoje vėl buvo rusai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-042
-
-- c-031
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet to paties siekė ir Algirdas, kuris nedvejodamas pas­
-    kelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu­
-    viams »^14.
-    Tad Algirdas ir Maskvos kunigaikščiai tapo nesutaikomi priešai.
-    Varžybinė kova tarp Vilniaus ir Maskvos jau prasidėjo pačioje
-    Algirdo valdymo pradžioje, kai jis, norėdamas sulaužyti Maskvos
-    jėgą, nutarė susiartinti su totorių chanu ir siuntė pas jį 1349 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-035
-
-- c-032
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Reali aukščiausioji valdžia atiteko ne šalyje li-
-    kusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos
-    atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-
-    tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
-    pavaduotojas Vsevolodas Merkulovas, vadinęsis „drg. Petrovu“, bet jis,
-    kaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus
-    iš Maskvos. V. Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju
-    atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
-    dyje veikusi maža Lietuvos komunistų partija (LKP).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-084
-
-- c-033
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
-    Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
-    žiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą). Tačiau
-    svarbiausias Liublino unijos kompromiso rezultatas – Abiejų Tautų Res-
-    publika, kuri egzistavo dar du amžius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-031
-
-- c-034
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
-    kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
-    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą. Grįžimas
-    namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
-    pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-035
-  santrauka: 'Viačeslavas Molotovas pakvietė Lietuvos užsienio reikalų ministrą Juozą Urbšį atvykti į Maskvą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
-    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
-    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
-    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
-    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
-    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
-    spaudimą Lietuvai kaip ranka nuėmė.
-    Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
-    kvą ministrą Juozą Urbšį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-094
-    - t-085
-
-- c-036
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kenksmingą tos virše­
-    nybės įtaką graikų apeigų tikėjimo
-    dvasininkų ir gyventojų rusų mąs-
-    tvmo būdui ne kartą didysis kuni­
-    gaikštis buvo pajutęs, ypač karų su
-    Maskva laikais; o, be to, juk ir ne­
-    mažos pajamos kasmet iš Lietuvos
-    būdavo teikiamos Maskvos metro­
-    politams. Vytautas užkirto tam ke­
-    lią, nutraukdamas iš karto visus ry­
-    šius su naujai išrinktu Maskvos
-    metropolitu Fotijumi ir paliepdamas
-    vyskupams, susirinkusiems į Nau­
-    garduką, išrinkti iš savo tarpo Lie­
-    tuvai atskirą metropolitą. Daugiau
-    apie tai žinių yra įdėję: K u 1  c z y ń s-
-    k i Specimen Ecclesiae Ruthenicae,
-    Pars.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-091
-
-- c-037
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai buvo kone vienintelis leidinys, be pertraukos net 17
-    metų (nors ir nereguliariai) leistas Sovietų Sąjungoje. Nors „Kronika“ skirta
-    tikinčiajai visuomenei ir kėlė tik tikėjimo reikalus, ji virto Katalikų bažny-
-    čios pasipriešinimo sovietų valdžiai simboliu, mokė tvirtybės.
-    1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tam-
-    kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio
-    žurnalistams pranešė, kad lap-
-    kričio 13 dieną Lietuvoje įkurtas
-    Tikinčiųjų teisių gynimo komi-
-    tetas (TTGK) (jam dar priklau-
-    sė kunigai Jonas Kauneckas ir
-    Vincentas Vėlavičius), kuris kėlė
-    religinės diskriminacijos proble-
-    mą – tikintieji neturi tų teisių,
-    kuriomis valstybėje naudojasi
-    ateistai, o kulto laisvė praktikoje
-    varžoma.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-082
-    - t-067
-
-- c-038
-  santrauka: 'J. Paleckio vadovaujama delegacija Maskvoje 1940 m. rugpjūčio 3 d. pasiprašė įeiti į SSRS sudėtį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
-    mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
-    valstybės nuosavybe, o ūkininkai – žemės naudotojais. Buvo nacionalizuoti
-    bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
-    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
-    prašė neva savanoriškai įeiti į SSRS sudėtį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-039
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
-    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
-    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
-    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
-    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
-    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
-    džiai priimti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-055
-
-- c-040
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vytauto nusistaty­
-    mas rusų metraščiuose yra atžymėtas įvairiais vaizdingais posa­
-    kiais. Jis esą Tochtamišui sakęs : « Aš įkelsiu tave ordos sostan, o
-    tu pasodinsi mane didžiojoje Maskvos kunigaikštijoje ir visos Ru­
-    sijos valdžioje »^19.
-    Tochtamišo «jarlykas » Vytautui nėra išlikęs ; bet jis turėjo
-    reikšti pažadą chano, kuris buvo skirstęs rusų kunigaikščių sostus,
-    perleisti Vytautui valdžią ant visų rusų žemių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-041
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Daugelis brangeny-
-    bių buvo išvežta į Maskvą ir į Švediją. Rusai iš Vilniaus į
-    Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi
-    į Stokholmą net akademijos biblioteką ir daugybę kitų kultū-
-    ros turtų. Biblioteka pakeliui iš jų buvo atimta ir grąžinta, bet
-    vis dėlto daug kas buvo išvežta, o kai kas tenai tebėra dar ir
-    šiandien.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-038
-
-- c-042
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kovo mėnesį, pasitelkus tarptautinį arbitražą, nustatyta siena
-    tarp abiejų šalių.
-    Puoselėta nemažai gražių Baltoskandijos idėjų ir planų, tačiau ben-
-    dradarbiavimas su Skandinavijos šalimis neišsiplėtė. Likę vieniši lietuviai
-    1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį
-    su SSRS.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-046
-    - t-072
-
-- c-043
-  santrauka: '1991 m. rugpjūtį žlugus Maskvos pučui, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagalba atėjo iš Islandijos – 1991 m.
-    vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
-    somybę. Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino
-    susigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripa-
-    žinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios
-    Sausio agresijos aukų laidotuvės – visos Lietuvos
-    protestas prieš SSRS politiką
-
-    L I E T U V O S  I S T O R I J A
-    248
-    pasaulio valstybės, tarp jų Prancūzija (rugpjūčio 25 d.), Didžioji Britanija
-    (rugpjūčio 27 d.), JAV (rugsėjo 3 d.) ir pagaliau rugsėjo 6 d. – SSRS.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-083
-
-- c-044
-  santrauka: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
-    pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
-    nis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.
-    Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
-    pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
-    dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-023
-
-- c-045
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    142
-    Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
-    miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
-    mo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
-    Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-
-    tuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-
-    mo dokumentu.
-    Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
-    atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-065
-    - t-030
-
-- c-046
-  santrauka: '1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas perėmė realią aukščiausiąją valdžią.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuo šiol trijulės likimas
-    taps nepaprastai panašus. Reali aukščiausioji valdžia atiteko ne šalyje li-
-    kusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos
-    atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-
-    tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
-    pavaduotojas Vsevolodas Merkulovas, vadinęsis „drg. Petrovu“, bet jis,
-    kaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus
-    iš Maskvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-095
-
-- c-047
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kaunas, 1959 m. liepos 16 d.
-    Mariaus Baranausko nuotrauka
-
-    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
-    219
-    mą – jos gamino techninės paskirties, gana siauro profilio produkciją, ku-
-    ria dažniausiai aprūpindavo visą didžiulę šalį. Nors pagal mėsos ir pieno
-    pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje
-    SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į
-    kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai –
-    Maskva ir Leningradas (dabar Sankt Peterburgas), o įmonių gaunamos
-    pajamos patekdavo į bendrą SSRS biudžetą.
-    Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Mas-
-    kvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog
-    čia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios rei-
-    kalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo
-    visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
-    laiku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-027
-    - t-062
-
-- c-048
-  santrauka: 'Jogailos vyriausiasis brolis Andrius, valdęs Polocką, pabėgo į Maskvą ir ėmė rengti koaliciją prieš Jogailą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mat, vyresnieji Jogailos broliai jautėsi turį daugiau
-    teisių tėvo palikimui, negu Jogaila, ir todėl nenorėjo pripa-
-    žinti jo valdžios. Labai greit vyriausiasis brolis, Andrius, val-
-    dęs Polocką, atsisakė klausyti Jogailos ir, pabėgęs į Maskvą,
-    ėmė ruošti koaliciją prieš Jogailą. Jį uoliai rėmė Maskvos kuni-
-    gaikštis Dimitrijas, kuriam rūpėjo užimti Lietuvos valdomus Pa-
-    volgio miestus, ir Livonijos ordinas, kuris visada rėmė kiek-
-    vieną neramumą Lietuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-081
-
-- c-049
-  santrauka: 'Maskvoje saugoma Lietuvos Metrika tapo Lietuvos paveldo išbarstymo ar išgrobstymo simboliu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi Lietuvos
-    Metrikos dokumentai – tai LDK politikos, visuomenės, ūkio, teisės, kul-
-    tūros istorija, svarbiausias LDK istorijos šaltinis. Atsidūrusi Maskvoje ir
-    iki šiol ten saugoma, ji tapo Lietuvos paveldo išbarstymo ar išgrobstymo
-    simboliu, senosios Lietuvos valstybės likimo ženklu.
-    Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
-    sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-050
-  santrauka: 'Karai su Maskva rytuose reikalavo daug pinigų, todėl reikėjo rūpintis didesniu parduodamų prekių kiekiu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pasibaigus karams su vokiečių ordinu, atsi-
-    darė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba.
-    Rytuose ėję karai su Maskva reikalavo daug pinigų, todėl rei-
-    kėjo rūpintis, kad būtų daugiau ką parduoti. Didžiausi žemės
-    plotai priklausė didžiajam kunigaikščiui, todėl jam pirmiausia
-    teko susirūpinti, kad būtų pertvarkytas ūkis ir kad jis duotų
-    daugiau pajamų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-049
-
-- c-051
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O valdžios olimpe įsitvirtinus Leo-
-    nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,
-    valdymas vėl sugriežtintas – imta persekioti kitaminčius (1967–1975 m.
-    Lietuvoje už antisovietinę agitaciją ir propagandą nuteisti 1 583 asmenys),
-    ekonomika ir visuomenės gyvenimas militarizuojami, aktyviau diegiama
-    komunistinė ideologija, nors atnaujinti teroro nesiryžta.
-    Sovietų valdymas pokario Lietuvoje padarė didelių nuostolių šalies
-    gyventojams: stalininiu laikotarpiu okupacinė valdžia sunaikino ne tik
-    tūkstančius žmonių, bet ir ištisus socialinius sluoksnius, jų kultūrą ir tur-
-    tą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-061
-
-- c-052
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Disidentinis judėjimas sten-
-    gėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų
-    žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.
-    patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
-    jos nepaisė. Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,
-    priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.
-    Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji
-    lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus
-    užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
-    žurnalą „Sintaksis“, teikė informaciją iš Lietuvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-036
-    - t-058
-
-- c-053
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
-    tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
-    kėjo iš vadovėlių, parašytų kirilika). Kaip neprivaloma disciplina lietuvių
-    kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-
-    versitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams,
-    turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių
-    paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
-    lietuvių „suartinimo“ su rusų kultūra gija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-040
-
-- c-054
-  santrauka: 'Maskvos kunigaikštis gavo mongolų leidimą rinkti Aukso ordai duoklę iš kitų senosios Rusios kunigaikštijų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau-
-    sioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą
-    (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai),
-    gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno-
-    sios Rusios kunigaikštijų. Tai reiškė, kad Maskva tapo nauju nuo
-    Lietuvos nepriklausiusių rusėnų žemių centru. Algirdas suvokė,
-    kad Maskva gali ateityje kelti grėsmę Lietuvos interesams ir su-
-    rengė į ją tris karo žygius (1368; 1370; 1372).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-047
-
-- c-055
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
-    mėnesiais aplenkusi Prancūzijos konstituciją.
-    Pasauliui, net kai kuriems lietuviams ligi šiol ši konstitucija yra tik
-    Lenkijos konstitucija, nors Lietuvos atstovai 1791 m. rudenį padarė es-
-    minę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių
-    valstybės institucijose.
-    Apšvieta ateina į LDK
-    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
-    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
-    jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
-    kariškai sustiprėjusios Švedijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-    - t-089
-
-- c-056
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
-    Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
-    raštį „Aušra“ („Auszra“). Pirmuoju redaktoriumi buvo tuomet Prahoje
-    gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indo-
-    europiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavi-
-    čius (1851–1927). Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų
-    tautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos
-    pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
-    jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
-    imperijoje turi latviai ir estai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-092
-
-- c-057
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
-    ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo
-    Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire. Rem-
-    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
-    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
-    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
-    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
-    Vilnius nevirto „antruoju Kijevu“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-052
-
-- c-058
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
-    kreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai
-    ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­
-    tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
-    džiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m.)
-    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
-    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
-    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
-    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-050
-    - t-029
-
-- c-059
-  santrauka: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
-    plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
-    rė gyvą. Jo laikais jau būdavo saugu visuose kraštuose, ku­
-    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
-    Naugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus
-    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
-    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
-    jo lankytis tolimose provincijose, kur artimiau susipažino su
-    krikščioniškąja kultūra26.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-096
-    - t-018
-
-- c-060
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus
-    lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o
-    Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi
-    Maskvoje... Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-048
-
-- c-061
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jokiais paaiškinimais netikėta, be to, reikalauta atleisti „provokacijų“ kalti-
-    ninkus – vidaus reikalų ministrą gen. Kazį Skučą ir Saugumo departamen-
-    to direktorių Augustiną Povilaitį. Nuo V. Molotovo rėksmingų kaltinimų
-    absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
-    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
-    į Maskvą ministrą J. Urbšį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-    - t-077
-
-- c-062
-  santrauka: 'Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį
-    159
-
-    ## Puslapis 176
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    kada nors turėti taip godotą karūną, jis sunkiai susirgo, o
-    gausiai susirinkę svetimšaliai pradėjo išsivažinėti iš Vilniaus.
-    Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs
-    išprašyti Kijevo metropolijos prijungimą prie Maskvos;
-    gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­
-    imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­
-    vą. Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien
-    silpstantį ir būdamas tikras, kad šis jau galutinai atsisakė
-    savo sumanymo, aukštuosius didikus iš savo tarybos išsiun­
-    tė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­
-    ju.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-069
-    - t-054
-
-- c-063
-  santrauka: 'Algirdas prie Maskvos mūrų prastovėjo tris dienas ir tris naktis, nuniokojo apylinkę ir grįžo atgal.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nors priešas buvo užkluptas netikėtai, tačiau
-    žiemos sąlygomis pats Algirdas nebuvo pasiruošęs ilgam apgulimui.
-    Todėl, prastovėjęs prie Maskvos mūrų «tris dienas ir tris naktis »
-    ir nuteriojęs apylinkę, jis grįžo atgal^17. Iki tol niekados lietuviai
-    nebuvo pasiekę Maskvos vartų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-039
-
-- c-064
-  santrauka: 'Stepono Batoro valdymo metais Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Liublino unijos nauda pasireiškė jau ne-
-    trukus. Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui
-
-    L I E T U V O S  I S T O R I J A
-    66
-    Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
-    Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
-    žiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-026
-
-- c-065
-  santrauka: 'Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į Kijevo ir Maskvos dalis, kurių istorija vėliau klostėsi savarankiškai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK būtent Vytauto
-    laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
-    matuojant net tų laikų mastu. „Senovės nekeitimo“ tezė tėra istoriografi-
-    nis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė
-    į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-
-    rankiškais keliais.
-    Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
-    išteklius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-044
-
-- c-066
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    vo valdomos pačių žmonių, pasikviečiant vadas ar iš lietuvių
-    ar iš rusų kunigaikščių tarpo. Tos respublikos, tarpininkaujant
-    Maskvai, mokėjo totoriams duoklę, — iš čia jų ryšiai su Mas­
-    kva, nekalbant jau apie jų tautinį ir religinį vieningumą su ja;
-    tuo remdamasi Maskva ir rūpindamasi sujungti visą Rusiją, reiš­
-    kė pretenzijų ir į minėtas respublikas. Tiktai D. Naugardo bajo­
-    rija, siekdama nepriklausomybės ir nenorėdama būti suvienyta
-    su Maskva, priešingai liaudžiai, linko prie Lietuvos, mielai iš
-    čia imdamasi sau vadus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-024
-
-- c-067
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    J. K. Chodkevičius kovojo su Maskvos
-    kariuomene gindamas Smolenską. 1617-1618 m. daly-
-    vavo žygyje į Maskvą, nepaisant tam tikrų laimėjimų,
-    Maskvos užimti nepavyko. 1621 m. didysis etmo-
-    nas, vadovaudamas jungtinei Lietuvos ir Lenkijos
-    kariuomenei prieš turkus, pasiekė savo paskutinę
-    pergalę,mūšyje prie Chotino.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-034
-    - t-074
-
-- c-068
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vy­
-    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
-    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
-    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
-    nas padarė amžiną taiką ir su Naugardu D. (1421). Livonijos
-    Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai
-    jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
-    žemes.
-    Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
-
-    karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-060
-
-- c-069
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į Maskvą vykstantį sužadėtinį
-    palydėjo Vytauto kariuomenės būrys. Jam grįžus į Maskvą, tarp
-    Maskvos ir Vytauto ėjo derybos dėl sąjungos. Tai buvo nusi-
-    kaltimas Jogailai, nes tuo metu, kai Maskvos kunigaikštis var-
-    žėsi su Jogaila dėl įtakos D. Naugarde, Vytautas susidėjo su jo
-    priešu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-059
-
-- c-070
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pramonė labiau
-    specializuota, imta kurti chemijos, elektronikos pramonė, vietos valdžia
-    ypač didino žemės ūkio produkcijos gamybą ir apdirbimą, taip plėtodama
-    agropramoninį kompleksą, lengvąją pramonę. Gavusi Maskvos palaimi-
-    nimą Lietuvos valdžia, matydama, kad sąjunginio pavaldumo pramonės
-    įmones sunku kontroliuoti, plėtojo sau pavaldžias pramonės šakas. Tokia
-    politika pasiteisino ir pagal to meto sąlygas davė palyginti gerų rezultatų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-078
-
-- c-071
-  santrauka: 'Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Maskvoje tuomet prasidėjo per-
-    versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-    Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
-    jokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo
-    nebe puolančioji, bet puolamoji.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-097
-
-- c-072
-  santrauka: 'Iki Maskvos kariuomenei buvo likę aštuoniolika mylių, kai žygūnas ją pralenkė tik keliomis valandomis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Neilgai trukus, įsmei­
-    gęs į Dimitrijaus rūmus ietį,
-    M a s k v o s
-    k u n ig a ik š-
-    jis paliksiąs ten aukštai štai
-    čiui siu n čiam as d eg -
-    tokį įrašą: „Ne tas karvedys,
-    las
-    kuris, ilgą laiką atidėlioda­
-    mas galimybę pradėti karą,
-    pražiopso tinkamą progą, o tas, kuris, netgi tinkamos
-    progos neturėdamas, sugeba sėkmingai kariauti". Nuo
-    stovyklos iki Maskvos bebuvo likę dar aštuoniolika
-    mylių, tačiau kariai šį kelią taip greitai, regis, pusris-
-    čia sukorė, kad žygūnas tik keliomis valandomis pra­
-    lenkė iš paskos sekančią kariuomenę. Tą pačią naktį,
-    skirtą paminėti Kristaus iš numirusių prisikėlimui ir
-    krikščionių kasmet iškilmingai švenčiamą, kai kuni­
-    gaikštis ėjo bažnyčion į naktines pamaldas, prie jo
-    pribėgo žygūnas, pasakė, kas jam buvo liepta, ir pra­
-    nešė, kad priešą palikęs Možaiske.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-098
-
-- c-073
-  santrauka: 'Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą, kur jam būtų lengviau tramdyti ginčytis linkusius saviškius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Dėl to visi pradėjo
-    atvirai niekinti senuosius magistrų, maršalų, komtūrų
-    titulus ir galvoti apie valstybinės santvarkos pakei­
-    timą.
-    Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
-    nislovo Daugirdo, susitarė su
-    T a ik o s
-    d e r y b o s
-    su
-    Vasilijumi tęsti pradėtas tai-
-    m a sk v ė n a is
-    kos derybas. Vasilijus pri­
-    mygtinai reikalavo, kad ka­
-    raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­
-    viau galėsiąs tramdyti saviškius, jei šie susimanys be
-    saiko ginčytis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-099
-
-- c-074
-  santrauka: 'Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Susitikę su maskvėnais, karaliaus le­
-    gatai pasiūlė ginčą dėl titulų perduoti karaliui, o tuo
-    tarpu pasirašyti paliaubas pagal senąją formulę. Mask­
-    vėnai primygtinai reikalavo, kad legatai laišku pa­
-    klaustų karalių, kokia jo nuomonė šiuo klausimu, o
-    atsakymo palauktų Maskvoje. Galop abi šalys sutarė
-    penkerių metų paliaubas šitokiomis sąlygomis: kuni­
-    gaikštis Maskvos raštuose galėsiąs vadintis caru, tuo
-    tarpu legatai laikysis senosios formulės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-100
-
-- c-075
-  santrauka: 'Lietuvos metraščio tyrime teigiama, kad LDK santykių su Rusų valstybe vaizdavime iškeliamas Vytauto pranašumas prieš Maskvos didįjį kunigaikštį Vasilijų.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Kalbant apie LDK santykius su Rusų valstybe, labai
-    iškeliamas Vytauto pranašumas savo žento Vasilijaus,
-    Maskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­
-    garduko feodalinių respublikų atžvilgiu. XV a. pabai­
-    gos ir XVI a. pradžios karai su Maskvos didžiąja ku­
-    nigaikštyste vaizduojami, laikantis Lietuvos valstybi­
-    nių pozicijų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-101
-
-- c-076
-  santrauka: 'Sofijos Vytautaitės sužadėtinis 1388 m. sausio 19 d. jau buvo Maskvoje.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    ## Puslapis 237
-
-    Pateko į Lucku, bėgdamas per M oldavija ir Podolę iš totorių ne­
-    laisvės, Jo  sužadėtuvės su Sofija Vytautaite turėjo įvykti 1387 m
-    pabaigoje, nes 1388.1.19 jis ja u  buvo Maskvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-102
-
-- c-077
-  santrauka: 'Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    24
-    Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
-    kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
-    papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
-    dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-103
-
-- c-078
-  santrauka: 'Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė susiartindamas su Maskva.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tad matydamas, kad geruoju
-    neatgaus savo tėviškės — Trakų, Vytautas ėmė ruoštis kovai.
-    Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė su-
-    siartindamas su Maskva. Bėgdamas iš totorių nelaisvės, Mask-
-    vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke,
-    susižadėjo su jo dukteria Sofija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-104
-
-- c-079
-  santrauka: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bėgdamas iš totorių nelaisvės, Mask-
-    vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke,
-    susižadėjo su jo dukteria Sofija. Į Maskvą vykstantį sužadėtinį
-    palydėjo Vytauto kariuomenės būrys. Jam grįžus į Maskvą, tarp
-    Maskvos ir Vytauto ėjo derybos dėl sąjungos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-105
-
-- c-080
-  santrauka: 'Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Valstybei pasidalinus pusiau,
-    buvo aišku, kad ginčą turės išspręsti ginklas. Švitrigaila ne tik
-    kad nenutraukė ryšių su savo
-    sąjungininku ordinu, bet dar pa-
-    darė naują sąjungą su Maskva ir
-    Tvere. Tad Zigmantui nebeliko
-    kito sąjungininko, kaip tik Len-
-    kija, kuri jam padėjo net ruo-
-    šiant sąmokslą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-106
-
-- c-081
-  santrauka: 'Kadangi Maskvos didikai atkirto, kad ne gali būti nė kalbos apie šitokias sąlygas, pradėta derė tis dėl kitokių taikos formulių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kadangi Maskvos didikai atkirto, kad ne­
-    gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
-    tis dėl kitokių taikos formulių. Vis dėlto ir šie legatai
-    tiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­
-    dangi maskvėnai nenorėjo grąžinti ne tik Smolensko
-    žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
-    ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
-    susitarus dėl taikos, išvykti iš Maskvos. Visai atsitikti­
-    nai kažkam užsiminus, kad būtų galima sudaryti de­
-    šimčiai metų paliaubas, kurių metu lietuviai bei mask­
-    vėnai netrukdomi valdytų kraštą, kurį turėjo paliaubų
-    pradžioje, nesvarbu, ar teisėtai, ar neteisėtai įsigytą,
-    abi šalys susitarė dėl penkerių metų paliaubų ir Smo­
-    lensko žemės sienos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-107
-
-- c-082
-  santrauka: 'Taip pat kalbama ir apie tautų protėvius Masochą ir Tovelą, arba Tobalą, minimus Šven tajame Rašte kaip slavų gyvenamųjų vietų Maskvos ir Tobolsko pirmtakus2.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau šio Ross pavadini­
-    mo neįmanoma susieti su jokia kita tauta, išskyrus bu­
-    dinus, kai jau dauguma mokslininkų neigia slavų rusų
-    egzistavimą iki Riuriko. Taip pat kalbama ir apie tautų
-    protėvius Masochą ir Tovelą, arba Tobalą, minimus Šven­
-    tajame Rašte kaip slavų gyvenamųjų vietų Maskvos ir
-    Tobolsko pirmtakus2.
-    57
-    Europos budinai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-108
-
 ## Citatos
 
 - id: c-05665
@@ -3910,8 +2040,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177804
     - t-177724
+    - t-177804
 
 - id: c-37540
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3933,8 +2063,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177723
     - t-177701
+    - t-177723
 
 - id: c-43625
   sudarytojas: "Karolis Zikaras"
@@ -3996,8 +2126,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177751
     - t-177744
+    - t-177751
 
 - id: c-43628
   sudarytojas: "Karolis Zikaras"
@@ -4014,8 +2144,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177813
     - t-177748
+    - t-177813
 
 - id: c-43629
   sudarytojas: "Karolis Zikaras"
@@ -4166,7 +2296,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177793
     - t-177776
 
 - id: c-161551
@@ -4247,8 +2376,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177789
     - t-177707
+    - t-177789
 
 - id: c-161554
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4296,8 +2425,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177786
     - t-177774
+    - t-177786
 
 - id: c-161557
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4315,8 +2444,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177735
     - t-177716
+    - t-177735
 
 - id: c-161560
   autorius: "Michał Baliński"
@@ -4342,8 +2471,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177792
     - t-177753
+    - t-177792
 
 - id: c-161562
   autorius: "Michał Baliński"
@@ -4377,12 +2506,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.
   citata_rodoma: "trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis \nkaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui \nBaziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-177719
-
 - id: c-161565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4421,8 +2548,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177725
     - t-177717
+    - t-177725
 
 - id: c-161568
   sudarytojas: "Karolis Zikaras"
@@ -4598,8 +2725,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177814
     - t-177800
+    - t-177814
 
 - id: c-161579
   autorius: "Michał Baliński"
@@ -4660,7 +2787,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177796
     - t-177777
 
 - id: c-161581
@@ -4762,7 +2888,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177754
-    - t-177785
 
 - id: c-161588
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4829,8 +2954,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177775
     - t-177737
+    - t-177775
 
 - id: c-161593
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4882,7 +3007,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177734
-    - t-177772
 
 - id: c-161596
   redaktorius: "A. Šapoka"
@@ -5121,7 +3245,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177758
     - t-177736
 
 - id: c-161622
@@ -5143,7 +3266,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177816
     - t-177720
 
 - id: c-161623
@@ -5209,8 +3331,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177782
     - t-177762
+    - t-177782
 
 - id: c-161632
   autorius: "Zenonas Ivinskis"
@@ -5399,8 +3521,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - id: c-168400
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 222"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 222."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Neilgai trukus, įsmei­
     gęs į Dimitrijaus rūmus ietį,
@@ -5430,50 +3551,27 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindzia:
     - t-185039
 
-- id: c-168401
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 647"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 647."
-  citata_originali: |
-    Dėl to visi pradėjo
-    atvirai niekinti senuosius magistrų, maršalų, komtūrų
-    titulus ir galvoti apie valstybinės santvarkos pakei­
-    timą.
-    Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
-    nislovo Daugirdo, susitarė su
-    T a ik o s
-    d e r y b o s
-    su
-    Vasilijumi tęsti pradėtas tai-
-    m a sk v ė n a is
-    kos derybas. Vasilijus pri­
-    mygtinai reikalavo, kad ka­
-    raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­
-    viau galėsiąs tramdyti saviškius, jei šie susimanys be
-    saiko ginčytis.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185040
-
 - id: c-168403
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 679"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 679."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Susitikę su maskvėnais, karaliaus le­
-    gatai pasiūlė ginčą dėl titulų perduoti karaliui, o tuo
-    tarpu pasirašyti paliaubas pagal senąją formulę. Mask­
-    vėnai primygtinai reikalavo, kad legatai laišku pa­
-    klaustų karalių, kokia jo nuomonė šiuo klausimu, o
-    atsakymo palauktų Maskvoje. Galop abi šalys sutarė
-    penkerių metų paliaubas šitokiomis sąlygomis: kuni­
-    gaikštis Maskvos raštuose galėsiąs vadintis caru, tuo
-    tarpu legatai laikysis senosios formulės.
+    Mat visai ne­
+    sileido į kalbas apie užimtų žemių grąžinimą, dar
+    daugiau — reikalavo atiduoti visą Rusią, sakydami, kad
+    Maskvos kunigaikštystės sienos turinčios eiti Berezinos
+    krantais. Karaliaus pasiuntiniai, įžeisti šitokios bepro­
+    tiškos puikybės, susitiko su pačiu didžiuoju kunigaikš­
+    čiu: pareiškė, kad veltui gaištamas laikas keliant to­
+    kius reikalavimus, kurie nė per sprindį nepriartina
+    susitaikymo dienos, ir pareikalavo, kad leistų jiems
+    grįžti namo, nes Maskvos didikų elgesys verčiąs abe­
+    joti, jog gali būti sudaryta taika. Tada maskvėnai šiek
+    tiek nusileido, begėdiškai vis dėlto nesiliaudami rei­
+    kalavę tų žemių, į kurias neturėjo jokių teisių ir dėl
+    kurių nieku gyvu negalima buvo nusileisti — būtent
+    Polocko ir Gomelio.
+  citata_rodoma: "Susitikę su maskvėnais, karaliaus le­\ngatai pasiūlė ginčą dėl titulų perduoti karaliui, o tuo\ntarpu pasirašyti paliaubas pagal senąją formulę. Mask­\nvėnai primygtinai reikalavo, kad legatai laišku pa­\nklaustų karalių, kokia jo nuomonė šiuo klausimu, o\natsakymo palauktų Maskvoje. Galop abi šalys sutarė\npenkerių metų paliaubas šitokiomis sąlygomis: kuni­\ngaikštis Maskvos raštuose galėsiąs vadintis caru, tuo\ntarpu legatai laikysis senosios formulės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -5484,16 +3582,17 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - id: c-170554
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 22"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 22."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Kalbant apie LDK santykius su Rusų valstybe, labai
-    iškeliamas Vytauto pranašumas savo žento Vasilijaus,
-    Maskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­
-    garduko feodalinių respublikų atžvilgiu. XV a. pabai­
-    gos ir XVI a. pradžios karai su Maskvos didžiąja ku­
-    nigaikštyste vaizduojami, laikantis Lietuvos valstybi­
-    nių pozicijų.
+    Žemaitijos istorija visai
+    nedomina Bychovco kronikos autoriaus. Tai rodo, kad
+    su Žemaitija jis betarpiškai nebuvo susijęs, bet, iš ki­
+    tos pusės, Žemaitija tuo metu nebuvo ir kokių nors
+    svarbių ¡vykių, pvz., karų arena.
+    Lietuvos valstybės santykiai su totorių ordomis dau­
+    giausia už.kliudomi legendinėje dalyje, kur visi mūšiai
+    baigiasi lietuvių pergalėmis, o taip pat Aleksandro vai-
+  citata_rodoma: "Kalbant apie LDK santykius su Rusų valstybe, labai \niškeliamas Vytauto pranašumas savo žento Vasilijaus, \nMaskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­\ngarduko feodalinių respublikų atžvilgiu. XV a. pabai­\ngos ir XVI a. pradžios karai su Maskvos didžiąja ku­\nnigaikštyste vaizduojami, laikantis Lietuvos valstybi­\nnių pozicijų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -5501,34 +3600,23 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindzia:
     - t-187607
 
-- id: c-170555
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    ## Puslapis 237
-
-    Pateko į Lucku, bėgdamas per M oldavija ir Podolę iš totorių ne­
-    laisvės, Jo  sužadėtuvės su Sofija Vytautaite turėjo įvykti 1387 m
-    pabaigoje, nes 1388.1.19 jis ja u  buvo Maskvoje.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187608
-
 - id: c-171659
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 184"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    24
-    Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
-    kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
-    papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
-    dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
+    Iki
+    šiol to neįvyko, tačiau, pasak pranašavimo, kada nors ateis ta
+    diena, ir pasaulis nugrims tamsoje.
+    Vėliau, mitologijai pakitus, lietuviai vietoj Saulės garbino
+    Svaistiką, arba Santvarą, kaip graikai - Apoloną.
+    Mėnuo (Menuo*)
+    Šis vardas visose lietuvių kalbos tarmėse yra vyriškos gi­
+    minės, todėl su juo buvo siejamas dievas, nors ir antrasis po
+    Saulės. Nakties karalius, laiko tarpsnių valdovas (laikas bu­
+    vo skaičiuojamas mėnesiais), tačiau nepastoviai judantis ir
+    keičiantis pavidalą.
+  citata_rodoma: "24\nBiblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-\nkidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,\npapasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip\ndievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -5592,38 +3680,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindzia:
     - t-193215
 
-- id: c-176146
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 648"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 648."
-  citata_originali: |
-    Kadangi Maskvos didikai atkirto, kad ne­
-    gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
-    tis dėl kitokių taikos formulių. Vis dėlto ir šie legatai
-    tiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­
-    dangi maskvėnai nenorėjo grąžinti ne tik Smolensko
-    žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
-    ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
-    susitarus dėl taikos, išvykti iš Maskvos. Visai atsitikti­
-    nai kažkam užsiminus, kad būtų galima sudaryti de­
-    šimčiai metų paliaubas, kurių metu lietuviai bei mask­
-    vėnai netrukdomi valdytų kraštą, kurį turėjo paliaubų
-    pradžioje, nesvarbu, ar teisėtai, ar neteisėtai įsigytą,
-    abi šalys susitarė dėl penkerių metų paliaubų ir Smo­
-    lensko žemės sienos.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193424
-
 - id: c-177330
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 72"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 72."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau šio Ross pavadini­
     mo neįmanoma susieti su jokia kita tauta, išskyrus bu­
@@ -5641,8 +3701,29 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindzia:
     - t-194934
 
+- id: c-178862
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Neilgai trukus ten nu­
+    vyko su panašia užduotimi Žemaitijos vyskupas, tačiau
+    nei jo pastangos, nei karaliaus autoritetas nesutramdė
+    pasiutėlio. Karalius, nutaręs ginklu atsikeršyti už skriau­
+    das, pakvietė į karo sąjungininkus Švedijos karalių.
+    Kadangi švedų valdovas atsisakė siūlomos sąjungos,
+    būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
+    ros, Augustas laiškais stengėsi sutaikyti švedus bei
+    maskvėnus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196716
+
 ## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Jonas Kalita]], [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- Turėjo valdovą: [[objektai/asmenys/Jonas Kalita]], [[objektai/asmenys/Vasilijus]], [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
 - Buvo kelionės vieta: [[objektai/asmenys/Fotijus]], [[objektai/asmenys/Juozas Urbšys]], [[objektai/asmenys/Vasilijus]], [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]
 - Mirties vieta: [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]]
 - Apgulė Maskvą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

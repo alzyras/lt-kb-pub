@@ -7,8 +7,9 @@ datos:
   - '1251 m.'
   - '1252 m.'
   - '1262 m.'
+  - '1971 m.'
 date_start: '1251'
-date_end: '1262'
+date_end: '1971'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,6 +17,7 @@ tags:
   - ivykis
 amziai:
   - 'XIII'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -33,7 +35,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Redakcinė pastaba teigia, kad pasakojimas apie mūšį prie Jieseldos gali būti sukurtas pagal 1262 m. karo su Lietuva žinią. Redakcinė pastaba teigia, kad tame karo epizode Volynės kunigaikštis Vasilka Romanovičius vijosi lietuvius ligi Jieseldos ir sumušė juos.
+1971 m. komentare pasakojimas apie mūšį prie Jieseldos siejamas ir su 1251–1252 m. Mindaugo bei Danieliaus Romanovičiaus karo aprašymu. Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva. Redakcinėje pastaboje mūšio prie Jieseldos pasakojimas laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.
 
 ## Laikotarpis ir datos
 
@@ -59,20 +61,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-186683"></a>
-- t-001
-  global_id: t-186683
-  teiginys: "Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare papildomai siejamas su 1251–1252 m. Mindaugo ir Danieliaus Romanovičiaus karo aprašymu."
-  pagrindžia:
-    - c-169926
-
-<a id="claim-t-186684"></a>
-- t-002
-  global_id: t-186684
-  teiginys: "Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva."
-  pagrindžia:
-    - c-169926
-
 <a id="claim-t-186685"></a>
 - t-003
   global_id: t-186685
@@ -80,33 +68,21 @@ Nenurodyta
   pagrindžia:
     - c-169925
 
-<a id="claim-t-186686"></a>
-- t-004
-  global_id: t-186686
-  teiginys: "Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare siejamas su žinia, kad 1262 m. Vasilka Romanovičius vijosi lietuvius iki Jieseldos ir juos sumušė."
+<a id="claim-t-186683"></a>
+- t-001
+  global_id: t-186683
+  teiginys: '1971 m. komentare pasakojimas apie mūšį prie Jieseldos siejamas ir su 1251–1252 m. Mindaugo bei Danieliaus Romanovičiaus karo aprašymu.'
   pagrindžia:
-    - c-169925
+    - c-169926
+
+<a id="claim-t-186684"></a>
+- t-002
+  global_id: t-186684
+  teiginys: 'Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.'
+  pagrindžia:
+    - c-169926
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Pripetės šiaurinis, kai­
-    rysis intakas. „Šiapus", matyti, reiškia takoskyrą tarp Jieseldos ir
-    Sčaros, Nemuno pietinio intako.
-    * Pasakojimas apie mUšj prie Jieseldos gali būti sukurtas pagal
-    1M žinią apie 1262 m. karą su Lietuva, pagal kurį Volynės kuni­
-    gaikštis Vasilka Romanovičius vijosi lietuvius ligi Jieseldos ir
-    sumušė juos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -121,7 +97,7 @@ Nenurodyta
     čiaus aprašyme, kur minimi taip pat dalyvavę tam e kare Pinsko
     kunigaikščiai.
   citata_rodoma: ''
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -134,16 +110,23 @@ Nenurodyta
 - id: c-169925
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 195"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 195."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Pripetės šiaurinis, kai­
-    rysis intakas. „Šiapus", matyti, reiškia takoskyrą tarp Jieseldos ir
-    Sčaros, Nemuno pietinio intako.
-    * Pasakojimas apie mUšj prie Jieseldos gali būti sukurtas pagal
-    1M žinią apie 1262 m. karą su Lietuva, pagal kurį Volynės kuni­
-    gaikštis Vasilka Romanovičius vijosi lietuvius ligi Jieseldos ir
-    sumušė juos.
+    Vardas paimtas
+    ar Iš vietinio Utenos krašto padavimo, ar nukaltas iš Utenos vie­
+    tovardžio.
+    ’* Legenda apie Kukovaičio mišką, tapatinamą su Ročkalniu
+    prie Šventosios ties Deltuva, yra. veikiausiai, patekusi | Lietuvos
+    metraščių PS per Kęsgailas, Žemaičių senitinus ir Trakų kaštelionus,
+    kadangi Deltuva XV ir XVI a. pirmojoje pusėje buvo Kęsgailų
+    tėviškė. Pagal J. Dlugošą Kukovaičio („Kokivvejtos'') miške prie
+    Maišiagalos
+    buvę
+    sudeginti ant laužo mirusio Algirdo palaikai
+    (Jana Dlugosza,
+    kanonika
+    krakowsklcgo. dzlejów polsklch kslęg
+    dwanascie (toliau — Dzieje), t. HI, Kraków.
   citata_rodoma: "* Pasakojimas apie mUšj prie Jieseldos gali būti sukurtas pagal \n1M žinią apie 1262 m. karą su Lietuva, pagal kurį Volynės kuni­\ngaikštis Vasilka Romanovičius vijosi lietuvius ligi Jieseldos ir \nsumušė juos."
   statusas: verified
   teiginio_tipas: faktas
@@ -151,28 +134,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186685
-    - t-186686
-
-- id: c-169926
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    „Šiapus", matyti, reiškia takoskyrą tarp Jieseldos ir
-    Sčaros, Nemuno pietinio intako.
-    * Pasakojimas apie mUšj prie Jieseldos gali būti sukurtas pagal
-    1M žinią apie 1262 m. karą su Lietuva, pagal kurį Volynės kuni­
-    gaikštis Vasilka Romanovičius vijosi lietuvius ligi Jieseldos ir
-    sumušė juos. Be to, volyniečių žygiavimas j Naugarduką per Pinsko
-    pelkes, link Sčaros, yra minimas taip pat 1251—1252 m. karo tarp
-    M indaugo ir Haličo-Volynės kunigaikščio Danieliaus Romanovi­
-    čiaus aprašyme, kur minimi taip pat dalyvavę tam e kare Pinsko
-    kunigaikščiai.
-  citata_rodoma: "Be to, volyniečių žygiavimas j Naugarduką per Pinsko \npelkes, link Sčaros, yra minimas taip pat 1251—1252 m. karo tarp \nM indaugo ir Haličo-Volynės kunigaikščio Danieliaus Romanovi­\nčiaus aprašyme, kur minimi taip pat dalyvavę tam e kare Pinsko \nkunigaikščiai."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186683
-    - t-186684

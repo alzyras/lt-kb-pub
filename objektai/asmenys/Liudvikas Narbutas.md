@@ -38,16 +38,9 @@ Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su r
 
 ## Teiginiai
 
-<a id="claim-t-187899"></a>
+<a id="claim-t-187898"></a>
 - t-001
-  global_id: t-187899
-  teiginys: "Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti."
-  pagrindžia:
-    - c-170879
-
-<a id="claim-t-187899"></a>
-- t-002
-  global_id: t-187899
+  global_id: t-187898
   teiginys: "Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti."
   pagrindžia:
     - c-170879
@@ -56,31 +49,6 @@ Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su r
 - susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187967|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: 1850 m. Vilniaus gimnazijoje buvo suimtas Teodoro Narbuto sūnus Liudvikas Narbutas.
 - susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187968|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: Liudvikas Narbutas buvo kaltinamas priešvalstybine agitacija ir siekiu sukurti slaptą organizaciją.
 - susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187969|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: Po tardymo, kalinimo ir viešo nuplakimo Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaze veikusią Rusijos armiją.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Žuvo apie
-
-    30 sukilėlių ir pats būrio vadas. Vilniaus
-    apskrityje veikę Liudviko Narbuto vado-
-    vaujami sukilėliai kovėsi su rusų kariuo-
-    mene prie Rūdninkų ir Dubičių, kur žuvo
-    pats Narbutas, o sukilėliai buvo išblaškyti.
-
-    Kauno gubernijoje vienas pirmųjų su-
-    kilimo organizatorių buvo kunigas An-
-    tanas Mackevičius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-170879
@@ -105,5 +73,4 @@ Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187899
     - t-187898

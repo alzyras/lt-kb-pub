@@ -55,8 +55,8 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
   teiginys: "Narbutas Žemės revoliucijos priežastis siejo su formuojantis Žemei išsiskyrusia ugnimi, dujomis ir garais, traiškiusiais žemės kevalą."
   pagrindžia:
     - c-175104
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini hipotezę, kad dideli ir maži uolienų luitai Žemės revoliucijos metu buvo išbarstyti po įvairias lygumas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -111,10 +111,12 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
 - id: c-175103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 401"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 401."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Štai,
+    Šios uolienų nuolaužos ne visur vienodai nuklojo
+    žemės paviršių: vienur jų daugybė, kitur visiškai mažai ar­
+    ba apskritai nėra, dar kitur — ištisos lysvės, tarytum ak­
+    menys būtų iš visų kampų sunešti į vieną krūvą. Štai,
     pavyzdžiui, Nemuno slenksčiuose matome daugybę akme­
     nų, pradedant itališko riešuto dydžio ir baigiant milijono
     pūdų svorio, visuomet iš švediško granito, su nedidele ki­
@@ -143,16 +145,20 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
 - id: c-175104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 398"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 398."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Todėl galima daryti
+    prielaidą, jog tuomet, kai buvo sukurta Saulės masė, jos
+    dalys atitrūko ir ėmė suktis erdvėje apie pirminį savo ele­
+    mentą (tai davė pradžią planetoms), be to, Saulės rutu­
+    lys yra tuščiaviduris ugnies kamuolys, per kurio atmos­
+    ferą bėgdami užsiliepsnojo ozono rutuliukai, sukūrę lieps­
+    nojantį skystį, apie kurį jau kalbėjome.
     Štai ir visas spėjimas apie Žemės revoliucijos priežas­
     tis. Tol, kol formavosi, t. y. tvirtėjo, pirmosios formacijos
     kristalai, viršuje, tam tikrame gylyje, išsiskyrė ugnis, du­
     jos ir garai, kurie su didžiule jėga ėmė traiškyti žemės
-    kevalą. Taip atsirado ir didžiuliai sprogimai, ir sukietėju­
-    sias materijos lavinos, potvyniai, uolų trupėjimas, pusty­
-    mas, viesulai, biraus žemės sluoksnio susiformavimas,
+    kevalą.
   citata_rodoma: "Štai ir visas spėjimas apie Žemės revoliucijos priežas­\ntis. Tol, kol formavosi, t. y. tvirtėjo, pirmosios formacijos\nkristalai, viršuje, tam tikrame gylyje, išsiskyrė ugnis, du­\njos ir garai, kurie su didžiule jėga ėmė traiškyti žemės\nkevalą. Taip atsirado ir didžiuliai sprogimai, ir sukietėju­\nsias materijos lavinos, potvyniai, uolų trupėjimas, pusty­\nmas, viesulai, biraus žemės sluoksnio susiformavimas,"
   statusas: verified
   teiginio_tipas: faktas

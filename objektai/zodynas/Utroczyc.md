@@ -35,38 +35,13 @@ Narbutas Trakų pavadinimą aiškino slavų medžioklės terminu „utroczyc“,
   teiginys: "Narbutas Trakų pavadinimą aiškino slavų medžioklės terminu „utroczyc“, reiškiančiu prie balno tvirtinamus diržus žvėrienai pririšti."
   pagrindžia:
     - c-172225
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Trakų pavadinimą aiškino slavų medžioklės terminu „utroczyc“, reiškiančiu prie balno tvirtinamus diržus žvėrienai pririšti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šis istori­
-    nis fragmentas toks įdomus, kad negalime nepaaiškinti kai ku­
-    rių vietų. Trakų pavadinimas iš tikrųjų nelietuviškas; slavų kal­
-    ba tai reiškia medžiotojo diržus, pritvirtintus prie balno, ku­
-    riais pririša žvėrieną; technišku medžiotojų terminu tai vadi­
-    nama utroczyc. Gali būti, kad, esant daugybei žvėrių, senos
-    lietuvių gyvenvietės, vadintos Gurghani, apylinkėse apsigyve­
-    nę rusinu kunigaikščiams duodamos duoklės rinkėjai. Atstatę
-    ir sutvirtinę tą vietą, pavadinę ją Troki, nes medžiotojai ir da­
-    bar įpratę sakyti apie vietą, kur yra kokių nors žvėrių -jak w
-    Trokach (kaip Trakuose).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172225
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 275"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 275."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šis istori­
     nis fragmentas toks įdomus, kad negalime nepaaiškinti kai ku­

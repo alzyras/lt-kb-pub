@@ -40,30 +40,13 @@ Dusburgietis teigia, kad powierski J.
   teiginys: "J. Powierskio recenzija apie W. W. Iwanowo ir W. N. Toporowo veikalą paskelbta 1977 m. žurnale „Slavia antiqua“."
   pagrindžia:
     - c-61880
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Powierskio recenzija apie W. W. Iwanowo ir W. N. Toporowo veikalą paskelbta 1977 m. žurnale „Slavia antiqua“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Powierski J. Z badań nad mitologią bałto-slowiańską: Rec.: W. W. Iwanow, W. N.
-    Toporow. Issledovanija w oblasti sławjanskich drewnostej.— Slavia antiqua, Warszawa—
-    Poznań, 1977, t. 24, s. 305—316.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61880
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Powierski J. Z badań nad mitologią bałto-slowiańską: Rec.: W. W. Iwanow, W. N.
     Toporow. Issledovanija w oblasti sławjanskich drewnostej.— Slavia antiqua, Warszawa—

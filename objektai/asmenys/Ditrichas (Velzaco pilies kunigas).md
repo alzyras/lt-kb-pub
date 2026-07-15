@@ -7,15 +7,15 @@ datos:
   - '1295 m.'
 date_start: '1295'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,8 +43,8 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
   teiginys: "1295 m. negalės kamuojamas Velzaco pilies brolis mirties akivaizdoje puolė kunigui Ditrichui ant krūtinės."
   pagrindžia:
     - c-60896
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1295 m. negalės kamuojamas Velzaco pilies brolis mirties akivaizdoje puolė kunigui Ditrichui ant krūtinės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -68,15 +68,15 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
 - id: c-60896
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 189"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    263 (256). Apie vieną brolį
-
-       Tais 1295 metais vienas negalės nukamuotas Velzaco pilies brolis, mirties akivaizdoje
-    puolęs broliui kunigui Ditrichui ant krūtinės, ilgokai išbuvo ekstazėje ir pamatė daug
-    nuostabių dalykų. Galop, atgavęs sąmonę, jis pasakė: „Kunige Ditrichai, sakykite pirma
-    manęs: „Jėzau Kristau, dievo sūnau“.
+    267 (260). Dar apie tą patį
+    Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis
+    įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.
+    Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
+    kai karalius bus iškeliavęs iš savo žemės, ir ten nusigauti su brolių kariuomene; jis
+    subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir
+    įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes.
   citata_rodoma: "Apie vieną brolį\n\n   Tais 1295 metais vienas negalės nukamuotas Velzaco pilies brolis, mirties akivaizdoje\npuolęs broliui kunigui Ditrichui ant krūtinės, ilgokai išbuvo ekstazėje ir pamatė daug\nnuostabių dalykų. Galop, atgavęs sąmonę, jis pasakė: „Kunige Ditrichai, sakykite pirma\nmanęs: „Jėzau Kristau, dievo sūnau“."
   statusas: verified
   teiginio_tipas: faktas

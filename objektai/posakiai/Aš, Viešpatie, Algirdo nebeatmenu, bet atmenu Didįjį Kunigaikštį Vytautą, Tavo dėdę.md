@@ -34,29 +34,6 @@ media_all_json: |-
   teiginys: "Kazimiero laikų dokumente valstietis dėl kaimo mokesčių sakė nebeatsimenantis Algirdo, bet atsimenantis Vytautą."
   pagrindžia:
     - c-90730
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kazimiero laikų dokumente valstietis dėl kaimo mokesčių sakė nebeatsimenantis Algirdo, bet atsimenantis Vytautą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kadangi Vytauto laikais vyko persilaužimas tarp natūrali­
-    nio ir piniginio ūkio, tai mokesčiai buvo mokami natūra ir pi­
-    nigais. Daugiau buvo mokama natūra: duoklėmis ir mezliavo­
-    mis, pirmosios javais, antrosios — gyvuliais. Štai yra užsi­
-    likęs vienas dokumentas iš Kazimiero laikų (artimų Vytautui),
-    kur vienas valstietis dėl imamų jų kaime mokesčių pasisako:
-    „Aš, Viešpatie, Algirdo nebeatmenu, bet atmenu Didįjį Kuni­
-    gaikštį Vytautą, Tavo dėdę, o taip pat, Viešpatie, atmenu, kad
-
-    (^1) ) Ibid.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

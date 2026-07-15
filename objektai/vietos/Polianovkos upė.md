@@ -42,28 +42,6 @@ Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžin
   teiginys: "Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžinosios taikos“ sutartį."
   pagrindžia:
     - c-176443
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžinosios taikos“ sutartį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po mūšio
-
-    Prie Polianovkos upės Lietuva ir Lenkija su
-    Rusija sudarė „amžinosios taikos“ sutartį.
-    Rusijos mėginimas užimti Smolenską buvo
-    sužlugdytas ir miestas kelias dešimtis metų
-    po to priklausė Lietuvai. Sutartis galiojo iki
-    1654 m., kai sulaužę ją rusai vėl įsiveržė į
-    Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

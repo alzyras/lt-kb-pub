@@ -11,13 +11,13 @@ datos:
   - '1396 m.'
 date_start: '1383'
 date_end: '1396'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinė-praktika
   - paprotys
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -107,71 +107,8 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   teiginys: "1383 m. žemaičiai, atsitraukdami nuo Vilniaus, davė vokiečiams savo įkaitus, nors jie buvo duoti ne nuo visų Žemaitijos sričių."
   pagrindžia:
     - c-14489
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Šiame žygyje žemaičiai pakei­
-    tė savo nusistatymą su Vokiečių Ordinu: atsitraukdami nuo
-    Vilniaus, jie davė vokiečiams savo įkaitus. Tiesa, tie įkaitai
-    buvo duoti ne nuo visos Žemaitijos sričių. Bet ir tai, kas buvo
-    padaryta, reikia laikyti Vytauto nuopelnu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Po visų tų iškilmių įvyko dar vienas faktas. Būtent, lenkai
-    pareikalavo Vytauto, Skirgailos ir kitų kunigaikščių įkaitais,
-    kaipo garantijos, kad visi Jogailos duoti pasižadėjimai bus iš­
-    pildyti. Tas lenkų reikalavimas buvo patenkintas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Neabejotina, kad Vytautas būtų tai
-    padaręs, jei iš tikrųjų jo vaikai būtų buvę nužudyti. Gi 1390
-    —92 m. Vytauto duotų Ordinui įkaitų sąraše mes randame iš
-    tikrųjų du kunigaikščiu: Jurgį ir Joną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
-    Magistras patiekė tokius reikalavimus Vytautui: 1) Lietuva
-    turi pripažinti popiežiaus ir imperatoriaus supremaciją (vir­
-    šenybę), 2) Vytautas turi atstatyti visas sugriautas Ordino pi­
-    lis; duoti bajorų sūnų įkaitais ir 3) išpildyti seniau duotus Or­
-    dinui pasižadėjimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 - c-005
   santrauka: 'Unzatrapio, Gundavos ir Angetetos pilių žmonės atsiuntė įkaitų ir pasidavė krikščionių tikėjimui bei broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -179,9 +116,6 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja
     už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir
     nuolankiai pasidavė krikščionių tikėjimui ir broliams.
-
-
-
 
                    76 (75). Apie vienos Notangos dalies nuniokojimą
   citata_rodoma: ''
@@ -191,46 +125,6 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
-- c-006
-  santrauka: 'Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių žmonės atidavė karaliui savo sūnus įkaitais ir prisiekė paklusti tikėjimui bei broliams.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
-    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
-    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
-    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
-    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
-    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
-    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-007
-  santrauka: 'Pagudėnai, neatlaikę brolių antpuolių, davė įkaitų ir pasidavė krikščionių tikėjimui bei broliams.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau
-    priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,
-    matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
-    davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.
-
-
-
-
-    18.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
 
 ## Citatos
 
@@ -310,17 +204,15 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 - id: c-67232
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 109"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 109."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja
-    už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir
-    nuolankiai pasidavė krikščionių tikėjimui ir broliams.
-
-
-
-
-                   76 (75). Apie vienos Notangos dalies nuniokojimą
+    Štai dėl to, šios aplinkybės verčiamas, jis sugrįžo į tėvynę, savo gerus norus
+    palaikydamas nuopelnu, nors užsimoto tikslo ir nepasiekė.
+    335  Žr. paaiškinimus D. III, 74, 332.
+    336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kair. Alnos krante (aukščiau Auktalito,
+    Auglitten); į vakarus nuo kaimo pakrantėje išliko piliakalnis (GAO, p. 47; CV, t. 32, d. 2,
+    p. 324), plg. Топоров B. H., Прусский язык, E—H, c.
+  citata_rodoma: "pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja\nuž brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir\nnuolankiai pasidavė krikščionių tikėjimui ir broliams.\n\n\n\n\n               76 (75). Apie vienos Notangos dalies nuniokojimą"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -331,11 +223,10 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 - id: c-67233
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 106"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
-    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
+    Paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
     kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
     įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
     tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
@@ -351,17 +242,12 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 - id: c-67235
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 78"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau
     priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,
     matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
     davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.
-
-
-
-
     18.
   statusas: verified
   teiginio_tipas: faktas

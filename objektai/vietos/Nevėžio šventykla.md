@@ -35,39 +35,19 @@ Narbutas prie Nevėžio mini šventyklą kaip vieną iš istorijoje žinomų kal
   teiginys: "Narbutas prie Nevėžio mini šventyklą kaip vieną iš istorijoje žinomų kalnų aukurų ar šventyklų vietų."
   pagrindžia:
     - c-171983
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas prie Nevėžio mini šventyklą kaip vieną iš istorijoje žinomų kalnų aukurų ar šventyklų vietų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Visa, ką šiuo klausimu žinome iš istorijos, ap­
-    siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
-    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
-    šventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,
-    turėjo būti pramintas rusinu -  miesto kolonistų, atgabentų iš
-    Lietuvos Rusios kuriant miestą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-171983
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 261"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Visa, ką šiuo klausimu žinome iš istorijos, ap­
     siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
     šventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,
-    turėjo būti pramintas rusinu -  miesto kolonistų, atgabentų iš
+    turėjo būti pramintas rusinu - miesto kolonistų, atgabentų iš
     Lietuvos Rusios kuriant miestą.
   statusas: verified
   teiginio_tipas: faktas

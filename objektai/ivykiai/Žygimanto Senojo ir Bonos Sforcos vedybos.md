@@ -56,27 +56,6 @@ Nenurodyta
   teiginys: "Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą."
   pagrindžia:
     - c-23316
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos bėda, kad
-    ji dažnu atveju nesuspėjo ar neturėjo galimybių pasiekti „gilesnę“ Europą
-    ir europeizacija baigdavosi lenkėjimu. Ši aplinkybė išryškėjo reformacijos
-    metu, kai buvo pradėta kelti gyvųjų kalbų reikšmė.
-    Renesansas ir reformacija
-    Humanistinio išsilavinimo žmonių būta jau XV–XVI a.
-    sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
-    Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
-    (Bona Sforza).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

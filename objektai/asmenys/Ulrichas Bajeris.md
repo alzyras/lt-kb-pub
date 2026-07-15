@@ -53,7 +53,6 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
 - susijęs iš [[objektai/ivykiai/Ulricho Bajerio žygis į Sūduvą.md#claim-t-62515|Ulricho Bajerio žygis į Sūduvą]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino, grobė, paėmė ir nužudė 150 žmonių.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89239|Sūduviai]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ulrichas Bajeris, Tepliavos komtūras, žuvo mūšyje, kuriame taip pat krito keturi vyrai, o Liudvikas iš Libencelės pateko į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,9 +60,6 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
     ir, šitaip toliau braudamasi, užėmė visą valsčių ir jį nusiaubė. Šiame kare krito nukauti
     brolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės
     pakliuvo į nelaisvę.
-
-
-
 
      210 (205).
   citata_rodoma: ''
@@ -114,17 +110,15 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
 - id: c-60702
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    ir, šitaip toliau braudamasi, užėmė visą valsčių ir jį nusiaubė. Šiame kare krito nukauti
-    brolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės
-    pakliuvo į nelaisvę.
-
-
-
-
-     210 (205).
+    Sunkiai
+    šiame žygyje sužeistas brolis Liudvikas iš Libencelės buvo pusgyvis paliktas sniegynuose.
+    Neilgai trukus jį aptiko sūduviai ir, uždėję ant arklio taip, kad galva bei rankos karojo
+    viename arklio šone, o kojos kitame, nusigabeno, bet taip nevykusiai, kad iš apkrešėjusių
+    žaizdų vėl smarkiai paplūdo kraujas, o šitai ir išgelbėjo sužeistąjį, kaip jis pats vėliau
+    teisingai sakė. Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
+    kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
   citata_rodoma: "Šiame kare krito nukauti\nbrolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės\npakliuvo į nelaisvę.\n\n\n\n\n 210 (205)."
   statusas: verified
   teiginio_tipas: faktas
@@ -136,16 +130,19 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
 - id: c-60703
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 165"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    205 (200). Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį
-
-      Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris,
-    Tepliavos komtūras, su 12 brolių  ir 250 raitelių įsiveržė  į Sūduvą  ir, neskaitant kitų
-    nuostolių, kurių pridarė šiai žemei, degindamas ir grobdamas, paėmė ir nužudė 150
-    žmonių, išsivarė į nelaisvę kilmingųjų žmonas, sūnus, dukteris ir šeimyną; šitaip sūduviai
-    čia kur kas daugiau prarado, nei buvo pelnę Semboje.
+    Šitai papasakojęs kunigui, sūduvis tą pačią dieną laimingai
+    atidavė viešpačiui sielą499.
+    208 (203). Apie Marienburgo pilies pastatymą
+    1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
+    kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios
+    šlovei bei garbei ji čia ir buvo perkelta500.
+    209 (204). Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
+    Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
+    pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
+    kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
+    kurį niokojo, degindamas ir grobdamas.
   citata_rodoma: "Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį\n\n  Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris,\nTepliavos komtūras, su 12 brolių  ir 250 raitelių įsiveržė  į Sūduvą  ir, neskaitant kitų\nnuostolių, kurių pridarė šiai žemei, degindamas ir grobdamas, paėmė ir nužudė 150\nžmonių, išsivarė į nelaisvę kilmingųjų žmonas, sūnus, dukteris ir šeimyną; šitaip sūduviai\nčia kur kas daugiau prarado, nei buvo pelnę Semboje."
   statusas: verified
   teiginio_tipas: faktas
@@ -157,13 +154,16 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
 - id: c-60704
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 165"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie brolio Ulricho kovas su sūduviais
-
-      Tas brolis Ulrichas garsėjo narsa. Jis mat ryždavosi tokiems sunkiems žygiams, apie
-    kuriuos bailys nedrįsdavo nė pagalvoti. Jis pridarė suduyiams nesuskaičiuojamų nuostolių.
+    209 (204). Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
+    Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
+    pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
+    kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
+    kurį niokojo, degindamas ir grobdamas. Be kita ko, sudegino Skomanto, galingo vyro bei
+    šio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu
+    grobiu sugrįžo namo.
+  citata_rodoma: "Apie brolio Ulricho kovas su sūduviais\n\n  Tas brolis Ulrichas garsėjo narsa. Jis mat ryždavosi tokiems sunkiems žygiams, apie\nkuriuos bailys nedrįsdavo nė pagalvoti. Jis pridarė suduyiams nesuskaičiuojamų nuostolių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,37 +41,18 @@ Vis dėlto reikėtų manyti, kad „Lie tuvių mitologijos“ recenzentas nebuvo
   teiginys: "Vis dėlto reikėtų manyti, kad „Lie tuvių mitologijos“ recenzentas nebuvo vienas iš artimiausių 25 Listy z nad brzegow Kroženty // Gazeta Warszawska."
   pagrindžia:
     - c-177246
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vis dėlto reikėtų manyti, kad „Lie tuvių mitologijos“ recenzentas nebuvo vienas iš artimiausių 25 Listy z nad brzegow Kroženty // Gazeta Warszawska.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Bet tai tik hipotezė, rašinys galėjo būti ir
-    kolektyvinio darbo vaisius. Vis dėlto reikėtų manyti, kad „Lie­
-    tuvių mitologijos“ recenzentas nebuvo vienas iš artimiausių
-    25 Listy z nad brzegow Kroženty // Gazeta Warszawska. -  1856—
-    1859 (list I-X).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177246
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 58."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Bet tai tik hipotezė, rašinys galėjo būti ir
     kolektyvinio darbo vaisius. Vis dėlto reikėtų manyti, kad „Lie­
     tuvių mitologijos“ recenzentas nebuvo vienas iš artimiausių
-    25 Listy z nad brzegow Kroženty // Gazeta Warszawska. -  1856—
+    25 Listy z nad brzegow Kroženty // Gazeta Warszawska. - 1856—
     1859 (list I-X).
   statusas: verified
   teiginio_tipas: faktas

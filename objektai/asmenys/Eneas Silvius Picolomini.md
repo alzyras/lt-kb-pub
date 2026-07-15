@@ -35,24 +35,6 @@ Nors Eneas Silvius Picolomini ir perdeda, pa­ sakodamas apie jo žiaurumą, bet
   teiginys: "Eneas Silvius Picolomini pasakojo apie Vytauto žiaurumą, nors šaltinyje pažymima, kad jis perdėjo."
   pagrindžia:
     - c-38008
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    jam įžeidimų. Nors Eneas Silvius Picolomini ir perdeda, pa­
-    sakodamas apie jo žiaurumą, bet švelniu valdovu Vytauto ne­
-    galima vadinti. Sunku jį už tai kaltinti: juk ir labiau persi­
-    ėmusioje krikščionybės dvasia vakarų Europoje žiaurumų bu­
-    vo labai daug, tai dar daugiau jų turėjo būti mažiau kultūrin­
-    guose rytuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -42,49 +42,6 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
   teiginys: "Vytautas priėmė Tochtamyšą, tikėdamasis per jį sulaužyti totorių galybę ir, pasiremdamas totoriais, atsisėsti Maskvos soste."
   pagrindžia:
     - c-37152
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautas priėmė Tochtamyšą, tikėdamasis per jį sulaužyti totorių galybę ir, pasiremdamas totoriais, atsisėsti Maskvos soste.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl ir nenuostabu, kad jis
-    nuoširdžiai priėmė atbėgusį pas save Tochtamyšą, tikėdamas jį
-    panaudoti pačių totorių galybei sulaužyti, ir paskui, pasirėmus
-    tais pačiais totoriais, atsisėsti Maskvos soste. Tokį Vytauto
-    užsimojimą nurodo ir rusų metraščiai: esą Vytautas atbėgu­
-    siam Tochtamyšui pareiškęs: aš tave pasodinsiu Auksinėj Ordoj,
-    o tu mane — Maskvos soste^1 ). Tokiu būdu Vytautas per toto-
-
-    (^1) ) a) Pobiįem cara Tymirkutluja, posadym cara Tochtamyša, a on nas
-    posadyt na vsej Russkoj zemli (Pol.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas
-    padėti neatsisakė, nes gerai suprato, kad, turėdamas chaną sa­
-    vo protežė, laimės nepaprastai daug ne tik santykiuose su pa­
-    čiais totoriais, bet ir su visa Rusija. Rusų kronikos aiškina, kad
-    su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro
-    Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­
-    tijoje ir valdysiu visą Rusiją^2 ). Galima manyti, kad tokio
-    samprotavimo priskyrimas būtų anachronizmas, bet esmėje jis
-    yra teisingas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -46,44 +46,7 @@ media_all_json: |-
   teiginys: "Šūksnis „Vyrai, pavojus!“ buvo ištartas pastebėjus, kad stovyklą supa čekistai."
   pagrindžia:
     - c-43204
-
-<a id="claim-t-41472"></a>
-- t-002
-  global_id: t-41472
-  teiginys: "Šūksnis „Vyrai, pavojus!“ buvo ištartas pastebėjus, kad stovyklą supa čekistai."
-  pagrindžia:
     - c-43205
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šūksnis „Vyrai, pavojus!“ buvo ištartas pastebėjus, kad stovyklą supa čekistai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Atėjo ryšininkas
-    Dangus ir pasakė, kad apylinkėje ramu, mama ruošia pusryčius, kuriuos netrukus atneš.
-    Kalbėdamas su ryšininku pastebėjau, kad stovyklą supa čekistai ir sušukau: „Vyrai, pavo-
-    jus!“ Dangus nubėgo į tą pusę, kur buvo čekistai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kalbėdamas su ryšininku pastebėjau, kad stovyklą supa čekistai ir sušukau: „Vyrai, pavo-
-    jus!“ Dangus nubėgo į tą pusę, kur buvo čekistai. Kovos draugai, pašokę iš miego, griebėsi
-    ginklų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -115,5 +78,3 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-41472

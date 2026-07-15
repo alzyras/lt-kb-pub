@@ -7,15 +7,15 @@ datos:
   - '1925 m.'
 date_start: '1925'
 date_end: ''
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - istorikas
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'modernioji Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,8 +43,8 @@ Dusburgietis teigia, kad zimmermann P.
   teiginys: "P. Zimmermannas 1925 m. Labguvoje paskelbė Labguvos apskrities istoriją iki maždaug 1500 metų."
   pagrindžia:
     - c-61460
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. Zimmermannas 1925 m. Labguvoje paskelbė Labguvos apskrities istoriją iki maždaug 1500 metų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -64,11 +64,11 @@ Dusburgietis teigia, kad zimmermann P.
 - id: c-61460
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 274"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
-    1925.
+    Рыбаков Б. А. Киевская Русь и русские княжества XII— XIII вв. — М., 1982.
+    Савукинас Б. К проблеме западнобалтийского субстрата в югозападной Литве.
+  citata_rodoma: "Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,\n1925."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

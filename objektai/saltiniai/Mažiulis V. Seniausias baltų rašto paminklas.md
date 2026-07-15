@@ -40,33 +40,16 @@ Dusburgietis teigia, kad mažiulis V.
   teiginys: "V. Mažiulio „Seniausias baltų rašto paminklas“ paskelbtas „Baltistica“ 1975 m. 11 tomo 2 numeryje."
   pagrindžia:
     - c-61805
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'V. Mažiulio „Seniausias baltų rašto paminklas“ paskelbtas „Baltistica“ 1975 m. 11 tomo 2 numeryje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mažiulis V. Seniausias baltų rašto paminklas — Baltistica, 1975, 11 (2), p. 125—131.
-       Mažiulis V. Prūsų etimologijos.— Baltistica, 1975, 11 (1), p. 83—85; 1978, 14 (1), p.
-    52—55; 1978, 14 (2), p. 95—99.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61805
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mažiulis V. Seniausias baltų rašto paminklas — Baltistica, 1975, 11 (2), p. 125—131.
-       Mažiulis V. Prūsų etimologijos.— Baltistica, 1975, 11 (1), p. 83—85; 1978, 14 (1), p.
+    Mažiulis V. Prūsų etimologijos.— Baltistica, 1975, 11 (1), p. 83—85; 1978, 14 (1), p.
     52—55; 1978, 14 (2), p. 95—99.
   citata_rodoma: "Mažiulis V. Seniausias baltų rašto paminklas — Baltistica, 1975, 11 (2), p. 125—131."
   statusas: verified

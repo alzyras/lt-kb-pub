@@ -80,12 +80,7 @@ Helsinkai šiame šaltinyje yra miestas.
     Lonnrotui
     paminklą
     Helsinkuose.
-  citata_rodoma: "Vėliau, būnant Suomių literatūros dr-jos sekretoriu­
-mi, teko velioniui pakelti sunkią naštą rinkti aukas ir iš tų aukų pasta­
-tydinti
-Lonnrotui
-paminklą
-Helsinkuose."
+  citata_rodoma: "Vėliau, būnant Suomių literatūros dr-jos sekretoriu­\nmi, teko velioniui pakelti sunkią naštą rinkti aukas ir iš tų aukų pasta­\ntydinti \nLonnrotui \npaminklą \nHelsinkuose."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -108,8 +103,7 @@ Helsinkuose."
     tai, kurios priespaudą ir kovas jis savo paties akimis matė.
     1888 m., baigęs liciejų, įstojo į Helsinkų universitetą į istorijos fi­
     lologijos fakultetą.
-  citata_rodoma: "1888 m., baigęs liciejų, įstojo į Helsinkų universitetą į istorijos fi­
-lologijos fakultetą."
+  citata_rodoma: "1888 m., baigęs liciejų, įstojo į Helsinkų universitetą į istorijos fi­\nlologijos fakultetą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

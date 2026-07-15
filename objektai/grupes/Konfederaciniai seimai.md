@@ -42,28 +42,6 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
   teiginys: "Konfederaciniai seimai buvo rengiami siekiant išvengti pavojų valstybei, kildavusių iširus seimui."
   pagrindžia:
     - c-70533
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Dėl jos daugybė seimų turėjo išsiskirstyti,
-
-
-    nieko nenuveikę. Kadangi seimo iširimas dažnai grėsdavo vals-
-    tybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti
-    vadinamieji konfederaciniai seimai. Atstovai į juos
-    būdavo renkami paprasta tvarka, tik suvažiavę, pasiūlius kara-
-    liui ar kam nors kitam, jie pasirašydavo tam tikrą pasižadėjimo
-    aktą, kad numatomus klausimus spręsią balsų dauguma.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -86,5 +64,5 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72118
     - t-72117
+    - t-72118

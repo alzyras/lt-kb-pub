@@ -52,25 +52,9 @@ Nenurodyta
   teiginys: "Kalnėnai ir žemaičiai kūrėsi vienkiemiuose atokiai vieni nuo kitų, kad išvengtų barnių, gaisrų plitimo ir galėtų padėti kaimynams."
   pagrindžia:
     - c-09973
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tas dar yra stebuklingesniu, jog tose giriose ilgainiui įsikūrė, atsikieminėdami^172
-        vienkiemiuose per gerą šaukimą nuo kits kito taip, idant balsą gaidžio ar šunies savo susiedo^173
-        galėtų girdėti, ką darė jau dėl išvengimo tarp savęs barnių, kurie it^174 veikiai galėjo keltis, turint
-        lygiai^175 pievas, dirvas ir daržus, jau saugodamies nuo gaisrų, idant, vienam trobesiui užsidegus,
-        negalėtų ugnis prigauti susiedo trobesio, arba, nutikus viename kieme kokiai nočiai, idant
-        antrasis, girdėdamas savo susiedo šunis lojant, pats galėtų tuo tarpu pasitiekti o jų^176 nuo savęs
-        remti ar antram pagalbą duoti, jei to būt reikę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

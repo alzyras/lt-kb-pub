@@ -35,24 +35,6 @@ Bizantijos šaltiniai apie jokį lietuvių taikumą neužsimena – atvirkščia
   teiginys: "Bizantijos šaltiniai lietuvius apibūdino kaip „narsią ir karingą tautą“, o ne kaip taikius."
   pagrindžia:
     - c-23647
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Senosios Rusios žemės savaime prie LDK kaip švelnesnio okupanto
-    nelinko, lietuvių ekspansijoje būta visko: ir tiesioginio nukariavimo, ir
-    įtakos skleidimo kitais būdais, nes istorija nežino „savanoriškų“ pasijun-
-    gimų prie didvalstybių. Bizantijos šaltiniai apie jokį lietuvių taikumą ne-
-    užsimena – atvirkščiai, kalba apie „narsią ir karingą tautą“. Net dinastinės
-    vedybos vykdavo tiesioginiu kariniu spaudimu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

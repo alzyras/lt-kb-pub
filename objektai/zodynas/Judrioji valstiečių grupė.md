@@ -35,25 +35,6 @@ Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji » (« pochožije �
   teiginys: "Judrioji valstiečių grupė buvo gausi anksčiau laisvų ūkininkų grupė, turėjusi teisę išsikelti kito pono priklausomybėn."
   pagrindžia:
     - c-34131
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Priešistorinių laikų gale skaičius laisvųjų
-    ūkininkų buvo nepalyginamai gausesnis negu didžiųjų kunigaikščių
-    gadynėje. Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji »
-    (« pochožije »), kuriems buvo palikta teisė išsikelti kito pono pri-
-    klausomybėn ; jie anksčiau buvo buvę laisvi ūkininkai.
-    Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais
-    triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

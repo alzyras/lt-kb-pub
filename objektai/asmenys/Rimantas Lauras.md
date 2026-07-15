@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR APIE J O KERŠTĄ DEDE1 DAUMANTUI UZ TĖVO TRAIDENIO NUŽUDYMĄ Traidenis vedė Mozūrų kunigaikščio dukterį1 ir su ja turėjo sūnų, vardu Rimantą2 . Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas. Ir minėtasis vienuolis Lauras, lietuviškai vadinęsis Rimantu, o rusiškai Vosyliumi, gedėdamas dėl savo tė vo, didžiojo kunigaikščio Traidenio, mirties ir atsisa kęs vienuolystės, atvyko pas didikus ir, sušaukęs visas lietuvių jėgas, patraukė prieš Daumantą.
+14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR APIE J O KERŠTĄ DEDE1 DAUMANTUI UZ TĖVO TRAIDENIO NUŽUDYMĄ Traidenis vedė Mozūrų kunigaikščio dukterį1 ir su ja turėjo sūnų, vardu Rimantą2 . Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas. Lietuvos metraštyje Lauro pergalė prieš dėdę Daumantą aiškinama Dievo pagalba: Lauras sumušė jo kariuomenę, užmušė Daumantą ir paėmė Polocką.
 
 ## Teiginiai
 
@@ -43,80 +43,12 @@ media_all_json: |-
   pagrindžia:
     - c-176714
 
-<a id="claim-t-194102"></a>
+<a id="claim-t-196867"></a>
 - t-003
-  global_id: t-194102
-  teiginys: "Ir minėtasis vienuolis Lauras, lietuviškai vadinęsis Rimantu, o rusiškai Vosyliumi, gedėdamas dėl savo tė vo, didžiojo kunigaikščio Traidenio, mirties ir atsisa kęs vienuolystės, atvyko pas didikus ir, sušaukęs visas lietuvių jėgas, patraukė prieš Daumantą."
+  global_id: t-196867
+  teiginys: "Lietuvos metraštyje Lauro pergalė prieš dėdę Daumantą aiškinama Dievo pagalba: Lauras sumušė jo kariuomenę, užmušė Daumantą ir paėmė Polocką."
   pagrindžia:
-    - c-176715
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR APIE J O KERŠTĄ DEDE1 DAUMANTUI UZ TĖVO TRAIDENIO NUŽUDYMĄ Traidenis vedė Mozūrų kunigaikščio dukterį1 ir su ja turėjo sūnų, vardu Rimantą2 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Abu kunigaikščiavo
-    ne vienerius metus.
-    14 APIE TRAIDENĮ, J O  ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR
-    APIE J O  KERŠTĄ DEDE1 DAUMANTUI UZ TĖVO TRAIDENIO
-    NUŽUDYMĄ
-    Traidenis vedė Mozūrų kunigaikščio dukterį1  ir su
-    ja turėjo sūnų, vardu Rimantą2 . Ir kai jo sūnus Ri­
-    mantas išaugo į savo metus, jo tėvas Traidenis atidavė
-    jį Levui Mstislavičiui, įkūrusiam miestą, pagal jo var­
-    dą pavadintą Lvovu 3 , kad išmokytų rusų kalbos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir kai jo sūnus Ri­
-    mantas išaugo į savo metus, jo tėvas Traidenis atidavė
-    jį Levui Mstislavičiui, įkūrusiam miestą, pagal jo var­
-    dą pavadintą Lvovu 3 , kad išmokytų rusų kalbos.
-    Gyvendamas pas kunigaikštį Levą, Rimantas išmo­
-    ko rusiškai kalbėti, ir jam patiko krikščionių tikėji­
-    mas. Priėmęs krikštą, jis suprato, kad šis gyvenimas
-    nieko nevertas, ir, atsisakęs gyvenimo, tapo vienuoliu;
-    ir jam buvo duotas Lauro vardas4 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Ir minėtasis vienuolis Lauras, lietuviškai vadinęsis Rimantu, o rusiškai Vosyliumi, gedėdamas dėl savo tė vo, didžiojo kunigaikščio Traidenio, mirties ir atsisa kęs vienuolystės, atvyko pas didikus ir, sušaukęs visas lietuvių jėgas, patraukė prieš Daumantą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir kai Traidenis
-    nesisaugodamas ėjo iš pirties, tie jo vyrai klastingai
-    nužudė 9 .
-    O pats Daumantas, sutelkęs savo pskoviškę ir po-
-    lockiškę kariuomenę, ištraukė į Lietuvą, ketindamas
-    tapti Lietuvos ir Žemaičių kunigaikščiu.
-    Ir minėtasis vienuolis Lauras, lietuviškai vadinęsis
-    Rimantu, o rusiškai Vosyliumi, gedėdamas dėl savo tė­
-    vo, didžiojo kunigaikščio Traidenio, mirties ir atsisa­
-    kęs vienuolystės, atvyko pas didikus ir, sušaukęs visas
-    lietuvių jėgas, patraukė prieš Daumantą, degdamas troš­
-    kimu atkeršyti už savo tėvo kraują.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+    - c-176713
 
 ## Citatos
 
@@ -125,22 +57,20 @@ media_all_json: |-
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Abu kunigaikščiavo
-    ne vienerius metus.
-    14 APIE TRAIDENĮ, J O  ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR
-    APIE J O  KERŠTĄ DEDE1 DAUMANTUI UZ TĖVO TRAIDENIO
-    NUŽUDYMĄ
-    Traidenis vedė Mozūrų kunigaikščio dukterį1  ir su
-    ja turėjo sūnų, vardu Rimantą2 . Ir kai jo sūnus Ri­
-    mantas išaugo į savo metus, jo tėvas Traidenis atidavė
-    jį Levui Mstislavičiui, įkūrusiam miestą, pagal jo var­
-    dą pavadintą Lvovu 3 , kad išmokytų rusų kalbos.
+    Išrikiavo jisai
+    savo pulkus ir susidūrė su Daumantu prie ežero. Ir
+    susikibo jie su savo pulkais iš abiejų pusių, ir užvirė
+    tarp jų mūšis ir nemenka skerdynė, nuo ryto ligi va­
+    karo. Ir dievas pagelbėjo Laurui, ir jis sumušė visą sa­
+    vo dėdės Daumanto kariuomenę, patį užmušė 10 ir pa­
+    ėmė Polocko miestą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194100
+    - t-196867
 
 - id: c-176714
   autorius: "Anoniminis metraštininkas"
@@ -150,39 +80,16 @@ media_all_json: |-
     Ir kai jo sūnus Ri­
     mantas išaugo į savo metus, jo tėvas Traidenis atidavė
     jį Levui Mstislavičiui, įkūrusiam miestą, pagal jo var­
-    dą pavadintą Lvovu 3 , kad išmokytų rusų kalbos.
+    dą pavadintą Lvovu 3, kad išmokytų rusų kalbos.
     Gyvendamas pas kunigaikštį Levą, Rimantas išmo­
     ko rusiškai kalbėti, ir jam patiko krikščionių tikėji­
     mas. Priėmęs krikštą, jis suprato, kad šis gyvenimas
     nieko nevertas, ir, atsisakęs gyvenimo, tapo vienuoliu;
-    ir jam buvo duotas Lauro vardas4 .
+    ir jam buvo duotas Lauro vardas4.
+  citata_rodoma: "Ir kai jo sūnus Ri­\nmantas išaugo į savo metus, jo tėvas Traidenis atidavė \njį Levui Mstislavičiui, įkūrusiam miestą, pagal jo var­\ndą pavadintą Lvovu 3 , kad išmokytų rusų kalbos.\nGyvendamas pas kunigaikštį Levą, Rimantas išmo­\nko rusiškai kalbėti, ir jam patiko krikščionių tikėji­\nmas. Priėmęs krikštą, jis suprato, kad šis gyvenimas \nnieko nevertas, ir, atsisakęs gyvenimo, tapo vienuoliu; \nir jam buvo duotas Lauro vardas4 ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194101
-
-- id: c-176715
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Ir kai Traidenis
-    nesisaugodamas ėjo iš pirties, tie jo vyrai klastingai
-    nužudė 9 .
-    O pats Daumantas, sutelkęs savo pskoviškę ir po-
-    lockiškę kariuomenę, ištraukė į Lietuvą, ketindamas
-    tapti Lietuvos ir Žemaičių kunigaikščiu.
-    Ir minėtasis vienuolis Lauras, lietuviškai vadinęsis
-    Rimantu, o rusiškai Vosyliumi, gedėdamas dėl savo tė­
-    vo, didžiojo kunigaikščio Traidenio, mirties ir atsisa­
-    kęs vienuolystės, atvyko pas didikus ir, sušaukęs visas
-    lietuvių jėgas, patraukė prieš Daumantą, degdamas troš­
-    kimu atkeršyti už savo tėvo kraują.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194102

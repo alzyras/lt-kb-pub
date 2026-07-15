@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veikimas dažnai ribojosi vietos vidaus reikalais.
+Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veikimas dažnai ribojosi vietos vidaus reikalais. Ar krivio buvimas dėl to nevykusio palyginimo virto pasaka? Manau, kad šiais argumentais ir šiais galinčių kelti prie kaištų nagrinėjimais išgelbėjau istorinį Prūsijos krivio egzista vimą, apgindamas nuo naujų abejonių, ir drauge patvirtinau senojo kryžiuočių kronikininko Dusburgiečio patikimumą.
 
 ## Teiginiai
 
@@ -36,38 +36,20 @@ Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veik
   teiginys: "Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veikimas dažnai ribojosi vietos vidaus reikalais."
   pagrindžia:
     - c-172042
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veikimas dažnai ribojosi vietos vidaus reikalais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ar svetimšalis, prekiaudamas krašte, matydavo
-    vyriausiąjį žynį, kuris net tautiečiams retai pasirodydavo, o nuo­
-    lat slėpdavosi šventovių slėptuvėse? Kas iš tikrųjų krivį įsivaiz­
-    duoja kaip Šiaurės popiežių, Kas Dusburgiečio palyginimą pri­
-    ima už gryną pinigą, taip pat kas vyriausiąjį prūsų žynį laiko
-    Baltijos jūros pakrantės šalių visagaliu valdovu, tas, žinoma,
-    turi gerokai stebėtis, kodėl kronikininkai apie jį nekalba; tas
-    pat turi kelti nerimą ir abejonę dėl visos to dalyko esmės. Ta­
-    čiau tam, kuriam žinoma, kokios reikšmės krivio pareigos tu­
-    rėjo Prūsijoje gyvenant tiems kronikininkams, kaip dažnai jo
-    422
-
-    ## Puslapis 422
-
-    garbinimas ribodavosi vienu valsčiumi, kaip jo veikimas dary­
-    davo įtakos tik sričių vidaus padėčiai ir nuramindavo visuo­
-    menę, tam jokiu būdu nepasirodys keista, kad tie kronikinin­
-    kai, kurie taip menkai pažino tautos vidaus gyvenimą, nieko
-    nepasakoja apie krivį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197368"></a>
+- t-002
+  global_id: t-197368
+  teiginys: "Ar krivio buvimas dėl to nevykusio palyginimo virto pasaka?"
   pagrindžia:
-    - t-001
+    - c-179151
+
+<a id="claim-t-197369"></a>
+- t-003
+  global_id: t-197369
+  teiginys: "Manau, kad šiais argumentais ir šiais galinčių kelti prie kaištų nagrinėjimais išgelbėjau istorinį Prūsijos krivio egzista vimą, apgindamas nuo naujų abejonių, ir drauge patvirtinau senojo kryžiuočių kronikininko Dusburgiečio patikimumą."
+  pagrindžia:
+    - c-172042
 
 ## Citatos
 
@@ -76,28 +58,46 @@ Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veik
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ar svetimšalis, prekiaudamas krašte, matydavo
-    vyriausiąjį žynį, kuris net tautiečiams retai pasirodydavo, o nuo­
-    lat slėpdavosi šventovių slėptuvėse? Kas iš tikrųjų krivį įsivaiz­
-    duoja kaip Šiaurės popiežių, Kas Dusburgiečio palyginimą pri­
-    ima už gryną pinigą, taip pat kas vyriausiąjį prūsų žynį laiko
-    Baltijos jūros pakrantės šalių visagaliu valdovu, tas, žinoma,
-    turi gerokai stebėtis, kodėl kronikininkai apie jį nekalba; tas
-    pat turi kelti nerimą ir abejonę dėl visos to dalyko esmės. Ta­
-    čiau tam, kuriam žinoma, kokios reikšmės krivio pareigos tu­
-    rėjo Prūsijoje gyvenant tiems kronikininkams, kaip dažnai jo
-    422
-
-    ## Puslapis 422
-
-    garbinimas ribodavosi vienu valsčiumi, kaip jo veikimas dary­
-    davo įtakos tik sričių vidaus padėčiai ir nuramindavo visuo­
-    menę, tam jokiu būdu nepasirodys keista, kad tie kronikinin­
-    kai, kurie taip menkai pažino tautos vidaus gyvenimą, nieko
-    nepasakoja apie krivį.
+    Ogi Dusburgietis buvo už­
+    sibrėžęs rašyti tai, quae vidi, alia quae audivi ab his, qui vide­
+    runt, et interfuerunt, caetera, quae relatione veridica intellexi (ką
+    pats esu matęs, apie ką pasakojo matę ir dalyvavę; [pagaliau]
+    ir apie tai, apie ką sužinojau iš patikimų šaltinių). Todėl vargu
+    ar buvo kokia galimybė Dusburgiečiui dažniau minėti jį savo
+    veikale.
+    Manau, kad šiais argumentais ir šiais galinčių kelti prie­
+    kaištų nagrinėjimais išgelbėjau istorinį Prūsijos krivio egzista­
+    vimą, apgindamas nuo naujų abejonių, ir drauge patvirtinau
+    senojo kryžiuočių kronikininko Dusburgiečio patikimumą.
+    Baigiant šias pastabas, būtų galima pateikti daug pavyz­
+    džių, kaip nepasitvirtindavo naujojo meto nuomonės, kritikuo­
+    jančios senus dalykus, kai vėlesni atradimai arba blaivesnis įsi­
+    gilinimas į istorijos faktus įtikino, kad tų jaunų kritikų spren­
+    dimai būdavo pernelyg impulsyvūs, dažnai paremti vien „taip
+    man atrodo“ arba noru iškilti su savo nepalenkiama nuomone
+    arba, kas dar blogiau, skatinami tendencingumo, kažkokios
+    įkvėptos tautinės neapykantos.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189154
+    - t-197369
+
+- id: c-179151
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Ar toji
+    istorinė tiesa dėl to tapo abejotina? Ar krivio buvimas dėl to
+    nevykusio palyginimo virto pasaka? Jokiu būdu. Po tūkstan­
+    čio metų kam nors galbūt ateis į galvą mintis paskelbti Peter­
+    burgą apaštalo Petro pilimi, jo pavadinimą palyginti su šv.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197368

@@ -50,55 +50,6 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
   teiginys: "J 4 as 4 ) ANGLIJA a Atlanto vang etna < N Margaretą |."
   pagrindžia:
     - c-176418
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lenkija ir Lietuva
-    buvo vaizduojamos kaip Europos forpostas
-    prieš „schizmatikus“ maskvėnus. Suardžius
-    Maskvos ir imperatoriaus Maksimilijono I
-    sąjungą, nukreiptą prieš Žygimantą Senąjį,
-    buvo suartėta su Habsburgais. To suartė-
-    jimo ryškiausia manifestacija buvo 1515 m.
-    suvažiavimas Vienoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'J 4 as 4 ) ANGLIJA a Atlanto vang etna < N Margaretą |.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Danija paskelbė Norvegiją
-    savo provincija.
-
-    J 4
-
-    as 4
-    )
-
-    ANGLIJA
-
-    a
-
-    Atlanto vang
-    etna <
-    N
-
-    Margaretą |. Buvo sudaryta Kalmaro unija, sujungusi visas tris Skandinavijos |.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

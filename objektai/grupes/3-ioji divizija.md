@@ -37,24 +37,6 @@ media_all_json: |-
     - c-40737
 - susijęs iš [[objektai/asmenys/I. Musteikis.md#claim-t-40140|I. Musteikis]]: Mjr. I. Musteikio vadovaujama 3-ioji divizija saugojo Lietuvos rytinę ribą su bolševikais ir Latvija.
 - susijęs iš Rykantai: Prie Semeliškių–Rykantų įsitvirtinusi I. Musteikio vadovaujama 3-ioji divizija spalio 14–15 d. sustabdė lenkų veržimąsi.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Nutarta užimti gynybines
-    pozicijas. (3-iajai divizijai: Vištyčio ež.-
-    Rūdelė-Smalėnai-Klevai-Dimitravo ež.,
-    2-ajai divizijai: Dimitravo ež.-Meros upė-
-    Augustavo kanalas-Nemunas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-40737

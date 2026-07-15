@@ -89,64 +89,6 @@ Nenurodyta
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 - susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110661|Jogailaičiai]]: 1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą.
 - susijęs iš [[objektai/zodynas/artilerijos pasala.md#claim-t-42432|artilerijos pasala]]: Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos pasalą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kilmingi žuvusieji buvo atvežti ir palai-
-    doti Vilniuje. Čia, valdovui grįžus, įvyko
-    triumfo iškilmės, eisenoje buvo vedami
-    belaisviai Maskvos karvedžiai ir kariai,
-    Vilniaus katedroje pakabintos trofėjinės
-    vėliavos. (Kaip liudija Mykolas Lietuvis,
-    jos su kitomis čia saugotomis sudegė per
-    1530 m. gaisrą).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po mūšio pasikeitė karo eiga.
-    Išgirdęs apie pralaimėjimą,
-    Vasilijus 111 palikęs įgulą pasi-
-    traukė iš Smolensko. Lietuvai
-
-    vėl atiteko Mstislavlis, Dubrovnos,
-    Kryčevo pilys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Propagandos kampanija po mūšio leido
-    Žygimantui spręsti tarptautinius klausi-
-    mus. Kai kurie žymesni belaisviai buvo
-    išsiuntinėti į Europos valdovų dvarus
-    demonstruojant lietuvių ginklo pergalę
-    ir maskvėnų egzotiką. Lenkija ir Lietuva
-    buvo vaizduojamos kaip Europos forpostas
-    prieš „schizmatikus“ maskvėnus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-11890
@@ -169,6 +111,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54179
+    - t-54181
 
 - id: c-11891
   sudarytojas: "Karolis Zikaras"

@@ -35,45 +35,13 @@ Lenkai teigė, kad vienui viena veiksminga priemonė ginčui dėl Podolės baigt
   teiginys: "Lenkai teigė, kad vienui viena veiksminga priemonė ginčui dėl Podolės baigti yra bendra lenkų ir lietuvių teisė į Podolę."
   pagrindžia:
     - c-168833
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lenkai teigė, kad vienui viena veiksminga priemonė ginčui dėl Podolės baigti yra bendra lenkų ir lietuvių teisė į Podolę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nors karalius nenorėjo savo au­
-    toritetu paremti nei vienos, nei kitos šalies, širdimi pa­
-    laikydamas lietuvius, jis vis dėlto senate pareiškė nie­
-    ku būdu negalįs pritarti ginčo atkaklumui, dėl kurio,
-    nei vienai, nei kitai šaliai nenusileidžiant, galinti suve­
-    šėti nesantaika, todėl, jo galva, būtina, kad lenkai, ne­
-    norėdami suardyti sąjungos, vienaip ar kitaip surastų
-    kokį būdą išsaugoti dviejų tautų draugystę. Lenkai, at­
-    skirai pasitarę, atsakė, kad esanti vienui viena veiks­
-    minga priemonė šiam ginčui baigti, būtent nutarti, jog
-    ateityje Podolė priklausysianti lygiomis teisėmis ir len­
-    kams, ir lietuviams. Šitai galima pasiekti tada, kai abi
-    tautos gyvensiančios vienodomis teisėmis, valdomos vie­
-    no karaliaus, vienoje Lenkijos karalystėje, panaikinus
-    Lietuvos Didžiosios Kunigaikštystės bei visų Lietuvos
-    pareigybių vardus, kurie, pirma, rodo, jog valstybė
-    esanti padalyta, o antra — visada duos dingstį nesan­
-    taikai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-168833
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 489"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 489."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nors karalius nenorėjo savo au­
     toritetu paremti nei vienos, nei kitos šalies, širdimi pa­

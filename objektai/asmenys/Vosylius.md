@@ -62,48 +62,6 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 - susijęs iš [[objektai/asmenys/Vosylius (Maskvos kunigaikštis).md#claim-t-35328|Vosylius (Maskvos kunigaikštis)]]: 1425 m. mirdamas Maskvos kunigaikštis Vosylius savo nepilnametį sūnų Vosylių paliko senelio Vytauto globai.
 - susijęs iš Viazma: Maskviečiai nesėkmingai apgulė Viazmą.
 - susijęs iš Viazma: Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su Lietuvos vasalais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    tėj, kuri turėjo dekoruoti „šviesiausius, tikruosius, garbinguo­
-    sius ir laisvuosius“ Lietuvos karalius^1 ). Į iškilmes buvo pa­
-    kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­
-    to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­
-    nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug
-    mažesnių chanų.
-    Tačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­
-    gabenančių karūnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuo pat metu jis praplėtė savo valdžią Okos
-    aukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,
-    Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
-    kunigaikštijos^2 ). Kad ir po didelių pastangų, bet į gyvenimo galą
-    jam pasisekė paimti savo įtakon ir Pskovą su išdidžiuoju Nau­
-    gardu^3 ), nes Didž. Maskvos kunigaikštija, kurioje viešpatavo
-    nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos
-    sūnus Vosylius, atsparumo nerodė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-36556
@@ -126,8 +84,8 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51191
     - t-51190
+    - t-51191
 
 - id: c-36557
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

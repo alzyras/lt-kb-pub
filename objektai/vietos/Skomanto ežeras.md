@@ -35,36 +35,13 @@ Dusburgietis teigia, kad zioka Skomackas Skomantai Skomanto ež.
   teiginys: "Zioka Skomackas Skomantai Skomanto ež."
   pagrindžia:
     - c-59358
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Zioka Skomackas Skomantai Skomanto ež.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Skokiai žr. Zioka
-    Skomackas
-    Skomantai
-    Skomanto ež. (Skomentner-See, dab. j. Skomętno)
-    Skomanto kalnas (Skomentberg)
-    Skomanto sodyba, p. (Skomantburg)
-    Skorpiono žvaigždynas
-    Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas)
-    Skronaitė (Scroneyte, Scroneiten), p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-59358
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 318"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Skokiai žr. Zioka
     Skomackas

@@ -63,57 +63,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   teiginys: "Al. Brückner pagonių lietuvių kultūrą laikė gana žema."
   pagrindžia:
     - c-03961
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    XIII amž. pradžioje lietuviai nebuvo tokie vargšai ir skurdžiai,
-    kokiais juos prieš pusę šimtmečio yra pristačiusi dalis senosios
-    istorikų kartos (Al. Brückner, Fr. Papée).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Antonevičius, J. (Varšuva) : _Senovės baltų žemdirbystės technikos
-    klausimu_ , ILKI, t. 4, 1964, 164-170 p. —Avižonis, K. : _Entstehung und
-    Entwicklung des litauischen Adels bis zur litauisch-polnischen Union_ 1385,
-    Historische Studien, Heft 223, Berlin 1932. — Brückner, A. : _Dzieje
-    kultury polskiej_ , I, Kraków 1931. — Būtėnas, P. : _Karalius-kuningas,_
-    Karys, 1971, 193-197, 227-230, 263-265, 306-311 p. — Daukantas, S.:
-    _Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas
-    1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet perdėm kritiški kultūros istorikai (pvz., Al. Brückner)
-    nuėjo į kitą kraštutinumą. Nerasdami pas pagonis lietuvius vaka­
-    rietiško blizgesio ir pasigaudami atsitiktinių šaltinių nuotrupų, jie
-    laikė pagonių lietuvių kultūrą gana žema. Pati tauta tada buvusi
-    gana neturtinga^3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 

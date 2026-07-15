@@ -73,6 +73,7 @@ Nenurodyta
   teiginys: "Dotnavos gudai, palyginimui, burną nusiprausdavo vos atsikėlę prieš eidami į darbą."
   pagrindžia:
     - c-177807
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

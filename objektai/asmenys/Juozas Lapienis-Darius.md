@@ -35,29 +35,6 @@ adjutantas Juozas Lapienis-Darius, pasidavė rinktinės vadas Stasys GimbutasTar
   teiginys: "Šarūno rinktinės adjutantas Juozas Lapienis-Darius po nelygios kovos su okupantų kariuomene nusišovė."
   pagrindžia:
     - c-44392
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Žukauskas. Po nelygios kovos su okupantų
-    kariuomene nusišovė LLKS vadovybės spec.
-    atstovas RL sričiai Henrikas Danilevičius-
-    Vidmantas, Aloyzas Žilys-Žirnis ir Šarūno
-    rinkt. adjutantas Juozas Lapienis-Darius,
-    pasidavė rinktinės vadas Stasys Gimbutas-
-    Tarzanas ir 4 partizanai; S. Gimbutas tapo
-    MGB agentu, dėl jo kaltės buvo aptikti ir su-
-    naikinti daugelis Rytų Lietuvos partizanų;
-    ten pat suimta Elena Velavičiūtė-Nida iš-
-    davė 30 partizanų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

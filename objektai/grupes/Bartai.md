@@ -39,7 +39,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt.
+Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai. Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę. 1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų.
 
 ## Teiginiai
 
@@ -153,6 +153,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginys: "Narbuto pasakojime prūsai ir bartai kitą dieną buvo atsiųsti kaip pagalba priešams."
   pagrindžia:
     - c-175162
+
+<a id="claim-t-196891"></a>
+- t-016
+  global_id: t-196891
+  teiginys: "Mat Bartenšteino pilyje buvo vienas vyras, vardu Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų buvusi sunaikinta."
+  pagrindžia:
+    - c-84516
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60100|Derska]]: Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59840|Ditrichas (Sembos fogtas)]]: Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.
 - susijęs iš [[objektai/asmenys/Divanas.md#claim-t-184055|Divanas]]: 1263 m. Divanas, bartų vadas, vijosi iš pilies pasitraukusius brolius, bet buvo sunkiai sužeistas ir liovėsi kariavęs.
@@ -232,390 +239,42 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - susijęs iš Vizenburgas: Broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.
 - susijęs iš [[objektai/zodynas/bažnyčios visuotinybė.md#claim-t-58895|bažnyčios visuotinybė]]: 1274 m. pagudėnai, varmiai, notangai, bartai ir sembai grįžo į šventosios motinos bažnyčios visuotinybę.
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60100|Derska]]: Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
-         medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
-
-      Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene
-    įsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti
-    susibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria
-    raitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios
-    tarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė
-    kažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar
-      416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  santrauka: 'Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    165 (160). Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
-
-      Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
-    prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
-    jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
-    pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
-    tikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  santrauka: 'Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
-
-      Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
-    labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,
-    broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į
-    nelaisvę visus gyventojus, ir net pelenais pavertė.
-
-
-
-
-          174 (169).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    dokumente — Barta major et minor
-
-    Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai. Vargu ar kuri šių giminių
-    buvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug
-    tūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
-    keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-005
-
-- c-005
-  santrauka: 'Bartų vadas Divanas sutelkė stiprią kariuomenę ir dar kartą apiplėšė Kristburgo bei Marienburgo apylinkes.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    144 (139). Apie daugybės prūsų žūtį
-
-      Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią
-    kariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad
-    ir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba
-    paėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-006
-  santrauka: 'Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos
-    kunigaikščiai, kurie pajuto jiems begalinį palankumą. Įvyko šitaip todėl, kad pats Kristus,
-    kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
-    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
-    ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
-    karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
-    grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
-    nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
-    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
-    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-007
-  santrauka: 'Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
-    prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
-    jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
-    pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
-    tikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių. Kai šitai
-    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
-    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
-    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-008
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,
-    Plicke Bartin, grôz Bartin unde kleine. 1251 m. dokumente — Barta major et minor
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-    - t-006
-
-- c-009
-  santrauka: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai grįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Įvyko šitaip todėl, kad pats Kristus,
-    kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
-    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
-    ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
-    karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
-    grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
-    nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
-    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
-    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
-    tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
-      307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-010
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Latviją). Iškilo dar didesnė kilčių diferenciacija.
-    Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau
-    galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje
-    sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai
-    ir kt.
-    Lietuvos ir Latvijos teritorijoje rytiniai baltai ilgiau sudarė
-    vieną kamieną, bet ir čia nuo V-VI amž. po Kr. ryškiau vienos
-    nuo kitų atsiskiria tokios kiltys : lietuviai, žiemgaliai, kurie vėliau
-    (XIII amž.) randami kairiajame Dauguvos deltos krante, pietuose
-    nusitęsę iki Šiaulių - Upytės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-011
-  santrauka: 'Bartų vadas Divanas sutelkė stiprią kariuomenę ir dar kartą apiplėšė Kristburgo bei Marienburgo apylinkes.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią
-    kariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad
-    ir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba
-    paėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis.
-    Todėl išsiuntė į priekį savo kariuomenę su grobiu, o pats nusekė iš paskos su nedideliu
-    pulkeliu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-012
-  santrauka: '1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
-
-      1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
-    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
-    kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
-    paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
-    ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
-    Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui
-    bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
-    visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
-    tarnauti gyvajam dievui Jėzui Kristui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-013
-  santrauka: '1263 m. bartų vadas Divanas vijosi iš pilies pasitraukusius brolius ir su trylika vyrų juos užpuolė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Neilgai trukus broliai, pristigę
-    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
-    link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi
-    juos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,
-    pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,
-    bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
-    susidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris
-    tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-014
-  santrauka: 'Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
-    netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
-    sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie
-    pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
-    Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
-    bartai — Divaną361.
-
-
-
-
-                   90 (85). Apie didelį krikščionių kraujo praliejimą
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-    - t-001
-
-- c-015
-  santrauka: 'Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai šitai
-    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
-    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
-    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,
-    kiti pasitraukė nebaigę reikalo. Piktžodžiautojui Divanui nutiko taip kaip tam Heliodorui,
-    kuris, mėgindamas apiplėšti viešpaties šventyklos iždinę, krito dievo nutrenktas žemėn
-    negyvas; įėjęs  į šventyklą su daugybe žygūnų ir padėjėjų, jis nesusilaukė nė iš vieno
-    pagalbos, tik neštuvais buvo išneštas laukan.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-016
-  santrauka: 'Bartai Numa ir Derska, pabėgę iš Prūsijos į Lietuvą, išdavė lietuvių būrius, tikėdamiesi kryžiuočių atleidimo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo tarpu keletas kitų lietuvių būrių
-    niokojo Lenkijos pasienius, grįždami jie pateko į prie­
-    šų pasalas, ir tuo metu, kai namai, regis, buvo ranka
-    pasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­
-    tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,
-    kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,
-    vildamiesi, jog už naują išdavystę kryžiuočiai jiems
-    atleis jų ankstesnį nusikaltimą. Kitų metų pradžioje
-    lietuvių reikalai nė trupučio nepagerėjo, nors ir nebu­
-    vo tokie blogi kaip anuomet.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-017
-  santrauka: 'Narbuto pasakojime prūsai ir bartai kitą dieną buvo atsiųsti kaip pagalba priešams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
-    kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
-    prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
-    stovyklos visiškai apsiginklavus: skydai spindėjo kaip
-    žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
-    ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
-    liai su lankais, paruoštais smūgiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
 ## Citatos
 
 - id: c-84502
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
-         medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
-
-      Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene
-    įsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti
-    susibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria
-    raitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios
-    tarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė
-    kažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar
-      416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m.
+    Sitai sužinoję, Pusilių ir Fišovijos pilių422
+    broliai su savo ginklanešiais atskubėjo į pagalbą Kristburgo broliams ir miestiečiams,
+    jau pasirengusiems gintis. Kai broliai, žygiuodami į priekį, priartėjo prie apsiaustos
+    pilies, prūsai nutraukė apgulą ir pradėjo bėgti. Per apgulą ir bėgant žuvo daug prūsų,
+    daug buvo mirtinai sužeista, jų vadas Kaltis taip pat krito nukautas kalaviju, nes
+    bėgdami pėstininkai susidūrė su raiteliais. Šito įvykio išgąsdinti, raiteliai bei pėstininkai
+    susijungė ir įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su savo kariuomene
+    apsistojo priešais. Prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką,
+    kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet
+    atvirkščiai, net ir arklius nusibalnojo, jie pusę savo kariuomenės slaptai perkėlė per upę
+    ir vėl žiauriai užpuolė krikščionis — vieni iš užpakalio, kiti iš priešakio; anksčiau, nei
+    krikščionys susiruošė gintis, prie Pagansčių kaimo423 žuvo dvylika brolių ir penki šimtai
+    vyrų.
+  citata_rodoma: "Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­\n     medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį\n\n  Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene\nįsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti\nsusibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria\nraitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios\ntarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė\nkažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar\n  416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88524
     - t-88523
+    - t-88524
 
 - id: c-84503
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     165 (160). Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
-
-      Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
+    Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
     prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
     jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
     pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
@@ -630,20 +289,14 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
-
-      Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
+    Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
     labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,
-    broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į
+    broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę į
     nelaisvę visus gyventojus, ir net pelenais pavertė.
-
-
-
-
-          174 (169).
+    174 (169).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -654,35 +307,39 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 62-63"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 62-63."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    dokumente — Barta major et minor
-
-    Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai. Vargu ar kuri šių giminių
-    buvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug
-    tūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
-    keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių.
+    Mat jie turėjo šešis
+    tūkstančius raitelių ir galybę kitokių karių. Kiekviena šių genčių turėjo daug stiprių
+    pilių, tačiau per daug įkyrėčiau, apie kiekvieną jų skyrium pasakodamas. Pats matyk
+    didelius dievo ženklus ir galingus jo stebuklus. Septyni Teutonų ordino broliai su keliais
+    ginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik
+    iš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium],
+    bet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,
+    kuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris
+    šlovinamas per amžius, amen.
+  citata_rodoma: "dokumente — Barta major et minor\n\nDidžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai. Vargu ar kuri šių giminių\nbuvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug\ntūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti\nketuris tūkstančius raitelių ir keturiasdešimt tūkstančių karių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88528
     - t-88527
+    - t-88528
 
 - id: c-84508
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 137"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    144 (139). Apie daugybės prūsų žūtį
-
-      Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią
-    kariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad
-    ir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba
-    paėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis.
+    145 (140). Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
+    Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
+    didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų. Visa tai plukdydami
+    Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris
+    kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,
+    jei nebūtų spėjęs ateiti su pagalba vienas Pamedės kilmingasis, vardu Samilis426, Tusino
+    tėvas, gyvenęs tarp priešų, bet slaptai gerbęs tikėjimą ir brolius.
+  citata_rodoma: "144 (139). Apie daugybės prūsų žūtį\n\n  Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią\nkariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad\nir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba\npaėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -693,19 +350,20 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84509
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie maldininkus ir Prūsijos žemei sugrąžintą taiką
     Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos
     kunigaikščiai, kurie pajuto jiems begalinį palankumą. Įvyko šitaip todėl, kad pats Kristus,
     kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
-    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    širdis, tad į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
     ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
     karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
     grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
     nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
     patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
     teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.
+  citata_rodoma: "Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos\nkunigaikščiai, kurie pajuto jiems begalinį palankumą. Įvyko šitaip todėl, kad pats Kristus,\nkuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams\nširdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais\nir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe\nkarių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir\ngrobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo\nnė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską\npatvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir\nteisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -716,9 +374,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
     Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
     prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
     jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
@@ -727,6 +385,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
     gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
     Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą.
+  citata_rodoma: "Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir\nprisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu\njie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,\npastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,\ntikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių. Kai šitai\npadarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga\ngynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas\nKrofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -737,28 +396,29 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 62"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 62."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,
-    Plicke Bartin, grôz Bartin unde kleine. 1251 m. dokumente — Barta major et minor
+    Sūduviai, patys tauriausieji,
+    pranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe. Mat jie turėjo šešis
+    tūkstančius raitelių ir galybę kitokių karių. Kiekviena šių genčių turėjo daug stiprių
+    pilių, tačiau per daug įkyrėčiau, apie kiekvieną jų skyrium pasakodamas.
+  citata_rodoma: "201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,\nPlicke Bartin, grôz Bartin unde kleine. 1251 m. dokumente — Barta major et minor"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88534
     - t-88528
+    - t-88534
 
 - id: c-84512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Įvyko šitaip todėl, kad pats Kristus,
     kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
-    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    širdis, tad į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
     ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
     karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
     grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
@@ -766,7 +426,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
     teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
     tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
-      307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
+    307  Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -799,15 +459,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84514
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 137"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią
-    kariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad
-    ir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba
-    paėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis.
-    Todėl išsiuntė į priekį savo kariuomenę su grobiu, o pats nusekė iš paskos su nedideliu
-    pulkeliu.
+    145 (140). Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
+    Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
+    didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų. Visa tai plukdydami
+    Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris
+    kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,
+    jei nebūtų spėjęs ateiti su pagalba vienas Pamedės kilmingasis, vardu Samilis426, Tusino
+    tėvas, gyvenęs tarp priešų, bet slaptai gerbęs tikėjimą ir brolius.
+  citata_rodoma: "Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią\nkariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad\nir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba\npaėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis.\nTodėl išsiuntė į priekį savo kariuomenę su grobiu, o pats nusekė iš paskos su nedideliu\npulkeliu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -818,13 +479,11 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84515
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
-
-      1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
-    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
+    1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
+    varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus,
     kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
     paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
     ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
@@ -842,29 +501,27 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 126"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Neilgai trukus broliai, pristigę
-    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
-    link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi
-    juos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,
-    pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,
-    bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
-    susidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris
-    tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.
+    Mat Bartenšteino pilyje buvo vienas vyras, vardu
+    Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų
+    buvusi sunaikinta. Dėl to jie nutarė klasta jį išvilioti ir nužudyti; išmėginę daug visokių
+    priemonių, galop ėmėsi štai šio būdo. Paspendę pasalas, pasiuntė vieną įgudusį kariauti
+    vyrą, kuris nelyginant Galijotas, kvietęs į kovą Izraelio sūnų pulkus, pradėtų kiršinti
+    apsuptųjų kariuomenę. Sis didžiu balsu šaukė: „Jeigu pilyje yra nors vienas vyras, kuris
+    drįstų susigrumti su manimi dvikovoje, tegu išeina štai čia iš pilies“.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88532
+    - t-196891
 
 - id: c-84518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 115"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
     netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
@@ -872,33 +529,33 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
     Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
     bartai — Divaną361.
-
-
-
-
-                   90 (85). Apie didelį krikščionių kraujo praliejimą
+    90 (85). Apie didelį krikščionių kraujo praliejimą
+    Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
+    išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
+  citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361.\n\n\n\n\n               90 (85). Apie didelį krikščionių kraujo praliejimą"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88535
     - t-88523
+    - t-88535
 
 - id: c-84521
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai šitai
-    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
-    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
-    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,
-    kiti pasitraukė nebaigę reikalo. Piktžodžiautojui Divanui nutiko taip kaip tam Heliodorui,
-    kuris, mėgindamas apiplėšti viešpaties šventyklos iždinę, krito dievo nutrenktas žemėn
-    negyvas; įėjęs  į šventyklą su daugybe žygūnų ir padėjėjų, jis nesusilaukė nė iš vieno
-    pagalbos, tik neštuvais buvo išneštas laukan.
+    Apie prūsų, mokančių vokiečių kalbą, niekšiškumą
+    Herkus Mantas, notangų vadas, bei daugybė kitų prūsų, iš mažumės augusių prie
+    brolių, pridarė tais negandų metais nemaža piktadarysčių krikščionims, nes labai dažnai,
+    netikėlių kariuomenei traukiant brolių žemėmis, krikščionys, kurie negalėjo pabėgti į
+    pilis, slapstėsi miškuose, brūzgynuose ar pelkėse. Sitai sužinojęs, Herkus, pasiėmęs
+    daug ginklanešių, eidavo į tas vietas, kur tikėdavosi rasti besislapstančiųjų, ir, taikingais
+    žodžiais pridengęs klastą, garsiai vokiškai sakydavo: „Jei kas čia slapstosi, tegu išeina
+    be baimės, nes netikėlių kariuomenė jau atsitraukė“. Tuos, kurie, patikėję šiais žodžiais,
+    išeidavo, jis su saviškiais užpuldavo ir paimdavo į nelaisvę arba nužudydavo.
+  citata_rodoma: "Kai šitai\npadarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga\ngynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas\nKrofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,\nkiti pasitraukė nebaigę reikalo. Piktžodžiautojui Divanui nutiko taip kaip tam Heliodorui,\nkuris, mėgindamas apiplėšti viešpaties šventyklos iždinę, krito dievo nutrenktas žemėn\nnegyvas; įėjęs  į šventyklą su daugybe žygūnų ir padėjėjų, jis nesusilaukė nė iš vieno\npagalbos, tik neštuvais buvo išneštas laukan."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -909,19 +566,25 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-167834
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 156"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo tarpu keletas kitų lietuvių būrių
-    niokojo Lenkijos pasienius, grįždami jie pateko į prie­
-    šų pasalas, ir tuo metu, kai namai, regis, buvo ranka
-    pasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­
+    Tą pralaimėjimą jie pa­
     tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,
     kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,
     vildamiesi, jog už naują išdavystę kryžiuočiai jiems
     atleis jų ankstesnį nusikaltimą. Kitų metų pradžioje
     lietuvių reikalai nė trupučio nepagerėjo, nors ir nebu­
-    vo tokie blogi kaip anuomet.
+    vo tokie blogi kaip anuomet. Galbūt norėdamas pa­
+    mėgdžioti Skomantą, kryžiuočių valia puolusį Lietuvą,
+    Girdila (irgi neseniai pabėgęs iš Lietuvos) pasisiūlė
+    takeliais kareivių voras, norėdamas netikėtai užklupti
+    Aukaimio pilį. Vis dėlto Gardino pilies įgula, įspėta
+    apie įsiveržusius priešus, užpuolė juos dar tebežygiuo-
+    1285 m eta i
+    traukti prieš lietuvius ir iš
+    magistro išprašė karių; jis
+    slapta nuvedė siaurais miškų
+  citata_rodoma: "Tuo tarpu keletas kitų lietuvių būrių\nniokojo Lenkijos pasienius, grįždami jie pateko į prie­\nšų pasalas, ir tuo metu, kai namai, regis, buvo ranka\npasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­\ntyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,\nkurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,\nvildamiesi, jog už naują išdavystę kryžiuočiai jiems\natleis jų ankstesnį nusikaltimą. Kitų metų pradžioje\nlietuvių reikalai nė trupučio nepagerėjo, nors ir nebu­\nvo tokie blogi kaip anuomet."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -932,8 +595,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-175162
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
     kos upės. Kitą dieną priešams buvo atsiųsta pagalba —

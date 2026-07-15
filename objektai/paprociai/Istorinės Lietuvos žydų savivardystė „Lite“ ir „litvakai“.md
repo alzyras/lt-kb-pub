@@ -62,22 +62,6 @@ Nenurodyta
   teiginys: "Istorinės Lietuvos žydai šią šalį vadino „Lite“, o save – „litvakais“."
   pagrindžia:
     - c-55141
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-
-    tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
-    Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
-    nigaikštija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -96,4 +80,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-54238
     - t-54239

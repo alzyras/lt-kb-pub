@@ -35,22 +35,6 @@ Kai jis buvo jau gana toli, lenkų vachmistras išsiskyrė iš žiedo ir ėmė v
   teiginys: "Lenkų vachmistras išsiskyrė iš žiedo ir ėmė vytis bėgantį žvalgą."
   pagrindžia:
     - c-40542
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kai jis buvo jau gana toli, lenkų
-    vachmistras išsiskyrė iš žiedo ir ėmė vytis bėgantį bailį. Žvalgas, pa-
-    matęs smarkai atjojantį raitelį žvilgančiu kardu rankoje, atsigulė grio-
-    vyje. Arklys šoko per griovį, o lenkas dūrė kardu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

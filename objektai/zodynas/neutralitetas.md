@@ -43,26 +43,6 @@ Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi ap
   teiginys: "Po nesėkmingų Kalvarijos derybų lenkai apskundė Lietuvą Tautų Sąjungai, kaltindami ją sulaužius neutralitetą rusų ir lenkų kare."
   pagrindžia:
     - c-99276
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po nesėkmingų Kalvarijos derybų lenkai apskundė Lietuvą Tautų Sąjungai, kaltindami ją sulaužius neutralitetą rusų ir lenkų kare.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau, vengdama kraujo praliejimo,
-    Lietuvos vyriausybė sutiko dalyvauti konferencijoj, kad tiesio-
-    ginėmis derybomis būtų taikiai išspręsti ginčijami klausimai. Bet
-    derybos Kalvarijoje (rugsėjo mėn.) nedavė jokių vaisių, ir len-
-    kai toliau veržėsi į mūsų teritoriją; be to, jie apskundė Lie-
-    tuvą Tautų Sąjungai, kaltindami ją sulaužius neutralitetą rusų
-    ir lenkų karo atžvilgiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

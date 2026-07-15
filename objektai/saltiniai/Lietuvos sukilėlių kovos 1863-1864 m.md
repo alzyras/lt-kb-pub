@@ -53,31 +53,6 @@ media_all_json: |-
   teiginys: "Veikalas „Lietuvos sukilėlių kovos 1863-1864 m.“ nurodytas kaip 1969 m. publikacija."
   pagrindžia:
     - c-91752
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Veikalas „Lietuvos sukilėlių kovos 1863-1864 m.“ nurodytas kaip 1969 m. publikacija.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1, 1972,
-    57-72 p.).**
-    (^117) **_Klasiniai prieštaravimai 1830-1831 m. sukilime_** **(AkMD, t. 18, 1965,
-    85-107 p.) ;** **_Caro valdžios priemonės 1830-1831 m. sukilimui Lietuvoje slopinti_**
-    **(AkMD, t. 19, 1965, 119-139 p.);** **_1830-1831 m. sukilėlių valdžia Lietuvoje_**
-    **(AkMD, t. 20, 1966, 59-85 p.).**
-    (^118) **IstV, t. 10, 1969, 125-140 p.; t. 11, 1970, 121-147 p. ; t. 12, 1972;
-    t. 13, 1972, 19-38 p.**
-    (^119) **Be to,** **_Lietuvos sukilėlių kovos 1863-1864 m._** **(1969); ji rašė ir Pane­
-    vėžio miesto istorijos klausimais (AkMD, t. 11, 1961, 125-131 p. ; t. 12, 1962)
-    ir apie Zigmanto Sierakausko gyvenimą (AkMD, t. 16, 1964, 135-153 p.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -103,5 +78,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97269
     - t-97268
+    - t-97269

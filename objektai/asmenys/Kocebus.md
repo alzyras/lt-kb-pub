@@ -3,6 +3,14 @@ tipas: asmuo
 pavadinimas: 'Kocebus'
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+datos:
+  - '1246 m.'
+date_start: '1246'
+date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir gamtos mįsle, kurią gaubia sunkiai atskleidžiamos uždangos. Teodoras Narbutas Kocebo pavartotą Cemptenbece vietovardį taisė į Lemptenburgą ir pažymėjo, kad jo padėtį tiksliai nustatyti sunku.
+Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir gamtos mįsle, kurią gaubia sunkiai atskleidžiamos uždangos. Teodoras Narbutas Kocebo pavartotą Cemptenbece vietovardį taisė į Lemptenburgą ir pažymėjo, kad jo padėtį tiksliai nustatyti sunku. Ligi šiol žinoma seniausia sutartis, primenanti dingu sios Sambijos dalies egzistavimą senovėje; ji esanti 1246 metų Kocebaus darbe (t.
 
 ## Teiginiai
 
@@ -41,6 +49,13 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   teiginys: "Teodoras Narbutas Kocebo pavartotą Cemptenbece vietovardį taisė į Lemptenburgą ir pažymėjo, kad jo padėtį tiksliai nustatyti sunku."
   pagrindžia:
     - c-174233
+
+<a id="claim-t-197770"></a>
+- t-003
+  global_id: t-197770
+  teiginys: "Ligi šiol žinoma seniausia sutartis, primenanti dingu sios Sambijos dalies egzistavimą senovėje; ji esanti 1246 metų Kocebaus darbe (t."
+  pagrindžia:
+    - c-179332
 - susijęs iš [[objektai/asmenys/Augustas Friderikas Kocebu.md#claim-t-191174|Augustas Friderikas Kocebu]]: Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gaubiama sunkiai atskleidžiamų uždangų.
 - susijęs iš [[objektai/autoriai/Augustas fon Kocebus.md#claim-t-191568|Augustas fon Kocebus]]: Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu saulės akmens vardu ir tikra gamtos mįsle.
 - susijęs iš [[objektai/autoriai/Augustas fon Kocebus.md#claim-t-192520|Augustas fon Kocebus]]: Kocebaus darbe Narbutas nurodė 1246 m. sutartį kaip seniausią jam žinomą liudijimą apie dingusios Sambijos dalies egzistavimą.
@@ -51,32 +66,6 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
 - susijęs iš Vitlandija: Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už pagalbą kryžiuočiams užkariaujant sambius.
 - susijęs iš [[objektai/posakiai/poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai.md#claim-t-192120|poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai]]: Narbutas šį mitologinį vaizdinį pateikia kaip artėjantį prie tiesos, kalbėdamas apie gintaro kilmę.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir gamtos mįsle, kurią gaubia sunkiai atskleidžiamos uždangos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Lietuvių kalboje jis išliko žodyje
-    Stiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų
-    reciprocum, se, sanskrito sieti2, lenkų się; be to, lietuviš­
-    kas žodis Stiklas reiškia spindintį daiktą, žodyje glūdi
-    G los s pradas.
-    150
-    Kocebus teisingai vadina gintarą saulės akmeniu, se­
-    novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią
-    gaubia sunkiai atskleidžiamos uždangos4. Tačiau senovė­
-    je, jei atmesime tokias pasakas ir spėliones, pavyzdžiui,
-    kad jis susidaro iš lūšies šlapimo, ¡gintaru verkė Mulea-
-    įgrido paukščiai arba hiperborėjų Apolonas, būta apie jį
-    gana tikslių žinių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Teodoras Narbutas Kocebo pavartotą Cemptenbece vietovardį taisė į Lemptenburgą ir pažymėjo, kad jo padėtį tiksliai nustatyti sunku.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -107,8 +96,7 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
 - id: c-174232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 146"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Lietuvių kalboje jis išliko žodyje
     Stiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų
@@ -133,8 +121,7 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
 - id: c-174233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 347"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tam, kad naujiems šio pajūrio miesto
     kolonistams būtų garantuotos pastovios valdos, teisėjų
@@ -148,10 +135,29 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
     pleatur. Norint deramai suprasti šią vietą, labai svarbu
     tiksliai nustatyti Lemptenburgo padėtį (ne Cemptenbece,
     kaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­
-    me Varmijos vyskupo Anzelmo rašte (Bacho.
+    me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1.
+  citata_rodoma: "Tam, kad naujiems šio pajūrio miesto\nkolonistams būtų garantuotos pastovios valdos, teisėjų\nvalia sutartyje minimos šios sąlygos: Habebunt etiam\ncives sepedicti medietatem unius tercie partis Sambie,\nque fratres contingit, quam fratribus dividentibus elege­\nrint ipsi cives et in Warmia mansas duo milia et quin­\ngentos a Lemptemburc contra Lipzam mensurandos in\nlitor e in une parte et in altera contra Nat augiam donec\nin ipsa Warmia contique ipsorum mansorum numerus im­\npleatur. Norint deramai suprasti šią vietą, labai svarbu\ntiksliai nustatyti Lemptenburgo padėtį (ne Cemptenbece,\nkaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­\nme Varmijos vyskupo Anzelmo rašte (Bacho."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191351
+
+- id: c-179332
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Ligi šiol žinoma seniausia sutartis, primenanti dingu­
+    sios Sambijos dalies egzistavimą senovėje; ji esanti 1246
+    metų Kocebaus darbe (t. 1. P. 418—420). Ten pažymėta
+    krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi­
+    nimą už suteiktą kryžiuočiams pagalbą užkariaujant sam-
+    bius, o būtent Sambiją, Vitlandiją ir dalį Varmijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197770

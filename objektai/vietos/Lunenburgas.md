@@ -8,13 +8,13 @@ datos:
   - '1347 m.'
 date_start: '1347'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -69,42 +69,6 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
 - susijęs iš Ilienburgas: Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies.
 - susijęs iš Saina: Ditrichas iš Altenburgo Lunenburgo pilį pastatė Bartos žemėje, Gubros ir Sainos santakoje.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1347 m. vasarį „abu lietuvių karaliai“
-    puolė Prūsijoje Rastenburgą, niokojo
-    Bartos žemę iki Girdavų pilies, apgulė
-    Lunenburgą, sunaikino jo papilį.
-
-    Nuo lietuvių puolimo Ordinas bandė sau-
-    goti Sembą. Magistras su gausia kariuomene
-    įvairiose vietose priešais Lietuvos žemes
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lunenburgas vėliau vadintas Leunenburgu, o dabar tapatinamas su Sontočnu į pietryčius nuo Sempopolio.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    594 D.— Lunenburgk, Jer.— Lûnenburc (plg. lie. liūnas, Liūnai — GAO, p. 92); vėliau
-    vok. Leunenburg, dab. Sontočnas (Sątoczno)   į pietryčius nuo Sempopolio.  Išlikęs
-    piliakalnis (CV, t. 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p.
-    389).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -151,11 +115,10 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
 - id: c-76664
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    594 D.— Lunenburgk, Jer.— Lûnenburc (plg. lie. liūnas, Liūnai — GAO, p. 92); vėliau
-    vok. Leunenburg, dab. Sontočnas (Sątoczno)   į pietryčius nuo Sempopolio.  Išlikęs
+    594  D.— Lunenburgk, Jer.— Lûnenburc (plg. lie. liūnas, Liūnai — GAO, p. 92); vėliau
+    vok. Leunenburg, dab. Sontočnas (Sątoczno) į pietryčius nuo Sempopolio. Išlikęs
     piliakalnis (CV, t. 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p.
     389).
   statusas: verified
@@ -168,17 +131,17 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
 - id: c-76665
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    362 (355). Apie Lunenburgo pilies ir dviejų miestų pastatymą
-
-      Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą
-    leidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,
-    santakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be
-    to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
-    jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
-    Ilienburgo [Ilijos] pilies595.
+    Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
+    Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
+    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
+    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
+    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
+    Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
+    Henriko VI laikais (Dusb. I, 2).
+    Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
+    III (Ptol.
   citata_rodoma: "Apie Lunenburgo pilies ir dviejų miestų pastatymą\n\n  Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą\nleidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,\nsantakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be\nto, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,\njo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie\nIlienburgo [Ilijos] pilies595."
   statusas: verified
   teiginio_tipas: faktas

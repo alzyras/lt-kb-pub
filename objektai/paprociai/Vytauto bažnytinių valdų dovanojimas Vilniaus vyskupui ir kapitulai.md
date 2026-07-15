@@ -62,39 +62,6 @@ Nenurodyta
   teiginys: "1407 m. Vytautas Vilniaus kapitulai mainais už anksčiau dovanotą Jaryničių kaimą atidavė Liubarų kaimą."
   pagrindžia:
     - c-83150
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1407 m. Vytautas Vilniaus kapitulai mainais už anksčiau dovanotą Jaryničių kaimą atidavė Liubarų kaimą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    vangėti. Didysis kunigaikštis betgi dosnia ranka vis didesnes
-    dovanas dalijo Vilniaus vyskupui ir kapitulai, o paliudijimų
-    apie tokį retą dosnumą išliko iki mūsų laiku70. 1413 metais,
-    70
-    Tai keturios privilegijos, iki šiol išli­
-    kusios Vilniaus kapitulos archyve: 1-
-    oji, rašyta Vilniuje, sabbato in festo
-    Sancti Barnabae Apostoli, anno D-ni
-    1407 [šeštadienį Šv. apaštalo Barna­
-    bo šventėje Viešp. metais 1407], ku­
-    ria kapitulai mainais už pirm dova­
-    notą Jaryničių kaimą atiduodamas
-    Liubarų kaimas, joje didysis kuni­
-    gaikštis rašo: Nos Alexander alias
-    Withowdus Dei gratia Dux Major Lit-
-    huaniae et Dominus Russiae [Mes,
-    Aleksandras, kitaip Vytautas, Dievo
-    malone didysis Lietuvos kunigaikš­
-    tis ir Rusios valdovas].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

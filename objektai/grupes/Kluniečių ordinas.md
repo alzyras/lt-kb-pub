@@ -35,34 +35,17 @@ Dusburgietis teigia, kad kluniečių ordinas — 900 viešpaties metais popieži
   teiginys: "Kluniečių ordinas datuojamas 900 Viešpaties metais, popiežiaus Adrijono III laikais."
   pagrindžia:
     - c-63919
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kluniečių ordinas datuojamas 900 Viešpaties metais, popiežiaus Adrijono III laikais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kluniečių ordinas — 900 viešpaties metais popiežiaus Madrijono III laikais (Ptol. 16,23
-    ir kt.).
-      Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63919
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 227"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kluniečių ordinas — 900 viešpaties metais popiežiaus Madrijono III laikais (Ptol. 16,23
     ir kt.).
-      Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078).
+    Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078).
   citata_rodoma: "Kluniečių ordinas — 900 viešpaties metais popiežiaus Madrijono III laikais (Ptol. 16,23\nir kt.).\n  Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078)."
   statusas: verified
   teiginio_tipas: faktas

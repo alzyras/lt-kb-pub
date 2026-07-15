@@ -40,32 +40,15 @@ Dusburgietis teigia, kad powierski J.
   teiginys: "J. Powierskio straipsnis apie Dusburgo žinią dėl prūsų antpuolių ir laikinos Kulmo žemės okupacijos paskelbtas 1971 m. Olsztyne."
   pagrindžia:
     - c-61875
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Powierskio straipsnis apie Dusburgo žinią dėl prūsų antpuolių ir laikinos Kulmo žemės okupacijos paskelbtas 1971 m. Olsztyne.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Powierski J. Przekaz Dusburga o najazdach pruskich  i przejściowej okupacj  ziemi
-    Chełmińskiej.—Komunikaty mazursko-warmińskie, Olsztyn, 1971, Nr. 4 (114), s. 379—
-    427.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61875
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 269"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Powierski J. Przekaz Dusburga o najazdach pruskich  i przejściowej okupacj  ziemi
+    Powierski J. Przekaz Dusburga o najazdach pruskich i przejściowej okupacj  ziemi
     Chełmińskiej.—Komunikaty mazursko-warmińskie, Olsztyn, 1971, Nr. 4 (114), s. 379—
     427.
   statusas: verified

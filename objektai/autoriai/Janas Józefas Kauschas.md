@@ -1,0 +1,64 @@
+---
+tipas: autorius
+pavadinimas: 'Janas Józefas Kauschas'
+saltiniai:
+  - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
+datos:
+  - '1751 m.'
+  - '1825 m.'
+date_start: '1751'
+date_end: '1825'
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XVIII'
+  - 'XIX'
+periodo_grupes:
+  - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Janas Józefas Kauschas
+
+## Santrauka
+
+Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825).
+
+## Teiginiai
+
+<a id="claim-t-200744"></a>
+- t-001
+  global_id: t-200744
+  teiginys: "Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825)."
+  pagrindžia:
+    - c-184089
+- susijęs iš [[objektai/paprociai/Gėrimo iš vienos taurės paprotys.md#claim-t-200732|Gėrimo iš vienos taurės paprotys]]: Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825).
+## Citatos
+
+- id: c-184089
+  autorius: "Rimvydas Laužikas"
+  šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 16."
+  citata_originali: |
+    Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józe-
+    fas Kauschas (1751–1825). Jis mini, kad jam nepatikdavę po valgio gerti vyną kartu
+    su kitais iš vienos taurės, kuri nebūdavusi išplaunama (ten pat). J. Kitowiczius pa-
+    žymėjo, kad esminiai pokyčiai prasidėję kartu su stiklinių taurių paplitimu, nes ant
+    jų kraštų buvo ryškiai matomi pirmiau gėrusiojo lūpų pėdsakai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200744

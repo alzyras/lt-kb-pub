@@ -40,28 +40,13 @@ Dusburgietis teigia, kad nepokupnas A.
   teiginys: "A. Nepokupno darbas „Baltai slavų giminaičiai“ išleistas Vilniuje 1983 metais."
   pagrindžia:
     - c-61828
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Nepokupno darbas „Baltai slavų giminaičiai“ išleistas Vilniuje 1983 metais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nepokupnas A. Baltai slavų giminaičiai.— V., 1983.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nepokupnas A. Baltai slavų giminaičiai.— V., 1983.
   statusas: verified

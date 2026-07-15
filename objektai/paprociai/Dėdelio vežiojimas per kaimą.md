@@ -81,6 +81,7 @@ Nenurodyta
   teiginys: "Pervažiavę kaimą vaikai dėdelį grąžindavo į jo vietą ant ūkininko tvarto ir jį nurengdavo arba palikdavo aprengtą kitiems metams."
   pagrindžia:
     - c-177822
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

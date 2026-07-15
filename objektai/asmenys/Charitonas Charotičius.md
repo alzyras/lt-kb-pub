@@ -35,26 +35,6 @@ media_all_json: |-
   teiginys: "Vilniaus burmistras Charitonas Charotičius gavo patvirtinimą žemei Maišiagalos ir Rudaminos paviete pagal karaliaus Aleksandro jo broliui duotą privilegiją."
   pagrindžia:
     - c-83623
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilniaus burmistras Charitonas Charotičius gavo patvirtinimą žemei Maišiagalos ir Rudaminos paviete pagal karaliaus Aleksandro jo broliui duotą privilegiją.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Fol. 113 ir pan.
-    21
-    Patvirtinimas Vilniaus burmistrui
-    Charitonui Charotičiui žeanės Mai­
-    šiagalos ir Rudaminos pav. pagal Jo
-    Malonybės karaliaus Aleksandro jo
-    broliui duotą privilegiją - fol. 127.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

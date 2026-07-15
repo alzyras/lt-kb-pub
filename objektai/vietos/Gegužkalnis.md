@@ -42,27 +42,6 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   pagrindžia:
     - c-33847
 - susijęs iš Gedimino pilis (pilis): Guillaume de Machaut rašė, kad 1357 m. žygyje pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šis žygis, kuriame buvo daug svečių iš
-    visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
-    žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
-    rašytame veikale « Confort d’Ami » (« Draugo parama »). Poetas
-    išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar
-    paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
-    kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­
-    šui padegus pilį, turėję pasiduoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33847

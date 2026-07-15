@@ -59,6 +59,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   teiginys: "Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai."
   pagrindžia:
     - c-22004
+    - c-95146
 
 <a id="claim-t-101710"></a>
 - t-004
@@ -88,22 +89,15 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   pagrindžia:
     - c-22000
 
-<a id="claim-t-101714"></a>
-- t-008
-  global_id: t-101714
-  teiginys: "Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai."
-  pagrindžia:
-    - c-95146
-
 <a id="claim-t-101715"></a>
-- t-009
+- t-008
   global_id: t-101715
   teiginys: "Stasys Raštikis vyriausybės posėdyje pareiškė, kad kariuomenė kovos, jei gaus tokį įsakymą."
   pagrindžia:
     - c-22001
 
 <a id="claim-t-101716"></a>
-- t-010
+- t-009
   global_id: t-101716
   teiginys: "Sovietai tuoj pat atmetė Stasio Raštikio kandidatūrą į ministro pirmininko pareigas."
   pagrindžia:
@@ -117,160 +111,6 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 - susijęs iš [[objektai/posakiai/„nepriklausomybė svarbiausia“.md#claim-t-75619|„nepriklausomybė svarbiausia“]]: Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga.
 - susijęs iš S. Lozoraičio slaptas memorandumas A. Smetonai (1935 m. balandis): S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.
 - susijęs iš [[objektai/zodynas/Modus vivendi.md#claim-t-77799|Modus vivendi]]: Stasys Lozoraitis modus vivendi su Lenkija laikė būtina Lietuvos nepriklausomybės sąlyga.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau krikščionių demokratų blokas, Katalikų veikimo
-    centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
-    monopolizuoti ideologinės ir organizacinės erdvės. Katalikų organizaci-
-    jos, jaunimo grupės buvo gausesnės nei tautininkų, jų spauda – įtakinges-
-    nė. Krikščionių demokratų pakraipos opozicija atvirai pretendavo daly-
-    vauti valstybės valdyme, jų remiamas ambicingas kariuomenės vadas gen.
-    Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje
-    įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konf-
-    likto 1940 m. balandį atleido jį iš pareigų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be to, Kaunas sunerimo, kad
-    Vokietija darosi vis agresyvesnė. Todėl 1934 m. pradėti megzti neoficialūs
-    Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras
-    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
-    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
-    strategiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1935 m. balandį
-    S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuria-
-    me išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus,
-    mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Nega-
-    lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-
-    žinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje
-    S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
-    bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
-    J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
-    santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
-    Kaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen.
-    S. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau
-    Lietuvos kariuomenės paradinė rikiuotė 1937 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-006
-
-- c-005
-  santrauka: '1939 m. balandį Stasys Raštikis dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Neutralumo politika ir
-    Molotovo–Ribentropo paktas
-    Griūvant Versalio sistemos postulatams, Tautų Sąjungai
-    nebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų
-    ministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti
-    jų teritoriją, net jeigu to būtų pareikalauta pagal Tautų Sąjungos Statuto
-    16-ą straipsnį. Neturėdamos jokio pasirinkimo, trys Baltijos valstybės
-    paruošė neutralumo įstatymą – Lietuva jį ratifikavo 1939 m. sausio 10 d.
-    Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus
-    tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konf-
-    liktą. Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
-    50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
-    Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Krikščionys demokratai ir liaudininkai, prieš tai su-
-    sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
-    krikščionims demokratams gen. S. Raštikį. Tai buvo dar vienas smūgis
-    A. Smetonai – ultimatumo akivaizdoje opozicija verčia jo paskirtą prem-
-    jerą, nors S. Raštikio kandidatūrai jis pritarė. Tačiau ministro pirmininko
-    Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-
-    tikio kandidatūrą atmetė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-    - t-004
-
-- c-007
-  santrauka: 'Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau ministro pirmininko
-    Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-
-    tikio kandidatūrą atmetė. A. Smetonos siūlymą priešintis ginklu palaikė
-    vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
-    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
-    karinei mašinai negali, būtų daug aukų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-008
-  santrauka: 'Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    A. Smetonos siūlymą priešintis ginklu palaikė
-    vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
-    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
-    karinei mašinai negali, būtų daug aukų. Vyriausybė priėmė ultimatumą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
 ## Citatos
 
 - id: c-21998
@@ -352,8 +192,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101715
     - t-101712
+    - t-101715
 
 - id: c-22002
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -399,8 +239,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101716
     - t-101710
+    - t-101716
 
 - id: c-22004
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -435,8 +275,6 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-101714
 
 ## Ryšiai
 - Stasys Raštikis keliavo į [[objektai/vietos/Lenkija]]

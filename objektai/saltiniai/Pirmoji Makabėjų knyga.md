@@ -34,38 +34,18 @@ Dusburgietis teigia, kad ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59):
   teiginys: "Judas Makabėjus, su saujele savųjų stovėdamas prieš didelę kariuomenę, drąsino juos nebijoti priešų daugybės."
   pagrindžia:
     - c-61631
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Judas Makabėjus, su saujele savųjų stovėdamas prieš didelę kariuomenę, drąsino juos nebijoti priešų daugybės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Juk čia ne
-    jūsų, bet dievo kova. Šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas
-    kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius
-    (1 Mak 4, 8—11): „Nebijokite jų daugybės  ir nenusigąskite jų puolimo. Atsiminkite,
-    kaip buvo išgelbėti mūsų tėvai Raudonojoje jūroje, kai juos vijosi faraonas su gausinga
-    kariuomene.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61631
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 47"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Juk čia ne
     jūsų, bet dievo kova. Šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas
     kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius
-    (1 Mak 4, 8—11): „Nebijokite jų daugybės  ir nenusigąskite jų puolimo. Atsiminkite,
+    (1 Mak 4, 8—11): „Nebijokite jų daugybės ir nenusigąskite jų puolimo. Atsiminkite,
     kaip buvo išgelbėti mūsų tėvai Raudonojoje jūroje, kai juos vijosi faraonas su gausinga
     kariuomene.
   statusas: verified

@@ -35,34 +35,13 @@ Dusburgietis teigia, kad apie dviejų našlių ginčą dėl vieno vyro Po šio m
   teiginys: "Kulmo vyskupas suteikė našlėms nuodėmių atleidimą ir įpareigojo jas tekėti už savo tarnų."
   pagrindžia:
     - c-59550
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kulmo vyskupas suteikė našlėms nuodėmių atleidimą ir įpareigojo jas tekėti už savo tarnų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    42. Apie dviejų našlių ginčą dėl vieno vyro
-
-      Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi
-    tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą,
-    tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų baisiame pavojuje. Nutiko
-    taip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
-    kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-59550
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 90"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     42. Apie dviejų našlių ginčą dėl vieno vyro
 

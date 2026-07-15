@@ -35,28 +35,6 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
   teiginys: "Kai kariuomenei nemokėdavo algos, jos atsisakymas klausyti vadų ir plėšikavimas iki algos gavimo vadinosi kariuomenės konfederacija."
   pagrindžia:
     - c-69252
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kai kariuomenei nemokėdavo algos, jos atsisakymas klausyti vadų ir plėšikavimas iki algos gavimo vadinosi kariuomenės konfederacija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai nemokėdavo algos, jie paprastai visi atsisakydavo
-    klausyti savo vadų, išsirinkdavo savus viršininkus ir tol plėši-
-    kaudavo, kol gaudavo algą. Toks jų susibūrimas vadinosi
-    kariuomenės konfederacija. Kariuomenė daugiau-
-    sia buvo raita. Stepono Batoro laikais buvo atsiradę ir pėsti-
-    ninkų, imamų iš karaliaus ir bažnytinių dvarų valstiečių; jų
-    imdavo po vieną nuo 20 kiemų. Bet kadangi dvarų ponai ne-
-    norėjo jų duoti, tai netrukus tokie rinktiniai pėstininkai turėjo
-    išnykti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

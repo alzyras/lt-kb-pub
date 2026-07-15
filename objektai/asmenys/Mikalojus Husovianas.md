@@ -49,28 +49,6 @@ Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mika
 - susijęs iš [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas.md#claim-t-75365|Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]: Mykolas Lietuvis apie 1550 m. Vytauto laikų papročių griežtumą ir asketizmą priešpriešino savo meto išglebimui ir netvarkai.
 - susijęs iš [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas.md#claim-t-75367|Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]: Mykolas Lietuvis Vytauto laikų papročių griežtumą ir asketizmą priešino savo meto visuomenės išglebimui ir netvarkai.
 - susijęs iš Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę: 1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ Vytauto laikus rodė kaip idealą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mikalojaus Husoviano 1523 m. išleista poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ Vytauto laikus rodė kaip idealą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    ženklas, o būdvardis „palemoniškas“ proginėje literatūroje funkcionavo
-    kaip žodžio „lietuviškas“ atitikmuo, Vilniaus universitetas vadintas „Pa-
-    lemono universitetu“, Vilnius – „Lietuvos palemoniškųjų miestų sostine“.
-    Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas for-
-    mavosi iškeliant Vytautą ir jo laikus. Jau pirmoji Lietuvos poema, tikras
-    renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Gies-
-    mė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto
-    laikus parodyti kaip idealą savo laikų visuomenei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-75372

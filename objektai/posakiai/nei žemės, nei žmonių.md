@@ -35,24 +35,6 @@ Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, neb
   teiginys: "Kryžiuočiai bėglį Vytautą, jų žodžiais nebeturėjusį „nei žemės, nei žmonių“, laikė įrankiu spausti Jogailą."
   pagrindžia:
     - c-33490
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    O Julijona ir kunigaikščio
-    taryba tėra paminėta Žemaičių dovanojimo dokumente.
-    Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais
-    tariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis
-    Jogailą priversti nesitraukti nuo didelių pažadų. Įvykiai tačiau
-    (^19) **LUB, III, 393-395, 400, 489-495 p.; RaCD, 55-60 p.**
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

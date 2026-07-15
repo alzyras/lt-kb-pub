@@ -43,26 +43,6 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
   teiginys: "Privengdamas totorių chano Uzbeko, Teodoras negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva."
   pagrindžia:
     - c-32805
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Privengdamas totorių chano Uzbeko, Teodoras negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Visos Rusi­
-    jos metropolito, graiko Teognosto kanceliarijos užrašai parodo, jog
-    Kijevo kunigaikščiu tuo metu buvo Gedimino brolis Teodoras^6.
-    Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo
-    palaikyti glaudesnių ryšių su Gedimino Lietuva. Apskritai Teog­
-    nosto užrašai (1330-31) su savo charakteringa pinigine apyskaita
-    yra autentiškas šaltinis nustatyti Gedimino ekspansijai į rytus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

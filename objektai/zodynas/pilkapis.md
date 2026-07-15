@@ -92,61 +92,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - susijęs iš [[objektai/ivykiai/Ukmergės pilkapio atkasimas Karolio Kozakovskio.md#claim-t-192489|Ukmergės pilkapio atkasimas Karolio Kozakovskio]]: Ukmergės pilkapį, ilgai užlietą greta esančio ežero, 1838 m. atkasė Karolis Kozakovskis.
 - susijęs iš Ukmergės apskritis: Ukmergės pilkapį 1838 m. atkasė Karolis Kozakovskis, o kasinėjimai parodė po juo buvusią pelenų ir apdegusių daiktų duobę.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoras Narbutas baltarusių pilkapių horizontalų pjūvį apibūdina kaip šiek tiek suplotos elipsės formą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ypač mus domina baltarusių
-    pilkapiai, savo forma ir dydžiu besiskiriantys nuo ukrai-
-    nietiškų, arba stepinių. Šie yra gana aukšti ir turi konu-
-    so'formą arba labai panašūs į šieno kupetas; jie dažniau­
-    siai išbarstyti pavieniui šen bei ten, juose beveik visada
-    randama ginklų ir turtingų riterių apdarų likučių. Tuo
-    tarpu baltarusių yra (kitokie. Horizontalus jų pjūvis yra
-    šiek tiek suplotos elipsės formos, vertikalus skersinis pjū­
-    vis sudaro dalį apskritimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Apskri­
-    tai panašūs radiniai priklauso prie retenybių.
-    Pavyko surinkti šiuos tenykščių kaimo gyventojų iš­
-    saugotus vietos padavimus ir pasakojimus:
-    a) Pilkapiai visuomet buvo laikomi kapais.
-    b) Jie priklauso neatmenamos senovės epochai.
-    c) Tai paminklai kažkokios tautos, gyvenusios šioje
-    žemėje iki slavų ir su jais kariavusios, arba tos, kurią
-    slavai pavergė ginklu,
-    d) Rogačiovas, esąs trikampyje, kurį skalauja Dnep-
-    ras ir Drutė, ant kalvos, laikomas seniausiu šio krašto
-    miestu ir visų pripažįstamas šios buvusios pilkapių ka­
-    sėjų genties sostine.
-    e) Vis dėlto pilkapius visuomet gaubė dabartinės mū­
-    sų kraštiečių kartos pagarba. Šiandien kaimiečiai nors
-    nelaiko jų savo tautos protėvių kapais, tačiau iš pagar­
-    bos po jais besiilsinčios genties žmonių palaikams nieka­
-    da nesiryžta paliesti jų nei noragu, nei kitais įrankiais,
-    o juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury
-    laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-006
-    - t-001
-
 - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -176,8 +121,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - id: c-175100
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 380"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 380."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ypač mus domina baltarusių
     pilkapiai, savo forma ir dydžiu besiskiriantys nuo ukrai-
@@ -199,8 +143,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - id: c-175101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 382"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 382."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Apskri­
     tai panašūs radiniai priklauso prie retenybių.
@@ -228,28 +171,28 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-192276
     - t-192279
     - t-192282
-    - t-192276
 
 - id: c-175102
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 380"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 380."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Tai netgi leidžia daryti prielaidą, jog minėti broliai
+    galėjo priklausyti krivičių tautai ar kuriai kitai su lietu­
+    viais susigiminiavusiai slavų kartai.
     Tokia surinkta pradinės Kijevo istorijos medžiaga, ku­
     ria remdamasis, išmanantis istoriją ir turintis noro galės
     po mūsų parašyti platesnę studiją, jei laikas, sveikata ir
     amžius neleis mums šito įgyvendinti.
     * * *
     VII Priedas
-    A p ie  p ilk a p iu s
+    A p ie p ilk a p iu s
     Šis lietuvių tautos istoriją dominantis straipsnis buvo
     parašytas leidiniui „Tygodnik Wilenslki“', bet ir dabar
     čia verta pakartoti jį su tam tikromis pataisomis.
-    Pilkapiai — žemės kalvos, supiltos žmonių rankomis,
-    rusinu vadinami kurhany.
   citata_rodoma: "Pilkapiai — žemės kalvos, supiltos žmonių rankomis,\nrusinu vadinami kurhany."
   statusas: verified
   teiginio_tipas: faktas

@@ -80,6 +80,7 @@ Nenurodyta
   teiginys: "Valančius liepė mišparus laikyti tuoj po pamaldų, kad žmonės važiuotų namo pietauti."
   pagrindžia:
     - c-177789
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

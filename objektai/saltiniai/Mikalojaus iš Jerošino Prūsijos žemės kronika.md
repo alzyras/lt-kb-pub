@@ -8,15 +8,19 @@ datos:
   - '1335 m.'
   - '1340 m.'
   - '1341 m.'
+  - '1455 m.'
+  - '1480 m.'
 date_start: '1331'
-date_end: '1341'
+date_end: '1480'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ordinas
   - saltinis
   - rankraštis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,8 +55,22 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
   teiginys: "XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą."
   pagrindžia:
     - c-61625
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197019"></a>
+- t-003
+  global_id: t-197019
+  teiginys: "Iš šio vertimo Dusburgiečio kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje."
+  pagrindžia:
+    - c-61625
+
+<a id="claim-t-197020"></a>
+- t-004
+  global_id: t-197020
+  teiginys: "Dlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš Jerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui."
+  pagrindžia:
+    - c-179005
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mikalojaus iš Jerošino vertimas padėjo Dusburgiečio kronikai ir jos mintims plačiau paplisti tarp Ordino brolių ir istoriografijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -68,34 +86,19 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    XIV a. IV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis  į vokiečių kalbą išvertė
-    Mikalojus iš Jerošino. Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo
-    (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas. Darbą Mikalojus baigė
-    jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos
-    žemės kronikoje“ nemaža detalių pakeista arba pridėta79.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-61624
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 20"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Iš šio vertimo Dusburgiečio
-    kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
-      Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J.
+    Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
+    Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.
+    3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
+    redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių
+    laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
+  citata_rodoma: "Iš šio vertimo Dusburgiečio\nkronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.\n  Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -106,17 +109,35 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
 - id: c-61625
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 20"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    XIV a. IV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis  į vokiečių kalbą išvertė
-    Mikalojus iš Jerošino. Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo
-    (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas. Darbą Mikalojus baigė
-    jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos
-    žemės kronikoje“ nemaža detalių pakeista arba pridėta79.
+    Iš šio vertimo Dusburgiečio
+    kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
+    Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
+    jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.
+    Dlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš
+    Jerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.
+    Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60993
+    - t-197019
+
+- id: c-179005
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Dlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš
+    Jerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.
+    Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
+    Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197020

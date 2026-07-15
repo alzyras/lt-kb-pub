@@ -46,50 +46,6 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     - c-168293
 - susijęs iš Marijampolė: Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185335|žygūnas]]: Aleksandras pavedė Trakų vaivadai Zaberezinskiui atsakyti Ivano žygūnui dėl mėginimo numalšinti Ivano įsiūtį per pasiuntinius.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, netrukus žuvo ir visa Napoleono galybė. Tuojau
-    po unijos atnaujinimo iškilmių jis išžygiavo iš Vilniaus į
-    Maskvą. Tačiau jis nerado taikos nė tenai. Bado ir didelių
-    šalčių vejamas, grįžo atgal. Po žiauraus mūšio prie Bere-
-    zinos pavedęs kariuomenę savo maršalui Miuratui, — per Vil-
-    nių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių
-    rinkti naujų jėgų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Berezinos upė buvo sutarta riba tarp Polocko kunigaikštystės ir Lietuvos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Valdo­
-    mo krašto žmones jis be galo patraukė į savo pusę
-    tuo pačiu tikėjimu: mat jis pirmas iš lietuvių valdovų
-    priėmė šventąją krikščionybę. Nenorint, kad tarp
-    žemdirbių rastųsi dėl sienų kokių nesutarimų, dėl ku­
-    rių savaime gali įsiliepsnoti karas su lietuviais, buvo
-    susitarta, kad Berezinos upė skiria Polocko kunigaikš­
-    tystę nuo Lietuvos; šį dalyką po šiai dienai primena
-    gyvenvietė, tuo metu įkurta Berezinos pakrantėje ir
-    pavadinta nuo steigėjo vardo Borisovu. Užpultas Smo­
-    lensko ir Pskovo rusų, ir vienus, ir kitus sėkmingai
-    atrėmė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-02597
@@ -114,8 +70,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - id: c-168293
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 85"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 85."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Valdo­
     mo krašto žmones jis be galo patraukė į savo pusę

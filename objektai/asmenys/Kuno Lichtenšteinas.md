@@ -43,41 +43,6 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
   teiginys: "Žalgirio mūšio pradžioje didysis komtūras Kuno Lichtenšteinas vedė sunkiosios raitijos pleištą prieš lietuvius."
   pagrindžia:
     - c-166950
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Laikinu lietuvių vienišumu Vokiečių ordino vadovybė netruko pasinau-
-    doti. Ordino kariuomenė, išrikiuota trimis pleištais, iš kurių du – vienas
-    nukreiptas prieš lenkus, kitas – prieš lietuvius – sudarė frontą. Prasidėjus
-    mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto,
-    vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Žalgirio mūšio pradžioje didysis komtūras Kuno Lichtenšteinas vedė sunkiosios raitijos pleištą prieš lietuvius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ordino kariuomenė, išrikiuota trimis pleištais, iš kurių du – vienas
-    nukreiptas prieš lenkus, kitas – prieš lietuvius – sudarė frontą. Prasidėjus
-    mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto,
-    vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.
-    Lietuvos kariuomenė šios lavinos spaudimą atlaikė valandą, bet patyrė di-
-    džiulių nuostolių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

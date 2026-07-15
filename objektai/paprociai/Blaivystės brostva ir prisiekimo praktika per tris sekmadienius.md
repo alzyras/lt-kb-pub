@@ -73,6 +73,7 @@ Nenurodyta
   teiginys: "Pasakotoja teigia, kad blaivystė daug padėjo bendruomenei ir jos vyras nustojo gerti."
   pagrindžia:
     - c-177791
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

@@ -35,33 +35,13 @@ Ir jis pa skyrė jiems chaną, vardu Mechmetą l0.
   teiginys: "Ir jis pa skyrė jiems chaną, vardu Mechmetą l0."
   pagrindžia:
     - c-176752
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ir jis pa skyrė jiems chaną, vardu Mechmetą l0.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir jie patys atvyko ir nusilenkė jam, šlo­
-    vingajam valdovui, didžiajam kunigaikščiui Vytautui, ir
-    atnešė brangių dovanų, ir prašo iš jo chano. Ir jis pa­
-    skyrė jiems chaną, vardu Mechmetą l0.
-    Kaip kad iš jūros daug upių teka, taip iš šio didžio­
-    jo valdovo, didžiojo kunigaikščio Vytauto — išmintis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-176752
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 180"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 180."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir jie patys atvyko ir nusilenkė jam, šlo­
     vingajam valdovui, didžiajam kunigaikščiui Vytautui, ir

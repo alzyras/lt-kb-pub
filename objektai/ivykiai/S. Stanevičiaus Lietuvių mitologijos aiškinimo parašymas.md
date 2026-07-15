@@ -62,32 +62,6 @@ Tekstas liko nespausdintas ir, pagal įvadinį tekstą, negalėjo paveikti vieš
   teiginys: "S. Stanevičiaus „Lietuvių mitologijos aiškinimas“ liko nespausdintas."
   pagrindžia:
     - c-170977
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    nesiremia gyvąja tradicija (tautosakine, etnografine medžia­
-    ga), archeologiniais radiniais, lietuvių mitologijos faktų beato­
-    dairiškai negretina su antikinių tautų faktais -  žodžiu, tiek sa­
-    vo požiūriu į lietuvių mitologiją ir jos šaltinius, tiek visa tyri­
-    nėjimo metodologija jis yra priešingas T. Narbutui ir tarsi su
-    juo polemizuoja. Tačiau S. Stanevičiaus „Lietuvių mitologijos
-    aiškinimas“ liko nespausdintas ir negalėjo paveikti viešosios
-    nuomonės apie T. Narbuto veikalą, pradėti formuoti kritiško
-    požiūrio į jį.
-    Vienas pirmųjų viešai kritiškai apie T. Narbuto lietuvių mi­
-    tologijos tyrinėjimą atsiliepė žymusis kalbininkas Augustas
-    Šleicheris, pasišovęs išaiškinti, kurie įvairiuose šaltiniuose mi­
-    nimi lietuvių dievų vardai yra patikimi, iš liaudies užrašyti ir
-    kurie pramanyti arba iškraipyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Data ir vieta
 
@@ -98,12 +72,11 @@ Datavimas pateiktas kaip J. Lebedžio nuomonė: ne anksčiau kaip 1838 m.
 - id: c-170977
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 39"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 39."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     nesiremia gyvąja tradicija (tautosakine, etnografine medžia­
     ga), archeologiniais radiniais, lietuvių mitologijos faktų beato­
-    dairiškai negretina su antikinių tautų faktais -  žodžiu, tiek sa­
+    dairiškai negretina su antikinių tautų faktais - žodžiu, tiek sa­
     vo požiūriu į lietuvių mitologiją ir jos šaltinius, tiek visa tyri­
     nėjimo metodologija jis yra priešingas T. Narbutui ir tarsi su
     juo polemizuoja. Tačiau S. Stanevičiaus „Lietuvių mitologijos

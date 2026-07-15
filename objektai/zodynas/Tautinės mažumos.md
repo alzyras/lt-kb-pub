@@ -50,28 +50,6 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
 - susijęs iš [[objektai/grupes/Lietuvos socialdemokratų partija.md#claim-t-169732|Lietuvos socialdemokratų partija]]: Lietuvos socialdemokratų partija Steigiamojo Seimo rinkimuose liko trečia.
 - susijęs iš [[objektai/posakiai/„teritoriniai patriotai“.md#claim-t-20953|„teritoriniai patriotai“]]: A. Smetona teigė, kad tautinės mažumos turi būti Lietuvos „teritoriniai patriotai“.
 - susijęs iš Kaunas: Gegužės 15 d. laikinojoje sostinėje Kaune į pirmąjį Steigiamojo Seimo posėdį susirinko 112 išrinktų atstovų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais siekdamos valstybinės tarnybos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1935–1936 mokslo metais veikė apie 30 lenkiškų
-    mokyklų.
-    Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-
-    tinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai
-    tautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti
-    savo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-
-    tuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė
-    valstybinės tarnybos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-154617

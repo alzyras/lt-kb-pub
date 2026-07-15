@@ -44,21 +44,6 @@ Vartojamos formos: `šlapjurgiui`.
   teiginys: "Šlapjurgis Daukanto vartosenoje siejamas su šalčiu ir drėgme, nuo kurių pastėrę sijonai galėjo plakti blauzdas."
   pagrindžia:
     - c-09573
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šlapjurgis Daukanto vartosenoje siejamas su šalčiu ir drėgme, nuo kurių pastėrę sijonai galėjo plakti blauzdas.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    puošė, nes idant, šlapjurgiui^332 esant, nuo šalčio ir drėgsmės^333 pastėrę sijonai blauzdų neplaktų,
-        vyturo^334 sau staibius, vilnonomis, taip pat juodomis, auklėmis^335 nuo kulkšnių lig pat kelių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

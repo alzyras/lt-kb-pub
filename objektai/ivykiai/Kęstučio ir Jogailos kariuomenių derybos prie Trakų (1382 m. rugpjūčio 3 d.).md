@@ -57,25 +57,6 @@ Nenurodyta
   teiginys: "Prie Trakų Jogaila prašė, kad Vytautas tarpininkautų derybose, siūlydamas atkurti ankstesnę padėtį."
   pagrindžia:
     - c-38312
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    nejudėdamas iš vietos. Tik kiek laiko praslinkus, jis atsiuntė į
-    Kęstučio stovyklą pasiuntinius, prašydamas, kad Vytautas pa­
-    tarpininkautą derybose, kurią pagrindu jis siūlė atstatymą pir­
-    miau buvusios padėties, t. y. Kęstutis pasilieka didžiuoju kuni­
-    gaikščiu, o Jogaila grįžta į savo žemes. Tuos pasiuntimą pa­
-    siūlymus Jogailos vardu patvirtino ir Skirgaila, prašydamas
-    abu juodu atvykti į Jogailos stovyklą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

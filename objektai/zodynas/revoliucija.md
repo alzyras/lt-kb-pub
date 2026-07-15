@@ -46,20 +46,6 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
 
 ## Teiginiai
 
-<a id="claim-t-192232"></a>
-- t-001
-  global_id: t-192232
-  teiginys: "Teodoro Narbuto teigimu, hunų antplūdžio sukelta revoliucija Dnepro ir Dunojaus tarpupyje lėmė daug pokyčių Europoje."
-  pagrindžia:
-    - c-175081
-
-<a id="claim-t-192233"></a>
-- t-002
-  global_id: t-192233
-  teiginys: "Teodoras Narbutas Dnepro ir Dunojaus tarpupyje prasidėjusią revoliuciją sieja su hunų antplūdžiu."
-  pagrindžia:
-    - c-175081
-
 <a id="claim-t-192234"></a>
 - t-003
   global_id: t-192234
@@ -68,7 +54,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - c-175080
 
 <a id="claim-t-192235"></a>
-- t-004
+- t-002
   global_id: t-192235
   teiginys: "Teodoras Narbutas nauja revoliucija vadina hunų į Europą atneštą padėties pasikeitimą."
   pagrindžia:
@@ -103,44 +89,32 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - c-175082
 
 <a id="claim-t-192572"></a>
-- t-009
+- t-001
   global_id: t-192572
   teiginys: "Teodoro Narbuto pasakojime agatirai galėjo palikti Septynių miestų kraštą, kai sarmatų revoliucijos neleido jiems ramiai gyventi prie Marokos."
   pagrindžia:
     - c-175349
 
 <a id="claim-t-192573"></a>
-- t-010
+- t-004
   global_id: t-192573
   teiginys: "Teodoro Narbuto pasakojime nauja hunų į Europą atnešta revoliucija pakeitė situaciją ir leido išvengti pražūties ar gotų vergijos."
   pagrindžia:
     - c-175350
+
+<a id="claim-t-197699"></a>
+- t-009
+  global_id: t-197699
+  teiginys: "Laikui bėgant, kai pastarieji paju dėjo į Vakarus, ta pati revoliucija turėjo priversti ir agatirus išsikelti iš Uždneprės."
+  pagrindžia:
+    - c-179298
 - susijęs iš [[objektai/zodynas/Žemės revoliucija.md#claim-t-192283|Žemės revoliucija]]: Narbutas mini hipotezę, kad dideli ir maži uolienų luitai Žemės revoliucijos metu buvo išbarstyti po įvairias lygumas.
 - susijęs iš [[objektai/grupes/Agatirai.md#claim-t-192949|Agatirai]]: T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje.
+- susijęs iš [[objektai/grupes/Lietuviškieji bajorai.md#claim-t-200905|Lietuviškieji bajorai]]: Basanavičiaus teigimu, sustiprėjus judėjimui Varšuvoje, lietuviškieji bajorai, ypač Kauno gubernijoje, šaltai žiūrėjo į lenkiškąjį sumanymą.
 - susijęs iš Ravenos geografo veikalas: Teodoras Narbutas Ravenos geografo IX a. informaciją siejo su teiginiu, kad agatirai, agazirai ar angershirai buvę ta pati Amiano minima gentis.
 - susijęs iš Seniava: Narbutas aiškino, kad prie Rosės upės esanti Seniava kilusi iš žodžio „Sienas“ ir reiškia senovinį miestą.
 - susijęs iš [[objektai/zodynas/Žemės revoliucija.md#claim-t-192284|Žemės revoliucija]]: Narbutas Žemės revoliucijos priežastis siejo su formuojantis Žemei išsiskyrusia ugnimi, dujomis ir garais, traiškiusiais žemės kevalą.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    At­
-    stumti, nuolat persekiojami buvo priversti ieškoti prie­
-    globsčio Gotų dykrose kairiojoje Dunojaus pakrantėje.
-    Čia turbūt ir baigėsi jų sąjunga su alanais. Vėliau jie,
-    be abejo, nebūtų išvengę pražūties ar gotų vergijos, jei
-    nauja revoliucija, kurią į Europą atnešė hunai, nebūtų
-    pakeitusi tuometinės situacijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-005
-
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -163,31 +137,6 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - t-003
     - t-007
 
-- c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vėliau dešiniojoje Dunojaus pakrantėje gyvenę skiri ai
-    ir sudargai kiek pagerino savo reikalus, padidinę karinę
-    galią, galbūt: atvykus tiesiai iš gimtosios žemės naujiems
-    žmonėms. Tuo tarpu Dnepro ir Dunojaus tarpupyje ply­
-    tinčiuose kraštuose prasidėjo itin reikšminga revoliucija,
-    kurią sukėlė hunų antplūdis ir kuri lėmė Europoje daug
-    284
-
-    ## Puslapis 295
-
-    pokyčių. Bet, nenorėdami pažeisti mūsų pasakojimų chro­
-    nologinės tvarkos, turime atkreipti dėmesį dar ir į trečią
-    lietuvių gentį, iškeliavusią kartu su gotais į Rytus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 - c-004
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -209,62 +158,12 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - t-008
     - t-006
 
-- c-005
-  santrauka: 'Teodoro Narbuto pasakojime agatirai galėjo palikti Septynių miestų kraštą, kai sarmatų revoliucijos neleido jiems ramiai gyventi prie Marokos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tebus ir čia leista at­
-    kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
-    dalelė Rus ir Ross — lietuviško šventos upės pavadini­
-    mo. O savo gyvenimą tolimame Septynių miestų krašte,
-    kur jie buvo laiko audrų nublokšti, agatirai galėjo iš­
-    keisti į gyvenvietes tarp giminingų kartų, kai nesiliau­
-    jančios sarmatų revoliucijos neleido jiems ilgiau ramiai
-    gyventi prie Marokos. Sis persikėlimas, o tai visiškai įti­
-    kėtina, įvyko gana anksti, nes IX amžiuje jau randame
-    klestintį miestą Vppeleela-, apie tai bus rašoma vėliau,
-    nagrinėjant atitinkamą epochą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-006
-  santrauka: 'Teodoro Narbuto pasakojime nauja hunų į Europą atnešta revoliucija pakeitė situaciją ir leido išvengti pražūties ar gotų vergijos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Čia turbūt ir baigėsi jų sąjunga su alanais. Vėliau jie,
-    be abejo, nebūtų išvengę pražūties ar gotų vergijos, jei
-    nauja revoliucija, kurią į Europą atnešė hunai, nebūtų
-    pakeitusi tuometinės situacijos.
-    *  *  *
-    X skyrius
-    H U N Ų  į S I V E R Z I M A S  Į E U R O P Ą ,
-    T O L E S N I  L I E T U V I Ų  G E N T I E S
-    T A U T Ų  L I K I M A I
-    R Y T U O S E  I R P I E T U O S E
-    304
-    Jau gana įprasti tapo baisūs gotų antpuoliai ir už­
-    kariavimai; Rytų imperijos kraštai vargais negalais su­
-    sitaikė su tuo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
 ## Citatos
 
 - id: c-175079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 305"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 305."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     At­
     stumti, nuolat persekiojami buvo priversti ieškoti prie­
@@ -285,19 +184,19 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
 - id: c-175080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 289"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tuo remdamasis, Naruševičius savo Lenkijos istorijos
-    pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta
-    dešiniojoje šios upės pakrantėje. Tebus ir čia leista at­
+    Tebus ir čia leista at­
     kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
     dalelė Rus ir Ross — lietuviško šventos upės pavadini­
     mo. O savo gyvenimą tolimame Septynių miestų krašte,
     kur jie buvo laiko audrų nublokšti, agatirai galėjo iš­
     keisti į gyvenvietes tarp giminingų kartų, kai nesiliau­
     jančios sarmatų revoliucijos neleido jiems ilgiau ramiai
-    gyventi prie Marokos.
+    gyventi prie Marokos. Sis persikėlimas, o tai visiškai įti­
+    kėtina, įvyko gana anksti, nes IX amžiuje jau randame
+    klestintį miestą Vppeleela-, apie tai bus rašoma vėliau,
+    nagrinėjant atitinkamą epochą.
   citata_rodoma: "O savo gyvenimą tolimame Septynių miestų krašte, kur jie buvo laiko audrų nublokšti, agatirai galėjo iš-\nkeisti į gyvenvietes tarp giminingų kartų, kai nesiliau-\njančios sarmatų revoliucijos neleido jiems ilgiau ramiai\ngyventi prie Marokos."
   statusas: verified
   teiginio_tipas: faktas
@@ -307,38 +206,10 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - t-192234
     - t-192238
 
-- id: c-175081
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Vėliau dešiniojoje Dunojaus pakrantėje gyvenę skiri ai
-    ir sudargai kiek pagerino savo reikalus, padidinę karinę
-    galią, galbūt: atvykus tiesiai iš gimtosios žemės naujiems
-    žmonėms. Tuo tarpu Dnepro ir Dunojaus tarpupyje ply­
-    tinčiuose kraštuose prasidėjo itin reikšminga revoliucija,
-    kurią sukėlė hunų antplūdis ir kuri lėmė Europoje daug
-    284
-
-    ## Puslapis 295
-
-    pokyčių. Bet, nenorėdami pažeisti mūsų pasakojimų chro­
-    nologinės tvarkos, turime atkreipti dėmesį dar ir į trečią
-    lietuvių gentį, iškeliavusią kartu su gotais į Rytus.
-  citata_rodoma: "Tuo tarpu Dnepro ir Dunojaus tarpupyje ply-\ntinčiuose kraštuose prasidėjo itin reikšminga revoliucija,\nkurią sukėlė hunų antplūdis ir kuri lėmė Europoje daug\npokyčių."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192233
-    - t-192232
-
 - id: c-175082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 288"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Apie juos jis pateikia tokių iš senovės rašytojų su­
     rinktų žinių: jie gyveno ikikrikščioniškosios eros amžiais
@@ -348,21 +219,25 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     nai ir antropofagai. Vėliau juos pavergė alanai išvien su
     gelonais ir budinais. Laikui bėgant, kai pastarieji paju­
     dėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-
-    tirus išsikelti iš Uždneprės.
+    tirus išsikelti iš Uždneprės. Taip pat yra senovės geogra­
+    fo, žinomo kaip Ravenos geografas2, IX amžiaus infor­
+    macija, jog agatirai, arba kitaip agazirai ar angershirai,
+    yra ta pati Amiano minima gentis, savaime suprantama,
+    gerokai prieš autoriaus amžių įsikūrusi krašte, per kurį
+    tekėjo dvi upės: Lela-Upe ir Anger-Upe.
   citata_rodoma: "Vėliau juos pavergė alanai išvien su\ngelonais ir budinais. Laikui bėgant, kai pastarieji paju-\ndėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-\ntirus išsikelti iš Uždneprės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192239
     - t-192237
+    - t-192239
 
 - id: c-175349
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 289"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tebus ir čia leista at­
     kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
@@ -385,8 +260,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
 - id: c-175350
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 305"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 305."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Čia turbūt ir baigėsi jų sąjunga su alanais. Vėliau jie,
     be abejo, nebūtų išvengę pražūties ar gotų vergijos, jei
@@ -408,3 +282,24 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192573
+
+- id: c-179298
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Vėliau juos pavergė alanai išvien su
+    gelonais ir budinais. Laikui bėgant, kai pastarieji paju­
+    dėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-
+    tirus išsikelti iš Uždneprės. Taip pat yra senovės geogra­
+    fo, žinomo kaip Ravenos geografas2, IX amžiaus infor­
+    macija, jog agatirai, arba kitaip agazirai ar angershirai,
+    yra ta pati Amiano minima gentis, savaime suprantama,
+    gerokai prieš autoriaus amžių įsikūrusi krašte, per kurį
+    tekėjo dvi upės: Lela-Upe ir Anger-Upe.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197699

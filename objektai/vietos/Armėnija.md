@@ -44,7 +44,6 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
 - susijęs iš [[objektai/autoriai/Kruzė.md#claim-t-191678|Kruzė]]: Narbutas rėmėsi Dorpato universiteto profesoriaus Kruzės nuomone apie Gotos bibliotekoje aptiktus Istachrio geografijos žemėlapius.
 - susijęs iš Volgos žemupys: Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir apsigyveno prie Volgos žemupio.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Brolio Hermano vadovavimo metais Ordinas gavo dovanų Armėnijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -68,15 +67,18 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
 - id: c-59391
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
-    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
-    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
-    Jo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo
-    girdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno
-    žmogaus pastangomis.
+    Dievas jam buvo suteikęs tokių malonių,
+    kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
+    Jį didžiai vertino ir popiežius, ir imperatorius, nekalbant apie kitus kunigaikščius bei
+    didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
+    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti  po maišto, sukelto
+    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
+    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
+    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
+    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių.
+  citata_rodoma: "Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė\nOrdinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,\nArmėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.\nJo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo\ngirdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno\nžmogaus pastangomis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

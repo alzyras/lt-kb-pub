@@ -35,23 +35,6 @@ Jogaila buvo pastatęs bažnyčias Aš­ menoje, Lydoje, Medininkuose (Vil.), Kr
   teiginys: "Jogaila buvo pastatęs bažnyčią Bistricoje."
   pagrindžia:
     - c-35395
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogaila buvo pastatęs bažnyčias Aš­
-    menoje, Lydoje, Medininkuose (Vil.), Krėvėje, Nemenčyne,
-    Bistricoje, Maišiogaloje, Ukmergėje1 2). Daugiau Jogaila Lie­
-    tuvoje bažnyčių ir nestatęs; tai atliko Vytautas ir Lietuvos
-    didikai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

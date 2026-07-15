@@ -51,36 +51,13 @@ Nenurodyta
   teiginys: "Narbutas vertina pagoniškas vaišes kaip religinių apeigų dalį, kuri esą padėdavo palaikyti liaudies padorumą."
   pagrindžia:
     - c-172761
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas vertina pagoniškas vaišes kaip religinių apeigų dalį, kuri esą padėdavo palaikyti liaudies padorumą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Atrodo, jog ši pagoniška religija daugiausia būdavo nau­
-    dinga tuo, kad tamsią, piktą, linkusią nusigerti liaudį išlaiky­
-    davo tam tikru mastu padorią dėl vaišių, kurios dėl tos pačios
-    priežasties susiliedavo su religinėmis apeigomis. Religinės apei­
-    gos būdavo atliekamos po pliku dangumi, nes vos ne visos šven­
-    tyklos buvo be stogų ir kulto statiniai neturėjo dangos. Tam
-    tikslui būdavo pasirenkama rami ir giedra diena, o jeigu neti­
-    kėta liūtis sutrukdydavo apeigas, tą palaikydavo aiškiu dievų
-    pykčiu“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172761
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 342"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 342."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Atrodo, jog ši pagoniška religija daugiausia būdavo nau­
     dinga tuo, kad tamsią, piktą, linkusią nusigerti liaudį išlaiky­

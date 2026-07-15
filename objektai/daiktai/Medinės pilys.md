@@ -55,26 +55,6 @@ Nenurodyta
   teiginys: "XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai."
   pagrindžia:
     - c-22274
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Besiformuojančio lietuvių epo
-    dalimi reikėtų laikyti ir Šventaragio legendą. Tik ši istorija atskirtina nuo
-    legendų, sugalvotų XV–XVI a., apie romėnišką lietuvių kilmę, apie Pale-
-    moną ir jo sūnus Kuną, Sperą ir Barką.
-    Merkinės piliakalnis – vienas gražiausių Lietuvos piliakalnių,
-    ant kurių stovėjusios medinės pilys buvo svarbiausi gynybiniai
-    statiniai XIII–XIV a.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

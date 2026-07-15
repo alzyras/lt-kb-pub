@@ -59,68 +59,20 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   teiginys: "1268 m. Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, imperatoriaus Fridricho II anūką."
   pagrindžia:
     - c-60674
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: '1263 m. popiežius Urbonas atidavė Sicilijos karalystę Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    46. Apie Sicilijos karalystės dovanojimą Karoliui
-
-      1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui
-    ir Prancūzijos karaliaus broliui,  Sicilijos karalystę, kurią Manfredas buvo užgrobęs,
-    norėdamas ją iš jo atimti (Mart. p. 407; Ptol. 22, 26).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197112"></a>
+- t-004
+  global_id: t-197112
+  teiginys: "Štai neilgai trukus po to Sicilijos karalystėje palermiečiai, pagauti baisaus įsiūčio, išžudė iš paniekos anksčiau minėtajam karaliui visus ten gyvenusius prancūzus, tiek vyrus, tiek moteris, o baisiausia — nėščioms lotynų moterims, kurios sakėsi pastojusios."
   pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1265 m. popiežius Klemensas IV apvainikavo Karolį Sicilijos karaliumi.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II
-                                nesantuokinio sūnaus, mirtį
-
-      1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį
-    Sicilijos karaliumi, kurią jam davė popiežius Urbonas. Tas Karolis atėmė iš Manfredo,
-    nesantuokinio imperatoriaus Fridricho II sūnaus, ir gyvybę, ir sostą (Mart. p. 408; Ptol.
-    22, 30).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: '1268 m. Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, imperatoriaus Fridricho II anūką.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    52. Apie Konradino, imperatoriaus Fridricho II anūko, žūtį
-
-      1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę
-    ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos
-    kilmingųjų (Mart. p. 409; Ptol. 22, 34—38).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+    - c-60673
 
 ## Citatos
 
 - id: c-60672
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 234"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 234."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     46. Apie Sicilijos karalystės dovanojimą Karoliui
 
@@ -138,28 +90,29 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 - id: c-60673
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 234"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 234."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II
-                                nesantuokinio sūnaus, mirtį
-
-      1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį
-    Sicilijos karaliumi, kurią jam davė popiežius Urbonas. Tas Karolis atėmė iš Manfredo,
-    nesantuokinio imperatoriaus Fridricho II sūnaus, ir gyvybę, ir sostą (Mart. p. 408; Ptol.
-    22, 30).
+    Tais metais, vasario mėnesį, pagavo jūrų žuvį, panašią į liūtą, tame paplūdimyje, kuris
+    yra prieš Montaltą, ir nunešė prie Orvjeto, kur sugužėjo gausybė popiežiaus rūmininkų
+    pasižiūrėti šios pabaisos, nes jos oda buvo apžėlusi plaukais, kojos trumpos, uodega —
+    kaip liūto, galva — kaip liūto, be to, ausys, nasrai, dantys ir liežuvis irgi atrodė beveik
+    nelyginant liūto. Pasakojo, kad pagauta baisiai raudojusi, todėl daug žmonių iš to ir suvokė,
+    kokia būsianti ateitis. Štai neilgai trukus po to Sicilijos karalystėje palermiečiai, pagauti
+    baisaus įsiūčio, išžudė iš paniekos anksčiau minėtajam karaliui visus ten gyvenusius
+    prancūzus, tiek vyrus, tiek moteris, o baisiausia — nėščioms lotynų moterims, kurios
+    sakėsi pastojusios nuo prancūzų, vėrė šonus ir žudė jų negimusius kūdikius (Ptol.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60040
+    - t-197112
 
 - id: c-60674
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 235."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     52. Apie Konradino, imperatoriaus Fridricho II anūko, žūtį
 

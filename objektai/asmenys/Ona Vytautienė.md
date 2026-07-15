@@ -75,6 +75,7 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - susijęs iš [[objektai/asmenys/Kotryna Jogailaitė.md#claim-t-87401|Kotryna Jogailaitė]]: Karalaitė Ona turėjo dalį jai perduoto turto atiduoti Kotrynai Jogailaitei, Švedijos karalienei.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176523|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstučio palaikai Skirgailos rūpesčiu buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį.
 - susijęs iš [[objektai/asmenys/Liudvikas (Čekijos karalius).md#claim-t-186144|Liudvikas (Čekijos karalius)]]: Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.
+- susijęs iš [[objektai/asmenys/Margarita Austrijietė Savojietė.md#claim-t-200870|Margarita Austrijietė Savojietė]]: Margaritos Austrijietės Savojietės giminystė su paskutiniaisiais Jogailaičiais galėjo sietis su Niderlandų įtaka Šv. Onos bažnyčios fasadui.
 - susijęs iš [[objektai/asmenys/Ona (Vytauto žmona).md#claim-t-184811|Ona (Vytauto žmona)]]: Vytautas po žmonos Onos mirties Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.
 - susijęs iš [[objektai/asmenys/Povilas (Vilniaus vyskupas).md#claim-t-186012|Povilas (Vilniaus vyskupas)]]: Vilniaus vyskupui Povilui gyvam esant, Viklifo pasekėjas gavo leidimą kalbėti apie tikėjimą Šv. Onos bažnyčioje.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179676|Skirgaila]]: Skirgailos rūpesčiu Kęstučio palaikai buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį.
@@ -86,9 +87,11 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - susijęs iš [[objektai/asmenys/Žalinskis Zaleskis.md#claim-t-87900|Žalinskis Zaleskis]]: Tikocine pas Zaleskį buvęs bažnytinis auksas ir sidabras buvo paskirti Šv. Onos bažnyčiai.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183851|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimantas Augustas nemažomis lėšomis pastatydino Šv. Barboros bažnyčią žmonos Barboros Radvilaitės atminimui.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183854|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą.
+- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-200770|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Mikalojus Vorobjovas rašė, kad italų menininkai Vilniuje dirbo pakviesti Žygimanto Augusto, kuris, sakoma, buvo Šv. Onos fundatorius.
 - susijęs iš [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai.md#claim-t-87130|Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]: Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.
 - susijęs iš [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai.md#claim-t-87041|Žygimanto Augusto pilies bažnyčių pastatai]]: Žygimanto Augusto pradėti Šv. Onos bažnyčios pilyje pastatai jam gyvam esant nebuvo užbaigti.
 - susijęs iš [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai.md#claim-t-87042|Žygimanto Augusto pilies bažnyčių pastatai]]: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos atminimui.
+- susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-200755|Jogailaičiai]]: Vorobjovas paskutiniųjų Jogailaičių ryšius su Margarita Austrijiete Savojiete siejo su galimu Šv. Onos bažnyčios ryšiu su vėlyvąja Flandrijos gotika.
 - susijęs iš [[objektai/grupes/Lietuvos didikai.md#claim-t-81459|Lietuvos didikai]]: Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Vilniuje didino miesto iškilmingumą.
 - susijęs iš [[objektai/grupes/Lietuvos didikai.md#claim-t-81460|Lietuvos didikai]]: Kazimiero valdymo laikotarpiu Vilniuje dažnai vyko Lietuvos didikų suvažiavimai ir pasitarimai.
 - susijęs iš [[objektai/grupes/Vilniaus jėzuitų kolegija.md#claim-t-86704|Vilniaus jėzuitų kolegija]]: Mirdamas Knišine Žygimantas Augustas savo turtingą biblioteką atidavė Vilniaus jėzuitų kolegijai.
@@ -130,15 +133,12 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - susijęs iš Luckas: 1392 m. Astravo dokumentai rodo, kad Vytautas ir Ona titulavosi Trakų ir Lucko kunigaikščiais.
 - susijęs iš Marienburgas: Vytautas Marienburge surengė dukters Sofijos palydėtuves prieš jos santuoką su Maskvos kunigaikščiu Vasilijumi.
 - susijęs iš Melnikas: Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis.
+- susijęs iš Niderlandai (vieta): Vorobjovas svarstė, kad šv. Onos bažnyčios sąryšiui su Flandrijos gotika galėjo turėti reikšmės Jogailaičių ryšiai su Niderlandais.
 - susijęs iš Tikocinas: Tikocine pas Zaleskį buvę bažnytiniai reikmenys turėjo būti perduoti Vilniaus Šv. Onos bažnyčiai.
 - susijęs iš Vilniaus pilis: Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.
 - susijęs iš Vilniaus pilis: Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.
-- susijęs iš Vilnius: Vilniuje iškilo Kardinalija, buvo užbaigta ir pašventinta Šv. Onos bažnyčia, pradėta Šv. Kazimiero bažnyčia.
-- susijęs iš Vilnius: Apie 1555 m. Vilniuje pasirodė kunigas, slapta persiėmęs viklifininkų sektos nuostatomis.
 - susijęs iš Vilnius: Vilniaus Bernardinų bažnyčios centrinė nava citatoje minima kaip Lietuvos gotikai būdingų aukštų erdvių pavyzdys.
-- susijęs iš Vilnius: Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.
-- susijęs iš Vilnius: Vilniuje Viklifo pasekėjas gavo vyskupo leidimą kalbėti apie tikėjimą šv. Onos bažnyčioje ir ten laikyti pamaldas.
-- susijęs iš Vilnius: Lietuvos metraščio pasakojime Gediminas prieš žūtį perdavė aukščiausią valdžią Vilniuje Jaunučiui.
+- susijęs iš Šv. Mykolo bažnyčia: Šv. Mykolo bažnyčia apibūdinama kaip nedidelė bažnyčia netoli Šv. Onos ir Bernardinų bažnyčių.
 - susijęs iš Šv. Onos bažnyčia: Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje.
 - susijęs iš Žemaičių žemė: Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.
 - susijęs iš [[objektai/zodynas/Paliaubos induciae.md#claim-t-86504|Paliaubos induciae]]: 1382 metų lapkričio pradžioje Jogaila Dubysos saloje sudarė paliaubas su kryžiuočiais, paaukodamas jiems nemažą Žemaitijos dalį.
@@ -146,33 +146,6 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - susijęs iš [[objektai/zodynas/mansionieriai.md#claim-t-86538|mansionieriai]]: Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje ir du mansionierius.
 - susijęs iš [[objektai/zodynas/provizija.md#claim-t-86611|provizija]]: Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją ir du mansionierius tinkama provizija.
 - susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ona Vytautienė savo meile padėjo išgelbėti Vytautą nuo neišvengiamos pražūties.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    To garbingo karžygio palaikai Skir­
-    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
-    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
-    vo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
-    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
-    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
-    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
-    neišvengiamos pražūties.
-    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
-    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
-    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
-    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
-    sudarė su jais paliaubas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-165129
@@ -199,6 +172,3 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181595
-
-## Ryšiai
-- Vyrai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

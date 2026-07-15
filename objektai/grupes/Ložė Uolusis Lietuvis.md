@@ -59,29 +59,6 @@ Vilniuje veikusi masonų ložė.
   pagrindžia:
     - c-55855
 - susijęs iš [[objektai/grupes/Masonų ložė „Uolusis lietuvis“.md#claim-t-183171|Masonų ložė „Uolusis lietuvis“]]: Po 1812 m. Lietuvoje išpopuliarėjus masonų judėjimui, „Uolusis lietuvis“ buvo garsiausioji masonų ložė.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tuo metu
-    Vilniuje veikė kelios masonų ložės. 1816 m. ložės Uolusis Lietu­
-    vis sąraše buvo 114 narių, tarp kurių nemažai Vilniaus universi­
-    teto profesorių. M. Balinskis daugelį iš jų asmeniškai pažinojo,
-    VII
-
-    ## Puslapis 8
-
-    1819 m. pats įstojo į šią ložę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-55855

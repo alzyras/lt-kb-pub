@@ -34,37 +34,6 @@ media_all_json: |-
   teiginys: "Vilniaus miesto aktuose buvo Vilniaus vaitų ir kelių žymesnių burmistrų sąrašas, apimantis laikotarpį iki Unijos."
   pagrindžia:
     - c-84471
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilniaus miesto aktuose buvo Vilniaus vaitų ir kelių žymesnių burmistrų sąrašas, apimantis laikotarpį iki Unijos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Onos bažnyčios atsiradimo žr.
-    268 p.
-    Žr. IX priedą.
-    72
-    299
-
-    ## Puslapis 316
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    PRIEDAI
-    PRIE
-    VILNIAUS MIESTO ISTORIJOS
-    KETVIRTOSIOS KNYGOS
-    I
-    VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ
-    SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ
-    a) Iki Unijos
-    1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

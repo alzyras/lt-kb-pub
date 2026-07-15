@@ -9,14 +9,14 @@ datos:
   - '1836 m.'
 date_start: '1291'
 date_end: '1836'
+amziai:
+  - 'XIII'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - kraštas
-amziai:
-  - 'XIII'
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -91,29 +91,6 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171424|Totoriai]]: Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais.
 - susijęs iš Jeruzalė: Aprašęs Jeruzalės karalystės sostinės Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių santrauką.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
-    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
-    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
-    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
-    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip  ir atitinkami
-    popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
-    ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
-    vienodos, kad šios tautos turėjusios bendrą priešą71.
-      Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-    - t-002
-
 - c-002
   santrauka: 'Narbutas rašo, kad Sirijos patriarchą Maskvoje lydėjęs arkidiakonas Povilas pasakojo apie Rusijos carui pavaldžių tautų dangaus kūnų garbinimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -136,18 +113,17 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
 - id: c-87095
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
-    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai
     atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
-    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
-    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip  ir atitinkami
+    suartėti su totoriais — mongolais ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip ir atitinkami
     popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
     ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
     vienodos, kad šios tautos turėjusios bendrą priešą71.
-      Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus.
+    Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus.
   citata_rodoma: "), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai\natpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms\nsuartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas\nmusulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip  ir atitinkami\npopiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad\nekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios\nvienodos, kad šios tautos turėjusios bendrą priešą71.\n  Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus."
   statusas: verified
   teiginio_tipas: faktas
@@ -155,20 +131,26 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91383
-    - t-91385
     - t-91384
+    - t-91385
 
 - id: c-171724
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 184"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    24
-    Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
-    kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
-    papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
-    dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
+    Iki
+    šiol to neįvyko, tačiau, pasak pranašavimo, kada nors ateis ta
+    diena, ir pasaulis nugrims tamsoje.
+    Vėliau, mitologijai pakitus, lietuviai vietoj Saulės garbino
+    Svaistiką, arba Santvarą, kaip graikai - Apoloną.
+    Mėnuo (Menuo*)
+    Šis vardas visose lietuvių kalbos tarmėse yra vyriškos gi­
+    minės, todėl su juo buvo siejamas dievas, nors ir antrasis po
+    Saulės. Nakties karalius, laiko tarpsnių valdovas (laikas bu­
+    vo skaičiuojamas mėnesiais), tačiau nepastoviai judantis ir
+    keičiantis pavidalą.
+  citata_rodoma: "24\nBiblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-\nkidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,\npapasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip\ndievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

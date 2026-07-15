@@ -66,65 +66,13 @@ Tai retas vertinamasis posakis; viešame įraše reikėtų jį aiškinti kaip š
   teiginys: "Teodoras Narbutas pyrgonišką nepatiklumą priskiria autoriams, kurie kronikų sakmes vadino pasakomis ir abejojo ankstyvąja Lietuvos istorija."
   pagrindžia:
     - c-175347
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Be to, Rusijos valstybės vakarinėse vokiečių gubernijose
-    steigiasi draugijos, pluša mokslininkai, žadėdami naujų
-    šiaurinių kraštų istorijos vaisių. Taip pat dar daug rei­
-    kia nuveikti tiriant lietuvių tautos istoriją, ypač epochas,
-    esančias arčiau lopšio, visų pirma dėl stygiaus atskleistų
-    paminklų, kurie galėtų padėti tyrėjui. Todėl vieni tiesiog
-    priimdavo kronikininkų geriau išdėstytas išvadas apie
-    tautos ištakas, kiti, priblokšti tų išvadų netailklumo, siūlė
-    vargais negalais suregztas savąsias, o dar kiti su tikrai
-    pyrgonišku nepatiklumu, visas kronikų sakmes pasako­
-    mis pavadinę, sielvartavo dėl galimybių pastūmėti Lie­
-    tuvos istoriją toliau XIII amžiaus1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  santrauka: 'Teodoras Narbutas pyrgonišką nepatiklumą priskiria autoriams, kurie kronikų sakmes vadino pasakomis ir abejojo ankstyvąja Lietuvos istorija.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat dar daug rei­
-    kia nuveikti tiriant lietuvių tautos istoriją, ypač epochas,
-    esančias arčiau lopšio, visų pirma dėl stygiaus atskleistų
-    paminklų, kurie galėtų padėti tyrėjui. Todėl vieni tiesiog
-    priimdavo kronikininkų geriau išdėstytas išvadas apie
-    tautos ištakas, kiti, priblokšti tų išvadų netailklumo, siūlė
-    vargais negalais suregztas savąsias, o dar kiti su tikrai
-    pyrgonišku nepatiklumu, visas kronikų sakmes pasako­
-    mis pavadinę, sielvartavo dėl galimybių pastūmėti Lie­
-    tuvos istoriją toliau XIII amžiaus1. Juk senesnės kroni­
-    kininkų žinios apie lietuvių gentis nepagrįstai laikytos
-    išmone: jie sėmėsi žinių iš dabar pražuvusių kronikų, ku­
-    rių padavimai ir senovės šaltinių liekanos buvo ne tokie
-    seni.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
 - id: c-175029
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 31"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, Rusijos valstybės vakarinėse vokiečių gubernijose
     steigiasi draugijos, pluša mokslininkai, žadėdami naujų
@@ -150,8 +98,7 @@ Tai retas vertinamasis posakis; viešame įraše reikėtų jį aiškinti kaip š
 - id: c-175347
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 31"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat dar daug rei­
     kia nuveikti tiriant lietuvių tautos istoriją, ypač epochas,

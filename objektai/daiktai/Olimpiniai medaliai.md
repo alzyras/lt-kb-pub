@@ -80,43 +80,6 @@ Nenurodyta
   teiginys: "Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius."
   pagrindžia:
     - c-22279
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Paguodė pirmieji laimėjimai – disko
-    metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iško-
-    vojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-
-    šininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-
-    nėse iškovojo bronzos medalius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-002
-  santrauka: '1991 m. rugpjūtį Tarptautinis olimpinis komitetas atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Daug geriausių žaidėjų (krepšininkų, futbolininkų, rankininkų) nuo
-    1988 m. išvažiavo sportuoti į užsienio klubus. Tačiau 1991 m. vasarą
-    Lietuvoje surengtose IV Pasaulio lietuvių sporto žaidynėse dalyvavo apie
-    2 tūkst. lietuvių sportininkų iš viso pasaulio. Tarptautinis olimpinis ko-
-    mitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto
-    tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių
-    šakų sporto varžybose už savo šalį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

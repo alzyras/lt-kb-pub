@@ -40,21 +40,6 @@ Z korespondencji Joachima Lelewela z Michałem Ba­ lińskim. Wilno, 1939 (odbit
   teiginys: "Z korespondencji Joachima Lelewela z Michałem Ba lińskim. Wilno, 1939 (odbitka), s."
   pagrindžia:
     - c-176915
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Z korespondencji Joachima Lelewela z Michałem Ba lińskim. Wilno, 1939 (odbitka), s.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    4 Jasiulianiec K. Z korespondencji Joachima Lelewela z Michałem Ba­
-    lińskim. Wilno, 1939 (odbitka), s. 245.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

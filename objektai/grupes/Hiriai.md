@@ -7,14 +7,14 @@ datos:
   - '1121 m.'
 date_start: '1121'
 date_end: ''
+amziai:
+  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - gentis
   - tauta
   - grupe
-amziai:
-  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,6 +56,20 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
   teiginys: "Pasak Narbuto istorijos supratimo, hiriai į Rytus atėjo iš lietuvių krašto prie Jūros upės dešiniajame Nemuno žemupio krante."
   pagrindžia:
     - c-175698
+
+<a id="claim-t-197505"></a>
+- t-004
+  global_id: t-197505
+  teiginys: "Gotams persikėlus į deši nįjį Dnestro krantą, tai žinoma iš gotų istorijos ir Bizan tijos rašytojų kūrinių, nei gotų, nei dakų ten jau nega lėjo būti; todėl žemė buvo neužimta, ir lietuvių tauta hiriai, ėję įkandin gotų, tikriausiai ten ir apsigyveno maž daug."
+  pagrindžia:
+    - c-175697
+
+<a id="claim-t-197506"></a>
+- t-005
+  global_id: t-197506
+  teiginys: "Dar reikia atkreipti dėmesį į tai, kad, pasak mūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu vių krašto, esančio Nemuno žemupio dešiniojoje pakran tėje, kur jie gyveno prie Jūros upės."
+  pagrindžia:
+    - c-175698
 - susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190889|Johanas Foigtas]]: Narbutas vertina, kad Johanas Foigtas, svarstydamas skirių ir hirių gentis, pateko į keblią padėtį ir darė netaiklias išvadas.
 - susijęs iš [[objektai/asmenys/Jonas Komninas.md#claim-t-191285|Jonas Komninas]]: Pasak Narbuto, Jonui Komninui 1121 m. nugalėjus pečenegus, hiriai išsikėlė į kairįjį Dnepro krantą pas poloviečius.
 - susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191969|Plinijus Vyresnysis]]: Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis.
@@ -77,65 +91,11 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 - susijęs iš Philippi Miitendorfii rankraštis apie 1605 m. rugsėjo 27 d. mūšį: Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuriame nurodyti 85 riteriai iš Angeširų apskrities.
 - susijęs iš Lietuva: Narbutas Nestorą laikė pirmuoju jam žinomu istoriku, paminėjusiu Lietuvą apie 860 metus ar kiek vėliau.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    290
-    Istorijoje esama aiškių įrodymų, kad tarp gotų buvę
-    ir hirių, tų pačių, apie kuriuos jau daug rašėme. Jorda­
-    nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­
-    jimą kaip ir Prokopijus; kai girdime tų pačių istorikų
-    pateiktas žinias apie skirius ir sudargus, apie hirius jau
-    nematome jokių užuominų. Tačiau III amžiaus pabaigoje
-    minimi herulai; tai gentis, laikoma ta pačia, kuri anks­
-    čiau buvo vadinama hiriais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas spėja, kad hiriai, eidami paskui gotus, apie II amžiaus pabaigą apsigyveno dešiniajame Dnestro krante.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Gotams persikėlus į deši­
-    nįjį Dnestro krantą, tai žinoma iš gotų istorijos ir Bizan­
-    tijos rašytojų kūrinių, nei gotų, nei dakų ten jau nega­
-    lėjo būti; todėl žemė buvo neužimta, ir lietuvių tauta hi-
-    riai, ėję įkandin gotų, tikriausiai ten ir apsigyveno maž­
-    daug II krikščioniškosios eros amžiaus pabaigoje. Šią
-    liesą patvirtina ir vėlesnė šio krašto istorija. III amžiaus
-    pabaigoje ar IV amžiaus pradžioje slavų tiveriečių gen­
-    tys dėl kažkokių aplinkybių pokyčių persikėlė nuo Dnest­
-    ro žemupio prie Dnepro ir pasistūmėjo palei šią upę aukš-
-    lyn net iki Rosės žiočių kaip tik tada, kai jau dauguma
-    birių perėjo prie Dunojaus, galbūt norėdami sustiprinti
-    pastipusią skiriu ir sudargų karinę galią. Vėliau toje
-    Ukrainos dalyje apsigyveno tiveriečių ainiai polianai, ku­
-    rie vertėsi žemdirbyste, buvo vaišingi ir troško draugiš­
-    kų santykių su kitais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Pasak Narbuto istorijos supratimo, hiriai į Rytus atėjo iš lietuvių krašto prie Jūros upės dešiniajame Nemuno žemupio krante.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    294
-    Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad
-    birių gyventa pakrantėse ukrainiečių Rosės, kurią pa­
-    gal savo religinius papročius pašventino suteikdami jai
-    šį mitinį vardą. Čia jie gyveno nuo III amžiaus pabaigos
+    Čia jie gyveno nuo III amžiaus pabaigos
     beveik iki XII amžiaus vidurio, kai, graikų imperatoriui
     Jonui Komninui 1121 metais nugalėjus pečenegus, išsi­
     kėlė į kairįjį Dnepro krantą pas poloviečius; taigi ten
@@ -144,7 +104,10 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
     pastovumą. Dar reikia atkreipti dėmesį į tai, kad, pasak
     mūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu­
     vių krašto, esančio Nemuno žemupio dešiniojoje pakran­
-    tėje, kur jie gyveno prie Jūros upės.
+    tėje, kur jie gyveno prie Jūros upės. Sis kraštas savo
+    derlingumu ir kitomis gyventi palankiomis aplinkybėmis
+    primena Parosės Ukrainą; tas, kuris lankėsi šiose abie­
+    jose šalyse, galėjo įžvelgti jų panašumą.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -152,14 +115,14 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+    - t-005
 
 ## Citatos
 
 - id: c-175696
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 295"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 295."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     290
     Istorijoje esama aiškių įrodymų, kad tarp gotų buvę
@@ -180,8 +143,7 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 - id: c-175697
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 297"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 297."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Gotams persikėlus į deši­
     nįjį Dnestro krantą, tai žinoma iš gotų istorijos ir Bizan­
@@ -198,21 +160,21 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
     pastipusią skiriu ir sudargų karinę galią. Vėliau toje
     Ukrainos dalyje apsigyveno tiveriečių ainiai polianai, ku­
     rie vertėsi žemdirbyste, buvo vaišingi ir troško draugiš­
-    kų santykių su kitais.
+    kų santykių su kitais. Jų gyvenamosios vietos plytėjo
+    šiuose kraštuose ir Padneprėje net ligi Kijevo.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192927
+    - t-197505
 
 - id: c-175698
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 298"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    294
     Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad
     birių gyventa pakrantėse ukrainiečių Rosės, kurią pa­
     gal savo religinius papročius pašventino suteikdami jai
@@ -225,13 +187,18 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
     pastovumą. Dar reikia atkreipti dėmesį į tai, kad, pasak
     mūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu­
     vių krašto, esančio Nemuno žemupio dešiniojoje pakran­
-    tėje, kur jie gyveno prie Jūros upės.
+    tėje, kur jie gyveno prie Jūros upės. Sis kraštas savo
+    derlingumu ir kitomis gyventi palankiomis aplinkybėmis
+    primena Parosės Ukrainą; tas, kuris lankėsi šiose abie­
+    jose šalyse, galėjo įžvelgti jų panašumą.
+  citata_rodoma: "Čia jie gyveno nuo III amžiaus pabaigos \nbeveik iki XII amžiaus vidurio, kai, graikų imperatoriui \nJonui Komninui 1121 metais nugalėjus pečenegus, išsi­\nkėlė į kairįjį Dnepro krantą pas poloviečius; taigi ten \njie gyveno aštuonis šimtmečius, ir būtent tai nulėmė lie­\ntuvių genčių suteiktų vietovardžių ir upių pavadinimų \npastovumą. Dar reikia atkreipti dėmesį į tai, kad, pasak \nmūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu­\nvių krašto, esančio Nemuno žemupio dešiniojoje pakran­\ntėje, kur jie gyveno prie Jūros upės. Sis kraštas savo \nderlingumu ir kitomis gyventi palankiomis aplinkybėmis \nprimena Parosės Ukrainą; tas, kuris lankėsi šiose abie­\njose šalyse, galėjo įžvelgti jų panašumą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192928
+    - t-197506
 
 ## Ryšiai
 - Hiriai keliavo į [[objektai/vietos/Dnepras]]

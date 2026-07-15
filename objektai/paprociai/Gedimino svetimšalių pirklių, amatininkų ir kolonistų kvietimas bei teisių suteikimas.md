@@ -61,31 +61,6 @@ Nenurodyta
   teiginys: "Gediminas svetimšaliams žadėjo laisvą ir saugų kelią į Lietuvą be muitų ir mokesčių per Mazovijos kunigaikščio Boleslovo žemę."
   pagrindžia:
     - c-83175
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Gediminas svetimšaliams žadėjo laisvą ir saugų kelią į Lietuvą be muitų ir mokesčių per Mazovijos kunigaikščio Boleslovo žemę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Toms bažnyčioms prašytume dar šiais metais
-    ketverto vienuolių, mokančių lenkų, prūsų ir žemgalių kal­
-    bas; tik darome išimtį visiems dvasininkams, kurie savo
-    vienuolynus verčia plėšikų prieglaudom, žudo Dievo tar­
-    nus ir sielas žaloja. Visiems svetimšaliams yrs atviri pas
-    mus vedantys keliai, be jokių muitų ir mokesčių, per Ma­
-    zovijos kunigaikščio Boleslovo žemę, valia laisvai ir sau­
-    giai vykti. Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų
-    raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­
-    sų laiške Popiežiui uždėjome, tad pirma geležis į vašką, o
-    vanduo į plieną pavirs, nei mes savo žodį sulaužysime ar
-    atšauksime.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

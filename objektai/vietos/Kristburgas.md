@@ -9,6 +9,8 @@ datos:
   - '1324 m.'
 date_start: '1302'
 date_end: '1324'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,8 +18,6 @@ tags:
   - miestas
   - pilis
   - vieta
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -116,26 +116,19 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   pagrindžia:
     - c-86500
 
-<a id="claim-t-90729"></a>
-- t-012
-  global_id: t-90729
-  teiginys: "Kristburgo broliams buvo sunku iš Elbingo atsigabenti būtiniausių dalykų, nes pilį supo priešai."
-  pagrindžia:
-    - c-86504
-
-<a id="claim-t-90725"></a>
-- t-013
-  global_id: t-90725
-  teiginys: "Kristburgo broliai pasivijo vieną iš Lubavos žemę nusiaubusių lietuvių būrių, nukovė 15 lietuvių ir atėmė 50 krikščionių."
-  pagrindžia:
-    - c-167553
-
 <a id="claim-t-194536"></a>
-- t-014
+- t-012
   global_id: t-194536
   teiginys: "Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų."
   pagrindžia:
     - c-86504
+
+<a id="claim-t-197173"></a>
+- t-013
+  global_id: t-197173
+  teiginys: "Sventopelkas su savo kariuomene priėjo Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas į priekį daug karių bei ginklanešių, kurie turėjo ištirti, ar Kristburgo pilis yra apsupta."
+  pagrindžia:
+    - c-179046
 - susijęs iš [[objektai/asmenys/Engelkė.md#claim-t-60273|Engelkė]]: Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178857|Kryžiuočių ordinas]]: Kryžiuočių ordino broliai Pamedėje atstatė Kristburgo pilį naujoje vietoje ir paliko joje daug karių.
 - susijęs iš [[objektai/asmenys/Sirenas.md#claim-t-184125|Sirenas]]: Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.
@@ -260,97 +253,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - susijęs iš [[objektai/asmenys/Andrius (račius).md#claim-t-60236|Andrius (račius)]]: 1324 m. Kristburgo pilyje iš račiaus Andriaus aluje dažytos duonos pradėjo varvėti kraujo lašai.
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78415|Pamedėnai]]: Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie vienos pilies užkariavimą ir apie Kristburgo pilį
-
-       Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
-    yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko
-    rūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius
-    ir maldininkus, patraukė  į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
-    ilsintis,  priartėjo  prie pamedėnų  pilies,  stovėjusios tada  toje  vietoje,  kuri dabar
-    vadinama Senuoju Kristburgu, slapta įsibrovė  į  pilį, pristatęs prie sienų kopėčias,  ir
-    ją užėmė nukovęs ar išsivaręs  į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
-    daug ginklanešių. Kadangi Kristaus gimimo naktį buvo tikinčiųjų užkariauta ta pilis, ji
-    pavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties
-    pranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-    - t-005
-
-- c-002
-  santrauka: 'Ordino broliai pastatė Kristburgo pilį naujoje vietoje, išlaikė jos vardą ir įkurdino joje daug karių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Todėl, sukvietę daugybę maldininkų, kurie, pastoviai raginami į kryžiaus karą,
-    nuolat čia traukė iš įvairių Vokietijos kraštų, broliai pasuko  į Pamedės žemę pasiėmę
-    visa, kas reikalinga pilims statyti. Pakeitę vietą, bet ne vardą, Jėzaus Kristaus garbei ir
-    šlovei jie pastatė Kristburgo pilį toje vietoje, kur ji ir dabar tebėra304, sutvirtinę ją viskuo,
-    kas reikalinga pilims ginti, ir palikę joje daug karių. Šiek tiek vėliau, bėgant dienoms ir
-    mėnesiams, apie pilį pradėjo kurti miestą305, į kurį suplaukė gyventi daugybė tikinčiųjų,
-    pasiryžusių už krikščionių tikėjimą kasdien aukoti be baimės savo gyvybę ir savo turtą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    142 (137). Apie vienos pilaitės užkariavimą
-
-      Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
-    užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
-    įsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į
-    Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
-
-
-
-
-     143 (138).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
-
-       Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
-    didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų. Visa tai plukdydami
-    Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris
-    kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,
-    jei nebūtų spėjęs ateiti su pagalba vienas Pamedės kilmingasis, vardu Samilis426, Tusino
-    tėvas, gyvenęs tarp priešų, bet slaptai gerbęs tikėjimą ir brolius. Šitai sužinoję, prūsai
-    įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
-    tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
-    ten jis, ilgesnį laiką pasirgęs, galop pagijo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-    - t-012
-    - t-014
-
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -370,28 +272,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   pagrindžia:
     - t-001
     - t-008
-
-- c-006
-  santrauka: '1324 m. Kristburgo pilyje račiaus Andriaus vaišėse iš aluje dažytos duonos pradėjo varvėti kraujo lašai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    123. Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje
-
-      1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo
-    pilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami,
-    jog jie laša iš kokios žaizdos, atidžiai apžiūrėjo jam ir burną, ir veidą, ir rankas, bet
-    nerado nė pėdsako žaizdos, todėl visi didžiai dėl to atsitikimo stebėjosi.
-
-
-
-                  124.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -416,44 +296,21 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     - t-007
     - t-004
 
-- c-008
-  santrauka: 'Dusburgietis teigia, kad traukdami atgal, jie pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė iš jų 50 krikščionių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais
-
-       Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į
-    priekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas
-    ten dedasi; kai jis sugrįžęs pasakė, kad niekas ten nieko nežino apie jų žygį, jie apiplėšė
-    daug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių. Traukdami atgal, jie
-    pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė
-    iš jų 50 krikščionių. Kitas netikėlių būrys paspruko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-    - t-006
-
 ## Citatos
 
 - id: c-86498
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie vienos pilies užkariavimą ir apie Kristburgo pilį
-
-       Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
+    Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
     yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko
     rūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius
-    ir maldininkus, patraukė  į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
-    ilsintis,  priartėjo  prie pamedėnų  pilies,  stovėjusios tada  toje  vietoje,  kuri dabar
-    vadinama Senuoju Kristburgu, slapta įsibrovė  į  pilį, pristatęs prie sienų kopėčias,  ir
-    ją užėmė nukovęs ar išsivaręs  į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
+    ir maldininkus, patraukė į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
+    ilsintis, priartėjo prie pamedėnų pilies, stovėjusios tada toje vietoje, kuri dabar
+    vadinama Senuoju Kristburgu, slapta įsibrovė į pilį, pristatęs prie sienų kopėčias, ir
+    ją užėmė nukovęs ar išsivaręs į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
     daug ginklanešių. Kadangi Kristaus gimimo naktį buvo tikinčiųjų užkariauta ta pilis, ji
     pavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties
     pranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse.
@@ -462,17 +319,16 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90728
     - t-90724
+    - t-90728
 
 - id: c-86499
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 100"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 100."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Todėl, sukvietę daugybę maldininkų, kurie, pastoviai raginami į kryžiaus karą,
-    nuolat čia traukė iš įvairių Vokietijos kraštų, broliai pasuko  į Pamedės žemę pasiėmę
+    nuolat čia traukė iš įvairių Vokietijos kraštų, broliai pasuko į Pamedės žemę pasiėmę
     visa, kas reikalinga pilims statyti. Pakeitę vietą, bet ne vardą, Jėzaus Kristaus garbei ir
     šlovei jie pastatė Kristburgo pilį toje vietoje, kur ji ir dabar tebėra304, sutvirtinę ją viskuo,
     kas reikalinga pilims ginti, ir palikę joje daug karių. Šiek tiek vėliau, bėgant dienoms ir
@@ -488,20 +344,14 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - id: c-86500
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     142 (137). Apie vienos pilaitės užkariavimą
-
-      Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
+    Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
     užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
-    įsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į
+    įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
-
-
-
-
-     143 (138).
+    143 (138).
   citata_rodoma: "Apie vienos pilaitės užkariavimą\n\n  Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai\nužpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją\nįsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į\nKristburgo pilį, iš pagrindų sugriovė šią pilaitę417.\n\n\n\n\n 143 (138)."
   statusas: verified
   teiginio_tipas: faktas
@@ -513,12 +363,10 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - id: c-86504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 138"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
-
-       Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
+    Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
     didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų. Visa tai plukdydami
     Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris
     kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,
@@ -533,23 +381,25 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90729
-    - t-184167
     - t-194536
 
 - id: c-86505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie daugybės pomeranų bei prūsų žūtį
-
-      Pastačius Kristburgo pilį, sunerimo neišmintingi žmonės, naujakrikščiai ir Sventopelkas,
-    ir susibaudę nutarė ją sunaikinti bei nušluoti, pabandžius pulti vienokiomis ar kitokiomis
-    priemonėmis. Galop jie susitarė visi drauge apsupti Kristburgo pilį ir tol nesitraukti, kol
-    ji nebus sulyginta su žeme. Todėl susibūrę prūsai pasiuntė didelę kariuomenę ir daugybę
-    ginklanešių, turėjusių saugoti vežimus bei ketverinius kinkinius, gabenančius maistą ir
-    ginklus.
+    Vis dėlto jos vadas su keliais [kariais] vargais negalais išsigelbėjo,
+    pasprukdamas laivu. Šitaip sutriuškintas Sventopelkas, praradęs visą karinę galią,
+    bematant aprimo.
+    66(65). Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
+    Kai prakeiktasis Sventopelkas pasipriešino broliams ir paskatino Prūsijos žemės
+    naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,
+    nei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.
+    Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos
+    brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
+    išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
+    negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306.
+  citata_rodoma: "Apie daugybės pomeranų bei prūsų žūtį\n\n  Pastačius Kristburgo pilį, sunerimo neišmintingi žmonės, naujakrikščiai ir Sventopelkas,\nir susibaudę nutarė ją sunaikinti bei nušluoti, pabandžius pulti vienokiomis ar kitokiomis\npriemonėmis. Galop jie susitarė visi drauge apsupti Kristburgo pilį ir tol nesitraukti, kol\nji nebus sulyginta su žeme. Todėl susibūrę prūsai pasiuntė didelę kariuomenę ir daugybę\nginklanešių, turėjusių saugoti vežimus bei ketverinius kinkinius, gabenančius maistą ir\nginklus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -561,8 +411,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - id: c-86506
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 250"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 250."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     123. Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje
 
@@ -585,38 +434,37 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - id: c-86508
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 195"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    281 (274). Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais
-
-       Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,
-    persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo
-    pilies apylinkėse buvo pagrobę dešimt žmonių ir tiek pat arklių; kai juos dykrose užpuolė,
-    pirmajame susirėmime vienas lietuvis ietimi  jį taip sužeidė, kad išleido jam vidurius,
-    tačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir
-    pasimirė. Kai  jį mirusį ginklanešiai gabeno  į Kristburgo pilį, moterys, kurias jis buvo
-    išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore
-    virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip
-    skridę.
+    Kai brolis
+    Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.
+    Kai sugrįžo išbalęs ir priblokštas į savo pilį, papasakojo visa, ką matęs, savo žmonai,
+    kilmingai, jaunai ir švelniai moteriai, kuri, jo paprašyta skyrybų, ryžtingai atsisakė. Kai
+    jis kurį metą nelyginant dvejojo, ar pajėgs tesėti savo įžadus, velnias, žmonių giminės
+    priešas, kuriam tūkstančiai kelių kenkti žmogui, norėdamas jį sulaikyti nuo šių šventų
+    ketinimų, pasirodė jam sapne apsivilkęs karališkais rūbais bei apsuptas gausybės riterių
+    ir pasakė: „Henrikai, turėtumei tokią karalystę ir tokią kariauną, būtumei žymus karys,
+    man tarnautumei, o aš dar daugiau tau duočiau“. Kai jis pagalvojo, kad iš tiesų būtų
+    gera tarnauti tokiam dosniam valdovui, pasirodė jam Jėzus Kristus, penkiomis žaizdomis
+    sužeistas, ir pasakė: „Henrikai, aš dosnesnis už jį“, be to, palietęs kraujuojančią žaizdą
+    šone, pareiškė: „Štai šitokią karalystę tau duosiu, jei man tarnausi, kur kas geresnę nei
+    ta, kurią tau žada šis netikras karalius“.
   citata_rodoma: "Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais\n\n   Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,\npersekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo\npilies apylinkėse buvo pagrobę dešimt žmonių ir tiek pat arklių; kai juos dykrose užpuolė,\npirmajame susirėmime vienas lietuvis ietimi  jį taip sužeidė, kad išleido jam vidurius,\ntačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir\npasimirė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90726
     - t-90723
+    - t-90726
 
 - id: c-167553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 197"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais
-
-       Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į
+    Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į
     priekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas
     ten dedasi; kai jis sugrįžęs pasakė, kad niekas ten nieko nežino apie jų žygį, jie apiplėšė
     daug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių. Traukdami atgal, jie
@@ -627,8 +475,25 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184168
     - t-90725
+
+- id: c-179046
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Todėl susibūrę prūsai pasiuntė didelę kariuomenę ir daugybę
+    ginklanešių, turėjusių saugoti vežimus bei ketverinius kinkinius, gabenančius maistą ir
+    ginklus. Šiuos visus užpuolė broliai ir kovoje išžudė, o vežimus bei ketverinius kinkinius
+    nusivarė į pilį. Sugėdinti prūsai sugrįžo namo. Sventopelkas su savo kariuomene priėjo
+    Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas į priekį daug karių bei ginklanešių,
+    kurie turėjo ištirti, ar Kristburgo pilis yra apsupta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197173
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -68,48 +68,18 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     - c-16540
 
 <a id="claim-t-26668"></a>
-- t-003
+- t-004
   global_id: t-26668
   teiginys: "Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom'o, stadiją."
   pagrindžia:
     - c-73292
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vakarų misionierius, būsima-
-    sis šventasis Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą. Čia
-    apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio
-    brolio rankos. Netimero valdžios paveldimumo principo buvimas rody-
-    tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
+<a id="claim-t-26668"></a>
+- t-003
+  global_id: t-26668
+  teiginys: 'Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom''o, stadiją.'
   pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  santrauka: 'Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom''o, stadiją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Čia
-    apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio
-    brolio rankos. Netimero valdžios paveldimumo principo buvimas rody-
-    tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją. Šis
-    faktas rodytų, kad tuo metu nebuvo ypač didelio atotrūkio tarp Lietuvos
-    ir kitų Vidurio Europos ir Šiaurės Europos šalių (į kurias tuo pačiu metu
-    taip pat buvo organizuojamos krikščioniškos misijos).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+    - c-002
 
 ## Citatos
 

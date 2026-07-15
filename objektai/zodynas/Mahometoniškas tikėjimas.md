@@ -41,26 +41,6 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
   teiginys: "Vytauto privilegijas gavę Lietuvos totoriai išlaikė mahometonišką tikėjimą ir papročius."
   pagrindžia:
     - c-34134
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Atsigabenęs iš žygio daug
-    totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
-    Vytautas įkurdino Trakų kunigaikštijoje. Gavę sau privilegijas iš
-    Vytauto, kuris totorių atmintyje per šimtmečius buvo garbinamas,
-    Lietuvos totoriai išlaikė savo mahometonišką tikėjimą ir papročius,
-    kai tuo tarpu Lenkijoje jie buvo sukrikščioninti ir sulenkinti.
-    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
-    tvirtovę « Tavan’ » (šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

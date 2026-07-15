@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Liubavą apiplėšęs penkiasdešimties lietuvių raitelių būrys buvo apsuptas kryžiuočių ir neteko penkiolikos karių bei didelės grobio dalies.
+Liubavą apiplėšęs penkiasdešimties lietuvių raitelių būrys buvo apsuptas kryžiuočių ir neteko penkiolikos karių bei didelės grobio dalies. Po lietuvių niokojimo kryžiuočių krašte magistras Konradas su didžiule kariuomene užpuolė Žemaitiją ir nusiaubė Karšuvą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,33 +47,13 @@ Nenurodyta
   teiginys: "Liubavą apiplėšęs penkiasdešimties lietuvių raitelių būrys buvo apsuptas kryžiuočių ir neteko penkiolikos karių bei didelės grobio dalies."
   pagrindžia:
     - c-169179
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Liubavą apiplėšęs penkiasdešimties lietuvių raitelių būrys buvo apsuptas kryžiuočių ir neteko penkiolikos karių bei didelės grobio dalies.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vėliau, be tvarkos kelian­
-    180
-
-    ## Puslapis 179
-
-    tis per Narevą, upės sūkuriuose žuvo didelė dalis ka­
-    rių ir grobio. Ne geriau pavyko kitam lietuvių būriui,
-    apiplėšusiam Liubavą. Penkiasdešimt raitelių (nunioko­
-    ję kaimus, jie išžudė daugybę kaimiečių, kuriuos už­
-    klupo beginklius), nejausdami pavojaus, vežėsi namo
-    grobį ir varėsi belaisvius; juos apsupo staiga pasiro­
-    dę kryžiuočiai ir privertė atsiteisti už neapgalvotą nar­
-    sumą ar godumą: neteko penkiolikos karių ir didelės
-    grobio dalies.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196214"></a>
+- t-002
+  global_id: t-196214
+  teiginys: "Po lietuvių niokojimo kryžiuočių krašte magistras Konradas su didžiule kariuomene užpuolė Žemaitiją ir nusiaubė Karšuvą."
   pagrindžia:
-    - t-001
+    - c-169179
 
 ## Citatos
 
@@ -82,23 +62,26 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vėliau, be tvarkos kelian­
-    180
-
-    ## Puslapis 179
-
-    tis per Narevą, upės sūkuriuose žuvo didelė dalis ka­
-    rių ir grobio. Ne geriau pavyko kitam lietuvių būriui,
-    apiplėšusiam Liubavą. Penkiasdešimt raitelių (nunioko­
+    Penkiasdešimt raitelių (nunioko­
     ję kaimus, jie išžudė daugybę kaimiečių, kuriuos už­
     klupo beginklius), nejausdami pavojaus, vežėsi namo
     grobį ir varėsi belaisvius; juos apsupo staiga pasiro­
     dę kryžiuočiai ir privertė atsiteisti už neapgalvotą nar­
     sumą ar godumą: neteko penkiolikos karių ir didelės
-    grobio dalies.
+    grobio dalies. Kai lietuviai niokojo kryžiuočių kraštą,
+    šie irgi neliko ramūs. Magistras Konradas, su didžiule
+    kariuomene užpuolęs Žemai-
+    S a v o ru o žtu k ry žiu o -
+    tiją, nusiaubė Karšuvos že-
+    č ia i sia u b ia L ie tu vą
+    mę. Vis dėlto žmonių ne­
+    daug žuvo, nes gyventojai,
+    palikę namus priešų valiai, patys su visais brangesniais
+    daiktais išsislapstė miškų tankmėse.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185818
+    - t-196214

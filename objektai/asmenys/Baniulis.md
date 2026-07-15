@@ -35,20 +35,6 @@ Baniulio, ltn.
   teiginys: "Pulko vadas pasigedo leitenanto Baniulio ir kitų 1-ojo bataliono karininkų."
   pagrindžia:
     - c-41297
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pulko vadas pasigedo 1 bataliono karininkų: ltn. Baniulio,
-    ltn. Raibikio, ltn. Čižausko, ltn. Mickaičio ir kitų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

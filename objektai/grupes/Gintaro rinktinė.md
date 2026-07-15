@@ -41,27 +41,6 @@ Stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio b�
   teiginys: "Plauginių kautynių stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio būrių partizanų."
   pagrindžia:
     - c-40757
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Plauginių kautynių stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio būrių partizanų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    X PLAUGINIŲ KAUTYNĖS
-
-    1948 m. gruodžio 3 d. Raseinių aps. Bedančių (Gedlaukio) miške MGB
-    vidaus kariuomenės 273-iojo, 32-ojo ir 298-ojo šaulių pulkų 350 karių
-    ryte, apie 9—10 val., apsupo partizanų stovyklą. Stovykloje buvo 20 Gin-
-    taro rinktinės Alfonso Pakarklio ir Antano Antanaičio būrių partizanų,
-    kuriuos instruktavo Gintaro rinktinės štabo viršininkas. Mūšio metu
-    žuvo 18 partizanų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

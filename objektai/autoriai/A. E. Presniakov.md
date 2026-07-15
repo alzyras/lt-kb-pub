@@ -44,23 +44,6 @@ Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos savo paskai
   teiginys: "A. E. Presniakov 1908-1910 m. Peterburgo universiteto paskaitose lietė Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos."
   pagrindžia:
     - c-32868
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    LMZ. Nemažai studijų
-    Lappo išleido ir lietuvių kalba^144. Lietuvos istorijos klausimus
-    nuo XIII a. vidurio iki Liublino unijos savo paskaitose Peter­
-    burgo universitete 1908-1910 m. lietė ir A. E. Presniako­
-    vas 145.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -54,24 +54,6 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą.md#claim-t-113469|Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]: 1323–1324 m. Gedimino krikšto akcija žlugo dėl žemaičių ir stačiatikių dvariškių pasipriešinimo, bet Gediminas toliau kvietė vokiečių kolonistus.
 - susijęs iš Gedimino laiškai: Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu.
 - susijęs iš [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą.md#claim-t-113464|Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]: Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iš jų matyti labai platus (turint galvoje tarptautinę Lietuvos
-    izoliaciją) Gedimino politinis akiratis. Gediminas kūrė stačiatikių metro-
-    poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
-    politika jis sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais
-    kėlė bažnytinės unijos idėją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22927

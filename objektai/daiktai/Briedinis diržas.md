@@ -55,20 +55,9 @@ Nenurodyta
   teiginys: "Briedinis diržas su vario sagčiais buvo senovės Lietuvos vyro puošmena ir garbės ženklas."
   pagrindžia:
     - c-10241
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    briedinis diržas su vario sagčiais^1460 , pirma goda^1461 ir gašumas senovės Lietuvos vyro, nugis išjuoktas
-        ir lauko žmogui paliktas, o meškena, taurena ar briedena neb kyriejum^1462 bebuvo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Pastabos
 

@@ -6,7 +6,7 @@ tema_kategorija: "daiktai"
 tema_kategorijos_pavadinimas: "Daiktai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 106
+tema_objektu_skaicius: 101
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 106.
+Objektų skaičius: 101.
 
 ## Kaip naudoti
 
@@ -48,15 +48,13 @@ Objektų skaičius: 106.
 - [[objektai/daiktai/Katinas kaip stabmeldiškosios laisvės ženklas]]
 - [[objektai/daiktai/Kauno miesto dievo-globėjo (Penatis) stabas]]
 - [[objektai/daiktai/Kentauras]]
-- [[objektai/daiktai/Kentauro herbas]]
 - [[objektai/daiktai/Kidulių Dangaus karalienės bareljefas]]
 - [[objektai/daiktai/Krivūlė]]
-- [Kryžiuočių kariuomenės dalių vėliavos](../objektai/daiktai/Kry%C5%BEiuo%C4%8Di%C5%B3%20kariuomen%C4%97s%20dali%C5%B3%20v%C4%97liavos)
+- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [Kryžiuočių kariuomenės vėliavos](../objektai/daiktai/Kry%C5%BEiuo%C4%8Di%C5%B3%20kariuomen%C4%97s%20v%C4%97liavos)
 - [Kryžius](../objektai/daiktai/Kry%C5%BEius)
 - [Kryžius ant kardo galo](../objektai/daiktai/Kry%C5%BEius%20ant%20kardo%20galo)
 - [Kryžių kalno kryžiai](../objektai/daiktai/Kry%C5%BEi%C5%B3%20kalno%20kry%C5%BEiai)
-- [Kukovaičio atminimo stabas](../objektai/daiktai/Kukovai%C4%8Dio%20atminimo%20stabas)
 - [Kukovaičio stabas](../objektai/daiktai/Kukovai%C4%8Dio%20stabas)
 - [Kukovaičio stabas prie Deltuvos](../objektai/daiktai/Kukovai%C4%8Dio%20stabas%20prie%20Deltuvos)
 - [Lenino kampeliai ir sienlaikraščiai](../objektai/daiktai/Lenino%20kampeliai%20ir%20sienlaikra%C5%A1%C4%8Diai)
@@ -78,7 +76,6 @@ Objektų skaičius: 106.
 - [Medinis nukryžiuotasis](../objektai/daiktai/Medinis%20nukry%C5%BEiuotasis)
 - [Olimpiniai medaliai](../objektai/daiktai/Olimpiniai%20medaliai)
 - [Ordino magistro valdžios žymenys](../objektai/daiktai/Ordino%20magistro%20vald%C5%BEios%20%C5%BEymenys)
-- [Pajautos stabas](../objektai/daiktai/Pajautos%20stabas)
 - [Panevėžio bataliono vėliava](../objektai/daiktai/Panev%C4%97%C5%BEio%20bataliono%20v%C4%97liava)
 - [Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis](../objektai/daiktai/Partizaninio%20pasiprie%C5%A1inimo%20prad%C5%BEios%20Lietuvos%20laisv%C4%97s%20kovotoj%C5%B3%20rai%C5%A1tis)
 - [Patelo peteliškės sparnų ženklas](../objektai/daiktai/Patelo%20peteli%C5%A1k%C4%97s%20sparn%C5%B3%20%C5%BEenklas)
@@ -102,12 +99,10 @@ Objektų skaičius: 106.
 - [Saitininkų amuletai](../objektai/daiktai/Saitinink%C5%B3%20amuletai)
 - [Santvaro stabas iš Prilvico](../objektai/daiktai/Santvaro%20stabas%20i%C5%A1%20Prilvico)
 - [Sausio 13-osios dienos brolijos ženklelis](../objektai/daiktai/Sausio%2013-osios%20dienos%20brolijos%20%C5%BEenklelis)
-- [Seligos herbas](../objektai/daiktai/Seligos%20herbas)
 - [Senovės prūsų vėliava](../objektai/daiktai/Senov%C4%97s%20pr%C5%ABs%C5%B3%20v%C4%97liava)
 - [Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais](../objektai/daiktai/Senov%C4%97s%20pr%C5%ABs%C5%B3%20v%C4%97liava%20su%20Perk%C5%ABno%2C%20Patelo%20ir%20Atrimpo%20atvaizdais)
 - [Sibilės plytos su hieroglifais](../objektai/daiktai/Sibil%C4%97s%20plytos%20su%20hieroglifais)
 - [Slenksčio religinis ženklas ir kryžius](../objektai/daiktai/Slenks%C4%8Dio%20religinis%20%C5%BEenklas%20ir%20kry%C5%BEius)
-- [Stulpai](../objektai/daiktai/Stulpai)
 - [Sutikimo vartai](../objektai/daiktai/Sutikimo%20vartai)
 - [Sąjūdžio ženklas su Gedimino stulpais](../objektai/daiktai/S%C4%85j%C5%ABd%C5%BEio%20%C5%BEenklas%20su%20Gedimino%20stulpais)
 - [Tautinės vėliavos](../objektai/daiktai/Tautin%C4%97s%20v%C4%97liavos)

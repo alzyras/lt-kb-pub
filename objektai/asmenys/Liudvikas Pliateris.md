@@ -35,29 +35,6 @@ Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės ka
   teiginys: "Po nesėkmingo Liudviko Pliaterio antpuolio prieš į Daugpilį vykusią Rusijos karinę gurguolę sukilėliai atsisakė Daugpilio tvirtovės puolimo."
   pagrindžia:
     - c-44437
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po nesėkmingo Liudviko Pliaterio antpuolio prieš į Daugpilį vykusią Rusijos karinę gurguolę sukilėliai atsisakė Daugpilio tvirtovės puolimo.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Netrukus nenumatyti įvykiai pri-
-    vertė koreguoti planus. Po nepavykusio
-    grafo Liudviko Pliaterio antpuolio prieš
-    Rusijos kariuomenės karinio transporto
-    gurguolę, vykstančią į Daugpilį, teko at-
-    sisakyti šios tvirtovės puolimo, nes rusų
-    karinė vadovybė perprato sukilėlių planus.
-    Sukilėlių apmokymai ir reorgani-
-    zacija Teresboro karinėje stovykloje
-    užtruko 10 dienų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

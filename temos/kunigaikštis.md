@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 584
+tema_objektu_skaicius: 603
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 584.
+Objektų skaičius: 603.
 
 ## Kaip naudoti
 
@@ -461,7 +461,6 @@ Objektų skaičius: 584.
 - [Sofija Vytautaitė](../objektai/asmenys/Sofija%20Vytautait%C4%97)
 - [Spitekas iš Melštino](../objektai/asmenys/Spitekas%20i%C5%A1%20Mel%C5%A1tino)
 - [Spytekas iš Melštyno](../objektai/asmenys/Spytekas%20i%C5%A1%20Mel%C5%A1tyno)
-- [Spytka](../objektai/asmenys/Spytka)
 - [Stanislovas Augustas Poniatauskas](../objektai/asmenys/Stanislovas%20Augustas%20Poniatauskas)
 - [Stanislovas Ciołek](../objektai/asmenys/Stanislovas%20Cio%C5%82ek)
 - [Stanislovas Daugirdas (kunigaikštis, XVI a.)](../objektai/asmenys/Stanislovas%20Daugirdas)
@@ -612,3 +611,29 @@ Objektų skaičius: 584.
 - [V. Pašuta](../objektai/autoriai/V.%20Pa%C5%A1uta)
 - [Vasilijus Tatiščevas](../objektai/autoriai/Vasilijus%20Tati%C5%A1%C4%8Devas)
 - [Walsinghamas](../objektai/autoriai/Walsinghamas)
+
+### Grupės
+- [Cistersų ordinas](../objektai/grupes/Cisters%C5%B3%20ordinas)
+- [Lenkijos senatas](../objektai/grupes/Lenkijos%20senatas)
+
+### Vietos
+- [Italija](../objektai/vietos/Italija)
+- [Krokuva](../objektai/vietos/Krokuva)
+- [Kujavija](../objektai/vietos/Kujavija)
+- [Pinskas](../objektai/vietos/Pinskas)
+- [Polockas](../objektai/vietos/Polockas)
+- [Pskovas](../objektai/vietos/Pskovas)
+- [Riazanė](../objektai/vietos/Riazan%C4%97)
+- [Severskas](../objektai/vietos/Severskas)
+- [Smolenskas](../objektai/vietos/Smolenskas)
+- [Černigovas](../objektai/vietos/%C4%8Cernigovas)
+
+### Įvykiai
+- [1265-1268 m. maldininkų atvykimai į Prūsiją](../objektai/ivykiai/1265-1268%20m.%20maldinink%C5%B3%20atvykimai%20%C4%AF%20Pr%C5%ABsij%C4%85)
+- [Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)](../objektai/ivykiai/Broli%C5%B3%20ir%20kry%C5%BEinink%C5%B3%20%C5%BEygis%20%C4%AF%20Pomeranij%C4%85%20bei%20didysis%20m%C5%AB%C5%A1is%20su%20Sventopelku%20%281246%20m.%29)
+- [Laivų kautynės prie Santyro](../objektai/ivykiai/Laiv%C5%B3%20kautyn%C4%97s%20prie%20Santyro)
+- [Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)](../objektai/ivykiai/Meiseno%20markos%20valdovo%20Ditricho%20%C5%BEygis%20%C4%AF%20Notang%C4%85%20%281272%20m.%29)
+- [Sartovicų pilies apgula ir devynių šimtų pomeranų žūtis (1243 m.)](../objektai/ivykiai/Sartovic%C5%B3%20pilies%20apgula%20ir%20devyni%C5%B3%20%C5%A1imt%C5%B3%20pomeran%C5%B3%20%C5%BE%C5%ABtis%20%281243%20m.%29)
+- [Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.)](../objektai/ivykiai/Vokie%C4%8Di%C5%B3%20ordino%20prad%C5%BEios%20datavimas%20nuo%20Akono%20apgulties%20iki%20ilgesnio%20susiformavimo%20proceso%20%281190-1198%20m.%29)
+- [Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)](../objektai/ivykiai/Vytenio%20%C5%BEygis%20%C4%AF%20Bresto%20%C5%BEem%C4%99%20ir%20Meinhardo%20atsitraukimas%20%281291%20m.%29)
+- [Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)](../objektai/ivykiai/%C5%A0ventojo%20kry%C5%BEiaus%20relikvijos%20perdavimas%20Hermanui%20ir%20jos%20i%C5%A1siuntimas%20%C4%AF%20Elbingo%20pil%C4%AF)

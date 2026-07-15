@@ -37,9 +37,9 @@ Vilniaus klasicizmas: parodos katalogas.
 
 ## Teiginiai
 
-<a id="claim-t-45772"></a>
+<a id="claim-t-45770"></a>
 - t-001
-  global_id: t-45772
+  global_id: t-45770
   teiginys: "„Vilniaus klasicizmas“ yra parodos katalogas, siejamas su 1999–2000 m. parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje."
   pagrindžia:
     - c-48460
@@ -50,31 +50,6 @@ Vilniaus klasicizmas: parodos katalogas.
   teiginys: "„Vilniaus klasicizmas“ buvo parodos katalogas, susijęs su 1999–2000 m. parodomis Varšuvoje ir Vilniuje."
   pagrindžia:
     - c-48460
-
-<a id="claim-t-45772"></a>
-- t-003
-  global_id: t-45772
-  teiginys: "„Vilniaus klasicizmas“ yra parodos katalogas, siejamas su 1999–2000 m. parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje."
-  pagrindžia:
-    - c-48460
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius, 2001; Vilniaus klasicizmas: parodos
-    katalogas. Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailės
-    muziejus 2000 m. kovas – rugsėjis. Vilnius, 2000; Vilnius Jono Kazimiero Vilčinskio
-    leidiniuose: paroda 1999 01 01–1999 04 19.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-    - t-001
 
 ## Citatos
 
@@ -92,6 +67,5 @@ Vilniaus klasicizmas: parodos katalogas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45771
-    - t-45772
     - t-45770
+    - t-45771

@@ -35,8 +35,8 @@ Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms,
   teiginys: "Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms, o žemaitiškai - kernu."
   pagrindžia:
     - c-172188
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms, o žemaitiškai - kernu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -62,17 +62,17 @@ Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms,
 - id: c-172188
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 367"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Sis religinis paminklas primena, kaip senovės lietuviai įamži­
-    no apgailėtinai pažeistą vaišingumą.
-    Klajojanti, kenkianti vėlė arba vaiduoklis latviškai vadina­
-    mas Kehms, žemaitiškai -  kernas (Kernas); apie juos visur dau­
-    gybė kalbų, ir pasakoja apie visokius kerus jiems nubaidyti ar
-    nuraminti.
-    Svarbiausias dalykas laidotuvėse buvo raudotojos; many­
-    ta, kad jos nuraminančios vėles.
+    Ten jis buvo pa­
+    stebėtas praėjus daugiau nei pusantro šimto metų po krikščiony­
+    bės įvedimo. 1583 metais jėzuitai į Žemaičius ir į Livoniją pa­
+    siuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiu­
+    lius. Ten jie rado pagonybės likučių ir juos skrupulingai išnaiki­
+    no. Tai buvo senųjų dievų simboliai: nežinomos rūšies gyvūnų
+    kaulai, įvairūs amuletai, sukabinti ant namų sienų ir dvivėrių
+    durų. Tuos likučius misionieriai trypė kojomis, mėtė į ugnį.
+  citata_rodoma: "Sis religinis paminklas primena, kaip senovės lietuviai įamži­\nno apgailėtinai pažeistą vaišingumą.\nKlajojanti, kenkianti vėlė arba vaiduoklis latviškai vadina­\nmas Kehms, žemaitiškai -  kernas (Kernas); apie juos visur dau­\ngybė kalbų, ir pasakoja apie visokius kerus jiems nubaidyti ar\nnuraminti.\nSvarbiausias dalykas laidotuvėse buvo raudotojos; many­\nta, kad jos nuraminančios vėles."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

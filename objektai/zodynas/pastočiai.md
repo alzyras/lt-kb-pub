@@ -59,31 +59,6 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
   pagrindžia:
     - c-46923
 - susijęs iš [[objektai/daiktai/Pastotė.md#claim-t-195344|Pastotė]]: Vestuvinė kraitvežių ir svodbininkų kelionės priemonė.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Didysis kunigaikštis pasižadėjo nesiuntinėti į jų dvarus
-    jokių savo teisėjų ir atleido bajorų valstiečius nuo visų pareigų
-    valstybei. Jau Zigmantas bajorų valstiečius buvo atleidęs
-    (1434 m.) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo
-    pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti
-    didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio
-    mokesčio _(sidabrinės)._ Tačiau bajorų valstiečių būklė dėl to
-    nepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam
-    kunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-
-    rų savininkams — bajorams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-46923
@@ -107,6 +82,6 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72715
     - t-72714
+    - t-72715
     - t-72716

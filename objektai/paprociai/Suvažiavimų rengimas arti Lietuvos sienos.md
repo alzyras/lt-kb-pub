@@ -55,26 +55,6 @@ Nenurodyta
   teiginys: "Lenkai suvažiavimus stengdavosi rengti arti Lietuvos sienos, nes tikėjo, kad reikalai kryps Vytauto norima linkme."
   pagrindžia:
     - c-35815
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lenkai ir savo suvažiavimus stengdavosi daryti arti Lietuvos
-    sienos, nes neabejojo, kad dalykai eis ta kryptimi, kuria Vy­
-    tautas panorės. Mat, jie būdavo įsitikinę, kad tais reikalais,
-    kurie būdavo sprendžiami pagal Vyt. patarimą ir nuomonę, bū­
-    davo galima pasidžiaugti ir iš jų Karūna turėdavo naudos, o
-    kame to patarimo stokodavo, tai jiems retai kas nors pasisek­
-
-    davo^5 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

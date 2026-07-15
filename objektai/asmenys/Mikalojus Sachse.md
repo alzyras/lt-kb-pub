@@ -34,30 +34,6 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
   teiginys: "Švitrigaila laiške prašė garantijų Mikalojui Sachsei, vykstančiam su reikalais į Sileziją."
   pagrindžia:
     - c-83767
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Švitrigaila laiške prašė garantijų Mikalojui Sachsei, vykstančiam su reikalais į Sileziją.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Švit­
-    rigailos dvaro maršalka buvo Mzu-
-    sas, kuriam išduotas didžiojo kuni­
-    gaikščio garantinis raštas iki šiol
-    saugojamas Slaptajame archyve. Ki­
-    tame savo laiške Švitrigaila prašo
-    garantijų Hansui (Janui) Tscheizui ir
-    jo svainiui Mikalojui Sachsei, taip
-    pat savo dvariškiams, su reikalais
-    vykstantiems į Sileziją. Žr. K o t z e-
-    b u e Sivitrigail, p. 58-59 ir 61.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

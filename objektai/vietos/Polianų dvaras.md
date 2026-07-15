@@ -35,30 +35,6 @@ Aplink Polianų dvarą prie Ašmenos buvo rasta daug kartų.
   teiginys: "Aplink Polianų dvarą prie Ašmenos valstiečiai kelis kartus rado lietuviškų rublių, tai yra sidabrinių lazdelių arba liejinukų."
   pagrindžia:
     - c-82205
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Aplink Polianų dvarą prie Ašmenos valstiečiai kelis kartus rado lietuviškų rublių, tai yra sidabrinių lazdelių arba liejinukų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Atrodo, kad ir lietu­
-    viški rubliai, tai yra, sidabrinės laz­
-    delės, arba liejinukai, šioje kalykloje
-    buvo daromi rusiškų pavyzdžiu.
-    Tikrai žinau, kad nesenais laikais to­
-    kių rublių keliskart buvo radę sodie­
-    čiai Ašmenos apskrityje, bet per žy­
-    dus, prie to godžiai besiveržiančius,
-    nebuvo įmanoma išsaugoti, išskyrus
-    keletą. Aplink Polianų dvarą prie
-    Ašmenos buvo rasta daug kartų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

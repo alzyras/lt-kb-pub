@@ -65,16 +65,17 @@ Nenurodyta
   global_id: t-195370
   teiginys: "Kūlimo metu klojime klausytasi juokavimų ir pasakų."
   pagrindžia:
-    - c-177787
     - c-177786
+    - c-177787
 
 <a id="claim-t-195371"></a>
 - t-002
   global_id: t-195371
   teiginys: "Klojimo juokai ir vienas juokingas žodis galėjo išlaikyti gerą nuotaiką keliems rytams."
   pagrindžia:
-    - c-177785
     - c-177784
+    - c-177785
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

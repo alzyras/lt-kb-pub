@@ -35,24 +35,6 @@ Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę s
   teiginys: "Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą."
   pagrindžia:
     - c-176345
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuo tada šio ordino agresija nebegalėjo tikėtis efektyvesnės Va-
-    karų paramos. Krėvos sutarties nulemta sąjunga su Lenkija leido pasiekti
-    pergalę prie Tanenbergo ir Žalgirio. Lietuva, apsikrikštijusi ir nugalėjusi
-    Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo
-    istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

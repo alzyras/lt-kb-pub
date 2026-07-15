@@ -37,48 +37,20 @@ Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams.
     - c-168682
 - susijęs iš Mažoji Rosė (Roska): Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje greta Kučincų kaimo.
 - susijęs iš Mažoji Rosė (Roska): Roska prie Rošovsko kaimo iš dešiniojo kranto įteka į Rosę, kuri drauge su Supo upe sudaro į Dneprą plaukiančių upių baseiną.
-- susijęs iš Višniovecas: Išgarsėjęs daugybe žygių, Dimitras įkūrė Zbaražo ir Višnioveco miestus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pasitenkinęs
-    šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.
-    Išgarsėjęs daugybe žygių, jis
-    Iš jo  v e d a  s a v o  k ilm ę
-    įkūrė Zbaražo ir Višnioveco
-    V iš n io v e c o  k u n igaik-
-    miestus. Nuo tų miestų gavo
-    ščiai
-    vardą Kaributų kilmės Zba-
-    ražskių bei Višnioveckių ku­
-    nigaikščiai, Dimitro palikuonys, kurie ligi mūsų die­
-    nų nei Lenkijoje, nei Lietuvoje niekam nenusileidžia
-    valdovų šlove.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
+- susijęs iš Višniovecas: Dimitras įkūrė Zbaražo ir Višnioveco miestus, nuo kurių vardą gavo jo palikuonys Zbaražskiai ir Višnioveckiai.
 ## Citatos
 
 - id: c-168682
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 341"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 341."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pasitenkinęs
     šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.
     Išgarsėjęs daugybe žygių, jis
-    Iš jo  v e d a  s a v o  k ilm ę
+    Iš jo v e d a s a v o k ilm ę
     įkūrė Zbaražo ir Višnioveco
-    V iš n io v e c o  k u n igaik-
+    V iš n io v e c o k u n igaik-
     miestus. Nuo tų miestų gavo
     ščiai
     vardą Kaributų kilmės Zba-

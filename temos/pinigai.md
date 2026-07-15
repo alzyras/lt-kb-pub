@@ -6,7 +6,7 @@ tema_kategorija: "daiktai"
 tema_kategorijos_pavadinimas: "Daiktai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 13
+tema_objektu_skaicius: 14
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 13.
+Objektų skaičius: 14.
 
 ## Kaip naudoti
 
@@ -39,3 +39,6 @@ Objektų skaičius: 13.
 - [[objektai/daiktai/Vytauto laikų pinigėliai]]
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]
 - [[objektai/daiktai/Šilkinė skara]]
+
+### Posakiai
+- [[objektai/posakiai/svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki apsvaigimo]]

@@ -56,24 +56,6 @@ Nenurodyta
   teiginys: "1935 m. gegužės 21–22 d. JAV lietuvis Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį."
   pagrindžia:
     - c-22924
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Savo laiške
-    prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei
-    ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu. Didvyriams
-    Kaune pastatytas mauzoliejus (naikintas per nacių okupaciją ir baigtas
-    naikinti sovietmečiu). 1935 m. gegužės 21–22 d. kitas JAV lietuvis, Fe-
-    liksas Vaitkus, sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

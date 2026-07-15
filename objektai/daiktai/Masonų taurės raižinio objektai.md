@@ -47,37 +47,9 @@ Nenurodyta
 <a id="claim-t-189730"></a>
 - t-001
   global_id: t-189730
-  teiginys: "Lietuvos istorijos ir etnografijos muziejaus masonų taurės raižinyje pavaizduoti kaukolė, kalavijas, akacijos šakelė, kampainis, skriestuvas, svarstyklės, žiūronas ir žvakė."
+  teiginys: 'Lietuvos istorijos ir etnografijos muziejaus masonų taurės raižinyje pavaizduoti kaukolė, kalavijas, akacijos šakelė, kampainis, skriestuvas, svarstyklės, žiūronas ir žvakė.'
   pagrindžia:
     - c-172613
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos istorijos ir etnografijos muziejaus masonų taurės raižinyje pavaizduoti kaukolė, kalavijas, akacijos šakelė, kampainis, skriestuvas, svarstyklės, žiūronas ir žvakė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuvos istorijos ir etnografijos
-    muziejaus rinkiniuose saugoma taurė -  masonų apeigų atri­
-    butas. Viename taurės šone išraižytas įrašas „Teodor Narbutt“,
-    7
-
-    ## Puslapis 7
-
-    s
-    s
-    kitame -  staltiese užtiestas stalas, ant kurio padėta žmogaus
-    kaukolė, kalavijas, akacijos šakelė, kampainis, skriestuvas, pa­
-    statytos svarstyklės, žiūronas ir deganti žvakė, į kurios šviesą
-    skrenda drugelis. Masonų organizacijose kampainis simboli­
-    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
-    čiausiąjį protą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -106,4 +78,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189730
+    - t-001

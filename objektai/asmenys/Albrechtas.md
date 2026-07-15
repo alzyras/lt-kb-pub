@@ -52,7 +52,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.
 - susijęs iš [[objektai/asmenys/Jonas Albrechtas.md#claim-t-87714|Jonas Albrechtas]]: Jonas Albrechtas buvo sutriuškintas Vengrijoje, o žinia apie tai Vilniuje pasiekė jo tėvą karalių Kazimierą.
 - susijęs iš [[objektai/asmenys/Konradas (Skalvių pilies gynėjas).md#claim-t-60478|Konradas (Skalvių pilies gynėjas)]]: Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.
-- susijęs iš [[objektai/ivykiai/Taikos susitarimas su Prūsijos magistru Albrechtu ir jo paskelbimas Prūsijos kunigaikščiu.md#claim-t-185775|Taikos susitarimas su Prūsijos magistru Albrechtu ir jo paskelbimas Prūsijos kunigaikščiu]]: Albrechtas kunigaikščio teisėmis gavo valdyti Prūsijos kunigaikštystę, likdamas su žeme pavaldus karaliui.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
 - susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-60211|Sudargas]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais.
 - susijęs iš [[objektai/asmenys/Vaclovas (Čekijos karalius).md#claim-t-60454|Vaclovas (Čekijos karalius)]]: 1307 m. mirė Čekijos karalius Vaclovas, o Čekijos sostas atiteko svetimiesiems.
@@ -74,26 +73,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58784|papilys]]: 1306 m. Albrechtas iš Hageno su Ordino pajėgomis įsiveržė į Gardino papilį, išžudė arba paėmė į nelaisvę žmones ir papilį sudegino.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63418|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63420|Albrechtas (Romos karalius)]]: Romos karalius Albrechtas pakėlė savo sūnų į Čekijos sostą, kai po Vaclovo ir jo sūnaus mirties sostas liko be įpėdinių.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilniuje ją pradė-
-    jo liuteronas Abraomas Kulvietis. Tokia įvykių seka rodė ne tik tai, kad Lie-
-    tuva tapo europinės struktūros šalimi, bet ir A. Kulviečio asmenybės mastą.
-    Vilniuje A. Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi
-    60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė
-    į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo
-    1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-21551

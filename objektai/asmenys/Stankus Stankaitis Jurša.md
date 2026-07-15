@@ -34,31 +34,13 @@ Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus a
   teiginys: "Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus antspaudėlis su raidžių skaičiumi ir trikampe spyna."
   pagrindžia:
     - c-173127
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus antspaudėlis su raidžių skaičiumi ir trikampe spyna.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    IV lentelė, 33-iasis piešinys. Apvalus antspaudėlis iš Kazi­
-    miero JogailaiČio laikų, priklausęs Stankui Stankaičiui Juršai
-    (Stank Stankiewicz Jursza). Vaizduoja skaičių iš raidžių, kaip
-    atrodo, biarmiškų; virš jo trikampė spyna.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 406"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 406."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     IV lentelė, 33-iasis piešinys. Apvalus antspaudėlis iš Kazi­
     miero JogailaiČio laikų, priklausęs Stankui Stankaičiui Juršai

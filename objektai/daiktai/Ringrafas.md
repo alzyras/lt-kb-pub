@@ -55,26 +55,6 @@ Nenurodyta
   teiginys: "XVIII a. Lietuvos kariuomenės gvardijos pėstininkų karininkų ringrafas buvo nešiojamas ant krūtinės ir turėjo Vytį."
   pagrindžia:
     - c-44677
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    XVIII a. Lietuvos kariuomenės gvardijos pėstininkų
-    karininkų ringrafas (nedidelis skydelis, nešiojamas
-    ant krūtinės) su Lietuvos herbu - Vyčiu
-
-    Įnirtingo mūšio metu šis batalionas vos
-    išsigelbėjo nuo visiško sunaikinimo, būsi-
-    mas Rusijos karvedys vos išvengė mirties.
-    Gen. mjr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

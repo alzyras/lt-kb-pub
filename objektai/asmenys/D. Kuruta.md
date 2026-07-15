@@ -42,59 +42,6 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
   teiginys: "Generolas leitenantas grafas D. Kuruta laikinai perdavė vadovavimą generolui leitenantui baronui D. Osten-Sakenui."
   pagrindžia:
     - c-44314
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio padariniai
-
-    Mūšiui pasibaigus, gen. ltn. D. Kuruta pri-
-    siminė, kad jis čia vyriausias ir įsakė sukilė-
-    lių persekiojimą nutraukti. Jis būgštavo, kad
-    sukilėliai gali atsitraukę naktį persitvarkyti
-    ir ryte pulti Vilnių nuo Ukmergės pusės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pabūklo vamzdis
-
-    Granata ir parako užtaisas sujungti į vientisą „šovinį“
-
-    ## Puslapis 157
-
-    leitenantas grafas D. Kuruta,
-    bet pastarasis vadovavimą
-    (laikinai) perdavė gabiam
-    generolui leitenantui baro-
-    nui D. Osten-Sakenui.
-    Leibgvardijos lietuviškojo |
-    pėstininkų, Leibgvardijos
-    Podolės kirasyrų, atski-
-    rojo lietuviškojo korpuso
-    Vilniaus pėstininkų, 48-ojo
-    jėgerių pulkuose eiliniai
-    kareiviai, raiteliai, zemes-
-    nio laipsnio karininkai buvo 42
-    daugiausiai kilę iš Lietuvos.
-    Žiaurus likimas juos vertė
-    kautis prieš tautiečius brol-
-    žudiškose kautynėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

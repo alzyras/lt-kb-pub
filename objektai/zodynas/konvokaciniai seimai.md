@@ -42,46 +42,6 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
   teiginys: "Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šaukdavo e1ekcinį seimą, kuriame būdavo sprendžiami visi karaliaus rinkimo formalumai ir surašomos jam pateikiamos sąlygos."
   pagrindžia:
     - c-175902
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Seimų rūšys.** Be ordinarinių seimų, kas dveji metai šaukiamų,
-    ir be ekstraordinarinių seimų, pagal reikalą šaukiamų, dar buvo
-    seimų, vadinamų pagal jų paskirtį. Taip antai, vadinamieji kon-
-    vokaciniai seimai būdavo šaukiami mirus karaliui. Juos šauk-
-    davo Bažnyčios galva, Gniezno arkivyskupas, vadinamas primu,
-    kurs tarpuvaldyje būdavo laikomas valstybės galva — _interrex._
-    Tas seimas turėjo susitarti dėl karaliaus rinkimo datos ir dėl kitų
-    su elekcija susijusių klausimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šaukdavo e1ekcinį seimą, kuriame būdavo sprendžiami visi karaliaus rinkimo formalumai ir surašomos jam pateikiamos sąlygos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po konvokacinio seimo,
-    jo nustatytu laiku, taip pat primas šaukdavo e1ekcinį seimą,
-    kuriame būdavo sprendžiami visi karaliaus rinkimo formalumai ir
-    surašomos jam pateikiamos sąlygos. Pačius karaliaus rinkimus
-    atlikdavo visa susirinkusi bajorija; seimas tik atlikdavo visus for-
-    malumus. Pagaliau tarpuvaldį pabaigdavo karūnacinis sei-
-    mas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvyk-
-    davo karūnacija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

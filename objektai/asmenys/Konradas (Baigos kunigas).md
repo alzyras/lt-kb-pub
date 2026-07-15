@@ -35,8 +35,8 @@ Dusburgietis teigia, kad mirties patale gulėdamas, jis, paklaustas brolio Konra
   teiginys: "Baigos kunigas Konradas mirties patale paklausė Skomanto, kodėl šis gavęs malonę įtikėti Kristumi."
   pagrindžia:
     - c-60990
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Baigos kunigas Konradas mirties patale paklausė Skomanto, kodėl šis gavęs malonę įtikėti Kristumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -62,10 +62,10 @@ Dusburgietis teigia, kad mirties patale gulėdamas, jis, paklaustas brolio Konra
 - id: c-60990
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 173"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 173."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Štai koks  iš aukščiausiojo malonės nuostabus atsivertimas  ir pasikeitimas,  štai
+    Apie Skomanto mirtį
+    Štai koks iš aukščiausiojo malonės nuostabus atsivertimas ir pasikeitimas, štai
     Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo
     gynėju ir garbingu krikščionių tautos vadu. Mirties patale gulėdamas, jis, paklaustas
     brolio Konrado, Baigos kunigo, kodėl susilaukęs iš viešpaties šitokios malonės įtikėti

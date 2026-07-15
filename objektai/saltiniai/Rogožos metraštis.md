@@ -49,54 +49,6 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
   teiginys: "Rogožos metraštyje prie 6871 (1363) m. rašoma, kad rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę."
   pagrindžia:
     - c-11148
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šaltiniuose pabrė-
-    žiama Algirdo netikėto puolimo strategija.
-    Jis kariuomenę „vedė paslapčia“, slėpda-
-    mas savo sumanymą tiek nuo savo karių,
-    tiek nuo pirklių, svetimšalių, tuo metu
-    buvusių Lietuvos valdose, kad gandas apie
-    jo planą nepasklistų. Plačiausiai Lietuvos
-    kariuomenės pirmąjį žygį į Maskvą nu-
-    švietusio Rogožos metraščio autorius
-    pabrėžia Algirdo „mokėjimą kariauti“,
-    „kariavimą gudrumu“, iškeliami jo kari-
-    niai sugebėjimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mėlynųjų Vandenų įvykių pagrindi-
-    niai šaltiniai: žinios xv a. pirmosios pusės
-    rusų Tverės sąvade - Rogožos metraštyje
-    prieš 6871 (1363) m. sakoma, kad rudenį
-    Algirdas „Mėlynuosius Vandenis ir Baltąją
-    pakrantę nukariavo“. Tas pats aprašyta vė-
-    lesniame Maskvos- Tverės kilmės Nikono
-    metraštyje (susijusiame su Algirdo pali-
-    kuonimis Belskiais). Trumpojoje Lietuvos
-    metraščių redakcijoje (xv a. 4-5 de-
-    šimtmečiai) įrašytas „Pasakojimas apie
-    Podolę“ - plačiausiai kalbantis šaltinis
-    šia tema.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

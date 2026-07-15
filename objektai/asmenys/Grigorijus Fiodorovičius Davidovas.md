@@ -35,29 +35,6 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
   teiginys: "Grigorijus Fiodorovičius Davidovas buvo vienas iš bojarinų, vadovavusių Maskvos valdovo Vasilijaus III pasiųstoms pajėgoms."
   pagrindžia:
     - c-44338
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    bojarinų Grigorijaus Fiodorovičiaus
-    Davidovo, Ivano Andrejevičiaus Čelia-
-    dnino ir kitų vaivadų, tokių kaip kuni-
-    gaikščių Ivano Pronskio, Ivano „Tiomkos“
-    Rostovskio, Andriejaus Obolenskio, va-
-    dovaujamos pajėgos, kurias čia tuo tikslu
-    pasiuntė Maskvos valdovas Vasilijus 111,
-    pats likęs Smolenske. Didžiojo kunigaikš-
-    čio dvaro pajėgoms vadovavo Ratajus Ši-
-    riajevas. Vyriausias Maskvos kariuomenės
-    vadas buvo Ivanas Čeliadninas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

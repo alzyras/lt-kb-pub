@@ -35,8 +35,8 @@ Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmi
   teiginys: "Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmis."
   pagrindžia:
     - c-168653
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -86,8 +86,6 @@ Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmi
     čio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos
     7 0 3
 
-    ## Puslapis 702
-
     iždo padarytas išlaidas, Livo-
     S u la rties są ly g o s
     nijos riterių ordinas atiduo­
@@ -100,6 +98,7 @@ Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmi
     užbaigus karą ir sutarus taiką, Livonija turėsianti teisę
     tas žemes išpirkti užmokėjusi Lietuvos pinigais šešis
     šimtus tūkstančių florinų.
+  citata_rodoma: "Seimo darbe dalyvavo ir ordino magistras Ket-\nleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus\nkunigaikščio Mikalojaus Radvilos paraginti, nusprendė,\nkad Livonija sudaranti su Lietuva sąjungą ir pereinanti\nį Žygimanto Augusto, Lietuvos didžiojo kunigaikš­\nčio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos\n7 0 3\n\n## Puslapis 702\n\niždo padarytas išlaidas, Livo-\nS u la rties są ly g o s\nnijos riterių ordinas atiduo­\ndąs\nLietuvai visas\nžemes\nabiejuose Dauguvos krantuose tarp Drujos ir Aizkrau-\nklės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug­\npilio, Sėlpilio pilis su apylinkėmis. Sutelktomis jėgomis\nužbaigus karą ir sutarus taiką, Livonija turėsianti teisę\ntas žemes išpirkti užmokėjusi Lietuvos pinigais šešis\nšimtus tūkstančių florinų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

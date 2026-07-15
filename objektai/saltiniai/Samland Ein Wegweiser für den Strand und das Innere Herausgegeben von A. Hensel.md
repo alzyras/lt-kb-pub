@@ -43,29 +43,13 @@ Dusburgietis teigia, kad samland: Ein Wegweiser für den Strand und das Innere/ 
   teiginys: "A. Henselio parengtas „Samland: Ein Wegweiser für den Strand und das Innere“ buvo išleistas Karaliaučiuje 1911 m."
   pagrindžia:
     - c-61914
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Henselio parengtas „Samland: Ein Wegweiser für den Strand und das Innere“ buvo išleistas Karaliaučiuje 1911 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Samland: Ein Wegweiser für den Strand und das Innere/ Herausgegeben von A.
-    Hensel.—Königsberg, 1911.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61914
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Samland: Ein Wegweiser für den Strand und das Innere/ Herausgegeben von A.
     Hensel.—Königsberg, 1911.

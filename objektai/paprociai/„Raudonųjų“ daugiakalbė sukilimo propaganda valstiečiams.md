@@ -63,45 +63,6 @@ Nenurodyta
   teiginys: "„Raudonieji“ savo propagandoje ne tik lenkų, bet ir lietuvių bei baltarusių kalbomis žadėjo valstiečiams laisvę ir nuosavybės teisę į visą jų dirbamą žemę be jokių išpirkų."
   pagrindžia:
     - c-176255
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pogrindyje susikūrusi Lenkijos laikinoji tauti-
-    nė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią. Vasario 1-ąją
-    atsišaukimais lenkų ir lietuvių kalbomis sukilimo pradžia paskelbta ir
-    buvusios LDK teritorijoje. Baimindamasi Lietuvos „raudonųjų“ radika-
-    lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
-    „baltiesiems“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '„Raudonieji“ savo propagandoje ne tik lenkų, bet ir lietuvių bei baltarusių kalbomis žadėjo valstiečiams laisvę ir nuosavybės teisę į visą jų dirbamą žemę be jokių išpirkų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    108
-    kai kurie jų būsimą valstybę matė kaip trijų ar net keturių „tautų“ fede-
-    raciją (Lenkija, Lietuva, Rusia; arba lenkai, lietuviai, baltarusiai ir ukrai-
-    niečiai). „Raudonieji“ savo propagandoje ne tik lenkų, bet ir lietuvių bei
-    baltarusių kalbomis žadėjo valstiečiams laisvę ir nuosavybės teisę į visą
-    jų dirbamą žemę be jokių išpirkų. Jie tikėjosi, kad, prasidėjus valstiečių
-    reformai, kils neramumai ir Rusijos kaime, ir valdžia neturės galimybių
-    mesti prieš sukilėlius didelių karinių pajėgų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

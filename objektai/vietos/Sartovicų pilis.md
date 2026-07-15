@@ -35,8 +35,8 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
   teiginys: "Broliai atsižadėjo Sartovicų pilies ir ją su visu turtu perdavė Samborui, Sventopelko sūnui."
   pagrindžia:
     - c-59353
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Broliai atsižadėjo Sartovicų pilies ir ją su visu turtu perdavė Samborui, Sventopelko sūnui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,15 +60,16 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 - id: c-59353
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    46(45). Apie Svečės pilies pastatymą ir jos užpuolimą
-
-      Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją
-    su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Kokie keisti, kokie
-    be galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis
-    žemino tikėjimą ir tikinčiuosius!
+    Kadangi
+    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
+    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
+    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
+    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
+    plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
+    plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
+    traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies.
   citata_rodoma: "Apie Svečės pilies pastatymą ir jos užpuolimą\n\n  Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją\nsu visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Kokie keisti, kokie\nbe galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis\nžemino tikėjimą ir tikinčiuosius!"
   statusas: verified
   teiginio_tipas: faktas

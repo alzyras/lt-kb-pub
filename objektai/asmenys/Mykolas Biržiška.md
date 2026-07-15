@@ -42,29 +42,6 @@ Biržiška iš jos pasitraukė.
   teiginys: "Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui."
   pagrindžia:
     - c-26060
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vokietijai ir Austrijai paskelbus siekį atkurti Lenkijos valstybę, lietuvių
-    atstovai ėmė kelti Lietuvos klausimą. Vokiečiams modernizuojant anek-
-    sijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso,
-    1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga-
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    133
-    nizacinis komitetas (Mykolas Biržiška, Petras Klimas, A. Smetona, kun.
-    Juozas Stankevičius ir Jurgis Šaulys) į konferencijos dalyvių sąrašą atrinko
-    iš kiekvienos apskrities po 5–8 aktyviausius įvairių socialinių ir politinių
-    grupių atstovus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

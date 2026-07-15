@@ -47,28 +47,6 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­
-    gerį ir Konstantinopolio ciesorių Manuelį, už kurio sūnaus Jono
-    Paleologo buvo išleidęs savo dukraitę — Maskvos kunigaikš­
-    tytę, bet tas nepakenkė geriems Vytauto santykiams su turkais,
-    apie ką jis pats gyrėsi Zigmantui. Turkų sultonas Muradas II
-    siuntė Vytautui į Smolenską dovanų.
-    Žvilgterėję dabar bendrai į Vytauto Didžiojo veikimą po
-    Melno taikos, matome, kad šituo laiku (1422—1428) veik visa jo
-    energija buvo sunaudojama įsigalėjimui Rytuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38105

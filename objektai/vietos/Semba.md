@@ -47,7 +47,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių marių ir Aistmarių, nuolat tapęs Ordino ir lietuvių karo veiksmų erdve. Dusburgiečio leidime ji apibrėžiama ir teritoriniu požiūriu, ir konkrečių žygių, pilių bei perkeltų gyventojų kontekste.
+Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos). 1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį. Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę.
 
 ## Teiginiai
 
@@ -142,57 +142,63 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   pagrindžia:
     - c-168491
 
-<a id="claim-t-185131"></a>
-- t-014
-  global_id: t-185131
-  teiginys: "Grafo Barbio vedama vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet buvo prūsų sutriuškinta."
-  pagrindžia:
-    - c-168492
-
 <a id="claim-t-185132"></a>
-- t-015
+- t-014
   global_id: t-185132
   teiginys: "Žemaičiai, Mansto ir Sudargo vedami, su penkių tūkstančių vyrų kariuomene smarkiai nusiaubė Sembos žemę."
   pagrindžia:
     - c-168493
 
 <a id="claim-t-192755"></a>
-- t-016
+- t-015
   global_id: t-192755
   teiginys: "Narbutas vaizdavo turtingą Sembą kaip vokiečių godumą skatinusią provinciją, kurios užkariavimo bandymai nepavyko."
   pagrindžia:
     - c-175525
 
 <a id="claim-t-192756"></a>
-- t-017
+- t-016
   global_id: t-192756
   teiginys: "Narbutas rašė, kad gintaro sakų kilmės pėdsakai ypač dažnai randami prūsų Sembos pakrantėje."
   pagrindžia:
     - c-175526
 
 <a id="claim-t-192757"></a>
-- t-018
+- t-017
   global_id: t-192757
   teiginys: "Narbutas, remdamasis Tunmanu, teigė, kad lietuvių protėviai prie Baltijos jūros tuojau užėmė Sembą ir gintaro kasyklas."
   pagrindžia:
     - c-175527
 
 <a id="claim-t-192758"></a>
-- t-019
+- t-018
   global_id: t-192758
   teiginys: "Narbutas rašė, kad Adomas Bremenietis Sembą laikė besiribojančia su rusais arba Rusios kraštu."
   pagrindžia:
     - c-175528
 
 <a id="claim-t-192759"></a>
-- t-020
+- t-019
   global_id: t-192759
   teiginys: "Narbutas pasakojo, kad Jarmerikas, pavergęs slavų kraštą, įsiveržė į Prūsiją, užgrobė Sembą, Kuršą ir rytinius kraštus."
   pagrindžia:
     - c-175529
+
+<a id="claim-t-196740"></a>
+- t-020
+  global_id: t-196740
+  teiginys: "Kojelavičiaus pasakojime Mindaugas, atgavęs Žemaitiją ir Kuršą bei nusiaubęs Sembą, sukėlė Prūsijoje naują karą prieš kryžiuočius."
+  pagrindžia:
+    - c-168491
+
+<a id="claim-t-197926"></a>
+- t-021
+  global_id: t-197926
+  teiginys: "Pavergęs slavų kraštą ir pamanęs, jog įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus plytinčius kraštus, žiauriai liedamas žmonių kraują ir be galo juos engdamas."
+  pagrindžia:
+    - c-175529
 - susijęs iš [[objektai/asmenys/Jarmerikas.md#claim-t-191185|Jarmerikas]]: Narbuto pasakojime Jarmerikas pavergė slavų kraštą, įsiveržė į Prūsiją, užgrobė Sembą ir Kuršą žiauriai engdamas žmones.
 - susijęs iš [[objektai/asmenys/Tunmanas.md#claim-t-191234|Tunmanas]]: Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, užėmė Sembą ir gintaro kasyklas.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178781|Jotvingiai]]: 1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89380|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: Lietuvos kariuomenė vasarą puolė Ordiną Semboje ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89381|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos.
 - susijęs iš [[objektai/ivykiai/Sūduvių ir lietuvių antpuolis prieš Sembą.md#claim-t-62493|Sūduvių ir lietuvių antpuolis prieš Sembą]]: Sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembą, dešimt dienų degindami sodybas bei kitą už pilių buvusį turtą.
@@ -217,19 +223,16 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - susijęs iš [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas.md#claim-t-62188|1289 m. rudens Sembos žemės nusiaubimas]]: 1289 m. rudenį lietuvių karalius su 8000 raitelių įsiveržė į Sembą, sudegino pastatus ir pasėlius, bet išsigabeno palyginti nedaug grobio.
 - susijęs iš [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo.md#claim-t-62247|Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]: Dusburgiečio pasakojime prūsas Dargis po ketvirto balto žirgo bandymo įtikėjo ir tapo uoliu tikėjimo šalininku.
 - susijęs iš [[objektai/ivykiai/Jarmeriko įsiveržimas į Prūsiją, Sembą ir Kuršą.md#claim-t-191063|Jarmeriko įsiveržimas į Prūsiją, Sembą ir Kuršą]]: Narbutas vaizduoja Jarmeriką po slavų krašto pavergimo įsiveržusį į Prūsiją, užgrobusį Sembą ir Kuršą bei žiauriai engusį žmones.
-- susijęs iš [[objektai/ivykiai/Žemaičių žygis į Sembą (1308 m.).md#claim-t-185843|Žemaičių žygis į Sembą (1308 m.)]]: 1308 m. žemaičiai smarkiai nusiaubė Sembos žemę, žygiuodami į Prūsiją su penkių tūkstančių vyrų kariuomene, vadovaujama Mansto ir Sudargo.
 - susijęs iš [[objektai/paprociai/Žirgų plauko spalvos tabu iš pagarbos dievams.md#claim-t-62180|Žirgų plauko spalvos tabu iš pagarbos dievams]]: Žiokos valsčiuje gyvenęs prūsas Dargis nepakentė baltų žirgų, o Sembos fogtas Ditrichas mėgino jį atpratinti nuo šio prietaro.
 - susijęs iš Pabečiai: Pabečiai buvo gyvenvietė šiaurės Semboje, į pietryčius nuo buvusių Naujųjų Kuršių.
 - susijęs iš Rinava: Rinava buvo vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus.
 - susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-90004|Pelužis]]: Lietuvis Pelužis, įžeistas savo viešpaties kunigaikščio, atvyko pas Sembos žemės brolius ir siekė atkeršyti už patirtas skriaudas.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179359|Livonijos ordinas]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65939|Nadruviai]]: Nadruviai, skalviai ir sūduviai įsibrovė į Sembą, ją nusiaubė ir pastatė Vėluvos pilį gynybai nuo brolių ir sembų.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.).md#claim-t-31504|Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]: 1311 m. Vytenis plėšė Sembą, Natangą ir Varmę, bet Woplaukeno lygumose jo kariuomenė buvo sumušta.
 - susijęs iš Nemunas: Teodoras Narbutas Nemuno žemupio pakrantes laikė pirmąja lietuvių tautos buveine šiame krašte.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179257|Lietuviai]]: Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179309|Lietuviai]]: Sūduviai, siekdami atkeršyti už priespaudą, pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175132|Sūduviai-jotvingiai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
-- susijęs iš [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.).md#claim-t-185734|Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]: Surinkęs pulkus stovykloje, Kęstutis padalijo kariuomenę į dvi žygio voras ir nusprendė niokoti Sembą.
 - susijęs iš [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.).md#claim-t-59667|Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
 - susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66805|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
 - susijęs iš Laukstetų pilis (pilis): Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą ties vieta, kur Dusburgiečio laikais stovėjo Laukstetų pilis.
@@ -265,7 +268,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179327|Lietuviai]]: Konradas Kuršių nerijoje pastatydino Noihauzo pilį, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179336|Lietuviai]]: Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183886|Lietuviai]]: Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179359|Livonijos ordinas]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65939|Nadruviai]]: Nadruviai, skalviai ir sūduviai įsibrovė į Sembą, ją nusiaubė ir pastatė Vėluvos pilį gynybai nuo brolių ir sembų.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192446|Prūsai]]: Teodoras Narbutas rašo, kad prūsų Sembos pakrantėje ypač dažnai randama gintaro kilmę aiškinančių medžių liekanų.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175076|Sembai]]: Semba apibūdinta kaip turtingiausia ir tankiausiai gyvenama žemė, galėjusi sutelkti 4000 raitelių ir 40000 karių.
@@ -300,8 +302,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - susijęs iš [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas.md#claim-t-66562|Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]: Kristburgo komtūras Henrikas Stangė žiemą įsiveržė į Sembą, niokojo kraštą iki Girmavos kaimo ir nukovė arba paėmė į nelaisvę daug žmonių.
 - susijęs iš [[objektai/ivykiai/Jarmeriko įsiveržimas į Prūsiją, Sembą ir Kuršą.md#claim-t-191063|Jarmeriko įsiveržimas į Prūsiją, Sembą ir Kuršą]]: Narbutas vaizduoja Jarmeriką po slavų krašto pavergimo įsiveržusį į Prūsiją, užgrobusį Sembą ir Kuršą bei žiauriai engusį žmones.
 - susijęs iš [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.).md#claim-t-31432|Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]: 1323 m. kovą lietuviai iš Žemaičių puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą.
-- susijęs iš [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.).md#claim-t-185734|Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]: Surinkęs pulkus stovykloje, Kęstutis padalijo kariuomenę į dvi žygio voras ir nusprendė niokoti Sembą.
-- susijęs iš [[objektai/ivykiai/Lietuvių žygis į Sembą Prūsijoje.md#claim-t-185814|Lietuvių žygis į Sembą Prūsijoje]]: Į Sembą įsiveržusi aštuonių tūkstančių lietuvių raitija nusiaubė kaimus, išžudė jų gyventojus ir išsivarė grobį.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89380|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: Lietuvos kariuomenė vasarą puolė Ordiną Semboje ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89381|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos.
 - susijęs iš [[objektai/ivykiai/Noihauzo pilies pastatymas Kuršių nerijoje.md#claim-t-62415|Noihauzo pilies pastatymas Kuršių nerijoje (pilis)]]: Magistras Konradas Kuršių nerijoje, Sūriosios jūros pakrantėje, pastatydino Noihauzo pilį, kad lietuviai netikėtai nesiveržtų į Sembą.
@@ -319,7 +319,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - susijęs iš [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.).md#claim-t-89407|Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]: 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje.
 - susijęs iš [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara).md#claim-t-31497|Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.).md#claim-t-31504|Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]: 1311 m. Vytenis plėšė Sembą, Natangą ir Varmę, bet Woplaukeno lygumose jo kariuomenė buvo sumušta.
-- susijęs iš [[objektai/ivykiai/Žemaičių žygis į Sembą (1308 m.).md#claim-t-185843|Žemaičių žygis į Sembą (1308 m.)]]: 1308 m. žemaičiai smarkiai nusiaubė Sembos žemę, žygiuodami į Prūsiją su penkių tūkstančių vyrų kariuomene, vadovaujama Mansto ir Sudargo.
 - susijęs iš [[objektai/paprociai/Žirgų plauko spalvos tabu iš pagarbos dievams.md#claim-t-62180|Žirgų plauko spalvos tabu iš pagarbos dievams]]: Žiokos valsčiuje gyvenęs prūsas Dargis nepakentė baltų žirgų, o Sembos fogtas Ditrichas mėgino jį atpratinti nuo šio prietaro.
 - susijęs iš [[objektai/posakiai/Pakanka, eik kur tinkamas ir pasieksi, ko nori.md#claim-t-59144|Pakanka, eik kur tinkamas ir pasieksi, ko nori]]: Posakis „Pakanka, eik kur tinkamas ir pasieksi, ko nori“ buvo atsakymas karaliui, klaususiam, ar pakanka kariuomenės veikti Semboje.
 - susijęs iš 1257 m. balandžio 14 d. Sembos vyskupo ir vicemagistro valdų dalybų dokumentai: 1257 m. balandžio 14 d. Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose pavartotas terminas „terrula“.
@@ -425,8 +424,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - susijęs iš [[objektai/autoriai/Тоерреn M.md#claim-t-60667|Тоерреn M]]: Sembos pusiasalio pietvakarių kampas (Тоерреn M., Historisch.., p. 21).
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179484|Laivai]]: 1313 m. Vytenis atsiuntė Surminą su 100 laivų prieš kryžiuočius, puolusius Junigėdą.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179485|Laivai]]: 1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178770|Jotvingiai]]: 1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178781|Jotvingiai]]: 1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.
 - susijęs iš [[objektai/grupes/Kimbrai.md#claim-t-192932|Kimbrai]]: Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau įsikūrė prūsai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179226|Lietuviai]]: 1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179323|Lietuviai]]: Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.
@@ -573,7 +570,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - susijęs iš Vėluva: Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
 - susijęs iš Žemaitija: Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.
-- susijęs iš Žemaitija: Grafo Barbio vadovauta vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet buvo prūsų sutriuškinta.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-183835|Papilys suburbium]]: 1324 metų birželio 11 dieną Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-86506|Papilys suburbium]]: Ragainės komtūras Tomas Aldenburgas su 44 broliais ir 400 vyrų iš Sembos bei Natangos švintant sudegino Gedimino pilies papilį.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184611|fogtas]]: Sembos vyskupystės fogtas Pilypas fon Bolandas pasinaudojo Vytenio sušauktu luomų pasitarimu ir nusiaubė pasienio kaimiečius.
@@ -621,450 +617,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - susijęs iš Noihauzas: Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą.
 - susijęs iš Aistmarios: Sembos žemėje, Aistmarių pakrantėje, stovėjo pilis beveik priešais Brandenburgo pilį.
 - susijęs iš [[objektai/asmenys/Kasparas Dankvertas.md#claim-t-191430|Kasparas Dankvertas]]: Hartknochas, Narbuto teigimu, rėmėsi Kasparu Dankvertu tvirtindamas, kad kimbrai gyveno žemėje, kur vėliau įsikūrė prūsai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet (1410.VIII.)
-    Livonijos kariuomenė laivais atvyko Sembon.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-002
-  santrauka: '1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    387); anot jos, Ragainės komtūras Fridri­
-    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
-    jos užimti, o tik sudegino papilį. Trečią kartą šis papilys bu­
-    vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
-    želio Il dieną, švintant, Ragainės komtūras Tomas Alden-
-    burgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos
-    netikėtai užpuolė Gedimino pilies papilį ir plėnimis palei­
-    do8. Iš to, kas Dusburgo sakoma, peršasi išvados: pirma, kad
-    ta Gedimino pilis, kiek galima susivokti, buvo Lietuvos ar
-    Žemaitijos pasienyje, dėl šito ir su Strijkovskiu sutariama;
-    antra, kad galėjo net prie Nemuno stovėti; pagaliau, kad Cast­
-    rum Gedemini jau 1304 metais buvo, o Vilniaus pilis tik 1322
-    metais pastatyta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    12
-
-    ## Puslapis 29
-
-    VILNIAUS
-    MIESTO
-    ISTORIJA
-    I
-    KNYGA
-    LAIKAI IKI KRIKŠČIONYBĖS ĮVEDIMO -
-    NUO MIESTO ĮKŪRIMO IKI PAT KRIKŠTO PRIĖMIMO
-    VILNIUJE 1387 METAIS
-    Lietuvių tautos kilmė —  Normanai —  Senoji gyvenvietė prie
-    Vilnios upės —  Šventaragis —  Vilnius tampa Gedimino miestu ir
-    sostine —  Įsikūrimas, pradinė padėtis ir miesto valdymas —
-    Jaunučio žlugimas —  Algirdas - Pranciškonų nukankinimas —
-    Kryžiuočių puldinėjimai Algirdo laikais —  Jogailos užmačios —
-    Kova su Kęstučiu —  Vilniaus miestiečių įtaka toje kovoje —
-    Kęstučio mirtis —  Vilniaus padėtis Jogailos laikais —  Mūšis su
-    kryžiuočiais prie miesto ir jo sudeginimas —  Nuniokojamos
-    Vilniaus apylinkės —  Išvejami kryžiuočiai—  Jogaila tampa Lenkijos
-    karaliumi —  Išvykimas į Krokuvą.
-    Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta
-    venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos
-    žiočių iki pat Samlandijos (Sembos). Į rytus nuo Dvinos prie
-    jų šliejosi estų, gausios suomių padermės atšakos, gyven­
-    vietės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kovo viduryje „lietuviai iš Žemaitijos
-    užkariavo Klaipėdos miestą“ ir jį sudegino kartu su trimis gre-
-    timomis kryžiuočiams pavaldžiomis pilimis. Rugpjūtį lietuviai
-    niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėn. - Dob-
-    rynės kunigaikštystę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-005
-  santrauka: 'Lietuviai įsiveržė į Sembą ir niokojo priešo teritoriją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prailgus budėti,
-    tikėdami, kad lietuviai bus pasitraukę, jie
-    grįžo į savo kraštą. Tai sužinoję lietuviai
-    persekiojo priešą, įsiveržė į Sembą, niokojo
-    priešo teritoriją. Akivaizdu, kad Lietuvos
-    karinė vadovybė iš savo žvalgybos laiku
-    gaudavo vertingos informacijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-006
-  santrauka: 'Pastačius Baigos pilį, sembai domėjosi brolių gyvenimu ir nusiuntė į Baigą vieną savo vyresniųjų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    70 (69). Apie karo su sembais rezultatų atspėjimą
-
-      Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau
-    jį ištirti, nusiuntė  į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,
-    maloniai  jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.
-    Šis, gerai susipažinęs su brolių gyvenimu, sugrįžo pas sembus ir pasakė: „Žinokite, kad
-    broliai tokie pat žmonės kaip ir mes: jie turi didelius ir minkštus pilvus, o tokius ir mes
-    turime, panašūs jų ginklai, panašus maistas ir šiaip daug kuo jie  į mus labai panašūs,
-    bet štai kuo nuo mūsų skiriasi: jie įpratę prie vieno dalyko, kuris tikriausiai mums atneš
-    pragaištį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-007
-  santrauka: '1254 m. į Sembos pavergimo žygį vyko Čekijos karalius Otokaras, Otonas ir kiti didikai bei dvasininkai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie sembų pavergimą
-
-      Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko
-    sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos
-    karalių318, tikrai pamaldų vyrą  ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,
-    kuris šiame maldininkų žygyje buvo  jo maršalas, Austrijos  kunigaikštį, Moravijos
-    markgrafą319, Kulmo vyskupą Henriką, Varmės vyskupą Anzelmą, Olomouco320 vyskupą
-    su galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,
-    Austrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu
-    atkeršyti už nukryžiuotojo viešpaties kančias.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-008
-  santrauka: 'Sūduviai, pasitelkę lietuvius, užpuolė Sembos žemę ir dešimt dienų degino sodybas bei kitką už pilių ir įtvirtinimų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Sembos žemės nusiaubimą
-
-      Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami
-    mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu
-    įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už šitokią priespaudą, tačiau patys
-    vieni nieko nestengdami, pasitelkė į pagalbą lietuvius ir smarkiai užpuolė Sembos žemę497.
-    Broliai iš anksto buvo pasirengę tam antpuoliui. Dėl to šie nieko kita čia negalėjo daryti,
-    tik dešimt dienų žygiuoti nuo vienos šios žemės ribos iki kitos ir deginti sodybas bei visa
-    kita, kas buvo už pilių ir įtvirtinimų [sienų]; jie sugrįžo namo, netekę tik 5 savo karių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-009
-  santrauka: 'Magistras Konradas liepė Liudviko iš Libencelės atvestiems sūduviams žygiuoti link Sembos žemės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
-                               mą
-
-      Tuo metu  tas  pats  brolis Konradas,  magistras, rūpindamasis jam  patikėtomis
-    pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią
-    tikėjimo priešus sūduvius. Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;
-    kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su
-    savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų
-    lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė  į Kristaus tikėjimą. Juos išvydęs,
-    magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-010
-  santrauka: 'Kimenavos pilėnams buvo paskirtas vedlys ir įsakyta nedelsiant keliauti į Sembos žemę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sitai padaręs,
-    magistras kitą dieną su savo kariuomene įsibrovė  į Sūduvos valsčių, vardu Kimenava,
-    ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog
-    jiems bus leista netrukdomiems iš čia išeiti su visa manta, pasižadėjus priimti Kristaus
-    tikėjimą. Tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti  į Sembos žemę. Kai kitą
-    dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal,  jie
-    sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-011
-  santrauka: 'Lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembą ir sudegino pastatus bei pasėlius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    237 (230). Apie Sembos žemės nusiaubimą
-
-      Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė  į
-    Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,
-    o grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė
-    į žygį. Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė
-    atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana
-    daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-012
-  santrauka: 'Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu į šiaurę nuo Karaliaučiaus.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Drauge buvo ir Algirdas su savo būriais. Nuterioję
-    Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­
-    kaimiu (3 mylios į šiaurę nuo Karaliaučiaus). Čia juos pasitiko
-    kryžiuočių kariuomenė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-013
-  santrauka: 'Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    105
-
-    ## Puslapis 104
-
-    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
-    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
-    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
-    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
-    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
-    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
-    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
-    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
-    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-014
-  santrauka: 'Grafo Barbio vedama vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet buvo prūsų sutriuškinta.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    ## Puslapis 106
-
-    Šio vargingo likimo jis du kartus buvo išvengęs, pa­
-    sigailėjus kai kuriems prūsams, su kuriais anksčiau
-    buvo susidraugavęs; kai trečią kartą krito toks pat
-    burtas, jis su panieka atsisakė gyvybės, už kurią tu­
-    rėtų dėkoti gailestingiesiems barbarams. Kita vokie­
-    čių kariuomenė, vedama grafo Barbio, niokojo Sembą
-    ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš­
-    kinta per pačią šventosios Agnetės šventę. Pats va­
-    das, praradęs kariuomenę, pateko į priešų rankas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-015
-  santrauka: 'Žemaičiai, Mansto ir Sudargo vedami, su penkių tūkstančių vyrų kariuomene smarkiai nusiaubė Sembos žemę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Iš rusų šaltinių žinome, kad tais
-    pačiais metais buvo Rusioje užkariautas Polockas, ta­
-    čiau jie nieko nemini, kas buvo pasėjęs šio karo sėklą,
-    nors rašytojai aiškiai sako, jog šis miestas gerokai anks­
-    čiau su visa sritimi buvo prijungtas prie Lietuvos. Že­
-    maičiai, gal norėdami su kry-
-    1308 m e ta i
-    žiuočiais kariauti ne savo
-    Ž em a ičių  ž y g is į Prū-
-    žemėje, o Prūsijoje, gal trok-
-    siją
-    šdami priešą nukamuoti nuo­
-    latiniais grobikiškais antpuo­
-    liais, smarkiai nusiaubė Sembos žemę. Jų kariuome­
-    nę sudarė penki tūkstančiai vyrų, vedamų Mansto ir
-    Sudargo: tikrai jos būtų užtekę net atvirai kovai, lai­
-    ku gavus žinią apie priešo artėjimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
-- c-016
-  santrauka: 'Narbutas vaizdavo turtingą Sembą kaip vokiečių godumą skatinusią provinciją, kurios užkariavimo bandymai nepavyko.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    123
-    Kai 1253 metų pradžioje susiklostė draugiški Pamario
-    kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems
-    saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis
-    užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­
-    tinga Sembos provincija, bet šie atkaklūs bandymai ją
-    užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė
-    toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­
-    sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą,
-    sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­
-    nės kraštais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-
-- c-017
-  santrauka: 'Narbutas rašė, kad gintaro sakų kilmės pėdsakai ypač dažnai randami prūsų Sembos pakrantėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vadinasi, reikia sutikti su senovės autorių nuomone, jog
-    tai — medžių sakai. Syvai, kurie kažkada sunkėsi iš ypa­
-    tingos rūšies palmės, pradingusios senovės pasaulio re­
-    voliucijose arba augusios žuvusioje Fajetono planetoje ir
-    su jos skeveldromis nukritusios žemėn, ypač dažnai ran­
-    dami prūsų Sembos pakrantėje. Ten, jūros pakrantėje,
-    smėlėtose kalvose, kurias dengia lengvas smėlio su gele­
-    žies dalelėmis sluoksnis, o po juo aptinkama juodžemio,
-    susidariusio augalams irstant, randama milžiniškų me­
-    džių, kokių, pasak vieno gamtos tyrinėtojo, dabartinis pa­
-    saulis niekada nėra regėjęs; jų būta dažnai 80 pėdų ilgio,
-    be šerdies, šakų, metinių augalo rievių, prisisunkusių sie­
-    ros rūgšties, bet nesuakmenėjusių; prie jų nei buvo ap­
-    tinkama panašių į migdolus riešutinių vaisių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
-- c-018
-  santrauka: 'Narbutas, remdamasis Tunmanu, teigė, kad lietuvių protėviai prie Baltijos jūros tuojau užėmė Sembą ir gintaro kasyklas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tad Nemuno žemupio pakrantes visų pirma de­
-    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
-    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
-    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
-    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
-    užėmė Sembą ir gintaro kasyklas2. Tačiau visų seniausia
-    jų gyvenvietė turėtų būti prie Nemuno vagos dešinės da­
-    lies, ligi šiol vadinamos Ruse arba slaviškai Rusne,
-    Rusnia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-
-- c-019
-  santrauka: 'Narbutas rašė, kad Adomas Bremenietis Sembą laikė besiribojančia su rusais arba Rusios kraštu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kvedliriburgo kronika mini prieš 1009 metus ru­
-    sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos
-    šiaurėje2. Adomas Bremenietis, minėdamas Prūsijos pro­
-    vincijas, kurias dėl nesuprantamų priežasčių vadina salo­
-    mis, sako, jog Semba ribojasi su rusais, arba Rusios kraš­
-    tu, kurio jis vis dėlto nepriskiria prie Prūsijos provincijų,
-    nes tada tos žemės buvo Žemaitijos sudėtinė dalis3. Ra-
-    devikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos
-    sienas, mini Rusios problemą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-
-- c-020
-  santrauka: 'Narbutas pasakojo, kad Jarmerikas, pavergęs slavų kraštą, įsiveržė į Prūsiją, užgrobė Sembą, Kuršą ir rytinius kraštus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
-    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
-    ką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog
-    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
-    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
-    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
-    galo juos engdamas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-
 ## Citatos
 
 - id: c-32417
@@ -1184,19 +736,20 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167583
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    70 (69). Apie karo su sembais rezultatų atspėjimą
-
-      Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau
-    jį ištirti, nusiuntė  į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,
-    maloniai  jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.
-    Šis, gerai susipažinęs su brolių gyvenimu, sugrįžo pas sembus ir pasakė: „Žinokite, kad
-    broliai tokie pat žmonės kaip ir mes: jie turi didelius ir minkštus pilvus, o tokius ir mes
-    turime, panašūs jų ginklai, panašus maistas ir šiaip daug kuo jie  į mus labai panašūs,
-    bet štai kuo nuo mūsų skiriasi: jie įpratę prie vieno dalyko, kuris tikriausiai mums atneš
-    pragaištį.
+    Apie sembų pavergimą
+    Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko
+    sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos
+    karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,
+    kuris šiame maldininkų žygyje buvo jo maršalas, Austrijos kunigaikštį, Moravijos
+    markgrafą319, Kulmo vyskupą Henriką, Varmės vyskupą Anzelmą, Olomouco320 vyskupą
+    su galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,
+    Austrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu
+    atkeršyti už nukryžiuotojo viešpaties kančias. Tokia didelė buvo ši kariuomenė, kad joje
+    318 Pršemislas Otokaras II, Čekijos karalius (1253—1278), 1254 m. gruodžio
+    pabaigoje dar tebuvo Vroclave.
+  citata_rodoma: "70 (69). Apie karo su sembais rezultatų atspėjimą\n\n  Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau\njį ištirti, nusiuntė  į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,\nmaloniai  jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.\nŠis, gerai susipažinęs su brolių gyvenimu, sugrįžo pas sembus ir pasakė: „Žinokite, kad\nbroliai tokie pat žmonės kaip ir mes: jie turi didelius ir minkštus pilvus, o tokius ir mes\nturime, panašūs jų ginklai, panašus maistas ir šiaip daug kuo jie  į mus labai panašūs,\nbet štai kuo nuo mūsų skiriasi: jie įpratę prie vieno dalyko, kuris tikriausiai mums atneš\npragaištį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1207,19 +760,20 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167584
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 104"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie sembų pavergimą
-
-      Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko
-    sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos
-    karalių318, tikrai pamaldų vyrą  ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,
-    kuris šiame maldininkų žygyje buvo  jo maršalas, Austrijos  kunigaikštį, Moravijos
-    markgrafą319, Kulmo vyskupą Henriką, Varmės vyskupą Anzelmą, Olomouco320 vyskupą
-    su galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,
-    Austrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu
-    atkeršyti už nukryžiuotojo viešpaties kančias.
+    priskaičiuotum daugiau kaip 60 tūkstančių karių; kiek buvo vežimų ir ketverinių ratų,
+    gabenusių ginklus ir maistą, nesu girdėjęs. Žiemą ši kariuomenė atžygiavo į Elbingą,
+    tačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo
+    apvaizdos teikiamo žmonių išganymui, jis mat sukurstė viename malūne susiginčyti
+    du vyrus, vieną — iš Saksonijos, o kitą — iš Austrijos, katras pirmas turįs malti, ir
+    štai ne tik kariai bei paprasti žmonės, bet ir karalius, ir kiti kunigaikščiai jau buvo
+    bepakelią ginklus kovai, tačiau Olomouco vyskupas, dievotas ir taikus vyras, pasirūpino,
+    kad nebūtų dingsties ginčui, ir atstatė pirmykštę sandorą. Susitaikius Čekijos karalius
+    nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
+    vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama
+    Kandeimu, gerai žinojusį visą Sembos karių galią.
+  citata_rodoma: "Apie sembų pavergimą\n\n  Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko\nsembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos\nkaralių318, tikrai pamaldų vyrą  ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,\nkuris šiame maldininkų žygyje buvo  jo maršalas, Austrijos  kunigaikštį, Moravijos\nmarkgrafą319, Kulmo vyskupą Henriką, Varmės vyskupą Anzelmą, Olomouco320 vyskupą\nsu galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,\nAustrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu\natkeršyti už nukryžiuotojo viešpaties kančias."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1230,12 +784,10 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167585
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 164"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Sembos žemės nusiaubimą
-
-      Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami
+    Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami
     mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu
     įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už šitokią priespaudą, tačiau patys
     vieni nieko nestengdami, pasitelkė į pagalbą lietuvius ir smarkiai užpuolė Sembos žemę497.
@@ -1252,18 +804,16 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167586
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
-                               mą
-
-      Tuo metu  tas  pats  brolis Konradas,  magistras, rūpindamasis jam  patikėtomis
+    mą
+    Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis
     pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią
     tikėjimo priešus sūduvius. Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;
     kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su
     savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų
-    lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė  į Kristaus tikėjimą. Juos išvydęs,
+    lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė į Kristaus tikėjimą. Juos išvydęs,
     magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512.
   statusas: verified
   teiginio_tipas: faktas
@@ -1275,15 +825,14 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167587
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sitai padaręs,
-    magistras kitą dieną su savo kariuomene įsibrovė  į Sūduvos valsčių, vardu Kimenava,
+    magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava,
     ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog
     jiems bus leista netrukdomiems iš čia išeiti su visa manta, pasižadėjus priimti Kristaus
-    tikėjimą. Tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti  į Sembos žemę. Kai kitą
-    dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal,  jie
+    tikėjimą. Tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti į Sembos žemę. Kai kitą
+    dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal, jie
     sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
   statusas: verified
   teiginio_tipas: faktas
@@ -1295,17 +844,22 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 178"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    237 (230). Apie Sembos žemės nusiaubimą
-
-      Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė  į
-    Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,
-    o grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė
-    į žygį. Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė
-    atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana
-    daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.
+    Todėl vienas lietuvis, vardu Nodamas, prityręs
+    karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė
+    šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
+    apsirengęs moteriškais rūbais, atsisėdo ant upės kranto. Neilgai trukus, kai komtūras,
+    sutvarkęs visus savo reikalus, plaukė pro šalį, šis niekingas išdavikas graudžiu balsu
+    pradėjo šaukti ir prašyti, kad jį priimtų į laivą, kad jo sielą, Kristaus krauju atpirktą,
+    išvaduotų iš velnio vergovės. Kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė
+    prie kranto, šis staiga nutvėrė laivą, stipriai į jį įsikibo ir, susišaukęs savo bendrus,
+    užpuolė plaukusius laivu ir visus išžudė.
+    240 (233). Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
+    Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
+    dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
+    plėšikiškais išpuoliais Ragainės broliams ramybę.
+  citata_rodoma: "237 (230). Apie Sembos žemės nusiaubimą\n\n  Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė  į\nSembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,\no grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė\nį žygį. Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė\natgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana\ndaug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1334,54 +888,31 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    105
-
-    ## Puslapis 104
-
-    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
-    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
-    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
-    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
-    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
-    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
-    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
-    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
-    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
+    Ka­
+    dangi miestą gynė rinktinių karių įgula, apsuptis
+    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
+    rasta daug be galo narsių karių, kurie tiltu per Prieg­
+    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
+    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
+    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
+    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
+    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
+    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
+    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185130
-
-- id: c-168492
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    ## Puslapis 106
-
-    Šio vargingo likimo jis du kartus buvo išvengęs, pa­
-    sigailėjus kai kuriems prūsams, su kuriais anksčiau
-    buvo susidraugavęs; kai trečią kartą krito toks pat
-    burtas, jis su panieka atsisakė gyvybės, už kurią tu­
-    rėtų dėkoti gailestingiesiems barbarams. Kita vokie­
-    čių kariuomenė, vedama grafo Barbio, niokojo Sembą
-    ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš­
-    kinta per pačią šventosios Agnetės šventę. Pats va­
-    das, praradęs kariuomenę, pateko į priešų rankas.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185131
+    - t-196740
 
 - id: c-168493
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 185"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 185."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Iš rusų šaltinių žinome, kad tais
     pačiais metais buvo Rusioje užkariautas Polockas, ta­
@@ -1391,7 +922,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     maičiai, gal norėdami su kry-
     1308 m e ta i
     žiuočiais kariauti ne savo
-    Ž em a ičių  ž y g is į Prū-
+    Ž em a ičių ž y g is į Prū-
     žemėje, o Prūsijoje, gal trok-
     siją
     šdami priešą nukamuoti nuo­
@@ -1410,8 +941,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-175525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     123
     Kai 1253 metų pradžioje susiklostė draugiški Pamario
@@ -1434,8 +964,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-175526
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vadinasi, reikia sutikti su senovės autorių nuomone, jog
     tai — medžių sakai. Syvai, kurie kažkada sunkėsi iš ypa­
@@ -1461,8 +990,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-175527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 214"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad Nemuno žemupio pakrantes visų pirma de­
     ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
@@ -1483,18 +1011,25 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-175528
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 217."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kvedliriburgo kronika mini prieš 1009 metus ru­
-    sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos
-    šiaurėje2. Adomas Bremenietis, minėdamas Prūsijos pro­
+    Adomas Bremenietis, minėdamas Prūsijos pro­
     vincijas, kurias dėl nesuprantamų priežasčių vadina salo­
     mis, sako, jog Semba ribojasi su rusais, arba Rusios kraš­
     tu, kurio jis vis dėlto nepriskiria prie Prūsijos provincijų,
     nes tada tos žemės buvo Žemaitijos sudėtinė dalis3. Ra-
     devikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos
-    sienas, mini Rusios problemą.
+    sienas, mini Rusios problemą. Jis priskyrė Lenkijai visą
+    Prūsiją net iki Baltijos jūros; kaimynystėje jis randa ru­
+    sus, kuriuos netinkamai vadina rutėnais, t. y. rusinais4.
+    Tie ir vėlesni kronikininkai žinojo šią lietuvių žemę, turė­
+    jusią Rusios vardą, kuris susimaišė su Nemuno aukštupio
+    slaviškumu. Pats Dusburgas (nepaisant jo teksto šiame
+    skyriuje apie Prūsijos sienas), regis, nurodo dvi atskiras
+    jo amžiuje žinomas Rusias: vieną, per kurios vidurį plau­
+    kė Nemunas iki lietuvių žemių, ir antrą, kurią kirto išėjęs
+    iš Lietuvos5.
+  citata_rodoma: "Kvedliriburgo kronika mini prieš 1009 metus ru­\nsus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos\nšiaurėje2. Adomas Bremenietis, minėdamas Prūsijos pro­\nvincijas, kurias dėl nesuprantamų priežasčių vadina salo­\nmis, sako, jog Semba ribojasi su rusais, arba Rusios kraš­\ntu, kurio jis vis dėlto nepriskiria prie Prūsijos provincijų,\nnes tada tos žemės buvo Žemaitijos sudėtinė dalis3. Ra-\ndevikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos\nsienas, mini Rusios problemą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1505,27 +1040,34 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-175529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
-    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
-    ką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog
+    Pavergęs slavų kraštą ir pamanęs, jog
     įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
     į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
     plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
-    galo juos engdamas.
+    galo juos engdamas. Tuomet slavai, pasinaudodami Jar­
+    meriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir
+    plėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas
+    skubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­
+    galėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­
+    viais, jog visiškai įbauginta liaudis vėl nusižemino. Kiek
+    vėliau, kai Jarmerikas sunkiais karais vargino Pabaltijo
+    rusus, juos sėkmingai rėmė pašauktas pagalbon Danijos
+    karalius Halfanask
+  citata_rodoma: "Pavergęs slavų kraštą ir pamanęs, jog \nįtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė \nį Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus \nplytinčius kraštus, žiauriai liedamas žmonių kraują ir be \ngalo juos engdamas. Tuomet slavai, pasinaudodami Jar­\nmeriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir \nplėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas \nskubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­\ngalėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­\nviais, jog visiškai įbauginta liaudis vėl nusižemino."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192759
+    - t-197926
 
 ## Ryšiai
 - Puolė Sembą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jarmerikas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/grupes/Nadruviai]], [[objektai/grupes/Skalviai]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Vytenis (Lietuvos karalius)]], [[objektai/grupes/Žemaičiai]]
 - Užėmė Sembą: [[objektai/asmenys/Jarmerikas]], [[objektai/grupes/Lietuviai]]
-- Buvo žygio kryptis: [[objektai/asmenys/Henrikas Stange]], [[objektai/grupes/Lietuviai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Henrikas Stange]]
 - Gyvenamoji vieta: [[objektai/asmenys/Dargis]]
 - Turėjo priklausinį: [[objektai/vietos/Pabečiai]], [[objektai/vietos/Rinava]], [[objektai/vietos/Romehnen]]
 - Semba priklausė [[objektai/vietos/Žemaitija]]

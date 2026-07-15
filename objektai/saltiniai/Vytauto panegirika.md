@@ -48,26 +48,6 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
   teiginys: "„Vytauto panegirika“ teigia, kad nuo 1411 m. nė vienas totorių valdovas nedrįso pasipriešinti Vytautui."
   pagrindžia:
     - c-167624
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Vytauto panegirika“ teigia, kad nuo 1411 m. nė vienas totorių valdovas nedrįso pasipriešinti Vytautui.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nuolat remdamas juos per 30 me­
-    tų jis sulaukė totorių tarpe sau visiškai paklusnių „saarų“. Dėl
-    vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo
-    1411 met., kada įsiviešpatavo Dželad-Eddinas, nė vienas jų,
-    kaip sako „Vytauto panegirika”^4 ), „niekad nedrįso galingajam
-    gaspadoriui pasipriešinti“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -88,5 +68,5 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184240
     - t-34941
+    - t-184240

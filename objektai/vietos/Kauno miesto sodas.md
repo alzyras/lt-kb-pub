@@ -42,24 +42,6 @@ media_all_json: |-
   teiginys: "1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė."
   pagrindžia:
     - c-26554
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1971 m. viename iš Vilniaus
-    restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
-    net 300 SSRS hipių suvažiavimu. 1972 m. gegužės 14 d. devyniolikme-
-    tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
-    pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
-    lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

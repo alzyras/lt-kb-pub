@@ -53,6 +53,7 @@ Nenurodyta
   teiginys: "Smulkus buitinės paskirties daiktas kerdžiaus dovanų eilėje."
   pagrindžia:
     - c-177707
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

@@ -73,23 +73,6 @@ media_all_json: |-
   teiginys: "1927 m. vasarą ir rudenį A. Smetona keliavo po miestelius su oficialia palyda ir buvo iškilmingai sutinkamas prie puošnių sutikimo vartų."
   pagrindžia:
     - c-23537
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prezidentas A. Smetona visą 1927 m. vasarą ir rudenį, lydimas kari-
-    ninkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš mieste-
-    lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,
-    moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po jų – prie ati-
-    tinkamai išpuoštų vietos žydų vartų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Šaltiniai ir įrodymai
 

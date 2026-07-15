@@ -54,8 +54,8 @@ Nenurodyta
   teiginys: "Vieną sekmadienį aplinkinių Vartenbergo kaimų žmonės linksminosi ir šoko, kai juos netikėtai užpuolė kariuomenė iš Sūduvos."
   pagrindžia:
     - c-63474
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vieną sekmadienį aplinkinių Vartenbergo kaimų žmonės linksminosi ir šoko, kai juos netikėtai užpuolė kariuomenė iš Sūduvos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -82,16 +82,15 @@ Nenurodyta
 - id: c-63474
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 142"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį
     Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,
     pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Vieną
     sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai
-    užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į
+    užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris ir vaikus išsivarė į
     nelaisvę.
-
-      435  Vartenbergo  pilies,  sūduvių  sudegintos  ir  iki  pat  kronikos rašymo metų
+    435 Vartenbergo pilies, sūduvių sudegintos ir iki pat kronikos rašymo metų
     neatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a. 2-oje pusėje
     tebuvo žinomas vienas kryžiuočių centras Vonė (Wonne) Osos aukštupyje (dab.
   citata_rodoma: "Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,\npavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Vieną\nsekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai\nužgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į\nnelaisvę.\n\n  435  Vartenbergo  pilies,  sūduvių  sudegintos  ir  iki  pat  kronikos rašymo metų\nneatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a. 2-oje pusėje\ntebuvo žinomas vienas kryžiuočių centras Vonė (Wonne) Osos aukštupyje (dab."

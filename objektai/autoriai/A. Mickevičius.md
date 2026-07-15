@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'A. Mickevičius'
+pavadinimas: 'Adomas Mickevičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Lenkai Lietuvoje Dr. J. Basanavičius'
@@ -9,6 +9,10 @@ datos:
   - '1897 m.'
 date_start: '1895'
 date_end: '1897'
+variantai:
+  - 'A. Mickevičius'
+aliases:
+  - 'A. Mickevičius'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +35,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# A. Mickevičius
+# Adomas Mickevičius
 
 ## Santrauka
 
@@ -56,7 +60,7 @@ Mickevičiaus, J.
 <a id="claim-t-200876"></a>
 - t-003
   global_id: t-200876
-  teiginys: "Basanavičiaus tekste A. Mickevičius priskirtas naujesniems apie Lietuvą lenkiškai rašiusiems autoriams, kurie vadinami ne lenkais, o lietuviais."
+  teiginys: "Basanavičiaus tekste Ad. Mickevičius priskirtas apie Lietuvą lenkiškai rašiusiems autoriams, vadintiems lietuviais, o ne lenkais."
   pagrindžia:
     - c-184221
 - susijęs iš Adomo Mickevičiaus pirmasis poezijos tomelis (1822 m.): 1822 m. Vilniuje išėjo pirmasis Adomo Mickevičiaus poezijos tomelis, o vėliau jo poezija pagarsėjo visoje Europoje.

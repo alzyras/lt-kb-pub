@@ -25,49 +25,34 @@ media_all_json: |-
 
 ## Santrauka
 
-Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalaviją, kuris bus įsmeigtas jam į sprandą.
-
-## Teiginiai
-
-<a id="claim-t-185480"></a>
-- t-001
-  global_id: t-185480
-  teiginys: "Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalaviją, kuris bus įsmeigtas jam į sprandą."
-  pagrindžia:
-    - c-168841
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalaviją, kuris bus įsmeigtas jam į sprandą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ramiai karalius išklausė
-    tų žodžių. „Gerai,— tarė,— mielai priimu šį kovos ženk­
-    lą. Priešas pats parūpino kalaviją, kurį įsmeigsime jam
-    į sprandą".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Citatos
 
 - id: c-168841
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 377"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 377."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ramiai karalius išklausė
-    tų žodžių. „Gerai,— tarė,— mielai priimu šį kovos ženk­
-    lą. Priešas pats parūpino kalaviją, kurį įsmeigsime jam
-    į sprandą".
+    Karalius, būdamas labai
+    pamaldus, be to, gerai žino­
+    damas, jog karai paprastai
+    kyla dėl žmonių įgeidžių, o
+    pergalės pasiekiamos tiktai
+    aukščiausiojo valia, parpuolęs ant kelių prie šventojo
+    altoriaus, kai buvo aukojama nekruvinoji auka, patikė­
+    jo busimojo mūšio likimą aukščiausiajam. Karaliaus
+    maldą pertraukė Vytautas, pranešdamas, kad priešo ko­
+    vos rikiuotė traukianti prie jų stovyklos, ir paraginda­
+    mas mesti visus kitus darbus, nes atėjusi lemiama va­
+    landa. Kol karalius kuo karščiausiai meldėsi ligi pamal­
+    dų pabaigos, Vytautas, iššokęs iš palapinės, puolė sku­
+    biai su lietuviais į kovos lauką ir su keturiasdešimt vė­
+    liavų užėmė dešinįjį sparną, nenorėdamas, kad kryžiuo­
+    čiai, pastebėję priešininkus delsiant, įgytų pasitikėjimo
+    savo jėgomis.
+  citata_rodoma: "Ramiai karalius išklausė\ntų žodžių. „Gerai,— tarė,— mielai priimu šį kovos ženk­\nlą. Priešas pats parūpino kalaviją, kurį įsmeigsime jam\nį sprandą\"."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185480

@@ -55,8 +55,8 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   teiginys: "Teodoras Narbutas svarstė, kad Šleceris galėjo nesilankyti prie Baltijos, bet rėmėsi gerais senovės šaltiniais apie Šiaurės kraštus."
   pagrindžia:
     - c-173575
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Augustas Liudvigas Šleceris 1776 m. išleido veikalą apie Lietuvą kaip buvusią savarankišką valstybę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -95,46 +95,22 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Teodoras Narbutas svarstė, kad Šleceris galėjo nesilankyti prie Baltijos, bet rėmėsi gerais senovės šaltiniais apie Šiaurės kraštus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip jūros plotas vis didėjo, ir
-    galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra
-    didėjo. Tad tie, kurie pastebėjo fizinių įvykių, lėmusių
-    žemių prie Baltijos jūros dingimą, sakė tikrą tiesą, ir
-    tie, kurie, kaip Melą, teigė, jog Baltijos jūra užgriozta
-    pakrantės salų, kurios vieną sykį panašios į sausumą, o
-    kitą — į archipelagą, sakė taip pat ne mažiau tiesos. Tad
-    kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal­
-    būt nesilankė prie Baltijos, neturėjo tikro supratimo apie
-    Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės
-    šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su­
-    vokė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-167818
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 28"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 28."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vieną knygą jis
-    skyrė Lietuvos, Kuršo ir Livonijos istorijai, o kitą —
-    vien Lietuvai, kaip buvusiai savarankiškai valstybei
-    (A. L. Schlozer. Geschichte von Littauen, als einem
-    eigenen Grossfūrstenthume, bis zum J. 1569. Gottin­
-    gen, 1776), K, Marksas, studijuodamas politinius san­
-    tykius Rytų Europoje, naudojosi šia istorija, paremta
-    A. Kojelavičiaus žiniomis.
+    Už tai jam esąs
+    dėkingas skaitytojas, bet ne kritikas. Faktus reikią
+    skirti nuo rašytojo išmonės, blaivios dokumentų kal­
+    bos negalima puošti autoriaus .vaizduote. Jo rašymo
+    būdas senoviškas, siekiąs bet kokia kaina iš įvykių ir
+    asmenų sudaryti siužetą.
+    A, L. Šleceris atmetė legendinę Lietuvos istorijos
+    dalį, replikuodamas: kol lietuviai neturėję savo vals­
+    tybės, tol jie neturėję ir savo istorijos.
   citata_rodoma: "Vieną knygą jis\nskyrė Lietuvos, Kuršo ir Livonijos istorijai, o kitą —\nvien Lietuvai, kaip buvusiai savarankiškai valstybei\n(A. L. Schlozer. Geschichte von Littauen, als einem\neigenen Grossfūrstenthume, bis zum J. 1569. Gottin­\ngen, 1776),"
   statusas: verified
   teiginio_tipas: faktas
@@ -146,15 +122,17 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
 - id: c-173574
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 342"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 342."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
+    Dritter Band. S.
     84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
     vo žemesnio išsivystymo lygio todėl, kad nežinojo raitos
     medžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­
     limos Siaurės genčių, jau prieš 1000 metų nugalėdavę
     savo užpuolikus kavalerija“.
+    Abejoju, ar raitos medžioklės išmokė juos to meno,
+    nes, gyvenant tarp miškų ir pelkių, sunku joti arkliais į
+  citata_rodoma: "Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.\n84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­\nvo žemesnio išsivystymo lygio todėl, kad nežinojo raitos\nmedžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­\nlimos Siaurės genčių, jau prieš 1000 metų nugalėdavę\nsavo užpuolikus kavalerija“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -165,8 +143,7 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
 - id: c-173575
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 373"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra

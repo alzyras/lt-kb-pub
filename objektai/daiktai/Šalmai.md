@@ -59,34 +59,12 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Skydai.md#claim-t-192505|Skydai]]: Narbuto pasakojime vado įsakymu iš stovyklos išėję visiškai apsiginklavę riteriai turėjo skydus, spindėjusius kaip žvaigždės.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-192367|Bartai]]: Narbuto pasakojime prūsai ir bartai kitą dieną buvo atsiųsti kaip pagalba priešams.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192445|Prūsai]]: Pasak Teodoro Narbuto pasakojimo, kitą dieną priešams į pagalbą buvo atsiųsti prūsai ir bartai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbuto pasakojime vado įsakymu iš stovyklos išėję visiškai apsiginklavę riteriai turėjo šalmus, lygintus su tekančios saulės spinduliais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kitą dieną priešams buvo atsiųsta pagalba —
-    prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
-    stovyklos visiškai apsiginklavus: skydai spindėjo kaip
-    žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
-    ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
-    liai su lankais, paruoštais smūgiui. Pats Danielius, ant
-    žirgo jodamas, tvarkė kariuomenės gretas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175785
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kitą dieną priešams buvo atsiųsta pagalba —
     prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš

@@ -34,22 +34,6 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
   teiginys: "Kryžiuotis Falkenbergas mėgino padėti Vokiečių ordinui, išleisdamas Jogailą šmeižiančią knygą."
   pagrindžia:
     - c-36012
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vienas
-    iš kryžiuočių, Falkenbergas, stengėsi dar Vok. Ordinui padėti,
-    išleisdamas Jogailą šmeižiančią knygą, bet ir ji susirinkimo
-    dalyvių buvo pasmerkta. Taip Konstancijoje Vok.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

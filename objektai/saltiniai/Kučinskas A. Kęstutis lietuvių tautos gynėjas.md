@@ -7,12 +7,12 @@ datos:
   - '1938 m.'
 date_start: '1938'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad kučinskas A.
   teiginys: "A. Kučinsko „Kęstutis lietuvių tautos gynėjas“ išleista Marijampolėje 1938 m."
   pagrindžia:
     - c-61750
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Kučinsko „Kęstutis lietuvių tautos gynėjas“ išleista Marijampolėje 1938 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,11 @@ Dusburgietis teigia, kad kučinskas A.
 - id: c-61750
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 265"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    257—311.
     Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938.
+  citata_rodoma: "Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

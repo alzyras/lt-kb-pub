@@ -40,34 +40,17 @@ Dusburgietis teigia, kad zinkevičius Z.
   teiginys: "Z. Zinkevičiaus straipsnis „Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje)“ publikuotas 1975 m. „Baltistica“ 11 tomo 2 sąsiuvinyje."
   pagrindžia:
     - c-62017
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Z. Zinkevičiaus straipsnis „Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje)“ publikuotas 1975 m. „Baltistica“ 11 tomo 2 sąsiuvinyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje).—Baltistica, 1975,
-    11(2), p. 149—153.
-      Zinkevičius Z. Lietuvių kalbos istorija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-62017
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 274"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje).—Baltistica, 1975,
     11(2), p. 149—153.
-      Zinkevičius Z. Lietuvių kalbos istorija.
+    Zinkevičius Z. Lietuvių kalbos istorija.
   citata_rodoma: "Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje).—Baltistica, 1975,\n11(2), p. 149—153."
   statusas: verified
   teiginio_tipas: faktas

@@ -42,29 +42,8 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
   teiginys: "Narbutas rašo, kad Nepas nuvertė Glicerą ir paskyrė jį Salemos vyskupu, o vėliau Dalmatijoje Nepą nužudė Glicero atsiųsti žmonės."
   pagrindžia:
     - c-174832
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki Romulo Momilijaus Augustulo iškėlimo 475 metais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Imperatoriaus
-    sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
-    darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
-    galbos iš Konstantinopolio. Per šią sumaištį greitai kei­
-    tėsi imperatoriai: Antemijus, Olibrijus, Gliceras, Nepas
-    neilgai valdė; pagaliau Ricimero mirtis davė progą sam­
-    dytai kariuomenei vadovavusiam Orestui į imperatoriaus
-    sostą pasodinti savo dar jauną sūnų Romulą Momilijų
-    Augustulą. Tai įvyko 475 metais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas rašo, kad Nepas nuvertė Glicerą ir paskyrė jį Salemos vyskupu, o vėliau Dalmatijoje Nepą nužudė Glicero atsiųsti žmonės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -90,8 +69,7 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
 - id: c-174153
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 313"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Imperatoriaus
     sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
@@ -112,17 +90,20 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
 - id: c-174832
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 315"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau, nepaisant viso to,
-    Odoakras gavo tai, ko geidė, nors italai nelabai buvo
-    linkę jį remti. Po trejų metų Dalmatijoje šį nominalinį
+    Po trejų metų Dalmatijoje šį nominalinį
     monarchą nužudė atsiųsti Giicero, kurį jis seniau nu­
     vertė nuo sosto ir paskyrė Salemos vyskupu, žmonės. Tuo
     metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
     Italijos vietininku, pavesdami jam visą valdžią ir Dal­
-    matijoje, kurios imperatorius buvo miręs.
+    matijoje, kurios imperatorius buvo miręs. Odoakras ne­
+    trukus perleido šią provinciją visigotų karaliui Evarikui,
+    norėdamas taip pelnyti jo palankumą, o kiek anksčiau
+    jis užmezgė draugiškus santykius su galingu Afrikos
+    vandalų karaliumi Genseriku, iš kurio tam tikromis są­
+    lygomis gavo Siciliją.
+  citata_rodoma: "Tačiau, nepaisant viso to,\nOdoakras gavo tai, ko geidė, nors italai nelabai buvo\nlinkę jį remti. Po trejų metų Dalmatijoje šį nominalinį\nmonarchą nužudė atsiųsti Giicero, kurį jis seniau nu­\nvertė nuo sosto ir paskyrė Salemos vyskupu, žmonės. Tuo\nmetu Rytų rūmai nedviprasmiškai patvirtino Odoakrą\nItalijos vietininku, pavesdami jam visą valdžią ir Dal­\nmatijoje, kurios imperatorius buvo miręs."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

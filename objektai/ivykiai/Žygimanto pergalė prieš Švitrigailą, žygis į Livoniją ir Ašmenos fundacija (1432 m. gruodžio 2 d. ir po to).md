@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos. Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.
+Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos. Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui. Kojelavičius Žygimanto pergalę vaizduoja kaip taikos viltį, kurią esą sužlugdė vėlesnis paties Žygimanto žiaurumas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -60,93 +60,38 @@ Nenurodyta
   teiginys: "Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui."
   pagrindžia:
     - c-168910
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Neilgai trukus, tai yra gruodžio 2 d., Boleslovas
-    pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­
-    dešimties tūkstančių kariuomene, įrengusia prie Ašme­
-    nos stovyklą. Į pagalbą jam
-    Ž y g im a n ta s
-    su m u ša
-    atėjo beveik visa Rusia, ne
-    Š v itrig a ilą
-    tik ta, kuri priklausė Lietuvos
-    didžiajam kunigaikščiui, tai
-    yra Polocko, Smolensko, Mstislavlio, Seversko, Kijevo,
-    Volynės žemės, bet atžygiavo kariuomenė iš Maskvos,
-    Riazanės, Tverės, vedama Jaroslavo, Tverės kunigaikš­
-    čio Boriso brolio. Pagal slaptą susitarimą Livonija at­
-    siuntė į pagalbą kelis būrius vokiečių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196309"></a>
+- t-003
+  global_id: t-196309
+  teiginys: "Kojelavičius Žygimanto pergalę vaizduoja kaip taikos viltį, kurią esą sužlugdė vėlesnis paties Žygimanto žiaurumas."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kai
-    pasklido kalbos, jog Jurgis
-    Lengvenaitis, karaliaus brolė­
-    nas, Mstislavlio valdovas, iš­
-    vytas iš savo valdų ir Tra­
-    kuose įmestas į kalėjimą, jog
-    Daugirdas Gedgaudaitis, kunigaikštis Fiodoras Odin-
-    cevičius ir kiti yra kalinami kur kas sunkesnėmis sąly­
-    gomis, nei leistų jų kilmė bei orumas, o Jonui Man-
-    vydui, Vilniaus vaivadai, Rumbaudui, Lietuvos marša­
-    lui, kaltinamiems maišto kėlimu, nukirto galvas, visi,
-    ir kilmingi, ir nekilmingi, suprato, jog naujojo valdovo
-    širdis kieta ir žiauri, ir dėl to pranašavo, kad, jam val­
-    dant, prasidės tikrai baisi tironija, kurios ir baisėjosi.
-    Žygimantas, nenorėdamas, kad pergalę laimėjusi ka­
-    riuomenė plėšikautų jo valdose, patraukė, leidęs jai
-    po mūšio šiek tiek pailsėti, į
-    Livoniją, nes gavo žinių, kad
-    Livonijos riteriai, laužydami
-    susitarimą, teikė Boleslovui
-    pagalbą. Baisiai nusiaubę visą
-    šalį, ir kariai, kurie džiaugėsi dėl didelio grobio, ir va­
-    das, atkeršijęs už skriaudas, sugrįžo žiemoti į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-178621
 
 ## Citatos
 
 - id: c-168909
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 445"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 445."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Neilgai trukus, tai yra gruodžio 2 d., Boleslovas
-    pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­
-    dešimties tūkstančių kariuomene, įrengusia prie Ašme­
-    nos stovyklą. Į pagalbą jam
-    Ž y g im a n ta s
-    su m u ša
-    atėjo beveik visa Rusia, ne
-    Š v itrig a ilą
-    tik ta, kuri priklausė Lietuvos
-    didžiajam kunigaikščiui, tai
-    yra Polocko, Smolensko, Mstislavlio, Seversko, Kijevo,
-    Volynės žemės, bet atžygiavo kariuomenė iš Maskvos,
-    Riazanės, Tverės, vedama Jaroslavo, Tverės kunigaikš­
-    čio Boriso brolio. Pagal slaptą susitarimą Livonija at­
-    siuntė į pagalbą kelis būrius vokiečių.
+    sius kaimus ieškotis maisto ir pašaro; grįždamas iš
+    tolo išgirdo riksmus bei triukšmą ir suprato, kąd čia
+    verda kova, todėl, paspaudęs pentinais žirgą, kuo grei­
+    čiausiai nušuoliavo prie saviškių įsakęs kariams iš
+    visų jėgų šaukti, kad rodytųsi, jog didelis lenkų pulkas
+    puola rusų užnugarį. Lenkai atgavo drąsą ir ūpą, tuo
+    tarpu rusai, liovęsi ieškoję grobio ir puolę į kovą, ne­
+    surado nei savo vėliavų, nei savo būrių. Kunigaikštis
+    Fiodoras, manydamas, jog lenkams į pagalbą atskuba
+    didelės jėgos, anksčiau už kitus paspruko su rinkti­
+    niais kariais iš kovos lauko į saugesnę vietą, o paskui,
+    vadą be tvarkos pasileido ir visa kariuomenė. Kur kas
+    daugiau jų žuvo bėgant, nei kovojant. Kadangi giedra­
+    me danguje aiškiai švietė mėnulio pilnatis, lenkai,
+    trokšdami galutinės pergalės, dar po pusiaunakčio per­
+    sekiojo sprunkančius rusus.
+  citata_rodoma: "Neilgai trukus, tai yra gruodžio 2 d., Boleslovas\npralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­\ndešimties tūkstančių kariuomene, įrengusia prie Ašme­\nnos stovyklą. Į pagalbą jam\nŽ y g im a n ta s\nsu m u ša\natėjo beveik visa Rusia, ne\nŠ v itrig a ilą\ntik ta, kuri priklausė Lietuvos\ndidžiajam kunigaikščiui, tai\nyra Polocko, Smolensko, Mstislavlio, Seversko, Kijevo,\nVolynės žemės, bet atžygiavo kariuomenė iš Maskvos,\nRiazanės, Tverės, vedama Jaroslavo, Tverės kunigaikš­\nčio Boriso brolio. Pagal slaptą susitarimą Livonija at­\nsiuntė į pagalbą kelis būrius vokiečių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -157,8 +102,7 @@ Nenurodyta
 - id: c-168910
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 446"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 446."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kai
     pasklido kalbos, jog Jurgis
@@ -189,3 +133,25 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185549
+
+- id: c-178621
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Prasidėjus mūšiui, aukščiau­
+    siasis lėmė, kad nugalėjo teisioji šalis. Praradęs mū­
+    šyje dešimt tūkstančių karių, Boleslovas vargais nega­
+    lais paspruko į Kijevą. Keturi tūkstančiai vyrų pateko
+    į nelaisvę, tarp jų — žymieji karo vadai ir jo šalinin­
+    kai. Visi tikėjo, jog puiki pergalė atneš taiką; taip ir
+    būtų atsitikę, jeigu Žygimantas, nors kovos lauke jau
+    pralieta pakankamai kraujo, nebūtų suteikęs tėvynei
+    dar daugiau skausmo savo gal kartais ir reikalingu, ir
+    teisingu, bet tarp žmonių nekenčiamu žiaurumu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196309

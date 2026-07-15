@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad joje pasakojama apie Aušrinės ištekėjimą.
+Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad joje pasakojama apie Aušrinės ištekėjimą. Liudvikas Gediminas Rėza taip pat buvo Saulės duktė ir tarnaitė.
 
 ## Teiginiai
 
@@ -34,8 +34,15 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
   teiginys: "Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad joje pasakojama apie Aušrinės ištekėjimą."
   pagrindžia:
     - c-173182
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197318"></a>
+- t-002
+  global_id: t-197318
+  teiginys: "Liudvikas Gediminas Rėza taip pat buvo Saulės duktė ir tarnaitė."
+  pagrindžia:
+    - c-179127
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad joje pasakojama apie Aušrinės ištekėjimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -58,17 +65,42 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
 - id: c-173182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 189"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 189."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Rėza. Dainės)*.
-    Visa ši dainelė yra mitologinė: joje papasakotas ištekan­
-    čios už vyro Aušrinės nuotykis, tik nežinia už ko ji tekėjo,
-    arba kaip vadinosi lietuvių Titanas, nes čia apie Mėnulį ne­
-    užsimenama.
+    Senovės graikai, kaip žinome iš jų astrono­
+    mijos istorijos, iki Periklio laikų manė tą patį, tik, geriau paži­
+    ne dangaus kūnų judėjimą, sukimąsi, suprato, kaip juda pla­
+    neta Venera.
+    Būtina įdėti dar vieną dainą iš pono Rėzos dainų rinkinio
+    Naujosios Prūsijos, arba Prūsų Lietuvos, tarme:
+    O wakar wakaratij
+    Prapule manu owate.
+    Ajl Kas gelbės jeszkoti,
+    Manu ^vienturte owatę?
+  citata_rodoma: "Rėza. Dainės)*.\nVisa ši dainelė yra mitologinė: joje papasakotas ištekan­\nčios už vyro Aušrinės nuotykis, tik nežinia už ko ji tekėjo,\narba kaip vadinosi lietuvių Titanas, nes čia apie Mėnulį ne­\nužsimenama."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190299
+
+- id: c-179127
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Taigi, pasak šio padavi­
+    mo, egzistuojant dabartinei gamtai, Aušrinės antrosios ves­
+    tuvės neįvyks.
+    Vakarinė (Wakarinne)
+    Vakaro žvaigždė. Apie šios dievybės savybes jau kalbėjo­
+    me straipsnyje „Bežlėja“. Ji taip pat buvo Saulės duktė ir tar­
+    naitė.
+    Antikos žmonės šią žvaigždę vadino Hespera.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197318

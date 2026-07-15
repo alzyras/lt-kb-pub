@@ -50,29 +50,6 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
 - susijęs iš [[objektai/grupes/Reino konfederacija.md#claim-t-86819|Reino konfederacija]]: 1255 m. šešiasdešimt miestų įsteigė Reino konfederaciją, vadovaujamą aukščiausiųjų dvasininkų.
 - susijęs iš Liubekas: 1241 m. Hamburgas sudarė karinę sąjungą su Liubeku, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.
 - susijęs iš Liubekas: Prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1241 m. Hamburgas su Liubeku sudarė karinę sąjungą, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
-    tai, net slaviškieji, ėmė prie jų šlietis. Prie karinės sąjungos, 1241 m.
-    Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė
-    D
-
-    ## Puslapis 22
-
-    ĮVADAS
-    Krokuva, Kališas ir Naugardas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82167

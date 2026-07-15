@@ -36,29 +36,6 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
   teiginys: "Jogaila išleido savo seserį Aleksandrą už jaunesniojo Mazovijos kunigaikščio Ziemovito."
   pagrindžia:
     - c-83593
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jogaila išleido savo seserį Aleksandrą už jaunesniojo Mazovijos kunigaikščio Ziemovito.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Čia, krašto reikalus
-    įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­
-    vo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu,
-    pavaldžiu karališkajai savo valdžiai16.
-    Miestui teko būti liudytoju dviejų prašmatnių vestuvių:
-    Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­
-    gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo
-    Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną. Po
-    to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
-    Lenkiją, Vilnių palikęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -34,26 +34,6 @@ Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė t
   teiginys: "Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pavertė ją informaciniu laikraščiu be ideologijos."
   pagrindžia:
     - c-67331
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pavertė ją informaciniu laikraščiu be ideologijos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šerno redaguojamoji „Lietuviška Ceitunga"
-    net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat,
-    joje buvo pradėję rašyti ir vėlesnieji „Aušros" bendradar-
-    biai). Bet prieš radikalųjį jos tautiškumą kilo nepasitenkinimas,
-    ir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be
-    jokios ideologijos. Tokio pat likimo susilaukė ir kitų laikraš-
-    čių panašūs bandymai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

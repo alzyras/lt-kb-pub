@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 60
+tema_objektu_skaicius: 58
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 60.
+Objektų skaičius: 58.
 
 ## Kaip naudoti
 
@@ -53,7 +53,6 @@ Objektų skaičius: 60.
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje](../objektai/paprociai/Mason%C5%B3%20lo%C5%BEi%C5%B3%20ir%20student%C5%B3%20organizacij%C5%B3%20kult%C5%ABrinis%20bei%20dorovinis%20lavinimasis%20Vilniuje)
 - [Pagoniškosios Lietuvos tikybinės apeigos](../objektai/paprociai/Pagoni%C5%A1kosios%20Lietuvos%20tikybin%C4%97s%20apeigos)
-- [Pakėlimas į kunigaikščius su įprastinėmis apeigomis](../objektai/paprociai/Pak%C4%97limas%20%C4%AF%20kunigaik%C5%A1%C4%8Dius%20su%20%C4%AFprastin%C4%97mis%20apeigomis)
 - [Pelenijos „dantų plovimas“](../objektai/paprociai/Pelenijos%20%E2%80%9Edant%C5%B3%20plovimas%E2%80%9C)
 - [Permaldavimo aukos Pokliui ir kraujo atnašavimas](../objektai/paprociai/Permaldavimo%20aukos%20Pokliui%20ir%20kraujo%20atna%C5%A1avimas)
 - [Požemio dievams skirtų aukų užkasimas](../objektai/paprociai/Po%C5%BEemio%20dievams%20skirt%C5%B3%20auk%C5%B3%20u%C5%BEkasimas)
@@ -79,7 +78,6 @@ Objektų skaičius: 60.
 - [Vaškiniu rutuliuku ir sieteliu atliekami vagies paieškos burtai](../objektai/paprociai/Va%C5%A1kiniu%20rutuliuku%20ir%20sieteliu%20atliekami%20vagies%20paie%C5%A1kos%20burtai)
 - [Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje](../objektai/paprociai/Va%C5%A1ko%20%C5%BEvaki%C5%B3%20statymas%20ir%20deginimas%20ketvirtadienio%20vakarais%20Antakalnio%20%C5%A1ventov%C4%97je)
 - [Velykų pusryčių kaulų užkasimas Nijolei](../objektai/paprociai/Velyk%C5%B3%20pusry%C4%8Di%C5%B3%20kaul%C5%B3%20u%C5%BEkasimas%20Nijolei)
-- [Viešas valdovo krikštas ir karūnavimas pagal įprastas apeigas (krikštas)](../objektai/paprociai/Vie%C5%A1as%20valdovo%20krik%C5%A1tas%20ir%20kar%C5%ABnavimas%20pagal%20%C4%AFprastas%20apeigas)
 - [Vilniaus Perkūno šventyklos aukos, zodiakiniai laužai ir aukuro aprašymo lokatoriai](../objektai/paprociai/Vilniaus%20Perk%C5%ABno%20%C5%A1ventyklos%20aukos%2C%20zodiakiniai%20lau%C5%BEai%20ir%20aukuro%20apra%C5%A1ymo%20lokatoriai)
 - [Vilniaus Perkūno šventyklos mėnesiniai zodiakiniai laužai, aukos ir amžinoji ugnis](../objektai/paprociai/Vilniaus%20Perk%C5%ABno%20%C5%A1ventyklos%20m%C4%97nesiniai%20zodiakiniai%20lau%C5%BEai%2C%20aukos%20ir%20am%C5%BEinoji%20ugnis)
 - [Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią](../objektai/paprociai/Vilniaus%20vyskupo%20ba%C5%BEnytini%C5%B3%20cenz%C5%ABr%C5%B3%20vykdymas%20pasitelkiant%20pasaulietin%C4%99%20vald%C5%BEi%C4%85)

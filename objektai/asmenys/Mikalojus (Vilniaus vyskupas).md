@@ -43,30 +43,6 @@ Actum et datum die dominico Reminiscere anno 1410 in castro nostro Vilnensi [Vil
   teiginys: "1410 m. Vilniaus vyskupas Mikalojus buvo kanonų teisės daktaras ir menų magistras."
   pagrindžia:
     - c-83760
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1410 m. Vilniaus vyskupas Mikalojus buvo kanonų teisės daktaras ir menų magistras.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tarp
-    dalyvavusiųjų buvo: Nicolaus Epis­
-    copus Vilnensis Doctor juris canonici
-    et artium Magister. Actum et datum die
-    dominico Reminiscere anno 1410 in
-    castro nostro Vilnensi [Vilniaus vys­
-    kupas Mikalojus, kanonų teisės dak­
-    taras ir menų magistras. Aktuota ir
-    duota antrą gavėnios sekmadienį
-    (vasario 16-ą) 1410 metais mūsų Vil­
-    niaus pilyje].
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

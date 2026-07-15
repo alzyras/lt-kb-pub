@@ -45,30 +45,6 @@ Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popi
   teiginys: "Klemensas VIII buvo vienas iš popiežių, kurių rinkimuose elektoriaus teisėmis dalyvavo Jurgis Radvila."
   pagrindžia:
     - c-83736
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Klemensas VIII buvo vienas iš popiežių, kurių rinkimuose elektoriaus teisėmis dalyvavo Jurgis Radvila.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    —  •  .
-    192
-
-    ## Puslapis 209
-
-    Il KNYGA
-    15. Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­
-    dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elek-
-    torius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas,
-    baigė dievobaimingo gyvenimo dienas Romoje, 1600 me­
-    tais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

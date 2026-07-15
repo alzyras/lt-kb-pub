@@ -64,29 +64,6 @@ Nenurodyta
   teiginys: "Brastos bažnytinę uniją 1596 m. nulėmė gausūs XV–XVI a. LDK telkęsi bažnytinės unijos bandymai."
   pagrindžia:
     - c-166606
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Brastos bažnytinę uniją 1596 m. nulėmė gausūs XV–XVI a. LDK telkęsi bažnytinės unijos bandymai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi Lenkijos stačiatikiai buvo valdomi iš LDK,
-    kurios stačiatikių svoris nulėmė, kad bent jau bažnytinės unijos įgyvendini-
-    mo klausimu LDK, o ne Lenkija buvo aktualiausia erdvė. Todėl XV–XVI a.
-    būtent LDK koncentravosi gausūs bažnytinės unijos bandymai, galutinai
-    nulėmę Brastos bažnytinę uniją 1596 m. Nuo Brastos bažnytinės unijos
-    graikais katalikais tapo dauguma Lenkijos ir Lietuvos valstybės stačiatikių.
-    Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
-    litai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai
-    katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -109,5 +86,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183219
     - t-20172
+    - t-183219

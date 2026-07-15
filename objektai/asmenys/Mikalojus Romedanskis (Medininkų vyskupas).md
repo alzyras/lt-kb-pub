@@ -45,24 +45,6 @@ Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus Romedanskio konsekrac
   teiginys: "1427 m. popiežius įsakė Medininkų vyskupui Mikalojui Romedanskiui savo priesaiką nusiųsti Gniezno arkivyskupui."
   pagrindžia:
     - c-32793
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    paėmė savo globon ir uždraudė Livonijos ordinui Žemaičius užpul­
-    dinėti. Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus
-    Romedanskio konsekracijos aplinkybių (1427), popiežius naujam
-    vyskupui įsakė savo priesaiką nusiųsti Gniezno arkivyskupui, jau
-    tada įgijusiam metropolito teises į Medininkų vyskupiją.
-    Nuo 1420 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

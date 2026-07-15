@@ -51,15 +51,8 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   pagrindžia:
     - c-79663
 
-<a id="claim-t-83307"></a>
-- t-004
-  global_id: t-83307
-  teiginys: "Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių."
-  pagrindžia:
-    - c-79663
-
 <a id="claim-t-184303"></a>
-- t-005
+- t-004
   global_id: t-184303
   teiginys: "Sąjungininkai priėjo Drevencos upę ties Kauerniku."
   pagrindžia:
@@ -79,8 +72,6 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
 - susijęs iš [[objektai/daiktai/Patrankos.md#claim-t-176200|Patrankos]]: Prie Drevencos kryžiuočiai sustiprino upės krantus ir apstatė juos patrankomis.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-12341|Vėliavos]]: Riteris neturėjo teisės palikęs savo vėliavą bėgti iš mūšio.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176212|Vėliavos]]: Zyndramas iš Moškovicų kovojo prie vyriausios vėliavos, o visos sąjunginės kariuomenės vadovybė atiteko Vytautui.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178897|Kryžiuočių ordinas]]: Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti priešui kelią.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179083|Kryžiuočių ordinas]]: Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti jiems kelią.
 - susijęs iš Brodnica: Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių.
 - susijęs iš Brodnica: Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių.
 - susijęs iš Gilgenburgas: Sąjungininkų kariuomenė paėmė Gilgenburgą ir žygiavo Tannenbergo kryptimi.
@@ -90,78 +81,6 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
 - susijęs iš Löbau: Įspėtas kai kurių riterių, Ordino vadas įsakė kariuomenei iš Kanerniko žygiuoti į šiaurę, į Löbau.
 - susijęs iš Löbau: Įspėtas kai kurių riterių, Ordino vadas įsakė kariuomenei iš Kanerniko eiti šiaurėn į Löbau.
 - susijęs iš Tanenbergas: Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
-    niku. Čia pastebėjo, kad perėjimas per tą upę jau kryžiuočių
-    buvo saugojamas. Jie čia jau buvo atvykę iš Sviečės, sustipri­
-    nę upės krantus ir apstatę juos patrankomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ištisi kaimai visoje kunigaikš­
-    tystėje, dešimtys bažnyčių buvo apiplėšta ir sudeginta: pa­
-    imtų į nelaisvę priskaičiuota iki devynių tūkstančių. Tuo lai­
-    ku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos
-    (Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių
-    ir padarė Ordinui nuostolių už tūkstantį grivinų*. Taigi per
-    pusantrų metų žuvo apie dvidešimt tūkstančių krikščionių
-    iš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio
-    kardo, kiti į nelaisvę papuolę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Toji pati taryba turėjo išspręsti ir tolimesnį kariuome­
-    nių žygiavimą. Buvo nutarta pasitraukti kiek atgal, paskui ei­
-    ti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos
-    upę ir, nors tolimesniu keliu, pasiekti Marienburgą. Buvo tuo­
-    jau surasti vadovai ir nustatytas kelias.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Sąjungininkai priėjo Drevencos upę ties Kauerniku.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie
-    vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
-    vadovybė atiteko Vytautui.
-    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
-    niku. Čia pastebėjo, kad perėjimas per tą upę jau kryžiuočių
-    buvo saugojamas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-37347
@@ -202,7 +121,6 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83307
-    - t-83308
 
 - id: c-79664
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

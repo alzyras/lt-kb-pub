@@ -48,47 +48,6 @@ media_all_json: |-
   teiginys: "Valerijono bursai skiriamų metinių pajamų sąrašas Iš kahalo nuo 5 500 auksinų sumos komisijos sprendimo vigore [galia] - 165 auks."
   pagrindžia:
     - c-176893
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '2mo: kad tie namai būtų vadinami Valerijono bursomis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Be to, dar anksčiau minėtas Vilniaus vyskupas Protase-
-    vičius tris mūrinius namus, vieną Bernardinų gatvėje, o du
-    Vyskupų gatvėje, 1579 metų kovo 6 dieną, fundacijos teise,
-    užrašė Akademijai ir Collegio, nustatydamas sąlygas:
-    lmo: kad keliems studentams, neturintiems už ką baigti
-    mokslus, būtų duodamas valgis.
-    2mo: kad tie namai būtų vadinami Valerijono bursomis.
-    3tio: kad konviktuose gyvenantys studentai, katedroje,
-    prieš Šv. Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
-    das už fundatoriaus sielą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Valerijono bursai skiriamų metinių pajamų sąrašas Iš kahalo nuo 5 500 auksinų sumos komisijos sprendimo vigore [galia] - 165 auks.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Valerijono bursai skiriamų metinių pajamų sąrašas
-    Iš kahalo nuo 5 500 auksinų sumos komisijos sprendimo
-    vigore [galia] - 165 auks.
-    Nuo Eljaševičiaus namo - 400 auks.
-    Nuo Švarco namo - 260 auks.
-    Iš viso 825 auks. suma.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

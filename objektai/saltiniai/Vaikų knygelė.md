@@ -34,22 +34,6 @@ Valančiaus, VAIKŲ KNYGELĖ. Knygelė skiriama visiems: vaikams ir suaugusiems.
   teiginys: "Knygelė skiriama visiems: vaikams ir suaugusiems."
   pagrindžia:
     - c-37263
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Knygelė skiriama visiems: vaikams ir suaugusiems. Vaikai ras
-    gražių gražiausių paveikslėlių ir pasakų, o suaugusieji galės pasimo­
-    kyti gražiausio mūsų gimtosios galbos stiliaus.
-    7.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

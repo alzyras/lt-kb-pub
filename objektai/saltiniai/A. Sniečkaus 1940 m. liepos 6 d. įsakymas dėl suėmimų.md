@@ -40,27 +40,6 @@ media_all_json: |-
   teiginys: "1940 m. liepos 6 d. A. Sniečkus išleido įsakymą, leidusį suimti agituojančiuosius prieš Liaudies vyriausybę."
   pagrindžia:
     - c-26707
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1940 m. liepos 6 d. Valstybės saugumo
-    departamento direktorius A. Sniečkus išleido įsakymą, leidžiantį suimti
-    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
-    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
-    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
-
-    L I E T U V O S  I S T O R I J A
-    194
-    turėjo neleisti tokiems pabėgti į Vokietiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

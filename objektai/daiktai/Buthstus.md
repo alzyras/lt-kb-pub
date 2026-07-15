@@ -43,13 +43,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-189679"></a>
-- t-001
-  global_id: t-189679
-  teiginys: "Narbutas Buthstus apibūdina kaip vietos ar srities krivio valdžios ženklą – ąžuolinę dvasininko lazdą su dvišake viršūne ir dviem kutais."
-  pagrindžia:
-    - c-172562
-
 <a id="claim-t-189680"></a>
 - t-002
   global_id: t-189680
@@ -60,36 +53,6 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189437|Kriviai ir Krivių Krivaičiai]]: Narbutas krivio valdžios ženklą Buthstus aprašo kaip ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais.
 - susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189436|Kriviai ir Krivių Krivaičiai]]: Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę lazdą su trišake viršūne ir trimis kutais.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Buthstus apibūdina kaip vietos ar srities krivio valdžios ženklą – ąžuolinę dvasininko lazdą su dvišake viršūne ir dviem kutais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    428
-
-    ## Puslapis 428
-
-    (Žynio Krivių Krivaičio valdžios ženklas,
-    arba dvasininko lazda, liaudies kalbaButhstun-
-    kas, atrodė taip: ilgoka paprasto ąžuolo lazda,
-    kurios viršūnę sudaro trys šakos, [kiekviena]
-    tarytum perrišta mazgu, išdėstytos trišakiu; nuo
-    jų susijungimo kabo trys kutai).
-    Symbolum jurisdictionis Superstitis loci, vel
-    provinciae, Krewe, sive baculus sacerdotalis, vul­
-    gari sermone Buthstus nuncupatus, talem habuit
-    formam: Baculus longuisculus, de ligno simpli­
-    ci quaerci, supra quem sunt duae virgae, dispo­
-    sitae in formam rami bifurci. De quarum junc­
-    tione duo bursae pendunt.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas Buthstus aprašo kaip vietos ar srities krivio valdžios ženklą – ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -115,52 +78,29 @@ Nenurodyta
 
 ## Citatos
 
-- id: c-172562
+- id: c-172563
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    428
-
-    ## Puslapis 428
-
-    (Žynio Krivių Krivaičio valdžios ženklas,
-    arba dvasininko lazda, liaudies kalbaButhstun-
-    kas, atrodė taip: ilgoka paprasto ąžuolo lazda,
-    kurios viršūnę sudaro trys šakos, [kiekviena]
-    tarytum perrišta mazgu, išdėstytos trišakiu; nuo
-    jų susijungimo kabo trys kutai).
-    Symbolum jurisdictionis Superstitis loci, vel
-    provinciae, Krewe, sive baculus sacerdotalis, vul­
-    gari sermone Buthstus nuncupatus, talem habuit
-    formam: Baculus longuisculus, de ligno simpli­
-    ci quaerci, supra quem sunt duae virgae, dispo­
-    sitae in formam rami bifurci. De quarum junc­
-    tione duo bursae pendunt.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189679
-
-- id: c-172563
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 428"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 428."
-  citata_originali: |
-    De quarum junc­
-    tione duo bursae pendunt.
-    (Vietos ar srities burtininko krivio valdžios
-    ženklas, arba dvasininko lazda, liaudies kalba
-    Buthstus, atrodė taip: ilgoka paprasto ąžuolo
-    lazda, kurios viršūnę sudaro dvi šakos, išdėsty­
-    tos kaip dvišakis; nuo jų jungties kabo du ku­
-    tai).
-    Symbolium jurisdictionis communi sacerdo­
-    tis, jus judicandi habentis, Wajdalotae vel alii id
-    generis, sive baculus sacerdotalis.
+    Tą
+    lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy­
+    nui, tas tučtuojau siunčia tolyn, kol paskutinis iš eilės atneša
+    atgal vaitui; kiekvienas, gavęs tokį ženklą, yra įpareigotas ne­
+    delsiant atvykti į valsčiaus susirinkimo vietą. Pretorijus, atpa­
+    sakodamas šią Dusburgiečio kronikos vietą, kur kalbama apie
+    žynio lazdą, vadina ją krivūle. Čia anksčiau nupieštą kreivą
+    lazdą Prūsijos lietuviai šitaip tebevadina, taigi krivis turėjo pa­
+    našią lazdą ir ji turėjo būti jo įsakomasis ženklas9 10.
+    Iš tikrųjų čia anksčiau pateiktuose atvaizduose yra šio to
+    panašaus, tik iš atvirkštinės pusės; matyt, lietuvių metraštinin­
+    kai, iš kurių sėmėsi rankraštis, kaip rodo pastabos, turėjo ge­
+    riau išmanyti apie tas lazdas ir žinojo, kaip jos atrodė antspau­
+    duose, išsaugotuose iš senų laikų, kai stabmeldystė dar buvo
+    pačioje stipiybėje, nors nemini krivūlės (Krewula) pavadini­
+    mo, visiškai nelietuviško, nes paimto iš slavų kalbos: Krywoj,
+    Krzywy; Krivūlė reiškia mažą, kreivą daiktą.
+  citata_rodoma: "De quarum junc­\ntione duo bursae pendunt.\n(Vietos ar srities burtininko krivio valdžios\nženklas, arba dvasininko lazda, liaudies kalba\nButhstus, atrodė taip: ilgoka paprasto ąžuolo\nlazda, kurios viršūnę sudaro dvi šakos, išdėsty­\ntos kaip dvišakis; nuo jų jungties kabo du ku­\ntai).\nSymbolium jurisdictionis communi sacerdo­\ntis, jus judicandi habentis, Wajdalotae vel alii id\ngeneris, sive baculus sacerdotalis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

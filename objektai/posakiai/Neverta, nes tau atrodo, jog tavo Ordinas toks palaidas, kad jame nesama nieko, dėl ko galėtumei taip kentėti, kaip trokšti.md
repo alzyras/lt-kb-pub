@@ -42,42 +42,16 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginys: "Regėjime šventoji mergelė Marija šiais žodžiais atsakė broliui, prašiusiam leisti pasilikti Teutonų ordino brolių bendrijoje."
   pagrindžia:
     - c-59772
-
-<a id="claim-t-184038"></a>
-- t-003
-  global_id: t-184038
-  teiginys: "Regėjime šventoji mergelė Marija šiais žodžiais atsakė broliui, prašiusiam leisti pasilikti Teutonų ordino brolių bendrijoje."
-  pagrindžia:
     - c-167423
 
 <a id="claim-t-194471"></a>
-- t-004
+- t-003
   global_id: t-194471
   teiginys: "Šventoji mergelė jam atsakė: „Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti“."
   pagrindžia:
     - c-59772
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Galop atėjo švenčiausioji mergelė
-    Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
-    vis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,
-    nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
-    taip kentėti, kaip trokšti“. Pakėlusi kiekvienam broliui apsiaustą, ji parodė jų žaizdas ir
-    randus, kurių jiems nešykštėjo netikėliai, kai gynė tikėjimą, ir pasakė: „Ar tau dabar
-    neatrodo, kad štai šie tavo broliai yra šiek tiek kentėję dėl Jėzaus Kristaus vardo“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-    - t-004
-
 - c-002
   santrauka: 'Regėjime šventoji mergelė Marija šiais žodžiais atsakė broliui, prašiusiam leisti pasilikti Teutonų ordino brolių bendrijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -102,8 +76,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - id: c-59772
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 75"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Galop atėjo švenčiausioji mergelė
     Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
@@ -117,26 +90,26 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59141
     - t-59140
+    - t-59141
     - t-194471
 
 - id: c-167423
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 75"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
-    Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
-    priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė
-    Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
-    vis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,
+    Šventoji mergelė jam atsakė: „Neverta,
     nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
-    taip kentėti, kaip trokšti“.
+    taip kentėti, kaip trokšti“. Pakėlusi kiekvienam broliui apsiaustą, ji parodė jų žaizdas ir
+    randus, kurių jiems nešykštėjo netikėliai, kai gynė tikėjimą, ir pasakė: „Ar tau dabar
+    neatrodo, kad štai šie tavo broliai yra šiek tiek kentėję dėl Jėzaus Kristaus vardo“. Jai
+    tarus šiuos žodžius, regėjimas dingo. Tas brolis pakirdęs atsikvošėjo, nuėjo į kapitulą,
+    kur buvo susirinkę broliai, ir dabar, daugiau supratęs bei patyręs, nuolankiai atšaukė
+    savo klaidingą nuomonę ir atsisakė savo sumanymo, kurį anksčiau lengvapėdiškai buvo
+    priėmęs, ir visiems papasakojo matytą regėjimą.
+  citata_rodoma: "Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir\nAugustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo\npriimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė\nMarija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam\nvis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,\nnes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei\ntaip kentėti, kaip trokšti“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184038

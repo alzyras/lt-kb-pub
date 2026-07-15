@@ -34,8 +34,8 @@ Narbutas venedų runų užrašą aiškino kaip lotynišką frazę „Immolavit S
   teiginys: "Narbutas venedų runų užrašą aiškino kaip lotynišką frazę „Immolavit Sambūrius dux Kracho olitori“."
   pagrindžia:
     - c-173000
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas venedų runų užrašą aiškino kaip lotynišką frazę „Immolavit Sambūrius dux Kracho olitori“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -66,17 +66,14 @@ Narbutas venedų runų užrašą aiškino kaip lotynišką frazę „Immolavit S
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje
-    (pagal Tadą Volianskį)
-    i). 33
-    257
-
-    ## Puslapis 257
-
-    dės užrašytos ratu: lotyniškas užrašas, venedų runomis, pagal
-    mano aiškinimą:
-    IM M ^t:SYatPIXr!:qX:1 ^n^nnt^n
-    (Immolavit Sambūrius dux Kracho olitori).
+    Kažkokio žemaičių stabo nuolaužos piešinys yra J. F. R.
+    kronikoje su prierašu: Schomaiten Götze (Žemaičių stabas)
+    (žiūrėk II lentelės 5-ąjį piešinį). Kadangi jam ant krūtinės kaž­
+    kas panašaus į saulę, tai galėjo būti Svaistikas.
+    Ponas Tadas Volianskis suteikė mums numizmatinio radi­
+    nio piešinį su tokiu aprašymu: „Didelis auksinis brakteatas; apie
+    pusantro colio skersmens.
+  citata_rodoma: "Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje\n(pagal Tadą Volianskį)\ni). 33\n257\n\n## Puslapis 257\n\ndės užrašytos ratu: lotyniškas užrašas, venedų runomis, pagal\nmano aiškinimą:\nIM M ^t:SYatPIXr!:qX:1 ^n^nnt^n\n(Immolavit Sambūrius dux Kracho olitori)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

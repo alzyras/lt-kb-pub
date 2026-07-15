@@ -41,28 +41,6 @@ Be to, į Žemaičių vyskupiją pareiškė pretenzijų Rygos arkivyskupai (Gots
   teiginys: "Rygos arkivyskupas Jonas Habundi reiškė pretenzijas į Žemaičių vyskupiją."
   pagrindžia:
     - c-38055
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautui reikėjo ginti apkrikštytus že­
-    maičius, ir tas neapsiėjo be karo, kuris įvyko 1422 m. Be to,
-    į Žemaičių vyskupiją pareiškė pretenzijų Rygos arkivyskupai
-    (Gotszalk Schutte, Jonas Habundi)^3 ), remdamiesi tuo, kad prie
-    Mindaugo Rygos arkivyskupui tarpininkaujant buvo įkurta Že­
-    maičių vyskupija (1251), taigi dabartinė tėra senosios atnauji­
-    nimas ir turi priklausyti Rygos arkivyskupo valdžiai. Vytau­
-    tas griežtai stojo už tai, kad Žemaičių vyskupija netektų
-    Rygos arkivyskupui ir kreipėsi į Kuriją, kad popiežius uždraus­
-    tų Livonijos episkopatui kištis į Lietuvos bažnytinius reikalus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

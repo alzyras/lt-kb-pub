@@ -49,9 +49,9 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
 
 ## Teiginiai
 
-<a id="claim-t-41498"></a>
+<a id="claim-t-41495"></a>
 - t-001
-  global_id: t-41498
+  global_id: t-41495
   teiginys: "Antoine’as Gramont’as rašė, kad totoriai Lietuvoje valdė laisvuosius dvarus ir sudarė lengvąją raitiją."
   pagrindžia:
     - c-44986
@@ -62,87 +62,7 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   teiginys: "Antoine’o Gramont’o 1663-1664 m. pasakojimo ištrauka aprašo totorius Lietuvos kariuomenėje."
   pagrindžia:
     - c-43229
-
-<a id="claim-t-41497"></a>
-- t-003
-  global_id: t-41497
-  teiginys: "Antoine’o Gramont’o 1663-1664 m. pasakojimo ištrauka aprašo totorius Lietuvos kariuomenėje."
-  pagrindžia:
     - c-167088
-
-<a id="claim-t-41498"></a>
-- t-004
-  global_id: t-41498
-  teiginys: "Antoine’as Gramont’as rašė, kad totoriai Lietuvoje valdė laisvuosius dvarus ir sudarė lengvąją raitiją."
-  pagrindžia:
-    - c-44986
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie
-    totorius Lietuvos kariuomenėje.
-
-    Pėstininkų
-    bataliono
-    kairysis
-    flangas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1700 m. lapkričio 19-24 d. Valki-
-    ninkuose vyko respublikonų bajorijos
-
-    „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę
-    šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti. Visoje šalyje jie valdo
-    laisvuosius dvarus, bet neturi nei rango, nei balso tarp bajorijos. Totoriai taip pat sudaro
-    lengvąją raitiją, gerai aprūpintą ir ginkluotą kaip kazokų, ir nuo pastarųjų skiriasi tik
-    tuo, kad nenešioja grandijų. Jų alga - trisdešimt livry už ketvirtį.“
-
-    suvažiavimas, priėmęs „Valkininkų nuta-
-    rimą“, kuriuo buvo įkurta LDK bajorijos
-    generalinė konfederacija, suformuoti ypa-
-    tingieji LDK valdžios organai, nutarta atimti
-    iš Sapiegų jų turėtas pareigybes, o dvarus
-    konfiskuoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-004
-
-- c-003
-  santrauka: 'Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie totorius Lietuvos kariuomenėje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lauko artilerija, išdėstoma daž-
-    niausiai ant aukštumų, veikdavo
-
-    Pėstininkų padaliniams priskirti mažo kalibro
-
-    judėdavo į priekį kartu su pėstininkais.
-
-    Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie
-    totorius Lietuvos kariuomenėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -192,7 +112,6 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41495
-    - t-41498
 
 - id: c-167088
   sudarytojas: "Karolis Zikaras"
@@ -212,5 +131,3 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-41497

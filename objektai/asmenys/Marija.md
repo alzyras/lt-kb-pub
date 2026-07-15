@@ -27,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai.
+Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgrafu, vėliau tapusiu ciesoriumi Zigmantu. Marija jau buvo iš Drohičino atvykęs į Gardiną.
 
 ## Teiginiai
 
@@ -38,10 +38,10 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
   pagrindžia:
     - c-38089
 
-<a id="claim-t-193954"></a>
+<a id="claim-t-196855"></a>
 - t-002
-  global_id: t-193954
-  teiginys: "Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugiau metų, didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B , kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 ."
+  global_id: t-196855
+  teiginys: "Marija jau buvo iš Drohičino atvykęs į Gardiną."
   pagrindžia:
     - c-176579
 - susijęs iš [[objektai/asmenys/Dimitras (Tverės kunigaikštis).md#claim-t-97314|Dimitras (Tverės kunigaikštis)]]: Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus.
@@ -96,54 +96,9 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
 - susijęs iš O drevuejšich kul’turnych oblastjach na territorii Litvy: R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. žurnalo „Sovetskaja Etnografija“ 3 tome.
 - susijęs iš Inovroclavas: Vienas iš trijų į Vilnių pakviestų lenkų tapytojų buvo Vaitiekus Chelminskis iš Inovroclavo.
 - susijęs iš Vilija: 1547 m. Paleckio liejyklai skirtas sklypas buvo prie Vilniaus miesto, už Vilijos upės.
-- susijęs iš Vilnius: Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.
 - susijęs iš Štarkenbergas: 1326 m. antroji Štarkenbergo pilis buvo pastatyta kairiajame Osos krante, tarp upės ir Meino ežero.
 - susijęs iš [[objektai/zodynas/Perkrikštijimas De rebaptisantis hominibus.md#claim-t-189238|Perkrikštijimas De rebaptisantis hominibus]]: Narbutas skyriuje De rebaptisantis hominibus aptarė pakartotinio krikšto, arba žmonių perkrikštijimo, temą.
 - susijęs iš [[objektai/zodynas/Perkrikštijimas De rebaptisantis hominibus.md#claim-t-189239|Perkrikštijimas De rebaptisantis hominibus]]: Narbutas rašė, kad rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčioje buvo įvestas dar prieš Kazimierą Vienuolį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
-    įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
-    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi
-    jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
-    Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
-    go markagrafu, vėliau tapusiu ciesorium Zigmantu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugiau metų, didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B , kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
-    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
-    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
-    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
-    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
-    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
-    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
-    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
-    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
-    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
-    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
-    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
-    sers, kam ją ištekino už vergo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-38089
@@ -171,22 +126,21 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
-    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
-    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
-    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
-    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
-    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
-    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
-    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
-    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
-    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
-    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
-    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
-    sers, kam ją ištekino už vergo.
+    O didysis kunigaikštis Kęstutis, sutelkęs savo pajė­
+    gas, skuba į Vilnių ir suima didįjį kunigaikštį Jogailą
+    su broliaisM ir su motina, suranda tas sutartis, kurias
+    buvo su vokiečiais sudarę, ir pasiunčia žygūną pas sa­
+    vo sūnų, didįjį kunigaikštį Vytautą, į Drohičiną, pra­
+    nešdamas, kas įvyko. Tas žygūnas suranda didįjį ku-
+    SJ
+
+    nigaikštį Vytautą Gardine, nes jis jau buvo iš Drohiči-
+    no atvykęs į Gardiną. Didysis kunigaikštis Vytautas
+    per vieną dieną atskuba iš Gardino pas savo tėvą, di­
+    dįjį kunigaikštį Kęstutį.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193954
+    - t-196855

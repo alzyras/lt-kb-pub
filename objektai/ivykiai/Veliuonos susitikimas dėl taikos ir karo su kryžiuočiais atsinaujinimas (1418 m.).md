@@ -7,13 +7,13 @@ datos:
   - '1418 m.'
 date_start: '1418'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paliaubos
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,8 +60,8 @@ Nenurodyta
   teiginys: "Po Veliuonos susitikimo karalius kurį laiką pasiliko Veliuonoje, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų."
   pagrindžia:
     - c-169144
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1418 m. Veliuonos susitikimas neatnešė taikos, nes kryžiuočiai atmetė siūlomas sąlygas ir reikalavo visos Žemaitijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -89,57 +89,41 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Po Veliuonos susitikimo karalius kurį laiką pasiliko Veliuonoje, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pasibai­
-    gus susitikimui, karalius kurį laiką pasiliko Veliuono­
-    je, norėdamas pailsėti, nes netoliese buvo vietų, tinka­
-    mų medžioklei ir poilsiui. Medžiodamas jis pats kartą
-    vos nepakliuvo į kryžiuočių
-    K araliu s
-    išv e n g ia
-    rankas, tik narsi jo palyda
-    k ry ž iu o č ių  pasalų
-    vargais
-    negalais
-    išgelbėjo
-    valdovą nuo pasalų, kurias
-    surengė Rastenburgo komtūras vienoje tam reikalui
-    tinkamoje vietoje. Po to ir viena, ir kita šalis puldinėjo
-    ir siaubė viską, kas pakliuvo po ranka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-169143
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 394"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 394."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Sugrįžti nuo tikėjimo reikalų prie vals­
-    tybės rūpesčių paragino Vytautą tai, kad netrukus turė­
-    jo baigtis dvejų metų paliaubos su kryžiuočiais. Nus­
-    prendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai
-    pasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą,
-    ąr susiderėti dėl amžinos taikos. Kadangi kryžiuočiai
-    atmetė vieną po kitos visas
-    1418 m e ta i
-    siūlomas taikos sąlygas, pasi-
-    S u sitik im a s d ė l tai-
-    pūtėliškai reikalaudami visos
-    k o s  a tn eša  k a rą
-    Žemaitijos, susitikimas neat­
-    nešė jokios naudos, ir netru­
-    kus kryžiuočiai iš pasalų pradėjo atvirą karą.
+    Numalšinęs siautėjančius Rusioje skitus, Vytautas
+    pasikvietė pasiuntinius, dalyvavusius bažnytiniame su­
+    važiavime, norėdamas neatidėliojant padaryti, ką su­
+    važiavimas buvo nutaręs. Be
+    galo ryžtingas žmogus, jis
+    nieko nedarė iš lėto, nepa­
+    kęsdamas ir kitų delsimo;
+    tiesą
+    sakant,
+    negi
+    galima
+    nesmerkti atidėliojimo, jei­
+    gu rūpinamasi dievo gar­
+    binimo bei žmonių išganymo reikalais. Vytauto pa­
+    kviesti pasiuntiniai negaišdami atvyko į Žemaitiją. Pas­
+    kyrę naujuoju ganytoju Motiejų, lietuvį, teologijos
+    mokslų magistrą, neseniai tapusį Vilniaus kanauninkų
+    kolegijos vyresniuoju, spalio mėnesį deramai sutvarkė
+    pagal šventųjų įstatymų reikalavimus viską, ką ir turėjo
+    i417 metai
+    K o n sta n co s
+    s u v a žia ­
+    v im o pasiuntiniai g a ­
+    lutinai
+    įsteigia
+    Ž e ­
+    m aičių v y s k u p y s tę
+  citata_rodoma: "Sugrįžti nuo tikėjimo reikalų prie vals­\ntybės rūpesčių paragino Vytautą tai, kad netrukus turė­\njo baigtis dvejų metų paliaubos su kryžiuočiais. Nus­\nprendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai\npasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą,\nąr susiderėti dėl amžinos taikos. Kadangi kryžiuočiai\natmetė vieną po kitos visas\n1418 m e ta i\nsiūlomas taikos sąlygas, pasi-\nS u sitik im a s d ė l tai-\npūtėliškai reikalaudami visos\nk o s  a tn eša  k a rą\nŽemaitijos, susitikimas neat­\nnešė jokios naudos, ir netru­\nkus kryžiuočiai iš pasalų pradėjo atvirą karą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -150,8 +134,7 @@ Nenurodyta
 - id: c-169144
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 394"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 394."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pasibai­
     gus susitikimui, karalius kurį laiką pasiliko Veliuono­
@@ -161,7 +144,7 @@ Nenurodyta
     K araliu s
     išv e n g ia
     rankas, tik narsi jo palyda
-    k ry ž iu o č ių  pasalų
+    k ry ž iu o č ių pasalų
     vargais
     negalais
     išgelbėjo

@@ -35,8 +35,8 @@ Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie
   teiginys: "Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų."
   pagrindžia:
     - c-174831
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -70,8 +70,7 @@ Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie
 - id: c-174831
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
@@ -88,7 +87,9 @@ Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie
     žemėlapiai
     šiai jūrai skiria gerokai didesnį plotą, negu ji užima
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
-    mėse, kurios tarsi įrodo jos mažėjimą.
+    mėse, kurios tarsi įrodo jos mažėjimą. Tačiau esama dar
+    1 Tacitas kildina iš lotyniško žodžio germanus, gimtas.
+  citata_rodoma: "Tačiau Kelsijus ir Dalinas per­\nnelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo\nKristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po\nketurių tūkstančių metų jos neliks nė pėdsako. Antra\nvertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,\nOvidijus kalba apie vandens lygio kritimą, pateikdami\nakivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis\napie\nBaltijos\njūrą“).\nSeni\nvenecijiečių\nžemėlapiai\nšiai jūrai skiria gerokai didesnį plotą, negu ji užima\nšiandien, be to, matoma daug pavyzdžių ir gretimose že­\nmėse, kurios tarsi įrodo jos mažėjimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

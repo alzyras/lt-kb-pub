@@ -63,29 +63,8 @@ Nenurodyta
   teiginys: "Vėliau dažniau matome jotvingių ryšius su lietuvių gentimis, su kuriomis jie nuo seno turėjo santykių, nes, gyvendami klajokliškai, turėjo daug naudos iš medžiok lės."
   pagrindžia:
     - c-177268
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas jotvingius vaizduoja kaip menkai civilizuotą tautą, gyvenusią bendruomenėmis arba valsčiais, kuriems vadovavo lyg karaliukai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    114
-    Istorinės pastabos. Jotvingių tauta, kiek galima spręs­
-    ti iš istorinių šaltinių, buvo mažai civilizuota, gyveno
-    valstiečių bendruomenėmis arba buvo susiskirsčiusi į vals­
-    čius arba ordas, kurių kiekvienai vadovavo kažkokie lyg
-    karaliukai, sudarę tarpusavio sąjungas. Jotvingiai noriai
-    puldinėdavo kaimyninius kraštus, atsitraukdami visuomet
-    mokėjo panaudoti savo krašto gamtos gynybines sąly­
-    gas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Vėliau dažniau matome jotvingių ryšius su lietuvių gentimis, su kuriomis jie nuo seno turėjo santykių, nes, gyvendami klajokliškai, turėjo daug naudos iš medžiok lės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -113,8 +92,7 @@ Nenurodyta
 - id: c-175791
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 118"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 118."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     114
     Istorinės pastabos. Jotvingių tauta, kiek galima spręs­
@@ -135,19 +113,20 @@ Nenurodyta
 - id: c-177268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 120"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 120."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    118
-    Vėliau dažniau matome jotvingių ryšius su lietuvių
-    gentimis, su kuriomis jie nuo seno turėjo santykių, nes,
-    gyvendami klajokliškai, turėjo daug naudos iš medžiok­
-    lės. Be to, kai būdavo pašaukiami, dalyvaudavo karuose.
-    Net ir turėdami Jaroslavo paskirtus rusų valdovus, kurie
-    vėliau tapo lyg ir savarankiškais kunigaikštukais, įvairiai
-    įkyrėjo kaimynams, ypač Drohičino kunigaikštukas siunti­
-    nėjo plėšikų gaujas, kurios neva be jo žinios puldinėjo
-    Mozūriją ir Lenkiją2.
+    Iš Lenkijos istorijos žinome, jog, kai Kazimieras II
+    1193 metais, siekdamas užkirsti kelią puldinėjimams, su
+    kariuomene patraukė prieš rusų valdomus jotvingius, ypač
+    prieš minėtą Drohičino kunigaikštuką, atsitiko taip, kad
+    lenkai, su dideliais sunkumais prasiveržę iki Drohičino,
+    apgulė tvirtovę, kuri pasidavė. Tas kunigaikštukas pasi­
+    davė j nelaisvę ir išsilygo sau palankių sąlygų. Kariuo­
+    menė žygiavo toliau, tris dienas traukė neišvažiuojamais
+    keliais ir plačiomis dykromis, o ketvirtą dieną saulei pa­
+    tekant Plocko vyskupas, atlaikęs šv. Mišias, krikščioniš­
+    kai parengė kariuomenę kautynėms su pagonimis.
+  citata_rodoma: "118\nVėliau dažniau matome jotvingių ryšius su lietuvių\ngentimis, su kuriomis jie nuo seno turėjo santykių, nes,\ngyvendami klajokliškai, turėjo daug naudos iš medžiok­\nlės. Be to, kai būdavo pašaukiami, dalyvaudavo karuose.\nNet ir turėdami Jaroslavo paskirtus rusų valdovus, kurie\nvėliau tapo lyg ir savarankiškais kunigaikštukais, įvairiai\nįkyrėjo kaimynams, ypač Drohičino kunigaikštukas siunti­\nnėjo plėšikų gaujas, kurios neva be jo žinios puldinėjo\nMozūriją ir Lenkiją2."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

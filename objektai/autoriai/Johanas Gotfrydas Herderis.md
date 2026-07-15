@@ -34,29 +34,6 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
   teiginys: "Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kiekviena kalba ir kultūra yra vertingas visos žmonijos."
   pagrindžia:
     - c-176386
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kiekviena kalba ir kultūra yra vertingas visos žmonijos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-
-    derio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų
-    mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-
-    kviena kalba ir kultūra yra vertingas visos žmonijos turtas. Atskira tauta
-    yra visi tie, kurie kalba viena kalba, turi bendrą istoriją ir kultūrą, todėl
-    liaudies kalba turi būti ugdoma ir kaip atskiros aukštosios kultūros kal-
-    ba. Jei tai pasisektų, tai ši kalba taptų dominuojančios krašte aukštosios
-    kultūros kalba, o elito atstovams reikėtų pasirinkti – arba likti su savo
-    kalba kultūrine mažuma, arba įsilieti į naujai kuriamos aukštosios kul-
-    tūros procesą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

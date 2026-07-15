@@ -41,24 +41,6 @@ Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją 
   teiginys: "Algirdas siekė priversti Naugardo respubliką paklusti, tačiau prieš jo mirtį joje įsigalėjo Maskvos įtaka."
   pagrindžia:
     - c-33336
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kartais tos kunigaikštijos taip pasiprie­
-    šindavo abiem varžovam, jog išsikovodavo visišką nepriklausomu­
-    mą, kaip pvz., Pskovas. Ilgą laiką panašiai buvo ir su Naugardo
-    respublika, nors Algirdas siekė ją priversti paklusti. Prieš Algirdo
-    mirtį ten laimėjo pagaliau Maskvos įtaka, kurios pasėkoje 1375
-    D. Naugardas su Dimitru padarė sutartį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

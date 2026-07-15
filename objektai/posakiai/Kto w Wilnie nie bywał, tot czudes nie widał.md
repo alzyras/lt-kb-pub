@@ -73,36 +73,6 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   teiginys: "„Kto w Wilnie nie bywał, tot czudes nie widał“ Maskvoje išliko kaip priežodis apie Vilniuje matytus stebuklus."
   pagrindžia:
     - c-78631
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Kto w Wilnie nie bywał, tot czudes nie widał“ Maskvoje išliko kaip priežodis apie Vilniuje matytus stebuklus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
-    Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -
-    Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas
-    Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
-    naudoti savo galios ir susidoroti su savo priešais. Šach Ach­
-    medas, apleistas sąjungininko, Mendli Girėjaus sumuštas,
-    43
-    Žinome, kad Maskvoje iki šiol dar
-    išlikęs priežodis: Kto w Wilnie nie by­
-    wał, tot czudes nie widał [Kas Vilniuje
-    nebuvo, tas stebuklų neregėjo]. At­
-    rodo, kad šią nuomonę išplatino tie,
-    kurie didžiąją kunigaikštytę Eleną
-    atlydėjo į Vilnių ir buvo sužavėti
-    nuostabaus priėmimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-    - t-002
 
 ## Citatos
 
@@ -131,6 +101,6 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82141
     - t-55180
     - t-55181
+    - t-82141

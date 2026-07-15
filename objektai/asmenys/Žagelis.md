@@ -7,14 +7,14 @@ datos:
   - '1840 m.'
 date_start: '1840'
 date_end: ''
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,8 @@ Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žage
   teiginys: "Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui."
   pagrindžia:
     - c-177235
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -64,12 +64,17 @@ Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žage
 - id: c-177235
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 376"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 376."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    9 Pono Kozakovskio 1840 metų sausio 27 dienos informacija iš
-    Kurėnų. Taip pat atsiuntė ir daug iškasenų. Didesnę dalį jis atidavė
-    Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*.
+    Vienas sveikas, kitas sudaužytas,
+    rasti žemės paviršiuje, yra taip nugludinti, lyg su šlifavimo ma­
+    šina, o tas, kuris rastas pilkapyje, dėl akmens dūlėjimo turi
+    šiurkštų paviršių. Tai palikimas seniausių šios žemės gyvento­
+    jų, kurie dar nemokėjo naudoti geležies. Vilniaus akademijos
+    mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens,
+    šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę
+    rasti Lydos apskrityje.
+  citata_rodoma: "9 Pono Kozakovskio 1840 metų sausio 27 dienos informacija iš\nKurėnų. Taip pat atsiuntė ir daug iškasenų. Didesnę dalį jis atidavė\nLvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

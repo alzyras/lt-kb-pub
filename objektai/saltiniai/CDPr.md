@@ -34,23 +34,6 @@ media_all_json: |-
   teiginys: "CDPr III tomo 134 numeris nurodytas 180 puslapyje."
   pagrindžia:
     - c-33546
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Plg. SRP,
-    II, 712 (« Dis ist Witoldes sache wedir Jagaln und Skargaln »).**
-    (^3) **CDPr, III, 180 (nr. 134).**
-    (^4) **SRP, II, 596 p.**
-    (^5) **LUB, III, 395 : E. Raczyński : RaCD, 58 p.**
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

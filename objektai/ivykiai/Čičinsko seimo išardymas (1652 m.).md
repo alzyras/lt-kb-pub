@@ -52,25 +52,6 @@ Nenurodyta
   teiginys: "Šapokos istorijoje paneigiama, kad Čičinskas 1652 m. pirmasis liberum veto teise išardė seimą."
   pagrindžia:
     - c-67082
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šapokos istorijoje paneigiama, kad Čičinskas 1652 m. pirmasis liberum veto teise išardė seimą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Dažnai girdime, kad _liberum veto_ teise pirmą
-    kartą pasinaudojęs ir seimą išardęs Upytės atstovas Čičinskas (Si-
-    cinskis) 1652 m. Tatai netiesa: daug kartų seimai iširo ir prieš
-    1652 m. Nuo 1536 m., kada iširo pirmasis Lenkijos seimas, iki
-    1569 m. Liublino seimo, kada prasidėjo bendrieji lietuvių lenkų
-    seimai, — Lenkijoje iš viso iširo 7 seimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

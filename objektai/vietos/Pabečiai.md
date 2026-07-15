@@ -80,7 +80,6 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
 - susijęs iš Dramenava: Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą ir grįžo su dideliu grobiu.
 - susijęs iš Abenda: 1283 m. žiemą Lietuvos raiteliai įsiveržė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -122,9 +121,9 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
 - id: c-68335
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 122"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
     Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
     broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui. Štai todėl,
     palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
@@ -146,12 +145,14 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
 - id: c-68336
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 122"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    379 D. — territorium Pubeten, Jer. — gebît Pobêtin; Pabečiai (dab. Romanovas),
-    gyvenvietė šiaurės Semboje  į pietryčius nuo buv. Naujųjų Kuršių, Neu-Kuhren (dab.
-    Pionierskas).
+    110 (105). Apie Rinavos valsčiaus sembų naują atskalūnybę
+    Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
+    sukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.
+    Todėl jie, subūrę kariuomenę,  užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
+    tebuvo du vyrai: vienas brolis bei jo tarnas.
+  citata_rodoma: "379 D. — territorium Pubeten, Jer. — gebît Pobêtin; Pabečiai (dab. Romanovas),\ngyvenvietė šiaurės Semboje  į pietryčius nuo buv. Naujųjų Kuršių, Neu-Kuhren (dab.\nPionierskas)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

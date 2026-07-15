@@ -36,37 +36,6 @@ Rugsėjo 15 d. turkų kariuomenė, vadovaujama Budos pašos Karakašo dar kartą
   pagrindžia:
     - c-44405
 - susijęs iš [[objektai/asmenys/B. Zenavičius.md#claim-t-40059|B. Zenavičius]]: Etmono svainis B. Zenavičius žuvo mūšyje su turkais.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rugsėjo 15 d. Budos pašos Karakašo vadovaujama turkų kariuomenė dar kartą bandė pulti, bet vadui pataikius kulkai į galvą pasitraukė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rugsėjo 15 d. turkų kariuomenė, vado-
-    vaujama Budos pašos Karakašo dar kartą
-    bandė pulti, bet mūšio metu turkų vadui
-    į galvą pataikė kulka ir jo kariuomenė
-    pasitraukė.
-
-    i
-
-    | Ispaniškojo tipo rapyra
-
-    XVII a. Kovojant dažniau-
-    siai naudojama poroje
-    su kairės rankos durklu
-    („palydovu“). Ašmenys
-    galimai ispaniški, bet
-    pasitaiko vokiečių bei
-    italų ginklininkų darbo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44405

@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
+A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Jogailos bei Vytauto monografijas. A. Prochaska parašė „Stosunki krzyżaków z Gediminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“. A. Prochaska parašė darbą „O prawdziwości listów Gedymina“, publikuotą 1893 m.
 
 ## Teiginiai
 
@@ -70,126 +70,18 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
   pagrindžia:
     - c-50244
 
-<a id="claim-t-193875"></a>
-- t-006
-  global_id: t-193875
-  teiginys: "Prochaskos iš rankraščio, atitinkančio skelbtų Poznanės Račlnaklų bibliotekos nuorašų."
-  pagrindžia:
-    - c-176502
-
 <a id="claim-t-193876"></a>
-- t-007
+- t-006
   global_id: t-193876
-  teiginys: "Prochaska, Dzieje W itolda, W ilno."
+  teiginys: 'A. Prochaskos veikalas „Dzieje Witolda“ citatoje nurodomas kaip šaltinis apie Dželal-ad-dino žūtį ir Aukso ordos istoriją.'
   pagrindžia:
     - c-176503
 - susijęs iš Codex epistolaris Vitoldi, magni ducis Lithuaniae: Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179520|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: A. Prochaska savo raštų gausumu apie XIV-XV a. Lietuvą pralenkė kitus lenkų istorikus.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179524|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: A. Prochaska rašė apie XIV-XV a. Lietuvą, išleido Vytauto Didžiojo aktų kodeksą ir parašė Jogailos bei Vytauto monografijas.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Taip pat tik I tomas tebuvo išspausdintas ver­
-    tingo veikalo apie Jogailaičius ir Maskvą. Jo autorius H. Paszki­
-    ewiczius, geras senosios Lietuvos istorijos šaltinių žinovas,
-
-    (^131) **A. Prochaska : Stosunki krzyżaków z Oedyminem i Łokietkiem (atsp.
-    iš KH), Lwów 1896 ;** **_Od Mendoga do Jagiełły_** **, Litwa i Ruś, IV, 1, 1912.**
-    (^132) **A. Prochaska :** **_Zjazd monarchów w Lucku,_** **Przewodnik Nauk. i
-    Literacki, I, Lwów 1874, 58 p. ;** **_Ostatnie łata Witołda.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Essai de synthese
-    historique,_** **Paris 1933 ;** **_Histoire de Pologne_** **, New York 1945 ;** **_From the Union
-    with Hungary to the Union with Lithuania (Jadwiga)_** **, The Cambridge History
-    of Poland, 1950;** **_From Florence to Brest_** **(1439-1596), žr. Sacrum Poloniae
-    Millennium, V, Roma 1958.**
-
-
-    84 ĮVADAS
-
-    Savo raštų gausumu apie XIV-XV amžiaus Lietuvą visus
-    lenkų istorikus yra pralenkęs A. Prochaska. Jis išleido ne tik
-    taip svarbų Vytauto D. aktų kodeksą (CeV), naujai perspausdintą
-    1965, ne tik parašė plačias Jogailos ir Vytauto monografijas (ProJa,
-    ProW), bet dar davė daug atskirų tyrinėjimų^131.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1908. — (”) _Pilkalnis na Litwie,_ Studja Staropolskie, księga ku czci
-    Aleksandra Brucknera, Kraków 1928, 154-172 p. — Kučinskas, A. :
-    _Gedimino dinastijos kilmė,_ Mūsų Žinymas, nr. 107-108, Kaunas 1934,
-    138-149, 194-204 p. -—- Pašuta, V. ir Stal, J. (parengė) : _Gedimino laiš­
-    kai,_ Vilnius 1966. — Platonov, S. F. : _Geschichte Russlands vom Beginn
-    bis zur Jetztzeit,_ Leipzig 1927, 109-111 p. — Prochaska, A. : _O praw­
-    dziwości listów Gedymina,_ RAU, t. 32, 1893, 222-255 p. — Spliet, H. :
-    _Die Briefe Gedimins,_ Sinsheim 1953.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kadangi dėl tų laiškų autentiškumo ginčas tebesitęsia nuo pat
-    jų atsiradimo iki šiol, yra susidariusi gausi literatūra. Daugumoje
-    vokiečiai (C. Dreyer, J. Voigt, K. Forstreuter ir kt.) tuos laiškus
-    tarė esant rygiečių falsifikatais, arba bent stipriai įtartinais. Lenkai
-    ir lietuviai (T. Narbutas, A. Prochaska, K. Chodynicki, H. Pasz­
-    kiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus
-    rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
-    Ivinskis).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-005
-  santrauka: 'Prochaskos iš rankraščio, atitinkančio skelbtų Poznanės Račlnaklų bibliotekos nuorašų.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Antrasis (Lietu­
-    vos TSR C entrinis Valst. istorinis archyvas, Vilniaus Lenkų mokslo
-    bičiulių draugijos t. 1135, apr. 17, b. 10) — XX a. pradžios, nurašytas
-    A. Prochaskos iš rankraščio, atitinkančio skelbtų Poznanės Račlnaklų
-    bibliotekos nuorašų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-006
-  santrauka: 'Prochaska, Dzieje W itolda, W ilno.'
+  santrauka: 'A. Prochaskos veikalas „Dzieje Witolda“ citatoje nurodomas kaip šaltinis apie Dželal-ad-dino žūtį ir Aukso ordos istoriją.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Dželal-ad-dinas buvo užmuštas, veikiausiai, savo brolio Kerim-Berdi,
@@ -197,12 +89,12 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
     chaska, Dzieje W itolda, W ilno. 1914, p. 414— 420; M. Г. Сафарга-
     лиев, Распад Золотой орды, Саранск. 1960. р. 183-189).
   citata_rodoma: ''
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
+    - t-006
 
 ## Citatos
 
@@ -293,36 +185,3 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47872
-
-- id: c-176502
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Antrasis (Lietu­
-    vos TSR C entrinis Valst. istorinis archyvas, Vilniaus Lenkų mokslo
-    bičiulių draugijos t. 1135, apr. 17, b. 10) — XX a. pradžios, nurašytas
-    A. Prochaskos iš rankraščio, atitinkančio skelbtų Poznanės Račlnaklų
-    bibliotekos nuorašų.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193875
-
-- id: c-176503
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Dželal-ad-dinas buvo užmuštas, veikiausiai, savo brolio Kerim-Berdi,
-    Lietuvos priešininko, valdžiusio Aukso ordą Iki 1417 m. (žr. A. Pro-
-    chaska, Dzieje W itolda, W ilno. 1914, p. 414— 420; M. Г. Сафарга-
-    лиев, Распад Золотой орды, Саранск. 1960. р. 183-189).
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193876

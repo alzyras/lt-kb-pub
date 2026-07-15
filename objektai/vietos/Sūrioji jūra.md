@@ -37,8 +37,8 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
   teiginys: "Sūrioji jūra Petro Dusburgiečio aprašyme buvo viena iš Prūsijos žemės ribų."
   pagrindžia:
     - c-59367
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sūrioji jūra Petro Dusburgiečio aprašyme buvo viena iš Prūsijos žemės ribų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -62,15 +62,15 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
 - id: c-59367
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    2. Prūsijos žemės aprašymas
-
-       Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
-    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
-    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
-    bei Pomeraniją nuo Prūsijos186.
+    Torunės pilyje apie XIII a. vidurį, atrodo, įsikūrė Ordino konventas.
+    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
+    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
+    rankose, ji naudota kaip gyvulininkystės dvaras.
+    Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
+    e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
+    (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
   citata_rodoma: "Prūsijos žemės aprašymas\n\n   Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,\nMazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186."
   statusas: verified
   teiginio_tipas: faktas

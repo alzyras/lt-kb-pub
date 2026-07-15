@@ -44,24 +44,6 @@ Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo (Aleksandro sūnau
   pagrindžia:
     - c-33360
 - susijęs iš Tverė: Tverės kunigaikštystė tuo metu buvo viena galingiausių greta Maskvos.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vieni jų ieškojo Lietuvos pagalbos, kiti rėmėsi Maskva.
-    Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo
-    (Aleksandro sūnaus), Algirdas ginklu kliudė ten įsistiprinti Maskvai.
-    Tris kartus (1368, 1370, 1372) jis, nepasiekdamas aiškios pergalės,
-    žygiavo prieš Maskvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33360

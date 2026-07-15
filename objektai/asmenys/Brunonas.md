@@ -56,7 +56,14 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 <a id="claim-t-184682"></a>
 - t-004
   global_id: t-184682
-  teiginys: "Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos."
+  teiginys: "Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus."
+  pagrindžia:
+    - c-168043
+
+<a id="claim-t-196431"></a>
+- t-005
+  global_id: t-196431
+  teiginys: "Kojelavičiaus pasakojime magistras Brunonas netoli Livonijos įlankos prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus."
   pagrindžia:
     - c-168043
 - susijęs iš [[objektai/asmenys/Brunonas iš Kverfurto.md#claim-t-60256|Brunonas iš Kverfurto]]: Brunonas iš Kverfurto mirė 1009 m. ir buvo vienas pirmųjų misionierių, veikusių prūsų žemėse.
@@ -70,109 +77,14 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
 - susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66768|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.
 - susijęs iš [[objektai/ivykiai/Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.).md#claim-t-185673|Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)]]: Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius Vytenio karius.
-- susijęs iš Treiderės upė: Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.
+- susijęs iš Treiderės upė: Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus.
 - susijęs iš Vysla: Brunonas išplaukė Vysla į jūrą ir priplaukė krantą Priegliaus žiotyse.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    4. Apie Kristaus karių ordino brolius
-
-      Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
-    suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
-    ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi
-    Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo
-    metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;
-    minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge
-    su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
-      165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
-    įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1009 m. vasario 14 d. Brunonas aisčių krašte buvo suimtas ir nužudytas su visais palydovais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau
-    1008 m. gale jis iš-
-    vyko iš Lenkijos
-    aisčių krikštyti net
-    su 18 palydovų.
-    Bet ir jo misijos
-    nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
-    vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Brunonas 1008 m. pabaigoje išvyko iš Lenkijos krikštyti aisčių su 18 palydovų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau
-    pas tą patį lenkų
-    kunigaikštį Boles-
-    lovą atvyko naujas
-    misijonierius vo-
-    kietis _Brunonas,_
-    kurs, būdamas vie-
-    nuolis, turėjo _Bo-
-    nifaco_ vardą. Bo-
-    leslovas jo misi-
-    joms pažadėjo pa-
-    ramos. Pagaliau
-    1008 m. gale jis iš-
-    vyko iš Lenkijos
-    aisčių krikštyti net
-    su 18 palydovų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po to nugalėtojai, paleisti pasiplėšti grobio,
-    nusiaubė visas apylinkes, naikindami ugnimi ir kala­
-    viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­
-    toli Livonijos įlankos, magistras Brunonas nirtulingai
-    juos užpuolė prie Treiderės upės, jau apsikrovusius
-    grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal
-    dėl to, kad neturėjo po ranka kariuomenės (paprastai
-    šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
-    džiusi po kaimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-85622
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 44"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
 
@@ -245,21 +157,27 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 - id: c-168043
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 175"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 175."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to nugalėtojai, paleisti pasiplėšti grobio,
-    nusiaubė visas apylinkes, naikindami ugnimi ir kala­
-    viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­
+    Pavijęs siaubėjus ne­
     toli Livonijos įlankos, magistras Brunonas nirtulingai
     juos užpuolė prie Treiderės upės, jau apsikrovusius
     grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal
     dėl to, kad neturėjo po ranka kariuomenės (paprastai
     šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
-    džiusi po kaimus.
+    džiusi po kaimus. Kai žuvo aštuoni šimtai lietuvių, o
+    trys tūkstančiai buvo paimta į nelaisvę, rodėsi, jog
+    kryžiuočiai netoli pergalės, o lietuviams belieka bėgti.
+    Kartais vis dėlto beviltiškoje padėtyje gelbsti ir tai,
+    kad nėra kur bėgti. Kadangi iš užpakalio buvo jūra,
+    vienoje pusėje trukdė Treiderės upė, o kitoje pusėje
+    ir priekyje puolė priešai, jie turėjo kariauti, nes ne­
+    buvo jokios vilties pabėgti.
+  citata_rodoma: "Po to nugalėtojai, paleisti pasiplėšti grobio,\nnusiaubė visas apylinkes, naikindami ugnimi ir kala­\nviju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­\ntoli Livonijos įlankos, magistras Brunonas nirtulingai\njuos užpuolė prie Treiderės upės, jau apsikrovusius\ngrobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal\ndėl to, kad neturėjo po ranka kariuomenės (paprastai\nšitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­\ndžiusi po kaimus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184682
+    - t-196431

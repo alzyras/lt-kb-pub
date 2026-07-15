@@ -49,7 +49,7 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
   pagrindžia:
     - c-94135
 - susijęs iš [[objektai/daiktai/Didysis Lietuvos antspaudas.md#claim-t-19514|Didysis Lietuvos antspaudas]]: Po Liublino unijos LDK išlaikė atskirą iždą, kariuomenę, teismus ir Trečiojo Lietuvos Statuto įformintą teisinę sistemą.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184599|Liublino unija (1569 m.)]]: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu.
+- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184599|Liublino unija (1569 m.)]]: Cituojamoje istoriografinėje interpretacijoje unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos.
 - susijęs iš [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.).md#claim-t-23347|Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]: 1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi.
 - susijęs iš [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.).md#claim-t-23348|Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]: 1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą.
 - susijęs iš [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių.md#claim-t-183293|Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)]]: 1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų teisine norma.
@@ -77,7 +77,6 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
 - susijęs iš Brasta: 1544 m. Brastos seime Žygimantas dar prieš mirtį atidavė sūnui Lietuvos valdžią.
 - susijęs iš Krokuva: Seime Lietuva turėjo tik trečdalį vietų, nes buvo prilyginta vienai Lenkijos provincijai greta Didžiosios Lenkijos su Poznane ir Mažosios Lenkijos su Krokuva.
 - susijęs iš Ukraina: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos.
-- susijęs iš Vilnius: 1544 m. Žygimantui perdavus Lietuvos valdžią sūnui, Vilnius vėl tapo pagrindiniu valdžios židiniu.
 - susijęs iš [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas.md#claim-t-22099|daugiakonfesiškumas daugiakultūriškumas]]: Lenkijoje ir Lietuvoje tolerancijos ribos siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
 - susijęs iš [[objektai/zodynas/daugiakonfesiškumas.md#claim-t-22100|daugiakonfesiškumas]]: Lenkijoje ir Lietuvoje tolerancijos ribos siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101586|federacija federacinė valstybė]]: Po unijos LDK išlaikė atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.
@@ -85,27 +84,6 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
 - susijęs iš [[objektai/zodynas/federacinė valstybė.md#claim-t-185383|federacinė valstybė]]: Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtinės valstybės suverenu.
 - susijęs iš [[objektai/zodynas/feodalinis imunitetas.md#claim-t-185384|feodalinis imunitetas]]: Žymesnieji buržuazinės istoriografijos atstovai feodalinio imuniteto saugojimą vaizdavo kaip valstybės ar tautos reikalų gynimą.
 - susijęs iš [[objektai/zodynas/šlėktų luomas Magdeburgo teisės.md#claim-t-86631|šlėktų luomas Magdeburgo teisės]]: Pirmasis Lietuvos Statutas buvo skirtas šlėktų luomui, o miestui buvo garantuojamos Magdeburgo teisės.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos bajorija priešinosi bendram kodeksui, nes nenorėjo išsižadėti savo statuto ir atskirų teisių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Atmetė jį svarbiausia dėl valstiečiams
-    duodamųjų palengvinimų. „Mužikus nori padaryti
-    bajorais, o mus — mužikais", — šaukė bajorija. (Lietuvos bajo-
-    rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
-    skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
-    dėti savo statuto, t. y. savo atskirų teisių).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-94135
@@ -125,5 +103,5 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100292
     - t-100291
+    - t-100292

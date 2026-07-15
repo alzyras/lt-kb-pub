@@ -42,26 +42,6 @@ Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vl
 - susijęs iš Turovas: Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų.
 - susijęs iš Černigovas: Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu.
 - susijęs iš Černigovas: Černigovo vyskupas dalyvavo stačiatikių vyskupų susirinkime, kuris išleido aplinkraštį dėl teisių gynimo nuo Rusijos metropolitų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tada pats Naugarduko susirinkimas Cem­
-    blaką paskyrė Kijevo metropolitu. Susirinkusieji stačiatikių
-    vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro,
-    Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo
-    Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­
-    tropolitų savo teises. Taip Vytautas vėl atgaivino Kijeve at­
-    skirą Lietuvai stačiatikių metropoliją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38465

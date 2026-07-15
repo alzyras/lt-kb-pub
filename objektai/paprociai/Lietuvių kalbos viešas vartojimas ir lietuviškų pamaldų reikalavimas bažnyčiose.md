@@ -76,48 +76,6 @@ Nenurodyta
   teiginys: "Krikščionys demokratai ir būsimi tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose."
   pagrindžia:
     - c-73168
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus
-    atrado dar vieną – lenkų polonizatorius. Jau ne vienos šeimos kalbėjimas
-    lietuviškai viešai, pamaldų lietuvių kalba reikalavimai bažnyčiose kėlė len-
-    kiškai kalbančiųjų opoziciją. Dvarininkai, gindamiesi nuo „litvomanijos“,
-    vis labiau tolo nuo lietuviškai kalbančių kaimo gyventojų, o tautiškai ne-
-    susipratę kunigai jau rimtai kirtosi su lietuvių aspiracijomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Krikščionys demokratai ir būsimi tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iš lietuvių grupuočių stipriausias pozicijas įgijo krikščionys demokratai,
-    daugiausia katalikų dvasininkai, apsisprendę pritarti etninių lietuvių tauti-
-    niam sąjūdžiui, galėję veikti per Bažnyčią, jos globojamas kultūros ir švie-
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    125
-    timo organizacijas, gausią spaudą. Daugiausia dėmesio jie skyrė katalikišką
-    doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai. Kartu su
-    būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-
-    no Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos
-    bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
 
 ## Citatos
 
@@ -138,6 +96,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75368
+    - t-75370
 
 - id: c-73168
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -160,5 +119,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75371
     - t-75369
+    - t-75371

@@ -57,24 +57,6 @@ Nenurodyta
   teiginys: "1992 m. Lietuva ir ES pasirašė prekybos, komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė deklaraciją dėl politinio dialogo."
   pagrindžia:
     - c-23031
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1992 m. Lietuva ir ES pasirašė prekybos, komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė deklaraciją dėl politinio dialogo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1992 m. Lietuva ir ES pasirašė Prekybos
-    ir komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė dekla-
-    raciją dėl politinio dialogo tarp ES ir Lietuvos. Nuo oficialių diplomatinių
-    santykių su Lietuva užsimezgimo ES per PHARE programą pradėjo teikti
-    pagalbą Lietuvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

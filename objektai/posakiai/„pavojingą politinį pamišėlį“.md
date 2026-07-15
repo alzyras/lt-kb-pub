@@ -41,23 +41,6 @@ Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo
   teiginys: "1935 m. A. Smetona privačiai apibūdino A. Hitlerį kaip „pavojingą politinį pamišėlį“, galintį dėl pseudoidėjų išnaikinti pusę Europos."
   pagrindžia:
     - c-75170
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1935 m. A. Smetona privačiai apibūdino A. Hitlerį kaip „pavojingą politinį pamišėlį“, galintį dėl pseudoidėjų išnaikinti pusę Europos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Plebiscitas Saro krašte ir jo prijungimas prie Vokietijos išgąsdino
-    Lietuvos vadovus. A. Smetona privačiai 1935 m. A. Hitlerį apibūdino
-    kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendini-
-    mo gali išnaikinti pusę Europos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

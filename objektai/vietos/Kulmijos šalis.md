@@ -37,25 +37,6 @@ Daugiausia buvo varginama Kulmijos šalis.
     - c-90715
 - susijęs iš Dresvenco upė: Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.
 - susijęs iš Visla: Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Per karo veiksmus Prūsijoje apie Vyslą ir Dravę daugiausia buvo varginama Kulmijos šalis.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tačiau šį kartą Vytautui neteko
-    su Ordino kariuomene susitikti atvirame mūšyje, nes vokiečiai
-    buvo užsidarę pilyse ir reikėjo kiekvieną jų imti atskirai. Vi­
-    sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­
-    ro sūkurin. Daugiausia buvo varginama Kulmijos šalis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-90715

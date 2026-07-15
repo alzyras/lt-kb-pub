@@ -80,98 +80,6 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   teiginys: "Odesos universiteto istorikas V. V. Antonovičius iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties."
   pagrindžia:
     - c-50253
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos istorijos klausimus
-    nuo XIII a. vidurio iki Liublino unijos savo paskaitose Peter­
-    burgo universitete 1908-1910 m. lietė ir A. E. Presniako­
-    vas 145. Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­
-    čių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo
-    žemės istoriją iki mongolų laikų ir toliau kaip tą žemę užval­
-    dė Lietuvos kunigaikščiai^146.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pačioje Ukrainoje šiuo
-    metu reiškiasi D. Pochilevyč, Lvovo univ. prof. Jis davė
-    naujų tyrinėjimų apie Lietuvos, Gudijos ir Ukrainos (t. y. D. Liet.
-    Kunigaikštystės ploto) kaimo ūkinius santykius^148.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-003
-  santrauka: 'E. I. Leontovičius ir M. F. Vladimirskis-Budanovas buvo teisės istorikai, tyrę Lietuvos valstybės teisinius santykius ir institucijas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Užtat rusų istorikai davė ir Lietuvai pavadinimą «Litovsko —
-    russkoje gosudarstvo» (Lietuviu ir rusu valstybė). Jiems rūpėjo
-    išsiaiškinti, kokis buvo tos valstybės charakteris, kokie buvo joje
-    teisiniai santykiai.
-    Čia reikia pirmiausia paminėti du žymius teisės istorikus,
-    kuriedu yra palikę daug studijų ir straipsnių iš Lietuvos valstybės
-    teisiniu santykių ir institucijų : E. I. Leontovičių ir M. F.
-    Vladimirskį-Budanovą 187.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Odesos universiteto istorikas V. V. Antonovičius iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    XIX amžiui einant į galą rusų universitetų istorikams vis
-    daugiau ėmė parupti išsiaišinnti, kas buvo anoji Lietuvos valstybė,
-    kuri nuo XIII amž. per du šimtus metų nepaliovė užimti plačius
-    rytų slavų plotus. Odesos universiteto istorikas V. V. Antono­
-    vičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­
-    bės istoriją iki Gedimino mirties (AnM, AnOč). Jo veikalo skyriai
-    apie Vytenį ir Gediminą buvo išversti ir lietuviškai^134.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­
-    čių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo
-    žemės istoriją iki mongolų laikų ir toliau kaip tą žemę užval­
-    dė Lietuvos kunigaikščiai^146. Kitas ukrainietis istorikas V. Zai­
-    kinas rašė iš teisės filosofijos ir religijos istorijos srities, lies­
-    damas D. Lietuvos Kunigaikštystę^147.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -193,8 +101,8 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47899
     - t-47898
+    - t-47899
 
 - id: c-30852
   autorius: "Zenonas Ivinskis"

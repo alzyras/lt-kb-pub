@@ -42,23 +42,6 @@ Useser, H.: Götternamen, (cap. 7 : Solmseh, F.
   teiginys: "H. Useseris nurodytas kaip veikalo „Götternamen“ autorius."
   pagrindžia:
     - c-32940
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    _Pagoniškųjų laidojimo papročių nykimas rytų Lietuvoje),_ AkMD, t. 48,
-    1974, 77-90 p. ; (2. _Pagonybės liekanos Pakalniškiuose XVI-XVII am­
-    žiais),_ AkMD, t. 49, 1974, 71-89 p. — (”) _Laidosena Lietuvoje XIV-XVII
-    amžiais,_ AkMD, t. 22, 1966, 105-119 p.—Useser, H.: _Götternamen,_
-    (cap. 7 : Solmseh, F. : _Litauische Götternamen,_ Bonn 1896).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

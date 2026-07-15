@@ -54,40 +54,12 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
 - susijęs iš Padneprė: Pečenegų orda Charoboe turėjo dalį Padneprės žemių tarp Dnepro ir Bugo aukštupio, o jos sostine nurodomas Belotzebo miestas.
 - susijęs iš [[objektai/autoriai/Konstantinas Purpurinis.md#claim-t-191585|Konstantinas Purpurinis]]: Pasak Purpurinio, Charoboe ordos sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove.
 - susijęs iš Belaja Cerkovė: Pasak Purpurinio, pečenegų ordos Charoboe sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų palikuonys ar dalis, susiformavusi iš hunams giminingų genčių likučių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Juo labiau kad poloviečiai nebuvo atskira tauta, bet bu­
-    vo palikuonys ar dalis pečenegų, kurie, — o tai pana­
-    šiausia į tiesą, — susiformavo iš likučių giminingų hunų
-    genčių, persikėlusių į kairiąją Dnestro pakrantę, išsis­
-    klaidžiusių po Atilos sūnų žlugimo. Nebūtina dėstyti
-    žinomų istorinių dalykų apie pečenegus, nes tai nesusiję
-    su mūsų tema. Pasakysime tik tiek, kad pečenegus, po
-    hunų ir avarų įsikūrusius krašte, esančiame Dunojaus ir
-    Dnepro tarpupyje, 915 metais pažino pietų rusai, ir nuo
-    tada jie įvairiai figūravo jų istorijoje. 1121 metais juos
-    galutinai ir visiškai nugalėjo graikų imperatorius Jonas
-    Komninas, tad nuo šio laiko skaičiuojami pečenegų vardo
-    smukimo metai2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175759
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 105"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 105."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Juo labiau kad poloviečiai nebuvo atskira tauta, bet bu­
     vo palikuonys ar dalis pečenegų, kurie, — o tai pana­

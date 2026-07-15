@@ -56,8 +56,8 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
   teiginys: "Teodoro Narbuto aiškinimu, Warikt lietuvių kalboje reiškė varyti, ginti gyvulius ir ganyti."
   pagrindžia:
     - c-175067
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -82,21 +82,22 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
 - id: c-175067
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 264"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 264."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Varmija (Warmia). Pavadinimą galbūt davė gentys,
-    kurios buvo vadinamos varinais; lietuvių kalba tai reiš­
-    kia piemenį, t. y. nuo žodžio Warikt, varyti, ginti gyvu­
-    lius, ganyti*. Tai viena gražiausių prūsų provincijų,
+    Tai viena gražiausių prūsų provincijų,
     esanti palankioje vietoje, tinkamoje gyvulininkystei, jai
     priklausė ir pradingęs Vitlandijos kraštas, įtvirtinti Bai­
     gos, Purverės, šiandien Heilsbergo, Glotau ir kiti miestai.
+    Rytuose ji ribojosi su Natangija ir Barta, pietuose — su
+    Galinda ir Hokerlandija, vakaruose — su Hokerlandija
+    ir Pagude, šiaurėje buvo Baltijos jūra. Šioje provincijoje
+    gyvenę žmonės laikėsi švelnių papročių, buvo vieni iš
+    labiausiai civilizuotų ir mažiausiai karingi.
   citata_rodoma: "Pavadinimą galbūt davė gentys,\nkurios buvo vadinamos varinais; lietuvių kalba tai reiš­\nkia piemenį, t. y. nuo žodžio Warikt, varyti, ginti gyvu­\nlius, ganyti*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192207
     - t-192206
+    - t-192207

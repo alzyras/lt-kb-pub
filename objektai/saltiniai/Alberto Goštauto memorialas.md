@@ -5,8 +5,9 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
   - '1525 m.'
+  - '1529 m.'
 date_start: '1525'
-date_end: ''
+date_end: '1529'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,36 +32,23 @@ media_all_json: |-
 
 ## Santrauka
 
-Pagaliau, bene svarbiausias liudininkas Alberto Goš tauto naudai yra jo paties memorialas lotynų kalba, rašytas 1525 m. Lenkijos karaliaus ir Lietuvos did. ku nigaikščio Žygimanto II Kazimieraičio žmonai karalie nei Bonai Sforcai 5 8 .
+Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kaip jo paties panegirika ir Goštautų istorijos tęsinys. Goštauto me moriale esama ir daugiau elementų, atitinkančių By chovco kroniką.
 
 ## Teiginiai
 
 <a id="claim-t-194155"></a>
 - t-001
   global_id: t-194155
-  teiginys: "Pagaliau, bene svarbiausias liudininkas Alberto Goš tauto naudai yra jo paties memorialas lotynų kalba, rašytas 1525 m. Lenkijos karaliaus ir Lietuvos did. ku nigaikščio Žygimanto II Kazimieraičio žmonai karalie nei Bonai Sforcai 5 8 ."
+  teiginys: "Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kaip jo paties panegirika ir Goštautų istorijos tęsinys."
   pagrindžia:
     - c-176768
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Pagaliau, bene svarbiausias liudininkas Alberto Goš tauto naudai yra jo paties memorialas lotynų kalba, rašytas 1525 m. Lenkijos karaliaus ir Lietuvos did. ku nigaikščio Žygimanto II Kazimieraičio žmonai karalie nei Bonai Sforcai 5 8 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Pagaliau, bene svarbiausias liudininkas Alberto Goš­
-    tauto naudai yra jo paties memorialas lotynų kalba,
-    rašytas 1525 m. Lenkijos karaliaus ir Lietuvos did. ku­
-    nigaikščio Žygimanto II Kazimieraičio žmonai karalie­
-    nei Bonai Sforcai 5 8 . Dėmesį į šio kūrinio reikšmę at­
-    kreipė J. Ochmanskis 5 9 . Sis įdomus Renesanso epochos
-    5 1  2r.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196801"></a>
+- t-002
+  global_id: t-196801
+  teiginys: "Goštauto me moriale esama ir daugiau elementų, atitinkančių By chovco kroniką."
   pagrindžia:
-    - t-001
+    - c-178919
 
 ## Citatos
 
@@ -69,16 +57,50 @@ Pagaliau, bene svarbiausias liudininkas Alberto Goš tauto naudai yra jo paties 
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Pagaliau, bene svarbiausias liudininkas Alberto Goš­
-    tauto naudai yra jo paties memorialas lotynų kalba,
-    rašytas 1525 m. Lenkijos karaliaus ir Lietuvos did. ku­
-    nigaikščio Žygimanto II Kazimieraičio žmonai karalie­
-    nei Bonai Sforcai 5 8 . Dėmesį į šio kūrinio reikšmę at­
-    kreipė J. Ochmanskis 5 9 . Sis įdomus Renesanso epochos
-    5 1  2r.
+    Sutampa Bychovco kronikos ir A. Goštauto memo­
+    rialo tonas ir tendencija, nušviečiant Goštautų giminės
+    istorinį vaidmenį ir reikšmę Lietuvos valstybėje. Jeigu
+    Bychovco kronikoje buvo ypatingai iškelti A. Goštau­
+    to senelio Jono nuopelnai, o paties Alberto Goštauto
+    gyvenimo buvo pažymėti tik patys pirmieji žingsniai,
+    tai memorialas yra paties Alberto Goštauto panegirika
+    ir Goštautų istorijos požiūriu — tikras Bychovco kro­
+    nikos tęsinys. Kaip Bychovco kronikoje Jonas Goštau­
+    tas vaizduojamas Kazimiero Jogailaičio gelbėtoju, taip
+    memoriale Albertas Goštautas iškyla kaip Lietuvos
+    valstybės gelbėtojas, valdant Kazimiero sūnui Žygi­
+    mantui II.
+  citata_rodoma: "Pagaliau, bene svarbiausias liudininkas Alberto Goš­\ntauto naudai yra jo paties memorialas lotynų kalba, \nrašytas 1525 m. Lenkijos karaliaus ir Lietuvos did. ku­\nnigaikščio Žygimanto II Kazimieraičio žmonai karalie­\nnei Bonai Sforcai 5 8 . Dėmesį į šio kūrinio reikšmę at­\nkreipė J. Ochmanskis 5 9 . Sis įdomus Renesanso epochos\n5 1  2r."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194155
+
+- id: c-178919
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Visa tai labai lakoniškas, bet
+    neabejotinas pakartojimas to, kas apie tuos Goštautus,
+    “ Acla Tomiciana, t. VII. p. 263.
+
+    ypač apie Joną Goštautą, rašoma Bychovco kroni­
+    koje.
+    Antra vertus, tai taip pat rodo, kad Bychovco kro­
+    nika turėjo būti jau parašyta iki 1525 m., nes, kaip
+    anksčiau matėme, tame pačiame dešimtmetyje, prieš
+    1529 m., būta taip pat ir kai kurių kitų originaliųjų
+    Bychovco kronikos pasakojimų ir ji pati turėjo būti
+    galutinai suredaguota ne vėliau kaip 1529 m.
+    Be protėvių nuopelnų apibūdinimo, A. Goštauto me­
+    moriale esama ir daugiau elementų, atitinkančių By­
+    chovco kroniką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196801

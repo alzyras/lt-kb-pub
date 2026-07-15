@@ -35,31 +35,6 @@ O jeigu savo teisėjui užstatą parodytų po metų arba jeigu užstatas pas žy
   teiginys: "Jeigu užstatas pas žydą išbūdavo metus ir dieną, praėjus tam laikui jis dėl užstato nebeprivalėjo niekam atsakyti."
   pagrindžia:
     - c-82843
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jeigu užstatas pas žydą išbūdavo metus ir dieną, praėjus tam laikui jis dėl užstato nebeprivalėjo niekam atsakyti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    197
-
-    ## Puslapis 214
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    žydas savo teisėjui turi parodyti užstatą. O jeigu užstatas
-    nebuvo geras - savo teisėjui arba mūsų seniūnui vėl turi pa­
-    rodyti, o paskui parduoti jam bus leista. O jeigu savo teisėjui
-    užstatą parodytų po metų arba jeigu užstatas pas žydą būtų
-    metus ir dieną, tam laikui praėjus, jau neprivalo prieš nieką
-    dėl to atsakyti. Taip pat norime, kad nė vienas žydas dėl už­
-    stato išpirkimo savo švenčių netrukdytų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

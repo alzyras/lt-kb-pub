@@ -10,13 +10,13 @@ datos:
   - '1260 m.'
 date_start: '1246'
 date_end: '1260'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - ordinas
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -147,28 +147,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60137|Henrikas iš Veidos]]: Henrikas iš Veidos su broliais ir maldininkais užėmė pamedėnų pilį, stovėjusią vietoje, vėliau vadintoje Senuoju Kristburgu.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89158|Pagudėnai]]: Pagudėnai prie Kristburgo užpuolė tikinčiųjų pamedėnų pilaitę, į ją įsiveržė ir ją sugriovė.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ilgainiui pilyje vėl kilo toks baisus badas,
-    kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie
-    jų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei
-    laisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,
-    o pasiliko tik vienas kitas. Kokia nuostabi, kokia dosni dievo malonė, mielaširdingai
-    suteikta broliams bei kitiems krikščionims ne tik šioje pilyje, bet ir visoje Prūsijos žemėje
-    ir leidusi jiems vargti šį beveik nepakeliamą vargą, be galo priešingą žmogaus gyvenimo
-    reikmėms, taip kantriai  ir nuolankiai, kad jie ne tik neliūdėjo, bet visada džiūgavo,
-    tikėdamiesi galop pelnysią rojaus linksmybes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-002
   santrauka: 'Antra — Pamedė192, kurioje [gyveno] pamedėnai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -183,33 +161,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ordino pajėgos
-    1260 m. Klaipėdoje prieš Lietuvą buvo
-    sutelktos Livonijos ir Prūsijos kryžiuočių
-    ordinų pajėgos, broliai riteriai ir
-    i 4 jiems pavaldžių užgrobtų žemių
-    “prievarta buriami kariai (prūsai -
-    pamedėnai, notangai, varmiai, sem-
-    bai, o taip pat kuršiai, estai ir kt.), iš
-    Vokietijos žemių 30 naujai įstojusių Ordino
-    brolių būrys, Revelio (Talino) danų kariuo-
-    menė, vadovaujama švedų kunigaikščio
-    Karolio, turėjusio dar savo būrį. Į šią kry-
-    žiaus karo akciją buvo įtraukti ir prieš tuo
-    metu Rytų Europą užplūdusius totorius
-    gausiai suverbuoti kryžininkai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-007
 
 - c-004
   santrauka: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
@@ -293,49 +244,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindžia:
     - t-006
 
-- c-008
-  santrauka: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Įvyko šitaip todėl, kad pats Kristus,
-    kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
-    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
-    ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
-    karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
-    grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
-    nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
-    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
-    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
-    tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
-      307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-009
-  santrauka: 'Pamedės Reisių valsčiuje gyvenę pamedėnai buvo puolami grobimais, gaisrais ir kraujo praliejimu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    14. Apie daugelio pilių sunaikinimą ir pamedėnų pavergimą
-
-      Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų
-    ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė,
-    kamuodamas grobstymais bei gaisrais ir nuleisdamas netikėliams daug kraujo. Smarkiai
-    užpuolė jų pilį, pastatytą prie Mukeros upės235, bei visas pilaites [omnia propugnacula],
-
-      233  D.— castrum de Redino, Jer.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-010
   santrauka: 'Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -397,17 +305,16 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75698
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 138"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Ilgainiui pilyje vėl kilo toks baisus badas,
     kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie
-    jų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei
+    jų prisidėjusius, pasitraukti iš čia į kitas vietas, žadėdami palikti jiems visas teises bei
     laisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,
     o pasiliko tik vienas kitas. Kokia nuostabi, kokia dosni dievo malonė, mielaširdingai
     suteikta broliams bei kitiems krikščionims ne tik šioje pilyje, bet ir visoje Prūsijos žemėje
     ir leidusi jiems vargti šį beveik nepakeliamą vargą, be galo priešingą žmogaus gyvenimo
-    reikmėms, taip kantriai  ir nuolankiai, kad jie ne tik neliūdėjo, bet visada džiūgavo,
+    reikmėms, taip kantriai ir nuolankiai, kad jie ne tik neliūdėjo, bet visada džiūgavo,
     tikėdamiesi galop pelnysią rojaus linksmybes.
   statusas: verified
   teiginio_tipas: faktas
@@ -419,12 +326,14 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75699
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Lubavos191 [žemė], kuri prieš Teutonų ordino brolių atkilimą, galima sakyti, buvo
-    visiškai nusiaubta. Antra — Pamedė192, kurioje [gyveno] pamedėnai. Trečia — Pagudė193,
-    kurioje [gyveno] pagudėnai.
+    Kulmo pilis, pastatyta Vyslos deš. krante, galėjo būti vadinta lenkų žemėse populiariu
+    vardu Chełm, Chełmno (lotyniškuose dokumentuose Colmen, Culmen. ir pan.) dėl to, kad
+    vardas buvęs fonetiškai panašus į baltiškąjį hidronimą su *Kulm-(Kul-ma?). Lenkiškasis
+    pilies vardas lygintinas ir su prūsų kelmis, kelmo užrašymo variantais: chelmo, Chelmo
+    ‘kepurė’ (MPKP, 2, p. 34, 53, 279; Топоров B. H. Прусский язык, A—D, с.
+  citata_rodoma: "Lubavos191 [žemė], kuri prieš Teutonų ordino brolių atkilimą, galima sakyti, buvo\nvisiškai nusiaubta. Antra — Pamedė192, kurioje [gyveno] pamedėnai. Trečia — Pagudė193,\nkurioje [gyveno] pagudėnai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -457,25 +366,26 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78423
     - t-78422
+    - t-78423
 
 - id: c-75701
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie maldininkus ir Prūsijos žemei sugrąžintą taiką
     Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos
     kunigaikščiai, kurie pajuto jiems begalinį palankumą. Įvyko šitaip todėl, kad pats Kristus,
     kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
-    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    širdis, tad į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
     ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
     karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
     grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
     nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
     patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
     teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.
+  citata_rodoma: "Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos\nkunigaikščiai, kurie pajuto jiems begalinį palankumą. Įvyko šitaip todėl, kad pats Kristus,\nkuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams\nširdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais\nir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe\nkarių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir\ngrobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo\nnė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską\npatvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir\nteisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -486,17 +396,21 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75702
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 138"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šitai sužinoję, prūsai
-    įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
-    tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
-    ten jis, ilgesnį laiką pasirgęs, galop pagijo. Ilgainiui pilyje vėl kilo toks baisus badas,
-    kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie
-    jų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei
-    laisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,
-    o pasiliko tik vienas kitas.
+    Broliai ir miestiečiai su
+    savo ginklanešiais išpuolė į lauką, buvusį tarp miesto ir malūno, smarkiai juos užpuolė,
+    daugybę nukovė ar mirtinai sužeidė; kai jau tikėjosi juos visus iki vieno išžudę, staiga iš
+    pasalų iššoko prūsai ir išmušė visus brolius bei miestiečius, išskyrus kelis, pasprukusius
+    į miestą. Atkakliai juos persekiodami, prūsai po trumpų grumtynių užėmė miestą, dalį
+    gyventojų paėmė į nelaisvę, dalį išžudė, išskyrus tuos, kurie paspruko į pilį ir šitaip
+    išsigelbėjo. Ligi pamatų sugriovę ir sudeginę miestą, prūsai pasitraukė su dideliu grobiu.
+    148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą
+    Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio
+    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
+    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
+    pamedėnui, vardu Jonas, Sarginio sūnui.
+  citata_rodoma: "Šitai sužinoję, prūsai\nįtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,\ntol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,\nten jis, ilgesnį laiką pasirgęs, galop pagijo. Ilgainiui pilyje vėl kilo toks baisus badas,\nkad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie\njų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei\nlaisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,\no pasiliko tik vienas kitas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -507,18 +421,19 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75704
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 139"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
+    Apie antrąjį minėtojo Marienverderio miesto sugriovimą
+    Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio
     miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
     prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
     pamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš
     Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
     šalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio
     miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė
-    žūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
+    žūties, pabėgdami į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
     buvo arba paimti į nelaisvę, arba užmušti.
+  citata_rodoma: "Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio\nmiestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė\nprie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam\npamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš\nElbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi\nšalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio\nmiesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė\nžūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji\nbuvo arba paimti į nelaisvę, arba užmušti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -529,16 +444,21 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75705
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Mat velnias, žmonių giminės
-    nedraugas ir tikėjimo priešas, apsigyvenęs jų širdyje, iš neapykantos taikai pakurstė
-    juos dar kartą sukelti maištą ir niekšingai pradėti karą. Jo patarti ir paskatinti, visi,
-    išskyrus ištikimuosius pamedėnus, susimokė dar kartą atsimesti nuo krikščionybės.
-    Tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti
-    užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus
-    ir juos išsivarė į nelaisvę.
+    Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių
+    apygardų nusiaubimą ir Klemento pilies sugriovimą
+    Tuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras,
+    kuris, šiaip jau apdairiai tvarkęs, ūkio reikalus, kur kas mažiau tiko karui (matyt, mažiau
+    buvo tam linkęs), todėl jis ir negebėjo duoti deramo atkirčio priešo išpuoliams. Dėl
+    to sūduviai vis dažniau įsibraudavo į Kulmo žemę ir, smarkiai nuniokoję dievo tautą,
+    viską šioje žemėje sudeginę bei išgrobstę, pasitraukdavo; pajutę, kad niekas jiems
+    nebesipriešina, jie išdrįsdavo net su maža kariuomene brautis į Kulmo žemę. Galop
+    magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį
+    karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele
+    kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems pastodavo
+    478  Istorijos šaltiniai rodo, kad prūsai ir lietuviai turėjo monogamines šeimas.
+  citata_rodoma: "Mat velnias, žmonių giminės\nnedraugas ir tikėjimo priešas, apsigyvenęs jų širdyje, iš neapykantos taikai pakurstė\njuos dar kartą sukelti maištą ir niekšingai pradėti karą. Jo patarti ir paskatinti, visi,\nišskyrus ištikimuosius pamedėnus, susimokė dar kartą atsimesti nuo krikščionybės.\nTačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti\nužpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus\nir juos išsivarė į nelaisvę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -549,12 +469,11 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75706
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Įvyko šitaip todėl, kad pats Kristus,
     kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
-    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    širdis, tad į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
     ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
     karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
     grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
@@ -562,7 +481,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
     teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
     tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
-      307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
+    307  Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -573,8 +492,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75709
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 75"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     14. Apie daugelio pilių sunaikinimą ir pamedėnų pavergimą
 
@@ -594,17 +512,18 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75711
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 139"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą
-
-      Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
-    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
-    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
-    pamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš
-    Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
-    šalys patyrė didelių nuostolių sužeistaisiais.
+    Apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį
+    Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.
+    Brolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise
+    Kristus, penkiskart sužeistas, ir krito kovoje, o šito jis ne kartą buvo su ašaromis
+    viešpaties prašęs. Galop prūsai, iš visų pusių apsiautę pilį, pradėjo smarkiai ją pulti.
+    Broliai priešindamiesi daugybę jų nukovė arba mirtinai sužeidė strėlėmis. Tada perpykę
+    prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;
+    vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė
+    brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais.
+  citata_rodoma: "148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą\n\n  Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio\nmiestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė\nprie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam\npamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš\nElbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi\nšalys patyrė didelių nuostolių sužeistaisiais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -615,15 +534,16 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75712
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Šis regėjimas taip juos nugąsdino, taip
+    palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
     142 (137). Apie vienos pilaitės užkariavimą
-
-      Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
+    Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
     užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
-    įsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į
+    įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
+  citata_rodoma: "142 (137). Apie vienos pilaitės užkariavimą\n\n  Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai\nužpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją\nįsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į\nKristburgo pilį, iš pagrindų sugriovė šią pilaitę417."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -634,15 +554,18 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-171183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 178"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
-    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
-    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
-    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
-    mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
-    rybė moka daryti stebuklus lengvatikių akyse.
+    Jiems nusilenkdavo pats Pušaitis, prašydamas
+    kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
+    jus nuo nelaimingų žmonių engimo.
+    Barstukai (Barstuki)
+    Požemio dievaičiai, nykštukai. Tą vardą Stenderis išveda
+    iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
+    ke - lėlė. Kitaip juos vadindavo piktukais nuo Piktas', netoli
+    Vilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose
+    vadinosi pursčiai (Puršcie).
+  citata_rodoma: "Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­\nkė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai\nprisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada\nnelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-\nmi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­\nrybė moka daryti stebuklus lengvatikių akyse."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

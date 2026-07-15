@@ -35,21 +35,6 @@ media_all_json: |-
   teiginys: "(^4) ) — Išeidamas iš susirinkimo Vytautas kalbėjo: „kiedy tak, užyję ja innych środków do dopięcia celu“."
   pagrindžia:
     - c-177347
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '(^4) ) — Išeidamas iš susirinkimo Vytautas kalbėjo: „kiedy tak, užyję ja innych środków do dopięcia celu“.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    (^4) ) — Išeidamas iš susirinkimo Vytautas kalbėjo: „kiedy tak, užyję
-    ja innych środków do dopięcia celu“. (Dług., IV, 344).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

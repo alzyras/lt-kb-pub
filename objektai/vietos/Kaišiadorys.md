@@ -52,41 +52,6 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
   teiginys: "Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą Kaišiadorių ir Alytaus kryptimis."
   pagrindžia:
     - c-175931
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jonas Misiūnas vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vokiečių okupacijos metais buvo geležinkelių apsaugos polici-
-    ninkas Kaišiadoryse. 1944 m. įstojo į Vietinę rinktinę. Sovietams pakartotinai okupavus Lietuvą, 1944 m. organizavo
-    partizanų būrį. Su savo maždaug 200 partizanų daliniu J. Misiūnas nuolat keliavo po Ukmergės
-    ir Trakų apskritis ir nevengdamas susidūrimų kovėsi su sovietais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą Kaišiadorių ir Alytaus kryptimis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Santarvei ypač rū-
-    pėjo, kad tarp valstybių, kariaujančių su bolševikais, nebūtų
-    vaidų. Tačiau lenkai ne tik kad nesustabdė kovos, bet dar
-    ėmė veržtis į Lietuvą Kaišiadorių ir Alytaus kryptimis. Lie-
-    tuvos delegacija tada vėl kreipėsi į konferenciją, kad ji nustatytų
-    laikinę demarkacijos liniją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

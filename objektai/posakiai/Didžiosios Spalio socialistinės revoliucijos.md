@@ -40,26 +40,6 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
   teiginys: "Sovietiniai istorikai teigė, kad po „Didžiosios Spalio socialistinės revoliucijos“ Lietuvoje prasidėjo naujas laikotarpis."
   pagrindžia:
     - c-33470
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet ji
-    pasidaro pati reikšmingiausia lietuvių tautai. To tomo uždavinys
-    yra parodyti, kaip «Didžiosios Spalio socialistinės revoliucijos»
-    pasėkoje buvęs pradėtas visai naujas laikotarpis Lietuvoje, kai
-    buvusi įkurta Lietuvos Tarybų socialistinė respublika. Neigdami
-    tikrąją Vasario 16-tosios (1918) akto reikšmę čia tarybiniai istorikai
-    pabrėžė, jog tikrasis Lietuvos valstybingumas tebuvęs atkurtas
-    pasėkoje liaudies masių judėjimo ir proletarinės revoliucijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

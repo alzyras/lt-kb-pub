@@ -7,14 +7,14 @@ datos:
   - '1290 m.'
 date_start: '1290'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ežeras
   - jūra
   - vieta
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „druska“ ir sieja su kadaise sūriu vandeniu. Narbutas rašo, kad 1290 m. Christburgas buvo prie pat Drūsinės ežero, nors jo laikais nuo ežero nutolęs penkias mylias.
+Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „druska“ ir sieja su kadaise sūriu vandeniu. Narbutas rašo, kad 1290 m. Christburgas buvo prie pat Drūsinės ežero, nors jo laikais nuo ežero nutolęs penkias mylias. Rytuose siena driekėsi net: iki Elbingo upės, Drūsinės ežero, paskui tiesiai palei Sirgunės upę (arba Sorge) net iki Osos, taigi Christburgo ir Rizenburgo valsčiai dar priklausė šiai provincijai.
 
 ## Teiginiai
 
@@ -43,16 +43,15 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   pagrindžia:
     - c-175585
 
-<a id="claim-t-192816"></a>
+<a id="claim-t-197870"></a>
 - t-002
-  global_id: t-192816
-  teiginys: "Narbutas rašo, kad 1290 m. Christburgas buvo prie pat Drūsinės ežero, nors jo laikais nuo ežero nutolęs penkias mylias."
+  global_id: t-197870
+  teiginys: "Rytuose siena driekėsi net: iki Elbingo upės, Drūsinės ežero, paskui tiesiai palei Sirgunės upę (arba Sorge) net iki Osos, taigi Christburgo ir Rizenburgo valsčiai dar priklausė šiai provincijai."
   pagrindžia:
-    - c-175586
+    - c-179373
 - susijęs iš Pagudė: Pagudė vakaruose ribojosi su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės ežeras.
 - susijęs iš Lovetės giria: Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp kitų to krašto didelių miškų.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „druska“ ir sieja su kadaise sūriu vandeniu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -75,39 +74,21 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas rašo, kad 1290 m. Christburgas buvo prie pat Drūsinės ežero, nors jo laikais nuo ežero nutolęs penkias mylias.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pietuose, Christ-
-    347
-
-    ## Puslapis 358
-
-    burgo link, jis tęsėsi irgi toliau. Buvo laikai, kai jo van­
-    denys skalavo Baumgarto kaimą; dar 1290 metais pats
-    Christburgas buvo prie pat ežero, o šiandien jis nutolęs
-    net penkias mylias. Be to, jis buvo nepalyginti platesnis,
-    nes vakarų pusėje plytėjo net iki Tirgarteno kaimo, o ry­
-    tų — Holando kalvos priėjo netoli jo pakrančių; visa tai
-    patvirtina rašytiniai duomenys ir vietiniai stebėjimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-175585
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 357"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai pa­
+    Esama neabejotinų įro­
+    dymų apie tolimais amžiais šiose vietose gyvenusių žmo­
+    nių, visuomet garsėjusių prekyba, turtingumą; kasinėjant
+    netoli Elbliongo, aptikta labai dailių aukso, sidabro ir
+    kitokių auksuotų metalų papuošalų, molio, vaško ir pana­
+    šių į mozaiką, dažytų vėrinių, kurie sudaro įdomiausią
+    dalį senovės paminklų, saugomų Karaliaučiaus Archyvo
+    kabinete; kitur panašių beveik nepavykdavo rasti. Tai pa­
     minklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų
     keliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­
     vo gamybos blizgučius. Drūsinės, arba Druso, ežeras
@@ -117,6 +98,7 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
     lyginti didesnis ir užėmė didesnę šios provincijos dalį: į
     šiaurę jis tyvuliavo gerokai toliau — net iki dabartinio
     Elbliongo, šiandien esančio per mylią.
+  citata_rodoma: "Tai pa­\nminklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų\nkeliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­\nvo gamybos blizgučius. Drūsinės, arba Druso, ežeras\nvadinamas šitaip nuo žodžio Druskas, druska, todėl, kad\nkitados jis susisiekdavo didesniais sąsiauriais su jūra;\ntaigi jo vanduo buvo sūrus. Senovėje ežeras buvo nepa­\nlyginti didesnis ir užėmė didesnę šios provincijos dalį: į\nšiaurę jis tyvuliavo gerokai toliau — net iki dabartinio\nElbliongo, šiandien esančio per mylią."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -124,26 +106,20 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   pagrindzia:
     - t-192815
 
-- id: c-175586
+- id: c-179373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pietuose, Christ-
-    347
-
-    ## Puslapis 358
-
-    burgo link, jis tęsėsi irgi toliau. Buvo laikai, kai jo van­
-    denys skalavo Baumgarto kaimą; dar 1290 metais pats
-    Christburgas buvo prie pat ežero, o šiandien jis nutolęs
-    net penkias mylias. Be to, jis buvo nepalyginti platesnis,
-    nes vakarų pusėje plytėjo net iki Tirgarteno kaimo, o ry­
-    tų — Holando kalvos priėjo netoli jo pakrančių; visa tai
-    patvirtina rašytiniai duomenys ir vietiniai stebėjimai.
+    Bet ši išvada nepaplito,
+    nes buvo pernelyg dirbtinė. Iš šiaurės ją skalauja Aist­
+    marės, iš vakarų •— 'Vysla. Rytuose siena driekėsi net: iki
+    Elbingo upės, Drūsinės ežero, paskui tiesiai palei Sirgu-
+    nės upę (arba Sorge) net iki Osos, taigi Christburgo ir
+    Rizenburgo valsčiai dar priklausė šiai provincijai.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192816
+    - t-197870

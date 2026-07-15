@@ -43,23 +43,6 @@ Bardach, J.
   teiginys: "J. Bardach knygoje apie Lietuvos Didžiosios Kunigaikštystės santvarką ir teisę paskelbė darbą „Akt w Krewie“."
   pagrindžia:
     - c-32956
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1932. — Bardach, J. : _Akt w Krewie,_ jo knygoje _Studia z ustroju i
-    prawa Wielkiego Księstwa Litewskiego XIV-XVII w.,_ Warszawa 1970,
-    18-38 p. — Fijalek, J. : _Uchrześcijanieuie Litwy przez Polskę,_ PiL, 1914,
-    37-333 p. — Halecki, O. : _Dzieje unii jagiellońskiej_ , I-II, Kraków
-    1919, 1920.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

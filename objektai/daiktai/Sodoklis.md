@@ -54,8 +54,9 @@ Nenurodyta
   global_id: t-195305
   teiginys: "Sodoklis aprašytas kaip akmeninis dalgio galandimo įrankis šienapjūtėje."
   pagrindžia:
-    - c-177676
     - c-177675
+    - c-177676
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

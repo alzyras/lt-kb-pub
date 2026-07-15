@@ -8,12 +8,12 @@ datos:
   - '1978 m.'
 date_start: '1975'
 date_end: '1978'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,8 @@ Dusburgietis teigia, kad mažiulis V.
   teiginys: "V. Mažiulio „Prūsų etimologijos“ publikuotos „Baltistica“ 1975 m. ir 1978 m. numeriuose."
   pagrindžia:
     - c-61801
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Mažiulio „Prūsų etimologijos“ publikuotos „Baltistica“ 1975 m. ir 1978 m. numeriuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -62,11 +62,12 @@ Dusburgietis teigia, kad mažiulis V.
 - id: c-61801
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Mažiulis V. Seniausias baltų rašto paminklas — Baltistica, 1975, 11 (2), p. 125—131.
     Mažiulis V. Prūsų etimologijos.— Baltistica, 1975, 11 (1), p. 83—85; 1978, 14 (1), p.
     52—55; 1978, 14 (2), p. 95—99.
+  citata_rodoma: "Mažiulis V. Prūsų etimologijos.— Baltistica, 1975, 11 (1), p. 83—85; 1978, 14 (1), p.\n52—55; 1978, 14 (2), p. 95—99."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

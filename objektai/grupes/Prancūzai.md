@@ -49,32 +49,37 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - c-78179
 
 <a id="claim-t-81591"></a>
-- t-002
+- t-003
   global_id: t-81591
   teiginys: "Prancūzai, vadovaujami Boucicaut'o, per kautynes pridarė nemažai žalos apgultiesiems."
   pagrindžia:
     - c-78180
 
 <a id="claim-t-81592"></a>
-- t-003
+- t-004
   global_id: t-81592
   teiginys: "Prancūzai priėmė lenkų kvietimą į dvikovą ir kautynių vieta pasirinko Prahą."
   pagrindžia:
     - c-78187
 
 <a id="claim-t-81593"></a>
-- t-004
+- t-005
   global_id: t-81593
   teiginys: "Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius."
   pagrindžia:
     - c-78185
 
 <a id="claim-t-183891"></a>
-- t-005
+- t-006
   global_id: t-183891
   teiginys: "1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas."
   pagrindžia:
     - c-167276
+
+- t-002
+  teiginys: 'Prancūzai, vadovaujami Boucicaut''o, per kautynes pridarė nemažai žalos apgultiesiems.'
+  pagrindžia:
+    - c-002
 - susijęs iš [[objektai/grupes/Flandrai.md#claim-t-62997|Flandrai]]: Prancūzų ir flandrų kautynėse abi šalys prarado daug užmuštųjų.
 - susijęs iš Klaipėda: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
@@ -200,7 +205,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - susijęs iš Ruro kraštas (kraštas): Vakaruose vyko ginčai dėl nesumokėtų Vokietijos reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą.
 - susijęs iš Rusija: T. Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare, o mūšyje prie Abo miesto buvo kontūzytas.
 - susijęs iš Stabina: Lietuvos vyriausybė pasiūlė laikiną demarkacijos liniją, kuri turėjo eiti per Grabovą, Augustavą ir Stabiną.
-- susijęs iš Vilnius: 1812 m. rugsėjo 22 d. Michałas Balińskis įstojo į Vilniaus universiteto Fizikos ir matematinių mokslų fakultetą.
 - susijęs iš [[objektai/zodynas/Aitvaras viršgulis.md#claim-t-189112|Aitvaras viršgulis]]: Narbutas cituoja F. Noelį, kad demonografai išgalvojo viršgulius Incubi ir apačgulius Succubi, kankinančius žmones per miegą.
 - susijęs iš [[objektai/zodynas/Status quo.md#claim-t-22026|Status quo]]: 1939 m. pradžioje britams ir prancūzams negarantuojant Klaipėdos status quo, Lietuva be pagalbos nebegalėjo jos išlaikyti.
 - susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-05586|Suverenitetas]]: Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.
@@ -217,138 +221,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - susijęs iš [[objektai/grupes/Templininkų ordinas.md#claim-t-72652|Templininkų ordinas]]: Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino.
 - susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
 - susijęs iš [[objektai/ivykiai/Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.).md#claim-t-62780|Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)]]: Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1390 m. žygyje prancūzams ir kitiems kariams vadovavo riteris Boucicaut.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mykolą paskirtas Ordino didžiuoju
-    maršalu, 1387 metais per Apreiški­
-    mo Marijai šventę tapo didžiuoju
-    komtūru arba arkikomtūru, 1390
-    rugpjūčio 15 d., po didžiojo magistro
-    Konrado Ciolnerio fon Rotenšteino
-    mirties, - ir didžiojo magistro vieti­
-    ninku, iki pat kapitulos suvažiavi­
-    mo, ir tik 1391 m. kovo 12 d. išrink­
-    tas didž. magistru; mirė 1393 m.
-    liepos 25 d.
-    119
-
-    ## Puslapis 136
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    lankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­
-    bio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­
-    no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos
-    sostą23. Prancūzams ir kitiems kariams vadovavo narsusis
-    riteris Boucicaut24. Prie Kauno su jais susijungė, be Žemai-
-    23
-    Strijkovskis apsirinka nurody­
-    damas, esą Lankasteris, Anglijos ka­
-    raliaus Henriko sūnus, su didžiulė­
-    mis anglų, škotų bei prancūzų ir 1.1,
-    pajėgomis įsibrovė į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Prancūzai, vadovaujami Boucicaut''o, per kautynes pridarė nemažai žalos apgultiesiems.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    —  •  —
-    125
-
-    ## Puslapis 142
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    jo jie visa širdimi linko, nes jis buvo Birutės, jų žemietės, sū­
-    nus. Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi
-    žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­
-    du Boucicaut'u nemažai buvo pridarę žalos apgultiesiems,
-    pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir
-    tuščios garbės pasigviešę, iš tolimų kraštų atvyko lieti tokių
-    pačių, kaip ir jie, krikščionių, kraujo. Pagaliau, nurodydami
-    jiems patikimesnį kelią į tokios rūšies garbę, patarinėjo ge­
-    riau vykti pas turkus, tuo laiku puldinėjusius Europą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytauto rūpesčiu žemaičiai Karaliaučiuje
-    sudarė sutartį su Ordinu, taigi Vytauto galia vėl sustiprėjo,
-    ir didysis magistras, įsitikinęs, jog lietuvių pajėgos susi­
-    skaldžiusios, ėmė ruoštis į pakartotiną, bet daug reikšmin­
-    gesnį žygį, kurio tikslas jau buvo ne tik apiplėšti Lietuvą,
-    tačiau užimti jos sostinę ir įkurdinti ten Vytautą21. Kai rug­
-    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
-    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
-    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
-    jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
-    vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
-    esanti pagonių šalis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Prancūzai priėmė lenkų kvietimą į dvikovą ir kautynių vieta pasirinko Prahą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tos
-    niautynės pagaliau baigėsi prancūzų iškvietimu kautis, jiems
-    lenkai paaiškino, kad jeigu esą tikri riteriai ir norį parodyti
-    narsą, nustatytas jų skaičius tepasirenka tam vietą. Prancū­
-    zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o
-    imperatorių Vaclovą abiejų tautų teisėju pasirinkę32.
-    Taip įvairioms kautynėms ir ginčams besitęsiant praėjo
-    penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­
-    nėje pilyje33.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-005
-  santrauka: '1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Konstantinopolio miesto užėmimą
-
-      1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog
-    niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai,
-    įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir
-    apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
-    lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-78179
@@ -466,8 +338,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - id: c-167276
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 225"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Konstantinopolio miesto užėmimą
 

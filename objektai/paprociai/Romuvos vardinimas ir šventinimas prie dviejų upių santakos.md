@@ -55,8 +55,8 @@ Nenurodyta
   teiginys: "Narbutas Romuvą vadina lietuvių dievų šventove ir teigia, kad lietuvių gentys ją šventindavo prie dviejų upių santakos."
   pagrindžia:
     - c-174957
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Romuvą vadina lietuvių dievų šventove ir teigia, kad lietuvių gentys ją šventindavo prie dviejų upių santakos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -86,13 +86,9 @@ Nenurodyta
 - id: c-174957
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 205"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 205."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    I
-    viduryje atsiduria Oskolo upės slėnis, galima lengvai su­
-    prasti, kad gelonai gyveno1 šiandienėje Starobelsko ap­
-    skrityje, arba prie Doneco ir Sulos aukštupių (§58). Bū­
+    Bū­
     tent ten į Sulos upę įteka upė Romna, prie jos žiočių
     buvusi senovinė Romno tvirtovė, o šiandien slaviškai va­
     dinamas Romno miestelis. Sis pavadinimas mums prime­
@@ -100,7 +96,15 @@ Nenurodyta
     arba lietuvių dievų šventovės, kurią, kad ir kur ji būtų,
     lietuvių genties kartos vadindavo tik taip ir turėjo įprotį
     jas šventinti tokioje vietoje prie dviejų upių, t. y. jų san­
-    takoje.
+    takoje. Sis pavadinimas, praėjus daugeliui amžių ir su­
+    nykus senovės paminklams, ligi šiol išlikęs prie mažo
+    upelio ir ant jo kranto esančioje gyvenvietėje, be abejo,
+    gali pažadinti kuo atidžiausią senovės tyrinėtojo dėmesį
+    ir paaiškinti jo smalsumą toliau ieškoti, ar šioje Ukrainos
+    dalyje, kur ir žemės derlingiausios, yra gana nemažai miš­
+    kų ir dosnios gamtos turtų tam, kad lengvesnis ir gra­
+    žesnis būtų žmonių gyvenimas, nepasiseks aptikti seno­
+    vės genčių paminklų.
   citata_rodoma: "buvusi senovinė Romno tvirtovė, o šiandien slaviškai va­\ndinamas Romno miestelis. Sis pavadinimas mums prime­\nna vardą lietuvių šventojo miesto Romnome, Romuvos,\narba lietuvių dievų šventovės, kurią, kad ir kur ji būtų,\nlietuvių genties kartos vadindavo tik taip ir turėjo įprotį\njas šventinti tokioje vietoje prie dviejų upių, t. y. jų san­\ntakoje."
   statusas: verified
   teiginio_tipas: faktas

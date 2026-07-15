@@ -50,8 +50,8 @@ Nenurodyta
   teiginys: "Narbutas aiškina, kad religiniai atvaizdai, simboliai, paminklai ir trofėjai, pažymėti tikėjimo ženklu, susiliejo su religija."
   pagrindžia:
     - c-172626
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas aiškina, kad religiniai atvaizdai, simboliai, paminklai ir trofėjai, pažymėti tikėjimo ženklu, susiliejo su religija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -78,18 +78,19 @@ Nenurodyta
 - id: c-172626
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 82."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Dėl to buvo išrasti atvaizdai, sim­
-    boliai, paminklai, trofėjai. Jie, pažymėti tikėjimo ženklu, susi­
-    liejo su pačia religija, Dievo garbinimo įrankiai virto Dievo
-    atvaizdais. Perdėtas šito naudojimas lengvai virto paklydimu,
-    siekiančiu taip toli, kad laikui bėgant priemonės, atvaizdai,
-    ženklai patys virto dievais. Tiesą sako „Antilukrecijaus“ auto­
-    rius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir
-    žmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­
-    namomis su smilkytuvu rankose“1.
+    Graikai, kitokio dangaus ir sąmonės tauta, perėmę iš egip­
+    tiečių dalį dangaus kūnų ir Titanų giminės garbinimą, išvystė
+    malonesnio pavidalo savo daugiadievystę.
+    Reto sumanumo tos tautos protas sugebėjo gražiau suri­
+    kiuoti dievų hierarchiją, į kurią vis labiau kišosi žyniai - ne be
+    naudos savo profesijai. Gražmenų tam nemirtingajam dievų
+    būriui pridėjo poetai, be kurių jis greitai būtų netekęs reikš­
+    mės.
+    Savo ruožtu romėnai - kuo jie darėsi galingesni ir labiau
+    apsišvietę, tuo labiau grimzdo į daugiadievystės chaosą.
+  citata_rodoma: "Dėl to buvo išrasti atvaizdai, sim­\nboliai, paminklai, trofėjai. Jie, pažymėti tikėjimo ženklu, susi­\nliejo su pačia religija, Dievo garbinimo įrankiai virto Dievo\natvaizdais. Perdėtas šito naudojimas lengvai virto paklydimu,\nsiekiančiu taip toli, kad laikui bėgant priemonės, atvaizdai,\nženklai patys virto dievais. Tiesą sako „Antilukrecijaus“ auto­\nrius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir\nžmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­\nnamomis su smilkytuvu rankose“1."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

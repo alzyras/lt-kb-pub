@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-186856"></a>
 - t-001
   global_id: t-186856
-  teiginys: "Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo."
+  teiginys: 'Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo.'
   pagrindžia:
     - c-170039
 - susijęs iš [[objektai/daiktai/Karinė apranga, ginklai ir grandinės padėkos aukoje.md#claim-t-189684|Karinė apranga, ginklai ir grandinės padėkos aukoje]]: Narbutas padėkos auką aprašė kaip apeigą, per kurią ant laužo sudegindavo žymų belaisvį su žirgu, karine apranga ir ginklais.
@@ -71,7 +71,7 @@ Nenurodyta
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190317|Herodotas]]: Pasak Herodoto, skitai, laidodami savo karalius, užmušdavo jų mylimiausius tarnus.
 - susijęs iš [[objektai/autoriai/Horacijus.md#claim-t-190392|Horacijus]]: Narbutas mini Horacijaus 28-ąją odę kaip tekstą, kuriame kalbama apie filosofo Archilo šmėklą.
 - susijęs iš [[objektai/daiktai/Ginklai.md#claim-t-185851|Ginklai]]: Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis.
-- susijęs iš [[objektai/daiktai/Karinė ginkluotė ginklai.md#claim-t-185853|Karinė ginkluotė ginklai]]: Vaidevutis vengė karinių stovyklų, nes iš patirties matė, kad ginklą paėmę žmonės suįžūlėja ir nebeklauso įsakymų.
+- susijęs iš [[objektai/daiktai/Karinė ginkluotė ginklai.md#claim-t-185853|Karinė ginkluotė ginklai]]: Kojelavičiaus pasakojime Vaidevutis vengė karinių stovyklų, nes matė, kad ginklą paėmę žmonės suįžūlėja ir nebeklauso įsakymų.
 - susijęs iš [[objektai/grupes/Galai ir skandinavai.md#claim-t-189515|Galai ir skandinavai]]: Narbutas rašė, kad lietuviai ant laidotuvių laužo kraudami mirusiajam brangius daiktus sekė senovės galais ir skandinavais.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178874|Kryžiuočių ordinas]]: XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.
 - susijęs iš [[objektai/grupes/Tamplierių ordinas.md#claim-t-89286|Tamplierių ordinas]]: 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.
@@ -95,30 +95,8 @@ Nenurodyta
 - susijęs iš Nemunas: Narbutas rašė matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus per Išlaužą.
 - susijęs iš Paryžius: Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje.
 - susijęs iš Prienai: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
-- susijęs iš [[objektai/zodynas/prastuomenė.md#claim-t-185408|prastuomenė]]: Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, todėl pilis atiteko Vytautui.
+- susijęs iš [[objektai/zodynas/prastuomenė.md#claim-t-185408|prastuomenė]]: Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, kai apsiaustoje pilyje baigėsi maistas ir pilis atiteko Vytautui.
 - susijęs iš [[objektai/zodynas/Traknienius.md#claim-t-195461|Traknienius]]: Traknieniai šiame šaltinyje reiškia darbą, susijusį su pėdų laužymu ir trynimu.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    ’*  Legenda apie Kukovaičio mišką, tapatinamą su Ročkalniu
-    prie Šventosios ties Deltuva, yra. veikiausiai, patekusi | Lietuvos
-    metraščių PS per Kęsgailas, Žemaičių senitinus ir Trakų kaštelionus,
-    kadangi Deltuva XV ir XVI a. pirm ojoje pusėje buvo Kęsgailų
-    tėviškė. Pagal J . Dlugošą Kukovaičio („Kokivvejtos'') m iške prie
-    Maišiagalos buvę sudeginti an t laužo mirusio Algirdo palaikai
-    (Jana Dlugosza, kanonika krakowsklcgo. dzlejów polsklch kslęg
-    dwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_vaizdinys
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-170039
@@ -135,9 +113,9 @@ Nenurodyta
     (Jana Dlugosza, kanonika krakowsklcgo. dzlejów polsklch kslęg
     dwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444).
   citata_rodoma: "Legenda apie Kukovaičio mišką, tapatinamą su Ročkalniu \nprie Šventosios ties Deltuva, yra. veikiausiai, patekusi | Lietuvos \nmetraščių PS per Kęsgailas, Žemaičių senitinus ir Trakų kaštelionus, \nkadangi Deltuva XV ir XVI a. pirm ojoje pusėje buvo Kęsgailų \ntėviškė. Pagal J . Dlugošą Kukovaičio („Kokivvejtos'') m iške prie \nMaišiagalos buvę sudeginti an t laužo mirusio Algirdo palaikai \n(Jana Dlugosza, kanonika krakowsklcgo. dzlejów polsklch kslęg \ndwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444)."
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186856
+    - t-001

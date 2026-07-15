@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Basanavičiaus aiškinimu, lenkiškoji dvasiškija Lietuvoje palaikė ir plėtė lenkišką įtaką, o lietuvių švietimą vedė lenkiška dvasia.
+Basanavičiaus aiškinimu, lenkiškoji dvasiškija Lietuvoje palaikė ir plėtė lenkišką įtaką, o lietuvių švietimą vedė lenkiška dvasia. Basanavičiaus vertinimu, lenkiškoji dvasiškija, perėmusi lietuvių sąžinės reikalus, rūpinosi politiškai ir tautiškai naikinti Lietuvos savarankiškumą.
 
 ## Teiginiai
 
@@ -32,6 +32,13 @@ Basanavičiaus aiškinimu, lenkiškoji dvasiškija Lietuvoje palaikė ir plėtė
   teiginys: "Basanavičiaus aiškinimu, lenkiškoji dvasiškija Lietuvoje palaikė ir plėtė lenkišką įtaką, o lietuvių švietimą vedė lenkiška dvasia."
   pagrindžia:
     - c-184223
+
+<a id="claim-t-200887"></a>
+- t-002
+  global_id: t-200887
+  teiginys: "Basanavičiaus vertinimu, lenkiškoji dvasiškija, perėmusi lietuvių sąžinės reikalus, rūpinosi politiškai ir tautiškai naikinti Lietuvos savarankiškumą."
+  pagrindžia:
+    - c-184232
 
 ## Citatos
 
@@ -60,3 +67,31 @@ Basanavičiaus aiškinimu, lenkiškoji dvasiškija Lietuvoje palaikė ir plėtė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200878
+
+- id: c-184232
+  autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
+  šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
+  puslapiai: "PDF 40"
+  indeksas: "Jonas Basanavičius; V. Gintautas (vertė), Lenkai Lietuvoje Dr. J. Basanavičius, PDF 40."
+  citata_originali: |
+    Musų aprašym as sanlygų, terp kurių tęsėsi be­
+    veik 500-metinis viešpatavim as lenkų Lietuvoje,
+    perstato mums tik menką paveikslą viso to, kas ti­
+    krai buvo.
+    Silpnas ir netoli m atąs Jagēla tapo la­
+    bai lengvai ir dailiai apipainiotas ano laiko lenkų
+    dipliom atišku tinklu, o lenkiškoji dvasiškija, pa-
+    stv ērusi į savo rankas sanżinę — ergo ir veikalus
+    — lietuvių, pasiru pino išnaikinti Lietuvos savisto-
+    vystę politiškai-nacionališkoje prasm ēje.
+    Olesnic­
+    ki paduoda mums geriausią, galima sakyt, kliasis-
+    ką pavyzdį prietikių, kokius, aplamai im ant, turējo
+    lenkai, o ypatingai lenkiškoji bażnyčia su tyrai lie­
+    tuviškais interesais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200887

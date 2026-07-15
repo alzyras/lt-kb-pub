@@ -66,74 +66,7 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
   teiginys: "Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės."
   pagrindžia:
     - c-48525
-
-<a id="claim-t-183480"></a>
-- t-003
-  global_id: t-183480
-  teiginys: "Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės."
-  pagrindžia:
     - c-26787
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių,
-    istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu-
-    bernijos šiaurinis pakraštys. Bet rytiniai ir pietrytiniai šio ploto pakraš-
-    čiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo)
-    procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės,
-    laikant save tiesiog čiabuviais (tuteišiais). Mat baltarusių šnekta pragma-
-    tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
-    ponus bei kunigus, ir rusų valdžios atstovus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1819 m. nuo Vilniaus
-    gubernijos atskirtas ir Kuršo (Kurliandijos) gubernijai perduotas siauras
-    Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.
-    Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių,
-    istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu-
-    bernijos šiaurinis pakraštys. Bet rytiniai ir pietrytiniai šio ploto pakraš-
-    čiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo)
-    procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės,
-    laikant save tiesiog čiabuviais (tuteišiais).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Bet rytiniai ir pietrytiniai šio ploto pakraš-
-    čiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo)
-    procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės,
-    laikant save tiesiog čiabuviais (tuteišiais). Mat baltarusių šnekta pragma-
-    tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
-    ponus bei kunigus, ir rusų valdžios atstovus. Didesnį pagreitį šis procesas
-    įgis XIX a. antrojoje pusėje, jį sustabdys atsiradę autoritetingi etninių lie-
-    tuvių tautinio sąjūdžio veikėjai, daugiausia kunigai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -151,12 +84,10 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
     tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
     ponus bei kunigus, ir rusų valdžios atstovus.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183480
-
 - id: c-26891
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

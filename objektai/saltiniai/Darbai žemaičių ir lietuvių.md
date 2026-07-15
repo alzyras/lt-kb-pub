@@ -34,28 +34,6 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   teiginys: "Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“, kai Lietuvos praeities tyrimų dar buvo nedaug."
   pagrindžia:
     - c-84392
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“, kai Lietuvos praeities tyrimų dar buvo nedaug.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš
-    tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet
-    veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­
-    vo. Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
-    čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
-    tautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­
-    ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
-    formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
-    mą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

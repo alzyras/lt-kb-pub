@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę. Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.
+Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę. Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją. Pasak Kojelavičiaus, po Traidenio pasitraukimo Skomantas su žemaičių ir sūduvių kariais įsiveržė į tas pačias žemes ir nusiaubė Kujaviją.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -54,97 +54,44 @@ Nenurodyta
   global_id: t-185648
   teiginys: "Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją."
   pagrindžia:
-    - c-169009
-## Reikšmingi paminėjimai
+    - c-169008
 
-- c-001
-  santrauka: 'Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vargu ar galima patikėti, kad per
-    tokį trumpą laiką po Šventaragio mirties (tai yra vos
-    per dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­
-    džiais jaunikaičiais, bet ir vyrais, galinčiais valstybę
-    valdyti. Valdovo sūnus ar seserėnas Traidenis, pačiam
-    Giliginui dar esant gyvam, išsivedė sutelkęs ir apgink­
-    lavęs asmeniškomis lėšomis trisdešimties tūkstančių
-    kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo­
-    menės jis nusiaubė Mazoviją, o su likusiais dviem treč­
-    daliais— Kulmo žemę. Po atkaklios apsiausties užėmęs
-    Birgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­
-    vė pilį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196260"></a>
+- t-003
+  global_id: t-196260
+  teiginys: "Pasak Kojelavičiaus, po Traidenio pasitraukimo Skomantas su žemaičių ir sūduvių kariais įsiveržė į tas pačias žemes ir nusiaubė Kujaviją."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po atkaklios apsiausties užėmęs
-    Birgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­
-    vė pilį. Traideniui su didžiuliu grobiu pasitraukus iš
-    priešų krašto, beveik jo pėdomis įsiveržė čia naujas
-    priešas ir vėl nusiaubė viską ugnimi ir kalaviju. \ tas
-    pačias žemes įsibrovė Skomantas su žemaičių ir sūdu­
-    vių kariais: jis sudegino apiplėštus Liubavos ir Kulmo
-    miestus ir nusiaubė visą Kujaviją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-169008
 
 ## Citatos
 
 - id: c-169008
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 132."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vargu ar galima patikėti, kad per
-    tokį trumpą laiką po Šventaragio mirties (tai yra vos
-    per dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­
-    džiais jaunikaičiais, bet ir vyrais, galinčiais valstybę
-    valdyti. Valdovo sūnus ar seserėnas Traidenis, pačiam
+    Valdovo sūnus ar seserėnas Traidenis, pačiam
     Giliginui dar esant gyvam, išsivedė sutelkęs ir apgink­
     lavęs asmeniškomis lėšomis trisdešimties tūkstančių
     kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo­
     menės jis nusiaubė Mazoviją, o su likusiais dviem treč­
     daliais— Kulmo žemę. Po atkaklios apsiausties užėmęs
     Birgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­
-    vė pilį.
+    vė pilį. Traideniui su didžiuliu grobiu pasitraukus iš
+    priešų krašto, beveik jo pėdomis įsiveržė čia naujas
+    priešas ir vėl nusiaubė viską ugnimi ir kalaviju. \ tas
+    pačias žemes įsibrovė Skomantas su žemaičių ir sūdu­
+    vių kariais: jis sudegino apiplėštus Liubavos ir Kulmo
+    miestus ir nusiaubė visą Kujaviją. Vėlėliau antrą kar­
+    tą mažas lietuvių lengvųjų raitelių būrys, įžygiavęs į
+    Lenčicos kraštą, netikėtai užpuolė Lenčicos miestą ir
+    bemaž pirmu antpuoliu jį užėmė.
+  citata_rodoma: "Vargu ar galima patikėti, kad per\ntokį trumpą laiką po Šventaragio mirties (tai yra vos\nper dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­\ndžiais jaunikaičiais, bet ir vyrais, galinčiais valstybę\nvaldyti. Valdovo sūnus ar seserėnas Traidenis, pačiam\nGiliginui dar esant gyvam, išsivedė sutelkęs ir apgink­\nlavęs asmeniškomis lėšomis trisdešimties tūkstančių\nkariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo­\nmenės jis nusiaubė Mazoviją, o su likusiais dviem treč­\ndaliais— Kulmo žemę. Po atkaklios apsiausties užėmęs\nBirgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­\nvė pilį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185647
-
-- id: c-169009
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 132."
-  citata_originali: |
-    Po atkaklios apsiausties užėmęs
-    Birgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­
-    vė pilį. Traideniui su didžiuliu grobiu pasitraukus iš
-    priešų krašto, beveik jo pėdomis įsiveržė čia naujas
-    priešas ir vėl nusiaubė viską ugnimi ir kalaviju. \ tas
-    pačias žemes įsibrovė Skomantas su žemaičių ir sūdu­
-    vių kariais: jis sudegino apiplėštus Liubavos ir Kulmo
-    miestus ir nusiaubė visą Kujaviją.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
     - t-185648
+    - t-196260

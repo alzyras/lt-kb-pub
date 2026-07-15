@@ -37,34 +37,6 @@ media_all_json: |-
   teiginys: "Jonas Švitrigaila buvo Trakų kaštelionas, priskirtas Lietuvos didikams."
   pagrindžia:
     - c-83713
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jonas Švitrigaila buvo Trakų kaštelionas, priskirtas Lietuvos didikams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šioje sutartyje tarp kunigaikščių
-    ir prelatų nurodyti: Černigovo ku­
-    nigaikštis Švitrigaila, Vilniaus vys­
-    kupas Motiejus ir Medininkų (Žemai­
-    tija) vyskupas nominatas Mikalojus.
-    Tarp Lietuvos didikų buvo: Žemai­
-    čių seniūnas Mykolas Skirgaila ir
-    Trakų kaštelionas Jonas Švitrigaila,
-    Šalčininkų seniūnas Mantautas. Tie
-    vardai liudija, kad juos turėjo ne tik
-    asmenys iš Jogailos giminės, kaip
-    dabar būtų linkę teigti kai kurie, pa­
-    tys turintys tokius ar panašius var­
-    dus, bet buvo tai lietuviški vardai,
-    pagonybės laikais turėti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

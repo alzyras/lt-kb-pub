@@ -35,38 +35,17 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
   teiginys: "Juodutis buvo Naudžioto, sembų valstiečių išrinkto karvedžio, tėvas."
   pagrindžia:
     - c-60984
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Juodutis buvo Naudžioto, sembų valstiečių išrinkto karvedžio, tėvas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai apie tai išgirdo Sklunijos valsčiaus vyrai, sugrąžino, gailėdamiesi nusikaltę,
-    Karaliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo. Kiti
-    sugrąžino belaisvius,  ir šitaip Notangos žemėje įsiviešpatavo ramybė. Vis dėlto, kai
-    Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
-    ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
-    bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
-    kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60984
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 189"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai apie tai išgirdo Sklunijos valsčiaus vyrai, sugrąžino, gailėdamiesi nusikaltę,
     Karaliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo. Kiti
-    sugrąžino belaisvius,  ir šitaip Notangos žemėje įsiviešpatavo ramybė. Vis dėlto, kai
+    sugrąžino belaisvius, ir šitaip Notangos žemėje įsiviešpatavo ramybė. Vis dėlto, kai
     Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
     ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
     bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,

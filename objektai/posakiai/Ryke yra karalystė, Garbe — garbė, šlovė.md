@@ -28,7 +28,6 @@ media_all_json: |-
 Senovės prūsų vietovardžių aiškinimas, kuriame pati formulė pateikiama kaip žodžių reikšmių aiškinimas apie Rykgarbeno vardą.
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -45,3 +44,25 @@ Senovės prūsų vietovardžių aiškinimas, kuriame pati formulė pateikiama ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-175010
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    tvirtovių gynėjai, be to, karingi ir drąsus mūšio lau­
+    ke. Tačiau svarbiausia istorijai yra ta šios provinci­
+    jos vieta, kur Gubros upė susilieja su Alna; dabar ten
+    yra Sipapilio miestas. Jis jau anksčiau viliojo tyrinė­
+    tojus, ten apskritai buvo aptinkama nemažai dalykų, ku­
+    rie galėjo patvirtinti prielaidą, jog ten kitados turėjo būti
+    Romovės šventykla. Visa tai buvo grindžiama Romsdorfo
+    ir Rykgarbeno kaimų pavadinimais; senovės prūsų kalba
+    Ryke yra karalystė, Garbe — garbė, šlovė.
+  citata_rodoma: "Romovės šventykla. Visa tai buvo grindžiama Romsdorfo\n  ir Rykgarbeno kaimų pavadinimais; senovės prūsų kalba\n  Ryke yra karalystė, Garbe — garbė, šlovė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

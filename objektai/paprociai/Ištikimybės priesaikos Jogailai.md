@@ -72,43 +72,6 @@ Nenurodyta
   teiginys: "Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos."
   pagrindžia:
     - c-160253
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet veikiai kunigaikščiams reikėjo
-    grįžti namo, nes Polocko kunigaikštis Andrius drauge su Livo-
-    nijos ordinu ir Smolensko kunigaikščiu Sviatoslavu vėl pradėjo
-    karą prieš Jogailą. Pirmučiausia šitam reikalui iš Krokuvos
-    buvo atleisti Skirgaila su Vytautu. Išvykdami jie buvo pri-
-    versti duoti priesaika patvirtintus raštus, kad amžinai būsią
-    ištikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pa-
-    šaukti tuojau atvyksią į Lenkiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogailą ir Karūną, ir prieš juos nekilti^1 ). Tokią ištikimybės prie­
-    saiką tuo laiku iš viso buvo padarytos trys^2 ).
-    Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­
-    kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
-    stojo savo galios^3 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-189723"></a>
 - t-001
   global_id: t-189723
-  teiginys: "Masonų organizacijose kampainis simbolizavo sąžinę."
+  teiginys: 'Masonų organizacijose kampainis simbolizavo sąžinę.'
   pagrindžia:
     - c-172606
 - susijęs iš [[objektai/daiktai/Akacijos šakelė.md#claim-t-189716|Akacijos šakelė]]: Masonų taurės atvaizde akacijos šakelė gulėjo ant staltiese užtiesto stalo šalia kaukolės, kalavijo, kampainio, skriestuvo ir kitų simbolių.
@@ -60,35 +60,6 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/T. Narbuto įstojimas į masonų organizaciją (1817 m.).md#claim-t-187976|T. Narbuto įstojimas į masonų organizaciją (1817 m.)]]: R. Klimavičiaus nuomone, 1817 m. T. Narbutas įstojo į masonų organizaciją.
 - susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187824|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: R. Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją, vėliau rašė ugdymo ir auklėjimo temomis.
 - susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187827|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Masonų organizacijose kampainis simbolizavo sąžinę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuvos istorijos ir etnografijos
-    muziejaus rinkiniuose saugoma taurė -  masonų apeigų atri­
-    butas. Viename taurės šone išraižytas įrašas „Teodor Narbutt“,
-    7
-
-    ## Puslapis 7
-
-    s
-    s
-    kitame -  staltiese užtiestas stalas, ant kurio padėta žmogaus
-    kaukolė, kalavijas, akacijos šakelė, kampainis, skriestuvas, pa­
-    statytos svarstyklės, žiūronas ir deganti žvakė, į kurios šviesą
-    skrenda drugelis. Masonų organizacijose kampainis simboli­
-    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
-    čiausiąjį protą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-172606
@@ -116,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189723
+    - t-001

@@ -43,24 +43,6 @@ Tik jų įpėdiniai iki pat 1918 m. (Jurgio Matulaičio paskyrimas) jau nebesir�
   teiginys: "Jurgis Matulaitis buvo paskirtas 1918 m., kai baigėsi laikotarpis, kuriuo įpėdiniai nebesirūpino lietuvių kalbos teisėmis."
   pagrindžia:
     - c-32765
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Abu pirmieji Vilniaus vyskupai buvo pranciškonai
-    (Andrius Vosila, Jokūbas Plichta), jau nuo anksčiau gyvenę Lie­
-    tuvoje ir mokėję lietuviškai^16. Tik jų įpėdiniai iki pat 1918 m.
-    (Jurgio Matulaičio paskyrimas) jau nebesirūpino teisėmis lietuvių
-    kalbos, kurią ilgai kalbėjo didelė dalis vyskupijos tikinčiųjų.
-    Pati Vilniaus katedra, gavusi šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

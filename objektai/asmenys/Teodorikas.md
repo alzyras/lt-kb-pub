@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Teodorikas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -44,19 +45,40 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   pagrindžia:
     - c-174113
 
-<a id="claim-t-191232"></a>
-- t-003
-  global_id: t-191232
-  teiginys: "Teodoriko žygyje į Italiją dalyvavo gotų karaliaus pakviesti kariai su šeimomis bei manta ir įvairūs kolonistai."
-  pagrindžia:
-    - c-174114
-
 <a id="claim-t-191233"></a>
 - t-004
   global_id: t-191233
   teiginys: "Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, o Narbutas jo vėlesnį Odoakro nužudymą sieja su vienvaldystės troškimu ir pavydu."
   pagrindžia:
     - c-174115
+
+<a id="claim-t-196603"></a>
+- t-005
+  global_id: t-196603
+  teiginys: "Nugalėtasis rugijų valdovas maldavo goto Teodoriko pagalbos, o Teodorikas vėliau siūlė herului taiką ir bendrą viešpatavimą Italijoje."
+  pagrindžia:
+    - c-178792
+
+<a id="claim-t-197829"></a>
+- t-006
+  global_id: t-197829
+  teiginys: "Galop jis slapta susitarė su Teodoriku, pasikliaudamas pažadais, o gal vildamasis sukelti barbarų valdovų tarpusavio karą; abiem šalims nusilpus, atsirastų proga pašalinti juos abu, be to, jis leido ostrogotams grobti ir Romą, ir Italiją."
+  pagrindžia:
+    - c-174113
+
+<a id="claim-t-197830"></a>
+- t-007
+  global_id: t-197830
+  teiginys: "Tik žinoma tai, kad Teodorikas paža dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam net tam tikrą valdžios dalį Italijoje arba patikėjo jam tam tikras valdas."
+  pagrindžia:
+    - c-174115
+
+<a id="claim-t-191232"></a>
+- t-003
+  global_id: t-191232
+  teiginys: 'Teodoriko žygyje į Italiją dalyvavo gotų karaliaus pakviesti kariai su šeimomis bei manta ir įvairūs kolonistai.'
+  pagrindžia:
+    - c-174114
 - susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191156|Teodorikas Didysis]]: Narbutas rašo, kad Zenonas slapta susitarė su Teodoriku ir, vildamasis barbarų valdovų tarpusavio karo, leido ostrogotams grobti Romą ir Italiją.
 - susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190945|Odoakras]]: Teodoro Narbuto pasakojime Odoakras naktį netikėtai puolė prie Ados stovyklavusius Teodoriko būrius, bet vėliau vos išsigelbėjo sprukdamas.
 - susijęs iš [[objektai/asmenys/Baza.md#claim-t-191375|Baza]]: Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas savo kariuomenių vadų pasitarimą.
@@ -86,53 +108,6 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
 - susijęs iš Pavija: Pavijoje Teodorikas buvo apsuptas mieste, kuris nuo Oresto pralaimėjimo buvo nepalankus Odoakrui ir vėliau buvo sustiprintas bei atstatytas.
 - susijęs iš [[objektai/asmenys/Tufą.md#claim-t-191330|Tufą]]: Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedžių, perėjo į Teodoriko pusę.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip sumanus, godus ir valdžios bei turtų troškęs žmogus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    322
-    Tuo metu ostrogotus1 2 valdė Teodorikas, ne tik retų
-    bruožų, bet ir gudrus, godus, sumanus žmogus, ištroškęs
-    valdžios ir turtų. Dažnos pergalės ir kovingumas darė jį
-    to amžiaus pirmuoju riteriu. Jis, sužinojęs apie O-doak-
-    ro karo žygius ir dorybingumą, apimtas karo šlovės įkarš­
-    čio, tuometiniu riteriškumo papročiu, apdovanojęs jį šar­
-    vais ir ginklais, paskelbė riterio sūnumi, prisiimdamas
-    atitinkamų įsipareigojimų3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas pasakoja, kad Zenonas slapta susitarė su Teodoriku ir leido ostrogotams grobti Romą bei Italiją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Galop jis slapta susitarė su Teodo-
-    riku, pasikliaudamas pažadais, o gal vildamasis sukelti
-    barbarų valdovų tarpusavio karą; abiem šalims nusilpus,
-    atsirastų proga pašalinti juos abu, be to, jis leido ostro-
-    gotams grobti ir Romą, ir Italiją. Nors Teodorikas gerai
-    perprato ketinimus visuomet klastingo Zenono, kuris jau
-    seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po
-    Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
-    ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
-    Bet dabartinėmis aplinkybėmis surengti Italijos žygį pa­
-    skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
-    ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
-    klausė Mezijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Teodoriko žygyje į Italiją dalyvavo gotų karaliaus pakviesti kariai su šeimomis bei manta ir įvairūs kolonistai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -164,33 +139,12 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   pagrindžia:
     - t-003
 
-- c-004
-  santrauka: 'Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, o Narbutas jo vėlesnį Odoakro nužudymą sieja su vienvaldystės troškimu ir pavydu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tik žinoma tai, kad Teodorikas paža­
-    dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam
-    net tam tikrą valdžios dalį Italijoje arba patikėjo jam
-    tam tikras valdas. Odoakras patikėjo gotų karaliui savo
-    sūnų Telaną. Bet jis, trokšdamas vienvaldystės ir kupi­
-    nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
-    sudarymo pažeisti svetingumo taisykles: jis savo ranko­
-    mis nužudė jo rūmuose puotavusį Odoakrą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-174112
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 318"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 318."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     322
     Tuo metu ostrogotus1 2 valdė Teodorikas, ne tik retų
@@ -211,8 +165,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
 - id: c-174113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 320"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Galop jis slapta susitarė su Teodo-
     riku, pasikliaudamas pažadais, o gal vildamasis sukelti
@@ -226,50 +179,25 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
     Bet dabartinėmis aplinkybėmis surengti Italijos žygį pa­
     skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
     ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
-    klausė Mezijoje.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191231
-
-- id: c-174114
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Tariamomis žygio priežastimis tapo
+    klausė Mezijoje. Tariamomis žygio priežastimis tapo
     kerštas už padarytą rugiams skriaudą ir vykdymas įsa­
     kymų Zenono, kuris tuomet buvo laikomas imperatoriumi
     visos Romos valstybės, buvusios iki jos pasidalijimo į
     Rytų ir Vakarų imperijas; kartu jis turėjo teisę savo nuo­
     žiūra skirti vietininkus Italijoje ir nušalinti jam neįtin­
     kančius.
-    326
-    Teodoriko žygyje dalyvavo gotų karaliaus pakviestos
-    didelės minios žmonių, tarsi skubėjusių įsikurti palaimin­
-    tame Italijos krašte; keliavo ne tik kariai su visa savo
-    manta, šeimomis ir pastogėmis, bet ir įvairūs kolonistai.
-    Paskui kariuomenę riedėjo specialiai padaryti dengti ve-
-    310
-
-    ## Puslapis 321
-
-    žiniai, galėję būti būstais, mašinos ir malūnai su visa
-    įranga.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191232
+    - t-191231
+    - t-197829
 
 - id: c-174115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 323"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tik žinoma tai, kad Teodorikas paža­
     dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam
@@ -278,10 +206,43 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
     sūnų Telaną. Bet jis, trokšdamas vienvaldystės ir kupi­
     nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
     sudarymo pažeisti svetingumo taisykles: jis savo ranko­
-    mis nužudė jo rūmuose puotavusį Odoakrą.
+    mis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai
+    gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
+    na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
+    dieną.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191233
+    - t-197830
+
+- id: c-178792
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Dvyliktaisiais
+    viešpatavimo metais, laimėjęs keletą mūšių, sumušė
+    rugijus, paėmė į nelaisvę karalių Feletėją, o jo sūnų
+    Fridrichą išvijo. Nugalėtasis rugijų valdovas maldavo
+    gotą Teodoriką pagalbos, tuo tarpu herulas, porą kar­
+    tų gotų sumuštas, stengėsi
+    487 m e ta i
+    atkurti savo kariauną, telk­
+    damas vyrus iš to Germani-
+    jos krašto, kuris jam mokėjo duoklę; vėliau, keletą
+    kartų su jais nelauktai susidūręs, nebesitikėjo sėkmės
+    atviroje kovoje ir pasitraukė į Raveną. Čia, visą ka­
+    riuomenę sutelkęs prie vieno miesto, gotas neįstengė
+    per trejetą apsupties metų nei priešo į kautynes išvi­
+    lioti, nei priversti jį pasiduoti, todėl pasiūlė herului
+    taiką šitokiomis sąlygomis, kad Italijoje viešpatautų
+    abu, turėdami vienodą galią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196603

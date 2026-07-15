@@ -43,28 +43,6 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
   teiginys: "1948 m. Šeinfeldo stovykloje Vokietijoje Lietuvos pabėgėliai rinkosi dalijamus drabužius."
   pagrindžia:
     - c-26530
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dėl įvairių priežasčių tokių valstybių skaičius mažė-
-    jo. LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento
-    Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde)
-    renkasi dalijamus drabužius, 1948 m.
-
-    L I E T U V O S  I S T O R I J A
-    226
-    F. Ruzvelto išleistas įsakymas, kuriuo įšaldy-
-    tos JAV bankuose laikytos Baltijos valstybių
-    lėšos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

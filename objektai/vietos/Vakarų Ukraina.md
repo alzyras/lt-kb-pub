@@ -43,27 +43,6 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
   teiginys: "Mindaugo, Vytenio ir Gedimino laikais prie Lietuvos prijungtos rusėnų žemės apėmė dalį dabartinės Vakarų Ukrainos."
   pagrindžia:
     - c-24533
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai šiek tiek primena frankus Galijoje,
-    t. y. germanų gentį, sukūrusią valstybę ir valdžios struktūras Galijoje ir
-    perėmusią vietinių žmonių kalbą bei kultūrą.
-    Algirdo didvalstybė
-    Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva
-    pasinaudojo pergale ir pajungė kai kurias rusų žemes. Mindaugo laikais
-    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
-    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
-    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

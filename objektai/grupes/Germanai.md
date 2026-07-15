@@ -118,9 +118,11 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - susijęs iš [[objektai/ivykiai/Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m.md#claim-t-191047|Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m]]: Narbutas apie 253 m. datuoja jungtinių finų, galindų ir venedų būrių karą su imperatoriumi Valuzianu, kai šis kariavo su sarmatais.
 - susijęs iš [[objektai/ivykiai/Kimbrų pergalė prieš konsulą Scipioną.md#claim-t-191870|Kimbrų pergalė prieš konsulą Scipioną]]: Teodoras Narbutas kimbrų pergalę prieš konsulą Scipioną 169 m. pr. Kr. siejo su nuo Baltijos pasitraukusiais kimbrais, kurių ainiai, jo manymu, gyveno prie Veronos.
 - susijęs iš [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.).md#claim-t-66801|Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]: 1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna.
+- susijęs iš [[objektai/paprociai/Gėrimas iš vienos taurės.md#claim-t-200734|Gėrimas iš vienos taurės]]: Rimvydas Laužikas europinio gėrimo iš vienos taurės papročio formavimą sieja su antikos kultūra, krikščionybe ir Šiaurės barbarikumu.
 - susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-93041|Lietuvos krikšto apeigos]]: 1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.
 - susijęs iš [[objektai/paprociai/Pergrubei skirtos pavasario aukos.md#claim-t-189853|Pergrubei skirtos pavasario aukos]]: Narbutas rašė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.
 - susijęs iš Ptolemėjaus Geographia: Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie provinciją tarp Olecko ir Raigardo, siejamą su Sūduva.
+- susijęs iš Abiejų Tautų Respublika: XVIII a. Abiejų Tautų Respublikoje bendras gėrimas iš vienos taurės užsieniečių buvo aiškinamas kaip svetingumo ženklas, senas paprotys ar indų stygiaus pasekmė.
 - susijęs iš Baltarusija: Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
 - susijęs iš Baltoji Rusia: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.
 - susijęs iš Dauguva: Narbutas rašė, kad skandinavų Reithgothland vadintas kraštas tęsėsi nuo Nemuno žemupio dešiniosios pakrantės iki Dauguvos žemupio.
@@ -144,25 +146,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - susijęs iš [[objektai/grupes/Vandalai.md#claim-t-192964|Vandalai]]: Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio ir šiauresnių kraštų į pietus.
 - susijęs iš Daugava: Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Germanai priskiriami tai pačiai indoeuropiečių, arba arijų, tautų grupei kaip aisčiai, slavai ir romanai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **1. Aisčių kiltys ir jų gyvenamosios vietos istorinių laikų pradžioje**
-        Pirmosios mus pasiekusios istorinės žinios liudija aisčius jau
-    gyvenus tose pačiose vietose, kur jie gyveno ir vėlesniais, mums
-    gerai žinomais, laikais. Aisčiai, kaip ir beveik visi Europos gy-
-    ventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-
-    čios indoeuropiečių, arba arijų, tautų grupės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas aiškina, kad prekybos kelias per germanų žemes galėjo veikti dėl svetingumo papročių arba tam tikrų susitarimų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -185,29 +168,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Narbutas mini, bet atmeta nuomonę, kad lietuvių tauta susidarė IV ar V amžiuje Vyslos žemupyje iš daugelio, ypač germanų, tautų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    195
-    Čia neaiškinsime priežasčių, kodėl mes nepripažįstame
-    lietuvių kildinimo iš gotų ar keltų, nes apie tai vėliau dar
-    pakalbėsime. Taip pat nedera steigtis neigti naujas, gana
-    neišlaikytas nuomones, pasak kurių lietuvių tauta esanti
-    daugelio tautų, ypač germanų kilmės, lydinys, kuris su­
-    sidarė maždaug IV ar V amžiuje Vyslos žemupyje ir buvo
-    vadinamas vidivariais, vidais ar dar kitais vardais. Jau
-    vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo­
-    1
-    Tradunt veteres, majores Samogitarum Italos fuisse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -233,20 +193,19 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-175187
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tokį pat nuotolį nuo Vys­
-    los žiočių į Panoniją suskaičiuoja ir Ptolemėjas. O kad
-    prekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro­
-    bikiškų germanų ¡genčių žemes, galima ¡paaiškinti senovės
-    religijos pašventintais svetingumo papročiais ar tam tik­
-    rais šiuo pagrindu sudarytais susitarimais.
-    *  ¥  *
-    III skyrius
-    S E N O V Ė S  Ž I N I Ų  T Ę S I N Y S
-    171
-    Sausumos atradimai.
+    Sausumos atradimai. Iš imperatoriaus Augusto valdy­
+    mo Romos valstybėje epochos išliko geografijos—istorijos
+    paminklas, susijęs su mūsų tema. ITartknochas savo prūsų
+    istorijos 20 puslapyje rašo« jog pirmasis Kulmo, arba Prū­
+    sijos, vyskupas Kristijonas, autorius kronikos, kuri buvo
+    laikoma pradingusia, apie senovės Prūsiją, — ją cituoja
+    ir mūsų kronikininkai Grunau, Henenbergeris, Vaiselijus
+    ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
+    neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
+    te, vėliau pavadintame Prūsija, stebėjimus.
+  citata_rodoma: "Tokį pat nuotolį nuo Vys­\nlos žiočių į Panoniją suskaičiuoja ir Ptolemėjas. O kad\nprekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro­\nbikiškų germanų ¡genčių žemes, galima ¡paaiškinti senovės\nreligijos pašventintais svetingumo papročiais ar tam tik­\nrais šiuo pagrindu sudarytais susitarimais.\n*  ¥  *\nIII skyrius\nS E N O V Ė S  Ž I N I Ų  T Ę S I N Y S\n171\nSausumos atradimai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -257,8 +216,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-175188
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 191"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     195
     Čia neaiškinsime priežasčių, kodėl mes nepripažįstame

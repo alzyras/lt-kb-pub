@@ -44,22 +44,6 @@ media_all_json: |-
   teiginys: "Konradas von Jungingenas 1394 m. vasarą su gausiais svečiais suruošė didelį žygį į Lietuvą."
   pagrindžia:
     - c-32776
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jogailos jam pavestą valdyti Lietuvą. 1394 m.
-    vasarą pats vyriausias magistras Konradas von Jungingen su gau­
-    siais svečiais suruošė didelį žygį Lietuvon^3. Kryžiuočiai vėl atėjo
-    iki pat Vilniaus ir per kelias savaites bandė jį paimti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

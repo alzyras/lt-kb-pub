@@ -35,26 +35,6 @@ Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta
   teiginys: "Karaliaus elekcija turėjo vykti lauke tarp Varšuvos ir Volos kaimo, joje dalyvauti ir balsuoti galėjo kiekvienas bajoras."
   pagrindžia:
     - c-03130
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tame seime, be to, galutinai visiems
-    laikams buvo pripažinta, kad karaliui mirus aukščiausioji valdžia
-    priklausanti primui (dėl to jis dar buvo vadinamas _intenex)._
-    Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvar-
-    ka: buvo nutarta, kad elekcija turinti įvykti lauke tarp
-    Varšuvos ir Volos kaimo; o elekcijoj dalyvauti ir
-    balsuoti galįs kiekvienas bajoras (taigi buvo sakoma, kad į elek-
-    ciją bajorai vykstą _viritim)._
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

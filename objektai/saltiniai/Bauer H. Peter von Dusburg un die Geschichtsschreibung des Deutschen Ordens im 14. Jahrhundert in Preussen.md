@@ -7,12 +7,12 @@ datos:
   - '1935 m.'
 date_start: '1935'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad pAPILDYMAS Bauer H.
   teiginys: "H. Bauerio veikalas „Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen“ išleistas Berlyne 1935 m."
   pagrindžia:
     - c-61683
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'H. Bauerio veikalas „Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen“ išleistas Berlyne 1935 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,13 +63,25 @@ Dusburgietis teigia, kad pAPILDYMAS Bauer H.
 - id: c-61683
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 278"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 278."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    PAPILDYMAS
+    Jaskanis J.
+    Jazbutas (D.— Jesbuto, Jer — Jeisbûte; Jazbutis)
+    Jegeris E. (Jäger)
+    Jeronimas
+    Joabas
+    Jobas
+    Jodokas šv.
+    Jogaila
+    Jokūbas iš Baumgarto
 
-      Bauer H. Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im
-    14. Jahrhundert in Preussen.—Berlin 1935.
+    Liuticho archidiakonas (žr. Urbonas IV), šv.
+    Jonas, Baigos vicekomt.
+
+    Brabanto k.
+
+    Brandenburgo mkg.
+  citata_rodoma: "PAPILDYMAS\n\n  Bauer H. Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im\n14. Jahrhundert in Preussen.—Berlin 1935."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

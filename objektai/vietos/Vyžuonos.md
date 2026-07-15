@@ -42,44 +42,6 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
   teiginys: "Kolonos padaliniai įsitvirtino Vyžuonose ir Vyžuonų dvare po to, kai buvo atsisakyta tolesnio puolimo."
   pagrindžia:
     - c-45445
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kolonos padaliniai įsitvirtino Vyžuonose ir Vyžuonų dvare po to, kai buvo atsisakyta tolesnio puolimo.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tolesnio puo-
-    šovininės, tvirtinamos limo buvo atsisakyta. Kolonos padaliniai
-    prie kario diržo įsitvirtino Vyžuonose ir Vyžuonų dvare.
-
-    Birželio 1 d. Zechau, Musteikio ko-
-    lonos kariai vykdė žvalgybą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Vyžuonas užėmė lietuviai ir vokiečiai, verždamiesi toliau po susidūrimo su priešo pėstininkais prie Debeikių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prie Debeikių
-    puolantieji susidūrė su priešo pėstininkais,
-    kurie po trumpo susišaudymo atsitraukė.
-    Verždamiesi toliau lietuviai ir vokiečiai
-    užėmė Vyžuonas. Judėdama link Utenos,
-    kolona sutiko atkaklų bolševikų pasiprieši-
-    nimą prie Kaliekių kaimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -50,31 +50,6 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   teiginys: "Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vieną tarybinę kultūrą“, tautybių „susiliejimą“ per rusų kalbą kaip „internacionalinę bendravimo priemonę“, „tarybinių tautų suartėjimą ir susiliejimą“ leido suprasti, kad einama unifikuotos."
   pagrindžia:
     - c-23584
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvoje visi laikraščiai imti dubliuoti ir rusų kalba, leista daug rusų
-    literatūros kūrinių, vaidinta pjesių, visur pradėta taikyti dvikalbystę. Pra-
-    sidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vieną tary-
-    binę kultūrą“, tautybių „susiliejimą“ per rusų kalbą kaip „internacionalinę
-    bendravimo priemonę“, „tarybinių tautų suartėjimą ir susiliejimą“ leido
-    suprasti, kad einama unifikuotos ideologiškai ir rusiškai kalbančios so-
-    vietinės nacijos formavimo intensyvinimo keliu, kad ateityje lietuvių ir
-    kitos kalbos išnyks. Galutiniu produktu turėjo tapti homo sovieticus – as-
-    muo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žino-
-    mos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas
-    Tarybų Sąjunga“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 

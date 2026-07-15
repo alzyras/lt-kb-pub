@@ -34,37 +34,13 @@ Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurl
   teiginys: "Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurlamą, kurį Torfėjo chronologija siejo su III amžiumi."
   pagrindžia:
     - c-174723
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurlamą, kurį Torfėjo chronologija siejo su III amžiumi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    234
-    Islandų sakmėse, vadinamose šiaurinėmis sagomis,
-    esama žinių apie įžymų rusų karalių, vadinamą Zugurla-
-    mu, kuris, anot Torfėjo chronologinių skaičiavimų, taip
-    pat gyveno III amžiuje3. Iš to paties šaltinio žinoma, jog
-    rusų genties valdovo ir didvyrio Heiraudo dukra Heiridė
-    ištekėjo už norvego Augmundo; kartu ji gavo kraičio ne­
-    mažą Rusios valdą. Odo, irgi norvegų riterio, žmona bu­
-    vo rusnėnų karalienė Silkizifė; jis taip pat valdė savo
-    žmonos gimtąją žemę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174723
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 242"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     234
     Islandų sakmėse, vadinamose šiaurinėmis sagomis,

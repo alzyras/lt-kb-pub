@@ -35,34 +35,13 @@ Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, m
   teiginys: "Nabuchodonosaras, pamatęs, kad liepsna nepakenkė Danieliui ir jo bičiuliams, pripažino Aukščiausiojo Dievo ženklus ir stebuklus."
   pagrindžia:
     - c-61023
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Nabuchodonosaras, pamatęs, kad liepsna nepakenkė Danieliui ir jo bičiuliams, pripažino Aukščiausiojo Dievo ženklus ir stebuklus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
-    nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei
-    įmesti į septynis kartus daugiau nei paprastai pakūrentą krosnį, nes atidavė savo kūnus,
-    nenorėdami tarnauti nė vienam dievui nei jo garbinti, išskyrus tą, kurį patys tikėjo, nors
-    ugnies liežuviai kilo per 49 uolektis virš krosnies ir sudegino kūrikus, o Danieliaus ir jo
-    bičiulių nė neužgavo ir nieko blogo jiems nepadarė, štai tada jis ir tarė: „Aukščiausias
-    dievas padarė manyje ženklų ir stebuklų“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61023
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 33"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
     nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei

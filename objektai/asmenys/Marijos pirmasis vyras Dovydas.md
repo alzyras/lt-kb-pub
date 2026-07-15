@@ -25,42 +25,16 @@ media_all_json: |-
 
 ## Santrauka
 
-Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugiau metų, didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B , kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
+Marijos pirmasis vyras Dovydas jau buvo iš Drohičino atvykęs į Gardiną.
 
 ## Teiginiai
 
-<a id="claim-t-194145"></a>
+<a id="claim-t-196856"></a>
 - t-001
-  global_id: t-194145
-  teiginys: "Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugiau metų, didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B , kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 ."
+  global_id: t-196856
+  teiginys: "Marijos pirmasis vyras Dovydas jau buvo iš Drohičino atvykęs į Gardiną."
   pagrindžia:
     - c-176758
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugiau metų, didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B , kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
-    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
-    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
-    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
-    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
-    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
-    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
-    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
-    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
-    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
-    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
-    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
-    sers, kam ją ištekino už vergo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -69,22 +43,21 @@ Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugia
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
-    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
-    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
-    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
-    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
-    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
-    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
-    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
-    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
-    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
-    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
-    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
-    sers, kam ją ištekino už vergo.
+    O didysis kunigaikštis Kęstutis, sutelkęs savo pajė­
+    gas, skuba į Vilnių ir suima didįjį kunigaikštį Jogailą
+    su broliaisM ir su motina, suranda tas sutartis, kurias
+    buvo su vokiečiais sudarę, ir pasiunčia žygūną pas sa­
+    vo sūnų, didįjį kunigaikštį Vytautą, į Drohičiną, pra­
+    nešdamas, kas įvyko. Tas žygūnas suranda didįjį ku-
+    SJ
+
+    nigaikštį Vytautą Gardine, nes jis jau buvo iš Drohiči-
+    no atvykęs į Gardiną. Didysis kunigaikštis Vytautas
+    per vieną dieną atskuba iš Gardino pas savo tėvą, di­
+    dįjį kunigaikštį Kęstutį.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194145
+    - t-196856

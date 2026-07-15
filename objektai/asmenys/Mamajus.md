@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puldinėjo ir sugriovė poloviečių-lietuvių sostinę Beloserką.
+Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puldinėjo ir sugriovė poloviečių-lietuvių sostinę Beloserką. Ar tai nebuvo tas pats miestas, kurį sugriovė Mamajus?
 
 ## Teiginiai
 
@@ -35,23 +35,27 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
   teiginys: "Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puldinėjo ir sugriovė poloviečių-lietuvių sostinę Beloserką."
   pagrindžia:
     - c-174323
+
+<a id="claim-t-197776"></a>
+- t-002
+  global_id: t-197776
+  teiginys: "Ar tai nebuvo tas pats miestas, kurį sugriovė Mamajus?"
+  pagrindžia:
+    - c-174323
 - susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-190840|Albertas Vijūkas-Kojalavičius]]: Narbutas rašo, kad Kojalavičius poloviečius laikė turinčiais lietuvių kalbą ir siejo juos su Mamajaus sugriauta Beloserkos sostine.
 - susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-190688|Albertas Vijūkas-Kojalavičius]]: Kojalavičius, Narbuto perteikimu, teigė, kad poloviečiai turėjo lietuvių kalbą, ir rėmėsi pasakojimu apie Mamajaus sugriautą Beloserką.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puldinėjo ir sugriovė poloviečių-lietuvių sostinę Beloserką.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Taigi nėra įrodymų paneigti prielaidai, jog Charoboe or­
-    da XII amžiuje išsivedė su savimi lietuvių genčių kolo­
-    nistus, nuo seno gyvenusius prie Rosės upės.
-    101
-    Si nuomonė darosi vis panašesnė į tiesą, kai Kojala-
-    vičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro­
-    do istoriją, aprašančią pagalbą totorių vado Mamajaus,
-    kuris sugriovė tų poloviečių-lietuvių sostinę, vadinamą
-    Beloserka. Mamajus puldinėjo XIV amžiaus viduryje.
+    Be to, kyla ir dar
+    kitų klausimų: ar Charoboe ordos pečenegai, prisijungę
+    prie poloviečių ir atsikėlę į žemes kitapus Dono, neįkūrė
+    ten miesto ir nepavadino jo taip pat panašiai Belotzeba.
+    Iš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas,
+    kurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­
+    simus pateiks kiti tyrinėjimai.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -59,27 +63,29 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-174323
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 107"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 107."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Taigi nėra įrodymų paneigti prielaidai, jog Charoboe or­
-    da XII amžiuje išsivedė su savimi lietuvių genčių kolo­
-    nistus, nuo seno gyvenusius prie Rosės upės.
-    101
-    Si nuomonė darosi vis panašesnė į tiesą, kai Kojala-
-    vičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro­
-    do istoriją, aprašančią pagalbą totorių vado Mamajaus,
-    kuris sugriovė tų poloviečių-lietuvių sostinę, vadinamą
-    Beloserka. Mamajus puldinėjo XIV amžiaus viduryje.
+    Tyrimai visiškai neatsako į šiuos
+    klausimus teigiamai, nes nėra įrodymų, kad Mamajus
+    buvo nužygiavęs į šią Ukrainos dalį. Be to, kyla ir dar
+    kitų klausimų: ar Charoboe ordos pečenegai, prisijungę
+    prie poloviečių ir atsikėlę į žemes kitapus Dono, neįkūrė
+    ten miesto ir nepavadino jo taip pat panašiai Belotzeba.
+    Iš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas,
+    kurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­
+    simus pateiks kiti tyrinėjimai.
+  citata_rodoma: "Be to, kyla ir dar \nkitų klausimų: ar Charoboe ordos pečenegai, prisijungę \nprie poloviečių ir atsikėlę į žemes kitapus Dono, neįkūrė \nten miesto ir nepavadino jo taip pat panašiai Belotzeba. \nIš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas, \nkurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­\nsimus pateiks kiti tyrinėjimai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191441
+    - t-197776

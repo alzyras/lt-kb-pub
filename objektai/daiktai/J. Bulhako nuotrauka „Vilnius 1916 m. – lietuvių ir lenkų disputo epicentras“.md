@@ -60,29 +60,6 @@ Nenurodyta
   teiginys: "J. Bulhako nuotraukos antraštė Vilnių vadina 1916 m. lietuvių ir lenkų disputo epicentru."
   pagrindžia:
     - c-75242
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Bulhako nuotraukos antraštė Vilnių vadina 1916 m. lietuvių ir lenkų disputo epicentru.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lenkams nepaisant Lietuvos interesų lietuviai sto-
-    davo į nelanksčią opoziciją bet kokiam susitarimui su jais, net jei jis būtų
-    galimas ar naudingas. Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus
-    Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.
-    J. Bulhako nuotrauka
-
-    L I E T U V O S  I S T O R I J A
-    140
-    juos lenkų delegacija atmetė – nesutarta dėl Vilniaus ir kam turi priklau-
-    syti visa Rytų Lietuva.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

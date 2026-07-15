@@ -58,22 +58,6 @@ Nenurodyta
   teiginys: "Gerdenis pralaimėjo Daumantui, pasitraukė su kariuomenės likučiais, o per kitą Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo."
   pagrindžia:
     - c-33387
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    VI). Gerdenis pralaimėjo ir tik
-    su likučiais išsigelbėjo, o kitame Daumanto žygyje į Nalšėnus (1267
-    m. žiemą) ir pats žuvo^219. Apie jo sūnus yra žinoma, kad jie
-    išaugo stačiatikiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -65,25 +65,6 @@ Nenurodyta
   teiginys: "Japoniškas 30 modelio Arisaka šautuvas buvo 1897 m. modelio ginklas, kurio šovinys buvo 6,5x50 mm SR, o dėtuvėje tilpo 5 šoviniai."
   pagrindžia:
     - c-41044
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Svoris - 4,06 kg
-
-    Japoniškas 30 modelio (1897 m.) šautuvas Arisaka. Tokie šautuvai pirkti Rusijos kariuomenei
-    apginkluoti Pirmojo pasaulinio karo metu. Šovinys - 6,5x50 mm SR, dėtuvės talpa - 5 šoviniai.
-    Ilgis - 1274 mm, vamzdžio ilgis - 800 mm. Svoris - 3,76 kg
-
-    Dešinioji kolona (vadas - karin.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

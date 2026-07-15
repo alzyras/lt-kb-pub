@@ -36,28 +36,6 @@ Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiforma
   teiginys: "Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuolatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji žmonės - kariai, galintys bet kada stoti į tarnybą."
   pagrindžia:
     - c-45541
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-
-    tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
-    latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
-    žmonės - kariai, galintys bet kada stoti į tarnybą.
-
-    ## Puslapis 21
-
-    Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
-    dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
-    mongolus prie Mėlynųjų vandenų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

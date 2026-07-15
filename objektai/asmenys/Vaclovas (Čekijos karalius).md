@@ -45,33 +45,13 @@ Dusburgietis teigia, kad apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto at
   teiginys: "1307 m. mirė Čekijos karalius Vaclovas, o Čekijos sostas atiteko svetimiesiems."
   pagrindžia:
     - c-61086
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1307 m. mirė Čekijos karalius Vaclovas, o Čekijos sostas atiteko svetimiesiems.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    102. Apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems
-
-      1307 viešpaties metais mirė Vaclovas, Čekijos karalius, o jo sūnus buvo vainikuotas
-    karaliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol. p. 1227),
-    šitaip Čekijos sostas, kuris neturėjo įpėdinių, atiteko svetimiesiems, nes Romos karalius
-    Albrechtas į minėtąjį sostą pakėlė savo sūnų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61086
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     102. Apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems
 

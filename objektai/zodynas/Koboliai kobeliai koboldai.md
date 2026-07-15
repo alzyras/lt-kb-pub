@@ -32,34 +32,9 @@ Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su 
 <a id="claim-t-189129"></a>
 - t-001
   global_id: t-189129
-  teiginys: "Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su koboliais ir iš jų slapčia gaunančiais dovanų."
+  teiginys: 'Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su koboliais ir iš jų slapčia gaunančiais dovanų.'
   pagrindžia:
     - c-172017
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su koboliais ir iš jų slapčia gaunančiais dovanų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vietiniai kaimiečiai dar nepaliauja tikėję, kad esama žmo­
-    nių, susidėjusių su koboliais, kurie jiems slapčia neša dovanų
-    w Skandinavams tai buvo mitinės būtybės, tačiau įkyrios ir ir­
-    zlios; su jomis buvo galima kovoti ir jas užmušti. Jos turėjo savo sei­
-    mą ir karalienę, vardu Huldą, kuri turėjo dvi dukteris -  Tergerdą
-    (Thergerd) ir Irpą (Yrpo). Jos statė šventyklą Odino garbei, gyveno
-    miškuose ir Siaurės šalyse (Islandų saga, pavadinta Huldasaga).
-    182
-
-    ## Puslapis 182
-
-    ir susilaukia iš jų visokio palankumo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -85,4 +60,4 @@ Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189129
+    - t-001

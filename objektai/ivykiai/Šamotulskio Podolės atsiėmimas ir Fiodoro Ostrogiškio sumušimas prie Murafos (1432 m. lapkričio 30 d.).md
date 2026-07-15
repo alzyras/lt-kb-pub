@@ -68,96 +68,81 @@ Nenurodyta
   teiginys: "1432 m. lapkričio 30 d. Šamotulskio ir Fiodoro Ostrogiškio pajėgos kovojo maždaug už keturiasdešimties mylių nuo Lvovo."
   pagrindžia:
     - c-168864
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Fiodoras, su leng­
-    vąja rusų, valachų bei skitų raitija labiau linkęs pa­
-    salas rengti, nei stoti į atvirą kovą, vengė susidurti su
-    Šamotulskiu akis į akį, tačiau, puldinėdamas iš tolo,
-    vargino ir alino lenkus, Šamotulskis, patraukęs su pa­
-    grindinėmis jėgomis į priekį, be vargo atsiėmė vieną
-    kitą pražygiuojamą pilį ir priartėjo prie Braclavo. Fio­
-    doras, nenorėdamas, kad len-
-    S a m o tu lsk is
-    a tsiim a
-    kai, atsiėmę visą ten sukrau-
-    P o d o lę
-    tą grobį, atsigautų apsirūpinę
-    maistu ir kitais būtiniausiais
-    reikmenimis, pasiuntė būrį eikliausių raitelių ir įsakė
-    sudeginti pilį bei miestą. Artėjo lapkričio pabaiga, tin­
-    kamiausias metas grįžti į žiemos stovyklas kariams,
-    kurie čia neturėjo ko veikti, nes priešo kariuomenė iš
-    paskutiniųjų vengė bet kokio susirėmimo. Štai todėl
-    Šamotulskis ir patraukė su visa kariuomene į Lenkiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196289"></a>
+- t-004
+  global_id: t-196289
+  teiginys: "Boleslovas padalijo savo kariuomenę į dvi žygio voras: vieną pats nuvedė į Lietuvą, o kitai pavedė Fiodorui Ostrogiškiui užimti Podolę."
   pagrindžia:
-    - t-001
+    - c-168862
 
-- c-002
-  santrauka: 'Prie Murafos lenkų kariuomenei teko įveikti per tankias girias tarp žemų nendrėtų krantų tekančią Murafos upę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Len­
-    kams beliko įveikti Murafos upę, tekančią tankiomis
-    4 45
-
-    ## Puslapis 444
-
-    giriomis tarp žemų nendrėtų krantų. Šaltis jau spėjo
-    padengti ją ledu, tačiau keltis dėl to kariams nieku
-    būdu nebuvo lengviau, nes ledas dar negalėjo atlai­
-    kyti jų svorio. Todėl kariuomenė turėjo sustoti ir pa­
-    laukti, kol suneš kiek reikia šakų bei žabų ir greito­
-    siomis nuties per pelkes žemgrindą. Lenkams įsitrau­
-    kus į šį darbą, Fiodoras persikėlė su saviškiais kitoje
-    vietoje per upę ir, išdėstęs priekyje pasalas, užtvėrė
-    guolės ir kiti būriai pamažu slinko jiems iš paskos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196290"></a>
+- t-005
+  global_id: t-196290
+  teiginys: "Fiodoras Ostrogiškis su lengvąja rusų, valachų ir skitų raitija vengė atviro susidūrimo su Šamotulskiu ir puldinėdamas vargino lenkus."
   pagrindžia:
-    - t-002
+    - c-168863
 
-- c-003
-  santrauka: '1432 m. lapkričio 30 d. Šamotulskio ir Fiodoro Ostrogiškio pajėgos kovojo maždaug už keturiasdešimties mylių nuo Lvovo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Lapkričio 30 d. jie kovojo
-    maždaug už keturiasdešimties mylių nuo Lvovo. Tuo
-    tarpu žinia apie jų pergalę, pasak ne visai patikimų
-    liudytojų, dar tą pačią dieną pasklido po miestą ir
-    pasiekė karalių, kuris su žmonėmis bažnyčioje meldėsi
-    aukščiausiajam. Jau kitą dieną atvyko pas karalių ir
-    pergalę laimėjusios kariuomenės žygūnas, atsivežda-
-    mas iš priešo atimtas vėliavas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196291"></a>
+- t-006
+  global_id: t-196291
+  teiginys: "Lapkričio pabaigoje Šamotulskis su visa kariuomene patraukė į Lenkiją, nes, pasak Kojelavičiaus, priešo kariuomenė vengė susirėmimo."
   pagrindžia:
-    - t-003
+    - c-178613
 
 ## Citatos
 
 - id: c-168862
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 443"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 443."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Fiodoras, su leng­
+    Valstybės ištarme buvo įsakyta
+    Liudvikui kaip priešui kartu su savo draugais kuo
+    greičiausiai išsinešdinti iš Lietuvos. Turėjo tylėti ir
+    Jurgis, nenorėdamas patirti didesnių nemalonumų.
+    Kryžiuočiai
+    mėgina
+    sudrumsti taikų len­
+    kų ir lietuvių sugy­
+    venimą
+    4 4 4
+
+    Tuo metu, kai Žygimantas
+    Š v itrig a ila
+    įs iv e ržia
+    tvarkė Lietuvą, Boleslovas
+    į L ietu vą , o į P o d o lę
+    telkė kariuomenę Rusioje, ku-
+    p a siu n čia
+    O stro g o
+    rią bemaž visą buvo patrau-
+    k u n ig a ik štį
+    kęs dosnumu į savo pusę, ke­
+    tindamas pradėti karą iš kar­
+    to ir su Žygimantu, ir su Jogaila. Padalijęs savo jėgas
+    dviem žygio voromis, vieną pats nuvedė į Lietuvą, o
+    kunigaikščiui Fiodorui Ostrogiškiui su kita įsakė užim­
+    ti Podolę. Sėkmingai susiklostė Fiodorui žygio pradžia,
+    tačiau pirmosios sėkmės dėl žmonių laimės nepastovu­
+    mo ne visuomet leidžia sulaukti panašaus galo.
+  citata_rodoma: "Kryžiuočiai \nmėgina \nsudrumsti taikų len­\nkų ir lietuvių sugy­\nvenimą\n4 4 4\n\nTuo metu, kai Žygimantas \nŠ v itrig a ila \nįs iv e ržia \ntvarkė Lietuvą, Boleslovas\nį L ietu vą , o į P o d o lę \ntelkė kariuomenę Rusioje, ku-\np a siu n čia \nO stro g o \nrią bemaž visą buvo patrau-\nk u n ig a ik štį \nkęs dosnumu į savo pusę, ke­\ntindamas pradėti karą iš kar­\nto ir su Žygimantu, ir su Jogaila. Padalijęs savo jėgas \ndviem žygio voromis, vieną pats nuvedė į Lietuvą, o \nkunigaikščiui Fiodorui Ostrogiškiui su kita įsakė užim­\nti Podolę. Sėkmingai susiklostė Fiodorui žygio pradžia, \ntačiau pirmosios sėkmės dėl žmonių laimės nepastovu­\nmo ne visuomet leidžia sulaukti panašaus galo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185501
+    - t-196289
+
+- id: c-168863
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Karalius, norėdamas sustabdyti priešą, skubiai
+    atvyko į Lvovą, o iš ten išsiuntė priešais Fiodorą Vin­
+    centą iš Šamotulų, Rusios vaivadą. Fiodoras, su leng­
     vąja rusų, valachų bei skitų raitija labiau linkęs pa­
     salas rengti, nei stoti į atvirą kovą, vengė susidurti su
     Šamotulskiu akis į akį, tačiau, puldinėdamas iš tolo,
@@ -172,50 +157,19 @@ Nenurodyta
     tą grobį, atsigautų apsirūpinę
     maistu ir kitais būtiniausiais
     reikmenimis, pasiuntė būrį eikliausių raitelių ir įsakė
-    sudeginti pilį bei miestą. Artėjo lapkričio pabaiga, tin­
-    kamiausias metas grįžti į žiemos stovyklas kariams,
-    kurie čia neturėjo ko veikti, nes priešo kariuomenė iš
-    paskutiniųjų vengė bet kokio susirėmimo. Štai todėl
-    Šamotulskis ir patraukė su visa kariuomene į Lenkiją.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185501
-
-- id: c-168863
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Len­
-    kams beliko įveikti Murafos upę, tekančią tankiomis
-    4 45
-
-    ## Puslapis 444
-
-    giriomis tarp žemų nendrėtų krantų. Šaltis jau spėjo
-    padengti ją ledu, tačiau keltis dėl to kariams nieku
-    būdu nebuvo lengviau, nes ledas dar negalėjo atlai­
-    kyti jų svorio. Todėl kariuomenė turėjo sustoti ir pa­
-    laukti, kol suneš kiek reikia šakų bei žabų ir greito­
-    siomis nuties per pelkes žemgrindą. Lenkams įsitrau­
-    kus į šį darbą, Fiodoras persikėlė su saviškiais kitoje
-    vietoje per upę ir, išdėstęs priekyje pasalas, užtvėrė
-    guolės ir kiti būriai pamažu slinko jiems iš paskos.
+    sudeginti pilį bei miestą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185502
+    - t-196290
 
 - id: c-168864
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 445"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 445."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Lapkričio 30 d. jie kovojo
     maždaug už keturiasdešimties mylių nuo Lvovo. Tuo
@@ -231,3 +185,29 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185503
+
+- id: c-178613
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Fio­
+    doras, nenorėdamas, kad len-
+    S a m o tu lsk is
+    a tsiim a
+    kai, atsiėmę visą ten sukrau-
+    P o d o lę
+    tą grobį, atsigautų apsirūpinę
+    maistu ir kitais būtiniausiais
+    reikmenimis, pasiuntė būrį eikliausių raitelių ir įsakė
+    sudeginti pilį bei miestą. Artėjo lapkričio pabaiga, tin­
+    kamiausias metas grįžti į žiemos stovyklas kariams,
+    kurie čia neturėjo ko veikti, nes priešo kariuomenė iš
+    paskutiniųjų vengė bet kokio susirėmimo. Štai todėl
+    Šamotulskis ir patraukė su visa kariuomene į Lenkiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196291

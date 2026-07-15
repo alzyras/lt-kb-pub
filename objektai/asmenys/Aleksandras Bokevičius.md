@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai.
+Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai. Aleksandras Bokevičius buvo apvainikuotas karaliaus vainiku ir paskelbtas Lenkijos karaliumi.
 
 ## Teiginiai
 
@@ -34,38 +34,13 @@ Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks
   teiginys: "Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai."
   pagrindžia:
     - c-169454
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pirmiausia
-    pasiuntė
-    T ariam asi d ė l ta ik o s
-    Aleksandrą Bokevičių, taurų
-    su  m a sk v ė n a is
-    jaunikaitį, turėjusį pranešti
-    Vasilijui, jog neilgai trukus
-    662
-
-    ## Puslapis 661
-
-    atvyks legatai. Jį priėmė iš tiesų gana draugiškai, ta­
-    čiau neleido pabučiuoti kunigaikščiui rankos, kadangi
-    ši tauta nuo senų laikų mano, jog tik barzda teikianti
-    žmogui deramo orumo, ir negerbia bebarzdžių vyrų,
-    netgi ir tų, kurie pasižymi dideliais gabumais ir bran­
-    džiu protu. Aleksandrą atlydėjo Jonas Sapiega, Palen­
-    kės vaivada, maršalas Motiejus Kločka ir Povilas
-    Naruševičius, karaliaus slaptosios tarybos narys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196408"></a>
+- t-002
+  global_id: t-196408
+  teiginys: "Aleksandras Bokevičius buvo apvainikuotas karaliaus vainiku ir paskelbtas Lenkijos karaliumi."
   pagrindžia:
-    - t-001
+    - c-169454
 
 ## Citatos
 
@@ -74,28 +49,20 @@ Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pirmiausia
-    pasiuntė
-    T ariam asi d ė l ta ik o s
-    Aleksandrą Bokevičių, taurų
-    su  m a sk v ė n a is
-    jaunikaitį, turėjusį pranešti
-    Vasilijui, jog neilgai trukus
-    662
-
-    ## Puslapis 661
-
-    atvyks legatai. Jį priėmė iš tiesų gana draugiškai, ta­
-    čiau neleido pabučiuoti kunigaikščiui rankos, kadangi
-    ši tauta nuo senų laikų mano, jog tik barzda teikianti
-    žmogui deramo orumo, ir negerbia bebarzdžių vyrų,
-    netgi ir tų, kurie pasižymi dideliais gabumais ir bran­
-    džiu protu. Aleksandrą atlydėjo Jonas Sapiega, Palen­
-    kės vaivada, maršalas Motiejus Kločka ir Povilas
-    Naruševičius, karaliaus slaptosios tarybos narys.
+    Kai Vasilijus
+    teismų sudarymo dieną nukėlė ligi Velykų, karalius su
+    tuo nesutiko, nes pavasarį, ištvinus upėms, keliauti la­
+    bai sunku, ir todėl abu visą reikalą vėl atidėjo ligi
+    žiemos.
+    Karalius, sugrįžęs iš Lietuvos į Lenkiją, ir čia kaip
+    ir Lietuvoje sėkmingai sutvarkė Augusto reikalus. Mat
+    luomai sutiko paskirti sūnų tėvo įpėdiniu, o vasario
+    21 d. Krokuvoje jis buvo apvainikuotas karaliaus vai­
+    niku ir paskelbtas Lenkijos karaliumi.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186093
+    - t-196408

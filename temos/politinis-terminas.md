@@ -6,7 +6,7 @@ tema_kategorija: "terminai"
 tema_kategorijos_pavadinimas: "Žodyno įrašai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 149
+tema_objektu_skaicius: 148
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 149.
+Objektų skaičius: 148.
 
 ## Kaip naudoti
 
@@ -139,7 +139,6 @@ Objektų skaičius: 149.
 - [Rusios didysis kunigaikštis](../objektai/zodynas/Rusios%20didysis%20kunigaik%C5%A1tis)
 - [rėda](../objektai/zodynas/R%C4%97da)
 - [seimas](../objektai/zodynas/seimas)
-- [seimelis](../objektai/zodynas/seimelis)
 - [senatas](../objektai/zodynas/senatas)
 - [separatinės taikos derybos](../objektai/zodynas/separatin%C4%97s%20taikos%20derybos)
 - [Status quo](../objektai/zodynas/Status%20quo)

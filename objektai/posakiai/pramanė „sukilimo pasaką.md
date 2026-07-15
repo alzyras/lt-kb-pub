@@ -42,46 +42,6 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
   teiginys: "Želigovskio kariuomenė buvo sudaryta su daug vilniškių, kad Vilniaus užėmimą būtų lengviau teisinti kaip vietinių sukilimą."
   pagrindžia:
     - c-67264
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomenės Vilniaus užėmimą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lenkija, nebegalėdama
-    niekuo pateisinti tokio savo elgesio, pramanė „sukilimo" pa-
-    saką. Esą, atsiradęs jų kariuomenėje generolas maištininkas Že-
-    ligovskis ir savavališkai užėmęs Vilnių. Jo kariuomenė (dvi
-    pėstininkų ir viena raitelių divizija, kurios buvo vadinamos lie-
-    tuvių bei gudų divizijomis), esą, buvusi taip pat sukilusi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Želigovskio kariuomenė buvo sudaryta su daug vilniškių, kad Vilniaus užėmimą būtų lengviau teisinti kaip vietinių sukilimą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Esą, atsiradęs jų kariuomenėje generolas maištininkas Že-
-    ligovskis ir savavališkai užėmęs Vilnių. Jo kariuomenė (dvi
-    pėstininkų ir viena raitelių divizija, kurios buvo vadinamos lie-
-    tuvių bei gudų divizijomis), esą, buvusi taip pat sukilusi. Iš
-    tikro Želigovskio kariuomenė buvo taip sudaryta, kad joje būtų
-    daug vilniškių ir artimų sričių žmonių: tuo būdu buvo lengviau
-    teisintis, kad, esą, tos divizijos negalėjusios palikti neišvaduotos
-    savo tėviškės, ir nužygiavusios, nepaisydamos santarvės rei-
-    kalavimų klausančios Lenkų vyriausybės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

@@ -42,25 +42,6 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
   teiginys: "Vytautas pažadėjo valdyti savo tėviškę kaip Ordino lėną, jei Ordinas padėtų ją atgauti."
   pagrindžia:
     - c-15272
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ordinui
-    akys nušvito ir visos viltys nukrypo į jo pusę. Iš jo, kryžiuo­
-    čių akimis žiūrint, buvo galima gerokai pasipelnyti. Vytautas,
-    pereidamas į Ordino pusę ir priimdamas krikštą, pasižadėjo vi­
-    są savo tėviškę valdyti, kaip Ordino lėną, jei tik šis jam padėtų
-    ją atgauti^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Citatos
 

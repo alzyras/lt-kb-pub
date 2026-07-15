@@ -70,70 +70,6 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
 - susijęs iš Karaliaučius: Ignas Onacevičius vyko į Karaliaučių rinkti istorinių dokumentų iš slaptojo Kryžiuočių ordino archyvo.
 - susijęs iš Vilnius: Ignas Onacevičius nuo 1818 m. Vilniaus universitete dėstė istoriją, o nuo 1821 m. statistiką ir diplomatiką.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1841 m. jis tapo vienu iš enciklopedinio
-    pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir
-    J. Sniadeckių biografijas, parengė jų darbų rinktines, parašė
-    apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
-    dinį leidinį Senovės Lenkija. Be to, rengė astronomo Mikalojaus Ko­
-    perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­
-    mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.
-    Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­
-    torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
-    rašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos
-    mokslo būklę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Michałas Balińskis veikalo pratarmėje dėkojo Ignui Onacevičiui už pagalbą istoriniais dokumentais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmoji knygos dalis užbaigia­
-    ma 1430 m. - Vytauto Didžiojo mirtimi. Kita vertus, pirmoje
-    dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
-    dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
-    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
-    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
-    Malevskiui už gausius išrašus iš Lietuvos Metrikos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Ignotas Onacevičius dėstė Vilniaus universitete tuo metu, kai, Narbuto biografinio pasakojimo kontekste, buvo didelis susidomėjimas istorija.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Išsamesnėms krašto praeities studijoms istoriką galė­
-    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
-    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
-    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
-    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
-    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
-    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
-    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
-    kus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Teodoras Narbutas laišką istorikui Ignotui Onacevičiui pradėjo deklaracija „Aš nerašau lietuvių tautos istorijos <...>“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -198,8 +134,7 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
 - id: c-171425
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Išsamesnėms krašto praeities studijoms istoriką galė­
     jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
@@ -220,12 +155,16 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
 - id: c-171426
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 47"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 47."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Sumanymas. „Aš nerašau lietuvių tautos istorijos <...>“ -
-    tokia iš pirmo žvilgsnio šokiruojančia deklaracija T. Narbutas
-    pradėjo laišką istorikui Ignotui Onacevičiui3.
+    Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pagrindimo, su­
+    manymų, pastabų ir šaltiniuose išskaitytų faktų rinkinys, kuris
+    sudarys penkis arba šešis tomus, negali būti vadinamas istori­
+    ja (historia), o tik veikalais (dzieje), t. y. turi turėti kuklesnį
+    pavadinimą4. Vadinasi, iš cituoto teksto galima spręsti, kad
+    3 Šaurai? (Be datos). T. Narbutas I. Onacevičiui // Lietuvos moks­
+    lų akademijos bibliotekos rankraščių skyrius (toliau - MAB RS).
+  citata_rodoma: "Sumanymas. „Aš nerašau lietuvių tautos istorijos <...>“ -\ntokia iš pirmo žvilgsnio šokiruojančia deklaracija T. Narbutas\npradėjo laišką istorikui Ignotui Onacevičiui3."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

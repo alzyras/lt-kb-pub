@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Ant šio kalno XII a, buvo įkurtas benediktinų vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius su tariamai stebuklingu Jėzaus Kristaus kryžiaus medžio gabalu sidabriniuose apsoduose.
+Viduramžiais Šventojo Kryžiaus bažnyčia buvo viena labiausiai maldininkų lankomų Lenkijos vietų, o Žalgirio mūšio išvakarėse joje lankėsi Jogaila.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,36 +47,16 @@ Nenurodyta
 <a id="claim-t-194079"></a>
 - t-001
   global_id: t-194079
-  teiginys: "Ant šio kalno XII a, buvo įkurtas benediktinų vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius su tariamai stebuklingu Jėzaus Kristaus kryžiaus medžio gabalu sidabriniuose apsoduose."
+  teiginys: "Viduramžiais Šventojo Kryžiaus bažnyčia buvo viena labiausiai maldininkų lankomų Lenkijos vietų, o Žalgirio mūšio išvakarėse joje lankėsi Jogaila."
   pagrindžia:
     - c-176692
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ant šio kalno XII a, buvo įkurtas benediktinų vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius su tariamai stebuklingu Jėzaus Kristaus kryžiaus medžio gabalu sidabriniuose apsoduose.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ant šio kalno XII a, buvo įkurtas benediktinų
-    vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius
-    su tariamai stebuklingu Jėzaus Kristaus kryžiaus medžio gabalu
-    sidabriniuose apsoduose. Viduramžiais Šventojo Kryžiaus bažnyčia
-    buvo viena iš labiausiai maldininkų lankomų Lenkijos vietų. Žal­
-    girio mūšio išvakarėse čia lankėsi ir Jogaila.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-176692
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 233"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 233."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ant šio kalno XII a, buvo įkurtas benediktinų
     vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius

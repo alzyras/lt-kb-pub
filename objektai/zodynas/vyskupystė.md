@@ -38,29 +38,6 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
 - susijęs iš Žemaičių vyskupystė: Žemaičių vyskupystė 1849 m. buvo padidinta, prie jos prijungus 93 Vilniaus vyskupystės parapijas.
 - susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-00061|Motiejus Valančius]]: Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas.
 - susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179553|Motiejus Valančius]]: Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Vilniaus vyskupystės įkūrimas.** Pats krikštas dar nieko ne-
-    reiškė: be bažnyčių ir katalikų dvasininkų kraštas ir toliau galėjo
-    likti pagoniškas. Todėl tuojau
-    po krikšto Jogaila įkūrė Vil-
-    niaus vyskupystę, pastatė ka-
-    tedrą ir dar 7 pirmąsias para-
-    pijines bažnyčias krašte (Uk-
-    mergėje, Maišiogaloje, Ne-
-    menčine, Medininkuose, Krė-
-    voje, Obalčiuose ir Ainoje).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-03467

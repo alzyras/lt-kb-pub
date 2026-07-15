@@ -71,45 +71,6 @@ Nenurodyta
   teiginys: "1928 m. sausio 29 d. po ilgų ir sunkių derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis."
   pagrindžia:
     - c-23037
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kadangi Lietuva be vidinių skrupulų laikė „klaipėdiečius“ lie-
-    tuviais, skaičiavo krašte esant 50,8 proc. lietuvių. Lietuva įgijo neužšalantį
-    uostą.
-    Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
-    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
-    svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
-    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1928 m. sausio 29 d. Berlyne Lietuva ir Vokietija nustatė sienos liniją, palikusią Klaipėdos teritoriją Lietuvos pusėje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva įgijo neužšalantį
-    uostą.
-    Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
-    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
-    svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
-    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis. Abi ša-
-    lys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos
-    pusėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

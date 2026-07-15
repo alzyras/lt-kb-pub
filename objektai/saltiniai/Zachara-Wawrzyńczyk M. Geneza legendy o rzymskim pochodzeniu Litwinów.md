@@ -7,12 +7,12 @@ datos:
   - '1963 m.'
 date_start: '1963'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad zachara-Wawrzyńczyk M.
   teiginys: "M. Zacharos-Wawrzyńczyk straipsnis „Geneza legendy o rzymskim pochodzeniu Litwinów“ paskelbtas 1963 m. Varšuvos leidinio „Zeszyty historyczne“ 3 sąsiuvinyje."
   pagrindžia:
     - c-62008
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Zacharos-Wawrzyńczyk straipsnis „Geneza legendy o rzymskim pochodzeniu Litwinów“ paskelbtas 1963 m. Varšuvos leidinio „Zeszyty historyczne“ 3 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,12 @@ Dusburgietis teigia, kad zachara-Wawrzyńczyk M.
 - id: c-62008
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Zachara-Wawrzyńczyk M. Geneza legendy o rzymskim pochodzeniu Litwinów.—
-    Zeszyty historyczne, Warszawa, 1963, 3, s. 5—35.
+    Пашуто В. Т.  Реваншисты — псевдоисторики России. — М., 1971.
+    Пашуто В. Т. Некоторые общие вопросы летописного источниковедения. —
+    Источниковедение отечественной истории: Сборник статей.
+  citata_rodoma: "Zachara-Wawrzyńczyk M. Geneza legendy o rzymskim pochodzeniu Litwinów.—\nZeszyty historyczne, Warszawa, 1963, 3, s. 5—35."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -48,24 +48,6 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
 - susijęs iš Karaliaučius: Glapas buvo nugabentas į Karaliaučių ir pakartas ant kalvos, kuri, pasak Dusburgiečio, vadinta Glapo kalva.
 - susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89789|Glapas]]: Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, kuri vėliau vadinta Glapo kalva.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Glapas buvo nuvestas į Karaliaučių ir pakartas ant kalvos, kuri vadinta Glapo kalva.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šis, paklausęs patarimo, susikvietė daug brolių bei
-    ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
-    juos užpuolė ir visus išžudė. Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
-    kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
-    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Glapo kalva, vėliau vadinta Rollbergu, buvo į vakarus nuo pilies, dabartinės Kaliningrado centrinės aikštės vakaruose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -87,8 +69,7 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
 - id: c-59186
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šis, paklausęs patarimo, susikvietė daug brolių bei
     ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
@@ -106,13 +87,15 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
 - id: c-59187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    413 D.— mons Glapponis, Jer.— Glappinberc (plg. SRP, 5, p. 100, 204), vėliau —
-    Rollberg (Hennenberger C., Erclerung.., p. 43; SRP, 1, p. 118 (Toeppen M.); Ewald A. L.,
-    Die Eroberung.., 4, p. 109; Gause F., Geschichte..., 1, p. 23) buvęs į vakarus nuo pilies
-    (į vakarus nuo dab. Kaliningrado Centrinės aikštės).
+    Jiems atsitraukiant, atskubėjo priešpriešiais 60
+    krikščionių vyrų, kuriuos siuntė į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas
+    sudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,
+    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur ji ir dabar
+    tebestovi415. Vos atvykęs  po konsekracijos į savo vyskupystę, šis vyskupas gavo per
+    metus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas.
+  citata_rodoma: "413 D.— mons Glapponis, Jer.— Glappinberc (plg. SRP, 5, p. 100, 204), vėliau —\nRollberg (Hennenberger C., Erclerung.., p. 43; SRP, 1, p. 118 (Toeppen M.); Ewald A. L.,\nDie Eroberung.., 4, p. 109; Gause F., Geschichte..., 1, p. 23) buvęs į vakarus nuo pilies\n(į vakarus nuo dab. Kaliningrado Centrinės aikštės)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

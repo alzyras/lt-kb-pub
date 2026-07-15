@@ -58,21 +58,6 @@ Nenurodyta
   teiginys: "Apie 1263-1264 m. Treniota nužudė sosto varžovą Tautvilą, o Tautvilo sūnus pabėgo į Didįjį Naugardą."
   pagrindžia:
     - c-31379
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Treniota pirmasis spėjo nužudyti (apie 1263-1264 m.) sosto
-    varžovą Tautvilą. Tik šio sūnui pavyko išsigelbėti ir pabėgti į Did.
-    Naugardą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

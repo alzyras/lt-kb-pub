@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 229
+tema_objektu_skaicius: 223
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 229.
+Objektų skaičius: 223.
 
 ## Kaip naudoti
 
@@ -24,6 +24,10 @@ Objektų skaičius: 229.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Henrikas iš Lichtenšteino]]
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 
 ### Įvykiai
 - [[objektai/ivykiai/1227 m. jotvingių antpuoliai iki Voluinės Vladimiro ir mūšis su Danieliumi bei Vasilka]]
@@ -49,13 +53,11 @@ Objektų skaičius: 229.
 - [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)]]
 - [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.)]]
 - [[objektai/ivykiai/Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.)]]
-- [[objektai/ivykiai/Bisenės papilių sudeginimas (1313 m.)]]
-- [[objektai/ivykiai/Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)]]
+- [Bisenės papilių sudeginimas (1313 m.)](../objektai/ivykiai/Bisen%C4%97s%20papili%C5%B3%20sudeginimas%20%281313%20m.%29)
+- [Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)](../objektai/ivykiai/Bisen%C4%97s%20pilies%20sudeginimas%20%281316%20m.%20baland%C5%BEio%204%20d.%29)
 - [Bisenės pilies užkariavimas](../objektai/ivykiai/Bisen%C4%97s%20pilies%20u%C5%BEkariavimas)
-- [Boleslovo, Mazovijos kunigaikščio, Palenkės užėmimas (1440 m.)](../objektai/ivykiai/Boleslovo%2C%20Mazovijos%20kunigaik%C5%A1%C4%8Dio%2C%20Palenk%C4%97s%20u%C5%BE%C4%97mimas%20%281440%20m.%29)
 - [Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje](../objektai/ivykiai/Braclavo%20atstatymas%20ir%20lietuvi%C5%B3%20pergal%C4%97%20prie%C5%A1%20totorius%20step%C4%97je)
 - [Brandenburgo pilies sunaikinimas ir atstatymas (pilis)](../objektai/ivykiai/Brandenburgo%20pilies%20sunaikinimas%20ir%20atstatymas)
-- [Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę](../objektai/ivykiai/Briansko%20u%C5%BE%C4%97mimas%20ir%20Seversko%20%C5%BEem%C4%97s%20per%C4%97jimas%20%C4%AF%20Maskvos%20pus%C4%99)
 - [Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)](../objektai/ivykiai/Brolio%20Ditricho%20i%C5%A1%20Ezbeko%20ir%20kit%C5%B3%20broli%C5%B3%20%C5%BE%C5%ABtis%20%C5%BEygyje%20link%20Gardino%20%281295%20m.%20gegu%C5%BE%C4%97s%2020%20d.%29)
 - [Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje](../objektai/ivykiai/Brolio%20Fridricho%20Hol%C4%97s%20ir%2030%20vyr%C5%B3%20%C5%BE%C5%ABtis%20Kirsnavos%20%C5%BEygyje)
 - [Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)](../objektai/ivykiai/Brolio%20Gundramo%20ir%20daugelio%20lietuvi%C5%B3%20%C5%BE%C5%ABtis%20prie%20Kristburgo%20%281302%20m.%29)
@@ -134,7 +136,6 @@ Objektų skaičius: 229.
 - [Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20ir%20Vytauto%20su%C4%97mimas%20bei%20K%C4%99stu%C4%8Dio%20nu%C5%BEudymas%20Kr%C4%97voje%20%281382%20m.%29)
 - [Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20Vilniaus%20u%C5%BE%C4%97mimas%20ir%20Jogailos%20%C4%AFkalinimas%20%281381%20m.%20rugpj%C5%ABtis%29)
 - [Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20%C5%BEygis%20%C4%AF%20Semb%C4%85%20ir%20m%C5%AB%C5%A1is%20su%20kry%C5%BEiuo%C4%8Diais%20%281370%20m.%29)
-- [Laivų kautynės prie Santyro](../objektai/ivykiai/Laiv%C5%B3%20kautyn%C4%97s%20prie%20Santyro)
 - [Liefardo malūno paėmimas ir Elbingo miestiečių žūtis](../objektai/ivykiai/Liefardo%20mal%C5%ABno%20pa%C4%97mimas%20ir%20Elbingo%20miestie%C4%8Di%C5%B3%20%C5%BE%C5%ABtis)
 - [Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)](../objektai/ivykiai/Lietuvi%C5%B3%20ir%20rus%C5%B3%20kunigaik%C5%A1%C4%8Di%C5%B3%20m%C5%AB%C5%A1is%20su%20chano%20Kurdo%20totoriais%20prie%20Mozyriaus)
 - [Lietuvių nesėkmingas puolimas prieš Skalvių pilį (1293 m.)](../objektai/ivykiai/Lietuvi%C5%B3%20nes%C4%97kmingas%20puolimas%20prie%C5%A1%20Skalvi%C5%B3%20pil%C4%AF%20%281293%20m.%29)
@@ -150,7 +151,6 @@ Objektų skaičius: 229.
 - [Lojevo mūšis (1649 m. liepos 31 d.)](../objektai/ivykiai/Lojevo%20m%C5%AB%C5%A1is%20%281649%20m.%20liepos%2031%20d.%29)
 - [Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)](../objektai/ivykiai/Lubavos%20%C5%BEem%C4%97s%20m%C5%AB%C5%A1is%2C%20kuriame%20%C5%BEuvo%20magistras%20Helmerichas%20ir%20mar%C5%A1alas%20Ditrichas%20%281263%20m.%29)
 - [Medininkų žemės mūšis (1320 m. liepos 27 d.)](../objektai/ivykiai/Medinink%C5%B3%20%C5%BEem%C4%97s%20m%C5%AB%C5%A1is%20%281320%20m.%20liepos%2027%20d.%29)
-- [Mikalojus Radvila žygyje Livonijoje ir Tarvastos pilies užėmimas (pilis)](../objektai/ivykiai/Mikalojus%20Radvila%20%C5%BEygyje%20Livonijoje%20ir%20Tarvastos%20pilies%20u%C5%BE%C4%97mimas)
 - [Miro mūšis (1792 m. birželio 11 d.)](../objektai/ivykiai/Miro%20m%C5%AB%C5%A1is%20%281792%20m.%20bir%C5%BEelio%2011%20d.%29)
 - [Mohačo mūšis](../objektai/ivykiai/Moha%C4%8Do%20m%C5%AB%C5%A1is)
 - [Mstislavlio apgultis ir mūšis prie Vechros (mūšis, XIV a.)](../objektai/ivykiai/Mstislavlio%20apgultis%20ir%20m%C5%AB%C5%A1is%20prie%20Vechros)
@@ -162,7 +162,6 @@ Objektų skaičius: 229.
 - [Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)](../objektai/ivykiai/M%C5%AB%C5%A1is%20prie%20Sve%C4%8D%C4%97s%2C%20kuriame%2C%20pasak%20Dusburgie%C4%8Dio%2C%20%C5%BEuvo%201500%20pomeran%C5%B3)
 - [Mūšis prie Treiderės upės (1298 m. birželio 1 d.)](../objektai/ivykiai/M%C5%AB%C5%A1is%20prie%20Treider%C4%97s%20up%C4%97s%20%281298%20m.%20bir%C5%BEelio%201%20d.%29)
 - [Mūšis prie Vurungeno kaimo (mūšis, XIII a.)](../objektai/ivykiai/M%C5%AB%C5%A1is%20prie%20Vurungeno%20kaimo)
-- [Mūšis su kryžiuočiais ties Strėva (mūšis, XIV a.)](../objektai/ivykiai/M%C5%AB%C5%A1is%20su%20kry%C5%BEiuo%C4%8Diais%20ties%20Str%C4%97va)
 - [Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)](../objektai/ivykiai/M%C5%AB%C5%A1is%20ties%20M%C4%97lynaisiais%20Vandenimis)
 - [Napoleono kariuomenės žygis į Lietuvą (1812 m.)](../objektai/ivykiai/Napoleono%20kariuomen%C4%97s%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20%281812%20m.%29)
 - [Narso kariuomenės sutelkimas Pado žemupyje ir Taginos mūšis](../objektai/ivykiai/Narso%20kariuomen%C4%97s%20sutelkimas%20Pado%20%C5%BEemupyje%20ir%20Taginos%20m%C5%AB%C5%A1is)
@@ -194,7 +193,6 @@ Objektų skaičius: 229.
 - [Smolensko apgultis (1632–1634 m.)](../objektai/ivykiai/Smolensko%20apgultis%20%281632%E2%80%931634%20m.%29)
 - [Smolensko sukilimas](../objektai/ivykiai/Smolensko%20sukilimas)
 - [Smolensko sukilimas po Vorsklos mūšio (mūšis)](../objektai/ivykiai/Smolensko%20sukilimas%20po%20Vorsklos%20m%C5%AB%C5%A1io)
-- [Stanislovo Petravičiaus pagalbinės kariuomenės susidūrimas su moldavais](../objektai/ivykiai/Stanislovo%20Petravi%C4%8Diaus%20pagalbin%C4%97s%20kariuomen%C4%97s%20susid%C5%ABrimas%20su%20moldavais)
 - [Strėvos mūšis (1348 m.)](../objektai/ivykiai/Str%C4%97vos%20m%C5%AB%C5%A1is%20%281348%20m.%29)
 - [Susirėmimas Pokarviuose (1261 m.)](../objektai/ivykiai/Susir%C4%97mimas%20Pokarviuose%20%281261%20m.%29)
 - [Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.)](../objektai/ivykiai/Susir%C4%97mimas%20prie%20pagrindinio%20%C4%AFva%C5%BEiavimo%20%C4%AF%20AT%20r%C5%ABmus%20ir%20Art%C5%ABro%20Sakalausko%20%C5%BE%C5%ABtis%20%281991%20m.%20rugpj%C5%AB%C4%8Dio%2021%20d.%29)
@@ -203,7 +201,6 @@ Objektų skaičius: 229.
 - [Tilžės ir Austerlico kautynės](../objektai/ivykiai/Til%C5%BE%C4%97s%20ir%20Austerlico%20kautyn%C4%97s)
 - [Totorių invazija į Vengriją ir Lenkiją (1241 m.)](../objektai/ivykiai/Totori%C5%B3%20invazija%20%C4%AF%20Vengrij%C4%85%20ir%20Lenkij%C4%85%20%281241%20m.%29)
 - [Trakų sutriuškinimas galų 390 m. prieš Kristaus gimimą](../objektai/ivykiai/Trak%C5%B3%20sutriu%C5%A1kinimas%20gal%C5%B3%20390%20m.%20prie%C5%A1%20Kristaus%20gimim%C4%85)
-- [Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas](../objektai/ivykiai/Tre%C4%8Dioji%20Smolensko%20apgultis%20ir%20nes%C4%97kmingas%20Dimitrijaus%20bandymas)
 - [Trijų brolių ir 40 vyrų žūtis prie Balgos](../objektai/ivykiai/Trij%C5%B3%20broli%C5%B3%20ir%2040%20vyr%C5%B3%20%C5%BE%C5%ABtis%20prie%20Balgos)
 - [Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)](../objektai/ivykiai/Ulos%20%28%C4%8Ca%C5%A1nik%C5%B3%29%20m%C5%AB%C5%A1is%20%281564%20m.%20sausio%2023%20d.%29)
 - [Užpelkių kautynės](../objektai/ivykiai/U%C5%BEpelki%C5%B3%20kautyn%C4%97s)
@@ -211,7 +208,6 @@ Objektų skaičius: 229.
 - [Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)](../objektai/ivykiai/U%C5%BEvolgio%20totori%C5%B3%20sumu%C5%A1imas%20ir%20Machmeto%20i%C5%A1k%C4%97limas%20%C4%AF%20Aukso%20Ordos%20chanus%20%281424%20m.%29)
 - [Vaistotpilio kovos ir pilies apleidimas (pilis)](../objektai/ivykiai/Vaistotpilio%20kovos%20ir%20pilies%20apleidimas)
 - [Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)](../objektai/ivykiai/Valkinink%C5%B3%20konfederacija%20ir%20Sapieg%C5%B3%20pralaim%C4%97jimas%20%281700%20m.%29)
-- [Varnos mūšis (mūšis, XV a.)](../objektai/ivykiai/Varnos%20m%C5%AB%C5%A1is)
 - [Vartenbergo pilies užkariavimas (pilis)](../objektai/ivykiai/Vartenbergo%20pilies%20u%C5%BEkariavimas)
 - [Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)](../objektai/ivykiai/Vedro%C5%A1os%20m%C5%AB%C5%A1is%20ir%20Konstantino%20Ostrogi%C5%A1kio%20pa%C4%97mimas%20%C4%AF%20nelaisv%C4%99)
 - [Veklico pilies ir vienos pilaitės sugriovimas](../objektai/ivykiai/Veklico%20pilies%20ir%20vienos%20pilait%C4%97s%20sugriovimas)

@@ -42,41 +42,16 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
   teiginys: "Dusburgietis Skomanto atsivertimą vaizduoja kaip perėjimą nuo Dievo bažnyčios persekiojimo prie krikščionių vado vaidmens."
   pagrindžia:
     - c-85541
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Skomanto mirtį
-
-       Štai koks  iš aukščiausiojo malonės nuostabus atsivertimas  ir pasikeitimas,  štai
-    Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo
-    gynėju ir garbingu krikščionių tautos vadu. Mirties patale gulėdamas, jis, paklaustas
-    brolio Konrado, Baigos kunigo, kodėl susilaukęs iš viešpaties šitokios malonės įtikėti
-    Kristumi, atsakė: „Prieš savo atsivertimą nieko gera nesu padaręs, gal tik tą vienui vieną
-    darbą, kad, netikėliams pagrobus Lenkijoje švenčiausiosios mergelės Marijos bei jos
-    sūnaus paveikslą ir jį pusiau perpjovus, pakėliau jį nuo žemės, nuvaliau savo drabužiais
-    ir padėjau ten, kur jam dera būti“. Sitai pasakęs, laimingai atidavė viešpačiui sielą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
 - id: c-85541
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 173"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 173."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Skomanto mirtį
-
-       Štai koks  iš aukščiausiojo malonės nuostabus atsivertimas  ir pasikeitimas,  štai
+    Štai koks iš aukščiausiojo malonės nuostabus atsivertimas ir pasikeitimas, štai
     Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo
     gynėju ir garbingu krikščionių tautos vadu. Mirties patale gulėdamas, jis, paklaustas
     brolio Konrado, Baigos kunigo, kodėl susilaukęs iš viešpaties šitokios malonės įtikėti
@@ -89,5 +64,5 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89600
     - t-89599
+    - t-89600

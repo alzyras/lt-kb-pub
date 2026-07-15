@@ -58,23 +58,6 @@ Nenurodyta
   teiginys: "1409 m. rugpjūčio 6 d., kryžiuočiams prarandant Žemaičius ir neatskyrus Jogailos nuo Vytauto, Ordinas paskelbė karą Lenkijai."
   pagrindžia:
     - c-28789
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1409 m. rugpjūčio 6 d., kryžiuočiams prarandant Žemaičius ir neatskyrus Jogailos nuo Vytauto, Ordinas paskelbė karą Lenkijai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tuo pat laiku,
-    kai kryžiuočiams galutinai išslydo Žemaičiai, jie buvo priversti
-    skelbti karą Lenkijai (1409.VIII.6), nes ordinui nepasisekė Jogailos
-    atskirti nuo ketvirtą kartą atsimetusio Vytauto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

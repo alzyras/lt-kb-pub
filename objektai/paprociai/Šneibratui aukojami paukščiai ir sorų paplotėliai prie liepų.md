@@ -58,8 +58,8 @@ Nenurodyta
   teiginys: "Narbutas aiškina, kad Šneibrato mitas galėjo virsti nusipelniusio tautai dievinamo vyro simboliu, o jam aukoti prie liepų kepti sorų paplotėliai."
   pagrindžia:
     - c-172769
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Šneibratą apibūdina kaip paukščių ūkio ir medžioklės dievą, kuriam daugiausia aukotos vištos, antys, balandžiai ir povai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -77,41 +77,20 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas aiškina, kad Šneibrato mitas galėjo virsti nusipelniusio tautai dievinamo vyro simboliu, o jam aukoti prie liepų kepti sorų paplotėliai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Išeitų, kad dievo Šneibrato mitas virto nusipelniusio tau­
-    tai dievinamo vyro simboliu, kadangi tie patys kronikininkai
-    teigia, jog trejetas vyriausiųjų dievų buvo Perkūnas, Atrimpas
-    ir Poklius, o po jų vyriausiesiems dievams priklausė taip pat
-    Viršaitis, Šneibratas ir Kurkas.
-    Tai paimta iš paminklų, rastų Prūsijoje, kur kaip dievai buvo
-    garbinami du broliai -  Vaidevutis ir Prutenis, garbinti per sta­
-    bus tų minėtų dievų, kurie turėjo ir atskiras savo valdymo sritis.
-    Jam aukodavo sorų paplotėlius, iškeptus ant ugnies, sukur­
-    tos prie liepų medžių21.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172768
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 110"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 110."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šneibratas (Sznejbrato)
-    Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo
-    aukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-
-    zwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų
-    Komovės šventykloje.
+    Herodotas sako, kad pelazgai, iš Sa-
+    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
+    įvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­
+    siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
+    Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje
+    Graikijoje ir toliau.
+  citata_rodoma: "Šneibratas (Sznejbrato)\nPaukščių ūkio ir medžioklės dievas. Jam daugiausia buvo\naukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-\nzwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų\nKomovės šventykloje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -122,8 +101,7 @@ Nenurodyta
 - id: c-172769
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 111"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Išeitų, kad dievo Šneibrato mitas virto nusipelniusio tau­
     tai dievinamo vyro simboliu, kadangi tie patys kronikininkai
@@ -131,7 +109,7 @@ Nenurodyta
     ir Poklius, o po jų vyriausiesiems dievams priklausė taip pat
     Viršaitis, Šneibratas ir Kurkas.
     Tai paimta iš paminklų, rastų Prūsijoje, kur kaip dievai buvo
-    garbinami du broliai -  Vaidevutis ir Prutenis, garbinti per sta­
+    garbinami du broliai - Vaidevutis ir Prutenis, garbinti per sta­
     bus tų minėtų dievų, kurie turėjo ir atskiras savo valdymo sritis.
     Jam aukodavo sorų paplotėlius, iškeptus ant ugnies, sukur­
     tos prie liepų medžių21.

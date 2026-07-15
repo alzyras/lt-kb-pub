@@ -34,24 +34,6 @@ BIBLIOGRAFINIAI RINKINIAI, LIEČlĄ LIETUVOS ISTORIJĄ Pilna Lietuvos istorijos 
   teiginys: "Zenonas Ivinskis pirmąjį Lietuvos istorijos bibliografijos rinkinį vertino kaip palikusį didelę spragą."
   pagrindžia:
     - c-34143
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Zenonas Ivinskis pirmąjį Lietuvos istorijos bibliografijos rinkinį vertino kaip palikusį didelę spragą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Visai ignoruoti
-    yra darbai iš Lietuvos istorijos srities, rašyti lietuvių ir svetimtaučių lais­
-    vajame pasaulyje. Tad šis, iš viso pirmasis,** **_Lietuvos istorijos_** **bibliografijos
-    rinkinys yra palikęs didelę spragą. Tarp enciklopedijų, žinoma, nutylėta
-    LE.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -45,27 +45,6 @@ Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su 
 - susijęs iš Kuršas: Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį.
 - susijęs iš Kuršas: Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį.
 - susijęs iš Kuršas: Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1244 m.
-    Mindaugo - „Lietuvos galingo karaliaus“
-    pajėgos įsiveržė į Kuršą, su piliadaužė-
-    mis puolė Ordino anksčiau užvaldytą
-    Embutės pilį, tačiau jos užimti nepa-
-    vyko. Kurše tarp lietuvių ir Ordino vyko
-    nuolatinės kovos, abi pusės jų metu pa-
-    tyrė didelių nuostolių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45093

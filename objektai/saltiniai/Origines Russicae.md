@@ -42,38 +42,13 @@ media_all_json: |-
   teiginys: "„Origines Russicae“ 1768 m. perspausdino Gerardo Fridriko Milerio kalbą „Rusų tautos ir vardo kilmė“."
   pagrindžia:
     - c-174732
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Origines Russicae“ 1768 m. perspausdino Gerardo Fridriko Milerio kalbą „Rusų tautos ir vardo kilmė“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Gerardas Fridrikas Mileris
-    (Müller;
-    1705—■
-    1783), istoriografas ir akademikas. 1749 me­
-    tais Rusijos Mokslų Akademijos iškilmingame
-    susirinkime pasakė kalbą, pavadintą „Rusų
-    tautos ir vardo kilmė“, kurią dauguma istori­
-    kų sutiko labai nepalankiai. Kalba (jau at­
-    spausdinta) buvo sunaikinta, bet 1768 metais
-    vėl buvo išspausdinta (Origines Russicae / /
-    Allgemeine historische Bibliothek. T. IV).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174732
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 433"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 433."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Gerardas Fridrikas Mileris
     (Müller;

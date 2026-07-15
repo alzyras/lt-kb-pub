@@ -57,23 +57,6 @@ Nenurodyta
   teiginys: "1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas."
   pagrindžia:
     - c-40927
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1667 m. sausio 30 d. netoli Smolensko pa-
-    sirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko
-    Smolenskas, Černigovas, Severų Naugardas, Kijevas. ATR pripažino
-    kairiakrantės Ukrainos susijungimą su Rusija. Rusija pasižadėjo
-    grąžinti pagrobtą turtą, Lietuva atgavo Latgalą, Polocką ir Vitebską.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

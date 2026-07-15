@@ -44,28 +44,6 @@ media_all_json: |-
     - c-36665
 - susijęs iš K. Heinl, Fürst Witold von Litauen 1382-1401: K. Heinlio „Fürst Witold von Litauen 1382–1401“ 1925 m. buvo išleistas kaip 61 puslapio darbas.
 - susijęs iš CEV: CEV 53 numeris nurodytas 18 puslapyje.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'K. Heinl teigė, kad Vytautui valdžią įgyti buvo sunkiau nei pirmtakams, bet jis tikslą pasiekė puikiau už juos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Valdžią Vytautui buvo lemta įgauti tik per sunkią kovą.
-    Ir teisingai pastebi K. Heinl: „Nei vienam jo pirmtakūnų tą pa­
-    daryti nebuvo taip sunku, bet nei vienas jų taip puikiai nepasie­
-    kė savo tikslo kaip jis“^2 ). Krašto viduje jis tapo absoliutišku
-    valdovu, kurio supykinti bijodami valdiniai net patys ėjo kartis,
-    kaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka
-    taip pat buvo didžiausia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-36665
@@ -87,5 +65,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50875
     - t-50874
+    - t-50875

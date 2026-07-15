@@ -8,12 +8,12 @@ datos:
   - '1546 m.'
 date_start: '1545'
 date_end: '1546'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,8 +60,8 @@ Nenurodyta
   teiginys: "Augustas ir Barbora Radvilaitė prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje."
   pagrindžia:
     - c-168899
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą ir Stanislovo Goštauto našlę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -105,43 +105,6 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Augustas ir Barbora Radvilaitė prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mat
-    tie apsilankymai iš tiesų rodėsi šiek tiek lengvapėdiš­
-    ki, tačiau gink dieve negali sakyti, jog buvo netau­
-    rūs; vis dėlto valdovas pakankamai nusikalto jau vien
-    dėl to, kad nevengė veiksmų, kurių žmonės negali ne­
-    peikti. Ilgai draugavęs ir dažnai susitikinėjęs, Augus­
-    tas nieku būdu nestengė nei Barboros atkakliai gina­
-    mos doros įveikti, nei vis smarkiau įsiplieskiančio
-    širdies karščio nuslopinti, todėl netrukus su visomis
-    krikščioniškomis apeigomis jiedu vienas kitam prisie­
-    kė santuokinę ištikimybę Barboros giminaičių Stanis­
-    lovo Kęsgailos bei dviejų Radvilų akivaizdoje. Barbo­
-    ros pusbrolis Mikalojus Rad-
-    1546 m e ta i
-    vila, dėl juodų plaukų gavęs
-    Juodojo
-    pravardę,
-    panoro
-    didesniais savo šeimos titulais išlyginti skirtumą tarp
-    dviejų sutuoktinių — Barboros ir Augusto, todėl pasi­
-    rūpino, kad Augsburgo suvažiavime Karolis V sutiktų
-    jį bei jo brolį Joną paskelbti Olykos bei Nesvyžiaus
-    kunigaikščiais, o Barboros brolį Mikalojų, vadinamą
-    Ruduoju,— Dubingių ir Biržų ir kad visi būtų įtraukti
-    į Romos imperijos princų kolegiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-168898
@@ -158,13 +121,11 @@ Nenurodyta
     taip išauklėtas, kad mėgo
     puotauti, šokti ir visaip link-
     1545 m e ta i
-    M iršta  A u strijo s k u ­
+    M iršta A u strijo s k u ­
     n ig a ik š ty tė
     E lžb ieta ,
-    A u g u sto  žm on a
-    6 7  4
-
-    ## Puslapis 673
+    A u g u sto žm on a
+    6 7 4
 
     smintis su moterimis, pradėjo lankyti Barborą Radvi­
     laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­
@@ -180,6 +141,7 @@ Nenurodyta
     niu keliu ten patekti, palie­
     pė nukloti iš pilies į Barboros
     sodus takelį ir tiltuką per Vilnios upę.
+  citata_rodoma: "Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai\nją palaidojęs Vilniaus katedros koplyčioje, kur ilsėjosi\nir karaliaus Aleksandro pa­\nlaikai, Augustas neilgai ge­\ndėjo. Jaunatviškai lengvabū­\ndiškas, be to, iš mažumės\ntaip išauklėtas, kad mėgo\npuotauti, šokti ir visaip link-\n1545 m e ta i\nM iršta  A u strijo s k u ­\nn ig a ik š ty tė\nE lžb ieta ,\nA u g u sto  žm on a\n6 7  4\n\n## Puslapis 673\n\nsmintis su moterimis, pradėjo lankyti Barborą Radvi­\nlaitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­\nvados Stanislovo Goštauto našlę. Nors Radvilų rūmai\nbuvo visai netoli karaliaus\nA u g u sta s sla p ta i ve-\npilies, Augustas, trokšdamas\nd a\nB arborą\nR a d vi-\nkada panorėjęs kuo trumpes-\nla itę\nniu keliu ten patekti, palie­\npė nukloti iš pilies į Barboros\nsodus takelį ir tiltuką per Vilnios upę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -190,8 +152,7 @@ Nenurodyta
 - id: c-168899
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 673"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 673."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat
     tie apsilankymai iš tiesų rodėsi šiek tiek lengvapėdiš­

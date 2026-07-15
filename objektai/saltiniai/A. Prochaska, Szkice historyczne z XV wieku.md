@@ -44,24 +44,6 @@ media_all_json: |-
   teiginys: "A. Prochaskos „Szkice historyczne z XV wieku“ buvo išleista Krokuvoje ir Varšuvoje 1884 m."
   pagrindžia:
     - c-33518
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Prochaskos „Szkice historyczne z XV wieku“ buvo išleista Krokuvoje ir Varšuvoje 1884 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Königsberg 1912,
-    išsp. Oberländische Geschichtsblätter, 14, 1912, 407-522 p. — Procha _­_
-    ska, A. : _Szkice historyczne z XV wieku,_ Kraków-Warszawa 1884. —
-    Weise, E. : _Der Heidenkampf des Deutschen Ordens,_ ZfO, t. 12, 1963,
-    420-473, 622-672 p. ; t. 13, 1964, 401-420 p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

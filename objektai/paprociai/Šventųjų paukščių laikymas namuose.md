@@ -55,21 +55,9 @@ Nenurodyta
   teiginys: "Kalnėnai ir žemaičiai tuos paukščius gerbia ne dėl kito priežasties, o dėl jų teikiamos linksmybės ir apsaugos."
   pagrindžia:
     - c-10053
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    jei šiandien tą daro kalnėnai ir žemaičiai, tad tą patį darė ir kitą kartą ne dėl kito kokio lyčiaus^836 ,
-        kaip tiktai dėl to paties, dėl kurio šiandien tebdaro, gerbdami juos vienus kaipo prajovus^837
-        linksmybės, kitus kaipo savo apgynėjus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

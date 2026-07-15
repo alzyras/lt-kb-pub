@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vaišvilkas, išgirdęs apie Treniotos žūtį, su pinskiečiais nuvyko į Naugarduką ir parvyko į Lietuvą kunigaikščiauti. Lietuvos metraštis teigia, kad Lietuva jį sutiko džiaugdamasi kaip valdovo sūnų.
+Lietuvos metraščio pasakojimu, Vaišvilkas su pinskiečiais ir naugardukiečiais parvyko į Lietuvą kunigaikščiauti, o Lietuva jį sutiko kaip valdovo sūnų. Lietuvos metraštis vaizduoja, kad Levas, šėtono pakurstytas ir prisiminęs Vaišvilko žalą Rusų žemėms, nužudė Vaišvilką švento Mykolo vienuolyne.
 
 ## Laikotarpis ir datos
 
@@ -50,40 +50,26 @@ Nenurodyta
   teiginys: "Lietuvos metraščio pasakojimu, Vaišvilkas su pinskiečiais ir naugardukiečiais parvyko į Lietuvą kunigaikščiauti, o Lietuva jį sutiko kaip valdovo sūnų."
   pagrindžia:
     - c-169880
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Lietuvos metraščio pasakojimu, Vaišvilkas su pinskiečiais ir naugardukiečiais parvyko į Lietuvą kunigaikščiauti, o Lietuva jį sutiko kaip valdovo sūnų.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    11. APIE VAIŠVILKO NUŽUDYMĄ IR PALEMONO GIMINES
-    GALĄ
-    Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
-    Naugarduką, ten pasiėmė su savimi naugardukiečius ir
-    parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
-    savo valdovo sūnų didžiai džiaugdamasi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196790"></a>
+- t-002
+  global_id: t-196790
+  teiginys: "Lietuvos metraštis vaizduoja, kad Levas, šėtono pakurstytas ir prisiminęs Vaišvilko žalą Rusų žemėms, nužudė Vaišvilką švento Mykolo vienuolyne."
   pagrindžia:
-    - t-001
+    - c-169880
 
 ## Citatos
 
 - id: c-169880
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 53."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    11. APIE VAIŠVILKO NUŽUDYMĄ IR PALEMONO GIMINES
-    GALĄ
-    Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
-    Naugarduką, ten pasiėmė su savimi naugardukiečius ir
-    parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
-    savo valdovo sūnų didžiai džiaugdamasi.
+    Ir, šėtonui pakursčius,
+    Levas prisiminė, kad Vaišvilko tėvas ir pats Vaišvilkas
+    yra žiauriai kenkę Rusų žemėms ir jam pačiam. Ir štai
+    čia pat, švento Mykolo vienuolyne, jį nužudė*. Ir
+    taip pasibaigė Romos kunigaikščio Palemono giminė.
   citata_rodoma: "Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į \nNaugarduką, ten pasiėmė su savimi naugardukiečius ir \nparvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko \nsavo valdovo sūnų didžiai džiaugdamasi."
   statusas: verified
   teiginio_tipas: faktas
@@ -91,3 +77,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186567
+    - t-196790

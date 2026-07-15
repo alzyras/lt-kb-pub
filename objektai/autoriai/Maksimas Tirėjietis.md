@@ -35,39 +35,13 @@ Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais 
   teiginys: "Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais Jupiterio stabais iš ąžuolo."
   pagrindžia:
     - c-173322
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais Jupiterio stabais iš ąžuolo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Man
-    atrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies
-    dievo, visiškai toks pat stabas, kaip imperatoriaus Aurelijaus
-    Antonino Heliogabalas, apie kurį kalbėjome straipsnyje „San­
-    tvaras“.
-    Perkūno stabai iš karto turėjo būti tokie, apie kokius kal­
-    ba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta­
-    bus, tai yra didžiulis ąžuolas arba neapdorotas ąžuolo gaba­
-    las. Vis dėlto žinome, kad senovinėje Romovės šventykloje po
-    anuo didžiuliu ir visada žaliuojančiu ąžuolu stovėjo trejetas
-    stabų -  Perkūno, Atrimpo ir Pokliaus; šventyklos aptvaro at­
-    skirose nišose -  kitų dievų stabai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173322
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 243"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 243."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Man
     atrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies
@@ -79,8 +53,8 @@ Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais 
     bus, tai yra didžiulis ąžuolas arba neapdorotas ąžuolo gaba­
     las. Vis dėlto žinome, kad senovinėje Romovės šventykloje po
     anuo didžiuliu ir visada žaliuojančiu ąžuolu stovėjo trejetas
-    stabų -  Perkūno, Atrimpo ir Pokliaus; šventyklos aptvaro at­
-    skirose nišose -  kitų dievų stabai.
+    stabų - Perkūno, Atrimpo ir Pokliaus; šventyklos aptvaro at­
+    skirose nišose - kitų dievų stabai.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

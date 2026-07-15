@@ -40,21 +40,6 @@ media_all_json: |-
   teiginys: "Lietuvos bažnytinė provincija buvo įkurta 1926 m. balandžio 4 d. popiežiaus Pijaus XI bule „Gens Lithuanorum“."
   pagrindžia:
     - c-38357
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    V., 518—519 nr.
-    (^3) ) Lietuvos bažnytinė provincija įkurta 1926. IV. 4 dabartinio popie­
-    žiaus Pijaus XI bulla „Gens Lithuanorum”.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -51,37 +51,6 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
   teiginys: "Kunigas Mackevičius pamokslą sakė lenkiškai ir lietuviškai, o kariuomenė bei daugybė žmonių jo klausėsi lauke."
   pagrindžia:
     - c-11256
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Buvusi ten atėjusi Lietuvos kariuomenė, trys didžiausi pulkai. Vienas pulkas, Dolegos
-    vedamas, antras kunigo Mackevičiaus, trečias kunigo Pežos-Palionio. Pirmajame visi
-    | kareiviai gražiai apsitaisę, prie šonų šoblios, ant pečių muškietai, ant galvų konfederat-
-    kos. Antrasai pulkas aptaisytas, kas ką turėjo; o trečiasai - sodiečių, beveik visų vyzoty,
-    dalgėm apginkluotų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kunigas Mackevičius pamokslą sakė lenkiškai ir lietuviškai, o kariuomenė bei daugybė žmonių jo klausėsi lauke.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
-    menė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

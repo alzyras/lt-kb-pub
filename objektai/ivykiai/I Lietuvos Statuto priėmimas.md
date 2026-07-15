@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1529 m. buvo priimtas I Lietuvos Statutas. Alberto Goštauto pagyrimas Žygimantui II Kazimieraičiui buvo parašytas šio priėmimo proga.
+Alberto Goštauto pagyrimas Žygimantui II Kazimieraičiui buvo parašytas 1529 m. I Lietuvos Statuto priėmimo proga.
 
 ## Laikotarpis ir datos
 
@@ -64,34 +64,6 @@ Nenurodyta
   pagrindžia:
     - c-170442
 
-<a id="claim-t-187473"></a>
-- t-002
-  global_id: t-187473
-  teiginys: "1529 m. buvo priimtas I Lietuvos Statutas."
-  pagrindžia:
-    - c-170442
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O Bychovco kronikoje iš
-    to paties šaltinio įterpti Mindaugo ir jo sūnaus Vaiš­
-    vilko fragmentai.
-    Turime taip pat išlikusį ir neginčijamai paties Al­
-    berto Goštauto literatūrinės kūrybos pavyzdį — Žygi­
-    manto II Kazimieraičio pagyrimą, parašytą 1529 m.
-    Lietuvos Didžiosios Kunigaikštystės teisės kodekso —
-    I-jo Lietuvos Statuto priėmimo proga 5 7 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-170442
@@ -99,19 +71,24 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    O Bychovco kronikoje iš
-    to paties šaltinio įterpti Mindaugo ir jo sūnaus Vaiš­
-    vilko fragmentai.
-    Turime taip pat išlikusį ir neginčijamai paties Al­
-    berto Goštauto literatūrinės kūrybos pavyzdį — Žygi­
-    manto II Kazimieraičio pagyrimą, parašytą 1529 m.
-    Lietuvos Didžiosios Kunigaikštystės teisės kodekso —
-    I-jo Lietuvos Statuto priėmimo proga 5 7 .
+    Lietuvoje poleminės-publicistinės raštijos pavyzdys
+    ir drauge istorinis šaltinis buvo parašytas kaip atsaky­
+    mas j neišlikusį ar nežinomą skundą Trakų vaivados
+    ir LDK vyr. etmono Konstantino Ostrogiškio, nuo
+    1522 m. tapusio politiniu ir asmeniniu A. Goštauto
+    priešu. Būdinga, kad šiame memoriale apžvelgiami
+    XVI a. pirmojo ketvirčio politiniai įvykiai, kurių ne-
+    beapėmė T. Narbuto paskelbtasis rankraštis. Be kitko,
+    memoriale A. Goštautas aprašo savo veiklą M. Glins­
+    kio maišto (1508 m.) laikotarpiu, apie ką žadėjo rašyti
+    Bychovco kronikos autorius.
+    Sutampa Bychovco kronikos ir A. Goštauto memo­
+    rialo tonas ir tendencija, nušviečiant Goštautų giminės
+    istorinį vaidmenį ir reikšmę Lietuvos valstybėje.
   citata_rodoma: "O Bychovco kronikoje iš\nto paties šaltinio įterpti Mindaugo ir jo sūnaus Vaiš­\nvilko fragmentai.\nTurime taip pat išlikusį ir neginčijamai paties Al­\nberto Goštauto literatūrinės kūrybos pavyzdį — Žygi­\nmanto II Kazimieraičio pagyrimą, parašytą 1529 m.\nLietuvos Didžiosios Kunigaikštystės teisės kodekso —\nI-jo Lietuvos Statuto priėmimo proga 5 7 ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187473
     - t-187472

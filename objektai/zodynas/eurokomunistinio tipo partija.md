@@ -36,25 +36,6 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
   pagrindžia:
     - c-24824
 - susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78357|Lietuvos komunistų partija]]: LKP atsiskyrus nuo SSKP, atsirado nacionalinė eurokomunistinio tipo partija su reformuota programa ir nauju statutu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Suvažiavimo metu „už savarankišką LKP, tu-
-    rinčią savo programą ir statutą“, iš 1 033 delegatų balsavo 855 ir LKP atsi-
-    skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
-    turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
-    pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
-    cialdemokratinę orientaciją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-24824

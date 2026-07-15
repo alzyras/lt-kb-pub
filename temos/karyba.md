@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 41
+tema_objektu_skaicius: 38
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 41.
+Objektų skaičius: 38.
 
 ## Kaip naudoti
 
@@ -33,7 +33,6 @@ Objektų skaičius: 41.
 - [[objektai/paprociai/Ietininkų turnyras dėl žirgo, ginklų ir mergelės garbės]]
 - [[objektai/paprociai/Jotvingių klajokliškas gyvenimas, medžioklė ir karo dalyvavimas pagal pašaukimą]]
 - [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
-- [[objektai/paprociai/Karių skatinimas algomis ir dovanomis pagal seną paprotį]]
 - [[objektai/paprociai/Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus]]
 - [[objektai/paprociai/Karo grobio dalijimas į keturias dalis]]
 - [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]
@@ -46,17 +45,15 @@ Objektų skaičius: 41.
 - [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]
 - [[objektai/paprociai/Linijinė taktika karyboje]]
 - [[objektai/paprociai/Moterų tvirtovių gynyba vyrams išvykus]]
-- [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
 - [[objektai/paprociai/Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika]]
 - [[objektai/paprociai/Partizanų slėptuvių sodybose ir bunkerių įrengimas miškuose]]
 - [[objektai/paprociai/Pasalos rengimas kelią užverčiant prikirstais medžiais]]
 - [[objektai/paprociai/Pavergtų prūsų vertimas dalyvauti Ordino žygiuose]]
-- [Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes](../objektai/paprociai/Reguliar%C5%ABs%20lietuvi%C5%B3%20grobiamieji%20%C5%BEygiai%20%C4%AF%20kaimyn%C5%B3%20balt%C5%B3%20ir%20slav%C5%B3%20%C5%BEemes)
-- [Reguliarūs lietuvių plėšiamieji žygiai į Rusios, Lenkijos ir Livonijos žemes](../objektai/paprociai/Reguliar%C5%ABs%20lietuvi%C5%B3%20pl%C4%97%C5%A1iamieji%20%C5%BEygiai%20%C4%AF%20Rusios%2C%20Lenkijos%20ir%20Livonijos%20%C5%BEemes)
+- [[objektai/paprociai/Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes]]
+- [[objektai/paprociai/Reguliarūs lietuvių plėšiamieji žygiai į Rusios, Lenkijos ir Livonijos žemes]]
 - [Rekrutų prievolė Rusijos kariuomenėje](../objektai/paprociai/Rekrut%C5%B3%20prievol%C4%97%20Rusijos%20kariuomen%C4%97je)
 - [Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą (kraštas)](../objektai/paprociai/Sal%C5%B3%20pili%C5%B3%20%C4%AFgul%C5%B3%20da%C5%BEni%20smulk%C5%ABs%20i%C5%A1puoliai%20%C4%AF%20aplinkin%C4%AF%20kra%C5%A1t%C4%85)
 - [Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas](../objektai/paprociai/Sambijos%20viting%C5%B3%20paklusnumas%20Romov%C4%97s%20vyriausiajam%20%C5%BEyniui%20ir%20vyriausiojo%20karved%C5%BEio%20rinkimas)
-- [Samdinių verbavimas krikščioniškose karalystėse įgulos tarnybai](../objektai/paprociai/Samdini%C5%B3%20verbavimas%20krik%C5%A1%C4%8Dioni%C5%A1kose%20karalyst%C4%97se%20%C4%AFgulos%20tarnybai)
 - [Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje](../objektai/paprociai/Totori%C5%B3%20raitoji%20karyba%20be%20ve%C5%BEim%C5%B3%20ir%20tarnyba%20kariuomen%C4%97je)
 - [Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė](../objektai/paprociai/Tradicin%C4%97%20Lietuvos%20ir%20Lenkijos%20kovin%C4%97%20rikiuot%C4%97)
 - [Vakarų riterių stojimas po kryžiaus ženklu į Ordino žygius](../objektai/paprociai/Vakar%C5%B3%20riteri%C5%B3%20stojimas%20po%20kry%C5%BEiaus%20%C5%BEenklu%20%C4%AF%20Ordino%20%C5%BEygius)

@@ -43,26 +43,6 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
   teiginys: "Sovietmečiu politrukai trukdė rengti Kazimiero Būgos pradėtą lietuvių kalbos žodyną."
   pagrindžia:
     - c-24699
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1938 m. lapkričio 1 d. įkurtas Antano
-    Smetonos lituanistikos institutas – mokslo įstaiga, kuri turėjo tirti lietuvių
-    kalbą, tautosaką ir Lietuvos praeitį, tvarkyti tų sričių mokslinę medžiagą ir
-    šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir užsienyje, nustatyti
-    techninius terminus, rinkti tautosakos, dainų lobius. Tęstas 1902 m. Kazi-
-    miero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai
-    atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir
-    trukdant politrukams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

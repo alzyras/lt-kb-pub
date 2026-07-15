@@ -31,33 +31,9 @@ Narbutas Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę mini ka
 <a id="claim-t-190513"></a>
 - t-001
   global_id: t-190513
-  teiginys: "Narbutas Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę mini kaip šaltinį lietuviškiems žemės ūkio terminams tikrinti."
+  teiginys: 'Narbutas Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę mini kaip šaltinį lietuviškiems žemės ūkio terminams tikrinti.'
   pagrindžia:
     - c-173396
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę mini kaip šaltinį lietuviškiems žemės ūkio terminams tikrinti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Visiems javams ir žemės ūkio padargams įvardyti yra
-    savi lietuviški žodžiai15.
-    15
-    Skaityk kunigo Ksavero Bogušo studiją apie lietuvių tautos ir
-    kalbos kilmę, taip pat Sirvydo žodyną.
-    137
-
-    ## Puslapis 137
-
-    Nijolė ĮNijota)
-    Pragaro karalienė, Pokliaus žmona, Krūminės duktė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -82,4 +58,4 @@ Narbutas Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę mini ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190513
+    - t-001

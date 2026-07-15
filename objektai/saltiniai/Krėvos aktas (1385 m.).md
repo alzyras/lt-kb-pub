@@ -41,26 +41,6 @@ Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvo
   teiginys: "1385 m. rugpjūčio 14 d. Krėvos pilyje Jogaila priėmė lenkų parengtą sutarties dokumentą, vėliau vadintą Krėvos sutartimi."
   pagrindžia:
     - c-166754
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1385 m. rugpjūčio 14 d. Krėvos pilyje Jogaila priėmė lenkų parengtą sutarties dokumentą, vėliau vadintą Krėvos sutartimi.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
-    regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
-    turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu. Su-
-    tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
-    Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
-    belaisvius ir „prišlieti“ Lietuvą prie Lenkijos. „Prišlieti“ būtina rašyti su ka-
-    butėmis: mat iki šiol ginčijamasi, kaip išversti lotynišką žodį applicare.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

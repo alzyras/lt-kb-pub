@@ -42,59 +42,6 @@ media_all_json: |-
   teiginys: "Napierskio „Index Cod. Hist. Dipl. Livoniae“ minimas kaip Livonijos dokumentų rinkinio nuoroda."
   pagrindžia:
     - c-84295
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Napierskio „Index Cod. Hist. Dipl. Livoniae“ minimas kaip Livonijos dokumentų rinkinio nuoroda.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    161
-
-    ## Puslapis 178
-
-    VILNIAUS
-    MIESTO
-    ISTORIJA
-    II
-    KNYGOS
-    PRIEDAI
-    I
-    šio dokumento ir kito, po jo, nuorašą gavome iš daktaro Napierskio,
-    labai veHingos nuorodos Livonijos dokumentų rinkinyje autoriaus.
-    (Plg. Ind. cod. kist. dipt. Livoniae)
-    TI, p. 132, N 518.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Napierskio „Index Cod. Hist. Dipl. Livoniae“ siejamas su Dinaburgo komtūro pranešimu apie Vilniaus miesto, kapitulos ir pilies gaisrą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Arch. Direktorius
-    Už nuorašo perrašymo teisingumą [atsako]
-    Dr. Napierskis
-
-    ## Puslapis 184
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    II
-    (Plg. InJ. cod. hist. di pl. Livoniae)
-    TI, p. 136, N533
-    Dinaburgo komtūro pranešimas Livonijos magistrui apie
-    Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie
-    nuostolius, kokių per tai patyrė Vytautas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

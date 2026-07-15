@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų.
+Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų. Konradas įsakė Albertui Hagenui staiga užpulti Gardino pilį ir miestą, manydamas, kad jie likę be gynėjų.
 
 ## Teiginiai
 
@@ -35,54 +35,45 @@ Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį b
   teiginys: "Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų."
   pagrindžia:
     - c-169453
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kol lietuviai šitaip siautėjo Lenkijoje,
-    niekas jiems nepastojo kelio ir niekas nedrįso perse­
-    kioti traukiančių namo. Magistras Konradas, gavęs ži­
-    nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy­
-    nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė
-    Albertui Hagenui staiga užpulti Gardino pilį ir miestą,
-    likusius be gynėjų, ir užimti. Linksmai nusiteikę, prie­
-    šai iš arti grasino piliai, vildamiesi, jog klastingas su­
-    manymas pasiseks, tačiau jų kėslus suardė kilusi ne­
-    regėta audra.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196402"></a>
+- t-002
+  global_id: t-196402
+  teiginys: "Konradas įsakė Albertui Hagenui staiga užpulti Gardino pilį ir miestą, manydamas, kad jie likę be gynėjų."
   pagrindžia:
-    - t-001
+    - c-169453
 
 ## Citatos
 
 - id: c-169453
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 182"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 182."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kol lietuviai šitaip siautėjo Lenkijoje,
-    niekas jiems nepastojo kelio ir niekas nedrįso perse­
-    kioti traukiančių namo. Magistras Konradas, gavęs ži­
+    Magistras Konradas, gavęs ži­
     nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy­
     nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė
     Albertui Hagenui staiga užpulti Gardino pilį ir miestą,
     likusius be gynėjų, ir užimti. Linksmai nusiteikę, prie­
     šai iš arti grasino piliai, vildamiesi, jog klastingas su­
     manymas pasiseks, tačiau jų kėslus suardė kilusi ne­
-    regėta audra.
+    regėta audra. Smarkios liū-
+    I š v y k u s
+    V y te n iu i,
+    tys, juodi debesys ir baisios
+    P rū sijo s
+    k ry žiu o č ia i
+    ūkanos, dieną mažne paver-
+    u žp u o la G ardin ą
+    tusios naktimi, neleido ne tik
+    imtis ginklo, bet ir vienam
+    kitą matyti, be to, nesiliaujantis griaustinio dundėji­
+    mas, vėjo šėlsmas, lietaus šniokštimas trukdė vadams
+    įsakinėti, o kariams išgirsti įsakymą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186092
-
-## Ryšiai
-- Albertas fon Hagenas puolė [[objektai/vietos/Gardinas]]
+    - t-196402

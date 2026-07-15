@@ -54,7 +54,6 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
 - susijęs iš [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas.md#claim-t-89359|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]: Broliai puldinėjo sembus, siekdami juos vėl pajungti krikščionių tikėjimui.
 - susijęs iš Pabečiai: Broliai su kariuomene patraukė prieš Pabečių valsčių, nusiaubė Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė belaisvių ir išžudė daug žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -90,35 +89,14 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   pagrindžia:
     - t-003
 
-- c-003
-  santrauka: 'Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą ir grįžo su dideliu grobiu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    107 (102). Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
-
-      Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
-    broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui. Štai todėl,
-    palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
-    kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę
-    vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo
-    atgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus
-    išsklaidė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-86199
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 122"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
     Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
     broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui. Štai todėl,
     palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
@@ -139,11 +117,13 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
 - id: c-86200
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 122"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    380 D.  ir Jer.— Dramenow; Dramenava (vėliau — Drebnau), kaimas  į pietus nuo
-    Pabečių (Sch-K; GAO, p. 30).
+    382  D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau —
+    Rinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus. Rinavos
+    pilis, matyt, buvusi Galtgarbių aukštumoje (117 m virš Baltijos jūros lygio įrengtame
+    piliakalnyje tarp Galtgarbių ir Kumėnų (Kumehnen).
+  citata_rodoma: "380 D.  ir Jer.— Dramenow; Dramenava (vėliau — Drebnau), kaimas  į pietus nuo\nPabečių (Sch-K; GAO, p. 30)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -154,12 +134,10 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
 - id: c-86201
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 122"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     107 (102). Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
-
-      Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
+    Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
     broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui. Štai todėl,
     palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
     kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę

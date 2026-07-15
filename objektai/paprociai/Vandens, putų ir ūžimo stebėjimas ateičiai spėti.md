@@ -51,34 +51,13 @@ Nenurodyta
   teiginys: "Narbutas putonimis (Puttones) vadino pranašautojus, ateitį nusakydavusius stebint vandenį, ypač jo ūžimą arba putas."
   pagrindžia:
     - c-172830
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas putonimis (Puttones) vadino pranašautojus, ateitį nusakydavusius stebint vandenį, ypač jo ūžimą arba putas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie tai kalbėsime straipsnyje
-    „Burtai“.
-    Putonys (Puttones)
-    Buvo pranašautojai, nusakantys ateitį iš stebimo vandens,
-    ypač pagal jo ūžimą arba putas. Tačiau šias pareigas gerbti-
-    niausiomis visuomenėje laikė todėl, kad jų priedermė buvo
-    sutaikyti priešus ir susipykusius bet kurio luomo žmones.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172830
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 297"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 297."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie tai kalbėsime straipsnyje
     „Burtai“.

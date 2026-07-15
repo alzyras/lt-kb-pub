@@ -320,7 +320,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - susijęs iš Sūduva: Petro iš Dusburgo kronikoje Sūduva minima kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Tepliava: Petro Dusburgiečio kronikoje Tepliavos pilies pastatymas minimas ne chronologine tvarka, prieš 1263 m. Kroicburgo įvykį.
 - susijęs iš Varmė: Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių.
-- susijęs iš Vilnius: XVI a. antrojoje pusėje Jonas Chodkevičius Petro Dusburgiečio kroniką perdavė Vilniaus vaitui Augustinui Rotundui.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-183835|Papilys suburbium]]: 1324 metų birželio 11 dieną Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-86505|Papilys suburbium]]: 1317 metais Ragainės komtūras Fridrichas de Libencelė su 150 žmonių neįstengė užimti Gedimino pilies, bet sudegino jos papilį.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-184018|Prūsijos žemė terra Prussiae]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
@@ -336,62 +335,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187924|A. Vijūkas Kojelavičius]]: Kojelavičius Pagraudenę vadino apylinke Žemaitijoje.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187927|A. Vijūkas Kojelavičius]]: A. Vijūkas Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į
-    Ordino žemes:
-
-    „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su didele kariuomene,
-    degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik
-    penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu...“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nors pradiniai jų smūgiai atrodė energingi, bet per dešimt­
-    metį apčiuopiamų laimėjimų nebuvo pasiekta. 1291 buvo pulta,
-    Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315
-    ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
-    pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
-    teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-015
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vytenio kovos su ordinu ir jo sąjunga su Ryga**
-    Pukuveras, apie kurį galima aiškiai pasakyti, kad jis (o gal
-    jau ir jo tėvas) pradėjo per 280 metų trukusį paveldimosios mo­
-    narchijos perijodą, apie 1295 turėjo būti miręs. Kronikininkas
-    Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus
-    sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.
-    Išskyrus šią kroniką ir keletą įvairių užuominų^3 , kiti bendralaikiai
-    šaltiniai jo nemini.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-    - t-012
-
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -487,165 +430,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindžia:
     - t-008
 
-- c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    baptisma et fidem libenter cum suis susciperent, sed fratres nollet
-    eos suscipere, et idem intimant litteris apostołko [Rygos mies­
-    tiečiai ir jų arkivyskupas anuomet dar Romoje ir Livonijoje
-    prieš brolius nesantaiką sėjo ir visuose pajūrio miestuose ir
-    vietovėse platino ir skelbė, esą rutėnų ir lietuvių karalius
-    noriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai
-    nenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų
-    Sostui]. Kadangi Dusburgas,  p. 349, trumpai teužsime-
-    na, kad Joannes Papa XXII, ad suggestionem fratris Priderki Or­
-    dinis fratrum Minorum Archiepiscopi de Riga et civium ibidem
-    misit ad partes Livoniae duos Legatos [Popiežius Jonas XXII Ma­
-    žesniųjų brolių ordino brolio Fridricho, Rygos arkivyskupo
-    ir miestiečių prašymu tuo pat metu pasiuntė į Livonijos sri­
-    tis du legatus]. Tai paakino Jerošiną visą įvykį išdėstyti kaip
-    buvo tikrovėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-    - t-004
-
-- c-010
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmą kartą jį Dusburgas mini prie 1304 metų
-    (356 lape), pasakodamas, kaip brolis Eberhardas de Virnem-
-    burgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­
-    provise intravit territorium Lettoviae, dictum Pograuden [neti­
-    kėtai įsiveržė į Lietuvos teritoriją, vadinamą Pagraudenę].
-    Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius,
-    kuriame stovėjo Gedimino pilis, ir, regis, netoli nuo Garte-
-    no, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano
-    atėjo Brandenburgo komtūras Konradas Lichtenhagenas. To­
-    liau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti
-    petit ä mane usque ad meridiem in monte ex opposito Castri Jede-
-    mine ubi dictus comes de Homberg et piures alii nobiles dignita­
-    tem militiae susceperunt [Bet brolių vėliava jam prisijungus
-    kovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino
-    e
-    Chroniam Prussiae.
-    f
-    Kojelavičius Pagraudenę vadi-
-    na apylinkę Žemaitijoje: pograudien-
-    b C S 7/7 Samogitia agri.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-    - t-003
-
-- c-011
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Anot amžininko Dusburgo(c.  352) pranešimo, Gedi­
-    minas nuleido pas popiežiaus nuncijus, atvykusius į Rygą
-    jo atvertimo reikalų tvarkyti, įžymų pasiuntinį, kuris iš pa­
-    ties valdovo lūpų gavęs pavedimą? dalyvaujant legatams,
-    gausiam būriui dvasininkų ir kitų tikinčiųjų, tvirtu balsu pa­
-    reiškęs, kad niekados jokie laiškai su karaliaus žinia, jo pa­
-    ties ar jo valdinių krikšto reikalu, jo valia nebuvo rašyti ir
-    nebuvo siunčiami nei popiežiui, nei pajūrio miestams ar pro­
-    vincijoms, turint tikslą juos viešai paskelbti. Pagaliau pri­
-    dūrė dar tai, kad valdovas savo dievams prisiekė niekada
-    89
-
-    ## Puslapis 106
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    jokių kitų teisių nepriimsiąs ir laikysiąsis tų, kurių jo tėvai
-    laikydamiesi gyveno ir mirė. Tokį Gedimino prisipažinimą
-    minėtasis pasiuntinys pats visos sueigos akivaizdoje stojęs
-    patvirtinob.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-012
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau atkreipus dėmesį į tai, ką Dus-
-    burgas, aprašomų įvykių amžininkas, todėl labiausiai ver­
-    tas pasitikėjimo, apie tą pilį byloja, ta Hartknocho nuomonė
-    negali atlaikyti. Pirmą kartą jį Dusburgas mini prie 1304 metų
-    (356 lape), pasakodamas, kaip brolis Eberhardas de Virnem-
-    burgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­
-    provise intravit territorium Lettoviae, dictum Pograuden [neti­
-    kėtai įsiveržė į Lietuvos teritoriją, vadinamą Pagraudenę].
-    Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius,
-    kuriame stovėjo Gedimino pilis, ir, regis, netoli nuo Garte-
-    no, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano
-    atėjo Brandenburgo komtūras Konradas Lichtenhagenas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-013
-  santrauka: 'Petras iš Dusburgo buvo Livonijos riterių kunigas ir istorikas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Daug kartų iš naujo
-    imdavo garbinti stabus tie, kurių šeimoms pradžią yra
-    davę herulų, gepidų, gotų ar langobardų likučiai, Šie
-    paveldėtus prietarus perduodavo vėlesnėms kartoms.
-    Tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie­
-    tuvoje daugelio dievų garbinimo: senąsias apeigas jis
-    dargi papildė naujais prietarais. Jis pirmąją Lietuvos
-    sodybą Romanovą paskyrė vyriausiajam žyniui, tu­
-    rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis
-    šimtmečius surašytame veikale Petras iš Dusburgo, Li­
-    vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų
-    laikų nei mūsų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
-- c-014
-  santrauka: 'Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kita užuomina
-    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
-    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
-    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
-    jos užimti, o tik sudegino papilį. Trečią kartą šis papilys bu­
-    vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
-    želio Il dieną, švintant, Ragainės komtūras Tomas Alden-
-    burgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos
-    netikėtai užpuolė Gedimino pilies papilį ir plėnimis palei­
-    do8.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-
 ## Citatos
 
 - id: c-11407
@@ -706,23 +490,27 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102853
     - t-102852
+    - t-102853
 
 - id: c-55989
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 33"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,
-    Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą
-    sveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.
     Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
     šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
     nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
     būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
     apreikšti dievo darbus yra šlovinga.
+    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
+    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
+    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
+    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
+    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
+    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
+    atminimas.
+  citata_rodoma: "Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,\nŠventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą\nsveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.\nKiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje\nšventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi\nnuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei\nbūsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad\napreikšti dievo darbus yra šlovinga."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -733,16 +521,19 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - id: c-55990
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 5"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    XIV a. trečiajame dešimtmetyje Lietuvos valstybei, Gedimino vyriausybei vedant
-    sėkmingą karinę  ir diplomatinę kovą prieš Kryžiuočių ordino agresiją, Vakarų
-    Europoje pasigirdo kritiškų balsų Ordino atžvilgiu. Siekdamas pagrįsti kryžiuočių
-    užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
-    Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
-    kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
+    Tai oficialus Kryžiuočių ordino
     valstybės kūrinys.
+    Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a. pabaigoje,
+    agresijos į Artimuosius Rytus metu, atsikėlimas ir įsitvirtinimas pavyslyje XIII a.
+    pirmojoje pusėje. Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
+    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
+    feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
+    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
+    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
+    kovą prieš agresiją.
+  citata_rodoma: "XIV a. trečiajame dešimtmetyje Lietuvos valstybei, Gedimino vyriausybei vedant\nsėkmingą karinę  ir diplomatinę kovą prieš Kryžiuočių ordino agresiją, Vakarų\nEuropoje pasigirdo kritiškų balsų Ordino atžvilgiu. Siekdamas pagrįsti kryžiuočių\nužkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti\nOrdino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo\nkroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino\nvalstybės kūrinys."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -753,16 +544,18 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - id: c-55992
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 33"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
+    apreikšti dievo darbus yra šlovinga.
     Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
     tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
-    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau  į
+    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
     šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
     negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
     kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
     atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
+  citata_rodoma: "Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo\ntarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau\nkarus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau  į\nšią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas\nnegali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir\nkad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio\natminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -773,16 +566,20 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - id: c-55993
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 35"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 35."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ši knyga šitaip bus sudėta. Pirma, aprašysiu, kuriuo laiku buvo įkurtas Teutonų namų
-    ordinas, kas ir kaip jį įkūrė, antra, kada ir kaip minėtieji broliai atsikėlė į Prūsijos žemę,
-    trečia, apsakysiu karus, vykusius šioje žemėje, bei kitus žygius, pakalbėsiu  ir apie
-    tuos, kuriuos pats esu matęs, ir apie tuos, apie kuriuos pasakojo juos matę ir juose
-    dalyvavę žmonės, pagaliau  ir apie tuos, apie kuriuos sužinojau iš patikimų šaltinių.
     Ketvirta, paraštėse surašysiu popiežius ir imperatorius, kurie viešpatavo nuo tų metų,
     kai buvo įkurtas šis ordinas, be to, kai kuriuos reikšmingus įvykius, kurie jų laikais dėjosi.
+    Jausdamasis per silpnas tokiam uždaviniui užbaigti, ypač dėl to, kad dabar gyvenantys
+    žmonės jau yra beveik užmiršę šiuos įvykius, žinodamas, kad nieko negaliu nuveikti
+    be dievo, nuolankiai tave, gerasis Jėzau, maldauju atskleisti visas paslaptis, ne tik
+    busimąsias, bet ir dabarties bei praeities, nes tu esi tikrasis išminties bei žinojimo lobynas.
+    Apšviesk savo dvasios malone man protą ir padaryk mane iškalbingą bei išmintingą, kad
+    negaišdamas užbaigčiau šį darbą, kad tie, kurie skaitys šiame veikale apie tavo didingus
+    ženklus ir galingus stebuklus, tavimi pasitikėtų, tave garbintų, aukštintų bei šlovintų,
+    kad tu, iš kurio — viskas, per kurį — viskas ir kuriame—viskas, teiktumeisi globoti, tu,
+    dieve, kuris gyveni ir viešpatauji per amžių amžius.
+  citata_rodoma: "Ši knyga šitaip bus sudėta. Pirma, aprašysiu, kuriuo laiku buvo įkurtas Teutonų namų\nordinas, kas ir kaip jį įkūrė, antra, kada ir kaip minėtieji broliai atsikėlė į Prūsijos žemę,\ntrečia, apsakysiu karus, vykusius šioje žemėje, bei kitus žygius, pakalbėsiu  ir apie\ntuos, kuriuos pats esu matęs, ir apie tuos, apie kuriuos pasakojo juos matę ir juose\ndalyvavę žmonės, pagaliau  ir apie tuos, apie kuriuos sužinojau iš patikimų šaltinių.\nKetvirta, paraštėse surašysiu popiežius ir imperatorius, kurie viešpatavo nuo tų metų,\nkai buvo įkurtas šis ordinas, be to, kai kuriuos reikšmingus įvykius, kurie jų laikais dėjosi."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -793,20 +590,25 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - id: c-55994
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
-    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
-    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
-    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
     Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
     daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
     jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
-      Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus
+    Kad geriau suvoktume kronikoje vaizduojamus Prūsijos ir Lietuvos istorijos faktus
     bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
     lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
     klausimai.
+    Prūsai ir Lietuva
+    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
+    vientisumas.
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  citata_rodoma: "Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus\nkaras prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,\nnušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš\nDusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.\nTarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti\ndaugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir\njo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).\n  Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus\nbei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių\nlietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją\nklausimai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -841,8 +643,8 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102856
     - t-102844
+    - t-102856
 
 - id: c-96082
   autorius: "Michał Baliński"
@@ -875,8 +677,8 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102851
     - t-102843
+    - t-102851
 
 - id: c-96084
   autorius: "Michał Baliński"
@@ -936,8 +738,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - id: c-167968
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 60"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 60."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Daug kartų iš naujo
     imdavo garbinti stabus tie, kurių šeimoms pradžią yra

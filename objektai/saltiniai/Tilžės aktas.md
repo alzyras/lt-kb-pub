@@ -42,26 +42,6 @@ media_all_json: |-
   teiginys: "Tuometinė vokiečių valdžia ignoravo Tarybos nutarimą, vadinamą Tilžės aktu."
   pagrindžia:
     - c-11191
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    atsišaukimą. Šiame dokumente buvo skel-
-    biama, kad Mažosios Lietuvos lietuviai,
-    remdamiesi JAV prezidento V. Vilsono
-    paskelbtąja tautų apsisprendimo teise, nori
-    „prisiglausti“ prie Didžiosios Lietuvos.
-    "Tuometinė vokiečių valdžia šį Tarybos nu-
-    tarimą, dar vadinamą Tilžės aktu, igno-
-    ravo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

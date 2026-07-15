@@ -35,8 +35,8 @@ Dusburgietis teigia, kad brolis Konradas iš Blindenburgo, išėjęs kautis su j
   teiginys: "Konradas iš Blindenburgo išėjo kautis su prūsais, gavo penkias žaizdas ir krito kovoje."
   pagrindžia:
     - c-60997
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Konradas iš Blindenburgo išėjo kautis su prūsais, gavo penkias žaizdas ir krito kovoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -58,12 +58,12 @@ Dusburgietis teigia, kad brolis Konradas iš Blindenburgo, išėjęs kautis su j
 - id: c-60997
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 140"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį
     Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.
     Brolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise
-    Kristus, penkiskart sužeistas,  ir krito kovoje, o šito  jis ne kartą buvo su ašaromis
+    Kristus, penkiskart sužeistas, ir krito kovoje, o šito jis ne kartą buvo su ašaromis
     viešpaties prašęs. Galop prūsai, iš visų pusių apsiautę pilį, pradėjo smarkiai ją pulti.
   citata_rodoma: "Brolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise\nKristus, penkiskart sužeistas,  ir krito kovoje, o šito  jis ne kartą buvo su ašaromis\nviešpaties prašęs."
   statusas: verified

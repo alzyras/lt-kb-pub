@@ -55,29 +55,6 @@ Nenurodyta
   teiginys: "XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapyje, saugotame Varšuvos karalių pilyje, buvo matyti ir LDK sienos."
   pagrindžia:
     - c-65511
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapyje, saugotame Varšuvos karalių pilyje, buvo matyti ir LDK sienos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau
-    svarbiausias Liublino unijos kompromiso rezultatas – Abiejų Tautų Res-
-    publika, kuri egzistavo dar du amžius. Ir ne tik egzistavo, o davė Europai
-    duoną, toleranciją, bajoriškąją demokratiją, baroko meną ir konstituciją.
-    XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapis, kuriame
-    matyti ir LDK sienos (Varšuvos karalių pilis)
-
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    67
-    LDK Baroko Europoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

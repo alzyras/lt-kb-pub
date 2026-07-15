@@ -41,23 +41,6 @@ Drauge su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes, o 
   teiginys: "1307 m. lietuviai drauge su rusais buvo įsiveržę į Kališo sritį."
   pagrindžia:
     - c-33862
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1300 jie vėl pasirodė Dobry­
-    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
-    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
-    o 1307 buvo įsiveržę į Kališo sritį^5.
-    Tuo pačiu laiku lietuviai turėjo kitą svarbų frontą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -42,40 +42,6 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
   teiginys: "Lietuvos kariuomenės vadovybės vaizde Fridrichas Ketleris nurodytas J. K. Chodkevičiui iš kairės."
   pagrindžia:
     - c-41911
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos kariuomenės vadovybė. Priekyje ant
-    balto žirgo, didysis etmonas J. K. Chodkevičius.
-    Jam iš kairės Kuršo kunigaištis Fridrichas Ketleris.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kairiajame Dauguvos krante buvęs
-    Kuršo kunigaikštis Fridrichas Ketleris, ma-
-    tydamas besirikiuojančius lietuvius, savo
-    300 raitelių įsakė persikelti į dešinįjį krantą.
-    Kuršiečiai, kartu su kunigaikščiu, sėkmin-
-    gai perplaukė upę ir prisistatė didžiajam
-    etmonui. Ši akimirka labai pakėlė Lietuvos
-    karių nuotaiką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

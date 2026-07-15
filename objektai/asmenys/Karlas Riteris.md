@@ -35,8 +35,8 @@ Narbutas rėmėsi Karlo Riterio veikalu aiškindamas, kad kolchai giminiavosi su
   teiginys: "Narbutas rėmėsi Karlo Riterio veikalu aiškindamas, kad kolchai giminiavosi su indais ir davė pradžią budinų genčiai prie Dono."
   pagrindžia:
     - c-174132
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rėmėsi Karlo Riterio veikalu aiškindamas, kad kolchai giminiavosi su indais ir davė pradžią budinų genčiai prie Dono.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -61,16 +61,19 @@ Narbutas rėmėsi Karlo Riterio veikalu aiškindamas, kad kolchai giminiavosi su
 - id: c-174132
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pernelyg išsiplėstume, jei įsigilintume į kolchų, beje,
-    mums artimą gentį, tad remkimės tik moksliniu ir kruopš­
-    čiai parašytu pono Riterio** veikalu1. Jame sakoma, kad
-    kolchai giminiavosi su indais, arba kitados iš Indostano
-    kilusiomis gentimis. Dievus garbino senovės Indijos bu­
-    dizmo pavyzdžiu; dar būdami Azijoje, davė pradžią su­
-    siformavusiai budinu genčiai, kuri įsikūrė prie Dono.
+    Nuo neatmenamų
+    laikų kolchai buvo laikomi neapsakomai turtingais ir iš­
+    manančiais gamtos dalykus. Pirmieji jų atstovai buvo ki­
+    lę iš 'kalnų, kuriuos jie atradoi, ypač Uralo. Kol šį kraštą
+    pažino žmonės, ten buvo brangiųjų metalų grynuolių, kaip
+    akmenų, luitų, tai galima numatyti iš dabartinių žinių
+    apie šiuos kalnus. Indų civilizacija ir kasta žynių, kurie
+    atsidėjo mokslui ir tarnavo Saulei, garbinamai Koros
+    vardu, lėmė, kad pas juos anksčiausiai suklestėjo gamtos
+    mokslai, pradėti vartoti augalinės kilmės vaistai.
+  citata_rodoma: "Pernelyg išsiplėstume, jei įsigilintume į kolchų, beje,\nmums artimą gentį, tad remkimės tik moksliniu ir kruopš­\nčiai parašytu pono Riterio** veikalu1. Jame sakoma, kad\nkolchai giminiavosi su indais, arba kitados iš Indostano\nkilusiomis gentimis. Dievus garbino senovės Indijos bu­\ndizmo pavyzdžiu; dar būdami Azijoje, davė pradžią su­\nsiformavusiai budinu genčiai, kuri įsikūrė prie Dono."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

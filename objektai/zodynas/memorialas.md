@@ -48,48 +48,8 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
   teiginys: "Antrajame memoriale Oginskis pabrėžė, kad be savarankiškos organizacijos Lietuva negalėjo sudaryti kariuomenės."
   pagrindžia:
     - c-166359
+- susijęs iš [[objektai/posakiai/Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę.md#claim-t-199234|Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę]]: A. Goštauto memoriale Albertas Goštautas save vaizduoja kaip jauną Lietuvos tėvynės gynėją nuo M. Glinskio.
 - susijęs iš [[objektai/autoriai/P. Klimas.md#claim-t-00068|P. Klimas]]: P. Klimas buvo Lietuvos Tarybos narys.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    lyginti su kitų Rusijos sričių mokesčiais. Patsai Oginskis dėl to
-    pasidarė populiariu bajorijos vadu. Jis pats tuo tarpu pradėjo
-    rūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos že-
-    mių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įtei-
-    kė carui memorialą — ku-
-    nigaikštijos sudarymo pro-
-    jektą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Antrajame memoriale Oginskis pabrėžė, kad be savarankiškos organizacijos Lietuva negalėjo sudaryti kariuomenės.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Per pasikalbėjimus jis pareikšdavo jam daugybę
-    komplimentų, bet vengdavo pažadų. Pagaliau Oginskis, pasitaręs
-    su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus
-    ir naują memorialą. Kadangi caras, kuriam tuo metu rūpėjo ne-
-    išvengiamas karas su Napoleonu, nuolat klausinėdavo, kiek Lie-
-    tuva galėtų pastatyti kariuomenės, tai Oginskis tame antrame
-    memoriale ir pabrėžė, kad be savarankiškos organizacijos kraš-
-    tas negalįs sudaryti kariuomenės, juo labiau, kad krašto valdžia
-    nieko nesanti padariusi patraukti bajorijai į savo pusę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-03316

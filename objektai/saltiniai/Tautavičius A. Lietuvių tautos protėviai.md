@@ -7,12 +7,12 @@ datos:
   - '1968 m.'
 date_start: '1968'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad tautavičius A.
   teiginys: "A. Tautavičiaus straipsnis „Lietuvių tautos protėviai“ paskelbtas žurnalo „MG“ 1968 m. 8 numeryje."
   pagrindžia:
     - c-61944
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Tautavičiaus straipsnis „Lietuvių tautos protėviai“ paskelbtas žurnalo „MG“ 1968 m. 8 numeryje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,11 @@ Dusburgietis teigia, kad tautavičius A.
 - id: c-61944
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17.
-      Tholomei Lucensis Anna les.
+    Г уревич Ф. Д. Древний Новогрудок. — Л., 1981.
+    Дельбрюк Г. История военного искусства в рамках политической истории. Т. 3.
+    Средневековье.
   citata_rodoma: "Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17."
   statusas: verified
   teiginio_tipas: faktas

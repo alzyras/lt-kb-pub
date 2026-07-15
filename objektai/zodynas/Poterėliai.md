@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'Poterėliai'
 sukurta: '2026-07-12'
 variantai:
-  - poterėliais
+  - 'poterėliais'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -65,6 +65,7 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
   teiginys: "Poterėlių vartosena šiame šaltinyje siejama su trumpu užsukimu ir greitu išėjimu."
   pagrindžia:
     - c-178047
+
 ## Citatos
 
 - id: c-178046
@@ -77,10 +78,7 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
     —— kurios buvo pratusios gerai gyventi ir nieko neveikti. Taigi pamė­
     gino verstis poterėliais ir terbele. Įėjusi pas kiekvieną ūkininką trum­
     pai paverkia, skųsdamasi savo našlaityste.
-  citata_rodoma: "Liko žmona ir auganti duktė,
-—— kurios buvo pratusios gerai gyventi ir nieko neveikti. Taigi pamė­
-gino verstis poterėliais ir terbele. Įėjusi pas kiekvieną ūkininką trum­
-pai paverkia, skųsdamasi savo našlaityste."
+  citata_rodoma: "Liko žmona ir auganti duktė, \n—— kurios buvo pratusios gerai gyventi ir nieko neveikti. Taigi pamė­\ngino verstis poterėliais ir terbele. Įėjusi pas kiekvieną ūkininką trum­\npai paverkia, skųsdamasi savo našlaityste."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -98,10 +96,7 @@ pai paverkia, skųsdamasi savo našlaityste."
     pai paverkia, skųsdamasi savo našlaityste. Šiaučienė (taip ją visi va­
     dindavo) ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trum­
     pa. Pagavus duonos gabalėlį tuoj pro duris.
-  citata_rodoma: "Įėjusi pas kiekvieną ūkininką trum­
-pai paverkia, skųsdamasi savo našlaityste. Šiaučienė (taip ją visi va­
-dindavo) ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trum­
-pa. Pagavus duonos gabalėlį tuoj pro duris."
+  citata_rodoma: "Įėjusi pas kiekvieną ūkininką trum­\npai paverkia, skųsdamasi savo našlaityste. Šiaučienė (taip ją visi va­\ndindavo) ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trum­\npa. Pagavus duonos gabalėlį tuoj pro duris."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

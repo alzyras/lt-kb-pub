@@ -109,62 +109,6 @@ Nenurodyta
 - susijęs iš W. Zakrzewski, Bitwa pod Grunwaldem: W. Zakrzewskio darbas „Bitwa pod Grunwaldem“ paskelbtas „RTPNP“ 17 tome 1890 m., p. 11-28.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-184333|Lietuvos kariuomenė]]: Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Apskritai Vytauto planas buvo įžūlus
-    ir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo
-    puolančioji pusė. O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-
-    giuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-
-    somis Ordino pajėgomis.
-    1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40
-    vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena prie-
-    šais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį. Nors
-    reikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai,
-    būtent Žalgirio mūšyje buvo pakirsta Ordino hegemonija, jis nebekėlė
-    egzistencinės grėsmės nei Lenkijai, nei Lietuvai. Žalgirio mūšis įėjo į isto-
-    riją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-
-    lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
-    teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-004
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žalgirio mūšis
-    Nors popiežius uždraudė Vokiečių ordinui kariauti su ap-
-    sikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo
-    galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei. Grėsmingas jis
-    buvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie
-    jūros.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -181,25 +125,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-- c-005
-  santrauka: '1410 Žalgirio (Griunvaldo) mūšis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1392–1430
-    žymiausio Lietuvos valdovo Vytauto valdymo metai.
-    1410 
-    Žalgirio (Griunvaldo) mūšis. Lenkijos ir Lietuvos jungtinė kariuomenė
-    sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
-    tencijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-002
-
 ## Citatos
 
 - id: c-64427
@@ -241,8 +166,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63390
     - t-63389
+    - t-63390
 
 - id: c-64429
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -279,8 +204,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183291
     - t-63386
+    - t-183291
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]]

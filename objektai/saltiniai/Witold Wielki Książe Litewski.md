@@ -34,25 +34,6 @@ Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­ tauto klaid
   teiginys: "Kochanovskio nuomone, Horodlės unija Vytautas siekė ne lenkinti Lietuvą, o ją civilizuoti per Vakarų Europos kultūrą."
   pagrindžia:
     - c-37276
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­
-    tauto klaida, tai vis tik norėtųsi manyti, kad jis ją padarė ne iš
-    prielankumo Lenkijai, bet iš prielankumo tai Vak. Europos kultū­
-    rai, kuri ėmė skverbtis per Lenkiją į Lietuvą jau nuo Krėvės
-    unijos ir, gal būt, nuo ankstyvesnių laikų. Kochanovskis yra tos
-    nuomonės, kad paskutine unija Vytautas nenorėjęs Lietuvos len­
-    kinti, bet ją civilizuoti^3 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

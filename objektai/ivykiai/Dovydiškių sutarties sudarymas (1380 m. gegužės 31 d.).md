@@ -57,25 +57,6 @@ Nenurodyta
   teiginys: "Dovydiškių sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir paliktos tolesniems naikinimams."
   pagrindžia:
     - c-55096
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Veikliojo magistro Kniprodės išvystytoji sutarčių politika su
-    pagonimis, su kuriais kryžiuočiai dešimtmečiais tik kardo smūgiais
-    tebuvo kalbėjęsi, žadėjo pasisekimų, juo labiau, kad Dovydiškių
-    sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir toliau
-    paliktos naikinimams. Neišaiškinamas čia yra Vytauto dalyvavi­
-    mas. Gal jo buvimas turėjo pridengti tikruosius norus. Apskritai
-    Dovydiškių sutartis palieka svarbių neatsakytų klausimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

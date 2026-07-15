@@ -7,13 +7,13 @@ datos:
   - '1313 m.'
 date_start: '1313'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - karas
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -79,22 +79,8 @@ Laivas buvo paimtas ir sudegintas.
   teiginys: "Dusburgietis pasakoja, kad Surminas su gausia lietuvių jėga buvo pasiųstas sunaikinti karo laivo."
   pagrindžia:
     - c-56335
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitai išvydę, pilėnai, pasičiupę
-    ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
-    mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista. Šitaip broliai ir išsigelbėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -136,8 +122,7 @@ Laivas buvo paimtas ir sudegintas.
 - id: c-56333
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 208"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šitai išvydę, pilėnai, pasičiupę
     ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
@@ -153,9 +138,9 @@ Laivas buvo paimtas ir sudegintas.
 - id: c-56334
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 208"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie vieną brolių karo laivą
     Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
     sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,
     laivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę
@@ -172,11 +157,11 @@ Laivas buvo paimtas ir sudegintas.
 - id: c-56335
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 208"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    318 (311). Apie šio laivo sudeginimą 1313 metais
     Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa
-    Lietuva; ilgai taręsi  ir visaip svarstę, kaip  jį sunaikinti, galop pasiuntė kilmingą bei
+    Lietuva; ilgai taręsi ir visaip svarstę, kaip jį sunaikinti, galop pasiuntė kilmingą bei
     karingą vyrą Surminą su šimtu laivų, kuriuose buvo šeši šimtai ar daugiau vyrų, ir šimtą
     raitelių; kai jie užpuolė laivą, jame buvę 4 šauliai, palikti jo saugoti, pradėjo drąsiai
     gintis. Galop, nukirtus virvę, kuria buvo pririštas, laivas nuplaukė Nemunu žemyn; jį,
@@ -189,5 +174,5 @@ Laivas buvo paimtas ir sudegintas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55710
     - t-55707
+    - t-55710

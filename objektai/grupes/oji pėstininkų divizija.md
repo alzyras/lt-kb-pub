@@ -35,29 +35,6 @@ media_all_json: |-
   teiginys: "Lapkričio 17 d. auštant L. Želigovskis puolė lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių."
   pagrindžia:
     - c-77335
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lapkričio 17 d. auštant L. Želigovskis puolė lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prieš kautynes
-
-    Sutelkęs stambias pajėgas, gen. L. Želi-
-    govskis lapkričio 17 d. auštant pradėjo
-    savo didžiąją ofenzyvą, puldamas lie-
-    tuvių 1-osios pėstininkų divizijos uži-
-    mamą barą nuo Nėries iki Dubingių.
-    Puolimas buvo staigus ir stiprus. Lenkų
-    pajėgos priartėjo prie Videniškio,
-    Gelogalių ir judėjo Balnininkų link.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

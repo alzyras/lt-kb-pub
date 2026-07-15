@@ -44,26 +44,6 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
   teiginys: "Kurtas Valdheimas buvo JT generalinis sekretorius, kuriam adresuotas 45 pabaltijiečių memorandumas."
   pagrindžia:
     - c-21842
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos
-    ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui. 1979 m.
-    rugpjūčio 23 d. LLL kreipėsi į JT Generalinę Asamblėją, reikalaudama
-    dekolonizuoti tris Baltijos valstybes. Dar didesnio atgarsio susilaukė va-
-    dinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam
-    sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos vals-
-    tybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos De-
-    mokratinės Respublikos vyriausybėms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

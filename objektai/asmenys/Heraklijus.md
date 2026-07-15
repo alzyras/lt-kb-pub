@@ -57,36 +57,12 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-184118|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje.
 - susijęs iš [[objektai/ivykiai/Akono miesto sugriovimas (1290 m. gegužės 19 d.).md#claim-t-62739|Akono miesto sugriovimas (1290 m. gegužės 19 d.)]]: 1290 m. gegužės 19 d. sultonas sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė daug krikščionių.
 - susijęs iš Jeruzalė: Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė Mahometas, imperatorius Heraklijus
-    patraukė į karą prieš Chosrovą, persų karalių, jį nugalėjo, o viešpaties kryžiaus dalį, kurią
-    buvo paėmęs iš viešpaties šventovės, parsigabeno, atstatė dievo bažnyčias ir sutvarkė
-    šventąją žemę, kurią tas buvo nuniokojęs.
-
-
-
-                            78. Apie šventosios žemės reikalus
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-60952
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė Mahometas, imperatorius Heraklijus
     patraukė į karą prieš Chosrovą, persų karalių, jį nugalėjo, o viešpaties kryžiaus dalį, kurią
@@ -104,7 +80,6 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   pagrindzia:
     - t-60320
     - t-184086
-    - t-003
 
 ## Ryšiai
 - Heraklijus kariavo prieš [[objektai/asmenys/Chosrovas]]

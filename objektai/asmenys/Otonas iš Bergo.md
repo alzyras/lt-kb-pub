@@ -7,15 +7,15 @@ datos:
   - '1294 m.'
 date_start: '1294'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karys
   - asmuo
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,6 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
 - susijęs iš [[objektai/asmenys/Otonas iš Cedlico.md#claim-t-60402|Otonas iš Cedlico]]: 1294 m. Otonas iš Cedlico su Ditrichu iš Ezbeko ir Otonu iš Bergo buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1294 m. Otonas iš Bergo su Ditrichu iš Ezbeko ir Otonu iš Cedlico buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -70,12 +69,13 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - id: c-61033
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 185"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Kas šitai valiotų padaryti, jeigu ne tas,
+    kuris įsakė jūrai stovėti kaip mūras jų dešinėje ir kairėje, kad Izraelio tauta ją galėtų
+    pereiti sausomis kojomis?
     257 (250). Apie Pieštvės pilėnų apiplėšimą 1294
-
-       Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas
+    Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas
     iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei
     ginklanešių, jie patraukė prie Pieštvės pilies, kur pagrobė visą galvijų kaimenę; nužudę
     daug netikėlių, 70 žmonių išsivarė į nelaisvę.

@@ -41,29 +41,6 @@ Galiausiai buvo nusiaubtos Opokos apylinkės.
   teiginys: "1581 m. K. Radvilos Perkūno reido metu buvo nusiaubtos Opokos apylinkės."
   pagrindžia:
     - c-45245
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1581 m. K. Radvilos Perkūno reido metu buvo nusiaubtos Opokos apylinkės.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis
-
-    vos atkariautos teritorijos
-
-    Starajos Rusos miesto
-    ir jį sudegino, o įgulą
-    „išmušė“. Galiausiai buvo
-    nusiaubtos Opokos apylinkės.
-    Spalio 23 d. K. Radvila pasiekė prie
-    apgulto Pskovo buvusią S. Batoro
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

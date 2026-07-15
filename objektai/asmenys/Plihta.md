@@ -50,28 +50,6 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178849|Kryžiuočių ordinas]]: 1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje.
 - susijęs iš [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika.md#claim-t-87296|Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]: 1322 m. kryžiuočių žygio į Vaikius Žemaitijoje tikslai buvo belaisvių ėmimas, krašto niokojimas ir plėšikavimas.
 - susijęs iš Prūsija: 1322 m. žiemą po ilgos ramybės nauja kryžiuočių ekspedicija patraukė į Prūsiją.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1322 m. žiemą Plihta su broliu iš Čekijos vedė vieną kryžiuočių ekspedicijos į Prūsiją pulką.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    IV Band,
-    p. 358-376).
-    1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­
-    pedicija patraukė į Prūsiją. Atskirus pulkus vedė: Silezijos
-    kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš
-    Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai
-    iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir
-    daug kitų riterių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83812

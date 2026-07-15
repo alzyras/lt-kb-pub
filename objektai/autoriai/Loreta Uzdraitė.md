@@ -161,139 +161,6 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
 - susijęs iš [[objektai/autoriai/Jonas Arvasevičius.md#claim-t-40631|Jonas Arvasevičius]]: Jonas Arvasevičius buvo leidinio kalbos redaktorius.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171496|Karolis Zikaras]]: Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų.
 - susijęs iš Maskvos-Lietuvos pasienis: Po Polocko praradimo ir Ulos mūšio karo veiksmai persikėlė į Maskvos-Lietuvos pasienį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 20, Kryžininkų pajėgų telkimas prieš Lietuvą 1236 m., Romas Batūra, Karolis Zikaras,
-    Loreta Uzdraitė.
-
-    p. 22, Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę, Romas Batūra,
-    Karolis Zikaras, Loreta Uzdraitė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-    - t-007
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kartoschemų sąrašas
-
-    NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS
-
-    p. 20, Kryžininkų pajėgų telkimas prieš Lietuvą 1236 m., Romas Batūra, Karolis Zikaras,
-    Loreta Uzdraitė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 22, Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę, Romas Batūra,
-    Karolis Zikaras, Loreta Uzdraitė.
-
-    p. 25, Mindaugo valdoma Lietuva iki 1263 m, Karolis Zikaras, Loreta Uzdraitė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-008
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 25, Mindaugo valdoma Lietuva iki 1263 m, Karolis Zikaras, Loreta Uzdraitė.
-
-    P. 33, Lietuvos teritorija iki 1341 m. Gedimino apie 1325 m. užimtos Kijevo žemės pilys,
-    Karolis Zikaras, Romas Batūra, Loreta Uzdraité.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-013
-    - t-014
-
-- c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 39, Lietuvos gynybinė sistema iki 1362 m. Karolis Zikaras, Romas Batūra, Loreta Uzdraite.
-    p. 43, Lietuva ir Aukso orda x1v a., Karolis Zikaras, Loreta Uzdraitė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-006
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 48, Algirdo žygiai į Maskvą. Maskvos valstybės augimas x1v a.-xv a. pradžioje,
-    Karolis Zikaras, Romas Batūra, Loreta Uzdraité.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-007
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas,
-    Karolis Zikaras, Loreta Uzdraitė.
-
-    LIETUVOS ATSIKŪRIMAS
-    P. 239, AT rūmų gynybos ruožai 1991 m. sausio-rugpjūčio mėnesiais, Albertas Daugirdas,
-    Karolis Zikaras, Loreta Uzdraitė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-    - t-006
-    - t-002
-    - t-015
-
-- c-008
-  santrauka: 'Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
-
-    Dalius Žygelis, Loreta Uzdraitė.
-
-    P. 238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas,
-    Karolis Zikaras, Loreta Uzdraitė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-11416
@@ -311,8 +178,8 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78788
     - t-78783
+    - t-78788
 
 - id: c-42435
   sudarytojas: "Karolis Zikaras"
@@ -415,9 +282,9 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78786
-    - t-78782
     - t-78778
+    - t-78782
+    - t-78786
     - t-193749
 
 - id: c-75934

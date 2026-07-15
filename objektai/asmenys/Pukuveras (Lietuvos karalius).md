@@ -35,27 +35,6 @@ media_all_json: |-
   teiginys: "Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Bresto žemę Lenkijoje."
   pagrindžia:
     - c-41435
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Bresto žemę Lenkijoje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Pukuveras, Lietuvos karalius, tais pačiais
-    metais pasiuntė savo sūnų Vytenį su didele
-    kariuomene į Lenkiją, į Bresto žemę; kai
-    jie ten pridarė daug žalos, galybę žmonių
-    nukovę bei paėmę į nelaisvę...“
-
-    buvo atremti Aukso ordos, rusų kunigaikš
-    čių bei Livonijos ordino antpuoliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -9,13 +9,13 @@ datos:
   - '1500 m.'
 date_start: '1500'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,13 +46,6 @@ media_all_json: |-
 
 <a id="claim-t-114163"></a>
 - t-002
-  global_id: t-114163
-  teiginys: "Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus."
-  pagrindžia:
-    - c-167165
-
-<a id="claim-t-114163"></a>
-- t-003
   global_id: t-114163
   teiginys: "Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus."
   pagrindžia:
@@ -90,88 +83,8 @@ media_all_json: |-
 - susijęs iš Gardinas: 1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.
 - susijęs iš Nemunas: Narbuto pasakojime vilkų tauta nuo Neries žiočių dešiniuoju Nemuno krantu pasiekė Dubysą.
 - susijęs iš Pripetė: Narbutas nurodo, kad Dnepro vidurupyje pilkapių ypač daug nuo Sklovo aukštupio iki Pripetės žiočių.
-- susijęs iš [[objektai/zodynas/lengvoji raitija.md#claim-t-185367|lengvoji raitija]]: Prieš pagrindinių jėgų susidūrimą kovėsi abiejų pusių lengvosios raitijos žvalgybiniai būriai, o sėkmė lydėjo karaliaus karius.
 - susijęs iš Minskas: Aleksandras su pagrindinėmis jėgomis lėtai sekė Konstantino Ostrogiškio dalinius, stabtelėdamas Minske ir Borisove.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dvasios dominikonų baž­
-    nyčioje galima pamatyti karaliaus
-    Aleksandro portretą visu ūgiu ant
-    pirmosios kolonos nuo įėjimo deši­
-    nėje pusėje, o ant priešais stovinčios -
-    tokio pat didumo kunigo Korčiako
-    paveikslą.
-    51
-    Karalius Aleksandras savo sprendi­
-    mu, datuotu Borisove 1500 m. (feria
-    quinta in octava Visitationis Beatae
-    Virginis Mariae - ketvirtadienį Švč.
-    Mergelės Marijos Apsilankymo ok­
-    tavoje), bernardinų prašymu, prie
-    vienuolyno esantį savo malūną įsa­
-    ko nugriauti, kadangi šis dėl drebė­
-    jimo malimo metu išjudino jau ir
-    taip netvirtus bernardinų pastatų
-    pamatus, o sklvpą, kuriame malū­
-    nas stovėjo, atiduoda vienuolynui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Maskva
-    viena po kitos prisijungė kitas rusų kunigaikštijas ir netrukus ėmė gvieštis Lietuvos žemių
-
-    kunigaikštystės, totorių kariuomenė
-    įsiveržė į Lietuvą. Šios pajėgos užėmė
-    Borisovą, Minską, Zaslavlį, Krėvą, Lydą,
-    Vilnių, Trakus ir priartėjo prie Kauno.
-    Žygimantas su savo mažesne Lietuvos ka-
-    riuomene nestojo į mūšį, bet vesdamas
-    savo pajėgas ne keliais ir neprieinamomis
-    vietomis, puldinėjo Švitrigailos tiekimo da-
-    linius, padarydamas jiems daug nuostolių,
-
-    67
-
-    pi
-    6£
-    kr L
-    610
-    2 a
-    T
-    = 5
-    o 2
-    22
-    co
-    “+
-    p
-    23
-    iv
-
-    ## Puslapis 70
-
-    priversdamas priešą badauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
 - c-003
   santrauka: 'Glinskis, nutraukęs Minsko apgulą, su savo kariais pirmiausia nužygiavo į Borisovą, o iš ten į Oršą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -274,27 +187,37 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183777
     - t-114163
 
 - id: c-168295
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 602"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 602."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ga­
-    vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­
-    kis tūkstančius algininkų bei didikų kariaunas ir ka­
-    rališkąsias vėliavas, o netrukus ir pats skubiai patrau­
-    kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių
-    bajorų jėgas ir valstybės viduje įsikūrusių skitų bū­
-    rius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
-    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
-    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
-    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
-    jo per mažai karių. Jį atsitraukiantį atkakliai perse­
-    kiojo karalius.
+    Su šiais pagalbinin­
+    kais Mykolas privertė jam paklusti kunigaikščius Druč­
+    kius ir Mstislavlio kunigaikštį Mykolą Lengvenaitį,
+    užėmė Gomelį, Kryčevą, Oršą bei apylinkes ir įkurdi­
+    no ten maskvėnų įgulas, užkariavo didelę Baltarusi­
+    jos, Seversko žemės ir Polesės dalį ir vėl patraukė į
+    Slucką, manydamas, jog Anastazija nesipriešins palauž­
+    ta baimės ir gandų apie jo karių sėkmingus žygius. Iš
+    arti patyręs, jog viskas klostosi visai kitaip, nei tikė­
+    josi, jis pasiuntė niokotojus net ligi pat Vilniaus, o
+    pats su likusia kariuomene patraukė į Naugarduką.
+    Toliau skverbtis nedrįso sužinojęs, jog atžygiuoja ka­
+    raliaus kariuomenė. Pasiun-
+    P erein a
+    į
+    M a sk v o s
+    tęs į Maskvos kunigaikštys-
+    k u n ig a ik š ty s tę
+    tę brolį Vosylių su visais
+    globotiniais, jų žmonomis bei
+    vaikais ir visomis brangenybėmis, pats, kurį metą už­
+    trukęs, nes rūpinosi pilių sustiprinimu, greitai pasivijo
+    savuosius.
+  citata_rodoma: "Ga­\nvęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­\nkis tūkstančius algininkų bei didikų kariaunas ir ka­\nrališkąsias vėliavas, o netrukus ir pats skubiai patrau­\nkė paskui išsiųstąją kariuomenę sutelkęs pašauktinių\nbajorų jėgas ir valstybės viduje įsikūrusių skitų bū­\nrius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės\npriekaištų, gal iš pagarbos karaliui, pirmiausia su savo\nkariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­\ndamas stoti į atvirą kovą veikiausiai dėl to, kad turė­\njo per mažai karių. Jį atsitraukiantį atkakliai perse­\nkiojo karalius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

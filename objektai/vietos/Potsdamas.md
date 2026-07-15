@@ -43,22 +43,6 @@ Kalibras - 17,4 mm. Pagamintas Potsdame.
 - susijęs iš Rusija: Atkūrusi nepriklausomybę Lietuva vakaruose įgijo sieną su Rusijos Kaliningrado sritimi.
 - susijęs iš Seinai: Ratifikavus sutartį Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.
 - susijęs iš Vilnius: Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nešturmuoti civilinių pastatų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Potsdame buvo pagamintas prūsiškas 17,4 mm kalibro karabinas su titnagine spyna.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prūsiškas karabinas su titnagine spyna. Kalibras - 17,4 mm. Pagamintas Potsdame. XVIII a. antrojoje
-    pusėje LDK daugumą šaunamųjų ginklų, skirtų pėstininkams ir kavalerijai, pirkdavo iš Prūsijos gamintojų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-40335

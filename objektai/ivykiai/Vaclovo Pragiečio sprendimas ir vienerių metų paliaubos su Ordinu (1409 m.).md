@@ -59,28 +59,6 @@ Nenurodyta
   teiginys: "Įsikišus Čekijos karaliui Vaclovui, kariaujančios pusės sudarė vienerių metų paliaubas."
   pagrindžia:
     - c-35783
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Po kiek lai­
-    ko Ordinas pradėjo karą su Lenkija. Bet įsikišus Čekų kara­
-    liui Vaclovui, buvo tarp kariaujančiu pusių padarytos viene­
-    riems metams paliaubos. Toj sutarty Lietuva nebuvo aiškiai
-    pažymėta. Jogaila tik pasižadėjo neremti ginklu žemaičių ir tų,
-    kurie jų pusę laikytų. Ginčas tarp Vytauto ir Jogailos, iš vienos
-    pusės ir Ordino, iš kitos pusės, buvo pavestas galutinai išspręsti
-    Vaclovui Pragiečiui, kuris jį išsprendė Lietuvos nenaudai: Že­
-    maitija buvo atiduota kryžiuočiams; Jogailai ir Karūnai buvo
-    uždrausta remti Vytautą ir Lietuvą kovose su kryžiuočiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

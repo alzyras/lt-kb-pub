@@ -78,134 +78,10 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   teiginys: "Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu."
   pagrindžia:
     - c-24249
-
-<a id="claim-t-183616"></a>
-- t-007
-  global_id: t-183616
-  teiginys: "Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu."
-  pagrindžia:
     - c-167008
 - susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
 - susijęs iš Suvalkų gubernija: Nuo 1867 m. Lietuvos Užnemunė priklausė Suvalkų gubernijai, apėmusiai maždaug šeštadalį dabartinės Lietuvos teritorijos.
 - susijęs iš Užnemunė: Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atseit,
-    lenkai galų gale turėtų nustoti svajoję apie buvusios valstybės atkūrimą ir
-    suprasti, kad gyventi jiems, kaip slavams, Rusijos imperijos globoje yra
-    geriau, nei tiems jų tautiečiams, kurie pakliuvo į vokiškų valstybių val-
-    džią. „Lenkų suartinimo su rusais“ strategine nuostata caro valdžia tuo
-    pat metu siekė apsaugoti nuo sulenkėjimo karalystės ne etninius lenkus.
-    Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
-    tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
-    kėjo iš vadovėlių, parašytų kirilika).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-002
-  santrauka: 'Po 1863 m. sukilimo etninių lietuvių tautinį sąjūdį atnaujino inteligentai, daugiausia kilę iš Užnemunės krašto.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Lietuviais esame mes gimę!“
-    Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių
-    tautinis sąjūdis prasidėjo iš naujo. Jį atnaujino pobaudžiavinė inteligentų
-    karta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemu-
-    nės krašto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
-- c-003
-  santrauka: 'Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirta ir Užnemunė, arba Suvalkija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kulminacinis suvažiavimo įvykis buvo rezoliucijos
-    dėl politinės autonomijos Lietuvai suteikimo priėmimas. Joje reikalauta
-    suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu ren-
-    kamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta
-    kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
-    sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Didžiojo Vilniaus seimo rezoliucijoje autonomijos teritorija apibrėžta kaip etnografinės lietuvių žemės, įskaitant Užnemunę arba Suvalkiją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Joje reikalauta
-    suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu ren-
-    kamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta
-    kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
-    sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
-    Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į
-    kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos
-    kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-005
-  santrauka: 'Svarstant Lenkijos autonomiją Valstybės Dūmoje, lietuvių veikėjai siūlė nuo karalystės atskirti Lietuvos Užnemunę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nepasikeitė ir vietinio valdymo modelis. Lietu-
-    voje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos insti-
-    tucijos, vadinamosios zemstvos, veikusios Rusijoje nuo 1864 m. Svarstant
-    Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikė-
-    jai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviš-
-    kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama
-    Suvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-006
-  santrauka: 'Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Lenkų suartinimo su rusais“ strategine nuostata caro valdžia tuo
-    pat metu siekė apsaugoti nuo sulenkėjimo karalystės ne etninius lenkus.
-    Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
-    tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
-    kėjo iš vadovėlių, parašytų kirilika). Kaip neprivaloma disciplina lietuvių
-    kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-
-    versitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams,
-    turintiems atestate lietuvių kalbos pažymį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 ## Citatos
 
 - id: c-24249
@@ -246,8 +122,8 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76815
     - t-76814
+    - t-76815
 
 - id: c-74324
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -325,8 +201,6 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183616
 
 ## Ryšiai
 - Lietuvos Užnemunė priklausė [[objektai/vietos/Augustavo gubernija]], [[objektai/vietos/Suvalkų gubernija]]

@@ -35,22 +35,6 @@ Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.
   teiginys: "Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv."
   pagrindžia:
     - c-82258
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taip pat minėti prie­
-    glaudos namai privalo turėti du įėjimus, tai yra, vieną iš tos
-    pusės, kur eina į to paties vienuolyno Šv. Dvasios bažnyčią,
-    kitą - iš šono, kur išeina į Šv. Dvasios gatvę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

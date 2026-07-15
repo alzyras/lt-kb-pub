@@ -79,35 +79,6 @@ Nenurodyta
 - susijęs iš Kijevo Rusia: Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.
 - susijęs iš Livonija: 1201 m. pastatyta Rygos pilis vėliau tapo valstybės centru ir didžiausiu Livonijos miestu.
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192167|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rykai į Vilnių patekdavo iš Lenkijos ir Livonijos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš Rusios,
-    Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę
-    23
-    Mažesnieji broliai (pranciškonų
-    atšaka).
-
-    ## Puslapis 40
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­
-    minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
-    Juk jei visas kraštas, didesne dalimi anuomet dar laukinis,
-    svetimšaliams pirkliams galėjo būti pelno šaltinis, tai jo sos­
-    tinei, ypač turinčiai rūmus tokio galingo valdovo, koks bu­
-    vo Gediminas, tie ryšiai, suprantama, buvo pravartus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Puslapis 40 VILNIAUS MIESTO ISTORIJA I TOMAS atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­ minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
 
 Nenurodyta

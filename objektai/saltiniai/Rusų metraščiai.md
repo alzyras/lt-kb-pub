@@ -34,8 +34,8 @@ Pasak rusų metraščių, šiaurės slavai, arba naugardiečiai, severskiečiai,
   teiginys: "Pasak rusų metraščių, šiaurės slavai, arba naugardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos apeigų paprotį, kiekviena tauta kitonišką."
   pagrindžia:
     - c-173440
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak rusų metraščių, šiaurės slavai, arba naugardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos apeigų paprotį, kiekviena tauta kitonišką.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -60,16 +60,17 @@ Pasak rusų metraščių, šiaurės slavai, arba naugardiečiai, severskiečiai,
 - id: c-173440
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 368"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuvoje gyveno garsi
-    Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
-    gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
-    apeigų paprotį, kiekviena tauta kitonišką.
-    Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­
-    lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
-    kuriose vietose žmonos apverkdavo vyrus prie pačių kapų.
+    O tai, autoriaus žodžiais tariant, turėjo būti velnias. Nepai­
+    sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
+    Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
+    ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
+    gų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių.
+  citata_rodoma: "Lietuvoje gyveno garsi\nTriznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-\ngardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos\napeigų paprotį, kiekviena tauta kitonišką.\nŽmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­\nlėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai\nkuriose vietose žmonos apverkdavo vyrus prie pačių kapų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

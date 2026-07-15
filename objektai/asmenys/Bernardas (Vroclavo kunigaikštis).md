@@ -44,40 +44,17 @@ Dusburgietis teigia, kad 1322 viešpaties metais atvyko į Prūsijos žemę garb
   teiginys: "1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę."
   pagrindžia:
     - c-60881
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
-    Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho  ir iš
-    Vildenbergo pirmagimiai sūnūs, valdovas iš Lichtenbergo  ir Plichto su savo broliu iš
-    Čekijos ir su daugybe karių bei ginklanešių. Su jais ir su visa Kulmo žemės bei gretimų
-    žemių brolių kariuomene brolis Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, bei
-    150 brolių žiemą įsiveržė į Vaikių valsčių; apiplėšę bei sudeginę ir pilį, ir kitus pastatus,
-    tiek daug išžudė žmonių, kad ten nebeliko gyvo nė vieno kelnėto sutvėrimo. Kitą dieną
-    jie įsiveržė į Raseinių valsčių, o trečią dieną — į Ariogalos valsčių ir abu valsčius nusiaubė
-    ugnimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60881
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 216"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
-    Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho  ir iš
-    Vildenbergo pirmagimiai sūnūs, valdovas iš Lichtenbergo  ir Plichto su savo broliu iš
+    Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho ir iš
+    Vildenbergo pirmagimiai sūnūs, valdovas iš Lichtenbergo ir Plichto su savo broliu iš
     Čekijos ir su daugybe karių bei ginklanešių. Su jais ir su visa Kulmo žemės bei gretimų
     žemių brolių kariuomene brolis Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, bei
     150 brolių žiemą įsiveržė į Vaikių valsčių; apiplėšę bei sudeginę ir pilį, ir kitus pastatus,

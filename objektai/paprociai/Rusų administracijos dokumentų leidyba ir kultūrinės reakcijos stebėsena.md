@@ -61,31 +61,6 @@ Nenurodyta
   teiginys: "Rusų administracija leido dokumentų rinkinius, kuriais tendencingai siekė įrodyti rusiškos ortodoksiškos civilizacijos tradicijas Šiaurės Vakarų krašte."
   pagrindžia:
     - c-83231
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rusų administracija leido dokumentų rinkinius, kuriais tendencingai siekė įrodyti rusiškos ortodoksiškos civilizacijos tradicijas Šiaurės Vakarų krašte.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais
-    metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis. Lie­
-    tuvos visuomenė tiesiog alsavo praeitimi: istorikų darbai buvo
-    aptarinėjami bajorų pobūviuose, buvo kaupiamos privačios ar­
-    cheologinių radinių ir meno kolekcijos. Rusų administracija taip
-    IX
-
-    ## Puslapis 10
-
-    pat rengė ir leido dokumentų rinkinius, kuriuose tendencingai
-    stengtasi įrodyti rusiškosios, ortodoksiškos civilizacijos tradici­
-    jas Šiaurės Vakarų krašte.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

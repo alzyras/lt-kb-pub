@@ -3,6 +3,8 @@ tipas: vieta
 pavadinimas: 'Tilžė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Mūsų tautosaka, t.4 (1931)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -39,7 +41,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų delegacija. Napoleono ir Aleksandro I susitikimas Nemune prie Tilžės (1807 m. birželio 25 d.).
+Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi nusikratyti Rusijos valdžios Lietuvoje. Tarnaudamas Rusijos kariuomenėje, T. Narbutas 1807 m. dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. Narbutas rašo, kad už Tilžės, prie Sancinės, buvo apkasas arba piliakalnis, vietinių vadintas Kroniszkas-Pilnis, tai yra Kruonio pilimi.
 
 ## Teiginiai
 
@@ -70,6 +72,13 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
   teiginys: "Tilžė, 1923."
   pagrindžia:
     - c-177345
+
+<a id="claim-t-196747"></a>
+- t-005
+  global_id: t-196747
+  teiginys: "Algirdas ir Aleksandras Karijotaitis, nuniokoję daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė aštuonis šimtus belaisvių."
+  pagrindžia:
+    - c-178886
 - susijęs iš [[objektai/asmenys/Aleksandras Karijotaitis.md#claim-t-186174|Aleksandras Karijotaitis]]: Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184668|Algirdas (Lietuvos valdovas)]]: Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.
 - susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64503|A. Alekna]]: A. Aleknos „Lietuvos istorijos“ antras leidimas buvo išleistas Tilžėje 1923 m.
@@ -120,12 +129,18 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
 - id: c-171727
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
-    vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­
-    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
+    Tuo me­
+    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
+    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
+    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
+    kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
+    mitologiją.
+  citata_rodoma: "Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­\nvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -136,15 +151,14 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
 - id: c-171728
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 139"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
     ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
     namų Kronie. Už Tilžės, žemiau Vingio (Winge) dvaro, prie
-    Sancinės, kur Nemunas išsišakoja į dvi atšakas -  Giliją ir Rus­
+    Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­
     nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­
-    kalnis, vietinių vadinamas Kroniszkas -  Pilnis, tai yra Kruonio
+    kalnis, vietinių vadinamas Kroniszkas - Pilnis, tai yra Kruonio
     (Kronu) pilimi. Ties Prienais, kur Nemunas daro pusračio vingį,
     pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
     Kronu).
@@ -169,3 +183,25 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194949
+
+- id: c-178886
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kurį laiką Kęstutis laikėsi ramiai, tačiau
+    žemėmis. Kryžiuočiai, vedami Sembos fogto, savo ruož­
+    tu, negalėdami pasivyti traukiančio namo Kęstučio, nu­
+    siaubė Ariogalos žemes. Kai Algirdas bei Aleksandras
+    Karijotaitis su keliomis žygio voromis padalyta kariuo­
+    mene iš karto nuniokojo daugelį Prūsijos vietų ir, su­
+    griovę svarbias pilis Tilžę bei Ragainę ir daugybę kitų
+    miestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­
+    gistras irgi sėkmingai nusiaubė didelius Lietuvos plo­
+    tus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196747

@@ -36,24 +36,6 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   teiginys: "Lietuvos ir Latvijos siena ėjo iki Lenkijos okupuoto Vilniaus krašto netoli Turmanto stoties."
   pagrindžia:
     - c-72098
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos ir Latvijos siena ėjo iki Lenkijos okupuoto Vilniaus krašto netoli Turmanto stoties.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos Latvijos siena susidarė 487 klm.
-    ilgumo. Ji visa, nuo Šventosios upės (pajūry) iki Lenkų oku-
-    puoto Vilniaus krašto (netoli Turmanto stoties), buvo nukai-
-    šiota gairėmis; tokia pat ji tebėra ir iki šiol.
-    **3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -8,6 +8,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -24,6 +25,8 @@ date_end: '1550'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalius
+  - kunigaikštis
   - miestas
   - vieta
 amziai:
@@ -170,9 +173,9 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindžia:
     - c-161185
 
-<a id="claim-t-177285"></a>
+<a id="claim-t-177280"></a>
 - t-018
-  global_id: t-177285
+  global_id: t-177280
   teiginys: "1385 m. pabaigoje Jogaila paliko senąją sostinę ir su lietuvių kunigaikščių bei didikų svita išvyko į Krokuvą."
   pagrindžia:
     - c-161160
@@ -191,387 +194,357 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindžia:
     - c-161187
 
-<a id="claim-t-177285"></a>
-- t-021
-  global_id: t-177285
-  teiginys: "1385 m. pabaigoje Jogaila paliko senąją sostinę ir su lietuvių kunigaikščių bei didikų svita išvyko į Krokuvą."
-  pagrindžia:
-    - c-161160
-
 <a id="claim-t-177286"></a>
-- t-022
+- t-021
   global_id: t-177286
   teiginys: "1525 m. Krokuvoje būsimasis Prūsų kunigaikštis iškilmingai prisiekė karaliui Zigmantui."
   pagrindžia:
     - c-161157
 
 <a id="claim-t-177287"></a>
-- t-023
+- t-022
   global_id: t-177287
   teiginys: "Vytautas bandė dovanomis ir pažadais palenkti Krokuvos vyskupą Olesnickį, turėjusį lemiamą balsą karaliaus taryboje."
   pagrindžia:
     - c-161173
 
 <a id="claim-t-177288"></a>
-- t-024
+- t-023
   global_id: t-177288
   teiginys: "1385 m. sausį Skirgailos vadovaujama delegacija Krokuvoje ir Budoje galutinai sutarė dėl vėliau Krėvos akte pažadėtų dalykų."
   pagrindžia:
     - c-32156
 
 <a id="claim-t-177289"></a>
-- t-025
+- t-024
   global_id: t-177289
   teiginys: "Vytautas mėgino dovanomis ir pažadais palenkti Krokuvos vyskupą Olesnickį palaikyti jo karūnavimo siekį."
   pagrindžia:
     - c-161173
 
 <a id="claim-t-177290"></a>
-- t-026
+- t-025
   global_id: t-177290
   teiginys: "Jogailai siekiant ponų tarybos sutikimo dėl Vytauto karūnacijos, į Krokuvą buvo išsiųsti su Jogaila į Vilnių atvykę Lenkijos ponai."
   pagrindžia:
     - c-161195
 
 <a id="claim-t-177291"></a>
-- t-027
+- t-026
   global_id: t-177291
   teiginys: "Auksinis kryžius su Šventojo Kryžiaus medžiu turėjo likti Krokuvos pilies koplyčioje."
   pagrindžia:
     - c-161169
 
 <a id="claim-t-177292"></a>
-- t-028
+- t-027
   global_id: t-177292
   teiginys: "Seime Lietuva turėjo tik trečdalį vietų, nes buvo prilyginta vienai Lenkijos provincijai greta Didžiosios Lenkijos su Poznane ir Mažosios Lenkijos su Krokuva."
   pagrindžia:
     - c-161150
 
 <a id="claim-t-177294"></a>
-- t-029
+- t-028
   global_id: t-177294
   teiginys: "1399 m. pavasarį Krokuvoje praleidęs Vytautas vykdė plačius pasiruošimus."
   pagrindžia:
     - c-32157
 
 <a id="claim-t-177295"></a>
-- t-030
+- t-029
   global_id: t-177295
   teiginys: "Lenkijos kariuomenei vadovavęs hetmonas neįleido Maksimilijono į Krokuvą, todėl buvo karūnuotas atvykęs Zigmantas."
   pagrindžia:
     - c-46551
 
 <a id="claim-t-177296"></a>
-- t-031
+- t-030
   global_id: t-177296
   teiginys: "Sujungtos valstybės turėjo turėti bendrą valdovą, bendrai renkamą Lietuvoje ir karūnuojamą Krokuvoje."
   pagrindžia:
     - c-24211
 
 <a id="claim-t-177297"></a>
-- t-032
+- t-031
   global_id: t-177297
   teiginys: "1387 m. sausį į Vilnių su Jogaila atvyko ir Krokuvoje pakrikštyti Lietuvos bajorai."
   pagrindžia:
     - c-161149
 
 <a id="claim-t-177298"></a>
-- t-033
+- t-032
   global_id: t-177298
   teiginys: "1384 m. spalio 15 d. Liudviko Anjou duktė Jadvyga Krokuvoje buvo vainikuota Lenkijos karaliumi."
   pagrindžia:
     - c-32155
 
 <a id="claim-t-177299"></a>
-- t-034
+- t-033
   global_id: t-177299
   teiginys: "Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o ten superkami į Vilnių."
   pagrindžia:
     - c-161164
 
 <a id="claim-t-177302"></a>
-- t-035
+- t-034
   global_id: t-177302
   teiginys: "Žygimanto privilegijoje Magdeburgo teisė apibūdinta kaip Krokuvoje nuo seno naudota teisė."
   pagrindžia:
     - c-161159
 
 <a id="claim-t-177303"></a>
-- t-036
+- t-035
   global_id: t-177303
   teiginys: "1384 m. spalio 15 d. Liudviko Anjou dukra Jadvyga Krokuvoje buvo vainikuota Lenkijos karaliumi."
   pagrindžia:
     - c-32155
 
 <a id="claim-t-177304"></a>
-- t-037
+- t-036
   global_id: t-177304
   teiginys: "Didžioji iš Krokuvos pargabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia."
   pagrindžia:
     - c-161154
 
 <a id="claim-t-177305"></a>
-- t-038
+- t-037
   global_id: t-177305
   teiginys: "XIV a. Krokuvoje ir Liubline buvo siauros tiesios gatvės, susidariusios tarp gotikinių rūmų ir aukštų sienų."
   pagrindžia:
     - c-161155
 
 <a id="claim-t-177306"></a>
-- t-039
+- t-038
   global_id: t-177306
   teiginys: "Krokuvos gatvės buvo tiesios, nors siauros, o Kazimiero Didžiojo statydinti Gelumbės prekybos namai laikyti neįprastai dideliais."
   pagrindžia:
     - c-161155
 
 <a id="claim-t-177307"></a>
-- t-040
+- t-039
   global_id: t-177307
   teiginys: "Su Jogaila į Vilnių atvykę lenkų ponai buvo išsiųsti į Krokuvą, bet Vytautas jų susitarimo nebesulaukė."
   pagrindžia:
     - c-161209
 
 <a id="claim-t-177308"></a>
-- t-041
+- t-040
   global_id: t-177308
   teiginys: "Prie Vorsklos žuvo Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno."
   pagrindžia:
     - c-32158
 
 <a id="claim-t-177309"></a>
-- t-042
+- t-041
   global_id: t-177309
   teiginys: "Baško rašė, kad 1254 m. gegužės 8 d. Krokuvos bažnyčioje, skelbiant Šv. Stanislovo kanonizavimą, dalyvavo Lietuvos vyskupas Vitas."
   pagrindžia:
     - c-161194
 
 <a id="claim-t-177310"></a>
-- t-043
+- t-042
   global_id: t-177310
   teiginys: "1550 m. Barbora Krokuvoje buvo iškilmingai karūnuota Lenkijos karaliene."
   pagrindžia:
     - c-161151
 
 <a id="claim-t-177311"></a>
-- t-044
+- t-043
   global_id: t-177311
   teiginys: "Vladislovas Jogaila, matydamas klestinčią Krokuvą, siekė vilioti svetimtaučius kurtis Vilniuje."
   pagrindžia:
     - c-161153
 
 <a id="claim-t-177312"></a>
-- t-045
+- t-044
   global_id: t-177312
   teiginys: "1578 m. Steponas Batoras patvirtino funduotas mokyklas, suteikė joms Akademijos vardą ir prilygino Krokuvos akademijai."
   pagrindžia:
     - c-161158
 
 <a id="claim-t-177313"></a>
-- t-046
+- t-045
   global_id: t-177313
   teiginys: "Po paskutinio pralaimėjimo Vytautas nuvyko į Krokuvą ir netrukus grįžo į Lietuvą."
   pagrindžia:
     - c-37476
 
 <a id="claim-t-177314"></a>
-- t-047
+- t-046
   global_id: t-177314
   teiginys: "Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose."
   pagrindžia:
     - c-161179
 
 <a id="claim-t-177316"></a>
-- t-048
+- t-047
   global_id: t-177316
   teiginys: "Grzybowski teigė, kad Goštautas Krokuvoje tapo pranciškonu, o vėliau Vilniuje vertė miestiečius į krikščionybę."
   pagrindžia:
     - c-161208
 
 <a id="claim-t-177317"></a>
-- t-049
+- t-048
   global_id: t-177317
   teiginys: "Po paskutinio savo pralaimėjimo Vytautas nuvyko į Krokuvą ir netrukus sugrįžo į Lietuvą."
   pagrindžia:
     - c-37476
 
 <a id="claim-t-177318"></a>
-- t-050
+- t-049
   global_id: t-177318
   teiginys: "Maskvos kunigaikštis pasiuntiniams į Krokuvą nurodydavo pareikšti užuojautą, jei karalius Zigmantas būtų miręs."
   pagrindžia:
     - c-46546
 
 <a id="claim-t-177319"></a>
-- t-051
+- t-050
   global_id: t-177319
   teiginys: "1578 m. Steponas Batoras Vilniaus mokykloms suteikė Akademijos vardą ir prilygino jas kitoms akademijoms, ypač Krokuvos."
   pagrindžia:
     - c-161158
 
 <a id="claim-t-177320"></a>
-- t-052
+- t-051
   global_id: t-177320
   teiginys: "Lenkijos poveikis LDK reiškėsi bažnytinės sistemos organizavimu, studijomis Krokuvos universitete, administracijos perėmimu ir ūkio reforma."
   pagrindžia:
     - c-161172
 
 <a id="claim-t-177322"></a>
-- t-053
+- t-052
   global_id: t-177322
   teiginys: "Pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei."
   pagrindžia:
     - c-161172
 
 <a id="claim-t-177323"></a>
-- t-054
+- t-053
   global_id: t-177323
   teiginys: "Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai."
   pagrindžia:
     - c-161171
 
 <a id="claim-t-177324"></a>
-- t-055
+- t-054
   global_id: t-177324
   teiginys: "Maskvos kunigaikštis į Krokuvą siunčiamų pasiuntinių instrukcijose nurodydavo pareikšti užuojautą, jei karalius būtų miręs."
   pagrindžia:
     - c-46546
 
 <a id="claim-t-177326"></a>
-- t-056
+- t-055
   global_id: t-177326
   teiginys: "Prie Vorsklos žuvo Vytautui ištikimi Smolensko vietininkai Boreikaičiai ir Krokuvos vaivada Spytekas iš Melsztyno."
   pagrindžia:
     - c-32158
 
 <a id="claim-t-177327"></a>
-- t-057
+- t-056
   global_id: t-177327
   teiginys: "Vytauto laikais Krokuva buvo vienas prekybos centrų netoli Lietuvos."
   pagrindžia:
     - c-37478
 
 <a id="claim-t-177329"></a>
-- t-058
+- t-057
   global_id: t-177329
   teiginys: "Aleksandrui sergant, iš Krokuvos atvyko gydymo meną išmanę Motiejus iš Blonios ir Aleksandras Balinskis."
   pagrindžia:
     - c-161175
 
 <a id="claim-t-177330"></a>
-- t-059
+- t-058
   global_id: t-177330
   teiginys: "Žygimantas privilegijose miestui suteikė Magdeburgo teisę, kuria Krokuva naudojosi nuo seno."
   pagrindžia:
     - c-161159
 
 <a id="claim-t-177331"></a>
-- t-060
+- t-059
   global_id: t-177331
   teiginys: "Krokuvoje vainikuotas valdovas nepaisė pažadų, atidėliojo vedybas su Ona ir svajojo valdyti kaip Prancūzijoje."
   pagrindžia:
     - c-46550
 
 <a id="claim-t-177333"></a>
-- t-061
+- t-060
   global_id: t-177333
   teiginys: "Zigmanto II antkapis buvo Krokuvos katedroje."
   pagrindžia:
     - c-161209
 
 <a id="claim-t-177335"></a>
-- t-062
+- t-061
   global_id: t-177335
   teiginys: "Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes."
   pagrindžia:
     - c-161174
 
 <a id="claim-t-177336"></a>
-- t-063
+- t-062
   global_id: t-177336
   teiginys: "Aleksandrui sunkiai sergant, iš Krokuvos atvyko gydymą išmanę Motiejus iš Blonios ir Aleksandras Balinskis."
   pagrindžia:
     - c-161175
 
 <a id="claim-t-184991"></a>
-- t-064
+- t-063
   global_id: t-184991
   teiginys: "Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą."
   pagrindžia:
     - c-168352
 
-<a id="claim-t-184992"></a>
-- t-065
-  global_id: t-184992
-  teiginys: "Paleidęs seimą, karalius išvyko į Krokuvą."
-  pagrindžia:
-    - c-168353
-
-<a id="claim-t-184993"></a>
-- t-066
-  global_id: t-184993
-  teiginys: "Didikai sutiko, kad Barbora Krokuvoje būtų vainikuota karaliene kaip ir kitos karalienės."
-  pagrindžia:
-    - c-168354
-
-<a id="claim-t-187588"></a>
-- t-067
-  global_id: t-187588
-  teiginys: "Jogailai įsitvirtinus Krokuvoje, Lietuvos metraščio pasakotojas sako vėl pareiškęs savo krikščionių tikėjimą."
-  pagrindžia:
-    - c-170535
-
-<a id="claim-t-187589"></a>
-- t-068
-  global_id: t-187589
-  teiginys: "Aleksandras 1501 m. lapkričio 29 d. išvyko iš Melniko į Krokuvą, kur gruodžio 12 d. buvo vainikuotas Lenkijos karaliumi."
-  pagrindžia:
-    - c-170536
-
 <a id="claim-t-193194"></a>
-- t-069
+- t-064
   global_id: t-193194
   teiginys: "(Taip ji atvaizduota vieno seno Krokuvos pastato skliaute)."
   pagrindžia:
     - c-175938
 
 <a id="claim-t-193195"></a>
-- t-070
+- t-065
   global_id: t-193195
   teiginys: "Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos."
   pagrindžia:
     - c-175939
 
 <a id="claim-t-193196"></a>
-- t-071
+- t-066
   global_id: t-193196
   teiginys: "Tad po dvejų metų lenkai pagaliau nusileido, ir 1550 m. Barbora buvo iškilmingai Krokuvoje karūnuota Lenkijos karaliene."
   pagrindžia:
     - c-175940
 
 <a id="claim-t-193197"></a>
-- t-072
+- t-067
   global_id: t-193197
   teiginys: "Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją."
   pagrindžia:
     - c-175941
 
 <a id="claim-t-193641"></a>
-- t-073
+- t-068
   global_id: t-193641
   teiginys: "Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos organizavimu, studijomis Krokuvos universitete, administracinės sistemos perėmimu, ūkio reforma."
   pagrindžia:
     - c-161172
+
+<a id="claim-t-196697"></a>
+- t-069
+  global_id: t-196697
+  teiginys: "Pasak Kojelavičiaus, Kazimieras Krokuvoje su broliu karaliumi priėmė Romos tikėjimą, bet dėl rusų papročių neplatino katalikybės."
+  pagrindžia:
+    - c-178849
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176414|Jadvyga Jogailienė]]: Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176415|Jadvyga Jogailienė]]: Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga).md#claim-t-86949|Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga)]]: 1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis).md#claim-t-86915|Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]: 1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184266|Jogaila (kunigaikštis, XIV–XV a.)]]: 1386 m. Jogaila su savo broliais, Vytautu, kaipo Gardino kunigaikščiu, ir būriu dvaro didikų išvyko į Krokuvą priimti krikšto, vesti lenkų karalaitę Jadvygą ir karūnuotis Lenkijos karaliumi.
-- susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186790|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Redakcinė pastaba nurodo, kad Aleksandras iš Melniko į Krokuvą išvyko 1501.XI.29.
 - susijęs iš [[objektai/paprociai/Pasiuntinių atsisakymas dalyvauti vaišėse dėl garbingesnės vietos užstalėje.md#claim-t-185881|Pasiuntinių atsisakymas dalyvauti vaišėse dėl garbingesnės vietos užstalėje]]: Maskvos pasiuntiniai Krokuvoje atsisakė dalyvauti karaliaus vaišėse, nenorėdami varžytis dėl garbingesnės vietos užstalėje su kitais pasiuntiniais.
 - susijęs iš Sandomiras: Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.
-- susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą ir kovo 4 d. vainikuotas Lenkijos karaliumi.
+- susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą, o kovo 4 d. vainikuotas Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186716|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad 1386 m. sausio 11 d. Jogaila buvo Volkovyske, o 1386 m. vasario 12 d. keliavo į Krokuvą.
-- susijęs iš Melnikas: Aleksandras 1501 m. lapkričio 29 d. išvyko iš Melniko į Krokuvą, kur gruodžio 12 d. buvo vainikuotas Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-54933|Aleksandras Balinskis]]: Balinskis po karaliaus mirties kalėjo Vilniuje iki Žygimanto atvykimo, o grįžęs į Krokuvą vėl buvo įkalintas.
 - susijęs iš Kujavija: Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis.
 - susijęs iš [[objektai/asmenys/Aaronas.md#claim-t-87604|Aaronas]]: Aaronas buvo pirmasis Tyneco abatas ir vėliau septintasis Krokuvos vyskupas, miręs 1059 m. spalio 9 d.
@@ -591,9 +564,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103043|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, kardinolas ir buvęs Vilniaus bei Krokuvos vyskupas, mirė Romoje 1600 m.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103055|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Inocento IX ir Klemenso VIII elektorius, iš pradžių Vilniaus, vėliau Krokuvos vyskupas.
 - susijęs iš [[objektai/asmenys/Karigaila.md#claim-t-63796|Karigaila]]: Karigaila kartu su Jogaila, Vytautu, Vygandu, Švitrigaila ir lietuvių didikais Krokuvoje priėmė katalikų tikėjimą.
-- susijęs iš [[objektai/asmenys/Lada.md#claim-t-186231|Lada]]: Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusigauti į Maskvą, bet pasienyje buvo sugautas.
 - susijęs iš [[objektai/asmenys/Lešekas Juodasis.md#claim-t-87765|Lešekas Juodasis]]: Lešekas Juodasis Krokuvai suteikė svarbias privilegijas ir sustiprino miestą geriausiomis mūro sienomis.
-- susijęs iš [[objektai/asmenys/Lešekas.md#claim-t-186062|Lešekas]]: Lešekas prieš puolančius lietuvius pasiuntė Krokuvos vaivadą Žegotą su prityrusių karių pulku ir rūmų raiteliais.
 - susijęs iš [[objektai/asmenys/Mechovita.md#claim-t-191960|Mechovita]]: Narbuto cituojamas Mechovitos veikalas „Tractatus de duabus sarmatiis Asiana et Europiana, et de continentis in eis“ buvo išleistas Krokuvoje 1517 m.
 - susijęs iš [[objektai/asmenys/Motiejus iš Blonios.md#claim-t-87794|Motiejus iš Blonios]]: Motiejus iš Blonios, Gniezno kanauninkas ir rūmų daktaras, iš Krokuvos atvyko gydyti sergančio Aleksandro.
 - susijęs iš [[objektai/asmenys/Petras (Krokuvos vaivada).md#claim-t-186155|Petras (Krokuvos vaivada)]]: Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui.
@@ -610,7 +581,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/asmenys/Zyndramas iš Moškovicų.md#claim-t-184298|Zyndramas iš Moškovicų]]: Karalius pavedė Zyndramui iš Moškovicų, Krokuvos vaivadai, vadovauti lenkų kariuomenei.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179703|Švitrigaila]]: Švitrigaila kartu su Jogaila, Vytautu, Jogailos broliais ir daugeliu lietuvių didikų priėmė katalikų tikėjimą Krokuvoje.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179716|Švitrigaila]]: Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją.
-- susijęs iš [[objektai/asmenys/Žegota.md#claim-t-186271|Žegota]]: Žegota, Krokuvos vaivada, su prityrusių karių pulku ir rūmų raiteliais atlaikė puolančius lietuvius.
 - susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-55000|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio tvirtino, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.
 - susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-81885|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.
 - susijęs iš [[objektai/autoriai/Józef Wolff.md#claim-t-11262|Józef Wolff]]: Józef Wolff buvo 1886 m. Krokuvoje išleisto veikalo „Ród Gediminą“ autorius.
@@ -623,7 +593,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/autoriai/St. Smolka.md#claim-t-54137|St. Smolka]]: St. Smolka 1889 m. Krokuvoje paskelbė darbą „Kiejstut i Jagiełło“ „Pamiętnik AU“ 7 tome.
 - susijęs iš [[objektai/autoriai/St. Smolka.md#claim-t-54138|St. Smolka]]: St. Smolka 1889 m. Krokuvoje paskelbė darbą „Kiejstut i Jagiełło“.
 - susijęs iš [[objektai/autoriai/Stanislovas Sarnickis.md#claim-t-190405|Stanislovas Sarnickis]]: Pastaboje nurodomas Stanislovo Sarnickio 1587 m. Krokuvoje išleistas veikalas „Annales, sive de origine et rebus gestis Polonorum et Lituanorum“.
-- susijęs iš [[objektai/daiktai/Kalavijas.md#claim-t-186870|Kalavijas]]: Žygimanto Kęstutaičio pakėlimo didžiuoju kunigaikščiu ceremonijoje kalaviją Gardine 1432 m. spalio 15 d. įteikė Krokuvos vyskupas Zbignevas Olesnickis.
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86993|Laivai, valtys, sieliai ir plaustai]]: Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.
 - susijęs iš [[objektai/daiktai/Zigmanto Augusto antkapis.md#claim-t-01248|Zigmanto Augusto antkapis]]: Zigmanto Augusto antkapis yra Krokuvos katedroje.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172090|Dominikonų ordinas]]: Lietuvos vyskupas Vitas, dominikonas, 1254 m. gegužės 8 d. dalyvavo skelbiant Šv. Stanislovo kanonizavimą Krokuvos bažnyčioje.
@@ -632,7 +601,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/grupes/Krokuvos profesoriai.md#claim-t-35616|Krokuvos profesoriai]]: Krokuvos profesoriai Romos karaliaus teisę karūnuoti kitus laikė nepakankama ir žemesne už popiežiaus teises.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179150|Lenkai]]: Traidenis dažnai kariavo su lenkais ir pasiekdavo ne tik Mozūrus, bet ir Krokuvą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179198|Lenkai]]: Traideniui teko daug kariauti su lenkais, o jo žygiai siekė Mozūrus ir Krokuvą.
-- susijęs iš [[objektai/grupes/Lenkijos didikų ir bajorų seimas.md#claim-t-187782|Lenkijos didikų ir bajorų seimas (seimas, XIV a.)]]: Lenkijos didikų ir bajorų seimas, nutaręs kviesti Jogailą į Lenkijos sostą, vyko Krokuvoje 1385 m. birželį arba liepą.
 - susijęs iš [[objektai/grupes/Lenkų ponų taryba.md#claim-t-01377|Lenkų ponų taryba (institucija)]]: 1430 m. lenkų ponai Krokuvoje privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179266|Lietuviai]]: 1385 m. pabaigoje Jogaila, lydimas gausios lietuvių kunigaikščių ir didikų svitos, išvyko į Krokuvą.
 - susijęs iš [[objektai/grupes/Mokslo mėgėjų draugija Krokuvoje.md#claim-t-01420|Mokslo mėgėjų draugija Krokuvoje]]: Mokslo mėgėjų draugija Krokuvoje prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir jai apie tai pranešti.
@@ -640,9 +608,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176074|Vilniaus kapitula]]: Vilniaus kapitula pasirinko karūnas savo kolegijos herbu, norėdama prilygti Krokuvos kapitulai.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176100|Vilniaus kapitula]]: Vilniaus kapitula savo kolegijos herbu pasirinko tas pačias karūnas kaip Krokuvos kapitula.
 - susijęs iš [[objektai/grupes/Vokiečių ordinas.md#claim-t-182838|Vokiečių ordinas]]: Vokiečių ordinui draudžiant į Lietuvą įvežti ginklus ir arklius, Vytautas jų gaudavo iš Rygos ir Krokuvos.
-- susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186789|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Redakcinė pastaba nurodo, kad Aleksandras Krokuvoje buvo vainikuotas 1501.XII.12.
-- susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186790|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Redakcinė pastaba nurodo, kad Aleksandras iš Melniko į Krokuvą išvyko 1501.XI.29.
-- susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą ir kovo 4 d. vainikuotas Lenkijos karaliumi.
+- susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą, o kovo 4 d. vainikuotas Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186716|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad 1386 m. sausio 11 d. Jogaila buvo Volkovyske, o 1386 m. vasario 12 d. keliavo į Krokuvą.
 - susijęs iš [[objektai/ivykiai/Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga).md#claim-t-86949|Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga)]]: 1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi.md#claim-t-186771|Jono Olbrachto išrinkimas Lenkijos karaliumi]]: Jonas Olbrachtas buvo vainikuotas Krokuvoje 1492 m. rugsėjo 23 d.
@@ -660,7 +626,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md#claim-t-54300|Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]: Studijos Krokuvos universitete buvo vienas lenkiškosios civilizacijos poveikio Lietuvos kultūrai būdų.
 - susijęs iš [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka.md#claim-t-87133|Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]: Žygimantas Vilniui amžiams suteikė vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.
 - susijęs iš [[objektai/paprociai/Vilniaus padienininkų rinkimasis prie rotušės.md#claim-t-54741|Vilniaus padienininkų rinkimasis prie rotušės]]: Vilniaus padienininkams nurodyta rinktis prie rotušės pagal Krokuvoje įvestos tvarkos pavyzdį.
-- susijęs iš [[objektai/posakiai/penktadieni prieš Sekmines.md#claim-t-186894|penktadieni prieš Sekmines]]: Formulė „penktadieni prieš Sekmines“ 1971 m. leidinio pastaboje siejama su Kazimiero išvykimu iš Krokuvos į Lietuvą 1440 m. gegužės 13 d.
 - susijęs iš 1253 m. popiežiaus bulė dėl Polesijos ir Galindos: Narbutas 1253 m. bulės atsiradimą sieja su galindų ir jotvingių perėjimu Krokuvos Boleslovo ir Kujavijos Kazimiero globon.
 - susijęs iš 1578 m. Stepono Batoro privilegija Vilniaus akademijai: 1578 m. Steponas Batoras patvirtino funduotas mokyklas, suteikė joms Akademijos vardą ir prilygino kitoms akademijoms, ypač Krokuvos akademijai.
 - susijęs iš A. Prochaska, Szkice historyczne z XV wieku: A. Prochaskos „Szkice historyczne z XV wieku“ buvo išleista Krokuvoje ir Varšuvoje 1884 m.
@@ -697,14 +662,12 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš Gožkovas: Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius ir trečiasis Lietuvos vyskupas nuo Vilniaus katedros įsteigimo.
 - susijęs iš Kriava: 1385 m. rugpjūčio 14 d. Kriavo pilyje buvo surašytas aktas, vėliau atgabentas į Krokuvą.
 - susijęs iš Krokuvos karalystė: Lietuvos metraštis Krokuvos karalyste vadina politinę erdvę, kuri, Jogailai atsisėdus Krokuvoje, jį paėmė.
-- susijęs iš Krokuvos karalystė: Jogailai atsisėdus Krokuvoje ir Krokuvos karalystei jį paėmus, Lietuvos metraščio pasakotojas sako vėl pareiškęs savo tikėjimą.
 - susijęs iš Lenkija: XIV a. Lenkijos miestai, tokie kaip Krokuva ir Liublinas, jau turėjo gotikos rūmų ir mūrinių gatvių vaizdą.
 - susijęs iš Lenkija: Lenkijoje Zamoiskis įgijo persvarą ir, vadovaudamas kariuomenei, neleido Maksimilijonui įžengti į Krokuvą.
 - susijęs iš Lenkija: Lenkijoje Zamoiskis neleido Maksimilijonui įžengti į Krokuvą ir taip sudarė sąlygas karūnuoti Zigmantą.
 - susijęs iš Lenkijos karalystė: Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje.
 - susijęs iš Luckas: Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai.
 - susijęs iš Lvovas: Moldavijos vaivada Steponas ir turkų sultono paša Malkočas kariavo Lenkijos žemėje nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių.
-- susijęs iš Melnikas: Aleksandras 1501 m. lapkričio 29 d. išvyko iš Melniko į Krokuvą, kur gruodžio 12 d. buvo vainikuotas Lenkijos karaliumi.
 - susijęs iš Opatovas: Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugiau kaip 130 km į šiaurės rytus nuo Krokuvos.
 - susijęs iš Prancūzija: Prancūzija minima kaip absoliutinio valdymo pavyzdys, kuriuo norėjo sekti Krokuvoje vainikuotas valdovas.
 - susijęs iš Sandomiras: Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.
@@ -712,10 +675,10 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
 - susijęs iš Tamovas: Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos.
-- susijęs iš Vilnius: Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.
 - susijęs iš Volynija: Vytauto laikais Volynijos miestus sausumos keliais lankydavo Krokuvos ir vokiečių pirkliai.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113650|Magdeburgo teisės]]: Žygimantas privilegijomis amžiams suteikė miestui vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179716|Švitrigaila]]: Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją.
+- susijęs iš [[objektai/grupes/Lenkijos didikų ir bajorų seimas.md#claim-t-198909|Lenkijos didikų ir bajorų seimas (seimas, XIV a.)]]: Lenkijos didikų ir bajorų seimas, nutaręs kviesti Jogailą į Lenkijos sostą, vyko Krokuvoje 1385 m. birželį arba liepą.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54941|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82177|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
@@ -726,14 +689,13 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-28992|Borisas Karijotaitis]]: Borisas Karijotaitis, Podolėje įsikūręs Jogailos pusbrolis, turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
 - susijęs iš [[objektai/asmenys/Dr. Baptistas Cigala.md#claim-t-35051|Dr. Baptistas Cigala]]: Dr. Baptistas Cigala antrame atsakyme teigė, kad karūnacijai atlikti nereikia popiežiaus patvirtinimo.
 - susijęs iš [[objektai/asmenys/Feliksas Liangurga.md#claim-t-87499|Feliksas Liangurga]]: 1527-1552 m. Vilniaus vaitas buvo Krokuvos miestietis Feliksas Liangurga.
+- susijęs iš [[objektai/asmenys/Giovanni Zaor.md#claim-t-200867|Giovanni Zaor]]: Iš Krokuvos pakviestas italas Giovanni Zaor 1668 metais pradėjo Šv. Petro ir Povilo bažnyčią ir ją užbaigė per aštuonerius metus.
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-184710|Grigalius Chodkevičius]]: Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius.
 - susijęs iš [[objektai/asmenys/Hugonas Butyras.md#claim-t-60145|Hugonas Butyras]]: Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam.
 - susijęs iš [[objektai/asmenys/Inocentas IX.md#claim-t-87693|Inocentas IX]]: Inocentas IX buvo vienas iš dviejų popiežių, kurių elektorius buvo kardinolas Jurgis Radvila.
 - susijęs iš [[objektai/asmenys/Izabelė Jogailaitė.md#claim-t-87696|Izabelė Jogailaitė]]: Izabelė Jogailaitė buvo karalaitė ir Vengrijos karalienė, kuriai buvo atiduotas kraitis.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176416|Jadvyga Jogailienė]]: Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais.
 - susijęs iš [[objektai/asmenys/Jaranda iš Brudzevo.md#claim-t-186214|Jaranda iš Brudzevo (vyskupas)]]: Krokuvos vaivada Jaranda iš Brudzevo buvo įtrauktas į senato pasiuntinybę, išsiųstą į Lietuvą pas Žygimantą.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184724|Jogaila (kunigaikštis, XIV–XV a.)]]: Sužinojęs apie Jadvygos paskelbimą Lenkijos karaliene, Jogaila nutarė prašyti jos rankos.
-- susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185963|Jonas Olbrachtas]]: Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti lenkų palankumą.
 - susijęs iš [[objektai/asmenys/Jonas iš Lichino.md#claim-t-186215|Jonas iš Lichino (vyskupas)]]: Bresto vaivada Jonas iš Lichino buvo įtrauktas į pasiuntinybę, kuri turėjo vykti į Lietuvą pas Žygimantą.
 - susijęs iš [[objektai/asmenys/Jonas iš Tarnovo.md#claim-t-186113|Jonas iš Tarnovo]]: Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vytautui dėl imperatoriaus siūlymų.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113831|Julijona (Vytauto žmona)]]: Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už atsiųstus gėrimus.
@@ -744,15 +706,12 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/asmenys/Konstantinas (Karijotaitis).md#claim-t-29032|Konstantinas (Karijotaitis)]]: Konstantinas Karijotaitis palaikė Lietuvos ir Lenkijos sąjungą, nes jam rūpėjo apsaugoti Podolę nuo totorių.
 - susijęs iš [[objektai/asmenys/Laurynas Zaremba.md#claim-t-186139|Laurynas Zaremba]]: Senatas pasiuntė Lauryną Zarembą į Lietuvą su pasiuntinybe, įgaliota kelti Žygimantą Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus).md#claim-t-87764|Leonas (Haličo kunigaikščio sūnus)]]: Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.
-- susijęs iš [[objektai/asmenys/Leonas.md#claim-t-186010|Leonas]]: Leonas pirmose pozicijose išrikiavo rusus, o lietuvius ir skitus pastatė užnugaryje kaip žiūrovus.
 - susijęs iš [[objektai/asmenys/Lešekas.md#claim-t-186061|Lešekas]]: Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su turimais didikais leidosi persekioti priešą.
 - susijęs iš [[objektai/asmenys/Markvardas (Ragainės komtūras).md#claim-t-39600|Markvardas (Ragainės komtūras)]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.
 - susijęs iš [[objektai/asmenys/Markvardas Zalzbachas.md#claim-t-39390|Markvardas Zalzbachas]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje.
 - susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87406|Martynas Paleckis]]: Martynas Paleckis iš karaliaus gavo sklypą prie Vilniaus už Vilijos ir leidimą steigti pirmąjį miesto stiklo fabriką.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186354|Mikalojus Radvila]]: Lietuvos maršalka Mikalojus Radvila užtarė Martyną Paleckį, gavusį iš karaliaus žemės sklypą ir leidimą steigti stiklo fabriką.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186360|Mikalojus Radvila]]: Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59899|Mstivojus]]: Rabė patarė Mstivojų, Sventopelko sūnų, pasiųsti Austrijos kunigaikščiui kaip įkaitą.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82627|Mykolas Glinskis]]: Po Aleksandro mirties lietuviai bijojo vežti jo palaikus į Krokuvą dėl pavojingos Mykolo Glinskio puikybės.
 - susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54981|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) turėjo būti atiduotas kraitis ir tūkstantis raudonųjų vengriškų zlotų auksu.
 - susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87454|Paulius Rusdorfas]]: Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už jai atsiųstus gėrimus.
@@ -762,7 +721,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/asmenys/Russdorfas.md#claim-t-35271|Russdorfas]]: Russdorfas buvo numatytos sąjungos su Vytautu ir Zigmantu dalyvis; ši sąjunga turėjo būti nukreipta prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105711|Simonas Daukantas]]: Simonas Daukantas domėjosi M. Balinskio publikacijomis apie kultūrinį sąjūdį Žemaitijoje ir kitus kultūros klausimus.
-- susijęs iš [[objektai/asmenys/Spitekas iš Melštino.md#claim-t-186164|Spitekas iš Melštino]]: Spitekas iš Melštino parūpino pinigų, o Vytautas atidavė karaliui Kamenecą, Smotričių, Skalą ir Červonogradą.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
 - susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111435|Tochtamišas]]: Prie Kijevo telkiamoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-183843|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
@@ -771,7 +729,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/asmenys/Vaitiekus Jastrzembiec.md#claim-t-35309|Vaitiekus Jastrzembiec]]: Vaitiekus Jastrzembiec buvo Poznaniaus vyskupas ir Lenkijos kancleris, aiškiai atsidavęs Vytauto reikalams.
 - susijęs iš [[objektai/asmenys/Vitas.md#claim-t-87602|Vitas]]: 1253 m. dominikonas Vitas Gniezno arkivyskupo Pelkos buvo įšventintas pirmuoju Lietuvos vyskupu.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173236|Vladislovas Jogaila]]: Pagal Vladislovo Jogailos potvarkį Vilniaus sargyba ir policija laikinai priklausė pilies tarnybai.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176660|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Žalgirio mūšio metu Vytautas Didysis pats vedė savo kariuomenę ir vadovavo visai sąjunginei kariuomenei.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176708|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas susitaikė su pusbroliu Skirgaila ir sudarė su juo sąjungą prieš kiekvieną priešą, išskyrus Lenkijos karalių.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176718|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas siekė Lietuvos karaliaus karūnos, tačiau tam priešinosi Vladislovas Jogaila ir Lenkijos senatas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176741|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto valdymo užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros.
@@ -850,7 +807,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/grupes/Vilniaus archeologijos komisija.md#claim-t-55076|Vilniaus archeologijos komisija]]: Michałas Balińskis Gazeta Warszawska straipsniuose detaliai aprašė Vilniaus archeologijos komisijos veiklą.
 - susijęs iš [[objektai/grupes/Vilniaus archeologijos komisija.md#claim-t-81662|Vilniaus archeologijos komisija]]: Michałas Balińskis laikraštyje „Gazeta Warszawska“ detaliai aprašė Vilniaus archeologijos komisijos veiklą.
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172819|Vilniaus magistratas]]: Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui.
-- susijęs iš [[objektai/grupes/Šventoji kardinolų taryba.md#claim-t-185463|Šventoji kardinolų taryba (institucija, XV a.)]]: Popiežius Inocentas paskelbė Fridrichą Krokuvos arkivyskupu ir įtraukė jį į Šventąją kardinolų tarybą.
 - susijęs iš [[objektai/ivykiai/Brolio Popono atvykimas, Mstivojaus įkaitavimas ir senosios taikos atnaujinimas (1244 m.).md#claim-t-62755|Brolio Popono atvykimas, Mstivojaus įkaitavimas ir senosios taikos atnaujinimas (1244 m.)]]: 1244 m. atvykus magistrui Poponui ir pagalbai iš Vokietijos bei Austrijos, Sventopelkas pabandė susitaikyti su broliais ir senoji taika buvo atnaujinta.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186714|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogailos krikštas įvyko 1386 m. vasario 15 d., jungtuvės su Jadvyga vasario 18 d., o vainikavimas kovo 4 d.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186606|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad po pergalės buvo paimta daug vokiečių miestų ir žemių.
@@ -858,7 +814,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi.md#claim-t-186770|Jono Olbrachto išrinkimas Lenkijos karaliumi]]: Jonas Olbrachtas Petrakavo seime buvo išrinktas Lenkijos karaliumi 1492 m. liepos 27 d.
 - susijęs iš [[objektai/ivykiai/Jurijaus Svetoslavovičiaus priesaika Jogailai ir Skirgailai.md#claim-t-186727|Jurijaus Svetoslavovičiaus priesaika Jogailai ir Skirgailai]]: 1386 m. gegužės 20 d. Krokuvoje Jurijus Svetoslavovičius davė Jogailai ir Skirgailai vasalo ištikimybės priesaiką.
 - susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-34453|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Kitą dieną po Kauno susitarimo Vokiečių ordinas pažadėjo po Vytauto mirties globoti jo žmoną Oną ir ginti jos teises į jos dalį.
-- susijęs iš [[objektai/ivykiai/Lietuvių žygis į Sembą Prūsijoje.md#claim-t-185814|Lietuvių žygis į Sembą Prūsijoje]]: Į Sembą įsiveržusi aštuonių tūkstančių lietuvių raitija nusiaubė kaimus, išžudė jų gyventojus ir išsivarė grobį.
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54449|Lietuvos krikštas Vilniuje (1387 m.)]]: 1387 m. sausį Vladislovas Jogaila atvyko į Gedimino sostinę kartu su Jadvyga, dvasininkais, kunigaikščiais ir didikais.
 - susijęs iš [[objektai/ivykiai/Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje.md#claim-t-20405|Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje (unija)]]: Abiejų Tautų Respublikos bendras Seimas buvo aukščiausia šalia valdovo valdžios institucija ir rinko karalių.
 - susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66768|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.
@@ -914,7 +869,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš Kamenecas: Vytautas už keturiasdešimt tūkstančių florinų atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą ir Červonogradą.
 - susijęs iš Kersovas: Aštuoni šimtai Lietuvos raitelių Kersovu vadinamoje Lenkijos žemės dalyje nuniokojo 10 kaimų.
 - susijęs iš Kijevas: Vytautas rėmė Kijevo prekybą, nes miestas Dniepru jungėsi su Juodosios jūros kryptimi ir sausuma su Volynės bei Podolės miestais.
-- susijęs iš Kijevas: 1399 m. birželį Kijeve buvo sutelkta didelė Vytauto kariuomenė.
 - susijęs iš Kijevas: Vytautas rėmė Kijevo miestą, siekdamas atgaivinti prekybą rusiškuose kraštuose.
 - susijęs iš Kinija: Vilniaus akademiją steigę jėzuitai manė, kad per Maskoviją ir totorius galima pasiekti Kiniją.
 - susijęs iš Klaipėda: Nemunas prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo.
@@ -925,18 +879,12 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš Lenkija: Abiejų Tautų Respublikoje vyravo Lenkija, nes Lietuva bendrame Seime turėjo tik trečdalį vietų.
 - susijęs iš Lietuva: Balińskis Kryžiuočių ordino nuniokojimą iki Medininkų ir Ašmenos vadino paskutiniu smūgiu pagoniškai Lietuvai.
 - susijęs iš Lietuva: Karalius lapkritį grįžo į Krokuvą ir leido Augustui vykti į Lietuvą.
-- susijęs iš Liublinas: XIV a. Liublino gatvės buvo siejamos su gotikos rūmais, apsuptais aukštų sienų.
-- susijęs iš Liublinas: Krokuvos ir Liublino gatvės buvo siejamos su gotikos rūmais ir aukštomis sienomis.
-- susijęs iš Liublinas: Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises.
-- susijęs iš Liublino kraštas (kraštas): Po Liublino žemių nuniokojimo priešas siaubė Sandomiro kraštą.
+- susijęs iš Liublino kraštas (kraštas): Kojelavičiaus pasakojime priešas, nuniokojęs Liublino žemes, siaubė Sandomiro kraštą.
 - susijęs iš Luckas: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.
 - susijęs iš Mazovija: Prūsijos žemę iš vienos pusės ribojo Mazovijos kunigaikštystė.
 - susijęs iš Narevas: Lietuviai, prieš kelias dienas perkėlę grobį ir kariuomenę per Narevą, pasislėpė miško tankmėje.
-- susijęs iš Opatovas: Opatovas yra Lenkijos Kielcų vaivadijos miestas, esantis apie 30 km į vakarus nuo Zavichosto ir Vislos.
 - susijęs iš Palenkė: Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos.
 - susijęs iš Podolija: Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai.
-- susijęs iš Podolė: Tuo metu Vytautas paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai.
-- susijęs iš Podolė: Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai.
 - susijęs iš Pomeranija: Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos.
 - susijęs iš Poznanė: Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises.
 - susijęs iš Poznanė: Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų.
@@ -953,17 +901,14 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš Tikocinas: Tikocine pas Zaleskį buvę bažnytiniai reikmenys turėjo būti perduoti Vilniaus Šv. Onos bažnyčiai.
 - susijęs iš Torunė: Vienas Krokuvos kilmingasis į Torunės pilį pasiuntė tris laivus su maistu ir gėrimais, 300 jaučių bei karvių ir daug kinkomų gyvulių.
 - susijęs iš Trakai: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams, o Žygimantas Senasis ją patvirtino 1507 m. Melnikuose.
-- susijęs iš Trobai: Trobai šiame gabale minimi Trobų kunigaikščio titulo kontekste.
 - susijęs iš Vilniaus pilis: Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.
 - susijęs iš Vilniaus rotušė: 1547 m. Vilniuje padieniams darbininkams nurodyta rinktis prie rotušės, kad miestiečiai galėtų lengviau juos pasisamdyti.
 - susijęs iš Vilniaus vaistinė: Iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia.
-- susijęs iš Vilnius: Vilnius dėl stiprių tvirtovių įgulų išvengė puolimo, bet didysis magistras nuniokojo apylinkes iki Medininkų ir Ašmenos.
 - susijęs iš Vilnius: 1387 m. pradžioje Jogaila atvyko į Vilnių, pakeliui paėmęs Lietuvos kunigaikščių paklusnumo raštus.
 - susijęs iš Vokietija: Dvasininkais besirengiantys studentai paprastai vykdavo į Krokuvą, o kiti mokėsi Vokietijos, Italijos ir Prancūzijos universitetuose.
 - susijęs iš Volynija: Vytauto laikais Krokuvos ir vokiečių pirkliai sausuma lankydavo Volynijos ir Podolijos miestus.
 - susijęs iš Vysla: Prūsijos žemės aprašyme Vysla minima kaip viena iš Prūsijos ribų.
 - susijęs iš Žemaitija: Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos.
-- susijęs iš Žemutinis Naugardas: Vasilijus Žemutinio Naugardo kunigaikštystėje įsirengė vadavietę ir asmeniškai prižiūrėjo žygį prieš Kazanės skitus.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113653|Magdeburgo teisės]]: Žygimantas dviem privilegijomis lotynų ir rusų kalbomis atnaujino ir patvirtino Vilniaus Magdeburgo teises.
 - susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka.md#claim-t-54792|Municipalinė teisėtvarka]]: Teutonų teisė Lenkijos miestų kontekste siejama su atleidimu nuo duoklių, krašto teisės prievolių, sava teisėtvarka ir atskiru miesto valdymu.
 - susijęs iš [[objektai/zodynas/Personalinė unija.md#claim-t-182717|Personalinė unija (unija)]]: Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.
@@ -987,6 +932,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/daiktai/Zigmanto Augusto antkapis.md#claim-t-01248|Zigmanto Augusto antkapis]]: Zigmanto Augusto antkapis yra Krokuvos katedroje.
 - susijęs iš Gazeta Warszawska: „Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas.
 - susijęs iš Gazeta Warszawska: „Gazeta Warszawska“ buvo svarbi M. Balinskio publicistinės literatūros dalis.
+- susijęs iš Vytauto skundas prieš Jogailą ir Skirgailą: Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė jimo.
 - susijęs iš Buda: 1385 m. sausį Skirgailos vadovaujama delegacija Krokuvoje ir Budoje sutarė dėl vėliau Kriavo akte pažadėtų sąlygų.
 - susijęs iš Vilniaus pilys: Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai.
 - susijęs iš Vilniaus pilys: Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.
@@ -1000,1122 +946,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas.md#claim-t-01875|Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]: Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173209|Petras Goštautas]]: Pasak Grzybowskio, Petras Goštautas Krokuvoje tapo pranciškonu, apsigyveno Vilniuje ir vertė miestiečius į krikščionybę.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi.md#claim-t-186771|Jono Olbrachto išrinkimas Lenkijos karaliumi]]: Jonas Olbrachtas buvo vainikuotas Krokuvoje 1492 m. rugsėjo 23 d.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Toliau sakoma, kad taip sujungtos valstybės turėsiančios vieną
-    bendrą valdovą, kuris būsiąs bendrai renkamas Lietuvoje ir ka-
-    rūnuojamas Krokuvoje (§ 4). Lietuvoje jau nebeturėsią būti
-    atskirų didžiojo kunigaikščio pakeliamųjų apeigų (§ 5). Toks
-    naujai išrinktasai valdovas abiejų valstybių turimąsias teises
-    turėsiąs patvirtinti vienu bendru raštu, o ne skyrium (§ 7).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-031
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Čia abiejų pusių interesai labiau susiderino.
-    Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti
-    ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d.
-    Krokuvoje buvo vainikuota Lenkijos « karaliumi ».
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-036
-    - t-033
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nuo tada Jogaila
-    veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko ofi­
-    ciali, Skirgailos vadovaujama, delegacija. Krokuvoje ir Budoje ji
-    galutinai sutarė, kas vėliau Kriavo akte (1385.VIII.14) buvo pa­
-    žadėta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-024
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet kryžiaus žygio bulės pasisekimas bega­
-    lėjo būti gana ribotas, nes jai skelbti laiko jau beveik nebebuvo.
-    Pats Vytautas, Krokuvoje praleidęs 1399 pavasarį^28 , vykdė
-    plačius pasiruošimus. Kijeve jau birželio mėn. prie gausių stalų
-    buvo susirinkusi didelė kariuomenė^29.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-029
-    - t-014
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jų tarpe du žinomi Algirdaičiai: 1380 kovoję prieš
-    Jogailą Maskvos pusėje, būtent Polocko — Andrius ir Briansko —
-    Dimitras, Jaunučio Gediminaičio sūnus Mykolas (iš Zaslavlio), du
-    Karijotaičiai (Semenas ir Hlebas)^36. Prie Vorsklos galvas paguldė
-    Vytauto ištikimieji Smolensko vietininkai Boreikaičiai ir žymusis
-    Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.
-    Jo didelį narsumą iškeldamas, Dlugošas pastebi, jog jis esą įtiki­
-    nėjęs Vytautą nepradėti kautynių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-041
-    - t-056
-
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Toks klausimo išsprendimas, žinoma, Vytautui buvo
-    visiškai neparankus, nes jei Jogaila sugrįžtų ir užimtų buvusią
-    prieš 1386 m. savo padėtį, tada kiekvienam kitam Gediminai­
-    čiui būtų išnykusios visokios galimybės naudotis d. kunigaikščio
-    valdžia nors ir iki gyvos galvos. Matyt, susirūpinęs tokia ga­
-    limybe, Vytautas tuojau po paskutinio savo pralaimėjimo nu­
-    vyko į Krokuvą ir, nežiūrint geriausių iš pažiūros santykių su
-    karalium, greitai sugrįžo į Lietuvą^1 ). Šitas jo skubus sugrįži­
-    mas daug pasako: matyt, tikrai pajuto sau pavojų iš Jogailos
-    pusės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-049
-    - t-046
-
-- c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tad Vytautas čia labiau pareida­
-    vo ir nuo geografinės valstybės būklės ir nuo politinių bei kul­
-    tūrinių sąlygų.
-    Geografinė jo didingos valstybės būklė prekybai buvo gana
-    patogi, nes jos teritorija siekė Baltijos ir Juodųjų jūrų, su ku­
-    riomis ją jungė platūs Nemuno ir Dniepro baseinai, Pietų Būgo,
-    Dniestro ir kitos upės. Nuo Lietuvos buvo taip pat netoli tokie
-    anų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­
-    vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
-    tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
-    buvo apsupta pirklių gyvenamų ir lankomų žemių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-    - t-057
-
-- c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Paskutiniais gyvenimo metais visai
-    nebebuvo girdėt Zigmanto. Užsieny jau daug kas manė, kad
-    jis miręs; pavyzdžiui, Turkų sultonas buvo atsiuntęs net užuo-
-    jautą, o Maskvos kunigaikštis savo pasiuntiniams, siunčiamiems
-    į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pa-
-    reikšti užuojautą". Zigmantas mirė 1548 m., sulaukęs 81 m.
-    amžiaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-055
-    - t-050
-
-- c-009
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lenkų ir lietuvių delegacijoms atvažiavus į Pa-
-    ryžių, pats Henrikas ir
-    jo brolis Karolis IX
-    stengėsi kai kuriuos
-    punktus pakeisti, bet,
-    delegacijoms nenusilei-
-    dus, su viskuo sutiko
-    ir prisiekė. Tarp kitko,
-    jis pasižadėjo vesti Zig-
-    manto Augusto seserį
-    Oną, nors jam tebebuvo
-    tik 23 m., o jai 55 m.
-    Atvykęs ir vainikavęsis
-    Krokuvoje, jis savo pa-
-    žadų nepaisė, vedybas
-    su Ona vis atidėliojo ir
-    svajojo valdyti taip, kaip
-    buvo valdoma Prancūzi-
-    ja, t. y. absoliutiškai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-060
-    - t-001
-
-- c-010
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuviai
-    pareiškė, jog nesutinką
-    nei su vieno nei su antro
-    išrinkimu, ir išvažiavo namo. Tuo tarpu Lenkijoj laimėjo Za-
-    moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-
-    menei, jis atvykstančio Maksimilijono neįleido į Krokuvą
-    Tuo būdu buvo karūnuotas atvykęs Zigmantas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-030
-    - t-015
-
-- c-011
-  santrauka: '1387 m. sausį į Vilnių su Jogaila atvyko ir Krokuvoje pakrikštyti Lietuvos bajorai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Il KNYGA
-    Galop išsižadėjęs jau apnykusių pagonybės prietarų, kaip
-    naujas Kristaus tikėjimo išpažinėjas ir uolus savo tautos
-    apaštalas, 1387 metų sausį lietuvių žemėje Gedimino sostinė­
-    je atsirado Vladislovas Jogaila. Kartu su juo atvyko žavesiu ir
-    tauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­
-    čionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno
-    arkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­
-    čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
-    krikštytieji Krokuvoje. Lietuviai bajorai buvo puiki tų dviejų
-    pirmaujančios anuomet Šiaurėje valstybės valdovų svita.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-032
-
-- c-012
-  santrauka: 'Seime Lietuva turėjo tik trečdalį vietų, nes buvo prilyginta vienai Lenkijos provincijai greta Didžiosios Lenkijos su Poznane ir Mažosios Lenkijos su Krokuva.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Aukščiausia (šalia valdovo) valdžios institucija – bendras Sei-
-    mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva
-    turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
-    buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
-    Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira
-    vykdomoji valdžia – kancleris, iždininkas, etmonas ir kt. (tik antrojoje
-    XVIII a. pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų),
-    atskiras iždas, kariuomenė, teismai ir teisinė sistema, kurią įformino Tre-
-    čiasis Lietuvos Statutas 1588 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-028
-
-- c-013
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po konvokacinio seimo,
-    jo nustatytu laiku, taip pat primas šaukdavo e1ekcinį seimą,
-    kuriame būdavo sprendžiami visi karaliaus rinkimo formalumai ir
-    surašomos jam pateikiamos sąlygos. Pačius karaliaus rinkimus
-    atlikdavo visa susirinkusi bajorija; seimas tik atlikdavo visus for-
-    malumus. Pagaliau tarpuvaldį pabaigdavo karūnacinis sei-
-    mas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvyk-
-    davo karūnacija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-043
-
-- c-014
-  santrauka: 'Žygimanto Augusto laikais geriausi amatininkai iš Krokuvos apsigyveno Vilniuje ir prisidėjo prie cechų organizavimo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Bet Žygiman­
-    tas Augustas, matydamas Vilnių turint nemaža naudos iš
-    naujojo amato ir baimindamasis, kad toks naudingas fabri­
-    kas nesužlugtų, po kelerių metų patvirtino dovanotą privi-
-    legiją.
-    Šio karaliaus laikais Vilnius buvo aprūpintas geriausiais
-    amatininkais iš Krokuvos, kurie, apsigyvenę mieste, daug
-    prisidėjo prie karaliaus uoliai steigiamų cechų organizavi­
-    mo. Dailieji menai, architektūra, tapyba ir skulptūra, mažai
-    pažįstami Lietuvos sostinėje, iki tol prastais ir negrabiais pa­
-    vyzdžiais plūdę iš rytų, šiuo laikotarpiu ėmė klestėti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-015
-  santrauka: 'Vladislovas Jogaila, matydamas klestinčią Krokuvą, siekė vilioti svetimtaučius kurtis Vilniuje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Benedikto, abato, šven­
-    tės, valdovas Vilniui suteikė Magdeburgo teises15. Prisižiū­
-    rėjęs į klestinčią Krokuvą, Vladislovas Jogaila nusprendė vi­
-    lioti svetimtaučius kurdintis Vilniaus mieste, tačiau palankūs
-    tos privilegijos padariniai sumenko per išlygą, jog nepai­
-    sant naujų nuostatų, visi miestiečiai pavaldūs Vilniaus se­
-    niūnui, dėl ko jiems kilo pavojus ne kartą susidurti su sava­
-    vališkos valdžios perlenkimais. Prie to dar prisidėjo pareiga,
-    nuo seno jiems galiojanti, saugoti Vilniaus pilį: gyventojai
-    steigti ten, kur anksčiau stovėjusios
-    pagonių šventyklos arba augusios
-    giraitės, medžiai, buvęs akmuo ar­
-    ba šiaip vietovė kokiam nors dievai­
-    čiui pašvęsta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-044
-    - t-005
-
-- c-016
-  santrauka: 'Didžioji iš Krokuvos pargabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tik kai Aleksandrą kelerius metus nuolat ka­
-    mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­
-    dymo meną išmanantys: vienas - pagal profesiją fizikas, arba
-    rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas;
-    antras, pagarsėjęs alchemijos išmanymu bei sėkmingu gy­
-    dymu, - Aleksandras Balinskis. Nors jų ginčai dėl karaliaus
-    gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­
-    nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­
-    miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
-    tapo nuolatinės miesto vaistinės pradžia.
-    Nors Lietuvos sostinė ir gavo naudos susijusios su preky­
-    ba bei saugumu, bet akivaizdaus pagerėjimo valdant miestą
-    nebuvo matyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-037
-
-- c-017
-  santrauka: 'XIV a. Krokuvoje ir Liubline buvo siauros tiesios gatvės, susidariusios tarp gotikinių rūmų ir aukštų sienų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Visi tie pastatai, at­
-    skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais
-    daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­
-    mus, besišliejančius prie pilių, negu į tokius miestus, kokie
-    jau XIV amžiuje puošė Lenkiją. Lietuvai, ilgai nuo krikščio­
-    niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių
-    antpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­
-    kos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios,
-    nors ir siauros Krokuvos ar Liublino gatvės, nei tokie, tam
-    laikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės
-    prekybos namai, statydinti Kazimiero Didžiojo. Vilniuje, vi­
-    dur namų samplaikos, iškilesnėje vietovėje nei Šventaragio
-    slėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­
-    tuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­
-    juosta statinių tvoromis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-038
-    - t-039
-
-- c-018
-  santrauka: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvai tai
-    pavyko padaryti per šimtmetį. Svarbų vaidmenį šiame procese suvaidino
-    Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
-    versitetuose. Šios studijos, o ir apskritai europinės kultūros įsisavinimas
-    davė konkrečių rezultatų XV a. pabaigoje–XVI a. pirmoje pusėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-019
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Liuteris jam patarė mesti vienuolio apdarus, vesti žmoną ir
-    pasiskelbti kunigaikščiu. Gavęs dėdės, karaliaus Zigmanto, su-
-    tikimą, jis visa tai įvykdė ir 1525 m. Krokuvoje iškilmingai
-    prisiekė Zigmantui, kaip Prūsų kunigaikštis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-022
-
-- c-020
-  santrauka: '1578 m. Steponas Batoras Vilniaus mokykloms suteikė Akademijos vardą ir prilygino jas kitoms akademijoms, ypač Krokuvos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    G) Apie kai kuriuos Akademijai ir
-    Valerijono bursai funduotus turtus
-    •
-    1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Pro-
-    tasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun-
-    davo ir įsteigė įvairių mokslų viešąsias mokyklas.
-    1578 metais Karalius Steponas Batoras, šias funduotas mo­
-    kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­
-    mijoms, o išskirtinai Krokuvos, prilygino. Profesorius ir stu­
-    dentus nuo priklausomybės bet kokiai dvasinei ar pasaulietinei
-    jurisdikcijai ir nuo bet kokių mokesčių atleido, Rektoriui pave­
-    dė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­
-    demijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­
-    skyrė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-051
-    - t-045
-
-- c-021
-  santrauka: 'Žygimantas privilegijose miestui suteikė Magdeburgo teisę, kuria Krokuva naudojosi nuo seno.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jas magistratas priėmė viešai iš didžiojo kuni­
-    gaikščio rankų19. Privilegijose Žygimantas pareiškė, kad
-    atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
-    čius, amžiams suteikia miestui vokišką Magdeburgo teisę,
-    Krokuvos naudojamą nuo seno. Iš vaivadų ir visų karališ­
-    kųjų valdininkų buvo atimta galia kištis į miesto reikalus,
-    ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­
-    sė spręsti ir bausti už miestiečių padarytus kriminalinius
-    nusikaltimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-059
-    - t-035
-
-- c-022
-  santrauka: '1385 m. pabaigoje Jogaila paliko senąją sostinę ir su lietuvių kunigaikščių bei didikų svita išvyko į Krokuvą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
-    Ordino riterių kirstas pagoniškai Lietuvai. Juk kai per Jogai­
-    los apsukrų laviravimą žlugo visos kryžiuočių jam daromos
-    kliūtys siekti Lenkijos sosto, 1385 metų pabaigoje Lietuvos
-    valdovas paliko savo senąją sostinę ir gausios lietuvių kuni­
-    gaikščių ir didikų svitos lydimas išvyko į Krokuvą.
-    Miesto, kurio istorijos įvykius keliame iš užmaršties, li­
-    kimas glaudžiai susijęs su viso krašto likimu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-    - t-021
-
-- c-023
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ten jų reikėjo daugybės ir visokių. Alavas ir varis iš
-    Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į
-    Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.
-    Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
-    lų, gaminta bombos ir kiti karo reikmenys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-034
-    - t-002
-
-- c-024
-  santrauka: 'Jogailos pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Įvesdamas naująjį tikėjimą, Jogaila naikino pagonybės apraiškas:
-    šventąsias girias, žalčius, šventąją ugnį. Pastatyta katedra, iškilmingai pa-
-    švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos
-    turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje,
-    kur anksčiau degė pagonių amžinoji ugnis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-025
-  santrauka: 'Auksinis kryžius su Šventojo Kryžiaus medžiu turėjo likti Krokuvos pilies koplyčioje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Onos bažnyčiai Vilniuje išduoti, išskyrus auk­
-    sinį kryžių, papuoštą safyru, su jame esančiu Šventojo Kry­
-    žiaus medžiu, pakabintu ant grandinės, ir prašome bei pa­
-    skiriame, kad šis kryžius su Šv. Kryžiaus medžiu būtų
-    paliktas Krokuvos pilies koplyčioje, kur ilsisi jo didenybės
-    pono mūsų tėvo švento atminimo karaliaus kūnas. Taip pat
-    —  • —
-    345
-
-    ## Puslapis 362
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    prašome, kad antrasis mūsų rūmų kredensas, kuris buvo ir
-    yra Karalystės rūmų iždininko saugojamas, būtų skirtas mū­
-    sų dvariškių ir tarnų algoms sumokėti, kad nereikėtų iš kur
-    kitur jiems užmokesčio rūpintis, kad kiekvienam iš to kre-
-    denso būtų atlyginta ir kiekvieną už ilgą tarnybą ir tarny­
-    boje parodytą malonę reikia apdovanoti, kaip tuos, kurie
-    nuo seno mums tarnavo, savo metus mūsų dvare prarado
-    ir už kiekvieno nuopelnus, taip ir tuos, kurie tarnauja žir­
-    gais, taip pat ir tarnautojus*, rūmų tarnus, daktarus, kuni­
-    gus, samdinius, pėstininkus, kambarinius, liokajus, vyni­
-    ninkus ir kitus, kokių tik mūsų tarnų yra, kiekvienam pagal
-    nuopelnus, ne tuos, kurie tarsi ad oculum [dėl akių] tarna­
-    vo, į dvarą suvažiavę nusigriebti kąsnį bei pasipuikuoti, o
-    mūsų tarnystės nežiūrėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-027
-
-- c-026
-  santrauka: 'Krokuva tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
-    tai, net slaviškieji, ėmė prie jų šlietis. Prie karinės sąjungos, 1241 m.
-    Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė
-    D
-
-    ## Puslapis 22
-
-    ĮVADAS
-    Krokuva, Kališas ir Naugardas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-027
-  santrauka: 'Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Benjaminas iš Tudelio, žydų kilmės ke­
-    liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne
-    tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau
-    nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
-    tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­
-    linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­
-    čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
-    dajam. Poznanė dar anksčiau už Krokuvą - 1253 metais,
-    Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
-    ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
-    teises.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-054
-    - t-004
-
-- c-028
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mykolas Lietuvis siūlo ir kalbos permainas – at-
-    sisakyti rusėnų kalbos ir pereiti prie romėnų, t. y. lotynų. Tačiau viską nulė-
-    mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji
-    civilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
-    organizavimu, studijomis Krokuvos universitete, administracinės sistemos
-    perėmimu, ūkio reforma.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-053
-    - t-052
-    - t-073
-
-- c-029
-  santrauka: 'Vytautas mėgino dovanomis ir pažadais palenkti Krokuvos vyskupą Olesnickį palaikyti jo karūnavimo siekį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Len­
-    kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­
-    ti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija,
-    o karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­
-    kijos senato valią galima būtų didžiajam kunigaikščiui už­
-    dėti Lietuvos karaliaus karūną ir paskui išlaikyti ją nebau­
-    džiamiems. Vytautas, vėl su įkarščiu išsakęs savo didelį norą
-    stojęs prieš karalių ir senatorius, kai visi jo prašymai ir mal­
-    davimai buvo tačiau visai atmesti, nusprendė imtis kitų bū­
-    dų: palenkti dovanomis ir pažadais Krokuvos vyskupą
-    Olesnickį, kuris kartu su Krokuvos vaivada Janu iš Tarno­
-    vo turėjo lemiamą balsą karaliaus taryboje. Bet šis vyras,
-    tiesus ir nepalaužiamas, davė jam tokį įsidėmėtiną atsaky­
-    mą: „Nors Vytautas ir vertas yra karūnos, tačiau, jeigu
-    trokšta jos nepaisydamas šventos priesaikos, kokią pats da­
-    vė, užuot savo šlovę apvainikavęs, gėdą sau užtrauks, p
-    tėvynei nelaimę atneš.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-025
-    - t-023
-
-- c-030
-  santrauka: 'Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prie Cėsių (į šiaurę nuo Dauguvos)
-    lietuviams pavyko sutriuškinti Livonijos
-    riterius. Panašiu metu Lenkijoje lietuviai
-    puolė Sandomiro ir Krokuvos žemes.
-    Lietuvos pajėgos Rusioje plačiai vykdė
-
-    kovinius veiksmus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-062
-
-- c-031
-  santrauka: 'Aleksandrui sunkiai sergant, iš Krokuvos atvyko gydymą išmanę Motiejus iš Blonios ir Aleksandras Balinskis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Livoniae, T. I,
-    N. 1208, kur nurodytas Slaptajame
-    archyve esantis vokiečių kalba rašy­
-    tas didžiojo Lietuvos kunigaikščio
-    Vytauto žmonos Julijonos, dėkojan-
-    čios didžiajam magistrui Pauliui fon
-    237
-
-    ## Puslapis 254
-
-    VILNIAUS MIESTO ISTORIJA I I  TOMAS
-    Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir vėles­
-    niais laikais. Tik kai Aleksandrą kelerius metus nuolat ka­
-    mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­
-    dymo meną išmanantys: vienas - pagal profesiją fizikas, arba
-    rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas;
-    antras, pagarsėjęs alchemijos išmanymu bei sėkmingu gy­
-    dymu, - Aleksandras Balinskis. Nors jų ginčai dėl karaliaus
-    gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­
-    nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­
-    miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
-    tapo nuolatinės miesto vaistinės pradžia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-063
-    - t-058
-
-- c-032
-  santrauka: '1403 m. Vytautas užtikrino Krokuvos pirkliams apsaugą visoje savo valstybėje ir leido jiems laisvai prekiauti Lietuvoje bei Rusijoje.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kroku­
-    vos pirkliams Vytautas (1403) užtikrino visoje savo valstybėje
-    apsaugą, leisdamas jiems laisvų laisviausiai prekiauti Lietuvo­
-    je ir Rusijoje.
-    Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,
-    remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą
-    su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­
-    jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
-    Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
-    cijos pirkliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-033
-  santrauka: 'Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Baroko
-    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
-    universitetą. Manoma, kad studijų lygis senajame universitete nebuvo
-    menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose. Iš šių
-    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
-    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
-    teorijos  kūrėjo K. Semenavičiaus veikalo
-    „Artis magnae artilleriae“  frontispisas, 1650 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-047
-
-- c-034
-  santrauka: 'Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje prie tėvo kapo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dėl to norime, kad mūsų kū­
-    nas būtų ten palaidotas, kur mus užklups paskutinioji va­
-    landa, tai yraA  jeigu Lenkijos Karalystėje mums esant Vieš­
-    pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje,
-    pilies bažnyčios koplyčioje, kur mūsų pono tėvo, Kristuje
-    mirusio, kūnas požemyje guli, ten pat, apačioje ar viršuje,
-    kad taipogi būtų pastatytas antkapis arba depozitas po jo
-    mirusios karališkosios didenybės antkapiu, ant žemės, pa­
-    vaizduojant mus taip, kaip ir jo karališkoji didenybė pavaiz­
-    duota antkapyje, kaip mums Viešpats Dievas pats sumanys
-    sveikatos pridėti, bet jeigu mūsų Vieš..., Lietuvos Kunigaikš­
-    tystėje esant, paims iš šio pasaulio, norime, kad būtume pa­
-    laidoti Vilniuje, pilyje, naujoje Šv. Onos bažnyčioje, toje choro
-    pusėje, bažnyčios pastato kampe, palei zakristijos duris. Tai
-    darome atsižvelgdami, kad nebūtų nereikalingų išlaidų ir
-    rūpesčių kūną po mirties iš valstybės į valstybę gabenant.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
-- c-035
-  santrauka: 'Kryžius su Šventojo Kryžiaus medžiu turėjo būti paliktas Krokuvos pilies koplyčioje, kur ilsėjosi karaliaus kūnas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šiai bažnyčiai visą bažnytinį auksą,
-    sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą,
-    kuris prie mūsų visada būna mišioms ir kas tik yra pas Zales-
-    kį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pa-
-    cifikalus, liktorius, tribularijus, ampules, ampulėles, varpelius,
-    taip ir arnotus ir kitus bažnytinius apdarus, antepedijus, ši-
-    žinkas, korporalus, absoliučiai visas puošmenas, drabužius ir
-    indus, priklausančius Dievo tarnystei bažnyčioje, kad jie būtų
-    tai minėtai Šv. Onos bažnyčiai Vilniuje išduoti, išskyrus auk­
-    sinį kryžių, papuoštą safyru, su jame esančiu Šventojo Kry­
-    žiaus medžiu, pakabintu ant grandinės, ir prašome bei pa­
-    skiriame, kad šis kryžius su Šv. Kryžiaus medžiu būtų
-    paliktas Krokuvos pilies koplyčioje, kur ilsisi jo didenybės
-    pono mūsų tėvo švento atminimo karaliaus kūnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-036
-  santrauka: 'Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi politinis
-    lietuvių elitas – stačiatikiškos kultūros užsakovai. Vakarinė LDK dalis –
-    tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl re-
-    prezentacijos bei artumo Krokuvai kurs rezidencijas didikai. Būtent čia,
-    prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs
-
-    L I E T U V O S  I S T O R I J A
-    40
-    grūdais pagrindinį Europos duonos uostą  – Gdanską.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-
-- c-037
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mirė karalius Žemu­
-    tinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o
-    jo palaikai iškart buvo palaidoti koplyčioje, prie katedros,
-    greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
-    dėl pavojingos Glinskio puikybės. Pastarosios pergalės iš­
-    garsintas, jiems nesant, kad kokios būtų užgrobęs Didžio­
-    sios Kunigaikštystės valdžią48.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-038
-  santrauka: '1532 m. lapkričio 27 d. raštas buvo surašytas Krokuvoje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Bet jeigu nepanorėtumei nuo to susi­
-    laikyti ir pakartotinai mus tokie žodžiai pasiektų, tada tik­
-    rai žinok, kad ne tik tą garantinį raštą, kurį esame tau davę,
-    bet ir tąją privilegiją, kurią esi toms pareigoms gavęs Vil­
-    niaus vaitystei, pats sulaužysi ir per tai nebebūsi ten mūsų
-    tarnautojas. Rašyta Krokuvoje, Viešpaties gimimo metais
-    1532, lapkričio mėnesio 27 dieną, šeštajame indikte.
-    Raštininkas Mikola
-    Panašiai 1524 metais, kaip patvirtina ta pati Lietuvos Met­
-    rika, XVI, 80, karalius priekaištavo Vilniaus magistratui:
-    Kad nesutaria su bendruomene.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-039
-  santrauka: 'Baško rašė, kad 1254 m. gegužės 8 d. Krokuvos bažnyčioje, skelbiant Šv. Stanislovo kanonizavimą, dalyvavo Lietuvos vyskupas Vitas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lap. 245, tų pačių Didžiojoje Lenkijoje
-    metinių įvykių aprašyme, Baško byloja, kad 1254 metų ge­
-    gužės 8 dieną, Krokuvos bažnyčioje, skelbiant Šv. Stanislo­
-    vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­
-    lyvavusių buvęs Lietuvos vyskupas Vitas, dominikonas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-042
-
-- c-040
-  santrauka: 'Jogailai siekiant ponų tarybos sutikimo dėl Vytauto karūnacijos, į Krokuvą buvo išsiųsti su Jogaila į Vilnių atvykę Lenkijos ponai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Susitikę abudu pusbroliai tuo-
-    jau susitarė: Vytautas sutiko garantuoti, kad po jo mirties Lie-
-    tuva neatiteks niekam kitam, kaip tik Jogailos sūnui, o Jogaila
-    davė savo sutikimą dėl karūnacijos. Dabar Jogailai dar rei-
-    kėjo gauti savo ponų tarybos sutikimą. Tuo reikalu į Krokuvą
-    buvo išsiųsti su Jogaila į Vilnių atvykę Lenkų ponai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-026
-
-- c-041
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visa tai atšaldė dalį LLV
-    bajorijos nuo sukilimo ir tapo pretekstu A. Suvorovo vadovaujamai Ru-
-    sijos kariuomenei imtis veiksmų. Vasarą rusų ir prūsų kariuomenės per-
-    ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
-    Rusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią
-    gynė ir pasitraukę Lietuvos sukilėliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-
-- c-042
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Visos detalės apie Lietu­
-    vos pranciškonus yra šio didžiulio
-    ordino analų rinkinio septintame to­
-    me. Grzybowski  s, pranciško­
-    nas, anksčiau nurodytoje knygoje
-    (8 p.) sako, kad Goštautas pranciš­
-    konu tapęs Krokuvoje, o paskui ap­
-    sigyvenęs Vilniuje, savo įkurtame
-    vienuolyne, Vilniaus miestiečius
-    vertęs į Kristaus tikėjimą. Tačiau
-    pastarieji 1341 metais, į Vilnių atvy­
-    kus totoriams, pažadėjusiems pagal­
-    bą Algirdui kažkokiame žygyje,
-    šiuos pagonis sukurstė pulti pran­
-    ciškonus ir kartu su jais užpuolę
-    naują vienuolyną, visus 36 vienuo­
-    lius ir su jais sykiu Goštautą nukan­
-    kino.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-048
-    - t-011
-
-- c-043
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Zigmantas buvo augalotas ir tvirtas vyras;
-    sako jį galėdavus perlaužti pasagą ir pertraukti storoką kanapinę
-    virvę. Jo sveikata pairo tik į gyvenimo pabaigą. Jaunystę praleido
-    Zigmanto II antkapis Krokuvos katedroje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-061
-    - t-040
-
-- c-044
-  santrauka: 'Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Gal priepuolį sukėlė
-    per didelis pyktis, išsiliejus
-    tulžiai, bet žmonės jį išsiaiškino kaip blogą ženklą,
-    kaip dievo kerštą. Dėl karaliaus ligos seimas buvo pa­
-    leistas, kadangi vargu ar ką galima buvo benuveikti.
-    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
-    metas, valdovo valia turėjęs būti Trakuose vaišingai
-    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-064
-
-- c-045
-  santrauka: 'Paleidęs seimą, karalius išvyko į Krokuvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo tarpu senasis Jogailos
-    įstatymas, kurio visi Lietuvos didieji kunigaikščiai šven­
-    tai laikėsi ir kurį jie ne vieną kartą buvo iš naujo pa­
-    tvirtinę, draudė suteikti senatoriaus ar kokią kitą aukš­
-    tą pareigybę žmogui, kuris atsisako paklusti popiežiui.
-    Tol luomai nenurimo, kol negavo iš karaliaus valstybės
-    antspaudais patvirtinto rašto, kuriuo šis savo bei sa-
-    650
-
-    ## Puslapis 649
-
-    vo įpėdinių vardu pasižadėjo niekada neleisti, kad į
-    senatą pakliūtų žmonės, neišpažįstantys Romos tikėji­
-    mo. Paleidęs seimą, karalius išvyko į Krokuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-065
-
-- c-046
-  santrauka: 'Didikai sutiko, kad Barbora Krokuvoje būtų vainikuota karaliene kaip ir kitos karalienės.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Štai todėl daugelis išsigandusių didikų, nenorėda­
-    mi daugiau karaliaus erzinti, ne tik paliovė reikalavę,
-    kad Augustas nutrauktų santuoką, bet sutiko, kad Bar­
-    bora kaip ir kitos karalienės būtų Krokuvoje vaini­
-    kuota. Augustas, pasiekęs to, ko norėjo, nebesispyrė
-    dėl įstatymo, kuris dabar jam rodėsi visai nereikalin­
-    gas. Neilgai trukus Barbora iškilmingai ir šventiškai
-    buvo apvainikuota Krokuvoje karalienės vainiku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-066
-
-- c-047
-  santrauka: 'Jogailai įsitvirtinus Krokuvoje, Lietuvos metraščio pasakotojas sako vėl pareiškęs savo krikščionių tikėjimą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir aš prieš savo norą, jų valią vyk­
-    dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­
-    kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo
-    tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­
-    jimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
-    Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
-    savo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių
-    tikėjimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-067
-
-- c-048
-  santrauka: 'Aleksandras 1501 m. lapkričio 29 d. išvyko iš Melniko į Krokuvą, kur gruodžio 12 d. buvo vainikuotas Lenkijos karaliumi.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    °  Aleksandras išvyko iš Melniko (LDK) j Krokuvą 1501.XI.29,
-    vainikuotas Krokuvoje Lenkijos karaliumi 1501.XII. 12.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-068
-
-- c-049
-  santrauka: '(Taip ji atvaizduota vieno seno Krokuvos pastato skliaute).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Aldona Gediminaitė.
-    (Taip ji atvaizduota vieno seno Krokuvos
-    pastato skliaute).
-    Kovos su ordinu, paliauboms pasibaigus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-069
-
-- c-050
-  santrauka: 'Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu Vytauto karūnacijos klau-
-    simas Lucke liko neišspręstas; jis turėjo būti išspręstas vėliau.
-    Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į
-    Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-
-    nacijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-070
-
-- c-051
-  santrauka: 'Tad po dvejų metų lenkai pagaliau nusileido, ir 1550 m. Barbora buvo iškilmingai Krokuvoje karūnuota Lenkijos karaliene.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Greit pasirodė, jog senatas ir seimas perdėjo, laikydami jungtuves
-    karališkosios šeimos pažeminimu: užsienio valdovai dėl to neparodė
-    jokio nepasitenkinimo. Tad po dvejų metų lenkai pagaliau nusi-
-    leido, ir 1550 m. Barbora buvo iškilmingai Krokuvoje karūnuota
-    Lenkijos karaliene.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-071
-
-- c-052
-  santrauka: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jono bažnyčios buvo aukštes-
-    nioji teisės mokykla. Šiaip, kas norėdavo gauti aukštesniojo ir
-
-
-    aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-
-    ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
-    visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
-    Italiją ir Prancūziją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-072
-
 ## Citatos
 
 - id: c-24211
@@ -2151,8 +981,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177303
     - t-177298
+    - t-177303
 
 - id: c-32156
   autorius: "Zenonas Ivinskis"
@@ -2187,8 +1017,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177294
     - t-177273
+    - t-177294
 
 - id: c-32158
   autorius: "Zenonas Ivinskis"
@@ -2234,8 +1064,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177317
     - t-177313
+    - t-177317
 
 - id: c-37478
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2281,8 +1111,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177324
     - t-177318
+    - t-177324
 
 - id: c-46550
   redaktorius: "A. Šapoka"
@@ -2314,8 +1144,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177331
     - t-177258
+    - t-177331
 
 - id: c-46551
   redaktorius: "A. Šapoka"
@@ -2335,8 +1165,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177295
     - t-177274
+    - t-177295
 
 - id: c-161149
   autorius: "Michał Baliński"
@@ -2453,8 +1283,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177311
     - t-177262
+    - t-177311
 
 - id: c-161154
   autorius: "Michał Baliński"
@@ -2570,8 +1400,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177319
     - t-177312
+    - t-177319
 
 - id: c-161159
   autorius: "Michał Baliński"
@@ -2592,8 +1422,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177330
     - t-177302
+    - t-177330
 
 - id: c-161160
   autorius: "Michał Baliński"
@@ -2614,7 +1444,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177280
-    - t-177285
 
 - id: c-161164
   autorius: "Michał Baliński"
@@ -2632,8 +1461,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177299
     - t-177259
+    - t-177299
 
 - id: c-161165
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2732,8 +1561,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177323
     - t-177261
+    - t-177323
 
 - id: c-161172
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2752,8 +1581,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177322
     - t-177320
+    - t-177322
     - t-193641
 
 - id: c-161173
@@ -2783,8 +1612,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177289
     - t-177287
+    - t-177289
 
 - id: c-161174
   sudarytojas: "Karolis Zikaras"
@@ -2838,8 +1667,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177336
     - t-177329
+    - t-177336
 
 - id: c-161178
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3086,8 +1915,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177316
     - t-177270
+    - t-177316
 
 - id: c-161209
   redaktorius: "A. Šapoka"
@@ -3104,112 +1933,51 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177333
     - t-177307
+    - t-177333
 
 - id: c-168352
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 582"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 582."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Gal priepuolį sukėlė
-    per didelis pyktis, išsiliejus
-    tulžiai, bet žmonės jį išsiaiškino kaip blogą ženklą,
-    kaip dievo kerštą. Dėl karaliaus ligos seimas buvo pa­
-    leistas, kadangi vargu ar ką galima buvo benuveikti.
-    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
-    metas, valdovo valia turėjęs būti Trakuose vaišingai
-    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
+    Len­
+    kijoje kiekvienas žmogus pats rūpinasi savo šeimos
+    turtu: niekas neverčiamas traukti į karo žygį iš tėvy­
+    nės, vieni valstybėje verčiasi žemdirbyste, amatais bei
+    prekyba, kiti garbina dievą, sprendžia teismuose by­
+    las, rūpinasi pilių apsauga ir tarnauja didikams, žodžiu,
+    kiekvienas gyvena taip, kaip
+    L ie tu v o s d id ik a i m ė-
+    nori".
+    g in a
+    s u s ita ik y ti
+    su
+    Šich Achmetui visa ko
+    k a ra liu m i
+    prižadėjus, Lietuvos didikai,
+    kuriuos Breste karalius buvo
+    pašalinęs iš senato, Radomo seime, nė nepradėjus svar­
+    styti kitų reikalų, stengėsi lenkų remiami pašalinti vi­
+    sus esamus nesutarimus tarp karaliaus ir senato. Ka­
+    ralius viešai lenkams pasižadėjo, kad iš pagarbos jiems
+    padarys taip, kaip jie reikalauja, tačiau sakėsi neno­
+    rįs Lenkijoje nieko spręsti, o visą reikalą ketinąs per­
+    duoti lietuvių seimui. Tada lietuvių senato pirminin­
+    kas, Vilniaus vyskupas Vaitiekus Taboras, pakilęs iš
+    vietos, ir kreipėsi į karalių paprasta, bet nelyginant
+    kažkokio dangaus įkvėpimo kupina kalba: „Kažko­
+    kiems pasipūtėliams klastingai sukursčius prieš mus,
+    nieko pikta nepadariusius, tavo širdį, ligi šiol kentėme
+    tavo rūstį taip, kaip ir dera valdiniams, klausantiems
+    savo valdovo.
+  citata_rodoma: "Gal priepuolį sukėlė\nper didelis pyktis, išsiliejus\ntulžiai, bet žmonės jį išsiaiškino kaip blogą ženklą,\nkaip dievo kerštą. Dėl karaliaus ligos seimas buvo pa­\nleistas, kadangi vargu ar ką galima buvo benuveikti.\nSusirgęs karalius nuvežamas į Krokuvą, o Šich Ach-\nmetas, valdovo valia turėjęs būti Trakuose vaišingai\npriimtas, sugrįžo į Lietuvą garbingos palydos apsuptas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184991
-
-- id: c-168353
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Tuo tarpu senasis Jogailos
-    įstatymas, kurio visi Lietuvos didieji kunigaikščiai šven­
-    tai laikėsi ir kurį jie ne vieną kartą buvo iš naujo pa­
-    tvirtinę, draudė suteikti senatoriaus ar kokią kitą aukš­
-    tą pareigybę žmogui, kuris atsisako paklusti popiežiui.
-    Tol luomai nenurimo, kol negavo iš karaliaus valstybės
-    antspaudais patvirtinto rašto, kuriuo šis savo bei sa-
-    650
-
-    ## Puslapis 649
-
-    vo įpėdinių vardu pasižadėjo niekada neleisti, kad į
-    senatą pakliūtų žmonės, neišpažįstantys Romos tikėji­
-    mo. Paleidęs seimą, karalius išvyko į Krokuvą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184992
-
-- id: c-168354
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 682"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 682."
-  citata_originali: |
-    Štai todėl daugelis išsigandusių didikų, nenorėda­
-    mi daugiau karaliaus erzinti, ne tik paliovė reikalavę,
-    kad Augustas nutrauktų santuoką, bet sutiko, kad Bar­
-    bora kaip ir kitos karalienės būtų Krokuvoje vaini­
-    kuota. Augustas, pasiekęs to, ko norėjo, nebesispyrė
-    dėl įstatymo, kuris dabar jam rodėsi visai nereikalin­
-    gas. Neilgai trukus Barbora iškilmingai ir šventiškai
-    buvo apvainikuota Krokuvoje karalienės vainiku.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184993
-
-- id: c-170535
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 175"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 175."
-  citata_originali: |
-    Ir aš prieš savo norą, jų valią vyk­
-    dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­
-    kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo
-    tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­
-    jimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
-    Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
-    savo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių
-    tikėjimo.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187588
-
-- id: c-170536
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 321"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 321."
-  citata_originali: |
-    °  Aleksandras išvyko iš Melniko (LDK) j Krokuvą 1501.XI.29,
-    vainikuotas Krokuvoje Lenkijos karaliumi 1501.XII. 12.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187589
 
 - id: c-175938
   redaktorius: "A. Šapoka"
@@ -3281,6 +2049,40 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-193197
 
+- id: c-178849
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Nors Kazimieras
+    buvo ir nepastovaus būdo, staigus ir vargais negalais su­
+    tramdomas žmogus, tačiau jo dvasia, iš prigimties linku­
+    si į ydas, kurias sukelia pomėgis dykai stumti laiką, lei­
+    do ne be pagrindo tikėtis, jog aukščiausios valdžios ga­
+    lią jis veikiau panaudos kaip pagrindą prabangiam gy­
+    venimui nei tykos progos perversmui. Deja, taip beveik
+    visada esti su žmonių sumanymais: tai, kas, nežinant at­
+    eities, atrodo geriausia, dažnai tampa nelaimių šaltiniu;
+    ilgainiui tos gražios viltys atnešė Lietuvai daug žalos.
+    Mat, nors Kazimieras kartu su broliu karaliumi ir buvo
+    Krokuvoje priėmęs Romos ti-
+    N e žiū ri v a ls ty b ė s b ei
+    kėjimą, tačiau, auginamas pa-
+    tik ė jim o reikalų
+    gal rusų papročius, labiau bu-
+    eigų, todėl ir nesirūpino tarp savo valdinių platinti kata­
+    likų tikėjimą, šį reikalą arba visai užmesdamas, arba į
+    vo prisirišęs prie graikų ap
+    3 0 2
+
+    paskutinę vietą nustumdamas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196697
+
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Puolė Krokuvą: [[objektai/grupes/Lietuviai]]

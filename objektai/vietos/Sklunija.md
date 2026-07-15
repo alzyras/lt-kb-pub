@@ -51,38 +51,12 @@ Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas nar
 - susijęs iš [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.).md#claim-t-66800|Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]: Karaliaučiaus komtūras su kariuomene grįžo iš Vonsdorfo valsčiaus sutramdyti Notangos maišto.
 - susijęs iš [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.).md#claim-t-66801|Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]: 1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna.
 - susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89602|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sklunija buvo kaimas, anksčiau vadintas Kalija, į kurį subėgusius priešus maldininkai įveikė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Todėl maldininkai pasiruošė
-    kovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami,
-    jie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius,
-    subėgusius  į kaimą, kitados vadinamą Kalija, o dabar — Sklunija371, irgi įveikė, tiesa,
-      369 1262—1263 m. (Voigt. J., Namen.., p. 3; AB, 2, sąs. 4, p. 539).
-      370 Vokietijos feodalai: Julicho (Pareinyje) grafas Vilhelmas IV  ir Brandenburgo
-    markos grafas Engelbertas I.
-      371 D.— quondam Calige modo Sclunien dicitur. Kalijos kaimas buvo žinomas  į
-    pietvakarius nuo Karaliaučiaus (Sch-K; Ewald A. L., Die Eroberung..., 4, p. 31—32; GAO,
-
-    gana sunkiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59357
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 118-119"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118-119."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Todėl maldininkai pasiruošė
     kovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami,

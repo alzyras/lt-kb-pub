@@ -9,14 +9,14 @@ datos:
   - '1415 m.'
 date_start: '1139'
 date_end: '1415'
+amziai:
+  - 'XII'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - žemėlapis
-amziai:
-  - 'XII'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -93,8 +93,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginys: "S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima aiškinant, kad Junigedos valsčiaus centras buvo Veliuona."
   pagrindžia:
     - c-61495
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Zajączkowskio veikalas nurodomas tarp šaltinių, patikimiau lokalizuojančių minimą vietą buvusioje Pagraudės teritorijoje prie Graumenos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -111,23 +111,6 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   pagrindžia:
     - t-007
 
-- c-002
-  santrauka: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima aiškinant, kad Junigedos valsčiaus centras buvo Veliuona.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius  ir  pilis  (žr.
-    paaiškinimus D. III, 244, 1); vėliau, kitose kronikose, jau Veliuona (Zajączkowski S.,
-    Studya..., p. 38— 39). Dusburgietis, matyt, valsčiaus vardu vadinęs ir jo centrą, t. y.
-    Veliuoną (SZM, p. 215—216, 239—241), įsikūrusį deš. Nemuno krante prie Veliuonos
-    upelio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
 - c-003
   santrauka: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Pieštvės pilį lokalizuojančių Seredžiaus vakariniame pakraštyje prie Pieštvės upelio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -142,21 +125,6 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-
-- c-004
-  santrauka: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima lyginant Ordino pilies vietą prie Maštaičių piliakalnio.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ordino pilis buvusi greičiausiai Maštaičių (Norkūnų) piliakalnyje kair. Nemuno krante
-    žemiau dab. Gelgaudiškio, priešais Skirsnemunę. Greta piliakalnio išlikę keli įtvirtinti
-    papiliai (LAA. 2. p. 105; plg. Zajączkowski S.. Studya..., p. 37).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 - c-005
   santrauka: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Bebirvaitės pilį lokalizuojančių prie Bebirvyčio upelio netoli Bebirvų kaimo.'
@@ -173,24 +141,6 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-006
-  santrauka: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolio Ernekės, Ragainės pilies komtūro, žūtį
-      529 D.— Colayne, Jer.— Kalaine. Tiksliau kol kas nelokalizuota Kolainių pilis dažniausiai
-    siejama su Kalnėnais  į vak. nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37;
-    Łowmiański H., Studja..., 2, p. 97; Lietuvių karas..., p. 190), tačiau ten, Nemuno deš.
-    krante žemiau Mituvos esančioje piliavietėje, buvo XIII a. (žr. paaiškinimus D. III, 83,
-    2) ir XIV a. (SRP, 2, p. 709) kryžiuočių pilis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 - c-007
   santrauka: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.'
@@ -229,13 +179,17 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - id: c-61494
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 198"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 198."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Patikimesni atrodo bandymai ją
-    lokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante
-    (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino
-    pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).
+    Daug netikėlių šiose kautynėse buvo mirtinai sužeista, daug jų
+    krito nukautų. Sužeidė ir dvylika mūsų brolių bei trisdešimt karių, o broliui Hartmanui iš
+    Elsterbergo strėlė pervėrė kaklą, dėl to jis netrukus ir atidavė dievui sielą.
+    294 (287). Apie vieną stebuklą
+    Tuo metu vienas Ariogalos lietuvis, suimtas savo karaliaus ir įkalbėtas vieno ruso,
+    kalėjusio drauge su juo, pažadėjo dievui už išvadavimą gerą svarą vaško; bematant
+    sutrupėjo grandinės, kuriomis buvo surakintas, prasidarė kalėjimo durys, ir jis atgavo
+    laisvę.
+  citata_rodoma: "Patikimesni atrodo bandymai ją\nlokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante\n(Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino\npilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -246,8 +200,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - id: c-61495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 180"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius  ir  pilis  (žr.
     paaiškinimus D. III, 244, 1); vėliau, kitose kronikose, jau Veliuona (Zajączkowski S.,
@@ -264,12 +217,14 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - id: c-61496
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 185"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto
-    kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio
-    (Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664).
+    Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu. Kitą
+    kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o
+    keletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus
+    šešis. Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
+    tiek raitelių, kiek galėjo anksčiau.
+  citata_rodoma: "541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto\nkyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio\n(Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -280,8 +235,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - id: c-61497
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 207"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 207."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Ordino pilis buvusi greičiausiai Maštaičių (Norkūnų) piliakalnyje kair. Nemuno krante
     žemiau dab. Gelgaudiškio, priešais Skirsnemunę. Greta piliakalnio išlikę keli įtvirtinti
@@ -296,13 +250,22 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - id: c-61498
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 202."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos
-    intakas — Bebirva, į jį įteka Bebirvytis. Prie to upelio, prie Raseinių—Šilinės (Skirsnemunės)
-    kelio yra Bebirvų k. Čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p.
-    35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185).
+    Apie Pagraudės valsčiaus nusiaubimą 1311 metais
+    Neilgai trukus po to, kai pasitraukė karalius ir jo kariuomenė, brolis Fridrichas iš
+    Vildenbergo, Karaliaučiaus komtūras, patraukė su didele kariuomene tuo pačiu keliu,
+    kuriuo neseniai žygiavo minėtasis karalius, ir tuo metu, kai minėtosios kariuomenės
+    vyrai buvo sugrįžę namo ir ilsėjosi po sunkaus žygio, dėkodami savo dievams už jiems
+    suteiktą šiame kare pagalbą, įsiveržė į Pagraudės valsčių ir jį siaubingai nuniokojo,
+    žudydamas žmones ir viską grobdamas. Jis taip nusiaubė tą valsčių, kad ilgus metus jis
+    negalėjo atsigauti.
+    308 (301). Apie Gardino pilies apylinkių nusiaubimą 1311 metais
+    Tuo metu brolis Otonas iš Bergo ir 5 broliai su 400 Notangos raitelių nužygiavo link
+    Gardino pilies; kai jie priėjo pelkes, kuriomis teka upė, vardu Bebras, kariuomenės
+    vedliai dvi dienas klaidžiojo, nerasdami tikro kelio, o šitaip patvarkė dieviškoji apvaizda,
+    nes minėtosios karaliaus kariuomenės žmonės dar nebuvo sugrįžę namo.
+  citata_rodoma: "561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos\nintakas — Bebirva, į jį įteka Bebirvytis. Prie to upelio, prie Raseinių—Šilinės (Skirsnemunės)\nkelio yra Bebirvų k. Čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p.\n35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -313,8 +276,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - id: c-61499
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 178"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolio Ernekės, Ragainės pilies komtūro, žūtį
       529 D.— Colayne, Jer.— Kalaine. Tiksliau kol kas nelokalizuota Kolainių pilis dažniausiai
@@ -332,14 +294,18 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - id: c-61500
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 181"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 181."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau
-    Nevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.
-    Valsčiaus centras — Paštuvos (Vilkijos) pilis (D. III, 347; Zajączkowski S., Studya..., p.
-    40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72;
-    Makarevičius A., Vilkijos..., p. 62).
+    Čia vienas prūsas atėjo pas brolį Henriką Cutsvertą ir
+    pasakė: „Ir tu būsi išduotas, ir tavo broliai bus išduoti, jeigu įeisite į lietuvių žemę;
+    jie, ten susibūrę, jūsų tik ir laukia, ir nė vienas iš jūsų negalės išvengti mirties; jeigu
+    tučtuojau grįšite atgal, jus grįžtančius išžudys saviškiai“. Brolis Henrikas atsakė: „Jeigu
+    taip yra, kaip sakai, patark mums, ką turime daryti, kad išvengtume pavojų“. Šis į tai
+    tarė: „Grįžkite namo, tačiau būkite pasirengę kovai, gal jie išsigąs, matydami, jog esate
+    deramai pasiruošę gintis, ir išsižadės sumanytos piktadarystės“. Brolis Henrikas visa
+    tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė į Lietuvos žemę žvalgus,
+    kurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė.
+  citata_rodoma: "536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau\nNevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.\nValsčiaus centras — Paštuvos (Vilkijos) pilis (D. III, 347; Zajączkowski S., Studya..., p.\n40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72;\nMakarevičius A., Vilkijos..., p. 62)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -350,12 +316,20 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - id: c-61501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 202."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    560 D.— in campo Calsheim, ad campum Calsen, Jer. — zu Kalsem ûf daz velt,
-    Kalsim; plg. 1415 m.— villa dicta Calsina (SRP, 2, p. 540). Laukas, buvęs  į vakarus
-    nuo Veliuonos (Zajączkowski S., Studya..., p. 37—38; SZM, p. 216).
+    1311 viešpaties metais, per užgavėnes (vasario 22), Vytenis, Lietuvos karalius, su
+    didele kariuomene, degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug
+    žmonių, o beveik penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu, tiesa, ir pats
+    patyrė nuostolių, nes žuvo nemaža jo žmonių, nutolusių nuo savo kariuomenės.
+    307 (300). Apie Pagraudės valsčiaus nusiaubimą 1311 metais
+    Neilgai trukus po to, kai pasitraukė karalius ir jo kariuomenė, brolis Fridrichas iš
+    Vildenbergo, Karaliaučiaus komtūras, patraukė su didele kariuomene tuo pačiu keliu,
+    kuriuo neseniai žygiavo minėtasis karalius, ir tuo metu, kai minėtosios kariuomenės
+    vyrai buvo sugrįžę namo ir ilsėjosi po sunkaus žygio, dėkodami savo dievams už jiems
+    suteiktą šiame kare pagalbą, įsiveržė į Pagraudės valsčių ir jį siaubingai nuniokojo,
+    žudydamas žmones ir viską grobdamas.
+  citata_rodoma: "560 D.— in campo Calsheim, ad campum Calsen, Jer. — zu Kalsem ûf daz velt,\nKalsim; plg. 1415 m.— villa dicta Calsina (SRP, 2, p. 540). Laukas, buvęs  į vakarus\nnuo Veliuonos (Zajączkowski S., Studya..., p. 37—38; SZM, p. 216)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

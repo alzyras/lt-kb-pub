@@ -8,13 +8,13 @@ datos:
   - '1618 m.'
 date_start: '1618'
 date_end: ''
+amziai:
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,9 +58,9 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173141|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173142|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10678|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino laikais Vilnius tapo nuolatine Lietuvos sostine.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188531|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.
 - susijęs iš Mozūrijos žemė: 1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylinkėmis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -130,8 +130,6 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
     čio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos
     7 0 3
 
-    ## Puslapis 702
-
     iždo padarytas išlaidas, Livo-
     S u la rties są ly g o s
     nijos riterių ordinas atiduo­
@@ -144,6 +142,7 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
     užbaigus karą ir sutarus taiką, Livonija turėsianti teisę
     tas žemes išpirkti užmokėjusi Lietuvos pinigais šešis
     šimtus tūkstančių florinų.
+  citata_rodoma: "Seimo darbe dalyvavo ir ordino magistras Ket-\nleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus\nkunigaikščio Mikalojaus Radvilos paraginti, nusprendė,\nkad Livonija sudaranti su Lietuva sąjungą ir pereinanti\nį Žygimanto Augusto, Lietuvos didžiojo kunigaikš­\nčio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos\n7 0 3\n\n## Puslapis 702\n\niždo padarytas išlaidas, Livo-\nS u la rties są ly g o s\nnijos riterių ordinas atiduo­\ndąs\nLietuvai visas\nžemes\nabiejuose Dauguvos krantuose tarp Drujos ir Aizkrau-\nklės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug­\npilio, Sėlpilio pilis su apylinkėmis. Sutelktomis jėgomis\nužbaigus karą ir sutarus taiką, Livonija turėsianti teisę\ntas žemes išpirkti užmokėjusi Lietuvos pinigais šešis\nšimtus tūkstančių florinų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -154,17 +153,20 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
 - id: c-171713
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 369"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
-    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
-    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
-    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
-    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
-    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
-    Jie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-
-    te“, tai yra, anot autoriaus vertimo, „loca adiectorum “.
+    Tokių kapų pasitaiko aukštose vietose
+    arba prie pilių ir kadaise žymių kaimų, dažniausiai prie kelių,
+    taip pat didesnių upių pakrantėse, kur būdavo šventyklos. Hart-
+    knochas (p. 184-185) tą patį sako apie gausius piliakalnius,
+    matomus Prūsijoje, ir apie pilkapius, supiltus virš žymių žmo­
+    nių kapų. Lietuvos didžiojo kunigaikščio Gedimino kapas yra
+    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
+    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
+    avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
+    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
+    pelenai ilsisi supiltame kalne).
+  citata_rodoma: "Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.\nJie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-\nte“, tai yra, anot autoriaus vertimo, „loca adiectorum “."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

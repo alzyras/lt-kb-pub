@@ -35,26 +35,6 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   teiginys: "Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką Piną su Bugo intaku Muchavcu."
   pagrindžia:
     - c-176003
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką Piną su Bugo intaku Muchavcu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jį iškasė savo lėšomis hetmonas
-    Oginskis (todėl jis ir šiandien dar tebevadinamas Oginskio
-    kanalu).
-    Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia
-    Pripetės intaką Piną su Bugo intaku Muchavcu. Tuo būdu iš
-    Juodosios jūros į Baltiją atsirado dar vienas kelias, būtent
-    Dniepras—Vysla.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

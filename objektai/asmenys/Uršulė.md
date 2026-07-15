@@ -33,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato už 4750 auksinų nupirkę tą Parulio mūrą, atidavė Collegio Academico [Akademijos kolegijai], pa­ vedę įpareigojimu kasmet mokėti Šv.
+1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai. Lietuvos metraščio pasakojime Britanijos karalaitę Uršulę, lydimą už Anglijos karaliaus sūnaus, nužudė Atila.
 
 ## Teiginiai
 
@@ -47,7 +47,7 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 <a id="claim-t-193998"></a>
 - t-002
   global_id: t-193998
-  teiginys: "O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang lijos karaliaus sūnaus."
+  teiginys: "Lietuvos metraščio pasakojime Britanijos karalaitę Uršulę, lydimą už Anglijos karaliaus sūnaus, nužudė Atila."
   pagrindžia:
     - c-176623
 - susijęs iš [[objektai/asmenys/Mauricijus.md#claim-t-87775|Mauricijus]]: Mauricijaus ir Uršulės mūras kadaise buvo įpareigotas kasmet mokėti 140 auksinų pamaldoms.
@@ -60,42 +60,6 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 - susijęs iš Parulio mūras: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą iš magistrato ir perdavė jį Akademijos kolegijai.
 - susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86529|kahalas]]: Akademijos rektorius Juraha nuėmė viderkafto mokestį nuo Švarco namu vadinto mūro ir priskyrė jį kahale investuotoms sumoms.
 - susijęs iš [[objektai/asmenys/Ona (Petro žmona, XIX a.).md#claim-t-195553|Ona (Petro žmona, XIX a.)]]: Ganiavos epizode Ona įvardijama kaip viena iš mergaičių, artimų Petrui.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1632. Uršulė ir Mauricijus, ignoti cognominis [nežinoma
-    pavardė], iš magistrato už 4750 auksinų nupirkę tą Parulio
-    mūrą, atidavė Collegio Academico [Akademijos kolegijai], pa­
-    vedę įpareigojimu kasmet mokėti Šv. Jono bažnyčiai po 140
-    auksinų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang lijos karaliaus sūnaus.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
-    lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­
-    lijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan-
-    čiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas
-    vienuolika tūkstančių mergelių, buvusių su ja.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-83909
@@ -121,10 +85,11 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
-    lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­
+    lydima karalaitė, vardu Uršulė10, Įišleidžiama] už Ang­
     lijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan-
     čiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas
     vienuolika tūkstančių mergelių, buvusių su ja.
+  citata_rodoma: "O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo \nlydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­\nlijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan- \nčiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas \nvienuolika tūkstančių mergelių, buvusių su ja."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

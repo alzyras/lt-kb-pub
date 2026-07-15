@@ -35,32 +35,16 @@ media_all_json: |-
 
 ## Santrauka
 
-1 1 Kaributas — Algirdo ir Julijonos Tveriškės sūnus, apie 1380 m. pakrikštytas Dimttru.
+Kaributas buvo Algirdo ir Julijonos Tveriškės sūnus, apie 1380 m. pakrikštytas Dimitru.
 
 ## Teiginiai
 
 <a id="claim-t-194112"></a>
 - t-001
   global_id: t-194112
-  teiginys: "1 1 Kaributas — Algirdo ir Julijonos Tveriškės sūnus, apie 1380 m. pakrikštytas Dimttru."
+  teiginys: 'Kaributas buvo Algirdo ir Julijonos Tveriškės sūnus, apie 1380 m. pakrikštytas Dimitru.'
   pagrindžia:
     - c-176725
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1 1 Kaributas — Algirdo ir Julijonos Tveriškės sūnus, apie 1380 m. pakrikštytas Dimttru.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 1 Kaributas — Algirdo ir Julijonos Tveriškės sūnus, apie
-    1380 m. pakrikštytas Dimttru. M irė po 1404 m. Iki 1393 m. buvo
-    Naugarduko ir Seversko kunigaikščiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -72,9 +56,9 @@ media_all_json: |-
     1 1 Kaributas — Algirdo ir Julijonos Tveriškės sūnus, apie
     1380 m. pakrikštytas Dimttru. M irė po 1404 m. Iki 1393 m. buvo
     Naugarduko ir Seversko kunigaikščiu.
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194112
+    - t-001

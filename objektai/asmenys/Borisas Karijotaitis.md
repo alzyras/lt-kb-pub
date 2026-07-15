@@ -42,42 +42,6 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   teiginys: "Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui."
   pagrindžia:
     - c-167741
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai,
-    Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas
-    ir Konstantinas. Būdami jau lotyniškai krikštyti, iš Podolės jie
-    palaikė ryšius su Krokuva ir ją lankė. Labiausiai Konstantinas,
-    kuriam rūpėjo Padolę apsaugoti nuo totorių, buvo Lietuvos ir
-    Lenkijos sąjungos šalininkas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lenkija jam atrodė taip pat naudingas sąjun­
-    gininkas prieš kryžiuočius.
-    Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai,
-    Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas
-    ir Konstantinas. Būdami jau lotyniškai krikštyti, iš Podolės jie
-    palaikė ryšius su Krokuva ir ją lankė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

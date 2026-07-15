@@ -43,56 +43,24 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
     - c-59805
 - susijęs iš [[objektai/posakiai/apreikšti dievo darbus yra šlovinga.md#claim-t-59074|apreikšti dievo darbus yra šlovinga]]: Petras Dusburgietis dedikacijoje rėmėsi Tobijo žodžiais, kad apreikšti Dievo darbus yra šlovinga.
 - susijęs iš Tobijo knyga: Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Petras Dusburgietis teigė surašęs Ordino brolių karus, kad būsimoms kartoms liktų šio šventojo žygio atminimas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
-    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
-    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau  į
-    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
-    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
-    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
-    atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
-
-
-
-
-                                      Pratarmė
-
-      „Aukščiausias dievas padarė manyje ženklų ir stebuklų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59805
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 33"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
     tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
-    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau  į
+    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
     šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
     negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
     kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
     atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
+    Pratarmė
 
 
-
-
-                                      Pratarmė
-
-      „Aukščiausias dievas padarė manyje ženklų ir stebuklų.
+    „Aukščiausias dievas padarė manyje ženklų ir stebuklų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Iš bažnytinio suvažiavimo grįžę pasiuntiniai parvežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę. Vytauto pakviesti Konstancos suvažiavimo pasiuntiniai spalį Žemaitijoje naujuoju ganytoju paskyrė lietuvį Motiejų.
+Iš bažnytinio suvažiavimo grįžę pasiuntiniai parvežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę. Vytauto pakviesti Konstancos suvažiavimo pasiuntiniai spalį Žemaitijoje naujuoju ganytoju paskyrė lietuvį Motiejų. Kojelavičiaus pasakojime Vytautas, numalšinęs Rusioje siautėjusius skitus, pasikvietė Konstancos suvažiavimo pasiuntinius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -60,94 +60,24 @@ Nenurodyta
   teiginys: "Vytauto pakviesti Konstancos suvažiavimo pasiuntiniai spalį Žemaitijoje naujuoju ganytoju paskyrė lietuvį Motiejų."
   pagrindžia:
     - c-169080
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Iš bažnytinio suvažiavimo grįžę pasiuntiniai parvežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vy­
-    tautas priėmė Jogailą, kaip
-    V y ta u to  dosniai ap-
-    dera priimti karalių, o po ke-
-    d o v a n o ja m a s
-    lių dienų pastarojo viešnagės
-    padovanojo skubančiam Kro­
-    kuvon į karalienės laidotuves valdovui, be gausybės
-    kitų dovanų, dvidešimt tūkstančių čekiškųjų markių,
-    šimtą grynakraujų žirgų, keturias dešimtis iš sabalo
-    kailio siūtų drabužių ir šimtą persiškųjų apsiaustų, iš­
-    siuvinėtų aukso siūlais.
-    S k ita i n io k o ja  R usią
-    Tuo metu sugrįžo iš baž­
-    nytinio suvažiavimo pasiun­
-    tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be
-    to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil­
-    niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys­
-    kupystę. Vis dėlto šį reikalą teko atidėti, nes dėl kry­
-    žiuočių, kaip rašo kai kurie metraštininkai, atsirado vi­
-    sai netikėtų ir didelių kliūčių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196181"></a>
+- t-003
+  global_id: t-196181
+  teiginys: "Kojelavičiaus pasakojime Vytautas, numalšinęs Rusioje siautėjusius skitus, pasikvietė Konstancos suvažiavimo pasiuntinius."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vytauto pakviesti Konstancos suvažiavimo pasiuntiniai spalį Žemaitijoje naujuoju ganytoju paskyrė lietuvį Motiejų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Be
-    galo ryžtingas žmogus, jis
-    nieko nedarė iš lėto, nepa­
-    kęsdamas ir kitų delsimo;
-    tiesą
-    sakant,
-    negi
-    galima
-    nesmerkti atidėliojimo, jei­
-    gu rūpinamasi dievo gar­
-    binimo bei žmonių išganymo reikalais. Vytauto pa­
-    kviesti pasiuntiniai negaišdami atvyko į Žemaitiją. Pas­
-    kyrę naujuoju ganytoju Motiejų, lietuvį, teologijos
-    mokslų magistrą, neseniai tapusį Vilniaus kanauninkų
-    kolegijos vyresniuoju, spalio mėnesį deramai sutvarkė
-    pagal šventųjų įstatymų reikalavimus viską, ką ir turėjo
-    i417 metai
-    K o n sta n co s
-    s u v a žia ­
-    v im o  pasiuntiniai g a ­
-    lutinai
-    įsteigia
-    Ž e ­
-    m aičių v y s k u p y s tę
-    305
-
-    ## Puslapis 394
-
-    sutvarkyti kunigaikštystėje pagal bažnytinio suvažia­
-    vimo nutarimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-169080
 
 ## Citatos
 
 - id: c-169079
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 392"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 392."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vy­
     tautas priėmė Jogailą, kaip
-    V y ta u to  dosniai ap-
+    V y ta u to dosniai ap-
     dera priimti karalių, o po ke-
     d o v a n o ja m a s
     lių dienų pastarojo viešnagės
@@ -157,7 +87,7 @@ Nenurodyta
     šimtą grynakraujų žirgų, keturias dešimtis iš sabalo
     kailio siūtų drabužių ir šimtą persiškųjų apsiaustų, iš­
     siuvinėtų aukso siūlais.
-    S k ita i n io k o ja  R usią
+    S k ita i n io k o ja R usią
     Tuo metu sugrįžo iš baž­
     nytinio suvažiavimo pasiun­
     tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be
@@ -178,39 +108,27 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Be
-    galo ryžtingas žmogus, jis
-    nieko nedarė iš lėto, nepa­
-    kęsdamas ir kitų delsimo;
-    tiesą
-    sakant,
-    negi
-    galima
-    nesmerkti atidėliojimo, jei­
-    gu rūpinamasi dievo gar­
-    binimo bei žmonių išganymo reikalais. Vytauto pa­
-    kviesti pasiuntiniai negaišdami atvyko į Žemaitiją. Pas­
-    kyrę naujuoju ganytoju Motiejų, lietuvį, teologijos
-    mokslų magistrą, neseniai tapusį Vilniaus kanauninkų
-    kolegijos vyresniuoju, spalio mėnesį deramai sutvarkė
-    pagal šventųjų įstatymų reikalavimus viską, ką ir turėjo
-    i417 metai
-    K o n sta n co s
-    s u v a žia ­
-    v im o  pasiuntiniai g a ­
-    lutinai
-    įsteigia
-    Ž e ­
-    m aičių v y s k u p y s tę
-    305
-
-    ## Puslapis 394
-
-    sutvarkyti kunigaikštystėje pagal bažnytinio suvažia­
-    vimo nutarimą.
+    Karalius, padrąsintas Vytauto tylėjimo, nu­
+    mojo ranka į visokius nemalonumus, kurių ši santuoka
+    galėjo pridaryti valdovo rūmams. Kai Edigejus siaubė
+    Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su
+    Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir
+    Leopoldas, Austrijos erchercogas. Aptemdė vestuvių
+    džiaugsmą visuotinis žmonių nepritarimas, o Rusioje —
+    baisus pralaimėjimas, kurį, pasak žmonių, siuntęs dan­
+    gus, nes niekas neabejojo, kad ir dangus smerkė tai,
+    ką atmetė lyg susitarę žmonės. Mat visuotinę žmonių
+    nuomonę paprastai remia slaptas aukščiausiojo spren­
+    dimas.
+    Numalšinęs siautėjančius Rusioje skitus, Vytautas
+    pasikvietė pasiuntinius, dalyvavusius bažnytiniame su­
+    važiavime, norėdamas neatidėliojant padaryti, ką su­
+    važiavimas buvo nutaręs.
+  citata_rodoma: "Be\ngalo ryžtingas žmogus, jis\nnieko nedarė iš lėto, nepa­\nkęsdamas ir kitų delsimo;\ntiesą\nsakant,\nnegi\ngalima\nnesmerkti atidėliojimo, jei­\ngu rūpinamasi dievo gar­\nbinimo bei žmonių išganymo reikalais. Vytauto pa­\nkviesti pasiuntiniai negaišdami atvyko į Žemaitiją. Pas­\nkyrę naujuoju ganytoju Motiejų, lietuvį, teologijos\nmokslų magistrą, neseniai tapusį Vilniaus kanauninkų\nkolegijos vyresniuoju, spalio mėnesį deramai sutvarkė\npagal šventųjų įstatymų reikalavimus viską, ką ir turėjo\ni417 metai\nK o n sta n co s\ns u v a žia ­\nv im o  pasiuntiniai g a ­\nlutinai\nįsteigia\nŽ e ­\nm aičių v y s k u p y s tę\n305\n\n## Puslapis 394\n\nsutvarkyti kunigaikštystėje pagal bažnytinio suvažia­\nvimo nutarimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185719
+    - t-196181

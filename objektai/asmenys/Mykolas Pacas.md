@@ -4,12 +4,21 @@ pavadinimas: 'Mykolas Pacas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
+datos:
+  - '1655 m.'
+date_start: '1655'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - vyskupas
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,46 +53,23 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   teiginys: "Mykolas Pacas buvo hetmonas ir Vilniaus vaivada."
   pagrindžia:
     - c-76225
+
+<a id="claim-t-200765"></a>
+- t-003
+  global_id: t-200765
+  teiginys: "Po 1655 m. rusų antplūdžio Mykolas Pacas, Vilniaus vaivada ir Lietuvos Didžiosios Kunigaikštystės etmonas, padėjo atstatyti Bernardinų bažnyčią."
+  pagrindžia:
+    - c-184110
+- susijęs iš [[objektai/ivykiai/Bernardinų bažnyčios atstatymas po 1655 m. rusų antplūdžio.md#claim-t-200841|Bernardinų bažnyčios atstatymas po 1655 m. rusų antplūdžio]]: Po 1655 metų rusų antplūdžio apdaužytą Bernardinų bažnyčią padėjo atstatyti Vilniaus vaivada ir Didžiosios Kunigaikštystės etmonas Mykolas Pacas.
 - susijęs iš Antakalnis: Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mykolas Pacas buvo hetmonas ir Vilniaus vaivada.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
-    piegos. Jonui Kazimierui atsisakant nuo sosto, Lietuvoje va-
-    dovavo jau Pacai. Vienas iš jų, Mykolas, buvo hetmonas ir Vil-
-    niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —
-    Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,
-    o penktas, Petras, — Žemaičių seniūnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos teritoriją, todėl 1656 m. kilo Žemaičių sukilimas, padaręs
-    švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat
-    kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
-    vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
-    vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
-    Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
-    kariuomenės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
+- susijęs iš [[objektai/zodynas/juodaknygis.md#claim-t-200675|juodaknygis]]: 1754 m. žodis „juodaknygis“ pavartotas Jono Dominyko Lopacinskio humoristiniame palyginime apie slaptai knygas skaičiusį Antaną Mykolą Pacą.
+- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200671|Slapta skaitomos knygos]]: 1754 m. Jonas Dominykas Lopacinskis su humoru rašė, kad Antanas Mykolas Pacas knygas skaitė pasislėpęs tamsiuose požemiuose.
+- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200672|Slapta skaitomos knygos]]: 1754 m. Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų.
+- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200671|Slapta skaitomos knygos]]: 1754 m. Jonas Dominykas Lopacinskis su humoru rašė, kad Antanas Mykolas Pacas knygas skaitė pasislėpęs tamsiuose požemiuose.
+- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200672|Slapta skaitomos knygos]]: 1754 m. Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų.
+- susijęs iš [[objektai/posakiai/kaip koks juodaknygis tamsiuose požemiuose.md#claim-t-200676|kaip koks juodaknygis tamsiuose požemiuose]]: 1754 m. Jonas Dominykas Lopacinskis Antano Mykolo Paco slaptą knygų skaitymą palygino su juodaknygiu tamsiuose požemiuose.
+- susijęs iš [[objektai/posakiai/kaip koks juodaknygis tamsiuose požemiuose.md#claim-t-200676|kaip koks juodaknygis tamsiuose požemiuose]]: 1754 m. Jonas Dominykas Lopacinskis Antano Mykolo Paco slaptą knygų skaitymą palygino su juodaknygiu tamsiuose požemiuose.
+- susijęs iš [[objektai/zodynas/juodaknygis.md#claim-t-200675|juodaknygis]]: 1754 m. žodis „juodaknygis“ pavartotas Jono Dominyko Lopacinskio humoristiniame palyginime apie slaptai knygas skaičiusį Antaną Mykolą Pacą.
 ## Citatos
 
 - id: c-76225
@@ -124,3 +110,24 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79142
+
+- id: c-184110
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 19."
+  citata_originali: |
+    Reformacijos įtaka netrukus atšaldė sta­
+    tytojų uolumą; pritrūkus lėšų, Bernardinų bažnyčios statyba užsitęsė iki pat
+    XVI amžiaus galo. Gausingi atnaujinimai ir perstatinėjimai (po gaisrų)
+    šiek tiek pakenkė išviršinės architektūros vienybei. Taip, antai, po 1655 me­
+    tų rusų antplūdžio, kada toji bažnyčia buvo gerokai apdaužyta, ją padėjo
+    atstatyti Mykolas Pacas, Vilniaus vaivada ir Didžiosios Kunigaikštystės
+    etmonas. Tuomet, pav., fasadas buvo apvainikuotas frontonu su vingiuotais
+    ir užriestais kraštais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200765

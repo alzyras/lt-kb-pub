@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir ugnimi nusiaubė Paštuvos bei Gaižuvos valsčius.
+Kojelavičiaus pasakojime magistras Meinhardas su didele kariauna įsiveržė į Lietuvą ir žiauriai nusiaubė Paštuvos bei Gaižuvos valsčius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -44,52 +44,18 @@ Nenurodyta
 <a id="claim-t-185754"></a>
 - t-001
   global_id: t-185754
-  teiginys: "Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir ugnimi nusiaubė Paštuvos bei Gaižuvos valsčius."
+  teiginys: "Kojelavičiaus pasakojime magistras Meinhardas su didele kariauna įsiveržė į Lietuvą ir žiauriai nusiaubė Paštuvos bei Gaižuvos valsčius."
   pagrindžia:
     - c-169115
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir ugnimi nusiaubė Paštuvos bei Gaižuvos valsčius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po to jis su savo kariais pasuko kita
-    kryptimi: staiga puolė Medrabą, kurios gynėjai daug
-    kartų buvo nusiaubę netolimas Prūsijos žemes ir pri­
-    darę nemaža nuostolių; ją užėmęs, išvadavo galybę
-    ten kalinamų krikščionių. Vėliau su didesne kariauna,
-    kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­
-    žė į Lietuvą pats magistras Meinhardas, žiauriai nu­
-    siaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos
-    ugnimi. Pasivijęs jį, atsitraukiantį su dideliu grobiu,
-    Jazbutas įniko persekioti už-
-    N u žu d o m a s
-    lie tu v ių
-    pakaimę vorą, kuriai tuomet
-    k u n ig a ik štis J a zb u ta s
-    vadovavo Henrikas Cutsver-
-    tas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169115
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 164"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 164."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to jis su savo kariais pasuko kita
-    kryptimi: staiga puolė Medrabą, kurios gynėjai daug
-    kartų buvo nusiaubę netolimas Prūsijos žemes ir pri­
-    darę nemaža nuostolių; ją užėmęs, išvadavo galybę
-    ten kalinamų krikščionių. Vėliau su didesne kariauna,
+    Vėliau su didesne kariauna,
     kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­
     žė į Lietuvą pats magistras Meinhardas, žiauriai nu­
     siaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos
@@ -100,7 +66,16 @@ Nenurodyta
     pakaimę vorą, kuriai tuomet
     k u n ig a ik štis J a zb u ta s
     vadovavo Henrikas Cutsver-
-    tas.
+    tas. Šį išvydęs, Jazbutas, su
+    įniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų
+    puolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­
+    rikas ietimi persmeigė Jazbutą, kuris, griūdamas že­
+    mėn, nukirto kalaviju puolančiam nugalėtojui pirštą.
+    Susidūrus vadams, įsiliepsnojo mūšis: narsiausi prieki­
+    nio būrio kariai veržėsi ginti užpakalinio, kadangi ir
+    lietuviai, netekę vado, traukėsi, ir kryžiuočiai (kurie,
+    m
+  citata_rodoma: "Po to jis su savo kariais pasuko kita\nkryptimi: staiga puolė Medrabą, kurios gynėjai daug\nkartų buvo nusiaubę netolimas Prūsijos žemes ir pri­\ndarę nemaža nuostolių; ją užėmęs, išvadavo galybę\nten kalinamų krikščionių. Vėliau su didesne kariauna,\nkurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­\nžė į Lietuvą pats magistras Meinhardas, žiauriai nu­\nsiaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos\nugnimi. Pasivijęs jį, atsitraukiantį su dideliu grobiu,\nJazbutas įniko persekioti už-\nN u žu d o m a s\nlie tu v ių\npakaimę vorą, kuriai tuomet\nk u n ig a ik štis J a zb u ta s\nvadovavo Henrikas Cutsver-\ntas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -57,22 +57,6 @@ Nenurodyta
   teiginys: "1423 m. gegužę Veliuonoje didysis magistras ir Livonijos magistras ieškojo formalių priekabių Melno taikos sutarčiai sugriauti."
   pagrindžia:
     - c-163155
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Priversti susivažiuoti Veliuonoje su Vytautu ir Jogailos atsto­
-    vais (1423.V.), didysis magistras ir Livonijos magistras ieškojo
-    formalių priekabių sutartį sugriauti. Bet jiedviem nepasisekė įrašyti
-    punkto, kad Melno taikos sutartį patvirtintų popiežius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

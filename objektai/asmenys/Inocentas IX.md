@@ -45,30 +45,6 @@ Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popi
   teiginys: "Inocentas IX buvo vienas iš dviejų popiežių, kurių elektorius buvo kardinolas Jurgis Radvila."
   pagrindžia:
     - c-83672
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Inocentas IX buvo vienas iš dviejų popiežių, kurių elektorius buvo kardinolas Jurgis Radvila.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    —  •  .
-    192
-
-    ## Puslapis 209
-
-    Il KNYGA
-    15. Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­
-    dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elek-
-    torius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas,
-    baigė dievobaimingo gyvenimo dienas Romoje, 1600 me­
-    tais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

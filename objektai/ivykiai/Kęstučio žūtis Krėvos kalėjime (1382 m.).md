@@ -56,27 +56,6 @@ Nenurodyta
   teiginys: "Kęstučio kūnas Vilniuje senu papročiu buvo iškilmingai sudegintas su jo arkliais, sakalais, šunimis ir ginklais."
   pagrindžia:
     - c-88371
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kiek Jogaila buvo prie jos prisidėjęs, sunku nustatyti, bet
-    jo kaltė dar padidėja akivaizdoje to fakto, kad ir Kęstučio žmo­
-    na Birutė tuo pačiu laiku buvo jo šalininkų paskandinta Trakų
-    ežere. Dlugošas taip pat nurodo^4 ), kad žiauriai buvę pasielgta
-    ir su kitais Kęstučio giminėmis: Birutės dėdė Vydimantas ir
-    anūkas Butrimas buvę nukankinti su ratu.
-    Kęstučio kūnas Vilniuje buvo senu papročiu iškilmingai su­
-    degintas kartu su jo mylimais arkliais, sakalais, šunimis ir gink­
-    lais^5 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

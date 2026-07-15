@@ -35,26 +35,6 @@ media_all_json: |-
   teiginys: "Neseniai suformuota lietuvių aviacijos eskadrilė buvo panaudota operacijoje."
   pagrindžia:
     - c-40781
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šioje operacijoje buvo panaudota ir ne-
-    seniai suformuota lietuvių aviacijos eskad-
-    rilé. 18-19 d. lietuvių lėktuvai bombardavo
-    ir kulkosvaidžiais apšaudė bolševikų po-
-    zicijas Panevėžyje ir geležinkelio ruože
-    Panevėžys-Kupiškis, taip sukeldami paniką
-    raudonarmiečių gretose. Taip pat lėktuvais
-    buvo iš oro žvalgomos priešo pozicijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

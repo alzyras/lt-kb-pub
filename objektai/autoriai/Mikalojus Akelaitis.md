@@ -53,28 +53,6 @@ media_all_json: |-
 - susijęs iš [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.md#claim-t-13503|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]: 1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui teigė, kad tautos istorija turi būti kiekvieno piliečio lūpose.
 - susijęs iš [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.md#claim-t-13504|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]: Frazė siejama su tautos atminties ir tautos ateities ryšiu.
 - susijęs iš [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“.md#claim-t-26361|„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]: 1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui teigė, kad tautos istorija turi būti kiekvieno piliečio lūpose.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jas įsi-
-    mindami, savaime tapsite gyvais Lietuvos istorijos liudininkais ir sergėto-
-    jais. Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
-    1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui
-    Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija
-    turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
-    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
-    Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-154572

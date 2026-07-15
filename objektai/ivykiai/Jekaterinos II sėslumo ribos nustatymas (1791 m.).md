@@ -64,31 +64,6 @@ Nenurodyta
   teiginys: "Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo sėslumo ribos, sutapusios su buvusios LDK arba ATR rytine riba."
   pagrindžia:
     - c-166613
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas
-    „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje
-    žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo
-    su buvusios LDK arba Abiejų Tautų Respublikos rytine riba. Ją nubrėžė
-    Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi
-    net konkrečias gubernijas, kuriose gali gyventi žydai. Visa tai buvo ne kas
-
-    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
-    19
-    kita, kaip ATR ir LDK erdvė, vadinasi, „Rusijos žydai“ – tai LDK – Lietu-
-    vos, Baltarusijos, Ukrainos ir Lenkijos – žydai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -113,5 +88,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183226
     - t-20210
+    - t-183226

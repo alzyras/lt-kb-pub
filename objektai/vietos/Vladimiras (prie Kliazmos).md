@@ -43,25 +43,6 @@ Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos perkėlimas į Vl
   teiginys: "1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos."
   pagrindžia:
     - c-34093
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tinkamai nesutvarkytas Lietuvos rytinių žemių bažnytinis
-    priklausomumas prie Gedimino įpėdinių sudarė valstybei įvairių
-    rūpesčių. Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos
-    perkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko
-    1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­
-    tikių plotuose augino rimtą pavojų. Tik Algirdui vėl pasisekė (1353)
-    šimtui metų laimėti atskirus metropolitus Lietuvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

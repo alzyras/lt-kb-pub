@@ -55,28 +55,6 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
   teiginys: "Laisvųjų imperijos miestų pradžia siejama su imperatorių miestams teikta globa ir privilegijomis."
   pagrindžia:
     - c-55793
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dideli politinės padėties pokyčiai,
-    radęsi Švabijoje ir Frankonijoje dėl Hohenštaufenų giminės žlu­
-    gimo, miestams suteikė lemiamą persvarą. Vokietijos impera­
-    toriai silpni, nes renkami, tad siekdami galios prieš bajoriją ir
-    galingą dvasininkiją, jie miestams teikė globą ir vis didesnes
-    privilegijas; savo ruožtu, šie nesiliovė buvę tikrais imperijos są­
-    jungininkais. Tai davė pradžią vadinamiesiems laisviesiems im­
-    perijos miestams, vėliau jiems leido dalyvauti imperijos valdy­
-    me ir padarė juos galingus ir savarankiškus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -100,5 +78,5 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54796
     - t-54795
+    - t-54796

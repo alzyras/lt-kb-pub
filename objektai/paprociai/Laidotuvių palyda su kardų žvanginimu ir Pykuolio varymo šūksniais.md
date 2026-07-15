@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas aprašo laidotuvių paprotį, kai mirusįjį lydintys raiti giminaičiai ir bičiuliai žvangindavo kardais ir šūksniais vydavo Pykuolį.
+Narbutas aprašo laidotuvių paprotį, kai mirusįjį lydintys raiti giminaičiai ir bičiuliai žvangindavo kardais ir šūksniais vydavo Pykuolį. Ant laidotuvių laužo su miru siojo kūnu būdavo kraunama viskas, kas velionio gyvenime buvo malonaus arba reikalingo ar buvo jo puošmena. Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lygašonys per laidotuves sakydavo kalbas, garbstydami mirusiojo žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai tą ant.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -51,43 +51,61 @@ Nenurodyta
   teiginys: "Narbutas aprašo laidotuvių paprotį, kai mirusįjį lydintys raiti giminaičiai ir bičiuliai žvangindavo kardais ir šūksniais vydavo Pykuolį."
   pagrindžia:
     - c-172808
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas aprašo laidotuvių paprotį, kai mirusįjį lydintys raiti giminaičiai ir bičiuliai žvangindavo kardais ir šūksniais vydavo Pykuolį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Mirusįjį, vežamą į laidotuvių vietą, lydi raiti ginkluoti gi­
-    minaičiai ir bičiuliai, kurie šalia vežimo, ant kurio guli miru­
-    siojo palaikai, tolydžio mosikuoja kardais, čerškina kardą į kar­
-    dą ir vis šaukia: „Ei, ei, bėkite, pykuoliai!“ (Gej, gej, begejte
-    Pokole!) Tai yra varo šalin piktąjį dievą Pykuolį (Poklių) nuo
-    mirusio asmens kūno.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197257"></a>
+- t-002
+  global_id: t-197257
+  teiginys: "Ant laidotuvių laužo su miru siojo kūnu būdavo kraunama viskas, kas velionio gyvenime buvo malonaus arba reikalingo ar buvo jo puošmena."
   pagrindžia:
-    - t-001
+    - c-172808
+
+<a id="claim-t-197258"></a>
+- t-003
+  global_id: t-197258
+  teiginys: "Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lygašonys per laidotuves sakydavo kalbas, garbstydami mirusiojo žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai tą ant."
+  pagrindžia:
+    - c-179089
 
 ## Citatos
 
 - id: c-172808
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 362"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 362."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mirusįjį, vežamą į laidotuvių vietą, lydi raiti ginkluoti gi­
-    minaičiai ir bičiuliai, kurie šalia vežimo, ant kurio guli miru­
-    siojo palaikai, tolydžio mosikuoja kardais, čerškina kardą į kar­
-    dą ir vis šaukia: „Ei, ei, bėkite, pykuoliai!“ (Gej, gej, begejte
-    Pokole!) Tai yra varo šalin piktąjį dievą Pykuolį (Poklių) nuo
-    mirusio asmens kūno.
+    Deginti mirusiųjų kūnus buvo įprasta sekant graikų, ro­
+    mėnų, skandinavų ’ ir kai kurių slavų kilčių papročiu. Šis pa­
+    protys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­
+    tas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik
+    žymesniems žmonėms laidoti. Ant laidotuvių laužo su miru­
+    siojo kūnu būdavo kraunama viskas, kas velionio gyvenime
+    buvo malonaus arba reikalingo ar buvo jo puošmena.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189925
+    - t-197257
+
+- id: c-179089
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Neturime jokio pa­
+    tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka­
+    bindavo karalių kūnus, parištus ant aukso grandinių .
+    Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lyga-
+    šonys per laidotuves sakydavo kalbas, garbstydami mirusiojo
+    žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi­
+    naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai­
+    tą ant puikaus žirgo, ginkluotą, šuoliuojančią dangaus vidu­
+    riu, Paukščių taku, laikančią rankoje tris žvaigždes ir su didele
+    draugų palyda kylančią į amžinosios laimės buveinę .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197258

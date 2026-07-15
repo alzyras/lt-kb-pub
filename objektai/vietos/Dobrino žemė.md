@@ -35,25 +35,6 @@ Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grį�
   teiginys: "Jogailai įsiveržus į Dobrino žemę, kryžiuočiai grįžo atgal."
   pagrindžia:
     - c-28428
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jogailai įsiveržus į Dobrino žemę, kryžiuočiai grįžo atgal.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­
-    žiuočiai grįžo atgal. Daug kainavęs Wallenrodo žygis baigėsi nie­
-    kais. Besaikis Wallenrodo švaistymasis davė Mickevičiui mintį
-    savo įspūdingoje poemoje padaryti vyriausią magistrą ordinui pasi­
-    davusiu lietuviu, kuris tokiu būdu tikėjosi lengviau sunaikinti kry­
-    žiuočius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

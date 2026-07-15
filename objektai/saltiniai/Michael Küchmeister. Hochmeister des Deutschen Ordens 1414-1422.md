@@ -43,23 +43,6 @@ Nöbel : Michael Küchmeister.
   teiginys: "W. Nöbelio veikalas „Michael Küchmeister. Hochmeister des Deutschen Ordens 1414-1422“ minimas kaip 1969 m. penktojo tomo publikacija."
   pagrindžia:
     - c-33662
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — R. Wittram :** **_Baltische Geschichte
-    1180-1918_** **(WiBG).**
-    (^168) **Pvz., joje t. 5, 1969, yra W. Nöbel :** **_Michael Küchmeister. Hoch­
-    meister des Deutschen Ordens 1414-1422_** **; t. 15, 1969, yra C. A. Lückerath :
-    P** **_a_** **ul** **_von Rusdorf.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

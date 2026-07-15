@@ -53,34 +53,9 @@ Bažnytinio kalendoriaus data nusakanti formulė.
 <a id="claim-t-186893"></a>
 - t-001
   global_id: t-186893
-  teiginys: "Formulė „Verbų sekmadieni“ 1971 m. leidinio pastaboje aiškinama kaip 1440 m. kovo 20 d. data."
+  teiginys: 'Formulė „Verbų sekmadieni“ 1971 m. leidinio pastaboje aiškinama kaip 1440 m. kovo 20 d. data.'
   pagrindžia:
     - c-170079
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Formulė „Verbų sekmadieni“ 1971 m. leidinio pastaboje aiškinama kaip 1440 m. kovo 20 d. data.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 5  Pasak M. Strijkovskio, Skabeika buvo Žygimanto Kęstutai­
-    čio ekonomu ir drauge žirgininku. Jokių tikslesnių duomenų apie
-    j | nėra.
-    '•  Šiuo metu Švitrigaila buvo, veikiausiai, ne Moldavijoje,
-    o vadinam ojoje Rusų vaivadijoje — Lenkijai priklausiusioje buvu­
-    sio Haličo (vakaių Ukrainos) d aly je
-    ”  „Verbų sekmadieni" — 1440 m. kovo 20 d.
-    '* Kadangi J. Dlugošas, Žygimanto Kg3tutalčio amžininkas, nie­
-    ko apie Žygimanto prijaukintą lokį nemini, spėliojama, kad lokio
-    versiją y ra prasimanęs XV a. rašytojas Enėjas Silvijus Pikolominl:
-    jis tgini tą lokį Lietuvos aprašyme, knygoje „Historiae Europae“
-    (Išleistoje pirmą kartą 1490 m ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -102,9 +77,9 @@ Bažnytinio kalendoriaus data nusakanti formulė.
     jis tgini tą lokį Lietuvos aprašyme, knygoje „Historiae Europae“
     (Išleistoje pirmą kartą 1490 m ).
   citata_rodoma: "”  „Verbų sekmadieni\" — 1440 m. kovo 20 d."
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186893
+    - t-001

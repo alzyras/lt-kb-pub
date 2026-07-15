@@ -57,34 +57,6 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   teiginys: "Senovės lietuvių ūkės rėdą, pasak Daukanto, sunku aiškiai aprašyti dėl karų, priešų ir žmonių skaugės padaryto naikinimo."
   pagrindžia:
     - c-09735
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Sunku šiandien yra aiškiai ką apie senovės lietuvių ūkės rėdą parašyti, nesgi kruvinos karės,
-        smarkūs neprieteliai, dar užvis bjauresnė žmonių skaugė^956 visa paspėjo išnaikinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  santrauka: 'Rėda citatoje siejama su tautos tvarka, kuri, pasak Daukanto, kilo nuo kunigų kaip Dievo ir pasaulio tarpininkų.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Žinoma yra, jog rėda kožnos tautos visados kėlės nuo kunigų, kaipo dievo ir svieto tarpininkų, nesgi išminčiai svieto, regėdami, jog žmogus nuo pirmosios dienos lig savo paskuojės karšaties turi visados draugėj gyventi, kaipogi be draugės niekšai negalėtų ant svieto patekti, o ir gimęs be jos ilgainiui pragaištų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

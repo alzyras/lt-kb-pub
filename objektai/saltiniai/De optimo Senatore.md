@@ -34,31 +34,6 @@ media_all_json: |-
   teiginys: "Laurynas Goślickis labiausiai išgarsėjo lotyniškai parašyta knyga „De optimo Senatore“, kuri buvo išversta į anglų kalbą."
   pagrindžia:
     - c-84394
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Laurynas Goślickis labiausiai išgarsėjo lotyniškai parašyta knyga „De optimo Senatore“, kuri buvo išversta į anglų kalbą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Žr. tarp dekretų.
-    60
-    Laurynas Goslickis, pirmiausia ka­
-    raliaus Stepono sekretorius, galiau­
-    siai Poznanės vyskupas, išgarsėjo
-    ypatingais sugebėjimais spręsti vie­
-    šuosius reikalus bei įvairiose pasiun­
-    tinybėse, bet labiausiai lotynų kalba
-    parašęs puikią knygą „De optimo
-    Senatore", kuri buvo išversta net į
-    anglų kalbą. Goslickio gyvenimą ap­
-    rašė mokslininkas Ossoliński.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

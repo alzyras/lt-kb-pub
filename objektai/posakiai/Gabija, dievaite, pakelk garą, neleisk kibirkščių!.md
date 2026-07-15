@@ -43,8 +43,8 @@ Apsauginė maldelė Gabijai / jaujos ugniai, prašanti šilumos ir saugumo nuo k
   teiginys: "Narbutas maldelę „Gabija, dievaite, pakelk garą, neleisk kibirkščių!“ aiškina kaip ugnies užkeikimą jaujoje nuo gaisro."
   pagrindžia:
     - c-172447
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas maldelę „Gabija, dievaite, pakelk garą, neleisk kibirkščių!“ aiškina kaip ugnies užkeikimą jaujoje nuo gaisro.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -69,16 +69,20 @@ Apsauginė maldelė Gabijai / jaujos ugniai, prašanti šilumos ir saugumo nuo k
 - id: c-172447
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 99"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 99."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tai reiškia: „Gabija, miela deive, duok daugiau šilu­
-    mos, neleisk ugniai per daug kibirkščiuoti“. Si maldelė yra ug­
-    nies užkeikimas jaujoje, kad nekiltų gaisras. Prietaringi žemai­
-    čių valstiečiai tebekalba ją dar dabar, kurstydami ugnį savo
-    t džiovyklose. Reikia atminti, kad Antikos žmonės saulę laikė
-    ugnies šaltiniu ir garbino ją kaip to elemento dievybę, vadin­
-    dami taip pat Gabie, Gabalus, Heliogabalus.
+    Vis dėlto ši dievybė pas juos neturi atskirų šventyklų,
+    kaip tai buvo pas visus šiaurės stabmeldžius. Juk jie turi savus
+    šiokios tokios astronomijos mokovus: skaičiuoja metų laikus,
+    mėnesius, savaites, dienas; savo mėnesį pradeda nuo jauno
+    mėnulio; savaitę kaip musulmonai - nuo penktadienio, kurį
+    paskiria savo Jupiteriui, o antrą dieną po penktadienio, tai yra
+    sekmadienį, jie, visai kaip senovės romėnai, paskiria saulei.
+    Šie žmonės labai atsidavę žemės darbui ir su juo susijusiam
+    naminių gyvulių auginimui; atsižvelgiant į tai, Santvaras (So­
+    tuar), kaip piemenų dievas, gauna aukas, ir jį garbinti moka
+    skurdžiausiose pirkelėse“16.
+  citata_rodoma: "Tai reiškia: „Gabija, miela deive, duok daugiau šilu­\nmos, neleisk ugniai per daug kibirkščiuoti“. Si maldelė yra ug­\nnies užkeikimas jaujoje, kad nekiltų gaisras. Prietaringi žemai­\nčių valstiečiai tebekalba ją dar dabar, kurstydami ugnį savo\nt džiovyklose. Reikia atminti, kad Antikos žmonės saulę laikė\nugnies šaltiniu ir garbino ją kaip to elemento dievybę, vadin­\ndami taip pat Gabie, Gabalus, Heliogabalus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

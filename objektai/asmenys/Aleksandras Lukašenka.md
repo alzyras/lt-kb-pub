@@ -45,22 +45,6 @@ Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prez
   teiginys: "Aleksandro Lukašenkos diktatūrinis valdymas komplikavo politinius santykius su Baltarusija."
   pagrindžia:
     - c-20456
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    bendradarbiavimo ir dėl valstybės sienos. Gerai klostėsi ekonominiai san-
-    tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
-    kašenkos diktatūrinis valdymas. 1990 m. gegužės 12 d. Lietuva, Latvija ir
-    Estija atnaujino 1934 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

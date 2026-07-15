@@ -63,32 +63,6 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   teiginys: "Valdymierai kartais įvesdavo svetimus parėdymus į savo ūkę, kad padidintų valdžią ir pavergtų žmones."
   pagrindžia:
     - c-09756
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Jei netyčiomis jis tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi. Visi tie prietarai ant to eina, sako toliau, jog nuo ten prasidėjusi jų tauta, kame esąs visų valdymieras dievas, kurio kiti visi klausą ir tarnaują. Laimė žemaičių tą tvirtinanti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    nesgi anie tankiai regėjo per prityrimą, jog valdymierai tautų dėl to vien kartais įveda svetimus parėdymus^710 į savo ūkę, idant per tą galėtų padidinti savo valdžią ir svietą nuvergti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
 
 ## Citatos
 

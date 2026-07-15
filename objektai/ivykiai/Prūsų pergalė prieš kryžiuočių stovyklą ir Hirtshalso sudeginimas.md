@@ -61,96 +61,34 @@ Nenurodyta
   teiginys: "Prūsams pasirodžius iš užnugario, prasidėjo žiaurus mūšis, kuriame krikščionys galiausiai buvo sumušti."
   pagrindžia:
     - c-168897
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Prūsai Notangos krašte įrengė pylimu ir gynybiniu grioviu sustiprintą stovyklą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Per No-
-    tangos kraštą įžengę į priešų žemę, jie, ketindami per­
-    kelti karo židinį į šalies gilumą, Prūsijos centre parin­
-    P rūsai
-    išsiža d a
-    k r i­
-    k ščio n ių
-    tik ė jim o  ir
-    a tsim e ta
-    n u o
-    k r y ­
-    žiu o čių
-    riuos beįmanė pagauti, žiau­
-    riai nukankino; jie nepaliko
-    neišniekinę nė vienos krikš­
-    čionių
-    šventenybės,
-    kurią
-    tik valiojo pasiekti jų stai­
-    gus įsiūtis. Todėl krikščio-
-    106
-
-    ## Puslapis 105
-
-    ko stovyklai vietą, iš kurios patogu bet kuria krypti­
-    mi puldinėti priešą. Ten greitosiomis įrengę stovyklą,
-    sustiprintą pylimu ir gynybiniu grioviu, jie paliko ke­
-    letą būrių gurguolėms saugoti, o patys su visomis jė­
-    gomis patraukė link priešo, kuris, pasak kalbų, taip
-    pat buvo įsitvirtinęs stovykloje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196247"></a>
+- t-004
+  global_id: t-196247
+  teiginys: "Kryžiuočiai įrengė pylimu ir grioviu sustiprintą stovyklą, paliko dalį karių gurguolėms saugoti ir patraukė link prūsų pajėgų."
   pagrindžia:
-    - t-001
+    - c-168895
 
-- c-002
-  santrauka: 'Prūsai puolė negausiai saugomą kryžiuočių stovyklą, ją paėmė pirmuoju antpuoliu ir išžudė apsaugos karius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Štai todėl jie nutarė kokia nors nedidele
-    pergale atimti priešui iš pat pradžių progą džiaugsmui
-    ir įbauginti atšiaurias širdis: puolimas būsiąs silpnes­
-    nis, jeigu, prieš kovą patyrę kokią nesėkmę, suvoks
-    labiau turį bijoti, negu drąsą rodyti. Nenorėdami atsi­
-    tiktinai susidurti su juos narsiai užpulti pasirengusiu
-    priešu, jie pasuko į šalį ir,
-    K rik šč io n y s su m u ša-
-    patraukę per miškus jiems
-    m i sta b m e ld žių  p rū sų
-    težinomais takeliais, visa ga­
-    lybe užgriuvo stovyklą, ku­
-    rioje, kaip jie žinojo, buvusi palikta negausi įgula.
-    Pirmuoju antpuoliu paėmę stovyklą, išžudė apsaugai
-    paliktus karius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196248"></a>
+- t-005
+  global_id: t-196248
+  teiginys: "Prūsams užėmus kryžiuočių stovyklą, kovotojams buvo įsakyta nesiplėšti ir iškart pulti pagrindines vokiečių pajėgas."
   pagrindžia:
-    - t-002
+    - c-168896
 
-- c-003
-  santrauka: 'Prūsams pasirodžius iš užnugario, prasidėjo žiaurus mūšis, kuriame krikščionys galiausiai buvo sumušti.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kai pasirodė iš užnugario grėsmingi barbarai,
-    kurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas
-    ir baimė, jog paimta stovykla; tada, susidūrus kariuo­
-    menėms, prasidėjo žiaurus mūšis. Kovotojų atkaklu­
-    mas palaikė ne vieną valandą ir vienoje, ir kitoje pu­
-    sėje pergalės viltį, vis dėlto galop krikščionys buvo
-    sumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba
-    galvas padėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196249"></a>
+- t-006
+  global_id: t-196249
+  teiginys: "Kojelavičius rašo, kad Magdeburgo bajoras Hirtshalsas, belaisviams metus burtus, per prūsų pergalės apeigas buvo gyvas sudegintas dievams pagerbti."
   pagrindžia:
-    - t-003
+    - c-168897
+
+<a id="claim-t-196250"></a>
+- t-007
+  global_id: t-196250
+  teiginys: "Grafo Barbio vedama vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet per šv. Agnetės šventę buvo prūsų sutriuškinta."
+  pagrindžia:
+    - c-178595
 
 ## Citatos
 
@@ -159,50 +97,15 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Per No-
-    tangos kraštą įžengę į priešų žemę, jie, ketindami per­
-    kelti karo židinį į šalies gilumą, Prūsijos centre parin­
-    P rūsai
-    išsiža d a
-    k r i­
-    k ščio n ių
-    tik ė jim o  ir
-    a tsim e ta
-    n u o
-    k r y ­
-    žiu o čių
-    riuos beįmanė pagauti, žiau­
-    riai nukankino; jie nepaliko
-    neišniekinę nė vienos krikš­
-    čionių
-    šventenybės,
-    kurią
-    tik valiojo pasiekti jų stai­
-    gus įsiūtis. Todėl krikščio-
-    106
-
-    ## Puslapis 105
-
-    ko stovyklai vietą, iš kurios patogu bet kuria krypti­
-    mi puldinėti priešą. Ten greitosiomis įrengę stovyklą,
+    Ten greitosiomis įrengę stovyklą,
     sustiprintą pylimu ir gynybiniu grioviu, jie paliko ke­
     letą būrių gurguolėms saugoti, o patys su visomis jė­
     gomis patraukė link priešo, kuris, pasak kalbų, taip
-    pat buvo įsitvirtinęs stovykloje.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185534
-
-- id: c-168896
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 105"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 105."
-  citata_originali: |
-    Štai todėl jie nutarė kokia nors nedidele
+    pat buvo įsitvirtinęs stovykloje. Barbarai, per žvalgus
+    gavę žinių apie priešo jėgas ir ketinimus, bijojo pirmo
+    gerai ginkluotų karių puolimo, ypač dėl to, kad jų
+    pačių ir apsiginklavimas, ir kariavimo būdas buvo
+    menkoki. Štai todėl jie nutarė kokia nors nedidele
     pergale atimti priešui iš pat pradžių progą džiaugsmui
     ir įbauginti atšiaurias širdis: puolimas būsiąs silpnes­
     nis, jeigu, prieš kovą patyrę kokią nesėkmę, suvoks
@@ -211,26 +114,29 @@ Nenurodyta
     priešu, jie pasuko į šalį ir,
     K rik šč io n y s su m u ša-
     patraukę per miškus jiems
-    m i sta b m e ld žių  p rū sų
+    m i sta b m e ld žių p rū sų
     težinomais takeliais, visa ga­
     lybe užgriuvo stovyklą, ku­
     rioje, kaip jie žinojo, buvusi palikta negausi įgula.
-    Pirmuoju antpuoliu paėmę stovyklą, išžudė apsaugai
-    paliktus karius.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185535
+    - t-185534
+    - t-196247
 
-- id: c-168897
+- id: c-168896
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 105"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 105."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kai pasirodė iš užnugario grėsmingi barbarai,
+    Pirmuoju antpuoliu paėmę stovyklą, išžudė apsaugai
+    paliktus karius. Kovotojams buvo įsakyta susilaikyti
+    nuo grobio ir, kol nepraėjo pakili pergalės nuotaika,
+    karštai pulti dar kruvinais kalavijais priešą, kad kil­
+    tų dar smarkesnė kova ir būtų pasiekta visiška per­
+    galė. Kai pasirodė iš užnugario grėsmingi barbarai,
     kurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas
     ir baimė, jog paimta stovykla; tada, susidūrus kariuo­
     menėms, prasidėjo žiaurus mūšis. Kovotojų atkaklu­
@@ -238,9 +144,57 @@ Nenurodyta
     sėje pergalės viltį, vis dėlto galop krikščionys buvo
     sumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba
     galvas padėjo.
+  citata_rodoma: "Kovotojams buvo įsakyta susilaikyti \nnuo grobio ir, kol nepraėjo pakili pergalės nuotaika, \nkarštai pulti dar kruvinais kalavijais priešą, kad kil­\ntų dar smarkesnė kova ir būtų pasiekta visiška per­\ngalė. Kai pasirodė iš užnugario grėsmingi barbarai, \nkurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas \nir baimė, jog paimta stovykla; tada, susidūrus kariuo­\nmenėms, prasidėjo žiaurus mūšis. Kovotojų atkaklu­\nmas palaikė ne vieną valandą ir vienoje, ir kitoje pu­\nsėje pergalės viltį, vis dėlto galop krikščionys buvo \nsumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba \ngalvas padėjo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185535
+    - t-196248
+
+- id: c-168897
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Žymiesiems belaisviams metus burtus,
+    lemtingasis teko Hirtshalsui, Magdeburgo bajorui: jis
+    pagal barbarų apeigas švenčiant pergalę raitas su vi­
+    sais ginklais buvo gyvas sudegintas dievams pagerbti.
+    to?
+
+    Šio vargingo likimo jis du kartus buvo išvengęs, pa­
+    sigailėjus kai kuriems prūsams, su kuriais anksčiau
+    buvo susidraugavęs; kai trečią kartą krito toks pat
+    burtas, jis su panieka atsisakė gyvybės, už kurią tu­
+    rėtų dėkoti gailestingiesiems barbarams. Kita vokie­
+    čių kariuomenė, vedama grafo Barbio, niokojo Sembą
+    ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš­
+    kinta per pačią šventosios Agnetės šventę.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185536
+    - t-196249
+
+- id: c-178595
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kita vokie­
+    čių kariuomenė, vedama grafo Barbio, niokojo Sembą
+    ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš­
+    kinta per pačią šventosios Agnetės šventę. Pats va­
+    das, praradęs kariuomenę, pateko į priešų rankas. Po
+    šių pergalių iš kryžiuočių buvo atimti Heilsbergo,
+    Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196250

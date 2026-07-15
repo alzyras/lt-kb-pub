@@ -35,22 +35,6 @@ Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo padaryta ir didžiojo ku
   teiginys: "Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo padaryta ir didžiojo kunigaikščio girių revizija."
   pagrindžia:
     - c-176014
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo padaryta ir didžiojo kunigaikščio girių revizija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Girios. Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo
-    padaryta ir didžiojo kunigaikščio girių revizija. Buvo išvestos jų
-    sienos ir patikrintos naudojimosi teisės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

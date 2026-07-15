@@ -40,32 +40,16 @@ Dusburgietis teigia, kad nalepa J.
   teiginys: "J. Nalepos tekstas „Dėl A. Vanago pranešimo“ paskelbtas ABS 1976 m. 9 tome, p. 81–86."
   pagrindžia:
     - c-61820
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Nalepos tekstas „Dėl A. Vanago pranešimo“ paskelbtas ABS 1976 m. 9 tome, p. 81–86.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nalepa J. [Dėl A. Vanago pranešimoj.— ABS, 1976, 9, p. 81—86.
-      Nalepa J..
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61820
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nalepa J. [Dėl A. Vanago pranešimoj.— ABS, 1976, 9, p. 81—86.
-      Nalepa J..
+    Nalepa J..
   citata_rodoma: "Nalepa J. [Dėl A. Vanago pranešimoj.— ABS, 1976, 9, p. 81—86."
   statusas: verified
   teiginio_tipas: faktas

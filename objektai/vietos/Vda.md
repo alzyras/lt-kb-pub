@@ -43,15 +43,9 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   teiginys: "Vyslos krante, žemiau Kulmo, prie upės Vda žiočių."
   pagrindžia:
     - c-59284
-
-<a id="claim-t-184213"></a>
-- t-003
-  global_id: t-184213
-  teiginys: "Vyslos krante, žemiau Kulmo, prie upės Vda žiočių."
-  pagrindžia:
     - c-167598
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -104,11 +98,16 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 - id: c-59284
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    285 D.— Swecza, Svečė (Świecie)—kair. Vyslos krante, žemiau Kulmo, prie upės Vda
-    žiočių.
+    47(46). Apie Poterbergo pilies pastatymą
+    Brolis Poponas, magistras, matydamas, kaip sumaniai minėtasis kunigaikštis tai
+    vienur, tai kitur tvirtina pilis, ir norėdamas apsisaugoti nuo būsimų pavojų, kalvoje tarp
+    dabartinio Kulmo miesto ir senosios pilies pastatė naują, kurią praminė nuo tos kalvos
+    vardo Poterbergu287 ir kurioje paliko 12 brolių ir daug ginklanešių. Pilį pastatė tam, kad
+    nesumanytų šioje kalvoje ko statyti Sventopelkas ir šitaip nebūtų buvusi padaryta nauja
+    klaida, kur kas didesnė nei ankstesnė.
+  citata_rodoma: "285 D.— Swecza, Svečė (Świecie)—kair. Vyslos krante, žemiau Kulmo, prie upės Vda\nžiočių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -119,15 +118,18 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 - id: c-59285
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 92-93"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92-93."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    286 Jer.— Bda, tai — upė Vda.
-
-    atvykę drauge su kunigaikščiu Kazimieru, smarkiai užpuolė pilį, ir abi šalys taip įnirtingai
-    susikovė, kad ir vienoje, ir kitoje pusėje krito daug mirtinai sužeistų, o pilyje — daug
-    užmuštų, tačiau pilis buvo taip sutvirtinta, kad ją buvo labai sunku užimti, o broliams,
-    nieko nepešusiems, pasitraukus, Sventopelkas, grįžęs atgal, pilį dar labiau sustiprino.
+    Pilį pastatė tam, kad
+    nesumanytų šioje kalvoje ko statyti Sventopelkas ir šitaip nebūtų buvusi padaryta nauja
+    klaida, kur kas didesnė nei ankstesnė.
+    48(47). Apie Elbingo pilies ir miesto puolimą
+    Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei
+    brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,
+    ketindamas užimti. Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
+    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo į sienas, taip
+    ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
+  citata_rodoma: "286 Jer.— Bda, tai — upė Vda.\n\natvykę drauge su kunigaikščiu Kazimieru, smarkiai užpuolė pilį, ir abi šalys taip įnirtingai\nsusikovė, kad ir vienoje, ir kitoje pusėje krito daug mirtinai sužeistų, o pilyje — daug\nužmuštų, tačiau pilis buvo taip sutvirtinta, kad ją buvo labai sunku užimti, o broliams,\nnieko nepešusiems, pasitraukus, Sventopelkas, grįžęs atgal, pilį dar labiau sustiprino."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -138,15 +140,17 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 - id: c-167598
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 92"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vyslos krante, žemiau Kulmo, prie upės Vda
-    žiočių.
-      286 Jer.— Bda, tai — upė Vda.
+    Pilį pastatė tam, kad
+    nesumanytų šioje kalvoje ko statyti Sventopelkas ir šitaip nebūtų buvusi padaryta nauja
+    klaida, kur kas didesnė nei ankstesnė.
+    48(47). Apie Elbingo pilies ir miesto puolimą
+    Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei
+    brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,
+    ketindamas užimti.
+  citata_rodoma: "Vyslos krante, žemiau Kulmo, prie upės Vda\nžiočių.\n  286 Jer.— Bda, tai — upė Vda."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184213

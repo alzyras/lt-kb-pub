@@ -55,39 +55,16 @@ Nenurodyta
   teiginys: "Kapinių šventinimo metu vyskupas šlakstė mirusiųjų kapus švęstu vandeniu."
   pagrindžia:
     - c-87564
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kapinių šventinimo metu vyskupas šlakstė mirusiųjų kapus švęstu vandeniu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    54 (53) Apie vieną stebuklą
-
-      Tuo metu pasimirė kelyje, grįždamas  į savo tėvynę, vienas kryžininkas iš Meiseno,
-    kuris per Prūsijoje praleistus vienus metus įvykdė maldininko įžadus. Jo sūnus, ilgai
-    nesulaukdamas tėvo, suskato jo ieškoti Prūsijoje, bet nesurado, tačiau begrįždamas
-    sustojo viename kaime, kur vyskupas šventino kapines. Šventinimo metu, kai vyskupas
-    šlakstė švęstu vandeniu mirusiųjų kapus, vieno numirėlio kūnas pakilo iš kapo ir atsišliejo
-    bažnyčios sienos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-87564
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 95"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     54 (53) Apie vieną stebuklą
-
-      Tuo metu pasimirė kelyje, grįždamas  į savo tėvynę, vienas kryžininkas iš Meiseno,
+    Tuo metu pasimirė kelyje, grįždamas į savo tėvynę, vienas kryžininkas iš Meiseno,
     kuris per Prūsijoje praleistus vienus metus įvykdė maldininko įžadus. Jo sūnus, ilgai
     nesulaukdamas tėvo, suskato jo ieškoti Prūsijoje, bet nesurado, tačiau begrįždamas
     sustojo viename kaime, kur vyskupas šventino kapines. Šventinimo metu, kai vyskupas

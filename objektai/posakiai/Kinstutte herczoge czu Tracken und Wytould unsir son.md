@@ -35,28 +35,6 @@ Pačiame tekste yra pažymėta, kad be ma­ gistro ir Jogailos savo antspaudas p
   teiginys: "Dokumento tekste frazė „Kinstutte herczoge czu Tracken und Wytould unsir son“ nurodo Kęstutį, Trakų kunigaikštį, ir jo sūnų Vytautą."
   pagrindžia:
     - c-38360
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dokumento tekste frazė „Kinstutte herczoge czu Tracken und Wytould unsir son“ nurodo Kęstutį, Trakų kunigaikštį, ir jo sūnų Vytautą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Žilas kunigaikštis Kęs­
-    tutis vis tiek padėjo Jogailai sudaryti tą sutartį, iš kurios jam
-    daugiau galėjo būti nuostolių nei naudos, nes turėdamas ramy­
-    bę iš pietinių kraštų, Ordinas galėjo visu smarkumu pulti kitas
-    Kęstučio žemes^2 ).
-    Būdamas pilnateisis kunigaikštis, šitą aktą pasirašant da­
-    lyvavo ir Vytautas. Pačiame tekste yra pažymėta, kad be ma­
-    gistro ir Jogailos savo antspaudas prie dokumentų prikabino
-    „Kinstutte herczoge czu Tracken und Wytould unsir son“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

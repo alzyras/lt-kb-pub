@@ -25,52 +25,33 @@ media_all_json: |-
 
 ## Santrauka
 
-Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru kunigaikščio titulu.
+Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais. Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą. Lietuvos metraštis pasakoja, kad Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 
 ## Teiginiai
 
-<a id="claim-t-187230"></a>
-- t-001
-  global_id: t-187230
-  teiginys: "Lietuvos metraštis pasakoja, kad po Skirmanto mirties Liubartas sėdo valdyti Karačevą ir ėmė tituluotis Karačevo kunigaikščiu."
-  pagrindžia:
-    - c-170298
-
 <a id="claim-t-187231"></a>
-- t-002
+- t-001
   global_id: t-187231
   teiginys: "Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais."
   pagrindžia:
     - c-170297
 
-<a id="claim-t-187232"></a>
-- t-003
-  global_id: t-187232
-  teiginys: "Lietuvos metraštis Liubartą sieja su Karačevo valdymu ir Karačevo kunigaikščio titulu."
-  pagrindžia:
-    - c-170298
-
 <a id="claim-t-187580"></a>
-- t-004
+- t-002
   global_id: t-187580
   teiginys: "Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
   pagrindžia:
     - c-170297
 
 <a id="claim-t-194027"></a>
-- t-005
+- t-003
   global_id: t-194027
-  teiginys: "Nugalėjo tą chaną, ir sumušė visą jo totoriškąją galybę, ir nukovė patį chaną \", Su didžios pergalės šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus Černigovo, Starodubo l3 , Karačevo M miestus, ir, laimė jęs pergalę, be nuostolių pargrįžo atgalios."
+  teiginys: "Lietuvos metraštis pasakoja, kad Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
   pagrindžia:
     - c-170297
-- susijęs iš Turovas: Po Skirmanto mirties Pisimantas sėdo valdyti Turovą.
-- susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186016|Skirmantas]]: Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad po Skirmanto mirties Treniota sėdo valdyti Naugarduką ir valdė šį miestą daugelį metų.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
 - susijęs iš Mozyrius: Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.
 - susijęs iš Mozyrius: Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
-- susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186016|Skirmantas]]: Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.
-- susijęs iš [[objektai/grupes/Černigovo kunigaikštystė.md#claim-t-187777|Černigovo kunigaikštystė]]: Černigovas, Starodubas ir Karačevas buvo suskilusios Černigovo kunigaikštystės smulkesnių valdų sostinės.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
 - susijęs iš Mozyrius: Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.
 - susijęs iš Mozyrius: Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
@@ -79,50 +60,7 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
 - susijęs iš Kaidanovas: Lietuvos metraštyje Kaidanovas vaizduojamas kaip vieta prie Skirmanto sienos, kur jis pasitiko chano pajėgas.
 - susijęs iš Kaidanovas: Lietuvos metraštyje pasakojama, kad Kaidanove Skirmantas pasitiko chano pajėgas, jas sumušė ir nukovė patį chaną.
 - susijęs iš Kaidanovas: Lietuvos metraštyje pasakojama, kad Skirmantas, surinkęs visas savo kariaunas, pasitiko totorius Kaidanove prie savo sienos.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad po Skirmanto mirties Treniota sėdo valdyti Naugarduką ir valdė šį miestą daugelį metų.
 - susijęs iš Starodubas: Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.
-- susijęs iš Turovas: Po Skirmanto mirties Pisimantas sėdo valdyti Turovą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
-    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
-    nos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
-    galybę, ir nukovė patį chaną ", Su didžios pergalės
-    šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
-    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
-    jęs pergalę, be nuostolių pargrįžo atgalios.
-    Turėjo didysis kunigaikštis Skirmantas tris sūnus:
-    vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
-    - t-005
-
-- c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O paskui didysis kunigaikštis Skirmantas pasimirė.
-    Liubartas sėdo valdyti Karačevą 1 8  ir ėmė tituluotis
-    Karačevo kunigaikščiu, o Pisimantas sėdo valdyti Tu-
-    rovą l9 , o Treniota — Naugarduką, ir valdė tuos mies­
-    tus daugelį metų !0 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-170297
@@ -131,14 +69,14 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didysis kunigaikštis Skirmantas, surinkęs visas sa­
-    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
+    vo kariaunas, pasitiko juos Kaidanove l0, prie savo sie­
     nos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
     galybę, ir nukovė patį chaną ", Su didžios pergalės
     šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
-    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
+    Černigovo, Starodubo l3, Karačevo M miestus, ir, laimė­
     jęs pergalę, be nuostolių pargrįžo atgalios.
     Turėjo didysis kunigaikštis Skirmantas tris sūnus:
-    vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
+    vieną Treniotą IS, antrą Liubartą l6, trečią Pisimantą l7.
   citata_rodoma: "Su didžios pergalės \nšlove nužygiavo Rusų žemėn ir paėmė Mozyriaus \nČernigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­\njęs pergalę, be nuostolių pargrįžo atgalios."
   statusas: verified
   teiginio_tipas: faktas
@@ -149,24 +87,6 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
     - t-187580
     - t-194027
 
-- id: c-170298
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    O paskui didysis kunigaikštis Skirmantas pasimirė.
-    Liubartas sėdo valdyti Karačevą 1 8  ir ėmė tituluotis
-    Karačevo kunigaikščiu, o Pisimantas sėdo valdyti Tu-
-    rovą l9 , o Treniota — Naugarduką, ir valdė tuos mies­
-    tus daugelį metų !0 .
-  citata_rodoma: "Liubartas sėdo valdyti Karačevą 1 8  ir ėmė tituluotis \nKaračevo kunigaikščiu, o Pisimantas sėdo valdyti Tu- \nrovą l9 , o Treniota — Naugarduką, ir valdė tuos mies­\ntus daugelį metų !0 ."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187230
-    - t-187232
-
 ## Ryšiai
+- Buvo valdoma: [[objektai/asmenys/Liubartas]]
 - Užėmė Karačevą: [[objektai/asmenys/Skirmantas]]

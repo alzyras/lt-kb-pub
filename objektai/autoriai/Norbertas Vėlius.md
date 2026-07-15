@@ -13,15 +13,15 @@ aliases:
   - 'objektai/autoriai/Vėlius N'
 variantai:
   - 'Vėlius N'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - redaktorius
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -81,7 +81,6 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - susijęs iš Vytauto Berenio ir Norberto Vėliaus įvadiniai straipsniai Teodoro Narbuto LTI leidinyje: Įvadiniuose straipsniuose Vytautas Berenis ir Norbertas Vėlius išsamiai aptarė „Lietuvių mitologijai“ tekusią mokslinę kritiką.
 - susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187827|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -111,76 +110,38 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
     - t-003
     - t-001
 
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    202 D. prophetissa — tai burtininkė, žynė, padedanti žmonėms; gydanti žmones
-    ar galvijus, spėjanti ateitį ir pan. J. Bretkūno ir M. Daukšos postilėse (1591 ir 1599)
-    rašoma, kad žmonės sveikatos prašyti eina prie žynių. XVII a. 1-oje pusėje Įsrutiės ir
-    kitose lietuviškose Rytprūsių apylinkėse buvę daug burtininkų (tiek vyrų, tiek moterų),
-    pas kuriuos žmonės miniomis plūsdavę (Vėlius N., Mitinės..., p. 233—252).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų gimine (Vėlius N., Senovės baltų..., p. 226—229), ši tradicija, atrodo, išliko ir vėliau, tačiau kunigaikščių-vadų ir žynių funkcijos vis labiau diferencijavosi.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų
-    gimine (Vėlius N., Senovės baltų..., p. 226—229), ši tradicija, atrodo, išliko ir vėliau,
-    tačiau kunigaikščių-vadų ir žynių funkcijos vis labiau diferencijavosi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-170750
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 3"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 3."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Wilno, naktadem i drukiem
-    A. Marcinowskicgo, 1835.
-    R edaktorių kolegija:
-    E. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,
-    A. TYLA] N. VĖLIUS,! V. VISOCKAS
-    Dailininkas ALFONSAS ŽVILIUS
-    Iš lenkų ir lotynų kalbų vertė RIMANTAS JASAS
-    Specialioji redaktorė REDA GRIŠKAITĖ
-    ISBN 5-417-00765-Х
-    ISBN 5-417-00766-8
-    Vertimas, Rimantas Jasas, 1992, 1998
-    Įvedamasis straipsnis,
-    Vytautas Berenis, 1992, 1998
-    Įvedamasis straipsnis,
-    Norbertas Vėlius, 1992, 1998
-    Įvedamasis straipsnis, paaiškinimai,
-    papildymų vertimas, Reda Griškaitė,
+    Įsigalėjęs neigia­
+    mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
+    socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
+    ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
+    Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata
+    trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie­
+    tuvos palikimą. Juk Lietuvos istorija - tai ne vien pagoniškas
+    tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
+    jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
+    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
+    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
+    tūrinio paveldo arealas.
   citata_rodoma: "Wilno, naktadem i drukiem\nA. Marcinowskicgo, 1835.\nR edaktorių kolegija:\nE. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,\nA. TYLA] N. VĖLIUS,! V. VISOCKAS\nDailininkas ALFONSAS ŽVILIUS\nIš lenkų ir lotynų kalbų vertė RIMANTAS JASAS\nSpecialioji redaktorė REDA GRIŠKAITĖ\nISBN 5-417-00765-Х\nISBN 5-417-00766-8\nVertimas, Rimantas Jasas, 1992, 1998\nĮvedamasis straipsnis,\nVytautas Berenis, 1992, 1998\nĮvedamasis straipsnis,\nNorbertas Vėlius, 1992, 1998\nĮvedamasis straipsnis, paaiškinimai,\npapildymų vertimas, Reda Griškaitė,"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188052
     - t-188050
+    - t-188052
 
 - id: c-171065
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 63"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     202 D. prophetissa — tai burtininkė, žynė, padedanti žmonėms; gydanti žmones
     ar galvijus, spėjanti ateitį ir pan. J. Bretkūno ir M. Daukšos postilėse (1591 ir 1599)
@@ -198,8 +159,7 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - id: c-176939
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 67"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų
     gimine (Vėlius N., Senovės baltų..., p. 226—229), ši tradicija, atrodo, išliko ir vėliau,

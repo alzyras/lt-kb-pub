@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1433 m. Boleslovas Švitrigaila padalijo kariuomenę į tris voras; viena įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo. Lietuvos isto rija P odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i m o.
+1433 m. Boleslovas Švitrigaila padalijo kariuomenę į tris voras; viena įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo. Kojelavičius vaizduoja, kad Švitrigaila Rusioje rengėsi karui prieš Lietuvą, o Žygimanto priešininkai traukė į jo pusę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -57,62 +57,9 @@ Nenurodyta
 <a id="claim-t-193366"></a>
 - t-002
   global_id: t-193366
-  teiginys: "Lietuvos isto rija P odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i m o."
+  teiginys: "Kojelavičius vaizduoja, kad Švitrigaila Rusioje rengėsi karui prieš Lietuvą, o Žygimanto priešininkai traukė į jo pusę."
   pagrindžia:
     - c-176093
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1433 m. Boleslovas Švitrigaila padalijo kariuomenę į tris voras; viena įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Lenkų kariuomenės vadai tuo metu buvo įsi­
-    vėlę į naują karą su Prūsija, Štai todėl Boleslovas ir
-    išsirengė į žygį padalijęs kariuomenę trimis žygio vo­
-    romis: su viena pats įsiveržė į senąsias Lietuvos žemes
-    ir jas nuniokojo. Jo karve-
-    N e b a u d žia m i siau bia
-    džiai ir šalininkai Kaributai-
-    L ie tu v o s že m e s
-    tis, Ostrogiškis, Nosis su ki­
-    tomis dviem voromis siautėjo
-    449
-    15. Lietuvos isto rija
-
-    ## Puslapis 448
-
-    P odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i­
-    m o.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvos isto rija P odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i m o.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Lietuvos isto rija
-
-    ## Puslapis 448
-
-    P odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i­
-    m o. Ž ygim antas, n esu lau k d am as iš len k ų  pag alb o s ir
-    p ag rįstai ab ejo d am as lietu v ių  d idikų ištikim ybe, n e išd rį­
-    so p ats ro d y tis k ariu o m en ėje, o p ask y rė k arv ed žiu  P etrą
-    M an tgirdaitį. Tas, p aro d ęs n e p a p ra stą  drąsą, įsitrau k ė į
-    n ea p g alv o tas k a u ty n e s ir p ra rad o  k ariu o m en ę, p a d a ry ­
-    dam as Ž ygim anto p ad ėtį b ev e ik  b eviltišk ą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -121,23 +68,21 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Lenkų kariuomenės vadai tuo metu buvo įsi­
-    vėlę į naują karą su Prūsija, Štai todėl Boleslovas ir
-    išsirengė į žygį padalijęs kariuomenę trimis žygio vo­
-    romis: su viena pats įsiveržė į senąsias Lietuvos žemes
-    ir jas nuniokojo. Jo karve-
-    N e b a u d žia m i siau bia
-    džiai ir šalininkai Kaributai-
-    L ie tu v o s že m e s
-    tis, Ostrogiškis, Nosis su ki­
-    tomis dviem voromis siautėjo
-    449
-    15. Lietuvos isto rija
-
-    ## Puslapis 448
-
-    P odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i­
-    m o.
+    Be to, suteikė viso­
+    keriopų privilegijų rusams,
+    kurie neišsižada Romos popiežiaus ir išpažįsta krikš­
+    čionių tikėjimą pagal graikų apeigas.
+    Sulaukęs pagaliau ramy-
+    1433 m e ta i
+    bės, nes žiemą Žygimantas jo
+    nebepuldinėjo, Boleslovas ke­
+    tino Rusioje atkurti savo karinę galybę, o pavasarį, su­
+    telkus daug didesnę kariuomenę, dar kartą išmėginti lai­
+    mę. Būriais traukė pas Boleslovą neseniai nužudytų
+    didikų bičiuliai, giminaičiai ir valstiečiai: visi nekentė
+    Žygimanto, neseniai išžudžiusio didikus, o neapykantą
+    dar labiau kurstė šio tiesiog neįtikimas godumas.
+  citata_rodoma: "Lenkų kariuomenės vadai tuo metu buvo įsi­\nvėlę į naują karą su Prūsija, Štai todėl Boleslovas ir\nišsirengė į žygį padalijęs kariuomenę trimis žygio vo­\nromis: su viena pats įsiveržė į senąsias Lietuvos žemes\nir jas nuniokojo. Jo karve-\nN e b a u d žia m i siau bia\ndžiai ir šalininkai Kaributai-\nL ie tu v o s že m e s\ntis, Ostrogiškis, Nosis su ki­\ntomis dviem voromis siautėjo\n449\n15. Lietuvos isto rija\n\n## Puslapis 448\n\nP odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i­\nm o."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -150,17 +95,23 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Lietuvos isto rija
-
-    ## Puslapis 448
-
-    P odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i­
-    m o. Ž ygim antas, n esu lau k d am as iš len k ų  pag alb o s ir
-    p ag rįstai ab ejo d am as lietu v ių  d idikų ištikim ybe, n e išd rį­
-    so p ats ro d y tis k ariu o m en ėje, o p ask y rė k arv ed žiu  P etrą
-    M an tgirdaitį. Tas, p aro d ęs n e p a p ra stą  drąsą, įsitrau k ė į
-    n ea p g alv o tas k a u ty n e s ir p ra rad o  k ariu o m en ę, p a d a ry ­
-    dam as Ž ygim anto p ad ėtį b ev e ik  b eviltišk ą.
+    Būriais traukė pas Boleslovą neseniai nužudytų
+    didikų bičiuliai, giminaičiai ir valstiečiai: visi nekentė
+    Žygimanto, neseniai išžudžiusio didikus, o neapykantą
+    dar labiau kurstė šio tiesiog neįtikimas godumas. Tiesa,
+    vienas kitas dar nedrįso atvi-
+    Š v itrig a ila
+    R u sio je
+    rai pereiti į Boleslovo pusę,
+    re n g ia si k a ru i p rieš
+    bet vis dėlto ir jie nusigręžė
+    L ietu vą
+    nuo Žygimanto, aiškių aiš­
+    kiausiai ketindami nieku būdu
+    neginti savo valdovo, o iš tolo stebėti jo pralaimėjimą.
+    Tuo metu nei Žygimantas galėjo tikėtis lenkų pagal­
+    bos, nei Boleslovas — jos baimintis.
+  citata_rodoma: "Lietuvos isto rija\n\n## Puslapis 448\n\nP odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i­\nm o. Ž ygim antas, n esu lau k d am as iš len k ų  pag alb o s ir\np ag rįstai ab ejo d am as lietu v ių  d idikų ištikim ybe, n e išd rį­\nso p ats ro d y tis k ariu o m en ėje, o p ask y rė k arv ed žiu  P etrą\nM an tgirdaitį. Tas, p aro d ęs n e p a p ra stą  drąsą, įsitrau k ė į\nn ea p g alv o tas k a u ty n e s ir p ra rad o  k ariu o m en ę, p a d a ry ­\ndam as Ž ygim anto p ad ėtį b ev e ik  b eviltišk ą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

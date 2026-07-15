@@ -58,30 +58,6 @@ media_all_json: |-
   teiginys: "Antano Baranausko žodžiai apie pasaulio mokslus lietuviams vadinami civilizuotos, aukštąją kultūrą turinčios tautos vizija."
   pagrindžia:
     - c-26743
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Baudžiavos sąlygomis į lietuvių liaudį orientuotas tautinis kultūri-
-    nis sąjūdis negalėjo išeiti į krašto visuomeninio kultūrinio ir politinio
-    gyvenimo avansceną. Tačiau antros šio sąjūdžio kartos atstovas, aukš-
-    taitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatū-
-    ros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas
-    (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu;
-    / Viso svieto raštus, knygas lietuviškan versiu. / Lietuvnykai žmonės bus
-    visi galvočiais, / Visam svietui visuos moksluos eis kelio vedžiotų.“ Tai
-    civilizuotos, savo aukštąją kultūrą turinčios tautos vizija. Bet idealisti-
-    nė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 

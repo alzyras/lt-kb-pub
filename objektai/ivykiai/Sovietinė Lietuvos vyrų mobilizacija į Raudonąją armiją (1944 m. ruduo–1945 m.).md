@@ -58,23 +58,6 @@ Nenurodyta
   teiginys: "Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai vengė tarnybos Raudonojoje armijoje, nes Lietuvą laikė okupuota."
   pagrindžia:
     - c-23222
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pradėjęs mobilizaciją į SSRS kariuomenę, sovietų režimas nustebo,
-    kad lietuviai vengia tarnybos Raudonojoje armijoje, mat Lietuvos gyven-
-    tojai laikė savo šalį okupuota, kurioje SSRS negalėjo vykdyti vyrų mobi-
-    lizacijos į Raudonąją armiją ir pažeisti tarptautinę teisę (1907 m. priimtą
-    Hagos konvenciją).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

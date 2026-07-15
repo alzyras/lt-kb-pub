@@ -9,13 +9,13 @@ datos:
   - '1984 m.'
 date_start: '1201'
 date_end: '1984'
+amziai:
+  - 'XIII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIII'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,8 +43,8 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
   teiginys: "S. Samalavičiaus ir S. Ambramausko straipsnis „Naujas XIII a. šaltinis apie baltus“ paskelbtas „Kultūros baruose“ 1984 m., Nr. 6."
   pagrindžia:
     - c-61912
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'S. Samalavičiaus ir S. Ambramausko straipsnis „Naujas XIII a. šaltinis apie baltus“ paskelbtas „Kultūros baruose“ 1984 m., Nr. 6.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -64,11 +64,12 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
 - id: c-61912
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    6, p. 173—314.
     Samalavičius S., Ambramauskas S. Naujas XIII a. šaltinis apie baltus.— Kultūros
     barai, 1984, Nr. 6, p. 62—64.
+  citata_rodoma: "Samalavičius S., Ambramauskas S. Naujas XIII a. šaltinis apie baltus.— Kultūros\nbarai, 1984, Nr. 6, p. 62—64."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

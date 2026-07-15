@@ -46,6 +46,7 @@ media_all_json: |-
   teiginys: "Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus."
   pagrindžia:
     - c-42707
+    - c-167047
 
 <a id="claim-t-65305"></a>
 - t-002
@@ -81,13 +82,6 @@ media_all_json: |-
   teiginys: "Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus."
   pagrindžia:
     - c-42706
-
-<a id="claim-t-183655"></a>
-- t-007
-  global_id: t-183655
-  teiginys: "Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus."
-  pagrindžia:
-    - c-167047
 - susijęs iš Vilnius: 1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.
 - susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
 - susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
@@ -131,11 +125,10 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-183743|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis faktiškai vadovavo Rusijos kariuomenei, nors oficialiu vadu buvo caras Aleksejus Michailovičius.
 - susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-40211|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis iš tikrųjų vadovavo Rusijos kariuomenei kare su Lenkijos-Lietuvos valstybe.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79042|Jonas Karolis Katkevičius]]: 1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.
-- susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184757|Konstantinas Ostrogiškis]]: Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.
+- susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184757|Konstantinas Ostrogiškis]]: Po karo su Maskva karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.
 - susijęs iš [[objektai/asmenys/M. Frankovskis.md#claim-t-39778|M. Frankovskis]]: Gen. mjr. M. Frankovskis vadovavo lietuvių įtvirtinimams tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113985|Steponas Batoras]]: Steponas Batoras buvo sudaręs 500 raitelių vėliavą.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113996|Steponas Batoras]]: Po Stepono Batoro kampanijų Didieji Lukai, Zavoločė, Sebežas, Nevelis ir Voronežas buvo sugrąžinti Rusijai.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96104|Gediminaičių dinastija]]: Po Gediminaičių dinastijos išmirimo 1572 m. abiejų tautų politinė istorija vystėsi bendroje respublikoje.
 - susijęs iš [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas.md#claim-t-78198|Leibgvardijos Voluinės pėstininkų pulkas]]: Leibgvardijos Voluinės pėstininkų pulkas sudarė kautynėms paruoštos Rusijos kariuomenės pagrindo dalį.
 - susijęs iš [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas.md#claim-t-78199|Leibgvardijos Voluinės pėstininkų pulkas]]: Leibgvardijos Voluinės pėstininkų pulkas buvo įtrauktas į kautynėms paruoštos Rusijos kariuomenės pagrindą.
 - susijęs iš [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas.md#claim-t-78196|Leibgvardijos lietuviškasis pėstininkų pulkas]]: Leibgvardijos lietuviškojo pėstininkų pulko atsarginės dalys buvo prie Vilniaus, o pagrindinė dalis slopino sukilimą Lenkijoje.
@@ -191,147 +184,6 @@ media_all_json: |-
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187925|A. Vijūkas Kojelavičius]]: Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187930|A. Vijūkas Kojelavičius]]: Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.
 - susijęs iš Dniestras: Totoriai per Dniestrą drįsdavo keltis tik surinkę dideles pajėgas, nes bijojo kazokų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Du įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo for-
-    mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
-    kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-
-    kę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-
-    rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į
-    kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos
-    kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.
-    Žiemą Lietuvos kaimas daug kur buvo perėjęs į vietos žmonių rankas.
-    Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-
-    zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  santrauka: 'Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šiame sparne buvo sutelktos įvairios
-    kavalerijos rūšys. Šio sparno jėga - reitarų
-    sutelkta ugnis, husarų geležinis smūgis,
-    Lietuvos totorių ir kazokų manevringumas
-    persekiojant bėgantį priešą. Sparno užda-
-    vinys - apeiti priešininko dešinįjį sparną,
-    nustumti jį nuo Dauguvos kranto ir bendro-
-    mis jėgomis su visa Lietuvos kariuomene
-    nublokšti švedus į šiaurėje esantį pelkėtą
-    mišką ir ten juos sunaikinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pirmiausiai janičarai (turkų pėstininkai),
-    o po to ir turkų kavalerija atakavo atski-
-    rai įsikūrusių Ukrainos kazokų stovyklą.
-    Neatlaikę puolimo, kazokai ėmė trauk-
-    tis. LDK didysis etmonas pasiuntė ke-
-    letą lengvosios kavalerijos - „lisovčikų“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-005
-  santrauka: 'Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gynybos linija prie Chocino buvo taip
-    įrengta, kad priešas negalėtų jos apeiti,
-    o jungtinės kariuomenės dalinių flanginė
-
-    „Toliau - lengvoji raitija, šios šalies kalba vadinama kazokais. Šie irgi yra bajorai ir
-    kaip husarai tarnauja vėliavose. Jų ginkluotę sudaro arba grandijų [žieduočio] marški-
-    niai, arba rankas iki pusės dengiantys grandijai. Šalia to jie dar dėvi geležines pirštines,
-    o galvą dengia šalmas iš žiedų (tokių pat kaip ant kūno), lenkiškai vadinamas misiurka.
-    Kazokų arkliai turi būti ištvermingi, greiti ir miklūs. Jų ginklai - lankai, strėlės ir pistole-
-    tai. Kazokų paskirtis - paremti husarus, šiems einant į mūšį, ir baigiant naikinti husarų
-    sumuštus eskadronus.“
-
-    1621 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-006
-  santrauka: 'Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Bėgantį priešą pradėjo vytis ir
-    kazokai, kurie, įsiveržę į turkų ar-
-    tilerijos baterijų pozicijas, išžudė
-    jų tarnybas ir sugadino pabūk-
-    lus. Taip pat jie buvo įsiveržę ir į
-    turkų stovyklą. Temstant jungti-
-
-    nių pajėgų vadas liepė grįžti į savas | 4 rf
-    pozicijas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-007
-  santrauka: 'Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Staigus puolimas
-    sukėlė paniką janičarų gretose.
-    Bėgantį priešą pradėjo vytis ir
-    kazokai, kurie, įsiveržę į turkų ar-
-    tilerijos baterijų pozicijas, išžudė
-    jų tarnybas ir sugadino pabūk-
-    lus. Taip pat jie buvo įsiveržę ir į
-    turkų stovyklą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 ## Citatos
 
 - id: c-22454
@@ -476,8 +328,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183655
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Rusai]], [[objektai/grupes/Rusijos kariuomenė]]

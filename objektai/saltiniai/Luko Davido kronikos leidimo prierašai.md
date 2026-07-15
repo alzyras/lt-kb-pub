@@ -35,8 +35,8 @@ Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Hen
   teiginys: "Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Henningo leidinio I tomo 158 puslapiu."
   pagrindžia:
     - c-174674
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Henningo leidinio I tomo 158 puslapiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -57,12 +57,14 @@ Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Hen
 - id: c-174674
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 266."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B
-    I.
-    S. 158.
+    Sūduva (Sudawia). Pavadinimas kilo iš sudinų gen­
+    ties1. Si provincija buvo labai didelė, turtinga miškų,
+    ežerų ir pelkių, turėjo nemažai gyventojų, paskutiniais
+    savo nepriklausomybės metais galėjo turėti 6000 raitelių
+    ir 8000 pėstininkų.
+  citata_rodoma: "2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B\nI.\nS. 158."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

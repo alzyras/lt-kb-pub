@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 137
+tema_objektu_skaicius: 131
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 137.
+Objektų skaičius: 131.
 
 ## Kaip naudoti
 
@@ -47,18 +47,16 @@ Objektų skaičius: 137.
 - [[objektai/paprociai/Išpažintis per aukojimo apeigas]]
 - [[objektai/paprociai/Jogailos meldimasis ir mišių klausymas prieš kautynes]]
 - [[objektai/paprociai/Jėzuitų kolegijų religinė rutina]]
-- [[objektai/paprociai/Jėzuitų ordino narių raštų cenzūra ir viršininkų aprobata prieš spausdinimą]]
 - [[objektai/paprociai/Jėzuitų viešos religinės kovos praktikos]]
 - [[objektai/paprociai/Karaliaus vainikavimo ir patepimo apeigos pagal ordines]]
 - [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]
-- [Kardinalijos koplyčios pamaldų laikymas](../objektai/paprociai/Kardinalijos%20koply%C4%8Dios%20pamald%C5%B3%20laikymas)
+- [[objektai/paprociai/Kardinalijos koplyčios pamaldų laikymas]]
 - [Kariuomenės klaupimasis prieš nešamą Krivių Krivaitį](../objektai/paprociai/Kariuomen%C4%97s%20klaupimasis%20prie%C5%A1%20ne%C5%A1am%C4%85%20Krivi%C5%B3%20Krivait%C4%AF)
 - [Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų](../objektai/paprociai/Karo%20b%C5%ABrimas%20prie%C5%A1%20%C5%BEyg%C4%AF%20i%C5%A1%20%C5%BEyni%C5%B3%2C%20%C5%BEvalgo%20kraujo%20ir%20%C5%BEal%C4%8Dio%20%C5%BEenkl%C5%B3)
 - [Karo dievo stabo nešimas kariuomenės priešakyje ir laikymas šventykloje](../objektai/paprociai/Karo%20dievo%20stabo%20ne%C5%A1imas%20kariuomen%C4%97s%20prie%C5%A1akyje%20ir%20laikymas%20%C5%A1ventykloje)
 - [Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas](../objektai/paprociai/Kasdienis%20evangelijos%20%E2%80%9EPrad%C5%BEioje%20buvo%20%C5%BEodis%E2%80%9C%20skaitymas%20po%20sumos%20ir%20kl%C5%ABpojimas)
 - [Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis](../objektai/paprociai/Kataliki%C5%A1kos%20ba%C5%BEnytin%C4%97s%20organizacijos%20pl%C4%97timas%20parapijomis%2C%20vienuolijomis%20ir%20ba%C5%BEny%C4%8Diomis)
 - [Kilnojamųjų ugnies šventovių uždangos atvėrimas per aukas](../objektai/paprociai/Kilnojam%C5%B3j%C5%B3%20ugnies%20%C5%A1ventovi%C5%B3%20u%C5%BEdangos%20atv%C4%97rimas%20per%20aukas)
-- [Krikščionių tikėjimo skelbimas viešose ir uždarose vietose](../objektai/paprociai/Krik%C5%A1%C4%8Dioni%C5%B3%20tik%C4%97jimo%20skelbimas%20vie%C5%A1ose%20ir%20u%C5%BEdarose%20vietose)
 - [Kristburgo brolių asketinė drausmė ir kasdienė geležinė grandinė](../objektai/paprociai/Kristburgo%20broli%C5%B3%20asketin%C4%97%20drausm%C4%97%20ir%20kasdien%C4%97%20gele%C5%BEin%C4%97%20grandin%C4%97)
 - [Krivio rinkimas vaidilų ir lazdos atsiuntimas](../objektai/paprociai/Krivio%20rinkimas%20vaidil%C5%B3%20ir%20lazdos%20atsiuntimas)
 - [Krivio valios ir potvarkių klausymas](../objektai/paprociai/Krivio%20valios%20ir%20potvarki%C5%B3%20klausymas)
@@ -94,7 +92,6 @@ Objektų skaičius: 137.
 - [Požemio dievams skirtų aukų užkasimas](../objektai/paprociai/Po%C5%BEemio%20dievams%20skirt%C5%B3%20auk%C5%B3%20u%C5%BEkasimas)
 - [Prakeikimo auka prie aukų ugniakuro](../objektai/paprociai/Prakeikimo%20auka%20prie%20auk%C5%B3%20ugniakuro)
 - [Pranašų patarimo klausimas prieš pradėdami darbus](../objektai/paprociai/Prana%C5%A1%C5%B3%20patarimo%20klausimas%20prie%C5%A1%20prad%C4%97dami%20darbus)
-- [Pranciškonų kvietimas ir vienuolyno steigimas Vilniuje](../objektai/paprociai/Pranci%C5%A1kon%C5%B3%20kvietimas%20ir%20vienuolyno%20steigimas%20Vilniuje)
 - [Protestantų pamaldos lenkiškai](../objektai/paprociai/Protestant%C5%B3%20pamaldos%20lenki%C5%A1kai)
 - [Pušaičio šaukimasis, aukos po alyvų krūmais ir markopolių prašymas dėl kaimiečių](../objektai/paprociai/Pu%C5%A1ai%C4%8Dio%20%C5%A1aukimasis%2C%20aukos%20po%20alyv%C5%B3%20kr%C5%ABmais%20ir%20markopoli%C5%B3%20pra%C5%A1ymas%20d%C4%97l%20kaimie%C4%8Di%C5%B3)
 - [Raganų globojamų medžių nelietimo norma](../objektai/paprociai/Ragan%C5%B3%20globojam%C5%B3%20med%C5%BEi%C5%B3%20nelietimo%20norma)
@@ -113,7 +110,6 @@ Objektų skaičius: 137.
 - [Stojimas į Ordiną kaip šventas sumanymas](../objektai/paprociai/Stojimas%20%C4%AF%20Ordin%C4%85%20kaip%20%C5%A1ventas%20sumanymas)
 - [Sueiga į šventą girią baisios aukos atlikti](../objektai/paprociai/Sueiga%20%C4%AF%20%C5%A1vent%C4%85%20giri%C4%85%20baisios%20aukos%20atlikti)
 - [Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą](../objektai/paprociai/Sukil%C4%97li%C5%B3%20telkimas%20Salose%20per%20ba%C5%BEny%C4%8Dios%20varp%C5%B3%20skambinim%C4%85%20ir%20dvikalb%C4%AF%20pamoksl%C4%85)
-- [Tikėjimo vertimas kaip politinio spaudimo priemonė](../objektai/paprociai/Tik%C4%97jimo%20vertimas%20kaip%20politinio%20spaudimo%20priemon%C4%97)
 - [Upinės moterų brolijos Rasos nakties apeigos](../objektai/paprociai/Upin%C4%97s%20moter%C5%B3%20brolijos%20Rasos%20nakties%20apeigos)
 - [Upinės upelio gydomieji plovimai ir audeklų kabinimas](../objektai/paprociai/Upin%C4%97s%20upelio%20gydomieji%20plovimai%20ir%20audekl%C5%B3%20kabinimas)
 - [Upių šventinimas ir šventovių statymas santakose](../objektai/paprociai/Upi%C5%B3%20%C5%A1ventinimas%20ir%20%C5%A1ventovi%C5%B3%20statymas%20santakose)
@@ -128,7 +124,6 @@ Objektų skaičius: 137.
 - [Valančiaus blaivybės sąjūdis ir blaivybės brolijos](../objektai/paprociai/Valan%C4%8Diaus%20blaivyb%C4%97s%20s%C4%85j%C5%ABdis%20ir%20blaivyb%C4%97s%20brolijos)
 - [Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės](../objektai/paprociai/Valdovi%C5%A1kos%20santuokos%20sudarymas%20pagal%20Romos%20ba%C5%BEny%C4%8Dios%20tvark%C4%85%20ir%20vestuvi%C5%B3%20i%C5%A1kilm%C4%97s)
 - [Valdovo deginimas ant laidotuvių laužo ir atminimo vietos sakralizavimas](../objektai/paprociai/Valdovo%20deginimas%20ant%20laidotuvi%C5%B3%20lau%C5%BEo%20ir%20atminimo%20vietos%20sakralizavimas)
-- [Valdovo pomirtinis kultas su medine statula, Vestos giraite ir amžinąja ugnimi](../objektai/paprociai/Valdovo%20pomirtinis%20kultas%20su%20medine%20statula%2C%20Vestos%20giraite%20ir%20am%C5%BEin%C4%85ja%20ugnimi)
 - [Valdovų deginimo ir laidojimo apeigos Šventaragyje](../objektai/paprociai/Valdov%C5%B3%20deginimo%20ir%20laidojimo%20apeigos%20%C5%A0ventaragyje)
 - [Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje](../objektai/paprociai/Va%C5%A1ko%20%C5%BEvaki%C5%B3%20statymas%20ir%20deginimas%20ketvirtadienio%20vakarais%20Antakalnio%20%C5%A1ventov%C4%97je)
 - [Velionos garbinimo apeigos per laidotuves ir Vėlines](../objektai/paprociai/Velionos%20garbinimo%20apeigos%20per%20laidotuves%20ir%20V%C4%97lines)
@@ -136,7 +131,6 @@ Objektų skaičius: 137.
 - [Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis](../objektai/paprociai/Vernerio%20Ordino%20drausm%C4%97s%20ir%20pamaldumo%20priera%C5%A1%C5%B3%20laikymasis)
 - [Viešas ganytojų ir rusų tautos suvažiavimas religiniams ginčams spręsti](../objektai/paprociai/Vie%C5%A1as%20ganytoj%C5%B3%20ir%20rus%C5%B3%20tautos%20suva%C5%BEiavimas%20religiniams%20gin%C4%8Dams%20spr%C4%99sti)
 - [Viešas krikščionybės priėmimas valdinių prisirišimui ir sąjungininkų palankumui pelnyti](../objektai/paprociai/Vie%C5%A1as%20krik%C5%A1%C4%8Dionyb%C4%97s%20pri%C4%97mimas%20valdini%C5%B3%20prisiri%C5%A1imui%20ir%20s%C4%85junginink%C5%B3%20palankumui%20pelnyti)
-- [Viešas valdovo krikštas ir karūnavimas pagal įprastas apeigas (krikštas)](../objektai/paprociai/Vie%C5%A1as%20valdovo%20krik%C5%A1tas%20ir%20kar%C5%ABnavimas%20pagal%20%C4%AFprastas%20apeigas)
 - [Viešasis ir namų svetingumas Numėjo ir Peskijos globoje](../objektai/paprociai/Vie%C5%A1asis%20ir%20nam%C5%B3%20svetingumas%20Num%C4%97jo%20ir%20Peskijos%20globoje)
 - [Vieši susiėjimai įprastose šventose vietose su giesmėmis, pasakojimais ir sakmėmis](../objektai/paprociai/Vie%C5%A1i%20susi%C4%97jimai%20%C4%AFprastose%20%C5%A1ventose%20vietose%20su%20giesm%C4%97mis%2C%20pasakojimais%20ir%20sakm%C4%97mis)
 - [Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų](../objektai/paprociai/Vilniaus%20gyventoj%C5%B3%20krik%C5%A1tijimas%20ir%20balt%C5%B3%20linini%C5%B3%20mar%C5%A1kini%C5%B3%20dalijimas%20po%20apeig%C5%B3)

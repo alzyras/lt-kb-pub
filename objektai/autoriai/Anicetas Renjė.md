@@ -42,39 +42,13 @@ media_all_json: |-
   teiginys: "(Medicinos daktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos dalykus."
   pagrindžia:
     - c-177237
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '(Medicinos daktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos dalykus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Toji šventykla turėjo būti su kariniais
-    įtvirtinimais, nes senoviniuose XVI amžiaus dokumentuose mi­
-    nima senovinė piliavietė ir būtent šioje vietoje kadaise stovėję
-    16 Ponas Rumbovičius, Vilniaus gimnazijos matematikos mokyto­
-    jas, pasakojo, kad ponas Podčašinskis, buvusio Universiteto architek­
-    tūros profesorius, apžiūrinėdamas Vilniaus katedros varpinę, pastebėjo
-    ant plytų ten, kur baigiasi jos netaisyklingoji dalis, kažkokius antspau­
-    dus ir ženklus, kuriuos parodė Leleveliui. Tik neaišku, koks buvo rezul­
-    tatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos? (Medicinos
-    daktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį
-    pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos
-    dalykus*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 272."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Toji šventykla turėjo būti su kariniais
     įtvirtinimais, nes senoviniuose XVI amžiaus dokumentuose mi­

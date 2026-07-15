@@ -70,57 +70,6 @@ Nenurodyta
   teiginys: "Tas pašėlęs lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda vo."
   pagrindžia:
     - c-176797
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1375 m. Vinrichas į Lietuvą vedė Prancūzijos ir Vokietijos baronus bei riterius, sutelktus stoti po kryžiaus ženklu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    30
-
-    ## Puslapis 47
-
-    I  KNYGA
-    degindamas ir siaubdamas miesto apylinkės22. Kita ekspe­
-    dicija iš Prūsijos 1375 metais irgi buvo sukėlusi Vilniui pa­
-    našią grėsmę. Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
-    tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos
-    bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­
-    binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių
-    polaidžio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Tas pašėlęs lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda vo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau mūšio metu į me­
-    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
-    per kurį didelę Vilniaus dalį pasiglemžė ugnis. Tas pašėlęs
-    lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas­
-    metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim­
-    tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių
-    netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda­
-    vo Kernavę, bet lemtinga Jogailos ir Skirgailos pergalė prieš
-    Ragainės komtūrą, laimėta tarp Vilniaus ir Ukmergės, ir vi­
-    siškas pastarojo kariaunos sunaikinimas tąkart apsaugojo
-    sostinę nuo puolimo. Tuo metu pakitusi kaimyninės Lenki­
-    jos padėtis, nauji Jogailos politikos užmojai ilgam įžiebė Prū­
-    sijos kerštą ir Lietuvai bei Vilniui grėsė neapsakomomis ne­
-    gandomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

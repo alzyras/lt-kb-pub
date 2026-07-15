@@ -10,6 +10,11 @@ datos:
   - '1009 m.'
 date_start: '1000'
 date_end: '1009'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'X'
+  - 'XI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,11 +22,6 @@ tags:
   - karalius
   - kunigaikštis
   - mokslininkas
-amziai:
-  - 'X'
-  - 'XI'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -84,66 +84,15 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   teiginys: "Tacitas žinojo apie šią žynių klasę, kadangi juos vadina miesto žyniais ."
   pagrindžia:
     - c-177118
+
+<a id="claim-t-197820"></a>
+- t-007
+  global_id: t-197820
+  teiginys: "Tacitas niekam nerūpimas gulėjo kartu su kitomis jūros išmetamomis šiukšlėmis, kol mūsų supratimas nepakėlė jo reikšmės."
+  pagrindžia:
+    - c-179353
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Nuo Tacito aisčių paminėjimo iki Lietuvos vardo pasirodymo praėjo beveik tūkstantis metų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
-    krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-    Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės
-    laukti Lietuvos vardo. Tačiau šimtmetį ieškojęs pagoniškos baltų Atlan-
-    tidos mokslas taip ir nerado.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Tacitas rašė, kad roksolanai, sarmatų gentis, nugalėję dvi romėnų kohortas, dideliu būriu įsiveržė į Meziją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat teisinga nuomonė, jog alanai, gy­
-    venę prie šių šakų, buvo vadinami Rhox-alanais arba, anot
-    mūsų rašybos, roksolanais. Tacitas rašo: „Roksolanai,
-    sarmatą gentis, nugalėję dvi kohortas (romėnų), dideliu
-    būriu įsiveržė į Meziją“1. Tai įvyko 72 mūsų eros metais,
-    taigi dar iki tos epochos jie pasitraukė nuo Volgos ir
-    veržėsi už Dunojaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas nurodo, kad Tacitas I a. pabaigoje, aprašęs germanus ir svebus, perėjo prie Prūsijos pakrančių ir paminėjo estus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Matyt, priežastis yra ta, kad
-    tuomet nebuvo jokios tautos, su kuria tiesiogiai galima
-    būtų sieti šį pavadinimą. Tik Tacitas, rašęs I mūsų eros
-    amžiaus pabaigoje, paminėjęs germanų gyvenamąsias vie­
-    tas, jų kartas ir papročius ir baigdamas savo aprašymus
-    galinga svebų tautos karta, kuri gyveno šiauriausiuose
-    germanų kraštuose, galop pereina prie Prūsijos pakran­
-    čių ir prisimena estus. 2inių apie šį pavadinimą jis tur­
-    būt turėjo iš germanų, kurie visuomet taip gotiškai vadi­
-    no šiuos kraštus ir žmones.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Narbutas rašo, kad Tacitas 46 skyriuje venedus laikė nepriklausančiais nei sarmatams, nei germanams ir turėjusiais daug žemių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -224,8 +173,7 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 - id: c-173857
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 67"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 67."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat teisinga nuomonė, jog alanai, gy­
     venę prie šių šakų, buvo vadinami Rhox-alanais arba, anot
@@ -244,8 +192,7 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 - id: c-173858
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 89"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Matyt, priežastis yra ta, kad
     tuomet nebuvo jokios tautos, su kuria tiesiogiai galima
@@ -267,19 +214,24 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 - id: c-173859
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 98."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tad atleiskime
-    senovės autoriams, kurių geografinių žinių gavimo gali­
-    mybės buvo labiau ribotos negu mūsų; jos pražuvo, mums
-    liko vien spausdintos Plinijaus ištraukos arba kitų geog­
-    rafų traktatų fragmentai. Siek tiek labiau venedų reika­
-    lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
-    klauso nei sarmatams, nei germanams, turi daug žemių,
-    vakaruose teka Vysla; jų kaimynai — estai bei gitonai
-    (§§ 66—80), šiaurėje — finai, pietuose — peucinai, o
-    rytuose yra nežinomos sritys.
+    Sis aprašymas ap­
+    ima plačius ir labai didžiulius kraštus. Žymusis mūsų
+    senovės tyrinėtojas ponas Suroveckis2 labai gerai aiškina,
+    kad šiose venedų srityse lokalizuoja senų senovės slavų
+    gyvenamąsias vielas, aprašinėdamas ribas kraštų, kur
+    šen bei ten esti slavų valstiečių, kolonijų. Pasak jo, šio
+    venedų krašto ribos buvusios tokios: „Pradedant nuo Vys­
+    los, išilgai estų kraštų, per šiandienį Nemuną (viduryje,
+    kiek žemiau Gardino), Žemaitiją, Livoniją, Estiją (Gu­
+    diją) net iki rytinio Baltijos pakraščio (Suomių įlanką);
+    iš ten pro Volgos ir Dnepro versmes iki Pripetės žiočių,
+    toliau išilgai šios upės iki jos versmių, per dalį Polesės ir
+    Voluinės, per Dnestro aukštupį net ligi Tatrų ir Vyslos,
+    kuri nuo tada buvo vakarų siena, skirianti juos nuo ger­
+    1 De Mor.
+  citata_rodoma: "Tad atleiskime\nsenovės autoriams, kurių geografinių žinių gavimo gali­\nmybės buvo labiau ribotos negu mūsų; jos pražuvo, mums\nliko vien spausdintos Plinijaus ištraukos arba kitų geog­\nrafų traktatų fragmentai. Siek tiek labiau venedų reika­\nlus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­\nklauso nei sarmatams, nei germanams, turi daug žemių,\nvakaruose teka Vysla; jų kaimynai — estai bei gitonai\n(§§ 66—80), šiaurėje — finai, pietuose — peucinai, o\nrytuose yra nežinomos sritys."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -290,16 +242,21 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 - id: c-173860
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 111"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 111."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Plinijus teigia, kad jazigai gyveno prie Tisos
-    upės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria
-    jų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­
-    ringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­
-    do, kad jie kariavo su svevų karaliaus Vanijaus Vanino
-    vėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus
-    metu kovėsi romėnų gretose.
+    Ptolemėjas,
+    vardydamas mūsų šiaurinėse šalyse gyvenusias gentis ir
+    tautas, šalia igilionų, kostobokų, kurių valdos turėtų būti
+    Polesėje prie Bugo, būtent ten, kur mūsų istorijos pra­
+    džioje buvęs jotvingių kraštas. Jei senovės geografas sė­
+    mėsi žinių, kaip dera manyti, iš tyro šaltinio, iš jam sla­
+    vų pateiktų padavimų, be to, slaviškų pavadinimų, kurie
+    slavų kalba reiškia daugiadievius, Czestobohi. Gal todėl,
+    kad jotvingiai laikėsi lietuvių, kurie garbino nesuskai­
+    čiuojamą daugybę dievų, religinių tradicijų; slavai šia
+    prasme taip nedarė, nes, nors slavų mitologijoje buvo
+    nemažai dievų, jiems lenkėsi ne visos gentys.
+  citata_rodoma: "Plinijus teigia, kad jazigai gyveno prie Tisos\nupės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria\njų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­\nringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­\ndo, kad jie kariavo su svevų karaliaus Vanijaus Vanino\nvėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus\nmetu kovėsi romėnų gretose."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -310,17 +267,54 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 - id: c-177118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 290"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tacitas žinojo apie šią žynių klasę, kadangi juos vadina
-    miesto žyniais . Bet jo laikais dar nebuvo bendrų vyriausiųjų
-    žynių, kurie prasideda nuo Vaidevučio, tai yra nuo krikščio­
-    niškos eros šeštojo amžiaus pradžios. 15
-    15 Czacki.
+    Jų privilegija buvo atnašauti kasdienes aukas kiek­
+    vienoje vietoje, kiekvienam dievui atskirai arba visiems drau­
+    ge. Prūsijos kronikininkai išvardija tokias vaidilų pareigas :
+    atnašauti dievams aukas, mokyti liaudį tikėjimo ir priklausan­
+    čių jam dalykų; šviesti žmones, mokant, kaip jie pagal dievų
+    įsakymus privalo elgtis laikinajame gyvenime; melstis, idant
+    permaldautų dievus, o tuo tikslu per naktinius pasirodymus
+    maloniai aiškinti žyniams savo valią; laiminti žmones ir linkėti
+    jiems visokeriopos gerovės; pagaliau abejotinais atvejais arba
+    jeigu nutikdavo kokia nelaimė, padėti nelaimingajam ir nura­
+    minti jį apreiškus dievų valią. Svarbiausios jų funkcijos buvo
+    tokios: privalėjo uoliai stebėti saulės ir mėnulio judėjimą, idant
+    galėtų prideramai suskirstyti laiką ir pažymėti švenčių dienas,
+    suskirstyti metų laikus pagal žemės darbus ir iš anksto praneš-
+    ti juos ateinant ; šaukti ir suburti į krūvą žmones, jeigu jam
+    reikėdavo paskelbti kokius nors dalykus dievų vardu.
+  citata_rodoma: "Tacitas žinojo apie šią žynių klasę, kadangi juos vadina\nmiesto žyniais . Bet jo laikais dar nebuvo bendrų vyriausiųjų\nžynių, kurie prasideda nuo Vaidevučio, tai yra nuo krikščio­\nniškos eros šeštojo amžiaus pradžios. 15\n15 Czacki."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194722
+
+- id: c-179353
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Atvirkščiai, jis niekam ne­
+    rūpimas gulėjo kartu su kitomis jūros išmetamomis šiukš­
+    lėmis, kol mūsų supratimas nepakėlė jo reikšmės. Sau
+    beveik be jokios naudos renka natūralaus pavidalo, par­
+    duoda neapdorotą, net stebisi imdami už jį užmokestį. O
+    kad tai yra medžių sakai, galima pažinti iš to, kad jame
+    dažnai randama kai kurių žemės ir net skraidančių gyvū­
+    nų, kurie, pirmiausia apipilti skysčiu ir jam sukietėjus,
+    užsidarė. Taip pat manyčiau, kad tiek Rytų kraštuose,
+    tiek ir Vakarų sausumoje ir salose yra daug miškų ir šilų,
+    kur iš medžių sunkiasi smilkalai ir balzamas, kurie, pri-
+    artėjusios saulės spindulių išspausti ir paversti skysčiu,
+    patenka į netolimą jūrą ir audros išmetami į priešingą
+    pakrantę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197820

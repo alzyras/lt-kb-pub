@@ -79,6 +79,7 @@ Nenurodyta
   teiginys: "Neatėjęs rytą ražončiaus giedoti galėjo būti apkaltintas tinginyste ir išstumtas iš grįčios."
   pagrindžia:
     - c-177810
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

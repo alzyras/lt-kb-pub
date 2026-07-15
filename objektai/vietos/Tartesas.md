@@ -45,7 +45,6 @@ Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Gali
 - susijęs iš [[objektai/grupes/Finikiečiai.md#claim-t-192380|Finikiečiai]]: Narbutas aprašo finikiečių koloniją Gadirą už Heraklio stulpų kaip vietą, kur Viduržemio jūros laivai prekiavo su Okeano pakrančių gyventojais.
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Galijos krantų, o iš ten per Galiją gabentos į Masiliją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -70,16 +69,23 @@ Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Gali
 - id: c-175673
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 166"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Siaurės sagose daug žinių apie
-    jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais
-    žygiais. Taip mūsų kraštų prekės lengvai patekdavo arba
-    į Tartesą, arba prie Galijos krantų, o per Galiją arkliais
-    50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,
-    kaip įgalima numanyti, buvo patogesnis už jūros kelią,
-    kuris ėjo pro šv.
+    Prūsų istoriko3 aprašytas sausumos kelias buvo toks:
+    jis prasidėjo nuo Pabaltijo teutonų krašto prie Ascaulis,
+    t. y. dabar Oselskas netoli Brombergo, iš Pavyslės ėjo į
+    lygų kraštą pro vietovę, vadinamą Setidawa, t. y. Cidova
+    netoli Gnezno, iš ten per Calissia, Kališą, rytų link į Arse-
+    nium, Maženiną, Seradzo apylinkėse, toliau palei Vartą
+    per būrų valdas į Carthodunum, t. y. Krokuvą4. Čia kelias
+    driekėsi per Vyslą j sidonų ir ¡bastarnų žemes net iki vie­
+    tos, vadinamos Asanea, t. y. Senojo Sondčo, o čia preky­
+    bos kelias suko nuo Asanea į Setuįa, Gzychą, toliau upės
+    Waag kryptimi per Sigone, Sintovą, net iki Catemantia,
+    Comolijano, iš ten į Carnuntum, žinomą romėnų karinę
+    poziciją prie Dunojaus. Pagaliau ten šiaurinės prekės iš
+    barbarų rankų patekdavo pas romėnus5.
+  citata_rodoma: "Siaurės sagose daug žinių apie\njurų keliautojus, nuo senų amžių garsėjusius savo drąsiais\nžygiais. Taip mūsų kraštų prekės lengvai patekdavo arba\nį Tartesą, arba prie Galijos krantų, o per Galiją arkliais\n50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,\nkaip įgalima numanyti, buvo patogesnis už jūros kelią,\nkuris ėjo pro šv."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

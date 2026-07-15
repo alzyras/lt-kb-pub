@@ -65,52 +65,6 @@ Nenurodyta
   teiginys: "Nepraėjus dviem savaitėms po Ulos mūšio, lietuviai beveik be mūšio sutriuškino B. Serebriano vedamą kariuomenę."
   pagrindžia:
     - c-44897
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Nepraėjus dviem savaitėms, lietu-
-    viai beveik be mūšio sutriuškino ne tokią
-    grėsmingą ir nesulaukusią P. Šuiskio ve-
-    žamų ginklų bei kitų atsargų, B. Sereb-
-    riano vedamą kariuomenę. Nors po mūšio
-
-    Polocko susigrąžinti nepavyko (tai įvyko
-    tik 1579 m.), tačiau po Ulos sutriuškinimo,
-    kurį amžininkai prilygino Oršos mūšiui,
-    maskvėnai prarado iniciatyvą kare ir naujo
-    didelio jų puolimo grėsmė išnyko.
-
-    tys, nėra aišku. Tik viename pranešime apie
-    mūšį su nuostaba rašoma: „Visų keisčiau-
-    sia, kad mūsiškių užmušta tik 20, o sužeista
-    700“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kokios buvo lietuvių kariuomenės netek-
-
-    Nepraėjus dviem savaitėms, lietu-
-    viai beveik be mūšio sutriuškino ne tokią
-    grėsmingą ir nesulaukusią P. Šuiskio ve-
-    žamų ginklų bei kitų atsargų, B. Sereb-
-    riano vedamą kariuomenę. Nors po mūšio
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

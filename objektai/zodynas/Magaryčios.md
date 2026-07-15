@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Magaryčios
 sukurta: '2026-07-12'
 variantai:
-  - magaryčias
-  - magaryčios
+  - 'magaryčias'
+  - 'magaryčios'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -66,6 +66,7 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
   teiginys: "Magaryčios šiame šaltinyje priskiriamos prie mažųjų pokylių."
   pagrindžia:
     - c-178019
+
 ## Citatos
 
 - id: c-178019

@@ -65,29 +65,6 @@ Nenurodyta
   teiginys: "1989 m. gruodį Vilniuje vykusiame LKP XX suvažiavime 855 iš 1 033 delegatų balsavo už savarankišką LKP, ir partija atsiskyrė nuo SSKP."
   pagrindžia:
     - c-166649
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Komunistų partijos veiklai didelę įtaką turėjo 1989 m. gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos nepriklausomybės atkūrimas
-    1989 m. pabaigoje LPS virtus politiniu judėjimu, jo gretose
-    buvo daug LKP (SSKP sudėtyje) narių, kurie atsisakė toliau vykdyti Mas-
-    kvos nurodymus. Komunistų partijos veiklai didelę įtaką turėjo 1989 m.
-    gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc.
-    lietuviai) XX suvažiavimas. Suvažiavimo metu „už savarankišką LKP, tu-
-    rinčią savo programą ir statutą“, iš 1 033 delegatų balsavo 855 ir LKP atsi-
-    skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
-    turinti reformuotą programą ir naują statutą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -110,5 +87,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183261
     - t-20244
+    - t-183261

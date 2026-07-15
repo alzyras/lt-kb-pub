@@ -60,33 +60,6 @@ Vartojamos formos: `aukos`, `aukas`.
 - susijęs iš Estų salos: 1899 m. Augustas Robertas Niemi keliavo į Estų salas, kur rinko estų liaudies dainas.
 - susijęs iš Helsinkai: Helsinkuose buvo pastatytas Lonnroto paminklas, kuriam lėšas rinko Augustas Robertas Niemi.
 - susijęs iš Norvegija: 1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pavestoji diena atlikimui aukos buvo visados aiški ir gaidri^947 , jei kana kados^948 nulijo, tad tą turėjo už dievų rūstybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Aukausenos^936 buvo įvairios: iškilminės, išeiginės ir kieminės, kurias visados svietas susirinkęs atlikdavo ant kalnų, kalvų ar ant akmenų po dideliais didelesniais ąžuolais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-09618
@@ -115,5 +88,5 @@ Vartojamos formos: `aukos`, `aukas`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07689
     - t-07688
+    - t-07689

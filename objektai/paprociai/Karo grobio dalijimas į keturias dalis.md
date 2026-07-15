@@ -51,22 +51,9 @@ Nenurodyta
   teiginys: "Karo grobis buvo dalijamas į keturias dalis: dievams, kunigaikščiui su tarnais ar kunigais, kareiviams ir žuvusiųjų giminėms."
   pagrindžia:
     - c-09936
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Sugrietąjį nuo neprietelių grobį karėj visados į keturias dalis dalijo. Visų gerąją atdavė savo
-        dievams. Antroji teko kūrėjų kūrėjui ar kunigaikščiui ir jo tarnams arba kunigams. Trečiąją gavo
-        kareiviai, kurie buvo neprietelius pergalėję. Ketvirtoji būk tekusi gentims tų, kurie karėj buvo kritę ir
-        per kurių narsybę ir kantrybę neprieteliai buvo pergalėti ir liuosybė nuo vergybos paglemžta^1349.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

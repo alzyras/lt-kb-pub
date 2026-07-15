@@ -59,33 +59,13 @@ tiksli leksinė reikšmė pateikta tik per Narbuto paaiškinimą.
   teiginys: "Narbutas Nadruvos pavadinimą kildina iš žodžio „Nadrau“, lietuviškai-prūsiškai turėjusio reikšti vidų."
   pagrindžia:
     - c-175071
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Nadruva (Nadramia). Sis pavadinimas kilęs iš žodžio
-    Nadrau, lietuviškai-prūsiškai turėjusio reikšti vidų4. Anot
-    kitų, vietovardis atėjo iš taip senovės prūsų kalba vadin­
-    tos nadruvių genties; tai turėjo reikšti „renku miško me-
-    1 Hartknoch.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-004
 
 ## Citatos
 
 - id: c-175071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nadruva (Nadramia). Sis pavadinimas kilęs iš žodžio
     Nadrau, lietuviškai-prūsiškai turėjusio reikšti vidų4. Anot
@@ -100,4 +80,3 @@ tiksli leksinė reikšmė pateikta tik per Narbuto paaiškinimą.
   pagrindzia:
     - t-192216
     - t-192565
-    - t-004

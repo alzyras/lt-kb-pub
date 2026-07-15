@@ -55,24 +55,9 @@ Nenurodyta
   teiginys: "Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią."
   pagrindžia:
     - c-10051
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    raštininkas, gyvenęs galan septynioliktojo amžiaus, sako, jog, jam gyvojant, lietuviai, trobesiui užsidegus,
-        nenorėję gesyti, tardami, jog ugnelė gesoma pykstanti. Šiandien Žalgirėnuose apie Pinską taip
-        pat niekaip negesantys žmonės trobesio degančio, idant ugnelės pikčiau nesužyžintų^806 , ir
-        apstoję kūrenantys trobesį it laužą. Kam norint sudegus, senu įpročiu sako: „Tą ugnelė šventa
-        aplankė.“ Perkūnijos ugnį daug stigavoja iki šiai dienai, jog ožkos pienu tegalį užgesyti, kas niekų
-        kalba yra, nesgi ir pačiu vandeniu gal užgesyti, jei ano gausiai pasitinka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

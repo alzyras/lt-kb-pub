@@ -76,49 +76,6 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - susijęs iš Slanimas: 1917 m. Berno konferencijoje Slanimo apskritis įtraukta į etnografiniu principu siūlytą Lietuvos teritoriją.
 - susijęs iš Vilniaus gubernija: 1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Budikidas ir jo brolis Budivydas 1289 m. taikai palaikyti perleido Valkaviską Haličo-Volinijos kunigaikščiams.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Haličo — Volinijos kunigaikščiai plėtėsi į šiaurę,
-    paimdami senas Mindaugines valdas, Slanimo ir kitas pilis. Taikai
-    palaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­
-    leido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų
-    ordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų
-    žemes, ypač Lenkiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
-    Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
-    2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A. Sme-
-    tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
-    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
-    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
-    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
-    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
-    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
-    Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
-    tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-32505
@@ -162,8 +119,8 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71979
     - t-71978
+    - t-71979
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

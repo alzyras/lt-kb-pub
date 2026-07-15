@@ -45,26 +45,6 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
     - c-32819
 - susijęs iš [[objektai/asmenys/Galminas.md#claim-t-30231|Galminas]]: Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/Getautas.md#claim-t-30255|Getautas]]: Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Grūdų sulaikymas Vytautui akivaizdžiai parodė, ką reiškė
-    neturėjimas Nemuno žiočių, ir tai paskatino jį veikti. Jo pareigū­
-    nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
-    sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­
-    navos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių
-    bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­
-    gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32819

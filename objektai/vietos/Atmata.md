@@ -35,8 +35,8 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
   teiginys: "Atlanto vandenynas Atmata, u."
   pagrindžia:
     - c-59314
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Atlanto vandenynas Atmata, u.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -58,13 +58,20 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
 - id: c-59314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 299"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 299."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ašvena, u.
-    Atlanto vandenynas
-    Atmata, u.
-    Atrebatas (dab.
+    Uljanovas)
+    Kraupiškiemiai
+    Kreivėnai
+    Kreiviai (Kryvos k.)
+    Kreivoji pilis
+    Kresmena (Crasima, Crasim; Krismence, Cresmen) v.
+    Kristaus karių ordinas, Dobrynės broliai
+    Kristaus karių ordinas Livonijos žemėje
+    Kristburgas Senasis (*Kirsapilis, Kirsa, Kirsberg, Kirsburg; Cristburgk, Cristburc;
+    Christburg, Aldinkirsburg, Kirseburg ir pan., vėliau Alt Christburg, dab. Stary Dzierzgoń)
+    Kristburgas Naujasis (Kirsburg, Cristburg, Christiborc ir pan. prūsų Zirgūnos vietoje;
+    Christburgas, dab.
   citata_rodoma: "Atlanto vandenynas\nAtmata, u.\nAtrebatas (dab."
   statusas: verified
   teiginio_tipas: faktas

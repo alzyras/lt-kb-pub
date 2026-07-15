@@ -74,66 +74,6 @@ Nenurodyta
   teiginys: "Lietuvos Aukščiausioji Taryba atkūrė 1938 m. Konstitucijos galiojimą, netrukus jį sustabdė ir patvirtino Laikinąjį Pagrindinį Įstatymą."
   pagrindžia:
     - c-166634
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    44 min. absoliučia
-    balsų dauguma (124 deputatams
-    balsavus už, nė vienam nebalsavus
-    prieš ir šešiems susilaikius) priim-
-    tas Lietuvos nepriklausomybės at-
-    kūrimo Aktas, kuriame paskelbta,
-    „kad yra atstatomas 1940 metais
-    svetimos jėgos panaikintas Lietu-
-    vos Valstybės suverenių galių vyk-
-    dymas, ir nuo šiol Lietuva vėl yra
-    nepriklausoma valstybė“.
-    Kovo 11 Aktas savo dvasia arti-
-    mas Lietuvos Tarybos 1918 m. pa-
-    skelbtam Vasario 16 Aktui, tačiau
-    nebesirėmė visuotinai pripažinta
-    tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo tei-
-    sės deklaravimas buvo pavojingas dėl Maskvos užmačių pritaikyti Lie-
-    tuvai išstojimo iš SSRS mechanizmus, visaliaudinius „apsisprendimo“
-    referendumus, primesti dalį SSRS valstybės skolų bei tarptautinių įsipa-
-    reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
-    savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
-    teritoriją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad šalies teritorijoje neveikia jokios kitos valstybės konstitucija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta
-    Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad
-    šalies teritorijoje neveikia jokios kitos valstybės konstitucija. Tam reikė-
-    jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
-    ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
-    nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą. Todėl
-    priimtas įstatymas „Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitu-
-    cijos galiojimo atstatymo“. Tačiau šios konstitucijos veikimas visa apim-
-    timi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-
-    kinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs
-    susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
-    bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
-    teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
 
 ## Citatos
 
@@ -195,5 +135,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183246
     - t-20315
+    - t-183246

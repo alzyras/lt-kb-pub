@@ -5,27 +5,20 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1503 m.'
-  - '1529 m.'
-  - '1588 m.'
   - '2026 m.'
 date_start: '1503'
 date_end: '2026'
-variantai:
-  - 'Kleckas'
-  - 'Kleckas'
-aliases:
-  - 'Kleckas'
-  - 'Kleckas'
-amziai:
-  - 'XVI'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
+amziai:
+  - 'XVI'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,16 +36,9 @@ media_all_json: |-
 
 ## Santrauka
 
-Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet pagaliau ties Klecku juos sumušė mylimasis.
+Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu. 1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius. Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti.
 
 ## Teiginiai
-
-<a id="claim-t-195088"></a>
-- t-001
-  global_id: t-195088
-  teiginys: "Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu."
-  pagrindžia:
-    - c-177476
 
 <a id="claim-t-195089"></a>
 - t-002
@@ -61,100 +47,50 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
   pagrindžia:
     - c-177470
 
-<a id="claim-t-195090"></a>
-- t-003
-  global_id: t-195090
-  teiginys: "Krymo totoriai apie liepos 20-22 d. apsistojo ties Klecku ir pradėjo grobti žmones bei turtą."
-  pagrindžia:
-    - c-177474
-
 <a id="claim-t-195091"></a>
-- t-004
+- t-003
   global_id: t-195091
   teiginys: "Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti."
   pagrindžia:
     - c-177477
 
 <a id="claim-t-195092"></a>
-- t-005
+- t-004
   global_id: t-195092
   teiginys: "Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką."
   pagrindžia:
     - c-177473
 
 <a id="claim-t-195093"></a>
-- t-006
+- t-005
   global_id: t-195093
   teiginys: "Šaltinių sąrašas 271 VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a., Karolis Zikaras, Loreta Uzdraitė."
   pagrindžia:
     - c-177475
 
 <a id="claim-t-195094"></a>
-- t-007
+- t-006
   global_id: t-195094
   teiginys: "LDK politinės tautos prielaidas kūrė karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme ir Chotyne."
   pagrindžia:
     - c-177472
 
 <a id="claim-t-195095"></a>
-- t-008
+- t-007
   global_id: t-195095
   teiginys: "Apie liepos 20–22 d. totoriai įsirengė stovyklą prie Klecko, nes 1503 m. jų sunaikintas miestas buvo patogus išpuoliams."
   pagrindžia:
     - c-177471
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171403|Totoriai]]: Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171403|Totoriai]]: Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė.
+
+<a id="claim-t-195088"></a>
+- t-001
+  global_id: t-195088
+  teiginys: 'Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu.'
+  pagrindžia:
+    - c-177476
 - susijęs iš Nesvyžius: Kleckas buvo prie kelių į Pinską, Vilnių, Nesvyžių ir Slucką, todėl totoriams tiko išpuoliams mažesniais būriais.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Apie liepos 20–22 d. totoriai įsirengė stovyklą prie Klecko, nes 1503 m. jų sunaikintas miestas buvo patogus išpuoliams.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Galiausiai apie liepos 20-22 d. jie sustojo.
-    Vietą savo stovyklavietei jie pasirinko prie
-    Klecko miesto, kuris dar 1503 m. buvo jų
-    sunaikintas ir nekėlė pavojaus, o stovėda-
-    mas ant kelių, vedančių į Pinską, Vilnių,
-    Nesvyžių ir Slucką, buvo itin geras punktas
-    išpuoliams, kuriuos totoriai vykdė pasi-
-    skirstę mažesniais būriais.
-
-    Lietuvos kariuomenės mobilizacija, vadai
-    ir pirmieji susidūrimai
-
-    Staigus totorių įsiveržimas sutrukdė jų
-    veiksmus patyrusių paliestų pavietų ba-
-    jorijai mobilizuotis, o jų mažesnių būrių
-
-    Vilnius Aleksandro valdymo laikais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'LDK politinės tautos prielaidas kūrė karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme ir Chotyne.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Bendras vidaus politinis
-    gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
-    Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-
-    tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
-    jasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės
-    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
-    kuriose lietuviai kovojo petys į petį su rusėnais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu.'
+- c-006
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
@@ -169,121 +105,12 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     pini neapsakomo džiaugsmo ir linksmybės, ramiai pra­
     leido tą naktį 2 S .
   citata_rodoma: ''
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Krymo totoriai apie liepos 20-22 d. apsistojo ties Klecku ir pradėjo grobti žmones bei turtą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    5 Kalbama apie Krymo totorių (apie 4000 raitelių su 10 tūks­
-    tančių žirgų) žygį į N augarduko kraštą, prasidėjusį d ar gegužės mėn.
-    Kai Aleksandras su savo palyda ir suvažiavusiais į seimą vasaliniais
-    kunigaikščiais ir didikais buvo Lydoje, Krymo totoriai apie VII.20—
-    22 apsistojo ties Klecko miesteliu (apie 80 km į pietryčius nuo
-    Naugarduko, apie 130 km  nuo Lydos) ir pradėjo grobti žmones ir
-    turtą, siautėdami daugiau kaip 100 km spinduliu aplink Klecką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Šaltinių sąrašas 271 VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a., Karolis Zikaras, Loreta Uzdraitė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šaltinių sąrašas 271
-
-    ## Puslapis 274
-
-    VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
-
-    p. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a.,
-    Karolis Zikaras, Loreta Uzdraitė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: '1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tad paskubomis susirinko 10 000 bajorų,
-    kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­
-    dė narsus, bet pasipūtęs, Glinskis. Gausūs Krymo ordos ka­
-    rių būriai susirėmė su mūsiškiais ties Kłecku, ir lemtinga
-    Lietuvos pergalė, pasiekta 1506 metų rugpjūtį, ir ateityje
-    užkirto šiems azijiečiams kelią į artimiausias šios valsty­
-    bės vaivadijų sostines47. Ši trokštama žinia jau merdintį
-    Aleksandrą pasiekė Vilniuje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-- c-007
-  santrauka: 'Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Po šios
-    džiugios naujienos buvo įvairiausiai
-    reiškiamas džiaugsmas ne tik gatvė­
-    se, ypač priešais kunigo Samuelio
-    Maciejovskio, tuo laiku Karalystės
-    pakanclerio ir Kulmo, o netrukus
-    po to - Plocko vyskupo, rūmus, bet
-    ir kalneliuose ties Vilniumi buvo
-
-    ## Puslapis 281
-
-    265
-    2irmek/ ^3) of nti®^ L,™ k; x
-
-    ## Puslapis 282
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    rūpinosi iš Lietuvos kunigaikščių kilęs Vilniaus vyskupas Jo­
-    nas su kapitula12, pinigais remiamas visos dvasininkijos13. Be
-    to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­
-    čių fundacijos: Vilniaus vaivada ir LDK kancleris Mikalojus
-    Radvila, Aleksandro laikais, apie 1514 metus, ties Kłecku prieš
-    totorius pasiektai pergalei atminti savo žemėje už miesto ant
-    kalnelio prie Vilijos, pastatė bažnyčią Šv. Jurgio ir kartu Mer­
-    gelės Dievo Gimdytojos garbei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
-    Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
-    Laskis. O totoriai, ties Kłecku įsirengę košą, arba stovyklą,
-    nemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­
-    muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
-    mylią nuo Lydos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
+    - t-001
 
 ## Citatos
 
@@ -377,26 +204,6 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
   pagrindzia:
     - t-195092
 
-- id: c-177474
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    5 Kalbama apie Krymo totorių (apie 4000 raitelių su 10 tūks­
-    tančių žirgų) žygį į N augarduko kraštą, prasidėjusį d ar gegužės mėn.
-    Kai Aleksandras su savo palyda ir suvažiavusiais į seimą vasaliniais
-    kunigaikščiais ir didikais buvo Lydoje, Krymo totoriai apie VII.20—
-    22 apsistojo ties Klecko miesteliu (apie 80 km į pietryčius nuo
-    Naugarduko, apie 130 km  nuo Lydos) ir pradėjo grobti žmones ir
-    turtą, siautėdami daugiau kaip 100 km spinduliu aplink Klecką.
-  citata_rodoma: "5 Kalbama apie Krymo totorių (apie 4000 raitelių su 10 tūks­\ntančių žirgų) žygį į N augarduko kraštą, prasidėjusį d ar gegužės mėn. \nKai Aleksandras su savo palyda ir suvažiavusiais į seimą vasaliniais \nkunigaikščiais ir didikais buvo Lydoje, Krymo totoriai apie VII.20— \n22 apsistojo ties Klecko miesteliu (apie 80 km į pietryčius nuo \nNaugarduko, apie 130 km  nuo Lydos) ir pradėjo grobti žmones ir \nturtą, siautėdami daugiau kaip 100 km spinduliu aplink Klecką."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195090
-
 - id: c-177475
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -417,30 +224,6 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195093
-
-- id: c-177476
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
-    dievo gailestingumą, o Korano giminė — neapsakomą
-    kraujo praliejimą. Kunigaikštis Mykolas Glinskis ir
-    Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­
-    są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už
-    Cepros, paėmė arba nukovė daugybą totorių, sugrįžo
-    į kariuomenės stovyklą prie Klecko, vesdamiesi su sa­
-    vimi daug belaisvių ir turėdami rankas pilnas aukso,
-    ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų. Ku­
-    pini neapsakomo džiaugsmo ir linksmybės, ramiai pra­
-    leido tą naktį 2 S .
-  citata_rodoma: "Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį \ndievo gailestingumą, o Korano giminė — neapsakomą \nkraujo praliejimą. Kunigaikštis Mykolas Glinskis ir \nLietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­\nsą dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už \nCepros, paėmė arba nukovė daugybą totorių, sugrįžo \nį kariuomenės stovyklą prie Klecko, vesdamiesi su sa­\nvimi daug belaisvių ir turėdami rankas pilnas aukso, \nir sidabro, ir ginklų, ir drabužių, ir brangių žirgų. Ku­\npini neapsakomo džiaugsmo ir linksmybės, ramiai pra­\nleido tą naktį 2 S ."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195088
 
 - id: c-177477
   autorius: "Michał Baliński"

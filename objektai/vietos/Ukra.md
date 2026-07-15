@@ -36,26 +36,6 @@ Atėję prie Ukros upės kranto, sąjungininkai sustojo. Čia Vytautas ėmė tva
   teiginys: "Prie Ukros upės sąjungininkai sustojo, o Vytautas pradėjo tvarkyti savo kariuomenę."
   pagrindžia:
     - c-37778
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Atėję prie Ukros
-    upės kranto, sąjungininkai sustojo. Čia Vytautas ėmė tvarkyti
-    savo kariuomenę: padalino vėliavomis, geriau ginkluotus ri­
-    terius pastatė kraštuose, silpniau ginkluotus pastatė vidury.
-    Apie kariuomenės darytus persitvarkymus pirmutinis Žalgirio
-    mūšio aprašinėtojas lenkų istorikas Dlugošas sako, kad puikiai
-    judėjo tame lauke lietuvių kariuomenė, traukdama akį savo
-    tvarkingomis eilėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

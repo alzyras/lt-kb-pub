@@ -58,8 +58,8 @@ Nenurodyta
   global_id: t-195311
   teiginys: "Virvė minima tiek lauko darbuose, tiek buitinio pokšto pasakojime."
   pagrindžia:
-    - c-177689
     - c-177688
+    - c-177689
 - susijęs iš [[objektai/daiktai/Liuntas.md#claim-t-195325|Liuntas]]: Liuntas aprašomas kaip vyžų medžiaga ir minkštos virvės pavidalas.
 - susijęs iš [[objektai/daiktai/Dėdelis.md#claim-t-195352|Dėdelis]]: Apeiginis sudėtas daiktas, vežiojamas per kaimą Pelenijos dieną.
 - susijęs iš [[objektai/daiktai/Pavaža.md#claim-t-195350|Pavaža]]: Senas vežimo pagrindas, naudotas dėdeliui vežti per kaimą.

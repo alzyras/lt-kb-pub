@@ -43,54 +43,6 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
   teiginys: "Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų, kurių kariuomenė susirėmė su Lietuvos kariuomene."
   pagrindžia:
     - c-76060
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Istorinė tradicija (jai atstovauja
-    M. Strijkovskis) teigia, kad Algirdas, su-
-    telkęs savo lietuvių pajėgas, žygiuoda-
-    mas Padniepre pro Kanevą, Čerkasus, ties
-    Mėlynaisiais Vandenimis sumušęs totorius.
-
-    Lietuvos kariuomenė buvo sudaryta
-    iš Lietuvos valdovo Algirdo ir jo brolio
-    Karijoto trijų sūnų - Karijotaičių vado-
-    vaujamų karių. Jie susirėmė su Juodosios
-    jūros pajūrio ir Krymo totorių teritori-
-    jos trijų vadų-kunigaikščių Chadžibėjaus,
-    Kutlugbugo, Dmitrijaus kariuomene.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos kariuomenė buvo sudaryta
-    iš Lietuvos valdovo Algirdo ir jo brolio
-    Karijoto trijų sūnų - Karijotaičių vado-
-    vaujamų karių. Jie susirėmė su Juodosios
-    jūros pajūrio ir Krymo totorių teritori-
-    jos trijų vadų-kunigaikščių Chadžibėjaus,
-    Kutlugbugo, Dmitrijaus kariuomene.
-
-    Didžiausia tikimybė, kad Mėlynieji Van-
-    denys, tai Siniuchos upė Pietų Ukrainoje,
-    kairysis Pietinio Bugo intakas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

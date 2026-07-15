@@ -40,28 +40,6 @@ Jau tų metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuški
   teiginys: "1989 m. gruodžio 7 d. konstitucijos pataisos panaikino LKP valdžios monopolį valstybėje ir visuomenėje."
   pagrindžia:
     - c-23797
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagaliau 1989 m. gruodį,
-    veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pa-
-    smerkė SSRS liaudies deputatų II suvažiavimas, nors tiesiogiai tų padari-
-    nių su Baltijos valstybių okupacija nesusiejo.
-    1989 m. lietuvių tautinis išsivadavimas įgijo politinį pobūdį. Jau tų
-    metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai
-    laimėjo LPS kandidatai, o gruodžio 7 dienos konstitucijos pataisomis pa-
-    naikintas LKP valdžios monopolis valstybėje ir visuomenėje ir sudarytos
-    sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
-    šalies politiniame gyvenime.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

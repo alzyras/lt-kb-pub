@@ -10,14 +10,14 @@ datos:
   - '1324 m.'
 date_start: '1237'
 date_end: '1324'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - elekcija
   - ivykis
-amziai:
-  - 'XIII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,8 +61,8 @@ Nenurodyta
   teiginys: "Verneris nuo 1313 m. buvo Ragainės komtūras, o nuo 1324 m. tapo didžiuoju magistru, kuriam Dusburgietis įteikė savo veikalą."
   pagrindžia:
     - c-63832
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Verneris nuo 1313 m. buvo Ragainės komtūras, o nuo 1324 m. tapo didžiuoju magistru, kuriam Dusburgietis įteikė savo veikalą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -91,6 +91,7 @@ Nenurodyta
   citata_rodoma: ''
   statusas: verified
 
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,13 +100,15 @@ Nenurodyta
 - id: c-63832
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.
-    Pirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs
-    1282 m.). Trečiajai — Ragainės komtūras nuo 1313 m., o nuo 1324 m. didysis magistras
-    Verneris, kuriam kronikininkas įteikė savo veikalą.
+    Tarpinei kartai priklausytų broliai,
+    gyvenę ir Hartmano laikais, ir Vernerio veiklos Prūsijoje pradžioje133.
+    Nemaža žinių galėjo pateikti ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę
+    Ordino labui. Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau
+    su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
+    Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
+    pažinoję teritoriją, kelius ir žmones (III, 74, 223).
   citata_rodoma: "Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.\nPirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs\n1282 m.). Trečiajai — Ragainės komtūras nuo 1313 m., o nuo 1324 m. didysis magistras\nVerneris, kuriam kronikininkas įteikė savo veikalą."
   statusas: verified
   teiginio_tipas: faktas

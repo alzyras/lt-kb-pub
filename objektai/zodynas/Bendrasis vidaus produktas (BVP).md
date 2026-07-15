@@ -45,22 +45,6 @@ Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą (1
   teiginys: "Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą, o 1993 m. realusis BVP sudarė 40 proc. 1988 m. BVP."
   pagrindžia:
     - c-166798
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą, o 1993 m. realusis BVP sudarė 40 proc. 1988 m. BVP.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m.
-    patyrė sukrėtimą (1993 m. realusis bendrasis vidaus produktas (BVP) su-
-    darė 40 proc. 1988 m. BVP) – tik nuo 1995 m. BVP didėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

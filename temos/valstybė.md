@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 143
+tema_objektu_skaicius: 148
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 143.
+Objektų skaičius: 148.
 
 ## Kaip naudoti
 
@@ -24,6 +24,11 @@ Objektų skaičius: 143.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Grupės
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/grupes/Rusai]]
 
 ### Vietos
 - [[objektai/vietos/Abiejų Tautų Respublika]]
@@ -48,9 +53,9 @@ Objektų skaičius: 143.
 - [[objektai/vietos/Bulgarija]]
 - [[objektai/vietos/D. Naugardas]]
 - [[objektai/vietos/Danija]]
-- [[objektai/vietos/Dauguvos žiotys]]
-- [[objektai/vietos/Didžioji Britanija]]
-- [[objektai/vietos/Dniepro žemupys]]
+- [Dauguvos žiotys](../objektai/vietos/Dauguvos%20%C5%BEiotys)
+- [Didžioji Britanija](../objektai/vietos/Did%C5%BEioji%20Britanija)
+- [Dniepro žemupys](../objektai/vietos/Dniepro%20%C5%BEemupys)
 - [Frankfurtas prie Oderio](../objektai/vietos/Frankfurtas%20prie%20Oderio)
 - [Gdanskas](../objektai/vietos/Gdanskas)
 - [Gedimino bokštas](../objektai/vietos/Gedimino%20bok%C5%A1tas)
@@ -169,3 +174,9 @@ Objektų skaičius: 143.
 - [Ščorsai](../objektai/vietos/%C5%A0%C4%8Dorsai)
 - [Ženeva](../objektai/vietos/%C5%BDeneva)
 - [Žečpospolita](../objektai/vietos/%C5%BDe%C4%8Dpospolita)
+
+### Šaltiniai
+- [Pašuta V. Lietuvos valstybės susidarymas](../objektai/saltiniai/Pa%C5%A1uta%20V.%20Lietuvos%20valstyb%C4%97s%20susidarymas)
+
+### Žodynas
+- [baltų sąjunga federacija](../objektai/zodynas/balt%C5%B3%20s%C4%85junga%20federacija)

@@ -35,8 +35,8 @@ Kitaip juos vadindavo piktukais nuo Piktas', netoli Vilniaus yra Piktukonių (Pi
   teiginys: "Kitaip juos vadindavo piktukais nuo Piktas', netoli Vilniaus yra Piktukonių (Piktukance) kaimas."
   pagrindžia:
     - c-177166
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kitaip juos vadindavo piktukais nuo Piktas'', netoli Vilniaus yra Piktukonių (Piktukance) kaimas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -59,14 +59,15 @@ Kitaip juos vadindavo piktukais nuo Piktas', netoli Vilniaus yra Piktukonių (Pi
 - id: c-177166
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tą vardą Stenderis išveda
-    iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
-    ke -  lėlė. Kitaip juos vadindavo piktukais nuo Piktas', netoli
-    Vilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose
-    vadinosi pursčiai (Puršcie).
+    Taip pat pasakoja, kad barstukai iš kitų ūkininkų,
+    kuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus
+    ir neša tiems, kurie jiems geresni. Apie jų gražumą pasakoja:
+    ūgio ne aukštesnio, kaip viena uolektis“.
+    Šių dievaičių atminimas neišnyko iki šiol; jei žinoma ne
+    pati reikalo esmė, tai bent iš pasakojimų aišku, kas jie tokie.
+  citata_rodoma: "Tą vardą Stenderis išveda\niš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-\nke -  lėlė. Kitaip juos vadindavo piktukais nuo Piktas', netoli\nVilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose\nvadinosi pursčiai (Puršcie)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,51 +49,6 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
   teiginys: "Prie durų stovėjęs Prienų NKGB tardytojas Arkadijus Kruglovas paleido automato seriją."
   pagrindžia:
     - c-167118
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Iš lauko atsakė automato serija. Ją paleido prie durų stovėjęs Prienų NKGB tardytojas
-    Kruglov Arkadij. Bet pasirodė, kad Tigro oda buvo per kieta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kapitoną Arkadijų Kruglovą Tigras nukovė pirmaisiais šūviais.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė
-    tris NKGB dalinio buvusius vadus: kpt. Kruglovą, leit. Marcinkevičių ir dar vieną rusą
-    karininką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Prie durų stovėjęs Prienų NKGB tardytojas Arkadijus Kruglovas paleido automato seriją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tigras, nieko nelaukdamas, truktelėjo iš savo kulkosvaidžio.
-
-    Iš lauko atsakė automato serija. Ją paleido prie durų stovėjęs Prienų NKGB tardytojas
-    Kruglov Arkadij.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 

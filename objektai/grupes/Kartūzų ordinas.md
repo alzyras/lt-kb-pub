@@ -43,34 +43,16 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
   pagrindžia:
     - c-63916
 - susijęs iš [[objektai/grupes/Kluniečių ordinas.md#claim-t-63010|Kluniečių ordinas]]: Kluniečių ordinas datuojamas 900 Viešpaties metais, popiežiaus Adrijono III laikais.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kartūzų ordinas datuojamas 1082 metais, popiežiaus Viktoro III laikais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078).
-      Cistersų ordinas — 1097 viešpaties metais.
-      Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-63916
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 227"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078).
-      Cistersų ordinas — 1097 viešpaties metais.
-      Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
+    Cistersų ordinas — 1097 viešpaties metais.
+    Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
   citata_rodoma: "Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078).\n  Cistersų ordinas — 1097 viešpaties metais.\n  Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais."
   statusas: verified
   teiginio_tipas: faktas

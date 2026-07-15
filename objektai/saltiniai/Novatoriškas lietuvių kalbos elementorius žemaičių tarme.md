@@ -42,41 +42,6 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   teiginys: "Vilniaus universiteto aplinkos inteligentai parašė ir išleido tiems laikams novatorišką lietuvių kalbos elementorių žemaičių tarme."
   pagrindžia:
     - c-75440
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilniaus universiteto aplinkos inteligentai parašė ir išleido tiems laikams novatorišką lietuvių kalbos elementorių žemaičių tarme.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
-    tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
-    vienas kitas), kurie susitarė kryp-
-    tingai plėtoti aukštosios kultūros
-    kūrimo lietuvių (žemaičių) kalba
-    darbą, o sykiu rūpintis lietuvių
-    ir žemaičių liaudies švietimu jų
-    gimtąja kalba (nors žemaičius
-    kai kas tuomet laikė atskiru,
-    etniniams lietuviams giminingu
-    etnosu, bet jie patys save laikė
-    vieno dvilypio lietuvių-žemaičių
-    etnoso dalimi). Ši grupelė ir lai-
-    koma etninių lietuvių tautinio
-    kultūrinio sąjūdžio pradininkais.
-    Parašytas ir išleistas tiems lai-
-    kams novatoriškas elementorius
-    lietuvių kalba (žemaičių tarme),
-    poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje
-    buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis
-    manifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-
-    vyks.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

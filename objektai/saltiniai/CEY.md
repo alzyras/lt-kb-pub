@@ -34,23 +34,6 @@ media_all_json: |-
   teiginys: "CEY 117 numeris pateiktas kaip šaltinio nuoroda."
   pagrindžia:
     - c-33549
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^2) **Žr. aukščiau 308 p.**
-    (^3) **Plg. A. Šapoka:** **_Valstybiniai Lietuvos Lenkijos santykiai Jogailos
-    laikais,_** **rink. : Jogaila, 226-227 p.**
-    (^4) **CEY, nr. 117.**
-    (^5) **A. Šapoka :** **_Valst.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

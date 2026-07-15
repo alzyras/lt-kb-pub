@@ -40,39 +40,6 @@ Vis dėlto pirmieji nusveria antruo­ sius: juk visos Vytauto dorybės tik jo pa
   teiginys: "1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudija, kad tuo metu Vytautas jau buvo krikščionis."
   pagrindžia:
     - c-84478
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudija, kad tuo metu Vytautas jau buvo krikščionis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Veiklus, santūrus, kilnus, my­
-    lintis tėvynę, pasižymėjęs mūšiais, sumanymais ir politika,
-    tačiau ūmus, per daug ambicingas, kartais siekiantis savo
-    tikslo bet kokiomis priemonėmis, - tokie tad buvo Vytauto
-    geri ir blogi bruožai. Vis dėlto pirmieji nusveria antruo­
-    sius: juk visos Vytauto dorybės tik jo paties, gyvenusio
-    85
-    Tiesa, šimtmečiu vėliau karalienė
-    Bona pagerbė Vytauto atminimą
-    antkapiniu marmuro paminklu di­
-    džiojo altoriaus dešinėje pusėje. Iš
-    vieno Vytauto dovanojimo akto Tra­
-    kų miestui, 1384 metų rugpjūčio 23
-    dieną rašyto, aišku, kaip tatai ir iš
-    istorijos žinoma, kad tuo metu jis jau
-    buvęs krikščionis, ką liudija patys
-    pirmieji to dokumento žodžiai:
-    „Mes, didysis kunigaikštis Vytautas,
-    švento krikšto metu gavęs Aleksan­
-    dro vardą" ir 1.1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

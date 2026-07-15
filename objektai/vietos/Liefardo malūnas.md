@@ -36,8 +36,8 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
   teiginys: "Persekiojami miestiečiai pasitraukė į Liefardo malūną, kuris buvo įtvirtintas kaip pilis."
   pagrindžia:
     - c-59218
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Persekiojami miestiečiai pasitraukė į Liefardo malūną, kuris buvo įtvirtintas kaip pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,14 +60,18 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
 - id: c-59218
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Persekiojami miestiečiai, nestengdami priešintis
-    tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum
-    pilis. Atskubėję pagudėnai smarkiai užpuolė malūną. Kadangi miestiečiai, dar nepailsę,
-    naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
-    laiką nieko nedarė.
+    Be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones
+    išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo
+    taika.
+    172 (167). Apie nuolatinius priešų antpuolius  bei įvairiopus Prūsijos krikščionių vargus
+    antrosios atskalūnybės metais
+    Vienas dievas težino ir vargu ar koks dabar gyvenantis žmogus stengtų papasakoti,
+    kokį vargą, kokias negandas, kokį stygių vyriškai kentėjo broliai bei kiti tikintieji tame ar
+    kitame mieste, toje ar kitoje pilyje bei kitoje vietoje, daugiau nei 15 metų persekiojami
+    priešų455.
+  citata_rodoma: "Persekiojami miestiečiai, nestengdami priešintis\ntokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum\npilis. Atskubėję pagudėnai smarkiai užpuolė malūną. Kadangi miestiečiai, dar nepailsę,\nnaršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį\nlaiką nieko nedarė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

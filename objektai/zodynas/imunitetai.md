@@ -42,26 +42,6 @@ Horodlės unijos (1413) aktu užtvirtintos visoms bažnyčioms, parapijoms, kole
   teiginys: "Horodlės unijos aktu 1413 m. dvasinėms įstaigoms buvo patvirtintos anksčiau suteiktos laisvės, privilegijos ir imunitetai."
   pagrindžia:
     - c-69242
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Horodlės unijos aktu 1413 m. dvasinėms įstaigoms buvo patvirtintos anksčiau suteiktos laisvės, privilegijos ir imunitetai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bažnyčios ir kunigai buvo atleisti nuo mokesčių, naturali­
-    jų, teismo ir kitokių valstybinių prievolių. Horodlės unijos
-    (1413) aktu užtvirtintos visoms bažnyčioms, parapijoms, kole­
-    gijoms, vienuolynams ir kitoms dvasinėms įstaigoms visokios
-    laisvės, privilegijos, imunitetai, kurie tik buvo iki tol išduoti.
-    Tad prie Vytauto buvo apdraustos bažnyčios bei vienuolynai ir
-    iš teisinės pusės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

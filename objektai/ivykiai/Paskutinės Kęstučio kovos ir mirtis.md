@@ -51,23 +51,6 @@ Nenurodyta
   teiginys: "Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas su jo mėgtais daiktais, ginklais bei gyvuliais."
   pagrindžia:
     - c-66938
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas su jo mėgtais daiktais, ginklais bei gyvuliais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kęstučio lavonas iš Krėvos buvo atvežtas į Vilnių ir iškil-
-    mingai palaidotas. Jis buvo sudegintas ant laužo su visais Kęstu-
-    čio mėgtaisiais daiktais, ginklais ir gyvuliais: sakalais, šunimis ir
-    arkliais. Visuomenei buvo paskelbta, kad jis pats nusižudęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

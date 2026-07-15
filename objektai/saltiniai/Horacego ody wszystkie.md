@@ -8,12 +8,12 @@ datos:
   - '1835 m.'
 date_start: '1832'
 date_end: '1835'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,8 @@ Teodoras Narbutas 1835 m. Vilniuje išleido dviejų tomų veikalą „Horacego o
   teiginys: "Teodoras Narbutas 1835 m. Vilniuje išleido dviejų tomų veikalą „Horacego ody wszystkie“."
   pagrindžia:
     - c-173416
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas 1835 m. Vilniuje išleido dviejų tomų veikalą „Horacego ody wszystkie“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -63,12 +63,20 @@ Teodoras Narbutas 1835 m. Vilniuje išleido dviejų tomų veikalą „Horacego o
 - id: c-173416
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    5 Narbutt T. Wyborowe Ody i kantaty Jana Batisty Rousseau. -
-    Wilno, 1832; Narbutt T. Horacego ody wszystkie. -  Wilno, 1835. -
-    T. I-II.
+    T. Narbutas, sekda­
+    mas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­
+    litiniams įvykiams ir pagal juos suskirstė veikalo turinį6. Nuo
+    IV tomo prasideda Lietuvos politinės istorijos dėstymas, V
+    skirtas įvykiams nuo Gedimino mirties iki 1399 m. mūšio prie
+    Vorkslos, VI - Vytauto valdymo laikotarpiui, VII - Švitrigai­
+    lai ir Žygimantui, VIII ir IX - kunigaikščių Kazimiero, Alek­
+    sandro, Žygimanto Senojo ir Žygimanto Augusto valdymui.
+    Istorijos veikalą T. Narbutas baigia tokiais žodžiais: „Aš pri­
+    vedžiau savo rašinį iki epochos, kuria baigėsi tautos savaran­
+    kiškumas.
+  citata_rodoma: "5 Narbutt T. Wyborowe Ody i kantaty Jana Batisty Rousseau. -\nWilno, 1832; Narbutt T. Horacego ody wszystkie. -  Wilno, 1835. -\nT. I-II."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

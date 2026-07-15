@@ -55,31 +55,6 @@ Nenurodyta
   pagrindžia:
     - c-11835
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po Bezdežo mūšio M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šios pergalės išvystyti nepavyko. Po ga-
-    limos išdavystės M. K. Oginskio pajėgos
-    netrukus buvo sumuštos prie Stalovičių
-    ir išblaškytos tuo metu dar pulkininko,
-    vėliau tapusio rusų generalisimu Alek-
-    sandro Suvorovo pajėgų.
-
-    Baro konfederacija nepasiekė savo
-    tikslų atsikratyti svetimų šalių įtakos.
-    Konfederatams nepavyko sutrukdyti
-    1772 m. įvykusio pirmajo ATR padalijimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-11835

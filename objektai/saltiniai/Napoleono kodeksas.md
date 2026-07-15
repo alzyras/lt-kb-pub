@@ -45,27 +45,6 @@ media_all_json: |-
   teiginys: "1807 m. Varšuvos kunigaikštystė buvo Napoleono globojama valstybė, kurioje įvestas civilinis Napoleono kodeksas."
   pagrindžia:
     - c-25812
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    103
-    1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pu-
-    siau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos
-    anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės. Iki 1809 m.
-    ši valstybė pati atsikariaus iš Austrijos didžiumą lenkų žemių. Joje įvestas
-    civilinis Napoleono kodeksas, valstiečiams suteikta asmens laisvė, tik be
-    žemės nuosavybės teisės ir be teisės palikti savo gyvenamąją vietą ir ūkį
-    be žemvaldžio žinios.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

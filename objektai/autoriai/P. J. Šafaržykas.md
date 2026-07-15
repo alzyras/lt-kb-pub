@@ -33,18 +33,25 @@ media_all_json: |-
 
 ## Santrauka
 
-P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo bestseleriu ir buvo išverstos beveik į visas slavų kalbas.
+P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo bestseleriu ir buvo išverstos beveik į visas slavų kalbas. P. J. Šafaržykas įžvelgia paslėptą prūsų, o ne vokiečių-burgundų (kaip kad buvo manyta iki tol) vardą.
 
 ## Teiginiai
+
+<a id="claim-t-197631"></a>
+- t-002
+  global_id: t-197631
+  teiginys: "P. J. Šafaržykas įžvelgia paslėptą prūsų, o ne vokiečių-burgundų (kaip kad buvo manyta iki tol) vardą."
+  pagrindžia:
+    - c-179269
 
 <a id="claim-t-191526"></a>
 - t-001
   global_id: t-191526
-  teiginys: "P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo bestseleriu ir buvo išverstos beveik į visas slavų kalbas."
+  teiginys: 'P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo bestseleriu ir buvo išverstos beveik į visas slavų kalbas.'
   pagrindžia:
     - c-174408
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo bestseleriu ir buvo išverstos beveik į visas slavų kalbas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -70,25 +77,22 @@ P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo b
 
 ## Citatos
 
-- id: c-174408
+- id: c-179269
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    14
-
-    ## Puslapis 14
-
-    nienos“ autorius, buvo to meto slavų kraštų įžymybė.
-    XIX a. ketvirtajame dešimtmetyje pasaulį išvydęs P. J. Sa-
-    faržyko veikalas tapo bestseleriu: jis buvo išverstas be­
-    veik į visas slavų kalbas (į lenkų kalbą — 1842 metais1).
-    T. Narbutas savo bibliotekoje turėjo tiek lenkiškąjį, tiek
-    rusiškąjį „Slavų senienų“ variantą, buvo nuodugniai juos
-    išstudijavęs ir susidaręs savo nuomonę.
+    Šio nepaprastai mokslingo tyrinėtojo (nelaimei, pernelyg
+    dainai besiremiančio nuojauta, — dėl to jo išvados dažnai klaidin­
+    gos) įrodinėjimus verta čia išdėstyti bent jau tam, kad išsakytume ir
+    savo nuomonę. Žodyje phrugundiones jis įžvelgia paslėptą prūsų, o
+    ne vokiečių-burgundų (kaip kad buvo manyta iki tol) vardą. Tą žodį
+    jis dalija į dvi dalis: Phru, jo manymu, yra Pru, o pridėjus raidę
+    „s" — Prus, o dalį Gunde randa Estijos vietovardžiuose; ji reiškia
+    šalį, pavietą, gentį.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191526
+    - t-197631

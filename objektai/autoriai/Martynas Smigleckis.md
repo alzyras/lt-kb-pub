@@ -57,29 +57,22 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   pagrindžia:
     - c-98295
 
-<a id="claim-t-105594"></a>
+<a id="claim-t-105593"></a>
 - t-003
-  global_id: t-105594
-  teiginys: "Martyno Smigleckio „Logika“ (1618 m.) pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai."
-  pagrindžia:
-    - c-22169
-
-<a id="claim-t-105594"></a>
-- t-004
-  global_id: t-105594
+  global_id: t-105593
   teiginys: "Martyno Smigleckio „Logika“ (1618 m.) pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai."
   pagrindžia:
     - c-22169
 
 <a id="claim-t-105595"></a>
-- t-005
+- t-004
   global_id: t-105595
   teiginys: "Martynas Smigleckis buvo knygos „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ autorius."
   pagrindžia:
     - c-98295
 
 <a id="claim-t-105596"></a>
-- t-006
+- t-005
   global_id: t-105596
   teiginys: "Martynas Smigleckis teigė, kad neteisinga respublikoje neleisti privačios prekybos dėl didesnio prekių ištekliaus mieste."
   pagrindžia:
@@ -102,112 +95,6 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 - susijęs iš Vidurio Europa: Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų.
 - susijęs iš Vilniaus universitetas: Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
 - susijęs iš [[objektai/zodynas/monopolis privati prekyba.md#claim-t-86488|monopolis privati prekyba]]: Martynas Smigleckis privačios prekybos arba monopolio klausimą aiškino Vilniaus stiklo prekių pavyzdžiu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-
-    kymo principus ir didelius reikalavimus, intensyvaus mokymo sistemą, o
-    vilniečiai skleidė įtaką ne tik Lietuvoje (visų pirma lituanistiniai K. Sirvy-
-    do ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos
-    ir daugiatautės bei daugiakonfesės LDK. Jėzuitiškojo Vilniaus universi-
-    teto reiškiniai darė poveikį visai Europai – tai pasakytina apie teologijos,
-    filosofijos, logikos, retorikos ir poetikos mokyklas. Vilniaus universite-
-    to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
-    Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir
-    Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
-    buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
-    vietoje įprasto Horacijaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-003
-
-- c-002
-  santrauka: 'Martynas Smigleckis teigė, kad neteisinga respublikoje neleisti privačios prekybos dėl didesnio prekių ištekliaus mieste.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    7-as leidimas, Krokuvoje, pas
-    Andžejų Piotrkovčiką, 1640, in 4to.
-    Nagrinėdamas geras ir blogas priva­
-    čios prekybos arba monopolio pu­
-    ses, Vilnių, stiklo prekių atžvilgiu,
-    pateikia kaip pavyzdį, o jau buvo po
-    Paleckio privilegijos žlugimo. „Ka­
-    dangi tuomet prireiks bendro išra­
-    šo, kad šios privilegijos buvo duo­
-    tos, - rašo Smigleckis, - yra netei­
-    singa neleisti respublikoje privačios
-    prekybos dėl to, kad mieste anų
-    daiktų būtų didesnis išteklius ir kad
-    geresni ir įvairesni daiktai būtų par­
-    duodami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Žr. VII priedą.
-    55
-    Vilniui šis stiklo monopolis turėjo
-    būti įsimintinas, kai Smigleckis, au­
-    torius nepaprastai parašytos ir savo
-    laiku labai patrauklios knygos „Apie
-    palūkanas, atpirkimus, činšus, ben­
-    drą pelną, nuomas, mainus ir apie
-    privačią prekybą - trumpas moks­
-    las, parašytas kun. Martyno Smig-
-    leckio, jėzuito, šv. teologijos dakta­
-    ro". 7-as leidimas, Krokuvoje, pas
-    Andžejų Piotrkovčiką, 1640, in 4to.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-005
-
-- c-004
-  santrauka: 'Martynas Smigleckis, aptardamas privačios prekybos arba monopolio privalumus ir trūkumus, Vilnių pateikė kaip stiklo prekių pavyzdį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nagrinėdamas geras ir blogas priva­
-    čios prekybos arba monopolio pu­
-    ses, Vilnių, stiklo prekių atžvilgiu,
-    pateikia kaip pavyzdį, o jau buvo po
-    Paleckio privilegijos žlugimo. „Ka­
-    dangi tuomet prireiks bendro išra­
-    šo, kad šios privilegijos buvo duo­
-    tos, - rašo Smigleckis, - yra netei­
-    singa neleisti respublikoje privačios
-    prekybos dėl to, kad mieste anų
-    daiktų būtų didesnis išteklius ir kad
-    geresni ir įvairesni daiktai būtų par­
-    duodami. Tad šiuo laiku tiktai tokia
-    privilegija gali būti duota, kadangi
-    per viešą prekybą nebūtų tokio daik­
-    tų ištekliaus ir ne tokių gerų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22169
@@ -233,7 +120,6 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-105594
     - t-105593
 
 - id: c-98293

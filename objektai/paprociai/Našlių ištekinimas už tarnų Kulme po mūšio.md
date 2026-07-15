@@ -63,70 +63,13 @@ Nenurodyta
   pagrindžia:
     - c-63449
     - c-63451
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po mūšio Kulmo vyskupas įpareigojo visas našles tekėti už savo tarnų, nes Kulmo mieste buvo išžudyti vyrai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi
-    tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą,
-    tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų baisiame pavojuje. Nutiko
-    taip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
-    kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį. Viena pakuždėjo
-    savo tarnaitei nuvesti jį  į savo namus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Dvi moterys, eidamos į bažnyčią, aikštėje pamatė kauliukais žaidžiantį stiprų ir gražaus gymio tarną.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nutiko
-    taip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
-    kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį. Viena pakuždėjo
-    savo tarnaitei nuvesti jį  į savo namus. Kita greitai viską perprato ir slapta įsakė savo
-    tarnaitei nuvesti  jį  į savo būstą ir tol jo nepaleisti, kol  ji negrįšianti. Po to deramai  jį
-    aprengė ir, bažnyčios palaiminta, paėmė į vyrus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Po mūšio Kulmo vyskupas įpareigojo visas našles tekėti už savo tarnų, nes Kulmo mieste buvo išžudyti vyrai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    42. Apie dviejų našlių ginčą dėl vieno vyro
-
-      Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi
-    tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą,
-    tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų baisiame pavojuje. Nutiko
-    taip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
-    kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-63449
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 90"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi
     tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą,
@@ -145,14 +88,13 @@ Nenurodyta
 - id: c-63450
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 90"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nutiko
-    taip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
+    taip, kad dvi moterys, eidamos į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
     kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį. Viena pakuždėjo
-    savo tarnaitei nuvesti jį  į savo namus. Kita greitai viską perprato ir slapta įsakė savo
-    tarnaitei nuvesti  jį  į savo būstą ir tol jo nepaleisti, kol  ji negrįšianti. Po to deramai  jį
+    savo tarnaitei nuvesti jį į savo namus. Kita greitai viską perprato ir slapta įsakė savo
+    tarnaitei nuvesti jį į savo būstą ir tol jo nepaleisti, kol ji negrįšianti. Po to deramai jį
     aprengė ir, bažnyčios palaiminta, paėmė į vyrus.
   citata_rodoma: "Nutiko\ntaip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant\nkauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį. Viena pakuždėjo\nsavo tarnaitei nuvesti jį  į savo namus. Kita greitai viską perprato ir slapta įsakė savo\ntarnaitei nuvesti  jį  į savo būstą ir tol jo nepaleisti, kol  ji negrįšianti. Po to deramai  jį\naprengė ir, bažnyčios palaiminta, paėmė į vyrus."
   statusas: verified
@@ -165,8 +107,7 @@ Nenurodyta
 - id: c-63451
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 90"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     42. Apie dviejų našlių ginčą dėl vieno vyro
 

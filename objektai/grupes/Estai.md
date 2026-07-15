@@ -12,14 +12,14 @@ datos:
   - '2026 m.'
 date_start: '1260'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -207,76 +207,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - susijęs iš Norvegija: 1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
-    Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
-    raštį „Aušra“ („Auszra“). Pirmuoju redaktoriumi buvo tuomet Prahoje
-    gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indo-
-    europiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavi-
-    čius (1851–1927). Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų
-    tautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos
-    pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
-    jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
-    imperijoje turi latviai ir estai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1260 m. Klaipėdoje estai minimi tarp Ordino prievarta buriamų karių iš užgrobtų žemių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ordino pajėgos
-    1260 m. Klaipėdoje prieš Lietuvą buvo
-    sutelktos Livonijos ir Prūsijos kryžiuočių
-    ordinų pajėgos, broliai riteriai ir
-    i 4 jiems pavaldžių užgrobtų žemių
-    “prievarta buriami kariai (prūsai -
-    pamedėnai, notangai, varmiai, sem-
-    bai, o taip pat kuršiai, estai ir kt.), iš
-    Vokietijos žemių 30 naujai įstojusių Ordino
-    brolių būrys, Revelio (Talino) danų kariuo-
-    menė, vadovaujama švedų kunigaikščio
-    Karolio, turėjusio dar savo būrį. Į šią kry-
-    žiaus karo akciją buvo įtraukti ir prieš tuo
-    metu Rytų Europą užplūdusius totorius
-    gausiai suverbuoti kryžininkai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Broliams puolant lietuvius, estai kartu su kuršiais pasitraukė iš mūšio lauko.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšyje „Prūsijos kilmingieji ištikimai pa-
-    laikė brolius“, nors eiliniai prūsai jiems
-    greičiausiai nebuvo palankūs. Tolesnės
-    kovos eigoje „broliams puolant lietuvius“,
-    kuršiai „ėmė trauktis, kai estai tai pamatė,
-    drauge bėgti suskato, palikę mūšio lauką“.
-
-    Ordino pajėgos „pagonių būrių“ buvo
-    apsuptos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Narbutas rašė, kad laisvės, malonumų ir džiaugsmo deivę Lietuvą tebežinojo lietuviai, latviai ir estai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -295,76 +225,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
-- c-005
-  santrauka: 'Narbutas estų pavadinimą laikė gotišku ir kildino iš žodžio „Ėst“ arba „Aest“, reiškiančio rytus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau vėl pažvelkime į mūsų Baltijos že­
-    mes, kur gyveno tauta, vadinama estais. Sis pavadini­
-    mas, be abejo, gotiškas ir kildinamas iš žodžio Ėst arba
-    Aest ir reiškia rytus. Šiuos kraštus pirmieji atrado skan­
-    dinavai ir pradėjo naudotis tų atradimų vaisiais, todėl
-    pagrįstai galima manyti, jog jie ir davė šiai žemei pava­
-    dinimą. Tad, kai tik raštinga Europa pažino skandinavus,
-    arba gotus, ir jų atradimus, pradėtas vartoti šis pavadi­
-    nimas, kuris buvo taikomas visai Baltijos jūros pakran­
-    tei nuo Vyslos iki Nevos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Narbutas iš Pitėjo aprašymo sprendė, kad jo laikų Prūsijos gyventojai nesivadino estais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Iš išlikusių istorinių padavimų apie Estiją
-    seniausias yra Masilijos keliautojo Kitėjo*, kuris šalia
-    gotonų mini estus2. Vėliau kalbėsime apie šio astronomo
-    keliones, o dabar pasakysime tik tiek, jog visas jo apra­
-    šymas yra toks aiškus ir raiškus, kad nedera abejoti: tuo­
-    metiniai Prūsijos gyventojai nesivadino estais. Jie rinko
-    gintarą Abalo saloje; jį pardavinėjo gotonai. Ši kelionė
-    įvyko 340 metais prieš Kristaus gimimą; nuo tų laikų
-    net iki Tacito senovės autoriai niekur nemini Estijos, nors
-    kai kurie, kaip Diodoras Sicilietis, Melą ir net pats Pli-
-    nijus, rėmęsis Pitėjo ir kitais kelionių Šiaurės jūromis
-    aprašymais, estų nemini.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Narbutas rašė, kad nuo Tacito iki Teodoriko Didžiojo apie estus nėra žinių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    80
-    Vėlesni padavimai. Apie estus nėra žinių nuo Tacito
-    laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
-    tijos jūros pakrančių gyventojais, kurie prekiavo gintaru
-    ir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,
-    daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­
-    jęs, mini estus, kurie taip pat gyveną jūros pakrantėje3.
-    Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
-    riko įtaką Europos vakaruose gyvenančioms tautoms ir
-    gentims, sako: „Turbūt tas pats karalius Germanarikas
-    savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
-    kraštą ir pavergė estų tautą“4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
 
 ## Citatos
 
@@ -446,13 +306,13 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    127
-
-    ## Puslapis 127
-
-    Lietuva į.Liethua)
-    Laisvės, malonumų, džiaugsmo deivė. Ją tebežino lietu­
-    viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
+    - R.J.), dukters -
+    Dalia (Dala) arba Dahla. Murgų, arba Tautų sambūrio, rūmai
+    buvo pačioje toliausioje šiaurėje.
+    Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
+    radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
+    šytoje ant pergamento rusų kalba, kuria bajorui Rimvydui
+  citata_rodoma: "127\n\n## Puslapis 127\n\nLietuva į.Liethua)\nLaisvės, malonumų, džiaugsmo deivė. Ją tebežino lietu­\nviai, ypač senojoje Trakų vaivadijoje, latviai ir estai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -463,8 +323,7 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - id: c-175171
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 88"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 88."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau vėl pažvelkime į mūsų Baltijos že­
     mes, kur gyveno tauta, vadinama estais. Sis pavadini­
@@ -486,8 +345,7 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - id: c-175172
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 89"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš išlikusių istorinių padavimų apie Estiją
     seniausias yra Masilijos keliautojo Kitėjo*, kuris šalia
@@ -511,8 +369,7 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - id: c-175173
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     80
     Vėlesni padavimai. Apie estus nėra žinių nuo Tacito

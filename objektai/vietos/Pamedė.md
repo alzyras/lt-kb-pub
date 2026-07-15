@@ -9,15 +9,15 @@ datos:
   - '1247 m.'
 date_start: '1247'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
+  - vyskupas
   - pilis
-  - žemė
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -115,6 +115,13 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   teiginys: "Narbutas iš tvirtovių išsidėstymo sprendė, kad rytinė ir šiaurinė Pamedės dalys buvo gerai apgyvendintos."
   pagrindžia:
     - c-175488
+
+<a id="claim-t-197905"></a>
+- t-012
+  global_id: t-197905
+  teiginys: "Pamedė Į šiaurę už Osos upės ir prie jos plytėjusios girios pri klausė antrai Pamedės provincijai."
+  pagrindžia:
+    - c-175487
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188211|Kryžiuočių ordinas]]: 1247 m. kryžiuočiai jau valdė Pamedę, bet dėl kovų neturėjo pakankamai laiko jos vidaus sutvarkymui.
 - susijęs iš [[objektai/paprociai/Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos.md#claim-t-62712|Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)]]: Antrosios atskalūnybės metais Ordino broliai sudegino Spitenbergo pilį Pamedėje ir pasitraukė, nes nebegalėjo joje priešintis prūsams.
 - susijęs iš Schützo Prūsijos kronika: Narbutas, remdamasis Prūsijos kronikomis, pasakoja, kad 1247 m. Pamedėje aitvarai esą viešai rodydavosi žmonių pavidalu.
@@ -225,187 +232,12 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66828|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas įsiveržė į Pamedės ir Kulmo žemes, jas siaubė, sugriovė daugumą pilių ir išžudė 4 tūkstančius krikščionių.
 - susijęs iš Spitenbergas: Spitenbergas buvo maža kryžiuočių pilis, kurios tikslesnė vieta Pamedėje nenustatyta.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pamedės žemėje buvusią Spitenbergo pilį antrosios atskalūnybės metais broliai sudegino ir paliko dėl prūsų antpuolių bei reikmenų stokos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    151 (146). Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis
-
-      Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai. Antrosios
-    atskalūnybės metais prūsai tiek kartų ją kamavo antpuoliais, kad negalima buvo joje
-    ilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo
-    ginklanešiais, ir ji po šiai dienai tebestovi apleista.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Petro iš Dusburgo kronikoje Pamedė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
-    vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  santrauka: 'Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis išnaršė Pagudę bei Pamedę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą
-
-      Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,
-    antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė
-    visus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui
-    patraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu
-    vienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Pamedės kilmingasis Samilis padėjo badaujančiai Kristburgo piliai, nors gyveno tarp priešų ir tikėjimą bei brolius gerbė slapta.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
-
-       Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
-    didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų. Visa tai plukdydami
-    Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris
-    kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,
-    jei nebūtų spėjęs ateiti su pagalba vienas Pamedės kilmingasis, vardu Samilis426, Tusino
-    tėvas, gyvenęs tarp priešų, bet slaptai gerbęs tikėjimą ir brolius. Šitai sužinoję, prūsai
-    įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
-    tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
-    ten jis, ilgesnį laiką pasirgęs, galop pagijo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-005
-  santrauka: 'Petro iš Dusburgo kronikoje Pamedė įtraukta į vienuolikos atskirų Prūsijos žemių sąrašą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
-    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
-    iki Nemuno.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-006
-  santrauka: '1247 m. kryžiuočiai jau valdė Pamedę, bet, Narbuto aiškinimu, dėl kovų neturėjo pakankamai laiko jos vidaus tvarkai ir krikščionybei įtvirtinti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Moteris, suviliota
-    šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
-    Įdomią smulkmeną apie tuos dievaičius mums paliko Prū­
-    sijos kronikos . 1247 metais, kai kryžiuočiai jau valdė Pame-
-    dę ir tenykščius žmones lyg ir atvertė į krikščionių tikėjimą,
-    vis dėlto dėl nuolatinių sumaiščių ir kovų su kitų provincijų
-    gyventojais, remiamais Pamario kunigaikščio Sviatopelko, jie,
-    matyt, neturėjo pakankamai laiko pasirūpinti Pamedės vidaus
-    sutvarkymu bei atverstos tautos tikėjimo įtvirtinimu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Narbuto pasakojime pamedėnai turėjo prisiekti nebepriimti krikščionių tikėjimo ir ginti senąjį tikėjimą net mirties kaina.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šie sakė, kad aukštieji dievai užsiundę tas
-    piktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.
-    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
-    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
-    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
-    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
-    mi, bet gins savo senąjį tikėjimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Narbutas Pamedės pavadinimą kildino iš lietuviško žodžio „Meže“, reiškiančio ribą, nes Pamedė ribojosi su svetimais kraštais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    257
-    Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­
-    ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­
-    sėje su svetimais kraštais. Čia buvo senovinės Grevožės,
-    Probuto ir kitos pilys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Narbutas Pamedės gyventojus apibūdino kaip karingus ir kupinus normaniškos dvasios, o pačioje Pamedėje minėjo daug garbingų šeimų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Čia buvo senovinės Grevožės,
-    Probuto ir kitos pilys. Rytuose ji ribojosi su Pagude ir
-    Hokerlandija, pietuose — su Ruimu, vakaruose Vysla
-    skyrė nuo Pamario, o šiaurėje buvo Baltijos jūra. Čia
-    gyvenę žmonės buvo karingi, kupini normaniškos dva­
-    sios; Pamedėje gyveno daug garbingų šeimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
 - c-010
   santrauka: 'Į šiaurę už Osos upės ir prie jos plytėjusios girios buvo antroji Pamedės provincija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Atėjus kryžiuočiams, visos šios tvirtovės ir
+    Ypač seniai egzistavo Kulmas, Chetmno, seno­
+    vinis Ulmas. Atėjus kryžiuočiams, visos šios tvirtovės ir
     pilys visame Kulme ir Lubavoje buvo visiškai sunaikin­
     tos, didesnė dalis krašto, nuniokoto nesiliaujančių mazo-
     viečių karų su prūsais, priklausė Kulmo vyskupui, o kita
@@ -413,8 +245,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     vertė.
     Pamedė
     Į šiaurę už Osos upės ir prie jos plytėjusios girios pri­
-    klausė antrai Pamedės provincijai. Nuo šios girios Os­
-    termejeris (Preuss.
+    klausė antrai Pamedės provincijai.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -422,6 +253,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+    - t-012
 
 - c-011
   santrauka: 'Narbutas iš tvirtovių išsidėstymo sprendė, kad rytinė ir šiaurinė Pamedės dalys buvo gerai apgyvendintos.'
@@ -451,15 +283,16 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-107349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 140"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    151 (146). Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis
-
-      Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai. Antrosios
-    atskalūnybės metais prūsai tiek kartų ją kamavo antpuoliais, kad negalima buvo joje
-    ilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo
-    ginklanešiais, ir ji po šiai dienai tebestovi apleista.
+    Susirūpinęs dėl šio
+    įvykio vyskupas susišaukė kilminguosius bei vasalus, įpareigodamas juos už nuodėmes
+    išeiti [iš miesto] ir tiksliai sužinoti, kiek priešo kariuomenėje karių ir kokio ji stiprumo.
+    Išeinančius [iš miesto] pasitiko prūsai, prasidėjo kautynės, kuriose jie sužeidė vieną tokį
+    aukštą prūsą, kad jis buvo visa uolektimi aukštesnis už kitus, ir pusgyvį jį atsigabeno į
+    miestą. Jį paėmus į nelaisvę, be galo susikrimto prūsų vadas, kuris pažadėjo pasitraukti
+    nuo miesto ir nebeskriausti krikščionių, jeigu jiems būsiąs atiduotas šis sužeistasis, o
+    šitaip abi šalys ir padarė.
   citata_rodoma: "Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis\n\n  Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai. Antrosios\natskalūnybės metais prūsai tiek kartų ją kamavo antpuoliais, kad negalima buvo joje\nilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo\nginklanešiais, ir ji po šiai dienai tebestovi apleista."
   statusas: verified
   teiginio_tipas: faktas
@@ -471,13 +304,13 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-107350
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Prūsai ir Lietuva
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
     vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
@@ -493,16 +326,17 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-107351
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 146"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą
-
-      Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,
-    antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė
-    visus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui
-    patraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu
-    vienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado.
+    Kadangi miestiečiai, dar nepailsę,
+    naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
+    laiką nieko nedarė. Rengdamiesi antrą kartą pakilti į kovą, pagudėnai pradėjo įtikinėti
+    krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.
+    Galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų
+    gyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi
+    miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni
+    gynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo
+    ant iškeltų prūsų iečių, o likusieji sudegė.
   citata_rodoma: "Apie Veklico pilies ir vienos pilaitės sugriovimą\n\n  Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,\nantrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė\nvisus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui\npatraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu\nvienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado."
   statusas: verified
   teiginio_tipas: faktas
@@ -514,12 +348,10 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-107352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 138"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
-
-       Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
+    Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
     didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų. Visa tai plukdydami
     Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris
     kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,
@@ -538,15 +370,14 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-107353
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno.
   citata_rodoma: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
@@ -560,8 +391,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-171688
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 177"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Moteris, suviliota
     šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
@@ -582,16 +412,18 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-171689
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 178"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šie sakė, kad aukštieji dievai užsiundę tas
-    piktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.
-    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
-    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
-    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
-    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
-    mi, bet gins savo senąjį tikėjimą.
+    Tai buvo barstukai, tik kilmin-
+    gesnės giminės. Jiems nusilenkdavo pats Pušaitis, prašydamas
+    kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
+    jus nuo nelaimingų žmonių engimo.
+    Barstukai (Barstuki)
+    Požemio dievaičiai, nykštukai. Tą vardą Stenderis išveda
+    iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
+    ke - lėlė. Kitaip juos vadindavo piktukais nuo Piktas', netoli
+    Vilniaus yra Piktukonių (Piktukance) kaimas.
+  citata_rodoma: "Šie sakė, kad aukštieji dievai užsiundę tas\npiktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.\nTad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­\nkė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai\nprisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada\nnelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-\nmi, bet gins savo senąjį tikėjimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -602,8 +434,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-175485
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     257
     Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­
@@ -620,8 +451,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-175486
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Čia buvo senovinės Grevožės,
     Probuto ir kitos pilys. Rytuose ji ribojosi su Pagude ir
@@ -639,10 +469,10 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-175487
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 354"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 354."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Atėjus kryžiuočiams, visos šios tvirtovės ir
+    Ypač seniai egzistavo Kulmas, Chetmno, seno­
+    vinis Ulmas. Atėjus kryžiuočiams, visos šios tvirtovės ir
     pilys visame Kulme ir Lubavoje buvo visiškai sunaikin­
     tos, didesnė dalis krašto, nuniokoto nesiliaujančių mazo-
     viečių karų su prūsais, priklausė Kulmo vyskupui, o kita
@@ -652,20 +482,25 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     Į šiaurę už Osos upės ir prie jos plytėjusios girios pri­
     klausė antrai Pamedės provincijai. Nuo šios girios Os­
     termejeris (Preuss.
+  citata_rodoma: "Ypač seniai egzistavo Kulmas, Chetmno, seno­\nvinis Ulmas. Atėjus kryžiuočiams, visos šios tvirtovės ir \npilys visame Kulme ir Lubavoje buvo visiškai sunaikin­\ntos, didesnė dalis krašto, nuniokoto nesiliaujančių mazo- \nviečių karų su prūsais, priklausė Kulmo vyskupui, o kita \ndalis Mazovijos kunigaikščiui, nors ji buvo jam menka­\nvertė.\nPamedė\nĮ šiaurę už Osos upės ir prie jos plytėjusios girios pri­\nklausė antrai Pamedės provincijai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192717
+    - t-197905
 
 - id: c-175488
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 356"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Netgi teigiama, kad Grevožos tvirtovėje gyvenęs
+    Ant Grevožos kalno, kur dabar stūkso
+    Christburgo pilies griuvėsiai, stovėjo pilis, slėpusi neto­
+    liese buvusią šventą girią ir šventovę; šiandien tą Šventą
+    vietą primena Heiligenmalde, esanti į pietus nuo Christ­
+    burgo. Netgi teigiama, kad Grevožos tvirtovėje gyvenęs
     vietinis Krivis.
     Kitos tvirtovės buvo šalia Stumos, Postelino, Postolin,
     Reisių apskrityje prie Drūsinės ežero, šiandienio Vilen-
@@ -676,6 +511,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     taip pat Nogato ir Vyslos tarpupis buvo Labai mažai ap­
     gyvendinta arba čia apskritai nebuvo nuolatinių gyven­
     tojų.
+  citata_rodoma: "Netgi teigiama, kad Grevožos tvirtovėje gyvenęs\nvietinis Krivis.\nKitos tvirtovės buvo šalia Stumos, Postelino, Postolin,\nReisių apskrityje prie Drūsinės ežero, šiandienio Vilen-\nbergo kaimo apylinkėse, taip pat prie Vyslos. Iš to tvir­\ntovių išsidėstymo jau galima daryti išvadą, jog rytinė ir\nšiaurinė Pamedės dalys buvo gerai apgyvendintos, o šiau­\nrėje plytėjusios žemės šalia Malborko net iki Elbliongo,\ntaip pat Nogato ir Vyslos tarpupis buvo Labai mažai ap­\ngyvendinta arba čia apskritai nebuvo nuolatinių gyven­\ntojų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -58,26 +58,6 @@ Nenurodyta
   teiginys: "1418 m. Vytauto į Konstancą siųstos G. Camblako delegacijos mišios Konstanco katedroje buvo išsamiai vaizduojamos to meto kronikose."
   pagrindžia:
     - c-22925
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1418 m. Vytauto į Konstancą siųstos G. Camblako delegacijos mišios Konstanco katedroje buvo išsamiai vaizduojamos to meto kronikose.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1418 m. Vytautas siunčia į
-    Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
-    grįsti siekį gyventi unijoje su Katalikų bažnyčia. G. Camblako ekume-
-    ninės mišios Konstanco katedroje amžininkams paliko tokį įspūdį, kad
-    imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis
-    prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
-    lių bendriją vaizduojančią Strasbūro freską.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -52,42 +52,6 @@ media_all_json: |-
   teiginys: "Andrusavos paliaubose nustatytos sienos buvo patvirtintos 1686 m. „amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m."
   pagrindžia:
     - c-77403
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1659 m. rusai užėmė
-    Slanimą, Lydą ir Gardiną. Lietuvos didžiojo etmono Povilo Sapiegos
-    vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661
-    m. išvadavo Vilnių, Kauną ir Gardiną, ilgainiui Rusijos kariuomenė
-    buvo iš Lietuvos išstumta. 1667 m. sausio 30 d. netoli Smolensko pa-
-    sirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko
-    Smolenskas, Černigovas, Severų Naugardas, Kijevas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Andrusavos paliaubose nustatytos sienos buvo patvirtintos 1686 m. „amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ATR pripažino
-    kairiakrantės Ukrainos susijungimą su Rusija. Rusija pasižadėjo
-    grąžinti pagrobtą turtą, Lietuva atgavo Latgalą, Polocką ir Vitebską.
-    Sutartyje nustatytos sienos buvo patvirtintos 1686 m. „amžinąja
-    taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

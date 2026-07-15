@@ -64,22 +64,6 @@ Nenurodyta
   teiginys: "Rusiškas pėstininkų graižtvinis šautuvas kapsuline spyna pagamintas 1847 m. Tuloje, o 1855 m. perdarytas iš titnaginio į kapsulinį."
   pagrindžia:
     - c-41082
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vilniaus karinės apygardos, kurią sudarė
-
-    Rusiškas pėstininkų graižtvinis šautuvas kapsuline spyna, pagamintas 1847 m. Tuloje.
-    Iš titnaginio į kapsulinį perdarytas 1855 m. Kalibras — 15,25 mm.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

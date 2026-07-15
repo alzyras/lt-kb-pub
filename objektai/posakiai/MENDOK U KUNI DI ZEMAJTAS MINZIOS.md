@@ -42,8 +42,8 @@ Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo,
   teiginys: "Narbutas užrašą „ZEMAJTAS: MINZIOS“ skydelio pusėje aiškino kaip „Žemaičių moneta“."
   pagrindžia:
     - c-172453
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo, siejo su skaitymu „MENDOK: U“ ir „KUNI: DI“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -63,39 +63,22 @@ Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo,
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas užrašą „ZEMAJTAS: MINZIOS“ skydelio pusėje aiškino kaip „Žemaičių moneta“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kita pusė: tokiame pačiame apvade -  skydelis su panašiu
-    apvadėliu; jame smulkiai iškalta kažkas panašaus į Lietuvos
-    Vytį. Centre -  lokys, pasistiebęs ant užpakalinių letenų, pasi­
-    sukęs į dešinę pusę. Lygus užrašas, prasidedantis nuo skydelio
-    dešiniojo krašto, yra toks: ZEMAJTAS: MINZIOS, tai yra: Že­
-    maičių moneta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172452
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 250"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 250."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Aplinkui iškilus apvadas iš lapelių ar širdžių. Užrašas runo­
-    mis; priešais žmogų -  runos, peskaitomos iš viršaus į apačią ir,
-    pasak išnagrinėjusio mokovo, reiškiančios MENDOK: U; už
-    žmogaus -  iš apačios į viršų -  KUNI: DI. Santrumpoje MEN­
-    DOK raidė U galėtų reikšti tam tikrą skaičių arba kunigaikš­
-    čio pravardės pradinę raidę. Kunigas Didis reiškia didįjį kuni­
-    gaikštį.
+    Tik jos radimas šalia vieti­
+    nės primena, kad iki Mindaugo laikų, arba iki XIII amžiaus
+    antrosios pusės, čionykščių gyventojų rankose būta antikinių
+    monetų rinkinių, laikytų šalia vietinių.
+    III lentelė, 16-asis piešinys. Pagrindinė pusė: jauno žmo­
+    gaus, vainikuoto kunigaikščio mitra, biustas veidu į priekį; iš
+    kairės - vėliava su dviem įkirpimais. Senovinės liutnios pavi­
+    dalo apvadėlis.
+  citata_rodoma: "Aplinkui iškilus apvadas iš lapelių ar širdžių. Užrašas runo­\nmis; priešais žmogų -  runos, peskaitomos iš viršaus į apačią ir,\npasak išnagrinėjusio mokovo, reiškiančios MENDOK: U; už\nžmogaus -  iš apačios į viršų -  KUNI: DI. Santrumpoje MEN­\nDOK raidė U galėtų reikšti tam tikrą skaičių arba kunigaikš­\nčio pravardės pradinę raidę. Kunigas Didis reiškia didįjį kuni­\ngaikštį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -106,12 +89,11 @@ Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo,
 - id: c-172453
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 250"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 250."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kita pusė: tokiame pačiame apvade -  skydelis su panašiu
+    Kita pusė: tokiame pačiame apvade - skydelis su panašiu
     apvadėliu; jame smulkiai iškalta kažkas panašaus į Lietuvos
-    Vytį. Centre -  lokys, pasistiebęs ant užpakalinių letenų, pasi­
+    Vytį. Centre - lokys, pasistiebęs ant užpakalinių letenų, pasi­
     sukęs į dešinę pusę. Lygus užrašas, prasidedantis nuo skydelio
     dešiniojo krašto, yra toks: ZEMAJTAS: MINZIOS, tai yra: Že­
     maičių moneta.

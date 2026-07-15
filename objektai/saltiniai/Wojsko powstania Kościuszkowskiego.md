@@ -40,22 +40,6 @@ Wojsko powstania Košciuszkowskiego, Warszawa, 1987.
   teiginys: "L. Ratajczyko ir J. Teodorczyko „Wojsko powstania Kościuszkowskiego“ išleista Varšuvoje 1987 m."
   pagrindžia:
     - c-41714
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 143, LDK 2-ojo Didžiosios buožės pėstininkų regimento eilinis su Ketverių metų
-
-    seimo periodo pavyzdžio uniforma, Ratajczyk L. Teodorczyk J. Wojsko powstania
-    Košciuszkowskiego, Warszawa, 1987.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

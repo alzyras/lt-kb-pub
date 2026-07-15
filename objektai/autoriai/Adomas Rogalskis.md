@@ -43,40 +43,20 @@ Adomo Rogalskio vertimas iš lotynų kalbos 1823 m. buvo išspausdintas Vilniaus
   teiginys: "Adomo Rogalskio vertimas iš lotynų kalbos 1823 m. buvo išspausdintas Vilniaus periodiniame leidinyje „Dziennik Wileński“."
   pagrindžia:
     - c-173295
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Adomo Rogalskio vertimas iš lotynų kalbos 1823 m. buvo išspausdintas Vilniaus periodiniame leidinyje „Dziennik Wileński“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Istorikas naudojosi ir lenkišku vertimu, dar
-    1823 metais išspausdintu Vilniaus periodikoje (Mi­
-    tologija Jana Lasickiego Polaka, o bogach Zmu-
-    dzinów i innych Sarmatów. Z laciñskiego tlumac-
-    zenie Adama Rogalskiego // Dziennik Wileñski. -
-    1823. -  T. I, III. -  S. 248-255; 398-406).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 502"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 502."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Istorikas naudojosi ir lenkišku vertimu, dar
     1823 metais išspausdintu Vilniaus periodikoje (Mi­
     tologija Jana Lasickiego Polaka, o bogach Zmu-
     dzinów i innych Sarmatów. Z laciñskiego tlumac-
     zenie Adama Rogalskiego // Dziennik Wileñski. -
-    1823. -  T. I, III. -  S. 248-255; 398-406).
+    1823. - T. I, III. - S. 248-255; 398-406).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

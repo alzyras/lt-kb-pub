@@ -44,24 +44,6 @@ Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met.
   teiginys: "Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje."
   pagrindžia:
     - c-38109
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas su­
-    teikė Brastos ir Trakų, o 1389 met. ir Gardino žydams privilegiją.
-    Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met. ir
-    lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­
-    džiu. Tose privilegijose nustatytais dėsniais žydai gyveno Lie­
-    tuvoje ilgus šimtmečius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

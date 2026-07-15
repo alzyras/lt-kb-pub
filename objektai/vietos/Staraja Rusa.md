@@ -48,29 +48,6 @@ liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, 
   teiginys: "Per 1581 m. reidą K. Radvila sudegino Starają Rusą ir sunaikino jos įgulą."
   pagrindžia:
     - c-77035
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis
-
-    vos atkariautos teritorijos
-
-    Starajos Rusos miesto
-    ir jį sudegino, o įgulą
-    „išmušė“. Galiausiai buvo
-    nusiaubtos Opokos apylinkės.
-    Spalio 23 d. K. Radvila pasiekė prie
-    apgulto Pskovo buvusią S. Batoro
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -95,5 +72,5 @@ liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80184
     - t-80183
+    - t-80184

@@ -51,8 +51,8 @@ Nenurodyta
   teiginys: "Pagal genties papročius valdovas buvo sudegintas ant laidotuvių laužo, o jo pelenų vieta laikyta šventenybe."
   pagrindžia:
     - c-169259
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pagal genties papročius valdovas buvo sudegintas ant laidotuvių laužo, o jo pelenų vieta laikyta šventenybe.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -79,18 +79,23 @@ Nenurodyta
 - id: c-169259
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 62"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 62."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pagal genties papročius valdovą su­
-    degino ant laidotuvių laužo. Toje pačioje vietoje pa­
-    garbiai užkasus pelenus, pastatė nelyginant atminimo
-    statulą, kuri palikuonių buvo laikoma šventenybe, kaip,
-    beje, ir visa vieta, ir kuriai iki pat Jogailos laikų bu­
-    vo atiduodama dieviškoji pagarba. Vėliau keletą kartų
-    siuntė ginkluotą pagalbą kaimyninei Prūsijai, kai šią
-    gentį ėmė puldinėti lenkų karalius Boleslovas Narsu­
-    sis.
+    Kernu-
+    sijui, arba Kerniui, atidavė valdyti Lietuvos žemes
+    tarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­
+    tui paskyrė Žemaitiją.
+    Tėvui padalijus valdžią,
+    1040 m eta i
+    Kernius ir Gimbutas Kūnai-
+    K e in iu s ir G im bu tas
+    čiai nepatyrė nei kokių nuo­
+    stolių, nei pavojų. Atrodė,
+    esama vienos valstybės, kurioje tarp valdovų ir valdi­
+    nių viešpatauja didžiausia santarvė. Tuo būdu šie val­
+    dovai ne tik saugojo Lietuvą nuo pavojų, bet ją dar
+    labiau stiprino.
+  citata_rodoma: "Pagal genties papročius valdovą su­\ndegino ant laidotuvių laužo. Toje pačioje vietoje pa­\ngarbiai užkasus pelenus, pastatė nelyginant atminimo\nstatulą, kuri palikuonių buvo laikoma šventenybe, kaip,\nbeje, ir visa vieta, ir kuriai iki pat Jogailos laikų bu­\nvo atiduodama dieviškoji pagarba. Vėliau keletą kartų\nsiuntė ginkluotą pagalbą kaimyninei Prūsijai, kai šią\ngentį ėmė puldinėti lenkų karalius Boleslovas Narsu­\nsis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -58,8 +58,8 @@ Nenurodyta
   teiginys: "Kita kariuomenės dalis nusiaubė Bisenės pilies apylinkes ugnimi ir su dideliu grobiu sugrįžo atgal."
   pagrindžia:
     - c-66711
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kita kariuomenės dalis nusiaubė Bisenės pilies apylinkes ugnimi ir su dideliu grobiu sugrįžo atgal.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -68,9 +68,6 @@ Nenurodyta
     apylinkes ir, nusiaubusi kraštą ugnimi, su didžiausiu grobiu sugrįžo atgal. Šio antpuolio
     metu daug krikščionių buvo sunkiai sužeista, o 4 broliai bei vienas tarnas su arkliais ir
     ginklais paskendo Nemune, nes jų neišlaikė ledas.
-
-
-
 
       518 Apie Ordino antinacionalinę politiką pavergtų prūsų atžvilgiu žr.
   citata_rodoma: ''
@@ -106,18 +103,19 @@ Nenurodyta
 - id: c-66711
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 172"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 172."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kita kariuomenės dalis įsibrovė  į šios pilies
-    apylinkes ir, nusiaubusi kraštą ugnimi, su didžiausiu grobiu sugrįžo atgal. Šio antpuolio
-    metu daug krikščionių buvo sunkiai sužeista, o 4 broliai bei vienas tarnas su arkliais ir
-    ginklais paskendo Nemune, nes jų neišlaikė ledas.
-
-
-
-
-      518 Apie Ordino antinacionalinę politiką pavergtų prūsų atžvilgiu žr.
+    225 (220). Apie bartų sugrįžimą ir daugybės lietuvių žūtį
+    Kai broliai rengėsi pulti anksčiau minėtąją Gardino pilį, kurie ne kurie bartai,
+    pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė
+    prieš Lenkiją, iš kur, neskaitant kitų ten padarytų nusikaltimų, išsivarė didelį grobį:
+    daug žmonių bei gyvulių. Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
+    nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
+    taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus;
+    šitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai
+    sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
+    galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino.
+  citata_rodoma: "Kita kariuomenės dalis įsibrovė  į šios pilies\napylinkes ir, nusiaubusi kraštą ugnimi, su didžiausiu grobiu sugrįžo atgal. Šio antpuolio\nmetu daug krikščionių buvo sunkiai sužeista, o 4 broliai bei vienas tarnas su arkliais ir\nginklais paskendo Nemune, nes jų neišlaikė ledas.\n\n\n\n\n  518 Apie Ordino antinacionalinę politiką pavergtų prūsų atžvilgiu žr."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -128,17 +126,24 @@ Nenurodyta
 - id: c-66712
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 172"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 172."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    222 (217). Apie Lietuvos pilies, vardu Bisenė, užkariavimą
-
-       Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su
-    didele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo
-    ryto iki pietų smarkiai puolė pilį, vardu Bisenė519, ir puldami buvo taip įnirtę, kad, nukovę
-    daugybę pilies gynėjų ar mirtinai sužeidę, galop įsiveržė į ją ir pavertė pelenais, vienus
-    pilėnus paėmę  į nelaisvę, o kitus išžudę. Kita kariuomenės dalis įsibrovė  į šios pilies
-    apylinkes ir, nusiaubusi kraštą ugnimi, su didžiausiu grobiu sugrįžo atgal.
+    Mirties patale gulėdamas, jis, paklaustas
+    brolio Konrado, Baigos kunigo, kodėl susilaukęs iš viešpaties šitokios malonės įtikėti
+    Kristumi, atsakė: „Prieš savo atsivertimą nieko gera nesu padaręs, gal tik tą vienui vieną
+    darbą, kad, netikėliams pagrobus Lenkijoje švenčiausiosios mergelės Marijos bei jos
+    sūnaus paveikslą ir jį pusiau perpjovus, pakėliau jį nuo žemės, nuvaliau savo drabužiais
+    ir padėjau ten, kur jam dera būti“. Sitai pasakęs, laimingai atidavė viešpačiui sielą.
+    225 (220). Apie bartų sugrįžimą ir daugybės lietuvių žūtį
+    Kai broliai rengėsi pulti anksčiau minėtąją Gardino pilį, kurie ne kurie bartai,
+    pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė
+    prieš Lenkiją, iš kur, neskaitant kitų ten padarytų nusikaltimų, išsivarė didelį grobį:
+    daug žmonių bei gyvulių. Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
+    nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
+    taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus;
+    šitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai
+    sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
+    galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino.
   citata_rodoma: "Apie Lietuvos pilies, vardu Bisenė, užkariavimą\n\n   Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su\ndidele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo\nryto iki pietų smarkiai puolė pilį, vardu Bisenė519, ir puldami buvo taip įnirtę, kad, nukovę\ndaugybę pilies gynėjų ar mirtinai sužeidę, galop įsiveržė į ją ir pavertė pelenais, vienus\npilėnus paėmę  į nelaisvę, o kitus išžudę. Kita kariuomenės dalis įsibrovė  į šios pilies\napylinkes ir, nusiaubusi kraštą ugnimi, su didžiausiu grobiu sugrįžo atgal."
   statusas: verified
   teiginio_tipas: faktas

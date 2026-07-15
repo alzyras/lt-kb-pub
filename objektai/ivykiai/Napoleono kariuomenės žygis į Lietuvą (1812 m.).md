@@ -53,25 +53,6 @@ Nenurodyta
   teiginys: "Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Lietuvos Didžiosios Kunigaikštijos atkūrimu Napoleono globoje."
   pagrindžia:
     - c-66924
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Lietuvos Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau
-    sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-
-    boje. Bet Napoleonui pirmučiausia rūpėjo, kiek Lietuva galėtų
-    duoti jo armijai maisto ir kareivių. Bajorijos atsiunčiamoms de-
-    legacijoms jis nieko tikro nežadėjo, nes dar tebebuvo neaiški
-    karo pabaiga.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

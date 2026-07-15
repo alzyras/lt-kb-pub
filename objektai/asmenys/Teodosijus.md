@@ -9,16 +9,16 @@ datos:
   - '1431 m.'
 date_start: '1390'
 date_end: '1431'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
-amziai:
-  - 'XIV'
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,25 +53,15 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   teiginys: "Rytų Romos imperatoriui Teodosijui įsakius nugriauti Aleksandrijos stabmeldžių šventyklas, ant Serapio šventovės akmenų tarp kitų hieroglifų buvo aptikti ženklai, panašūs į kryžių."
   pagrindžia:
     - c-177119
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nepasisekė tik Vytautui didžiajai Lietuvos kunigaikštijai
-    naudinga linkme sutvarkyti rytų Bažnyčios reikalų^61. Mirus Kijevo
-    ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
-    pastangų pravesti Lietuvos stačiatikių metropolitu Polocko vyskupą
-    Teodosijų. Jis buvo tačiau priverstas pripažinti « Kijevo ir visos
-    Rusios» metropolitu graiką Fotijų (1408-1431)^62.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197456"></a>
+- t-003
+  global_id: t-197456
+  teiginys: "Teodosijus yra pasišventimo simbolis, dievų paslapčių ir glo- 14 Qui etiam hieroglificamm literarum interpretendarum periti, characterem sub crucis forma vitam futurum significare dixerunt (lib."
   pagrindžia:
-    - t-001
+    - c-177119
 
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Rytų Romos imperatoriui Teodosijui įsakius nugriauti Aleksandrijos stabmeldžių šventyklas, ant Serapio šventovės akmenų tarp kitų hieroglifų buvo aptikti ženklai, panašūs į kryžių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -117,21 +107,18 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 - id: c-177119
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 379"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 379."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pirmiau­
-    sia tvirtinu, kad kryžius senų senovėje beveik visoms tautoms,
-    kuriose gyvavo kokia nors civilizacija, religiniu požiūriu buvo
-    išganymo, tai yra geresnio pomirtinio gyvenimo vilties, žen­
-    klas. Rytų Romos imperatoriui Teodosijui įsakius nugriauti
-    Aleksandrijos stabmeldžių šventyklas, ant Serapio šventovės
-    akmenų tarp kitų hieroglifų buvo aptikti ženklai, panašūs į
-    kryžių. Romoje, senovinio egiptiečių obelisko, iki šios dienos
-    tebestovinčio priešais Laterano šv.
+    Pavyzdžiui, deivės Cereros
+    rankoje jis yra pasišventimo simbolis, dievų paslapčių ir glo-
+    14 Qui etiam hieroglificamm literarum interpretendarum periti, cha­
+    racterem sub crucis forma vitam futurum significare dixerunt (lib. XII. -
+    Cap. 26)*.
+    15 De civitate Dei.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194723
+    - t-197456

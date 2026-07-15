@@ -54,28 +54,6 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
 - susijęs iš [[objektai/autoriai/R. Krumbholtz.md#claim-t-100120|R. Krumbholtz]]: R. Krumbholtzas rašė apie įvykius po 1398 m. taikos.
 - susijęs iš Geschichte Preussens: J. Voigtas 9 tomų veikale „Geschichte Preussens“ nagrinėjo kryžiuočių santykius su Lietuva iki Vokiečių ordino žlugimo 1525 m.
 - susijęs iš Geschichte des deutschen Ritterordens: Voigt atskirai išleido „Geschichte des deutschen Ritterordens“ 1857–1859 m.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš senesniųjų isto­
-    rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
-    gaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija
-    anuomet buvo labai vertinama ir susilaukė keletos laidų. Buvęs
-    Karaliaučiaus univ. prof. J. Voigt 9 tomų veikale _Geschichte
-    Preusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva
-    iki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte
-    des deutschen Ritterordens_ (1857-1859) ir CDPr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-30597

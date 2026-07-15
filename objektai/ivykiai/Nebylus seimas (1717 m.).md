@@ -64,44 +64,6 @@ Nenurodyta
   teiginys: "Nuo Nebyliojo seimo 1717 m. Petro I politika ilgainiui privedė prie Kotrynos II įvykdytų Respublikos padalijimų."
   pagrindžia:
     - c-28693
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Abu rusų valdovai stengėsi savo
-    valstybę stiprinti vakarinio kaimyno sąskaiton. Nuo «nebylių
-    seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius
-    ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
-    kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai. Tai sudarė
-    visai naują epochą Lietuvos istorijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet
-    praktikoje sustiprėjusios Rusijos įtaka respublikoje taip augo, kad,
-    pvz., Petro Didžiojo atstovas Varšuvoje, generolas Gr. Dolgorukij
-    vad. « nebyliam seimui » (1717 m.) padiktavo caro norimas bajorijos
-    su karaliumi Augustu Il-ju susitaikymo sąlygas. Dolgorukij ir
-    toliau, prisidengęs dizunitų (stačiatikių) gynimu, įkyriai kišosi į
-    respublikos reikalus. Nuo 1717 metų reikia pradėti naują poskyrį
-    Lietuvos istorijoje. Respublika nuo tada jau nebepajėgė toliau
-    pasitraukti iš rusiškosios jėgos magneto lauko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

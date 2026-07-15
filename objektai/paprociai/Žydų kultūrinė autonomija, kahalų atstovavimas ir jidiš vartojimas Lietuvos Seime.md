@@ -63,38 +63,6 @@ Nenurodyta
   teiginys: "1920 m. Lietuvos žydų kahalų atstovų konferencijoje sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus."
   pagrindžia:
     - c-75262
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1920 m. Lietuvos žydų kahalų atstovų konferencijoje sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Galima sakyti, kad dvi svarbiausios užsienio politikos problemos –
-    Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį. Netu-
-    rinčią savo stiprios vadovaujančios vidurinės klasės, nedidelę lietuvių
-    inteligentijos grupę domino žydų parama, ypač jeigu Lietuva atsikurtų
-    su sostine Vilniumi. Žydų miesto bendruomenės ir jų prekybos, finan-
-    sų pajėgų parama dar nelietuviškuose miestuose buvo svarbi ir vidaus,
-    ir užsienio politikos sumetimais. 1918 m. gruodį žydų sionistai Jokūbas
-    Vygodskis ir S. Rozenbaumas tapo Lietuvos vyriausybės nariais atitin-
-    kamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų vi-
-    ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
-    planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
-    tiktai prašė, visų pirma plačiausią kultūrinę autonomiją. Apskritai Lietu-
-    vos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje,
-    žydai savanoriai dalyvavo nepriklausomybės kovose. 1920 m. nacionali-
-    nėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų kon-
-    ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
-    spręsti visus socialinius ir kultūrinius žydų reikalus. Gerai nemokėdami
-    lietuviškai žydų atstovai Lietuvos Seime galėjo kalbėti jidiš – to Europoje
-    dar nebuvo...
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

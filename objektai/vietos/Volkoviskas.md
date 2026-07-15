@@ -59,67 +59,9 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
   teiginys: "Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus."
   pagrindžia:
     - c-175985
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176745|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis lenkų pasiuntinius apdovanojo ir išvykstant pats palydėjo iki Volkovisko.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176745|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis lenkų pasiuntinius apdovanojo ir išvykstant pats palydėjo iki Volkovisko.
 - susijęs iš [[objektai/asmenys/Andrius (Druško kunigaikštis).md#claim-t-87622|Andrius (Druško kunigaikštis)]]: Druško kunigaikščio Andriaus sūnūs valdė Blušą prie Svisločės upės.
 - susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1411 m. Trakuose rašyta Vytauto privilegija Vilniaus kapitulai mainais už Vechatnicos kaimą suteikė valdas Krėvos ir Svisločiaus apylinkėse.
 - susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tie generaliniai seimeliai neišnyko nė įvedus bend-
-    rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
-    seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
-    tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
-    davo Volkoviske, o vėliau Slanime.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pane­
-    lės paveikslas, žmonių laikomas stebuklingu), Sen. Trakuose,
-    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
-    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos
-    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
-    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
-    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
-    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
-    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
-    varniuose, Veliuonoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Sutartis buvo susti-
-    printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-
-    mis. Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
-    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
-    sričių miestus. Tik jie turėjo pripažinti Mindaugo valdžią.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-170389
@@ -180,6 +122,3 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193252
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

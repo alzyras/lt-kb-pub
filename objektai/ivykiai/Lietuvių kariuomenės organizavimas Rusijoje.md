@@ -58,46 +58,6 @@ Nenurodyta
   teiginys: "Lietuvių karininkams pavyko suorganizuoti kelis lietuviškus batalionus Vitebske, Smolenske, Rovnoje, Sibire ir kitur."
   pagrindžia:
     - c-66875
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvių karininkams pavyko suorganizuoti kelis lietuviškus batalionus Vitebske, Smolenske, Rovnoje, Sibire ir kitur.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš
-    tikrųjų lietuviams karininkams buvo pasisekę suorganizuoti net
-    kelis tokiuos lietuviškus batalijonus (Vitebske, Smolenske, Rov-
-    noje — Ukrainoje, — Sibire ir kt.). Tačiau tie batalijonai neilgai
-
-
-    tegyvavo. Bolševikams paėmus valdžią, jie buvo išsklaidyti, ir
-    daugumas lietuvių karių grįžo atskirai, kartu su karo pabėgė-
-    liais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Po revoliucijos Rusijoje lietuviai pradėjo telkti lietuvius karininkus ir kareivius į atskiras kariuomenės dalis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Lietuvių kariuomenės organizavimas Rusijoje.** Kilus Ru-
-    sijoj revoliucijai ir pakrikus armijai, lietuviai, kaip ir dau-
-    gelis kitų Rusijos tautų, puolė organizuoti savos kariuo-
-    menės. Rusų armijoje lietuvių karininkų ir kareivių buvo ne-
-    maža. Todėl buvo pradėta rūpintis juos suburti į atskiras dalis,
-    apginkluoti ir, atsidarius frontui, grąžinti į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

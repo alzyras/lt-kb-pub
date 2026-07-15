@@ -35,30 +35,6 @@ Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žu
   teiginys: "Užsitęsusio karo metu mirus vyskupui ir daugeliui pralotų, buvo prarasta valdovų kapų vietos paslaptis."
   pagrindžia:
     - c-03362
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš tikrųjų rusai visus likusius kapus išdraskė,
-    kaulus išmėtė. Tik ne-
-    galėjo rasti Vytauto ir
-    kitų valdovų kapų. Už-
-    sitęsusio karo metu mi-
-    rė vyskupas ir daugy
-    bė pralotų; drauge su
-    jais žuvo ir valdovų
-    kapų vietos paslaptis
-    jie neatrasti nė XVIII
-    a. pabaigoj, perstatant
-    katedrą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

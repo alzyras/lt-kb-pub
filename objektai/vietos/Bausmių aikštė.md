@@ -35,21 +35,6 @@ Aikštė, kur bausti nusikaltėliai.
   teiginys: "Bausmių aikštėje buvo baudžiami nusikaltėliai."
   pagrindžia:
     - c-82150
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Bausmių aikštėje buvo baudžiami nusikaltėliai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    22. Aikštė, kur bausti nusikaltėliai.
-    23. Kelias į Medininkų pilį ir Ašmenos dvarą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

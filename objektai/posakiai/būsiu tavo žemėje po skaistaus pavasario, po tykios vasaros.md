@@ -43,22 +43,6 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
   teiginys: "Maskvos didysis kunigaikštis per pasiuntinį perdavė Algirdui grasinimą būti jo žemėje po pavasario ir vasaros."
   pagrindžia:
     - c-12493
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Lietuvos metraštis“ (Bychovco kronika) (rašytas xvI a. pirmojoje pusėje) pasakoja,
-    kaip Maskvos didysis kunigaikštis Lietuvos valdovui Algirdui per pasiuntinį perduoda
-    ugnies ir kardą, kas turėjo reikšti: „būsiu tavo žemėje po skaistaus pavasario, po ty-
-    kios vasaros“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,23 +35,6 @@ Tam buvo reikalinga tvirta, net plieninė ran­ ka, didelis protas.
   teiginys: "Kęstučio sūnus Vytautas turėjo tvirtą, net plieninę ranką ir didelį protą."
   pagrindžia:
     - c-35657
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tam buvo reikalinga tvirta, net plieninė ran­
-    ka, didelis protas. Šitas ypatybes kaip tik ir turėjo Kęstučio
-    sūnus. Todėl nenuostabu, kad jam ir atiteko Lietuva, ir jos
-
-    (^1) ) Proch.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

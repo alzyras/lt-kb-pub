@@ -7,12 +7,12 @@ datos:
   - '1935 m.'
 date_start: '1935'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad vileišis V.
   teiginys: "V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m."
   pagrindžia:
     - c-61982
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -62,12 +62,19 @@ Dusburgietis teigia, kad vileišis V.
 - id: c-61982
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos
-    šviesoje.—K., 1935.
-      Vydūnas.
+    — IV vissavienības baltistu konference 1980,
+    Rīgā, 1980, lpp. 163—164.
+    Непокупный
+    А.
+    П.
+    Лингвистические
+    свидетельства
+    об
+    исторической
+    и
+    доисторической географии ятвягов.
   citata_rodoma: "Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos\nšviesoje.—K., 1935."
   statusas: verified
   teiginio_tipas: faktas

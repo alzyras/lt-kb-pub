@@ -34,31 +34,6 @@ media_all_json: |-
   teiginys: "Gadebuscho „Livl. Jahrb.“ nurodytas kaip šaltinis, papildantis žinias apie nepaprastą šaltį."
   pagrindžia:
     - c-84035
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Gadebuscho „Livl. Jahrb.“ nurodytas kaip šaltinis, papildantis žinias apie nepaprastą šaltį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Energingas Garteno (Gar­
-    dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse,
-    jas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­
-    ką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė
-    miestą, nužudė apie 70 žmonių, sudegino visą miestą ir daug
-    kaimyninių naujakrikščiams priklausiusių sodybų6, didelių
-    C
-    Taigi J e r o s c h i n, c. 335 ir Epito­
-    mator, Gadebusch Livl. Jahrb. B. 1,402,
-    nurodo kitus Šiaurės šalių šaltinius
-    žinioms apie tą nepaprastą šaltį
-    papildyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

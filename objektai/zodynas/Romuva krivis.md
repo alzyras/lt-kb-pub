@@ -49,40 +49,6 @@ media_all_json: |-
   teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
   pagrindžia:
     - c-75130
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai-
-    gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
-    institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
-    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
-    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ro-
-    muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
-    Lietuvoje išplitusiais Aukuro kalnais ir akmenimis. XIII a. susiformavo
-    Lietuvos giria iš A. Grottgerio piešinių ciklo
-    „Litwa“, 1864–1866 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

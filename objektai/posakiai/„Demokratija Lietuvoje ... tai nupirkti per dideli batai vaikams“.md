@@ -35,27 +35,6 @@ Demokratija Lietuvoje, pasak A.
   teiginys: "A. Smetona Lietuvos demokratiją lygino su vaikams nupirktais per dideliais batais."
   pagrindžia:
     - c-23565
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Bolševizaciją“ papildė kaltinimai polonizaci-
-    ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
-    70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santy-
-    kiams, įvertinta kaip pavojus visai tautai.
-    Demokratija Lietuvoje, pasak A. Smetonos, tai nupirkti per dideli batai
-    vaikams – parlamentarizmo tradicija vos per šešerius metus nesubren-
-    do, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas. Seimas atrodė
-    smulk­meniškai besikišantis į vykdomosios valdžios reikalus ir nekompe-
-    tentingas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

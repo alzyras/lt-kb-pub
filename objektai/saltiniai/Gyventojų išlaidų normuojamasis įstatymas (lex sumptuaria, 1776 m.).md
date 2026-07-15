@@ -41,28 +41,6 @@ Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas
   teiginys: "1778 ir 1780 m. seimuose gyventojų išlaidų normuojamasis įstatymas buvo pakartotas ir praplėstas, bet jo vykdymo priežiūra nenustatyta."
   pagrindžia:
     - c-02405
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1778 ir 1780 m. seimuose gyventojų išlaidų normuojamasis įstatymas buvo pakartotas ir praplėstas, bet jo vykdymo priežiūra nenustatyta.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tad, norėdamas sumažinti im-
-    portą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų
-    išlaidų normuojamąjį įstatymą **_(lex sumptuaria)._** Juo visiems mies-
-    tiečiams ir bajorijai buvo uždrausta taisytis užsienio medžiagomis,
-    ponams buvo įsakyta savo tarnus taisyti kuo pigiausiai, o visų vai-
-    vadijų bajorijai įsakyta nešioti tam tikros spalvos vietinės medžiagos
-    mundierius. 1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas
-    ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi
-    prižiūrėti jo vykdymą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

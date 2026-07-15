@@ -13,14 +13,14 @@ datos:
   - '2026 m.'
 date_start: '1618'
 date_end: '2026'
+amziai:
+  - 'XVII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestelis
-amziai:
-  - 'XVII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,22 +56,15 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   pagrindžia:
     - c-171615
 
-<a id="claim-t-188727"></a>
-- t-003
-  global_id: t-188727
-  teiginys: "Pasak Narbuto cituoto aprašymo, 1836 m. Bonaventūras Milevskis Burokų dvare, už 10 varstų nuo Kražių, ardamas iškasė figūrą."
-  pagrindžia:
-    - c-171616
-
 <a id="claim-t-188728"></a>
-- t-004
+- t-003
   global_id: t-188728
   teiginys: "Narbutas rašė, kad 1618 m. Kražiuose įsitvirtinę jėzuitai savo misijoje rado apie šešis tūkstančius nekrikštytų valstiečių."
   pagrindžia:
     - c-171617
 
 <a id="claim-t-192678"></a>
-- t-005
+- t-004
   global_id: t-192678
   teiginys: "1836 m. gegužę Burokų dvare, už 10 varstų nuo Kražių, Bonaventūras Milevskis ardamas žemę iškasė figūrą."
   pagrindžia:
@@ -114,10 +107,12 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
 - susijęs iš Liubešavas: Brastos apygardoje Liubešave veikė viena iš minimų mokyklų.
 - susijęs iš Minskas: Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.
 - susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
+- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
 - susijęs iš Padubysys: Padubysio mokykla buvo uždaryta kartu su Kalvarijos ir Kolainių mokyklomis.
 - susijęs iš Pašiaušė: Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.
 - susijęs iš Smolenskas: Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų.
 - susijęs iš Vitebskas: Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija.
+- susijęs iš Vitebskas: Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui.
 - susijęs iš Žodiškiai: Žodiškiuose veikusi jėzuitų kolegija buvo Minkevičių fundacija.
 - susijęs iš [[objektai/zodynas/klebonija.md#claim-t-86471|klebonija]]: Karalienė Bona ir Vladislovas IV taip gausiai apdovanojo Kražių kleboniją turtais, kad ji tapo reikšmingiausia Žemaitijoje.
 - susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192029|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, valdant karaliui Aleksandrui pagoniškos šventyklos vietoje jo įsakymu buvo pastatyta filija.
@@ -153,17 +148,16 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Moneta, rasta Ballvyžių girioje.
-    Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje
-    255
-
-    ## Puslapis 255
-
-    Karo dievo Kovo statulėlė, 1836 metais rasta Žemaitijos že­
-    mėje netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietu­
-    viai turėjo stabus. Sis stabas yra natūralaus dydžio, iš bronzos,
-    tai yra senovinio Korinto vario, gražiai išlietas, pilnaviduris, be
-    abiejų rankų (žiūrėk Xlentelę).
+    To dievaičio vardo
+    užraše raidė „o“yra įterpta į vidurį, o ne įpabaigą, vadinasi, yra
+    „Koruch“ vietoj „Kracho“, o vietoje raidės „ch“, kuri nebuvo ži­
+    noma venedų runų abėcėlėje, buvo naudojama dviguba „gg“
+    (11), kurios, sujungtos į vieną raidę, skaitoma kaip „ CH“. (Li­
+    tografiją paėmiau iš Tomseno II lentelės, 22 piešinio) “ (žiūrėk
+    iliustraciją p. 257, piešinį 49). Antrasis numizmatinis radinys tos
+    pačios kilmės su tokiu aprašymu: „Medalionas su kiek dailesniu
+    raiteliu, be paukščio.
+  citata_rodoma: "Moneta, rasta Ballvyžių girioje.\nTeodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje\n255\n\n## Puslapis 255\n\nKaro dievo Kovo statulėlė, 1836 metais rasta Žemaitijos že­\nmėje netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietu­\nviai turėjo stabus. Sis stabas yra natūralaus dydžio, iš bronzos,\ntai yra senovinio Korinto vario, gražiai išlietas, pilnaviduris, be\nabiejų rankų (žiūrėk Xlentelę)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -171,49 +165,25 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   pagrindzia:
     - t-188726
 
-- id: c-171616
+- id: c-171617
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Rai- 32
-    32 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs Vil­
-    niaus Vyriausiojo teismo departamento regentas, su tokiu aprašy­
-    mu: “1840 metų rugsėjo mėnesį viešėdamas Platelių dvare, priklau­
-    sančiame grafienei Choueseul, tą dievuką gavau iš kunigo Kogno-
-    vickio, Platelių klebonijos vikaro, kuris, būdamas kilimo iš Raseinių
-    apskrities, 1836 metais gegužės mėnesį nuvyko aplankyti savo brolį.
-    Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­
-    cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­
-    ras Milevskis, ardamas žemę, iškasė tą figūrą*.
-    256
-
-    ## Puslapis 256
-
-    Skandinaviški brakteatai ir pakabučiai.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188727
-
-- id: c-171617
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 369"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
-  citata_originali: |
-    Nepai­
-    sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
-    Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
-    ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
-    gų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
-    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
-    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
-    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
-    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
-    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
+    Tie sampilai priklauso toli­
+    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
+    tose. Tačiau kraštui neturint savo istorijos ir žuvus daugeliui
+    rašto šaltinių, į užmarštį nugrimzdo atminimas apie daugelio
+    žymių žmonių kapus. Tokių kapų pasitaiko aukštose vietose
+    arba prie pilių ir kadaise žymių kaimų, dažniausiai prie kelių,
+    taip pat didesnių upių pakrantėse, kur būdavo šventyklos. Hart-
+    knochas (p. 184-185) tą patį sako apie gausius piliakalnius,
+    matomus Prūsijoje, ir apie pilkapius, supiltus virš žymių žmo­
+    nių kapų. Lietuvos didžiojo kunigaikščio Gedimino kapas yra
+    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
+    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
+    avide cupientes tumulos, quam maximos efficere (Herodotas).
+  citata_rodoma: "Nepai­\nsant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje\nŽemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­\nma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­\ngų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -224,8 +194,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
 - id: c-175448
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 491"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
     Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu

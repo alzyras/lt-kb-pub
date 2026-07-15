@@ -54,23 +54,6 @@ Nenurodyta
   teiginys: "1655 m. rusams užėmus Vilnių, miestas buvo apiplėštas ir sudegintas, o gaisras jame siautė 17 dienų."
   pagrindžia:
     - c-02089
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl suprantama, kad po visų karų krašto ūkis
-    buvo labai sunaikintas ir negreit tegalėjo atsigauti. Miestai
-    buvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-
-    ras jame siautė net 17 dienų). Dvarai taip pat buvo sunaikinti
-    ir sudeginti, o jų valstiečiai išbėgioję.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

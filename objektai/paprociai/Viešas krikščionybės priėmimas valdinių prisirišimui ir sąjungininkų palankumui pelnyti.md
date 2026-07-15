@@ -50,8 +50,8 @@ Nenurodyta
   teiginys: "Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, siekdami labiau prie savęs prisirišti savo valdinius."
   pagrindžia:
     - c-169266
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, siekdami labiau prie savęs prisirišti savo valdinius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -83,18 +83,20 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Jau­
-    nuoliai, sėkmingai baigę žygį į priešų šalį, užgrobė
-    reikšmingus Rusios miestus, o pažinę savarankiško
-    98
-
-    ## Puslapis 97
-
-    valdymo skonį, nebenorėjo kęsti dėdės jungo. Drucką
-    ir dalį Smolensko gavo Erdivydas, Vitebską — Vykin­
-    tas, Polocką — Tautvilas. Norėdami savo valdinius la­
-    biau prie savęs prisirišti, jie viešai priėmė šventąją
-    krikščionybę.
+    Mat jaunikaičiai, remiami vos kelių miestų, jautėsi
+    nepakankamai tvirti kautis su stipriu priešu ir malda­
+    vo kaimynų pagalbos, tokiu būdu, rengdamiesi pulti
+    dėdę, jie vos neprarado tėvonijos. Vykintas, pasiųstas
+    į Rygą, savo bei brolių var-
+    M in d a u g o k a ra s
+    su
+    du stengėsi sukurstyti Livo-
+    b ro lė n a is ir ru sais
+    nijos bei Prūsijos riterius.
+    Jis davė žodį atiduoti, atsi­
+    lygindamas už pagalbą, pusę Jotvingijos ir Žemaitijos
+    amžinam riterių valdymui.
+  citata_rodoma: "Jau­\nnuoliai, sėkmingai baigę žygį į priešų šalį, užgrobė\nreikšmingus Rusios miestus, o pažinę savarankiško\n98\n\n## Puslapis 97\n\nvaldymo skonį, nebenorėjo kęsti dėdės jungo. Drucką\nir dalį Smolensko gavo Erdivydas, Vitebską — Vykin­\ntas, Polocką — Tautvilas. Norėdami savo valdinius la­\nbiau prie savęs prisirišti, jie viešai priėmė šventąją\nkrikščionybę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

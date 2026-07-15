@@ -55,8 +55,8 @@ Nenurodyta
   teiginys: "Vestuvinė kraitvežių ir svodbininkų kelionės priemonė."
   pagrindžia:
     - c-177746
-    - c-177748
     - c-177747
+    - c-177748
 - susijęs iš [[objektai/zodynas/Kraičvežiai.md#claim-t-195627|Kraičvežiai]]: Kraičvežiai šiame šaltinyje yra du su pastote atvykstantys kraičio vežėjai.
 ## Reikšmingi paminėjimai
 Nenurodyta

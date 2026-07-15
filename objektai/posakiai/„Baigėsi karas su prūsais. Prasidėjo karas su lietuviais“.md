@@ -90,59 +90,6 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   teiginys: "1283 m. Dusburgas kronikoje žodžiais „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais."
   pagrindžia:
     - c-177402
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Prasidėjo karas su lietuviais».
-    Tais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo
-    kronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­
-    čiausio sprando ir kariauti pratusia tauta »^1. Jau 1283 žiemą Prūsų
-    ordino magistras Meinhard von Querfurt su daug riterių ir gausia
-    kariuomene, perėję ledu Nemuną, stipriu puolimu paėmė ir « pele­
-    nais pavertė » Lietuvos panemunio pilį Biseną (netoli Skirsnemu­
-    nės).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-- c-002
-  santrauka: 'Posakis „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ siejamas su pirmosiomis lietuvių kovomis prie Nemuno su Prūsų ordinu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    LIETUVOS VALSTYBINGUMO IŠSIVYSTYMAS
-
-    ### (1283-1387)
-
-    **1. Pirmosios lietuvių kovos prie Nemuno su Prūsų**
-        **ordinu ir naujos dinastijos kilmė**
-    «Baigėsi karas su prūsais. Prasidėjo karas su lietuviais».
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pirmosios lietuvių kovos prie Nemuno su Prūsų**
-        **ordinu ir naujos dinastijos kilmė**
-    «Baigėsi karas su prūsais. Prasidėjo karas su lietuviais».
-    Tais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo
-    kronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­
-    čiausio sprando ir kariauti pratusia tauta »^1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -165,7 +112,10 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-195025
     - t-195026
+    - t-195028
+    - t-195030
 
 - id: c-177401
   autorius: "Zenonas Ivinskis"
@@ -204,4 +154,5 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-195027
     - t-195031

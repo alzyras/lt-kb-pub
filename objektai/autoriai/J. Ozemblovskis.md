@@ -34,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė T. Narbutui vietoj paties radinio.
+J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė T. Narbutui vietoj paties radinio. J. Ozemblovskis yra visiškai tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir prancūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besiremiantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovintis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis priekinėmis letenomis.
 
 ## Teiginiai
 
@@ -44,45 +44,35 @@ J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė 
   teiginys: "J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė T. Narbutui vietoj paties radinio."
   pagrindžia:
     - c-174529
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė T. Narbutui vietoj paties radinio.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pasirodo, jog T. Bulgarinas (1789—1859) ją iš tikrųjų buvo pa­
-    siuntęs garsiam Vilniaus literatui, redaktoriui, leidėjui (žinoma, ir
-    T. Narbuto LTI) Antanui Marcinovskiui (1781—1842) .-►Sis peter-
-    burgiškio literato prašymu monetą turėjęs perduoti T. Narbutui,
-    bet pažado neįvykdė: radinį įteikė Vilniuje viešėjusiam ministrui
-    (kokiam — neaišku), o istorikui nusiuntė tik biografo J. Ozem-
-    blovskio padarytą piešinį (MAB RS. F. 17. B. 247C. L. 435).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197607"></a>
+- t-002
+  global_id: t-197607
+  teiginys: "J. Ozemblovskis yra visiškai tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir prancūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besiremiantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovintis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis priekinėmis letenomis."
   pagrindžia:
-    - t-001
+    - c-174529
 
 ## Citatos
 
 - id: c-174529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 490"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 490."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pasirodo, jog T. Bulgarinas (1789—1859) ją iš tikrųjų buvo pa­
-    siuntęs garsiam Vilniaus literatui, redaktoriui, leidėjui (žinoma, ir
-    T. Narbuto LTI) Antanui Marcinovskiui (1781—1842) .-►Sis peter-
-    burgiškio literato prašymu monetą turėjęs perduoti T. Narbutui,
-    bet pažado neįvykdė: radinį įteikė Vilniuje viešėjusiam ministrui
-    (kokiam — neaišku), o istorikui nusiuntė tik biografo J. Ozem-
-    blovskio padarytą piešinį (MAB RS. F. 17. B. 247C. L. 435).
+    Kitoje pusėje (ji yra visiškai
+    tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir pran­
+    cūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir
+    šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besire­
+    miantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovin­
+    tis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis prie­
+    kinėmis letenomis. Karys kairiąja ranka stumia žvėrį. Toje ran­
+    koje laiko kažką panašaus j skydą, o dešiniąja arba remiasi į že­
+    mę, arba siekia ginklo. Už riterio galvos yra ženklas „O“, virš
+    kurio — žvėries letena ir ženklas „I“.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191647
+    - t-197607

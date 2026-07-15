@@ -82,36 +82,6 @@ Nenurodyta
   pagrindžia:
     - c-13593
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05215|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Trakų Galvės ežero salos pilis tapo Vytauto Didžiojo pasididžiavimu.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ar iš tikrųjų Vytauto epochai gali
-    būti priskirtos pirmosios pabūklų liejyklos^5 ir bažnytinių varpų,
-    trūksta autentiškų įrodymų.
-    Tikresnių duomenų yra apie Vytauto mūrinių pilių statybas,
-    kurių žymiausias jo garbės ir pasididžiavimo statinys buvo Galvės
-    (^1) **Žr.** **_Bažnytinė unija,_** **LE, t. 2, 309-313 p.**
-    (^2) **Žr. V. Trumpa :** **_Magdeburgo teisė,_** **LE, t. 17, 63-64 p.**
-    (^3) **Z. Ivinskis :** **_Lietuva ir žydai istorijos šviesoje,_** **Aidai, nr. 10, 1971,
-    438-446 p.; nr. 1, 1972, 24-30 p.**
-    (^4) **Žr. Karys, J. K. : Pinigėliai, LE, t. 23, 19 p.; (”) Senovės lietuvių**
-    **_pinigai,_** **Putnam 1959.**
-    (^5) **Žr.** **_Artilerija, Lietuvos art. istorija_** **, LE, t. 1, 299-300 p.**
-
-
-    ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil­
-    lebert de Lannoy.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-13593
@@ -141,8 +111,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11047
     - t-11046
+    - t-11047
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ghillebert de Lannoy]]

@@ -34,8 +34,8 @@ Narbutas LTI papildymų medžiagą paėmė iš L. A. Jucevičiaus veikalo „Lie
   teiginys: "Narbutas LTI papildymų medžiagą paėmė iš L. A. Jucevičiaus veikalo „Lietuva“ dalies „Metamorfozės lietuvių mitologijoje“."
   pagrindžia:
     - c-174672
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas LTI papildymų medžiagą paėmė iš L. A. Jucevičiaus veikalo „Lietuva“ dalies „Metamorfozės lietuvių mitologijoje“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -57,13 +57,15 @@ Narbutas LTI papildymų medžiagą paėmė iš L. A. Jucevičiaus veikalo „Lie
 - id: c-174672
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 481"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 481."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį
-    LTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­
-    imta iš jau ne kartą minėto L. A. Jucevičiaus veikalo „Lietuva“
-    dalies, pavadintos „Metamorfozės lietuvių mitologijoje“.
+    Vieno Lietuvos bajoro duktė ypač garsėjo prisirišimu prie trijų
+    savo brolių. Labiausiai jai patikdavę, kai galėdavo jiems pasimei­
+    linti: siuvinėti gūnias, austi juostas. Kartą atsitiko taip, kad jie
+    išėjo į karą ir visi trys žuvo; pavasarį į namus sugrįžo tik jų žir­
+    gai. Sesuo, gailesčio pagauta, metė tėvų namus ir, netekusi proto,
+    graudžiai vaitojo klajodama po įvairias vietas.
+  citata_rodoma: "Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį\nLTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­\nimta iš jau ne kartą minėto L. A. Jucevičiaus veikalo „Lietuva“\ndalies, pavadintos „Metamorfozės lietuvių mitologijoje“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

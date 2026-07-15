@@ -42,44 +42,6 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
   teiginys: "Po 1533 m. Vosyliaus III mirties sudaryta Jono IV regencija Maskvos kunigaikštystėje sukėlė vidaus neramumus."
   pagrindžia:
     - c-69352
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po 1533 m. Vosyliaus III mirties sudaryta Jono IV regencija Maskvos kunigaikštystėje sukėlė vidaus neramumus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai 1533 m. mirė Vosylius III, Maskvos
-    kunigaikščiu tapo Jonas IV Žiaurusis. Kadangi jis tuomet buvo
-    dar mažas, tai buvo sudaryta regencija. Su ja Maskvos kuni-
-    gaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva tikė-
-    josi pasinaudoti, — juo labiau, kad Zigmantas buvo pa-
-    traukęs į savo pusę Krimo totorius, apsiėmęs jiems kasmet
-    mokėti po 15.000 dukatų, ir Maskvai nuolat grėsė iš jų pusės
-    pavojus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Po Vosyliaus III mirties Maskvos kunigaikščiu tapus mažamečiam Jonui IV Žiauriajam, buvo sudaryta regencija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    (Senas nežinomojo autoriaus paveikslas).
-    muosius du karus Zigmanto laikais pradėjo Maskva, bet šį
-    trečiąjį — Lietuva. Kai 1533 m. mirė Vosylius III, Maskvos
-    kunigaikščiu tapo Jonas IV Žiaurusis. Kadangi jis tuomet buvo
-    dar mažas, tai buvo sudaryta regencija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

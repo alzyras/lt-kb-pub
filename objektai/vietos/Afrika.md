@@ -126,46 +126,6 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
 - susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192246|karaliukas]]: Teodoras Narbutas žodį „karaliukai“ vartoja kalbėdamas apie skirtingose šalyse atsiradusius barbarų valdovus.
 - susijęs iš [[objektai/asmenys/Genserikas.md#claim-t-191270|Genserikas]]: Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Labai vaizdžiai ir gyvai ap­
-    rašyta vieno keliautojo kelionės su įvairiausiais nuotykiais ir pavojais
-    po Arabiją, Afriką, Mezopotamiją. Norintieji pažinti tu kraštu gam­
-    tą, žmones, jų gyvenimo būdą ir papročius, būtinai turi šias knygas
-    perskaityti. Čia skaitytojas pamatys tų tautų tarpusavines aštrias
-    kovas. Arabijos moterų pasiaukojimą, meilę, pagaliau jų žiaurų
-    kerštą. Mokiniui šios knygos palengvins išmokti istorijos pamokas
-    apie tas tauteles ir geografiją apie minėtus kraštus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas fetišo terminą siejo su naujaisiais amžiais perimtu Afrikos stabmeldžių, jo laikytų didžiausiais fetišų garbintojais, vartojimu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šitą dievybių rūšį vadina­
-    me fetišais, o tikėjimą jais -  fetišizmu.
-    Pats fetišo terminas, nežinomas Antikos laikų europie­
-    čiams, yra perimtas naujaisiais amžiais iš Afrikos stabmeldžių,
-    didžiausių fetišų garbintojų . Todėl ne kiekvienas istorikas ir 5
-    5
-    Fetiche, iš portugalų Fetisso -  stabmeldiška statulėlė; feticzei-
-    ra -  ragana (fée, feérie, f  ata).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Teodoras Narbutas Afriką ir Aziją laikė seniau už Europą apgyvendintais ir anksčiau civilizuotais žemynais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -213,8 +173,7 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
 - id: c-171551
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 200"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 200."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šitą dievybių rūšį vadina­
     me fetišais, o tikėjimą jais -  fetišizmu.
@@ -234,18 +193,21 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
 - id: c-175377
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 35"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 35."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tad šį skyrių pirmiausia,
-    kol imsimės tolesnių ieškojimų, skirkime seniausių epo­
-    chų problemoms.
-    11
-    Europa palyginti su Azija ir Afrika yra naujasis pa­
-    saulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau
-    civilizuotas. Didžiulis Azijos žemynas, kurio viduryje yra
-    aukščiausi viso Žemės rutulio kalnai, pagrįstai laikomas
-    žmonių giminės lopšiu.
+    Mums žinomos nuomonės tų senovės ty­
+    rinėtojų, kurie kildina dievų ir žmonių giminę iš Siaurės,
+    remdamiesi graikų padavimais, kuriuos neva patvirtina
+    ir Šventasis Raštas. Tie pirmykščiai žmonės esą buvę hi­
+    perborėjai. Apolonas ir Diana į Graikiją, Ozyris į Egiptą
+    atvyko neva iš Siaurės. Saturnas, Borėjas, palaimintoji
+    Atlantidos sala egzistavo Siaurės Europoje arba dingu­
+    siose salose, kurios buvo Lediniuotojoje jūroje. Ten buvo
+    Homero „Odisėjoje“ apdainuotas Elisiejus (4 giesmė),
+    ten, kur ambrozija sruveno, auksinis, palaimintasis die­
+    vų kraštas, hesperidžių sodas, makrobijų1 gyvenamoji
+    1 Šis pavadinimas turėtų reikšti kinų protėvius.
+  citata_rodoma: "Tad šį skyrių pirmiausia,\nkol imsimės tolesnių ieškojimų, skirkime seniausių epo­\nchų problemoms.\n11\nEuropa palyginti su Azija ir Afrika yra naujasis pa­\nsaulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau\ncivilizuotas. Didžiulis Azijos žemynas, kurio viduryje yra\naukščiausi viso Žemės rutulio kalnai, pagrįstai laikomas\nžmonių giminės lopšiu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -4,6 +4,7 @@ pavadinimas: 'Latgala'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-318 psl.) tebuvo atgauta tik viena Latgala.
+Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai. Senovės tyrinėtojai Uždauguvį skirstė taip: kraštas Soletsa prie jūros, pats šiauriausias; pakrante nusitęsusi žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė se — Toloma; rytinėje dalyje — tikroji Latgala1.
 
 ## Teiginiai
 
@@ -37,55 +38,15 @@ media_all_json: |-
   pagrindžia:
     - c-02773
 
-<a id="claim-t-187592"></a>
+<a id="claim-t-197888"></a>
 - t-002
-  global_id: t-187592
-  teiginys: "Lietuvos metraštis pasakoja, kad Gimbutas, radęs nuniokotą Žemaitiją, nužygiavo į Latgalą, ją sunaikino ir parsivarė belaisvių."
+  global_id: t-197888
+  teiginys: "Senovės tyrinėtojai Uždauguvį skirstė taip: kraštas Soletsa prie jūros, pats šiauriausias; pakrante nusitęsusi žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė se — Toloma; rytinėje dalyje — tikroji Latgala1."
   pagrindžia:
-    - c-170539
+    - c-179381
 - susijęs iš Bartos žemė: Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.
 - susijęs iš Livonija: Štumdorfo taika iš Lietuvos ir Lenkijos bendrai valdytos Livonijos grąžino tik Latgalą.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59953|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Batoro laikais. Tik labai suma-
-    žėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji
-    jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr. 318 psl.)
-    tebuvo atgauta tik viena Latgala.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvos metraštis pasakoja, kad Gimbutas, radęs nuniokotą Žemaitiją, nužygiavo į Latgalą, ją sunaikino ir parsivarė belaisvių.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O tuo laiku, jam bebūnant Rusioje, kita gentis, va­
-    dinama latviais, kurie gyveno jūros pakrantėje ir iš­
-    girdo, kad kunigaikščio Kerniaus nebėra Lietuvoje,
-    o didžiojo kunigaikščio Gimbuto — Žemaičiuose, visi
-    susirinkę patraukė į Žemaičių žemę ir pridarė Žemai­
-    čių žemėje daug žalos. Paskui kunigaikštis Gimbutas,
-    parvykęs iš Rusios į Žemaitiją ir pamatęs Žemaičių
-    žemę nuniokotą, tuoj pat nužygiavo Į Latgalą ir visus
-    iškapojo, išnaikino, o kitus parsivarė belaisviais į Že­
-    maičius. Ir, pavertęs jų žemę tyrais, sugrįžo į Žemai­
-    tiją 3 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-02773
@@ -105,25 +66,24 @@ media_all_json: |-
   pagrindzia:
     - t-02535
 
-- id: c-170539
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- id: c-179381
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    O tuo laiku, jam bebūnant Rusioje, kita gentis, va­
-    dinama latviais, kurie gyveno jūros pakrantėje ir iš­
-    girdo, kad kunigaikščio Kerniaus nebėra Lietuvoje,
-    o didžiojo kunigaikščio Gimbuto — Žemaičiuose, visi
-    susirinkę patraukė į Žemaičių žemę ir pridarė Žemai­
-    čių žemėje daug žalos. Paskui kunigaikštis Gimbutas,
-    parvykęs iš Rusios į Žemaitiją ir pamatęs Žemaičių
-    žemę nuniokotą, tuoj pat nužygiavo Į Latgalą ir visus
-    iškapojo, išnaikino, o kitus parsivarė belaisviais į Že­
-    maičius. Ir, pavertęs jų žemę tyrais, sugrįžo į Žemai­
-    tiją 3 .
+    Sis
+    pavadinimas kilęs iš latviškų žodžių Liatwin gals, Lie­
+    tuvos galas. Šios lietuvių tautos valdos yra iškovotos iš
+    lyvių, todėl vadinamos Livonija labai seniai ir gerokai
+    anksčiau negu IX amžiuje, nes rusų kronikos pačiais se­
+    niausiais laikais ten jau randa lietuvių giminės genčių.
+    Senovės tyrinėtojai Uždauguvį skirstė taip: kraštas So-
+    letsa prie jūros, pats šiauriausias; pakrante nusitęsusi
+    žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė­
+    se — Toloma; rytinėje dalyje — tikroji Latgala1.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187592
+    - t-197888

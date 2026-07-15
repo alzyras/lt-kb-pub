@@ -37,26 +37,6 @@ Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į ŠešuolėsViri
     - c-167201
 - susijęs iš Šešuolė: Giedraičius gynęs 2-asis pulkas atsitraukė į Šešuolės ir Virintos upių liniją.
 - susijęs iš [[objektai/daiktai/Bonka.md#claim-t-195332|Bonka]]: Gėrimo talpa prie bažnyčios vaišių ir gertuvių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į ŠešuolėsVirintos upių liniją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Užėmę Kurklius, lenkai veržėsi Vidiškių
-    ir Ukmergės link. Giedraičius gynęs
-    2-asis pulkas buvo priverstas atsi-
-    traukti į Šešuolės- Virintos upių liniją.
-    Lietuvių pajėgos ėmė rengtis kontr-
-    puolimui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-167201

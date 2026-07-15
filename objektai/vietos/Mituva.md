@@ -68,27 +68,6 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 - susijęs iš Kuršas: 1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.
 - susijęs iš Kuršo žemė: 1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo žemės dalį, grobdami, degindami ir išsivesdami belaisvius.
 - susijęs iš Žemgala: Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma atskira kunigaikštyste.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą Georgenburgo, arba Jurbarko, pilį.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ordinui toliau rūpėjo per nadruvių, sūduvių ir skal­
-    vių plotus rasti kelią į šiaurę, t. y. į pietų Žemaičius. Livonijos ir
-    Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą kartą
-    1259 m. prie Mituvos ir Imsrės žiočių į Nemuną (Karšuvos srityje)
-    statėsi bendrą pilį Georgenburgą — Jurbarką. Vis labiau artėdamos
-    viena prie kitos, abi ordino šakos sudėjo lėšas ir drauge atliko Geor­
-    genburgo statymo darbus^150.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33954

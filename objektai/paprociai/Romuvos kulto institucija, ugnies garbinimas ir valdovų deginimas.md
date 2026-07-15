@@ -63,6 +63,7 @@ Nenurodyta
   teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
   pagrindžia:
     - c-55200
+    - c-166723
 
 <a id="claim-t-54335"></a>
 - t-002
@@ -77,63 +78,6 @@ Nenurodyta
   teiginys: "Nadruvoje minima Romuva ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška."
   pagrindžia:
     - c-55201
-
-<a id="claim-t-183333"></a>
-- t-004
-  global_id: t-183333
-  teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
-  pagrindžia:
-    - c-166723
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
-    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
-    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
-    muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
-    Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iš mūsų pagonių valdovų laikysenos
-    galima suprasti, kad pagonybė jiems buvo lygiavertė krikščionybei. Tai-
-    gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
-    institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
-    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ro-
-    muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
-    Lietuvoje išplitusiais Aukuro kalnais ir akmenimis. XIII a. susiformavo
-    Lietuvos giria iš A. Grottgerio piešinių ciklo
-    „Litwa“, 1864–1866 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 ## Citatos
 
@@ -171,6 +115,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-54335
     - t-54336
 
 - id: c-166723
@@ -187,5 +132,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183333

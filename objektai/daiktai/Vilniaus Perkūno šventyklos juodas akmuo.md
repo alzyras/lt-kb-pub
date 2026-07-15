@@ -49,8 +49,8 @@ Nenurodyta
   teiginys: "Narbutas nurodo, kad Strijkovskis mini didžiulį juodą akmenį Vilniaus Perkūno šventykloje, iš kurio buvo įskeliama ugnis."
   pagrindžia:
     - c-172638
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad Strijkovskis mini didžiulį juodą akmenį Vilniaus Perkūno šventykloje, iš kurio buvo įskeliama ugnis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -75,16 +75,17 @@ Nenurodyta
 - id: c-172638
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 243"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 243."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno
-    šventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­
-    čiau mūsų istorikas šito dalyko nuodugniau neišlukštena. Man
-    atrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies
-    dievo, visiškai toks pat stabas, kaip imperatoriaus Aurelijaus
-    Antonino Heliogabalas, apie kurį kalbėjome straipsnyje „San­
-    tvaras“.
+    Draugijoje buvo nu tarta, kad figū­
+    rėlė yra indiškos kilmės: tokią išvadą padarė remdamiesi tik pa­
+    našumu. 1831 metais tas senovės paminklas kartu su visu drau­
+    gijos muziejumi buvo išvežtas į Sankt Peterburgą. Mes neabejo­
+    jame, kad tai buvo lietuviškas dievukas, galbūt vienas iš pačių
+    seniausių tautos stabų, kurį iš Rytų buvo, atsigabenę Tautos Tė­
+    vai. Todėl jo išvaizda, tai yra kūno sudėjimas, galėjo būti orien­
+    talistinis.
+  citata_rodoma: "Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno\nšventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­\nčiau mūsų istorikas šito dalyko nuodugniau neišlukštena. Man\natrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies\ndievo, visiškai toks pat stabas, kaip imperatoriaus Aurelijaus\nAntonino Heliogabalas, apie kurį kalbėjome straipsnyje „San­\ntvaras“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -40,32 +40,6 @@ Onos bažnytėlę, pa­ teikta Noworocznik Litewski, 1834 m., 298 ## Puslapis 31
   teiginys: "Noworocznik Litewski 1834 m. buvo pateikta žinia apie Šv. Onos bažnytėlę."
   pagrindžia:
     - c-84297
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Noworocznik Litewski 1834 m. buvo pateikta žinia apie Šv. Onos bažnytėlę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau ištisiniai pastatai, kokius ma­
-    tome dabar, atsirado jau antrojoje
-    XVIII amžiaus pusėje.
-    71
-    Žinia apie Šv. Onos bažnytėlę, pa­
-    teikta Noworocznik Litewski, 1834 m.,
-    298
-
-    ## Puslapis 315
-
-    IV KNYGA
-    didžponiai, nors jų norą keltis į puikybę ir visur vadovauti
-    karalius prilaikydavo už vadžių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

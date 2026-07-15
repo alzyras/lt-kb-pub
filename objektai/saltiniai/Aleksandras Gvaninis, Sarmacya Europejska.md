@@ -34,36 +34,13 @@ Narbutas, cituodamas Gvaninį, Kerkelio arba Belgorodo totorių vardą siejo su 
   teiginys: "Narbutas, cituodamas Gvaninį, Kerkelio arba Belgorodo totorių vardą siejo su Klerkei, arba Bialohrod, pilimi ant uolos."
   pagrindžia:
     - c-174649
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas, cituodamas Gvaninį, Kerkelio arba Belgorodo totorių vardą siejo su Klerkei, arba Bialohrod, pilimi ant uolos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ar mūsų latviai
-    kažkada išėjo iš tų užkampių, ar buvo ten nuvesti toto­
-    rių antpuolių metu, — negaliu spręsti“1. Nei viena, nei
-    antra, nes Gvaninis nedviprasmiškai teigia: „Ant uolos
-    yra moliu apdrėbta pilis, kurią vadina Klerkei, arba Bia-
-    lohrod, nuo to jie vadinasi Kerkelio, arba Belgorodo to­
-    toriais“2. Tai geriausiai ir paaiškina, ir įtikina, jog tie
-    Belgorodo totoriai buvo mūsų neseniai aprašytų polovie-
-    čių-lietuvių likučiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174649
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 109"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 109."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ar mūsų latviai
     kažkada išėjo iš tų užkampių, ar buvo ten nuvesti toto­

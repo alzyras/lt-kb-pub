@@ -35,8 +35,8 @@ Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekę
   teiginys: "Brolis iš Glizbergo per Didžiojo penktadienio pamaldas atsisakė būti apkabintas nukryžiuotojo medinių rankų."
   pagrindžia:
     - c-59767
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolis iš Glizbergo per Didžiojo penktadienio pamaldas atsisakė būti apkabintas nukryžiuotojo medinių rankų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -59,14 +59,14 @@ Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekę
 - id: c-59767
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio
-    šventumo, kad didįjį penktadienį per pamaldas, kai klūpodamas pasilenkė kryžiaus
-    bučiuoti, nukryžiuotojo kančia, ištiesdama savo medines rankas, panoro  jį apkabinti.
-    Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį
-    menką nusidėjėlį“.
+    Sventopelkas su savo kariuomene priėjo
+    Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas į priekį daug karių bei ginklanešių,
+    kurie turėjo ištirti, ar Kristburgo pilis yra apsupta. Kristburgo broliai šiuos karius užpuolė
+    ir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko
+    kariuomenės. Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.
+  citata_rodoma: "Vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio\nšventumo, kad didįjį penktadienį per pamaldas, kai klūpodamas pasilenkė kryžiaus\nbučiuoti, nukryžiuotojo kančia, ištiesdama savo medines rankas, panoro  jį apkabinti.\nBrolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį\nmenką nusidėjėlį“."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

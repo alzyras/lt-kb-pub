@@ -61,32 +61,6 @@ Nenurodyta
   teiginys: "Spaustuvė kas savaitę privalėjo duoti statinę alaus, silpnesnio alaus oxeftą, 8 asmenims po 8 kepalus duonos ir valgį iš kolegijos virtuvės."
   pagrindžia:
     - c-83263
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Spaustuvė kas savaitę privalėjo duoti statinę alaus, silpnesnio alaus oxeftą, 8 asmenims po 8 kepalus duonos ir valgį iš kolegijos virtuvės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Spaustuvės lėšas sudaro pajamos, gautos už parduotas
-    joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­
-    doms] - spaudmenims, popieriui, atlyginimams, rinkėjams
-    ir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau
-    kaip 20 žmonių maitinimui, item pro sartis et tectis [remon­
-    tui], to paties mūrinio namo remontui, per metus vos tegau­
-    na habitualiter [išskirtinai] 2000 lenk. auksinų. Notandum [pa­
-    žymėtina], kurios pro contigenti lucro [iš gaunamo pelno]
-    skiriamos kolegijos prefekto ir padėjėjo maitinimui, et insu­
-    per [ir priedo] kas savaitę statinę alaus, alias oxeft ir silpnes­
-    nio alaus oxeftą duoti tenebatur [privalėjo].
-    Be to, duoti 8 asmenims kas savaitę po 8 kepalus duonos
-    ir tiems patiems 8 valgį iš kolegijos virtuvės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

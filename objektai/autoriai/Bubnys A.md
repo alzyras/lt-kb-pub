@@ -43,20 +43,6 @@ Bubnys A.
   teiginys: "A. Bubnys parašė veikalą „Vokiečių okupuota Lietuva (1941–1944)“, išleistą Vilniuje 1998 m."
   pagrindžia:
     - c-20726
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius, 1996.
-    Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

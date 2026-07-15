@@ -36,37 +36,13 @@ Recenzentas ironiškai linkėjo Narbutui, kad šis lietuvių „taip skubotai ne
   teiginys: "Recenzentas ironiškai linkėjo Narbutui, kad šis lietuvių „taip skubotai neperdarytų į graikus“ kaip Voigtas juos sugiminiavo su vokiečiais."
   pagrindžia:
     - c-174991
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Antra vertus, suvokdamas istoriko pasirinkto tikslo
-    sudėtingumą, anonimas rašė: „Autorius, norėdamas ab ovo
-    nustatyti Lietuvos lizdą, privalo pereiti visą tos tautų migraci­
-    jos, papasakotos kronikų pasakose, labirintą; pereiti laikyda­
-    mas delne istorinės tiesos žibintą. Kokiam gi įžvalgiam reikia
-    būti, kad neįklimptum į tą sraunų nuolatinių prielaidų ir hipo­
-    tezių verpetą ir kad tas žibintas neužgestų dar tau nespėjus iš
-    ten išsikapstyti?“22 23. Ir vis dėlto su neslepiama ironija recen­
-    zentas linkėjo T. Narbutui, kad „mus taip skubotai neperdary­
-    tų į graikus, kaip gerbiamasis Foigtas (be viso kito, dar ir isto­
-    rikas) mus sugiminiavo su vokiečiais“22’.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174991
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 56"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 56."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Antra vertus, suvokdamas istoriko pasirinkto tikslo
     sudėtingumą, anonimas rašė: „Autorius, norėdamas ab ovo

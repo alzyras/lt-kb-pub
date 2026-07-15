@@ -35,33 +35,20 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
   teiginys: "Pasakojime apie Višogrudo pilies sugriovimą cituojamas Matatijo raginimas sūnums atsiminti tėvų darbus ir laimėti garbę."
   pagrindžia:
     - c-59711
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Pasakojime apie Višogrudo pilies sugriovimą cituojamas Matatijo raginimas sūnums atsiminti tėvų darbus ir laimėti garbę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    12. Apie Višogrudo pilies sugriovimą
-
-      Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”,
-    tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite
-    jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir
-    amžiną vardą”. Siek tiek toliau jis priduria (1 Mak 2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197041"></a>
+- t-002
+  global_id: t-197041
+  teiginys: "Ar kas kada girdėjo apie tokią baisybę, tu padarei tokią piktadarystę, kurios nėra buvę nuo pat Ordino įsikūrimo pradžios."
   pagrindžia:
-    - t-001
+    - c-179014
 
 ## Citatos
 
 - id: c-59711
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 255"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     12. Apie Višogrudo pilies sugriovimą
 
@@ -76,3 +63,19 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59079
+
+- id: c-179014
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Štai tavo brolio kraujas nuo žemės šaukiasi dievo. Ar kas kada girdėjo apie
+    tokią baisybę, tu padarei tokią piktadarystę, kurios nėra buvę nuo pat Ordino įsikūrimo
+    pradžios. Tu nė trupučio nepagalvojai, ką reiškia tavo vardas, nes Jonas reiškia tą,
+    kuriam suteikta malonė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197041

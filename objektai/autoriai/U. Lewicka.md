@@ -46,23 +46,6 @@ Lewicka ir J.
     - c-33162
 - susijęs iš Bibliografia Regionu Białostockiego: „Bibliografia Regionu Białostockiego“ redagavo U. Lewicka ir J. Pochodowiczius; jos pirmasis tomas išėjo Balstogėje 1964 m.
 - susijęs iš [[objektai/autoriai/J. Pochodowicz.md#claim-t-30695|J. Pochodowicz]]: J. Pochodowicz buvo vienas „Bibliografia Regionu Białostockiego“ redaktorių.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1, 1967 ; dal. 2 (Indeksy), Varšuva 1967.**
-    **_Bibliografia Regionu Białostockiego,_** **red. U. Lewicka ir J. Pochodowicz,
-    t. 1 (1944-1962), Balstogė 1964; t. 2 (1965-1967), Varšuva 1971 (kaip RoB
-    priedai).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33162

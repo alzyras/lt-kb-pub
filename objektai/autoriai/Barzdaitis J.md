@@ -35,8 +35,8 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
   teiginys: "Barzdaitis Vytenio epizodą siejo su raginimu lietuviams ir pavergtiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną."
   pagrindžia:
     - c-61307
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Barzdaitis Vytenio epizodą siejo su raginimu lietuviams ir pavergtiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -57,12 +57,16 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
 - id: c-61307
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 205"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 205."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    564  Žr. dar SRP, 2, p. 456. Šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
-    prūsus laikytis senosios tėvų religijos  ir kovoti prieš Ordino agresiją (Barzdaitis  J.,
-    Krikščionybės..., p. 20—21).
+    Ten suplaukė tokia galybė laivų, kad iš jų pasidarė tiltas per Nemuną,
+    kuriuo kiekvienas galėjo saugiai pereiti į netikėlių krantą; šiuo tiltu lietuviai kur kas
+    daugiau stebėjosi nei visais kitais krikščionių darbais, kuriuos gyvenime kada buvo matę.
+    Kai baigė statyti, dvasininkai, lydimi žmonių, su iškilminga procesija nunešė į bažnyčią
+    relikvijas ir ten atlaikė iškilmingas pamaldas. Nederėtų nutylėti ir to, kad dievo valia
+    daug brolių laivų, pakrautų maisto bei kitų daiktų, reikalingų pilių statybai, plaukdami
+    mariomis, paskendo, o drauge prigėrė 4 broliai ir keturi šimtai vyrų.
+  citata_rodoma: "564  Žr. dar SRP, 2, p. 456. Šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius\nprūsus laikytis senosios tėvų religijos  ir kovoti prieš Ordino agresiją (Barzdaitis  J.,\nKrikščionybės..., p. 20—21)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

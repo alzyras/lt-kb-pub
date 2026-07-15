@@ -44,35 +44,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   teiginys: "Medininkų vyskupas Vaclovas dalyvavo 1542 m. Vilniuje duoto rašto patvirtinime kartu su kitais dignitoriais ir pareigūnais."
   pagrindžia:
     - c-83461
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Medininkų vyskupas Vaclovas dalyvavo 1542 m. Vilniuje duoto rašto patvirtinime kartu su kitais dignitoriais ir pareigūnais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    To dalyko patiki­
-    mumui patvirtinti prie šio rašto mūsų antspaudas yra pri­
-    kabintas. Duota Vilniuje, penktadienį, rytojaus dieną po
-    Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai
-    keturiasdešimt antraisiais Viešpaties metais ir mūsų kara­
-    lystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris­
-    dešimt šeštaisiais. Dalyvaujant didžiai gerbiamiems Kristu­
-    je tėvui Vilniaus vyskupui ir Alšėnų kunigaikščiui ponui
-    Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vac­
-    lovui, garbiesiems ir prakilniesiems Polocko vaivadai Jonui
-    Hlebavičiui, Naugarduko vaivadai Stanislovui Goštautui,
-    Vitebsko vaivadai Motiejui Klokavičiui, rūmų maršalkai Jo­
-    nui Zabžezinskiui, raikytojui Jurgiui Astikaičiui, mūsų Lie­
-    tuvos Didžiosios Kunigaikštystės stalininkui Dubrovskiui
-    ir daugeliui kitų mūsų dignitorių ir pareigūnų, nuoširdžiai
-    ištikimų ir mums mielų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

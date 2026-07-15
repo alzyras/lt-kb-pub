@@ -29,7 +29,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius, kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes, sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius, kurie privalėję nuolatos taip saugoti jo asmenį, kad. Dusburgietis teigia, kad kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia, kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus privalėsiąs. Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas.
+Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė. Pulko vadas Dovydas žuvo grįždamas su kariuomene namo po Mazovijos siaubimo. Kojelavičius Dovydą vaizduoja kaip karo žygiuose garsų vadą, kurį lydėjo sėkmė ir kuris beveik visus žygius sėkmingai užbaigdavo.
 
 ## Teiginiai
 
@@ -47,12 +47,33 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   pagrindžia:
     - c-168054
 
-<a id="claim-t-193906"></a>
+<a id="claim-t-196443"></a>
 - t-003
-  global_id: t-193906
-  teiginys: "Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugiau metų, didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B , kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 ."
+  global_id: t-196443
+  teiginys: "Kojelavičius Dovydą vaizduoja kaip karo žygiuose garsų vadą, kurį lydėjo sėkmė ir kuris beveik visus žygius sėkmingai užbaigdavo."
+  pagrindžia:
+    - c-168054
+
+<a id="claim-t-196820"></a>
+- t-004
+  global_id: t-196820
+  teiginys: "Dovydas jau buvo iš Drohičino atvykęs į Gardiną."
   pagrindžia:
     - c-176531
+
+<a id="claim-t-197069"></a>
+- t-005
+  global_id: t-197069
+  teiginys: "Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius, kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes, sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius, kurie privalėję nuolatos taip saugoti jo asmenį, kad."
+  pagrindžia:
+    - c-179021
+
+<a id="claim-t-197070"></a>
+- t-006
+  global_id: t-197070
+  teiginys: "Kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia, kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus privalėsiąs."
+  pagrindžia:
+    - c-179022
 - susijęs iš [[objektai/asmenys/Erdenas, arba Jerdenas.md#claim-t-87498|Erdenas, arba Jerdenas]]: Erdenas nurodomas kaip pirmuoju Vilniaus kunigaikščiu laikyto Dovilo arba Dovydo sūnus.
 - susijęs iš [[objektai/asmenys/Dovilas, arba Dovydas.md#claim-t-87493|Dovilas, arba Dovydas]]: Dovilas, arba Dovydas, šaltinyje laikomas pirmuoju Vilniaus kunigaikščiu, kurį vilniečiai pasikvietė vietininku XII amžiuje.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173129|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė žygio mantą, arklius, duoną bei kitą maistą.
@@ -68,47 +89,11 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 - susijęs iš [[objektai/asmenys/Antiochas Epifanas.md#claim-t-60237|Antiochas Epifanas]]: Makabėjai nugalėjo Antiochą Epifaną ir apvalė šventas vietas.
 - susijęs iš [[objektai/asmenys/Judas Makabėjus.md#claim-t-175239|Judas Makabėjus]]: Makabėjai, laikydamiesi įstatymo ir tikėjimo, nugalėjo Antiochą Epifaną, apvalė šventas vietas ir sugrąžino žemei ramybę.
 - susijęs iš [[objektai/asmenys/Maukoldas.md#claim-t-87550|Maukoldas]]: Maukoldas, pasak šaltinyje perteikto pasakojimo, buvo Rostislavo Rogvoldovičiaus sūnus ir Mindaugo tėvas.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113914|Mindaugas (valdovas, XIII a.)]]: Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113936|Mindaugas (valdovas, XIII a.)]]: Maukoldas citatoje nurodomas kaip Mindaugo, dar vadinto Mendogu, tėvas.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179254|Lietuviai]]: Plėšikaujančios lietuvių gaujos niokojo krikščionių žemes, kai Prūsijoje pasklido gandas apie Gedimino norą krikštytis.
 - susijęs iš Prūsija: Prūsijoje pasklido gandas, kad Gediminas laiškais skelbė norą priimti krikštą.
 - susijęs iš Prūsija: Prūsijoje pasklido gandas, kad Gediminas išsiuntinėjo laiškus apie norą priimti krikštą ir prisijungti prie tikinčiųjų.
 - susijęs iš Revelis: 1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Viename dokumen­
-    te, apie kurį vėliau smulkiau kalbė­
-    sime, pasakojama apie kunigaikščių
-    Ziemovito ir Traidenio įsiveržimą į
-    Dobrynės žemę. Qui prophanus dux
-    David paulo ante indictas treugas pre-
-    dictas Ingrediens cum valido exercitu
-    Litwanorum terram Dobrinens. sitam
-    in prenominata Plocendioc totam mise­
-    rabiliter devastavit. Et nihilominus opi-
-    do quodam munito Dobryn vulgariter
-    dicto expugnato et in favillam prorsus
-    redacto multis inibi christifidelibus fer­
-    ro peremptis decem millia et utra homi­
-    num utriusque sexus secum abegit si­
-    militer et deduxit [Kai bedievis vadas
-    Dovydas prieš pat anksčiau minėtas
-    paliaubas įžengęs su stipria lietuvių
-    kariuomene į Dobrynės žemę, esan­
-    čią minėtoje Plocko diecezijoje, visą
-    pragaištingai nusiaubė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Dovydas mokė savo kariuomenės vadą Joabą nenusiminti dėl saviškių mirties ir padrąsinti kovotojus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -131,57 +116,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Pulko vadas Dovydas žuvo grįždamas su kariuomene namo po Mazovijos siaubimo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Dėl vieno bajoro nepaprastos drąsos žuvo pulko
-    vadas Dovydas, garsus sve-
-    L ietu vio  v a d o  D o v y -
-    timuose kraštuose karo žy­
-    do š lo v ė  ir m irtis
-    giais, o tėvynėje aukščiau­
-    siomis pareigybėmis ir gimi­
-    nyste su valdovu, kurio dukterį buvo vedęs; jis žuvo
-    tada, kai, grįždamas su kariuomene namo, siaubė Ma-
-    zoviją. Šis didvyris iš tiesų buvo vertas geresnio liki­
-    mo. Visada jis rodydavęs tokį karinį sumanumą, vi­
-    sada jį lydėjusi tokia lemtinga sėkmė, kad ligi tol be­
-    maž nebuvo ėmęsis žygio, kurio nebūtų labai sėkmin­
-    gai užbaigęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugiau metų, didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B , kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
-    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
-    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
-    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
-    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
-    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
-    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
-    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
-    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
-    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
-    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
-    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
-    sers, kam ją ištekino už vergo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-78749
@@ -220,14 +154,13 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 - id: c-168054
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 211"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 211."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Dėl vieno bajoro nepaprastos drąsos žuvo pulko
     vadas Dovydas, garsus sve-
-    L ietu vio  v a d o  D o v y -
+    L ietu vio v a d o D o v y -
     timuose kraštuose karo žy­
-    do š lo v ė  ir m irtis
+    do š lo v ė ir m irtis
     giais, o tėvynėje aukščiau­
     siomis pareigybėmis ir gimi­
     nyste su valdovu, kurio dukterį buvo vedęs; jis žuvo
@@ -236,38 +169,89 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     mo. Visada jis rodydavęs tokį karinį sumanumą, vi­
     sada jį lydėjusi tokia lemtinga sėkmė, kad ligi tol be­
     maž nebuvo ėmęsis žygio, kurio nebūtų labai sėkmin­
-    gai užbaigęs.
+    gai užbaigęs. Ir sėkmingai kovodavo, ir pergales lai­
+    mėdavo dėl to, kad mokėjo nepaprastai greitai susi­
+    rengti į žygį.
+  citata_rodoma: "Šis didvyris iš tiesų buvo vertas geresnio liki­\nmo. Visada jis rodydavęs tokį karinį sumanumą, vi­\nsada jį lydėjusi tokia lemtinga sėkmė, kad ligi tol be­\nmaž nebuvo ėmęsis žygio, kurio nebūtų labai sėkmin­\ngai užbaigęs. Ir sėkmingai kovodavo, ir pergales lai­\nmėdavo dėl to, kad mokėjo nepaprastai greitai susi­\nrengti į žygį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184693
+    - t-196443
 
 - id: c-176531
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
-    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
-    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
-    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
-    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
-    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
-    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
-    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
-    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
-    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
-    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
-    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
-    sers, kam ją ištekino už vergo.
+    O didysis kunigaikštis Kęstutis, sutelkęs savo pajė­
+    gas, skuba į Vilnių ir suima didįjį kunigaikštį Jogailą
+    su broliaisM ir su motina, suranda tas sutartis, kurias
+    buvo su vokiečiais sudarę, ir pasiunčia žygūną pas sa­
+    vo sūnų, didįjį kunigaikštį Vytautą, į Drohičiną, pra­
+    nešdamas, kas įvyko. Tas žygūnas suranda didįjį ku-
+    SJ
+
+    nigaikštį Vytautą Gardine, nes jis jau buvo iš Drohiči-
+    no atvykęs į Gardiną. Didysis kunigaikštis Vytautas
+    per vieną dieną atskuba iš Gardino pas savo tėvą, di­
+    dįjį kunigaikštį Kęstutį.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193906
+    - t-196820
+
+- id: c-179021
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius,
+    kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes,
+    sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius, kurie privalėję nuolatos taip
+    saugoti jo asmenį, kad, išgaišinę tuos (1 Kar 30, 14), kurie aiškiai tyko Dovydo gyvybės,
+    sėkmingai apgintų (2 Kar 8, 18) ir jo valdinius, žodžiu, elgtųsi taip, kaip įpareigoja elgtis
+    jų vardas (2 Kar 15, 18). Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto —
+    „gelbėtojas“. Kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia,
+    kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo
+    sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus
+    privalėsiąs turėti sargybinių, kurie, nebrangindami savo gyvybės, prisisegs prie šlaunies
+    šventąjį kalaviją, kad tie, kurie supa drąsiausiojo Izraelio vyro Saliamono guolį, išvytų iš
+    krikščionių gyvenamų plotų klastingos tamsybės naktines šmėklas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197069
+
+- id: c-179022
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto —
+    „gelbėtojas“. Kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia,
+    kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo
+    sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus
+    privalėsiąs turėti sargybinių, kurie, nebrangindami savo gyvybės, prisisegs prie šlaunies
+    šventąjį kalaviją, kad tie, kurie supa drąsiausiojo Izraelio vyro Saliamono guolį, išvytų iš
+    krikščionių gyvenamų plotų klastingos tamsybės naktines šmėklas. Nedera, be to,
+    užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis,
+    nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo,
+    nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė tą, kuris stengėsi
+    pripratinti dievo tautą prie stabmeldiškų apeigų, o jaunikaičius — prie viešnamių; dievo
+    remiami, apvalė šventas vietas, atgavo Siono arką ir sugrąžino žemei ramybę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197070
 
 ## Ryšiai
 - Dovydas surengė žygį į [[objektai/vietos/Dobrynė]]

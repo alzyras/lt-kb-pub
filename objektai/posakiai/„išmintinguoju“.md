@@ -35,24 +35,6 @@ Net savo priešų Mindaugas buvo vadinamas išmintinguoju.
   teiginys: "Net savo priešų Mindaugas buvo vadinamas išmintinguoju."
   pagrindžia:
     - c-176346
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Net savo priešų Mindaugas buvo vadinamas išmintinguoju.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę –
-    apsisaugojo nuo politinių saitų su Šventąja Romos imperija. Šie svarūs
-    diplomatiniai laimėjimai rodo, kad Mindaugas talentingai sugebėjo pa-
-    kreipti įvykius sau naudinga linkme. Net savo priešų Mindaugas buvo
-    vadinamas išmintinguoju.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

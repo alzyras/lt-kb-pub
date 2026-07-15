@@ -58,24 +58,6 @@ Nenurodyta
   teiginys: "Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas."
   pagrindžia:
     - c-40918
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prasidėjus perversmui Maskvoje, suaktyvėjo sovietų kariškių vei-
-    kimas Lietuvoje. Iš parengiamųjų veiksmų tapo aišku, kad rengia-
-    masi galutiniam AT rūmų šturmui, įtampa vėl pasiekė maksimumą,
-    atrodė, kad kruvina atomazga neišvengiama. Augant įtampai, so-
-    vietų kariškių provokacijos metu poste prie pagrindinio įvažia-
-    vimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.
+1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės. 1435 m. Švitrigaila po pirmo antpuolio užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -52,40 +52,27 @@ Nenurodyta
   global_id: t-185516
   teiginys: "1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės."
   pagrindžia:
-    - c-168877
-## Reikšmingi paminėjimai
+    - c-178616
 
-- c-001
-  santrauka: '1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vladislovui ro-
-    1435 m e ta i
-    dėsi, jog būtų ne pro šalį
-    valdymo pradžioje sutramdy­
-    ti Boleslovą, pagarsėti sėkmingais karo žygiais ir įvaryti
-    baimės kitiems priešams. Todėl pasiuntė į Lietuvą pasi­
-    žymėjusį karvedį Jokūbą iš Kobylianų su aštuoniais
-    tūkstančiais lenkų. Boleslovas, jau po pirmo antpuolio
-    užėmęs Breslaują, nusiaubė didelius Lietuvos plotus ir
-    priartėjo su kariuomene prie Ukmergės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196298"></a>
+- t-002
+  global_id: t-196298
+  teiginys: "1435 m. Švitrigaila po pirmo antpuolio užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės."
   pagrindžia:
-    - t-001
+    - c-178616
 
 ## Citatos
 
-- id: c-168877
+- id: c-178616
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 453"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 453."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vladislovui ro-
+    Gerai žinodamas, kaip stropiai
+    Boleslovas rengiasi karui, Žygimantas, greitosiomis su­
+    telkęs Lietuvoje kariuomenę, kreipėsi pagalbos į karalių
+    Vladislovą, primindamas, kokia baisi audra gali atgriau-
+    dėti iš Rusios. Vladislovui ro-
     1435 m e ta i
     dėsi, jog būtų ne pro šalį
     valdymo pradžioje sutramdy­
@@ -94,10 +81,15 @@ Nenurodyta
     žymėjusį karvedį Jokūbą iš Kobylianų su aštuoniais
     tūkstančiais lenkų. Boleslovas, jau po pirmo antpuolio
     užėmęs Breslaują, nusiaubė didelius Lietuvos plotus ir
-    priartėjo su kariuomene prie Ukmergės.
+    priartėjo su kariuomene prie Ukmergės. Ją užimti ne­
+    sisekė: dėl gamtinių kliūčių ir dėl gynėjų atkaklumo
+    apgula užsitęsė ilgiau, nei ti-
+    A p s u p a U k m e r g ę
+    kėjosi.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185516
+    - t-196298

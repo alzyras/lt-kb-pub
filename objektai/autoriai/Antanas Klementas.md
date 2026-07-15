@@ -45,26 +45,6 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
     - c-64341
 - susijęs iš Žemaitiška dainelė: Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
 - susijęs iš Žemaitiška dainelė Žemaitiška giesmelė: Antanas Klementas „Žemaitišką dainelę“ parašė revoliucijos laikais, 1794 m.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vokiečių
-
-    ŽEMAITIŠKA DAINELĖ
-
-    Antanas Klementas. Žemaitiška
-    dainelė, revoliucijos laikais
-    rašyta... 1794 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-64341

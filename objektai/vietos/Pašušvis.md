@@ -48,6 +48,7 @@ Pašušvis šiame šaltinyje yra gyvenvietė ar vietovė.
   teiginys: "Pašušvyje gyveno vokietis Škobaras, lipdęs puodus ir mūrijęs krosnis."
   pagrindžia:
     - c-178059
+
 ## Citatos
 
 - id: c-178059
@@ -60,8 +61,7 @@ Pašušvis šiame šaltinyje yra gyvenvietė ar vietovė.
     — Taip tankiai atsitinka, kad žmogus dėl niekų prapuola, — ta­
     rė vienas svečias. — Jau bus gerokai metų, kai Pašušvy gyveno vo­
     kietis Škobaras, kuris puodus lipdė ir krosnis mūrijo.
-  citata_rodoma: "— Jau bus gerokai metų, kai Pašušvy gyveno vo­
-kietis Škobaras, kuris puodus lipdė ir krosnis mūrijo."
+  citata_rodoma: "— Jau bus gerokai metų, kai Pašušvy gyveno vo­\nkietis Škobaras, kuris puodus lipdė ir krosnis mūrijo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

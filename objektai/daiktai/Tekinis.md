@@ -54,8 +54,8 @@ Nenurodyta
   global_id: t-195351
   teiginys: "Prie pavažos pritvirtintas ratas, verčiantis įtaisą svyruoti ir suktis."
   pagrindžia:
-    - c-177759
     - c-177758
+    - c-177759
 - susijęs iš [[objektai/daiktai/Dėdelis.md#claim-t-195352|Dėdelis]]: Apeiginis sudėtas daiktas, vežiojamas per kaimą Pelenijos dieną.
 ## Reikšmingi paminėjimai
 Nenurodyta

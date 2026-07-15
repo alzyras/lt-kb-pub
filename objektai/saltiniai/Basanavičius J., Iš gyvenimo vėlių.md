@@ -10,13 +10,13 @@ datos:
   - '1900 m.'
 date_start: '1344'
 date_end: '1900'
+amziai:
+  - 'XIV'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIV'
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,8 +65,8 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   teiginys: "Basanavičiaus veikalo puslapiai 190–191 nurodomi prie Kampsvykalnio piliakalnio Vangrapės krante, į pietus nuo Tamoviškių."
   pagrindžia:
     - c-61569
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Basanavičiaus veikalo puslapis 182 nurodomas prie Šereitlaukio apylinkėse lokalizuojamos Sareibe pilies aptarimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -84,67 +84,24 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   pagrindžia:
     - t-003
 
-- c-002
-  santrauka: 'Basanavičiaus veikalo puslapiai 181–182 nurodomi tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Didelė kalvos dalis, Nemuno paplauta,
-    nugriuvo 1835 m. ir vėliau. Dar XIX a. pirmoje pusėje kalne išlikusį pylimą žmonės vadino
-    pilimi, pilate. Padavimuose minimas Rambyno kunigaikštis Skraudopus (Hennenberger
-    C., Erclerung.., p. 389; VBK; HE, p. 134—135; CV, t. 34, p. 107, 112; Remeika J.,
-    Ką kalneliai.., p. 88; Matusas J., Senovės prūsų..., p. 54; LAA, 2, p. 143—144, 42;
-    Lietuvininkai, p. 229—230; Basanavičius J., Iš gyvenimo vėlių..., p. 181—2).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Basanavičiaus veikalo puslapiai 190–191 nurodomi prie Kampsvykalnio piliakalnio Vangrapės krante, į pietus nuo Tamoviškių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Į rytus nuo Įsruties (dab. Černiachovskas), deš. Vangrapės krante,
-    upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių..,
-    p. 190—191), per 400 m į pietus nuo Tamoviškių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Basanavičiaus veikalo puslapiai 178–181 nurodomi kaip pasakojimų apie piliakalnį į pietryčius nuo Ragainės šaltinis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Čia, pasak vietos žmonių, buvę du žuvingi
-    ežerai (Basanavičius J., Iš gyvenimo vėlių.., p. 183). Žinomi pasakojimai apie piliakalnį
-    į pietryčius nuo Ragainės (ten pat, p. 178—181).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-61567
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 156"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 156."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1344 m. čia minima  pilis — huse Sareibe
-    (Mortensen G., Beiträge..., p. 33; HGAPW). Per 2 km  į vakarus nuo Šereitlaukio yra
-    apskrita kalva, kurioje kartais lokalizuojama minėta pilis, tačiau, iš paviršiaus žiūrint,
-    ryškesnių įtvirtinimų pėdsakų kalvoje nepastebima (Basanavičius J., Iš gyvenimo vėlių...,
-    p. 182; SZM, p. 288—289; Remeika J., Ką kalneliai..., p. 13—14, 88; LAA, 2, p. 162).
+    Pasiėmęs
+    su savimi kuriuos ne kuriuos brolius bei ginklanešius, patraukė į kelią; žygiuodamas jis
+    sutiko priešais atskubantį vyrą, kuris jį įspėjo dėl sumanytos išdavystės, tikindamas, kad
+    Sarkis su daugybe karių pakelėje tykojąs jo bei brolių, ketindamas visus išžudyti. Šitai
+    išgirdęs, komtūras, nenorėdamas, kad Sarkis turėtų kokios naudos iš tos nedorybės,
+    apsupo jį, staiga užpuolė ir, kitiems iš baimės išsibėgiojus, pagavo jį patį ir nusivedė
+    drauge su aštuoniais galingesniaisiais skalvių vyrais. Tačiau pačią pirmąją naktį, kai
+    broliai ilsėjosi savo palapinėse, Sarkis, be galo stiprus vyras, sutraukė pančius, kuriais
+    buvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius,
+    o kitam nukirto ranką, tačiau ir pats šioje kovoje padėjo galvą.
+  citata_rodoma: "1344 m. čia minima  pilis — huse Sareibe\n(Mortensen G., Beiträge..., p. 33; HGAPW). Per 2 km  į vakarus nuo Šereitlaukio yra\napskrita kalva, kurioje kartais lokalizuojama minėta pilis, tačiau, iš paviršiaus žiūrint,\nryškesnių įtvirtinimų pėdsakų kalvoje nepastebima (Basanavičius J., Iš gyvenimo vėlių...,\np. 182; SZM, p. 288—289; Remeika J., Ką kalneliai..., p. 13—14, 88; LAA, 2, p. 162)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -155,8 +112,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
 - id: c-61568
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 155."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Didelė kalvos dalis, Nemuno paplauta,
     nugriuvo 1835 m. ir vėliau. Dar XIX a. pirmoje pusėje kalne išlikusį pylimą žmonės vadino
@@ -174,8 +130,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
 - id: c-61569
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 151"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 151."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Į rytus nuo Įsruties (dab. Černiachovskas), deš. Vangrapės krante,
     upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių..,
@@ -190,8 +145,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
 - id: c-61570
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Čia, pasak vietos žmonių, buvę du žuvingi
     ežerai (Basanavičius J., Iš gyvenimo vėlių.., p. 183). Žinomi pasakojimai apie piliakalnį

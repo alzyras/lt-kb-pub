@@ -50,35 +50,6 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
   teiginys: "L. Truska kartu su D. Blažyte-Baužiene ir M. Tamošaičiu parašė leidinį „Lietuvos Seimo istorija: XX–XXI a. pradžia“."
   pagrindžia:
     - c-22200
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Anušauskas A. ir kt. Lietuva, 1940–1990: okupuotos Lietuvos istorija. Vil-
-    nius, 2005.
-    Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
-    XX–XXI a. pradžia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius, 2011.
-    Truska L. Antanas Smetona ir jo laikai. Vilnius, 1996.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

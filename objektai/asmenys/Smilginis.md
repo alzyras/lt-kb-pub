@@ -42,34 +42,16 @@ Smilginis, citatoje pateiktas kaip Szmilgin, 1475 metais pridėjo antspaudą su 
   teiginys: "Smilginis, citatoje pateiktas kaip Szmilgin, 1475 metais pridėjo antspaudą su Žąsies, arba Paparonos, herbu."
   pagrindžia:
     - c-173124
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Smilginis, citatoje pateiktas kaip Szmilgin, 1475 metais pridėjo antspaudą su Žąsies, arba Paparonos, herbu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    IV lentelė, 26-asis piešinys. Žąsies herbas, arba Paparo-
-    na, -  toks kaip lenkų herbynuose; skiriasi tuo, kad čia yra ke­
-    turios trikampės riterių vėliavėlės su stiebais. Antspaudą pri­
-    dėjo Smilginis (Szmilgin) 1475 metais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173124
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 405"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 405."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     IV lentelė, 26-asis piešinys. Žąsies herbas, arba Paparo-
-    na, -  toks kaip lenkų herbynuose; skiriasi tuo, kad čia yra ke­
+    na, - toks kaip lenkų herbynuose; skiriasi tuo, kad čia yra ke­
     turios trikampės riterių vėliavėlės su stiebais. Antspaudą pri­
     dėjo Smilginis (Szmilgin) 1475 metais.
   statusas: verified

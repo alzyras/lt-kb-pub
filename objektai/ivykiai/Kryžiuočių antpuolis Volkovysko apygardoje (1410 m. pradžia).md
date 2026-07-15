@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1410 m. kovo pradžioje kryžiuočiai tylomis patraukė prie Lietuvos, o Vytautas vengė ryžtingesnių veiksmų, kad nebūtų apkaltintas taikos griovimu.
+1410 m. kovo pradžioje kryžiuočiai tylomis patraukė prie Lietuvos, o Vytautas vengė ryžtingesnių veiksmų, kad nebūtų apkaltintas taikos griovimu. Kryžiuočiai, paėmę sargybinius prie Iskros, pasklido po Volkovysko apygardą, užėmė Volkovyską ir jo gyventojus žudė arba varė į nelaisvę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -54,40 +54,13 @@ Nenurodyta
   teiginys: "1410 m. kovo pradžioje kryžiuočiai tylomis patraukė prie Lietuvos, o Vytautas vengė ryžtingesnių veiksmų, kad nebūtų apkaltintas taikos griovimu."
   pagrindžia:
     - c-169169
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: '1410 m. kovo pradžioje kryžiuočiai tylomis patraukė prie Lietuvos, o Vytautas vengė ryžtingesnių veiksmų, kad nebūtų apkaltintas taikos griovimu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nebetoli nuo ten buvo ir Vytautas, tačiau be
-    kariuomenės. Nenorėdamas netikėtai pakliūti į bėdą,
-    ypač dėl to, kad nežinojo, kiek karių turi priešas, jis
-    nuviliojo juos į didelius miškus. Vis dėlto ir vėliau jis
-    1410 m eta i
-    P u ld in ėja  L ietu vą
-    Ligi pat žiemos pabaigos
-    truko taika ir ramybė. Tiktai
-    kovo pradžioje kryžiuočiai
-    tylomis patraukė prie Lietu-
-    375
-    I
-
-    ## Puslapis 374
-
-    nesiėmė ryžtingesnių veiksmų, nenorėdamas, kad kry­
-    žiuočiai galėtų jį kaltinti, jog nauju karo žygiu sugrio­
-    vęs beįsitvirtinančią taiką. Ligi birželio mėnesio abi
-    šalys laikėsi ramiai: kryžiuočiai dėl to, kad ketino ker­
-    šyti ateityje, o Vytautas — nenorėdamas laužyti sutar­
-    čių ir duoto žodžio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196184"></a>
+- t-002
+  global_id: t-196184
+  teiginys: "Kryžiuočiai, paėmę sargybinius prie Iskros, pasklido po Volkovysko apygardą, užėmė Volkovyską ir jo gyventojus žudė arba varė į nelaisvę."
   pagrindžia:
-    - t-001
+    - c-169169
 
 ## Citatos
 
@@ -96,30 +69,28 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Nebetoli nuo ten buvo ir Vytautas, tačiau be
-    kariuomenės. Nenorėdamas netikėtai pakliūti į bėdą,
-    ypač dėl to, kad nežinojo, kiek karių turi priešas, jis
-    nuviliojo juos į didelius miškus. Vis dėlto ir vėliau jis
-    1410 m eta i
-    P u ld in ėja  L ietu vą
-    Ligi pat žiemos pabaigos
-    truko taika ir ramybė. Tiktai
-    kovo pradžioje kryžiuočiai
-    tylomis patraukė prie Lietu-
-    375
-    I
-
-    ## Puslapis 374
-
-    nesiėmė ryžtingesnių veiksmų, nenorėdamas, kad kry­
-    žiuočiai galėtų jį kaltinti, jog nauju karo žygiu sugrio­
-    vęs beįsitvirtinančią taiką. Ligi birželio mėnesio abi
-    šalys laikėsi ramiai: kryžiuočiai dėl to, kad ketino ker­
-    šyti ateityje, o Vytautas — nenorėdamas laužyti sutar­
-    čių ir duoto žodžio.
+    Kai žinia apie šį
+    žygį pasiekė karaliaus rūmus, Jogaila, bijodamas, kad
+    savo ruožtu kryžiuočiai nesurengtų šitokio išpuolio, be­
+    matant pasiuntė žygūnus, stengdamasis magistrui pasi­
+    teisinti dėl Žygimanto veiksmų ir reikalaudamas, kad
+    visa tai, kas įvyko nežinant apie paliaubas, nieku būdu
+    nepažeistų neseniai sudaryto susitarimo. Kryžiuočiai nė
+    kiek neatlyžo, šitaip karaliui pasiteisinus, tačiau tuo
+    tarpu dėjosi negalvoju apie kerštą, vildamiesi, kad vė­
+    liau, kai lietuviai jausis saugesni, būsią patogiau atsi­
+    teisti už nuostolius.
+    vos sienų, paėmė į nelaisvę sargybinius, budinčius prie
+    Iskros upės, ir pasklido po Volkovysko apygardą. Stai­
+    ga užpuolę, užėmė Volkovyską: žmones, šventą dieną
+    čia suėjusius į bažnyčią, arba išžudė, arba išsivarė į
+    nelaisvę. Nebetoli nuo ten buvo ir Vytautas, tačiau be
+    kariuomenės.
+  citata_rodoma: "Kai žinia apie šį \nžygį pasiekė karaliaus rūmus, Jogaila, bijodamas, kad \nsavo ruožtu kryžiuočiai nesurengtų šitokio išpuolio, be­\nmatant pasiuntė žygūnus, stengdamasis magistrui pasi­\nteisinti dėl Žygimanto veiksmų ir reikalaudamas, kad \nvisa tai, kas įvyko nežinant apie paliaubas, nieku būdu \nnepažeistų neseniai sudaryto susitarimo. Kryžiuočiai nė \nkiek neatlyžo, šitaip karaliui pasiteisinus, tačiau tuo \ntarpu dėjosi negalvoju apie kerštą, vildamiesi, kad vė­\nliau, kai lietuviai jausis saugesni, būsią patogiau atsi­\nteisti už nuostolius.\nvos sienų, paėmė į nelaisvę sargybinius, budinčius prie \nIskros upės, ir pasklido po Volkovysko apygardą. Stai­\nga užpuolę, užėmė Volkovyską: žmones, šventą dieną \nčia suėjusius į bažnyčią, arba išžudė, arba išsivarė į \nnelaisvę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185808
+    - t-196184

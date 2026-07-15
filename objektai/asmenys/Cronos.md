@@ -36,8 +36,8 @@ Narbutas, remdamasis seniausiais padavimais, Cronos vaizduoja kaip Šiaurės Vak
   teiginys: "Narbutas, remdamasis seniausiais padavimais, Cronos vaizduoja kaip Šiaurės Vakarų kraštų valdovą, laiko karalių arba Titaną, vadintą Saturnu."
   pagrindžia:
     - c-174144
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis seniausiais padavimais, Cronos vaizduoja kaip Šiaurės Vakarų kraštų valdovą, laiko karalių arba Titaną, vadintą Saturnu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -62,16 +62,20 @@ Narbutas, remdamasis seniausiais padavimais, Cronos vaizduoja kaip Šiaurės Vak
 - id: c-174144
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 161"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 161."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    164
-    Dar negalima nepaminėti pastabų apie pavadinimą
-    Cronium. Seniausi padavimai sako, jog galingas Siaurės
-    Vakarų kraštų valdovas Cronos, laiko karalius, arba Ti­
-    tanas, garbinamas kaip laiko simbolis, kurį vadino ir Sa­
-    turnu, gyvenęs šiauriniuose Okeano kraštuose. Dėl to ši­
-    taip buvo vadinama šiaurinė jūra, ypač Baltija.
+    Tačiau autorius, rašęs Prūsijos istoriją,
+    taip pavadino Priegliaus upę1. Šio labai tikslaus istoriko
+    ir garbingo senovės krašto tyrinėtojo nuomonė verstų mus
+    suabejoti šiomis išvadomis, jei tas pats rašytojas2 neteig-
+    tų, jog Ptolemėjo Guitalus iš tikrųjų yra Priegliaus upė.
+    Sį dirbtinį pavadinimą paneigia Plinijaus Germanijos ap­
+    rašymas, kur išvardytos šio krašto upės, įtekančios į jūrą,
+    yra septynios, įskaitant ir Vyslą: Moša, Rhenus, Amisius
+    (Ernsas), Visurgt's (Vėzeris), Albis (Elbė); tik Oderiui
+    tenka pavadinimas Guitalus, nes šios labai didelės upės
+    Plinijus nebūtų praleidęs3.
+  citata_rodoma: "164\nDar negalima nepaminėti pastabų apie pavadinimą\nCronium. Seniausi padavimai sako, jog galingas Siaurės\nVakarų kraštų valdovas Cronos, laiko karalius, arba Ti­\ntanas, garbinamas kaip laiko simbolis, kurį vadino ir Sa­\nturnu, gyvenęs šiauriniuose Okeano kraštuose. Dėl to ši­\ntaip buvo vadinama šiaurinė jūra, ypač Baltija."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

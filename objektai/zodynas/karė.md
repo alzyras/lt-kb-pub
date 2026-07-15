@@ -34,20 +34,6 @@ media_all_json: |-
   teiginys: "144, „KARĖ“ Andžej Geglis, dail."
   pagrindžia:
     - c-176454
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '144, „KARĖ“ Andžej Geglis, dail.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 144, „KARĖ“ Andžej Geglis, dail. Andžej Geglis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

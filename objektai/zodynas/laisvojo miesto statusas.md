@@ -42,45 +42,6 @@ Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti
   teiginys: "Britai iš pradžių siūlė Lietuvai už prarastą Vilnių gauti Klaipėdą, bet vėliau pasisakė už Klaipėdos laisvojo miesto statusą."
   pagrindžia:
     - c-166836
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    TAUTOS TAPSMAS
-    Lietuva įgyja jūrų uostą –
-    Klaipėdos prisijungimas
-    T
-    autinės valstybės prioritetas – lietuvių tauta, todėl
-    nemažai dėmesio skirta Ryprūsiams, kur daug vietos
-    gyventojų vartojo lietuvių kalbą, ėjo lietuviški laikraščiai, į tą sritį kaž-
-    kada pretendavo Vytautas Didysis. Netekusi Vilniaus, Lietuva atsisuko į
-    Mažąją Lietuvą. Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
-    nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Britai iš pradžių siūlė Lietuvai už prarastą Vilnių gauti Klaipėdą, bet vėliau pasisakė už Klaipėdos laisvojo miesto statusą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Netekusi Vilniaus, Lietuva atsisuko į
-    Mažąją Lietuvą. Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
-    nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
-    Lietuviams mainų principas netiko, nes Vilnius – senoji sostinė, tačiau
-    uostas labai rūpėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

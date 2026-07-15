@@ -58,26 +58,6 @@ Nenurodyta
   teiginys: "1386 m. vasario 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas, o Vytautas atnaujino tikėjimo išpažinimą."
   pagrindžia:
     - c-37004
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1386 m. vasario 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas, o Vytautas atnaujino tikėjimo išpažinimą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vasa­
-    rio 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikš­
-    tas. Vytautas taip pat atnaujino tikėjimo išpažinimą, prisidė­
-    damas prie naujai pakrikštytų kunigaikščių. Todėl nuo 1386 me­
-    tų Vytauto dokumentuose mes visur pirmoj vietoj užtinkame
-    Aleksandro, o paskui Vytauto vardu. Vasario 18 d. įvyko jung­
-    tuvės, o kovo 4 d. Jogaila buvo karūnuotas Lenkijos karalium.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

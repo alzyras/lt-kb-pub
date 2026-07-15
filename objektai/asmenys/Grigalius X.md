@@ -46,32 +46,12 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
     - c-60757
 - susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176411|Jadvyga]]: Popiežius Grigalius X 1272 m. kanonizavo šventą Jadvygą, Lenkijos kunigaikštienę.
 - susijęs iš Lionas: 1274 m. popiežius Grigalius X sušaukė Lione sinodą, kuriame graikai grįžo į Bažnyčios vienybę, o keli totorių pasiuntiniai buvo pakrikštyti.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1272 m. Grigalius X buvo popiežius ir kanonizavo šventąją Jadvygą, Lenkijos kunigaikštienę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    54. Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­
-                                      vimą
-
-      1272 viešpaties metais popiežiumi buvo Grigalius X. Jis kanonizavo šventą Jadvygą,
-    Lenkijos kunigaikštienę (Mart. p. 413, 414; Ptol. 23, 1).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60757
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 236"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     54. Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­
                                       vimą

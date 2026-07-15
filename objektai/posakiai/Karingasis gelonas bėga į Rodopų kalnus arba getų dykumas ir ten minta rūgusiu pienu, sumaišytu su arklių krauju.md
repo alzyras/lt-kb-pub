@@ -42,57 +42,13 @@ Narbutas, remdamasis Vergilijumi, pateikia spalvingą gelonų gyvenimo ir mitybo
   teiginys: "Tokiame piene, sumaišius jį su dar šiltu ir šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl destiliuojant galima pagaminti svaiginantį gėrimą."
   pagrindžia:
     - c-177301
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoras Narbutas, remdamasis Vergilijumi, gelonų kumelės pieno vartojimą siejo su rūgusiu pienu, maišytu su arklių krauju.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tą sveiką gyvulinės kilmės
-    produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
-    suomet labai vertino ir dabar tebevertina šiaurės rytų
-    gyventojai. Tokiame piene, sumaišius jį su dar šiltu ir
-    šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl
-    destiliuojant galima pagaminti svaiginantį gėrimą. Ver­
-    gilijus apie tokį kumelės pieno vartojimą rašė: „Karin­
-    gasis gelonas bėga į Rodopų kalnus arba getų dykumas
-    ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Tokiame piene, sumaišius jį su dar šiltu ir šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl destiliuojant galima pagaminti svaiginantį gėrimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tokiame piene, sumaišius jį su dar šiltu ir
-    šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl
-    destiliuojant galima pagaminti svaiginantį gėrimą. Ver­
-    gilijus apie tokį kumelės pieno vartojimą rašė: „Karin­
-    gasis gelonas bėga į Rodopų kalnus arba getų dykumas
-    ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4.
-    Senovėje buvo sakoma, kad gelonai iš odos, nuplėštos nuo
-    nukauto kautynėse priešo, dirbo diržus ginklams ir apy­
-    nasrius arkliams5.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-174997
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 79"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 79."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tą sveiką gyvulinės kilmės
     produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
@@ -114,8 +70,7 @@ Narbutas, remdamasis Vergilijumi, pateikia spalvingą gelonų gyvenimo ir mitybo
 - id: c-177301
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 79"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 79."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tokiame piene, sumaišius jį su dar šiltu ir
     šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl

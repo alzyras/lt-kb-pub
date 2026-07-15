@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Cibavos
 sukurta: '2026-07-12'
 variantai:
-  - cibavos
-  - cibavos išgertos
+  - 'cibavos'
+  - 'cibavos išgertos'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -66,6 +66,7 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
   teiginys: "Šioje apybraižoje cibavos būdavo prageriamos visų susiėjusių."
   pagrindžia:
     - c-178022
+
 ## Citatos
 
 - id: c-178022

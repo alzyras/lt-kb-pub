@@ -9,14 +9,14 @@ datos:
   - '1864 m.'
 date_start: '1784'
 date_end: '1864'
+amziai:
+  - 'XVIII'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - dvaras
-amziai:
-  - 'XVIII'
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -72,13 +72,11 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
 - susijęs iš Spisanie Muzeum w Szawrach: „Spisanie Muzeum w Szawrach“ sieja Obelių kapinyno radinius su viena garbingiausių vietų Saurų dvaro muziejuje.
 - susijęs iš T. Narbuto „Spisanie Muzeum w Szawrach“: I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto Saurų dvaro bibliotekoje.
 - susijęs iš Obelių kapinynas: Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro muziejuje.
-- susijęs iš Vilnius: Pasakojama, kad į Vilniaus bažnyčią suvežtą Saurų dvaro biblioteką ir rankraščius sargas už rublį leisdavo išgabenti.
 - susijęs iš [[objektai/daiktai/Ašarinės.md#claim-t-192063|Ašarinės]]: Narbutas Saurų dvaro muziejaus kataloge mini keturias ašarinių atmainas iš įvairių palaidojimų ir rašo, kad ašarinės buvo tarp vertingiausių jo kolekcijos eksponatų.
 - susijęs iš [[objektai/daiktai/Ašarinės.md#claim-t-192063|Ašarinės]]: Narbutas Saurų dvaro muziejaus kataloge mini keturias ašarinių atmainas iš įvairių palaidojimų ir rašo, kad ašarinės buvo tarp vertingiausių jo kolekcijos eksponatų.
 - susijęs iš „Dziennik Wilenski“: Teodoras Narbutas Saurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą, surinktą padedant Vilniaus kolekcionieriams.
 - susijęs iš [[objektai/ivykiai/Narbutų šeimos represavimas po 1863 m. sukilimo.md#claim-t-187970|Narbutų šeimos represavimas po 1863 m. sukilimo (sukilimas, XIX a.)]]: Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -118,15 +116,16 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
 - id: c-171049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 5"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 5."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vi­
-    suomenės akyse jis tapo LTI autoriumi.
-    Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos pa­
-    viete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje3. Nar­
-    butai -  sena lietuvių bajorų giminė, istoriniuose dokumentuose
-    minima nuo Horodlės unijos laikų.
+    Sužeidimas netrukus at­
+    siliepė sveikatai - jis apkurto. Napoleono žygio į Rusiją metu
+    T. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­
+    nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo
+    prancūzų administracijoje.
+    Pirmieji T. Narbuto spausdinti darbai - tai užsienietiškų
+    leidinių apžvalgos, eilėraščiai, vertimai Vilniaus laikraščiuo­
+    se.
   citata_rodoma: "Vi­\nsuomenės akyse jis tapo LTI autoriumi.\nTeodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos pa­\nviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje3. Nar­\nbutai -  sena lietuvių bajorų giminė, istoriniuose dokumentuose\nminima nuo Horodlės unijos laikų."
   statusas: verified
   teiginio_tipas: faktas
@@ -138,15 +137,14 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
 - id: c-171052
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 51"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 51."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    žemaitis. Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­
-    tais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­
-    džiagą, išvada. Kaip rodo antro LTI tomo parankinis egzem­
-    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
-    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
-    ma nemažai šio žemaičių literato rankraščių.
+    Idėjos įkūnijimas. Savaime suprantama, viena iš svarbiau­
+    sių problemų, įgyvendinant tokį sumanymą, turėjo būti leidė­
+    jo paieškos. Juo tapo Antanas Marcinovskis (1781-1855) - ži­
+    nomas Vilniaus literatas, redaktorius ir spaustuvės savininkas,
+    vienas ryškiausių to meto intelektualų. Nesuklysime sakyda­
+    mi, kad būtent jam reikėtų priskirti dalį LTI šlovės, nors iš
   citata_rodoma: "žemaitis. Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­\ntais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­\ndžiagą, išvada. Kaip rodo antro LTI tomo parankinis egzem­\npliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­\nkos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­\nma nemažai šio žemaičių literato rankraščių."
   statusas: verified
   teiginio_tipas: faktas

@@ -45,29 +45,6 @@ Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pra
   pagrindžia:
     - c-157525
 - susijęs iš [[objektai/paprociai/Civilinės teisės dėstymo fundavimas ir pasauliečių profesorių išlaikymas Vilniaus akademijoje.md#claim-t-185867|Civilinės teisės dėstymo fundavimas ir pasauliečių profesorių išlaikymas Vilniaus akademijoje]]: Kazimieras Leonas Sapiega Vilniaus akademijoje įvedė teisės dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1585 m. Varšuvos seime išduotą privilegiją pasirašė Lietuvos Didžiosios Kunigaikštystės pakancleris Leonas Sapiega.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Po Paleckių mirties jų
-    sūnūs turėjo privilegijas atiduoti
-    miestui su teise per dvidešimt savai­
-    čių išparduoti visą likusį stiklą ir
-    stiklines. Rašyta visuotiniame Var­
-    šuvos seime 1585 metais. Prikabin­
-    tas Lietuvos antspaudas, pasirašė
-    Leonas Sapiega, Lietuvos Didžiosios
-    Kunigaikštystės pakancleris.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-157525

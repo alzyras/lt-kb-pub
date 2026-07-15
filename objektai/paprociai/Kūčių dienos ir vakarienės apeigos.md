@@ -95,6 +95,7 @@ Nenurodyta
   teiginys: "Kūčioms ruošiami pasninkiniai ir šventiniai valgiai, tarp jų sausi barščiai su baravykais."
   pagrindžia:
     - c-177813
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius. Kryžiuočiai per žygį kentė maisto stoką, nes neseniai nusiaubtuose kaimuose nerado kuo numalšinti alkio.
+Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius. Kojelavičius pabrėžia penkių lietuvių narsą: naktį jie prasigavo pro sargybas, nužudė kelis priešus, paėmė grobio ir grįžo pas savuosius. Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą, bet po pirmojo pilies antpuolio atsisakė sumanymo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -54,80 +54,26 @@ Nenurodyta
   pagrindžia:
     - c-168881
 
-<a id="claim-t-185521"></a>
+<a id="claim-t-196158"></a>
 - t-002
-  global_id: t-185521
-  teiginys: "Kryžiuočiai per žygį kentė maisto stoką, nes neseniai nusiaubtuose kaimuose nerado kuo numalšinti alkio."
+  global_id: t-196158
+  teiginys: "Kojelavičius pabrėžia penkių lietuvių narsą: naktį jie prasigavo pro sargybas, nužudė kelis priešus, paėmė grobio ir grįžo pas savuosius."
   pagrindžia:
-    - c-168882
-## Reikšmingi paminėjimai
+    - c-168881
 
-- c-001
-  santrauka: 'Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Surminas grįžo pas valdovą nugalė­
-    toju, visiems nešdamas džiaugsmą, o pats slėpdamas
-    širdyje liūdesį, nes šioje pergalingoje kovoje jis ne­
-    teko savo brolio Goštauto drauge su kitais narsiais
-    kariais. Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­
-    sijos maršalas, pakartotiniais antpuoliais nuniokojo Me­
-    dininkų valsčių. Jeigu lietuviai, parodę tokį narsu­
-    mą, būtų turėję ten daugiau
-    1314 m e ta i
-    karių ir jėgų, tikrai būtų kry­
-    žiuočiai netekę visos stovyk­
-    los, mat penki kariai, nakties tamsoje prasigavę pro
-    sargybas, prisėlino beveik ligi pačių vadų ir, keletą
-    priešų nužudę ir pasiplėšę
-    N e p a p ra sta
-    p e n k ių
-    grobio, kiek tik galėjo pen-
-    iie tu v ių  n arsa
-    kiese pakelti, sveiki sugrįžo
-    pas savuosius, įvarydami kry­
-    žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
-    būta baimės nei pavojaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196159"></a>
+- t-003
+  global_id: t-196159
+  teiginys: "Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą, bet po pirmojo pilies antpuolio atsisakė sumanymo."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kryžiuočiai per žygį kentė maisto stoką, nes neseniai nusiaubtuose kaimuose nerado kuo numalšinti alkio.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Dėl to kryžiuočiai
-    skaudžiai kentė maisto stoką, nes kaimuose, neseniai
-    nusiaubtuose, jie nieko negalėjo rasti alkiui numalšinti.
-    Per vienuolika žygio dienų, vengdami atvirų vietų, nes
-    nenorėjo susidurti su priešu, jie kentė badą, ir dėl to
-    daugelis, alkio nukamuoti, gavo miškuose galą. Kaip
-    192
-
-    ## Puslapis 191
-
-    šie metai praėjo tėvynėje atremiant priešą, taip ki­
-    tais metais karo veiksmai buvo perkelti į priešo že­
-    mę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-178562
 
 ## Citatos
 
 - id: c-168881
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 190"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 190."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Surminas grįžo pas valdovą nugalė­
     toju, visiems nešdamas džiaugsmą, o pats slėpdamas
@@ -146,39 +92,49 @@ Nenurodyta
     N e p a p ra sta
     p e n k ių
     grobio, kiek tik galėjo pen-
-    iie tu v ių  n arsa
+    iie tu v ių n arsa
     kiese pakelti, sveiki sugrįžo
     pas savuosius, įvarydami kry­
     žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
-    būta baimės nei pavojaus.
+    būta baimės nei pavojaus. Truputį vėliau Henrikas,
+    ugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka­
+    riuomene ligi Naugarduko. Apiplėšęs ir sudeginęs mies­
+    tą, geriausią kariuomenę metė prieš pilį, bet po
+    pirmojo antpuolio, netekęs žymiausių karių, buvo pri­
+    verstas išsižadėti šio sumanymo.
+  citata_rodoma: "Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­\nsijos maršalas, pakartotiniais antpuoliais nuniokojo Me­\ndininkų valsčių. Jeigu lietuviai, parodę tokį narsu­\nmą, būtų turėję ten daugiau \n1314 m e ta i \nkarių ir jėgų, tikrai būtų kry­\nžiuočiai netekę visos stovyk­\nlos, mat penki kariai, nakties tamsoje prasigavę pro \nsargybas, prisėlino beveik ligi pačių vadų ir, keletą\npriešų nužudę ir pasiplėšę \nN e p a p ra sta \np e n k ių \ngrobio, kiek tik galėjo pen- \niie tu v ių n arsa \nkiese pakelti, sveiki sugrįžo\npas savuosius, įvarydami kry­\nžiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau \nbūta baimės nei pavojaus. Truputį vėliau Henrikas, \nugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka­\nriuomene ligi Naugarduko."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185520
+    - t-196158
 
-- id: c-168882
+- id: c-178562
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Dėl to kryžiuočiai
-    skaudžiai kentė maisto stoką, nes kaimuose, neseniai
-    nusiaubtuose, jie nieko negalėjo rasti alkiui numalšinti.
-    Per vienuolika žygio dienų, vengdami atvirų vietų, nes
-    nenorėjo susidurti su priešu, jie kentė badą, ir dėl to
-    daugelis, alkio nukamuoti, gavo miškuose galą. Kaip
-    192
-
-    ## Puslapis 191
-
-    šie metai praėjo tėvynėje atremiant priešą, taip ki­
-    tais metais karo veiksmai buvo perkelti į priešo že­
-    mę.
+    Truputį vėliau Henrikas,
+    ugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka­
+    riuomene ligi Naugarduko. Apiplėšęs ir sudeginęs mies­
+    tą, geriausią kariuomenę metė prieš pilį, bet po
+    pirmojo antpuolio, netekęs žymiausių karių, buvo pri­
+    verstas išsižadėti šio sumanymo. Kai kryžiuočiai iš pas­
+    kutiniųjų stengėsi užgrobti Naugarduką, Dovydas, Gar­
+    dino pilininkas, apiplėšė ne-
+    N a u g a rd u k ą su pan -
+    toli įrengtą Henriko stovyk-
+    ty s k ry žiu o č ia i
+    pra-
+    lą, gausiai aprūpintą maisto
+    la im i
+    atsargomis ir pilną įvairiau­
+    sio grobio.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185521
+    - t-196159

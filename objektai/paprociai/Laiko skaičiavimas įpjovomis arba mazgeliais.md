@@ -50,36 +50,13 @@ Nenurodyta
   teiginys: "Narbutas, priešindamas Dusburgietį Hartknochui, rašo, kad senovės prūsai susitarimų dienas žymėdavo įpjovomis arba mazgeliais."
   pagrindžia:
     - c-172809
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas, priešindamas Dusburgietį Hartknochui, rašo, kad senovės prūsai susitarimų dienas žymėdavo įpjovomis arba mazgeliais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Hartknochas, mėgstantis viską pritempti prie germaniš­
-    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
-    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
-    tus1 2. Bet Dusburgietis, artimiausias lietuvių genties tautų se­
-    novės liudytojas, sako aiškiai, kad senovės prūsų laiko skaičia­
-    vimas buvo visiškai toks pat kaip kryžiuočių; tarpusavio susi­
-    tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
-    ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
-    vuose išlikę duomenys iš XIII amžiaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172809
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 322"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Hartknochas, mėgstantis viską pritempti prie germaniš­
     kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­

@@ -25,55 +25,46 @@ media_all_json: |-
 
 ## Santrauka
 
-Kojelavičius tautą vadino šimtaakiu Argu ir akyliausiu pasaulyje padaru, pastebinčiu slėptą nepalankumą.
+Iškilmėse dalyvavo daugybė val dovų, neatvyko tik Vytautas.
 
 ## Teiginiai
 
-<a id="claim-t-185471"></a>
+<a id="claim-t-196397"></a>
 - t-001
-  global_id: t-185471
-  teiginys: "Kojelavičius tautą vadino šimtaakiu Argu ir akyliausiu pasaulyje padaru, pastebinčiu slėptą nepalankumą."
+  global_id: t-196397
+  teiginys: "Iškilmėse dalyvavo daugybė val dovų, neatvyko tik Vytautas."
   pagrindžia:
     - c-168832
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kojelavičius tautą vadino šimtaakiu Argu ir akyliausiu pasaulyje padaru, pastebinčiu slėptą nepalankumą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Suvokęs, jog visos jo pastan­
-    gos nuėjo niekais, jis nugręžė pyktį į pamotę, kuri, jo
-    galva, ir suvedžiojusi Jogailą. Jis iš paskutiniųjų slėpė
-    savo nepalankumą, bet ko nepastebi šimtaakis Argas —
-    tauta, akyliausias pasaulyje padaras? Kad ji neapsiri­
-    ko, ilgainiui parodė visokiausi dalykai, paaiškinantys
-    tuometinį jo susigraužimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-168832
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 407"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 407."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Suvokęs, jog visos jo pastan­
-    gos nuėjo niekais, jis nugręžė pyktį į pamotę, kuri, jo
-    galva, ir suvedžiojusi Jogailą. Jis iš paskutiniųjų slėpė
-    savo nepalankumą, bet ko nepastebi šimtaakis Argas —
-    tauta, akyliausias pasaulyje padaras? Kad ji neapsiri­
-    ko, ilgainiui parodė visokiausi dalykai, paaiškinantys
-    tuometinį jo susigraužimą.
+    Iškilmėse dalyvavo daugybė val­
+    dovų, neatvyko tik Vytautas. Nors jo pasiuntiniai mi­
+    nėjo visai kitas priežastis, žmonės nesunkiai suvokė,
+    jog jis jaučiasi karalienės įžeistas štai dėl šios prie­
+    žasties. Mat Jadvygos, pirmosios Jogailos žmonos, duk-
+    V a in ik u o ja m a
+    k a r a ­
+    lien ė Sofija
+    Po daugybės visokiausių
+    karų bei neramumų valstybė­
+    je vėl įsiviešpatavo ramybė,
+    ir štai nutarta vasario 12 iš-
+    V y tautas
+    įsižeidžia
+    ant karalien ės
+    tė prieš keletą mętų buvo iš­
+    kilmingai sužadėta su Fridri­
+    chu jaunesniuoju, Branden­
+    burgo markgrafu.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185471
+    - t-196397

@@ -41,36 +41,6 @@ media_all_json: |-
   teiginys: "„Kalbos“ numeryje buvo įdėtas paskutinis prof. Jablonskio-Rygiškių Jono straipsnis."
   pagrindžia:
     - c-36135
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    —
-    25. „KALBA“ bendrinės kalbos žurnalas I. sąsiuvinis. Redaguotas
-    Pr. Skardžiaus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Šiame numeryje yra įdėtas paskutinis prof. Jablonskio — Ry­
-    giškių Jono straipsnis. Be to, įdėta prof. Brenderio, prof. Putino-
-    Mykolaičio, Dr. Pr. Skardžiaus, Dr. A. Salio, ir kalbininkų Talmanto,
-    Laurynaičio ir Kuzmickio straipsniai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

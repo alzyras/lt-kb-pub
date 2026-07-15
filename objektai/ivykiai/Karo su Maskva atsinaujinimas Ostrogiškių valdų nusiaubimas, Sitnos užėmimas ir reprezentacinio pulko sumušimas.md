@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Taikos pasiuntiniams nieko nepasiekus, maskvėnai atnaujino karą nelaukdami paliaubų pabaigos. Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.
+Taikos pasiuntiniams nieko nepasiekus, maskvėnai atnaujino karą nelaukdami paliaubų pabaigos. Per derybas maskvėnai pareikalavo amžinam Maskvos valdymui perduoti didžiojo kunigaikščio užimtas žemes.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -48,106 +48,43 @@ Nenurodyta
   pagrindžia:
     - c-168945
 
-<a id="claim-t-185585"></a>
+<a id="claim-t-196174"></a>
 - t-002
-  global_id: t-185585
-  teiginys: "Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas."
+  global_id: t-196174
+  teiginys: "Per derybas maskvėnai pareikalavo amžinam Maskvos valdymui perduoti didžiojo kunigaikščio užimtas žemes."
   pagrindžia:
-    - c-168946
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Taikos pasiuntiniams nieko nepasiekus, maskvėnai atnaujino karą nelaukdami paliaubų pabaigos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kad jie galop patys suprastų, kokie
-    neprotingi jų reikalavimai, karalius pažadėjo atiduoti
-    Andrejų, bet tada, kai Ivanas savo ruožtu karaliui grą­
-    žinsiąs kunigaikščius Lengvenaičius, Glinskius, Belskius,
-    Trubeckojus, Odojevskius, Masalskius ir kitus su viso­
-    mis jų šeimynomis ir
-    tėvonijomis. Nieko nenuveikę,
-    pasiuntiniai patraukė atgal, ir
-    ka-
-    štai vėl įsiplieskė karas, kurį
-    maskvėnai pradėjo, nė nelau­
-    kdami, kol pasibaigs paliau­
-    bos. Tuo metu, kai Gardine pasiuntiniai derėjosi dėl
-    taikos, iš Seversko žemės įsiveržusi kariuomenė nusiau­
-    bė kunigaikščių Ostrogiškių valdas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo metu, kai Gardine pasiuntiniai derėjosi dėl
-    taikos, iš Seversko žemės įsiveržusi kariuomenė nusiau­
-    bė kunigaikščių Ostrogiškių valdas. Stanislovas Pacas
-    patraukė persekioti niokojančių maskvėnų. Po staigaus
-    antpuolio gruodžio pradžioje užėmė Sitną, išžudė tris
-    šimtus gynėjų, išsigabeno keletą sunkiųjų pabūklų, šim­
-    tą dvidešimt lengvųjų, gausybę parako bei sviedinių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-168945
 
 ## Citatos
 
 - id: c-168945
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 736"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 736."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kad jie galop patys suprastų, kokie
-    neprotingi jų reikalavimai, karalius pažadėjo atiduoti
-    Andrejų, bet tada, kai Ivanas savo ruožtu karaliui grą­
-    žinsiąs kunigaikščius Lengvenaičius, Glinskius, Belskius,
-    Trubeckojus, Odojevskius, Masalskius ir kitus su viso­
-    mis jų šeimynomis ir
-    tėvonijomis. Nieko nenuveikę,
-    pasiuntiniai patraukė atgal, ir
-    ka-
-    štai vėl įsiplieskė karas, kurį
-    maskvėnai pradėjo, nė nelau­
-    kdami, kol pasibaigs paliau­
-    bos. Tuo metu, kai Gardine pasiuntiniai derėjosi dėl
-    taikos, iš Seversko žemės įsiveržusi kariuomenė nusiau­
-    bė kunigaikščių Ostrogiškių valdas.
+    Sutiko ir priėmė
+    maskvėnus pataurininkis Mikalojus Kiška, stalininkas
+    Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir
+    Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-
+    činskis ir Mikalojus Konča, o vedė derybas tokie orūs
+    vyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų
+    kaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis
+    Tiškevičius, maršalai Eustachijus Valavičius ir Jonas
+    Simkovičius, iždininkas Mikalojus Naruševičius, Lietu­
+    vos raštininkas Mykolas Garaburda. Kai prieita prie
+    pagrindinio derybų klausimo, maskvėnai atkakliausiai
+    pareikalavo amžinam Maskvos valdymui perduoti tai,
+    ką didysis kunigaikštis esąs užėmęs. Karalius turįs vi­
+    siškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,
+    Jezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį
+    su visais palydovais. Mat šis, nepakęsdamas Ivano žiau­
+    rumo, kartu su visa šeimyna šiek tiek anksčiau buvo
+    persikėlęs į Lietuvą.
+  citata_rodoma: "Kad jie galop patys suprastų, kokie\nneprotingi jų reikalavimai, karalius pažadėjo atiduoti\nAndrejų, bet tada, kai Ivanas savo ruožtu karaliui grą­\nžinsiąs kunigaikščius Lengvenaičius, Glinskius, Belskius,\nTrubeckojus, Odojevskius, Masalskius ir kitus su viso­\nmis jų šeimynomis ir\ntėvonijomis. Nieko nenuveikę,\npasiuntiniai patraukė atgal, ir\nka-\nštai vėl įsiplieskė karas, kurį\nmaskvėnai pradėjo, nė nelau­\nkdami, kol pasibaigs paliau­\nbos. Tuo metu, kai Gardine pasiuntiniai derėjosi dėl\ntaikos, iš Seversko žemės įsiveržusi kariuomenė nusiau­\nbė kunigaikščių Ostrogiškių valdas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185584
-
-- id: c-168946
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 736"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 736."
-  citata_originali: |
-    Tuo metu, kai Gardine pasiuntiniai derėjosi dėl
-    taikos, iš Seversko žemės įsiveržusi kariuomenė nusiau­
-    bė kunigaikščių Ostrogiškių valdas. Stanislovas Pacas
-    patraukė persekioti niokojančių maskvėnų. Po staigaus
-    antpuolio gruodžio pradžioje užėmė Sitną, išžudė tris
-    šimtus gynėjų, išsigabeno keletą sunkiųjų pabūklų, šim­
-    tą dvidešimt lengvųjų, gausybę parako bei sviedinių.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185585
+    - t-196174

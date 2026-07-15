@@ -88,47 +88,6 @@ Nenurodyta
   pagrindžia:
     - c-42492
     - c-42493
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 23, Tik Lietuvai būdingi dvinariai žąslai su skersinukais. Rusiai. vDKM, Artūro Užgalio nuotr.
-    p. 23, X-xI a. Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“
-    rekonstrukcija, Giedrės Maksimovicz nuotr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    *  X-Xla. Vakarų Europoje paplitęs
-    E dviašmenis kalavijas. Tokio tipo
-
-    Ž | kalavijų randama ir to laikotarpio
-    1= kapuose Lietuvoje
-
-    Lietuvoje karių
-    kapuose rastos
-    sidabruotos
-    geležinės
-    XI-XIII a.
-    balnakilpės
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-    - t-004
-    - t-001
 
 ## Citatos
 
@@ -170,7 +129,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71561
-    - t-71560
-    - t-71562
     - t-71559
+    - t-71560
+    - t-71561
+    - t-71562

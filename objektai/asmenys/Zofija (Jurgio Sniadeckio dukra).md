@@ -43,27 +43,6 @@ Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.
   teiginys: "1820 m. M. Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą."
   pagrindžia:
     - c-83873
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1820 m. M. Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    M. Balinskis daugelį iš jų asmeniškai pažinojo,
-    VII
-
-    ## Puslapis 8
-
-    1819 m. pats įstojo į šią ložę. 1820 m. M. Balinskis vedė Zofiją,
-    universiteto profesoriaus Jurgio Sniadeckio dukrą. Jaunavedžiai
-    gyveno Vilniuje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

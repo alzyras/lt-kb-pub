@@ -49,137 +49,74 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
   teiginys: "Vienuolyno viršininkas slapta įpylė nuodų Skirgailai, kai šis po medžioklės užsuko į rusų vienuolyną."
   pagrindžia:
     - c-169312
+
+<a id="claim-t-196519"></a>
+- t-004
+  global_id: t-196519
+  teiginys: "Kojelavičiaus pasakojime Skirgailos puikybė ir žiaurumas kartu su nuolatiniais priešų antpuoliais palaužė aptariamo vyro kantrybę."
+  pagrindžia:
+    - c-178746
+
+<a id="claim-t-196520"></a>
+- t-005
+  global_id: t-196520
+  teiginys: "Po Olesnickio sėkmės apsuptieji atgavo drąsą, o Vytautas ir kryžiuočiai nusivylė sužinoję, kad pilyje tvarkosi Olesnickis ir atvėso neapykanta Skirgailai."
+  pagrindžia:
+    - c-169310
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-184896|Švitrigaila]]: Boleslovą Švitrigailą kamavo neišsipildžiusios viltys, nes po Skirgailos jis turėjo teisę pirmas paveldėti valdžią.
-- susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-184739|Jonas Olesnickis]]: Jonas Olesnickis pakeitė ankstesnį pareigūną ir buvo garsus Lenkijoje karo žygiais bei sena protėvių kilme.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Porą kartų pa-
-    Puola,
-    p a tird a m a s
-    bandė visomis jėgomis pulti
-    nuostolių
-    pilis ir abu kartus buvo at­
-    stumti su nuostoliais. Tuo
-    metu jie gavo žinią, kad Skirgaila skuba iš Rusios, no­
-    rėdamas pralaužti apsupimo žiedą. Gal iš baimės, mat
-    gandai nepaprastai padidino Skirgailos jėgas, gal, žlu­
-    gus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal
-    dėl kitų sumetimų Vytautas vos išgirdęs, jog artėja
-    Skirgaila, skubiai nutraukė
-    N u tra u k ia
-    a p su p im ą
-    apsupimą ir išvyko link Prū­
-    sijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Alek­
-    sandras Vytautas su žmona
-    Ona savo bei savo palikuonių vardu turįs prisiekti, kad
-    jis su visomis Lietuvos valdomis amžinai liksiąs paklus­
-    nus bei ištikimas karaliui; šventai saugosiąs Lietuvos
-    kunigaikštystės sąjungą ir sandraugą su Lenkijos ka­
-    ralyste, nebandydamas nei nuo jos atsiskirti, nei ją pa­
-    žeisti; visada laikysiąs savo draugais ir priešais Lenkijos
-    karalystės bei Lenkijos karaliaus draugus ir priešus; su
-    Skirgaila visada stengsiąsis gyventi taikoje ir broliškoje
-    santarvėje; skirsiąs lėšų ir duosiąs karių atkariauti Skir­
-    gailai bei jo palikuonims Kijevo kunigaikštystę su viso­
-    mis jos valdomis, tuojau pat jam atiduosiąs valdyti Tra­
-    kus, Kremenecą ir kai kurias kitas mažesnes valdas.
-    Tuo tarpu Kazimieras Skirgaila, pasitenkinęs gautomis
-    kunigaikštystėmis, nesieksiąs Lietuvos didžiojo kuni­
-    gaikščio vardo. Karalius Jogaila neskirsiąs be Vytauto
-    330
-
-    ## Puslapis 329
-
-    žinios ir sutikimo Vilniaus, Vitebsko, Merkinės ir Gar­
-    dino pilių viršininkų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Vienuolyno viršininkas slapta įpylė nuodų Skirgailai, kai šis po medžioklės užsuko į rusų vienuolyną.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėlto neil­
-    gai jis džiaugėsi naujomis
-    valdomis, kurių taip aistringai troško: džiaugsmą nu­
-    traukė kito žmogaus nedorumas. Mat vieną kartą Skir­
-    gaila po smagios medžioklės užsuko į netolimą rusų
-    vienuolyną ir čia po puikių pietų susimanė gerti; įsi­
-    linksminęs sugalvojo varžytis, kas daugiau išgers; ka­
-    dangi nebuvo ragautojo, vienuolyno viršininkas, pava­
-    davęs tuo metu Kijevo metropolitą, slaptai jam įpylė
-    nuodų. Aiškus nusikaltimas, tačiau daug kas troško
-    šitokios baigties, kai nekenčiamas valdovas savo gyvy­
-    be užmoka už gyvybes tų, kurių nelaimei ketino gyven­
-    ti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-169310
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 321"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 321."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Porą kartų pa-
+    Olesnickis, gerai suprasdamas, kad
+    jo kariuomenė negali prilygti priešui, nelaukė, kol
+    susitelks pavojui atremti daugiau priešo būrių, atsikvė­
+    pusių ir atgavusių drąsą; jis, davęs ženklą trauktis, su­
+    grąžino pergalę laimėjusius karius tvarkingomis greto­
+    mis į pilį, kurią saugojo reikalingiausiose vietose palik­
+    tos sargybos. Po šio įvykio apsuptieji atgavo drąsą,
+    manydami, jog sėkmingai prasidėjęs karas sėkmingai
+    ir baigsis, tuo tarpu Vytautas bei kryžiuočiai nusivylė,
+    ypač tada, kai patyrė, jog pilyje tvarkosi vienas Oles­
+    nickis, o lietuvių neapykanta išvykusiam Skirgailai
+    smarkiai atvėso. Vis dėlto, nepraradę visų vilčių, nuta­
+    rė stoti į kovą. Porą kartų pa-
     Puola,
     p a tird a m a s
     bandė visomis jėgomis pulti
     nuostolių
     pilis ir abu kartus buvo at­
-    stumti su nuostoliais. Tuo
-    metu jie gavo žinią, kad Skirgaila skuba iš Rusios, no­
-    rėdamas pralaužti apsupimo žiedą. Gal iš baimės, mat
-    gandai nepaprastai padidino Skirgailos jėgas, gal, žlu­
-    gus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal
-    dėl kitų sumetimų Vytautas vos išgirdęs, jog artėja
-    Skirgaila, skubiai nutraukė
-    N u tra u k ia
-    a p su p im ą
-    apsupimą ir išvyko link Prū­
-    sijos.
+    stumti su nuostoliais.
+  citata_rodoma: "Po šio įvykio apsuptieji atgavo drąsą, \nmanydami, jog sėkmingai prasidėjęs karas sėkmingai \nir baigsis, tuo tarpu Vytautas bei kryžiuočiai nusivylė, \nypač tada, kai patyrė, jog pilyje tvarkosi vienas Oles­\nnickis, o lietuvių neapykanta išvykusiam Skirgailai \nsmarkiai atvėso. Vis dėlto, nepraradę visų vilčių, nuta­\nrė stoti į kovą. Porą kartų pa- \nPuola, \np a tird a m a s \nbandė visomis jėgomis pulti \nnuostolių \npilis ir abu kartus buvo at­\nstumti su nuostoliais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185949
+    - t-196520
 
 - id: c-169311
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Alek­
+    Neilgai gaišęs, karalius ėmėsi vi­
+    sokiais būdais taikyti valstybės galvas, kunigaikš­
+    čius Skirgailą bei Vytautą. Siekdamas santarvės, pats
+    nesiėmė tarpininkauti, nenorėdamas sukelti abipu­
+    sės brolių neapykantos. Tarpininke patys kunigaikščiai
+    pasirinko karalienę Jadvygą.
+    K a ra lien ei
+    tarpinin-
+    Jos rūpesčiu, po ilgų žodinių
+    kau ja n t, S k irgaila ir
+    ginčų galop buvo susitarta
+    V y ta u ta s su sita ik o
+    šitokiomis sąlygomis. Alek­
     sandras Vytautas su žmona
     Ona savo bei savo palikuonių vardu turįs prisiekti, kad
     jis su visomis Lietuvos valdomis amžinai liksiąs paklus­
@@ -193,15 +130,7 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
     gailai bei jo palikuonims Kijevo kunigaikštystę su viso­
     mis jos valdomis, tuojau pat jam atiduosiąs valdyti Tra­
     kus, Kremenecą ir kai kurias kitas mažesnes valdas.
-    Tuo tarpu Kazimieras Skirgaila, pasitenkinęs gautomis
-    kunigaikštystėmis, nesieksiąs Lietuvos didžiojo kuni­
-    gaikščio vardo. Karalius Jogaila neskirsiąs be Vytauto
-    330
-
-    ## Puslapis 329
-
-    žinios ir sutikimo Vilniaus, Vitebsko, Merkinės ir Gar­
-    dino pilių viršininkų.
+  citata_rodoma: "Alek­\nsandras Vytautas su žmona\nOna savo bei savo palikuonių vardu turįs prisiekti, kad\njis su visomis Lietuvos valdomis amžinai liksiąs paklus­\nnus bei ištikimas karaliui; šventai saugosiąs Lietuvos\nkunigaikštystės sąjungą ir sandraugą su Lenkijos ka­\nralyste, nebandydamas nei nuo jos atsiskirti, nei ją pa­\nžeisti; visada laikysiąs savo draugais ir priešais Lenkijos\nkaralystės bei Lenkijos karaliaus draugus ir priešus; su\nSkirgaila visada stengsiąsis gyventi taikoje ir broliškoje\nsantarvėje; skirsiąs lėšų ir duosiąs karių atkariauti Skir­\ngailai bei jo palikuonims Kijevo kunigaikštystę su viso­\nmis jos valdomis, tuojau pat jam atiduosiąs valdyti Tra­\nkus, Kremenecą ir kai kurias kitas mažesnes valdas.\nTuo tarpu Kazimieras Skirgaila, pasitenkinęs gautomis\nkunigaikštystėmis, nesieksiąs Lietuvos didžiojo kuni­\ngaikščio vardo. Karalius Jogaila neskirsiąs be Vytauto\n330\n\n## Puslapis 329\n\nžinios ir sutikimo Vilniaus, Vitebsko, Merkinės ir Gar­\ndino pilių viršininkų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -212,25 +141,52 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
 - id: c-169312
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 342"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 342."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vis dėlto neil­
+    Gavęs šį kraštą, Vladimiras ilgainiui aprimo ir
+    nieko daugiau nebereikalavo: viskuo patenkintas, ne­
+    jausdamas pavydo, nebijodamas pavojų, gražiai valdė
+    šias žemes, ketindamas jas perduoti palikuonims. įkū­
+    ręs Slucko miestą, per sūnų Aleksandrą (vietiniai žmo­
+    nės jį vadina Olelka) paliko busimosioms kartoms Sluc­
+    ko kunigaikščio vardą, kuris, kad ir ne toks kilmingas,
+    tačiau *dėl tėvynės labui atliktų žygdarbių, ypač kovo­
+    jant prieš skitus, gerokai didingesnis nei kiti.
+    Skirgaila, nelaukdamas, kol bus tvarkingai perduo­
+    tos pažadėtos pilys, užpuolė kurias ne kurias su savo
+    kariuomene ir užėmė; neramiam ir įtaringam žmogui
+    rodėsi, jog viskas dedasi per-
+    Skirgaila
+    nu n u odija-
+    nelyg lėtai ir ne taip, kaip
+    m a s
+    buvo sakoma. Vis dėlto neil­
     gai jis džiaugėsi naujomis
     valdomis, kurių taip aistringai troško: džiaugsmą nu­
-    traukė kito žmogaus nedorumas. Mat vieną kartą Skir­
-    gaila po smagios medžioklės užsuko į netolimą rusų
-    vienuolyną ir čia po puikių pietų susimanė gerti; įsi­
-    linksminęs sugalvojo varžytis, kas daugiau išgers; ka­
-    dangi nebuvo ragautojo, vienuolyno viršininkas, pava­
-    davęs tuo metu Kijevo metropolitą, slaptai jam įpylė
-    nuodų. Aiškus nusikaltimas, tačiau daug kas troško
-    šitokios baigties, kai nekenčiamas valdovas savo gyvy­
-    be užmoka už gyvybes tų, kurių nelaimei ketino gyven­
-    ti.
+    traukė kito žmogaus nedorumas.
+  citata_rodoma: "Vis dėlto neil­\ngai jis džiaugėsi naujomis\nvaldomis, kurių taip aistringai troško: džiaugsmą nu­\ntraukė kito žmogaus nedorumas. Mat vieną kartą Skir­\ngaila po smagios medžioklės užsuko į netolimą rusų\nvienuolyną ir čia po puikių pietų susimanė gerti; įsi­\nlinksminęs sugalvojo varžytis, kas daugiau išgers; ka­\ndangi nebuvo ragautojo, vienuolyno viršininkas, pava­\ndavęs tuo metu Kijevo metropolitą, slaptai jam įpylė\nnuodų. Aiškus nusikaltimas, tačiau daug kas troško\nšitokios baigties, kai nekenčiamas valdovas savo gyvy­\nbe užmoka už gyvybes tų, kurių nelaimei ketino gyven­\nti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185951
+
+- id: c-178746
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Sunkūs, bemaž nuolatiniai
+    priešų antpuoliai, pagaliau Skirgailos puikybė ir žiauru­
+    mas aiškiai palaužė šio vyro kantrybę. Jį pakeitė Jo­
+    nas Olesnickis, kaip reta kas išgarsėjęs Lenkijoje ir ka­
+    ro žygiais, ir protėvių kilmės senumu. Tiesa, liko žmo­
+    nių, kursčiusių vidaus nesantarvę, nes tebebuvo visų
+    nekenčiamas Kazimieras Skirgaila.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196519

@@ -8,13 +8,13 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+amziai:
+  - 'D'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - diplomatas
-amziai:
-  - 'D'
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -74,86 +74,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/regestai.md#claim-t-28625|regestai]]: Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį.
 - susijęs iš [[objektai/zodynas/regestas regestai.md#claim-t-28626|regestas regestai]]: Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lelevelis buvo ne tik labai populiarus
-    dėstytojas, bet jis yra daręs įtakos ir kitiems jaunesniems istorijos
-    ir teisės istorijos dėstytojams Vilniaus universitete.
-    Čia reikia paminėti labai kritišką Igną Danilavičių
-    (Danilowicz)^37 , kuris pirmasis sudarė Lietuvos istorijai reikalingų
-    dokumentų ar jų santraukų (regestų) rinkinį lenkų kalba, pradedant
-    nuo Herodoto. 2-sis tomas siekia iki 1569 m.^38 Tik po Danilavi­
-    čiaus mirties Vilniuje abu tomai buvo išspausdinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'M. Balinskis dėkojo Ignui Danilavičiui už pagalbą istoriniais dokumentais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmoji knygos dalis užbaigia­
-    ma 1430 m. - Vytauto Didžiojo mirtimi. Kita vertus, pirmoje
-    dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
-    dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
-    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
-    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
-    Malevskiui už gausius išrašus iš Lietuvos Metrikos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kita vertus, pirmoje
-    dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
-    dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
-    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
-    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
-    Malevskiui už gausius išrašus iš Lietuvos Metrikos. P. Malev-
-    skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­
-    partamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­
-    kas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Ignotas Danilavičius dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas krašto praeities studijomis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Išsamesnėms krašto praeities studijoms istoriką galė­
-    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
-    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
-    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
-    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
-    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
-    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
-    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
-    kus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-005
   santrauka: 'Ignas Danilavičius turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kunigaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip žmoną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -245,8 +165,7 @@ media_all_json: |-
 - id: c-171294
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Išsamesnėms krašto praeities studijoms istoriką galė­
     jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
@@ -267,21 +186,19 @@ media_all_json: |-
 - id: c-177057
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Duomenų apie tai mums
-    paliko Strijkovskis.
-    Birutė (Biruta)
-    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
-    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
-    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną.
+    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30.
+  citata_rodoma: "Duomenų apie tai mums\npaliko Strijkovskis.\nBirutė (Biruta)\nŽemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­\nte būryje mergelių, saugojančių šventą Praurimės aukuro ug­\nnį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

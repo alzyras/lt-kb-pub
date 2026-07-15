@@ -40,29 +40,13 @@ Dusburgietis teigia, kad savukynas B.
   teiginys: "B. Savukyno straipsnis „Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų“ paskelbtas 1963 m."
   pagrindžia:
     - c-61915
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'B. Savukyno straipsnis „Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų“ paskelbtas 1963 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Savukynas B. Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų.—
-    Lietuvių kalbotyros klausimai, V., 1963, 6, p. 320—325.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61915
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Savukynas B. Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų.—
     Lietuvių kalbotyros klausimai, V., 1963, 6, p. 320—325.

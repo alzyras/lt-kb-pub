@@ -47,36 +47,9 @@ Nenurodyta
 <a id="claim-t-194819"></a>
 - t-001
   global_id: t-194819
-  teiginys: "Žmonės ją vadina skaisčiausiąja mergele, ugnies saugotoja, gyvybės davėja."
+  teiginys: 'Žmonės ją vadina skaisčiausiąja mergele, ugnies saugotoja, gyvybės davėja.'
   pagrindžia:
     - c-177215
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Žmonės ją vadina skaisčiausiąja mergele, ugnies saugotoja, gyvybės davėja.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    114
-
-    ## Puslapis 114
-
-    Vyskupo Petro rankraštis apie ją sako: „Pas juos (lietu­
-    vius) gyvuoja netikros deivės, panašios į senovės Romos Vestą
-    arba Cibelę, kultas; ją vadina Praurime, garbina su įvairiais
-    prietarais. Žmonės ją vadina skaisčiausiąja mergele, ugnies
-    saugotoja, gyvybės davėja. Jai taip pat aukoja ugnį, laikomą
-    amžina, kadangi ji negesdama dega šventajame jos aukure.
-    Tam skirtos ir mergelės, atliekančios žynių apeigas, jos vadi­
-    nasi Praurme; griežta jų pareiga yra saugoti, kad toji ugnis ne­
-    užgestų. Tos mergelės, kol gyvos, privalo laikytis skaistybės; ją
-    praradusias šalies įstatymai baudžia žiauria mirtimi“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -104,4 +77,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194819
+    - t-001

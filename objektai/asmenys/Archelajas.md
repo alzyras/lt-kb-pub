@@ -45,38 +45,12 @@ Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad i�
 - susijęs iš Silezija: Narbutas minėjo Sileziją tarp vietų, kur randama pavienių gintaro gabalų.
 - susijęs iš Čekija: Narbutas nurodė, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose.
 - susijęs iš [[objektai/zodynas/gintaras.md#claim-t-192920|gintaras]]: Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančiomis iškasenomis, vadina gintaro sandėliais.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad iš Indijos atvežama gintaro žaliava dar neatskirta nuo medžių žievės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Jūroje išilgai prūsų pakrančių slypi
-    ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie
-    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
-    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
-    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
-    skirtos nuo medžių žievės1.
-    152
-    Pavienių gintaro gabalų randama beveik visur: Lie­
-    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
-    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
-    balų išmesdavo Švedijos ežeras Maeleras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174822
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jūroje išilgai prūsų pakrančių slypi
     ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie

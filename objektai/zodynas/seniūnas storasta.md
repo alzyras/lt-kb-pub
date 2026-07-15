@@ -50,38 +50,6 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
   teiginys: "Pirmasis lenkų urėdas Lietuvoje vadinosi seniūnu, lenkiškai starosta."
   pagrindžia:
     - c-37952
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pirmas lenkų urėdas atsiradęs Lietuvoje vadinosi seniūnu
-    (lenk. starosta). Tai buvo 1386 met. Jogailos Vilniun atsiųstas
-    jau minėtas vad. „Vilniaus seniūnas“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1411 m. jis
-    pats paskyrė seniūną iš Ordino atgautai Žemaitijai^1 ). Tai buvo
-    bendro valstybės valdymo organas su teismo valdžia ne tik d.
-    kunigaikščio domenuose, bet ir visos apylinkės bajorų ir Baž­
-    nyčios dvaruose. Jis naudojosi visomis vietininko teisėmis ir
-    paprastomis jo pajamomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

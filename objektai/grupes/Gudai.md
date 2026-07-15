@@ -38,26 +38,6 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
 - susijęs iš [[objektai/grupes/Dotnavos gudai.md#claim-t-195511|Dotnavos gudai]]: Dotnavos gudai su vietiniais gyveno jau antrą šimtmetį.
 - susijęs iš [[objektai/grupes/Dotnavos gudai.md#claim-t-195512|Dotnavos gudai]]: Dotnavos gudai nuo vietinių skyrėsi kalba ir būdu.
 - susijęs iš Daugava: Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu jis norėjo ten sudaryti
-    tvirtesnę atsparą prieš Voluinės kunigaikštystę, su kuria Trai-
-    denis bloguoju gyveno (jis užėmė net jos valdytą Drohičiną).
-    Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
-    Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo
-    ne tik Mozūrus, bet ir tolimąją Krokuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-176031

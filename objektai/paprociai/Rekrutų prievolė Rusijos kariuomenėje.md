@@ -56,27 +56,6 @@ Nenurodyta
   teiginys: "Po LDK branduolio žemių prijungimo prie Rusijos valstiečiams didžiausia blogybė buvo 25 metų rekrutų tarnyba Rusijos kariuomenėje."
   pagrindžia:
     - c-75265
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po LDK branduolio žemių prijungimo prie Rusijos valstiečiams didžiausia blogybė buvo 25 metų rekrutų tarnyba Rusijos kariuomenėje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors didžiosios etninės
-    Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios
-    tautos formavimasis vyko ta pačia kryptimi.
-    LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių
-    padėties iš esmės nepakeitė. Didžiausia blogybė jiems buvo rekrutų prie-
-    volė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami
-    5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo pa-
-    dvigubinama).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -10,13 +10,13 @@ datos:
   - '1283 m.'
 date_start: '1273'
 date_end: '1283'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - upė
   - vieta
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,6 +51,13 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
   teiginys: "Foso aiškinimu, Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis."
   pagrindžia:
     - c-175508
+
+<a id="claim-t-197915"></a>
+- t-003
+  global_id: t-197915
+  teiginys: "Fosas teigia, jog jis pasiekė tik Reiną ar toliausiai Elbės žiotis."
+  pagrindžia:
+    - c-179395
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Arnoldas iš Elnerio.md#claim-t-60239|Arnoldas iš Elnerio]]: 1316 m. riteris Arnoldas iš Elnerio su maldininkais iš Reino krašto dalyvavo žygyje į Medininkų valsčių.
 - susijęs iš [[objektai/asmenys/Flekenšteinas.md#claim-t-60275|Flekenšteinas]]: Brolis Flekenšteinas iš Reino krašto į Brandenburgo pilį atgabeno Viešpaties kryžiaus atskalą.
@@ -61,7 +68,6 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 - susijęs iš [[objektai/asmenys/Henrikas Duseneris.md#claim-t-87686|Henrikas Duseneris]]: Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59868|Henrikas iš Plockės]]: 1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių.
 - susijęs iš [[objektai/asmenys/Johanas Fosas.md#claim-t-191281|Johanas Fosas]]: Johanas Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis.
-- susijęs iš [[objektai/asmenys/Konradas (Prūsijos magistras).md#claim-t-186126|Konradas (Prūsijos magistras)]]: Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš [[objektai/asmenys/Verneris fon Hoinbergas.md#claim-t-186264|Verneris fon Hoinbergas (didikas)]]: Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto didikai atvyko į Prūsiją.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178790|Kryžiuočių ordinas]]: Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems.
 - susijęs iš [[objektai/grupes/Reino konfederacija.md#claim-t-86819|Reino konfederacija]]: 1255 m. šešiasdešimt miestų įsteigė Reino konfederaciją, vadovaujamą aukščiausiųjų dvasininkų.
@@ -74,7 +80,7 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 - susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Bernardas iš Svidnicos.md#claim-t-87633|Bernardas iš Svidnicos]]: 1322 m. žiemą Silezijos kunigaikštis Bernardas iš Svidnicos vedė atskirą kryžiuočių ekspedicijos į Prūsiją pulką.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markgrafas).md#claim-t-60262|Ditrichas (Meiseno markgrafas)]]: Meiseno markgrafas Ditrichas buvo tarp didikų, pritarusių siųsti legatus Henrikui VI dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Ditrichas fon Altenburgas.md#claim-t-186107|Ditrichas fon Altenburgas]]: 1339 m. Prūsijos magistras Ditrichas fon Altenburgas su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.
+- susijęs iš [[objektai/asmenys/Ditrichas fon Altenburgas.md#claim-t-186107|Ditrichas fon Altenburgas]]: Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.
 - susijęs iš [[objektai/asmenys/Eimaras iš Cezarėjos.md#claim-t-60272|Eimaras iš Cezarėjos]]: Eimaras iš Cezarėjos pritarė nuomonei, kad Frydrichas Švabietis turėtų siekti ligoninės įsteigimo ir patvirtinimo.
 - susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87501|Fridrichas fon Vildenbergas]]: Krašto magistras Fridrichas fon Vildenbergas su 150 Ordino riterių nuvedė kariuomenę į Vaikius Žemaitijoje.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
@@ -119,7 +125,6 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 - susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59008|Vokietijos maldininkai]]: 1307 m. į Prūsijos žemę atvykę Vokietijos maldininkai žiemą telkė kariuomenę žygiui prieš lietuvius, bet žygio nepradėjo dėl plono ledo.
 - susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59010|Vokietijos maldininkai]]: 1316 m. Reino krašto maldininkai su broliu Henriku žygiavo į Medininkų valsčių ir jį nusiaubė.
 - susijęs iš [[objektai/ivykiai/Dusburgiečio pasakojamas Tomo sūnaus prisikėlimas Brandenburgo pilyje (1322 m.).md#claim-t-62249|Dusburgiečio pasakojamas Tomo sūnaus prisikėlimas Brandenburgo pilyje (1322 m.)]]: 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, esą mirė ir atgijo per Viešpaties kryžiaus atskalą.
-- susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185717|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.).md#claim-t-183945|Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]: Per 1316 m. žygį į Medininkų valsčių grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius.
 - susijęs iš [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.).md#claim-t-62875|Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]: 1316 m. brolis Henrikas su Reino krašto maldininkais nusiaubė Medininkų valsčių, nukovė arba paėmė į nelaisvę 200 žmonių.
 - susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66806|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Otokaras II, Otonas Brandenburgietis, vyskupai ir kiti kilmingieji dalyvavo žygyje sembams pavergti.
@@ -130,7 +135,6 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 - susijęs iš Brandenburgo pilis: Dusburgietis pasakoja, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas mirė ir atgijo per Viešpaties kryžiaus atskalą.
 - susijęs iš Didžioji Britanija: Narbutas perteikia nuomonę, kad Pitėjas pirmąją kelionę atliko į Britaniją, o antrąją - į šiaurės rytus, kur atrado Baltijos salą.
 - susijęs iš Elbė: Fosas teigė, kad Pitėjas pasiekė tik Reiną arba toliausiai Elbės žiotis.
-- susijęs iš Gardinas: Magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš Jeruzalė: Jeruzalės patriarchas Henrikas ir kiti didikai pritarė, kad Fridrichas prašytų popiežiaus patvirtinti naujai įsteigtą ligoninę.
 - susijęs iš Medininkų valsčius: 1316 m. brolis Henrikas su Reino krašto maldininkais nusiaubė Medininkų valsčių ir paėmė ar nukovė 200 žmonių.
 - susijęs iš Medvėgalis: Grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius po Ordino brolių vėliava.
@@ -144,26 +148,6 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58828|maldininkai]]: Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58803|pilėnas pilėnai]]: 1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Karaliaus Rudolfo pirmagimis, grįždamas po pergalingo žygio prieš Savojos grafą, prigėrė Reine.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    59. Apie Rudolfo, karaliaus, pirmagimio mirtį
-
-      Tuo metu karaliaus Rudolfo pirmagimis, grįždamas po pergalingo žygio prieš Savojos
-
-      598 Didžiuoju magistru buvo 1274—1283 m. ar 1273—1282 m.
-
-    grafą, prigėrė Reine (Ptol. 23, 18).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Foso aiškinimu, Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -186,8 +170,7 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 - id: c-59347
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 236-237"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236-237."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     59. Apie Rudolfo, karaliaus, pirmagimio mirtį
 
@@ -207,17 +190,40 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 - id: c-175508
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 335"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
     Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
     toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
-    tojas Strabonas daug ką jam priskyrė svetimo.
+    tojas Strabonas daug ką jam priskyrė svetimo. Dažnai
+    jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
+    ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
+    jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
+    vintais jėzuitų aprašymais.
+  citata_rodoma: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir­\nmą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado\nBaltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar\ntoliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­\ntojas Strabonas daug ką jam priskyrė svetimo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192738
+
+- id: c-179395
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
+    tojas Strabonas daug ką jam priskyrė svetimo. Dažnai
+    jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
+    ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
+    jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
+    vintais jėzuitų aprašymais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197915

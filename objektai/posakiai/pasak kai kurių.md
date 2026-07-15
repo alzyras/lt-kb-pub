@@ -47,38 +47,17 @@ Dusburgietis teigia, kad kai kuriose vietose Dusburgietis kartais prasitaria ra�
 - susijęs iš Rudinas: Pasak kai kurių žmonių, Rudino miestas buvo du kartus užkariautas, o jo gyventojai paimti į nelaisvę arba išžudyti.
 - susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113618|didysis magistras]]: Prieš 1392 m. žygį didysis magistras ir jo svita dėl pasitikėjimo Ordino kariuomenės galybe Lietuvą jau laikė nukariauta.
 - susijęs iš [[objektai/zodynas/prūsiškos grivenos.md#claim-t-86612|prūsiškos grivenos]]: 1392 m. Kauno iškilmių parengimas ir žygio išlaidos, pasak metraštininkų, siekė beveik 500 000 prūsiškų grivenų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Dusburgietis kai kuriose vietose nurodė rašantis pagal kitų pasakojimus formule „pasak kai kurių“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai kuriose vietose Dusburgietis kartais prasitaria rašąs taip, kaip kiti jam kalbėję:
-    „pasak kai kurių“. Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,
-    apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias
-    kryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt.  (III, 27, 155).
-    Minėdamas apie Torunę, Kulmą, Kvediną, jis ne kartą nurodo, kur anksčiau tose vietose
-    būta pilių bei miestų (III, 1, 8—9).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59777
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 25"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai kuriose vietose Dusburgietis kartais prasitaria rašąs taip, kaip kiti jam kalbėję:
     „pasak kai kurių“. Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,
     apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias
-    kryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt.  (III, 27, 155).
+    kryžiuočių pilis Varmės žemėje, Rudino miesto užkariavimus ir kt. (III, 27, 155).
     Minėdamas apie Torunę, Kulmą, Kvediną, jis ne kartą nurodo, kur anksčiau tose vietose
     būta pilių bei miestų (III, 1, 8—9).
   citata_rodoma: "Kai kuriose vietose Dusburgietis kartais prasitaria rašąs taip, kaip kiti jam kalbėję:\n„pasak kai kurių“. Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,\napie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias\nkryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt.  (III, 27, 155)."

@@ -44,29 +44,6 @@ Kare su švedais Naugardui padėjo Pskovas, kur buvo lietuvių vietininkas Jurgi
   teiginys: "Jurgis Vytautaitis buvo lietuvių vietininkas Pskove ir balandžio 13 d. žuvo mūšyje prie Izborsko."
   pagrindžia:
     - c-41372
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Netrukus 1349 m. lietuviai vėl atstatė
-    ir įtvirtino Veliuonos pilį, o naugardie-
-    čiai - Orechovą. Kare su švedais Nau-
-    gardui padėjo Pskovas, kur buvo lietuvių
-
-    vietininkas Jurgis Vytautaitis. Remdamas
-    Švedijos puolimą, Livonijos ordinas tuo
-    pačiu metu puolė Pskovo valdas. Kovoje
-    prieš Ordiną balandžio 13 d. mūšyje
-
-    prie Izborsko žuvo Jurgis Vytautaitis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

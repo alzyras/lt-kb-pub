@@ -43,29 +43,6 @@ media_all_json: |-
 - susijęs iš Pskovas: Salyno akte ordinui tenkančių žemių sienos buvo nužymėtos iki Pskovo respublikos valdų.
 - susijęs iš Smardonė: Salyno akte ordinui tekusių žemių siena nuo Vaišvilčių kaimo ėjo Mūšos upe, Smardonės upeliu ir Apaščios ežeru.
 - susijęs iš Uturiai: Uturiai buvo prie Betygalos.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Salyno akte ordinui tenkančių žemių siena nuo Vaišvilčių kaimo Nevėžio aukštupyje pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Salyno akte pirmą kartą apytikriai
-    buvo nužymėtos ordinui tenkančių žemių sienos. Žemaičiuose jos
-    ėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo
-    pratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli
-    dabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos
-    valdų.
-    Gaudamas Žemaičius iki Nevėžio, ordinas pirmą kartą išreika­
-    lavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII
-    amž. gale nukariautą kraštą, vis reiškė pretenzijas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-34069

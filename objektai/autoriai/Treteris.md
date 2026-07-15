@@ -48,8 +48,8 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
   teiginys: "Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina 12 Treteris, Henenbergeris, Šiucas, Hartknochas."
   pagrindžia:
     - c-177072
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ąžuolo pasakojimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -110,17 +110,22 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
 - id: c-173240
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
-    bių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­
-    leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
-    galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­
-    kai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­
-    vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­
-    dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
-    Jono I prašomas, įsakė jį nukirsti.
+    Žinoma, kas tas krūmas, nenumetantis žiemą lapų, dau­
+    ginasi iš sėklų, esančių gražiose baltose uogose, kurios nunoks­
+    ta žiemą ir paukščių yra godžiai lesamos; šios sėklos niekad
+    nesudygsta žemėje, o sudygsta ant kito medžio šakos, kur jas
+    užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
+    atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
+    mis augdami ant medžių, užauga sieto dydžio. Nežinau, ar, be
+    beržo ir ąžuolo, amalas auga kituose medžiuose; ąžuolo ama­
+    las pas mus dabar yra net didelė retenybė. Vis dėlto galimas
+    daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
+    reikėtų manyti, jog senovės žyniai mokėjo šventąjį ąžuolą taip
+    apauginti amalu, kad jo lapai būtų nepaprastai tankūs, o žie­
+    mą amalo žaluma nuspalvintų jo vainiką.
+  citata_rodoma: "Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­\nbių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­\nleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­\ngalėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­\nkai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­\nvėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­\ndėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo\nJono I prašomas, įsakė jį nukirsti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -131,16 +136,19 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
 - id: c-173242
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 265"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 265."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žymiausia šventykla buvo Romovėje, ku­
-    rios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos
-    vyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur
-    reiktų jos ieškoti. Remdamasis tuo, Hartknochas senosios Prū­
-    sijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bys-
-    leidos upių, nors rutuliukas, turintis pažymėti vietovę, padė­
-    tas ne visai tiksliai.
+    Priešais patį ąžuolą buvo trys arkos, kurių
+    nišose stovėjo trys vyriausieji dievai - viduryje Perkūnas, deši­
+    nėje Poklius, kairėje pusėje Atrimpas; kiti dievai, kaip antai
+    Viršaitis, Sneibratas, Kurkas ir Žemininkas, turėjo savo sta­
+    bus vidinių sienų kampinėse nišose. Už ąžuolo buvo nedideli
+    rūsiai arba slėptuvės šventiesiems šliužams. Priešais ąžuolą,
+    angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos
+    aukos ir palaikoma šventoji ugnis. Šventyklą supo aikštė, ku­
+    rioje susirinkę žmonės dalyvaudavo apeigose, o pati šventykla
+    buvo Adytum.
+  citata_rodoma: "Žymiausia šventykla buvo Romovėje, ku­\nrios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos\nvyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur\nreiktų jos ieškoti. Remdamasis tuo, Hartknochas senosios Prū­\nsijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bys-\nleidos upių, nors rutuliukas, turintis pažymėti vietovę, padė­\ntas ne visai tiksliai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -151,13 +159,15 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
 - id: c-177072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 237"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už
-    Baublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­
-    12 Treteris*, Henenbergeris, Šiucas, Hartknochas.
-    13 Opisanie starožytnej Polski.
+    LIEPA, Liepas. Pas senovės prūsus ji priklausė šventųjų
+    medžių kategorijai. Henenbergeris tikina, kad dar jo laikais,
+    tai yra XVI amžiaus pabaigoje, Nemuno žemupyje, netoli Rus­
+    nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­
+    si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­
+    meldžių papratimu slapčia ateidavo prie jos m elstis18.
+  citata_rodoma: "Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už\nBaublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­\n12 Treteris*, Henenbergeris, Šiucas, Hartknochas.\n13 Opisanie starožytnej Polski."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

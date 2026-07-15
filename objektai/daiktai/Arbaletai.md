@@ -72,7 +72,6 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-113628|gurguolė]]: Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu.
 - susijęs iš [[objektai/asmenys/Edigėjus.md#claim-t-40095|Edigėjus]]: Edigėjus pirmasis su savo pajėgomis stojo į mūšį su Vytautu, bet Lietuvos pajėgos pradėjo pergalėti Ordos kunigaikštį.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lietuvos metraštyje pasakojama, kad prieš vokiečius išjoję Mindaugo kariai buvo ginkluoti arbaletais.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -99,12 +98,15 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
-    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
-    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
-    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
-    mis ietimis, ir vaikėsi po lauką, tarytum turnyre. Ir iš
-    ten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 .
+    Ir par­
+    keliavo jis atgal j Naugarduką, ir įkūrė6 <sau vienuo­
+    lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
+    ir gyveno tenai. O jo tėvas Mindaugas priekaištavo
+    jam, kam tokį gyvenimą pasirinkęs; bet jis savo tėvo
+    labai nemylėjo.
+    Tuo laiku mirė kunigaikštienė Mindaugienė9, ir tas
+    pradėjo jos gedėti. O jos sesuo buvo ištekėjusi už
+    Daumanto, už Nalšios kunigaikščiol0.
   citata_rodoma: "O rytojaus metą prieš vokiečius išjojo \n[Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­\nsai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­\nmis ietimis, ir vaikėsi po lauką, tarytum turnyre."
   statusas: verified
   teiginio_tipas: faktas

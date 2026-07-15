@@ -60,7 +60,6 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
 - susijęs iš Švč. Trejybės špitolė Vilniuje: Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių.
 - susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192172|jurisdikcija]]: 1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarkant taikos ir karo reikalus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -90,21 +89,27 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
 - id: c-168746
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 628"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 628."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pats Vasilijus, beje, irgi gerai žino­
-    jo, kad Glinskis, sulaukęs iš jo malonės, dar ištikimiau
-    jam tarnausiąs ir ateityje teiksiąs kur kas daugiau nau­
-    dos Maskvos valstybei, nei būtų pridaręs žalos, pa­
-    sprukdamas slapta į Lietuvą. Štai todėl Glinskis vėl
-    atgavo laisvę ir ankstesnę pagarbą, o ateityje susilau­
-    kė tokio didelio kunigaikščio palankumo, kad jį, pa­
-    rodžiusį nuostabų sumanumą tvarkant taikos bei karo
-    reikalus, Vasilijus paskyrė mažamečio sūnaus globėju.
-    Gavęs šitokias garbingas pareigas, kartą sužinojo, jog
-    Vasilijaus našlė, o jo brolio anūkė begėdiškai gyvena
-    su Ovčina, ėjusiu tas pačias pareigas, kaip ir jis.
+    Vasilijus, nie­
+    kam nieko aiškiai nesakydamas, paliepė budriau sau­
+    goti visus pasienio kelius ir rūpestingai kratyti visų
+    keleivių drabužius bei nešulius. Tuo metu popiežiaus
+    legatas Pisonas, pasiųstas iš Romos sutaikyti Žygiman­
+    tą su Vasilijumi, sustojo Vilniuje, ketindamas netrukus
+    leistis į Maskvą, kur jo diena iš dienos laukė. Dėda­
+    masis jo žygūnu, lenkų bajoras Trepka, mokėjęs italų
+    bei vengrų kalbas, išvyko kelionėn, pasižadėjęs akis į
+    akį pranešti Glinskiui karaliaus valią. Pakelėje suimtas
+    ir siaubingai kankinamas, jis
+    P u ik u s ištv e r m ė s p a -
+    nieko nepasakė ir neišdavė
+    v y z d y s
+    karaliaus jam patikėtos pas­
+    lapties. Baisu ir pagalvoti,
+    kaip jis buvo maitojamas: pririštą prie iešmo, degino
+    lėta ugnimi, grąžtais gręžė kiaušą bei nagus.
+  citata_rodoma: "Pats Vasilijus, beje, irgi gerai žino­\njo, kad Glinskis, sulaukęs iš jo malonės, dar ištikimiau\njam tarnausiąs ir ateityje teiksiąs kur kas daugiau nau­\ndos Maskvos valstybei, nei būtų pridaręs žalos, pa­\nsprukdamas slapta į Lietuvą. Štai todėl Glinskis vėl\natgavo laisvę ir ankstesnę pagarbą, o ateityje susilau­\nkė tokio didelio kunigaikščio palankumo, kad jį, pa­\nrodžiusį nuostabų sumanumą tvarkant taikos bei karo\nreikalus, Vasilijus paskyrė mažamečio sūnaus globėju.\nGavęs šitokias garbingas pareigas, kartą sužinojo, jog\nVasilijaus našlė, o jo brolio anūkė begėdiškai gyvena\nsu Ovčina, ėjusiu tas pačias pareigas, kaip ir jis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -37,7 +37,6 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
     - c-175570
 - susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis siejo su dviejų to krašto Nočiomis vadintų upių pavadinimais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -75,8 +74,7 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
 - id: c-175570
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 282"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 282."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Panašu­
     mas į prie Ponto buvusias tvirtoves leidžia manyti ir
@@ -97,7 +95,12 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
     ties krašto upių, vadinamų Nočiomis, atitinkančių upę
     kairiojoje Pripetės pakrantėje ir į ją įtekančių, upę, apie
     kurią jau sakėme, jog gavo lietuvių protėvių vardą (§
-    215).
+    215). Genties pavadinimas, iškritus vienai raidei „s“, gal­
+    būt klaidingai įrašytas į senovės autoriaus tekstą, visiš­
+    kai sutampa ir skamba senų kilmingų lietuviškų giminių
+    varduose; jų palikuonių esti ir dabar: Nac, Nacko, Na-
+    cewicz, Nackowicz.
+  citata_rodoma: "Panašu­\nmas į prie Ponto buvusias tvirtoves leidžia manyti ir\ntam tikra prasme įrodo mūsų prielaidą, jog gelonai-bu-\ndinai dar pirmaisiais jų paplitimo vakaruose amžiais pa­\nliko čia koloniją tam tikros savo giminės genties, kuri,\nmačiusi senas tvirtoves prie Ponto, nepatingėjo čia pa­\nstatyti ir jų kopijas; be to, aptariamų piliaviečių senovė\nturi būti susijusi su labai tolimomis epochomis arba su\nI krikščioniškosios eros amžiumi. Tai, be abejo, buvo\ngelonų gentis, pelūzų giminė,\nsenovės\npelazgų šaka\n(§ 201), senovės geografijai žinoma Nascii, taip juos va­\ndino Ptolemėjas, vardu. Jie gyveno Peluzijos krašte ir\ntaip iš tiesų buvo vadinami savo gyvenamojoje vietovė­\nje, jei kaip įrodymą pripažinsime vardus dviejų to pa­\nties krašto upių, vadinamų Nočiomis, atitinkančių upę\nkairiojoje Pripetės pakrantėje ir į ją įtekančių, upę, apie\nkurią jau sakėme, jog gavo lietuvių protėvių vardą (§\n215)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

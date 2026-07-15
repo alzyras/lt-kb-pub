@@ -63,27 +63,6 @@ Nenurodyta
   teiginys: "1951 m. J. A. V. lietuvių kolonijose buvo dėmesingai švenčiama Mindaugo krikšto 700 metų sukaktis."
   pagrindžia:
     - c-33460
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Čia ji pradedama dviejų
-    šimtmečių (XII-XIII) sąvartoje.
-    Ne mažiau reikšmingas yra kitas klausimas, būtent, ar Min­
-    daugo ir jo šalininkų pasikrikštijimo datą (1251 m.) jau reikia
-    skaityti oficialiuoju visos lietuvių tautos krikštu. Ir tuo klausimu
-    nauji skambus revizionistiniai reikalavimai lietuvių spaudoje pirmą
-    kartą buvo iškelti po II-jo pasaulinio karo^3 , kai dėmesingai, ypač
-    J. A. V. lietuvių kolonijose, buvo švenčiama Mindaugo krikšto 700
-    m. sukaktis (1951 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -49,35 +49,12 @@ Jonas Spudulis minimas kaip laiško Adomui Dambrauskui-Jakštui autorius aušrin
   pagrindžia:
     - c-170755
 - susijęs iš Musų senovė: „Musų senovės“ 1940 m. trečiame tome nurodomi J. Spudulio laiškai A. Dambrauskui-Jakštui.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Jonas Basanavičius 1897 m. išvertė į lietuvių kalbą ir išlei­
-    do „Grovo Kyburgo kelionę“. XIX a. pirmosios pusės Lietu­
-    vos bajorų lenkiška romantinės pakraipos kūryba aušrininkams
-    buvo labai artima ir suprantama. Jonas Spudulis rašė Adomui
-    Dambrauskui-Jakštui: „Bet juk žinai, kad ne tik pas lietuvius,
-    ir pas kitas tautas buvo tokie pat vyrai, kurie nerašė savo pri­
-    gimtoje „motinos“ kalboje, vienok pagarbino ir pakėlė savo
-    tėvynę ir atnešė jai nemažą naudą, nors ir ne taip gausią, kaip
-    tai būtų padarę rašydami savotiškoje kalboje“15.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-170755
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 13"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Jonas Basanavičius 1897 m. išvertė į lietuvių kalbą ir išlei­
     do „Grovo Kyburgo kelionę“. XIX a. pirmosios pusės Lietu­

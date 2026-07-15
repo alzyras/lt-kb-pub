@@ -48,30 +48,12 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 - susijęs iš Katavos valsčius: Katavos valsčius lokalizuojamas Katinavos apylinkėse, o jo vardas siejamas su Katinava arba Katniava.
 - susijęs iš Katinavos apylinkės: Katinavos apylinkės apibūdintos kaip ryškus pagoniško kulto židinys.
 - susijęs iš Stabo ežeras: Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Stalupėnai šaltinio rodyklėje tapatinami su dabartiniu Nesterovu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kamienne) ež.
-    Stalupėnai (dab. Nesterovas)
-    Stanaičiai (dab.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-68679
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 318"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kamienne) ež.
     Stalupėnai (dab. Nesterovas)

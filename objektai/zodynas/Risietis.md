@@ -36,35 +36,12 @@ Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė min
   pagrindžia:
     - c-172214
 - susijęs iš [[objektai/daiktai/Medžiotojo diržai prie balno risietis.md#claim-t-189689|Medžiotojo diržai prie balno risietis]]: Narbutas rašė, kad lietuviai medžiotojo diržus vadino Risietis ir todėl neturėjo skolintis šio daikto pavadinimo iš svetimos kalbos.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė mintį, kad šio žodžio nereikėjo skolintis iš svetimos kalbos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
-    kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui
-    straipsnyje apie Vyčio herbą, kur jis kalba apie Gediminą, ta­
-    čiau klysta Strijkovskio suvedžiotas, kad Trakus taip praminęs
-    Gediminas, kadangi Gediminas įkūrė ne Senuosius, bet Nau­
-    juosius Trakus, o ne Kęstutis. Lietuviai minėtus diržus vadina
-    Risietis, taigi jiems nebuvo reikalo skolintis iš svetimos kalbos
-    daikto pavadinimo, nes jį turėjo savo pačių kalboje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-172214
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 276"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
     kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui

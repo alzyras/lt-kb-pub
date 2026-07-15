@@ -40,30 +40,13 @@ Dusburgietis teigia, kad wenskus R.
   teiginys: "R. Wenskaus straipsnis „Kleinverbände und Kleinräume bei den Prussen des Samlandes“ paskelbtas 1964 m. leidinio 2 tome, p. 201–254."
   pagrindžia:
     - c-61996
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'R. Wenskaus straipsnis „Kleinverbände und Kleinräume bei den Prussen des Samlandes“ paskelbtas 1964 m. leidinio 2 tome, p. 201–254.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Wenskus R. Kleinverbände und Kleinräume bei den Prussen des Samlandes: Die
-    Anfänge der Landgemeinde und ihr Wesen. Bd. 2,—Konstanz—Stuttgart, 1964 (Vorträge
-    und Forschungen, Bd. 8), S. 201—254.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61996
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Wenskus R. Kleinverbände und Kleinräume bei den Prussen des Samlandes: Die
     Anfänge der Landgemeinde und ihr Wesen. Bd. 2,—Konstanz—Stuttgart, 1964 (Vorträge

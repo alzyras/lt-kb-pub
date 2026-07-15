@@ -43,21 +43,6 @@ Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m.
   teiginys: "1773–1775 m. delegacinis seimas Varšuvoje patvirtino 1772 m. Sankt Peterburge pasirašytas padalinimo sutartis."
   pagrindžia:
     - c-45507
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
-    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
-    seimas Varšuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

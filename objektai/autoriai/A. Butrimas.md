@@ -44,21 +44,6 @@ Butrimas ir kiti.
   pagrindžia:
     - c-22106
 - susijęs iš Lietuva 1009–2009: Leidinį „Lietuva 1009–2009“ sudarė A. Butrimas ir kiti; jis išleistas Vilniuje 2009 m.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Chicago, 2010; Lietuva
-    1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009; Lietuva žemėlapiuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22106

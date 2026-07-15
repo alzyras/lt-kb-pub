@@ -42,39 +42,13 @@ media_all_json: |-
   teiginys: "1826 m. Romanovskiui priklausiusiame Antakriaučio dvare Ukmergės apskrityje, tiesiant naują kelią prie ežero, buvo atkastas senovinis pilkapis."
   pagrindžia:
     - c-174342
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1826 m. Romanovskiui priklausiusiame Antakriaučio dvare Ukmergės apskrityje, tiesiant naują kelią prie ežero, buvo atkastas senovinis pilkapis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Nuo pernelyg ilgo buvimo žemėje jie
-    labai nukentėjo, todėl vos pavyko surankioti jų nuolaužas.
-    1826 metais Ukmergės apskrities Antakriautiio dvare, pri­
-    klausančiame ponui Romanovskiui, prie ežero, tiesiant nau­
-    ją kelią, buvo atkastas senovinis pilkapis, kuriame rastas
-    skeletas, ant kurio abiejų rankų buvo užmauta po penkias
-    varines apyrankes, ant piršto — žiedas, pagamintas iš to­
-    kio pat metalo ir susuktas spirale iš gana plačios skardelės
-    (apie 1 linijos pločio, 10 ir 3/4 colio ilgio), o pakaklėje la­
-    bai meistriškai padaryta sagtis, skirta marškinių apykak­
-    lei susegti. Galvą puošė grandinėlė, suverta iš vielinių
-    rutuliukų (poromis), keleto uolekčių ilgio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174342
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 159"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 159."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nuo pernelyg ilgo buvimo žemėje jie
     labai nukentėjo, todėl vos pavyko surankioti jų nuolaužas.

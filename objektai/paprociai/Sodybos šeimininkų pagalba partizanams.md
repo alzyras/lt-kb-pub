@@ -65,28 +65,6 @@ Nenurodyta
   teiginys: "Demaskavus slėptuvę nukentėdavo ir sodybos šeimininkai: sodyba dažnai būdavo sudeginama, o gyvi likę šeimininkai ištremiami."
   pagrindžia:
     - c-12349
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas
-    ūkininkus. Okupacinėms pajėgoms pradėjus dominuoti vietovėje, žaliukams teko įsirengti
-    gerai užmaskuotas slėptuves. Slėptuvę būdavo patogu įsirengti pas žmones sodyboje - po
-    krosnimi, tarp dviejų pastato sienų, šuliniuose ir pan. Sodybos šeimininkai aprūpindavo
-    partizanus maistu ir kitomis būtinomis priemonėmis, jie stebėdavo aplinką ir pranešdavo
-    partizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet
-    ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
-    jei likdavo gyvi, ištremiami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-    - t-003
 
 ## Citatos
 
@@ -109,6 +87,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09598
     - t-09597
+    - t-09598
     - t-09599

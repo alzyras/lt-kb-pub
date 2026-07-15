@@ -47,8 +47,10 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
+Nenurodyta
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -57,7 +59,28 @@ Nenurodyta
     Žemaičiuose šventas medis buvo šermukšnis17“.
     ,7a Jucemicz. Litwa.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+
+
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+## Citatos
+
+- id: c-174981
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Visi mano jas esant labai senas, jų kamienai nepa­
+    prastai stori, bet ne aukšti, o šakos sudaro savotišką baldakimą,
+    kuris yra tokiame pat aukštyje kaip ir ilgo pylimo nuokalnė. Kai
+    kurie gamtininkai, nuodugniai apžiūrėję tuos medžius, priskyrė
+    juos tam tikrai mūsų krašte jau išnykusiai pušų rūšiai. Kažkoks
+    svetimšalis botanikas, kuris rinko sėklas, pravažiuodamas pro Ly­
+    dą, stabtelėjo norėdamas tą rūšį įveisti savo sode.
+  citata_rodoma: "Žemaičiuose šventas medis buvo šermukšnis17“."
   statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

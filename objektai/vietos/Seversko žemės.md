@@ -35,20 +35,13 @@ Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Ki
   teiginys: "Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes bei sudaryti uniją."
   pagrindžia:
     - c-168665
-- susijęs iš Černigovas: Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.
 - susijęs iš [[objektai/autoriai/Swięcki.md#claim-t-190457|Swięcki]]: Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš Seversko žemės.
 - susijęs iš [[objektai/grupes/Triznų giminė.md#claim-t-189504|Triznų giminė]]: Narbutas išnašoje nurodė, kad Triznų giminė yra kilusi iš Seversko žemės.
 - susijęs iš Swięcki, Opis starožytnej Polski: Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės.
-- susijęs iš Seversko žemė: Į seimą susirinkę Seversko žemės didikai ketino raginti karalių pasirūpinti tos žemės gynyba.
-- susijęs iš Seversko žemė: Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.
 - susijęs iš Seversko žemė: Swięckio veikale nurodoma, kad Triznų giminė yra kilusi iš Seversko žemės.
-- susijęs iš Černigovas: Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.
-- susijęs iš [[objektai/asmenys/Stanislovas Pacas.md#claim-t-186081|Stanislovas Pacas]]: Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių Ostrogiškių valdas.
 - susijęs iš [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas.md#claim-t-185584|Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]: Taikos pasiuntiniams nieko nepasiekus, maskvėnai atnaujino karą nelaukdami paliaubų pabaigos.
-- susijęs iš [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas.md#claim-t-185585|Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]: Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.
 - susijęs iš Swięcki, Opis starožytnej Polski: Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes bei sudaryti uniją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -79,22 +72,27 @@ Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Ki
 - id: c-168665
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 683"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 683."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Rugsėjo pabaigoje luomai susirinko Vilniuje į
-    seimą, kuriame karalius pareikalavo, kad liautųsi pa­
-    vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila
-    ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad
-    niekas taip nekenkia visuomenės reikalams, kaip as­
-    meniniai atskirų didikų nesutarimai. Į seimą atvyko ir
-    lenkų atstovai, kurie senato bei bajorų akivaizdoje rim­
-    čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­
-    ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­
-    tų vieną kartą sudaryta galutinė lenkų ir lietuvių są­
-    junga, vadinamoji unija. Jie vis dėlto nieko nepešė,
-    nes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių
-    teisių į tas žemes.
+    Štai todėl daugelis išsigandusių didikų, nenorėda­
+    mi daugiau karaliaus erzinti, ne tik paliovė reikalavę,
+    kad Augustas nutrauktų santuoką, bet sutiko, kad Bar­
+    bora kaip ir kitos karalienės būtų Krokuvoje vaini­
+    kuota. Augustas, pasiekęs to, ko norėjo, nebesispyrė
+    dėl įstatymo, kuris dabar jam rodėsi visai nereikalin­
+    gas. Neilgai trukus Barbora iškilmingai ir šventiškai
+    buvo apvainikuota Krokuvoje karalienės vainiku. Jos
+    broliams Piotrkovo seimas leido naudotis Lenkijoje bei
+    Lietuvoje tomis lengvatomis, kurių neseniai buvo ga­
+    vę iš imperatoriaus Karolio V. Vėliau, įsiteikdamas
+    žmonai, Augustas labiau juos iškėlė. Mikalojų, Barbo­
+    ros brolį, paskyrė Trakų vai-
+    1551 m e ta i
+    vada ir atidavė jam Kėdai­
+    nius, o jo pusbrolį Mikalojų
+    Juodąjį paskyrė Lietuvos maršalu bei didžiuoju kanc­
+    leriu.
+  citata_rodoma: "Rugsėjo pabaigoje luomai susirinko Vilniuje į\nseimą, kuriame karalius pareikalavo, kad liautųsi pa­\nvojingai kivirčijęsi Trakų vaivada Mikalojus Radvila\nir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad\nniekas taip nekenkia visuomenės reikalams, kaip as­\nmeniniai atskirų didikų nesutarimai. Į seimą atvyko ir\nlenkų atstovai, kurie senato bei bajorų akivaizdoje rim­\nčių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­\nralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­\ntų vieną kartą sudaryta galutinė lenkų ir lietuvių są­\njunga, vadinamoji unija. Jie vis dėlto nieko nepešė,\nnes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių\nteisių į tas žemes."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

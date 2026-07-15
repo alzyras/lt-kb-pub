@@ -86,73 +86,12 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 - susijęs iš Jeruzalė: Jeruzalės patriarchas Henrikas ir kiti didikai pritarė, kad Fridrichas prašytų popiežiaus patvirtinti naujai įsteigtą ligoninę.
 - susijęs iš Markburgas: Landgrafas su riteriais ir kilmingaisiais atvyko pas Teutonų ordino brolius Markburge lapkričio 18 d.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58826|maldininkai]]: 1227 m. rugsėjo 11 d. Ortrante šventosios Elžbietos vyras landgrafas mirė maldininko kelionėje po kryžiaus žygio vėliava.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Brolis Konradas, kadaise Tiuringijos landgrafas ir penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino
-                                                  didįjį magistrą
-
-       Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis
-    magistras, mirė liepos 24 dieną, o palaidotas Markburge. Kai dar buvo pasaulietis, jis
-    kartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti  į vienuolius, darė
-    atgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame
-    mieste su procesija basomis ir plika galva, puolė kniūpsčias prieš bažnyčios duris, o
-    rykštę, kurią laikė rankoje, davė žmonėms, kad tiek jį plaktų, kiek kam širdis leidžia.
-    Vis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, keliavęs po kryžiaus žygio vėliava.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    17. Apie Šventos Elžbietos vyro mirtį
-
-      1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava
-    mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.
-
-
-
-                  18.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: '1246 m. Tiuringijos landgrafas buvo išrinktas Romos karaliumi.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    32. Apie Tiuringijos landgrafo išrinkimą Romos karaliumi
-
-      1246 metais Tiuringijos landgrafas buvo išrinktas Romos karaliumi (Ptol. 22,5; Mart.
-    p. 303, 309).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-59454
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 230"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino
                                                   didįjį magistrą
@@ -174,8 +113,7 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 - id: c-59455
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 228"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 228."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     17. Apie Šventos Elžbietos vyro mirtį
 
@@ -196,8 +134,7 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 - id: c-59456
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 230"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     32. Apie Tiuringijos landgrafo išrinkimą Romos karaliumi
 

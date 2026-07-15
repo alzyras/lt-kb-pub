@@ -57,7 +57,6 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 - susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78167|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
 - susijęs iš [[objektai/grupes/Gelonai.md#claim-t-189488|Gelonai]]: Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo tėvynėje turėjo trečią šventąją Ross upę, tapatintą su Oskolu.
 - susijęs iš [[objektai/grupes/Sarmatai.md#claim-t-192961|Sarmatai]]: Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais prie Dono žemupio ir Juodosios jūros.
-- susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186783|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Pagal 1501 m. Aukso ordos ir LDK sutartį Aukso orda apie 1501 m. birželį iš Volgos ir Dono žemupio stepių persimetė į Dono aukštupį.
 - susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192039|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas sarmatų ir alanų plitimą, lėmusį gelonų bei budinų pasitraukimą nuo Dono, vadina sarmatų-alanų revoliucijomis.
 - susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192040|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbuto aiškinimu, svarbiausia gelonų ir budinų pasitraukimo priežastis buvo sarmatų ir kitų Pavolgio tautų plitimas į dešiniosios Dono pakrantės Skitiją.
 - susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192041|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas gelonų ir budinų pasitraukimą iš prie Dono buvusių valdų datuoja maždaug apie 80 m. pr. Kr.
@@ -163,23 +162,6 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 - susijęs iš Kaukazas: Narbutas rašo, kad kolchų kolonijos driekėsi beveik nuo Kaukazo per Volgą ir į vakarus iki Dono.
 - susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191945|Darijus]]: Narbutas rašė, kad Darijaus amžiuje gelonų-budinų krašte žemdirbystė buvo aukšto lygio ir skatino graikų prekybą grūdais Juodojoje jūroje.
 - susijęs iš Dnepras: Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ten jis žygiavo, norėdamas suvaldyti ne­
-    paklusnius jam Okos ir Dono aukštupių kunigaikščius, kurių
-    vienas kitas, kaip, pav., Odojevo, buvo nuo Vytauto atsimetę.
-    Vytautas ruošėsi gerai juos nubausti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-37341

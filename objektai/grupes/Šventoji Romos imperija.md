@@ -35,24 +35,6 @@ Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisa
   teiginys: "Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisaugojo nuo politinių saitų su Šventąja Romos imperija."
   pagrindžia:
     - c-176342
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisaugojo nuo politinių saitų su Šventąja Romos imperija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Livonijos delegatų nuostabai popiežius patenkino Mindaugo prašymą.
-    Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę –
-    apsisaugojo nuo politinių saitų su Šventąja Romos imperija. Šie svarūs
-    diplomatiniai laimėjimai rodo, kad Mindaugas talentingai sugebėjo pa-
-    kreipti įvykius sau naudinga linkme.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

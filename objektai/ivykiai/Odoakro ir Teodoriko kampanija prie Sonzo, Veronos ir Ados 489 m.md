@@ -47,33 +47,13 @@ Nenurodyta
   teiginys: "Narbutas spėja, kad 489 m. Teodorikas po pergalės nepersekiojo Odoakro dėl nusilpusių gotų jėgų, bet užėmė Milaną ir Paviją bei ten peržiemojo."
   pagrindžia:
     - c-173902
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas spėja, kad 489 m. Teodorikas po pergalės nepersekiojo Odoakro dėl nusilpusių gotų jėgų, bet užėmė Milaną ir Paviją bei ten peržiemojo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tuomet jis nusiaubė apylinkes ir, iš­
-    keliavęs į Raveną1, užsidarė ten, savo rezidenciniame
-    mieste. Po pergalės gotų karaliaus jėgos buvo gal taip
-    nusilpusios, jog jis nedrįso persekioti savo priešą; jis tik
-    užėmė Milaną ir Paviją, peržiemojo šiuose miestuose,
-    ruošdamasis kitai kampanijai. Visa tai įvyko 489 metais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173902
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 322"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tuomet jis nusiaubė apylinkes ir, iš­
     keliavęs į Raveną1, užsidarė ten, savo rezidenciniame

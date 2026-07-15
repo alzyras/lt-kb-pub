@@ -6,8 +6,10 @@ saltiniai:
 datos:
   - '1406 m.'
   - '1426 m.'
+  - '1430 m.'
+  - '1431 m.'
 date_start: '1406'
-date_end: '1426'
+date_end: '1431'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Redakcinė pastaba teigia, kad Pskovo bajorų respublika su LDK kariavo 1406 ir 1426 m. Redakcinė pastaba teigia, kad 1426 m. rugpjūtį Vytautas puolė Opočką ir Voronačą, bet jų nepaėmė.
+Redakcinė pastaba Bychovco kronikos pasakojimą veikiausiai sieja su 1426 m. rugpjūčio Vytauto karu su Pskovu. Vytauto giminystė su Zadivydu buvo dar toli mesnė.
 
 ## Laikotarpis ir datos
 
@@ -58,35 +60,19 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-186735"></a>
-- t-001
-  global_id: t-186735
-  teiginys: "Per abu Vytauto karus su Pskovu Didysis Naugardas laikėsi neutraliteto."
-  pagrindžia:
-    - c-169953
-
 <a id="claim-t-186736"></a>
-- t-002
+- t-001
   global_id: t-186736
   teiginys: "Redakcinė pastaba Bychovco kronikos pasakojimą veikiausiai sieja su 1426 m. rugpjūčio Vytauto karu su Pskovu."
   pagrindžia:
     - c-169953
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    450 rublių už belaisvius (1427.111.30), Per abu šluos karus Didysis
-    Naugardas laikėsi neulralitelo. BK pasakojime čia, veikiausiai, turi­
-    m a galvoje 1426 ra. rugpiūčio mėn. Vytauto karas su Pskovu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196791"></a>
+- t-002
+  global_id: t-196791
+  teiginys: "Vytauto giminystė su Zadivydu buvo dar toli mesnė."
   pagrindžia:
-    - t-001
-    - t-002
+    - c-178910
 
 ## Citatos
 
@@ -95,14 +81,49 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    450 rublių už belaisvius (1427.111.30), Per abu šluos karus Didysis
-    Naugardas laikėsi neulralitelo. BK pasakojime čia, veikiausiai, turi­
-    m a galvoje 1426 ra. rugpiūčio mėn. Vytauto karas su Pskovu.
+    10 Visiškas
+    Lenkijos
+    kariuomenės vaidmens Žalgirio mūšyje
+    paneigimas šiame BK pasakojime išplaukia iš viso poleminio kro­
+    nikos pobūdžio. Čia aiškiai polemizuojama su J. Dlugošo ir M. Mie-
+    chovitos Žalgirio mūšio aprašymais, kuriuose vaizduojama, kad Lie­
+    tuvos Didžiosios
+    Kunigaikštystės kariuomenė pačioje mūšio pra­
+    džioje pabėgusi iš kautynių lauko.
+    M Iš tikrųjų gal ne barzdos, o vadinamieji bunčiukal — iš ark­
+    lių uodegų padaryti pagražinimai, kuriais totoriai puošdavo savo
+    žirgus (K. Szajnocha, Szkice historyczne, Lw6w.
   citata_rodoma: "450 rublių už belaisvius (1427.111.30), Per abu šluos karus Didysis \nNaugardas laikėsi neulralitelo. BK pasakojime čia, veikiausiai, turi­\nm a galvoje 1426 ra. rugpiūčio mėn. Vytauto karas su Pskovu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186735
     - t-186736
+
+- id: c-178910
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Vytauto giminystė su Zadivydu buvo dar toli­
+    mesnė.
+    * Nežinoma, kad Jonas Goštautas butų turėjęs „dvaro etmono"
+    titulą. 1430—'1431 m. jis buvo didžiojo kunigaikščio dvaio marša­
+    las; 1431 m. vadovavo vienam Švitrigailos kariuomenės daliniui,
+    kovojusiam su lenkais Volynėje.
+    10 Visiškas
+    Lenkijos
+    kariuomenės vaidmens Žalgirio mūšyje
+    paneigimas šiame BK pasakojime išplaukia iš viso poleminio kro­
+    nikos pobūdžio. Čia aiškiai polemizuojama su J. Dlugošo ir M. Mie-
+    chovitos Žalgirio mūšio aprašymais, kuriuose vaizduojama, kad Lie­
+    tuvos Didžiosios
+    Kunigaikštystės kariuomenė pačioje mūšio pra­
+    džioje pabėgusi iš kautynių lauko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196791

@@ -44,23 +44,6 @@ media_all_json: |-
   teiginys: "Totoriai pasuko Kijevo link ir paėmė iš miesto 3000 rublių kontribucijos."
   pagrindžia:
     - c-37924
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Totoriai pasuko Kijevo link ir paėmė iš miesto 3000 rublių kontribucijos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Totoriai, užvaldę lietuvių stovyklą, paėmė visas jų gur­
-    guoles ir turtus ir tuojau metėsi krašto terioti. Pasuko Kijevo
-    link, paėmė iš jo 3000 rublių kontribucijos. Po to dar pasu­
-    ko į Lucko žemes, ir tik iš ten grįžo į savo stepes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

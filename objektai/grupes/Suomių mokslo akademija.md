@@ -60,6 +60,7 @@ Mokslo akademija.
   teiginys: "Suomių mokslo akademija buvo pažadėjusi paskirti vieną savo leidinį likusiam lietuvių dainų rankraščiui ir anksčiau buvo išleidusi kitą su tuo darbu susijusią knygą."
   pagrindžia:
     - c-177928
+
 ## Citatos
 
 - id: c-177928

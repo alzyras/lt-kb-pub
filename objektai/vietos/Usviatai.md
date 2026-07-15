@@ -47,26 +47,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70312|rotmistras]]: Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70314|rotmistras]]: Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams.
 - susijęs iš Jezeriščė: 1580 m. buvo paimtos Veližo, Didžiųjų Lukų, Usviatų ir Jezeriščės tvirtovės.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1580 m. Kristupas Radvila dalyvavo paimant Usviatų tvirtovę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    K. Radvila savo netikėtais antpuo-
-    liais kaustė rusų kariuomenės veiksmus, taip padė-
-    KozelskasO S A damas S. Batoro pajėgoms užimti Polocką. 1580 m.
-    dalyvavo paimant Veližo, Didžiųjų Lukų, Usviatų,
-    Jezeriščės tvirtoves. 1581 m. įvykdė savo garsųjį
-    reidą į Rusijos gilumą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-77321

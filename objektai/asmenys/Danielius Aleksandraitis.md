@@ -44,23 +44,6 @@ media_all_json: |-
   teiginys: "1402 m. Maskva Pskove pasodino kunigaikštį Danielių Aleksandraitį."
   pagrindžia:
     - c-30120
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1402 m. Maskva Pskove pasodino kunigaikštį Danielių Aleksandraitį.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1406 m.
-    vasario mėnesį šis netikėtai su Lietuvos kariuomene įsiveržė į sritį
-    Pskovo, kuriame 1402 m. Maskva buvo pasodinusi kunigaikštį
-    Danielių Aleksandraitį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

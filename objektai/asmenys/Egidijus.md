@@ -57,51 +57,31 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   teiginys: "Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol."
   pagrindžia:
     - c-60903
+
+<a id="claim-t-197074"></a>
+- t-004
+  global_id: t-197074
+  teiginys: "Egidijus nepakenčia tik niekingos nuodėmės, jis tik ją persekioja bei atperka."
+  pagrindžia:
+    - c-60903
 - susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko bažnyčia buvo pastatyta Šventosios Trejybės, Mergelės Marijos Ėmimo į dangų, šv. Egidijaus ir šv. Jurgio garbei.
 - susijęs iš Paryžius: Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį
-
-      Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau
-    Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol. 24, 14), jis mirė Avinjone,
-    kai ten įsikūrė Romos kurija, Jono XXII, popiežiaus, laikais, 1316 viešpaties metų sausio
-    1 dieną, o palaidotas Paryžiuje su kitais savo ordino broliais.
-
-
-
-     73.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-60903
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 239"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 239."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį
-
-      Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau
-    Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol. 24, 14), jis mirė Avinjone,
-    kai ten įsikūrė Romos kurija, Jono XXII, popiežiaus, laikais, 1316 viešpaties metų sausio
-    1 dieną, o palaidotas Paryžiuje su kitais savo ordino broliais.
-
-
-
-     73.
+    „Ir dievas matė visa, ką buvo padaręs, ir buvo labai gera”, ir nebuvo
+    nieko tokio, ko padaręs neapkęstų. Jis nepakenčia tik niekingos nuodėmės, jis tik ją
+    persekioja bei atperka. Todėl ir tas, kuris per šešias dienas vienu žodžiu viską sukūrė,
+    daugiau nei 33 metus pasaulyje triūsė, nes troško atpirkti nuodėmę. Šitai ir yra vienui
+    vienas dalykas, kuris jam nepatinka, kuris žeidžia jo didybę, kuris žadina jo — tokio
+    švelnaus ir malonaus — rūstį, šitai yra tas dalykas, kuris iš angelo padaro velnią, iš
+    laisvojo — vergą, iš sveikojo — paliegėlį ir galadienį, iš laimingojo— pavargėlį, iš piliečio
+    — užguitą tremtinį, iš dievo sūnų — velnio sūnus, šitai yra tas dalykas, kuris niekada
+    nepalieka be bausmės.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -110,6 +90,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     - t-60271
     - t-184059
     - t-194480
+    - t-197074
 
 ## Ryšiai
 - Egidijus (arkivyskupas, XIV a.) mirė [[objektai/vietos/Avinjonas]]

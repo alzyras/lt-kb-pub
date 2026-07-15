@@ -72,7 +72,6 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90026|Sventopelkas]]: Šiame gabale Sventopelkas siejamas su taikos atnaujinimu, nauju jos sulaužymu ir Santyro pilies pastatymu.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90042|Sventopelkas]]: Sventopelkas sutelkė kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Sventopelkas drąsino saviškius, teigdamas, kad pomeranai ir prūsai galės visiems laikams nusikratyti teutonų jungo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -96,95 +95,26 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   pagrindžia:
     - t-002
 
-- c-002
-  santrauka: 'Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sventopelkas su savo kariuomene priėjo
-    Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas  į priekį daug karių bei ginklanešių,
-    kurie turėjo ištirti, ar Kristburgo pilis yra apsupta. Kristburgo broliai šiuos karius užpuolė
-    ir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko
-    kariuomenės. Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.
-    Sitai išvydę, broliai ėmė juos vytis, vienus nukovė, kitus paėmė  į nelaisvę, o likusieji
-    prigėrė Vysloje. Vis dėlto jos vadas su keliais [kariais] vargais negalais išsigelbėjo,
-    pasprukdamas laivu. Šitaip sutriuškintas Sventopelkas, praradęs visą karinę galią,
-    bematant aprimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  santrauka: 'Prie Svečės pilies broliai nukovė tūkstantį penkis šimtus Pomeranijos vyrų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
-
-       Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
-    Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
-    Višogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su
-    galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs. Pasitarę visi nusprendė ten jį
-    užpulti ir iš Kulmo pasiuntė 10 raitelių, turėjusių neduoti ramybės priešo kariuomenei;
-    susidūrę su 20 priešo vyrų, jie nukovė vieną karį, o kiti 19, išvydę brolių vėliavą, pabėgo;
-    bėgliams parsiradus Sventopelko kariuomenėje, išsibėgiojo visi, išsigelbėjo kurie ne
-    kurie, pasiekdami pilį, visi kiti arba paskendo, arba paklojo galvas nuo kalavijo ašmenų.
-    Šitaip tą dieną broliai nukovė tūkstantį penkis šimtus Pomeranijos vyrų292. Dėkodami už
-    šią pergalę dievui ir džiūgaudami, broliai su dideliu grobiu sugrįžo namo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Magistras, broliai ir kunigaikštis Kazimieras devynias dienas bei naktis niokojo Pomeranijos žemę plėšimais ir gaisrais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Magistras  ir broliai su jais bei su kunigaikščiu Kazimieru  ir su savaisiais įsibrovė  į
-    Pomeranijos žemę  ir, devynetą dienų  ir naktų tai viena, tai kita kryptimi smogdami
-    stiprius  ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio,
-    kurio nebūtų nuniokoję plėšimais ir gaisrais. Tuo metu, kai šitai dėjosi, Sventopelkas
-    sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
-    atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo
-    brolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,
-    šitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė
-    dvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė
-    šiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę
-    teutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
-    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
-    vyrų, skirtų grobiui saugoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-85140
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tuo metu, kai šitai dėjosi, Sventopelkas
-    sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
-    atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo
-    brolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,
-    šitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė
-    dvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė
-    šiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę
-    teutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
-    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
-    vyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
-    koks bailys pamatęs daugybę nukautųjų.
+    Juos išvydę,
+    lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei
+    kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino.
+    Tuo tarpu broliai susirikiavo kovai. Sventopelkas, pamatęs, kad broliai nė nemano bėgti,
+    įsakė tūkstančiui savo rinktinių karių nušokti nuo žirgų pamokęs juos pulti brolius su
+    dideliu triukšmu bei riksmu ir, prisidengus skydais, ietimis galabyti krikščionių arklius,
+    sakydamas: „Kryžiuočiai, apsišarvavę sunkiais šarvais, nestengs pėsti kovoti“. Kai abi
+    kariuomenės išsirikiavo mūšiui, valdovas Henrikas sugrįžo atgal ir, išvydęs priešus,
+    pasakė broliams: „Delsti pavojinga, todėl pulkime juos!“ Jie įnirtingai užpuolė priešus,
+    ir prasidėjo baisios kautynės; Sventopelko kariuomenė prarado mūšio lauke tūkstantį
+    penkis šimtus žuvusių vyrų, o krikščionių nė vienas nebuvo sunkiai sužeistas, išskyrus
+    10 žirgų, kurie krito perverti priešo iečių.
+  citata_rodoma: "Tuo metu, kai šitai dėjosi, Sventopelkas\nsutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui\natsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo\nbrolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,\nšitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė\ndvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė\nšiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę\nteutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė\ngabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30\nvyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant\nkoks bailys pamatęs daugybę nukautųjų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -195,8 +125,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - id: c-85141
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sventopelkas su savo kariuomene priėjo
     Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas  į priekį daug karių bei ginklanešių,
@@ -217,12 +146,10 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - id: c-85142
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 95"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
-
-       Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
+    Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
     Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
     Višogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su
     galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs. Pasitarę visi nusprendė ten jį
@@ -242,14 +169,13 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - id: c-85143
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Magistras  ir broliai su jais bei su kunigaikščiu Kazimieru  ir su savaisiais įsibrovė  į
-    Pomeranijos žemę  ir, devynetą dienų  ir naktų tai viena, tai kita kryptimi smogdami
-    stiprius  ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio,
+    Magistras ir broliai su jais bei su kunigaikščiu Kazimieru ir su savaisiais įsibrovė į
+    Pomeranijos žemę ir, devynetą dienų ir naktų tai viena, tai kita kryptimi smogdami
+    stiprius ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio,
     kurio nebūtų nuniokoję plėšimais ir gaisrais. Tuo metu, kai šitai dėjosi, Sventopelkas
-    sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
+    sutelkė didelę kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui
     atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo
     brolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,
     šitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė

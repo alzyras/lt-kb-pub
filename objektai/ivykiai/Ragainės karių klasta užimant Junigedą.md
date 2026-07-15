@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Junigedos puolime dalis karių buvo paslėpta abipus kelio, o Ragainės būriui įsakyta traukti prie pilies vartų.
+Junigedos gynėjai, išbėgę prieš nedidelį puolėjų būrį, pateko tarp pasaloje tykančių karių ir buvo apsiausti iš abiejų pusių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -45,51 +45,29 @@ Nenurodyta
 <a id="claim-t-185826"></a>
 - t-001
   global_id: t-185826
-  teiginys: "Junigedos puolime dalis karių buvo paslėpta abipus kelio, o Ragainės būriui įsakyta traukti prie pilies vartų."
+  teiginys: "Junigedos gynėjai, išbėgę prieš nedidelį puolėjų būrį, pateko tarp pasaloje tykančių karių ir buvo apsiausti iš abiejų pusių."
   pagrindžia:
     - c-169187
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Junigedos puolime dalis karių buvo paslėpta abipus kelio, o Ragainės būriui įsakyta traukti prie pilies vartų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Išdėstęs vi-
-    ta  u žim a  J u n ig e d ą
-    sus kitus būrius abipus kelio
-    pasalose, jis įsakė Ragainės
-    būriui traukti tiesiai prie pilies vartų. Gynėjai, tarda­
-    mi, jog negarbinga gintis nuo tokio nedidelio būrio
-    už tvirtovių sienų, bemat pasileido link puolančio prie­
-    šo, tačiau, drąsiai išpuolę į lauką, atsidūrė tarp pa­
-    saloje tykančių karių. Tada priešai stvėrėsi ginklo,
-    visur aidėjo šauksmai ir švilpė ietys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169187
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 165"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 165."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Išdėstęs vi-
-    ta  u žim a  J u n ig e d ą
-    sus kitus būrius abipus kelio
-    pasalose, jis įsakė Ragainės
-    būriui traukti tiesiai prie pilies vartų. Gynėjai, tarda­
+    Gynėjai, tarda­
     mi, jog negarbinga gintis nuo tokio nedidelio būrio
     už tvirtovių sienų, bemat pasileido link puolančio prie­
     šo, tačiau, drąsiai išpuolę į lauką, atsidūrė tarp pa­
     saloje tykančių karių. Tada priešai stvėrėsi ginklo,
-    visur aidėjo šauksmai ir švilpė ietys.
+    visur aidėjo šauksmai ir švilpė ietys. Paspruko nedaug,
+    tik tie, kurie, išgirdę šauksmą, tuojau puolė atgal; ki­
+    ti, kurie išdrįso tolėliau nubėgti, buvo apsiausti ir iš­
+    žudyti, iš abiejų pusių susitelkus priešo būriams. Vė­
+    liau viską siaubianti kariuomenė buvo nuvesta į Au­
+    kaimį, ji apsupo pilį ir sudegino aplinkinius kaimus.
+  citata_rodoma: "Išdėstęs vi-\nta  u žim a  J u n ig e d ą\nsus kitus būrius abipus kelio\npasalose, jis įsakė Ragainės\nbūriui traukti tiesiai prie pilies vartų. Gynėjai, tarda­\nmi, jog negarbinga gintis nuo tokio nedidelio būrio\nuž tvirtovių sienų, bemat pasileido link puolančio prie­\nšo, tačiau, drąsiai išpuolę į lauką, atsidūrė tarp pa­\nsaloje tykančių karių. Tada priešai stvėrėsi ginklo,\nvisur aidėjo šauksmai ir švilpė ietys."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

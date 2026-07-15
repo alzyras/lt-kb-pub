@@ -41,21 +41,6 @@ media_all_json: |-
   teiginys: "„SSRS pasienio kariuomenė. 1945-1950“ buvo išleista Maskvoje 1975 m."
   pagrindžia:
     - c-77407
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„SSRS pasienio kariuomenė. 1945-1950“ buvo išleista Maskvoje 1975 m.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 225, „IŠ NKVD RAPORTO*, [orpanmunpie Boiicka CCCP. 1945-1950, MockBa, 1975. (SSRS
-    pasienio kariuomenė. 1945-1950, Maskva, 1975).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

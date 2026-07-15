@@ -33,42 +33,11 @@ Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti 
 <a id="claim-t-191254"></a>
 - t-001
   global_id: t-191254
-  teiginys: "Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti Darijų nuo žygio į nepažįstamą, nusiaubtą ir sausringą kraštą."
+  teiginys: 'Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti Darijų nuo žygio į nepažįstamą, nusiaubtą ir sausringą kraštą.'
   pagrindžia:
     - c-174136
 - susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191008|Darijaus žygis prieš skitus]]: Darijaus žygio metu persų kariuomenė, skitams traukiantis, perėjo Skitiją ir persikėlė per Dnestrą, Būgą, Dneprą bei Donecą.
 - susijęs iš Herodoto istorija: Pasak Narbuto perteikto Herodoto, persų karalius Darijus, dvariškių pataikavimo suklaidintas, neapdairiu įkarščiu padėjo skitams įgyvendinti jų ketinimus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti Darijų nuo žygio į nepažįstamą, nusiaubtą ir sausringą kraštą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Antra vertus, persų karalius, pasak Herodoto, savo
-    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
-    čio tarytum padėjo skitams įgyvendinti jų ketinimus. Jo
-    brolis Artabanas veltui stengėsi įrodyti, kad nenaudinga
-    aukoti septynissyk šimtatūkstantinę armiją nepažįstamam,
-    visiškai nusiaubtam ir sausringam kraštui, kur visko la­
-    bai stigo, o tai buvo pavojingiau negu priešo ginklai.
-    59
-
-    ## Puslapis 57
-
-    Veltui šis uolus karvedys, nors į jo patarimus ir nebuvo
-    atkreipta dėmesio, iš paskutiniųjų stengėsi išgelbėti ka­
-    riuomenę, rodydamas kovingumo, pavyzdingos tvarkos ir
-    ištvermės įveikiant didžiausius sunkumus pavyzdį; mil­
-    žiniškos Darijaus kariuomenės buvo neįmanoma apsau­
-    goti nuo milžiniškų nuostolių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174136
@@ -98,4 +67,4 @@ Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191254
+    - t-001

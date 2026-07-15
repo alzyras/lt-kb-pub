@@ -43,26 +43,6 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 - susijęs iš [[objektai/grupes/Mamoničių giminė.md#claim-t-86746|Mamoničių giminė]]: Mamoničių namai, anot citatos, veikiausiai stovėjo ten, kur vėliau buvo Sledzinskio namai Nr. 203.
 - susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188015|Bazilijonų ordinas]]: Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.
 - susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188016|Bazilijonų ordinas]]: Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mamoničių namai, pasak autoriaus, stovėjo dabartinių Sledzinskio namų Nr. 203 vietoje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1822. Mamoničių namai sto­
-    vėjo, rodos, toje vietoje, kur dabar Sle-
-    dzinskio namai, Nr. 203, o šalia,
-    kampiniame name, seniau buvo
-    cerkvelė. Vėliau Mamoničių spaus­
-    tuvė, matyt, atiteko bazilijonams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82064

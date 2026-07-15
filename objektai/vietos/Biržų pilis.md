@@ -42,31 +42,6 @@ Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė švedų įgul
   teiginys: "Iki 1657 m. V. Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė Biržų pilyje buvusi švedų įgula."
   pagrindžia:
     - c-40400
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Graviūroje gerai matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, jas
-    dengia žemės pylimai ir žemių pripildytos pintinės (turai arba gabionai)
-
-    Lietuvos teritoriją, todėl 1656 m. kilo Žemaičių sukilimas, padaręs
-    švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat
-    kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
-    vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
-    vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
-    Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
-    kariuomenės. Švedijai ėmė nesisekti kovos veiksmai ir Lenkijoje,
-    be to, jai karą paskelbė Rusija. Iki 1657 m. kovos Lietuvoje vis in-
-    tensyvėjo ir galiausiai V. Gonsievskio vadovaujamai Lietuvos ka-
-    riuomenei pasidavė paskutinė švedų įgula, buvusi Biržų pilyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -46,8 +46,8 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
   teiginys: "A. Vanagas siejo Labguvos vardą su baltiškais hidronimais ir žodžiu lobas, reiškiančiu daubą, raguvą ar slėnį."
   pagrindžia:
     - c-56014
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -62,33 +62,26 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'A. Vanagas siejo Labguvos vardą su baltiškais hidronimais ir žodžiu lobas, reiškiančiu daubą, raguvą ar slėnį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vardas Labguva/ Labgava kilęs iš tokio pat
-    upės vardo. Senoji baltiška forma greičiausiai turėtų būti *Labjava/*Labjuva>*Labiava
-    / *Labiuva, plg. Laba, Labažė, Labažis, Labė ir lobas ‘dauba, raguva, slėnys’ (Vanagas
-    A., Dėl vietovardžio Labguva..., p. 185—189).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-56012
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 6."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
-    S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,
-    filol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai.
+    Petro Dusburgiečio kronika
+    Epocha, šaltiniai, tendencija, reikšmė
+    Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir
+    pasakojamuosius, arba naratyvinius (iš lot. narratio), šaltinius. Pasakojamojo pobūdžio
+    šaltinius sudaro analai, kronikos,  memuarai bei dienoraščiai, šventųjų gyvenimai ir kt.
+    Tarybinis mokslas kreipia didelį dėmesį į teisingą istorinių šaltinių teksto suvokimą
+    atskleidžiant jo socialinę, klasinę esmę, traktuojant šaltinį kaip to meto visuomenės
+    gyvenimo objektyvų atspindį, tiriant jį kaip paminklą mūsų šalies tautų išsivaduojamajai
+    kovai atskleisti1.
+    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
+    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
+    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
+    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
   citata_rodoma: "Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.\nS. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,\nfilol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai."
   statusas: verified
   teiginio_tipas: faktas
@@ -100,8 +93,7 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
 - id: c-56014
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 155."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vardas Labguva/ Labgava kilęs iš tokio pat
     upės vardo. Senoji baltiška forma greičiausiai turėtų būti *Labjava/*Labjuva>*Labiava

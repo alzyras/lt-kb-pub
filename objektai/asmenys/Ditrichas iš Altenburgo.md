@@ -8,15 +8,16 @@ datos:
   - '1341 m.'
 date_start: '1316'
 date_end: '1341'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
+  - miestas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,6 +66,13 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   teiginys: "1324 m. gegužės 22 d. Ditrichas iš Altenburgo, Ragainės komtūras, su broliais ir kariais užpuolė Gedimino pilies papilį."
   pagrindžia:
     - c-60582
+
+<a id="claim-t-197066"></a>
+- t-005
+  global_id: t-197066
+  teiginys: "Dusburgietis teigia, kad ditrichas iš Altenburgo mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene lapkričio 21 dieną į Mazovijos žemę ir, plėšdamas bei degindamas, nusiaubė Plocko vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės kaimų, daugybę vienuolynams bei kilmingiesiems priklausančių dvarų, 30 parapinių bažnyčių ir koplyčių su daug dievo garbei skirtų maldos namų."
+  pagrindžia:
+    - c-60582
 - susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97014|Bisenos sunaikinimas (1316 m.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino.
 - susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-183941|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
 - susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-62387|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
@@ -72,7 +80,6 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 - susijęs iš Saina: Ditrichas iš Altenburgo Lunenburgo pilį pastatė Bartos žemėje, Gubros ir Sainos santakoje.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58776|papilys]]: 1324 m. gegužės 22 d. Ditrichas iš Altenburgo su Ordino pajėgomis užpuolė ir sudegino Gedimino pilies papilį.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ditrichas iš Altenburgo buvo Ordino magistras 1335–1341 m.; jo laikais apie 1340 m. Mikalojus baigė darbą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -88,25 +95,6 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
-- c-002
-  santrauka: '1324 m. gegužės 22 d. Ditrichas iš Altenburgo, Ragainės komtūras, su broliais ir kariais užpuolė Gedimino pilies papilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    351 (344). Apie Gedimino pilies papilio sudeginimą 1324 metais
-
-      Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras,  ir 44
-    broliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies
-    papilį, sudegino jį ir išžudė visus žmones, kuriuos jame surado, išskyrus tuos, kuriems
-    pavyko pasprukti  į pilį. Broliai neteko trijų Notangos vyrų, kritusių kovoje, ir dviejų,
-    kuriuos paėmė į nelaisvę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 - c-003
   santrauka: 'Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.'
@@ -128,37 +116,18 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   pagrindžia:
     - t-001
 
-- c-004
-  santrauka: '1316 m. balandžio 4 d. Ditrichas iš Altenburgo su Fridrichu Kvicu ir kitais vyrais patraukė link Bisenės pilies.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    329 (322). Apie Bisenės pilies sudeginimą 1316 metais
-
-       Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas  iš
-    Altenburgo, brolis Fridrichas Kvicas  ir dar vienas brolis patraukė su trimis Ragainės
-    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
-    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
-    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-60581
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 20"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo
-    (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas. Darbą Mikalojus baigė
-    jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos
-    žemės kronikoje“ nemaža detalių pakeista arba pridėta79.
+    Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
+    jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.
+    Dlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš
+    Jerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.
+    Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
   citata_rodoma: "Darbą Mikalojus baigė\njau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos\nžemės kronikoje“ nemaža detalių pakeista arba pridėta79."
   statusas: verified
   teiginio_tipas: faktas
@@ -170,16 +139,22 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 - id: c-60582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 219."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    351 (344). Apie Gedimino pilies papilio sudeginimą 1324 metais
-
-      Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras,  ir 44
-    broliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies
-    papilį, sudegino jį ir išžudė visus žmones, kuriuos jame surado, išskyrus tuos, kuriems
-    pavyko pasprukti  į pilį. Broliai neteko trijų Notangos vyrų, kritusių kovoje, ir dviejų,
-    kuriuos paėmė į nelaisvę.
+    357 (350). Apie Mazovijos žemės nusiaubimą 134 metais
+    Kai sutarė taiką, kai Livonijos ir Prūsijos žemių bei kitų kaimyninių kraštų broliai ir visi
+    kiti krikščionys tvirtai patikėjo, kad daugiau nebereikėsią kariauti, kai jau ketino kalavijus
+    perkalti į noragus, o ietis — į pjautuvus, tas pats nedorasis [karalius], tikėjimo bei tikinčiųjų
+    priešas, užsikimšo nelyginant kurčioji angis ausis, nenorėdamas girdėti išganingų jo
+    šventenybės popiežiaus perspėjimų, kuriuos minėtieji legatai kuo tiksliausiai jam buvo
+    perdavę; užuot pagalvojęs apie savo bei saviškių išganymą, būtent apie tai, kaip jam
+    priimti su tinkamomis iškilmėmis ir su derama pagarba krikšto sakramentą, jis, eidamas
+    savo pirmtakų pėdomis, vėl suskato iš paskutiniųjų naikinti tikėjimą ir tikinčiuosius.
+    Jis mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene
+    lapkričio 21 dieną į Mazovijos žemę ir, plėšdamas bei degindamas, nusiaubė Plocko
+    vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės
+    kaimų, daugybę vienuolynams bei kilmingiesiems priklausančių dvarų, 30 parapinių
+    bažnyčių ir koplyčių su daug dievo garbei skirtų maldos namų.
   citata_rodoma: "Apie Gedimino pilies papilio sudeginimą 1324 metais\n\n  Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras,  ir 44\nbroliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies\npapilį, sudegino jį ir išžudė visus žmones, kuriuos jame surado, išskyrus tuos, kuriems\npavyko pasprukti  į pilį. Broliai neteko trijų Notangos vyrų, kritusių kovoje, ir dviejų,\nkuriuos paėmė į nelaisvę."
   statusas: verified
   teiginio_tipas: faktas
@@ -187,21 +162,22 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59952
+    - t-197066
 
 - id: c-60583
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    362 (355). Apie Lunenburgo pilies ir dviejų miestų pastatymą
-
-      Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą
-    leidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,
-    santakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be
-    to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
-    jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
-    Ilienburgo [Ilijos] pilies595.
+    Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
+    Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
+    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
+    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
+    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
+    Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
+    Henriko VI laikais (Dusb. I, 2).
+    Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
+    III (Ptol.
   citata_rodoma: "Apie Lunenburgo pilies ir dviejų miestų pastatymą\n\n  Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą\nleidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,\nsantakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be\nto, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,\njo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie\nIlienburgo [Ilijos] pilies595."
   statusas: verified
   teiginio_tipas: faktas
@@ -213,13 +189,11 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 - id: c-60584
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 212"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     329 (322). Apie Bisenės pilies sudeginimą 1316 metais
-
-       Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas  iš
-    Altenburgo, brolis Fridrichas Kvicas  ir dar vienas brolis patraukė su trimis Ragainės
+    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
+    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
     ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
     čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
     du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus.

@@ -83,8 +83,8 @@ Nenurodyta
   teiginys: "Vorsklos mūšiui kautynių vieta buvo numatyta Vorsklos upės apylinkėse."
   pagrindžia:
     - c-167619
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -99,46 +99,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Prieš Vorsklos mūšį Vytautas penkias dienas stovėjo įtvirtintoje stovykloje kitoje Vorsklos pusėje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vytautas 5 dienas stovėjo kitoje Vorsklos
-    pusėje, įtvirtintoje stovykloje su geležinė-
-    mis grandinėmis kaustytais vežimais, su
-    daugeliu patrankėlių (piščalių), patrankų,
-    „arbaletų“. Edigėjus skelbėsi amžiumi vy-
-    resniu, todėl reikalavo Vytauto klusnumo
-    ir atsakydamas į ankstesnį Vytauto reikala-
-    vimą, pareikalavo Lietuvos pinigus žymėti
-    Ordos ženklais. Tuomet Vytautas įsakė
-    savo kariams ruoštis kautynėms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: '1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1399 m. rugpjūčio 12 d., „dvi valan-
-    dos iki saulėlydžio“ prasidėjo „didžiausias
-    mūšis“. J. Dlugošo žodžiais, Edigėjaus ka-
-    riuomenė buvo akimis neaprėpiama, prieš
-    kurią Vytauto ir krikščionių kunigaikščių
-    pulkai atrodė smulkia saujele.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -183,52 +143,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-- c-007
-  santrauka: 'Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Talkininkų
-    kryžiuočių liko tik keletas, tarp jų žuvo
-    tarnaudami senajai Tėvynei du kryžiuočiai
-    lietuviai, Jonas ir Tomas Survilos.
-
-    Mūšio padariniai
-    Visų trijų Vytauto žygių, Vorsklos kauty-
-    nių įvykiai apibendrinti Detmaro Liubeko
-    kronikos tęsinyje: tuo metu lietuviai prieš
-    totorius kariavę tris kartus, dvejas kautynes
-    laimėję, o prie Vorsklos patyrę nesėkmę;
-    to meto žiniomis, tuose mūšiuose totorių
-    žuvo 300 000, 0 Vytautas praradęs 100 000
-    karių (skaičiai, be abejo, perdėti, gal net
-    dešimtį kartų), bet santykis galėtų būti re-
-    alus: totorių žuvo tris kartus daugiau nei
-    Vytauto ir jo sąjungininkų karių. Vytautas
-    prarado apie 14 savo kariuomenės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-008
-  santrauka: 'Vorsklos mūšiui kautynių vieta buvo numatyta Vorsklos upės apylinkėse.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Visos tos didžiulės kariuomenės susirinkimo vieta buvo
-    paskirta Kijeve. Kautynėms vieta buvo numatyta Vorsklos
-    upės apylinkės. 1399 m. rugpiūčio pradžioj Vytauto karo jė­
-    gos susitelkė kairiajame Vorsklos^1 ) upės krante.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-43140

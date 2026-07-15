@@ -51,40 +51,6 @@ media_all_json: |-
   teiginys: "1285 m. pavasarį lietuviai plėšė Tverės sritį."
   pagrindžia:
     - c-167770
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1284 jie vėl žygiavo Lenkijon; 1285 pavasarį plėšė
-    Tverės sritį. Ir toliau jie pastoviai puldinėjo ordino žemes Livo­
-    nijoje. 1287 kovo mėn. kautynėse su lietuviais, kurie veikė sąjun­
-    goje su žiemgaliais, žuvo Livonijos 35 riteriai ir magistras Bur­
-    chardas von Haren.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1285 m. pavasarį lietuviai plėšė Tverės sritį.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1282 drauge su jotvingiais lietuviai teriojo Liublino ir Sandomie­
-    riaus žemes; kitais metais, atjoję per Kuršių Neringą, lietuviai
-    puolė Sembą. 1284 jie vėl žygiavo Lenkijon; 1285 pavasarį plėšė
-    Tverės sritį. Ir toliau jie pastoviai puldinėjo ordino žemes Livo­
-    nijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

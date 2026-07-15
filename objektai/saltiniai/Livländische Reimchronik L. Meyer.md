@@ -42,28 +42,13 @@ Dusburgietis teigia, kad livländische Reimchronik / L.
   teiginys: "L. Meyerio „Livländische Reimchronik“ išleista Paderborne 1876 m."
   pagrindžia:
     - c-61781
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'L. Meyerio „Livländische Reimchronik“ išleista Paderborne 1876 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Livländische Reimchronik / L. Meyer.—Paderborn, 1876.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61781
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Livländische Reimchronik / L. Meyer.—Paderborn, 1876.
   statusas: verified

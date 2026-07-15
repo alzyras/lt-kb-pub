@@ -45,20 +45,6 @@ Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
   pagrindžia:
     - c-09680
 - susijęs iš [[objektai/daiktai/Vąšas.md#claim-t-08353|Vąšas]]: Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Ryto metą vakarop, atkeliavus jaunajam su vėdliais į jaunosios tėvo namus, linksminos ir gėrė dieną ir naktį, maž temiegodami per tris ar keturias naktis, trečiąją ar ketvirtąją dieną vėdlių gaspadinė, tai yra viešnė, turėjo pasielgti, beje, pasirodyti, ar turtinga yra, nesgi nuo jos turtų apie visą jaunojo kiltį jaunosios gentys sprendė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-09680

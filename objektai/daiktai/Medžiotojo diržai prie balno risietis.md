@@ -56,58 +56,13 @@ Nenurodyta
   teiginys: "Narbutas rašė, kad lietuviai medžiotojo diržus vadino Risietis ir todėl neturėjo skolintis šio daikto pavadinimo iš svetimos kalbos."
   pagrindžia:
     - c-172572
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Trakų pavadinimą aiškino kaip slavišką medžiotojo diržų prie balno, kuriais pririšama žvėriena, pavadinimą utroczyc.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šis istori­
-    nis fragmentas toks įdomus, kad negalime nepaaiškinti kai ku­
-    rių vietų. Trakų pavadinimas iš tikrųjų nelietuviškas; slavų kal­
-    ba tai reiškia medžiotojo diržus, pritvirtintus prie balno, ku­
-    riais pririša žvėrieną; technišku medžiotojų terminu tai vadi­
-    nama utroczyc. Gali būti, kad, esant daugybei žvėrių, senos
-    lietuvių gyvenvietės, vadintos Gurghani, apylinkėse apsigyve­
-    nę rusinu kunigaikščiams duodamos duoklės rinkėjai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas rašė, kad lietuviai medžiotojo diržus vadino Risietis ir todėl neturėjo skolintis šio daikto pavadinimo iš svetimos kalbos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ta pati mintis ateina Okolskiui
-    straipsnyje apie Vyčio herbą, kur jis kalba apie Gediminą, ta­
-    čiau klysta Strijkovskio suvedžiotas, kad Trakus taip praminęs
-    Gediminas, kadangi Gediminas įkūrė ne Senuosius, bet Nau­
-    juosius Trakus, o ne Kęstutis. Lietuviai minėtus diržus vadina
-    Risietis, taigi jiems nebuvo reikalo skolintis iš svetimos kalbos
-    daikto pavadinimo, nes jį turėjo savo pačių kalboje. Slaptos
-    dievo Atlaibo šventyklos buvo Trakuose ir Vilniuje, ir po abiem
-    miestais yra visiškai tokie pat požemiai, iki šiol pakankamai
-    neaprašyti -  Senųjų Trakų pilyje ir Vaikelio Jėzaus vienuoly­
-    ne.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-172571
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 275"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 275."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šis istori­
     nis fragmentas toks įdomus, kad negalime nepaaiškinti kai ku­
@@ -127,8 +82,7 @@ Nenurodyta
 - id: c-172572
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 276"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ta pati mintis ateina Okolskiui
     straipsnyje apie Vyčio herbą, kur jis kalba apie Gediminą, ta­
@@ -139,7 +93,7 @@ Nenurodyta
     daikto pavadinimo, nes jį turėjo savo pačių kalboje. Slaptos
     dievo Atlaibo šventyklos buvo Trakuose ir Vilniuje, ir po abiem
     miestais yra visiškai tokie pat požemiai, iki šiol pakankamai
-    neaprašyti -  Senųjų Trakų pilyje ir Vaikelio Jėzaus vienuoly­
+    neaprašyti - Senųjų Trakų pilyje ir Vaikelio Jėzaus vienuoly­
     ne.
   statusas: verified
   teiginio_tipas: faktas

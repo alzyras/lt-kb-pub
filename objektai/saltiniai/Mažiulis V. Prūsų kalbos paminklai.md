@@ -41,28 +41,13 @@ Dusburgietis teigia, kad mažiulis V.
   teiginys: "V. Mažiulio „Prūsų kalbos paminklai“ išėjo dviem tomais 1966 ir 1981 m."
   pagrindžia:
     - c-61802
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'V. Mažiulio „Prūsų kalbos paminklai“ išėjo dviem tomais 1966 ir 1981 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mažiulis V. Prūsų kalbos paminklai.—T. [1]—2,—V., 1966, 1981.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61802
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mažiulis V. Prūsų kalbos paminklai.—T. [1]—2,—V., 1966, 1981.
   statusas: verified

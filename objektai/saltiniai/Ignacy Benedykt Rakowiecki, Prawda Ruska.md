@@ -10,13 +10,13 @@ datos:
   - '1839 m.'
 date_start: '1782'
 date_end: '1839'
+amziai:
+  - 'XVIII'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XVIII'
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,8 +44,8 @@ Ignoto Benedikto Rakoveckio veikalas „Prawda Ruska“ buvo išleistas Varšuvo
   teiginys: "Ignoto Benedikto Rakoveckio veikalas „Prawda Ruska“ buvo išleistas Varšuvoje 1820–1828 m. dviem tomais."
   pagrindžia:
     - c-174663
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ignoto Benedikto Rakoveckio veikalas „Prawda Ruska“ buvo išleistas Varšuvoje 1820–1828 m. dviem tomais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -69,15 +69,16 @@ Ignoto Benedikto Rakoveckio veikalas „Prawda Ruska“ buvo išleistas Varšuvo
 - id: c-174663
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 509"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 509."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    178 /Ten pat,
-    (5)
-    išnaša/
-    Turimas omenyje filologo Ignoto Benedikto Rakoveckio (Rakowiec-
-    ki; 1782—1839) darbas (Prawda Ruska. Warszawa, 1820—1828.
-    T. I—II).
+    176 /Р. 325, nauja išnaša 2 pastraipos 1 sakiniui/
+    7a Neseckis (Herbarz Polski. T. VIII. S. 242) teigia, jog Sa­
+    piegų giminės protėvio herbe buvo pavaizduotos trys lelijos. To­
+    liau sako: „Narimantas buvo pirmasis, kuris Hipokentaurą pakeitė
+    Vytimi, Giedraitis — Rože, Daumantas — Stumbro galva; Ge­
+    diminas vietoj vieno Stulpo naudojo tris, Kaributas iš pradžių
+    turėjo Erelį su Vytimi, o vėliau — Mėnulį su Kryžiais.
+  citata_rodoma: "178 /Ten pat,\n(5)\nišnaša/\nTurimas omenyje filologo Ignoto Benedikto Rakoveckio (Rakowiec-\nki; 1782—1839) darbas (Prawda Ruska. Warszawa, 1820—1828.\nT. I—II)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

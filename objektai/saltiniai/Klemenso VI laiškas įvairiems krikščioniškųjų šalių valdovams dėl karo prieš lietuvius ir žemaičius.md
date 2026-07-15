@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams.
+Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams. Kojelavičius aiškina, kad lenkai turėjo vengti karo su lietuviais, nes vienu metu susidūrus su daugybe kliūčių galėjo palūžti.
 
 ## Teiginiai
 
@@ -34,35 +34,20 @@ Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias mal
   teiginys: "Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams."
   pagrindžia:
     - c-169658
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Traukiantiems į kovą prieš lietuvius ir žemaičius
-    jis žadėjo tas dieviškas malones, kurių paprastai susi­
-    laukia maldininkai, kurie, davę įžadus, pamaldžiai ap­
-    lanko Kristaus karstą Jeruzalėje ar šv. Jokūbo Kom-
-    posteloje bei nusigauna prie apaštališkųjų -slenksčių
-    Romoje. Popiežiaus žodžiai paskatino susiruošti į ko­
-    vą ne tik eilinius karius, bet ir pačius valdovus su
-    didžiulėmis savo žemių kariuomenėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196351"></a>
+- t-002
+  global_id: t-196351
+  teiginys: "Kojelavičius aiškina, kad lenkai turėjo vengti karo su lietuviais, nes vienu metu susidūrus su daugybe kliūčių galėjo palūžti."
   pagrindžia:
-    - t-001
+    - c-178643
 
 ## Citatos
 
 - id: c-169658
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 231"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 231."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Traukiantiems į kovą prieš lietuvius ir žemaičius
     jis žadėjo tas dieviškas malones, kurių paprastai susi­
@@ -78,3 +63,27 @@ Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias mal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186297
+
+- id: c-178643
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Vis dėlto lenkai
+    turėjo vengti karo su lietuviais, antraip galėjo palūžti
+    iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
+    bių. Mat didelius reikalus geriau tvarkyti dalimis; jei­
+    gu jie suverčiami į krūvą, pranoksta tvarkytojų no­
+    rus ir jėgas. Vis dėlto Kazimiero apdairumas leido su­
+    švelninti įtemptą padėtį: sudaręs su lietuvių valdovu
+
+    sutartį palankiomis sąlygomis, jis pasuko ginklus į kitą
+    Rusios pašalį; jį apiplėšęs ir pavergęs, išgriovė pilis,
+    brangesnius daiktus išvežė, prijungė žemes prie Len­
+    kijos, o gyventojams vėliau įvedė lenkų įstatymus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196351

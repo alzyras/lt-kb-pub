@@ -57,26 +57,6 @@ Nenurodyta
   teiginys: "Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką."
   pagrindžia:
     - c-93964
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kaip bėglys, prie jo pri­
-    sijungė ir trečias Gedimino anūkas, buvęs Podolės kunigaikštis
-    Teodoras Karijotaitis.
-    Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio
-    atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius
-    valsčius (« volosti »). Kijevas buvo atiduotas Skirgailai mainais už
-    Polocką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

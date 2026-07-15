@@ -61,35 +61,13 @@ Nenurodyta
   teiginys: "Griškaitės vertinimu, J. I. Kraševskio straipsnyje T. Narbutas nebuvo įvardytas, nors Kraševskis jau turėjo antrą ir trečią LTI tomus."
   pagrindžia:
     - c-174916
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Griškaitės vertinimu, J. I. Kraševskio straipsnyje T. Narbutas nebuvo įvardytas, nors Kraševskis jau turėjo antrą ir trečią LTI tomus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Straipsnis dvel­
-    kė ramybe, rimtumu, didele erudicija ir bylojo apie ne
-    vienų metų svarstymus. T. Narbuto pavardė nebuvo pa­
-    minėta, nors ant J. I. Kraševskio stalo, be jokios abejo­
-    nės, jąu gulėjo ne tik antras, bet ir trečias LTI tomas.
-    Taigi konkretus apmąstymų objektas nebuvo nurodytas,
-    nors, įsigilinus į rašinio tekstą, jį galima nesunkiai nu­
-    spėti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174916
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 9"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 9."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Straipsnis dvel­
     kė ramybe, rimtumu, didele erudicija ir bylojo apie ne

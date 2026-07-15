@@ -35,8 +35,8 @@ Narbutas rašo, kad kaukų garbintojai nakčiai palikdavo jiems maisto ir iš jo
   teiginys: "Narbutas rašo, kad kaukų garbintojai nakčiai palikdavo jiems maisto ir iš jo suvalgymo pranašaudavo panašiai kaip su barstukais."
   pagrindžia:
     - c-172039
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad kaukų garbintojai nakčiai palikdavo jiems maisto ir iš jo suvalgymo pranašaudavo panašiai kaip su barstukais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -61,16 +61,22 @@ Narbutas rašo, kad kaukų garbintojai nakčiai palikdavo jiems maisto ir iš jo
 - id: c-172039
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 182"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Siu kaukų garbintojai nakčiai tam tikrose vietose padėda­
-    vo jiems maisto; iš jo suvalgymo pranašaudavo panašiai kaip
-    su barstukais.
-    Šie dievaičiai atitinka Antikos Paną.
-    Prūsijos kronikininkų, besivadovaujančių Olafo Didžiojo
-    „Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­
-    viai perėmę iš skandinavų.
+    O
+    čia surinksime visokias išlikusias žinias apie dangaus kūnų su­
+    dievinimą, kadangi aukščiau nurodėme ne vieną dievaitį, tie­
+    siogiai kilusį iš šio šaltinio, ir kitus, galėjusius būti tos kilmės;
+    kadangi užrašai žuvo, šito tiksliai aprašyti negalėjome. Be jo­
+    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
+    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
+    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
+    no, gyveno ši tauta, garbinusi dangaus kūnus .
+    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
+    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
+    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
+    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
+  citata_rodoma: "Siu kaukų garbintojai nakčiai tam tikrose vietose padėda­\nvo jiems maisto; iš jo suvalgymo pranašaudavo panašiai kaip\nsu barstukais.\nŠie dievaičiai atitinka Antikos Paną.\nPrūsijos kronikininkų, besivadovaujančių Olafo Didžiojo\n„Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­\nviai perėmę iš skandinavų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

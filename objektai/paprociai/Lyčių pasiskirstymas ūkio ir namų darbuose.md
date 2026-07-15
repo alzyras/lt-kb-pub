@@ -53,24 +53,9 @@ Nenurodyta
   teiginys: "Motriškosios po namus trūsėjo, audė, švarino namus, tiekė drabužius ir saugojo viežlybumą."
   pagrindžia:
     - c-09947
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tuo tarpu motriškosios po namus trūsėjo. Žiemą linus šukavo, vilnas kedino ir verpė, vienos audė audeklus,
-        beje: audimus, samplėšinius^373 , viennyčius, trinyčius, šešioliknyčius, milus, kecius^374 , kitos arė,
-        sėjo, šieną pjovė ir grėbė, javus nuo dirvų valijo^375 , daržus ravėjo, gyvulius liuobė bei kutino ir namus
-        gerbė, beje, suolus, staktas, palanges, duris iš vidaus ir lauko, kaip sakiau, švietė^376 , nuotakos
-        sau kraičius klodamos, o senosios butai drabužį tiekdamos, trumpai sakant, motriškosios varė
-        plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

@@ -7,13 +7,13 @@ datos:
   - '1757 m.'
 date_start: '1757'
 date_end: ''
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - priesaika
   - paprotys
-amziai:
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -63,8 +63,8 @@ Nenurodyta
   teiginys: "Narbutas aprašė, kad išteisinimo priesaikoje kaltinamasis tardavo priesaikos žodžius ir į kepurę dėdavo piniginį užstatą."
   pagrindžia:
     - c-172664
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas kepurių padėjimą teismo liudijimuose aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -89,32 +89,6 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas aprašė, kad išteisinimo priesaikoje kaltinamasis tardavo priesaikos žodžius ir į kepurę dėdavo piniginį užstatą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šie
-    paprasti žodžiai, kupini nuoširdaus išpažinimo ir ryžtingai ra­
-    ginantys pasitikėti, yra senųjų lietuvių būdo bruožas; jiems liu­
-    dytojo sąžiningumas buvo ne žaislas. Jeigu priesaiką duodavo
-    tam, kad kas nors būtų išteisintas, tai tas, kuris norėjo būti ištei­
-    sintas, sakydavo priesaikos žodžius, o kaip užstatą duodavo tam
-    tikrą pinigų sumą, pavyzdžiui, rublį grašiais; jeigu ieškinį patei­
-    kusi pusė sutikdavo su priesaikos žodžiais, tai yra su kepurės
-    padavimu, priesaiką priimdavo, bet jai būtinai reikėjo sumokėti
-    rublį grašiais, kurie buvo kepurėje. Kartais toji pusė, kuri norėjo
-    būti išteisinta, pasišaukdavo ieškinį pateikusią pusę arba jos liu­
-    dytojus ir paduodavo kepurę pirma įdėję rublį grašiais; jeigu prie­
-    saiką priimdavo, prie tų pinigų pridėdavo besibylinėjančių teis­
-    me arba jų liudytojų, o kartais ir visų iš karto kepures.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172663
@@ -122,18 +96,18 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šaltinis
-    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
-    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
-    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
-    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
-    17 Lieflandische Geschichte (1757 metų leidimas. -  P. 32).
-    II. 93
-    321
-
-    ## Puslapis 321
-
-    lietuvių liudijimo būdas su užkeikimu arba priesaika.
+    Hartknochas, mėgstantis viską pritempti prie germaniš­
+    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
+    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
+    tus1 2. Bet Dusburgietis, artimiausias lietuvių genties tautų se­
+    novės liudytojas, sako aiškiai, kad senovės prūsų laiko skaičia­
+    vimas buvo visiškai toks pat kaip kryžiuočių; tarpusavio susi­
+    tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
+    ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
+    vuose išlikę duomenys iš XIII amžiaus.
+    Lietuviai nuo seniausių amžių dalijo laiką į valandas
+    (lYahmda) , o jos skirstytos į dienos ir nakties.
+  citata_rodoma: "Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas. -  P. 32).\nII. 93\n321\n\n## Puslapis 321\n\nlietuvių liudijimo būdas su užkeikimu arba priesaika."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -144,8 +118,7 @@ Nenurodyta
 - id: c-172664
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 321"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 321."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šie
     paprasti žodžiai, kupini nuoširdaus išpažinimo ir ryžtingai ra­

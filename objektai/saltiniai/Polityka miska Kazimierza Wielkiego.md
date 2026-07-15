@@ -40,28 +40,6 @@ Paszkiewicz : Polityka miska Kazimierza Wielkiego, Warszawa 1925, 189 p. (^11) Z
   teiginys: "H. Paszkiewicziaus „Polityka miska Kazimierza Wielkiego“ išleista Varšuvoje 1925 m. ir turi 189 puslapius."
   pagrindžia:
     - c-33691
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kaip taisyklė — pagonys vyrai buvo žu­
-    domi, o moterys su vaikais išvedami nelaisvėn. Nors paties ordino
-    kronikų paduodami skaičiai yra su didelėmis spragomis, bet jie,
-    krūvon suvesti, palieka įspūdį apie didelius gyventojų nuostolius^13.
-    Karams pasibaigus, nuo XV amž. vidurio reikėjo vidaus koloniza­
-    (^10) **W. Semkowicz :** **_Hanul, namiestnik wileński,_** **A W, t. 7, 1930, 9 p. —•
-    H. Paszkiewicz :** **_Polityka miska Kazimierza Wielkiego,_** **Warszawa 1925,
-    189 p.**
-    (^11) **Z. Ivinskis :** **_Handelsbeziehungen des Grossfürstentums Litauen mit
-    Riga im 14.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

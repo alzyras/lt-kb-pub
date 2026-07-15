@@ -33,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Nesinori smulkiai pasakoti, ką valdovai nu tarė šiame suvažiavime.
+Nesinori smulkiai pasakoti, ką valdovai nu tarė šiame suvažiavime. Konstantinas Ostrogiškis, grįžęs į Vilnių, pastatė Nedalomosios Trejybės vienuolyną vienuoliams, kurie laikėsi rusų apeigų ir pakluso Romos popiežiui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -55,45 +55,67 @@ Nenurodyta
   teiginys: "Nesinori smulkiai pasakoti, ką valdovai nu tarė šiame suvažiavime."
   pagrindžia:
     - c-176174
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Nesinori smulkiai pasakoti, ką valdovai nu tarė šiame suvažiavime.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Penki tūkstančiai raitijos palydėjo karalius
-    ligi miesto, o kiti raiteliai bei pėstininkai liko saugoti
-    palapinių. Nesinori smulkiai pasakoti, ką valdovai nu­
-    tarė šiame suvažiavime. Dėl Lietuvos reikalų susitarta
-    šitaip: imperatorius arba nutrauksiąs draugystę su mas-
-    kvėnais ir kryžiuočiais, arba ir vienus, ir kitus paska­
-    tinsiąs savo autoritetu prašyti taikos ir taikytis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196245"></a>
+- t-002
+  global_id: t-196245
+  teiginys: "Konstantinas Ostrogiškis, grįžęs į Vilnių, pastatė Nedalomosios Trejybės vienuolyną vienuoliams, kurie laikėsi rusų apeigų ir pakluso Romos popiežiui."
   pagrindžia:
-    - t-001
+    - c-178594
 
 ## Citatos
 
 - id: c-176174
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 635"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 635."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Penki tūkstančiai raitijos palydėjo karalius
-    ligi miesto, o kiti raiteliai bei pėstininkai liko saugoti
-    palapinių. Nesinori smulkiai pasakoti, ką valdovai nu­
-    tarė šiame suvažiavime. Dėl Lietuvos reikalų susitarta
-    šitaip: imperatorius arba nutrauksiąs draugystę su mas-
-    kvėnais ir kryžiuočiais, arba ir vienus, ir kitus paska­
-    tinsiąs savo autoritetu prašyti taikos ir taikytis.
+    Kai
+    susijaudinęs imperatorius tarė:
+    ,,Štai diena, kurią
+    mums suteikė viešpats", Žygimantas pridūrė: „Tegu
+    dievas ir padaro, kad šis susitikimas atneštų sėkmę bei
+    laimę mūsų valdoms bei visam krikščioniškajam pasau­
+    liui". Paspaudę po to draugiškai vieni kitiems rankas,
+    nutarė susitikti dar kartą ir aptarti visus reikalus, mat
+    kiekvienam rūpėjo kuo greičiausiai sugrįžti į savo pos­
+    tovį, priimti žymius didikus, atvykusius jų pasveikin­
+    ti, ir pasitarti su šiais vyrais. Valdovus atlydėjusias
+    svitas sudarė įvairiausių Europos tautų atstovai; visi
+    skirtingai apsirengę, visi nepaprastai puošnūs, ir šitai
+    teikė žiūrovams tokį didingą reginį, kokį bebuvo ga­
+    lima matyti nebent per romėnų triumfo eisenas.
+  citata_rodoma: "Penki tūkstančiai raitijos palydėjo karalius\nligi miesto, o kiti raiteliai bei pėstininkai liko saugoti\npalapinių. Nesinori smulkiai pasakoti, ką valdovai nu­\ntarė šiame suvažiavime. Dėl Lietuvos reikalų susitarta\nšitaip: imperatorius arba nutrauksiąs draugystę su mas-\nkvėnais ir kryžiuočiais, arba ir vienus, ir kitus paska­\ntinsiąs savo autoritetu prašyti taikos ir taikytis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193473
+
+- id: c-178594
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Konstantinui laimėjus
+    kovą, pradėjo atvirai remti karalių ir netrukus patrau­
+    kė į Maskvos kunigaikštystę, nusiaubdamas didelius
+    plotus ir išsivesdamas šimtą tūkstančių belaisvių. Ost­
+    rogiškis, sugrįžęs į Vilnių, iš visos širdies padėkojo
+    aukščiausiajam, pastatydamas didelį Nedalomosios tre-
+    jybės vienuolyną ir jį paskirdamas vienuoliams, kurie,
+    6 3 4
+    I
+
+    laikydamiesi rusų apeigų, paklūsta Romos popiežiui.
+    Karalius bei karalienė, iškilmingai Vilniuje per mišias
+    padėkoję viešpačiui dievui už pergalę, pasiuntė Ro­
+    mos popiežiui kaip dovaną keturiolika į nelaisvę pa­
+    imtų maskvėnų — pačių žymiausiųjų didikų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196245

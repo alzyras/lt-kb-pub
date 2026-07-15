@@ -54,30 +54,13 @@ Nenurodyta
   teiginys: "S. Grunau rašė, kad Romovės ąžuolo uoksuose stovėjo dievų trejybės stabai: Perkūnas, Patulas ir Patrimpas."
   pagrindžia:
     - c-60313
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'S. Grunau rašė, kad Romovės ąžuolo uoksuose stovėjo dievų trejybės stabai: Perkūnas, Patulas ir Patrimpas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    XVI a. 1-oje pusėje S. Grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas
-    ąžuolas, kurio kamienas buvęs padalytas  į tris lygias dalis, kiekvienoje jų — iškirstas
-    langas ar uoksas, juose stovėję dievų trejybės stabai; Perkūno, Patulo ir Patrimpo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60313
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     XVI a. 1-oje pusėje S. Grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas
     ąžuolas, kurio kamienas buvęs padalytas  į tris lygias dalis, kiekvienoje jų — iškirstas

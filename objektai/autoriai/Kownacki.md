@@ -34,29 +34,6 @@ Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
   teiginys: "Kownackis nenorėjo tikėti, kad miestai patys vieni galėjo pristatyti tokią daugybę ginkluotų žmonių."
   pagrindžia:
     - c-84052
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kownackis nenorėjo tikėti, kad miestai patys vieni galėjo pristatyti tokią daugybę ginkluotų žmonių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ta­
-    čiau J. W. Bandtkie Zbiór roz­
-    praw o przedmiotach praw polskich,
-    I. 57 ir j. S . Bandtkie Dzieje
-    Królestwa Polskiego, I, p. 211, ir paga­
-    liau Kownacki  Histor. Bolesława
-    II, p. 114 - nenori tikėti, kad tokią
-    daugybę ginkluotų žmonių miestai
-    patys vieni būtų galėję anais laikais
-    pristatyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

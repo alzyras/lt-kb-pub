@@ -63,27 +63,6 @@ Sovietmečio kasdienybėje deficitas reiškė apytuštes parduotuves, maisto ir 
   teiginys: "Sovietmečiu parduotuvės buvo apytuštės, trūko maisto produktų, o žmonės ilgose eilėse laukdavo talonų vartojimo prekėms įsigyti."
   pagrindžia:
     - c-23540
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tokia
-    politika pasiteisino ir pagal to meto sąlygas davė palyginti gerų rezultatų.
-    Neatsitiktinai Lietuva vadinta Sovietų Sąjungos ferma, nes daug investicijų
-    nukreipta į žemės ūkio ir maisto pramonės sektorius. Tačiau tai nereiškė
-    gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trū-
-    ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,
-    ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, tele-
-    vizorius, be to, katastrofiškai trūko butų, medicinos reikmenų, vaistų – fak-
-    tiškai viskas buvo deficitas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Šaltiniai ir įrodymai
 

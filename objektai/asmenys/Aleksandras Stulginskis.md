@@ -45,43 +45,12 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   teiginys: "Aleksandras Stulginskis buvo išrinktas Steigiamojo Seimo pirmininku, o 1922–1926 m. ėjo Lietuvos prezidento pareigas."
   pagrindžia:
     - c-166913
-
-<a id="claim-t-63438"></a>
-- t-002
-  global_id: t-63438
-  teiginys: "Aleksandras Stulginskis buvo išrinktas Steigiamojo Seimo pirmininku, o 1922–1926 m. ėjo Lietuvos prezidento pareigas."
-  pagrindžia:
-    - c-166913
 - susijęs iš [[objektai/asmenys/Kazys Grinius.md#claim-t-183550|Kazys Grinius]]: Liaudininkas Kazys Grinius vadovavo birželio 19 d. sudarytai vyriausybei.
 - susijęs iš [[objektai/asmenys/Kazys Grinius.md#claim-t-19062|Kazys Grinius]]: Liaudininkas Kazys Grinius vadovavo birželio 19 d. sudarytai vyriausybei.
 - susijęs iš [[objektai/grupes/Steigiamasis seimas.md#claim-t-74950|Steigiamasis seimas]]: Steigiamasis Seimas 1922 m. rugpjūčio 1 d. Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.
 - susijęs iš [[objektai/ivykiai/Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas.md#claim-t-77915|Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas]]: Steigiamasis Seimas vienbalsiai priėmė Lietuvos valstybės nepriklausomybės proklamavimo dokumentą.
 - susijęs iš [[objektai/posakiai/„etnologinėmis sienomis“.md#claim-t-183491|„etnologinėmis sienomis“]]: Steigiamasis Seimas vienbalsiai priėmė dokumentą, skelbusį Lietuvą nepriklausoma valstybe su „etnologinėmis sienomis“.
 - susijęs iš [[objektai/posakiai/„etnologinėmis sienomis“.md#claim-t-20892|„etnologinėmis sienomis“]]: Vasario 16 Aktas skelbė Lietuvą nepriklausoma valstybe su „etnologinėmis sienomis“.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m. išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko Kazio Griniaus vadovaujama vyriausybė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius. Vien-
-    balsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo
-    dokumentas, kuris dar kartą, kaip ir 1918 m. Vasario 16 Aktas, skelbė,
-    kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
-    tikriausiai turėjo reikšti, kad kiek atsitraukta vien nuo etnografinių sienų
-    planų, turint viltį, kad teritorija padidės. Steigiamojo Seimo pirmininku
-    išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m.
-    išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko
-    Kazio Griniaus vadovaujama vyriausybė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-166913
@@ -103,5 +72,4 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183519
     - t-63438

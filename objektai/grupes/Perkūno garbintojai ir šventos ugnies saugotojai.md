@@ -41,38 +41,6 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   teiginys: "Apie 1345 metus Vilniaus prastuomenę galėjo pakiršinti Perkūno garbintojai ir šventos ugnies saugotojai."
   pagrindžia:
     - c-82747
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Apie 1345 metus Vilniaus prastuomenę galėjo pakiršinti Perkūno garbintojai ir šventos ugnies saugotojai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    T. Il,
-    9. - medinės bažnyčios ir bazilijo­
-    nų vienuolyno įkūrimą Vilniuje pri­
-    skiria Vitebsko kunigaikštytei Juli-
-    27
-
-    ## Puslapis 44
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    sykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant
-    Vilniuje. Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
-    mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­
-    kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­
-    menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o
-    gal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,
-    smurtu užėmusi pranciškonų vienuolyną, septynis vienuo­
-    lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
-    bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
-    atminti stovi kryžiai, Vilnios upės bangose žūtį rado19.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

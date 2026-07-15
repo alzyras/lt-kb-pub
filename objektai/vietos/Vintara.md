@@ -36,29 +36,6 @@ media_all_json: |-
   teiginys: "Kariuomenių išsidėstymą natūroje atitinka Vintaros, o ne Žirnajos, padėtis; Vintara yra dešinysis Žirnajos intakas, tekantis per dabartinį Pabaiską."
   pagrindžia:
     - c-45426
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Taip jos kelias paras stovėjo, susikaupę
-    laukė mūšio. Šią kariuomenių išsidėstymo
-    situaciją natūroje atitinka ne Žirnajos (kaip
-    įprasta istoriografijoje), bet jos dešiniojo
-    intako Vintaros, tekančios per dabartinį
-    Pabaisko miestelį, padėtis.
-
-    Kokiose pozicijose buvo sustojusi kelyje
-    Gelvonų link Švitrigailos - Ordino ka-
-    riuomenė, ar buvo perėjusi Žirnajos upę
-    (kaip teigiama istoriografijoje), nėra aišku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

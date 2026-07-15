@@ -63,83 +63,12 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 - susijęs iš [[objektai/ivykiai/Kampsvykių pilies užkariavimas.md#claim-t-62307|Kampsvykių pilies užkariavimas (pilis)]]: Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį, išžudė jos karius ir sudegino pilį iki pamatų.
 - susijęs iš Arsa: Kampsvykių pilis stovėjo prie Arsos upės, o Ordino broliai po puolimo ją sudegino iki pamatų.
 - susijęs iš Arsa: Arsa resp. Arsė tapatinta ir su Vangrape (Tepenas M.).
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kampsvykių pilis taip pat tapatinama su Kamantų piliakalniu kairiajame Vangrapės krante, į šiaurę nuo Darkiemio.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    D. aprašomos castrum Cameniswikam (Kampsvykių) pilies ieškoma ir gerokai toliau
-    į pietus, kur ji tapatinama su Kamantų (Kamanten) piliakalniu kair. Vangrapės krante
-    per 3 km į šiaurę nuo Darkiemio (dab. Oziorskas; HE, p. 65; CV, t. 33, p. 270)„ netoli
-    kurio teka Vyko upelis, deš. Vangrapės intakas. Vis dėlto čia greičiausiai buvęs XIV a.
-    pabaigos kelių aprašyme (SRP, 2, p. 689) minimas Caniswig (Mortensen H., Mortensen
-    G., Die Besiedlung.., 2, p. 78—80). Arsos upelis ir čia nežinomas, tik spėjamas, kaip ir
-    prie mūsų minėtų Tamoviškių. Pastarųjų pirminė forma Cammow bei išlikę vietovardžiai
-    leistų, mūsų nuomone, Dusburgiečio aprašytos pilies vietą sieti su vėlesne kryžiuočių
-    Tamoviškių pilimi į rytus nuo Įsruties. Problemą patikslintų archeologiniai tyrimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1275 m. sunaikinta nadruvių Kampsvykių pilis lokalizuojama Kampsvykalnyje, dešiniajame Vangrapės krante.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Todėl nadruviai, nors turėjo
-    daugybę karių ir nemaža įtvirtinimų, paliovė rodę laukinę narsą ir pasidavė tikėjimui bei
-    broliams, išskyrus nedaugelį, kurie pasitraukė į Lietuvos žemę; šitaip Nadruvos žemė po
-
-      463  D.—  castrum  Cameniswikam,  Jer.—  vestine   [...]  Kameinswikin;  vėliau
-    Kamswicusberg. Į rytus nuo Įsruties (dab. Černiachovskas), deš. Vangrapės krante,
-    upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių..,
-    p. 190—191), per 400 m į pietus nuo Tamoviškių. Čia lokalizuojama 1275 m. sunaikinta
-    nadruvių pilis (HE, p. 161; CV, t. 34, p. 129) bei vėlesnė Ordino Tamoviškių pilis (1366
-    m.— Cammow, 1371 m. ir vėliau — Tammow — SRP, 2, p. 557, 570, 578, 581).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį ir ją sudegino iki pamatų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    178 (173). Apie Kampsvykių pilies užkariavimą
-
-      Paskui  magistras su  didele kariuomene  perėjo Nadruvos žemę, plėšdamas  ir
-    degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė,
-    tinkamai parengęs visa, kas tam reikalinga; abiem šalims patyrus didelių nuostolių
-    sužeistaisiais, nes šioje pilyje buvo 200 įgudusių karių, broliai galop po ilgų ir atkaklių
-    grumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus
-    paėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino.
-
-
-
-
-                 179 (174).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-59077
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 151"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 151."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     D. aprašomos castrum Cameniswikam (Kampsvykių) pilies ieškoma ir gerokai toliau
     į pietus, kur ji tapatinama su Kamantų (Kamanten) piliakalniu kair. Vangrapės krante
@@ -160,8 +89,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 - id: c-59078
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 151"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 151."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Todėl nadruviai, nors turėjo
     daugybę karių ir nemaža įtvirtinimų, paliovė rodę laukinę narsą ir pasidavė tikėjimui bei
@@ -183,22 +111,16 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 - id: c-59079
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 151"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 151."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     178 (173). Apie Kampsvykių pilies užkariavimą
-
-      Paskui  magistras su  didele kariuomene  perėjo Nadruvos žemę, plėšdamas  ir
+    Paskui magistras su didele kariuomene perėjo Nadruvos žemę, plėšdamas ir
     degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė,
     tinkamai parengęs visa, kas tam reikalinga; abiem šalims patyrus didelių nuostolių
     sužeistaisiais, nes šioje pilyje buvo 200 įgudusių karių, broliai galop po ilgų ir atkaklių
     grumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus
     paėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino.
-
-
-
-
-                 179 (174).
+    179 (174).
   citata_rodoma: "Apie Kampsvykių pilies užkariavimą\n\n  Paskui  magistras su  didele kariuomene  perėjo Nadruvos žemę, plėšdamas  ir\ndegindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė,\ntinkamai parengęs visa, kas tam reikalinga; abiem šalims patyrus didelių nuostolių\nsužeistaisiais, nes šioje pilyje buvo 200 įgudusių karių, broliai galop po ilgų ir atkaklių\ngrumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus\npaėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino.\n\n\n\n\n             179 (174)."
   statusas: verified
   teiginio_tipas: faktas

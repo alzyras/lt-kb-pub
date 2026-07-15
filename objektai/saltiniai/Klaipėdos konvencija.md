@@ -59,43 +59,6 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
   teiginys: "1924 m. Paryžiuje pasirašyta Klaipėdos konvencija oficialiai pavertė Klaipėdos kraštą Lietuvos Respublikos autonomine dalimi."
   pagrindžia:
     - c-43265
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1924 m. Paryžiuje pasirašyta Klaipėdos konvencija oficialiai pavertė Klaipėdos kraštą Lietuvos Respublikos autonomine dalimi.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vasario 16 d. Santarvės šalių atstovai po
-    ilgų derybų pripažino Klaipėdos kraštą
-    Lietuvai. Tos dienos vakare Lietuvos ka-
-    riuomenė įžygiavo į Klaipėdą. 1924 m.
-    Paryžiuje buvo pasirašyta Klaipėdos kon-
-    vencija, Klaipėdos kraštas oficialiai tapo
-    Lietuvos Respublikos autonomine dalimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investici-
-    joms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja... 1939 m.
-    pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
-    (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipė-
-    dai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -133,5 +96,5 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-125067
     - t-125066
+    - t-125067

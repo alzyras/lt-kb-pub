@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų. Kadangi Maskvos didikai atkirto, kad ne gali būti nė kalbos apie šitokias sąlygas, pradėta derė tis dėl kitokių taikos formulių.
+Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų. Maskvos didikams atmetus siūlytas taikos sąlygas, Lietuvos legatai pradėjo derėtis dėl kitokių taikos formulių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -52,89 +52,36 @@ Nenurodyta
 <a id="claim-t-193363"></a>
 - t-002
   global_id: t-193363
-  teiginys: "Kadangi Maskvos didikai atkirto, kad ne gali būti nė kalbos apie šitokias sąlygas, pradėta derė tis dėl kitokių taikos formulių."
+  teiginys: "Maskvos didikams atmetus siūlytas taikos sąlygas, Lietuvos legatai pradėjo derėtis dėl kitokių taikos formulių."
   pagrindžia:
     - c-176090
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
-    nislovo Daugirdo, susitarė su
-    T a ik o s
-    d e r y b o s
-    su
-    Vasilijumi tęsti pradėtas tai-
-    m a sk v ė n a is
-    kos derybas. Vasilijus pri­
-    mygtinai reikalavo, kad ka­
-    raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­
-    viau galėsiąs tramdyti saviškius, jei šie susimanys be
-    saiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­
-    kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-
-    iždininkiui, ir Jonui Gornostajui, raštininkui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kadangi Maskvos didikai atkirto, kad ne gali būti nė kalbos apie šitokias sąlygas, pradėta derė tis dėl kitokių taikos formulių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šie ilgai
-    aiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­
-    džiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­
-    riomis kitados buvusi sudaryta sutartis tarp jo senelio
-    Vasilijaus ir karaliaus Kazimiero, arba tomis, kurias
-    6 4 9
-
-    ## Puslapis 648
-
-    buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
-    Vasiljevičius. Kadangi Maskvos didikai atkirto, kad ne­
-    gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
-    tis dėl kitokių taikos formulių. Vis dėlto ir šie legatai
-    tiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­
-    dangi maskvėnai nenorėjo grąžinti ne tik Smolensko
-    žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
-    ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
-    susitarus dėl taikos, išvykti iš Maskvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-168994
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 647"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 647."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
-    nislovo Daugirdo, susitarė su
-    T a ik o s
-    d e r y b o s
-    su
-    Vasilijumi tęsti pradėtas tai-
-    m a sk v ė n a is
-    kos derybas. Vasilijus pri­
-    mygtinai reikalavo, kad ka­
-    raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­
-    viau galėsiąs tramdyti saviškius, jei šie susimanys be
-    saiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­
-    kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-
-    iždininkiui, ir Jonui Gornostajui, raštininkui.
+    Magistras, už didelius pinigus pasisam­
+    dęs Vokietijoje dešimt tūkstančių algininkų, įsiveržė
+    su šia kariuomene, vedama maršalo Ditricho fon Šen-
+    bergo, į tas Prūsijos apygardas, kurios priklausė kara­
+    liui. Vis dėlto Ditrichas, ryžęsis po pirmųjų sėkmingų
+    kovų kur kas didesniems žy-
+    K ry žiu o č ių m a g istra s
+    giams, nei turėjo jėgų, pra­
+    simi ušamas P rū sijo je
+    žudė visą kariuomenę. Už­
+    ėmęs pasidavusį Tčevą bei
+    Ornetą, patraukė į Gdanską, bet čia patyrė didelių
+    nuostolių. Ir karo pabūklai, šaudantys nuo sienų, ir
+    dažni išpuoliai taip pakirto jo jėgas, kad neteko ketu­
+    rių tūkstančių vyrų. Po šios nesėkmės užgriuvo kita —
+    nepaprastas badas, kuris gyvuosius taip išsekino, kad
+    jie vargiai begalėjo išlaikyti rankose ginklą, galop ir
+    tie padėjo galvas, atskubėjus iš Lenkijos bei Lietuvos
+    karaliaus pulkams.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -154,8 +101,6 @@ Nenurodyta
     Vasilijaus ir karaliaus Kazimiero, arba tomis, kurias
     6 4 9
 
-    ## Puslapis 648
-
     buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
     Vasiljevičius. Kadangi Maskvos didikai atkirto, kad ne­
     gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
@@ -165,6 +110,7 @@ Nenurodyta
     žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
     ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
     susitarus dėl taikos, išvykti iš Maskvos.
+  citata_rodoma: "Šie ilgai\naiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­\ndžiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­\nriomis kitados buvusi sudaryta sutartis tarp jo senelio\nVasilijaus ir karaliaus Kazimiero, arba tomis, kurias\n6 4 9\n\n## Puslapis 648\n\nbuvo sutarę karalius Aleksandras ir jo tėvas Ivanas\nVasiljevičius. Kadangi Maskvos didikai atkirto, kad ne­\ngali būti nė kalbos apie šitokias sąlygas, pradėta derė­\ntis dėl kitokių taikos formulių. Vis dėlto ir šie legatai\ntiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­\ndangi maskvėnai nenorėjo grąžinti ne tik Smolensko\nžemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po\nilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­\nsusitarus dėl taikos, išvykti iš Maskvos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

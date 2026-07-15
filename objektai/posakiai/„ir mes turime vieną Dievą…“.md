@@ -42,29 +42,6 @@ Lietuva liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmė
 - susijęs iš [[objektai/zodynas/civilizacinė monada.md#claim-t-77791|civilizacinė monada]]: Lietuva apibūdinta kaip savarankiška civilizacinė monada, nes Gediminas ir Algirdas vadinosi karaliais be pripažinimo iš svetur.
 - susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67158|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau Europa tarsi atstūmė Lietuvą nuo krikščionybės.
 - susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto.md#claim-t-54305|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]: Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau kryžiaus karų epochos Europa, nebeleisdama savarankiško krikšto, tarsi atstūmė Lietuvą nuo krikščionybės.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    kišką etnosą, o Netimero vadovaujamiems pajudėti toliau nuo gentinės
-    santvarkos į valstybę, į kurią būtų verta traukti misionieriams. Lietuva
-    liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis
-    ir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar
-    gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo
-    laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir
-    iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą,
-    kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
-    Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
-    išpranašaus Vilniaus įkūrimą ir šlovę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-23624

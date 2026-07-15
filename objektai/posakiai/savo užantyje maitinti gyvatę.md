@@ -61,45 +61,6 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
   teiginys: "Jogaila teigė, kad laikytis išvien su Vytautu reikštų savo užantyje maitinti gyvatę."
   pagrindžia:
     - c-38391
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    6 d. Jogaila atsakė į šį Ordino raštą.
-    Be kitų reikalų, liečiančių Mozūrijos klausimą, Jogaila tame
-    rašte pažymėjo, kad pusbrolį priimti atsisakąs, motyvuodamas
-    tuo, jog nepasitikįs pabėgėlio tiesumu ir negalįs jo priėmimo su­
-    derinti su savo krašto gerove. Atsisakydamas jį priimti, Jo­
-    gaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo
-    užantyje maitinti gyvatę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Be kitų reikalų, liečiančių Mozūrijos klausimą, Jogaila tame
-    rašte pažymėjo, kad pusbrolį priimti atsisakąs, motyvuodamas
-    tuo, jog nepasitikįs pabėgėlio tiesumu ir negalįs jo priėmimo su­
-    derinti su savo krašto gerove. Atsisakydamas jį priimti, Jo­
-    gaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo
-    užantyje maitinti gyvatę. Baigdamas savo atsakymą, didysis
-    Lietuvos kunigaikštis pastebi magistrui, kad šis paliautų toliau
-    žemaičius viliojęs, nes pastarieji yra pasidavę jam ir jo broliui
-    Skirgailai^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

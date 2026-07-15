@@ -36,24 +36,6 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   teiginys: "Valdymo pabaigoje Kopiliuje liko viena iš atskirų kunigaikštysčių."
   pagrindžia:
     - c-02744
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taip pat jis darė ir su kitomis mažesnėmis kunigaikštystėmis.
-    Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
-    tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
-    ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
-    kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
-    valstybės vieningumui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

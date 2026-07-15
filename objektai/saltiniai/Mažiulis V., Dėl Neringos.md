@@ -35,31 +35,13 @@ Dusburgietis teigia, kad vidurio Ordino dokumentuose atsiranda lytis Neringe.
   teiginys: "Vidurio Ordino dokumentuose atsiranda lytis Neringe."
   pagrindžia:
     - c-61807
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vidurio Ordino dokumentuose atsiranda lytis Neringe.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nuo XV a. vidurio Ordino
-    dokumentuose atsiranda lytis Neringe. Lietuvių kalba težinojusi tokius Kuršių nerijos
-    pavadinimus: Kopos (Kopai), Kalnai, Pajūriai (Pajūrės), Randavos (Mažiulis V., Dėl
-    Neringos..., p. 301—315).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61807
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 169"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nuo XV a. vidurio Ordino
     dokumentuose atsiranda lytis Neringe. Lietuvių kalba težinojusi tokius Kuršių nerijos

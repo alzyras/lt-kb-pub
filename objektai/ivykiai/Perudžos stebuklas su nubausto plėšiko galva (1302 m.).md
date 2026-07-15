@@ -57,38 +57,13 @@ Nenurodyta
   teiginys: "1302 m. Perudžoje nukirsdinto Mariją gerbusio plėšiko galva paprašė kunigo, nes, pasak pasakojimo, Marija neleido jam numirti be išpažinties."
   pagrindžia:
     - c-63055
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1302 m. Perudžoje nukirsdinto Mariją gerbusio plėšiko galva paprašė kunigo, nes, pasak pasakojimo, Marija neleido jam numirti be išpažinties.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie vieną švenčiausiosios mergelės stebuklą
-
-      1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai
-    gerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu:
-    „Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose
-    to prašęs, neleidžia man numirti, kol nebūsiu išpažinęs visų savo nuodėmių”. Šitaip ir
-    įvyko.
-
-
-
-          93.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63055
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 244"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 244."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie vieną švenčiausiosios mergelės stebuklą
 

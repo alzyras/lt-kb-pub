@@ -35,8 +35,8 @@ Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno h
   teiginys: "Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno hiriai ir hendai, Raseinių bei Upytės apskrityse."
   pagrindžia:
     - c-172432
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno hiriai ir hendai, Raseinių bei Upytės apskrityse.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -60,15 +60,18 @@ Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno h
 - id: c-172432
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 142"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 142."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iszskalbk man amzuliali.
-    Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
-    liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai
-    ir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti
-    religinės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie
-    juos dar teks pakalbėti).
+    Gondu
+    suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
+    ant stalo neliestą, o tikrąjį karvojų suvalgo.
+    Kaip tik tai ir bus ta pati deivė, kurią garbino jaunos ro­
+    mėnės, vadindamos Manturna.
+    Upinė (Uppinė )
+    Upių, šaltinių, apskritai tekančio vandens deivė. Upė -Rze-
+    ka, Upinė - Rzeczna. Istorija teigia, kad tai dievybei kaip auka
+    buvo atnašaujami balti paršeliai.
+  citata_rodoma: "Iszskalbk man amzuliali.\nKitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­\nliose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai\nir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti\nreliginės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie\njuos dar teks pakalbėti)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

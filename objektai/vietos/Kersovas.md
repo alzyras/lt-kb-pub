@@ -40,7 +40,6 @@ Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių �
 - susijęs iš [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka.md#claim-t-62312|Kersovo antpuolis ir Lešeko kontrataka]]: Aštuoni šimtai Lietuvos raitelių nuniokojo 10 Kersovo kaimų, o Krokuvos kunigaikštis Lešekas kontratakoje beveik visus juos sunaikino.
 - susijęs iš [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka.md#claim-t-62312|Kersovo antpuolis ir Lešeko kontrataka]]: Aštuoni šimtai Lietuvos raitelių nuniokojo 10 Kersovo kaimų, o Krokuvos kunigaikštis Lešekas kontratakoje beveik visus juos sunaikino.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Aštuoni šimtai Lietuvos raitelių Kersovu vadinamoje Lenkijos žemės dalyje nuniokojo 10 kaimų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -65,16 +64,20 @@ Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių �
 - id: c-59329
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 162"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 162."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    196 (191). Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį
-
-       Neilgai trukus aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų toje Lenkijos žemės
-    dalyje, kuri vadinama Kersovu,  ir, išžudę daugybę krikščionių, pasitraukė su dideliu
-    grobiu. Tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krokuvos kunigaikštis491, subūręs
-    daugybę tūkstančių vyrų, užkopė į vieną kalvą ir pasakė: „Kas nejaučia baimės, tegu tas
-    kopia pas mane, idant šiandien galėtume atkeršyti už nukryžiuotojo kančias”.
+    Tas
+    Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas
+    ar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,
+    nekreipdamas dėmesio į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių
+    ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o
+    kiti išbėgiojo palikę visus turimus ginklus bei visą maistą. Sūduviai dėl to labai džiaugėsi,
+    tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus
+    bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną
+    po kito išvogė jų skydus, kalavijus bei ietis, o turėdamas ginklų, staiga juos su savo
+    bendrais užpuolė ir visus išžudė jų guoliuose, išskyrus vieną, kurį Martynas nukovė
+    pastojęs jam kelią, kuriuo šis mėgino sprukti; po to sugrįžo namo su anksčiau pelnytu
+    grobiu bei šių netikėlių ginklais ir kitais daiktais.
   citata_rodoma: "Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį\n\n   Neilgai trukus aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų toje Lenkijos žemės\ndalyje, kuri vadinama Kersovu,  ir, išžudę daugybę krikščionių, pasitraukė su dideliu\ngrobiu. Tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krokuvos kunigaikštis491, subūręs\ndaugybę tūkstančių vyrų, užkopė į vieną kalvą ir pasakė: „Kas nejaučia baimės, tegu tas\nkopia pas mane, idant šiandien galėtume atkeršyti už nukryžiuotojo kančias”."
   statusas: verified
   teiginio_tipas: faktas

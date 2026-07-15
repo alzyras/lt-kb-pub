@@ -35,33 +35,13 @@ Narbutas darė išvadą, kad vaidilučių pareigas eidavo jaunos merginos iki nu
   teiginys: "Narbutas darė išvadą, kad vaidilučių pareigas eidavo jaunos merginos iki nustatytų metų, o vėliau jos galėdavo ištekėti."
   pagrindžia:
     - c-172226
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas darė išvadą, kad vaidilučių pareigas eidavo jaunos merginos iki nustatytų metų, o vėliau jos galėdavo ištekėti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vis dėlto
-    reikia daryti išvadą, kad tas pareigas eidavo jaunos merginos
-    ir iki nustatytų metų, o vėliau galėdavo ištekėti. Mat žinoma,
-    kad visos vaidilutės buvo nesenos. O tos, kurios norėjo tar­
-    nauti dievams pasibaigus skirtam laikui, pasitraukdavo į nuo­
-    šalias vietas, kur tapdavo ypatingomis pranašautojomis34.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172226
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 300"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 300."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vis dėlto
     reikia daryti išvadą, kad tas pareigas eidavo jaunos merginos

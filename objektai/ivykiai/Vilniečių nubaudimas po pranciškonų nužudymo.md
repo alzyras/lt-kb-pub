@@ -60,39 +60,13 @@ Nenurodyta
   teiginys: "Lietuvos metraštis pasakoja, kad Algirdas po pranciškonų nužudymo pasmerkė myriop penkis šimtus vilniečių pavyzdžio dėlei."
   pagrindžia:
     - c-169881
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir parvyksta didysis kunigaikštis Algirdas į Vilnių.
-    Goštautas žemai lenkdamasis prašė didįjį kunigaikštį
-    Algirdą, idant tuos pagonis, kurie tuos nekaltus vie­
-    nuolius taip žiauriai ir negailestingai žudė, už šitokį jų
-    žiaurumą lieptų nubausti. Ir pats didysis kunigaikštis
-    Algirdas labai liūdėjo, kad taip žiauriai nužudė tuos
-    krikščionis-vienuolius, jam buvo apmaudu, kad krikš­
-    čionims teko patirti tokį žiaurumą. Už tai pasmerkia
-    myriop penkis šimtus vilniečių, kad juos nubaustų pa­
-    vyzdžio dėlei, idant niekas daugiau nebepadarytų krikš­
-    čioniui nieko pikto. Ir anieji buvo nugalabyti, visaip
-    kankinant.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
 - id: c-169881
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 75"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 75."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir parvyksta didysis kunigaikštis Algirdas į Vilnių.
     Goštautas žemai lenkdamasis prašė didįjį kunigaikštį
@@ -112,5 +86,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186570
     - t-186568
+    - t-186570

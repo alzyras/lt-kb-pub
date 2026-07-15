@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kojelavičiaus pasakojime skitai sutartis sudarydavo pildami vandenį ant kardų ir tardami prakeikimą sutarties laužytojui. Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
+Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -42,150 +42,45 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-185591"></a>
-- t-001
-  global_id: t-185591
-  teiginys: "Kojelavičiaus pasakojime skitai sutartis sudarydavo pildami vandenį ant kardų ir tardami prakeikimą sutarties laužytojui."
-  pagrindžia:
-    - c-168952
-
 <a id="claim-t-185592"></a>
-- t-002
+- t-001
   global_id: t-185592
   teiginys: "Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui."
   pagrindžia:
     - c-168953
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kojelavičiaus pasakojime skitai sutartis sudarydavo pildami vandenį ant kardų ir tardami prakeikimą sutarties laužytojui.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Sako, jog skitai,
-    laikydamiesi barbariškųjų papročių, šitaip sudarydavę
-    sutartis: ištraukę iš makštų kardus, pylė ant jų šaltą
-    vandenį ir jį, varvantį nuo aštrių ašmenų, vienas po
-    kito siurbė, pridurdami užkeikimo žodžius, kad, girdi,
-    tas, kas pirmas sulaužysiąs šią sutartį, žūsiąs nelygi­
-    nant šis vanduo. Laikydamasis šio susitarimo, Šich
-    Achmetas su šimtu tūkstančių raitelių užpuolė Severs-
-    ko žemę, baisiai siaubdamas valdas didikų, kurie atsi­
-    metė nuo Lietuvos ir prisijungė prie Maskvos. Staigiu
-    antpuoliu užėmęs Seversko Naugardą, Aleksandro var­
-    du jį bei kitas vietoves, pasidavusias geruoju, atidavė
-    valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru­
-    vinose kautynėse sumušė Mechmet
-    Girėjų, Krymo
-    kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
-    būriais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Staigiu
-    antpuoliu užėmęs Seversko Naugardą, Aleksandro var­
-    du jį bei kitas vietoves, pasidavusias geruoju, atidavė
-    valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru­
-    vinose kautynėse sumušė Mechmet
-    Girėjų, Krymo
-    kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
-    būriais. Po to, įkūręs stovyklą prie Dnepro, netoli Čer­
-    nigovo, pas Aleksandrą išsiuntė Chaleckį ir kelis žy­
-    miausius savo vyrus, kad tie, papasakoję viską iš ei­
-    lės, kas čia dėjosi, paskatintų Aleksandrą užimti su
-    savo kariuomene Severską, sutelkti jėgas ir patraukti
-    į pergalingą žygį, nes Maskvos valdovas esąs beveik
-    sumuštas ir jį galima sutriuškinti menku išpuoliu. Tuo
-    S k ita m s p a d ed a n t, iš
-    M a s k v o s
-    a tim a m a s
-    S e v e is k a s
-    Šich
-    Achmetas,
-    persikėlęs
-    per Volgą ir Doną, įsiveržė
-    su Mykolu Chaleckiu, Alek­
-    sandro karvedžiu, į Severs­
-    ką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
-
-- id: c-168952
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 566"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 566."
-  citata_originali: |
-    Sako, jog skitai,
-    laikydamiesi barbariškųjų papročių, šitaip sudarydavę
-    sutartis: ištraukę iš makštų kardus, pylė ant jų šaltą
-    vandenį ir jį, varvantį nuo aštrių ašmenų, vienas po
-    kito siurbė, pridurdami užkeikimo žodžius, kad, girdi,
-    tas, kas pirmas sulaužysiąs šią sutartį, žūsiąs nelygi­
-    nant šis vanduo. Laikydamasis šio susitarimo, Šich
-    Achmetas su šimtu tūkstančių raitelių užpuolė Severs-
-    ko žemę, baisiai siaubdamas valdas didikų, kurie atsi­
-    metė nuo Lietuvos ir prisijungė prie Maskvos. Staigiu
-    antpuoliu užėmęs Seversko Naugardą, Aleksandro var­
-    du jį bei kitas vietoves, pasidavusias geruoju, atidavė
-    valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru­
-    vinose kautynėse sumušė Mechmet
-    Girėjų, Krymo
-    kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
-    būriais.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185591
 
 - id: c-168953
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 566"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 566."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Staigiu
-    antpuoliu užėmęs Seversko Naugardą, Aleksandro var­
-    du jį bei kitas vietoves, pasidavusias geruoju, atidavė
-    valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru­
-    vinose kautynėse sumušė Mechmet
-    Girėjų, Krymo
-    kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
-    būriais. Po to, įkūręs stovyklą prie Dnepro, netoli Čer­
-    nigovo, pas Aleksandrą išsiuntė Chaleckį ir kelis žy­
-    miausius savo vyrus, kad tie, papasakoję viską iš ei­
-    lės, kas čia dėjosi, paskatintų Aleksandrą užimti su
-    savo kariuomene Severską, sutelkti jėgas ir patraukti
-    į pergalingą žygį, nes Maskvos valdovas esąs beveik
-    sumuštas ir jį galima sutriuškinti menku išpuoliu. Tuo
-    S k ita m s p a d ed a n t, iš
-    M a s k v o s
-    a tim a m a s
-    S e v e is k a s
-    Šich
-    Achmetas,
-    persikėlęs
-    per Volgą ir Doną, įsiveržė
-    su Mykolu Chaleckiu, Alek­
-    sandro karvedžiu, į Severs­
-    ką.
+    Didelę dalį gynybinės sienos priešas su­
+    griovė pabūklais, ir apsuptieji būtų atsidūrę ant pra­
+    žūties slenksčio, jeigu maskvėnai per griuvėsius būtų
+    susimanę iš karto visomis jėgomis veržtis į pilį. Vie­
+    nam ir kitam pareiškus, jog susidariusioje padėtyje
+    reikia pasiduoti, Mikalojus paprašė vienai nakčiai pa­
+    liaubų; priešas, kuriam irgi jau buvo įgrisusios žudy­
+    nės, sutiko, tačiau pareikalavo, kad tą naktį pilyje
+    visai nebūtų vartojami kir-
+    G udriai
+    a p ein a m a
+    viai. Neimdami į rankas kir-
+    paliaubų są ly g a
+    vių, pjūklais kariai prisipjo­
+    vė medžių ir taip žvaliai bei
+    5 67
+
+    išmoningai užtaisė rąstais visus sienų plyšius, kad Še-
+    miačičiai rytą suprato nieku būdu negalėsią užimti pi­
+    lies. Praradę viltį užkariauti Smolenską, jie savo jėgas
+    patraukė prie Mstislavlio, bet ir čia nesusilaukė dides­
+    nės sėkmės. Mat kunigaikštis Ivanas Solomereckis, pa­
+    garsėjęs karvedys, kuriam buvo patikėtas miestas ir
+    apygarda, sėkmingai atrėmė antpuolį.
+  citata_rodoma: "Staigiu\nantpuoliu užėmęs Seversko Naugardą, Aleksandro var­\ndu jį bei kitas vietoves, pasidavusias geruoju, atidavė\nvaldyti Chaleckiui; perėjęs visą Seversko kraštą, kru­\nvinose kautynėse sumušė Mechmet\nGirėjų, Krymo\nkunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais\nbūriais. Po to, įkūręs stovyklą prie Dnepro, netoli Čer­\nnigovo, pas Aleksandrą išsiuntė Chaleckį ir kelis žy­\nmiausius savo vyrus, kad tie, papasakoję viską iš ei­\nlės, kas čia dėjosi, paskatintų Aleksandrą užimti su\nsavo kariuomene Severską, sutelkti jėgas ir patraukti\nį pergalingą žygį, nes Maskvos valdovas esąs beveik\nsumuštas ir jį galima sutriuškinti menku išpuoliu. Tuo\nS k ita m s p a d ed a n t, iš\nM a s k v o s\na tim a m a s\nS e v e is k a s\nŠich\nAchmetas,\npersikėlęs\nper Volgą ir Doną, įsiveržė\nsu Mykolu Chaleckiu, Alek­\nsandro karvedžiu, į Severs­\nką."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

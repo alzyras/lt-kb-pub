@@ -58,26 +58,6 @@ Nenurodyta
   pagrindžia:
     - c-28746
 - susijęs iš Molotovo–Ribentropo paktas: Svarbiausių datų sąraše 1940 m. birželio 15 d. Sovietų Sąjungos įvykdyta Lietuvos okupacija ir aneksija aiškinama kaip Molotovo–Ribentropo pakto realizavimas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tos tradicinės periodizacijos tačiau buvo atsisakyta, kai tik
-    Lietuva buvo komunistų okupuota (1940). Buvo charakteringa,
-    kad spaudoje tuoj prasidėjo niekinimas ne tik prezidento Smetonos
-    ir jo sistemos, bet ir didžiųjų Lietuvos kunigaikščių, labiausiai
-    kritikuojant Vytautą Didįjį^13. Antrojoje okupacijoje sistemingai
-    naujai perrašant Lietuvos istoriją, ir jos vystymosi laikotarpiai
-    buvo kitaip pertvarkyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-28746

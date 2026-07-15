@@ -18,15 +18,15 @@ aliases:
   - 'objektai/daiktai/Sieliai'
 variantai:
   - 'Sieliai'
+amziai:
+  - 'XII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - transportas
   - karo-reikmuo
-amziai:
-  - 'XII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -185,11 +185,9 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179312|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183888|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188260|Lietuviai]]: Narbutas manė, kad dėl gyvenimo prie jūros ir didelių vandenų lietuviai turėjo savo Neptūną, laivininkų globėją.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179359|Livonijos ordinas]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192956|Masiliečiai]]: Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo iki Tarteso tų pačių prekių kaip kartaginiečiai.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183897|Skalviai]]: Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.
 - susijęs iš [[objektai/ivykiai/Antrosios laivų kautynės prie Svečės pilies.md#claim-t-62198|Antrosios laivų kautynės prie Svečės pilies (pilis)]]: Prie Svečės pilies Sventopelkas su ginklanešiais ir 10 laivų vėl užpuolė Elbingo brolių laivus.
-- susijęs iš [[objektai/ivykiai/Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.).md#claim-t-185556|Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.)]]: Pasroviui atskubėję lietuviai Nemune prarado tik vieną saviškį ir privertė priešų laivus pasukti atgal.
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66506|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: 1290 m. gegužės 12 d. Ernekė su Jonu iš Vienos ir 25 ginklanešiais laivais plaukė link Lietuvos pro Kolainių pilį.
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66508|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Gegužės 12 d. Ragainės komtūras brolis Ernekė magistro įsakymu laivais išplaukė Lietuvos link su Jonu iš Vienos ir 25 ginklanešiais.
 - susijęs iš [[objektai/ivykiai/Brolio Ulricho laivų kautynės ir 50 prūsų žūtis.md#claim-t-91911|Brolio Ulricho laivų kautynės ir 50 prūsų žūtis]]: Brolis Ulrichas laivų kautynėse stiebu daužė prūsų laivus ir nuskandino jų tiek, kad kartu su laivais žuvo 50 prūsų.
@@ -224,7 +222,6 @@ Nenurodyta
 - susijęs iš Santyras: Prie Santyro Konradas Bremeris pamatė jo tykojusį Sventopelką su daugybe žmonių ir 20 laivų.
 - susijęs iš Torunė: Vienas Krokuvos kilmingasis į Torunės pilį pasiuntė tris laivus su maistu ir gėrimais, 300 jaučių bei karvių ir daug kinkomų gyvulių.
 - susijęs iš Trapėnai: 1363 m. balandį Ordino magistras su kariuomene Nemunu priplaukė Trapėnus, ten įtvirtino paliktus laivus ir patraukė prie Naujojo Kauno pilies.
-- susijęs iš Vilnius: Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš [[objektai/zodynas/Gardaitis.md#claim-t-189222|Gardaitis]]: Narbutas Gardaitį (Gardoeldius) apibūdina kaip vėjų, audrų ir jūros potvynių dievą bei jūrinių ar visokių laivų globėją.
 - susijęs iš [[objektai/zodynas/Vylius Wilius.md#claim-t-189259|Vylius Wilius]]: Narbutas Vylingosios vardą veikiau sieja su Vilnia, kurią apibūdina kaip kadaise laivybai tikusią, sraunią ir vingiuotą upę.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54935|Aleksandras Jogailaitis]]: 1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį.
@@ -265,7 +262,6 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178968|Kryžiuočių ordinas]]: Magistras pasiuntė Kryžiuočių ordino kariuomenę į Lenkiją, kur ji apsupo ir sudegino Višogrudo pilį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179021|Kryžiuočių ordinas]]: Mindaugo laikų krikšto bandymui sutrukdė Vokiečių ordino siekis užgrobti Žemaičius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184503|Kryžiuočių ordinas]]: Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotos Lietuvos daliai palengvinti.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184549|Lietuviai]]: Lietuviai krikščionių šventyklose išniekino šventuosius indus, o grįžtančius juos išžudė Kulmo komtūras Konradas Žakas.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89155|Pagudėnai]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89219|Skalviai]]: Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.
 - susijęs iš [[objektai/ivykiai/Baigos pilies užėmimas (1239 m.).md#claim-t-62203|Baigos pilies užėmimas (1239 m.)]]: 1239 m. broliai su ginklanešiais užėmė Baigos pilį, dalį žmonių paėmė į nelaisvę, kitus išžudė ir apsigyveno pilyje.
@@ -334,7 +330,6 @@ Nenurodyta
 - susijęs iš Pagudė: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę ir Elbingo upės saloje pastatė Elbingo pilį.
 - susijęs iš Pagudė: Pavergę pamedėnus, magistras ir broliai 1237 m. atvyko į Pagudės žemę pradėti karo prieš pagudėnus.
 - susijęs iš Paidė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Pernu: Kunigaikštytė Sofija su palyda iš Gdansko laivais per jūrą pasiekė Pernu ir Pskovą.
 - susijęs iš Pernu: Vytautas išleido kunigaikštytę Sofiją iš Marienburgo, o jos palyda iš Gdansko laivais pasiekė Pernu ir Pskovą.
 - susijęs iš Piarnu: Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti veiksmus Rygos miesto blokadai panaikinti.
 - susijęs iš Podolė: Teodoras Narbutas Podoliją priskiria miškingoms stepėms, per kurias jo pasakojime iš Juodosios jūros link Baltijos keliavo atvykėliai.
@@ -351,7 +346,6 @@ Nenurodyta
 - susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę.
 - susijęs iš Vilija: Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš Viljandis: Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Vilnius: 1492 m. karalius Aleksandras patvirtino ankstesnes Vilniaus dovanas ir suteikė naujų privilegijų prekybai bei miestiečių buičiai gerinti.
 - susijęs iš Višogrudas: Magistro pasiųsta kariuomenė Lenkijoje apsupo Višogrudą, Lenkijos karaliaus pilį prie Vyslos.
 - susijęs iš Višogrudas: Magistro pasiųsta kariuomenė Lenkijoje apsupo Višogrudą, Lenkijos karaliaus pilį prie Vyslos.
 - susijęs iš Vysla: Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, o paskui per jūros įlanką įplaukė į Nemuną.
@@ -364,201 +358,9 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70223|maldininkai / maldininko įžadai]]: 1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70224|maldininkai / maldininko įžadai]]: `Maldininko įžadai` šiame šaltinyje žymi laikiną, įžadais apribotą tarnybos ar žygio laiką.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70226|maldininkai / maldininko įžadai]]: Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus.
-- susijęs iš [[objektai/zodynas/papilys.md#claim-t-184633|papilys]]: 1299 m. Brandenburgo komtūras Kanonas sudegino namus Junigedos ir Pieštvės papiliuose.
 - susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-184021|villa kaimas sodžius]]: Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.
 - susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-58881|villa kaimas sodžius]]: Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet (1410.VIII.)
-    Livonijos kariuomenė laivais atvyko Sembon.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-002
-  santrauka: 'Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nors jau V amžiaus pabaigoje,
-    tuoj po Romos valstybės žlugimo,
-    Europos Šiaurės kraštai kentėjo nuo
-    normanų puldinėjimų, bet jie nebu­
-    vo tokie reikšmingi ir grėsmingi,
-    kaip prasidėjusieji sulig didelės Ka­
-    rolio Didžiojo monarchijos žlugimu.
-    Būtent toje epochoje narsių piratų
-    valdomi prasti, bet mitrūs ir lengvi
-    laivai pasklido iš Skandinavijos pu­
-    siasalio po visą Baltijos pakrantę.
-    Sagos, kitaip sakant, senovinės tos
-    tautos legendos, eilėmis ir proza
-    15
-
-    ## Puslapis 32
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios
-    įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių
-    ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
-    bei Lenkiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-003
-  santrauka: '1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    su Vokiečiu Ordinu. Jis darė 1382 m. sausio mėn. žygius į jo
-    žemes, teriodamas Varmijos kraštą; tų metų pavasarį net ar­
-    motomis ginkluotas nuplaukė laivais Nemunu į Ordino sritį ir
-    sustojo ties Jurbarku. Bet pilis nebuvo paimta, nes apsiautimui
-    užtrukus, Kęstutis išgirdo, kad galingas Jogailos šalininkas Di­
-    mitras Kaributas, Novgorodo Sieversko valdytojas, atsisakė jo
-    klausyti ir mokėti duoklę didžiojo kunigaikščio iždui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Galų gale po ilgo delsimo, 1383 metų vasarą turėjo
-    įvykti Ordino magistro ir Jogailos susivažiavimas. Gavęs Jogai­
-    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
-    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
-    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
-    no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
-    apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
-    sos įtakos į Nemuną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-008
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuviai ne kartą puldinėjo Sembą. Pats
-    Vytenis 1311 plėšė Sembą ir Natangą, paskui Varmę, bet Woplau­
-    ken lygumose jo kariuomenė buvo sumušta^20. Kai 1313 m. kry­
-    žiuočiai, pasistatę «karo laivą su sienomis ir daug kitų laivų »
-    atplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,
-    lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
-    100 laivų, kurie priešą nuvijo, o laivą sudegino^21.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-005
-
-- c-006
-  santrauka: 'Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Yra
-    žinių, kad senų senovėje aisčiams daug teko kariauti su skandi-
-    navais (danais ir dabartiniais švedais), kurie nuolat puldavo
-    aisčių kraštus, о IX amž. buvo nęt pavergę kai kurias pajūrio
-    gimines. Aisčiai jau tuomet turėjo savo valstybėlių, kurių vadai
-    dažnai užpuldavo ne tik čia pajūryje įkurtas skandinavų kolo-
-    nijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi
-    jie bus turėję ir laivų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-007
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    kryžiuočiai, kai, Karaliaučiaus komtūrui vadovaujant, atvyko stipri
-    pagalba^34. Su rygiečiais atvykę laivais griauti Neuermühleno pilies,
-    lietuviai skaudžiai pralaimėjo. Prie ano meto didžių skaičių pamė­
-    gimo, Dusburgas užrašė, jog ten kautynėse žuvę 4000 lietuvių ir
-    rygiečių^35.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Lindenblatt Jahrbücher, p. 9 4 .
-    52
-    Tas žygis buvo paskubomis ir slap­
-    ta suruoštas, ir todėl didysis magist­
-    ras tuokart mažai teturėjo svetimša­
-    lių, juk nesigarsino po visą Europą,
-    o slapčia iš Marienburgo išplaukė
-    Vysla laivais, paskui jūros įlanka
-    įplaukė į Nemuną. Mūsų istorikai
-    bendrais bruožais ir ne taip išsamiai
-    apie šitai pasakoja.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-009
-  santrauka: 'Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    7
-
-    ## Puslapis 24
-
-    ĮVADAS
-    Lenkijos miestų, jau XII amžiuje dėl savo prekybinių ryšių bu­
-    vo žinoma net Rytuose. Benjaminas iš Tudelio, žydų kilmės ke­
-    liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne
-    tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau
-    nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
-    tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­
-    linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­
-    čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
-    dajam.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-010
   santrauka: 'Narbutas pasakoja, kad prie Rusnės įlankos danai nedaugeliu didelių, gerai ginkluotų laivų sunaikino rusų jūros pajėgas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -577,38 +379,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-
-- c-011
-  santrauka: 'Ar ba, priešingai, po vandeniu slypin čiais rifais klastingai prigaudavo pir klius, išdrįsusius, Lietuvai su Prūsi ja ėmus prekiauti, leistis į pirmąją kelionę sieliais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    5
-    Žodį Vilija, jeigu jo kilmės imtume
-    ieškoti lietuvių kalboje, galima tarti
-    kilus nuo Wiloju [vilioju] - gundau,
-    arba nuo Wilius [vylius] - klasta, tad
-    tokiu atveju Vilija reikštų Vilioklė.
-    Gal dėl to, kad ta nuostabi upė vi­
-    liojo ir masino prie savo krantų vie­
-    nišus, klajojančius po gūdžias girias
-    senovės lietuvius ir jų vaidilas. Ar­
-    ba, priešingai, po vandeniu slypin­
-    čiais rifais klastingai prigaudavo pir­
-    16
-
-    ## Puslapis 33
-
-    I  KNYGA
-    klius, išdrįsusius, Lietuvai su Prūsi­
-    ja ėmus prekiauti, leistis į pirmąją
-    kelionę sieliais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
 
 ## Citatos
 
@@ -722,8 +492,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179485
     - t-179484
+    - t-179485
 
 - id: c-163183
   redaktorius: "A. Šapoka"
@@ -817,16 +587,21 @@ Nenurodyta
 - id: c-175292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 241"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šie, susirinkę labai daug savo valčių, stojo
-    į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
-    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
-    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
+    Sis sutriuškinimas buvęs toks ¡baisus,
     jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
     veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
     riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
+    Toji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­
+    rios, turėjusi prie Rasytės susisiekimą su jūra. Pasakoji­
+    mui apie šį neabejotinai seną įvykį būdingi istoriškumo
+    bruožai, ir jis yra visiškai įtikėtinas. Šiose kautynėse žu­
+    vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija
+    netgi nedviprasmiškai nurodo šios didelės pergalės prie­
+    žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
+    Onevu, perėjimą į priešo pusę.
+  citata_rodoma: "Šie, susirinkę labai daug savo valčių, stojo\nį mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su\nnedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas\nrusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,\njog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­\nveik iš naujo grumtis su sudužusiomis valtimis ir plūdu­\nriuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

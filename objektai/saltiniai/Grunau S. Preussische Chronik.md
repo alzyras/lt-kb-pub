@@ -42,29 +42,13 @@ Dusburgietis teigia, kad grunau S.
   teiginys: "S. Grunau „Preussische Chronik“ pirmasis tomas, parengtas M. Perlbacho, išleistas Leipcige 1875 m."
   pagrindžia:
     - c-61708
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'S. Grunau „Preussische Chronik“ pirmasis tomas, parengtas M. Perlbacho, išleistas Leipcige 1875 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Grunau S. Preussische Chronik / Herausgegeben von M. Perlbach.— Bd. 1.— Leipzig,
-    1875.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61708
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 263."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Grunau S. Preussische Chronik / Herausgegeben von M. Perlbach.— Bd. 1.— Leipzig,
     1875.

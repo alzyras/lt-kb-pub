@@ -55,6 +55,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   teiginys: "Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius."
   pagrindžia:
     - c-44217
+    - c-44219
 
 <a id="claim-t-70312"></a>
 - t-002
@@ -63,84 +64,12 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   pagrindžia:
     - c-44216
 
-<a id="claim-t-70313"></a>
-- t-003
-  global_id: t-70313
-  teiginys: "Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius."
-  pagrindžia:
-    - c-44219
-
 <a id="claim-t-70314"></a>
-- t-004
+- t-003
   global_id: t-70314
   teiginys: "Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams."
   pagrindžia:
     - c-44216
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lauko etmonas kairiajame sparne išdėstė
-    savo kavalerijos dalinius, kuriems greičiau-
-    siai vadovavo Usviatų seniūnas, rotmistras
-    Jonas Petras Sapiega, centre buvo išdės-
-    tyti pėstininkai su muškietomis, kuriems
-    vadovavo LDK didysis maršalka Kristupas
-    Mikalojus Manvydas Dorohostaiskis, deši-
-    niajame sparne buvusiai kavalerijai va-
-    dovavo LDK taurininkas Jonušas Radvila.
-    Sudėtinga vietovė trukdė sėkmingai pulti
-    per centrą, tai galėjo lietuviams kainuoti
-    per
-    daug aukų. Etmonai nu-
-    tarė sustiprinti dešinįjį sparną ir sudaryti
-    geležinį kumštį (šiame sparne buvo sutelkta
-    daugiausiai husarų vėliavų), kuris turėjo
-    smogti ir sunaikinti švedų kairįjį sparną,
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tautinio autoramento pagrindu buvo formuojama sunkioji kava-
-    lerija - husarai, vidutinė ir lengvoji kavalerija - kazokai, petihorai
-    bei totoriai, taip pat „lenkų“ ir „vengrų“ tipo pėstininkai. Vidinė
-    dalinių tvarka buvo paremta tradicine „draugų“ tipo organizacija.
-    Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus
-    pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vidinė
-    dalinių tvarka buvo paremta tradicine „draugų“ tipo organizacija.
-    Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus
-    pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.
-    Kiekvienas „draugas“ privalėjo pristatyti nuo kelių iki keliolikos
-    | žirgų ir karių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -171,8 +100,8 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70314
     - t-70312
+    - t-70314
 
 - id: c-44217
   sudarytojas: "Karolis Zikaras"
@@ -208,5 +137,3 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-70313

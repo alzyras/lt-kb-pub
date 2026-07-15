@@ -86,8 +86,6 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 - susijęs iš Naugardukas: Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje.
 - susijęs iš Nemunas: Henrikui iš Plockės puolant Bisenės pilį, upe atplaukę kariai iš laivų nutiesė tiltą per Nemuną, bet apgula baigėsi nesėkme.
 - susijęs iš Nemunas: Narbutas pateikė iš Hartknocho paimtą lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, maldos pavyzdį.
-- susijęs iš Trakai: 1412 m. per Kalėdas Makra buvo pas Vytautą jo puošnioje salos pilyje Trakuose.
-- susijęs iš Trakai: 1412 m. per Kalėdas Makra jau buvo pas Vytautą jo puošnioje salos pilyje Trakuose.
 - susijęs iš Ukmergė: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
 - susijęs iš Zapyškis: XV a. pabaigoje–XVI a. pirmame trečdalyje gotika pasiekė provinciją, įskaitant Kėdainius ir Zapyškį.
 - susijęs iš [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės.md#claim-t-86570|Rygos miesto civilinė teisė vokiečių teisės]]: Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.
@@ -97,27 +95,6 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 - susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192291|judančios žemės sluoksniai]]: Narbutas aiškina, kad judančios žemės sluoksniai turėjo būti sujudinti arba išplauti iš Baltijos jūros.
 - susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192292|judančios žemės sluoksniai]]: Narbutas akmenų radimą aiškina tuo, kad kai kurie jų buvo užpustyti judančios žemės sluoksnių.
 - susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191132|Pitėjas Masilietis]]: Pitėjas Masilietis pasiekė Britanijos salas, prie krantų atliko astronominius stebėjimus ir nuplaukė iki Tūlos, pažymėtos 66 šiaurės platumos laipsnyje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Z. Sierakausko nurodymu jie
-
-    : SUKILĖLIŲ PULKAI
-
-    Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios
-    moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.
-
-    „Štai vieną dieną bažnyčioje visais varpais skambina.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45317

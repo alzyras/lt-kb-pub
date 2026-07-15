@@ -9,13 +9,13 @@ datos:
   - '1385 m.'
 date_start: '1382'
 date_end: '1385'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pareigybė
   - sąvoka
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -77,8 +77,6 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 - susijęs iš [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.).md#claim-t-86913|Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]: Vilniaus pilininkas ir miestiečiai naktį sumušė Kęstučio įgulą ir abi Vilniaus pilis atidavė Jogailai.
 - susijęs iš [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis).md#claim-t-62840|Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]: Po nesėkmingo Naugarduko pilies puolimo Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei maisto atsargas.
 - susijęs iš Kolainių pilis (pilis): Kolainių pilininkas Surminas su pilėnais tarėsi, kaip apgauti pro pilį plaukusius Ordino brolius.
-- susijęs iš Vilnius: Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.
-- susijęs iš Vilnius: Vilniaus pilininkas ir miestiečiai naktį sumušė Kęstučio įgulą ir Žemutinę bei Aukštutinę pilis atidavė Jogailai.
 - susijęs iš [[objektai/zodynas/Pilininkas capitaneus seniūnas.md#claim-t-86568|Pilininkas capitaneus seniūnas]]: Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir perdavė Jogailai Žemutinę bei Aukštutinę pilis.
 - susijęs iš Vilniaus pilys: Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.
 - susijęs iš Vilniaus pilys: Vilniaus pilininkas ir miestiečiai, sumušę Kęstučio įgulą, Žemutinę ir Aukštutinę pilis atidavė Jogailai.
@@ -101,55 +99,6 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 - susijęs iš Karališkasis malūnas Vilniuje: 1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.
 - susijęs iš Karališkasis malūnas Vilniuje: 1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Valstybėje nusistovėjus leninio valdymo
-    principams, Gedimino veiklumo ir didžių jo politinių sie­
-    kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;
-    Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
-    tvarkos, kokia buvo ir kitur. Kaip Lenkijoje kaštelionai, taip
-    Lietuvoje anuomet pilininkai valdė miestą, vykdydami teis­
-    -- • -
-    24
-
-    ## Puslapis 41
-
-    I  KNYGA
-    minę priežiūrą kartu su bendruomenės parinktu seniūnu.
-    Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas
-    atstojo gyventojams teisės normas ir anų amžių neįmantriam
-    protui vėliau parašytus įstatymus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    I  KNYGA
-    Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­
-    gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi
-    pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. Tas
-    Vilniaus gyventojų palankumas didžia dalimi nulėmė eigą
-    kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat
-    pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
-    nių, turėjo slėptis Trakų pilyje34. Ir šią pilį Jogaila būtų leng­
-    vai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į
-    pagalbą sūnui pagaliau nebūtų atvykęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Surminas, Kolainių pilininkas, sušaukė pilėnus tartis, kaip apgauti pro pilį plaukiančius Ordino brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -227,19 +176,19 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 - id: c-85513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 178-179"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178-179."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    75).
-
-    Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
-    išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
-    naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau
-    minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
-    kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,
-    galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,
-    atsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir
-    šitaip išvaduojamas iš netikėlių nelaisvės.
+    Kiti išbėgiojo, ir kurie
+    ne kurie dykroje iš sielvarto pasikorė, o kiti ten išmirė, negaudami nei atsigerti, nei
+    pavalgyti, tik vienas kitas išsigelbėjo nuo žūties.
+    242 (235). Apie paguodą, suteiktą broliams bei krikščionims
+    Kai ši brolių kariuomenė, nugalėjusi priešą, dar nebuvo sugrįžusi iš žygio, kartą brolis
+    Meinhardas, magistras, prisėdo su kuriais ne kuriais Ordino vyresniaisiais pasišnekėti apie
+    rūpesčius, kuriuos kėlė minėtoji kariuomenė, užgaišusi kur kas ilgiau, nei turėjo, ir apie
+    Ragainės komtūro bei jo karių mirtį. Kai jie nuliūdę šnekučiavosi, atvyko žygūnas, kuris
+    pranešė, kad Ragainės broliai nukovę 25 plėšikautojus. Nespėjus baigti kalbos, atvyko
+    antras ir pranešė, jog brolių kariuomenė nugalėjo priešą ir sugrįžta.
+  citata_rodoma: "75).\n\nTais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,\nišplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias\nnaujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau\nminėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,\nkaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,\ngalop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,\natsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir\nšitaip išvaduojamas iš netikėlių nelaisvės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

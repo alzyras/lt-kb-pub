@@ -55,22 +55,6 @@ Nenurodyta
   teiginys: "Bermondto-Avalovo kryžius buvo teikiamas pasižymėjusiems bermontininkams."
   pagrindžia:
     - c-44641
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 190, Bermondto-Avalovo kryžius, teiktas pasižymėjusiems bermontininkams.
-    http://shopuuu.ru/images/item. pics/krestzapdobrarmiifrach-o.jpg
-
-    p. 190, Lenkijos kariuomenės 1-ojo ulonų pulko krūtininis ženklas, VDKM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

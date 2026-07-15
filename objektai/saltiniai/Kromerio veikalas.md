@@ -34,8 +34,8 @@ Kromerio veikale, Narbuto perteikimu, jotvingių likučiai apie Drohiciną kalb�
   teiginys: "Kromerio veikale, Narbuto perteikimu, jotvingių likučiai apie Drohiciną kalbėjo lietuviams nesuprantama ir nuo slavų bei lietuvių kalbų besiskyrusia kalba."
   pagrindžia:
     - c-174671
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kromerio veikale, Narbuto perteikimu, jotvingių likučiai apie Drohiciną kalbėjo lietuviams nesuprantama ir nuo slavų bei lietuvių kalbų besiskyrusia kalba.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -59,15 +59,17 @@ Kromerio veikale, Narbuto perteikimu, jotvingių likučiai apie Drohiciną kalb�
 - id: c-174671
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vis dėlto jis
-    sako, kad dar jo laikais apie Drohiciną buvo kalbama jot­
-    vingių kalba ir lietuviai negalėdavo nė žodžio suprasti.
-    Kromeriui2 buvo žinomi jotvingių likučiai (reliquiae),
-    savo kalba visiškai besiskiriantys nuo slavų ir lietuvių.
-    Ar tai ne tikros pasakos?
+    čiam žinomi Lydos apskrityje du kaimai, esantys tarp
+    Sčiučino ir Kamenkos, kurių vienas vadinasi J atmesk
+    Polski, antras — / atmesk Ruski-, ¡pirmame yra Romos ka­
+    talikų lotynų apeigų bažnytėlė, o antrame — unitų tikė­
+    jimo rusų cerkvelė. Volkovysko apskrityje, per mylią nuo
+    grafo Tiškevičiaus Svisločės, yra Radovickių kaimas Jat-
+    wiesk. Tai aiškūs dviejų skirtingų religijų kolonistų, at­
+    vestų iš Jotvingijos, pėdsakai.
+  citata_rodoma: "Vis dėlto jis\nsako, kad dar jo laikais apie Drohiciną buvo kalbama jot­\nvingių kalba ir lietuviai negalėdavo nė žodžio suprasti.\nKromeriui2 buvo žinomi jotvingių likučiai (reliquiae),\nsavo kalba visiškai besiskiriantys nuo slavų ir lietuvių.\nAr tai ne tikros pasakos?"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

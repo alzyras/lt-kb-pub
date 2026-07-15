@@ -54,26 +54,6 @@ Nenurodyta
   teiginys: "Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai."
   pagrindžia:
     - c-83109
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mir­
-    damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­
-    tuvos sostinę: užbaigti pradėtą statyti Šv. Onos bažnyčią,
-    išplėsti Švč. Trejybės prieglaudą ir ją geriau aprūpinti pave­
-    dė kelissyk testamente minimoms seserims ir respublikai, o
-    turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą,
-    atidavė Vilniaus jėzuitų kolegijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

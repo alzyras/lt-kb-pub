@@ -44,34 +44,6 @@ media_all_json: |-
   teiginys: "Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė."
   pagrindžia:
     - c-83659
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA I I  TOMAS
-    29 to Augusto 1543 metais, numirė Vil-
-    Elžbieta, Vengrijos ir Čekijos kara- niuje 1545 metais, palaidota kated-
-    liaus, vėliau imperatoriaus Ferdi- ros bažnyčioje, koplyčioje, šalia ka-
-    nando, duktė, ištekinta už Žygiman- raliaus Aleksandro.
-    272
-
-    ## Puslapis 289
-
-    IV KNYGA
-    Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­
-    teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­
-    lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio
-    atrado kuklumą ir sulaukė prielankumo. Barboros rūmai
-    stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

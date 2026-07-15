@@ -58,32 +58,13 @@ Nenurodyta
   teiginys: "Narbutas Austėją apibūdina kaip bičių ir bitininkystės deivę, kurios šauktasi viliojant jaunų bičių spiečių į avilius ir dreves."
   pagrindžia:
     - c-171016
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Austėją apibūdina kaip bičių ir bitininkystės deivę, kurios šauktasi viliojant jaunų bičių spiečių į avilius ir dreves.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Austėja (Austheja)
-    Deivė, bičių ir bitininkystės globėja. Jos buvo šaukiamasi
-    geidaujant iš kur nors atklydusį jaunų bičių spiečių įsivilioti į
-    savo avilius ir dreves. Ji taip pat turėjo galios saugoti bites nuo
-    kenksmingų vabzdžių ir kitų nutikimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-171016
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 147."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Austėja (Austheja)
     Deivė, bičių ir bitininkystės globėja. Jos buvo šaukiamasi

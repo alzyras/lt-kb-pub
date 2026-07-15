@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis“, tai yra didįjį kunigaikštį.
+Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis“, tai yra didįjį kunigaikštį. Pagrindinė pusė: jauno žmo gaus, vainikuoto kunigaikščio mitra, biustas veidu į priekį; iš kairės - vėliava su dviem įkirpimais.
 
 ## Teiginiai
 
@@ -36,46 +36,33 @@ Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis
   teiginys: "Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis“, tai yra didįjį kunigaikštį."
   pagrindžia:
     - c-172192
-- susijęs iš [[objektai/posakiai/MENDOK U KUNI DI ZEMAJTAS MINZIOS.md#claim-t-189564|MENDOK U KUNI DI ZEMAJTAS MINZIOS]]: Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo, siejo su skaitymu „MENDOK: U“ ir „KUNI: DI“.
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis“, tai yra didįjį kunigaikštį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Aplinkui iškilus apvadas iš lapelių ar širdžių. Užrašas runo­
-    mis; priešais žmogų -  runos, peskaitomos iš viršaus į apačią ir,
-    pasak išnagrinėjusio mokovo, reiškiančios MENDOK: U; už
-    žmogaus -  iš apačios į viršų -  KUNI: DI. Santrumpoje MEN­
-    DOK raidė U galėtų reikšti tam tikrą skaičių arba kunigaikš­
-    čio pravardės pradinę raidę. Kunigas Didis reiškia didįjį kuni­
-    gaikštį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197371"></a>
+- t-002
+  global_id: t-197371
+  teiginys: "Pagrindinė pusė: jauno žmo gaus, vainikuoto kunigaikščio mitra, biustas veidu į priekį; iš kairės - vėliava su dviem įkirpimais."
   pagrindžia:
-    - t-001
-
+    - c-172192
+- susijęs iš [[objektai/posakiai/MENDOK U KUNI DI ZEMAJTAS MINZIOS.md#claim-t-189564|MENDOK U KUNI DI ZEMAJTAS MINZIOS]]: Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo, siejo su skaitymu „MENDOK: U“ ir „KUNI: DI“.
 ## Citatos
 
 - id: c-172192
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 250"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 250."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Aplinkui iškilus apvadas iš lapelių ar širdžių. Užrašas runo­
-    mis; priešais žmogų -  runos, peskaitomos iš viršaus į apačią ir,
-    pasak išnagrinėjusio mokovo, reiškiančios MENDOK: U; už
-    žmogaus -  iš apačios į viršų -  KUNI: DI. Santrumpoje MEN­
-    DOK raidė U galėtų reikšti tam tikrą skaičių arba kunigaikš­
-    čio pravardės pradinę raidę. Kunigas Didis reiškia didįjį kuni­
-    gaikštį.
+    Tik jos radimas šalia vieti­
+    nės primena, kad iki Mindaugo laikų, arba iki XIII amžiaus
+    antrosios pusės, čionykščių gyventojų rankose būta antikinių
+    monetų rinkinių, laikytų šalia vietinių.
+    III lentelė, 16-asis piešinys. Pagrindinė pusė: jauno žmo­
+    gaus, vainikuoto kunigaikščio mitra, biustas veidu į priekį; iš
+    kairės - vėliava su dviem įkirpimais. Senovinės liutnios pavi­
+    dalo apvadėlis.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189305
+    - t-197371

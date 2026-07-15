@@ -96,8 +96,8 @@ Objektų skaičius: 100.
 - [Žygimantas Augustas (arkivyskupas, XVI a.)](../objektai/asmenys/%C5%BDygimantas%20Augustas)
 
 ### Autoriai
-- [A. Mickevičius](../objektai/autoriai/A.%20Mickevi%C4%8Dius)
 - [A. Sabaliauskas](../objektai/autoriai/A.%20Sabaliauskas)
+- [Adomas Mickevičius](../objektai/autoriai/A.%20Mickevi%C4%8Dius)
 - [Antanas Tatarė](../objektai/autoriai/Antanas%20Tatar%C4%97)
 - [Bazilis Bonifacas Jakimavičius](../objektai/autoriai/Bazilis%20Bonifacas%20Jakimavi%C4%8Dius)
 - [Glumeris](../objektai/autoriai/Glumeris)

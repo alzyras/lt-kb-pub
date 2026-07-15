@@ -50,28 +50,6 @@ media_all_json: |-
     - c-166888
 - susijęs iš Kražių bažnyčia: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65308|Kazokai]]: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Du įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo for-
-    mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
-    kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-
-    kę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-
-    rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“. Brutalus rusų
-    valdžios elgesys sukėlė ir blaiviau mąstančių rusų visuomenės sluoksnių
-    pasipiktinimą, protestavo Vatikanas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-166888
@@ -91,5 +69,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183494
     - t-20847
+    - t-183494

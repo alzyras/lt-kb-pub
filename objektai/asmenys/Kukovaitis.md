@@ -61,116 +61,49 @@ media_all_json: |-
   pagrindžia:
     - c-171461
 
-<a id="claim-t-193942"></a>
-- t-004
-  global_id: t-193942
-  teiginys: "4 Lietuvos metraštis 49 Zivinbudas, Lietuvos ir Žemaičių didysis kunigaikš tis, nusiuntė jam pagalbon savo vyresnįjį sūnų Kukovaitį4 su visomis savo Lietuvos bei 2emaičių pajėgo mis."
-  pagrindžia:
-    - c-176567
-
 <a id="claim-t-193943"></a>
 - t-005
   global_id: t-193943
-  teiginys: "Didysis kunigaikštis Skirmantas iškilmingai pasitiko Kukovaitį, Lietuvos didžiojo kunigaikščio Zivinbudo sūnų, ir, apdovanojęs nesuskaičiuojama aukso ir sidab ro daugybe bei eikliais žirgais, garbingai išleido pas jo tėvą, Lietuvos ir 2emaičių kunigaikštį."
+  teiginys: "Lietuvos metraštis pasakoja, kad Kukovaitis Pajautos atminimui pastatė jos išvaizdos stabą prie Žaslių ežero."
   pagrindžia:
     - c-176568
 
-<a id="claim-t-193944"></a>
+<a id="claim-t-196529"></a>
 - t-006
-  global_id: t-193944
-  teiginys: "O paskui mirė didysis Lietuvos ir Žemaičių kuni gaikštis Kukovaitis, buvęs labai teisingas ir malonin gas savo valdiniams."
+  global_id: t-196529
+  teiginys: "Kojelavičius vaizduoja Kukovaitį prieš mirtį perdavus valdžią sūnui, kai jį atgaivino žinia apie priešo įveikimą ir sūnaus pergalę."
   pagrindžia:
-    - c-176569
-- susijęs iš [[objektai/daiktai/Kentauro herbas.md#claim-t-186855|Kentauro herbas]]: M. Strijkovskio kronikos citatoje Kukovaitis vadinamas Živinbudo sūnumi iš Kentauro herbo giminės.
-- susijęs iš [[objektai/daiktai/Pajautos stabas.md#claim-t-187513|Pajautos stabas]]: Lietuvos metraštis vaizduoja, kad Kukovaitis motinos Pajautos atminimui padirbo jos išvaizdos stabą, pastatė jį ties Žaslių ežeru, o Pajauta buvo laikoma deive.
+    - c-169494
+
+<a id="claim-t-196843"></a>
+- t-007
+  global_id: t-196843
+  teiginys: "Lietuvos metraštis pasakoja, kad Kukovaitis, mylėdamas motiną Pajautą, pastatė jos vardo stabą prie Žaslių ežero."
+  pagrindžia:
+    - c-176568
+
+<a id="claim-t-197419"></a>
+- t-008
+  global_id: t-197419
+  teiginys: "Kukovaitis yra ant gana aukšto kalno, matomas toli iš jūros."
+  pagrindžia:
+    - c-171460
+
+<a id="claim-t-193942"></a>
+- t-004
+  global_id: t-193942
+  teiginys: '4 Lietuvos metraštis 49 Zivinbudas, Lietuvos ir Žemaičių didysis kunigaikš tis, nusiuntė jam pagalbon savo vyresnįjį sūnų Kukovaitį4 su visomis savo Lietuvos bei 2emaičių pajėgo mis.'
+  pagrindžia:
+    - c-176567
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-184587|Vokiečiai]]: Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos iš šiaurės.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184591|Žemaičiai]]: Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.
 - susijęs iš Deltuva: Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos.
 - susijęs iš Kijevo Rusia: Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.
 - susijęs iš Pina: Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas.
 - susijęs iš Pina: Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas.
-- susijęs iš Žaslių ežeras: Lietuvos metraštyje Kukovaitis pastato motinos Pajautos vardo stabą ties Žaslių ežeru jos atminimui pagerbti.
 - susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78878|baskakas]]: 1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.
 - susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78879|baskakas]]: 1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Skir­
-    mantas, norėdamas kuo greičiausiai atremti pavojų,
-    paprašė Živinbudą karinės paramos, kurią ir gavo: mat
-    jis dvejojo, ar galima pasikliauti naugardukiečiais,
-    kuriuos meilė savo tautai
-    S k irm a n to
-    k a ra s
-    su
-    lengvai galėjo pastūmėti į
-    ru sais ir p e rg a lė
-    išdavystę.
-    Živinbudas
-    pa­
-    siuntė savo sūnų Kukovai-
-    tį su rinktine lietuvių bei žemaičių kariauna. Mstisla­
-    vas
-    Bresto
-    apylinkėse
-    jau siaubė
-    kaimus,
-    žudė
-    žemdirbius, ketindamas pradėti karą, tačiau, išgirdęs
-    apie artėjantį Skirmantą, buvo priverstas sutraukti
-    savo pulkus iš kaimų į stovyklą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas pasakojo, kad kunigaikštis Kukovaitis prie Žaslių ežero pastatė stabą motinai, po mirties pripažintai deive.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Mirė maždaug prieš 1220
-    metus. Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa­
-    statė stabą, kadangi po mirties jai pradėta teikti dievišką gar­
-    bę, kitaip sakant, ji buvo pripažinta deive. Toje vietoje jai bu­
-    vo meldžiamasi: jos šaukėsi liepų miškelyje, ją garbino iki pas­
-    kutinių lietuvių stabmeldystės laikų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbutas Kukovaitį vadino sudvejintu lietuvių kunigaikščiu, Živinbudo II sūnumi, valdžiusiu Užnerio Lietuvoje ir mirusiu 1221 metais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie tai dar bus mūsų is­
-    torijos tęsinyje.
-    221
-
-    ## Puslapis 221
-
-    Kukovaitis (Kukowojtis)
-    Sudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­
-    patavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­
-    laidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai
-    įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: '4 Lietuvos metraštis 49 Zivinbudas, Lietuvos ir Žemaičių didysis kunigaikš tis, nusiuntė jam pagalbon savo vyresnįjį sūnų Kukovaitį4 su visomis savo Lietuvos bei 2emaičių pajėgo mis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -196,125 +129,87 @@ media_all_json: |-
   pagrindžia:
     - t-004
 
-- c-005
-  santrauka: 'Didysis kunigaikštis Skirmantas iškilmingai pasitiko Kukovaitį, Lietuvos didžiojo kunigaikščio Zivinbudo sūnų, ir, apdovanojęs nesuskaičiuojama aukso ir sidab ro daugybe bei eikliais žirgais, garbingai išleido pas jo tėvą, Lietuvos ir 2emaičių kunigaikštį.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didysis kunigaikštis Skirmantas iškilmingai pasitiko
-    Kukovaitį, Lietuvos didžiojo kunigaikščio Zivinbudo
-    sūnų, ir, apdovanojęs nesuskaičiuojama aukso ir sidab­
-    ro daugybe bei eikliais žirgais, garbingai išleido pas
-    jo tėvą, Lietuvos ir 2emaičių kunigaikštį. Parvykęs
-    pas savo tėvą, nebeilgai prie jo tegyveno, ir tėvas,
-    Lietuvos ir 2emaičių didysis kunigaikštis 2ivinbudas,
-    pasimirė, o jo sūnus Kukovaitis sėdo Lietuvos ir Že­
-    maičių Didžiosios Kunigaikštystės sostan.
-    Tuo metu Užvolgio chanu buvo chanas, vardu Ba-
-    laklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį
-    kunigaikštį Skirmantą, kad duotų jam duoklę ir laiky­
-    tų jo baskakus tuose miestuose, kaip kad iš tų miestų
-    buvo duodama duoklė, valdant jo pirmtakams, rusų
-    kunigaikščiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'O paskui mirė didysis Lietuvos ir Žemaičių kuni gaikštis Kukovaitis, buvęs labai teisingas ir malonin gas savo valdiniams.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Tąsias liepas garbino ir iki mūsų
-    dienų jas tebedievina, minėdami tą Pajautą.
-    O paskui mirė didysis Lietuvos ir Žemaičių kuni­
-    gaikštis Kukovaitis, buvęs labai teisingas ir malonin­
-    gas savo valdiniams. Ir savo įpėdiniu Lietuvos ir Že­
-    maičių kunigaikštystėje paliko savo sūnų Utenį2 :l.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 ## Citatos
 
 - id: c-169494
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 83"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 83."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Skir­
-    mantas, norėdamas kuo greičiausiai atremti pavojų,
-    paprašė Živinbudą karinės paramos, kurią ir gavo: mat
-    jis dvejojo, ar galima pasikliauti naugardukiečiais,
-    kuriuos meilė savo tautai
-    S k irm a n to
-    k a ra s
-    su
-    lengvai galėjo pastūmėti į
-    ru sais ir p e rg a lė
-    išdavystę.
-    Živinbudas
-    pa­
-    siuntė savo sūnų Kukovai-
-    tį su rinktine lietuvių bei žemaičių kariauna. Mstisla­
-    vas
-    Bresto
-    apylinkėse
-    jau siaubė
-    kaimus,
-    žudė
-    žemdirbius, ketindamas pradėti karą, tačiau, išgirdęs
-    apie artėjantį Skirmantą, buvo priverstas sutraukti
-    savo pulkus iš kaimų į stovyklą.
+    Prie Jaseldos upės
+    abi šalys stojo į įnirtingą mūšį, Mstislavas, sumuš­
+    tas, praradęs kariuomenę, vos gyvas
+    paspruko iš
+    kovos
+    lauko į Lucką. Tuo tarpu Skirmantas
+    po
+    šios
+    pergalės ta pačia proga iš rusų atėmė
+    Pin­
+    ską ir Turovą;
+    džiūgaudamas dėl pergalės ir dėl
+    atimtų iš priešų žemių, pa-
+    L ie tu v ia i iš rusų a ti-
+    siuntė atgal Zivinbudui Kū­
+    ma P in ską
+    kovaitį ir jo karius apdova­
+    nojo puikiomis dovanomis.
+    Šis buvo ne tik visiškai nukaršęs bei pasilpęs, jis nyk­
+    te nyko ligos kamuojamas, tačiau kai išgirdo, jog prie­
+    šas įveiktas, ir kai išvydo nugalėtoją sūnų, gerokai at­
+    sigavo jo dvasia, bepaliekanti kūną; baigdamas gy­
+    venimą, jis deramu laiku perdavė valdžią sūnui, kurį
+    po pergalės triumfuojantį matė savo akimis.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186133
+    - t-196529
 
 - id: c-171460
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mirė maždaug prieš 1220
-    metus. Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa­
-    statė stabą, kadangi po mirties jai pradėta teikti dievišką gar­
-    bę, kitaip sakant, ji buvo pripažinta deive. Toje vietoje jai bu­
-    vo meldžiamasi: jos šaukėsi liepų miškelyje, ją garbino iki pas­
-    kutinių lietuvių stabmeldystės laikų.
+    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
+    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
+    mėti ten visuomet stovi medinis kryžius. Jis yra ant gana aukš­
+    to kalno, matomas toli iš jūros.
+    Lietuvos ir Prūsijos archeologų surinkti duomenys patiks­
+    lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Prauri-
+    mės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi­
+    lučių. Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams.
+  citata_rodoma: "Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies- \ntas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­\nmėti ten visuomet stovi medinis kryžius. Jis yra ant gana aukš­\nto kalno, matomas toli iš jūros.\nLietuvos ir Prūsijos archeologų surinkti duomenys patiks­\nlina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Prauri- \nmės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi­\nlučių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188571
+    - t-197419
 
 - id: c-171461
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie tai dar bus mūsų is­
-    torijos tęsinyje.
-    221
-
-    ## Puslapis 221
-
-    Kukovaitis (Kukowojtis)
-    Sudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­
-    patavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­
-    laidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai
-    įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.
+    Lyginant lietuvių mitologiją su senąja graikų ir romėnų
+    mitologija, be pritempimo ir be kokio nors išankstinio įsitiki­
+    nimo savaime krito į akis panašumai ir beveik tapatumai. Greta
+    to, vertindami pastangas mitologų, norinčių įtvirtinti priešin­
+    gą nuomonę, kaip antai S tenderio1, atkakliai ieškojusio duo­
+    menų tokiai nuomonei pagrįsti, radome vien tik tuščius spė­
+    liojimus, etimologinę painiavą ir kažkokį užsispyrimą ginant
+    savo įsivaizdavimą. Dabar šioje antrojoje knygoje užsibrėžė­
+    me tikslą smulkiai išnarstyti visą mitologiją, paaiškinti tai, ką
+    pasakėme pirmojoje, ir, pateikdami duomenis, nušviečiančius
+    lietuvių tautos senovę, dar uoliau ieškoti tiesos su tokiu pačiu
+    bešališkumu.
+  citata_rodoma: "Apie tai dar bus mūsų is­\ntorijos tęsinyje.\n221\n\n## Puslapis 221\n\nKukovaitis (Kukowojtis)\nSudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­\npatavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­\nlaidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai\nįvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -322,79 +217,27 @@ media_all_json: |-
   pagrindzia:
     - t-188572
 
-- id: c-176567
+- id: c-176568
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Skirmantas nusiuntė savo pasiuntinius pas
-    2ivinbudą, Lietuvos didįjį kunigaikštį, prašydamas, kad
-    suteiktų jam pagalbą prieš rusus.
-    4 Lietuvos metraštis 49
-
-    ## Puslapis 47
-
-    Zivinbudas, Lietuvos ir Žemaičių didysis kunigaikš­
-    tis, nusiuntė jam pagalbon savo vyresnįjį sūnų Kuko-
-    vaitį4  su visomis savo Lietuvos bei 2emaičių pajėgo­
-    mis. Ir leidosi didysis kunigaikštis Skirmantas su Ku-
-    kovaičiu ir su visomis pajėgomis į žygį prieš Mstislavą,
-    Lucko ir Pinsko kunigaikštį.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193942
-
-- id: c-176568
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 47"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 47."
-  citata_originali: |
-    Didysis kunigaikštis Skirmantas iškilmingai pasitiko
-    Kukovaitį, Lietuvos didžiojo kunigaikščio Zivinbudo
-    sūnų, ir, apdovanojęs nesuskaičiuojama aukso ir sidab­
-    ro daugybe bei eikliais žirgais, garbingai išleido pas
-    jo tėvą, Lietuvos ir 2emaičių kunigaikštį. Parvykęs
-    pas savo tėvą, nebeilgai prie jo tegyveno, ir tėvas,
-    Lietuvos ir 2emaičių didysis kunigaikštis 2ivinbudas,
-    pasimirė, o jo sūnus Kukovaitis sėdo Lietuvos ir Že­
-    maičių Didžiosios Kunigaikštystės sostan.
-    Tuo metu Užvolgio chanu buvo chanas, vardu Ba-
-    laklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį
-    kunigaikštį Skirmantą, kad duotų jam duoklę ir laiky­
-    tų jo baskakus tuose miestuose, kaip kad iš tų miestų
-    buvo duodama duoklė, valdant jo pirmtakams, rusų
-    kunigaikščiams.
+    Ir didysis kunigaikštis Kukovaitis, mylėdamas
+    savo motiną, jos atminimui pagerbti pagal jos išvaizdą
+    padirbo stabą ir pastatė tą savo motinos Pajautos vardo
+    stabą ties Žaslių ežeru. O tą jos stabą garbino ir Pa­
+    jautą laikė deive. Paskui tas stabas supuvo, ir toje vie­
+    loje išaugo liepos. Tąsias liepas garbino ir iki mūsų
+    dienų jas tebedievina, minėdami tą Pajautą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193943
-
-- id: c-176569
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Tąsias liepas garbino ir iki mūsų
-    dienų jas tebedievina, minėdami tą Pajautą.
-    O paskui mirė didysis Lietuvos ir Žemaičių kuni­
-    gaikštis Kukovaitis, buvęs labai teisingas ir malonin­
-    gas savo valdiniams. Ir savo įpėdiniu Lietuvos ir Že­
-    maičių kunigaikštystėje paliko savo sūnų Utenį2 :l.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193944
+    - t-196843
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pajauta]]
 - Kukovaitis buvo valdovas [[objektai/vietos/Naugardukas]]
-- Kukovaitis pastatė [[objektai/daiktai/Pajautos stabas]]
 - Kukovaitis rėmė [[objektai/asmenys/Skirmantas]]

@@ -9,16 +9,16 @@ datos:
   - '1842 m.'
 date_start: '1750'
 date_end: '1842'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rašytojas
   - autorius
-amziai:
-  - 'XVIII'
-  - 'XIX'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,8 +53,15 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
   teiginys: "Balins kis, Juozapas Ignas Kraševskis panaudojo gausią archyvinę me džiagą, kronikas ir metraščius, tačiau, būdamas prozininkas rašė puikiu stiliumi."
   pagrindžia:
     - c-176802
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197616"></a>
+- t-003
+  global_id: t-197616
+  teiginys: "Juozapas Ignas Kraševskis buvo teisus: „Marcinovskis“ ir „Narbuto leidėjas“ tapo neatskiriamais epitetais."
+  pagrindžia:
+    - c-174557
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -74,46 +81,30 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Balins kis, Juozapas Ignas Kraševskis panaudojo gausią archyvinę me džiagą, kronikas ir metraščius, tačiau, būdamas prozininkas rašė puikiu stiliumi.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nepaisant gana kritiško požiūrio į
-    istorijos šaltinius, M. Balinskio Vilniaus istorija neprilygo J. I. Kra­
-    ševskio 1840-1842 m. išleistai miesto istorijai. Kaip ir M. Balins­
-    kis, Juozapas Ignas Kraševskis panaudojo gausią archyvinę me­
-    džiagą, kronikas ir metraščius, tačiau, būdamas prozininkas rašė
-    puikiu stiliumi. Veikale chronologiškai Vilniaus miesto raida
-    nušviesta iki 1750 metų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-174557
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 446"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 446."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Oficialūs atgarsiai į T. Narbuto „Lie­
-    tuvių mitologiją“ pasirodė netrukus, t. y. tais pačiais
-    1835 ir kitais 1836 metais. Tai buvo dvi didelės recenzi­
-    jos: pirmoji išspausdinta leidinyje „Wizerunki i Roztrzą-
-    sania Naukowe“, antroji — oficioze „Tygodnik Petersbur-
-    ski“. Pirmoji buvo anonimiška, o antroji priklausė Juo­
-    zapo Ignoto Kraševskio plunksnai.
+    Enciklopedinės žinios, šviesus protas, publicistiniai suge­
+    bėjimai, darbštumas — tai bruožai, kurie buvo būdingi
+    praėjusio, XVIII amžiaus leidėjui. Taigi A. Marcinovskiui
+    rūpėjo ne tik nauda — visi XIX amžiaus tyrinėtojai kaip
+    pavyzdį pateikia faktą, jog būtent jo leidykloje buvo lei­
+    džiama LTI. Pats T. Narbutas, jau praėjus daugeliui me­
+    tų po paskutinio tomo publikavimo, teigė, jog A. Marci-
+    novskis jo „Istorija“ pelnė ir naudą, ir šlovę. Jis buvo
+    teisus: „Marcinovskis“ ir „Narbuto leidėjas“ tapo neatski­
+    riamais epitetais.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191675
+    - t-197616
 
 - id: c-176802
   autorius: "Michał Baliński"

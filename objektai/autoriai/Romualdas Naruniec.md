@@ -43,23 +43,6 @@ Kaip rašo istorikas Romualdas Naruniecas, „Mykolo Balinskio išlaisvinimo iš
   teiginys: "Romualdas Naruniec rašė, kad Mykolo Balinskio išlaisvinimo iš kalėjimo problema lieka paslaptinga."
   pagrindžia:
     - c-84021
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Romualdas Naruniec rašė, kad Mykolo Balinskio išlaisvinimo iš kalėjimo problema lieka paslaptinga.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gegužės mėnesį buvo areštuotas M. Balinskis, bet
-    netrukus paleistas. Kaip rašo istorikas Romualdas Naruniecas,
-    „Mykolo Balinskio išlaisvinimo iš kalėjimo problema lieka pa­
-    slaptinga". 1838 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

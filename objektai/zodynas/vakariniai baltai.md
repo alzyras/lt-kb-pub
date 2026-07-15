@@ -76,8 +76,8 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   teiginys: "Vakarų baltų, arba prūsų, tarmės daugeliu atvejų laikomos archaiškesnėmis už rytų baltų lietuvių ir latvių tarmes."
   pagrindžia:
     - c-69413
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -94,55 +94,20 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
     - t-002
     - t-003
 
-- c-002
-  santrauka: 'Vakarų baltų prūsų tarmės skyrėsi nuo rytų baltų lietuvių ir latvių tarmių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
-    J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
-    lietuvių lingvistai, ypač tarybiniu laikotarpiu6. Ilgainiui pavyko nustatyti prūsų kalbos
-    vietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių
-    kalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu
-    lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
-    už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
-    rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-005
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mums žinomi
-    jotvingiški vietų ir asmenų vardai turi fonetinių ypatybių, būdingų prūsų kalbai18. Prūsai
-    (bei jotvingiai) priskiriami vakarų baltų tarmių regionui19. Lyginant su rytiniais baltais
-    — lietuviais, konstatuojama, kad jotvingių ir lietuvių kalbos nebuvo per daug viena nuo
-    kitos nutolusios.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-69410
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 9"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
-    baltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,
-    skalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14.
-       Jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15.
+    Mums žinomi
+    jotvingiški vietų ir asmenų vardai turi fonetinių ypatybių, būdingų prūsų kalbai18. Prūsai
+    (bei jotvingiai) priskiriami vakarų baltų tarmių regionui19. Lyginant su rytiniais baltais
+    — lietuviais, konstatuojama, kad jotvingių ir lietuvių kalbos nebuvo per daug viena nuo
+    kitos nutolusios. Leksinių bendrumų tarp jotvingių ir lietuvių kalbos žymiai daugiau negu
+    skirtumų.
+  citata_rodoma: "Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių\nbaltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,\nskalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14.\n   Jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -154,8 +119,7 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - id: c-69413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 8"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
     J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
@@ -176,8 +140,7 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - id: c-69414
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 9"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mums žinomi
     jotvingiški vietų ir asmenų vardai turi fonetinių ypatybių, būdingų prūsų kalbai18. Prūsai

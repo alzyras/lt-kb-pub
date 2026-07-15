@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Stanislovas Goštautas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1494 m.'
@@ -51,59 +52,14 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
   teiginys: "1542 metais Vilniuje Naugarduko vaivada Stanislovas Goštautas dalyvavo patvirtinant raštą valdovo antspaudu."
   pagrindžia:
     - c-83456
+
+<a id="claim-t-196595"></a>
+- t-003
+  global_id: t-196595
+  teiginys: "Stanislovas Goštautas iš Maskvos valdovo irgi buvo gavęs nemaža pinigų."
+  pagrindžia:
+    - c-178785
 - susijęs iš [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje.md#claim-t-86804|Lietuvos pasiuntiniai Maskvoje]]: 1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai Petras Białas ir Stanislovas Goštautas pasirašė amžinos taikos sutartį su Ivanu Vasiljevičiumi.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1542 metais Vilniuje Naugarduko vaivada Stanislovas Goštautas dalyvavo patvirtinant raštą valdovo antspaudu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    To dalyko patiki­
-    mumui patvirtinti prie šio rašto mūsų antspaudas yra pri­
-    kabintas. Duota Vilniuje, penktadienį, rytojaus dieną po
-    Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai
-    keturiasdešimt antraisiais Viešpaties metais ir mūsų kara­
-    lystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris­
-    dešimt šeštaisiais. Dalyvaujant didžiai gerbiamiems Kristu­
-    je tėvui Vilniaus vyskupui ir Alšėnų kunigaikščiui ponui
-    Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vac­
-    lovui, garbiesiems ir prakilniesiems Polocko vaivadai Jonui
-    Hlebavičiui, Naugarduko vaivadai Stanislovui Goštautui,
-    Vitebsko vaivadai Motiejui Klokavičiui, rūmų maršalkai Jo­
-    nui Zabžezinskiui, raikytojui Jurgiui Astikaičiui, mūsų Lie­
-    tuvos Didžiosios Kunigaikštystės stalininkui Dubrovskiui
-    ir daugeliui kitų mūsų dignitorių ir pareigūnų, nuoširdžiai
-    ištikimų ir mums mielų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1494 m. balandžio 18 d. Maskvoje Žemaičių seniūnas Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
-    kreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai
-    ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­
-    tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
-    džiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m.)
-    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
-    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
-    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
-    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83456
@@ -157,3 +113,27 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87477
+
+- id: c-178785
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Skitas Mengli Girėjus, pakviestas už
+    mokamą atlyginimą į šį karo žygį, įsikūrė su kariais
+    netoli karaliaus stovyklos, tačiau nepradėjo kovoti
+    prieš maskvėnus, nors Ostrogiškis atkakliai reikalavo,
+    kad įsibrautų į Maskvos kunigaikštystę, mat jis iš
+    Maskvos valdovo irgi buvo gavęs nemaža pinigų. Ne­
+    trūko barbarui sumanumo deramai pateisinti savo ne­
+    veiklumą, nors, tiesą sakant, jis ketino užpulti tuos,
+    kurie pirmieji suklups mūšyje. Konstantinui laimėjus
+    kovą, pradėjo atvirai remti karalių ir netrukus patrau­
+    kė į Maskvos kunigaikštystę, nusiaubdamas didelius
+    plotus ir išsivesdamas šimtą tūkstančių belaisvių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196595

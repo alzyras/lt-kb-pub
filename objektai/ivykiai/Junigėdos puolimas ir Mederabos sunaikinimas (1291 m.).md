@@ -61,24 +61,6 @@ Nenurodyta
   teiginys: "1291 m. kryžiuočiai puolė Junigėdą, jos nepaėmė, bet netoliese sunaikino Mederabos pilį."
   pagrindžia:
     - c-33397
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nors pradiniai jų smūgiai atrodė energingi, bet per dešimt­
-    metį apčiuopiamų laimėjimų nebuvo pasiekta. 1291 buvo pulta,
-    Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315
-    ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
-    pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
-    teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

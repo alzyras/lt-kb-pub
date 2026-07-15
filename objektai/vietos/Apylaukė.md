@@ -48,26 +48,6 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
   teiginys: "Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė prasiveržusius želigovskininkų kavalerijos padalinius."
   pagrindžia:
     - c-76334
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Spalio 10 d. traukinys sugrįžo į Kauną, kur greitai buvo įrengti nauji kulkosvaidžių va-
-    gonai, suremontuoti ir patobulinti mūšiuose dalyvavę traukinio vagonai. Lapkričio 21 d.
-    atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gineičiais bei Apylauke
-    jis savo ugnimi išblaškė prasiveržusių želigovskininkų kavalerijos padalinius.
-
-    1921 m. buvo įsteigtas šarvuotų traukinių pulkas, kurį be „Gedimino“ sudarė dar du
-    nauji traukiniai „Kęstutis“ ir „Algirdas“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -89,5 +69,5 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79296
     - t-79295
+    - t-79296

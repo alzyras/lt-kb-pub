@@ -40,29 +40,13 @@ Dusburgietis teigia, kad otrębski J.
   teiginys: "J. Otrębskio „Namen von zwei Jatwingerstämmen“ 1963 m. publikuotas Berlyne leidinyje „Slawische Namenforschung“."
   pagrindžia:
     - c-61839
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Otrębskio „Namen von zwei Jatwingerstämmen“ 1963 m. publikuotas Berlyne leidinyje „Slawische Namenforschung“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Otrębski J. Namen von zwei Jatwingerstämmen.— Slawische Namenforschung, Berlin,
-    1963, S. 204—209.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61839
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Otrębski J. Namen von zwei Jatwingerstämmen.— Slawische Namenforschung, Berlin,
     1963, S. 204—209.

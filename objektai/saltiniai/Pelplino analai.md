@@ -44,33 +44,13 @@ Dusburgietis teigia, kad trumpų žinių apie Ordino praeitį pateikia „Pelpli
   teiginys: "Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97."
   pagrindžia:
     - c-61850
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97. Pirmoje žinutėje kalbama
-    apie Ordino įsikūrimą Jeruzalėje 1190 m., po to — apie Ordino pilių statybą Prūsijoje,
-    pradedant Torune (1231 m.), lakoniškai pasakojama apie mūšius „zu Kuwerlant“
-    1260 m. (t. y. Kurše— Durbė), „zu Pocarwen“ ir kt., apie Vokietijos, Čekijos hercogų,
-    markgrafų, karalių atvykimą į Prūsiją. Tekstas baigiamas Skalvių pilies pastatymu 1293
-    m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61850
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 21"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97. Pirmoje žinutėje kalbama
     apie Ordino įsikūrimą Jeruzalėje 1190 m., po to — apie Ordino pilių statybą Prūsijoje,

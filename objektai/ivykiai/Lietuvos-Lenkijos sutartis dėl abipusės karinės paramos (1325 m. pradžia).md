@@ -57,31 +57,13 @@ Nenurodyta
   teiginys: "1325 m. pradžioje Lietuva ir Lenkija ankstesnio susitarimo pagrindu sudarė sutartį dėl abipusės karinės paramos."
   pagrindžia:
     - c-60296
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1325 m. pradžioje Lietuva ir Lenkija ankstesnio susitarimo pagrindu sudarė sutartį dėl abipusės karinės paramos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vladislovo Lokietkos valdoma Lenkija stojo į kovą su Brandenburgu
-    — norėta atgauti markgrafų užgrobtas žemes. 1325 m. pradžioje ankstesnio susitarimo
-    pagrindu sudaryta Lietuvos—Lenkijos sutartis dėl abipusės karinės paramos. Tuo būdu
-    Lietuva prisijungė prie mūsų minėtos koalicijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60296
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 15"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vladislovo Lokietkos valdoma Lenkija stojo į kovą su Brandenburgu
     — norėta atgauti markgrafų užgrobtas žemes. 1325 m. pradžioje ankstesnio susitarimo

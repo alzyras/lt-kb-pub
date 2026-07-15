@@ -47,38 +47,12 @@ media_all_json: |-
 - susijęs iš Busavna: 1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o Teodoras Narbutas šį kraštą apibūdino kaip labai nuniokotą.
 - susijęs iš Drohičinas: Narbutas rašo, kad 1247 m. kunigaikštis Vasilka trečią dieną pasivijo jotvingius prie Drohičino.
 - susijęs iš Voluinės Vladimiras: 1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o tas kraštas buvo labai nuniokotas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ne
-    viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
-    nes turime žinių apie didelį ir galingą jotvingių žygį į
-    Pietų Rusią, Jie tikriausiai ketino pasinaudoti ianuometi­
-    niais to krašto sunkumais: mongolai nuolat puldinėjo, o
-    kunigaikščiai vaidijosi tarpusavyje. 1247 metais jotvin­
-    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
-    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
-    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
-    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
-    čino (dabar Kobrino apskritis).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175656
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ne
     viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,

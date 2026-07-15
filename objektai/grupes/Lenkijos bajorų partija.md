@@ -41,25 +41,6 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
   teiginys: "Lenkijos bajorų partija buvo tarp karaliaus rėmėjų kartu su Pacų vadovaujama Lietuva."
   pagrindžia:
     - c-72128
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lenkijos bajorų partija buvo tarp karaliaus rėmėjų kartu su Pacų vadovaujama Lietuva.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Prancūzijos kan-
-    didato partija tuojau pradėjo ruoštis jį pašalinti. Jo parama
-    buvo tik Pacų vadovaujamoji Lietuva ir Lenkijos bajorų par-
-    tija. Kadangi jo didieji priešai buvo susirišę su Prancūzija, tai
-    jis pats tuojau užmezgė ryšius su Austrų Habsburgais ir iš jų
-    šeimos net vedė žmoną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

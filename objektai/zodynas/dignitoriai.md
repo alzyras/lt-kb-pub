@@ -41,27 +41,6 @@ media_all_json: |-
   teiginys: "1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų."
   pagrindžia:
     - c-75118
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Liepos pabaigoje
-    gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
-    ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
-    prie Targovicos konfederacijos.
-    1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
-    Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
-    kijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad
-    Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
-    21 dieną iš Jekaterinos II gautą notą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

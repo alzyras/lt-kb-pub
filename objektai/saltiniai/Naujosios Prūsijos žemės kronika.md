@@ -4,11 +4,13 @@ pavadinimas: 'Naujosios Prūsijos žemės kronika'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1330 m.'
   - '1376 m.'
   - '1384 m.'
   - '2026 m.'
-date_start: '1376'
+date_start: '1330'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -81,79 +83,13 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   teiginys: "Vygando liudijimu, po penkias savaites trukusių kautynių kryžiuočiai atsitraukė nuo Vilniaus ir grįžo į Prūsiją bei Livoniją."
   pagrindžia:
     - c-156051
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“ apie Marienverderio
-    pilies šturmą 1384 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197021"></a>
+- t-006
+  global_id: t-197021
+  teiginys: "Tarp jų ypatingą vietą užima Petro iš Dusburgo „Prūsijos žemės kronika“, pateikianti daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir jo sąjungininkų agresiją XIII—XIV a."
   pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Piksidomis (ma-
-    žesnio kalibro pabūklais) daugelį jų karių
-
-    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie tai,
-    kaip 1376 m. Algirdas ir Kęstutis siaubia Ordino valdas.
-
-    „Tais pačiais metais Kęstutis ir Algirdas, pagavę [Ordino] sargybinius, trimis voromis
-    įsiveržia į neįspėtą Nadruvos kraštą ir aplink Įsruties pilį viską išdegina. Nusivaro vyrus,
-    moteris, taip pat [Ordino] brolių arklius su milžinišku grobiu. Kita kariuomenės vora kaip
-    priešai užpuola Narkyčius. Tenai niokoja taip kaip prieš tai. Pagaliau [niokoja] Taplaukio
-    krašte ir Nadruvoje, [nusinesdami] pakankamą grobį ir t.t. Trečioji vora - Vėluvos žemėje,
-    kurią parbėga, degindami ir naikindami kaimus, bažnyčias, ir viską žudydami ar imdami
-    į nelaisvę. Panašiai pasielgė Karaliaučiaus kanauninkų Želvos valsčiuje, išvesdami vyrus
-    ir moteris. Paskui skuba prie Jurgenburgo - vyskupo pilies ir t.t.“
-
-    Naujoji Prūsijos kronika apie lietuvių reidą į ordino žemes 1376 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-002
-
-- c-003
-  santrauka: 'Naujosios Prūsijos žemės kronika nurodo, kad prie Vilniaus penkias savaites dieną ir naktį vyko kautynės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Augustiną, tai
-    yra, rugpjūčio 28-ą, o priartėta prie
-    Vilniaus buvo rugsėjo 4-ą. Vygan­
-    das  tačiau byloja: Steterunt V septi­
-    manis in continuo agone nocte dieque
-    et pugna et ex utraque parte multi sunt
-    occisi [stovėjo 5 savaites nuolatinėse
-    kautynėse dieną naktį ir kovoje iš
-    abiejų pusių daug buvo užmuštų].
-    - • —
-    126
-
-    ## Puslapis 143
-
-    Il KNYGA
-    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
-    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
-    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-005
+    - c-179006
 
 ## Citatos
 
@@ -197,8 +133,8 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171556
     - t-171553
+    - t-171556
 
 - id: c-156051
   autorius: "Michał Baliński"
@@ -230,3 +166,26 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   pagrindzia:
     - t-171555
     - t-171557
+
+- id: c-179006
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
+    daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
+    jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
+    Kad geriau suvoktume kronikoje vaizduojamus Prūsijos ir Lietuvos istorijos faktus
+    bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
+    lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
+    klausimai.
+    Prūsai ir Lietuva
+    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
+    vientisumas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197021

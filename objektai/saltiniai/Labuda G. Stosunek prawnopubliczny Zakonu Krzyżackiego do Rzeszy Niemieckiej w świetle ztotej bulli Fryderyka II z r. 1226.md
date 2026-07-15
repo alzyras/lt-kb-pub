@@ -42,30 +42,13 @@ Dusburgietis teigia, kad labuda G.
   teiginys: "G. Labudos publikacija apie Kryžiuočių ordino santykį su Vokietijos imperija paskelbta 1951 m. Poznanės leidinyje „Czasopismo prawno-historyczne“."
   pagrindžia:
     - c-61755
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'G. Labudos publikacija apie Kryžiuočių ordino santykį su Vokietijos imperija paskelbta 1951 m. Poznanės leidinyje „Czasopismo prawno-historyczne“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Labuda G. Stosunek prawnopubliczny Zakonu Krzyżackiego do Rzeszy Niemieckiej
-    w świetle ztotej bulli Fryderyka II z r. 1226.—Czasopismo prawno-historyczne, Poznań,
-    1951, t. 3, s. 87—124.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61755
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Labuda G. Stosunek prawnopubliczny Zakonu Krzyżackiego do Rzeszy Niemieckiej
     w świetle ztotej bulli Fryderyka II z r. 1226.—Czasopismo prawno-historyczne, Poznań,

@@ -35,23 +35,6 @@ Nu­ puolusį (Kökeritz) karaliaus palydovai nužudė.
   teiginys: "Kökeritzą, nuo arklio numuštą Zbignievo Olesnickio ietimi, nužudė karaliaus palydovai."
   pagrindžia:
     - c-36031
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vienas riteris iš jų tarpo išsiskyrė ir patrau­
-    kė tiesiog į Jogailą. Jis buvo bebandąs pulti, kai staiga Zbignie­
-    vas Olesnickis jam pataikė ietimi ir nuvertė jį nuo arklio. Nu­
-    puolusį (Kökeritz) karaliaus palydovai nužudė. Jį pribaigė sa­
-    vo ranka pats karalius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

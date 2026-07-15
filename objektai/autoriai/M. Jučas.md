@@ -9,16 +9,16 @@ datos:
   - '2010 m.'
 date_start: '1966'
 date_end: '2010'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - istorikas
-amziai:
-  - 'XX'
-  - 'XXI'
-periodo_grupes:
-  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,20 +60,6 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
 - susijęs iš Laiškai Lietuviams: „Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys.
 - susijęs iš Jadwyga d’Anjou: „Jadwyga d’Anjou“ nurodyta kaip Lietuvos enciklopedijos 9 tomo straipsnis, apimantis 244-249 puslapius.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Warszawa, 1960; M. Jučas. Vytautas Didysis. Chicago, 2010; Lietuva
-    1009–2009.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'M. Jučas Petro Dusburgiečio kronikos faktais rėmė koncepcijų apie prūsus kritiką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -113,17 +99,16 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
 - id: c-163225
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 30-31"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 30-31."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
-
-      149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование...,
-    с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24—
-    30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński
-    J. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV
-
-    iš Dusburgo kronikos faktai.
+    Šit todėl mums ir šiandien aktualu pažinti šią viduramžių kroniką, nes ji ne tik
+    ryškiai atskleidžia vokiečių feodalų agresijos praeityje esmę, bet įgalina giliau suvokti
+    revanšistinių samprotavimų, taikaus tautų sambūvio priešininkų idėjines ištakas.
+    Nepaisant mūsų minėtų tendencijų ir netikslumų,  Dusburgo kronika — labai svarbus
+    istorijos šaltinis, kuriame užfiksuota daug svarbios baltistikai bei lituanistikai medžiagos.
+    Čia pateikta ryškių faktų, charakterizuojančių ekonominę, visuomeninę ir politinę prūsų
+    bei lietuvių nobiliteto padėtį, XIII—XIV a. susiformavusius klasinius skirtumus.
+  citata_rodoma: "Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro\n\n  149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование...,\nс. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24—\n30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński\nJ. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV\n\niš Dusburgo kronikos faktai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

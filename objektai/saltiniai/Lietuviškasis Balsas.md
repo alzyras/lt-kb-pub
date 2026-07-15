@@ -48,45 +48,6 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
   teiginys: "1885 m. pradėtas leisti laikraštis „Lietuviškasis Balsas“, kurį leidėjui teko beveik vienam rašyti, spausdinti ir platinti."
   pagrindžia:
     - c-67334
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Laikraštis „Lietuviškasis Balsas“ buvo leidžiamas 1885–1889 m.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    „Lietuviškojo Balso" pirmojo numerio antraštė.
-    (Laikraštis ėjo 1885—1889 m.).
-    pagalbos. Tačiau lietuvių nusistatymas ginti savo teises nė kiek
-    nemažėjo; jį dar labiau paskatino tautiškasis Amerikos lietu-
-    vių judėjimas, ypač pagyvėjęs su 1883 m. atsiradusia „Aušra".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '„Lietuviškasis Balsas“ ketverius metus kėlė lietuvių susipratimą ir ragino lietuvius patiems tvarkyti savo gyvenimą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš pradžių jis ėmė dirbti čia atrastoje lietuvių
-    spaudoje kartu su veikėjais, palaikiusiais ryšius su lenkais. Bet
-    1885 m. jau ėmė leisti savo laikraštį „Lietuviškąjį Bal-
-    są", kurį jam tekdavo beveik vienam ir prirašyti, ir išspausdinti
-    ir išplatinti. Per 4 metus, padedamas Lietuvoje ir Rusijoje gy-
-    venančių lietuvių inteligentų, savo laikraštyje jis kėlė lietuvių
-    susipratimą, ragino pačius lietuvius tvarkyti savo gyvenimą, o
-    nesiglausti prie lenkų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
 
 ## Citatos
 
@@ -127,5 +88,5 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67436
     - t-67434
+    - t-67436

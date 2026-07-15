@@ -5,6 +5,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
 datos:
   - '1791 m.'
   - '2026 m.'
@@ -60,6 +61,13 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   teiginys: "Jonas Dominykas Lopacinskis nenutraukė ryšių su Sapiegų gimine net tapęs vyskupu."
   pagrindžia:
     - c-184039
+
+<a id="claim-t-200760"></a>
+- t-004
+  global_id: t-200760
+  teiginys: "Sapiegos kartu su Pacais ir Radvilomis minimi kaip vietiniai lietuvių didikai, suvaidinę žymų vaidmenį Vilniaus baroko plėtotėje."
+  pagrindžia:
+    - c-184105
 - susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-182942|dvarų milicija]]: Sapiegų priešininkai atsivedė samdytos kariuomenės, vadintos savo dvarų milicija.
 - susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200461|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius.
 - susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200471|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas minėtas kaip Mykolo Ksavero Sapiegos politinis konkurentas.
@@ -202,6 +210,33 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200690
+
+- id: c-184105
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 32"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 32."
+  citata_originali: |
+    Lietuvos etmonui Mykolui Pacui išvijus
+    Maskvos kariuomenę, prasideda dar puikesnis bažnyčių ūgis, kuris užtrunka
+    daugiau kaip šimtmetį.
+    Kalbėdami apie Vilniaus baroko charakterį, nepamirškime, kad šito stiliaus
+    plėtotėje, be svetimšalių jėzuitų, žymų vaidmenį suvaidino vietiniai lietu­
+    vių didikai, kaip antai Pacai, Sapiega:, Radvilai, kurie nuo seno buvo
+    svarbiausieji Vilniaus architektūros įkvėpėjai. Ir iš viso, nagrinėjant pra­
+    eities meną, niekuomet nereikia išleisti iš akių didžiulės užsakovų reikšmės:
+    daugelis jų, būdami šviesūs, humanistiškai išsilavinę žmonės, gerai nusi­
+    maną apie meno plonybes ir reiklūs skonio atžvilgiu, meno kūrinių cha­
+    rakteriui turėdavo ne menkesnę įtaką, kaip pačių architektorių bei deko­
+    ratorių temperamentas ir meninė mąstysena; pastarieji, kaip ir kituose to
+    meto Europos kraštuose, būdavo iš dalies svetimšaliai, iš dalies — iš jų
+    prasimokę vietos meistrai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200760
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Lietuvos bajorija]]

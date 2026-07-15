@@ -47,8 +47,8 @@ Nenurodyta
   teiginys: "Spalio mėnesį lietuviai nusiaubė Kališo ir Seradzo žemes ir be pasipriešinimo grįžo namo su grobiu."
   pagrindžia:
     - c-169173
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Spalio mėnesį lietuviai nusiaubė Kališo ir Seradzo žemes ir be pasipriešinimo grįžo namo su grobiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -78,8 +78,7 @@ Nenurodyta
 - id: c-169173
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 185"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 185."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kryžiuočiams puldinėjant gretimus Žemaitijos
     kaimus, lietuviai su savo nuolatiniu, galima sakyti,
@@ -92,7 +91,17 @@ Nenurodyta
     pačiais metais buvo Rusioje užkariautas Polockas, ta­
     čiau jie nieko nemini, kas buvo pasėjęs šio karo sėklą,
     nors rašytojai aiškiai sako, jog šis miestas gerokai anks­
-    čiau su visa sritimi buvo prijungtas prie Lietuvos.
+    čiau su visa sritimi buvo prijungtas prie Lietuvos. Že­
+    maičiai, gal norėdami su kry-
+    1308 m e ta i
+    žiuočiais kariauti ne savo
+    Ž em a ičių ž y g is į Prū-
+    žemėje, o Prūsijoje, gal trok-
+    siją
+    šdami priešą nukamuoti nuo­
+    latiniais grobikiškais antpuo­
+    liais, smarkiai nusiaubė Sembos žemę.
+  citata_rodoma: "Kryžiuočiams puldinėjant gretimus Žemaitijos\nkaimus, lietuviai su savo nuolatiniu, galima sakyti,\nnaminiu priešu šitaip kariavo: kai šie nusiaubdavo jų\ntėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.\nSpalio mėnesį Lenkijoje nusiaubę Kališo ir Seradzo\nžemes, sugrįžo prisiplėšę grobio namo be kovos su ne­\npatyrusią nuostolių kariuomene, kadangi niekur nesu­\ntiko pasipriešinimo. Iš rusų šaltinių žinome, kad tais\npačiais metais buvo Rusioje užkariautas Polockas, ta­\nčiau jie nieko nemini, kas buvo pasėjęs šio karo sėklą,\nnors rašytojai aiškiai sako, jog šis miestas gerokai anks­\nčiau su visa sritimi buvo prijungtas prie Lietuvos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

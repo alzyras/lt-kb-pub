@@ -7,15 +7,15 @@ datos:
   - '1974 m.'
 date_start: '1974'
 date_end: ''
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - autorius
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,8 +43,8 @@ Dusburgietis teigia, kad steponavičienė J.
   teiginys: "J. Steponavičienė 1974 m. paskelbė straipsnį apie lietuviškų vietovardžių prūsinimą Kryžiuočių ordino raštuose."
   pagrindžia:
     - c-61425
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Steponavičienė 1974 m. paskelbė straipsnį apie lietuviškų vietovardžių prūsinimą Kryžiuočių ordino raštuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -64,11 +64,12 @@ Dusburgietis teigia, kad steponavičienė J.
 - id: c-61425
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Steponavičienė J. Dėl lietuviškų vietovardžių prūsinimo kryžiuočių ordino raštuose.—
-    Baltistica, 1974, 10 (2), p. 163— 168.
+    Валиконите И. Социально-экономическое и правовое положение женщин в ВКЛ
+    (конец XV — первая пол. XVI в.) и его отражение в Первом Литовском статуте:
+    Автореферат канд. дис. — В., 1978.
+  citata_rodoma: "Steponavičienė J. Dėl lietuviškų vietovardžių prūsinimo kryžiuočių ordino raštuose.—\nBaltistica, 1974, 10 (2), p. 163— 168."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

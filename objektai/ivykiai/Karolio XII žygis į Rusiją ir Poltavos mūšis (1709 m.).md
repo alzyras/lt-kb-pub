@@ -52,26 +52,6 @@ Nenurodyta
   teiginys: "1707 m. pradžioje Karoliui XII grįžus iš Saksonijos, rusai pradėjo trauktis."
   pagrindžia:
     - c-66800
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1707 m. pradžioje Karoliui XII grįžus iš Saksonijos, rusai pradėjo trauktis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo tarpu 1707 m. pradžioje
-    grįžo iš Saksonijos Karolis XII, ir rusai pradėjo trauktis. Trauk-
-    damiesi jie viską naikino, gabenosi į Rusiją turtus ir belaisvius,
-    o ko negalėjo išsivežti, tą degino. Karolis XII svajojo pasiekti
-    Maskvą ir pašalinti nuo sosto Petrą I. Kadangi jam buvo pa-
-    žadėjęs sąjungą kairėje Dniepro pusėje caro valdomų kazokų
-    hetmonas Mazefa, tai jis žygiavo į Ukrainą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

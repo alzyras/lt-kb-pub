@@ -2,8 +2,8 @@
 tipas: vieta
 pavadinimas: 'Notanga'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad siaurės rytuose priėjo Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais priskiriama Notangai). Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų.
+Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių. Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, degino ir grobė, bet grįždami rado priešų užstotus kelius. Netikėlių kariuomenė įsibrovė į Notangą, degindama ir plėšdama nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.
 
 ## Teiginiai
 
@@ -73,13 +73,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginys: "Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą."
   pagrindžia:
     - c-86940
-
-<a id="claim-t-185073"></a>
-- t-007
-  global_id: t-185073
-  teiginys: "Kariuomenė per Notangos kraštą įžengė į priešų žemę ir Prūsijos centre pasirinko stovyklos vietą."
-  pagrindžia:
-    - c-168434
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175112|Sūduviai-jotvingiai]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-183903|Sūduviai-jotvingiai]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-183900|Sūduviai]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
@@ -151,7 +144,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/daiktai/Pilys.md#claim-t-59675|Pilys]]: Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš [[objektai/ivykiai/Bisenės papilių sudeginimas (1313 m.).md#claim-t-62207|Bisenės papilių sudeginimas (1313 m.)]]: 1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenę, o po ilgų kovų sudegė abu jos papiliai.
-- susijęs iš [[objektai/ivykiai/Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.).md#claim-t-185556|Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.)]]: Pasroviui atskubėję lietuviai Nemune prarado tik vieną saviškį ir privertė priešų laivus pasukti atgal.
 - susijęs iš [[objektai/ivykiai/Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.).md#claim-t-66504|Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)]]: 1295 m. gegužės 20 d. laivų mūšyje prie Gardino žuvo brolis Ditrichas iš Ezbeko ir dar vienas Ordino brolis.
 - susijęs iš [[objektai/ivykiai/Brolio Ulricho laivų kautynės ir 50 prūsų žūtis.md#claim-t-91911|Brolio Ulricho laivų kautynės ir 50 prūsų žūtis]]: Brolis Ulrichas laivų kautynėse stiebu daužė prūsų laivus ir nuskandino jų tiek, kad kartu su laivais žuvo 50 prūsų.
 - susijęs iš [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema).md#claim-t-183919|Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]: 1296 m. žiemą Gardino pilies apylinkių ir papilio puolėjai, be užmuštųjų, išsivarė į nelaisvę 200 žmonių.
@@ -195,125 +187,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš Kroicburgas: Broliai pastatė Kroicburgo pilį Notangos žemėje prie Kaustros upės, siekdami užkirsti kelią prūsų atkryčiui.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markos valdovas).md#claim-t-60263|Ditrichas (Meiseno markos valdovas)]]: 1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    66(65). Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
-
-      Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės
-    naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,
-    nei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.
-    Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos
-    brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
-    išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
-    negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-002
-  santrauka: 'Komtūro kariuomenė įsibrovė į taikos sutarčių nepripažinusį Notangos pakraštį, jį nuniokojo ir nužudė vadą Gadiką su dviem sūnumis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    76 (75). Apie vienos Notangos dalies nuniokojimą
-
-      Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
-    kurie jam buvo paklusnūs,  ir įsibrovė  į vieną Notangos žemės pakraštį [confinium],
-    nenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],
-    ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė
-    drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
-    moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-003
-  santrauka: 'Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, degino ir grobė, bet grįždami rado priešų užstotus kelius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės
-    naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,
-    nei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.
-    Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos
-    brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
-    išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
-    negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306. Prūsai, šitai išvydę,
-    juos apsupo, bet nedrįso  į kaimą brautis, o broliai — iš kaimo išeiti  ir stoti  į mūšį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Netikėlių kariuomenė įsibrovė į Notangą, degindama ir plėšdama nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kitą
-      552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,
-    dab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).
-
-    dieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir
-    plėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-005
-  santrauka: 'Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
-    vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-006
-  santrauka: 'Notanga šiaurės rytuose siekė Unzatrapio žemę prie Priegliaus ir Alnos santakos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Teritorija  į rytus nuo Varmės, šiaurėje siekė
-    Priegliaus pakrantes, o rytuose — Alnos upę  (į pietryčius nuo dab. Kaliningrado —
-    imtinai su Bagrationovsku. Pietuose maždaug iki dab. Bartošicės). Siaurės rytuose priėjo
-    Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais
-    priskiriama Notangai).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-007
-  santrauka: 'Kariuomenė per Notangos kraštą įžengė į priešų žemę ir Prūsijos centre pasirinko stovyklos vietą.'
+  santrauka: 'Kojelavičiaus pasakojime kariuomenė per Notangą įžengė į priešininkų žemę ir Prūsijos centre pasirinko stovyklos vietą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Į pagalbą buvo sutraukta galybė
@@ -346,8 +221,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     ko stovyklai vietą, iš kurios patogu bet kuria krypti­
     mi puldinėti priešą.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  statusas: not_found
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -358,18 +233,18 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-86940
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    66(65). Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
-
-      Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės
-    naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,
-    nei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.
-    Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos
-    brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
-    išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
-    negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306.
+    Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
+    Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
+    kurių reikalavo prūsai, kad kiti, paimti į nelaisvę, išliktų gyvi. Šitokia sutartis nepatiko
+    dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius,
+    pasikliovus viešpačiu, drąsiai stoti į kovą. Kai visų kitų nuomonė paėmė viršų ir kai davė
+    įkaitus, apie kuriuos jau esame kalbėję, prūsai, sulaužę taikos sutartį, užpuolė ir nužudė
+    54 brolius bei visus kitus, ten buvusius, 1249 viešpaties metais308 lapkričio 29 d. Po šių
+    žudynių vienas notangas pamovė ant ieties brolio Jono, minėtojo vicekomtūro, galvą ir,
+    ją pakėlęs aukštyn, pasakė: „Jeigu broliai būtų paklausę tavo patarimo, tikrai nebūtų
+    buvę nukauti“.
   citata_rodoma: "Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių\n\n  Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės\nnaujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,\nnei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.\nDėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos\nbrolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,\nišžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,\nnegalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306."
   statusas: verified
   teiginio_tipas: faktas
@@ -381,13 +256,11 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-86941
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 109"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 109."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     76 (75). Apie vienos Notangos dalies nuniokojimą
-
-      Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
-    kurie jam buvo paklusnūs,  ir įsibrovė  į vieną Notangos žemės pakraštį [confinium],
+    Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
+    kurie jam buvo paklusnūs, ir įsibrovė į vieną Notangos žemės pakraštį [confinium],
     nenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],
     ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė
     drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
@@ -403,17 +276,17 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-86942
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės
+    Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
+    Kai prakeiktasis Sventopelkas pasipriešino broliams ir paskatino Prūsijos žemės
     naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,
     nei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.
     Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos
     brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
     išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
     negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306. Prūsai, šitai išvydę,
-    juos apsupo, bet nedrįso  į kaimą brautis, o broliai — iš kaimo išeiti  ir stoti  į mūšį.
+    juos apsupo, bet nedrįso į kaimą brautis, o broliai — iš kaimo išeiti ir stoti į mūšį.
   citata_rodoma: "Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos\nbrolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,\nišžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,\nnegalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306."
   statusas: verified
   teiginio_tipas: faktas
@@ -425,15 +298,19 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-86943
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 192-193"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192-193."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kitą
-      552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,
-    dab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).
-
-    dieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir
-    plėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių.
+    Pailsęs nuo rūpesčių ir palaužtas negalės,
+    ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia
+    pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.
+    280 (273). Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
+    Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
+    pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir
+    panoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai
+    pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai
+    prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių
+    rankų.
+  citata_rodoma: "Kitą\n  552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,\ndab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).\n\ndieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir\nplėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -444,13 +321,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-86944
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Prūsai ir Lietuva
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
     vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
@@ -466,11 +343,10 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-86945
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 59"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 59."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Teritorija  į rytus nuo Varmės, šiaurėje siekė
-    Priegliaus pakrantes, o rytuose — Alnos upę  (į pietryčius nuo dab. Kaliningrado —
+    Teritorija į rytus nuo Varmės, šiaurėje siekė
+    Priegliaus pakrantes, o rytuose — Alnos upę (į pietryčius nuo dab. Kaliningrado —
     imtinai su Bagrationovsku. Pietuose maždaug iki dab. Bartošicės). Siaurės rytuose priėjo
     Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais
     priskiriama Notangai).
@@ -480,47 +356,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91220
-
-- id: c-168434
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Į pagalbą buvo sutraukta galybė
-    kariuomenės iš Vokietijos: puikiai ginkluotų karių,
-    patyrusių kariauti vadų; rodėsi, jog nieko netrūksta
-    Prūsijos ir Žemaitijos žemdirbiams išžudyti. Per No-
-    tangos kraštą įžengę į priešų žemę, jie, ketindami per­
-    kelti karo židinį į šalies gilumą, Prūsijos centre parin­
-    P rūsai
-    išsiža d a
-    k r i­
-    k ščio n ių
-    tik ė jim o  ir
-    a tsim e ta
-    n u o
-    k r y ­
-    žiu o čių
-    riuos beįmanė pagauti, žiau­
-    riai nukankino; jie nepaliko
-    neišniekinę nė vienos krikš­
-    čionių
-    šventenybės,
-    kurią
-    tik valiojo pasiekti jų stai­
-    gus įsiūtis. Todėl krikščio-
-    106
-
-    ## Puslapis 105
-
-    ko stovyklai vietą, iš kurios patogu bet kuria krypti­
-    mi puldinėti priešą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185073
 
 ## Ryšiai
 - Puolė Notangą: [[objektai/grupes/Sūduviai]]

@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos. Po nelaimingai pasibaigusio kryžiuočių žygio į Lietuvą 1345 m., kai ordino išdavikas pasirodė esąs patsai magistras, lietuviai nusiaubė ordino kraštą net du kartus (1347 m.). Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
+Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalintas iš pareigų. Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalintas iš pareigų. Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos.
 
 ## Teiginiai
 
@@ -43,24 +43,24 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
   pagrindžia:
     - c-159335
 
-<a id="claim-t-175181"></a>
-- t-002
-  global_id: t-175181
-  teiginys: "Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalintas iš pareigų."
-  pagrindžia:
-    - c-159335
-
 <a id="claim-t-193151"></a>
-- t-003
+- t-002
   global_id: t-193151
   teiginys: "Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos."
   pagrindžia:
     - c-159335
 
 <a id="claim-t-193382"></a>
-- t-004
+- t-003
   global_id: t-193382
   teiginys: "Dėl to visi pradėjo atvirai niekinti senuosius magistrų, maršalų, komtūrų titulus ir galvoti apie valstybinės santvarkos pakei timą."
+  pagrindžia:
+    - c-176107
+
+<a id="claim-t-196381"></a>
+- t-004
+  global_id: t-196381
+  teiginys: "Kojelavičius magistru vadina vadą, kuris Vokietijoje pasisamdė dešimt tūkstančių algininkų ir įsiveržė į karaliui priklausiusias Prūsijos apygardas."
   pagrindžia:
     - c-176107
 - susijęs iš [[objektai/asmenys/Andriejus (Polocko kunigaikštis).md#claim-t-35024|Andriejus (Polocko kunigaikštis)]]: Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.
@@ -123,14 +123,11 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-59696|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
 - susijęs iš [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje.md#claim-t-87068|Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]: 1394 m. magistras tris savaites ir dvi dienas daužė Vilniaus pilių sienas ir bokštus, bet pilių neužėmė dėl griovių ir perkasų.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175536|Kalavijuočių ordinas]]: Folkvinas, antrasis Kristaus karių ordino Livonijoje magistras, šešerius metus ragino prijungti jo ordiną prie Teutonų ordino.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184563|Kalavijuočių ordinas]]: Mūšyje su lietuviais ordino kariuomenė buvo sutriuškinta, o pats magistras žuvo su beveik 20 ordino riterių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178840|Kryžiuočių ordinas]]: Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178894|Kryžiuočių ordinas]]: 1237 m. Kryžiuočių ordino magistras su broliais Pagudėje pastatė pilį, pavadintą Elbingu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178897|Kryžiuočių ordinas]]: Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti priešui kelią.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178898|Kryžiuočių ordinas]]: Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179001|Kryžiuočių ordinas]]: Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną ir Redigerį Elnerį užimti Vilniaus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179019|Kryžiuočių ordinas]]: Ordino magistras, plėsdamas veiksmus Lietuvos pasienyje, įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179083|Kryžiuočių ordinas]]: Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti jiems kelią.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179097|Kryžiuočių ordinas]]: Kryžiuočių magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš akių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179105|Kryžiuočių ordinas]]: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu, o didysis magistras ėmė ruoštis naujam žygiui į Lietuvą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184494|Kryžiuočių ordinas]]: Atvirame lauke lietuviai laimėjo kautynes su kryžiuočiais, o mūšyje žuvo ordino magistras Burchardas Aremas ir trisdešimt riterių.
@@ -153,17 +150,13 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu.md#claim-t-62806|Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]: Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui iš Zalcos ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186604|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraščio pasakojime prie Dubrovnos Jogaila, Vytautas ir Prūsijos magistras sutelkė didžiules kariuomenes.
 - susijęs iš [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.).md#claim-t-66606|Karusės mūšis (1270 m. vasario 16 d.)]]: Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.
-- susijęs iš [[objektai/ivykiai/Kauno apgulties pradžia (1362 m.).md#claim-t-185804|Kauno apgulties pradžia (1362 m.)]]: 1362 m. pavasario pradžioje kryžiuočių magistras išvedė nuolatinę ir pagalbinę kariuomenę į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Kolainių apgultis ir pilies sunaikinimas (1290 m.).md#claim-t-185714|Kolainių apgultis ir pilies sunaikinimas (1290 m.)]]: Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos.
 - susijęs iš [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru.md#claim-t-183934|Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]: Didysis magistras 1279 m. paskyrė Konradą iš Foichtvangeno Prūsijos ir Livonijos brolių magistru.
 - susijęs iš [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru.md#claim-t-66630|Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]: Didysis magistras 1279 m. paskyrė Konradą iš Foichtvangeno Prūsijos ir Livonijos brolių magistru.
 - susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185716|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Į Prūsiją atvykus Reino krašto didikams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
-- susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185717|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
-- susijęs iš [[objektai/ivykiai/Livonijos ordino Vilniaus apgultis.md#claim-t-186750|Livonijos ordino Vilniaus apgultis]]: 1433 m. liepą iš Cėsių Lietuvos niokoti išžygiavusi Livonijos ordino kariuomenė žygyje užtruko 11 savaičių, o magistras Rutenbergas rugsėjo 18 d. grįžo į Rygą.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186744|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186746|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. sausio 25 d. buvo sutarta, kad Livonijos ordino magistras Rutenbergas įsiverš į Lietuvą, o Švitrigaila žygiuos nuo Vitebsko.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186747|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. vasario 15 d. Livonijos ordino magistras Rutenbergas ir Švitrigaila turėjo susijungti Kurenece bendram žygiui į Vilnių.
-- susijęs iš [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika.md#claim-t-185748|Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]: Ordino magistras Ketleris ir Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš [[objektai/ivykiai/Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.).md#claim-t-62870|Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)]]: Lubavos žemės mūšyje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę.
 - susijęs iš [[objektai/ivykiai/Melno taikos ratifikavimas Veliuonoje (1423 m. gegužė).md#claim-t-179454|Melno taikos ratifikavimas Veliuonoje (1423 m. gegužė)]]: 1423 m. gegužę Veliuonoje didysis magistras ir Livonijos magistras ieškojo formalių priekabių Melno taikos sutarčiai sugriauti.
 - susijęs iš [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia).md#claim-t-71756|Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]: Mindaugas susitaikė su Livonijos ordino magistru Andriumi von Stirland, kuris su juo padarė taiką ir skatino krikštytis.
@@ -186,7 +179,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš Livonijos kronika: Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
 - susijęs iš Mindaugo dovanojimo raštas Livonijos ordinui: Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir perleistų teises į žemes riterių ordinui.
 - susijęs iš Pasakojimas apie Teutonų ordino pradžią: „Pasakojime apie Vokiečių ordino pradžią“ pirmasis Ordino magistras Henrikas Valpotas vadinamas Hermanu.
-- susijęs iš Pasvalio ilgalaikis taikos susitarimas tarp Žygimanto Augusto ir Livonijos magistro: Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir, remiamas Mikalojaus Radvilos, pasirašė ilgalaikį taikos susitarimą.
 - susijęs iš Švitrigailos 1432 m. rugpjūčio 13 d. laiškas didžiajam magistrui: Švitrigaila laiške prašė didžiojo magistro palydėti Vroclavo vyskupą Konradą į Kistriną ir suteikti garantiją Vroclavo gyventojams.
 - susijęs iš Švitrigailos 1432 m. rugpjūčio 13 d. laiškas didžiajam magistrui: 1432 m. rugpjūčio 13 d. laiške didžiajam magistrui Švitrigaila prašė garantijų Vroclavo gyventojams keliauti per Ordino žemes su prekėmis.
 - susijęs iš Dubysa: Į Dubysos salą vyko magistras Konradas Zöllneris von Rotensteinas, komtūrai ir du vyskupai, turėję krikštyti lietuvių kunigaikščius.
@@ -197,8 +189,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš Polockas: Skirgailai apgulus Polocką, Jogailos kariuomenė ir Livonijos magistras atsiuntė jam pagalbinių būrių.
 - susijęs iš Venecija: Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno.
 - susijęs iš Venecija: Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno.
-- susijęs iš Vilnius: Priešui nuniokojus Vilniaus apylinkes keturių mylių spinduliu, didysis magistras įsakė trauktis.
-- susijęs iš Vilnius: Vilnius dėl stiprių tvirtovių įgulų išvengė puolimo, bet didysis magistras nuniokojo apylinkes iki Medininkų ir Ašmenos.
 - susijęs iš Vysla: Manydamas, kad Jogaila puls kairiajame Vyslos krante, didysis magistras pagrindines Ordino jėgas sutelkė prie Vyslos.
 - susijęs iš [[objektai/zodynas/Ordino maršalas didysis maršalas.md#claim-t-86490|Ordino maršalas didysis maršalas]]: Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga.
 - susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113612|didysis magistras]]: Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe ir apie 200 Ordino riterių.
@@ -221,14 +211,14 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/asmenys/Bertoldas Briuhavenas.md#claim-t-186098|Bertoldas Briuhavenas]]: Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59879|Bertoldas, vadinamas Briuhavenu]]: 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.
 - susijęs iš [[objektai/asmenys/Boleslovas Kreivaburnis.md#claim-t-190137|Boleslovas Kreivaburnis]]: Narbutas nurodo kronikininkų liudijimą, kad Boleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti Romovės ąžuolą.
-- susijęs iš [[objektai/asmenys/Brunonas.md#claim-t-184682|Brunonas]]: Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.
+- susijęs iš [[objektai/asmenys/Brunonas.md#claim-t-184682|Brunonas]]: Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus.
 - susijęs iš [[objektai/asmenys/Burchardas Aremas.md#claim-t-186187|Burchardas Aremas]]: Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas ir trisdešimt ordino riterių.
 - susijęs iš [[objektai/asmenys/Burchardas Harenas.md#claim-t-186188|Burchardas Harenas]]: Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsirengė į karą prieš Lietuvą.
 - susijęs iš [[objektai/asmenys/Celestinas III.md#claim-t-60224|Celestinas III]]: Popiežius Celestinas III Jeruzalėje įkūrė Šv. Marijos Teutonų ordino ligoninę ir paskyrė septynis kraštų valdytojus.
 - susijęs iš [[objektai/asmenys/Celestinas III.md#claim-t-60225|Celestinas III]]: Celestinas III Jeruzalėje įkūrė ir pašventino Šv. Marijos Teutonų ordino vienuolių ligoninę.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markgrafas).md#claim-t-60262|Ditrichas (Meiseno markgrafas)]]: Meiseno markgrafas Ditrichas buvo tarp didikų, pritarusių siųsti legatus Henrikui VI dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89686|Ditrichas (Prūsijos žemės maršalas)]]: Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą per mūšį su Helmericho kariuomene.
-- susijęs iš [[objektai/asmenys/Ditrichas fon Altenburgas.md#claim-t-186107|Ditrichas fon Altenburgas]]: 1339 m. Prūsijos magistras Ditrichas fon Altenburgas su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.
+- susijęs iš [[objektai/asmenys/Ditrichas fon Altenburgas.md#claim-t-186107|Ditrichas fon Altenburgas]]: Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.
 - susijęs iš [[objektai/asmenys/Eberhardas iš Manheimo.md#claim-t-60270|Eberhardas iš Manheimo]]: 1330 m. Rygos miestiečiai patikėjo miestą, šeimas, laisves ir privilegijas Livonijos magistrui Eberhardui iš Manheimo.
 - susijęs iš [[objektai/asmenys/Egerbergas.md#claim-t-87658|Egerbergas]]: 1323 m. pradžioje Egerbergas su Zinnenbergu atvyko su stipriu kilmingų karių ir vasalų pulku iš Čekijos bei Pareinio žemių.
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
@@ -295,11 +285,10 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/asmenys/Kodrūnas.md#claim-t-60356|Kodrūnas]]: Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį.
 - susijęs iš [[objektai/asmenys/Konradas (Landsbergo markgrafas).md#claim-t-60360|Konradas (Landsbergo markgrafas)]]: Landsbergo markgrafas Konradas buvo tarp didikų, pritarusių pasiūlymui prašyti popiežiaus patvirtinti naują ligoninę.
 - susijęs iš [[objektai/asmenys/Konradas (Mainco arkivyskupas).md#claim-t-60361|Konradas (Mainco arkivyskupas)]]: Mainco arkivyskupas Konradas buvo tarp Vokietijos didikų, pritarusių prašymui popiežiui leisti įsteigti ir patvirtinti ligoninę.
-- susijęs iš [[objektai/asmenys/Konradas (Prūsijos magistras).md#claim-t-186126|Konradas (Prūsijos magistras)]]: Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
-- susijęs iš [[objektai/asmenys/Konradas (Prūsijos magistras).md#claim-t-186127|Konradas (Prūsijos magistras)]]: Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.
+- susijęs iš [[objektai/asmenys/Konradas (Prūsijos magistras).md#claim-t-186127|Konradas (Prūsijos magistras)]]: Konradas, Kojelavičiaus vadinamas magistru, įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.
 - susijęs iš [[objektai/asmenys/Konradas (Viurcburgo vyskupas).md#claim-t-60362|Konradas (Viurcburgo vyskupas)]]: Konradas, Viurcburgo vyskupas ir Romos imperijos kancleris, buvo tarp Vokietijos didikų, palaikiusių ligoninės patvirtinimo prašymą.
 - susijęs iš [[objektai/asmenys/Konradas (Vroclavo vyskupas).md#claim-t-87758|Konradas (Vroclavo vyskupas)]]: 1432 m. Švitrigaila pasiuntė Vroclavo vyskupą Konradą į Kistriną pasiteirauti dėl galimos grėsmės iš Štolpensko kunigaikščio.
-- susijęs iš [[objektai/asmenys/Konradas Celneris.md#claim-t-185990|Konradas Celneris]]: Ordino magistras Konradas Celneris Prūsijoje visokeriopai parėmė Vytauto sumanymus.
+- susijęs iš [[objektai/asmenys/Konradas Celneris.md#claim-t-185990|Konradas Celneris]]: Konradas Celneris, Kojelavičiaus vadinamas ordino magistru, visokeriopai parėmė pas kryžiuočius perėjusio Vytauto sumanymus.
 - susijęs iš [[objektai/asmenys/Konradas Ciolneris Rotenšteinas.md#claim-t-87439|Konradas Ciolneris Rotenšteinas]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas su didelėmis pajėgomis persikėlė per Nemuną ties Kaunu ir niokojo kraštą.
 - susijęs iš [[objektai/asmenys/Konradas Ciolneris Rotenšteinas.md#claim-t-87440|Konradas Ciolneris Rotenšteinas]]: Konradas Ciolneris negalėjo vadovauti žygiui, nes tuo metu sirgo sunkia liga.
 - susijęs iš [[objektai/asmenys/Konradas Valenrodas.md#claim-t-87398|Konradas Valenrodas]]: Konrado Valenrodo vadovaujama kryžiuočių kariauna kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį.
@@ -316,7 +305,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/asmenys/Naudžiotas.md#claim-t-60179|Naudžiotas (karvedys)]]: Po 14 dienų Naudžiotas Karaliaučiaus pilyje atskleidė atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus.
 - susijęs iš [[objektai/asmenys/Nesselrodė.md#claim-t-183757|Nesselrodė]]: Pabaisko (Šventosios) mūšyje žuvo Livonijos maršalas Nesselrodė.
 - susijęs iš [[objektai/asmenys/Nesselrodė.md#claim-t-40371|Nesselrodė]]: Maršalas Nesselrodė žuvo Pabaisko mūšyje, kuriame taip pat krito dauguma Livonijos komtūrų ir riterijos.
-- susijęs iš [[objektai/asmenys/Otonas.md#claim-t-184812|Otonas]]: Livonijos magistras Otonas žuvo prie Eželio ant ledo kovodamas su žemaičiais ir lietuviais.
 - susijęs iš [[objektai/asmenys/Ottonas Luterbergas.md#claim-t-39398|Ottonas Luterbergas]]: Livonijos magistras Ottonas Luterbergas buvo nukautas kovoje, kurioje žuvo ir 52 Ordino broliai.
 - susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87452|Paulius Rusdorfas]]: Didysis magistras Paulius Rusdorfas atsiuntė kunigaikštienei Julijonai gydomųjų gėrimų.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184823|Petras Goštautas]]: Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio.
@@ -331,7 +319,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/asmenys/Sabinas.md#claim-t-60431|Sabinas]]: Notangai savo kariuomenės vadu išsirinko vyrą, vardu Sabinas.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59824|Skomantas]]: 1284 m. Ordino magistras vasarą su vedliu Skomantu patraukė prieš Gardino pilį.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59831|Skomantas]]: Ordino magistras Mangoldas per žygį į Kresmenos valsčių sudegino Skomanto sodybą.
-- susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-184834|Sudargas]]: Sudargo šeimyna nukentėjo, kai priešas paėmė į nelaisvę jo žmoną, sūnus ir visus šeimynykščius.
+- susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-184834|Sudargas]]: Kojelavičius rašo, kad po pralaimėjimo priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius.
 - susijęs iš [[objektai/asmenys/Sudimantas.md#claim-t-87582|Sudimantas]]: Per puolimą sučiuptas lietuvių vadas Sudimantas prūsų buvo nuteistas pakarti kaip išdavikas.
 - susijęs iš [[objektai/asmenys/Survila.md#claim-t-82730|Survila]]: 1365 m. Survila, artimas Kęstučio sūnaus Butauto giminaitis, pabėgo ir Karaliaučiuje buvo pakrikštytas.
 - susijęs iš [[objektai/asmenys/Survila.md#claim-t-82731|Survila]]: 1365 m. Vinrichas Kniprodė Karaliaučiuje pakrikštijo Survilą ir Butautą, pasinaudojęs jų pabėgimu.
@@ -353,7 +341,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64227|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Didysis magistras Verneris generalinėje kapituloje nutarė, kad kunigai kasdien po sumos skaitytų evangeliją.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64232|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Didysis magistras Verneris iš Orzelno ėmėsi restauruoti Kryžiuočių ordiną.
 - susijęs iš [[objektai/asmenys/Vilhelmas (vengrų karvedys).md#claim-t-60464|Vilhelmas (vengrų karvedys)]]: Vengrų karvedžiui Vilhelmui naktį pasirodė Švenčiausioji Mergelė ir įspėjo jį pasitraukti iš siaubiamos žemės.
-- susijęs iš [[objektai/asmenys/Vilhelmas Fiurstenbergas.md#claim-t-186087|Vilhelmas Fiurstenbergas]]: Viljandyje magistras Vilhelmas Fiurstenbergas pateko į priešų rankas.
 - susijęs iš [[objektai/asmenys/Vinrichas Kniprodė.md#claim-t-188645|Vinrichas Kniprodė]]: Narbutas, remdamasis Treteriu, rašo, kad Vinrichas Kniprodė vyskupo Jono I prašymu įsakė nukirsti garbintą ąžuolą.
 - susijęs iš [[objektai/asmenys/Vinrichas Kniprodė.md#claim-t-87590|Vinrichas Kniprodė]]: Vinrichas Kniprodė 1365 metais su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.
 - susijęs iš [[objektai/asmenys/Vinrichas fon Kniprodė.md#claim-t-80702|Vinrichas fon Kniprodė]]: 1362 m. Kauno pilies žygiui vadovavo didysis Ordino magistras Vinrichas fon Kniprodė.
@@ -361,10 +348,9 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/asmenys/Volkvinas.md#claim-t-183770|Volkvinas]]: Magistras Volkvinas su kariuomene žygiavo į lietuvių kraštą ir pasiekė Saulės žemę.
 - susijęs iš [[objektai/asmenys/Volkvinas.md#claim-t-39676|Volkvinas]]: Magistras Volkvinas su kariuomene žygiavo į lietuvių kraštą ir Saulės žemėje buvo lietuvių užmuštas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176714|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.
-- susijęs iš [[objektai/asmenys/Zigfridas fon Dahenfeldas.md#claim-t-186269|Zigfridas fon Dahenfeldas]]: Magistras paskyrė Prūsijos maršalą Zigfridą fon Dahenfeldą kariuomenės vadu ir įsakė žygiuoti į Lietuvą.
 - susijęs iš [[objektai/asmenys/Zinnenbergas.md#claim-t-87893|Zinnenbergas]]: 1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku.
 - susijęs iš [[objektai/asmenys/Zöllneris.md#claim-t-35414|Zöllneris]]: Ordino magistras Zöllneris atsisakė būti Jogailos krikštatėviu.
-- susijęs iš [[objektai/asmenys/Šindekopfas.md#claim-t-186090|Šindekopfas]]: Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, kad būtų ginama nauja pilis ir nustumtas priešas.
+- susijęs iš [[objektai/asmenys/Šindekopfas.md#claim-t-186090|Šindekopfas]]: Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, kad būtų ginama Gotesverderio pilis.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179696|Švitrigaila]]: Didysis magistras apstatė Švitrigailą savo parankiniais, siekdamas silpninti Lietuvos ir Lenkijos vienybę.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183852|Žygimantas Augustas (arkivyskupas, XVI a.)]]: 1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje.
 - susijęs iš [[objektai/autoriai/Hennenberger C.md#claim-t-64604|Hennenberger C]]: C. Hennenbergeris rašė apie Brandenburgo pilies vietą Pokarviuose prie Aismarių.
@@ -395,7 +381,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175539|Kalavijuočių ordinas]]: Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną prie Teutonų ordino.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175540|Kalavijuočių ordinas]]: Maskvos ginklų sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184562|Kalavijuočių ordinas]]: Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184568|Kalavijuočių ordinas]]: Livonijos riterių magistras Vilhelmas Fiurstenbergas su beveik visu ordinu atsižadėjo Romos tikėjimo ir perėjo į Liuterio sektą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178789|Kryžiuočių ordinas]]: Balińskis teigė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178849|Kryžiuočių ordinas]]: 1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178850|Kryžiuočių ordinas]]: Kryžiuočiai įkalbėjo svetimtaučius savanorius, kad visa Lietuva tebėra pagonių šalis.
@@ -413,8 +398,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178980|Kryžiuočių ordinas]]: 1244 m. į Prūsiją atvyko magistras Poponas su Ordino broliais ir Austrijos kunigaikščio atsiųstais raitaisiais lankininkais.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178981|Kryžiuočių ordinas]]: Popiežius Celestinas III Jeruzalėje įkūrė Šventosios Marijos Teutonų ordino vienuolių ligoninę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179021|Kryžiuočių ordinas]]: Mindaugo laikų krikšto bandymui sutrukdė Vokiečių ordino siekis užgrobti Žemaičius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179025|Kryžiuočių ordinas]]: Hermanas Salza 1226 m. kovo mėnesį Riminyje išsirūpino imperatoriaus Fridricho II privilegiją Vokiečių ordino ateičiai rytuose.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179029|Kryžiuočių ordinas]]: 1226 m. Riminyje Fridrichas II suteikė Vokiečių ordinui teisę tapti užkariausimos prūsų žemės savininku.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179042|Kryžiuočių ordinas]]: 1383 m. Kryžiuočių ordino kariauna su Vytautu ir jo šalininkais rugsėjo 11 d. apsupo Trakų pilį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179091|Kryžiuočių ordinas]]: Pratarmėje Petras Dusburgietis pranašo Danieliaus žodžius panaudojo Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti.
@@ -428,7 +411,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184548|Lietuviai]]: Lietuviai atrėmė priešo puolimą, persekiojo kryžiuočius ir privertė juos bėgti.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92735|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92739|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
-- susijęs iš [[objektai/grupes/Maskvėnai.md#claim-t-184574|Maskvėnai]]: Maskvėnai į Livonijos žygį patraukė su 120 tūkstančių vyrų ir netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86735|Mazovijos kunigaikščiai]]: 1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65942|Nadruviai]]: Po Tirsko pasidavimo daug kilmingų Nadruvos vyrų su šeimynomis atėjo pas brolius, priėmė krikštą ir išsižadėjo stabų.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78405|Notangai]]: 1274 m. notangai kartu su pagudėnais, varmiais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.
@@ -449,7 +431,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184596|Žemaičiai]]: Prūsai ir žemaičiai iš miškų užpuolė grobio ieškojusius kryžiuočius, kai šie plėšikavo nepasirūpinę apsauga.
 - susijęs iš [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje.md#claim-t-62736|1283 m. žiemos lietuvių antpuolis Sembos žemėje]]: 1283 m. žiemą 800 lietuvių raitelių per Kuršių neriją įsiveržė į Sembą, nusiaubė Abendos ir Pabečių valsčius, nužudė 150 krikščionių ir grįžo be pasipriešinimo.
 - susijęs iš [[objektai/ivykiai/1384 m. Žemaičių sąjunga su Ordinu ir Vytauto pasidavimas Ordinui.md#claim-t-34463|1384 m. Žemaičių sąjunga su Ordinu ir Vytauto pasidavimas Ordinui]]: 1384 m. sutartyje numatyta, kad Vytautui mirus be teisėtų įpėdinių jo žemės turėjo atitekti Ordinui.
-- susijęs iš [[objektai/ivykiai/Algirdo mirtis ir Jogailos paskelbimas didžiuoju kunigaikščiu.md#claim-t-185688|Algirdo mirtis ir Jogailos paskelbimas didžiuoju kunigaikščiu]]: Algirdas labiausiai mylėjo Jogailą ir paskyrė jį savo įpėdiniu.
 - susijęs iš [[objektai/ivykiai/Aukaimio pilies srities teriojimas grįžtant nuo Junigėdos (1292 m.).md#claim-t-31405|Aukaimio pilies srities teriojimas grįžtant nuo Junigėdos (1292 m.)]]: 1292 m. grįždami nuo Junigėdos kryžiuočiai teriojo 1291 m. sudegintos Aukaimio pilies sritį.
 - susijęs iš [[objektai/ivykiai/Baigos pilies užėmimas (1239 m.).md#claim-t-62203|Baigos pilies užėmimas (1239 m.)]]: 1239 m. broliai su ginklanešiais užėmė Baigos pilį, dalį žmonių paėmė į nelaisvę, kitus išžudė ir apsigyveno pilyje.
 - susijęs iš [[objektai/ivykiai/Brolio Ulricho laivų kautynės ir 50 prūsų žūtis.md#claim-t-91911|Brolio Ulricho laivų kautynės ir 50 prūsų žūtis]]: Brolis Ulrichas laivų kautynėse stiebu daužė prūsų laivus ir nuskandino jų tiek, kad kartu su laivais žuvo 50 prūsų.
@@ -486,14 +467,13 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.).md#claim-t-62838|Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]: Septynioliktą apgulties dieną lietuviai bandė sudeginti Kristmemelio pilį, bet nepasiekę tikslo pasitraukė.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.).md#claim-t-01685|Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)]]: 1309 m. didysis magistras su taryba atsikėlė į Marijenburgą, kuris tapo Kryžiuočių ordino sostine.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis).md#claim-t-86914|Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir nuniokojo žemes iki Medininkų bei Ašmenos.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis, Algirdo pralaimėjimas ir atsakomasis puolimas į Sembą (1345-1346 m.).md#claim-t-185730|Kryžiuočių žygis, Algirdo pralaimėjimas ir atsakomasis puolimas į Sembą (1345-1346 m.)]]: Kitais metais kryžiuočiai su keturiasdešimčia tūkstančių karių įsiveržė į Lietuvą ir nusiaubė didelius Žemaitijos plotus.
 - susijęs iš [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.).md#claim-t-66650|Kulmo pilies ir miesto įkūrimas (1232 m.)]]: 1232 m. magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, pastatė Kulmo pilį ir miestą senosios pilies vietoje.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.).md#claim-t-66700|Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]: 1422 m. rugsėjo 27 d. prie Melno ežero buvo pasirašyta taika su ordinu.
 - susijęs iš [[objektai/ivykiai/Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.).md#claim-t-62869|Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)]]: Dusburgiečio pasakojime Lubavos mūšio vietoje gyvenęs atsiskyrėlis naktimis matydavo degančias žvakes, liudijusias žuvusiųjų kankinystę.
 - susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66769|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: 1233 m. magistras ir broliai Kvedino saloje pastatė Marienverderio pilį, vėliau perkeltą į Pamedės valsčiaus Reisių vietovę.
 - susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66770|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: 1233 m. pastatyta Marienverderio pilis vėliau buvo perkelta iš Kvedino salos į Pamedės valsčių, vadintą Reisiais.
 - susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185751|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
-- susijęs iš [[objektai/ivykiai/Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis.md#claim-t-185754|Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis]]: Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir ugnimi nusiaubė Paštuvos bei Gaižuvos valsčius.
+- susijęs iš [[objektai/ivykiai/Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis.md#claim-t-185754|Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis]]: Kojelavičiaus pasakojime magistras Meinhardas su didele kariauna įsiveržė į Lietuvą ir žiauriai nusiaubė Paštuvos bei Gaižuvos valsčius.
 - susijęs iš [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia).md#claim-t-71758|Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]: 1250 m. gale ar 1251 m. pradžioje Mindaugas priėmė krikštą.
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas.md#claim-t-187506|Mindaugo krikštas (krikštas)]]: Lietuvos metraštis teigia, kad magistras Andrius ragino Mindaugą siųsti pasiuntinius pas popiežių ir priimti krikštą.
 - susijęs iš [[objektai/ivykiai/Mėrūniškių valsčiaus nusiaubimas.md#claim-t-62402|Mėrūniškių valsčiaus nusiaubimas]]: Magistras Konradas su raitija įsiveržė į Sūduvos Mėrūniškių valsčių ir nukovė 18 žymių šio valsčiaus viešpačių.
@@ -521,11 +501,10 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.).md#claim-t-81836|Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]: 1365 m. didysis Prūsijos magistras Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.
 - susijęs iš [[objektai/ivykiai/Viznos pilies sugriovimas (1294 m.).md#claim-t-62533|Viznos pilies sugriovimas (1294 m.)]]: 1294 m. magistras Meinhardas subūrė daug karių, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė iš pamatų.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Ordino žygis į Trakus bei Vilnių (1383 m. rugsėjo 11–22 d.).md#claim-t-35908|Vytauto ir Ordino žygis į Trakus bei Vilnių (1383 m. rugsėjo 11–22 d.)]]: Vokiečių Ordino kariuomenei pasitraukus iš Lietuvos, Jogaila ir Skirgaila 1383 m. rugsėjo 25 d. ėmėsi veiksmų prieš Trakus.
-- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185661|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Ordino magistras Konradas Celneris parėmė Vytauto sumanymus ir nutarė nepraleisti progos pradėti karą.
+- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185661|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Pasak Kojelavičiaus, Konradas Celneris parėmė Vytauto sumanymus ir su džiaugsmu nutarė pasinaudoti proga pradėti karą.
 - susijęs iš [[objektai/ivykiai/Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.).md#claim-t-185673|Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)]]: Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius Vytenio karius.
 - susijęs iš [[objektai/ivykiai/Vytenio žygiai į Dobrynę ir prieš kryžiuočius (1297 m.).md#claim-t-185836|Vytenio žygiai į Dobrynę ir prieš kryžiuočius (1297 m.)]]: Lietuviai staigiu antpuoliu užėmė Dobrynę, kai sekmadienį žmonės buvo išėję iš kaimų į bažnyčias.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.).md#claim-t-185515|Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.)]]: Lietuviams siaubiant Lenkiją, niekas jiems nepastojo kelio ir niekas nedrįso persekioti jų grįžtant namo.
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant.md#claim-t-185837|Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant]]: Vytenis per Boleslovui pavaldžias Mazovijos žemes įsiveržė į Lenkiją, nuniokojo Kujaviją ir pasitraukė su grobiu, o lenkai bei kryžiuočiai lietuvių neįveikė.
 - susijęs iš [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas.md#claim-t-183975|Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]: Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams prie Osos pastatyti būsimą Štarkenbergo pilį.
 - susijęs iš [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas.md#claim-t-89424|Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]: Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams prie Osos pastatyti būsimą Štarkenbergo pilį.
 - susijęs iš [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.).md#claim-t-185682|Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]: 1274 m. kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, kad lietuviai ir žemaičiai nesikištų į prūsų karą.
@@ -536,15 +515,13 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/ivykiai/Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas.md#claim-t-62964|Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)]]: Magistras ir broliai įsiveržė į Pagudę, ją nusiaubė, užkariavo Heilsbergo pilį ir paėmė arba išžudė jos žmones.
 - susijęs iš [[objektai/ivykiai/Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas.md#claim-t-62965|Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)]]: Užkariavus Heilsbergo pilį, kuri buvo pagudėnų rankose, nuo to laiko Prūsijos žemėje įsiviešpatavo taika.
 - susijęs iš [[objektai/paprociai/Apgulties logistika blokuojant maisto tiekimą.md#claim-t-87201|Apgulties logistika blokuojant maisto tiekimą]]: Prie Vilniaus stovyklą įsirengęs magistras turėjo siųsti keturis pulkus saugoti maisto parūpinti išleistų dalinių.
-- susijęs iš [[objektai/paprociai/Bažnytinio turto grobstymas ir vienuolynų užgrobimas reformacijos neramumų metu Livonijoje.md#claim-t-185912|Bažnytinio turto grobstymas ir vienuolynų užgrobimas reformacijos neramumų metu Livonijoje]]: Livonijoje Liuterio sektos pasekėjai ėmė grobstyti šventovių brangenybes, brautis į vienuolynus ir savintis dvasininkų mantą bei žemes.
 - susijęs iš [[objektai/paprociai/Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas.md#claim-t-62127|Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas]]: Didysis magistras Verneris nustatė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“.
 - susijęs iš [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika.md#claim-t-87296|Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]: 1322 m. kryžiuočių žygio į Vaikius Žemaitijoje tikslai buvo belaisvių ėmimas, krašto niokojimas ir plėšikavimas.
 - susijęs iš [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus.md#claim-t-87180|Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]: Popiežius su kardinolais viešoje konsistorijoje svarstė Rygos arkivyskupo ginčą su Livonijos ordinu ir paskelbė sprendimą.
 - susijęs iš [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika.md#claim-t-87146|Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]: Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykstančiam į Gdanską prekybos reikalais.
 - susijęs iš [[objektai/paprociai/Riterių garbės puota prieš karo žygį.md#claim-t-87283|Riterių garbės puota prieš karo žygį]]: Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų.
 - susijęs iš [[objektai/paprociai/Slėpimasis miškų tankmėse su brangesniais daiktais per antpuolius.md#claim-t-185925|Slėpimasis miškų tankmėse su brangesniais daiktais per antpuolius]]: Per kryžiuočių antpuolį Žemaitijoje gyventojai paliko namus ir su brangesniais daiktais pasislėpė miškų tankmėse.
-- susijęs iš [[objektai/paprociai/Taikos susitarimo tvirtinimas priesaika ir parašais.md#claim-t-185894|Taikos susitarimo tvirtinimas priesaika ir parašais]]: Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir pasirašė ilgalaikį taikos susitarimą.
-- susijęs iš [[objektai/paprociai/Tvirtovių atstatymas grąžinant išblaškytus žemdirbius.md#claim-t-185909|Tvirtovių atstatymas grąžinant išblaškytus žemdirbius]]: Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.
+- susijęs iš [[objektai/paprociai/Tvirtovių atstatymas grąžinant išblaškytus žemdirbius.md#claim-t-185909|Tvirtovių atstatymas grąžinant išblaškytus žemdirbius]]: Ragainės komtūras išsklaidė Kauno tvirtovę iš griuvėsių kėlusius darbininkus ir išardė pradėtą pilį.
 - susijęs iš [[objektai/paprociai/Vakarų riterių stojimas į žygius prieš pagonis.md#claim-t-87228|Vakarų riterių stojimas į žygius prieš pagonis]]: Į Prūsiją atvykę Anglijos ir Prancūzijos savanoriai pagal to meto paprotį noriai eidavo kariauti su pagonimis.
 - susijęs iš [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui.md#claim-t-87148|Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]: 1430 m. Vytautas sukvietė į Trakus ir Vilnių šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
 - susijęs iš [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis.md#claim-t-175142|Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]: Didysis magistras Verneris papildė Ordino statutą prierašais apie pamaldumą, maldas, brolių poreikių ribojimą ir bendruomenės drausmę.
@@ -567,7 +544,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš Evangelija „Pradžioje buvo žodis“: Didysis magistras Verneris generalinėje kapituloje nutarė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“.
 - susijęs iš Gedimino laiškai ordinams ir Vokietijos miestams: Balińskis laikėsi nuomonės, kad laiškas popiežiui ir laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino valia.
 - susijęs iš Gedimino laiškas popiežiui Jonui XXII (1323 m.): Balińskis teigė, kad laiškas popiežiui ir kiti laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino žinia ar valia.
-- susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Lietuvos didžiojo kunigaikščio Žygimanto Augusto globą.
 - susijęs iš Rusų Maskvos sąvadas: Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjusius vokiečius dideliame mūšyje nugalėjo Lietuva.
 - susijęs iš Rusų Maskvos sąvadas: Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjo vokiečiai, įvyko didelis mūšis ir nugalėjo Lietuva.
 - susijęs iš Sembos kanauninko kronika: Sembos kanauninko kronikoje nurodoma, kad mūšis įvyko 1263 m.
@@ -592,10 +568,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš Bauskė: Livonijos riterių ordinas sąjungos sąlygomis turėjo atiduoti Lietuvai Bauskės pilį su apylinkėmis.
 - susijęs iš Bremenas: Bremeno ir Liubeko miestiečiai, laikomi pirmaisiais ordino steigėjais, padovanojo Henrikui Valpotui ligoninę Akone.
 - susijęs iš Breslauja: Švitrigaila ir Livonijos magistras Breslaujoje sujungė savo pajėgas žygiui į Lietuvą.
-- susijęs iš Cėsiai: 1971 m. leidimo komentare Livonijos ordino kariuomenė apibūdinama kaip 1433 m. liepą išžygiavusi iš Cėsių niokoti Lietuvos.
 - susijęs iš Dauguva: Ordino kariuomenė buvo užpulta prie Aizkrauklės ant Dauguvos kranto.
-- susijęs iš Dorpatas: Į Livoniją patraukę su 120 tūkstančių vyrų, maskvėnai netrukus užėmė Dorpatą ir Viljandį.
-- susijęs iš Dorpatas: Apiplėšę Dorpatą, maskvėnai išsivarė į nelaisvę Dorpato vyskupą ir visą dvasininkų kolegiją.
 - susijęs iš Dubysa: Dubysos žiočių saloje 1382 m. spalio 31 d. po šešių dienų derybų buvo surašytos trys sutartys.
 - susijęs iš Dubysa: 1382 m. spalio 31 d. Dubysos žiočių saloje po šešių dienų derybų buvo surašytos trys sutartys.
 - susijęs iš Duobelės pilis (pilis): Lietuviai puolė Livonijos magistro valdytą Duobelės pilį, sudegino papilį ir nusiaubė apylinkes.
@@ -606,7 +579,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš Elbingas: Magistras Poponas pasiuntė Konradą Bremerį su būriu ginklanešių nugabenti į Elbingą tris maisto prikrautus laivus.
 - susijęs iš Elbingas: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį prie Elbingo upės žiočių.
 - susijęs iš Gaižuvos valsčius: Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir juos niokojo gaisrais.
-- susijęs iš Gardinas: Magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš Gardinas: Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.
 - susijęs iš Gilgenburgas: Sąjungininkų kariuomenė paėmė Gilgenburgą ir žygiavo Tannenbergo kryptimi.
 - susijęs iš Gilgenburgas: Ordino didysis magistras Ulrichas von Jungingenas iš pabėgėlių sužinojo, kad sąjungininkai paėmė Gilgenburgą ir žygiavo Tannenbergo link.
@@ -655,17 +627,14 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš Lenkija: Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį pas Lenkijos kunigaikštį apžiūrėti Kulmo žemės.
 - susijęs iš Lietuva: 1430 m. Vytautas į Trakus ir Vilnių sukvietė šiaurės šalių kunigaikščius ir pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
 - susijęs iš Lietuva: Kryžiuočiai svetimtaučius įtikino, kad visa Lietuva tebėra pagonių šalis.
-- susijęs iš Lietuva: Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą ir pasiekė Trakus.
+- susijęs iš Lietuva: Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą, niokojo kraštą ir pasiekė Trakus.
 - susijęs iš Lietuva: Riterių magistras Konradas su savo ir svetimšalių kariuomene pavasario pabaigoje patraukė į Lietuvą.
-- susijęs iš Lietuva: Livonijos atstovai seime nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Lietuva: Narbutas rašė, kad lietuvių genties ikijungtuviniai papročiai skyrėsi pagal tautą, vietos aplinkybes ir laiką.
 - susijęs iš Liubekas: Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.
 - susijęs iš Liubekas: Bremeno ir Liubeko miestiečiai, pirmieji Teutonų ordino steigėjai, padovanojo Henrikui Valpotui Akono ligoninę su jos išmaldomis ir gėrybėmis.
 - susijęs iš Livonija: 1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją.
 - susijęs iš Livonija: Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.
 - susijęs iš Livonija: Caras siekė įgyti Livoniją, kuri tuo metu buvo suskaldyta tarp kelių valstybių.
-- susijęs iš Livonija: Vilhelmui Fiurstenbergui su ordinu perėjus į Liuterio šalininkus, Livonijoje kilo neramumų.
-- susijęs iš Livonija: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Loebau: Liepos 13 d. ordino didysis magistras Ulrichas von Jungingenas atvedė savo pulkus nuo Torno iki Loebau.
 - susijęs iš Loebau: Magistras prie Loebau atvedė savo pulkus ir iš pabėgėlių sužinojo, kad sąjungininkai žygiavo Tannenbergo kryptimi.
 - susijęs iš Ludza: Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmis.
@@ -707,7 +676,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš Paštuvos valsčius: Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir niokojo juos gaisrais.
 - susijęs iš Paštuvos valsčius: 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurių viena įsiveržė į Paštuvos valsčių, o kita patraukė į Gaižuvos valsčių.
 - susijęs iš Pelplinas: 1324 m. Mevėje parengiant Mažesniųjų brolių laiško nuorašą dalyvavo Pelplino abatas Jordanas.
-- susijęs iš Pernarava: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama sunaikino Ariogalos, Pernaravos ir Labūnavos žemes Žemaitijoje.
+- susijęs iš Pernarava: Kojelavičiaus pasakojime Prūsų magistras, remiamas Bavarijos grafo Volfgango ir Livonijos kryžiuočių, sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.
 - susijęs iš Peštvė: Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta.
 - susijęs iš Polockas: Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.
 - susijęs iš Pomeranija: 1246 m. magistras ir broliai su sąjungininkais įsiveržė į Pomeraniją ir devynias dienas bei naktis ją niokojo.
@@ -742,9 +711,9 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai.
 - susijęs iš Trakai: 1377 m. birželį Ordino kariuomenė sudegino Trakų miestą, bet dėl Kęstučio gynybos nepajėgė užimti pilių.
 - susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.
-- susijęs iš Trakai: Vytautas su žemaičiais ir Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė.
+- susijęs iš Trakai: Vytautas su žemaičiais ir Kojelavičiaus vadinamas Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė.
 - susijęs iš Trapėnai: 1363 m. balandį Ordino magistras su kariuomene Nemunu priplaukė Trapėnus, ten įtvirtino paliktus laivus ir patraukė prie Naujojo Kauno pilies.
-- susijęs iš Treiderės upė: Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.
+- susijęs iš Treiderės upė: Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus.
 - susijęs iš Treiderės upė: 1298 m. birželio 1 d. Livonijos magistras Brunonas užpuolė Vytenį pajūryje prie Treiderės upės.
 - susijęs iš Tverė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.
 - susijęs iš Tverė: 1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.
@@ -754,11 +723,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš Upytė: Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą.
 - susijęs iš Ventės ragas: Kryžiuočiai prie Nemuno žiočių, Ventės rage, statė pilį, vadintą Vindenburgu.
 - susijęs iš Ventės ragas: 1360 m. kryžiuočiai tvirtinosi Nemuno žemupyje ir statė naują pilį prie Nemuno žiočių, Ventės rage, vadintą Vindenburgu.
-- susijęs iš Viljandis: Maskvėnai, žygiavę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
-- susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
-- susijęs iš Vilnius: Didysis magistras tris savaites ir dvi dienas apgulė Vilniaus pilis, bet jų neužėmė.
-- susijęs iš Vilnius: Didysis magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš kryžiuočių akiračio.
-- susijęs iš Vilnius: 1377 m. birželio pabaigoje Ordino pajėgos puolė Vilnių, o padegtas miestas neteko dviejų trečdalių namų.
 - susijęs iš Vingrių šaltiniai: Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš Visla: 1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos.
 - susijęs iš Vitebskas: Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutines audringos senatvės dienas.
@@ -802,65 +766,11 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/zodynas/rezervas.md#claim-t-42503|rezervas]]: Žalgirio mūšyje didysis magistras metė rezervą į kovą, kai mūšio sėkmė krypo ne jo naudai.
 - susijęs iš [[objektai/zodynas/vasalystė.md#claim-t-12606|vasalystė]]: Vytautas 1384 m. birželį Ordinui pasižada savo vasalystę.
 - susijęs iš [[objektai/zodynas/vasalystė.md#claim-t-12607|vasalystė]]: Vasalystė čia reiškia priklausomybės ir ištikimybės santykį.
+- susijęs iš [[objektai/posakiai/O trečių vasarų.md#claim-t-199232|O trečių vasarų]]: Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m.
 - susijęs iš [[objektai/zodynas/Docentas.md#claim-t-195458|Docentas]]: 1899 m. A. R. Niemi buvo pakviestas Helsinkų universiteto suomių liaudies poezijos docentu.
 - susijęs iš [[objektai/zodynas/Filosofijos licenciato laipsnis.md#claim-t-195614|Filosofijos licenciato laipsnis]]: A. R. Niemi 1899 m. gavo fil. licenciato laipsnį.
 - susijęs iš [[objektai/zodynas/Ordinarinis profesorius.md#claim-t-195459|Ordinarinis profesorius]]: A. R. Niemi 1930 m. buvo paskirtas ordinariniu profesoriumi.
 - susijęs iš [[objektai/zodynas/ekstraordinarinis profesorius.md#claim-t-195643|ekstraordinarinis profesorius]]: A. R. Niemi 1913 m. buvo pakviestas ekstraordinariniu profesoriumi, bet nominacija užsitęsė iki 1918 m.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo tarpu Algirdas su didele
-    kariuomene įsiveržė į Livoniją; nusiaubęs Žiemgalą, buvo ap-
-    gulęs net Rygą, tačiau, nenorėdamas gadinti santykių su rygie-
-    čiais, jos neėmė. Ordinas dėl tokio savo žygio netvėrė pyk-
-    čiu. Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
-    tas pamišėliu ir pašalintas iš vietos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
-- c-002
-  santrauka: 'Dėl to visi pradėjo atvirai niekinti senuosius magistrų, maršalų, komtūrų titulus ir galvoti apie valstybinės santvarkos pakei timą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Susitarė dėl ketverių
-    metų paliaubų, o per tą lai-
-    1521 m e ta i
-    ką
-    ramiomis
-    aplinkybėmis
-    turėjo būti parengtos sąly­
-    gos amžinai taikai. Tuo metu Liuterio sekta, paplitusi
-    Vokietijoje, rado galybę pasekėjų Prūsijoje, o kry­
-    žiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius,
-    jau taip buvo ištižęs ir suiręs, kad aukščiausi ir že­
-    miausi pareigūnai, nieko ne-
-    K ry žiu o č ių
-    p a d ė tis
-    paisydami, laužė dievui duo-
-    P rū sijo je
-    tus įžadus ir, išsižadėję se­
-    nolių išpažinto Romos tikė­
-    jimo, puolė šventvagiškai tuoktis. Dėl to visi pradėjo
-    atvirai niekinti senuosius magistrų, maršalų, komtūrų
-    titulus ir galvoti apie valstybinės santvarkos pakei­
-    timą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-159335
@@ -881,40 +791,34 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175181
-    - t-182959
     - t-193151
 
 - id: c-176107
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 647"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 647."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Susitarė dėl ketverių
-    metų paliaubų, o per tą lai-
-    1521 m e ta i
-    ką
-    ramiomis
-    aplinkybėmis
-    turėjo būti parengtos sąly­
-    gos amžinai taikai. Tuo metu Liuterio sekta, paplitusi
-    Vokietijoje, rado galybę pasekėjų Prūsijoje, o kry­
-    žiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius,
-    jau taip buvo ištižęs ir suiręs, kad aukščiausi ir že­
-    miausi pareigūnai, nieko ne-
-    K ry žiu o č ių
-    p a d ė tis
-    paisydami, laužė dievui duo-
-    P rū sijo je
-    tus įžadus ir, išsižadėję se­
-    nolių išpažinto Romos tikė­
-    jimo, puolė šventvagiškai tuoktis. Dėl to visi pradėjo
-    atvirai niekinti senuosius magistrų, maršalų, komtūrų
-    titulus ir galvoti apie valstybinės santvarkos pakei­
-    timą.
+    Tačiau tais
+    metais nesudarė jokio susitarimo, nes Vasilijus, kaip
+    vėliau išaiškino karaliaus atstovas Bogušas Voitikas,
+    išsiuntė raštą neįprastu būdu ir šitaip užkirto kelią
+    pasiuntinybėms. Mat tą raštą paliepė susukti į ritinėlį
+    ir užantspauduoti, kad pasiuntiniai negalėtų sužinoti
+    jo turinio nenuplėšę antspaudo, o pažeidus antspau­
+    dą, maskvėnai, aišku, tuo raštu nebepasitikėtų. Kai tai­
+    kos reikalas Maskvoje dėl visokių atsitiktinių dalykų,
+    o gal — ir šitai arčiau tiesos — dėl sąmoningų Vasili­
+    jaus veiksmų buvo visaip vilkinamas, Prūsijoje įsi­
+    plieskė karas. Magistras, už didelius pinigus pasisam­
+    dęs Vokietijoje dešimt tūkstančių algininkų, įsiveržė
+    su šia kariuomene, vedama maršalo Ditricho fon Šen-
+    bergo, į tas Prūsijos apygardas, kurios priklausė kara­
+    liui.
+  citata_rodoma: "Mat tą raštą paliepė susukti į ritinėlį \nir užantspauduoti, kad pasiuntiniai negalėtų sužinoti \njo turinio nenuplėšę antspaudo, o pažeidus antspau­\ndą, maskvėnai, aišku, tuo raštu nebepasitikėtų. Kai tai­\nkos reikalas Maskvoje dėl visokių atsitiktinių dalykų, \no gal — ir šitai arčiau tiesos — dėl sąmoningų Vasili­\njaus veiksmų buvo visaip vilkinamas, Prūsijoje įsi­\nplieskė karas. Magistras, už didelius pinigus pasisam­\ndęs Vokietijoje dešimt tūkstančių algininkų, įsiveržė \nsu šia kariuomene, vedama maršalo Ditricho fon Šen- \nbergo, į tas Prūsijos apygardas, kurios priklausė kara­\nliui."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193382
+    - t-196381

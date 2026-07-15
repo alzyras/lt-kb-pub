@@ -42,8 +42,8 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
   teiginys: "C. Hennenbergeris rašė apie Brandenburgo pilies vietą Pokarviuose prie Aismarių."
   pagrindžia:
     - c-65290
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'C. Hennenbergeris rašė apie Brandenburgo pilies vietą Pokarviuose prie Aismarių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -65,46 +65,22 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
   pagrindžia:
     - t-002
 
-- c-002
-  santrauka: 'C. Hennenbergerio „Erclerung“ cituojamas prie pasakojimo apie Galtgarbių kalne buvusią Samo pilį ir prūsų uždegamus pavojų skelbiančius laužus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    382 D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau —
-    Rinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus. Rinavos
-    pilis, matyt, buvusi Galtgarbių aukštumoje (117 m virš Baltijos jūros lygio įrengtame
-    piliakalnyje tarp Galtgarbių ir Kumėnų (Kumehnen). Vėliau čia — Sembos vyskupo pilis.
-    Galtgarbių kalne esą buvusi legendinio Vaidevučio (Videvučio) sūnaus Samo pilis, čia
-    prūsai uždegdavę pavojų skelbiančius laužus (SU, 1, Nr. 58, 182; 2, Nr. 304; PUB, 2, 2,
-    Nr. 663; 3, 2, Nr. 644; 4, Nr. 26; Hennenberger C, Erclerung.., p. 136; Sch-K; Faber K.,
-    Geschichtliche..., p. 122—137; VBK; Beckherrn C., Ueber die Benennungen.., p. 358;
-    Samland. Ein. Wegweiser.., p. 95, 97; GAO, p. 33—34; Łowmiański H., Studja.., 2, p.
-    36; Scheffel F. A., Der Galtgarben.., p. 8—11; CV, t. 32, d. 2, p. 311; CF, p. 17—20, Nr.
-    6; HGAPW).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-65290
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 130."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip buvo atkeršyta už šį sukilimą
-
-       Šitai sužinoję, magistras ir broliai, subūrę didelę kariuomenę, šventųjų apaštalų Petro
-    ir Povilo dieną (birželio 29) įsiveržė į Pomeranijos žemę netoli Nojenburgo pilies, o vėliau,
-    rudenį,— netoli Dirsovijos miesto bei pilies402 ir nusiaubė abiejų pilių apylinkes ugnimi,
-
-      399 Brandenburgo pilis pastatyta Pokarviuose (žr. paaiškinimus D. III, 91, 3; be to,
-    Hennenberger C, Erclerung.., p. 33) prie Aismarių, deš. Frišingo (dab. Prochladnaja)
-    žiočių pusėje.
+    Šitai išgirdęs, komtūras susirūpino ir patraukė su saviškiais link Karaliaučiaus,
+    o parplaukęs laivais į Brandenburgą, čia išvadavo nuo prūsų brolius ir kitus iš savo
+    šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus
+    išsivedė su savimi.
+    131 (126). Apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą
+    Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto
+    ir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje
+    pat vietoje pastatydino kitą pilį tuo pat vardu404.
+  citata_rodoma: "Apie tai, kaip buvo atkeršyta už šį sukilimą\n\n   Šitai sužinoję, magistras ir broliai, subūrę didelę kariuomenę, šventųjų apaštalų Petro\nir Povilo dieną (birželio 29) įsiveržė į Pomeranijos žemę netoli Nojenburgo pilies, o vėliau,\nrudenį,— netoli Dirsovijos miesto bei pilies402 ir nusiaubė abiejų pilių apylinkes ugnimi,\n\n  399 Brandenburgo pilis pastatyta Pokarviuose (žr. paaiškinimus D. III, 91, 3; be to,\nHennenberger C, Erclerung.., p. 33) prie Aismarių, deš. Frišingo (dab. Prochladnaja)\nžiočių pusėje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -115,8 +91,7 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
 - id: c-65291
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     382 D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau —
     Rinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus. Rinavos

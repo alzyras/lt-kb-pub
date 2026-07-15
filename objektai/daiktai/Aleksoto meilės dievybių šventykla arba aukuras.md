@@ -49,33 +49,13 @@ Nenurodyta
   teiginys: "Narbutas vietos padavimams priskiria pasakojimą, kad Aleksoto priemiestyje ant kalno stovėjo meilės dievybėms skirta šventykla arba aukuras."
   pagrindžia:
     - c-172600
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas vietos padavimams priskiria pasakojimą, kad Aleksoto priemiestyje ant kalno stovėjo meilės dievybėms skirta šventykla arba aukuras.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vietos padavimai dar skelbia, kad Kaune, pačioje Nem u­
-    no ir Neries upių santakoje, augo dievams skirta giraitė, kuri
-    tęsėsi iki pat pilies, dabar virtusios griuvėsiais. Šią vietą iki šiol
-    vadina šilu, nors joje nematyti jokio medžio. Taip pat pasako­
-    ja, kad Aleksoto priemiestyje, ant vieno kalno, stovėjusi šven­
-    tykla arba aukuras, skirtas meilės dievybėms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172600
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vietos padavimai dar skelbia, kad Kaune, pačioje Nem u­
     no ir Neries upių santakoje, augo dievams skirta giraitė, kuri

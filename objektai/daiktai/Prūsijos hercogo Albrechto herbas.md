@@ -62,32 +62,13 @@ Nenurodyta
   teiginys: "Karaliaučiaus kronikos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį nuorašo šeimininką."
   pagrindžia:
     - c-60335
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Karaliaučiaus kronikos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį nuorašo šeimininką.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Karaliaučiaus karališkos bibliotekos tekstas, kaip pažymėta jo antraštiniame puslapyje,
-    1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P. Speratui priklausiusios
-    knygos. Nuorašo viršelyje yra Karaliaučiaus bibliotekos įkūrėjo Prūsijos hercogo Albrechto
-    (mirusio 1568 m.) herbas, rodąs tuometinį jo šeimininką. Nurašinėtojas prastokai mokėjo
-    lotynų kalbą, ne visada teisingai suprato XIV a. sutrumpinimus, darė kitų klaidų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60335
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 19"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Karaliaučiaus karališkos bibliotekos tekstas, kaip pažymėta jo antraštiniame puslapyje,
     1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P. Speratui priklausiusios

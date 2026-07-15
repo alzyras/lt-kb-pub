@@ -8,13 +8,13 @@ datos:
   - '1274 m.'
 date_start: '1273'
 date_end: '1274'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - žemė
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,27 +59,6 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
 - susijęs iš [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje.md#claim-t-91913|Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]: Konrado iš Tirbergo pasiųstas Sembos fogtas Ditrichas su kariuomene Retavos valsčiuje užėmė ir sudegino dvi pilis.
 - susijęs iš Nadruva: Magistras Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, kur Retavos valsčius buvo nusiaubtas plėšiant ir deginant.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Konradas iš Tirbergo pasiuntė sembų fogtą Ditrichą su kariuomene į Nadruvą, kur ši įsiveržė į Retavos valsčių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
-
-       Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą
-    bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai
-    susilpninta, pasiuntė brolį Ditrichą, sembų žemės fogtą459, su kariuomene  į Nadruvą.
-    Šie, įsiveržę į Retavos valsčių460, jį nusiaubė, piešdami bei degindami, o paskui, patraukę
-
-      456 Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: 'Brolio Ditricho kariuomenė įsiveržė į Retavos valsčių ir jį nusiaubė plėšdama bei degindama.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -99,29 +78,12 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'Retavos valsčius buvo Nadruvoje, o tyrėjai jį bandė lokalizuoti keliose skirtingose vietose.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    460 D.— territorium Rethowi, Jer — gebît Rethow; Retavos valsčius Nadruvoje (plg.
-    GAO, p. 141; ТАР, p. 83). Bandoma jį lokalizuoti Alnos žemupyje (VBK; HGAPW), toliau
-    į šiaurės rytus (Тоерреn М., HCGP, p. 24 ir žemėlapis; plg. Ewald A. L., Die Eroberung..,
-    4, p. 187—8), į pietus nuo Įsruties (Łowmiański H., Studja.., 2, p. 38—39).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-87067
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
 
@@ -141,16 +103,15 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
 - id: c-87068
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
     Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą
     bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai
-    susilpninta, pasiuntė brolį Ditrichą, sembų žemės fogtą459, su kariuomene  į Nadruvą.
+    susilpninta, pasiuntė brolį Ditrichą, sembų žemės fogtą459, su kariuomene į Nadruvą.
     Šie, įsiveržę į Retavos valsčių460, jį nusiaubė, piešdami bei degindami, o paskui, patraukę
-
-      456 Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m.
-      457 D.— castrum Beseledam, Jer.— Beseledâ; vėliau Beisleiden, dab.
+    456  Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m.
+    457 D.— castrum Beseledam, Jer.— Beseledâ; vėliau Beisleiden, dab.
   citata_rodoma: "Šie, įsiveržę į Retavos valsčių460, jį nusiaubė, piešdami bei degindami, o paskui, patraukę\n\n  456 Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m."
   statusas: verified
   teiginio_tipas: faktas
@@ -162,8 +123,7 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
 - id: c-87069
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     460 D.— territorium Rethowi, Jer — gebît Rethow; Retavos valsčius Nadruvoje (plg.
     GAO, p. 141; ТАР, p. 83). Bandoma jį lokalizuoti Alnos žemupyje (VBK; HGAPW), toliau

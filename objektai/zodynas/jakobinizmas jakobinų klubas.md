@@ -48,46 +48,6 @@ LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl 
   teiginys: "Prūsiją gąsdino galimas valstybės sustiprėjimas dėl reformų, o Jekaterina II nerimavo dėl Prancūzijos jakobinizmo prie Rusijos sienų."
   pagrindžia:
     - c-24858
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prūsiją gąsdino galimas valstybės sustiprėjimas dėl reformų, o Jekaterina II nerimavo dėl Prancūzijos jakobinizmo prie Rusijos sienų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
-    Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
-    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
-    ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
-    konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
-    savo centru paskelbė Gardiną. LLV sąjungininkę Prūsiją išgąsdino gali-
-    mas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekateri-
-    na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos
-    sienas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Sukilimo valdžiai oponavęs jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos
-    eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-
-    navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias
-    teismą paskelbti minėtus mirties nuosprendžius. Visa tai atšaldė dalį LLV
-    bajorijos nuo sukilimo ir tapo pretekstu A. Suvorovo vadovaujamai Ru-
-    sijos kariuomenei imtis veiksmų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

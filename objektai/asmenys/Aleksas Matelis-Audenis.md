@@ -43,30 +43,6 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
   teiginys: "1949 m. Aleksas Matelis-Audenis buvo Algimanto apygardos organizacinio skyriaus viršininkas."
   pagrindžia:
     - c-41285
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio sky-
-    riaus viršininkas Aleksas Matelis-Audenis, apygardos vadas Antanas
-
-    Starkus-Montė ir apygardos štabo viršininkas Albinas Pajarskas-Bebas.
-    žuvo Šimonių girios kautynių metu
-
-    Partizanų pajėgos
-
-    Pagrindinėje Algimanto apygardos parti-
-    zanų dislokacijos vietoje, Šimonių girios
-    glūdumoje vienu metu telkėsi šeši būriai —
-    iki 180 ginkluotų kovotojų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

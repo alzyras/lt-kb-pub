@@ -35,7 +35,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė. Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo. Didžiajam Lietuvos ir Žemaičių kunigaikščiui Kukovaičiui būnant didžiuoju Naugarduko kunigaikščiu 2 I, <tais metais mirė Lietuvos ir Žemaičių didžiojo kuni gaikščio Kukovaičio motina Pajauta2 2 , sulaukusi žilos senatvės.
+Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė. Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo. Pajauta yra ant gana aukšto kalno, matomas toli iš jūros.
 
 ## Teiginiai
 
@@ -53,116 +53,40 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   pagrindžia:
     - c-171489
 
-<a id="claim-t-193969"></a>
+<a id="claim-t-197434"></a>
 - t-003
-  global_id: t-193969
-  teiginys: "Didžiajam Lietuvos ir Žemaičių kunigaikščiui Kukovaičiui būnant didžiuoju Naugarduko kunigaikščiu 2 I, <tais metais mirė Lietuvos ir Žemaičių didžiojo kuni gaikščio Kukovaičio motina Pajauta2 2 , sulaukusi žilos senatvės."
+  global_id: t-197434
+  teiginys: "Pajauta yra ant gana aukšto kalno, matomas toli iš jūros."
   pagrindžia:
-    - c-176594
-- susijęs iš [[objektai/daiktai/Pajautos stabas.md#claim-t-187513|Pajautos stabas]]: Lietuvos metraštis vaizduoja, kad Kukovaitis motinos Pajautos atminimui padirbo jos išvaizdos stabą, pastatė jį ties Žaslių ežeru, o Pajauta buvo laikoma deive.
+    - c-179185
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184901|Živinbudas]]: Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę.
-- susijęs iš Žaslių ežeras: Lietuvos metraštyje Kukovaitis pastato motinos Pajautos vardo stabą ties Žaslių ežeru jos atminimui pagerbti.
 - susijęs iš [[objektai/asmenys/Kernius.md#claim-t-186006|Kernius]]: Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui.
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184901|Živinbudas]]: Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę.
-- susijęs iš [[objektai/daiktai/Pajautos stabas.md#claim-t-187513|Pajautos stabas]]: Lietuvos metraštis vaizduoja, kad Kukovaitis motinos Pajautos atminimui padirbo jos išvaizdos stabą, pastatė jį ties Žaslių ežeru, o Pajauta buvo laikoma deive.
-- susijęs iš [[objektai/daiktai/Pajautos stabas.md#claim-t-187514|Pajautos stabas]]: Lietuvos metraštis pasakoja, kad supuvus Pajautos stabui toje vietoje išaugo liepos, kurios ir toliau buvo garbinamos.
-- susijęs iš Žaslių ežeras: Lietuvos metraštyje Žaslių ežeras siejamas su Pajautos stabu, kurį žmonės garbino ir Pajautą laikė deive.
 - susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186809|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo.
-- susijęs iš Žaslių ežeras: Lietuvos metraštyje Kukovaitis pastato motinos Pajautos vardo stabą ties Žaslių ežeru jos atminimui pagerbti.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Galbūt šitaip ir bū­
-    tų atsitikę, jeigu, jam mirus,
-    1089 m eta i
-    būtų prasidėjęs tarpuvaldis:
-    mat neturėjo jis sūnaus —
-    savo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs
-    jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš
-    Julijono Dausprungo palikuonių, pajėgų valdyti jauni­
-    kaitį, netrukus jam į žmonas atidavė vienturtę dukterį
-    Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai
-    pasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­
-    tas (kaip tais laikais derėjo) ir ant aukštos kalvos prie
-    Deltuvos palaidotas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Nereikia tapatinti Medziojnos
-    su Medžiojma, kurią laikėme medžiotojų deive, vadinama
-    Laima.
-    154
-
-    ## Puslapis 154
-
-    Pajauta (Pojata)
-    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
-    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
-    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
-    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
-    šė paveldimą Kernavės kunigaikštystę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Didžiajam Lietuvos ir Žemaičių kunigaikščiui Kukovaičiui būnant didžiuoju Naugarduko kunigaikščiu 2 I, <tais metais mirė Lietuvos ir Žemaičių didžiojo kuni gaikščio Kukovaičio motina Pajauta2 2 , sulaukusi žilos senatvės.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didžiajam Lietuvos ir Žemaičių kunigaikščiui Ku-
-    kovaičiui būnant didžiuoju Naugarduko kunigaikščiu 2 I,
-    <tais metais mirė Lietuvos ir Žemaičių didžiojo kuni­
-    gaikščio Kukovaičio motina Pajauta2 2 , sulaukusi žilos
-    senatvės. Ir didysis kunigaikštis Kukovaitis, mylėdamas
-    savo motiną, jos atminimui pagerbti pagal jos išvaizdą
-    padirbo stabą ir pastatė tą savo motinos Pajautos vardo
-    stabą ties Žaslių ežeru. O tą jos stabą garbino ir Pa­
-    jautą laikė deive.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-169605
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 66."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Galbūt šitaip ir bū­
-    tų atsitikę, jeigu, jam mirus,
-    1089 m eta i
-    būtų prasidėjęs tarpuvaldis:
-    mat neturėjo jis sūnaus —
-    savo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs
-    jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš
-    Julijono Dausprungo palikuonių, pajėgų valdyti jauni­
-    kaitį, netrukus jam į žmonas atidavė vienturtę dukterį
-    Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai
-    pasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­
-    tas (kaip tais laikais derėjo) ir ant aukštos kalvos prie
-    Deltuvos palaidotas.
+    Be to, buvo paskirti žyniai, kū­
+    renę amžinąją ugnį ąžuolinėmis malkomis; šias prie­
+    taringas apeigas jie išsaugojo ligi krikščionybės laikų.
+    Pasakoti apie tolesnę isto-
+    A p ie m e tų ir laikų
+    rijos eigą man neleidžia aki-
+    sk a ič ia v im u s
+    vaizdi klaida, kurią šiuo at­
+    veju primetė pirmieji lietu­
+    vių istorijos rašytojai ir kurios aš negaliu nutylėti. Mat
+    ši klaida ne tokia maža, kad jos visai nepastebėtų dė­
+    mesingo skaitytojo akis. Gilios tylos gaubiamas išti­
+    sas šimtmetis padaro istorinių įvykių grandinėje di­
+    džiulę spragą. Ją vis dėlto anie rašytojai nejučiomis
+    apėjo, nepaisydami nė to, kad šis tarpsnis atskyrė tėvą
+    nuo sūnų, o tiesioginį įpėdinį nuo jo protėvių.
+  citata_rodoma: "Galbūt šitaip ir bū­\ntų atsitikę, jeigu, jam mirus,\n1089 m eta i\nbūtų prasidėjęs tarpuvaldis:\nmat neturėjo jis sūnaus —\nsavo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs\njiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš\nJulijono Dausprungo palikuonių, pajėgų valdyti jauni­\nkaitį, netrukus jam į žmonas atidavė vienturtę dukterį\nPajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai\npasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­\ntas (kaip tais laikais derėjo) ir ant aukštos kalvos prie\nDeltuvos palaidotas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -175,19 +99,17 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Nereikia tapatinti Medziojnos
-    su Medžiojma, kurią laikėme medžiotojų deive, vadinama
-    Laima.
-    154
-
-    ## Puslapis 154
-
-    Pajauta (Pojata)
-    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
-    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
-    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
-    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
-    šė paveldimą Kernavės kunigaikštystę.
+    nenustota jos garbinti. Strijkovskis pats sako: „Palangoje, prie
+    jūros, mačiau aukštą kalną, tos Birutės milžinkapį, kurį že­
+    maičiai bei kuršiai dar ir šiandien vadina šventos Birutės (Swis-
+    tos-Bimtos) kalnu ir dar iki šios dienos švenčia jos šventę ten,
+    toje vietoje, kur ir Romos katalikų kunigas atvažiuoja surink­
+    damas nemaža naudos iš žvakių ir aukų, nors nesuprantu, kaip
+    Dievas priima tas aukas, kadangi toji Birutė buvo stabmeldė“.
+    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
+    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
+    mėti ten visuomet stovi medinis kryžius.
+  citata_rodoma: "Nereikia tapatinti Medziojnos\nsu Medžiojma, kurią laikėme medžiotojų deive, vadinama\nLaima.\n154\n\n## Puslapis 154\n\nPajauta (Pojata)\nLietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­\nba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.\nTa kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-\nvinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­\nšė paveldimą Kernavės kunigaikštystę."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -195,26 +117,25 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   pagrindzia:
     - t-188600
 
-- id: c-176594
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- id: c-179185
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Didžiajam Lietuvos ir Žemaičių kunigaikščiui Ku-
-    kovaičiui būnant didžiuoju Naugarduko kunigaikščiu 2 I,
-    <tais metais mirė Lietuvos ir Žemaičių didžiojo kuni­
-    gaikščio Kukovaičio motina Pajauta2 2 , sulaukusi žilos
-    senatvės. Ir didysis kunigaikštis Kukovaitis, mylėdamas
-    savo motiną, jos atminimui pagerbti pagal jos išvaizdą
-    padirbo stabą ir pastatė tą savo motinos Pajautos vardo
-    stabą ties Žaslių ežeru. O tą jos stabą garbino ir Pa­
-    jautą laikė deive.
+    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
+    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
+    mėti ten visuomet stovi medinis kryžius. Jis yra ant gana aukš­
+    to kalno, matomas toli iš jūros.
+    Lietuvos ir Prūsijos archeologų surinkti duomenys patiks­
+    lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Prauri-
+    mės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi­
+    lučių.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193969
+    - t-197434
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Živinbudas]]

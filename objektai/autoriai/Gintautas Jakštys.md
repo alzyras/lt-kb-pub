@@ -44,24 +44,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   pagrindžia:
     - c-42405
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Gintautas Jakštys gimė 1971 m. ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gintautas Jakštys (gimęs 1971 m.), baigė Vilniaus pedagoginio uni-
-    versiteto Istorijos fakultetą. Lietuvos kariuomenės majoras. Gene-
-    rolo Jono Žemaičio LKA, Karo istorijos centro viršininkas. Domė-
-    jimosi ir tyrinėjimo laukas - Lietuvos karyba nuo seniausių laikų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-42405

@@ -36,24 +36,6 @@ Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo gro
   teiginys: "Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo grobį."
   pagrindžia:
     - c-176453
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo grobį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio baigtis buvo
-    nulemta. Netrukus sąjungininkai užėmė
-    priešo stovyklą ir užvaldė didelį karo
-    grobį. Dauguma Ordino karių ir jų svečių,
-    samdinių žuvo, tik menka dalis paspruko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

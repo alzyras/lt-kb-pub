@@ -51,46 +51,6 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
   teiginys: "1991 m. Česlovas Jezerskas buvo įvardytas Aukščiausiosios Tarybos gynybos štabe."
   pagrindžia:
     - c-42359
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
-
-    Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Česlovas Jezerskas 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    sausio įvykių ir rugpjūčio pučo metu
-
-    254  AUKŠČIAUSIOS TARYBOS GYNYBA 1991 m.
-
-    Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas
-
-    TELEVIZIJOS LAIDA
-
-    oa
-
-    AT Profsąjungų tarybų rūmų (dabar - 111 Seimo rūmai) apsaugos grupės vadas, vėliau
-    SKAT štabo operatyvinio-žvalgybos būrio vadas Kazys Domeikis:
-    „E.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

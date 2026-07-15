@@ -6,13 +6,16 @@ saltiniai:
 datos:
   - '1139 m.'
   - '1141 m.'
+  - '1315 m.'
   - '1971 m.'
 date_start: '1139'
 date_end: '1971'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pilis
   - saltinis
+  - valstybė
   - žemėlapis
 amziai:
   - 'XII'
@@ -44,39 +47,83 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
   teiginys: "Pašutos veikalo puslapis 340 nurodomas prie bandymo lokalizuoti minimą vietovę buvusioje Pagraudės teritorijoje."
   pagrindžia:
     - c-61554
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Pašutos veikalo puslapis 340 nurodomas prie bandymo lokalizuoti minimą vietovę buvusioje Pagraudės teritorijoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Patikimesni atrodo bandymai ją
-    lokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante
-    (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino
-    pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197022"></a>
+- t-002
+  global_id: t-197022
+  teiginys: "Apie vieną stebuklą Tuo metu vienas Ariogalos lietuvis, suimtas savo karaliaus ir įkalbėtas vieno ruso, kalėjusio drauge su juo, pažadėjo dievui už išvadavimą gerą svarą vaško; bematant sutrupėjo grandinės, kuriomis buvo surakintas, prasidarė kalėjimo durys."
   pagrindžia:
-    - t-001
+    - c-61554
+
+<a id="claim-t-197023"></a>
+- t-003
+  global_id: t-197023
+  teiginys: "Šiame mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista."
+  pagrindžia:
+    - c-179007
+
+<a id="claim-t-197024"></a>
+- t-004
+  global_id: t-197024
+  teiginys: "Apie Ragainės pilies užpuolimą 1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė."
+  pagrindžia:
+    - c-179008
 
 ## Citatos
 
 - id: c-61554
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 198"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 198."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Patikimesni atrodo bandymai ją
-    lokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante
-    (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino
-    pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).
+    Daug netikėlių šiose kautynėse buvo mirtinai sužeista, daug jų
+    krito nukautų. Sužeidė ir dvylika mūsų brolių bei trisdešimt karių, o broliui Hartmanui iš
+    Elsterbergo strėlė pervėrė kaklą, dėl to jis netrukus ir atidavė dievui sielą.
+    294 (287). Apie vieną stebuklą
+    Tuo metu vienas Ariogalos lietuvis, suimtas savo karaliaus ir įkalbėtas vieno ruso,
+    kalėjusio drauge su juo, pažadėjo dievui už išvadavimą gerą svarą vaško; bematant
+    sutrupėjo grandinės, kuriomis buvo surakintas, prasidarė kalėjimo durys, ir jis atgavo
+    laisvę.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60924
+    - t-197022
+
+- id: c-179007
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Šitai išvydę, pilėnai, pasičiupę
+    ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
+    mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista. Šitaip broliai ir išsigelbėjo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197023
+
+- id: c-179008
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Dar labiau susirūpino
+    broliai, kai, priėję antrąjį postovį, ir ten neberado nei duonos, nei kitų paliktų daiktų;
+    jie patraukė į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo
+    arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
+    alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
+    išvykimo dienos.
+    323 (316). Apie Ragainės pilies užpuolimą
+    1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir
+    netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197024

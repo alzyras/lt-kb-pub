@@ -43,27 +43,6 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
   teiginys: "Formulė susiejama su javais, religine tolerancija, bajoriškąja demokratija, teisine tradicija ir Vilniaus baroku."
   pagrindžia:
     - c-16535
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos Didžioji Kunigaikštija dėl Vo-
-    kiečių ordino pavojaus pamažu stiprino
-    ryšius su Lenkija, o XV–XVI a. perėmė
-    krikščionišką Vakarų kultūrą. XVI a. vidu-
-    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
-    valstybė – Abiejų Tautų Respublika. Paprastai moksle laikoma, kad ši
-    valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
-    mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
-    cija, demokratija, konstitucija, barokas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -9,14 +9,11 @@ datos:
   - '1404 m.'
 date_start: '1386'
 date_end: '1404'
-sukurta: ''
-atnaujinta: ''
-tags:
-  - dinastija
-  - grupe
 amziai:
   - 'XIV'
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,47 +35,30 @@ Jurijus Svetoslavovičius buvo paskutinis Smolensko kunigaikštis, valdęs 1386�
 
 ## Teiginiai
 
-<a id="claim-t-187775"></a>
+<a id="claim-t-199073"></a>
 - t-001
-  global_id: t-187775
+  global_id: t-199073
   teiginys: "Jurijus Svetoslavovičius buvo paskutinis Smolensko kunigaikštis, valdęs 1386–1392 ir 1401–1404 m."
   pagrindžia:
-    - c-170714
+    - c-181454
 - susijęs iš Smolenskas: Pasak cituojamo metraščio, dalį Lietuvos miestų valdė Smolensko kunigaikščiai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jurijus Svetoslavovičius buvo paskutinis Smolensko kunigaikštis, valdęs 1386–1392 ir 1401–1404 m.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1).
-    '* Jurijus (Georgijus) Svetoslavovičlus — paskutinis Smolensko
-    kunigaikštis (1386— 1392 ir 1401— 1404). Vytautui galutinai prijun­
-    gus Smolensku prie Lietuvos Didžiosios Kunigaikštystės, persikėlė
-    į Didįjį Naugardų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
-- id: c-170714
+- id: c-181454
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 238."
   citata_originali: |
     1).
     '* Jurijus (Georgijus) Svetoslavovičlus — paskutinis Smolensko
-    kunigaikštis (1386— 1392 ir 1401— 1404). Vytautui galutinai prijun­
+    kunigaikštis (1386—1392 ir 1401— 1404). Vytautui galutinai prijun­
     gus Smolensku prie Lietuvos Didžiosios Kunigaikštystės, persikėlė
     į Didįjį Naugardų.
+  citata_rodoma: "1).\n'* Jurijus (Georgijus) Svetoslavovičlus — paskutinis Smolensko \nkunigaikštis (1386— 1392 ir 1401— 1404). Vytautui galutinai prijun­\ngus Smolensku prie Lietuvos Didžiosios Kunigaikštystės, persikėlė \nį Didįjį Naugardų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187775
+    - t-199073

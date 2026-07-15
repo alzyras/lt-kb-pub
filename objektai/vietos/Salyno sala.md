@@ -35,25 +35,6 @@ Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių m
   teiginys: "Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas."
   pagrindžia:
     - c-35473
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Iškilmingas tos sutarties ratifikavimas (patvir­
-    tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
-    mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
-    mijos ir Sambijos vyskupai ir daug komtūrų. Iš lietuvių pusės
-    dalyvavo Vytautas su žmona Ona, daugybė kunigaikščių, bajo­
-    rų ir palydovų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

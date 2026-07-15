@@ -52,22 +52,9 @@ Nenurodyta
   teiginys: "Neturėdami kuo pavaišinti svečio, šeimininkai verkdavo ir guosdavosi vargais, kad nebūtų palaikyti blogais gaspadoriais."
   pagrindžia:
     - c-09964
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Šiandien nabagai nuvargę, žudomi vis nori dar žmonysta^501 pasielgti, tankiai išmintingam
-        svečiui, į jų namus įėjusiam, neturėdami kuo jo pamylėti, pradeda verkti ir jam guostis
-        prispaudimais ir neteisybėmis, to vien dėjęsi^502 , idant svetys neturėtų jo už piktos širdies žmogų
-        ir netartų jį paiku gaspadorium esant.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

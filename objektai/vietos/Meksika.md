@@ -40,26 +40,6 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 - susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
 - susijęs iš Madridas: XVI–XVII a. Madridas tebespinduliavo katalikybės ir barokinės architektūros bei dailės šviesą iki Meksikos ir Paragvajaus.
 - susijęs iš [[objektai/autoriai/Augustas Liudvigas Šleceris.md#claim-t-190692|Augustas Liudvigas Šleceris]]: Augustas Liudvigas Šleceris rašė, kad prūsai prieš tūkstantį metų kavalerija nugalėdavo savo užpuolikus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Meksika pateikiama kaip ispaniškosios kultūros laidos pavyzdys.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dėl šio proceso ir Lietuvos to meto kultūra vadinama „antrąja lenkų kul-
-    tūros laida“. Tokio reiškinio analogijos – angliškosios kultūros laida Ai-
-    rijoje (ką jau kalbėti apie JAV ir Australiją), daniškosios – Norvegijoje,
-    prancūziškosios – Kanados Kvebeke, ispaniškosios kultūros laidos Mek-
-    sikoje ar Argentinoje.
-    Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-49533

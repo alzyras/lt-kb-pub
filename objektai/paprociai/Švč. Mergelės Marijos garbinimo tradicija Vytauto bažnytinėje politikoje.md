@@ -63,23 +63,6 @@ Nenurodyta
   teiginys: "Vytautas laikomas Švč. Mergelės Marijos garbinimo tradicijos Lietuvoje pradininku."
   pagrindžia:
     - c-55224
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Galima sakyti, kad
-    Švč. Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-
-    nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-
-    tauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton. Tai
-    padaryti trukdė Vokiečių ordinas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -100,3 +83,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54373
+    - t-54374

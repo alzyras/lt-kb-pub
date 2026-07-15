@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta Lenkijos karalaitė Jogailos duktė Jadvyga ir jai padaryta išti­ kimybės priesaika: matyt, nenorėta tos teisės išplėsti ant tų Jogailos vaikų, kurie būtų kilę ne iš Piastų dinastijos.
+Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, kurie būtų kilę ne iš Piastų dinastijos.
 
 ## Teiginiai
 
@@ -42,52 +42,6 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
   teiginys: "Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, kurie būtų kilę ne iš Piastų dinastijos."
   pagrindžia:
     - c-35588
-
-<a id="claim-t-193329"></a>
-- t-002
-  global_id: t-193329
-  teiginys: "Štai dėl to sustiprėjo įtaka grupuotės, kuri siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą perduoti Piasto palikuonims."
-  pagrindžia:
-    - c-176057
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jadvygai mirus lenkai, nenorėdami, kad unija būtų nu­
-    traukta, Jogailai pažadėjo, jog Lenkijos sostą turės teisę užimti
-    jo vaikai, neatsižvelgiant iš kurios jie būtų žmonos. Bet Ho­
-    rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
-    Lenkijos karalaitė Jogailos duktė Jadvyga ir jai padaryta išti­
-    kimybės priesaika: matyt, nenorėta tos teisės išplėsti ant tų
-    Jogailos vaikų, kurie būtų kilę ne iš Piastų dinastijos. 1417 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Štai dėl to sustiprėjo įtaka grupuotės, kuri siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą perduoti Piasto palikuonims.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Antra vertus, Jono
-    valdingas būdas ir nesėkmingi jo žygiai Vengrijoje
-    smarkiai buvo palaužę žmonių jam anksčiau jaučiamą
-    palankumą. Štai dėl to sustiprėjo įtaka grupuotės, kuri
-    siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą
-    perduoti Piasto palikuonims. Šitokia nuomonių įvairovė
-    paskatino Mazovijos kunigaikštį Jonušą, trokšte trokš­
-    tantį sosto, vykti į Piotrkovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -110,24 +64,3 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34363
-
-- id: c-176057
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 542"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 542."
-  citata_originali: |
-    Antra vertus, Jono
-    valdingas būdas ir nesėkmingi jo žygiai Vengrijoje
-    smarkiai buvo palaužę žmonių jam anksčiau jaučiamą
-    palankumą. Štai dėl to sustiprėjo įtaka grupuotės, kuri
-    siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą
-    perduoti Piasto palikuonims. Šitokia nuomonių įvairovė
-    paskatino Mazovijos kunigaikštį Jonušą, trokšte trokš­
-    tantį sosto, vykti į Piotrkovą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193329

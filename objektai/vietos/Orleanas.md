@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per Reiną ir niokojo kraštą iki Orleano.
+Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per Reiną ir niokojo kraštą iki Orleano. Sis ka riūnas, nekliudomas ir greitai eidamas hunų, rugių, gepidų, turingių, frankų, herulų ir skiriu priekyje, persikė lė per Reiną ir niokojo viską pakeliui net ikį Orleano.
 
 ## Teiginiai
 
@@ -35,43 +35,34 @@ Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per R
   teiginys: "Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per Reiną ir niokojo kraštą iki Orleano."
   pagrindžia:
     - c-175657
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per Reiną ir niokojo kraštą iki Orleano.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taigi Atila pasinaudojo tuo: neva
-    jam nebuvo leista vesti imperatoriaus sesers. 450 me­
-    tais jis su savo kariuomene pajudėjo į vakarus. Sis ka­
-    riūnas, nekliudomas ir greitai eidamas hunų, rugių, ge-
-    pidų, turingių, frankų, herulų ir skiriu priekyje, persikė­
-    lė per Reiną ir niokojo viską pakeliui net ikį Orleano.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197904"></a>
+- t-002
+  global_id: t-197904
+  teiginys: "Sis ka riūnas, nekliudomas ir greitai eidamas hunų, rugių, gepidų, turingių, frankų, herulų ir skiriu priekyje, persikė lė per Reiną ir niokojo viską pakeliui net ikį Orleano."
   pagrindžia:
-    - t-001
+    - c-175657
 
 ## Citatos
 
 - id: c-175657
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 310"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 310."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Taigi Atila pasinaudojo tuo: neva
-    jam nebuvo leista vesti imperatoriaus sesers. 450 me­
+    450 me­
     tais jis su savo kariuomene pajudėjo į vakarus. Sis ka­
     riūnas, nekliudomas ir greitai eidamas hunų, rugių, ge-
     pidų, turingių, frankų, herulų ir skiriu priekyje, persikė­
     lė per Reiną ir niokojo viską pakeliui net ikį Orleano.
+    Bet Aetius, narsus romėnų karvedys, surinkęs legionus
+    ir sąjungininkus burgundus, alanus, sarmatus, saksonus
+    ir visigotus, laimėjo viename mūšyje, kuris įvyko Kata-
+    lonijos laukuose, pergalę prieš hunų karalių.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192887
+    - t-197904

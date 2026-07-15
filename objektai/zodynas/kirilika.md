@@ -43,28 +43,6 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 - susijęs iš [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas.md#claim-t-70177|kirilika rusiškas raidynas lotyniškasis raidynas]]: Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių.
 - susijęs iš [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas.md#claim-t-77888|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]: 1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo 48 proc. etninių lietuvių, o rusiškai iš jų skaitė tik kas penktas.
 - susijęs iš Lietuvos Užnemunė: Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
-    tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
-    kėjo iš vadovėlių, parašytų kirilika). Kaip neprivaloma disciplina lietuvių
-    kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-
-    versitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams,
-    turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių
-    paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
-    lietuvių „suartinimo“ su rusų kultūra gija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-75109

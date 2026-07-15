@@ -75,6 +75,7 @@ Visuomeninė draugija.
   teiginys: "Nepriklausomybės Sąjungos tikslas buvo stiprinti Suomijos nepriklausomybę."
   pagrindžia:
     - c-178066
+- susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-198563|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
 ## Citatos
 
 - id: c-178066
@@ -99,7 +100,6 @@ Visuomeninė draugija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-195664
     - t-195665
     - t-195666
-    - t-195664
-## Reikšmingi paminėjimai

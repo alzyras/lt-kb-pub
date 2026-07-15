@@ -109,119 +109,6 @@ Nenurodyta
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/daiktai/Tanketė.md#claim-t-40775|Tanketė]]: Per Merkinės puolimą 1945 m. gruodžio 15 d. plentų kryžkelėje pasirodžiusi tanketė atidengė ugnį į miestelį.
 - susijęs iš Dzūkija: Žinios apie Dzūkijos partizanų sėkmę paskatino kitur Lietuvoje veikusius laisvės kovotojus imtis aktyvesnių veiksmų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prieš mūšį
-    1945 m. gruodžio 5 d. prie Mardasavo
-
-    km., ant Merkio kranto netikėtai užklupti
-    NKVD dalinio, žuvo Marcinkonių bataliono
-    vadas Lionginas Švalkus-Šernas, Tomas
-    Kondrotas-Briedis, Adolfas Bilinskas-
-    Jurginas ir Martynas Navickas-Kardas.
-    Ryšininkas Juozas Jakavonis rado Merkiu
-    ant ledo lyties plaukiančią žuvusių par-
-    tizanų maldaknygę ir perdavė ją Merkio
-    rinktinės vadui Adolfui Ramanauskui-
-    Vanagui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-005
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ryšininkas Juozas Jakavonis rado Merkiu
-    ant ledo lyties plaukiančią žuvusių par-
-    tizanų maldaknygę ir perdavė ją Merkio
-    rinktinės vadui Adolfui Ramanauskui-
-    Vanagui. Vanagas, pasitaręs su A apygar-
-    dos vadu Juozu Vitkumi-Kazimieraičiu,
-    nutarė sutelkti apylinkių partizanų da-
-    linius ir pulti Merkinės miestelį, at-
-    keršijant už kovos draugų žūtį.
-
-    Dainavos apygardos
-
-    ## Puslapis 233
-
-    Adolfas Ramanauskas-Vanagas
-
-    (1918-1957)
-
-    Būsimasis Dzūkijos partizanų vadas gimė mažažemių
-    dzūkų ūkininkų šeimoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šis dar prieš Antrąjį pasaulinį karą į Vokietijos
-    kariuomenės ginkluotę priimtas kulkosvaidis
-    buvo vienas pirmųjų universaliųjų (bendrosios
-    paskirties) kulkosvaidžių
-
-    dviem kryptimis - nuo miestelio kapi-
-    nių ir nuo Vilniaus gatvės, iki pat mies-
-    telio centro nebuvo sutikta rimtesnio
-    pasipriešinimo. Partizanai užėmė NKVD
-    būstinę, paštą, valsčiaus ir milicijos įs-
-    taigas. Paaiškėjo, kad Druskininkų ba-
-    taliono grupei nepavyko įvykdyti jiems
-    pavestos užduoties ir nutraukti ryšio
-    linijų tarp Merkinės ir Druskininkų,
-    todėl sovietai per Druskininkus susi-
-    siekė su Alytumi ir išsikvietė pagalbą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-004
-  santrauka: '1945 metų gruodžio 15 dieną 11 val.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1945 metų gruodžio 15 dieną 11 val.
-
-    A. Ramanauskas-Vanagas iššovė baltą
-
-    raketą, taip paskelbdamas atakos pra-
-
-    džią. Smarkiai sningant puolantieji judėjo
-
-    Sovietų pajėgos
-
-    Miestelyje gynėsi Merkinėje dislokuotas
-    vietos stribų bei enkavėdistų garnizonas,
-    taip pat vietinis Alytaus NKVD garnizo-
-    nas, atvykęs į pagalbą užpultiesiems.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-004
-
 ## Citatos
 
 - id: c-43086
@@ -247,8 +134,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66781
     - t-66780
+    - t-66781
 
 - id: c-43089
   sudarytojas: "Karolis Zikaras"
@@ -308,8 +195,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66777
     - t-66776
+    - t-66777
 
 - id: c-167067
   sudarytojas: "Karolis Zikaras"
@@ -335,5 +222,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183675
     - t-66779
+    - t-183675

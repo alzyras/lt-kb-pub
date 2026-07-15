@@ -32,7 +32,7 @@ Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių
 <a id="claim-t-189096"></a>
 - t-001
   global_id: t-189096
-  teiginys: "Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru."
+  teiginys: 'Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.'
   pagrindžia:
     - c-171984
 - susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190098|Hartknochas]]: Narbutas nurodo, kad Hartknochas senosios Prūsijos žemėlapyje Romnowe pažymėjo tarp Prūsos ir Bysleidos upių.
@@ -43,31 +43,6 @@ Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių
 - susijęs iš [[objektai/autoriai/Treteris.md#claim-t-190359|Treteris]]: Narbutas vertino Treterį kaip tiksliausiai nurodžiusį, kur ieškoti Romovės šventyklos vietos.
 - susijęs iš Bysleida: Narbutas Romovės miestą vaizduoja kaip buvusį Prūsijoje, Prūsos ir Bysleidos upių santakoje.
 - susijęs iš Romovės šventykla: Narbutas pažymi, kad slavai šventyklas vadino gontinomis arba kontinomis.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    42 pav. Senovės prūsų herbas
-    470
-
-    ## Puslapis 465
-
-    VII lentelė
-    Vaizduoja šventą Romovės miestą, buvusį Prūsijoje, Prūsos ir
-    Bysleidos upių santakoje. Aptvare, kurį supa namai, pastatyti šven­
-    tovės tarnams ir pačiam vyriausiajam žyniui, auga žiemą vasarą ža­
-    liuojantis ąžuolas, prie kurio nišose stovi dievų stabai, o prieš juos -
-    aukų deginimo aukuras su nuolat degančia ugnimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-171984
@@ -91,4 +66,4 @@ Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189096
+    - t-001

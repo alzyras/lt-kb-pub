@@ -44,19 +44,6 @@ Vartojamos formos: `pažines`.
   teiginys: "`Pažinės` šiame tekste reiškia ryšius ar kontaktus su kitomis tautomis ir kraštais."
   pagrindžia:
     - c-09719
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    pati tauta plačiai gyvenusi ir didžias pažines^54 yra turėjusi su tolimais kraštais, kurių pirmieji vardai, nuo lietuvių, kalnėnų ir žemaičių, pramanyti^55 , lig šiai dienai užsiturėjo^56.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -34,30 +34,13 @@ Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karam
   teiginys: "Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karamzin."
   pagrindžia:
     - c-177293
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karamzin.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tad jei laimin­
-    gas atsitiktinumas leido užklydusiems su gotais į Rytus
-    1 Karamzin. Istor. Hosud, Ross. T. II. S. 25 (2-asis leidimas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-177293
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 298"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad jei laimin­
     gas atsitiktinumas leido užklydusiems su gotais į Rytus

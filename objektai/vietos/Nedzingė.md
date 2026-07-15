@@ -35,54 +35,7 @@ DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lie
   teiginys: "Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lietuvių pozicijų prijojo lenkų parlamentaras."
   pagrindžia:
     - c-45239
-
-<a id="claim-t-183795"></a>
-- t-002
-  global_id: t-183795
-  teiginys: "Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lietuvių pozicijų prijojo lenkų parlamentaras."
-  pagrindžia:
     - c-167180
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lietuvių pozicijų prijojo lenkų parlamentaras.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    DVIEJŲ KAPITONŲ PASIKALBĖJIMAS
-
-    Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lie-
-    tuvių pozicijų prijojo lenkų parlamentaras. Susitikimą aprašo viršila Antanas Šukys.
-    „Rytą, apie dešimtą valandą, sargybinis pastebėjo atjojantį lenkų raitelį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lietuvių pozicijų prijojo lenkų parlamentaras.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po to,
-    sukūrus pilietinio karo Lietuvoje regimybę
-    tarptautinės bendruomenės akyse, maiš-
-    tininkai turėjo užimti visą Lietuvą, įsteigti
-    prolenkišką vyriausybę, o po to „savano-
-    riškai“ prijungti Lietuvą prie Lenkijos.
-
-    DVIEJŲ KAPITONŲ PASIKALBĖJIMAS
-
-    Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lie-
-    tuvių pozicijų prijojo lenkų parlamentaras. Susitikimą aprašo viršila Antanas Šukys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -124,5 +77,3 @@ DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183795

@@ -8,15 +8,15 @@ datos:
   - '1249 m.'
 date_start: '1247'
 date_end: '1249'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,23 +59,6 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178903|Kryžiuočių ordinas]]: Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178958|Kryžiuočių ordinas]]: Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'V. Pašuta siejo Dusburgiečio rutėnus su Smolensko kunigaikščių rusais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ch. Hartknochas, pirmas D. kronikos leidėjas, galvojo, kad tuo vardu čia vadinami
-    Riugeno salos gyventojai (Hartknoch Ch., Selectae.., p. 64). Manyta, jog Dusburgiečio
-    rutėnai — galbūt Galičo (SRP, 1, p. 133 — Töppen M.) ar Smolensko kunigaikščių rusai
-    (Pašuta V., Lietuvos.., p. 306—307), nors rusų metraščiai tokios prielaidos neparemia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'V. Pašuta rašė apie prūsų tautos kovą, Lietuvos valstybės susidarymą ir revanšistus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -101,8 +84,7 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 - id: c-61156
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Ch. Hartknochas, pirmas D. kronikos leidėjas, galvojo, kad tuo vardu čia vadinami
     Riugeno salos gyventojai (Hartknoch Ch., Selectae.., p. 64). Manyta, jog Dusburgiečio
@@ -118,17 +100,16 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 - id: c-61157
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 30-31"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 30-31."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
-
-      149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование...,
-    с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24—
-    30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński
-    J. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV
-
-    iš Dusburgo kronikos faktai.
+    Šit todėl mums ir šiandien aktualu pažinti šią viduramžių kroniką, nes ji ne tik
+    ryškiai atskleidžia vokiečių feodalų agresijos praeityje esmę, bet įgalina giliau suvokti
+    revanšistinių samprotavimų, taikaus tautų sambūvio priešininkų idėjines ištakas.
+    Nepaisant mūsų minėtų tendencijų ir netikslumų,  Dusburgo kronika — labai svarbus
+    istorijos šaltinis, kuriame užfiksuota daug svarbios baltistikai bei lituanistikai medžiagos.
+    Čia pateikta ryškių faktų, charakterizuojančių ekonominę, visuomeninę ir politinę prūsų
+    bei lietuvių nobiliteto padėtį, XIII—XIV a. susiformavusius klasinius skirtumus.
+  citata_rodoma: "Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro\n\n  149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование...,\nс. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24—\n30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński\nJ. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV\n\niš Dusburgo kronikos faktai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

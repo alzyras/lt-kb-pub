@@ -35,37 +35,19 @@ media_all_json: |-
   teiginys: "Įvadinis tekstas Vilhelmą Robertsoną vadina vienu žymiausių XVIII-XIX a. Europos istorikų, kurių darbus vertė Vilniaus universiteto auklėtiniai."
   pagrindžia:
     - c-170930
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vilniuje buvo rengiamas spaudai XVI a. kroniki­
-    ninko Motiejaus Strijkovskio veikalas. Vilniaus universiteto
-    auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
-    Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
-    Vilhelmo Gizo, Johano Miulerio -  darbus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-170930
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vilniuje buvo rengiamas spaudai XVI a. kroniki­
     ninko Motiejaus Strijkovskio veikalas. Vilniaus universiteto
     auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
     Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
-    Vilhelmo Gizo, Johano Miulerio -  darbus.
+    Vilhelmo Gizo, Johano Miulerio - darbus.
   citata_rodoma: "Vilniaus universiteto\nauklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -\nVilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro\nVilhelmo Gizo, Johano Miulerio -  darbus."
   statusas: verified
   teiginio_tipas: faktas

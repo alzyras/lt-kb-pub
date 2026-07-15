@@ -35,27 +35,6 @@ media_all_json: |-
   teiginys: "P. Šuiskis pasirinko mūšio vietą lauke tarpumiškyje prie Ulos upės netoli Čašnikų."
   pagrindžia:
     - c-45380
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    sio 26 d. Žygyje gavęs žinių apie tai, kad lie-
-    tuviai ruošiasi jam užkirsti kelią, P. Šuiskis
-    pats pasirinko mūšio vietą - lauką tarpu-
-    miškyje prie Ulos upės netoli Čašnikų.
-    Prieš tai jo kariuomenė per tris-keturias
-    dienas buvo nukeliavusi apie 80 km, o lie-
-    tuvių kariuomenė mūšio išvakarėse įveikė
-    apie 25 km atstumą. P. Šuiskis išrikiavo
-    savo kariuomenę ir laukė lietuvių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

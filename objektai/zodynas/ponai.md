@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Ponai šiame leidinyje vartojami kaip didikų sluoksnio ir politinių patarėjų pavadinimas. Terminas siejamas su Ponų Tarybos viešpatavimu ir kronikos vaizdinyje perkeliamas ir į ankstyvesnius laikus kaip valdovų rinkėjų bei patarėjų žymuo.
+Ponų Taryba pateikiama kaip didikų politinis organas, kurio viešpatavimą gina Bychovco kronika. Kronikos vaizdinyje „ponai“ perkeliami ir į ankstyvesnius laikus kaip valdovų rinkėjai bei patarėjai.
 
 ## Žodis ir formos
 
@@ -69,15 +69,8 @@ Nenurodyta
   pagrindžia:
     - c-170101
 
-<a id="claim-t-186927"></a>
-- t-002
-  global_id: t-186927
-  teiginys: "„Ponai“ šiame leidinyje siejami su didikų sluoksniu ir jo požiūriu į valstybės istoriją."
-  pagrindžia:
-    - c-170101
-
 <a id="claim-t-186928"></a>
-- t-003
+- t-002
   global_id: t-186928
   teiginys: "Kronikos vaizdinyje „ponai“ perkeliami ir į ankstyvesnius laikus kaip valdovų rinkėjai bei patarėjai."
   pagrindžia:
@@ -89,19 +82,15 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Lenkų ponų taryba.md#claim-t-01378|Lenkų ponų taryba (institucija)]]: Lenkų ponų taryba griežtai pasipriešino Vytauto karūnavimo sumanymui, kuriam pritarė Jogaila.
 - susijęs iš [[objektai/grupes/Lietuvos ponai.md#claim-t-189495|Lietuvos ponai]]: Narbutas rašė, kad Lietuvos ponai 1316 m. sausį Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą.
 - susijęs iš [[objektai/grupes/Lietuvos ponų taryba.md#claim-t-86732|Lietuvos ponų taryba]]: Po valdovo mirties ponų tarybos nariai buvo kviečiami atvykti prie mirusio valdovo kūno ir spręsti Respublikai kilusius pavojus.
-- susijęs iš [[objektai/grupes/Livonijos ponai.md#claim-t-187783|Livonijos ponai]]: Livonijos ponai buvo Jogailos kariuomenėje, kai Jogaila pasitiko Kęstutį su žemaičiais prie Trakų.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187735|Ponų taryba (institucija)]]: Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.
-- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72612|Ponų taryba (institucija)]]: Lietuvos ponų taryboje buvę kunigaikščiai ilgai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72615|Ponų taryba (institucija)]]: Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija.
-- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186634|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimiero Tarybos ponai su kariuomene tris savaites stovėjo prie Smolensko, bet miesto neįveikė.
-- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186635|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimiero Tarybos ponai prie Smolensko neįveikė miesto, sudegino priemiesčius bei vienuolynus ir išsivedė belaisvių.
 - susijęs iš Atviras Lietuvos ponų tarybos laiškas dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje (1586 m. gruodžio 13 d.): 1586 m. gruodžio 13 d. Lietuvos ponų taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje ir nurodė pasirūpinti jo nakvyne bei saugumu.
 - susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Po Stepono Batoro mirties Lietuvos ponų taryba prašė Kristupo Radvilos atvykti prie mirusio valdovo kūno arba skubiai atsiųsti savo nuomonę.
 - susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Lietuvos ponų tarybos laiškas Kristupui Radvilai buvo sutvirtintas aštuoniais antspaudais.
 - susijęs iš Būgas: Būgas žymėjo ribą, už kurios Tarybos ponai ir kariuomenė atsisakė žygiuoti be Aleksandro sumanymo paaiškinimo.
 - susijęs iš Gardinas: 1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.
-- susijęs iš Livonijos kraštas (kraštas): Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų.
-- susijęs iš Vilnius: Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų.
+- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-199214|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimiero Tarybos ponai su kariuomene tris savaites stovėjo prie Smolensko, bet miesto neįveikė.
+- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-199215|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimiero Tarybos ponai prie Smolensko neįveikė miesto, sudegino priemiesčius bei vienuolynus ir išsivedė belaisvių.
 - susijęs iš [[objektai/asmenys/Asianas Abrahimovičius.md#claim-t-87628|Asianas Abrahimovičius]]: Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188528|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.
 - susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87512|Ibrahimas (Turkijos čiaušas)]]: Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste.
@@ -111,10 +100,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/imperatorius Zigmantas.md#claim-t-64434|imperatorius Zigmantas]]: Imperatorius Zigmantas gavo Jogailos sutikimo dėl Vytauto karūnacijos atšaukimo laišką ir jo nuorašą nusiuntė Vytautui.
 - susijęs iš [[objektai/grupes/Atskiri Lietuvos seimai.md#claim-t-72026|Atskiri Lietuvos seimai]]: Pats karalius ne kartą sušaukdavo atskirus seimus, nepaisydamas unijos akto nuostatų.
 - susijęs iš [[objektai/grupes/Livonijos riteriai.md#claim-t-189480|Livonijos riteriai]]: Narbutas Gediminą vaizduoja kaip Ariogaloje iškilusį kovotoją su kryžiuočiais ir Livonijos riteriais.
-- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186633|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras, pats vadovaudamas Lietuvos pajėgoms, atsiėmė Smolenską.
-- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186636|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą.
-- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186637|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras vėl perdavė Smolensko valdymą Andriui Sakavičiui ir išvyko į Vilnių.
-- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186638|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį sutelkė Lietuvos pajėgas, pats vadovavo žygiui prie Smolensko ir miestą atsiėmė.
 - susijęs iš [[objektai/ivykiai/Peremišlio susitarimas dėl Jogailos ir Vytauto įpėdinių.md#claim-t-186608|Peremišlio susitarimas dėl Jogailos ir Vytauto įpėdinių]]: Lietuvos metraštis Jogailos lūpomis pateikia siūlymą, kad po Jogailos ir Vytauto mirties Lenkiją ir Lietuvą paveldėtų vieno iš jų vaikai.
 - susijęs iš [[objektai/ivykiai/Peremišlio susitarimas dėl Jogailos ir Vytauto įpėdinių.md#claim-t-186609|Peremišlio susitarimas dėl Jogailos ir Vytauto įpėdinių]]: Lietuvos metraštis Peremišlio susitarimą sieja su Vytauto ir Jogailos susitikimu Peremišlyje žiemą po mūšio.
 - susijęs iš [[objektai/ivykiai/Peremišlio susitarimas dėl Jogailos ir Vytauto įpėdinių.md#claim-t-186610|Peremišlio susitarimas dėl Jogailos ir Vytauto įpėdinių]]: Lietuvos metraščio pasakojime Vytautas sutiko su Jogailos siūlytu susitarimu dėl jų vaikų paveldėjimo teisių.
@@ -125,10 +110,10 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią.md#claim-t-87311|Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią]]: Vilniaus vyskupui Povilui ir jo įpėdiniams suteikta pasaulietinė valdžia prieš ilgiau kaip metus bažnytinių cenzūrų vengusius asmenis.
 - susijęs iš Kijevas: Po Mykolo mirties Lietuvos ponai Lietuvos valdovu siūlė Kijevo kunigaikštį Simaną.
 - susijęs iš Kijevas: 1461 m. Lietuvos ponai kandidatu į Lietuvos valdovus siūlė Kijevo kunigaikštį Simaną.
+- susijęs iš Kijevas: Narbutas Perkūno stabo garsumą X a. siejo su Vladimiro pastatytais tokiais pat stabais Kijeve ir Naugarde.
 - susijęs iš Krokuva: Žygimanto Augusto laikais geriausi amatininkai iš Krokuvos apsigyveno Vilniuje ir prisidėjo prie cechų organizavimo.
 - susijęs iš Krokuva: Jogailai siekiant ponų tarybos sutikimo dėl Vytauto karūnacijos, į Krokuvą buvo išsiųsti su Jogaila į Vilnių atvykę Lenkijos ponai.
 - susijęs iš Krokuva: Su Jogaila į Vilnių atvykę lenkų ponai buvo išsiųsti į Krokuvą, bet Vytautas jų susitarimo nebesulaukė.
-- susijęs iš Krokuva: Aleksandras 1501 m. lapkričio 29 d. išvyko iš Melniko į Krokuvą, kur gruodžio 12 d. buvo vainikuotas Lenkijos karaliumi.
 - susijęs iš Kumanų žemė: Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, iš kurios Vytenis vėliau grįžo į Polocką.
 - susijęs iš Naugardas: Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu.
 - susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
@@ -138,81 +123,41 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/regestrai regestriniai kazokai.md#claim-t-74035|regestrai regestriniai kazokai]]: Nugalėti kazokai iš dalies patekdavo į regestrus, o kiti turėdavo dirbti žemę arba bėgdavo į Sičę.
 - susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192271|vitingas]]: Teodoras Narbutas vitingų titulo aiškinimą sieja su Sambijoje buvusia bajorų kasta, vadinta Withingen.
 - susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192272|vitingas]]: Teodoras Narbutas vitingų titulą aiškina kaip skandinavų vikingų įpėdinių išsaugotą titulą tarp Sambijos bajorų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Bychovco kronikoje dėstoma Lietuvos istorija —
-    tai politinė valstybės istorija, didžiųjų ir vasalinių ku­
-    nigaikščių, didikų istorija, pasakojama, visų pirma, di­
-    dikų-,,ponų" požiūriu, priešingų didžiojo kunigaikš­
-    čio valdžios stiprinimui. Luominės didikų prerogatyvos
-    didžiojo kunigaikščio valdžios atžvilgiu pabrėžiamos
-    Aleksandro konflikto su Ponų Taryba aprašyme. By­
-    chovco kronika aiškiai gina XV a. antrosios pusės —
-    XVI a. pirmojo ketvirčio Lietuvos valstybės santvar­
-    ką, užtikrinančią didikų oligarchijos ir jų politinio or­
-    gano — Ponų Tarybos — viešpatavimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    By­
-    chovco kronika aiškiai gina XV a. antrosios pusės —
-    XVI a. pirmojo ketvirčio Lietuvos valstybės santvar­
-    ką, užtikrinančią didikų oligarchijos ir jų politinio or­
-    gano — Ponų Tarybos — viešpatavimą. Toji santvar­
-    ka vaizduojama kone amžina, nes jau Kentauro her­
-    bo dinastijos pradininkas Šventaragis ir Gediminaičių
-    dinastijos pradininkas Vytenis buvę „ponų" išrinkti.
-    Autoriui, matyt, apskritai tolima mintis, kad valstybės
-    santvarka gali keistis, todėl „ponai" patarėjai priski­
-    riami jau kunigaikščiui Erdvilai (XIII a.), o etmonams
-    liepiama veikti Gedimino laikais, nors etmono — nuo­
-    3 0  Kronika Macieia Slryikowskiego.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
+- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-199216|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras vėl perdavė Smolensko valdymą Andriui Sakavičiui ir išvyko į Vilnių.
+- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-199217|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą.
+- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-199218|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras, pats vadovaudamas Lietuvos pajėgoms, atsiėmė Smolenską.
+- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-199219|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį sutelkė Lietuvos pajėgas, pats vadovavo žygiui prie Smolensko ir miestą atsiėmė.
+- susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Olbrachto kariuomenė buvo Bukovinoje, kai ją užpuolė Moldavijos vaivada Steponas.
+- susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Bukovinos miškuose ir bukynuose Steponas užpuolė Olbrachtą ir jo kariuomenę.
+- susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
+- susijęs iš Soroka: Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.
 ## Citatos
 
 - id: c-170101
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 19"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 19."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Bychovco kronikoje dėstoma Lietuvos istorija —
-    tai politinė valstybės istorija, didžiųjų ir vasalinių ku­
-    nigaikščių, didikų istorija, pasakojama, visų pirma, di­
-    dikų-,,ponų" požiūriu, priešingų didžiojo kunigaikš­
-    čio valdžios stiprinimui. Luominės didikų prerogatyvos
-    didžiojo kunigaikščio valdžios atžvilgiu pabrėžiamos
-    Aleksandro konflikto su Ponų Taryba aprašyme. By­
-    chovco kronika aiškiai gina XV a. antrosios pusės —
-    XVI a. pirmojo ketvirčio Lietuvos valstybės santvar­
-    ką, užtikrinančią didikų oligarchijos ir jų politinio or­
-    gano — Ponų Tarybos — viešpatavimą.
+    Miestiečiai,
+    jei kur minimi, tai perimtame iš Trumpojo sąvado
+    tekste, ir tai jie pasirodo labiau iš neigiamos pusės:
+    vilniečiai pradeda Jogailai užimti Vilnių, bet neįsilei­
+    džia į miestą Vytauto, o smolenskiečiai — „prastieji
+    žmonės" — figūruoja kaip maištininkai 1440 m. Smo­
+    lensko sukilimo aprašyme.
+    Valstiečiai originaliajame Bychovco kronikos teks­
+    te vadinami „šuns kfauju", bet nėra ko stebėtis, prisi­
+    minus, kad toje pačioje kronikoje feodalas Droždža,
+    Lietuvos did. kunigaikščio Aleksandro favorito kuni­
+    gaikščio Mykolo Glinskio giminaitis, valdęs didžiojo
+    kunigaikščio valsčius ir pilis, vadinamas „prastu" žmo­
+    gumi.
   citata_rodoma: "Bychovco kronikoje dėstoma Lietuvos istorija —  \ntai politinė valstybės istorija, didžiųjų ir vasalinių ku­\nnigaikščių, didikų istorija, pasakojama, visų pirma, di­\ndikų-,,ponų\" požiūriu, priešingų didžiojo kunigaikš­\nčio valdžios stiprinimui. Luominės didikų prerogatyvos \ndidžiojo kunigaikščio valdžios atžvilgiu pabrėžiamos \nAleksandro konflikto su Ponų Taryba aprašyme. By­\nchovco kronika aiškiai gina XV a. antrosios pusės —  \nXVI a. pirmojo ketvirčio Lietuvos valstybės santvar­\nką, užtikrinančią didikų oligarchijos ir jų politinio or­\ngano — Ponų Tarybos — viešpatavimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186927
     - t-186926
 
 - id: c-170102
@@ -220,19 +165,25 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    By­
-    chovco kronika aiškiai gina XV a. antrosios pusės —
-    XVI a. pirmojo ketvirčio Lietuvos valstybės santvar­
-    ką, užtikrinančią didikų oligarchijos ir jų politinio or­
-    gano — Ponų Tarybos — viešpatavimą. Toji santvar­
-    ka vaizduojama kone amžina, nes jau Kentauro her­
-    bo dinastijos pradininkas Šventaragis ir Gediminaičių
-    dinastijos pradininkas Vytenis buvę „ponų" išrinkti.
-    Autoriui, matyt, apskritai tolima mintis, kad valstybės
-    santvarka gali keistis, todėl „ponai" patarėjai priski­
-    riami jau kunigaikščiui Erdvilai (XIII a.), o etmonams
-    liepiama veikti Gedimino laikais, nors etmono — nuo­
-    3 0  Kronika Macieia Slryikowskiego.
+    Valstiečiai originaliajame Bychovco kronikos teks­
+    te vadinami „šuns kfauju", bet nėra ko stebėtis, prisi­
+    minus, kad toje pačioje kronikoje feodalas Droždža,
+    Lietuvos did. kunigaikščio Aleksandro favorito kuni­
+    gaikščio Mykolo Glinskio giminaitis, valdęs didžiojo
+    kunigaikščio valsčius ir pilis, vadinamas „prastu" žmo­
+    gumi. Tariamas siekimas „visą bajorų luomą kruvinai
+    išgalabyti, o mužikus — šuns kraują — iškelti" paro­
+    dytas kaip viena iš baisiausių Žygimanto Kęstutaičio
+    nedorybių.
+    Būdamas aiškus feodalų klasės viršūnių atstovas ir
+    jų ideologijos reiškėjas, Bychovco kronikos autorius
+    savo dėmesį kreipia ne į šalies vidaus istoriją. Galima
+    sakyti, kad jos originaliosiose dalyse visai nėra pilieti­
+    nės istorijos. Nėra įprastų kaimyninių kraštų kronikoms
+    ir metraščiams pilių statybos, bažnyčių, vienuolynų,
+    miestų steigimo datų, buities vaizdų, įdomesnių vieti­
+    nės reikšmės įvykių, stichinių gamtos nelaimių, epide­
+    mijų aprašymų.
   citata_rodoma: "Toji santvar­\nka vaizduojama kone amžina, nes jau Kentauro her­\nbo dinastijos pradininkas Šventaragis ir Gediminaičių \ndinastijos pradininkas Vytenis buvę „ponų\" išrinkti. \nAutoriui, matyt, apskritai tolima mintis, kad valstybės \nsantvarka gali keistis, todėl „ponai\" patarėjai priski­\nriami jau kunigaikščiui Erdvilai (XIII a.)"
   statusas: verified
   teiginio_tipas: faktas

@@ -46,24 +46,6 @@ media_all_json: |-
   teiginys: "Z. Ivinskio „Vytauto jaunystė ir jo veikimas iki 1392 m.“ paskelbtas 1930 m. Kaune išleistame rinkinyje „Vytautas Didysis“."
   pagrindžia:
     - c-33749
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Heinl, K. : _Fürst Witold von Li­
-    tauen in seinem Verhältnis zum Deutschen Orden in Preusseu während der
-    Zeit seines Kampfes um sein litauisches Erbe 1382-1401,_ Historische Stu­
-    dien, Heft 165, 1925. — Ivinskis, Z. : _Vytauto jaunystė ir jo veikimas iki
-    1392 m._ , rink. _Vytautas Didysis_ , red. P. Šležas, Kaunas 1930, 1-44 p.
-    — (”) _Jogailos santykiai su Kęstučiu ir Vytautu iki 1392 m._ , rink.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

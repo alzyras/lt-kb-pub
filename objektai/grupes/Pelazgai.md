@@ -9,14 +9,14 @@ datos:
   - '1700 m.'
 date_start: '1200'
 date_end: '1700'
+amziai:
+  - 'XII'
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - grupe
-amziai:
-  - 'XII'
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,6 +58,13 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   teiginys: "Teodoro Narbuto teigimu, pelazgai buvo žmonės, atklydę nuo Tibeto prie Viduržemio jūros pakrančių."
   pagrindžia:
     - c-175231
+
+<a id="claim-t-197511"></a>
+- t-004
+  global_id: t-197511
+  teiginys: "Nibūras2 teigia, jog pelazgai labai skyrėsi nuo helėnų, nors jų kalbos, nepaisant tarpusavio skirtumų, archetipų požiūriu buvo gana panašios."
+  pagrindžia:
+    - c-179224
 - susijęs iš [[objektai/asmenys/Bertoldas Nibūras.md#claim-t-191340|Bertoldas Nibūras]]: Bertoldas Nibūras apie pelazgų kolonijų paplitimą tvirtino kalbantis iš istorinio įsitikinimo, o ne remdamasis prielaida.
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190051|Herodotas]]: Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų ir įvedė paslaptingą jų garbinimo ritualą.
 - susijęs iš [[objektai/asmenys/Nibūras.md#claim-t-191449|Nibūras]]: Teodoras Narbutas cituoja Nibūrą apie pelazgus: „Tai ne prielaida, kalbu kuo tvirčiausiai istoriškai įsitikinęs“.
@@ -79,25 +86,6 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
 - susijęs iš Po: Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro bei Dono.
 - susijęs iš Tibetas: Teodoro Narbuto dėstyme pelazgai laikomi žmonių karta, atklydusia nuo Tibeto prie Viduržemio jūros pakrančių.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į Peloponesą, atsinešė dalį Kabirų ir įvedė jų paslaptingą garbinimo ritualą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    E Noelis mano, kad Kabi­
-    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
-    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
-    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
-    įvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­
-    siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Teodoro Narbuto aiškinimu, įvairios pelazgų kartos perėjo į helenų tautą, o iš pelazgų kalbos susiformavo graikų kalba.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -118,42 +106,22 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Teodoro Narbuto teigimu, pelazgai buvo žmonės, atklydę nuo Tibeto prie Viduržemio jūros pakrančių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    18
-    Neginčijamas dalykas yra ir tai, kad pelazgai buvo tos
-    kartos žmonės, kuriuos laikėme atklydusiais nuo Tibeto
-    prie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad
-    jonėnai ir trojėnai kilę iš pelazgų. Šios tautos plėtėsi nuo
-    1700 iki 1200 metų prieš Kristaus gimimą. Per tuos pen­
-    kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
-    arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
-    davė pradžią dorėnams ir achajams. Vėliau iš jų kilo
-    1 i d a i, sikelai, makedonai, tesalai ir daug kitų tautų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-172415
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 111"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    E Noelis mano, kad Kabi­
-    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
-    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
-    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
-    įvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­
-    siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
+    Tai iš tikrųjų ir yra
+    graikų mitologijos Trejybė.
+    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
+    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
+    Indų trejybė - Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
+    Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
+    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
+    slavų Tryzną.
+  citata_rodoma: "E Noelis mano, kad Kabi­\nrus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­\nvo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-\nmotrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir\nįvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­\nsiausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -164,17 +132,17 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
 - id: c-175230
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 40"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Būtent dėl šių priežasčių įvairios
-    pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
-    bos susiformavo graikų kalba.
-    17
-    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
-    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
-    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
-    Dono.
+    Neginčijamas dalykas yra ir tai, kad pelazgai buvo tos
+    kartos žmonės, kuriuos laikėme atklydusiais nuo Tibeto
+    prie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad
+    jonėnai ir trojėnai kilę iš pelazgų. Šios tautos plėtėsi nuo
+    1700 iki 1200 metų prieš Kristaus gimimą. Per tuos pen­
+    kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
+    arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
+    davė pradžią dorėnams ir achajams.
+  citata_rodoma: "Būtent dėl šių priežasčių įvairios\npelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­\nbos susiformavo graikų kalba.\n17\nPelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­\nčiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,\npradedant nuo Po ir Arno upių žiočių net iki Dnepro ir\nDono."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -185,8 +153,7 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
 - id: c-175231
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 40"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     18
     Neginčijamas dalykas yra ir tai, kad pelazgai buvo tos
@@ -204,3 +171,31 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192437
+
+- id: c-179224
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Nibūras2 teigia, jog pelazgai labai skyrėsi nuo helėnų,
+    nors jų kalbos, nepaisant tarpusavio skirtumų, archetipų
+    požiūriu buvo gana panašios. Šios dvi tautos, gal ir
+    skirtingos kilmės, turėjo artimų tarpusavio santykių ir
+    1 Vidurinėje Azijoje nusidriekę Himalajų kalnai, sudarantys Ki­
+    nijos pietų sieną, anot naujesnių duomenų, savo vidutiniu aukščiu
+    viršija Cimborasą, Amerikos Kordiljerų grandinės kalną, lig šiol lai­
+    kytą aukščiausiu Žemės kalnu. Anglų keliautojas mokslininkas ponas
+    Bleikas
+    (Blake)*
+    pateikia
+    vieno Himalajų
+    kalno — Baltojo
+    —
+    aukštį (28 000 angliškų pėdų); jis beveik du kartus aukštesnis negu
+    Monblanas Prancūzijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197511

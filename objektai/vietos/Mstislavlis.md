@@ -10,14 +10,14 @@ datos:
   - '2026 m.'
 date_start: '1362'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -98,11 +98,16 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - susijęs iš [[objektai/ivykiai/Mstislavlio apgultis ir mūšis prie Vechros.md#claim-t-186726|Mstislavlio apgultis ir mūšis prie Vechros (mūšis, XIV a.)]]: LDK kariuomenė prie Mstislavlio atžygiavo 1386 m. balandžio 29 d.
 - susijęs iš [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.).md#claim-t-185641|Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]: Rudens pabaigoje Žygimantas su nedidele kariuomene užpuolė kai kurias Švitrigailos valdas ir po mėnesio apgulties užėmė Mstislavlį.
 - susijęs iš Juodoji Rusia: Didžiajam kunigaikščiui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
-- susijęs iš Vitebskas: Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-184825|Simonas Lengvenis (valdovas, XIV a.)]]: Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82179|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Andrius Polockietis.md#claim-t-30207|Andrius Polockietis]]: Skirgaila, sėkmingai apgulęs Polocką, paėmė Andrių Polockietį į nelaisvę ir išsiuntė į Lenkiją.
 - susijęs iš [[objektai/asmenys/Andrius Sakavičius.md#claim-t-186034|Andrius Sakavičius]]: Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku.
+- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200471|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas minėtas kaip Mykolo Ksavero Sapiegos politinis konkurentas.
+- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200472|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas apsistodavo pas Hanyzą prie Šv. Jono bažnyčios.
+- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200473|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: Antanas Davainis Solohubas buvo LDK artilerijos generolas.
+- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200474|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. J. D. Lopacinskis rašė, kad Antanas Davainis Solohubas ir Benediktas Tyzenhauzas lankydavosi vienas pas kitą.
+- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200523|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: Benediktas Tyzenhauzas buvo Ukmergės seniūnas.
+- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200524|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: 1754 m. Benediktas Tyzenhauzas lankydavosi pas Antaną Davainį Solohubą, o šis būdavo pas jį Paplaujoje.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82289|Elena (vyskupas, XV–XVI a.)]]: Aleksandras dovanojo Elenai ir jos palikuonims Kniazičius, Teteriną, Popova Huros pilį ir kitas valdas.
 - susijęs iš [[objektai/asmenys/Jurgis (Maskvos kunigaikštis).md#claim-t-87738|Jurgis (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės.
 - susijęs iš [[objektai/asmenys/Jurgis (Sviatoslavo sūnus).md#claim-t-30317|Jurgis (Sviatoslavo sūnus)]]: Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.
@@ -120,9 +125,11 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - susijęs iš [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę.md#claim-t-185834|Vytauto šalininkų žygis į Riazanę]]: Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
 - susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186739|Švitrigailos užpuolimas Ašmenoje]]: Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir pabėgo iki 1433 m. spalio 3 d.
 - susijęs iš [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to).md#claim-t-185549|Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]: Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.
+- susijęs iš [[objektai/paprociai/Naktinis faraono lošimas per vizitus.md#claim-t-200562|Naktinis faraono lošimas per vizitus]]: 1754 m. Vilniuje Antano Davainio Solohubo ir Benedikto Tyzenhauzo aplinkos dažnai lankė viena kitą ir per naktį lošė faraoną.
+- susijęs iš [[objektai/paprociai/Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme.md#claim-t-200621|Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme]]: 1750 m. nesumokėtos skolos byla prieš Mykolą Kazimierą Sapiegą buvo keliama Vilniaus pilies teisme.
 - susijęs iš Akademijos aikštė: Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o įvairūs jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.
 - susijęs iš Biala: 1355 m. jo garnizonai įsikūrė Rževe ir Bialoje.
-- susijęs iš Polockas: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
+- susijęs iš Paplauja: 1754 m. Benediktas Tyzenhauzas buvo siejamas su Paplauja, kur pas jį nuolat lankydavosi Antanas Davainis Solohubas.
 - susijęs iš Rževas: Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską.
 - susijęs iš Toropiec: Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Toropiecą.
 - susijęs iš Trakai: Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.
@@ -133,56 +140,17 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - susijęs iš Viazma: Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo.
 - susijęs iš [[objektai/zodynas/Olia Charitatis.md#claim-t-86601|Olia Charitatis]]: Iš Joniškio pajamų neturtingiems studentams kasdien buvo skiriami Olia Charitatis labdaringi pietūs ir duonos kepalas.
 - susijęs iš [[objektai/zodynas/etmonas.md#claim-t-187522|etmonas]]: Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą.
+- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200471|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas minėtas kaip Mykolo Ksavero Sapiegos politinis konkurentas.
+- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200472|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas apsistodavo pas Hanyzą prie Šv. Jono bažnyčios.
+- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200473|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: Antanas Davainis Solohubas buvo LDK artilerijos generolas.
+- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200474|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. J. D. Lopacinskis rašė, kad Antanas Davainis Solohubas ir Benediktas Tyzenhauzas lankydavosi vienas pas kitą.
+- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200523|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: Benediktas Tyzenhauzas buvo Ukmergės seniūnas.
+- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200524|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: 1754 m. Benediktas Tyzenhauzas lankydavosi pas Antaną Davainį Solohubą, o šis būdavo pas jį Paplaujoje.
+- susijęs iš [[objektai/paprociai/Naktinis faraono lošimas per vizitus.md#claim-t-200562|Naktinis faraono lošimas per vizitus]]: 1754 m. Vilniuje Antano Davainio Solohubo ir Benedikto Tyzenhauzo aplinkos dažnai lankė viena kitą ir per naktį lošė faraoną.
+- susijęs iš [[objektai/paprociai/Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme.md#claim-t-200621|Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme]]: 1750 m. nesumokėtos skolos byla prieš Mykolą Kazimierą Sapiegą buvo keliama Vilniaus pilies teisme.
+- susijęs iš Paplauja: 1754 m. Benediktas Tyzenhauzas buvo siejamas su Paplauja, kur pas jį nuolat lankydavosi Antanas Davainis Solohubas.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96101|Gediminaičių dinastija]]: Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį, Mogiliavą ir Toropiecą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    jo garnizonai įsikūrė Rževe ir Bialoje. Iki 1362 jis užėmė Smolensko
-    kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt.
-    Pats Smolenskas tapo apsuptas Algirdo valdomis, taigi jo valiai
-    (^16) **MLLG, V, 1907, 358-361 p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo paklusnumą Jogailai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
-    prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
-    Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
-    jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Už pažadą ginti nuo priešų, jis ordinui buvo
-    užrašęs «visą savo Polocko karalystę». Būdamas sąjungoje su
-    Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
-    Bet maištininkai greitai buvo įveikti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet Ivanas Solomereckis atrėmė antpuolį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -309,21 +277,27 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Neimdami į rankas kir-
-    paliaubų są ly g a
-    vių, pjūklais kariai prisipjo­
-    vė medžių ir taip žvaliai bei
-    5 67
-
-    ## Puslapis 566
-
-    išmoningai užtaisė rąstais visus sienų plyšius, kad Še-
-    miačičiai rytą suprato nieku būdu negalėsią užimti pi­
-    lies. Praradę viltį užkariauti Smolenską, jie savo jėgas
-    patraukė prie Mstislavlio, bet ir čia nesusilaukė dides­
-    nės sėkmės. Mat kunigaikštis Ivanas Solomereckis, pa­
-    garsėjęs karvedys, kuriam buvo patikėtas miestas ir
-    apygarda, sėkmingai atrėmė antpuolį.
+    _______
+    prie
+    Smolensko
+    M ik a lo ju s
+    G leb a vi-
+    sienų, įnirtingai ir vienas, ir
+    čius n arsiai g in a
+    kitas stengdamasis pakreipti
+    įvykius savo tėvo naudai,
+    tačiau Mikalojui sekėsi kur kas geriau nei Dimitrijui.
+    Mat pastarasis, netekęs galybės karių, negarbingai pa­
+    liko žygį neužbaigtą ir toliau apgulai vadovauti įsakė
+    kunigaikščiams Šemiačičiams. Kas be ko, visada klas­
+    tūnui maudžia širdį, kad ne visi į jį panašūs, štai to­
+    dėl tada taip stengėsi bei niršo maištininkai Šemiači-
+    čiai, matydami, jog jų kaimynystėje buvusios pilys li­
+    ko ištikimos Aleksandrui, nelyginant priekaištaudamos
+    jiems dėl išdavystės. Kai priešas puolė su didžiausiu
+    įniršiu, gynėjai turėjo rodyti ne tik nepaprastą narsą,
+    bet ir klusnumą.
+  citata_rodoma: "Neimdami į rankas kir-\npaliaubų są ly g a\nvių, pjūklais kariai prisipjo­\nvė medžių ir taip žvaliai bei\n5 67\n\n## Puslapis 566\n\nišmoningai užtaisė rąstais visus sienų plyšius, kad Še-\nmiačičiai rytą suprato nieku būdu negalėsią užimti pi­\nlies. Praradę viltį užkariauti Smolenską, jie savo jėgas\npatraukė prie Mstislavlio, bet ir čia nesusilaukė dides­\nnės sėkmės. Mat kunigaikštis Ivanas Solomereckis, pa­\ngarsėjęs karvedys, kuriam buvo patikėtas miestas ir\napygarda, sėkmingai atrėmė antpuolį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -336,17 +310,19 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir prisikariavę bei paėmę belaisvių, bet neįveikę pi­
-    lių sugrįžo, iš kur atėję.
-    Tą pačią žiemą, Gavėnios metu, Svetoslavas su Smo­
-    lensko bajorais ėmė tartis dėl krikščionių kraujo pra­
-    liejimo ir patraukė į Mstislavlio miestą8 . Sustoję prie
-
-    ## Puslapis 89
-
-    Mstislavlio, pradėjo šturmuoti miestą ir daužyti iš pa­
-    trankų, o savo karius paleido po Mstislavlio žemų ir
-    praliejo daug krikščioniško kraujo.
+    Tada jis ėmė tartis su daugeliu lietuvių kuni­
+    gaikščių ir didikų, ir kai Skirgaila buvo išvykęs į Po­
+    locką 3, didysis kunigaikštis Vytautas atvyko prie Vil­
+    niaus, norėdamas jį užimti4. Jo didžioji kunigaikštie­
+    nė Ona6 tuo metu buvo Gardine. Bet vilniečiai tada
+    jam nepasidavė, kadangi buvo prisiekę karaliui Jogai­
+    lai ir Skirgailai. O jis, tuokart Vilniaus nepaėmęs 6, su
+    savo kunigaikštiene, su visais kunigaikščiais7, dauge­
+    liu savo bajorų perėjo pas [Prūsijos) magistrą8 ir iš
+    ten, vokiečių padedamas, pradėjo atsikariauti Lietuvos
+    žemę, ir jau buvo užėmęs pusę Lietuvos žemės ligi Ne­
+    ries upės 9, ir Polocko miestas jam pasidavė l0.
+  citata_rodoma: "Ir prisikariavę bei paėmę belaisvių, bet neįveikę pi­\nlių sugrįžo, iš kur atėję.\nTą pačią žiemą, Gavėnios metu, Svetoslavas su Smo­\nlensko bajorais ėmė tartis dėl krikščionių kraujo pra­\nliejimo ir patraukė į Mstislavlio miestą8 . Sustoję prie\n\n## Puslapis 89\n\nMstislavlio, pradėjo šturmuoti miestą ir daužyti iš pa­\ntrankų, o savo karius paleido po Mstislavlio žemų ir \npraliejo daug krikščioniško kraujo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -359,13 +335,18 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Žygiuokime prieš jį,
-    pasitikėdami dievu ir krikščionių galybe."
-    Ir atžygiavo prie Mstislavlio. O kunigaikštis Sveto­
-    slavas, kuris stovėjo prie miesto ir šaudė į Mstislavlį
-    iš patrankų, išgirdo Didžiosios Savaitės 1 1  penktadienį,
-    kad prieš jį ateina su broliais didysis kunigaikštis Skir­
-    gaila IJ.
+    Ir dievas padėjo didžiajam kunigaikš­
+    čiui Vytautui u, ir jis Lietuvos kariuomenę sumušė vi­
+    siškai. o kiti išbėgiojo ir daugybė jų buvo nukauta.
+    Daugelį kitų kunigaikščių ir bajorų paėmė gyvus: ku­
+    nigaikštį Simoną, Jaunučio sūnų IS, Smolensko kuni­
+    gaikštį Glėbą, Svetoslavo sūnų l6, kunigaikštį Glėbą,
+    Konstantino sūnų l7, kunigaikštį Joną Tetą1*, Levą Plak-
+    sičių '9, ir paėmė daugelį kitų kunigaikščių.
+    Kunigaikštis Vytautas su visomis pajėgomis vėl iš­
+    žygiavo ir apgulė Vilniaus miestą, ir pradėjo šturmuoti
+    Kreivąją pilį bei šaudyti iš patrankų.
+  citata_rodoma: "Žygiuokime prieš jį, \npasitikėdami dievu ir krikščionių galybe.\"\nIr atžygiavo prie Mstislavlio. O kunigaikštis Sveto­\nslavas, kuris stovėjo prie miesto ir šaudė į Mstislavlį \niš patrankų, išgirdo Didžiosios Savaitės 1 1  penktadienį, \nkad prieš jį ateina su broliais didysis kunigaikštis Skir­\ngaila IJ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

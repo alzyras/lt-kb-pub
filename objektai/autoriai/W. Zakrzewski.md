@@ -46,23 +46,6 @@ Zakrzewski, W.
   pagrindžia:
     - c-33203
 - susijęs iš [[objektai/autoriai/Zakrzewski, W.md#claim-t-31090|Zakrzewski, W]]: W. Zakrzewski 1890 m. paskelbė darbą „Bitwa pod Grunwaldem“.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Werminghoef, A. : _Die Schlacht bei Tannenberg und ihre Be­
-    deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :
-    _Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,
-    St. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33203

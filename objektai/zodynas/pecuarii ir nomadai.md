@@ -77,68 +77,13 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
   teiginys: "Narbutas aiškina, kad Skitų klasės skirstomos į žemdirbius ir į piemenis / pecuarii / nomadus."
   pagrindžia:
     - c-175032
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat nėra
-    pagrindo neigti, kad šiandien Arklių Vandenimis vadina­
-    ma upė buvo kitados graikų vadinta Pantikapu. Bet tarp
-    Hipakyrio ir Pantikapo, Pripetės, arba ant abiejų Dnep-
-    ro krantų, t. y. tarp Baturino ir Mozyrio, gyveno skitai
-    žemdirbiai, o už kito Pantikapo, Arklių Vandenų, į šiau­
-    rę — piemenys, pecuarii, arba nomadai. Taigi pagal pa­
-    našumų ir žemės gamtą galima geriau išdėstyti tas skitų
-    klases, negu perkeliant jas kitapus Mėlynųjų Vandenų ir
-    Kalančiako upių, taip pat negalima būtų parinkti visiems
-    metų laikams tinkamesnių, ypač gyvulių augintojams,
-    vietų už Kalančiako.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-001
-
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tas pats orientalistas mano, kad
-    Ross Biblijoje ir Korane reiškia tą patį, arba tiesiog tai
-    Arakso upė, be to, ir prie jos plytinčio krašto pavadinimą
-    bei tam tikrą ten gyvenusią tautą, kurią dievas išskaidė,
-    pavertė laukiniais nomadais, panašiais į girių žvėris už
-    tai, kad nepriėmė mokslo, siunčiamo jiems per pranašą
-    Khaintają, Šafrano sūnų, kurį jie nukankino5. Nors iš tų
-    šaltinių orientalistas nedaro išvadų, kad budinai buvę
-    dievo bausmės persekiojama tauta, įš visko sprendžiant,
-    jis darė kitas išvadas; jei mes galėtume, tai neabejotinai
-    atskleistume jas. Čia tik priminsime, jog skitai daugiau­
-    sia buvo tokie patys nomadai, išstumti iš Azijos į plačias
-    lygumas, esančias į vakarus nuo Juodosios jūros; vie­
-    na jų gentis priėmė Budos religiją, pakrikštijo savo gi­
-    minės motinos vardu Arakso upę, arba Ross, suteikė šį
-    vardą kitai didelei upei arba vienai jos vagų (§ 51), t. y.
-    Volgai, ir pagaliau pažįstami Europoje budinu vardu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
 
 ## Citatos
 
 - id: c-175032
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 54"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat nėra
     pagrindo neigti, kad šiandien Arklių Vandenimis vadina­
@@ -158,14 +103,13 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192150
     - t-192147
+    - t-192150
 
 - id: c-175033
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 70"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tas pats orientalistas mano, kad
     Ross Biblijoje ir Korane reiškia tą patį, arba tiesiog tai

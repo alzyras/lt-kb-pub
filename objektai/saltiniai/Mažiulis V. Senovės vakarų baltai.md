@@ -7,12 +7,12 @@ datos:
   - '1981 m.'
 date_start: '1981'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad mažiulis V.
   teiginys: "V. Mažiulio „Senovės vakarų baltai“ paskelbta MG 1981 m. Nr. 2, p. 7–8."
   pagrindžia:
     - c-61806
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Mažiulio „Senovės vakarų baltai“ paskelbta MG 1981 m. Nr. 2, p. 7–8.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,12 @@ Dusburgietis teigia, kad mažiulis V.
 - id: c-61806
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais
+    —Iš lietuvių etnogenezės, V., 1981, p. 5—11.
     Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
+  citata_rodoma: "Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

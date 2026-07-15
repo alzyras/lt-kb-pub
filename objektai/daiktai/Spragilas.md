@@ -55,8 +55,8 @@ Nenurodyta
   teiginys: "Spragilas minimas tarp senosios kaimo buities įrankių kaip javų kūlimo priemonė."
   pagrindžia:
     - c-177663
-    - c-177665
     - c-177664
+    - c-177665
 - susijęs iš [[objektai/daiktai/Spragilo siautuvė.md#claim-t-195329|Spragilo siautuvė]]: Trumpas spragilo dalies paminėjimas su regioniniu pavadinimo variantu.
 - susijęs iš [[objektai/paprociai/Senosios gadynės kasdienybė.md#claim-t-195612|Senosios gadynės kasdienybė]]: Senojoje gadynėje Lietuvos žmonės švietėsi balanomis, avėjo vyžomis, kūlė spragilu ir gyveno dūminėse grįčiose.
 - susijęs iš [[objektai/paprociai/Klojime pasakojamos pasakos ir juokai.md#claim-t-195371|Klojime pasakojamos pasakos ir juokai]]: Klojimo juokai ir vienas juokingas žodis galėjo išlaikyti gerą nuotaiką keliems rytams.

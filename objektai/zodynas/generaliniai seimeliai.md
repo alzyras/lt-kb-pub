@@ -38,25 +38,6 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
 - susijęs iš [[objektai/paprociai/Generaliniai seimeliai ir provincijų sesijos.md#claim-t-01948|Generaliniai seimeliai ir provincijų sesijos]]: Generaliniai seimeliai neišnyko įvedus bendrą seimą su lietuviais, o Lietuvoje prieš bendruosius seimus pradėti rengti panašūs suvažiavimai.
 - susijęs iš Slanimas: Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.
 - susijęs iš Volkoviskas: Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Generaliniai seimeliai neišnyko įvedus bendrą Lietuvos ir Lenkijos seimą; Lietuvoje tokie suvažiavimai vykdavo Volkoviske, vėliau Slanime.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tie generaliniai seimeliai neišnyko nė įvedus bend-
-    rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
-    seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
-    tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
-    davo Volkoviske, o vėliau Slanime.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-69228

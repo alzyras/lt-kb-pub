@@ -62,35 +62,9 @@ Nenurodyta
   teiginys: "Tokios akstys dar buvo dėvimos 10 amžiuje ir siejamos su šv. Vaitiekaus pervėrimu."
   pagrindžia:
     - c-56416
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Akstys buvo ginklai, kurių galuose vietoj ietigalių buvo įtaisyti aštrūs akmenys.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    It^1328 arti susirėmus, kibo į brūklius rendėtinius, ant galo puolė ant neprieteliaus su akmeniniais kirviais
-        arba, aiškiau sakant, kūjais ir kalavijais bei akstimis^1329 , kurių galuose taip pat buvo įtaisyti aštrūs
-        akmenys iečių vietoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tokias akstis dėvėjo dar 10 amžiuje, nesgi šv. Vaitiekų, Parusy krikščonų mokslą skelbiantį, žynys ta
-        aksčia permovė^1330.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+Nenurodyta
 
 ## Citatos
 

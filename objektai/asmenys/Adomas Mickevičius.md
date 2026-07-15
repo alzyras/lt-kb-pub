@@ -66,6 +66,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   teiginys: "Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei."
   pagrindžia:
     - c-48583
+    - c-21549
 
 <a id="claim-t-45930"></a>
 - t-005
@@ -74,15 +75,8 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   pagrindžia:
     - c-21548
 
-<a id="claim-t-45931"></a>
-- t-006
-  global_id: t-45931
-  teiginys: "Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei."
-  pagrindžia:
-    - c-21549
-
 <a id="claim-t-183517"></a>
-- t-007
+- t-006
   global_id: t-183517
   teiginys: "Mickevičius, rašęs ir apie Tėvynę LietuAdomas Mickevičius."
   pagrindžia:
@@ -102,157 +96,6 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 - susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75551|istorinė Lietuva]]: XVI–XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.
 - susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75555|istorinė Lietuva]]: XVI-XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.
 - susijęs iš [[objektai/zodynas/senalietuviai jaunalietuviai.md#claim-t-26555|senalietuviai jaunalietuviai]]: XIX–XX a. sandūroje senalietuvių tradicijai pradėjo oponuoti jaunalietuviai, po poros dešimtmečių sukūrę Lietuvos Respubliką.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tuvių kalba. Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
-    tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu
-    save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).
-    Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
-    viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
-    po poros dešimtmečių sukūrę Lietuvos Respubliką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi Abiejų Tautų Respublika:
-    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
-    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
-    bajoriškosios demokratijos tradiciją,
-    •	 Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
-    ribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-
-    sauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,
-    •	 iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-
-    poje Vilniaus universitetą, turintį savitas misionierių, kankinių ir
-    šventųjų, poetų, retorikų ir logikų tradicijas,
-    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
-    tūros mokyklą,
-    • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
-    teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
-    konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-    Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-
-    dalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija. Tačiau ir tomis su-
-    dėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji
-    atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki),
-    o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų
-    LDK herbas Vytis iš herbyno
-    „Stemmata Polonica“ (saugomo
-    Paryžiuje), XVI a. vid.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Garsiausioji ložė vadinosi „Uolusis
-    lietuvis“ („Gorliwy Litwin“). Uni-
-    versitete veikė nemažai studentų
-    organizacijų, besirūpinusių kul-
-    tūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei. Tarp
-    šių organizacijų narių buvo ir A. Mickevičius, rašęs ir apie Tėvynę Lietu-
-    Adomas Mickevičius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą,
-    neskatinančią paklusnumo valdžiai. Caro administracija ėmėsi tyrimo,
-    kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
-    dentų ir moksleivių jaunimą. Apkaltinus per 100 asmenų, dvidešimt, tarp
-    jų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
-    viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
-    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
-    J.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia,
-    savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-
-    ba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“
-    ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis. Tautinę savi-
-    monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
-    pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
-    Žymantienės-Žemaitės sodri realistinė sociali proza.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-006
-  santrauka: 'Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
-    tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
-    partija, susikūrusi 1896 m. Savo programoje ji buvo įrašiusi suverenios
-    Lietuvos, valstybės, sujungtos laisvos federacijos (t. y. konfederacijos) ry-
-    šiais su gretimomis valstybėmis, siekius.
-    Tautos patriarchas dr. Jonas Basanavičius
-
-    L I E T U V O S  I S T O R I J A
-    120
-    Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
-    viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
-    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
-    J.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia,
-    savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-
-    ba rašyta poezija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-007
-  santrauka: 'Mickevičius, rašęs ir apie Tėvynę LietuAdomas Mickevičius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tarp
-    šių organizacijų narių buvo ir A. Mickevičius, rašęs ir apie Tėvynę Lietu-
-    Adomas Mickevičius.
-    Dail. S. Heymann, 1897 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 ## Citatos
 
 - id: c-21545
@@ -365,12 +208,10 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     Žymantienės-Žemaitės sodri realistinė sociali proza.
   citata_rodoma: "Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-\nviškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik\nliaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,\nJ.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia,\nsavotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-\nba rašyta poezija."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-45931
-
 - id: c-48583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

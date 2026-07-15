@@ -36,25 +36,6 @@ Vitkauskas, gen.
   pagrindžia:
     - c-22043
 - susijęs iš SSRS ultimatumas Lietuvai (1940 m. birželio 14 d.): Generolai V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau ministro pirmininko
-    Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-
-    tikio kandidatūrą atmetė. A. Smetonos siūlymą priešintis ginklu palaikė
-    vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
-    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
-    karinei mašinai negali, būtų daug aukų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22043

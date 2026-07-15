@@ -60,8 +60,8 @@ Nenurodyta
   teiginys: "Per penkių kaimų apiplėšimą Goliubo pilies apylinkėse lietuvių kariuomenė paėmė į nelaisvę arba nužudė daug krikščionių."
   pagrindžia:
     - c-167338
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies apylinkėse apiplėšė penkis kaimus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -70,9 +70,6 @@ Nenurodyta
 
       Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
     penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
-
-
-
 
        269 (262). Apie Rygos miestiečių kivirčus su Teutonų ordino broliais Livonijoje
   citata_rodoma: ''
@@ -92,16 +89,10 @@ Nenurodyta
     pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
     kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
 
-
-
-
                        268 (261) Apie penkių kaimų apiplėšimą
 
       Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
     penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
-
-
-
 
        269 (262).
   citata_rodoma: ''
@@ -118,18 +109,15 @@ Nenurodyta
 - id: c-63052
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 191"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    268 (261) Apie penkių kaimų apiplėšimą
-
-      Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
-    penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
-
-
-
-
-       269 (262). Apie Rygos miestiečių kivirčus su Teutonų ordino broliais Livonijoje
+    Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
+    Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
+    metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
+    273 (266). Apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais
+    Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas
+    apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius
+    ir keletą dienų jos ištykojo, tačiau, kai jam įkyrėjo laukti, paleido savo žmones.
   citata_rodoma: "268 (261) Apie penkių kaimų apiplėšimą\n\n  Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė\npenkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.\n\n\n\n\n   269 (262). Apie Rygos miestiečių kivirčus su Teutonų ordino broliais Livonijoje"
   statusas: verified
   teiginio_tipas: faktas
@@ -141,30 +129,27 @@ Nenurodyta
 - id: c-167338
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 191"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šis,
-    bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino
-    pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
-    kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
-
-
-
-
-                       268 (261) Apie penkių kaimų apiplėšimą
-
-      Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
-    penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
-
-
-
-
-       269 (262).
+    Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
+    Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
+    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
+    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
+    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
+    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
+    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
+    272 (265). Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
+    Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
+    metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
+    273 (266). Apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais
+    Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas
+    apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius
+    ir keletą dienų jos ištykojo, tačiau, kai jam įkyrėjo laukti, paleido savo žmones.
+  citata_rodoma: "Šis,\nbemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino\npilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,\nkai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.\n\n\n\n\n                   268 (261) Apie penkių kaimų apiplėšimą\n\n  Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė\npenkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.\n\n\n\n\n   269 (262)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183953
     - t-62428
+    - t-183953

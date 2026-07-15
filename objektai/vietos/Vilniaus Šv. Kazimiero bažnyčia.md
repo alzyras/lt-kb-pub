@@ -42,24 +42,6 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
   teiginys: "Vilniaus Šv. Kazimiero bažnyčia paprastai laikoma barokinės architektūros manifestu Lietuvoje."
   pagrindžia:
     - c-75108
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilniaus Šv. Kazimiero bažnyčia paprastai laikoma barokinės architektūros manifestu Lietuvoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzui-
-    tais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą. Barokinė
-    Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės
-    architektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-
-    čia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

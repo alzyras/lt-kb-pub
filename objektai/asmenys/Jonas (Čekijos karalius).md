@@ -44,27 +44,6 @@ media_all_json: |-
   teiginys: "1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją."
   pagrindžia:
     - c-41362
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1345 m. sausį į Prūsiją atvyko Čekijos
-    karalius Jonas su savo sūnumi, Moravijos
-    markgrafu Karoliu, Vengrijos karalius
-    Liudvikas, Olandijos, Švarcburgo, Burbonės,
-    Niurnbergo grafai - 200 valdovų ir kilmin-
-    gųjų. Su jų pajėgomis Ordino magistro ka-
-    riuomenė įsiveržė į Lietuvą prie Nemuno
-    pulti Veliuonos ir Pieštvės pilių. Iškilo
-    grėsmė ir vidinėms Lietuvos žemėms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

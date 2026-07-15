@@ -45,29 +45,6 @@ Mackevičius, 1934 m. L I E T U V O S I S T O R I J A 52 ceremonija neįvyko –
     - c-75147
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179212|Lenkai]]: Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72609|Ponų taryba (institucija)]]: Lenkijos ponų taryba prisidėjo prie 1398 m. protesto prieš Lietuvos ir Lenkijos santykių eigą ir buvo sumaniusi unijos reikalą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors Niurnbergo
-    auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
-    Lucko suvažiavimas.
-    Dail. J. Mackevičius, 1934 m.
-
-    L I E T U V O S  I S T O R I J A
-    52
-    ceremonija neįvyko – Lenkijos ponų taryba privertė Jogailą atšaukti duo-
-    tą sutikimą. 1430 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-75147

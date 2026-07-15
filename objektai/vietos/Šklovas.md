@@ -58,26 +58,6 @@ Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės
 - susijęs iš [[objektai/posakiai/„Ivanu“.md#claim-t-78928|„Ivanu“]]: Laikotarpį, kai priešų kariuomenės buvo užėmusios beveik visą Lietuvą ir ji beveik prarado valstybingumą, amžininkai pavadino „Ivanu“.
 - susijęs iš Dubrovna: 1562 m. maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo ir Dubrovnos apylinkes.
 - susijęs iš Šepelievičiai: 1654 m. rugpjūčio 24 d. J. Radvila patyrė pirmąjį savo pralaimėjimą prie Šepelievičių.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės fragmentas, jame iškalti žymiausių lietuvių karo pergalių pavadinimai („1236
-
-    2 Mm,
-
-    Šiauliai“; „1260 Durbė“; „1410 Griunvaldas“; „1506 Kleckas": „1514 Orša“; „1554 Ula”; „
-
-    1605 Kircholmas”; „1649 Lojovas”; „1854 [klaidinga data turėtų būti 1654] Šklovas“).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45472

@@ -61,58 +61,6 @@ Nenurodyta
   teiginys: "Iki Gedimino dabartinio Vilniaus vietoje tikriausiai buvo medinė tvirtovė, o palei Vilnios krantą driekėsi trobelės."
   pagrindžia:
     - c-83033
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Iki Gedimino dabartinio Vilniaus vietoje tikriausiai buvo medinė tvirtovė, o palei Vilnios krantą driekėsi trobelės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    17
-
-    ## Puslapis 34
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono
-    sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami
-    puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse
-    įkurdavo savo valdžios buveines. Bet labai tikėtina, kad nuo
-    seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­
-    kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų,
-    supančių Vilnios srovę, būta medinės tvirtovės6. Čia buvo
-    pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten
-    išaugusiam miestui, pagaliau nuo tos tvirtovės prie Vilnios
-    palei krantą pažemiais tęsėsi trobelės iki pat Vilijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'XIII amžiaus viduryje dabartinio Vilniaus vietoje buvo medinių namų gyvenvietė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tuo metu poreikis turėti savą gynybą ir per ne­
-    paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
-    sikračiusiomis netašyto barbariškumo, davė pradžią rastis
-    Lietuvos žemėje medinėms pilims ir tvirtovėms.
-    Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­
-    liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­
-    sėjus ten būta medinių namų gyvenvietės4. Nors ir patogio­
-    je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių
-    santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos
-    surašytos klausantis jų skaldų, bei
-    šiaurės kronikos byloja ne apie vie­
-    ną tokį žygį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

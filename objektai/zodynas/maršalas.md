@@ -62,7 +62,7 @@ media_all_json: |-
 <a id="claim-t-184627"></a>
 - t-004
   global_id: t-184627
-  teiginys: "Rūmų maršalas Kernavėje įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą."
+  teiginys: "Kernavėje rūmų maršalas įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą."
   pagrindžia:
     - c-167988
 
@@ -95,14 +95,21 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66527|Durbės mūšis (1260 m.)]]: Durbės mūšyje 1260 m. liepos 13 d. žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 brolių.
 - susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66814|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o imperatoriaus laiške mūšis lygintas su Tanenbergo-Žalgirio kautynėmis.
 - susijęs iš [[objektai/ivykiai/Strėvos mūšis (1348 m.).md#claim-t-10298|Strėvos mūšis (1348 m.)]]: Vygando kronika Strėvos mūšį sieja su Ordino maršalu, didžiuoju komtūru, didelės lietuvių ir rusų kariuomenės telkimu ir mirtinu susirėmimu prie Strėvos upės.
+- susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200555|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius.
+- susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200556|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1751 m. tribunolo maršalas Juozapas Antanas Solohubas ir Antanas Solohubas pakvietė Lopacinskį prie mažojo staliuko Paneriuose.
 - susijęs iš [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą.md#claim-t-185864|Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]: Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą.
 - susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
 - susijęs iš [[objektai/zodynas/Ordino maršalas didysis maršalas.md#claim-t-86490|Ordino maršalas didysis maršalas]]: Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga.
+- susijęs iš [[objektai/asmenys/Juozapas Antanas Solohubas (tribunolo maršalas, XVIII a.).md#claim-t-200492|Juozapas Antanas Solohubas (tribunolo maršalas, XVIII a.)]]: Juozapas Antanas Solohubas buvo tribunolo maršalas.
+- susijęs iš [[objektai/daiktai/Mažasis staliukas Panerių priėmime.md#claim-t-200668|Mažasis staliukas Panerių priėmime]]: 1751 m. Paneriuose Juozapas Antanas Solohubas ir Antanas Solohubas be ceremonijų pakvietė Joną Dominyką Lopacinskį prie mažojo staliuko.
+- susijęs iš [[objektai/ivykiai/Tribunolo maršalkos ir artilerijos generolo priėmimas Paneriuose (1751 m. birželio 25 d.).md#claim-t-200604|Tribunolo maršalkos ir artilerijos generolo priėmimas Paneriuose (1751 m. birželio 25 d.)]]: 1751 m. birželio 25 d. Lopacinskis vyko į Panerius priimti tribunolo maršalo Juozapo Antano Solohubo ir artilerijos generolo Antano Solohubo.
+- susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200555|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius.
+- susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200556|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1751 m. tribunolo maršalas Juozapas Antanas Solohubas ir Antanas Solohubas pakvietė Lopacinskį prie mažojo staliuko Paneriuose.
 - susijęs iš [[objektai/asmenys/Adolfas Ramanauskas-Vanagas.md#claim-t-63404|Adolfas Ramanauskas-Vanagas]]: Adolfas Ramanauskas-Vanagas 1956 m. buvo suimtas, žiauriai kankintas ir kitais metais sušaudytas.
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Aleksandras Bokevičius.md#claim-t-186093|Aleksandras Bokevičius]]: Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai.
 - susijęs iš [[objektai/asmenys/Andrius Mackevičius.md#claim-t-186094|Andrius Mackevičius]]: Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.
-- susijęs iš [[objektai/asmenys/Anisijus Gornostajus.md#claim-t-186181|Anisijus Gornostajus]]: Maršalas Anisijus Gornostajus Lietuvos senate atkakliai prieštaravo Ivano titulavimui Maskvos kunigaikštystės caru.
+- susijęs iš [[objektai/asmenys/Anisijus Gornostajus.md#claim-t-186181|Anisijus Gornostajus]]: Kojelavičiaus pasakojime maršalas Anisijus Gornostajus Lietuvos senate priešinosi Ivano titulavimui Maskvos kunigaikštystės caru.
 - susijęs iš [[objektai/asmenys/Berlevinas.md#claim-t-60247|Berlevinas]]: Naujasis maršalas brolis Berlevinas pasipriešino Ditricho siūlymui pulti likusią priešų kariuomenės dalį prie pelkės.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markgrafas).md#claim-t-60262|Ditrichas (Meiseno markgrafas)]]: Meiseno markgrafas Ditrichas buvo tarp didikų, pritarusių siųsti legatus Henrikui VI dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59909|Ditrichas iš Bernheimo]]: 1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir 24 ginklanešiais slapta įsigavo į Sartovicų pilį.
@@ -111,7 +118,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184431|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė 1388 m. buvo taikos sutarties su Lietuva, sudarytos ties Kaunu, šalis.
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184432|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.
 - susijęs iš [[objektai/asmenys/Er. Wallenrodas.md#claim-t-29002|Er. Wallenrodas]]: Ordino maršalas Wallenrodas buvo tarp 200 kritusių kryžiuočių riterių.
-- susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-184697|Eustachijus Valavičius]]: Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59960|Fridrichas Kvicas]]: Broliai Hartmanas ir Fridrichas Kvicas su 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
 - susijęs iš [[objektai/asmenys/Gardolfas.md#claim-t-60282|Gardolfas]]: Halberštato vyskupas Gardolfas buvo tarp Vokietijos dvasininkų ir didikų, svarstusių ką tik įsteigtos ligoninės ateitį.
@@ -155,7 +161,6 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72079|Joanitų ordinas]]: Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178853|Kryžiuočių ordinas]]: Mūšyje žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 Ordino brolių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184490|Kryžiuočių ordinas]]: Mūšyje Livonijos kariuomenė buvo sutriuškinta, žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir 150 ordino riterių.
-- susijęs iš [[objektai/grupes/Lietuvos luomai.md#claim-t-185433|Lietuvos luomai]]: Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187735|Ponų taryba (institucija)]]: Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/grupes/Rusai.md#claim-t-117248|Rusai]]: Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175084|Sembai]]: 1313 m. rudenį maršalas Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį, o abu jos papiliai sudegė.
@@ -169,6 +174,8 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas.md#claim-t-185720|Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas]]: Po kryžiuočių pralaimėjimo krikščionių valdovai surinko kariuomenes ir atvedė jas į Prūsiją.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.).md#claim-t-55124|Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]: Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet staiga užimti miesto nepavyko.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.).md#claim-t-81826|Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]: Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė.
+- susijęs iš [[objektai/ivykiai/Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.).md#claim-t-200607|Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)]]: Po 1760 m. gaisro iš Andriaus Oginskio naujų rūmų liko tik sienos su židiniais.
+- susijęs iš [[objektai/ivykiai/Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.).md#claim-t-200608|Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)]]: 1760 m. gaisras Vilniuje sunaikino naujus Andriaus Oginskio rūmus.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-183951|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. maršalas su broliais ir Sembos vyrais žygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56681|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. viena Ordino kariuomenės dalis nesėkmingai mėgino paimti Gedimino pilį, bet sudegino jos papilį.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56683|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. Fridrichas iš Libencelės su 150 vyrų turėjo slapta paimti Gedimino pilį, bet pilėnai ją apgynė, o papilys sudegė.
@@ -180,10 +187,12 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.).md#claim-t-185684|Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]: Prūsai ir žemaičiai prie Liubavos iš pasalų užpuolė grobio ieškojusius kryžiuočius ir padarė jiems didelį pralaimėjimą.
 - susijęs iš [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme.md#claim-t-05337|Bajorų dalyvavimas svarbiausių aktų sudaryme]]: 1401 m. Vilniaus susitarimuose išvardyti bajorai ir pareigūnai turėjo būti ne tik liudininkai, bet ir garantai.
 - susijęs iš [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme.md#claim-t-71796|Bajorų dalyvavimas svarbiausių aktų sudaryme]]: 1401 m. Vilniaus susitarimuose Lietuvos bajorai pirmą kartą unijų istorijoje surašė atskirą aktą.
+- susijęs iš [[objektai/paprociai/Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme.md#claim-t-200621|Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme]]: 1750 m. nesumokėtos skolos byla prieš Mykolą Kazimierą Sapiegą buvo keliama Vilniaus pilies teisme.
+- susijęs iš [[objektai/posakiai/Greitai mūsų publika visai užges.md#claim-t-200627|Greitai mūsų publika visai užges]]: 1760 m. pasibaigus tribunolui Jonas Dominykas Lopacinskis formule „Greitai mūsų publika visai užges“ nusakė Vilniaus bajoriškos publikos išsiskirstymą.
 - susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09674|Palikime savo žirgus toli užpakalyje]]: Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis.
 - susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09675|Palikime savo žirgus toli užpakalyje]]: „Palikime savo žirgus toli užpakalyje“ reiškė sumanymą atimti kariams viltį trauktis ir priversti juos nevengti mūšio.
 - susijęs iš [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės.md#claim-t-185477|karo, ir taikos metu tokios pat santarvės bei šlovės]]: Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.
-- susijęs iš Lietuvių bei lenkų santarvės aktas, užbaigtas Vilniuje: Aleksandras pasirūpino Vilniuje užbaigti lietuvių bei lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.
+- susijęs iš Lietuvių bei lenkų santarvės aktas, užbaigtas Vilniuje: Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.
 - susijęs iš Ariogala: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.
 - susijęs iš Bychovo tvirtovė: Sapiegų etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują bei Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą.
 - susijęs iš Bychovo tvirtovė: Etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, tačiau iš tikrųjų traukėsi į Kuršą.
@@ -204,7 +213,7 @@ media_all_json: |-
 - susijęs iš Neris Vilija: Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo Skirgailos stovykla.
 - susijęs iš Pagraudė: 1317 m. vasarą apie birželio 24 d. maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.
 - susijęs iš Paštuvos valsčius: 1316 m. žiemą maršalas Henrikas su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių, jį nusiaubė ir paėmė arba nukovė 500 žmonių.
-- susijęs iš Pernarava: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama sunaikino Ariogalos, Pernaravos ir Labūnavos žemes Žemaitijoje.
+- susijęs iš Pernarava: Kojelavičiaus pasakojime Prūsų magistras, remiamas Bavarijos grafo Volfgango ir Livonijos kryžiuočių, sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.
 - susijęs iš Prūsija: 1375 m. ekspedicija iš Prūsijos sukėlė Vilniui grėsmę.
 - susijęs iš Ragainė: 1361 m. žiemą kryžiuočiai iš Ragainės du kartus žygiavo prieš lietuvius, žudė, degino ir plėšė.
 - susijęs iš Sizditė: 1314 m. apie vasario 2 d. maršalas Henrikas su kariuomene puolė Sizditės pilį Medininkų valsčiuje.
@@ -212,7 +221,6 @@ media_all_json: |-
 - susijęs iš Strėva: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
 - susijęs iš Toržokas: Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
 - susijęs iš Toržokas: Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
-- susijęs iš Trakai: 1377 m. Ordino maršalas buvo atvykęs prie Trakų ir, Wigando teigimu, kalbėjosi su Kęstučiu.
 - susijęs iš Vaikiai: 1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių.
 - susijęs iš Vaikių valsčius: 1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių.
 - susijęs iš Verkiai: Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių-lenkų kariuomenei ilgai priešintis.
@@ -221,7 +229,7 @@ media_all_json: |-
 - susijęs iš Įsrutis: Maršalas organizavo žygį iš Įsruties į Kauną ir, anot šaltinyje cituojamos frazės, „atnešė stabmeldžiams visokių nelaimių“.
 - susijęs iš Šeškinės kalnas: Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių ir lenkų kariuomenei ilgai priešintis.
 - susijęs iš Žiežmariai: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
-- susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-184631|Ordino brolis]]: Mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, vadinamų broliais.
+- susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-184631|Ordino brolis]]: Livonijos kariuomenės sutriuškinimo mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir 150 ordino riterių, vadintų broliais.
 - susijęs iš [[objektai/zodynas/komtūras.md#claim-t-183715|komtūras]]: 1348 m. didysis komtūras Vinrichas iš Kniprodės dalyvavo Strėvos mūšyje ir narsiai kovėsi.
 - susijęs iš [[objektai/zodynas/komtūras.md#claim-t-183834|komtūras]]: Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184013|papilys]]: 1317 m. Ordino broliams nepavyko paimti Gedimino pilies, tačiau jie visiškai sudegino jos papilį.
@@ -231,143 +239,12 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58797|pilėnas pilėnai]]: Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir dūmais pranešė kaimyniniams stabmeldžiams.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185338|skitai]]: Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.
 - susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42512|stabmeldys]]: Sausio 24-osios išvakarėse į stabmeldžių žemę įžengę kariai žudė gyventojus ir degino kraštą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    S
-    sv
-    2.
-    BAU
-    =
-    S 8
-    S
-    m
-    e-+
-    >
-    os
-    2%
-
-    ## Puslapis 40
-
-    SUS os
-
-    : i Paha
-    “| KARALYS'
-
-    Mūšio priešistorė
-
-    Tesiantis Lietuvos karui su Vokiečių or-
-    dinu, 1355 m. pradžioje didelė Kryžiuočių
-    kariuomenė, vadovaujama maršalo, įsi-
-    veržusi penketą dienų niokojo centri-
-
-    nę Žemaitijos Medininkų žemę, po to
-    Vaikius (vakariau Raseinių), Ariogalą
-    prie Dubysos. Tais metais į Lietuvos pie-
-    tines žemes veržėsi Lenkijos ir Vengrijos
-    jėgos, nuo 1356 m. santykiai su tomis šali-
-    mis kuriam laikui normalizavosi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
-    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
-    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur
-    pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
-    tas ugnimi išdegintas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-003
-  santrauka: 'Rūmų maršalas Kernavėje įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Sukvietus Kernavėje didikų sueigą, Germanto
-    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
-    valdovu, jo broliui Trobiui
-    patikėta Žemaitija su ta są­
-    lyga, kad jis bus pavaldus
-    Lietuvos didžiajam kunigaik­
-    ščiui. Rūmų maršalas, para­
-    ginęs vieną bei kitą siekti ir
-    karo, ir taikos metu tokios pat santarvės bei šlovės,
-    kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
-    bei lazdą. Šitoks nesudėtingas tada buvo vainikavimo
-    paprotys, kuriuo valdovui suteikdavo aukščiausiąją ga­
-    lią žiūrėti valstybės reikalų ir viduje, ir svetur.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kartą Traidenis sugrįžo iš žygio į Prūsiją ir
-    pamatė tarp kitų berniukų Vytenį, kurio gražus vei­
-    das jį patraukė ypatingu kilnumu (dažniausiai paskiri
-    didelių asmenybių bruožai esti taurūs), jis pradėjo ati­
-    džiau jį stebėti, o ilgainiui, sakytum paskatintas kažin
-    kokios slaptos galios, aiškiau suvokė savo busimąsias
-    viltis, kurių gerai nė pats nesuprato. Netrukus, tėvams
-    mielai sutinkant, mažametis Vytenis atsidūrė Traide­
-    nio šeimoje; kadangi jo dvasinė stiprybė ryškėjo die­
-    na iš dienos, vos suaugęs tapo miegamojo patarnauto­
-    ju, o susilaukęs vyro metų,— rūmų pareigūnu, kurį
-    paprastai vadina maršalu. Anksti įtikęs valdovui Traide­
-    niui, jis tapo jo patarėju, karo žygių bendrininku, kol
-    galop Lauras jį pasiūlė sosto paveldėtoju.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-005
-  santrauka: 'Vytautas į Korčino seimą nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po to prasidėjo ilgos tarpusavio rietenos, kurias
-    nuolat kurstė ir Vytautas, ir
-    lenkai, siuntinėdami žygūnus:
-    Lietuvos didysis kunigaikštis
-    stengėsi iš lenkų išgauti suti­
-    kimą, o šie — priversti Vy­
-    tautą atsisakyti savo sumany­
-    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
-    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
-    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
-    dovo reikalavimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
+- susijęs iš [[objektai/asmenys/Antanas Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200493|Antanas Solohubas (LDK artilerijos generolas, XVIII a.)]]: Antanas Solohubas buvo LDK artilerijos generolas.
+- susijęs iš [[objektai/ivykiai/Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.).md#claim-t-200607|Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)]]: Po 1760 m. gaisro iš Andriaus Oginskio naujų rūmų liko tik sienos su židiniais.
+- susijęs iš [[objektai/ivykiai/Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.).md#claim-t-200608|Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)]]: 1760 m. gaisras Vilniuje sunaikino naujus Andriaus Oginskio rūmus.
+- susijęs iš [[objektai/ivykiai/Tribunolo maršalkos ir artilerijos generolo priėmimas Paneriuose (1751 m. birželio 25 d.).md#claim-t-200603|Tribunolo maršalkos ir artilerijos generolo priėmimas Paneriuose (1751 m. birželio 25 d.)]]: Juozapas Antanas Solohubas ir Antanas Solohubas 1751 m. be ceremonijų pakvietė Lopacinskį prie mažojo staliuko.
+- susijęs iš [[objektai/paprociai/Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme.md#claim-t-200621|Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme]]: 1750 m. nesumokėtos skolos byla prieš Mykolą Kazimierą Sapiegą buvo keliama Vilniaus pilies teisme.
+- susijęs iš [[objektai/posakiai/Greitai mūsų publika visai užges.md#claim-t-200627|Greitai mūsų publika visai užges]]: 1760 m. pasibaigus tribunolui Jonas Dominykas Lopacinskis formule „Greitai mūsų publika visai užges“ nusakė Vilniaus bajoriškos publikos išsiskirstymą.
 ## Citatos
 
 - id: c-45532
@@ -438,8 +315,7 @@ media_all_json: |-
 - id: c-167988
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 131"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Sukvietus Kernavėje didikų sueigą, Germanto
     vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
@@ -464,8 +340,7 @@ media_all_json: |-
 - id: c-167989
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 151"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 151."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kartą Traidenis sugrįžo iš žygio į Prūsiją ir
     pamatė tarp kitų berniukų Vytenį, kurio gražus vei­
@@ -491,20 +366,24 @@ media_all_json: |-
 - id: c-167990
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 418"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to prasidėjo ilgos tarpusavio rietenos, kurias
-    nuolat kurstė ir Vytautas, ir
-    lenkai, siuntinėdami žygūnus:
-    Lietuvos didysis kunigaikštis
-    stengėsi iš lenkų išgauti suti­
-    kimą, o šie — priversti Vy­
-    tautą atsisakyti savo sumany­
-    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
-    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
-    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
-    dovo reikalavimus.
+    jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
+    siryžęs pasiekti. Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
+  citata_rodoma: "Po to prasidėjo ilgos tarpusavio rietenos, kurias\nnuolat kurstė ir Vytautas, ir\nlenkai, siuntinėdami žygūnus:\nLietuvos didysis kunigaikštis\nstengėsi iš lenkų išgauti suti­\nkimą, o šie — priversti Vy­\ntautą atsisakyti savo sumany­\nmo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­\nniaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.\nLuomų susirinkime jie trumpai, bet aiškiai išdėstė val­\ndovo reikalavimus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

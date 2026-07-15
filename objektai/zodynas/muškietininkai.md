@@ -41,27 +41,6 @@ g“ sel Flanguose Tercijos priekyje būdavo išrikiuojami išrikiuota muškieti
 - susijęs iš [[objektai/zodynas/karakolė.md#claim-t-183710|karakolė]]: Karakolės metu priekinė šaulių eilė, iššovusi salvę, pasisukdavo dešinėn, grįždavo į rikiuotės galą ir ten užtaisydavo ginklus.
 - susijęs iš [[objektai/zodynas/karakolė.md#claim-t-42460|karakolė]]: Karakolė, arba „sraigė“, reiškė šaulių priekinės eilės pasitraukimą į rikiuotės galą po salvės.
 - susijęs iš [[objektai/zodynas/karakolė.md#claim-t-42461|karakolė]]: Karakolė buvo taktika, kai priekinė šaulių eilė po salvės pasisukdavo dešinėn, žygiuodavo į rikiuotės galą ir ten užtaisydavo ginklus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Tercijos priekyje ir flanguose būdavo išrikiuojami muškietininkai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ie r. g“ sel
-
-    Flanguose Tercijos priekyje būdavo išrikiuojami
-    išrikiuota muškietininkai. Kitose tercijos rikiuotės
-    kavalerija vietose didžiąją dalį šaulių sudarė ne tokiais
-
-    galingais ginklais aprūpinti arkebuzieriai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45534

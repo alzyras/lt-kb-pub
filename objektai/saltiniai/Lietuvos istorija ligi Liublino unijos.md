@@ -40,20 +40,6 @@ Lietuvos istorija ligi Liublino unijos.
   teiginys: "M. Liubavskio „Lietuvos istorija ligi Liublino unijos“ lietuviškas vertimas išleistas Vilniuje 1922 m. dviem dalimis."
   pagrindžia:
     - c-36194
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Liub. = Liubavskis, M. Lietuvos istorija ligi Liublino unijos.
-    Dvi dalys (vertimas), Vilnius, 1922.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

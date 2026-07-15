@@ -48,41 +48,6 @@ media_all_json: |-
   teiginys: "Dvilaukė sistema atsirado iš lydiminės žemdirbystės, kai nulaisintas lydimas ilgai turėjo pūdymauti."
   pagrindžia:
     - c-167725
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lydimas apaugdavo žole ganyklai ir krūmais, o naujas
-    lydimas buvo daromas kitoje miško ar pamiškės vietoje. Šitaip
-    atsirado dvilaukė sistema. Kadangi nulaisintas lydimas ilgai turėjo
-    pūdymauti, vienai šeimai prasimaitinti reikėjo bent 5-6 lydimų
-    gabalų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Dvilaukė sistema atsirado iš lydiminės žemdirbystės, kai nulaisintas lydimas ilgai turėjo pūdymauti.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šitaip
-    atsirado dvilaukė sistema. Kadangi nulaisintas lydimas ilgai turėjo
-    pūdymauti, vienai šeimai prasimaitinti reikėjo bent 5-6 lydimų
-    gabalų. Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo
-    pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė
-    laisvės naudotis mišku ir daryti išdagas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

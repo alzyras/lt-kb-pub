@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - upė
   - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -29,47 +28,20 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
 
 ## Teiginiai
 
-<a id="claim-t-187362"></a>
+<a id="claim-t-199949"></a>
 - t-001
-  global_id: t-187362
+  global_id: t-199949
   teiginys: "Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius."
   pagrindžia:
-    - c-170376
-
-<a id="claim-t-187362"></a>
-- t-002
-  global_id: t-187362
-  teiginys: "Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius."
-  pagrindžia:
-    - c-170376
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir suspindo žvaigždės kaip naktį, ir
-    švietė tris valandas:.
-    Štai kas nutiko po šito dangaus ženklo didžiajam
-    kunigaikščiui Vytautui, draugiškai sugyvenusiam su
-    savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
-    Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
-    prie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se-
-    verskiečius, atėmė iš jų du bebrus ir tris statines me-
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
+    - c-182936
 
 ## Citatos
 
-- id: c-170376
+- id: c-182936
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 100."
   citata_originali: |
     Ir suspindo žvaigždės kaip naktį, ir
     švietė tris valandas:.
@@ -77,13 +49,12 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
     kunigaikščiui Vytautui, draugiškai sugyvenusiam su
     savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
     Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
-    prie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se-
+    prie Tykiosios Sosnos 3 užpuolė Vytauto valdinius se-
     verskiečius, atėmė iš jų du bebrus ir tris statines me-
-  citata_rodoma: "Maskvėnai, atsibastę netoli Putivlio, \nprie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se- \nverskiečius, atėmė iš jų du bebrus ir tris statines me-\ndaus."
+  citata_rodoma: "Ir suspindo žvaigždės kaip naktį, ir \nšvietė tris valandas:.\nŠtai kas nutiko po šito dangaus ženklo didžiajam \nkunigaikščiui Vytautui, draugiškai sugyvenusiam su \nsavo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi \nDimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio, \nprie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se- \nverskiečius, atėmė iš jų du bebrus ir tris statines me-"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187362
-    - t-187363
+    - t-199949

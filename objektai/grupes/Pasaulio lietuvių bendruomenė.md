@@ -43,25 +43,6 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
   teiginys: "Pasaulio lietuvių bendruomenė buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų."
   pagrindžia:
     - c-22691
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atkūrus Lietuvos
-    nepriklausomybę, 1991 m. rugsėjo 6 d. LDT savo darbą baigė.
-    JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios
-    organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasau-
-    lio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vy-
-    riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien
-    ir pasitarnauti Lietuvos laisvės bylai tarptautiniu mastu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

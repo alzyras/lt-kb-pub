@@ -48,45 +48,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   teiginys: "Marijampolėje veikęs „Žiburys“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų."
   pagrindžia:
     - c-166334
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vilniuje 1907 m. buvo
-    įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti
-    lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą (ji ir dabar
-    tebėra gyva ir tebeleidžia savo žurnalą Lietuvių Tautą).
-    Tais pačiais metais Vilniuje įsikūrė Lietuvių Dailės
-    Draugija ir daug kitų draugijų.
-    Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
-    kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
-    jampolėje „Žiburys".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Marijampolėje veikęs „Žiburys“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tais pačiais metais Vilniuje įsikūrė Lietuvių Dailės
-    Draugija ir daug kitų draugijų.
-    Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
-    kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
-    jampolėje „Žiburys". Ypač plačiai buvo užsimojusi „Sau-
-    lė".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

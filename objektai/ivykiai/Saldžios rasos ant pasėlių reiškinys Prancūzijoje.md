@@ -51,32 +51,13 @@ Nenurodyta
   teiginys: "Apie birželio 24 d. Prancūzijoje saldi rasa nukrito ant pasėlių varpų, o žmonės burnoje jautė medaus kvapą."
   pagrindžia:
     - c-63112
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Apie birželio 24 d. Prancūzijoje saldi rasa nukrito ant pasėlių varpų, o žmonės burnoje jautė medaus kvapą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie saldžią rasą, užkritusią pasėlius
-
-      Prancūzijoje apie švento Jono Krikštytojo šventę (birželio 24) saldi rasa, leisdamasi iš
-    dangaus, taip užkrito pasėlių varpas, kad daug žmonių, paėmę jas į burną, kuo aiškiausiai
-    jautė medaus kvapą (Ptol. loc. cit.; Mart. loc. cit.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63112
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 226."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie saldžią rasą, užkritusią pasėlius
 

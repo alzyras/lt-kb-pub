@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Likeris
 sukurta: '2026-07-12'
 variantai:
-  - likerį
-  - likeris
+  - 'likerį'
+  - 'likeris'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -59,6 +59,7 @@ Terminas vartojamas blaivybės ir gėrimo grįžimo kontekste.
   teiginys: "Šioje apybraižoje žydai žmonėms aiškino, kad likeris yra ne degtinė, bet vynas."
   pagrindžia:
     - c-178024
+
 ## Citatos
 
 - id: c-178024

@@ -49,33 +49,12 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
 - susijęs iš [[objektai/ivykiai/Neapolio sugriovimas ir Konrado mirtis (1251-1252 m.).md#claim-t-62412|Neapolio sugriovimas ir Konrado mirtis (1251-1252 m.)]]: 1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apuliją ir Neapolį, o kitais metais mirė nunuodytas.
 - susijęs iš [[objektai/asmenys/Izabelė Jogailaitė.md#claim-t-87696|Izabelė Jogailaitė]]: Izabelė Jogailaitė buvo karalaitė ir Vengrijos karalienė, kuriai buvo atiduotas kraitis.
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54981|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) turėjo būti atiduotas kraitis ir tūkstantis raudonųjų vengriškų zlotų auksu.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apulijos karalystę ir Neapolį, o Neapolio sienas sugriovė iki pamatų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    36. Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,
-                                                mirtį
-
-      1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės
-    karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį. Sienas sugriovė ligi pamatų, bet
-    kitais metais pasimirė nunuodytas (Mart. p. 404).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59340
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 232"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     36. Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,
                                                 mirtį

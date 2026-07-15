@@ -39,8 +39,8 @@ Dusburgietis teigia, kad wróblewski R.
   teiginys: "R. Wróblewskis 1970 m. Lodzėje paskelbė straipsnį apie jotvingių problemą Boleslovo Droviojo politikoje 1248–1264 m."
   pagrindžia:
     - c-61453
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Wróblewskis 1970 m. Lodzėje paskelbė straipsnį apie jotvingių problemą Boleslovo Droviojo politikoje 1248–1264 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,11 +60,13 @@ Dusburgietis teigia, kad wróblewski R.
 - id: c-61453
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248—
-    1264,—Nauki humanistyczno społeczne, Łódź, 1970, z. 72, s. 3—18.
+    — Проблемы источниковедения, М., 1959, 7. с. 357—390.
+    Пашуто В. Т.  Образование Литовского государства — М., 1959.
+    Пашуто В. Т.  Гродно в Хронике Петра Дусбурга. — Культура древней Руси/
+    Посвящается 40-летию научной деятельности H. Н. Воронина, М., 1966, с.
+  citata_rodoma: "Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248—\n1264,—Nauki humanistyczno społeczne, Łódź, 1970, z. 72, s. 3—18."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

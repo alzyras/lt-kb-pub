@@ -35,35 +35,13 @@ Teodoras Narbutas Masosą vadina karaliuku, kuriam kaip duoklę atnešami graži
   teiginys: "Teodoras Narbutas Masosą vadina karaliuku, kuriam kaip duoklę atnešami gražiausi žmonių vaikai."
   pagrindžia:
     - c-174178
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Teodoras Narbutas Masosą vadina karaliuku, kuriam kaip duoklę atnešami gražiausi žmonių vaikai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Raštas jiems nežinomas dalykas, be to, jie nesu­
-    prato, kaip parašytomis raidėmis galima persiųsti savo
-    mintis net į tolimiausius kraštus, o dienas ir mėnulio ap­
-    sisukimus skaičiavo ¿pindami į krepšį pagaliukus arba už­
-    megzdami mazgus ant virvelės. Savo karaliukui, vardu
-    Masos, kaip duoklę atneša gražiausius savo vaikus. Tas
-    karalius gyvena kitoje stovykloje ir ten augina tuos vai­
-    kus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174178
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 168"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Raštas jiems nežinomas dalykas, be to, jie nesu­
     prato, kaip parašytomis raidėmis galima persiųsti savo

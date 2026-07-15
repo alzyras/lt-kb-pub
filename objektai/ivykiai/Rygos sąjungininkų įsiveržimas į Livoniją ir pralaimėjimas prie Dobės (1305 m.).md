@@ -58,23 +58,6 @@ Nenurodyta
   teiginys: "1305 m. lietuviai kaip Rygos sąjungininkai įsiveržė į Livoniją, pralaimėjo prie Dobės, bet karo veiksmus tęsė iki 1307 m. vasaros."
   pagrindžia:
     - c-33428
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1305 m. lietuviai kaip Rygos sąjungininkai įsiveržė į Livoniją, pralaimėjo prie Dobės, bet karo veiksmus tęsė iki 1307 m. vasaros.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet ir padarę su ordinu paliaubas, rygiečiai toliau pa­
-    laikė su lietuviais sąjungą. Kaip Rygos sąjungininkai, šie vėl 1305
-    m. įsiveržė Livonijon. Nors prie Dobės jie pralaimėjo, bet karo
-    veiksmus tęsė iki 1307 m. vasaros^36.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

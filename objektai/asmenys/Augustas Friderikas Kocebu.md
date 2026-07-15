@@ -41,33 +41,8 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
   teiginys: "Narbutas taiso Kocebu vietovardį Cemptenbece į Lemptenburgą ir pabrėžia, kad šios vietos padėtį sunku tiksliai nustatyti."
   pagrindžia:
     - c-174057
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gaubiama sunkiai atskleidžiamų uždangų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Lietuvių kalboje jis išliko žodyje
-    Stiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų
-    reciprocum, se, sanskrito sieti2, lenkų się; be to, lietuviš­
-    kas žodis Stiklas reiškia spindintį daiktą, žodyje glūdi
-    G los s pradas.
-    150
-    Kocebus teisingai vadina gintarą saulės akmeniu, se­
-    novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią
-    gaubia sunkiai atskleidžiamos uždangos4. Tačiau senovė­
-    je, jei atmesime tokias pasakas ir spėliones, pavyzdžiui,
-    kad jis susidaro iš lūšies šlapimo, ¡gintaru verkė Mulea-
-    įgrido paukščiai arba hiperborėjų Apolonas, būta apie jį
-    gana tikslių žinių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas taiso Kocebu vietovardį Cemptenbece į Lemptenburgą ir pabrėžia, kad šios vietos padėtį sunku tiksliai nustatyti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -98,8 +73,7 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
 - id: c-174056
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 146"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Lietuvių kalboje jis išliko žodyje
     Stiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų
@@ -124,8 +98,7 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
 - id: c-174057
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 347"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tam, kad naujiems šio pajūrio miesto
     kolonistams būtų garantuotos pastovios valdos, teisėjų
@@ -139,7 +112,8 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
     pleatur. Norint deramai suprasti šią vietą, labai svarbu
     tiksliai nustatyti Lemptenburgo padėtį (ne Cemptenbece,
     kaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­
-    me Varmijos vyskupo Anzelmo rašte (Bacho.
+    me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1.
+  citata_rodoma: "Tam, kad naujiems šio pajūrio miesto\nkolonistams būtų garantuotos pastovios valdos, teisėjų\nvalia sutartyje minimos šios sąlygos: Habebunt etiam\ncives sepedicti medietatem unius tercie partis Sambie,\nque fratres contingit, quam fratribus dividentibus elege­\nrint ipsi cives et in Warmia mansas duo milia et quin­\ngentos a Lemptemburc contra Lipzam mensurandos in\nlitor e in une parte et in altera contra Nat augiam donec\nin ipsa Warmia contique ipsorum mansorum numerus im­\npleatur. Norint deramai suprasti šią vietą, labai svarbu\ntiksliai nustatyti Lemptenburgo padėtį (ne Cemptenbece,\nkaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­\nme Varmijos vyskupo Anzelmo rašte (Bacho."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

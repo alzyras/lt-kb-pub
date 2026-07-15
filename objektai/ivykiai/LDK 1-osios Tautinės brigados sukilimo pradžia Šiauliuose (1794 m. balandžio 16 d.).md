@@ -57,27 +57,6 @@ Nenurodyta
   teiginys: "1794 m. balandžio 16 d. Šiauliuose ir jo apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada, anksčiau vadinta Kauno husarų brigada."
   pagrindžia:
     - c-40951
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pirmoji kovų fazė: Vilniaus
-
-    išvadavimas
-
-    1794 m. balandžio 16 d. Šiauliuose ir jo apy-
-    linkėse sukilimą pradėjo LDK 1-oji Tautinė
-    brigada (ankščiau vadinta Kauno husarų).
-    Tuo metu Žemaitijoje praktiškai nebuvo
-    Rusijos kariuomenės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

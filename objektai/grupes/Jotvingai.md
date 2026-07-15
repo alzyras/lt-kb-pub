@@ -35,24 +35,6 @@ Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaič
   teiginys: "Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaičiai ir jotvingai, kurie Mindaugo laikais labai neaiškiai laikėsi."
   pagrindžia:
     - c-176032
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaičiai ir jotvingai, kurie Mindaugo laikais labai neaiškiai laikėsi.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Žodžiu, Traidenio laikais Lietuva buvo iškilusi, kaip ga-
-    linga karinė pajėga. Tuo metu Lietuvos valstybė buvo grynai
-    lietuviška ir tautiška. Ji buvo daug platesnė, negu Mindaugo
-    laikais, nes Traidenio klausė ir žemaičiai ir jotvingai, kurie
-    Mindaugo laikais labai neaiškiai laikėsi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

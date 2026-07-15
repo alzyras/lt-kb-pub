@@ -91,96 +91,17 @@ Nenurodyta
   teiginys: "N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas."
   pagrindžia:
     - c-170777
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Masonų organizacijose kampainis simboli­
-    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
-    čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
-    mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
-    organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
-    mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
-    Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
-    odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
-    Marcinovskis taip pat priklausė masonų organizacijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po
-    1812 m. Lietuvoje labai išpopulia-
-    rėjo masonų judėjimas. Masonų
-    ložėms priklausė diduma bent
-    kiek intelektualesnės publikos.
-    Garsiausioji ložė vadinosi „Uolusis
-    lietuvis“ („Gorliwy Litwin“). Uni-
-    versitete veikė nemažai studentų
-    organizacijų, besirūpinusių kul-
-    tūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą,
-    neskatinančią paklusnumo valdžiai. Caro administracija ėmėsi tyrimo,
-    kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
-    dentų ir moksleivių jaunimą. Apkaltinus per 100 asmenų, dvidešimt, tarp
-    jų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po
-    1812 m. Lietuvoje labai išpopulia-
-    rėjo masonų judėjimas. Masonų
-    ložėms priklausė diduma bent
-    kiek intelektualesnės publikos.
-    Garsiausioji ložė vadinosi „Uolusis
-    lietuvis“ („Gorliwy Litwin“). Uni-
-    versitete veikė nemažai studentų
-    organizacijų, besirūpinusių kul-
-    tūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei.
-  citata_rodoma: ''
-  statusas: verified
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 ## Citatos
 
 - id: c-170777
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Masonų organizacijose kampainis simboli­
-    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
-    čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
+    zavo sąžine, akacijos šakelė - nemirtingumą, skriestuvas - aukš­
+    čiausiąjį protą. Ant taurės išgraviruota data - „1817 m.“ R. Kli­
     mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
     organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
     mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
@@ -194,6 +115,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193047
+    - t-193048
 
 - id: c-175814
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

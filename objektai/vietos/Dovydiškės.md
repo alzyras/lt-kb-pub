@@ -41,22 +41,6 @@ Jis buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti Gard
   teiginys: "1380 m. gegužės 31 d. Dovydiškėse, turbūt netoli Gardino, slapta buvo surašytas dokumentas."
   pagrindžia:
     - c-33830
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Svarbesnė buvo jo nauja taikos sutartis su kry­
-    žiuočiais — per 8 mėnesius iš eilės jau trečias dokumentas. Jis
-    buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti
-    Gardino (1380.V.31).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

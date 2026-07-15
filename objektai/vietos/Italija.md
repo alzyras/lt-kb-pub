@@ -6,6 +6,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
@@ -17,14 +18,15 @@ datos:
   - '2026 m.'
 date_start: '1200'
 date_end: '2026'
+amziai:
+  - 'XII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
+  - kunigaikštis
   - vieta
-amziai:
-  - 'XII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -74,36 +76,29 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   pagrindžia:
     - c-166414
 
-<a id="claim-t-114299"></a>
+<a id="claim-t-114298"></a>
 - t-005
-  global_id: t-114299
-  teiginys: "Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse."
-  pagrindžia:
-    - c-105413
-
-<a id="claim-t-114299"></a>
-- t-006
-  global_id: t-114299
+  global_id: t-114298
   teiginys: "Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse."
   pagrindžia:
     - c-105413
 
 <a id="claim-t-183020"></a>
-- t-007
+- t-006
   global_id: t-183020
   teiginys: "Dar prieš Konrado Mazoviečio pasiūlymą Kryžiuočių ordinui jo centras buvo Italijoje."
   pagrindžia:
     - c-166413
 
 <a id="claim-t-183021"></a>
-- t-008
+- t-007
   global_id: t-183021
   teiginys: "Aukštojo mokslo siekę nedvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus."
   pagrindžia:
     - c-166414
 
 <a id="claim-t-184962"></a>
-- t-009
+- t-008
   global_id: t-184962
   teiginys: "Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais."
   pagrindžia:
@@ -117,18 +112,25 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - c-171589
 
 <a id="claim-t-192667"></a>
-- t-011
+- t-009
   global_id: t-192667
   teiginys: "Narbutas rašo, kad 1700–1200 m. pr. Kr. pelazgai įsigalėjo artimesnėje Hesperijoje, arba Italijoje, ir apie 1500 m. pr. Kr. davė pradžią dorėnams bei achajams."
   pagrindžia:
     - c-175437
 
 <a id="claim-t-193637"></a>
-- t-012
+- t-011
   global_id: t-193637
   teiginys: "1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius."
   pagrindžia:
     - c-176308
+
+<a id="claim-t-200778"></a>
+- t-012
+  global_id: t-200778
+  teiginys: "Vorobjovas perspėjo nemanyti, kad Italijoje susiformavęs barokas buvo tiesiog perkeltas į Vilnių kaip užsieninis pavyzdys."
+  pagrindžia:
+    - c-184123
 - susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191152|Teodorikas Didysis]]: Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą ir Italiją bei, jo pasakojimu, sudrebinusį Vakarų Europą.
 - susijęs iš [[objektai/zodynas/arijonas.md#claim-t-192553|arijonas]]: Narbutas rašo, kad Odoakras saugojo gyventojus, atgaivino meną ir mokslus, nors buvo arijonas ir rėmė katalikus.
 - susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191057|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas rašo, kad Teodorikas 479 m. nesileido Zenono kurstomas prieš Odoakrą, bet vėliau Italijos žygį jam paskatino pavydas ir krašto troškimas.
@@ -200,13 +202,11 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/asmenys/Henrikas I Paukštininkas.md#claim-t-87688|Henrikas I Paukštininkas]]: Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188546|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas rašo, kad 1392 metais Vladislovas Jogaila pasiuntė Jeronimą Prahiškį pas Vytautą skelbti Lietuvoje krikščionių tikėjimo.
 - susijęs iš [[objektai/asmenys/Jonas Marija.md#claim-t-87726|Jonas Marija]]: Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių.
-- susijęs iš [[objektai/asmenys/Julijonas Dausprungas.md#claim-t-186050|Julijonas Dausprungas]]: Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip vienas iš kilmingųjų italų vadų, kurio giminės herbas buvo Kentauras.
 - susijęs iš [[objektai/asmenys/Justinianas.md#claim-t-186121|Justinianas]]: Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus.
 - susijęs iš [[objektai/asmenys/Martynas Ostrovskis.md#claim-t-87773|Martynas Ostrovskis]]: Martynas Ostrovskis buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių ir papuošusių miestą savo kūriniais.
 - susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190942|Odoakras]]: Teodoro Narbuto pasakojime 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
 - susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190946|Odoakras]]: Teodoro Narbuto pasakojime Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, bet 493 m. kovo 5 d. nužudė Odoakrą Ravenoje.
 - susijęs iš [[objektai/asmenys/Onulfas.md#claim-t-191303|Onulfas]]: Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją.
-- susijęs iš [[objektai/asmenys/Papakoda.md#claim-t-186245|Papakoda]]: Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė valia, o jos turtas buvo iššvaistytas.
 - susijęs iš [[objektai/asmenys/Peteris Paulius Rubensas.md#claim-t-19189|Peteris Paulius Rubensas]]: Peteris Paulius Rubensas buvo Flandrijoje subrendęs bene žymiausias baroko dailininkas.
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90006|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90007|Petras Atsiskyrėlis]]: Pasak Dusburgiečio, Petrui Atsiskyrėliui sapne pasirodęs Jėzus Kristus įpareigojo jį kreiptis į popiežių ir Vakarų valdovus dėl Šventosios Žemės išvadavimo.
@@ -224,7 +224,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-55045|Mūro sienos ir miesto sienos]]: Otono Didžiojo laikais Italijos miestai, saugodamiesi vengrų ir saracėnų antpuolių, apsitvėrė mūro sienomis.
 - susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87057|Mūro sienos]]: Otono Didžiojo laikais daugelis Italijos miestų apsitvėrė mūro sienomis, saugodamiesi vengrų ir saracėnų antpuolių.
 - susijęs iš [[objektai/grupes/Antantė.md#claim-t-19635|Antantė]]: 1922 m. gruodžio 20 d. Prancūzija, Anglija, Italija ir Japonija kaip Antantės valstybės pripažino Lietuvą de jure.
-- susijęs iš [[objektai/grupes/Arijonai.md#claim-t-185456|Arijonai]]: Agilulfui viešpataujant, 591 m. daugelis buvusių arijonų kartu su stabmeldžiais perėjo į krikščionybę.
 - susijęs iš [[objektai/grupes/Galai druidai.md#claim-t-189514|Galai druidai]]: Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas panašumą bendra senovės religijų ir tautų kilme.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
@@ -232,7 +231,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-184477|Herulai]]: Kojelavičius spėjo, kad alanai arba herulai, ilgėdamiesi taikos, galėjo pirmieji pasitraukti iš tėvynės į karo neniokotas žemes.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-188192|Herulai]]: Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.
 - susijęs iš [[objektai/grupes/Hohenštaufenų giminė.md#claim-t-86795|Hohenštaufenų giminė]]: Hohenštaufenų giminės žlugimo sukelti politiniai pokyčiai Švabijoje ir Frankonijoje suteikė miestams persvarą.
-- susijęs iš [[objektai/grupes/Italų ateiviai.md#claim-t-185426|Italų ateiviai]]: Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki šimtai kilmingųjų.
+- susijęs iš [[objektai/grupes/Italų ateiviai.md#claim-t-185426|Italų ateiviai]]: Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu iš Italijos po hunų nusiaubimų 924 metais.
 - susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-188205|Krikščionys]]: Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169684|Lietuvos Didžioji Kunigaikštija]]: XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus.
 - susijęs iš [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė.md#claim-t-183167|Lietuvos vyrų krepšinio rinktinė]]: JAV lietuvių trenerių ir kelių žaidėjų padedama Lietuvos vyrų krepšinio rinktinė 1937 m. Rygoje tapo Europos čempione.
@@ -243,7 +242,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/ivykiai/Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.).md#claim-t-77895|Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)]]: 1934 m. gen. Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves buvo pavojingiausias voldemarininkų bandymas puču grąžinti A. Voldemarą į valdžią.
 - susijęs iš [[objektai/ivykiai/Gibelinų ir gvelfų partijų atsiradimas (1228 m.).md#claim-t-62268|Gibelinų ir gvelfų partijų atsiradimas (1228 m.)]]: 1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gibelinas rėmė imperatorių, o Gveltas – bažnyčią.
 - susijęs iš [[objektai/ivykiai/Herulų surengtas Juvavos sudeginimas Norike 477 m.md#claim-t-191062|Herulų surengtas Juvavos sudeginimas Norike 477 m]]: 477 m. herulai, Narbuto pasakojimu, Norike sudegino romėnų koloniją Juvavą prie Saurus upės, dabartinio Zalcburgo vietoje.
-- susijęs iš [[objektai/ivykiai/Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime.md#claim-t-185570|Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime]]: Kojelavičius patikimiausia laikė prielaidą, kad italai į šias žemes atvyko po devintojo amžiaus nuo Kristaus gimimo.
+- susijęs iš [[objektai/ivykiai/Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime.md#claim-t-185570|Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime]]: Kojelavičius svarstė, kad žmonės galėjo palikti Italiją apie 908 m., bėgdami nuo karų ir ieškodami saugesnių žemių.
 - susijęs iš [[objektai/ivykiai/Italų įsitvirtinimas Lietuvoje ir lietuvių pasidavimas ateivių valdžiai A. Kojelavičiaus pasakojime.md#claim-t-185704|Italų įsitvirtinimas Lietuvoje ir lietuvių pasidavimas ateivių valdžiai A. Kojelavičiaus pasakojime]]: Kojelavičiaus pasakojime ateiviai ir vietiniai gyventojai susivienijo, panoro bendros valstybės, o lietuviai sutiko pasiduoti ateivių valdžiai.
 - susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio pasiuntimas į Lietuvą 1392 m.md#claim-t-189624|Jeronimo Prahiškio pasiuntimas į Lietuvą 1392 m]]: 1392 m. Vladislovas Jogaila nusiuntė Jeronimą Prahiškį į Lietuvą pas Vytautą su laišku skelbti krikščionių tikėjimo.
 - susijęs iš [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.).md#claim-t-75207|Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]: 1939 m. Kaune Lietuva antrą kartą laimėjo Europos krepšinio čempionatą.
@@ -257,13 +256,11 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191056|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses.
 - susijęs iš [[objektai/paprociai/Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje.md#claim-t-185889|Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje]]: Kojelavičiaus pasakojime Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.
 - susijęs iš [[objektai/paprociai/Sporto pergalių tautinis pagerbimas ir krepšinio kaip tautinės pergalės simbolis.md#claim-t-77959|Sporto pergalių tautinis pagerbimas ir krepšinio kaip tautinės pergalės simbolis]]: 1937 m. Lietuvos krepšininkams tapus Europos čempionais Rygoje, jų traukinį Lietuvos stotelėse sutiko minios, o krepšinis tapo tautinės pergalės simboliu.
-- susijęs iš [[objektai/paprociai/Valdovo rinkimas bendru balsavimu ir bendruomenės valia.md#claim-t-185902|Valdovo rinkimas bendru balsavimu ir bendruomenės valia]]: Mirus lietuvių valdovui, bendru balsavimu buvo išrinktas Palemonas.
 - susijęs iš [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj.md#claim-t-20844|„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]: Posakyje Lietuva vadinama kraštu, kuriame labai pavojinga gyventi mažai tautai.
 - susijęs iš [[objektai/posakiai/„civilizaciniam šuoliui“.md#claim-t-26351|„civilizaciniam šuoliui“]]: Vytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, vadinamam „civilizaciniu šuoliu“.
 - susijęs iš 1547 m. Žygimanto Augusto privilegija Martynui Paleckiui dėl stiklo liejyklos: Už karaliaus dovanotą žemę Martynas Paleckis turėjo kasmet pristatyti į Vilniaus karališkuosius rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių.
 - susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
 - susijęs iš Peutingerio žemėlapis: Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų gentį vadina venedais.
-- susijęs iš Vladislovo ir popiežiaus laiškas Ivanui dėl bendro karo prieš turkus: Vladislovas pasiuntė Zigmantą Santajį pas Ivaną su savo ir popiežiaus laišku dėl bendro krikščionių karo prieš turkus.
 - susijęs iš Florencija: Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams.
 - susijęs iš Ispanija: Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.
 - susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
@@ -282,7 +279,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš Vidurio Europa: Katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos.
 - susijęs iš Vilnia ir Vilija: Pasakojime Vilnios ir Vilijos vardai kildinami iš kunigaikščio Viliaus vardo.
 - susijęs iš Vilniaus katedra: Vilniaus katedroje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.
-- susijęs iš Vilnius: Italų meistrai šešerius metus dirbo Vilniuje ir Šv. Stanislovo bažnyčioje pastatė marmurinius Elžbietos ir Barboros antkapius.
 - susijęs iš Šiaurės Europa: XVII–XVIII a. Šiaurės Europa dėl protestantizmo pritapo prie dinamiškosios Vakarų Europos dalies.
 - susijęs iš Šiaurės Europa: Protestantizmas lėmė, kad Šiaurės Europa per XVII–XVIII a. pritapo prie dinamiškosios Vakarų Europos dalies ir pralenkė katalikiškąją Vidurio Europą.
 - susijęs iš Šv. Stanislovo bažnyčia: Šv. Stanislovo bažnyčioje buvo pastatyti marmuriniai Elžbietos ir Barboros antkapiai, vėliau pražuvę Katedros griuvėsiuose.
@@ -311,143 +307,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/asmenys/Vilius.md#claim-t-87933|Vilius]]: Pasak Dlugošo, Vilnius vardą gavo nuo vado Viliaus, kuris lietuvių protėvius atvedęs iš Italijos.
 - susijęs iš [[objektai/asmenys/Otonas Didysis.md#claim-t-87814|Otonas Didysis]]: Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Esą, istorijoje žinomas romėnų karvedys Publijas Li-
-    bonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą
-    ir čia sukūręs valstybę. Jo vardas čia buvęs iškreiptas į Pale-
-    moną. Tas atsitikę I-II amžiuje po Kristaus. Kadangi pirmieji
-    Lietuvos kunigaikščiai yra žinomi tik iš XIII amž., tai tos teori-
-    jos autoriai išgalvojo nemaža kunigaikščių vardų, kurie už-
-    pildė tą didelę spragą (II—XII amž.), ir visus Lietuvos
-    kunigaikščius kildino iš to Palemono.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
-    kiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-
-    panijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-
-    cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
-    dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
-    teris Paulius Rubensas).
-    Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
-    ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
-    pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
-    Vidurio Europą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-006
-
-- c-003
-  santrauka: 'Iš Italijos kilęs de Senis Vilnių papuošė nuostabaus darbo meno kūriniais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    — • —
-    275
-
-    ## Puslapis 292
-
-    VILNIAUS MIESTO ISTORIJA I I  TOMAS
-    de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo
-    meno kūriniais. Italai, čia nuolat dirbdami šešerius metus,
-    iš brangaus marmuro pastatė du puikius antkapius kara­
-    liaus žmonoms - Elžbietai ir Barborai Šv. Stanislovo bažny­
-    čioje, deja, dėl kapitulos priekaištingo aplaidumo vėliau,
-    XVIII amžiuje, tie antkapiai visiems laikams pražuvo seno­
-    sios Katedros griuvėsiuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Dar prieš Konrado Mazoviečio pasiūlymą Kryžiuočių ordinui jo centras buvo Italijoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Krikščionių būklė Mažojoj Azijoj buvo labai
-    netikra, todėl kryžiuočių vadovybė stengėsi įsistiprinti Europoj. Dar
-    prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras
-    jau buvo Italijoj. Kita ordino narių dalis jau kūrė Vengrijoj savo
-    atskirą valstybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-005
-  santrauka: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šiaip, kas norėdavo gauti aukštesniojo ir
-
-
-    aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-
-    ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
-    visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
-    Italiją ir Prancūziją. Kadangi į tolimuosius kraštus tegalėjo
-    vykti mokytis tik turtingųjų bajorų vaikai, todėl mokytų žmo-
-    nių buvo nedaug.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-008
-
-- c-006
-  santrauka: 'Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kadangi švedų valdovas atsisakė siūlomos sąjungos,
-    būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
-    ros, Augustas laiškais stengėsi sutaikyti švedus bei
-    maskvėnus.
-    Po ilgų ir karštų ginčų tais pačiais metais leista
-    karalienei Bonai, negailėju-
-    K a ra lic n ė
-    B ona
-    iš-
-    šiai dovanų Lenkijos didi-
-    v y k s ta  į Ita liją
-    kams, išvykti į Italiją su vi­
-    somis brangenybėmis ir vi­
-    sais valdovės turtais. Tiesa, vėliau tinkama forma
-    surašytame prieš pat mirtį testamente ji sūnų Augustą
-    paskyrė viso savo turto paveldėtoju, tačiau dėl jos tar­
-    no Papakodos suktybių paskutinioji velionės valia
-    buvo neįvykdyta, o visas turtas vėjais paleistas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
 - c-007
   santrauka: 'Narbutas teigė, kad gotai lietuviams būtų primetę ne iš Italijos miestų išguitą romėnų stabmeldystę, o krikščionybę arba šiaurės asų religiją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -475,41 +334,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   pagrindžia:
     - t-010
 
-- c-008
-  santrauka: 'Narbutas rašo, kad 1700–1200 m. pr. Kr. pelazgai įsigalėjo artimesnėje Hesperijoje, arba Italijoje, ir apie 1500 m. pr. Kr. davė pradžią dorėnams bei achajams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šios tautos plėtėsi nuo
-    1700 iki 1200 metų prieš Kristaus gimimą. Per tuos pen­
-    kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
-    arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
-    davė pradžią dorėnams ir achajams. Vėliau iš jų kilo
-    1 i d a i, sikelai, makedonai, tesalai ir daug kitų tautų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-009
-  santrauka: '1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sportininkus parvežantį traukinį kie-
-    kvienoje Lietuvos stotelėje sutiko tūkstantinės minios su gėlėmis, tautos
-    himnu, sveikinimais ir džiaugsmo ašaromis. 1939 m. Kaune Lietuva antrą
-    kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė
-    Italijoje iškovojo Europos čempionato sidabro medalius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
 ## Citatos
 
 - id: c-46502
@@ -531,8 +355,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114294
     - t-114293
+    - t-114294
 
 - id: c-105413
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -556,7 +380,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114298
-    - t-114299
 
 - id: c-105417
   autorius: "Michał Baliński"
@@ -625,8 +448,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - id: c-168323
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 696"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 696."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kadangi švedų valdovas atsisakė siūlomos sąjungos,
     būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
@@ -638,7 +460,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     B ona
     iš-
     šiai dovanų Lenkijos didi-
-    v y k s ta  į Ita liją
+    v y k s ta į Ita liją
     kams, išvykti į Italiją su vi­
     somis brangenybėmis ir vi­
     sais valdovės turtais. Tiesa, vėliau tinkama forma
@@ -656,24 +478,26 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - id: c-171589
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 84"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Bet jos principai visiškai
-    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
-    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
-    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
-    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
-    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
-    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
-    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
-    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
-    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
-    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
-    religijos, kurią gana veiksmingai formavo graikų mitologija.
-    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
-    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
-    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
+    Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek
+    buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­
+    dėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne­
+    praleisdamas nieko, kas galėjo būti naudinga. Be to, mano pa­
+    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
+    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
+    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
+    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
+    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
+    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
+    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
+    logija yra raktas seniausiajai tautų istorijai pažinti.
+    Išminties vertintojas ir žmonių giminės bičiulis šiame vi­
+    suotinės mitologijos papildyme ras sau naują naudą: pamatys
+    šiaip dar nepažintą žmogaus proto silpnybės pusę, išsamiau
+    pažins įdomią supainiotą praeitį ir civilizacijos progreso ke­
+    lius.
+  citata_rodoma: "Bet jos principai visiškai\nnutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­\nnėmis; negalima net manyti, kad senovės graikų tikyba būtų\npatekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka\nmūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O\nkai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo\nkrikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­\nvenusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai\nprimetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos\nmiestų bei provincijų, o krikščionybę arba šiaurės asų religiją,\njeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos\nreligijos, kurią gana veiksmingai formavo graikų mitologija.\nTiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes\nvisos senovės religijos, kaip ir pačios tautos, yra labai viena kitai\nartimos, kilusios iš vienos šakos -  iš vieno lopšio*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -684,8 +508,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - id: c-175437
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 40"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šios tautos plėtėsi nuo
     1700 iki 1200 metų prieš Kristaus gimimą. Per tuos pen­
@@ -716,6 +539,25 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193637
+
+- id: c-184123
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 10"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 10."
+  citata_originali: |
+    Tačiau į tokias nuvalkiotas charakteristikas reikia žiūrėti
+    labai atsargiai. Pav., nereikia manyti, kad baroko stilius, — susiformavęs
+    Italijoje XVI—XVII amžiuje, paskui pavirtęs savotiškai architektūrine
+    mada ir universaliniu pavyzdžiu visos Europos architektams, — buvo at­
+    vežtas į Vilnių ir kad čia pagal šitą užsieninį pavyzdį per du šimtmečiu
+    buvo statomi visi pastatai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200778
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Odoakras]]

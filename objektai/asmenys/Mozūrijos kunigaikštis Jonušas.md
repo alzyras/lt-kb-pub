@@ -44,22 +44,6 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   teiginys: "Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą."
   pagrindžia:
     - c-38104
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kęstučio duktė Miklausa 1375 metais ištekėjo už Tverio
-    kunigaikščio Jono ir apsikrikštijo Marijos vardu. Danuta 1380
-    m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama
-    taip pat Marijos vardu. 1392 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

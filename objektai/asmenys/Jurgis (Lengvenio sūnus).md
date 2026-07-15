@@ -36,22 +36,6 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   teiginys: "Lengvenio sūnus Jurgis vadovavo Smolensko pulkams, kurie Žalgirio mūšyje laikėsi tarp lietuvių ir lenkų kariuomenės dalių."
   pagrindžia:
     - c-28927
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Centre tarp lietuvių ir lenkų (kariuomenės
-    kairiojo sparno) pasilikusieji Smolensko pulkai, kuriems vadovavo
-    Lengvenio sūnus Jurgis, anot Dlugošo, «laimėjo didelę... garbę
-    karių ir herojų»^27.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -52,43 +52,18 @@ Nenurodyta
   teiginys: "Prūsai stipria kariuomene apsiautė Štarkenbergo pilį, ją užėmė, išžudė brolius ir gyventojus, o pilį pavertė pelenais."
   pagrindžia:
     - c-63243
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prūsai stipria kariuomene apsiautė Štarkenbergo pilį, ją užėmė, išžudė brolius ir gyventojus, o pilį pavertė pelenais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį
-
-       Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.
-    Brolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise
-    Kristus, penkiskart sužeistas,  ir krito kovoje, o šito  jis ne kartą buvo su ašaromis
-    viešpaties prašęs. Galop prūsai, iš visų pusių apsiautę pilį, pradėjo smarkiai ją pulti.
-    Broliai priešindamiesi daugybę jų nukovė arba mirtinai sužeidė strėlėmis. Tada perpykę
-    prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;
-    vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė
-    brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63243
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 140"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį
-
-       Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.
+    Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.
     Brolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise
-    Kristus, penkiskart sužeistas,  ir krito kovoje, o šito  jis ne kartą buvo su ašaromis
+    Kristus, penkiskart sužeistas, ir krito kovoje, o šito jis ne kartą buvo su ašaromis
     viešpaties prašęs. Galop prūsai, iš visų pusių apsiautę pilį, pradėjo smarkiai ją pulti.
     Broliai priešindamiesi daugybę jų nukovė arba mirtinai sužeidė strėlėmis. Tada perpykę
     prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;

@@ -35,42 +35,6 @@ Po slapto jų pokal­ bio veikiai buvo sukviesta vieša kardinolų konsistorija,
   teiginys: "Vieša kardinolų konsistorija buvo sukviesta svarstyti Rygos arkivyskupo ginčą su Livonijos ordinu."
   pagrindžia:
     - c-82613
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vieša kardinolų konsistorija buvo sukviesta svarstyti Rygos arkivyskupo ginčą su Livonijos ordinu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Po slapto jų pokal­
-    bio veikiai buvo sukviesta vieša kardinolų konsistorija,
-    turėjusi svarstyti Rygos arkivyskupo ginčą su Livonijos ordi­
-    nu. Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­
-    čiais trumpai užbaigė taip: „Bažnyčios tarnams trukdo skleisti
-    tarp pagonių Evangelijos šviesą ir atsako jiems reikalingo sau­
-    gumo keliaujant per anų žemes, kad naujakrikščius apdeda
-    nepakeliama prievolių našta, kad draudžia bažnyčių staty­
-    bą, plėšia ir griauna Dievo namus, skriaudžia ir žudo dvasi­
-    ninkus, juos laiko įkalinę, baugina grėsmėmis ir kančiomis,
-    kad žemina Apaštališkojo Sosto garbę ir norintiems vykti pas
-    popiežių kelionę trukdo, kad savo paties Ordino brolius, prie­
-    šo sužeistus, pribaigia ir jų kūnus meta į ugnį, kad pasisavina
-    Rygos arkivyskupo, jo Bažnyčios, kapitulos ir kitų vyskupų
-    teises, plėšia Rygos miesto gyventojų turtus, pažeidžia jų
-    privilegijas, stengiasi įsikurti Dvinos pakrantėse ir Rygos
-    uoste, tuo trukdydami plėsti prekybą ir ryšius2." To to
-    y
-    Iš tiesų niekur kronikose neaptinka­
-    ma tiksliai nurodyto didžiojo ma­
-    gistro kelionės į Avinjoną laiko; tik
-    žinome iš įvairių dokumentų: Gu­
-    deli.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

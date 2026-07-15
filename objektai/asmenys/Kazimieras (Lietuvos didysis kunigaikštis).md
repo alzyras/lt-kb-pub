@@ -44,22 +44,6 @@ Lietuvos krikščionėjimo simboliu tapo šv.
   teiginys: "Lietuvos didysis kunigaikštis Kazimieras buvo Kazimiero, gimusio 1458 m. ir mirusio 1484 m., tėvas."
   pagrindžia:
     - c-21811
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    jau apėmė visą bajorijos sluoksnį, o valstietiją pasiekė tik XVII a.
-    Lietuvos krikščionėjimo simboliu tapo šv.  Kazimiero (1458–1484),
-    Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos
-    klostymasis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -48,55 +48,6 @@ media_all_json: |-
   teiginys: "Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą prie Vilniaus vaivados Mikalojaus Radvilos malūno Užupyje."
   pagrindžia:
     - c-82089
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą prie Vilniaus vaivados Mikalojaus Radvilos malūno Užupyje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    PATS ALEKSANDRAS,
-    DIEVO MALONE DIDYSIS LIETUVOS,
-    RUSIOS, ŽEMAIČIŲ IR KITŲ
-    KUNIGAIKŠTIS
-    Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­
-    vilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi-
-    čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
-    čio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo
-    vaikams visiems laikams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1493 m. Aleksandro Jogailaičio dovanojimo akte minima pieva ties Vaivados malūnu Užupyje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Teodoras Sku­
-    minas, LDK iždininkas.
-    Šiame laiške po parašais yra penki antspaudai.
-    356
-
-    ## Puslapis 373
-
-    IV KNYGA
-    ALEKSANDRO JOGAILAIČIO DOVANOJIMAS
-    VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI
-    PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE
-    1493 METAIS
-    (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
-    Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
-    4to, puikiausiai išsilaikęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

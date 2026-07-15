@@ -40,25 +40,6 @@ Jablonskis buvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » 
   teiginys: "Jablonskis buvo vienas iš 1961 m. išleistų „Lietuvos archeologijos bruožų“ redaktorių."
   pagrindžia:
     - c-33637
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Suredagavo jis taip pat
-    «Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietu­
-    viams valstiečiams » (1960) ir ten parašė pratarmę. Jablonskis
-    buvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » (1961).
-    Jis buvo ypač akmens amžiaus (mezolito) specialistas, ir Lietuvoje
-    buvo surinkęs gausių radinių, duodamas, be kitko, progos vyriausiai
-    dukrai Rimutei Rimantienei šitoje srityje tapti žymia proistorike.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,52 +35,7 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   teiginys: "Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą."
   pagrindžia:
     - c-38070
-
-<a id="claim-t-184283"></a>
-- t-002
-  global_id: t-184283
-  teiginys: "Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą."
-  pagrindžia:
     - c-167660
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
-    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
-    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
-    prašyti pagalbos prieš Vytautą. Vak. Europoje buvo skelbia­
-    ma, kad Vytautas susideda su stačiatikiais, sukelia slavų tau­
-    tas, Nemuno ir Dubysos krantuose stato prieš Ordiną nukreip­
-    tas pilis^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl Makras,
-    įteikdamas jį imperatoriui Zigmantui, pažymėjo, kad Ordinas
-    nori su Lietuva karo.
-
-    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
-    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
-    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
-    prašyti pagalbos prieš Vytautą. Vak.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -123,5 +78,3 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184283

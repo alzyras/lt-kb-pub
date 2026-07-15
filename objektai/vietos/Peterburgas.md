@@ -19,6 +19,9 @@ datos:
   - '1917 m.'
 date_start: '1792'
 date_end: '1917'
+amziai:
+  - 'XVIII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,9 +29,6 @@ tags:
   - valstybė
   - vieta
   - miestelis
-amziai:
-  - 'XVIII'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -84,6 +84,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginys: "Vilniaus Romos katalikų dvasinė akademija buvo perkelta į Sankt Peterburgą, o Vilniaus medicinos-chirurgijos akademija uždaryta."
   pagrindžia:
     - c-24376
+    - c-74582
 
 <a id="claim-t-77138"></a>
 - t-006
@@ -92,43 +93,36 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   pagrindžia:
     - c-74581
 
-<a id="claim-t-77139"></a>
-- t-007
-  global_id: t-77139
-  teiginys: "Vilniaus Romos katalikų dvasinė akademija buvo perkelta į Sankt Peterburgą, o Vilniaus medicinos-chirurgijos akademija uždaryta."
-  pagrindžia:
-    - c-74582
-
 <a id="claim-t-77141"></a>
-- t-008
+- t-007
   global_id: t-77141
   teiginys: "Peterburge telkėsi reformų opozicija, nes Jekaterina II ten susikvietė aršiausius reformų priešininkus."
   pagrindžia:
     - c-24373
 
 <a id="claim-t-77142"></a>
-- t-009
+- t-008
   global_id: t-77142
   teiginys: "XIX a. septintąjį ir aštuntąjį dešimtmečiais Lietuvą kirto geležinkelis Peterburgas-Varšuva."
   pagrindžia:
     - c-74580
 
 <a id="claim-t-77143"></a>
-- t-010
+- t-009
   global_id: t-77143
   teiginys: "Peterburge nebuvo rimtai svarstoma rezoliucija dėl politinės autonomijos suteikimo Lietuvai."
   pagrindžia:
     - c-24379
 
 <a id="claim-t-188801"></a>
-- t-011
+- t-010
   global_id: t-188801
   teiginys: "Cituojamas jaunuolis kurį laiką dėstytojavo Peterburgo kadetų korpuse."
   pagrindžia:
     - c-171690
 
 <a id="claim-t-192719"></a>
-- t-012
+- t-011
   global_id: t-192719
   teiginys: "Peterburge 1839 m. istorikas gavo Jo Didenybės Imperatoriaus dovaną, briliantinį žiedą, po „Lietuvių mitologijos“ įvertinimo."
   pagrindžia:
@@ -190,201 +184,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - susijęs iš Čikaga: 1917 m. JAV lietuvių imigrantus, gyvenusius daugiausia Čikagoje, Niujorke ir Pensilvanijoje, suaktyvino JAV įstojimas į karą.
 - susijęs iš Niujorkas: 1917 m. JAV įstojimas į karą suaktyvino daugiau kaip 300 000 lietuvių imigrantų, gyvenusių daugiausia Čikagoje, Niujorke ir Pensilvanijoje.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos Didžiosios Kunigaikštijos
-    sunaikinimas
-    Gegužės trečiosios konstitucijos reformoms įnirtingai
-    priešinosi aristokratija ir visa konservatyvioji visuomenės dalis. Tačiau
-    opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
-    reformų priešininkus. Peterburge subrendo ir buvo surašytas Targovicos
-    (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-
-    jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
-    deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
-    Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lapkričio 5 dieną pasidavė Varšuva, kurią
-    gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
-    lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
-    T. Korsakas.
-    Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
-    burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
-    ir Lietuvos valstybės padalijimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: '1797 m. sausio 26 d. Peterburgo konvencija patvirtino trečiąjį Lenkijos ir Lietuvos valstybės padalijimą, panaikino valstybingumo likučius ir nubrėžė sienas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Užnemunė atiteko Rusijai). Lenkijos ir LDK dalybose dalyvavo ir
-    Austrija: pietvakarinis LDK kampas buvo prijungtas prie Austrijos, kuris
-    1815 m., kaip ir Užnemunė, atiteko Rusijai.
-    1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
-    burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
-    valstybingumo likučius ir nubrėžė tikslias sienas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Vilniaus Romos katalikų dvasinė akademija buvo perkelta į Sankt Peterburgą, o Vilniaus medicinos-chirurgijos akademija uždaryta.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo ini-
-    ciatorių, „Lietuvos laisvamanybės lizdą“. Tiesa, tuomet dviejų šio univer-
-    siteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų
-    ministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-
-    gijos akademija ir Vilniaus Romos katalikų dvasinė akademija. Po dešimt
-    metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
-    burgą, o Medicinos-chirurgijos akademija uždaryta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Absoliučią tautos daugumą sudarė valstiečiai, apie 26 000 lietuvių
-    dirbo pramonės įmonėse ir vertėsi amatais, inteligentijai santykinai
-    priklausė apie 5 000 lietuvių: kunigai, mokytojai, gydytojai, tarnautojai,
-    bajorai – štai lietuvių šviesuomenės dalis, kuri tiesė kelią lietuvių virti-
-    mui modernia tauta. Ekonominio augimo raidą skatino XIX a. viduryje
-    pradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių
-    navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
-    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
-    (Kenigsbergą), linija Liepoja–Romnai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žiemą Lietuvos kaimas daug kur buvo perėjęs į vietos žmonių rankas.
-    Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-
-    zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
-    Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-
-    tonomijos Lietuvai suteikimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-007
-  santrauka: 'XIX a. septintąjį ir aštuntąjį dešimtmečiais Lietuvą kirto geležinkelis Peterburgas-Varšuva.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ekonominio augimo raidą skatino XIX a. viduryje
-    pradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių
-    navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
-    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
-    (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
-    tiesiamos pirmosios telefono linijos, XX a. pradžioje pasirodo ir pirmieji
-    automobiliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-008
-  santrauka: '1906 m. Peterburge rimtai nesvarstyta rezoliucija dėl politinės autonomijos suteikimo Lietuvai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-
-    zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
-    Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-
-    tonomijos Lietuvai suteikimo.
-    Lietuva po 1905-ųjų – kultūrinė kova
-    Nors po revoliucijos Rusijoje atsirado atstovaujamosios, tie-
-    sa, ne demokratiškai renkamos, valdžios institucija – dvejų rūmų – Vals-
-    tybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi
-    įstatymų leidyba, visa vykdomoji valdžia ir konstitucinių įstatymų leidimas
-    liko caro rankose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-009
-  santrauka: 'Vilniaus Romos katalikų dvasinė akademija buvo perkelta į Sankt Peterburgą, o Vilniaus medicinos-chirurgijos akademija uždaryta.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tiesa, tuomet dviejų šio univer-
-    siteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų
-    ministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-
-    gijos akademija ir Vilniaus Romos katalikų dvasinė akademija. Po dešimt
-    metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
-    burgą, o Medicinos-chirurgijos akademija uždaryta. 1840 m. panaikintas
-    Lietuvos Statutas, o teismų sistema surusinta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-010
-  santrauka: 'Pirmojo pasaulinio karo metais Peterburge ir Voroneže susiformavo lietuvių centrai su laikraščių redakcijomis ir gimnazijomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ateities klausimų svarstymas apėmė svarbiausius lietuvių telkinius.
-    Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-
-    sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-
-    formavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos,
-    gimnazijos, jaunimas ruoštas sugrįžimui į Lietuvą. Rusijos revoliucija,
-    caro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli-
-    tiškai jie skilo: kai 1917 m. kovą Petrograde susirinko Lietuvių seimas,
-    revoliucijos euforijos apimtai kairei pasisakius už Lietuvos ateitį Rusijos
-    laisvų tautų federacijoje, aiškiai nepriklausomybės siekianti koservaty-
-    vioji dauguma apleido seimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-011
   santrauka: 'Cituojamas jaunuolis kurį laiką dėstytojavo Peterburgo kadetų korpuse.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -602,12 +401,10 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     Lietuvos Statutas, o teismų sistema surusinta.
   citata_rodoma: "Po dešimt \nmetų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-\nburgą, o Medicinos-chirurgijos akademija uždaryta. 1840 m."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-77139
-
 - id: c-74583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -634,13 +431,18 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-171690
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jaunuolis nesibaidė vyriau­
-    sybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų
-    korpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
-    vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
+    Išsamesnėms krašto praeities studijoms istoriką galė­
+    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
+    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
+    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
+    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
+    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus.
+  citata_rodoma: "Jaunuolis nesibaidė vyriau­\nsybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų\nkorpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­\nvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -651,17 +453,18 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-175489
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 453"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 453."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vadinasi, su­
-    manymas siekia daug ankstesnius laikus nei „Lietuvių mi­
-    tologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­
-    bės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­
-    vo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-
-    išleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­
-    nės T. Narbuto korespondencijos, istorikas daugelį metų
-    ieškojo galimybės išspausdinti šio tomo vertimą.
+    Vargu ar būtų galima vienareikšmiškai pasakyti, kas
+    paskatino T. Narbutą išversti į rusų kalbą „Lietuvių mi­
+    tologiją“. Beje, buvo išverstas ne tik pirmas tomas —
+    mūsų dienas pasiekė ir antro LTI tomo rusiškasis va­
+    riantas, kuris datuojamas 1835 metų gegužės mėnesiu;
+    vadinasi, jis buvo parengtas dar nepasirodžius lenkiška­
+    jam šio tomo leidimui4. Si aplinkybė leidžia daryti prie­
+    laidą, jog abu tomai į rusų kalbą buvo verčiami tiesiog
+    iš rankraščio, kartu su lenkiškuoju variantu.
+  citata_rodoma: "Vadinasi, su­\nmanymas siekia daug ankstesnius laikus nei „Lietuvių mi­\ntologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­\nbės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­\nvo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-\nišleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­\nnės T. Narbuto korespondencijos, istorikas daugelį metų\nieškojo galimybės išspausdinti šio tomo vertimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

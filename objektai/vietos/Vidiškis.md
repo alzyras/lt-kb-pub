@@ -40,28 +40,6 @@ Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraiči
 - susijęs iš Dubingiai: Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.
 - susijęs iš Giedraičiai: Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.
 - susijęs iš Želva: Spalio 26–27 d. lenkų pajėgos, apėjusios kairįjį lietuvių sparną, užėmė Želvą, Giedraičius, Dubingius ir Vidiškį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvių pajėgos negalėjo
-    atsilaikyti prieš gausių lenkų pajėgų puo-
-    lima. Spalio 26-27 d. lenkai apėjo kai-
-
-    rįjį lietuvių sparną ir užėmė Giedraičius,
-    Želvą, Dubingius, Vidiškį. Susidarė pavo-
-    jinga padėtis, lenkams pasiekus savo puo-
-    limo tikslą, Lietuvai būtų iškilęs pavojus
-    prarasti nepriklausomybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-45403

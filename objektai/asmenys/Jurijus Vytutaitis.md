@@ -43,34 +43,13 @@ Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus 
   teiginys: "Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus valdė Pskovo žemę."
   pagrindžia:
     - c-173051
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus valdė Pskovo žemę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iškiliojoje pusėje
-    ženklas, panašus į vadinamojo biarmiškojo raidyno raidę A
-    arbatų, prie kurios yra dobilo lapelis. Tas žodis gali turėti ryšį
-    su Hirijos (Hirrya), arba Jurijos (Juhrya), šalimi, kuri buvo prie
-    Jūros upės, jai priklausė ir Jurbarkas. Buvo ir lietuvių valdo­
-    vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
-    taitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173051
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iškiliojoje pusėje
     ženklas, panašus į vadinamojo biarmiškojo raidyno raidę A

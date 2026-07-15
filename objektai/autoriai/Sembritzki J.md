@@ -43,35 +43,17 @@ Dusburgietis teigia, kad sembritzki J.
   teiginys: "J. Sembritzkis 1926 m. Memelyje išleido knygą apie karališkojo Prūsijos jūrų ir prekybos miesto Memelio istoriją."
   pagrindžia:
     - c-63387
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Sembritzkis 1926 m. Memelyje išleido knygą apie karališkojo Prūsijos jūrų ir prekybos miesto Memelio istoriją.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sembritzki J. Geschichte der Königlich Preussischen See- und Handelsstadt Memel.—
-    Memel, 1926.
-      Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
-    Porębska przy współpracy M Grzegorza; Pod.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63387
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sembritzki J. Geschichte der Königlich Preussischen See- und Handelsstadt Memel.—
     Memel, 1926.
-      Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
+    Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
     Porębska przy współpracy M Grzegorza; Pod.
   citata_rodoma: "Sembritzki J. Geschichte der Königlich Preussischen See- und Handelsstadt Memel.—\nMemel, 1926.\n  Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.\nPorębska przy współpracy M Grzegorza; Pod."
   statusas: verified

@@ -43,22 +43,6 @@ Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.
   teiginys: "J. Jakubowskio „Opis Księstwa Trockiego“ cituojamas kaip 1907 m. „Kwartalnink hist.“ publikacija."
   pagrindžia:
     - c-38425
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Red.
-    (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
-    Oblastnoe delenie L.R.Q. Moskva 1892, p. 321). 3
-    ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

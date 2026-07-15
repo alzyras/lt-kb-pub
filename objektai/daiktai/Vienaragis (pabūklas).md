@@ -65,28 +65,6 @@ Nenurodyta
     - c-42562
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54986|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) palikta spręsti dėl Šv. Onos bažnyčios užbaigimo ir laiškų sudeginimo.
 - susijęs iš [[objektai/paprociai/Svetimų laiškų neskaitymas ir sudeginimas pagal testatoriaus valią.md#claim-t-87303|Svetimų laiškų neskaitymas ir sudeginimas pagal testatoriaus valią]]: Testatorius prašė karalaitės Onos jo skryniose rastus laiškus sudeginti neskaičius ir neleisti jų skaityti kitiems.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Visai rusų gynybai
-    turėjo vadovauti pagyvenęs generolas
-
-    „VIENARAGIS“
-
-    1831 m. sukilimo periodu Rusijos artilerija naudojo „jedinorog“, („vienaragio“) tipo pa-
-    būklus. Šis pabūklo tipas buvo sukonstruotas xvi a. septintajame dešimtmetyje. Tais
-    laikais Rusijos artilerijai vadovavo grafas Šuvalovas, kurio herbe buvo pavaizduotas „vie-
-    naragis“ jo garbei ir buvo pavadintas naujasis pabūklas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-42562

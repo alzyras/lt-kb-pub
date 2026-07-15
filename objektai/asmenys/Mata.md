@@ -54,31 +54,6 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 - susijęs iš [[objektai/posakiai/krikščioniškieji plėšikautojai.md#claim-t-59119|krikščioniškieji plėšikautojai]]: „Krikščioniškieji plėšikautojai“, veikę Ordino labui, galėjo pateikti nemaža žinių apie Lietuvos ir Prūsijos kraštus.
 - susijęs iš [[objektai/zodynas/latrunkuliai.md#claim-t-58913|latrunkuliai]]: Krikščioniškieji plėšikautojai, vadinti latrunkuliais, veikė Ordino labui ir galėjo teikti žinių kronikai.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mata buvo kilmingas Pamedės vyras ir Pipino sūnus, iki mirties drąsiai gynęs Kristaus tikėjimą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Neilgai trukus  jis išdavė
-    savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės
-    ir ten po medžiu pakorė221. Šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata;
-    kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo
-    uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė
-    Kristaus tikėjimą222.
-
-
-
-
-
-                     8.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-002
   santrauka: 'Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -97,35 +72,12 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    nuniokojo vieną Kuršo žemės dalį, degindami, grobstydami ir liedami krikščionių kraują,
-    o sugautas moteris bei vaikus išsivarė su savimi, kartu gabendamiesi daug kitokio
-    grobio. Šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti
-    iš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu
-    Mata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus,
-    atsakė: „Palikime savo arklius toli užpakalyje, kad neturėtume vilties prie jų sugrįžti, ir
-    patraukime link priešų pėsčiomis, nes tada žmonės, nesitikėdami išsigelbėsią arkliais,
-    nevengs mūšio, antraip jie be abejonės leisis bėgti“. Šiam patarimui nepritarė Danijos
-    karaliaus iš Revelio347 kariai ir daugybė kitų, tvirtindami, kad be arklių jie nestengsią
-    mūšyje atsilaikyti dėl sunkių ginklų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-60687
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 72"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Neilgai trukus  jis išdavė
     savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės
@@ -133,12 +85,7 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
     kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo
     uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė
     Kristaus tikėjimą222.
-
-
-
-
-
-                     8.
+    8.
   citata_rodoma: "Šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata;\nkiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo\nuolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė\nKristaus tikėjimą222.\n\n\n\n\n\n                 8."
   statusas: verified
   teiginio_tipas: faktas
@@ -150,15 +97,17 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 - id: c-60688
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau
-    su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
-      Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
-    pažinoję teritoriją, kelius ir žmones (III, 74, 223). Štai pirmosiose  kovose prieš Ordiną
-    žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
-    XIV a. viduryje134. Vardijami taip pat kai kurie skalviai, pagaliau ir lietuviai.
+    Vardijami taip pat kai kurie skalviai, pagaliau ir lietuviai. Dusburgietis
+    paprastai stengiasi kalbėti tik apie tuos, kurie, apleidę savuosius, tapo Ordino valdiniais
+    (III, 145, 228, 241, 280, 290, 301). Per šiuos žmones prūsiška ir lietuviška tradicija,
+    senųjų vietos gyventojų žinios galėjo pakliūti į Petro iš Dusburgo kroniką.
+    Tyrinėjimai rodo, jog nuo XIII a. vidurio įvykių kronikoje remtasi žiniomis, kurių
+    šaltinis — žodinė tradicija. Galvojant, kad kronikininkas — kaip įvykių stebėtojas —
+    pasirodė Prūsijoje XIII—XIV a. sandūroje, daroma prielaida, kad jam XIII a. antrajai
+    pusei aprašyti reikėjo sukaupti beveik niekur neužfiksuotų žinių, kurių dar daugiau
+    matome kronikos dalyje, aprašančioje pirmuosius XIV a. dešimtmečius.
   citata_rodoma: "Štai pirmosiose  kovose prieš Ordiną\nžuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar\nXIV a. viduryje134. Vardijami taip pat kai kurie skalviai, pagaliau ir lietuviai."
   statusas: verified
   teiginio_tipas: faktas
@@ -170,8 +119,7 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 - id: c-60689
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     nuniokojo vieną Kuršo žemės dalį, degindami, grobstydami ir liedami krikščionių kraują,
     o sugautas moteris bei vaikus išsivarė su savimi, kartu gabendamiesi daug kitokio

@@ -40,24 +40,6 @@ Tai vadinamoji šventoji namų ugnelė, arba gabija.
 - susijęs iš Šventaragio slėnis: Šventaragio slėnyje, kur dabar stovi katedra, iki krikščionybės įvedimo degė amžinoji ugnis Gabija Perkūno garbei.
 - susijęs iš [[objektai/zodynas/Gabija ir sudėtinės formos.md#claim-t-189148|Gabija ir sudėtinės formos]]: Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenantį židinį.
 - susijęs iš [[objektai/zodynas/Pelenų Gabija Moterų Gabija.md#claim-t-189270|Pelenų Gabija Moterų Gabija]]: Narbutas Pelenų Gabiją (Polengabia) apibūdino kaip besikūrenantį židinį globojusią ir nuo gaisrų saugojusią deivę.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tai vadinamoji
-    šventoji namų ugnelė, arba gabija. Dėl to ugnies kulto dar ir
-    dabar pas mus ugnis tebelaikoma ypatingoj pagarboj (pav., kai
-    kur laikoma net nuodėme užlieti ją kokiomis srutomis ar ne-
-    švarumais).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-03234

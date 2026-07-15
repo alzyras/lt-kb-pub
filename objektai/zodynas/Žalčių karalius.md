@@ -50,8 +50,8 @@ Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio tau
   teiginys: "Narbutas perteikia L. A. Jucevičiaus teiginį, kad kai kur lietuviai Žalčių karalių laikė tikru aukščiausiojo dievo Ukapirmo broliu."
   pagrindžia:
     - c-175118
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -70,44 +70,33 @@ Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio tau
   pagrindžia:
     - t-002
 
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    pastraipos
-    tęsinys/
-    Kunigo L. A. Jucevičiaus nuomone1, lietuviai, gyvenantys prie Pa­
-    langos, prie jūros, t. y. žvejai, Atrimpą vadina Dzivsvifs. Tas
-    žymusis lietuviškų dalykų tyrinėtojas tvirtina ir tai, jog spirališ-
-    kai susivijusio žalčio stabas, apie kurį bus pasakojama kituose
-    straipsniuose, nebuvo Atrimpo, bet Žalčių karaliaus, „kurį dar ir
-    šiandien kai kuriose srityse lietuviai laiko tikru aukščiausiojo die­
-    vo (Ukapirmo) broliu“. Visa tai galima suderinti, padarius prie­
-    laidą, jog Atrimpo simbolis buvo žaltys, tūnantis vandens pilnoje
-    vonioje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-175117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 204"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 204."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuviai turi apie žalčius daugybę pasakojimų ir padavimų,
-    kuriuos visus čia išpasakoti reikėtų daug laiko. Tačiau tarp jų
-    negalima nepaminėti tų, kuriuos pasakoja kunigas L. A. Jucevi­
-    čius10 1. Lietuviai tam tikriems burtams naudodavo žvakes, paga­
-    mintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal­
-    čių karalius su visa didžiule roplių svita. Burtininkių visuomet į
-    naudą išeidavo šios rūšies fetišų vartojimas.
+    Siauras (Siauras)
+    Driežas. Lasickis, kalbėdamas apie fetišus, pamini tik kai
+    kuriuos vardus, o apie driežą sako, kad prie religinių šliužų
+    kategorijos priklausė juodas keturkojis šliaužiantis padaras,
+    kurį garbino kaip namų dievaitį, labai rūpestingai maitino ir
+    darė su juo įvairius burtus.
+    Dar raiškiau aiškina Gvaninis : „Dar ir šiandien (1610
+    metais) yra tokių, ypač kaimuose ir miesteliuose, kurie garbi­
+    na kažkokius žalčius ir savo kalba vadina juos gyvatėmis, o šie
+    kažkaip turį po pilvu ketvertą kojų - juodų, trumpučių, žiau­
+    nų pavidalo; juos laiko savo namuose tarytum kokius namų
+    dievaičius; šeimininkai, nudirbę savo darbus, tam tikru laiku
+    paduoda jiems aukos vietoj pieno; anie, iššliaužę iš savo lindy­
+    nių arba požeminių urvų ir nužvelgę visus ten esančius, persi-
+    ėmusius tam tikra baime ir stabmeldišku pagarbumu, kelis kar­
+    tus sušnypščia ir pasisuka į pieną; jeigu ta bjaurybė nedaug
+    laka, tai žmonės mano, jog namuose būsiąs koks nors nelai­
+    mingas atsitikimas, nes jų dievukas ant jų pykstąs; jeigu nutin­
+    ka kokia nors nelaimė dėl kokio nors atsitiktinumo arba dėl 12
+    12 Lib.
   citata_rodoma: "Lietuviai turi apie žalčius daugybę pasakojimų ir padavimų,\nkuriuos visus čia išpasakoti reikėtų daug laiko. Tačiau tarp jų\nnegalima nepaminėti tų, kuriuos pasakoja kunigas L. A. Jucevi­\nčius10 1. Lietuviai tam tikriems burtams naudodavo žvakes, paga­\nmintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal­\nčių karalius su visa didžiule roplių svita. Burtininkių visuomet į\nnaudą išeidavo šios rūšies fetišų vartojimas."
   statusas: verified
   teiginio_tipas: faktas
@@ -119,8 +108,7 @@ Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio tau
 - id: c-175118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 467"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 467."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     pastraipos
     tęsinys/

@@ -3,11 +3,19 @@ tipas: asmuo
 pavadinimas: 'Jonas Kropidlas (vyskupas)'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+datos:
+  - '1418 m.'
+date_start: '1418'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - vyskupas
   - asmuo
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -25,47 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Jonas Kropidlas, Kujavijos vyskupas, parėmė Vytauto santuokos sumanymą ir pareiškė, kad santuoka bus teisėta.
-
-## Teiginiai
-
-<a id="claim-t-186114"></a>
-- t-001
-  global_id: t-186114
-  teiginys: "Jonas Kropidlas, Kujavijos vyskupas, parėmė Vytauto santuokos sumanymą ir pareiškė, kad santuoka bus teisėta."
-  pagrindžia:
-    - c-169475
-- susijęs iš Lietuva: Į Lietuvą su karaliumi atvykęs Kujavijos vyskupas Jonas Kropidlas parėmė Vytauto santuokos sumanymą.
-- susijęs iš [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės.md#claim-t-185863|Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]: Kujavijos vyskupas Jonas Kropidlas pareiškė, kad Vytauto santuoka bus teisėta, ir surišo sutuoktinius pagal Romos bažnyčios tvarką.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jonas Kropidlas, Kujavijos vyskupas, parėmė Vytauto santuokos sumanymą ir pareiškė, kad santuoka bus teisėta.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Todėl Petras, Vilniaus vyskupas,
-    labai atkakliai priešinosi šiai santuokai, kad nebūtų pa­
-    žeisti dievo bei žmonių įstatymai. Galbūt atkakliu ne­
-    pritarimu ir būtų privertęs
-    V y ta u ta s  v e d a
-    Vytautą atsisakyti šio suma­
-    nymo, jeigu nebūtų parėmęs
-    Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at­
-    vykęs į Lietuvą. Pataikūniškai aiškindamas įstatymus
-    pagal valdovo norus, jis pareiškė, jog santuoka būsian­
-    ti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-
-    3 9 6
-
-    ## Puslapis 395
-
-    mos bažnyčia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Citatos
 
@@ -74,25 +42,37 @@ Jonas Kropidlas, Kujavijos vyskupas, parėmė Vytauto santuokos sumanymą ir par
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Todėl Petras, Vilniaus vyskupas,
-    labai atkakliai priešinosi šiai santuokai, kad nebūtų pa­
-    žeisti dievo bei žmonių įstatymai. Galbūt atkakliu ne­
-    pritarimu ir būtų privertęs
-    V y ta u ta s  v e d a
-    Vytautą atsisakyti šio suma­
-    nymo, jeigu nebūtų parėmęs
-    Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at­
-    vykęs į Lietuvą. Pataikūniškai aiškindamas įstatymus
-    pagal valdovo norus, jis pareiškė, jog santuoka būsian­
-    ti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-
-    3 9 6
-
-    ## Puslapis 395
-
-    mos bažnyčia.
+    Kadangi kryžiuočiai
+    atmetė vieną po kitos visas
+    1418 m e ta i
+    siūlomas taikos sąlygas, pasi-
+    S u sitik im a s d ė l tai-
+    pūtėliškai reikalaudami visos
+    k o s a tn eša k a rą
+    Žemaitijos, susitikimas neat­
+    nešė jokios naudos, ir netru­
+    kus kryžiuočiai iš pasalų pradėjo atvirą karą. Pasibai­
+    gus susitikimui, karalius kurį laiką pasiliko Veliuono­
+    je, norėdamas pailsėti, nes netoliese buvo vietų, tinka­
+    mų medžioklei ir poilsiui. Medžiodamas jis pats kartą
+    vos nepakliuvo į kryžiuočių
+    K araliu s
+    išv e n g ia
+    rankas, tik narsi jo palyda
+    k ry ž iu o č ių pasalų
+    vargais
+    negalais
+    išgelbėjo
+    valdovą nuo pasalų, kurias
+    surengė Rastenburgo komtūras vienoje tam reikalui
+    tinkamoje vietoje. Po to ir viena, ir kita šalis puldinėjo
+    ir siaubė viską, kas pakliuvo po ranka.
+  citata_rodoma: "Kadangi kryžiuočiai\natmetė vieną po kitos visas \n1418 m e ta i \nsiūlomas taikos sąlygas, pasi-\nS u sitik im a s d ė l tai- \npūtėliškai reikalaudami visos \nk o s a tn eša k a rą \nŽemaitijos, susitikimas neat­\nnešė jokios naudos, ir netru­\nkus kryžiuočiai iš pasalų pradėjo atvirą karą. Pasibai­\ngus susitikimui, karalius kurį laiką pasiliko Veliuono­\nje, norėdamas pailsėti, nes netoliese buvo vietų, tinka­\nmų medžioklei ir poilsiui. Medžiodamas jis pats kartą\nvos nepakliuvo į kryžiuočių \nK araliu s \nišv e n g ia \nrankas, tik narsi jo palyda \nk ry ž iu o č ių pasalų \nvargais \nnegalais \nišgelbėjo\nvaldovą nuo pasalų, kurias \nsurengė Rastenburgo komtūras vienoje tam reikalui \ntinkamoje vietoje."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186114
+## Teiginiai
+
+- susijęs iš [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės.md#claim-t-185863|Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]: Kujavijos vyskupas Jonas Kropidlas pareiškė, kad Vytauto santuoka bus teisėta, ir surišo sutuoktinius pagal Romos bažnyčios tvarką.

@@ -36,32 +36,6 @@ Mickevičius.
   pagrindžia:
     - c-44502
 - susijęs iš Jieznas: Vasario 9 d. priešakiniai 7-ojo „lietuviškojo“ pulko daliniai po susišaudymo su lietuvių husarų žvalgais užėmė Jiezną.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Bolševikų pajėgos
-    7-ajam „lietuviška-
-    jam“ pulkui vadovavo
-    rusas Lebedevas, jo pa-
-    vaduotojas buvo baltarusis
-    A. Ružancovas, pulko komi-
-    saras - lietuvis S. Mickevičius.
-    Pulke buvo 3 pėstininkų batalionai, be to,
-    jame buvo 3 kulkosvaidininkų koman-
-    dos su 14 sunkiųjų kulkosvaidžių, po vieną
-    ryšių bei raitųjų žvalgų komandas ir dau-
-    gybė gurguolės vežimų. Pulkas artilerijos
-    neturėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44502

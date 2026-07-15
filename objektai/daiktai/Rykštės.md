@@ -7,13 +7,13 @@ datos:
   - '1850 m.'
 date_start: '1850'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - buities-daiktas
   - daiktas
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,8 +65,8 @@ Tekste jos siejamos su viešu išplakimu.
   teiginys: "1850 m. pasakojime rykštės minimos kaip priemonė, kuria viešai išplaktas Teodoro Narbuto sūnus Liudvikas."
   pagrindžia:
     - c-170768
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -92,14 +92,18 @@ Nenurodyta
 - id: c-170768
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 13"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    1850 m. Vilniaus gimnazijoje suėmė T. Narbuto sūnų Liud­
-    viką. Apkaltintas už priešvalstybinę agitaciją ir siekimą sukur­
-    ti slaptą organizaciją, jis tardomas ir kalinamas. Viešai išplak­
-    tą rykštėmis, sūnų išsiunčia eiliniu kareiviu į Kaukaze veikian­
-    čią rusų armiją. Tai buvo didelis smūgis tėvui.
+    Daugelį T. Narbuto LTI teiginių ir faktų perėmė aušrinin­
+    kai. Jonas Basanavičius 1897 m. išvertė į lietuvių kalbą ir išlei­
+    do „Grovo Kyburgo kelionę“. XIX a. pirmosios pusės Lietu­
+    vos bajorų lenkiška romantinės pakraipos kūryba aušrininkams
+    buvo labai artima ir suprantama. Jonas Spudulis rašė Adomui
+    Dambrauskui-Jakštui: „Bet juk žinai, kad ne tik pas lietuvius,
+    ir pas kitas tautas buvo tokie pat vyrai, kurie nerašė savo pri­
+    gimtoje „motinos“ kalboje, vienok pagarbino ir pakėlė savo
+    tėvynę ir atnešė jai nemažą naudą, nors ir ne taip gausią, kaip
+    tai būtų padarę rašydami savotiškoje kalboje“15.
   citata_rodoma: "1850 m. Vilniaus gimnazijoje suėmė T. Narbuto sūnų Liud­\nviką. Apkaltintas už priešvalstybinę agitaciją ir siekimą sukur­\nti slaptą organizaciją, jis tardomas ir kalinamas. Viešai išplak­\ntą rykštėmis, sūnų išsiunčia eiliniu kareiviu į Kaukaze veikian­\nčią rusų armiją. Tai buvo didelis smūgis tėvui."
   statusas: verified
   teiginio_tipas: faktas

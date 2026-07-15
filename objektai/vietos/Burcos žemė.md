@@ -8,13 +8,13 @@ datos:
   - '1225 m.'
 date_start: '1211'
 date_end: '1225'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žemė
   - vieta
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -54,7 +54,6 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
 - susijęs iš Regesta historico-diplomatica Ordinis Mariae Theutonicorum: Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kryžiuočiams suteikta vieta Transilvanijos Burcos žemėje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179087|Kryžiuočių ordinas]]: 1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Brolio Hermano vadovavimo metais Teutonų ordinas Vengrijoje gavo vadinamąją Burcos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -73,37 +72,23 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Burcos žemė Transilvanijoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    159 D. — Wurcza. Burcos žemė Transilvanijoje. Joje Vengrijos karalius Andrius 11
-    1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4),
-    norėdamas, kad šie gintų kraštą nuo polovcų (kumanų). Kryžiuočiai savavališkai bandė
-    plėsti savo valdas; popiežiaus padedami, sieke visiško savarankiškumo, todėl 1225 m.
-    Andriaus II buvo išvyti iš Vengrijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-59322
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
-    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
-    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
-    Jo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo
-    girdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno
-    žmogaus pastangomis.
+    Dievas jam buvo suteikęs tokių malonių,
+    kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
+    Jį didžiai vertino ir popiežius, ir imperatorius, nekalbant apie kitus kunigaikščius bei
+    didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
+    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti  po maišto, sukelto
+    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
+    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
+    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
+    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių.
+  citata_rodoma: "Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė\nOrdinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,\nArmėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.\nJo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo\ngirdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno\nžmogaus pastangomis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -114,8 +99,7 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
 - id: c-59323
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     159 D. — Wurcza. Burcos žemė Transilvanijoje. Joje Vengrijos karalius Andrius 11
     1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4),

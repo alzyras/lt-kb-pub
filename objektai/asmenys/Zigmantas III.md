@@ -65,70 +65,6 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80783|Abiejų Tautų Respublika]]: Zigmantas III Vaza 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.
 - susijęs iš Rūdninkai: Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, o Rūdninkai labiau išgarsėjo Žygimanto Senojo ir Žygimanto Augusto laikais.
 - susijęs iš Rūdninkų vartai ir Rūdninkų gatvė Vilniuje: Žygimantų laikais Vilniuje atsiradę nauji vartai ir nuo jų vingiuojanti gatvė gavo Rūdninkų vardą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Zigmantas III, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kazimieras pamėgo Rūdninkus ir dažnai juose
-    buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau,
-    Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje
-    atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­
-    vo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė. Vė­
-    liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­
-    da Rūdninkuose smagiai leisdavo laiką medžiodami.
-    Kadangi čia dažnai viešėdavo karaliai ir buvo jų dvaras, Rūd­
-    ninkai anais amžiais turėję būti garsi gyvenvietė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Valdant Zigmantui III, jėzuitų pastangomis bažnyčia sugrįžo katalikams po laikotarpio, kai priklausė evangelikams reformatams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Valdant Žygimantui Augus­
-    tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
-    cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
-    iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
-    Zigmantui III. Ši trumpa ekskursija į istoriją remiasi vietinių
-    istorijos mokovų apklausa ir klebonijos užrašais, kuriais vie­
-    los klebonas leido man pasinaudoti 1805 metais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Vis dėlto pasakojama apie giliai gelmėje glūdinčius požemius ir rūsius, ir pats mačiau čia kartais išariamų Zigmanto III epochos sidabrinių ir varinių pini gėlių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Toji vieta, kur stovė­
-    jo anie rūmai, šiandien yra vietos klebono dirbamas lau­
-    kas, ir jau niekas nebeprimena senojo karaliaus dvaro, tik
-    daugybė plytų ir koklių nuolaužų, plačiai pasklidusių po
-    dirvas ir pievas. Vis dėlto pasakojama apie giliai gelmėje
-    glūdinčius požemius ir rūsius, ir pats mačiau čia kartais
-    išariamų Zigmanto III epochos sidabrinių ir varinių pini­
-    gėlių. Per kelis šimtus žingsnių, ant nedidelės aukštumė­
-    lės, irgi prie Merkio, stovėjo du kiti mažesni namai, berods
-    taip pat dviejų aukštų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-83574
@@ -155,8 +91,7 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
 - id: c-171541
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Valdant Žygimantui Augus­
     tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-

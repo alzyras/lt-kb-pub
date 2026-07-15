@@ -64,55 +64,16 @@ Nenurodyta
   teiginys: "1290 m. birželio 25 d. 36 lietuviai iš Aukaimio apylinkių patraukė trikdyti Ragainės brolių plėšikiškais išpuoliais."
   pagrindžia:
     - c-63767
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1290 m. birželio 25 d. 36 lietuviai iš Aukaimio apylinkių patraukė trikdyti Ragainės brolių plėšikiškais išpuoliais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
-
-      Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
-    dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
-    plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
-    jų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Ragainės broliai, gavę žinią iš žvalgo, užpuolė 36 lietuvius viename lauke ir 25 iš jų nukovė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dėl to tučtuojau pasuko atgal. Tuo
-    tarpu Ragainės broliai, sunerimę dėl savo žmonių naikinimo ir norėdami apsisaugti nuo
-    būsimų pavojų, pasiuntė žvalgus, turėjusius saugoti kelius; vienas iš jų skubiai sugrįžo
-    ir pasisakė matęs minėtuosius plėšikautojus. Todėl brolis Liudvikas iš Libencelės ir brolis
-    Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė
-    viename lauke ir 25 iš jų nukovė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63767
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
-
-      Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
+    Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
     dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
     plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
     jų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal.
@@ -127,8 +88,7 @@ Nenurodyta
 - id: c-63768
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dėl to tučtuojau pasuko atgal. Tuo
     tarpu Ragainės broliai, sunerimę dėl savo žmonių naikinimo ir norėdami apsisaugti nuo

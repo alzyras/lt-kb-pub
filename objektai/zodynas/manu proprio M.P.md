@@ -35,26 +35,6 @@ media_all_json: |-
   teiginys: "Formulė manu proprio prie parašų reiškė, kad Eustachijus Valavičius pasirašė savo ranka."
   pagrindžia:
     - c-82541
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Formulė manu proprio prie parašų reiškė, kad Eustachijus Valavičius pasirašė savo ranka.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    [manu proprio -
-    savo ranka]
-    Eustachijus Valavičius, Vilniaus kaštelionas. Mikalojus
-    Manvydas Dorohostaiskis. Mikalojus Tolvaišas, Žemaičių
-    kaštelionas. - Leonas Sapiega, pakancleris. Teodoras Sku­
-    minas, LDK iždininkas.
-    Šiame laiške po parašais yra penki antspaudai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

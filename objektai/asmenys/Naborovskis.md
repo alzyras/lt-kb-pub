@@ -42,38 +42,16 @@ Narbutas 1629 metų Naborovskio paminėjimą pateikia kaip pėdsaką, kad XVII a
   teiginys: "Narbutas 1629 metų Naborovskio paminėjimą pateikia kaip pėdsaką, kad XVII amžiuje Lietuvoje buvo žinoma apie Gedimino kapą."
   pagrindžia:
     - c-173071
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas 1629 metų Naborovskio paminėjimą pateikia kaip pėdsaką, kad XVII amžiuje Lietuvoje buvo žinoma apie Gedimino kapą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Man sakė, kad vieno vienuolyno biblio­
-    tekoje buvo XV amžiaus lotyniškas rankraštis -  svarstymas
-    apie milžinkapius3, kuriame turėję būti padavimų apie šį ka­
-    pą. Taip pat turime pėdsaką, kad dar XVII amžiuje apie Ge­
-    dimino kapą Lietuvoje visi žinojo; apie tai 1629 metais4 mini
-    Naborovskis.
-    Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs
-    asmuo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 372"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Man sakė, kad vieno vienuolyno biblio­
-    tekoje buvo XV amžiaus lotyniškas rankraštis -  svarstymas
+    tekoje buvo XV amžiaus lotyniškas rankraštis - svarstymas
     apie milžinkapius3, kuriame turėję būti padavimų apie šį ka­
     pą. Taip pat turime pėdsaką, kad dar XVII amžiuje apie Ge­
     dimino kapą Lietuvoje visi žinojo; apie tai 1629 metais4 mini

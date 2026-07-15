@@ -42,26 +42,6 @@ Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 124
     - c-33788
 - susijęs iš Kuršas: 1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę.
 - susijęs iš Kuršas: 1244 m. Mindaugas žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tik vakarų Europoje
-    galingi ir nepriklausomi kunigaikščiai gaudavo karaliaus titulą^57.
-    Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai,
-    kad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs
-    didelę kariuomenę^58. Poezijos rimams suderinti vis didelius skaičius
-    vartodamas, Eiliuotinės kronikos autorius rašė, kad Mindaugas ten
-    atvedęs 30.000 karių^59.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33788

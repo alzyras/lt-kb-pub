@@ -35,40 +35,13 @@ Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakė
   teiginys: "Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakėlė Vytautą ir jo žmoną Oną į sostą."
   pagrindžia:
     - c-169456
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakėlė Vytautą ir jo žmoną Oną į sostą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tai buvo karštos prigim­
-    ties, be galo veiklus vyras;
-    troško garbės ir naujų valdų,
-    todėl jam niekada netrūko
-    progų kariauti, o pradėjęs
-    kokį žygį, retai kada nesusi­
-    laukdavo sėkmės; iš mažens perpratęs karo gudrybes,
-    paprastai be vargo pasiekdavo tai, kam pasiryždavo.
-    Vilniuje, šv. Stanislovo bažnyčioje, ir Vytautas, ir jo
-    žmona Ona buvo labai iškilmingai pakelti į sostą Vil­
-    niaus vyskupo Andriaus Vasilos pagal nuo seno įpras­
-    tas apeigas, krikščionių tikėjimo apvalytas nuo bet
-    kokių prietarų tikėjimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169456
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 330"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 330."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tai buvo karštos prigim­
     ties, be galo veiklus vyras;

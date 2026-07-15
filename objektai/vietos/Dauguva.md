@@ -13,6 +13,9 @@ datos:
   - '2026 m.'
 date_start: '1266'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,9 +23,6 @@ tags:
   - vieta
   - pilis
   - sostinė
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,99 +44,78 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 
 ## Teiginiai
 
-<a id="claim-t-182752"></a>
+<a id="claim-t-182751"></a>
 - t-001
-  global_id: t-182752
-  teiginys: "Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos."
-  pagrindžia:
-    - c-166168
-
-<a id="claim-t-182752"></a>
-- t-002
-  global_id: t-182752
+  global_id: t-182751
   teiginys: "Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos."
   pagrindžia:
     - c-166168
 
 <a id="claim-t-182753"></a>
-- t-003
+- t-002
   global_id: t-182753
   teiginys: "Vokiečių ekspansija buvo nublokšta iki Dauguvos, į XIII a."
   pagrindžia:
     - c-166166
 
 <a id="claim-t-182754"></a>
-- t-004
+- t-003
   global_id: t-182754
   teiginys: "Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte."
   pagrindžia:
     - c-43388
 
 <a id="claim-t-182756"></a>
-- t-005
+- t-004
   global_id: t-182756
   teiginys: "Lietuvos kariuomenės sparnas turėjo nustumti švedus nuo Dauguvos kranto ir nublokšti juos į šiaurėje esantį pelkėtą mišką."
   pagrindžia:
     - c-166164
 
 <a id="claim-t-183007"></a>
-- t-006
+- t-005
   global_id: t-183007
   teiginys: "Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji."
   pagrindžia:
     - c-166400
 
 <a id="claim-t-184385"></a>
-- t-007
+- t-006
   global_id: t-184385
   teiginys: "Ordino kariuomenė buvo užpulta prie Aizkrauklės ant Dauguvos kranto."
   pagrindžia:
     - c-31997
 
 <a id="claim-t-188680"></a>
-- t-008
+- t-007
   global_id: t-188680
   teiginys: "Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu."
   pagrindžia:
     - c-171569
 
 <a id="claim-t-188681"></a>
-- t-009
+- t-008
   global_id: t-188681
   teiginys: "Narbutas Krivių Krivaičio valdžią vaizdavo kaip kadaise apėmusią žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą."
   pagrindžia:
     - c-171570
 
-<a id="claim-t-188682"></a>
-- t-010
-  global_id: t-188682
-  teiginys: "Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“."
-  pagrindžia:
-    - c-171571
-
-<a id="claim-t-188683"></a>
-- t-011
-  global_id: t-188683
-  teiginys: "Narbutas dainelės žodį „dewine“ aiškino kaip „Dwine upe“ ir siejo jį su devintąja upe, Dvina arba Dauguva."
-  pagrindžia:
-    - c-171572
-
 <a id="claim-t-192633"></a>
-- t-012
+- t-009
   global_id: t-192633
   teiginys: "Narbutas teigė, kad potvynių ir šiaurės vėjų sukelti pokyčiai labiausiai paveikė Baltijos pakrantes tarp Vyslos ir Dauguvos žiočių."
   pagrindžia:
     - c-175403
 
 <a id="claim-t-192634"></a>
-- t-013
+- t-010
   global_id: t-192634
   teiginys: "Narbutas atmetė mokslininkų nuomonę, kad gintaro kelio upė galėjusi būti Prieglius arba Vakarų Dauguva, ir rinkosi Nemuną."
   pagrindžia:
     - c-175404
 
 <a id="claim-t-192635"></a>
-- t-014
+- t-011
   global_id: t-192635
   teiginys: "Narbutas rašė, kad skandinavų Reithgothland vadintas kraštas tęsėsi nuo Nemuno žemupio dešiniosios pakrantės iki Dauguvos žemupio."
   pagrindžia:
@@ -193,8 +172,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš Aukštutinė Dauguva: Aukštutinės Dauguvos ir Dniepro sričių gyventojai mokesčius mokėjo laukinių žvėrių kailiukais ir medumi.
 - susijęs iš Aukštutinė Dauguva: Aukštutinės Dauguvos ir Dniepro sričių gyventojai mokesčius mokėjo laukinių žvėrių kailiukais ir medumi.
 - susijęs iš Bartos žemė: Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.
-- susijęs iš Belčica: Belčica yra upelis, įtekantis į Dauguvą iš pietų priešais Polocką.
-- susijęs iš Belčica: Belčica yra upelis prie Polocko, iš pietų įtekantis į Dauguvą.
 - susijęs iš Daugavgryvos pilis (pilis): Ordinui įsigijus Daugavgryvos pilį Dauguvos žiotyse, rygiečiai ją šturmavo 1328 m. liepą.
 - susijęs iš Daugpilis: Vytautas, įsiveržęs į Livoniją ir nusiaubęs kaimus, užėmė Daugpilį Dauguvos pakrantėje.
 - susijęs iš Dauguva Dvina: Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“.
@@ -206,16 +183,14 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš Kuoknesė: Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus.
 - susijęs iš Lielvardės pilis (pilis, XIII a.): Mindaugo karvedžių siaubiamoje Livonijoje vyko kovos prie Lielvardės pilies Dauguvos pakrantėse.
 - susijęs iš Livonija: 1629 m. Altmarko paliaubomis Livonija anapus Dauguvos su Ryga buvo palikta švedams.
-- susijęs iš Livonija: Mindaugo karvedžiai nuolat siaubė Livoniją, o prie Lielvardės pilies Dauguvos pakrantėse vyko kovos.
-- susijęs iš Livonija: Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
+- susijęs iš Livonija: Mindaugo karvedžiai nuolat siaubė Livoniją, o prie Lielvardės pilies Dauguvos pakrantėse, pasak Kojelavičiaus, vyko kovos.
+- susijęs iš Livonija: 1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
 - susijęs iš Nemunas: Narbuto aprašytas Reithgothland kraštas tęsėsi nuo Nemuno žemupio dešiniosios pakrantės iki Dauguvos žemupio.
 - susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
-- susijęs iš Polockas: Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.
 - susijęs iš Ryga: Ryga buvo turtingas miestas, per kurį ėjo prekyba su Dauguvos ir Dniepro upyno miestais.
 - susijęs iš Ryga: 1621 m. Rygai atitekus Švedams, Lietuvos laisvoji prekyba Dauguvos keliu per Rygą užsidarė.
 - susijęs iš Ukmergės apskritis: Narbutas iš Ukmergės apskrities gautą dainelę laikė įrodymu, kad Dauguvos pavadinimas kilo iš „Dewine Upes“.
 - susijęs iš Vindavos upė: Narbutas Vindavos upės pavadinimą laikė pėdsaku venedų slavų, galėjusių gyventi Baltijos pakrantėje tarp Vyslos ir Dauguvos žiočių.
-- susijęs iš Vitebskas: Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.
 - susijęs iš Vitebskas: Narbutas, remdamasis Karamzinu, Vitebsko vietoje minėjo senovės pilį prie Dauguvos Witsby kaip vibionų arba vitbionų genties sostinę.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
@@ -233,12 +208,12 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš [[objektai/asmenys/Malte-Brunas.md#claim-t-191294|Malte-Brunas]]: Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė.
 - susijęs iš [[objektai/asmenys/Mantas.md#claim-t-60479|Mantas]]: Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113898|Mindaugas (valdovas, XIII a.)]]: 1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184788|Mindaugas (valdovas, XIII a.)]]: Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai įsibrovė į Mazoviją.
-- susijęs iš [[objektai/asmenys/Sekalys.md#claim-t-186251|Sekalys]]: Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais smarkiai nusiaubė Rusią.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184788|Mindaugas (valdovas, XIII a.)]]: Mindaugas, gavęs rusų paramą, didžiulių miškų takais slaptai ir netikėtai įsibrovė į Mazoviją.
+- susijęs iš [[objektai/asmenys/Sekalys.md#claim-t-186251|Sekalys]]: Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais, pasak Kojelavičiaus, smarkiai nusiaubė visą Rusią.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Trobius.md#claim-t-186083|Trobius]]: Mirus Romuntui, Žemaitijos kunigaikščiui Trobiui buvo pavesta valdyti Lietuvą.
 - susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40510|Virgoličius]]: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
-- susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184894|Zemovitas]]: Mindaugas, padedamas rusų, įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.
+- susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184894|Zemovitas]]: Mindaugas su rusų parama įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.
 - susijęs iš [[objektai/asmenys/Šv. Kazimieras.md#claim-t-78017|Šv. Kazimieras]]: XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse.
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190674|Adomas Stanislovas Naruševičius]]: Naruševičių Narbutas mini tarp autorių, kurių požiūris turėjo pagrįsti nuomonę, kad venedams priklausė Lietuvos istorijai svarbios gentys.
 - susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190741|Jordanas]]: Narbutas Jordano požiūrį pasitelkė kartu su Tacitu ir Naruševičiumi, svarstydamas venedams priklausiusių genčių klausimą.
@@ -250,7 +225,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65305|Kazokai]]: Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179023|Kryžiuočių ordinas]]: 1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184491|Kryžiuočių ordinas]]: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65554|Kuršiai]]: Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65565|Kuršiai]]: Nestoro „Povest“ tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų minėjo Kuršą.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169584|Latviai]]: Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie deramai vadinami Lethigalli.
@@ -269,11 +243,9 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš [[objektai/grupes/Vikingai.md#claim-t-66261|Vikingai]]: Palei upių prekybos kelią ilgainiui atsirado vikingų sodybų, kurių gyventojai saugojo pirklius nuo plėšikų.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89341|Žiemgaliai]]: Žiemgala minima tarp atskiras kalbas turėjusių duoklinių tautų.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89349|Žiemgaliai]]: Žiemgaliai Nestoro „Povestyje“ minimi tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų.
-- susijęs iš [[objektai/ivykiai/Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių.md#claim-t-185569|Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių]]: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.).md#claim-t-05299|Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]: XI a. rusų metraščiai mini tik du lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių antpuolis į Lietuvą ir Žemaitiją (1396 m.).md#claim-t-185725|Kryžiuočių antpuolis į Lietuvą ir Žemaitiją (1396 m.)]]: Vasario 6 d. kryžiuočiai žiauriai nuniokojo Lietuvą, o paskui Žemaitiją.
 - susijęs iš [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.).md#claim-t-62858|Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]: 1358 m. Lietuvos vyriausybė derybose su imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros.
-- susijęs iš [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika.md#claim-t-185748|Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]: Ordino magistras Ketleris ir Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš [[objektai/ivykiai/Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas.md#claim-t-77906|Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas]]: 1236 m. popiežius paskelbė kryžiaus žygį prieš lietuvius, kurį žemaičiai atlaikė Saulės mūšyje.
 - susijęs iš [[objektai/ivykiai/Šv. Kazimiero kanonizacija.md#claim-t-20575|Šv. Kazimiero kanonizacija]]: Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris.
 - susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59725|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje.
@@ -281,7 +253,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš [[objektai/posakiai/vartais į Rusiją.md#claim-t-41477|vartais į Rusiją]]: 1514 m. Rusijos užgrobtas Smolenskas buvo laikomas „vartais į Rusiją“ ir tapo Lietuvos bei Rusijos karinės konfrontacijos objektu.
 - susijęs iš [[objektai/posakiai/„Lithuania Propria“.md#claim-t-67315|„Lithuania Propria“]]: 1917 m. Berno konferencijoje būsimos Lietuvos teritoriją siūlyta formuoti etnografiniu principu „Lithuania Propria“ ribose.
 - susijęs iš Conrad Malte-Brun, Tableau de Pologne: Narbutas Malte-Brunui priskiria pastabą, kad Styrės upė išsaugojo stūmių, jo taisomų į Stirnii, gyvenamųjų vietų pavadinimą.
-- susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Lietuvos didžiojo kunigaikščio Žygimanto Augusto globą.
 - susijęs iš Salaspilio mūšis: Salaspilio mūšyje Karolio IX vadovaujami švedai tuoj pat pradėjo puolimą.
 - susijęs iš Salaspilio mūšis: Salaspilio mūšio schemų viršus orientuotas į pietus, kad jos sutaptų su P. Snayerso paveikslu „Salaspilio mūšis“.
 - susijęs iš Aizkrauklė: XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero.
@@ -289,8 +260,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš Baltijos jūra: Narbutas teigė, kad Krivių Krivaičio valdžia anksčiau apėmė žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.
 - susijęs iš Barta: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtą Bartą ir kitas žemes.
 - susijęs iš Bauskė: Livonijos riterių ordinas sąjungos sąlygomis turėjo atiduoti Lietuvai Bauskės pilį su apylinkėmis.
-- susijęs iš Belčica: Belčicoje buvo vyrų vienuolynas, įkurtas XI ir XII a. riboje.
-- susijęs iš Belčica: Belčicos vyrų vienuolynas, įkurtas XI ir XII a. sandūroje, XII a. turėjo keturias Boriso ir Glebo cerkves.
 - susijęs iš Burtnieko ežeras: XII–XIII a. sandūroje latvių gyvenama rytinė Vidžemės dalis siekė Burtnieko ežerą.
 - susijęs iš Chotinas: Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d.
 - susijęs iš Chotinas: Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d.
@@ -298,22 +267,16 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš Diunamiundė: Diunamiundėje XIII a. Ordino statytas įtvirtintas vienuolynas XIV a. pradžioje buvo perstatytas į pilį.
 - susijęs iš Gardinas: 1917 m. Berno konferencijoje Lietuvos teritorijai siūlyta priskirti Balstogės, Gardino, Slanimo ir Valkavisko apskritis.
 - susijęs iš Gardinas: Užsienio lietuvių atstovai siūlė į „Lithuania Propria“ ribas įtraukti Gardino apskritį.
-- susijęs iš Heilsbergas: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
-- susijęs iš Karaliaučius: Iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš Kauno gubernija: 1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.
 - susijęs iš Kuršas: Narbutas pritarė Ksaverui Bogušui, kad islandų sagų chorai arba churai suprastini kaip kuršiai.
 - susijęs iš Latgalija: XII–XIII a. sandūroje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemę.
 - susijęs iš Liepoja: 1917 m. lapkričio 2–10 d. Berno konferencijoje lietuvių atstovai numatė reikalauti Liepojos uosto.
-- susijęs iš Lietuva: Livonijos atstovai seime nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Lietuva: Narbutas nurodė, kad rankraštis baigiasi pagyrimu lietuvių tautos svetingumui, darbštumui ir namų gyvenimo dorybėms.
 - susijęs iš Liubano ežeras: Šiaurinė siena buvo vedama nuo Dauguvos žiočių iki vietos, kur iš Liubano ežero ištekanti Aiviekstė įteka į Dauguvą.
 - susijęs iš Livonija: Stepono Batoro laikais Lietuvos ir Lenkijos karai su Maskva baigėsi Polocko ir visos Livonijos atgavimu.
-- susijęs iš Livonija: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Ludza: Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmis.
 - susijęs iš Nalšėnai: Per Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo Gerdenis.
 - susijęs iš Nemuno-Dauguvos-Dniepro plotas: Viduriniame geležies amžiuje baltai ir toliau gyveno Nemuno, Dauguvos ir Dniepro plote, nedaug tepajudėdami.
-- susijęs iš Polockas: Polockas pasirinko bendradarbiavimą su Lietuva, kuri jam buvo natūrali gynėja ir sąjungininkė.
-- susijęs iš Polockas: Polockui Lietuva buvo natūralus gynėjas ir sąjungininkas.
 - susijęs iš Polockas: Tikėta, kad šventuoju paskelbtas Kazimieras 1518 m. padėjo Lietuvos kariuomenei įveikti priešą prie Polocko.
 - susijęs iš Prieglius: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros.
 - susijęs iš Rezeknė: Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylinkėmis.
@@ -343,153 +306,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš [[objektai/grupes/Roksolanai.md#claim-t-192941|Roksolanai]]: Teodoras Narbutas seniausią užuominą apie roksolanus kaip sarmatų padermės tautą tarp Dnepro ir Dauguvos sieja su 94 m. pr. Kr.
 - susijęs iš Kuršas: Narbutas pritarė Ksaverui Bogušui, kad islandų sagų chorai arba churai suprastini kaip kuršiai.
 - susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
-- susijęs iš Vitebskas: Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.
 - susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40452|T. Dambrava]]: T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.
-- susijęs iš Polockas: Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ordino kariuomenė buvo užpulta prie Aizkrauklės ant Dauguvos kranto.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Prie Aizkrauklės (Ascheraden, ant Dauguvos kranto), jie užpuolė
-    ordino kariuomenę. Kruvinose kautynėse (III. 5 d.), iš kurių kry­
-    žiuočių nelaimei pasitraukė žiemgaliai^238 , žuvo pats magistras ir 71
-    ordino riteris^239.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-002
-  santrauka: 'Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Spalio 5 d. plk. Virgoličiaus
-    rinktinė iš Kuršėnų per-
-    sikėlė į Šiaulius. Lietuvos
-    vyriausybė negalėjo už-
-    kirsti jai kelio, nes tuo metu
-    Lietuvos kariuomenė dar
-    tęsė kovas su bolševikais Dauguvos fronte.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-003
-  santrauka: 'Lietuvos kariuomenės sparnas turėjo nustumti švedus nuo Dauguvos kranto ir nublokšti juos į šiaurėje esantį pelkėtą mišką.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šio sparno jėga - reitarų
-    sutelkta ugnis, husarų geležinis smūgis,
-    Lietuvos totorių ir kazokų manevringumas
-    persekiojant bėgantį priešą. Sparno užda-
-    vinys - apeiti priešininko dešinįjį sparną,
-    nustumti jį nuo Dauguvos kranto ir bendro-
-    mis jėgomis su visa Lietuvos kariuomene
-    nublokšti švedus į šiaurėje esantį pelkėtą
-    mišką ir ten juos sunaikinti.
-
-    ## Puslapis 107
-
-    Neišsivertė didysis
-    etmonas ir be karinių
-    gudrybių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę
-
-    Mūšio padariniai
-
-    Ordino sutriuškinimas buvo toks stiprus,
-    kad iš vokiečių jungo išsivadavo Rytinė
-    Žiemgala, paskui sukilo kuršiai, saremie-
-    čiai estai. Vokiečių ekspansija buvo nu-
-    blokšta iki Dauguvos, į XIII a. pradžios
-    ribas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-005
-  santrauka: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šis mūšis
-
-    5 tapo lemtingu lūžiu, tada kai į Lietuvą atėjo didelės permainos - ji iš žūtbutinį karą prieš visos Vakarų Europos remiamus
-
-    “kryžiuočius kovojančios, krikščioniškosios Europos nepripažįstamos, bet imperinį mastą pasiekusios pagoniškos valstybės
-
-    tapo svarbia krikščioniškosios Europos politine žaidėja, prisiėmusia krikščionybės gynėjos rytuose vaidmenį
-
-    +X
-
-    AN
-    a!
-    2
-
-    ## Puslapis 19
-
-    [tuščias arba OCR neatpažino teksto]
-
-    ## Puslapis 20
-
-    NUO PAGONIŠKOSIOS IKI
-    VYTAUTO IMPERIJOS
-
-    Baltų gentys
-    Pirmajame tūkstantmetyje po Kristaus baltų gentys ir toliau gy-
-    veno plačioje teritorijoje - nuo maždaug Vyslos ir Dauguvos
-    žemupių iki dabartinės Maskvos. Didžiojo tautų kraustymosi epo-
-    choje joms tekdavo gintis nuo hunų ir kitų klajoklių puldinėjimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-006
-  santrauka: 'Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet, neatvykus Naugardo ka-
-    riuomenei, jis neįstengė paimti pilies ir, grįžęs namo, daugiau su
-    ordinu nebekariavo. Tuo tarpu Treniota su žemaičiais žygiavo
-    tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo
-    Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.
-    Tai buvo tik siaubiamieji, o ne užkariaujamieji žygiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 - c-007
   santrauka: 'Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -512,122 +330,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-
-- c-008
-  santrauka: 'Narbutas Krivių Krivaičio valdžią vaizdavo kaip kadaise apėmusią žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dabar pateiksime šį lietuvių mitologijos gabalėlį.
-    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
-    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
-    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
-    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
-    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
-    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
-    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
-    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
-    nių apeigų papročių, vienodų su jų lietuvių apeigomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-009
-  santrauka: 'Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    1663)*.
-    456
-
-    ## Puslapis 456
-
-    VIII priedas
-    Daug buvo ištyrinėta šaltinių, norint išsiaiškinti Dauguvos
-    upės pavadinimo kilmę. Mums iš Ukmergės apskrities pavyko
-    gauti dainelę, kuri rodo, kad šis pavadinimas atsirado nuo „ De­
-    wine Upes“: dainininkas sako, jog pasikinkys į roges žirgelius ir
-    važiuos grobio:
-    Založym do san koniki,
-    Osiadlamy wrone žrebie,
-    Pojedziem wojowac,
-    Wojnę toczyč w Ryški kraj,
-    O žeby tylko wody zamarzly.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-010
-  santrauka: 'Narbutas dainelės žodį „dewine“ aiškino kaip „Dwine upe“ ir siejo jį su devintąja upe, Dvina arba Dauguva.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    457
-
-    ## Puslapis 457
-
-    Iš Lietuvos važiuojant į Livoniją, reikia pervažiuoti nemažai
-    upių. Dainininkas suskaičiuoja net astuonias, o „dewine“, tai
-    yra „Dwine upe“, devintoji upė, tai, be abejo, Dvina (Dauguva).
-    Bet kodėl taip vadinama ir antroji Dvina, šiaurinė, įtekanti į Bal­
-    tąją jūrą?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-011
-  santrauka: 'Narbutas teigė, kad potvynių ir šiaurės vėjų sukelti pokyčiai labiausiai paveikė Baltijos pakrantes tarp Vyslos ir Dauguvos žiočių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Čia dar kartą pakartosime
-    aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­
-    tinius pokyčius, kuriuos sukėlė dideli potvyniai ar ilga­
-    laikiai smarkūs-šiaurės vėjai. Šie pokyčiai labiausiai pa­
-    veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos
-    žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju­
-    desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės
-    drebėjimai2. Kalbant apie mūsų žemės formavimąsi, ne­
-    1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė
-    jį iš Trakijos į Makedoniją (Noet Fr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-012
-  santrauka: 'Narbutas atmetė mokslininkų nuomonę, kad gintaro kelio upė galėjusi būti Prieglius arba Vakarų Dauguva, ir rinkosi Nemuną.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Skitai gintarą turėdavo gauti keliu,
-    ėjusiu palei Baltijos jūrą upe, kuri į ją įteka. Mokslininkai klydo ma­
-    nydami, jog tai galėjo būti Prieglius arba Vakarų Dauguva. Čia tin­
-    kamiausias
-    būtų
-    Nemunas,
-    nes
-    labiausiai
-    susijęs
-    su
-    Pripete.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
 
 - c-013
   santrauka: 'Narbutas rašė, kad skandinavų Reithgothland vadintas kraštas tęsėsi nuo Nemuno žemupio dešiniosios pakrantės iki Dauguvos žemupio.'
@@ -772,7 +474,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182751
-    - t-182752
 
 - id: c-166400
   redaktorius: "A. Šapoka"
@@ -795,20 +496,23 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - id: c-171569
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 97"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
-    sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
-    kalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­
-    ją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­
-    sų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo
-    Gercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis
-    Daugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;
-    kiek kartų jį turėję su savimi kovodami su livoniečiais, tiek
-    kartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės
-    keršydamas už nužudymą Dangeručio, kuris, kaip jie manė,
-    nelaisvėje buvo nužudytas tuo kalaviju.
+    Priklausomai nuo gėrimo pagaminimo būdo
+    dievas įgydavo Bubilo arba Ragučio vardą, kaip tai pastebima
+    ¡r kitose mitologijose.
+    Iš padavimų apie graikų dievus žinome, kad garsus prana­
+    šautojas Melampas, kuris gyveno Proito laikais, dar iki Trojos
+    karo, apie 1380 metus prieš Kristaus gimimą, pirmasis Graiki­
+    joje įvedė Bakcho garbinimą. Todėl tais laikais, kai lietuvių
+    tauta brandino savo stabmeldystę, to dievo garbinimas kitur
+    buvo labai senas ir visuotinai paplitęs. Lietuviai įvedė tą gar­
+    binimą savo šalyje, tačiau natūralu, kad, neturėdami vynuo­
+    gių, savo Bakchui turėjo priskirti kitas ypatybes ir atributus,
+    nes žmonių polinkiai visur panašūs, piktnaudžiaujančių svai­
+    ginamaisiais gėrimais ištvirkimas visur dangstomas dievobai­
+    mingumo skraiste.
+  citata_rodoma: "Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje\nsugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties\nkalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­\nją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­\nsų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo\nGercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis\nDaugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;\nkiek kartų jį turėję su savimi kovodami su livoniečiais, tiek\nkartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės\nkeršydamas už nužudymą Dangeručio, kuris, kaip jie manė,\nnelaisvėje buvo nužudytas tuo kalaviju."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -819,8 +523,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - id: c-171570
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 429"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dabar pateiksime šį lietuvių mitologijos gabalėlį.
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
@@ -839,60 +542,10 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   pagrindzia:
     - t-188681
 
-- id: c-171571
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    1663)*.
-    456
-
-    ## Puslapis 456
-
-    VIII priedas
-    Daug buvo ištyrinėta šaltinių, norint išsiaiškinti Dauguvos
-    upės pavadinimo kilmę. Mums iš Ukmergės apskrities pavyko
-    gauti dainelę, kuri rodo, kad šis pavadinimas atsirado nuo „ De­
-    wine Upes“: dainininkas sako, jog pasikinkys į roges žirgelius ir
-    važiuos grobio:
-    Založym do san koniki,
-    Osiadlamy wrone žrebie,
-    Pojedziem wojowac,
-    Wojnę toczyč w Ryški kraj,
-    O žeby tylko wody zamarzly.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188682
-
-- id: c-171572
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    457
-
-    ## Puslapis 457
-
-    Iš Lietuvos važiuojant į Livoniją, reikia pervažiuoti nemažai
-    upių. Dainininkas suskaičiuoja net astuonias, o „dewine“, tai
-    yra „Dwine upe“, devintoji upė, tai, be abejo, Dvina (Dauguva).
-    Bet kodėl taip vadinama ir antroji Dvina, šiaurinė, įtekanti į Bal­
-    tąją jūrą?
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188683
-
 - id: c-175403
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Čia dar kartą pakartosime
     aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­
@@ -914,8 +567,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - id: c-175404
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 145."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Skitai gintarą turėdavo gauti keliu,
     ėjusiu palei Baltijos jūrą upe, kuri į ją įteka. Mokslininkai klydo ma­
@@ -938,15 +590,19 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - id: c-175405
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 248."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tam tikrą
-    šios žemės dalį skandinavai vadino Reithgothland. Sis
-    pavadinimas kildinamas1 iš senovės germanų žodžio
-    Rieth, Ried, Reiih, ir reiškia žemą kraštą, miškingą že­
-    mumą. Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios
-    pakrantės ligi Dauguvos žemupio.
+    Tokios nuomonės yra
+    visi senovės tyrinėtojai, išskyrus Depingą, kuris be jokių
+    pagrįstų įrodymų priskiria jam čia ir Pavyslę1 2. Jame sa­
+    vo valdymą plėtė gotai, todėl kraštas ir buvo vadinamas
+    Gotija su būdvardžiu, reiškiančiu krašto gamtos savybę.
+    Pirmiausia šis pavadinimas buvo taikomas tiesiog Že­
+    maitijai, o .vėliau, didėjant skandinavų agresijai, pamažu
+    perėjo į kairiąją Nemuno pakrantę Vyslos link, taip pat
+    į kairiąją Vyslos pakrantę ir kitapus Oderio net ligi Vag-
+    rijos3.
+  citata_rodoma: "Tam tikrą\nšios žemės dalį skandinavai vadino Reithgothland. Sis\npavadinimas kildinamas1 iš senovės germanų žodžio\nRieth, Ried, Reiih, ir reiškia žemą kraštą, miškingą že­\nmumą. Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios\npakrantės ligi Dauguvos žemupio."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

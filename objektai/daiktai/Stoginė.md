@@ -59,21 +59,7 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Kūlimo jaujoje darbo tvarka.md#claim-t-195369|Kūlimo jaujoje darbo tvarka]]: Kūlimo rytą šeimininkas pirmasis pakyla, visi eina šerti gyvulių, o po pusryčių šeimininkas kūrena jaują ir vėto krūvą.
 - susijęs iš [[objektai/zodynas/Krūva.md#claim-t-195462|Krūva]]: Krūva šiame šaltinyje reiškia iškultus ir į vieną vietą sustumtus javus.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Jei
-        tose stoginėse netalpino javų ar pašaro, tad krovė ant lauko į žagus ar bragus^239 , kupetas taip
-        vadinamas [7]; bragas buvo ketvirtainis su šiaudų ar stembrų^240 stogeliu, o žagas be stogo,
-        nuokamieniai^241 sukrautas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Citatos
 

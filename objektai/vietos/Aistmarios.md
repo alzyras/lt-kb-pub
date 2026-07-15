@@ -12,14 +12,14 @@ datos:
   - '2026 m.'
 date_start: '1237'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - pilis
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -74,27 +74,6 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
 - susijęs iš Kuršių nerija: Ordino lotyniškuose dokumentuose vardu Neria iš pradžių vadinta tik Aismarių nerija.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58821|šeimyna familia domus]]: Kilmingi Varmės vyrai su namais ir šeimynomis persikėlė pas Baigos brolius.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Hermano Wartberges kronikoje aprašyta siena Priegliumi turėjo eiti iki Aistmarių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­
-    čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­
-    liaus ir Dauguvos. Hermano Wartberges kronikoje yra smulkiau
-    pažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,
-    siena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai
-    paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
-    krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
-    Aistmarių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: 'Sembos žemėje, Aistmarių pakrantėje, stovėjo pilis beveik priešais Brandenburgo pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -141,17 +120,18 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
 - id: c-92170
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Daug
-    kartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,
-    atsiteisė blogu už gera ir neapykanta už meilę. Jis sugalvojo būdą, kaip  jį pribaigti,
-    ir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios
-    Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,
-
-      409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m.— Santyro, vėliau —
-    Kristburgo, Kulmo komtūras, nuo 1273 m.— Prūsijos krašto magistras.
+    Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
+    kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
+    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
+    137 (132). Apie atskirų Prūsijos žemės pilių bei miestų kovas per antrąją atskatūnybę,
+    pirmiausia apie Balgą
+    Bendrais bruožais aprašius karus, vykusius antrosios atskalūnybės metais, reikia
+    papasakoti ir apie kiekvienos pilies bei kiekvieno Prūsijos žemės valsčiaus kovas. Tegu
+    nesijaudina skaitytojas, jeigu kai kurių antrosios atskalūnybės paminėtų ar paminėtinų
+    karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
+    atminties ir vargu ar kas galėtų juos tinkamai išdėstyti.
   citata_rodoma: "Jis sugalvojo būdą, kaip  jį pribaigti,\nir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios\nSembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,\n\n  409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m."
   statusas: verified
   teiginio_tipas: faktas

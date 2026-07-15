@@ -7,13 +7,13 @@ datos:
   - '477 m.'
 date_start: '477'
 date_end: ''
+amziai:
+  - 'V'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
-amziai:
-  - 'V'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,6 +55,13 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   teiginys: "Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją."
   pagrindžia:
     - c-175599
+
+<a id="claim-t-197903"></a>
+- t-004
+  global_id: t-197903
+  teiginys: "Beveik tuo pat metu Norike kilo kažkokie neramumai, kurie ir atviliojo ten herulus."
+  pagrindžia:
+    - c-175597
 - susijęs iš [[objektai/asmenys/Febanas.md#claim-t-191395|Febanas]]: Narbuto pasakojime rugių karalius Febanas pernelyg engė Odoakro sąjungininkus Norike ir žuvo kautynėse su Odoakru.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-192408|Herulai]]: Narbutas rašo, kad vadui nepalankūs herulai kreipėsi į savo brolius, įsikūrusius Norike.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-192409|Herulai]]: Po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus, ketindama apsigyventi šalia rugių arba Noriko Rugilandijoje.
@@ -70,19 +77,18 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
 - susijęs iš [[objektai/ivykiai/Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją.md#claim-t-191050|Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją]]: Odoakro brolis Onulfas, vadovaudamas herulams, privertė Frederiką trauktis į Meziją, o po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
 - susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191045|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudegino Juvavą prie Saurus upės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    321
-    Nors šio valdovo valdžia buvo skirta vidinei tvarkai
-    Italijoje įvesti ir išorinei taikai išsaugoti, tačiau ne kar­
-    tą jam reikėjo rengti karo žygius.
     Beveik tuo pat metu Norike kilo kažkokie neramumai,
     kurie ir atviliojo ten herulus. 477 metais jie sudegino gar­
     sią romėnų koloniją Juvavą prie Saurus upės — dabar
     tai Zalcburgas prie Zalcacho upės.
+    Taigi 478 metais reikėjo saksų priešakyje plaukti į
+    Galiją, kur, jam išsilaipinus prie Ligeros žiočių, tenykš­
+    tis karalius nusižemino ir sudarė sąjungą, kokios iš jo
+    reikalavo Odoakras.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -90,57 +96,15 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Narbuto pasakojime 486 m. Norike likusius sąjungininkus engė rugių karalius Febanas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Norike likusius jo sąjungininkus per­
-    nelyg engė rugių karalius Febanas. Jis, engiamųjų pa­
-    prašytas pagelbėti, išvyko pats ir nugalėjo rugius, kurių
-    karalius žuvo kautynėse, o jo sūnus Frederikas išsigel­
-    bėjo pabėgdamas iš krašto. Tai buvo 486 metais*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Nuolatiniai skundai ir ap­
-    maudas lėmė žygį Odoakro brolio Onulfo, kuris, vado­
-    vavęs herulams, antrąkart privertė Frederiką pasitraukti
-    iš krašto, šįsyk į Meziją, kur valdė Teodorikas; jie abu
-    šiek tiek giminiavosi1. Po šios pergalės, norėdamas vi­
-    siškai apsaugoti herulus ir senus Noriko gyventojus nuo
-    visokios piktų ir nedraugiškų rugių įtakos, visų pasiten­
-    kinimui, perkėlė juos į Italiją. Bet rugiai, užuot buvę dė­
-    kingi už tai, kad vien jiems liko derlingas kraštas, supy­
-    ko ant Odoakro, nes jis atėmė jų belaisvius ir turtą; jis
-    stengėsi senus Noriko romėnų kolonistus ir kitus su jais
-    nesigiminiavusius gyventojus paversti vergais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+    - t-004
 
 ## Citatos
 
 - id: c-175597
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 318"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 318."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    321
     Nors šio valdovo valdžia buvo skirta vidinei tvarkai
     Italijoje įvesti ir išorinei taikai išsaugoti, tačiau ne kar­
     tą jam reikėjo rengti karo žygius.
@@ -148,18 +112,23 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
     kurie ir atviliojo ten herulus. 477 metais jie sudegino gar­
     sią romėnų koloniją Juvavą prie Saurus upės — dabar
     tai Zalcburgas prie Zalcacho upės.
+    Taigi 478 metais reikėjo saksų priešakyje plaukti į
+    Galiją, kur, jam išsilaipinus prie Ligeros žiočių, tenykš­
+    tis karalius nusižemino ir sudarė sąjungą, kokios iš jo
+    reikalavo Odoakras.
+  citata_rodoma: "Beveik tuo pat metu Norike kilo kažkokie neramumai, \nkurie ir atviliojo ten herulus. 477 metais jie sudegino gar­\nsią romėnų koloniją Juvavą prie Saurus upės — dabar \ntai Zalcburgas prie Zalcacho upės.\nTaigi 478 metais reikėjo saksų priešakyje plaukti į \nGaliją, kur, jam išsilaipinus prie Ligeros žiočių, tenykš­\ntis karalius nusižemino ir sudarė sąjungą, kokios iš jo \nreikalavo Odoakras."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192827
+    - t-197903
 
 - id: c-175598
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 319"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Norike likusius jo sąjungininkus per­
     nelyg engė rugių karalius Febanas. Jis, engiamųjų pa­
@@ -176,8 +145,7 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
 - id: c-175599
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 319"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nuolatiniai skundai ir ap­
     maudas lėmė žygį Odoakro brolio Onulfo, kuris, vado­

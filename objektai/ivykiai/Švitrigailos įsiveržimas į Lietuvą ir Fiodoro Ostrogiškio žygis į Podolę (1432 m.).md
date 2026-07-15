@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.
+Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai. Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -53,45 +53,35 @@ Nenurodyta
   teiginys: "Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai."
   pagrindžia:
     - c-169201
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Sėkmingai susiklostė Fiodorui žygio pradžia,
-    tačiau pirmosios sėkmės dėl žmonių laimės nepastovu­
-    mo ne visuomet leidžia sulaukti panašaus galo. Neti­
-    kėtai užpuolęs Podolę, jis netruko ją sugrąžinti Boles­
-    lovui. Karalius, norėdamas sustabdyti priešą, skubiai
-    atvyko į Lvovą, o iš ten išsiuntė priešais Fiodorą Vin­
-    centą iš Šamotulų, Rusios vaivadą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196302"></a>
+- t-002
+  global_id: t-196302
+  teiginys: "Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos."
   pagrindžia:
-    - t-001
+    - c-169201
 
 ## Citatos
 
 - id: c-169201
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 443"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 443."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Sėkmingai susiklostė Fiodorui žygio pradžia,
-    tačiau pirmosios sėkmės dėl žmonių laimės nepastovu­
-    mo ne visuomet leidžia sulaukti panašaus galo. Neti­
-    kėtai užpuolęs Podolę, jis netruko ją sugrąžinti Boles­
-    lovui. Karalius, norėdamas sustabdyti priešą, skubiai
-    atvyko į Lvovą, o iš ten išsiuntė priešais Fiodorą Vin­
-    centą iš Šamotulų, Rusios vaivadą.
+    Netrukus pasiū­
+    lė savo pagalbą kryžiuočiams
+    Jurgis Butrimas, turėjęs didelius turtus Žemaitijoje. Jo
+    žodis daug reiškė senatui, mat garsėjo apsukrumu, iš­
+    kalbingumu ir visų pripažintu protingumu, nes buvo
+    daug keliavęs po svetimus kraštus. Jis davė dingstį ne­
+    ramumams. Vis dėlto lėmė ne jo, o blaiviau galvojan­
+    čių žmonių nuomonė. Valstybės ištarme buvo įsakyta
+    Liudvikui kaip priešui kartu su savo draugais kuo
+    greičiausiai išsinešdinti iš Lietuvos.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185840
+    - t-196302

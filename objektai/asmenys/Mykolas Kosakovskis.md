@@ -34,8 +34,8 @@ Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu gl
   teiginys: "Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu globėju, kurį esą rodė karūna."
   pagrindžia:
     - c-172944
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu globėju, kurį esą rodė karūna.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -59,15 +59,17 @@ Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu gl
 - id: c-172944
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 244"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­
-    suomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę
-    iš Rytų. Tokia buvo ir pono Kosakovskio nuomonė: tai buvęs
-    Kauno miesto dievas-globėjas, apie ką byloja jo karūna. Trys
-    žuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­
-    kančias upes: Nerį, Nemuną ir Nevėžį.
+    Pirmąjį būdavo galima
+    pastebėti tik danguje prieš griaustinį, ir jis yra vadinamas „Jessa “,
+    o antrąjį galima matyti tik su savo strėlėmis, tai yra žaibais, besi­
+    vejantį blogį. Pastarasis dievas buvo vadinamas Perkūnu, o sla­
+    viškai - Perimu. Lietuvių mitologijoje „Jessa “ nėra. Vadinasi, bu­
+    vo tik Jupiteris, turėjęs antrąją ypatybę*.
+    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
+    piorunkomis (Piorunki).
+  citata_rodoma: "Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­\nsuomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę\niš Rytų. Tokia buvo ir pono Kosakovskio nuomonė: tai buvęs\nKauno miesto dievas-globėjas, apie ką byloja jo karūna. Trys\nžuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­\nkančias upes: Nerį, Nemuną ir Nevėžį."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

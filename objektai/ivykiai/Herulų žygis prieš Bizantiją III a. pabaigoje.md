@@ -44,34 +44,9 @@ Nenurodyta
 <a id="claim-t-191031"></a>
 - t-001
   global_id: t-191031
-  teiginys: "Narbuto pasakojimu, III a. pabaigoje herulai surengė žygį prieš Bizantiją su trijų šimtų ginkluotų jūros laivų laivynu."
+  teiginys: 'Narbuto pasakojimu, III a. pabaigoje herulai surengė žygį prieš Bizantiją su trijų šimtų ginkluotų jūros laivų laivynu.'
   pagrindžia:
     - c-173913
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbuto pasakojimu, III a. pabaigoje herulai surengė žygį prieš Bizantiją su trijų šimtų ginkluotų jūros laivų laivynu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pažinę Bizantiją, jie stebėjosi jos sostinės
-    turtais ir troško, godumo apakinti, ją užkariauti; taigi su­
-    10*
-    291
-
-    ## Puslapis 302
-
-    rengė žygį prieš šį galingą miestą. Jis įvyko apie Iii am­
-    žiaus pabaigą, mirus imperatoriui Probui; tikslios da­
-    tos istorikai nenurodo. Tačiau lierulų laivyną sudarė
-    trys šimtai ginkluotų jūros laivų, kuriuose buvo iš gim­
-    tosios žemės Vakaruose atvykę kariai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -97,4 +72,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191031
+    - t-001

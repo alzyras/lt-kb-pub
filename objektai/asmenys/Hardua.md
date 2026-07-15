@@ -39,7 +39,6 @@ Narbuto teigimu, pagal Hardua rankraščius ir stebėjimus Plinijaus Baltija vad
 - susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190784|Plinijus]]: Teodoro Narbuto teigimu, Plinijaus Baltija pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.
 - susijęs iš Baltija: Narbutas nurodo, kad Plinijaus Baltija, remiantis Hardua rankraščiais ir stebėjimais, turėtų vadintis Basilia.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbuto teigimu, pagal Hardua rankraščius ir stebėjimus Plinijaus Baltija vadinta sala turėtų būti vadinama Basilia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -64,8 +63,7 @@ Narbuto teigimu, pagal Hardua rankraščius ir stebėjimus Plinijaus Baltija vad
 - id: c-174289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
@@ -73,7 +71,10 @@ Narbuto teigimu, pagal Hardua rankraščius ir stebėjimus Plinijaus Baltija vad
     kelionės nuo sausumos atstumu. Kiek čia nepatikimumo!2
     Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­
     roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
-    Amelandu.
+    Amelandu. Jam rūpėjo įrodyti, jog romėnų kariai rinkę
+    gintarą, todėl jis teigė, jog jo buvo turtinga visa vaka­
+    rinė Europos pakrantė.
+  citata_rodoma: "Sala, kurią Plinijus vadina Baltija, remdamasis visais\nHardua rankraščiais ir stebėjimais, turėtų vadintis Basi-\nlia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų\nkelionės nuo sausumos atstumu. Kiek čia nepatikimumo!2\nFosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­\nroje, Austraviją, arba Glesariją, nurodo esant fryzų sala\nAmelandu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

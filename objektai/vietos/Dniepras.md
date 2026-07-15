@@ -71,9 +71,9 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - c-37335
 
-<a id="claim-t-97838"></a>
+<a id="claim-t-97827"></a>
 - t-005
-  global_id: t-97838
+  global_id: t-97827
   teiginys: "Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską."
   pagrindžia:
     - c-46480
@@ -85,9 +85,9 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - c-43402
 
-<a id="claim-t-97833"></a>
+<a id="claim-t-97829"></a>
 - t-007
-  global_id: t-97833
+  global_id: t-97829
   teiginys: "Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine."
   pagrindžia:
     - c-92254
@@ -105,6 +105,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginys: "1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį."
   pagrindžia:
     - c-92257
+    - c-92246
 
 <a id="claim-t-97832"></a>
 - t-010
@@ -113,99 +114,78 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - c-37336
 
-<a id="claim-t-97833"></a>
-- t-011
-  global_id: t-97833
-  teiginys: "Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine."
-  pagrindžia:
-    - c-92254
-
 <a id="claim-t-97834"></a>
-- t-012
+- t-011
   global_id: t-97834
   teiginys: "Prie Dniepro Vytautas dėl šalčių raginamas mesti kovą su totoriais atsakė, kad karą reikia tęsti nepaisant šalčio."
   pagrindžia:
     - c-37337
 
 <a id="claim-t-97835"></a>
-- t-013
+- t-012
   global_id: t-97835
   teiginys: "Ties Lojevu persikelta į dešinįjį Dniepro krantą ir pasukta vakarų kryptimi Mozyriaus bei Slucko link."
   pagrindžia:
     - c-43403
 
 <a id="claim-t-97836"></a>
-- t-014
+- t-013
   global_id: t-97836
   teiginys: "Rugpjūčio pradžioje kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene."
   pagrindžia:
     - c-43402
 
 <a id="claim-t-97837"></a>
-- t-015
+- t-014
   global_id: t-97837
   teiginys: "Dniepras, dar vadintas Borysthenu, buvo minimas kaip prasidedantis pas neurus."
   pagrindžia:
     - c-32014
 
-<a id="claim-t-97838"></a>
-- t-016
-  global_id: t-97838
-  teiginys: "Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską."
-  pagrindžia:
-    - c-46480
-
 <a id="claim-t-97839"></a>
-- t-017
+- t-015
   global_id: t-97839
   teiginys: "Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai."
   pagrindžia:
     - c-92255
 
 <a id="claim-t-97841"></a>
-- t-018
+- t-016
   global_id: t-97841
   teiginys: "Prie Dniepro Vytautas atsisakė nutraukti kovą su totoriais dėl didelių šalčių."
   pagrindžia:
     - c-37337
 
 <a id="claim-t-97842"></a>
-- t-019
+- t-017
   global_id: t-97842
   teiginys: "Vytautas rėmė Kijevą, kuris Dniepro upe turėjo susisiekimą su Juodąja jūra."
   pagrindžia:
     - c-37336
 
-<a id="claim-t-97843"></a>
-- t-020
-  global_id: t-97843
-  teiginys: "1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį."
-  pagrindžia:
-    - c-92246
-
 <a id="claim-t-97844"></a>
-- t-021
+- t-018
   global_id: t-97844
   teiginys: "Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi."
   pagrindžia:
     - c-92255
 
 <a id="claim-t-97845"></a>
-- t-022
+- t-019
   global_id: t-97845
   teiginys: "Vytauto valstybės teritoriją su Juodosios jūros kryptimi jungė platus Dniepro baseinas."
   pagrindžia:
     - c-37335
 
 <a id="claim-t-183011"></a>
-- t-023
+- t-020
   global_id: t-183011
   teiginys: "Po šešerių metų paliaubų Maskvai paliktos žemės nulėmė, kad jos sienos jau siekė Dnieprą."
   pagrindžia:
     - c-166404
 
 <a id="claim-t-183782"></a>
-- t-024
+- t-021
   global_id: t-183782
   teiginys: "Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link."
   pagrindžia:
@@ -237,7 +217,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - susijęs iš Lojevas: Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė vakarų kryptimi Mozyriaus bei Slucko link.
 - susijęs iš Podolė: 1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.
 - susijęs iš Podolė: Kijevo kunigaikštystė ir Podolė, tuomet nusidriekusi iki Dniepro ir Dniestro žiočių, priklausė Lietuvai.
-- susijęs iš Polockas: Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
 - susijęs iš Pripetė: Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla.
 - susijęs iš Ryga: Ryga buvo turtingas miestas, per kurį ėjo prekyba su Dauguvos ir Dniepro upyno miestais.
 - susijęs iš Smolenskas: Vosylius III su Glinskiu artinosi prie Smolensko, laikyto svarbiausiu Dniepro aukštupį saugančiu strateginiu punktu.
@@ -267,8 +246,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187441|Aukso orda]]: Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187442|Aukso orda]]: Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-183122|Baltai]]: Baltų gentys pradėjo formuotis III tūkstantmečio pr. Kr. pabaigoje, kai indoeuropiečiai pajungė ir asimiliavo vietinius gyventojus.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-05243|Didžiojo Naugardo respublika]]: Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-103736|Didžiojo Naugardo respublika]]: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116685|Hanza]]: Vytauto laikų Lietuva buvo kraštas, kurio negalėjo aplenkti Hanzos ir kiti pirkliai.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120190|Karaimai]]: Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05262|Krymo chanatas]]: Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.
@@ -284,7 +261,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - susijęs iš [[objektai/grupes/Tochtamišo totoriai.md#claim-t-171389|Tochtamišo totoriai]]: Tochtamišo totoriai buvo įtraukti į Lietuvos jungtinių pajėgų sudėtį.
 - susijęs iš [[objektai/grupes/Tochtamišo totoriai.md#claim-t-171391|Tochtamišo totoriai]]: Vytauto kariuomenėje prie Vorsklos buvo keli tūkstančiai Tochtamišo totorių.
 - susijęs iš [[objektai/grupes/Tochtamišo totoriai.md#claim-t-183668|Tochtamišo totoriai]]: Tochtamišo totoriai buvo Lietuvos jungtinių pajėgų dalis susidūrime su Timūr-Kutluko kariuomene prie Vorsklos.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171401|Totoriai]]: Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171411|Totoriai]]: Vytautas Vilniuje ne kartą skelbdavo totorių kunigaikščius chanais arba carais.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171414|Totoriai]]: Vytautas po pergalių prieš totorius savo sostinėje ne kartą skelbdavo totorių kunigaikštį chanu arba caru.
 - susijęs iš [[objektai/grupes/Vikingai.md#claim-t-182930|Vikingai]]: Prie Dauguvos ir Dniepro kelio į Bizantiją ilgainiui atsirado vikingų sodybų, saugojusių upe keliaujančius pirklius nuo plėšikų.
@@ -325,7 +301,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - susijęs iš Lietuva: Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros.
 - susijęs iš Luckas: Ivinskio teigimu, 1398 m. žygyje paimti karaimai veikiausiai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
 - susijęs iš Mažoji Azija: Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu neteko reikšmės Europai.
-- susijęs iš Mozyrius: Ties Lojevu žygio dalyviai persikėlė į dešinįjį Dniepro krantą ir pasuko vakarų kryptimi Mozyriaus bei Slucko link.
 - susijęs iš Nemuno-Dauguvos-Dniepro plotas: Viduriniame geležies amžiuje baltai ir toliau gyveno Nemuno, Dauguvos ir Dniepro plote, nedaug tepajudėdami.
 - susijęs iš Okos baseinai: I tūkstantmetyje po Kr. baltų genčių apgyvendintas arealas driekėsi iki Dniepro ir Okos baseinų rytuose.
 - susijęs iš Podolė: 1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo plačią Podoliją palei Dniestrą.
@@ -334,7 +309,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - susijęs iš Smolenskas: Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską.
 - susijęs iš Sožos upė: S. Podobaila pasirinko gynybinę vietą tarp Dniepro ir Sožos žiočių, apsuptą pelkių, griovių ir pylimų.
 - susijęs iš Tavanė: 1398 m. Vytautas prie Žemutinio Dniepro iš molio ir akmenų pastatė Tavanės pilį, pavadintą šv. Jono vardu.
-- susijęs iš Trakai: To žygio metu paimti karaimai, kaip spėjama, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
 - susijęs iš Viduržemio jūra: Seniausiais laikais lietuviai upėmis pasiekdavo Viduržemio pajūrį.
 - susijęs iš Viduržemio jūra: Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu prarado reikšmę Europai.
 - susijęs iš Vilnius: Nuo XIV amžiaus pirmos pusės Vilnius ir Kremlius pateikiami kaip Lietuvos ir Maskvos dinastinio antagonizmo ašys.
@@ -342,7 +316,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - susijęs iš Volynija: Vytauto laikais Volynijos miestus sausumos keliais lankydavo Krokuvos ir vokiečių pirkliai.
 - susijęs iš Vorskla: Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.
 - susijęs iš Vorskla: Rugpjūčio pradžioje Lietuvos jungtinė kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene.
-- susijęs iš Černigovas: Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
 - susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
 - susijęs iš [[objektai/zodynas/Mahometoniškas tikėjimas.md#claim-t-32754|Mahometoniškas tikėjimas]]: Vytauto privilegijas gavę Lietuvos totoriai išlaikė mahometonišką tikėjimą ir papročius.
 - susijęs iš [[objektai/autoriai/A. Kočubinskij.md#claim-t-30512|A. Kočubinskij]]: A. Kočubinskij prieš Pirmąjį pasaulinį karą teigė, kad priešistoriniais laikais baltai gyveno gerokai toliau į rytus.
@@ -355,329 +328,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05208|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santykių atsiradimu stepėje.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05209|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto „arklių girdymas“ Juodojoje jūroje ilgai išliko žmonių atmintyje.
 - susijęs iš Podolė: 1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Panonijoje (vakarų Vengrija
-    ir dalis Austrijos) tada gintaro prekybai reikšmę įgijo Carnuntum
-    (Austrijoje prie Hainburgo), kuris jau Plinijui buvo žinomas. Jis
-    du kartu paminėjo ir « neurus, pas kuriuos Dniepras (Borysthenes)
-    prasideda ».
-    Nuo rytų Pabaltijo krantų į Romos imperiją didėjanti prekyba
-    gintaro, kuris ten buvo aukštai vertinamas, atnešė vieną kitą pro­
-    švaistę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-015
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tad Vytautas čia labiau pareida­
-    vo ir nuo geografinės valstybės būklės ir nuo politinių bei kul­
-    tūrinių sąlygų.
-    Geografinė jo didingos valstybės būklė prekybai buvo gana
-    patogi, nes jos teritorija siekė Baltijos ir Juodųjų jūrų, su ku­
-    riomis ją jungė platūs Nemuno ir Dniepro baseinai, Pietų Būgo,
-    Dniestro ir kitos upės. Nuo Lietuvos buvo taip pat netoli tokie
-    anų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­
-    vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
-    tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
-    buvo apsupta pirklių gyvenamų ir lankomų žemių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-    - t-022
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kroku­
-    vos pirkliams Vytautas (1403) užtikrino visoje savo valstybėje
-    apsaugą, leisdamas jiems laisvų laisviausiai prekiauti Lietuvo­
-    je ir Rusijoje.
-    Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,
-    remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą
-    su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­
-    jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
-    Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
-    cijos pirkliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-    - t-010
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas tuo at­
-    žvilgiu buvo tikras kryžiuočių mokinys, realistas ir praktikas.
-    Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
-    dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
-    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
-    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
-    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
-    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-    - t-012
-
-- c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Čia buvo ir
-    Tochtamišo totoriai (keli tūkstančiai), 400
-    pavienių lenkų riterių, tokių kaip Spytekas
-    iš Melštyno, Krokuvos vaivada ir Podolės
-    valdytojas bei kiti. Buvo valakai, kryžiuo-
-    čių dalinys (100 riterių), vadovaujamas
-    Ragainės komtūro Markvardo. Rugpjūčio
-    pradžioje kariuomenė, persikėlusi per
-    Dnieprą, jo kairiuoju krantu patraukė į
-
-    Šarvinių
-    pirštinių
-    rekonstrukcija
-
-    stepes, kur laukė prie
-    kairiojo Dniepro intako
-    Vorsklos, prie Ordos valdų pari-
-    bių, susitiko su Aukso ordos chano
-    Timūr-Kutluko kariuomene.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-014
-
-- c-006
-  santrauka: 'Ties Lojevu persikelta į dešinįjį Dniepro krantą ir pasukta vakarų kryptimi Mozyriaus bei Slucko link.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jodami stepėmis tarp
-    Lietuvos ir Maskvos valdų jie kasdien su-
-    kardavo maždaug po 25 km ir per 50 dienų
-    įveikė apie 900 km atstumą. Ties Lojevu jie
-    persikėlė į dešinįjį Dniepro krantą ir pa-
-    spartinę žygio tempą pasileido tiesiai va-
-    karų kryptimi Mozyriaus ir Slucko link.
-    Galiausiai apie liepos 20-22 d. jie sustojo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pats Smolenskas išgyveno nepriklauso-
-    mas dar iki Vytauto. Bet užtat daug geriau Algirdui sekėsi į
-    pietus nuo Smolensko. Čia jis užėmė visas Dniepro ir Desnos
-    upyno kunigaikštystes — Brianską, Trubčevską, Nau-
-    gardą Sieverską, ir kt. Visos tos kunigaikštystės buvo
-    atiduotos valdyti Algirdo sūnums ar brolėnams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-    - t-005
-
-- c-008
-  santrauka: 'Maskvai palikus Černigovą, Naugardą Sieverską, Starodubą ir Okos paupius, jos sienos jau siekė Dnieprą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
-    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
-    rą. Abi pusės pasižadėjo neliesti viena antrai pripažintų že-
-    mių ir laisvai praleisti per savo žemes kitos valstybės pasiun-
-    tinius ir pirklius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Algirdo valdos jau pasiekė Okos šaltinius, bet pačias Okos aukštu­
-    pių kunigaikštijas (Kozielską, Karačevą, Novosilį ir kt.) teužvaldė
-    Vytautas.
-    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
-    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
-    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
-    Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
-    Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-
-- c-010
-  santrauka: '1395 m. Timūro vadai pasiekė Dnieprą po Tochtamišo sumušimo ir žygio į Rytų Europą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio priešistorė
-    1395 m. galingas Vidurinės
-    Azijos, Samarkando valdovas
-    Timūras (Tamerlanas), Rytų
-    Europoje vadintas Timūr-
-    Aksaku, balandžio 15 d. su-
-    mušė Didžiosios ordos chaną
-    Tochtamišą, išvijo jį iš savo
-    valdų, pasiekė Riazanės kuni-
-    gaikštystę, sustojo Dono regi-
-    one. Jo vadai pasiekė Dnieprą.
-    Lietuvos valdovas Vytautas,
-    surinkęs didelę kariuomenę, pa-
-    skelbęs su ja einąs prieš Timūr-
-    Aksaką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-011
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Smunkanti totorių
-    valstybė po chano Berdibeko mirties (1359) suskilo į kelias dalis.
-    Tad Algirdas sėkmingai išnaudojo totorių silpnumą. Jau nuo 1357
-    m. jis ėmė įsiviešpatauti Dniepro kairėje, užimdamas ten didelius
-    plotus Desnos baseine.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-    - t-011
-
-- c-012
-  santrauka: 'Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kijevo kunigaikštystė ir Podolė,
-    anais laikais nusidriekusi iki pat
-    Dniepro ir Dniestro žiočių, priklau­
-    sė Lietuvai; Kafos* miestas prie Juo­
-    dosios jūros buvo svarbiausias Lie­
-    tuvos prekybinis uostas, jungęs su
-    Rytais, iš kur prekės būdavo gabe­
-    namos į Kijevą; pastarajam tarpinin­
-    kaujant Vilnius, kaip valstybės sos­
-    tinė, palaikė prekybinius ryšius su
-    Rytais. Lietuvių Tavano pilyje, sto­
-    vinčioje prie Dniepro, Vytautas įstei­
-    gė muitinę, vadintą Vytauto pirtimi.
-    Žr. M i c h a 1  o n i s Lit. de Morib.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-021
-    - t-017
-
-- c-013
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^262) ii skyrius: valstybės iškilimas
-    Dimitrui, o Naugardą-Sieverską kitam sūnui Kaributui-Dimitrui,
-    kai Černigovo kunigaikštijoje buvo paliktas vietinis kunigaikštis.
-    Algirdo valdos jau pasiekė Okos šaltinius, bet pačias Okos aukštu­
-    pių kunigaikštijas (Kozielską, Karačevą, Novosilį ir kt.) teužvaldė
-    Vytautas.
-    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
-    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
-    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
-    Dniepro žemupį, kuris tada buvo tuščias^13.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-009
-
-- c-014
-  santrauka: 'Po šešerių metų paliaubų Maskvai paliktos žemės nulėmė, kad jos sienos jau siekė Dnieprą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau amžinosios taikos
-    jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
-    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
-    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
-    rą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-023
-
-- c-015
-  santrauka: 'Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ekspedicines
-    pajėgas sudarė maždaug 4000 totorių, tu-
-    rėję apie 10000 žirgų. Jodami stepėmis tarp
-    Lietuvos ir Maskvos valdų jie kasdien su-
-    kardavo maždaug po 25 km ir per 50 dienų
-    įveikė apie 900 km atstumą. Ties Lojevu jie
-    persikėlė į dešinįjį Dniepro krantą ir pa-
-    spartinę žygio tempą pasileido tiesiai va-
-    karų kryptimi Mozyriaus ir Slucko link.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-024
-
 ## Citatos
 
 - id: c-32014
@@ -750,8 +400,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97842
     - t-97832
+    - t-97842
 
 - id: c-37337
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -773,8 +423,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97841
     - t-97834
+    - t-97841
 
 - id: c-43402
   sudarytojas: "Karolis Zikaras"
@@ -847,7 +497,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97838
     - t-97827
 
 - id: c-46481
@@ -882,12 +531,10 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
   citata_rodoma: "Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų\nVandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo\nne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį\nDniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje\nPodolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-97843
-
 - id: c-92252
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -933,7 +580,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97829
-    - t-97833
 
 - id: c-92255
   autorius: "Michał Baliński"
@@ -960,8 +606,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97844
     - t-97839
+    - t-97844
 
 - id: c-92257
   autorius: "Zenonas Ivinskis"

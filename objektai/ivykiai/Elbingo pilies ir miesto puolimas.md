@@ -51,43 +51,19 @@ Nenurodyta
   teiginys: "Pomeranijos kunigaikštis Sventopelkas sutelkė didelę kariuomenę ir patraukė užimti Elbingo pilies bei miesto."
   pagrindžia:
     - c-62766
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pomeranijos kunigaikštis Sventopelkas sutelkė didelę kariuomenę ir patraukė užimti Elbingo pilies bei miesto.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Elbingo pilies ir miesto puolimą
-
-      Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei
-    brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,
-    ketindamas užimti. Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
-    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip
-    ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
-    Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
-    pasitraukė sugėdintas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-62766
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 93"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 93."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Elbingo pilies ir miesto puolimą
-
-      Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei
+    Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei
     brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,
     ketindamas užimti. Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
-    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip
+    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo į sienas, taip
     ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
     Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
     pasitraukė sugėdintas.

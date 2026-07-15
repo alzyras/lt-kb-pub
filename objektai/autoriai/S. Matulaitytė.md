@@ -49,27 +49,6 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
 - susijęs iš [[objektai/autoriai/P. Žostautaitė.md#claim-t-30920|P. Žostautaitė]]: P. Žostautaitė 1968 m. paskelbė darbą „Prūsijos lietuvių vokietinimas ir pasipriešinimas jam 1848-1914 m.“.
 - susijęs iš [[objektai/autoriai/V. Merkys.md#claim-t-31039|V. Merkys]]: V. Merkys pateikė daug duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje.
 - susijęs iš [[objektai/autoriai/V. Milius.md#claim-t-31040|V. Milius]]: V. Milius pateikė duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    A. Šidlauskas
-    atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje
-    (AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo
-    (AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius
-    (AkMD, t. 12, sąs. 2, 1972). S. Matulaitytė rašo apie astro­
-    nomijos mokslo įvedimą Vilniaus universitete XVIII a. (AkMD,
-    t. 29, 1969, 69-83 p.) ir astronomijos observatorijos įsteigimą (Ak­
-    MD, t. 30, 1969, 121-129 p.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33133

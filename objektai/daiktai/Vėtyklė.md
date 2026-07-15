@@ -53,6 +53,7 @@ Nenurodyta
   teiginys: "Maža medinė javų vėtymo priemonė."
   pagrindžia:
     - c-177715
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

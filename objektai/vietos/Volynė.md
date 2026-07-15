@@ -40,7 +40,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23, Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija) 1219 m. sudarė sutartį su Volyne24, nes kilo pavojus. Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324 m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną).
+1219 m. priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir greičiausiai siekiant apginti prūsų kraštą. 1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę. Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio.
 
 ## Teiginiai
 
@@ -79,39 +79,32 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
   pagrindžia:
     - c-168569
 
-<a id="claim-t-185209"></a>
-- t-006
-  global_id: t-185209
-  teiginys: "Visos Lietuvos valdos Volynėje buvo žiauriai nuniokotos, o lenkų įgulų ginamos gyvenvietės Podolėje didesnių nuostolių nepatyrė."
-  pagrindžia:
-    - c-168570
-
 <a id="claim-t-185210"></a>
-- t-007
+- t-006
   global_id: t-185210
   teiginys: "Vilniaus seime lenkų atstovai reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes prieš sudarant uniją."
   pagrindžia:
     - c-168571
 
 <a id="claim-t-187686"></a>
-- t-008
+- t-007
   global_id: t-187686
   teiginys: "Metraštis pasakoja, kad Kazimieras atvyko į Vilnių ir sėdo valdyti visos Didžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės."
   pagrindžia:
     - c-170627
 
-<a id="claim-t-187687"></a>
-- t-009
-  global_id: t-187687
-  teiginys: "Lietuviai gaudė į visas puses Volynės keliais bėgančius totorius, juos žudė ir atiminėjo grobį."
+<a id="claim-t-196759"></a>
+- t-008
+  global_id: t-196759
+  teiginys: "Kojelavičiaus pasakojime lenkai savinosi Kijevą ir Volynę, remdamiesi Boleslovo Narsiojo pergalėmis ir naujais giminystės ryšiais."
   pagrindžia:
-    - c-170628
+    - c-178896
 - susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
 - susijęs iš [[objektai/asmenys/Aleksandras Narimantaitis.md#claim-t-186175|Aleksandras Narimantaitis]]: Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
 - susijęs iš Severskas: Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.
 - susijęs iš [[objektai/asmenys/Aleksandras Narimantaitis.md#claim-t-186175|Aleksandras Narimantaitis]]: Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184669|Algirdas (Lietuvos valdovas)]]: Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.
-- susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184757|Konstantinas Ostrogiškis]]: Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.
+- susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184757|Konstantinas Ostrogiškis]]: Po karo su Maskva karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-60477|Živinbudas]]: Živinbudo, kaip manoma, valdoma priešmindauginė Lietuva 1219 m. sudarė sutartį su Volyne.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175134|Sūduviai-jotvingiai]]: Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose siejami su 1205 m., tai yra 1209–1210 m., įvykiais.
 - susijęs iš [[objektai/ivykiai/Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.).md#claim-t-185504|Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.)]]: Gediminas pirmąjį smūgį Volynės pasienyje nukreipė į Vladimirą ir apsupo kunigaikščio Vladimiro sostinę.
@@ -125,37 +118,30 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
 - susijęs iš Kijevas: Užkariavus Kijevą, Volynę ir didelę Seversko dalį, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje.
 - susijęs iš Lietuva: 1219 m. priešmindauginė Lietuva, greičiausiai valdoma Živinbudo ir susijungusi su Žemaitija, sudarė sutartį su Volyne.
 - susijęs iš Luckas: Lietuvos metraštyje Jogaila parsikvietė Vytautą iš Prūsų ir davė jam valdyti Lucką bei visą Volynės žemę.
-- susijęs iš Petrikovičiai: Lietuviai gaudė bėgančius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį.
-- susijęs iš Sluckas: Lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį.
 - susijęs iš [[objektai/zodynas/priešmindauginė Lietuva.md#claim-t-58919|priešmindauginė Lietuva]]: 1219 m. priešmindauginė Lietuva, susijungusi su Žemaitija, sudarė sutartį su Volyne, kilus pavojui Lietuvai.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195018|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad po Klecko mūšio lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais.
 - susijęs iš [[objektai/asmenys/Eustachijus Daškevičius.md#claim-t-186199|Eustachijus Daškevičius]]: Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stovyklą.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184730|Jogaila (kunigaikštis, XIV–XV a.)]]: Matydamas kryžiuočių sėkmę, karalius Jogaila įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184773|Liubartas]]: Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59894|Mstivojus]]: Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią.
 - susijęs iš [[objektai/asmenys/Pilypas (Fermo vyskupas).md#claim-t-60411|Pilypas (Fermo vyskupas)]]: Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.
 - susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186158|Pisimantas]]: Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai.
 - susijęs iš [[objektai/asmenys/Popiežius Honorijus II.md#claim-t-60415|Popiežius Honorijus II]]: Popiežius Honorijus II 1218 m. organizavo didelį kryžiaus žygį į Prūsiją.
-- susijęs iš [[objektai/asmenys/Teodoras (Konstantino Karijotaičio brolis).md#claim-t-186167|Teodoras (Konstantino Karijotaičio brolis)]]: Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konstantino vietą Podolėje.
 - susijęs iš [[objektai/asmenys/Vigandas fon Baldersheimas.md#claim-t-186266|Vigandas fon Baldersheimas]]: Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų.
-- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-184917|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1432 m. Žygimantas Kęstutaitis sutiko su sąlygomis, kuriomis tapo Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-188660|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Narbutas aprašė, kad 1436 m. Žygimanto Kęstutaičio didžiajame antspaude buvo keturi herbiniai skydai, tarp jų Lietuvos Vytis.
-- susijęs iš [[objektai/daiktai/Kalavijas.md#claim-t-186870|Kalavijas]]: Žygimanto Kęstutaičio pakėlimo didžiuoju kunigaikščiu ceremonijoje kalaviją Gardine 1432 m. spalio 15 d. įteikė Krokuvos vyskupas Zbignevas Olesnickis.
 - susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-186861|Kristaus Kančios relikvija]]: Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
 - susijęs iš [[objektai/grupes/Pamarėnai.md#claim-t-63189|Pamarėnai]]: 1218 m. popiežiaus Honorijaus II organizuotame kryžiaus žygyje į Prūsiją dalyvavo ir pamarėnai.
-- susijęs iš [[objektai/ivykiai/Brastos seimas 1505 m..md#claim-t-186806|Brastos seimas 1505 m. (seimas, XVI a.)]]: 1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo.
+- susijęs iš [[objektai/ivykiai/Brastos seimas 1505 m..md#claim-t-186806|Brastos seimas 1505 m. (seimas, XVI a.)]]: 1971 m. leidinio pastaboje nurodoma, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą kompozicija ir dalimi turinio skiriasi nuo platesnio M. Miechovitos pasakojimo.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
 - susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
 - susijęs iš [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.).md#claim-t-62842|Kryžiaus žygis į Prūsiją (1218 m.)]]: 1218 m. popiežius Honorijus II organizavo didelį kryžiaus žygį į Prūsiją, kuriame dalyvavo vokiečiai, čekai, moravai, danai, lenkai ir pamarėnai.
 - susijęs iš [[objektai/ivykiai/Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje.md#claim-t-186717|Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje]]: Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.).md#claim-t-62859|Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]: 1219 m. Lietuvos ir jotvingių jėgos puolė Lenkiją, kuri priklausė antiprūsiškai kryžiaus žygio koalicijai.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186683|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare papildomai siejamas su 1251–1252 m. Mindaugo ir Danieliaus Romanovičiaus karo aprašymu.
+- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186683|Mūšis prie Jieseldos (mūšis, XIII a.)]]: 1971 m. komentare pasakojimas apie mūšį prie Jieseldos siejamas ir su 1251–1252 m. Mindaugo bei Danieliaus Romanovičiaus karo aprašymu.
 - susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186684|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.
 - susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186685|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Redakcinėje pastaboje mūšio prie Jieseldos pasakojimas laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186686|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare siejamas su žinia, kad 1262 m. Vasilka Romanovičius vijosi lietuvius iki Jieseldos ir juos sumušė.
-- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186694|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Žinia apie Algirdo pergalę prieš totorius ties Mėlynaisiais Vandenimis 1971 m. komentare laikoma apskritai patikima, nors dėl datos nesutariama.
-- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186696|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Mėlynųjų Vandenų mūšis 1971 m. komentare datuojamas kaip ginčytinas: dauguma istorikų jį skiria 1352–1362 m., kai kurie – XIV a. pabaigai.
+- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186694|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: 1971 m. komentare žinia, kad Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, laikoma apskritai patikima, nors data ginčijama.
+- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186696|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: 1971 m. komentare Mėlynųjų Vandenų mūšio data laikoma ginčytina: dauguma istorikų jį datuoja 1352–1362 m., kai kurie – XIV a. pabaiga.
 - susijęs iš [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės.md#claim-t-185768|Skitų sumušimas Volynėje ir prie Slučės]]: Krymo skitai trimis žygio voromis smarkiai nuniokojo Volynę, kai dėl karo su Maskva joje nebuvo likę karių ir karvedžių.
 - susijęs iš [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.).md#claim-t-184600|Vytauto karūnacijos byla (1429–1430 m.)]]: Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams.
 - susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio pakėlimas Lietuvos didžiuoju kunigaikščiu (1432 m.).md#claim-t-185686|Žygimanto Kęstutaičio pakėlimas Lietuvos didžiuoju kunigaikščiu (1432 m.)]]: 1432 m. karaliaus pasiuntiniai įtikino Žygimantą Kęstutaitį sutikti su valdovo ir valstybės keltais reikalavimais.
@@ -164,18 +150,12 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
 - susijęs iš [[objektai/paprociai/Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais.md#claim-t-185882|Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais]]: Žygimanto patvirtinto politinio susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.
 - susijęs iš Žygimanto Kęstutaičio pakėlimo į Lietuvos didžiuosius kunigaikščius valstybiniai aktai (1432 m.): Žygimanto Kęstutaičio pakėlimo aktuose numatyta laikytis Lietuvos ir Lenkijos unijos ir nesiekti karaliaus titulo be Lenkijos pritarimo.
 - susijęs iš Belgorodas: Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui.
-- susijęs iš Bidgoščius: Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus, kur gavo žinią apie kryžiuočių artėjimą prie Svecės.
 - susijęs iš Brianskas: Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
 - susijęs iš Gervėčiai: Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai.
 - susijęs iš Kanevas: Gediminui užėmus Kijevą, Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pilys pasidavė nugalėtojui.
 - susijęs iš Kijevo Rusia: Kazimieras Belzą ir Volynę perdavė su sąlyga, kad aukščiausią valdžią Rusioje turės Lenkijos karalius.
-- susijęs iš Lenčica: Jogaila Didžiosios Lenkijos kariams liepė rinktis į Lenčicą kovai su Prūsija.
-- susijęs iš Lvovas: Karalius, nutraukęs apsiaustį ir paleidęs kariuomenę, nukeliavo į Lvovą.
 - susijęs iš Melnikas: Lietuvos metraštyje Kazimierui būnant Vilniuje Jurgis Nosuta minimas kaip Drohičino ir Melniko seniūnas, dar Žygimanto paskirtas į šias pareigas.
-- susijęs iš Ovručas: Lietuvos metraštis pasakoja, kad lietuviai Ovručo ir kitais keliais gaudė bėgančius totorius, juos žudė ir atiminėjo grobį.
 - susijęs iš Perejeslavlis: Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
-- susijęs iš Prūsija: Jogaila, matydamas kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.
-- susijęs iš Radzejovas: Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.
 - susijęs iš Rūdninkų giria: Rūdninkų giria kronikoje minima kaip vieta, kur Mykoliukas susitiko su Kazimieru ir prašė jo malonės.
 - susijęs iš Rūdninkų giria: Rūdninkų giria kronikoje minima kaip vieta, kur Mykoliukas susitiko su Kazimieru ir prašė jo malonės.
 - susijęs iš Rūdninkų giria: Mykoliukas Rūdninkų girioje susidūrė su Kazimieru, nusilenkė jam ir prašė malonės.
@@ -186,10 +166,8 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
 - susijęs iš Sčara: 1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros.
 - susijęs iš Sčara: 1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros.
 - susijęs iš Vengrija: Imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, iš Volynės patraukė tiesiai į Vengriją.
-- susijęs iš Vilnius: Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą.
 - susijęs iš Vitchendorfas: Vitchendorfas buvo kaimas Saksonijoje.
 - susijęs iš Vladimiras: Gediminas pirmąjį smūgį nukreipė į Volynės pasienį ir apsupo Vladimirą, kunigaikščio Vladimiro sostinę.
-- susijęs iš Volbožas: Jogaila paliepė Mažosios Lenkijos ir Volynės kariams rinktis į Volbožą, o Didžiosios Lenkijos kariams - į Lenčicą.
 - susijęs iš Vonsdorfas: Prūsijos žemės kronikos rodyklėje Vonsdorfas siejamas su formomis Wohenstorph, Wünsdorf, Wonsdorff, Wansdorf ir Unzatrapis.
 - susijęs iš Zelionogradskas: Zelionogradskas anksčiau vadintas Kranzu, lietuviškai - Krantu.
 - susijęs iš Čerkasai: Čerkasų pilis kartu su Belgorodu, Slepovrodžiu ir Kanevu pasidavė Gediminui po jo įsitvirtinimo Kijeve.
@@ -197,236 +175,24 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
 - susijęs iš [[objektai/zodynas/baltų sąjunga.md#claim-t-71208|baltų sąjunga]]: Baltų sąjunga apibūdinama kaip Lietuvos vadovaujamas valstybingumo raidos etapas kovoje prieš feodalų agresiją.
 - susijęs iš [[objektai/zodynas/etmonas.md#claim-t-187521|etmonas]]: Aleksandras, pasitaręs su ponu Petru, etmono vietą perdavė Konstantinui Ostrogiškiui.
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-187523|metropolitas]]: Lietuvos metraščio pastaboje Gerasimas 1432 m. Švitrigailos pasiūlymu Konstantinopolyje įšventintas LDK, Maskvos ir kitų rusų žemių metropolitu.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-97284|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
 - susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184669|Algirdas (Lietuvos valdovas)]]: Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195010|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Bychovco kronika Klecko mūšio pergalę apibūdina kaip Lietuvos Didžiosios Kunigaikštystės patirtą „begalinį dievo gailestingumą“.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195012|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė grįžo į stovyklą su belaisviais, auksu, sidabru, ginklais ir žirgais.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195015|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195016|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Kunigaikštis Mykolas Glinskis ir Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už Cepros, paėmė arba nukovė daugybą totorių, sugrįžo į kariuomenės stovyklą prie Klecko, vesdamiesi su sa vimi daug.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195016|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis vaizduoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė prie Cepros paėmė arba nukovė daugybę totorių.
 - susijęs iš [[objektai/ivykiai/Kazimiero įvykdytas rusų valdų perėmimas iš lietuvių (1366 m.).md#claim-t-185807|Kazimiero įvykdytas rusų valdų perėmimas iš lietuvių (1366 m.)]]: Kazimieras, pasinaudojęs lietuvių karu su kryžiuočiais, atėmė iš lietuvių rusų valdas ir išvijo Liubartą iš Volynės.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1219 m. priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir greičiausiai siekiant apginti prūsų kraštą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
-    ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
-    yra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.
-      „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
-    (t. y. 1209— 1210 m.)22. Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
-    žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,
-    Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
-    1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
-    ir prūsų kraštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
-    m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
-    (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną). Apie 1325 m. Gedimino kariuomenė
-    nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Gediminas, pasilsėjęs čia, kol artimiausios pi­
-    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
-    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
-    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
-    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
-    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
-    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
-    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
-    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
-    džioje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Kazimieras atidavė Volynę Aleksandrui Narimantaičiui su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kęstutis mė­
-    gino sutrukdyti, tačiau, du
-    K a zim ie ra s, L e n k ijo s
-    kartus saugos karių atrem-
-    k a ra liu s, a tim a  iš Jie-
-    tas, galop išsižadėjo šio su-
-    tu v ių  R u sią
-    manymo. Tais pačiais metais
-    Kazimieras,
-    Lenkijos kara­
-    lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą
-    su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo­
-    lynės Algirdo brolį Liubartą. Mat, nors visą Belzo
-    kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
-    lės kunigaikščiui Aleksandrui Narimantaičiui atidavė
-    Volynę, tačiau abi šias žemes atidavė su ta sąlyga,
-    kad aukščiausią galią į Rusią turėsiąs Lenkijos kara­
-    lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
-    vietininkai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Po Lucko suvažiavimo imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, patraukė iš Volynės į Vengriją.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
-    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
-    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
-    iš Volynės į Vengriją. Išvykstančiam Vytautas davė
-    galybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino
-    nukauto tauro garsųjį ragą, išmoningai papuoštą auksu
-    bei brangakmeniais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Visos Lietuvos valdos Volynėje buvo žiauriai nuniokotos, o lenkų įgulų ginamos gyvenvietės Podolėje didesnių nuostolių nepatyrė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šitai įvyko gal dėl to, kad per vėlai
-    buvo gauta žinia apie pavojų, o gal todėl, kad tų že­
-    mių gyventojai atvangiai vykdė karaliaus nurodymus.
-    Visos Lietuvos valdos Volynėje buvo žiauriai nunioko­
-    tos, nepatyrė didesnių nuostolių lenkų įgulų ginamos
-    gyvenvietės Podolėje. Mat, skubiai išsiuntus kariuo­
-    menę, pavyko atremti priešus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Vilniaus seime lenkų atstovai reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes prieš sudarant uniją.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Rugsėjo pabaigoje luomai susirinko Vilniuje į
-    seimą, kuriame karalius pareikalavo, kad liautųsi pa­
-    vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila
-    ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad
-    niekas taip nekenkia visuomenės reikalams, kaip as­
-    meniniai atskirų didikų nesutarimai. Į seimą atvyko ir
-    lenkų atstovai, kurie senato bei bajorų akivaizdoje rim­
-    čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­
-    ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­
-    tų vieną kartą sudaryta galutinė lenkų ir lietuvių są­
-    junga, vadinamoji unija. Jie vis dėlto nieko nepešė,
-    nes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių
-    teisių į tas žemes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Metraštis pasakoja, kad Kazimieras atvyko į Vilnių ir sėdo valdyti visos Didžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Važiuodamas per Rūdininkų girią7 , jis toje
-    girioje susidūrė su didžiuoju kunigaikščiu Kazimieru
-    ir žemai nusilenkė didžiajam kunigaikščiui Kazimierui,
-    ir ėmė prašyti malonės; kunigaikštis Kazimieras paža­
-    dėjo suteiksiąs jam savo malonę ir paliksiąs jam jo
-    tėvoniją 7 .
-    O paskui didysis kunigaikštis Kazimieras atvyko
-    į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
-    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
-    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
-    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
-    seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
-    to.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Lietuviai gaudė į visas puses Volynės keliais bėgančius totorius, juos žudė ir atiminėjo grobį.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir kai totoriai pribėgo Ceprą, bemaž visi upėje ir
-    pelkėje prigėrė; taip daug totorių ir jų arklių buvo
-    upėje ir pelkėje, jog lietuviai galėjo joti raiti ir pėsti
-    pereiti, lipdami per totorių ir jų arklių lavonus.
-    174
-
-    ## Puslapis 170
-
-    O tuos nedaugelį totorių, kurie pabėgo su chanai-
-    čiais, gaudė bebėgančius Slucko, Petrikovičių, Ovručo,
-    2itomiro, Volynės keliais į visas puses, lietuviai žudė
-    ir atiminėjo grobį. Labai maža jų grįžo į Ordą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
 ## Citatos
 
 - id: c-59288
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 10"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
     ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
     yra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.
-      „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
+    „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
     (t. y. 1209— 1210 m.)22. Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
     žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,
     Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
@@ -443,13 +209,15 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
 - id: c-59289
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 15"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
-    m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
-    (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną). Apie 1325 m. Gedimino kariuomenė
-    nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
+    Kijevas ir tuo metu
+    buvo stambus tarptautinės prekybos centras, per kurį Rytų prekės keliavo ir Kryžiuočių
+    ordinui bei į Vakarų Europą. Lietuvos valstybė, kariaujanti su Kryžiuočių ordinu ir
+    atskirta nuo Baltijos jūros, dabar išėjo prie pietinių tarptautinės prekybos kelių. Kijevo
+    patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos
+    įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš
+    Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.
   citata_rodoma: "Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324\nm. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę\n(Brestą, Kamenecą, Kobriną, Melniką, Drohičiną)."
   statusas: verified
   teiginio_tipas: faktas
@@ -461,19 +229,20 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
 - id: c-168567
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Gediminas, pasilsėjęs čia, kol artimiausios pi­
-    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
-    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
+    Užėmęs Brianską
     ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
     kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
     išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
     niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
     Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
     mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
-    džioje.
+    džioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių
+    kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
+    senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
+    minystės ryšiais.
+  citata_rodoma: "Gediminas, pasilsėjęs čia, kol artimiausios pi­\nlys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­\nvė nugalėtojui, patraukė į Severską. Užėmęs Brianską\nir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­\nkariavęs Kijevą, Volynę ir didelę Seversko dalį, jis\nišplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­\nniui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi\nKijevo monarchija, patyrusi visokių sėkmių ir nesėk­\nmių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­\ndžioje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -484,16 +253,15 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
 - id: c-168568
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 248."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kęstutis mė­
     gino sutrukdyti, tačiau, du
     K a zim ie ra s, L e n k ijo s
     kartus saugos karių atrem-
-    k a ra liu s, a tim a  iš Jie-
+    k a ra liu s, a tim a iš Jie-
     tas, galop išsižadėjo šio su-
-    tu v ių  R u sią
+    tu v ių R u sią
     manymo. Tais pačiais metais
     Kazimieras,
     Lenkijos kara­
@@ -516,22 +284,33 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
 - id: c-168569
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 418"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
-    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
-    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
-    iš Volynės į Vengriją. Išvykstančiam Vytautas davė
-    galybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino
-    nukauto tauro garsųjį ragą, išmoningai papuoštą auksu
-    bei brangakmeniais.
+    Tuo tarpu Krokuvos vyskupas Zbig­
+    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
+    kokia įtartina imperatoriaus
+    S en ato įsp ė ta s
+    draugystė, ir, atskleidęs, ko­
+    kie pavojingi jo siūlymai,
+    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
+    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
+    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
+    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
+    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
+    nas iš Tarnovo, Krokuvos vaivada. Visi sutartinai pri­
+    tarė vyskupui ir vaivadai. Vytautas, pasipiktinęs ne tiek
+    dėl pralaimėjimo, kiek dėl
+    P a sip ik tin ęs pasišali-
+    drąsių kalbų, išėjo iš senato
+    na
+    posėdžio, o pasišalindamas at­
+    virai pagrasino, sakydamas,
+    14*
+    4 1 9
+
+    jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
+    siryžęs pasiekti.
+  citata_rodoma: "Atvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams. Karaliui išvykus, ir\nimperatorius, apsvarstęs su Vytautu svarbiausius klau­\nsimus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai\niš Volynės į Vengriją. Išvykstančiam Vytautas davė\ngalybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino\nnukauto tauro garsųjį ragą, išmoningai papuoštą auksu\nbei brangakmeniais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -539,45 +318,30 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
   pagrindzia:
     - t-185208
 
-- id: c-168570
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 517"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 517."
-  citata_originali: |
-    Šitai įvyko gal dėl to, kad per vėlai
-    buvo gauta žinia apie pavojų, o gal todėl, kad tų že­
-    mių gyventojai atvangiai vykdė karaliaus nurodymus.
-    Visos Lietuvos valdos Volynėje buvo žiauriai nunioko­
-    tos, nepatyrė didesnių nuostolių lenkų įgulų ginamos
-    gyvenvietės Podolėje. Mat, skubiai išsiuntus kariuo­
-    menę, pavyko atremti priešus.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185209
-
 - id: c-168571
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 683"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 683."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Rugsėjo pabaigoje luomai susirinko Vilniuje į
-    seimą, kuriame karalius pareikalavo, kad liautųsi pa­
-    vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila
-    ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad
-    niekas taip nekenkia visuomenės reikalams, kaip as­
-    meniniai atskirų didikų nesutarimai. Į seimą atvyko ir
-    lenkų atstovai, kurie senato bei bajorų akivaizdoje rim­
-    čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­
-    ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­
-    tų vieną kartą sudaryta galutinė lenkų ir lietuvių są­
-    junga, vadinamoji unija. Jie vis dėlto nieko nepešė,
-    nes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių
-    teisių į tas žemes.
+    Štai todėl daugelis išsigandusių didikų, nenorėda­
+    mi daugiau karaliaus erzinti, ne tik paliovė reikalavę,
+    kad Augustas nutrauktų santuoką, bet sutiko, kad Bar­
+    bora kaip ir kitos karalienės būtų Krokuvoje vaini­
+    kuota. Augustas, pasiekęs to, ko norėjo, nebesispyrė
+    dėl įstatymo, kuris dabar jam rodėsi visai nereikalin­
+    gas. Neilgai trukus Barbora iškilmingai ir šventiškai
+    buvo apvainikuota Krokuvoje karalienės vainiku. Jos
+    broliams Piotrkovo seimas leido naudotis Lenkijoje bei
+    Lietuvoje tomis lengvatomis, kurių neseniai buvo ga­
+    vę iš imperatoriaus Karolio V. Vėliau, įsiteikdamas
+    žmonai, Augustas labiau juos iškėlė. Mikalojų, Barbo­
+    ros brolį, paskyrė Trakų vai-
+    1551 m e ta i
+    vada ir atidavė jam Kėdai­
+    nius, o jo pusbrolį Mikalojų
+    Juodąjį paskyrė Lietuvos maršalu bei didžiuoju kanc­
+    leriu.
+  citata_rodoma: "Rugsėjo pabaigoje luomai susirinko Vilniuje į\nseimą, kuriame karalius pareikalavo, kad liautųsi pa­\nvojingai kivirčijęsi Trakų vaivada Mikalojus Radvila\nir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad\nniekas taip nekenkia visuomenės reikalams, kaip as­\nmeniniai atskirų didikų nesutarimai. Į seimą atvyko ir\nlenkų atstovai, kurie senato bei bajorų akivaizdoje rim­\nčių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­\nralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­\ntų vieną kartą sudaryta galutinė lenkų ir lietuvių są­\njunga, vadinamoji unija. Jie vis dėlto nieko nepešė,\nnes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių\nteisių į tas žemes."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -590,19 +354,24 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Važiuodamas per Rūdininkų girią7 , jis toje
-    girioje susidūrė su didžiuoju kunigaikščiu Kazimieru
-    ir žemai nusilenkė didžiajam kunigaikščiui Kazimierui,
-    ir ėmė prašyti malonės; kunigaikštis Kazimieras paža­
-    dėjo suteiksiąs jam savo malonę ir paliksiąs jam jo
-    tėvoniją 7 .
-    O paskui didysis kunigaikštis Kazimieras atvyko
-    į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
-    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
-    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
-    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
-    seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
-    to.
+    Kantautas,
+    atvykęs j Žemaičių kariuomenę, pirmiausia jiems at­
+    skleidė, kad Mykoliukas pabėgęs, o Vilnių, Trakus ir
+    visas Lietuvos bei Rusų kunigaikštystes valdąs didysis
+    kunigaikštis Kazimieras. O paskui jis prikalbėjo savo
+    giminaitį, kurį žemaičiai buvo išsirinkę savo seniūnu,
+    kad jis nestotų už karą prieš taip didį valdovą ir, svar­
+    biausia. prieš teisėtą Lietuvos paveldėtoją a .
+    Tas Kantauto giminaitis suprato, kad negalima sto­
+    ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę
+    tarnauti didžiajam kunigaikščiui Kazimierui, ir visi
+    kaip vienas atvyko į Kauną pas didįjį kunigaikštį Ka­
+    zimierą, visi žemai lenkdamiesi prisiekė jam ištikimai
+    tarnauti
+    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
+    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
+    turtą.
+  citata_rodoma: "Važiuodamas per Rūdininkų girią7 , jis toje \ngirioje susidūrė su didžiuoju kunigaikščiu Kazimieru \nir žemai nusilenkė didžiajam kunigaikščiui Kazimierui, \nir ėmė prašyti malonės; kunigaikštis Kazimieras paža­\ndėjo suteiksiąs jam savo malonę ir paliksiąs jam jo \ntėvoniją 7 .\nO paskui didysis kunigaikštis Kazimieras atvyko \nį Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo, \ndidžiojo kunigaikščio Vytauto, sostinės— ir visos Di­\ndžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.\nBūnant Kazimierui Vilniuje, Drohičino ir Melniko \nseniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­\nto."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -610,29 +379,31 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
   pagrindzia:
     - t-187686
 
-- id: c-170628
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- id: c-178896
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ir kai totoriai pribėgo Ceprą, bemaž visi upėje ir
-    pelkėje prigėrė; taip daug totorių ir jų arklių buvo
-    upėje ir pelkėje, jog lietuviai galėjo joti raiti ir pėsti
-    pereiti, lipdami per totorių ir jų arklių lavonus.
-    174
-
-    ## Puslapis 170
-
-    O tuos nedaugelį totorių, kurie pabėgo su chanai-
-    čiais, gaudė bebėgančius Slucko, Petrikovičių, Ovručo,
-    2itomiro, Volynės keliais į visas puses, lietuviai žudė
-    ir atiminėjo grobį. Labai maža jų grįžo į Ordą.
+    Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių
+    kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
+    senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
+    minystės ryšiais. Nors kitados Boleslovas, nugalėjęs
+    rusus, ir buvo užėmęs Kijevą bei privertęs kijeviečius
+    duoklę duoti, tačiau nė vienam lenkų karaliui dar ne­
+    buvo pavykę nei gauti Kijevo kunigaikščio vardo, nei
+    išvyti iš šių valdų teisėtų valdovų, nei nugalėtų tautų
+    paversti savo -valdiniais; mat rusai vėliau kovose įro­
+    dė, jog atsisakė paklusti lenkams.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187687
+    - t-196759
 
 ## Ryšiai
 - Buvo užkariauta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

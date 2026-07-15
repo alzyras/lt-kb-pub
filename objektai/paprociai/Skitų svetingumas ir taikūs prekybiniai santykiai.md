@@ -65,59 +65,21 @@ Nenurodyta
   pagrindžia:
     - c-175789
 
+<a id="claim-t-197570"></a>
+- t-004
+  global_id: t-197570
+  teiginys: "Si upė šiaurės vakaruose ribojo gerų dykumas su nežinomais kraštais ir plaukė per skitų— nomadų kraštus, prasėdėdama gerų krašte."
+  pagrindžia:
+    - c-175788
+
 <a id="claim-t-194874"></a>
 - t-003
   global_id: t-194874
-  teiginys: "Jau labai senais laikais graikai užmezgė santykius su Juodosios jūros pakrančių skitais."
+  teiginys: 'Jau labai senais laikais graikai užmezgė santykius su Juodosios jūros pakrančių skitais.'
   pagrindžia:
     - c-177270
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasak Narbuto, skitai dėl svetingumo priimdavo kitų tautų pirklius ir bičiuliškai sugyveno su kaimyninėmis tautomis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai davė pradžią graikų emporiumams, arba
-    prekyvietėms; jie jau VII amžiuje prieš Kristaus gimimą
-    pradėjo klestėti ir vėliau virto tokiais turtingais kaip
-    Olbija, Heraklėja, Chersonas ir kiti. Apskritai skitai, bū­
-    dami iš prigimties svetingi, pakisdavo kitų tautų pirk­
-    lius; jų santykiai su kaimyninėmis tautomis visuomet bu­
-    vo bičiuliški, nes, būdami valdiniai vieno karaliaus, kuris
-    niekada neketino pavergti svetimų tautų, lengvai galėjo
-    taikiai sugyventi su įvairiomis kaimyninėmis tautomis.
-    34
-    Skitijos geografija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Klajojantys skitai, iš pradžių vengę graikų atvykėlių, vėliau pradėjo su jais bendrauti ir pirkti civilizuoto pasaulio dirbinius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Klajojantys skitai, iš karto vengę bend­
-    rauti su graikų atvykėliais ir pasitraukdavę iš jų apgy­
-    ventų vietų, pagaliau pradėjo su jais bendrauti, ėmė pirk­
-    ti iš jų civilizuoto pasaulio dirbinius. Patys skitų žem­
-    dirbiai negalėjo išvengti šito, nors iš pradžių gana abe­
-    jingai žvelgė į jūra atgabentus blizgučius ir skanėstus.
-    Galop klajokliai, sutrypę senus papročius ir įstatymus,
-    užtvindė žemdirbių gyvenamąsias vietas, prasidėjo sa­
-    vivalė, krašte kilo netvarka ir neramumai, dingo vyres­
-    nybė, žyniai ir teisėjai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Jau labai senais laikais graikai užmezgė santykius su Juodosios jūros pakrančių skitais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -148,32 +110,27 @@ Nenurodyta
 - id: c-175788
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 52"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai davė pradžią graikų emporiumams, arba
-    prekyvietėms; jie jau VII amžiuje prieš Kristaus gimimą
-    pradėjo klestėti ir vėliau virto tokiais turtingais kaip
-    Olbija, Heraklėja, Chersonas ir kiti. Apskritai skitai, bū­
-    dami iš prigimties svetingi, pakisdavo kitų tautų pirk­
-    lius; jų santykiai su kaimyninėmis tautomis visuomet bu­
-    vo bičiuliški, nes, būdami valdiniai vieno karaliaus, kuris
-    niekada neketino pavergti svetimų tautų, lengvai galėjo
-    taikiai sugyventi su įvairiomis kaimyninėmis tautomis.
-    34
-    Skitijos geografija.
+    K a r k i n i t o miestas1. Si upė šiaurės vakaruose ribojo gerų
+    dykumas su nežinomais kraštais ir plaukė per skitų—
+    nomadų kraštus*, prasėdėdama gerų krašte. Herodotas
+    teigia, kad iki šio krašto nuo Dnepro žiočių reikia plauk­
+    ti 40 dienų, o tai, anot Lelevelio apskaičiavimų2, turėtų
+    prilygti maždaug 4000 stadijų. Tad šis kraštas turėtų
+    būti Rogačiovo apylinkėse ir aukščiau.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193018
+    - t-197570
 
 - id: c-175789
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 55"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 55."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Klajojantys skitai, iš karto vengę bend­
     rauti su graikų atvykėliais ir pasitraukdavę iš jų apgy­
@@ -191,28 +148,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193019
-
-- id: c-177270
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    54
-
-    ## Puslapis 52
-
-    visą maistą gaudavo augindamos gyvulius laukinėse ga­
-    nyklose, taip pat medžiodamos ir žvejodamos; grūdų gau­
-    davo iš savo gentainių žemdirbių mainais už gyvulius.
-    Visi jie buvo gana svetingi ir pasižymėjo žmoniškumu,
-    bet dėl savo gyvenimo būdo buvo mažiau civilizuoti už
-    anuos.
-    33
-    Jau labai senais laikais graikai užmezgė santykius su
-    Juodosios jūros pakrančių skitais.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194874

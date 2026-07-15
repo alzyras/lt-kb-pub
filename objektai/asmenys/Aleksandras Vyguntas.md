@@ -44,23 +44,6 @@ Pati re­ forma nepasisekė, nes Vygunto mirtis (1392 m. birželio 28 d.) suard�
   teiginys: "Vygunto mirtis 1392 m. birželio 28 d. suardė reformos planus."
   pagrindžia:
     - c-37975
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Iš to matyt, kad Skirgaila sužinojo aukščiau
-    minėtą projektą, kuriam jis skubinos užbėgti už akių. Pati re­
-    forma nepasisekė, nes Vygunto mirtis (1392 m. birželio 28 d.)
-    suardė tuos planus. Yra gandų, kad jis buvo nunuodytas, bet tie
-    gandai neturi pamato.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

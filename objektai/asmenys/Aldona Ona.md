@@ -44,23 +44,6 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
   pagrindžia:
     - c-44262
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184417|Kazimieras Didysis]]: Kazimieras 1325 m. buvo sutuoktas su Gedimino dukra Aldona Ona ir tuo metu buvo Lenkijos sosto įpėdinis.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-
-    kiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą
-    Aldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-
-    mieru. 1326 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44262

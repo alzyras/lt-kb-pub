@@ -43,33 +43,6 @@ Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupa
   pagrindžia:
     - c-75160
 - susijęs iš [[objektai/zodynas/Desovietizacija ir liustracija.md#claim-t-21988|Desovietizacija ir liustracija]]: Atkūrus nepriklausomybę desovietizacijos ir liustracijos klausimai Lietuvoje buvo sprendžiami lėtai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po 1940–1990 m. okupacijų lietuvių visuomenė posakį „atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok“ suvokė kaip moralinę istorijos pamoką.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai leidžia kalbėti apie išprususią, imlią ir mobilią Lietuvos visuomenę,
-    galinčią kaip lygi su lygia konkuruoti su vakarietiška visuomene, kurios
-    laimėjimai nepriklausomybės pradžioje daugumai lietuvių atrodė kaip
-    nepasiekiamas idealas.
-    Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų
-    okupacijų lietuvių visuomenė aptarė savo istoriją, jausdamasi gavusi sun-
-    kią, bet esminę moralinę pamoką – atėjus okupantui nepulk jam padėti,
-    netarnauk, nekolaboruok – tave gali panaudoti nekilniam ar gėdingam
-    darbui, tada užsitrauksi bėdą ne tik sau, bet ir tautai, bus gėda, kai Lietuva
-    vėl išsikovos laisvę. Visuomenėje virė diskusijos dėl tų, kurie uoliai talki-
-    no naciams ir sovietams, dėl lietuvių vaidmens Holokauste, trėmimuose į
-    Sibirą ir represijose, lėtai buvo sprendžiami desovietizacijos ir liustracijos
-    klausimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-75160

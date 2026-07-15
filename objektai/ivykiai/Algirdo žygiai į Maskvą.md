@@ -71,27 +71,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176318|Birutė]]: Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176279|Algirdas (Lietuvos valdovas)]]: Lietuvos metraščiuose užrašyti Ldk Algirdo žygiai į Maskvą laikomi epinius pasakojimus atitinkančiu siužetu.
 - susijęs iš [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas.md#claim-t-77949|Birutės legendos tęstinumas ir Birutės kalno gerbimas]]: Birutės legenda nenutrūko įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
-    ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo
-    Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire. Rem-
-    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
-    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
-    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
-    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
-    Vilnius nevirto „antruoju Kijevu“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22902

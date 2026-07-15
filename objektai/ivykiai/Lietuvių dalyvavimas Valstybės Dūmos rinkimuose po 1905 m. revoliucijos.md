@@ -71,30 +71,6 @@ Nenurodyta
   teiginys: "Lietuva po 1905-ųjų – kultūrinė kova Nors po revoliucijos Rusijoje atsirado atstovaujamosios, tiesa, ne demokratiškai renkamos, valdžios institucija – dvejų rūmų – Valstybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi įstatymų leidyba."
   pagrindžia:
     - c-22998
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-
-    tonomijos Lietuvai suteikimo.
-    Lietuva po 1905-ųjų – kultūrinė kova
-    Nors po revoliucijos Rusijoje atsirado atstovaujamosios, tie-
-    sa, ne demokratiškai renkamos, valdžios institucija – dvejų rūmų – Vals-
-    tybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi
-    įstatymų leidyba, visa vykdomoji valdžia ir konstitucinių įstatymų leidimas
-    liko caro rankose. Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš
-    dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, dau-
-    giausia socialdemokratus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-    - t-003
 
 ## Citatos
 
@@ -119,6 +95,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75126
     - t-75125
+    - t-75126
     - t-193570

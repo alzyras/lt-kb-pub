@@ -35,44 +35,37 @@ Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tė
   teiginys: "Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą."
   pagrindžia:
     - c-169505
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Imperatorius, karalius Vladislovas bei jo duktė Ona at­
-    važiavo važiuoti, o Žygimantas ir Liudvikas raiti at­
-    jojo. Anksčiau, nei visi pasisveikino, paspausdami vie­
-    ni kitiems rankas, Liudvikas pagerbė Maksimilijoną
-    kaip tėvą ir valdovą, nes Čekijos karalystė priklausė
-    Romos imperijai. Nei mergelės Onos kalbos, be galo
-    drovios, nei senojo Vladislovo žodžių, tariamų pro
-    ašaras, aplinkui stovintieji negirdėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169505
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 634"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 634."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Imperatorius, karalius Vladislovas bei jo duktė Ona at­
-    važiavo važiuoti, o Žygimantas ir Liudvikas raiti at­
-    jojo. Anksčiau, nei visi pasisveikino, paspausdami vie­
-    ni kitiems rankas, Liudvikas pagerbė Maksimilijoną
-    kaip tėvą ir valdovą, nes Čekijos karalystė priklausė
-    Romos imperijai. Nei mergelės Onos kalbos, be galo
-    drovios, nei senojo Vladislovo žodžių, tariamų pro
-    ašaras, aplinkui stovintieji negirdėjo.
+    Karalius bei karalienė, iškilmingai Vilniuje per mišias
+    padėkoję viešpačiui dievui už pergalę, pasiuntė Ro­
+    mos popiežiui kaip dovaną keturiolika į nelaisvę pa­
+    imtų maskvėnų — pačių žymiausiųjų didikų. Tačiau
+    imperatorius Maksimilijonas netoli Halės jėga juos at­
+    ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal
+    į Maskvą. Be abejo, šitai jis
+    Im p e ra to riu s
+    M a k si-
+    padarė dėl savo senos drau-
+    m ili jo n a s
+    išsiža d a
+    gystės su Vasilijumi. Kai
+    są ju n g o s su M a sk v a
+    tais
+    pačiais metais netoli
+    Vengrijos miesto Temešvaro
+    karalienės tėvas Steponas smarkiai sumušė maištinin­
+    ką seklerį Jurgį, imperatorius, būgštaudamas, kad Žy­
+    gimantas, sujungęs savo jėgas su uošvio, nenukreiptų
+    dviejų pergalingų kariuomenių prieš karo kurstytoją,
+    pradėjo ieškoti kelių taikiam susitarimui.
+  citata_rodoma: "Karalius bei karalienė, iškilmingai Vilniuje per mišias \npadėkoję viešpačiui dievui už pergalę, pasiuntė Ro­\nmos popiežiui kaip dovaną keturiolika į nelaisvę pa­\nimtų maskvėnų — pačių žymiausiųjų didikų. Tačiau \nimperatorius Maksimilijonas netoli Halės jėga juos at­\nėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal\nį Maskvą. Be abejo, šitai jis \nIm p e ra to riu s \nM a k si- \npadarė dėl savo senos drau-\nm ili jo n a s \nišsiža d a \ngystės su Vasilijumi."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

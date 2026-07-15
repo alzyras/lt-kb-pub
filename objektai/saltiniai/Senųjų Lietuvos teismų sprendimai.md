@@ -7,13 +7,13 @@ datos:
   - '1757 m.'
 date_start: '1757'
 date_end: ''
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
-amziai:
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,8 @@ Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi
   teiginys: "Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi žmonės priesaikos metu „dėjo kepures“."
   pagrindžia:
     - c-173443
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi žmonės priesaikos metu „dėjo kepures“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -69,18 +69,20 @@ Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi
 - id: c-173443
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 320"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Arntas (Arndt) 17 pa-
-    teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
-    miečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,
-    subyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis
-    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
-    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
-    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
-    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
-    17 Lieflandische Geschichte (1757 metų leidimas.
+    Tą pastebėjęs
+    Neliubavičius (Nielubowicz) vienoje senoje lietuviškoje dai­
+    noje. Hartknochas, mėgstantis viską pritempti prie germaniš­
+    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
+    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
+    tus1 2. Bet Dusburgietis, artimiausias lietuvių genties tautų se­
+    novės liudytojas, sako aiškiai, kad senovės prūsų laiko skaičia­
+    vimas buvo visiškai toks pat kaip kryžiuočių; tarpusavio susi­
+    tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
+    ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
+    vuose išlikę duomenys iš XIII amžiaus.
+  citata_rodoma: "Arntas (Arndt) 17 pa-\nteilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­\nmiečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,\nsubyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

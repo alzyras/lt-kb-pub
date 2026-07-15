@@ -36,8 +36,8 @@ Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas
   teiginys: "Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas dievu."
   pagrindžia:
     - c-171924
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas dievu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -59,13 +59,15 @@ Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas
 - id: c-171924
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 229"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šventų ežerų yra taip pat Nemuno kairiajame krante,
-    kur ir miestelis [Šventežeris] turi tokį vardą.
-    3. Lasickis sako, kad Žemaitijoje ežeras Orthus buvo lai­
-    komas dievu.
+    Nora, Rusijos Kalugos gubernijos upė įteka į Oką. Pietų Ame­
+    rikoje, Naujojoje Grenadoje, Nare įteka į šv. Magdalenos upę
+    Hondoje. Mažoji ir Didžioji Naretvos (Naretwa) - Bosnijoje te­
+    kančios upės, kurios susiliejusios sudaro Dalmatijos upę Naren-
+    tą, arba Naroną, įtekančią į Adrijos jūrą ties Šventuoju Opusu
+    (Opus).
+  citata_rodoma: "Šventų ežerų yra taip pat Nemuno kairiajame krante,\nkur ir miestelis [Šventežeris] turi tokį vardą.\n3. Lasickis sako, kad Žemaitijoje ežeras Orthus buvo lai­\nkomas dievu."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

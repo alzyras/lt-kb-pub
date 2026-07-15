@@ -40,28 +40,13 @@ Dusburgietis teigia, kad kuzavinis К.
   teiginys: "K. Kuzavinio „Etymologica“ paskelbta 1966 m. žurnalo „Baltistica“ 1 tomo 2 numeryje, p. 177–184."
   pagrindžia:
     - c-61746
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'K. Kuzavinio „Etymologica“ paskelbta 1966 m. žurnalo „Baltistica“ 1 tomo 2 numeryje, p. 177–184.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kuzavinis К. Etymologica.— Baltistica, 1966, 1(2), p. 177 184.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61746
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kuzavinis К. Etymologica.— Baltistica, 1966, 1(2), p. 177 184.
   statusas: verified

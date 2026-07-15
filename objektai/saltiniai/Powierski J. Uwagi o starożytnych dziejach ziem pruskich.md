@@ -7,12 +7,12 @@ datos:
   - '1976 m.'
 date_start: '1976'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad powierski J.
   teiginys: "J. Powierskio straipsnis „Uwagi o starożytnych dziejach ziem pruskich“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje."
   pagrindžia:
     - c-61879
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Powierskio straipsnis „Uwagi o starożytnych dziejach ziem pruskich“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,11 +61,12 @@ Dusburgietis teigia, kad powierski J.
 - id: c-61879
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Powierski  J. Uwagi o starożytnych dziejach ziem pruskich.— ZHPB, Warszawa—
-    Poznań—Toruń, 1976, t. 41, z. 4, s. 110— 138.
+    2, p. 51—64.
+    Vanagas A. Galindai.— MG, 1965, Nr. 5, p. 28—29.
+    Vanagas A. Galindai Ispanijoje ir Amerikoje.— MG, 1965, Nr. 11, p. 38—39.
+  citata_rodoma: "Powierski  J. Uwagi o starożytnych dziejach ziem pruskich.— ZHPB, Warszawa—\nPoznań—Toruń, 1976, t. 41, z. 4, s. 110— 138."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

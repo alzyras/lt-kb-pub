@@ -35,7 +35,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Redakcinė pastaba nurodo, kad Ač-Girėjaus pabėgimas iš Krymo į Lietuvą buvo susijęs su kova dėl Krymo tarp jo ir Seid-Achmato. Redakcinė pastaba nurodo, kad Žygimantas Kęstutaitis pirmą kartą sugrąžino Ač-Girėjų į Krymą apie 1438–1439 m.
+1971 m. leidinio pastaba Ač-Girėjaus valdžios atstatymą Kryme sieja su antruoju jo valdžios atkūrimu 1449 m. rugpjūtį.
 
 ## Laikotarpis ir datos
 
@@ -68,30 +68,6 @@ Nenurodyta
   pagrindžia:
     - c-169966
 
-<a id="claim-t-186759"></a>
-- t-002
-  global_id: t-186759
-  teiginys: "Bychovco kronika Radvilos Astikaičio vaidmenį Ač-Girėjaus grįžime į Krymą vaizduoja kitaip negu J. Dlugošas."
-  pagrindžia:
-    - c-169966
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    M  Čia kalbama apie antrąjj Ač-Girėjaus valdžios atstatymą
-    Kryme 1449 m. rugpiūčio mėn. Sis pasakojim as apie Ač-Girėjaus
-    grižimą į Krymą yra žinomas tik iš BK. Radvilos Astikaičio vaid-
-    menj BK piešia kitaip, negu J. Dlugošas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-169966
@@ -99,10 +75,17 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    M  Čia kalbama apie antrąjj Ač-Girėjaus valdžios atstatymą
-    Kryme 1449 m. rugpiūčio mėn. Sis pasakojim as apie Ač-Girėjaus
-    grižimą į Krymą yra žinomas tik iš BK. Radvilos Astikaičio vaid-
-    menj BK piešia kitaip, negu J. Dlugošas.
+    Kryžiuočių valdžioje liko tik sostinė Marien­
+    burgas, Choinlcų ir Stumo pilys. Lenkija deklaravo Prūsijos inkor­
+    poravimą į Lenkijos karalyste ir paskelbė karą ordinui 1454.111.6.
+    o karalius Kazimieras pirmą kartą atvyko j Prūsijos teiitoriją (To-
+    runęl tik V.23. Fakl likai karo veiksmų pradžia 14 Lenkijos pusės
+    laikytina 1454.111.25, kai 1700 Lenkijos algininkų išžygiavo ii Torunės
+    atsiimti
+    ii
+    kryžiuočių
+    Choinicų
+    pilies.
   citata_rodoma: "M  Čia kalbama apie antrąjj Ač-Girėjaus valdžios atstatymą \nKryme 1449 m. rugpiūčio mėn. Sis pasakojim as apie Ač-Girėjaus \ngrižimą į Krymą yra žinomas tik iš BK. Radvilos Astikaičio vaid- \nmenj BK piešia kitaip, negu J. Dlugošas."
   statusas: verified
   teiginio_tipas: faktas
@@ -110,4 +93,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186758
-    - t-186759

@@ -40,28 +40,13 @@ Dusburgietis teigia, kad matusas J.
   teiginys: "J. Matuso „Senovės prūsų žemės nukariavimas“ išleistas Kaune 1940 m."
   pagrindžia:
     - c-61794
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Matuso „Senovės prūsų žemės nukariavimas“ išleistas Kaune 1940 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Matusas J. Senovės prūsų žemės nukariavimas.— K., 1940.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61794
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Matusas J. Senovės prūsų žemės nukariavimas.— K., 1940.
   statusas: verified

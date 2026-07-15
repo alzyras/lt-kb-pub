@@ -50,28 +50,6 @@ Zeilleris 151 ; ta istorija anuomet buvo labai vertinama ir susilaukė keletos l
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179521|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: J. Voigtas 1827-1838 m. veikale „Geschichte Preusseus“ nagrinėjo kryžiuočių santykius su Lietuva iki Vokiečių ordino žlugimo 1525 m.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179523|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: J. Voigtas 1827-1838 m. devyniatomiame veikale „Geschichte Preusseus“ nagrinėjo kryžiuočių santykius su Lietuva iki 1525 m.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179528|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo labai vertinama.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Prūsų Kuni­
-    gaikštystės santykiai su ja. Jie išleido žinomąsias ordino kronikas
-    ir visą eilę senų dokumentų rinkinių (Dusb, HChL, LUB, MT,
-    Posilge, PUB, RegJH, SRP, Wart, Wegln Wig) ;K. Forstreu­
-    teris ir H. Koeppenas leidžia svarbius vokiečių ordino
-    generalinių prokuratorių pranešimus (BeGeDO). Iš senesniųjų isto­
-    rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
-    gaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija
-    anuomet buvo labai vertinama ir susilaukė keletos laidų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33067

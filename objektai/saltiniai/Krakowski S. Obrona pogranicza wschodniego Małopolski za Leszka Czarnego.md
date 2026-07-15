@@ -40,30 +40,13 @@ Dusburgietis teigia, kad krakowski S.
   teiginys: "S. Krakowskio darbas „Obrona pogranicza wschodniego Małopolski za Leszka Czarnego“ paskelbtas Lodzėje 1960 m."
   pagrindžia:
     - c-61737
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'S. Krakowskio darbas „Obrona pogranicza wschodniego Małopolski za Leszka Czarnego“ paskelbtas Lodzėje 1960 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Krakowski S. Obrona pogranicza wschodniego Małopolski za Leszka Czarnego.—
-    Zeszyty naukowe Uniw. Łódzkiego. Seria 1: Nauki humanistyczno społeczne. Historia,
-    Łódź, 1960, z. 15, s. 97—114.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61737
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 265"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Krakowski S. Obrona pogranicza wschodniego Małopolski za Leszka Czarnego.—
     Zeszyty naukowe Uniw. Łódzkiego. Seria 1: Nauki humanistyczno społeczne. Historia,

@@ -35,32 +35,13 @@ Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas 
   teiginys: "Prūsijoje žemiausias teritorinio padalijimo vienetas vadintas pulka arba polka, o Dusburgietis jį perteikė lotynišku campus."
   pagrindžia:
     - c-59497
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Prūsijoje žemiausias teritorinio padalijimo vienetas vadintas pulka arba polka, o Dusburgietis jį perteikė lotynišku campus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.  lie.
-    pulkas); Dusburgietis šiuo atveju sako — campus (laukas) — III, 300, 310 ir kt.; Jer.—
-    velt (plg. GAO, p. 136; HP, 1, 1, p. 284; SU, 1, Nr. 58, p. 26 (Girte polka)—, Nr. 164,
-    p. 80 (polcam Quedenowe), Nr. 195, p. 108; Nr. 203, p. 112). Žr. Okulicz-Kozaryn L.
-    Życie..., p. 60—63, 100—102.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-59497
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 56"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 56."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.  lie.
     pulkas); Dusburgietis šiuo atveju sako — campus (laukas) — III, 300, 310 ir kt.; Jer.—

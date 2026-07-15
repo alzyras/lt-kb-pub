@@ -36,34 +36,13 @@ Narbutas Putonis (Puttones) aprašo kaip pranašautojus, kurie ateitį nusakydav
   teiginys: "Narbutas Putonis (Puttones) aprašo kaip pranašautojus, kurie ateitį nusakydavo iš vandens ūžimo ar putų ir taikydavo susipykusius žmones."
   pagrindžia:
     - c-172209
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Putonis (Puttones) aprašo kaip pranašautojus, kurie ateitį nusakydavo iš vandens ūžimo ar putų ir taikydavo susipykusius žmones.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie tai kalbėsime straipsnyje
-    „Burtai“.
-    Putonys (Puttones)
-    Buvo pranašautojai, nusakantys ateitį iš stebimo vandens,
-    ypač pagal jo ūžimą arba putas. Tačiau šias pareigas gerbti-
-    niausiomis visuomenėje laikė todėl, kad jų priedermė buvo
-    sutaikyti priešus ir susipykusius bet kurio luomo žmones.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172209
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 297"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 297."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie tai kalbėsime straipsnyje
     „Burtai“.

@@ -48,52 +48,6 @@ Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąj
   teiginys: "Birželio 28 d. prie Kauno karo komendantūros iš savanorių buvo suformuotas Tautinės darbo apsaugos batalionas."
   pagrindžia:
     - c-166574
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Einzatsgrupės terorą organizavo taip, kad atrodytų, jog pirmuosius
-    pogromus ir „apsivalymo“ akcijas vykdo vietiniai gyventojai. Talkinin-
-    kų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba ban-
-    dančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD
-    inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
-    27 – Kauno „Lietūkio“ garaže, nors SD einzatsgrupių vadų raportuose
-    sakoma, kad surengti pogromus buvo nelengva. Ginkluoti partizanai
-    nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai
-    paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA)
-    batalionas prie Kauno karo komendantūros.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Birželio 28 d. prie Kauno karo komendantūros iš savanorių buvo suformuotas Tautinės darbo apsaugos batalionas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Talkinin-
-    kų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba ban-
-    dančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD
-    inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
-    27 – Kauno „Lietūkio“ garaže, nors SD einzatsgrupių vadų raportuose
-    sakoma, kad surengti pogromus buvo nelengva. Ginkluoti partizanai
-    nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai
-    paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA)
-    batalionas prie Kauno karo komendantūros. Viena jo kuopa padaryta
-    zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo
-    masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtų-
-    jų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

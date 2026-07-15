@@ -47,8 +47,8 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   teiginys: "„Laisva, jokių kanonų nevaržoma asmenybė ir laisva tauta“ citatoje apibūdinamas kaip vienas svarbiausių tautinio judėjimo devizų."
   pagrindžia:
     - c-171027
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Laisva, jokių kanonų nevaržoma asmenybė ir laisva tauta“ citatoje apibūdinamas kaip vienas svarbiausių tautinio judėjimo devizų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -75,18 +75,21 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
 - id: c-171027
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 16"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 16."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vietoj senosios feodalinės vals­
-    tybės suvokimo formavosi naujos tautinės valstybės sampra­
-    ta, tautos kaip bendrijos, sudarytos iš įvairių socialinių sluoks­
-    nių, saistomos panašių interesų, kalbos, papročių, tikėjimo.
-    Stiprėjant tautinei savimonei, pavergtos tautos, įėjusios į di­
-    džiųjų imperijų sudėtį, pradėjo kilti į kovą už didesnį savaran­
-    kiškumą ir nepriklausomybę. Laisva, jokių kanonų nevaržo­
-    ma asmenybė ir laisva tauta buvo vienas iš svarbiausių šio pla­
-    taus, sudėtingo visuomeninio judėjimo devizų.
+    Šie Europoje vykstantys audringi socialinio, politinio ir kul­
+    tūrinio gyvenimo procesai negalėjo neveikti ir Lenkijos-Lie­
+    tuvos valstybės, kuri po trečiojo padalijimo (1795 m.) visiškai
+    neteko nepriklausomybės ir priklausė Rusijos, Prūsijos ir Aust­
+    rijos imperijoms. Naujų socialinių ekonominių santykių, nau­
+    jo gyvenimo būdo, naujos kultūros formavimasis čia sutapo
+    su tautinio išsivaduojamojo judėjimo stiprėjimu, su kova už
+    Lenkijos ir Lietuvos nepriklausomybę. Šviesiausi Lenkijos ir
+    Lietuvos protai suvokė, kad dar ne viskas prarasta ir, gelbstint
+    valstybę nuo galutinės pražūties, reikia palaikyti tautinę savi­
+    monę, puoselėti ir tirti gimtąją kalbą, papročius, istoriją - kel­
+    ti tautinę kultūrą.
+  citata_rodoma: "Vietoj senosios feodalinės vals­\ntybės suvokimo formavosi naujos tautinės valstybės sampra­\nta, tautos kaip bendrijos, sudarytos iš įvairių socialinių sluoks­\nnių, saistomos panašių interesų, kalbos, papročių, tikėjimo.\nStiprėjant tautinei savimonei, pavergtos tautos, įėjusios į di­\ndžiųjų imperijų sudėtį, pradėjo kilti į kovą už didesnį savaran­\nkiškumą ir nepriklausomybę. Laisva, jokių kanonų nevaržo­\nma asmenybė ir laisva tauta buvo vienas iš svarbiausių šio pla­\ntaus, sudėtingo visuomeninio judėjimo devizų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

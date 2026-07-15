@@ -91,61 +91,6 @@ Nenurodyta
   teiginys: "Kryžiuočių didžiojo magistro pasiuntiniai atnešė du kardus ir ragino su jais stoti į atvirą mūšį."
   pagrindžia:
     - c-36715
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Greitai liepė atvesti pasiuntinius. Įėjo Vengrijos
-    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
-    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
-    kardus atnešė kryžiuočių didžiojo magistro liepiami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Įėjo Vengrijos
-    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
-    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
-    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
-    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
-    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
-    viram lauke, bet nesislapstyti giriose, kaip iki šiol.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-003
-  santrauka: 'Kryžiuočių didžiojo magistro pasiuntiniai atnešė du kardus ir ragino su jais stoti į atvirą mūšį.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pasiuntiniai pareiškė, kad šituos du
-    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
-    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
-    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
-    viram lauke, bet nesislapstyti giriose, kaip iki šiol. Jeigu per
-    maža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti
-    ir užleisti vietos, tik pageidaująs, kad išlystų iš girios.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-004
 
 ## Citatos
 
@@ -208,5 +153,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92959
     - t-92958
+    - t-92959

@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu.
+Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu. Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku rias dėdavo sudegintų žmonių pelenus.
 
 ## Teiginiai
 
@@ -35,33 +35,20 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu.
   teiginys: "Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu."
   pagrindžia:
     - c-177159
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tokie sku­
-    durai yra kobolių dovana.
-    Lydos ir Gardino apskričių sandūroje yra didelis ežeras,
-    vadinamas Kobeliu.
-    Atrodo, pradžią šioms spėlionėms yra davusi tam tikra na­
-    minių vabzdžių rūšis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197463"></a>
+- t-002
+  global_id: t-197463
+  teiginys: "Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku rias dėdavo sudegintų žmonių pelenus."
   pagrindžia:
-    - t-001
+    - c-179205
 
 ## Citatos
 
 - id: c-177159
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 182"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tokie sku­
     durai yra kobolių dovana.
@@ -75,3 +62,22 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194763
+
+- id: c-179205
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Vienoda jų sandara ir tokia pat radimo vieta įtikina,
+    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
+    kad į jas tekėtų ašaros.
+    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
+    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
+    rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
+    Obelijomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197463

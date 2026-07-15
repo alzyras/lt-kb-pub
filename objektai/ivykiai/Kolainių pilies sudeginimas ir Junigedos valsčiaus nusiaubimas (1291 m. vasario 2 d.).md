@@ -72,53 +72,21 @@ Nenurodyta
   teiginys: "Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį."
   pagrindžia:
     - c-62883
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
-
-      1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
-    Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
-    pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino. Šitai padarę, patraukė į
-    Junigedos valsčių532, kurį nusiaubė, grobdami bei degindami; neskaitant kitų padarytų
-    nuostolių, paėmė į nelaisvę ir nužudė septynis šimtus netikėlių.
-
-
-
-
-         244 (237).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 
 - id: c-62883
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 180"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
-
-      1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
+    1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
     Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
     pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino. Šitai padarę, patraukė į
     Junigedos valsčių532, kurį nusiaubė, grobdami bei degindami; neskaitant kitų padarytų
     nuostolių, paėmė į nelaisvę ir nužudė septynis šimtus netikėlių.
-
-
-
-
-         244 (237).
+    244 (237).
   citata_rodoma: "Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą\n\n  1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,\nKaraliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami\npro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino. Šitai padarę, patraukė į\nJunigedos valsčių532, kurį nusiaubė, grobdami bei degindami; neskaitant kitų padarytų\nnuostolių, paėmė į nelaisvę ir nužudė septynis šimtus netikėlių.\n\n\n\n\n     244 (237)."
   statusas: verified
   teiginio_tipas: faktas

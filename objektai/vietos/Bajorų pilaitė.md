@@ -35,8 +35,8 @@ media_all_json: |-
   teiginys: "Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė."
   pagrindžia:
     - c-168639
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -70,16 +70,21 @@ media_all_json: |-
 - id: c-168639
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 249"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 249."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat Algirdas ir Kęs­
+    Su­
+    grįžęs po to į Prūsiją, paragino maršalą Šindekopfą, ne­
+    seniai sutelktos kariuomenės vadą, vėl žygiuoti į Lie­
+    tuvą— ir tam, kad nauja pilis būtų geriau ginama, ir
+    tam, kad priešas, nuniokojus jo valdas, būtų toliau
+    nustumtas. Tačiau Šindekopfas, atvykęs kur liepiamas,
+    nerado nė buvusios pilies ženklo. Mat Algirdas ir Kęs­
     tutis, suprasdami, jog ši prie pat Kauno esanti pilis —
     nelyginant žaboklės, uždėtos
     A lg ird a s
     su griau n a
     Lietuvai, nutarė trūks plyš
-    k ry žiu o č ių  p ilį
+    k ry žiu o č ių p ilį
     ją sunaikinti ir po ištisas
     penkias savaites užtrukusių
     atkaklių antpuolių galop ją užėmė ir sugriovė ligi pa­
@@ -89,6 +94,7 @@ media_all_json: |-
     sirengusių karių, o gal dėl kitos priežasties daugiau
     grasino užpulsiąs bei gyrėsi susidorosiąs, nei iš tiesų
     puolė.
+  citata_rodoma: "Mat Algirdas ir Kęs­\ntutis, suprasdami, jog ši prie pat Kauno esanti pilis —\nnelyginant žaboklės, uždėtos\nA lg ird a s\nsu griau n a\nLietuvai, nutarė trūks plyš\nk ry žiu o č ių  p ilį\nją sunaikinti ir po ištisas\npenkias savaites užtrukusių\natkaklių antpuolių galop ją užėmė ir sugriovė ligi pa­\nmatų. Nuliūdęs ir pasipiktinęs Šindekopfas patraukė\nsu kariuomene prie Bajorų pilaitės ir netrukus ją už­\ngrobė. Kęstutis gal dėl to, kad mažai turėjo kovai pa­\nsirengusių karių, o gal dėl kitos priežasties daugiau\ngrasino užpulsiąs bei gyrėsi susidorosiąs, nei iš tiesų\npuolė."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

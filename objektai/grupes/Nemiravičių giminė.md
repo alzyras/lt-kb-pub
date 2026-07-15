@@ -5,9 +5,6 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - giminė
-  - grupe
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,50 +26,24 @@ Pasak metraščio, po Vytauto atsakymo dėl taikos ponas Andrius buvo pramintas 
 
 ## Teiginiai
 
-<a id="claim-t-187784"></a>
+<a id="claim-t-199006"></a>
 - t-001
-  global_id: t-187784
+  global_id: t-199006
   teiginys: "Pasak metraščio, po Vytauto atsakymo dėl taikos ponas Andrius buvo pramintas Nemyra, o jo giminė - Nemiravičiais."
   pagrindžia:
-    - c-170723
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasak metraščio, po Vytauto atsakymo dėl taikos ponas Andrius buvo pramintas Nemyra, o jo giminė - Nemiravičiais.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ponas Andrius
-    visgi tarė didžiajam kunigaikščiui Vytautui: „Tokia
-    JOS
-
-    ## Puslapis 102
-
-    laika netvirta, jei tarp valdovų nebuvo kraujo pralie­
-    jimo." Didysis kunigaikštis Vytautas atsakė: „Mielas
-    brolau, kas buvo — pražuvo, ir aš savo žodžio, kaip
-    gyvas, nekeisiu. Tebūnie taika." Ir taip nuo to laiko tą
-    poną Andrių praminė Nemyra, o jo giminę — Nemira-
-    vičiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+    - c-181362
 
 ## Citatos
 
-- id: c-170723
+- id: c-181362
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 101-102"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 101-102."
   citata_originali: |
     Ponas Andrius
     visgi tarė didžiajam kunigaikščiui Vytautui: „Tokia
     JOS
-
-    ## Puslapis 102
 
     laika netvirta, jei tarp valdovų nebuvo kraujo pralie­
     jimo." Didysis kunigaikštis Vytautas atsakė: „Mielas
@@ -80,9 +51,10 @@ Pasak metraščio, po Vytauto atsakymo dėl taikos ponas Andrius buvo pramintas 
     gyvas, nekeisiu. Tebūnie taika." Ir taip nuo to laiko tą
     poną Andrių praminė Nemyra, o jo giminę — Nemira-
     vičiais.
+  citata_rodoma: "Ponas Andrius \nvisgi tarė didžiajam kunigaikščiui Vytautui: „Tokia\nJOS\n\n## Puslapis 102\n\nlaika netvirta, jei tarp valdovų nebuvo kraujo pralie­\njimo.\" Didysis kunigaikštis Vytautas atsakė: „Mielas \nbrolau, kas buvo — pražuvo, ir aš savo žodžio, kaip \ngyvas, nekeisiu. Tebūnie taika.\" Ir taip nuo to laiko tą \nponą Andrių praminė Nemyra, o jo giminę — Nemira- \nvičiais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187784
+    - t-199006

@@ -45,10 +45,9 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89242|Sūduviai]]: Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą.
 - susijęs iš [[objektai/ivykiai/Skomanto naktinis puolimas prie Birgelavos.md#claim-t-91919|Skomanto naktinis puolimas prie Birgelavos]]: Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.
 - susijęs iš Lubava: Lubava buvo gyvenvietė į rytus nuo Drevantos aukštupio.
-- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-184613|gurguolė]]: Prie Liubavos Sūduvos prūsai ir žemaičiai, pabėgę nuo kryžiuočių puolimo, paliko stovyklą ir gurguoles.
+- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-184613|gurguolė]]: Prie Liubavos Sūduvos prūsai ir jiems į pagalbą atėję žemaičiai, kryžiuočių puolami, pabėgo ir paliko stovyklą bei gurguoles.
 - susijęs iš [[objektai/grupes/Sūduvos prūsai.md#claim-t-185461|Sūduvos prūsai]]: Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir sustojo prie Liubavos.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės grobio dalies.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -82,20 +81,23 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vėliau, be tvarkos kelian­
-    180
-
-    ## Puslapis 179
-
-    tis per Narevą, upės sūkuriuose žuvo didelė dalis ka­
-    rių ir grobio. Ne geriau pavyko kitam lietuvių būriui,
-    apiplėšusiam Liubavą. Penkiasdešimt raitelių (nunioko­
+    Penkiasdešimt raitelių (nunioko­
     ję kaimus, jie išžudė daugybę kaimiečių, kuriuos už­
     klupo beginklius), nejausdami pavojaus, vežėsi namo
     grobį ir varėsi belaisvius; juos apsupo staiga pasiro­
     dę kryžiuočiai ir privertė atsiteisti už neapgalvotą nar­
     sumą ar godumą: neteko penkiolikos karių ir didelės
-    grobio dalies.
+    grobio dalies. Kai lietuviai niokojo kryžiuočių kraštą,
+    šie irgi neliko ramūs. Magistras Konradas, su didžiule
+    kariuomene užpuolęs Žemai-
+    S a v o ru o žtu k ry žiu o -
+    tiją, nusiaubė Karšuvos že-
+    č ia i sia u b ia L ie tu vą
+    mę. Vis dėlto žmonių ne­
+    daug žuvo, nes gyventojai,
+    palikę namus priešų valiai, patys su visais brangesniais
+    daiktais išsislapstė miškų tankmėse.
+  citata_rodoma: "Vėliau, be tvarkos kelian­\n180\n\n## Puslapis 179\n\ntis per Narevą, upės sūkuriuose žuvo didelė dalis ka­\nrių ir grobio. Ne geriau pavyko kitam lietuvių būriui,\napiplėšusiam Liubavą. Penkiasdešimt raitelių (nunioko­\nję kaimus, jie išžudė daugybę kaimiečių, kuriuos už­\nklupo beginklius), nejausdami pavojaus, vežėsi namo\ngrobį ir varėsi belaisvius; juos apsupo staiga pasiro­\ndę kryžiuočiai ir privertė atsiteisti už neapgalvotą nar­\nsumą ar godumą: neteko penkiolikos karių ir didelės\ngrobio dalies."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -83,7 +83,7 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58804|pilėnas pilėnai]]: 1314 m. Medininkų valsčiaus Sizditės pilėnai narsiai priešinosi maršalo Henriko kariuomenės puolimui.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58805|pilėnas pilėnai]]: Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.
 - susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184634|pilėnas]]: Gardino užpuolimo metu pilėnai buvo išžudyti, paimti į nelaisvę arba neteko išplėštų ir sudegintų namų.
-- susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Bisenės užpuolimą pilėnai narsiai atrėmė, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
+- susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Kojelavičiaus pasakojime Bisenės pilėnai narsiai atrėmė užpuolimą, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60083|Anonas (didysis magistras)]]: Didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59881|Bertoldas, vadinamas Briuhavenu]]: Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes.
@@ -175,31 +175,6 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70227|maldininkai / maldininko įžadai]]: Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184013|papilys]]: 1317 m. Ordino broliams nepavyko paimti Gedimino pilies, tačiau jie visiškai sudegino jos papilį.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58779|papilys]]: 1317 m. Fridrichas iš Libencelės nesėkmingai bandė paimti Gedimino pilį, tačiau Ordino broliams pavyko sudeginti jos papilį.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kai iš Vokietijos, Austrijos ir Prancūzijos susirinko pas
-    kryžiuočius už atgailą « pasižadėjusių kovoti prieš pagonis ir neti­
-    kinčius » kunigaikščių, didikų, riterių ir maldininkų, 1336 m. vasario
-    mėn. buvo suruoštas didelis žygis Lietuvon^15. Apgultos Pilėnų
-    (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovaujama, nar­
-    siai gynėsi. Wigando Marburgiečio eiliuotinėje kronikoje, jau žuvu­
-    sioje, kurią plačiai panaudojo C. Schuetz, yra aprašyta, kaip lietu­
-    viai, negalėdami atsispirti didžiai kryžiuočių jėgai, « kadangi pyli­
-    mas ir užtvaros, nuolat puolamos, jau buvo pralaužtos ir iš dalies
-    sunaikintos », pilies viduryje užkūrė didelį laužą, į jį sumetė savo
-    turtą, ir « nužudę visas moteris ir vaikus ir sumetę lavonus į ugnį,
-    vienas po kito patys išsižudė».
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-33997

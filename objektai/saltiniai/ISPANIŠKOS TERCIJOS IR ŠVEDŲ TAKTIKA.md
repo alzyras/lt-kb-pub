@@ -34,20 +34,6 @@ media_all_json: |-
   teiginys: "„Ispaniškos tercijos ir švedų taktika“ iliustracijos autoriumi nurodytas dailininkas Andžej Geglis."
   pagrindžia:
     - c-44995
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 117, „ISPANIŠKOS TERCIJOS IR ŠVEDŲ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis.
-    P. 123, „LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A.“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

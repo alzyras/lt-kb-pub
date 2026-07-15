@@ -64,7 +64,6 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
 - susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189424|Senovės egiptiečiai]]: Narbutas, remdamasis Herodotu ir Strabonu, rašė, kad egiptiečiai ir finikiečiai pirmieji pradėjo statyti šventyklas dievams.
 - susijęs iš [[objektai/zodynas/Miškas su kovarniais.md#claim-t-189313|Miškas su kovarniais]]: Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes kovarniai lizdus krauna aukštuose medžiuose tankiose ar nuošaliose vietose.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais dievų šventyklų statytojais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -157,22 +156,22 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
 - id: c-173337
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 263."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
-    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
-    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
-    randame nuolat minimus miškus: kartais kalbama apie mišką
-    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
-    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
-    kiausiame miške ar nuošaliausiose vietose.
-    Šventyklos
-    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
-    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
-    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
-    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
-    kalnai.
+    Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
+    dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
+    giją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir
+    puošė dievų statulomis. Neabejotina, kad Retra iš karto buvo
+    lierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-
+    l<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­
+    nanti prabangumu tas beveik dar laukines Europos šalis. Ar
+    ne paprasčiau būtų to rūmo pastatymą priskirti užkariauto­
+    jams iš Italijos negu slavams, kurie savo šalyje niekur nieko
+    panašaus neturėjo ir, atplūdę iš Vyslos dešiniojo kranto miš­
+    kingų tyrų, užgrobė vandalų, svebų ir kitų vokiečių tautų ap­
+    leistas žemes, o paskui pradėjo spausti herulus ir užiminėti jų
+    apgyventas sodybas.
+  citata_rodoma: "Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­\nto, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už\nXVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų\nrandame nuolat minimus miškus: kartais kalbama apie mišką\nsu kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­\nčiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­\nkiausiame miške ar nuošaliausiose vietose.\nŠventyklos\nHerodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai\npirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­\nriuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar\nilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo\nkalnai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -183,16 +182,17 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
 - id: c-173676
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 335"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Fosas teigia, jog jis pasiekė tik Reiną ar
-    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
+    Spėjama, kad šališkas jo aiškin­
     tojas Strabonas daug ką jam priskyrė svetimo. Dažnai
     jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
     ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
     jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
-    vintais jėzuitų aprašymais.
+    vintais jėzuitų aprašymais. Pitėjas vadina gutonus ger­
+    manų gentimi, tuo tarpu Tacitas tikina, jog šis pavadi­
+    nimas pradėtas vartoti tik neseniai.
+  citata_rodoma: "Fosas teigia, jog jis pasiekė tik Reiną ar\ntoliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­\ntojas Strabonas daug ką jam priskyrė svetimo. Dažnai\njo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo\nilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­\njęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­\nvintais jėzuitų aprašymais."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -203,8 +203,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
 - id: c-173677
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
@@ -221,7 +220,9 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
     žemėlapiai
     šiai jūrai skiria gerokai didesnį plotą, negu ji užima
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
-    mėse, kurios tarsi įrodo jos mažėjimą.
+    mėse, kurios tarsi įrodo jos mažėjimą. Tačiau esama dar
+    1 Tacitas kildina iš lotyniško žodžio germanus, gimtas.
+  citata_rodoma: "Tačiau Kelsijus ir Dalinas per­\nnelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo\nKristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po\nketurių tūkstančių metų jos neliks nė pėdsako. Antra\nvertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,\nOvidijus kalba apie vandens lygio kritimą, pateikdami\nakivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis\napie\nBaltijos\njūrą“).\nSeni\nvenecijiečių\nžemėlapiai\nšiai jūrai skiria gerokai didesnį plotą, negu ji užima\nšiandien, be to, matoma daug pavyzdžių ir gretimose že­\nmėse, kurios tarsi įrodo jos mažėjimą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -232,12 +233,16 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
 - id: c-177286
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Iš ten jis pasuko
-    į pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų
-    1 Strabo. Lib. XVII. P. 802.
+    krantų ir ajplankė gintaro kasyklas, kurios, be abejonės,
+    greta alavo, buvo svarbiausias jo kelionės tikslas. Jis taip
+    aprašė mus dominančius dalykus: „Šioje šaltoje zonoje
+    žmonės dar nežino rinktinių rūšių vaisių, kai kurių nami­
+    nių gyvulių; maistui vartoja soras bei kitų javų grūdus ir
+    daržoves. Tie, kurie turi medaus ir grūdų, gamina iš jų
+    gėrimus.
+  citata_rodoma: "Iš ten jis pasuko\nį pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų\n1 Strabo. Lib. XVII. P. 802."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

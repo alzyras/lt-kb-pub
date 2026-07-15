@@ -36,23 +36,6 @@ Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.
   pagrindžia:
     - c-36652
 - susijęs iš Raupsuotoji: E. Mnišek „Raupsuotoji“ lietuviškai išleista trimis dalimis, ją vertė P. Jurgelevičius.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'E. Mnišek trijų dalių kūrinį „Raupsuotoji“ į lietuvių kalbą vertė P. Jurgelevičius.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    4. E. Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.
-    Jurgelevičius. Kiekvienos dalies kaina. Lt. 3,50. Išleista gerame popieriu­
-    je, su iliustracijomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-36652

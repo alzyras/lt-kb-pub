@@ -43,20 +43,6 @@ Davies N.
   teiginys: "N. Daviesas parašė veikalo „God’s Playground: A History of Poland“ pirmąjį tomą apie Lenkijos istorijos ištakas iki 1795 m."
   pagrindžia:
     - c-20728
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius, 2005.
-    Davies N. God’s playground: a history of Poland. T. 1: The origins to 1795.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

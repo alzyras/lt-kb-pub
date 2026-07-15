@@ -36,37 +36,12 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-78930"></a>
+<a id="claim-t-78929"></a>
 - t-001
-  global_id: t-78930
+  global_id: t-78929
   teiginys: "1715 m. Tarnogrodo konfederacija tapo pretekstu į ATR įvesti Rusijos kariuomenę, turėjusią atlikti „taikdarišką“ ir „tarpininkavimo“ misiją."
   pagrindžia:
     - c-76029
-
-<a id="claim-t-78930"></a>
-- t-002
-  global_id: t-78930
-  teiginys: "1715 m. Tarnogrodo konfederacija tapo pretekstu į ATR įvesti Rusijos kariuomenę, turėjusią atlikti „taikdarišką“ ir „tarpininkavimo“ misiją."
-  pagrindžia:
-    - c-76029
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rusija siekė išlaikyti vidinį ATR susiskaldymą, neleisdama susti-
-    prėti nė vienai partijai. 1715 m., rusų paskatinta, susidarė prieš
-    karalių Augustą 1 nukreipta Tarnogrodo konfederacija, ji tapo
-    pretekstu į šalį įvesti Rusijos kariuomenę, kuri turėjo atlikti „taik-
-    darišką“ ir „tarpininkavimo“ misiją. Po to 1717 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -85,5 +60,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78930
     - t-78929

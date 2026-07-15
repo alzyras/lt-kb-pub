@@ -42,22 +42,6 @@ Moksli­ niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenk
   teiginys: "„Lietuva ir Lenkija po 1569 metų Liublino unijos. Jų valstybinių santykių bruožai“ buvo plati disertacija, išspausdinta 1938 m."
   pagrindžia:
     - c-29823
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Moksli­
-    niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
-    po 1569 metų Liublino unijos. Jų valstybinių santykių bruožai »
-    (išsp. 1938).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

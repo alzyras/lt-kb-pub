@@ -78,43 +78,6 @@ Nenurodyta
   teiginys: "Valdžia siekė kaimo mokykloms išleisti dvikalbius elementorius, kuriuose lietuviški vertimai būtų rašomi kirilika."
   pagrindžia:
     - c-154556
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tikos šalininkai vadovavosi nuostata, kad vykstant pažangai lietuvių kal-
-    bai vis tiek lemta išnykti. Esą šia kalba tekalba tik pora milijonų, nėra bent
-    kiek gausesnės raštijos, tad valdžiai nėra ko su ja terliotis.
-    Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose
-    pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai
-    įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvi-
-    kalbius elementorius, kuriuose būtų ir rusiškų žodžių vertimai į lietuvių
-    kalbą, užrašyti ne tradiciniu šiai kalbai lotyniškuoju raidynu, o rusų rai-
-    dynu – kirilika.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iš to gimė sumanymas pakeisti lietuvių raštijoje tradicinį
-    lotyniškąjį raidyną rusišku raidynu, arba kirilika. 1864 m. M. Muravjovo
-    nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis drau-
-    dimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m.
-    pavasario.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -138,6 +101,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169869
+    - t-169870
 
 - id: c-154558
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

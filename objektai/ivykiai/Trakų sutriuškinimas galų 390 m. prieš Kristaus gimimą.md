@@ -48,40 +48,13 @@ Nenurodyta
   teiginys: "Narbutas rašo, kad IV a. pr. Kr. trakai nuo Dunojaus prasibrovė į Skitiją ir 390 m. pr. Kr. buvo sutriuškinti galų."
   pagrindžia:
     - c-174753
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad IV a. pr. Kr. trakai nuo Dunojaus prasibrovė į Skitiją ir 390 m. pr. Kr. buvo sutriuškinti galų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Getai, pelazgų giminės gentis, ne­
-    praleido progos pasistūmėti prie Dnestro, įsiterpdami tarp
-    klajoklių skitų ordų, kariaudami su kai kuriomis iš jų ar
-    paremdami jas kovose vienos su kitomis. Jiems giminin­
-    gi trakai taip pat IV amžiuje prieš Kristaus giminių
-    prasibrovė nuo Dunojaus pusės j Skitiją ir gal ilgam
-    būtų įkūrę ten savo valstybę, jei 390 metais nebūtų buvę
-    sutriuškinti galų. Vėliau, 358 metais prieš Kristaus gi­
-    mimą, ėmė didėti politinė įtaka karaliaus Pilypo valdo­
-    mos Makedonijos, kurios galia Graikijos atžvilgiu iškilo
-    iki tokio lygio, jog Skitijos tautos, turėjusios glaudžius
-    ryšius su tenykščiais graikų kolonistais, pajuto nemažą
-    įtaką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174753
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 58."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Getai, pelazgų giminės gentis, ne­
     praleido progos pasistūmėti prie Dnestro, įsiterpdami tarp

@@ -56,24 +56,6 @@ Nenurodyta
   teiginys: "Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis."
   pagrindžia:
     - c-00240
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip visoje gamtoje buvo pilna dievybių, taip jų buvo apstu
-    ir aisčių namuose. Be namų dvasios, kuri saugojusi visus namus,
-    čia buvo dar židinio ir kitokių dievų. Be to, namuose buvo lai-
-    komi šventieji gyvuliai, ypač žalčiai. Į paskirtą guolį jie
-    būdavo įvedami su tam tikromis apeigomis ir ten buvo laikomi,
-    kaip namų globėjai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

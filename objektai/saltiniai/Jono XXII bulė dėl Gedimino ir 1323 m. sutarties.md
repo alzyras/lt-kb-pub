@@ -42,29 +42,6 @@ Didelį palankumą reikšdami primename ir patariame jums, kad tos sutarties, ka
   teiginys: "Žinios apie Gedimino laišką popiežiui buvo paimtos iš Jono XXII bulės nuorašo Slaptajame archyve."
   pagrindžia:
     - c-84233
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Žinios apie Gedimino laišką popiežiui buvo paimtos iš Jono XXII bulės nuorašo Slaptajame archyve.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Didelį palankumą reikšdami primename ir patariame jums,
-    kad tos sutarties, kad ir kokios būtų sąlygos prisiimant
-    o
-    Laiško popiežiui jau neturime; šias
-    žinias ėmėme iš popiežiaus bulės: in
-    Regest, litterar. communium Johan
-    X X II, epist. 1894 P. Il - nuorašo
-    Slapt. Arch. Nr. 379; kur taip pat yra
-    abi sutartys, valdovo Gedimino ir
-    įgaliotų tarpininkų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

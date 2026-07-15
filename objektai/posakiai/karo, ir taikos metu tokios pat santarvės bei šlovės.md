@@ -35,40 +35,13 @@ Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarv
   teiginys: "Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu."
   pagrindžia:
     - c-168838
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Sukvietus Kernavėje didikų sueigą, Germanto
-    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
-    valdovu, jo broliui Trobiui
-    patikėta Žemaitija su ta są­
-    lyga, kad jis bus pavaldus
-    Lietuvos didžiajam kunigaik­
-    ščiui. Rūmų maršalas, para­
-    ginęs vieną bei kitą siekti ir
-    karo, ir taikos metu tokios pat santarvės bei šlovės,
-    kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
-    bei lazdą. Šitoks nesudėtingas tada buvo vainikavimo
-    paprotys, kuriuo valdovui suteikdavo aukščiausiąją ga­
-    lią žiūrėti valstybės reikalų ir viduje, ir svetur.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-168838
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 131"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Sukvietus Kernavėje didikų sueigą, Germanto
     vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos

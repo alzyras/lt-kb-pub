@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Priešams grįžus į Prūsiją, visą Lietuvą užgulė badas, siejamas su prastu oru ir nuolatiniais priešų antpuoliais.
+Kojelavičius badą Lietuvoje siejo su prastu oru ir tuo, kad dėl nuolatinių priešo antpuolių galėjo būti nebedirbama žemė. Kitų metų sausį Prūsų magistras, remiamas Bavarijos grafo Volfgango ir Livonijos kryžiuočių, nusiaubė Lietuvą ir sunaikino Ariogalos, Pernaravos bei Labūnavos žemes.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -50,46 +50,28 @@ Nenurodyta
 <a id="claim-t-185764"></a>
 - t-001
   global_id: t-185764
-  teiginys: "Priešams grįžus į Prūsiją, visą Lietuvą užgulė badas, siejamas su prastu oru ir nuolatiniais priešų antpuoliais."
+  teiginys: "Kojelavičius badą Lietuvoje siejo su prastu oru ir tuo, kad dėl nuolatinių priešo antpuolių galėjo būti nebedirbama žemė."
   pagrindžia:
     - c-169125
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Priešams grįžus į Prūsiją, visą Lietuvą užgulė badas, siejamas su prastu oru ir nuolatiniais priešų antpuoliais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
-    desnė nelaimė — badas, siau-
-    B adas L ie tu v o je
-    binga našta užgulęs visą Lie­
-    tuvą, galimas daiktas, dėl to,
-    kad tais metais apskritai visur buvo blogas oras, net­
-    gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­
-    latinių priešo antpuolių iš baimės niekas nebedirbo
-    žemės ar iš viso nebuvo kam ją dirbti. Neatnešė ato­
-    kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
-    paramos iš Bavarijos grafo Volfgango ir Livonijos
-    kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
-    Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti­
-    joje tapo visai sunaikintos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196252"></a>
+- t-002
+  global_id: t-196252
+  teiginys: "Kitų metų sausį Prūsų magistras, remiamas Bavarijos grafo Volfgango ir Livonijos kryžiuočių, nusiaubė Lietuvą ir sunaikino Ariogalos, Pernaravos bei Labūnavos žemes."
   pagrindžia:
-    - t-001
+    - c-178597
 
 ## Citatos
 
 - id: c-169125
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 245."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
+    Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­
+    nos pilis: pirmąją išsigandę gynėjai atidavė be kovos,
+    antrąją paėmė po keturias dienas užtrukusios apgul-
+    ties. Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
     desnė nelaimė — badas, siau-
     B adas L ie tu v o je
     binga našta užgulęs visą Lie­
@@ -103,9 +85,44 @@ Nenurodyta
     kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
     Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti­
     joje tapo visai sunaikintos.
+  citata_rodoma: "Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­\ndesnė nelaimė — badas, siau-\nB adas L ie tu v o je\nbinga našta užgulęs visą Lie­\ntuvą, galimas daiktas, dėl to,\nkad tais metais apskritai visur buvo blogas oras, net­\ngi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­\nlatinių priešo antpuolių iš baimės niekas nebedirbo\nžemės ar iš viso nebuvo kam ją dirbti. Neatnešė ato­\nkvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs\nparamos iš Bavarijos grafo Volfgango ir Livonijos\nkryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:\nAriogalos, Pernaravos ir Labūnavos žemės Žemaiti­\njoje tapo visai sunaikintos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185764
+
+- id: c-178597
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Neatnešė ato­
+    kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
+    paramos iš Bavarijos grafo Volfgango ir Livonijos
+    kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
+    Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti­
+    joje tapo visai sunaikintos. Sėkmingai išsigabenus vi­
+    są grobį ir išsivedus visus belaisvius, grėsmingai įsi­
+    veržė į Lietuvą Prūsijos maršalas Šindekopfas ir
+    2 47
+
+    apsupo Gardiną; kadangi Pat-
+    1363 m e ta i
+    rikas, vadovavęs pilies gyny-
+    P iū sų
+    ž y g ia i
+    į
+    Lie-
+    bai, narsiai atrėmė keletą
+    tu v ą ir Ž e m a itiją
+    antpuolių, kryžiuotis, išsiža­
+    dėjęs minties užimti pilį, iš­
+    siuntė karius niokoti kaimų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196252

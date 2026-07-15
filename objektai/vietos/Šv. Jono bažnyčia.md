@@ -4,11 +4,18 @@ pavadinimas: 'Šv. Jono bažnyčia'
 saltiniai:
   - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
+datos:
+  - '1630 m.'
+date_start: '1630'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - šventvietė
   - vieta
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -26,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią. Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią.
+Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jono bažnyčią, visą mū­ rinį.
 
 ## Teiginiai
 
@@ -43,6 +50,13 @@ Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyči�
   teiginys: "Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią."
   pagrindžia:
     - c-82259
+
+<a id="claim-t-200788"></a>
+- t-003
+  global_id: t-200788
+  teiginys: "Šv. Jono bažnyčios puošnus fasadas uždarė ketvirtąją Didžiojo rūmų kiemo pusę, kai kitos trys buvo apsuptos arkadomis."
+  pagrindžia:
+    - c-184133
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172812|Vilniaus magistratas]]: 1667 m. balandžio 4 d. Vilniaus magistratas stojo į teismą su Šv. Jono bažnyčia dėl ankstesnių potvarkių.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
 - susijęs iš [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai.md#claim-t-86511|arkipresbiteris nuolatinis vikaras adjutoriai]]: Nuo įkūrimo Šv. Jono bažnyčia buvo pavesta klebonams, turėjusiems arkipresbiterių titulus ir kelis pagalbininkus kunigus.
@@ -90,3 +104,20 @@ Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyči�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86280
+
+- id: c-184133
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 34"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 34."
+  citata_originali: |
+    Didysis rūmų kiemas ( 33 ) buvo užbaigtas 1630 me­
+    tais. Apsuptas iš trijų pusių arkadomis, o iš ketvirtos pusės uždarytas puoš­
+    niu šv. Jono bažnyčios fasadu, šis kiemas žavi mus plačia ir vienkart dar­
+    niai organizuota erdve.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200788

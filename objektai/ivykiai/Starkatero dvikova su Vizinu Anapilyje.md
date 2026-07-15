@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas perteikia pasakojimą, kad Starkateras Rusioje iškvietė Viziną į dvikovą ir nukovė jį oda apsiūtu kalaviju.
+Narbutas perteikia pasakojimą, kad Starkateras Rusioje iškvietė Viziną į dvikovą ir nukovė jį oda apsiūtu kalaviju. Narsusis Starkateras, tai sužino jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė jį, pasitelkęs ¡gudrybę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,35 +47,20 @@ Nenurodyta
   teiginys: "Narbutas perteikia pasakojimą, kad Starkateras Rusioje iškvietė Viziną į dvikovą ir nukovė jį oda apsiūtu kalaviju."
   pagrindžia:
     - c-173910
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas perteikia pasakojimą, kad Starkateras Rusioje iškvietė Viziną į dvikovą ir nukovė jį oda apsiūtu kalaviju.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pirkliavę Danijoje rusai
-    guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
-    jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė
-    jį, pasitelkęs ¡gudrybę. Žinodamas, kad slibinas žvilgsniu
-    užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona
-    oda; taip burtininko akims nepasiekiamas ¡ginklas padėjo
-    jam, nes, pasikliaudamas savo burtais, slibinas nebuvo itin
-    atsargus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197557"></a>
+- t-002
+  global_id: t-197557
+  teiginys: "Narsusis Starkateras, tai sužino jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė jį, pasitelkęs ¡gudrybę."
   pagrindžia:
-    - t-001
+    - c-179243
 
 ## Citatos
 
 - id: c-173910
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 244"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pirkliavę Danijoje rusai
     guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
@@ -91,3 +76,27 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191028
+
+- id: c-179243
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Jį vadindavo plėšriuoju slibi­
+    nu2, be to, jis turėjęs stiprią burtų galią, nes kiekvieną
+    prieš jį pakeltą ginklą mokėjo vien žvilgsniu nugalėti.
+    Taip pat buvo toks drąsus, kad ¡grobdavo iš vyrų jaunas
+    žmonas ir nuotakas iš tėvų namų. Pirkliavę Danijoje rusai
+    guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
+    jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė
+    jį, pasitelkęs ¡gudrybę. Žinodamas, kad slibinas žvilgsniu
+    užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona
+    oda; taip burtininko akims nepasiekiamas ¡ginklas padėjo
+    jam, nes, pasikliaudamas savo burtais, slibinas nebuvo itin
+    atsargus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197557

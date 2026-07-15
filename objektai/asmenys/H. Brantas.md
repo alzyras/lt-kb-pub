@@ -35,28 +35,6 @@ Branto kavaleriją, kuri pradėjo trauktis. Raiteliai bėga pirmi, pavadžiais s
   teiginys: "H. Brantas buvo generolas, kurio kavaleriją sumušė J. P. Sapiegos, M. Vielamovskio ir M. Giedraičio vėliavos, priversdamos ją trauktis."
   pagrindžia:
     - c-44339
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuomet didžiojo etmono dėmesys buvo
-    nukreiptas į lietuvių dešinįjį sparną. Ar su-
-    gebės rotmistro J. P. Sapiegos husarų ir pe-
-    tihorų vėliavos atlaikyti pagrindinį Švedijos
-    kariuomenės smūgį ir sužlugdyti Karolio
-    Ix planą apeiti Lietuvos kariuomenę.
-    Rotmistry J. P. Sapiegos, M. Vielamovskio,
-    M. Giedraičio vėliavos sugebėjo sumušti
-    generolo H. Branto kavaleriją, kuri pradėjo
-    trauktis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

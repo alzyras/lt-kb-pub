@@ -62,45 +62,6 @@ Nenurodyta
   teiginys: "Aukštesniojo ir aukštojo mokslo siekę Lietuvos gyventojai turėdavo vykti į užsienį: dvasininkai dažniausiai rinkdavosi Krokuvą, kiti - Vakarų Europą."
   pagrindžia:
     - c-67224
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Aukštesniojo ir aukštojo mokslo siekę Lietuvos gyventojai turėdavo vykti į užsienį: dvasininkai dažniausiai rinkdavosi Krokuvą, kiti - Vakarų Europą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jono bažnyčios buvo aukštes-
-    nioji teisės mokykla. Šiaip, kas norėdavo gauti aukštesniojo ir
-
-
-    aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-
-    ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
-    visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
-    Italiją ir Prancūziją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Lietuvai tapus krikščioniška valstybe, Lietuvos žmonės pradėjo vykti mokytis į Europos universitetus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pa-
-    goniškoji, nuo Europos atskirta ir jos ujama Lietuva tapo krikš-
-    čioniška valstybe, lygi su visomis kitomis. Lietuvos žmonės
-    pradėjo šviestis, vyko mokytis į Europos universitetus. Prasi-
-    dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai
-    praturtėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

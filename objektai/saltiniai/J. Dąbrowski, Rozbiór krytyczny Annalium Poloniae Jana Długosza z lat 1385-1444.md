@@ -43,23 +43,6 @@ Dąbrowski : Rozbiór krytyczny Anna ­ lium Poloniae Jana Długosza z lat 1385-
   teiginys: "J. Dąbrowskio „Rozbiór krytyczny Annalium Poloniae Jana Długosza z lat 1385–1444“ I tomas išleistas Vroclave, Varšuvoje ir Krokuvoje 1961 m."
   pagrindžia:
     - c-33584
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1, 1909, 25 (12-28); zesz. 2, 121-132 p. — Plg. M. Goyski
-    rec., KH, t. 26, 1912, 332-333 p. — J.** Dąbrowski **:** **_Rozbiór krytyczny Anna_** **­**
-    **_lium Poloniae Jana Długosza z lat 1385-1444,_** **I, Wroclaw-Warszawa-Kraków
-    1961, 53 p.**
-    (^31) **DlugO, XII, 526 p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

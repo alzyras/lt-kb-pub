@@ -40,33 +40,13 @@ Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ mini
   teiginys: "Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ minimas kaip šaltinis svarstant kolchų ryšius su egiptiečiais prie Azovo jūros."
   pagrindžia:
     - c-174692
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ minimas kaip šaltinis svarstant kolchų ryšius su egiptiečiais prie Azovo jūros.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kadangi tie kolchai turėjo santykių su egiptiečiais ar
-    priiminėjo juos, jų kolonijų ar tik pastatyto miesto ar
-    tvirtovės būta šiaurinėje Azovo jūros pakrantėje, tai da­
-    1
-    Ritter Carl. Die Vorhalle europäischer Völkergeschichten. Ber­
-    lin, 1820.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174692
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kadangi tie kolchai turėjo santykių su egiptiečiais ar
     priiminėjo juos, jų kolonijų ar tik pastatyto miesto ar

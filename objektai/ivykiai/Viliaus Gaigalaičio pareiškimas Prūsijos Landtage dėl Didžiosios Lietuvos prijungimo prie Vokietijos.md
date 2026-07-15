@@ -50,22 +50,6 @@ Nenurodyta
   teiginys: "Rugpjūčio 1 d. Prūsijos Landtage Vilius Gaigalaitis lietuvių vardu pareiškė tikįsis Didžiosios Lietuvos prijungimo prie Vokietijos."
   pagrindžia:
     - c-26612
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vo-
-    kiečiai atsiliepė rugpjūčio 1-ąją – Prūsijos Landtage parlamentaras lietuvis
-    Vilius (Vilhelmas) Gaigalaitis lietuvių vardu pareiškė, kad tikimasi Didžio-
-    sios Lietuvos prijungimo prie Vokietijos...
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

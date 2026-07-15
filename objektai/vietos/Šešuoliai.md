@@ -47,22 +47,6 @@ media_all_json: |-
 - susijęs iš Lebedevas: Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais.
 - susijęs iš Pumos: Aleksandrui Jurjevičiui Lietuvoje priklausė Pumos.
 - susijęs iš Svyruotai: Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Svyruotus kartu su kitomis valdomis.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o
-    1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­
-    niaus. Tada abiejų lyčių lietuvių buvę nužudyta 1200^4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-28413

@@ -9,13 +9,13 @@ datos:
   - '1553 m.'
 date_start: '1536'
 date_end: '1553'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - kaimas
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,14 +56,12 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 - susijęs iš [[objektai/asmenys/Ona (Vytauto žmona).md#claim-t-184811|Ona (Vytauto žmona)]]: Vytautas po žmonos Onos mirties Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.
 - susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173217|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.
 - susijęs iš [[objektai/asmenys/Povilas Algimantas.md#claim-t-87835|Povilas Algimantas]]: Povilas Algimantas buvo Alšėnų kunigaikštis, nuo 1536 m. Vilniaus vyskupas ir mirė 1553 metais.
-- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121171|Tautvilas]]: Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176767|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1418 m. mirus žmonai Onai, Vytautas nusprendė vesti jos dukterėčią Julijoną Alšėniškę.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184877|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Alšėnų kunigaikščio Algimantaičio dukra Julijona.
 - susijęs iš [[objektai/grupes/Alšėnų kunigaikščiai.md#claim-t-187703|Alšėnų kunigaikščiai]]: Alšėnų kunigaikščio Jono Algimantaičio sūnus Andrius Algimantaitis po Skirgailos mirties buvo Vytauto vietininkas Kijeve.
 - susijęs iš [[objektai/grupes/Alšėnų kunigaikščiai.md#claim-t-74068|Alšėnų kunigaikščiai]]: Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir nepriklausę Gediminaičių dinastijai, priėmė stačiatikybę.
 - susijęs iš [[objektai/grupes/Alšėnų kunigaikščiai.md#claim-t-74069|Alšėnų kunigaikščiai]]: Alšėnų kunigaikščiai priėmė stačiatikybę, nors turėjo tėvonijų valstybės branduolyje ir nebuvo kilę iš Gediminaičių dinastijos.
 - susijęs iš [[objektai/ivykiai/Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu.md#claim-t-186623|Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu]]: Lietuvos metraščio pasakojime Alšėnuose susirinkę didikai vienbalsiai nutarė rinkti Kazimierą Didžiosios Kunigaikštystės šeimininku.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Julijonos santuoka.md#claim-t-185786|Vytauto ir Julijonos santuoka]]: Trakuose, mirus žmonai Onai, Vytautas nutarė vesti Julijoną, Alšėnų kunigaikščio Algimantaičio dukrą.
 - susijęs iš [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas.md#claim-t-01877|Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]: Po Skirgailos mirties 1397 m. Vytautas Kijeve paskyrė savo vietininką Alšėnų kunigaikštį Joną Algimantaitį.
 - susijęs iš Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko: 1432 m. rugsėjo 3 d. laiške iš Polocko Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
 - susijęs iš Vitebskas: Švitrigaila Vitebske įsakė Alšėnų kunigaikštį nuo aukšto skardžio įmesti į Dviną.
@@ -94,7 +92,6 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 - susijęs iš [[objektai/asmenys/Zofija Algimantaitė.md#claim-t-34776|Zofija Algimantaitė]]: Zofija Algimantaitė buvo išauklėta Vytauto dvare ir laikyta jo giminaite.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179712|Švitrigaila]]: Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179726|Švitrigaila]]: Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.
-- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114099|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173340|Žygimantas Senasis]]: Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą.
 - susijęs iš [[objektai/autoriai/Spycinas.md#claim-t-30988|Spycinas]]: Spycinas buvo proistorikas.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108281|Pranciškonų ordinas]]: Maždaug 1522 m. pranciškonai vietoje sudegusios medinės bažnyčios išmūrijo Šv. Mikalojaus bažnyčią.
@@ -108,7 +105,7 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 - susijęs iš [[objektai/grupes/Čartoriskiai.md#claim-t-183202|Čartoriskiai]]: Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių.
 - susijęs iš [[objektai/grupes/Čartoriskiai.md#claim-t-45273|Čartoriskiai]]: Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186714|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogailos krikštas įvyko 1386 m. vasario 15 d., jungtuvės su Jadvyga vasario 18 d., o vainikavimas kovo 4 d.
-- susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą ir kovo 4 d. vainikuotas Lenkijos karaliumi.
+- susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą, o kovo 4 d. vainikuotas Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186716|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad 1386 m. sausio 11 d. Jogaila buvo Volkovyske, o 1386 m. vasario 12 d. keliavo į Krokuvą.
 - susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.).md#claim-t-185586|Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.)]]: Po ginčų daugelis Lietuvos didikų nutarė valdovu rinkti karaliaus Vladislovo brolį Kazimierą.
 - susijęs iš [[objektai/ivykiai/Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu.md#claim-t-186622|Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu]]: Lietuvos metraščio pasakojime pas Kazimierą į Sandomirą pasiuntiniais buvo išsiųsti Mykolas ir Jonas Kęsgailos.
@@ -126,33 +123,12 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 - susijęs iš Polockas: 1432 m. rugsėjo 3 d. Švitrigaila iš Polocko rašė didžiajam magistrui ir prašė skubios pagalbos.
 - susijęs iš Polockas: 1432 m. rugsėjo 3 d. Švitrigaila iš Polocko parašė laišką didžiajam magistrui, prašydamas skubios pagalbos.
 - susijęs iš Polockas: Lietuvos metraštis Kęstutį vadina didžiuoju kunigaikščiu ir rašo, kad užėmęs Vilnių jis pasiuntė du žmones į Polocką.
-- susijęs iš Vilnius: 1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines idėjas ir savo mokykloje išlavino šešiasdešimt mokinių.
-- susijęs iš Vilnius: Tą pačią vasarą į Vilnių pas Aleksandrą atvyko jo motina Elžbieta, brolis Fridrichas ir seserys Barbora bei Elžbieta, o metraštis pabrėžia džiaugsmingą jų priėmimą.
 - susijęs iš Voluinė: Po paskutinio karo Voluinėje Jogaila išlaisvino lietuvių didikus Rumbautą ir Goštautą ir pasiuntė juos Švitrigailai į Vilnių.
 - susijęs iš Voluinė: Jogaila išlaisvino paskutiniame kare Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą.
 - susijęs iš [[objektai/zodynas/kapitula.md#claim-t-70167|kapitula]]: Ordino kapitulai sutikus, kryžiuočių viršininkas pavedė Vytautui valdyti Naują Marienburgo pilį.
 - susijęs iš [[objektai/zodynas/oratorija.md#claim-t-86602|oratorija]]: Vilniaus vyskupas Povilas Alšėniškis savo sode pastatydino nedidelę oratoriją, arba koplyčią, pranciškonų kankinių palaidojimo vietoje.
 - susijęs iš Daugava: Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dalyvaujant didžiai
-    gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­
-    kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­
-    pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus
-    ................Jonui, Jurgiui Astikaičiui, Trakų...................
-    Gregorovičiui, Alšėnų kunigaikščiui ir Kijevo...................
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Voložine išgirdęs apie Žygimanto mirtį, Jonas Goštautas išskubėjo į Alšėnus pas Jurgį Simonaitį Alšėniškį.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -201,17 +177,26 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Didysis
-    kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
-    atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
-    lenską jo vieton nusiuntė Andrių Sakavičių * . Kelyje
-    pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa­
-    sisvečiuoti pas Voložino kunigaikščius, ir Voložine at­
-    ėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį,
-    ir Goštautas išskubėjo j Alšėnus6  pas kunigaikštį Jurgį
-    Simonaitį Alšėniškį7 . Ir ten suvažiavę skubiai praneša
-    Vilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir
-    Mikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 .
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
+    seniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­
+    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
+    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
+    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
+    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
+    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
+    Kunigaikštystės. Ir su visais tais miestais prisijungė
+    prie Mazovijos ir ėmė tarnauti Mykoliukui
+    Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­
+    zimieras ir Didžiosios Kunigaikštystės Ponų Taryba
+    skubiai siunčia su kariuomene Joną Goštautą, kurį, įke­
+    liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
+    gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
+    vo mažametis.
+  citata_rodoma: "Didysis \nkunigaikštis Žygimantas rašė ir jam, kad skirtu laiku \natvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­\nlenską jo vieton nusiuntė Andrių Sakavičių * . Kelyje \npas kunigaikštį Žygimantą Jonas Goštautas užsuko pa­\nsisvečiuoti pas Voložino kunigaikščius, ir Voložine at­\nėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį, \nir Goštautas išskubėjo j Alšėnus6  pas kunigaikštį Jurgį \nSimonaitį Alšėniškį7 . Ir ten suvažiavę skubiai praneša \nVilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir \nMikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

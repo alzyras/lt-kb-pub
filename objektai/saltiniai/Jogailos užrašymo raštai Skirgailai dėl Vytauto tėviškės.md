@@ -5,9 +5,6 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - dokumentas
-  - saltinis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,50 +26,32 @@ Jau metai laiko nūnai, kai kunigaikštis [Jogailai Liublino pilyje užrašė ku
 
 ## Teiginiai
 
-<a id="claim-t-194167"></a>
+<a id="claim-t-199239"></a>
 - t-001
-  global_id: t-194167
+  global_id: t-199239
   teiginys: "Jau metai laiko nūnai, kai kunigaikštis [Jogailai Liublino pilyje užrašė kunigaikščiui Skirgailai raštais visą mano tėviškę mano akivaizdoje6 ."
   pagrindžia:
-    - c-176780
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jau metai laiko nūnai, kai kunigaikštis [Jogailai Liublino pilyje užrašė kunigaikščiui Skirgailai raštais visą mano tėviškę mano akivaizdoje6 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Jau metai laiko nūnai, kai kunigaikštis [Jogailai
-    Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
-    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
-    labai skaudu. Dėl to aš skundžiausi dažnai kunigaikš­
-    čiui Jogailai ir mačiau aiškiai, kad aš čia ničnieko ne­
-    galėjau padaryti ir negalėjau nieku būdu tų privilegijų
-    nusimesti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+    - c-181761
 
 ## Citatos
 
-- id: c-176780
+- id: c-181761
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 175."
   citata_originali: |
     Jau metai laiko nūnai, kai kunigaikštis [Jogailai
     Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
-    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
+    visą mano tėviškę mano akivaizdoje6. Man tai buvo
     labai skaudu. Dėl to aš skundžiausi dažnai kunigaikš­
     čiui Jogailai ir mačiau aiškiai, kad aš čia ničnieko ne­
     galėjau padaryti ir negalėjau nieku būdu tų privilegijų
     nusimesti.
+  citata_rodoma: "Jau metai laiko nūnai, kai kunigaikštis [Jogailai \nLiublino pilyje užrašė kunigaikščiui Skirgailai raštais \nvisą mano tėviškę mano akivaizdoje6 . Man tai buvo \nlabai skaudu. Dėl to aš skundžiausi dažnai kunigaikš­\nčiui Jogailai ir mačiau aiškiai, kad aš čia ničnieko ne­\ngalėjau padaryti ir negalėjau nieku būdu tų privilegijų \nnusimesti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194167
+    - t-199239

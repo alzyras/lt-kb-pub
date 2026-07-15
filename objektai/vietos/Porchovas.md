@@ -52,25 +52,6 @@ Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardo žemę ir Porchovo apgultis.md#claim-t-186596|Vytauto žygis į Naugardo žemę ir Porchovo apgultis]]: Lietuvos metraštis vaizduoja Vytautą siuntus pasiuntinius į Didįjį Naugardą ir Pskovą, kad miestai pripažintų jį valdovu ir mokėtų duoklę.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara).md#claim-t-34520|Vytauto žygis į Naugardą (1428 m. vasara)]]: Naugardas pripažino Vytauto suverenitetą ir mokėjo jam duoklę.
 - susijęs iš Krasnyj Gorod: Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Mat,
-    Naugardo taikos prašymą parėmė Vytauto kariuomenės rusiš­
-    kos dalys. Naugardo ir Porchovo miestai sumokėjo Vytautui
-    10.000 rublių kontribucijos ir 1000 rublių už belaisvius. Šito žy­
-    gio Vytautas negalėjo sėkmingai baigti ir dėl artėjančio Lucko
-    suvažiavimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38607

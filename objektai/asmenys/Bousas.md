@@ -52,56 +52,12 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
     - c-177095
 - susijęs iš [[objektai/asmenys/Boguslavas Bousevičius.md#claim-t-190136|Boguslavas Bousevičius]]: Apie 1520 m. Boguslavas Bousevičius, Rodūnios vėliavininkas, buvo Bousevičių giminei priklausiusios žemės tėvonis.
 - susijęs iš Bouso kapinės: Pasak Narbuto, Bouslaviškių kaimiečiai kvadratinį kapą lietuviškai vadino vado Bouso kapinėmis (Kapinies Wade Boussa).
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape su žirgu, kurtais, sakalu ir karine ginkluote.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pasak vietos padavimo, tame kape
-    palaidotas kažkoks lietuvių didikas, vadas (Wada), vardu Bou-
-    sas (Bous); jis čia gulįs su žirgu, su kurtais ir sakalu bei visa
-    karine ginkluote. Sį kapą kaimiečiai lietuviškai vadina vado
-    Bouso kapinėmis (Kapinies Wade Boussa). Iš senų vietinių do­
-    kumentų aišku tik tiek, kad apie 1520 metus ta žemė priklau­
-    sė Bousevičių giminei; tuo laiku Boguslavas Bousevičius, Ro­
-    dūnios vėliavininkas, buvo tos žemės tėvonis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Mano kaimo, vadinamo Bouslaviškėmis (Bouslawiszki), že mėje yra kvadratinis kapas, 20 pėdų ilgio, be aiškaus sampilo, tik apmūrytas lauko akmenimis, lyg tai būtų kokio nors medi nio pastato pamūrijimas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pasitaiko taip pat ir akmeninių kaitų,
-    labai gražiai padirbtų iš titnago.
-    Mano kaimo, vadinamo Bouslaviškėmis (Bouslawiszki), že­
-    mėje yra kvadratinis kapas, 20 pėdų ilgio, be aiškaus sampilo,
-    tik apmūrytas lauko akmenimis, lyg tai būtų kokio nors medi­
-    nio pastato pamūrijimas. Pasak vietos padavimo, tame kape
-    palaidotas kažkoks lietuvių didikas, vadas (Wada), vardu Bou-
-    sas (Bous); jis čia gulįs su žirgu, su kurtais ir sakalu bei visa
-    karine ginkluote.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172971
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 378"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasak vietos padavimo, tame kape
     palaidotas kažkoks lietuvių didikas, vadas (Wada), vardu Bou-
@@ -121,8 +77,7 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
 - id: c-177095
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 378"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasitaiko taip pat ir akmeninių kaitų,
     labai gražiai padirbtų iš titnago.

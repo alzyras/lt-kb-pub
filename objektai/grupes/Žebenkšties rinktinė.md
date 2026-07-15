@@ -49,44 +49,6 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
   teiginys: "1945 m. įstojo į partizanų Žebenkšties rinktinę Raseinių rajone."
   pagrindžia:
     - c-176404
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1945 m. vasarą apie 60 Juozo Čeponio-Budrio vadovaujamų Žebenkšties rinktinės kovotojų persikėlė iš Bedančių miško į Virtukų pušyną.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    2% VIRTUKŲ KAUTYNĖS
-
-    1945 m. vasarą vadai J. Čeponis, J. Žemaitis ir Petras Bartkus nusprendė
-    suvienyti Šiaulių, Raseinių, Kėdainių ir Tauragės apskrityse veikusius
-    partizanų junginius. Tuo tikslu maždaug 60 Žebenkšties rinktinės
-    kovotojų, vadovaujamų LLA kario, kpt. Juozo Čeponio-Budrio, persikėlė
-    iš Bedančių miško į Virtukų pušyną Kelmės valsčiuje, netoli Lyduvėnų
-    geležinkelio stoties ir ten įrengė gerai įtvirtintą stovyklą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1945 m. įstojo į partizanų Žebenkšties rinktinę Raseinių rajone.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1945 m. įstojo į partizanų
-    Žebenkšties rinktinę Raseinių rajone. J. Žemaitis
-    tapo šios rinktinės štabo viršininku. 1946 m. rug-
-    pjūčio 20 d. jis tapo Šerno rinktinės vadu, o nuo
-    1945 m. Žebenkšties rinktinės štabo viršininku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

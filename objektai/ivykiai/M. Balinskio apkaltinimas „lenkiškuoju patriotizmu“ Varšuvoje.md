@@ -66,46 +66,6 @@ Nenurodyta
   teiginys: "1838 m. Mykolas Balinskis rusų valdžiai Varšuvoje aiškino, kad jo „Vilniaus miesto istorijos“ tikslas buvo Lietuva ir jos senoji sostinė."
   pagrindžia:
     - c-82899
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1838 m. Mykolas Balinskis rusų valdžiai Varšuvoje aiškino, kad jo „Vilniaus miesto istorijos“ tikslas buvo Lietuva ir jos senoji sostinė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pavyzdžiui,
-    1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilniaus
-    miesto istoriją, prie kurios dirbau nuo 1818 m., mano tikslas bu­
-    vo Lietuva ir jos senoji sostinė, o ne Lenkija. Šiame veikale pa­
-    rodžiau, kad Lietuva turėjo savo kalbą ir savitą pagonišką reli­
-    giją, besiskiriančią nuo Lenkijos, kad jos politinė padėtis buvo
-    visiškai skirtinga negu Lenkijos; pagaliau vienas pirmųjų įro­
-    džiau, kad iki susijungimo su Lenkija Lietuva iš esmės buvo rusų
-    -lietuvių valstybė <....>. Tad kokiu būdu galima suderinti man
-    primetamą tariamą patriotizmą su tokia mano veikalo dvasia?"9.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1838 m. Varšuvoje valdžios apkaltintas „lenkiškuoju patriotizmu“, Mykolas Balinskis nutylėjo dalyvavimą 1831 m. sukilime.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kaip rašo istorikas Romualdas Naruniecas,
-    „Mykolo Balinskio išlaisvinimo iš kalėjimo problema lieka pa­
-    slaptinga". 1838 m. Varšuvoje valdžios apkaltintas „lenkiškuo­
-    ju patriotizmu", M. Balinskis nutylėjo apie savo dalyvavimą
-    1831 m. sukilime5.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

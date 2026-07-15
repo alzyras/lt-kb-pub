@@ -50,34 +50,13 @@ Nenurodyta
   teiginys: "Narbutas rašė, kad pagal senovės prūsų paprotį prisiekiantysis dešinę ranką laikydavo prie savo gerklės."
   pagrindžia:
     - c-172816
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašė, kad pagal senovės prūsų paprotį prisiekiantysis dešinę ranką laikydavo prie savo gerklės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Senovės prūsų papročiu prisiekian­
-    tysis laikydavo dešinę ranką prie savo gerklės. Kaip liudija
-    Hartknochas (p. 548), šis paprotys dar ilgai gyvavo kryžiuočių
-    valdomoje Prūsijoje, nes ši religinė apeiga sutvirtindavo prie­
-    saiką labiau nei pirštų padėjimas ant Evangelijos. Tokio pat
-    I autinio papročio laikytasi ir kituose lietuvių genties tautų kraš-
-    I uose, kurie atsidūrė svetimųjų valdžioje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-172816
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 320"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Senovės prūsų papročiu prisiekian­
     tysis laikydavo dešinę ranką prie savo gerklės. Kaip liudija

@@ -44,35 +44,17 @@ Dusburgietis teigia, kad hollack E.
   teiginys: "E. Hollacko „Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen“ išleista Glogau ir Berlyne 1908 m."
   pagrindžia:
     - c-61713
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'E. Hollacko „Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen“ išleista Glogau ir Berlyne 1908 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Hollack E. Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen.—
-    Glogau—Berlin, 1908.
-      [Hollack E.] Vorgeschichtliche Übersichtskarte von Ostpreussen / Im Auftrage des
-    ostpreussischen Provinzial-Verbandes entworfen und gezeichnet von Emil Hollack.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61713
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 264"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Hollack E. Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen.—
     Glogau—Berlin, 1908.
-      [Hollack E.] Vorgeschichtliche Übersichtskarte von Ostpreussen / Im Auftrage des
+    [Hollack E.] Vorgeschichtliche Übersichtskarte von Ostpreussen / Im Auftrage des
     ostpreussischen Provinzial-Verbandes entworfen und gezeichnet von Emil Hollack.
   citata_rodoma: "Hollack E. Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen.—\nGlogau—Berlin, 1908."
   statusas: verified

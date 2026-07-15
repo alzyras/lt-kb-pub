@@ -7,13 +7,13 @@ datos:
   - '1500 m.'
 date_start: '1500'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - ginklas
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

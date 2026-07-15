@@ -44,20 +44,6 @@ Vartojamos formos: `raktininkas`, `parakčia`, `angininkas`, `karūžasis`, `ši
   teiginys: "Didžiojo kunigaikščio rūmų pareigybės apėmė rūmų tvarkos, svečių priėmimo, žirgynų, lobio, ūkės žymės ir raštų priežiūrą."
   pagrindžia:
     - c-09724
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Didžiojo kunigaikščio rūmų pareigybės apėmė rūmų tvarkos, svečių priėmimo, žirgynų, lobio, ūkės žymės ir raštų priežiūrą.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Rūmuose didžiojo kunigaikščio tie buvo dar vyresnieji: ūkės marčelga^1063 , kurs parėką^1064 ir viežlybumą^1065 rūmuose saugojo, ūkės vaišintojas, ūkės riekėjas, ūkės ragintojas, kurių darbas buvo, atėjus siuntiniams svetimų tautų prie didžiojo kunigaikščio, juos vaišinti ir godoti^1066 ; buvo dar tenai ūkės medinčius^1067 , kursai ūkės medes saugojo, ūkės žirgūnas, kurs žirginyčias^1068 didžiojo kunigaikščio užveizėjo^1069 , ūkės lobenas, kursai visą lobį didžiojo kunigaikščio saugojo, ūkės žyminas^1070 , kursai ūkės žymę, arba pečiotį^1071 , saugojo, bei ūkės paišoriai^1072 , kurie ūkės reikaluose reikiant rašė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

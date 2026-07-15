@@ -98,10 +98,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - susijęs iš Romovės šventykla: Narbutas rašo, kad Romovės šventyklą supo apeigų aikštė, kurioje buvo sukrautos malkų stirtos šventajai ugniai palaikyti.
 - susijęs iš Romuva: Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine.
 - susijęs iš Rusnė: Narbutas aiškino, kad lietuvių protėviai Rusnę, dešiniąją Nemuno atšaką, pagal religines apeigas pavertė penktąja šventąja upe.
-- susijęs iš Vilnius: Vilniuje iškilo Kardinalija, buvo užbaigta ir pašventinta Šv. Onos bažnyčia, pradėta Šv. Kazimiero bažnyčia.
-- susijęs iš Vilnius: Po Varšuvos seimo atvykęs į Vilnių valdovas sušaukė lietuvių seimą ir tarėsi, kaip toliau veikti kare.
-- susijęs iš Vilnius: Po Varšuvos seimo Vilniuje buvo sušauktas vien Lietuvos seimas, kuriame susitarta dėl tolesnių karo veiksmų.
-- susijęs iš Vilnius: Narbutas padavimų kontekste rašė, kad XIII a. didžioji šventykla vėliau buvusi Kernavėje, o galiausiai Vilniuje.
 - susijęs iš Volkovysko apskritis: Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskrityje, kairiajame Nemuno vidurupio krante.
 - susijęs iš Šešupė: Sūduvos dykroje siena ėjo Lieponos paupiu iki Širvintos ir Širvintos krantu iki jos įtekėjimo į Šešupę.
 - susijęs iš Šešupė: Sūduvos dykroje siena ėjo Šešupės krantu per girių masyvus, o Šešupės žemupys buvo paliktas Ordinui.
@@ -110,27 +106,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - susijęs iš [[objektai/zodynas/gabija.md#claim-t-02996|gabija]]: Gabija vadinta šventąja namų ugnele.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70220|maldininkai / maldininko įžadai]]: Po Urbono II raginimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58825|maldininkai]]: 1096 m. Petras su kryžininkais užėmė Antiochiją ir Jeruzalę, o vėliau kiti maldininkai užėmė daug miestų bei pilių.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Siena į Nemuną buvo išvesta ties vieta, priešais kurią dešinėje Nemuno pusėje įteka Šventoji.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šešupės krantu ji ėjo per girių masyvus. Jos žemupys
-    paliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena
-    tiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­
-    muno pusėje įteka Šventoji.
-    Žemaičių pusėje siena turėjo kilti Šventąja dvi mylias, paskui
-    stačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­
-    muną dviejų mylių ruože^31.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-165605

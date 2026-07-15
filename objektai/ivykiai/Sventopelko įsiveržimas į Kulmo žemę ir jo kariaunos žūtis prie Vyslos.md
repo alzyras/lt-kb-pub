@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - miestas
   - mūšis
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -59,37 +60,32 @@ Nenurodyta
   pagrindžia:
     - c-67015
 
-<a id="claim-t-66922"></a>
-- t-003
-  global_id: t-66922
-  teiginys: "Sventopelkas subūrė 2000 karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę."
-  pagrindžia:
-    - c-67014
-
 <a id="claim-t-194425"></a>
 - t-004
   global_id: t-194425
   teiginys: "Jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o visa kita pavertė pelenais bei degėsiais."
   pagrindžia:
     - c-67014
-## Reikšmingi paminėjimai
 
+<a id="claim-t-196972"></a>
+- t-005
+  global_id: t-196972
+  teiginys: "Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems verčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti."
+  pagrindžia:
+    - c-67014
+
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    ——————————————————
-
-      Sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo
-    klastingomis vilionėmis, griebėsi  kitų priemonių, svaresnių, vildamasis, jog atėjęs
-    tinkamas  ir seniai geidžiamas metas, kada  jis, nesutikdamas jokio pasipriešinimo,
-    galėsiąs visai užpūsti ir sutrypti tą silpną krikščionybės kibirkštėlę, dar ten rusenusią po
-    paskutiniojo mūšio. Jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per
-    Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o
-    visa kita pavertė pelenais bei degėsiais. Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę
-    drauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,
-    kurių pridarė Sventopelkas su savo kariauna,  ir, mušdamiesi  į krūtinę, su ašaromis
-    meldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo
-    tėvonijos paniekinti“.
+    Susirūpinę broliai manė, kad, dar kartą susikovę su šia kariuomene
+    ir pralaimėję mūšį, turėsią visai palikti Prūsijos žemę be vilties ją atgauti ir, suprantama,
+    Kristaus tikėjimas ten turėsiąs išnykti. Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems
+    verčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti. Ir viešpaties
+    dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su
+    priešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius
+    prie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių
+    aukų.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: saltinio_teiginys
@@ -99,12 +95,19 @@ Nenurodyta
     - t-001
     - t-003
     - t-004
+    - t-005
 
-- c-002
-  santrauka: 'Prie Kulmo miesto broliai ir jų sąjungininkai užpuolė Sventopelko kariauną, o po kautynių Sventopelkas pabėgo prie Vyslos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-67014
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ir viešpaties
+    Susirūpinę broliai manė, kad, dar kartą susikovę su šia kariuomene
+    ir pralaimėję mūšį, turėsią visai palikti Prūsijos žemę be vilties ją atgauti ir, suprantama,
+    Kristaus tikėjimas ten turėsiąs išnykti. Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems
+    verčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti. Ir viešpaties
     dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su
     priešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius
     prie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių
@@ -112,54 +115,21 @@ Nenurodyta
     visose nelaimėse, suteikė broliams tokių jėgų, kad išgąsdintas Sventopelkas pasileido
     bėgti su visais savo žmonėmis ir pasuko į tą vietą, kur buvo palikęs laivus, tikėdamasis
     jais pasprukti. Tačiau nesulauksite, nedorieji, nesulauksite, nes esate nelyginant dulkės,
-    kurias vėjas nuneša nuo žemės paviršiaus! Pakilo stiprus vėjas ir nunešė visus tuos
-    laivus toli nuo kranto, ir nutiko jiems su tais laivais taip pat kaip ir tam netikėliui saracėnų
-    karaliui, po pralaimėto mūšio bėgusiam nuo Karolio. Neradę laivų, jie supuolė  į Vyslą
-    ir visi paskendo, išskyrus Sventopelką ir kelis kitus, su juo čia atbėgusius, kai išvengė
-    kalavijo282. Šitaip viešpats paguodė savo tautą, patekusią į didžiausią vargą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Citatos
-
-- id: c-67014
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
-  citata_originali: |
-    ——————————————————
-
-      Sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo
-    klastingomis vilionėmis, griebėsi  kitų priemonių, svaresnių, vildamasis, jog atėjęs
-    tinkamas  ir seniai geidžiamas metas, kada  jis, nesutikdamas jokio pasipriešinimo,
-    galėsiąs visai užpūsti ir sutrypti tą silpną krikščionybės kibirkštėlę, dar ten rusenusią po
-    paskutiniojo mūšio. Jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per
-    Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o
-    visa kita pavertė pelenais bei degėsiais. Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę
-    drauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,
-    kurių pridarė Sventopelkas su savo kariauna,  ir, mušdamiesi  į krūtinę, su ašaromis
-    meldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo
-    tėvonijos paniekinti“.
+    kurias vėjas nuneša nuo žemės paviršiaus!
+  citata_rodoma: "Susirūpinę broliai manė, kad, dar kartą susikovę su šia kariuomene \nir pralaimėję mūšį, turėsią visai palikti Prūsijos žemę be vilties ją atgauti ir, suprantama, \nKristaus tikėjimas ten turėsiąs išnykti. Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems \nverčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti. Ir viešpaties \ndvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su \npriešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius \nprie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių \naukų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66922
-    - t-183965
     - t-194425
+    - t-196972
 
 - id: c-67015
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Ir viešpaties
     dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su

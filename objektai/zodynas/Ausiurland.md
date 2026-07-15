@@ -62,8 +62,8 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
   teiginys: "Narbuto teigimu, Ausiurland buvo vienas iš skandinavų vartotų bendrinių lietuvių žemių pavadinimų."
   pagrindžia:
     - c-175063
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -95,21 +95,16 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
 - id: c-175063
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 248."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Anksčiau jau rašėme tai, kodėl ši lietuvių žemė buvo
-    vadinama
-    Rusia;
-    šis
-    pavadinimas
-    buvo
-    žinomas
-    tik vietinėms ir kaimyninėms tautoms, ypač skandinavams.
-    Jie taip pat ¡savo kalba vadino šias žemes bendriniais
-    pavadinimais Ausiurland, Austarreich, Austurmeg, o tai
-    reiškia Rytų žemę, Rytų valstybę, Rytų kelią. Tam tikrą
-    šios žemės dalį skandinavai vadino Reithgothland.
+    Tam tikrą
+    šios žemės dalį skandinavai vadino Reithgothland. Sis
+    pavadinimas kildinamas1 iš senovės germanų žodžio
+    Rieth, Ried, Reiih, ir reiškia žemą kraštą, miškingą že­
+    mumą. Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios
+    pakrantės ligi Dauguvos žemupio. Tokios nuomonės yra
+    visi senovės tyrinėtojai, išskyrus Depingą, kuris be jokių
+    pagrįstų įrodymų priskiria jam čia ir Pavyslę1 2.
   citata_rodoma: "Jie taip pat ¡savo kalba vadino šias žemes bendriniais\npavadinimais Ausiurland, Austarreich, Austurmeg, o tai\nreiškia Rytų žemę, Rytų valstybę, Rytų kelią."
   statusas: verified
   teiginio_tipas: faktas
@@ -119,4 +114,3 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
     - t-192199
     - t-192200
     - t-192554
-    - t-004

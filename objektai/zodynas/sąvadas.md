@@ -9,14 +9,14 @@ datos:
   - '1446 m.'
 date_start: '1377'
 date_end: '1446'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - sąvoka
-amziai:
-  - 'XIV'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -73,22 +73,8 @@ Nenurodyta
   pagrindžia:
     - c-170096
 
-<a id="claim-t-186917"></a>
-- t-002
-  global_id: t-186917
-  teiginys: "Trumpasis sąvadas, Platesnysis sąvadas ir į juos įtraukti kūriniai apibūdinami kaip anoniminiai."
-  pagrindžia:
-    - c-170094
-
-<a id="claim-t-186918"></a>
-- t-003
-  global_id: t-186918
-  teiginys: "Trumpasis sąvadas ir Platesnysis sąvadas priskiriami žymesniems LDK metraštinės literatūros paminklams kartu su Bychovco kronika."
-  pagrindžia:
-    - c-170094
-
 <a id="claim-t-186919"></a>
-- t-004
+- t-002
   global_id: t-186919
   teiginys: "Trumpasis sąvadas, sudarytas apie 1446 m., nuosekliau ir išsamiau nušviečia 1377–1445 m. Lietuvos politinę istoriją."
   pagrindžia:
@@ -99,32 +85,6 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-186922|nuorašas]]: Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai tekstai plito rankraštiniais nuorašais.
 - susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-187524|nuorašas]]: LDK metraštinės literatūros sąvadai savo laiku nebuvo išspausdinti ir plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    ВУСНОѴСО KRONIKA IR JOS KILMĖ
-    Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje
-    Kunigaikštystėje kilusios metraštinės literatūros pa­
-    minklai: Trumpasis sąvadas, Platesnysis sąvadas ir
-    Bychovco kronika
-    Šie sąvadai, taip pat įtrauktieji į juos kūriniai yra
-    anoniminiai: mažai žinomi ar visai nežinomi jų auto­
-    riai, tikslus parašymo laikas ir vieta. Nė vienas iš jų
-    nebuvo savo laiku išspausdintas, o plito rankraštiniais
-    nuorašais, kurių plačiau žinoma bent 222 . Daugumas
-    tų nuorašų ir susijusių su jais atskirų fragmentų yra
-    paskelbti Rusijos Archeografinės Komisijos leidinyje,
-    pavadintame „Pilnuoju rusų metraščių rinkiniu" 3 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
 - c-002
   santrauka: 'Trumpasis sąvadas, sudarytas apie 1446 m., nuosekliau ir išsamiau nušviečia 1377–1445 m. Lietuvos politinę istoriją.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -162,44 +122,24 @@ Nenurodyta
 
 ## Citatos
 
-- id: c-170094
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    ВУСНОѴСО KRONIKA IR JOS KILMĖ
-    Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje
-    Kunigaikštystėje kilusios metraštinės literatūros pa­
-    minklai: Trumpasis sąvadas, Platesnysis sąvadas ir
-    Bychovco kronika
-    Šie sąvadai, taip pat įtrauktieji į juos kūriniai yra
-    anoniminiai: mažai žinomi ar visai nežinomi jų auto­
-    riai, tikslus parašymo laikas ir vieta. Nė vienas iš jų
-    nebuvo savo laiku išspausdintas, o plito rankraštiniais
-    nuorašais, kurių plačiau žinoma bent 222 . Daugumas
-    tų nuorašų ir susijusių su jais atskirų fragmentų yra
-    paskelbti Rusijos Archeografinės Komisijos leidinyje,
-    pavadintame „Pilnuoju rusų metraščių rinkiniu" 3 .
-  citata_rodoma: "Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje \nKunigaikštystėje kilusios metraštinės literatūros pa­\nminklai: Trumpasis sąvadas, Platesnysis sąvadas ir \nBychovco kronika\nŠie sąvadai, taip pat įtrauktieji į juos kūriniai yra \nanoniminiai: mažai žinomi ar visai nežinomi jų auto­\nriai, tikslus parašymo laikas ir vieta."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186918
-    - t-186917
-
 - id: c-170095
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Trumpajame sąvade, sudarytame apie 1446 m., nuo­
-    sekliau ir išsamiau nušviečiama tiktai 1377—1445 m .
-    laikotarpio feodalinės Lietuvos valstybės politinė is­
-    torija. Jame nebuvo išsamesnių žinių ne tik apie Ge­
-    dimino, bet ir apie Algirdo valdymą, ir beveik jokit!
-    žinių iš Lietuvos praeities iki XIV a.
+    Vėliau, išmirus Palemono
+    įpėdiniams ir sekančios Kentauro herbo dinastijos ku­
+    nigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi-
+    minaičių dinastijos valdovui Vyteniui.
+    Mokslinėje literatūroje toji istorija vadinama le­
+    gendine. Todėl ir pradinė Platesniojo sąvado teksto
+    dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks­
+    lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le­
+    gendine.
+    Tolimesnioji Lietuvos istorija, pradedant Gedimino
+    sūnų išvardijimu, Platesniajame sąvade dėstoma pagal
+    Trumpojo sąvado antrąją, XV a. pabaigoje kilusią re­
+    dakciją.
   citata_rodoma: "Trumpajame sąvade, sudarytame apie 1446 m., nuo­\nsekliau ir išsamiau nušviečiama tiktai 1377—1445 m . \nlaikotarpio feodalinės Lietuvos valstybės politinė is­\ntorija."
   statusas: verified
   teiginio_tipas: faktas
@@ -211,15 +151,20 @@ Nenurodyta
 - id: c-170096
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 7."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Jame nebuvo išsamesnių žinių ne tik apie Ge­
-    dimino, bet ir apie Algirdo valdymą, ir beveik jokit!
-    žinių iš Lietuvos praeities iki XIV a.
-    Platesnysis Lietuvos metraščių sąvadas, vadinamas
-    „Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­
-    ka", kilo, veikiausiai, XVI a. antrajame dešimtmetyje.
+    Todėl ir pradinė Platesniojo sąvado teksto
+    dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks­
+    lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le­
+    gendine.
+    Tolimesnioji Lietuvos istorija, pradedant Gedimino
+    sūnų išvardijimu, Platesniajame sąvade dėstoma pagal
+    Trumpojo sąvado antrąją, XV a. pabaigoje kilusią re­
+    dakciją. Prijungiant naujai parašytąją legendinę Lie­
+    tuvos istoriją prie nurašytos Trumpojo sąvado sudėti­
+    nės dalies — Vytauto laikus aprašančio „Didžiųjų Lie­
+    tuvos kunigaikščių metraščio", buvo visiškai perdirbta
+    ir šito šaltinio pradžia.
   citata_rodoma: "Platesnysis Lietuvos metraščių sąvadas, vadinamas \n„Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­\nka\", kilo, veikiausiai, XVI a. antrajame dešimtmetyje."
   statusas: verified
   teiginio_tipas: faktas

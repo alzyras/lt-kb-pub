@@ -7,14 +7,14 @@ datos:
   - '1837 m.'
 date_start: '1837'
 date_end: ''
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,7 +44,6 @@ Juozapas Hačevskis 1837 m. leidinyje „Muzeum Domowe“ parašė išsamų stra
     - c-174556
 - susijęs iš Muzeum Domome: Juozapas Hačevskis leidinyje „Muzeum Domome“ 1837 m. paskelbė išsamų straipsnį apie gintarą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Juozapas Hačevskis 1837 m. leidinyje „Muzeum Domowe“ parašė išsamų straipsnį apie gintarą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -64,11 +63,18 @@ Juozapas Hačevskis 1837 m. leidinyje „Muzeum Domowe“ parašė išsamų stra
 - id: c-174556
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą
-    parašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837).
+    Vien Sembos pakrantėje esame turtingiausių kasyklų, ir
+    jūra išmeta daugiausia tikro ir labiausiai blizgančio gin­
+    taro. Nemažai jo randama ir pakrantėse Vyslos ir Daugu­
+    vos žiočių link, Lenkijoje prie Ostrolenkos, o tais laikais
+    itin gražių ¡gintaro egzempliorių rasta ir Narevo upės pa­
+    krantėse. Be to, iš dalies aptinkama šios medžiagos kitose
+    Europos dalyse, Azijoje ir Afrikoje; anglas Saimsas, kaip
+    teigiama, neseniai atradęs didelių gintaro klodų1 Avos
+    karalystėje.
+  citata_rodoma: "2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą\nparašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

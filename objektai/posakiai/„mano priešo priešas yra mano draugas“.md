@@ -62,41 +62,6 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
   teiginys: "Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“ ir iš viso truko tris dešimtmečius."
   pagrindžia:
     - c-169749
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvių ir
-    rygiečių sąjunga, atnaujinta vėliau prie Gedimino, iš viso patvėrė
-    tris dešimtmečius. Ji buvo pagrįsta gyvenimo dėsniu : mano priešo
-    priešas yra mano draugas.
-    Nuo Mindaugo laikų besitęsią nesutikimai tarp ordino ir Rygos,
-    kurią visada palaikė arkivyskupas, 1297 m. virto atviru karu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Krikščionių
-    pasauliui atrodė nuostabu, kaip pagonis Vytenis tapo ištikimu są­
-    jungininku Rygos miesto ir Livonijos arkivyskupo. Lietuvių ir
-    rygiečių sąjunga, atnaujinta vėliau prie Gedimino, iš viso patvėrė
-    tris dešimtmečius. Ji buvo pagrįsta gyvenimo dėsniu : mano priešo
-    priešas yra mano draugas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
@@ -118,6 +83,7 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186404
+    - t-186407
 
 - id: c-169750
   autorius: "Zenonas Ivinskis"
@@ -136,4 +102,5 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-186405
     - t-186406

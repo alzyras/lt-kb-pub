@@ -34,30 +34,13 @@ Dusburgietis teigia, kad anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kit
   teiginys: "A. Kurschatas Stalupėnų, Darkiemio ir kitų vėlesnių apskričių lietuvius laikė nusiaubto krašto senųjų gyventojų palikuonimis."
   pagrindžia:
     - c-61368
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Kurschatas Stalupėnų, Darkiemio ir kitų vėlesnių apskričių lietuvius laikė nusiaubto krašto senųjų gyventojų palikuonimis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kitų vėlesnių
-    apskričių lietuviai buvo nusiaubto krašto senųjų gyventojų palikuonys (Kurschat A., Zur
-    Geschichte..., p. 497—498).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61368
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 171"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kitų vėlesnių
     apskričių lietuviai buvo nusiaubto krašto senųjų gyventojų palikuonys (Kurschat A., Zur

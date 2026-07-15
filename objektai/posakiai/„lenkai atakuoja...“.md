@@ -41,29 +41,6 @@ Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920
   teiginys: "1920 m. rugsėjį Mykolas Sleževičius Seime pareiškė, kad lenkai atakuoja Lietuvą, nes juos pakvietė dvarininkai."
   pagrindžia:
     - c-23635
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atsilaikė prieš bolševikus ir kaimynės – Lenkija, Suomija, Latvija
-    ir Estija, jos taip pat apgynė savo nepriklausomybę.
-    Paskutinė federacijos su Lenkija galimybė
-    Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo
-    apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą
-    gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-
-    ki Seinai ir Punskas. Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
-    cialinį atspalvį – 1920 m. rugsėjį ministras pirmininkas M. Sleževičius
-    paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
-    legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
-    dvarus, visi, kas sveiki, turi griebtis ginklo“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

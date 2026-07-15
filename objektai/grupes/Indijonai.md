@@ -35,21 +35,6 @@ Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.
   teiginys: "Indijonai savo didžiojo dievo Višnaus įsikūnijimą vadino Adivarage Perunal."
   pagrindžia:
     - c-10066
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip pat indijonų tauta, visų
-        akyloji senovėj tarp visų kitų tautų, vadino įsikūnijimą savo didžiojo dievo Višnu, vadinamojo
-        Adivarage Perunal.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

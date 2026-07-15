@@ -46,7 +46,6 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
     - c-59208
 - susijęs iš Notanga: Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kriukai buvo kaimas per 6 kilometrus į pietus nuo Kroicburgo, netoli ežerėlio tarp Kaustros ir Pasmaros upių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -87,12 +86,20 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
 - id: c-59208
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    306 D. ir Jer. Crucke, kaimas per 6 km į pietus nuo Kroicburgo (žr. paaiškinimus D.
-    III, 27, 2), netoli ežerėlio tarp Kaustros ir Pasmaros upių (Sch-K XI; VBK; Boetticher
-    A., Die Bau..., 2, p. 65; GAO, p. 74).
+    Šitokia sutartis nepatiko
+    dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius,
+    pasikliovus viešpačiu, drąsiai stoti į kovą. Kai visų kitų nuomonė paėmė viršų ir kai davė
+    įkaitus, apie kuriuos jau esame kalbėję, prūsai, sulaužę taikos sutartį, užpuolė ir nužudė
+    54 brolius bei visus kitus, ten buvusius, 1249 viešpaties metais308 lapkričio 29 d. Po šių
+    žudynių vienas notangas pamovė ant ieties brolio Jono, minėtojo vicekomtūro, galvą ir,
+    ją pakėlęs aukštyn, pasakė: „Jeigu broliai būtų paklausę tavo patarimo, tikrai nebūtų
+    buvę nukauti“. Vienas brolis štai šitaip mirė kankinio mirtimi: prūsai jį gyvą pririšo už
+    rankų prie medžio ir, išpjovę jam iš pilvo bambą, ant kurios laikosi žarnos, prikalė ją prie
+    medžio ir, smarkiai mušdami, privertė vaikščioti aplink medį, kol visos žarnos susivijo
+    apie kamieną ir jis atidavė dievui dvasią, neišsižadėdamas tikrojo tikėjimo.
+  citata_rodoma: "306 D. ir Jer. Crucke, kaimas per 6 km į pietus nuo Kroicburgo (žr. paaiškinimus D.\nIII, 27, 2), netoli ežerėlio tarp Kaustros ir Pasmaros upių (Sch-K XI; VBK; Boetticher\nA., Die Bau..., 2, p. 65; GAO, p. 74)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -103,17 +110,17 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
 - id: c-59209
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės
+    Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
+    Kai prakeiktasis Sventopelkas pasipriešino broliams ir paskatino Prūsijos žemės
     naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,
     nei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.
     Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos
     brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
     išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
     negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306. Prūsai, šitai išvydę,
-    juos apsupo, bet nedrįso  į kaimą brautis, o broliai — iš kaimo išeiti  ir stoti  į mūšį.
+    juos apsupo, bet nedrįso į kaimą brautis, o broliai — iš kaimo išeiti ir stoti į mūšį.
   citata_rodoma: "Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos\nbrolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,\nišžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,\nnegalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306. Prūsai, šitai išvydę,\njuos apsupo, bet nedrįso  į kaimą brautis, o broliai — iš kaimo išeiti  ir stoti  į mūšį."
   statusas: verified
   teiginio_tipas: faktas

@@ -58,24 +58,6 @@ Nenurodyta
   teiginys: "Ordino žygio į Lietuvą metu buvo paimtas ir sudegintas Gardinas, jo įgula išvesta į nelaisvę, o vėliau sudegintos Merkinė, Drohičinas ir Lyda."
   pagrindžia:
     - c-38322
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Grįžo į Prūsus vedini keletu šimtų be­
-    laisvių. Sekančiais metais jie vėl su daugeliu svečių suruošė
-    naują „kelionę” į Lietuvą paėmė Gardiną ir sudegino, o įgulą
-    išvedė nelaisvėn; paskui dar sudegino Merkinę, Drohičiną ir
-    Lydą^2 ). Bet ypatingai smarkūs buvo Lietuvos puolimai 1394
-    metais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

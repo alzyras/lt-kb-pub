@@ -51,20 +51,9 @@ Nenurodyta
   teiginys: "Pavasarį jaunuomenė grodavo iš karklo ar blindės padirbtais vamzdžiais, o piemenėliai, ganydami ožaičius ir ėraičius, naudodavo molio pypynes."
   pagrindžia:
     - c-09925
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip pat vamzdžiais vamzdijo jaunuomenė, iš mauknos^559 karklų ar blendies padirbę pavasariais, lig žievei neprikepus;
-        be tų vamzdžių turėjo piemenėliai molio pypynes, su kuriomis pavasarį ožaičius ir ėraičius po laukus ganydami tancino.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

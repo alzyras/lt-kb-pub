@@ -35,27 +35,6 @@ Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svar
   teiginys: "Klaipėda „neprilipo“ prie Lietuvos dėl nesėkmingos integracijos ir vokiškosios Klaipėdos krašto direktorijos orientacijos į Vokietiją."
   pagrindžia:
     - c-75155
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Klaipėda „neprilipo“ prie Lietuvos dėl nesėkmingos integracijos ir vokiškosios Klaipėdos krašto direktorijos orientacijos į Vokietiją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pirmasis Europoje procesas prieš nacius
-    ir Klaipėdos praradimas
-    Viena iš svarbių problemų darėsi nesėkmingas Klaipėdos
-    integravimas, nes Klaipėda niekaip „neprilipo“ prie Lietuvos, o vokiškoji
-    Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų. Susikū-
-    rusios dvi vokiečių nacių organizacijos varė antivalstybinę propagandą,
-    ruošėsi sukilimui ir krašto prijungimui prie Vokietijos, terorizavo lietuvių
-    susirinkimus, puldinėjo žydus. Klaipėda slydo iš Lietuvos kontrolės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

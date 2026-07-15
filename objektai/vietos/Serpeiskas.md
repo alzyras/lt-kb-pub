@@ -38,7 +38,7 @@ Serpeiskas aiškinamas kaip Smolensko žemės miestas. Serpeiskas seniau priklau
 <a id="claim-t-187325"></a>
 - t-001
   global_id: t-187325
-  teiginys: "Po 1494.II.5 sutarties Serpeiskas paliko LDK."
+  teiginys: 'Po 1494.II.5 sutarties Serpeiskas paliko LDK.'
   pagrindžia:
     - c-170355
 - susijęs iš Severskas: Mykolas su skitais įsiveržė į Severską, sumušė jam kelią pastojusias jėgas ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.
@@ -48,25 +48,6 @@ Serpeiskas aiškinamas kaip Smolensko žemės miestas. Serpeiskas seniau priklau
 - susijęs iš Mosalskas: Mosalskas lokalizuojamas apie 100 km į vakarus nuo Kalugos.
 - susijęs iš Rohačevas: Rohačevas lokalizuojamas prie Chlepenio į pietus nuo Rževo.
 - susijęs iš Rohačevas: Rohačevas nurodytas Aleksandro 1492 m. rugsėjo 27 d. instrukcijoje kaip maskvėnų užimtas LDK rytų pasienio miestas.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    jai Kunigaikštystei buvo pripažinti tik Chlepenis ir dalinai Meš-
-    čovskas, bet taip pat daug miestų ir valsčių, kurie BK neišvardyti.
-    Uubuckas, Serpeiskas, M censkas paliko LDK.
-    "  Žinia apie smolenskiečlų paleidimų iš Maskvos nelaisvės yra
-    Kijevo (Supraslio) m etraštyje: (Супрасльская рукопись, содерж а­
-    щ ая Новгородскую и Киевскую сокращенные летописи.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-170355
@@ -81,9 +62,9 @@ Serpeiskas aiškinamas kaip Smolensko žemės miestas. Serpeiskas seniau priklau
     Kijevo (Supraslio) m etraštyje: (Супрасльская рукопись, содерж а­
     щ ая Новгородскую и Киевскую сокращенные летописи.
   citata_rodoma: "jai Kunigaikštystei buvo pripažinti tik Chlepenis ir dalinai Meš- \nčovskas, but taip pat daug miestų ir valsčių, kurie BK neišvardyti. \nUubuckas, Serpeiskas, M censkas paliko LDK."
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187325
+    - t-001

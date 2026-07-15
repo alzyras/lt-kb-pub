@@ -38,28 +38,6 @@ Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYN�
 - susijęs iš Juozo Miliausko prisiminimai: Juozas Miliauskas prisiminimuose aprašė, kaip Švėkšnos apylinkių miškuose rusų pajėgos užpuolė užvartomis sutvirtintą sukilėlių stovyklą.
 - susijęs iš Juozo Miliausko prisiminimai: Juozas Miliauskas rašė, kad antrą puolimo dieną šaudymas tęsėsi šešias valandas, o sukilėlių pusėje buvo du lengvai sužeisti.
 - susijęs iš Juozo Miliausko prisiminimai: Juozas Miliauskas prisiminimuose aprašė rusų pajėgų puolimą prieš medžių užvartomis sutvirtintą sukilėlių stovyklą Švėkšnos apylinkių miškuose.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius
-
-    KAUTYNĖS TANKUMYNE
-
-    Ištrauka iš netoli sienos su Prūsija kovojusio sukilimo dalyvio Juozo Miliausko pri-
-    siminimų. Jis aprašo epizodą kai Švėkšnos apylinkių miškuose medžių uzvartom su-
-    tvirtintą sukilėlių stovyklą užpuola rusų pajėgos.
-
-    „Stovykloje šovinius dirbam, blėkinėlėse kruopų košę verdam, valgome ir ilsimės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41634

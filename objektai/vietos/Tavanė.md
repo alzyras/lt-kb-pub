@@ -42,23 +42,6 @@ media_all_json: |-
   pagrindžia:
     - c-40457
 - susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31500|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės tvirtovę.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1398 m. Vytautas su didelėmis pajėgo-
-    mis prie Žemutinio Dniepro per keturias
-    savaites iš molio ir akmenų pastatė pilį
-    Tavanėje, kuriai suteiktas šv. Jono vardas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-40457

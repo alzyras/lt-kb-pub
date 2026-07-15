@@ -40,28 +40,6 @@ Sapiega ir maršalas A.
 - susijęs iš [[objektai/asmenys/M. P. Sapiega.md#claim-t-40317|M. P. Sapiega]]: LDK arklidininkas M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su likusia kariuomene.
 - susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78447|Sapiegų kariuomenė]]: M. P. Sapiega pasidavė respublikonams kartu su visa likusia Sapiegų kariuomene.
 - susijęs iš Vilnius: Sapiegų etmonas, pamatęs supamą kariuomenę ir respublikonų užimtą gurguolę, nusprendė trauktis į Vilnių.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Užnugaryje buvę Sapiegas rėmę
-    bajorų pašauktiniai pasitraukė iš
-    mūšio lauko. Etmonas, pama-
-    tęs, kad jo kariuomenė supama,
-    ir kad respublikonai jau užėmė
-    gurguolę, nusprendė trauktis į
-    Vilnių. Kartu su juo pasitraukė
-    iždininkas B. P. Sapiega ir marša-
-    las A. P. Sapiega bei totorių vėliavos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44302

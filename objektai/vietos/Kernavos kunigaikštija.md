@@ -34,24 +34,6 @@ Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyv
   teiginys: "Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes Kernavos kunigaikštija buvo maža."
   pagrindžia:
     - c-38518
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes Kernavos kunigaikštija buvo maža.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    gailos brolis, Aleksandras Vyguntas, Kernavos kun., katalikas,
-    kas Skirgailai, kaip schizmatikui, nepatiko. Vyguntas, būdamas
-    Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos
-    galvos, nes pati Kernavės kunigaikštija buvo maža. Kad šito­
-    kia reforma buvo manoma padaryti, rodo ir šis faktas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

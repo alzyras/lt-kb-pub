@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 82
+tema_objektu_skaicius: 78
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 82.
+Objektų skaičius: 78.
 
 ## Kaip naudoti
 
@@ -33,7 +33,6 @@ Objektų skaičius: 82.
 - [[objektai/vietos/Brandenburgo žemė]]
 - [[objektai/vietos/Bresto žemė (Palenkė)]]
 - [[objektai/vietos/Brunsbergas]]
-- [[objektai/vietos/Bukovina]]
 - [[objektai/vietos/Burcos žemė]]
 - [[objektai/vietos/Dobrino žemė]]
 - [[objektai/vietos/Dobrynės žemė]]
@@ -51,7 +50,7 @@ Objektų skaičius: 82.
 - [[objektai/vietos/Kulmas]]
 - [[objektai/vietos/Kulmo žemė]]
 - [[objektai/vietos/Kumanų žemė]]
-- [Kuršo žemė](../objektai/vietos/Kur%C5%A1o%20%C5%BEem%C4%97)
+- [[objektai/vietos/Kuršo žemė]]
 - [Kščeniškiai](../objektai/vietos/K%C5%A1%C4%8Deni%C5%A1kiai)
 - [Lanzanija](../objektai/vietos/Lanzanija)
 - [Lietauka](../objektai/vietos/Lietauka)
@@ -75,7 +74,6 @@ Objektų skaičius: 82.
 - [Padauguvio Sėla](../objektai/vietos/Padauguvio%20S%C4%97la)
 - [Pagudė](../objektai/vietos/Pagud%C4%97)
 - [Palenkė](../objektai/vietos/Palenk%C4%97)
-- [Pamedė](../objektai/vietos/Pamed%C4%97)
 - [Plikoji Barta](../objektai/vietos/Plikoji%20Barta)
 - [Pomeranija](../objektai/vietos/Pomeranija)
 - [Prūsų žemė](../objektai/vietos/Pr%C5%ABs%C5%B3%20%C5%BEem%C4%97)
@@ -90,14 +88,12 @@ Objektų skaičius: 82.
 - [Seversko žemės](../objektai/vietos/Seversko%20%C5%BEem%C4%97s)
 - [Skalva](../objektai/vietos/Skalva)
 - [Skalvos žemė](../objektai/vietos/Skalvos%20%C5%BEem%C4%97)
-- [Starodubas](../objektai/vietos/Starodubas)
 - [Sučiava](../objektai/vietos/Su%C4%8Diava)
 - [Sūrioji jūra](../objektai/vietos/S%C5%ABrioji%20j%C5%ABra)
 - [Toloma](../objektai/vietos/Toloma)
 - [Trakai](../objektai/vietos/Trakai)
 - [Unzatrapio žemė](../objektai/vietos/Unzatrapio%20%C5%BEem%C4%97)
 - [Upytės žemė](../objektai/vietos/Upyt%C4%97s%20%C5%BEem%C4%97)
-- [Užnerio žemė](../objektai/vietos/U%C5%BEnerio%20%C5%BEem%C4%97)
 - [Varmė](../objektai/vietos/Varm%C4%97)
 - [Viazmos žemė](../objektai/vietos/Viazmos%20%C5%BEem%C4%97)
 - [Vidurinė Lietuva](../objektai/vietos/Vidurin%C4%97%20Lietuva)

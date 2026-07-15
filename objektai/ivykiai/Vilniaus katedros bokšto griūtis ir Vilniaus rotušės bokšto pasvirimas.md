@@ -58,25 +58,6 @@ Nenurodyta
   teiginys: "1769 m. nugriuvo Vilniaus katedros bokštas, tuo pačiu metu pasviro ir Vilniaus rotušės bokštas."
   pagrindžia:
     - c-176354
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1769 m. nugriuvo Vilniaus katedros bokštas, tuo pačiu metu pasviro ir Vilniaus rotušės bokštas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1769 m. nugriuvo
-    Vilniaus katedros bokštas, tuo pačiu metu pasviro ir Vilniaus rotušės
-    bokštas. Pats gyvenimas padėjo klasicizmui tapti svarbiausiu Vilniaus
-    pastatų stiliumi. Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Lau-
-    rynas Gucevičius (1753–1798) 1782  m. pradėjo Vilniaus katedros, o
-    1786 m. – Vilniaus rotušės rekonstrukciją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

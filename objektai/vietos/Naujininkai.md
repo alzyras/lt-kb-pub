@@ -35,24 +35,6 @@ Frankovskio vadovaujamus lietuvių įtvirtinimus tarp Naujininkų, šv.
   teiginys: "Leontijaus Bennigseno kavalerija atakavo lietuvių įtvirtinimus tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos rajonų."
   pagrindžia:
     - c-40322
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gen. mjr. Leontijus Bennigsenas tri-
-    mis kavalerijos pulkais, remiamas kazokų
-    pulko, atakavo gen. mjr. M. Frankovskio
-    vadovaujamus lietuvių įtvirtinimus tarp
-    Naujininkų, šv. Stepono bažnyčios ir
-    Poguliankos rajonų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

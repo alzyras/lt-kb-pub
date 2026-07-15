@@ -38,7 +38,6 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
 - susijęs iš [[objektai/ivykiai/Noihauzo pilies pastatymas Kuršių nerijoje.md#claim-t-62415|Noihauzo pilies pastatymas Kuršių nerijoje (pilis)]]: Magistras Konradas Kuršių nerijoje, Sūriosios jūros pakrantėje, pastatydino Noihauzo pilį, kad lietuviai netikėtai nesiveržtų į Sembą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179327|Lietuviai]]: Konradas Kuršių nerijoje pastatydino Noihauzo pilį, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -50,9 +49,6 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
     braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos
     broliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,
     kuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
-
-
-
 
     217 (212).
   citata_rodoma: ''
@@ -68,21 +64,18 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
 - id: c-59236
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    216 (211). Apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje,
-                                       Kuršių nerijoje
-
-       Brolis  Konradas,  magistras,  išmintingas  ir  apdairus  vyras, suprasdamas,  kad,
-    braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos
-    broliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,
-    kuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
-
-
-
-
-    217 (212).
+    Vis dėlto manyčiau, jog nieku būdu nederėtų nutylėti, kad šis brolis
+    Fridrichas prieš savo žūtį taip smarkiai kirto kalaviju per nugarą vienam tvirtam kariui,
+    pastojusiam kovoje jam kelią, taip baisiai jam smogė, kad tas, neatlaikęs smūgio, su
+    arkliu parkrito žemėn, nors šis kirtis jo visai nesužeidė ir nepaliko ant kūno jokio žaizdos
+    pėdsako, kaip vėliau, priėmę Kristaus tikėjimą, viešai pareiškė ir pats nukentėjęs, ir kiti
+    sūduviai, dalyvavę tame kare ir viską matę.
+    219 (214). Apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­
+    mą ir apie tai, kaip buvo apleista ši žemė
+    Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti,
+    nerašysime apie tuos karus.
   citata_rodoma: "Apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje,\n                                   Kuršių nerijoje\n\n   Brolis  Konradas,  magistras,  išmintingas  ir  apdairus  vyras, suprasdamas,  kad,\nbraudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos\nbroliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,\nkuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.\n\n\n\n\n217 (212)."
   statusas: verified
   teiginio_tipas: faktas

@@ -60,7 +60,6 @@ media_all_json: |-
 - susijęs iš [[objektai/posakiai/„tautų kalėjimas“ „lydymosi katilas“ „tautų lopšys“.md#claim-t-183511|„tautų kalėjimas“ „lydymosi katilas“ „tautų lopšys“]]: LDK vykę tautų lydymosi procesai baigėsi ne visuotine polonizacija, o lietuvių, baltarusių ir ukrainiečių modernių tautų susikūrimu.
 - susijęs iš Lietuva: LDK lydymosi procesai baigėsi ne visuotine polonizacija, o modernių lietuvių, baltarusių ir ukrainiečių tautų susikūrimu.
 - susijęs iš Lietuva: Po antrojo LLV padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
-- susijęs iš Pinskas: Pinskas minimas kaip vienas žymiausių baltarusių gyvenamos Polesės miestų.
 - susijęs iš Vilniaus gubernija: Po 1843 m. pertvarkos caro valdžia Vilniaus guberniją priskyrė prie baltarusiškų, nors jos vakarinėje dalyje tebevyravo lietuviškai kalbantieji.
 - susijęs iš [[objektai/zodynas/krajovcai kraštiečiai.md#claim-t-23528|krajovcai kraštiečiai]]: Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
 - susijęs iš [[objektai/zodynas/krajovcai.md#claim-t-23529|krajovcai]]: Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
@@ -112,8 +111,6 @@ media_all_json: |-
 - susijęs iš Kaunas: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę.
 - susijęs iš Kauno gubernija: 1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.
 - susijęs iš Paduva: Pranciškus Skorina baigė Paduvos universitetą ir ten įgijo medicinos daktaro laipsnį.
-- susijęs iš Polesė: Paaiškinime teigiama, kad Kojelavičius dažnai neskyrė Polesės nuo kaimyninės Palenkės, lenkiškai vadintos Poleksia.
-- susijęs iš Turovas: Turovas buvo vienas žymiausių Polesės miestų kartu su Pinsku ir David Gorodoku.
 - susijęs iš Vilniaus gubernija: Per 1863 metus atkakliausiai sukilėliai kovėsi su caro kariuomene Kauno gubernijoje, kurioje įvyko 168 mūšiai ir susidūrimai su caro kariuomene.
 - susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75551|istorinė Lietuva]]: XVI–XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.
 - susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75555|istorinė Lietuva]]: XVI-XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.
@@ -121,73 +118,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192277|pilkapis]]: Teodoras Narbutas baltarusių pilkapių horizontalų pjūvį apibūdina kaip šiek tiek suplotos elipsės formą.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169932|rusėnų kalba LDK raštų kalba]]: Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba.
 - susijęs iš [[objektai/zodynas/senalietuviai jaunalietuviai.md#claim-t-26556|senalietuviai jaunalietuviai]]: Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino litvinais arba senalietuviais, bet dauguma jų integravosi į lenkų tautą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
-    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
-    besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
-    las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
-    tiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės
-    Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
-    baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
-    tautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma
-    valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
-    ti su Lenkija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata
-    trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie­
-    tuvos palikimą. Juk Lietuvos istorija -  tai ne vien pagoniškas
-    tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
-    jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
-    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,
-    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
-    tūrinio paveldo arealas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
-    loginės pakraipos politinių grupuočių (neretai pasivadinusių partijomis),
-    veikusių atskirai lietuvių ir lenkų bendruomenių vardu, kurios daugiau ar
-    mažiau laikėsi atitinkamai arba lietuvių, arba lenkų etnolingvistinio naci-
-    onalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės
-    neteisėtais. Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
-    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
-    besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
-    las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
-    tiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės
-    Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
-    baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
-    tautų kalbos turėtų valstybinį statusą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-170850
@@ -216,15 +146,14 @@ media_all_json: |-
 - id: c-170851
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 4"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 4."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata
     trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie­
-    tuvos palikimą. Juk Lietuvos istorija -  tai ne vien pagoniškas
+    tuvos palikimą. Juk Lietuvos istorija - tai ne vien pagoniškas
     tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
     jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
-    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,
+    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
     lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
     tūrinio paveldo arealas.
   citata_rodoma: "Istorinė\nLietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,\nlenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­\ntūrinio paveldo arealas."

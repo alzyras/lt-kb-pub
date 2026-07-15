@@ -62,20 +62,6 @@ Nenurodyta
   teiginys: "XIII a. kalavijas, saugomas VDKM, buvo rastas Raudonėje."
   pagrindžia:
     - c-41109
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'XIII a. kalavijas, saugomas VDKM, buvo rastas Raudonėje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 30, XIII a. Kalavijas. Rastas Raudonėje, VDKM, Artūro Užgalio nuotr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

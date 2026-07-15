@@ -65,36 +65,6 @@ Nenurodyta
   teiginys: "1422 m. rugsėjo 27 d. prie Melno ežero buvo pasirašyta taika su ordinu."
   pagrindžia:
     - c-66886
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    negalėdamas atsispirti didelei jungtinei jėgai, didysis magistras
-    Russdorfas paprašė taikos. Ji buvo pasirašyta 1422.IX.27 d. lenkų
-    karo stovykloje prie Melno ežero, arti upės Osos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Po tiek ilgų ginčų ir ginkluotų konfliktų pagaliau buvo sutarta
-    siena, kuri nuostabiu būdu, nežiūrint įvairių mėginimų ją pakeisti,
-    patvariai išsilaikė penkis šimtmečius. Lietuvai atiteko žymi dalis
-    Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

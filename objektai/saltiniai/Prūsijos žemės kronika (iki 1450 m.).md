@@ -41,43 +41,19 @@ Dusburgietis teigia, kad „Senųjų Prūsijos analų“ pagrindu, papildant juo
   teiginys: "„Prūsijos žemės kronika“ susijusi su Torunės analais, pratęsta iki 1450 m. ir sudaryta Chelmžos vyskupo aplinkoje."
   pagrindžia:
     - c-61896
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Prūsijos žemės kronika“ susijusi su Torunės analais, pratęsta iki 1450 m. ir sudaryta Chelmžos vyskupo aplinkoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat
-    Torunės analai (originalios žinios prasideda XIV a. pradžia, įvykiai pratęsti iki 1410 m.)102
-    bei su pastaraisiais susijusi „Prūsijos žemės kronika“ (pratęsta iki 1450 m.)103, sudaryta
-    Chelmžos vyskupo aplinkoje104.
-      Sembos kanauninko rinkinio105, turinčio ryšio su Dusburgiečio tekstu, tyrinėjimai106
-    rodo, kad čia taip pat esama žinių, išrašytų iš neišlikusio Seniausio Prūsijos metraščio,
-    kad Dusburgietis galėjęs žinoti ir Diunamiundės metraštį107. Apskritai visų šių šaltinių
-    ir Dusburgiečio teksto analizė rodo, kad Dusburgietis naudojosi Seniausiu Prūsijos
-    metraščiu, kuriame buvo kur kas daugiau žinių, negu išliko jo nuorašuose iki mūsų
-    dienų108.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61896
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 22"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat
     Torunės analai (originalios žinios prasideda XIV a. pradžia, įvykiai pratęsti iki 1410 m.)102
     bei su pastaraisiais susijusi „Prūsijos žemės kronika“ (pratęsta iki 1450 m.)103, sudaryta
     Chelmžos vyskupo aplinkoje104.
-      Sembos kanauninko rinkinio105, turinčio ryšio su Dusburgiečio tekstu, tyrinėjimai106
+    Sembos kanauninko rinkinio105, turinčio ryšio su Dusburgiečio tekstu, tyrinėjimai106
     rodo, kad čia taip pat esama žinių, išrašytų iš neišlikusio Seniausio Prūsijos metraščio,
     kad Dusburgietis galėjęs žinoti ir Diunamiundės metraštį107. Apskritai visų šių šaltinių
     ir Dusburgiečio teksto analizė rodo, kad Dusburgietis naudojosi Seniausiu Prūsijos

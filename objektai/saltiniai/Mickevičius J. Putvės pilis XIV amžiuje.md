@@ -7,12 +7,12 @@ datos:
   - '1940 m.'
 date_start: '1940'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -54,41 +54,8 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   teiginys: "Kreiviai, anksčiau vadinti Kryvos vardu, ir gretimas Romės Laukas galėjo būti susiję su pagonišku kultu."
   pagrindžia:
     - c-61590
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pūtvės pilis ir laukas siejami su Pūtvės kaimu prie Akmenos, į pietryčius nuo Šilalės, arba su gretimo Kreivių kaimo piliakalniu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kryžiuočių kelių aprašymuose (XIV a. pabaiga) minimas Putinveld (Weg.
-    12, 16), Putetauken (Weg. 18). Pūtvės pilis ir laukas identifikuojami su Pūtvės kaimu
-    prie Akmenos (Jūros intako)  į pietryčius nuo Šilalės, su ten buvusiu (upės nuplautu)
-    arba gretimo Kreivių kaimo piliakalniu (SRP, 2, p. 673—675; SZM, p. 201; Biržiška V.,
-    Kryžiuočių keliai..., p. 32—33; Mickevičius J., Pūtvės pilis..., p. 286—287; Jurginis J.,
-    Baudžiavos..., p. 88; LAA, 2, p. 142), tačiau Kreivių kaime tėra kalva, vardu Pilė, be
-    įtvirtinimų ir kultūrinio sluoksnio pėdsakų (LAA, 2, p.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'J. Mickevičiaus straipsnis „Putvės pilis XIV amžiuje“ paskelbtas 1940 m. žurnalo „Gimtasai kraštas“ 3-4 numeryje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mickevičius J. Putvės pilis XIV amžiuje.— Gimtasai kraštas, 1940, Nr. 3—4, p. 286—
-    287.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-003
   santrauka: 'Kreiviai, anksčiau vadinti Kryvos vardu, ir gretimas Romės Laukas galėjo būti susiję su pagonišku kultu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -111,8 +78,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 - id: c-61588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 201"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 201."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kryžiuočių kelių aprašymuose (XIV a. pabaiga) minimas Putinveld (Weg.
     12, 16), Putetauken (Weg. 18). Pūtvės pilis ir laukas identifikuojami su Pūtvės kaimu
@@ -131,8 +97,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 - id: c-61589
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mickevičius J. Putvės pilis XIV amžiuje.— Gimtasai kraštas, 1940, Nr. 3—4, p. 286—
     287.
@@ -146,14 +111,19 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 - id: c-61590
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 201"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 201."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dab. Pūtvės kaimo žemėse, Akmenos
-    kair. kranto vingyje, esančioje Pilikėje (aikštelė 40Х Х24 m, be žymesnių įtvirtinimų
-    pėdsakų) galėjo būti anksčiau statyta pilaitė. Kreiviai (anksčiau vadinti Kryvos vardu
-    — Mickevičius J.) ir gretimas Romės Laukas, matyt, buvo susiję su pagonišku kultu (žr.
-    paaiškinimus D. III, 5, 1).
+    Apie brolį Zigfridą, Prūsijos žemės didįjį magistrą
+    1309 viešpaties metais, rugsėjį atvyko į Prūsijos žemę brolis Zigfridas iš Foichtvangeno,
+    vienuoliktas didysis magistras ir aštuonioliktas Prūsijos žemės magistras, ir perkėlė į
+    Marienburgo pilį Prūsijoje Ordino vyriausiąją būstinę, kuri po Akono miesto sugriovimo
+    buvo Venecijoje.
+    305 (298). Apie [giesmę] „Sveika, Marija“
+    Tuo metu, 1309 metais brolius kamavo galybė visokeriopų vargų. Todėl tas pats brolis
+    Zigfridas, magistras, nutarė, kad broliai vienuoliai po atskirų liturginių valandų giedotų
+    antifoną: „Sveika, karaliene“ su atsakymu: „Kiekvienoje priespaudoje“ bei kolektą
+    „Apsaugok, viešpatie“, o broliai pasauliečiai — vieną „Sveika, Marija“ švenčiausiajai
+    mergelei pagerbti, kad per jos užtarimą ši sumaištis šiek tiek aprimtų.
   citata_rodoma: "kranto vingyje, esančioje Pilikėje (aikštelė 40Х Х24 m, be žymesnių įtvirtinimų\npėdsakų) galėjo būti anksčiau statyta pilaitė. Kreiviai (anksčiau vadinti Kryvos vardu\n— Mickevičius J.) ir gretimas Romės Laukas, matyt, buvo susiję su pagonišku kultu (žr.\npaaiškinimus D. III, 5, 1)."
   statusas: verified
   teiginio_tipas: faktas

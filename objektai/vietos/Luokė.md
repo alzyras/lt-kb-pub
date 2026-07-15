@@ -40,25 +40,6 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
   teiginys: "1416 m. Vytautas Luokėje pastatė vieną iš aštuonių parapijinių bažnyčių."
   pagrindžia:
     - c-38550
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ordinu, jis pats darbavosi Žemaitijoje, stiprindamas ten
-    katalikų tikėjimą. Kaip jau matėme, 1416 metais Vytautas
-    Varniuose pastatė katedrą ir aštuonias parapijines bažnyčias:
-    Viduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­
-    žiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­
-    kimo pasiuntiniai—Lvovo vysk. Jonas ir Vilniaus vysk. Petras
-    — buvo Vytauto sutikti ir su dideliu didikų būriu nulydėti į Že-
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

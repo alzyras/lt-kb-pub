@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Gucevičiaus popieriuose aptiko rankraštį apie Mildos šventyklos padavimą.
+Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Gucevičiaus popieriuose aptiko rankraštį apie Mildos šventyklos padavimą. Šulcas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį.
 
 ## Teiginiai
 
@@ -34,44 +34,33 @@ Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Guc
   teiginys: "Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Gucevičiaus popieriuose aptiko rankraštį apie Mildos šventyklos padavimą."
   pagrindžia:
     - c-173134
-- susijęs iš [[objektai/asmenys/Laurynas Gucevičius.md#claim-t-188577|Laurynas Gucevičius]]: Narbutas rašo, kad Šulcas tarp mirusio architekto Lauryno Gucevičiaus popierių aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Gucevičiaus popieriuose aptiko rankraštį apie Mildos šventyklos padavimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Petro vienuolyno vietoje, stovė­
-    jusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­
-    teto architektūros profesorius ponas Šulcas tarp mirusio ar­
-    chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
-    tinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­
-    kimumu neabejota.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197459"></a>
+- t-002
+  global_id: t-197459
+  teiginys: "Šulcas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   pagrindžia:
-    - t-001
-
+    - c-173134
+- susijęs iš [[objektai/asmenys/Mykolas Šulcas.md#claim-t-200766|Mykolas Šulcas]]: Mykolas Šulcas po Gucevičiaus mirties užbaigė Katedrą ir prie fasado pridėjo statulas, kurių nebuvo Gucevičiaus projekte.
+- susijęs iš [[objektai/asmenys/Laurynas Gucevičius.md#claim-t-188577|Laurynas Gucevičius]]: Narbutas rašo, kad Šulcas tarp mirusio architekto Lauryno Gucevičiaus popierių aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.
 ## Citatos
 
 - id: c-173134
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Petro vienuolyno vietoje, stovė­
-    jusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­
-    teto architektūros profesorius ponas Šulcas tarp mirusio ar­
-    chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
-    tinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­
-    kimumu neabejota.
+    Pats pavadinimas, iš­
+    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
+    kovskis, o deivei.
+    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
+    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
+    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
+    nepaprasto grožio vienatinę dukterį.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190251
+    - t-197459

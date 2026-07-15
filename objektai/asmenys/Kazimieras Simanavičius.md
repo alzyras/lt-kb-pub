@@ -35,25 +35,6 @@ Simanavičius pirmasis aptarė daugiapakopės raketos idėją ir raketinės arti
   teiginys: "Kazimieras Simanavičius pirmasis aptarė daugiapakopės raketos ir raketinės artilerijos idėjas."
   pagrindžia:
     - c-41381
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kazimieras Simanavičius pirmasis aptarė daugiapakopės raketos ir raketinės artilerijos idėjas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Veikalas buvo išverstas į daugelį Europos kalbų
-
-    Šis veikalas buvo išverstas į daugelį kalbų ir ilgą laiką laikytas
-    klasikiniu artilerijos vadovėliu. Reikšmingiausiu indėliu laikomos
-    jo idėjos apie raketas. K. Simanavičius pirmasis aptarė daugiapako-
-    pės raketos idėją ir raketinės artilerijos idėją apskritai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

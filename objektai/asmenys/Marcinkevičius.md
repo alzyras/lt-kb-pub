@@ -55,22 +55,6 @@ Marcinkevičių ir dar vieną rusą karininką.
 - susijęs iš Berlynas: Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.
 - susijęs iš Butrimonys: Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių.
 - susijęs iš Pietų Afrikos Respublika: 1967 m. Pietų Afrikos Respublikoje Christiaan Barnard atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė
-    tris NKGB dalinio buvusius vadus: kpt. Kruglovą, leit. Marcinkevičių ir dar vieną rusą
-    karininką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-41400

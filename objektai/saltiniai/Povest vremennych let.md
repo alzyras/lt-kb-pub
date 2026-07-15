@@ -50,37 +50,6 @@ PVL = Povest’ vremennych let, cast’ pervaja. Štai, XII amž. pradžioje sur
   teiginys: "XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą."
   pagrindžia:
     - c-29627
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Povest’ vremennych let, cast’ pervaja“ teksto ir vertimo leidimas išleistas Leningrade 1951 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    PVL = Povest’ vremennych let, cast’ pervaja. Tekst i perevod.
-    Leningradas 1951.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Štai, XII amž. pradžioje surašyta
-    «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.
-    darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­
-    kyta. 1044 m. Jaroslavas vėl ėjęs « na Litvu » ir pavasarį įkūręs
-    Naugarduką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

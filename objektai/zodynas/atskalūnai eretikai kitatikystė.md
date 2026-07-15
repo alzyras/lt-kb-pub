@@ -43,34 +43,6 @@ media_all_json: |-
   teiginys: "1542 m. Vilniuje išleistas dekretas suteikė Vilniaus ir kitiems Lietuvos vyskupams valdžią tirti ir bausti atskalūnus."
   pagrindžia:
     - c-82492
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1542 m. Vilniuje išleistas dekretas suteikė Vilniaus ir kitiems Lietuvos vyskupams valdžią tirti ir bausti atskalūnus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    282
-
-    ## Puslapis 299
-
-    IV KNYGA
-    o jo turima nuosavybė atitektų perpus viešajam iždui ir vys­
-    kupui. Šis Vilniuje 1542 metais išleistas dekretas patvirtino
-    jau ankstesniais raštais Vilniaus ir kitiems Lietuvos vysku­
-    pams suteiktą valdžią: įsigilinti į atskalūnų veiksmus pagal
-    kanonus, įspėti eretikus ir juos atitinkamai bausti pagal sak­
-    ralinės teisės nuostatus43. Šitaip nuteikus jau linkstančius į
-    kitatikystę Vilniaus gyventojų protus, apie 1555 metus sos­
-    tinėje apsireiškė kitas kunigas, pažiūrėti, taip pat uolus ka­
-    talikas, o slapčiomis vėlgi persiėmęs kitos, viklifininkų sek­
-    tos, maksimomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

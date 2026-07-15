@@ -53,6 +53,7 @@ Nenurodyta
   teiginys: "Mažas smaigas, ant kurio pasmeigiamos bulvės valgant garstyčninką."
   pagrindžia:
     - c-177765
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

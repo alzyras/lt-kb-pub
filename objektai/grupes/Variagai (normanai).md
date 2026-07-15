@@ -51,47 +51,8 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   teiginys: "Narbutas variagų-lietuvių giminę apibūdina kaip karingą ir sumanią, vėliau išgarsėjusią rusų variagų vardu."
   pagrindžia:
     - c-175272
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Variagų laikotarpiu Dniepro baseine lietuviai išplėtojo prekybinius santykius rytų kryptimi.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tai
-    liudija kalbos skoliniai ir metraščių žinutės. Kai Dniepro baseine
-    prasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos
-    kariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius
-    santykius. Šitaip per Gudijos plotus Lietuvon dar IX amž.
-    pirmoje pusėje yra atėję eilė žodžių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas rašo, kad Rimuko variagai buvo vadinti rus-variagais arba rusais ir laikyti karinga skandinavų gentimi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Anot
-    jų, neabejotinai buvo Rusia vadinamas kraštas, egzista­
-    vęs labai seniai, iki epochos, kai slavai ¡pradėjo vadintis
-    rusais. Iš jos buvo kilęs Rimukas su savo variagais, ku­
-    rie dėl to buvo vadinami rus-variagais arba tiesiog ru­
-    sais; tai buvo karinga skandinavų gentis, nuo seno val­
-    džiusi taip pat ir rytines Baltijos jūros pakrantes.
-    220
-    Rosės pavadinimo kilmė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Narbutas variagų-lietuvių giminę apibūdina kaip karingą ir sumanią, vėliau išgarsėjusią rusų variagų vardu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -135,8 +96,7 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 - id: c-175271
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 215"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 215."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Anot
     jų, neabejotinai buvo Rusia vadinamas kraštas, egzista­
@@ -157,16 +117,19 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 - id: c-175272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 237"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai jų ka­
-    ringa ir sumani giminė vėlesniaisiais amžiais išgarsėjo
-    rusų variagų vardu. Apie juos mes dar kalbėsime chro­
-    nologine mūsų pasakojimo tvarka. Čia tik pateikiame
-    anksčiau mūsų Surovieckio padarytą ir labai teisingą pa­
-    stabą, jog senovės geografai šią variagų-lietuvių tautą
-    žinojo gitonų vardu1.
+    Istoriniai pastebėjimai. Laikui bėgant, Rusios kraštas
+    patyrė įvairių pokyčių, galop kryžiuočių laikais tapo be­
+    veik visiška dykra, kuri daugelyje vietų tarp Prūsijos ir
+    Žemaitijos buvo beveik neperžengiama taip, kad beveik
+    ištisus du amžius nebuvo Lietuvos ir Prūsų valstybių tar­
+    pusavio sienos. Tik 1436 metais Lenkijos karalius Vladis­
+    lovas Varnietis iš vienos ir kryžiuočių magistras Povilas
+    Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku­
+    ria visiems laikams buvo nustatyta minėtų valstybių sie­
+    na, o Rusia buvo padalyta į dvi nelygias dalis2.
+  citata_rodoma: "Tai jų ka­\nringa ir sumani giminė vėlesniaisiais amžiais išgarsėjo\nrusų variagų vardu. Apie juos mes dar kalbėsime chro­\nnologine mūsų pasakojimo tvarka. Čia tik pateikiame\nanksčiau mūsų Surovieckio padarytą ir labai teisingą pa­\nstabą, jog senovės geografai šią variagų-lietuvių tautą\nžinojo gitonų vardu1."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

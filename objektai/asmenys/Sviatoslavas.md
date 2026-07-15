@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio sūnus Jurgis buvo priverstas padaryti su Lietuva sąjungą.
+Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį. Sviatoslavas žuvo prie Mstislavlio ant Vechros kranto. Kojelavičiaus pasakojime Sviatoslavas, nuniokojęs Oršos apylinkes, puolė Mstislavlį ir privertė Skirgailą bei Vytautą vesti karius prieš jį.
 
 ## Teiginiai
 
@@ -48,7 +48,14 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 <a id="claim-t-184838"></a>
 - t-003
   global_id: t-184838
-  teiginys: "Sviatoslavas žuvo, kai mėgindamas perrikiuoti rusų rikiuotės vidurį prijojo per arti priešų ir buvo pervertas lietuvio raitelio ietimi."
+  teiginys: "Kojelavičiaus pasakojime Sviatoslavas, nuniokojęs Oršos apylinkes, puolė Mstislavlį ir privertė Skirgailą bei Vytautą vesti karius prieš jį."
+  pagrindžia:
+    - c-168199
+
+<a id="claim-t-196597"></a>
+- t-004
+  global_id: t-196597
+  teiginys: "Kojelavičiaus pasakojime Sviatoslavas, nuniokojęs Oršos apylinkes, brovėsi į Mstislavlį ir beveik privedė krašto sostinę prie kritinės padėties."
   pagrindžia:
     - c-168199
 - susijęs iš [[objektai/asmenys/Jurijus.md#claim-t-186226|Jurijus]]: Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų rankas, o vėliau prisiekęs atgavo tėvoniją.
@@ -67,76 +74,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 - susijęs iš Fominos Berezuja: Vytautui užėmus Viazmą, Fominos Berezujos kunigaikščiai išsigando ir geruoju prisidėjo prie Vytauto.
 - susijęs iš Mstislavlis: Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo paklusnumą Jogailai.
 - susijęs iš Mstislavlis: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
-- susijęs iš Polockas: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
 - susijęs iš Vechra: Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
-    prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
-    Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
-    jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Už pažadą ginti nuo priešų, jis ordinui buvo
-    užrašęs «visą savo Polocko karalystę». Būdamas sąjungoje su
-    Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
-    Bet maištininkai greitai buvo įveikti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Būdamas sąjungoje su
-    Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
-    Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
-    prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
-    Jogailai paklusnumą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Sviatoslavas žuvo, kai mėgindamas perrikiuoti rusų rikiuotės vidurį prijojo per arti priešų ir buvo pervertas lietuvio raitelio ietimi.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėlto nevienoda kovos priežastis
-    sukėlė nevienodą karių narsumą ir nulėmė, kaip ir de­
-    rėjo tikėtis, nevienodą baigtį. Pirmiausia pradėjo krik­
-    ti rusų rikiuotės vidurys; pamėginęs iš naujo jį suri­
-    kiuoti, Sviatoslavas per drąsiai prijojo arti priešų ir,
-    pervertas lietuvio raitelio ietimi per krūtinę, surado
-    galą. Žuvus vadui, visa kariuomenė pasileido į arti­
-    miausius miškus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-30288
@@ -192,23 +130,39 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 - id: c-168199
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 283"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 283."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vis dėlto nevienoda kovos priežastis
+    Sviatoslavas, nuniokojęs Oršos apygardas, brovėsi į
+    Mstislavlį, tiesa, neteko daug savųjų, tačiau nemaža
+    įtvirtinimų apgriovė, o krašto sostinę beveik prie pas­
+    kutiniosios privarė; šitokia padėtis neleido gaišti; žval­
+    gai tikino, kad miestas atiteksiąs priešui, jeigu tučtuo­
+    jau neatskubėsianti parama. Todėl, Lukomlyje palikę
+    stiprią įgulą, nutarę kurį laiką negalvoti apie Po­
+    S k iig a ila bei V y t a u ­
+    tas v a d o v a u ja karui
+    L ie tu v o je
+    skubiai nužygiavo į Lietuvos
+    pasienius užkirsti kelio su
+    grobiu atsitraukiančiam Kon­
+    radui, tačiau šis vengė rody­
+    tis atvirose vietose ir skubiai
+    2 84
+
+    locką, nuvedė karius tiesiai prieš Sviatoslavą, kuris
+    dėl tos priežasties, jau sugriovęs įtvirtinimus ir paka-
+    sais beveik įsibrovęs į miestą, turėjo visas jėgas mes-
+    susidūrimo prasidėjo dar smarkesnė kova, nes susigrū­
+    mė visi pulkai. Vis dėlto nevienoda kovos priežastis
     sukėlė nevienodą karių narsumą ir nulėmė, kaip ir de­
-    rėjo tikėtis, nevienodą baigtį. Pirmiausia pradėjo krik­
-    ti rusų rikiuotės vidurys; pamėginęs iš naujo jį suri­
-    kiuoti, Sviatoslavas per drąsiai prijojo arti priešų ir,
-    pervertas lietuvio raitelio ietimi per krūtinę, surado
-    galą. Žuvus vadui, visa kariuomenė pasileido į arti­
-    miausius miškus.
+    rėjo tikėtis, nevienodą baigtį.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184838
+    - t-196597
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]], [[objektai/asmenys/Jurijus]]

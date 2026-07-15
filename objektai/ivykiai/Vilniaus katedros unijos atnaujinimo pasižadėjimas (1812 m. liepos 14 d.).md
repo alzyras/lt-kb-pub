@@ -53,25 +53,6 @@ Nenurodyta
   teiginys: "Vilniaus universiteto jaunuomenės iniciatyva 1812 m. liepos 14 d. Vilniaus katedroje iškilmingai pasižadėta atnaujinti uniją."
   pagrindžia:
     - c-02084
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip
-    tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri
-    skelbėsi norinti sujungti į vieną kūną visas buvusios Respubli-
-    kos žemes ir visus kvietė į bendrą darbą. Tą pakvietimą ypač
-    karštai sutiko Vilniaus universiteto jaunuomenė. Jos iniciatyva
-    1812 m. liepos 14 d. Vilniaus katedroje įvyko iškilmingas pasi-
-    žadėjimas atnaujinti uniją. Tokių iškilmių įvyko ir kitur.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

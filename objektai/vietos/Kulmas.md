@@ -16,6 +16,9 @@ datos:
   - '2026 m.'
 date_start: '1222'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,9 +26,6 @@ tags:
   - miestas
   - pilis
   - žemė
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -67,6 +67,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginys: "Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių."
   pagrindžia:
     - c-86532
+    - c-167555
 
 <a id="claim-t-90751"></a>
 - t-004
@@ -88,6 +89,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginys: "1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje."
   pagrindžia:
     - c-86533
+    - c-86525
 
 <a id="claim-t-90754"></a>
 - t-007
@@ -102,6 +104,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginys: "Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge."
   pagrindžia:
     - c-86523
+    - c-167556
 
 <a id="claim-t-90756"></a>
 - t-009
@@ -110,61 +113,47 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   pagrindžia:
     - c-86534
 
-<a id="claim-t-90757"></a>
-- t-010
-  global_id: t-90757
-  teiginys: "1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje."
-  pagrindžia:
-    - c-86525
-
 <a id="claim-t-90758"></a>
-- t-011
+- t-010
   global_id: t-90758
   teiginys: "Po mūšio viena moteris su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų."
   pagrindžia:
     - c-86528
 
 <a id="claim-t-90759"></a>
-- t-012
+- t-011
   global_id: t-90759
   teiginys: "Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai."
   pagrindžia:
     - c-86524
 
 <a id="claim-t-90760"></a>
-- t-013
+- t-012
   global_id: t-90760
   teiginys: "Kulmo pilis ir miestas buvo Vyslos dešiniajame krante, o dabartinis jų atitikmuo yra Chełmno."
   pagrindžia:
     - c-86529
 
-<a id="claim-t-184170"></a>
-- t-014
-  global_id: t-184170
-  teiginys: "Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių."
-  pagrindžia:
-    - c-167555
-
-<a id="claim-t-184171"></a>
-- t-015
-  global_id: t-184171
-  teiginys: "Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge."
-  pagrindžia:
-    - c-167556
-
 <a id="claim-t-192680"></a>
-- t-016
+- t-013
   global_id: t-192680
   teiginys: "Narbutas rašė, kad Kulmas į rytus tuomet tęsėsi tik iki Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą."
   pagrindžia:
     - c-175450
 
-<a id="claim-t-192681"></a>
-- t-017
-  global_id: t-192681
-  teiginys: "Narbutas nurodė, kad sena siena prie Drevantos skyrė Kulmo kraštą nuo senovės Prūsijos."
+<a id="claim-t-197175"></a>
+- t-014
+  global_id: t-197175
+  teiginys: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha."
   pagrindžia:
-    - c-175451
+    - c-179048
+
+<a id="claim-t-197885"></a>
+- t-015
+  global_id: t-197885
+  teiginys: "Į rytus Kulmas tuomet tęsėsi tik ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą."
+  pagrindžia:
+    - c-179380
 - susijęs iš [[objektai/asmenys/Skomantas (lietuvių vadas).md#claim-t-40424|Skomantas (lietuvių vadas)]]: Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59829|Skomantas]]: Spalio 21 d. Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90016|Sventopelkas]]: Sventopelkas subūrė du tūkstančius karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
@@ -172,7 +161,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179313|Lietuviai]]: Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene spalio 21 d. įsiveržė į Kulmo žemę.
 - susijęs iš [[objektai/ivykiai/Treniotos žygis į Kulmo žemę ir Birgelavos pilies apiplėšimas.md#claim-t-62509|Treniotos žygis į Kulmo žemę ir Birgelavos pilies apiplėšimas (pilis)]]: Treniota subūrė iki 30 tūkst. vyrų, įsiveržė į Kulmo žemę ir paėmė Birgelavos pilį, pagrobdamas gyvulius bei mantą.
 - susijęs iš [[objektai/asmenys/Bertoldas iš Nordhauzeno.md#claim-t-60251|Bertoldas iš Nordhauzeno]]: Bertoldas iš Nordhauzeno buvo Kulmo žemės krašto komtūras, labiau tikęs ūkio reikalams negu karui.
-- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184827|Skomantas]]: Skomantas atvedė kariuomenę prie Plovistos pilies ir po atkaklios apsiausties privertė jos įgulą pasiduoti.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184827|Skomantas]]: Skomantas, vedamas dviejų įkaitų, mažai žinomais krikščionių krašto keliais pasiekė ir nuniokojo kelis miestus bei pilis.
 - susijęs iš [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.).md#claim-t-66650|Kulmo pilies ir miesto įkūrimas (1232 m.)]]: 1232 m. magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, pastatė Kulmo pilį ir miestą senosios pilies vietoje.
 - susijęs iš [[objektai/ivykiai/Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas.md#claim-t-59429|Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas]]: Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą.
 - susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185647|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę.
@@ -281,7 +270,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88524|Bartai]]: Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179023|Kryžiuočių ordinas]]: 1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179313|Lietuviai]]: Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene spalio 21 d. įsiveržė į Kulmo žemę.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184549|Lietuviai]]: Lietuviai krikščionių šventyklose išniekino šventuosius indus, o grįžtančius juos išžudė Kulmo komtūras Konradas Žakas.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89171|Pagudėnai]]: Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175110|Sūduviai-jotvingiai]]: Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, juos išžudė, o moteris ir vaikus išsivarė į nelaisvę.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175130|Sūduviai-jotvingiai]]: Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį.
@@ -408,7 +396,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/asmenys/Henrikas von Plauenas.md#claim-t-176405|Henrikas von Plauenas]]: Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175188|Herkus Mantas]]: Pokarvių skerdynių pasakojime Herkus du kartus išgelbėjo Hirtshalsą nuo burtų.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
-- susijęs iš [[objektai/asmenys/Hermanas ton Senenbergas.md#claim-t-186210|Hermanas ton Senenbergas]]: Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuolikus ir vėliau sumušė priešą.
 - susijęs iš [[objektai/asmenys/Jeronimas.md#claim-t-60150|Jeronimas]]: Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos.
 - susijęs iš [[objektai/asmenys/Jonas (Sarginio sūnus).md#claim-t-60343|Jonas (Sarginio sūnus)]]: Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.
 - susijęs iš [[objektai/asmenys/Jėzus Kristus.md#claim-t-89879|Jėzus Kristus]]: Jėzus Kristus įvardijamas kaip pagalbininkas Teutonų ordino broliams per 53 metus palaužiant prūsus.
@@ -431,7 +418,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59946|Poponas iš Osternos]]: 1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.
 - susijęs iš [[objektai/asmenys/Rudolfas (Pamedės vyskupas).md#claim-t-60428|Rudolfas (Pamedės vyskupas)]]: Rudolfas, Pamedės vyskupas, Osos pakrantėje pastatė miestą, vardu Bišofsverderis.
 - susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
-- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184827|Skomantas]]: Skomantas atvedė kariuomenę prie Plovistos pilies ir po atkaklios apsiausties privertė jos įgulą pasiduoti.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184827|Skomantas]]: Skomantas, vedamas dviejų įkaitų, mažai žinomais krikščionių krašto keliais pasiekė ir nuniokojo kelis miestus bei pilis.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-184132|Sventopelkas]]: Prieš mirtį Sventopelkas sušaukė savo sūnus ir patarė jiems niekada nesipriešinti Ordino broliams.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90014|Sventopelkas]]: Dusburgietis Sventopelką vaizduoja kaip su prūsais bendradarbiavusį „išdaviką“.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90019|Sventopelkas]]: Petras Dusburgietis Pamario kunigaikštį Sventopelką vadina išdaviku dėl bendradarbiavimo su prūsais prieš Ordiną.
@@ -641,13 +628,12 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/zodynas/ariergardas.md#claim-t-185352|ariergardas]]: 1301 m. lenkų būrys pasivijo besitraukiančius lietuvius ir, tikėdamasis atsiimti grobį, smarkiai užpuolė ariergardą.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89548|dykra]]: Konradas Žakas persekiojo Lietuvos užpuolikus ligi pat dykrų ir išvadavo jų paimtus krikščionis.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89553|dykra]]: Konradas Žakas persekiojo Lietuvos užpuolikus ligi pat dykrų, išvadavo belaisvius krikščionis ir beveik visus užpuolikus išžudė.
-- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-184613|gurguolė]]: Prie Liubavos Sūduvos prūsai ir žemaičiai, pabėgę nuo kryžiuočių puolimo, paliko stovyklą ir gurguoles.
+- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-184613|gurguolė]]: Prie Liubavos Sūduvos prūsai ir jiems į pagalbą atėję žemaičiai, kryžiuočių puolami, pabėgo ir paliko stovyklą bei gurguoles.
 - susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-184615|gurguolė]]: 1301 m. lenkų būrys užpuolė besitraukiančių lietuvių ariergardą, kai visos gurguolės jau buvo nuvarytos į priekį.
 - susijęs iš [[objektai/zodynas/kovojanti bažnyčia.md#claim-t-58937|kovojanti bažnyčia]]: Brolių karo sėkmė Prūsijoje vadinama reikšmingu ženklu kovojančios bažnyčios padangėje.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70227|maldininkai / maldininko įžadai]]: Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58828|maldininkai]]: Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.
 - susijęs iš [[objektai/zodynas/nuodėmių atleidimas.md#claim-t-58918|nuodėmių atleidimas]]: Kulmo vyskupas suteikė našlėms nuodėmių atleidimą ir įpareigojo jas tekėti už savo tarnų.
-- susijęs iš [[objektai/zodynas/papilys.md#claim-t-184633|papilys]]: 1299 m. Brandenburgo komtūras Kanonas sudegino namus Junigedos ir Pieštvės papiliuose.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58798|pilėnas pilėnai]]: Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58803|pilėnas pilėnai]]: 1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.
 - susijęs iš [[objektai/zodynas/stalininkas.md#claim-t-58869|stalininkas]]: Stalininkas Druzigeris pabėgo iš mūšio ir Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo.
@@ -665,7 +651,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/asmenys/Šventoji Barbora.md#claim-t-60081|Šventoji Barbora]]: Šventoji Barbora moteriai tris kartus pasirodė naktį ir sakė ketinanti eiti į Kulmo miestą klausyti mišių.
 - susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
 - susijęs iš Lubava: Pavyslyje, ypač Kulmo ir Lubavo srityse, gyventojai buvo mišrūs: lenkai ir prūsai.
-- susijęs iš [[objektai/asmenys/Hermanas ton Senenbergas.md#claim-t-186210|Hermanas ton Senenbergas]]: Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuolikus ir vėliau sumušė priešą.
 - susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89390|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: 1243 m. Kulmo žemės nusiaubime ir Ordino pajėgų sutriuškinime dalyvavo Lietuvos kariuomenė.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90037|Sventopelkas]]: Sventopelkas su kariuomene atvyko stiprinti Marienverderio miesto ir pilies.
 - susijęs iš 1323 m. dokumentas apie Gedimino veiksmus Dobrynės ir Kulmo žemėse: 1323 m. dokumente Gediminas kaltintas Dobrynės ir Kulmo žemių niokojimu bei siekiu sugriauti priešininkų žemes.
@@ -673,44 +658,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66828|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas įsiveržė į Pamedės ir Kulmo žemes, jas siaubė, sugriovė daugumą pilių ir išžudė 4 tūkstančius krikščionių.
 - susijęs iš [[objektai/daiktai/Pilys.md#claim-t-59675|Pilys]]: Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tada Salza priėmė kvietimą
-    Konrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją. Krikščionims
-    ginti ir naujakrikštams apsaugoti nuo fanatiškų pagonių puolimų,
-    1231 m. pavasarį atvyko prie Vislos Hermano Balke's vadovaujamas
-    būrelis riterių. Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kul-
-    mas (1235 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-007
-
-- c-002
-  santrauka: 'Mozūrų kunigaikštis Konradas vyskupą Kristijoną įkurdino Mozūrams priklausiusio Kulmo žemės pakraštyje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Praėjo net keliolika metų, o vysk. Kristijonui vis ne-
-    sisekė: pagonys ne tik naikino jo kuriamas krikščionių bendruo-
-    menes, bet dar teriojo ir Lenkijos sritis. Tada Mozūrų kunigaikš-
-    tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
-    kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
-    mės pakraštėj. Naujosios sodybos ir dovanotieji turtai turėjo
-    būti veikimo bazė vyskupui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-003
   santrauka: 'Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -732,23 +679,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   pagrindžia:
     - t-008
 
-- c-004
-  santrauka: 'Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
-    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
-    sritį valdė prūsai, turėję ten savo pilių (III,7).
-      Kalbant apie pagrindinę prūsų teritoriją, prūsų ir lietuvių tarpusavio santykius, reikia
-      1 Пашуто В.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
 - c-005
   santrauka: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -767,153 +697,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   pagrindžia:
     - t-010
 
-- c-006
-  santrauka: '1330 m. rudenį Lenkijos karalius Lokietka užgriuvo Kulmo žemę ir dešimt dienų ją grobė bei degino.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Kulmo žemės nusiaubimą 1330 metais
-
-      Tų pat metų rudenį Lokietka, Lenkijos karalius, užgriuvo Kulmo žemę604 su visais savo
-      604 D. nutyli, kad Ordino valdų puolimas buvo numatytas bendromis Lokietkos ir
-    Gedimino jėgomis susitinkant Ordino teritorijoje rugsėjo 8 d. Lietuvos kariuomenė
-    rugsėjo pradžioje pasirodė prie Bartenšteino  ir kovodama žygiavo tolyn pro Lubavą,
-    palei Drevantą, pasiekė Straisbergo apylinkes, kur kryžiuočiai sutelkė jėgas, siekdami
-    atremti lietuvius. Iš čia Gediminas patraukė į pietus ir atvyko prie Dobrynės pilies, kurią
-    nesėkmingai šturmavo Lokietkos pajėgos. Čia įvyko derybos tarp Gedimino ir Lokietkos.
-
-    karalystės raiteliais, su daugybe samdininkų ir 8 tūkstančiais karių, kuriuos jam iš savo
-    žemės atsiuntė į pagalbą Vengrijos karalius, ir apgulė Šenenzės miestą bei pilį, o paskui
-    patraukė prie Lypos pilies, tačiau nė vienos jų nepaėmė, tik 10 dienų užgulė šią žemę,
-    viską grobdamas bei degindamas.
-  citata_rodoma: ''
-  statusas: verified
-
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-007
-  santrauka: 'Vasario 1 d. Lenkijos karalius Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    10. Apie Kulmo žemės nusiaubimą
-
-      Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius,
-    padarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį
-    buvo sudaręs su Čekijos karaliumi  ir magistru, jis su 6 tūkstančiais karių klastingai
-    įsibrovė  į Kulmo žemę ir ją siaubė 5 dienas ir 5 naktis, degindamas bei plėšdamas.
-    Šit kokia stulbinanti ir siaubinga piktadarybė!
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-008
-  santrauka: 'Po mūšio viena moteris su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    41. Apie vieną stebuklą
-
-      Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti
-    žuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino;
-    paklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną švenčiausioji mergelė Marija,
-    eidama paskui dvi mergeles su degančiomis žvakėmis, smilkinusi visus žuvusiuosius
-    smilkytuvu, o priėjusi prie jo ir pastebėjusi  jį dar gyvą, tarusi: „Trečią dieną mirsi ir
-    džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris  į amžinas linksmybes“;
-    drauge su kitais parvestas į Kulmo miestą, jis trečią dieną, kaip buvo sakęs, pasimirė, o
-    visi žmonės patikėjo jos žodžiais.
-
-
-
-
-                         42.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-009
-  santrauka: 'Kulmo pilis ir miestas buvo Vyslos dešiniajame krante, o dabartinis jų atitikmuo yra Chełmno.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Žemės pakraštyje, Vyslos deš, krante — Kulmo pilis, miestas: castrum Colmen (1222
-    m., PUB, 1, 1, Nr. 41, p. 28), Colme (1230 m., ten pat, Nr. 72, p. 53), Culmine, civitatum
-    [...] Culmen (1233 m., ten pat, Nr. 105, p. 77, 81), alden Culmen, nuwen Culmen (1278
-    m., ten pat, 1, 2, Nr. 366, p. 250), antiquo Culmine, Culmine (1282 m., ten pat, Nr. 410,
-    p. 271); D.— in Colmine, civitatem Colmensem, versus Colmen (III, 10, 36); Jer.— alde
-    Colme, stat Colmin, Colmen burc (SRP, 1, p. 352— 353); Can. Samb.— Culmen (ten pat,
-    p. 280), dab. Chełmno (SZCh, p. 18—20).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-010
-  santrauka: 'Po mūšio Kulmo vyskupas įpareigojo Kulmo našles tekėti už savo tarnų, nes miestas buvo likęs be vyrų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    42. Apie dviejų našlių ginčą dėl vieno vyro
-
-      Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi
-    tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą,
-    tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų baisiame pavojuje. Nutiko
-    taip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
-    kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-011
-  santrauka: 'Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
-    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
-    iki Nemuno.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-012
-  santrauka: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Taigi Lietuvos
-    pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.
-      Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
-    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
-    sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
-    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
-    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 - c-013
   santrauka: 'Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -923,9 +706,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     bei krikščionis, jis perkėlė Kulmo miestą nuo senosios pilies į kalvą, kur ir dabar tebėra301,
     šiuo perkėlimu darydamas Kulmo žemę saugesnę.
 
-
-
-
                   60 (59). Apie įvairias Sventopelko derybas ir sutartis
   citata_rodoma: ''
   statusas: verified
@@ -934,96 +714,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
-
-- c-014
-  santrauka: 'Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsai ir Lietuva
-
-       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
-    vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-015
-  santrauka: 'Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Susirūpinę broliai manė, kad, dar kartą susikovę su šia kariuomene
-    ir pralaimėję mūšį, turėsią visai palikti Prūsijos žemę be vilties ją atgauti ir, suprantama,
-    Kristaus tikėjimas ten turėsiąs išnykti. Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems
-    verčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti. Ir viešpaties
-    dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su
-    priešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius
-    prie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių
-    aukų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
-- c-016
-  santrauka: 'Narbutas rašė, kad Kulmas į rytus tuomet tęsėsi tik iki Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Be to, šių dviejų provincijų pasienyje
-    plytėjo didžiulė giria, kuri skverbėsi į abiem provincijoms
-    priklausančias žemes. Į rytus Kulmas tuomet tęsėsi tik
-    ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro
-    sruvena į Goliubą. Čia taip pat buvo senų senovės siena,
-    kuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­
-    čiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš
-    tikrosios Prūsijos, be to, ten ribojosi provincijų mažos
-    Lubavos ir Sasavos žemės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-016
-
-- c-017
-  santrauka: 'Narbutas nurodė, kad sena siena prie Drevantos skyrė Kulmo kraštą nuo senovės Prūsijos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Čia taip pat buvo senų senovės siena,
-    kuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­
-    čiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš
-    tikrosios Prūsijos, be to, ten ribojosi provincijų mažos
-    Lubavos ir Sasavos žemės. Vėliau, plečiantis sienoms, abi
-    šios žemės priklausė Kulmui, o jų teritorija driekėsi ligi
-    Galindos. Nedidelė Sasavos žemė, kurios pradinė padėtis
-    nežinoma, vakaruose susisiekė su Lubavos žeme, šiaurėje
-    jos siena buvo ligi Drevantos ežero prie Osterodės, pie­
-    343
-
-    ## Puslapis 354
-
-    tuose — ild Romano ežero prie Gilgenburgo, o rytuose —
-    iki Drevantos upės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
 
 ## Citatos
 
@@ -1070,18 +760,21 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems
-    verčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti. Ir viešpaties
-    dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su
-    priešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius
-    prie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių
-    aukų. Galop gailestingumo tėvas ir visokeriopos paguodos dievas, guodžiąs savuosius
-    visose nelaimėse, suteikė broliams tokių jėgų, kad išgąsdintas Sventopelkas pasileido
-    bėgti su visais savo žmonėmis ir pasuko į tą vietą, kur buvo palikęs laivus, tikėdamasis
-    jais pasprukti.
+    Pakilo stiprus vėjas ir nunešė visus tuos
+    laivus toli nuo kranto, ir nutiko jiems su tais laivais taip pat kaip ir tam netikėliui saracėnų
+    karaliui, po pralaimėto mūšio bėgusiam nuo Karolio. Neradę laivų, jie supuolė į Vyslą
+    ir visi paskendo, išskyrus Sventopelką ir kelis kitus, su juo čia atbėgusius, kai išvengė
+    kalavijo282. Šitaip viešpats paguodė savo tautą, patekusią į didžiausią vargą.
+    45(44). Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis
+    Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop
+    paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis
+    aplinkybėmis, kuris patarė pasiųsti Austrijos kunigaikščiui Mstivojų, Sventopelko sūnų,
+    kaip įkaitą ir Prūsijos žemės bei brolių likimą patikėti Vokietijos, Čekijos, Krokuvos ir
+    Lenkijos kraštams, nes matė, kad tikėjimo ir brolių reikalai bematant čia žūsią, jeigu
+    nepaskubėsianti ateiti ir dieviškoji, ir jų pagalba.
+  citata_rodoma: "Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems\nverčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti. Ir viešpaties\ndvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su\npriešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius\nprie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių\naukų. Galop gailestingumo tėvas ir visokeriopos paguodos dievas, guodžiąs savuosius\nvisose nelaimėse, suteikė broliams tokių jėgų, kad išgąsdintas Sventopelkas pasileido\nbėgti su visais savo žmonėmis ir pasuko į tą vietą, kur buvo palikęs laivus, tikėdamasis\njais pasprukti."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1092,8 +785,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86524
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
     prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
@@ -1110,28 +802,28 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86525
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 11"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
-    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
-    sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
-    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
-    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
-    atsikraustymo  į pavyslį tokio masto pralaimėjimą28.
+    Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir
+    lietuviai29.
+    Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
+    Klaipėdos pilies apgulties eigoje (XIII a. 6-asis dešimtmetis)30. Priešiškuose lietuviams
+    šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
+    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
+    Ordino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
+    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
+    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
+    sutriuškino kryžiuočius mūšio lauke (III, 123).
   citata_rodoma: "), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —\nKulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-90757
-
 - id: c-86527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 254"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 254."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     10. Apie Kulmo žemės nusiaubimą
 
@@ -1151,8 +843,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86528
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 90"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     41. Apie vieną stebuklą
 
@@ -1180,8 +871,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86529
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 56"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 56."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Žemės pakraštyje, Vyslos deš, krante — Kulmo pilis, miestas: castrum Colmen (1222
     m., PUB, 1, 1, Nr. 41, p. 28), Colme (1230 m., ten pat, Nr. 72, p. 53), Culmine, civitatum
@@ -1200,8 +890,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86531
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 90"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     42. Apie dviejų našlių ginčą dėl vieno vyro
 
@@ -1221,15 +910,14 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86532
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno.
   citata_rodoma: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
@@ -1243,12 +931,11 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 11"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Taigi Lietuvos
     pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.
-      Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
+    Lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
     tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
     sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
     (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
@@ -1264,18 +951,25 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 99"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 99."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tuo metu į Prūsijos žemę atvyko kilnusis ir šviesusis Anlanto300 kunigaikštis su didele
-    kariuomene; be daugybės kitų gerų darbų, kuriuos čia nuveikė, stiprindamas tikėjimą
-    bei krikščionis, jis perkėlė Kulmo miestą nuo senosios pilies į kalvą, kur ir dabar tebėra301,
-    šiuo perkėlimu darydamas Kulmo žemę saugesnę.
-
-
-
-
-                  60 (59). Apie įvairias Sventopelko derybas ir sutartis
+    Apie įvairias Sventopelko derybas ir sutartis
+    Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš
+    Lichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė:
+    „Esu pasirengęs paisyti teisingumo ir vykdyti visa, ką įsakys broliai, jeigu jie man
+    sugrąžins sūnų, kurį esu jiems davęs kaip įkaitą“. Valdovas Henrikas, turėdamas galvoje,
+    kad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu
+    negali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei
+    broliams savo sūnų kaip įkaitą, o daug kartų, susidedamas su atsimetėliais ir netikėliais,
+    su kurių kariuomene niokojai krikščionių bei brolių žemę, grobdamas ir degindamas, o
+    tikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,
+    vienus krikščionis negailestingai išžudydamas, kitus išsivarydamas į amžiną vergovę,
+    todėl ne teisingumo ieškoki, bet pasigailėjimo“. Kadangi tiesa sukelia neapykantą,
+    kadangi niekšai niekad jos nepaiso, nors visados apie ją kalba, tai ir šis klastingasis
+    Sventopelkas, užsikimšęs nelyginant kurčia gyvatė ausis tiesai, niekais nuleido viską,
+    ką girdėjo; pro ausis nuleidęs jam pasakytus žodžius, jis sveiką ir gyvą išleido minėtąjį
+    valdovą Henriką į Kulmo miestą, kur šis atpasakojo magistrui bei broliams visa, ką buvo
+    girdėjęs.
   citata_rodoma: "Tuo metu į Prūsijos žemę atvyko kilnusis ir šviesusis Anlanto300 kunigaikštis su didele\nkariuomene; be daugybės kitų gerų darbų, kuriuos čia nuveikė, stiprindamas tikėjimą\nbei krikščionis, jis perkėlė Kulmo miestą nuo senosios pilies į kalvą, kur ir dabar tebėra301,\nšiuo perkėlimu darydamas Kulmo žemę saugesnę.\n\n\n\n\n              60 (59)."
   statusas: verified
   teiginio_tipas: faktas
@@ -1287,31 +981,26 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-167555
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Prūsai ir Lietuva
-
-       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
     vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184170
-
 - id: c-167556
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Susirūpinę broliai manė, kad, dar kartą susikovę su šia kariuomene
     ir pralaimėję mūšį, turėsią visai palikti Prūsijos žemę be vilties ją atgauti ir, suprantama,
@@ -1322,17 +1011,14 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     prie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių
     aukų.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184171
-
 - id: c-175450
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 353"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 353."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, šių dviejų provincijų pasienyje
     plytėjo didžiulė giria, kuri skverbėsi į abiem provincijoms
@@ -1350,32 +1036,47 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   pagrindzia:
     - t-192680
 
-- id: c-175451
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- id: c-179048
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Čia taip pat buvo senų senovės siena,
-    kuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­
-    čiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš
-    tikrosios Prūsijos, be to, ten ribojosi provincijų mažos
-    Lubavos ir Sasavos žemės. Vėliau, plečiantis sienoms, abi
-    šios žemės priklausė Kulmui, o jų teritorija driekėsi ligi
-    Galindos. Nedidelė Sasavos žemė, kurios pradinė padėtis
-    nežinoma, vakaruose susisiekė su Lubavos žeme, šiaurėje
-    jos siena buvo ligi Drevantos ežero prie Osterodės, pie­
-    343
-
-    ## Puslapis 354
-
-    tuose — ild Romano ežero prie Gilgenburgo, o rytuose —
-    iki Drevantos upės.
+    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
+    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
+    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
+    sritį valdė prūsai, turėję ten savo pilių (III,7).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192681
+    - t-197175
+
+- id: c-179380
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Į rytus Kulmas tuomet tęsėsi tik
+    ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro
+    sruvena į Goliubą. Čia taip pat buvo senų senovės siena,
+    kuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­
+    čiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš
+    tikrosios Prūsijos, be to, ten ribojosi provincijų mažos
+    Lubavos ir Sasavos žemės. Vėliau, plečiantis sienoms, abi
+    šios žemės priklausė Kulmui, o jų teritorija driekėsi ligi
+    Galindos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197885
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Prūsai]]

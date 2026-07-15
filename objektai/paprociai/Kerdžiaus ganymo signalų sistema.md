@@ -66,6 +66,7 @@ Nenurodyta
   teiginys: "Kerdžius vasaros rytą trimitu keldavo mergaites karvių melžti."
   pagrindžia:
     - c-177776
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

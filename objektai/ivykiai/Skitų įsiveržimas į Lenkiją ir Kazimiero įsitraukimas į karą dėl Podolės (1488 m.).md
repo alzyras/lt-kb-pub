@@ -33,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kazimieras, sužinojęs apie skitų įsiveržimą į Lenkiją, pradėjo ryžtingiau rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės. Su kruto visi nelyginant iš gilaus miego pabudę tik tada, kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs žaibas skitų įsibrovimas.
+Kazimieras, sužinojęs apie skitų įsiveržimą į Lenkiją, pradėjo ryžtingiau rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės. Kojelavičiaus pasakojime karalius Kazimieras, teisindamasis paliaubomis su Vasiljevičiumi, vengė karo ir nieko tvirto nepasiūlė Tverės pabėgėliui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -59,79 +59,16 @@ Nenurodyta
 <a id="claim-t-193364"></a>
 - t-002
   global_id: t-193364
-  teiginys: "Su kruto visi nelyginant iš gilaus miego pabudę tik tada, kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs žaibas skitų įsibrovimas."
+  teiginys: "Kojelavičiaus pasakojime karalius Kazimieras, teisindamasis paliaubomis su Vasiljevičiumi, vengė karo ir nieko tvirto nepasiūlė Tverės pabėgėliui."
   pagrindžia:
     - c-176091
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Kazimieras, sužinojęs apie skitų įsiveržimą į Lenkiją, pradėjo ryžtingiau rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Štai
-    todėl pasirūpino, kad popiežius Inocentas paskelbtų
-    Fridrichą Krokuvos arkivyskupu ir įtrauktų į šventąją
-    kardinolų tarybą, be to, visomis priemonėmis stengė­
-    si pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke­
-    tino palikti savo įpėdiniu. Todėl, sužinojęs, jog skitai
-    dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug­
-    nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau
-    pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą
-    dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai
-    pavaduoti karalių karo stovykloje. Kunigaikštis Jonas
-    Olbrachtas, uoliai vykdyda-
-    1489 m eta i
-    mas, kas buvo tėvo nurodyta,
-    K u n ig a ik štis
-    J o n a s
-    greitai sutelkė Rusioje ir Lie-
-    O lb ia c h ta s
-    sum u ša
-    tuvoje kariuomenę ir, patrau-
-    sk itu s
-    kęs į priekį su ryžtingiausiais
-    vyrais, prie Savranės upės at­
-    virame lauke susikovė su priešu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Su kruto visi nelyginant iš gilaus miego pabudę tik tada, kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs žaibas skitų įsibrovimas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Netru­
-    kus liautasi grasinti ginklu:
-    šitai patenkino neveiklų
-    karalių, tačiau valstybei iš to buvo maža naudos. Su­
-    kruto visi nelyginant iš gilaus miego pabudę tik tada,
-    kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs
-    žaibas skitų įsibrovimas.
-    Karalius, jausdamas, jog
-    1488 m e ta i
-    diena nuo dienos vis labiau
-    silpsta, žinojo, kad artėja pa­
-    skutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­
-    sokias progas, iškelti sūnus į deramas aukštybes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
 - id: c-169132
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 533"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Štai
     todėl pasirūpino, kad popiežius Inocentas paskelbtų
@@ -167,22 +104,20 @@ Nenurodyta
 - id: c-176091
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 533"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Netru­
-    kus liautasi grasinti ginklu:
-    šitai patenkino neveiklų
-    karalių, tačiau valstybei iš to buvo maža naudos. Su­
-    kruto visi nelyginant iš gilaus miego pabudę tik tada,
-    kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs
-    žaibas skitų įsibrovimas.
-    Karalius, jausdamas, jog
-    1488 m e ta i
-    diena nuo dienos vis labiau
-    silpsta, žinojo, kad artėja pa­
-    skutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­
-    sokias progas, iškelti sūnus į deramas aukštybes.
+    Tverė turėjo labai galingas karo
+    jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
+    ties tūkstančių raitelių. Lietuviams tikrai buvo pavo­
+    jinga maskvėnų sėkmė, toks smarkus jų augimas kai­
+    mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi
+    seniai mėgdamas ramybę, po senovei vengė karo. To­
+    dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­
+    bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai
+    jį pagerbęs, bet nieko doro nepažadėjęs. Tuo tarpu Va­
+    siljevičius, nors, paisydamas paliaubų, atvirai ir ne­
+    pradėjo karo, bet žalos daryti nevengė.
+  citata_rodoma: "Netru­\nkus liautasi grasinti ginklu:\nšitai patenkino neveiklų\nkaralių, tačiau valstybei iš to buvo maža naudos. Su­\nkruto visi nelyginant iš gilaus miego pabudę tik tada,\nkai sukrėtė širdis tarytum netoliese staiga blykstelėjęs\nžaibas skitų įsibrovimas.\nKaralius, jausdamas, jog\n1488 m e ta i\ndiena nuo dienos vis labiau\nsilpsta, žinojo, kad artėja pa­\nskutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­\nsokias progas, iškelti sūnus į deramas aukštybes."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

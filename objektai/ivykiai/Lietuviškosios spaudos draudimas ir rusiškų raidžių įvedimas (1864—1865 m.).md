@@ -58,41 +58,6 @@ Nenurodyta
   teiginys: "Įvedant rusiškas raides siekta lietuvius atitraukti nuo lenkų ir priartinti prie rusų, bet lietuviai priešinosi šiai rusinimo priemonei."
   pagrindžia:
     - c-66868
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Įvedant rusiškas raides siekta lietuvius atitraukti nuo lenkų ir priartinti prie rusų, bet lietuviai priešinosi šiai rusinimo priemonei.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Įvedant rusiškas raides, buvo norima atitraukti lietuvius nuo
-    lenkų ir priartinti prie rusų. Bet kaip prieš visas, taip ypač
-    prieš šitą rusinimo priemonę sukilo visi lietuviai. Lietuviškos
-    knygos buvo spausdinamos svetur ir gabenamos kontrabandos
-    keliu į Lietuvą. Varginga kova su spausdos draudimu tebuvo
-    laimėta tik po 40 metų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Kaufmanas 1865 m. rugsėjo 6 d. įsakymu uždraudė spausdinti ir platinti lietuviškas knygas lotyniškomis raidėmis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Muravjovas bus žodžiu įsakęs. Tik jo įpėdinis Kaufmanas
-    1865 m. rugsėjo mėn. 6 d. išleido specialų įsakymą, kuriuo už-
-    draudė lietuviškąsias knygas lotyniškomis raidėmis spausdinti
-    ir platinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

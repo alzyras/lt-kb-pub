@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Šeškablauzdžiai
 sukurta: '2026-07-12'
 variantai:
-  - šeškablauzdžiai
-  - šeškablauzdi
+  - 'šeškablauzdžiai'
+  - 'šeškablauzdi'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -58,6 +58,7 @@ Terminas vartojamas vestuvių juokų ir kraičio nešimo kontekste.
   teiginys: "Žodis vartojamas ir kaip šūksnis kraičio nešimo metu."
   pagrindžia:
     - c-178031
+
 ## Citatos
 
 - id: c-178031

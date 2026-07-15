@@ -36,28 +36,6 @@ Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti,
   pagrindžia:
     - c-44358
 - susijęs iš [[objektai/asmenys/S. Zaskevičius.md#claim-t-40414|S. Zaskevičius]]: Vasario 10 d. rytą S. Zaskevičiaus vadovaujama sustiprintos kuopos dydžio rinktinė artėjo prie Jiezno.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Cetuchinas per pirmąjį Jiezno puolimą nuvedė savo grupę pas bolševikus ir įsakė jai pasiduoti.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    |
-    Taip savanoriai veržėsi į mūšį su Lietuvos priešais bolševikais.“
-
-    Pirmasis Jiezno puolimas pirmajai grupei vadovavęs išdavikas rusų
-    kilmės karin. J. Cetuchinas savo vado-
-    vaujamą grupę nuvedė pas bolševikus,
-    liepęs nešaudyti, o vėliau tiesiog įsakyda-
-    mas jiems pasiduoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44358

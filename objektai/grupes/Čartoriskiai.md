@@ -35,13 +35,6 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
   teiginys: "Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių."
   pagrindžia:
     - c-166589
-
-<a id="claim-t-45273"></a>
-- t-002
-  global_id: t-45273
-  teiginys: "Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių."
-  pagrindžia:
-    - c-166589
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170051|Jekaterina II]]: Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką.
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170051|Jekaterina II]]: Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką.
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170053|Jekaterina II]]: Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.
@@ -74,31 +67,6 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22336|tėvonija]]: Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas.
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170053|Jekaterina II]]: Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1 skyrius •  S E N O J I  L I E T U VA
-    39
-    Lietuva stačiatikiškos Rusios erdvėse
-    Lietuvos valstybei užėmus senrusių žemes, tų žemių vieti-
-    ninkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę. Vėliau
-    iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų
-    LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai. Be to,
-    stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
-    gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
-    Alšėnų kunigaikščiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-166589
@@ -121,7 +89,6 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183202
     - t-45273
 
 ## Ryšiai

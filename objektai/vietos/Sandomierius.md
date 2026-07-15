@@ -51,70 +51,11 @@ media_all_json: |-
   teiginys: "1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes."
   pagrindžia:
     - c-32409
-
-<a id="claim-t-184398"></a>
-- t-003
-  global_id: t-184398
-  teiginys: "1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes."
-  pagrindžia:
     - c-167764
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178781|Jotvingiai]]: 1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.
 - susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66879|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d.
 - susijęs iš Dobryniaus: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
 - susijęs iš Kališo sritis: 1307 m. lietuviai drauge su rusais buvo įsiveržę į Kališo sritį.
 - susijęs iš Kujavija: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178781|Jotvingiai]]: 1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1296 lietuviai įsiveržė į
-    Sandomieriaus ir Kujavijos žemes. 1300 jie vėl pasirodė Dobry­
-    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
-    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
-    o 1307 buvo įsiveržę į Kališo sritį^5.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1300 jie vėl pasirodė Dobry­
-    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
-    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
-    o 1307 buvo įsiveržę į Kališo sritį^5.
-    Tuo pačiu laiku lietuviai turėjo kitą svarbų frontą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: '1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tęsdamas tėvo nurodytą politiką, Vytenis ne mažiau
-    intensyviai iki 1307 puldinėjo Lenkiją. 1296 lietuviai įsiveržė į
-    Sandomieriaus ir Kujavijos žemes. 1300 jie vėl pasirodė Dobry­
-    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-32409
@@ -165,8 +106,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184398
 
 ## Ryšiai
 - Puolė Sandomierių: [[objektai/grupes/Lietuviai]]

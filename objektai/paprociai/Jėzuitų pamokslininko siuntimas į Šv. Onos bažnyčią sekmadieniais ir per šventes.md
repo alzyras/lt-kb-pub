@@ -55,26 +55,6 @@ Nenurodyta
   teiginys: "Jėzuitai buvo įpareigoti kiekvieną sekmadienį ir per šventes siųsti pamokslininką į Šv. Onos bažnyčią mokyti tikėjimo."
   pagrindžia:
     - c-83249
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jėzuitai buvo įpareigoti kiekvieną sekmadienį ir per šventes siųsti pamokslininką į Šv. Onos bažnyčią mokyti tikėjimo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O tų knygų, kurias atiduodame jėzuitams, der­
-    lius yra nemažas ir neprastas. Įpareigojame tėvus jėzuitus,
-    kad būtų už jas atsakingi ir kiekvieną sekmadienį bei per
-    kiekvienas šventes į Šv. Onos bažnyčią iš savo kolegijos at­
-    siųstų vieną gerą ir garbingą pamokslininką skelbti ir mo­
-    kyti mylimo Dievo mokslo ir valios pagal visuotinės Bažny­
-    čios įstatymus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

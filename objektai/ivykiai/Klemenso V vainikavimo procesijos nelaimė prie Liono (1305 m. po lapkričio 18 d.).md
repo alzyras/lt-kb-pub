@@ -73,38 +73,13 @@ Nenurodyta
   teiginys: "Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir."
   pagrindžia:
     - c-62878
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
-
-      Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento
-    Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena
-    ir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.
-
-    Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
-    Mat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio
-    iškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę
-    pinigo, o šitai parodė, kokia būsianti jo ateitis (Mart. p. 441; Ptol. p. 1226).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-003
 
 ## Citatos
 
 - id: c-62878
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 245-246"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245-246."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
 

@@ -40,37 +40,12 @@ Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškė
 - susijęs iš [[objektai/ivykiai/Oresto sūnaus Romulo Momilijaus Augustulo pasodinimas į imperatoriaus sostą.md#claim-t-191070|Oresto sūnaus Romulo Momilijaus Augustulo pasodinimas į imperatoriaus sostą]]: Narbutas rašo, kad 475 m. samdytai kariuomenei vadovavęs Orestas į imperatoriaus sostą pasodino savo jauną sūnų Romulą Momilijų Augustulą.
 - susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192562|karaliukas]]: Teodoras Narbutas rašo, kad įvairiose šalyse atsirado skirtingų imperatorių ir barbarų karaliukų.
 - susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192562|karaliukas]]: Teodoras Narbutas rašo, kad įvairiose šalyse atsirado skirtingų imperatorių ir barbarų karaliukų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškėlė Severą beveik vien Italija virtusios imperijos vadovu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Įvairiose šalyse atsirado
-    įvairių imperatorių ir barbarų karaliukų. Imperatoriaus
-    sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
-    darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
-    galbos iš Konstantinopolio. Per šią sumaištį greitai kei­
-    tėsi imperatoriai: Antemijus, Olibrijus, Gliceras, Nepas
-    neilgai valdė; pagaliau Ricimero mirtis davė progą sam­
-    dytai kariuomenei vadovavusiam Orestui į imperatoriaus
-    sostą pasodinti savo dar jauną sūnų Romulą Momilijų
-    Augustulą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-174346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 313"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Įvairiose šalyse atsirado
     įvairių imperatorių ir barbarų karaliukų. Imperatoriaus

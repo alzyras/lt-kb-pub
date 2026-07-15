@@ -61,34 +61,6 @@ Nenurodyta
   teiginys: "1564 m. Žygimantas Augustas atskyrė Vilniaus miestiečius nuo Statuto galios ir suteikė daugiau laisvės bylinėtis pagal Magdeburgo teisę."
   pagrindžia:
     - c-83288
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1564 m. Žygimantas Augustas atskyrė Vilniaus miestiečius nuo Statuto galios ir suteikė daugiau laisvės bylinėtis pagal Magdeburgo teisę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kai dar 1564 metais Bełsko seime Žygimantas Augustas
-    tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­
-    rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove,
-    atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­
-    mus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­
-    ribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau
-    bylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip
-    savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
-    mąjį Statutą. Miestų pastangos apsisaugoti nuo bajorų įta­
-    kos buvo juo didesnės, juo stipriau oligarchija bandė įsitvir­
-    tinti Lenkijos žemėje valdant paskutiniajam Jogailaičiui.
-    Anuo metu Vilnius galėjo drąsiai ir sumaniai atremti mies­
-    to teisių priešininkus, nes buvo globojamas išsilavinusio ka­
-    raliaus, be to, ir savo valdžios viršūnėse turėjo daug įžymių
-    žmonių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

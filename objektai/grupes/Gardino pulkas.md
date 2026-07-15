@@ -41,24 +41,6 @@ Kaime buvo įsikūręs lenkų brigados ir Gardino pulko štabas, lauko artilerij
   teiginys: "Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas buvo įsikūrę kaime, prie kurio sugulė lietuviai."
   pagrindžia:
     - c-75474
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas buvo įsikūrę kaime, prie kurio sugulė lietuviai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuviai sugulė greta kaimo esančio miš-
-    kelio pakraštyje. Kaime buvo įsikūręs lenkų
-    brigados ir Gardino pulko štabas, lauko
-    artilerijos baterija ir vienas pulko batalio-
-    nas. Kaip tik tuo metu lenkų kariai pietavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -48,72 +48,11 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   teiginys: "Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti."
   pagrindžia:
     - c-40515
-
-<a id="claim-t-183707"></a>
-- t-003
-  global_id: t-183707
-  teiginys: "Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti."
-  pagrindžia:
     - c-167095
 - susijęs iš [[objektai/autoriai/Francois Paulin Dalairac.md#claim-t-181536|Francois Paulin Dalairac]]: Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją sudaro du trečdaliai, tai yra 24 000 raitelių.
 - susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.
 - susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus.
 - susijęs iš Lojevka upė: Radvilos pajėgų sparnuose stovėję pėstininkai ir dragūnai gynė Lojevkos upės, juosiančios stovyklą, užtvanką.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstinin-
-    kai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti. Žygiuodami
-    jie neatsilikdavo nuo kavalerijos dalinių, o susidūrus su priešu pa-
-    remdavo kavalerijos veiksmus kaip pėstininkai. Dragūnus buvo
-    galima naudoti ir kaip kavaleriją, tačiau mažiau efektyvią.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Dragūnus buvo galima naudoti kaip kavaleriją, tačiau šiame vaidmenyje jie buvo mažiau efektyvūs.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Dragūnus buvo
-    galima naudoti ir kaip kavaleriją, tačiau mažiau efektyvią. Pirmą
-    kartą dragūnų kompanija Lietuvoje minima 1618 m. Dragūnų re-
-    gimentas buvo dalijamas į eskadronus, nors buvo naudojami ir kiti
-    pavadinimai - vėliava, kompanija, kornetas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Regimentą sudarė kompanijos (kuopos), kurios dalijosi į vienetus
-    po 5 žmones, kuriem, vadovavo kapralai.
-
-    Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstinin-
-    kai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti. Žygiuodami
-    jie neatsilikdavo nuo kavalerijos dalinių, o susidūrus su priešu pa-
-    remdavo kavalerijos veiksmus kaip pėstininkai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-40515
@@ -166,5 +105,3 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183707

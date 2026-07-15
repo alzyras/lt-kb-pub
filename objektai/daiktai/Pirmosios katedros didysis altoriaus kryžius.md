@@ -63,22 +63,6 @@ Nenurodyta
   teiginys: "Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius."
   pagrindžia:
     - c-14270
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet ši katedra 1399 metais sudegė. Ta­
-    da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
-    bet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš­
-    likęs didžiojo altoriaus kryžius^2 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

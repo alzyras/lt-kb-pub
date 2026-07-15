@@ -57,29 +57,6 @@ Nenurodyta
   teiginys: "1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga."
   pagrindžia:
     - c-75225
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus
-    Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.
-    1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo
-    Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje sta-
-    čiatikybę priėmęs kunigaikštis. Taip pradėtas lietuvių kunigaikščių kūrima-
-    sis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės
-    (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie
-    Lietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
-    kunigaikštijos ir tapęs vienuoliu. 1264 m. jis įsitraukė į politinį gyvenimą ir,
-    susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

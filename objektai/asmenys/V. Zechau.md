@@ -35,27 +35,6 @@ Zechau. Zechau ir lietuvių 1-ojo pėst.
   teiginys: "Majoras V. Zechau buvo 18-ojo vokiečių saksų pėstininkų pulko vadas."
   pagrindžia:
     - c-44554
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Majoras V. Zechau buvo 18-ojo vokiečių saksų pėstininkų pulko vadas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    (Plačiau
-    apie šrapnelinio sviedinio veikimą 198 psl.)
-
-    ## Puslapis 185
-
-    su 18-ojo vokiečių saksų pėstininkų
-    pulko vadu mjr. V. Zechau. Buvo nu-
-    matyta Uteną pulti trimis kolonomis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

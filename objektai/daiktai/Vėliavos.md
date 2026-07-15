@@ -2,13 +2,13 @@
 tipas: daiktas
 pavadinimas: 'Vėliavos'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1368 m.'
   - '1399 m.'
@@ -19,14 +19,14 @@ aliases:
   - 'objektai/daiktai/Karinės vėliavos'
 variantai:
   - 'Karinės vėliavos'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - simbolis
-amziai:
-  - 'XIV'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -165,6 +165,7 @@ Nenurodyta
   teiginys: "Vyriausioji Lenkijos vėliava pateko į priešų rankas."
   pagrindžia:
     - c-160234
+    - c-167714
 
 <a id="claim-t-176211"></a>
 - t-015
@@ -215,22 +216,8 @@ Nenurodyta
   pagrindžia:
     - c-160238
 
-<a id="claim-t-184344"></a>
-- t-022
-  global_id: t-184344
-  teiginys: "Vyriausioji Lenkijos vėliava pateko į priešų rankas."
-  pagrindžia:
-    - c-167714
-
-<a id="claim-t-184602"></a>
-- t-023
-  global_id: t-184602
-  teiginys: "Herulai, tapę Romos sąjungininkais ir pagalbine kariuomene, daugelį amžių karo tarnyboje gynė romėnų vėliavas."
-  pagrindžia:
-    - c-167963
-
 <a id="claim-t-192507"></a>
-- t-024
+- t-023
   global_id: t-192507
   teiginys: "Narbuto pasakojime jotvingiai smarkiai puolė Lozoriaus rezerve buvusius poloviečius ir atėmė vado vėliavą."
   pagrindžia:
@@ -301,347 +288,6 @@ Nenurodyta
 - susijęs iš Vilnius: 1794 m. balandžio 23 d. Vilniaus puolime dalyvavo apie 580 Lietuvos karių ir 20 artilerijos pabūklų.
 - susijęs iš Vilnius: Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Kaipogi pats kūrėjų kūrėjas, išleisdamas kariauną į karę, laimino ją tokiu būdu: visų pirma
-        pasimeldęs išvyturo raudoną vėliavą ir kareiviams padavė, paskui, nešiojamas po rindas, barstė, regis,
-        druską ant kareivių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Kiekvienos pavietės buvo karūžasis, kurs turėjo visus žemlionis, arba vyčius, surašytus ir kas metą,
-        sujojus visiems į pavietę ant įsakytos dienos, paprastai rudenį, visus perskaitė ir perveizėjo kožno
-        žemlionies ginklą ir arklį, jei nerado kaip reikiant, tokį iš reistro išpaišė^1303. Atlikusysis arba išmestasis
-        ir nevaidinusysis ant tos perveizos^1304 vėl duoklę turėjo duoti su kitais valsčionimis; prie jo buvo
-        laikoma karės vėliava tos apykartos; kėlė į tą godą^1305 ne dėl didelumo turtų, kaip paskesnėse
-        gadynėse kad darė, bet, kaip sakiau, visų narsųjį ir guvųjį vyrą tarp pačių žemlionų, ką gal regėti
-        reistre Lietuvos ūkės kareivių, surašytų metuose 1528, kuriame karūžieji yra minavojami tarp tų pačių
-        žemlionų, arba vyčių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Kariauna, stodama į kovą, turėjo priešaky didelę baltą vėliavą, ant kurios buvęs skydas, pusiau
-        perdalytas, viršutinėje pusėj geltoni, o apatinėje mėlyni laukai, geltonuosiuose laukuose karūna
-        buvusi stati, o mėlynuosiuose aukštynoka^1334. Kartais turėję baltą vėliavą, kurios skyde buvęs žmogus
-        besėdįs meškos galva, ant kurios vėliavos buvę išrašyti tie žodžiai: „Dieve kūrėjau, supyk ant
-        pustytojų^1335 , užtik juos.“
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Riteris su savo palydovais sudarydavo tam tikrą
-    vienetą, kuris vadinosi „lance“, arba „kopijo“. 25-80 lancų su­
-    darydavo būrį, kuris buvo vadinamas vėliava. Tokiu būdu vė­
-    liavoje būdavo apie 300-400 raitųjų. Tie būriai savo ženklu,
-    apie kurį spiesdavosi, turėjo vėliavą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pabėgo ir kelios lenkų vėliavos, jų tarpe ir labai narsi šv.
-    Jurgio vėliava.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tada karalius lenkų kariuomenės ve­
-    dimą atidavė Zyndramui iš Moškovicų, Krokuvos vaivadai.
-    Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie
-    vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
-    vadovybė atiteko Vytautui.
-    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
-    niku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-016
-
-- c-007
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po valandos pagaliau į mūšį įsitraukė
-    lenkų kavalerija. Pridengę jų kraštines
-
-    pozicijas trimis Smolensko vėliavomis,
-    lietuviai pradėjo manevrą atsitraukdami.
-    Lietuvius puolę persekioti kryžiuočiai iš-
-    sklaidė savo gretas, pavyti manevringesnių
-    lietuvių jiems nepavyko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-008
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    kariuomenę iš lenkų dešinės ir juos ap-
-    supti. Lenkai patyrė didelį spaudimą tiek
-    centre, tiek dešinėje, neatlaikiusi spau-
-    dimo net krito didžioji Krokuvos vėliava.
-    Kryžiuočiai, pamanę, jog mūšis laimė-
-    tas, užtraukė pergalės giesmę „Kristus
-    prisikėlė“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-    - t-015
-
-- c-009
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tuo lemtingu momentu Jungingenas į kautynes
-    dar pasiuntė 16 rezerve stovėjusių pulkų. Sąjungininkų eilės su­
-    svyravo. Vyriausioji Lenkijos vėliava pateko į priešų rankas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-010
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ordinas nesidavė greitai įveikiamas. Vienos laimėtos kautynės
-    dar negalėjo sėkmingai išspręsti visų klausimų, juo labiau, kad
-    popiežius ir imperatorius vis buvo kryžiuočių pusėje. Pvz., Zig­
-    manto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė
-    Lenkiją su 10 vėliavų^38.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-017
-
-- c-011
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogaila netrukus įsakė
-    duoti ženklą mūšiui. Karaliui buvo parinkta saugi vieta,
-    iš kur jis galėjo matyti visą kovos lauką, o jo niekas nematė, ir
-    jį apstatė geriausia sargyba. Jį saugojo kunigaikščio Kaributo
-    vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-012
-  santrauka: 'Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs Jogailai dar prieš karą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Karaliui buvo parinkta saugi vieta,
-    iš kur jis galėjo matyti visą kovos lauką, o jo niekas nematė, ir
-    jį apstatė geriausia sargyba. Jį saugojo kunigaikščio Kaributo
-    vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
-    Nuo karaliaus stovyklos Lenkijos pusėn buvo sustatyta visa ei­
-    lė greičiausių ir visiškai paruoštų arklių, kuriais Jogaila galė­
-    tų pabėgti, jei kiltų pavojus iš kryžiuočių pusės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-018
-
-- c-013
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Algirdo kariuomenė
-    netrukus priartėjo prie Maskvos ir išsidėstė
-    palei Kremliaus sienas (mūrinės Maskvos
-    sienos buvo baigtos statyti tų pačių 1368 m.
-    pavasarį).
-
-    Kai ryte po pamaldų „Maskvos kuni-
-    gaikštis su bajorais ir su kunigaikščiais
-    išeina iš cerkvės, Algirdas su visomis savo
-    pajėgomis, išskleidęs savo vėliavas, pasi-
-    rodė ant Pasveikinimo kalno (Paklonaja
-    gara)“ prie Maskvos. Maskvos didysis
-
-    kunigaikštis, įsakęs aplink sudeginti visą
-    priemiestį („posadą“), kad būtų atviras
-    plotas gynybai, užsidarė Kremliuje, o kartu
-    su juo ir metropolitas, kunigaikščiai bei
-    bajorai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-021
-    - t-004
-
-- c-014
-  santrauka: 'Lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pradėti
-    iš anksto numatyto apgaulingo atsitrau-
-    kimo manevro nebuvo galima, kol į mūšį
-    neįsitraukė pagrindinės lenkų pajėgos, nes
-    priešingu atveju būtų pavojingai atideng-
-    tas lietuvių sąjungininkų dešinysis flan-
-    gas. Po valandos pagaliau į mūšį įsitraukė
-    lenkų kavalerija. Pridengę jų kraštines
-
-    pozicijas trimis Smolensko vėliavomis,
-    lietuviai pradėjo manevrą atsitraukdami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
-
-- c-015
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
-    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
-    sugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią
-    kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-016
-  santrauka: 'Vytauto vadovaujami Lietuvos pulkai buvo patraukę paskui save kelias priešo vėliavas ir sugrįžo į kovos lauką.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jiems galėjo atrodyti, jog susilpnėjęs prie­
-    šas pakriks. Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
-    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
-    sugrįžo į kovos lauką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-017
-  santrauka: 'Kiekvienas riteris kaudavosi po savo vėliava ir neturėjo teisės ją palikęs bėgti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Riteriai kovose, bendrai, būdavo mažai varžomi,
-    kiekvienas rūpindavosi savimi ir savo garbe. Kiekvienas rite­
-    ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs
-    bėgti. Jei vėliava patekdavo į priešo rankas, tai riteriui valia
-    būdavo pasielgti savo nuožiūra — ar trauktis, ar kautis prisi­
-    dėjus prie kitos vėliavos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-018
-  santrauka: 'XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pagal istorinę tradiciją Vytautas
-
-    XIV a. antrosios pusės lietuvių kario rekonstrukcija. Šis
-    karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.
-    Jo tunika puošia valdovo heraldinė simbolika -
-    Gediminaičių stulpai
-
-    ~
-
-    52 VORSKLOS MUSIS 1399 m. rugpjūčio 12 d.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-019
-
-- c-019
-  santrauka: 'Vyriausioji Lenkijos vėliava pateko į priešų rankas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Sąjungininkų eilės su­
-    svyravo. Vyriausioji Lenkijos vėliava pateko į priešų rankas. Kry­
-    žiuočiai jau tikėjo savo pergale ir ėmė giedoti laimėjusių giesmę
-    « Christ ist erstanden ».
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-022
-
 - c-020
   santrauka: 'Herulai, tapę Romos sąjungininkais ir pagalbine kariuomene, daugelį amžių karo tarnyboje gynė romėnų vėliavas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -678,23 +324,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
-
-- c-021
-  santrauka: 'Narbuto pasakojime jotvingiai smarkiai puolė Lozoriaus rezerve buvusius poloviečius ir atėmė vado vėliavą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kunigaikštis Danielius
-    išžygiavo su Boleslovo būrio lenkais ir gerokai atsitraukė.
-    Vasilka pasiliko su Ziemovitu, o Lozorius lūkuriavo re­
-    zerve su poloviečiais. Pastaruosius jotvingiai smarkiai puo­
-    lė ir atėmė vado vėliavą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-024
 
 ## Citatos
 
@@ -948,8 +577,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176217
     - t-10166
+    - t-176217
 
 - id: c-160239
   sudarytojas: "Karolis Zikaras"
@@ -1059,54 +688,14 @@ Nenurodyta
     žiuočiai jau tikėjo savo pergale ir ėmė giedoti laimėjusių giesmę
     « Christ ist erstanden ».
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184344
-
-- id: c-167963
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Pagaliau herulai, dėl įvairių prie­
-    žasčių atplėšti nuo savo krašto, daug kartų siaubė Ro­
-    mos imperiją ir pačią Italiją, o truputį vėliau, iš priešų
-    L ie tu v ia i —
-    h eru lų
-    g im in a ičia i
-    ties dydžio raidėmis šventą­
-    ją maldą jų kasdienine šne­
-    ka. Atidžiau ją skaitydamas,
-    suvokiau, jog ši kalba visai
-    45
-
-    ## Puslapis 44
-
-    pavirtę sąjungininkais ir priskirti prie pagalbinės ka­
-    riuomenės, daugelį amžių ėjo karo tarnybą, gindami
-    romėnų vėliavas. Tačiau niekur nerandu patikimų ži­
-    nių, kokia proga ir kuriame
-    Iš k u i k ilę s  L ie tu v o s
-    amžiuje viena ar gotų, ar
-    p a v a d in im a s ir a p ie
-    kimbrų, ar (o šitai arčiau tie-
-    L italan ą V y re sn i]}
-    sos) herulų triba ėmė vadin­
-    tis Lietuva.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184602
-
 - id: c-175297
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 129"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kunigaikštis Danielius
     išžygiavo su Boleslovo būrio lenkais ir gerokai atsitraukė.

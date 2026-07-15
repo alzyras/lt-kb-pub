@@ -34,8 +34,8 @@ Dusburgietis teigia, kad 570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pi
   teiginys: "„Valančius M. Raštai“ cituojamas spėjimui, kad Sisditen pilis buvusi Girgždutės piliakalnyje."
   pagrindžia:
     - c-61967
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Valančius M. Raštai“ cituojamas spėjimui, kad Sisditen pilis buvusi Girgždutės piliakalnyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -56,12 +56,19 @@ Dusburgietis teigia, kad 570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pi
 - id: c-61967
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pilis, kaip spėjama, buvusi Girgždutės
-    piliakalnyje (Valančius M., Raštai, 1, p. 379; Łowmiański H., Studja..., 2, p. 214); Telšių
-    rj. išlikę Girgždutės  ir Pagirgždūčio piliakalniai (LAA, 2, p. 65, 121— 122).
+    Nieko šiuo būdu nepešę, galop jie 17
+    dieną, kai jau ketino pasitraukti, sužinoję, kad artėja magistras su didele kariuomene,
+    priėjo pilies gynybinį griovį ir ten prinešė malkų, šieno, stagarų ir šiaudu, norėdami žūt
+    būt pilį sudeginti. Tokia galybė benešiojančių ir bepuldinėjančių netikėlių buvo nukauta ir
+    mirtinai sužeista, kad net nežinau, kiek iš tikrųjų, todėl jie, nepasiekę tikslo, ir pasitraukė
+    sudeginę apgulos mašinas.
+    325 (318). Apie Junigedos papilio sudeginimą 1315 m. spalio 12
+    Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe ir
+    sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją
+    išvaduoti.
+  citata_rodoma: "570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pilis, kaip spėjama, buvusi Girgždutės\npiliakalnyje (Valančius M., Raštai, 1, p. 379; Łowmiański H., Studja..., 2, p. 214); Telšių\nrj. išlikę Girgždutės  ir Pagirgždūčio piliakalniai (LAA, 2, p. 65, 121— 122)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

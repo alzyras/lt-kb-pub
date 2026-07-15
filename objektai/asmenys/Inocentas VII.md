@@ -41,24 +41,6 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
 - susijęs iš [[objektai/zodynas/Vakarų Bažnyčios schizma.md#claim-t-70055|Vakarų Bažnyčios schizma]]: Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vokiečių ordino dėl puolimų prieš lietuvius.
 - susijęs iš [[objektai/zodynas/Vakarų Bažnyčios schizma.md#claim-t-70056|Vakarų Bažnyčios schizma]]: Vakarų Bažnyčios schizma trukdė Romos popiežiams veiksmingai spausti Ordiną.
 - susijęs iš [[objektai/zodynas/neofitas.md#claim-t-179583|neofitas]]: 1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII draudė Vokiečių ordinui pulti lietuvius kaip neofitus.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bonifacas IX rėmė Vy­
-    tautą karuose su turkais (1399), draudė Ordiną kariauti Lietu­
-    vą, padėjo įkurti Vladimiro vyskupiją, siuntė savo pasiuntinius į
-    Lietuvą. Inocentas VII, Gregorijus XII ir Aleksandras V parem­
-    davo Vytautą prieš Ordiną. Jonas XXIII atėmė Vok.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-38033

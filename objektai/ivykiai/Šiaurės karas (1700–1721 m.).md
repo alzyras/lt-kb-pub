@@ -67,49 +67,6 @@ Nenurodyta
   teiginys: "Šiaurės karo nusiaubtoje Lietuvoje kilo didelis badas ir maras, mirė apie trečdalis Lietuvos gyventojų."
   pagrindžia:
     - c-176407
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šiaurės karas
-
-    1700 m. Saksonijos kariuomenė įžengė į Kuršą ir
-    apsiautė Rygą. Tačiau švedai sumušė Augusto II sa-
-    jungininkus, danų ir rusų kariuomenes ir, nubloškę
-    saksus nuo Rygos, 1702 m. įsiveržė į Lietuvos terito-
-    riją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Šiaurės karo nusiaubtoje Lietuvoje kilo didelis badas ir maras, mirė apie trečdalis Lietuvos gyventojų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos vytis ant Frydricho
-    Augusto I (Augusto II) rūmų
-    Drezdene. Valdant Augustui II
-    faktine Lietuvos sostine tapo
-    Saksonijos pagrindinis miestas
-    Drezdenas
-
-    Išorinės įtakos stiprėjimas
-    Švedų pralaimėjimas leido Augustui 11 sugrįžti į ATR sostą, tačiau
-    laimėtoju kare, kurį pats sukėlė, buvo ne jis, o Petras I, todėl nuo
-    šiol sąlygas diktuoti ėmė Rusija. Šiaurės karo nusiaubtoje Lietuvoje
-    kilo didelis badas ir maras, mirė apie trečdalis Lietuvos gyventojų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

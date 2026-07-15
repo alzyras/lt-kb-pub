@@ -36,22 +36,6 @@ Mat, per jų žemes pirkliai iš Lietuvos ir Rusijos vyk­ davo į Kaffos miest�
   teiginys: "Į Kaffos miestą Kryme vykdavo pirkliai iš Lietuvos ir Rusijos, ten susitikdavę su Genujos ir Venecijos pirkliais."
   pagrindžia:
     - c-37403
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Su totoriais Vytautas taip pat buvo užmezgęs prekybos
-    santykius. Mat, per jų žemes pirkliai iš Lietuvos ir Rusijos vyk­
-    davo į Kaffos miestą (Kryme), kur susitikdavo su Genujos ir Ve­
-    necijos pirkliais. Čia prekiauta vergais ir rytų prekėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

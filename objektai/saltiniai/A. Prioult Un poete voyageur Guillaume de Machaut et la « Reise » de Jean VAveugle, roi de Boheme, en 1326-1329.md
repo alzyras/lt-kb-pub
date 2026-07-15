@@ -43,23 +43,6 @@ Prioult, A.
   teiginys: "A. Prioult „Un poete voyageur“ paskelbtas „Les Lettres Romanes“ IV tomo 1 numeryje 1950 m., p. 3-29."
   pagrindžia:
     - c-33511
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    : 225-234 liet.-lenkų su­
-    tartis). — Prioult, A. : _Un poete voyageur_ : _Guillaume de Machaut et
-    la « Reise_ » _de Jean VAveugle, roi de Boheme, en 1326-1329,_ Les Lettres
-    Romanes, IV, nr. 1, 1950, 3-29 p. — Vaičiulaitis, A.: _Vidurinių
-    amžių poetas Machaid Lietuvoje,_ Židinys, t. 29, 1939, 178-sqq.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

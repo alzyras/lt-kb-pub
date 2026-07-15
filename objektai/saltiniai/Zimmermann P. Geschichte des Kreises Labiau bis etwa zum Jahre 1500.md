@@ -8,13 +8,13 @@ datos:
   - '1925 m.'
 date_start: '1500'
 date_end: '1925'
+amziai:
+  - 'XV'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XV'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,8 @@ Dusburgietis teigia, kad zimmermann P.
   teiginys: "P. Zimmermanno veikalas „Geschichte des Kreises Labiau bis etwa zum Jahre 1500“ išleistas Labiau 1925 m."
   pagrindžia:
     - c-62016
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. Zimmermanno veikalas „Geschichte des Kreises Labiau bis etwa zum Jahre 1500“ išleistas Labiau 1925 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,11 +63,11 @@ Dusburgietis teigia, kad zimmermann P.
 - id: c-62016
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 274"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
-    1925.
+    Рыбаков Б. А. Киевская Русь и русские княжества XII— XIII вв. — М., 1982.
+    Савукинас Б. К проблеме западнобалтийского субстрата в югозападной Литве.
+  citata_rodoma: "Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,\n1925."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

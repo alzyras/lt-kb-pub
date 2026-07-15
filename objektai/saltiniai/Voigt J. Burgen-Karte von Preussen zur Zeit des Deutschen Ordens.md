@@ -35,8 +35,8 @@ Dusburgietis teigia, kad voigt J.
   teiginys: "J. Voigto „Burgen-Karte von Preussen zur Zeit des Deutschen Ordens“ pateikta „Geschichte Preussens“ antrajame tome."
   pagrindžia:
     - c-61983
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Voigto „Burgen-Karte von Preussen zur Zeit des Deutschen Ordens“ pateikta „Geschichte Preussens“ antrajame tome.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -56,11 +56,13 @@ Dusburgietis teigia, kad voigt J.
 - id: c-61983
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Voigt J. Burgen-Karte von Preussen zur Zeit des Deutschen Ordens.—oVigt J. Geschichte
-    Preussens, Bd. 2.
+    Отрембский Я. Язык ятвягов. — Вопросы славянского языкознания, 1961, вып. 5,
+    с. 3—8.
+    Охманьский Е. Иноземные поселения в Литве XIII—XIV вв. в свете этнонимических
+    местных названий.
+  citata_rodoma: "Voigt J. Burgen-Karte von Preussen zur Zeit des Deutschen Ordens.—oVigt J. Geschichte\nPreussens, Bd. 2."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

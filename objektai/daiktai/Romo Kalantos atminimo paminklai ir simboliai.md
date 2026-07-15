@@ -63,42 +63,6 @@ Nenurodyta
   teiginys: "Romo Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą, o kauniečiai kasmet minėdavo gegužės 14-ąją."
   pagrindžia:
     - c-48312
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Užsienyje gyvenantys lietuviai rengė minėjimus, leido knygas, statė pa-
-    minklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.
-    R. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino ne-
-    formalių jaunimo grupių judėjimą. Nuo septintojo dešimtmečio iki oku-
-    pacijos pabaigos veikė apie 70 tokių grupių, jų nariai platino prieš sovietų
-    santvarką nukreiptus atsišaukimus, keldavo tautines vėliavas, minėdavo
-    tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbo-
-    lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Romo Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą, o kauniečiai kasmet minėdavo gegužės 14-ąją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ši informacija neatitiko tikro-
-    vės – jaunuolis buvo sąmoningas ir suvokė savo veiksmus.
-    R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
-    klausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

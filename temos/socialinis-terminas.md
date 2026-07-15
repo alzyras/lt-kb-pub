@@ -6,7 +6,7 @@ tema_kategorija: "terminai"
 tema_kategorijos_pavadinimas: "Žodyno įrašai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 99
+tema_objektu_skaicius: 100
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 99.
+Objektų skaičius: 100.
 
 ## Kaip naudoti
 
@@ -101,6 +101,7 @@ Objektų skaičius: 99.
 - [regestrai regestriniai kazokai](../objektai/zodynas/regestrai%20regestriniai%20kazokai)
 - [sambrūzdis](../objektai/zodynas/sambr%C5%ABzdis)
 - [savišalpos organizacijos savišalpos draugijos](../objektai/zodynas/savi%C5%A1alpos%20organizacijos%20savi%C5%A1alpos%20draugijos)
+- [skaramušai](../objektai/zodynas/skaramu%C5%A1ai)
 - [tautinė mažuma etninė kultūrinė mažuma](../objektai/zodynas/tautin%C4%97%20ma%C5%BEuma%20etnin%C4%97%20kult%C5%ABrin%C4%97%20ma%C5%BEuma)
 - [Tautinės mažumos](../objektai/zodynas/Tautin%C4%97s%20ma%C5%BEumos)
 - [tuteišiai](../objektai/zodynas/tutei%C5%A1iai)

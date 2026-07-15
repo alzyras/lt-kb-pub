@@ -35,27 +35,6 @@ O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai �
   teiginys: "Sąjūdis buvo tautos frontas, suvienijęs plačius ir įvairių pažiūrų Lietuvos visuomenės sluoksnius."
   pagrindžia:
     - c-25012
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LLL buvo paskutinė rezistencijos organizacija, kuri brežnevi-
-    nės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią. So-
-    vietinio režimo žlugimo išvakarėse veikdama nelegaliai ir pusiau legaliai,
-    ji sulaukė Atgimimo epochos ir tapo pirmąja nacionalinio išsivadavimo
-    organizacija. O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
-    nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
-    vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
-    kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
-    vės, demokratijos, nepriklausomybės idealais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

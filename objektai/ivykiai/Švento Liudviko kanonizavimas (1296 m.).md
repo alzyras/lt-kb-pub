@@ -58,32 +58,13 @@ Nenurodyta
   teiginys: "1296 m. popiežius Bonifacas VIII kanonizavo Liudviką, Prancūzijos karalių."
   pagrindžia:
     - c-63245
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1296 m. popiežius Bonifacas VIII kanonizavo Liudviką, Prancūzijos karalių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
-
-      1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos
-
-    karalių (Ptol. pried. p. 1217; Mart. p. 436).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63245
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 242-243"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 242-243."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
 

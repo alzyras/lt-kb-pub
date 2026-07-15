@@ -7,13 +7,13 @@ datos:
   - '1817 m.'
 date_start: '1817'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - organizacija
   - grupe
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,8 +58,8 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
   teiginys: "Įvadiniame straipsnyje perteikiama R. Klimavičiaus nuomonė, kad T. Narbutas 1817 m. įstojo į masonų organizaciją."
   pagrindžia:
     - c-171055
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -78,39 +78,21 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
-    mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
-    organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
-    mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
-    Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
-    odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
-    Marcinovskis taip pat priklausė masonų organizacijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-170858
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Europos istorikų -
-    Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
-    Vilhelmo Gizo, Johano Miulerio -  darbus.
-    Visuomenės švietimo ir ugdymo uždaviniai buvo suformu­
-    luoti masonų organizacijose. Lietuvos istorijos ir etnografijos
-    muziejaus rinkiniuose saugoma taurė -  masonų apeigų atri­
-    butas.
+    Šių peri­
+    odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
+    Marcinovskis taip pat priklausė masonų organizacijai. 1817 m.
+    „Dziennik Wilenski“ buvo įkurtas skyrelis „Lietuvių senovės
+    tyrimai“, kuriame kartkarčiais pasirodydavo T. Narbuto
+    straipsnių.
+    T. Narbuto darbštumas ir interesų įvairovė stebina šiuo­
+    laikinį žmogų.
   citata_rodoma: "Europos istorikų -\nVilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro\nVilhelmo Gizo, Johano Miulerio -  darbus.\nVisuomenės švietimo ir ugdymo uždaviniai buvo suformu­\nluoti masonų organizacijose. Lietuvos istorijos ir etnografijos\nmuziejaus rinkiniuose saugoma taurė -  masonų apeigų atri­\nbutas."
   statusas: verified
   teiginio_tipas: faktas
@@ -122,10 +104,9 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
 - id: c-171055
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
+    Ant taurės išgraviruota data - „1817 m.“ R. Kli­
     mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
     organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
     mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik

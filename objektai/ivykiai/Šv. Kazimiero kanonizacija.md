@@ -67,43 +67,6 @@ Nenurodyta
   teiginys: "Kazimiero kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota religinė savimonė."
   pagrindžia:
     - c-176253
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kazimiero kultas ėmė išstumti Lenkijos globėjo šv. Sta-
-    nislovo kultą. Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties
-    pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą
-    karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti prie-
-    šą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kazimiero kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota religinė savimonė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties
-    pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą
-    karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti prie-
-    šą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos. Šv. Kazimiero
-    kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota
-    religinė savimonė. Po kanonizacijos (1604) šv. Kazimieras tapo svarbiau-
-    siu Lietuvos bei Vilniaus globėju ir pagrindiniu šventuoju, o Kaziuko mu-
-    gės – tai iki šių dienų iš LDK laikų ateinanti tradicija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

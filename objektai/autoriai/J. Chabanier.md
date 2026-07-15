@@ -43,22 +43,6 @@ Chabanier : Les Tatars Lithuaniens.
   teiginys: "J. Chabanier 1960 m. Paryžiuje paskelbė darbą „Les Tatars Lithuaniens“."
   pagrindžia:
     - c-32957
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Zajączkowski, AW,
-    t. 13, 1938, 303-306p.) ; J.** Chabanier **:** **_Les Tatars Lithuaniens. Aperęus hi-
-    storiques et militaires,_** **Revue Historique de l’Armee, Paris 1960, nr. 3, 16 p.**
-    (^18) **KolLJ, 67 p. 2 išn.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

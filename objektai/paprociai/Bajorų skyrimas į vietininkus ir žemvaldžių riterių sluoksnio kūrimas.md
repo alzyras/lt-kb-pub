@@ -68,23 +68,6 @@ Nenurodyta
   teiginys: "Vytauto politikoje svarbios buvo socialinės permainos, kuriomis kurtas žemvaldžių riterių sluoksnis."
   pagrindžia:
     - c-55124
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Luckas
-    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
-    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje. Iš-
-    liko tik mažesnės kunigaikštijos. Tačiau svarbiausios Vytauto politikoje
-    buvo socialinės permainos – kuriamas žemvaldžių riterių sluoksnis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -104,4 +87,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-54210
     - t-54211

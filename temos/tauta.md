@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 246
+tema_objektu_skaicius: 258
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 246.
+Objektų skaičius: 258.
 
 ## Kaip naudoti
 
@@ -24,6 +24,17 @@ Objektų skaičius: 246.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Danielius]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/asmenys/Helmerichas]]
+- [[objektai/asmenys/J. Basanavičius]]
+- [[objektai/asmenys/Jonas Basanavičius]]
+- [[objektai/asmenys/Tautvilas]]
+
+### Autoriai
+- [[objektai/autoriai/Adomas Stanislovas Naruševičius]]
 
 ### Grupės
 - [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]]
@@ -44,13 +55,13 @@ Objektų skaičius: 246.
 - [[objektai/grupes/Aušrėnai]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Baltarusiai]]
-- [[objektai/grupes/Baltijos valstybės]]
-- [[objektai/grupes/Baltų žyniai]]
-- [[objektai/grupes/Biarmiai]]
-- [[objektai/grupes/Birutės draugija]]
-- [[objektai/grupes/Bizantijos imperija]]
-- [[objektai/grupes/Boristeniečiai]]
+- [Baltarusiai](../objektai/grupes/Baltarusiai)
+- [Baltijos valstybės](../objektai/grupes/Baltijos%20valstyb%C4%97s)
+- [Baltų žyniai](../objektai/grupes/Balt%C5%B3%20%C5%BEyniai)
+- [Biarmiai](../objektai/grupes/Biarmiai)
+- [Birutės draugija](../objektai/grupes/Birut%C4%97s%20draugija)
+- [Bizantijos imperija](../objektai/grupes/Bizantijos%20imperija)
+- [Boristeniečiai](../objektai/grupes/Boristenie%C4%8Diai)
 - [Budinai](../objektai/grupes/Budinai)
 - [Burgundai](../objektai/grupes/Burgundai)
 - [Chaldėjai](../objektai/grupes/Chald%C4%97jai)
@@ -272,3 +283,16 @@ Objektų skaičius: 246.
 - [Žuvėdai](../objektai/grupes/%C5%BDuv%C4%97dai)
 - [Žydai](../objektai/grupes/%C5%BDydai)
 - [Žydų Hapoelio klubas](../objektai/grupes/%C5%BDyd%C5%B3%20Hapoelio%20klubas)
+
+### Papročiai
+- [Stojimas į Ordiną kaip šventas sumanymas](../objektai/paprociai/Stojimas%20%C4%AF%20Ordin%C4%85%20kaip%20%C5%A1ventas%20sumanymas)
+
+### Posakiai
+- [Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti](../objektai/posakiai/Pasigail%C4%97k%2C%20vie%C5%A1patie%2C%20pasigail%C4%97k%20savo%20tautos%20ir%20neduok%20savo%20t%C4%97vonijos%20paniekinti)
+
+### Šaltiniai
+- [Lenkų tautos istorija](../objektai/saltiniai/Lenk%C5%B3%20tautos%20istorija)
+
+### Žodynas
+- [luomas](../objektai/zodynas/luomas)
+- [viešpaties dievo kariuomenė dievo tauta](../objektai/zodynas/vie%C5%A1paties%20dievo%20kariuomen%C4%97%20dievo%20tauta)

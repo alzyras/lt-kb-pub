@@ -41,43 +41,32 @@ Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) pad
   teiginys: "Torunės magistrato bibliotekos XVII a. Dusburgiečio kronikos nuorašas padarytas iš Karaliaučiaus bibliotekos teksto."
   pagrindžia:
     - c-61954
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Torunės magistrato bibliotekos XVII a. Dusburgiečio kronikos nuorašas padarytas iš Karaliaučiaus bibliotekos teksto.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Torunės  magistrato  bibliotekos  nuorašas  (XVII  a.)  padarytas  iš  Karaliaučiaus
-    bibliotekos  teksto. Nurašyta žmogaus,  gerai mokėjusio viduramžių  lotynų  kalbą,
-    daugelyje vietų tekstui grąžinusio pirminę prasmę. Torunės nuoraše randame ne tik
-    pagrindinį Dusburgiečio tekstą (iki 1326 m.), bet ir papildymus (iki 1330 m. lapkričio
-    mėn.), todėl spėjama, kad nurašinėjusis, be Karaliaučiaus teksto, turėjo dar ir kitą, iš
-    kurio ir paėmęs priedą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197029"></a>
+- t-002
+  global_id: t-197029
+  teiginys: "Berlyno karališkosios bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas."
   pagrindžia:
-    - t-001
+    - c-61954
 
 ## Citatos
 
 - id: c-61954
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 19"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Torunės  magistrato  bibliotekos  nuorašas  (XVII  a.)  padarytas  iš  Karaliaučiaus
-    bibliotekos  teksto. Nurašyta žmogaus,  gerai mokėjusio viduramžių  lotynų  kalbą,
-    daugelyje vietų tekstui grąžinusio pirminę prasmę. Torunės nuoraše randame ne tik
-    pagrindinį Dusburgiečio tekstą (iki 1326 m.), bet ir papildymus (iki 1330 m. lapkričio
-    mėn.), todėl spėjama, kad nurašinėjusis, be Karaliaučiaus teksto, turėjo dar ir kitą, iš
-    kurio ir paėmęs priedą.
+    Berlyno karališkosios
+    bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
+    Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
+    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
+    bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
+    Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)
+    pilies bažnyčioje.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-61322
+    - t-197029

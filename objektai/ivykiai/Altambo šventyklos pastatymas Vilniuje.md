@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas Altambo šventyklos pastatymą Vilniuje sieja su Vilniaus tapimu sostine ir didesniu gyventojų srautu nei į Trakus.
+Narbutas Altambo šventyklos pastatymą Vilniuje sieja su Vilniaus tapimu sostine ir didesniu gyventojų srautu nei į Trakus. Ieškoti žinių apie tuos požemius ir pilis palie kame busimiesiems krašto senovės tyrėjams, čia apsiribojame teiginiu, kad miestuose buvo slaptos šventyklos ir galbūt su jomis jungėsi požemiai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,49 +47,35 @@ Nenurodyta
   teiginys: "Narbutas Altambo šventyklos pastatymą Vilniuje sieja su Vilniaus tapimu sostine ir didesniu gyventojų srautu nei į Trakus."
   pagrindžia:
     - c-172501
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Narbutas Altambo šventyklos pastatymą Vilniuje sieja su Vilniaus tapimu sostine ir didesniu gyventojų srautu nei į Trakus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vilniaus gyventojai turėjo namų ir giminių Tra­
-    kuose, o trakiečiai -  Vilniuje, bendrai švęsdavo ir minėdavo
-    stabmeldžių šventes. O kadangi Vilnius tapo Lietuvos sostine
-    ir šiaip jo padėtis dėl prekių plukdymo upėmis yra patogesnė,
-    į jį atplūdo daugiau gyventojų nei į Trakus, tad vėlesniais lai­
-    kais, nors turėjo pilį ir kunigaikščio rūmus, tas miestas virto
-    beveik kaimu. Būtent dėl šitokios eigos Vilniuje pastatė Al-
-    tambo šventyklą; jo šventė Trakuose būdavo rugsėjo 8 dieną,
-    o Vilniuje -  15.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197229"></a>
+- t-002
+  global_id: t-197229
+  teiginys: "Ieškoti žinių apie tuos požemius ir pilis palie kame busimiesiems krašto senovės tyrėjams, čia apsiribojame teiginiu, kad miestuose buvo slaptos šventyklos ir galbūt su jomis jungėsi požemiai."
   pagrindžia:
-    - t-001
+    - c-172501
 
 ## Citatos
 
 - id: c-172501
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 275"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 275."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vilniaus gyventojai turėjo namų ir giminių Tra­
-    kuose, o trakiečiai -  Vilniuje, bendrai švęsdavo ir minėdavo
-    stabmeldžių šventes. O kadangi Vilnius tapo Lietuvos sostine
-    ir šiaip jo padėtis dėl prekių plukdymo upėmis yra patogesnė,
-    į jį atplūdo daugiau gyventojų nei į Trakus, tad vėlesniais lai­
-    kais, nors turėjo pilį ir kunigaikščio rūmus, tas miestas virto
-    beveik kaimu. Būtent dėl šitokios eigos Vilniuje pastatė Al-
-    tambo šventyklą; jo šventė Trakuose būdavo rugsėjo 8 dieną,
-    o Vilniuje -  15.
+    Ieškoti žinių apie tuos požemius ir pilis palie­
+    kame busimiesiems krašto senovės tyrėjams, čia apsiribojame
+    teiginiu, kad miestuose buvo slaptos šventyklos ir galbūt su
+    jomis jungėsi požemiai. Prie Kražių miestelio, Kražantės upės
+    kairiajame krante, ant Medžiokalnio kalno, stovėjo deivės Me-
+    dziojnos šventykla . Tai tikriausiai pati seniausia šventovė Že­
+    maitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,
+    Vilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­
+    dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
+    toje buvo pastatyta filija .
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189618
+    - t-197229

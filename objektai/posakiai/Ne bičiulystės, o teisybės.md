@@ -47,26 +47,6 @@ media_all_json: |-
   teiginys: "Imperatorius Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės."
   pagrindžia:
     - c-33479
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Imperatorius Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vytautas rašė, jog kol jis gyvas busiąs, o taip pat ir jo
-    įpėdiniai, niekada nuo tų žemių neatsisakysią^15.
-    Zigmantas vikriai teisinosi, jog jis sprendimą daręs žiūrėdamas
-    ne bičiulystės, o teisybės. Jis — ne be pagrindo — priminė : kaip
-    jis esą galėjęs kitaip išspręsti bylą, jeigu Vytautas ir Jogaila, «or­
-    diną nugalėję ir priešo žemėje su ginklu stovėdami », patys sutiko
-    jam pripažinti Žemaičius^16.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

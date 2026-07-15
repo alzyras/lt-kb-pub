@@ -66,43 +66,6 @@ Nenurodyta
   teiginys: "XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė."
   pagrindžia:
     - c-12308
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Xv a. pabaigoje - xvI a. pradžioje susiformavo kovinė rikiuotė, kuri
-    ilgam laikui tapo tradicine Lietuvoje ir Lenkijoje. Mūšiui kariuo-
-    menės centre dviem ešelonais, viena už kitos išsidėstydavo sun-
-    kiųjų raitelių vėliavos. Centras mūšio metu atlikdavo pagrindinį
-    vaidmenį pralaužant priešo kariuomenės rikiuotę. Lengvoji raitija
-    buvo rikiuojama sparnuose ir palaikydavo sunkiųjų raitelių ataką
-    flanguodama priešininką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo metu pėstininkų ir artilerijos vaidmuo mūšio lauke dar ne-
-    buvo labai reikšmingas. K. Ostrogiškio sprendimai, išnaudojant
-    artileriją Oršos mūšyje, buvo tam metui nestandartiški ir netgi
-    novatoriški. xVI a. antrojoje pusėje imta efektyviau išnaudoti pės-
-    tininkus bei artileriją, kurie pradėti rikiuoti tarp centro sunkiosios
-    kavalerijos vėliavų ir lengvosios kavalerijos sparnų, ir paremdavo
-    ugnimi centro pajėgų atakas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -66,44 +66,6 @@ Nenurodyta
   teiginys: "1517 m. Martynas Liuteris pradėjo reformaciją, laikomą viena reikšmingiausių Naujųjų amžių apraiškų."
   pagrindžia:
     - c-23184
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ankstes-
-    nės lietuvių kilmės iš romėnų idėjos pagrindu formuojasi samprata, kad
-    lotynų kalba – tai tikroji, arba gimtoji, lietuvių kalba.
-    1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma
-    viena iš reikšmingiausių Naujųjų amžių apraiškų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tokia įvykių seka rodė ne tik tai, kad Lie-
-    tuva tapo europinės struktūros šalimi, bet ir A. Kulviečio asmenybės mastą.
-    Vilniuje A. Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi
-    60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė
-    į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo
-    1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas. A. Kulvietis, pa-
-    sinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant
-    su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
-    padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-
-    teresų lygį ir taip išugdyti lietuvių inteligentiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -48,50 +48,25 @@ Nenurodyta
   teiginys: "Maskvėnai prie Usviatų, Dauguvos ir Ūlos statė įtvirtinimus, plėšė kaimynines žemes ir nesėkmingai bandė užimti Voronečą."
   pagrindžia:
     - c-168980
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Maskvėnai prie Usviatų, Dauguvos ir Ūlos statė įtvirtinimus, plėšė kaimynines žemes ir nesėkmingai bandė užimti Voronečą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    P rie U sviatų ir
-    D auguvos b ei Ū los san tak o je p astatę įtvirtinim us, jie
-    plėšė kaim ynin es žem es, o k a rtą  b an d ė užgrobti V oro-
-    n ečo  pilį, tiesa, nesėkm ingai. V asiliju i Z aborovskiui, k u ­
-    ris k araliau s v a rd u  n u sisk u n d ė dėl d arom ų skriaudų,
-    Iv an as atsakė, k ad  U sviatai bei Ū la jo rankose, k ad  čia
-    staty ti pilis jam  v isai n ed rau d žia paliaubos, o V orone-
-    čą k araliau s žm onės p astatė p aliau b ų  m etu, ir dėl to
-    k ariai k etin ę jį užim ti. N eg alėd am as rasti tiesos nei p er
-    laiškus, n ei p e r pasiuntinius, k araliu s p arag in o  gretim ų
-    pilių seniūnus p u ld in ėti m ask v ėn ų  žem es.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-168980
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 734"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 734."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     P rie U sviatų ir
     D auguvos b ei Ū los san tak o je p astatę įtvirtinim us, jie
-    plėšė kaim ynin es žem es, o k a rtą  b an d ė užgrobti V oro-
-    n ečo  pilį, tiesa, nesėkm ingai. V asiliju i Z aborovskiui, k u ­
-    ris k araliau s v a rd u  n u sisk u n d ė dėl d arom ų skriaudų,
-    Iv an as atsakė, k ad  U sviatai bei Ū la jo rankose, k ad  čia
-    staty ti pilis jam  v isai n ed rau d žia paliaubos, o V orone-
-    čą k araliau s žm onės p astatė p aliau b ų  m etu, ir dėl to
+    plėšė kaim ynin es žem es, o k a rtą b an d ė užgrobti V oro-
+    n ečo pilį, tiesa, nesėkm ingai. V asiliju i Z aborovskiui, k u ­
+    ris k araliau s v a rd u n u sisk u n d ė dėl d arom ų skriaudų,
+    Iv an as atsakė, k ad U sviatai bei Ū la jo rankose, k ad čia
+    staty ti pilis jam v isai n ed rau d žia paliaubos, o V orone-
+    čą k araliau s žm onės p astatė p aliau b ų m etu, ir dėl to
     k ariai k etin ę jį užim ti. N eg alėd am as rasti tiesos nei p er
-    laiškus, n ei p e r pasiuntinius, k araliu s p arag in o  gretim ų
-    pilių seniūnus p u ld in ėti m ask v ėn ų  žem es.
+    laiškus, n ei p e r pasiuntinius, k araliu s p arag in o gretim ų
+    pilių seniūnus p u ld in ėti m ask v ėn ų žem es.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

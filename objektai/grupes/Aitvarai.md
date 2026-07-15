@@ -48,24 +48,25 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
   teiginys: "Narbutas pasakoja, kad žyniai užkeikė aitvarus išnykti, o pamedėnai prisiekė nepriimti krikščionybės ir ginti senąjį tikėjimą."
   pagrindžia:
     - c-172334
+
+<a id="claim-t-197184"></a>
+- t-004
+  global_id: t-197184
+  teiginys: "Šie užkei kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapojami, bet gins savo senąjį tikėjimą."
+  pagrindžia:
+    - c-172332
 - susijęs iš Schützo Prūsijos kronika: Narbutas, remdamasis Prūsijos kronikomis, pasakoja, kad 1247 m. Pamedėje aitvarai esą viešai rodydavosi žmonių pavidalu.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris užgula miegančias moteris ir tyko už tvorų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Dainos.
-    177
-
-    ## Puslapis 177
-
-    Aitvaras (Ajtwaros)
-    Vyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­
-    ris paprastai užgula miegančias moteris, tykoja jų už tvorų,
-    todėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.
-    Kunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai
-    Incubus, lenkiškai Latawiec.
+    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
+    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
+    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
+    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
+    mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
+    rybė moka daryti stebuklus lengvatikių akyse.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -73,6 +74,7 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-004
 
 - c-002
   santrauka: 'Narbutas rašė, kad lietuvių pasakojimuose aitvaras užpuola miegančias moteris arba pasirodo skraidančio ugnies meteoro pavidalu.'
@@ -93,26 +95,6 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Narbutas pasakoja, kad žyniai užkeikė aitvarus išnykti, o pamedėnai prisiekė nepriimti krikščionybės ir ginti senąjį tikėjimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kai kurios moterys išėjo iš proto. Išsigandę žmonės kreipėsi į
-    stabmeldžių žynius. Šie sakė, kad aukštieji dievai užsiundę tas
-    piktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.
-    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
-    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
-    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
-    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
-    mi, bet gins savo senąjį tikėjimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-172332
@@ -120,37 +102,39 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Dainos.
-    177
-
-    ## Puslapis 177
-
-    Aitvaras (Ajtwaros)
-    Vyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­
-    ris paprastai užgula miegančias moteris, tykoja jų už tvorų,
-    todėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.
-    Kunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai
-    Incubus, lenkiškai Latawiec.
+    Šie sakė, kad aukštieji dievai užsiundę tas
+    piktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.
+    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
+    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
+    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
+    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
+    mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
+    rybė moka daryti stebuklus lengvatikių akyse.
+  citata_rodoma: "Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­\nkė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai \nprisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada \nnelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja- \nmi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­\nrybė moka daryti stebuklus lengvatikių akyse."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189445
+    - t-197184
 
 - id: c-172333
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 177"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
-    matomas užpuola miegančias moteris, kitą kartą prijaukintas
-    pasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­
-    da į klėtis, senoms, taupioms šeimininkėms išneša grietinę,
-    duoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­
-    terims arba mergaitėms, duoda net pinigų. Moteris, suviliota
-    šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
+    Tą vardą duodavo taip pat fau­
+    nams ir satyrams dėl jų gašlumo. Tamsybės laikais demonog-
+    rafai išgalvojo velnius - viršgulius, Incubi, ir apačgulius, Suc­
+    cubi, kankinančius žmones per miegą begėdiškais vaizdais, net
+    tikrais veiksmais, ypač davusius skaistybės įžadus. Antikos žmo­
+    nės dievino viršgulius, vadindami Graikijoje efialtais, Romo­
+    je - hifialtais“.
+    Rungis (Rungis)
+    Malūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­
+    dų ir malant pripila.
+  citata_rodoma: "Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­\nmatomas užpuola miegančias moteris, kitą kartą prijaukintas\npasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­\nda į klėtis, senoms, taupioms šeimininkėms išneša grietinę,\nduoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­\nterims arba mergaitėms, duoda net pinigų. Moteris, suviliota\nšios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -161,8 +145,7 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
 - id: c-172334
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 178"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kai kurios moterys išėjo iš proto. Išsigandę žmonės kreipėsi į
     stabmeldžių žynius. Šie sakė, kad aukštieji dievai užsiundę tas

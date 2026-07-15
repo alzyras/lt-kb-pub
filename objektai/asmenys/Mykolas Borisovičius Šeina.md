@@ -44,37 +44,6 @@ Rusų pajėgų padėtis ėmė Rusų kariuomenės vado, Mykolo Borisovičiaus Še
   teiginys: "Rusų kariuomenės vado Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai."
   pagrindžia:
     - c-44466
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rusų kariuomenės vado Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1633 m. žiemą į pagalbą atskubėjo tuo-
-    metinis Lietuvos lauko etmonas Kristupas
-    Radvila 11. Rugsėjį į frontą atvyko ir
-    naujasis Abiejų Tautų Respublikos val-
-    dovas Vladislovas Vaza su 15 tūkst. ka-
-    riuomene. Rusų pajėgų padėtis ėmė
-
-    Rusų kariuomenės vado,
-    Mykolo Borisovičiaus Šeinos štabas
-    prie Smolensko pasiduoda ATR
-
-    valdovui Vladislovui Vazai
-
-    komplikuotis - tuo metu į pietines Rusijos
-    žemes įsiveržė ir niokojo Krymo totoriai
-    (paskatinti užpulti Rusiją ATR diplomatų),
-    žinia apie tai demoralizavo rusus ir dau-
-    gelį paskatino dezertyruoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

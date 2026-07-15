@@ -43,21 +43,6 @@ Raulinaitis (Pedag.
   teiginys: "A. Raulinaitis 1964 m. žurnale „Pedagogika ir psichologija“ rašė apie pirmąją katedrinę mokyklą."
   pagrindžia:
     - c-32886
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    2, 1969).**
-    (^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966. Apie pirmąją kated­
-    rinę mokyklą rašė A. Raulinaitis (Pedag. ir psichok, t. 6, 1964, 111-114 p.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

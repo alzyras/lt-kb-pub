@@ -55,54 +55,6 @@ media_all_json: |-
     - c-168215
 - susijęs iš Maskva: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
 - susijęs iš Maskva: 1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
-    leidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio
-    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
-    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
-    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
-    metais), kur didysis kunigaikštis paprastai gyvendavo di­
-    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
-    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
-    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
-    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
-    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
-    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Maskvos didikai teigė, kad Maksimilijono ir Suleimano laiškai Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Maskvos didikų vardu atsakė to miesto vy­
-    riausiasis dvasininkas. Esą visų didžiausi pasaulyje
-    valdovai, būtent ir Romos imperatorius, ir Rytų sulto­
-    nas, tituluoją Maskvos didįjį kunigaikštį caru, kaip
-    rodo Maksimilijono bei Suleimano laiškai, adresuoti Va­
-    silijui Vasiljevičiui. Tad kodėl karalius Augustas, ligi
-    tol nieko pikta iš kunigaikščio Ivano nepatyręs, vie­
-    nas nepripažįstąs tos pagarbos, elgdamasis kitaip nei
-    kiti valdovai?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-83911
@@ -134,8 +86,7 @@ media_all_json: |-
 - id: c-168215
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 693"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 693."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Maskvos didikų vardu atsakė to miesto vy­
     riausiasis dvasininkas. Esą visų didžiausi pasaulyje

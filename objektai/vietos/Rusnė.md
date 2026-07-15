@@ -75,7 +75,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-192502|Laivai]]: Narbutas pasakoja, kad prie Rusnės įlankos danai nedaugeliu didelių, gerai ginkluotų laivų sunaikino rusų jūros pajėgas.
 - susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192074|Valtys]]: Narbutas pasakoja, kad po sutriuškinimo į įlanką įplaukę nugalėtojai turėjo brautis pro sudužusias valtis.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192425|Lietuviai]]: Foigto teigimu, senoji lietuvių tvirtovė Klaipėda stovėjo prie Dangės žiočių, susijusių su dešiniąja Nemuno deltos šaka.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179435|Livonijos ordinas]]: Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.
 - susijęs iš [[objektai/grupes/Parusėnai.md#claim-t-07846|Parusėnai]]: Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.
 - susijęs iš Romuniškiai: Narbutas, remdamasis Hartknochu, Romuniškius mini Žemaitijoje, už sienos nuo Prūsijos Romučių kaimo prie Tenenio upės.
 - susijęs iš Romučiai: Hartknochas Narbuto perteikime Romučių kaimo apylinkėse prie Tenenio upės lokalizavo garsų šventąjį mišką prie Žemaitijos sienos.
@@ -85,26 +84,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - susijęs iš [[objektai/zodynas/Šventasis miškelis šventasis miškas.md#claim-t-189216|Šventasis miškelis šventasis miškas]]: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, o nelaimingiesiems tikriausiai ne.
 - susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192074|Valtys]]: Narbutas pasakoja, kad po sutriuškinimo į įlanką įplaukę nugalėtojai turėjo brautis pro sudužusias valtis.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Žemaičių pusėje siena turėjo kilti Šventąja dvi mylias, paskui
-    stačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­
-    muną dviejų mylių ruože^31. Jūros upės krantu siena pasislinko
-    vieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko
-    taip, kad Nemunas, Rusnė ir Klaipėda — vis trijų mylių atstumu
-    — nuo Nemuno ir Marių, buvo palikta ordinni.
-    Su Livonijos ordinu siena buvo pradėta į Baltiją įtekančia
-    Šventosios upe, toliau paliekant « senas sienas » (« antiquos limites »).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas aiškino, kad lietuvių protėviai Rusnę, dešiniąją Nemuno atšaką, pagal religines apeigas pavertė penktąja šventąja upe.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -125,34 +104,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Narbutas manė, kad seniausia lietuvių gyvenvietė buvo prie dešiniosios Nemuno vagos dalies, vadintos Ruse, Rusne arba Rusnia.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tun-
-    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
-    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
-    užėmė Sembą ir gintaro kasyklas2. Tačiau visų seniausia
-    jų gyvenvietė turėtų būti prie Nemuno vagos dešinės da­
-    lies, ligi šiol vadinamos Ruse arba slaviškai Rusne,
-    Rusnia.
-    *  *  *
-    VI skyrius
-    A P I E  R U S I Ą  IR R U S U  S*
-    219
-    Mūsų teiginys, kad senovės Lietuvos Rusios kraštas
-    egzistavo prie Nemuno žemupio1 * 3, — ¡panašiai vadinama ša­
-    ka, arba turi lietuvišką religinį Ros ės vardą, — kai kam
-    gali pasirodyti nauja suregzta išmone, kuri mažai susiju­
-    si su nagrinėjamu dalyku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 - c-004
   santrauka: 'Narbutas rašo, kad prie Sancinės dešinioji Nemuno vaga buvo vadinama Russ, Rusnytė, Rusna arba Rusnia.'
@@ -202,18 +153,20 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-171717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Si ket­
-    virta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­
-    vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
-    arba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­
-    ja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno
-    atšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė). Pa­
-    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
-    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
-    pačiu šventu vardu Ross.
+    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
+    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
+    liaudies padavimų.
+    1.
+    Upė, tekanti pro Ukmergę, įteka į Nerį jos dešiniajame
+    krante, aukščiau Jonavos, ir vadinasi Šventoji (Swięta). Nieko
+    verta nuomonė, jog upė turinti tokį vardą dėl to, kad jos van­
+    deniu buvo krikštijami lietuviai, kai Jogaila visus atvertė. Mat
+    vietos padavimai įtikina, kad tą vandenį senoji religija laikė
+    šventu, todėl krikščionių kunigai jį ir vartojo, o gal net pačią
+    upę, kad sutrauktų prie jos krantų žmones krikštui.
+  citata_rodoma: "Si ket­\nvirta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­\nvių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,\narba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­\nja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno\natšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė). Pa­\ngaliau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­\nkančios per jų svarbiausias sodybas, būdavo praminamos tuo\npačiu šventu vardu Ross."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -224,8 +177,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-175518
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 214"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tun-
     manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
@@ -253,19 +205,24 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-175519
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 219."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pusantros mylios už šio miesto aukštos pakrantės ima
-    žemėti, vagos didingumas mažėja, o Nemunas ima vin­
-    giuoti per visiškai nedidelį nuolydį turinčią vietovę. Prie
+    Prie
     Sancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va­
     dinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-
     nia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo­
     mis. Ta klasikinė Nemuno šaka prie Rus ramovės, kuri
     yra senovinė piliavietė, nuplaukusi gražiomis apylinkė­
     mis apie penkias mylias, suskyla į daugelį mažų vagų,
-    arba protakų.
+    arba protakų. Šio išsišakojimo vagos yra šios: kairėje į
+    vakarus vingiuoja Skirwith, Skirvytės, vaga, tai reiškia
+    Skiriu užeiga (gal kitados skalavo skiriu koloniją); savo
+    ruožtu ji priima losse, arba Jesse, įlanką, primenančią
+    vieną dievo Perkūno slavišką vardą; toliau ji įteka į pel­
+    kėtą Kuršių marių įlanką, vadinama Gillmite, Gilvyte,
+    t. y. neapsakomai gilią; šią įlanką žvejai vadina Laing,
+    arba langas, langas, t. y. uosto prieplauka.
+  citata_rodoma: "Pusantros mylios už šio miesto aukštos pakrantės ima\nžemėti, vagos didingumas mažėja, o Nemunas ima vin­\ngiuoti per visiškai nedidelį nuolydį turinčią vietovę. Prie\nSancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va­\ndinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-\nnia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo­\nmis. Ta klasikinė Nemuno šaka prie Rus ramovės, kuri\nyra senovinė piliavietė, nuplaukusi gražiomis apylinkė­\nmis apie penkias mylias, suskyla į daugelį mažų vagų,\narba protakų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

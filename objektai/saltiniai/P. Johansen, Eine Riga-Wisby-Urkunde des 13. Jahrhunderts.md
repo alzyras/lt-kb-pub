@@ -42,22 +42,6 @@ Johansen, Eine Riga-Wisby-Urkunde des 13.
   teiginys: "P. Johanseno „Eine Riga-Wisby-Urkunde des 13. Jahrhunderts“ paskelbta 1958 m. leidinio „Zeitschr. des Vereins für Lübekische Geschichte und Altertumskunde“ 38 tome, p. 99-107."
   pagrindžia:
     - c-29912
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    220c LReim 8108. Plg. P. Johansen, Eine Riga-Wisby-Urkunde des 13.
-    Jahrhunderts , Zeitschr. des Vereins für Lübekische Geschichte und Altertums­
-    kunde 38, 1958, 99-107. Žiūr. Z. Ivinskis, Nalšia , LE XIX, 1959, 490-
-    491 ; Z. Ivinskis, Suksė , LE XXIX, 1963, 179.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

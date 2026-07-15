@@ -52,35 +52,6 @@ Bumblauskas A.
   teiginys: "A. Bumblauskas parašė veikalą „Lietuvos Didžioji Kunigaikštija ir jos tradicija“, išleistą Vilniuje 2010 m."
   pagrindžia:
     - c-22124
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius, 1998.
-    Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,
-    2010.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'A. Bumblausko veikalas „Senosios Lietuvos istorija 1009-1795“ išleistas Vilniuje 2005 m.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 62, „ANONIMO LAIŠKAS“, Bumblauskas A. Senosios Lietuvos istorija 1009-1795,
-    Vilnius, 2005, p. 151 (Jučas M. Žalgirio mūšis, Vilnius, 1999, p. 230).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

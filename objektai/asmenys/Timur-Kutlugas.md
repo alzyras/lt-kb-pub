@@ -36,25 +36,6 @@ Timuras tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo vado 
   pagrindžia:
     - c-32810
 - susijęs iš Vorskla: Kai Vytautas priartėjo prie Vorsklos upės, ten atvyko Timur-Kutlugo vadas Edyga.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Sustojęs rugpiučio 5 Vorsklos
-    krante, Vytautas laukė kelias dienas ir su chanu Timuru — Kut­
-    lugu vedė nesėkmingas derybas. Esą Vytautas reikalavęs chaną
-    jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
-    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
-    vado Edigos dalinių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32810

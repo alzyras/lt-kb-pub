@@ -64,72 +64,22 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   teiginys: "Pretorijus teigė, kad Sasavos tvirtovė buvo prie Šyšos upės, kuri anksčiau turėjusi vadintis Cyse arba Sussa."
   pagrindžia:
     - c-173644
+
+<a id="claim-t-197624"></a>
+- t-006
+  global_id: t-197624
+  teiginys: "Si provincija plytėjo prie Vyslos, arčiausiai ribojosi su slavų gentimis, o pavadinimą gavo iš senovinio miesto Vlm, kurį vokiš kai pradėta vadinti Culm, lenkiškai — Chefmno', anot Pretorijaus tyrimų2, šis pavadinimas turėjo reikšti kalvą, 1 S ajar zykąs."
+  pagrindžia:
+    - c-179265
+
+<a id="claim-t-197625"></a>
+- t-007
+  global_id: t-197625
+  teiginys: "Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita dos turėjo būti vadinama Cyse arba Sussa."
+  pagrindžia:
+    - c-173644
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasis savo paties matytais pastebėjimais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Latviuose tai buvo žynys ir pranašautojas. Paimdavo į
-    saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31
-    Vėjininkai (Wejones)
-    31
-    Šias penkias pranašautojų rūšis pateikia Pretorijus, remdama­
-    sis savais pastebėjimais, ką buvo matęs savo akimis.
-    299
-
-    ## Puslapis 299
-
-    teliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­
-    lykus, ypač apie pamestus daiktus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Daugeliu požiūrių
-    šios žynės buvo Antikos bakchančių pamėgdžiojimas.
-    Visi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-
-    jaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­
-    kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
-    Burtininkė (Burte)
-    Lietuvių barde -  Burtyniczka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Pasak Pretorijaus, Poiein ziemme senovės prūsams turėjo reikšti galingos genties žemę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pavadinimą gavo nuo Jesse, ar­
-    ba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­
-    ties sudėtinė dalis buvo Hokerlandija, arba hokrų kraš­
-    tas, turėjęs taip vadintą gentį, o anot kitų, šis pavadini­
-    mas turėtų būti atsiradęs dėl vietovės kalvotumo. Pasak
-    Pretorijaus, Poiein ziemme senovės prūsams turėjo reikš­
-    ti galingos genties žemę1. Šioje provincijoje, prie to pa­
-    ties pavadinimo ežero, buvęs Truso prekybos miestas, da­
-    bar netoli šiandienio Elbliongo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Pretorijus prūsus ir rusus laikė iš pradžių viena gentimi, o variagų vardą kildino iš prūsiško žodžio Warejs.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -150,31 +100,6 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   pagrindžia:
     - t-004
 
-- c-005
-  santrauka: 'Pretorijus teigė, kad Sasavos tvirtovė buvo prie Šyšos upės, kuri anksčiau turėjusi vadintis Cyse arba Sussa.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Gar­
-    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
-    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
-    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
-
-    ## Puslapis 370
-
-    dos turėjo būti vadinama Cyse arba Sussa. Bet panašiau
-    į tiesą tai, kad ji buvo tarp Eimenio ir Ząsupės upelių, į
-    pietryčius nuo Kraupiškių kaimo, netoli Įsros upės, kur
-    esama tvirtovės pėdsakų ant kalno prie Ząsupėnų kaimo;
-    tai labiau primena šį pavadinimą, nors ši vieta, mūsų
-    nuomone, priklauso Nadruvai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-173212
@@ -182,18 +107,17 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Latviuose tai buvo žynys ir pranašautojas. Paimdavo į
-    saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31
-    Vėjininkai (Wejones)
-    31
-    Šias penkias pranašautojų rūšis pateikia Pretorijus, remdama­
-    sis savais pastebėjimais, ką buvo matęs savo akimis.
-    299
-
-    ## Puslapis 299
-
-    teliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­
-    lykus, ypač apie pamestus daiktus.
+    33 Viename liaudies padavime pasakojama: šventa mergelė (vai­
+    dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
+    žė dvejetu juodų karvių, norėdami užsiūti odiniame maiše su šuni­
+    mi, katinu ir gyvate ir nuskandinti Nemune. Pasirodė tas bajoras rai­
+    tas, šarvuotas, išvadavo mergelę ir liepė sutuokti su ja ant paties upės
+    kranto; tada abu apsikabinę šoko į vandenį ir dingo iš akių. Toje vie­
+    toje vanduo ėmęs virti ir suktis verpetu, ir dabar taip daro, tarytum
+    nelaimingosios poros vestuvių ženklam Kai kada naktį, šviečiant mė­
+    nuliui, ji išlipanti į krantą, dainuojanti dainą apie savo nuotykį ir mai­
+    tinanti kūdikį.
+  citata_rodoma: "Latviuose tai buvo žynys ir pranašautojas. Paimdavo į\nsaują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31\nVėjininkai (Wejones)\n31\nŠias penkias pranašautojų rūšis pateikia Pretorijus, remdama­\nsis savais pastebėjimais, ką buvo matęs savo akimis.\n299\n\n## Puslapis 299\n\nteliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­\nlykus, ypač apie pamestus daiktus."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -204,16 +128,24 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 301"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 301."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Daugeliu požiūrių
-    šios žynės buvo Antikos bakchančių pamėgdžiojimas.
-    Visi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-
-    jaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­
-    kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
-    Burtininkė (Burte)
-    Lietuvių barde -  Burtyniczka.
+    Beveik nežinome tautos, kuri, būdama tamsi arba nepa­
+    žindama tikrojo tikėjimo, neturėtų savų pranašavimo būdų;
+    įvairios tautos jų prisigalvodavo įvairių. Alanai, senieji kai ku­
+    rių plačiosios Lietuvos sričių gyventojai, arba veikiau klajok­
+    liai, burdavo, kaip sako istorija, iš karklo šakų, tam tikru būdu
+    sumaišytų; vėliau, traukdami vieną po kitos tam tikru nustaty­
+    tu laiku bei ištardami kažkokius žodžius ir kitaip burtininkų
+    mada vaipydamiesi, skaitydavo lemties knygą .
+    Lietuviai, visuomet pamaldūs ir todėl prietaringi, nieko
+    nepradėdavo nepaklausę pranašų patarimo; šiuo požiūriu
+    mūsų kaimiečiai iki šiol tebėra lengvatikiai; kiek jie turėjo
+    žynių, tiek kerėtojų arba burtininkų, o pats vyriausiasis žy­
+    nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
+    si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
+    kaip tai pamatysime toliau.
+  citata_rodoma: "Daugeliu požiūrių\nšios žynės buvo Antikos bakchančių pamėgdžiojimas.\nVisi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-\njaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­\nkytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.\nBurtininkė (Burte)\nLietuvių barde -  Burtyniczka."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -224,8 +156,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173642
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pavadinimą gavo nuo Jesse, ar­
     ba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­
@@ -246,8 +177,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173643
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 341"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai, žinoma, vien panašumai, kuriuos
     pastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,
@@ -257,6 +187,11 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
     duoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,
     jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir
     krivičiams.
+    Visų šių teiginių, kaip man atrodo, pakanka įrodyti,
+    jog ne vienai senovės prūsų kartai tenka garbė už tai,
+    1 Wareys, iš lietuviško žodžio Warikt, visiškai nesiderina su
+    \Warrejas.
+  citata_rodoma: "Tai, žinoma, vien panašumai, kuriuos\npastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,\njog prūsai ir rusai iš pradžių priklausė vienai genčiai;\nvariagų vardą jis kildina iš grynai prūsiško žodžio Wa-\nrejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį\nduoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,\njog 859 metais variagai paskyrė kailių duoklę, be kitų, ir\nkrivičiams."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -269,12 +204,13 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Gar­
+    Ne Sarkės, o Šar­
+    kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
+    dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
+    kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­
     siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
     kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
     Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
-
-    ## Puslapis 370
 
     dos turėjo būti vadinama Cyse arba Sussa. Bet panašiau
     į tiesą tai, kad ji buvo tarp Eimenio ir Ząsupės upelių, į
@@ -288,3 +224,28 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190762
+    - t-197625
+
+- id: c-179265
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Si provincija
+    plytėjo prie Vyslos, arčiausiai ribojosi su slavų gentimis,
+    o pavadinimą gavo iš senovinio miesto Vlm, kurį vokiš­
+    kai pradėta vadinti Culm, lenkiškai — Chefmno', anot
+    Pretorijaus tyrimų2, šis pavadinimas turėjo reikšti kalvą,
+    1 S ajar zykąs, atmetęs tą išvadą (Starožyin. slaw. § 19. Nr. 5),
+    teigia, jog prūsų protėviai buvo Ptolemėjo aprašyti frugundionai —
+    tauta (o gal gentis), kurios mes nė nedrįstume priskirti prie lietuvių
+    genties. Šio nepaprastai mokslingo tyrinėtojo (nelaimei, pernelyg
+    dainai besiremiančio nuojauta, — dėl to jo išvados dažnai klaidin­
+    gos) įrodinėjimus verta čia išdėstyti bent jau tam, kad išsakytume ir
+    savo nuomonę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197624

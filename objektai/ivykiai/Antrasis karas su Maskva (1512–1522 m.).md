@@ -55,21 +55,6 @@ Nenurodyta
   teiginys: "1512 m. prasidėjusiame antrajame kare su Maskva visos Maskvos jėgos buvo nukreiptos į Smolenską."
   pagrindžia:
     - c-01814
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Karas prasidėjo 1512 m. Visos Maskvos jėgos buvo nu-
-    kreiptos į Smolenską. Jis buvo net 3 sykius apgultas ir pagaliau,
-    Glinskiui sukėlus viduje sąmokslą, buvo paimtas (1514 m.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1432 m. karaliaus pasiuntiniai įtikino Žygimantą Kęstutaitį sutikti su valdovo ir valstybės keltais reikalavimais. Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos.
+1432 m. karaliaus pasiuntiniai įtikino Žygimantą Kęstutaitį sutikti su valdovo ir valstybės keltais reikalavimais. Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos. Lenkijos senatas nutarė skubiai siųsti į Lietuvą pasiuntinybę pas Žygimantą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -60,70 +60,27 @@ Nenurodyta
   teiginys: "Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos."
   pagrindžia:
     - c-169048
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: '1432 m. karaliaus pasiuntiniai įtikino Žygimantą Kęstutaitį sutikti su valdovo ir valstybės keltais reikalavimais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    ## Puslapis 441
-
-    K e t v i r t a
-    k n y g a
-    APIE LIETUVIŲ PRAEITĮ,
-    KAI VALDĖ ŽYGIMANTAS I KĘSTUTAITIS
-    Ž y g im a n ta s
-    K ąstu -
-    ta itis
-    ta m
-    tik ro m is
-    są ly g o m is ta m p a  Lie-
-    1432 m e ta i
-    Karaliaus pasiuntiniai ne­
-    daug vargo, kol įtikino Žygi­
-    mantą sutikti su reikalavi­
-    mais, kuriuos jam kėlė val-
-    tu v o s d id žiu o ju  ku n i-
-    dovas bei valstybė.
-    Argi
-    sys rodė, jog jis sąžiningai laikysis duoto žodžio. Tuo
-    visi buvo įsitikinę. Priesaika patvirtinto susitarimo pag­
-    rindiniai teiginiai buvo šie: turi būti amžinai laikomasi
-    senojo Lietuvos susitarimo su Lenkija, tai yra unijos;
-    Žygimantas niekad nesistengs be karaliaus ir karalystės
-    luomų žinios bei pritarimo gauti karaliaus titulo ir iš­
-    rūpinti sau karališkąsias insignijas; savo įpėdiniu jis
-    numatysiąs ir paskirsiąs ne ką kitą kaip karalių; jo sūnus
-    Mykolas, Trakų bei Starodubo kunigaikštis, privaląs
-    pasitenkinti šiomis žemėmis ir visada pripažinti kara­
-    liaus teises; Žygimantui mirus, Volynė turinti būti pri­
-    jungta prie Lenkijos karalystės; jeigu Mykolas mirtų
-    nesulaukęs sūnaus, visos teisės į Trakų bei Starodubo
-    kunigaikštystę atiteksią karaliui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196306"></a>
+- t-003
+  global_id: t-196306
+  teiginys: "Lenkijos senatas nutarė skubiai siųsti į Lietuvą pasiuntinybę pas Žygimantą."
   pagrindžia:
-    - t-001
+    - c-169047
 
-- c-002
-  santrauka: 'Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėlto lėmė ne jo, o blaiviau galvojan­
-    čių žmonių nuomonė. Valstybės ištarme buvo įsakyta
-    Liudvikui kaip priešui kartu su savo draugais kuo
-    greičiausiai išsinešdinti iš Lietuvos. Turėjo tylėti ir
-    Jurgis, nenorėdamas patirti didesnių nemalonumų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196307"></a>
+- t-004
+  global_id: t-196307
+  teiginys: "Priesaika patvirtintame susitarime Žygimantas įsipareigojo laikytis Lietuvos ir Lenkijos unijos ir be karaliaus pritarimo nesiekti karaliaus titulo."
   pagrindžia:
-    - t-002
+    - c-178620
+
+<a id="claim-t-196308"></a>
+- t-005
+  global_id: t-196308
+  teiginys: "Vilniaus Stanislovo katedroje paskelbus popiežiaus raštą, Žygimantas ir Lietuvos Didžiosios Kunigaikštystės gyventojai atleisti nuo priesaikos Boleslovui."
+  pagrindžia:
+    - c-169048
 
 ## Citatos
 
@@ -132,28 +89,65 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    ## Puslapis 441
+    Nugalėtojas turėjo gauti atlyginimą, pažadėtą kara­
+    liaus ir valstybės vardu, ypač dėl to, kad pasiuntiniai
+    davė iškilmingą pažadą, jog Žygimantas visada pripa-
+    žinsiąs karaliaus valdžią ir paliausiąs kariauti tik ta­
+    da, kai galutinai sutriuškinsiąs Boleslovą. Atidėlioti šį
+    reikalą būtų buvę pavojinga,
+    K araliau s p a siu n tin ia i
+    mat prasidėjus naujiems ne-
+    a tv y k s ta
+    p a s Ž y g i-
+    ramumams, dažnai pačios ap-
+    m a n tą
+    linkybės tramdo vienos šalies
+    siekimus, tačiau skatina ki­
+    tos. Kadangi reikėjo skubėti, senatas ir nutarė išsiųsti
+    į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių
+    vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą
+    Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino,
+    Lauryną Zarembą ir kitus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185686
+    - t-196306
 
-    K e t v i r t a
-    k n y g a
-    APIE LIETUVIŲ PRAEITĮ,
-    KAI VALDĖ ŽYGIMANTAS I KĘSTUTAITIS
-    Ž y g im a n ta s
-    K ąstu -
-    ta itis
-    ta m
-    tik ro m is
-    są ly g o m is ta m p a  Lie-
-    1432 m e ta i
-    Karaliaus pasiuntiniai ne­
-    daug vargo, kol įtikino Žygi­
-    mantą sutikti su reikalavi­
-    mais, kuriuos jam kėlė val-
-    tu v o s d id žiu o ju  ku n i-
-    dovas bei valstybė.
-    Argi
-    sys rodė, jog jis sąžiningai laikysis duoto žodžio. Tuo
-    visi buvo įsitikinę. Priesaika patvirtinto susitarimo pag­
+- id: c-169048
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Stanislovo katedroje
+    Vilniuje paskelbė susirinku­
+    siems žmonėms popiežiaus raštą, kuriuo Žygimantas bei
+    visi Lietuvos Didžiosios Kunigaikštystės gyventojai
+    buvo atleidžiami nuo priesaikos, prieš metus duotos
+    Boleslovui. Tada Žygimantas pagal senus papročius
+    buvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­
+    keltas į sostą, į dešinę jam įteikiant apnuogintą ka­
+    laviją, kurį buvo atsiuntęs karalius. Dėl šių iškilmių
+    didžiai susikrimto Liudvikas, Toninės komtūras, kuris
+    su trimis savo draugais, kryžiuočių ordino riteriais, gy­
+    veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš
+    tikrųjų uoliai eidamas žvalgo pareigas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185687
+    - t-196308
+
+- id: c-178620
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Priesaika patvirtinto susitarimo pag­
     rindiniai teiginiai buvo šie: turi būti amžinai laikomasi
     senojo Lietuvos susitarimo su Lenkija, tai yra unijos;
     Žygimantas niekad nesistengs be karaliaus ir karalystės
@@ -165,28 +159,23 @@ Nenurodyta
     liaus teises; Žygimantui mirus, Volynė turinti būti pri­
     jungta prie Lenkijos karalystės; jeigu Mykolas mirtų
     nesulaukęs sūnaus, visos teisės į Trakų bei Starodubo
-    kunigaikštystę atiteksią karaliui.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185686
+    kunigaikštystę atiteksią karaliui. Šios sąlygos, pritarus
+    Žygimantui, didikams ir bajorams, buvo įtrauktos į vals­
+    tybinius
+    aktus,
+    deramai patvirtintos parašais bei
+    g a ik ščiu
+    sunku žadėti, kai trokšti val­
+    džios? Visas Žygimanto elge-
+    4 4 3
 
-- id: c-169048
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 442"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 442."
-  citata_originali: |
-    Vis dėlto lėmė ne jo, o blaiviau galvojan­
-    čių žmonių nuomonė. Valstybės ištarme buvo įsakyta
-    Liudvikui kaip priešui kartu su savo draugais kuo
-    greičiausiai išsinešdinti iš Lietuvos. Turėjo tylėti ir
-    Jurgis, nenorėdamas patirti didesnių nemalonumų.
+    antspaudais ir grąžintos kara-
+    Krokuvos
+    vyskupas
+    liaus pasiuntiniams.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185687
+    - t-196307

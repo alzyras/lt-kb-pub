@@ -41,7 +41,6 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
 - susijęs iš [[objektai/asmenys/Chadžibėjus Girėjus.md#claim-t-186190|Chadžibėjus Girėjus]]: Chadžibėjus Girėjus buvo vienas iš trijų kunigaikščių, vedusių į tris dalis padalytą kariuomenę prie Mėlynųjų Vandenų.
 - susijęs iš [[objektai/asmenys/Dimitras sultanas.md#claim-t-186196|Dimitras sultanas]]: Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dalis padalytą kariuomenę prie Mėlynųjų Vandenų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -66,8 +65,7 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
 - id: c-169591
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 219."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pražygiavęs Kanevą ir Čerka­
     sus, jis priėjo vietą, kurią žmonės vadina Mėlynaisiais
@@ -75,7 +73,10 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
     šas. Didžiulę į tris dalis padalytą kariuomenę vedė
     trys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus
     Girėjus ir Dimitras sultanas. Buvo aišku, jog jie ge­
-    rai pasirengę mūšiui ir negaišdami stos į kovą.
+    rai pasirengę mūšiui ir negaišdami stos į kovą. Todėl
+    Algirdas įsakė kariuomenei sustoti ir pasirengti kau­
+    tynėms.
+  citata_rodoma: "Pražygiavęs Kanevą ir Čerka­\nsus, jis priėjo vietą, kurią žmonės vadina Mėlynaisiais\nVandenimis, čia bekraštėje lygumoje pasirodė ir prie­\nšas. Didžiulę į tris dalis padalytą kariuomenę vedė\ntrys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus\nGirėjus ir Dimitras sultanas. Buvo aišku, jog jie ge­\nrai pasirengę mūšiui ir negaišdami stos į kovą."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

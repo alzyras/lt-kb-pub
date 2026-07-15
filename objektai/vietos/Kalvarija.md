@@ -44,27 +44,6 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 - susijęs iš Šiluva: Nuo 1958 m. sovietų valdžia ribojo atlaidų lankymą Šiluvoje, blokuodama miestelį neva dėl „kiaulių maro“.
 - susijęs iš [[objektai/zodynas/atšilimas.md#claim-t-22059|atšilimas]]: 1958 m. „atšilimas“ baigėsi, o valdžia pradėjo kovą su religija mokymo įstaigose, draudė skambinti varpais ir ribojo atlaidų lankymą.
 - susijęs iš [[objektai/zodynas/neutralitetas.md#claim-t-106804|neutralitetas]]: Po nesėkmingų Kalvarijos derybų lenkai apskundė Lietuvą Tautų Sąjungai, kaltindami ją sulaužius neutralitetą rusų ir lenkų kare.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkelta į Kauną.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visa tai buvo daroma rusiškajam gaivalui su-
-    stiprinti.
-
-    Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir
-    Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkel-
-    ta į Kauną. Uždarytų mokyklų vietoje veltui buvo bandomos
-    kurti rusiškos mokyklos: jos neturėdavo mokinių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-166418

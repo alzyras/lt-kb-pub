@@ -51,24 +51,6 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
 - susijęs iš [[objektai/grupes/Savickiai.md#claim-t-86823|Savickiai]]: Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams.
 - susijęs iš Šv. Jono Akademijos Spaustuvės kronika: 1547 m. Jonas Hozijus pardavė sklypą ir mūrinį namą, kuriame buvo spaustuvė, Sebastijonui Vitinskiui.
 - susijęs iš Dievo Kūno koplyčia: 1610 m. Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, 25 metų činšą paskirdamas Dievo Kūno koplyčiai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1583 m. Savickių Kristupui Zalivskiui parduota valda vėliau iš Zalivskių atiteko Neliubovičiams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1583. Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių
-    atiteko Neliubovičiams.
-    1607. Jonas Neliubovičius mūrinį namą su sklypu par­
-    davė Vilniaus kanauninkui Vilčiopolskiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82793

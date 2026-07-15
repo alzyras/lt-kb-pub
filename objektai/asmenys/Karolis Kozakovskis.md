@@ -9,14 +9,14 @@ datos:
   - '1840 m.'
 date_start: '1838'
 date_end: '1840'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -70,26 +70,6 @@ Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir
 - susijęs iš [[objektai/ivykiai/Ukmergės pilkapio atkasimas Karolio Kozakovskio.md#claim-t-192044|Ukmergės pilkapio atkasimas Karolio Kozakovskio]]: 1838 m. Karolis Kozakovskis atkasė Ukmergės pilkapį.
 - susijęs iš [[objektai/asmenys/Juozapas Pomarnackis.md#claim-t-190166|Juozapas Pomarnackis]]: Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių kapinyno kasinėjimus.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir apdegusių daiktų liekanų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Per daugelį metų taip išaugdavo pil­
-    kapiai. Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Ko-
-    zakovskis, duoda pagrindo tuo tikėti. Tas pilkapis ilgus melus
-    buvo užlietas greta esančio ežero, bet, kai neseniai ta vieta buvo
-    nusausinta ir buvo atlikti kasinėjimai, paaiškėjo, jog pilkapis ply­
-    tėjo ant didžiulės duobės, kuri beveik visa buvo pilna pelenų ir
-    apdegusių daiktų liekanų .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Karolis Kozakovskis 1840 m. sausio 27 d. iš Kurėnų pateikė informaciją ir atsiuntė daug iškasenų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -105,58 +85,12 @@ Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Karolis Kozakovskis vykdė Obelių kapinyno kasinėjimus, kurių aprašymas pasiekė Teodorą Narbutą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie Obelių
-    kapinyno kasinėjimus T. Narbutas sužinojo 1840
-    metų pradžioje iš Juozapo Pomarnackio. Pastara­
-    jam tarpininkaujant, istoriko senienų rinkiniai pa­
-    sipildė Obelių radiniais. T. Narbuto rankas pasie­
-    kė ir šių kasinėjimų, kuriuos vykdė tenykštis dvari­
-    ninkas Karolis Kozakovskis (Kozakowski), aprašy­
-    mas. „Kasinėjau tik dvi dienas, -  rašė K. Kozakov­
-    skis J. Pomarnackiui, -  radau daugybę daiktų, ku­
-    riuos padovanojau maršalkai Žageliui, maršalkai
-    Sesickiui, Mazovijos vaivadijos gubernatoriui gra­
-    fui Pranciškui Potockiui į jo įdomų numizmatikos
-    ir senovės daiktų kabinetą; taip pat nusiunčiau į
-    Lvovą, į Osolinskių muziejų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, po kuriuo rasta didelė pelenų ir apdegusių daiktų liekanų pilna duobė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Per daugelį metų taip išaugdavo pilka­
-    piai. Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-
-    kovskis, duoda pagrindo tuo tikėti. Tas pilkapis ilgus metus buvo
-    užlietas greta esančio ežero, bet, kai neseniai ta vieta buvo nu­
-    sausinta ir buvo atlikti kasinėjimai, paaiškėjo, jog pilkapis plytėjo
-    ant didžiulės duobės, kuri beveik visa buvo pilna pelenų ir ap­
-    degusių daiktų liekanų2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-172955
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 376"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 376."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Per daugelį metų taip išaugdavo pil­
     kapiai. Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Ko-
@@ -175,12 +109,17 @@ Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir
 - id: c-172956
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 376"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 376."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    9 Pono Kozakovskio 1840 metų sausio 27 dienos informacija iš
-    Kurėnų. Taip pat atsiuntė ir daug iškasenų. Didesnę dalį jis atidavė
-    Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*.
+    Vienas sveikas, kitas sudaužytas,
+    rasti žemės paviršiuje, yra taip nugludinti, lyg su šlifavimo ma­
+    šina, o tas, kuris rastas pilkapyje, dėl akmens dūlėjimo turi
+    šiurkštų paviršių. Tai palikimas seniausių šios žemės gyvento­
+    jų, kurie dar nemokėjo naudoti geležies. Vilniaus akademijos
+    mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens,
+    šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę
+    rasti Lydos apskrityje.
+  citata_rodoma: "9 Pono Kozakovskio 1840 metų sausio 27 dienos informacija iš\nKurėnų. Taip pat atsiuntė ir daug iškasenų. Didesnę dalį jis atidavė\nLvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -191,8 +130,7 @@ Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir
 - id: c-172957
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 503"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 503."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie Obelių
     kapinyno kasinėjimus T. Narbutas sužinojo 1840
@@ -201,8 +139,8 @@ Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir
     sipildė Obelių radiniais. T. Narbuto rankas pasie­
     kė ir šių kasinėjimų, kuriuos vykdė tenykštis dvari­
     ninkas Karolis Kozakovskis (Kozakowski), aprašy­
-    mas. „Kasinėjau tik dvi dienas, -  rašė K. Kozakov­
-    skis J. Pomarnackiui, -  radau daugybę daiktų, ku­
+    mas. „Kasinėjau tik dvi dienas, - rašė K. Kozakov­
+    skis J. Pomarnackiui, - radau daugybę daiktų, ku­
     riuos padovanojau maršalkai Žageliui, maršalkai
     Sesickiui, Mazovijos vaivadijos gubernatoriui gra­
     fui Pranciškui Potockiui į jo įdomų numizmatikos
@@ -218,8 +156,7 @@ Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir
 - id: c-173784
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 504"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 504."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Per daugelį metų taip išaugdavo pilka­
     piai. Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-

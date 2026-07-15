@@ -66,6 +66,7 @@ Vietinė etninė bendruomenė.
   teiginys: "Dotnavos gudai nuo vietinių skyrėsi kalba ir būdu."
   pagrindžia:
     - c-177933
+
 ## Citatos
 
 - id: c-177933

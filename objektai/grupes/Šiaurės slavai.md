@@ -51,7 +51,6 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
     - c-177004
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-188349|Slavai]]: Narbutas rašė, kad šiaurės slavai nimfas vadino rusalkomis dėl rusvų arba šviesiai pilkų plaukų.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus triznos apeigų papročius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -92,43 +91,22 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Dėl to susiklostė nuomonė, kad šventasis Steponas išra dęs šį raidyną XI amžiuje, bet reikia patikslinti, kad jis jį su tvarkė pagal rusų abėcėlę ir ėmė rašyti šiaurės slavų tarme, idant čiabuviai galėtų suprasti iš rašto Dievo tiesas, kurias, ma tyt, jau.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
-    biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų
-    sušvelninti rūsčią tautą, aistringai mylinčią savo tėvynę.
-    Dėl to susiklostė nuomonė, kad šventasis Steponas išra­
-    dęs šį raidyną XI amžiuje, bet reikia patikslinti, kad jis jį su­
-    tvarkė pagal rusų abėcėlę ir ėmė rašyti šiaurės slavų tarme,
-    idant čiabuviai galėtų suprasti iš rašto Dievo tiesas, kurias, ma­
-    tyt, jau pažino. Mat jeigu biarmiečiai nebūtų turėję savo rai­
-    dyno, nebūtų buvę reikalo išradinėti naujo, turint rankose ir
-    slavišką raštą, ir knygas, kurių kalba ir ten buvo vietinė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-172372
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 368"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuvoje gyveno garsi
-    Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
-    gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
-    apeigų paprotį, kiekviena tauta kitonišką.
-    Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­
-    lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
-    kuriose vietose žmonos apverkdavo vyrus prie pačių kapų.
+    O tai, autoriaus žodžiais tariant, turėjo būti velnias. Nepai­
+    sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
+    Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
+    ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
+    gų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių.
+  citata_rodoma: "Lietuvoje gyveno garsi\nTriznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-\ngardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos\napeigų paprotį, kiekviena tauta kitonišką.\nŽmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­\nlėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai\nkuriose vietose žmonos apverkdavo vyrus prie pačių kapų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -139,18 +117,30 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
 - id: c-172373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 434"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tuo tarpu apsiribosime pasa­
-    kydami štai ką.
-    Biarmiai, arba permiai, kalba slavų rusų arba rusų kalba,
-    bet turi savitą tos kalbos tarme; yra papročių ir fizionomijos
-    skirtumų, kurie šiuose žmonėse leidžia įžiūrėti atskirą didelės
-    šiaurės slavų šeimos šaką. Matoma, kad jie apsigyveno toli­
-    muose Siaurės Europos rytuose seniausiai, kai tik slavų gen­
-    ties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­
-    kios varginančios ir ilgos žiemos.
+    VI priedas
+    Apie lietuvių kalbą
+    Aprašius religiją, papročius, prietarus ir daugelį kitų smul­
+    kesnių dalykų, susijusių su lietuvių tautos gyvenimu senovėje,
+    baigiant šį senovės istorijos tomą, dera pakalbėti apie lietuvių
+    kalbą tam, kad labiau priartėtume prie tų tyrimo objektų, iš
+    kurių būtų galima išvesti tautos istorijos pradžią: jos kilmę,
+    protėvių klajones iš vienos stovyklos į kitą, pastovų apsigyve­
+    nimą, giminystę su kitomis tautomis ir pagausėjimą slenkant
+    amžiams. Ne be pagrindo tyrėjai sugalvojo susekti seniausią
+    tautų istoriją iš jų gimtosios kalbos, nes rezultatas dažniausiai
+    apvainikuodavo jų pastangas visiškai naujais, iki šiol visiškai
+    nežinomais ir visiškai tikrais atradimais. Nesigilinsime į tų at­
+    radimų smulkmenas, kaip teko su jais padirbėti; neturime nė
+    tikslo mėgdžioti etimologinius išvedžiojimus, kaip tik gana pa­
+    plitusius, kadangi visam laikui pasirinkome savo pačių atrastą
+    kelią, kuriame neturi būti vietos etimologinėms išmonėms, pri­
+    temptoms daiktų ir žodžių panašybėmis, išskyrus tik tas, ku­
+    rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
+    daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
+    tymo.
+  citata_rodoma: "Tuo tarpu apsiribosime pasa­\nkydami štai ką.\nBiarmiai, arba permiai, kalba slavų rusų arba rusų kalba,\nbet turi savitą tos kalbos tarme; yra papročių ir fizionomijos\nskirtumų, kurie šiuose žmonėse leidžia įžiūrėti atskirą didelės\nšiaurės slavų šeimos šaką. Matoma, kad jie apsigyveno toli­\nmuose Siaurės Europos rytuose seniausiai, kai tik slavų gen­\nties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­\nkios varginančios ir ilgos žiemos."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -161,8 +151,7 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
 - id: c-177004
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 435"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
     biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų

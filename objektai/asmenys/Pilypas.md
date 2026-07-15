@@ -8,15 +8,15 @@ datos:
   - '1324 m.'
 date_start: '1324'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - valdovas
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,7 +57,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184611|fogtas]]: Sembos vyskupystės fogtas Pilypas fon Bolandas pasinaudojo Vytenio sušauktu luomų pasitarimu ir nusiaubė pasienio kaimiečius.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184889|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1324 m. grafas Pilypas iš Španheimo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -66,9 +65,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
     iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei
     ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė
     prieš tikėjimo priešus, nes ledas buvo plonas.
-
-
-
 
        349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
   citata_rodoma: ''
@@ -79,52 +75,28 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: '358 m. pr. Kr. Pilypo valdoma Makedonija, anot Narbuto, didino politinę įtaką Graikijoje, kurią pajuto su graikų kolonistais susijusios Skitijos tautos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Jiems giminin­
-    gi trakai taip pat IV amžiuje prieš Kristaus giminių
-    prasibrovė nuo Dunojaus pusės j Skitiją ir gal ilgam
-    būtų įkūrę ten savo valstybę, jei 390 metais nebūtų buvę
-    sutriuškinti galų. Vėliau, 358 metais prieš Kristaus gi­
-    mimą, ėmė didėti politinė įtaka karaliaus Pilypo valdo­
-    mos Makedonijos, kurios galia Graikijos atžvilgiu iškilo
-    iki tokio lygio, jog Skitijos tautos, turėjusios glaudžius
-    ryšius su tenykščiais graikų kolonistais, pajuto nemažą
-    įtaką. Tačiau jie pakentė tai neilgai, nes istorijoje ran­
-    dame prisiminimų apie skitų genčių susidūrimą su Pi­
-    lypo sūnumi ir įpėdiniu Aleksandru; kaunantis Sapiriono
-    vadovaujama kariuomenė prarado 30 000 karių1, bet bu­
-    vo priversta prašyti Aleksandro taikos ir santarvės, o
-    vėliau, kai pagarsėjo šaunus šio monarcho žygis į Aziją,
-    skitai taip ir liko priklausomi nuo Makedonijos galybės
-    ir buvo tolydžio puldinėjami Uždonės tautų2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-61042
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 219."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
-    iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei
-    ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė
-    prieš tikėjimo priešus, nes ledas buvo plonas.
-
-
-
-
-       349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
+    356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
+    čionių 1324 metais
+    Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą,
+    įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo, bei to paties
+    miesto gyventojų, du legatus, būtent: Baltramiejų, Aleto vyskupą, ir Bernardą, švento
+    Benedikto ordino švento Teofrido vienuolyno abatą Le Piui vyskupystėje, pakrikštyti
+    lietuvių ir rusų karaliaus. Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto,
+    šventės (rugsėjo 22) atvyko į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo
+    karaliaus bei jo valdinių iš vienos pusės ir tarp krikščionių iš kitos ir apaštališkojo sosto
+    valia pasiūlė tvirtai jos laikytis, pridurdami, kad toji šalis, kuri lengvapėdiškai pažeisianti
+    šį susitarimą, kuri sakysianti tokius žodžius ar darysianti tokius veiksmus, griebsiantisi
+    tokių sumanymų ar darbų, kurie galėtų trukdyti šiam susitarimui ar jį vilkinti, būsianti
+    dėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,
+    tik apaštališkasis sostas, prie kurio jie patys per tris mėnesius turėsią prisistatyti,
+    kad atvykę deramai pataisytų tai, kas atsitiko.
   citata_rodoma: "1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,\niš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei\nginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė\nprieš tikėjimo priešus, nes ledas buvo plonas.\n\n\n\n\n   349 (342)."
   statusas: verified
   teiginio_tipas: faktas
@@ -136,8 +108,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - id: c-173831
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 58."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jiems giminin­
     gi trakai taip pat IV amžiuje prieš Kristaus giminių

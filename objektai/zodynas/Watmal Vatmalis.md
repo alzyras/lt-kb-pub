@@ -35,8 +35,8 @@ Dusburgietis teigia, kad jis buvo pramintas Vatmaliu nuo vilnonių drabužių, v
   teiginys: "Hartmanas iš Grumbacho buvo pramintas Vatmaliu dėl vilnonių drabužių, vadintų Watmal, kuriuos įsakė išduoti broliams."
   pagrindžia:
     - c-59562
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hartmanas iš Grumbacho buvo pramintas Vatmaliu dėl vilnonių drabužių, vadintų Watmal, kuriuos įsakė išduoti broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,15 +60,19 @@ Dusburgietis teigia, kad jis buvo pramintas Vatmaliu nuo vilnonių drabužių, v
 - id: c-59562
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 111"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie brolį Harimaną, Prūsijos magistrą
-
-       Brolis Hartmanas iš Grumbacho, penktas Prūsijos žemės magistras, vadovavo trejus
-    metus342. Šitokią pravardę jis gavo dėl to, kad iš tikro buvo kietas vyras. Žodis Hartmann
-    reiškia kietą vyrą. Jis buvo pramintas Vatmaliu nuo vilnonių drabužių, vadina mų Watmal,
-    kuriuos įsakė išduoti broliams.
+    Pastačius šią pilį, jai
+    saugoti ten buvo palikta Prūsijos ir Livonijos brolių bei ginklanešių įgula, sudaryta iš
+    vyrų, tinkamai parinktų ir įgudusių kovoti.
+    84 (81). Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
+    nių
+    1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis
+    kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo
+    prie šios pilies, atvyko pasiuntinys, pranešdamas, kad keturi tūkstančiai lietuvių
+    342 Krašto magistras buvo nuo 1259 m. gegužės mėn. iki 1261 m. lapkričio
+    mėn.
+  citata_rodoma: "Apie brolį Harimaną, Prūsijos magistrą\n\n   Brolis Hartmanas iš Grumbacho, penktas Prūsijos žemės magistras, vadovavo trejus\nmetus342. Šitokią pravardę jis gavo dėl to, kad iš tikro buvo kietas vyras. Žodis Hartmann\nreiškia kietą vyrą. Jis buvo pramintas Vatmaliu nuo vilnonių drabužių, vadina mų Watmal,\nkuriuos įsakė išduoti broliams."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

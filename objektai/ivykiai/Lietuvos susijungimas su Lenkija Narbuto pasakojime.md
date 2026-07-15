@@ -48,8 +48,8 @@ Nenurodyta
   teiginys: "Narbuto vertinimu, susijungusi su Lenkija Lietuva atsisakė nepriklausomybės, neteko išorinės gynybos ir tapo niokojančių karų grobiu."
   pagrindžia:
     - c-173949
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto vertinimu, susijungusi su Lenkija Lietuva atsisakė nepriklausomybės, neteko išorinės gynybos ir tapo niokojančių karų grobiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -82,19 +82,19 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Lietuva, susijungusi
-    30
-
-    ## Puslapis 30
-
-    su Lenkija, savanoriškai atsisakė savo nepriklausomybės,
-    pateko į lenkų bevaldystės sąmyšį, kuris atėmė iš jos
-    išorinę gynybą ir sumažino reikšmę kaimyninėse šalyse.,
-    padarė ją niokojančių karų grobiu. Žlugo sustiprintos
-    tvirtovės, pati sostinė kelissyk sudegė arba buvo nusiaub­
-    ta; viešieji archyvai sunyko arba blogai saugomi nukentė­
-    jo, bažnyčios ir krikščioniškosios minties šventovės ne-
-    išsaugojo šių lobių.
+    Nepaneigiama tiesa tai, kad šis
+    istorikas būtų buvęs laimingesnis, jei būtų panorėjęs ap­
+    siriboti tik senienų ir rankraščių, kurių daugelį turėjo po
+    ranka, rinkėjo šlove; bet, nelaimei, jis įsigeidė istorijos,
+    suskirstytos į knygas ir skyrius, kurių priekyje įdėtų sa­
+    vo rėmėjų vardus. Užsikrovęs šią ne pagal savo jėgas
+    naštą, mūsų garbingasis pirmtakas skubėjo be menkiau­
+    sios kritikos, be atsargumo su datomis, palyginimo, da­
+    lyko nagrinėjimo, ir skubėjo pagrįstai: jau nedaug metų
+    jam buvo skirta gyventi. Tačiau jis nesuskubo įgyvendin­
+    ti visų savo ketinimų. Iš tikrųjų jis negailėjo darbo, bet
+    nemokėjo juo laimingai naudotis.
+  citata_rodoma: "Lietuva, susijungusi\n30\n\n## Puslapis 30\n\nsu Lenkija, savanoriškai atsisakė savo nepriklausomybės,\npateko į lenkų bevaldystės sąmyšį, kuris atėmė iš jos\nišorinę gynybą ir sumažino reikšmę kaimyninėse šalyse.,\npadarė ją niokojančių karų grobiu. Žlugo sustiprintos\ntvirtovės, pati sostinė kelissyk sudegė arba buvo nusiaub­\nta; viešieji archyvai sunyko arba blogai saugomi nukentė­\njo, bažnyčios ir krikščioniškosios minties šventovės ne-\nišsaugojo šių lobių."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

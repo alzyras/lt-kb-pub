@@ -55,35 +55,12 @@ Nenurodyta
 - susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-81904|Ignacas Onacevičius]]: Ignacas Onacevičius pateikė pastabų, kuriomis M. Balinskis rėmėsi taisydamas žygio į Vilnių aprašymą.
 - susijęs iš [[objektai/autoriai/Ignas Danilavičius.md#claim-t-188404|Ignas Danilavičius]]: Ignotas Danilavičius dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas krašto praeities studijomis.
 - susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-188409|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas istorija.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Išsamesnėms krašto praeities studijoms istoriką galė­
-    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
-    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
-    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
-    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
-    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
-    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
-    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
-    kus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-170854
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Išsamesnėms krašto praeities studijoms istoriką galė­
     jo paskatinti pusbrolio Justino parašyta nedidelė knygelė

@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-’ Opatovas — Lenkijos Kielcų vaivadijos miestas (apie 30 km j vakarus nuo Zavichosto ir Vislos, 130 km su viršum | šiaurės rytus nuo Krokuvos).
+Vislica viduramžiais buvo viena iš Mažosios Lenkijos bajorų suvažiavimų vietų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -46,32 +46,9 @@ Nenurodyta
 <a id="claim-t-194080"></a>
 - t-001
   global_id: t-194080
-  teiginys: "’ Opatovas — Lenkijos Kielcų vaivadijos miestas (apie 30 km j vakarus nuo Zavichosto ir Vislos, 130 km su viršum | šiaurės rytus nuo Krokuvos)."
+  teiginys: 'Vislica viduramžiais buvo viena iš Mažosios Lenkijos bajorų suvažiavimų vietų.'
   pagrindžia:
     - c-176693
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '’ Opatovas — Lenkijos Kielcų vaivadijos miestas (apie 30 km j vakarus nuo Zavichosto ir Vislos, 130 km su viršum | šiaurės rytus nuo Krokuvos).'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    ’ Opatovas — Lenkijos Kielcų vaivadijos miestas (apie 30 km
-    j vakarus nuo Zavichosto ir Vislos, 130 km su viršum | šiaurės
-    rytus nuo Krokuvos).
-    2 4 0
-
-    ## Puslapis 233
-
-    *  Vlsllca — Lenkijos Kielcų vaivadijos miestas (apie 60 km
-    j šiaurės rytus nuo Krokuvos!; viduramžiais buvo viena iš Mažo­
-    sios Lenkijos bajorų suvažiavimų vielų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -90,9 +67,9 @@ Nenurodyta
     *  Vlsllca — Lenkijos Kielcų vaivadijos miestas (apie 60 km
     j šiaurės rytus nuo Krokuvos!; viduramžiais buvo viena iš Mažo­
     sios Lenkijos bajorų suvažiavimų vielų.
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194080
+    - t-001

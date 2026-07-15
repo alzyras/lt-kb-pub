@@ -36,23 +36,6 @@ LDK kariuomenė turėjo daug sunkumų su karo vadais (kitaip nei Lenkijos kariuo
   teiginys: "Juzefas Poniatovskis vadovavo Lenkijos kariuomenei Ukrainoje."
   pagrindžia:
     - c-21804
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    dar per 40 tūkst. karių. LDK kariuomenė turėjo daug sunkumų su karo
-    vadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juze-
-    fas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino
-    prie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos. Iš
-    72 pabūklų ji prarado tik septynis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

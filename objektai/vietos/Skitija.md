@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją. Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra.
+Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją. Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra. Taip Darijus buvo priverstas greitai pereiti visą Skitiją, persikelti per to kias dideles upes kaip Dnestras, Būgas, Dnepras ir Donecas.
 
 ## Teiginiai
 
@@ -43,9 +43,16 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   teiginys: "Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra."
   pagrindžia:
     - c-175531
+
+<a id="claim-t-197929"></a>
+- t-003
+  global_id: t-197929
+  teiginys: "Taip Darijus buvo priverstas greitai pereiti visą Skitiją, persikelti per to kias dideles upes kaip Dnestras, Būgas, Dnepras ir Donecas."
+  pagrindžia:
+    - c-179405
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190875|Herodotas]]: Teodoro Narbuto pasakojime Herodotas Skitijoje teiravosi apie gintaringas vietas, o boristeniečiai jam minėjo šiaurės vakarų jūrą.
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190878|Herodotas]]: Narbutas spėjo, kad Herodotas keliaudamas po Skitiją lankėsi šioje vietoje ir ieškojo žinių apie šiaurines jūras, alavą bei gintarą.
-- susijęs iš [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.).md#claim-t-185572|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]: Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, kuris jį paskelbė teisėtu valdovu ir pasiryžo sugrąžinti į valdžią.
+- susijęs iš [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.).md#claim-t-185572|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]: Kojelavičiaus pasakojime žuvus Tochtamyšui Jerim Berdis pabėgo pas Vytautą, kuris jį paskelbė teisėtu valdovu ir žadėjo grąžinti į valdžią.
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190709|Herodotas]]: Herodotas minėjo prie Juodosios jūros buvus Gelono miestą, netoli prekyvietėmis garsėjusios Dioskūrijos.
 - susijęs iš [[objektai/grupes/Graikai.md#claim-t-192405|Graikai]]: Narbutas rašo, kad graikų kolonijos suklestėjo tuo metu, kai jos užgožė žlungančius skitus.
 - susijęs iš [[objektai/grupes/Skiriai.md#claim-t-192935|Skiriai]]: Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitijoje ir Žemutinėje Mezijoje, vadovaujami Kandako.
@@ -61,7 +68,6 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190878|Herodotas]]: Narbutas spėjo, kad Herodotas keliaudamas po Skitiją lankėsi šioje vietoje ir ieškojo žinių apie šiaurines jūras, alavą bei gintarą.
 - susijęs iš [[objektai/asmenys/Kandaksas.md#claim-t-191287|Kandaksas]]: Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam vadovaujant šios gentys kūrėsi Mažojoje Skitijoje ir žemutinėje Mezijoje.
 - susijęs iš [[objektai/asmenys/Pilypas.md#claim-t-190949|Pilypas]]: 358 m. pr. Kr. Pilypo valdoma Makedonija, anot Narbuto, didino politinę įtaką Graikijoje, kurią pajuto su graikų kolonistais susijusios Skitijos tautos.
-- susijęs iš [[objektai/asmenys/Višnioveckis.md#claim-t-186170|Višnioveckis]]: Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir išvežė juos į Skitiją.
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190713|Herodotas]]: Teodoro Narbuto pasakojime Herodotas, keliaudamas po Skitiją, teiravosi boristeniečių apie gintaringas vietas.
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190716|Herodotas]]: Teodoro Narbuto manymu, Herodotas keliaudamas po Skitiją turėjo lankytis Kankinėje.
 - susijęs iš [[objektai/grupes/Skiriai.md#claim-t-192935|Skiriai]]: Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitijoje ir Žemutinėje Mezijoje, vadovaujami Kandako.
@@ -76,9 +82,7 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192487|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas svarbiausia gelonų ir budinų pasitraukimo nuo Dono priežastimi laiko sarmatų bei kitų Pavolgio tautų plitimą į Skitiją apie 80 m. pr. Kr.
 - susijęs iš Herodoto istorija: Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, nors jis ją laikė nepakankamai išdėstyta.
 - susijęs iš Pantikapėja: Narbuto aiškinime Pantikapėjos vardas Skitijos geografijoje galėjo žymėti ne vieną upę ar vietovę, nes Kerčė stovėjo ant Pantikapėjos griuvėsių.
-- susijęs iš Valachija: Švitrigaila, siekdamas pataisyti pakrikusius reikalus, pasikvietė samdininkų iš Valachijos ir Skitijos.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185338|skitai]]: Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.
-- susijęs iš [[objektai/zodynas/skitai.md#claim-t-185342|skitai]]: Priešas, neįveikęs pilies, apiplėšė apylinkę ir patraukė į Skitiją.
 - susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191008|Darijaus žygis prieš skitus]]: Darijaus žygio metu persų kariuomenė, skitams traukiantis, perėjo Skitiją ir persikėlė per Dnestrą, Būgą, Dneprą bei Donecą.
 - susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192040|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbuto aiškinimu, svarbiausia gelonų ir budinų pasitraukimo priežastis buvo sarmatų ir kitų Pavolgio tautų plitimas į dešiniosios Dono pakrantės Skitiją.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-190842|Aleksandras]]: Narbutas rašo, kad po susidūrimo su Pilypo sūnumi Aleksandru skitų kariuomenė neteko 30 000 karių ir prašė Aleksandro taikos.
@@ -87,8 +91,8 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - susijęs iš [[objektai/asmenys/Eichvaldas.md#claim-t-191390|Eichvaldas]]: Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį prieš skitus ir jame Darijaus žygio vietą siejo su Polese.
 - susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191097|Plinijus Vyresnysis]]: Narbutas nurodė, kad Plinijus minėjo Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių.
 - susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190959|Plinijus]]: Narbutas nurodė, kad Plinijus minėjo Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių.
-- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-184846|Treniota]]: Treniota nedelsdamas griebėsi ginklo, siekdamas narsa ir sėkme nenusileisti savo tėvui.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184878|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas paskelbė Jerim Berdį teisėtu valdovu ir pasiryžo jį paremti grąžinant į valdžią.
+- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-184846|Treniota]]: Treniota apžiūrėjo lietuvių karius, kvietė sąjungininkų pulkus iš šiaurinės Rusios ir ilgai dvejojo, kur vesti kariuomenę.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184878|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas iškilmingai paskelbė Jerim Berdį teisėtu valdovu ir pasiryžo jį paremti grąžinant į valdžią.
 - susijęs iš [[objektai/autoriai/Hekatėjas.md#claim-t-191609|Hekatėjas]]: Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykščių genčių kalba turėjęs reikšti sukrešėjusią arba užšąlančią jūrą.
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190706|Herodotas]]: Herodotas iš dalies aprašė skitų įpročius, papročius ir religiją.
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190709|Herodotas]]: Herodotas minėjo prie Juodosios jūros buvus Gelono miestą, netoli prekyvietėmis garsėjusios Dioskūrijos.
@@ -99,7 +103,7 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - susijęs iš [[objektai/grupes/Graikai.md#claim-t-192405|Graikai]]: Narbutas rašo, kad graikų kolonijos suklestėjo tuo metu, kai jos užgožė žlungančius skitus.
 - susijęs iš [[objektai/grupes/Keltai.md#claim-t-192985|Keltai]]: Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovės Šiaurės Europos tautoms.
 - susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-192456|Skandinavai]]: Narbutas darė prielaidą, kad dalis žmonių iš Šiaurės Azijos per Lapiją galėjo patekti į Skandinaviją, Švediją ir Norvegiją.
-- susijęs iš [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.).md#claim-t-185572|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]: Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, kuris jį paskelbė teisėtu valdovu ir pasiryžo sugrąžinti į valdžią.
+- susijęs iš [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.).md#claim-t-185572|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]: Kojelavičiaus pasakojime žuvus Tochtamyšui Jerim Berdis pabėgo pas Vytautą, kuris jį paskelbė teisėtu valdovu ir žadėjo grąžinti į valdžią.
 - susijęs iš [[objektai/ivykiai/Skitų susidūrimas su Aleksandro pajėgomis.md#claim-t-191074|Skitų susidūrimas su Aleksandro pajėgomis]]: Narbutas pasakoja, kad Sapiriono vadovaujama skitų kariuomenė, praradusi 30 000 karių, buvo priversta prašyti Aleksandro taikos ir santarvės.
 - susijęs iš [[objektai/ivykiai/Trakų sutriuškinimas galų 390 m. prieš Kristaus gimimą.md#claim-t-191871|Trakų sutriuškinimas galų 390 m. prieš Kristaus gimimą]]: Narbutas rašo, kad IV a. pr. Kr. trakai nuo Dunojaus prasibrovė į Skitiją ir 390 m. pr. Kr. buvo sutriuškinti galų.
 - susijęs iš [[objektai/paprociai/Skitų svetingumas ir taikūs prekybiniai santykiai.md#claim-t-193018|Skitų svetingumas ir taikūs prekybiniai santykiai]]: Pasak Narbuto, skitai dėl svetingumo priimdavo kitų tautų pirklius ir bičiuliškai sugyveno su kaimyninėmis tautomis.
@@ -110,65 +114,20 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - susijęs iš Dnepras: Narbutas pasakoja, kad Herodotui Padneprės graikų kolonistai sakę, jog gintaras juos pasiekdavęs iš šiaurės vakarų jūros.
 - susijęs iš Kerčės tvirtovė: Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių.
 - susijęs iš Pripetė: Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus.
-- susijęs iš Psiolas: Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio persikėlė per Psiolo ir Sulos upes.
-- susijęs iš [[objektai/asmenys/Višnioveckis.md#claim-t-186170|Višnioveckis]]: Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir išvežė juos į Skitiją.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185338|skitai]]: Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.
 - susijęs iš [[objektai/asmenys/Kandaksas.md#claim-t-191287|Kandaksas]]: Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam vadovaujant šios gentys kūrėsi Mažojoje Skitijoje ir žemutinėje Mezijoje.
 - susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191867|Darijaus žygis prieš skitus]]: Narbuto pasakojimu, Darijus siekė pasiekti tolimiausias Skitijos sritis, bet jo kariuomenė patyrė didelių nuostolių ir traukėsi tuo pačiu keliu.
 - susijęs iš [[objektai/posakiai/Visiškai tikra yra tai, jog Lietuva tuo pačiu kaip ir dabar vardu jau buvo žinoma romėnams.md#claim-t-192123|Visiškai tikra yra tai, jog Lietuva tuo pačiu kaip ir dabar vardu jau buvo žinoma romėnams]]: Narbutas cituoja Tadą Volianskį, teigusį, kad Lietuva tuo pačiu vardu romėnams buvo žinoma jau senovėje.
 - susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191945|Darijus]]: Narbutas rašė, kad Darijaus amžiuje gelonų-budinų krašte žemdirbystė buvo aukšto lygio ir skatino graikų prekybą grūdais Juodojoje jūroje.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184878|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas paskelbė Jerim Berdį teisėtu valdovu ir pasiryžo jį paremti grąžinant į valdžią.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184878|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas iškilmingai paskelbė Jerim Berdį teisėtu valdovu ir pasiryžo jį paremti grąžinant į valdžią.
 - susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192040|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbuto aiškinimu, svarbiausia gelonų ir budinų pasitraukimo priežastis buvo sarmatų ir kitų Pavolgio tautų plitimas į dešiniosios Dono pakrantės Skitiją.
 - susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192487|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas svarbiausia gelonų ir budinų pasitraukimo nuo Dono priežastimi laiko sarmatų bei kitų Pavolgio tautų plitimą į Skitiją apie 80 m. pr. Kr.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Todėl ir Jerim Berdį iškilmingai paskelbė
-    teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
-    norėjęs tik pasityčioti, iškilmingai suteikdamas nieko
-    nereiškiantį titulą, pasiryžo visaip jį paremti ir sugrą­
-    žinti į valdžią. Jis įsakė Lietuvos maršalui Mikalojui
-    Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo­
-    menę ir su ja palydėti Jerim Berdį į Skitiją. Vykdyda­
-    mas šį įsakymą, Radvila ir patraukė į skitų kraštą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Priartinus mūsų tyrimus prie
-    geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
-    tėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi
-    apie gintaringas vietas; boristeniečiai, ariba Padneprės
-    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
-    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
-    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
-    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-168635
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 397"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Todėl ir Jerim Berdį iškilmingai paskelbė
     teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
@@ -188,8 +147,7 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - id: c-175531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 150"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Priartinus mūsų tyrimus prie
     geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
@@ -205,6 +163,32 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192761
+
+- id: c-179405
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Kadangi priešo būriai buvo narsūs ir puikiai gink­
+    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
+    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
+    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
+    jo nesuskaičiuojamų atsargų našta. Taip Darijus buvo
+    priverstas greitai pereiti visą Skitiją, persikelti per to­
+    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
+    cas. Antra vertus, persų karalius, pasak Herodoto, savo
+    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
+    čio tarytum padėjo skitams įgyvendinti jų ketinimus. Jo
+    brolis Artabanas veltui stengėsi įrodyti, kad nenaudinga
+    aukoti septynissyk šimtatūkstantinę armiją nepažįstamam,
+    visiškai nusiaubtam ir sausringam kraštui, kur visko la­
+    bai stigo, o tai buvo pavojingiau negu priešo ginklai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197929
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Herodotas]], [[objektai/asmenys/Jerim Berdis]]

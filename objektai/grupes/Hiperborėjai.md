@@ -43,36 +43,12 @@ Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams
 - susijęs iš [[objektai/daiktai/Gintaras.md#claim-t-192494|Gintaras]]: Narbutas pritaria Kocebui, kuris gintarą vadino saulės akmeniu ir sunkiai atskleidžiama gamtos mįsle.
 - susijęs iš [[objektai/posakiai/poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai.md#claim-t-192120|poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai]]: Narbutas šį mitologinį vaizdinį pateikia kaip artėjantį prie tiesos, kalbėdamas apie gintaro kilmę.
 - susijęs iš Mažoji Azija: Narbutas aiškina, kad gentis iš Mažosios Azijos per Juodosios ir Viduržemio jūrų pakrantes pateko į Europą ir davė pradžią pelazgams.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams žinomus Tolimosios Šiaurės gyventojus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Apie šį sausumos iškilimą
-    dar kalbėsime ir pateiksime kai kurių įrodymų; čia tik
-    paminėsime seniausius šios ašigalių zonos gyventojus.
-    Senovės graikai, anot senųjų amžių padavimų, turėjo
-    žinių apie Tolimojoje Šiaurėje gyvenusius žmones, ku­
-    riuos jie vadino hiperborėjais nuo jų gyvenamosios vie­
-    tos reikšmės pavadinimo. Žiloje senovėje Borėjas buvęs
-    šiaurės krašto valdovas2, o už jo valstybės būta dar šiau­
-    resnių gyventojų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175742
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 37"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 37."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Apie šį sausumos iškilimą
     dar kalbėsime ir pateiksime kai kurių įrodymų; čia tik

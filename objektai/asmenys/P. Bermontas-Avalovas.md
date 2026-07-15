@@ -50,46 +50,6 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
   teiginys: "P. Bermontas-Avalovas siekė nuversti bolševikus Rusijoje ir atkurti Rusijos imperiją, o jo pajėgos 1919 m. telkėsi Mintaujoje."
   pagrindžia:
     - c-42176
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Imai Provokiško Rusijos monarchisto P. Bermonto-Ava-
-    lovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos
-    imperiją, pajėgos, suformuotos iš vokiečių nelaisvėje
-
-    nuo Pirmojo pasaulinio karo likusių rusų karių ir vokie-
-    čių savanorių 1919 m., ėmė telktis Latvijoje, Mintaujoje.
-    Pagrindinės - plk. P. Bermonto tiesiogiai vadovauja-
-
-    mos pajėgos turėjo užimti Latviją, jam pavaldaus plk.
-    Virgoličiaus pajėgos turėjo užimti Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šių dalinių vadovybė nepripa-
-    žino Baltijos valstybių nepriklausomybės,
-    nes laikė šiuos kraštus neatskiriama Rusijos
-    dalimi. Bermontininkams, oficialiai pasiva-
-    dinusiems Rusijos vakarų armija, vadovavo
-    vokiečių remiamas buvęs carinės Rusijos
-    kariuomenės plk. P. Bermontas-Avalovas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

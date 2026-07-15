@@ -63,27 +63,6 @@ Nenurodyta
   teiginys: "1377 m. birželio pabaigoje Gotfridas Lindenas ir Redigeris Elneris su 12 000 žmonių sustojo prie Vilniaus."
   pagrindžia:
     - c-55659
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pra­
-    ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­
-    no didysis magistras pasiuntė užimti tą miestą Ordino
-    maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu
-    Elneriu. 12 000 žmonių vedini, pakeliui sudeginę Trakų mies­
-    tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti,
-    1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­
-    mis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo
-    senasis Algirdas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

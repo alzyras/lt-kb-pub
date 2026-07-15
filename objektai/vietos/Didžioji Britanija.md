@@ -10,13 +10,13 @@ datos:
   - '1977 m.'
 date_start: '1944'
 date_end: '1977'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - valstybė
   - vieta
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,25 +51,26 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
   teiginys: "Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lietuvos užsienio prekybą."
   pagrindžia:
     - c-24104
-
-<a id="claim-t-183589"></a>
-- t-003
-  global_id: t-183589
-  teiginys: "Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lietuvos užsienio prekybą."
-  pagrindžia:
     - c-166981
 
 <a id="claim-t-183590"></a>
-- t-004
+- t-003
   global_id: t-183590
   teiginys: "Po Antrojo pasaulinio karo dalis lietuvių tremtinių ir pabėgėlių pasuko į Didžiąją Britaniją, Kanadą ir Australiją."
   pagrindžia:
     - c-166982
 
 <a id="claim-t-192640"></a>
-- t-005
+- t-004
   global_id: t-192640
   teiginys: "Narbutas perteikia nuomonę, kad Pitėjas pirmąją kelionę atliko į Britaniją, o antrąją - į šiaurės rytus, kur atrado Baltijos salą."
+  pagrindžia:
+    - c-175410
+
+<a id="claim-t-197864"></a>
+- t-005
+  global_id: t-197864
+  teiginys: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
   pagrindžia:
     - c-175410
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77984|A. Smetona]]: 1919 m. rugsėjo 26 d. Kaune prezidentas A. Smetona iš balkono sveikino minias, susirinkusias dėl Didžiosios Britanijos de facto pripažinimo.
@@ -91,78 +92,6 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75545|de facto]]: 1919 m. rugsėjo 26 d. žinia apie Didžiosios Britanijos de facto pripažinimą Lietuvai sukėlė masines manifestacijas prie Kauno rotušės.
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75546|de facto]]: 1919 m. Lietuvą de facto pripažino Norvegija, Latvija ir Suomija, o 1920 m. - Prancūzija ir Lenkija.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    SSRS 1940 metų ultimatumas ir
-    sovietų okupacija
-    Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-
-    ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
-    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
-    kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
-    nopolizuoti Lietuvos užsienio prekybą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Didžiojoje Britanijoje ir kitose okupacijos nepripažinusiose šalyse.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1944 m. sausį A. Smetona žuvo Klivlande per gaisrą. Tad
-    lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi
-    Lietuvos diplomatinė tarnyba (LDT), Lietuvos valstybingumo simbolis, gy-
-    vavusi per visą sovietų okupacijos laikotarpį. Ji siekė išlaikyti Lietuvos vals-
-    tybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prie-
-    vartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.),
-    Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
-    Šveicarijoje, Vatikane.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lietuvos užsienio prekybą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sovietams kariaujant su Suomija Baltijos vals-
-    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
-    kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
-    nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą
-    pavėluota.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Po Antrojo pasaulinio karo dalis lietuvių tremtinių ir pabėgėlių pasuko į Didžiąją Britaniją, Kanadą ir Australiją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Baltijos valstybių ir Lenkijos pa-
-    bėgėlių bei tremtinių). Per trejus–ketverius metus į JAV pasisekė atvykti
-    visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
-    30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 - c-005
   santrauka: 'Narbutas perteikia nuomonę, kad Pitėjas pirmąją kelionę atliko į Britaniją, o antrąją - į šiaurės rytus, kur atrado Baltijos salą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -238,12 +167,10 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
     nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą
     pavėluota.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183589
-
 - id: c-166982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -263,8 +190,7 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
 - id: c-175410
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 335"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Graikai, ypač
     masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
@@ -274,10 +200,13 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
     Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
-    toliausiai Elbės žiotis.
+    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
+    tojas Strabonas daug ką jam priskyrė svetimo.
+  citata_rodoma: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir­\nmą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado \nBaltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar \ntoliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­\ntojas Strabonas daug ką jam priskyrė svetimo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192640
+    - t-197864

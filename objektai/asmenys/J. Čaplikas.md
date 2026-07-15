@@ -42,38 +42,6 @@ media_all_json: |-
   teiginys: "J. Čapliko pagrindinės pajėgos vakare priartėjo prie Augustavo."
   pagrindžia:
     - c-41970
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Viduriniosios kolonos 2-asis pėst. p. II bn. užima Skerskilą.
-    Sutemus vidurinioji kolona pasiekia Augustavo apylinkes.
-    Čapliko pagrindinės pajėgos vakare priartėja iki Augustavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Čaplikas puola Jestšembną, tai sustabdo len-
-    kus ir jis gali atsitraukti į Gruškų-Liepynės liniją.
-
-    Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos su-
-    naikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos
-    tęsia nevaisingą Suvalkų puolimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

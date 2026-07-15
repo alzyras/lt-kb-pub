@@ -95,62 +95,6 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 - susijęs iš Tverė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais.
 - susijęs iš Vorotinskas: Vorotinsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštystėse.
 - susijęs iš Mcenskas: Vytautui pasidavė Mcensko, Liubutsko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kitos Okos aukštupio kunigaikštijos.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1432 m. pradžioje derybos tarp lenkų
-    ir lietuvių strigo (tuo metu Jogaila sto-
-    vėjo Liubline, Švitrigaila su kryžiuo-
-    čių atstovais - Brastoje). Gegužės 15 d.
-
-    Skirsnemunėje Švitrigaila ir Ordinas
-    patvirtino prieš metus pasirašytą sutartį,
-    taip pat Švitrigaila sustiprino ryšius su
-    Naugardu, Pskovu, Mozūrija, Odojevo ir
-    Tverės kunigaikščiais. Tuo tarpu Jogailos
-    Lenkijos santykiai su Ordinu aštrėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ten jis žygiavo, norėdamas suvaldyti ne­
-    paklusnius jam Okos ir Dono aukštupių kunigaikščius, kurių
-    vienas kitas, kaip, pav., Odojevo, buvo nuo Vytauto atsimetę.
-    Vytautas ruošėsi gerai juos nubausti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Odojevo kunigaikštis buvo tarp Okos ir Dono aukštupių valdovų, atsimetusių nuo Vytauto.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Daug didesnį žygį sekančiais metais surengė Vytautas į
-    Maskvos apylinkes. Ten jis žygiavo, norėdamas suvaldyti ne­
-    paklusnius jam Okos ir Dono aukštupių kunigaikščius, kurių
-    vienas kitas, kaip, pav., Odojevo, buvo nuo Vytauto atsimetę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-76806
@@ -175,8 +119,8 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79893
     - t-79892
+    - t-79893
 
 - id: c-76807
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

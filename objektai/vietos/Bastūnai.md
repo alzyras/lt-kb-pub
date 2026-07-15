@@ -46,27 +46,6 @@ Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos 
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72032|Aukščiausioji Santarvininkių Taryba (institucija)]]: Suvalkų sutartis demarkacijos liniją Suvalkų krašte nustatė pagal 1919 m. gruodžio 8 d. Aukščiausiosios Santarvės Tarybos liniją.
 - susijęs iš [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas.md#claim-t-41365|Suvalkų derybos ir demarkacinės linijos nustatymas]]: Suvalkų derybose Lietuvos delegacija reikalavo laikinos demarkacijos linijos ir lenkų pajėgų atitraukimo už su Sovietų Rusija suderėtų sienų.
 - susijęs iš [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas.md#claim-t-41367|Suvalkų derybos ir demarkacinės linijos nustatymas]]: Spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Spalio 7 d. nustatyta demarkacinė linija ėjo palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lenkai su tuo nesutiko ir vilkino
-    derybas. Galiausiai spalio 7 d. buvo nusta-
-    tyta demarkacinė linija nuo Vokietijos sienos
-    iki Juodosios Ančios ir Nemuno santakos,
-    toliau - palei Vilniaus-Lydos geležinkelį iki
-    Bastūnų stoties. Varėnos ir Bastūnų stotys
-    liko lenkams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-43336

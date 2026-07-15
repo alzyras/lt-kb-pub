@@ -61,34 +61,6 @@ Nenurodyta
   teiginys: "Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą."
   pagrindžia:
     - c-42529
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    BE Bolševikų gynybinės pozicijos
-    iesteliai
-
-    Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio
-    ir jo apylinkių gyventojų įteikta vėliava. Vėliavą
-    įteikė Panevėžio lietuvių katalikių moterų draugija.
-    Ant vėliavos baltais šilkiniais siūlais išsiuvinėta:
-    „VALIO PANEVĖŽIO BATALIONAS. P. L. K. M. D. 1919. III. 25“
-
-    LIETUVIAI SUTINKA SAVO KARIUOMENĘ
-
-    2-ojo pėstininkų pulko I bataliono puskari-
-    ninkis Antanas Šukys prisimena bataliono su-
-    stojimą Pagirių kaime žygiuojant į Panevėžio
-    frontą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

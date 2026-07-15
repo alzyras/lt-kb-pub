@@ -57,28 +57,6 @@ Nenurodyta
     - c-22305
 - susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45329|1941 m. Birželio sukilimas (sukilimas)]]: Per 1941 m. Birželio sukilimą provincijos sukilėliai užimdavo vietos valdžios įstaigas ir suimdavo sovietų valdžios aktyvistus.
 - susijęs iš Vyskupo Kristijono kronika: Narbutas spėja, kad prūsų tautinės vėliavos runų užrašas galėjo būti senovinis dingusios vyskupo Kristijono kronikos užrašo vertimas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Nuo septintojo dešimtmečio iki okupacijos pabaigos neformalių jaunimo grupių nariai keldavo tautines vėliavas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Užsienyje gyvenantys lietuviai rengė minėjimus, leido knygas, statė pa-
-    minklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.
-    R. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino ne-
-    formalių jaunimo grupių judėjimą. Nuo septintojo dešimtmečio iki oku-
-    pacijos pabaigos veikė apie 70 tokių grupių, jų nariai platino prieš sovietų
-    santvarką nukreiptus atsišaukimus, keldavo tautines vėliavas, minėdavo
-    tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbo-
-    lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-22305

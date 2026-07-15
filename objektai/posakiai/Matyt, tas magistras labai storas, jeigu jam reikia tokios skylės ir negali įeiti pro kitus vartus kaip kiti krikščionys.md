@@ -35,44 +35,18 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
   teiginys: "Moteris pašiepė magistrą, kai šis į miestą įėjo tik išlaužus sienoje 30 uolekčių ilgio spragą."
   pagrindžia:
     - c-59761
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Moteris pašiepė magistrą, kai šis į miestą įėjo tik išlaužus sienoje 30 uolekčių ilgio spragą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
-    spraga. Tarė tada viena moteris: „Matyt, tas magistras labai storas, jeigu jam reikia
-    tokios skylės ir negali įeiti pro kitus vartus kaip kiti krikščionys”.
-
-
-
-
-                      17.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-59761
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 256"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
+    Magistras tol nekėlė kojos į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
     spraga. Tarė tada viena moteris: „Matyt, tas magistras labai storas, jeigu jam reikia
     tokios skylės ir negali įeiti pro kitus vartus kaip kiti krikščionys”.
-
-
-
-
-                      17.
+    17.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

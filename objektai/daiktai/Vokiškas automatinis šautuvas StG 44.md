@@ -61,27 +61,6 @@ Nenurodyta
   teiginys: "1941 metais JAV buvo sukonstruotas Garando šautuvas su šoviniu, mažesniu negu šautuvo, bet didesniu negu pistoleto."
   pagrindžia:
     - c-176461
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1941 metais JAV buvo sukonstruotas Garando šautuvas su šoviniu, mažesniu negu šautuvo, bet didesniu negu pistoleto.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1941 metais JAV buvo sukonstruotas Garando šau-
-    tuvas su šoviniu, mažesniu negu šautuvo, bet didesniu
-    negu pistoleto. Šiek tiek vėliau tarpinį šovinį ir skirtą jam
-    ginklą (stG 44), šaudantį serijomis, sukūrė vokiečių kons-
-    truktoriai. Daugelyje šalių ši ginklų klasė vadinama vo-
-    kišku terminu „šturmo karabinas“, Lietuvoje šis ginklas
-    dažniau vadinamas automatu (oficialiai automatiniu
-    šautuvu).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

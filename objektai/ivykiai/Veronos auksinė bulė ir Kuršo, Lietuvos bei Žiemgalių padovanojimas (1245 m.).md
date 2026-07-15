@@ -57,25 +57,6 @@ Nenurodyta
   teiginys: "Fridrichas II 1245 m. Veronoje duota auksine bule kryžiuočiams amžinai padovanojo Kuršą, Lietuvą ir Žiemgalius."
   pagrindžia:
     - c-33434
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Čia įsikūrę, kryžiuočiai iš gynimosi pozicijos perėjo
-    į daug sėkmingesnę ofenzyvą. Jiems Fridrichas II vadinamoje
-    _auksinėje bulėje_ , duotoje Veronoje 1245 m., amžinai padovanojo
-    Kuršą, Lietuvą ir Žiemgalius.
-    Dar nuo savo dešimtmečių veiklos Palestinoje kryžiuočių or­
-    dinas naudojosi dideliu vokiečių kunigaikščių palankumu ir ypatinga
-    Romos kurijos globa.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

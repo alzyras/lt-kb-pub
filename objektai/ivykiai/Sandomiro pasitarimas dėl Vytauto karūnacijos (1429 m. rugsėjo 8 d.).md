@@ -58,22 +58,6 @@ Nenurodyta
   teiginys: "Sandomiro suvažiavime Olesnickis pasiūlė Vytautui Jogailos karūną, tačiau abejojama, ar tam pritarė Jogaila."
   pagrindžia:
     - c-37046
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­
-    siūlė Vytautui Jogailos karūną^2 ). Toks sumanymas, matyt, bu­
-    vo priimtas paskutiniame Sandomiriaus suvažiavime. Ar tas
-    sumanymas buvo priimtas pritariant Jogailai, kyla abejonių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

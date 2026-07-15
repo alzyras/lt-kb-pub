@@ -51,22 +51,6 @@ Grekov, B. D. i Jakubov ­ skij, A. J. : Zolotaja Orda i ee padenije, Moskva-Len
   teiginys: "A. J. Jakubovskij su B. D. Grekovu parašė veikalą „Zolotaja Orda i ee padenije“, išleistą Maskvoje ir Leningrade 1950 m."
   pagrindžia:
     - c-55069
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    —Filevič, I. L. : _Bor’ba Pol’ši i Litvy-Rusi za Galicko-
-    Vladimirskoje nasledije,_ Peterburg 1890. — Grekov, B. D. i Jakubov _­_
-    skij, A. J. : _Zolotaja Orda i ee padenije,_ Moskva-Leningrad 1950 (plati
-    bibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
@@ -86,3 +70,4 @@ Grekov, B. D. i Jakubov ­ skij, A. J. : Zolotaja Orda i ee padenije, Moskva-Len
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54121
+    - t-54122

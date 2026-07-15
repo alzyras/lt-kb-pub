@@ -45,26 +45,6 @@ media_all_json: |-
   teiginys: "1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė 1200 savo raitelių ir bendromis pastangomis su lenkais ties Frankfurtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino valdų."
   pagrindžia:
     - c-45043
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą
-    Aldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-
-    mieru. 1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė
-    1200 savo raitelių ir bendromis pastangomis su lenkais ties Frank-
-    furtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino
-    valdų.
-
-    apgulė miestą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

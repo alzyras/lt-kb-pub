@@ -67,54 +67,6 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
   teiginys: "Posakis „net nė šuo iš jūsų pusės su padėka neatsiliepė“ pavartotas priekaištaujant, kad adresatai neatsakė į pasiūlymus."
   pagrindžia:
     - c-78632
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    I  KNYGA
-    Dabar jūs pamatėte ir savo ausimis diena iš dienos girdi­
-    te, kokios naudos jūs visi netekote. Mūsų senoliai siuntė jums
-    savo pasiuntinius ir laiškus, atvėrė jums savo kraštą, [tačiau]
-    niekas iš jūsų neatvyko, net nė šuo iš jūsų pusės su padėka
-    neatsiliepė dėl tų pasiūlymų.
-    Tenegąsdina jus tai, kas anksčiau buvo rašyta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-002
-
-- c-002
-  santrauka: 'Posakis „net nė šuo iš jūsų pusės su padėka neatsiliepė“ pavartotas priekaištaujant, kad adresatai neatsakė į pasiūlymus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Intrent et exe­
-    ant secunJum, placitum omni turbatione procul mota quoJ
-    sposponJimus in kiis fiJe Jata quoJ ab omni iniusta petitio­
-    ne meorum subJitorum manebunt securi et exempti. Agricu-
-    lis nostrum regnum intranJi commoranJique volentibus da­
-    mus et concedimus ad decem annos colere libere absque censu et
-    58
-
-    ## Puslapis 75
-
-    I  KNYGA
-    Dabar jūs pamatėte ir savo ausimis diena iš dienos girdi­
-    te, kokios naudos jūs visi netekote. Mūsų senoliai siuntė jums
-    savo pasiuntinius ir laiškus, atvėrė jums savo kraštą, [tačiau]
-    niekas iš jūsų neatvyko, net nė šuo iš jūsų pusės su padėka
-    neatsiliepė dėl tų pasiūlymų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 

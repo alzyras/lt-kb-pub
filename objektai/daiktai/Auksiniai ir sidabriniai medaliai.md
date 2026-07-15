@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas auksinius ir sidabrinius medalius mini kaip įrodymus apie imperatoriaus Valuziano kovą su finais, galindais ir venedais.
+Narbutas auksinius ir sidabrinius medalius mini kaip įrodymus apie imperatoriaus Valuziano kovą su finais, galindais ir venedais. Šito įrodymų aptikta ant atrastų auksinių ir sidabri nių medalių1.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -49,8 +49,15 @@ Nenurodyta
   teiginys: "Narbutas auksinius ir sidabrinius medalius mini kaip įrodymus apie imperatoriaus Valuziano kovą su finais, galindais ir venedais."
   pagrindžia:
     - c-175779
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197562"></a>
+- t-002
+  global_id: t-197562
+  teiginys: "Šito įrodymų aptikta ant atrastų auksinių ir sidabri nių medalių1."
+  pagrindžia:
+    - c-179244
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas auksinius ir sidabrinius medalius mini kaip įrodymus apie imperatoriaus Valuziano kovą su finais, galindais ir venedais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -82,8 +89,7 @@ Nenurodyta
 - id: c-175779
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 299"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Esama
     neabejotinų įrodymų, nes,
@@ -98,10 +104,36 @@ Nenurodyta
     nių medalių1. Šie numizmatiniai užrašai nemini gotų,
     nes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­
     sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
-    tuose2.
+    tuose2. Be to, lietuvių gentys iš dviejų pusių turėjo ryšių
+    su romėnais, nes anksčiau rašėme, jog, atvykę iš gim­
+    tosios žemės ar nuo Rosės upės Ukrainos hirių pastip­
+    rinti, skiriai ir sudargai sudarė savo liaudies ginkluotą­
+    ' Valllant.
+  citata_rodoma: "Esama\nneabejotinų įrodymų, nes,\nvaldant\nimperatoriui\nGalui, apie 253 metus\njungtiniai finų,\ngalindų ir venedų būriai kariavo su imperatorium Valuzia-\nnu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­\nvino kaip vandalų, finų, galindų ir venedų nugalėto­\nją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­\nnių medalių1. Šie numizmatiniai užrašai nemini gotų,\nnes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­\nsią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­\ntuose2."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193009
+
+- id: c-179244
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Šito įrodymų aptikta ant atrastų auksinių ir sidabri­
+    nių medalių1. Šie numizmatiniai užrašai nemini gotų,
+    nes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­
+    sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
+    tuose2. Be to, lietuvių gentys iš dviejų pusių turėjo ryšių
+    su romėnais, nes anksčiau rašėme, jog, atvykę iš gim­
+    tosios žemės ar nuo Rosės upės Ukrainos hirių pastip­
+    rinti, skiriai ir sudargai sudarė savo liaudies ginkluotą­
+    ' Valllant.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197562

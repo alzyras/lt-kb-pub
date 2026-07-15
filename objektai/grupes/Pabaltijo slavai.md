@@ -9,14 +9,14 @@ datos:
   - '1475 m.'
 date_start: '1112'
 date_end: '1475'
+amziai:
+  - 'XII'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - grupe
-amziai:
-  - 'XII'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -71,42 +71,6 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
 - susijęs iš [[objektai/paprociai/Pabaltijo slavų Kurcho garbinimas.md#claim-t-193037|Pabaltijo slavų Kurcho garbinimas]]: Narbutas rašo, kad Pabaltijo slavai garbino Kurchą, kurį medaliono aprašymas vadino derliaus, vaisių ir daržininkystės dievuku.
 - susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-190980|Tadas Volianskis]]: Tadas Volianskis Narbutui pateikė numizmatinio radinio piešinį ir aprašė auksinį medalioną, jo siejamą su Samboru, vadintu Kurchu.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip diplomatinę kalbą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    O
-    tai yra toks pat užrašas kaip ir ant kai kurių romėniškų medalių;
-    jis reiškia IOVI OPTIMO MAXIMO. Taip pat kaip ir ant Vol-
-    gasto miesto globėjo Jurovito skydo, ant kurio radau tokį užra­
-    šą: „Tutori Volgastiensi, optimo maximo Jurowito“. Lotynų kal­
-    bą slavai venedai ir lietuviai vartojo kaip diplomatinę kalbą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Pasak Narbuto cituojamo Tado Volianskio, žąsis ant antspaudo priminė būrimą, kuriam Pabaltijo slavai naudojo žirgą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Antspaudą pri­
-    dėjo Smilginis (Szmilgin) 1475 metais. Kaip pastebėjo ponas
-    Tadas Volianskis, toji žąsis primena būrimą, kuriam Pabaltijo
-    slavai naudojo žirgą. J j vesdavo per kryžmai į žemę susmeigtas
-    ietis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Teodoro Narbuto pateiktame aprašyme Pabaltijo slavai taip pat garbino Kurchą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -158,8 +122,7 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
 - id: c-172346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 257"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 257."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O
     tai yra toks pat užrašas kaip ir ant kai kurių romėniškų medalių;
@@ -177,8 +140,7 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
 - id: c-172347
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 405"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 405."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Antspaudą pri­
     dėjo Smilginis (Szmilgin) 1475 metais. Kaip pastebėjo ponas
@@ -195,24 +157,17 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
 - id: c-175229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 487"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 487."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    92
-    92 /Ten pat/
-    Pabaltijo
-    slavai
-    taip
-    pat
-    garbino
-    Kurchą.
-    Ponas Tadas Vo­
-    lianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­
-    rašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1
-    lenkiška linija — 1/12 colio, 1 rusiška linija — 1/10 colio —
-    R. G.) ¡skersmens]. Jis skirtas Samborui, Pabaltijo slavų karaliu­
-    kui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo
-    Kurchas.
+    91 /Ten pat/
+    Ponas Tadas Volianskis suteikė mums numizmatinio radinio pie­
+    šinį su tokiu aprašymu: „Auksinis medalionas 1/3 colio skersmens,
+    priklausęs turtų ir lobių dievaičiui Pilvitui. Labai prašmatnūs šar­
+    vai ir šalmas, papuošti daugybe brangakmenių; aplink jį — spin­
+    duliuojantis vainikas. Iš abiejų pusių venedų runomis užrašytas
+    dievaičio (dievaitės) vardas, padalytas į dvi dalis: T rip M" K P
+    (skaityti atvirkščiai) •— PYLL—WIT.
+  citata_rodoma: "92\n92 /Ten pat/\nPabaltijo\nslavai\ntaip\npat\ngarbino\nKurchą.\nPonas Tadas Vo­\nlianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­\nrašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1\nlenkiška linija — 1/12 colio, 1 rusiška linija — 1/10 colio —\nR. G.) ¡skersmens]. Jis skirtas Samborui, Pabaltijo slavų karaliu­\nkui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo\nKurchas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -223,16 +178,20 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
 - id: c-176974
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 255"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 255."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pabaltijo slavai taip pat garbino Kurką. Ponas Tadas Vo-
-    lianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­
-    rašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1
-    lenkiška linija -1112 colio, 1 rusiška linija -1  ¡10 colio -  R. G.)
-    skersmens. Jis skirias Sambomi, Pabaltijo slavų karaliukui, der­
-    liaus, vaisių ir daržininkystės dievukui, kurio vardas buvo Kur­
-    kas.
+    Trečiasis radinys to paties asmens man duotas yra su tokiu
+    aprašymu: „Pakabutis toks, kaip ir Berlyno muziejuje, tačiau rai­
+    telis iš dešinės pusės, tuo tarpu pirmojo buvo iš kairės. Raidės
+    tos pačios“ (žiūrėk ten pat, piešinį 51) *.
+    Prūsai - didžiausi šio dievo garbintojai, kasmet, pasibai­
+    gus Didžiajai šventei, sudaužydavo tą stabą ir pasidarydavo
+    naują. Skaityk straipsnį „Šventės“. 3
+    33 Semel in anno colectis frugibus consvevemnt confingere et pro
+    deo colere, cui nomen Carcho imposuemnt (Jie turėjo paprotį kas­
+    met, nupjovus javus, pasidaryti stabą ir garbinti jį kaip dievą, kurį
+    vadino Kurku).
+  citata_rodoma: "Pabaltijo slavai taip pat garbino Kurką. Ponas Tadas Vo-\nlianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­\nrašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1\nlenkiška linija -1112 colio, 1 rusiška linija -1  ¡10 colio -  R. G.)\nskersmens. Jis skirias Sambomi, Pabaltijo slavų karaliukui, der­\nliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo Kur­\nkas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

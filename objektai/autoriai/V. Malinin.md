@@ -43,22 +43,6 @@ Malinin: Starec Eleazarova monastyrja Filofej, Kiev 1901, Priloženija 45p.).
   teiginys: "V. Malinin parašė 1901 m. Kijeve išleistą darbą „Starec Eleazarova monastyrja Filofej“."
   pagrindžia:
     - c-33174
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Žr. A. Lazar :** **_Maskva_** **-** **_treci Rim,_** **žur­
-    nale Božym Šlacham, 1948, 9-10 nr., 5-8 p. ; A. Ammann:** **_Abriß der ost­
-    slawischen Kirchengeschichte,_** **Wien 1950, 165p. (eit. iš V. Malinin:** **_Starec
-    Eleazarova monastyrja Filofej,_** **Kiev 1901, Priloženija 45p.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

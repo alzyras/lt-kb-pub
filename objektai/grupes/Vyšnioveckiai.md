@@ -60,31 +60,6 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-183484|tėvonija tėvų palikimas]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22336|tėvonija]]: Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1 skyrius •  S E N O J I  L I E T U VA
-    39
-    Lietuva stačiatikiškos Rusios erdvėse
-    Lietuvos valstybei užėmus senrusių žemes, tų žemių vieti-
-    ninkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę. Vėliau
-    iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų
-    LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai. Be to,
-    stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
-    gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
-    Alšėnų kunigaikščiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
-
 ## Citatos
 
 - id: c-166588
@@ -107,5 +82,5 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183201
     - t-20092
+    - t-183201

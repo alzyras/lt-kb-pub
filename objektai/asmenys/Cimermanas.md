@@ -47,24 +47,6 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
 - susijęs iš [[objektai/grupes/Savickiai.md#claim-t-86823|Savickiai]]: Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams.
 - susijęs iš [[objektai/grupes/Zalivskiai.md#claim-t-86836|Zalivskiai]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
 - susijęs iš Šv. Jono Akademijos Spaustuvės kronika: 1547 m. Jonas Hozijus pardavė sklypą ir mūrinį namą, kuriame buvo spaustuvė, Sebastijonui Vitinskiui.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1555. Radvila tą mūrinį namą ir sklypą dovanojo savo
-    gydytojui Cimermanui, o tą dovanojimą Karalius Žygiman­
-    tas Augustas patvirtino. Po Cimermano namas atiteko ma­
-    loningiesiems ponams Savickiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83624

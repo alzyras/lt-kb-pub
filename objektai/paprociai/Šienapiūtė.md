@@ -81,8 +81,8 @@ Nenurodyta
   teiginys: "Šienapiūtėje mergaitės grėbia, džiovina ir krauna šieną, vakare arkliai laikomi prie ugnies, o rytą su šienu siunčiamos namo."
   pagrindžia:
     - c-177770
-    - c-177774
     - c-177773
+    - c-177774
 
 <a id="claim-t-195361"></a>
 - t-004

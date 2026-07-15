@@ -41,25 +41,6 @@ Ašmintos km. Pagaršvio upelio šlaite MGB grupė apsupo partizanų bunkerį, k
   teiginys: "1947 m. liepos 17 d. Ašmintos kaime, Pagaršvio upelio šlaite, MGB grupė apsupo bunkerį su 7 Birutės ir Geležinio Vilko rinktinės partizanais."
   pagrindžia:
     - c-40325
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1947 m. liepos 17 d. Ašmintos kaime, Pagaršvio upelio šlaite, MGB grupė apsupo bunkerį su 7 Birutės ir Geležinio Vilko rinktinės partizanais.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Staliorių, Rugienių
-
-    X AŠMINTOS SUSISPROGDINIMAS
-
-    1947 m. liepos 17 d. Prienų aps. Ašmintos km. Pagaršvio upelio šlaite MGB grupė apsupo
-    partizanų bunkerį, kuriame slėpėsi 7 Birutės ir Geležinio Vilko rinktinės partizanai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

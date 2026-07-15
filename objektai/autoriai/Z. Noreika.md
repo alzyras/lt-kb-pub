@@ -44,29 +44,12 @@ Dusburgietis teigia, kad noreika ir V.
     - c-61456
 - susijęs iš [[objektai/autoriai/V. Stravinskas.md#claim-t-60805|V. Stravinskas]]: V. Stravinskas kartu su Z. Noreika parengė Lietuvos TSR administracinio-teritorinio suskirstymo žinyno antrąją dalį.
 - susijęs iš Lietuvos TSR administracinio-teritorinio suskirstymo Žinynas Parengė Z. Noreika ir V. Stravinskas: Z. Noreikos ir V. Stravinsko parengto „Lietuvos TSR administracinio-teritorinio suskirstymo žinyno“ antra dalis išleista Vilniuje 1976 m.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Z. Noreika kartu su V. Stravinsku parengė Lietuvos TSR administracinio-teritorinio suskirstymo žinyno antrąją dalį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvos TSR administracinio-teritorinio suskirstymo Žinynas / Parengė Z. Noreika ir
-    V. Stravinskas.— D. 2 — V., 1976.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-61456
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lietuvos TSR administracinio-teritorinio suskirstymo Žinynas / Parengė Z. Noreika ir
     V. Stravinskas.— D. 2 — V., 1976.

@@ -72,34 +72,6 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
 - susijęs iš Vilnius: Sapiegų etmonas, iždininkas ir maršalas po nakvynės Vilniuje iš tikrųjų pasitraukė į Kuršą, Bauskę ir Mintaują.
 - susijęs iš Voluinė: Višnioveckiai telkė Bresto vaivadijos bajoriją, pasitelkdami šalininkus, tarnus ir rekrūtus iš savo dvarų Voluinėje.
 - susijęs iš [[objektai/zodynas/etatiniai vienetai.md#claim-t-42450|etatiniai vienetai]]: Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Priėmusi nutarimą respubli-
-    konų kariuomenė nužygiavo į Vilnių, kur
-    Šnipiškių priemiestyje įrengtoje stovykloje,
-
-    vykdant Valkininkų nutarimą, buvo iš
-    esmės suformuota nauja LDK kariuomenė -
-    7500 etatinių vienetų. Išsireikalavusi iš
-    Vilniaus miesto kontribuciją, respublikonų
-    kariuomenė iš sostinės pasitraukė į naujas
-    dislokavimo vietas.
-
-    Valkininkų mūšis galutinai sugriovė
-    Sapiegų hegemoniją Lietuvoje, užbaigė nuo
-
-    1700 m. lapkričio 18 d. VALKININKŲ MUSIS 139
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-44839
@@ -129,6 +101,3 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41123
-
-## Ryšiai
-- Respublikonai keliavo į [[objektai/vietos/Vilnius]]

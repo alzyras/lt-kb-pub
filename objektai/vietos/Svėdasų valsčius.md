@@ -41,25 +41,6 @@ Svėdasų valsčiuje, Šimonių girioje.
   teiginys: "1949 m. lapkričio 1–2 d. Svėdasų valsčiuje, Šimonių girioje, MGB vidaus kariuomenė vykdė karines-čekistines operacijas."
   pagrindžia:
     - c-40364
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Priešo pajėgos
-
-    1949 m. lapkričio 1-2 dienomis MGB vidaus
-    kariuomenės 137-0jo, 298-ojo šaulių pulkų
-    kareivių pajėgomis buvo vykdomos ka-
-    rinės-čekistinės operacijos Kupiškio aps.
-    Svėdasų valsčiuje, Šimonių girioje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

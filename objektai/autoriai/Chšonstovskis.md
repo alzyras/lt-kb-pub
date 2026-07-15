@@ -42,32 +42,6 @@ Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veik
   teiginys: "Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veikalas)."
   pagrindžia:
     - c-84068
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    69
-    Perlas paimtas iš pranašo Habukuko ir
-    Kalėdoms dovanotas Jonui Hlebavičiui.
-    Spausdinta Vilniuje pas Joną Karca-
-    ną, 1583, in 4to, 54 p. (Chšonstov-
-    skio veikalas). Pagaliau platesnių
-    bibliografinių žinių apie rečiausius
-    Vilniaus leidinius skaitytojas atras
-    296
-
-    ## Puslapis 313
-
-    297
-    K o fc io l S r?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

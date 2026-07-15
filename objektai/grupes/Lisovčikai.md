@@ -35,28 +35,6 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
   teiginys: "J. K. Chodkevičius pasiuntė kelias raitarų ir lisovčikų vėliavas į kontrataką prieš janičarus."
   pagrindžia:
     - c-44805
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. K. Chodkevičius pasiuntė kelias raitarų ir lisovčikų vėliavas į kontrataką prieš janičarus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    J. K. Chodkevičius pasiuntė ke-
-    lias raitarų ir „lisovčikų“ vėliavas
-    į kontrataką. Staigus puolimas
-    sukėlė paniką janičarų gretose.
-    Bėgantį priešą pradėjo vytis ir
-    kazokai, kurie, įsiveržę į turkų ar-
-    tilerijos baterijų pozicijas, išžudė
-    jų tarnybas ir sugadino pabūk-
-    lus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

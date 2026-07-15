@@ -32,36 +32,10 @@ Zundas šiame gabale įtrauktas į vietovardžių rodyklę.
 <a id="claim-t-192914"></a>
 - t-001
   global_id: t-192914
-  teiginys: "Narbutas teigė, kad germanų tautų valtys išplaukdavo toliau už Zundą ir nugabendavo prekes į Okeano pakrančių miestus."
+  teiginys: 'Narbutas teigė, kad germanų tautų valtys išplaukdavo toliau už Zundą ir nugabendavo prekes į Okeano pakrančių miestus.'
   pagrindžia:
     - c-175684
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas teigė, kad germanų tautų valtys išplaukdavo toliau už Zundą ir nugabendavo prekes į Okeano pakrančių miestus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    168
-
-    ## Puslapis 166
-
-    vimo vietą, kur buvęs patogus ir visais atžvilgiais sve-
-    limšaliams saugus uostas; juo buvęs senovės Druso mies­
-    tas, esantis netoli dabartinio Elbliongo. Tuo keliu prekes
-    gabeno ir masiliečiai, Nėra nė mažiausių abejonių, jog ger­
-    manų tautų valtys išplaukdavo toliau Zundo ir nugaben­
-    davo savo prekių į Okeano pakrančių miestus (§ 157).
-    'tacitas, užsiminęs apie sveonus, pateikia žinių, kad jie
-    turėjo daug didelių laivų1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175684
@@ -86,4 +60,4 @@ Zundas šiame gabale įtrauktas į vietovardžių rodyklę.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192914
+    - t-001

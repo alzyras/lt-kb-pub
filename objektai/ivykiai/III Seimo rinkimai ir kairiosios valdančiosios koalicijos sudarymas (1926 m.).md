@@ -85,49 +85,6 @@ Nenurodyta
   teiginys: "1926 m. birželį naują valdančiąją koaliciją pirmą kartą suformavo kairė: valstiečiai liaudininkai ir socialdemokratai."
   pagrindžia:
     - c-22939
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Bolševikų diktatūra
-    SSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje,
-    perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
-    gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
-    visus, nepatenkintus Seimo valdymu („seimokratija“). O čia dar po kie-
-    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
-    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
-    laimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
-    valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
-    tinių mažumų atstovai Seime.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-    - t-001
-
-- c-002
-  santrauka: '1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo po trejų metų valdymo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O čia dar po kie-
-    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
-    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
-    laimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
-    valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
-    tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
-    lyderis Kazys Grinius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -152,9 +109,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-45334
     - t-45336
     - t-45337
-    - t-45334
 
 - id: c-48202
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

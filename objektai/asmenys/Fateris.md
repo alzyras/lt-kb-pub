@@ -24,7 +24,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusinų, latviškai vadinamų krieviais.
+Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusinų, latviškai vadinamų krieviais. Fateris po ranka turėjo istorijos šaltinius, kurie bylojo, kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo papasakoti ir daugiau smulkmenų.
 
 ## Teiginiai
 
@@ -34,43 +34,41 @@ Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusi
   teiginys: "Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusinų, latviškai vadinamų krieviais."
   pagrindžia:
     - c-173005
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusinų, latviškai vadinamų krieviais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tad nedera ir
-    jų palikti be dėmesio.
-    Dusburgiečio kronikos žinia apie krivį, pasak Faterio (ci­
-    tuota vieta), „paremta veikiau nesusipratimu, kilusiu iš to, kad
-    taip vadinosi rusinai, dar iki šiol latviškai vadinami krieviais“.
-    Šį priekaištą vos galima suprasti5.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197394"></a>
+- t-002
+  global_id: t-197394
+  teiginys: "Fateris po ranka turėjo istorijos šaltinius, kurie bylojo, kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo papasakoti ir daugiau smulkmenų."
   pagrindžia:
-    - t-001
+    - c-173005
 
 ## Citatos
 
 - id: c-173005
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 419"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 419."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tad nedera ir
-    jų palikti be dėmesio.
-    Dusburgiečio kronikos žinia apie krivį, pasak Faterio (ci­
-    tuota vieta), „paremta veikiau nesusipratimu, kilusiu iš to, kad
-    taip vadinosi rusinai, dar iki šiol latviškai vadinami krieviais“.
-    Šį priekaištą vos galima suprasti5.
+    Taigi, jei tiek Prūsijoje, tiek ir
+    Lietuvoje buvo Romovė arba daug tokių šventovių, jei iš tik­
+    rųjų krivūlė Prūsų Lietuvoje dar iki šiol neužmiršta, tai ar gali
+    būti didžiai sunku patikėti, kad krivis galėjo atsirasti ir tuose
+    kraštuose ikidusburginiais laikais? O kodėl apie krivį nieko
+    nemini Henrikas Latvis, rašęs apie Livoniją, apie šalį, kurią
+    krivis valdė? Būtų galima manyti, kad Livonijoje nebūta jokio
+    krivio pėdsako; net galima tvirtinti, kad Dusburgietis, klysda­
+    mas, jog Prūsijos krivio valdžia buvo taip labai paplitusi, tuo
+    labiau norėjo matyti Livoniją klausančią jo įsakymų, kuo la­
+    biau stiprėjo ir įgavo didesnę reikšmę jo lyginimas su popie­
+    žiumi; žinoma, galima būtų tiesiog prisipažinti, kad joks Prū­
+    7 Atvirkščiai, Strijkovskis apie tai rašo daugiau už prūsų ir latvių
+    kroninininkus, nes jis po ranka turėjo istorijos šaltinius, kurie bylojo,
+    kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo pa­
+    pasakoti ir daugiau smulkmenų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190122
+    - t-197394

@@ -58,27 +58,6 @@ Nenurodyta
   teiginys: "1394 m. vasaros žygyje į Lietuvos gilumą dalyvavo svečiai iš Vakarų Europos ir Burgundijos hercogas Pilypas su 200 šaulių."
   pagrindžia:
     - c-37066
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1394 m. vasaros žygyje į Lietuvos gilumą dalyvavo svečiai iš Vakarų Europos ir Burgundijos hercogas Pilypas su 200 šaulių.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ypatingai garsus žygis buvo suruoštas tų pačių metų vasarą^3 ),
-    Į tą žygį, kaip paprastai, atvyko nemaža svečių iš Vakarų Eu­
-    ropos. Dalyvavo net ir Burgundijos hercogas Pilypas su 200
-    šaulių. Visa kariuomenė susėdo į laivus ir atplaukė į Lietu­
-    vos gilumą. Pasiekę Vytauto per antrą pabėgimą sugriautą
-    Rittersverderio pilį, pradėjo ją atstatyti. Bet tuo laiku prisi­
-    artino su didele kariuomene Vytautas ir staiga užpuolė priešus,
-    atstatančius pilį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

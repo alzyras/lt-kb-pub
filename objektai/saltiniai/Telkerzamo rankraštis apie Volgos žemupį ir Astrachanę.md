@@ -41,37 +41,13 @@ Narbutas rašo, kad 1811 m. rankose laikė vokišką Telkerzamo rankraštį apie
   teiginys: "Narbutas rašo, kad 1811 m. rankose laikė vokišką Telkerzamo rankraštį apie Volgos žemupį ir Astrachanės apylinkes."
   pagrindžia:
     - c-174699
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad 1811 m. rankose laikė vokišką Telkerzamo rankraštį apie Volgos žemupį ir Astrachanės apylinkes.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kitaip buvo vadinama Rhoas7, tariama
-    Rhos, Ross, Russ, taip pat ir kalbant apie Volgos pava­
-    dinimą. 1811 metais teko laikyti rankose vokiečių kalba
-    parašytą rankraštį su antrašte „Topografiniai ir statis­
-    tiniai Volgos žemupio ir Astrachanės apylinkių stebėji­
-    mai, inžinieriaus generolo majoro Telkerzamo surinkti jo
-    ilgo buvimo Rusijos imperijos pietryčiuose**** metu.
-    Ten užtikau įvairius šios upės ir jos šakų pavadinimus,
-    sužinotus iš vietos gyventojų, Pakubanės kolonistų ir įvai­
-    1 Majewski.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-174699
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 66."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kitaip buvo vadinama Rhoas7, tariama
     Rhos, Ross, Russ, taip pat ir kalbant apie Volgos pava­

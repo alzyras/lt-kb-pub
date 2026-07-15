@@ -41,21 +41,6 @@ Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantm
   teiginys: "Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio veidas."
   pagrindžia:
     - c-176398
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio veidas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio
-    veidas. Sud. A. Aleksandravičius. Vilnius, 2009; Lietuvos istorija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

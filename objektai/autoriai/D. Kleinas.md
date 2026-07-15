@@ -43,20 +43,6 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
   teiginys: "D. Kleino giesmynas datuojamas 1666 m."
   pagrindžia:
     - c-01259
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'D. Kleino giesmynas datuojamas 1666 m.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1666 m. D. Kleino giesmynas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

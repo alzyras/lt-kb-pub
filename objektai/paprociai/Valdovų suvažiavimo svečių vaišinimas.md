@@ -51,8 +51,8 @@ Nenurodyta
   teiginys: "M Gėrimų ir valgių kiekiai, kuriuos Vytautas suvaišino Lucke savo svečiams, Lietuvos metraščiuose vis didinami: pagal TS išgerta 300 statinių midaus, pagal PS — jau 500 statinių, o BK — net 700 statinių."
   pagrindžia:
     - c-176691
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M Gėrimų ir valgių kiekiai, kuriuos Vytautas suvaišino Lucke savo svečiams, Lietuvos metraščiuose vis didinami: pagal TS išgerta 300 statinių midaus, pagal PS — jau 500 statinių, o BK — net 700 statinių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -79,13 +79,18 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Kiti Lietuvos m etraščių nuorašai ne­
-    mini nei Mazovijos kunigaikščio, nei jo atstovų dalyvavimo Lucke.
-    M  Gėrimų ir valgių kiekiai, kuriuos Vytautas suvaišino Lucke
-    savo svečiams, Lietuvos metraščiuose vis didinami: pagal TS išgerta
-    300 statinių midaus, pagal PS — jau 500 statinių, o  BK — net 700
-    statinių. Panašiai padidinamas Lucko suvažiavime suvalgytų telyčių,
-    avinų ir paršų skaičius.
+    * Šie Švitrigailos žodžiai atspindi aštrų konfliktą tarp LDK ir
+    Lenkijos dėl Podolės vakarinės dalies, prasidėjus) 1430 m. Ir tru­
+    kus) Iki XV a. vidurio.
+    1395—1411 m. vakarinė Podolės dalis buvo Lenkijos valdoma,
+    bet 1411 m. Jogaila ją grąžino Vytautui Iki gyvos galvos, ir ji bu­
+    vo administruojama Vytauto skiriamų LDK pareigūnų. Vytautui
+    mirštant, lenkų kilmės Podolės bajorai, vadovaujami Podolės Ka-
+    meneco vyskupo Povilo ir Hrickos Klrdejevičiaus, Lenkijos Tary­
+    bos nurodymu, suėmė Podolės sostinės Kameneco seniūną Daugir­
+    dą ir užėmė Kamenecą bei kitas LDK priklausančias Podolės pilis
+    (Cervonogradą, Skalą.
+  citata_rodoma: "Kiti Lietuvos m etraščių nuorašai ne­\nmini nei Mazovijos kunigaikščio, nei jo atstovų dalyvavimo Lucke.\nM  Gėrimų ir valgių kiekiai, kuriuos Vytautas suvaišino Lucke \nsavo svečiams, Lietuvos metraščiuose vis didinami: pagal TS išgerta \n300 statinių midaus, pagal PS — jau 500 statinių, o  BK — net 700 \nstatinių. Panašiai padidinamas Lucko suvažiavime suvalgytų telyčių, \navinų ir paršų skaičius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

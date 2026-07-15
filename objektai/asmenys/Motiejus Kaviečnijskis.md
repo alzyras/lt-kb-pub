@@ -43,28 +43,6 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 - susijęs iš [[objektai/zodynas/florinas, zlotas, grašis ir denaras.md#claim-t-86470|florinas, zlotas, grašis ir denaras]]: Motiejus Kaviečnijskis į Varšuvą atsiuntė talerius, už kuriuos Lietuvoje mokėta po 25 lietuviškus grašius.
 - susijęs iš [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai.md#claim-t-86477|lietuviška moneta ir lenkiški pinigai]]: 1570 m. sudarytas nuostolių sąrašas fiksavo lietuviškų monetų keitimą į lenkiškus pinigus.
 - susijęs iš [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas.md#claim-t-86493|raudonasis auksinas, taleris ir dukatas]]: Lenkijoje už talerį mokėta 30 grašių, o Lietuvoje karaliaus paliepimu - 25 lietuviški grašiai.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Motiejus Kaviečnijskis birželio 1 d. į Varšuvą atsiuntė talerių, už kuriuos Lietuvoje mokėjo po 25 lietuviškus grašius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vilniaus universiteto bibliotekoje)
-    Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30
-    grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1  Junii
-    [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo
-    Karališkosios Didenybės paliepimu, po 25 lietuviškus gra­
-    šius. Jiems išleista 15 florinų 26 grašiai ir 2 ą1g. Ežmiež*. [Tas
-    pats] pasiuntė 36 dukatus po 55 lenkiškus grašius. Jiems
-    išleista 1 florinas 6 grašiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83775

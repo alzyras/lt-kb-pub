@@ -38,28 +38,6 @@ Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo
     - c-32850
 - susijęs iš Gardinas: Kęstučio valdos, apėmusios Gardino žemę ir Palenkę, dėl artimos kaimynystės su kryžiuočių valstybe nebuvo saugios.
 - susijęs iš Gardinas: Kęstučio valdos, apėmusios Gardino žemę, dėl artimos kaimynystės su kryžiuočių valstybe niekada nebuvo saugios.
-- susijęs iš Trakai: Kęstučio valdos, įskaitant dalį tikrosios Lietuvos su Trakais, dėl kaimynystės su kryžiuočiais nebuvo saugios.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Winrichas von Kniprodė mirė tuo pat metu kaip jo maršalas Kuno von Hattensteinas, padėjęs Jogailai įveikti Kęstutį.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Su paskutinio pagonio kunigaikščio Kęstučio iškilmingu sude­
-    ginimu Lietuvos istorijoje turėjo prasidėti naujas laikotarpis. Tuo
-    pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip
-    pat jo maršalas Kuno von Hattenstein, padėjęs Jogailai įveikti dėdę.
-    Rugsėjo 14 d. mirė kitas Lietuvos ir Kęstučio kaimynas Liudvikas
-    Anjou, Lenkiją ir Vengriją palikdamas neaiškioje būklėje—savo
-    mažametėms dukterims ir jų būsimiems vyrams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-32850

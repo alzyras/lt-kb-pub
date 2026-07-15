@@ -66,7 +66,6 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Kiršenšteinai.md#claim-t-86799|Kiršenšteinai]]: Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.
 - susijęs iš Bajerburgas Raudonė: Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -91,12 +90,15 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
-    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
-    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
-    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
-    mis ietimis, ir vaikėsi po lauką, tarytum turnyre. Ir iš
-    ten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 .
+    Ir par­
+    keliavo jis atgal j Naugarduką, ir įkūrė6 <sau vienuo­
+    lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
+    ir gyveno tenai. O jo tėvas Mindaugas priekaištavo
+    jam, kam tokį gyvenimą pasirinkęs; bet jis savo tėvo
+    labai nemylėjo.
+    Tuo laiku mirė kunigaikštienė Mindaugienė9, ir tas
+    pradėjo jos gedėti. O jos sesuo buvo ištekėjusi už
+    Daumanto, už Nalšios kunigaikščiol0.
   citata_rodoma: "O rytojaus metą prieš vokiečius išjojo \n[Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­\nsai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­\nmis ietimis, ir vaikėsi po lauką, tarytum turnyre."
   statusas: verified
   teiginio_tipas: faktas

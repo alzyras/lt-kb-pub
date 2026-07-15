@@ -7,14 +7,14 @@ datos:
   - '1812 m.'
 date_start: '1812'
 date_end: ''
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +49,6 @@ Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdi
 - susijęs iš Tunmano raštai apie Retrą ir Prilvicą: Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano ir Jono Potockio raštuose bei Suroveckio studijoje.
 - susijęs iš Jono Potockio raštai apie Retrą ir Prilvicą: Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Jono Potockio raštuose.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdintoje 1812 m. Varšuvoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -72,14 +71,15 @@ Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdi
 - id: c-173339
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie tai byloja ir pats žibintas -
-    aiškus šviesos atributas**.
-    30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-
-    kio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol
-    Nauk. -  Warszawa, 1812).
+    tos prabos; iš viso galėjo būti pusantro svaro. Vieną plonųjų
+    rūšies egzempliorių pradangino tas pats prekiautojas*. Po šių
+    pastabų aprašysiu tas monetas, nusipelnančias čia vietos, bent
+    jau dėl to, kad buvo rastos Lietuvos žemėje.
+    III
+    lentelė, 10-asis piešinys.
+  citata_rodoma: "Apie tai byloja ir pats žibintas -\naiškus šviesos atributas**.\n30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-\nkio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol\nNauk. -  Warszawa, 1812)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

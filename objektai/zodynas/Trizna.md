@@ -49,27 +49,8 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   teiginys: "Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė."
   pagrindžia:
     - c-172071
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio dalimi, kurią, jo teigimu, žmonės pamėgdžiojo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Raite­
-    liai nuo tam tikros vietos leidžiasi lenktynių stulpelio link; tas,
-    kuris prijos pirmasis ir paims pinigą, pelno nemenką šlovę. Jis
-    nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš
-    akių; kiti lydi mirusįjį iki laidojimo vietos. Šios lenktynės yra
-    dalis triznos papročio, žmonių pamėgdžiojamo ir mūsų istori­
-    ko pastebėto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas trizną apibūdino kaip kai kurioms lietuvių genties tautoms žinotas apeigas, atliekamas laidojant labai žymius žmones.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -115,8 +96,7 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
 - id: c-172069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 363"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Raite­
     liai nuo tam tikros vietos leidžiasi lenktynių stulpelio link; tas,
@@ -135,13 +115,17 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
 - id: c-172070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 367"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie tai bus straipsnyje „Kapai“.
-    Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­
-    tuvių genties tautos žinojo trizną. Tai buvo apeigos, atlieka­
-    mos laidojant labai žymius žmones.
+    O šių reiškinių pasireiškimus aiškino kaip
+    krikščioniško Dievo įrodymą ir piktosios dvasios, įsikūnijusios į
+    stabus, menkumo demonstravimą. Taip jų mokslas rado mora­
+    linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras
+    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
+    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
+    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
+    kai.
+  citata_rodoma: "Apie tai bus straipsnyje „Kapai“.\nPirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­\ntuvių genties tautos žinojo trizną. Tai buvo apeigos, atlieka­\nmos laidojant labai žymius žmones."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -154,18 +138,17 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    368
-
-    ## Puslapis 368
-
-    Neturime smulkesnių rašytinių žinių apie kokios nors tau­
-    tos šias apeigas, kadangi jos priklausė slaptųjų kategorijai; tuo
-    įsitikiname skaitydami Antikos rašytojus. Žinoma tik tiek, kad
-    būdavo aukos dievams kabirams, naktinės puotos, žirgų lenk­
-    tynės, iečių laužymai, daug prabangos. Lietuvoje gyveno garsi
-    Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
-    gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
-    apeigų paprotį, kiekviena tauta kitonišką.
+    Liaudis jų pamokymus priimdavo
+    nuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­
+    lų ir šventųjų girių iškirtimui. Ordino istorikas net aprašo įvykį,
+    kai, nukirtus didžiu lį ąžuolą, iš jo drevės su sparnais didžiausiu
+    triukšmu ir bildesiu išskrido (evolavit), nepaprasto dydžio rupū­
+    žė. O tai, autoriaus žodžiais tariant, turėjo būti velnias. Nepai­
+    sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
+    Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
+    ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
+    gų stygių.
+  citata_rodoma: "368\n\n## Puslapis 368\n\nNeturime smulkesnių rašytinių žinių apie kokios nors tau­\ntos šias apeigas, kadangi jos priklausė slaptųjų kategorijai; tuo\nįsitikiname skaitydami Antikos rašytojus. Žinoma tik tiek, kad\nbūdavo aukos dievams kabirams, naktinės puotos, žirgų lenk­\ntynės, iečių laužymai, daug prabangos. Lietuvoje gyveno garsi\nTriznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-\ngardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos\napeigų paprotį, kiekviena tauta kitonišką."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

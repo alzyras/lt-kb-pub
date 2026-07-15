@@ -42,36 +42,6 @@ Su skausmu ir pa­ sibaisėjimu tenka pripažinti, kad 1828 metais tuometinė Ra
   pagrindžia:
     - c-82797
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54951|Barbora Radvilaitė]]: 1828 m. Radvilų prokuratorija pardavė Barboros Radvilaitės rūmų griuvėsius už 500 sidabrinių rublių plytoms.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1828 m. Radvilų prokuratorija pardavė Barboros rūmų griuvėsius už 500 sidabrinių rublių plytoms.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dar prieš kelerius metus Vilnių puo­
-    šė Barboros rūmų griuvėsiai, stovė­
-    ję tarp Katedros ir Šv. Jurgio bažny­
-    čios prie Vilijos. Su skausmu ir pa­
-    sibaisėjimu tenka pripažinti, kad
-    1828 metais tuometinė Radvilų pro-
-    kuratorija, pro pirštus žiūrėdama į
-    lietuviams brangius dingusios di­
-    dingos praeities paminklus, atėmė iš
-    miesto ir krašto, ir taip nedaug se­
-    novinių paminklų teturinčio, tuos
-    garbingus ir puikius griuvėsius, par­
-    duodama juos už 500 sidabrinių rub­
-    lių plytoms naujai statomam dvari­
-    ninko Kosobudžkio namui Nr.
-    priemiestyje už Aušros vartų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82797

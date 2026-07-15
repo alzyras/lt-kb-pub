@@ -42,27 +42,6 @@ Turkai, nujausdami lenkų ir lietuvių ir privertė ją Atėjo žinia, kad Turki
   teiginys: "Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenkų ir lietuvių puolimo kryptį."
   pagrindžia:
     - c-40443
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenkų ir lietuvių puolimo kryptį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Turkai, nujausdami lenkų ir lietuvių
-
-    ir privertė ją Atėjo žinia, kad Turkija ketina siekti puolimo kryptį, stiprino įtvirtinimus
-    daugiau ir surinkusi didžiulę kariuomenę prie Podolės Kameneco tvirtovės. Prie
-    ketina dar kartą pulti ir šį kartą užimti Chotino (beveik toje pačioje vietoje, kur
-    visą Respublikos teritoriją. Iškilo rim- 1621 m. buvo įrengti J. K. Chodkevičiaus
-    tas egzistencinis pavojus ATR. 1673 m. įtvirtinimai) turkai įrengė stiprius lauko
-    Abiejų Tautų Respublikos seimas atmetė įtvirtinimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

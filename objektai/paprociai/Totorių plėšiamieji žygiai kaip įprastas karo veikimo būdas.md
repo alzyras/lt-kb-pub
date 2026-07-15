@@ -55,25 +55,6 @@ Nenurodyta
   teiginys: "Totorių būrys, pasiųstas iš stovyklos prie Kłecko į Naugarduką, pagal savo paprotį plėšė apylinkes ir priartėjo prie Lydos."
   pagrindžia:
     - c-83264
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Totorių būrys, pasiųstas iš stovyklos prie Kłecko į Naugarduką, pagal savo paprotį plėšė apylinkes ir priartėjo prie Lydos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O totoriai, ties Kłecku įsirengę košą, arba stovyklą,
-    nemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­
-    muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
-    mylią nuo Lydos. Tad paskubomis susirinko 10 000 bajorų,
-    kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­
-    dė narsus, bet pasipūtęs, Glinskis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

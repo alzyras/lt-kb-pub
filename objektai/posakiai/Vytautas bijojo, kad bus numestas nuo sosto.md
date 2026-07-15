@@ -35,26 +35,6 @@ Kronikininko žodžiais, «Vytautas ėmė smarkiai bijoti, kad karaliui (Jogaila
   teiginys: "Kronikininkas teigė, kad Vytautas bijojo būti nuverstas nuo sosto, jei Jogaila paimtų visą Prūsiją."
   pagrindžia:
     - c-33482
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tam
-    pagrindą iš dalies davė Dlugošas, kuris tą kronikos dalį rašė 20-
-    30 metų po Vytauto mirties. Kronikininko žodžiais, «Vytautas
-    ėmė smarkiai bijoti, kad karaliui (Jogailai) visą Prūsiją paėmus,
-    jis (Vytautas) gali būti numestas nuo sosto»^31. Tad, Jogailos
-    pasiųstas prieš Livonijos kariuomenę^32 , Vytautas padaręs taiką, nes
-    iš Livonijos ordino gavęs pažadą, kad jam bus pripažinta Sūduva
-    ir Žemaičiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -45,31 +45,6 @@ media_all_json: |-
   teiginys: "1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais."
   pagrindžia:
     - c-44372
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Į karinę koaliciją prieš lietuvius įsijungė ir
-    šiaurės vakarų rusėnai. 1234 m. rusų ku-
-    nigaikštis Jaroslavas ir Naugardas sudarė
-    prieš Lietuva nukreiptą taiką su vokiečiais
-    (kalavijuočiais).
-
-    Mūšio išvakarėse
-
-    1236 m. vasario 19 d. bule popiežius, pre-
-    tekstu ginti nuo lietuvių jam pavaldžios
-    Livonijos, Žiemgalos, Kuršo ir Estijos
-    kraštus, paskelbė kryžiaus žygį didelėje
-    Šiaurės Vokietijos dalyje nuo Oderio iki
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

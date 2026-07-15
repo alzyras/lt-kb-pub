@@ -47,23 +47,6 @@ Ekdahl, S.: Die Flucht der Litauer in der Schlacht bei Tannenberg, ZfO, 12, 1, 1
   teiginys: "S. Ekdahl 1963 m. paskelbė straipsnį apie lietuvių pasitraukimą Tanenbergo mūšyje."
   pagrindžia:
     - c-55065
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1930. — Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius paver­
-    gėjus 1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p.—Ekdahl, S.:
-    _Die Flucht der Litauer in der Schlacht bei Tannenberg,_ ZfO, 12, 1, 1963.
-    11-19 p. — Gókski, K. : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,
-    nr. 559-561, 1888.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -83,4 +66,5 @@ Ekdahl, S.: Die Flucht der Litauer in der Schlacht bei Tannenberg, ZfO, 12, 1, 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-54114
     - t-54115

@@ -60,72 +60,6 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   teiginys: "Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų."
   pagrindžia:
     - c-31251
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Romanovų dinastijos pradžia 1613 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šituo atžvilgiu XV amž. gale
-    Lietuvos ir Rusijos istorijos naujos epochos susiliečia.
-    Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
-    garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
-    Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—
-    pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­
-    mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje
-    «abiejų tautų » respublikoje. Tačiau epocha caro Petro Didžiojo,
-    kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
-    imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
-    sijos įtakon.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-001
-
-- c-002
-  santrauka: 'Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^32) ĮVADAS
-    Ir tolimesnė epocha turi abiejų tautų istorijoje paraleles. Kai
-    vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-
-    lernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją,
-    buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos
-    partneriams realizuoti savą tautinį idealą. Atsistatanti Lenkijos
-    valstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos
-    minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
-    vandenį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    O
-    kai jos gelbėti išsiruošė patsai karalius Zigmantas su didesnėmis
-    jėgomis, jau buvo per vėlų: įgula buvo priversta iš bado pa-
-    siduoti. Caru buvo išrinktas metropolito Filareto, Teodoro
-    Romanovo, sūnus Mykolas (1613 m.). Su juo prasidėjo nau-
-    joji Maskvos, o vėliau „visos Rusijos" carų dinastija, kuri iš-
-    gyvavo iki 1917 m. revoliucijos (iš tikrųjų Romanovų vyriškoji
-    linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Roma-
-    novais iki pat galo).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -152,7 +86,6 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66060
-    - t-001
 
 - id: c-31251
   autorius: "Zenonas Ivinskis"

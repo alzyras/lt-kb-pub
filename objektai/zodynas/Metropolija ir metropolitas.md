@@ -41,27 +41,6 @@ Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų 
   teiginys: "Algirdas dėjo pastangų savo valstybės ribose turėti arkivyskupo metropolito sostą graikų tikėjimo gyventojams."
   pagrindžia:
     - c-34135
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Algirdas dėjo pastangų savo valstybės ribose turėti arkivyskupo metropolito sostą graikų tikėjimo gyventojams.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Naugarde,
-    Smolenske ir Tvėrėje. Ir Algirdas, ir Maskvos kunigaikštis tuo
-    pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo
-    valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo
-    gyventojams.
-    Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos
-    Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių
-    puolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

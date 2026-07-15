@@ -57,6 +57,7 @@ Holsti šiame straipsnyje minimas kaip užsienio reikalų ministras, iš kurio p
   teiginys: "1921 m. rudenį Holsti šiame šaltinyje minimas kaip užsienio reikalų ministras, iš kurio prof. dr. Eretas išgavo Lietuvos pripažinimą de jure Suomijoje."
   pagrindžia:
     - c-178073
+
 ## Citatos
 
 - id: c-178073

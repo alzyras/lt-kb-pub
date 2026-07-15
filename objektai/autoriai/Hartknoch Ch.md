@@ -35,31 +35,13 @@ Dusburgietis teigia, kad hartknochas, pirmas D.
   teiginys: "Ch. Hartknochas buvo pirmasis Dusburgiečio kronikos leidėjas ir manė, kad rutėnais vadinti Riugeno gyventojai."
   pagrindžia:
     - c-61476
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ch. Hartknochas buvo pirmasis Dusburgiečio kronikos leidėjas ir manė, kad rutėnais vadinti Riugeno gyventojai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ch. Hartknochas, pirmas D. kronikos leidėjas, galvojo, kad tuo vardu čia vadinami
-    Riugeno salos gyventojai (Hartknoch Ch., Selectae.., p. 64). Manyta, jog Dusburgiečio
-    rutėnai — galbūt Galičo (SRP, 1, p. 133 — Töppen M.) ar Smolensko kunigaikščių rusai
-    (Pašuta V., Lietuvos.., p. 306—307), nors rusų metraščiai tokios prielaidos neparemia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61476
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Ch. Hartknochas, pirmas D. kronikos leidėjas, galvojo, kad tuo vardu čia vadinami
     Riugeno salos gyventojai (Hartknoch Ch., Selectae.., p. 64). Manyta, jog Dusburgiečio

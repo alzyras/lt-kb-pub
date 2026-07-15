@@ -57,7 +57,6 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
 - susijęs iš [[objektai/zodynas/Hinterland.md#claim-t-192219|Hinterland]]: Narbutas Natangijos pavadinimą aiškina vartodamas terminą `Hinterland`.
 - susijęs iš [[objektai/zodynas/Hinterland.md#claim-t-192561|Hinterland]]: Narbutas nurodo nuomonę, kad Natangija galėjo reikšti užpakalinį arba galinį kraštą, Hinterland.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo būti atmatuotas nuo Lemptenburgo Lipzos ir Natangijos link.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -101,8 +100,7 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
 - id: c-175568
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 348"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 348."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, vienuoliai riteriai tu­
     rėjo tą žemę padalyti perpus, o piliečiai privalėjo pasi­
@@ -112,7 +110,15 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
     Lipza link ir palei jos krantą, o iš antros pusės — Natan-
     gijos link tiek toli, kol margų skaičius susidarys prie pat
     Varmijos. Bet toks matavimas pagal dabartinę vietovės
-    padėtį yra neįmanomas.
+    padėtį yra neįmanomas. Pradėjus matuoti nuo Varmijos
+    Priegliaus link, negalima rasti kryžiuočių skirtumo contra
+    Lipzam in litore in una parte, taip pat in altera parte
+    contra Natangiam, nes šiandien įmanoma tik viena kryp­
+    tis contra Natangiam, nes visa, ką galima išmatuoti pra­
+    dedant nuo Varmijos, priklauso Natangijai, o pakrantėje
+    matavimui stinga žemės, kuri taip pat nepriklausytų Na-
+    tangijai.
+  citata_rodoma: "Be to, vienuoliai riteriai tu­\nrėjo tą žemę padalyti perpus, o piliečiai privalėjo pasi­\nrinkti iš jų vieną dalį. Antra vertus, tie patys piliečiai\nturėjo gauti Varmijoje 2500 margų žemės; iš vienos pu­\nsės šis plotas turėjo būti atmatuotas nuo Lemptenburgo\nLipza link ir palei jos krantą, o iš antros pusės — Natan-\ngijos link tiek toli, kol margų skaičius susidarys prie pat\nVarmijos. Bet toks matavimas pagal dabartinę vietovės\npadėtį yra neįmanomas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -123,14 +129,16 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
 - id: c-175569
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 360"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 360."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Antra tokia Sklumeno valda buvo netoli Bar-
+    vos, kur buvo pastatytas Kroicburgas; šis pavadinimas li­
+    gi šiol išliko Didžiosios ir Mažosios Saldavos kaimų pa­
+    vadinime. Antra tokia Sklumeno valda buvo netoli Bar-
     tenšteino. Salia Brandenburgo buvo Pakarvės valda, o
     toliau nuo Prusos upės net iki Baigos tęsėsi garsi Hone-
     dos, arba Hcmedau, sritis. Kitų Natangijos įtvirtintų vie­
     tų pavadinimai neišliko.
+  citata_rodoma: "Antra tokia Sklumeno valda buvo netoli Bar-\ntenšteino. Salia Brandenburgo buvo Pakarvės valda, o\ntoliau nuo Prusos upės net iki Baigos tęsėsi garsi Hone-\ndos, arba Hcmedau, sritis. Kitų Natangijos įtvirtintų vie­\ntų pavadinimai neišliko."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

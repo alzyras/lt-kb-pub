@@ -43,25 +43,6 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
   pagrindžia:
     - c-83749
 - susijęs iš Ašmena: 1388 m. Lucke tarp liudytojų minimas Mangaila iš Ašmenos.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mangaila iš Ašmenos 1388 m. Lucke dalyvavo tarp patikimų liudytojų iš Lietuvos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­
-    mo 1388 metais. Prie liudytojų, tuo metu su mumis buvusių:
-    su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba
-    bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie­
-    tuvos ir daugelio kitų patikimų liudytojų, ten buvusių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-83749

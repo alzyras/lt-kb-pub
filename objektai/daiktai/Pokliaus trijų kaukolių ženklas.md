@@ -57,7 +57,6 @@ Nenurodyta
     - c-170990
 - susijęs iš [[objektai/zodynas/Kriukis Jagaubis.md#claim-t-189227|Kriukis Jagaubis]]: Narbutas Kriukį (Krugį) apibūdina kaip kalvių dievą ar Vulkano liekaną ir jo vardą kildina iš „kriugos“ – kriukio, kablio.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -83,18 +82,18 @@ Nenurodyta
 - id: c-170990
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 107"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 107."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taigi
-    matyti, kad barbariškai prieštaringas šio dievo prigimties su­
-    pratimas iš variagų atkeliavo į Lietuvą; žyniai, skleisdami tai,
-    apgavikišku būdu įgijo labai didele galią, kadangi galėjo pa­
-    versti dievų keršto auka, kurį norėjo. Pats Krivių Krivaitis už­
-    antyje nešiojo mažą Pokliaus statulėlę, kuri vadinosi Roszkas
-    arba, kaip tvirtina J. F. R. kronika, Rosskas.
-    Pokliaus ženklas buvo trys kaukolės: žmogaus, jaučio ir
-    arklio.
+    Hartknochas labai ar­
+    gumentuotai įrodo, kad lietuvių Žemininkas ir prusųKurchus -
+    tai tas pats dievas. Jis buvo žemės dievas, valdė žemės derlių ir
+    tamsą, buvo šviesos dievo antipodas, namų ir apskritai viso
+    krašto globėjas.
+    Lietuviai teikė jam garbę, laikydami žalčius ir maitindami
+    juos pienu; su juo buvo susiję šiurkštūs ir tamsūs prietarai. Jis
+    priklausė pagrindiniams dievams ir iš jų buvo žemiausias, ka­
+    dangi valdė žemės elementą. Jo valdžioje buvo visa, kas val­
+    goma, ko reikėjo gyvoms būtybėms išsimaitinti.
   citata_rodoma: "Pokliaus ženklas buvo trys kaukolės: žmogaus, jaučio ir\narklio."
   statusas: verified
   teiginio_tipas: faktas

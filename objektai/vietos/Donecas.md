@@ -55,40 +55,12 @@ Narbutas tapatino senovinį Higrį su Donecu, o Tanajį - su dabartiniu Donu.
 - susijęs iš Starobelsko apskritis: Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai buvo įsikūrę greta į rytus, Dono ir Doneco tarpupyje.
 - susijęs iš [[objektai/autoriai/Baturlinas.md#claim-t-191579|Baturlinas]]: Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė naujesnius Herodoto geografijos paaiškinimus.
 - susijęs iš Voluika: Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir Bogončavo apylinkes Dono ir Doneco tarpupyje.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas tapatino senovinį Higrį su Donecu, o Tanajį - su dabartiniu Donu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taigi pagal pa­
-    našumų ir žemės gamtą galima geriau išdėstyti tas skitų
-    klases, negu perkeliant jas kitapus Mėlynųjų Vandenų ir
-    Kalančiako upių, taip pat negalima būtų parinkti visiems
-    metų laikams tinkamesnių, ypač gyvulių augintojams,
-    vietų už Kalančiako. Be to, Tanajis yra šiandienis Do­
-    nas, o Higris — Donecas.
-    36
-    Dideliame skitų krašte taip pat gyveno svetimos, ski­
-    tų pakenčiamos, ypač graikų persikėlėlių ir su jais turė­
-    jusios ryšių arba susigiminiavusios tautos, pavyzdžiui,
-    gelonų, kurių kolonija plytėjo į šiaurę nuo skitų krašto,
-    kairiojoje Dnepro pakrantėje tarp budinu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-175584
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 54"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taigi pagal pa­
     našumų ir žemės gamtą galima geriau išdėstyti tas skitų

@@ -5,9 +5,8 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
   - '1499 m.'
-  - '1503 m.'
 date_start: '1499'
-date_end: '1503'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,7 +14,6 @@ tags:
   - vieta
 amziai:
   - 'XV'
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,16 +35,15 @@ Petras Miškovskis nuo 1499.V. buvo Belzo vaivada.
 
 ## Teiginiai
 
-<a id="claim-t-187164"></a>
-- t-001
-  global_id: t-187164
-  teiginys: "Petras Miškovskis nuo 1499 m. gegužės buvo Belzo vaivada ir Lvovo generalinis seniūnas."
-  pagrindžia:
-    - c-170260
 - susijęs iš [[objektai/ivykiai/Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.).md#claim-t-185738|Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.)]]: Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo.
 - susijęs iš [[objektai/ivykiai/Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.).md#claim-t-185738|Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.)]]: Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo.
-- susijęs iš Belzo kunigaikštystė: Mazovijos valdovas Kazimieras su savo kariais žiauriai nuniokojo Belzo kunigaikštystę.
+- susijęs iš [[objektai/asmenys/Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.).md#claim-t-200505|Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)]]: 1749 m. Jonas Vladislovas Korfas perėmė nenurodytą sumą ir vėliau turėjo perduoti pinigus Liudvikai Sapiegaitei Potockai.
+- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200461|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius.
+- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200462|Adomas Chmara (Minsko vaivada, 1720–1805)]]: 1751 m. Palenkės vaivada Mykolas Antanas Sapiega pasiuntė Minsko pavieto iždininką Adomą Chmarą į Vilnių su pinigais už Jedžiotus.
+- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200463|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomo Chmaros gyvenimo datos nurodytos kaip 1720–1805.
 - susijęs iš [[objektai/asmenys/Aleksandras Narimantaitis.md#claim-t-186175|Aleksandras Narimantaitis]]: Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
+- susijęs iš [[objektai/asmenys/Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.).md#claim-t-200504|Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)]]: Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas.
+- susijęs iš [[objektai/asmenys/Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.).md#claim-t-200505|Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)]]: 1749 m. Jonas Vladislovas Korfas perėmė nenurodytą sumą ir vėliau turėjo perduoti pinigus Liudvikai Sapiegaitei Potockai.
 - susijęs iš [[objektai/asmenys/Jurgis Narimantaitis.md#claim-t-186119|Jurgis Narimantaitis]]: Lenkijos karalius Kazimieras paliko visą Belzo kunigaikštystę Jurgiui Narimantaičiui.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184777|Liubartas]]: Kazimieras išvijo Algirdo brolį Liubartą iš Volynės, kai lietuviai buvo įsitraukę į karą su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93461|Liubartas]]: Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.
@@ -55,46 +52,12 @@ Petras Miškovskis nuo 1499.V. buvo Belzo vaivada.
 - susijęs iš [[objektai/ivykiai/Kazimiero įvykdytas rusų valdų perėmimas iš lietuvių (1366 m.).md#claim-t-185807|Kazimiero įvykdytas rusų valdų perėmimas iš lietuvių (1366 m.)]]: Kazimieras, pasinaudojęs lietuvių karu su kryžiuočiais, atėmė iš lietuvių rusų valdas ir išvijo Liubartą iš Volynės.
 - susijęs iš [[objektai/ivykiai/Lietuvių įsiveržimas į Mazoviją ir Pultusko sudeginimas (1367 m.).md#claim-t-185811|Lietuvių įsiveržimas į Mazoviją ir Pultusko sudeginimas (1367 m.)]]: Kęstučio vedami lietuviai įsiveržė į Mazoviją, užėmė Pultuską ir vėliau smarkiai nusiaubė visą kraštą.
 - susijęs iš Kijevo Rusia: Kazimieras Belzą ir Volynę perdavė su sąlyga, kad aukščiausią valdžią Rusioje turės Lenkijos karalius.
-- susijęs iš Mazovija: 1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją pasiplėšti grobio.
+- susijęs iš Mazovija: Kojelavičiaus pasakojime 1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją dėl grobio ir užėmė Pultuską.
 - susijęs iš Volynė: Kazimieras atidavė Volynę Aleksandrui Narimantaičiui su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Petras Miškovskis nuo 1499 m. gegužės buvo Belzo vaivada ir Lvovo generalinis seniūnas.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    | M askvą išvyko 1503 m. vasario mėn.
-    pradžioje, atvyko 1503 m. kovo 4 d. Talkos derybos prasidėjo
-    1503.111,7.
-    ’• Petras Miškovskis (Myskowsky d e Przeczyciow) nuo 1499.V.
-    buvo Belzo vaivada ir Lvovo generaliniu seniūnu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Citatos
-
-- id: c-170260
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    | M askvą išvyko 1503 m. vasario mėn.
-    pradžioje, atvyko 1503 m. kovo 4 d. Talkos derybos prasidėjo
-    1503.111,7.
-    ’• Petras Miškovskis (Myskowsky d e Przeczyciow) nuo 1499.V.
-    buvo Belzo vaivada ir Lvovo generaliniu seniūnu.
-  citata_rodoma: "’• Petras Miškovskis (Myskowsky d e Przeczyciow) nuo 1499.V. \nbuvo Belzo vaivada ir Lvovo generaliniu seniūnu."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187164
+- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200461|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius.
+- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200462|Adomas Chmara (Minsko vaivada, 1720–1805)]]: 1751 m. Palenkės vaivada Mykolas Antanas Sapiega pasiuntė Minsko pavieto iždininką Adomą Chmarą į Vilnių su pinigais už Jedžiotus.
+- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200463|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomo Chmaros gyvenimo datos nurodytos kaip 1720–1805.
+- susijęs iš [[objektai/asmenys/Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.).md#claim-t-200504|Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)]]: Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas.
 
 ## Ryšiai
 - Apgulė Belzą: [[objektai/grupes/Lenkai]]

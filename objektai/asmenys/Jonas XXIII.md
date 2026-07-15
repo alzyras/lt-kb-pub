@@ -57,16 +57,10 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   teiginys: "Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą."
   pagrindžia:
     - c-36387
-
-<a id="claim-t-184281"></a>
-- t-005
-  global_id: t-184281
-  teiginys: "Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą."
-  pagrindžia:
     - c-167658
 
 <a id="claim-t-184282"></a>
-- t-006
+- t-005
   global_id: t-184282
   teiginys: "Jonas XXIII atėmė Vokiečių ordinui teises bei privilegijas ir pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui."
   pagrindžia:
@@ -76,115 +70,6 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
 - susijęs iš [[objektai/asmenys/Inocentas VII.md#claim-t-35101|Inocentas VII]]: Inocentas VII, Gregorijus XII ir Aleksandras V remdavo Vytautą prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Paulius Vladimiri.md#claim-t-35262|Paulius Vladimiri]]: Paulius Vladimiri rašte išdėstė Lietuvai žalingą Ordino politiką, siekusią lietuvius krikštyti kardu ir ugnimi.
 - susijęs iš Konstanca: Popiežiaus Jono XXIII delegatas siūlė Žemaičių klausimą ir kitus ginčus perkelti į Konstancos bažnytinį susirinkimą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lietuvių delegacijai buvo tas gera, kad dar prieš susirin­
-    kimą popiež. Jonas XXIII panaikino visas Ordino privilegijas
-    ir teises kariauti Lietuvą. Paulius Vladimiri išleido dar raš­
-    tą, išdėstydamas žalingą Lietuvai Ordino politiką, siekusią ap­
-    krikštyti lietuvius kardu ir ugnimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-002
-  santrauka: 'Jonas XXIII atėmė Vokiečių ordinui teises ir privilegijas, kuriomis jis teisino savo užpuolimus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jonas XXIII atėmė Vok. Ordinui
-    visas teises ir privilegijas, kuriomis jis pateisindavo savo už­
-    puldinėjimus, ir pasiūlė Vytautui pavesti bylą su Ordinu Kon­
-    stancijos susirinkimui. Tačiau visi žymesni Vytauto žygiai, ku­
-    rie lietė bažnytinį Lietuvos gyvenimą, buvo surišti su popiežium
-    Martynu V, kadangi su juo pasibaigė Vak.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII
-    delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais
-    ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą
-    Konstancoje. Ten pusbroliai tikėjosi pasisekimo, nes prieš tai
-    Jonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas
-    į Lietuvą, pagal Jogailos ir Vytauto prašymą^31.
-    Visuotinis susirinkimas, lyg kokia aukščiausioji tautų organi­
-    zacija, apskritai turėjo tarti savo žodį ir apie tiek ilgai Bažnyčios
-    globoto ordino misijas, jo santykius su naujakrikštais lietuviais ir
-    ką tik Jogailos ir Vytauto imtais krikštyti Žemaičiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bažnyčios susirinkime aplinkybės laikinai buvo ėmusios dėsty­
-    tis ordino naudai. Lietuvai ir Lenkijai palankus antipopiežius
-    Jonas XXIII, kuris imperatorių Zigmantą buvo prašęs sušaukti
-    šį susirinkimą, Konstancoje buvo atstatytas ir įmestas kalėjiman.
-    O imperatorius, kuris susirinkime turėjo vadovaujamą vaidmenį,
-    iš anksto buvo raštu pasižadėjęs Žemaičius priskirti ordinui^33.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-005
-  santrauka: 'Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl
-    tokias ir panašias neteisybes lietuvių delegacijai reikėjo su­
-    griauti Konstancijoje.
-    Lietuvių delegacijai buvo tas gera, kad dar prieš susirin­
-    kimą popiež. Jonas XXIII panaikino visas Ordino privilegijas
-    ir teises kariauti Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Jonas XXIII atėmė Vokiečių ordinui teises bei privilegijas ir pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Inocentas VII, Gregorijus XII ir Aleksandras V parem­
-    davo Vytautą prieš Ordiną. Jonas XXIII atėmė Vok. Ordinui
-    visas teises ir privilegijas, kuriomis jis pateisindavo savo už­
-    puldinėjimus, ir pasiūlė Vytautui pavesti bylą su Ordinu Kon­
-    stancijos susirinkimui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 ## Citatos
 
 - id: c-36387
@@ -277,12 +162,10 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     kimą popiež. Jonas XXIII panaikino visas Ordino privilegijas
     ir teises kariauti Lietuvą.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184281
-
 - id: c-167659
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

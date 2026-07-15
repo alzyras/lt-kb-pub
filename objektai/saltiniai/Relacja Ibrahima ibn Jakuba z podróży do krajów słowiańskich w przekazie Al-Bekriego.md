@@ -40,30 +40,13 @@ Dusburgietis teigia, kad [Ibrahim ibn Jákūb].
   teiginys: "T. Kowalskis parengė „Relacja Ibrahima ibn Jakuba z podróży do krajów słowiańskich w przekazie Al-Bekriego“, išleistą Krokuvoje 1946 m."
   pagrindžia:
     - c-61901
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'T. Kowalskis parengė „Relacja Ibrahima ibn Jakuba z podróży do krajów słowiańskich w przekazie Al-Bekriego“, išleistą Krokuvoje 1946 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    [Ibrahim ibn Jákūb]. Relacja Ibrahima ibn Jakuba z podróży do krajów słowiańskich
-    w przekazie Al-Bekriego / Wyd. T. Kowalski.— Pomniki dziejowe Polski. Ser. 2, t. 1.—
-    Kraków, 1946.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-61901
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 264"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     [Ibrahim ibn Jákūb]. Relacja Ibrahima ibn Jakuba z podróży do krajów słowiańskich
     w przekazie Al-Bekriego / Wyd. T. Kowalski.— Pomniki dziejowe Polski. Ser. 2, t. 1.—

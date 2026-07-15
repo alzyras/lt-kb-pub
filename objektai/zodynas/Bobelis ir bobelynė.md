@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: 'Bobelis ir bobelynė'
 sukurta: '2026-07-12'
 variantai:
-  - bobelis
-  - bobelynė
+  - 'bobelis'
+  - 'bobelynė'
 aliases: []
 saltiniai:
-  - Mūsų tautosaka, t.4 (1931)
+  - 'Mūsų tautosaka, t.4 (1931)'
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -77,8 +77,7 @@ Abu terminai vartojami 1864 m. žemės ir ūkinės padėties kontekste.
 
     metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų
     nusipirko dvylika hektarų žemės.
-  citata_rodoma: "1864 metais valdžia neturintiems davinėjo žemės, dirbo bobelius*) ; Petras ir tuo laiku žemės negavo, nes brolis turėjo 24 hektarus.
-Užėjus 1867 metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų nusipirko dvylika hektarų žemės."
+  citata_rodoma: "1864 metais valdžia neturintiems davinėjo žemės, dirbo bobelius*) ; Petras ir tuo laiku žemės negavo, nes brolis turėjo 24 hektarus.\nUžėjus 1867 metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų nusipirko dvylika hektarų žemės."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -42,60 +42,17 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
   teiginys: "Sembai išsirinko Juodučio sūnų Naudžiotą karvedžiu per sukilimą prieš brolius ir tikinčiuosius."
   pagrindžia:
     - c-60811
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Sembai išsirinko Juodučio sūnų Naudžiotą karvedžiu per sukilimą prieš brolius ir tikinčiuosius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai apie tai išgirdo Sklunijos valsčiaus vyrai, sugrąžino, gailėdamiesi nusikaltę,
-    Karaliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo. Kiti
-    sugrąžino belaisvius,  ir šitaip Notangos žemėje įsiviešpatavo ramybė. Vis dėlto, kai
-    Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
-    ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
-    bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
-    kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Po 14 dienų Naudžiotas Karaliaučiaus pilyje atskleidė atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vis dėlto, kai
-    Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
-    ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
-    bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
-    kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti. Vis dėlto
-    po 14 dienų Karaliaučiaus pilyje magistro bei brolių akivaizdoje jis atskleidė visas šios
-    atskalūnybės paslaptis  ir išvardijo svarbiausius jos sumanytojus. Todėl magistras  ir
-    kiti, turėdami omenyje, kad nebaudžiamas nusikaltimas skatina daugiau nusikalsti,
-    įsakė visus, kurie turėjo šiokio tokio ryšio su tuo šlykščių nusižengimu, teisingojo dievo
-    nuosprendžiu visaip iškankintus nužudyti, ir šitaip krikščionims buvo sugrąžinta taika.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-60811
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 189"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai apie tai išgirdo Sklunijos valsčiaus vyrai, sugrąžino, gailėdamiesi nusikaltę,
     Karaliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo. Kiti
-    sugrąžino belaisvius,  ir šitaip Notangos žemėje įsiviešpatavo ramybė. Vis dėlto, kai
+    sugrąžino belaisvius, ir šitaip Notangos žemėje įsiviešpatavo ramybė. Vis dėlto, kai
     Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
     ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
     bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
@@ -111,8 +68,7 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
 - id: c-60812
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 189"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vis dėlto, kai
     Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
@@ -120,7 +76,7 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
     bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
     kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti. Vis dėlto
     po 14 dienų Karaliaučiaus pilyje magistro bei brolių akivaizdoje jis atskleidė visas šios
-    atskalūnybės paslaptis  ir išvardijo svarbiausius jos sumanytojus. Todėl magistras  ir
+    atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus. Todėl magistras ir
     kiti, turėdami omenyje, kad nebaudžiamas nusikaltimas skatina daugiau nusikalsti,
     įsakė visus, kurie turėjo šiokio tokio ryšio su tuo šlykščių nusižengimu, teisingojo dievo
     nuosprendžiu visaip iškankintus nužudyti, ir šitaip krikščionims buvo sugrąžinta taika.

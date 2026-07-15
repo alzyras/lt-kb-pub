@@ -44,31 +44,6 @@ media_all_json: |-
   teiginys: "Traidenis 1325 m. viešpatavo vienoje iš Mazovijos žemių kartu su kunigaikščiu Ziemovitu."
   pagrindžia:
     - c-83849
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Traidenis 1325 m. viešpatavo vienoje iš Mazovijos žemių kartu su kunigaikščiu Ziemovitu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    C
-    D r e y e r, Specimen jur. pubi p. 184, lavas, Mazovijos kunigaikštis]. Ar
-    Liubeke, pasakyta: Dominus Subovis- tai spaustuvės klaida, ar D r e y e r i s
-    laus Dux Mazovie [Viešpats Subovis- taip iš tiesų būtų išskaitęs?
-    98
-
-    ## Puslapis 115
-
-    I  KNYGA
-    dux Masovie Vanczko prie 1328 m. aptinkame, o kitose to kraš­
-    to žemėse 1325 metais viešpatavo kunigaikščiai - Ziemovi­
-    tas ir Traidenis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

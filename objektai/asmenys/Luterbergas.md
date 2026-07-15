@@ -47,7 +47,6 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
 - susijęs iš [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.).md#claim-t-66606|Karusės mūšis (1270 m. vasario 16 d.)]]: Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.
 - susijęs iš Ilienburgas: Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Luterbergas, Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras, pastatė miestą prie Ilienburgo pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -59,10 +58,6 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
     jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
     Ilienburgo [Ilijos] pilies595.
 
-
-
-
-
       593 D.— Says, Jer.
   citata_rodoma: ''
   statusas: verified
@@ -72,51 +67,21 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
   pagrindžia:
     - t-002
 
-- c-002
-  santrauka: 'Kulmo landkomtūras Luterbergas Drevantos upės pakrantėje pastatė miestą, vardu Noimarkas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsai, kurie irgi statė šią pilį, įtikinėjo, kad niekad nebuvo
-    matę šioje negyvenamoje dykynėje naminių balandžių. Be to, tas pats brolis Fridrichas
-    pastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas,
-    Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto  pilį, vardu  Plutai589,
-    o Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą, vardu Bišofsverderis590, o
-    brolis Luterbergas, Kulmo landkomtūras,— Drevantos upės pakrantėje miestą, vardu
-    Noimarkas591.
-
-
-
-
-
-     361 (354).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-60799
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą
-    leidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,
-    santakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be
-    to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
-    jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
-    Ilienburgo [Ilijos] pilies595.
-
-
-
-
-
-      593 D.— Says, Jer.
+    Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
+    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
+    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
+    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
+    Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
+    Henriko VI laikais (Dusb. I, 2).
+    Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
+    III (Ptol.
   citata_rodoma: "Be\nto, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,\njo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie\nIlienburgo [Ilijos] pilies595.\n\n\n\n\n\n  593 D."
   statusas: verified
   teiginio_tipas: faktas
@@ -128,22 +93,16 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
 - id: c-60800
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 223"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 223."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Prūsai, kurie irgi statė šią pilį, įtikinėjo, kad niekad nebuvo
     matę šioje negyvenamoje dykynėje naminių balandžių. Be to, tas pats brolis Fridrichas
     pastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas,
-    Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto  pilį, vardu  Plutai589,
+    Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto pilį, vardu Plutai589,
     o Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą, vardu Bišofsverderis590, o
     brolis Luterbergas, Kulmo landkomtūras,— Drevantos upės pakrantėje miestą, vardu
     Noimarkas591.
-
-
-
-
-
-     361 (354).
+    361 (354).
   citata_rodoma: "Be to, tas pats brolis Fridrichas\npastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas,\nVarmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto  pilį, vardu  Plutai589,\no Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą, vardu Bišofsverderis590, o\nbrolis Luterbergas, Kulmo landkomtūras,— Drevantos upės pakrantėje miestą, vardu\nNoimarkas591.\n\n\n\n\n\n 361 (354)."
   statusas: verified
   teiginio_tipas: faktas

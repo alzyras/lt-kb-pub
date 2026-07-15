@@ -57,8 +57,8 @@ Nenurodyta
   teiginys: "Narbutas trečiąją senovės prūsų monetą aprašo kaip plačiojo grašio atmainą su karūnuota moterimi ir raidėmis CESTIANUS."
   pagrindžia:
     - c-172545
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad senovės prūsų monetas mini kronikininkai, o vėliau kai kurios jų būdavo randamos žemėje, ypač senovės kapuose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -82,31 +82,6 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Narbutas trečiąją senovės prūsų monetą aprašo kaip plačiojo grašio atmainą su karūnuota moterimi ir raidėmis CESTIANUS.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Trečioji moneta -  dar kitoniška tokio plačio­
-    jo grašio atmaina, turinti vienoje pusėje karūnuotą karaliene su
-    šiomis dar perskaitomomis raidėmis: CESTIANUS; kitoje pu­
-    sėje ant laidotuvinių neštuvų pavaizduotas žmogus tinkleliu už­
-    dengtu veidu, o užrašo visai negalima perskaityti. Be to, rasta
-    daug įvairių rūšių monetų, kuriose maža ką buvo galima įskai­
-    tyti“. Gaila, kad Siuco kronikos leidėjas nepridėjo tų monetų
-    piešinių, kurių, matyt, būta rankraštyje. Vis dėlto reikėtų sutik­
-    ti, kad jos nebuvo susijusios su kuriais nors svetimais kraštais,
-    kadangi čia išvardytos smulkmenos kiekvienam numizmatui yra
-    šito įrodymas. Moterų figūros vaizduoja deives, nes lietuvių gen­
-    ties tautos savo šalyse neturėjo karalių ir karalienių tikrąja šio
-    rango prasme.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172544
@@ -114,17 +89,19 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Senovės prūsų monetas mini kronikininkai, jos dingo, kry­
-    žiuočių buvo sulydytos ir perkaldintos; vėlesniais laikais kai
-    kurios būdavo randamos žemėje, ypač senovės kapuose. Apie
-    25 Panašų dalyką Belskis pasakoja savo kronikoje.
-    247
-
-    ## Puslapis 247
-
-    jas su ypatingu dėmesiu rašo kronikininkas Šiucas26. Anot jo
-    paties pastebėjimų, jos buvo arba su dievų atvaizdais, arba su
-    užrašais nepažįstamu raštu, kartais lotyniškomis raidėmis.
+    Iškiliojoje pusėje
+    ženklas, panašus į vadinamojo biarmiškojo raidyno raidę A
+    arbatų, prie kurios yra dobilo lapelis. Tas žodis gali turėti ryšį
+    su Hirijos (Hirrya), arba Jurijos (Juhrya), šalimi, kuri buvo prie
+    Jūros upės, jai priklausė ir Jurbarkas. Buvo ir lietuvių valdo­
+    vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
+    taitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
+    Dievo Santvara stabas rastas Prilvice su užrašu runomis
+    Swaistix29, kur tarp 72 stabų, atkastų žemėje, tikriausiai ne vie­
+    nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotri-
+    tai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo­
+    mis30.
+  citata_rodoma: "Senovės prūsų monetas mini kronikininkai, jos dingo, kry­\nžiuočių buvo sulydytos ir perkaldintos; vėlesniais laikais kai\nkurios būdavo randamos žemėje, ypač senovės kapuose. Apie\n25 Panašų dalyką Belskis pasakoja savo kronikoje.\n247\n\n## Puslapis 247\n\njas su ypatingu dėmesiu rašo kronikininkas Šiucas26. Anot jo\npaties pastebėjimų, jos buvo arba su dievų atvaizdais, arba su\nužrašais nepažįstamu raštu, kartais lotyniškomis raidėmis."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -135,10 +112,9 @@ Nenurodyta
 - id: c-172545
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 247"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 247."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Trečioji moneta -  dar kitoniška tokio plačio­
+    Trečioji moneta - dar kitoniška tokio plačio­
     jo grašio atmaina, turinti vienoje pusėje karūnuotą karaliene su
     šiomis dar perskaitomomis raidėmis: CESTIANUS; kitoje pu­
     sėje ant laidotuvinių neštuvų pavaizduotas žmogus tinkleliu už­

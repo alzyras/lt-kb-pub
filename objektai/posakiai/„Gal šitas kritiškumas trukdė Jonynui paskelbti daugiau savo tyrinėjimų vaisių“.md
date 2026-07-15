@@ -49,28 +49,6 @@ media_all_json: |-
   teiginys: "Jonyno kritiškumas galėjo trukdyti jam paskelbti daugiau savo tyrinėjimų rezultatų."
   pagrindžia:
     - c-169742
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Savo
-    studijose, o labiausiai per savo universitete dėstomus Lietuvos isto­
-    rijos kursus, kurie pirmoje eilėje lietė politinę XIII-XVI amž. Lietu­
-    vos valstybės praeitį, jis nuolat savo tvirta logika parodė, kaip reikia
-    analizuoti šaltinius, ir kvėpė klausytojams visapusiško kritiškumo.
-    «Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo
-    tyrinėjimų vaisių »^82.
-    Plataus dėmesio susilaukė jo studija « Vytauto šeimyna » (atsp.
-    iš Praeities 2, 1933).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -94,5 +72,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186387
     - t-186386
+    - t-186387
+    - t-186388

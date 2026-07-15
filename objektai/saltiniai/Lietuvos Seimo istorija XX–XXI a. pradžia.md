@@ -40,23 +40,6 @@ Lietuvos Seimo istorija: XX–XXI a.
   teiginys: "Veikalas „Lietuvos Seimo istorija: XX–XXI a. pradžia“ 2009 m. išleistas Vilniuje."
   pagrindžia:
     - c-75462
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Veikalas „Lietuvos Seimo istorija: XX–XXI a. pradžia“ 2009 m. išleistas Vilniuje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vil-
-    nius, 2005.
-    Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
-    XX–XXI a. pradžia. Vilnius, 2009.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -7,13 +7,13 @@ datos:
   - '1618 m.'
 date_start: '1618'
 date_end: ''
+amziai:
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - aukojimas
   - paprotys
-amziai:
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -63,8 +63,8 @@ Nenurodyta
   teiginys: "Ten pat jie sunaikino ir svečių dievuko, vadinto Cerokliu, garbinimą; jam atiduodavo pirmąjį maisto kąsnį ir pir mąją gėrimo taurę23."
   pagrindžia:
     - c-177022
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad 1618 m. nekrikštyti valstiečiai garbino didžiulius akmenis, vadintus „Atmeszenes Wiete“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -85,45 +85,25 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Ten pat jie sunaikino ir svečių dievuko, vadinto Cerokliu, garbinimą; jam atiduodavo pirmąjį maisto kąsnį ir pir mąją gėrimo taurę23.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Minėtose
-    vietovėse jėzuitai išdraskė net šešis altorius, taip pat iškirto ąžuo­
-    lus (jiems aukas atnašaudavo vyrai) ir liepas (joms atnašauda­
-    vo moterys). Ten pat jie sunaikino ir svečių dievuko, vadinto Ce-
-    rokliu, garbinimą; jam atiduodavo pirmąjį maisto kąsnį ir pir­
-    mąją gėrimo taurę23.
-    VII skyrius
-    APIE ŽMOGAUS MIRTIES
-    DALYKUS
-    Kapai
-    Kapai senovės lietuviams buvo šventas dalykas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172772
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 369"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
-    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
-    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
-    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
-    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
-    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
-    Jie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-
-    te“, tai yra, anot autoriaus vertimo, „loca adiectorum “.
+    Tokių kapų pasitaiko aukštose vietose
+    arba prie pilių ir kadaise žymių kaimų, dažniausiai prie kelių,
+    taip pat didesnių upių pakrantėse, kur būdavo šventyklos. Hart-
+    knochas (p. 184-185) tą patį sako apie gausius piliakalnius,
+    matomus Prūsijoje, ir apie pilkapius, supiltus virš žymių žmo­
+    nių kapų. Lietuvos didžiojo kunigaikščio Gedimino kapas yra
+    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
+    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
+    avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
+    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
+    pelenai ilsisi supiltame kalne).
+  citata_rodoma: "Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.\nJie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-\nte“, tai yra, anot autoriaus vertimo, „loca adiectorum “."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -134,8 +114,7 @@ Nenurodyta
 - id: c-177022
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 370"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 370."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Minėtose
     vietovėse jėzuitai išdraskė net šešis altorius, taip pat iškirto ąžuo­

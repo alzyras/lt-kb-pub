@@ -36,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko kontekste. Maskva, laimėjusi šią kovą prieš Tverę, įsitvirtino ir Vladimire.
+Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą. Gediminas pirmąjį smūgį nukreipė į Volynės pasienį ir apsupo Vladimirą, kunigaikščio Vladimiro sostinę. Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras († 1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394).
 
 ## Pavadinimai šaltiniuose
 
@@ -89,75 +89,14 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - susijęs iš Kijevas: Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį.
 - susijęs iš Kijevas: Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo.
 - susijęs iš Naugardas: Narbutas teigė, kad Vladimiras X a. Kijeve ir Naugarde pastatė Perkūno stabus, panašius į lietuvių Perkūno stabą.
-- susijęs iš Oviučis: Vytautas tą patį pavasarį paėmė Žitomiro ir Oviučio miestus.
-- susijęs iš Oviučis: Vytautas tą patį pavasarį paėmė Žitomiro ir Oviučio miestus.
+- susijęs iš Oviučis: Oviučį, Lietuvos metraščio pasakojimu, tą patį pavasarį kartu su Žitomiru paėmė didžiuoju kunigaikščiu vadinamas Vytautas.
 - susijęs iš Ovručas: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
-- susijęs iš Podolė: Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją.
 - susijęs iš Podolė: Po Vytauto mirties lenkai pradėjo konfliktą dėl Podolės žemių, suėmė Lietuvos vietininką Daugirdą ir užėmė pilis.
 - susijęs iš Podolė: Lietuvos metraštis Vytautą vadina didžiuoju kunigaikščiu ir rašo, kad pavasariop jis ištraukė į Podolės žemę.
-- susijęs iš Polockas: Algirdas rytinėse Lietuvos Didžiosios Kunigaikštijos žemėse pasodino savo sūnus, o Polocke sėdėjo Andrius.
 - susijęs iš Ratne: Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
 - susijęs iš Volga: Narbutas pasakoja, kad po kelių pralaimėjimų poloviečiai apie 1127 m. buvo priversti pasitraukti už Volgos.
 - susijęs iš Žitomiras: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
 - susijęs iš Žitomiras: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras († 1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394).'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
-    sodino iš pirmųjų vedybų savo sūnus. Jie visi buvo priėmę graikų
-    tikėjimą. Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi­
-    tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras (†
-    1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1384 m. vasarą jis buvo gavęs dalį tėvo valdų, būtent, Gardiną,
-    Lietuvos Brastą ir Palenkę su Drohičinu ir Mielniku^8. O mirus
-    senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų
-    kažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­
-    valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: 'Gediminas pirmąjį smūgį nukreipė į Volynės pasienį ir apsupo Vladimirą, kunigaikščio Vladimiro sostinę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Gediminas, pasinaudojęs
-    G edim in as,
-    su d a ręs
-    susidariusiu atokvėpiu, per-
-    syti ir gerbti kaip vyriausiąjį valdovą; kiti net su­
-    tartis laužė ir drįso naugardukiečių kraštą niokoti. Pir­
-    mąjį smūgį jis nukreipė į Volynės pasienį: apsupo
-    Vladimirą, kunigaikščio Vladimiro sostinę. Pilį ir mies­
-    tą atkakliai puolė iš visų pusių, vis dėlto miestiečiai
-    atrėmė puolimą, vildamiesi, jog neužtruks parama.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-32555
@@ -197,8 +136,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - id: c-168565
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 197"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 197."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Gediminas, pasinaudojęs
     G edim in as,
@@ -209,7 +147,16 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     mąjį smūgį jis nukreipė į Volynės pasienį: apsupo
     Vladimirą, kunigaikščio Vladimiro sostinę. Pilį ir mies­
     tą atkakliai puolė iš visų pusių, vis dėlto miestiečiai
-    atrėmė puolimą, vildamiesi, jog neužtruks parama.
+    atrėmė puolimą, vildamiesi, jog neužtruks parama. Tuo
+    metu su savo krašto kariuomene ir atėjusiais į pagal­
+    bą skitais atvyko Vladimiras, ketindamas nuvaryti prie­
+    šą nuo sienų. Gediminas kariams įsakė paliauti pulti
+    miestą ir pasitikti artėjantį priešą; šalys susikovė prie
+    pačių sienų, mūšį pradėjo raiteliai, pirmieji vieni su
+    kitais suartėję; lietuviai jau pradėjo krikti, nes skitai,
+    įprastinėmis užuolankomis puldami sparnus, nuolatos
+    ardė eiles, neleisdami sudaryti pastovios rikiuotės.
+  citata_rodoma: "Pir­\nmąjį smūgį jis nukreipė į Volynės pasienį: apsupo \nVladimirą, kunigaikščio Vladimiro sostinę. Pilį ir mies­\ntą atkakliai puolė iš visų pusių, vis dėlto miestiečiai \natrėmė puolimą, vildamiesi, jog neužtruks parama. Tuo \nmetu su savo krašto kariuomene ir atėjusiais į pagal­\nbą skitais atvyko Vladimiras, ketindamas nuvaryti prie­\nšą nuo sienų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

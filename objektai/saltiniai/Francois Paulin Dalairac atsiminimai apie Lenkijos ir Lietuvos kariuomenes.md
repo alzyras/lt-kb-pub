@@ -59,39 +59,6 @@ Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kari
   teiginys: "Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus."
   pagrindžia:
     - c-43246
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Karūnos, kaip ir Lietuvos, kariuomenė yra padalyta į dvi dalis: vieną sudaro vien ka-
-    valerija ir šalies vyrai, išskirstyti į laisvas ir ordonanso vėliavas, panašias į Prancūzijos
-    sunkiosios kavalerijos eskadronus; ji vadinasi lenkų autoramentu [Armee Polonoise], 0
-    ją sudaro du trečdaliai, tai yra 24 000 raitelių. Kitą dalį sudaro vien infantrija, dragūnai
-    ir šiek tiek lengvosios kavalerijos. Ji vadinama svetimšalių autoramentu [Armee etran-
-    gere], mat ji suformuota pagal svetimšalių pavyzdį, aprengta ir apginkluota vokiškai, jai
-    vadovauja generolai majorai [Generaux Majors], atitinkantys mūsiškius feldmaršalus
-    [Marechaux de Camp], ji padalyta į pulkus [Regimens]. O ne kuopas [compagnies]. Ji
-    sudaro paskutinį komputo trečdalį - 12 000 vyrų.
-
-    Abi dalys žygiuoja ir išsirikiuoja atskirai, arba tiksliau tariant, sudaro dvi kariuomenės
-    linijas. Pirmoji yra vien pėstininkai ir dragūnai su artilerija viduryje. Antroji sudaryta
-    iš lenkų kavalerijos arba ordonanso pulkų, ir būtent antrosios linijos priekyje yra abiejų
-    generolų postai, kaip jau minėjau, vienas dešinėje, kitas kairėje. Šioje vietoje įsikuria pats
-    karalius su jį lydinčiais senatoriais, kai žygiuoja su armija; pirmajai linijai vadovauja jo
-    generolai majorai bei artilerijos vadas, tarp kurių vyrauja pavaldumas pagal tarnybos
-    laiką bei laipsnį.“
-
-    122 LOJEVO MŪŠIS 1649 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -124,5 +91,5 @@ Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67392
     - t-67390
+    - t-67392

@@ -71,65 +71,6 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   teiginys: "Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius laimėjo dvejas kautynes, o prie Vorsklos pralaimėjo."
   pagrindžia:
     - c-167089
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio padariniai
-    Visų trijų Vytauto žygių, Vorsklos kauty-
-    nių įvykiai apibendrinti Detmaro Liubeko
-    kronikos tęsinyje: tuo metu lietuviai prieš
-    totorius kariavę tris kartus, dvejas kautynes
-    laimėję, o prie Vorsklos patyrę nesėkmę;
-    to meto žiniomis, tuose mūšiuose totorių
-    žuvo 300 000, 0 Vytautas praradęs 100 000
-    karių (skaičiai, be abejo, perdėti, gal net
-    dešimtį kartų), bet santykis galėtų būti re-
-    alus: totorių žuvo tris kartus daugiau nei
-    Vytauto ir jo sąjungininkų karių. Vytautas
-    prarado apie 14 savo kariuomenės.
-    Vorsklos kautynėse daug lėmė Aukso
-    ordos karių kiekybinė persvara.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-    - t-001
-
-- c-002
-  santrauka: 'Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius laimėjo dvejas kautynes, o prie Vorsklos pralaimėjo.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Talkininkų
-    kryžiuočių liko tik keletas, tarp jų žuvo
-    tarnaudami senajai Tėvynei du kryžiuočiai
-    lietuviai, Jonas ir Tomas Survilos.
-
-    Mūšio padariniai
-    Visų trijų Vytauto žygių, Vorsklos kauty-
-    nių įvykiai apibendrinti Detmaro Liubeko
-    kronikos tęsinyje: tuo metu lietuviai prieš
-    totorius kariavę tris kartus, dvejas kautynes
-    laimėję, o prie Vorsklos patyrę nesėkmę;
-    to meto žiniomis, tuose mūšiuose totorių
-    žuvo 300 000, 0 Vytautas praradęs 100 000
-    karių (skaičiai, be abejo, perdėti, gal net
-    dešimtį kartų), bet santykis galėtų būti re-
-    alus: totorių žuvo tris kartus daugiau nei
-    Vytauto ir jo sąjungininkų karių. Vytautas
-    prarado apie 14 savo kariuomenės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 ## Citatos
 
@@ -158,9 +99,9 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-67370
     - t-67371
     - t-67372
-    - t-67370
 
 - id: c-167089
   sudarytojas: "Karolis Zikaras"

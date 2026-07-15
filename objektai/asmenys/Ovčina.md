@@ -24,63 +24,38 @@ media_all_json: |-
 
 ## Santrauka
 
-Pasak Kojelavičiaus, Ovčina ėjo tokias pat pareigas kaip Glinskis ir gyveno su Vasilijaus našle.
-
-## Teiginiai
-
-<a id="claim-t-186154"></a>
-- t-001
-  global_id: t-186154
-  teiginys: "Pasak Kojelavičiaus, Ovčina ėjo tokias pat pareigas kaip Glinskis ir gyveno su Vasilijaus našle."
-  pagrindžia:
-    - c-169515
-- susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186049|Jonas Gornostajus]]: Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184806|Mykolas Glinskis]]: Ovčina apkaltino Mykolą Glinskį antru mėginimu bėgti į Lietuvą, pasmerkė jį mirti ir įkalino apakintą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Pasak Kojelavičiaus, Ovčina ėjo tokias pat pareigas kaip Glinskis ir gyveno su Vasilijaus našle.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Štai todėl Glinskis vėl
-    atgavo laisvę ir ankstesnę pagarbą, o ateityje susilau­
-    kė tokio didelio kunigaikščio palankumo, kad jį, pa­
-    rodžiusį nuostabų sumanumą tvarkant taikos bei karo
-    reikalus, Vasilijus paskyrė mažamečio sūnaus globėju.
-    Gavęs šitokias garbingas pareigas, kartą sužinojo, jog
-    Vasilijaus našlė, o jo brolio anūkė begėdiškai gyvena
-    su Ovčina, ėjusiu tas pačias pareigas, kaip ir jis. Kaip
-    giminaitis ir globėjas, jis įspėjo moterį labiau paisyti
-    doros ir garbės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Citatos
 
 - id: c-169515
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 628"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 628."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Štai todėl Glinskis vėl
-    atgavo laisvę ir ankstesnę pagarbą, o ateityje susilau­
-    kė tokio didelio kunigaikščio palankumo, kad jį, pa­
-    rodžiusį nuostabų sumanumą tvarkant taikos bei karo
-    reikalus, Vasilijus paskyrė mažamečio sūnaus globėju.
-    Gavęs šitokias garbingas pareigas, kartą sužinojo, jog
-    Vasilijaus našlė, o jo brolio anūkė begėdiškai gyvena
-    su Ovčina, ėjusiu tas pačias pareigas, kaip ir jis. Kaip
-    giminaitis ir globėjas, jis įspėjo moterį labiau paisyti
-    doros ir garbės.
+    Tuo metu popiežiaus
+    legatas Pisonas, pasiųstas iš Romos sutaikyti Žygiman­
+    tą su Vasilijumi, sustojo Vilniuje, ketindamas netrukus
+    leistis į Maskvą, kur jo diena iš dienos laukė. Dėda­
+    masis jo žygūnu, lenkų bajoras Trepka, mokėjęs italų
+    bei vengrų kalbas, išvyko kelionėn, pasižadėjęs akis į
+    akį pranešti Glinskiui karaliaus valią. Pakelėje suimtas
+    ir siaubingai kankinamas, jis
+    P u ik u s ištv e r m ė s p a -
+    nieko nepasakė ir neišdavė
+    v y z d y s
+    karaliaus jam patikėtos pas­
+    lapties. Baisu ir pagalvoti,
+    kaip jis buvo maitojamas: pririštą prie iešmo, degino
+    lėta ugnimi, grąžtais gręžė kiaušą bei nagus. Jis viską
+    iškentėjo.
+  citata_rodoma: "Dėda­\nmasis jo žygūnu, lenkų bajoras Trepka, mokėjęs italų \nbei vengrų kalbas, išvyko kelionėn, pasižadėjęs akis į \nakį pranešti Glinskiui karaliaus valią. Pakelėje suimtas\nir siaubingai kankinamas, jis \nP u ik u s ištv e r m ė s p a - \nnieko nepasakė ir neišdavė \nv y z d y s \nkaraliaus jam patikėtos pas­\nlapties. Baisu ir pagalvoti, \nkaip jis buvo maitojamas: pririštą prie iešmo, degino \nlėta ugnimi, grąžtais gręžė kiaušą bei nagus."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186154
+## Teiginiai
+
+- susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186049|Jonas Gornostajus]]: Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką.
+- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184806|Mykolas Glinskis]]: Ovčina apkaltino Mykolą Glinskį antru mėginimu bėgti į Lietuvą, pasmerkė jį mirti ir įkalino apakintą.

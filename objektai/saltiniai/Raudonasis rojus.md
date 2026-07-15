@@ -40,19 +40,6 @@ p. 235, Karikatūrų ir satyrų leidinys „Raudonasis rojus“ išleistas 1951 
   teiginys: "„Raudonasis rojus“ buvo karikatūrų ir satyrų leidinys, išleistas 1951 m."
   pagrindžia:
     - c-43297
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 235, Karikatūrų ir satyrų leidinys „Raudonasis rojus“ išleistas 1951 m., GAM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

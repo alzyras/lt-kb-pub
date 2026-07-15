@@ -58,14 +58,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   pagrindžia:
     - c-172094
 
-<a id="claim-t-194687"></a>
-- t-005
-  global_id: t-194687
-  teiginys: "Mildauninkai turėjo vaistų, žadinančių ir slopinančių meilę."
-  pagrindžia:
-    - c-177084
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti kaip „mildauninkas“ ir iš jo padaryti deivės Mildos vardą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -124,64 +117,22 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   pagrindžia:
     - t-003
 
-- c-004
-  santrauka: 'Narbutas mildauninkus aprašė kaip Kauno apylinkių pasakojimuose minimus kerėtojus arba meilės deivės žynius, padėdavusius meilės reikaluose.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kitaip vadinosi Pizio.
-    Iš pasakojimų, surinktų Kauno apylinkėse, aiškėja, kaip
-    jau anksčiau matėme straipsnyje „Milda“, kad buvo tam tikra
-    rūšis kerėtojų, arba meilės deivės žynių, vadintų mildaunin-
-    kais, kurie padėdavo žmonėms meilės reikaluose. Be kitų ke­
-    rų, jie žinojo tam tikrą sparnuotą nykštuką, vadinamą Kauniu
-    (Kaunis); kerėtojo pasiųstas, jis užpuldavęs jaunuolius, neno­
-    rinčius pasiduoti meilės vilionėms, ir jų širdis užkrėsdaves mir­
-    tinais meilės nuodais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Mildauninkai turėjo vaistų, žadinančių ir slopinančių meilę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    158
-
-    ## Puslapis 158
-
-    žimu, traukiamu poros baltų kaip sniegas balandžių, todėl jos
-    valdžią visur pažino. Mildauninkai turėjo vaistų, žadinančių ir
-    slopinančių meilę. Mūsų kraštuose dar išliko dainelė, susijusi
-    su tuo dievuku:
-    Skrindau Kaunis iž tola,
-    Kur vvassara umžynoja.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-172091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 31"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 31."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    O
-    šią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse
-    tam tikros rūšies kerėtojas ir kerėtojus, padedančius meilėje,
-    kauniečiai vadina mildauninkais“. Tokio lietuviško žodžio iš
-    viso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­
-    tas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­
-    dą Milda.
+    Surandama ir moneta,
+    iliustruojanti šį „pasakojimą“. O kad skaitytojas nesumanytų
+    abejoti, ten yra ir lietuviškas užrašas: „Paklus, Nijola“. Nijolės
+    vardas esąs kilęs iš dviejų žodžių: Nija, reiškiančio „slavų Ce-
+    reros, arba lietuvių Krūminės, vardą“ (panašia prasme šį žodį
+    minėjo J. Dlugošas ir M. Strijkovskis), ir ola - „požeminis ur­
+    vas“. Ar tik ši „etimologija“ nerodo, kaip vardas Nijolė buvo
+    sukurtas?
+  citata_rodoma: "O\nšią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse\ntam tikros rūšies kerėtojas ir kerėtojus, padedančius meilėje,\nkauniečiai vadina mildauninkais“. Tokio lietuviško žodžio iš\nviso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­\ntas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­\ndą Milda."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -192,17 +143,18 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
 - id: c-172092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 133."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Milda (Milda)
-    Meilės ir piršlybų deivė, kitaip Aleksotą (Alexota). Kroni­
-    kose apie ją nėra nieko konkretaus, vien šiokie tokie spėlioji­
-    mai, tačiau padavimai, pasakojimai ir kai kurios liaudies dai­
-    nos paaiškina tą mitą. Straipsnyje „Kaunis“ bus nurodyti šalti­
-    niai ir įrodymai; čia suminėsime tai, kas tiesiogiai liečia šią
-    Lietuvos Venerą.
-    Jai buvo skirtas balandžio mėnuo.
+    Buvęs Vilniaus universi­
+    teto architektūros profesorius ponas Šulcas tarp mirusio ar­
+    chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
+    tinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­
+    kimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­
+    lininkas Pjetras Rosis nupiešė tą gotiško stiliaus šventyklą.
+    Kaune buvo rastas tos deivės stabas. Šio atradimo smulkme­
+    nas man papasakojo gerbiamas profesorius ponas Laurinavi­
+    čius.
+  citata_rodoma: "Milda (Milda)\nMeilės ir piršlybų deivė, kitaip Aleksotą (Alexota). Kroni­\nkose apie ją nėra nieko konkretaus, vien šiokie tokie spėlioji­\nmai, tačiau padavimai, pasakojimai ir kai kurios liaudies dai­\nnos paaiškina tą mitą. Straipsnyje „Kaunis“ bus nurodyti šalti­\nniai ir įrodymai; čia suminėsime tai, kas tiesiogiai liečia šią\nLietuvos Venerą.\nJai buvo skirtas balandžio mėnuo."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -213,16 +165,18 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
 - id: c-172093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 133."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
-    deivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­
-    to priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais
-    buvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3. Kaip
-    pastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar
-    kerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-
-    kais (Mildawnikas).
+    Kaune buvo rastas tos deivės stabas. Šio atradimo smulkme­
+    nas man papasakojo gerbiamas profesorius ponas Laurinavi­
+    čius. „Reikėtų priminti ir tai, - rašoma jo laiške, - jog amžiną
+    atilsį kunigas Pranckevičius, buvęs Kauno klebonas (klebona­
+    vęs maždaug prieš amžiną atilsį kunigą Pucilovskį) savo dieno­
+    raštyje (jis ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš,
+    norėdamas savo bute, klebonijoje, pasidaryti sandėliuką, prieš
+    išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­
+    kirsti angą ir ją sutvirtinti.
+  citata_rodoma: "O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji\ndeivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­\nto priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais\nbuvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3. Kaip\npastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar\nkerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-\nkais (Mildawnikas)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -233,8 +187,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
 - id: c-172094
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 157"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kitaip vadinosi Pizio.
     Iš pasakojimų, surinktų Kauno apylinkėse, aiškėja, kaip
@@ -251,25 +204,3 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189206
-
-- id: c-177084
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    158
-
-    ## Puslapis 158
-
-    žimu, traukiamu poros baltų kaip sniegas balandžių, todėl jos
-    valdžią visur pažino. Mildauninkai turėjo vaistų, žadinančių ir
-    slopinančių meilę. Mūsų kraštuose dar išliko dainelė, susijusi
-    su tuo dievuku:
-    Skrindau Kaunis iž tola,
-    Kur vvassara umžynoja.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194687

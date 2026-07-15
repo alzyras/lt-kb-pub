@@ -35,28 +35,6 @@ Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto, kaip be druskos, 
   teiginys: "Lenkų bajorija, kuriai Vytauto nuopelnai buvo dideli, beveik visa pasipriešino jo karūnavimosi sumanymui."
   pagrindžia:
     - c-38374
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lenkų bajorija, kuriai Vytauto nuopelnai buvo dideli, beveik visa pasipriešino jo karūnavimosi sumanymui.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vienu žodžiu, kaip už­
-    simena ir pats Dlugošas, kad beveik visa Lenkijos valdžia ati­
-    teko į Vytauto rankas, — pasakymas, kuris sutinka ir su isto­
-    rijos faktais.
-    Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto,
-    kaip be druskos, neapseidavo ir kuriai jo nuopelnai buvo dideli,
-    beveik visa, kartu su Olesnickiu priešaky, pasipriešino jo suma­
-    nymui karūnuotis. Iškilo dideli ginčai, kurie vos neišprovokavo
-    karo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

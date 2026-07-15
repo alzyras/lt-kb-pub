@@ -43,20 +43,6 @@ Nap. = Napiersky, K, E., Russisch - livländische Urkunden.
   teiginys: "K. E. Napiersky veikalas „Russisch-livländische Urkunden“ buvo išleistas Peterburge 1868 m."
   pagrindžia:
     - c-36201
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nap. = Napiersky, K, E., Russisch - livländische Urkunden.
-    Petersburg, 1868.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

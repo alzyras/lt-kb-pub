@@ -55,22 +55,6 @@ Nenurodyta
   teiginys: "Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis buvo naudotas Pietų Lietuvoje."
   pagrindžia:
     - c-44670
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 224, Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis, naudotas
-    Pietų Lietuvoje, GAM.
-
-    p. 224, Dainavos apygardos partizanai, GAM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

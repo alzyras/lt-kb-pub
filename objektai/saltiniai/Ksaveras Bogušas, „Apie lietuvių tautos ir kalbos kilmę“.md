@@ -48,47 +48,6 @@ media_all_json: |-
   teiginys: "Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą nuskambėjo mintis, kad lietuvių kalba tinka aukštajai kultūrai."
   pagrindžia:
     - c-23804
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę
-    „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo
-    mintis, kad lietuvių kalba yra visiškai tinkama būti atskiros aukštosios
-    kultūros kalba. Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
-    Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
-    Poška, Silvestras Valiūnas). Įspūdį padarė 1818 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1808 m. Varšuvoje išleistoje Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą teigta, kad lietuvių kalba tinkama aukštajai kultūrai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Juolab kad kai kurie Eu-
-    ropos mokslininkai lingvistai jau buvo nustatę, jog kalba, kuria kalba Lie-
-    tuvos valstiečiai, yra bene archajiškiausia iš visų, kaip dabar sakytume,
-    gyvųjų indoeuropiečių kalbų. 1808 m. Varšuvoje Mokslo bičiulių drau-
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    111
-    gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę
-    „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo
-    mintis, kad lietuvių kalba yra visiškai tinkama būti atskiros aukštosios
-    kultūros kalba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -63,43 +63,6 @@ Nenurodyta
   teiginys: "Po Zigmanto mirties kilusių konkurentų kovų metu žemaičiai iš Kazimiero gavo privilegiją, apdraudusią jų teises ir savitą vidaus tvarkymąsi."
   pagrindžia:
     - c-67236
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Neramiame
-    pomindauginiame laikotarpyje smulkios Žemaičių sritinės kuni­
-    gaikštijos, kurių ten buvo ne mažas skaičius, buvo atsipalaidavusios
-    viena nuo kitos. Kiek jas vėl spėjo apjungti Traidenis, nėra duo­
-    menų. Bet didieji Lietuvos kunigaikščiai, nors nedaug teturėjo
-    įtakos į Žemaičių krašto vidaus reikalus, tačiau jį laikydami didžio­
-    sios Lietuvos kunigaikštijos sudedamąja dalimi, pavojaus metu
-    teikė pagalbą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Po Zigmanto mirties kilusių konkurentų kovų metu žemaičiai iš Kazimiero gavo privilegiją, apdraudusią jų teises ir savitą vidaus tvarkymąsi.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **2. Žemaičių kunigaikštystės privilegija**
-    Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų
-    padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo
-    iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
-    laikams laidavo jiems savotišką vidaus tvarkymąsi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

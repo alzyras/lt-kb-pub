@@ -41,30 +41,6 @@ media_all_json: |-
   teiginys: "Vašingtono sutarties 5-asis straipsnis numato, kad NATO narės ginkluoto puolimo atveju ateina viena kitai į pagalbą."
   pagrindžia:
     - c-73284
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vašingtono sutarties 5-asis straipsnis numato, kad NATO narės ginkluoto puolimo atveju ateina viena kitai į pagalbą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    260
-    Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono su-
-    tarties 5-ajame straipsnyje. Juo garantuojama individualios ar kolektyvi-
-    nės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuo-
-    limui. Tai reiškia, kad šalys narės ginkluoto puolimo prieš bet kurią iš
-    jų atveju ateis viena kitai į pagalbą – ir kiekviena atskirai, ir visos kartu.
-    Vašingtono sutarties 5-asis straipsnis užtikrina, kad nė vienai šaliai nerei-
-    kės kliautis savo pačios pastangomis ir ekonominiais ištekliais, jei iškils
-    pavojus jos saugumui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-001
 
 ## Citatos
 
@@ -88,5 +64,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75526
     - t-75524
+    - t-75526

@@ -58,23 +58,6 @@ Nenurodyta
   teiginys: "1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes."
   pagrindžia:
     - c-12295
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rusios veržimasis buvo galuti-
-    nai atremtas ir XII-XIII a. sandūroje lietuviai tapo aktyviausia jėga
-    regione. XII a. pabaigoje jie ėmė rengti reguliarius grobiamuosius
-    žygius į kaimynų baltų ir slavų žemes. 1183 m. užfiksuotas pirma-
-    sis žinomas lietuvių reidas į Pskovo žemes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -43,20 +43,6 @@ Snyder T.
   teiginys: "T. Snyderis parašė knygą „Tautų rekonstrukcija. Lietuva, Lenkija, Ukraina, Baltarusija 1569–1999“, išleistą Vilniuje 2003 m."
   pagrindžia:
     - c-20715
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Snyder T. Tautų rekonstrukcija. Lietuva, Lenkija, Ukraina, Baltarusija 1569–
-    1999. Vilnius, 2003.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

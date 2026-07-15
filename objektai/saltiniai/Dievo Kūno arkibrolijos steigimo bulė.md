@@ -43,38 +43,6 @@ media_all_json: |-
   teiginys: "1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę, kuria įsteigta Dievo Kūno arkibrolija."
   pagrindžia:
     - c-84396
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę, kuria įsteigta Dievo Kūno arkibrolija.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    174
-
-    ## Puslapis 191
-
-    Il KNYGA
-    B) Žinios apie Dievo Kūno koplyčios įkūrimą
-    Patikimų pirminių žinių apie tos koplyčios būklę nėra
-    galimybių išsiaiškinti, kadangi dokumentų ir visokių senų­
-    jų raštų dalis 1660 metais maskvėnų paimta, dalis 1737 me­
-    tais per gaisrą kartu su koplyčia sudegė, kas taip ištrynė jos
-    atminimą, kad tik tradicija rodo tą koplyčią nuo seno buvus
-    Vilniaus magistrato pareigūnų globoje ir priežiūroje. Išlikę
-    dokumentai, iš įvairių rankų gauti, tai patikina. 1539 metais
-    kardinolas Komendoni atsiuntė Vilniaus vyskupui Valeri­
-    jonui Protasevičiui bulę, kuria steigiama Dievo Kūno arkib-
-    rolija, o 1573 metų vasario 3 dieną, valdant Žygimantui Au­
-    gustui, buvo funduota arkikonfratrija ir tais pačiais metais
-    lapkričio 27 dieną to paties vyskupo surengtas iškilmingas
-    įvesdinimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

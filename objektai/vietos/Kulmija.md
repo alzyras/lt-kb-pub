@@ -51,28 +51,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 - susijęs iš Michalovos žemės: Vytauto požiūriu Michalovos sritys turėjo likti Ordinui, nes jis nenorėjo visiško Lenkijos susitaikymo su Ordinu.
 - susijęs iš Michalovos žemės: Lenkija siekė atgauti Michalovos žemes, o lietuviams rūpėjo faktiškai jų valdyta Žemaitija.
 - susijęs iš Visla: Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs
-    Mozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo
-    įkyrių prūsų puldinėjimų, iš imperatoriaus Fridricho II (Hohenštau-
-    feno) išsirūpino ordino ateičiai rytuose reikšmingą privilegiją, duotą
-    Rimini, Italijoje, 1226 m. kovo mėnesį. Jos dėka ordinui, su Reicho
-    kunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­
-    ninku užkariausimoje prūsų žemėje. Tada Salza priėmė kvietimą
-    Konrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-93880

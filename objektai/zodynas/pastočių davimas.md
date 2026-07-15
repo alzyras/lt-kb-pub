@@ -42,27 +42,6 @@ Karalius už nuopelnus da­ lijo bajorams statydintis žemės sklypus, priklausa
   teiginys: "1451 metais Kazimieras miestiečius, paklūstančius Magdeburgo teisei, atleido nuo pastočių davimo."
   pagrindžia:
     - c-82583
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1451 metais Kazimieras miestiečius, paklūstančius Magdeburgo teisei, atleido nuo pastočių davimo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Sutartis, Vilniuje sudaryta su Pskovu, likusiu Kazimiero
-    globoje, gerokai praplėtė prekybinius šio turtingo miesto
-    santykius su Lietuvos sostinė33. Karalius už nuopelnus da­
-    lijo bajorams statydintis žemės sklypus, priklausančius Vil­
-    niaus piliai34 ir 1451 metais miestiečius, paklūstančius Mag­
-    deburgo teisei, atleido nuo pastočių davimo. Tokie
-    Kazimiero potvarkiai tikrai pagerino ištuštėjusios sostinės
-    padėtį ir plėtė miestą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -7,16 +7,17 @@ datos:
   - '1146 m.'
 date_start: '1146'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - karas
   - kunigaikštis
-  - vyskupas
-amziai:
-  - 'XII'
-periodo_grupes:
-  - 'viduramžiai'
+  - ordinas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,8 +52,15 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   teiginys: "Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais."
   pagrindžia:
     - c-60778
-## Reikšmingi paminėjimai
 
+<a id="claim-t-197103"></a>
+- t-003
+  global_id: t-197103
+  teiginys: "Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai."
+  pagrindžia:
+    - c-60778
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -68,40 +76,19 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie naują Teutonų namų ordino brolių karą su prūsų gentimis
-
-      Pasak senovės istorikų175, daug kas senaisiais laikais yra kariavęs su prūsais: Julijus
-    Autentiškame Konrado dokumente liudytojų mažiau (PKD, p. 34—35).
-      175 Anksčiau buvo manoma, jog toliau aprašomas kovas su prūsais Dusburgietis
-    paėmęs iš kokios senos kronikos (SRP, 1, p. 6); greičiausiai tai paimta iš viduramžių
-    pasakojimų, siejamų su įžymiais senovės veikėjais (PKD, p. 186).
-
-    Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
-    Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra
-    vadinamieji Dobrynės broliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-60777
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 48"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
-    a. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir
-    Krokuvos kunigaikščio) tarnyboje.
+    priemonėmis, nes priešas nugalimas ne tik daiktiškais, bet ir dvasiškais ginklais, vadinasi,
+    malda. (Iš 17, 11) Štai skaitome apie Mozę, kad Izraelis, kai jis meldėsi, nugalėdavęs
+    Amalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas. Be to, ir
+    Išminties knygoje apie tą patį Mozę rašoma, kad jis nugalėdavęs priešų minias ne kūno
+    stiprybe ir ne ginklo galybe, bet žodžiu, vadinasi, malda.
+  citata_rodoma: "178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII\na. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir\nKrokuvos kunigaikščio) tarnyboje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -112,23 +99,22 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
 - id: c-60778
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 47-48"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47-48."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie naują Teutonų namų ordino brolių karą su prūsų gentimis
-
-      Pasak senovės istorikų175, daug kas senaisiais laikais yra kariavęs su prūsais: Julijus
-    Autentiškame Konrado dokumente liudytojų mažiau (PKD, p. 34—35).
-      175 Anksčiau buvo manoma, jog toliau aprašomas kovas su prūsais Dusburgietis
-    paėmęs iš kokios senos kronikos (SRP, 1, p. 6); greičiausiai tai paimta iš viduramžių
-    pasakojimų, siejamų su įžymiais senovės veikėjais (PKD, p. 186).
-
     Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
     Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra
-    vadinamieji Dobrynės broliai.
+    vadinamieji Dobrynės broliai. Tačiau prūsai, nutykoję gerą progą, arba nugalabydavo jų
+    vadus bei tuos, kurie juos vedė į žygį, arba patys kur toliau nuo savęs nuvydavo; šitaip
+    nusimetę nuo savo sprando vergovės jungą, jie grįždavo prie savo pirmykščių paklydimų.
+    Kaip tik tuo metu šventosios Marijos ligoninės Teutonų namų ordino Jeruzalėje broliai
+    pradėjo prieš juos naują karą. (Ts 5, 8) Šitai ir buvo tie nauji karai, kuriuos „viešpats
+    išrinko“ nedraugų vartams išgriauti, nes, jiems nužudžius ar sunaikinus vieną kurį vadą
+    ar keletą vadų, tą pačią ar kitą dieną į nužudytųjų vietą stodavosi kiti, jiems lygūs arba
+    už juos geresni.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60146
+    - t-197103

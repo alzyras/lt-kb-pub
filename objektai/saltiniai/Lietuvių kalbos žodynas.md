@@ -58,62 +58,13 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
   teiginys: "Kazimiero Būgos 1902 m. pradėtas „Lietuvių kalbos žodynas“ baigtas 2001 m.; išleista 20 tomų su apie puse milijono žodžių."
   pagrindžia:
     - c-166757
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šeštasis „Lietuvių kalbos žodyno“ tomas išleistas 1962 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvių kalbos žodynas.— T. 6.— V., 1962.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvių kalbos žodyne krivūlė aiškinama kaip kreiva lazda, buvusi krivio valdžios ženklu ir žmonių šaukimo į kuopą priemone.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    206 D.— baculum. Krivės baculum buvo krivūlė — kreiva lazda, krivio (vėliau seniūno)
-    valdžios ženklas, lazda žmonėms  į kuopą šaukti (Lietuvių kalbos žodynas, VI, p. 661;
-    Lietuvių etnografijos bruožai, p. 528—529; MLTE, 2, p. 220).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Kazimiero Būgos 1902 m. pradėtas „Lietuvių kalbos žodynas“ baigtas 2001 m.; išleista 20 tomų su apie puse milijono žodžių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tęstas 1902 m. Kazi-
-    miero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai
-    atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir
-    trukdant politrukams. Pasaulyje unikaliausias leksikografinis darbas už-
-    baigtas tik 2001 m.). Išleista 20 žodyno tomų, bendras puslapių skaičius –
-    22 000, juose pateikta pusė milijono lietuvių kalbos žodžių ir jų vartojimo
-    pavyzdžių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 ## Citatos
 
 - id: c-67336
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lietuvių kalbos žodynas.— T. 6.— V., 1962.
   statusas: verified
@@ -126,8 +77,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 - id: c-67337
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 68"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     206 D.— baculum. Krivės baculum buvo krivūlė — kreiva lazda, krivio (vėliau seniūno)
     valdžios ženklas, lazda žmonėms  į kuopą šaukti (Lietuvių kalbos žodynas, VI, p. 661;

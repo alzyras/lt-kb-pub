@@ -43,38 +43,13 @@ Narbutas rašo, kad 1813 m. Lokaičių palivarko nuomotojas Daujotas jam pasakoj
   teiginys: "Narbutas rašo, kad 1813 m. Lokaičių palivarko nuomotojas Daujotas jam pasakojo gavęs varinį žiedą iš Lokaičiuose rastų daiktų."
   pagrindžia:
     - c-173024
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Narbutas rašo, kad 1813 m. Lokaičių palivarko nuomotojas Daujotas jam pasakojo gavęs varinį žiedą iš Lokaičiuose rastų daiktų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    1809 metais Marijampolės apskrityje, netoli nuo kairiojo
-    Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
-    liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil­
-    žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų:
-    lai buvo rūdžių suėsti kalavijai, kardai, berdyšiai, skydai, ant­
-    veidžiai, kai kurie variniai ir sidabriniai daiktai. 1813 metais jo
-    mylista Daujotas, anuometinis Lokaičių palivarko nuomoto­
-    jas, man pasakojo: „Gavau varinį žiedą su puse colio pločio,
-    11 colių diametro“.
-    To žiedo puošyba, kurią aš kuo tiksliausiai perpiešiau, pa­
-    rodyta I lentelės 1-ajame piešinyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-173024
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     1809 metais Marijampolės apskrityje, netoli nuo kairiojo
     Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­

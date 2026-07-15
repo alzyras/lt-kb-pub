@@ -7,15 +7,15 @@ datos:
   - '1896 m.'
 date_start: '1896'
 date_end: ''
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - istorikas
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,8 +43,8 @@ Dusburgietis teigia, kad mierzyński A.
   teiginys: "Mierzyński A. 1896 m. Varšuvoje paskelbė antrąją „Źródła do mytologii litewskiej“ dalį apie XIV ir XV amžius."
   pagrindžia:
     - c-61388
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mierzyński A. 1896 m. Varšuvoje paskelbė antrąją „Źródła do mytologii litewskiej“ dalį apie XIV ir XV amžius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,10 +63,11 @@ Dusburgietis teigia, kad mierzyński A.
 - id: c-61388
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    7, p. 102— 106.
     Mierzyński A. Źródła do mytologii litewskiej —Cz. 2: wiek XIV i XV,—Warszawa, 1896.
+  citata_rodoma: "Mierzyński A. Źródła do mytologii litewskiej —Cz. 2: wiek XIV i XV,—Warszawa, 1896."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

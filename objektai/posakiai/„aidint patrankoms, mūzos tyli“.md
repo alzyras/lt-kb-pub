@@ -35,25 +35,6 @@ Sakoma: aidint patrankoms, mūzos tyli.
   teiginys: "Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto, vadinamo mūzų prieglobsčiu, kūrimu."
   pagrindžia:
     - c-26749
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau Steponas
-    Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus uni-
-    versiteto – kūrimu. Aišku, aukštosios mokyklos poreikis brendo visuo-
-    menėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-
-    reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas
-    Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
-    mui įkurti kolegiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -7,12 +7,12 @@ datos:
   - '1972 m.'
 date_start: '1972'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +40,8 @@ Dusburgietis teigia, kad stankiewicz J.
   teiginys: "J. Stankiewicziaus „Twierdza Toruń“ publikuota 1972 m. ZHPB 37 tomo 4 sąsiuvinyje."
   pagrindžia:
     - c-61929
-## Reikšmingi paminėjimai
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Stankiewicziaus „Twierdza Toruń“ publikuota 1972 m. ZHPB 37 tomo 4 sąsiuvinyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,10 +60,14 @@ Dusburgietis teigia, kad stankiewicz J.
 - id: c-61929
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Stankiewicz J. Twierdza Toruń.—ZHPB, 1972, t. 37, z. 4, s. 9—68.
+    — Балто-
+    славянские этноязыковые отношения в историческом и ареальном плане: Тезисы
+    докладов, М, 1983 с. 69.
+    Валиконите И. Социально-экономическое и правовое положение женщин в ВКЛ
+    (конец XV — первая пол.
+  citata_rodoma: "Stankiewicz J. Twierdza Toruń.—ZHPB, 1972, t. 37, z. 4, s. 9—68."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

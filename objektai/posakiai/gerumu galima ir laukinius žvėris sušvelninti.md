@@ -80,48 +80,6 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   teiginys: "Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje."
   pagrindžia:
     - c-177406
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
-    dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
-    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
-    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
-    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
-    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai
-    kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
-    riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
-    galima ir laukinius žvėris sušvelninti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kai ant Dniepro
-    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
-    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
-    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
-    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai
-    kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
-    riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
-    galima ir laukinius žvėris sušvelninti. O kai vėl kartą jo akyse
-    kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
-    rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
-    kalbis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-004
 
 ## Citatos
 
@@ -148,8 +106,10 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195036
+    - t-195034
     - t-195035
+    - t-195036
+    - t-195037
 
 - id: c-177406
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

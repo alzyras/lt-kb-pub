@@ -72,52 +72,6 @@ Nenurodyta
   teiginys: "1940 m. birželio 16 d. sovietų divizijoms per Lietuvą atkirtus Latviją ir Estiją nuo Vokietijos, abi valstybės buvo greitai okupuotos."
   pagrindžia:
     - c-22989
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    karą, neturint galimybės patiems apginti nepriklausomybę, pasirinkti
-    kiti būdai išlikti, priešintis, bandyti išsaugoti tautą, jos kalbą ir kultūrą
-    ir laukta palankaus momento Lietuvos valstybei atkurti. Lietuvių tautos
-    lūkesčiai gyventi savo valstybėje išsipildys tik baigiantis Šaltajam karui,
-    kai antrą kartą XX a. pavyks atkurti šalies nepriklausomybę, atgauti jos
-    tarptautinį pripažinimą ir tapti visateise Vakarų pasaulio ir demokratinės
-    Europos dalimi.
-    Lietuvos sovietizacija
-    1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-
-    vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
-    okupuotos ir dvi gretimos Baltijos valstybės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-002
-  santrauka: 'Sovietų divizijoms žygiuojant per Lietuvą ir atkirtus Latviją bei Estiją nuo Vokietijos, 1940 m. birželio 16 d. abi valstybės buvo žaibiškai okupuotos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvių tautos
-    lūkesčiai gyventi savo valstybėje išsipildys tik baigiantis Šaltajam karui,
-    kai antrą kartą XX a. pavyks atkurti šalies nepriklausomybę, atgauti jos
-    tarptautinį pripažinimą ir tapti visateise Vakarų pasaulio ir demokratinės
-    Europos dalimi.
-    Lietuvos sovietizacija
-    1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-
-    vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
-    okupuotos ir dvi gretimos Baltijos valstybės. Nuo šiol trijulės likimas
-    taps nepaprastai panašus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

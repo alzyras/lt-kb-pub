@@ -48,53 +48,6 @@ Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė 
   teiginys: "Tebevykstant Lietuvos ir Lenkijos deryboms Suvalkuose, Lenkija slapta rengėsi užimti Vilnių."
   pagrindžia:
     - c-75994
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lucjanui Želigovskiui buvo pavesta inscenizuoti 1-osios lietuvių-baltarusių divizijos maištą ir įsiveržti į Lietuvą, pažeidžiant Suvalkų taikos sutartį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Asmeniniam Lenkijos prezidento Juzefo Pilsudskio
-    draugui L. Želigovskiui buvo pavesta slapta užduotis.
-    Inscenizavus Lenkijos kariuomenės 1-osios lietuvių-
-    baltarusių divizijos (jai vadovauti jis buvo paskirtas
-    1920 m. spalio pradžioje) maištą, pažeidžiant Suvalkų
-    taikos sutartį įsiveržti į Lietuvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Tebevykstant Lietuvos ir Lenkijos deryboms Suvalkuose, Lenkija slapta rengėsi užimti Vilnių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    LIETUVOS
-    RESPUBLIKA
-
-    Kautynių priešistorė
-
-    Tebevykstant Lietuvos ir Lenkijos de-
-    ryboms Suvalkuose, lenkai slapta ren-
-    gėsi užimti Vilnių. Šiam tikslui turėjo
-    būti panaudotos „sukilusios“ Lenkijos
-    kariuomenės dalys, sudarytos ne tik iš
-    lenkų, bet ir Lenkijos kariuomenėje tar-
-    navusių lenkakalbių lietuvių ir gudų,
-    „nepaklūstančių“ Lenkijos vadovybei.
-    Lenkija negalėjo atvirai vykdyti agre-
-    sijos prieš Lietuvą, puolimo išvakarėse
-    jau buvo pasirašyta Suvalkų sutartis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

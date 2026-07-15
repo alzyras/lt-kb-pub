@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Jonas Basanavičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lenkai Lietuvoje Dr. J. Basanavičius'
 datos:
   - '1851 m.'
   - '1927 m.'
@@ -14,7 +15,7 @@ tags:
   - asmuo
   - mokslininkas
   - redaktorius
-  - kalbininkas
+  - tauta
 amziai:
   - 'XIX'
   - 'XX'
@@ -61,6 +62,13 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   teiginys: "1914 m. liepą Vilniuje Jonas Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė Gintarinę deklaraciją."
   pagrindžia:
     - c-75320
+
+<a id="claim-t-200890"></a>
+- t-004
+  global_id: t-200890
+  teiginys: "Dr. Basanavičius, susipažinęs su lenkiškų laikraščių atsiliepimais, parašė straipsnį „Polaki v Litvie“, išspausdintą „Nov. Vrēmia“."
+  pagrindžia:
+    - c-184233
 - susijęs iš [[objektai/asmenys/Donatas Malinauskas.md#claim-t-18878|Donatas Malinauskas]]: Donatas Malinauskas 1914 m. liepą Vilniuje su Jonu Basanavičiumi ir Stasiu Šilingu surašė Gintarinę deklaraciją.
 - susijęs iš [[objektai/asmenys/J. Basanavičius.md#claim-t-63663|J. Basanavičius]]: J. Basanavičius vadinamas tautos patriarchu ir siejamas su Lietuvos Respublikos ištakomis.
 - susijęs iš [[objektai/asmenys/J. Basanavičius.md#claim-t-63664|J. Basanavičius]]: 1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą.
@@ -98,82 +106,6 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
 - susijęs iš Rusija: 1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.
 - susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101609|tautinis krikštas (krikštas)]]: Lenkų romantikų kūryba prisidėjo prie lietuvių tautinės savimonės plėtotės ir lietuviškai kalbančio kaimo tautinio krikšto.
 - susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101610|tautinis krikštas (krikštas)]]: Lietuvių tautiniam krikštui didelę reikšmę turėjo lenkų romantikų kūryba ir lietuviškai rašyta Maironio poezija.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Jonas Basanavičius buvo pirmasis 1883 m. Rytprūsiuose pradėto leisti lietuviško mėnraščio „Aušra“ redaktorius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
-    Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
-    raštį „Aušra“ („Auszra“). Pirmuoju redaktoriumi buvo tuomet Prahoje
-    gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indo-
-    europiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavi-
-    čius (1851–1927).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1914 m. liepą Vilniuje Jonas Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė Gintarinę deklaraciją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    KOVA DĖL NEPRIKLAUSOMYBĖS
-    Lietuvos planai: nuo autonomijos
-    iki nepriklausomybės
-    N
-    aują impulsą savo veiklai Europos šalių tautiniai są-
-    jūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriau-
-    dėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą
-    (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vo-
-    kietijos ir Austrijos–Vengrijos imperijos pradėjo karą prieš trilypę Pran-
-    cūzijos, Didžiosios Britanijos ir Rusijos imperijos Antantę. Vos tik Rusijai
-    iškėlus trijų imperijų pasidalytų lenkų klausimo sprendimą, lietuviai krūp-
-    telėjo – negi lenkams priklausys Suvalkų gubernijos lietuviai? Kai 1914 m.
-    liepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-
-    šė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-
-    ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
-    esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
-    tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Jonas Basanavičius buvo Lietuvių mokslo draugijos pirmininkas ir jau tuo laikotarpiu lietuvių visuomenės laikytas tautos patriarchu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
-    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
-    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
-    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
-    telkusi lenkiškai kalbančiuosius. Lietuvių mokslo draugijos iniciatorius ir
-    Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.
-    Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja
-    Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius,
-    Liudvika Didžiulienė-Žmona ir kt. (A. Jurašaičio nuotrauka)
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    127
-    pirmininkas buvo J. Basanavičius,
-    jau šiuo laikotarpiu lietuvių visuo-
-    menės laikytas tautos patriarchu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-75319
@@ -251,6 +183,32 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78005
+
+- id: c-184233
+  autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
+  šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
+  puslapiai: "PDF 5"
+  indeksas: "Jonas Basanavičius; V. Gintautas (vertė), Lenkai Lietuvoje Dr. J. Basanavičius, PDF 5."
+  citata_originali: |
+    Rašančiam šituos żodżius gaila buvo neturint
+    parankiui augščiau pam inētų Basanavičiaus straips­
+    nių, kurie, kaipo dokumentai atsigaivinančios lie­
+    tuviškos m ansties, rasi, użsipelnytų, idant ir lietu­
+    viškoj kalboje apgarsinti taptų, nes iš jų matoma
+    butų, kaip tuom et, dar tik prasidedant tautiškam -
+    jam musų krutējimui, żiurēta ant tulų prietikių
+    terp musų ir lenkų tautos. Dr. Basanavičius, susi­
+    pażinęs su tais balsais, kurie, iš prieżasties jo
+    straipsnių, lenkiškuose laikraščiuose buvo apsi­
+    reiškę, atsakyman parašē ilgoką artikulą: „Polaki
+    v L itvie” , kurį „N ov. V rēm ia” feuilletone n-rio
+    2634 atspaudino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200890
 
 ## Ryšiai
 - Jonas Basanavičius gyveno [[objektai/vietos/Praha]]

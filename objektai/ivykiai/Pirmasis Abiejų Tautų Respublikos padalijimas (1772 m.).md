@@ -60,21 +60,6 @@ Nenurodyta
   teiginys: "Pirmojo Abiejų Tautų Respublikos padalijimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, o 1773–1775 m. patvirtintos Varšuvos delegaciniame seime."
   pagrindžia:
     - c-44924
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
-    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
-    seimas Varšuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

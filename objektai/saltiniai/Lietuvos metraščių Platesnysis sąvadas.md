@@ -31,49 +31,27 @@ media_all_json: |-
 
 ## Santrauka
 
-Mūsų išvados, susiklosčiusios ruošiant Bychovco kronikos vertimą į lietuvių kalbą, patvirtina spėjimus, kad Platesnysis sąvadas turėjo būti sukurtas Alberto Goštauto iniciatyva XVI a. 1 5 Lietuvos valstybė siekė Vislos upės intaką Būgą, bet pačios Vislos niekada nesiekė.
+Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su Alberto Goštauto iniciatyva XVI a. antrajame dešimtmetyje, prieš 1519 m. Lietuvos metraščių Platesniojo sąvado pastaboje nurodoma, kad Lietuvos valstybė siekė Būgą, bet niekada nesiekė pačios Vislos.
 
 ## Teiginiai
 
 <a id="claim-t-194153"></a>
 - t-001
   global_id: t-194153
-  teiginys: "Mūsų išvados, susiklosčiusios ruošiant Bychovco kronikos vertimą į lietuvių kalbą, patvirtina spėjimus, kad Platesnysis sąvadas turėjo būti sukurtas Alberto Goštauto iniciatyva XVI a."
+  teiginys: "Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su Alberto Goštauto iniciatyva XVI a. antrajame dešimtmetyje, prieš 1519 m."
   pagrindžia:
     - c-176766
 
 <a id="claim-t-194154"></a>
 - t-002
   global_id: t-194154
-  teiginys: "1 5 Lietuvos valstybė siekė Vislos upės intaką Būgą, bet pačios Vislos niekada nesiekė."
+  teiginys: 'Lietuvos metraščių Platesniojo sąvado pastaboje nurodoma, kad Lietuvos valstybė siekė Būgą, bet niekada nesiekė pačios Vislos.'
   pagrindžia:
     - c-176767
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mūsų išvados, susiklosčiusios ruošiant Bychovco kronikos vertimą į lietuvių kalbą, patvirtina spėjimus, kad Platesnysis sąvadas turėjo būti sukurtas Alberto Goštauto iniciatyva XVI a.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Mūsų išvados, susiklosčiusios ruošiant Bychovco
-    kronikos vertimą į lietuvių kalbą, patvirtina spėjimus,
-    kad Platesnysis sąvadas turėjo būti sukurtas Alberto
-    Goštauto iniciatyva XVI a. antrajame dešimtmetyje,
-    prieš 1519 m .5 0 . Antra, esame giliai įsitikinę, kad ne
-    tik atskiri originalieji Bychovco kronikos pasakojimai,
-    bet ir visa toji kronika buvo parašyta to paties Alber­
-    to Goštauto iniciatyva, dar jam gyvam esant, netrukus
-    po Platesniojo sąvado, antrojo ir trečiojo XVI a. de­
-    šimtmečių riboje, gal būt, tarp 1519—1521 ar 1525 m .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - c-002
-  santrauka: '1 5 Lietuvos valstybė siekė Vislos upės intaką Būgą, bet pačios Vislos niekada nesiekė.'
+  santrauka: 'Lietuvos metraščių Platesniojo sąvado pastaboje nurodoma, kad Lietuvos valstybė siekė Būgą, bet niekada nesiekė pačios Vislos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     1 5  Lietuvos valstybė siekė Vislos upės intaką Būgą, bet pačios
@@ -103,35 +81,16 @@ Mūsų išvados, susiklosčiusios ruošiant Bychovco kronikos vertimą į lietuv
     kronikos vertimą į lietuvių kalbą, patvirtina spėjimus,
     kad Platesnysis sąvadas turėjo būti sukurtas Alberto
     Goštauto iniciatyva XVI a. antrajame dešimtmetyje,
-    prieš 1519 m .5 0 . Antra, esame giliai įsitikinę, kad ne
+    prieš 1519 m .50. Antra, esame giliai įsitikinę, kad ne
     tik atskiri originalieji Bychovco kronikos pasakojimai,
     bet ir visa toji kronika buvo parašyta to paties Alber­
     to Goštauto iniciatyva, dar jam gyvam esant, netrukus
     po Platesniojo sąvado, antrojo ir trečiojo XVI a. de­
-    šimtmečių riboje, gal būt, tarp 1519—1521 ar 1525 m .
+    šimtmečių riboje, gal būt, tarp 1519—1521 ar 1525 m.
+  citata_rodoma: "Mūsų išvados, susiklosčiusios ruošiant Bychovco \nkronikos vertimą į lietuvių kalbą, patvirtina spėjimus, \nkad Platesnysis sąvadas turėjo būti sukurtas Alberto \nGoštauto iniciatyva XVI a. antrajame dešimtmetyje, \nprieš 1519 m .5 0 . Antra, esame giliai įsitikinę, kad ne \ntik atskiri originalieji Bychovco kronikos pasakojimai, \nbet ir visa toji kronika buvo parašyta to paties Alber­\nto Goštauto iniciatyva, dar jam gyvam esant, netrukus \npo Platesniojo sąvado, antrojo ir trečiojo XVI a. de­\nšimtmečių riboje, gal būt, tarp 1519—1521 ar 1525 m ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194153
-
-- id: c-176767
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    1 5  Lietuvos valstybė siekė Vislos upės intaką Būgą, bet pačios
-    Vislos niekada nesiekė.
-    2«
-    ' BK pasakojimas apie Jogailos vedybas su Lenkijos sosto įpė­
-    dine Jadvyga ir Lietuvos krikštą remiasi Lietuvos metraščių TS pa­
-    sakojimu, kuris be didesnių pakeitimų yra pakartotas ir PS. BK jis
-    perdirbtas Ir išplėstas, turi originalaus pobūdžio, kaip ir ankstes­
-    nis pasakojimas apie Jogailos žygj j Lenkiją.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194154

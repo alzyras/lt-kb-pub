@@ -35,34 +35,13 @@ Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando 
   teiginys: "Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando atstovą taikos reikaluose."
   pagrindžia:
     - c-169469
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando atstovą taikos reikaluose.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
-    jųjų metų nepradėta kalbėtis dėl taikos. Maskvėnų
-    metraščiai mini popiežiaus Klemenso legatą Joną Fren-
-    tijulijų, imperatoriaus Karolio V — grafą Leonardą ir
-    karaliaus Ferdinando — Zigmantą Herberšteiną. Kara­
-    lius Žygimantas patikėjo šį reikalą tiems patiems, ku­
-    rie ėjo šias pareigas prieš ketverius metus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-169469
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 651"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 651."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
     jųjų metų nepradėta kalbėtis dėl taikos. Maskvėnų

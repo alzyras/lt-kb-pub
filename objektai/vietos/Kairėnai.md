@@ -36,27 +36,6 @@ Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz.
   pagrindžia:
     - c-93861
 - susijęs iš [[objektai/ivykiai/Kališo taika.md#claim-t-100053|Kališo taika]]: 85 Kališas 217 ; Kališo taika 232, 330 Kalita 371, žr.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Be jų,
-    R. Jablonskytė - Rimantienė pateikė duomenų apie
-    seniausias akmens amžiaus stovyklas Lietuvoje^98. O N avickai­
-    tė - Kuncienė rašė apie įvairius kapinynus bei pilkapius
-    V. Urbanavičius domėjosi degintiniais kapais ir laidosena
-    Lietuvoje XIV a.^100. I. Sadauskaitė rašė apie Kairėnu, Sei-
-    (^95) **Pvz., Paveisininkų (IstV, t. 11, 1970, 227-246 p.), Rasių apylinkės
-    (IstV, t. 12, sąs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-93861

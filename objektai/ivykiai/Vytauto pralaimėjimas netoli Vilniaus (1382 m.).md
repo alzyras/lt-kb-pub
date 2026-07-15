@@ -57,35 +57,6 @@ Nenurodyta
   teiginys: "Vytautas, pralaimėjęs mūšį netoli Vilniaus ir netekęs tūkstančio žmonių, turėjo slėptis Trakų pilyje."
   pagrindžia:
     - c-82946
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautas, pralaimėjęs mūšį netoli Vilniaus ir netekęs tūkstančio žmonių, turėjo slėptis Trakų pilyje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Re­
-    gis, iš jo kilusi Hanulu giminė, kurių
-    36
-
-    ## Puslapis 53
-
-    I  KNYGA
-    Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­
-    gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi
-    pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. Tas
-    Vilniaus gyventojų palankumas didžia dalimi nulėmė eigą
-    kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat
-    pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
-    nių, turėjo slėptis Trakų pilyje34. Ir šią pilį Jogaila būtų leng­
-    vai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į
-    pagalbą sūnui pagaliau nebūtų atvykęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

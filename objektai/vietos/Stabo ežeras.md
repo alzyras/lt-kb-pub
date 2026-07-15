@@ -35,61 +35,14 @@ Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinbe
   teiginys: "Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras."
   pagrindžia:
     - c-59362
-
-<a id="claim-t-184206"></a>
-- t-002
-  global_id: t-184206
-  teiginys: "Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras."
-  pagrindžia:
     - c-167591
 - susijęs iš Nalepa J., Stabo: J. Nalepos tyrime Stabo ežeras tapatinamas su dabartiniu Kamienne ežeru Suvalkų krašte.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Spąsčių kalnas
-    Spitenbergas (Spittenbergk, Spittinberc)
-    Spitteynen
-    Spittels
-    Sprūdės kalnas
-    Stabo (dab. Kamienne) ež.
-    Stalupėnai (dab.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sniardwy), ež.
-    Spąsčių kalnas
-    Spitenbergas (Spittenbergk, Spittinberc)
-    Spitteynen
-    Spittels
-    Sprūdės kalnas
-    Stabo (dab. Kamienne) ež.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-59362
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 318"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Spąsčių kalnas
     Spitenbergas (Spittenbergk, Spittinberc)
@@ -108,8 +61,7 @@ Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinbe
 - id: c-167591
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 318"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sniardwy), ež.
     Spąsčių kalnas
@@ -122,5 +74,3 @@ Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinbe
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184206

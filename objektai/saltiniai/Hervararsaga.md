@@ -40,24 +40,6 @@ Tai patvirtina ir Hervararsaga (apie 675 m.
   teiginys: "Hervararsaga apie 675 m. teigė, kad Kuršą buvo užvaldęs švedų karalius Ivaras."
   pagrindžia:
     - c-94053
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Hervararsaga apie 675 m. teigė, kad Kuršą buvo užvaldęs švedų karalius Ivaras.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ansgaro, kuris misijų reikalu buvo sustojęs ir Kurše.
-    Kuršiai (Cori), kurių vardą Rimbertas pirmasis pamini, esą
-    anksčiau priklausę švedų valdžiai. Tai patvirtina ir Hervararsaga
-    (apie 675 m.), teigianti, jog Kuršą buvo užvaldęs švedų karalius
-    įvaras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

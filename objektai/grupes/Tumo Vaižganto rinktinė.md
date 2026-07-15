@@ -42,26 +42,6 @@ Margio rinktinės žvalgybos sk. Likę Šarūno ir Kunigaikščio Margio rinktin
   teiginys: "1950 m. lapkričio 25 d. Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę."
   pagrindžia:
     - c-44860
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1950 m. lapkričio 25 d. Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    praktiškai žuvo visa apygardos vadovybė.
-    1950 m. lapkričio 25 d. srities vado įsakymu
-    Algimanto apygarda buvo panaikinta. Likę
-    Šarūno ir Kunigaikščio Margio rinktinių
-    kovotojai sujungti į vieną - Tumo Vaižganto
-    rinktinę ir įtraukti į Vytauto, o Žaliosios
-    rinktinės kovotojai - į Vyčio apygardas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

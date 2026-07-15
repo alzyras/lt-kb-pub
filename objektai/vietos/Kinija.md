@@ -68,45 +68,6 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 - susijęs iš [[objektai/autoriai/Bleikas.md#claim-t-191636|Bleikas]]: Anglų keliautojas mokslininkas Bleikas nurodė Baltojo Himalajų kalno aukštį kaip 28 000 angliškų pėdų.
 - susijęs iš [[objektai/autoriai/Strabonas.md#claim-t-190794|Strabonas]]: Teodoras Narbutas mini spėjimą, kad šališkas aiškintojas Strabonas Pytejui priskyrė svetimos medžiagos.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172131|Jėzuitų ordinas]]: 1569 m. vyskupo kvietimu į Vilnių atvykę jėzuitai gavo lėšų kolegijai ir planavo ją pertvarkyti į universitetą.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vienas jų tada rašė: „Reikia
-    taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,
-    o iš jos per totorius galėsime pasiekti ir Kiniją. Be to, reikia neužmirš-
-    ti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios
-    naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Ruda-
-    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
-    1626–1634 m. ir rašė asketikos veikalus kinų kalba.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-002
-
-- c-002
-  santrauka: 'Vilniaus akademiją steigę jėzuitai manė, kad per Maskoviją ir totorius galima pasiekti Kiniją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    buvo Krokuvos universitetas, o XVI a. dviem amžiams (iki Maskvos ir
-    Sankt Peterburgo universitetų įkūrimo) šį vaidmenį perėmė Vilniaus
-    universitetas. Kad toks universiteto vaidmuo nėra vien formalus, buvo
-    aišku jau akademiją steigusiems jėzuitams. Vienas jų tada rašė: „Reikia
-    taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,
-    o iš jos per totorius galėsime pasiekti ir Kiniją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-74090
@@ -127,8 +88,8 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76527
     - t-76526
+    - t-76527
 
 - id: c-74092
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

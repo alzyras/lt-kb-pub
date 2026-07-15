@@ -25,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais, pavydo paskatinti ėmė maištauti prieš gotus ir sukėlė pilietinį karą.
+Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais, pavydo paskatinti ėmė maištauti prieš gotus ir sukėlė pilietinį karą. Tačiau atsitiko taip, kad svebų kara liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių bendrininkai, kažin kokio pavydo šiai pagrindinei tautai paskatinti, ėmė maištauti ir sukėlė pilietinį karą.
 
 ## Teiginiai
 
@@ -35,26 +35,33 @@ Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais,
   teiginys: "Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais, pavydo paskatinti ėmė maištauti prieš gotus ir sukėlė pilietinį karą."
   pagrindžia:
     - c-174300
+
+<a id="claim-t-197754"></a>
+- t-002
+  global_id: t-197754
+  teiginys: "Tačiau atsitiko taip, kad svebų kara liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių bendrininkai, kažin kokio pavydo šiai pagrindinei tautai paskatinti, ėmė maištauti ir sukėlė pilietinį karą."
+  pagrindžia:
+    - c-174300
 - susijęs iš [[objektai/asmenys/Alarikas (svebų karaliukas).md#claim-t-191336|Alarikas (svebų karaliukas)]]: Narbutas vaizduoja svebų karaliukus Hunimundą ir Alariką kaip gotų plėšikiškų žygių bendrininkus, sukėlusius pilietinį karą.
 - susijęs iš [[objektai/grupes/Skiriai.md#claim-t-192936|Skiriai]]: Pasak Narbuto cituojamo Jordano, skiriai iš pradžių taikiai gyveno su gotų gentimis ir labiau linko į žemdirbystę negu į karą.
 - susijęs iš De geticae gentis origine ac rebus gestis: Narbutas, remdamasis Jordanu, skirius vaizdavo kaip gotų kaimynus, iš pradžių taikiai gyvenusius ir labiau linkusius į žemdirbystę negu kariavimą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais, pavydo paskatinti ėmė maištauti prieš gotus ir sukėlė pilietinį karą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Tas pats istorikas Jorda­
-    nas, pasakodamas apie gotų kivirčus, pirmiausia mini
-    skirius, iš pradžių taikiai gyvenusius su kitomis gotų
-    gentimis; jie labiau linko į žemdirbystę ir namų verslus
-    negu į kariavimą. Tačiau atsitiko taip, kad svebų kara­
+    Tačiau atsitiko taip, kad svebų kara­
     liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių
     bendrininkai, kažin kokio pavydo šiai pagrindinei tautai
     paskatinti, ėmė maištauti ir sukėlė pilietinį karą. Jie pir­
     miausia sukurstė skirius nusimesti gotų priespaudą kaip
     tik tuo metu, kai jau atvirai kovojo su jais susikivirčiję
-    kvadai.
+    kvadai. Skiriai, dar turėję čia savo kėslų, sudarė sąjungą
+    su sukilėliais ir išvien su jais puolė gotus. Bet Siaurės
+    didvyrių giminė, susilpnėjusi po Romos miestų puldinė­
+    jimų ir kautynių su legionais, pergalingai baigė šį baisų
+    ir netikėtą karą, kuris galėjo tapti jiems visiška pražūti­
+    mi.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -62,14 +69,14 @@ Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
 
 ## Citatos
 
 - id: c-174300
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 293"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tas pats istorikas Jorda­
     nas, pasakodamas apie gotų kivirčus, pirmiausia mini
@@ -81,10 +88,17 @@ Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais,
     paskatinti, ėmė maištauti ir sukėlė pilietinį karą. Jie pir­
     miausia sukurstė skirius nusimesti gotų priespaudą kaip
     tik tuo metu, kai jau atvirai kovojo su jais susikivirčiję
-    kvadai.
+    kvadai. Skiriai, dar turėję čia savo kėslų, sudarė sąjungą
+    su sukilėliais ir išvien su jais puolė gotus. Bet Siaurės
+    didvyrių giminė, susilpnėjusi po Romos miestų puldinė­
+    jimų ir kautynių su legionais, pergalingai baigė šį baisų
+    ir netikėtą karą, kuris galėjo tapti jiems visiška pražūti­
+    mi.
+  citata_rodoma: "Tačiau atsitiko taip, kad svebų kara­\nliukai Hunimundas ir Alarikas, gotų plėšikiškų žygių \nbendrininkai, kažin kokio pavydo šiai pagrindinei tautai \npaskatinti, ėmė maištauti ir sukėlė pilietinį karą. Jie pir­\nmiausia sukurstė skirius nusimesti gotų priespaudą kaip \ntik tuo metu, kai jau atvirai kovojo su jais susikivirčiję \nkvadai. Skiriai, dar turėję čia savo kėslų, sudarė sąjungą \nsu sukilėliais ir išvien su jais puolė gotus. Bet Siaurės \ndidvyrių giminė, susilpnėjusi po Romos miestų puldinė­\njimų ir kautynių su legionais, pergalingai baigė šį baisų \nir netikėtą karą, kuris galėjo tapti jiems visiška pražūti­\nmi."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191418
+    - t-197754

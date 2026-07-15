@@ -14,14 +14,14 @@ datos:
   - '2026 m.'
 date_start: '1402'
 date_end: '2026'
+amziai:
+  - 'XV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - valstybė
-amziai:
-  - 'XV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -94,7 +94,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176867|Zigmantas Kaributas]]: Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63418|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63420|Albrechtas (Romos karalius)]]: Romos karalius Albrechtas pakėlė savo sūnų į Čekijos sostą, kai po Vaclovo ir jo sūnaus mirties sostas liko be įpėdinių.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176307|Algirdas (Lietuvos valdovas)]]: Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.
 - susijęs iš [[objektai/asmenys/Egerbergas.md#claim-t-87658|Egerbergas]]: 1323 m. pradžioje Egerbergas su Zinnenbergu atvyko su stipriu kilmingų karių ir vasalų pulku iš Čekijos bei Pareinio žemių.
 - susijęs iš [[objektai/asmenys/Jonas iš Liuksemburgo.md#claim-t-60347|Jonas iš Liuksemburgo]]: 1329 m. Jonas iš Liuksemburgo, Čekijos karalius, su kilmingųjų palyda atžygiavo į Prūsiją.
 - susijęs iš [[objektai/asmenys/Jonas Černinas.md#claim-t-186219|Jonas Černinas]]: Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti didelius algininkų būrius.
@@ -230,7 +229,6 @@ media_all_json: |-
 - susijęs iš Pelplino analai: Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.
 - susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
 - susijęs iš Baiga: Po susitaikymo Čekijos karalius nuvedė kariuomenę iki Baigos pilies, kur broliai surado seną vyrą Gedūną.
-- susijęs iš Baltarusija: Kazimieras žiemos viduryje aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.
 - susijęs iš Elbingas: Žiemą daugiau kaip 60 tūkstančių karių atžygiavo į Elbingą, bet ginčas malūne vos nesuardė žygio.
 - susijęs iš Jeruzalė: „Pelplino analų“ pirmojoje žinutėje kalbama apie Ordino įsikūrimą Jeruzalėje 1190 m.
 - susijęs iš Karaliaučius: 1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.
@@ -242,12 +240,10 @@ media_all_json: |-
 - susijęs iš Lietuva: Čekijai pasitraukus iš Jogailaičių dinastinės sistemos, joje liko Lenkija ir Lietuva.
 - susijęs iš Medvėgalis: 1329 m. brolis Verneris su kariuomene apsupo Medvėgalio pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui.
 - susijęs iš Medvėgalis: 1329 m. brolis Verneris su kariuomene apsupo Medvėgalio pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui.
-- susijęs iš Polockas: Kazimieras žiemos viduryje lankėsi Baltarusijoje ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.
 - susijęs iš Praha: Karalienė Jadvyga Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų.
 - susijęs iš Prūsija: 1322 m. žiemą po ilgos ramybės nauja kryžiuočių ekspedicija patraukė į Prūsiją.
 - susijęs iš Prūsija: 1329 m. Jonas Liuksemburgietis, Čekijos karalius, su kilmingaisiais atžygiavo į Prūsijos žemę.
 - susijęs iš Prūsija: Petro iš Dusburgo kronikos IV dalies paaiškinimai Prūsijos įvykius gretino su visuotinės istorijos faktais.
-- susijęs iš Smolenskas: Kazimieras žiemos viduryje aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus.
 - susijęs iš Torunė: Torunę 1235 m. pastatė kryžiuočiai.
 - susijęs iš Torunė: Torunę 1235 m. pastatė kryžiuočiai, Teutonų ordinui gausinant miestus ir pilis Baltijos pakrantėse.
 - susijęs iš Uturiai: Uturiai buvo prie Betygalos.
@@ -255,7 +251,6 @@ media_all_json: |-
 - susijęs iš Varmė: XIV amžiuje buvo įkurti beveik visi Varmės miestai.
 - susijęs iš Vilniaus katedra: Žygimanto Augusto žmona Elžbieta mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje šalia karaliaus Aleksandro.
 - susijęs iš Vilniaus katedra: Elžbieta, ištekinta už Žygimanto Augusto, mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje.
-- susijęs iš Vitebskas: Žiemos viduryje Kazimieras aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus.
 - susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-58861|Ordino brolis]]: Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.
 - susijęs iš [[objektai/zodynas/civilinis aktas.md#claim-t-97279|civilinis aktas]]: Zigmantas teigė, kad Vytauto vainikavimas yra civilinis aktas, kuriam vyskupo patepimas kaip bažnytinė ceremonija nėra būtinas.
 - susijęs iš [[objektai/zodynas/civilinis aktas.md#claim-t-97280|civilinis aktas]]: Karaliaus vainikavimas laikytas civiliniu aktu, kuriam vyskupo patepimas kaip bažnytinė ceremonija nebuvo būtinas.
@@ -281,65 +276,6 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Jogailaičių dinastija.md#claim-t-183137|Jogailaičių dinastija]]: Jogailai tapus Lenkijos karaliumi 1386 m., atsirado Gediminaičių šakos Jogailaičių dinastija.
 - susijęs iš [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.md#claim-t-185468|Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]: Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vytautas į Čekiją su 5000-7000 vyrų nusiuntė Zigmantą Kaributaitį, ten vadintą Kaributu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Varėnon atvykusiems husitų pasiuntiniams,
-    kurie Vytautą kvietėsi savo karaliumi, šis davė aiškių vilčių. Su
-    5000-7000 vyrų jis nusiuntė Čekijon Jogailos brolio Kaributo-
-    Dimitro narsų sūnų Zigmantą Kaributaitį, ten vadinamą tiesiog
-    _«_ Kaributu ». Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­
-    to » (« postulati regis Bohemiae Vitoldi »)^17.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tada su tuo pačiu siūlymu jie kreipėsi į Vytautą Didįjį.
-    Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet
-    po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­
-    mene nusiuntė Zigmantą Kaributą padėti husitams kovose su
-    ciesorium Zigmantu. Vytautas tai darė ne iš simpatijos pačiam
-    husitizmui, bet iš pykčio ant ciesoriaus (in odium Sigismundi),
-    kuris Breslavo sprendimu (142Ü) pripažino Ordinui Žemaičius ir
-    rėmė agresingus jo žygius prieš Vytautą; pats gi kovojo su če­
-    kais, kaip kandidatas į Čekijos sostą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    O Vytautui pasisiūlė galimybė imperatoriui už neprie­
-    telišką ištarmę atmokėti pačiu skaudžiausiu būdu. Lietuvos val­
-    dovas gavo progos įsikišti į husitų reikalus ir sudaryti Zigmantui
-    sunkenybių Čekijoje, kurią šis stengėsi paveldėti po karaliaus
-    Vaclovo mirties (1419).
-    Jogailai atsisakius priimti jam husitų siūlomą Čekijos karūną,
-    veiklusis pusbrolis čekams parodė žymiai daugiau palankumo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Mirus bevaikiam Čekijos karaliui Vladislovui, Kazimieras manė galėsiąs giminystės teisėmis paimti Čekiją sau arba sūnui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -358,50 +294,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
-- c-005
-  santrauka: 'Narbutas rašė, kad 1402 ir 1403 m. Čekijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai kartu su kumanais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat pavyko rasti prie
-    Skidliaus cerkvės 1553 metų užrašą, liudijantį, kad šioje
-    cerkvėje tuo metu buvo krikštijami Jotvingijos pagonys1.
-    Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje
-    gyveno Vengrijoje arba gretimuose kraštuose. Juk žino­
-    ma, kad 1402 ir 1403 metais Čekijoje, o 1404 metais Mo­
-    ravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio
-    kariai kartu su kumanais linksminosi2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Narbutas nurodė, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Jūra dažnai išmeta gintarą, prikibusį prie
-    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
-    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
-    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
-    skirtos nuo medžių žievės1.
-    152
-    Pavienių gintaro gabalų randama beveik visur: Lie­
-    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
-    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
-    balų išmesdavo Švedijos ežeras Maeleras. Kai kuriose Ja­
-    ponijos salose turėtų būti gintaro, nes tenykščiai gyven­
-    tojai žino, iš ko jis atsiranda2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
 
 ## Citatos
 
@@ -468,16 +360,26 @@ media_all_json: |-
 - id: c-168575
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 516"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 516."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    N ei
-    pasiuntinybei, nei chanui nepagailėta g au sių  dovanų.
-    K azim ierui, k u ris n e tru k u s sugrįžo į L enkiją, čia rodėsi
-    b ea tsiv e rią k eliai į n a u ja s valdas. M at, m irus b ev aik iam
-    V ladislovui, Čekijos karaliui, kurio seserį buvo vedęs,
-    m anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa­
-    imti sau arb a k u riam  savo sūnui.
+    Pilies gynėjai, iš visų pusių apsupti,
+    mėgino prasiveržti, tačiau juos sumušė ir atstūmė; kai
+    nuo padegamųjų strėlių daugelyje vietų suliepsnojo
+    namai, jie, praradę bet kokią viltį, pasiūlius Ulrichui,
+    įgulos viršininkui, pasidavė
+    1467 m e ta i
+    karaliui. Choinicams kritus,
+    G im sta
+    k u n ig a ik štis
+    popiežiaus pasiuntinys
+    Ru-
+    Z y g im a n ta s
+    dolfas pasistengė, kad būtų
+    sudaryta taika.
+    Pirmąją sekančių metų dieną padaugėjo karaliui ir
+    įpėdinių, nes gimė Žygimantas16, ir rūpesčių, nes neži­
+    nojo, ar pavyks išlaikyti savo rankose Lietuvą.
+  citata_rodoma: "N ei\npasiuntinybei, nei chanui nepagailėta g au sių  dovanų.\nK azim ierui, k u ris n e tru k u s sugrįžo į L enkiją, čia rodėsi\nb ea tsiv e rią k eliai į n a u ja s valdas. M at, m irus b ev aik iam\nV ladislovui, Čekijos karaliui, kurio seserį buvo vedęs,\nm anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa­\nimti sau arb a k u riam  savo sūnui."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -488,8 +390,7 @@ media_all_json: |-
 - id: c-175557
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat pavyko rasti prie
     Skidliaus cerkvės 1553 metų užrašą, liudijantį, kad šioje
@@ -509,8 +410,7 @@ media_all_json: |-
 - id: c-175558
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jūra dažnai išmeta gintarą, prikibusį prie
     supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-

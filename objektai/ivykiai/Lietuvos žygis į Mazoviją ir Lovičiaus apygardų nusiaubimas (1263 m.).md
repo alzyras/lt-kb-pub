@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.
+1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju. Kojelavičius Lietuvos žygių į Mazoviją kontekste vaizdavo lenkus ir mozūrus kaip dažnų lietuvių antpuolių varginamus krikščionis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -53,57 +53,37 @@ Nenurodyta
   teiginys: "1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju."
   pagrindžia:
     - c-168973
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: '1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ki­
-    tais metais Mindaugas žiemą nusiaubė Livoniją: vasa­
-    rio 2 dieną užėmė bei su-
-    1263 m e ta i
-    griovė Pernu, prie Daugav-
-    gryvos susikovė su priešu.
-    Po to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­
-    ją: kadangi čia negalėjo priešo įvilioti į mūšį, o po
-    ankstesnių nuniokojimų šalyje nebuvo nieko dora li­
-    kę, jis persikėlė per Vyslą. Iki tol išliko nepaliestos
-    Lovičiaus apygardos, todėl iš ten buvo išgabentas di­
-    džiulis grobis, o visa kita sunaikinta ugnimi ir kalavi­
-    ju.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196213"></a>
+- t-002
+  global_id: t-196213
+  teiginys: "Kojelavičius Lietuvos žygių į Mazoviją kontekste vaizdavo lenkus ir mozūrus kaip dažnų lietuvių antpuolių varginamus krikščionis."
   pagrindžia:
-    - t-001
+    - c-168973
 
 ## Citatos
 
 - id: c-168973
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 107"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 107."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ki­
-    tais metais Mindaugas žiemą nusiaubė Livoniją: vasa­
-    rio 2 dieną užėmė bei su-
-    1263 m e ta i
-    griovė Pernu, prie Daugav-
-    gryvos susikovė su priešu.
-    Po to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­
-    ją: kadangi čia negalėjo priešo įvilioti į mūšį, o po
-    ankstesnių nuniokojimų šalyje nebuvo nieko dora li­
-    kę, jis persikėlė per Vyslą. Iki tol išliko nepaliestos
-    Lovičiaus apygardos, todėl iš ten buvo išgabentas di­
-    džiulis grobis, o visa kita sunaikinta ugnimi ir kalavi­
-    ju.
+    Po teisybei, ne tik mozūrams, bet ir lenkams įky­
+    rėjo šitiek daugel kartų užgriūnanti nelaimė. Lenkų
+    karalystei suskilus į daugybę kunigaikštysčių, sunku
+    buvo susitarti, be to, netoliese auganti lietuvių galybė
+    ilgainiui kėlė vis 'didesnę baimę. Vargu ar prislėgti
+    krikščionys būtų kada lengviau atsikvėpę, jeigu be­
+    kylančios stabmeldžių galios nebūtų palaužusi vidaus
+    nesantarvė. Tuo laiku mirė Mindaugui žmona; šeimy­
+    nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū­
+    mus atvyko pakviesta Daumanto, Nalšios kunigaikš­
+    čio, žmona, karalienės sesuo.
+  citata_rodoma: "Ki­\ntais metais Mindaugas žiemą nusiaubė Livoniją: vasa­\nrio 2 dieną užėmė bei su-\n1263 m e ta i\ngriovė Pernu, prie Daugav-\ngryvos susikovė su priešu.\nPo to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­\nją: kadangi čia negalėjo priešo įvilioti į mūšį, o po\nankstesnių nuniokojimų šalyje nebuvo nieko dora li­\nkę, jis persikėlė per Vyslą. Iki tol išliko nepaliestos\nLovičiaus apygardos, todėl iš ten buvo išgabentas di­\ndžiulis grobis, o visa kita sunaikinta ugnimi ir kalavi­\nju."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185612
+    - t-196213

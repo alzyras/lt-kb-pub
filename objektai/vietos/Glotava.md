@@ -7,13 +7,13 @@ datos:
   - '1300 m.'
 date_start: '1300'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - upė
   - vieta
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,7 +59,6 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179285|Lietuviai]]: Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190600|Lietuviai]]: Narbutas mirusiųjų deginimą kildino iš indų ir teigė, kad vėlyvojoje lietuvių stabmeldystėje jis taikytas tik žymesniems žmonėms.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Glotava laikoma pietrytiniu Pagudės valsčiumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -78,40 +77,21 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: '1300 m. rudenį 75 lietuviai netikėtai įsibrovė į Varmės vyskupystės Glotavos valsčių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    275 (268). Apie 72 lietuvius, nukautus Notangoje
-
-      Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai
-    įsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar
-    pagrobė viską, ką ten rado gyvą. Šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo
-    komtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo
-    žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę,  ir, stojęs  į mūsų, nukovė visus,
-    išskyrus tris.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-59188
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 193"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių
-    vyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš
-      553 D.— territorium Giottowie, Jer.— Glottow, valsčius į vakarus nuo Alnos aukštupio,
-    vardas išlikęs dab. Glotovo (Głotowo, į šiaurę nuo Olštino) pavadinime. Išlikęs piliakalnis.
-    Manoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H.,
-    Studia..., 2, p. 16, 25; MGP, p. 54).
+    Kai jį mirusį ginklanešiai gabeno į Kristburgo pilį, moterys, kurias jis buvo
+    išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore
+    virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip
+    skridę.
+    282 (275). Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
+    Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
+    nužudė ar išsivarė į nelaisvę beveik 200 krikščionių.
+  citata_rodoma: "Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių\nvyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš\n  553 D.— territorium Giottowie, Jer.— Glottow, valsčius į vakarus nuo Alnos aukštupio,\nvardas išlikęs dab. Glotovo (Głotowo, į šiaurę nuo Olštino) pavadinime. Išlikęs piliakalnis.\nManoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H.,\nStudia..., 2, p. 16, 25; MGP, p. 54)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -122,16 +102,14 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
 - id: c-59189
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 193"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     275 (268). Apie 72 lietuvius, nukautus Notangoje
-
-      Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai
+    Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai
     įsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar
     pagrobė viską, ką ten rado gyvą. Šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo
     komtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo
-    žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę,  ir, stojęs  į mūsų, nukovė visus,
+    žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę, ir, stojęs į mūsų, nukovė visus,
     išskyrus tris.
   citata_rodoma: "Apie 72 lietuvius, nukautus Notangoje\n\n  Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai\nįsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar\npagrobė viską, ką ten rado gyvą. Šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo\nkomtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo\nžygiuoti, nes kitų kelių dėl potvynio nebebuvo likę,  ir, stojęs  į mūsų, nukovė visus,\nišskyrus tris."
   statusas: verified

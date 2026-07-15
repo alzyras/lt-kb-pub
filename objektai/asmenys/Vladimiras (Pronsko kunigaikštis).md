@@ -35,56 +35,7 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
   teiginys: "Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link."
   pagrindžia:
     - c-41477
-
-<a id="claim-t-183767"></a>
-- t-002
-  global_id: t-183767
-  teiginys: "Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link."
-  pagrindžia:
     - c-167155
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Didysis kunigaikštis Dmitrijus
-    buvo užsidaręs Kremliuje, jo pusbrolis
-    kunigaikštis Vladimiras Andrejevičius
-    su pulku stovėjo prie Peremyšlio. Nuo
-    Pronsko pusės Maskvos link žygiavo jo
-    sąjungininkas, Pronsko kunigaikštis Vla-
-    dimiras, su juo - „Riazanės kariai“. Apgultį
-    tęsti buvo sunku, todėl buvo sudaryta
-    taika.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Buvo sudegintas užmiestis
-    ir dalis priemiesčio („posado“), plačiai nu-
-    siaubtos apylinkės, tačiau Kremliaus paimti
-    nepavyko. Didysis kunigaikštis Dmitrijus
-    buvo užsidaręs Kremliuje, jo pusbrolis
-    kunigaikštis Vladimiras Andrejevičius
-    su pulku stovėjo prie Peremyšlio. Nuo
-    Pronsko pusės Maskvos link žygiavo jo
-    sąjungininkas, Pronsko kunigaikštis Vla-
-    dimiras, su juo - „Riazanės kariai“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 
@@ -128,8 +79,6 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-183767
 
 ## Ryšiai
 - Vladimiras (Pronsko kunigaikštis) keliavo į [[objektai/vietos/Maskva]]

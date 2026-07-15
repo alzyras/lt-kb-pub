@@ -9,16 +9,16 @@ datos:
   - '1855 m.'
 date_start: '1781'
 date_end: '1855'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - redaktorius
-amziai:
-  - 'XVIII'
-  - 'XIX'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -103,6 +103,13 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   teiginys: "Antanas Marcinovskis, „Kurjer Litewski“ redaktorius ir Narbuto veikalų leidėjas, atsiuntė Narbutui tikslią monetos piešinio kopiją."
   pagrindžia:
     - c-173573
+
+<a id="claim-t-197580"></a>
+- t-009
+  global_id: t-197580
+  teiginys: "Antanas Marcinovskis yra visiškai tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir prancūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besiremiantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovintis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis priekinėmis letenomis."
+  pagrindžia:
+    - c-179251
 - susijęs iš [[objektai/asmenys/Antanas Marcinovskis.md#claim-t-190019|Antanas Marcinovskis]]: Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių tautos istorija“.
 - susijęs iš [[objektai/asmenys/Antanas Marcinovskis.md#claim-t-190020|Antanas Marcinovskis]]: Narbutas nurodo, kad „Kurjer Litewski“ redaktorius ir jo veikalų leidėjas Marcinovskis atsiuntė jam tikslią piešinio kopiją.
 - susijęs iš [[objektai/asmenys/Antanas Marcinovskis.md#claim-t-190021|Antanas Marcinovskis]]: Antanas Marcinovskis buvo Vilniaus literatas, redaktorius ir leidėjas, kuriam Tadas Bulgarinas buvo pasiuntęs monetą perduoti Narbutui.
@@ -117,126 +124,6 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 - susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187827|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.
 - susijęs iš [[objektai/paprociai/Masonų ugdymo uždaviniai ir apeiginė simbolika.md#claim-t-189846|Masonų ugdymo uždaviniai ir apeiginė simbolika]]: Masonų organizacijose kampainis simbolizavo sąžinę, akacijos šakelė - nemirtingumą, o skriestuvas - aukščiausiąjį protą.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Antanas Marcinovskis buvo vienas iš „Dziennik Willenski“ ir „Tygodnik Wilenski“ redaktorių, priklausiusių masonų organizacijai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
-    mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
-    organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
-    mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
-    Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
-    odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
-    Marcinovskis taip pat priklausė masonų organizacijai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-002
-  santrauka: '1835 m. Vilniuje pirmasis „Dzieje starożytne narodu Litewskiego“ tomas išėjo A. Marcinovskio lėšomis ir spaustuvėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    UDK
-    947.45
-    Na-162
-    Versta iš:
-    Dzicjc starožytne narodu
-    Litcwskiego przcz
-    Teodora Narbutta.
-    Tom picrwszy:
-    Mitologia Litcwska
-    z o.šmią rycinami.
-    Wilno, naktadem i drukiem
-    A. Marcinowskicgo, 1835.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pieši­
-    nys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią
-    piešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“
-    redaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir
-    tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Leidinio pastaboje Antanas Marcinovskis vadinamas Vilniaus literatu, redaktoriumi, leidėju ir T. Narbuto LTI leidėju.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pasirodo, kad T. Bulgarinas (1789-1859) ją iš tik­
-    rųjų buvo pasiuntęs garsiam Vilniaus literatui, re­
-    daktoriui, leidėjui (žinoma, ir T. Narbuto LTI) An­
-    tanui Marcinovskiui (1781-1842). Šis peterburgiš-
-    kio literato prašymu monetą turėjęs perduoti
-    T. Narbutui, bet pažado neįvykdė: radinį įteikė Vil­
-    niuje viešėjusiam ministrui (kokiam -  neaišku), o
-    istorikui nusiuntė tik litografo Juozapo Ozemblov-
-    skio padarytą piešinį (MAB RS. -  F. 17.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Įvado autorė Antaną Marcinovskį apibūdina kaip Vilniaus literatą, redaktorių, spaustuvės savininką ir ryškų to meto intelektualą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Idėjos įkūnijimas. Savaime suprantama, viena iš svarbiau­
-    sių problemų, įgyvendinant tokį sumanymą, turėjo būti leidė­
-    jo paieškos. Juo tapo Antanas Marcinovskis (1781-1855) -  ži­
-    nomas Vilniaus literatas, redaktorius ir spaustuvės savininkas,
-    vienas ryškiausių to meto intelektualų. Nesuklysime sakyda­
-    mi, kad būtent jam reikėtų priskirti dalį LTI šlovės, nors iš
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-006
-  santrauka: 'Įvado autorė, remdamasi A. Marcinovskio biografija ir aspiracijomis, svarstė, kad leidėjui rūpėjo ne vien pelnas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    „Prane­
-    šimo“ autoriaus įsitikinimu, LTI ypač reikšminga yra dabar,
-    nes „joje vaizduojami laikai ir įvykiai, regis, ypač domina visų
-    rašančiųjų protą“.
-    Tai buvo puikus pristatymas. Viskas, net pati LTI autoriaus
-    biografija, žadėjo sėkme. Sunku pasakyti, kokia buvo reali lei­
-    dėjo materialinė nauda, tačiau galima manyti (turint omenyje
-    A. Marcinovskio biografiją, jo aspiracijas, o galbūt ir net tik
-    ką cituotą tekstą), kad jam rūpėjo ne vien pelnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
 - c-007
   santrauka: 'Antanas Marcinovskis buvo „Lietuvių tautos istorijos“ leidėjas, Vilniaus literatas, redaktorius ir spaustuvės savininkas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -282,10 +169,9 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 - id: c-170744
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
+    Ant taurės išgraviruota data - „1817 m.“ R. Kli­
     mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
     organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
     mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
@@ -303,21 +189,15 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 - id: c-170745
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 3"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 3."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    UDK
-    947.45
-    Na-162
-    Versta iš:
-    Dzicjc starožytne narodu
-    Litcwskiego przcz
-    Teodora Narbutta.
-    Tom picrwszy:
-    Mitologia Litcwska
-    z o.šmią rycinami.
-    Wilno, naktadem i drukiem
-    A. Marcinowskicgo, 1835.
+    Prie tokių žmonių galima priskirti
+    Teodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių
+    tautos istorija“ (toliau - LTI) tapo Lietuvos istoriografijos pa­
+    minklu ir lietuvių tautos kultūriniu palikimu. Įsigalėjęs neigia­
+    mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
+    socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
+    ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
   citata_rodoma: "UDK\n947.45\nNa-162\nVersta iš:\nDzicjc starožytne narodu\nLitcwskiego przcz\nTeodora Narbutta.\nTom picrwszy:\nMitologia Litcwska\nz o.šmią rycinami.\nWilno, naktadem i drukiem\nA. Marcinowskicgo, 1835."
   statusas: verified
   teiginio_tipas: faktas
@@ -329,8 +209,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 - id: c-170746
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 254"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 254."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pieši­
     nys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią
@@ -348,8 +227,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 - id: c-170925
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 494"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 494."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasirodo, kad T. Bulgarinas (1789-1859) ją iš tik­
     rųjų buvo pasiuntęs garsiam Vilniaus literatui, re­
@@ -357,9 +235,9 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     tanui Marcinovskiui (1781-1842). Šis peterburgiš-
     kio literato prašymu monetą turėjęs perduoti
     T. Narbutui, bet pažado neįvykdė: radinį įteikė Vil­
-    niuje viešėjusiam ministrui (kokiam -  neaišku), o
+    niuje viešėjusiam ministrui (kokiam - neaišku), o
     istorikui nusiuntė tik litografo Juozapo Ozemblov-
-    skio padarytą piešinį (MAB RS. -  F. 17.
+    skio padarytą piešinį (MAB RS. - F. 17.
   citata_rodoma: "Pasirodo, kad T. Bulgarinas (1789-1859) ją iš tik­\nrųjų buvo pasiuntęs garsiam Vilniaus literatui, re­\ndaktoriui, leidėjui (žinoma, ir T. Narbuto LTI) An­\ntanui Marcinovskiui (1781-1842). Šis peterburgiš-\nkio literato prašymu monetą turėjęs perduoti\nT. Narbutui, bet pažado neįvykdė: radinį įteikė Vil­\nniuje viešėjusiam ministrui (kokiam -  neaišku), o\nistorikui nusiuntė tik litografo Juozapo Ozemblov-\nskio padarytą piešinį (MAB RS. -  F. 17."
   statusas: verified
   teiginio_tipas: faktas
@@ -371,15 +249,17 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 - id: c-170926
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 51"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 51."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Idėjos įkūnijimas. Savaime suprantama, viena iš svarbiau­
-    sių problemų, įgyvendinant tokį sumanymą, turėjo būti leidė­
-    jo paieškos. Juo tapo Antanas Marcinovskis (1781-1855) -  ži­
-    nomas Vilniaus literatas, redaktorius ir spaustuvės savininkas,
-    vienas ryškiausių to meto intelektualų. Nesuklysime sakyda­
-    mi, kad būtent jam reikėtų priskirti dalį LTI šlovės, nors iš
+    Belieka apgailestauti,
+    kad mūsų dienų nepasiekė visi autoriaus ir leidėjo susirašinė­
+    jimo laiškai. Ir vis dėlto T. Narbuto dėka kai kurios jų dalyki­
+    nio bendravimo smulkmenos mums žinomos.
+    Istorikas, rengdamas spaudai antrąjį LTI pirmo tomo lei­
+    dimą, parankiniame egzemplioriuje, prieš pat titulinį lapą, įkli­
+    javo tokią informaciją: „Sutartis su Marcinovskiu dėl viso vei­
+    kalo išspausdinimo buvo sudaryta 1837 metų vasario 4 dieną
+    ir įregistruota Vilniaus magistrate.
   citata_rodoma: "Idėjos įkūnijimas. Savaime suprantama, viena iš svarbiau­\nsių problemų, įgyvendinant tokį sumanymą, turėjo būti leidė­\njo paieškos. Juo tapo Antanas Marcinovskis (1781-1855) -  ži­\nnomas Vilniaus literatas, redaktorius ir spaustuvės savininkas,\nvienas ryškiausių to meto intelektualų. Nesuklysime sakyda­\nmi, kad būtent jam reikėtų priskirti dalį LTI šlovės, nors iš"
   statusas: verified
   teiginio_tipas: faktas
@@ -391,8 +271,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 - id: c-173510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 54"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 54."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     „Prane­
     šimo“ autoriaus įsitikinimu, LTI ypač reikšminga yra dabar,
@@ -413,18 +292,22 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 - id: c-173572
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 443"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 443."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Savaime suprantama, viena iš svar­
+    Likimas susiklostė taip, jog tuo rašytoju, tuo „civiliu
+    piliečiu“ tapo T. Narbutas, kurio, kaip Lietuvos senienų
+    tyrinėtojo, vardas spaudoje jau buvo žinomas nuo 1818
+    metų. Suprantama, kalbant apie T. Narbuto apsisprendi­
+    mą rašyti lietuvių tautos istoriją, reikėtų turėti omenyje
+    visą kompleksą veiksnių, visų pirma susijusių su jo bio­
+    grafijos detalėmis, — pradedant kilme ir baigiant 1808—
+    1809 metų Rusijos-Svedijos karu. Bet tai jau būtų prob­
+    lema, verta atskiros studijos, kuri mus nukeltų į gerokai
+    ankstesnius metus1.
+    Idėjos įkūnijimas. Savaime suprantama, viena iš svar­
     biausių problemų, įgyvendinant tokį sumanymą, turėjo
-    būti leidėjo paieškos. Juo tapo Antanas Marcinovskis
-    (1781 —1855) — žinomas Vilniaus literatas, redaktorius
-    ir spaustuvės savininkas, vienas ryškiausių to meto inte­
-    lektualų. Nesuklysime sakydami, jog būtent jam reikėtų
-    priskirti dalį LTI šlovės, nors iš esmės šito didelio leidy­
-    binio sumanymo jam nepavyko iki galo įgyvendinti —
-    taip ir nebuvo išspausdintas paskutinis, dešimtas tomas.
+    būti leidėjo paieškos.
+  citata_rodoma: "Savaime suprantama, viena iš svar­\nbiausių problemų, įgyvendinant tokį sumanymą, turėjo\nbūti leidėjo paieškos. Juo tapo Antanas Marcinovskis\n(1781 —1855) — žinomas Vilniaus literatas, redaktorius\nir spaustuvės savininkas, vienas ryškiausių to meto inte­\nlektualų. Nesuklysime sakydami, jog būtent jam reikėtų\npriskirti dalį LTI šlovės, nors iš esmės šito didelio leidy­\nbinio sumanymo jam nepavyko iki galo įgyvendinti —\ntaip ir nebuvo išspausdintas paskutinis, dešimtas tomas."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -435,19 +318,46 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 - id: c-173573
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 490"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 490."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Be jokios abejonės moneta priklauso tam kraštui ir tai tautai,
-    kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nukalta
-    tokiu pat stiliumi kaip gerais Romos cezarių laikais. Piešinys ir
-    graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią piešinio
-    kopiją atsiuntė p/onas/ Marcinovskis, „Kurjer Litewski“ redakto­
-    rius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir tikriau­
-    siai pateko į Sankt Peterburgą (žr. 12 piešinį tomo gale).
+    pastraipos tęsinys/
+    1837 metais Pružanų maršalka ponas Bulgarinas įsigijo mone­
+    tą, kuri buvo rasta Baltvyžių girioje. Ji auksinė, didelė kaip len­
+    kiškas varinis grašis. Vienoje jos pusėje pavaizduotas žmogaus,
+    neturinčio nei barzdos, nei plaukų
+    (tarytum kokios nuotakos),
+    4 8 0
+
+    biustas. Plaukų nėra nė pėdsako, tik užpakaly galima pamatyti
+    tarytum kokias sruogas; drabužių taip pat jokių. Ir iš tos būty­
+    bės priekio, ir iš užpakalio yra užrašas, visiškai tokiomis pat rai­
+    dėmis, kaip pavaizduota piešinyje.
+  citata_rodoma: "Be jokios abejonės moneta priklauso tam kraštui ir tai tautai,\nkaip pavaizduota piešinyje, tik nepalyginti meistriškiau nukalta\ntokiu pat stiliumi kaip gerais Romos cezarių laikais. Piešinys ir\ngraviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią piešinio\nkopiją atsiuntė p/onas/ Marcinovskis, „Kurjer Litewski“ redakto­\nrius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir tikriau­\nsiai pateko į Sankt Peterburgą (žr. 12 piešinį tomo gale)."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190691
+
+- id: c-179251
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Kitoje pusėje (ji yra visiškai
+    tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir pran­
+    cūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir
+    šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besire­
+    miantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovin­
+    tis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis prie­
+    kinėmis letenomis. Karys kairiąja ranka stumia žvėrį. Toje ran­
+    koje laiko kažką panašaus j skydą, o dešiniąja arba remiasi į že­
+    mę, arba siekia ginklo. Už riterio galvos yra ženklas „O“, virš
+    kurio — žvėries letena ir ženklas „I“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197580

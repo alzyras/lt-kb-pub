@@ -60,13 +60,13 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
 - susijęs iš [[objektai/asmenys/Filimeras.md#claim-t-190149|Filimeras]]: Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, išėjusiomis į rytus valdant Filimerui arba kiek vėliau.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10675|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas sudarė sąjungą su Lenkija ir plėtė valstybę gudria politika bei dinastinėmis vedybomis.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176388|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas laiškuose ir pareiškime popiežiaus legatams kaltino kryžiuočius niokojant žemes, darant skriaudas ir nuostolius.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188528|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.
 - susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190885|Jaroslavas]]: Narbuto pasakojimu, didysis kunigaikštis Jaroslavas 1031 m. iš Lenkijos išsivedė belaisvių ir arčiau Kijevo steigė jų kolonijas.
 - susijęs iš [[objektai/asmenys/Jonas Komninas.md#claim-t-191285|Jonas Komninas]]: Pasak Narbuto, Jonui Komninui 1121 m. nugalėjus pečenegus, hiriai išsikėlė į kairįjį Dnepro krantą pas poloviečius.
 - susijęs iš [[objektai/autoriai/Pranciškus Skorina.md#claim-t-64822|Pranciškus Skorina]]: Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku.
 - susijęs iš [[objektai/autoriai/Pranciškus Skorina.md#claim-t-64824|Pranciškus Skorina]]: Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas, gimęs Polocko pirklių šeimoje.
 - susijęs iš [[objektai/autoriai/V. Zaikin.md#claim-t-31054|V. Zaikin]]: V. Zaikinas rašė teisės filosofijos ir religijos istorijos temomis, liesdamas Didžiąją Lietuvos Kunigaikštystę.
 - susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-187872|Baltarusiai]]: Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96110|Gediminaičių dinastija]]: Iš lietuvių tautos buvo kilusi ir valdančioji Gediminaičių šeima.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-188191|Gotai]]: Narbutas Rosės upės vardą Kijevo gubernijoje siejo su lietuvių gentimis, kurios esą išėjo į rytus su gotais Filimero valdymo metu ar kiek vėliau.
 - susijęs iš [[objektai/grupes/Hiriai.md#claim-t-192928|Hiriai]]: Pasak Narbuto istorijos supratimo, hiriai į Rytus atėjo iš lietuvių krašto prie Jūros upės dešiniajame Nemuno žemupio krante.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179225|Lietuviai]]: 1897 m. surašymo duomenimis, dabartinės Lietuvos ribose be Klaipėdos krašto gyveno apie 2,7 mln. žmonių.
@@ -78,7 +78,7 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
 - susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191013|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Teodoro Narbuto pasakojime Jaroslavas po 1031 m. žygio į Lenkiją belaisvius kėlė arčiau Kijevo, bet Rosės krašte kolonijų nesteigė dėl pečenegų.
 - susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191014|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Narbutas nurodo, kad 1128 m. nutautėję hiriai su pečenegais persikėlė į kairįjį Dnepro krantą, vėliau buvo išstumti už Dono ir davė pradžią Belgorodo totoriams.
 - susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191869|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Teodoro Narbuto aiškinimu, hiriai nuo III a. pabaigos beveik iki XII a. vidurio gyveno prie Rosės ir suteikė jai mitinį vardą.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184599|Liublino unija (1569 m.)]]: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu.
+- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184599|Liublino unija (1569 m.)]]: Cituojamoje istoriografinėje interpretacijoje unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos.
 - susijęs iš [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas.md#claim-t-77887|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]: 1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln.
 - susijęs iš [[objektai/ivykiai/Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje.md#claim-t-20458|Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje]]: Pranciškus Skorina buvo pirmasis Lietuvos spaustuvininkas, kilęs iš rusėnų kultūrinės aplinkos ir gimęs Polocko pirklių šeimoje.
 - susijęs iš [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.).md#claim-t-41353|Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]: 1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.
@@ -114,52 +114,6 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169930|rusėnų kalba LDK raštų kalba]]: Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169932|rusėnų kalba LDK raštų kalba]]: Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba.md#claim-t-22294|rusėnų kalba LDK slavų kanceliarinė kalba]]: Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Ukrainiečiai, kaip ir rusai, XVII-XVIII a. vertė Stryjkovskio kroniką ar jos dalis ir juo domėjosi.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Įvairūs lenkų autoriai į jį pažiurėjo kaip
-    į tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar
-    jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
-    (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-
-
-    (^11) **_Epitome principam Lithuaniae_****.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Narbutas aiškino, kad ukrainiečių Rosės upės vardas kilo iš kadaise ten gyvenusių lietuvių genties tautų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Galbūt neįsižeis slavų seno­
-    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
-    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
-    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
-    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
-    sų gatve.
-    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
-    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
-    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
-    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
-    arba šiek tiek vėliau.
-    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
-    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
-    liaudies padavimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-93936
@@ -184,8 +138,7 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
 - id: c-171249
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 227"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Galbūt neįsižeis slavų seno­
     vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­

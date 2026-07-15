@@ -49,42 +49,6 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
   teiginys: "Valstybės Taryba siuntė protestus dėl vokiečių vykdomų rekvizicijų."
   pagrindžia:
     - c-24964
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tik situa-
-    cijai kare pasikeitus, 1918 m. lapkričio 2 d. Uracho išrinkimas karaliumi
-    buvo atšauktas.
-    Naujas galimybes atvėrė dviejų imperijų – Rusijos ir Vokietijos – pra-
-    laimėjimai kare, revoliucijos abiejose šalyse. Valstybės Taryba vis atkak­
-    liau siekė gauti konkrečias valdymo sritis į savo rankas, ruošėsi perimti
-    valdžią, siuntė protestus dėl vokiečių vykdomų rekvizicijų, rūpinosi grą-
-    žinti lietuvius karo belaisvius iš Vokietijos ir Austrijos, lietuvių repatriaci-
-    ja iš Rusijos (iki 1922 m. sausio į Lietuvą sugrįžo 195 000 žmonių).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
-    jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose
-    vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą,
-    nebelaukė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

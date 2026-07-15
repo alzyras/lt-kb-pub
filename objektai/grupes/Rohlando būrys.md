@@ -41,25 +41,6 @@ Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys
   teiginys: "Rohlando būrys po kelių dienų padėjo ginklus ir perėjo į Prūsiją."
   pagrindžia:
     - c-01703
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Emilija Pliaterytė,
-    herojiška sukilėlių vadė, gavusi
-    kapitono laipsnį († 1831 m.).
-    girdo šauksmas: „Klasta!" — ir vienas karininkas prijojęs nu-
-    šovė Gelgaudą, laikydamas jį to negarbingo žygio kaltininku.
-    Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
-    lando būrys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

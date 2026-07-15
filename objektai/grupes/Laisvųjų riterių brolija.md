@@ -35,21 +35,6 @@ Vakarų Europos riterio rekonstrukcija.
   teiginys: "„Laisvųjų riterių“ brolija parengė XIII a. Vakarų Europos riterio rekonstrukciją."
   pagrindžia:
     - c-77340
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '„Laisvųjų riterių“ brolija parengė XIII a. Vakarų Europos riterio rekonstrukciją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 25, XIII a. Vakarų Europos riterio rekonstrukcija. „Laisvųjų riterių“ brolijos rekonstrukcija,
-    Giedrės Maksimovicz nuotr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

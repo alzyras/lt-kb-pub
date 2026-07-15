@@ -41,40 +41,6 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
   teiginys: "Skuodo laukuose žemaičiai sumušė Bernhardo von Hareno persekiotojus, o kautynėse žuvo 33 riteriai."
   pagrindžia:
     - c-167767
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kai
-    narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su
-    gausiu grobiu grįžtantiems žemaičiams Skuodo laukuose pastojo
-    kelią, šie persekiotojus sumušė. Žuvo 33 riteriai^162. Pradėjus kur­
-    šiams trauktis iš kautynių lauko, pagonių laimėjimas buvo didelis,
-    ir jie, dar labiau padrąsinti, greit antru kartu įsiveržė Kuršan.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Skuodo laukuose žemaičiai sumušė Bernhardo von Hareno persekiotojus, o kautynėse žuvo 33 riteriai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Paliauboms pasibaigus, jie puolė Kuršą. Kai
-    narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su
-    gausiu grobiu grįžtantiems žemaičiams Skuodo laukuose pastojo
-    kelią, šie persekiotojus sumušė. Žuvo 33 riteriai^162.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

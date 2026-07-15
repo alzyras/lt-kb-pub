@@ -35,22 +35,6 @@ Volteris).
   teiginys: "Edv. Volteris Lietuvos vardą kildino iš šiaurės rytų Aukštaičiuose ieškotų „Lietuvos“ upės pėdsakų."
   pagrindžia:
     - c-29228
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos vardas buvo kildinamas iš šiaurės-rytų
-    Aukštaičiuose ieškomų « Lietuvos » upės pėdsakų (Edv. Volteris).
-    Kad kiltys savo vardus gaudavo nuo upių, patvirtina eilė pavyz­
-    džių, tačiau lietuvių atveju nieko aiškaus negalima pasakyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

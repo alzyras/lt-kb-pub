@@ -11,6 +11,9 @@ datos:
   - '1324 m.'
 date_start: '1096'
 date_end: '1324'
+amziai:
+  - 'XI'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,9 +21,6 @@ tags:
   - religinis-terminas
   - karinis-terminas
   - istorinė-sąvoka
-amziai:
-  - 'XI'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -104,30 +104,6 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - susijęs iš Prūsija: 1304 m. Vokietijos maldininkai vėl išsirengė keliauti į Prūsijos žemę.
 - susijęs iš [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda.md#claim-t-23535|pogrindis pogrindiniai leidiniai nelegali spauda]]: Maldininkai religinėse manifestacijose įsigydavo draustų relikvijų ir nelegaliai išspausdintos religinės literatūros.
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ilgai meldęsis,
-    šis didžiai krikščioniškasis karalius šitaip pasakė: „Einu  į tavo namus, lenkiuosi tavo
-    šventovei, tavajam vardui dėkoju, viešpatie”, o šitai pasakęs, atidavė dievui sielą. Kita
-    kariuomenės dalis nužygiavo  į priekį; kai prie jų priėjo su saviškiais Karolis, Sicilijos
-    karalius, jie labai nudžiugo ir taip užgriuvo sultoną bei jo žmones, kad privertė juos taikytis
-    šitokiomis sąlygomis: sultonas grąžinsiąs visus į nelaisvę paimtus krikščionis; visuose jo
-    karalystės miestuose pastačius dievo bažnyčių, jis Įeisiąs visoje savo karalystėje skelbti
-    Kristaus tikėjimą; visi norintys priimti krikštą galėsią būti apkrikštyti, o jis pats mokėsiąs
-    krikščionims duoklę. Neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe
-    frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys
-    vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - c-002
   santrauka: '1316 m. Henrikas Karaliaučiuje sutiko iš Reino krašto atvykusių maldininkų ir su jais nusiaubė Medininkų valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -149,98 +125,17 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   pagrindžia:
     - t-003
 
-- c-003
-  santrauka: '1227 m. rugsėjo 11 d. Ortrante šventosios Elžbietos vyras landgrafas mirė maldininko kelionėje po kryžiaus žygio vėliava.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    17. Apie Šventos Elžbietos vyro mirtį
-
-      1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava
-    mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.
-
-
-
-                  18.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
-    Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho  ir iš
-    Vildenbergo pirmagimiai sūnūs, valdovas iš Lichtenbergo  ir Plichto su savo broliu iš
-    Čekijos ir su daugybe karių bei ginklanešių. Su jais ir su visa Kulmo žemės bei gretimų
-    žemių brolių kariuomene brolis Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, bei
-    150 brolių žiemą įsiveržė į Vaikių valsčių; apiplėšę bei sudeginę ir pilį, ir kitus pastatus,
-    tiek daug išžudė žmonių, kad ten nebeliko gyvo nė vieno kelnėto sutvėrimo. Kitą dieną
-    jie įsiveržė į Raseinių valsčių, o trečią dieną — į Ariogalos valsčių ir abu valsčius nusiaubė
-    ugnimi. Trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai
-    buvo taip gerai apsišarvavę, kad jų, kopiančių  į sienas, pilėnai nestengė sulaikyti nei
-    ietimis, nei kalavijais, nei kokiais kitais ginklais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: '1096 m. Petras su kryžininkais užėmė Antiochiją ir Jeruzalę, o vėliau kiti maldininkai užėmė daug miestų bei pilių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
-
-    karšta tikėjimo meile, jis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų,
-    gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną
-    II, kuris jį maloniai priėmė, pervažiavo Italiją ir persikėlė per Alpes, uoliai ragindamas
-    ir visaip skatindamas (mat šitai būta išmintingo žmogaus, gebančio ir veikti, ir kalbėti)
-    tiek Rytų, tiek Vakarų valdovus, tiek žemesnių luomų žmones aliai vieną drąsiai ryžtis
-    sunkiai maldininkų kelionei   į Jeruzalę, talkinant viešpačiui, o jo pasiuntiniui savo
-    kalbomis teikiant [kryžininkams] visokeriopų malonių. Neilgai trukus po to jo šventenybė
-    popiežius Urbonas, palydėjęs minėtąjį Petrą į Prancūziją, sušaukė visuotinį susirinkimą,
-    kuriame, pažadėjęs už šitokį dorą bei mielą maldininkų žygį visų nuodėmių atleidimą,
-    nuodugniai išklojo visiems, kuriuos šventoji dvasia skatino atkeršyti už nukryžiuotojo
-    žaizdas ir išvaduoti šventąją žemę, kokių negandų ir kokią priespaudą patiria tikintieji,
-    gyvenantys šventojoje žemėje, kaip niekina ir teršia tie purvini šunys viešpaties kapą
-    bei kitas šventąsias vietas. Ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji
-    gausų derlių, nes bažnyčių vyskupai ir prelatai, karaliai, kunigaikščiai, grafai, baronai
-    bei  kiti kilmingieji  ir šiaip žmonės puošė savo pečius išganingojo kryžiaus ženklu,
-    duodami viešpačiui įžadus leistis į maldininkų žygį. Taigi 1096 viešpaties metais anksčiau
-    minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir
-    užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą
-    bei šventąjį Jeruzalės miestą, o ilgainiui kiti ten patraukę maldininkai užėmė galybę
-    kitų, rodėsi, neįveikiamų miestų bei pilių, išvaduodami juos iš netikėlių rankų; šitaip
-    šventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi
-    arkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —
-    su vienu ir Petros — su vienu sufraganu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-59457
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 235"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 235."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Ilgai meldęsis,
-    šis didžiai krikščioniškasis karalius šitaip pasakė: „Einu  į tavo namus, lenkiuosi tavo
+    šis didžiai krikščioniškasis karalius šitaip pasakė: „Einu į tavo namus, lenkiuosi tavo
     šventovei, tavajam vardui dėkoju, viešpatie”, o šitai pasakęs, atidavė dievui sielą. Kita
-    kariuomenės dalis nužygiavo  į priekį; kai prie jų priėjo su saviškiais Karolis, Sicilijos
+    kariuomenės dalis nužygiavo į priekį; kai prie jų priėjo su saviškiais Karolis, Sicilijos
     karalius, jie labai nudžiugo ir taip užgriuvo sultoną bei jo žmones, kad privertė juos taikytis
     šitokiomis sąlygomis: sultonas grąžinsiąs visus į nelaisvę paimtus krikščionis; visuose jo
     karalystės miestuose pastačius dievo bažnyčių, jis Įeisiąs visoje savo karalystėje skelbti
@@ -259,18 +154,19 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - id: c-59458
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 211"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 211."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Medininkų valsčiaus apiplėšimą 1316 metais
-
-      Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių
-    iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš
-    Elnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,
-    į Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į
-    nelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai
-    dėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į
-    riterius.
+    Galop visa kariuomenė susirinko į
+    vieną daiktą ir patraukė namo.
+    333 (326). Apie vieną įvykį 1317 metais
+    Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno
+    šuoliais leidosi į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo. Kai
+    jis, smarkiai susitrenkęs, po kurio laiko atsigavo ir atsistojo, tai apsidairęs neišvydo nei
+    savo žirgo, nei brolių kariuomenės; be galo susikrimtęs, jis atsiduso, pakėlė akis į dangų
+    ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,
+    pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo
+    atvykęs, patraukė į Ragainę.
+  citata_rodoma: "Apie Medininkų valsčiaus apiplėšimą 1316 metais\n\n  Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių\niš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš\nElnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,\nį Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į\nnelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai\ndėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į\nriterius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -281,8 +177,7 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - id: c-59459
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 228"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 228."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     17. Apie Šventos Elžbietos vyro mirtį
 
@@ -303,19 +198,18 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - id: c-59460
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 216"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
-    Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho  ir iš
-    Vildenbergo pirmagimiai sūnūs, valdovas iš Lichtenbergo  ir Plichto su savo broliu iš
+    Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho ir iš
+    Vildenbergo pirmagimiai sūnūs, valdovas iš Lichtenbergo ir Plichto su savo broliu iš
     Čekijos ir su daugybe karių bei ginklanešių. Su jais ir su visa Kulmo žemės bei gretimų
     žemių brolių kariuomene brolis Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, bei
     150 brolių žiemą įsiveržė į Vaikių valsčių; apiplėšę bei sudeginę ir pilį, ir kitus pastatus,
     tiek daug išžudė žmonių, kad ten nebeliko gyvo nė vieno kelnėto sutvėrimo. Kitą dieną
     jie įsiveržė į Raseinių valsčių, o trečią dieną — į Ariogalos valsčių ir abu valsčius nusiaubė
     ugnimi. Trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai
-    buvo taip gerai apsišarvavę, kad jų, kopiančių  į sienas, pilėnai nestengė sulaikyti nei
+    buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei
     ietimis, nei kalavijais, nei kokiais kitais ginklais.
   statusas: verified
   teiginio_tipas: faktas
@@ -327,8 +221,7 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - id: c-59462
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 240-241"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240-241."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
 

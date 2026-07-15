@@ -42,24 +42,6 @@ Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę (1388.
   teiginys: "Popiežius Urbonas VI 1388 m. balandžio 8 d. breve išgyrė apsikrikštijusius lietuvius ir įgaliojo Dobrogostą tvarkyti Bažnyčios reikalus Lietuvoje."
   pagrindžia:
     - c-35516
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pasiuntiniai rado popiežių Perudžijoje
-    (Š. Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę
-    (1388. IV. 8). Joje popiežius Urbonas VI išgyrė apsikrikštiju­
-    sius lietuvius, o vysk. Dobrogostą įgaliojo sutvarkyti bažnyti­
-    nius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją pavedant
-    ją Gniezno arkivyskupo valdžiai^1 ).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

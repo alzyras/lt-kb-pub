@@ -55,33 +55,13 @@ Nenurodyta
   teiginys: "Krivio pasiuntinys, keliaudamas su krivūle ar kitu žinomu ženklu, sulaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės."
   pagrindžia:
     - c-63434
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Krivio pasiuntinys, keliaudamas su krivūle ar kitu žinomu ženklu, sulaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
-    ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas,
-    kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu
-    kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
-    iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
-    senovėje, negęstančiąją ugnį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
 - id: c-63434
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 68"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
     ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas,

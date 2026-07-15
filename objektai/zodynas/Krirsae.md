@@ -59,35 +59,20 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
   teiginys: "Narbutas nepripažįsta krivičių pavadinimo kildinimo iš sarmatų žodžio „Krirsae“."
   pagrindžia:
     - c-175092
-## Reikšmingi paminėjimai
 
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Jei jo prielaida teisinga,
-    o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,
-    tokiu atveju labiau dera jų pavadinimą kildinti iš bend­
-    ro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš
-    kažkokio sarmatų žodžio Krirsae, šaltinis. Be to, Slėceris
-    teisingai klausia, ką tai reiškia sarmatiškai. Etimologinio
-    kildinimo nepripažįstu, tačiau krivičių pavadinimo kili­
-    mas iš Krivio, regis, atrodo visai natūralus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-197694"></a>
+- t-003
+  global_id: t-197694
+  teiginys: "Jei jo prielaida teisinga, o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo, tokiu atveju labiau dera jų pavadinimą kildinti iš bend ro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš kažkokio sarmatų žodžio Krirsae, šaltinis."
   pagrindžia:
-    - t-001
-    - t-002
+    - c-175092
 
 ## Citatos
 
 - id: c-175092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 341"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jei jo prielaida teisinga,
     o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,
@@ -97,6 +82,11 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
     teisingai klausia, ką tai reiškia sarmatiškai. Etimologinio
     kildinimo nepripažįstu, tačiau krivičių pavadinimo kili­
     mas iš Krivio, regis, atrodo visai natūralus.
+    Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo
+    su krivičiais, o ne krivičių Smolenską, nes iš daugelio
+    tos genties šakų lengvai galėjo atsirasti viena, kuri, kaip
+    ir Polocko, galėjo būti palankesnė rusams ir prisidėti
+    prie Olego.
   citata_rodoma: "tokiu atveju labiau dera jų pavadinimą kildinti iš bend-\nro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš\nkažkokio sarmatų žodžio Krirsae, šaltinis. Be to, Slėceris\nteisingai klausia, ką tai reiškia sarmatiškai. Etimologinio\nkildinimo nepripažįstu, tačiau krivičių pavadinimo kili-\nmas iš Krivio, regis, atrodo visai natūralus."
   statusas: verified
   teiginio_tipas: faktas
@@ -105,3 +95,4 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
   pagrindzia:
     - t-192259
     - t-192260
+    - t-197694

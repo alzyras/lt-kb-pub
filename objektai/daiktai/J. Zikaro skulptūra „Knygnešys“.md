@@ -60,29 +60,6 @@ Nenurodyta
   teiginys: "J. Zikaro skulptūra „Knygnešys“ datuojama 1939 m."
   pagrindžia:
     - c-75243
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Zikaro skulptūra „Knygnešys“ datuojama 1939 m.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Susiformavo tvirta kontrabandinės
-    knygnešystės tradicija, ir į XIX a. pabaigą lietuvių kalba Rytprūsiuo-
-    se išleidžiamų ir į Lietuvą knygnešių atnešamų ir nelegaliai platinamų
-    knygų gausėjo. Nors valdžia ir žandarai knygnešius gaudė ir baudė dar
-    Knygnešys. J. Zikaro skulptūra (1939 m.)
-
-    L I E T U V O S  I S T O R I J A
-    118
-    griežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į
-    Lietuvą nesustabdė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -41,28 +41,6 @@ Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK
   teiginys: "Napoleonas leido Vilniuje įkurti jo pareigūnų prižiūrimą Laikinąją LDK vyriausybę."
   pagrindžia:
     - c-22477
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Joje įvestas
-    civilinis Napoleono kodeksas, valstiečiams suteikta asmens laisvė, tik be
-    žemės nuosavybės teisės ir be teisės palikti savo gyvenamąją vietą ir ūkį
-    be žemvaldžio žinios.
-    1812 m. birželį Napoleonas pradėjo karą su Rusija ir greitai didžioji
-    dalis buvusių LDK žemių atsidūrė jo valdžioje. Napoleonas leido Vilniuje
-    įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė
-    viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidė-
-    siančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kuni-
-    gaikštystės pulkai).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

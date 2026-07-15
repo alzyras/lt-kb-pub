@@ -35,32 +35,6 @@ Stanislovo bažny­ čioje, deja, dėl kapitulos priekaištingo aplaidumo vėlia
   teiginys: "Šv. Stanislovo bažnyčioje buvo pastatyti marmuriniai Elžbietos ir Barboros antkapiai, vėliau pražuvę Katedros griuvėsiuose."
   pagrindžia:
     - c-82297
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Šv. Stanislovo bažnyčioje buvo pastatyti marmuriniai Elžbietos ir Barboros antkapiai, vėliau pražuvę Katedros griuvėsiuose.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    — • —
-    275
-
-    ## Puslapis 292
-
-    VILNIAUS MIESTO ISTORIJA I I  TOMAS
-    de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo
-    meno kūriniais. Italai, čia nuolat dirbdami šešerius metus,
-    iš brangaus marmuro pastatė du puikius antkapius kara­
-    liaus žmonoms - Elžbietai ir Barborai Šv. Stanislovo bažny­
-    čioje, deja, dėl kapitulos priekaištingo aplaidumo vėliau,
-    XVIII amžiuje, tie antkapiai visiems laikams pražuvo seno­
-    sios Katedros griuvėsiuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

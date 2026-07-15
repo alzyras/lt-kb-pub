@@ -5,13 +5,15 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1315 m.'
+  - '1316 m.'
 date_start: '1315'
-date_end: ''
+date_end: '1316'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - ivykis
+  - pilis
   - karas
 amziai:
   - 'XIV'
@@ -65,65 +67,35 @@ Nenurodyta
   teiginys: "Septynioliktą apgulties dieną lietuviai bandė sudeginti Kristmemelio pilį, bet nepasiekę tikslo pasitraukė."
   pagrindžia:
     - c-63664
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: '1315 m. rugsėjį Vytenis su karo vyrais apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
-
-      Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
-    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
-    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,
-    sudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,
-    atplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai
-    užstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir
-    ne kartą mėgino šitai padaryti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-196953"></a>
+- t-003
+  global_id: t-196953
+  teiginys: "Apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku."
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Septynioliktą apgulties dieną lietuviai bandė sudeginti Kristmemelio pilį, bet nepasiekę tikslo pasitraukė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    dieną puldinėjo lietuviai; tose kovose netikėliai neteko daug vyrų nukautaisiais ir sunkiai
-    sužeistaisiais, o broliai — 18 karių sužeistaisiais. Nieko šiuo būdu nepešę, galop jie 17
-    dieną, kai jau ketino pasitraukti, sužinoję, kad artėja magistras su didele kariuomene,
-    priėjo pilies gynybinį griovį ir ten prinešė malkų, šieno, stagarų ir šiaudu, norėdami žūt
-    būt pilį sudeginti. Tokia galybė benešiojančių ir bepuldinėjančių netikėlių buvo nukauta ir
-    mirtinai sužeista, kad net nežinau, kiek iš tikrųjų, todėl jie, nepasiekę tikslo, ir pasitraukė
-    sudeginę apgulos mašinas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - c-63662
 
 ## Citatos
 
 - id: c-63662
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 210"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
-
-      Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
-    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
-    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,
-    sudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,
-    atplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai
-    užstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir
-    ne kartą mėgino šitai padaryti.
+    Apie Bisenės pilies sudeginimą 1316 metais
+    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
+    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
+    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
+    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
+    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
+    broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
+    pilis paliko apleista po šiai dienai.
+    330 (323). Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
+    Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su
+    aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje
+    vietoje pasalą, įsiveržė [į jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o
+    moteris ir vaikus paėmę į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
+    200 lietuvių.
   citata_rodoma: "Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11\n\n  Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui\nsavo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai\npuldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,\nsudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,\natplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai\nužstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir\nne kartą mėgino šitai padaryti."
   statusas: verified
   teiginio_tipas: faktas
@@ -131,12 +103,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62837
+    - t-196953
 
 - id: c-63664
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 211"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 211."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     dieną puldinėjo lietuviai; tose kovose netikėliai neteko daug vyrų nukautaisiais ir sunkiai
     sužeistaisiais, o broliai — 18 karių sužeistaisiais. Nieko šiuo būdu nepešę, galop jie 17

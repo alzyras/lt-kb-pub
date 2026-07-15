@@ -55,7 +55,6 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
 - susijęs iš [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje.md#claim-t-91914|Kapstetos pilies paėmimas Vonsdorfo žemėje]]: Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą.
 - susijęs iš Auktalitas: 1256 m. Karaliaučiaus komtūras Vonsdorfo žemėje apsupo, užėmė ir iki pamatų sudegino Auktalito pilį.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Prūsijos žemės kronikos rodyklėje Vonsdorfas siejamas su formomis Wohenstorph, Wünsdorf, Wonsdorff, Wansdorf ir Unzatrapis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -95,8 +94,7 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
 - id: c-59402
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 322"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 322."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Viškonys
     Višogrudas (Wischerot, Wischegrot, dab. Fordonas)
@@ -109,8 +107,10 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
     Vizna
     Vloclavekas
     Vokietija
-       Vakarų Vokietija
-        vokiečiai
+
+    Vakarų Vokietija
+
+    vokiečiai
     Volfenbiutelis
     Volferštorfas
     Volynė
@@ -120,6 +120,10 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
     Vroclavas
     Vundenava, Vuntenovė (žr. Baiga)
     Vurungenas
+    Zalca
+    Zalfeldas
+    Zangershauzenas
+    Zelionogradskas (buv.
   citata_rodoma: "Valevona)\nVizna\nVloclavekas\nVokietija\n   Vakarų Vokietija\n    vokiečiai\nVolfenbiutelis\nVolferštorfas\nVolynė\nVona, Vonė\nVonbžeznas\nVonsdorfas (Wohenstorph, Wünsdorf; Wonsdorff, Wansdorf — Unzatrapis)\nVroclavas\nVundenava, Vuntenovė (žr."
   statusas: verified
   teiginio_tipas: faktas

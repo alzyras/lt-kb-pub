@@ -51,52 +51,6 @@ media_all_json: |-
   teiginys: "Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
   pagrindžia:
     - c-176365
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kartais juos
-    inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty-
-    bės nueitas kelias būtų įamžintas ir įvertintas iš platesnės perspekty-
-    vos – patriotiniu, bet teisingu, skvarbiu, visumą apimančiu žvilgsniu.
-    1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
-    zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
-    šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
-    Šapoka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
-    zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
-    šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
-    Šapoka. Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių
-    tautos istorija, padariusi ir tebedaranti įtaką ir dabartinėms kartoms.
-    Neramiu laikotarpiu parašyto veikalo tikslas buvo ieškoti įkvėpimo lie-
-    tuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės
-    karžygių užkariautose erdvėse, autentiškoje baltų kultūroje, Europos
-
-    L I E T U V O S  I S T O R I J A
-    10
-    archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-
-    saulį pasklidusių išeivių veikloje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 ## Citatos
 

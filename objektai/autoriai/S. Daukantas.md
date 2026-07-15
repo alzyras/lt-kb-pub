@@ -40,7 +40,7 @@ media_all_json: |-
 
 ## Santrauka
 
-S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiriami darbai „Darbus senovės lietuvių ir žemaičių“, „Būdą senovės lietuvių“ ir kiti darbai.
+S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi. S. Daukantas atsiuntė Teodorui Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną“ - Lietuvos bajorų giminių genealogijų rinkinį. S. Daukantas „Darbų“ pratarmėje rašė, kad kūrinį skyrė ne mokytiems vyrams, o motinoms, pasakojančioms vaikams apie protėvius.
 
 ## Darbai
 
@@ -76,7 +76,7 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 <a id="claim-t-193374"></a>
 - t-004
   global_id: t-193374
-  teiginys: "1—9, Wilno, 1835—1841), ir Simonas Daukantas (1793— 1864), rašęs lietuviškai."
+  teiginys: "S. Daukantas Albertą Vijūką-Kojelavičių vertino kaip už Strijkovskį geresnį lotyniškos Lietuvos istorijos autorių."
   pagrindžia:
     - c-176099
 
@@ -149,7 +149,6 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 - susijęs iš [[objektai/autoriai/Laurynas Ivinskis.md#claim-t-113487|Laurynas Ivinskis]]: M. Balinskis Gazeta Warszawska straipsniuose supažindino skaitytojus su Lauryno Ivinskio kalendoriais.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182792|Michał Baliński Mykolas Balinskis]]: Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m.
 - susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55013|Mykolas Balinskis]]: Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m.
-- susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-186292|Teodoras Narbutas]]: S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų.
 - susijęs iš [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis.md#claim-t-183126|Etninių lietuvių tautinis kultūrinis sąjūdis]]: Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais.
 - susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-187882|Lietuvos bajorija]]: Įvadinio straipsnio autorius XVI–XVIII a. lietuvį istorinėje Lietuvoje apibrėžia kaip bajorą, gynusį politines laisves ir Lietuvos Statuto teises.
 - susijęs iš [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas.md#claim-t-54747|Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]: Istorikų darbai buvo aptarinėjami bajorų pobūviuose.
@@ -182,151 +181,6 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 - susijęs iš [[objektai/zodynas/tautinė sąmonė.md#claim-t-47945|tautinė sąmonė]]: Daukantas lietuvių tautinės sąmonės raidai davė reikšmingų paskatų.
 - susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192300|dziejopis]]: Narbutas nurodė: Daukanto žodyne „dziejopis“ pateikiamas kaip „wejkaluraszytojas“, o „dziejopisarz“ siejamas su „latopisiec“.
 - susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192302|dziejopis]]: Narbutas nurodė: Simonas Daukantas „dziejopis“ („dziejopisarz“) siejo su „latopisiec“, t. y. „meturaszitojas“.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
-    buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
-    tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
-    parašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo
-    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
-    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
-    europietiškos katalikiškos civilizacijos šalininkas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'S. Daukantas atsiuntė Teodorui Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną“ - Lietuvos bajorų giminių genealogijų rinkinį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pradžia jau buvo padaryta:
-    išleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-
-    jūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­
-    nealogijų rinkinį. Bet istorijos šaltinių leidimas nejudėjo iš vie­
-    tos. Nusivylęs T. Narbutu ir negavęs jam nusiųsto „Herbyno“,
-    S. Daukantas nutraukė su juo santykius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'S. Daukantas „Darbų“ pratarmėje rašė, kad kūrinį skyrė ne mokytiems vyrams, o motinoms, pasakojančioms vaikams apie protėvius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Galbūt geriausiai šį faktą paaiškintų paties
-    S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
-    kytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba
-    savo vaikams darbus jų bočių prabočių papasakoti, o be raštų
-    daug kartų apsirinka“12.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: '1—9, Wilno, 1835—1841), ir Simonas Daukantas (1793— 1864), rašęs lietuviškai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Žymiausi Lietu­
-    vos istorikai romantikai — Teodoras Narbutas (1784—
-    1864), rašęs lenkiškai (Dzieje narodu litewskiego. T.
-    1—9, Wilno, 1835—1841), ir Simonas Daukantas (1793—
-    1864), rašęs lietuviškai. S. Daukanto istorijos skaityto­
-    jai turėjo būti raštingi valstiečiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jau tuomet pripažinta, kad
-    tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
-    Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
-    tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
-    vienas kitas), kurie susitarė kryp-
-    tingai plėtoti aukštosios kultūros
-    kūrimo lietuvių (žemaičių) kalba
-    darbą, o sykiu rūpintis lietuvių
-    ir žemaičių liaudies švietimu jų
-    gimtąja kalba (nors žemaičius
-    kai kas tuomet laikė atskiru,
-    etniniams lietuviams giminingu
-    etnosu, bet jie patys save laikė
-    vieno dvilypio lietuvių-žemaičių
-    etnoso dalimi). Ši grupelė ir lai-
-    koma etninių lietuvių tautinio
-    kultūrinio sąjūdžio pradininkais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
-    parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
-    plito nuorašais. Vėliau S. Daukantas persikėlė į Sankt Peterburgą, įsidar-
-    bino Rusijos valstybės Senato archyve, kad galėtų prieiti prie ten saugomų
-    Lietuvos istorijos dokumentų, parašė lietuvių kalba dar dvi dideles Lietu-
-    vos istorijos knygas, išleido plačią beletrizuotą etninių lietuvių kultūros
-    studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“, seriją švietėjiškų,
-    Simonas Daukantas. Dail. J. Zenkevičius,
-    1850 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių tautos istoriją.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš
-    tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet
-    veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­
-    vo. Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
-    čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
-    tautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­
-    ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
-    formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
-    mą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
 ## Citatos
 
 - id: c-48384
@@ -352,15 +206,18 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 - id: c-171363
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 12"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 12."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pradžia jau buvo padaryta:
-    išleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-
-    jūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­
-    nealogijų rinkinį. Bet istorijos šaltinių leidimas nejudėjo iš vie­
-    tos. Nusivylęs T. Narbutu ir negavęs jam nusiųsto „Herbyno“,
-    S. Daukantas nutraukė su juo santykius.
+    Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­
+    ti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­
+    ciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­
+    rėjas 1864 m. lapkričio 26 d. mirė Vilniuje. Rusijos valdžia
+    Saurų dvarą sekvestravo. Knygas, archyvus, muziejaus ekspo­
+    natus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­
+    ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
+    ir rankraščius išgabenti. Taip nyko dešimtmečius kaupta bib­
+    lioteka, istorijos dokumentų archyvas, nespausdinti darbai.
+  citata_rodoma: "Pradžia jau buvo padaryta:\nišleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-\njūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­\nnealogijų rinkinį. Bet istorijos šaltinių leidimas nejudėjo iš vie­\ntos. Nusivylęs T. Narbutu ir negavęs jam nusiųsto „Herbyno“,\nS. Daukantas nutraukė su juo santykius."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -371,14 +228,19 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 - id: c-171364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 50."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Galbūt geriausiai šį faktą paaiškintų paties
-    S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
-    kytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba
-    savo vaikams darbus jų bočių prabočių papasakoti, o be raštų
-    daug kartų apsirinka“12.
+    Kaip rodo antro LTI tomo parankinis egzem­
+    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
+    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
+    ma nemažai šio žemaičių literato rankraščių. Antra vertus, var­
+    gu ar būtume teisūs kalbėdami apie šį D. Poškos testamentą,
+    kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
+    poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
+    timi. Ir vis dėlto šis straipsnis rodo bendrą lygį, bendrą nuotai­
+    ką, gimstantį norą rašyti patiems, t. y. tokiu būdu išvengti klai­
+    dų, kurias sąmoningai ar nesąmoningai darė kiti.
+  citata_rodoma: "Galbūt geriausiai šį faktą paaiškintų paties\nS. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­\nkytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba\nsavo vaikams darbus jų bočių prabočių papasakoti, o be raštų\ndaug kartų apsirinka“12."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -389,15 +251,22 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 - id: c-176099
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 29"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 29."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Žymiausi Lietu­
-    vos istorikai romantikai — Teodoras Narbutas (1784—
-    1864), rašęs lenkiškai (Dzieje narodu litewskiego. T.
-    1—9, Wilno, 1835—1841), ir Simonas Daukantas (1793—
-    1864), rašęs lietuviškai. S. Daukanto istorijos skaityto­
-    jai turėjo būti raštingi valstiečiai.
+    Antras Vij ūkas-Koj alavičius (arba, kaip lietuviai va­
+    dina, Kojalas), gimimo lietuvis nuo Kauno, jezavitas,
+    garsus moksle savo amžiuje, pagailęs savo giminės už­
+    mirštos ir apleistos, surašė lotyniškai jos darbus. Daug
+    geresnis yra už Strijkauskį: kaipogi išguldymas darbų,
+    skaistumas kalbos, aiškumas žodžių nebgali būti ge­
+    resnis nė kokiame rašte, taip jog skaitytojas, perbėg­
+    damas darbus, pirm kelių šimtų metų buvusius, tarias
+    šalip jų bestovįs. Vienok jo istorija yra trumpa ir
+    daug dar trūksta, užvis toje daly, kurioj aprašo darbus
+    pagonų lietuvių, žemaičių; bet jaunam lietuviui ar že­
+    maičiui, norinčiam išmokti lotyniškai, nebreikia geres­
+    nės knygos" (Raštai.
+  citata_rodoma: "Žymiausi Lietu­\nvos istorikai romantikai — Teodoras Narbutas (1784—\n1864), rašęs lenkiškai (Dzieje narodu litewskiego. T.\n1—9, Wilno, 1835—1841), ir Simonas Daukantas (1793—\n1864), rašęs lietuviškai. S. Daukanto istorijos skaityto­\njai turėjo būti raštingi valstiečiai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

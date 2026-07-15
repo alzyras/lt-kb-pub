@@ -35,26 +35,6 @@ Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų 
   teiginys: "Vytautas protestavo prieš numatomą neteisybę ir įspėjo lenkus dėl mėginimo atplėšti Palenkę, Voluinę ir Braclavą."
   pagrindžia:
     - c-02317
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę,
-    kuri mums būtų padaryta. Jei tas įvyks, mes ieškosim paramos ir dė-
-    simės pirmiausia su valdovais krikščionimis, o paskui net su pagoni-
-    mis" ... Tai buvo įspėjimas lenkams, norintiems atplėšti kai kurias
-    Lietuvos žemes (Palenkę, Voluinę ir Lietuvai likusį Podolės Bracla-
-    vą), dėl kurių abi valstybės rungėsi XIV ir XV amž. Tuo būdu Lie-
-    tuva grasino susitaikinti ir susijungti ne tik su Maskva, bet ir su
-    Lenkijai baisiais totoriais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

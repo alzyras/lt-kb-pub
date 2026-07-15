@@ -56,29 +56,6 @@ Nenurodyta
   teiginys: "Į Prūsiją atvykę Anglijos ir Prancūzijos savanoriai pagal to meto paprotį noriai eidavo kariauti su pagonimis."
   pagrindžia:
     - c-83207
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Į Prūsiją atvykę Anglijos ir Prancūzijos savanoriai pagal to meto paprotį noriai eidavo kariauti su pagonimis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kai rug­
-    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
-    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
-    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
-    jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
-    vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
-    esanti pagonių šalis. Galop ta galinga kariauna išsiruošė į
-    žygį vedama vyriausiojo vado Ordino maršalo Engelhardo
-    Rabės22, kadangi didysis magistras Konradas Ciolneris gu­
-    lėjo pakirstas sunkios ligos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

@@ -35,37 +35,6 @@ Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi
   teiginys: "Juzefo Mianovskio užmiesčio namas, pramintas Belvederiu, stovėjo spėjamoje senosios liejyklos vietoje."
   pagrindžia:
     - c-83716
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Juzefo Mianovskio užmiesčio namas, pramintas Belvederiu, stovėjo spėjamoje senosios liejyklos vietoje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Sklypas, skir­
-    tas fabrikui statyti, buvo „prie Vil­
-    niaus miesto, už Vilijos upės, tarp
-    karaliaus šunidės ir Vilniaus vaiva­
-    dos ir karaliaus kanclerio Hlebavi-
-    čiaus plytinės", perduotas Paleckio
-    žiniai, karaliaus valia, per Vilniaus
-    gorodničių Povilą Giedraitį. Atrodo,
-    kad anoji liejykla buvusi toje vieto­
-    je, kur dabar stovi Medicinos Chi­
-    rurgijos Akademijos adjunkto pono
-    Juzefo Mianovskio užmiesčio na­
-    mas, pramintas Belvederiu. Atsi­
-    žvelgdamas į Paleckio prašymą, ka­
-    ralius suteikė tik jam ir jo palikuo­
-    nims teisę supirkti visokių rūšių į
-    Vilnių iš Lenkijos vežamą stiklą, iš­
-    skyrus Venecijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 

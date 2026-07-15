@@ -44,21 +44,6 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
   teiginys: "`Įšleitė` šiame tekste reiškia geografinę sritį, panašią į pašlaitę, slėnį ar įdubą."
   pagrindžia:
     - c-09771
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    kuri kalva dalija tą sluoksnį į dvi įšleiti^75 : į pietinę ir šiaurinę, nuo to, jog visos upės pietinėj įšleitėj
-        teka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir
-        Isteris, arba Dunojus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
